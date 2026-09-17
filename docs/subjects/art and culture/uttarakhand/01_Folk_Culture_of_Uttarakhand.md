@@ -1,6 +1,6 @@
-# Topic 1 — Folk Culture, Aipan, Jagar & Ritual Heritage of Uttarakhand
+# Topic 1 — Folk (लोक) Culture, Aipan (ऐपण), Jagar (जागर) & Ritual (कर्मकाण्ड) Heritage of Uttarakhand (उत्तराखंड)
 
-### ★ UKPCS state card (Unit 1 — History & Culture of Uttarakhand)
+### ★ UKPCS state card (Unit 1 — History (इतिहास) & Culture of Uttarakhand)
 
 > **Sources:** UNESCO Intangible Cultural Heritage list (Ramman 2009), Geographical Indications (GI) Registry (Aipan 2021), Directorate of Culture Uttarakhand, UKPCS PYQ stems (Aipan Biswar & Geru, Jagar Jagaria vs Dangariya, Hiljatra Lakhia Bhoot, Ramman masks, Pawada heroic ballads).  
 > **Pair with:** [Dances, Music & Fairs](02_Dances_Music_and_Fairs.md) · [Heritage Institutes](03_Heritage_and_Cultural_Institutes.md) · [Ancient Tribes](../../ancient%20history/uttarakhand/02_Ancient_Tribes_of_Uttarakhand.md)
@@ -11,14 +11,14 @@
 
 | Head | Key Fact |
 | :--- | :--- |
-| **Aipan (Ritual Folk Art)** | **Kumaon** floor/wall art made with **Geru** (red ochre) and **Biswar** (white rice paste); **GI Tag 2021** |
-| **Aipan Special Chauki** | *Dhuli Arghya Chauki* (wedding ritual); *Lakshmi Padchinha* (Diwali footprints) |
-| **Jagar Ritual** | Shamanic spirit invocation; **Jagaria** (singer/chanter) + **Dangariya** (spirit medium in trance) |
-| **Hiljatra Festival** | **Pithoragarh (Sor Valley)** agricultural festival; central iconic figure: **Lakhia Bhoot** |
-| **Ramman (UNESCO Heritage)** | Celebrated at **Saloor-Dungra** (Chamoli); inscribed on **UNESCO Intangible Heritage in 2009** |
-| **Ramman Deity & Masks** | Dedicated to **Bhumiyal Devta**; 18 wooden masks (*Mukhota*: Dyot Pattar & Khyari Pattar) |
-| **Pawada / Bhada** | Heroic folk ballads narrating martial exploits of warriors (Madho Singh, Kafu Chauhan, Jeetu Bagdwal) |
-| **Khuded Geet** | Melancholy songs of newlywed brides longing for their maternal home (*Mait*) |
+| **Aipan (Ritual Folk Art (लोक कला))** | **Kumaon** (कुमाऊँ) floor/wall art made with **Geru** (गेरू) (red ochre) and **Biswar** (बिसवार) (white rice paste); **GI Tag (भौगोलिक संकेत) 2021** |
+| **Aipan Special Chauki** | *Dhuli Arghya Chauki* (wedding ritual); *Lakshmi Padchinha* (Diwali (दिवाली) footprints) |
+| **Jagar Ritual** | Shamanic spirit invocation; **Jagaria** (जगरिया) (singer/chanter) + **Dangariya** (डंगरिया) (spirit medium in trance) |
+| **Hiljatra (हिलजात्रा) Festival** | **Pithoragarh (पिथौरागढ़) (Sor Valley)** agricultural festival; central iconic (साकार) figure: **Lakhia Bhoot** (लाखिया भूत) |
+| **Ramman (रम्माण) (UNESCO Heritage)** | Celebrated at **Saloor-Dungra** (सलूर-डुंगरा) (Chamoli (चमोली)); inscribed on **UNESCO Intangible Heritage (अभौतिक विरासत) in 2009** |
+| **Ramman Deity & Masks** | Dedicated to **Bhumiyal Devta** (भूमियाल देवता); 18 wooden masks (*Mukhota*: Dyot Pattar & Khyari Pattar) |
+| **Pawada (पावाड़ा) / Bhada** | Heroic folk ballads narrating martial exploits of warriors (Madho Singh, Kafu Chauhan, Jeetu Bagdwal) |
+| **Khuded (खुदेड) Geet** | Melancholy songs of newlywed brides longing for their maternal home (*Mait*) |
 | **Bair Songs** | Intellectual lyrical duels and verbal poetic sparring between bards in Kumaon |
 | **Neoli Geet** | Romantic lyrical folk songs of Kumaon expressing separation and love |
 
@@ -26,7 +26,7 @@
 
 ## Must-Score Facts (High-Yield UKPCS)
 
-1. **Aipan Raw Materials & GI Tag:**
+1. **Aipan Raw (रॉ) Materials & GI Tag:**
    - Ground wash: **Geru** (natural red clay / ochre).
    - Painted motifs: **Biswar** (wet rice soaked overnight and ground into a fine white paste).
    - Applied using the ring finger (*Anamika*) and middle finger of the right hand.
@@ -37,11 +37,11 @@
 3. **Ramman Festival (UNESCO 2009):**
    - Village: **Saloor-Dungra** (Painkhanda / Joshimath block, Chamoli).
    - Declared **UNESCO Intangible Cultural Heritage of Humanity on 2 October 2009**.
-   - Timing: Annual festival in late April (Baisakhi season); dedicated to **Bhumiyal Devta**.
-   - Performance: Enactment of Ramayana episodes without spoken dialogue, using 18 distinctive carved wooden masks (*Mukhota*).
+   - Timing: Annual festival in late April (Baisakhi (बैसाखी) season); dedicated to **Bhumiyal Devta**.
+   - Performance: Enactment of Ramayana (रामायण) episodes without spoken dialogue, using 18 distinctive carved wooden masks (*Mukhota*).
 4. **Hiljatra & Lakhia Bhoot (Pithoragarh):**
    - Practiced exclusively in the **Sor Valley (Pithoragarh)** during the rainy season paddy planting (*Ropai*).
-   - Mythological tradition received from Nepal (Kathmandu Indra Jatra).
+   - Mythological tradition received from Nepal (Kathmandu Indra (इन्द्र) Jatra (यात्रा)).
    - The climax of the performance is the entrance of **Lakhia Bhoot** (a ferocious attendant of Lord Shiva wearing a horned mask and black hair) who blesses the villagers for fertile crops and cattle protection.
 
 ---
@@ -61,14 +61,14 @@
 
 1. **Dhuli Arghya Chauki:** Specially drawn at the main entrance courtyard (*Aangan*) of the bride’s home to welcome the bridegroom (*Dulha*) during the Dhuli Arghya ritual. Features a central Swastika, surrounded by concentric geometric bands, conch shells (*Shankha*), and stylized lotus petals.
 2. **Lakshmi Padchinha (Divine Footprints):** Drawn on Diwali night. Small white footprints are painted starting from the main threshold and proceeding inside towards the prayer room (*Puja Kaksh*), symbolizing Goddess Lakshmi's entry. Round dots (*Binda*) are placed inside each footprint.
-3. **Jyoti Patta (Jeev Matrika):** Elaborate wall painting executed during naming ceremonies (*Namkaran*), sacred thread (*Yajnopavit*), and weddings, representing the deities, sun, moon, constellations, and the family genealogy.
-4. **Asan Chauki:** Square design drawn on wooden seats (*Asana*) used by the bride, groom, or priests during Vedic pujas.
+3. **Jyoti Patta (पट्टा) (Jeev Matrika):** Elaborate wall painting executed during naming ceremonies (*Namkaran*), sacred thread (*Yajnopavit*), and weddings, representing the deities, sun, moon, constellations, and the family genealogy.
+4. **Asan (आसन) Chauki:** Square design drawn on wooden seats (*Asana* (आसन)) used by the bride, groom, or priests during Vedic pujas.
 
 ---
 
 ## The Jagar Tradition: Shamanic Spirit Invocation
 
-- **Core Concept:** In the Central Himalaya, *Jagar* is an ancient pre-Vedic institutional practice of appeasing and communicating with village gods (*Devtas*), departed ancestors (*Pitras*), and folk heroes.
+- **Core Concept:** In the Central Himalaya (हिमालय), *Jagar* (जागर) is an ancient pre-Vedic institutional practice of appeasing and communicating with village gods (*Devtas*), departed ancestors (*Pitras*), and folk heroes.
 - **Key Deities Invoked:**
   - **Golu Devta (Gwal Devta):** God of Justice (*Nyay ke Devta* — shrines at Chitai and Ghorakhal).
   - **Narsingh Devta:** Fierce protector deity.
@@ -87,10 +87,10 @@
 
 | Dimension | Factual & Epigraphic Details |
 | :--- | :--- |
-| **Location & Community** | **Saloor-Dungra village**, near Joshimath in **Chamoli district**. Managed by the Bhandari Rajput community and Gram Sabha. |
-| **UNESCO Recognition** | Inscribed on the **UNESCO Representative List of Intangible Cultural Heritage of Humanity** on **2 October 2009**. |
+| **Location & Community** | **Saloor-Dungra village**, near Joshimath in **Chamoli district**. Managed by the Bhandari Rajput (राजपूत) community and Gram Sabha (ग्राम सभा). |
+| **UNESCO Recognition (मान्यता)** | Inscribed on the **UNESCO Representative List (प्रतिनिधि) of Intangible Cultural Heritage of Humanity** on **2 October 2009**. |
 | **Presiding Deity** | **Bhumiyal Devta** (the local guardian earth deity); the festival culminates when the deity’s idol shifts to a new villager's home for annual custody. |
-| **Two Categories of Masks**| 1. **Pattar (Dyot Pattar):** Sacred divine masks depicting **Lord Narsingh** (most revered), Rama, Sita, Lakshmana, and Hanuman. <br>2. **Khyari Pattar:** Comic and secular masks representing historical and social characters. |
+| **Two Categories of Masks**| 1. **Pattar (Dyot Pattar):** Sacred divine masks depicting **Lord Narsingh** (most revered), Rama, Sita (सीता), Lakshmana, and Hanuman. <br>2. **Khyari Pattar:** Comic and secular masks representing historical and social characters. |
 | **Celebrated Dance Acts** | - **Mal-Nrit (Dance of the Wrestlers):** Depicts the combat between a Gorkha warrior and a local Garhwali warrior. <br>- **Kurukhyo Dance:** Enacts the stealing of sheep by thieves and wild animals. <br>- **Baniya-Baniyan Dance:** Humorous satire depicting a plains trader being robbed. |
 | **Musical Instruments** | Rhythmic tempo provided by **Dhol-Damau** and high-pitched copper **Bhankoras**. |
 
@@ -98,15 +98,15 @@
 
 ## Classification of Uttarakhand Folk Songs (Geet)
 
-| Folk Song Genre | Linguistic Zone | Performance Occasion & Emotional Essence |
+| Folk Song (सोंग) Genre | Linguistic Zone | Performance Occasion & Emotional Essence |
 | :--- | :--- | :--- |
-| **Pawada / Bhada** | Garhwal & Kumaon | **Martial & Heroic Ballads:** Epic songs praising historical chivalry (e.g., Madho Singh Bhandari, Kafu Chauhan, Ranajita Pundir). |
+| **Pawada / Bhada** | Garhwal (गढ़वाल) & Kumaon | **Martial & Heroic Ballads:** Epic songs praising historical chivalry (e.g., Madho Singh Bhandari, Kafu Chauhan, Ranajita Pundir). |
 | **Khuded Geet** | Garhwal | **Songs of Separation & Yearning:** Sung by women in terraced fields expressing longing for their maternal home (*Mait*) and mother (*Boi*). |
 | **Mangal Geet** | Garhwal & Kumaon | **Auspicious Ceremonial Songs:** Sung by professional elderly women (*Mangal-mukhi*) during weddings, thread ceremonies, and births. |
 | **Bair Geet** | Kumaon | **Intellectual Folk Debates:** Competitive, improvised rhyming songs where two opposing bards challenge each other's mythological and worldly knowledge. |
 | **Neoli Geet** | Kumaon | **Lyrical Romantic Poetry:** Expresses love, beauty of nature, and pangs of separation. |
-| **Jhumailo** | Garhwal | **Spring Celebration:** Group songs welcoming the arrival of spring (*Basant*) and blossoming of *Buransh* flowers. |
-| **Hurkiya Baul** | Kumaon | **Agrarian Paddy Songs:** Sung during paddy transplantation (*Ropai*) accompanied by the *Hurka* drum. |
+| **Jhumailo** (झुमैलो) | Garhwal | **Spring Celebration:** Group songs welcoming the arrival of spring (*Basant*) and blossoming of *Buransh* (बुरांश) flowers. |
+| **Hurkiya Baul** (हुड़किया बौल) | Kumaon | **Agrarian Paddy Songs:** Sung during paddy transplantation (*Ropai*) accompanied by the *Hurka* drum. |
 
 ---
 
@@ -122,25 +122,6 @@
 
 ---
 
-## Hindi spell — hard names
-
-Write these in Devanagari as given. One name, one spelling.
-
-| English | Hindi |
-|---------|-------|
-| Aipan | ऐपण |
-| Jagar | जागर |
-| Jagaria | जगरिया |
-| Dangariya | डंगरिया |
-| Ramman | रम्माण |
-| Hiljatra | हिलजात्रा |
-| Lakhia Bhoot | लाखिया भूत |
-| Nanda Raj Jat | नंदा राज जात |
-| Pawada | पावाड़ा |
-| Khuded | खुदेड |
-| Geru / Biswar | गेरू / बिसवार |
-
----
 
 ## UKPCS Inline & Practice Questions
 
@@ -168,7 +149,7 @@ D. 2016
 **Q4.** The iconic character 'Lakhia Bhoot' is the central attraction of which traditional agricultural folk festival in Uttarakhand?  
 A. Hiljatra of Pithoragarh  
 B. Ramman of Chamoli  
-C. Devidhura Bagwal of Champawat  
+C. Devidhura (देवीधुरा) Bagwal (बग्वाल) of Champawat (चंपावत)  
 D. Bissu Mela of Jaunsar  
 *Answer:* **A** (Hiljatra of Sor Valley, Pithoragarh).
 

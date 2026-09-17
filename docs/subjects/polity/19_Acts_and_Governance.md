@@ -38,7 +38,7 @@
 4. RTI section **22** makes RTI override the Official Secrets Act to that extent; it does **not** repeal the Official Secrets Act.
 5. The RTE Act **2009** (in force **1 April 2010**) covers ages **6–14**. Neighbourhood norms are about **1 km** (primary) and **3 km** (upper primary). Private schools reserve **25%** under section **12(1)(c)**. School Management Committees must be **three-fourths** parents. PTR is **1:30**.
 6. The National Food Security Act **2013** covers up to **75%** of the rural and **50%** of the urban population. Prices are **₹3 / ₹2 / ₹1** for rice, wheat, and coarse grains. Antyodaya gets **35 kg** per household. A woman aged **18 or more** is treated as household head. Do **not** date NFSA as **5 September 2010**.
-7. The Forest Rights Act **2006** starts recognition at the **Gram Sabha**. Eligible groups include Scheduled Tribes and Other Traditional Forest Dwellers with a **75-year** occupation test as on **13 December 2005**. Individual rights are capped around **4 hectares**. The nodal ministry is **Tribal Affairs**.
+7. The Forest Rights Act **2006** starts recognition at the **Gram Sabha** (ग्राम सभा). Eligible groups include Scheduled Tribes and Other Traditional Forest Dwellers with a **75-year** occupation test as on **13 December 2005**. Individual rights are capped around **4 hectares**. The nodal ministry is **Tribal Affairs**.
 8. The Protection of Human Rights Act **1993** has a **one-year** limitation for complaints. After the **2019** change, the NHRC Chair must be a **retired Supreme Court judge**. NHRC recommendations are **recommendatory**.
 9. The Consumer Protection Act **2019** lists **six** consumer rights, creates the **CCPA**, adds product liability and e-commerce coverage, and uses district pecuniary jurisdiction up to **₹50 lakh**. World Consumer Rights Day is **15 March**; National Consumer Day is **24 December**.
 10. The Whistle Blowers Protection Act **2014** makes identity revelation an offence for disclosures about a **public authority**. It is **not** the same as RTI, Lokpal, or the PIDPI resolution.
@@ -129,7 +129,7 @@ This chapter is about **which Act, which year, and which coverage trap** — plu
 - The modes of acquiring citizenship come from **Article 11** read with the **Citizenship Act, 1955**.
 - **RPA 1950** covers electoral rolls; **RPA 1951** covers the conduct of elections.
 - The **UAPA** is tried through the ordinary criminal-trial route, while **AFSPA** applies only to a notified "disturbed area".
-- The **CAG** audits government accounts, but bodies like the **NHRC**, **CIC**, and **NDMA** are **statutory** creations of their respective Acts — not constitutional bodies.
+- The **CAG** audits government accounts, but bodies like the **NHRC** (राष्ट्रीय मानव अधिकार आयोग), **CIC**, and **NDMA** are **statutory** creations of their respective Acts — not constitutional bodies.
 
 ---
 
@@ -523,7 +523,7 @@ If a paper mixes “important Acts”: Regulating **1773** · Pitt **1784** · C
 - The **Official Secrets Act, 1923** was **not repealed** by the RTI Act; RTI's **s.22** only overrides it to the extent of any inconsistency.
 - The **PCR (Untouchability) Act, 1955** protects civil rights; its heavier neighbour is the **PoA Act, 1989**.
 - The **Bonded Labour System (Abolition) Act, 1976** identifies, frees, and rehabilitates bonded labourers.
-- The **Water (Prevention and Control of Pollution) Act, 1974** was India's first major pollution statute, and it created the **CPCB** and the **SPCBs**.
+- The **Water (Prevention and Control of Pollution) Act, 1974** was India's first major pollution statute, and it created the **CPCB** (केंद्रीय प्रदूषण नियंत्रण बोर्ड) and the **SPCBs**.
 - The **Wildlife Protection Act, 1972** maintains schedules of protected species, created the **NBWL**, and was amended in **2022** to rationalise those schedules.
 - Under the **Forest (Conservation) Act, 1980**, diversion of forest land for a non-forest purpose needs the **Central Government's** approval.
 - The **Air (Prevention and Control of Pollution) Act, 1981** came after the Water Act of 1974.
@@ -546,7 +546,7 @@ If a paper mixes “important Acts”: Regulating **1773** · Pitt **1784** · C
 - The **Rights of Persons with Disabilities Act, 2016** replaced the **PWD Act, 1995**, raised the disability benchmark to **40%**, and raised the reservation quota to **4%** from 3%.
 - The **Insolvency and Bankruptcy Code, 2016** created the **IBBI** and set resolution timelines (330/180 days, as amended).
 - The **Compensatory Afforestation Fund Act, 2016** gave the **CAMPA** fund statutory backing.
-- The **101st Amendment** brought in **GST, 2017**, with the **GST Council** under **Art. 279A** running the dual-GST structure.
+- The **101st Amendment** brought in **GST, 2017**, with the **GST Council** (जीएसटी परिषद) under **Art. 279A** running the dual-GST structure.
 - The **Mental Healthcare Act, 2017** allows an advance directive, decriminalises a suicide attempt under **s.115**, and treats it as a mental-health issue rather than a crime.
 - The **Transgender Persons (Protection of Rights) Act, 2019** protects transgender identity, bars discrimination, and set up a National Council.
 - The **Companies Act, 2013** made CSR spending mandatory under **s.135**, and created the **SFIO** along with the **NCLT/NCLAT** tribunal structure.
@@ -648,7 +648,7 @@ The idea began in the **UK in 1991 under John Major** — not Thatcher, and not 
 **Right to Public Services / Janhit Guarantee laws are not the same as a Charter.** These are State **Acts** that make listed services time-bound and penalise the responsible officer for delay — a Charter is only a promise, while an RTS law is a **statute**.
 
 - The first comprehensive Right to Public Services Act was passed by **Madhya Pradesh in 2010**.
-- **Uttar Pradesh** passed its own version as the **Uttar Pradesh Janhit Guarantee Adhiniyam, 2011**.
+- **Uttar Pradesh** (उत्तर प्रदेश) passed its own version as the **Uttar Pradesh Janhit Guarantee Adhiniyam, 2011**.
 - The real teeth of these laws are a time-limit on the service, a **penalty on the designated officer** for delay, and an appellate officer to hear complaints.
 - Do **not** write that "India has a Union Citizen Charter Act" — Union Charters remain DARPG documents, while **States** are the ones that passed RTS statutes.
 
@@ -675,7 +675,7 @@ The World Bank's own **WGI** framework instead uses six indicators: Voice & Acco
 - Its slogan is "minimum government, maximum governance".
 - The **Good Governance Index** was first released by **DARPG** in **2019**.
 - The **NCGG** (National Centre for Good Governance) works under DARPG, with campuses at Mussoorie and Delhi.
-- An older World Bank list of **four** ideas — accountability, transparency, predictability/legal framework, and participation — is **not** a rival to the UNDP's eight; do not mix up the two counts.
+- An older World Bank list of **four** (चातुर्याम) ideas — accountability, transparency, predictability/legal framework, and participation — is **not** a rival to the UNDP's eight; do not mix up the two counts.
 - A classical Indian reference point is Kautilya's line that the welfare of the people is the welfare of the ruler — this is colour for an answer, not a PYQ date to memorise.
 
 ---
@@ -822,7 +822,7 @@ D. Only 1
 
 ## Civil Services Neutrality
 
-This idea traces to the Westminster "steel frame" (a phrase associated with **Sardar Patel**), resting on **neutrality, anonymity, permanence, and integrity**. The **CCS Conduct Rules, 1964** are **not** the same thing as the 1970s "committed bureaucracy" slogan.
+This idea traces to the Westminster "steel frame" (a phrase associated with **Sardar Patel** (सरदार पटेल)), resting on **neutrality, anonymity, permanence, and integrity**. The **CCS Conduct Rules, 1964** are **not** the same thing as the 1970s "committed bureaucracy" slogan.
 
 - **Neutrality** means no party work, and giving the same quality of advice to whichever party is in power.
 - **Anonymity** means the minister is **publicly** responsible to the House, while the civil servant's file advice stays internal.
@@ -868,7 +868,7 @@ The **1997** Conference of Chief Ministers also floated a draft Code of Ethics, 
 **Lateral entry** is run by the **DoPT/UPSC**, starting with Joint Secretary-level posts advertised from **2018**. It brings in domain specialists on a **3-year contract**, and is **not** a replacement for the regular Civil Services Examination.
 
 - The idea of bringing in **domain specialists** at the **JS / Director / Deputy Secretary** level traces back to the 2nd ARC, the Hota Committee, and the NITI Aayog.
-- The **DoPT** advertised the first window in **2018**, and the **UPSC** conducts the selection; the contract runs for **3 years**, extendable to **5**.
+- The **DoPT** advertised the first window in **2018**, and the **UPSC** (संघ लोक सेवा आयोग) conducts the selection; the contract runs for **3 years**, extendable to **5**.
 - The first batch joined at JS level in **2019** — **10** JS posts were advertised, and **9** officers actually joined that year.
 - Later rounds also advertised Deputy Secretary and Director-level posts.
 - A **2024** controversy arose over reservation and roster application, leading some advertisements to be recast — this does **not** mean "the UPSC CSE was abolished".

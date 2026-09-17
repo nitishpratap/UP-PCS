@@ -16,9 +16,9 @@ Indian Music | Hindustani Classical Music | Carnatic Classical Music | Major Gha
 ## Current Affairs
 
 - Ustad **Zakir Hussain**, the tabla maestro, died in **December 2024**. He received the Padma Vibhushan in **2023**.
-- The **Sangeet Natak Akademi** was founded in **1952**.
+- The **Sangeet Natak Akademi** (संगीत नाटक अकादेमी) was founded in **1952**.
 - Vedic chanting entered UNESCO ICH in **2008**.
-- Manipuri **Sankirtana** entered UNESCO ICH in **2013**.
+- Manipuri **Sankirtana** (संकीर्तन) entered UNESCO ICH in **2013**.
 
 
 ---
@@ -26,28 +26,28 @@ Indian Music | Hindustani Classical Music | Carnatic Classical Music | Major Gha
 
 ## Consolidated Must-Score Facts
 
-1. In Indian tradition, **Sangeet** encompasses the triad of **gita** (vocal music), **vadya** (instrumental music), and **nritya** (dance). The earliest textual foundation for sacred melodic chanting is the **Samaveda**.
-2. Theory roots are **Natyashastra** by **Bharata Muni** and the first clear use of the word **raga** in **Matanga**’s *Brihaddeshi*.
-3. The medieval encyclopedia is **Sangeet Ratnakar** by **Sharngadeva** (**13th** century, Devagiri).
+1. In Indian tradition, **Sangeet** encompasses the triad of **gita** (vocal music), **vadya** (instrumental music), and **nritya** (नृत्य) (dance). The earliest textual foundation for sacred melodic chanting is the **Samaveda** (सामवेद).
+2. Theory roots are **Natyashastra** (नाट्यशास्त्र) by **Bharata Muni** (भरत मुनि) and the first clear use of the word **raga** in **Matanga**’s *Brihaddeshi* (बृहद्देशी).
+3. The medieval encyclopedia is **Sangeet Ratnakar** (संगीत रत्नाकर) by **Sharngadeva** (शार्ङ्गदेव) (**13th** century, Devagiri).
 4. There are **seven** swaras (**Sa Re Ga Ma Pa Dha Ni**) and traditionally **22** shrutis in an octave.
-5. **Hindustani** is the north Indian system of khayal / dhrupad, tabla / pakhawaj, and gharanas. **Carnatic** is the south Indian system of kriti, **72** melakarta, and mridangam.
-6. **Dhrupad** is the oldest surviving classical form and uses **pakhawaj. Khayal** is dominant today and uses **tabla**.
-7. **Thumri** is light romantic song of the Awadh–Banaras belt. **Tappa** has camel-song origin and is linked with **Muhammad Shah**’s court, not Akbar.
-8. **Tarana** uses nonsense syllables. **Qawwali** is linked with **Amir Khusrau** at Nizamuddin’s circle.
-9. The Carnatic Trinity is **Tyagaraja** (Telugu Rama kritis), **Muthuswami Dikshitar** (Sanskrit), and **Syama Sastri** (Devi kritis). They are not Tansen’s line.
+5. **Hindustani** (हिंदुस्तानी) is the north Indian system of khayal / dhrupad, tabla / pakhawaj, and gharanas. **Carnatic** (कर्नाटक) is the south Indian system of kriti, **72** melakarta, and mridangam.
+6. **Dhrupad** (ध्रुपद) is the oldest surviving classical form and uses **pakhawaj. Khayal** is dominant today and uses **tabla**.
+7. **Thumri** (ठुमरी) is light romantic song of the Awadh–Banaras belt. **Tappa** (टप्पा) has camel-song origin and is linked with **Muhammad Shah**’s court, not Akbar.
+8. **Tarana** (तराना) uses nonsense syllables. **Qawwali** is linked with **Amir Khusrau** (अमीर खुसरो) at Nizamuddin’s circle.
+9. The Carnatic Trinity is **Tyagaraja** (Telugu Rama kritis), **Muthuswami Dikshitar** (मुत्तुस्वामी दीक्षितर) (Sanskrit), and **Syama Sastri** (श्यामा शास्त्री) (Devi kritis). They are not Tansen’s line.
 10. Treatise matchs are **Ragamala–Pundrik Vitthal**, **Rasa Kaumudi–Sri Kantha**, **Raga Vibodh–Somanath**, and **Chaturdandi Prakashika–Venkatamakhin**.
-11. **Gwalior** is the oldest khayal gharana. **Agra** gharana is of Agra city in UP. **Kirana** gharana is of Kirana village in the western UP belt.
+11. **Gwalior** is the oldest khayal gharana. **Agra** (आगरा) gharana is of Agra city in UP. **Kirana** gharana is of Kirana village in the western UP belt.
 12. Celebrated gharana maestros include **Ustad Bade Ghulam Ali Khan** of the **Patiala** Gharana, **Kishori Amonkar** of the **Jaipur–Atrauli** Gharana, and **Ustad Allauddin Khan** of the **Maihar** Gharana (located in **Madhya Pradesh**, not Uttar Pradesh).
 13. **Kirana** is strongly linked with **Bhimsen Joshi**. Do not place Maihar or Tyagaraja Aradhana inside UP.
-14. Instrument families are **tata** (plucked string), **vitat** (bowed string), **sushira** (wind), **avanaddha** (membrane), and **ghana** (solid / idiophone).
-15. **Tabla** pairs with khayal and thumri. **Pakhawaj** pairs with dhrupad. **Mridangam** is the Carnatic primary drum.
-16. **Shehnai** is the Hindustani reed of Banaras. **Nadaswaram** is the Carnatic temple reed.
-17. **Tansen** was a dhrupad master of Akbar’s Navaratna, earlier at the court of Raja Ramchandra of Bhata / Rewa. He is not part of the Carnatic Trinity.
+14. Instrument families are **tata** (तत्) (plucked string), **vitat** (bowed string), **sushira** (wind), **avanaddha** (अवनद्ध) (membrane), and **ghana** (घन) (solid / idiophone).
+15. **Tabla** pairs with khayal and thumri. **Pakhawaj** pairs with dhrupad. **Mridangam** (मृदंगम्) is the Carnatic primary drum.
+16. **Shehnai** is the Hindustani reed of Banaras. **Nadaswaram** (नादस्वरम्) is the Carnatic temple reed.
+17. **Tansen** (तानसेन) was a dhrupad master of Akbar’s Navaratna, earlier at the court of Raja Ramchandra of Bhata / Rewa. He is not part of the Carnatic Trinity.
 18. Renowned musical legends associated with Uttar Pradesh include **Ustad Bismillah Khan** (shehnai, Varanasi), **Begum Akhtar** (Ghazal and Thumri, Faizabad and Lucknow), and **Girija Devi** (the "Queen of Thumri", Banaras).
-19. Key light-classical traditions of Uttar Pradesh include **Thumri** (nurtured in Lucknow and Banaras), **Kajri** (monsoon songs rooted in Mirzapur and Varanasi), and the Dhrupad legacy of **Swami Haridas** at Vrindavan.
+19. Key light-classical traditions of Uttar Pradesh include **Thumri** (nurtured in Lucknow and Banaras), **Kajri** (कजरी) (monsoon songs rooted in Mirzapur and Varanasi), and the Dhrupad legacy of **Swami Haridas** at Vrindavan.
 20. **Sangeet Natak Akademi** was founded in **1952** at New Delhi as the apex body for music, dance, and theatre.
 21. The chronological conferment of the **Bharat Ratna** upon classical musicians is: **M.S. Subbulakshmi (1998)**, **Pt. Ravi Shankar (1999)**, **Ustad Bismillah Khan (2001)**, and **Pt. Bhimsen Joshi (2008)**.
-22. A **raga** is a melody framework. A **tala** is a beat-cycle. **Teental** is **16** beats. Carnatic **Adi tala** is **8**.
+22. A **raga** is a melody framework. A **tala** (ताल) is a beat-cycle. **Teental** is **16** beats. Carnatic **Adi tala** is **8**.
 23. Vedic chanting is UNESCO ICH **2008**. Manipuri **Sankirtana** is UNESCO ICH **2013**.
 24. The prestigious annual **Tansen Samaroh** is hosted at the tomb of Tansen in **Gwalior, Madhya Pradesh**, not in Uttar Pradesh.
 
@@ -74,39 +74,6 @@ Indian Music | Hindustani Classical Music | Carnatic Classical Music | Major Gha
 
 ---
 
-## Hindi spell — hard names
-
-Write these in Devanagari as given. One name, one spelling.
-
-| English | Hindi |
-|---------|-------|
-| Natyashastra | नाट्यशास्त्र |
-| Brihaddeshi | बृहद्देशी |
-| Sangeet Ratnakar | संगीत रत्नाकर |
-| Sharngadeva | शार्ङ्गदेव |
-| Raga | राग |
-| Tala | ताल |
-| Dhrupad | ध्रुपद |
-| Khayal | ख्याल |
-| Thumri | ठुमरी |
-| Tappa | टप्पा |
-| Tarana | तराना |
-| Qawwali | क़व्वाली |
-| Kriti | कृति |
-| Melakarta | मेलकर्ता |
-| Tyagaraja | त्यागराज |
-| Muthuswami Dikshitar | मुत्तुस्वामी दीक्षितर |
-| Syama Sastri | श्यामा शास्त्री |
-| Ragamala | रागमाला |
-| Chaturdandi Prakashika | चतुर्दंडी प्रकाशिका |
-| Pakhawaj | पखावज |
-| Mridangam | मृदंगम् |
-| Shehnai | शहनाई |
-| Nadaswaram | नादस्वरम् |
-| Kajri | कजरी |
-| Tata / Vitat / Sushira / Avanaddha / Ghana | तत् / वितत् / सुषिर / अवनद्ध / घन |
-
----
 
 ## Must-score facts — forms, treatises, gharanas
 
@@ -150,7 +117,7 @@ Indian art music is built on raga and tala. Two classical branches form after ab
 
 - **Sangeet** is *gita* (vocal) + *vadya* (instrumental) + *nritya* (dance).
 - The earliest musical source in Indian history is the **Samaveda**, comprising liturgical Vedic verses set to melody; it represents sacred chanting rather than modern concert ragas.
-- Bharata’s *Natyashastra* gives the foundational grammar of *jati* melodies.
+- Bharata’s *Natyashastra* gives the foundational grammar of *jati* (जाति) melodies.
 - Matanga’s *Brihaddeshi* (~8th c.) gives the first surviving clear definition of **raga**.
 - Sharngadeva’s *Sangeet Ratnakar* (**13th c.**) is the great medieval compendium before the north–south split widened.
 - The north–south split crystallized during the Delhi Sultanate / Vijayanagara era.
@@ -168,10 +135,10 @@ Indian art music is built on raga and tala. Two classical branches form after ab
 - **Natyashastra** is by Bharata. It treats music + dance + drama together.
 - **Brihaddeshi** is by Matanga. It has the first **raga** word.
 - **Sangeet Ratnakar** is by Sharngadeva. Later writers call him the ocean of music.
-- **Ragamala** is by **Pundrik Vitthal**. It treats raga–ragini families. He also wrote *Sadragachandrodaya* and *Ragamanjari*.
+- **Ragamala** (रागमाला) is by **Pundrik Vitthal**. It treats raga–ragini families. He also wrote *Sadragachandrodaya* and *Ragamanjari*.
 - **Rasa Kaumudi** is by **Sri Kantha**. It treats music, dance and rasa.
 - **Raga Vibodh / Ragavibodha** is by **Somanath** (~**1610**). It has janya–janaka talk. It describes veenas.
-- **Chaturdandi Prakashika** is by **Venkatamakhin / Venkatraman**. It sets out theoretical **melakarta** for Carnatic.
+- **Chaturdandi Prakashika** (चतुर्दंडी प्रकाशिका) is by **Venkatamakhin / Venkatraman**. It sets out theoretical **melakarta** (मेलकर्ता) for Carnatic.
 - **Swaramelakalanidhi** is by Ramamatya (if asked). It is earlier south raga grouping.
 
 > **Logic:** Match the four pairs — **Ragamala–Pundrik, Rasa Kaumudi–Sri Kantha, Raga Vibodh–Somanath, Chaturdandi–Venkatraman**.
@@ -221,14 +188,14 @@ D. 1 2 3 4
 
 - **Dhrupad** is the oldest surviving art form. It is austere. The drum is **Pakhawaj**, not tabla.
 - Dhrupad revival names include **Dagar** bani. The Gwalior court of **Man Singh Tomar** is an early dhrupad home.
-- **Khayal** is the dominant concert form today. The drum is **Tabla**. It has bada (slow) + chhota (fast).
+- **Khayal** (ख्याल) is the dominant concert form today. The drum is **Tabla**. It has bada (slow) + chhota (fast).
 - Khayal bloom is **Niyamat Khan Sadarang** and Adarang at **Muhammad Shah Rangeela’s** court.
-- **Thumri** is light classical. It is romantic *bol banav*. Centres are **Lucknow** and **Banaras** (**UP**).
+- **Thumri** is light classical. It is romantic *bol banav*. Centres are **Lucknow** (लखनऊ) and **Banaras** (**UP**).
 - The primary architect and composer of classical **Tappa** was **Shori Miyan (Ghulam Nabi)** in the 18th-century court of Asaf-ud-Daula; it did not originate under Akbar or Jahangir.
 - **Tarana** is attributed to Amir Khusrau. It uses rhythmic mnemonic syllables (*ta na na dere na*).
-- The semi-classical **Ghazal** tradition in Uttar Pradesh was immortalized by **Begum Akhtar** (Akhtari Bai Faizabadi), associated with Faizabad and Lucknow.
+- The semi-classical **Ghazal** (ग़ज़ल) tradition in Uttar Pradesh was immortalized by **Begum Akhtar** (Akhtari Bai Faizabadi), associated with Faizabad and Lucknow.
 - **Qawwali** is Sufi chorus. **Amir Khusrau** is the disciple of **Nizamuddin Auliya**.
-- **Dadra** is light, like thumri, often 6-beat.
+- **Dadra** (दादरा) is light, like thumri, often 6-beat.
 - **Hori / Kajri / Chaiti** are seasonal light forms. **Kajri** is monsoon of the **Mirzapur–Banaras belt (UP)**.
 
 **PYQ — UPPCS Prelims 2023, Q38**
@@ -253,7 +220,7 @@ D. Muhammad Shah
 
 **South India | kriti | Carnatic bhakti**
 
-- **Kriti** parts are pallavi → anupallavi → charanam. The composer *mudra* sits inside the song.
+- **Kriti** (कृति) parts are pallavi → anupallavi → charanam. The composer *mudra* sits inside the song.
 - **72 Melakarta** are parent (sampurna) ragas. Child ragas are **janya**.
 - The melakarta theory text is **Chaturdandi Prakashika** by **Venkatamakhin**.
 - The concert spine is varnam → kriti (niraval + kalpana swaras) → **Ragam–Tanam–Pallavi** → **tani avartanam**.
@@ -385,7 +352,7 @@ Later set splits string into **Tata** as plucked and **Vitat** as bowed.
 - **Ali Akbar Khan:** Eminent sarod maestro of the Maihar Gharana.
 - **Vilayat Khan:** Celebrated sitar maestro of the Imdadkhani Gharana.
 - **Amjad Ali Khan:** Preeminent sarod maestro of the Gwalior/Senia Bangash lineage.
-- **Ustad Bismillah Khan:** The peerless maestro of the **shehnai**, based in **Varanasi**; he performed at the Red Fort on Independence Day in 1947 and was awarded the **Bharat Ratna in 2001**.
+- **Ustad Bismillah Khan:** The peerless maestro of the **shehnai**, based in **Varanasi** (वाराणसी); he performed at the Red Fort on Independence Day in 1947 and was awarded the **Bharat Ratna in 2001**.
 - **Hariprasad Chaurasia:** Eminent bansuri virtuoso.
 - **Alla Rakha:** Celebrated tabla maestro of the Punjab Gharana.
 - **Zakir Hussain:** Internationally renowned tabla virtuoso; died on **15 Dec 2024**; honored with the Padma Vibhushan in **2023**.

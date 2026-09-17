@@ -4,7 +4,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Structure of the Atmosphere | Atmospheric Composition | Atmospheric Layers | Troposphere | Stratosphere | Mesosphere | Thermosphere | Exosphere
+Structure of the Atmosphere | Atmospheric Composition | Atmospheric Layers | Troposphere (क्षोभमंडल) | Stratosphere (समतापमंडल) | Mesosphere (मध्यमंडल) | Thermosphere | Exosphere
 
 </details>
 
@@ -24,19 +24,19 @@ Structure of the Atmosphere | Atmospheric Composition | Atmospheric Layers | Tro
 ## Consolidated — 24 Must-Score Facts
 
 1. From bottom to top the layers run **Troposphere → Stratosphere → Mesosphere → Thermosphere → Exosphere**.
-2. The **troposphere** holds weather. Temperature **falls** with height in this layer.
-3. The **stratosphere** holds the **ozone layer**. Temperature **rises** with height here.
+2. The **troposphere** (क्षोभमंडल) holds weather. Temperature **falls** with height in this layer.
+3. The **stratosphere** (समतापमंडल) holds the **ozone layer**. Temperature **rises** with height here.
 4. The **mesosphere** is the **coldest** layer and is where most meteors burn.
 5. The **thermosphere** is very hot but thin. Auroras, the ISS path, and much of the ionosphere sit here.
 6. The **exosphere** is the outermost fringe and merges into space.
 7. Dry air composition is about **N₂ 78%**, **O₂ 21%**, **argon ~0.93%**, and **CO₂ ~0.04%**.
 8. **Nitrogen gas (N₂) is not a greenhouse gas.Nitrous oxide (N₂O)** is a greenhouse gas. Do not confuse the two.
 9. **Argon is not a greenhouse gas.** Oxygen and helium are also not greenhouse gases.
-10. Earth’s air is heated mainly by **long-wave terrestrial radiation** from the warmed surface, not by direct shortwave alone.
-11. The Sun sends **shortwave** insolation. The surface emits **longwave** radiation that warms the air.
+10. Earth’s air is heated mainly by **long-wave terrestrial radiation (भौमिक विकिरण)** from the warmed surface, not by direct shortwave alone.
+11. The Sun sends **shortwave** insolation (सूर्यताप). The surface emits **longwave** radiation that warms the air.
 12. Maximum ozone concentration is in the **stratosphere**, not the troposphere.
-13. The **homosphere** is well mixed to about **80 km**. Above that the **heterosphere** separates gases by mass.
-14. Tropospheric ozone is a pollutant and greenhouse gas. Stratospheric ozone is the UV shield.
+13. The **homosphere** (सममंडल) is well mixed to about **80 km**. Above that the **heterosphere** (विषममंडल) separates gases by mass.
+14. Tropospheric ozone (क्षोभमंडलीय ओजोन) is a pollutant and greenhouse gas. Stratospheric ozone (समतापमंडलीय ओजोन) is the UV shield.
 15. Temperature inversion and weather systems live in the troposphere. Commercial jets often cruise near the tropopause.
 16. Do not place the ozone layer in the troposphere on a match list.
 17. Mesosphere cold and thermosphere hot can both be true because density differs — thin hot air is not the same as surface heat.
@@ -190,7 +190,7 @@ Options: A. Carbon dioxide B. Dust particles C. Helium D. Water vapours
 - Contains most of the atmosphere’s mass and nearly all water vapour.
 - Ends at the **tropopause**, where the fall in temperature stops.
 - Thickness is greatest in the tropics (~**18–20 km**) and least near the poles; average height is often cited near **~13 km**.
-- UP Indo-Gangetic plains sit in the dense lower troposphere — winter **inversions** trap smog (Kanpur, Lucknow, Ghaziabad).
+- UP Indo-Gangetic plains sit in the dense lower troposphere — winter **inversions** trap smog (Kanpur (कानपुर), Lucknow (लखनऊ), Ghaziabad).
 
 > **Logic:** Weather = troposphere only. Ozone shield ≠ troposphere. Homosphere excludes **ionosphere**.
 
@@ -244,7 +244,7 @@ Which pair is NOT correctly matched?
 
 With reference to the ozone layer:
 1. Protects Earth’s surface from solar ultraviolet radiation.
-2. Ozone depletion has been linked to CFCs.
+2. Ozone depletion (ओजोन क्षरण) has been linked to CFCs.
 
 <details><summary>Show answer</summary>
 

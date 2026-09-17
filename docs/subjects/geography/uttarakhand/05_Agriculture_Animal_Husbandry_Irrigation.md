@@ -9,7 +9,7 @@
 
 ## Current Affairs (this topic)
 
-- Fresh land-use releases can shuffle Haridwar vs Udham Singh Nagar absolute ranks — keep both names and prefer the Series B letter when that paper is cited.
+- Fresh land-use releases can shuffle Haridwar (हरिद्वार) vs Udham Singh Nagar (ऊधम सिंह नगर) absolute (निरपेक्ष) ranks — keep both names and prefer the Series B letter when that paper is cited.
 - Horticulture and dairy scheme news can appear as CA without rewriting the hill–plain crop map.
 
 ---
@@ -20,8 +20,8 @@
 |------|---------|
 | Hill farming | Terraced cereals, millets, pulses; orchards in mid-hills |
 | Granary belt | Tarai / plains districts lead in cropped area |
-| Highest agri land (2025) | **Haridwar** (Series B provisional key **A**) |
-| Cultivated-area leader | Official Series B (2025) answer is **Haridwar**; many notes also name **Udham Singh Nagar** — learn both names |
+| Highest agri land (2025) | **Haridwar** (हरिद्वार) (Series B provisional key **A**) |
+| Cultivated-area leader | Official Series B (2025) answer is **Haridwar**; many notes also name **Udham Singh Nagar** (ऊधम सिंह नगर) — learn both names |
 | Animal husbandry | **Supplementary** to agriculture (milk, wool, manure) |
 | Sheep / pastures | Environmental-degradation narrative appears in many notes — **2025 Series B accepted Only statement 1** |
 | Irrigation | Canals and tubewells in Tarai; springs / guls / limited canals in hills |
@@ -30,7 +30,7 @@
 
 ## Must-Score Facts
 
-1. Animal husbandry is a **supplementary** occupation in Uttarakhand, not the sole primary livelihood for most households.
+1. Animal husbandry is a **supplementary** occupation in Uttarakhand (उत्तराखंड), not the sole primary livelihood for most households.
 2. On cultivated-area / AH stems, often **only the first statement** holds — read both carefully.
 3. Major sugarcane / irrigated plains district rivalry often pits **Haridwar** against **Udham Singh Nagar**.
 4. Plains lead cultivated area; hills lead terrace / horticulture stories.
@@ -105,7 +105,7 @@
 - Manure keeps animal husbandry tied to the farm.
 - Household nutrition also keeps it tied to the farm rather than replacing crops.
 - In the 2025 multi-statement stem, the claim that animal husbandry is supplementary is treated as **true**.
-- The claim that sheep rearing has been hit by environmental degradation is **not accepted** in Series B.
+- The claim that sheep rearing has been hit by environmental degradation (पर्यावरणीय क्षरण) is **not accepted** in Series B.
 - Series B therefore marks **Only 1**.
 - The degradation narrative may appear in other sources.
 - Keep the 2025 option letter as **C** for that stem.
@@ -119,7 +119,7 @@
 - **Udham Singh Nagar** and **Haridwar** type plains use **canal** and **tubewell** irrigation heavily.
 - Mid-hill systems rely more on **springs** and small gravity channels called **guls**.
 - Tanks appear in some mid-hill systems.
-- Steep terrain limits large canal networks in the higher Himalaya.
+- Steep terrain limits large canal networks in the higher Himalaya (हिमालय).
 - Irrigation intensity therefore falls from Tarai granary districts toward high alpine valleys.
 - The syllabus expects this plains–hills contrast, not a long named-project dump as the main story.
 
@@ -154,8 +154,8 @@ Which district of Uttarakhand has the highest agricultural land?
 
 A. Haridwar 
 B. Udham Singh Nagar 
-C. Dehradun 
-D. Nainital 
+C. Dehradun (देहरादून) 
+D. Nainital (नैनीताल) 
 
 <details>
 <summary>Show answer</summary>

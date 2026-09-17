@@ -1,4 +1,4 @@
-# Topic 17 — History & Freedom Struggle of Uttar Pradesh (UPPCS Special)
+# Topic 17 — History (इतिहास) & Freedom Struggle of Uttar Pradesh (उत्तर प्रदेश) (UPPCS Special)
 
 > **Priority S** | Core state paper module heavily tested in UPPCS (6–10 direct questions on UP ancient sites, medieval dynasties, 1857 revolt centres, peasant uprisings, Kakori martyrs, and national movement landmarks).  
 > **Pair with:** [UP Art, Culture & Demographics](../../art%20and%20culture/uttar%20pradesh/17_UP_Art_Culture_Demographics.md) · [Geography of UP](../../geography/uttar%20pradesh/24_Geography_of_Uttar_Pradesh.md) · [Revolt of 1857](../05_Revolt_of_1857.md) · [Gandhian Era](../13_Gandhian_Era.md)
@@ -7,26 +7,26 @@
 
 ## Consolidated — 20 Must-Score Facts (UP History)
 
-1. **8 Mahajanapadas in UP:** Exactly **8 out of the 16 Mahajanapadas** were located within modern Uttar Pradesh: **Kashi, Kosala, Vatsa, Malla, Chedi, Shurasena, Kuru, and Panchala**.
-2. **Sarnath (Isipatana):** Lord Buddha delivered his **First Sermon** (*Dhammachakkappavattana*) to the five ascetics (*Pancha-vaggiya*) at Deer Park, Sarnath near Varanasi.
+1. **8 Mahajanapadas in UP:** Exactly **8 out of the 16 Mahajanapadas** were located within modern Uttar Pradesh: **Kashi (काशी), Kosala (कोसल), Vatsa (वत्स), Malla, Chedi, Shurasena, Kuru, and Panchala (पांचाल)**.
+2. **Sarnath (सारनाथ) (Isipatana):** Lord Buddha (बुद्ध) delivered his **First Sermon** (धर्मचक्रप्रवर्तन -) (*Dhammachakkappavattana*) to the five ascetics (*Pancha-vaggiya*) at Deer Park, Sarnath near Varanasi (वाराणसी).
 3. **Shravasti (Jetavana):** Lord Buddha spent the **maximum number of rainy retreats / Varshavas (25 seasons)** and delivered the greatest number of sermons at Shravasti, capital of Kosala.
-4. **Kushinagar (Kusinara):** Lord Buddha attained **Mahaparinirvana** at the age of 80 in 483 BCE on the banks of the Hiranyavati river in the Malla republic; cremated at Ramabhar Stupa.
-5. **Prayag Prashasti (Allahabad Pillar):** Composed in Sanskrit *Champu* style by court poet **Harishena**; inscribed on an Ashokan pillar recording the military conquests (*Digvijaya*) of **Samudragupta**.
-6. **Sohgaura Copper Plate (Gorakhpur):** Pre-Ashokan Mauryan Prakrit inscription in Brahmi script; oldest epigraphic record in India mentioning state grain storehouses for **famine relief**.
-7. **Bhitari Pillar Inscription (Ghazipur):** Records the military triumphs of Gupta emperor **Skandagupta**, particularly his decisive repulse of the invading **Hunas**.
-8. **Agra Founded by Sikandar Lodi (1504):** Founded in **1504**; made the imperial Sultanate capital in **1506**.
-9. **Jaunpur ("Shiraz-e-Hind"):** Founded in 1359 by Firoz Shah Tughlaq in memory of his cousin Jauna Khan (Muhammad bin Tughlaq). Capital of the **Sharqi Dynasty** (Malik Sarwar 1394; Atala Masjid completed 1408 by Ibrahim Shah Sharqi).
-10. **Awadh Nawabi Dynasty:** Founded by **Saadat Khan Burhan-ul-Mulk** in 1722. Capital shifted from **Faizabad to Lucknow in 1775** by **Asaf-ud-Daula** (builder of Bara Imambara).
-11. **Annexation of Awadh (1856):** Nawab **Wajid Ali Shah** was deposed and Awadh annexed by Lord Dalhousie on **13 February 1856** on grounds of alleged maladministration (*Outram Report*).
-12. **1857 Spark at Meerut:** The sepoys of the **3rd Native Cavalry at Meerut** mutinied on **10 May 1857**, marching to Delhi.
-13. **1857 Revolt Centres & Leaders:** Lucknow = Begum Hazrat Mahal; Kanpur = Nana Saheb & Tatya Tope; Jhansi = Rani Lakshmibai; Allahabad = Maulvi Liaquat Ali; Bareilly = Khan Bahadur Khan; Faizabad = Maulvi Ahmadullah Shah.
+4. **Kushinagar (कुशीनगर) (Kusinara):** Lord Buddha attained **Mahaparinirvana** (महापरिनिर्वाण -) at the age of 80 in 483 BCE (निर्वाण) on the banks of the Hiranyavati river in the Malla republic; cremated at Ramabhar Stupa (स्तूप).
+5. **Prayag (प्रयाग) Prashasti (Allahabad (इलाहाबाद) Pillar (इलाहाबाद स्तंभ)):** Composed in Sanskrit *Champu* style by court poet **Harishena**; inscribed on an Ashokan pillar recording the military conquests (*Digvijaya*) of **Samudragupta** (समुद्रगुप्त).
+6. **Sohgaura (सोहगौरा) Copper Plate (Gorakhpur (गोरखपुर)):** Pre-Ashokan Mauryan Prakrit (प्राकृत) inscription in Brahmi (ब्राह्मी) script (लिपि); oldest epigraphic record in India mentioning state grain storehouses for **famine relief**.
+7. **Bhitari Pillar Inscription (Ghazipur):** Records the military triumphs of Gupta (गुप्त) emperor **Skandagupta** (स्कंदगुप्त), particularly his decisive repulse of the invading **Hunas**.
+8. **Agra Founded by Sikandar Lodi (सिकंदर) (1504):** Founded in **1504**; made the imperial Sultanate capital in **1506**.
+9. **Jaunpur (जौनपुर) ("Shiraz-e-Hind"):** Founded in 1359 by Firoz Shah (फ़िरोज़ शाह) Tughlaq (फिरोज शाह तुगलक) in memory of his cousin Jauna Khan (Muhammad bin Tughlaq (मुहम्मद बिन तुगलक)). Capital of the **Sharqi (शर्की) Dynasty** (Malik Sarwar 1394; Atala Masjid (अटाला मस्जिद) completed 1408 by Ibrahim (इब्राहिम) Shah Sharqi).
+10. **Awadh (अवध) Nawabi Dynasty:** Founded by **Saadat Khan (सादात खान) Burhan-ul-Mulk** in 1722. Capital shifted from **Faizabad to Lucknow (लखनऊ) in 1775** by **Asaf-ud-Daula** (आसफउद्दौला) (builder of Bara Imambara).
+11. **Annexation of Awadh (अवध अधिग्रहण) (1856):** Nawab **Wajid Ali Shah** (वाजिद अली शाह) was deposed and Awadh annexed by Lord Dalhousie (डलहौज़ी) on **13 February 1856** on grounds of alleged maladministration (*Outram Report*).
+12. **1857 Spark at Meerut (मेरठ):** The sepoys of the **3rd Native Cavalry at Meerut** mutinied on **10 May 1857**, marching to Delhi.
+13. **1857 Revolt Centres & Leaders:** Lucknow = Begum Hazrat Mahal (बेगम हज़रत महल); Kanpur (कानपुर) = Nana Saheb & Tatya Tope; Jhansi (झांसी) = Rani Lakshmibai (रानी लक्ष्मीबाई); Allahabad = Maulvi Liaquat Ali (लियाक़त अली); Bareilly = Khan Bahadur Khan (खान बहादुर खान); Faizabad = Maulvi Ahmadullah Shah (अहमदुल्लाह शाह).
 14. **9 INC Sessions in UP:** Allahabad hosted 3 (1888, 1892, 1910); Lucknow hosted 3 (1899, 1916, 1936); Banaras (1905); Kanpur (1925 — Sarojini Naidu, 1st Indian woman); Meerut (1946 — J. B. Kripalani).
-15. **Lucknow Pact (1916):** Presided over by **Ambica Charan Majumdar**; joint agreement between INC and Muslim League; reunion of Moderates and Extremists.
-16. **Oudh Kisan Sabha (1920):** Formed at **Pratapgarh** in October 1920 under **Baba Ramchandra**, who mobilized peasants using the *Ramcharitmanas*.
-17. **Eka Movement (1921–22):** Peasant resistance in **Hardoi, Bahraich, Sitapur** led by **Madari Pasi** against illegal cesses (*Abwabs*) and forced labour (*Begar*).
-18. **Chauri-Chaura Incident:** Occurred on **4 February 1922** at Gorakhpur; 22 policemen burnt alive; Gandhi called off Non-Cooperation on **12 February 1922 (Bardoli resolution)**.
+15. **Lucknow Pact (लखनऊ पैक्ट) (1916):** Presided over by **Ambica Charan (चारण) Majumdar**; joint agreement between INC and Muslim League; reunion of Moderates and Extremists.
+16. **Oudh Kisan Sabha (सभा) (1920):** Formed at **Pratapgarh** in October 1920 under **Baba Ramchandra** (बाबा रामचंद्र), who mobilized peasants using the *Ramcharitmanas* (रामचरितमानस).
+17. **Eka (एका) Movement (1921–22):** Peasant resistance in **Hardoi, Bahraich, Sitapur** led by **Madari Pasi** against illegal cesses (*Abwabs*) and forced labour (*Begar* (बेगार)).
+18. **Chauri-Chaura Incident:** Occurred on **4 February 1922** at Gorakhpur; 22 policemen burnt alive; Gandhi (गांधी) called off Non-Cooperation (असहयोग) on **12 February 1922 (Bardoli (बारडोली) resolution)**.
 19. **Kakori Train Action (9 August 1925):** Executions in Dec 1927: **Bismil (Gorakhpur Jail)**, **Ashfaqulla Khan (Faizabad Jail)**, **Roshan Singh (Naini Jail)**, **Rajendra Lahiri (Gonda Jail)**.
-20. **Ballia Parallel Government (1942):** Established in August 1942 during Quit India Movement under **Chittu Pandey** (*"Sher-e-Ballia"*); first parallel government in India.
+20. **Ballia Parallel Government (1942):** Established in August 1942 during Quit India (भारत छोड़ो) Movement under **Chittu Pandey** (*"Sher-e-Ballia"*); first parallel government in India.
 
 ---
 
@@ -59,34 +59,34 @@
 
 ### 1.1 The 8 Mahajanapadas Situated in Present-Day Uttar Pradesh
 
-| Mahajanapada | Capital City | Modern Geographical Region in UP | Historical Kings & Exam Significance |
+| Mahajanapada (महाजनपद) | Capital City | Modern Geographical Region in UP | Historical Kings & Exam Significance |
 | :--- | :--- | :--- | :--- |
-| **1. Kashi** | **Varanasi** | Varanasi, Chandauli, Mirzapur | Famed textile (silk) and ivory trading centre; early King Ashvasena was the father of 23rd Jain Tirthankara Parshvanatha; later annexed by Kosala. |
-| **2. Kosala** | **Shravasti** (Sahet-Mahet) / **Ayodhya** | Awadh region (Faizabad, Gonda, Bahraich, Shrawasti) | King **Prasenjit** was a contemporary of Buddha; Sarayu river divided Kosala into Northern (cap: Shravasti) and Southern (cap: Kushavati). |
-| **3. Vatsa** | **Kaushambi** | Prayagraj, Kaushambi, Chitrakoot | Situated on Yamuna; celebrated ruler **Udayana** (hero of Bhasa's *Svapnavasavadatta*); famed monastery *Ghositarama* built by merchant Ghosita. |
-| **4. Malla** | **Kusinara** (Kushinagar) & **Pawa** (Fazilnagar) | Deoria, Gorakhpur, Kushinagar | Non-monarchical republic (**Gana-sangha**); Buddha attained *Mahaparinirvana* at Kusinara; Mahavira attained *Kaivalya/Nirvana* at Pawa. |
-| **5. Chedi** | **Shuktimati** (Sotthivati) | Eastern Bundelkhand (Banda, Mahoba) | King **Shishupala** (slain by Lord Krishna in Mahabharata); located along the Ken/Shuktimati river. |
-| **6. Shurasena** | **Mathura** | Braj region (Mathura) | King **Avantiputra** was a foremost disciple of Buddha; centre of Bhagavata/Vaishnava cult and Yaksha worship. |
+| **1. Kashi** | **Varanasi** (वाराणसी) | Varanasi, Chandauli, Mirzapur (मिर्ज़ापुर) | Famed textile (silk) and ivory trading centre; early King Ashvasena was the father of 23rd Jain Tirthankara Parshvanatha (पार्श्वनाथ); later annexed by Kosala. |
+| **2. Kosala** | **Shravasti** (Sahet-Mahet) / **Ayodhya** (अयोध्या) | Awadh region (Faizabad, Gonda, Bahraich, Shrawasti) | King **Prasenjit** was a contemporary of Buddha; Sarayu river divided Kosala into Northern (cap: Shravasti) and Southern (cap: Kushavati). |
+| **3. Vatsa** | **Kaushambi** (कौशांबी) | Prayagraj (प्रयागराज), Kaushambi, Chitrakoot (चित्रकूट) | Situated on Yamuna (यमुना); celebrated ruler **Udayana** (hero of Bhasa (भास)'s *Svapnavasavadatta*); famed monastery *Ghositarama* built by merchant Ghosita. |
+| **4. Malla** | **Kusinara** (Kushinagar) & **Pawa** (Fazilnagar) | Deoria, Gorakhpur, Kushinagar | Non-monarchical republic (**Gana-sangha** (गण-संघ)); Buddha attained *Mahaparinirvana* at Kusinara; Mahavira (महावीर) attained *Kaivalya (कैवल्य)/Nirvana* at Pawa. |
+| **5. Chedi** | **Shuktimati** (Sotthivati) | Eastern Bundelkhand (Banda, Mahoba) | King **Shishupala** (slain by Lord Krishna (कृष्णा) in Mahabharata (महाभारत)); located along the Ken/Shuktimati river. |
+| **6. Shurasena** | **Mathura** (मथुरा) | Braj (ब्रज) region (Mathura) | King **Avantiputra** was a foremost disciple of Buddha; centre of Bhagavata/Vaishnava cult and Yaksha worship. |
 | **7. Panchala** | **Ahichchhatra** (North) & **Kampilya** (South) | Bareilly, Badaun, Farrukhabad | Northern capital: **Ahichchhatra** (Ramnagar, Bareilly); Southern capital: **Kampilya** (Kampil, Farrukhabad). Birthplace of Draupadi. |
-| **8. Kuru** | **Hastinapur** / Indraprastha | Meerut, Hastinapur, Baghpat, Delhi | Legendary capital of Pandavas and Kauravas; excavated by B. B. Lal (Painted Grey Ware / PGW sites). |
+| **8. Kuru** | **Hastinapur** (हस्तिनापुर) / Indraprastha | Meerut, Hastinapur, Baghpat, Delhi | Legendary capital of Pandavas and Kauravas; excavated by B. B. Lal (Painted Grey Ware / PGW (चित्रित धूसर) sites). |
 
 ### 1.2 The Sacred Buddhist Circuit of Uttar Pradesh
 
 | Site | District | Sacred Significance in Buddha's Life & Epigraphy |
 | :--- | :--- | :--- |
-| **Sarnath (Isipatana / Rishipattana)**| **Varanasi** | **First Sermon (*Dhammachakkappavattana*):** Turning of the Wheel of Law; Dhamek Stupa (Gupta period); Chaukhandi Stupa; **Ashoka's Lion Capital** (National Emblem of India). |
+| **Sarnath (Isipatana / Rishipattana)**| **Varanasi** | **First Sermon (*Dhammachakkappavattana*):** Turning of the Wheel of Law; Dhamek (धमेख) Stupa (Gupta period); Chaukhandi Stupa; **Ashoka (अशोक)'s Lion (सिंह) Capital** (National Emblem of India). |
 | **Shravasti (Sahet-Mahet)** | **Shrawasti** | **Maximum Rains (*Varshavas*):** Buddha spent 25 rainy seasons here; **Jetavana Monastery** gifted by merchant Anathapindika; subdued dacoit Angulimala; Twin Miracle (*Yamak Pratiharya*). |
-| **Kushinagar (Kusinara)** | **Kushinagar** | **Mahaparinirvana (483 BCE):** Buddha passed away between two Sal trees; **Parinirvana Temple** (reclining 6-metre Buddha idol); **Ramabhar Stupa** (Mukuta-bandhana cremation chaitya). |
+| **Kushinagar (Kusinara)** | **Kushinagar** (कुशीनगर) | **Mahaparinirvana (483 BCE):** Buddha passed away between two Sal trees; **Parinirvana Temple** (reclining 6-metre Buddha idol); **Ramabhar Stupa** (Mukuta-bandhana cremation chaitya (चैत्य)). |
 | **Kaushambi** | **Kaushambi** | Visited by Buddha in the 6th and 9th years after enlightenment; **Ghositarama Monastery**; Ashokan pillar containing Schism Edict. |
-| **Sankissa** | **Farrukhabad** | Legendary site where Buddha descended from *Trayastrimsa* heaven down a golden/jewelled ladder accompanied by Indra and Brahma. |
-| **Kapilavastu (Piprahwa)** | **Siddharthnagar** | Shakya capital where Prince Siddhartha spent his youth; **Piprahwa Stupa** yielded the inscribed soapstone casket containing the bone relics of Lord Buddha. |
+| **Sankissa** | **Farrukhabad** | Legendary site where Buddha descended from *Trayastrimsa* heaven down a golden/jewelled ladder accompanied by Indra (इन्द्र) and Brahma. |
+| **Kapilavastu (कपिलवस्तु) (Piprahwa)** | **Siddharthnagar** | Shakya capital where Prince Siddhartha spent his youth; **Piprahwa Stupa** yielded the inscribed soapstone casket containing the bone relics of Lord Buddha. |
 
 ### 1.3 Major Epigraphic Inscriptions in UP
-1. **Prayag Prashasti (Allahabad Pillar):** Originally erected at Kaushambi by Ashoka; shifted to Allahabad Fort by Akbar; contains **Harishena's** 33-line Sanskrit panegyric detailing **Samudragupta's** Digvijaya, Jahangir's Persian inscription, and Birbal's graffiti.
-2. **Sohgaura Copper Plate (Gorakhpur):** Pre-Ashokan Mauryan inscription in Brahmi script and Prakrit; discusses relief measures, construction of twin granaries (*Koshthagara*) during severe drought.
+1. **Prayag Prashasti (Allahabad Pillar):** Originally erected at Kaushambi by Ashoka; shifted to Allahabad Fort by Akbar (अकबर); contains **Harishena's** 33-line Sanskrit panegyric detailing **Samudragupta's** Digvijaya, Jahangir (जहाँगीर)'s Persian (फ़ारसी) inscription, and Birbal (बीरबल)'s graffiti.
+2. **Sohgaura Copper Plate (Gorakhpur):** Pre-Ashokan Mauryan inscription in Brahmi script and Prakrit; discusses relief measures, construction of twin granaries (*Koshthagara*) during severe drought (सूखा).
 3. **Bhitari Stone Pillar (Saidpur, Ghazipur):** Records **Skandagupta's** genealogy and his heroic victory crushing the white Hunas (*Huna invasion*).
-4. **Mankuwar Inscription (Prayagraj):** Inscribed during the reign of **Kumaragupta I** (dated year 129 of Gupta era / 448 CE) on the pedestal of a seated Buddha statue.
-5. **Ahraura Minor Rock Edict (Mirzapur):** Ashokan edict declaring the propagation of Dhamma across the realm.
+4. **Mankuwar Inscription (Prayagraj):** Inscribed during the reign of **Kumaragupta I** (कुमारगुप्त) (dated year 129 of Gupta era / 448 CE) on the pedestal of a seated Buddha statue.
+5. **Ahraura (अह्रौरा) Minor Rock Edict (Mirzapur):** Ashokan edict (अशोक का अभिलेख) declaring the propagation of Dhamma (धम्म) across the realm.
 
 ---
 
@@ -104,37 +104,37 @@
 ```
 
 ### 2.1 The Sharqi Sultanate of Jaunpur (1394–1479)
-- **Genesis:** Founded in 1359 by Sultan **Firoz Shah Tughlaq** in memory of his cousin **Muhammad bin Tughlaq** (whose real name was *Jauna Khan*).
+- **Genesis:** Founded in 1359 by Sultan **Firoz Shah Tughlaq** in memory of his cousin **Muhammad bin Tughlaq** (मुहम्मद बिन तुगलक) (whose real name was *Jauna Khan*).
 - **Independent Dynasty:** In 1394, **Malik Sarwar** (a noble holding the title *Sultan-ush-Sharq* / King of the East) founded the independent **Sharqi Dynasty**.
 - **The Golden Age:** Under **Ibrahim Shah Sharqi (1402–1440)**, Jaunpur became India's premier seat of Islamic learning, Arabic literature, theology, and architecture, earning the fabled moniker **"Shiraz-e-Hind"** (Shiraz of the East).
 - **Architectural Masterpieces:**
   - **Atala Masjid (1408):** Begun by Firoz Shah Tughlaq (1377), completed by Ibrahim Shah Sharqi. Unique for having **no minarets** and featuring monumental arched sloping pylons (*Propylons*).
   - **Jhanjhari Masjid & Lal Darwaza Masjid:** Built by Bibi Raji (queen of Mahmud Shah Sharqi).
-  - **Jama Masjid (Badi Masjid):** Completed by the last Sharqi king, **Husain Shah Sharqi**.
-- **Fall:** Defeated and annexed back into the Delhi Sultanate by **Bahlul Lodi in 1479**.
+  - **Jama Masjid (जामा मस्जिद) (Badi Masjid):** Completed by the last Sharqi king, **Husain Shah Sharqi**.
+- **Fall:** Defeated and annexed back into the Delhi Sultanate (दिल्ली सल्तनत) by **Bahlul Lodi in 1479**.
 
-### 2.2 Foundation of Agra & Mughal Hegemony
-- **Sikandar Lodi (1504):** Founded the city of **Agra in 1504** on the banks of Yamuna to control the trade routes to Rajputana and the Malwa plateau; formally transferred his imperial capital from Delhi to Agra in **1506**.
-- **Fatehpur Sikri (1571):** Built by Emperor **Akbar** 37 km from Agra to honor Sufi saint **Sheikh Salim Chishti**; served as imperial capital (1571–1585); houses **Buland Darwaza** (built 1601 to commemorate the conquest of Gujarat), *Diwan-i-Khas*, *Panch Mahal*, *Jodha Bai Palace*, and the *Ibadat Khana* (founded 1575).
-- **Tomb of Itimad-ud-Daulah (Agra):** Commissioned by Empress **Nur Jahan** between 1622–1628 for her father Mirza Ghiyas Beg; first Mughal monument built entirely of white marble featuring extensive **Pietra Dura (Pachchikari)** inlay work.
+### 2.2 Foundation of Agra & Mughal (मुग़ल) Hegemony
+- **Sikandar Lodi (1504):** Founded the city of **Agra in 1504** on the banks of Yamuna to control the trade (पण्याध्यक्ष) routes to Rajputana and the Malwa plateau; formally transferred his imperial capital from Delhi to Agra in **1506**.
+- **Fatehpur Sikri (फतेहपुर सीकरी) (1571):** Built by Emperor **Akbar** (अकबर) 37 km from Agra to honor Sufi (सूफी) saint **Sheikh Salim Chishti (चिश्ती)**; served as imperial capital (1571–1585); houses **Buland Darwaza** (बुलंद दरवाज़ा) (built 1601 to commemorate the conquest of Gujarat), *Diwan-i-Khas* (दीवान-ए-खास), *Panch Mahal* (पंच महल), *Jodha Bai Palace*, and the *Ibadat Khana* (इबादत खाना) (founded 1575).
+- **Tomb of Itimad-ud-Daulah (इतिमाद-उद-दौला) (Agra):** Commissioned by Empress **Nur Jahan** (नूरजहाँ) between 1622–1628 for her father Mirza Ghiyas Beg; first Mughal monument built entirely of white marble featuring extensive **Pietra Dura (पिएत्रा ड्यूरा) (Pachchikari)** inlay work.
 
 ### 2.3 The Nawabs of Awadh (1722–1856)
 
 | Nawab of Awadh | Reign | Key Historical Milestones & Prelims Facts |
 | :--- | :---: | :--- |
-| **Saadat Khan Burhan-ul-Mulk** | 1722–1739 | **Founder of the autonomous state of Awadh** in 1722; Subahdar of Awadh; committed suicide during Nadir Shah’s invasion of Delhi (1739). |
-| **Safdarjung (Abul Mansur Khan)**| 1739–1754 | Appointed imperial Wazir (Prime Minister) of Mughal Emperor Muhammad Shah in 1748; his successors were thus styled as **Nawab Wazir**. |
-| **Shuja-ud-Daula** | 1754–1775 | Sided with Ahmad Shah Abdali in Third Battle of Panipat (1761); defeated alongside Mir Qasim and Shah Alam II at the **Battle of Buxar (1764)**; signed the **Treaty of Allahabad (16 August 1765)** with Robert Clive, surrendering Kara and Allahabad to the Mughal emperor and paying 50 lakh indemnity. |
+| **Saadat Khan Burhan-ul-Mulk** | 1722–1739 | **Founder of the autonomous state of Awadh** in 1722; Subahdar of Awadh; committed suicide during Nadir Shah (नादिर शाह)’s invasion of Delhi (1739). |
+| **Safdarjung (सफदरजंग) (Abul Mansur Khan)**| 1739–1754 | Appointed imperial Wazir (वज़ीर) (Prime Minister) of Mughal Emperor Muhammad Shah in 1748; his successors were thus styled as **Nawab Wazir**. |
+| **Shuja-ud-Daula** (शुजाउद्दौला) | 1754–1775 | Sided with Ahmad Shah Abdali (अब्दाली) in Third Battle of Panipat (पानीपत) (1761); defeated alongside Mir Qasim (मीर कासिम) and Shah Alam II at the **Battle of Buxar (बक्सर) (1764)**; signed the **Treaty of Allahabad (इलाहाबाद की संधि) (16 August 1765)** with Robert Clive (क्लाइव), surrendering Kara and Allahabad to the Mughal emperor and paying 50 lakh indemnity. |
 | **Asaf-ud-Daula** | 1775–1797 | **Shifted the capital of Awadh from Faizabad to Lucknow in 1775**; signed the Treaty of Faizabad (1775); built the monumental **Bara Imambara (Asafi Imambara)** in 1784 as a famine relief project (famed for its central vault without pillar support and *Bhulbhulaiya* labyrinth), **Rumi Darwaza**, and Bibiyapur Kothi. |
-| **Saadat Ali Khan II** | 1798–1814 | Forced by Lord Wellesley to sign the **Subsidiary Alliance on 10 November 1801**, ceding half of Awadh’s territory (Rohilkhand, Gorakhpur, and Lower Doab) to the British Company. |
-| **Ghazi-ud-Din Haidar** | 1814–1827 | Lord Hastings persuaded him to shed the title of Mughal 'Wazir' and declared him the **first official King of Awadh (*Padshah-i-Awadh*) in 1819**; struck coins in his own name. |
-| **Nawab Wajid Ali Shah** | 1847–1856 | **Tenth and last Nawab of Awadh**; celebrated connoisseur of Kathak, Thumri, and poetry (*nom de plume: Akhtarpiya*); wrote *Indrasabha*. **Deposed on 13 February 1856 by Lord Dalhousie** on grounds of alleged maladministration based on the controversial reports of British Residents **Col. William Sleeman** and **Sir James Outram**. Exiled to Metiabruz, Calcutta. |
+| **Saadat Ali Khan II** | 1798–1814 | Forced by Lord Wellesley (वेलेज़ली) to sign the **Subsidiary Alliance (सहायक संधि) on 10 November 1801**, ceding half of Awadh’s territory (Rohilkhand, Gorakhpur, and Lower Doab (दोआब)) to the British Company (कंपनी). |
+| **Ghazi-ud-Din Haidar** | 1814–1827 | Lord Hastings (लॉर्ड हेस्टिंग्स) persuaded him to shed the title of Mughal 'Wazir' and declared him the **first official King of Awadh (*Padshah-i-Awadh*) in 1819**; struck coins (रूपक) in his own name. |
+| **Nawab Wajid Ali Shah** | 1847–1856 | **Tenth and last Nawab of Awadh**; celebrated connoisseur of Kathak (कथक), Thumri (ठुमरी), and poetry (*nom de plume: Akhtarpiya*); wrote *Indrasabha* (इंद्रसभा). **Deposed on 13 February 1856 by Lord Dalhousie** on grounds of alleged maladministration based on the controversial reports of British Residents **Col. William Sleeman** and **Sir James Outram**. Exiled to Metiabruz, Calcutta. |
 
 ---
 
 ## 3. The Revolt of 1857 in Uttar Pradesh
 
-Uttar Pradesh was the storm centre of the 1857 Great Rebellion. The annexation of Awadh (*"the nursery of the Bengal Army"*) sparked widespread military and agrarian fury.
+Uttar Pradesh was the storm centre of the 1857 Great Rebellion. The annexation of Awadh (*"the nursery of the Bengal Army (सेना)"*) sparked widespread military and agrarian fury.
 
 ```
                          1857 Revolt Command in UP
@@ -151,22 +151,22 @@ Uttar Pradesh was the storm centre of the 1857 Great Rebellion. The annexation o
 
 | Centre | Indian Leader(s) | British Officers Involved | Final Outcome / Suppression Details |
 | :--- | :--- | :--- | :--- |
-| **Meerut** | **Sepoys of 3rd Native Cavalry**, **Kadam Singh** | Major General Hewitt | **Revolt broke out on 10 May 1857**; British cantonment stormed; sepoys marched overnight to Delhi. |
-| **Lucknow** | **Begum Hazrat Mahal**, her minor son **Birjis Qadr**, and **Raja Jailal Singh** | Sir Henry Lawrence (killed in Residency siege), Sir Colin Campbell, Outram, Havelock | Declared independence on 4 June 1857; Henry Lawrence killed by artillery shell in Residency on 2 July 1857; Colin Campbell recaptured Lucknow on **21 March 1858** with Gurkha regiments; Begum fled to Nepal. |
-| **Kanpur** | **Nana Saheb (Dhondu Pant)**, **Tatya Tope (Ramchandra Pandurang)**, **Azimullah Khan** | Major General Sir Hugh Wheeler, Sir Colin Campbell | Nana Saheb declared Peshwa on 5 June 1857; Satichaura Ghat massacre; Campbell recaptured Kanpur on **6 December 1857**; Nana Saheb escaped to Nepal; Tatya Tope joined Rani of Jhansi. |
-| **Jhansi** | **Rani Lakshmibai (Manikarnika / Manu)**, supported by **Jhalkari Bai** | **Sir Hugh Rose** | Revolt started on 4 June 1858; Hugh Rose besieged Jhansi; Rani escaped on horseback to Kalpi and Gwalior; martyred fighting at **Kotah-ki-Serai (Gwalior) on 17 June 1858**. Rose's tribute: *"Here lay the woman who was the only man among the rebels."* |
-| **Faizabad / Ayodhya** | **Maulvi Ahmadullah Shah ("Danka Shah" / Maulvi of Faizabad)** | Sir Colin Campbell | Native of Madras/Awadh; fiercely resisted British; British government placed a **massive bounty of Rs. 50,000** on his head; treacherously shot dead on 5 June 1858 by the Raja of Powayan (Shahjahanpur). |
+| **Meerut** (मेरठ) | **Sepoys of 3rd Native Cavalry**, **Kadam Singh** | Major General Hewitt | **Revolt broke out on 10 May 1857**; British cantonment stormed; sepoys marched overnight to Delhi. |
+| **Lucknow** | **Begum Hazrat Mahal** (बेगम हज़रत महल), her minor son **Birjis Qadr**, and **Raja (राजा) Jailal Singh** | Sir Henry Lawrence (लॉरेंस) (killed in Residency siege), Sir Colin Campbell, Outram, Havelock | Declared independence on 4 June 1857; Henry Lawrence killed by artillery shell in Residency on 2 July 1857; Colin Campbell recaptured Lucknow on **21 March 1858** with Gurkha regiments; Begum fled to Nepal. |
+| **Kanpur** (कानपुर) | **Nana Saheb (Dhondu Pant)**, **Tatya Tope (Ramchandra Pandurang)**, **Azimullah Khan** | Major General Sir Hugh Wheeler (व्हीलर), Sir Colin Campbell | Nana Saheb declared Peshwa (पेशवा) on 5 June 1857; Satichaura Ghat massacre; Campbell recaptured Kanpur on **6 December 1857**; Nana Saheb escaped to Nepal; Tatya Tope joined Rani of Jhansi. |
+| **Jhansi** (झांसी) | **Rani Lakshmibai (Manikarnika / Manu)**, supported by **Jhalkari Bai** (झलकारी बाई) | **Sir Hugh Rose** | Revolt started on 4 June 1858; Hugh Rose besieged Jhansi; Rani escaped on horseback to Kalpi and Gwalior; martyred fighting at **Kotah-ki-Serai (Gwalior) on 17 June 1858**. Rose's tribute: *"Here lay the woman who was the only man among the rebels."* |
+| **Faizabad / Ayodhya** | **Maulvi Ahmadullah Shah ("Danka Shah" / Maulvi of Faizabad)** | Sir Colin Campbell | Native of Madras/Awadh; fiercely resisted British; British government placed a **massive bounty of Rs. 50,000** on his head; treacherously shot dead on 5 June 1858 by the Raja of Powayan (Shahjahanpur (शाहजहाँपुर)). |
 | **Allahabad & Banaras** | **Maulvi Liaquat Ali** (schoolteacher of Mahgaon, Chail) | **Colonel James Neill** | Captured Khusro Bagh and established rebel government; Colonel Neill unleashed brutal retributive hanging across Allahabad; recaptured by June 1857. |
-| **Bareilly (Rohilkhand)** | **Khan Bahadur Khan** (grandson of Hafiz Rahmat Khan) | Sir Colin Campbell | Declared himself Viceroy of Rohilkhand under Emperor Bahadur Shah Zafar; maintained rebel administration for nearly a year; captured and hanged in Bareilly in 1860. |
-| **Jagdishpur / Ballia** | **Babu Kunwar Singh** (80-year-old landlord) & **Amar Singh** | Vincent Eyre, William Taylor | Routed British forces across Arrah, Azamgarh, and Ballia; crossed the Ganga at Shivpur Ghat despite having his left wrist shattered by cannonball; died on 26 April 1858. |
+| **Bareilly (Rohilkhand)** | **Khan Bahadur Khan** (grandson of Hafiz Rahmat Khan) | Sir Colin Campbell | Declared himself Viceroy (वायसराय) of Rohilkhand under Emperor Bahadur Shah Zafar (बहादुर शाह ज़फ़र); maintained rebel administration for nearly a year; captured and hanged in Bareilly in 1860. |
+| **Jagdishpur / Ballia** | **Babu Kunwar Singh (कुंवर सिंह)** (80-year-old landlord) & **Amar Singh** | Vincent Eyre, William Taylor | Routed British forces across Arrah, Azamgarh, and Ballia; crossed the Ganga (गंगा) at Shivpur Ghat despite having his left wrist shattered by cannonball; died on 26 April 1858. |
 | **Mathura** | **Devi Singh** | Local British magistrates | Peasant rebellion across 20 villages in Mathura and Sadabad. |
-| **Baghpat / Baraut** | **Shah Mal** | Dunlap (Khakee Risala) | Mobilized Jat peasantry of 84 villages (*Chaurasi Desh*); cut off British communications between Delhi and Meerut; killed in battle at Rawa in July 1857. |
+| **Baghpat / Baraut** | **Shah Mal (माल)** | Dunlap (Khakee Risala) | Mobilized Jat peasantry of 84 villages (*Chaurasi Desh*); cut off British communications between Delhi and Meerut; killed in battle at Rawa in July 1857. |
 | **Bijnor** | **Nawab Mohammad Khan** | British district authorities | Maintained rebel rule over Bijnor for months. |
 | **Kalpi / Hamirpur** | **Amanat Ali**, **Mahipal Singh** | Hugh Rose | Strategic weapons depot and arsenal for Tatya Tope and Lakshmibai. |
 
 ---
 
-## 4. Indian National Congress (INC) Sessions in Uttar Pradesh
+## 4. Indian National Congress (कांग्रेस) (INC) Sessions in Uttar Pradesh
 
 Uttar Pradesh hosted **9 landmark annual sessions of the Indian National Congress**, more than any single northern province.
 
@@ -180,50 +180,50 @@ Uttar Pradesh hosted **9 landmark annual sessions of the Indian National Congres
  1st British      Drain of Wealth  Swadeshi         Lucknow Pact    1st Indian Woman
 ```
 
-| Session No. | Year | City / Venue | President | High-Yield Decisions & Historical Significance |
+| Session (पंगु सत्र) No. | Year | City / Venue | President | High-Yield Decisions & Historical Significance |
 | :---: | :---: | :--- | :--- | :--- |
-| **4th** | **1888** | **Allahabad** | **George Yule** | **First session presided over by a British / non-Indian**. Governor Auckland Colvin attempted to block the session; Darbhanga Maharaja purchased Lowther Castle for the venue. |
+| **4th** | **1888** | **Allahabad** (इलाहाबाद) | **George Yule** | **First session presided over by a British / non-Indian**. Governor Auckland Colvin attempted to block the session; Darbhanga Maharaja (महाराज) purchased Lowther Castle for the venue. |
 | **8th** | **1892** | **Allahabad** | **W. C. Bonnerjee** | Originally planned in London; Bonnerjee's second term; passed resolutions demanding imperial civil service exam parity. |
-| **15th** | **1899** | **Lucknow** | **Romesh Chunder Dutt** | Renowned economic historian (*Economic History of India*); session demanded permanent land revenue settlements and an end to drain of wealth. |
-| **21st** | **1905** | **Banaras** | **Gopal Krishna Gokhale** | Protested Lord Curzon's **Partition of Bengal**; formally approved the **Swadeshi and Boycott Movement** against foreign goods. |
-| **25th** | **1910** | **Allahabad** | **Sir William Wedderburn** | Biographer of A. O. Hume; addressed the divisive communal atmosphere following the Morley-Minto Reforms 1909. |
-| **31st** | **1916** | **Lucknow** | **Ambica Charan Majumdar** | **The Historic Lucknow Session:** <br>1. **Lucknow Pact:** Formal agreement between INC and All-India Muslim League (joint demands for self-government). <br>2. **Congress Reunion:** Tilak and Extremists readmitted into Congress after the 1907 Surat split. <br>3. **Raj Kumar Shukla** met Mahatma Gandhi here and invited him to inspect the indigo planters' exploitation in Champaran. |
-| **40th** | **1925** | **Kanpur** | **Sarojini Naidu** | **First Indian Woman to preside over the Indian National Congress** (Annie Besant was the first woman in 1917, but was British/Irish); called upon women to take frontlines of freedom struggle. |
-| **50th** | **1936** | **Lucknow** | **Jawaharlal Nehru** | Nehru's second presidency; famously proclaimed: *"I am a socialist and a republican"*; advocated mass contact programmes with peasantry and working class. |
+| **15th** | **1899** | **Lucknow** | **Romesh Chunder Dutt** | Renowned economic historian (*Economic History of India*); session demanded permanent land revenue settlements and an end to drain of wealth (धन निष्कासन). |
+| **21st** | **1905** | **Banaras** | **Gopal Krishna Gokhale (गोखले)** | Protested Lord Curzon (कर्ज़न)'s **Partition of Bengal**; formally approved the **Swadeshi (स्वदेशी) and Boycott (बहिष्कार) Movement** against foreign goods. |
+| **25th** | **1910** | **Allahabad** | **Sir William Wedderburn** | Biographer of A. O. Hume; addressed the divisive communal atmosphere following the Morley-Minto (मॉर्ले-मिंटो) Reforms 1909. |
+| **31st** | **1916** | **Lucknow** | **Ambica Charan Majumdar** | **The Historic (ऐतिहासिक) Lucknow Session:** <br>1. **Lucknow Pact:** Formal agreement between INC and All-India Muslim League (joint demands for self-government). <br>2. **Congress Reunion:** Tilak (तिलक) and Extremists readmitted into Congress after the 1907 Surat split. <br>3. **Raj Kumar Shukla** met Mahatma Gandhi (महात्मा गांधी) here and invited him to inspect the indigo (नील) planters' exploitation in Champaran (चंपारण). |
+| **40th** | **1925** | **Kanpur** | **Sarojini Naidu** | **First Indian Woman to preside over the Indian National Congress** (Annie Besant (बेसेंट) was the first woman in 1917, but was British/Irish); called upon women to take frontlines of freedom struggle. |
+| **50th** | **1936** | **Lucknow** | **Jawaharlal Nehru** (जवाहरलाल नेहरू) | Nehru's second presidency (प्रेसीडेंसी); famously proclaimed: *"I am a socialist and a republican"*; advocated mass contact programmes with peasantry and working class. |
 | **54th** | **1946** | **Meerut** | **Acharya J. B. Kripalani** | **Last pre-independence session**; Kripalani was Congress President during the historic **Transfer of Power on 15 August 1947**. |
 
 ---
 
-## 5. Agrarian, Peasant & Revolutionary Movements in UP
+## 5. Agrarian, Peasant & Revolutionary (क्रांतिकारी) Movements in UP
 
 ### 5.1 The Peasant (Kisan) Movements in UP
 1. **UP Kisan Sabha (February 1918):**
-   - Founded in Allahabad by **Gauri Shankar Mishra**, **Indra Narayan Dwivedi**, and **Pandit Madan Mohan Malaviya**.
+   - Founded in Allahabad by **Gauri Shankar Mishra**, **Indra Narayan Dwivedi (द्विवेदी)**, and **Pandit Madan Mohan Malaviya (मालवीय)**.
    - Set up over 450 branches across Awadh to combat unlawful evictions (*Bedakhli*), high rents (*Nazrana*), and begar.
 2. **Oudh Kisan Sabha (October 1920):**
-   - Emerged out of grassroots mobilization at **Pratapgarh**; led by **Baba Ramchandra** (Gwalior-born Maharashtrian wanderer who united tenants by reciting Tulsidas's *Ramcharitmanas*), along with Jawaharlal Nehru and Mata Badal Pande.
+   - Emerged out of grassroots mobilization at **Pratapgarh**; led by **Baba Ramchandra** (Gwalior-born Maharashtrian wanderer who united tenants by reciting Tulsidas (तुलसीदास)'s *Ramcharitmanas*), along with Jawaharlal Nehru and Mata Badal Pande.
    - Demanded abolition of *Bedakhli* and illegal cesses; urged peasants to refuse tilling lands from which tenants had been unjustly evicted.
 3. **The Eka Movement (1921–1922):**
    - Centred in northern Awadh: **Hardoi, Bahraich, Sitapur, and Barabanki**.
    - Led by charismatic grassroots leader **Madari Pasi** and Sahraj.
-   - Characterized by a sacred ritual where peasants gathered around a fire/water pit, taking solemn vows to:
+   - Characterized by a sacred ritual (कर्मकाण्ड) where peasants gathered around a fire/water pit, taking solemn vows to:
      - Pay only the recorded statutory rent, not illegal cesses.
      - Refuse to perform forced uncompensated labour (*Begar*).
      - Boycott landlords who evicted tenants.
 4. **All India Kisan Sabha (AIKS, April 1936):**
    - Founded on **11 April 1936 at Lucknow**.
-   - **President:** **Swami Sahajanand Saraswati**; **General Secretary:** **N. G. Ranga**.
+   - **President:** **Swami (स्वामी) Sahajanand Saraswati (सरस्वती)**; **General Secretary:** **N. G. Ranga**.
    - Jawaharlal Nehru addressed the conference; published the radical *Kisan Manifesto* demanding land redistribution and 50% rent reduction.
 
 ### 5.2 Revolutionary Vanguard in UP: HRA & Kakori Train Action
 1. **Hindustan Republican Association (HRA, October 1924):**
    - Founded at a clandestine meeting in **Kanpur** in October 1924.
-   - Founding Leaders: **Sachindra Nath Sanyal** (author of *Bandi Jeevan*), **Ram Prasad Bismil**, **Jogesh Chandra Chatterjee**, and Narendra Mohan Sen.
+   - Founding Leaders: **Sachindra Nath Sanyal** (author of *Bandi Jeevan*), **Ram Prasad Bismil** (राम प्रसाद), **Jogesh Chandra Chatterjee**, and Narendra Mohan Sen.
    - Goal: Overthrow British colonial rule through armed revolution and establish a *Federal Republic of the United States of India*.
 2. **Kakori Train Action (9 August 1925):**
    - To fund revolutionary arms purchases, ten HRA revolutionaries led by Ram Prasad Bismil and Ashfaqulla Khan stopped the **8-Down Saharanpur–Lucknow passenger train at Kakori**, near Lucknow, and decamped with the British official railway cash.
    - The British government launched the massive **Kakori Conspiracy Case**. Celebrated defense lawyer Pandit Jagat Narain Mulla prosecuted on behalf of the Crown.
-   - **Martyrdom of Four Titans (Hanged in December 1927):**
+   - **Martyrdom of Four (चातुर्याम) Titans (Hanged in December 1927):**
      - **Ram Prasad Bismil:** Hanged on **19 December 1927 at Gorakhpur Jail**. (Penned: *"Sarfaroshi ki tamanna ab hamare dil mein hai"*).
      - **Ashfaqulla Khan:** Hanged on **19 December 1927 at Faizabad Jail**. (First Muslim revolutionary hanged for freedom in India).
      - **Thakur Roshan Singh:** Hanged on **19 December 1927 at Naini Central Jail (Allahabad)**.
@@ -236,7 +236,7 @@ Uttar Pradesh hosted **9 landmark annual sessions of the Indian National Congres
 
 ---
 
-## 6. Gandhian Landmarks: Chauri-Chaura, Swaraj Party & Quit India
+## 6. Gandhian Landmarks: Chauri-Chaura, Swaraj (स्वराज) Party & Quit India
 
 ```
                   Gandhian Milestones in Uttar Pradesh
@@ -253,19 +253,19 @@ Uttar Pradesh hosted **9 landmark annual sessions of the Indian National Congres
 - **Venue:** Chauri-Chaura, a rural market town in **Gorakhpur district**.
 - **The Trigger:** On 4 February 1922, police under Sub-Inspector Gupteshar Singh beat volunteers picketing liquor and foreign cloth shops; police then fired into an unarmed crowd of 2,500 demonstrators, exhausting their ammunition.
 - **The Retaliation:** Enraged crowd chased the policemen into the Chauri-Chaura *Thana*, locked the doors from outside, and set it ablaze with kerosene. 22 policemen and 1 sub-inspector perished in the inferno.
-- **Withdrawal of NCM:** Devastated by the violence, Mahatma Gandhi declared that the nation was not yet trained in Ahimsa and had committed a *"Himalayan Blunder"*. On **12 February 1922**, at a meeting of the Congress Working Committee in **Bardoli (Gujarat)**, Gandhi unilaterally **called off the Non-Cooperation Movement**.
+- **Withdrawal of NCM (असहयोग):** Devastated by the violence, Mahatma Gandhi declared that the nation was not yet trained in Ahimsa and had committed a *"Himalayan Blunder"*. On **12 February 1922**, at a meeting of the Congress Working Committee in **Bardoli (Gujarat)**, Gandhi unilaterally **called off the Non-Cooperation Movement**.
 
 ### 6.2 Swaraj Party (Allahabad, 1 January 1923)
-- Formed at **Anand Bhavan, Allahabad** on 1 January 1923 following the Gaya Congress deadlock.
+- Formed at **Anand Bhavan, Allahabad** on 1 January 1923 following the Gaya (गया) Congress deadlock.
 - **Founders:** **Chittaranjan Das** (President) and **Pandit Motilal Nehru** (Secretary).
 - Proponents of the "Pro-Changer" strategy: Sought to enter colonial legislative councils to "wreck the constitution from within".
 
 ### 6.3 Quit India Movement (1942) & Ballia Parallel Government
 - **Chittu Pandey & Ballia Parallel Government:**
   - On **19 August 1942**, legendary nationalist leader **Chittu Pandey** (hailed as *"Sher-e-Ballia"* / Lion of Ballia) led a mammoth march of peasants, stormed the district jail, and liberated all arrested Congress leaders.
-  - Formed the **First Parallel Government (*Prathama Samanantar Sarkar*)** of the Quit India movement in India.
-  - Collector Nigam handed over administrative power to Chittu Pandey; declared Ballia completely independent for one week before British troops under Captain Marsh Smith reoccupied the town.
-- **Student Resistance:** Students of **Banaras Hindu University (BHU)** and **Allahabad University** paralyzed railway lines, cut telegraph wires, and circulated underground bulletins (*Azad Hind* bulletins).
+  - Formed the **First Parallel Government (*Prathama Samanantar Sarkar (सरकार)*)** of the Quit India movement in India.
+  - Collector Nigam handed over administrative power to Chittu Pandey; declared Ballia completely independent for one week before British troops under Captain Marsh Smith (स्मिथ) reoccupied the town.
+- **Student Resistance:** Students of **Banaras Hindu University (BHU)** and **Allahabad University** paralyzed railway lines, cut telegraph wires, and circulated underground bulletins (*Azad Hind* (आज़ाद हिंद) bulletins).
 
 ---
 

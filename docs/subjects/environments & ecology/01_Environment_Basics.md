@@ -1,4 +1,4 @@
-﻿# Topic 1 — Environment Basics
+﻿# Topic 1 — Environment (पर्यावरण) Basics
 ### ★ UPPCS Revision Sheet — Lucent-style (no repetition · Practice ≥25)
 
 <details>
@@ -21,7 +21,7 @@ Environment – Meaning | Environmental Components | Classification of Environme
 |------|------|-----------|
 | **2023** | **Amrit Dharohar Scheme** — wetlands conservation; launched on WED 2023 | Wetlands + governance |
 | **2023** | **National Green Hydrogen Mission** | SD / climate policy overlap |
-| **2019** | **NCAP** — 132 cities; 20–30% PM2.5/PM10 reduction target by 2024 | Urban environment governance |
+| **2019** | **NCAP** (राष्ट्रीय स्वच्छ वायु कार्यक्रम) — 132 cities; 20–30% PM2.5/PM10 reduction target by 2024 | Urban (नगरीय) environment governance |
 
 ---
 
@@ -29,30 +29,30 @@ Environment – Meaning | Environmental Components | Classification of Environme
 ## Consolidated — 29 Must-Score Facts
 
 1. Environment means the sum of **biotic and abiotic** factors that affect living organisms. Notes do not treat “only physical” or “only living” as the full definition.
-2. The four spheres are **lithosphere, hydrosphere, atmosphere, and biosphere**. Biosphere roughly spans from about **200 m below soil** to about **6 km** above sea level.
-3. **Ecology** is the **study** of organism–environment links. An **ecosystem** is the **functional unit**. A **habitat** is the **place**. A **niche** is the **role**.
+2. The four (चातुर्याम) spheres are **lithosphere, hydrosphere, atmosphere, and biosphere**. Biosphere roughly spans from about **200 m below soil** to about **6 km** above sea level.
+3. **Ecology** (पारिस्थितिकी) is the **study** of organism–environment links. An **ecosystem** (पारिस्थितिकी तंत्र) is the **functional unit**. A **habitat** (वास स्थान) is the **place**. A **niche** is the **role**.
 4. Abiotic factors include light, temperature, water, soil, gases, pH, and salinity. **Edaphic** means soil; **climatic** means weather; **topographic** means slope and altitude.
 5. Biotic structure runs **producers → consumers → decomposers**. **Rhizobium** fixes nitrogen in legumes.
 6. **Liebig’s law** says growth is limited by the **scarcest** essential resource. **Shelford’s law** says a species survives only inside a **min–max tolerance** range.
 7. Land is about **29%** of Earth’s surface and water about **71%**. **Lentic** means standing water; **lotic** means flowing water. Mangroves and wetlands are **transitional**.
 8. Human–environment thought moves **environmental determinism (Ratzel) → possibilism (Vidal de la Blache) → neo-determinism (Griffith Taylor)**.
-9. **IPAT** is Impact = Population × Affluence × Technology. Hardin’s **Tragedy of the Commons** dates to **1968**.
-10. Sustainable development is defined in the **Brundtland Report (1987)**. **Rio 1992** produced **Agenda 21**, **UNFCCC**, and **CBD**.
+9. **IPAT** is Impact = Population (जनसंख्या) × Affluence × Technology. Hardin’s **Tragedy of the Commons** dates to **1968**.
+10. Sustainable development is defined in the **Brundtland Report (1987)** (ब्रंटलैंड रिपोर्ट). **Rio 1992** produced **Agenda 21**, **UNFCCC** (यूएनएफसीसीसी), and **CBD**.
 11. India’s **LiFE** Mission launched in **2022**; the idea was floated at **COP26 in 2021**, not COP25.
-12. **Chipko** began in **1973** at **Reni, Uttarakhand**. **JFM** guidance is **1990**. **FRA** is **2006**.
-13. **Article 48A** is the State DPSP on environment. **Article 51A(g)** is the citizen’s Fundamental Duty. **Article 48** is about agriculture and cows — not environment.
-14. **Article 21** has been read to include a **healthy environment**. The **42nd Amendment (1976)** added 48A and 51A(g).
+12. **Chipko** (चिपको) began in **1973** at **Reni, Uttarakhand (उत्तराखंड)**. **JFM** guidance is **1990**. **FRA** is **2006**.
+13. **Article 48A** is the State DPSP (राज्य के नीति निदेशक तत्व) on environment. **Article 51A(g)** is the citizen’s Fundamental Duty. **Article 48** is about agriculture and cows — not environment.
+14. **Article 21** (अनुच्छेद 21) has been read to include a **healthy environment**. The **42nd (42वां) Amendment (1976)** added 48A and 51A(g).
 15. The **Environment (Protection) Act, 1986** is India’s post-**Bhopal (1984)** umbrella law.
-16. **MoEF** began in **1985** and became **MoEFCC in 2014**. Headquarters is New Delhi.
-17. **Stockholm 1972** was the first UN human-environment conference and led to **UNEP** at **Nairobi**.
-18. World Environment Day is **5 June**. Earth Day is **22 April**. World Wildlife Day is **3 March**, not 22 March.
-19. World Wetlands Day is **2 February**. International Ozone Day is **16 September**. Desertification and Drought Day is **17 June**. International Day for Biological Diversity is **22 May**.
-20. UNEP headquarters is **Nairobi, Kenya**. CPCB and MoEFCC sit in **New Delhi**.
+16. **MoEF** began in **1985** and became **MoEFCC (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय) in 2014**. Headquarters is New Delhi.
+17. **Stockholm 1972** (स्टॉकहोम सम्मेलन) was the first UN human-environment conference and led to **UNEP** (संयुक्त राष्ट्र पर्यावरण कार्यक्रम) at **Nairobi**.
+18. World Environment Day (विश्व पर्यावरण दिवस) is **5 June**. Earth Day (पृथ्वी दिवस) is **22 April**. World Wildlife Day (विश्व वन्यजीव दिवस) is **3 March**, not 22 March.
+19. World Wetlands Day (विश्व आर्द्रभूमि दिवस) is **2 February**. International Ozone Day is **16 September**. Desertification (मरुस्थलीकरण) and Drought (सूखा) Day is **17 June**. International Day for Biological Diversity is **22 May**.
+20. UNEP headquarters is **Nairobi, Kenya**. CPCB (केंद्रीय प्रदूषण नियंत्रण बोर्ड) and MoEFCC sit in **New Delhi**.
 21. The **Brundtland Commission (WCED)** worked **1983–1987** and defined sustainable development in *Our Common Future*.
-22. Uttar Pradesh mainly falls in the **Gangetic Plain** biogeographic zone (**Zone 7**).
-23. Classic UP river–city facts include Ganga at Varanasi and Kanpur, Yamuna at Agra, and Gomti at Lucknow.
-24. Pollution hotspots often tested for UP include **Kanpur tanneries**, NCR air (Ghaziabad/Noida), and Ganga ghats at **Varanasi**.
-25. **Ganga Action Plan** began in **1985**. **Namami Gange** launched in **2014**.
+22. Uttar Pradesh (उत्तर प्रदेश) mainly falls in the **Gangetic Plain** biogeographic zone (**Zone 7**).
+23. Classic UP river–city facts include Ganga (गंगा) at Varanasi (वाराणसी) and Kanpur (कानपुर), Yamuna (यमुना) at Agra, and Gomti at Lucknow (लखनऊ).
+24. Pollution hotspots often tested for UP include **Kanpur tanneries**, NCR air (Ghaziabad/Noida), and Ganga ghats at **Varanasi** (वाराणसी).
+25. **Ganga Action Plan** (गंगा एक्शन प्लान) began in **1985**. **Namami Gange** (नमामि गंगे) launched in **2014**.
 26. A standard triad classifies environment as **physical**, **biological**, and **cultural**. **Operational environment** is **not** part of that triad.
 27. Natural versus anthropogenic, terrestrial versus aquatic, and internal versus external are further common classification axes.
 28. Micro-, meso-, and macro-scales describe environment size from a pond edge to a region or the globe. Competitive papers usually default to the **natural/physical** sense of environment.
@@ -119,7 +119,7 @@ Environment – Meaning | Environmental Components | Classification of Environme
 |--------|------------|
 | **NCERT (Class 12)** | Sum of all **biotic + abiotic** factors influencing living organisms ← **most asked** |
 | **UNEP** | Physical, chemical, and biotic factors acting on organism/community, determining form and survival |
-| **EPA 1986 (Legal)** | Water, air, land + inter-relationship among them and with humans, other living beings, plants, and property |
+| **EPA 1986 (पर्यावरण संरक्षण 1986) (Legal)** | Water, air, land + inter-relationship among them and with humans, other living beings, plants, and property |
 | **General** | External conditions — physical, chemical, biological, social, economic, cultural — affecting life |
 
 - French *environ* means surroundings (परिवेश).
@@ -129,16 +129,16 @@ Environment – Meaning | Environmental Components | Classification of Environme
 - The **atmosphere** is the gaseous envelope. Roughly **78%** is nitrogen and **21%** is oxygen.
 - The **biosphere** is the zone where life exists. It spans from about **200 m below soil** to about **6 km above sea level**, where lithosphere, hydrosphere, and atmosphere meet.
 - **Pedosphere** (soil) is usually grouped with the lithosphere or with edaphic abiotic factors. It is not counted as a fifth sphere.
-- The **troposphere** extends from the surface to about **12 km**. All weather phenomena occur here.
-- The **stratosphere** lies roughly **12–50 km** above the surface. The **ozone layer** that absorbs UV radiation sits in this layer.
+- The **troposphere** (क्षोभमंडल) extends from the surface to about **12 km**. All weather phenomena occur here.
+- The **stratosphere** (समतापमंडल) lies roughly **12–50 km** above the surface. The **ozone layer** that absorbs UV radiation sits in this layer.
 - **Micro-scale** environment covers immediate surroundings such as a room or a pond edge.
 - **Meso-scale** covers a village or city.
 - **Macro-scale** covers regional or global systems.
 - **Total environment** can be natural, social, economic, or cultural. Competitive papers usually default to **natural/physical** environment.
-- The **Stockholm Conference (1972)** was the first major UN conference on the human environment.
+- The **Stockholm Conference (1972)** (स्टॉकहोम सम्मेलन 1972) was the first major UN conference on the human environment.
 - **UNEP** (United Nations Environment Programme) was created at Stockholm. Its headquarters is in **Nairobi, Kenya**.
 - **World Environment Day (WED)** is observed every year on **5 June**. The date marks the opening day of the Stockholm Conference in 1972.
-- **MoEF** was established in **1985**. It was renamed **MoEFCC in 2014** when climate change was added to its mandate.
+- **MoEF** was established in **1985**. It was renamed **MoEFCC in 2014** when climate change (जलवायु परिवर्तन) was added to its mandate.
 - The **Environment (Protection) Act, 1986** is India's umbrella environmental law. Parliament passed it after the **Bhopal Gas Tragedy (1984)**.
 - **Article 48A** is a Directive Principle. The State shall protect the environment and safeguard forests and wildlife. The **42nd Amendment (1976)** added it.
 - **Article 51A(g)** is a Fundamental Duty. Every citizen shall protect and improve the natural environment. The same amendment added it.
@@ -191,7 +191,7 @@ D. Only 1
 
 - About **99%** of biosphere energy comes from the **Sun**.
 - **Liebig's Law of Minimum** states that growth is controlled by the **scarcest essential resource**. That resource is the limiting factor.
-- **Shelford's Law of Tolerance** states that each species survives only within a **minimum–maximum range** for each factor. Beyond that range, stress or death follows even if other factors are abundant.
+- **Shelford's Law of Tolerance** (शेलफोर्ड का सहनशीलता नियम) states that each species survives only within a **minimum–maximum range** for each factor. Beyond that range, stress or death follows even if other factors are abundant.
 - **N₂** makes up about **78%** of air, but most life cannot use it directly. Organisms need **nitrogen fixation** first.
 - **Rhizobium** bacteria live in legume root nodules and fix atmospheric N₂. Pulses, gram, and soybean are common legume examples.
 - **Azotobacter** is a free-living soil bacterium that fixes nitrogen.
@@ -241,21 +241,21 @@ D. Sugarcane
 ### Physical, biological, and cultural environment
 
 - In the standard triad, environment is classified as **physical**, **biological**, and **cultural**.
-- The **physical environment** includes landforms, water bodies, climate, soils, rocks, and minerals.
-- The **biological environment** includes plants, animals, and microorganisms.
+- The **physical environment** (भौतिक पर्यावरण) includes landforms, water bodies, climate, soils, rocks, and minerals.
+- The **biological environment** (जैविक पर्यावरण) includes plants, animals, and microorganisms.
 - The **cultural environment** includes man-made features such as economic, social, and political elements.
 - **Operational environment** is **not** part of this standard classification.
 
-- **Internal environment** means conditions inside an organism's body, such as blood chemistry and tissue fluids studied in physiology.
-- **External environment** means conditions outside the organism. Ecology usually studies the external environment.
+- **Internal environment** (आंतरिक पर्यावरण) means conditions inside an organism's body, such as blood chemistry and tissue fluids studied in physiology.
+- **External environment** (बाह्य पर्यावरण) means conditions outside the organism. Ecology usually studies the external environment.
 
 | Aquatic type | Description | Indian example |
 |--------------|-------------|----------------|
 | **Marine** | Oceans/seas — high salinity | Arabian Sea, Bay of Bengal |
-| **Lentic** | **Standing** freshwater | Loktak Lake, Dal Lake |
+| **Lentic** | **Standing** freshwater | Loktak Lake (लोकटक), Dal Lake |
 | **Lotic** | **Flowing** freshwater | Ganga, Yamuna |
-| **Estuarine** | River meets sea — brackish | Sundarbans delta |
-| **Wetland** | Transitional — neither fully land nor water | Chilika, Keoladeo |
+| **Estuarine** | River meets sea — brackish | Sundarbans (सुंदरबन) delta (डेल्टा) |
+| **Wetland** | Transitional — neither fully land nor water | Chilika, Keoladeo (केवलादेव) |
 | Marine zone | Location | Key fact |
 |-------------|----------|-----------|
 | **Neritic** | Shallow shelf (0–200 m) | Fisheries, coral, mangroves |
@@ -267,14 +267,14 @@ D. Sugarcane
 
 - A **wetland** is land that stays waterlogged or seasonally flooded, so it is neither fully terrestrial nor fully aquatic.
 - Wetlands store floodwater, recharge groundwater, filter pollutants, and support migratory birds.
-- **World Wetlands Day** is observed on **2 February** (Ramsar Convention anniversary).
+- **World Wetlands Day** is observed on **2 February** (Ramsar (रामसर) Convention anniversary).
 - India’s wetland rules are notified under **Wetlands (Conservation and Management) Rules, 2017**.
-- Classic Indian wetlands s include **Chilika** (Odisha) and **Keoladeo** (Rajasthan).
+- Classic Indian wetlands s include **Chilika** (Odisha) and **Keoladeo** (केवलादेव) (Rajasthan).
 - A **mangrove** is a salt-tolerant coastal forest growing in intertidal / brackish zones.
 - Mangroves act as a storm buffer, reduce shoreline erosion, and nursery fish stocks.
-- India’s largest mangrove stretch is the **Sundarbans** (West Bengal / Bangladesh).
+- India’s largest mangrove stretch is the **Sundarbans** (सुंदरबन) (West Bengal / Bangladesh).
 - In classification questions, mangroves are **coastal transitional**, not “purely terrestrial.”
-- UPSC 2020 trap: among Desert, Mangrove, Rainforest — only Desert and Rainforest count as terrestrial.
+- UPSC (संघ लोक सेवा आयोग) 2020 trap: among Desert, Mangrove, Rainforest — only Desert and Rainforest count as terrestrial.
 
 > **Logic:** Mangrove / wetland = transitional. Do not tick mangrove as terrestrial.
 
@@ -296,20 +296,20 @@ D. Sugarcane
 
 | # | Zone | feature |
 |---|------|--------------|
-| 1 | **Trans-Himalaya** | Cold desert — Ladakh, high-altitude sparse vegetation |
-| 2 | **Himalaya** | Alpine to subtropical belts along the main Himalayan range |
-| 3 | **Desert** | Thar — Rajasthan and adjoining Gujarat |
-| 4 | **Semi-Arid** | Dry scrub/savanna fringe of Gujarat–Maharashtra–central India |
-| 5 | **Western Ghats** | Biodiversity hotspot; high endemism |
-| 6 | **Deccan Peninsula** | Plateau forests and dry deciduous tracts |
-| 7 | **Gangetic Plain** | Fertile alluvial plains — covers **most of UP** |
+| 1 | **Trans-Himalaya** | Cold desert — Ladakh (लद्दाख), high-altitude sparse vegetation |
+| 2 | **Himalaya** (हिमालय) | Alpine to subtropical belts along the main Himalayan range |
+| 3 | **Desert** | Thar (थार) — Rajasthan and adjoining Gujarat |
+| 4 | **Semi-Arid** | Dry scrub/savanna (सवाना) fringe of Gujarat–Maharashtra–central India |
+| 5 | **Western Ghats** (पश्चिमी घाट) | Biodiversity hotspot (जैव विविधता हॉटस्पॉट); high endemism |
+| 6 | **Deccan (दक्कन) Peninsula** | Plateau forests and dry deciduous tracts |
+| 7 | **Gangetic Plain** | Fertile alluvial (जलोढ़) plains — covers **most of UP** |
 | 8 | **Coasts** | Mangroves, estuaries, coral reefs |
 | 9 | **North-East India** | Indo-Malayan biodiversity corridor |
-| 10 | **Islands** | Andaman & Nicobar and Lakshadweep |
+| 10 | **Islands** | Andaman (अंडमान) & Nicobar (निकोबार) and Lakshadweep (लक्षद्वीप) |
 
-- Remember: the number **10**, not 8 or 14. Fourteen is a global biome count from a different classification list.
+- Remember: the number **10**, not 8 or 14. Fourteen is a global biome (जीवोम) count from a different classification list.
 - Most of Uttar Pradesh falls in the **Gangetic Plain** zone.
-- The northern Terai fringe of UP links to Himalayan foothill ecology.
+- The northern Terai (तराई) fringe of UP links to Himalayan foothill ecology.
 
 > **Logic:** UPPCS has asked “how many biogeographic zones in India?” → **10** (Rodgers & Panwar, 1988).
 
@@ -348,7 +348,7 @@ D. Sugarcane
 
 **PYQ — UPPCS Prelims 2023, Q112**
 
-Which of the following is an example of a **Lotic Ecosystem**?
+Which of the following is an example of a **Lotic Ecosystem** (प्रवाही जल)?
 
 A. Swamps
 
@@ -380,7 +380,7 @@ D. Marshy areas
 |---------|-------------------|
 | **Carrying capacity** | Maximum load an environment can sustain indefinitely. Resource extraction must stay **below** regeneration. Waste must stay **within** absorption capacity |
 | **IPAT** | Impact = **P**opulation × **A**ffluence × **T**echnology |
-| **Ecological footprint** | Land/water area needed to support consumption — measured in **global hectares (gha)** |
+| **Ecological footprint** (पारिस्थितिक पदचिह्न) | Land/water area needed to support consumption — measured in **global hectares (gha)** |
 | **Tragedy of the Commons** | Shared resources overexploited when individual interest > collective good — **Garrett Hardin, 1968** |
 | **Sustainable Development** | "Meet present needs without compromising future generations' ability to meet theirs" — **Brundtland Report, 1987** (*Our Common Future*) |
 
@@ -402,8 +402,8 @@ D. Marshy areas
 **Also called:** United Nations Conference on Environment and Development (UNCED) | Place: Rio de Janeiro
 
 - Rio shifted global environment talk from awareness (Stockholm 1972) to an action framework.
-- Three landmark outcomes signed/adopted at Rio are **UNFCCC**, **CBD**, and **Agenda 21**.
-- **UNFCCC** is the climate convention that later produced Kyoto and Paris pathways.
+- Three landmark outcomes signed/adopted (अंगीकृत) at Rio are **UNFCCC**, **CBD**, and **Agenda 21**.
+- **UNFCCC** is the climate convention that later produced Kyoto (क्योटो) and Paris pathways.
 - **CBD** is the Convention on Biological Diversity for conservation and benefit-sharing.
 - Rio is **1992**, not Stockholm 1972 and not Agenda 21’s false “1995” year.
 
@@ -421,7 +421,7 @@ D. Marshy areas
 
 ### LiFE Mission, 2022
 
-**Full form:** Lifestyle for Environment | Nodal idea: India at climate diplomacy
+**Full form:** Lifestyle for Environment (जीवनशैली पर्यावरण) | Nodal idea: India at climate diplomacy
 
 - PM Modi proposed the LiFE idea at **COP26, Glasgow (2021)**.
 - India formally launched **Mission LiFE** in **June 2022**.
@@ -432,19 +432,19 @@ D. Marshy areas
 
 > **Logic:** Idea = COP26 (2021). Launch = **2022**. Not COP-25 Madrid.
 
-### Chipko Movement, 1973
+### Chipko Movement (चिपको आंदोलन), 1973
 
-**Place:** Reni village, Chamoli (then Uttar Pradesh; now **Uttarakhand**)
+**Place:** Reni village, Chamoli (चमोली) (then Uttar Pradesh; now **Uttarakhand** (उत्तराखंड))
 
 - Chipko means villagers hugged trees to stop commercial felling.
 - The 1973 Reni episode is the classic anchor for the movement’s start.
 - **Sunderlal Bahuguna** was a leading Chipko activist linked to the Uttarakhand forest protests.
-- **Chandi Prasad Bhatt** was another key Chipko leader from the Garhwal region.
+- **Chandi Prasad Bhatt** (चंडी प्रसाद भट्ट) was another key Chipko leader from the Garhwal (गढ़वाल) region.
 - Women played a visible role in forest protection protests.
-- Chipko is often cited as **passive resistance** / non-violent environmental action.
+- Chipko is often cited as **passive resistance** (निष्क्रिय प्रतिरोध) / non-violent environmental action.
 - Place trap: Chipko is **not** Assam, Kerala, or Karnataka.
 
-> **Logic:** Chipko = **1973**, Reni, Uttarakhand (then UP). Appiko = Karnataka.
+> **Logic:** Chipko = **1973**, Reni, Uttarakhand (then UP). Appiko (अप्पिको) = Karnataka.
 
 ### Appiko Movement, 1983
 
@@ -457,7 +457,7 @@ D. Marshy areas
 
 > **Logic:** Appiko = **Karnataka, 1983**. Chipko = Uttarakhand.
 
-### Joint Forest Management (JFM), 1990
+### Joint Forest Management (JFM) (संयुक्त वन प्रबंधन), 1990
 
 - JFM is a partnership between the **Forest Department** and local **village communities**.
 - The national policy push is dated to the **1990** Government of India resolution / circular.
@@ -470,7 +470,7 @@ D. Marshy areas
 
 ### Forest Rights Act (FRA), 2006
 
-**Full title:** Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006
+**Full title:** Scheduled Tribes and Other Traditional Forest Dwellers (Recognition (मान्यता) of Forest Rights) Act, 2006
 
 - FRA recognises **individual** and **community** forest rights of Scheduled Tribes and **OTFDs**.
 - OTFD means Other Traditional Forest Dwellers who depended on forests for livelihood.
@@ -478,7 +478,7 @@ D. Marshy areas
 - FRA is framed as justice for forest dwellers, not as a blanket free-for-all to clear forests.
 - Year trap: FRA = **2006**, after JFM 1990 and EPA 1986.
 
-> **Logic:** FRA 2006 = tribal/OTFD forest rights. JFM 1990 = community–State forest partnership.
+> **Logic:** FRA 2006 = tribal (आदिवासी)/OTFD forest rights. JFM 1990 = community–State forest partnership.
 
 - **Polluter Pays** and **Precautionary Principle** entered Indian environmental jurisprudence through *Vellore Citizens Welfare Forum* (**1996**).
 - The **Public Trust Doctrine** treats air, water, and forests as held by government in trust for the public.
@@ -1868,9 +1868,9 @@ D. 1, 2 and 3
 
 ## Mains Answer Framework
 
-**Human–Environment in India (250 words):** Define reciprocal interaction → Chipko/JFM/FRA examples → Art 48A/51A(g)/Art 21 → challenges (Bhopal, urban pollution, dam conflicts) → SD + LiFE + Namami Gange → balance possibilism with ecological limits.
+**Human–Environment in India (250 words):** Define reciprocal interaction → Chipko/JFM/FRA examples → Art 48A/51A(g)/Art 21 → challenges (Bhopal, urban pollution, dam (दाम -) conflicts) → SD + LiFE + Namami Gange → balance possibilism with ecological limits.
 
-**Constitutional environmental protection (200 words):** 42nd Amendment (48A + 51A(g)) → Art 21 expansion via SC → Polluter Pays/Precautionary/Public Trust → local governance (11th/12th Schedule) → Concurrent List forests/wildlife/pollution.
+**Constitutional environmental protection (200 words):** 42nd Amendment (48A + 51A(g)) → Art 21 expansion via SC → Polluter Pays/Precautionary/Public Trust → local governance (11th/12th Schedule (12वीं)) → Concurrent List (समवर्ती सूची) forests/wildlife/pollution.
 
 ---
 

@@ -45,7 +45,7 @@ Newest first. One event, one fact — not a dump of keywords.
 
 ## Consolidated — 30 Must-Score Facts
 
-1. Police and public order are **State List** subjects. The Union still has a duty under Article **355** to protect States against external aggression and internal disturbance. The **Ministry of Home Affairs** is the internal-security nodal ministry.
+1. Police and public order are **State List** (राज्य सूची) subjects. The Union still has a duty under Article **355** to protect States against external aggression and internal disturbance. The **Ministry of Home Affairs** is the internal-security nodal ministry.
 2. The Army, Navy, Air Force, and Coast Guard sit under the **Ministry of Defence**. CAPFs sit under **Home**. Do not put Coast Guard in the CAPF list.
 3. The **Intelligence Bureau** (**1887**) is India’s internal intelligence agency under **MHA**. The Multi-Agency Centre sits with the IB. **NATGRID** is also under MHA.
 4. **RAW** was formed on **21 September 1968** under **R.N. Kao**. It handles **external** intelligence and reports through the **Cabinet Secretariat / NSA** line — **not** MHA.
@@ -452,7 +452,7 @@ Papers mix **MeitY** (incident / IT Act) with **MHA** (crime). Keep the ministri
 
 ### Other cyber desks
 
-- **NCSC** — National Cyber Security Coordinator — **NSCS / NSA** secretariat (~**2015**). Policy glue, not CERT-In DG
+- **NCSC** (राष्ट्रीय अनुसूचित जाति आयोग) — National Cyber Security Coordinator — **NSCS / NSA** secretariat (~**2015**). Policy glue, not CERT-In DG
 - **Defence Cyber Agency** — **2019**, **tri-service**, **MoD**. War-fighting cyber, not I4C fraud
 - **CCA** — Controller of Certifying Authorities — IT Act body that licences **digital-signature** Certifying Authorities. Not incident response
 - **NTRO** — 2004 technical intel; **parents NCIIPC**. Executive. Not a CAPF
@@ -491,7 +491,7 @@ Papers mix **MeitY** (incident / IT Act) with **MHA** (crime). Keep the ministri
 | Law | Life | What to mark |
 |-----|------|----------------|
 | **TADA** | **1985 → lapsed 1995** | First modern terror code. **Not in force** |
-| **POTA** | **2002 → repealed 2004** | Passed after a **joint sitting** of Parliament (only the third joint sitting). Contents **migrated into UAPA** |
+| **POTA** | **2002 → repealed 2004** | Passed after a **joint sitting** (संयुक्त बैठक) of Parliament (only the third joint sitting). Contents **migrated into UAPA** |
 | **UAPA** | **1967 → still in force** | The survivor. 2004/08/13/19 are *amendments*, not new Acts |
 
 > **Logic:** UAPA = **criminal trial**. NSA = **preventive detention**. 2019 can tag **individuals**, not only organisations.
@@ -516,7 +516,7 @@ Papers mix **MeitY** (incident / IT Act) with **MHA** (crime). Keep the ministri
 
 **Map — notifications move; freeze the *direction***
 
-- Lifted: **Tripura, May 2015** · **Meghalaya** (phased, fully out) · large parts of **Assam from 2022**
+- Lifted: **Tripura, May 2015** · **Meghalaya** (मेघालय) (phased, fully out) · large parts of **Assam from 2022**
 - Still notified (whole or pockets): **Nagaland, Manipur, parts of Arunachal Pradesh** · **J&K** under the **1990** Act
 - Never the whole Republic. AFSPA is **area-specific**
 

@@ -5,9 +5,9 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-**Network:** Railways | Roads | Waterways | Ports | Major Ports of India | Natural vs Artificial Harbours | Airports | Major International Airports | Maritime Trade
-**Schemes:** Bharatmala | Sagarmala | Dedicated Freight Corridor | National Waterways | PM Gati Shakti | National Logistics Policy | Blue Economy | Communication (Basic)
-**Tourism:** Incredible India | Hill stations & resorts | World Heritage tourist sites | City nicknames | Pilgrimage geography
+**Network:** Railways | Roads | Waterways | Ports | Major Ports of India | Natural vs Artificial Harbours | Airports | Major International Airports | Maritime Trade (पण्याध्यक्ष)
+**Schemes:** Bharatmala | Sagarmala | Dedicated Freight Corridor | National Waterways | PM Gati Shakti (शक्ति) | National Logistics Policy | Blue Economy (नीली अर्थव्यवस्था) | Communication (Basic)
+**Tourism:** Incredible India | Hill stations & resorts | World Heritage (विश्व धरोहर) tourist sites | City nicknames | Pilgrimage geography
 </details>
 
 > **Sources baked in:** **Ghatnachakra** World Transport/Ports/Mapping (CB–247+); NCERT Class 10–12 transport, Drishti / PW heads, **Ghatnachakra** Transport (CA–352+) + **Tourism / Misc** (CA–376+), UPPCS Prelims 2018–2025
@@ -26,9 +26,9 @@
 | **17 Sep 2022** | **National Logistics Policy** — complements Gati Shakti | Scheme pair |
 | **Feb 2023** | Amrit Bharat: about **1,275** stations all-India; **149** of them in UP for modernisation | 149 = UP stations, not new lines |
 | **2024–26** | **New Pamban** vertical-lift railway sea bridge (RVNL) | RVNL + first vertical-lift fact |
-| **18 Mar 2024** | **FLY91** inaugural from **Manohar Intl** (Mopa, Goa) | New airline + airport pair |
+| **18 Mar 2024** | **FLY91** inaugural from **Manohar Intl** (Mopa, Goa (गोवा)) | New airline + airport pair |
 | **2024–26** | **Noida International (Jewar)** — UP’s new greenfield intl hub | UP airport CA |
-| **DFC** | Western Dadri–JNPT / Eastern Ludhiana–Dankuni — phased opening | Freight spine |
+| **DFC** | Western Dadri (ददरी)–JNPT / Eastern Ludhiana–Dankuni — phased opening | Freight spine |
 
 Sagarmala / Bharatmala remain living umbrella programmes; still tests **name swap**, not project lists.
 
@@ -66,7 +66,7 @@ D. India
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Density is route length per area — Series B keys USA among the four.
+**Logic:** Density is route length per area — Series B keys USA among the four (चातुर्याम).
 
 **Ans: B.** Among the given options, the answer is the **U.S.A.** India is a common distractor on railway-density stems.
 
@@ -79,21 +79,21 @@ D. India
 
 1. Transport moves people and goods; communication moves information. About **95%** of India’s trade by **volume** moves by sea.
 2. India’s first passenger train ran **Mumbai–Thane in 1853**. Indian Railways is organised into about **18 zones** (older books still say 16).
-3. Zone–HQ pairs: **Northern Railway — New Delhi**; **North Eastern Railway — Gorakhpur**; **South Eastern Railway — Garden Reach, Kolkata** (not Cuttack); **East Central Railway — Hajipur**; **North Central Railway — Prayagraj**; **South Western Railway — Hubballi**; **East Coast Railway — Bhubaneswar**.
+3. Zone–HQ pairs: **Northern Railway — New Delhi**; **North Eastern Railway — Gorakhpur (गोरखपुर)**; **South Eastern Railway — Garden Reach, Kolkata** (not Cuttack); **East Central Railway — Hajipur**; **North Central Railway — Prayagraj (प्रयागराज)**; **South Western Railway — Hubballi**; **East Coast Railway — Bhubaneswar**.
 4. The **Western Dedicated Freight Corridor** runs **Dadri–JNPT**. The **Eastern Dedicated Freight Corridor** runs **Ludhiana–Dankuni**.
-5. **Amrit Bharat** is a **station modernisation** programme, not a new-lines scheme. About **1,275** stations were identified all-India; in **February 2023**, **149 Uttar Pradesh stations** were listed.
+5. **Amrit Bharat** is a **station modernisation** programme, not a new-lines scheme. About **1,275** stations were identified all-India; in **February 2023**, **149 Uttar Pradesh (उत्तर प्रदेश) stations** were listed.
 6. The new **Pamban** bridge is an **RVNL** project and India’s first **vertical-lift** railway sea bridge. Hubballi holds both the **South Western Railway HQ** and the **August 2020** railway museum.
 7. National Highways are only about **2%** of road length but carry about **40%** of traffic. Rural roads are most of the length and are linked to **PMGSY**.
-8. The **Golden Quadrilateral** joins Delhi–Mumbai–Chennai–Kolkata (about **5,846 km**). North–South is Srinagar–Kanyakumari; East–West is Porbandar–**Silchar**. They meet at **Jhansi**.
+8. The **Golden Quadrilateral** joins Delhi–Mumbai–Chennai–Kolkata (about **5,846 km**). North–South is Srinagar–Kanyakumari (कन्याकुमारी); East–West is Porbandar–**Silchar**. They meet at **Jhansi** (झांसी).
 9. **Bharatmala** is a **highway** programme. **Sagarmala** is **port-led**. Do not swap the two. **PMGSY (2000)** = rural all-weather roads; **PMBJP** = highway BOT corridors.
-10. The **Atal Tunnel** runs under **Rohtang** in the **Pir Panjal** (Himachal / BRO). A bare claim that it is the “world’s longest highway tunnel” is not the safe line.
-11. The built **Purvanchal Expressway** alignment is Lucknow–Azamgarh–Mau–Ghazipur–Ballia. It **passes Mau**; Basti is off the main spine.
+10. The **Atal Tunnel** runs under **Rohtang** (रोहतांग) in the **Pir (पीर) Panjal** (पीर पंजाल) (Himachal (हिमाचल) / BRO). A bare claim that it is the “world’s longest highway tunnel” is not the safe line.
+11. The built **Purvanchal (पूर्वांचल) Expressway** alignment is Lucknow (लखनऊ)–Azamgarh–Mau–Ghazipur–Ballia. It **passes Mau**; Basti is off the main spine.
 12. India has **12 major ports** plus many non-major ports. **IWAI** dates from **1986**. The 2016 Act notified **111 National Waterways**.
-13. National Waterway pairs: **NW-1** = Ganga, Haldia–Prayagraj; **NW-2** = Brahmaputra, Dhubri–Sadiya; **NW-3** = Kerala West Coast Canal; **NW-4** = Godavari–Krishna / Kakinada–Puducherry; **NW-5** = Brahmani–Mahanadi–East Coast Canal.
+13. National Waterway pairs: **NW-1** = Ganga (गंगा), Haldia–Prayagraj; **NW-2** = Brahmaputra (ब्रह्मपुत्र), Dhubri–Sadiya; **NW-3** = Kerala West Coast Canal; **NW-4** = Godavari (गोदावरी)–Krishna (कृष्णा) / Kakinada–Puducherry; **NW-5** = Brahmani–Mahanadi (महानदी)–East Coast Canal.
 14. A July 2020 containership link from Kolkata toward Agartala used the **Chattogram** route.
-15. Port–state pairs: **Paradip (Odisha)**, **Tuticorin / VOC (Tamil Nadu)**, **Kakinada (Andhra Pradesh)**, **Alappuzha (Kerala)**. **JNPT** is the container flagship; **Kolkata–Haldia** is riverine.
+15. Port (बंदरगाह)–state pairs: **Paradip (Odisha)**, **Tuticorin / VOC (Tamil Nadu (नाडु))**, **Kakinada (Andhra Pradesh)**, **Alappuzha (Kerala)**. **JNPT** is the container flagship; **Kolkata–Haldia** is riverine.
 16. A **harbour** is sheltered water; a **port** is harbour plus cargo facilities. **Igarka** is in **Russia**, not China.
-17. **Kushinagar** became an international airport on **24 June 2020**. **Cochin** was India’s first solar-powered airport. **Jewar** is Noida International Airport.
+17. **Kushinagar** (कुशीनगर) became an international airport on **24 June 2020**. **Cochin** was India’s first solar-powered airport. **Jewar** is Noida International Airport.
 18. FLY91’s inaugural flight (18 March 2024) was from **Manohar International Airport** (Goa Mopa).
 19. The Motihari–**Amlekhganj** (Nepal) petroleum pipeline was inaugurated in **September 2019**.
 20. **PM Gati Shakti** was launched on **13 October 2021** with the “seven engines” model. The **National Logistics Policy** (September 2022) complements it. The **Blue Economy** means ocean-based growth.
@@ -102,8 +102,8 @@ D. India
 23. NHAI was set up in **1995**. Expressways are access-controlled highways, distinct from ordinary National Highways.
 24. West-coast major ports include Kandla (Deendayal), Mumbai, JNPT, Mormugao, New Mangalore and Cochin. East-coast majors include Kolkata–Haldia, Paradip, Vizag, Chennai, Ennore (Kamarajar) and Tuticorin.
 25. **Incredible India** is the MoT tourism brand; **ITDC** dates from **1966**. Match hill stations carefully: Chakrata–UK, Haflong–Assam, Kalimpong–WB, Kufri–HP.
-26. **City of Lakes = Udaipur** (not Jaisalmer). **Pink City = Jaipur**. **Sabarimala = Kerala**. UNESCO tourist set includes Champaner–Pavagarh, CST Mumbai, Mamallapuram and Konark.
-27. **Srisailam = Nallamala**; Omkareshwar and Pushkar are **not** on Satmala / Mahadeo in the IAS 2015 trap. **Biligiriranga** holds the standing Ranganatha note in Karnataka.
+26. **City of Lakes = Udaipur (उदयपुर)** (not Jaisalmer). **Pink City = Jaipur**. **Sabarimala = Kerala**. UNESCO tourist set includes Champaner–Pavagarh, CST Mumbai, Mamallapuram and Konark (कोणार्क).
+27. **Srisailam = Nallamala**; Omkareshwar (ओंकारेश्वर) and Pushkar are **not** on Satmala / Mahadeo in the IAS 2015 trap. **Biligiriranga** holds the standing Ranganatha note in Karnataka.
 ---
 
 ## Confused Pairs
@@ -141,7 +141,7 @@ D. India
 |------|------|
 | First passenger train | Mumbai–Thane **1853** |
 | Zones | ~**18** (older books: 16) |
-| Northern / NER / SER HQ | New Delhi / **Gorakhpur** / Garden Reach, Kolkata |
+| Northern / NER / SER HQ | New Delhi / **Gorakhpur** (गोरखपुर) / Garden Reach, Kolkata |
 | Western DFC | **Dadri–JNPT** |
 | Eastern DFC | **Ludhiana–Dankuni** |
 | Amrit Bharat | Station modernisation (≠ new lines); ~**149** UP stations |
@@ -187,7 +187,7 @@ Transport and communication are the **arteries of circulation** of the economy.
 - About **95% of India’s trade by volume** (and a large share by value) moves by **sea**.
 - Inland waterways still carry only a **tiny** share of cargo, so schemes try to raise that share.
 - Multimodal planning under **PM Gati Shakti** and the **National Logistics Policy** aims to cut logistics cost and time.
-- Map reading for this chapter pairs **routes** (GQ, DFC, NW-1, HBJ) with **nodes** (ports, airports, railway HQs and UP expressway towns).
+- Map reading (रीडिंग) for this chapter pairs **routes** (GQ, DFC, NW-1, HBJ) with **nodes** (ports, airports, railway HQs and UP expressway towns).
 
 ---
 
@@ -204,18 +204,18 @@ Indian Railways is the country’s principal long-distance land carrier for pass
 - **Pir Panjal** rail tunnel (~**11.2 km**) is the classic long Himalayan rail tunnel.
 - **Fairy Queen** uses one of the world’s oldest working steam engines (1855 / re-launch).
 
-| Factory / works | Place | What it builds |
+| Factory (फैक्टरी) / works | Place | What it builds |
 |-----------------|-------|----------------|
 | Rail Coach Factory | **Kapurthala** | Coaches |
 | Integral Coach Factory | **Perambur** (Chennai) | Coaches |
 | Chittaranjan Locomotive Works | **Chittaranjan** | Electric locomotives |
-| Banaras Locomotive Works | **Varanasi / Manduadih** | Diesel–electric locomotives |
+| Banaras Locomotive Works | **Varanasi (वाराणसी) / Manduadih** | Diesel–electric locomotives |
 | Modern Coach Factory | **Rae Bareli** | Third major coach factory |
 
 - **National Academy of Indian Railways** (old Railway Staff College) is at **Vadodara**.
 - First **CNG** passenger train: **Rewari–Rohtak**. First PPP rail line note: **Gandhidham–Tuna Tekra (Gujarat)**.
-- **Darjeeling Himalayan Railway** (Siliguri–Darjeeling) is a UNESCO Mountain Railway of India site (with Nilgiri and Kalka–Shimla).
-- **Mumbai–Ahmedabad** is India’s first high-speed / bullet-train corridor project (~508 km; Japan partnership).
+- **Darjeeling Himalayan Railway** (Siliguri–Darjeeling) is a UNESCO Mountain Railway of India site (with Nilgiri (नीलगिरि) and Kalka–Shimla).
+- **Mumbai–Ahmedabad (अहमदाबाद)** is India’s first high-speed / bullet-train corridor project (~508 km; Japan partnership).
 - Sal / sakhu hard wood is the classic **railway sleeper** timber fact.
 
 | Zone | Headquarters |
@@ -227,7 +227,7 @@ Indian Railways is the country’s principal long-distance land carrier for pass
 | Eastern | Kolkata (Fairlie Place) |
 | South Eastern | **Garden Reach, Kolkata** |
 | Southern | Chennai |
-| South Central | **Secunderabad** (not Hyderabad city trap) |
+| South Central | **Secunderabad** (not Hyderabad (हैदराबाद) city trap) |
 | Western | Churchgate, Mumbai |
 | West Central | Jabalpur |
 | Central | Mumbai CSMT |
@@ -250,7 +250,7 @@ Amrit Bharat redevelops **existing passenger stations**. It upgrades buildings, 
 
 It does **not** build new railway lines or new tracks. The number **149** is not a count of new lines.
 
-As of **February 2023**, the Ministry of Railways had identified about **1,275** stations across India under the scheme. **Uttar Pradesh’s share of that list was 149 stations.**
+As of **February 2023**, the Ministry of Railways had identified about **1,275** stations across India under the scheme. **Uttar Pradesh’s share (भाग) of that list was 149 stations.**
 
 **Inline PYQ — UPPCS Prelims 2023, Q71**
 
@@ -305,7 +305,7 @@ In August 2020, Railway Museum in India was dedicated to the nation at which of 
 
 A. Hubballi
 
-B. Mysore
+B. Mysore (मैसूर)
 
 C. Silvasa
 
@@ -353,7 +353,7 @@ Roads are preferred for short and medium hauls because they are cheaper to build
 |-------|------------------------|----------|
 | **National Highways** | Central government / **NHAI** | About **2%** of road length but about **40%** of road traffic |
 | **State Highways** | State governments | Link the state capital to district headquarters |
-| **District roads** | Zila Parishad / district | Link the district headquarters to important nodes |
+| **District roads** | Zila Parishad (जिला परिषद) / district | Link the district headquarters to important nodes |
 | **Rural roads** | Local bodies; **PMGSY** push | About **80%** of total road length; all-season village links |
 | **Border roads** | **BRO** (from 1960) | Northern and north-eastern borders; high-altitude work |
 | **International highways** | Cross-border links | Neighbour connectivity |
@@ -362,15 +362,15 @@ Roads are preferred for short and medium hauls because they are cheaper to build
 - The **Nagpur Plan (1943)** sorted Indian roads into National Highways, State Highways, District Roads and Village Roads — still the syllabus skeleton.
 - India’s road length is about **63+ lakh km** — the world’s second-largest road network. Roads carry roughly **~90%** of passenger traffic and **~65–70%** of freight in recent NTDPC / MoRTH data (older figures used **~80%** passenger).
 - National Highways are only about **2%** of road length but carry about **40%** of road traffic.
-- National Highway length by state (NHAI, Dec 2022): **Maharashtra > Uttar Pradesh > Rajasthan > Madhya Pradesh**. Older data often ranked **Uttar Pradesh** first.
+- National Highway length by state (NHAI, Dec 2022): **Maharashtra > Uttar Pradesh > Rajasthan > Madhya Pradesh**. Older data often ranked **Uttar Pradesh** (उत्तर प्रदेश) first.
 - **State Highway** length leaders: **Maharashtra**, then Karnataka, Gujarat, Rajasthan (Basic Road Statistics).
 - **Longest NH:** older data cited old **NH-7**; current MoRTH data often cite **NH-27 (EW)** Porbandar–Silchar. **NH-44** is also cited as the longest single corridor (Srinagar–Kanyakumari).
 - **Golden Quadrilateral** links **Delhi–Mumbai–Chennai–Kolkata** (about **5,846 km**); launched under NHDP in **2001**.
-- The **North–South Corridor** links **Srinagar** to **Kanyakumari**.
-- The **East–West Corridor** links **Porbandar** to **Silchar** (not Dwarka / Dibrugarh–Surat).
+- The **North–South Corridor** links **Srinagar** to **Kanyakumari** (कन्याकुमारी).
+- The **East–West Corridor** links **Porbandar** to **Silchar** (not Dwarka (द्वारका) / Dibrugarh–Surat).
 - **NS and EW corridors cross at Jhansi (Uttar Pradesh).**
-- **Pradhan Mantri Bharat Jodo Pariyojana** builds highway corridors to tourist and economic nodes on **BOT**.
-- **Mumbai–Pune** was India’s first six-lane access-controlled expressway (~95 km).
+- **Pradhan Mantri (मंत्री) Bharat Jodo Pariyojana** builds highway corridors to tourist and economic nodes on **BOT**.
+- **Mumbai–Pune (पुणे)** was India’s first six-lane access-controlled expressway (~95 km).
 - **PMGSY** began **25 December 2000** — all-weather rural connectivity to eligible habitations.
 - **Jawahar (Banihal) Tunnel** crosses the **Banihal** axis of the **Pir Panjal** in Jammu & Kashmir (BRO).
 - IAS **2023** connectivity trap: East–West is **not** Dibrugarh–Surat.
@@ -412,7 +412,7 @@ D. Only 1
 
 **Purvanchal Expressway**
 
-The **built** Purvanchal Expressway runs Lucknow–Barabanki–Ambedkar Nagar–Azamgarh–**Mau**–Ghazipur–Ballia.
+The **built** Purvanchal Expressway runs Lucknow–Barabanki–Ambedkar (अम्बेडकर) Nagar–Azamgarh–**Mau**–Ghazipur–Ballia.
 
 - It **does pass Mau**.
 - It does **not** run through **Basti** on the main alignment.
@@ -439,11 +439,11 @@ D. Mau
 
 | Expressway | Note |
 |------------|-----|
-| Yamuna | Greater Noida–Agra |
+| Yamuna (यमुना) | Greater Noida–Agra |
 | Agra–Lucknow | West–central Uttar Pradesh |
 | Purvanchal | Lucknow–Ballia via Azamgarh and **Mau** |
 | Bundelkhand | Southern Uttar Pradesh |
-| Ganga Expressway | Meerut–Prayagraj corridor (under construction / phased) |
+| Ganga Expressway | Meerut (मेरठ)–Prayagraj corridor (under construction / phased) |
 | Gorakhpur Link | Connector toward Gorakhpur / NER city |
 
 ---
@@ -460,15 +460,15 @@ Learn the first five National Waterways by river, stretch and state. They are th
 
 | NW | River / canal | Stretch | States / note |
 |----|---------------|---------|--------------|
-| **NW-1** | Ganga–Bhagirathi–Hooghly | **Haldia–Prayagraj** (about 1,620 km) | UP, Bihar, Jharkhand, West Bengal |
+| **NW-1** | Ganga–Bhagirathi (भागीरथी)–Hooghly (हुगली) | **Haldia–Prayagraj** (about 1,620 km) | UP, Bihar, Jharkhand, West Bengal |
 | **NW-2** | Brahmaputra | **Dhubri–Sadiya** | Assam |
 | **NW-3** | West Coast Canal, Champakara and Udyogmandal canals | **Kottapuram–Kollam** | **Kerala** |
 | **NW-4** | Godavari, Krishna and connected canals (including Buckingham Canal) | **Kakinada–Puducherry** | Andhra Pradesh–Tamil Nadu–Puducherry |
-| **NW-5** | Brahmani–Mahanadi delta and East Coast Canal | **Talcher–Dhamra** / Geonkhali–Charbatia stretch | Odisha–West Bengal |
+| **NW-5** | Brahmani–Mahanadi delta (डेल्टा) and East Coast Canal | **Talcher–Dhamra** / Geonkhali–Charbatia stretch | Odisha–West Bengal |
 
 - Uttar Pradesh sits on **NW-1**.
-- **Jal Marg Vikas** is the capacity-upgrade project on **NW-1**, with multimodal terminals such as **Varanasi**, Sahibganj and Haldia.
-- The **Barak** stretch in Assam (Lakhipur–Bhanga) is another named National Waterway in the 2016 list; do not treat it as NW-1 or NW-2.
+- **Jal Marg Vikas** is the capacity-upgrade project on **NW-1**, with multimodal terminals such as **Varanasi** (वाराणसी), Sahibganj and Haldia.
+- The **Barak** (बराक) stretch in Assam (Lakhipur–Bhanga) is another named National Waterway in the 2016 list; do not treat it as NW-1 or NW-2.
 
 In **July 2020**, the first containership movement from **Kolkata Port to Agartala** used the **Chattogram (Chittagong)** route, not Benapole, Maloti or Payra.
 
@@ -496,7 +496,7 @@ D. Chattogram (Chittagong)
 
 India’s mainland plus island coasts stretch about **7,517 km**.
 
-- A **harbour** is sheltered water where ships can ride safely.
+- A **harbour** is sheltered water where ships (नावाध्यक्ष) can ride safely.
 - A **port** is a harbour **plus** docks, cargo gear and passenger facilities.
 - A **natural harbour** already has coastal shelter; an **artificial harbour** needs breakwaters and dredging.
 - Mumbai, Cochin and Visakhapatnam are often cited as **natural**; **Chennai** is often cited as **artificial** / open seaport.
@@ -514,7 +514,7 @@ India’s mainland plus island coasts stretch about **7,517 km**.
 - **Kandla (Deendayal)** serves a large north-western hinterland, including petroleum products.
 - **Mormugao** is classically an **iron-ore** export port.
 - **Paradip** handles iron ore and coal on the Odisha coast.
-- **Ennore (Kamarajar)** is a major port on the Tamil Nadu coast, north of Chennai — first major port registered as a company; **Mundra** is the largest privately owned port.
+- **Ennore (Kamarajar)** is a major port on the Tamil Nadu coast, north of Chennai — first major port registered as a company (कंपनी); **Mundra** is the largest privately owned port.
 
 | Coast | Major ports |
 |-------|-------------|
@@ -535,7 +535,7 @@ India’s mainland plus island coasts stretch about **7,517 km**.
 | Cochin / Kochi | **Kerala** | Major; natural harbour class |
 | **Alappuzha** ★ | **Kerala** | Non-major; 2025 Q50 |
 | Kolkata–Haldia | **West Bengal** | Major; riverine |
-| **Paradip** ★ | **Odisha** | Major; 2025 Q50 |
+| **Paradip** ★ | **Odisha** (ओडिशा) | Major; 2025 Q50 |
 | Visakhapatnam | **Andhra Pradesh** | Major; natural harbour class |
 | **Kakinada** ★ | **Andhra Pradesh** | Non-major; 2025 Q50 |
 | Krishnapatnam | **Andhra Pradesh** | Non-major / private class |
@@ -606,7 +606,7 @@ Air transport is fast but costly, so it dominates high-value and time-sensitive 
 - **Kushinagar** airport in Uttar Pradesh got international status on **24 June 2020**.
 - **Jewar** is **Noida International Airport**, Uttar Pradesh’s new greenfield international hub.
 - FLY91 is a newly launched Indian airline. Its inaugural flight on **18 March 2024** took off from **Manohar International Airport** (Mopa, Goa).
-- Amritsar’s international airport is **Sri Guru Ram Das Jee** (Raja Sansi).
+- Amritsar (अमृतसर)’s international airport is **Sri Guru (गुरु) Ram Das Jee** (Raja (राजा) Sansi).
 
 **Inline PYQ — UPPCS Prelims 2022, Q27**
 
@@ -678,8 +678,8 @@ Pipelines move oil, gas and products continuously after a high upfront capital c
 - **GAIL** (set up **1984**) transports, processes and markets natural gas on the national grid.
 - The **Hazira–Bijaipur–Jagdishpur (HBJ / HVJ)** gas pipeline is the classic cross-country gas trunk toward western and north-central markets.
 - HBJ draws gas linked to the **Mumbai High / Bassein** offshore fields and feeds fertilizer and power complexes along the Gujarat–Madhya Pradesh–Uttar Pradesh belt, including nodes near **Auraiya** and **Jagdishpur** in Uttar Pradesh.
-- The oldest major crude network taught in school maps runs from **Naharkatiya** (Assam) through **Noonmati / Guwahati** to **Barauni**, with later links toward Kanpur and Haldia branches.
-- The **Salaya–Koyali–Mathura** crude line brings imported west-coast crude inland to Gujarat and **Mathura**, with further northern extensions toward Panipat and Jalandhar in standard notes.
+- The oldest major crude network taught in school maps runs from **Naharkatiya** (Assam) through **Noonmati / Guwahati** to **Barauni**, with later links toward Kanpur (कानपुर) and Haldia branches.
+- The **Salaya–Koyali–Mathura** crude line brings imported west-coast crude inland to Gujarat and **Mathura** (मथुरा), with further northern extensions toward Panipat (पानीपत) and Jalandhar in standard notes.
 - Domestic refinery product lines include feeds around **Mathura** serving north Indian markets.
 - In **September 2019**, the product pipeline from **Motihari (India)** to **Amlekhganj (Nepal)** was inaugurated. It is not Motihari–Kathmandu and not Darbhanga–Amlekhganj.
 
@@ -787,7 +787,7 @@ D. Refraction
 Uttar Pradesh has **no major seaport**. Its identity is rail headquarters, expressways, airports, NW-1, inland pipeline nodes and station redevelopment.
 
 - **North Eastern Railway** has its headquarters at **Gorakhpur**.
-- **North Central Railway** is headquartered at **Prayagraj**, so western and central UP sit on a major rail command map as well.
+- **North Central Railway** is headquartered at **Prayagraj** (प्रयागराज), so western and central UP sit on a major rail command map as well.
 - The built **Purvanchal Expressway** spine is Lucknow–Azamgarh–**Mau**–Ghazipur–Ballia. It **passes Mau**; Basti is off the main alignment.
 - **Kushinagar** became an international airport on **24 June 2020**.
 - **Jewar** is the Noida International Airport project serving the western UP / NCR side.
@@ -816,13 +816,13 @@ Tourism sells India’s **unity in diversity**. The Ministry’s brand is **Incr
 
 | Place | State / UT | Note |
 |-------|------------|-----|
-| **Chakrata** | **Uttarakhand** (Dehradun) | Cantonment; Tiger Fall |
-| **Haflong** | **Assam** | Only hill station of Assam (Dima Hasao) |
+| **Chakrata** | **Uttarakhand** (उत्तराखंड) (Dehradun (देहरादून)) | Cantonment; Tiger Fall |
+| **Haflong** | **Assam** | Only hill station of Assam (Dima (डिम) Hasao) |
 | **Kalimpong** | **West Bengal** | Darjeeling hills |
 | **Kufri** | **Himachal Pradesh** | Near Shimla |
 | **Kasauli** | **Himachal Pradesh** | Solan |
 | **Keylong** | **Himachal Pradesh** | Lahaul |
-| **Auli** | **Uttarakhand** | Ski / hill station |
+| **Auli** (औली) | **Uttarakhand** | Ski / hill station |
 | **Ooty (Udhagamandalam)** | **Tamil Nadu** | Nilgiris |
 | **Gulmarg / Pahalgam** | **J&K** | Valley hill stations |
 | **Chikmagalur** | **Karnataka** | Coffee / hills |
@@ -837,19 +837,19 @@ Tourism sells India’s **unity in diversity**. The Ministry’s brand is **Incr
 | **Pink City** | **Jaipur** | Not Mysore |
 | **City of Lakes** | **Udaipur** | **Not Jaisalmer** |
 | **City of Joy** | Kolkata | Common nickname pair |
-| **City of Mahakal** | Ujjain | Correct with Jaipur pair |
+| **City of Mahakal** | Ujjain (उज्जैन) | Correct with Jaipur pair |
 | **Incredible India** | MoT brand | Not “Beautiful India” |
 | **Sabarimala** | **Kerala** (Ayyappa) | Not TN / KA / AP |
 | **Srisailam** | **Nallamala Hills**, Andhra Pradesh | Mallikarjuna + Bhramaramba; Jyotirlinga |
-| **Omkareshwar** | Mandhata island, **Narmada**, Madhya Pradesh | **Not** Satmala Hills |
-| **Pushkar** | Ajmer, **Aravalli** / Brahma temple | **Not** Mahadeo Hills |
+| **Omkareshwar** | Mandhata island, **Narmada** (नर्मदा), Madhya Pradesh | **Not** Satmala Hills |
+| **Pushkar** | Ajmer (अजमेर), **Aravalli** (अरावली) / Brahma temple | **Not** Mahadeo Hills |
 | **Biligiriranga Hills** | SE Karnataka | Standing **Ranganatha / Venkatesha** temple |
 | **Tirupati Venkateswara** | **Seshachalam** (Andhra Pradesh) | Not Shevaroy / Jawadhu / Biligiri as the main Tirupati hill |
 | **Udvada** | Gujarat | Zoroastrian fire temple |
 | **Point Calimere** | Nagapattinam, Tamil Nadu | Apex of **Coromandel Coast** |
 | **Konark Sun Temple** | Odisha coast; UNESCO **1984**; Narasimha Deva I | World Heritage |
 | **Champaner–Pavagarh** | Panchmahal, Gujarat; UNESCO **2004** | World Heritage |
-| **Mamallapuram** | Pallava stone town, Tamil Nadu; UNESCO | World Heritage |
+| **Mamallapuram** | Pallava (पल्लव) stone town, Tamil Nadu; UNESCO | World Heritage |
 | **CST Mumbai** | Victorian Gothic terminus; UNESCO | World Heritage |
 | Ghost towns | Kuldhara, Dhanushkodi, Lakhpat | **Charkhari** is **not** a ghost town (Mahoba, UP) |
 
@@ -862,28 +862,28 @@ Tourism sells India’s **unity in diversity**. The Ministry’s brand is **Incr
 
 Keep these as one-line map associations that leak into the transport–economy paper.
 
-- **Biogas** plants give **both power and manure**.
+- **Biogas** (बायोगैस) plants give **both power and manure**.
 - **Speed Post** began **1 August 1986**.
 - **Thumba (TERLS)** sits near the **geomagnetic equator** (Kerala) — that is why the rocket range was sited there.
-- **BARC** is in **Maharashtra** (Trombay). **Pokhran** is in **Rajasthan**. India’s first reactor was **Apsara** (1956).
+- **BARC** is in **Maharashtra** (Trombay). **Pokhran** is in **Rajasthan** (थार). India’s first reactor was **Apsara** (1956).
 - **Himalayan Mountaineering Institute** is at **Darjeeling**.
 - At **Chandipur (Odisha)** the sea recedes far at low tide, leaving a walkable foreshore.
 - Near Mumbai, **Alibag** is a holiday resort, **Nhava Sheva** is the container port, and **Ratnagiri** is known for fishing.
 - The **Green Highways Policy** means **tree plantation** along highways.
-- On the saree map, **Chanderi**, **Banarasi** and **Kanjivaram** are textile centres; **Moradabad** is brass / Peetal Nagri, not a saree match.
+- On the saree map, **Chanderi**, **Banarasi** (बनारसी) and **Kanjivaram** are textile centres; **Moradabad** is brass / Peetal Nagri, not a saree match.
 
 | Stadium | City |
 |---------|------|
 | **Aishbagh** | **Bhopal** |
 | **Brabourne** | **Mumbai** |
-| **Green Park** | **Kanpur** |
+| **Green Park** | **Kanpur** (कानपुर) |
 | **Eden Gardens** | **Kolkata** |
 | Pilgrimage centre | State / place |
 |-------------------|---------------|
 | **Rameswaram** | **Tamil Nadu** |
-| **Dwarka** | **Gujarat** |
-| **Sarnath** | **Uttar Pradesh** |
-| **Mahakal** | **Ujjain**, Madhya Pradesh |
+| **Dwarka** (द्वारका) | **Gujarat** |
+| **Sarnath** (सारनाथ) | **Uttar Pradesh** |
+| **Mahakal** | **Ujjain** (उज्जैन), Madhya Pradesh |
 
 ---
 
@@ -4246,7 +4246,7 @@ D. None
 | Port Nolloth | South Africa **diamond** port |
 | Gwadar | **Pakistan** (Balochistan), Arabian Sea |
 | Igarka | **Russia** (Yenisei) — not China |
-| Alexandria | **Egypt** |
+| Alexandria | **Egypt** (मिस्र) |
 
 **Isopleths / relief**
 

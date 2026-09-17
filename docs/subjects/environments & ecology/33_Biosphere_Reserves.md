@@ -1,10 +1,10 @@
-# Topic 33 — Biosphere Reserves
+# Topic 33 — Biosphere Reserves (जैवमंडल आरक्षित क्षेत्र)
 ### ★ UPPCS Revision Sheet — Lucent-style (no repetition · Practice ≥25)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Biosphere Reserve | Major Biosphere Reserves of India | Biosphere Reserves of Uttar Pradesh | Biosphere Reserves of the World
+Biosphere Reserve (जैवमंडल आरक्षित क्षेत्र) | Major Biosphere Reserves of India | Biosphere Reserves of Uttar Pradesh (उत्तर प्रदेश) | Biosphere Reserves of the World
 
 </details>
 
@@ -23,30 +23,30 @@ Biosphere Reserve | Major Biosphere Reserves of India | Biosphere Reserves of Ut
 
 ## Consolidated — 24 Must-Score Facts
 
-1. A Biosphere Reserve is a **UNESCO MAB (1971)** landscape with **core → buffer → transition**. It is **not** a Wildlife Protection Act category.
+1. A Biosphere Reserve is a **UNESCO MAB (1971)** landscape with **core → buffer → transition**. It is **not** a Wildlife Protection (वन्यजीव सुरक्षा) Act category.
 2. India has **18** notified national Biosphere Reserves. About **13** sit on the UNESCO World Network.
-3. India’s **first** Biosphere Reserve is **Nilgiri (1986)**. The **largest** is **Great Rann of Kutch (Gujarat)**. The **smallest** is **Nokrek (Meghalaya)**.
-4. **Nokrek** is in **Meghalaya**. Pairing Nokrek with **Manipur** is always wrong.
+3. India’s **first** Biosphere Reserve is **Nilgiri (नीलगिरि) (1986)**. The **largest** is **Great Rann of Kutch (Gujarat)**. The **smallest** is **Nokrek (Meghalaya (मेघालय))**.
+4. **Nokrek** is in **Meghalaya** (मेघालय). Pairing Nokrek with **Manipur** is always wrong.
 5. **Manas (Assam)** remains a national Biosphere Reserve but was **removed from the UNESCO World Network in 2011**.
-6. **Uttar Pradesh has zero Biosphere Reserves.** Nanda Devi BR is in **Uttarakhand**, not UP.
-7. Dudhwa is a National Park. Valmiki is a Bihar National Park. Neither is a UP Biosphere Reserve.
+6. **Uttar Pradesh has zero Biosphere Reserves.** Nanda Devi (नंदा देवी) BR is in **Uttarakhand** (उत्तराखंड), not UP.
+7. Dudhwa (दुधवा) is a National Park. Valmiki (वाल्मीकि) is a Bihar National Park. Neither is a UP Biosphere Reserve.
 8. Match fact: **Simlipal–Odisha**, **Nokrek–Meghalaya**, **Agasthyamalai–Kerala**, **Manas–Assam**.
 9. Match fact: **Simlipal–Odisha**, **Pachmarhi–Madhya Pradesh**, **Nanda Devi–Uttarakhand**, **Nokrek–Meghalaya**.
 10. **Panna (Madhya Pradesh, 2011)** is India’s newest notified Biosphere Reserve.
 11. Madhya Pradesh has **three** Biosphere Reserves: Pachmarhi, Achanakmar–Amarkantak (with Chhattisgarh), and Panna.
-12. Multi-state classics: **Nilgiri** (Tamil Nadu–Karnataka–Kerala), **Agasthyamalai** (Kerala–Tamil Nadu), **Achanakmar–Amarkantak** (MP–Chhattisgarh).
+12. Multi-state classics: **Nilgiri** (नीलगिरि) (Tamil Nadu (नाडु)–Karnataka–Kerala), **Agasthyamalai** (Kerala–Tamil Nadu), **Achanakmar–Amarkantak** (MP–Chhattisgarh).
 13. Core allows **no exploitation**. Buffer allows limited research and education use. Transition supports livelihoods.
 14. A National Park is the strictest Wildlife Protection Act site. A Biosphere Reserve adds sustainable use and research under MAB.
 15. World Network membership is a UNESCO subset of national Biosphere Reserves. National listing alone is not enough for WNBR.
 16. Bihar and Rajasthan also have **zero** Biosphere Reserves. Valmiki remains an NP, not a BR.
-17. Gulf of Mannar is a **marine** Biosphere Reserve in Tamil Nadu. Sundarbans BR is in West Bengal.
-18. Cold Desert BR is in **Himachal Pradesh**. Khangchendzonga BR is in **Sikkim**.
-19. Seshachalam Hills BR is in **Andhra Pradesh**. Great Nicobar BR is in the Andaman and Nicobar Islands.
+17. Gulf of Mannar is a **marine** Biosphere Reserve in Tamil Nadu. Sundarbans (सुंदरबन) BR is in West Bengal.
+18. Cold Desert BR is in **Himachal (हिमाचल) Pradesh**. Khangchendzonga BR is in **Sikkim**.
+19. Seshachalam Hills BR is in **Andhra Pradesh**. Great Nicobar (निकोबार) BR is in the Andaman (अंडमान) and Nicobar Islands.
 20. Periodic UNESCO review can delist a site from the World Network — India’s example is **Manas 2011**.
 21. Yellowstone, Serengeti–Ngorongoro, Galápagos, Lake Baikal, Doñana, and Mount Kenya are classic world Biosphere icons.
 22. Do not place Nanda Devi in Uttar Pradesh on a match list. After bifurcation it is an **Uttarakhand** site.
 23. Agasthyamalai paired only with Kerala is accepted as correct in recent papers even though the landscape also spans Tamil Nadu.
-24. Biosphere Reserves can overlap National Parks and World Heritage tags, but the MAB label is still a separate tool.
+24. Biosphere Reserves can overlap National Parks and World Heritage (विश्व धरोहर) tags, but the MAB label is still a separate tool.
 25. Among common options, **biosphere reserves** are the best strategy for conserving biodiversity **together with traditional human life / cultural diversity**. **Gulf of Mannar** is often cited as India’s richest marine biodiversity BR mosaic.
 
 ---
@@ -84,15 +84,15 @@ Biosphere Reserve | Major Biosphere Reserves of India | Biosphere Reserves of Ut
 
 ## 33.1 Biosphere Reserve
 
-**Identity:** UNESCO MAB 1971 | Core–Buffer–Transition | MoEFCC executive | No WPA category
+**Identity:** UNESCO MAB 1971 | Core–Buffer–Transition | MoEFCC (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय) executive | No WPA category
 
-- A **Biosphere Reserve (BR)** is a large landscape that conserves biodiversity while allowing regulated sustainable community use and research.
-- UNESCO launched the **Man and the Biosphere (MAB) Programme in 1971** (same year as Ramsar).
+- A **Biosphere Reserve (BR)** (जैवमंडल आरक्षित क्षेत्र) is a large landscape that conserves biodiversity while allowing regulated sustainable community use and research.
+- UNESCO launched the **Man and the Biosphere (MAB) Programme in 1971** (same year as Ramsar (रामसर)).
 - India notifies BRs through **MoEFCC executive action** — BRs are **not** a separate WPA 1972 statutory category; cores usually overlap an existing NP/sanctuary.
-- **Three zones:** **Core** (no exploitative use / genetic diversity) → **Buffer** (research, education, regulated eco-tourism and grazing) → **Transition** (settlements, crop cultivation, livelihoods).
+- **Three zones:** **Core** (no exploitative use / genetic diversity (आनुवंशिक विविधता)) → **Buffer** (research, education, regulated eco-tourism and grazing) → **Transition** (settlements, crop cultivation, livelihoods).
 - **Triple mandate:** conservation + sustainable development + logistic support (research/monitoring/education).
 - Edward Suess is classically linked to the **biosphere** concept; **biodiversity** as a contracted term is linked to **W.G. Rosen (1985)** after **Raymond F. Dasmann** used “biological diversity” (1968).
-- Among common Prelims options, a **biosphere reserve** is the strongest answer for conserving biodiversity **along with traditional human life and cultural diversity**.
+- Among common Prelims options, a **biosphere reserve** (जैवमंडल आरक्षित क्षेत्र) is the strongest answer for conserving biodiversity **along with traditional human life and cultural diversity**.
 - India’s first BR is **Nilgiri (1986)** — Tamil Nadu, Karnataka, Kerala.
 - India has **18 notified BRs**; about **12–13** are in UNESCO’s **World Network of Biosphere Reserves (WNBR)**.
 - **Agasthyamalai** includes Neyyar, Peppara, Shendurney WLS and **Kalakad–Mundanthurai Tiger Reserve**.
@@ -103,17 +103,17 @@ Biosphere Reserve | Major Biosphere Reserves of India | Biosphere Reserves of Ut
 
 **PYQ — UPPCS Prelims 2018, Q54**
 
-Which is NOT an example of in-situ conservation?
+Which is NOT an example of in-situ (स्थान पर) conservation (स्व-स्थाने संरक्षण)?
 
-Options: A. Biosphere reserve B. Botanical garden C. National Park D. Sacred groves
+Options: A. Biosphere reserve B. Botanical garden (वनस्पति उद्यान) C. National Park D. Sacred groves (पवित्र उपवन)
 
 <details><summary>Show answer</summary>
 
-**Ans: B** — Botanical garden is **ex-situ**. BR / NP / sacred groves are in-situ.
+**Ans: B** — Botanical garden is **ex-situ** (स्थानांतरित). BR / NP / sacred groves are in-situ.
 
 </details>
 
-> **Logic:** “Biosphere Reserves allow only absolute ban on all human use” is **false** — buffer/transition allow regulated use.
+> **Logic:** “Biosphere Reserves allow only absolute (निरपेक्ष) ban on all human use” is **false** — buffer/transition allow regulated use.
 
 ---
 
@@ -191,7 +191,7 @@ with 1. Madhya Pradesh 2. Uttar Pradesh 3. Assam 4. West Bengal
 | 5 | Sundarbans | West Bengal | 1989 | WNBR 2001 |
 | 6 | Manas | Assam | 1989 | **Removed UNESCO 2011** |
 | 7 | Great Nicobar | A&N | 1989 | WNBR 2013 |
-| 8 | Simlipal | **Odisha** | 1994 | WNBR 2009 |
+| 8 | Simlipal | **Odisha** (ओडिशा) | 1994 | WNBR 2009 |
 | 9 | Dibru-Saikhowa | Assam | 1997 | National only |
 | 10 | Dihang-Dibang | Arunachal Pradesh | 1998 | National only |
 | 11 | Pachmarhi | Madhya Pradesh | 1999 | WNBR 2009 |
@@ -214,12 +214,12 @@ with 1. Madhya Pradesh 2. Uttar Pradesh 3. Assam 4. West Bengal
 - **Uttar Pradesh has no notified Biosphere Reserve.**
 - Nearest Himalayan BR is **Nanda Devi (Uttarakhand)** — not in UP after the 2000 bifurcation.
 - Do not treat **Dudhwa NP**, **Pilibhit TR**, or **Valmiki NP (Bihar)** as UP biosphere reserves.
-- Terai Arc (Dudhwa–Kishanpur–Katarniaghat) is landscape-conservation geography, but it is **not** a notified BR.
+- Terai (तराई) Arc (Dudhwa–Kishanpur–Katarniaghat) is landscape-conservation geography, but it is **not** a notified BR.
 - Neighbour contrast: MP has **three** BRs; Bihar and Rajasthan also have **zero** BRs (Valmiki is an NP).
 
 | State | BR count | Fact |
 |-------|----------|------|
-| **Uttar Pradesh** | **0** | Any “UP BR” option is false |
+| **Uttar Pradesh** (उत्तर प्रदेश) | **0** | Any “UP BR” option is false |
 | Uttarakhand | 1 | Nanda Devi |
 | Madhya Pradesh | 3 | Pachmarhi, Achanakmar–Amarkantak, Panna |
 | Bihar | 0 | Valmiki = NP, not BR |
@@ -240,8 +240,8 @@ with 1. Madhya Pradesh 2. Uttar Pradesh 3. Assam 4. West Bengal
 
 | World BR / landscape | Country | Fact |
 |----------------------|---------|------|
-| Yellowstone | USA | Iconic MAB / NP landscape |
-| Serengeti–Ngorongoro | Tanzania | Savanna mega-fauna |
+| Yellowstone | USA | Iconic (साकार) MAB / NP landscape |
+| Serengeti–Ngorongoro | Tanzania | Savanna (सवाना) mega-fauna |
 | Galápagos | Ecuador | Evolution / WH overlap |
 | Lake Baikal | Russia | Freshwater biodiversity |
 | Doñana | Spain | Wetland BR classic |

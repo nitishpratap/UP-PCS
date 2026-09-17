@@ -23,27 +23,27 @@ Vedic Period | Rigvedic Society | Later Vedic Society | Vedic Administration | R
 4. **Sabha** (सभा) was an assembly of elders or nobles. **Samiti** (समिति) was the wider tribal assembly that could **choose the rajan** (राजन).
 5. **Vidatha** (विदथ / विधाता) is the **oldest** gathering, with economic and ritual roles and women’s presence. It **fades first** in Later Vedic times.
 6. **Bhagadugha** (भागदुघ) collected the king’s share (**bhaga** (भाग)). **Sangrahitri** (संग्रहीतृ) was the **treasurer**. **Akshavapa** (अक्षावाप) handled **dice / gambling**. Do not swap revenue with dice.
-7. The **Rigveda** has **1028** hymns in **10 mandalas**. Mandala **2–7** are the oldest family books. Mandala **9** is Soma. Mandalas **1** and **10** are latest.
+7. The **Rigveda** (ऋग्वेद) has **1028** hymns in **10 mandalas**. Mandala **2–7** are the oldest family books. Mandala **9** is Soma. Mandalas **1** and **10** are latest.
 8. Hymn-count facts are roughly **Indra ~250**, **Agni ~200**, **Soma ~120**, and **Ashvins 50+**. **Varuna** has fewer hymns but guards **rita** (ऋत - cosmic moral order).
 9. Early popular gods are **Indra, Agni, Soma, Varuna, Ushas, and Savitr**. **Vishnu** and **Rudra** are minor in the Rigveda and rise in Later Vedic religion.
 10. Later Vedic ritual elevates **Prajapati**, and **Vishnu** and **Rudra** grow in importance beside older storm and fire gods.
-11. **Shukla (White) Yajurveda** is the **Vajasaneyi** school, with mantra and prose kept separate. **Krishna** here means **Black Yajurveda**, not the god Krishna.
-12. Black Yajurveda schools include **Taittiriya**, **Kathaka**, and **Maitrayani**, where mantra and Brahmana prose are mixed.
+11. **Shukla (White) Yajurveda** is the **Vajasaneyi** (वाजसनेयी) school, with mantra and prose kept separate. **Krishna** (कृष्णा) here means **Black Yajurveda**, not the god Krishna.
+12. Black Yajurveda schools include **Taittiriya** (तैत्तिरीय), **Kathaka**, and **Maitrayani**, where mantra and Brahmana prose are mixed.
 13. Vedic literature order is **Samhita (संहिता) → Brahmana (ब्राह्मण) → Aranyaka (आरण्यक) → Upanishad (उपनिषद्)**. Samhitas are hymns; Brahmanas explain ritual in prose.
 14. **Aranyakas** (आरण्यक) are forest texts of symbolic ritual. **Upanishads** (उपनिषद्) teach **Brahman–Atman** philosophy (Vedanta).
 15. The six **Vedangas** (वेदांग) are **Shiksha (शिक्षा - phonetics), Kalpa (कल्प - rituals), Vyakarana (व्याकरण - grammar), Nirukta (निरुक्त - etymology), Chhanda (छन्द - metrics), and Jyotisha (ज्योतिष - astronomy)**. They are tools of the Veda, not the Upanishads themselves.
 16. **Varna** (वर्ण) is the four-fold order (Purusha Sukta; more rigid later). **Jati** (जाति) is later birth-group identity. Do not treat them as identical.
 17. **Gavishti** (गविष्टि) means cattle-raid or war for cows. **Bali** (बलि) is tribute to the king. **Nishka** (निष्क) is a gold ornament or value-unit, **not** coined money.
 18. **Shruti** (श्रुति) is “heard” Vedic revelation. **Smriti** (स्मृति) is remembered later dharma literature.
-19. **PGW** (Painted Grey Ware), about **1100–600 BCE**, is the Later Vedic **doab** marker: grey pottery with black geometric paint.
+19. **PGW** (Painted Grey Ware), about **1100–600 BCE**, is the Later Vedic **doab** (दोआब) marker: grey pottery with black geometric paint.
 20. Later Vedic iron appears in texts as **shyama ayas / krishna ayas** (श्याम अयस / कृष्ण अयस). Early Rigvedic **ayas** (अयस) usually means copper or bronze, not iron.
 21. Doab pottery sequence continues **PGW → NBPW** (~700–200 BCE) into the mahajanapada / second-urbanisation age.
-22. Uttar Pradesh Later Vedic geography centres on **Kuru–Panchala**, **Kosala**, and **Kashi**. Key sites include **Hastinapur**, **Atranjikhera**, and **Ahichchhatra**.
+22. Uttar Pradesh Later Vedic geography centres on **Kuru–Panchala**, **Kosala**, and **Kashi**. Key sites include **Hastinapur** (हस्तिनापुर), **Atranjikhera**, and **Ahichchhatra**.
 23. Rigvedic culture is **not** a UP heartland story. Its core is Punjab / Sapta Sindhu.
 24. **OCP** is pre-PGW ochre-wash doab rural pottery. **PGW** is iron-age painted grey ware of Later Vedic settlements.
-25. Later Vedic society shows stronger **raja** (राजा), rising **Brahmana** ritual power, more settled agriculture, and clearer varna ranking than the Early Vedic pastoral tribes.
+25. Later Vedic society shows stronger **raja** (राजा), rising **Brahmana** (ब्राह्मण) ritual power, more settled agriculture, and clearer varna ranking than the Early Vedic pastoral tribes.
 26. Political institutions to fact are **Sabha, Samiti, and Vidatha**. Vidatha fades; Sabha becomes more exclusive; Samiti remains the broader tribal body in Early Vedic memory.
-27. The **Atharvaveda** adds charms and domestic rites beside the three liturgical Vedas (Rig, Yajur, Sama).
+27. The **Atharvaveda** (अथर्ववेद) adds charms and domestic rites beside the three liturgical Vedas (Rig, Yajur, Sama).
 28. **Brahmana** texts are ritual prose, not the same as the **Brahmana** varna. Context decides which meaning is asked.
 29. **Videha** (north Bihar, Janaka tradition) is east of the UP doab but linked in Later Vedic texts such as the Shatapatha Brahmana.
 30. Match economy types carefully: Indus = **Urban**, Rigvedic = **Pastoral**, Later Vedic = **Agrarian**, Medieval landlordism is a later match-list item.
@@ -132,8 +132,8 @@ Vedic Period | Rigvedic Society | Later Vedic Society | Vedic Administration | R
 
 | Book / text | Writer / authority | What it is for |
 |-------------|--------------------|----------------|
-| *Ashtadhyayi* | **Panini** | Vyakarana; Classical Sanskrit grammar |
-| *Nirukta* | **Yaska** | Etymology Vedanga |
+| *Ashtadhyayi* (अष्टाध्यायी) | **Panini** (पाणिनि) | Vyakarana; Classical Sanskrit grammar |
+| *Nirukta* (निरुक्त) | **Yaska** (यास्क) | Etymology Vedanga |
 | Chhanda / metre tradition | **Pingala** | Metre Vedanga |
 
 - The Samhitas, Brahmanas, Aranyakas, and Upanishads are **corpus** heads. They do not carry a single match-list author like Panini.
@@ -148,19 +148,19 @@ Vedic Period | Rigvedic Society | Later Vedic Society | Vedic Administration | R
 
 **Indo-Aryan culture of Vedic Sanskrit texts | Early ~1500–1000 BCE | Later ~1000–600 BCE**
 
-- **Veda** means knowledge. The post-Harappan textual culture of the Indo-Aryans is called the **Vedic** age.
+- **Veda** (वेद) means knowledge. The post-Harappan textual culture of the Indo-Aryans is called the **Vedic** age.
 - **Arya** in classical Sanskrit means a **noble** person. Older booklet keys sometimes call it a “superior race”; standard teaching treats Arya as a **cultural–linguistic** self-designation, not a modern racial science label.
 - Homeland theories differ by named author, not by settled proof.
-- **Bal Gangadhar Tilak** argued the **Arctic / North Pole** in *The Arctic Home in the Vedas*; historians generally reject it.
+- **Bal Gangadhar Tilak** (बाल गंगाधर तिलक) argued the **Arctic / North Pole** in *The Arctic Home in the Vedas*; historians generally reject it.
 - **Max Müller** stressed **Central Asia**.
 - Other writers place Aryans in South Russia, Tibet, the Danube, Kashmir, or “seven Indus states.”
 - The **Early / Rigvedic** heartland is **Sapta Sindhu**, the north-west Punjab belt.
 - The seven rivers are **Sindhu** (Indus), **Vitasta** (Jhelum), **Asikni / Asakini** (Chenab), **Parushni** (Ravi), **Vipas / Vipasa** (Beas), **Sutudri / Shutudri** (Sutlej), and **Saraswati**.
-- Afghanistan rivers named in the Rigveda include **Kubha** (Kabul), **Krumu** (Kurram), **Gomati** (Gomal), and **Suvastu** (Swat).
+- Afghanistan rivers named in the Rigveda include **Kubha** (Kabul), **Krumu** (Kurram), **Gomati** (गोमती) (Gomal), and **Suvastu** (Swat).
 - **Sindhu** is mentioned **most often** and is called **Hiranyayi**; it empties toward the Arabian Sea.
 - **Saraswati** is the **most sacred** river — *Matetama*, *Devitama*, *Naditama*.
-- **Yamuna** appears a few times; **Ganga** appears once in early Rigvedic memory.
-- **Sadaneera** is identified with the **Gandak**; **Drishadvati** with the Ghaggar belt in many notes.
+- **Yamuna** (यमुना) appears a few times; **Ganga** (गंगा) appears once in early Rigvedic memory.
+- **Sadaneera** is identified with the **Gandak** (गंडक); **Drishadvati** with the Ghaggar belt in many notes.
 - Aryans called the doab fringe **Brahmarshi Desh**, the Himalaya–Vindhya belt **Madhya Desh**, and later the wider north **Aryavarta**.
 - **Later Vedic** culture shifts **east** into the **Ganga–Yamuna doab** of western–central UP.
 - It then reaches **Kosala**, **Kashi**, and **Videha**.
@@ -228,7 +228,7 @@ D. 4 3 1 2
 - Occupation is still flexible in Early Vedic.
 - Early Vedic **varna** is still **flexible** occupation; the later four-fold *jati* system is a Later Vedic growth.
 - Religion is of **nature gods**, with **no temples and no idols**.
-- Chief Early Vedic gods are **Indra**, **Agni**, **Soma**, and **Varuna**.
+- Chief Early Vedic gods are **Indra**, **Agni** (अग्नि), **Soma**, and **Varuna**.
 - Houses are of wood and thatch.
 - The **ratha** is a horse-chariot.
 - There are no stone cities, no iron, and no coins.
@@ -245,7 +245,7 @@ D. 4 3 1 2
 - Iron and the plough open Gangetic forests.
 - Surplus supports specialists.
 - The economy type in match-lists is **Agrarian** — not pastoral like the Rigvedic phase.
-- The **jana** becomes a **janapada**, a territorial kingdom.
+- The **jana** becomes a **janapada** (जनपद), a territorial kingdom.
 - Famous Later Vedic polities are **Kuru** and **Panchala**.
 - **Kosala** is a Later Vedic polity in eastern UP.
 - **Kashi** is a Later Vedic polity.
@@ -280,11 +280,11 @@ D. 4 3 1 2
 - In Later Vedic he becomes **hereditary**.
 - He takes a divine aura.
 - A household of **ratnins**, the jewel-officers of consecration, grows around him.
-- The **purohita** is chief priest and political adviser.
+- The **purohita** (पुरोहित) is chief priest and political adviser.
 - **Vasishtha** served Sudas as purohita.
 - **Visvamitra** is the rival priest in that tradition.
-- The **senani** is the army commander.
-- The **gramani** is the village head and is also listed among the ratnins.
+- The **senani** (सेनानी) is the army commander.
+- The **gramani** (ग्रामिणी) is the village head and is also listed among the ratnins.
 - The **bhagadugha** is the **revenue collector**.
 - He takes the king’s **bhaga** (share) of produce or booty.
 - **Bhagadugha** collects the king’s **bhaga** (revenue share) — the standard match-list fact for that officer.
@@ -315,7 +315,7 @@ D. 4 3 1 2
 - **Bhaga** is the king’s share.
 - Later **shulka** is a toll.
 - Spies appear in later texts.
-- In family vocabulary, **kula**, **vamsha**, and **gotra** belong together; **kosha** means **treasury**, not a kinship term.
+- In family vocabulary, **kula**, **vamsha**, and **gotra** belong together; **kosha** (कोष) means **treasury**, not a kinship term.
 - The system is still clan-based. It is **not** Ashokan district officers.
 
 **PYQ — UPPCS Prelims 2023, Q26**
@@ -407,7 +407,7 @@ About **33** gods are grouped in three layers: **earth**, **air (antariksha)**, 
 | **Soma** | **~120** | Ritual drink-god; Mandala **IX** is the Soma book |
 | **Ashvins** | **~50+** | Twin healer / dawn horsemen gods |
 | **Varuna** | fewer (but high prestige) | Guardian of **rita** (cosmic / moral order) |
-| **Mitra** | paired with Varuna | Treaty / friendship; often **Mitra–Varuna** |
+| **Mitra** (मित्र -) | paired with Varuna | Treaty / friendship; often **Mitra–Varuna** |
 | **Maruts** | storm band with Indra | Wind / storm companions |
 | **Ushas** | dawn hymns | Dawn goddess |
 | **Savitr** | solar | Invoked in the **Gayatri** (RV III.62.10) |
@@ -430,9 +430,9 @@ About **33** gods are grouped in three layers: **earth**, **air (antariksha)**, 
 - **Vishnu** and **Rudra** gain importance (they were **minor** in the Rigveda).
 - **Indra** remains famous but is no longer the unchallenged centre of religion.
 - Four **ashramas** (Brahmacharya → Grihastha → Vanaprastha → Sannyasa) and four **purusharthas** (Dharma, Artha, Kama, Moksha) are systematized in the post / Later Vedic horizon.
-- **Pancha Mahayajnas** belong to the **Grihastha** stage.
+- **Pancha Mahayajnas** belong to the **Grihastha** (गृहस्थ) stage.
 - About **sixteen samskaras** appear in later lists (from Garbhadhana to Antyeshti).
-- Directional kingship titles in Later Vedic lists include **Samrat** (east), **Svarat** (west), **Virat** (north), **Bhoja** (south), and **Raja** (centre).
+- Directional kingship titles in Later Vedic lists include **Samrat** (सम्राट) (east), **Svarat** (west), **Virat** (north), **Bhoja** (south), and **Raja** (centre).
 - Thought shifts from **Brahmana** ritual manuals to forest **Aranyakas**.
 - It then reaches the **Upanishads**, which put **jnana** (Brahman–Atman) over **yajna**.
 - Untouchability as a clear social system is usually dated to the later **Dharmashastra** phase, not Early Rigvedic society.
@@ -480,7 +480,7 @@ About **33** gods are grouped in three layers: **earth**, **air (antariksha)**, 
 - Women drop out. The king is less bound by it.
 - Later literature also uses *sabha* for a **gambling hall**. That is a social hall, not the early political body.
 - The **Atharvaveda** calls **Sabha** and **Samiti** the **two daughters of Prajapati** and treats them as distinct institutions more clearly than the Rigveda.
-- It is **not** Lok Sabha, Rajya Sabha, or the 73rd-Amendment **Gram Sabha**.
+- It is **not** Lok Sabha, Rajya Sabha, or the 73rd-Amendment **Gram Sabha** (ग्राम सभा).
 
 > **Logic:** Sabha means **elders**. Samiti means the **people**.
 
@@ -523,7 +523,7 @@ About **33** gods are grouped in three layers: **earth**, **air (antariksha)**, 
 - **Shruti** means “that which is heard.”
 - It covers Samhita, Brahmana, Aranyaka, and Upanishad.
 - **Smriti** is later remembered law. It is not the core of this chapter.
-- Growth order is **Samhita** (mantra), then **Brahmana** (ritual prose), then **Aranyaka** (forest and symbol), then **Upanishad** (philosophy).
+- Growth order is **Samhita** (संहिता) (mantra), then **Brahmana** (ritual prose), then **Aranyaka** (forest and symbol), then **Upanishad** (उपनिषद्) (philosophy).
 - **Karma-kanda** = Samhita + Brahmana (ritual). **Jnana-kanda** = Aranyaka + Upanishad (philosophy).
 - **Trayi / Vedatrayi** = Rigveda + Yajurveda + Samaveda (the three liturgical Vedas). Atharvaveda is the fourth.
 - The corpus is kept by **guru–shishya** recitation.
@@ -545,9 +545,9 @@ About **33** gods are grouped in three layers: **earth**, **air (antariksha)**, 
 | Veda | Core content | Priest | Upaveda | Main Samhita(s) | Key Brahmana(s) | Structure fact |
 |------|--------------|--------|---------|-----------------|-----------------|----------------|
 | **Rigveda** | Oldest; hymns (*rik*) | **Hotri / Hota** | **Ayurveda** (often also linked Atharva) | Rigveda Samhita | **Aitareya**, Kausitaki | **1028** hymns; **~10552** verses (*richas*); **10** mandalas |
-| **Samaveda** | Melodies (*saman*) for Soma | **Udgatri** | **Gandharvaveda** | Samaveda Samhita (mostly from Rig) | Tandya / Panchavimsha, Jaiminiya | Chant-book for sacrifice |
-| **Yajurveda** | Sacrificial formulas (*yajus*) | **Adhvaryu** | **Dhanurveda** | **Shukla:Vajasaneyi** (Madhyandina, Kanva; paper: **Vajasanami**). **Krishna:** Taittiriya, Kathaka, Maitrayani (+ Kapishthala) | **Shatapatha** (Shukla, **100** ch.); Taittiriya (Krishna) | Shukla = mantra & Brahmana **apart**; Krishna = **mixed** |
-| **Atharvaveda** | Spells, healing, household | **Brahman** (rite supervisor) | **Arthashastra** | Atharvaveda Samhita | **Gopatha** (only one) | **20** books; newest of the four; early **iron** hints |
+| **Samaveda** (सामवेद) | Melodies (*saman*) for Soma | **Udgatri** | **Gandharvaveda** | Samaveda Samhita (mostly from Rig) | Tandya / Panchavimsha, Jaiminiya | Chant-book for sacrifice |
+| **Yajurveda** (यजुर्वेद) | Sacrificial formulas (*yajus*) | **Adhvaryu** | **Dhanurveda** | **Shukla:Vajasaneyi** (Madhyandina, Kanva; paper: **Vajasanami**). **Krishna:** Taittiriya, Kathaka, Maitrayani (+ Kapishthala) | **Shatapatha** (Shukla, **100** ch.); Taittiriya (Krishna) | Shukla = mantra & Brahmana **apart**; Krishna = **mixed** |
+| **Atharvaveda** | Spells, healing, household | **Brahman** (rite supervisor) | **Arthashastra** (अर्थशास्त्र) | Atharvaveda Samhita | **Gopatha** (only one) | **20** books; newest of the four; early **iron** hints |
 
 - Mandalas **II–VII** are the family books and the oldest Rigvedic core (Gritsamada, Vishvamitra, Vamadeva, Atri, Bharadvaja, Vasishtha traditions).
 - Mandala **VIII** is linked with Kanva and Angiras lines.
@@ -562,7 +562,7 @@ About **33** gods are grouped in three layers: **earth**, **air (antariksha)**, 
 - **Krishna (Black) Yajurveda** mixes mantra and prose.
 - In **- Here **Krishna** means the **Black Yajurveda** school (mantra + prose mixed). It does **not** mean the deity Krishna.
 - The Atharvaveda is everyday religion, charms, healing, and household rites — not only royal yajna.
-- First textual notice of **Anga** and **Magadha** (with Gandhari and Mujavat) appears in the **Atharvaveda**.
+- First textual notice of **Anga** and **Magadha** (मगध) (with Gandhari and Mujavat) appears in the **Atharvaveda**.
 - **Ayurveda** (science of life) is treated as an Upaveda / Upanga linked especially with the **Atharvaveda**.
 - The supervising priest of the Atharvan rite is often called **Brahman**.
 
@@ -619,7 +619,7 @@ D. Kathak
 
 **“Forest books” | symbol over public fire-altar | hinge to Upanishads**
 
-- They are meant for **vanaprastha** hermits.
+- They are meant for **vanaprastha** (वानप्रस्थ) hermits.
 - They give a quieter, inward reading of ritual.
 - The **Aitareya Aranyaka** belongs to the Rigveda.
 - The **Taittiriya Aranyaka** belongs to the Krishna Yajurveda.
@@ -664,8 +664,8 @@ D. Kathak
 
 - There are **18** Mahapuranas. Five traditional marks (*pancha-lakshana*) are **Sarga, Pratisarga, Vamsha, Manvantara, and Vamshanucharita**.
 - **Vishnu Purana** preserves Mauryan genealogical memory; **Vayu Purana** is often linked with Gupta-period material in booklet keys.
-- The **Bhagavad Gita** is originally in **Sanskrit** (about **700** verses) inside the Mahabharata.
-- The Mahabharata’s early form is remembered as **Jaya / Jayasamhita** (~**8,800** verses); the expanded epic is called **Shatasahasri Samhita** (~**100,000** verses), attributed to **Vyasa**.
+- The **Bhagavad Gita** (भगवद्गीता) is originally in **Sanskrit** (about **700** verses) inside the Mahabharata.
+- The Mahabharata’s early form is remembered as **Jaya / Jayasamhita** (~**8,800** verses); the expanded epic is called **Shatasahasri Samhita** (~**100,000** verses), attributed to **Vyasa** (व्यास).
 - Ocean-churning myths name **Vasuki** as the churning rope.
 
 ---
@@ -713,7 +713,7 @@ Memory: **S-K-V-N-C-J**.
 - In **north India**, iron technology spreads with **PGW** from about the 12th century BCE and then with **NBPW** cities after about 700 BCE.
 - Iron ploughshares, axes, and weapons made dense farming and forest clearance possible in the Ganga plain. That underpins the **second urbanisation** and the sixteen mahajanapadas.
 - In **south and central India**, the Iron Age is often studied through **megalithic** burials with **black-and-red ware**, not through PGW.
-- Key southern megalithic names include **Brahmagiri**, **Adichanallur**, **Maski**, and **Hallur**. Burial types include dolmens, cists, stone circles, and **hero stones (virakkal)**.
+- Key southern megalithic names include **Brahmagiri**, **Adichanallur**, **Maski** (मास्की), and **Hallur**. Burial types include dolmens, cists, stone circles, and **hero stones (virakkal)**.
 - Iron did **not** arrive everywhere at one instant. Gandhara, the doab, and the Deccan show different start-dates in excavation.
 
 | Region | Iron Age marker | Period fact |

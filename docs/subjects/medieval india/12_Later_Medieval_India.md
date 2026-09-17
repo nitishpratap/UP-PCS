@@ -4,7 +4,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Later Mughals | Disintegration of the Mughal Empire | Nadir Shah | Hyderabad Nizam | Sawai Jai Singh | Independent State of Awadh | British East India Company: Arrival | Arrival of British Travellers | European Trading Companies | Portuguese | Dutch | English | French | Danish
+Later Mughals | Disintegration of the Mughal (मुग़ल) Empire | Nadir Shah (नादिर शाह) | Hyderabad (हैदराबाद) Nizam (निजाम) | Sawai Jai Singh | Independent State of Awadh (अवध) | British East India Company (कंपनी): Arrival | Arrival of British Travellers | European Trading Companies | Portuguese | Dutch | English | French | Danish
 
 </details>
 
@@ -17,44 +17,44 @@ Later Mughals | Disintegration of the Mughal Empire | Nadir Shah | Hyderabad Niz
 
 ## Consolidated — 39 Must-Score Facts
 
-1. Sea-power arrival order: **Portuguese 1498 → Dutch ~1605 → English Surat factory 1613 → Danish Tranquebar 1620 → French Pondicherry 1674**.
-2. Charter fact: **EIC 1600**, **VOC 1602**, **Danish 1616**, **French 1664** — the English charter comes **before** the Dutch.
-3. **Vasco da Gama** reached **Calicut in 1498**; **Afonso de Albuquerque** captured **Goa in 1510** and made it Portuguese India's capital.
-4. Portuguese **cartaze** was an ocean pass-fee; **Shah Jahan** expelled the Portuguese from **Hooghly in 1632**.
-5. The Dutch **VOC** used **Pulicat** as its South Indian headquarters and **Chinsurah** as its Bengal factory.
-6. **William Hawkins** reached India in **1608** on the *Hector*, spoke **Turkish**, and met Jahangir; the trap year **1611** is false for arrival.
-7. **Sir Thomas Roe** was ambassador at Jahangir's court from **1615 to 1619**.
-8. English factory spine: temporary **Masulipatnam 1611**, permanent **Surat 1613**, **Madras/Fort St George 1640**, Bombay leased **1668** (Portuguese dowry to Charles II, **1662**), **Calcutta** via **Job Charnock** at **Sutanuti**. **Levant Company (1592)** got a land-route charter before the sea EIC (**1600**, under **Akbar**).
-9. **Colbert** founded the French company (**1664**) under **Louis XIV**; earliest French factory **Surat 1668** (**François Caron**); HQ **Pondicherry (1674)**; Bengal factory **Chandernagore**. **Dupleix** first used European troops in Indian succession quarrels.
-10. **First Carnatic War (1746–48)**: immediate spark = English capture of French ships (**Captain Bernett**); French won **St. Thome** on the Adyar vs Anwaruddin’s force; **Aix-la-Chapelle (1748)** returned **Madras**. **Second Carnatic** opens with **Ambur (1749)**; **Wandiwash (1760)** = British (**Eyre Coote**) defeat French (**Count de Lally**); **Paris 1763** ends the Third.
-11. Danish facts are **Tranquebar (1620)** and **Serampore** in Bengal; Denmark sold its Indian settlements in **1845**.
-12. Traveller chronology: **Ralph Fitch 1585 → Hawkins 1608 → Nicholas Downton 1614 → Roe 1615**.
-13. **Bernier** was a **French** traveller at Aurangzeb's court, not an English EIC envoy.
-14. **Saadat Khan Burhan-ul-Mulk** founded the **Awadh** Nawabi in **1722**; he is not Bengal's Murshid Quli Khan.
-15. **Shuja-ud-Daula** stood with Abdali at **Panipat III (1761)**; after Buxar came the **Treaty of Allahabad (1765)**.
-16. **Asaf-ud-Daula** made **Lucknow** the capital and built the **Bara Imambara**.
-17. The British annexed **Awadh in 1856**; **Wajid Ali Shah** was the last Nawab.
-18. Later chronology bridge: **Awadh annexation 1856 → Indigo Revolt 1859 → Second Afghan War 1878 → Ilbert Bill 1883**.
-19. An early European **factory** was a trading post with godowns and guards, not yet a full colony; trade needed Mughal **farmans**.
+1. Sea-power arrival order: **Portuguese 1498 → Dutch ~1605 → English Surat factory (फैक्टरी) 1613 (सूरत) → Danish Tranquebar (ट्रैंकेबार) 1620 → French Pondicherry (पांडिचेरी) 1674**.
+2. Charter fact: **EIC 1600** (ईआईसी), **VOC 1602** (वीओसी), **Danish 1616**, **French 1664** — the English charter comes **before** the Dutch.
+3. **Vasco da Gama (गामा)** reached **Calicut in 1498**; **Afonso de Albuquerque (अल्बुकर्क)** captured **Goa (गोवा) in 1510** and made it Portuguese India's capital.
+4. Portuguese **cartaze** (कार्टाज़) was an ocean pass-fee; **Shah Jahan** (शाहजहाँ) expelled the Portuguese from **Hooghly (हुगली) in 1632**.
+5. The Dutch **VOC** used **Pulicat** as its South Indian headquarters and **Chinsurah** (चिन्सुरा) as its Bengal factory.
+6. **William Hawkins (हॉकिन्स)** reached India in **1608** on the *Hector*, spoke **Turkish**, and met Jahangir (जहाँगीर); the trap year **1611** is false for arrival.
+7. **Sir Thomas Roe (रो)** was ambassador at Jahangir's court from **1615 to 1619**.
+8. English factory spine: temporary **Masulipatnam 1611** (मसूलिपत्तनम), permanent **Surat 1613** (सूरत), **Madras/Fort St George 1640**, Bombay leased **1668** (Portuguese dowry to Charles II, **1662**), **Calcutta** via **Job Charnock** at **Sutanuti**. **Levant (लेवेंट) Company (1592)** got a land-route charter before the sea EIC (**1600**, under **Akbar** (अकबर)).
+9. **Colbert** founded the French company (**1664**) under **Louis XIV**; earliest French factory **Surat 1668** (**François Caron**); HQ **Pondicherry (1674)**; Bengal factory **Chandernagore** (चंद्रनगर). **Dupleix** (डुप्ले) first used European troops in Indian succession (उत्तराधिकार क्रम) quarrels.
+10. **First Carnatic (कर्नाटक) War (1746–48)**: immediate spark = English capture of French ships (नावाध्यक्ष) (**Captain Bernett**); French won **St. Thome** (सेंट थॉम) on the Adyar vs Anwaruddin’s force; **Aix-la-Chapelle (1748)** (एक्स-ला-शापेल) returned **Madras**. **Second Carnatic** opens with **Ambur (1749)**; **Wandiwash (वांडिवाश) (1760)** = British (**Eyre Coote**) defeat French (**Count de Lally**); **Paris 1763** ends the Third.
+11. Danish facts are **Tranquebar (1620)** and **Serampore** (श्रीरामपुर) in Bengal; Denmark sold its Indian settlements in **1845**.
+12. Traveller chronology: **Ralph Fitch (फिच) 1585 → Hawkins 1608 (हॉकिन्स) → Nicholas Downton 1614 → Roe 1615**.
+13. **Bernier** (बर्नियर) was a **French** traveller at Aurangzeb (औरंगजेब)'s court, not an English EIC envoy.
+14. **Saadat Khan (सादात खान) Burhan-ul-Mulk** founded the **Awadh** (अवध) Nawabi in **1722**; he is not Bengal's Murshid (पीर) Quli (मुर्शिद क़ुली) Khan (मुर्शिद कुली खान).
+15. **Shuja-ud-Daula** (शुजाउद्दौला) stood with Abdali (अब्दाली) at **Panipat (पानीपत) III (1761)**; after Buxar (बक्सर) came the **Treaty of Allahabad (इलाहाबाद की संधि) (1765)**.
+16. **Asaf-ud-Daula** (आसफउद्दौला) made **Lucknow** (लखनऊ) the capital and built the **Bara Imambara**.
+17. The British annexed **Awadh in 1856**; **Wajid Ali Shah** (वाजिद अली शाह) was the last Nawab.
+18. Later chronology bridge: **Awadh annexation 1856 → Indigo (नील) Revolt 1859 → Second Afghan War 1878 → Ilbert Bill 1883 (इल्बर्ट)**.
+19. An early European **factory** was a trading post with godowns and guards, not yet a full colony (उपनिवेश); trade (पण्याध्यक्ष) needed Mughal **farmans**.
 20. Under **Dupleix**, the French took **Madras in 1746** during the First Carnatic War before Aix-la-Chapelle restored it.
 21. Do not confuse **Aix-la-Chapelle 1748** with the later **Treaty of Paris 1763** ending the Seven Years' War.
-22. **Ralph Fitch** saw **Agra** and **Banaras** in Akbar's time, before any lasting EIC factory.
-23. **Begum Hazrat Mahal** led Lucknow resistance after 1856 annexation fed the **1857** rising.
-24. **Safdar Jung** also served as Mughal **Wazir**; **Serampore** is Danish, not French.
+22. **Ralph Fitch** saw **Agra** (आगरा) and **Banaras** in Akbar's time, before any lasting EIC factory.
+23. **Begum Hazrat Mahal** (बेगम हज़रत महल) led Lucknow resistance after 1856 annexation fed the **1857** rising.
+24. **Safdar Jung** also served as Mughal **Wazir** (वज़ीर); **Serampore** is Danish, not French.
 25. Cause–course–result for Portuguese arrival: they sought a sea spice route, Gama reached Calicut, and Albuquerque's Goa made them a coastal maritime power.
-26. Cause–course–result for Awadh's end: Nawabi autonomy from 1722 weakened after Buxar, Dalhousie annexed the state in 1856, and Lucknow became a major **1857** centre.
-27. After **Aurangzeb (1707)**, **Bahadur Shah I (Muazzam / Shah Alam)** ruled **1707–1712**; Khafi Khan called him **Shahe Bekhabar**.
-28. **Jahandar Shah** rose with **Zulfiqar Khan** and was defeated and killed by nephew **Farrukh Siyar** in **1713**.
-29. **Farrukh Siyar’s 1717 farman** gave the English **duty-free trade in Bengal** for an annual lump sum of about **Rs 3,000**.
-30. **Sayyid brothers** (**Abdullah** and **Hussain Ali**) were the later-Mughal **king-makers** (**1713–1720**).
-31. **Muhammad Shah Rangeela (1719–1748)** was the last emperor to sit on the **Peacock Throne**; **Nadir Shah** defeated him at **Karnal (1739)** and took the throne and **Kohinoor**.
-32. **Chin Qilich Khan (Nizam-ul-Mulk Asaf Jah)** founded independent **Hyderabad** after defeating **Mubariz Khan** at **Shakar Kheda (1724)**.
-33. **Sawai Jai Singh II** built **Jantar Mantar** observatories at **Delhi, Jaipur, Ujjain, Mathura, and Varanasi** (not Allahabad) and prepared **Zij Muhammad Shahi**.
-34. Last Mughal **Bahadur Shah Zafar** (son of **Akbar II**) was an emperor without an empire; teachers include **Zauq** and **Ghalib**; spiritual guide **Hasan Askari**.
+26. Cause–course–result for Awadh's end: Nawabi autonomy from 1722 weakened after Buxar, Dalhousie (डलहौज़ी) annexed the state in 1856, and Lucknow became a major **1857** centre.
+27. After **Aurangzeb (1707)**, **Bahadur Shah I (बहादुर शाह I) (Muazzam / Shah Alam)** ruled **1707–1712**; Khafi Khan called him **Shahe Bekhabar**.
+28. **Jahandar Shah** rose with **Zulfiqar Khan** (ज़ुल्फ़िक़ार) and was defeated and killed by nephew **Farrukh Siyar** (फ़र्रुख़) in **1713**.
+29. **Farrukh Siyar’s 1717 farman (फ़रमान)** gave the English **duty-free trade in Bengal** for an annual lump sum of about **Rs 3,000**.
+30. **Sayyid (सैयद) brothers** (सैय्यद) (**Abdullah** and **Hussain Ali**) were the later-Mughal **king-makers** (**1713–1720**).
+31. **Muhammad Shah Rangeela (रंगीला) (1719–1748)** was the last emperor to sit on the **Peacock Throne**; **Nadir Shah** (नादिर शाह) defeated him at **Karnal (1739)** and took the throne and **Kohinoor**.
+32. **Chin Qilich Khan (Nizam-ul-Mulk (निजाम-उल-मुल्क) Asaf Jah)** founded independent **Hyderabad** after defeating **Mubariz Khan** at **Shakar Kheda (खेड़ा) (1724)**.
+33. **Sawai Jai Singh II** built **Jantar Mantar** observatories at **Delhi, Jaipur, Ujjain (उज्जैन), Mathura (मथुरा), and Varanasi (वाराणसी)** (not Allahabad) and prepared **Zij Muhammad Shahi**.
+34. Last Mughal **Bahadur Shah Zafar** (बहादुर शाह ज़फ़र) (son of **Akbar II**) was an emperor without an empire; teachers include **Zauq** and **Ghalib**; spiritual guide **Hasan Askari**.
 35. Arrival order of European traders: **Portuguese → Dutch → English → Danes → French**. Portuguese were **first to arrive (1498)** and **last to leave (1961)**.
-36. First Portuguese fort in India: **Cochin 1503** (Albuquerque, before he was Viceroy). First Portuguese factory: **Calicut 1500**. **Nuno da Cunha** shifted HQ **Cochin → Goa**.
-37. Portuguese used **Hooghly** as a Bay of Bengal piracy base; **Shah Jahan** crushed them there in **1632**. Dutch Bengal hub **Chinsurah** had **Fort Gustavus (1653)**; Dutch took Kochi and built **Fort Williams (1663)**.
-38. **Thomas Best** broke Portuguese naval monopoly at **Swally** near Surat. **Sir John Child** was expelled by **Aurangzeb** after attacking Mughal ports (**1688**).
+36. First Portuguese fort in India: **Cochin 1503** (Albuquerque, before he was Viceroy (वायसराय)). First Portuguese factory: **Calicut 1500**. **Nuno da Cunha** shifted HQ **Cochin → Goa**.
+37. Portuguese used **Hooghly** as a Bay of Bengal piracy base; **Shah Jahan** crushed them there in **1632**. Dutch Bengal hub **Chinsurah** had **Fort Gustavus (गुस्तावस) (1653)**; Dutch took Kochi and built **Fort Williams (1663)**.
+38. **Thomas Best** broke Portuguese naval monopoly at **Swally** near Surat. **Sir John Child** was expelled by **Aurangzeb** (औरंगजेब) after attacking Mughal ports (**1688**).
 39. First modern **Municipal Corporation** in India: **Madras, 1688**. Europeans prized **Bihar** for high-grade **opium** and **saltpetre**.
 
 ---
@@ -108,7 +108,7 @@ Later Mughals | Disintegration of the Mughal Empire | Nadir Shah | Hyderabad Niz
 |--------|------|
 | Vasco da Gama | Calicut **1498** |
 | Albuquerque | Goa **1510**; real founder |
-| Almeida | First Viceroy; Blue Water |
+| Almeida (अल्मेदा) | First Viceroy (कैनिंग); Blue Water (ब्लू वॉटर) |
 | William Hawkins | *Hector* **1608**; Turkish; Jahangir |
 | Sir Thomas Roe | Ambassador **1615–19** |
 | Job Charnock | Calcutta / Sutanuti |
@@ -155,13 +155,13 @@ Later Mughals | Disintegration of the Mughal Empire | Nadir Shah | Hyderabad Niz
 - A **factory** was a trading post with godowns and guards, not a full colony.
 - Early trade needed Mughal **farmans** and customs at ports such as **Surat**.
 - The **1600** EIC charter is a **trade monopoly**, not rule over India.
-- Territorial company rule is a later modern-history story (**Plassey 1757**, **Buxar 1764**, **Diwani 1765**).
+- Territorial company rule (कंपनी शासन) is a later modern-history story (**Plassey (प्लासी) 1757** (प्लासी), **Buxar 1764** (बक्सर), **Diwani (दीवानी) 1765** (दीवानी 1765)).
 - Europeans prized **Bihar** for high-grade **opium** and **saltpetre (shora)**.
 - Arrival order of companies: **Portuguese → Dutch → English → Danes → French**.
 
 | Company | Charter | India |
 |---------|---------|------------|
-| **Portuguese** | 1498 voyage | **Goa 1510** |
+| **Portuguese** | 1498 voyage | **Goa 1510** (गोवा) |
 | **English EIC** | **1600** | **Surat 1612** |
 | **Dutch VOC** | **1602** | **Pulicat** |
 | **Danish** | **1616** | **Tranquebar 1620** |
@@ -175,14 +175,14 @@ Later Mughals | Disintegration of the Mughal Empire | Nadir Shah | Hyderabad Niz
 
 - **Cause:** Portugal sought a **sea route to India** after Ottoman control blocked easy land access to Asian spices.
 - **Course:** **Vasco da Gama**, guided by the Gujarati pilot **Ahmad ibn Majid**, reached **Calicut on 20 May 1498** and was welcomed by the **Zamorin (Samuthiri)**. He did **not** capture Goa on that first voyage.
-- Pepper profits from that voyage were huge and pulled more Portuguese fleets to India.
+- Pepper (काली मिर्च) profits from that voyage were huge and pulled more Portuguese fleets to India.
 - **Pedro Álvares Cabral** reached India around **September 1500**; a Portuguese factory rose at **Calicut**.
 - The first Portuguese fort in India was built at **Cochin in 1503** by **Afonso de Albuquerque** (not yet Viceroy).
 - **Francisco de Almeida** arrived in **1505** as the **first Portuguese Governor and Viceroy**.
 - His **Blue Water Policy** aimed at Portuguese control of the Arabian Sea and Indian Ocean trade, not deep inland conquest.
 - **Afonso de Albuquerque** became Governor in **1509**. He is the **real founder of Portuguese power in India**.
-- He captured **Goa from Yusuf Adil Shah of Bijapur in 1510** (the year **1499** in some stems is a trap).
-- He took **Malacca in 1511** and **Hormuz in 1515** to guard eastern and Persian Gulf trade.
+- He captured **Goa from Yusuf Adil Shah (यूसुफ आदिल) of Bijapur (बीजापुर) in 1510** (the year **1499** in some stems is a trap).
+- He took **Malacca in 1511** and **Hormuz in 1515** to guard eastern and Persian (फ़ारसी) Gulf trade.
 - **Nuno da Cunha** (Governor from **1529**) shifted the Portuguese headquarters from **Cochin to Goa**.
 - Portugal built a chain of **coastal forts** at Goa, Daman, Diu, Cochin, and other points.
 - **Cartaze** was a **pass-fee** Portuguese ships imposed on Indian Ocean merchants.
@@ -205,7 +205,7 @@ Later Mughals | Disintegration of the Mughal Empire | Nadir Shah | Hyderabad Niz
 - At **Chinsurah** the Dutch fort was **Fort Gustavus** (**1653** is the key Chinsurah year).
 - **Pulicat** on the Coromandel coast was their main South Indian headquarters.
 - After defeating the Portuguese they built **Fort Williams at Kochi in 1663**; Kochi entered the British sphere in **1814**.
-- Dutch factories also appear at **Nagapattinam, Surat, Broach, Agra, Ahmedabad, Patna, Bimlipatam, Karaikal**, and related Coromandel/Bengal points.
+- Dutch factories also appear at **Nagapattinam, Surat, Broach (भरूच), Agra, Ahmedabad (अहमदाबाद), Patna (पटना), Bimlipatam, Karaikal**, and related Coromandel/Bengal points.
 - The claim that Dutch east-coast grants came from **Gajapati** rulers is unsafe — Gajapati power had faded before the main Dutch Andhra–Odisha factory phase.
 - Dutch power in India peaked in the **17th century** but they were outcompeted by the English after naval and Carnatic decline.
 - They never became a land empire in north India; their Indian role was **trade and coastal factories**.
@@ -220,12 +220,12 @@ Later Mughals | Disintegration of the Mughal Empire | Nadir Shah | Hyderabad Niz
 - **William Hawkins** reached India in **1608** on the **Hector**.
 - He went to **Jahangir’s** court (arrived court **1609**) and spoke **Turkish**.
 - The claim that he came in **1611 as James I’s envoy** is false — Hawkins reached India in **1608**.
-- Under **Jahangir**, the English opened a **temporary factory at Masulipatnam in 1611**.
+- Under **Jahangir** (जहाँगीर), the English opened a **temporary factory at Masulipatnam in 1611**.
 - **Captain Thomas Best** defeated the Portuguese at **Swally** near Surat (**1612**), clearing the way for a lasting foothold.
-- The first **permanent** English factory rose at **Surat in 1613**. Surat was the early **Western Presidency** before Bombay.
+- The first **permanent** English factory rose at **Surat in 1613**. Surat was the early **Western Presidency (प्रेसीडेंसी)** before Bombay.
 - By about **1619** English factories also stood at **Agra, Ahmedabad, Broach**, and related inland points.
 - **Sir Thomas Roe** was ambassador in **1615–19** at Jahangir’s court seeking **farmans**.
-- Madras land for **Fort St George (1640)** was leased from a **Vijayanagara** representative.
+- Madras land for **Fort St George (1640)** was leased from a **Vijayanagara** (विजयनगर) representative.
 - **Bombay** came as dowry when **Charles II** married Portuguese princess **Catherine (1662)** and was **leased to the EIC in 1668** for **£10** a year.
 - **Job Charnock**, of the Kasimbazar factory, chose **Sutanuti** over Hooghly and founded the English base that became **Calcutta**.
 - India’s first modern **Municipal Corporation** was set up at **Madras in 1688**.
@@ -240,7 +240,7 @@ Later Mughals | Disintegration of the Mughal Empire | Nadir Shah | Hyderabad Niz
 
 - The French East India Company was a **state-backed** venture. **Colbert** is treated as its founder.
 - **François Caron** led the **1667** expedition and opened the first French factory at **Surat in 1668**.
-- **Marcara** founded a French factory at **Masulipatnam in 1669** with Golconda leave.
+- **Marcara** founded a French factory at **Masulipatnam in 1669** with Golconda (गोलकोंडा) leave.
 - **Chandernagore** is the French Bengal factory.
 - **Karikal**, **Mahe**, and **Yanam** were other French pockets.
 - **Dupleix** (1742–1754) first planted European troops in Indian courts at Indian expense and intervened in succession wars — the template the English later used.
@@ -257,7 +257,7 @@ Later Mughals | Disintegration of the Mughal Empire | Nadir Shah | Hyderabad Niz
 
 **Cause:** After Aix-la-Chapelle, French and English companies backed rival claimants in Hyderabad and the Carnatic. **Muzaffar Jang**, **Chanda Sahib**, and the French challenged Nawab **Anwaruddin**.
 
-**Course:** The **Battle of Ambur (1749)** opens the war. The French-backed coalition defeated Anwaruddin. Fighting then dragged through succession intrigue under **Dupleix**. The struggle is often keyed as **inconclusive** for a clean English–French balance.
+**Course:** The **Battle of Ambur (1749)** opens the war. The French-backed coalition (गठबंधन) defeated Anwaruddin. Fighting then dragged through succession intrigue under **Dupleix**. The struggle is often keyed as **inconclusive** for a clean English–French balance.
 
 **Result:** No lasting French supremacy emerged. Dupleix was recalled in **1754**. The template of European troops paid by Indian courts survived for the English to use later.
 
@@ -265,9 +265,9 @@ Later Mughals | Disintegration of the Mughal Empire | Nadir Shah | Hyderabad Niz
 
 **Cause:** The Indian face of the **Seven Years’ War** reopened Anglo–French conflict in the Carnatic after the inconclusive second war.
 
-**Course:** At **Wandiwash (1760)**, the British under **Eyre Coote** defeated the French under **Count de Lally**. British **naval superiority** and later **Bengal wealth and manpower** after Plassey–Diwani tipped the Deccan balance.
+**Course:** At **Wandiwash (1760)**, the British under **Eyre Coote** defeated the French under **Count de Lally**. British **naval superiority** and later **Bengal wealth and manpower** after Plassey–Diwani tipped the Deccan (दक्कन) balance.
 
-**Result:** The **Treaty of Paris (1763)** ended the Third Carnatic War. French political hopes in the Carnatic collapsed; Pondicherry and other factories survived mainly as commercial pockets.
+**Result:** The **Treaty of Paris (1763) (पेरिस)** ended the Third Carnatic War. French political hopes in the Carnatic collapsed; Pondicherry and other factories survived mainly as commercial pockets.
 
 ### Pondicherry occupation order
 
@@ -316,19 +316,19 @@ D. Only 2
 
 ## 12.7 Foreign travellers
 
-**Ibn Battuta** | Moroccan | **Rihla** | Muhammad bin Tughlaq court (~1334–41)
+**Ibn Battuta** (इब्न बतूता) | Moroccan | **Rihla** (रिहला) | Muhammad bin Tughlaq (मुहम्मद बिन तुगलक) court (~1334–41)
 
-- **Ibn Battuta** served about **eight years** at the Tughlaq court as **qazi** and wrote **Rihla**, not **Tughlaqnama** (Barani wrote Tughlaqnama).
+- **Ibn Battuta** served about **eight years** at the Tughlaq court as **qazi** (क़ाज़ी) and wrote **Rihla**, not **Tughlaqnama** (तुग़लक़नामा) (Barani (बरनी) wrote Tughlaqnama).
 - **Timur** invaded India in **1398** and **sacked Delhi**, weakening the late Tughlaqs and opening the Sayyid interlude.
 - **Marco Polo** was a **Venetian** who reached the **Pandya** coast around **1292** and described south Indian trade in his **Travels**.
 - **Niccolo de Conti** was an **Italian** merchant who visited **Vijayanagara**, **Cambay**, and the **Malabar** coast in the early **15th century**.
-- **Abdur Razzaq** was a **Persian** ambassador to **Devaraya II’s Vijayanagara** court (~**1443**) and left a detailed account of **Hampi**.
+- **Abdur Razzaq** was a **Persian** ambassador to **Devaraya II’s Vijayanagara** court (~**1443**) and left a detailed account of **Hampi** (हम्पी).
 - **Duarte Barbosa** was a **Portuguese** factor who described **Kozhikode** trade and, with **Nuniz** and **Paes**, the wealth of **Vijayanagara/Hampi** in the early **16th century**.
 
 ### British travellers (EIC phase)
 
 - **Ralph Fitch (1585–91)** is the earliest English name in the 2021 list.
-- He saw **Agra** and **Banaras** in Akbar’s time, before an EIC factory.
+- He saw **Agra** and **Banaras** in Akbar’s (अकबर) time, before an EIC factory.
 - **William Hawkins** arrived **1608**.
 - **Nicholas Downton** belongs to **1614** (Surat command).
 - **Sir Thomas Roe** arrived **1615**.
@@ -381,12 +381,12 @@ A. II, I, IV and III | B. IV, II, I and III | C. I, III, II and IV | D. III, II,
 ### Later emperors (quick line)
 
 - **Ahmad Shah (1748–1754)** and **Alamgir II (1754–1759)** followed the Rangeela phase.
-- **Shah Alam II (1759–1806)**, earlier **Ali Gauhar**, reached Delhi with Maratha help in **1772**.
+- **Shah Alam II (1759–1806)**, earlier **Ali Gauhar**, reached Delhi with Maratha (मराठा) help in **1772**.
 - Wazir **Ghaziuddin** kept him from easy control of Delhi for a time.
 - The English captured **Delhi in 1803** during his reign.
 - **Akbar II (1806–1837)** was followed by **Bahadur Shah Zafar / Bahadur Shah II (1837–1857)**.
-- Zafar is remembered as an **emperor without an empire**, a British pensioner at the Red Fort.
-- **Ibrahim Zauq** and **Asadullah Khan Ghalib** taught him poetry.
+- Zafar is remembered as an **emperor without an empire**, a British pensioner at the Red Fort (लाल किला).
+- **Ibrahim (इब्राहिम) Zauq** and **Asadullah Khan Ghalib** taught him poetry.
 - **Hasan Askari** was his spiritual guide.
 - He received about **Rs 1 lakh per month** as Company pension (plus other grants), so the claim that he received **less than one lakh** is false.
 
@@ -396,8 +396,8 @@ A. II, I, IV and III | B. IV, II, I and III | C. I, III, II and IV | D. III, II,
 - He defeated Mughal governor **Mubariz Khan** at **Shakar Kheda (Sakhar-Kherda) in 1724**.
 - **Kilich Khan** is **not** the same person as **Mubariz Khan**.
 - The emperor **Muhammad Shah** conferred the **Asaf Jah** title.
-- The **Nizamat of Arcot** was a legal dependency of the Nizam’s sphere, but it did **not** simply “emerge out of” Hyderabad state as a breakaway in the loose sense used in some distractors.
-- **Mysore** under the **Wodeyars** grew from a **Vijayanagara** vassal background — that statement is the safe one in the IAS 2021 triad.
+- The **Nizamat (निज़ामत) of Arcot** was a legal dependency of the Nizam’s sphere, but it did **not** simply “emerge out of” Hyderabad state as a breakaway in the loose sense used in some distractors.
+- **Mysore** (मैसूर) under the **Wodeyars** grew from a **Vijayanagara** vassal background — that statement is the safe one in the IAS 2021 triad.
 
 ### Rohilkhand note
 
@@ -408,7 +408,7 @@ A. II, I, IV and III | B. IV, II, I and III | C. I, III, II and IV | D. III, II,
 
 - **Sawai Jai Singh II (Jai Singh II, 1688–1743)** founded **Jaipur** as a centre of science and art.
 - He built well-equipped observatories (**Jantar Mantar**) at **Delhi, Jaipur, Ujjain, Mathura, and Varanasi**.
-- He did **not** build one at **Allahabad**.
+- He did **not** build one at **Allahabad** (इलाहाबाद).
 - He prepared astronomical tables known as **Zij Muhammad Shahi**.
 - He had **Euclid’s Geometry** rendered into **Sanskrit**.
 - He performed **Ashvamedha** sacrifices during his reign.
@@ -427,10 +427,10 @@ A. II, I, IV and III | B. IV, II, I and III | C. I, III, II and IV | D. III, II,
 
 - **Saadat Khan Burhan-ul-Mulk** founded the line in **1722**.
 - He took part in the conspiracy against the **Sayyid brothers** and received the title **Burhan-ul-Mulk** from **Muhammad Shah**.
-- He is **not** the Bengal Nawab. Bengal’s autonomous line starts with **Murshid Quli Khan**.
+- He is **not** the Bengal Nawab. Bengal’s autonomous line starts with **Murshid Quli Khan** (मुर्शिद कुली खान).
 - **Safdar Jung** (1739–1754) also served as Mughal **Wazir**.
 - **Shuja-ud-Daula** (1754–1775) stood with **Abdali at Panipat III (1761)**.
-- After **Buxar**, the **Treaty of Allahabad (1765)** put Awadh under English pressure.
+- After **Buxar** (बक्सर), the **Treaty of Allahabad (1765)** put Awadh under English pressure.
 - **Asaf-ud-Daula** (1775–1797) made **Lucknow** the capital.
 - The **Bara Imambara** is his Lucknow monument.
 - **Wajid Ali Shah** was the last Nawab.
@@ -1701,7 +1701,7 @@ D. Bernier
 
 ### UKPCS Complete PYQ Bank (Later Medieval — Europeans)
 
-**Q1. Uttarakhand PCS (Pre) 2016**
+**Q1. Uttarakhand (उत्तराखंड) PCS (Pre) 2016**
 
 Which one is connected with the **Blue Water Policy**?
 
@@ -1711,7 +1711,7 @@ B. Albuquerque
 
 C. Dupleix
 
-D. Robert Clive
+D. Robert Clive (क्लाइव)
 
 <details>
 <summary>Show answer</summary>

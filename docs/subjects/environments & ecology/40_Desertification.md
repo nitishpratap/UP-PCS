@@ -1,10 +1,10 @@
-# Topic 40 — Desertification
+# Topic 40 — Desertification (मरुस्थलीकरण)
 ### ★ UPPCS Revision Sheet — Lucent-style (no repetition · Practice ≥25)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Desertification | Land Degradation | Drought | Soil Erosion
+Desertification | Land Degradation (भू-क्षरण) | Drought (सूखा) | Soil Erosion
 
 </details>
 
@@ -26,21 +26,21 @@ Desertification | Land Degradation | Drought | Soil Erosion
 1. **Desertification** is land degradation in **arid, semi-arid, and dry sub-humid (ASDM)** drylands. It is not merely “the desert expanding.”
 2. Drivers combine climate variation with human pressures such as overgrazing, deforestation, and bad irrigation.
 3. **Land degradation** is the broader productivity decline and can occur in any climate zone.
-4. India’s degraded land share is often taught near **29–30%** (ISRO Atlas **2016**, about **96.4 million ha**). **Rajasthan** is the worst state hotspot.
-5. Drought types run **meteorological → hydrological → agricultural**. Meteorological drought is often linked to rainfall below about **75%** of long-period average.
+4. India’s degraded land share is often taught near **29–30%** (ISRO Atlas **2016**, about **96.4 million ha**). **Rajasthan** (थार) is the worst state hotspot.
+5. Drought types run **meteorological → hydrological → agricultural**. Meteorological drought (मौसमी (मौसम विज्ञान) सूखा) is often linked to rainfall below about **75%** of long-period average.
 6. **DPAP** began in **1973**. Drought and desertification reinforce each other in a feedback loop.
-7. Bundelkhand’s **seven** Uttar Pradesh districts are a classic UP drought–degradation hotspot.
-8. Water erosion stages run **sheet → rill → gully → ravine**. The **Chambal** ravines are the textbook deep badlands.
-9. Wind erosion works through **deflation** and **abrasion**, especially in the Thar.
+7. Bundelkhand’s **seven** Uttar Pradesh (उत्तर प्रदेश) districts are a classic UP drought–degradation hotspot.
+8. Water erosion stages run **sheet → rill → gully → ravine**. The **Chambal** (चंबल) ravines are the textbook deep badlands.
+9. Wind erosion works through **deflation** and **abrasion**, especially in the Thar (थार).
 10. **Overgrazing** is the top dryland cause in many coaching facts. Afforestation helps prevent further degradation.
-11. The **UNCCD** was adopted in **1994**. **17 June** is Desertification and Drought Day.
-12. **Land Degradation Neutrality (LDN)** targets **no net loss** of healthy land by **2030** (SDG **15.3**).
-13. UNCCD is the desertification convention. **UNFCCC** is the climate convention — different treaties.
+11. The **UNCCD** was adopted (अंगीकृत) in **1994**. **17 June** is Desertification and Drought Day.
+12. **Land Degradation Neutrality (LDN)** (भूमि क्षरण तटस्थता) targets **no net loss** of healthy land by **2030** (SDG **15.3**).
+13. UNCCD is the desertification convention. **UNFCCC** (यूएनएफसीसीसी) is the climate convention — different treaties.
 14. Salinity from poor irrigation is a human-made degradation path even where rainfall is not zero.
 15. Accelerated erosion from human misuse is the focus, not only slow geological erosion.
 16. Desertification can reverse with sustainable land management; it is not an irreversible death sentence in every plot.
 17. Do not define desertification as any bare land in a humid forest belt.
-18. Sheet erosion removes a thin film; gullies cut channels; ravines are deep, dense badland networks.
+18. Sheet erosion (परत (चादर) अपरदन) removes a thin film; gullies cut channels; ravines are deep, dense badland networks.
 19. IMD drought monitoring and DPAP geography often appear beside desertification stems.
 20. SDG 15.3 LDN is the policy end-state; UNCCD is the global legal home.
 21. Thar wind processes and Chambal water ravines are twin Indian landform facts.
@@ -67,7 +67,7 @@ Desertification | Land Degradation | Drought | Soil Erosion
 |------|------|
 | Desertification | ASDM dryland degradation (≠ only desert expand) |
 | India share | ~29–30%; ~96.4 mha; Rajasthan worst hotspot |
-| Drought types | Met → hydro → agri; met often <75% normal rain |
+| Drought types | Met → hydro → agri; met often <75% normal rain (सामान्य वर्षा) |
 | DPAP | **1973** |
 | Bundelkhand UP | Seven districts drought–degradation hotspot |
 | Erosion sequence | Sheet → rill → gully → ravine (Chambal) |
@@ -86,7 +86,7 @@ Desertification | Land Degradation | Drought | Soil Erosion
 - **Overgrazing** is the leading human cause in drylands; deforestation and unsustainable cropping follow.
 - Improper irrigation can cause **salinization** and **waterlogging**.
 - Drought and climate stress kill vegetation and speed erosion — a feedback loop.
-- **Wind erosion** dominates true arid zones such as the **Thar**.
+- **Wind erosion** dominates true arid zones such as the **Thar** (थार).
 - India’s **ISRO Desertification Atlas (2016)** mapped about **96.4 M ha (~29.3%)** under desertification/land degradation; **Rajasthan** is the worst-affected state.
 - **UNCCD** adopted **17 June 1994** (Paris); force **1996**.
 - **17 June** = World Desertification and Drought Day.
@@ -116,7 +116,7 @@ Options: A. 2025 B. 2030 C. 2035 D. 2040
 - **Desertification** is the ASDM subset; erosion, salinity, waterlogging, mining, and pollution are processes under the broader term.
 - Continued degradation produces **wasteland** unsuitable for cultivation.
 - Consequences: food insecurity, rural poverty, migration, reservoir silting, and higher flood risk on silted beds.
-- Solutions: watershed management, afforestation, controlled grazing, soil-water conservation, and LDN restoration projects.
+- Solutions: watershed management (वाटरशेड (जलग्रहण) प्रबंधन), afforestation, controlled grazing, soil-water conservation, and LDN restoration projects.
 - **Afforestation reduces** degradation — it is not a cause.
 
 | Process | Meaning |
@@ -134,15 +134,15 @@ Options: A. 2025 B. 2030 C. 2035 D. 2040
 
 **Identity:** Water deficit types | IMD LPA | DPAP 1973 | Bundelkhand link
 
-- **Drought** is a prolonged water deficit relative to normal supply — not the same as desertification, though the two reinforce each other.
+- **Drought** is a prolonged water deficit relative (सापेक्ष) to normal supply — not the same as desertification, though the two reinforce each other.
 - **Meteorological drought:** rainfall well below normal (IMD often uses **< 75% of Long Period Average** as a severe marker).
-- **Hydrological drought:** rivers, reservoirs, and groundwater fall.
-- **Agricultural drought:** soil moisture fails crops even if some rain fell.
-- Socio-economic drought follows when livelihoods and prices collapse.
+- **Hydrological drought (जल-वैज्ञानिक सूखा):** rivers, reservoirs, and groundwater fall.
+- **Agricultural drought (कृषि सूखा):** soil moisture fails crops even if some rain fell.
+- Socio-economic drought (सामाजिक-आर्थिक सूखा) follows when livelihoods and prices collapse.
 - Drought kills vegetation → bare soil → erosion → desertification risk rises.
 - **Drought Prone Areas Programme (DPAP)** launched **1973–74** for dryland watershed-type works.
 - Related lineage: Desert Development Programme (DDP), later watershed/IWMP-type convergence.
-- UP hotspot: **Bundelkhand** seven districts — Jhansi, Lalitpur, Jalaun, Hamirpur, Mahoba, Banda, Chitrakoot.
+- UP hotspot: **Bundelkhand** seven districts — Jhansi (झांसी), Lalitpur, Jalaun, Hamirpur, Mahoba, Banda, Chitrakoot (चित्रकूट).
 
 **PYQ — UPPCS Prelims 2025, Q134**
 
@@ -153,7 +153,7 @@ Options: A. 4, 2, 3, 1 B. 2, 4, 1, 3 C. 2, 4, 3, 1 D. 4, 2, 1, 3
 
 <details><summary>Show answer</summary>
 
-**Ans: B** — CDP **1952** → DPAP **1973** → Food for Work **1977** → TRYSEM **1979**.
+**Ans: B** — CDP (सीडीपी) **1952** → DPAP **1973** → Food for Work **1977** → TRYSEM **1979**.
 
 </details>
 
@@ -168,7 +168,7 @@ Options: A. 4, 2, 3, 1 B. 2, 4, 1, 3 C. 2, 4, 3, 1 D. 4, 2, 1, 3
 - **Normal (geological) erosion** is slow and roughly balances soil formation.
 - **Accelerated erosion** is human-driven and faster than formation — the focus.
 - **Water erosion ladder:sheet → rill → gully → ravine**.
-- **Chambal ravines** (MP–UP–Rajasthan, including Etawah–Agra belt) are the classic Indian ravine badlands.
+- **Chambal ravines** (चंबल) (MP–UP–Rajasthan, including Etawah (इटावा)–Agra belt) are the classic Indian ravine badlands.
 - **Wind erosion:deflation** (lifting fine particles) and **abrasion** (sandblasting) — strong in the Thar.
 - Conservation: contour bunding, terracing, shelter belts, check dams, gully plugging, cover crops, and afforestation.
 - Healthy soil biology (e.g. earthworms) supports fertility and structure.

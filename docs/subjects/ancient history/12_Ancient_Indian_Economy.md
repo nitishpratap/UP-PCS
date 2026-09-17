@@ -32,8 +32,8 @@ Taught in time-order: no coins in IVC → Vedic nishka → punch-marked silver �
 11. **Manigrama** (मणिग्रामम) is the **foreign / overseas** trade institution. **Nanadesi** (नानादेशी) means merchants of many lands, but the foreign-trade key is still **Manigrama**.
 12. **Lothal** is the Harappan **dockyard** (गोदीबाड़ा). Boat models come from **Mohenjo-daro and Lothal**, not from Dholavira alone.
 13. Periplus west ports: **Barygaza** is **Broach** (Narmada mouth); **Barbarikon** is the **Indus-mouth** port — do not swap them.
-14. **Tamralipti** (ताम्रलिप्ति) at the Ganga mouth faces the Bay of Bengal. **Muziris (Muchiri)** on the Malabar is the Roman **pepper** port.
-15. Inland highways: **Uttarapatha** (उत्तरापथ) runs Taxila toward **Pataliputra**; **Dakshinapatha** (दक्षिणापथ) runs from the Ganga belt through **Ujjain** into the Deccan. Dakshinapatha is a **road**, not “only sea.”
+14. **Tamralipti** (ताम्रलिप्ति) at the Ganga mouth faces the Bay of Bengal. **Muziris (Muchiri)** on the Malabar is the Roman **pepper** (काली मिर्च) port.
+15. Inland highways: **Uttarapatha** (उत्तरापथ) runs Taxila toward **Pataliputra**; **Dakshinapatha** (दक्षिणापथ) runs from the Ganga belt through **Ujjain** (उज्जैन) into the Deccan. Dakshinapatha is a **road**, not “only sea.”
 16. Roman trade peaks about the first to third centuries CE. The ***Periplus of the Erythraean Sea*** is the coastal handbook; **Pliny** complains of a **gold drain** to India.
 17. Sangam poems call western foreign traders **Yavana** (यवन). **Arikamedu** near Puducherry yields Roman amphorae and related ware; the *Periplus* calls it **Poduke**.
 18. Punch-marked silver carries geometric and animal punches — **no royal portrait**. Common marks include sun, six-armed symbol, hill, elephant, bull, and tree-in-railing.
@@ -45,7 +45,7 @@ Taught in time-order: no coins in IVC → Vedic nishka → punch-marked silver �
 24. The **Ainnurruvar** (“500”) are a later south merchant network. They are not a Mauryan guild label.
 25. Harappan west end on the Makran is **Sutkagen-dor**. Harappan sea traffic runs toward the Gulf from Lothal and the Makran coast.
 26. After the Guptas, imperial gold thins. Roman **aurei** in south Indian hoards remain pepper-trade bullion evidence, not Gupta mintage.
-27. Guild custom is treated as usable law in the *Arthashastra*, and Sanchi–Bharhut gifts name shrenis — so shreni is **not** “only foreign trade.”
+27. Guild custom is treated as usable law in the *Arthashastra* (अर्थशास्त्र), and Sanchi–Bharhut gifts name shrenis — so shreni is **not** “only foreign trade.”
 28. Economy type changes by age: pastoral cattle wealth in the Rigveda, agrarian dues later, then coin-and-town trade from the sixth century BCE onward.
 29. An **amphora** is a tall Roman jar with a long neck and **two handles**, used for wine or oil — a classic Arikamedu find type.
 30. **Tagara** sat on the inland trade route connecting **Kalyan** with **Vengi**.
@@ -124,7 +124,7 @@ Taught in time-order: no coins in IVC → Vedic nishka → punch-marked silver �
 |-------------|--------------------|----------------|
 | *Periplus of the Erythraean Sea* | **Anonymous** Greek merchant | 1st c. CE sailing handbook; Barygaza / Muziris |
 | Natural History (gold-drain note) | **Pliny** | Roman gold flowing to India |
-| *Arthashastra* | **Kautilya** | Guild custom, revenue, Mauryan economy |
+| *Arthashastra* | **Kautilya** (कौटिल्य) | Guild custom, revenue, Mauryan economy |
 
 - The *Periplus* has **no named author**.
 - Pliny complains of Roman gold drain; he is not an Indian court writer.
@@ -149,7 +149,7 @@ Each age has a different economy label. Hold the match spine first, then the per
 - The Indus economy is **urban** craft and trade. It uses cubical **weights** and **seals**. It has **no coins**.
 - The Rigvedic economy is **pastoral**. Wealth sits in cattle. The **nishka** is a gold piece or ornament. It is not a minted coin.
 - The Later Vedic economy is **agrarian**. **Bali** and **bhaga** appear as dues.
-- Punch-marked coins appear in the **mahajanapada** age, after the Vedic phase.
+- Punch-marked coins appear in the **mahajanapada** (महाजनपद) age, after the Vedic phase.
 - From about the **sixth century BCE**, towns, **NBPW**, and **punch-marked silver** appear with long-distance trade.
 - The Mauryan state taxes trade. The weights officer is the ***pautavadhyaksha***.
 - The Gupta age shows land grants, guilds, and gold prestige. Daily markets still use silver and copper.
@@ -178,11 +178,11 @@ A. 4 2 3 1 B. 2 1 4 3 C. 3 4 1 2 D. 4 3 1 2
 
 **Punch-marked first | portrait later | copper/lead for small change**
 
-- The earliest Indian coins are **punch-marked silver**, from about the sixth to fifth century BCE. Mahajanapadas issue them. Magadha types then spread with the empire. The unit is the **karshapana** or **pana**. The mark is a weight-stamp, not a portrait.
+- The earliest Indian coins are **punch-marked silver**, from about the sixth to fifth century BCE. Mahajanapadas issue them. Magadha types then spread with the empire. The unit is the **karshapana** or **pana** (पण). The mark is a weight-stamp, not a portrait.
 - The Mauryas keep punch-marks and also issue **cast copper**.
 - The **Indo-Greeks** bring **die-struck portraits**. Their legends use Greek and Kharoshthi.
 - Satavahanas often strike **lead** or **potin**. **Yajna Sri Satakarni** puts a **ship** on some coins as a Deccan sea-trade stamp.
-- The Western Kshatrapas strike silver. **Chandragupta II** later copies that silver habit.
+- The Western Kshatrapas strike silver. **Chandragupta II** (चंद्रगुप्त द्वितीय) later copies that silver habit.
 - Coins name kings and gods. **Inscriptions** remain the main administrative record.
 
 > **Logic:** First coins ≠ gold. First coins ≠ IVC.
@@ -195,7 +195,7 @@ A. 4 2 3 1 B. 2 1 4 3 C. 3 4 1 2 D. 4 3 1 2
 
 - IVC and Vedic India have **no** gold mint. Indo-Greeks issue some gold in the northwest. **Vima Kadphises** and the **Kushans** make gold **common**. The Kushan imperial title is *Shaonanoshao*.
 - The Gupta **dinara** is prestige gold. The name comes from the Roman *denarius* through Kushan use.
-- The king-queen type shows **Chandragupta I** with **Kumaradevi**. Horse, lyrist, and battle-axe types belong to **Samudragupta**. Archer, chhatra, and lion-slayer types belong to **Chandragupta II**. Peacock and lion types belong to **Kumaragupta I**.
+- The king-queen type shows **Chandragupta I** with **Kumaradevi**. Horse, lyrist, and battle-axe types belong to **Samudragupta** (समुद्रगुप्त). Archer, chhatra, and lion-slayer types belong to **Chandragupta II**. Peacock and lion types belong to **Kumaragupta I**.
 - Gupta **gold** often weighs about **120–144 grains**. Gupta **silver** (*rupaka*) is about **33 grains**.
 - Roman **aurei** in south Indian hoards are pepper-trade bullion. **Pliny** calls that a gold drain. After the Guptas, imperial gold thins.
 
@@ -357,7 +357,7 @@ D. Kalibangan and Ropar
 | Issuers | First **mahajanapadas**, then Magadha–Maurya |
 | Small change | Mauryan **cast copper** *kakani* |
 | Style | Geometric / animal punches — **no royal portrait** |
-| Portraits | Begin with **Indo-Greek** die-struck coins |
+| Portraits | Begin with **Indo-Greek** (इंडो-ग्रीक) die-struck coins |
 
 Common punch symbols: **sun**, **six-armed symbol**, **hill**, **elephant**, **bull**, **tree-in-railing**.
 
@@ -377,9 +377,9 @@ Common punch symbols: **sun**, **six-armed symbol**, **hill**, **elephant**, **b
 **Share tax first | land grants thicken later | vishti is labour**
 
 - Vedic dues begin as **bali** (tribute) and **bhaga** (the king’s share of produce).
-- Mauryan statecraft keeps **bhaga** (often about one-sixth in the *Arthashastra*); the **Samaharta** collects and the **Sannidhata** stores.
-- Forced labour appears as **vishti** in early historic revenue language.
-- Gupta copper-plate grants create **brahmadeya** and **agrahara** holdings; feudatory **samanta** tribute sits beside the old share tax.
+- Mauryan statecraft keeps **bhaga** (often about one-sixth in the *Arthashastra*); the **Samaharta** collects and the **Sannidhata** (सन्निधाता) stores.
+- Forced labour appears as **vishti** (विष्टि -) in early historic revenue language.
+- Gupta copper-plate grants create **brahmadeya** and **agrahara** holdings; feudatory **samanta** (सामंत) tribute sits beside the old share tax.
 - Under Harsha, agrahara grants continue and the moving royal camp is remembered as **skandhavara**.
 - Land-grant thickening is the bridge from Mauryan salaried collection toward post-Gupta feudal land control.
 

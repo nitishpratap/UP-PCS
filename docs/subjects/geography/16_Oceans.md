@@ -20,14 +20,14 @@ Oceans & Seas | Ocean Floor | Trenches | Ocean Currents (Warm & Cold) | Temperat
 
 | Year | Fact | Why it matters | Source |
 |------|------|----------------|--------|
-| **Feb 2026–ongoing** | After US–Israel strikes on Iran (from **28 Feb 2026**), Iran moved to control / restrict the **Strait of Hormuz**; tanker traffic collapsed; mines, boardings and attacks on merchant ships were reported | World’s top oil–LNG chokepoint in the news | Reuters / IEA / CRS |
+| **Feb 2026–ongoing** | After US–Israel strikes on Iran (from **28 Feb 2026**), Iran moved to control / restrict the **Strait of Hormuz**; tanker traffic collapsed; mines, boardings and attacks on merchant ships (नावाध्यक्ष) were reported | World’s top oil–LNG chokepoint in the news | Reuters / IEA / CRS |
 | **2025 baseline** | About **20 mb/d** of oil products (~**25%** of seaborne oil) and ~**20%** of world **LNG** (mainly Qatar + UAE) normally transit Hormuz | Scale of any closure | IEA |
-| Static geography | Hormuz joins **Persian Gulf ↔ Gulf of Oman**; shores are **Iran (north)** and **Oman (Musandam, south)**; UAE sits on the approaches | Country / strait MCQs | Atlas |
+| Static geography | Hormuz joins **Persian (फ़ारसी) Gulf ↔ Gulf of Oman**; shores are **Iran (north)** and **Oman (Musandam, south)**; UAE sits on the approaches | Country / strait MCQs | Atlas |
 | Bypass note | Only **Saudi Arabia** and the **UAE** have meaningful pipeline routes that can skip Hormuz; Iraq, Kuwait, Qatar, Bahrain and Iran lean almost entirely on the strait | Who is trapped if closed | IEA |
 | Demand side | Most Hormuz oil goes to **Asia** (China, India, Japan, Korea); India is a major importer through this gate | India linkage | EIA / visualisers |
 | Other 2026 themes | Dual blockade talk (Iran on the strait / US on Iranian ports), insurance spikes, and later escort / corridor politics kept oil prices elevated | Chokepoint = price risk | Reuters / Brookings |
 | Static | **BBNJ 2023** high-seas biodiversity treaty — India has signed; UNCLOS **12 / 24 / 200 nm** unchanged | Law of the sea | UN |
-| Static | India Arctic Policy **2022**; Arctic Council **observer** since **2013**; Deep Ocean Mission / Samudrayaan / Blue Economy | Polar + deep ocean | MEA / MoES |
+| Static | India Arctic Policy **2022**; Arctic Council **observer** since **2013**; Deep Ocean Mission / Samudrayaan / Blue Economy (नीली अर्थव्यवस्था) | Polar + deep ocean | MEA / MoES |
 
 ---
 
@@ -36,36 +36,36 @@ Oceans & Seas | Ocean Floor | Trenches | Ocean Currents (Warm & Cold) | Temperat
 
 1. By area the oceans rank **Pacific > Atlantic > Indian > Southern > Arctic**. The Indian Ocean was the Greek **Erythraean Sea** and straddles **both sides of the Equator**.
 2. Ocean-floor order from the shore is **shelf → slope → rise (or trench) → abyssal plain**. A **guyot** is a flat-topped seamount. The continental shelf is shallow (about **200 m**), rich in fish and oil, and covers roughly **7.5%** of the ocean floor.
-3. India’s **west shelf is wider than the east**. The Gujarat–Mumbai belt is widest and holds **Bombay High**. The east shelf is narrower but carries large delta fans.
+3. India’s **west shelf is wider than the east**. The Gujarat–Mumbai belt is widest and holds **Bombay High**. The east shelf is narrower but carries large delta (डेल्टा) fans.
 4. The **Telegraphic Plateau** is part of the **North Atlantic Ridge**, not a separate land plateau.
 5. Trench–ocean pairs: **Mariana–Pacific**, **Puerto Rico–Atlantic**, **Sunda/Java–Indian**, and **Molloy–Arctic**.
 6. **Agulhas** and **Brazil** are **warm** currents. **Humboldt (Peru)** and **California** are **cold**. Do not mark Agulhas or Brazil as cold.
 7. The **Benguela** is an **Atlantic** cold current off south-west Africa. It is **not** a Pacific current.
 8. Among classic MCQ options, the current linked to the **Indian Ocean** is the **Agulhas**.
-9. **El Niño** sends warm water off Peru, weakens upwelling, and cuts plankton and fish catch.
+9. **El Niño** (अल नीनो) sends warm water off Peru, weakens upwelling, and cuts plankton and fish catch.
 10. Open-ocean **salinity** is about **35‰**. The maximum sits near the **Tropics of Cancer and Capricorn**, not on the Equator. The **Red Sea** is high; the **Baltic** is low.
 11. Seawater density rises when water is **colder** and **saltier**. Cold salty water sinks and drives the **thermohaline** circulation. **NaCl** is about **77%** of dissolved salts.
 12. Surface temperature peaks near the equator. The **thermocline** lies roughly **300–1000 m**. Deep water is cold in every ocean.
 13. A **spring tide** forms at **syzygy** (new/full moon) and is **large**. A **neap tide** forms at **quadrature** and is **small**. The tidal period is about **12 h 25 min**, not 12 h 30.
-14. A **tidal bore** is famous on the **Hooghly** and the **Amazon**. The **Bay of Fundy** has the world’s greatest tidal range. India’s tidal-energy coast fact is the **Gulf of Khambhat**.
+14. A **tidal bore** is famous on the **Hooghly** (हुगली) and the **Amazon**. The **Bay of Fundy** has the world’s greatest tidal range. India’s tidal-energy coast fact is the **Gulf of Khambhat**.
 15. **Upwelling** is strongest on **west coasts**: Peru, California, Canary, Benguela, and Somalia.
-16. **Constructive** waves build beaches; **destructive** waves erode them. A **tsunami** is not a tide.
+16. **Constructive** waves build beaches; **destructive** waves erode them. A **tsunami** (सुनामी) is not a tide.
 17. Ocean currents shape climate (mild or foggy coasts, west-coast deserts), concentrate fish where warm and cold meet or upwelling occurs, and affect navigation routes.
 18. Deepest deposit is **red clay**. **Globigerina** and **pteropod** oozes are **calcareous**. **Diatom** and **radiolarian** oozes are **siliceous**. **Manganese nodules** sit on abyssal plains, especially in the Pacific and the Central Indian Ocean Basin.
-19. The **Suez Canal** (Egypt, **1869**) joins the **Mediterranean** and the **Red Sea**. It is a **sea-level** cut — ships stay at one water height and do **not** climb stepped chambers. Lakes north→south: **Manzala → Timsah → Great Bitter → Little Bitter**. Ends: **Port Said** (N) and **Suez** (S). India–Europe sea route is shorter by about **7000 km**. It does **not** itself touch the Atlantic or the open Indian Ocean.
+19. The **Suez Canal** (Egypt (मिस्र), **1869**) joins the **Mediterranean** and the **Red Sea**. It is a **sea-level** cut — ships stay at one water height and do **not** climb stepped chambers. Lakes north→south: **Manzala → Timsah → Great Bitter → Little Bitter**. Ends: **Port (बंदरगाह) Said** (N) and **Suez** (S). India–Europe sea route is shorter by about **7000 km**. It does **not** itself touch the Atlantic or the open Indian Ocean.
 20. The **Panama Canal** (**1914**) joins the **Atlantic/Caribbean** and the **Pacific**. Ships **climb stepped chambers** and use **Gatun Lake** to cross the isthmus. The **Kiel Canal** (Germany) joins the **North Sea** and the **Baltic**.
 21. UNCLOS belts: **territorial sea 12 nm**, **contiguous zone 24 nm**, **EEZ 200 nm**. The continental shelf starts at **200 nm** and may extend to **350 nm**.
 22. Classic fishery centres: **Grand Banks** (Labrador meets Gulf Stream), **Dogger Bank**, Peru upwelling, and the **Kuroshio–Oyashio** mix.
-23. India’s **operational** Antarctic stations are **Maitri** and **Bharati**. **Dakshin Gangotri** is not the operational pair. **Himadri** is India’s **Arctic** station, not Antarctic.
+23. India’s **operational** Antarctic stations are **Maitri** and **Bharati**. **Dakshin Gangotri (गंगोत्री)** is not the operational pair. **Himadri** (हिमाद्रि) is India’s **Arctic** station, not Antarctic.
 24. The **Antarctic Treaty** dates to **1959/61**. India joined in **1983**. India is an **observer** in the Arctic Council.
-25. Key straits: **Hormuz** (Persian Gulf ↔ Gulf of Oman; **Iran north / Oman south**; ~**25%** seaborne oil), **Malacca**, **Gibraltar**, **Bering**, **Bab-el-Mandeb**, **Palk**, and the **10° Channel**. Persian Gulf coasts = Iran, Iraq, Kuwait, Saudi Arabia, Bahrain, Qatar, UAE — **not Oman**.
+25. Key straits: **Hormuz** (Persian Gulf ↔ Gulf of Oman; **Iran north / Oman south**; ~**25%** seaborne oil), **Malacca**, **Gibraltar**, **Bering**, **Bab-el-Mandeb**, **Palk**, and the **10° Channel** (दस डिग्री). Persian Gulf coasts = Iran, Iraq, Kuwait, Saudi Arabia, Bahrain, Qatar, UAE — **not Oman**.
 26. The **Carlsberg Ridge** lies in the north-west Indian Ocean. The **Ninetyeast Ridge** is not the Mid-Atlantic Ridge.
-27. The International Seabed Authority manages the seabed **Area** beyond national zones (HQ Jamaica). India’s inland waterway **NW-1** is the **Ganga** from Haldia to Prayagraj.
+27. The International Seabed Authority manages the seabed **Area** beyond national zones (HQ Jamaica). India’s inland waterway **NW-1** is the **Ganga** (गंगा) from Haldia to Prayagraj (प्रयागराज).
 28. **Drake Passage** is not the Strait of Magellan. Panama opened in **1914** with stepped chambers; Suez opened in **1869** as a sea-level cut.
 29. Hydrosphere ≈ **71%** of Earth. Usable fresh ≈ **<1%** of all water. Of fresh water, ice ≫ groundwater ≫ rivers/lakes.
 30. **Datum line** = mean-sea-level height/depth zero. Abyssal plains ≈ most extensive ocean-floor province (~**76%**).
 31. **Sargasso** = North Atlantic, **no coast**. **Red Sea** = axial trough. **NAD** = Blanket of Europe. **OMT** (26°C isotherm) helps monsoon rainfall forecast.
-32. Lake salinity pairs: Assal / Van / Dead Sea / Great Salt Lake. **Halocline** = salinity gradient with depth. **Diamantina** = Indian Ocean.
+32. Lake salinity pairs: Assal / Van / Dead Sea / Great Salt (लवणाध्यक्ष) Lake. **Halocline** = salinity gradient with depth. **Diamantina** = Indian Ocean.
 33. Türkiye clock: **N = Black**, **S = Mediterranean**, **W = Aegean**, **NW = Marmara**. West→east ladder: **Mediterranean → Black → Caspian → Aral** (“My Black Cat Ate”).
 34. **Gaza** faces the **Mediterranean**. Baltic coasts = Denmark, Germany, Poland, Lithuania, Latvia, Estonia, Russia, Finland, Sweden — **not Norway**. **Jordan** has no Mediterranean coast (only **Aqaba** / Red Sea).
 
@@ -181,12 +181,12 @@ Five named oceans plus many seas and gulfs. Area order and Indian Ocean identity
 |-------|------|
 | **Pacific** | Largest and deepest ocean, about one-third of Earth’s surface, with the Ring of Fire |
 | **Atlantic** | S-shaped basin with the Mid-Atlantic Ridge and the Telegraphic Plateau |
-| **Indian** | Mostly south of Asia, on **both sides of the Equator**; Greeks called it the **Erythraean Sea** |
+| **Indian** | Mostly south of Asia, on **both sides of the Equator**; Greeks (यूनानी) called it the **Erythraean Sea** |
 | **Southern** | Surrounds Antarctica and carries the only circumpolar **Antarctic Circumpolar Current** |
 | **Arctic** | Smallest and shallowest ocean, with the world’s widest continental shelves |
 
 **Seas**
-- Named seas include the Arabian Sea, Bay of Bengal, Andaman Sea, Red Sea, Mediterranean, Black Sea, North Sea, Baltic Sea and Caribbean Sea.
+- Named seas include the Arabian Sea, Bay of Bengal, Andaman (अंडमान) Sea, Red Sea, Mediterranean, Black Sea, North Sea, Baltic Sea and Caribbean Sea.
 - East Asian and Pacific marginal seas include the South China, East China, Yellow, Japan, **Okhotsk**, Bering, Coral, Tasman and Java seas.
 - Polar and island seas include the Ross, Weddell, Arafura, Celebes, Banda and Philippine seas.
 - The **Sargasso Sea** sits in the North Atlantic gyre and has **no land boundary**.
@@ -206,7 +206,7 @@ Five named oceans plus many seas and gulfs. Area order and Indian Ocean identity
 | **Aral** | Shrinking lake shared by Kazakhstan and Uzbekistan |
 | **Red Sea** | **Axial trough** (rift) between Africa and Arabia |
 
-**Türkiye’s four waters — clock method**
+**Türkiye’s four (चातुर्याम) waters — clock method**
 
 Picture Türkiye on the map and read the coasts like a clock face.
 
@@ -313,14 +313,14 @@ A gulf or bay is an arm of the sea into the land. ask: which sea does it open in
 | **Gulf of Suez** | NW arm of **Red Sea** (Egypt) | Red Sea | **Not** the Suez Canal lakes. The canal starts from this gulf toward the Mediterranean |
 | **Gulf of Aqaba** | NE arm of Red Sea | Red Sea | Shared by Israel, Jordan, Egypt and Saudi Arabia, parallel to the Gulf of Suez |
 | **Gulf of Mexico** | S of USA, E of Mexico | Atlantic (via Florida / Yucatan straits) | Caribbean neighbour with the Loop Current and major oil fields |
-| **Gulf of Guinea** | West Africa (Nigeria–Ghana coast) | Atlantic | Warm **Guinea Current** and the Niger delta |
+| **Gulf of Guinea** | West Africa (Nigeria–Ghana (घन) coast) | Atlantic | Warm **Guinea Current** and the Niger delta |
 | **Gulf of California** (Sea of Cortez) | Between Baja and mainland Mexico | Pacific | Pacific arm, not Atlantic |
 | **Gulf of Alaska** | S of Alaska | Pacific | Warm **Alaska Current** |
 | **Gulf of Thailand** | Cambodia / Thailand / Vietnam | South China Sea | Shallow gulf, not part of the Indian Ocean |
 | **Gulf of Tonkin** | N Vietnam / S China | South China Sea | Northern South China Sea arm |
 | **Gulf of Khambhat / Cambay** | Gujarat, between Kathiawar and mainland | Arabian Sea | India’s classic **tidal-energy** coast |
 | **Gulf of Kutch** | N of Kathiawar (Gujarat) | Arabian Sea | Second tidal site, with reefs |
-| **Gulf of Mannar** | Between TN and Sri Lanka | Indian Ocean | Reefs and biosphere reserve. **Palk Strait** is the narrower passage to the north |
+| **Gulf of Mannar** | Between TN and Sri Lanka | Indian Ocean | Reefs and biosphere reserve (जैवमंडल आरक्षित क्षेत्र). **Palk Strait** is the narrower passage to the north |
 | **Hudson Bay** | NE Canada | Atlantic via Hudson Strait | Huge inland sea, not ranked as a true ocean |
 | **Bay of Fundy** | Nova Scotia–New Brunswick, Canada | Atlantic | **Highest tidal range in the world** (not Khambhat) |
 | **Gulf of Carpentaria** | N Australia | Arafura Sea | Shallow tropical gulf |
@@ -340,7 +340,7 @@ A gulf or bay is an arm of the sea into the land. ask: which sea does it open in
 
 ## N.1A Hydrosphere budget · datum · OMT
 
-The **hydrosphere** is Earth’s water in oceans, ice, groundwater, lakes, rivers and vapour. Oceans cover about **71%** of Earth’s surface — roughly **two-thirds** of the planet. The world ocean is one connected body, named as five basins: Pacific > Atlantic > Indian > Southern > Arctic.
+The **hydrosphere** is Earth’s water in oceans, ice, groundwater, lakes, rivers and vapour. Oceans cover about **71%** of Earth’s surface — roughly **two-thirds** (ते-भागा) of the planet. The world ocean is one connected body, named as five basins: Pacific > Atlantic > Indian > Southern > Arctic.
 
 **Fresh water (IAS framing)**
 
@@ -372,7 +372,7 @@ The ocean floor profile is the skeleton of every later card.
 | **Continental shelf** | Shore to **shelf break ~100–200 m**; slope ≤1°; ~**7.5%** of ocean area; avg width ~**80 km** | Drowned edge of the continent | Rich in **fisheries and oil/gas**. World’s widest shelves are **Siberian / Arctic**. India’s **west shelf is wider than the east** (Gujarat–Mumbai / Khambhat up to ~300 km; Konkan–Kerala narrower). The east shelf is narrower overall but carries big **delta / Bengal Fan** sediment. Oil pair: **Bombay High** (west) and KG basin (east) |
 | **Shelf break** | ~130–200 m | Sudden steepening | Marks the end of the “neritic” zone |
 | **Continental slope** | ~200 m down to **~3000 m**; 2–5° | True edge of the continental block | Cut by **submarine canyons**. **Turbidity currents** race down them |
-| **Deep-sea fan / cone** | Foot of a canyon | Turbidite dump | Same idea as an alluvial fan, underwater |
+| **Deep-sea fan / cone** | Foot of a canyon | Turbidite dump | Same idea as an alluvial (जलोढ़) fan, underwater |
 | **Continental rise** | ~3000–4000 m; gentler than slope | **Sediment apron** from shelf mud and canyon fans | Present on **passive** Atlantic-type margins. Often **missing** on **active** Pacific margins where a **trench** swallows the sediment |
 | **Abyssal plain** | **~3000–6000 m**; almost flat | Most of the ocean floor (~**76%** of ocean area in GC framing) | Hosts red clay and Mn nodules. “Abyssal hills” are small volcanic bumps on the plain |
 | **Trench (hadal)** | **>6000 m** (Mariana ~11 km) | Convergent plate where oceanic slab bends down | Island arcs or the Andes rise on the land side. Deepest points are in **N.3** |
@@ -554,7 +554,7 @@ Ocean currents are driven by prevailing winds, the **Coriolis** force (deflectio
 |---------|------|
 | **Agulhas** | **Warm** current off SE Africa — the classic **Indian Ocean** option (not Florida, Canary or Kurile) |
 | Mozambique | Warm |
-| Somali | Seasonal (SW monsoon upwelling off Somalia) |
+| Somali | Seasonal (SW monsoon (दक्षिण-पश्चिम) upwelling off Somalia) |
 | West Australian | **Cold** |
 | Monsoon current | **Reverses** with monsoon — why N Indian Ocean current direction changes seasonally |
 
@@ -571,7 +571,7 @@ Ocean currents are driven by prevailing winds, the **Coriolis** force (deflectio
 - Classic belts: Humboldt / Peru, California, Canary, **Benguela**, and Somalia under the SW monsoon.
 - These sit on the **west coasts** of continents (east sides of ocean basins).
 
-**El Niño / La Niña / IOD**
+**El Niño / La Niña (ला नीना) / IOD**
 
 - **El Niño** brings warm water **off Peru**. Upwelling stops, so **plankton and fish fall**.
 - **La Niña** is the opposite — extra-cold Peru and stronger upwelling.
@@ -703,7 +703,7 @@ The Moon’s pull exceeds the Sun’s. A lunar day is about **24 h 50 min**, so 
 
 ### Tide types — Teaching Card
 
-**Spring vs neap (geometry)**
+**Spring vs neap (वृहत्) (geometry)**
 
 - A **spring tide** occurs when the Sun, Earth and Moon lie roughly in a **straight line** (new moon or full moon).
 - Lunar and solar pulls then **add**, so the high tide is **extra high** and the low tide is **extra low** — the tidal range is **large**.
@@ -730,13 +730,13 @@ The Moon’s pull exceeds the Sun’s. A lunar day is about **24 h 50 min**, so 
 
 **Tidal bore**
 
-- A bore is a wall of tide in a funnel estuary.
+- A bore is a wall of tide in a funnel estuary (ज्वारनदमुख).
 - India’s classic bore is the **Hooghly**. World pairs include the Amazon and China’s Qiantang.
 - **Flood tide** is the rising tide. **Ebb tide** is the falling tide.
 - A perigean spring is an extra-large spring tide when the Moon is at perigee.
 - At **neap**, high tide sits **below** normal spring height and low tide sits **above** normal low. Neaps are **not** at new or full moon (those are springs). Neaps fall near day 7–8 of the lunar fortnight.
 - The indirect high tide on the far side of Earth is linked to **centrifugal** balance with Moon gravity.
-- **Southampton** (England) is famous for **four** tides a day because of Channel and North Sea timing.
+- **Southampton** (England) is famous for **four** (चातुर्याम) tides a day because of Channel and North Sea timing.
 - The Moon’s tide-raising force is about **2.17×** the Sun’s.
 
 **Waves (ForumIAS: teach separately from tides)**
@@ -799,8 +799,8 @@ A strait is a narrow natural waterway joining two larger water bodies. Always as
 | **Dardanelles** | Marmara ↔ Aegean | Entirely **Türkiye** |
 | **Bering** | Arctic ↔ Pacific | **Russia–USA** (Alaska) |
 | **Palk** | Bay of Bengal side ↔ Gulf of Mannar / Laccadive approaches | **India–Sri Lanka** |
-| **10° Channel** | Andaman ↔ Nicobar | Inside India |
-| **9° Channel** | Minicoy ↔ Lakshadweep proper | Inside India |
+| **10° Channel** | Andaman ↔ Nicobar (निकोबार) | Inside India |
+| **9° Channel** (नौ डिग्री) | Minicoy ↔ Lakshadweep (लक्षद्वीप) proper | Inside India |
 | **8° Channel** | Maldives ↔ Minicoy | Maldives–India |
 | Duncan Passage | Little Andaman ↔ South Andaman | Inside India |
 | Sunda | Indian Ocean ↔ Java Sea approaches | **Sumatra–Java** (Indonesia) |
@@ -881,7 +881,7 @@ Before 1869, Europe–India steamers often rounded **Africa**. Suez cut that mar
 - Pacific-side town cue: **Panama City**.
 - Ships enter gated **stepped chambers**, rise to **Gatun Lake**, then descend to the other ocean.
 - It is **not** Med ↔ Red. It does **not** shorten the classic India–Europe Suez route.
-- Its job is East Coast Americas / Atlantic trade ↔ Pacific without rounding **Cape Horn**.
+- Its job is East Coast Americas / Atlantic trade (पण्याध्यक्ष) ↔ Pacific without rounding **Cape Horn**.
 
 ---
 
@@ -893,8 +893,8 @@ Before 1869, Europe–India steamers often rounded **Africa**. Suez cut that mar
 | **Corinth** | Ionian ↔ Aegean | Greece |
 | **Soo** (Sault Ste. Marie) | Lake **Superior ↔ Huron** | USA–Canada. **Not** Superior–Michigan |
 | **Welland** | Erie ↔ Ontario | Bypasses Niagara Falls |
-| **Erie Canal** | Lake Erie ↔ Hudson River | Historic US inland route |
-| **St Lawrence Seaway** | Great Lakes ↔ Atlantic | USA–Canada ocean door |
+| **Erie Canal** | Lake Erie ↔ Hudson River | Historic (ऐतिहासिक) US inland route |
+| **St Lawrence (लॉरेंस) Seaway** | Great Lakes ↔ Atlantic | USA–Canada ocean door |
 | **Rhine–Main–Danube** | North Sea inland system ↔ **Black Sea** | Europe cross-continent inland |
 | **White Sea–Baltic** | Baltic ↔ White / Arctic approaches | Russia |
 | **Ludwig’s** | S Germany inland waterway | Match-list filler |
@@ -902,7 +902,7 @@ Before 1869, Europe–India steamers often rounded **Africa**. Suez cut that mar
 
 **India inland**
 
-- **NW-1** is the Ganga–Bhagirathi–Hooghly route from **Haldia to Prayagraj**.
+- **NW-1** is the Ganga–Bhagirathi (भागीरथी)–Hooghly route from **Haldia to Prayagraj**.
 
 ---
 
@@ -985,23 +985,23 @@ Coral reefs are tropical shallow-water communities built by coral polyps and the
 
 - Reefs grow mainly between the **Tropics** (roughly **30°N–30°S**).
 - Mean water temperature is usually about **20–30°C**.
-- Salinity must stay moderate. Fresh floodwater and extreme salinity both injure polyps.
-- Depth is shallow enough for sunlight — commonly within about **45–55 m** — so zooxanthellae can photosynthesize.
+- Salinity must stay moderate (नरम दल). Fresh floodwater and extreme salinity both injure polyps.
+- Depth is shallow enough for sunlight — commonly within about **45–55 m** — so zooxanthellae (ज़ूजैंथेली) can photosynthesize.
 - Water must be **clear and sediment-free**. Muddy river mouths are poor reef sites.
 
 Reefs cover only a tiny share of ocean floor but host a huge share of marine species (often cited near **~25%**).
 
-**Coral bleaching** is the loss of zooxanthellae under heat stress. The coral turns white. If stress lasts too long, the colony can die. Warming seas are the main modern trigger; pollution and sedimentation add stress.
+**Coral bleaching** (प्रवाल विरंजन) is the loss of zooxanthellae under heat stress. The coral turns white. If stress lasts too long, the colony (उपनिवेश) can die. Warming seas are the main modern trigger; pollution and sedimentation add stress.
 
 **Great Barrier Reef** is the world’s largest reef system. It lies off **NE Australia / Queensland** in the **Pacific** and stretches about **2300 km**. Coaching figures often list roughly 400 coral types, 1500 fish types and 4000 mollusc types.
 
-Reef types include **fringing** reefs close to shore, **barrier** reefs offshore with a lagoon, and **atolls** as **ring or horseshoe** reefs around a lagoon. The **shape of an atoll** is therefore **horseshoe / ring**, not triangular or rectangular. **Addu Atoll** in the southern Maldives sits in the **Indian Ocean**. India’s own reef tracts are taught with the biodiversity chapter (Andaman–Nicobar, Lakshadweep, Gulf of Mannar, Gulf of Kachchh).
+Reef types include **fringing** reefs close to shore, **barrier** reefs offshore with a lagoon, and **atolls** as **ring or horseshoe** reefs around a lagoon. The **shape of an atoll** is therefore **horseshoe / ring**, not triangular or rectangular. **Addu Atoll** in the southern Maldives sits in the **Indian Ocean**. India’s own reef tracts are taught with the biodiversity chapter (Andaman–Nicobar (अंडमान), Lakshadweep, Gulf of Mannar, Gulf of Kachchh).
 
 ---
 
 ## N.9 UNCLOS, Territorial Waters, EEZ, Shelf
 
-UNCLOS was adopted in **1982**, entered into force in **1994**, and India ratified in **1995**. Zones are measured from **baselines**.
+UNCLOS was adopted (अंगीकृत) in **1982**, entered into force in **1994**, and India ratified in **1995**. Zones are measured from **baselines**.
 
 | Zone | Breadth |
 |------|---------|
@@ -1062,7 +1062,7 @@ The Arctic is an ocean with sea ice and rim lands. Antarctica is a **continent**
 - Signed **1 Dec 1959** in Washington. It entered into force in **1961**.
 - The original **12** parties agreed on peaceful use, science, no new claims, and no military bases for warfare.
 - India acceded in **1983** (consultative status).
-- The **Madrid Protocol 1991** adds environment rules and a **mining ban**.
+- The **Madrid Protocol 1991** adds environment (पर्यावरण) rules and a **mining ban**.
 
 **Stations**
 

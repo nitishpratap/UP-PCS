@@ -3,7 +3,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Tangible Cultural Heritage | Intangible Cultural Heritage | UNESCO World Heritage Sites | UNESCO Intangible Cultural Heritage | UNESCO World Heritage Sites in India | UNESCO Intangible Heritage List (India)
+Tangible Cultural Heritage | Intangible Cultural Heritage | UNESCO World Heritage (विश्व धरोहर) Sites | UNESCO Intangible Cultural Heritage | UNESCO World Heritage Sites in India | UNESCO Intangible Heritage (अभौतिक विरासत) List (India)
 
 </details>
 
@@ -15,10 +15,10 @@ Tangible Cultural Heritage | Intangible Cultural Heritage | UNESCO World Heritag
 
 ## Current Affairs
 
-- **Moidams** of Charaideo, Assam, entered the World Heritage list in **2024** as India’s **43rd** property.
-- **Maratha Military Landscapes** entered in **2025** as the **44th**. The serial covers **12** forts: eleven in Maharashtra and **Gingee** in Tamil Nadu.
-- **Sarnath** was inscribed in **July 2026** as India’s **45th** property and Uttar Pradesh’s **fourth**.
-- **Deepavali** entered UNESCO ICH on **10 December 2025** as India’s **16th** element, at 20.COM at the Red Fort, Delhi.
+- **Moidams** (मोइदाम) of Charaideo, Assam, entered the World Heritage list in **2024** as India’s **43rd** property.
+- **Maratha (मराठा) Military Landscapes** entered in **2025** as the **44th**. The serial covers **12** forts: eleven in Maharashtra and **Gingee** in Tamil Nadu (तमिलनाडु).
+- **Sarnath** (सारनाथ) was inscribed in **July 2026** as India’s **45th** property and Uttar Pradesh (उत्तर प्रदेश)’s **fourth**.
+- **Deepavali** (दीपावली) entered UNESCO ICH on **10 December 2025** as India’s **16th** element, at 20.COM at the Red Fort (लाल किला), Delhi.
 
 ---.
 
@@ -27,12 +27,12 @@ Tangible Cultural Heritage | Intangible Cultural Heritage | UNESCO World Heritag
 
 **Q. UKPCS Prelims 2025, Q52**
 
-Which of the following UNESCO World Heritage Sites is/are located in Uttarakhand?
+Which of the following UNESCO World Heritage Sites is/are located in Uttarakhand (उत्तराखंड)?
 
-A. Valley of Flowers
-B. Kaziranga National Park
+A. Valley of Flowers (फूलों की घाटी)
+B. Kaziranga (काजीरंगा) National Park
 C. Mountain Railways of India
-D. Nanda Devi National Park
+D. Nanda Devi (नंदा देवी) National Park
 
 A. A only
 B. A and B only
@@ -54,30 +54,30 @@ D. A and D only
 ## Consolidated Must-Score Facts
 
 1. **Tangible** cultural heritage is a monument or site you can touch. **Intangible** cultural heritage is a living practice or skill you perform.
-2. The World Heritage Convention is **1972** for sites with Outstanding Universal Value. The Intangible Heritage Convention is **2003** for living traditions. **Ramsar 1971** is wetlands, not WHS.
-3. The World Heritage Committee of **21** states decides inscriptions. **ICOMOS** advises on cultural sites. **IUCN** advises on natural sites. **OUV** is required.
+2. The World Heritage Convention is **1972** for sites with Outstanding Universal Value. The Intangible Heritage Convention is **2003** for living traditions. **Ramsar (रामसर) 1971** is wetlands, not WHS.
+3. The World Heritage Committee of **21** states decides inscriptions. **ICOMOS** advises on cultural sites. **IUCN** (आईयूसीएन) advises on natural sites. **OUV** is required.
 4. India has **45** World Heritage Sites: about **37** cultural, **7** natural, and **1** mixed (**Khangchendzonga**, Sikkim).
-5. Uttar Pradesh has **four** WHS: **Taj Mahal (1983)**, **Agra Fort (1983)**, **Fatehpur Sikri (1986)**, and **Sarnath (2026)**.
-6. **Varanasi ghats** remain on the **Tentative** List only. Do not count them as a fifth UP World Heritage Site.
-7. Recent India inscriptions: **Moidams** (Assam, **2024**), **Maratha Military Landscapes** (**2025**), and **Sarnath** (**2026**). Earlier pairs include Santiniketan and Hoysala (**2023**) and Dholavira and Ramappa (**2021**).
-8. India has **16** UNESCO ICH elements. Early Masterpiece proclamations were **Kutiyattam 2001**, **Vedic chanting 2003**, and **Ramlila 2005**; all three entered the Representative List in **2008**.
-9. Recent inscriptions on the UNESCO ICH list include: **Yoga (2016)**, **Kumbh Mela (2017)**, **Durga Puja of Kolkata (2021)**, **Garba of Gujarat (2023)**, and **Deepavali (2025)**.
-10. These are **not** named UNESCO ICH elements: **Bharatanatyam**, **Kathak**, **Nautanki**, and **Holi** as a standalone Indian element.
-11. **World Heritage Day** (International Day for Monuments and Sites) is celebrated on **18 April** under ICOMOS; the UNESCO Intangible Cultural Heritage Convention was adopted on **17 October 2003** (ratified by India in **2005**).
-12. Cultural WHS use criteria **i–vi**. Natural WHS use **vii–x**. Mixed sites need both sets. India has only one mixed site: Khangchendzonga.
-13. The **Representative List** shows living identity. The **Urgent Safeguarding List** is for endangered ICH needing emergency action.
-14. The **Tentative List** is India’s proposed pipeline. The **Inscribed List** is the official World Heritage roll.
-15. An **ASI** monument under AMASR **1958** is national protection. It is **not** automatically a UNESCO World Heritage Site.
-16. **Keoladeo** is both a natural WHS and a Ramsar wetland. Most Ramsar sites are not World Heritage Sites.
-17. **Ramlila (2008)** is the UP-centred ICH performance. **Kumbh (2017)** includes Prayagraj among the four bathing sites.
-18. Lucknow’s **Imambara** and **Residency** are important heritage but **not** World Heritage Sites.
-19. These are outside UP: **Khajuraho**, **Sanchi**, **Bhimbetka**, **Keoladeo**, and **Qutub** (Delhi).
-20. **Sarnath WHS** is the **2026** inscription and UP’s fourth site. **Varanasi ghats** are still Tentative. Do not merge the two.
-21. **Ramlila** is intangible performance heritage. The **Taj Mahal** is tangible tomb heritage from **1983**. Papers love this swap.
-22. Masterpiece proclamation years (**2001 / 2003 / 2005**) are not the same as the common Representative List year **2008** for those three elements.
+5. Uttar Pradesh has **four** (चातुर्याम) WHS: **Taj Mahal (ताज महल) (1983)**, **Agra Fort (आगरा किला) (1983)**, **Fatehpur Sikri (फतेहपुर सीकरी) (1986)**, and **Sarnath (2026)**.
+6. **Varanasi (वाराणसी) ghats** (वाराणसी घाट) remain on the **Tentative** List only. Do not count them as a fifth UP World Heritage Site.
+7. Recent India inscriptions: **Moidams** (Assam, **2024**), **Maratha Military Landscapes** (**2025**), and **Sarnath** (**2026**). Earlier pairs include Santiniketan and Hoysala (**2023**) and Dholavira (धोलावीरा) and Ramappa (रामप्पा) (**2021**).
+8. India has **16** UNESCO ICH elements. Early Masterpiece proclamations were **Kutiyattam 2001**, **Vedic chanting 2003**, and **Ramlila (रामलीला) 2005**; all three entered the Representative List (प्रतिनिधि) in **2008**.
+9. Recent inscriptions on the UNESCO ICH list include: **Yoga (योग) (2016)**, **Kumbh (कुंभ) Mela (कुंभ मेला) (2017)**, **Durga (दुर्ग -) Puja (दुर्गा पूजा) of Kolkata (2021)**, **Garba (गरबा) of Gujarat (2023)**, and **Deepavali (2025)**.
+10. These are **not** named UNESCO ICH elements: **Bharatanatyam** (भरतनाट्यम्), **Kathak** (कथक), **Nautanki** (नौटंकी), and **Holi** (होली) as a standalone Indian element.
+11. **World Heritage Day** (18 अप्रैल) (International Day for Monuments and Sites) is celebrated on **18 April** under ICOMOS; the UNESCO Intangible Cultural Heritage Convention was adopted (अंगीकृत) on **17 October 2003** (ratified by India in **2005**).
+12. Cultural WHS (सांस्कृतिक) use criteria **i–vi**. Natural WHS (प्राकृतिक) use **vii–x**. Mixed sites need both sets. India has only one mixed site: Khangchendzonga.
+13. The **Representative List** shows living identity. The **Urgent Safeguarding List** (तात्कालिक संरक्षण) is for endangered ICH needing emergency action.
+14. The **Tentative List** (अस्थायी) is India’s proposed pipeline. The **Inscribed List** (अंकित) is the official World Heritage roll.
+15. An **ASI** (पुरातत्व सर्वेक्षण) monument under AMASR **1958** is national protection. It is **not** automatically a UNESCO World Heritage Site.
+16. **Keoladeo** (केवलादेव) is both a natural WHS and a Ramsar wetland. Most Ramsar sites are not World Heritage Sites.
+17. **Ramlila (2008)** is the UP-centred ICH performance. **Kumbh (2017)** includes Prayagraj (प्रयागराज) among the four bathing sites.
+18. Lucknow (लखनऊ)’s **Imambara** and **Residency** are important heritage but **not** World Heritage Sites.
+19. These are outside UP: **Khajuraho** (खजुराहो), **Sanchi** (सांची), **Bhimbetka** (भीमबेटका), **Keoladeo**, and **Qutub** (कुतुब) (Delhi).
+20. **Sarnath WHS** (सारनाथ) is the **2026** inscription and UP’s fourth site. **Varanasi ghats** are still Tentative. Do not merge the two.
+21. **Ramlila** is intangible performance heritage. The **Taj Mahal** (ताज महल) is tangible tomb heritage from **1983**. Papers love this swap.
+22. Masterpiece proclamation years (**2001 / 2003 / 2005**) are not the same as the common Representative List year (प्रतिनिधि सूची) **2008** for those three elements.
 23. Convention year order s: Ramsar **1971**, World Heritage **1972**, ICH **2003**, India ICH ratification **2005**.
 24. **Deepavali** entered UNESCO ICH on **10 December 2025** as India’s **16th** element. It is intangible festival heritage, not a monument inscription.
-25. **Qutub Minar** is a Delhi WHS, not an Uttar Pradesh site. **Khajuraho** is Madhya Pradesh, not UP.
+25. **Qutub Minar** (कुतुब मीनार) is a Delhi WHS, not an Uttar Pradesh site. **Khajuraho** is Madhya Pradesh, not UP.
 26. Tangible vs intangible is the first filter: if you can walk into it as a monument, it is tangible; if you perform it as living culture, it is intangible.
 
 ---
@@ -101,29 +101,6 @@ D. A and D only
 
 ---
 
-## Hindi spell — hard names
-
-Write these in Devanagari as given. One name, one spelling.
-
-| English | Hindi |
-|---------|-------|
-| Tangible heritage | मूर्त विरासत |
-| Intangible heritage | अमूर्त विरासत |
-| Kumbh Mela | कुंभ मेला |
-| Ramlila | रामलीला |
-| Koodiyattam | कूड़ियाट्टम् |
-| Mudiyettu | मुडियेट्टु |
-| Sankirtana | संकीर्तन |
-| Kalbelia | कालबेलिया |
-| Chhau | छऊ |
-| Garba | गरबा |
-| Deepavali | दीपावली |
-| Moidams | मोइदाम |
-| Sarnath | सारनाथ |
-| Qutub Minar | कुतुब मीनार |
-| Taj Mahal | ताज महल |
-
----
 
 ## Must-score facts — WHS, ICH, UP sites
 
@@ -158,17 +135,17 @@ Write these in Devanagari as given. One name, one spelling.
 
 ## 14.1 Tangible Cultural Heritage
 
-Tangible heritage is physical cultural property: a monument, a site, a city, a cave, or a museum object. ASI protection and UNESCO listing are different doors.
+Tangible heritage (भौतिक) is physical cultural property: a monument, a site, a city, a cave, or a museum object. ASI protection and UNESCO listing are different doors.
 
 - Tangible heritage is material. A tourist can photograph it. An archaeologist can excavate it.
-- **Immovable tangible heritage** comprises built monuments, archaeological ruins, historic cities, rock-cut caves, temple complexes, and cultural landscapes.
+- **Immovable tangible heritage** comprises built monuments, archaeological ruins, historic (ऐतिहासिक) cities, rock-cut (शैल-कट) caves, temple complexes, and cultural landscapes.
 - **Movable tangible heritage** encompasses museum artifacts, manuscripts, numismatic collections, and protected antiquities.
 - **ASI** protects monuments under the **AMASR Act, 1958**. About **3,600+** are centrally protected. That badge is **not** a UNESCO tag.
 - The **Antiquities and Art Treasures Act, 1972** covers smuggling and ownership of movable heritage.
-- State archaeology departments protect a second, larger set of monuments.
-- To combat atmospheric pollution that discolours the Taj Mahal's white marble, the government demarcated the **Taj Trapezium Zone (TTZ)** as a 10,400 sq km protective environmental buffer around Agra.
+- State archaeology (पुरातत्व) departments protect a second, larger set of monuments.
+- To combat atmospheric pollution that discolours the Taj Mahal's white marble, the government demarcated the **Taj Trapezium Zone (TTZ)** (ताज ट्रपेज़ियम ज़ोन) as a 10,400 sq km protective environmental buffer around Agra.
 - Encroachment, tourist wear and illegal digging are the other three threats.
-- Conservation means structure, chemistry, documentation and a **buffer zone**. It does not mean a WHS certificate by itself.
+- Conservation means structure, chemistry, documentation and a **buffer zone** (बफर क्षेत्र). It does not mean a WHS certificate by itself.
 - A natural park can be tangible in the physical sense and still be classed as a **natural** WHS.
 
 > **Logic:** Taj Mahal = tangible. Ramlila / Kumbh / Deepavali = intangible**. Never swap.
@@ -181,11 +158,11 @@ Intangible heritage is living culture. It exists only while people transmit it. 
 
 - Intangible heritage is practice, not stone. It dies when the last skilled community stops teaching it.
 - UNESCO’s five domains are oral tradition, performing arts, social practices and rituals, knowledge of nature, and traditional craft skill.
-- Vedic chanting is oral. Kutiyattam and Ramlila are performance. Kumbh and Deepavali are social ritual. Punjab Thathera metalwork is craft skill.
+- Vedic chanting is oral. Kutiyattam and Ramlila are performance. Kumbh and Deepavali are social ritual (कर्मकाण्ड). Punjab Thathera metalwork is craft skill.
 - The **1972** site convention could not save a chant or a dance. That gap created the **2003** ICH convention.
-- Transmission is guru-shishya, festival cycles and family guilds.
-- **Sangeet Natak Akademi** keeps India’s national ICH inventory. **IGNCA Janapada Sampada** documents folk and tribal practice.
-- Classical dances are **not** named ICH elements. **Garba** is. **Ramlila** is. **Bharatanatyam** is not.
+- Transmission is guru-shishya, festival cycles and family guilds (श्रेणी).
+- **Sangeet Natak Akademi** (संगीत नाटक अकादेमी) keeps India’s national ICH inventory. **IGNCA (कला केंद्र) Janapada (जनपद) Sampada** documents folk (लोक) and tribal (आदिवासी) practice.
+- Classical dances are **not** named ICH elements. **Garba** (गरबा) is. **Ramlila** is. **Bharatanatyam** is not.
 - **Nautanki** is UP folk theatre. It is **not** on the UNESCO list.
 - **Holi** as a generic festival is **not** listed. **Deepavaliis** listed (**2025**).
 
@@ -205,8 +182,8 @@ World Heritage sites sit under the **1972** Convention. They need Outstanding Un
 - **OUV** means the site matters to all humanity, not only to one nation.
 - Cultural criteria are **(i) to (vi)**. Natural criteria are **(vii) to (x)**.
 - Criterion **(i)** is a masterpiece of human genius. The Taj is the textbook case.
-- Criterion **(x)** pertains to threatened species and natural biodiversity habitats, exemplified by **Kaziranga National Park** as the prime sanctuary for the one-horned rhinoceros.
-- A **mixed** site meets both sets. India’s only mixed WHS is **Khangchendzonga National Park, Sikkim (2016)**.
+- Criterion **(x)** pertains to threatened species (संकटग्रस्त प्रजातियां) and natural biodiversity habitats, exemplified by **Kaziranga National Park** as the prime sanctuary for the one-horned rhinoceros.
+- A **mixed** site meets both sets. India’s only mixed WHS (मिश्रित) is **Khangchendzonga National Park, Sikkim (2016)**.
 - After inscription, the State files periodic conservation reports. A site in crisis can go on the **List of World Heritage in Danger**.
 - **Manas** (Assam) was on the Danger List and was later removed after recovery.
 - **World Heritage Day** is **18 April**. ICOMOS marks it. UPPCS has matched this date twice.
@@ -224,7 +201,7 @@ D. December 5
 **List-II (Event)**
 1. International Tiger Day
 2. World Heritage Day
-3. World Soil Day
+3. World Soil Day (विश्व मृदा दिवस)
 4. International Day of Biodiversity
 
 A. 4, 3, 2, 1
@@ -239,7 +216,7 @@ D. 3, 2, 1, 4
 
 </details>
 
-- **Ramsar (1971)** is wetlands. **UNESCO MAB (1971)** is biosphere reserves. Neither is a WHS tag.
+- **Ramsar (1971)** is wetlands. **UNESCO MAB (1971)** is biosphere reserves (जैवमंडल आरक्षित क्षेत्र). Neither is a WHS tag.
 - **Keoladeo** (Rajasthan) is a rare double: natural WHS **1985** and a Ramsar site. **Sultanpur** (Haryana) is Ramsar only. **Rudrasagar** (Tripura) is Ramsar only.
 
 > **Logic:** 1972 = World Heritage. 2003 = Intangible. 18 April = World Heritage Day**. Ramsar ≠ WHS.
@@ -257,7 +234,7 @@ Intangible heritage sits under the **2003** Convention. Lists are the Representa
 - Safeguarding means document, transmit, fund and teach. It does **not** mean freezing a ritual in 1900 form.
 - A nomination needs **community consent**. The Intergovernmental Committee then decides.
 - **Nawrouz / Novruz** is a **multinational** element. Indian Parsi and other communities share it. India is not the sole owner.
-- Nodal ministry is **Culture**. SNA prepares many nomination files. Deepavali’s 2025 file is the latest example.
+- Nodal ministry is **Culture**. SNA (संगीत नाटक) prepares many nomination files. Deepavali’s 2025 file is the latest example.
 - **20.COM** met at the **Red Fort, New Delhi**, in **December 2025**. It was the first time India hosted the ICH Committee. **Deepavali** was inscribed there.
 
 > **Logic:** Do not reverse the years. **Sites = 1972. Living heritage = 2003**. Hosting 20.COM in Delhi does not make the Red Fort an ICH element.
@@ -268,19 +245,19 @@ Intangible heritage sits under the **2003** Convention. Lists are the Representa
 
 India has **45** World Heritage properties as of July **2026**. The split is **37** cultural, **7** natural, and **1** mixed. India ranks sixth globally.
 
-- India’s first inscriptions were in **1983**: Ajanta, Ellora, **Agra Fort** and the **Taj Mahal**.
+- India’s first inscriptions were in **1983**: Ajanta (अजंता), Ellora (एलोरा), **Agra Fort** (आगरा किला) and the **Taj Mahal**.
 - **UP has four** cultural WHS. The fourth is **Sarnath (2026)**. The first three are **Taj Mahal (1983)**, **Agra Fort (1983)** and **Fatehpur Sikri (1986)**.
-- **Sarnath** is a serial property: **Chaukhandi Stupa** plus the archaeological remains (Dhamek, monasteries, Lion Capital findspot). It is **not** the Varanasi ghats.
+- **Sarnath** is a serial property: **Chaukhandi Stupa (स्तूप)** plus the archaeological remains (Dhamek (धमेख), monasteries, Lion (सिंह) Capital findspot). It is **not** the Varanasi ghats.
 - **Varanasi ghats** remain on the **Tentative List**. They are still **not** inscribed.
 - **Moidams** of Charaideo, **Assam (2024)**, are Ahom mound burials. They were India’s **43rd** WHS.
 - **Maratha Military Landscapes (2025)** are **12** forts, mostly in **Maharashtra**, with **Gingee** in **Tamil Nadu**. They were the **44th**.
 - **Sarnath (2026)** is the **45th**.
 - **Santiniketan** (Birbhum, WB, **2023**) is Tagore’s university town.
-- **Sacred Ensembles of the Hoysalas (2023)** are **Belur, Halebidu and Somanathapura** in Karnataka. They are not Ramappa.
+- **Sacred Ensembles of the Hoysalas (2023)** are **Belur (बेलूर), Halebidu (हलेबीडु) and Somanathapura** in Karnataka. They are not Ramappa.
 - **Ramappa (Rudreshwara) Temple (2021)** was built under the Kakatiyas in **Telangana**, celebrated for its lightweight 'floating bricks' and carved sandbox foundation. Its UNESCO inscription was granted in **2021**.
-- **Dholavira (2021)** is the Harappan city in **Kutch, Gujarat**.
-- **Nalanda Mahavihara (2016)** is Bihar. **Mahabodhi, Bodh Gaya (2002)** is a different Bihar site.
-- **Jaipur City** was inscribed in **2019** at the WHC’s **43rd** session in **Baku, Azerbaijan**.
+- **Dholavira (2021)** is the Harappan (हड़प्पा) city in **Kutch, Gujarat**.
+- **Nalanda (नालंदा) Mahavihara (महाविहार) (2016)** is Bihar. **Mahabodhi (महाबोधि), Bodh Gaya (बोधगया) (2002)** is a different Bihar site.
+- **Jaipur City** was inscribed in **2019** at the WHC’s **43rd** session (पंगु सत्र) in **Baku, Azerbaijan**.
 
 **PYQ — UPPCS Prelims 2019, Q35**
 
@@ -299,15 +276,15 @@ D. Marakesh (Morocco)
 </details>
 
 - **Jantar Mantar, Jaipur (2010)** is a separate, earlier inscription from **Jaipur City (2019)**. Do not merge the two.
-- **Hill Forts of Rajasthan (2013)** is a serial cultural property (Chittorgarh, Kumbhalgarh, Ranthambore, Amber, Jaisalmer, Gagron).
-- **Mountain Railways of India** is one serial WHS: Darjeeling, Nilgiri, Kalka–Shimla.
-- **Great Living Chola Temples** is one serial WHS: Thanjavur, Gangaikondacholapuram, Darasuram.
-- **Le Corbusier’s Capitol Complex, Chandigarh (2016)** is India’s share of a **transnational** serial property.
-- Natural seven: **Kaziranga** and **Manas** (Assam, 1985), **Keoladeo** (Rajasthan, 1985), **Sundarbans** (WB, 1987), **Nanda Devi and Valley of Flowers** (Uttarakhand, 1988/2005), **Western Ghats** (2012, serial), **Great Himalayan National Park** (Himachal, 2014).
+- **Hill Forts of Rajasthan (2013)** is a serial cultural property (Chittorgarh, Kumbhalgarh, Ranthambore (रणथंभौर), Amber, Jaisalmer, Gagron).
+- **Mountain Railways of India** is one serial WHS: Darjeeling, Nilgiri (नीलगिरि), Kalka–Shimla.
+- **Great Living Chola (चोल) Temples** is one serial WHS: Thanjavur (तंजावुर), Gangaikondacholapuram, Darasuram.
+- **Le Corbusier’s Capitol Complex, Chandigarh (2016)** is India’s share (भाग) of a **transnational** serial property.
+- Natural seven: **Kaziranga** (काजीरंगा) and **Manas** (Assam, 1985), **Keoladeo** (Rajasthan, 1985), **Sundarbans** (सुंदरबन) (WB, 1987), **Nanda Devi and Valley of Flowers** (Uttarakhand, 1988/2005), **Western Ghats** (पश्चिमी घाट) (2012, serial), **Great Himalayan National Park** (Himachal (हिमाचल), 2014).
 - **Kaziranga is natural**, not cultural. One-horned rhino is the OUV story.
 - **Khangchendzonga** is the **only mixed** Indian WHS. It is in **Sikkim**, not Nepal’s side of the massif as the inscription.
 - Lucknow monuments (Residency, Bara Imambara) are ASI/state heritage. They are **not** WHS.
-- Khajuraho is **Madhya Pradesh (1986)**. Qutub and Humayun’s Tomb and Red Fort are **Delhi**.
+- Khajuraho is **Madhya Pradesh (1986)**. Qutub and Humayun (हुमायूँ)’s Tomb and Red Fort are **Delhi**.
 
 **India WHS — complete inscribed list (45)**
 
@@ -317,28 +294,28 @@ D. Marakesh (Morocco)
 | Ajanta Caves | Maharashtra | 1983 | Cultural |
 | Ellora Caves | Maharashtra | 1983 | Cultural |
 | Taj Mahal | **UP** | 1983 | Cultural |
-| Sun Temple, Konark | Odisha | 1984 | Cultural |
-| Group of Monuments, Mahabalipuram | Tamil Nadu | 1984 | Cultural |
+| Sun Temple, Konark (कोणार्क) | Odisha | 1984 | Cultural |
+| Group of Monuments, Mahabalipuram (महाबलीपुरम) | Tamil Nadu | 1984 | Cultural |
 | Kaziranga National Park | Assam | 1985 | Natural |
 | Manas Wildlife Sanctuary | Assam | 1985 | Natural |
 | Keoladeo National Park | Rajasthan | 1985 | Natural |
-| Churches and Convents of Goa | Goa | 1986 | Cultural |
+| Churches and Convents of Goa (गोवा) | Goa | 1986 | Cultural |
 | Khajuraho Group of Monuments | Madhya Pradesh | 1986 | Cultural |
-| Group of Monuments, Hampi | Karnataka | 1986 | Cultural |
+| Group of Monuments, Hampi (हम्पी) | Karnataka | 1986 | Cultural |
 | Fatehpur Sikri | **UP** | 1986 | Cultural |
-| Group of Monuments, Pattadakal | Karnataka | 1987 | Cultural |
-| Elephanta Caves | Maharashtra | 1987 | Cultural |
+| Group of Monuments, Pattadakal (पट्टदकल) | Karnataka | 1987 | Cultural |
+| Elephanta (एलिफेंटा) Caves | Maharashtra | 1987 | Cultural |
 | Great Living Chola Temples | Tamil Nadu | 1987/2004 | Cultural |
 | Sundarbans National Park | West Bengal | 1987 | Natural |
 | Nanda Devi and Valley of Flowers | Uttarakhand | 1988/2005 | Natural |
 | Buddhist Monuments at Sanchi | Madhya Pradesh | 1989 | Cultural |
 | Humayun’s Tomb | Delhi | 1993 | Cultural |
-| Qutb Minar and its Monuments | Delhi | 1993 | Cultural |
+| Qutb (कुतुब) Minar and its Monuments | Delhi | 1993 | Cultural |
 | Mountain Railways of India | TN / WB / HP | 1999/2005/2008 | Cultural |
 | Mahabodhi Temple Complex, Bodh Gaya | Bihar | 2002 | Cultural |
 | Rock Shelters of Bhimbetka | Madhya Pradesh | 2003 | Cultural |
 | Champaner-Pavagadh Archaeological Park | Gujarat | 2004 | Cultural |
-| Chhatrapati Shivaji Maharaj Terminus | Maharashtra | 2004 | Cultural |
+| Chhatrapati Shivaji (शिवाजी) Maharaj Terminus | Maharashtra | 2004 | Cultural |
 | Red Fort Complex | Delhi | 2007 | Cultural |
 | Jantar Mantar, Jaipur | Rajasthan | 2010 | Cultural |
 | Western Ghats | Multi-state | 2012 | Natural |
@@ -351,7 +328,7 @@ D. Marakesh (Morocco)
 | Historic City of Ahmadabad | Gujarat | 2017 | Cultural |
 | Victorian Gothic and Art Deco Ensembles of Mumbai | Maharashtra | 2018 | Cultural |
 | Jaipur City | Rajasthan | 2019 | Cultural |
-| Kakatiya Rudreshwara (Ramappa) Temple | Telangana | 2021 | Cultural |
+| Kakatiya (काकतीय) Rudreshwara (Ramappa) Temple | Telangana | 2021 | Cultural |
 | Dholavira: a Harappan City | Gujarat | 2021 | Cultural |
 | Santiniketan | West Bengal | 2023 | Cultural |
 | Sacred Ensembles of the Hoysalas | Karnataka | 2023 | Cultural |
@@ -369,17 +346,17 @@ India has **16** UNESCO Representative List elements as of December **2025**. Le
 
 - UNESCO first ran a **Masterpieces** programme. India got three: **Kutiyattam (2001)**, **Vedic chanting (2003)**, **Ramlila (2005)**.
 - Those three entered the **Representative List in 2008**. A question can use either year. Do not treat 2001 and 2008 as two different elements.
-- **Ramman (2009)** is Garhwal ritual theatre of **Uttarakhand**. It honours **Bhumiyal Devta**.
+- **Ramman (रम्माण) (2009)** is Garhwal (गढ़वाल) ritual theatre of **Uttarakhand**. It honours **Bhumiyal Devta** (भूमियाल देवता).
 - Village communities stage masked ritual performance in the festival cycle — living heritage, not plains **Ramlila**.
-- **Mudiyettu (2010)** is Kerala ritual theatre. It is not Kathakali.
-- **Kalbelia (2010)** is Rajasthan folk song and dance.
-- **Chhau (2010)** is Jharkhand, West Bengal and Odisha. It is **not** an SNA classical dance.
-- **Buddhist chanting of Ladakh (2012)** is Himalayan, not Sarnath.
-- **Sankirtana (2013)** is Manipur ritual singing, drumming and dancing.
-- **Thatheras’ brass and copper craft (2014)** is of **Jandiala Guru, Punjab**.
+- **Mudiyettu (मुडियेट्टु) (2010)** is Kerala ritual theatre. It is not Kathakali (कथकली).
+- **Kalbelia (कालबेलिया) (2010)** is Rajasthan folk song (सोंग) and dance.
+- **Chhau (छऊ) (2010)** is Jharkhand, West Bengal and Odisha. It is **not** an SNA classical dance.
+- **Buddhist chanting of Ladakh (लद्दाख) (2012)** is Himalayan, not Sarnath.
+- **Sankirtana (संकीर्तन) (2013)** is Manipur ritual singing, drumming and dancing.
+- **Thatheras’ brass and copper craft (2014)** is of **Jandiala Guru (गुरु), Punjab**.
 - **Yoga (2016)** is pan-India. **Nawrouz (2016)** is multinational.
-- **Kumbh Mela (2017)** is the four-site cycle: **Prayagraj, Haridwar, Nashik, Ujjain**. Pushkar is not a Kumbh site.
-- **Durga Puja in Kolkata (2021)** is the named form. Generic Navratri is not the inscription.
+- **Kumbh Mela (2017)** is the four-site cycle: **Prayagraj, Haridwar (हरिद्वार), Nashik, Ujjain (उज्जैन)**. Pushkar is not a Kumbh site.
+- **Durga Puja in Kolkata (2021)** is the named form. Generic Navratri (नवरात्रि) is not the inscription.
 - **Garba of Gujarat (2023)** is the Navratri circle dance. It is not SNA classical.
 - **Deepavali (10 December 2025)** is India’s **16th** element. SNA prepared the file. 20.COM sat in New Delhi.
 
@@ -387,9 +364,9 @@ India has **16** UNESCO Representative List elements as of December **2025**. Le
 
 | Element | Year | Region |
 |---------|------|--------|
-| Kutiyattam (Koodiyattam), Sanskrit theatre | 2001★ / RL 2008 | Kerala |
+| Kutiyattam (Koodiyattam (कूड़ियाट्टम्)), Sanskrit theatre | 2001★ / RL 2008 | Kerala |
 | Tradition of Vedic chanting | 2003★ / RL 2008 | Pan-India |
-| Ramlila, performance of the Ramayana | 2005★ / RL 2008 | North India, **UP** centre |
+| Ramlila, performance of the Ramayana (रामायण) | 2005★ / RL 2008 | North India, **UP** centre |
 | Ramman, religious festival and ritual theatre | 2009 | Uttarakhand |
 | Mudiyettu, ritual theatre and dance drama | 2010 | Kerala |
 | Kalbelia folk songs and dances | 2010 | Rajasthan |
@@ -406,7 +383,7 @@ India has **16** UNESCO Representative List elements as of December **2025**. Le
 
 ★ Masterpiece proclamation. RL = Representative List.
 
-- UP’s named ICH centrepiece is **Ramlila**. Prayagraj also hosts **Kumbh**. Yoga and Vedic chanting and Deepavali are pan-India, not UP-only.
+- UP’s named ICH centrepiece is **Ramlila**. Prayagraj also hosts **Kumbh** (कुंभ). Yoga and Vedic chanting and Deepavali are pan-India, not UP-only.
 - **Taj Mahal** is a WHS. Putting it on an ICH list is the classic wrong option.
 
 > **Logic:** 16 elements. Deepavali 2025** is in. **Ramlila = UP. Garba 2023. Bharatanatyam is still not listed**.

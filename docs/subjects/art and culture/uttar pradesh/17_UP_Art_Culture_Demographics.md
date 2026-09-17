@@ -7,26 +7,26 @@
 
 ## Consolidated — 20 Must-Score Facts (UP Special)
 
-1. **Sex Ratio Extremes (Census 2011):** Highest sex ratio is **Jaunpur (1024)**, followed by Azamgarh (1019) and Deoria (1017). Lowest sex ratio is **Gautam Buddha Nagar (851)**.
-2. **Density Extremes:** Highest population density is **Ghaziabad (3971 per sq. km)**; lowest is **Lalitpur (242 per sq. km)**. State average is **829**.
+1. **Sex Ratio Extremes (Census 2011):** Highest sex ratio is **Jaunpur (जौनपुर) (1024)**, followed by Azamgarh (1019) and Deoria (1017). Lowest sex ratio is **Gautam Buddha (बुद्ध) Nagar (851)**.
+2. **Density Extremes:** Highest population (जनसंख्या) density is **Ghaziabad (3971 per sq. km)**; lowest is **Lalitpur (242 per sq. km)**. State average is **829**.
 3. **Literacy Extremes:** Highest literacy is **Gautam Buddha Nagar (80.1%)**; lowest literacy (overall, male, and female) is **Shrawasti (46.7% overall; 34.8% female)**.
-4. **SC & ST Population:** Highest percentage of SC is in **Kaushambi (34.7%)**; highest absolute SC population is in **Sitapur**. Highest ST population (both absolute and percentage) is in **Sonbhadra (20.7%)**; lowest/negligible ST population is in **Baghpat and Jalaun**.
-5. **Charkula Folk Dance:** Iconic folk dance of the **Braj region (Mathura)** wherein women balance a multi-tiered wooden pyramid holding **108 lit oil lamps** on their heads.
-6. **Karma Folk Dance:** Performed in **Sonbhadra and Mirzapur** by tribal communities (Kharwar, Kol, and Baiga) as an offering to Karma devta for agricultural prosperity.
-7. **Rai Folk Dance:** Traditional peacock dance of **Bundelkhand** performed by women of the Beriya community on auspicious occasions like Janmashtami.
-8. **Heroic Ballad 'Alha':** Celebrated heroic folk song of **Bundelkhand** composed in *Banaffari* dialect narrating the 52 battles of warrior brothers Alha and Udal.
-9. **Monsoon Song 'Kajri':** Centred in **Mirzapur and Varanasi**; sung by women during the rainy season (*Shravan*) expressing longing and separation.
-10. **Bateshwar Fair:** Held at **Bateshwar (Agra)** on the banks of Yamuna; ancient cattle/camel and animal trade fair.
-11. **Nauchandi Fair:** Held at **Meerut** on the second Sunday after Holi; historic symbol of Hindu-Muslim communal harmony (Chandi Devi temple and Bale Miyan dargah).
-12. **Dewa Sharif Fair:** Held at **Barabanki** during Kartik month at the shrine of Sufi saint **Haji Waris Ali Shah**.
-13. **Syed Salar Masood Ghazi Fair:** Held at **Bahraich** at the dargah of Ghazi Miyan.
-14. **Dadri Cattle Fair:** Celebrated at **Ballia** on Kartik Purnima in honour of sage Bhrigu; second largest cattle fair in India after Sonepur.
-15. **Hathras vs Kanpur Nautanki:** Hathras school is classical, poetic, and music-oriented; Kanpur school is theatrical, prose-dialogue, and performance-oriented.
-16. **Kathak Titans of Lucknow:** Founded by Ishwari Prasad; carried forward by Kalka-Bindadin Maharaj, Achhan Maharaj, Shambhu Maharaj, Lachhu Maharaj, and **Pandit Birju Maharaj**.
-17. **Kirana Gharana:** Founded by **Ustad Abdul Karim Khan** and **Abdul Wahid Khan** in Kirana (Shamli/Muzaffarnagar); celebrated by **Pandit Bhimsen Joshi** (Bharat Ratna 2008) and Gangubai Hangal.
-18. **IVRI vs IIPR vs IISR:** IVRI = **Bareilly (Izatnagar)**; IIPR = **Kanpur**; IISR = **Lucknow**; IIVR = **Varanasi**.
-19. **IGFRI Jhansi:** Indian Grassland and Fodder Research Institute is located at **Jhansi** (established 1962).
-20. **First Agricultural University:** **GBPUAT Pantnagar** (1960) was established in UP before Uttarakhand state was carved out in 2000. Within current UP borders, **CSAUAT Kanpur** was established in 1975.
+4. **SC & ST Population:** Highest percentage of SC is in **Kaushambi (कौशांबी) (34.7%)**; highest absolute (निरपेक्ष) SC population is in **Sitapur** (नैमिषारण्य). Highest ST population (both absolute and percentage) is in **Sonbhadra (सोनभद्र) (20.7%)**; lowest/negligible ST population is in **Baghpat and Jalaun**.
+5. **Charkula (चरकुला) Folk (लोक) Dance:** Iconic (साकार) folk dance of the **Braj (ब्रज) region (Mathura (मथुरा))** wherein women balance a multi-tiered wooden pyramid (पिरामिड) holding **108 lit oil lamps** on their heads.
+6. **Karma (कर्म) Folk Dance:** Performed in **Sonbhadra and Mirzapur (मिर्ज़ापुर)** by tribal (आदिवासी) communities (Kharwar, Kol, and Baiga) as an offering to Karma devta for agricultural prosperity.
+7. **Rai (राई) Folk Dance:** Traditional peacock dance of **Bundelkhand** performed by women of the Beriya community on auspicious occasions like Janmashtami (जन्माष्टमी).
+8. **Heroic Ballad 'Alha (आल्हा)':** Celebrated heroic folk song (सोंग) of **Bundelkhand** composed in *Banaffari* (बनफरी) dialect narrating the 52 battles of warrior brothers Alha and Udal.
+9. **Monsoon Song 'Kajri (कजरी)':** Centred in **Mirzapur and Varanasi (वाराणसी)**; sung by women during the rainy season (*Shravan*) expressing longing and separation.
+10. **Bateshwar (बटेश्वर) Fair (बटेश्वर मेला):** Held at **Bateshwar (Agra)** on the banks of Yamuna (यमुना); ancient cattle/camel and animal trade (पण्याध्यक्ष) fair.
+11. **Nauchandi (नौचंदी) Fair (नौचंदी मेला):** Held at **Meerut** (मेरठ) on the second Sunday after Holi (होली); historic (ऐतिहासिक) symbol of Hindu-Muslim communal harmony (Chandi Devi temple and Bale Miyan dargah).
+12. **Dewa Sharif (देवा शरीफ) Fair:** Held at **Barabanki** during Kartik month at the shrine of Sufi (सूफी) saint **Haji Waris Ali Shah** (हाजी वारिस अली शाह).
+13. **Syed Salar Masood Ghazi (सैयद सालार मसूद गाजी) Fair:** Held at **Bahraich** at the dargah of Ghazi Miyan (गाजी मियाँ).
+14. **Dadri (ददरी) Cattle Fair:** Celebrated at **Ballia** on Kartik Purnima (कार्तिक पूर्णिमा) in honour of sage Bhrigu; second largest cattle fair in India after Sonepur.
+15. **Hathras (हाथरस) vs Kanpur (कानपुर) Nautanki (नौटंकी):** Hathras school is classical, poetic, and music-oriented; Kanpur school is theatrical, prose-dialogue, and performance-oriented.
+16. **Kathak (कथक) Titans of Lucknow (लखनऊ):** Founded by Ishwari Prasad; carried forward by Kalka-Bindadin Maharaj, Achhan Maharaj, Shambhu Maharaj, Lachhu Maharaj, and **Pandit Birju Maharaj (बिरजू)**.
+17. **Kirana (किराना) Gharana (घराना):** Founded by **Ustad Abdul Karim Khan** and **Abdul Wahid Khan** in Kirana (Shamli/Muzaffarnagar); celebrated by **Pandit Bhimsen Joshi** (Bharat Ratna (भारत रत्न) 2008) and Gangubai Hangal.
+18. **IVRI vs IIPR vs IISR:** IVRI = **Bareilly (Izatnagar)**; IIPR = **Kanpur**; IISR = **Lucknow**; IIVR = **Varanasi** (वाराणसी).
+19. **IGFRI Jhansi:** Indian Grassland and Fodder Research Institute is located at **Jhansi** (झांसी) (established 1962).
+20. **First Agricultural University:** **GBPUAT Pantnagar** (1960) was established in UP before Uttarakhand (उत्तराखंड) state was carved out in 2000. Within current UP borders, **CSAUAT Kanpur** was established in 1975.
 
 ---
 
@@ -61,9 +61,9 @@
 
 ### 1.1 Complete Census 2011 League Table
 
-| Demographic Parameter | Uttar Pradesh Figure | National Average | Top District (Highest) | Bottom District (Lowest) |
+| Demographic Parameter | Uttar Pradesh (उत्तर प्रदेश) Figure | National Average | Top District (Highest) | Bottom District (Lowest) |
 | :--- | :---: | :---: | :--- | :--- |
-| **Total Population** | **19,98,12,341** (19.98 Cr) | 121.08 Crore | **Prayagraj (59.54 Lakh)** | **Mahoba (8.75 Lakh)** |
+| **Total Population** | **19,98,12,341** (19.98 Cr) | 121.08 Crore | **Prayagraj (प्रयागराज) (59.54 Lakh)** | **Mahoba (8.75 Lakh)** |
 | **Decadal Growth Rate (2001–11)**| **20.22%** | 17.70% | **Gautam Buddha Nagar (49.1%)**| **Kanpur Nagar (9.9%)** |
 | **Population Density** | **829 persons / km²** | 382 persons / km²| **Ghaziabad (3,971)** | **Lalitpur (242)** |
 | **Sex Ratio (Females per 1000 Males)**| **912** | 943 | **Jaunpur (1,024)** | **Gautam Buddha Nagar (851)** |
@@ -71,9 +71,9 @@
 | **Overall Literacy Rate** | **67.68%** | 73.00% | **Gautam Buddha Nagar (80.12%)**| **Shrawasti (46.74%)** |
 | **Male Literacy Rate** | **77.28%** | 80.90% | **Gautam Buddha Nagar (88.06%)**| **Shrawasti (57.16%)** |
 | **Female Literacy Rate** | **57.18%** | 64.60% | **Kanpur Nagar (75.05%)** | **Shrawasti (34.78%)** |
-| **Scheduled Caste (SC) %** | **20.69%** (4.13 Crore) | 16.60% | **Kaushambi (34.72%)** | **Baghpat (11.44%)** |
-| **Scheduled Tribe (ST) %** | **0.57%** (11.34 Lakh) | 8.60% | **Sonbhadra (20.67%)** | **Baghpat / Jalaun (0.001%)** |
-| **Urban Population %** | **22.27%** (4.45 Crore) | 31.16% | **Ghaziabad (67.6%)** | **Shrawasti (3.5%)** |
+| **Scheduled Caste (अनुसूचित जाति) (SC) %** | **20.69%** (4.13 Crore) | 16.60% | **Kaushambi (34.72%)** | **Baghpat (11.44%)** |
+| **Scheduled Tribe (अनुसूचित जनजाति) (ST) %** | **0.57%** (11.34 Lakh) | 8.60% | **Sonbhadra (20.67%)** | **Baghpat / Jalaun (0.001%)** |
+| **Urban (नगरीय) Population %** | **22.27%** (4.45 Crore) | 31.16% | **Ghaziabad (67.6%)** | **Shrawasti (3.5%)** |
 | **Rural Population %** | **77.73%** (15.53 Crore)| 68.84% | **Shrawasti (96.5%)** | **Ghaziabad (32.4%)** |
 
 ### 1.2 Top 3 & Bottom 3 Ranked Districts (Prelims Traps)
@@ -93,34 +93,34 @@
 
 | Fair / Festival (Mela) | District / Venue | Sacred Occasion / Timing | Key Historical & Cultural Highlights |
 | :--- | :--- | :--- | :--- |
-| **Kumbh & Mahakumbh Mela** | **Prayagraj** (Triveni Sangam)| Every 12 years (Makar Sankranti)| Inscribed on **UNESCO Intangible Cultural Heritage (2017)**; largest human gathering on Earth. |
-| **Ardh Kumbh Mela** | **Prayagraj** | Every 6 years | Ritual bathing at the confluence of Ganga, Yamuna, and mythical Saraswati. |
-| **Magh Mela** | **Prayagraj** | Annually in Jan–Feb | Month-long spiritual retreat where pilgrims (*Kalpavasis*) live in austerity on river sands. |
-| **Bateshwar Mela** | **Agra** (Bateshwar) | Kartik Shukla Ekadashi | Historic **animal and cattle fair** held at the complex of 101 Shiva temples on the Yamuna. |
+| **Kumbh (कुंभ) & Mahakumbh Mela** | **Prayagraj** (Triveni Sangam (संगम))| Every 12 years (Makar Sankranti (मकर संक्रांति))| Inscribed on **UNESCO Intangible Cultural Heritage (2017)**; largest human gathering on Earth. |
+| **Ardh Kumbh Mela (कुंभ मेला)** | **Prayagraj** | Every 6 years | Ritual (कर्मकाण्ड) bathing at the confluence of Ganga (गंगा), Yamuna, and mythical Saraswati (सरस्वती). |
+| **Magh Mela** (माघ मेला) | **Prayagraj** | Annually in Jan–Feb | Month-long spiritual retreat where pilgrims (*Kalpavasis*) live in austerity on river sands. |
+| **Bateshwar Mela** | **Agra** (आगरा) (Bateshwar) | Kartik Shukla Ekadashi | Historic **animal and cattle fair** held at the complex of 101 Shiva temples on the Yamuna. |
 | **Kailash Mela** | **Agra** (Sikandra) | 3rd Monday of Shravan | Commemorates the appearance of Lord Shiva's lingam. |
-| **Sulah-e-Kul Festival** | **Agra** | February | Cultural festival initiated by Emperor Akbar celebrating universal peace and Hindu-Muslim amity. |
+| **Sulah-e-Kul Festival** | **Agra** | February | Cultural festival initiated by Emperor Akbar (अकबर) celebrating universal peace and Hindu-Muslim amity. |
 | **Nauchandi Mela** | **Meerut** | 2nd Sunday after Holi | Lasts for a month; symbolic of communal harmony between the **Navchandi Devi Temple** and the **Dargah of Bale Miyan**. |
 | **Dewa Sharif Mela** | **Barabanki** | Kartik month (Oct–Nov) | Annual Urs of celebrated 19th-century Sufi saint **Haji Waris Ali Shah**; famous for all-faith *Qawwalis*. |
 | **Syed Salar Masood Ghazi** | **Bahraich** | Jyeshtha month (May–June) | Urs at the historical Dargah of Ghazi Miyan; pilgrims offer ornate *Nishan* (flags). |
-| **Shakumbhari Devi Mela** | **Saharanpur** (Behat) | Chaitra and Ashwin Navratri | Held at the ancient Shaktipeeth temple of Goddess Shakumbhari in the Shivalik foothills. |
+| **Shakumbhari (शाकंभरी) Devi Mela** | **Saharanpur** (Behat) | Chaitra and Ashwin Navratri (नवरात्रि) | Held at the ancient Shaktipeeth temple of Goddess Shakumbhari in the Shivalik (शिवालिक) foothills. |
 | **Dadri Mela** | **Ballia** | Kartik Purnima (Nov–Dec) | India’s **second largest cattle fair**; named after Maharishi Bhrigu's disciple Dardar Muni. |
-| **Govind Saheb Mela** | **Ambedkar Nagar** (Atraulia) | Agahan Sankranti (Dec–Jan) | Large rustic rural fair commemorating Mahatma Govind Saheb; famous for cattle and indigenous crafts. |
-| **Khichdi Mela** | **Gorakhpur** (Gorakhnath Math)| Makar Sankranti (14 Jan) | Devotees offer raw rice and pulses (*Khichdi*) to Guru Gorakhnath; month-long event. |
+| **Govind Saheb Mela** | **Ambedkar (अम्बेडकर) Nagar** (Atraulia) | Agahan Sankranti (Dec–Jan) | Large rustic rural fair commemorating Mahatma Govind Saheb; famous for cattle and indigenous crafts. |
+| **Khichdi Mela** | **Gorakhpur** (गोरखपुर) (Gorakhnath Math)| Makar Sankranti (14 Jan) | Devotees offer raw (रॉ) rice and pulses (*Khichdi*) to Guru (गुरु) Gorakhnath; month-long event. |
 | **Ramnagarhiya Mela** | **Farrukhabad** (Ganga banks) | Magh month (Jan–Feb) | Month-long holy bathing gathering akin to Prayagraj Kalpavas. |
-| **Shringi Rampur Mela** | **Farrukhabad** | Kartik Purnima & Dussehra | Held at the hermitage of sage Shringi Rishi (who performed King Dasharatha's Putrakameshti Yajna). |
+| **Shringi Rampur Mela** | **Farrukhabad** | Kartik Purnima & Dussehra (दशहरा) | Held at the hermitage of sage Shringi Rishi (who performed King Dasharatha's Putrakameshti Yajna). |
 | **Kampil Mela** | **Farrukhabad** (Kampilya) | Chaitra month | Sacred pilgrimage festival of the **Jain community** at the birthplace of 13th Tirthankara Vimalnath. |
-| **Parikrama / Chaurasi Kosi** | **Sitapur** (Naimisharanya) | Phalguna month | Pilgrims walk the 84-kos sacred perimeter of Naimisharanya (the legendary forest of 88,000 sages). |
+| **Parikrama / Chaurasi Kosi (कोसी)** | **Sitapur** (Naimisharanya (नैमिषारण्य)) | Phalguna month | Pilgrims walk the 84-kos sacred perimeter of Naimisharanya (the legendary forest of 88,000 sages). |
 | **Devi Patan Mela** | **Balrampur** (Tulsipur) | Chaitra Navratri | Celebrated at the Maa Pateshwari Devi Shaktipeeth (associated with Guru Gorakhnath). |
-| **Kalinjar Mela** | **Banda** (Kalinjar Fort) | Kartik Purnima | Historic gathering at Neelkanth Mahadev temple inside the impregnable fort of Kalinjar. |
-| **Kajli Mela** | **Mahoba** | Shravan Purnima | Commemorates the historic victory of warrior brothers **Alha and Udal** over Prithviraj Chauhan. |
-| **Gola Gokaran Nath Mela** | **Lakhimpur Kheri** | Chaitra / Mahashivratri | Known as *"Chhoti Kashi"*; Shiva temple associated with Ravana's penance. |
+| **Kalinjar (कालिंजर) Mela** | **Banda** (Kalinjar Fort) | Kartik Purnima | Historic gathering at Neelkanth (नीलकंठ) Mahadev temple inside the impregnable fort of Kalinjar. |
+| **Kajli Mela** (काजली मेला) | **Mahoba** | Shravan Purnima | Commemorates the historic victory of warrior brothers **Alha and Udal** over Prithviraj (पृथ्वीराज) Chauhan. |
+| **Gola Gokaran Nath (गोला गोकर्णनाथ) Mela** | **Lakhimpur Kheri** | Chaitra / Mahashivratri | Known as *"Chhoti Kashi (काशी)"*; Shiva temple associated with Ravana's penance. |
 | **Soron Mela** | **Kasganj** (Soron Sukar Kshetra) | Margashirsha (Nov–Dec) | Held at the site of Lord Vishnu’s **Varaha (boar) avatar** on the banks of Haripadi Ganga. |
-| **Lathmar Holi** | **Mathura** (Barsana & Nandgaon)| Phalguna Shukla Navami | Women of Barsana (Radha’s village) playfully beat men of Nandgaon (Krishna’s village) with wooden sticks (*Lathis*). |
-| **Huranga Holi** | **Mathura** (Dauji / Baldeo) | Day after Dulhendi | Celebrated at Dauji temple where women tear the clothes of men and whip them playfully. |
+| **Lathmar Holi** (लाठमार होली) | **Mathura** (Barsana (बरसाना) & Nandgaon)| Phalguna Shukla Navami | Women of Barsana (Radha’s village) playfully beat men of Nandgaon (Krishna (कृष्णा)’s village) with wooden sticks (*Lathis*). |
+| **Huranga (हुरंगा) Holi** | **Mathura** (Dauji / Baldeo) | Day after Dulhendi | Celebrated at Dauji temple where women tear the clothes of men and whip them playfully. |
 | **Chhari-mar Holi** | **Mathura** (Gokul) | Phalguna Shukla Dwadashi | Women playfully strike young boys with soft canes (*Chharis*). |
-| **Dhrupad Mela** | **Varanasi** (Tulsi Ghat) | February / Mahashivratri | 3-day all-night pure classical musical festival dedicated exclusively to the archaic **Dhrupad style**. |
-| **Nakkataiyya** | **Varanasi** (Chetganj) | Karva Chauth night | Procession celebrating Lakshmana severing the nose of Surpanakha from the Ramayana. |
-| **Ramayan Mela** | **Ayodhya & Chitrakoot** | Initiated by Ram Manohar Lohia | Conceived in 1961 by socialist leader Dr. Ram Manohar Lohia to celebrate composite folk culture. |
+| **Dhrupad (ध्रुपद) Mela** | **Varanasi** (Tulsi Ghat) | February / Mahashivratri | 3-day all-night pure classical musical festival dedicated exclusively to the archaic **Dhrupad style**. |
+| **Nakkataiyya** (नककटैया) | **Varanasi** (Chetganj) | Karva Chauth (चौथ) night | Procession celebrating Lakshmana severing the nose of Surpanakha from the Ramayana (रामायण). |
+| **Ramayan Mela** | **Ayodhya (अयोध्या) & Chitrakoot (चित्रकूट)** | Initiated by Ram Manohar Lohia | Conceived in 1961 by socialist leader Dr. Ram Manohar Lohia to celebrate composite folk culture. |
 | **Garhmukteshwar Mela** | **Hapur** (Garh) | Kartik Purnima | Massive bathing fair on the Ganga; ancestral tarpan and large donkey/mule trade market. |
 | **Kakora Mela** | **Badaun** (Ganga banks) | Kartik Purnima | Popularly revered as the **"Mini Kumbh of Rohilkhand"**. |
 
@@ -140,56 +140,56 @@
   • Rasiya (Song)    • Khyal & Dhuria       • Birha (Yadav)       • Sohar (Song)
 ```
 
-### 3.1 Braj Region (Mathura, Vrindavan, Agra, Hathras)
+### 3.1 Braj Region (Mathura, Vrindavan (वृंदावन), Agra, Hathras)
 - **Charkula Dance:** Women balance a circular multi-tiered wooden pyramid containing **108 burning cotton-wick lamps** on their heads while dancing to the rhythm of *Nagaras* and *Huranga* to commemorate the birth of Radha.
-- **Raslila:** Dance drama depicting the cosmic divine love of Radha and Krishna; codified under Swami Haridas and Vallabhacharya.
-- **Mayur Nritya:** Dancers dress in vibrant garments adorned with real peacock feathers imitating the mating dance of peacocks.
+- **Raslila (रासलीला):** Dance drama depicting the cosmic divine love of Radha and Krishna; codified under Swami (स्वामी) Haridas and Vallabhacharya (शुद्धाद्वैतवाद).
+- **Mayur Nritya (मयूर नृत्य):** Dancers dress in vibrant garments adorned with real peacock feathers imitating the mating dance of peacocks.
 - **Jhula Nritya:** Celebrated in Shravan month where swings are tied in kadamb trees and temples.
-- **Major Folk Songs:** **Rasiya** (erotic and devotional romance), **Hori**, and **Phag**.
+- **Major Folk Songs:** **Rasiya** (रसिया) (erotic and devotional romance), **Hori**, and **Phag**.
 
 ### 3.2 Bundelkhand Region (Jhansi, Lalitpur, Banda, Mahoba, Hamirpur, Jalaun, Chitrakoot)
 - **Rai Nritya:** Celebrated peacock-mimicking folk dance performed by women of the Beriya community on the beats of *Mridang* and *Dhaphla* during Janmashtami and weddings.
 - **Shaira (Saira) Dance:** Fast-paced stick dance performed by agrarian youth during the monsoon crop-sowing and harvest; dancers strike sticks together rhythmically.
-- **Khyal Nritya:** Celebrates the birth of a male child; dancers carry wooden horse effigies (*Kathi*) and balance decorative brass vessels.
+- **Khyal (ख्याल) Nritya:** Celebrates the birth of a male child; dancers carry wooden horse effigies (*Kathi*) and balance decorative brass vessels.
 - **Dhuria Dance:** Performed by men of the potter (*Kumhar*) community who dress in female attire to invoke the blessings of Goddess Saraswati.
 - **Kartik Dance:** Gopi-Krishna devotional dance performed in the sacred month of Kartik.
 - **Devi Nritya:** Dramatic ritual dance invoking local village guardian goddesses.
-- **Diwari / Deepawali Dance:** Martial stick-combat dance performed by the Ahir/Yadav community during Diwali wielding peacock feathers and wooden cudgels.
+- **Diwari / Deepawali Dance:** Martial stick-combat dance performed by the Ahir/Yadav community during Diwali (दिवाली) wielding peacock feathers and wooden cudgels.
 - **Major Folk Songs:**
   - **Alha:** Heroic ballads in *Banaffari* dialect recounting the 52 epic battles of generals Alha and Udal under King Paramardideva (Chandel dynasty).
   - **Isuri Phag:** Rhyming four-line couplets (*Chaukadiya*) composed by 19th-century poet Isuri.
   - **Hardaul Katha:** Ballads commemorating Prince Hardaul’s self-sacrifice for his brother’s honor.
 
-### 3.3 Purvanchal Region (Varanasi, Mirzapur, Sonbhadra, Ghazipur, Gorakhpur, Azamgarh, Ballia)
-- **Dhobia Dance:** Traditional dance of the washerman (*Dhobi*) community; two performers enact the relationship between a washerman and his donkey accompanied by *Mridang*.
+### 3.3 Purvanchal (पूर्वांचल) Region (Varanasi, Mirzapur, Sonbhadra, Ghazipur, Gorakhpur, Azamgarh, Ballia)
+- **Dhobia (धोबिया) Dance:** Traditional dance of the washerman (*Dhobi*) community; two performers enact the relationship between a washerman and his donkey accompanied by *Mridang*.
 - **Karma & Shila Dance:** Performed exclusively in **Sonbhadra and Mirzapur** by indigenous tribal groups (**Kharwar, Kol, Baiga, Oraon**); dancers link hands in undulating waves around the sacred Karma tree.
-- **Natwari Dance:** Martial and celebratory folk dance of the Yadav community mimicking Lord Krishna's subjugation of the poisonous serpent Kaliya.
+- **Natwari Dance:** Martial and celebratory folk dance of the Yadav community mimicking Lord Krishna's subjugation of the poisonous serpent (सर्प) Kaliya.
 - **Kaharwa Dance:** Performed by the palanquin-bearer (*Kahar*) community during weddings.
-- **Jogini Dance:** Performed on Ramnavami by male dancers dressed as women, wandering through temple courtyards.
+- **Jogini Dance:** Performed on Ramnavami (रामनवमी) by male dancers dressed as women, wandering through temple courtyards.
 - **Major Folk Songs:**
-  - **Kajri:** Born in **Mirzapur** (linked to Goddess Vindhyavasini); lyrical seasonal songs sung during monsoon *Teej* expressing the longing of married women for their husbands.
-  - **Birha:** Dominant narrative genre of the Bhojpuri belt; recounts social struggles, historical courage, and love tales accompanied by *Kartal*.
-  - **Chaiti:** Sung in the Hindu month of Chaitra (spring), laced with the refrains *"Ho Rama"*.
-  - **Sohar:** Auspicious domestic songs sung exclusively on the birth of a child.
+  - **Kajri:** Born in **Mirzapur** (मिर्ज़ापुर) (linked to Goddess Vindhyavasini); lyrical seasonal songs sung during monsoon *Teej* expressing the longing of married women for their husbands.
+  - **Birha (बिरहा):** Dominant narrative genre of the Bhojpuri belt; recounts social struggles, historical courage, and love tales accompanied by *Kartal*.
+  - **Chaiti (चैती):** Sung in the Hindu month of Chaitra (spring), laced with the refrains *"Ho Rama"*.
+  - **Sohar (सोहर):** Auspicious domestic songs sung exclusively on the birth of a child.
 
-### 3.4 Awadh Region (Lucknow, Ayodhya, Barabanki, Sultanpur, Rae Bareli)
+### 3.4 Awadh (अवध) Region (Lucknow, Ayodhya, Barabanki, Sultanpur, Rae Bareli)
 - **Kala Bazi:** Acrobatic dance where performers ride mock horses while playing the *Rawana-hattha* instrument.
 - **Dhedhia Dance:** Performed during Navratri; women balance pierced clay pots (*Dhedhia*) containing glowing lamps on their heads.
 - **Jogini:** Folk dance performed in Awadh during Ramnavami.
-- **Major Folk Songs:** **Sohar**, **Naktoora**, **Dadra**, **Marsiya** (mourning elegies during Muharram).
+- **Major Folk Songs:** **Sohar**, **Naktoora**, **Dadra** (दादरा), **Marsiya** (mourning elegies during Muharram (मुहर्रम)).
 
 ---
 
-## 4. Folk Theatre (Lok Natya) of Uttar Pradesh
+## 4. Folk Theatre (Lok Natya (नाट्य)) of Uttar Pradesh
 
 ### 4.1 Nautanki: The Crown Folk Drama
 - Traditional musical theatre of North India, flourishing across two distinctive regional schools (*Gharanas*):
-  1. **Hathras School:** Founded by **Indraman** and Govind Ram. Highly classical, poetic, dependent on intricate musical meters (*Doha, Chaubola, Chhand, Beher-e-Taveel*), with singing taking precedence over action.
+  1. **Hathras School:** Founded by **Indraman** and Govind Ram. Highly classical, poetic, dependent on intricate musical meters (*Doha, Chaubola, Chhand, Beher-e-Taveel*), with singing taking precedence (वरीयता क्रम) over action.
   2. **Kanpur School:** Pioneered by **Shrikrishna Pahalwan**. More theatrical, spoken-prose dialogue oriented, entertainment-focused, and accessible to the urban working class.
 
-### 4.2 Raslila & Ramlila
+### 4.2 Raslila & Ramlila (रामलीला)
 - **Raslila:** Traditional operatic dance-drama centred at Mathura-Vrindavan depicting Krishna’s childhood exploits (*Balkaand*) and romance with Radha.
-- **Ramlila of Ramnagar (Varanasi):** Patronized by the Maharaja of Banaras; enacted across 31 continuous days using the entire town of Ramnagar as open-air stages. Inscribed on the **UNESCO Representative List of Intangible Cultural Heritage of Humanity in 2008**.
+- **Ramlila of Ramnagar (Varanasi):** Patronized by the Maharaja (महाराज) of Banaras; enacted across 31 continuous days using the entire town of Ramnagar as open-air stages. Inscribed on the **UNESCO Representative List (प्रतिनिधि) of Intangible Cultural Heritage of Humanity in 2008**.
 
 ---
 
@@ -207,18 +207,18 @@
 ```
 
 ### 5.1 Lucknow Gharana
-- **Kathak Classical Dance:** Founded by **Ishwari Prasad**; patronized lavishly by the Nawabs of Awadh, especially **Nawab Wajid Ali Shah 'Akhtarpiya'** (who wrote the first dance drama *Indrasabha*).
+- **Kathak Classical Dance:** Founded by **Ishwari Prasad**; patronized lavishly by the Nawabs of Awadh, especially **Nawab Wajid Ali Shah (वाजिद अली शाह) 'Akhtarpiya'** (who wrote the first dance drama *Indrasabha* (इंद्रसभा)).
   - *Golden Kathak Dynasty:* Thakur Prasad $\rightarrow$ Kalka Prasad & Bindadin Maharaj $\rightarrow$ Achhan Maharaj, Shambhu Maharaj, Lachhu Maharaj $\rightarrow$ **Pandit Birju Maharaj** (Kalka-Bindadin lineage).
-- **Vocal & Sitar:** Acclaimed for *Thumri*, *Dadra*, and *Ghazal*.
-  - **Begum Akhtar (Akhtari Bai Faizabadi):** Revering as *"Mallika-e-Ghazal"*; Padma Bhushan awardee.
+- **Vocal & Sitar:** Acclaimed for *Thumri* (ठुमरी), *Dadra*, and *Ghazal* (ग़ज़ल).
+  - **Begum Akhtar (Akhtari Bai Faizabadi):** Revering as *"Mallika-e-Ghazal"*; Padma (पद्मा) Bhushan awardee.
   - Sitar maestros: Yusuf Ali Khan, Ilyas Khan.
-  - Tabla: Khurshid Ali Khan, Modu Khan.
+  - Tabla (तबला): Khurshid Ali Khan, Modu Khan.
 
 ### 5.2 Banaras Gharana
-- Synthesized classical rigor with rustic devotional Bhakti ethos.
-- **Tabla Titans:** **Pandit Kishan Maharaj** (Padma Vibhushan), **Pandit Samta Prasad 'Gudai Maharaj'**, Pandit Anokhelal Mishra, Pandit Kanthe Maharaj.
-- **Shehnai:** **Ustad Bismillah Khan** — born in Dumraon (Bihar) but spent his entire artistic life at the ghats of Banaras; awarded India's highest civilian honour, the **Bharat Ratna in 2001**.
-- **Sitar:** **Pandit Ravi Shankar** — international sitar virtuoso; disciple of Ustad Allauddin Khan; awarded the **Bharat Ratna in 1999**.
+- Synthesized classical rigor with rustic devotional Bhakti (भक्ति) ethos.
+- **Tabla Titans:** **Pandit Kishan Maharaj** (Padma Vibhushan (पद्म विभूषण)), **Pandit Samta (समता) Prasad 'Gudai Maharaj'**, Pandit Anokhelal Mishra, Pandit Kanthe Maharaj.
+- **Shehnai (शहनाई):** **Ustad Bismillah Khan (बिस्मिल्लाह)** — born in Dumraon (Bihar) but spent his entire artistic life at the ghats of Banaras; awarded India's highest civilian honour, the **Bharat Ratna in 2001**.
+- **Sitar:** **Pandit Ravi (रावी) Shankar** — international sitar virtuoso; disciple of Ustad Allauddin Khan; awarded the **Bharat Ratna in 1999**.
 - **Thumri, Dadra & Chaiti Queens:** **Girija Devi** (revered as the *"Queen of Thumri"* / Padma Vibhushan), **Siddheshwari Devi**, **Rasoolan Bai**, **Badi Moti Bai**.
 - **Kathak Exponent:** **Sitara Devi** (hailed as *"Nritya Samragni"* by Rabindranath Tagore).
 
@@ -228,12 +228,12 @@
 - **Artistic Style:** Characterized by slow tempo (*Vilambit laya*), microtonal intonation (*Swar-lagav*), and high emotional sweetness.
 - **Legendary Exponents:** **Pandit Bhimsen Joshi** (awarded Bharat Ratna in 2008), **Gangubai Hangal**, **Prabha Atre**, Pandit Sawai Gandharva, Hirabai Barodekar.
 
-### 5.4 Agra Gharana (The "Rangeela" Gharana)
-- **Founders:** Traced back to **Haji Sujan Khan** (contemporary of Tansen) and Dayam Khan.
-- **Transformation:** Rejuvenated into the vibrant *Rangeela Gharana* by **Ustad Faiyaz Khan** (who was bestowed the title *Aftab-e-Mousiqi* by the Maharaja of Mysore).
-- **Style:** Robust, full-throated singing, blending Dhrupad-Dhamar with Khayal.
+### 5.4 Agra Gharana (The "Rangeela (रंगीला)" Gharana)
+- **Founders:** Traced back to **Haji Sujan Khan** (contemporary of Tansen (तानसेन)) and Dayam Khan.
+- **Transformation:** Rejuvenated into the vibrant *Rangeela Gharana* by **Ustad Faiyaz Khan** (मैसूर) (who was bestowed the title *Aftab-e-Mousiqi* by the Maharaja of Mysore (मैसूर)).
+- **Style:** Robust, full-throated singing, blending Dhrupad-Dhamar with Khayal (ख्याल).
 
-### 5.5 Atrauli Gharana (Aligarh)
+### 5.5 Atrauli Gharana (Aligarh (अलीगढ़))
 - Founded by **Ustad Alladiya Khan**; celebrated for complicated melodic patterns (*Vakra ragas*).
 
 ---
@@ -242,27 +242,27 @@
 
 *Uttar Pradesh holds the second-highest number of GI tags in India (over 50 registered items).*
 
-| District | Registered GI Tag Product(s) | Category & High-Yield Characteristics |
+| District | Registered GI Tag (भौगोलिक संकेत) Product(s) | Category & High-Yield Characteristics |
 | :--- | :--- | :--- |
-| **Varanasi** | **Banaras Brocades and Sarees** | World-famous handloom silk with gold/silver Zari. |
-| **Varanasi** | **Gulabi Meenakari** | Rare pink enamel metalwork on silver/gold jewellery. |
+| **Varanasi** | **Banaras Brocades and Sarees** | World-famous handloom (हथकरघा) silk with gold/silver (रूपक) Zari. |
+| **Varanasi** | **Gulabi Meenakari** (गुलाबी मीनाकारी) | Rare pink enamel metalwork on silver/gold jewellery. |
 | **Varanasi** | **Wooden Lacquerware & Toys** | Lathe-turned traditional non-toxic wooden toys. |
 | **Varanasi** | **Metal Repousse Craft** | Hand-embossed copper and brass temple sheets. |
-| **Varanasi** | **Banarasi Paan (Betel Leaf)** | Culturally iconic betel leaf preparation (GI Tag 2023). |
+| **Varanasi** | **Banarasi (बनारसी) Paan (Betel Leaf)** | Culturally iconic betel leaf preparation (GI Tag 2023). |
 | **Varanasi** | **Banaras Langra Mango** | Distinct aromatic, greenish sweet mango variety. |
 | **Varanasi** | **Ramnagar Bhanta (Brinjal)** | Giant round, sweet brinjal variety grown in Ramnagar. |
 | **Chandauli** | **Adamchini Rice** | Aromatic non-basmati, slender indigenous rice variety. |
 | **Bhadohi** | **Handmade Carpet of Bhadohi** | India’s premier carpet export hub ("Carpet City"). |
 | **Mirzapur** | **Mirzapur Handmade Dari & Brassware**| Handwoven cotton/wool carpets and cast brass vessels. |
-| **Gorakhpur** | **Gorakhpur Terracotta** | Distinctive reddish, baked-clay animal figurines made by local Prajapati potters. |
-| **Kannauj** | **Kannauj Perfume (Ittar)** | Ancient hydro-distillation method (*Deg-Bhapka*); "Perfume Capital of India". |
+| **Gorakhpur** | **Gorakhpur Terracotta (पकी मिट्टी)** | Distinctive reddish, baked-clay animal figurines made by local Prajapati potters. |
+| **Kannauj** (कन्नौज) | **Kannauj Perfume (Ittar)** | Ancient hydro-distillation method (*Deg-Bhapka*); "Perfume Capital of India". |
 | **Firozabad** | **Firozabad Glass (Glassware)** | Bangle-making and glass blowing capital ("Suhag Nagari"). |
 | **Moradabad** | **Moradabad Metal Craft** | Hand-engraved brassware ("Peetal Nagari"). |
 | **Khurja (Bulandshahr)**| **Khurja Ceramic Pottery** | Glazed ceramic tiles, bowls, and sanitaryware. |
 | **Saharanpur** | **Saharanpur Wood Carving** | Intricate floral wood carving on Sheesham and teak. |
 | **Lucknow** | **Lucknow Chikan Craft** | Delicate hand-embroidery on muslin/cotton (36 stitches). |
-| **Lucknow** | **Lucknow Zardozi** | Raised metallic thread gold/silver embroidery. |
-| **Aligarh** | **Aligarh Locks & Hardware** | Premier lock manufacturing centre of India ("Tala Nagari"). |
+| **Lucknow** | **Lucknow Zardozi (ज़रदोज़ी)** | Raised metallic thread gold/silver embroidery. |
+| **Aligarh** | **Aligarh Locks & Hardware** | Premier lock manufacturing centre of India ("Tala (ताल) Nagari"). |
 | **Hathras** | **Hathras Hing (Asafoetida)** | Renowned compounded asafoetida processing hub. |
 | **Sambhal** | **Sambhal Horn & Bone Craft** | Upcycled animal bone and buffalo-horn decorative cutlery. |
 | **Amroha** | **Amroha Dholak** | Percussion instruments carved from natural mango/sheesham wood. |
@@ -304,7 +304,7 @@
 4. **Indian Institute of Toxicology Research (IITR):** CSIR institute studying industrial toxins, water safety, and food additives.
 5. **Indian Institute of Sugarcane Research (IISR):** ICAR premier sugarcane cultivation and varietal breeding institute (located at Dilkusha). *(Do not confuse with Sugar Institute at Kanpur)*.
 6. **Central Institute of Subtropical Horticulture (CISH):** ICAR centre at Rehmankhera (Lucknow); apex body for mango, guava, and litchi varieties.
-7. **Birbal Sahni Institute of Palaeosciences (BSIP):** Autonomous DST institute dedicated to fossil botany and continental drift research.
+7. **Birbal (बीरबल) Sahni (साहनी) Institute of Palaeosciences (BSIP):** Autonomous DST institute dedicated to fossil botany and continental drift research.
 8. **National Bureau of Fish Genetic Resources (NBFGR):** ICAR apex institute for aquatic germplasm and DNA barcoding.
 9. **Regional Science City:** Apex science communication centre in UP.
 
@@ -313,14 +313,14 @@
 2. **National Sugar Institute (NSI):** Under Ministry of Consumer Affairs; premier institute for sugar processing technology and alcohol fermentation. *(Do not confuse with Sugarcane Research at Lucknow)*.
 3. **Harcourt Butler Technical University (HBTU / HBTI):** Established in 1921; pioneer in oil, chemical, and paint technology.
 4. **Central Leather Research Institute (CLRI Regional Centre):** Leather R&D hub at the leather industrial cluster of Jajmau.
-5. **Chhatrapati Shahu Ji Maharaj University (CSJMU):** Established 1966; apex regional state university.
-6. **Chandra Shekhar Azad University of Agriculture and Technology (CSAUAT):** Established 1975.
+5. **Chhatrapati Shahu (शाहू) Ji Maharaj University (CSJMU):** Established 1966; apex regional state university.
+6. **Chandra Shekhar Azad (चंद्रशेखर आज़ाद) University of Agriculture and Technology (CSAUAT):** Established 1975.
 
 ### 7.3 Varanasi Cluster
 1. **Indian Institute of Vegetable Research (IIVR):** Apex ICAR institute situated at Jakhini (Varanasi); responsible for breeding tomato, brinjal, okra, and chili cultivars.
 2. **National Seed Research and Training Centre (NSRTC):** Apex statutory laboratory for seed quality certification and training.
 3. **Indian Institute of Handloom Technology (IIHT):** Chowkaghat, Varanasi.
-4. **Banaras Hindu University (BHU):** Founded in **1916** by **Pandit Madan Mohan Malaviya** under the BHU Act 1915; first central university established in Uttar Pradesh.
+4. **Banaras Hindu University (BHU):** Founded in **1916** by **Pandit Madan Mohan Malaviya (मालवीय)** under the BHU Act 1915; first central university established in Uttar Pradesh.
 5. **Sampurnanand Sanskrit Vishwavidyalaya:** Oldest university in UP; established as Government Sanskrit College in **1791** by British Resident **Jonathan Duncan**.
 
 ### 7.4 Bareilly & Rohilkhand Cluster
@@ -331,7 +331,7 @@
 1. **Central Institute for Research on Goats (CIRG):** Located at **Makhdoom, Farah (Mathura)**; apex ICAR body for goat breed conservation (Jamunapari, Barbari).
 2. **Pt. Deen Dayal Upadhyaya Veterinary University (DUVASU):** Located at **Mathura**.
 3. **Indian Grassland and Fodder Research Institute (IGFRI):** Located at **Jhansi** (established 1962); premier institute for grazing lands and forage crops.
-4. **Central Agroforestry Research Institute (CAFRI):** Located at **Jhansi** (formerly NRCAF).
+4. **Central Agroforestry (कृषि वानिकी) Research Institute (CAFRI):** Located at **Jhansi** (formerly NRCAF).
 5. **Central Institute for Research on Cattle (CIRC):** Located at **Meerut (Cantt)**; ICAR institute for indigenous cattle breed improvement.
 6. **Central Potato Research Station (CPRS):** Located at **Modipuram (Meerut)**.
 7. **ICMR National JALMA Institute for Leprosy & Other Mycobacterial Diseases:** Located at **Agra**.

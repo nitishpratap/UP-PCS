@@ -4,7 +4,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Ozone Layer | Ozone Depletion | Ozone Hole | Montreal Protocol
+Ozone Layer | Ozone Depletion (ओजोन क्षरण) | Ozone Hole (ओजोन छिद्र) | Montreal Protocol (मॉन्ट्रियल प्रोटोकॉल)
 
 </details>
 
@@ -17,13 +17,13 @@ Ozone Layer | Ozone Depletion | Ozone Hole | Montreal Protocol
 ## Current Affairs (this topic)
 
 - Montreal / Kigali compliance headlines stay ozone-family CA — do not park them under Paris NDC.
-- ODS vs GHG trap is permanent; HFC phase-down is Kigali, not Kyoto.
+- ODS vs GHG trap is permanent; HFC phase-down is Kigali, not Kyoto (क्योटो).
 
 ---
 
 ## Consolidated — 30 Must-Score Facts
 
-1. Ozone (O₃) is triatomic oxygen. **Stratospheric ozone** (about **15–30/35 km**) is protective “good” ozone. **Tropospheric ozone** is a ground-level pollutant.
+1. Ozone (O₃) is triatomic oxygen. **Stratospheric ozone** (समतापमंडलीय ओजोन) (about **15–30/35 km**) is protective “good” ozone. **Tropospheric ozone** (क्षोभमंडलीय ओजोन) is a ground-level pollutant.
 2. About **90%** of ozone is stratospheric; about **10%** is tropospheric. Stratospheric ozone is regulated in part by **NO₂**.
 3. The **Chapman cycle** describes natural formation and destruction balance of stratospheric ozone (UV acting on O₂).
 4. **UV-A (315–400 nm)** reaches the surface; **UV-B (280–315 nm)** is mostly blocked by ozone; **UV-C (100–280 nm)** is fully blocked. Ozone blocks ~**93–99%** of the most damaging UV.
@@ -31,26 +31,26 @@ Ozone Layer | Ozone Depletion | Ozone Hole | Montreal Protocol
 6. Main ODS include **CFCs, Halon-1211/1301, carbon tetrachloride, methyl chloroform, methyl bromide, and transitional HCFCs**. Fridge coolants often sold as **Mafron**; large plants may use **ammonia**.
 7. An **ozone hole** is not a physical hole. It means column ozone below **220 Dobson Units**. **1 DU ≈ 0.01 mm** pure ozone at 0°C, 1 atm.
 8. The Antarctic ozone hole peaks in Southern Hemisphere spring (**September–October**) under a polar vortex with polar stratospheric clouds + CFCs.
-9. The Antarctic ozone hole was discovered in **1985** by **Farman, Gardiner, Shanklin** (British Antarctic Survey). **Kent Moore** reported Tibetan Plateau ozone feature in **2005**.
+9. The Antarctic ozone hole was discovered in **1985** by **Farman (फ़रमान), Gardiner, Shanklin** (British Antarctic Survey). **Kent Moore** reported Tibetan Plateau ozone feature in **2005**.
 10. Treaty chain: **Vienna Convention 1985 → Montreal Protocol 1987 (force 1 Jan 1989) → Kigali Amendment 2016 (force 1 Jan 2019)**.
 11. Montreal is the binding ODS phase-out treaty. International Ozone Day is **16 September** (UN observance from **1994**).
 12. **Kigali (2016)** phases down **HFCs**. HFCs are not classic ODS, but they have high global-warming potential.
 13. Montreal achieved near-universal ratification and cut ODS emissions by about **99%** from peak levels.
 14. Treaty trap: **Montreal = ozone**; **Kyoto/Paris = climate**. Never swap the issue tags. Carbon trading ≠ Montreal.
 15. Global average ozone column is often near about **300 DU**; the hole threshold is **<220 DU**.
-16. India ratified Montreal in **1992**. The nodal unit is the **Ozone Cell, MoEFCC**.
+16. India ratified Montreal in **1992**. The nodal unit is the **Ozone Cell, MoEFCC (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय)**.
 17. India CFC phase-out fact is **2010**. HCFC freeze is **2020**; complete HCFC phase-out aims at **2030**.
 18. India’s Kigali HFC phase-down commitment begins from **2028** in standard coaching facts.
 19. Stratospheric ozone protects life; tropospheric ozone harms lungs and crops — same molecule, opposite verdict by layer.
-20. Vienna is the framework convention; Montreal is the binding control protocol — parallel to UNFCCC/Kyoto structure, but for ozone.
+20. Vienna is the framework convention; Montreal is the binding control protocol — parallel to UNFCCC (यूएनएफसीसीसी)/Kyoto structure, but for ozone.
 21. Dobson Unit measures total ozone column, not ground-level ppm of pollution ozone.
 22. Polar stratospheric clouds enable chlorine activation — that is why the deep hole is polar-spring specific.
 23. HCFCs were transitional substitutes on the way out of CFCs; they are still ODS, just weaker/longer phase-out.
 24. Kigali sits under the Montreal family, not under UNFCCC as a climate protocol.
-25. Ozone Day is **16 September**; do not confuse it with World Environment Day (**5 June**) or Wildlife Day (**3 March**).
+25. Ozone Day is **16 September**; do not confuse it with World Environment (पर्यावरण) Day (विश्व पर्यावरण दिवस) (**5 June**) or Wildlife Day (**3 March**).
 26. CFCs are both ODS and GHGs; CFC source is not primarily automobiles; CFC use is not tubeless tyres.
 27. Extra UV mainly raises **skin cancer** risk (classic stem).
-28. Homosphere ≈ troposphere + stratosphere + mesosphere; **ionosphere not** in that set.
+28. Homosphere (सममंडल) ≈ troposphere (क्षोभमंडल) + stratosphere (समतापमंडल) + mesosphere (मध्यमंडल); **ionosphere not** in that set.
 29. Column thickness often highest in **spring**, lowest in **rainy season** (general seasonal pattern).
 30. Full teaching depth for this chapter also lives in Topic **36**.
 
@@ -69,7 +69,7 @@ Ozone Layer | Ozone Depletion | Ozone Hole | Montreal Protocol
 | **Kigali Amendment (2016)** | **Paris Agreement (2015)** | Legally binding amendment to Montreal Protocol committing countries to progressively phase down consumption of hydrofluorocarbons (HFCs) by 80–85% vs UNFCCC climate framework agreement targeting global warming mitigation | किगाली संशोधन (HFC कटौती) / पेरिस समझौता (जलवायु लक्ष्य) |
 ---
 
-## Must-score facts — good/bad ozone, Montreal, Kigali
+## Must-score facts — good/bad ozone (बुरा ओजोन), Montreal, Kigali
 
 ### Science
 
@@ -98,7 +98,7 @@ Ozone Layer | Ozone Depletion | Ozone Hole | Montreal Protocol
 **Identity:** O₃ in stratosphere | UV shield | Chapman cycle | Dobson Unit
 
 - **Ozone (O₃)** is a molecule of three oxygen atoms that absorbs harmful ultraviolet radiation.
-- The **ozone layer** lies mainly in the **stratosphere** at about **15–35 km**, with peak concentration near **25 km**.
+- The **ozone layer** lies mainly in the **stratosphere** (समतापमंडल) at about **15–35 km**, with peak concentration near **25 km**.
 - The **Chapman cycle** describes natural ozone formation when UV splits O₂ and O combines with O₂ to form O₃.
 - Ozone absorbs UV energy and releases heat, which is why **stratosphere temperature rises with height**.
 - **UV-A** largely reaches the surface. **UV-B** is mostly blocked by ozone and causes sunburn and skin cancer if exposure rises.
@@ -149,7 +149,7 @@ D. Only 1
 - **Halons** used in fire suppressants release **bromine**, which is even more destructive per atom.
 - Other ODS include **carbon tetrachloride**, **methyl bromide**, and transitional **HCFCs**.
 - The **Rowland–Molina hypothesis (1974)** linked CFCs to ozone loss and won the Nobel Prize in 1995.
-- Increased UV-B raises **skin cancer, cataracts, crop damage, and marine food chain stress**.
+- Increased UV-B raises **skin cancer, cataracts, crop damage, and marine food chain (खाद्य श्रृंखला) stress**.
 - After the Montreal Protocol, ODS emissions fell about **99%**. Mid-latitude recovery is expected around **2040**.
 
 > **Logic:** CFCs destroy ozone by **UV chemistry**, not by greenhouse trapping — that is a separate effect.
@@ -171,7 +171,7 @@ D. Only 1
 - The **ozone hole** is **not a hole in the atmosphere**. It is a region where ozone falls below **220 DU**.
 - The most severe and recurring depletion occurs over **Antarctica** in **Southern Hemisphere spring (September–October)**.
 - The **polar vortex** isolates cold Antarctic stratospheric air during winter darkness.
-- **Polar Stratospheric Clouds (PSCs)** form at very low temperatures and enable chlorine activation.
+- **Polar Stratospheric Clouds (PSCs)** (ध्रुवीय समतापमंडलीय बादल) form at very low temperatures and enable chlorine activation.
 - Spring sunlight triggers rapid ozone destruction when the polar vortex breaks down.
 - The ozone hole was discovered in **1985** by **Farman and colleagues** at the British Antarctic Survey.
 - **Arctic** ozone loss can occur in cold winters but is **less severe and less regular** than Antarctic depletion.
@@ -192,28 +192,28 @@ D. Only 1
 
 **Identity:** Vienna 1985 + Montreal 1987 | ODS phase-out | Kigali HFCs | India compliance
 
-- The **Vienna Convention (1985)** created the framework to protect the ozone layer through cooperation and monitoring.
-- The **Montreal Protocol (1987)** set **binding schedules** to phase out production and consumption of ODS.
+- The **Vienna Convention (1985)** (वियना कन्वेंशन) created the framework to protect the ozone layer through cooperation and monitoring.
+- The **Montreal Protocol (1987)** (मॉन्ट्रियल प्रोटोकॉल) set **binding schedules** to phase out production and consumption of ODS.
 - **International Ozone Day** is **16 September**, the date the Montreal Protocol was signed.
 - The **Multilateral Fund (1991)** helps developing countries switch to ODS-free technologies.
 - The Montreal Protocol is the **only UN treaty ratified by every country**.
 - ODS emissions have declined about **99%** since their peak in the 1980s–1990s.
 - **India ratified in 1992**. The **Ozone Cell under MoEFCC** coordinates compliance.
 - India ended **CFC production in 2010** and targets **HCFC phase-out by 2030**.
-- The **Kigali Amendment (2016)** phases down **HFCs**, which do not deplete ozone but have **high global warming potential**.
+- The **Kigali Amendment (2016)** (किगाली संशोधन) phases down **HFCs**, which do not deplete ozone but have **high global warming (भूमंडलीय तापन) potential**.
 - **Montreal controls ozone**. **Kyoto controls climate**. Do not swap them.
 
 **PYQ — UPPCS Prelims 2024, Q35**
 
-Which agreement relates to climate change mitigation?
+Which agreement relates to climate change (जलवायु परिवर्तन) mitigation?
 
 A. Montreal Protocol
 
-B. Ramsar
+B. Ramsar (रामसर)
 
 C. Kyoto Protocol
 
-D. CITES
+D. CITES (साइट्स)
 
 <details><summary>Show answer</summary>
 
@@ -1016,7 +1016,7 @@ D. 1, 2 and 3
 
 ## Mains Answer Framework
 
-**Ozone layer protection (250 words):** Define ozone layer and UV shield function. Explain depletion mechanism — CFCs, catalytic chlorine, health/ecosystem impacts. Describe ozone hole — Antarctic spring, PSCs, 220 DU threshold. Treaty response — Vienna framework, Montreal Protocol, Multilateral Fund, universal ratification, recovery timeline. India compliance — Ozone Cell, 2010 CFC phase-out, HCFC 2030, Kigali HFCs. Conclude with Montreal as model environmental treaty; distinguish from Kyoto/Paris.
+**Ozone layer protection (250 words):** Define ozone layer and UV shield function. Explain depletion mechanism — CFCs, catalytic chlorine, health/ecosystem (पारिस्थितिकी तंत्र) impacts. Describe ozone hole — Antarctic spring, PSCs, 220 DU threshold. Treaty response — Vienna framework, Montreal Protocol, Multilateral Fund, universal ratification, recovery timeline. India compliance — Ozone Cell, 2010 CFC phase-out, HCFC 2030, Kigali HFCs. Conclude with Montreal as model environmental treaty; distinguish from Kyoto/Paris.
 
 ---
 

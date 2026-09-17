@@ -11,16 +11,16 @@
 
 | Head | Key Fact |
 | :--- | :--- |
-| **Lakhudiyar (Lakhu Cave)** | Barechhina, **Almora** on the **Suyal river**; discovered 1968 by **Dr. M. P. Joshi**; red, black, white motifs |
-| **Gwarkha Udyar** | Dungri village, **Chamoli** on **Alaknanda river**; discovered by Rakesh Bhatt; vivid red animal depictions |
-| **Hudli Rock Art** | **Uttarkashi** on Kamal river; unique for **blue colour** rock paintings |
+| **Lakhudiyar (Lakhu Cave)** | Barechhina, **Almora** (अल्मोड़ा) on the **Suyal river**; discovered 1968 by **Dr. M. P. Joshi**; red, black, white motifs |
+| **Gwarkha Udyar** | Dungri village, **Chamoli** (चमोली) on **Alaknanda river**; discovered by Rakesh Bhatt; vivid red animal depictions |
+| **Hudli Rock Art** | **Uttarkashi** (उत्तरकाशी) on Kamal river; unique for **blue colour** rock paintings |
 | **Kimni Village** | Chamoli (Pindar valley); **light white colour** depictions of weapons and cattle |
 | **Luethap** | Almora; human figures painted in **blood-red colour** in group dancing postures |
 | **Falsima** | Almora; humans depicted in **yogic and dancing postures**; prehistoric cup-marks (*Okhal*) |
 | **Phadkanauli & Petshal** | Almora; discovered by **Dr. Yashodhar Mathpal** (1989–90); ochre dance motifs |
 | **Malari Excavations** | **Chamoli**; investigated by **S. P. Dabral (1956)** and **Garhwal University (1983, 2001)** |
 | **Malari Master Finds** | **5.2 kg gold face mask**, complete skeleton of Himalayan Zebu bull, Swat-style pottery |
-| **Bankot Copper Hoard** | **Pithoragarh**; **8 copper anthropomorphs** (humanoid figures) discovered in 1989 |
+| **Bankot Copper Hoard** | **Pithoragarh** (पिथौरागढ़); **8 copper anthropomorphs** (humanoid figures) discovered in 1989 |
 | **Bahadrabad (Haridwar)** | Excavated 1951–53 by **Y. D. Sharma**; Copper Hoards and Ochre-Coloured Pottery (OCP) |
 | **Naula Jainal (Almora)** | Megalithic cist-burials discovered by Dr. M. P. Joshi |
 
@@ -91,7 +91,7 @@
 - **Location:** Kalsi (ancient *Kalsi-Haripur* / *Chakrata* tehsil, Dehradun district), situated on the picturesque confluence of the **Yamuna and Tons** rivers.
 - **Language & Script:** Written in **Prakrit (Magadhi)** language using the **Brahmi script**.
 - **Nature:** One of the Fourteen Major Rock Edicts of Ashoka, carved on a massive quartz rock boulder.
-- **Content:** Outlines the Buddhist-Mauryan ethical code (*Dhamma*), bans animal sacrifice, prescribes medical treatment for men and animals, and refers to the territory of the Central Himalayan borderland as **Aparanta** or **Satyaputra**.
+- **Content:** Outlines the Buddhist-Mauryan ethical code (*Dhamma* (धम्म)), bans animal sacrifice, prescribes medical treatment for men and animals, and refers to the territory of the Central Himalayan borderland as **Aparanta** or **Satyaputra**.
 - **The White Elephant:** Below the 14th edict, a fine engraving of an elephant bears the label **"Gajatame"** ("the most excellent elephant", symbolizing Lord Buddha).
 
 ---

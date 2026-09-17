@@ -4,7 +4,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Wildlife Sanctuary | National Park | Biosphere Reserve | Conservation Reserve | Community Reserve | Tiger Reserve | Elephant Reserve | Marine Protected Areas | Ramsar Sites | UNESCO World Heritage Sites | Eco-Sensitive Zones
+Wildlife Sanctuary | National Park | Biosphere Reserve (जैवमंडल आरक्षित क्षेत्र) | Conservation Reserve (संरक्षण आरक्षित क्षेत्र) | Community Reserve (सामुदायिक आरक्षित क्षेत्र) | Tiger Reserve | Elephant Reserve (हाथी अभयारण्य) | Marine Protected Areas | Ramsar (रामसर) Sites | UNESCO World Heritage (विश्व धरोहर) Sites | Eco-Sensitive Zones
 
 </details>
 
@@ -17,7 +17,7 @@ Wildlife Sanctuary | National Park | Biosphere Reserve | Conservation Reserve | 
 ## Current Affairs (this topic)
 
 - Track new Ramsar notifications and tiger-reserve counts against the Must-Score totals.
-- Keep UP Ramsar **12** and India **~100** as the teaching baseline unless a stem cites a later official total.
+- Keep UP Ramsar **12** and India **~100** as the teaching baseline unless a stem cites (साइट्स) a later official total.
 
 ---
 
@@ -27,34 +27,34 @@ Wildlife Sanctuary | National Park | Biosphere Reserve | Conservation Reserve | 
 2. Terrestrial WPA strictness runs **National Park > Wildlife Sanctuary > Conservation/Community Reserve**.
 3. A **Wildlife Sanctuary** (Section **18**) allows limited human use with **Chief Wildlife Warden** permission.
 4. A **National Park** (Section **35**) is the strictest WPA protected area. Grazing and forestry are largely banned. Boundary change needs a resolution of the **State Legislature** (not Parliament).
-5. A **Biosphere Reserve** follows the UNESCO MAB three-zone model: **core** (no exploitative use) → **buffer** (research, education, regulated tourism/grazing) → **transition** (settlements, cultivation, livelihoods). It has **no WPA statutory basis**.
-6. India has **18** biosphere reserves; about **12–13** are in the UNESCO network (count drifts with new WNBR listings). The first was **Nilgiri (1986)**. **Nokrek** is in **Meghalaya**, not Manipur.
+5. A **Biosphere Reserve** (जैवमंडल आरक्षित क्षेत्र) follows the UNESCO MAB three-zone model: **core** (no exploitative use) → **buffer** (research, education, regulated tourism/grazing) → **transition** (settlements, cultivation, livelihoods). It has **no WPA statutory basis**.
+6. India has **18** biosphere reserves (जैवमंडल आरक्षित क्षेत्र); about **12–13** are in the UNESCO network (count drifts with new WNBR listings). The first was **Nilgiri (नीलगिरि) (1986)**. **Nokrek** is in **Meghalaya** (मेघालय), not Manipur.
 7. A **Conservation Reserve** (Section **36A**, 2002) is a government/community forest buffer near a protected area.
 8. A **Community Reserve** (Section **36B**, 2002) sits on private or community land with voluntary consent.
 9. A **Tiger Reserve** rests on WPA Section **38V** (2006 path) with **core + buffer** under **NTCA**. India has **58** tiger reserves. **Corbett** was first in **1973**.
-10. An **Elephant Reserve** comes from **Project Elephant (1992)** by executive notification. It has **no WPA statutory basis**. India has about **33** elephant reserves.
-11. India’s first Marine National Park is **Gulf of Kutch, Gujarat (1980)**. **Gulf of Mannar (TN, 1980)** is also a Marine NP. Uttar Pradesh has **no marine PA**.
+10. An **Elephant Reserve** comes from **Project Elephant (प्रोजेक्ट एलीफेंट) (1992)** (प्रोजेक्ट एलिफेंट) by executive notification. It has **no WPA statutory basis**. India has about **33** elephant reserves.
+11. India’s first Marine National Park is **Gulf of Kutch, Gujarat (1980)**. **Gulf of Mannar (TN, 1980)** is also a Marine NP. Uttar Pradesh (उत्तर प्रदेश) has **no marine PA**.
 12. **Ramsar (1971)** marks wetlands of international importance. India joined in **1982**. Uttar Pradesh has **12** Ramsar sites.
 13. **Rudrasagar** is in **Tripura**. **Sultanpur** is in **Haryana**. Neither is an Uttar Pradesh Ramsar site.
-14. An **Eco-Sensitive Zone (ESZ)** is an **EPA 1986** buffer around protected areas that restricts mining and polluting industry. ESZ is **not** a WPA category.
-15. Protected-area stock (ENVIS-style ~2023): about **106** National Parks, **573** Wildlife Sanctuaries, **123** Conservation Reserves, **220** Community Reserves. **Madhya Pradesh** leads NP count; **Andaman & Nicobar** leads sanctuary count.
+14. An **Eco-Sensitive Zone (ESZ)** (पर्यावरण-संवेदनशील क्षेत्र) is an **EPA 1986** (पर्यावरण संरक्षण 1986) buffer around protected areas that restricts mining and polluting industry. ESZ is **not** a WPA category.
+15. Protected-area stock (ENVIS-style ~2023): about **106** National Parks, **573** Wildlife Sanctuaries, **123** Conservation Reserves, **220** Community Reserves. **Madhya Pradesh** leads NP count; **Andaman (अंडमान) & Nicobar (निकोबार)** leads sanctuary count.
 16. In a National Park, local people are **not** allowed to collect/use biomass the way limited use is permitted in a sanctuary. BR is for landscape conservation of **all forms of life**, not “a few species only.”
 17. WPA basis yes: National Park, Sanctuary, Tiger Reserve, Conservation Reserve, Community Reserve. WPA basis no: Biosphere Reserve, Elephant Reserve, Ramsar, ESZ.
-18. Uttar Pradesh’s only classic National Park fact is **Dudhwa** (Lakhimpur Kheri; rhino rehabilitation from **1984**, later phases including ~**2018**).
+18. Uttar Pradesh’s only classic National Park fact is **Dudhwa** (दुधवा) (Lakhimpur Kheri; rhino rehabilitation from **1984**, later phases including ~**2018**).
 19. UP tiger reserves are **Dudhwa, Pilibhit, and Ranipur**.
 20. Important UP sanctuaries include **Katarniaghat (1975), Kishanpur, Chandra Prabha (Chandauli), Nawabganj, and Sur Sarovar**.
-21. UP elephant reserves include **UP ER (2009)** and **Terai ER (2022)**.
-22. UP Ramsar sites include Upper Ganga (Brijghat–Narora), Nawabganj, Parvati Arga, Saman, Samaspur, Sandi, Sarsai Nawar, Sur Sarovar, Haiderpur, Bakhira, Patna, and Shekha Jheel.
-23. River–park traps: **Corbett = Ramganga + Kosi** (not Ganga); **Kaziranga = Brahmaputra / Diphlu system** (not Manas); **Silent Valley = Kunthipuzha** (not Kaveri).
+21. UP elephant reserves include **UP ER (2009)** and **Terai (तराई) ER (2022)**.
+22. UP Ramsar sites include Upper Ganga (गंगा) (Brijghat–Narora), Nawabganj, Parvati Arga, Saman, Samaspur, Sandi, Sarsai Nawar, Sur Sarovar, Haiderpur, Bakhira, Patna (पटना), and Shekha Jheel.
+23. River–park traps: **Corbett = Ramganga (रामगंगा) + Kosi (कोसी)** (not Ganga); **Kaziranga (काजीरंगा) = Brahmaputra (ब्रह्मपुत्र) / Diphlu system** (not Manas); **Silent Valley (साइलेंट वैली) = Kunthipuzha** (not Kaveri (कावेरी)).
 24. The **Terai Arc** corridor links Dudhwa–Kishanpur–Katarniaghat toward Nepal.
 25. Tiger Reserves are statutory under WPA; Elephant Reserves are not — that swap is a high-yield trap.
 26. Biosphere Reserve zoning is landscape management under MAB; it is not the same as a National Park notification under Section 35.
 27. Community Reserve is private/community land; Conservation Reserve is mainly government forest buffer — do not reverse Sections **36A/36B**.
 28. ESZ regulates harmful activity around a PA; it does not itself create a new WPA Schedule animal list.
 29. Sanctuary permits regulated use; National Park does not allow the same degree of use — strictness order must stay NP > WLS.
-30. Match “firsts” carefully: first BR = **Nilgiri 1986**; first TR = **Corbett 1973**; first Marine NP = **Gulf of Kutch 1980**; world first NP = **Yellowstone 1872**.
-31. **International Tiger Day = 29 July** (St Petersburg 2010). **M-STrIPES** monitors tiger reserves (patrol + ecology GIS tool).
-32. **Sathyamangalam TR (TN)** is a classic ecological link between Eastern and Western Ghats.
+30. Match “firsts” carefully: first BR = **Nilgiri 1986**; first TR = **Corbett 1973**; first Marine NP (प्रथम समुद्री उद्यान) = **Gulf of Kutch 1980**; world first NP = **Yellowstone 1872**.
+31. **International Tiger Day = 29 July** (St Petersburg 2010). **M-STrIPES** monitors tiger reserves (patrol + ecology (पारिस्थितिकी) GIS tool).
+32. **Sathyamangalam TR (TN)** is a classic ecological link between Eastern and Western Ghats (पश्चिमी घाट).
 
 ---
 
@@ -119,12 +119,12 @@ Wildlife Sanctuary | National Park | Biosphere Reserve | Conservation Reserve | 
 
 **Identity:** WPA Sec 18 | State declares | Human use with CWLW permission
 
-- A **Wildlife Sanctuary (WLS)** is a protected area where wildlife is conserved in natural habitat.
+- A **Wildlife Sanctuary (WLS)** (वन्यजीव अभयारण्य) is a protected area where wildlife is conserved in natural habitat (वास स्थान).
 - The **State Government** declares a sanctuary under **WPA Section 18**.
 - Hunting, poaching, and capturing wildlife are prohibited inside a sanctuary.
 - Other activities such as grazing or collection of minor forest produce may continue if the **Chief Wildlife Warden (CWLW)** permits them.
 - India has about **573 Wildlife Sanctuaries**.
-- Sanctuaries are **in-situ** conservation tools that protect whole habitats, not just one species.
+- Sanctuaries are **in-situ** (स्थान पर) conservation tools that protect whole habitats, not just one species.
 - A sanctuary can later be upgraded to a **National Park** with stricter rules.
 
 | Feature | Wildlife Sanctuary | National Park |
@@ -134,7 +134,7 @@ Wildlife Sanctuary | National Park | Biosphere Reserve | Conservation Reserve | 
 | **Grazing / forestry** | May be permitted | Prohibited |
 | **Biomass collection** | Limited use may be allowed | **Not** allowed as in sanctuary |
 | **Boundary change** | State process | Needs **State Legislature** resolution |
-| **Strictness** | Moderate | **Highest** among WPA terrestrial PAs |
+| **Strictness** | Moderate (नरम दल) | **Highest** among WPA terrestrial PAs |
 
 > **Logic:** Trap — "no human activity is allowed in any wildlife sanctuary" is **false**. NP boundary change = **State Legislature**, not Parliament.
 
@@ -144,21 +144,21 @@ Wildlife Sanctuary | National Park | Biosphere Reserve | Conservation Reserve | 
 
 **Identity:** WPA Sec 35 | Strictest terrestrial PA | First = Corbett 1936
 
-- A **National Park (NP)** is the **strictest** category of terrestrial protected area under WPA.
+- A **National Park (NP)** (राष्ट्रीय उद्यान) is the **strictest** category of terrestrial protected area under WPA.
 - The **State Government** notifies a national park under **WPA Section 35**.
 - Grazing, hunting, forestry, and private exploitation are **prohibited** inside a national park.
 - Altering a national park boundary requires a resolution of the **Legislature of the State** (WPA Sec 35) — **not Parliament**.
 - Local people are **not** allowed to collect and use biomass in a National Park the way limited biotic interference may be permitted in a sanctuary.
-- India's first national park was **Hailey National Park**, now **Corbett National Park (1936)** in Uttarakhand.
-- Uttar Pradesh's major national park is **Dudhwa National Park** in the Terai (rhino rehabilitation from **1984**).
+- India's first national park was **Hailey National Park**, now **Corbett National Park (1936)** in Uttarakhand (उत्तराखंड).
+- Uttar Pradesh's major national park is **Dudhwa National Park** (दुधवा राष्ट्रीय उद्यान) in the Terai (rhino rehabilitation from **1984**).
 
-> **Logic:** tests NP location matching. Keoladeo is in **Rajasthan**. Dachigam is in **Jammu & Kashmir**.
+> **Logic:** tests NP location matching. Keoladeo (केवलादेव) is in **Rajasthan** (थार). Dachigam is in **Jammu & Kashmir**.
 
 **PYQ — UPPCS Prelims 2025, Q90**
 
 Match List-I with List-II:
 
-List-I: A. Dachigam B. Keoladeo C. Kanha D. Periyar
+List-I: A. Dachigam B. Keoladeo C. Kanha (कान्हा) D. Periyar (पेरियार)
 List-II: 1. Madhya Pradesh 2. Rajasthan 3. Kerala 4. Jammu and Kashmir
 
 A. 4 2 1 3
@@ -181,20 +181,20 @@ D. 4 2 1 3
 
 **Identity:** UNESCO MAB 1971 | Core–Buffer–Transition | 18 notified | No WPA basis
 
-- A **Biosphere Reserve (BR)** is a large landscape for conservation, research, and sustainable community use under UNESCO's **Man and the Biosphere (MAB) Programme**.
-- India notified its first BR, **Nilgiri**, in **1986**.
+- A **Biosphere Reserve (BR)** (जैवमंडल आरक्षित क्षेत्र) is a large landscape for conservation, research, and sustainable community use under UNESCO's **Man and the Biosphere (MAB) Programme**.
+- India notified its first BR, **Nilgiri** (नीलगिरि), in **1986**.
 - India has **18 notified Biosphere Reserves**. **13** are in UNESCO's World Network of Biosphere Reserves.
-- Every BR has three zones. The **core** zone bans exploitative human activity (strict protection / genetic diversity). The **buffer** allows limited research, education, regulated eco-tourism and grazing. The **transition** zone permits settlements, cultivation, and regulated sustainable livelihoods.
+- Every BR has three zones. The **core** zone bans exploitative human activity (strict protection / genetic diversity (आनुवंशिक विविधता)). The **buffer** allows limited research, education, regulated eco-tourism and grazing. The **transition** zone permits settlements, cultivation, and regulated sustainable livelihoods.
 - BRs conserve **in situ all forms of life** with support systems — they are **not** declared merely to conserve “a few specific species.”
-- BRs are **executive notifications** by MoEFCC. They do **not** have a separate statutory category under WPA, though core areas often overlap with national parks or sanctuaries.
-- **Nokrek** is in **Meghalaya** (Garo Hills; Nokrek peak), not Manipur. **Simlipal** is in **Odisha**. **Agasthyamalai** spans **Kerala and Tamil Nadu** (Neyyar, Peppara, Shendurney WLS + Kalakad–Mundanthurai TR).
+- BRs are **executive notifications** by MoEFCC (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय). They do **not** have a separate statutory category under WPA, though core areas often overlap with national parks or sanctuaries.
+- **Nokrek** is in **Meghalaya** (Garo (गारो) Hills; Nokrek peak), not Manipur. **Simlipal** is in **Odisha** (ओडिशा). **Agasthyamalai** spans **Kerala and Tamil Nadu (तमिलनाडु)** (Neyyar, Peppara, Shendurney WLS + Kalakad–Mundanthurai TR).
 - The **largest** national BR by area is **Great Rann of Kutch** (Gujarat). Among UNESCO-certified Indian BRs by area, **Gulf of Mannar** is often cited as the largest. The **smallest** is **Nokrek** (Meghalaya).
-- Area order among common options: **Gulf of Mannar > Sundarbans > Pachmarhi > Khangchendzonga**.
+- Area order among common options: **Gulf of Mannar > Sundarbans (सुंदरबन) > Pachmarhi > Khangchendzonga**.
 
 | # | Biosphere Reserve | State(s) |
 |---|-------------------|----------|
 | 1 | Nilgiri | Tamil Nadu, Karnataka, Kerala |
-| 2 | Nanda Devi | Uttarakhand |
+| 2 | Nanda Devi (नंदा देवी) | Uttarakhand |
 | 3 | Nokrek | **Meghalaya** |
 | 4 | Gulf of Mannar | Tamil Nadu |
 | 5 | Sundarbans | West Bengal |
@@ -208,7 +208,7 @@ D. 4 2 1 3
 | 13 | Agasthyamalai | Kerala, Tamil Nadu |
 | 14 | Achanakmar-Amarkantak | MP, Chhattisgarh |
 | 15 | Great Rann of Kutch | Gujarat |
-| 16 | Cold Desert | Himachal Pradesh |
+| 16 | Cold Desert | Himachal (हिमाचल) Pradesh |
 | 17 | Seshachalam Hills | Andhra Pradesh |
 | 18 | Panna | Madhya Pradesh |
 
@@ -246,7 +246,7 @@ D. Only 1 and 3
 - It was added by the **WPA Amendment, 2002** under **Section 36A**.
 - The **State Government** declares it on **government-owned or community-owned forest land**.
 - Human activity is more flexible than in a national park. Traditional uses may continue under regulation.
-- **Asan Conservation Reserve** in Uttarakhand is a known example and is also a Ramsar site.
+- **Asan (आसन) Conservation Reserve** in Uttarakhand is a known example and is also a Ramsar site.
 
 > **Logic:** Conservation Reserve = **forest buffer**. Community Reserve = **private/community land**. Do not swap them.
 
@@ -273,7 +273,7 @@ D. Only 1 and 3
 - A **Tiger Reserve (TR)** is a protected area notified specifically for tiger conservation under **WPA Section 38V**.
 - The **National Tiger Conservation Authority (NTCA)** was created in **2005** and given statutory status by the **2006 WPA amendment**.
 - Every tiger reserve must have a **core** area kept inviolate for tigers and a **buffer** area for regulated human use.
-- India's first tiger reserve was **Corbett (1973)** under **Project Tiger (1973)**.
+- India's first tiger reserve was **Corbett (1973)** under **Project Tiger (प्रोजेक्ट टाइगर) (1973)** (प्रोजेक्ट टाइगर).
 - India had **58 tiger reserves** after the notification of **Madhav Tiger Reserve** (2025).
 - UP tiger reserves include **Dudhwa (1987)**, **Pilibhit (2014)**, and **Ranipur (2023)**.
 
@@ -285,7 +285,7 @@ D. Only 1 and 3
 
 **Identity:** Project Elephant 1992 | Executive notification | No WPA basis
 
-- An **Elephant Reserve (ER)** is declared under **Project Elephant**, launched in **1992**.
+- An **Elephant Reserve (ER)** is declared under **Project Elephant** (प्रोजेक्ट एलीफेंट), launched in **1992**.
 - It is an **executive/administrative** category. It is **not** a separate statutory category under WPA.
 - ERs aim to protect elephant corridors and reduce human–elephant conflict across **14 elephant-range states**.
 - India has **33 Elephant Reserves**.
@@ -313,9 +313,9 @@ D. Only 1 and 3
 
 **Identity:** Ramsar Convention 1971 | India joined 1982 | Wise use of wetlands
 
-- A **Ramsar site** is a wetland of **international importance** designated under the **Ramsar Convention (1971)**.
+- A **Ramsar site** is a wetland of **international importance** designated under the **Ramsar Convention (1971)** (रामसर कन्वेंशन).
 - India became a contracting party in **February 1982**.
-- **World Wetlands Day** is **2 February**.
+- **World Wetlands Day** (विश्व आर्द्रभूमि दिवस) is **2 February** (रामसर).
 - India has about **100 Ramsar sites** (among the highest globally).
 - Ramsar designation follows the **wise use** principle. Wetlands may support fishing, tourism, and local livelihoods if managed sustainably.
 - Ramsar status does **not** change land ownership. WPA protections on the site continue.
@@ -354,9 +354,9 @@ D. 1 and 2
 
 - **UNESCO World Heritage Sites** are places of outstanding universal value under the **World Heritage Convention (1972)**.
 - **Natural** World Heritage Sites are recognised for exceptional natural beauty or biodiversity.
-- India's major **natural** World Heritage Sites include **Kaziranga**, **Manas**, **Keoladeo**, **Sundarbans**, **Nanda Devi and Valley of Flowers**, **Western Ghats**, **Great Himalayan National Park**, and **Khangchendzonga**.
-- **Keoladeo** is both a Ramsar wetland and a UNESCO natural World Heritage Site.
-- **Uttar Pradesh has no natural UNESCO World Heritage Site**. Nanda Devi is in **Uttarakhand**.
+- India's major **natural** World Heritage Sites include **Kaziranga**, **Manas**, **Keoladeo**, **Sundarbans** (सुंदरबन), **Nanda Devi and Valley of Flowers (फूलों की घाटी)**, **Western Ghats**, **Great Himalayan National Park** (हिमाचल), and **Khangchendzonga**.
+- **Keoladeo** is both a Ramsar wetland and a UNESCO natural World Heritage Site (प्राकृतिक विश्व धरोहर स्थल).
+- **Uttar Pradesh has no natural UNESCO World Heritage Site**. Nanda Devi is in **Uttarakhand** (उत्तराखंड).
 
 > **Logic:** Do not confuse **natural WH sites** with **cultural WH sites** such as Jaipur city.
 
@@ -367,7 +367,7 @@ D. 1 and 2
 **Identity:** EPA 1986 | Buffer around PA | Restricts mining and polluting industry
 
 - An **Eco-Sensitive Zone (ESZ)** is a regulated **buffer belt** around a national park, wildlife sanctuary, or other protected area.
-- ESZs are notified under the **Environment (Protection) Act, 1986**, not under WPA.
+- ESZs are notified under the **Environment (पर्यावरण) (Protection) Act, 1986**, not under WPA.
 - The Supreme Court has guided ESZ notification to reduce mining, polluting industries, and major construction near protected areas.
 - ESZ width is notified case by case. It is **not** a fixed 10 km rule for every protected area in all states.
 - ESZs aim to reduce shock between strict protected cores and surrounding development.

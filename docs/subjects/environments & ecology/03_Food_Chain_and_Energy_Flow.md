@@ -1,10 +1,10 @@
-# Topic 3 — Food Chain & Energy Flow
+# Topic 3 — Food Chain (खाद्य श्रृंखला) & Energy Flow
 ### ★ UPPCS Revision Sheet — Lucent-style (no repetition · Practice ≥25)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Food Chain | Food Web | Trophic Levels | Energy Flow in Ecosystem | Ecological Pyramid (Ecological Pyramids)
+Food Chain | Food Web (खाद्य जाल) | Trophic Levels | Energy Flow in Ecosystem (पारिस्थितिकी तंत्र) | Ecological Pyramid (पिरामिड) (Ecological Pyramids)
 
 </details>
 
@@ -17,7 +17,7 @@ Food Chain | Food Web | Trophic Levels | Energy Flow in Ecosystem | Ecological P
 ## Current Affairs (this topic)
 
 - Energy-flow and trophic-level traps recycle yearly — 10% rule and pyramid types stay core.
-- Bioaccumulation / biomagnification CA usually rides on pesticide or heavy-metal news; keep the mechanism pair clear.
+- Bioaccumulation (जैव संचय) / biomagnification (जैव आवर्धन) CA usually rides on pesticide or heavy-metal news; keep the mechanism pair clear.
 
 ---
 
@@ -44,11 +44,11 @@ Food Chain | Food Web | Trophic Levels | Energy Flow in Ecosystem | Ecological P
 19. More links in a food web raise stability, but energy still flows **one way**.
 20. Decomposers and detritivores close the detritus path and recycle nutrients back to producers.
 21. Apex predators sit at the top trophic levels and are often scarce because little energy remains.
-22. Dudhwa’s grass → deer → tiger chain is a classic UP **grazing** example with tiger as apex predator.
-23. A Ganga algae → fish → dolphin web is a standard UP **lotic aquatic** food-web example.
-24. Terai sal leaf litter → earthworm is a UP **detritus** start. Do not call it grazing.
+22. Dudhwa (दुधवा)’s grass → deer → tiger chain is a classic UP **grazing** example with tiger as apex predator.
+23. A Ganga (गंगा) algae → fish → dolphin web is a standard UP **lotic aquatic** food-web example.
+24. Terai (तराई) sal leaf litter → earthworm is a UP **detritus** start. Do not call it grazing.
 25. Western UP sugarcane → pest → predator is a short **cropland** chain of about three levels.
-26. Vulture decline after veterinary **diclofenac** disrupts the **detritus / scavenging** pathway.
+26. Vulture decline after veterinary **diclofenac** (डाइक्लोफेनाक) disrupts the **detritus / scavenging** pathway.
 27. Ecological pyramids may show energy, biomass, or numbers — always note which quantity is plotted.
 28. Saying “energy is cyclic like nutrients” is a frequent false statement.
 29. Match pyramid type to exception: energy never inverts; biomass may invert at sea/pond; numbers may invert with parasites.
@@ -101,7 +101,7 @@ Food Chain | Food Web | Trophic Levels | Energy Flow in Ecosystem | Ecological P
 
 - A **food chain** is a linear sequence in which one organism is eaten by the next. Energy and nutrients pass step by step through **trophic levels**.
 - The **Sun** is the ultimate energy source for almost all ecosystems. The **immediate** starting point of a chain depends on chain type.
-- A **grazing (pastoral) food chain** starts from **living green plants** (producers). Energy then passes to herbivore, carnivore, and top predator.
+- A **grazing (pastoral (पशुपालक)) food chain** starts from **living green plants** (producers). Energy then passes to herbivore, carnivore, and top predator.
 - A **detritus food chain** starts from **dead organic matter** such as leaf litter, dead plankton, or animal carcasses. Detritivores and decomposers dominate this pathway.
 - Both chain types run **in parallel** in the same ecosystem. A tiger may hunt living deer (grazing chain) and also feed on carrion (detritus chain).
 - Food chains are usually **short (3–5 levels)** because only about **10%** of energy passes to the next level. Too little energy remains to support a sixth or seventh level.
@@ -112,9 +112,9 @@ Food Chain | Food Web | Trophic Levels | Energy Flow in Ecosystem | Ecological P
 - An **aquatic grazing chain** runs phytoplankton to zooplankton to small fish to large fish.
 - A common marine chain is **Diatoms → Crustaceans → Herrings**.
 - A **detritus chain** on the Terai forest floor runs fallen sal leaves to earthworm to bacteria and fungi.
-- Food chains illustrate the **order** in which organisms feed upon each other. They are **not** found within the population of a single species.
+- Food chains illustrate the **order** in which organisms feed upon each other. They are **not** found within the population (जनसंख्या) of a single species.
 - Humans act as **primary as well as secondary consumers** because they eat both plant products and meat.
-- In the marine environment, the main primary producers are **phytoplankton** (micro-algae), not seaweeds alone.
+- In the marine environment (पर्यावरण), the main primary producers are **phytoplankton** (micro-algae), not seaweeds alone.
 - Main primary consumers are herbivores such as **deer**. **Ants** may also feed as primary consumers. Fox and tiger are not primary consumers.
 - A large fall in butterfly populations can harm **pollination** of some plants and reduce prey for wasps, spiders, and birds. It does not by itself force a drastic rise in fungal infections of cultivated plants.
 
@@ -164,8 +164,8 @@ Food Chain | Food Web | Trophic Levels | Energy Flow in Ecosystem | Ecological P
 | Level | Role | UP / India example |
 |-------|------|-------------------|
 | **T1** | Producer | Terai grass, wheat, Ganga algae |
-| **T2** | Primary consumer | Barasingha, chital, rohu (juvenile) |
-| **T3** | Secondary consumer | Frog, catfish |
+| **T2** | Primary consumer (प्राथमिक उपभोक्ता) | Barasingha, chital, rohu (juvenile) |
+| **T3** | Secondary consumer (द्वितीयक उपभोक्ता) | Frog, catfish |
 | **T4** | Tertiary consumer | Python, fishing eagle |
 | **T5** | Top carnivore | Tiger (Dudhwa), Gangetic dolphin (river apex) |
 
@@ -204,7 +204,7 @@ D. Carnivorous animals only
 
 | Where energy goes at each level | Key fact |
 |--------------------------------|-----------|
-| Respiration and heat | Largest share — why pyramid of energy is upright |
+| Respiration and heat | Largest share — why pyramid of energy (ऊर्जा पिरामिड) is upright |
 | Movement and metabolism | Not passed to next consumer |
 | Egestion and uneaten parts | Lost from food chain pathway |
 | Passed to next trophic level | **~10%** (Lindeman 1942) |
@@ -239,7 +239,7 @@ D. May increase or decrease
 - A **pyramid of biomass** plots standing dry weight in **g/m²**. It is usually upright on land but can be **inverted in open ocean and pond ecosystems**.
 - In a **pond**, producers are tiny organisms with low standing biomass, so biomass increases toward higher consumers and the pyramid looks inverted.
 - In the sea, phytoplankton reproduce so fast that at any instant their **standing biomass** may be less than fish biomass, even though energy flow still moves upward correctly.
-- A **pyramid of numbers** counts **individual organisms** at each level. It is usually upright but can be **inverted in parasitic chains**.
+- A **pyramid of numbers** (संख्या पिरामिड) counts **individual organisms** at each level. It is usually upright but can be **inverted in parasitic chains**.
 - One large tree (one individual at T1) can support millions of insects and parasites at higher levels. That produces an inverted number pyramid.
 - The **pyramid of energy** is the best measure of ecosystem function because it shows actual energy availability and is never inverted.
 - **Decomposers** are usually omitted from standard pyramid diagrams. They act on all levels and return nutrients to producers.

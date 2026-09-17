@@ -26,23 +26,23 @@
 4. **Article 14** (equality before law / equal protection) covers **any person**. **Article 16** (equality of opportunity in public employment) covers **citizens only**.
 5. Reservation / special-provision facts: **15(4)** is the first explicit special provision; **15(5)** is the **93rd**; **15(6) / 16(6)** are the **103rd** (EWS). Promotion facts include **16(4A)** (**77th**) and **16(4B)** (**81st** / related **85th** teaching).
 6. **Article 17** abolishes **untouchability** (absolute equality fact). **Article 18** bans titles; national awards such as **Bharat Ratna** are **not** “titles” in that sense.
-7. **Article 19** gives **six** freedoms to **citizens**. The old property freedom **19(1)(f)** was deleted by the **44th**; property now sits as a **legal right** under **Article 300A**.
+7. **Article 19** gives **six** freedoms to **citizens**. The old property freedom **19(1)(f)** was deleted by the **44th Amendment** (44वां संशोधन); property now sits as a **legal right** under **Article 300A**.
 8. The six freedoms are speech and expression, assembly, association (cooperatives reinforced by the **97th**), movement, residence, and profession — each with reasonable restrictions under **19(2)–(6)**.
 9. **Article 20** protects **all persons** against ex post facto criminal law, double jeopardy, and self-incrimination. Torture and privacy questions are **not** solved only by Article 20.
-10. **Article 21** protects life and personal liberty for **all persons**. After *Maneka Gandhi*, procedure must be **fair, just and reasonable**. **Privacy** was treated as a Fundamental Right in ***Puttaswamy* (2017)**.
+10. **Article 21** (अनुच्छेद 21) protects life and personal liberty for **all persons**. After *Maneka Gandhi*, procedure must be **fair, just and reasonable**. **Privacy** was treated as a Fundamental Right in ***Puttaswamy* (2017)**.
 11. **Article 21A** (Right to Education) covers free and compulsory education for ages **6–14**, inserted by the **86th Amendment**. Do not stretch 21A to every age group.
 12. **Article 22**: ordinary arrest needs production before a magistrate within **24 hours**. Preventive detention has a separate code (Advisory Board and three-month rhythm in the usual teaching).
 13. **Articles 23–24** are rights against **exploitation** (begar, trafficking, child labour under 14 in hazardous work). Do not park untouchability here — that is **Article 17** under equality.
 14. Religion cluster **25–28**: **25** includes the right to **propagate**; **26** is to manage religious affairs; **27** bars a **tax** for promotion of a religion (a regulatory **fee** is different); **28** covers religious instruction in certain institutions.
 15. **Article 29** protects culture of **any section** of citizens. **Article 30** protects **minorities**’ right to establish and administer educational institutions. “Minority” is not exhaustively defined in the text (*T.M.A. Pai* line).
-16. **Article 32** is the Supreme Court writ remedy for **Fundamental Rights only** — Ambedkar’s “heart and soul.” **Article 226** is **wider**: Fundamental Rights **plus** other legal rights.
+16. **Article 32** (अनुच्छेद 32) is the Supreme Court writ remedy for **Fundamental Rights only** — Ambedkar’s “heart and soul.” **Article 226** is **wider**: Fundamental Rights **plus** other legal rights.
 17. Five writs (पाँच प्रकार की रिटें): **Habeas Corpus** (बन्दी प्रत्यक्षीकरण), **Mandamus** (परमादेश), **Prohibition** (प्रतिषेध), **Certiorari** (उत्प्रेषण), **Quo Warranto** (अधिकार-पृच्छा). **Prohibition** comes **before** the decision; **Certiorari** comes **after** to quash. Mandamus does **not** run against the President or a Governor in the usual fact.
 18. High Court Habeas Corpus can reach even a **private** person in the classic teaching. Quo Warranto tests illegal occupation of a **public office**.
 19. Under a National Emergency, **Article 358** automatically suspends **Article 19** freedoms (subject to later refinements). **Article 359** can suspend enforcement of other rights by order, but **Articles 20 and 21** cannot be suspended.
-20. **DPSP** sit in **Part IV (Articles 36–51)**, borrowed in form from **Ireland**, and are **non-justiciable** (**Article 37**) though fundamental in governance.
+20. **DPSP** (राज्य के नीति निदेशक तत्व) sit in **Part IV (Articles 36–51)**, borrowed in form from **Ireland**, and are **non-justiciable** (**Article 37**) though fundamental in governance.
 21. High-yield DPSP map: **39A** legal aid; **40** village panchayats; **43A** workers’ participation; **43B** cooperatives (**97th**); **44** Uniform Civil Code; **45** early childhood care (under-6 after 86th shift); **48A** environment; **50** separation of judiciary; **51** international peace.
 22. Do not swap **43A** (workers) with **43B** (cooperatives), or **48** (cattle / agriculture) with **50** (separation of judiciary).
-23. **Fundamental Duties** sit in **Part IVA, Article 51A**, added by the **42nd Amendment (1976)** — originally **10**, raised to **11** by the **86th** (**51A(k)** education of child). Duties bind **citizens**.
+23. **Fundamental Duties** (मौलिक कर्तव्य) sit in **Part IVA, Article 51A**, added by the **42nd Amendment (1976)** — originally **10**, raised to **11** by the **86th** (**51A(k)** education of child). Duties bind **citizens**.
 24. **Article 51A(g)** (protect environment) pairs with DPSP **48A** — same idea in two Parts.
 25. Fundamental Rights are justiciable (USA-style Bill of Rights form); DPSP are non-justiciable (Ireland-style directives). Conflict cases later balanced them without erasing either Part.
 26. **Article 13** voids inconsistent laws. Constitutional amendments sit outside via **13(4)** after the **24th Amendment**. Doctrines: eclipse, severability, and generally **no waiver** of Fundamental Rights.
@@ -126,8 +126,8 @@
 ## N.1 Fundamental Rights — overview
 
 - **Part III, Arts. 12–35.** Justiciable (courts enforce). Part III is often called the **Magna Carta of India**. Form is compared with the **US Bill of Rights**.
-- Pre-Independence demands: the **Constitution of India Bill, 1895** (Tilak-inspired) is treated as the first explicit FR demand; the **Motilal Nehru Report (1928)** sought inalienable FRs; the **Karachi Congress (1931)** under **Sardar Patel** adopted the FR and National Economic Programme resolutions.
-- **S. Radhakrishnan**: FRs are “a **pledge** to our people and a **pact** with the civilized world.” **Nehru**: an FR should be made **permanent** in the Constitution, not fixed for a passing difficulty.
+- Pre-Independence demands: the **Constitution of India Bill, 1895** (Tilak-inspired) is treated as the first explicit FR demand; the **Motilal Nehru Report (1928)** sought inalienable FRs; the **Karachi Congress (1931)** under **Sardar Patel** (सरदार पटेल) adopted the FR and National Economic Programme resolutions.
+- **S. Radhakrishnan**: FRs are “a **pledge** to our people and a **pact** with the civilized world.” **Nehru** (नेहरू): an FR should be made **permanent** in the Constitution, not fixed for a passing difficulty.
 - Originally **seven** groups. **44th Amendment, 1978** removed **Right to Property** from Part III (now **Art. 300A**, legal right — see below). **Six** groups remain.
 - Bind the **State** (Art. 12). Some (e.g. 17, 23, 24) also bind private persons. They are a guarantee against **arbitrary State action**.
 - **Not absolute** — reasonable restrictions / other Part III limits. Can be amended, but **Basic Structure** cannot be destroyed (*Kesavananda*).
@@ -320,7 +320,7 @@ D. Freedom to practise any trade or profession
 
 ## N.6 Right against Exploitation — Articles 23–24
 
-**All persons;** binds State **and private persons**; the exploitation pair is traffic/*begar* (23) and child labour in hazardous work (24).
+**All persons;** binds State **and private persons**; the exploitation pair is traffic/*begar* (बेगार) (23) and child labour in hazardous work (24).
 
 - **23 Traffic in human beings and *begar*:** Prohibits traffic, *begar* and similar **forced labour**. Exception: State may impose **compulsory service for public purposes** (no discrimination on religion/race/caste/class).
 - **24 Child labour (hazardous):** No child **below 14** in **factory, mine, or other hazardous employment**. Does **not** ban all child work (e.g. non-hazardous family work as statute now stands). Child Labour (Prohibition and Regulation) Act, 1986 / 2016 amendment.
@@ -768,7 +768,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 - DPSP: State shall **endeavour** to secure a UCC for citizens throughout India. **Non-justiciable.**
 - Aim: one common set of personal laws (marriage, divorce, succession) across religions.
 - Judicial push: *Shah Bano* (1985), *Sarla Mudgal* (1995), *Shayara Bano* (2017 — triple talaq).
-- **Goa** already has a common civil code (Portuguese legacy). **Uttarakhand** enacted a UCC (2024) — first State in independent India to do so.
+- **Goa** already has a common civil code (Portuguese legacy). **Uttarakhand** (उत्तराखंड) enacted a UCC (2024) — first State in independent India to do so.
 
 ---
 
@@ -1304,7 +1304,7 @@ D. Dr. B.R. Ambedkar
 
 **Logic:** Permanence quote = Nehru; “pledge and pact” = Radhakrishnan; “heart and soul” = Ambedkar on Art. 32.
 
-**Ans: B.** **Jawaharlal Nehru** stressed that a Fundamental Right must be made **permanent** in the Constitution, not fixed for a passing difficulty.
+**Ans: B.** **Jawaharlal Nehru** (जवाहरलाल नेहरू) stressed that a Fundamental Right must be made **permanent** in the Constitution, not fixed for a passing difficulty.
 
 </details>
 
@@ -1383,7 +1383,7 @@ D. Can be suspended during Emergency
 
 **Logic:** Suspension path is Emergency under Arts. 358/359 — never 20 and 21 after 44th.
 
-**Ans: D.** Enforcement of Fundamental Rights can be suspended during a **National Emergency** under Arts. **358** and **359**. Arts. **20** and **21** cannot be suspended.
+**Ans: D.** Enforcement of Fundamental Rights can be suspended during a **National Emergency** (राष्ट्रीय आपात) under Arts. **358** and **359**. Arts. **20** and **21** cannot be suspended.
 
 </details>
 
@@ -1462,7 +1462,7 @@ D. All of the above
 
 **Logic:** Art. 13 is the Part III gate, not DPSP or Duties.
 
-**Ans: B.** Article 13 secures the paramountcy of the Constitution with respect to **Fundamental Rights**.
+**Ans: B.** Article 13 secures the paramountcy of the Constitution with respect to **Fundamental Rights** (मौलिक अधिकार).
 
 </details>
 
@@ -5402,7 +5402,7 @@ D. 2, 3 and 4 only
 <details>
 <summary>Show answer</summary>
 
-**Logic:** The word **Dalit** is not used in the Constitution.
+**Logic:** The word **Dalit** (दलित) is not used in the Constitution.
 
 **Ans: C.** Children, women and tribals.
 

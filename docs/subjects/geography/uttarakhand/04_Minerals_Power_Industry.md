@@ -11,7 +11,7 @@
 ## Current Affairs (this topic)
 
 - Watch new SIIDCUL allotments, hydropower clearances, and any revised mineral-district keys in state releases.
-- Tehri and Alaknanda-belt project news often doubles as power CA.
+- Tehri (टिहरी) and Alaknanda-belt project news often doubles as power CA.
 
 ---
 
@@ -19,11 +19,11 @@
 
 | Head | Correct |
 |------|---------|
-| Dolomite | **Dehradun, Pithoragarh** |
-| Soapstone (soap stone) | **Chamoli, Bageshwar** |
-| Graphite | **Almora, Nainital** (correct pair in UKPCS 2025) |
-| Silica sand | **Dehradun, Nainital, Tehri Garhwal** — **not Pauri Garhwal** |
-| Power | Hydropower on Bhagirathi–Alaknanda–Yamuna systems; **Tehri** as flagship |
+| Dolomite | **Dehradun (देहरादून), Pithoragarh (पिथौरागढ़)** |
+| Soapstone (soap stone) | **Chamoli (चमोली), Bageshwar (बागेश्वर)** |
+| Graphite | **Almora (अल्मोड़ा), Nainital (नैनीताल)** (correct pair in UKPCS 2025) |
+| Silica sand | **Dehradun, Nainital, Tehri Garhwal (गढ़वाल)** — **not Pauri (पौड़ी) Garhwal** |
+| Power | Hydropower on Bhagirathi (भागीरथी)–Alaknanda (अलकनंदा)–Yamuna (यमुना) systems; **Tehri** (टिहरी) as flagship |
 | Industry sketch | Forest-based, tourism services, pharma/IT pockets in plains & Dehradun belt |
 
 ---
@@ -50,19 +50,19 @@
 
 ---
 
-## 4.1 Minerals of Uttarakhand
+## 4.1 Minerals of Uttarakhand (उत्तराखंड)
 
 **Identity:** Scattered Himalayan–foothill minerals remembered by district pairs.
 
 - The state has scattered Himalayan and foothill mineral occurrences.
 - It does not have one giant coal–iron belt.
 - District pairing is the reliable way to remember the must-score mineral map.
-- **Dolomite** is associated with **Dehradun**.
-- Dolomite is also associated with **Pithoragarh**.
-- **Soapstone** is associated with **Chamoli**.
-- Soapstone is also associated with **Bageshwar**.
-- **Graphite** is associated with **Almora**.
-- Graphite is also associated with **Nainital**.
+- **Dolomite** is associated with **Dehradun** (देहरादून).
+- Dolomite is also associated with **Pithoragarh** (पिथौरागढ़).
+- **Soapstone** is associated with **Chamoli** (चमोली).
+- Soapstone is also associated with **Bageshwar** (बागेश्वर).
+- **Graphite** is associated with **Almora** (अल्मोड़ा).
+- Graphite is also associated with **Nainital** (नैनीताल).
 - **Silica sand** is associated with **Dehradun**.
 - Silica sand is also associated with **Nainital**.
 - Silica sand is also associated with **Tehri Garhwal**.
@@ -70,7 +70,7 @@
 - Pauri Garhwal is the planted wrong match for silica sand.
 - Limestone appears in coaching lists as a minor occurrence.
 - Magnesite also appears as a minor occurrence.
-- The four named pairs above carry the heaviest recall weight.
+- The four (चातुर्याम) named pairs above carry the heaviest recall weight.
 
 ---
 
@@ -79,10 +79,10 @@
 **Identity:** Steep Himalayan gradients | Tehri flagship on the Bhagirathi.
 
 - Hydropower dominates the power-resource story because of steep gradients and glacier-fed rivers.
-- Major project belts follow the **Bhagirathi**, **Alaknanda**, and **Yamuna** systems.
+- Major project belts follow the **Bhagirathi** (भागीरथी), **Alaknanda** (अलकनंदा), and **Yamuna** (यमुना) systems.
 - The **Tehri** hydropower complex sits on the Bhagirathi near the Bhilangana confluence.
 - Tehri is the flagship multipurpose project: power, flood moderation, and upper-Ganga storage memory.
-- Other named coaching heads include run-of-river and storage schemes on Garhwal trunks such as **Vishnuprayag**, **Srinagar** (Alaknanda belt), and Yamuna-side projects in western Garhwal.
+- Other named coaching heads include run-of-river and storage schemes on Garhwal trunks such as **Vishnuprayag** (विष्णुप्रयाग), **Srinagar** (Alaknanda belt), and Yamuna-side projects in western Garhwal.
 - High alpine sites face glacial and seismic constraints.
 - Thermal coal is **not** the core identity of Uttarakhand’s power map — water power is.
 
@@ -90,18 +90,18 @@
 
 ## 4.3 Industry belts
 
-**Identity:** Tarai plains and Dehradun dun | SIIDCUL nodes | services and light manufacturing.
+**Identity:** Tarai plains and Dehradun dun (दून) | SIIDCUL nodes | services and light manufacturing.
 
 - Industrial development concentrates in **Tarai / plains** districts and the **Dehradun** dun more than in high alpine tehsils.
 - **SIIDCUL** (State Infrastructure and Industrial Development Corporation of Uttarakhand) anchors planned estates in the plains–dun belt.
-- Coaching maps remember industrial nodes around **Haridwar**, **Pantnagar / Rudrapur** (Udham Singh Nagar), and **Sitarganj**-side Tarai estates.
-- **Udham Singh Nagar** hosts agro-based and light manufacturing nodes linked to the Tarai farm belt.
+- Coaching maps remember industrial nodes around **Haridwar** (हरिद्वार), **Pantnagar / Rudrapur** (Udham Singh Nagar (ऊधम सिंह नगर)), and **Sitarganj**-side Tarai estates.
+- **Udham Singh Nagar** (ऊधम सिंह नगर) hosts agro-based and light manufacturing nodes linked to the Tarai farm belt.
 - **Haridwar** mixes pilgrimage services with industrial estate memory on the plains fringe.
 - **Dehradun** carries administration, education, pharma, IT, and service-industry pockets.
 - Forest-based and tourism-linked services remain important across mid-hill towns.
-- Heavy smokestack industry is limited by terrain, ecology, and transport cost.
+- Heavy smokestack industry is limited by terrain, ecology (पारिस्थितिकी), and transport cost.
 - Light manufacturing and services dominate instead.
-- Keep brand-new factory names for Current Affairs; the geography spine is plains–dun concentration plus hydropower.
+- Keep brand-new factory (फैक्टरी) names for Current Affairs; the geography spine is plains–dun concentration plus hydropower.
 
 ---
 

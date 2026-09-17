@@ -1,4 +1,4 @@
-# Topic 8 — Sher Shah Suri
+# Topic 8 — Sher Shah (शेरशाह) Suri
 ### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥35)
 
 <details>
@@ -17,30 +17,30 @@ Sher Shah Suri | Administration | Revenue Reforms | Road System | Currency Refor
 
 ## Consolidated — 25 Must-Score Facts
 
-1. **Farid Khan** of **Sasaram** became **Sher Khan** after the tiger-kill tradition, then **Sher Shah Suri** as Padshah from **1540**.
-2. The Sur empire lasted only about **1540–1545**, yet its admin, roads, and revenue model shaped later Mughal practice.
-3. At **Chausa on 26 June 1539**, Sher Shah defeated Humayun, who escaped across the Ganga on a mashak.
-4. At **Kannauj/Bilgram on 17 May 1540**, Sher Shah won decisively and Humayun fled into exile.
-5. **Daurah (1532)** was Humayun versus Afghan chiefs; it is **not** Sher Shah's Chausa battle.
-6. Chronology fact: **Daurah 1532 → Chausa 1539 → Kannauj 1540 → Samugarh 1658**.
-7. Sher Shah died in **May 1545** at the **Kalinjar** siege from a **gunpowder** blast; his tomb is the lake mausoleum at **Sasaram**.
+1. **Farid Khan** (फरीद खान) of **Sasaram** (सासाराम) became **Sher Khan** (शेर खान) after the tiger-kill tradition, then **Sher Shah Suri** as Padshah from **1540**.
+2. The Sur empire lasted only about **1540–1545**, yet its admin, roads, and revenue model shaped later Mughal (मुग़ल) practice.
+3. At **Chausa (चौसा) on 26 June 1539**, Sher Shah defeated Humayun (हुमायूँ), who escaped across the Ganga (गंगा) on a mashak.
+4. At **Kannauj (कन्नौज)/Bilgram (बिलग्राम) on 17 May 1540**, Sher Shah won decisively and Humayun fled into exile.
+5. **Daurah (दौराह) (1532)** was Humayun versus Afghan chiefs; it is **not** Sher Shah's Chausa battle.
+6. Chronology fact: **Daurah 1532 → Chausa 1539 → Kannauj 1540 → Samugarh (समुगढ़) 1658**.
+7. Sher Shah died in **May 1545** at the **Kalinjar** (कालिंजर) siege from a **gunpowder** blast; his tomb is the lake mausoleum at **Sasaram**.
 8. Successor **Islam Shah (Jalal Khan)** ruled **1545–1553**; Humayun returned to Delhi–Agra in **1555**.
-9. Each pargana had a **Shiqdar** (शिक़दार) for law and order, a **Munsif** (मुंसिफ़) for accounts and justice, and an **Amil/Desai** (आमिल / देसाई) for collection.
+9. Each pargana (परगना) had a **Shiqdar** (शिक़दार) for law and order, a **Munsif** (मुंसिफ़) for accounts and justice, and an **Amil/Desai** (आमिल / देसाई) for collection.
 10. **Jarib** (जरीब) is the **measuring rope** used to fix the bigha; it is **not** a tax. Taxes included **Jaribana** (जरीबाना - survey fee) and **Muhasilana** (मुहसिलाना - tax collection fee). **Desai** is the revenue collector.
 11. Land was classed good, middle, or bad; **rai** (राय) was the crop rate per **bigha**; **zabt** (ज़ब्ती) fixed an annual cash demand.
 12. The state issued a **patta** (पट्टा - title deed) to the peasant; **qabuliat** (क़बूलियत - acceptance agreement) was the peasant's written acceptance.
-13. **Todar Mal** trained under Sher Shah's revenue system before carrying measurement practice into Akbar's court.
+13. **Todar Mal** (टोडर मल) trained under Sher Shah's revenue system before carrying measurement practice into Akbar (अकबर)'s court.
 14. The **Grand Trunk Road** (सड़क-ए-आज़म) ran from **Sonargaon** in Bengal to **Peshawar**, with **sarais** (सराय) about every **12 kos**.
-15. Currency fact: silver **rupiya** (रुपिया - ~178 grains), copper **dam** (दाम - ~1/40 of a rupiya), and gold **mohur** (मोहर); Akbar continued the **dam**.
-16. Key forts include **Rohtas** in Bihar against Humayun's return and **Purana Qila** in Delhi.
-17. At **Sammel/Giri-Sumel in 1544**, Sher Shah fought **Rao Maldeo Rathore of Marwar**.
-18. **Jayata and Kumpa** were loyal **Marwar** Rathore captains who died fighting; they were **not** Mewar warriors.
-19. Centre offices: **Diwan-i-Wazarat** (दीवान-ए-विज़ारत) for finance, **Diwan-i-Ariz** (दीवान-ए-अर्घ) for the army, and **Diwan-i-Risalat** (दीवान-ए-रसालत) for grants.
-20. Monument order places **Sher Shah's Sasaram tomb** after Atala Jaunpur and before Humayun's tomb at Delhi.
+15. Currency fact: silver (रूपक) **rupiya** (रुपिया - ~178 grains), copper **dam** (दाम - ~1/40 of a rupiya), and gold **mohur** (मोहर); Akbar continued the **dam**.
+16. Key forts include **Rohtas** (रोहतास) in Bihar against Humayun's return and **Purana (पुराण) Qila** (पुराना किला) in Delhi.
+17. At **Sammel/Giri-Sumel in 1544**, Sher Shah fought **Rao Maldeo Rathore of Marwar (मारवाड़)**.
+18. **Jayata and Kumpa** were loyal **Marwar** Rathore captains who died fighting; they were **not** Mewar (मेवाड़) warriors.
+19. Centre offices: **Diwan-i-Wazarat** (दीवान-ए-विज़ारत) for finance, **Diwan-i-Ariz** (दीवान-ए-अर्घ) for the army (सेना), and **Diwan-i-Risalat** (दीवान-ए-रसालत) for grants.
+20. Monument order places **Sher Shah's Sasaram tomb** after Atala Jaunpur (जौनपुर) and before Humayun's tomb at Delhi.
 21. **Barid** (बरीद - spy) watched officers; the **qazi** (क़ाज़ी) judged by sharia and stayed outside the revenue chain.
 22. Horses were branded with **dagh** (दाग़) and soldiers with **chehra** (चेहरा / हुलिया), a precursor to the later Mughal chehra–dagh system.
-23. Sher Shah kept a standing force with registered men; he did **not** create hereditary mansabdari like Akbar.
-24. **Farid Khan** was educated at **Jaunpur** (**Siraj-i-Hind**). He took **Hazrat-e-Ala** in Bengal service, then **Sher Shah** after **Chausa (1539)**.
+23. Sher Shah kept a standing force with registered men; he did **not** create hereditary mansabdari (मनसबदारी व्यवस्था) like Akbar.
+24. **Farid Khan** was educated at **Jaunpur** (जौनपुर) (**Siraj-i-Hind**). He took **Hazrat-e-Ala** (हज़रत-ए-आला) in Bengal service, then **Sher Shah** (शेरशाह) after **Chausa (1539)**.
 25. **Khayr-ul-Manazil** near Purana Qila was built by **Maham Anaga** in Akbar's era, not by Sher Shah. **Qila-i-Kuhna** mosque stands **inside** Purana Qila — Sher Shah's work.
 
 ---
@@ -89,7 +89,7 @@ Sher Shah Suri | Administration | Revenue Reforms | Road System | Currency Refor
 | Patta | State document to peasant |
 | Qabuliat | Peasant’s written acceptance |
 | Shiqdar | Law and order (pargana) |
-| Munshif | Accounts |
+| Munshif (मुंशिफ) | Accounts |
 | Amil / Desai | Collection |
 | Dagh | Horse branding |
 
@@ -102,7 +102,7 @@ Sher Shah Suri | Administration | Revenue Reforms | Road System | Currency Refor
 | Dam | Copper; ~**1/40** rupiya |
 | Mohur | Gold |
 | Rohtas | Bihar fort vs Humayun return |
-| Purana Qila | Delhi citadel; **Qila-i-Kuhna** mosque |
+| Purana Qila | Delhi citadel (दुर्ग); **Qila-i-Kuhna** mosque |
 | Sasaram tomb | Lake mausoleum; birth + burial |
 
 ### Name ladder
@@ -118,7 +118,7 @@ Sher Shah Suri | Administration | Revenue Reforms | Road System | Currency Refor
 ### Battle of Chausa (1539) — Cause, Course, Result
 
 **Cause:** Sher Shah challenged **Humayun's** fragile hold over the north after Afghan resistance revived in the east.
-**Course:** Armies met near **Chausa** on the **Ganga**. Sher Shah used surprise and river tactics. Humayun escaped by swimming across the Ganga.
+**Course:** Armies met near **Chausa** on the **Ganga** (गंगा). Sher Shah used surprise and river tactics. Humayun escaped by swimming across the Ganga.
 **Result:** Mughal prestige collapsed in the east. **Kannauj/Bilgram (1540)** followed.
 
 ### Battle of Kannauj / Bilgram (1540) — Cause, Course, Result
@@ -134,12 +134,12 @@ Sher Shah Suri | Administration | Revenue Reforms | Road System | Currency Refor
 - Sher Shah was born as **Farid Khan** around **1472** at **Sasaram**. His father was **Hasan Khan Sur**, an Afghan of the **Sur** clan.
 - He served **Bahar Khan Lohani** in Bihar. Tradition says he killed a **tiger**, earning the title **Sher Khan**.
 - After Bahar Khan’s death, Sher Khan took **Bihar** and defeated Bengal’s **Mahmud Shah**, building an eastern revenue base.
-- He first cooperated with **Humayun** against Bengal, then turned rival.
-- At **Chausa on 26 June 1539** on the Ganga near Buxar, Sher Shah defeated Humayun. Humayun escaped on a **mashak** (inflated water-skin).
-- At **Kannauj/Bilgram on 17 May 1540**, Sher Shah won decisively. Humayun fled through Sind into Persia and ceded Kandahar to the Safavids.
+- He first cooperated with **Humayun** (हुमायूँ) against Bengal, then turned rival.
+- At **Chausa on 26 June 1539** on the Ganga near Buxar (बक्सर), Sher Shah defeated Humayun. Humayun escaped on a **mashak** (inflated water-skin).
+- At **Kannauj/Bilgram on 17 May 1540**, Sher Shah won decisively. Humayun fled through Sind (सिंध) into Persia and ceded Kandahar (कंधार) to the Safavids.
 - Sher Shah took **Delhi** and assumed the title **Sher Shah Suri**. His Sur empire lasted **1540–1545**, only about five years, but left a lasting administrative legacy.
 - Sher Shah died in **May 1545** during the siege of **Kalinjar** in Bundelkhand. A **gunpowder explosion** killed him; it was **not** a sword wound.
-- His tomb is the lake mausoleum at **Sasaram (1545)** in Indo-Islamic style — after Atala Jaunpur and before Humayun’s Tomb at Delhi (1565).
+- His tomb is the lake mausoleum at **Sasaram (1545)** in Indo-Islamic (भारतीय-इस्लामी) style — after Atala Jaunpur and before Humayun’s Tomb at Delhi (1565).
 - His successor **Islam Shah (Jalal Khan)** ruled from **1545 to 1553**. The Sur empire then collapsed, and **Humayun returned in 1555**.
 - **Todar Mal** served Sher Shah’s revenue system before joining Akbar.
 
@@ -157,9 +157,9 @@ A. 2-4-3-1 | B. 4-2-1-3 | C. 4-2-3-1 | D. 2-4-1-3
 <details>
 <summary>Show answer</summary>
 
-**Ans: D (2-4-1-3)Order:** Daurah **1532** (Humayun vs Afghan chiefs) → Chausa **1539** (Sher Shah defeats Humayun) → Kannauj/Bilgram **1540** (Sher Shah’s decisive win) → Samugarh **1658** (Aurangzeb vs Dara).
+**Ans: D (2-4-1-3)Order:** Daurah **1532** (Humayun vs Afghan chiefs) → Chausa **1539** (Sher Shah defeats Humayun) → Kannauj/Bilgram **1540** (Sher Shah’s decisive win) → Samugarh **1658** (Aurangzeb (औरंगजेब) vs Dara (दारा)).
 
-**Trap:** Daurah (1532)** is not **Dharmat (1658)**. Do not place Samugarh before Kannauj.
+**Trap:** Daurah (1532)** is not **Dharmat (धर्मत) (1658)**. Do not place Samugarh before Kannauj.
 
 </details>
 
@@ -167,8 +167,8 @@ A. 2-4-3-1 | B. 4-2-1-3 | C. 4-2-3-1 | D. 2-4-1-3
 
 ## 8.2 Administration
 
-- Sher Shah ruled as sole sovereign. He did **not** create a hereditary mansab nobility like Akbar. He used spies (**barid**) to watch officers.
-- Territory was divided into **Sarkar** (several parganas) and **Pargana** (the basic admin-revenue unit).
+- Sher Shah ruled as sole sovereign. He did **not** create a hereditary mansab (मनसब) nobility like Akbar. He used spies (**barid**) to watch officers.
+- Territory was divided into **Sarkar** (सरकार) (several parganas) and **Pargana** (परगना) (the basic admin-revenue unit).
 - Each pargana had three key officers. The **Shiqdar** handled law, order, and local troops. The **Munshif** kept accounts and audited records. The **Amil** or **Desai** collected revenue.
 - The **Khwan-i-Pargana** was the pargana record writer. The **Qazi** judged by sharia and stayed outside the revenue chain.
 - At the sarkar level, **Shiqdar-i-Shiqdaran** and **Munshif-i-Munsifan** supervised the pargana officers.
@@ -186,7 +186,7 @@ D. Jarib — A type of tax
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Jarib is Sher Shah’s **measuring rope** used to fix the **bigha**, not a tax. **Dam** = copper coin ✓. **Desai** = revenue collector ✓.
+**Logic:** Jarib is Sher Shah’s **measuring rope** used to fix the **bigha**, not a tax. **Dam** = copper coin (मुद्रा) ✓. **Desai** = revenue collector ✓.
 
 **Ans: D.**
 
@@ -200,17 +200,17 @@ D. Jarib — A type of tax
 
 - Sher Shah measured land first with the **jarib**, a bamboo rope fitted with **iron rings**, to fix a uniform **bigha**.
 - Land was classified as **good**, **middle**, or **bad**. **Rai** was the cash rate of expected produce **per bigha**, set by crop and land class.
-- **Zabt** fixed an annual **cash** demand on measured land. This became the template for Akbar’s system under Todar Mal.
+- **Zabt** fixed an annual **cash** demand on measured land. This became the template for Akbar’s (अकबर) system under Todar Mal.
 - The state issued a **patta** to the peasant showing area and demand. **Qabuliat** was the peasant’s written acceptance.
 - Amils collected revenue, munshifs audited accounts, and barid spies checked under-reporting.
 - Sher Shah warned amils **not to crush peasants**, balancing income with stability.
-- Akbar later added **dahsala**, a **10-year average** assessment, on top of this measurement base.
+- Akbar later added **dahsala** (दहसाला), a **10-year average** assessment, on top of this measurement base.
 
 ---
 
 ## 8.4 Road System
 
-- Sher Shah built the **Sadak-e-Azam** (**Grand Trunk Road**) from **Sonargaon** in Bengal to **Peshawar/Kabul**, passing through the Patna–Kannauj–Agra–Delhi corridor — a major UP axis.
+- Sher Shah built the **Sadak-e-Azam** (**Grand Trunk Road**) from **Sonargaon** in Bengal to **Peshawar/Kabul**, passing through the Patna (पटना)–Kannauj–Agra–Delhi corridor — a major UP axis.
 - **Sarais** stood about every **12 kos** (roughly 20 miles), offering lodging, supplies, and security.
 - **Kos-minars** marked distances along the road. A **dak** horse-post carried news quickly.
 - Roads and forts let Sher Shah move troops against Humayun and Afghan rivals.
@@ -259,9 +259,9 @@ A. Both true and R explains A | B. Both true, R not explanation | C. A true, R f
 
 **Course:** At **Sammel / Giri-Sumel in 1544**, Sher Shah used **forged letters** so Maldeo doubted his loyal Rathore captains **Jaita (Jayata)** and **Kumpa**. Maldeo withdrew, but the two Rathores stayed and died fighting.
 
-**Result:** Sher Shah held the field, yet later said he nearly lost the **“empire of Hindustan for a handful of bajra/millets.”** **Jaita** and **Kumpa** remain Marwar Rathore martyr facts — not Mewar Sisodia captains.
+**Result:** Sher Shah held the field, yet later said he nearly lost the **“empire of Hindustan for a handful of bajra (बाजरा)/millets.”** **Jaita** and **Kumpa** remain Marwar Rathore martyr facts — not Mewar Sisodia captains.
 
-- Key forts included **Rohtas in Bihar** (built against Humayun’s return), **Chunar**, **Kalinjar**, and **Ranthambhor**.
+- Key forts included **Rohtas in Bihar** (built against Humayun’s return), **Chunar** (चुनार), **Kalinjar**, and **Ranthambhor**.
 - Sher Shah maintained a standing force of cavalry, infantry, and elephants. Men were registered, and horses were branded with **dagh** — the precursor to the later Mughal chehra-dagh system.
 - **Diwan-i-Ariz** was the central military office.
 

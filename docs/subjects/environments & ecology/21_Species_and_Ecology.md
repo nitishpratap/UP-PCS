@@ -1,10 +1,10 @@
-# Topic 21 — Species & Ecology
+# Topic 21 — Species & Ecology (पारिस्थितिकी)
 ### ★ UPPCS Revision Sheet — Lucent-style (no repetition · Practice ≥25)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Red Data Book | IUCN Red List Categories | Wetlands | Mangroves | Coral Reefs | Grasslands | Himalayan Ecosystem | Marine Ecosystem
+Red Data Book (रेड डेटा बुक) | IUCN (आईयूसीएन) Red List Categories | Wetlands | Mangroves | Coral Reefs | Grasslands | Himalayan Ecosystem (पारिस्थितिकी तंत्र) | Marine Ecosystem
 
 </details>
 
@@ -16,7 +16,7 @@ Red Data Book | IUCN Red List Categories | Wetlands | Mangroves | Coral Reefs | 
 
 ## Current Affairs (this topic)
 
-- New IUCN category moves for flagship species are the usual CA refresh.
+- New IUCN category moves for flagship species (प्रतीक (फ्लैगशिप) प्रजाति) are the usual CA refresh.
 - Keystone / umbrella / flagship / indicator definitions stay concept-fixed.
 
 ---
@@ -26,24 +26,24 @@ Red Data Book | IUCN Red List Categories | Wetlands | Mangroves | Coral Reefs | 
 1. India’s **Red Data Book** is a **national** catalogue — **BSI** for plants, **ZSI** for animals (both Kolkata). The **IUCN Red List** is the **global** extinction-risk system from IUCN (Gland).
 2. IUCN has nine categories: EX, EW, CR, EN, VU, NT, LC, DD, NE. Risk order puts CR above EN above VU among living threatened tiers.
 3. **Threatened** on IUCN means **VU + EN + CR** only — not “Endangered” alone.
-4. IUCN assesses extinction risk. **CITES** regulates international wildlife **trade**. Different institutions, different jobs.
-5. **Ramsar (1971)** is the wetlands treaty under Wise Use. World Wetlands Day is **2 February**.
-6. Uttar Pradesh Ramsar examples include Sarsai Nawar, Samaspur, Nawabganj, Upper Ganga, Bakhira, and Haiderpur. **Rudrasagar is Tripura**; **Sultanpur is Haryana** — not UP.
-7. **Mangroves** are salt-tolerant coastal forests with **pneumatophores** and often viviparous seeds. **Sundarbans** is the classic largest mangrove belt; Rhizophora and Avicennia are common genera.
+4. IUCN assesses extinction risk. **CITES** (साइट्स) regulates international wildlife **trade** (पण्याध्यक्ष). Different institutions, different jobs.
+5. **Ramsar (रामसर) (1971)** is the wetlands treaty under Wise Use. World Wetlands Day (विश्व आर्द्रभूमि दिवस) is **2 February** (रामसर).
+6. Uttar Pradesh (उत्तर प्रदेश) Ramsar examples include Sarsai Nawar, Samaspur, Nawabganj, Upper Ganga (गंगा), Bakhira, and Haiderpur. **Rudrasagar is Tripura**; **Sultanpur is Haryana** — not UP.
+7. **Mangroves** are salt-tolerant coastal forests with **pneumatophores** (वात-मूल) and often viviparous seeds. **Sundarbans** (सुंदरबन) is the classic largest mangrove belt; Rhizophora and Avicennia are common genera.
 8. **MISHTI** is the Union Budget **2023–24** mangrove restoration push. Do not date it as 2019.
-9. **Coral reefs** are built from calcium-carbonate skeletons and live with symbiotic **zooxanthellae**. **Bleaching** happens when heat stress expels the algae.
-10. India’s coral belts include Gulf of Mannar, Lakshadweep, Andaman & Nicobar, and Gulf of Kutch.
-11. **Grasslands** are grass-dominated systems maintained by fire and grazing. UP’s Terai is a foothill grassland–forest mosaic; **Dudhwa** holds barasingha (swamp deer). Kaziranga is the floodplain grassland rhino fact.
-12. Himalayan vegetation follows altitude belts: tropical → subtropical → temperate → alpine → nival. Snow leopard is a high Himalaya fact; Dudhwa is Terai foothill fringe, not alpine.
+9. **Coral reefs** are built from calcium-carbonate skeletons and live with symbiotic **zooxanthellae** (ज़ूजैंथेली). **Bleaching** happens when heat stress expels the algae.
+10. India’s coral belts include Gulf of Mannar, Lakshadweep (लक्षद्वीप), Andaman (अंडमान) & Nicobar (निकोबार), and Gulf of Kutch.
+11. **Grasslands** are grass-dominated systems maintained by fire and grazing. UP’s Terai (तराई) is a foothill grassland–forest mosaic; **Dudhwa** (दुधवा) holds barasingha (swamp deer). Kaziranga (काजीरंगा) is the floodplain grassland rhino fact.
+12. Himalayan vegetation follows altitude belts: tropical → subtropical → temperate → alpine → nival. Snow leopard is a high Himalaya (हिमालय) fact; Dudhwa is Terai foothill fringe, not alpine.
 13. Marine **neritic** shelf waters are the highest fisheries-productivity zone; pelagic means open ocean. India’s coast is about **7516 km**.
 14. The **Gangetic dolphin** is a **freshwater river** dolphin — not a marine species trap.
-15. Wetland ≠ mangrove ≠ coral. Inland marsh, saline coastal forest, and reef builders are three different ecosystems.
+15. Wetland ≠ mangrove ≠ coral. Inland marsh, saline (लवणीय) coastal forest, and reef builders are three different ecosystems.
 16. Pneumatophores are mangrove breathing roots for gas exchange in waterlogged saline soil.
 17. Amrit Dharohar (**2023**) is India’s wetland stewardship framing beside Ramsar listing.
-18. Coral bleaching is a stress response, not a synonym for mangrove dieback.
+18. Coral bleaching (प्रवाल विरंजन) is a stress response, not a synonym for mangrove dieback.
 19. Terai grasslands of UP are not Himalayan alpine meadows.
 20. Red Data Book (national BSI/ZSI) is not identical to IUCN Red List categories, even when species appear on both tracks.
-21. World Wetlands Day is February **2**, not Environment Day (5 June).
+21. World Wetlands Day is February **2**, not Environment (पर्यावरण) Day (5 June).
 22. Mangrove restoration schemes do not make landlocked UP a mangrove state — UP links are scheme awareness and river–wetland ecology.
 23. Zooxanthellae live inside coral polyps; losing them bleaches the coral’s colour and energy supply.
 24. Threatened = three IUCN tiers combined. Memorise VU, EN, CR as the band.
@@ -87,7 +87,7 @@ Red Data Book | IUCN Red List Categories | Wetlands | Mangroves | Coral Reefs | 
 
 **Identity:** National endangered-species catalogue | BSI plants | ZSI animals | Kolkata HQ | ≠ IUCN Red List
 
-- A **Red Data Book** lists **endangered, rare, and threatened species** of a country or region — "red" signals conservation urgency.
+- A **Red Data Book** lists **endangered, rare, and threatened species (संकटग्रस्त प्रजातियां)** of a country or region — "red" signals conservation urgency.
 - In **India**, **BSI (Botanical Survey of India)** publishes the **Red Data Book of Indian Plants**.
 - **ZSI (Zoological Survey of India)** publishes the **Red Data Book of Indian Animals**.
 - Both **BSI and ZSI** are headquartered in **Kolkata**.
@@ -110,11 +110,11 @@ Red Data Book | IUCN Red List Categories | Wetlands | Mangroves | Coral Reefs | 
 
 **Identity:** 9 categories | Threatened = VU+EN+CR | IUCN Gland | Assesses risk ≠ CITES trade
 
-- The **IUCN Red List** assigns assessed species to **nine categories** based on population, decline rate, range, and extinction probability.
+- The **IUCN Red List** assigns assessed species to **nine categories** based on population (जनसंख्या), decline rate, range, and extinction probability.
 - **Extinct (EX):** No reasonable doubt the last individual has died.
 - **Extinct in the Wild (EW):** Survives only in **captivity, cultivation, or seed banks** — no viable wild population.
-- **Critically Endangered (CR):** Extremely high extinction risk — e.g., **gharial**, **Great Indian Bustard**.
-- **Endangered (EN):** Very high risk — e.g., **Gangetic dolphin**, **tiger** (improved from CR in some assessments).
+- **Critically Endangered (CR) (अति संकटग्रस्त):** Extremely high extinction risk — e.g., **gharial**, **Great Indian Bustard**.
+- **Endangered (EN) (लुप्तप्राय):** Very high risk — e.g., **Gangetic dolphin**, **tiger** (improved from CR in some assessments).
 - **Vulnerable (VU):** High risk but lower urgency than EN/CR — e.g., **sloth bear**.
 - **Near Threatened (NT):** Close to qualifying as threatened but not yet.
 - **Least Concern (LC):** Widespread, low extinction risk.
@@ -145,13 +145,13 @@ Red Data Book | IUCN Red List Categories | Wetlands | Mangroves | Coral Reefs | 
 **Identity:** Ramsar 1971 | Wise Use | 2 February | UP Ramsar geography trap
 
 - **Wetlands** are ecosystems where **water saturates the soil** — marshes, swamps, bogs, floodplains, lake margins — permanent or seasonal.
-- They are among the **most productive ecosystems**, providing flood control, groundwater recharge, water purification, fisheries, and migratory bird habitat.
-- The **Ramsar Convention (1971)** promotes **conservation and wise use** of wetlands. **World Wetlands Day = 2 February**.
+- They are among the **most productive ecosystems**, providing flood control, groundwater recharge, water purification, fisheries, and migratory bird habitat (वास स्थान).
+- The **Ramsar Convention (1971)** (रामसर कन्वेंशन) promotes **conservation and wise use** of wetlands. **World Wetlands Day = 2 February**.
 - A **Ramsar Site** is a wetland of **international importance** nominated by the contracting country — separate from WPA national park status.
 - **India** has **75+ Ramsar sites** (2024 milestone). **Amrit Dharohar Scheme (2023)** supports wetland conservation and livelihoods.
-- **UP Ramsar sites:Sarsai Nawar** (Etawah), **Samaspur Bird Sanctuary** (Raebareli), **Nawabganj** (Unnao), **Upper Ganga River**, **Bakhira**, **Haiderpur**, **Parvati Agra Bird Sanctuary**.
+- **UP Ramsar sites:Sarsai Nawar** (Etawah (इटावा)), **Samaspur Bird Sanctuary** (Raebareli), **Nawabganj** (Unnao), **Upper Ganga River**, **Bakhira**, **Haiderpur**, **Parvati Agra Bird Sanctuary**.
 - **NOT in UP:Rudrasagar Lake** = **Tripura**. **Sultanpur National Park** = **Gurugram, Haryana**. Both are Ramsar sites outside UP.
-- **Threats:** drainage for agriculture, pollution (eutrophication), invasive species (**water hyacinth** chokes UP ponds), hydrological alteration.
+- **Threats:** drainage for agriculture, pollution (eutrophication (सुपोषण)), invasive species (आक्रामक विदेशी प्रजाति) (**water hyacinth** chokes UP ponds), hydrological alteration.
 
 **PYQ — UPPCS Prelims 2025, Q58**
 
@@ -175,7 +175,7 @@ D. 1 and 2
 
 | Type | India example |
 |------|---------------|
-| Freshwater marsh | Keoladeo Ghana |
+| Freshwater marsh | Keoladeo (केवलादेव) Ghana (घन) |
 | Riverine wetland | Upper Ganga (UP) |
 | High-altitude wetland | Chandra Taal, Tso Moriri |
 | Coastal/mangrove wetland | Sundarbans |
@@ -191,13 +191,13 @@ D. 1 and 2
 - **Mangroves** are **salt-tolerant** trees and shrubs growing in **intertidal mudflats** of tropical and subtropical coasts.
 - **Pneumatophores** (vertical aerial breathing roots) and **prop roots** (Rhizophora) enable gas exchange in waterlogged anaerobic soil.
 - **Viviparous germination:** seeds germinate **while attached to the parent tree** and drop as ready seedlings (propagules).
-- **Ecological roles:** coastal protection against cyclones/tsunamis, fish nursery grounds, sediment trapping, shoreline stability, **blue carbon** sequestration.
+- **Ecological roles:** coastal protection against cyclones/tsunamis, fish nursery grounds, sediment trapping, shoreline stability, **blue carbon** (नीला कार्बन) sequestration.
 - Mangroves act as a **safety hedge** because trees **do not get uprooted easily** — they have **extensive, deep root systems** (not because of a wide uninhabited buffer alone).
-- **Coastal Odisha** is India’s most cyclone-prone Bay of Bengal coast; large mangrove loss in the **Mahanadi delta** increases cyclone risk (classic A/R pair).
+- **Coastal Odisha** is India’s most cyclone-prone Bay of Bengal coast; large mangrove loss in the **Mahanadi (महानदी) delta (डेल्टा)** increases cyclone risk (classic A/R pair).
 - **Sundarbans** (West Bengal + Bangladesh) is the **largest mangrove forest** — **Sundari** tree is the flagship associate; royal Bengal tiger and estuarine crocodile.
 - **Bhitarkanika** (Kendrapara, Odisha) sits on the **Brahmani–Baitarni** delta — **not** Vansadhara–Subarnarekha, and **not** West Bengal. Ramsar site (**2002**).
-- **Coringa** mangrove (Andhra Pradesh) lies in the **Godavari** delta — do not confuse with Coondapur/Honnavar (Karnataka coast names).
-- Other Indian mangrove areas: **Pichavaram** (TN), **Gulf of Kutch / Khambhat** (Gujarat), **Andaman** coasts, **Goa** (e.g. Chorao protected mangrove).
+- **Coringa** mangrove (Andhra Pradesh) lies in the **Godavari** (गोदावरी) delta — do not confuse with Coondapur/Honnavar (Karnataka coast names).
+- Other Indian mangrove areas: **Pichavaram** (TN), **Gulf of Kutch / Khambhat** (Gujarat), **Andaman** (अंडमान) coasts, **Goa** (गोवा) (e.g. Chorao protected mangrove).
 - Mangrove area rank (ISFR 2021 style): **West Bengal > Gujarat > Andaman & Nicobar (~616–617 km²) > Andhra Pradesh**.
 - **Andaman & Nicobar** uniquely combine **mangrove + evergreen + deciduous** forests in one geography.
 - **UP is landlocked** — no natural mangrove coast; questions test national ecology and schemes.
@@ -233,14 +233,14 @@ D. Only 1
 
 ## 21.5 Coral Reefs
 
-**Identity:** CaCO₃ polyps + zooxanthellae | Warm shallow seas | Bleaching = heat | India four reef regions
+**Identity:** CaCO₃ polyps + zooxanthellae | Warm shallow seas | Bleaching = heat | India four (चातुर्याम) reef regions
 
 - **Coral reefs** are underwater **calcium carbonate structures** built by **coral polyps** (Cnidaria) in warm, shallow, clear seas.
 - **Zooxanthellae** (symbiotic dinoflagellate algae) live inside coral tissue and supply up to **90% of coral energy** via photosynthesis.
 - **Coral bleaching:** under stress (especially **high temperature**), corals **expel zooxanthellae** and turn white. Prolonged stress causes mortality.
 - Growth needs warm water (**18–30°C**), shallow depth (**<30 m** for light), low turbidity, normal salinity.
 - **Reef types:fringing** (attached to coast), **barrier** (lagoon between reef and shore), **atoll** (ring around submerged volcano).
-- **India's coral reef areas:Gulf of Mannar** (first marine biosphere reserve), **Lakshadweep**, **Andaman & Nicobar**, **Gulf of Kutch** (northernmost Indian reefs).
+- **India's coral reef areas:Gulf of Mannar** (first marine biosphere reserve (जैवमंडल आरक्षित क्षेत्र)), **Lakshadweep** (लक्षद्वीप), **Andaman & Nicobar**, **Gulf of Kutch** (northernmost Indian reefs).
 - **Threats:** ocean warming (primary bleaching driver), acidification, sedimentation, destructive fishing, pollution.
 
 **PYQ — UPPCS Prelims 2024, Q19**
@@ -270,11 +270,11 @@ D. Decrease of 4°C in Indian Ocean
 **Identity:** Grass-dominated | Fire + grazing | Terai UP | Dudhwa barasingha | Kaziranga rhino
 
 - **Grasslands** are ecosystems **dominated by grasses** with few trees — maintained by **grazing, fire, and climate**.
-- **Tropical savanna:** warm climate, wet-dry seasons, scattered trees — Indian **semi-arid Deccan** and **Vidarbha**.
+- **Tropical savanna (सवाना):** warm climate, wet-dry seasons, scattered trees — Indian **semi-arid Deccan (दक्कन)** and **Vidarbha**.
 - **Terai grasslands (UP):** Himalayan foothills with **tall elephant grass** (Saccharum) and sal forest mosaic. **Dudhwa NP** protects tiger, rhino, **barasingha (swamp deer)**.
 - **Floodplain grassland:Kaziranga** (Assam) — tall grass supports one-horned rhino.
 - **Alpine meadow:** above **~3,500 m treeline** in Himalaya — short summer herb growth.
-- **Shola-grassland mosaic (Western Ghats):** montane grass patches alternating with shola forest — Nilgiri tahr habitat.
+- **Shola-grassland mosaic (Western Ghats (पश्चिमी घाट)):** montane grass patches alternating with shola forest — Nilgiri (नीलगिरि) tahr habitat.
 - **Threats:** conversion to cropland, overgrazing, invasive woody species (lantana), fire suppression.
 
 | Type | Location | Key species |
@@ -284,7 +284,7 @@ D. Decrease of 4°C in Indian Ocean
 | Semi-arid savanna | Deccan | Blackbuck |
 | Alpine meadow | High Himalaya | Medicinal herbs |
 
-> **Logic:** Terai = UP grassland-forest mosaic**. Puszta = **Hungary** (world geography distractor), not Indian grassland.
+> **Logic:** Terai = UP grassland-forest mosaic**. Puszta (पुस्ज़टा) = **Hungary** (world geography distractor), not Indian grassland.
 
 ---
 
@@ -295,10 +295,10 @@ D. Decrease of 4°C in Indian Ocean
 - The **Himalayan ecosystem** spans from tropical foothills to **nival (permanent snow) zone** — biodiversity changes with **altitude and climate**.
 - **Altitudinal vegetation belts** (general sequence upward): **Tropical** (<1,000 m — sal, shisham) → **Subtropical** (chir pine) → **Temperate** (deodar, fir) → **Sub-alpine** (rhododendron) → **Alpine meadow** → **Nival** (>4,500 m — lichens, snow).
 - Temperature drops roughly **6.5°C per 1,000 m** (lapse rate), driving vegetation zonation.
-- **Flagship fauna:** Terai/foothills — elephant, tiger; mid-Himalaya — musk deer, monal; high Himalaya — **snow leopard**, blue sheep.
-- **Trans-Himalaya** (Ladakh/Spiti rain-shadow): cold desert, sparse vegetation — radically different from southern wet slopes.
-- Himalayas are the **source of perennial rivers** (Ganga, Yamuna, Brahmaputra tributaries) — snow and glacier melt feeds base flow.
-- **UP link:** Terai and Shivalik foothills (Dudhwa) form the transition between Gangetic plain and Himalaya.
+- **Flagship fauna (प्राणीजात):** Terai/foothills — elephant, tiger; mid-Himalaya — musk deer, monal; high Himalaya — **snow leopard**, blue sheep.
+- **Trans-Himalaya** (Ladakh (लद्दाख)/Spiti rain-shadow): cold desert, sparse vegetation — radically different from southern wet slopes.
+- Himalayas are the **source of perennial rivers** (Ganga, Yamuna (यमुना), Brahmaputra (ब्रह्मपुत्र) tributaries) — snow and glacier melt feeds base flow.
+- **UP link:** Terai and Shivalik (शिवालिक) foothills (Dudhwa) form the transition between Gangetic plain and Himalaya.
 
 **PYQ — UPPCS Prelims 2025, Q21**
 
@@ -315,7 +315,7 @@ D. Both true; R explains A
 
 <details><summary>Show answer</summary>
 
-**Ans: D** — Altitude-driven climate change explains vegetation zonation — standard NCERT chain.
+**Ans: D** — Altitude-driven climate change (जलवायु परिवर्तन) explains vegetation zonation — standard NCERT chain.
 
 </details>
 
@@ -338,7 +338,7 @@ D. Both true; R explains A
 - **Neritic zone** (continental shelf, **0–200 m**) has the **highest fisheries productivity** — light, nutrients, upwelling.
 - **Pelagic zone** = open ocean water; **benthic zone** = seafloor organisms.
 - **Euphotic zone** (0–200 m) allows photosynthesis; **aphotic** zone is dark.
-- **Upwelling** (Arabian Sea west coast during SW monsoon) brings nutrient-rich deep water — supports sardines, mackerel.
+- **Upwelling** (Arabian Sea west coast during SW monsoon (दक्षिण-पश्चिम)) brings nutrient-rich deep water — supports sardines, mackerel.
 - **Estuaries** (river meets sea) are highly productive nurseries but pollution-sensitive.
 - **India:~7,516 km coastline**, **Arabian Sea** (west) and **Bay of Bengal** (east), EEZ ~2.02 million km².
 - **Gangetic dolphin** is a **freshwater river** mammal — **NOT marine** — common trap.
@@ -346,7 +346,7 @@ D. Both true; R explains A
 
 | Zone | Character | Productivity |
 |------|-----------|--------------|
-| Intertidal | Tide-exposed shore | Moderate |
+| Intertidal | Tide-exposed shore | Moderate (नरम दल) |
 | Neritic | Continental shelf | **High** |
 | Pelagic | Open ocean | Low–moderate |
 | Benthic | Seafloor | Variable |

@@ -56,7 +56,7 @@ D. Governor
 
 ## Consolidated — 30 Must-Score Facts
 
-1. **Article 79**: Parliament of the Union = the **President** + **Rajya Sabha** + **Lok Sabha**. The President is an integral part of Parliament even though he sits in neither House.
+1. **Article 79**: Parliament of the Union = the **President** + **Rajya Sabha** (राज्यसभा) + **Lok Sabha** (लोकसभा). The President is an integral part of Parliament even though he sits in neither House.
 2. Rajya Sabha maximum under **Article 80** is **250** (**238** States/UTs + **12** nominated). Present strength is **245** (**233 + 12**). Seats follow the **Fourth Schedule** and are **not** equal per State.
 3. Rajya Sabha members are elected by **elected MLAs** through **PR-STV**. Term is **six years**; **one-third retire every two years**. The House is **never dissolved**.
 4. The President nominates **12** members with special knowledge in **literature, science, art, or social service**. **Sport** is **not** in that list. Nominated members vote in the **Vice-President** election but **not** in the **President** election.
@@ -64,10 +64,10 @@ D. Governor
 6. High-yield Rajya Sabha seat facts: **Uttar Pradesh 31**, Maharashtra 19, Tamil Nadu 18, Bihar/West Bengal 16; UTs with seats include **Delhi 3**, **Puducherry 1**, **Jammu & Kashmir 4**.
 7. Lok Sabha maximum under **Article 81** is **550** (**530** States + **20** UTs). Present elected strength is **543**. Election is **FPTP**; minimum age is **25**.
 8. Anglo-Indian nomination to the Lok Sabha ended with the **104th Amendment**. SC/ST reservation continues till **25 January 2030**. Seat freeze uses the **1971** census (84th) until the first census after **2026**.
-9. **Uttar Pradesh** has **80** Lok Sabha seats — the highest Leading state in the usual map.
+9. **Uttar Pradesh** (उत्तर प्रदेश) has **80** Lok Sabha seats — the highest Leading state in the usual map.
 10. Qualifications sit in **Article 84**; disqualifications in **Article 102**. Office of profit is decided by the **President on binding Election Commission advice**, not by the Speaker alone.
 11. Dual-membership clocks: both Houses of Parliament — choose within **10 days**; Parliament and a State legislature — Parliament seat goes after **14 days**. *Lily Thomas*: conviction of **two years or more** brings **instant** disqualification.
-12. The **Speaker** is elected by the House (**Article 93**), resigns to the Deputy Speaker, and can be removed by **14 days’** notice plus a majority of **all then members**. The Speaker gives the **Money Bill certificate** and presides over a **joint sitting**.
+12. The **Speaker** is elected by the House (**Article 93**), resigns to the Deputy Speaker, and can be removed by **14 days’** notice plus a majority of **all then members**. The Speaker gives the **Money Bill certificate** and presides over a **joint sitting** (संयुक्त बैठक).
 13. The **Vice-President** is *ex-officio* **Chairman** of the Rajya Sabha and is **not a member**. The Deputy Chairman is elected **from among** Rajya Sabha members. **Pro Tem Speaker** is appointed by the **President**.
 14. Sessions under **Article 85**: Budget, Monsoon, Winter; gap between two sittings of a House must not exceed **six months**. **Adjournment** (स्थगन) ends a sitting; **prorogation** (सत्रावसान) ends a session (Bills survive); **dissolution** (विघटन) ends the Lok Sabha’s life.
 15. **Quorum** (गणपूर्ति / कोरम) is **one-tenth** (1/10) of total membership (**Article 100**). A **lame-duck** session (पंगु सत्र) is the last sitting of an outgoing Lok Sabha after a new House has been elected.
@@ -205,7 +205,7 @@ D. Only 1
 
 ### Special powers of the Rajya Sabha (which the Lok Sabha does not have)
 
-- Under **Art. 249**, the Rajya Sabha may pass a resolution, by a majority of **not less than two-thirds of members present and voting**, authorising Parliament to legislate on a **State List** subject in the **national interest**.
+- Under **Art. 249**, the Rajya Sabha may pass a resolution, by a majority of **not less than two-thirds of members present and voting**, authorising Parliament to legislate on a **State List** (राज्य सूची) subject in the **national interest**.
 - A law passed under Art. 249 remains in force for **one year**, and it can be **renewed** any number of times by a fresh resolution.
 - Under **Art. 250**, while a Proclamation of Emergency is in operation, Parliament may legislate on any State List matter for the whole or any part of India; such a law expires **six months** after the Emergency ends (unless earlier repealed).
 - Under **Art. 252**, Parliament may legislate for **two or more States** by their consent, and other States may later **adopt** that law.
@@ -514,7 +514,7 @@ A person is disqualified from being a member of either House under Art. **102** 
 - The disqualification for the 2-year conviction head generally runs for **6 years from release**.
 
 **Who decides**
-- Disqualification under the **Art. 102 heads** — office of profit, insolvency, citizenship, RPA grounds — is decided by the **President**, acting on the **binding opinion** of the **Election Commission** (Art. **103**).
+- Disqualification under the **Art. 102 heads** — office of profit, insolvency, citizenship, RPA grounds — is decided by the **President**, acting on the **binding opinion** of the **Election Commission** (निर्वाचन आयोग) (Art. **103**).
 - Disqualification under the **Tenth Schedule** (defection) is decided by the **Speaker or Chairman**, subject to **judicial review** (*Kihoto Hollohan*, 1992).
 
 ### Office of Profit

@@ -4,13 +4,13 @@
 
 > **Sources:** UKPCS relief/thrust keys, NCERT Himalayan division vocabulary.  
 > **High-yield 2025:** MBT–MCT zone (Q101) · physiography south→north (Q110).  
-> **National twin:** Shiwalik sediments → parent [Mountains & Hills](../01_Indian_Physical_Geography_Mountains_Hills.md) (UKPCS Q84).
+> **National twin:** Shiwalik (शिवालिक) sediments → parent [Mountains & Hills](../01_Indian_Physical_Geography_Mountains_Hills.md) (UKPCS Q84).
 
 ---
 
 ## Current Affairs (this topic)
 
-- Peak / glacier / Char Dham corridor news can refresh district tags (Nanda Devi–Chamoli, Tehri dam landscape).
+- Peak / glacier / Char Dham corridor news can refresh district tags (Nanda Devi (नंदा देवी)–Chamoli (चमोली), Tehri (टिहरी) dam (टिहरी बांध) landscape).
 - Keep MBT–MCT zone wording stable — mismatch stems recycle every year.
 
 ---
@@ -19,15 +19,15 @@
 
 | Head | Correct |
 |------|---------|
-| Location | Central Himalaya; between **Himachal** (W), **Nepal/Tibet** (E/N), **UP plains** (S) |
+| Location | Central Himalaya (हिमालय); between **Himachal** (हिमाचल) (W), **Nepal/Tibet** (E/N), **UP plains** (S) |
 | Lat–long | Roughly **28°43′–31°27′ N** · **77°34′–81°02′ E** |
-| South → north belts | **Tarai → Bhabar → Shiwalik → Dun → Lesser Himalaya → Great Himalaya** (Trans/Tethys farther north) |
+| South → north belts | **Tarai → Bhabar (भाबर) → Shiwalik → Dun (दून) → Lesser Himalaya → Great Himalaya** (Trans/Tethys farther north) |
 | Between MBT and MCT | **Lesser Himalayan zone** |
-| South of MBT | **Shiwalik** zone |
+| South of MBT | **Shiwalik** (शिवालिक) zone |
 | North of MCT | **Central crystalline / Higher Himalaya** approach |
-| Duns | Longitudinal valleys in Shiwalik belt (e.g. Dehradun) |
-| Highest peak | **Nanda Devi** (~**7816–7817 m**, **Chamoli**); **Kamet** (~**7756 m**) next among major UK peaks |
-| Divisions | **Garhwal** (west) · **Kumaon** (east) |
+| Duns | Longitudinal valleys in Shiwalik belt (e.g. Dehradun (देहरादून)) |
+| Highest peak | **Nanda Devi** (नंदा देवी) (~**7816–7817 m**, **Chamoli** (चमोली)); **Kamet** (कामेत) (~**7756 m**) next among major UK peaks |
+| Divisions | **Garhwal** (गढ़वाल) (west) · **Kumaon** (कुमाऊँ) (east) |
 
 ---
 
@@ -56,7 +56,7 @@
 
 ## 1.1 Geographical location
 
-**Identity:** Uttarakhand | Central Himalaya of India.
+**Identity:** Uttarakhand (उत्तराखंड) | Central Himalaya of India.
 
 - Uttarakhand occupies the central Himalayan sector of India.
 - Latitude runs roughly from **28°43′ N to 31°27′ N**.
@@ -64,7 +64,7 @@
 - **Himachal Pradesh** borders the state on the west.
 - **Nepal** lies on the eastern frontier.
 - The Tibetan frontier lies on the north.
-- **Uttar Pradesh** plains form the southern neighbour.
+- **Uttar Pradesh** (उत्तर प्रदेश) plains form the southern neighbour.
 - The state therefore links Indo-Gangetic plains on the south with high Himalayan and Tibetan frontiers on the north.
 - This location shapes glacier-fed rivers.
 - It also shapes seismic sensitivity and pilgrimage–tourism geography.
@@ -73,16 +73,16 @@
 
 ## 1.2 Garhwal and Kumaon
 
-**Identity:** Two historic–administrative divisions | Garhwal west | Kumaon east.
+**Identity:** Two historic (ऐतिहासिक)–administrative divisions | Garhwal west | Kumaon east.
 
 - **Garhwal** is the western hill division of the state.
 - Garhwal districts include Dehradun.
-- Garhwal districts also include Tehri, Uttarkashi, Chamoli, Rudraprayag, and Pauri with related hill tehsils.
+- Garhwal districts also include Tehri, Uttarkashi (उत्तरकाशी), Chamoli, Rudraprayag (रुद्रप्रयाग), and Pauri (पौड़ी) with related hill tehsils.
 - **Kumaon** is the eastern hill division of the state.
-- Kumaon districts include Nainital.
-- Kumaon districts also include Almora, Bageshwar, Champawat, and Pithoragarh with related hill tehsils.
-- **Haridwar** sits on the southern Tarai edge of this dual map.
-- **Udham Singh Nagar** also sits on that southern Tarai fringe.
+- Kumaon districts include Nainital (नैनीताल).
+- Kumaon districts also include Almora (अल्मोड़ा), Bageshwar (बागेश्वर), Champawat (चंपावत), and Pithoragarh (पिथौरागढ़) with related hill tehsils.
+- **Haridwar** (हरिद्वार) sits on the southern Tarai edge of this dual map.
+- **Udham Singh Nagar** (ऊधम सिंह नगर) also sits on that southern Tarai fringe.
 - Fixing Garhwal versus Kumaon first makes river, peak, and sanctuary placement faster.
 
 ---
@@ -92,21 +92,21 @@
 **Identity:** Foothill-to-crest stack from Tarai to Great Himalaya.
 
 - From the plains northward the full sequence is **Tarai → Bhabar → Shiwalik → Dun valleys → Lesser Himalaya → Great Himalaya**.
-- Direction matters. National plains teaching reads the same belts from the mountain foot **southward** as **Shiwalik → Bhabar → Terai**. Do not reverse either list without checking where the stem starts.
-- Farther north, **Trans-Himalaya / Tethys Himalaya** sits beyond the Great Himalayan crest as a separate structural family.
+- Direction matters. National plains teaching reads the same belts from the mountain foot **southward** as **Shiwalik → Bhabar → Terai (तराई)**. Do not reverse either list without checking where the stem starts.
+- Farther north, **Trans-Himalaya / Tethys Himalaya** sits beyond the Great Himalayan crest as a separate structural (संरचनात्मक) family.
 - Compact four-name lists often read **Tarai → Shiwalik → Lesser Himalaya → Great Himalaya**.
 - Placing Tarai last in a south-to-north list is the usual inversion trap.
-- **Bhabar** is a porous gravel–boulder belt at the Himalayan foot.
+- **Bhabar** (भाबर) is a porous gravel–boulder belt at the Himalayan foot.
 - In the Bhabar, streams often **sink** underground.
 - **Tarai** is the marshy, waterlogged belt south of Bhabar.
 - In the Tarai, groundwater **reappears** and soils support dense cultivation and forest.
 - **Shiwaliks** are young, soft foothills of unconsolidated sediments.
 - Shiwalik slopes are landslide-prone.
 - **Duns** are longitudinal flat-floored valleys interrupting the Shiwalik belt.
-- **Dehradun** is the classic dun example.
+- **Dehradun** (देहरादून) is the classic dun example.
 - **Lesser Himalaya** (Himachal belt) forms the mid-altitude inhabited hill country between the major thrusts.
-- **Great Himalaya** (Himadri) carries the permanent snow line and major peaks.
-- Great Himalayan glaciers feed the Ganga–Yamuna headstreams.
+- **Great Himalaya** (Himadri (हिमाद्रि)) carries the permanent snow line and major peaks.
+- Great Himalayan glaciers feed the Ganga (गंगा)–Yamuna (यमुना) headstreams.
 
 ---
 
@@ -126,17 +126,17 @@
 
 ## 1.5 Major peaks and glaciers
 
-**Identity:** Nanda Devi | Chamoli | about 7816–7817 m | Gangotri–Pindari glacier belt.
+**Identity:** Nanda Devi | Chamoli | about 7816–7817 m | Gangotri (गंगोत्री)–Pindari (पिंडारी) glacier belt.
 
 - **Nanda Devi** is the highest peak among the major Uttarakhand peaks usually listed, at about **7816–7817 m**.
 - **Nanda Devi** stands in **Chamoli** district in the Garhwal Himalaya.
 - **Kamet** is another major high peak at about **7756 m** in the Chamoli / northern Garhwal high belt.
-- Named Garhwal crest peaks also include **Trisul**, **Dunagiri**, and **Chaukhamba**.
-- The **Gangotri** glacier feeds the **Bhagirathi** headstream.
-- The **Pindari** glacier belt feeds the **Pindar** toward the Alaknanda prayag map.
-- Other coaching glacier names (Milam, Kafni, and related Kumaon–Garhwal ice fields) belong to the same high-crest water story.
+- Named Garhwal crest peaks also include **Trisul**, **Dunagiri**, and **Chaukhamba** (चौखंबा).
+- The **Gangotri** glacier feeds the **Bhagirathi** (भागीरथी) headstream.
+- The **Pindari** (पिंडारी) glacier belt feeds the **Pindar** (पिंडर) toward the Alaknanda (अलकनंदा) prayag (प्रयाग) map.
+- Other coaching glacier names (Milam (मिलाम), Kafni, and related Kumaon–Garhwal ice fields) belong to the same high-crest water story.
 - High peaks and glaciers supply the Bhagirathi, Alaknanda, and related Himalayan rivers.
-- Alpine meadows and national-park cores of the Nanda Devi / Valley of Flowers belt sit around this crest zone.
+- Alpine meadows and national-park cores of the Nanda Devi / Valley of Flowers (फूलों की घाटी) belt sit around this crest zone.
 - Do not place Nanda Devi in Uttarkashi alone — the usual district tag is **Chamoli**.
 
 ---
@@ -173,7 +173,7 @@ D. Great Himalaya, Tarai, Lesser Himalaya, Shiwalik
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Direction of reading is the trap; Tarai is at the southern edge.
+**Logic:** Direction of reading (रीडिंग) is the trap; Tarai is at the southern edge.
 
 **Ans: C (Series B provisional key).** Plains-edge Tarai first, then Shiwalik, Lesser Himalaya, Great Himalaya.
 

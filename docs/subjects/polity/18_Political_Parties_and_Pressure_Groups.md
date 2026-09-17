@@ -30,7 +30,7 @@ National Parties | Regional Parties | Recognition of Political Parties | Symbols
 
 1. The Constitution barely names parties. The main hooks are Article **19(1)(c)** (association), the **Tenth Schedule** (defection), and Article **324** (elections). Parties were largely **extra-constitutional** until the **52nd** Amendment.
 2. Registration of a political party is under **section 29A** of the Representation of the People Act, 1951 (Registered Unrecognised Political Party). **Recognition** as a National or State party is under the Election Symbols Order **1968**. Do not merge the two steps.
-3. A party becomes a **National** party by any one route: **6%** votes in **four** States plus **four** Lok Sabha seats; or **2%** of Lok Sabha seats from at least **three** States; or State-party status in **four** States.
+3. A party becomes a **National** party by any one route: **6%** votes in **four** (चातुर्याम) States plus **four** Lok Sabha seats; or **2%** of Lok Sabha seats from at least **three** States; or State-party status in **four** States.
 4. A party becomes a **State** party in that State by any one route: **6%** votes plus **two** MLAs or **one** MP; or **3%** of Assembly seats or **three** seats (whichever is higher); or **one** Lok Sabha seat per **25** Assembly seats; or **8%** of votes even with zero seats.
 5. As of 2024–26 there are **six** national parties: **AAP** (broom), **BSP** (elephant), **BJP** (lotus), **CPI(M)** (hammer-sickle-star), **INC** (hand), and **NPP** (book). **CPI** lost national status in **2023**. **NPP** was the first north-eastern national party (**2019**).
 6. Reserved symbols go to recognised parties. Free symbols go to unrecognised parties and independents.
@@ -298,7 +298,7 @@ D. I, II, III, IV
 
 ## Hung Parliament / Assembly
 
-**No party** has a majority of **total membership** on its own.
+**No party** has a majority of **total membership** (सदन की कुल सदस्य संख्या का) on its own.
 
 - LS examples: **1989**, **1996**, **1998**, **2004** (UPA assembled a majority), **2024** (BJP hung, NDA not).
 - Who is invited: President (Art. **75**) / Governor (**164**) calls whoever is **most likely to command** confidence — often the **largest** party or a **pre-poll** alliance.
@@ -371,7 +371,7 @@ D. I, II, III, IV
 
 - First union: **Madras Labour Union, 1918** — B.P. Wadia.
 - Gandhi stream: **Ahmedabad Textile Labour Association (Majoor Mahajan), 1920** — Anasuya Sarabhai.
-- First **central** federation: **AITUC, 31 Oct 1920**, Bombay. First president **Lala Lajpat Rai**.
+- First **central** federation: **AITUC, 31 Oct 1920**, Bombay. First president **Lala Lajpat Rai** (लाला लाजपत राय).
 - ILO: India founding member **1919**.
 - Right to form unions: Art. **19(1)(c)**. **Strike is not a FR** (*All India Bank Employees*).
 - 42nd: **43A** workers in management (DPSP).

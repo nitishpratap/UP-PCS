@@ -1,9 +1,9 @@
-# Topic 3 — Chand Dynasty of Kumaon
+# Topic 3 — Chand Dynasty of Kumaon (कुमाऊँ)
 
-### ★ UKPCS state card (Unit 1 — History and Culture of Uttarakhand)
+### ★ UKPCS state card (Unit 1 — History (इतिहास) and Culture of Uttarakhand (उत्तराखंड))
 
 > **Sources:** Kumaon chronicle tradition, Atkinson’s Himalayan Gazetteer, Dr. Badridatt Pandey's *Kumaon ka Itihas*, UKPCS PYQ stems (Char Aal 2025, Garud title, 36 Rakam 32 Kalam, Battle of Hawalbagh).  
-> **Pair with:** [Kattyuri Dynasty](01_Kattyuri_Dynasty.md) (predecessor house) · [Parmar of Garhwal](02_Parmar_Dynasty_of_Garhwal.md) (western rival) · [Gorkha Rule](../../mordern%20india/uttarakhand/01_Gorkha_Invasion_and_Rule.md)
+> **Pair with:** [Kattyuri Dynasty](01_Kattyuri_Dynasty.md) (predecessor house) · [Parmar of Garhwal (गढ़वाल)](02_Parmar_Dynasty_of_Garhwal.md) (western rival) · [Gorkha Rule](../../mordern%20india/uttarakhand/01_Gorkha_Invasion_and_Rule.md)
 
 ---
 
@@ -12,14 +12,14 @@
 | Head | Key Fact |
 | :--- | :--- |
 | **Dynasty Name** | **Chand** dynasty of Kumaon (emblem: **Garud**) |
-| **Founder** | **Somchand** (c. 10th/11th cent. legend from Jhusi/Prayag) at **Champawat (Rajbunga Fort)** |
-| **Four Fort Guards** | **Char Aal** clans: **Karki, Bora, Taragi (Tadagi), Chaudhary** (UKPCS 2025 Q70) |
-| **First Sultanate Contact** | **Garud Gyan Chand** (1374–1419) — visited Firoz Shah Tughlaq; granted Terai & title *Garud* |
+| **Founder** | **Somchand** (c. 10th/11th cent. legend from Jhusi/Prayag (प्रयाग)) at **Champawat (चंपावत) (Rajbunga Fort)** |
+| **Four (चातुर्याम) Fort Guards** | **Char Aal** clans: **Karki, Bora (बोरा), Taragi (Tadagi), Chaudhary** (UKPCS 2025 Q70) |
+| **First Sultanate Contact** | **Garud Gyan Chand** (1374–1419) — visited Firoz Shah (फ़िरोज़ शाह) Tughlaq (फिरोज शाह तुगलक); granted Terai (तराई) & title *Garud* |
 | **12-Year War Hero** | **Bharti Chand** (1437–1477) — ended tributary submission to Doti (Nepal); origin of *Nayak caste* |
-| **Capital Shift to Almora** | **Balo Kalyan Chand** (1560–1568) — completed shift to Almora in **1563** (Alamnagar/Rajapur) |
-| **Contemporary of Akbar** | **Rudra Chand** (1568–1597) — met Akbar at Lahore (1588); built **Malla Mahal**; social rules (*Chauthani*) |
+| **Capital Shift to Almora (अल्मोड़ा)** | **Balo Kalyan Chand** (1560–1568) — completed shift to Almora in **1563** (Alamnagar/Rajapur) |
+| **Contemporary of Akbar (अकबर)** | **Rudra Chand** (1568–1597) — met Akbar at Lahore (1588); built **Malla Mahal (महाल)**; social rules (*Chauthani*) |
 | **Tibet Conqueror / Pilgrimages** | **Baz Bahadur Chand** (1638–1678) — conquered Taklakot fort; protected Kailash-Mansarovar; *Ghyoo-kar* |
-| **"Golden Age" of Kumaon** | **Jagat Chand** (1708–1720) — conquered Garhwal (Srinagar); donated Srinagar tax to Badrinath |
+| **"Golden Age" of Kumaon** | **Jagat Chand** (1708–1720) — conquered Garhwal (Srinagar); donated Srinagar tax to Badrinath (बद्रीनाथ) |
 | **"Tughlaq of Kumaon"** | **Devi Chand** (1720–1726) — eccentric financial waste, squandered treasury |
 | **Rohilla Invasion (1743–44)** | **Kalyan Chand IV** — invaded by Ali Muhammad Khan; Almora sacked; aided by Garhwal king Pradeep Shah |
 | **Kingmaker / "Warwick"** | **Harsh Dev Joshi** — played rival factions; invited Lalit Shah and later Gorkhas to Kumaon |
@@ -31,11 +31,11 @@
 ## Must-Score Facts (High-Yield UKPCS)
 
 1. **Char Aal:** Somchand appointed four guard clans — **Karki, Bora, Taragi, Chaudhary** to guard the four gates of Rajbunga fort at Champawat.
-2. **Capital Movement:** Founded at **Champawat** (Kali Kumaon) $\rightarrow$ Shift initiated by **Bhishm Chand** (Khagmara fort) $\rightarrow$ Completed by **Balo Kalyan Chand** to **Almora (1563)**.
-3. **Delhi Sultanate Ties:** **Garud Gyan Chand** was the first Chand ruler to visit the Delhi imperial court. Sultan Firoz Shah Tughlaq conferred the royal title *Garud* upon seeing him shoot down a hawk.
-4. **Mughal Ties:** **Rudra Chand** visited Akbar at Lahore (1588); Akbar granted the 84-Mal (Terai pargana) as a farman. Rudra Chand authored *Syenika Shastra* (hawk falconry) and *Traivarnika Dharma Nirnaya*.
-5. **Taklakot / Tibet Campaign:** **Baz Bahadur Chand** allied with Shah Jahan and Aurangzeb, invaded Western Tibet, captured Taklakot (Purang), and secured the Kailash-Mansarovar pilgrim routes. He brought the idol of **Nanda Devi** from Garhwal's Badhangarh to Kot Almora.
-6. **Battle of Hawalbagh (1790):** Gorkha army under Amar Singh Thapa, Joga Malla, and Hastidal Chautariya routed Mahendra Chand and Lal Singh, ending 800+ years of Chand rule in Kumaon.
+2. **Capital Movement:** Founded at **Champawat** (चंपावत) (Kali (काली) Kumaon) $\rightarrow$ Shift initiated by **Bhishm Chand** (Khagmara fort) $\rightarrow$ Completed by **Balo Kalyan Chand** to **Almora (1563)**.
+3. **Delhi Sultanate (दिल्ली सल्तनत) Ties:** **Garud Gyan Chand** was the first Chand ruler to visit the Delhi imperial court. Sultan Firoz Shah Tughlaq conferred the royal title *Garud* upon seeing him shoot down a hawk.
+4. **Mughal (मुग़ल) Ties:** **Rudra Chand** visited Akbar at Lahore (1588); Akbar granted the 84-Mal (Terai pargana (परगना)) as a farman (फ़रमान). Rudra Chand authored *Syenika Shastra* (hawk falconry) and *Traivarnika Dharma Nirnaya*.
+5. **Taklakot / Tibet Campaign:** **Baz Bahadur Chand** allied with Shah Jahan (शाहजहाँ) and Aurangzeb (औरंगजेब), invaded Western Tibet, captured Taklakot (Purang), and secured the Kailash-Mansarovar pilgrim routes. He brought the idol of **Nanda Devi** (नंदा देवी) from Garhwal's Badhangarh to Kot Almora.
+6. **Battle of Hawalbagh (1790):** Gorkha army (सेना) under Amar Singh Thapa, Joga Malla, and Hastidal Chautariya routed Mahendra Chand and Lal Singh, ending 800+ years of Chand rule in Kumaon.
 
 ---
 
@@ -70,13 +70,13 @@ Mahendra Chand (Defeated at Battle of Hawalbagh 1790 by Gorkhas)
 | Ruler | Specific Historical & Prelims Details |
 | :--- | :--- |
 | **Somchand** | Founder of dynasty. Built **Rajbunga Fort** at Champawat. Established rural local government: appointed **Burha** and **Sayana** (village elders/heads), Panchayats, and the **Char Aal** military guard clans. |
-| **Garud Gyan Chand** (1374–1419) | First Chand ruler to establish diplomatic contact with Delhi Sultanate (Firoz Shah Tughlaq). Conferred the title **Garud**; made the eagle his royal heraldic seal. Wrested Terai-Bhabhar from nomadic plundering. |
+| **Garud Gyan Chand** (1374–1419) | First Chand ruler to establish diplomatic contact with Delhi Sultanate (Firoz Shah Tughlaq). Conferred the title **Garud**; made the eagle his royal heraldic seal (मुद्रा). Wrested Terai-Bhabhar from nomadic plundering. |
 | **Bharti Chand** (1437–1477) | Launched an epic **12-year war** against the Raiyka kings of Doti (Nepal) to abolish tributary subjugation. Prolonged soldier camps on the frontier led to temporary liaisons, giving birth to the distinct **Nayak caste**. |
 | **Rudra Chand** (1568–1597) | Contemporary of Akbar. Traveled to Lahore (1588) to pay homage and assist the imperial army against Afghan rebels. Rewarded with the revenue of 84-Mal (Terai). Built **Malla Mahal** fort in Almora. Codified strict caste rituals: categorized Brahmins into **Chauthani** (highest: Joshi, Pant, Pandey, Tiwari) and **Pitiya/Panchbidiya**; appointed **Oliya** Brahmins to predict rain/hailstorms. |
 | **Laxmi Chand** (1597–1621) | Noted for attacking Parmar Garhwal (ruled by Man Shah) 7 times and suffering defeat each time; claimed a minor frontier post on the 8th try (popularly mocked as *Lakhuli Bidal* / timid cat). Built **Lakshmeshwar Garden** and Nur-Bagh. Established two central courts: **Vali** (for high civil disputes) and **Dungi** (military/common court). |
-| **Baz Bahadur Chand** (1638–1678) | Contemporary of Shah Jahan and Aurangzeb. Aided Khalilullah Khan in the Mughal Garhwal campaign (1655). Conquered **Taklakot (Tibet)**, freed the Bhotia merchants, and levied **Ghyoo-kar** (ghee tax) on Tibet trade to finance *Dharmashalas* for Kailash pilgrims. Installed the historic Nanda Devi deity at Almora Fort. |
+| **Baz Bahadur Chand** (1638–1678) | Contemporary of Shah Jahan and Aurangzeb. Aided Khalilullah Khan in the Mughal Garhwal campaign (1655). Conquered **Taklakot (Tibet)**, freed the Bhotia merchants, and levied **Ghyoo-kar** (ghee tax) on Tibet trade (पण्याध्यक्ष) to finance *Dharmashalas* for Kailash pilgrims. Installed the historic (ऐतिहासिक) Nanda Devi deity at Almora Fort. |
 | **Jagat Chand** (1708–1720) | Reigned during the apex of peace and prosperity ("Golden Period" of Chand history). Invaded Garhwal, captured capital Srinagar, forced king Fateh Shah to flee into the hills, and assigned the revenues of Srinagar to the Badrinath shrine. |
-| **Devi Chand** (1720–1726) | Called the **Muhammad bin Tughlaq of Kumaon** due to fanciful military ambitions, lavish grants to sycophants, and a failed project to establish control over Delhi. |
+| **Devi Chand** (1720–1726) | Called the **Muhammad bin Tughlaq (मुहम्मद बिन तुगलक) of Kumaon** due to fanciful military ambitions, lavish grants to sycophants, and a failed project to establish control over Delhi. |
 | **Kalyan Chand IV** (1730–1747) | Sacked by Rohilla Afghan commander **Ali Muhammad Khan** in 1743–1744. Almora temples were plundered. Rescued by Garhwal king Pradeep Shah, who paid the Rohillas 3 lakh rupees to secure their withdrawal. |
 | **Mahendra Chand** (1788–1790) | The 62nd and final independent Chand monarch. In January 1790, two Gorkha armies under Amar Singh Thapa, Joga Malla, and Hastidal Chautariya crushed him at **Hawalbagh** near Almora. |
 
@@ -84,10 +84,10 @@ Mahendra Chand (Defeated at Battle of Hawalbagh 1790 by Gorkhas)
 
 ## Chand Administration & The "36 Rakam 32 Kalam" Tax Matrix
 
-Under the Chands, the state was divided into **Mandal** (provinces) $\rightarrow$ **Pargana** $\rightarrow$ **Patti** $\rightarrow$ **Gaon** (village).
+Under the Chands, the state was divided into **Mandal** (provinces) $\rightarrow$ **Pargana** (परगना) $\rightarrow$ **Patti** $\rightarrow$ **Gaon** (village).
 
 ### Royal Officials
-- **Diwan / Wazir:** Chief administrative adviser.
+- **Diwan / Wazir (वज़ीर):** Chief administrative adviser.
 - **Bhandari:** Chief treasurer and royal storekeeper.
 - **Kotwal / Prahari:** Police and fort security chiefs.
 - **Thokdar / Kameen / Sayana:** Hereditary revenue collectors across a cluster of villages.
@@ -107,7 +107,7 @@ Chand taxation was notorious for having 36 principal taxes (*Rakam*) and 32 cler
 | **Ratan** | Remuneration fee levied to support court astrologers, royal purohits, and almanac makers. |
 | **Kukhyalo** | Cess imposed on rural families keeping poultry and birds. |
 | **Bajad / Bajari** | Professional tax levied on weavers, blacksmiths, and artisans. |
-| **Tand-kar** | Specific tax on handloom weaving frames (*Tand*). |
+| **Tand-kar** | Specific tax on handloom (हथकरघा) weaving frames (*Tand*). |
 | **Mijhari** | Tax levied on low-caste labourers, leather workers, and craftsman households. |
 | **Khor-Dungar** | Pasture and forest grass-grazing tax. |
 | **Ghodiyalo** | Tax for the maintenance and fodder of royal cavalry horses. |

@@ -1,4 +1,4 @@
-# Topic 45 — Environment PYQ Trend Analysis
+# Topic 45 — Environment (पर्यावरण) PYQ Trend Analysis
 ### ★ Revision Meta-File — How UPPCS Actually Tests Environment
 
 > **Purpose:** PYQ-derived intelligence — not a syllabus topic, but a **revision accelerator** after Topics 1–44
@@ -14,18 +14,18 @@
 2. Tagged volume rose from about **12** questions (2018–20 average) to about **17.7** (2023–25 average).
 3. **2023** was the peak tagged year (**25** questions). **2025** stayed strong at **19**.
 4. **2020** and **2024** dips in tagged count still hide cross-subject environment leakage in Economy and Geography.
-5. The hottest topic cluster by frequency is **SDGs and sustainable development**, then **pollution**, then **ecology and ecosystem**.
-6. Climate change, wildlife conservation, biodiversity, biosphere reserves, forests/ISFR, and Ramsar–UP traps also stay hot.
+5. The hottest topic cluster by frequency is **SDGs and sustainable development**, then **pollution**, then **ecology (पारिस्थितिकी) and ecosystem (पारिस्थितिकी तंत्र)**.
+6. Climate change (जलवायु परिवर्तन), wildlife conservation (वन्यजीव संरक्षण), biodiversity, biosphere reserves (जैवमंडल आरक्षित क्षेत्र), forests/ISFR, and Ramsar (रामसर)–UP traps also stay hot.
 7. From **2023–2025**, rising lines include SDGs, wildlife, biodiversity, biosphere, forests, and current schemes such as LiFE and MISHTI.
-8. The **2025** environment paper shifted toward **multi-statement, A/R, Match, and NOT-matched** formats — about two-thirds multi-format.
+8. The **2025** environment paper shifted toward **multi-statement, A/R, Match, and NOT-matched** formats — about two-thirds (ते-भागा) multi-format.
 9. Practice must include two-statement and Assertion–Reason drills, not only one-line date or HQ recall.
 10. 2025 blueprint clusters cover SDGs, current schemes, UP geography traps, ecology indicators, and international reports or funds.
 11. Scheme year traps: **LiFE** idea **COP-26 2021** / launch **June 2022** — not COP-25. **MISHTI** = **2023** Budget — not 2019.
-12. **DPAP = 1973**. India **net zero = 2070**. **GEF = 1991**. **Montreal = ozone**. **Kyoto/Paris = climate**.
+12. **DPAP = 1973**. India **net zero = 2070**. **GEF = 1991**. **Montreal = ozone**. **Kyoto (क्योटो)/Paris = climate**.
 13. UP negative geography repeats: Rudrasagar = Tripura; Sultanpur = Haryana; Nokrek ≠ Manipur; many “UP BR” claims are false.
 14. True environment ROI is higher than tagged count because reports and protected-area facts leak into other GS subjects.
 15. Study ROI priority puts SDGs and UP protected-area traps near the top, then current issues, ecology, climate/pollution, and treaties.
-16. Emissions Gap Report = **UNEP** remains a cross-subject economy–environment fact.
+16. Emissions Gap Report (उत्सर्जन अंतराल रिपोर्ट) = **UNEP** (संयुक्त राष्ट्र पर्यावरण कार्यक्रम) remains a cross-subject economy–environment fact.
 17. Format formula after 2025: prepare heavily for multi-statement and Match/NOT-matched, with a smaller share of pure direct MCQs.
 18. Volume formula for the next attempt: budget about **15–20 tagged** plus a few cross-subject environment hits.
 
@@ -113,10 +113,10 @@
 | Rank | PYQ hits | Your topic file | What UPPCS keeps asking |
 |------|----------|-----------------|-------------------------|
 | 1 | 16 | **15 — SD & Governance** | SDG ↔ goal matching; carrying capacity; India's SDG role; Brundtland/Agenda 21 traps |
-| 2 | 12 | **09/38 — Pollution** | Air/water/soil; AQI; NCAP; smog types; pollution sources |
+| 2 | 12 | **09/38 — Pollution** | Air/water/soil; AQI; NCAP (राष्ट्रीय स्वच्छ वायु कार्यक्रम); smog types; pollution sources |
 | 3 | 11 | **02 — Ecology & Ecosystem** | Energy flow (10% law); lichens; niches; pyramids; ecological balance |
 | 4 | 9 | **10/34 — Climate Change** | Net zero 2070; GHGs; impacts; mitigation vs adaptation |
-| 5 | 8 | **07 — Wildlife Conservation** | Project Tiger; Operation Olivia; vulture crisis; WPA linkages |
+| 5 | 8 | **07 — Wildlife Conservation** | Project Tiger (प्रोजेक्ट टाइगर); Operation Olivia; vulture crisis; WPA linkages |
 
 ### Tier 2 — Rising Fast (2023–25 surge)
 
@@ -124,27 +124,27 @@
 |------------|--------------|--------------|
 | **15 — SDGs** | +9 | SDG 6/13/14/15 mapping; voluntary national review |
 | **07 — Wildlife** | +3 | Species-specific conservation ops |
-| **04 — Biodiversity** | +2 | IUCN categories; endemic; invasive alien |
+| **04 — Biodiversity** | +2 | IUCN (आईयूसीएन) categories; endemic; invasive alien |
 | **26 — Water** | +2 | CGWB groundwater report; river quality |
 | **33 — Biosphere Reserves** | +2 | "NOT in India" negative lists |
-| **08 — Forests** | +2 | ISFR 2023; forest cover change; carbon stock |
+| **08 — Forests** | +2 | ISFR 2023; forest cover (वन आवरण) change; carbon stock |
 | **06/32 — Ramsar & Protected** | +1 | **UP geography negative** — highest trap ROI |
 | **24/44 — Current Issues** | New | LiFE, MISHTI, net zero, microplastics |
 
-### Tier 3 — Moderate but Trap-Heavy
+### Tier 3 — Moderate (नरम दल) but Trap-Heavy
 
 | Topic file | Trap type |
 |------------|-----------|
 | **11/36 — Ozone** | Montreal ≠ Kyoto; CFC statements |
 | **18/42/43 — Intl orgs & treaties** | GEF 1991; Emissions Gap = UNEP; treaty ↔ issue |
-| **16/17 — Org & Laws** | NGT, MoEFCC, EPA, WPA schedules |
-| **40 — Desertification** | DPAP 1973; UNCCD 1994; erosion sequence |
-| **29 — Movements** | Chipko, Appiko, Narmada |
+| **16/17 — Org & Laws** | NGT, MoEFCC (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय), EPA, WPA schedules |
+| **40 — Desertification (मरुस्थलीकरण)** | DPAP 1973; UNCCD 1994; erosion sequence |
+| **29 — Movements** | Chipko (चिपको), Appiko (अप्पिको), Narmada (नर्मदा) |
 | **31 — Environmental Days** | Date ↔ event matching |
 
 ### Tier 4 — Revise Lightly (low standalone frequency)
 
-Acid rain (39), EIA (14), renewable energy detail (22/27), disaster-env (23), global env geography (25) — appear but rarely as primary Environment-tag questions. Cover via cross-links in Tier 1–3 files.
+Acid rain (अम्ल वर्षा) (39), EIA (14), renewable energy (नवीकरणीय ऊर्जा) detail (22/27), disaster-env (23), global env geography (25) — appear but rarely as primary Environment-tag questions. Cover via cross-links in Tier 1–3 files.
 
 ---
 
@@ -190,7 +190,7 @@ Acid rain (39), EIA (14), renewable energy detail (22/27), disaster-env (23), gl
 
 SDG-related questions surged from ~3 (2018–20) to **12+ (2023–25)**. UPPCS now treats SDGs as a **standalone high-weight cluster**, not a footnote under sustainable development.
 
-**Must-know:** SDG 6 (water), 13 (climate), 14 (oceans/blue economy), 15 (land/biodiversity); India's VNR; SDG ↔ goal number matching.
+**Must-know:** SDG 6 (water), 13 (climate), 14 (oceans/blue economy (नीली अर्थव्यवस्था)), 15 (land/biodiversity); India's VNR; SDG ↔ goal number matching.
 
 **Files:** Topic 15 §15.1–15.3; Topic 44 §44.4–44.6.
 
@@ -226,7 +226,7 @@ Examiners systematically plant **wrong launch year** as statement 2:
 | 2025 | Q8 | ISFR 2023 — UP forest cover districts |
 | 2025 | Q58 | Ramsar NOT in UP — **Rudrasagar (Tripura) + Sultanpur (Haryana)** |
 | 2025 | Q90 | NP/sanctuary matching |
-| 2025 | Q144 | Biosphere Reserve NOT in India |
+| 2025 | Q144 | Biosphere Reserve (जैवमंडल आरक्षित क्षेत्र) NOT in India |
 
 **Files:** Topic 32 (critical); Topics 6, 33, 40.
 
@@ -234,13 +234,13 @@ Examiners systematically plant **wrong launch year** as statement 2:
 
 ### Trend 4 — Cross-Subject Environment Leakage
 
-Environment concepts appear outside `Subject: Environment` — especially in **Economy** (reports, green finance), **Geography** (biosphere, climate zones), and **Current Affairs** (new schemes).
+Environment concepts appear outside `Subject: Environment` — especially in **Economy** (reports, green finance (हरित वित्त)), **Geography** (biosphere, climate zones), and **Current Affairs** (new schemes).
 
 | Year | Q# | Subject | Env concept |
 |------|-----|---------|-------------|
 | 2024 | Q6 | Economy | Emissions Gap Report = **UNEP** |
-| 2024 | Q35 | Environment | Kyoto = climate mitigation (Montreal trap) |
-| 2021 | Q125 | Environment | Carbon credit → Kyoto Protocol |
+| 2024 | Q35 | Environment | Kyoto = climate mitigation (जलवायु शमन) (Montreal trap) |
+| 2021 | Q125 | Environment | Carbon credit (कार्बन क्रेडिट) → Kyoto Protocol |
 
 **Rule:** When revising Environment, also scan Economy/Geography PYQs for report ↔ org and treaty ↔ issue questions.
 
@@ -257,10 +257,10 @@ Rising share of questions on **who publishes what** — less "define ecosystem,"
 | **Emissions Gap Report** | **UNEP** | 2024 Q6 |
 | **India State of Forest Report** | **FSI** (MoEFCC) | 2025 Q8 |
 | **Annual Groundwater Quality Report** | **CGWB** | 2025 Q70 |
-| **Human Development Report** | **UNDP** | 2024 Q6 (cross-subject) |
-| **Living Planet Report** | **WWF** | Pattern |
-| **IUCN Red List** | **IUCN** | Pattern |
-| **IPCC Assessment Reports** | **IPCC** | Pattern |
+| **Human Development Report** | **UNDP** (यूएनडीपी) | 2024 Q6 (cross-subject) |
+| **Living Planet Report** | **WWF** (डब्ल्यूडब्ल्यूएफ) | Pattern |
+| **IUCN Red List** | **IUCN** (आईयूसीएन) | Pattern |
+| **IPCC Assessment Reports** | **IPCC** (आईपीसीसी) | Pattern |
 
 **Files:** Topics 41, 42, 16.
 
@@ -280,7 +280,7 @@ Full list of 19 Environment-tagged questions — use as mock-paper template:
 | Q51 | A/R | Sustainable Development | SDGs / Agenda 21 |
 | Q58 | NOT-matched | Protected Areas | Ramsar sites NOT in UP |
 | Q61 | Multi-statement | Ecology | Lichens — bio-indicators |
-| Q62 | NOT-matched | Important Days | World Wildlife Day date |
+| Q62 | NOT-matched | Important Days | World Wildlife Day (विश्व वन्यजीव दिवस) date |
 | Q70 | Direct MCQ | Environmental Reports | CGWB groundwater quality 2024 |
 | Q90 | Match | Protected Areas | NP and wildlife sanctuaries |
 | Q93 | Multi-statement | Conservation / Current | MISHTI mangroves |
@@ -380,7 +380,7 @@ Full list of 19 Environment-tagged questions — use as mock-paper template:
 
 | # | Trap | Correct | PYQ evidence |
 |---|------|---------|--------------|
-| 1 | Montreal Protocol = climate mitigation | Montreal = **ozone/ODS**; Kyoto/Paris = climate | 2024 Q35, 2025 Q45 |
+| 1 | Montreal Protocol (मॉन्ट्रियल प्रोटोकॉल) = climate mitigation | Montreal = **ozone/ODS**; Kyoto/Paris = climate | 2024 Q35, 2025 Q45 |
 | 2 | LiFE proposed at COP-25 Madrid | **COP26 Glasgow 2021**; launched June 2022 | 2025 Q139 |
 | 3 | MISHTI initiated 2019 | **2023–24 Union Budget** | 2025 Q93 |
 | 4 | India net zero by 2050 | **2070** (COP26 2021) | 2021 Q70 pattern |
@@ -389,13 +389,13 @@ Full list of 19 Environment-tagged questions — use as mock-paper template:
 | 7 | Sultanpur NP / Ramsar in UP | **Haryana** (Gurugram) | 2025 Q58 |
 | 8 | Desertification = desert expanding only | **ASDM productivity loss** | Pattern |
 | 9 | DPAP launched 1977/1985 | **1973** | 2025 Q134 |
-| 10 | Afforestation causes land degradation | **FALSE** — prevents degradation | UPSC pattern |
+| 10 | Afforestation causes land degradation (भू-क्षरण) | **FALSE** — prevents degradation | UPSC (संघ लोक सेवा आयोग) pattern |
 | 11 | GEF established 2001 | **1991** | 2025 Q145 |
 | 12 | World Wildlife Day = 22 March | **3 March** (WWD) | 2025 Q62 |
-| 13 | Ecological footprint unit = tCO₂e | **global hectares (gha)** | 2019 pattern |
+| 13 | Ecological footprint (पारिस्थितिक पदचिह्न) unit = tCO₂e | **global hectares (gha)** | 2019 pattern |
 | 14 | Green hydrogen from natural gas | **Grey** hydrogen; green = renewable electrolysis | Pattern |
 | 15 | UNCCD signed at Rio 1992 | **1994** (Paris) — 2 years after Rio | Topic 40 |
-| 16 | CITES = IUCN Red List | CITES = **trade**; IUCN = **assessment** | Pattern |
+| 16 | CITES (साइट्स) = IUCN Red List | CITES = **trade** (पण्याध्यक्ष); IUCN = **assessment** | Pattern |
 
 ---
 

@@ -4,7 +4,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-IPCC | UNEP | UNDP | IUCN | WWF | FAO (Environment-related Role)
+IPCC (आईपीसीसी) | UNEP (संयुक्त राष्ट्र पर्यावरण कार्यक्रम) | UNDP (यूएनडीपी) | IUCN (आईयूसीएन) | WWF (डब्ल्यूडब्ल्यूएफ) | FAO (Environment-related Role)
 
 </details>
 
@@ -17,7 +17,7 @@ IPCC | UNEP | UNDP | IUCN | WWF | FAO (Environment-related Role)
 ## Current Affairs (this topic)
 
 - IPCC AR cycle and UNEP / WMO headlines are institutional CA.
-- Keep UNFCCC Secretariat vs IPCC role split clear.
+- Keep UNFCCC (यूएनएफसीसीसी) Secretariat vs IPCC role split clear.
 
 ---
 
@@ -25,24 +25,24 @@ IPCC | UNEP | UNDP | IUCN | WWF | FAO (Environment-related Role)
 
 1. **IPCC** sits in **Geneva**, issues Assessment Reports, and synthesises climate science. It does **not** set NDCs and is **not** the UNFCCC treaty body.
 2. IPCC was established in **1988** by **WMO and UNEP** and shared the Nobel Peace Prize in **2007**.
-3. **UNEP** headquarters is **Nairobi**. Flagship products include the **Emissions Gap Report** and GEO. UNEP was created after Stockholm **1972**.
+3. **UNEP** (संयुक्त राष्ट्र पर्यावरण कार्यक्रम) headquarters is **Nairobi**. Flagship products include the **Emissions Gap Report** (उत्सर्जन अंतराल रिपोर्ट) and GEO. UNEP was created after Stockholm **1972**.
 4. UNEP hosts several MEA secretariats (including Montreal, Basel, and Minamata lines) and works with GEF-linked convention finance.
 5. **UNDP** headquarters is **New York**. It publishes the **Human Development Report** (from **1990**) and the **HDI**. HDR is UNDP, not UNEP.
 6. HDI is linked to **Mahbub ul Haq** and **Amartya Sen**. Do not invent a wrong founding-name trap for HDR.
-7. **IUCN** headquarters is **Gland**. It publishes the **Red List** of extinction risk. IUCN assesses risk; it does **not** regulate wildlife trade — that is **CITES**.
+7. **IUCN** (आईयूसीएन) headquarters is **Gland**. It publishes the **Red List** of extinction risk. IUCN assesses risk; it does **not** regulate wildlife trade (पण्याध्यक्ष) — that is **CITES** (साइट्स).
 8. On the Red List, **Threatened** means **Vulnerable + Endangered + Critically Endangered** (VU + EN + CR). “Endangered alone” is not the full threatened set.
 9. **WWF** is a conservation NGO also linked to Gland, known for the panda logo and the **Living Planet Report / Living Planet Index**.
 10. **FAO** headquarters is **Rome**. Environment-facing outputs include the **State of the World’s Forests (SOFO)** and agriculture–forest links. FAO partners UNEP on some chemical-convention work such as Rotterdam.
 11. HQ memory: Nairobi = UNEP; New York = UNDP; Geneva = IPCC; Gland = IUCN and WWF; Rome = FAO.
 12. IPCC ≠ UNFCCC. Science assessment is not the same as the climate treaty and COP process.
-13. UNEP ≠ UNDP. Environment programme versus development agency — swap reports and you lose marks.
+13. UNEP ≠ UNDP. Environment (पर्यावरण) programme versus development agency — swap reports and you lose marks.
 14. Emissions Gap Report → **UNEP**. Human Development Report → **UNDP**. Red List → **IUCN**. Living Planet → **WWF**. Assessment Reports → **IPCC**.
 15. IUCN ≠ CITES. Risk categories versus trade appendices.
 16. WWF ≠ IUCN. NGO Living Planet work versus Red List authority.
 17. FAO is food and agriculture first; it is not the Red List body and not the Emissions Gap publisher.
 18. GEF (**1991**) finances global environmental conventions; do not confuse GEF with IPCC authorship of Assessment Reports.
 19. Red List codes to know: CR, EN, VU as the threatened band; also EX, EW, NT, LC, DD, NE in the wider ladder.
-20. UNEP’s Green Economy work and GEO sit in the environment-programme lane — not in UNDP’s HDI lane.
+20. UNEP’s Green Economy (हरित अर्थव्यवस्था) work and GEO sit in the environment-programme lane — not in UNDP’s HDI lane.
 21. IPCC reports inform negotiators; parties still adopt NDCs under the UNFCCC/Paris track.
 22. Living Planet Index tracks vertebrate abundance trends; it is not a legal trade permit system.
 23. SOFO is FAO’s forest flagship — not FSI’s India State of Forest Report.
@@ -83,15 +83,15 @@ IPCC | UNEP | UNDP | IUCN | WWF | FAO (Environment-related Role)
 
 **Identity:** 1988 WMO+UNEP | Geneva | Assessment Reports | Nobel 2007 | Not policy body
 
-- The **IPCC (Intergovernmental Panel on Climate Change)** was established in **1988** by **WMO** and **UNEP**.
+- The **IPCC (Intergovernmental Panel on Climate Change (जलवायु परिवर्तन))** was established in **1988** by **WMO** and **UNEP**.
 - It provides governments with **scientific assessments** of climate change, impacts, and response options.
 - **Headquarters** is in **Geneva, Switzerland**.
 - IPCC publishes **Assessment Reports (AR)** roughly every 5–7 years. **AR6** was completed in **2023**.
 - **Working Group I** covers physical science. **WG II** covers impacts and adaptation. **WG III** covers mitigation.
-- The **Special Report on 1.5°C (2018)** was important for Paris Agreement ambition.
+- The **Special Report on 1.5°C (2018)** was important for Paris Agreement (पेरिस समझौता) ambition.
 - IPCC shared the **Nobel Peace Prize in 2007** with Al Gore.
 - IPCC **synthesises existing science**. It does **not** conduct primary research or set emission targets.
-- **UNFCCC** is the **treaty body** where countries negotiate **NDCs** at **COP** meetings. IPCC informs but does not decide policy.
+- **UNFCCC** (यूएनएफसीसीसी) is the **treaty body** where countries negotiate **NDCs** at **COP** meetings. IPCC informs but does not decide policy.
 
 > **Logic:** "IPCC sets Paris Agreement targets" = **false**.
 
@@ -104,15 +104,15 @@ IPCC | UNEP | UNDP | IUCN | WWF | FAO (Environment-related Role)
 
 ## 19.2 UNEP
 
-**Identity:** Stockholm 1972 | Nairobi HQ | Emissions Gap | GEO | MEA secretariats
+**Identity:** Stockholm 1972 (स्टॉकहोम सम्मेलन) | Nairobi HQ | Emissions Gap | GEO | MEA secretariats
 
-- **UNEP** was created by the **Stockholm Conference (1972)** as the UN's principal environmental authority.
+- **UNEP** was created by the **Stockholm Conference (1972)** (स्टॉकहोम सम्मेलन) as the UN's principal environmental authority.
 - **Headquarters** is in **Nairobi, Kenya** — the only major UN environment HQ in the Global South.
 - UNEP publishes the annual **Emissions Gap Report** on the shortfall between NDC pledges and **1.5°C/2°C** pathways.
 - **GEO (Global Environment Outlook)** is UNEP's comprehensive state-of-environment assessment.
 - UNEP hosts or supports secretariats for treaties like **Montreal, Basel, Stockholm POPs, and Minamata**.
 - UNEP co-created **IPCC** with WMO but the **Emissions Gap Report is UNEP's own product**, not an IPCC report.
-- The **Global Environment Facility (GEF)** was established in **1991** and finances projects under UNFCCC, CBD, Montreal, and other conventions. UNEP is one implementing agency.
+- The **Global Environment Facility (GEF)** (जीईएफ) was established in **1991** and finances projects under UNFCCC, CBD, Montreal, and other conventions. UNEP is one implementing agency.
 
 **PYQ — UPPCS Prelims 2024, Q6**
 
@@ -174,7 +174,7 @@ Emissions Gap Report → Options include UNEP (2), UNDP (3)
 - **Headquarters** is in **Gland, Switzerland**.
 - The **IUCN Red List** is the standard system for assessing **extinction risk** of species.
 - Categories include **LC, NT, VU, EN, CR, EW, EX** plus DD and NE.
-- **Threatened species** means **Vulnerable + Endangered + Critically Endangered (VU + EN + CR)**.
+- **Threatened species** (संकटग्रस्त प्रजातियां) means **Vulnerable + Endangered + Critically Endangered (VU + EN + CR)**.
 - IUCN **assesses scientific risk**. It does **not** regulate international trade — **CITES** does that.
 - IUCN provides scientific input to **CBD and CITES** but is a separate organisation.
 
@@ -188,7 +188,7 @@ Emissions Gap Report → Options include UNEP (2), UNDP (3)
 
 - **WWF (World Wide Fund for Nature)** is a global conservation **NGO**, not a UN agency.
 - **Headquarters** is also in **Gland, Switzerland** — same city as IUCN but **different organisation and role**.
-- WWF publishes the **Living Planet Report** with the **Living Planet Index (LPI)** tracking vertebrate population trends.
+- WWF publishes the **Living Planet Report** with the **Living Planet Index (LPI)** tracking vertebrate population (जनसंख्या) trends.
 - WWF is known for the **giant panda logo** and flagship-species fundraising campaigns.
 - WWF **advocates and campaigns**. IUCN **assesses** via Red List. Complementary, not identical.
 
@@ -208,7 +208,7 @@ Emissions Gap Report → Options include UNEP (2), UNDP (3)
 - FAO's environment role links **agriculture, forests, biodiversity, and land use**.
 - FAO co-publishes **State of the World's Forests (SOFO)** with UNEP.
 - FAO administers the **Rotterdam Convention** jointly with **UNEP** for **Prior Informed Consent (PIC)** on hazardous chemicals in trade.
-- FAO work on **pesticides, forestry, and ag-biodiversity** connects farming to deforestation and habitat loss.
+- FAO work on **pesticides, forestry, and ag-biodiversity** connects farming to deforestation and habitat (वास स्थान) loss.
 - FAO is **not** the publisher of HDR, Emissions Gap, or Red List.
 
 ---

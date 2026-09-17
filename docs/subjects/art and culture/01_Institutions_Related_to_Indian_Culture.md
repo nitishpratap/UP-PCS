@@ -17,7 +17,7 @@ Indological Studies | Gurukul System | Ancient Indian Education System | Nalanda
 
 - Sahitya Akademi **Yuva Puraskar 2025** ran in **23** languages. **Dogri** was not on the list.
 - Budget **2025–26** restructured the National Mission for Manuscripts as the **Gyan Bharatam Mission**, a Central Sector scheme for about **2024–31**.
-- The new **Nalanda University** campus at **Rajgir** was inaugurated in **June 2024**. The university sits under the **MEA**, not Culture.
+- The new **Nalanda University** (नालंदा विश्वविद्यालय) campus at **Rajgir** (राजगीर) was inaugurated in **June 2024**. The university sits under the **MEA**, not Culture.
 - **Sachin Chaturvedi** assumed charge as Vice-Chancellor of Nalanda University in **May 2025**.
 
 ---.
@@ -29,23 +29,23 @@ Indological Studies | Gurukul System | Ancient Indian Education System | Nalanda
 2. **Fort William College** was set up in **1800** by **Lord Wellesley** to train Company officers in Indian languages.
 3. **Sanskrit College, Calcutta** opened in **1824. Benares Sanskrit College** was founded by **Jonathan Duncan** in **1791** and must not be confused with the Asiatic Society.
 4. The **Bhandarkar Oriental Research Institute** at Pune was founded in **1917** and is known for critical editions such as the Mahabharata.
-5. A **gurukul** is a residential guru–shishya school. **Guru dakshina** is an end-of-study offering, not a monthly fee.
-6. Classical learning counted **18 Vidyas** and **64 Kalas**. The ashrama order is **Brahmacharya → Grihastha → Vanaprastha → Sannyasa**.
+5. A **gurukul** (गुरुकुल) is a residential guru–shishya school. **Guru dakshina** (गुरु दक्षिणा) is an end-of-study offering, not a monthly fee.
+6. Classical learning counted **18 Vidyas** and **64 Kalas**. The ashrama order is **Brahmacharya** (ब्रह्मचर्य) → **Grihastha** (गृहस्थ) → **Vanaprastha** (वानप्रस्थ) → **Sannyasa** (संन्यास).
 7. **Kangri Gurukul** at Haridwar was founded in **1902** in the Dayananda / Arya Samaj line.
-8. **Nalanda** mahavihara in Bihar flourished under Pala patronage. **Hiuen Tsang** studied there. It was destroyed around **1193** by Bakhtiyar Khilji. The ruins are UNESCO **2016** under the **ASI**.
+8. **Nalanda** (नालंदा) mahavihara in Bihar flourished under Pala patronage. **Hiuen Tsang** (ह्वेनसांग) studied there. It was destroyed around **1193** by Bakhtiyar Khilji. The ruins are UNESCO **2016** under the **ASI**.
 9. The **new Nalanda University** is under the **MEA** by the Act of **2010**, with campus at **Rajgir**. It is not a Culture Ministry body.
-10. **Taxila (Takshashila)** lay in Gandhara, now in **Pakistan**. It was a multi-teacher city linked with **Panini** and **Chanakya**, and is UNESCO **1980**.
-11. **Vikramashila** at Bhagalpur was founded by Pala **Dharmapala. Atisha** taught there. It fell around **1203** to Khilji and is **not** a separate World Heritage site.
+10. **Taxila (Takshashila)** lay in Gandhara, now in **Pakistan**. It was a multi-teacher city linked with **Panini** (पाणिनि) and **Chanakya** (चाणक्य), and is UNESCO **1980**.
+11. **Vikramashila** (विक्रमशिला) at Bhagalpur was founded by Pala **Dharmapala. Atisha** taught there. It fell around **1203** to Khilji and is **not** a separate World Heritage site.
 12. The **Indian Museum**, Kolkata (**1814**) is India’s oldest museum. The **National Museum**, Delhi dates to **1949**.
 13. The **Archaeological Survey of India** was founded in **1861** under **Alexander Cunningham**. The **National Archives of India** began in **1891**.
-14. **Sangeet Natak Akademi** (**1952**) covers performing arts. **Sahitya Akademi** and **Lalit Kala Akademi** both date to **1954** for literature and visual arts.
-15. **Sahitya Akademi** awards in **24** languages. **Jnanpith** (**1965**) is a Bharatiya Jnanpith trust prize, not a Sahitya Akademi award.
-16. **IGNCA** (Indira Gandhi National Centre for the Arts) and the **Ministry of Culture** date to **1985**. **CCRT** (Centre for Cultural Resources and Training) began in **1979**. **NGMA** (National Gallery of Modern Art) also dates to **1954**.
+14. **Sangeet Natak Akademi** (संगीत नाटक अकादेमी) (**1952**) covers performing arts. **Sahitya Akademi** and **Lalit Kala Akademi** (ललित कला अकादेमी) both date to **1954** for literature and visual arts.
+15. **Sahitya Akademi** awards in **24** languages. **Jnanpith** (ज्ञानपीठ) (**1965**) is a Bharatiya Jnanpith trust prize, not a Sahitya Akademi award.
+16. **IGNCA** (Indira Gandhi National Centre for the Arts) and the **Ministry of Culture** date to **1985**. **CCRT** (Centre for Cultural Resources and Training) began in **1979**. **NGMA** (राष्ट्रीय आधुनिक कला गैलरी) (National Gallery of Modern Art) also dates to **1954**.
 17. **ICCR** (Indian Council for Cultural Relations, **1950**) belongs to the **MEA** (Ministry of External Affairs), not the Culture Ministry.
-18. Important museums in Uttar Pradesh include the **Allahabad Museum** (Prayagraj, founded in **1931**), the State Museum at Lucknow, the Government Museum at Jhansi, and the **Sarnath** ASI site museum.
-19. ASI circles for key UP monuments run through **Lucknow** and **Agra**, covering Sarnath, Kushinagar, Taj, and Fatehpur Sikri.
-20. IVC sites in UP include **Alamgirpur**, **Mandi**, and **Hulas. Rakhigarhi** is in Haryana, not UP.
-21. The North Central Zonal Cultural Centre HQ is at **Prayagraj**. Lalit Kala has a regional centre at **Lucknow**. IGNCA has a regional centre at **Varanasi**.
+18. Important museums in Uttar Pradesh include the **Allahabad Museum** (Prayagraj, founded in **1931**), the State Museum at Lucknow, the Government Museum at Jhansi, and the **Sarnath** (सारनाथ) ASI site museum.
+19. ASI circles for key UP monuments run through **Lucknow** (लखनऊ) and **Agra** (आगरा), covering Sarnath, Kushinagar, Taj, and Fatehpur Sikri.
+20. IVC sites in UP include **Alamgirpur** (आलमगीरपुर), **Mandi** (मंडी), and **Hulas. Rakhigarhi** is in Haryana, not UP.
+21. The North Central Zonal Cultural Centre HQ is at **Prayagraj** (प्रयागराज). Lalit Kala has a regional centre at **Lucknow**. IGNCA has a regional centre at **Varanasi** (वाराणसी).
 22. **HRIDAY** (**2015**) includes **Varanasi. PRASAD** is a **Tourism** ministry scheme, not Culture.
 23. The **National Culture Fund** began in **1996. Ek Bharat Shreshtha Bharat** began in **2015**.
 24. The **National Mission for Manuscripts** (**2003**) was restructured as **Gyan Bharatam** for **2024–31**.
@@ -69,33 +69,6 @@ Indological Studies | Gurukul System | Ancient Indian Education System | Nalanda
 
 ---
 
-## Hindi spell — hard names
-
-Write these in Devanagari as given. One name, one spelling.
-
-| English | Hindi |
-|---------|-------|
-| Gurukul | गुरुकुल |
-| Guru dakshina | गुरु दक्षिणा |
-| Brahmacharya | ब्रह्मचर्य |
-| Grihastha | गृहस्थ |
-| Vanaprastha | वानप्रस्थ |
-| Sannyasa | संन्यास |
-| Nalanda | नालंदा |
-| Takshashila | तक्षशिला |
-| Vikramashila | विक्रमशिला |
-| Panini | पाणिनि |
-| Chanakya | चाणक्य |
-| Dharmapala | धर्मपाल |
-| Atisha | अतीश |
-| Sarnath | सारनाथ |
-| Sangeet Natak Akademi | संगीत नाटक अकादेमी |
-| Sahitya Akademi | साहित्य अकादेमी |
-| Lalit Kala Akademi | ललित कला अकादेमी |
-| Jnanpith | ज्ञानपीठ |
-| Varanasi / Kashi | वाराणसी / काशी |
-
----
 
 ## Must-score facts — societies, colleges, museums
 
@@ -122,7 +95,7 @@ Write these in Devanagari as given. One name, one spelling.
 | Nalanda | Pala Bihar; Hiuen Tsang; destroyed ~1193 |
 | New Nalanda University | **MEA**, Act **2010**, campus **Rajgir** (≠ Culture Ministry) |
 | Taxila | Gandhara / **Pakistan**; Panini–Chanakya link |
-| Vikramashila | Bhagalpur; **Dharmapala**; Atisha; fell ~1203 |
+| Vikramashila | Bhagalpur; **Dharmapala** (धर्मपाल); Atisha; fell ~1203 |
 
 ---
 
@@ -132,7 +105,7 @@ Write these in Devanagari as given. One name, one spelling.
 
 | Person / body | Key fact |
 |---------------|-----------|
-| **Sir William Jones** | Founder-President; Sanskrit–Latin–Greek cognates; translated **Abhijnanashakuntalam** |
+| **Sir William Jones** | Founder-President; Sanskrit–Latin–Greek cognates; translated **Abhijnanashakuntalam** (अभिज्ञानशाकुन्तलम्) |
 | **Warren Hastings** | GG when Society founded; **declined Presidentship** in favour of Jones; encouraged Sanskrit/Persian/Arabic |
 | **Jonathan Duncan** | Founded **Benares Sanskrit College in 1791**; he was not associated with the Asiatic Society (a common distractor). |
 | **Charles Wilkins** | Bhagavad Gita English **1785** |
@@ -191,12 +164,12 @@ D. (A) is false, but (R) is true
 
 A gurukul is a residential school. The shishya lived in the guru’s household. Teaching was oral guru-shishya parampara.
 
-- Entry was often via **Upanayana** into the **Brahmacharya** ashrama (traditionally dvija varnas).
+- Entry was often via **Upanayana** into the **Brahmacharya** (ब्रह्मचर्य) ashrama (traditionally dvija varnas).
 - There was no monthly tuition. **Guru dakshina** was given at the **end** (Eklavya’s thumb is the legendary extreme dakshina).
-- The curriculum covered Vedas, Vedangas, Dharma-shastra, **Dhanurveda**, **Arthashastra** and ethics. Seva (fuel, cattle, chores) counted as education.
+- The curriculum covered Vedas, Vedangas, Dharma-shastra, **Dhanurveda**, **Arthashastra** (अर्थशास्त्र) and ethics. Seva (fuel, cattle, chores) counted as education.
 - Duration was variable (often ~12 years) until the guru declared competence. There was no semester grid.
 - Access was **not** universal (varna/gender). Upanishadic exceptions include **Gargi, Maitreyi and Lopamudra**.
-- By contrast, Buddhist **vihara** schools were open to wider groups including merchants.
+- By contrast, Buddhist **vihara** (विहार) schools were open to wider groups including merchants.
 - **Gurukul Kangri Vishwavidyalaya** was founded at Haridwar in **1902** by **Dayananda Saraswati** (Arya Samaj). It taught Vedic and modern subjects. Arya Samaj gurukuls spread in the Gangetic belt including **Uttar Pradesh.
 
 > **Logic:** Residential + oral + dakshina at end. “Monthly fee day-school” = FALSE. Kangri = Dayananda **1902**, not Vivekananda.
@@ -205,7 +178,7 @@ A gurukul is a residential school. The shishya lived in the guru’s household. 
 
 ## 1.3 Ancient Indian Education System
 
-Not one system: Brahmanical gurukuls, Buddhist **viharas**, Jain **shalas**, **shreni** (guild) craft training ran in parallel.
+Not one system: Brahmanical gurukuls, Buddhist **viharas**, Jain **shalas**, **shreni** (श्रेणी) (guild) craft training ran in parallel.
 
 | Fact | Content |
 |------|---------|
@@ -240,8 +213,8 @@ Not one system: Brahmanical gurukuls, Buddhist **viharas**, Jain **shalas**, **s
 
 **Gandhara | present-day Pakistan (Taxila, near Rawalpindi)**
 
-- It was among the **oldest** higher-learning centres, on the **Uttarapatha** trade route. It was a **city of many independent acharyas**, **not** one mahavihara campus.
-- Linked names include **Panini** (*Ashtadhyayi*), **Chanakya/Kautilya**, **Jivaka** (medicine) and the **Charaka** tradition.
+- It was among the **oldest** higher-learning centres, on the **Uttarapatha** (उत्तरापथ) trade route. It was a **city of many independent acharyas**, **not** one mahavihara campus.
+- Linked names include **Panini** (*Ashtadhyayi* (अष्टाध्यायी)), **Chanakya/Kautilya**, **Jivaka** (medicine) and the **Charaka** (चरक) tradition.
 - Subjects included Vedas, medicine, military science, law, astronomy, grammar and 18 crafts.
 - **Alexander** encountered the Taxila kingdom in **326 BCE**. Later **Gandhara Greco-Buddhist art developed here.
 - Decline followed **Hun** invasions (5th c.) and then a political shift. It was **not** a single Khilji raid.
@@ -259,7 +232,7 @@ Not one system: Brahmanical gurukuls, Buddhist **viharas**, Jain **shalas**, **s
 - The abbot **Atisha Dipankara** (980–1054) carried reform to **Tibet**.
 - It was destroyed by **Bakhtiyar Khilji ~1203** (after Nalanda).
 - ASI excavations show a large **cruciform** monastery. It is **not** a separate UNESCO WH site (unlike Nalanda 2016).
-- The name is **not** Vikramaditya of Ujjain. Sister Pala mahaviharas often grouped in options are **Odantapuri** (Bihar), **Somapura** (Paharpur, Bangladesh — UNESCO) and **Jagaddala**.
+- The name is **not** Vikramaditya of Ujjain. Sister Pala mahaviharas often grouped in options are **Odantapuri** (उदंतपुरी) (Bihar), **Somapura** (Paharpur, Bangladesh — UNESCO) and **Jagaddala**.
 
 > **Logic:** Founder-patron = **Dharmapala**. Atisha = Vikramashila. Destroyed **~1203**, same Khilji, **not** WH-listed.
 
@@ -309,7 +282,7 @@ Not one system: Brahmanical gurukuls, Buddhist **viharas**, Jain **shalas**, **s
 - The organisation is a DG plus **Circles**. -relevant circles are **Agra, Lucknow, Patna, Delhi and Jhansi**.
 - It runs **site museums** at the monument (Sarnath, Sanchi, Nalanda, Konark, Fatehpur Sikri, Agra, Ellora, Elephanta, Gol Gumbaz).
 - There are about **3,600+** centrally protected monuments (papers accept “3000+”).
-- UP ASI trap (full IVC questions live in Archaeology): **Alamgirpur, Mandi and Hulas** are in UP. **Rakhigarhi** is in **Haryana**.
+- UP ASI trap (full IVC questions live in Archaeology): **Alamgirpur, Mandi and Hulas** are in UP. **Rakhigarhi** (राखीगढ़ी) is in **Haryana**.
 
 > **Logic:** ASI = **1861**, Cunningham, **Culture**. AMASR = **1958**. Not Home / MEA.
 
@@ -501,7 +474,7 @@ D. Chittaranjan
 | **Uttar Pradesh Sangeet Natak Akademi** | **Lucknow** | **13 Nov 1963** | Apex body for music, dance and drama in UP (originally named UP Sangeet Natya Bharati; renamed in 1969). |
 | **Bhartendu Natya Academy (BNA)** | **Lucknow** | **1975** | Autonomous institute for training in dramatic arts / theatre (modelled on NSD). Named after father of modern Hindi theatre, Bhartendu Harishchandra. |
 | **National Kathak Sansthan** | **Lucknow** | **1988–89** | Apex institute for documentation, research and training in Kathak (Lucknow Gharana). |
-| **Ayodhya Shodh Sansthan** | **Ayodhya** | **1986** | Located at Tulsi Smarak Bhavan; conducts research on Ramayana culture and folk traditions. |
+| **Ayodhya Shodh Sansthan** | **Ayodhya** (अयोध्या) | **1986** | Located at Tulsi Smarak Bhavan; conducts research on Ramayana culture and folk traditions. |
 | **Tribal & Folk Art Culture Sansthan** (*Janjatiya evam Lok Kala Sanskriti Sansthan*) | **Lucknow** | **1996** | Dedicated preservation and documentation of tribal and rural folk traditions of UP. |
 | **North Central Zonal Cultural Centre (NCZCC)** | **Prayagraj** | **1985–86** | One of 7 Zonal Cultural Centres under Ministry of Culture; covers UP, MP, Rajasthan, Bihar, Uttarakhand, Delhi, Haryana. |
 | **Bharat Kala Bhavan** | **Varanasi** | **1920** | Renowned museum of art and archaeology situated inside Banaras Hindu University (BHU); founded by Rai Krishnadasa. |

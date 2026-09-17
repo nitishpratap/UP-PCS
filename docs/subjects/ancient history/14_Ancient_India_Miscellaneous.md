@@ -6,7 +6,7 @@
 
 World Civilizations · Civilizations and their Characteristics · Puranas · Materialist Thinkers · Kakatiya Dynasty · Major Rulers of Kakatiya Dynasty · Achievements of Kakatiya Dynasty
 
-Taught in that order. World cores start with Mesopotamia, not with the later-famous Harappan city. Kakatiya starts with Chalukya feudatories, not with Rudrama. Historiography books and *Charaka Samhita* sit here because the paper tags them Ancient History and they have no other syllabus home.
+Taught in that order. World cores start with Mesopotamia, not with the later-famous Harappan city. Kakatiya starts with Chalukya feudatories, not with Rudrama. Historiography books and *Charaka Samhita* (चरक संहिता) sit here because the paper tags them Ancient History and they have no other syllabus home.
 
 </details>
 
@@ -19,7 +19,7 @@ Taught in that order. World cores start with Mesopotamia, not with the later-fam
 
 ## Consolidated — 30 Must-Score Facts
 
-1. The four Old World Bronze urban cores are **Mesopotamia**, **Egypt**, **Indus**, and **Shang China**. Iron-Age Greece, Rome, and Persia belong to a later bucket.
+1. The four Old World Bronze urban cores are **Mesopotamia**, **Egypt**, **Indus** (सिंधु), and **Shang China**. Iron-Age Greece, Rome, and Persia belong to a later bucket.
 2. **Mesopotamia** sits on the **Tigris–Euphrates**, runs competing **city-states**, writes **cuneiform** on clay, and builds stepped **ziggurat** temple-towers — not tombs.
 3. **Egypt** sits on the **Nile**, is a unified **pharaoh** monarchy, writes **hieroglyphs** on papyrus, and builds **pyramid** royal tombs.
 4. **Indus / Harappan** Mature phase is about **2600–1900 BCE**. Signatures include grid streets, baked brick, drains, and standard weights. The script is still **undeciphered**.
@@ -29,9 +29,9 @@ Taught in that order. World cores start with Mesopotamia, not with the later-fam
 8. A Mahapurana is supposed to carry **panchalakshana**: sarga, pratisarga, vamsha, manvantara, and vamshanucharita.
 9. The **Vishnu Purana** preserves a **Mauryan** genealogy. The **Vayu Purana** may list early dynasty names but does **not** give a usable Gupta system of governance.
 10. Puranic **Shriparvatiya** means the **Ikshvakus** of **Nagarjunakonda / Vijayapuri**. Trap options include Vakataka, Shaka, and Kharavela.
-11. Indian materialism in the is **Charvaka / Lokayata**. The only accepted pramana is **pratyaksha** (perception). It denies lasting soul, karma fruit, rebirth, and Veda authority.
+11. Indian materialism in the is **Charvaka / Lokayata** (चार्वाक). The only accepted pramana is **pratyaksha** (प्रत्यक्ष) (perception). It denies lasting soul, karma fruit, rebirth, and Veda authority.
 12. **Charvaka ≠ Charaka**. Charaka is the Ayurveda compiler; Charvaka is the materialist school. Mixing the names is the cheap trap.
-13. *Charaka Samhita* has **120 chapters** in **8 sections**. **Sushruta** is the surgery fact; Charaka is internal medicine.
+13. *Charaka Samhita* has **120 chapters** in **8 sections**. **Sushruta** (सुश्रुत) is the surgery fact; Charaka is internal medicine.
 14. Buddhism is **not** materialist: it keeps **karma and rebirth** while denying a permanent soul. That is a different denial from Charvaka.
 15. The **Kakatiyas** rose as Western Chalukya feudatories and became independent in Telangana. Early seat is **Hanamkonda**; match-paper capital is **Warangal (Orugallu)**.
 16. Capital match set: **Pallava–Kanchi**, **Pandya–Madura**, **Yadava–Devagiri**, **Kakatiya–Warangal**.
@@ -141,8 +141,8 @@ Taught in that order. World cores start with Mesopotamia, not with the later-fam
 | *The Wonder That Was India* | **A.L. Basham** | Cultural survey |
 | *An Introduction to the Study of Indian History* | **D.D. Kosambi** | Marxist / analytical history |
 | *The Early History of India* | **Vincent Arthur Smith** | Colonial dynastic narrative |
-| *Charaka Samhita* | **Charaka** (Agnivesha redaction) | Internal medicine; **120 chapters / 8 sthanas** |
-| *Sushruta Samhita* | **Sushruta** | Surgery / rhinoplasty tradition |
+| *Charaka Samhita* | **Charaka** (चरक) (Agnivesha redaction) | Internal medicine; **120 chapters / 8 sthanas** |
+| *Sushruta Samhita* (सुश्रुत संहिता) | **Sushruta** | Surgery / rhinoplasty tradition |
 
 - Jayaswal ≠ Smith. Kosambi ≠ Basham.
 - **Charaka** = medicine. **Sushruta** = surgery.
@@ -279,7 +279,7 @@ Taught in that order. World cores start with Mesopotamia, not with the later-fam
 | **Manvantara** | Manu-ages / cosmic cycles |
 | **Vamshanucharita** | Royal dynasties (the history bit) |
 
-- They are **smriti**, not shruti.
+- They are **smriti** (स्मृति), not shruti.
 - Veda outranks them.
 - Use them as a **supplement** to inscriptions, not as a year-perfect chronicle.
 - King-lists run long and duplicate names.
@@ -318,7 +318,7 @@ Taught in that order. World cores start with Mesopotamia, not with the later-fam
 - Puranas call one Andhra line **Shriparvatiya**.
 - That line is the **Ikshvakus** of **Vijayapuri / Nagarjunakonda**.
 - Sriparvata = the Nagarjunakonda hill. 3rd–4th c. CE. Stupa-and-palace archaeology sits there.
-- Trap A is **Vakataka** (Vidarbha–Deccan). Trap C **Shaka**. Trap D **Kharavela** (Kalinga). Answer **B**.
+- Trap A is **Vakataka** (Vidarbha–Deccan). Trap C **Shaka**. Trap D **Kharavela** (खारवेल) (Kalinga). Answer **B**.
 
 ### What is not a Purana
 
@@ -332,7 +332,7 @@ Taught in that order. World cores start with Mesopotamia, not with the later-fam
 
 **Charvaka / Lokayata | perception only | not the physician Charaka**
 
-Indian materialism is the **Charvaka** school. Papers also call it **Lokayata** and **Brihaspatya**. Do not confuse it with the physician **Charaka**.
+Indian materialism is the **Charvaka** (चार्वाक) school. Papers also call it **Lokayata** and **Brihaspatya**. Do not confuse it with the physician **Charaka**.
 
 ### Names and sources
 
@@ -348,7 +348,7 @@ Indian materialism is the **Charvaka** school. Papers also call it **Lokayata** 
 - There is no lasting **atman**.
 - There is no **karma** fruit after death.
 - There is no **rebirth**.
-- There is no authority of the **Veda**.
+- There is no authority of the **Veda** (वेद).
 - There is no *yajna* as unseen merit.
 - Consciousness is treated as a product of the body.
 - The stock image is intoxication arising when ingredients mix.
@@ -358,8 +358,8 @@ Indian materialism is the **Charvaka** school. Papers also call it **Lokayata** 
 ### Neighbours, not the same school
 
 - **Ajita Kesakambalin** in the Pali canon is a materialist: the person ends at death, four elements scatter. Same family of thought, Buddhist naming.
-- **Buddhism** is not materialist. It keeps **karma and rebirth**. It denies a permanent soul, which is a different denial.
-- **Nyaya** (Gautama) and **Vaisheshika** (Kanada) are orthodox *darshanas*. They are not Charvaka.
+- **Buddhism** (बौद्ध धर्म) is not materialist. It keeps **karma and rebirth**. It denies a permanent soul, which is a different denial.
+- **Nyaya** (Gautama) and **Vaisheshika** (वैशेषिक) (Kanada) are orthodox *darshanas*. They are not Charvaka.
 - The correct pair is **Nyaya — Gautama**. Vaisheshika is **Kanada**, not Patanjali. Mimamsa is not Kanada. Uttara Mimamsa (Vedanta) is not Kapila (Kapila is Samkhya).
 
 > **Logic:** Charvaka ≠ Charaka. Charaka writes Ayurveda. Charvaka denies the unseen. Mixing the two names is the cheap trap.
@@ -394,7 +394,7 @@ Indian materialism is the **Charvaka** school. Papers also call it **Lokayata** 
 
 | Dynasty | Capital |
 |---------|---------|
-| Pallava | **Kanchi** |
+| Pallava | **Kanchi** (कांची) |
 | Pandya | **Madura** (Madurai) |
 | Yadava (Seuna) | **Devagiri** |
 | Kakatiya | **Warangal** |
@@ -550,7 +550,7 @@ Teach in this order. Prataparudra II is the **last** king, not the founder.
 - Coaching lists often name the **Sanatkumara Purana**.
 - The **Narasimha Purana** is another frequent Upapurana name.
 - The **Durvasa**, **Kapila**, and **Vamana** Upapuranas appear in the same ratta set.
-- Further names in coaching dumps include **Bhargava**, **Varuna**, **Kalika**, **Maheshvara**, **Linga**, **Vinayaka**, **Shamba**, **Saura**, **Parashara**, and **Maricha**.
+- Further names in coaching dumps include **Bhargava**, **Varuna** (वरुणा), **Kalika**, **Maheshvara**, **Linga**, **Vinayaka**, **Shamba**, **Saura** (सौरा), **Parashara**, and **Maricha**.
 - Do not treat an Upapurana title as automatic proof of a full five-trait Mahapurana.
 
 ---
@@ -558,7 +558,7 @@ Teach in this order. Prataparudra II is the **last** king, not the founder.
 ## 14.11 Ajivika — Neighbour of Charvaka
 
 - The Ajivika order is linked with **Gosala Makkhali** and is contemporary with Mahavira and the Buddha.
-- Its doctrine centres on **niyati** (fatalism): everything is predetermined.
+- Its doctrine centres on **niyati** (नियतिवाद) (fatalism): everything is predetermined.
 - That fatalism is not the same as Charvaka pleasure materialism, which denies lasting soul and unseen fruit.
 - Ashoka’s **Barabar Hill** caves were donated to Ajivikas — a Mauryan patronage fact, not a Charvaka school card.
 

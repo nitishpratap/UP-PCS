@@ -1,4 +1,4 @@
-# Topic 13 — Desertification & Land Degradation
+# Topic 13 — Desertification (मरुस्थलीकरण) & Land Degradation (भू-क्षरण)
 ### ★ UPPCS Revision Sheet — Lucent-style (no repetition · Practice ≥25)
 
 <details>
@@ -28,23 +28,23 @@ Desertification | Land Degradation | Soil Erosion
 3. **Land degradation** is broader: decline in productive capacity on any land through erosion, salinization, waterlogging, mining, or pollution.
 4. India has about **96.4 million ha** degraded land — roughly **29–30%** (ISRO Atlas **2016** class figure).
 5. **Normal geological erosion** is slow and roughly balanced by soil formation. **Accelerated erosion** is human-driven and faster than formation — the focus.
-6. Water-erosion sequence: **sheet → rill → gully → ravine**. Chambal badlands are the ravine end-member.
+6. Water-erosion sequence: **sheet → rill → gully → ravine**. Chambal (चंबल) badlands are the ravine end-member.
 7. Wind erosion works by **deflation** (lifting) and **abrasion** (sandblasting).
 8. Leading causes include overgrazing in drylands, deforestation, unsustainable farming, excessive irrigation (salinization/waterlogging), and mining.
-9. India hotspots: **Thar** wind erosion; **Chambal** ravines (MP–UP–Rajasthan); **Bundelkhand** drought–degradation cycle; Punjab–Haryana salinization belts.
-10. Conservation tools include contour bunding, terraces, shelter belts, afforestation, gully plugging, check dams, and watershed management.
+9. India hotspots: **Thar** (थार) wind erosion; **Chambal** (चंबल) ravines (MP–UP–Rajasthan); **Bundelkhand** drought (सूखा)–degradation cycle; Punjab–Haryana salinization belts.
+10. Conservation tools include contour bunding, terraces, shelter belts, afforestation, gully plugging, check dams, and watershed management (वाटरशेड (जलग्रहण) प्रबंधन).
 11. Earthworms are soil-fertility allies in restoration narratives.
-12. **UNCCD** was adopted in **1994**. Desertification and Drought Day is **17 June**.
+12. **UNCCD** was adopted (अंगीकृत) in **1994**. Desertification and Drought Day is **17 June**.
 13. **LDN** (Land Degradation Neutrality) under **SDG 15.3** targets no net loss of healthy land by **2030**.
 14. **DPAP** launched in **1973**. **DDP** is **1977–78**. **IWMP** is **2009**. **MGNREGA (2005)** funds bunds and check dams.
-15. Treaty trap: **UNCCD ≠ UNFCCC**. Desertification is not the climate convention.
+15. Treaty trap: **UNCCD ≠ UNFCCC (यूएनएफसीसीसी)**. Desertification is not the climate convention.
 16. Afforestation helps **prevent** degradation; it is not a cause of desertification.
-17. Gully erosion is not the same as sheet erosion — sheet is the first thin uniform stage.
+17. Gully erosion (अवनलिका अपरदन) is not the same as sheet erosion (परत (चादर) अपरदन) — sheet is the first thin uniform stage.
 18. Chambal ravine area is about **3 million ha** in standard coaching numbers.
-19. UP Chambal ravine districts include **Etawah and Agra** (with Morena–Bhind on the MP side).
+19. UP Chambal ravine districts include **Etawah (इटावा) and Agra** (with Morena–Bhind on the MP side).
 20. Bundelkhand’s **seven UP districts** are the drought-plus-degradation fact.
 21. Thar-margin UP questions emphasise wind erosion and dune encroachment.
-22. **Sonbhadra** is a UP mining-related land-degradation hotspot.
+22. **Sonbhadra** (सोनभद्र) is a UP mining-related land-degradation hotspot.
 23. Wasteland means degraded land poorly suited to cultivation — related to, but not identical with, desertification’s ASDM definition.
 24. LDN by 2030 is an SDG land target; do not date UNCCD itself as 2030.
 
@@ -89,16 +89,16 @@ Desertification | Land Degradation | Soil Erosion
 - **Overgrazing** is the **main human cause** in drylands. Livestock remove vegetation, compact soil, and expose topsoil to wind and water erosion.
 - **Deforestation**, **fuelwood collection**, and **unsustainable cropping** remove root binding and reduce local moisture retention.
 - **Improper irrigation** can cause **salinization** and **waterlogging**, turning fertile irrigated land barren — common in parts of Rajasthan canal commands and the Indo-Gangetic fringe.
-- **Drought and climate change** kill vegetation and trigger flash erosion on bare soil, creating a feedback loop of further degradation.
+- **Drought and climate change (जलवायु परिवर्तन)** kill vegetation and trigger flash erosion on bare soil, creating a feedback loop of further degradation.
 - **Wind erosion** dominates true arid zones like the **Thar Desert**, where dunes migrate and bury fields.
 - Early desertification can be **reversed** through afforestation, controlled grazing, and water harvesting. Advanced stages may take decades to restore.
-- India's **ISRO Desertification Atlas (2016)** mapped **96.4 million hectares (~29.3% of geographical area)** under desertification/land degradation. **Rajasthan** is the worst-affected state.
+- India's **ISRO Desertification Atlas (2016)** mapped **96.4 million hectares (~29.3% of geographical area)** under desertification/land degradation. **Rajasthan** (थार) is the worst-affected state.
 
 > **Logic:** Desertification applies to **dry sub-humid Bundelkhand**, not only sand deserts.
 
 - The **UNCCD (United Nations Convention to Combat Desertification)** was adopted on **17 June 1994** in Paris and entered force in **1996**.
 - **17 June** is observed as **World Desertification and Drought Day**.
-- **SDG 15.3** targets **Land Degradation Neutrality (LDN) by 2030** — avoid new degradation and restore degraded land.
+- **SDG 15.3** targets **Land Degradation Neutrality (LDN) (भूमि क्षरण तटस्थता) by 2030** — avoid new degradation and restore degraded land.
 
 **PYQ — UPPCS Prelims 2019, Q42**
 
@@ -132,7 +132,7 @@ D. 2040
 
 - **Land degradation** is the **broader decline in a land's productive capacity** from natural or human factors.
 - **Desertification** is one **subset** limited to ASDM drylands. **Soil erosion** is one **major process** within degradation.
-- **Human causes dominate** India's degradation statistics: overgrazing, deforestation, unsustainable agriculture, excessive fertilizers, mining, industrial pollution, and urban sprawl.
+- **Human causes dominate** India's degradation statistics: overgrazing, deforestation, unsustainable agriculture, excessive fertilizers, mining, industrial pollution, and urban (नगरीय) sprawl.
 - Major degradation **processes** include **soil erosion**, **waterlogging**, **salinization**, **alkalinization**, **mining spoil**, and **deforestation**.
 - **Salinization** from excessive canal irrigation affects **Punjab, Haryana, and western UP**.
 - **Mining degradation** is severe in **Sonbhadra (UP), Jharkhand, and Odisha**.
@@ -160,8 +160,8 @@ D. 2040
 - **Topsoil (A-horizon)** is the fertile organic-rich layer, usually **15–30 cm deep**. It can take **centuries to form** but may be lost in **one heavy monsoon** on bare slopes.
 - **Normal (geological) erosion** is slow and balanced by soil formation. **Accelerated erosion** from human activity is **10–100× faster** than formation — this is the usual default meaning of "soil erosion."
 - **Water erosion** dominates humid and monsoon India. Raindrop impact dislodges soil and runoff carries it downslope.
-- **Water erosion sequence:Sheet erosion** (thin uniform layer) → **rill erosion** (small channels) → **gully erosion** (deep cuts) → **ravines** (extensive badland networks).
-- **Chambal ravines** cover about **3 million hectares** across **MP (Morena, Bhind), UP (Etawah, Agra), and Rajasthan (Dholpur, Karauli)**. They are India's classic **gully/ravine erosion** landscape.
+- **Water erosion sequence:Sheet erosion** (thin uniform layer) → **rill erosion** (क्षुद्र सरिता (रिल) अपरदन) (small channels) → **gully erosion** (deep cuts) → **ravines** (extensive badland networks).
+- **Chambal ravines** (चंबल) cover about **3 million hectares** across **MP (Morena, Bhind), UP (Etawah, Agra), and Rajasthan (Dholpur, Karauli)**. They are India's classic **gully/ravine erosion** landscape.
 - **Wind erosion** dominates arid zones through **deflation** (lifting fine particles) and **abrasion** (sandblasting surfaces). It affects the **Thar**, Rann of Kutch, and western Rajasthan-UP margins.
 - **Gravity erosion** (landslides, slumping) matters in **Himalayan and NE hill states**, especially after deforestation and road cutting.
 - **Vegetation cover** is the best natural erosion shield. Deforestation and overgrazing are the top acceleration factors.
@@ -197,7 +197,7 @@ D. Only 1
 |-------|-------------|-----------|
 | Water | Monsoon slopes, Chambal | Sheet → ravine |
 | Wind | Thar, arid west | Deflation, abrasion |
-| Gravity | Himalaya, NE hills | Landslides, slumping |
+| Gravity | Himalaya (हिमालय), NE hills | Landslides, slumping |
 
 ---
 

@@ -4,8 +4,8 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-**Acts:** EPA 1986 | WPA 1972 | FCA 1980 | BDA 2002 | Water Act 1974 | Air Act 1981 | NGT Act 2010 | FRA 2006
-**Policies:** National Forest Policy 1952 | Environmental Law | Wildlife Protection Laws
+**Acts:** EPA 1986 (पर्यावरण संरक्षण 1986) | WPA 1972 | FCA 1980 | BDA 2002 | Water Act 1974 | Air Act 1981 | NGT Act 2010 | FRA 2006
+**Policies:** National Forest Policy 1952 | Environmental Law | Wildlife Protection (वन्यजीव सुरक्षा) Laws
 
 </details>
 
@@ -25,24 +25,24 @@
 ## Consolidated — 26 Must-Score Facts
 
 1. Memorise the act-year chain: **WPA 1972 → Water 1974 → FCA 1980 → Air 1981 → EPA 1986 → BDA 2002 → FRA 2006 → NGT Act 2010**.
-2. **Article 48A** (DPSP) directs the State to protect the environment. **Article 51A(g)** is the citizen’s Fundamental Duty to protect nature. Do not swap them.
-3. **Article 21** has been read to include a healthy environment. **Article 48** is about agriculture and cattle — it is **not** the environment article (**48A** is).
+2. **Article 48A** (DPSP (राज्य के नीति निदेशक तत्व)) directs the State to protect the environment (पर्यावरण). **Article 51A(g)** is the citizen’s Fundamental Duty to protect nature. Do not swap them.
+3. **Article 21** (अनुच्छेद 21) has been read to include a healthy environment. **Article 48** is about agriculture and cattle — it is **not** the environment article (**48A** is).
 4. The **Environment (Protection) Act, 1986** is the post-Bhopal umbrella law under **Article 253**. Section **3** powers support EIA, CRZ, ESZ, **GEAC**, and **CGWA**. It **supplements** Water and Air Acts; it does not repeal them.
 5. EIA Notification and related clearances flow from **EPA**, not from the Water Act.
 6. The **Wildlife (Protection) Act, 1972** uses **six** Schedules. Schedules **I–IV** protect animals; Schedule **V** is vermin; Schedule **VI** covers plants. **Schedule I** is the highest protection; Schedule **V** animals may be hunted as vermin.
 7. Under WPA, a **National Park** (Section **35**) is stricter than a **Sanctuary** (Section **18**). Tiger Reserves rest on Section **38V** (2006 amendment path).
 8. The **Forest (Conservation) Act, 1980** requires prior **Central** approval before diverting forest land. CAMPA and NPV sit in this clearance world.
-9. The **Forest Rights Act, 2006** recognises rights of Scheduled Tribes and Other Traditional Forest Dwellers. Individual forest rights are capped around **4 hectares**, with a cutoff of **13 December 2005**, and recognition begins at the **Gram Sabha**.
+9. The **Forest Rights Act, 2006** recognises rights of Scheduled Tribes and Other Traditional Forest Dwellers. Individual forest rights are capped around **4 hectares**, with a cutoff of **13 December 2005**, and recognition (मान्यता) begins at the **Gram Sabha** (ग्राम सभा).
 10. **FCA** controls **diversion** of forest land. **FRA** recognises **rights** of forest dwellers. Do not treat them as one Act.
 11. The **Biological Diversity Act, 2002** implements the CBD through **NBA** (national), **SBB** (state), and **BMC** (local) with People’s Biodiversity Registers.
-12. The **Water Act, 1974** created **CPCB/SPCB** and the consent regime. The **Air Act, 1981** covers air pollution and NAAQS. Water is **1974**; Air is **1981** — do not reverse the years.
-13. Industry **consent** (CTE/CTO) is under Water/Air Acts via **SPCB**. **Environmental Clearance** is under EPA/EIA via **MoEFCC/SEIAA**. Forest clearance is under **FCA** via MoEFCC.
+12. The **Water Act, 1974** created **CPCB (केंद्रीय प्रदूषण नियंत्रण बोर्ड)/SPCB** and the consent regime. The **Air Act, 1981** covers air pollution and NAAQS. Water is **1974**; Air is **1981** — do not reverse the years.
+13. Industry **consent** (CTE/CTO) is under Water/Air Acts via **SPCB**. **Environmental Clearance** is under EPA/EIA via **MoEFCC (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय)/SEIAA**. Forest clearance is under **FCA** via MoEFCC.
 14. The **NGT Act, 2010** creates the green tribunal for environmental appeals and compensation, with a six-month disposal target.
-15. National Forest Policy **1952** was revenue-leaning. Later practice follows National Forest Policy **1988** targets of about **33%** forest cover nationally and **66%** in hills.
+15. National Forest Policy **1952** was revenue-leaning. Later practice follows National Forest Policy **1988** targets of about **33%** forest cover (वन आवरण) nationally and **66%** in hills.
 16. EPA is **1986**, not 1972. WPA is **1972**, not 1986. Mixing those years is a standard trap.
 17. Schedule **V** under WPA is **not** the highest protection tier — Schedule **I** is.
 18. Consent is not EC, and EC is not forest clearance. Keep the three tools on separate legal tracks.
-19. FRA’s nodal line is tribal forest rights, not MoEFCC forest diversion under FCA.
+19. FRA’s nodal line is tribal (आदिवासी) forest rights, not MoEFCC forest diversion under FCA.
 20. BDA is about biodiversity access and benefit-sharing institutions — not the same as WPA schedules or NGT appeals.
 21. Article **48A** binds the State as a Directive Principle; **51A(g)** binds the citizen as a duty. Both environment hooks sit beside Article **21** case law.
 22. Water Act creates the pollution-board architecture; EPA is the later umbrella for broader environmental regulation including EIA.
@@ -84,16 +84,16 @@
 
 ## 17.1 Environmental Law (Constitutional Framework)
 
-**Identity:** Art 48A | Art 51A(g) | Art 21 expansion | Concurrent List | Rio principles in SC
+**Identity:** Art 48A | Art 51A(g) | Art 21 expansion | Concurrent List (समवर्ती सूची) | Rio principles in SC
 
 - **Environmental law** in India combines **constitutional duties**, **statutory Acts**, and **Supreme Court/NGT jurisprudence**.
 - **Article 48A** (DPSP) directs the **State** to protect and improve the environment and safeguard forests and wildlife.
 - **Article 51A(g)** (Fundamental Duty) requires every **citizen** to protect and improve the natural environment.
 - **Article 21** (Right to Life) was expanded by the Supreme Court to include the **right to a wholesome environment** (*M.C. Mehta*, *Subhash Kumar*).
 - **Article 48** deals with **agriculture and animal husbandry** — it is **not** the environment article. Do not confuse with **48A**.
-- Wildlife and forests fall under the **Concurrent List** — Centre and states both legislate.
+- Wildlife and forests fall under the **Concurrent List** (समवर्ती सूची) — Centre and states both legislate.
 - The **pollution law chain** runs Water Act 1974 → Air Act 1981 → EPA 1986 as umbrella supplement.
-- Indian courts have adopted **Rio principles** — **Precautionary**, **Polluter Pays**, and **Public Trust** (*Vellore Citizens' Welfare Forum*).
+- Indian courts have adopted (अंगीकृत) **Rio principles** — **Precautionary**, **Polluter Pays**, and **Public Trust** (*Vellore Citizens' Welfare Forum*).
 
 | Article | Type | Content |
 |---------|------|---------|
@@ -109,20 +109,20 @@
 **Identity:** Post-Bhopal 1984 | Umbrella law | Article 253 | Section 3 | EIA/CRZ/ESZ | GEAC | CGWA
 
 - The **EPA was enacted in 1986** after the **Bhopal Gas Tragedy (1984)** exposed gaps in environmental regulation.
-- Parliament passed it under **Article 253** to implement decisions of the **Stockholm Conference (1972)** on the human environment.
+- Parliament passed it under **Article 253** to implement decisions of the **Stockholm Conference (1972)** (स्टॉकहोम सम्मेलन) on the human environment.
 - It is India's **umbrella environmental legislation** giving the Centre broad powers under **Section 3** to protect and improve the environment.
 - **Section 6** empowers the Centre to make **rules** for environmental protection.
 - EPA legally defines **"environment"** as water, air, land, and their inter-relationships with living beings.
 - The **EIA Notification**, **CRZ rules**, and **ESZ notifications** are issued under **EPA Section 3** — not under the Water Act.
 - EPA **supplements** the Water Act 1974 and Air Act 1981. It does **not replace** them.
 - **Environmental Clearance** under EIA is distinct from SPCB **consent** under Water/Air Acts. Large projects may need **both**.
-- The **Genetic Engineering Appraisal Committee (GEAC)** is constituted under the **Environment (Protection) Act, 1986**.
+- The **Genetic Engineering Appraisal Committee (GEAC)** (जीईएसी) is constituted under the **Environment (Protection) Act, 1986**.
 - It was earlier called the Genetic Engineering **Approval** Committee and was renamed **Appraisal** Committee on **22 July 2010**.
 - GEAC is the apex body in MoEFCC for manufacture, use, import, export, and storage of hazardous microorganisms and genetically engineered organisms under the 1989 Rules.
-- The **Central Ground Water Authority (CGWA)** was constituted under **Section 3(3)** of the EPA, 1986 to regulate and control development and management of groundwater.
-- **CGWA** (regulatory authority under EPA) is **not** the same as **CGWB** (assessment board under Jal Shakti).
+- The **Central Ground Water Authority (CGWA)** (केंद्रीय भूजल प्राधिकरण) was constituted under **Section 3(3)** of the EPA, 1986 to regulate and control development and management of groundwater.
+- **CGWA** (regulatory authority under EPA) is **not** the same as **CGWB** (assessment board under Jal Shakti (शक्ति)).
 - Violations can attract imprisonment up to **5 years** and fines, extendable on continued violation.
-- **MoEFCC** is the nodal ministry for EPA implementation.
+- **MoEFCC** (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय) is the nodal ministry for EPA implementation.
 
 **PYQ — UPPCS Prelims 2022, Q11**
 
@@ -165,7 +165,7 @@ D. 1986
 - **National Park (Section 35)** has the **strictest** protection — no grazing or exploitation.
 - **Wildlife Sanctuary (Section 18)** allows more regulated human use under the Chief Wildlife Warden.
 - **Tiger Reserves** are notified under **Section 38V** (2006 amendment) with **NTCA** oversight.
-- The **National Board for Wildlife (NBWL)** is chaired by the **Prime Minister**.
+- The **National Board for Wildlife (NBWL)** (राष्ट्रीय वन्यजीव बोर्ड) is chaired by the **Prime Minister**.
 - States implement WPA through the **Chief Wildlife Warden (CWLW)**.
 - WPA does **not** cover forest land diversion (**FCA**) or community forest rights (**FRA**).
 
@@ -180,7 +180,7 @@ D. 1986
 ### Water Act 1974
 
 - The **Water Act was enacted in 1974** — India's first major post-Stockholm pollution law.
-- It created the **Central Pollution Control Board (CPCB)** and **State Pollution Control Boards (SPCBs)**.
+- It created the **Central Pollution Control Board (CPCB)** (केंद्रीय प्रदूषण नियंत्रण बोर्ड) and **State Pollution Control Boards (SPCBs)**.
 - SPCBs issue **Consent to Establish (CTE)** and **Consent to Operate (CTO)** for discharging effluents.
 - CPCB sets **water quality standards** and coordinates state boards.
 
@@ -217,7 +217,7 @@ D. 1977
 
 ## 17.5 Forest (Conservation) Act, 1980 | Forest Rights Act, 2006 | National Forest Policy, 1952
 
-**Identity:** FCA = diversion control | FRA = dweller rights | NFP 1952 revenue → NFP 1988 ecology
+**Identity:** FCA = diversion control | FRA = dweller rights | NFP 1952 revenue → NFP 1988 ecology (पारिस्थितिकी)
 
 ### FCA 1980
 
@@ -232,14 +232,14 @@ D. 1977
 - It grants **Individual Forest Rights (IFR)** up to **4 hectares** of cultivated land.
 - Claims must prove occupation before **13 December 2005**.
 - The **Gram Sabha** verifies and recommends claims.
-- **Community Forest Resource (CFR)** rights allow communities to manage and protect forest resources.
+- **Community Forest Resource (CFR)** (सामुदायिक वन संसाधन अधिकार) rights allow communities to manage and protect forest resources.
 - FRA **recognizes rights** — it does **not** authorize forest diversion. That is **FCA's** role.
 
 ### National Forest Policy, 1952
 
 - The **National Forest Policy 1952** focused on **revenue and industrial use** of forests.
 - Under NFP **1952**, forests were classed as **Protected/Conserved Forests, National Forests, Village Forests, and Tree Lands** — **National Park is not** a 1952 forest class.
-- It was superseded in practice by the **National Forest Policy 1988**, which targets **33% forest/tree cover nationally** and **66% in hills**, with people’s participation and ecology first.
+- It was superseded in practice by the **National Forest Policy 1988**, which targets **33% forest/tree cover (वृक्ष आवरण) nationally** and **66% in hills**, with people’s participation and ecology first.
 - NFP **1988** includes afforestation of wastelands, reforestation, and wood substitutes — **not** wide promotion of insecticides/pesticides.
 - Notes may cite **1952** from syllabus — know it as the **early revenue-oriented policy**.
 
@@ -257,8 +257,8 @@ D. 1977
 
 ### BDA 2002
 
-- The **Biological Diversity Act 2002** implements India's obligations under the **Convention on Biological Diversity (CBD)**.
-- The **National Biodiversity Authority (NBA)** is headquartered at **Chennai**.
+- The **Biological Diversity Act 2002** (जैव विविधता अधिनियम 2002) implements India's obligations under the **Convention on Biological Diversity (CBD)**.
+- The **National Biodiversity Authority (NBA)** (राष्ट्रीय जैव विविधता प्राधिकरण) is headquartered at **Chennai**.
 - **State Biodiversity Boards (SBB)** operate at state level.
 - **Biodiversity Management Committees (BMC)** function at local panchayat level.
 - **People's Biodiversity Registers (PBR)** document local biodiversity.
@@ -1135,7 +1135,7 @@ D. Both 2002
 
 ## Mains Answer Framework
 
-**Environmental laws (250 words):** Constitutional base (48A, 51A(g), Art 21). Chronological chain — WPA 1972, Water 1974, FCA 1980, Air 1981, EPA 1986, BDA 2002, FRA 2006, NGT 2010. EPA as umbrella + EIA. WPA schedules and protected areas. FCA vs FRA distinction. Pollution consent vs EC vs forest clearance. BDA three-tier structure. NGT role. NFP 1952/1988. Conclude with integrated compliance and Bhopal as law reform trigger.
+**Environmental laws (250 words):** Constitutional base (48A, 51A(g), Art 21). Chronological chain — WPA 1972, Water 1974, FCA 1980, Air 1981, EPA 1986, BDA 2002, FRA 2006, NGT 2010 (एनजीटी 2010). EPA as umbrella + EIA. WPA schedules and protected areas. FCA vs FRA distinction. Pollution consent vs EC vs forest clearance. BDA three-tier structure. NGT role. NFP 1952/1988. Conclude with integrated compliance and Bhopal as law reform trigger.
 
 ---
 

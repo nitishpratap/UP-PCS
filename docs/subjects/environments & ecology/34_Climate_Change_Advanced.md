@@ -1,10 +1,10 @@
-# Topic 34 — Climate Change (Advanced)
+# Topic 34 — Climate Change (जलवायु परिवर्तन) (Advanced)
 ### ★ UPPCS Revision Sheet — Lucent-style (no repetition · Practice ≥25)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Climate Change | Atmospheric Studies | Global Climate Monitoring | Greenhouse Gas Emissions | Sources of Greenhouse Gases | Greenhouse Effect | Global Warming | Carbon Cycle | Carbon Budget | Carbon Sink | Carbon Credit | Carbon Trading | Climate Change Mitigation | Climate Change Adaptation | Climate Change Policy of India | IPCC Assessment Reports
+Climate Change | Atmospheric Studies | Global Climate Monitoring | Greenhouse Gas Emissions | Sources of Greenhouse Gases | Greenhouse Effect | Global Warming (भूमंडलीय तापन) | Carbon Cycle | Carbon Budget | Carbon Sink (कार्बन सिंक) | Carbon Credit (कार्बन क्रेडिट) | Carbon Trading | Climate Change Mitigation | Climate Change Adaptation | Climate Change Policy of India | IPCC (आईपीसीसी) Assessment Reports
 
 </details>
 
@@ -26,15 +26,15 @@ Climate Change | Atmospheric Studies | Global Climate Monitoring | Greenhouse Ga
 1. **Climate change** is a long-term shift in temperature, rainfall, and extremes. **Global warming** is the temperature-rise part only.
 2. IPCC AR6 places warming near **1.1°C** above **1850–1900**, with human influence dominant. Past-century rise ≈ **1°C / 1.8°F**.
 3. The **Keeling Curve** records atmospheric **CO₂** at **Mauna Loa** since **1958**.
-4. The **Emissions Gap Report** is an annual **UNEP** product. It is **not** published by the IPCC.
+4. The **Emissions Gap Report** (उत्सर्जन अंतराल रिपोर्ट) is an annual **UNEP** (संयुक्त राष्ट्र पर्यावरण कार्यक्रम) product. It is **not** published by the IPCC.
 5. Main greenhouse gases are **CO₂, CH₄, N₂O, and F-gases**. **Argon is not a greenhouse gas**. **Joseph Fourier (1820s)** framed the greenhouse-effect idea.
-6. WMO-style relative shares often tested: **CO₂ ~64% > CH₄ ~19% > CFCs+others ~11% > N₂O ~6%**. Water vapour dominates the **natural** effect.
-7. India ranks near the top in **absolute** emissions (**China #1**, India ~**3rd**) but stays **low per capita**. **Bhutan** is often carbon-negative.
-8. A **carbon sink** absorbs net CO₂. A **carbon budget** is the cumulative CO₂ allowed for a temperature target. **Blue carbon** = ocean/coastal sinks.
-9. A **carbon credit** equals **1 tonne of CO₂ equivalent**. Carbon trading is the market for credits or allowances (Kyoto origin).
-10. **Green Credit (2023)** and **PAT ESCert** are **not** the same thing as a Kyoto-style carbon credit.
+6. WMO-style relative (सापेक्ष) shares often tested: **CO₂ ~64% > CH₄ ~19% > CFCs+others ~11% > N₂O ~6%**. Water vapour dominates the **natural** effect.
+7. India ranks near the top in **absolute** (निरपेक्ष) emissions (**China #1**, India ~**3rd**) but stays **low per capita**. **Bhutan** is often carbon-negative.
+8. A **carbon sink** absorbs net CO₂. A **carbon budget** is the cumulative CO₂ allowed for a temperature target. **Blue carbon** (नीला कार्बन) = ocean/coastal sinks.
+9. A **carbon credit** equals **1 tonne of CO₂ equivalent**. Carbon trading is the market for credits or allowances (Kyoto (क्योटो) origin).
+10. **Green Credit (2023)** (ग्रीन क्रेडिट) and **PAT ESCert** are **not** the same thing as a Kyoto-style carbon credit.
 11. **Mitigation** cuts emissions and grows sinks. **Adaptation** adjusts society and systems to climate impacts.
-12. **Kyoto** is climate mitigation. **Montreal** is ozone protection. Do not swap the two treaties.
+12. **Kyoto** (क्योटो) is climate mitigation (जलवायु शमन). **Montreal** is ozone protection. Do not swap the two treaties.
 13. India’s **NAPCC** launched in **2008** with **eight** missions (**not** nuclear power).
 14. India’s updated NDC path includes about **45%** emission-intensity cut and about **50%** non-fossil electricity capacity share.
 15. India’s **net-zero** year fact is **2070**. Net zero = balance emissions with removals, not absolute zero every emission.
@@ -44,12 +44,12 @@ Climate Change | Atmospheric Studies | Global Climate Monitoring | Greenhouse Ga
 19. The **greenhouse effect** is infrared trapping by greenhouse gases. Without it Earth would be about **−18°C**.
 20. The **carbon cycle** moves carbon among atmosphere, oceans, land, and fossil pools. Sequestration is the storing process.
 21. **Milankovitch** = eccentricity, obliquity, precession — **not** solar irradiance. **Ice cores** = cryogenic climate archive.
-22. **GCF** = Cancun **2010**. **CDM/CERs** = Kyoto. **GHG Protocol** = WRI + WBCSD. **Earth Hour** = WWF.
+22. **GCF** = Cancun **2010**. **CDM/CERs** = Kyoto. **GHG Protocol** = WRI + WBCSD. **Earth Hour** (अर्थ आवर) = WWF (डब्ल्यूडब्ल्यूएफ).
 23. Carbon trading grew from Kyoto-era market tools; Paris-era systems use national NDCs and domestic markets.
-24. Do not treat IPCC Assessment Reports as UNFCCC treaty text. Science reports and the climate convention are different homes.
+24. Do not treat IPCC Assessment Reports as UNFCCC (यूएनएफसीसीसी) treaty text. Science reports and the climate convention are different homes.
 25. Adaptation examples include early warning, climate-resilient crops, coastal defence, and heat-action plans — not only emission cuts.
 26. **Methane hydrates**, paddy+fertiliser (CH₄+N₂O), and wetland CH₄ are high-yield source traps.
-27. **Carbon fertilization** ≠ ocean acidification.
+27. **Carbon fertilization** ≠ ocean acidification (महासागरीय अम्लीकरण).
 28. **Forest Carbon Partnership Facility** and **BioCarbon Fund ISFL** are **World Bank** programmes — FCPF does **not** fund universities/individuals for research grants.
 29. **Climate Action Tracker** = Climate Analytics + New Climate Institute (not IPCC/UNEP wing).
 30. **Deep Carbon Observatory** maps deep-Earth carbon (physics, reservoirs, deep energy, deep life).
@@ -104,14 +104,14 @@ Climate Change | Atmospheric Studies | Global Climate Monitoring | Greenhouse Ga
 
 ## 34.2 Atmospheric Studies
 
-**Identity:** Radiative forcing | Keeling Curve | Warming troposphere / cooling stratosphere
+**Identity:** Radiative forcing (विकिरण दबाव) | Keeling Curve | Warming troposphere (क्षोभमंडल) / cooling stratosphere (समतापमंडल)
 
 - **Radiative forcing** (W/m²) measures the net energy imbalance driving warming.
 - The **Keeling Curve** records continuous atmospheric **CO₂** at **Mauna Loa, Hawaii**, since **1958** — rising trend is the classic graph.
 - GHG warming typically **warms the troposphere** and **cools the stratosphere** — a fingerprint distinct from solar-only warming.
 - Water vapour is a strong greenhouse gas but mainly a **feedback**, not the primary anthropogenic driver.
 
-> **Logic:** Mauna Loa = Keeling CO₂ monitoring, not ozone hole location (ozone hole = Antarctica).
+> **Logic:** Mauna Loa = Keeling CO₂ monitoring, not ozone hole (ओजोन छिद्र) location (ozone hole = Antarctica).
 
 ---
 
@@ -127,7 +127,7 @@ Climate Change | Atmospheric Studies | Global Climate Monitoring | Greenhouse Ga
 **PYQ — UPPCS Prelims 2024, Q6**
 
 Match: A. Human Development Report B. World Economic Outlook C. World Investment Report D. Emissions Gap Report
-with 1. IMF 2. UNEP 3. UNDP 4. UNCTAD
+with 1. IMF 2. UNEP 3. UNDP (यूएनडीपी) 4. UNCTAD
 
 Options: A. 3 1 4 2 B. 3 4 1 2 C. 1 2 3 4 D. 2 3 4 1
 
@@ -185,7 +185,7 @@ Options: A. China B. USA C. India D. France
 - **Industry** adds process CO₂ (cement, steel) plus F-gases.
 - **AFOLU** (agriculture, forestry, land use): **CH₄** from livestock/rice; **N₂O** from fertilisers; CO₂ from deforestation.
 - **Rice** is a major anthropogenic source of **both methane and nitrous oxide**.
-- Natural **wetlands** dominate natural methane; **methane hydrates** under Arctic tundra and seafloor can release CH₄ if warmed.
+- Natural **wetlands** dominate natural methane; **methane hydrates** under Arctic tundra (टुंड्रा) and seafloor can release CH₄ if warmed.
 - **Transport** and **buildings** add fossil CO₂; **waste** adds landfill methane.
 - Crop/biomass residue burning can release **CO, SO₂, CH₄, and ozone-related pollutants**.
 - **Argon is not a greenhouse gas.**
@@ -211,9 +211,9 @@ Options: A. Argon B. CFC C. Methane D. Carbon dioxide
 **Identity:** Fourier | Natural vs enhanced | IR trapping | −18°C without it
 
 - **Joseph Fourier (1820s)** postulated the greenhouse-effect concept.
-- The **natural greenhouse effect** keeps Earth habitable (~**+15°C** average; without it ≈ **−18°C**).
+- The **natural greenhouse effect** (प्राकृतिक ग्रीनहाउस प्रभाव) keeps Earth habitable (~**+15°C** average; without it ≈ **−18°C**).
 - Shortwave solar energy reaches Earth; the surface re-emits **longwave IR**, which GHGs absorb and re-radiate.
-- The **enhanced greenhouse effect** from extra anthropogenic GHGs traps more outgoing infrared radiation.
+- The **enhanced greenhouse effect** (मानवजनित संवर्धित प्रभाव) from extra anthropogenic GHGs traps more outgoing infrared radiation.
 - Main natural greenhouse gases include water vapour, CO₂, CH₄, and N₂O; CFCs/HFCs are human-made.
 - **Astronomical (Milankovitch) climate theory** uses eccentricity, obliquity, and precession — **solar irradiance is not** listed in that set. **Ice cores** are the classic cryogenic climate indicator.
 
@@ -227,7 +227,7 @@ Options: A. Argon B. CFC C. Methane D. Carbon dioxide
 
 - **Global warming** means long-term rise in global mean surface temperature.
 - IPCC AR6: about **1.1°C** above the **1850–1900** baseline.
-- Impacts include heatwaves, glacier melt, sea-level rise, coral bleaching, and monsoon extremes (UP heat / Bundelkhand drought / Ganga floods).
+- Impacts include heatwaves, glacier melt, sea-level rise, coral bleaching (प्रवाल विरंजन), and monsoon extremes (UP heat / Bundelkhand drought (सूखा) / Ganga (गंगा) floods).
 - Warming is necessary but not sufficient to describe all climate-change impacts.
 
 > **Logic:** Paris aims to hold warming well below **2°C** and pursue **1.5°C**.
@@ -291,7 +291,7 @@ Options: A. Argon B. CFC C. Methane D. Carbon dioxide
 
 The concept of 'carbon credit' originated from
 
-Options: A. Earth Summit Rio B. Kyoto Protocol C. Montreal Protocol D. G-8 Summit
+Options: A. Earth Summit Rio B. Kyoto Protocol C. Montreal Protocol (मॉन्ट्रियल प्रोटोकॉल) D. G-8 Summit
 
 <details><summary>Show answer</summary>
 
@@ -322,15 +322,15 @@ Options: A. Earth Summit Rio B. Kyoto Protocol C. Montreal Protocol D. G-8 Summi
 **Identity:** Cut emissions + enhance sinks | Kyoto / Paris | Renewables
 
 - **Mitigation** reduces GHG emissions and/or enhances sinks to limit future warming.
-- Tools: renewables, efficiency, electrification, afforestation, CCS, carbon markets, demand-side LiFE actions.
-- Key treaties: **UNFCCC 1992**, **Kyoto Protocol 1997**, **Paris Agreement 2015**.
+- Tools: renewables, efficiency, electrification, afforestation, CCS (सुरक्षा कैबिनेट समिति), carbon markets, demand-side LiFE actions.
+- Key treaties: **UNFCCC 1992**, **Kyoto Protocol 1997**, **Paris Agreement (पेरिस समझौता) 2015**.
 - **Montreal Protocol is ozone**, not climate mitigation.
 
 **PYQ — UPPCS Prelims 2024, Q35**
 
 Which international agreement is related to climate change mitigation?
 
-Options: A. Montreal Protocol B. Ramsar Convention C. Kyoto Protocol D. CITES
+Options: A. Montreal Protocol B. Ramsar (रामसर) Convention C. Kyoto Protocol D. CITES (साइट्स)
 
 <details><summary>Show answer</summary>
 
@@ -348,7 +348,7 @@ Options: A. Montreal Protocol B. Ramsar Convention C. Kyoto Protocol D. CITES
 
 - **Adaptation** means adjusting natural or human systems to actual or expected climate impacts.
 - Examples: heat action plans, drought-resistant crops, flood forecasting, coastal protection, water efficiency.
-- India’s adaptation spine includes NAPCC missions on water, Himalaya, agriculture, and sustainable habitat, plus state action plans (SAPCC).
+- India’s adaptation spine includes NAPCC missions on water, Himalaya (हिमालय), agriculture, and sustainable habitat (वास स्थान), plus state action plans (SAPCC).
 - Adaptation does not replace mitigation — both are required.
 
 > **Logic:** Adapt = adjust; mitigate = reduce.
@@ -359,7 +359,7 @@ Options: A. Montreal Protocol B. Ramsar Convention C. Kyoto Protocol D. CITES
 
 **Identity:** NAPCC 2008 | NDC 2022 | Net zero 2070 | LiFE | CCTS
 
-- **MoEFCC** is the nodal ministry for climate policy and UNFCCC engagement.
+- **MoEFCC** (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय) is the nodal ministry for climate policy and UNFCCC engagement.
 - **NAPCC (2008)** has **eight national missions** (solar, efficiency, water, Himalaya, Green India, agriculture, habitat, strategic knowledge). **Nuclear power is not** a listed mission.
 - **Updated NDC (2022):** **45%** emissions-intensity cut vs 2005 by 2030; **50%** non-fossil electricity capacity; **2.5–3 GtCO₂e** forest sink.
 - **Net zero by 2070** announced at **COP-26 Glasgow (2021)**, with **500 GW** non-fossil capacity by 2030 as a related pledge. Net zero means emissions are **compensated by absorption/removal**, not absolute zero every emission.

@@ -38,7 +38,7 @@ Governor | Governor's Discretionary Powers | Absolute vs Situational Discretion 
 4. Qualifications (**Article 157**): citizen and completed **35 years**. Oath (**Article 159**) is before the **Chief Justice of the High Court**.
 5. **Article 154** vests State executive power in the Governor. **Article 162** only states the **extent** of that power — do not call 162 the vesting article.
 6. **Article 163**: the Governor acts on CoM aid and advice **except** where the Constitution gives **discretion**. Dual role: constitutional head of the State and the Centre’s agent.
-7. Classic discretionary situations: choosing a CM in a hung House; dismissing a CoM that has lost the House; dissolving the Assembly; reserving a Bill under **Article 200**; recommending **Article 356**; and certain **Article 371** special responsibilities.
+7. Classic discretionary situations: choosing a CM in a hung House; dismissing a CoM that has lost the House; dissolving the Assembly; reserving a Bill under **Article 200**; recommending **Article 356** (अनुच्छेद 356); and certain **Article 371** special responsibilities.
 8. ***Bommai*** fact: majority is tested on the **House floor**, not in Raj Bhavan by private claim alone.
 9. **Article 161** pardoning power of the Governor does **not** cover **death sentence** or **court-martial** — those stay with the President under **Article 72**.
 10. Under **Article 200** the Governor may assent, withhold assent, return a non-Money Bill, or **reserve** the Bill for the President. A Bill that cuts High Court powers **must** be reserved.
@@ -46,8 +46,8 @@ Governor | Governor's Discretionary Powers | Absolute vs Situational Discretion 
 12. **Article 213** ordinances: House(s) not in session; same **six-week** reassembly rhythm as at the Centre. In listed cases the Governor needs the **President’s instructions** before promulgating.
 13. The Chief Minister is appointed by the Governor (**Article 164**) and has a communication duty under **Article 167** (parallel to the PM’s Article 78).
 14. State Council of Ministers: collective responsibility to the **Legislative Assembly only**. Size under the **91st Amendment**: maximum **15% of the Assembly**, with a floor of **12** ministers including the CM.
-15. The **Advocate General** (**Article 165**) needs High Court judge qualifications, holds office during the **pleasure of the Governor**, and may speak in both Houses but **cannot vote**.
-16. Legislative Assembly: maximum **500**, minimum **60**; term **five years**. **Uttar Pradesh** Assembly strength is **403**. Quorum is **10 members or one-tenth**, whichever is greater.
+15. The **Advocate General** (महाधिवक्ता) (**Article 165**) needs High Court judge qualifications, holds office during the **pleasure of the Governor**, and may speak in both Houses but **cannot vote**.
+16. Legislative Assembly: maximum **500**, minimum **60**; term **five years**. **Uttar Pradesh** (उत्तर प्रदेश) Assembly strength is **403**. Quorum is **10 members or one-tenth**, whichever is greater.
 17. MLA disqualification under **Article 191** is decided by the **Governor on binding Election Commission advice** (**Article 192**), except the anti-defection track handled by the Speaker.
 18. Legislative Council under **Article 171**: maximum **one-third of the Assembly**, minimum **40**. Members’ term is **six years** with one-third retiring; the Council is **never dissolved**, but it **can be abolished**.
 19. Creation or abolition of a Council uses **Article 169**: the Assembly passes a resolution by **special majority**, then Parliament acts by **simple majority** — this is **not** an Article 368 amendment.
@@ -382,7 +382,7 @@ D. 14
 
 ## State Legislature — unicameral vs bicameral (Arts. 168–169)
 
-**Art. 168:** a State legislature = the **Governor** + Legislative Assembly (**Vidhan Sabha**), and, in some States, a Legislative Council (**Vidhan Parishad**). The Governor is a **part of** the legislature (assent, address, ordinance).
+**Art. 168:** a State legislature = the **Governor** + Legislative Assembly (**Vidhan Sabha**), and, in some States, a Legislative Council (**Vidhan Parishad** (विधान परिषद)). The Governor is a **part of** the legislature (assent, address, ordinance).
 
 | | Unicameral | Bicameral |
 |--|-----------|-----------|
@@ -391,7 +391,7 @@ D. 14
 | Deadlock on an ordinary Bill | — | **Art. 197** — LA **prevails**. **No joint sitting** in a State |
 
 **Art. 169 procedure**
-1. The **Legislative Assembly** passes a resolution by **special majority** (majority of **total membership** + **2/3 of members present and voting**).
+1. The **Legislative Assembly** passes a resolution by **special majority** (majority of **total membership** (सदन की कुल सदस्य संख्या का) + **2/3 of members present and voting**).
 2. **Parliament** then **may** pass a law by **simple majority**. That law is **not** deemed an Art. **368** amendment (so no special majority, no State ratification).
 3. The Assembly resolution does **not** create a hard obligation on the Union Government to introduce a Bill, and it does **not** force the Governor to reserve the resolution for the President.
 4. Parliament’s law may contain **supplemental, incidental and consequential** provisions (representation, sitting members, etc.).
@@ -527,12 +527,12 @@ D. Neither 1 nor 2
 
 ## UP Focus (State Government)
 
-**Bicameral State:** LA **403** + LC **100**; Raj Bhavan Lucknow; High Court principal seat **Prayagraj**.
+**Bicameral State:** LA **403** + LC **100**; Raj Bhavan Lucknow; High Court principal seat **Prayagraj** (प्रयागराज).
 
 - **UP Legislative Assembly:403** elected seats (largest LA in India).
 - **UP Legislative Council:100** (bicameral).
 - **Governor of UP:** Appointed by the President; Raj Bhavan, Lucknow.
-- **High Court:** Principal seat **Prayagraj** (Letters Patent **17 Mar 1866**; first sat **Agra**). **Lucknow Bench** 1948 (Oudh Chief Court 1925 merged). Not a second High Court.
+- **High Court:** Principal seat **Prayagraj** (Letters Patent **17 Mar 1866**; first sat **Agra** (आगरा)). **Lucknow Bench** 1948 (Oudh Chief Court 1925 merged). Not a second High Court.
 
 ---
 

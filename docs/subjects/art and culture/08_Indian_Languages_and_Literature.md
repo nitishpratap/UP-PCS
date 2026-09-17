@@ -42,7 +42,7 @@ Ancient Indian Literature | Sanskrit Literature | Vedic Literature | Epic Litera
 15. The chronology of previously declared Classical Languages is: Tamil (**2004**), Sanskrit (**2005**), Telugu and Kannada (**2008**), Malayalam (**2013**), and Odia (**2014**), bringing the total count to **11 Classical Languages**.
 16. **Tulsidas** (तुलसीदास) wrote the Awadhi *Ramcharitmanas* (रामचरितमानस). **Surdas** (सूरदास) wrote Braj *Sursagar* (सूरसागर). **Malik Muhammad Jayasi** (मलिक मुहम्मद जायसी) wrote the Awadhi *Padmavat* (पद्मावत).
 17. **Bhartendu Harishchandra** (भारतेन्दु हरिश्चंद्र) of Banaras is the father of modern Hindi dramatic and prose literature.
-18. The renowned Sanskrit scholar **Kavindra Acharya Saraswati** of Banaras was patronized by Emperor **Shah Jahan**; he famously persuaded the emperor to abolish the pilgrimage tax on Hindu pilgrims at Kashi and Prayag.
+18. The renowned Sanskrit scholar **Kavindra Acharya Saraswati** of Banaras was patronized by Emperor **Shah Jahan** (शाहजहाँ); he famously persuaded the emperor to abolish the pilgrimage tax on Hindu pilgrims at Kashi and Prayag.
 19. The Eighth Schedule of the Constitution lists **22** languages. It began with 14; Sindhi was added in 1967 (21st Amendment); Konkani, Manipuri, and Nepali in 1992 (71st Amendment); and Bodo, Dogri, Maithili, and Santhali in 2003 (92nd Amendment).
 20. English and Rajasthani are **not** in the Eighth Schedule. Bhojpuri is also **not** currently listed.
 21. The criteria for Classical Language status require **1500–2000 years** of high antiquity, an original literary tradition, and distinctiveness from modern vernacular offshoots.
@@ -51,21 +51,21 @@ Ancient Indian Literature | Sanskrit Literature | Vedic Literature | Epic Litera
 24. Maharishi Valmiki is revered as the *Adikavi* for composing the original Sanskrit *Ramayana*, while Goswami Tulsidas composed the celebrated 16th-century Awadhi retelling, the *Ramcharitmanas*.
 25. *Tolkappiyam* (तोल्काप्पियम्) is grammar. *Tirukkural* (तिरुक्कुरल) is by **Tiruvalluvar** (तिरुवल्लुवर). *Silappadikaram* (शिलप्पदिकारम्) is by **Ilango Adigal** (इलंगो अडिगल). *Manimekalai* (मणिमेकलै) is by **Sattanar** (सत्तनार).
 26. **Kamban** (कंबन) wrote *Ramavataram* (रामावतारम्), the Tamil Ramayana. ***Tirumurai*** (तिरुमुरै) is the Saiva hymn corpus treated as a Fifth Veda of Tamil Shaivism.
-27. **Alvars** number **12** (Vaishnava); **Nayanars** number **63** (Shaiva). Do not reverse the counts.
+27. **Alvars** number **12** (Vaishnava); **Nayanars** (नायनार) number **63** (Shaiva). Do not reverse the counts.
 28. Greek **Herodotus** is the **Father of History**; his *Histories / Historica* describes Indo–Persian relations in the **5th century BCE**. *Natural History* is **Pliny the Elder**, not Ptolemy.
-29. Gupta-age classics include **Amarasimha**’s *Amarakosha*, **Vatsyayana**’s *Kamasutra*, Kalidasa’s *Meghaduta*, and **Vishakhadatta**’s *Mudrarakshasa* (Maurya overthrow of the Nandas, written in the Gupta age).
+29. Gupta-age classics include **Amarasimha**’s *Amarakosha* (अमरकोश), **Vatsyayana**’s *Kamasutra*, Kalidasa’s *Meghaduta*, and **Vishakhadatta**’s *Mudrarakshasa* (Maurya overthrow of the Nandas, written in the Gupta age).
 30. **Panini** (पाणिनि) wrote the *Ashtadhyayi* (अष्टाध्यायी). **Patanjali** (पतंजलि) wrote the *Mahabhashya* (महाभाष्य). **Yaska** (यास्क) wrote the *Nirukta* (निरुक्त). **Katyayana** (कात्यायन) wrote the *Varttika* (वार्त्तिक). Panini is not a Pushyamitra court poet. Patanjali is Shunga-linked.
 31. **Kalhana**’s *Rajatarangini* is the Sanskrit chronicle of **Kashmir** kings, completed under **Jayasimha / Jai Singh (1128–1149)**, in **eight** tarangas. Continuators are **Jonaraja** and **Srivara**.
 32. **Harsha** (हर्ष) wrote *Ratnavali* (रत्नावली), *Priyadarshika* (प्रियदर्शिका), and *Nagananda* (नागानन्द). *Harshacharita* and *Kadambari* are **Banabhatta**. *Karpuramanjari* (कर्पूरमंजरी) is **Rajasekhara** (राजशेखर), not Harsha.
 33. **Sriharsha** (श्रीहर्ष) wrote *Naishadhiyacharita* (नैषधीयचरित). **Bharavi** (भारवि) wrote *Kiratarjuniya* (किरातार्जुनीय). **Magha** (माघ) wrote *Shishupalavadha* (शिशुपालवध). *Dashakumaracharita* (दशकुमारचरित) by **Dandin** (दंडी) is not a Mahabharata theme.
-34. **Varahamihira** wrote *Panchasiddhantika* (based on **Greek** astronomy), *Brihatsamhita* (encyclopedic), and *Brihat Jataka*. *Amarakosha* is **Amarasimha**, not Varaha.
+34. **Varahamihira** wrote *Panchasiddhantika* (पंचसिद्धांतिका) (based on **Greek** astronomy), *Brihatsamhita* (encyclopedic), and *Brihat Jataka*. *Amarakosha* is **Amarasimha**, not Varaha.
 35. **Charaka Samhita** is Ayurveda medicine in **120 chapters** and **eight** sections. **Bhaskara II**’s *Siddhantashiromani* has four parts: *Lilavati*, *Bijaganita*, *Ganitadhyaya*, *Goladhyaya* (algebra fame).
 36. **Aryabhata** wrote *Aryabhatiya*; earth is spherical and rotates; often tagged for trigonometry and decimal place-value teaching. **Zero** as a numeral is credited to an **anonymous Indian** (Arabs used it by **873 CE**).
 37. *Panchatantra* (पंचतंत्र) is attributed to **Vishnu Sharma** (विष्णु शर्मा). Abul Fazl’s Mughal Persian rendering is ***Ayar-e-Danish*** (आयारे दानिश).
 38. *Natyashastra* (नाट्यशास्त्र) is **Bharata Muni** (भरत मुनि). **Bhasa** (भास) wrote *Svapnavasavadattam* (स्वप्नवासवदत्तम्) and *Madhyama-vyayoga* (मध्यमव्यायोग).
 39. **Manusmriti** (मनुस्मृति) is mainly the social and law system. **Mitakshara** (मिताक्षरा) is **Vijnaneshwara** (विज्ञानेश्वर) on Yajnavalkya. **Dayabhaga** (दायाभाग) is **Jimutavahana** (जीमूतवाहन).
-40. Court–poet matches: **Chandragupta II**–Kalidasa; **Samudragupta**–**Harisena**; **Harsha**–Banabhatta; **Alauddin Khalji**–Amir Khusrau. **Jayadeva** (*Gita Govinda*) adorned **Lakshmana Sena**’s Bengal court.
-41. Wrong-pair traps: *Devichandragupta* = **Vishakhadatta** (not Bilhana); *Milindapanha* monk = **Nagasena** (not Nagarjuna); *Kadambari* = **Banabhatta** (not Subandhu); *Buddhacharita* = **Ashvaghosha** (not Vasubandhu).
+40. Court–poet matches: **Chandragupta II** (चंद्रगुप्त द्वितीय)–Kalidasa; **Samudragupta**–**Harisena**; **Harsha**–Banabhatta; **Alauddin Khalji** (अलाउद्दीन खिलजी)–Amir Khusrau. **Jayadeva** (*Gita Govinda*) adorned **Lakshmana Sena**’s Bengal court.
+41. Wrong-pair traps: *Devichandragupta* = **Vishakhadatta** (not Bilhana); *Milindapanha* (मिलिंदपन्ह) monk = **Nagasena** (नागसेन) (not Nagarjuna); *Kadambari* = **Banabhatta** (not Subandhu); *Buddhacharita* = **Ashvaghosha** (not Vasubandhu).
 42. *Mattavilasa Prahasana* (मत्तविलास प्रहसन) is Pallava **Mahendravarman I** (महेन्द्रवर्मन प्रथम). *Gaudavaho* (गौडवहो) is **Vakpati** (वाकपति). *Katantra* (कातंत्र) is **Sarvavarman** (सर्ववर्मन). *Nitisara* (नीतिसार) is **Kamandaka** (कामंदक).
 
 ---
@@ -97,59 +97,6 @@ Ancient Indian Literature | Sanskrit Literature | Vedic Literature | Epic Litera
 
 ---
 
-## Hindi spell — hard names
-
-Write these in Devanagari as given. One name, one spelling.
-
-| English | Hindi |
-|---------|-------|
-| Shruti / Smriti | श्रुति / स्मृति |
-| Samhita / Brahmana / Aranyaka / Upanishad | संहिता / ब्राह्मण / आरण्यक / उपनिषद् |
-| Vajasaneyi / Taittiriya | वाजसनेयी / तैत्तिरीय |
-| Ashtadhyayi | अष्टाध्यायी |
-| Mahabhashya | महाभाष्य |
-| Nirukta | निरुक्त |
-| Arthashastra | अर्थशास्त्र |
-| Charaka Samhita | चरक संहिता |
-| Sushruta Samhita | सुश्रुत संहिता |
-| Aryabhatiya | आर्यभटीय |
-| Brihatsamhita | बृहत्संहिता |
-| Panchasiddhantika | पंचसिद्धांतिका |
-| Meghaduta | मेघदूत |
-| Raghuvamsha | रघुवंश |
-| Kumarasambhava | कुमारसंभव |
-| Ritusamhara | ऋतुसंहार |
-| Abhijnanashakuntalam | अभिज्ञानशाकुन्तलम् |
-| Vikramorvashiya | विक्रमोर्वशीयम् |
-| Malavikagnimitram | मालविकाग्निमित्रम् |
-| Mrichchhakatika | मृच्छकटिकम् |
-| Mudrarakshasa | मुद्राराक्षस |
-| Uttararamacharita | उत्तररामचरित |
-| Harshacharita / Kadambari | हर्षचरित / कादंबरी |
-| Gita Govinda | गीत गोविंद |
-| Rajatarangini | राजतरंगिणी |
-| Kiratarjuniya | किरातार्जुनीय |
-| Shishupalavadha | शिशुपालवध |
-| Naishadhiyacharita | नैषधीयचरित |
-| Dashakumaracharita | दशकुमारचरित |
-| Karpuramanjari | कर्पूरमंजरी |
-| Ramcharitmanas | रामचरितमानस |
-| Sursagar | सूरसागर |
-| Padmavat | पद्मावत |
-| Tolkappiyam | तोल्काप्पियम् |
-| Tirukkural | तिरुक्कुरल |
-| Silappadikaram | शिलप्पदिकारम् |
-| Manimekalai | मणिमेकलै |
-| Ettuttokai / Pattuppattu | एट्टुत्तोकै / पत्तुप्पाट्टु |
-| Nalayira Divya Prabandham | नालायिर दिव्य प्रबंधम् |
-| Mitakshara / Dayabhaga | मिताक्षरा / दायाभाग |
-| Amarakosha | अमरकोश |
-| Panchatantra | पंचतंत्र |
-| Milindapanha | मिलिंदपन्ह |
-| Mattavilasa Prahasana | मत्तविलास प्रहसन |
-| Gaudavaho | गौडवहो |
-
----
 
 ## Must-score facts — Vedas, authors, classical languages
 
@@ -167,7 +114,7 @@ Write these in Devanagari as given. One name, one spelling.
 | Author | Work |
 |--------|------|
 | Kalidasa | *Meghaduta*, *Raghuvamsha*, *Shakuntala*… |
-| Bhartrihari | *Shringara Shataka* |
+| Bhartrihari | *Shringara Shataka* (शृंगार शतक) |
 | Panini / Patanjali | *Ashtadhyayi* / *Mahabhashya* |
 | Charaka / Sushruta | Medicine / surgery |
 | Banabhatta | *Harshacharita*, *Kadambari* |
@@ -214,10 +161,10 @@ Classical Sanskrit follows Panini. It covers kavya, nataka, and shastra. Gupta a
 
 ### Gupta peak & foreign mirrors
 
-- Sanskrit literature reached a classical peak in the **Gupta** age for both prose and poetry.
+- Sanskrit literature reached a classical peak in the **Gupta** (गुप्त) age for both prose and poetry.
 - High-yield Gupta-age classics include **Amarasimha**’s *Amarakosha*, **Vatsyayana**’s *Kamasutra*, Kalidasa’s *Meghaduta*, and **Vishakhadatta**’s *Mudrarakshasa*.
-- *Mudrarakshasa* is a Sanskrit drama written in the Gupta period. Its plot shows **Chandragupta Maurya** and **Kautilya** overthrowing the **Nandas**, and it also paints Mauryan social and economic life.
-- Vishakhadatta also wrote ***Devichandraguptam*** (do not assign it to Bilhana).
+- *Mudrarakshasa* is a Sanskrit drama written in the Gupta period. Its plot shows **Chandragupta Maurya** (चंद्रगुप्त मौर्य) and **Kautilya** (कौटिल्य) overthrowing the **Nandas**, and it also paints Mauryan social and economic life.
+- Vishakhadatta also wrote ***Devichandraguptam** (देवीचन्द्रगुप्तम्)* (do not assign it to Bilhana).
 
 ### Kalidasa (highest-yield author)
 
@@ -228,7 +175,7 @@ Classical Sanskrit follows Panini. It covers kavya, nataka, and shastra. Gupta a
 - *Meghaduta* is a khandakavya (cloud-messenger).
 - *Raghuvamsha* is a mahakavya.
 - ***Malavikagnimitram*** is often treated as Kalidasa’s **first** play. It is a five-act love story of Shunga king **Agnimitra** of Vidisha (son of Pushyamitra’s line) and Malavika.
-- These works are **not his**. *Shringara Shataka* is **Bhartrihari**. *Uttararamacharita* is Bhavabhuti. *Mrichchhakatika* is Shudraka. *Mudrarakshasa* is Vishakhadatta. ***Janakiharanam*** is **Kumaradasa**, not Kalidasa.
+- These works are **not his**. *Shringara Shataka* is **Bhartrihari**. *Uttararamacharita* (उत्तररामचरित) is Bhavabhuti. *Mrichchhakatika* (मृच्छकटिकम्) is Shudraka. *Mudrarakshasa* is Vishakhadatta. ***Janakiharanam*** is **Kumaradasa**, not Kalidasa.
 
 **PYQ — UPPCS Prelims 2025, Q48**
 
@@ -288,7 +235,7 @@ D. Only 1
 - ***Manusmriti*** (*Manava Dharmashastra*) is mainly about the **social system** and law. Manu is remembered as the first law-giver of India.
 - **Vijnaneshwara** (विज्ञानेश्वर) wrote the *Mitakshara* (मिताक्षरा) on Yajnavalkya Smriti. **Jimutavahana** (जीमूतवाहन) wrote the *Dayabhaga* (दायाभाग). In Mitakshara, sons can claim a right in the father’s lifetime. In Dayabhaga, the claim is generally after the father’s death.
 - **Sarvavarman** wrote *Katantra* (grammar). **Devana Bhatta** wrote *Smriti Chandrika*. **Hemadri** wrote *Chaturvarga Chintamani*. **Madhavacharya** is linked with *Parashara Madhava*. **Ballala Sena** wrote *Dana Sagara*.
-- *Panchatantra* animal fables are attributed to **Vishnu Sharma**. The set is said to have been translated into about **15** Indian and **40** foreign languages. In the Mughal age **Abul Fazl** rendered it as ***Ayar-e-Danish***.
+- *Panchatantra* animal fables are attributed to **Vishnu Sharma**. The set is said to have been translated into about **15** Indian and **40** foreign languages. In the Mughal age **Abul Fazl** (अबुल फजल) rendered it as ***Ayar-e-Danish***.
 - **Bharata Muni**’s *Natyashastra* is the treatise on drama, dance, and music — often called the “Bible” of North Indian classical music.
 - **Bhamaha** wrote *Kavyalankara*. Do not confuse it with Bhasa’s plays.
 - Pallava **Mahendravarman I** wrote the farce ***Mattavilasa Prahasana***.
@@ -302,9 +249,9 @@ D. Only 1
 
 ### Other authors (one name, one fact)
 
-- **Bhartesrihari** wrote the *Niti*, *Shringara* and *Vairagya Shataka*.
+- **Bhartesrihari** wrote the *Niti* (नीति), *Shringara* and *Vairagya Shataka*.
 - **Anandavardhana** wrote *Dhvanyaloka* on dhvani poetics.
-- **Abhinavagupta** wrote *Abhinavabharati*, the Natyashastra commentary. He is Kashmir Shaiva.
+- **Abhinavagupta** wrote *Abhinavabharati* (अभिनवभारती), the Natyashastra commentary. He is Kashmir Shaiva.
 - **Surdas** wrote *Sursagar*, *Sur Saravali*, and *Sahitya Lahiri*.
 - **Tulsidas** wrote *Ramcharitmanas*, *Vinaya Patrika*, and *Kavitavali*.
 
@@ -349,12 +296,12 @@ D. 3 4 2 1
 
 **Order:** Samhita → Brahmana → Aranyaka → Upanishad
 
-- **Rigveda** is the oldest. It is hymns in about 10 mandalas. Gayatri is in RV 3.62.10.
-- **Samaveda** is chants. It is the source of later Indian music.
-- **Yajurveda** holds ritual formulas.
+- **Rigveda** (ऋग्वेद) is the oldest. It is hymns in about 10 mandalas. Gayatri is in RV 3.62.10.
+- **Samaveda** (सामवेद) is chants. It is the source of later Indian music.
+- **Yajurveda** (यजुर्वेद) holds ritual formulas.
 - The **Shukla Yajurveda** Samhita is **Vajasaneyi** (Madhyandina / Kanva).
 - **Krishna Yajurveda** mixes mantra and brahmana. Recensions are **Taittiriya**, Maitrayani, Kathaka and Kapisthala.
-- **Atharvaveda** covers charms, healing and grahya life.
+- **Atharvaveda** (अथर्ववेद) covers charms, healing and grahya life.
 - Aitareya and Kaushitaki Brahmanas belong to the **Rigveda**.
 - Taittiriya Brahmana belongs to Krishna Yajurveda. **Shatapatha** Brahmana belongs to Shukla Yajurveda.
 - Tandya / Panchavimsha Brahmana belongs to Samaveda. **Gopatha** belongs to Atharvaveda.
@@ -425,7 +372,7 @@ There are **18 Mahapuranas and **18** Upapuranas. The names of the eighteen Maha
 17. Garuda
 18. Brahmanda
 
-- The history-source fact is that **Vishnu Purana** carries **Maurya** genealogies.
+- The history-source fact is that **Vishnu Purana** carries **Maurya** (मौर्य) genealogies.
 - **Vayu Purana** is used for **Gupta** polity and genealogy.
 - **Bhagavata Purana** is the Krishna-bhakti peak text.
 - **Markandeya** holds the Devi Mahatmya.
@@ -466,7 +413,7 @@ Regional literature is the language of the people. Learn each book with its lang
 - **Kamban** wrote *Ramavataram*, the Tamil Ramayana.
 - ***Tirumurai*** is the twelve-volume Saiva hymn corpus; tradition treats it as a **Fifth Veda** of Tamil Shaivism (with Vedas and Saiva Agamas behind Saiva Siddhanta).
 - The **12 Alvars** were Tamil Vaishnavite poet-saints whose sacred hymns are compiled in the *Nalayira Divya Prabandham*.
-- The **63 Nayanars** were Tamil Shaivite poet-saints whose foundational hymns comprise the *Tevaram* (canonized within the 12 *Tirumurais*).
+- The **63 Nayanars** were Tamil Shaivite poet-saints whose foundational hymns comprise the *Tevaram* (तेवारम्) (canonized within the 12 *Tirumurais*).
 
 ### Match spine (Tamil texts)
 
@@ -482,14 +429,14 @@ Regional literature is the language of the people. Learn each book with its lang
 - The Kannada three gems are **Pampa**, **Ranna** and **Ponna**.
 - **Basava** wrote Kannada *vachanas* in the Virashaiva line.
 - The Telugu Mahabharata poets are **Nannaya**, **Tikkana** and **Errana**.
-- **Tyagaraja** wrote Telugu Rama *kritis*. He is of the Carnatic Trinity.
+- **Tyagaraja** (त्यागराज) wrote Telugu Rama *kritis*. He is of the Carnatic Trinity.
 - In Malayalam literature, the earliest notable poetic work is the 12th-century *Ramacharitam*, followed later by the foundational writings of Thunchaththu Ezhuthachan.
 
 ### Indo-Aryan (UP-heavy)
 
 - **Tulsidas** composed the *Ramcharitmanas* in **Awadhi** across the cultural belt of Ayodhya, Chitrakoot, and Varanasi (Banaras); his other seminal masterworks include *Vinaya Patrika* and *Kavitavali*.
 - **Surdas** wrote *Sursagar*, *Sur Saravali*, and *Sahitya Lahiri* in **Braj**. He is in the Vallabhacharya / Pushtimarg line.
-- **Kabir** wrote *Bijak* and *sabad*. He is of Maghar / Sant Kabir Nagar in **Uttar Pradesh. His guru is **Ramananda**.
+- **Kabir** (कबीर) wrote *Bijak* and *sabad*. He is of Maghar / Sant Kabir Nagar in **Uttar Pradesh. His guru is **Ramananda**.
 - **Malik Muhammad Jayasi** wrote *Padmavat* in **Awadhi**.
 - **Bihari** wrote *Satsai* in Braj.
 - **Rahim / Raskhan** wrote Braj Krishna/Hindi couplets in the Mughal age.
@@ -501,10 +448,10 @@ Regional literature is the language of the people. Learn each book with its lang
 
 - Prominent landmarks of Bengali literature include the early poetry of **Chandidas** and the devotional biographies of Chaitanya Mahaprabhu.
 - **Rabindranath Tagore wrote *Gitanjali*. He won the Nobel in **1913**.
-- Marathi Bhakti literature is anchored by **Jnaneshwar** (who authored the *Jnaneshwari* commentary on the Gita) and the devotional *abhangas* of Sant **Tukaram**.
+- Marathi Bhakti literature is anchored by **Jnaneshwar** (who authored the *Jnaneshwari* commentary on the Gita) and the devotional *abhangas* of Sant **Tukaram** (तुकाराम).
 - Jayadeva is Sanskrit, but Odisha claims the Gita Govinda soil.
 - Classical Urdu poetry reached its zenith through master poets **Mirza Ghalib** and **Mir Taqi Mir**, flourishing across the Delhi and Lucknow cultural spheres.
-- **Ghazal** is an Urdu lyric, sung as light-classical.
+- **Ghazal** (ग़ज़ल) is an Urdu lyric, sung as light-classical.
 - Kashmiri literary traditions encompass the mystic verses (*vatsun*) of 14th-century Shaivite poetess **Lal Ded** (Lalleshwari) as well as the Sanskrit master-anthology *Kathasaritsagara* composed by Somadeva in Kashmir.
 
 > **Logic:** Awadhi = Tulsidas/Jayasi. Braj = Surdas. Premchand = UP novel, not a Bhakti sant.
@@ -561,7 +508,7 @@ D. Only 1
 | Assamese | **3 Oct 2024** |
 | Bengali | **3 Oct 2024** |
 
-- Nodal culture machinery and the LEC sit under **Sahitya Akademi**. Criteria were revised in **July 2024** before the five were added.
+- Nodal culture machinery and the LEC sit under **Sahitya Akademi** (साहित्य अकादेमी). Criteria were revised in **July 2024** before the five were added.
 - Pali and Prakrit matter for UP (Buddhist/Jain belt) even though they are not Eighth-Schedule names as “Pali/Prakrit.”
 - **Hindi is not** a classical language.
 

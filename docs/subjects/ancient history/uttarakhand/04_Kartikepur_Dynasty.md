@@ -72,7 +72,7 @@ The Katyuris established a sophisticated bureaucracy modeled on the Gupta and Ha
 | Sanskrit Official Title | Exact Portfolio / Administrative Function |
 | :--- | :--- |
 | **Parama-bhattaraka Maharajadhiraja** | Supreme title assumed by the Katyuri Sovereign. |
-| **Mahasamanta** | Semi-autonomous feudatory prince or chief commander. |
+| **Mahasamanta** (महासामंत) | Semi-autonomous feudatory prince or chief commander. |
 | **Kottapala** | Military commandant in charge of frontier forts and mountain passes. |
 | **Doshaparadhika** | High-level investigative officer responsible for apprehending thieves, rebels, and felons. |
 | **Dandapashika / Dandanayaka** | Criminal magistrate and executioner enforcing penal justice. |

@@ -17,47 +17,47 @@ Post-Mauryan Period | Satavahana Rulers | South Indian History | Indo-Greeks | S
 
 ## Consolidated — 45 Must-Score Facts
 
-1. The Mauryan empire ended in **185 BCE** when general **Pushyamitra Shunga** killed the last Mauryan **Brihadratha**. The **Shungas** then ruled Magadha about **185–73 BCE**, and the short **Kanva** house followed about **73–28 BCE**.
-2. Pushyamitra’s **two ashwamedhas** are recorded in the **Ayodhya** inscription of Dhanadeva. That record is **not** Besnagar and **not** Hathigumpha.
+1. The Mauryan empire ended in **185 BCE** when general **Pushyamitra Shunga** (पुष्यमित्र शुंग) killed the last Mauryan **Brihadratha**. The **Shungas** then ruled Magadha about **185–73 BCE**, and the short **Kanva** (कण्व) house followed about **73–28 BCE**.
+2. Pushyamitra’s **two ashwamedhas** are recorded in the **Ayodhya** (अयोध्या) inscription of Dhanadeva. That record is **not** Besnagar and **not** Hathigumpha.
 3. Northwest invader order for the match paper is **Greeks → Sakas → Kushans**. Parthians often drop out of short lists, but they sit between Shakas and Kushans in the northwest belt.
-4. **Hathigumpha** at Udayagiri (Odisha) belongs to **Kharavela** of Kalinga, a Jain Mahameghavahana / Chedi king. Ashoka, Harsha, and Kanishka are the usual wrong options.
+4. **Hathigumpha** at Udayagiri (Odisha) belongs to **Kharavela** (खारवेल) of Kalinga, a Jain Mahameghavahana / Chedi king. Ashoka, Harsha, and Kanishka are the usual wrong options.
 5. The **Besnagar** Garuda pillar is the **Heliodorus** Bhagavata dedication for **Vasudeva**. It is **not** Pushyamitra’s ashwamedha record.
-6. The **Satavahanas** were the Deccan / Andhra house. Tradition names **Simuka** as founder, and the capitals are **Pratishthana (Paithan)** and **Amaravati**.
-7. **Gautamiputra Satakarni** defeated Shaka **Nahapana** of the **Kshaharata** house. The victory is recorded in the **Nasik prasasti** of **Gautami Balashri**.
+6. The **Satavahanas** were the Deccan / Andhra house. Tradition names **Simuka** as founder, and the capitals are **Pratishthana (Paithan)** and **Amaravati** (अमरावती).
+7. **Gautamiputra Satakarni** (गौतमीपुत्र शातकर्णि) defeated Shaka **Nahapana** (नहपान) of the **Kshaharata** house. The victory is recorded in the **Nasik prasasti** of **Gautami Balashri**.
 8. Satavahanas nurtured **Prakrit** and pushed **public Buddhist art** (Amaravati, Karle, Nasik). **Hala** wrote the Prakrit *Gatha Saptasati*. **Yajna Sri Satakarni** put a **ship** on coins as a sea-trade stamp.
-9. After Satavahana decline, the **Ikshvakus** ruled coastal Andhra from **Nagarjunakonda**. They are a post-Satavahana Andhra house, not the mythic Ayodhya Ikshvaku line.
-10. Peninsula **megaliths** are Iron Age burials with **dolmens**, **cists**, and **hero stones**, often with **black-and-red ware** and iron. Classic sites include **Brahmagiri**, **Adichanallur**, and **Maski**.
-11. The greatest Indo-Greek name is **Menander (Milinda)**. His capital is **Sagala (Sialkot)**, and the *Milinda Panha* records his debate with **Nagasena**. Indo-Greeks also issued the first **portrait** die-struck coins in India.
+9. After Satavahana decline, the **Ikshvakus** ruled coastal Andhra from **Nagarjunakonda** (नागार्जुनकोंडा). They are a post-Satavahana Andhra house, not the mythic Ayodhya Ikshvaku line.
+10. Peninsula **megaliths** are Iron Age burials with **dolmens**, **cists**, and **hero stones**, often with **black-and-red ware** and iron. Classic sites include **Brahmagiri**, **Adichanallur**, and **Maski** (मास्की).
+11. The greatest Indo-Greek name is **Menander (Milinda)**. His capital is **Sagala (Sialkot)**, and the *Milinda Panha* records his debate with **Nagasena** (नागसेन). Indo-Greeks also issued the first **portrait** die-struck coins in India.
 12. The first Shaka king named in India is **Maues / Moga** at Taxila–Gandhara. **Nahapana** is the greatest **Kshaharata**; **Rudradaman I** is the greatest **Kardamaka**.
-13. Rudradaman’s **Junagadh / Girnar** inscription is the first long literary **Sanskrit** prose record in India. It tells how the **Sudarshana lake** was built under **Chandragupta Maurya**, adorned under **Ashoka**, and **repaired** by Rudradaman.
+13. Rudradaman’s **Junagadh / Girnar** inscription is the first long literary **Sanskrit** prose record in India. It tells how the **Sudarshana lake** was built under **Chandragupta Maurya** (चंद्रगुप्त मौर्य), adorned under **Ashoka** (अशोक), and **repaired** by Rudradaman.
 14. The brief Parthian / Pahlava bridge king is **Gondophares**. The northwest Buddhist site fact for this age is **Takht-i-Bahi**.
-15. Kushans rise from the **Yuezhi**. **Kujula Kadphises** founds the house; **Vima Kadphises** floods India with imperial **gold**; **Kanishka** is the greatest ruler.
-16. Kushan main capital is **Purushapura (Peshawar)**. **Mathura** in Uttar Pradesh is the second great Indian centre. Art pairs **Gandhara** Greco-Buddhist schist with **Mathura** red sandstone.
+15. Kushans rise from the **Yuezhi**. **Kujula Kadphises** founds the house; **Vima Kadphises** floods India with imperial **gold**; **Kanishka** (कनिष्क) is the greatest ruler.
+16. Kushan main capital is **Purushapura (Peshawar)**. **Mathura** (मथुरा) in Uttar Pradesh is the second great Indian centre. Art pairs **Gandhara** (गांधार) Greco-Buddhist schist with **Mathura** red sandstone.
 17. keys peg Kanishka’s accession to **78 CE**, the start of the **Shaka era**. Do **not** confuse it with **Vikrama Samvat 57 BCE**.
-18. Kanishka convened the **Fourth Buddhist Council** in Kashmir at **Kundalvana**. **Vasumitra** is remembered as president, and **Ashvaghosha** belongs to this age. Kanishka’s title is **Devaputra**.
-19. Sangam Tamilakam’s **Muvendar** are **Chera** (bow), **Chola** (tiger), and **Pandya** (fish). Capitals are **Vanji / Karur**, **Uraiyur**, and **Madurai**.
+18. Kanishka convened the **Fourth Buddhist Council** in Kashmir at **Kundalvana**. **Vasumitra** is remembered as president, and **Ashvaghosha** (अश्वघोष) belongs to this age. Kanishka’s title is **Devaputra** (देवपुत्र).
+19. Sangam Tamilakam’s **Muvendar** are **Chera** (bow), **Chola** (चोल) (tiger), and **Pandya** (fish). Capitals are **Vanji / Karur**, **Uraiyur**, and **Madurai** (मदुरै).
 20. **Karikala** is the Sangam Chola who built the **Kallanai** on the Kaveri. He is **not** imperial **Rajaraja I** of Thanjavur.
-21. Sangam seat tradition is **Madurai** under the Pandyas. Three assemblies: **1st Madurai** (Agastya / Tolkappiyar), **2nd Kapadapuram** (Agastya), **3rd Madurai** (**Nakkirar**). **Tolkappiyam** is the earliest Tamil grammar. **Akam** is love poetry; **Puram** is war and kingship poetry.
+21. Sangam seat tradition is **Madurai** under the Pandyas. Three assemblies: **1st Madurai** (Agastya / Tolkappiyar), **2nd Kapadapuram** (Agastya), **3rd Madurai** (**Nakkirar**). **Tolkappiyam** (तोल्काप्पियम्) is the earliest Tamil grammar. **Akam** is love poetry; **Puram** is war and kingship poetry.
 22. Sangam ports fact as **Muziris** (Chera / Roman pepper), **Puhar** (Chola), and **Korkai** (Pandya pearl coast). West-coast Periplus ports also include **Tondi**, **Mushiri / Muziris**, and **Nelcynda**. **Arikamedu** (Periplus **Poduke**) yields Roman amphorae.
-23. Later south dynasty matchs: **Mahendravarman I** is **Pallava**; **Kadungon** is **Pandya**; **Amoghavarsha I** is **Rashtrakuta**; **Rajaraja I** is **Chola**.
+23. Later south dynasty matchs: **Mahendravarman I** (महेन्द्रवर्मन प्रथम) is **Pallava**; **Kadungon** is **Pandya**; **Amoghavarsha I** is **Rashtrakuta** (राष्ट्रकूट); **Rajaraja I** is **Chola**.
 24. **Gandhara** art is Kushan northwest Greco-Buddhist. **Amaravati** art is Satavahana Andhra limestone narrative relief. Do not swap the schools.
 25. Ashoka’s Rock Edict II names Chola, Pandya, Keralaputra, and Satiyaputra as **independent neighbours**, not Mauryan provinces.
 26. In Uttar Pradesh, **Ayodhya** is the Pushyamitra ashwamedha fact, and **Mathura** is the Kushan second capital and Mathura-art home.
-27. **Patanjali** of the *Mahabhashya* and Kalidasa’s *Malavikagnimitra* (Agnimitra) sit in Shunga-court tradition, but Buddhist books stay hostile to Pushyamitra even while Sanchi still grows. **Patanjali is Shunga-age — not Kanishka’s court.**
+27. **Patanjali** of the *Mahabhashya* (महाभाष्य) and Kalidasa’s *Malavikagnimitra* (Agnimitra) sit in Shunga-court tradition, but Buddhist books stay hostile to Pushyamitra even while Sanchi still grows. **Patanjali is Shunga-age — not Kanishka’s court.**
 28. Satavahana personal names are often **metronymic** (Gautamiputra, Vashishthiputra). After their decline, Deccan power thins toward the third century CE.
-29. **Vima Kadphises** (Kadphises II) issues the first large-scale **gold** for regular use; title **Sarvalokeshvara**. **Kujula** mainly issues **copper**. **Kanishka** puts **Buddha** on coins.
+29. **Vima Kadphises** (Kadphises II) issues the first large-scale **gold** for regular use; title **Sarvalokeshvara**. **Kujula** mainly issues **copper**. **Kanishka** puts **Buddha** (बुद्ध) on coins.
 30. **Rabatak** lists Kushan cities **Saketa, Kaushambi, Pataliputra, and Champa** — **not Shravasti**. Sarnath Kanishka Buddha image inscription is dated about **81 CE** (year 3 of his era).
 31. Vikrama **57 BCE** and Shaka **78 CE** differ by **135 years**. Indian national calendar **Chaitra 1** matches **22 March** (21 March in a leap year).
-32. **Ashvaghosha** (*Buddhacharita*, *Saundarananda*, *Sariputraprakarana*), **Vasumitra**, **Nagarjuna**, **Parsva**, and physician **Charaka** adorn Kanishka’s court. Chinese texts remember **Pan Chao** defeating Kanishka’s force.
-33. Kushans traded via the Persian Gulf and Red Sea (**Periplus**, Arikamedu evidence) but had **no** strong naval-force tradition. Child marriage custom is often dated from the **Kushan** age.
+32. **Ashvaghosha** (*Buddhacharita*, *Saundarananda*, *Sariputraprakarana* (शारिपुत्रप्रकरण)), **Vasumitra**, **Nagarjuna** (नागार्जुन), **Parsva**, and physician **Charaka** (चरक) adorn Kanishka’s court. Chinese texts remember **Pan Chao** defeating Kanishka’s force.
+33. Kushans traded via the Persian Gulf and Red Sea (**Periplus**, Arikamedu evidence) but had **no** strong naval-force tradition. Child marriage custom is often dated from the **Kushan** (कुषाण) age.
 34. **Gautamiputra Satakarni** is **Ekabrahmana** / protector of the varna order (Nasik of Gautami Balashri). Satavahanas issue punch-marked, lead, copper, silver, potin — **not gold**. **Matsya Purana** gives the longest Andhra list (~30 kings).
 35. Rudradaman’s Junagadh is the earliest long literary **Sanskrit / kavya-style** prose. He repaired Sudarshana **without forced labour**. **Yaudheya** coins show **Kartikeya** with a peacock.
 36. **Strato II** issued **lead** coins. **Agathocles** put **Sankarshana (Balarama) and Vasudeva** on bilingual coins. Gandhara sculpture often uses **green schist**; **Bamiyan** held colossal Buddha images.
 37. Sangam titles for the king include **Kon**, **Ko**, and **Mannan**. The ordinary word *vendan* also means king.
 38. Sage **Agastya** is remembered as having Aryanised the south and as the **Father of Tamil Literature**. **Tolkappiyar**, author of *Tolkappiyam*, is listed among Agastya’s twelve disciples.
-39. *Silappadikaram* is by **Ilango Adigal** (linked as grandson of Chola **Karikala**) and narrates **Kannagi** and **Kovalan**. *Tirukkural* (*Kural* / **Muppal**) by **Tiruvalluvar** is called the Bible and **Laghuveda** of Tamil literature. *Ramavataram* (Tamil Ramayana) is by **Kamban**.
+39. *Silappadikaram* (शिलप्पदिकारम्) is by **Ilango Adigal** (इलंगो अडिगल) (linked as grandson of Chola **Karikala**) and narrates **Kannagi** and **Kovalan**. *Tirukkural* (*Kural* / **Muppal**) by **Tiruvalluvar** (तिरुवल्लुवर) is called the Bible and **Laghuveda** of Tamil literature. *Ramavataram* (रामावतारम्) (Tamil Ramayana) is by **Kamban** (कंबन).
 40. **Uraiyur** (also **Koli** / **Varanam**) on the Kaveri at Tiruchirappalli was the Sangam Chola capital and a major **cotton** centre in the *Periplus*.
-41. Sanskrit *Yavanapriya* means **pepper** — the Greek / Roman favourite spice. An **amphora** is the tall double-handled Roman jar for wine or oil found at Arikamedu.
+41. Sanskrit *Yavanapriya* means **pepper** (काली मिर्च) — the Greek / Roman favourite spice. An **amphora** is the tall double-handled Roman jar for wine or oil found at Arikamedu.
 42. **Vattakirutal** in Sangam poems is the defeated king’s ritual suicide by **fasting unto death**.
 43. Sangam literature names **Chera, Chola, and Pandya** only among the great houses. **Pallava** and **Kadamba** are **not** Sangam ruling dynasties in that corpus.
 44. A **Pandya** king sent an ambassador to **Rome in 26 BCE**. Pandya heartland lies south of the Kaveri around **Madurai**; the river of that core is the **Vaigai** (some MCQ banks print it as “Vengi” — do not confuse with Eastern Chalukya **Vengi**).
@@ -100,7 +100,7 @@ Post-Mauryan Period | Satavahana Rulers | South Indian History | Indo-Greeks | S
 | Hathigumpha | **Kharavela** (Kalinga Jain) |
 | Besnagar | **Heliodorus** Bhagavata pillar (≠ Pushyamitra) |
 | Satavahana founder | **Simuka**; capitals **Pratishthana / Amaravati** |
-| Gautamiputra | Defeats **Nahapana**; **Nasik** prasasti of Balashri |
+| Gautamiputra | Defeats **Nahapana**; **Nasik** (नासिक) prasasti of Balashri |
 | Hala | *Gatha Saptasati* (Prakrit) |
 | Yajna Sri | **Ship** on coins |
 | Ikshvakus | Post-Satavahana Andhra; **Nagarjunakonda** |
@@ -143,7 +143,7 @@ Post-Mauryan Period | Satavahana Rulers | South Indian History | Indo-Greeks | S
 | Book / text | Writer / authority | Horizon / use |
 |-------------|--------------------|---------------|
 | *Mahabhashya* | **Patanjali** | Shunga-age grammar; **not** Kanishka’s court |
-| *Malavikagnimitra* | **Kalidasa** | Play on Agnimitra (Pushyamitra’s son); Shunga setting |
+| *Malavikagnimitra* | **Kalidasa** (कालिदास) | Play on Agnimitra (Pushyamitra’s son); Shunga setting |
 | *Gatha Saptasati* | **Hala** | Prakrit anthology; Satavahana court |
 | *Milinda Panha* | Dialogue of **Menander (Milinda)** and **Nagasena** | Indo-Greek Buddhist Q&A |
 | *Buddhacharita* | **Ashvaghosha** | Buddha’s life epic; Kanishka age |
@@ -151,14 +151,14 @@ Post-Mauryan Period | Satavahana Rulers | South Indian History | Indo-Greeks | S
 | *Sariputraprakarana* | **Ashvaghosha** | Same court circle |
 | *Tolkappiyam* | Tolkappiyar tradition | Earliest Tamil grammar and poetics; Sangam age |
 | *Silappadikaram* | **Ilango Adigal** | Kannagi–Kovalan epic; later Sangam edge |
-| *Manimekalai* | **Sattanar** | Buddhist sequel to Silappadikaram |
+| *Manimekalai* (मणिमेकलै) | **Sattanar** (सत्तनार) | Buddhist sequel to Silappadikaram |
 | *Tirukkural* (*Kural* / Muppal) | **Tiruvalluvar** | Called Laghuveda / Bible of Tamil ethics |
 | *Ramavataram* | **Kamban** | Tamil Ramayana (later medieval Tamil classic) |
 | *Periplus of the Erythraean Sea* | **Anonymous** Greek merchant | Red Sea / Indian Ocean trade handbook; Poduke = Arikamedu |
 | *Matsya Purana* | Puranic tradition | Longest Andhra / Satavahana king list (~30) |
 | *Vayu Purana* | Puranic tradition | Kanva end / Andhra founder memory |
 
-- **Patanjali** belongs to the **Shunga** horizon. Do not put him in Kanishka’s court.
+- **Patanjali** belongs to the **Shunga** (शुंग) horizon. Do not put him in Kanishka’s court.
 - **Ashvaghosha** belongs to **Kanishka**. Do not put him with Ashoka.
 - The *Periplus* has **no named author**.
 
@@ -178,7 +178,7 @@ After **185 BCE** India has several power centres at once. Magadha passes to the
 
 **Cause:** The Mauryan empire had weakened after **Ashoka**. The last king **Brihadratha** could not hold the army or the treasury.
 
-**Course:** General **Pushyamitra Shunga** killed **Brihadratha** at a military review and seized Magadha. Buddhist tradition is hostile to him, but **Sanchi** still grew in this age.
+**Course:** General **Pushyamitra Shunga** killed **Brihadratha** at a military review and seized Magadha. Buddhist tradition is hostile to him, but **Sanchi** (सांची) still grew in this age.
 
 **Result:** The **Mauryan empire ended** in **185 BCE**. The **Shunga dynasty** ruled Magadha until **73 BCE**. Pushyamitra performed **two ashwamedhas**, recorded at **Ayodhya** — not Besnagar or Hathigumpha.
 
@@ -189,14 +189,14 @@ After **185 BCE** India has several power centres at once. Magadha passes to the
 
 ### Shunga house (185–73 BCE)
 
-- The capital is **Magadha**. **Vidisha** is a second centre. Coaching memory also ties Shunga ancestry to **Ujjain**.
+- The capital is **Magadha** (मगध). **Vidisha** (विदिशा) is a second centre. Coaching memory also ties Shunga ancestry to **Ujjain** (उज्जैन).
 - There is a Brahmanical revival under this house.
 - Pushyamitra performs two **ashwamedha** rites. The **Ayodhya inscription** of **Dhanadeva** records those two.
 - Do not place those ashvamedhas at Besnagar, Hathigumpha, or Sarnath.
 - **Agnimitra** is Pushyamitra’s son. Kalidasa’s *Malavikagnimitra* uses him.
 - **Patanjali** of the *Mahabhashya* is placed in this court in tradition. He is **not** a Kanishka-court scholar.
 - Buddhist books are hostile, yet Sanchi is still enlarged in this age.
-- **Bharhut** stupa railings are a classic **Shunga** sculpture fact.
+- **Bharhut** (भरहुत) stupa railings are a classic **Shunga** sculpture fact.
 - The last Shunga **Devabhuti** is killed by **Vasudeva Kanva**.
 
 ### Kanva house (73–28 BCE)
@@ -234,7 +234,7 @@ D. Hathigumpha inscription
 
 **Deccan / Andhra house | ~1st c. BCE–3rd c. CE | Puranic “Andhras”**
 
-- The founder in tradition is **Simuka** (also Sindhuk / Shipraka in Puranas). Capitals are **Pratishthana (Paithan)** — the lasting capital — and early **Amaravati**. The title **Dakshinapathapati** means lord of the southern path. Names are often **metronymic**: Gautamiputra, Vashishthiputra.
+- The founder in tradition is **Simuka** (also Sindhuk / Shipraka in Puranas). Capitals are **Pratishthana (Paithan)** — the lasting capital — and early **Amaravati**. The title **Dakshinapathapati** (दक्षिणापथपति) means lord of the southern path. Names are often **metronymic**: Gautamiputra, Vashishthiputra.
 - The **Matsya Purana** gives the longest Andhra / Satavahana king list (about **30** names).
 
 - **Satakarni I** is the early expansion king and the first to hold the title **Satakarni**. The **Naneghat** inscription of queen **Naganika** belongs to this house.
@@ -242,8 +242,8 @@ D. Hathigumpha inscription
 ### Gautamiputra Satakarni vs Nahapana — Cause, Course, Result
 
 **Cause:** Shaka **Nahapana** (Kshaharata) controlled a belt from **Ajmer** to **Nasik** and threatened Satavahana survival.
-**Course:** **Gautamiputra Satakarni** defeated Nahapana. The **Nasik prasasti** of **Gautami Balashri** records the victory. Nahapana's silver was restruck. The same record calls him **Ekabrahmana** and protector of the **varna** order (no free intermixture of the four varnas).
-**Result:** Satavahana power peaked in the western Deccan. Later Shaka greatness passed to the **Kardamaka** house of **Rudradaman**. He restruck Nahapana’s silver (Jogalthembi hoard type).
+**Course:** **Gautamiputra Satakarni** defeated Nahapana. The **Nasik prasasti** of **Gautami Balashri** records the victory. Nahapana's silver was restruck. The same record calls him **Ekabrahmana** and protector of the **varna** (वर्ण) order (no free intermixture of the four varnas).
+**Result:** Satavahana power peaked in the western Deccan. Later Shaka greatness passed to the **Kardamaka** house of **Rudradaman** (रुद्रदामन). He restruck Nahapana’s silver (Jogalthembi hoard type).
 
 | Ruler | Fact |
 |-------|------|
@@ -254,7 +254,7 @@ D. Hathigumpha inscription
 | **Hala** | *Gatha Saptasati* in Prakrit |
 | **Yajna Sri Satakarni** | **Ship** on coins — sea-trade fact |
 
-- They nurtured **Prakrit** in inscriptions and *gathas*, not Sanskrit as the court speech. **Public art** got more push: the **Amaravati** stupa (with **Ayaka / Aryaka pillars**), the **Karle** chaitya, and the Nasik caves.
+- They nurtured **Prakrit** in inscriptions and *gathas*, not Sanskrit as the court speech. **Public art** got more push: the **Amaravati** stupa (with **Ayaka / Aryaka pillars**), the **Karle** (कार्ले) chaitya, and the Nasik caves.
 - Coin metals: punch-marked, **lead**, copper, bronze, silver, potin — **not gold**.
 - Land grants to Brahmans and Buddhist monks start to show. Roman trade crosses their roads. Decline comes about the 3rd century CE. **Ikshvakus** at Nagarjunakonda come next in Andhra. **Vakatakas** (founder **Vindhyashakti**) rise in the Deccan after Satavahana weakening.
 
@@ -274,7 +274,7 @@ A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 
 </details>
 
-> **Logic:** Gautamiputra Satakarni = **Satavahana** (Paithan). Kanishka = **Kushan**. Madurai = **Pandya**.
+> **Logic:** Gautamiputra Satakarni = **Satavahana** (सातवाहन) (Paithan). Kanishka = **Kushan**. Madurai = **Pandya**.
 
 ---
 
@@ -304,7 +304,7 @@ This card covers three south layers. First comes **Kharavela** of Kalinga. Then 
 
 ### Kharavela — identity facts
 
-- The source is the **Hathigumpha** inscription at **Udayagiri**, Odisha.
+- The source is the **Hathigumpha** inscription at **Udayagiri** (उदयगिरि), Odisha.
 - **Hathigumpha** belongs to **Kharavela** of Kalinga. Ashoka, Harsha, and Kanishka have **other** inscriptions.
 - He is a Jain patron.
 - Caves stand at **Udayagiri (18)** and **Khandagiri (15)**.
@@ -320,7 +320,7 @@ This card covers three south layers. First comes **Kharavela** of Kalinga. Then 
 - Iron tools and weapons appear in the graves.
 - Major sites include **Brahmagiri**, **Adichanallur**, **Maski**, **Hallur**, **Nevasa**, and **Piklihal**.
 - Brahmagiri links megalithic layers to early historic transitions.
-- **PGW** is Later Vedic **doab** ware. **Megaliths** are mainly **south and Deccan** Iron Age burials.
+- **PGW** is Later Vedic **doab** (दोआब) ware. **Megaliths** are mainly **south and Deccan** Iron Age burials.
 - Grave goods can include pottery, iron weapons, gold, and beads.
 - Some sites show communal or family burials under large stone slabs.
 
@@ -353,7 +353,7 @@ A. Kharvela B. Ashok C. Harshavardhan D. Kanishka
 | **Gandhara** | Kushan northwest | Greco-Buddhist **green schist** | Greco-Roman Buddha face; Indo-Greek bridge |
 | **Mathura** | Kushan / local | Red sandstone Indian types | Indigenous Buddha forms |
 | **Amaravati** | Satavahana Andhra | Limestone narrative reliefs | Andhra Buddhist stupa art |
-| **Karle / Nasik** | Satavahana age | Rock-cut **chaitya** halls | Public Buddhist architecture |
+| **Karle / Nasik** | Satavahana age | Rock-cut **chaitya** (चैत्य) halls | Public Buddhist architecture |
 
 ---
 
@@ -367,10 +367,10 @@ A. Kharvela B. Ashok C. Harshavardhan D. Kanishka
 - They sit **before** Shakas and **before** Kushans.
 - **Greco-Bactria** breaks from the Seleucids under **Diodotus**, about **250 BCE**. **Demetrius I**, about **180 BCE**, makes the first major push into India with an elephant-scalp helmet type.
 - The greatest name is **Menander (Milinda)**. His capital is **Sagala (Sialkot)**. The *Milinda Panha* records his debate with **Nagasena**. He is **not** a contemporary of Bimbisara / Buddha / Prasenjit. Sixteen Menander coins are remembered from **Bairat**.
-- **Agathocles** and **Pantaleon** issue early bilingual coins with **Brahmi** legends and **Sankarshana (Balarama) / Vasudeva** types. **Apollodotus** is an early Indian-side silver king.
+- **Agathocles** and **Pantaleon** issue early bilingual coins with **Brahmi** (ब्राह्मी) legends and **Sankarshana (Balarama) / Vasudeva** types. **Apollodotus** is an early Indian-side silver king.
 - They issue the first **portrait**, die-struck coins in India. Legends are **Greek plus Kharoshthi**. Sometimes Brahmi appears. Late Indo-Greek **Strato II** is remembered for **lead** coins.
 - **Heliodorus**, ambassador of **Antialcidas**, raises the **Besnagar** (Vidisha) Garuda pillar about **113 BCE**. He calls himself a Bhagavata of **Vasudeva**.
-- The *Yuga Purana* memory places **Yavanas** toward **Pataliputra**. That raid belongs to the Indo-Greek age, not to Alexander in 326 BCE.
+- The *Yuga Purana* memory places **Yavanas** toward **Pataliputra** (पाटलिपुत्र). That raid belongs to the Indo-Greek age, not to Alexander in 326 BCE.
 - Besnagar is **not** Pushyamitra’s two-ashwamedha record. That inscription is at **Ayodhya**.
 - Indo-Greek power in the northwest ends when **Shakas** take Gandhara and Punjab.
 
@@ -383,16 +383,16 @@ A. Kharvela B. Ashok C. Harshavardhan D. Kanishka
 **Indo-Scythians | after Greeks, before Kushans | title kshatrapa / mahakshatrapa**
 
 - The Indian name **Shaka** means **Scythian** nomads pushed from Central Asia into India from about the **1st century BCE**.
-- The first king named in India is **Maues / Moga** at **Taxila** and **Gandhara**. His capital tradition points to **Sirkap**. **Azes I** often follows in coin lists.
+- The first king named in India is **Maues / Moga** at **Taxila** (तक्षशिला) and **Gandhara**. His capital tradition points to **Sirkap**. **Azes I** often follows in coin lists.
 - The **Kshaharata** line rules in the western Deccan belt. **Bhumaka** is an early name. **Nahapana** is the greatest of this house.
 - Nahapana’s coins run from **Ajmer** to **Nasik**. His capital is **Minnagara**, between Ujjain and Broach.
 - **Gautamiputra Satakarni** defeats Nahapana. The **Nasik prasasti** of **Gautami Balashri** records the victory. Nahapana’s silver was restruck.
 - The **Kardamaka** line rules western India from about the 1st century CE. **Chashtana** is the founder named in the **Andau inscription** of 130 CE.
-- **Rudradaman I** is Chashtana’s grandson and the greatest western Shaka. He rules about **130–150 CE** as **mahakshatrapa**.
+- **Rudradaman I** is Chashtana’s grandson and the greatest western Shaka. He rules about **130–150 CE** as **mahakshatrapa** (महाक्षत्रप).
 - His **Junagadh / Girnar** inscription is the first long record in literary **Sanskrit** prose in India and the earliest specimen of **kavya** style on stone.
 - The **Sudarshana lake** story sits on that rock. It was built by **Pushyagupta**, a Vaishya, under **Chandragupta Maurya**. It was adorned by **Tushaspha**, a Yavana, under **Ashoka**. A storm burst the embankment. **Rudradaman repaired it without forced labour**. He did **not** claim he founded the lake.
-- Kardamaka coinage is mainly **silver** and **potin**; **copper** issues are rare.
-- Western Shaka rule fades when **Rudrasimha III** is defeated by **Chandragupta II** in the 4th century CE.
+- Kardamaka coinage is mainly **silver** (रूपक) and **potin**; **copper** issues are rare.
+- Western Shaka rule fades when **Rudrasimha III** is defeated by **Chandragupta II** (चंद्रगुप्त द्वितीय) in the 4th century CE.
 - Coaching ratio for gold : silver in the Saka–Kshatrapa horizon is **1 : 35** (**UKPCS 2021**).
 - **Vikrama Samvat 57 BCE** is the Vikramaditya legend at Ujjain. It is **not** the **Shaka era 78 CE** tied to Kanishka. The two eras differ by **135 years**.
 
@@ -405,7 +405,7 @@ A. Kharvela B. Ashok C. Harshavardhan D. Kanishka
 **Pahlavas | brief northwest bridge | between Shaka west and Kushan rise**
 
 - The **Parthians** are called **Pahlavas** in Indian sources. They hold a **short** belt in the northwest after Shakas and before Kushan dominance.
-- Their zone is **Gandhara**, **Punjab**, and **Sind**.
+- Their zone is **Gandhara**, **Punjab**, and **Sind** (सिंध).
 - The best-known king is **Gondophares**, who rules about **19–45 CE**. His coins and inscriptions appear in the Kabul–Taxila belt.
 - The site fact for Parthian-period Buddhism in the NW is **Takht-i-Bahi** near Mardan in Pakistan.
 - Christian legend places **St Thomas** at Gondophares’ court. That is tradition, not a royal inscription.
@@ -425,8 +425,8 @@ A. Kharvela B. Ashok C. Harshavardhan D. Kanishka
 - **Kanishka** is the greatest Kushan ruler.
 - **Huvishka** and **Vasudeva I** are later great names before decline.
 - The main capital is **Purushapura (Peshawar)**. **Mathura** in Uttar Pradesh is the second great Kushan centre inside India.
-- At its height the empire runs from the **Oxus** / Turfan fringe to the middle **Ganga** plain — a dynasty whose power also sat **outside** India.
-- Coins are gold **dinaras** with legends in **Greek**, **Bactrian**, and **Kharoshthi**. Royal portraits are standard. **Yaudheya** copper coins of this age show **Kartikeya** with a peacock.
+- At its height the empire runs from the **Oxus** / Turfan fringe to the middle **Ganga** (गंगा) plain — a dynasty whose power also sat **outside** India.
+- Coins are gold **dinaras** with legends in **Greek**, **Bactrian**, and **Kharoshthi** (खरोष्ठी). Royal portraits are standard. **Yaudheya** copper coins of this age show **Kartikeya** with a peacock.
 - Kushan patronage pairs **Gandhara** Greco-Buddhist sculpture (**green schist**) with **Mathura** red-sandstone Indian types. **Bamiyan** held colossal rock-cut Buddhas in the Afghan Kushan world.
 - Trade ran through the Persian Gulf and Red Sea (*Periplus of the Erythraean Sea* — **anonymous** Greek merchant; Arikamedu amphorae). Evidence does **not** support a strong Kushan **navy**.
 - Social coaching note: **child marriage** custom is often dated from the Kushan age, with girls’ upanayana fading.
@@ -463,8 +463,8 @@ D. Sakas — Kushans — Greeks
 - Kanishka convenes the **Fourth Buddhist Council** in **Kashmir** at **Kundalvana / Kundalavana**.
 - **Vasumitra** is remembered as president of the council. **Ashvaghosha** writes *Buddhacharita*, *Saundarananda*, and *Sariputraprakarana*. Court circle also remembers **Parsva**, **Nagarjuna**, and physician **Charaka**. **Patanjali** is **not** of this court (Shunga age).
 - Chinese texts remember Kanishka’s clash with **Pan Chao** (Ban Chao) and defeat of a large Kushan force.
-- The school linked to the council is **Sarvastivada**. Mahayana Buddhism grows strongly under Kushan patronage.
-- Council-king memory: **Ajatashatru** (1st), **Kalashoka** (2nd), **Ashoka** (3rd), **Kanishka** (4th).
+- The school linked to the council is **Sarvastivada** (सर्वास्तिवाद). Mahayana Buddhism grows strongly under Kushan patronage.
+- Council-king memory: **Ajatashatru** (अजातशत्रु) (1st), **Kalashoka** (2nd), **Ashoka** (3rd), **Kanishka** (4th).
 - Kanishka builds a great stupa at **Peshawar**. Chinese pilgrims later describe it.
 - His coins show **Buddha**, **Shiva**, **Mithra**, and Greek deities on the same series.
 - Kanishka is a common **trap option** for **Hathigumpha**. That inscription belongs to **Kharavela** of Kalinga.
@@ -477,7 +477,7 @@ D. Sakas — Kushans — Greeks
 
 **Tamilakam south of Krishna–Tungabhadra | ~300 BCE–300 CE | literature as the state archive**
 
-- **Sangam** means a conference of poets or a forum of scholars. The literature composed in those assemblies is **Sangam literature**.
+- **Sangam** (संगम) means a conference of poets or a forum of scholars. The literature composed in those assemblies is **Sangam literature**.
 - The traditional seat is **Madurai** under the **Pandyas**.
 - Sangam Tamilakam is **contemporary** with the Satavahanas — a **parallel** south, a different dynasty.
 - Later legend counts **three Sangams**. The first two are largely mythical; the Third Sangam is the poems we still have.
@@ -488,10 +488,10 @@ D. Sakas — Kushans — Greeks
 | **Second** | **Kapadapuram** | Saint **Agastya** |
 | **Third** | **Madurai** | **Nakkirar** |
 
-- Sage **Agastya** is credited with having **Aryanised** south India. Tradition says he came south from **Kashi** at the gods’ request and later resided in the south. He is also called the **Father of Tamil Literature**.
+- Sage **Agastya** is credited with having **Aryanised** south India. Tradition says he came south from **Kashi** (काशी) at the gods’ request and later resided in the south. He is also called the **Father of Tamil Literature**.
 - According to Sangam texts, the titles **Kon**, **Ko**, and **Mannan** belong to the **king**.
 
-- **Ettuttokai** is the eight anthologies (*Purananuru*, *Akananuru*). **Pattuppattu** is the ten long songs (*Pattinappalai* is the Puhar port poem).
+- **Ettuttokai** (एट्टुत्तोकै) is the eight anthologies (*Purananuru*, *Akananuru*). **Pattuppattu** (पत्तुप्पाट्टु) is the ten long songs (*Pattinappalai* is the Puhar port poem).
 - ***Tolkappiyam*** is the residual text of the Second Sangam tradition and the **most ancient available** long Tamil work. It is a treatise on **grammar and poetry**, written in a formula style. Author **Tolkappiyar** is counted among the **twelve disciples** of Agastya.
 - ***Silappadikaram*** is by **Ilango Adigal**, remembered as a grandson of Chola **Karikala**. It narrates the tragic story of **Kannagi** and her husband **Kovalan**.
 - ***Tirukkural*** (*Kural*) by **Tiruvalluvar** is called the Bible and **Laghuveda** of Tamil literature. It is also known as **Muppal**.
@@ -522,11 +522,11 @@ D. Sakas — Kushans — Greeks
 - **Arikamedu** near Pondicherry is the foremost Indo–Roman station on the eastern coast. An intaglio identified with **Augustus Caesar**, plus beads and gems, support Roman contact. Dubreuil called it “a true Roman city.” In the *Periplus* it is **Poduke**.
 - An **amphora** is an ancient tall jar with a long narrow neck and **two handles**, used in Rome for wine or oil.
 - Black pepper was a favourite of expensive Roman cookery. In Sanskrit it is ***Yavanapriya*** — “favourite of the Yavanas / Greeks.”
-- Trade guilds of later south-Indian townships include **Manigramam**, **Nanadesi**, and **Valanjiyar**.
+- Trade guilds of later south-Indian townships include **Manigramam**, **Nanadesi** (नानादेशी), and **Valanjiyar**.
 
 - **Keeladi** is early historic Tamil urban. Tamil-Brahmi appears on pottery and caves. Yavana in the poems means a foreign or Roman trader.
 
-> **Logic:** Muvendar is not Pallava. Sangam texts are not the *Arthashastra*. **Poduke = Arikamedu**. **Yavanapriya = pepper**, not muslin.
+> **Logic:** Muvendar is not Pallava. Sangam texts are not the *Arthashastra* (अर्थशास्त्र). **Poduke = Arikamedu**. **Yavanapriya = pepper**, not muslin.
 
 ---
 
@@ -558,7 +558,7 @@ Sangam **Puram** poetry remembers constant wars among the **Muvendar** — **Che
 
 **Not Post-Mauryan meat | parked here because 2025 dumped it on a south-dynasty list**
 
-- **Mahendravarman I** is a **Pallava**. He belongs to the 7th century and to Mamallapuram. He wrote *Mattavilasa Prahasana*.
+- **Mahendravarman I** is a **Pallava**. He belongs to the 7th century and to Mamallapuram. He wrote *Mattavilasa Prahasana* (मत्तविलास प्रहसन).
 - **Kadungon** is a **Pandya**. He belongs to the 6th-century revival after the **Kalabhra** gap.
 - **Amoghavarsha I** is a **Rashtrakuta**. He belongs to the 9th century at Manyakheta. He is linked to Kannada *Kavirajamarga*.
 - **Rajaraja I** is a **Chola**. He rules **985–1014**. He builds **Brihadeshwara** at Thanjavur.

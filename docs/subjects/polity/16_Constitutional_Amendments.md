@@ -72,7 +72,7 @@ D. 86th Constitutional Amendment Act, 2002
 
 1. Amendment power sits in **Part XX, Article 368**. An amendment Bill may start in **either House**. There is **no joint sitting**. After the **24th Amendment**, the President **shall** assent.
 2. There are **three lanes**: **simple majority** changes that are **not** “under 368” (new States, Article 169 Councils, Schedules 5/6 matters, and similar); **special majority** under **368(2)** (majority of total membership plus two-thirds present and voting); and **special majority plus ratification by half the States** for federal provisions.
-3. Federal provisions needing State ratification include Presidential election, extent of executive power (**73/162**), Supreme Court and High Courts, the **7th Schedule**, **Article 368** itself, and State representation in the Rajya Sabha.
+3. Federal provisions needing State ratification include Presidential election, extent of executive power (**73/162**), Supreme Court and High Courts, the **7th Schedule**, **Article 368** (अनुच्छेद 368) itself, and State representation in the Rajya Sabha.
 4. The basic-structure chain runs **Shankari Prasad (1951) → Sajjan Singh (1965) → Golaknath (1967) → 24th Amendment (1971) → Kesavananda (1973) → 42nd (1976) → Minerva Mills (1980)**. *Kesavananda* held that Parliament can amend Fundamental Rights but **not** destroy basic structure.
 5. A shorter chronology trap is **Golaknath → 24th → Kesavananda → 42nd**. *Golaknath* said Fundamental Rights could not be amended; the **24th** asserted Parliament’s power; *Kesavananda* balanced power with basic structure.
 6. The **1st Amendment (1951)** added **15(4)**, widened **19(2)** for public order, and inserted **31A/31B** with the **9th Schedule** shield for certain laws.
@@ -186,7 +186,7 @@ D. 86th Constitutional Amendment Act, 2002
 | Type | Procedure | Typical use |
 |------|-----------|-------------|
 | **Simple majority** | Ordinary Bill; **outside** 368 | New State, 169 Council, 5th/6th Sch, salaries, quorum |
-| **Special majority** | 368(2): majority of **total membership** + **2/3 present & voting** | Most amendments (FRs, DPSPs, 368-without-proviso) |
+| **Special majority** | 368(2): majority of **total membership** (सदन की कुल सदस्य संख्या का) + **2/3 present & voting** | Most amendments (FRs, DPSPs, 368-without-proviso) |
 | **Special + States** | Same special majority **plus** legislatures of **not less than half** the States | Federal list (President, 73/162, SC/HC, 7th Sch, 368 itself, State RS seats, **279A**) |
 
 ### 1. Simple majority (not under 368)
@@ -296,7 +296,7 @@ D. Sajjan Singh 1965
 
 **Basic-structure examples (name, don’t recite an official list):** supremacy of the Constitution · republican / democratic form · secularism · federalism · separation of powers · judicial review · free and fair elections · Arts. **14, 19, 21** · limited amending power · welfare state. *Indira Nehru Gandhi* (1975, election case): **39th Amd** had parked the PM’s election in the 9th Schedule / beyond judicial reach — SC **struck** that. Added **rule of law, judicial review, free and fair elections** to the basic-structure talk.
 
-**39th Amendment, 1975** (neighbour, not a syllabus “major” bullet): election of President, VP, PM, Speaker taken out of court. *Indira Gandhi* killed the PM clause. **38th** made the President’s satisfaction on 352/356/360 “final” — **44th** took that finality off. Both sit on the road to **42nd**.
+**39th Amendment, 1975** (neighbour, not a syllabus “major” bullet): election of President, VP, PM, Speaker taken out of court. *Indira Gandhi* killed the PM clause. **38th** made the President’s satisfaction on 352/356/360 “final” — **44th Amendment** (44वां संशोधन) took that finality off. Both sit on the road to **42nd**.
 
 ---
 
@@ -598,7 +598,7 @@ D. A-3, B-1, C-4, D-2
 
 - **246A** lets both the Union **and** the States levy GST, as a special concurrent power; under **246A(2)**, **IGST** is levied exclusively by the Union.
 - **269A** provides that IGST is collected by the Union and then **apportioned** between the Union and the States.
-- **279A** sets up the **GST Council**, chaired by the Union FM, in which the Centre has **one-third** of the voting weight and all States together have **two-thirds**; a decision needs **three-fourths** of the weighted votes, with a quorum of **half** the members.
+- **279A** sets up the **GST Council** (जीएसटी परिषद), chaired by the Union FM, in which the Centre has **one-third** of the voting weight and all States together have **two-thirds** (ते-भागा); a decision needs **three-fourths** of the weighted votes, with a quorum of **half** the members.
 - **Article 366(12A)** defines GST for the Constitution.
 - The Amendment omitted **Article 268A**, the service-tax article inserted earlier by the 88th Amendment.
 - Alcohol for **human consumption** is kept outside GST; five petroleum goods are outside for now, though the Council may recommend bringing them in later.
@@ -664,7 +664,7 @@ D. A-3, B-1, C-4, D-2
 - **Not commenced.** Starts only after a **delimitation based on the first census after the Act** (**334A**). 84th freeze on LS seats lasts till the census **after 2026** — so 2024 LS had **no** 106th quota.
 - How long: **15 years** from commencement (Parliament may extend).
 - Rotation: seats reserved for women **rotate** after each delimitation.
-- **Not** covered: **Rajya Sabha**. PRI/ULB women **≥ 1/3** is already **73rd/74th** (in force).
+- **Not** covered: **Rajya Sabha** (राज्यसभा). PRI/ULB women **≥ 1/3** is already **73rd/74th** (in force).
 
 ---
 

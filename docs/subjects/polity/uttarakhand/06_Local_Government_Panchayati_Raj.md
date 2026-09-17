@@ -19,7 +19,7 @@
 | **Van Panchayat Women Quota**| **50% seats reserved for women** in Forest Council committees |
 | **Panchayat Registers Kept** | **Family register**, **Birth-Death register**, **Grant register** (UKPCS 2025 Q134) |
 | **Register NOT by Panchayat** | **Health Register** (maintained by State Health Department) |
-| **Asian Mayors’ Conference 2006**| Held at **Dehradun** (UKPCS 2025 Q133) |
+| **Asian Mayors’ Conference 2006**| Held at **Dehradun** (देहरादून) (UKPCS 2025 Q133) |
 | **Nagar Nigams (9 Corporations)**| Dehradun, Haridwar, Haldwani, Roorkee, Kashipur, Rudrapur, Rishikesh, Kotdwar, Srinagar Garhwal |
 
 ---
@@ -80,12 +80,12 @@
 Uttarakhand currently has **9 Municipal Corporations (Nagar Nigams)**, presided over by an elected Mayor (*Mahapaur*) and managed by a Municipal Commissioner (*Mukhya Nagar Adhikari*):
 
 1. **Dehradun** (Oldest municipal board in UK, upgraded to Corporation in 1998/2003; hosted 1st Asian Mayors' Conference in 2006).
-2. **Haridwar**
+2. **Haridwar** (हरिद्वार)
 3. **Haldwani-Kathgodam** (Largest urban corporation of Kumaon)
 4. **Roorkee**
-5. **Kashipur**
+5. **Kashipur** (ऊधम सिंह नगर)
 6. **Rudrapur**
-7. **Rishikesh** (created 2018)
+7. **Rishikesh** (ऋषिकेश) (created 2018)
 8. **Kotdwar** (created 2018)
 9. **Srinagar Garhwal** (created 2021 — first hilly municipal corporation of Garhwal)
 

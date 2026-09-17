@@ -15,9 +15,9 @@ Ancient Indian Art | Ancient Indian Sculpture | Ancient Indian Architecture | An
 
 ## Current Affairs
 
-- **Mandi** and **Hulas** are Indus sites in Uttar Pradesh. **Rakhigarhi** is in Haryana.
-- **Dholavira** entered the UNESCO World Heritage list in **2021**.
-- **Sarnath** entered the UNESCO World Heritage list in **2026**.
+- **Mandi** and **Hulas** are Indus sites in Uttar Pradesh. **Rakhigarhi** (राखीगढ़ी) is in Haryana.
+- **Dholavira** (धोलावीरा) entered the UNESCO World Heritage list in **2021**.
+- **Sarnath** (सारनाथ) entered the UNESCO World Heritage list in **2026**.
 
 
 ---
@@ -25,28 +25,28 @@ Ancient Indian Art | Ancient Indian Sculpture | Ancient Indian Architecture | An
 
 ## Consolidated Must-Score Facts
 
-1. Ancient Indian cultural span runs from **Bhimbetka** rock art through **Indus Valley** cities (about **2600–1900 BCE**), then **Maurya**, **Shunga–Kushan**, and **Gupta** (4th–6th century CE).
-2. Hallmark artistic achievements of the Indus Valley Civilisation include carved **steatite seals**, figurines of the **terracotta Mother Goddess**, meticulously planned baked-brick cities, and the iconic **Dancing Girl** bronze sculpture cast using the **lost-wax** (*cire perdue*) technique.
-3. **Northern Black Polished Ware (NBPW)** is the diagnostic deluxe pottery of the Mauryan and Northern Black Polished Ware period, while the classical Buddhist rock-cut murals of **Ajanta** represent the zenith of **Gupta–Vakataka** painting.
-4. Sculpture schools: **Gandhara uses grey **schist** with Greco-Roman Buddha style in the north-west. **Mathura** uses red **sandstone** and is indigenous in **Uttar Pradesh. Amaravati** uses white **limestone** narrative panels in Andhra.
-5. **Mauryan polish** on **Chunar** sandstone (Mirzapur belt) gives a mirror finish. The **Didarganj Yakshi** is the classic Mauryan polish figure.
-6. **Bharhut** and early **Sanchi** are **Shunga** narrative reliefs. Early Sanchi is largely **aniconic** (wheel, tree, throne), not a human Buddha.
-7. The **Gupta Sarnath Buddha** shows the **dharmachakra** mudra, a transparent robe, and calm idealism. It is the peak of classical Buddhist sculpture.
-8. Architecture spine: Indus **grid and drains**, **Great Bath** at Mohenjo-daro, **Lothal dock**, Mauryan **Barabar** rock-cut caves, and Gupta **first structural temples** such as **Deogarh** and **Bhitargaon**.
-9. A **stupa** is a solid relic mound. A **chaitya** is a rock-cut prayer hall with an apse stupa. Do not swap the two.
+1. Ancient Indian cultural span runs from **Bhimbetka** (भीमबेटका) rock art through **Indus Valley** cities (about **2600–1900 BCE**), then **Maurya** (मौर्य), **Shunga–Kushan**, and **Gupta** (गुप्त) (4th–6th century CE).
+2. Hallmark artistic achievements of the Indus Valley Civilisation include carved **steatite seals**, figurines of the **terracotta Mother Goddess**, meticulously planned baked-brick cities, and the iconic **Dancing Girl** bronze sculpture cast using the **lost-wax** (*cire perdue* (सिर पर्ड्यू)) technique.
+3. **Northern Black Polished Ware (NBPW)** is the diagnostic deluxe pottery of the Mauryan and Northern Black Polished Ware period, while the classical Buddhist rock-cut murals of **Ajanta** (अजंता) represent the zenith of **Gupta–Vakataka** painting.
+4. Sculpture schools: **Gandhara uses grey **schist** with Greco-Roman Buddha style in the north-west. **Mathura** (मथुरा) uses red **sandstone** and is indigenous in **Uttar Pradesh. Amaravati** uses white **limestone** narrative panels in Andhra.
+5. **Mauryan polish** (मौर्य) on **Chunar** (चुनार) sandstone (Mirzapur belt) gives a mirror finish. The **Didarganj Yakshi** (दीदारगंज यक्षी) is the classic Mauryan polish figure.
+6. **Bharhut** (भरहुत) and early **Sanchi** (सांची) are **Shunga** narrative reliefs. Early Sanchi is largely **aniconic** (अप्रतिमेय) (wheel, tree, throne), not a human Buddha.
+7. The **Gupta Sarnath Buddha** shows the **dharmachakra** (धर्मचक्र) mudra, a transparent robe, and calm idealism. It is the peak of classical Buddhist sculpture.
+8. Architecture spine: Indus **grid and drains**, **Great Bath** at Mohenjo-daro, **Lothal dock**, Mauryan **Barabar** (बराबर) rock-cut caves, and Gupta **first structural temples** such as **Deogarh** and **Bhitargaon** (भीतरगाँव).
+9. A **stupa** is a solid relic mound. A **chaitya** (चैत्य) is a rock-cut prayer hall with an apse stupa. Do not swap the two.
 10. **Rock-cut** architecture (Barabar, chaityas) is carved into living rock. **Structural** temples are built from the Gupta age onward as freestanding buildings.
-11. Uttar Pradesh Indus sites are **Alamgirpur**, **Mandi**, and **Hulas. Alamgirpur** (Meerut belt) is the **easternmost** Indus site.
+11. Uttar Pradesh Indus sites are **Alamgirpur** (आलमगीरपुर), **Mandi**, and **Hulas. Alamgirpur** (Meerut belt) is the **easternmost** Indus site.
 12. **Rakhigarhi** is in **Haryana** and is the largest Indus site in India. It is **not** in Uttar Pradesh.
-13. **Sanauli** (Baghpat district, UP) is a late Harappan / Ochre Coloured Pottery (OCP) burial site famous for the discovery of copper-plated **war chariots**, coffins, and weaponry, representing a distinct post-urban transitional phase.
-14. These are **not** UP Indus sites: Lothal and Dholavira (**Gujarat**), Kalibangan (**Rajasthan**), Manda (**Jammu & Kashmir**), and Mohenjo-daro (**Sindh**).
-15. Key Harappan site matches: **Balu** (Haryana), **Manda** (Jammu & Kashmir), **Padri** (Gujarat), and **Hulas** (Saharanpur, Uttar Pradesh).
-16. Boat / dock evidence appears at **Mohenjo-daro** and **Lothal. Kalibangan** holds the famous **ploughed-field** evidence.
+13. **Sanauli** (सनौली) (Baghpat district, UP) is a late Harappan / Ochre Coloured Pottery (OCP) burial site famous for the discovery of copper-plated **war chariots**, coffins, and weaponry, representing a distinct post-urban transitional phase.
+14. These are **not** UP Indus sites: Lothal and Dholavira (**Gujarat**), Kalibangan (**Rajasthan** (थार)), Manda (**Jammu & Kashmir**), and Mohenjo-daro (**Sindh**).
+15. Key Harappan site matches: **Balu** (Haryana), **Manda** (मांडा) (Jammu & Kashmir), **Padri** (Gujarat), and **Hulas** (Saharanpur, Uttar Pradesh).
+16. Boat / dock evidence appears at **Mohenjo-daro** (मोहनजोदड़ो) and **Lothal. Kalibangan** holds the famous **ploughed-field** evidence.
 17. Primary Indus agricultural crops included **wheat**, **barley**, and **cotton** (cultivated earliest in the subcontinent); widespread rice cultivation expanded later in the eastern Gangetic valley during the later Vedic period.
-18. The **Arthashastra** shows state interest in agriculture and craft regulation. **Sreni** are craft **guilds. Nanadesi** were itinerant “many-country” merchants.
-19. **Chanhudaro** served as a specialized Indus bead-making and craft workshop centre; silver and copper punch-marked coins (*karshapanas*) served as the primary currency under the Mauryas, whereas the Guptas issued magnificent die-struck gold coins known as **dinara**.
+18. The **Arthashastra** (अर्थशास्त्र) shows state interest in agriculture and craft regulation. **Sreni** are craft **guilds. Nanadesi** were itinerant “many-country” merchants.
+19. **Chanhudaro** (चन्हूदड़ो) served as a specialized Indus bead-making and craft workshop centre; silver and copper punch-marked coins (*karshapanas*) served as the primary currency under the Mauryas, whereas the Guptas issued magnificent die-struck gold coins known as **dinara** (दीनार).
 20. **Wootz steel** represents the renowned crucible high-carbon steel developed in ancient South India and traded across the ancient Mediterranean and West Asian worlds.
 21. **Mathura** is the red-sandstone school home in UP. **Sarnath** is known for the **Lion Capital** and the Gupta Buddha. **Bhitargaon** is a Gupta brick temple in the Kanpur belt.
-22. **Ahichhatra** and **Kaushambi** are terracotta and urban craft centres of Uttar Pradesh.
+22. **Ahichhatra** (अहिच्छत्र) and **Kaushambi** (कौशांबी) are terracotta and urban craft centres of Uttar Pradesh.
 23. Indus cities are **urban brick** with seals and drains. Early **Rigvedic** society is largely **pastoral**. Do not treat the two as one culture stage.
 24. Terracotta mother-goddess and plough models differ from bronze: the **Dancing Girl** is **lost-wax bronze**, not terracotta.
 25. Punch-marked coins are irregular silver or copper pieces. Gupta **dinara** are die-struck **gold**. Do not call every ancient coin a dinara.
@@ -70,29 +70,6 @@ Ancient Indian Art | Ancient Indian Sculpture | Ancient Indian Architecture | An
 
 ---
 
-## Hindi spell — hard names
-
-Write these in Devanagari as given. One name, one spelling.
-
-| English | Hindi |
-|---------|-------|
-| Northern Black Polished Ware | उत्तरी काली पॉलिश मृद्भांड / एनबीपीडब्ल्यू |
-| Gandhara | गांधार |
-| Mathura | मथुरा |
-| Amaravati | अमरावती |
-| Didarganj Yakshi | दीदारगंज यक्षी |
-| Dharmachakra mudra | धर्मचक्र मुद्रा |
-| Alamgirpur | आलमगीरपुर |
-| Hulas | हुलास |
-| Rakhigarhi | राखीगढ़ी |
-| Dholavira | धोलावीरा |
-| Lothal | लोथल |
-| Kalibangan | कालीबंगा |
-| Sarnath | सारनाथ |
-| Chunar | चुनार |
-| Lost-wax / cire perdue | मोम-विधि / सिर पर्ड्यू |
-
----
 
 ## Must-score facts — Indus, schools, UP sites
 
@@ -141,7 +118,7 @@ Ancient art runs from prehistoric rock painting to the Gupta age. Learn each sit
 - **Northern Black Polished Ware (NBPW)** is Mauryan elite glossy pottery. It is not Harappan.
 - Ajanta mural cycle peaks under **Gupta–Vakataka** (5th–6th c.). The paintings show Jataka scenes in tempera on dry plaster, not Italian fresco.
 - UP art centres include **Mathura**, **Sarnath**, **Ahichhatra** (terracotta) and **Kaushambi**.
-- Ashoka’s cultural staff were the **Dhamma-mahamatras**, appointed in the **14th** year of coronation. Some papers tie his Dhamma wording to the *Rahulovada-sutta*.
+- Ashoka’s cultural staff were the **Dhamma-mahamatras** (धम्म महामात्र), appointed in the **14th** year of coronation. Some papers tie his Dhamma wording to the *Rahulovada-sutta*.
 
 > **Logic:** Bhimbetka = Wakankar + prehistoric. NBPW = Maurya. Seals = steatite**.
 
@@ -190,10 +167,10 @@ D. Only 2
 - **Bharhut** has Shunga narrative railings. They show early Buddhist stories in relief.
 - **Sanchi** toranas are mature Shunga–Satavahana narrative gateways. They stand in MP.
 - **Gandhara sculpture uses grey **schist** (also stucco). The Buddha is Greco-Roman / Hellenistic, with wavy hair, drapery and an Apollo-like face. The school is in the NW (Peshawar–Taxila belt).
-- **Mathura** sculpture uses **red sandstone**. It shows an indigenous Buddha and Jina. The centre is in **Uttar Pradesh**, peaking under the Kushans and continuing into the Gupta age.
-- **Amaravati** sculpture uses white / greenish **limestone**. It is from Andhra and shows dynamic narrative and movement.
+- **Mathura** sculpture uses **red sandstone**. It shows an indigenous Buddha and Jina. The centre is in **Uttar Pradesh** (उत्तर प्रदेश), peaking under the Kushans and continuing into the Gupta age.
+- **Amaravati** (अमरावती) sculpture uses white / greenish **limestone**. It is from Andhra and shows dynamic narrative and movement.
 - Stupas of the Amaravati school and Andhra region (such as Amaravati and Nagarjunakonda) are uniquely distinguished by rectangular platforms bearing groups of five **Aryaka pillars** (*ayaka-stambhas*) at the cardinal points.
-- **Gupta / Sarnath** sculpture is the classical ideal. It shows transparent drapery and the **Dharmachakra mudra** Buddha.
+- **Gupta / Sarnath** sculpture is the classical ideal. It shows transparent drapery and the **Dharmachakra mudra** (धर्मचक्र मुद्रा) Buddha.
 - Terracotta sculpture is huge at **Ahichhatra** and Kaushambi (UP). It is not a “stone school.”
 
 > **Logic:** Mathura = red sandstone, UP. Gandhara = grey schist, Greco-Roman. Amaravati = limestone + Aryaka-pillars**.
@@ -222,18 +199,18 @@ Ancient architecture runs from the Indus city to Mauryan Buddhist work and the f
 
 - **IVC cities** had grid streets, a citadel and lower town, burnt brick and **covered drains**.
 - The **Great Bath** is at **Mohenjo-daro**. It is a watertight tank. It is not Harappa’s headline fact and not at Varanasi.
-- **Lothal** had a dockyard in Gujarat. Terracotta boat models are found there.
+- **Lothal** (लोथल) had a dockyard in Gujarat. Terracotta boat models are found there.
 - Boat figures and models come from **Mohenjo-daro** and **Lothal**.
 - **Dholavira** is known for reservoirs and water management. It is in Gujarat and became UNESCO-listed in **2021**.
-- **Kalibangan** is in Rajasthan. It has ploughed-field evidence (agriculture overlap) and fire altars.
+- **Kalibangan** (कालीबंगा) is in Rajasthan. It has ploughed-field evidence (agriculture overlap) and fire altars.
 - UP Harappan sites include **Alamgirpur** (Meerut), **Hulas** (Saharanpur) and **Mandi** (Muzaffarnagar). **Alamgirpur** is the **easternmost**.
 - **Rakhigarhi** is in **Haryana**. It is the largest Indian IVC site. It is **not** in UP.
 - **Manda** is in Jammu & Kashmir (northern edge). **Padri** is in Gujarat. **Balu** is in Haryana.
 - **Sanauli** (Baghpat, UP) is a late Harappan / OCP chariot burial. It is not a substitute for Alamgirpur in “easternmost” questions.
 - **Ashoka pillars** are monolithic with Mauryan polish. Megasthenes describes a wooden palace at Pataliputra.
-- **Barabar** caves are in Bihar. They are the earliest surviving rock-cut caves, given by **Ashoka / Dasharatha** to the **Ajivikas**. They are not Chandragupta’s donation card.
-- The Buddhist trio is the **stupa** (relic mound), **chaitya** (prayer hall) and **vihara** (monastery).
-- The **Gupta** age sees the first Hindu **structural** temples. The **Dashavatara** temple is at **Deogarh** (MP). **Bhitargaon** is a brick temple (**Kanpur district, UP**).
+- **Barabar** caves are in Bihar. They are the earliest surviving rock-cut caves, given by **Ashoka / Dasharatha** to the **Ajivikas** (आजीविक). They are not Chandragupta’s donation card.
+- The Buddhist trio is the **stupa** (relic mound), **chaitya** (prayer hall) and **vihara** (विहार) (monastery).
+- The **Gupta** age sees the first Hindu **structural** temples. The **Dashavatara** (दशावतार) temple is at **Deogarh** (MP). **Bhitargaon** is a brick temple (**Kanpur district, UP**).
 - Pre-Islamic spans use **corbel**, not the true radiating arch.
 
 > **Logic:** Mandi + Hulas = UP. Rakhigarhi ≠ UP. Alamgirpur = eastern boundary**.
@@ -422,9 +399,9 @@ Ancient industries are specialised crafts from Harappan workshops to Gupta guild
 - **Punch-marked** coins run from the janapadas into the **Maurya** age. They are irregular silver/copper with symbols.
 - **Gupta gold dinaras** are die-struck. Types show the king with Lakshmi or as an archer.
 - A **sreni** was an ancient craft and merchant **guild**. It was regulated in the *Arthashastra*. Gupta inscriptions show guild donations.
-- A **nagaram** was a town merchant assembly in the South.
+- A **nagaram** (नगरम) was a town merchant assembly in the South.
 - **Nanadesis** were itinerant merchants of “many countries.”
-- **Manigrama** was a South Indian merchant guild with long-distance / overseas trade.
+- **Manigrama** (मणिग्रामम) was a South Indian merchant guild with long-distance / overseas trade.
 
 > **Logic:** Beads = Chanhudaro. Dancing Girl = bronze. Punch-marked ≠ Gupta gold. Sreni ≠ Nanadesi**.
 

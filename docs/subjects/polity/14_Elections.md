@@ -57,7 +57,7 @@
 15. The **104th Amendment (2019)** extended SC/ST reservation to **25 January 2030** and **ended** Anglo-Indian nomination in the Lok Sabha and Assemblies. The **106th Amendment (2023)** reserves **one-third** of seats for women in the Lok Sabha and Assemblies, but only **after** the next delimitation.
 16. Uttar Pradesh has the largest Lok Sabha contingent (**80** seats) and an Assembly of **403**. Local body polls in UP are run by the **UP State Election Commission**, not the ECI.
 17. Political party **registration** is under RPA section **29A**. **Recognition** as a national or State party follows the **Symbols Order, 1968**. National-party tests include vote share across States or Lok Sabha seat share thresholds.
-18. Anti-defection is in the **10th Schedule**, inserted by the **52nd Amendment (1985)**. The **91st Amendment (2003)** removed the one-third split escape and kept merger only at **two-thirds**. The Speaker decides; *Kihoto Hollohan* allows limited judicial review.
+18. Anti-defection is in the **10th Schedule**, inserted by the **52nd Amendment (1985)**. The **91st Amendment (2003)** removed the one-third split escape and kept merger only at **two-thirds** (ते-भागा). The Speaker decides; *Kihoto Hollohan* allows limited judicial review.
 19. A recognised party may name up to **40** star campaigners; an unrecognised party may name **20** (RPA section **77** expenditure rules).
 20. An election petition for an MP or MLA goes to the **High Court** within **45 days**. Appeal lies to the Supreme Court. Corrupt practices are listed in RPA section **123**. President/VP election disputes stay under **Article 71**.
 21. **EVMs** were first used in Kerala in **1982** and covered all booths by **2004**. They are made by **BEL** and **ECIL**. **VVPAT** was first used at **Noksen (Nagaland) on 4 September 2013** and nationwide by **2019**; the Supreme Court required verification of **five** VVPAT slips per Assembly constituency.
@@ -152,7 +152,7 @@ The **poll**: who votes, how seats are drawn, which system, parties, devices, pe
 
 **Statute pair:RPA 1950** = electoral rolls, allocation of seats, delimitation *machinery*. **RPA 1951** = conduct, nominations, corrupt practices, election petitions.
 
-**Officers:Returning Officer** (constituency — often the DM, **appointed by ECI**) · **Presiding Officer** (booth) · observers · BLO (roll).
+**Officers:Returning Officer** (constituency — often the DM, **appointed by ECI**) · **Presiding Officer** (पीठासीन अधिकारी) (booth) · observers · BLO (roll).
 
 **327 / 328:** Parliament **may** make laws on elections to Parliament and State Houses; a State may too **subject to Parliament’s law**. The working statutes are **RPA 1950 / 1951**.
 
@@ -217,7 +217,7 @@ D. 63rd
 
 ## First Past the Post (FPTP)
 
-Used for **Lok Sabha** and **Vidhan Sabha**. Single-member **territorial** constituency (Arts. **81, 170**). Candidate with the **most votes** wins — need not 50%+1. **Two-member** constituencies existed; abolished **1961**. Elected LS strength **543** (the **two** Anglo-Indian nominated seats died with the **104th**).
+Used for **Lok Sabha** and **Vidhan Sabha** (विधानसभा). Single-member **territorial** constituency (Arts. **81, 170**). Candidate with the **most votes** wins — need not 50%+1. **Two-member** constituencies existed; abolished **1961**. Elected LS strength **543** (the **two** Anglo-Indian nominated seats died with the **104th**).
 
 - **Why India kept it:** Simple ballot; stable single-party majorities historically.
 - **Cost:** Winner can have a **minority** of votes · “wasted” votes · smaller parties under-represented.
@@ -233,7 +233,7 @@ India’s flavour = **PR by Single Transferable Vote (STV)** — **not** a natio
 | Election | System |
 |----------|--------|
 | **President (55)** / **VP (66)** | PR-STV. MLA vote-value = 1971 population ÷ (elected MLAs × 1000); MP value = total MLA values ÷ elected MPs |
-| **Rajya Sabha** (elected seats) | PR-STV; electoral college = **MLAs** of that State. Party vote is **open ballot** (**2003** RPA amendment — anti-cross-voting). **Not** the same secrecy as President/VP |
+| **Rajya Sabha** (राज्यसभा) (elected seats) | PR-STV; electoral college = **MLAs** of that State. Party vote is **open ballot** (**2003** RPA amendment — anti-cross-voting). **Not** the same secrecy as President/VP |
 | **UP Vidhan Parishad** | UP **has** a Council; the MLA / graduate / teacher / local-body slices use the **171** mix (PR-STV where listed) |
 | **Legislative Council** (where it exists) | Partly PR-STV (MLAs / graduates / teachers / local bodies as 171 lists) |
 | **Lok Sabha / Assembly** | **FPTP**, not PR |
@@ -403,7 +403,7 @@ ECI grants **National** or **State** party status. Criteria (learn the **logic**
 
 | National party (any one) | State party (any one, in that State) |
 |--------------------------|--------------------------------------|
-| **6%** votes in LS **or** Assembly elections in **four** States **and4** LS seats | **6%** votes in that State’s Assembly **or** LS poll **and2** MLAs **or1** MP |
+| **6%** votes in LS **or** Assembly elections in **four** (चातुर्याम) States **and4** LS seats | **6%** votes in that State’s Assembly **or** LS poll **and2** MLAs **or1** MP |
 | **2%** of LS seats (**11** of 543) from at least **three** States | **3%** of Assembly seats **or 3 seats**, whichever is more |
 | Recognised as **State party in four** States | **1** LS seat per **25** LS seats of that State (min 1) |
 | | **8%** of total valid votes in the State (even without a seat) |

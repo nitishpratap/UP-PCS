@@ -4,7 +4,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Environmental Pollution | Environmental Degradation | Air Pollution | Water Pollution | Soil Pollution | Noise Pollution | Radioactive Pollution | Thermal Pollution | Marine Pollution | Plastic Pollution | Solid Waste Management | Biomedical Waste | Hazardous Waste | E-waste
+Environmental Pollution (पर्यावरणीय प्रदूषण) | Environmental Degradation (पर्यावरणीय क्षरण) | Air Pollution | Water Pollution | Soil Pollution | Noise Pollution | Radioactive Pollution | Thermal Pollution | Marine Pollution | Plastic Pollution | Solid Waste Management | Biomedical Waste | Hazardous Waste | E-waste
 
 </details>
 
@@ -16,33 +16,33 @@ Environmental Pollution | Environmental Degradation | Air Pollution | Water Poll
 
 ## Current Affairs (this topic)
 
-- NCAP / CAQM / solid-waste and e-waste rule updates are the living pollution CA layer.
+- NCAP (राष्ट्रीय स्वच्छ वायु कार्यक्रम) / CAQM / solid-waste and e-waste rule updates are the living pollution CA layer.
 - Keep primary pollutant vs secondary pollutant and BOD vs COD pairs stable.
 
 ---
 
 ## Consolidated — 36 Must-Score Facts
 
-1. **Pollution** is harmful addition beyond the environment’s absorption capacity. **Degradation** is the broader fall in environmental quality and productivity.
+1. **Pollution** is harmful addition beyond the environment (पर्यावरण)’s absorption capacity. **Degradation** is the broader fall in environmental quality and productivity.
 2. Human-caused pollution / human-modified environment = **anthropogenic**. Anthropogenic pollution often raises persistent **non-biodegradable** loads.
 3. **Biodegradable** pollutants (sewage, faecal matter, urine, domestic waste, rubber in some stems) break down by microbes. **Non-biodegradable** include pesticides, plastics, mercury, asbestos.
 4. **Point sources** are chimneys and drains. **Non-point sources** include farm runoff and roads.
-5. **Primary pollutants** are emitted directly (SO₂, PM, CO, NOx, lead). **Secondary pollutants** form in air (O₃, PAN, photochemical smog, acid rain).
-6. Law years: **Water Act 1974 → Air Act 1981 → EPA 1986**. Noise Rules date to **2000**. Air Act amended **1987** to include noise.
-7. **CPCB** sets ambient air and surface-water standards. **SPCB** enforces in States. **CGWB** handles **groundwater** assessment — not CPCB.
+5. **Primary pollutants** are emitted directly (SO₂, PM, CO, NOx, lead). **Secondary pollutants** form in air (O₃, PAN, photochemical smog, acid rain (अम्ल वर्षा)).
+6. Law years: **Water Act 1974 → Air Act 1981 → EPA 1986 (पर्यावरण संरक्षण 1986)**. Noise Rules date to **2000**. Air Act amended **1987** to include noise.
+7. **CPCB** (केंद्रीय प्रदूषण नियंत्रण बोर्ड) sets ambient air and surface-water standards. **SPCB** enforces in States. **CGWB** handles **groundwater** assessment — not CPCB.
 8. India’s AQI uses **eight** pollutants: **PM10, PM2.5, NO₂, CO, O₃, SO₂, NH₃, Pb** — **not CO₂ or CH₄** (those are climate gases). Bands: **0–50 Good** … **401–500 Severe**.
 9. London smog is **SO₂ + smoke**. Los Angeles / photochemical smog is **NOx + VOCs + sunlight → O₃ / PAN**. **PAN** is a powerful eye irritant.
 10. **CO** binds haemoglobin **~200–300×** more strongly than O₂ (carboxyhaemoglobin). Lead antiknock in petrol harms IQ/brain development.
 11. **Fly ash** from coal TPPs: usable in bricks / Portland cement replacement; contains SiO₂, Al₂O₃, CaO **plus toxic metals** — not “oxides only.”
 12. **Lichens** are SO₂ bio-indicators and die in polluted air. **Radon** is the classic major **indoor** air pollutant (lung cancer risk).
 13. **NCAP (2019)** covers non-attainment cities with a **20–30%** PM reduction target. **BS-VI** fuel arrived in **2020**. **WAYU** air-purifying units were installed in **Delhi**.
-14. **CCAC** (2012, with UNEP) focuses on **methane, black carbon, HFCs** — not a G20-only club.
+14. **CCAC** (2012, with UNEP (संयुक्त राष्ट्र पर्यावरण कार्यक्रम)) focuses on **methane, black carbon, HFCs** — not a G20-only club.
 15. Water facts: high **BOD** means worse organic pollution; **COD ≥ BOD**; clean DO is often **>6 mg/L**, while **<5 mg/L** / **<4 mg/L** stresses aquatic life.
-16. **Eutrophication** is nutrient overload (N/P) → algal bloom → dissolved-oxygen crash — a **water** phenomenon, not air pollution.
+16. **Eutrophication** (सुपोषण) is nutrient overload (N/P) → algal bloom → dissolved-oxygen crash — a **water** phenomenon, not air pollution.
 17. Disease locks: **Minamata–Hg**, **Itai-itai–Cd**, **Knock-knee / fluorosis–F**, **Black Foot–As**, blue-baby–nitrate.
-18. **Damodar** is classically called a **biological desert** from mining/industry pollution. Ganga BOD often highest **Kanpur–Allahabad** stretch.
-19. Arsenic groundwater hotspots: Ganga–Brahmaputra / Bangladesh Padma–Meghna; Indian states include WB, Bihar, UP, Jharkhand, Assam, Manipur, Chhattisgarh.
-20. About **80%** of marine pollution comes from **land**. Ocean acidification from CO₂ harms calcareous plankton and corals. **IMO** HQ = **London**.
+18. **Damodar** (दामोदर) is classically called a **biological desert** from mining/industry pollution. Ganga (गंगा) BOD often highest **Kanpur (कानपुर)–Allahabad (इलाहाबाद)** stretch.
+19. Arsenic groundwater hotspots: Ganga–Brahmaputra (ब्रह्मपुत्र) / Bangladesh Padma (पद्मा)–Meghna; Indian states include WB, Bihar, UP, Jharkhand, Assam, Manipur, Chhattisgarh.
+20. About **80%** of marine pollution comes from **land**. Ocean acidification (महासागरीय अम्लीकरण) from CO₂ harms calcareous plankton and corals. **IMO** HQ = **London**.
 21. Noise is measured in **decibels**. **Green muffler** = roadside tree belts for noise (and dust). Jet take-off/landing is among the loudest common sources.
 22. Plastic: **PWM Rules 2016**, SUP ban push **2022**, microplastics **<5 mm**; **microbeads** harm marine ecosystems. Polythene = ethylene polymer, non-biodegradable.
 23. **Bioremediation** uses microbes to clean pollution; **cannot** readily/completely treat **Cd/Pb** heavy metals. **Oilzapper** (TERI) is for oily sludge/spills. Genetic engineering can create specialised strains (e.g. *Pseudomonas putida*).
@@ -51,9 +51,9 @@ Environmental Pollution | Environmental Degradation | Air Pollution | Water Poll
 26. BMW colour codes: **Yellow** incineration; **Red** disinfect and recycle; **White** sharps; **Blue** glass/metal.
 27. **Euro / BS** emission norms limit CO, HC, NOx, PM. Euro-II ultra-low sulphur diesel ≈ **≤0.05% S**. India skipped BS-V to **BS-VI (1 Apr 2020)**.
 28. Catalytic converters use **Pt / Pd / Rh** to convert CO → CO₂, NOx → N₂, HC → CO₂ + H₂O.
-29. UP air NCAP cities include Lucknow, Kanpur, Ghaziabad, Agra, Varanasi, Meerut, Noida, Prayagraj, Moradabad, and Bareilly.
+29. UP air NCAP cities include Lucknow (लखनऊ), Kanpur, Ghaziabad, Agra, Varanasi (वाराणसी), Meerut (मेरठ), Noida, Prayagraj (प्रयागराज), Moradabad, and Bareilly.
 30. UP issue facts: Kanpur Ganga tanneries; Ghaziabad/Noida air; **Moradabad** noise; **Taj Trapezium** at Agra; Varanasi ghat/plastic pressure.
-31. FSI publishes forest cover, not pollution standards. CWC is surface-water resources, not the groundwater quality report.
+31. FSI publishes forest cover (वन आवरण), not pollution standards. CWC (केंद्रीय जल आयोग) is surface-water resources, not the groundwater quality report.
 32. EPA **1986** is the umbrella for many later rules; it does not replace Water and Air Acts.
 33. Secondary ozone at ground level is a pollutant; do not confuse it with stratospheric protective ozone.
 34. Hazardous waste follows HW Rules **2016** plus Basel controls — not SWM municipal rules alone.
@@ -100,8 +100,8 @@ Environmental Pollution | Environmental Degradation | Air Pollution | Water Poll
 - Pollutants may be **physical** (heat, noise, radiation), **chemical** (metals, pesticides, gases), or **biological** (pathogens).
 - Pollution caused or strongly influenced by humans is called **anthropogenic** pollution; the human-modified environment is the **anthropogenic environment**.
 - **Biodegradable** pollutants (sewage, faecal matter, urine, domestic organic waste) can be broken down by microbes. **Non-biodegradable** pollutants (pesticides, plastics, many metals, asbestos) persist or degrade very slowly.
-- **Point sources** have identifiable outlets such as factory chimneys and sewage pipes.
-- **Non-point sources** are diffuse, such as fertilizer runoff from farms and urban stormwater.
+- **Point sources** have identifiable outlets such as factory (फैक्टरी) chimneys and sewage pipes.
+- **Non-point sources** are diffuse, such as fertilizer runoff from farms and urban (नगरीय) stormwater.
 - **Primary pollutants** are emitted directly, including **SO₂**, **CO**, **NOx**, and **particulate matter**.
 - **Secondary pollutants** form in the atmosphere, including **ground-level ozone**, **PAN**, photochemical smog, and **acid rain**.
 - The **Water (Prevention and Control of Pollution) Act, 1974** controls water pollution.
@@ -135,14 +135,14 @@ D. Only 1
 
 **Identity:** Broader than pollution | Carrying capacity | Deforestation–mining–urbanization chains
 
-- **Environmental degradation** is the decline in environmental quality and productivity from pollution, resource depletion, and ecosystem damage.
+- **Environmental degradation** is the decline in environmental quality and productivity from pollution, resource depletion, and ecosystem (पारिस्थितिकी तंत्र) damage.
 - Degradation is **broader than pollution**. Deforestation without toxic chemicals still causes degradation.
 - A common chain runs from **deforestation → soil erosion → river siltation → flood risk → productivity loss**.
 - **Urbanization** degrades the environment through sewage overload, heat islands, and waste accumulation.
-- **Mining** removes vegetation and can cause acid drainage and toxic tailings. **Sonbhadra (UP)** faces mining-related degradation.
+- **Mining** removes vegetation and can cause acid drainage and toxic tailings. **Sonbhadra (सोनभद्र) (UP)** faces mining-related degradation.
 - **Intensive agriculture** degrades soil through pesticide buildup, salinization, and organic matter loss.
 - Degradation accelerates when **resource extraction exceeds regeneration** or **waste exceeds absorption capacity**.
-- About **30% of India's land area** is degraded according to ISRO desertification assessments.
+- About **30% of India's land area** is degraded according to ISRO desertification (मरुस्थलीकरण) assessments.
 - **EIA under EPA 1986** aims to prevent degradation before major projects start.
 
 > **Logic:** Afforestation **reverses** degradation; it is not a cause of it.
@@ -172,7 +172,7 @@ D. Only 1
 - **Radon** (from radium/soil) is the classic major **indoor** air pollutant and raises lung-cancer risk in poorly ventilated homes.
 - **Asian Brown Cloud** aerosols are especially noted over **South Asia** (winter; black carbon, sulphate).
 - **WAYU** (Wind Augmentation Purifying Unit) was installed at Delhi traffic junctions. **CCAC** (2012, UNEP partners) targets short-lived climate pollutants: **methane, black carbon, HFCs** — not a G20-only club.
-- **Ringelmann scale** grades smoke density/opacity.
+- **Ringelmann scale** (रिंगेलमैन पैमाना) grades smoke density/opacity.
 
 > **Logic:** — lichens indicate pollution but **decline** in polluted air. AQI ≠ greenhouse-gas index.
 
@@ -205,7 +205,7 @@ D. Only 1
 
 ## 9.4 Water Pollution
 
-**Identity:** BOD/COD/DO | Eutrophication | Namami Gange | CGWB trap
+**Identity:** BOD/COD/DO | Eutrophication | Namami Gange (नमामि गंगे) | CGWB trap
 
 - **Water pollution** alters water quality so it becomes unfit for drinking, aquatic life, or irrigation.
 - **BOD (Biochemical Oxygen Demand)** measures oxygen consumed by microbes decomposing **organic** matter. **Higher BOD = more organic pollution** (and usually lower DO).
@@ -230,7 +230,7 @@ D. Only 1
 | **Farmer's Lung** | Moldy hay / straw dust | Agriculture, silos, threshing | Hypersensitivity reaction to thermophilic actinomycetes |
 - Arsenic groundwater hotspots: Ganga–Brahmaputra plains and Bangladesh’s Padma–Meghna; Indian states include **West Bengal** (first reported **1978**), Bihar, UP, Jharkhand, Assam, Manipur, and Chhattisgarh.
 - **Kanpur's tanneries** discharge **chromium** into the Ganga as a major UP point source.
-- The **Gomti** through **Lucknow** has been flagged among India’s most polluted stretches. The **Yamuna** is heavily polluted in the Mathura–Agra–Delhi stretch.
+- The **Gomti** through **Lucknow** (लखनऊ) has been flagged among India’s most polluted stretches. The **Yamuna** (यमुना) is heavily polluted in the Mathura (मथुरा)–Agra–Delhi stretch.
 - **Namami Gange (2014)** is India's flagship Ganga cleaning mission. **NMCG** is the nodal agency.
 - The **Annual Groundwater Quality Report** is prepared by **CGWB**, not CPCB.
 - Rail **bio-toilets** use **anaerobic bacterial** inoculum (DRDO–Railways), producing water and gases after chlorination — not fungal-only, and not ammonia-only end products.
@@ -267,7 +267,7 @@ D. Only 1
 
 **Identity:** Pesticides | Heavy metals | Acid rain | Kanpur chromium
 
-- **Soil pollution** is the buildup of toxic chemicals, salts, or waste that reduces fertility and enters the food chain.
+- **Soil pollution** is the buildup of toxic chemicals, salts, or waste that reduces fertility and enters the food chain (खाद्य श्रृंखला).
 - **Organochlorine pesticides** such as **DDT** persist for years and **biomagnify** in food chains.
 - **Heavy metals** including **chromium, cadmium, lead, and arsenic** accumulate in topsoil from industry and sludge.
 - **Kanpur tanneries** release **hexavalent chromium**, contaminating soil and river sediments in UP.
@@ -287,7 +287,7 @@ D. Only 1
 **Identity:** dB scale | CPCB zone limits | Noise Rules 2000 | Health effects
 
 - **Noise pollution** is unwanted sound that harms hearing, sleep, and health.
-- **Decibel (dB)** uses a **logarithmic scale**. A **10 dB** rise means **10 times** the sound intensity.
+- **Decibel (dB)** (डेसिबल) uses a **logarithmic scale**. A **10 dB** rise means **10 times** the sound intensity.
 - **Day** is **6 AM–10 PM**. **Night** is **10 PM–6 AM**. Night limits are stricter.
 - **CPCB residential limits** are **55 dB (day)** and **45 dB (night)**.
 - **Silence zones** near hospitals and schools allow **50 dB (day)** and **40 dB (night)**.
@@ -341,20 +341,20 @@ D. Only 1
 
 ## 9.9 Marine Pollution
 
-**Identity:** 80% land-based | MARPOL | Oil/plastic/nutrients | Coral bleaching
+**Identity:** 80% land-based | MARPOL | Oil/plastic/nutrients | Coral bleaching (प्रवाल विरंजन)
 
 - **Marine pollution** contaminates oceans through sewage, oil, plastics, and nutrients.
 - About **80% of marine pollution originates on land** via rivers and coastal discharge.
 - **Oil spills** form slicks that block oxygen exchange and coat wildlife.
 - **Plastic waste** and **microplastics** enter marine food chains globally.
-- **Nutrient runoff**, estuary discharges, monsoon run-off, and coastal **upwelling** can all drive harmful **algal blooms**.
+- **Nutrient runoff**, estuary (ज्वारनदमुख) discharges, monsoon run-off, and coastal **upwelling** can all drive harmful **algal blooms**.
 - **Ocean acidification** is falling ocean pH from atmospheric **CO₂** uptake; it harms **calcareous phytoplankton**, **coral reefs**, and some animals with phytoplankton larvae (cloud seeding is **not** the usual acidification concern).
 - Oceans absorb about **one-third** of anthropogenic CO₂.
-- **MARPOL 73/78** is the international convention to prevent pollution from ships. The **International Maritime Organization (IMO)** HQ is in **London** (IMCO renamed IMO in **1982**).
+- **MARPOL 73/78** is the international convention to prevent pollution from ships (नावाध्यक्ष). The **International Maritime Organization (IMO)** HQ is in **London** (IMCO renamed IMO in **1982**).
 - **SACEP** = **South Asia Cooperative Environment Programme** (oil/chemical pollution MoU framing in papers).
 - **MARPOL Annex V** prohibits plastic discharge from vessels.
-- **Coral bleaching** in the Andaman and Nicobar Islands was linked to **Indian Ocean warming of about 2°C** (2024 PYQ pattern).
-- **Oilzapper**-type bioremediation has been used for oily sludge/spills (e.g. Mumbai port spill teaching note).
+- **Coral bleaching** in the Andaman (अंडमान) and Nicobar (निकोबार) Islands was linked to **Indian Ocean warming of about 2°C** (2024 PYQ pattern).
+- **Oilzapper**-type bioremediation has been used for oily sludge/spills (e.g. Mumbai port (बंदरगाह) spill teaching note).
 
 > **Logic:** — bleaching from **temperature rise**, not temperature decrease. Acidification concern ≠ cloud seeding.
 
@@ -389,8 +389,8 @@ D. −4°C temperature drop
 - The **SUP (single-use plastic) ban notification of July 2022** banned identified items such as plastic cutlery, straws, and certain films.
 - **EPR** makes producers and brand owners collect equivalent plastic waste they place in the market; EPR featured early in **Plastic/E-waste Rules 2011**.
 - **India is the 3rd largest plastic waste generator** globally after the USA and China.
-- World Environment Day **2023** theme focused on solutions to plastic pollution (**Beat Plastic Pollution**).
-- The **Ganga** carries large amounts of plastic waste from ghats and urban dumping.
+- World Environment Day (विश्व पर्यावरण दिवस) **2023** theme focused on solutions to plastic pollution (**Beat Plastic Pollution**).
+- The **Ganga** (गंगा) carries large amounts of plastic waste from ghats and urban dumping.
 - **MARPOL Annex V** bans plastic discharge from ships into the sea.
 - **Incinerators** burn waste. **Pyrolysis / plasma gasification** are waste-to-energy thermal routes.
 - **R2 Code of Practices** promotes environmentally responsible **electronics recycling**.
@@ -450,7 +450,7 @@ D. −4°C temperature drop
 - Hazard characteristics include **ignitability, corrosivity, reactivity, and toxicity**.
 - Storage is allowed up to **90 days** unless an extension is granted.
 - The **manifest system** tracks waste from generator to transporter to treatment facility.
-- The **Basel Convention (1989)** controls **transboundary movement** of hazardous waste. India ratified it in **1992**.
+- The **Basel Convention (1989)** (बासेल कन्वेंशन) controls **transboundary movement** of hazardous waste. India ratified it in **1992**.
 - **Kanpur tannery chromium sludge** is a classic UP hazardous waste example.
 
 > **Logic:** Basel = **hazardous waste movement**, not climate or biodiversity.

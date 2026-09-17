@@ -4,8 +4,8 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-**Sustainable Development:** SD | SDGs | SDGs 2030 | Objectives | Indicators | Dimensions | Brundtland Report | Natural capital | Sustainable agriculture | NMSA
-**Environmental Governance:** Governance | Environmental Justice | Environmental Ethics | Green Economy | Circular Economy
+**Sustainable Development:** SD | SDGs | SDGs 2030 | Objectives | Indicators | Dimensions | Brundtland Report | Natural capital (प्राकृतिक पूंजी) | Sustainable agriculture | NMSA
+**Environmental Governance:** Governance | Environmental Justice | Environmental Ethics | Green Economy (हरित अर्थव्यवस्था) | Circular Economy (चक्रीय अर्थव्यवस्था)
 
 </details>
 
@@ -29,25 +29,25 @@
 3. SD rests on **economic, social, and environmental** pillars (plus institutional capacity). It is not environment-only.
 4. Core objectives include basic needs, intra- and inter-generational equity, ecological limits, participation, and integrated planning.
 5. Priority objectives also include **poverty reduction**, **biodiversity conservation**, and **pollution control**.
-6. Indicators include **HDI (UNDP)**, ecological footprint, NITI Aayog SDG Index, global SDG indicator sets, and EPI.
+6. Indicators include **HDI (UNDP (यूएनडीपी))**, ecological footprint (पारिस्थितिक पदचिह्न), NITI (नीति) Aayog (नीति आयोग) SDG Index, global SDG indicator sets, and EPI.
 7. **Natural capital** means renewable and non-renewable environmental resources (air, water, land, minerals, forests). **Roads** are not natural capital.
-8. **SDGs** were adopted in **September 2015**, run to **2030**, and include **17 goals** and **169 targets**.
+8. **SDGs** were adopted (अंगीकृत) in **September 2015**, run to **2030**, and include **17 goals** and **169 targets**.
 9. SDGs replaced **MDGs** (8 goals, **2000–2015**) and apply universally to all countries.
 10. Goal facts worth ratta include SDG **6** water, **7** energy, **13** climate, **14** life below water, and **15** life on land.
 11. Global SDG Index ranks often place **Finland** first. India was about **116th (2017)** and about **112th (2023)**.
-12. NITI Aayog **SDG India Index** has repeatedly placed **Kerala** first; Himachal Pradesh and Tamil Nadu sit near the top. **Gujarat** was **not** in the 2019–20 top-five set often tested.
-13. Conference chain: **Stockholm 1972 → Brundtland 1987 → Rio and Agenda 21 in 1992 → SDGs 2015**.
+12. NITI Aayog **SDG India Index** has repeatedly placed **Kerala** first; Himachal (हिमाचल) Pradesh and Tamil Nadu (तमिलनाडु) sit near the top. **Gujarat** was **not** in the 2019–20 top-five set often tested.
+13. Conference chain: **Stockholm 1972 (स्टॉकहोम सम्मेलन) → Brundtland 1987 → Rio and Agenda 21 in 1992 → SDGs 2015**.
 14. **Agenda 21** is Rio **1992**, not 1995.
 15. **LiFE Mission** launched in **June 2022**; the idea was floated at **COP26 Glasgow 2021**, not COP25.
-16. MoEFCC is the nodal environment ministry. **NGT Act 2010** creates the green tribunal.
+16. MoEFCC (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय) is the nodal environment (पर्यावरण) ministry. **NGT Act 2010** creates the green tribunal.
 17. Rio principles frequently tested are **Precautionary Principle, Polluter Pays, and Public Trust**.
-18. Constitutional hooks are **Article 48A**, **Article 51A(g)**, and **Article 21** read with a healthy environment.
+18. Constitutional hooks are **Article 48A**, **Article 51A(g)**, and **Article 21** (अनुच्छेद 21) read with a healthy environment.
 19. UP SDG reporting typically sits with the **Planning Department**.
 20. Environmental justice means fair distribution of environmental benefits and burdens plus fair participation in decisions.
-21. Bhopal **1984** led to EPA **1986**. UP justice/pollution examples include Kanpur tanneries and the Singrauli coal belt.
-22. Ethics labels: **anthropocentrism** (human-centred), **biocentrism** (all life), **ecocentrism** (ecosystems). Leopold’s Land Ethic is **1949**; deep ecology links to **Arne Næss**.
-23. Gandhi’s **trusteeship** is a frequent Indian environmental-ethics fact.
-24. **Green economy** (UNEP **2011** line) means low-carbon, resource-efficient, socially inclusive growth.
+21. Bhopal **1984** led to EPA **1986**. UP justice/pollution examples include Kanpur (कानपुर) tanneries and the Singrauli coal belt.
+22. Ethics labels: **anthropocentrism** (human-centred), **biocentrism** (all life), **ecocentrism** (ecosystems). Leopold’s Land Ethic is **1949**; deep ecology (पारिस्थितिकी) links to **Arne Næss**.
+23. Gandhi (गांधी)’s **trusteeship** is a frequent Indian environmental-ethics fact.
+24. **Green economy** (UNEP (संयुक्त राष्ट्र पर्यावरण कार्यक्रम) **2011** line) means low-carbon, resource-efficient, socially inclusive growth.
 25. **Circular economy** redesigns take-make-dispose into reduce-reuse-recycle loops, often with **EPR** rules. Circular sits inside, but is not identical to, green economy.
 26. **Sustainable agriculture** means using land so its **quality remains intact**, with mixed cropping, organic manures, nitrogen-fixing plants, and pest-resistant varieties as the environment-friendly strategy set.
 27. **NMSA** (National Mission for Sustainable Agriculture) is a **NAPCC** mission on productivity, water-use efficiency, nutrient management, and livelihood diversification.
@@ -55,7 +55,7 @@
 29. MDGs had 8 goals; SDGs have 17 — do not reverse the counts.
 30. HDI is an UNDP development indicator; it is not itself an MoEFCC clearance tool.
 31. Polluter Pays allocates cleanup cost to the polluter; Precautionary Principle acts under scientific uncertainty — different tools.
-32. Public Trust treats certain natural resources as held for public benefit, not absolute private exhaustion.
+32. Public Trust treats certain natural resources as held for public benefit, not absolute (निरपेक्ष) private exhaustion.
 
 ---
 
@@ -93,7 +93,7 @@
 **Identity:** Brundtland 1987 | Three pillars | Inter/intra-generational equity | Indicators | Natural capital
 
 - **Sustainable development** means meeting the needs of the present **without compromising** the ability of future generations to meet their own needs.
-- This definition comes from the **Brundtland Report (1987)**, formally titled ***Our Common Future***, by the **World Commission on Environment and Development (WCED)** chaired by **Gro Harlem Brundtland**.
+- This definition comes from the **Brundtland Report (1987)** (ब्रंटलैंड रिपोर्ट), formally titled ***Our Common Future***, by the **World Commission on Environment and Development (WCED)** chaired by **Gro Harlem Brundtland**.
 - The Brundtland Report is **not** *The Limits to Growth*. That 1972 study was by the **Club of Rome**.
 - **Inter-generational equity** protects future generations. **Intra-generational equity** ensures fair sharing among people alive today.
 - Sustainable development is a matter of **inter-generational sensibility** in the use of **natural resources**.
@@ -103,9 +103,9 @@
 - Development is unsustainable if resource extraction exceeds regeneration or waste exceeds environmental absorption capacity.
 - **Natural capital** includes all renewable and non-renewable environmental resources such as air, water, land, minerals, and forests. **Roads** and other purely human-made assets are **not** natural capital.
 - SD road-mapping often uses information from **remote sensing**, **GIS**, statistical methods, and environmental information systems.
-- **Indicators** include **HDI** (UNDP), **ecological footprint**, **SDG Index**, **Environmental Performance Index (EPI)**, and **231 SDG indicators**.
-- **NITI Aayog** publishes the **SDG India Index** ranking states on SDG progress.
-- The timeline runs **Stockholm 1972** → **Brundtland 1987** → **Rio Earth Summit and Agenda 21 (1992)** → **SDGs adopted 2015**.
+- **Indicators** include **HDI** (UNDP), **ecological footprint** (पारिस्थितिक पदचिह्न), **SDG Index**, **Environmental Performance Index (EPI)**, and **231 SDG indicators**.
+- **NITI Aayog** (नीति आयोग) publishes the **SDG India Index** ranking states on SDG progress.
+- The timeline runs **Stockholm 1972** (स्टॉकहोम सम्मेलन) → **Brundtland 1987** → **Rio Earth Summit and Agenda 21 (1992) (एजेंडा 21)** → **SDGs adopted 2015**.
 
 **PYQ — UPPCS Prelims 2025, Q51**
 
@@ -159,14 +159,14 @@ D. A true, R false
 **Identity:** 17 goals | 2030 deadline | 2015 adoption | MDGs replaced | NITI coordination
 
 - The **2030 Agenda for Sustainable Development** was adopted by all UN member states on **25 September 2015**.
-- It sets **17 Sustainable Development Goals (SDGs)** with **169 targets** and **231 indicators** to be achieved by **2030**.
+- It sets **17 Sustainable Development Goals (SDGs) (सतत विकास लक्ष्य)** with **169 targets** and **231 indicators** to be achieved by **2030**.
 - **SDGs replaced MDGs**, which had **8 goals (2000–2015)** and focused mainly on developing countries.
 - **SDGs are universal** — they apply to all countries, including developed ones.
 - **Leave No One Behind** requires progress to reach the poorest and most vulnerable groups.
 - **NITI Aayog** coordinates SDG localisation in India. **MoSPI** maintains the National Indicator Framework.
-- India's large population share makes its SDG performance critical for global success.
+- India's large population (जनसंख्या) share makes its SDG performance critical for global success.
 - A global **SDG Index / Dashboard** ranks countries on progress toward the 17 goals. **Finland**, **Sweden**, and **Denmark** typically lead.
-- India ranked about **116th** in the **2017** global SDG Index and about **112th** among **166** countries in the **2023** reading.
+- India ranked about **116th** in the **2017** global SDG Index and about **112th** among **166** countries in the **2023** reading (रीडिंग).
 - **NITI Aayog’s SDG India Index** ranks states and UTs. **Kerala** has repeatedly held the **first** position (including the 2019–20 and 2020–21 editions).
 - In the 2019–20 / 2020-style top-five set often tested, leading states include **Kerala**, **Himachal Pradesh**, **Tamil Nadu**, and **Andhra Pradesh**. **Gujarat** was **not** in that top-five list.
 
@@ -239,14 +239,14 @@ Essential for SDG 4 (Quality Education):
 
 - **Environmental governance** is the system of rules, institutions, and processes through which environmental decisions are made and enforced.
 - It operates at **global** (UNEP, treaties), **national** (MoEFCC, Parliament), **state** (SPCBs), and **local** (panchayats, municipalities) levels.
-- **MoEFCC** is India's nodal ministry for environment, forest, and climate policy.
+- **MoEFCC** (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय) is India's nodal ministry for environment, forest, and climate policy.
 - **Rio principles** include **Precautionary principle**, **Polluter Pays**, **Public Trust doctrine**, and **inter-generational equity** — adopted in Indian judgments like *Vellore Citizens' Welfare Forum*.
 - Constitutional anchors include **Article 48A** (state shall protect environment), **Article 51A(g)** (citizens' duty to protect environment), and **Article 21** (right to healthy environment).
 - **NGT (2010)** is the specialised tribunal for environmental cases and EC appeals.
 - **Agenda 21 (1992)** is a Rio blueprint for sustainable development planning, including local-level action.
 - **Environmental justice** means fair treatment of all in environmental benefits and burdens — both **distributive** (who gets pollution) and **procedural** (who participates in decisions).
-- The **Bhopal Gas Tragedy (1984)** exposed environmental injustice and led to the **EPA 1986**.
-- UP hotspots include **Kanpur-Unnao tanneries** and the **Singrauli–Sonbhadra coal belt**.
+- The **Bhopal Gas Tragedy (1984)** exposed environmental injustice and led to the **EPA 1986** (पर्यावरण संरक्षण 1986).
+- UP hotspots include **Kanpur-Unnao tanneries** and the **Singrauli–Sonbhadra (सोनभद्र) coal belt**.
 - **Environmental ethics** asks what moral duties humans owe to nature.
 - **Anthropocentrism** values nature mainly for human use.
 - **Biocentrism** gives intrinsic worth to all living beings.
@@ -283,7 +283,7 @@ UP department preparing SDG National Indicator Framework Progress Report:
 | Environmental justice | Fair distribution + participation |
 | Anthropocentrism | Human-centred value |
 | Biocentrism | All life has worth |
-| Ecocentrism | Ecosystem wholes have worth |
+| Ecocentrism | Ecosystem (पारिस्थितिकी तंत्र) wholes have worth |
 | Leopold | Land Ethic, 1949 |
 | Gandhi | Trusteeship, limit wants |
 
@@ -298,9 +298,9 @@ UP department preparing SDG National Indicator Framework Progress Report:
 - India examples include **solar expansion**, **National Green Hydrogen Mission (2023)**, **Net Zero 2070**, and **LiFE Mission**.
 - The **circular economy** replaces the linear **take-make-dispose** model with loops of **reduce, reuse, recycle, repair, and recovery**.
 - In a circular system, **waste is treated as a design flaw**, not an afterthought.
-- **Extended Producer Responsibility (EPR)** under Plastic, E-Waste, Battery, and Tyre rules makes producers responsible for end-of-life collection.
+- **Extended Producer Responsibility (EPR)** (विस्तारित उत्पादक दायित्व) under Plastic, E-Waste, Battery, and Tyre rules makes producers responsible for end-of-life collection.
 - **Circular economy** focuses on **material flows and waste elimination**.
-- **Green economy** is **broader** — it also covers renewable energy, biodiversity, jobs, and equity. Circular economy is a **component** of green economy.
+- **Green economy** is **broader** — it also covers renewable energy (नवीकरणीय ऊर्जा), biodiversity, jobs, and equity. Circular economy is a **component** of green economy.
 - Both link strongly to **SDG 12** (Responsible Consumption and Production).
 
 | Feature | Green economy | Circular economy |
@@ -322,7 +322,7 @@ UP department preparing SDG National Indicator Framework Progress Report:
 - An environment-friendly strategy set for Indian agriculture is **mixed cropping**, **organic manures**, **nitrogen-fixing plants**, and **pest-resistant crop varieties**.
 - **Sikkim** became India’s (and often cited as the world’s) first **100% organic state** (process from **2003**; declared around **2016**) — NPOP is under Commerce/APEDA, not Rural Development.
 - Expansion of cultivable land with heavy urea/superphosphate use, monoculture, and intensive aerial pesticide spray is **not** the sustainable strategy option.
-- The **National Mission for Sustainable Agriculture (NMSA)** is a mission under the **National Action Plan on Climate Change (NAPCC)**.
+- The **National Mission for Sustainable Agriculture (NMSA)** is a mission under the **National Action Plan on Climate Change (जलवायु परिवर्तन) (NAPCC)**.
 - NMSA focuses on agricultural productivity, **water-use efficiency**, nutrient management, and **livelihood diversification** through sustainable pathways.
 - **Conservation Agriculture** (FAO framing) rests on **minimum tillage**, **permanent soil cover with crop residues**, and **crop rotation / sequencing**. Avoiding plantation crops is **not** a Conservation Agriculture principle.
 

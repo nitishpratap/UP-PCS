@@ -3,15 +3,15 @@
 ### ★ UKPCS state card (Unit 2)
 
 > **Sources:** UKPCS sanctuary–district and NP-year keys, UNESCO Nanda Devi BR, altitude forest stack.  
-> **High-yield 2025:** Nanda Devi BR (Q20) · sanctuary–district match (Q104) · forest A/R (Q108) · NP years (Q114).  
+> **High-yield 2025:** Nanda Devi (नंदा देवी) BR (Q20) · sanctuary–district match (Q104) · forest A/R (Q108) · NP years (Q114).  
 > **Ghatnachakra vegetation points:** birch · deodar belt · Lisa (pine resin) · khair = sub-tropical · highest-elevation tree.
 
 ---
 
 ## Current Affairs (this topic)
 
-- New sanctuary notifications or UNESCO / BR news can refresh fauna lists; keep district–sanctuary pairs stable.
-- NP foundation years (Corbett 1936, Rajaji 1983, Gangotri 1989, Govind 1990) are high-recycle traps.
+- New sanctuary notifications or UNESCO / BR news can refresh fauna (प्राणीजात) lists; keep district–sanctuary pairs stable.
+- NP foundation years (Corbett 1936, Rajaji (राजाजी) 1983, Gangotri (गंगोत्री) 1989, Govind 1990) are high-recycle traps.
 
 ---
 
@@ -24,12 +24,12 @@
 | Deodar | Abundant western Himalayan temperate belt **1500–2500 m**; highest among deodar / pine / sal / teak |
 | Birch | Himalayan alpine / moist alpine scrub; writing-bark tradition |
 | Lisa | Resin product from **pine**; turpentine after distillation; rural UK livelihood |
-| Khair | **Sub-tropical** forests (Shiwalik / western Himalaya scrub); also yields **katha** |
-| Nanda Devi BR | UNESCO WHS (with Valley of Flowers); fauna includes **snow leopard, musk deer, blue sheep** |
-| Askot sanctuary | **Pithoragarh** |
-| Binsar sanctuary | **Almora** |
-| Govind Pashu Vihar / NP | **Uttarkashi** |
-| Nandhaur sanctuary | **Nainital** |
+| Khair | **Sub-tropical** forests (Shiwalik (शिवालिक) / western Himalaya (हिमालय) scrub); also yields **katha** |
+| Nanda Devi BR | UNESCO WHS (with Valley of Flowers (फूलों की घाटी)); fauna includes **snow leopard, musk deer, blue sheep** |
+| Askot sanctuary | **Pithoragarh** (पिथौरागढ़) |
+| Binsar sanctuary | **Almora** (अल्मोड़ा) |
+| Govind Pashu Vihar / NP | **Uttarkashi** (उत्तरकाशी) |
+| Nandhaur sanctuary | **Nainital** (नैनीताल) |
 | Corbett NP | **1936** (India’s first NP tradition) |
 | Rajaji NP | **1983** |
 | Gangotri NP | **1989** |
@@ -72,7 +72,7 @@
 **Identity:** Altitude stack from foothill sal up to bugyal meadows.
 
 - Steep altitudinal range packs many forest types into a small horizontal distance.
-- Foothill **sal** and mixed deciduous forests occupy the Tarai–Bhabar.
+- Foothill **sal** and mixed deciduous forests occupy the Tarai–Bhabar (भाबर).
 - The same foothill belt continues on the lower Shiwalik face.
 - Sub-tropical pine (**chir**) belts occupy roughly the lower to mid outer slopes.
 - Chir commonly sits about **900–2000 m**.
@@ -88,7 +88,7 @@
 - Birch has white paper-like bark once used for writing scriptures and texts.
 - Above the tree-line, alpine meadows called **bugyals** support seasonal pastures.
 - Bugyals also carry high-altitude herbs.
-- **Southern** Himalayan slopes, including Uttarakhand’s outer face, get more rain and sunlight than the rain-shadow north face.
+- **Southern** Himalayan slopes, including Uttarakhand (उत्तराखंड)’s outer face, get more rain and sunlight than the rain-shadow north face.
 - Vegetation is therefore denser on the southern side.
 - Tree-line is generally **lower** in the Western Himalaya than in the Eastern Himalaya.
 - Topography and climate are the primary explanation of the state’s forest and biodiversity richness.
@@ -120,19 +120,19 @@
 
 **Identity:** Nanda Devi–Valley of Flowers WHS with major national-park years.
 
-- **Nanda Devi** and **Valley of Flowers** form a UNESCO World Heritage set in the Chamoli high Himalaya.
-- The Nanda Devi biosphere holds the **snow leopard**.
+- **Nanda Devi** and **Valley of Flowers** (फूलों की घाटी) form a UNESCO World Heritage (विश्व धरोहर) set in the Chamoli (चमोली) high Himalaya.
+- The Nanda Devi biosphere (नंदा देवी जैवमंडल) holds the **snow leopard**.
 - It also holds **musk deer**.
 - It also holds **blue sheep (bharal)**.
 - **Valley of Flowers** is famed for alpine flower meadows in the monsoon season within the same heritage landscape.
 - **Corbett** National Park was notified in **1936**.
-- Corbett anchors the Tarai–Bhabar tiger landscape across the Nainital–Pauri fringe.
-- **Rajaji** National Park was notified in **1983**.
-- Rajaji covers the Shiwalik–dun elephant corridor near Dehradun, Haridwar, and Pauri.
-- **Gangotri** National Park was notified in **1989**.
-- Gangotri protects the upper Bhagirathi catchment in Uttarkashi.
+- Corbett anchors the Tarai–Bhabar tiger landscape across the Nainital–Pauri (पौड़ी) fringe.
+- **Rajaji** (राजाजी) National Park was notified in **1983**.
+- Rajaji covers the Shiwalik–dun (दून) elephant corridor near Dehradun (देहरादून), Haridwar (हरिद्वार), and Pauri.
+- **Gangotri** (गंगोत्री) National Park was notified in **1989**.
+- Gangotri protects the upper Bhagirathi (भागीरथी) catchment in Uttarkashi.
 - **Govind** National Park / Pashu Vihar was notified in **1990**.
-- Govind protects high Garhwal catchments in Uttarkashi.
+- Govind protects high Garhwal (गढ़वाल) catchments in Uttarkashi.
 - Do not give Govind the 1989 year.
 - Together these parks cover Tarai tiger country.
 - They also cover dun–Shiwalik elephant corridors and high glacial catchments.
@@ -141,7 +141,7 @@
 
 ## 3.4 Sanctuary–district map
 
-**Identity:** Four sanctuary–district pairs for match lists.
+**Identity:** Four (चातुर्याम) sanctuary–district pairs for match lists.
 
 | Sanctuary | District |
 |-----------|----------|
@@ -153,7 +153,7 @@
 *Row order in a match table is not the answer code.*
 
 - **Askot** Wildlife Sanctuary sits in **Pithoragarh**.
-- Askot lies on the eastern Kumaon frontier.
+- Askot lies on the eastern Kumaon (कुमाऊँ) frontier.
 - **Binsar** Wildlife Sanctuary sits in **Almora**.
 - Binsar lies in the oak–rhododendron mid-hill belt.
 - **Govind** is tied to **Uttarkashi** in both sanctuary and national-park naming.
@@ -166,7 +166,7 @@
 
 **UKPCS Prelims 2025, Q20**
 
-Consider the following statements about Nanda Devi Biosphere Reserve:
+Consider the following statements about Nanda Devi Biosphere Reserve (जैवमंडल आरक्षित क्षेत्र):
 
 1. It is a World Heritage Site.
 2. Its inhabitants include snow leopard, musk deer and blue sheep.
@@ -261,7 +261,7 @@ D. Vindhyas
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Birch is Himalayan, not peninsular or Aravalli.
+**Logic:** Birch is Himalayan, not peninsular or Aravalli (अरावली).
 
 **Ans: B.** Birch is a Himalayan alpine / moist alpine scrub tree. White paper-like bark was used for writing scriptures.
 
@@ -273,7 +273,7 @@ Which one of the following trees is abundant in the temperate zone of Western Hi
 
 A. Pine 
 B. Deodar 
-C. Silver fir 
+C. Silver (रूपक) fir 
 D. Blue pine 
 
 <details>
@@ -343,9 +343,9 @@ D. Temperate Forests
 
 Which of the following is not correctly matched?
 
-A. Sundarbans — West Bengal 
+A. Sundarbans (सुंदरबन) — West Bengal 
 B. Bhitarkanika — Odisha 
-C. Pichavaram — Tamil Nadu 
+C. Pichavaram — Tamil Nadu (नाडु) 
 D. Vembanad — Karnataka 
 
 <details>

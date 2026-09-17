@@ -1,10 +1,10 @@
-# Topic 10 — Climate Change
+# Topic 10 — Climate Change (जलवायु परिवर्तन)
 ### ★ UPPCS Revision Sheet — Lucent-style (no repetition · Practice ≥25)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Global Warming | Greenhouse Effect | Greenhouse Gases (GHGs) | Carbon Footprint | Carbon Sink | Carbon Sequestration | Climate Change Impacts | Climate Adaptation | Climate Mitigation
+Global Warming (भूमंडलीय तापन) | Greenhouse Effect | Greenhouse Gases (GHGs) | Carbon Footprint | Carbon Sink (कार्बन सिंक) | Carbon Sequestration (कार्बन पृथक्करण) | Climate Change Impacts | Climate Adaptation (जलवायु अनुकूलन) | Climate Mitigation (जलवायु शमन)
 
 </details>
 
@@ -17,44 +17,44 @@ Global Warming | Greenhouse Effect | Greenhouse Gases (GHGs) | Carbon Footprint 
 ## Current Affairs (this topic)
 
 - Keep India NDC / Net Zero 2070 / LiFE as living climate CA; treaty years stay in the ladder below.
-- Do not put **Montreal** into a climate-mitigation answer slot when Kyoto / Paris are present.
+- Do not put **Montreal** into a climate-mitigation answer slot when Kyoto (क्योटो) / Paris are present.
 
 ---
 
 ## Consolidated — 36 Must-Score Facts
 
 1. **Global warming** is the long-term rise in average surface temperature. It is a subset of broader **climate change**, which also includes rainfall, extremes, and sea-level shifts.
-2. IPCC AR6 facts about **1.1°C** above 1850–1900 globally. India has warmed about **0.7°C** since 1901 (IMD class figure). Past-century surface rise is about **1°C ≈ 1.8°F**.
-3. The natural greenhouse effect keeps Earth near about **+15°C**. Without it, Earth would be near about **−18°C**.
+2. IPCC (आईपीसीसी) AR6 facts about **1.1°C** above 1850–1900 globally. India has warmed about **0.7°C** since 1901 (IMD class figure). Past-century surface rise is about **1°C ≈ 1.8°F**.
+3. The natural greenhouse effect (प्राकृतिक ग्रीनहाउस प्रभाव) keeps Earth near about **+15°C**. Without it, Earth would be near about **−18°C**.
 4. **Joseph Fourier (1820s)** postulated the greenhouse-effect idea. Sun sends **shortwave** (UV + visible + IR); Earth re-emits **longwave IR**. Ozone absorbs harmful UV; GHGs trap outgoing IR.
-5. Enhanced greenhouse effect means excess anthropogenic GHGs trap outgoing infrared radiation. Main cause of recent warming is **CO₂** (highest concentration among long-lived GHGs).
+5. Enhanced greenhouse effect (मानवजनित संवर्धित प्रभाव) means excess anthropogenic GHGs trap outgoing infrared radiation. Main cause of recent warming is **CO₂** (highest concentration among long-lived GHGs).
 6. Kyoto-basket majors: **CO₂** (GWP **1**), **CH₄** (GWP about **28–36**), **N₂O** (GWP about **265**), plus HFCs, PFCs, **SF₆** (and **NF₃** in later inventories).
-7. Rough **WMO-style relative shares** often used in Indian papers: **CO₂ ~64%, CH₄ ~19%, N₂O ~6%, CFCs + others ~11%**. Decreasing order: **CO₂ > CH₄ > CFCs > N₂O**.
+7. Rough **WMO-style relative (सापेक्ष) shares** often used in Indian papers: **CO₂ ~64%, CH₄ ~19%, N₂O ~6%, CFCs + others ~11%**. Decreasing order: **CO₂ > CH₄ > CFCs > N₂O**.
 8. **Water vapour** is Earth’s most abundant natural GHG (NASA: ~half of the natural greenhouse effect) but mainly a **feedback**, not the primary policy driver.
 9. **Not GHGs:** **argon, nitrogen (N₂), oxygen, hydrogen, propane**. **SO₂ / NOx** do **not** contribute to warming **directly** (indirect / other roles).
 10. **Direct** GHGs include CO₂, CH₄, N₂O, CFCs, SF₆, NF₃. **Indirect** agents include **NOx, CO, NMVOCs, SO₂**.
 11. India is about the **third**-largest total emitter (**China** first); **Bhutan** is often cited as **carbon-negative**.
 12. A **carbon footprint** totals GHGs in tCO₂e across Scope **1** (direct), **2** (energy), and **3** (supply chain).
-13. A **carbon sink** absorbs more CO₂ than it releases (forests, oceans, soils, mangroves / **blue carbon**). **Sequestration** is the storage process.
-14. **Carbon fertilization** = more plant growth from higher atmospheric CO₂ (not the same as ocean acidification or warming).
+13. A **carbon sink** absorbs more CO₂ than it releases (forests, oceans, soils, mangroves / **blue carbon** (नीला कार्बन)). **Sequestration** is the storage process.
+14. **Carbon fertilization** = more plant growth from higher atmospheric CO₂ (not the same as ocean acidification (महासागरीय अम्लीकरण) or warming).
 15. Pre-industrial CO₂ ~**278–280 ppm (~0.03%)**; mid-20th century ~**315 ppm**; now **415–420+ ppm**.
 16. **Methane (“marsh gas”)** sources: paddies, cattle, coal mines, landfills, termites; natural wetlands dominate natural CH₄ (~**75–76%** of natural). **Rice** is a key anthropogenic source of **both CH₄ and N₂O**.
-17. **Methane hydrates** under Arctic tundra / seafloor can release CH₄ if warmed; atmospheric CH₄ oxidises to CO₂ in roughly a decade or two.
-18. Impacts include heat waves, glacier melt, sea-level rise, coral bleaching, disease spread, stronger storms. **Arctic / Greenland ice** is among the most fragile first-hit systems.
+17. **Methane hydrates** under Arctic tundra (टुंड्रा) / seafloor can release CH₄ if warmed; atmospheric CH₄ oxidises to CO₂ in roughly a decade or two.
+18. Impacts include heat waves, glacier melt, sea-level rise, coral bleaching (प्रवाल विरंजन), disease spread, stronger storms. **Arctic / Greenland ice** is among the most fragile first-hit systems.
 19. Rough IPCC-style risk: beyond about **+2°C** pre-industrial → widespread coral mortality; beyond about **+3°C** → terrestrial biosphere tends toward a **net carbon source**.
 20. **Adaptation** = coping with impacts. **Mitigation** = cutting emissions and enhancing sinks.
 21. **NAPCC (2008)** has **eight** national missions — **not** nuclear power as a listed mission.
 22. India’s updated **NDC** path includes about **45%** emission-intensity cut and about **50%** non-fossil electricity capacity by **2030** (not “60% energy from renewables” as a false paraphrase).
 23. India’s **Net Zero** pledge is **2070**. Net zero means emissions balanced by removals — **not** literally zero every emission.
 24. **LiFE Mission** launched **June 2022**; idea at **COP26 (2021)**, not COP25.
-25. Climate treaty chain: **UNFCCC 1992 → Kyoto 1997 (force 2005) → Paris 2015**. **Montreal 1987** = ozone, not climate.
-26. **CDM** (Kyoto Art. 12) lets Annex-I parties fund projects in developing countries for **CERs** (1 CER ≈ 1 tCO₂). **Carbon credit** concept originates from Kyoto.
-27. **Green Climate Fund** was set up at **Cancun COP-16 (2010)**, not Durban. **Earth Hour** = **WWF**, last Saturday of March (lights off ~8:30–9:30 pm).
-28. **GHG Protocol** = **WRI + WBCSD** accounting tool. **Blue carbon** = ocean/coastal carbon (mangroves, seagrass, salt marsh).
-29. UP heat vulnerability often cites Lucknow, Agra, Prayagraj, and NCR.
-30. UP drought fact is **Bundelkhand’s seven districts**. Flood facts include Ballia, Ghazipur, and Varanasi belts.
+25. Climate treaty chain: **UNFCCC (यूएनएफसीसीसी) 1992 → Kyoto 1997 (force 2005) → Paris 2015**. **Montreal 1987** = ozone, not climate.
+26. **CDM** (Kyoto Art. 12) lets Annex-I parties fund projects in developing countries for **CERs** (1 CER ≈ 1 tCO₂). **Carbon credit** (कार्बन क्रेडिट) concept originates from Kyoto.
+27. **Green Climate Fund** was set up at **Cancun COP-16 (2010)**, not Durban. **Earth Hour** (अर्थ आवर) = **WWF** (डब्ल्यूडब्ल्यूएफ), last Saturday of March (lights off ~8:30–9:30 pm).
+28. **GHG Protocol** = **WRI + WBCSD** accounting tool. **Blue carbon** = ocean/coastal carbon (mangroves, seagrass, salt (लवणाध्यक्ष) marsh).
+29. UP heat vulnerability often cites (साइट्स) Lucknow (लखनऊ), Agra, Prayagraj (प्रयागराज), and NCR.
+30. UP drought (सूखा) fact is **Bundelkhand’s seven districts**. Flood facts include Ballia, Ghazipur, and Varanasi (वाराणसी) belts.
 31. Emissions hotspot language for UP–MP often points to the **Singrauli** coal belt.
-32. Terai forests at Dudhwa and Pilibhit are UP **carbon-sink** examples.
+32. Terai (तराई) forests at Dudhwa (दुधवा) and Pilibhit are UP **carbon-sink** examples.
 33. **Milankovitch** orbital theory (eccentricity, obliquity, precession) — **solar irradiance** is **not** part of that astronomical set.
 34. **Ice cores** are the classic **cryogenic** climate archive (Greenland / Antarctica).
 35. **Solar flares** are **not** a primary cause of recent climate change in standard NASA/IPCC framing.
@@ -88,7 +88,7 @@ Global Warming | Greenhouse Effect | Greenhouse Gases (GHGs) | Carbon Footprint 
 | Kyoto basket | CO₂, CH₄, N₂O, HFCs, PFCs, SF₆ (+NF₃ later) |
 | Relative shares (WMO-style) | CO₂~64% > CH₄~19% > CFCs+~11% > N₂O~6% |
 | Not GHGs | Ar, N₂, O₂, H₂, propane |
-| India rank / Bhutan | ~3rd absolute / often carbon-negative |
+| India rank / Bhutan | ~3rd absolute (निरपेक्ष) / often carbon-negative |
 | Sink / sequestration | Net CO₂ absorb / storage process |
 | Blue carbon | Ocean–coastal sinks (mangroves etc.) |
 
@@ -101,7 +101,7 @@ Global Warming | Greenhouse Effect | Greenhouse Gases (GHGs) | Carbon Footprint 
 - **Global warming** is the long-term increase in Earth's average near-surface temperature.
 - **Climate change** is broader and includes shifts in rainfall, monsoon timing, cyclones, and extremes.
 - Since the industrial era, atmospheric **CO₂** has risen from about **280 ppm to over 420 ppm**.
-- **IPCC AR6** estimates warming of about **1.1°C** above the **1850–1900** pre-industrial baseline.
+- **IPCC AR6** estimates (प्राकलन समिति) warming of about **1.1°C** above the **1850–1900** pre-industrial baseline.
 - **Human activities** — fossil fuels, deforestation, industry, agriculture — are the **dominant cause** of recent warming.
 - **India** has warmed about **0.7°C** since 1901 according to **IMD** data.
 - **Oceans absorb about 90%** of excess heat, causing thermal expansion and marine stress.
@@ -114,7 +114,7 @@ Global Warming | Greenhouse Effect | Greenhouse Gases (GHGs) | Carbon Footprint 
 
 ## 10.2 Greenhouse Effect
 
-**Identity:** Fourier 1820s | Shortwave in · longwave out | Natural vs enhanced | ≠ ozone depletion
+**Identity:** Fourier 1820s | Shortwave in · longwave out | Natural vs enhanced | ≠ ozone depletion (ओजोन क्षरण)
 
 - The **greenhouse effect** is the process by which atmospheric gases absorb and re-emit **outgoing infrared radiation**, warming the surface and lower atmosphere.
 - **Joseph Fourier (1820s)** postulated the greenhouse-effect concept.
@@ -143,7 +143,7 @@ Global Warming | Greenhouse Effect | Greenhouse Gases (GHGs) | Carbon Footprint 
 - **Nitrous oxide (N₂O)** has **GWP around 265** and links strongly to synthetic fertilisers.
 - The **Kyoto Protocol** covers **CO₂, CH₄, N₂O, HFCs, PFCs, and SF₆** (later inventories also track **NF₃**).
 - **Not greenhouse gases:** **argon, N₂, O₂, hydrogen, propane**. **Nitrogen oxide (NOₓ)** is **not** listed among the classic naturally occurring GHGs in UPPCS-style keys.
-- **SO₂ and oxides of nitrogen** do **not** contribute to global warming **directly** (acid rain / air pollution / indirect chemistry roles).
+- **SO₂ and oxides of nitrogen** do **not** contribute to global warming **directly** (acid rain (अम्ल वर्षा) / air pollution / indirect chemistry roles).
 - **IPCC direct GHGs** include CO₂, CH₄, N₂O, halocarbons, SF₆, NF₃. **Indirect** agents include **NOₓ, CO, NMVOCs, SO₂**.
 - **Carbon fertilization** means increased plant growth from higher atmospheric CO₂ — distinct from warming or ocean acidification.
 - Oceans remove much atmospheric CO₂ via **phytoplankton photosynthesis** (biological pump) — destroying phytoplankton harms the ocean carbon sink and marine food webs, not seawater density.
@@ -167,14 +167,14 @@ Global Warming | Greenhouse Effect | Greenhouse Gases (GHGs) | Carbon Footprint 
 
 - A **carbon footprint** is the total GHG emissions caused by a person, product, organisation, or country.
 - It is measured in **tonnes of CO₂ equivalent (tCO₂e)** using GWP conversion.
-- **Scope 1** covers **direct** emissions from owned sources such as factory boilers.
+- **Scope 1** covers **direct** emissions from owned sources such as factory (फैक्टरी) boilers.
 - **Scope 2** covers **indirect** emissions from purchased electricity or heat.
 - **Scope 3** covers other indirect emissions such as supply chains, travel, and product disposal.
 - **India's per capita footprint** is about **2 tCO₂e**, below the global average of about **4.7**.
 - The **energy/electricity sector** is India's largest emissions source.
 - **LiFE Mission (2022)** promotes lifestyle changes to reduce individual footprints.
 
-> **Logic:** India has low **per capita** footprint but high **total** emissions due to population size.
+> **Logic:** India has low **per capita** footprint but high **total** emissions due to population (जनसंख्या) size.
 
 ---
 
@@ -184,7 +184,7 @@ Global Warming | Greenhouse Effect | Greenhouse Gases (GHGs) | Carbon Footprint 
 
 - A **carbon sink** absorbs more CO₂ than it releases over time.
 - **Forests** store carbon in biomass and soil through photosynthesis.
-- **Oceans** absorb about **25% of anthropogenic CO₂** through dissolution and the biological pump.
+- **Oceans** absorb about **25% of anthropogenic CO₂** through dissolution (विघटन) and the biological pump.
 - **Soils and wetlands** store organic carbon. Degraded land can become a **carbon source**.
 - **Mangroves** are **blue carbon** sinks with very high sequestration rates per hectare.
 - **Deforestation** converts a sink into a **source** by releasing stored carbon and removing uptake capacity.
@@ -196,15 +196,15 @@ Global Warming | Greenhouse Effect | Greenhouse Gases (GHGs) | Carbon Footprint 
 
 ## 10.6 Carbon Sequestration
 
-**Identity:** Long-term carbon storage | Biological + geological | Farm practices | CCS sites
+**Identity:** Long-term carbon storage | Biological + geological | Farm practices | CCS (सुरक्षा कैबिनेट समिति) sites
 
 - **Carbon sequestration** is the process of capturing and storing atmospheric carbon for long periods.
 - **Biological sequestration** uses afforestation, soil carbon build-up, and mangrove restoration.
 - Farm practices that help soil carbon storage include **contour bunding**, **relay cropping**, and **zero tillage**.
-- **Geological sequestration / CCS** can use abandoned coal seams, depleted oil and gas reservoirs, and deep saline formations; other discussed methods include crushed basalt on farmland and ocean alkalinity enhancement.
+- **Geological sequestration / CCS** can use abandoned coal seams, depleted oil and gas reservoirs, and deep saline (लवणीय) formations; other discussed methods include crushed basalt on farmland and ocean alkalinity enhancement.
 - **Afforestation and reforestation** are India's main practical sequestration tools under **Green India Mission**.
 - **Blue carbon** is carbon captured by oceans and coastal ecosystems (mangroves, seagrasses, salt marshes).
-- **CAMPA** and the **Green Credit Programme (2023)** finance ecosystem restoration in India.
+- **CAMPA** and the **Green Credit Programme (2023)** finance ecosystem (पारिस्थितिकी तंत्र) restoration in India.
 - Stored carbon can be **re-released** by fire or deforestation, creating permanence risk.
 
 > **Logic:** Sequestration is the **process**. Sink is the **reservoir**. Blue carbon ≠ forest biomass carbon label.
@@ -216,12 +216,12 @@ Global Warming | Greenhouse Effect | Greenhouse Gases (GHGs) | Carbon Footprint 
 **Identity:** Heat, glaciers, monsoon extremes, agriculture, coral bleaching | Arctic first
 
 - **Heat waves** are increasing in frequency across India, especially in **northwest India and UP**.
-- **Himalayan glaciers** such as Gangotri are retreating, affecting lean-season Ganga flow.
+- **Himalayan glaciers** such as Gangotri (गंगोत्री) are retreating, affecting lean-season Ganga (गंगा) flow.
 - **Monsoon** shows more **extreme rainfall bursts** and longer dry spells rather than uniform change.
 - **Bundelkhand** faces recurring **drought** and water scarcity.
 - **Eastern UP** along the Ganga faces **flood risk** from intense monsoon events.
-- **Wheat** in UP plains is sensitive to **March heat spikes** during the rabi season.
-- **Sea-level rise** threatens coastal India and increases delta salinity pressures.
+- **Wheat** in UP plains is sensitive to **March heat spikes** during the rabi (रबी) season.
+- **Sea-level rise** threatens coastal India and increases delta (डेल्टा) salinity pressures.
 - **Coral bleaching** occurs when sea surface temperature rises about **1–2°C above normal** for sustained periods.
 - Impacts of warming commonly listed together: rise in sea level, melting glaciers, spread of diseases, coral bleaching, stronger cyclones/storms/hurricanes.
 - The **Arctic and Greenland ice sheet** are among the most fragile systems hit first by warming.
@@ -231,11 +231,11 @@ Global Warming | Greenhouse Effect | Greenhouse Gases (GHGs) | Carbon Footprint 
 - **Ice cores** provide the classic **cryogenic** record of past climate and atmospheric composition.
 - Primary causes of recent climate change: fossil-fuel burning, oil-driven automobile growth, deforestation — **not** increasing solar flares as a major driver.
 
-> **Logic:** — Andaman coral bleaching linked to **+2°C Indian Ocean warming**. Do not mark “all wetlands vanish” or “no cereals anywhere” as automatic +3°C outcomes.
+> **Logic:** — Andaman (अंडमान) coral bleaching linked to **+2°C Indian Ocean warming**. Do not mark “all wetlands vanish” or “no cereals anywhere” as automatic +3°C outcomes.
 
 **PYQ — UPPCS Prelims 2024, Q19**
 
-Coral bleaching in Andaman & Nicobar caused by:
+Coral bleaching in Andaman & Nicobar (निकोबार) caused by:
 
 A. Coastal industry
 
@@ -261,8 +261,8 @@ D. −4°C cooling
 - **Mitigation** reduces emissions. **Adaptation** copes with impacts already occurring or already committed in the climate system.
 - **NAPCC (National Action Plan on Climate Change, 2008)** is India's master climate framework with **8 national missions**.
 - Adaptation-focused missions include **National Water Mission**, **Sustainable Agriculture Mission**, and **Himalayan Ecosystem Mission**.
-- **National Water Mission** goals include a public water database and climate-impact assessment, citizen/state conservation action, focus on over-exploited areas, **~20% water-use efficiency gain**, and basin-level IWRM. Urban wastewater recycling fits; nationwide Himalaya–peninsula river linking and free borewell reimbursement do **not**.
-- **Early warning systems** from IMD and CWC for heat, floods, and cyclones are adaptation tools.
+- **National Water Mission** goals include a public water database and climate-impact assessment, citizen/state conservation action, focus on over-exploited areas, **~20% water-use efficiency gain**, and basin-level IWRM. Urban (नगरीय) wastewater recycling fits; nationwide Himalaya (हिमालय)–peninsula river linking and free borewell reimbursement do **not**.
+- **Early warning systems** from IMD and CWC (केंद्रीय जल आयोग) for heat, floods, and cyclones are adaptation tools.
 - **Climate-resilient crops**, micro-irrigation, and **PM Fasal Bima Yojana** support farm adaptation.
 - **Bundelkhand water harvesting** and **Lucknow heat action plans** are UP adaptation examples.
 
@@ -270,7 +270,7 @@ D. −4°C cooling
 |---|---------------|
 | 1 | National Solar Mission |
 | 2 | Enhanced Energy Efficiency |
-| 3 | Sustainable Habitat |
+| 3 | Sustainable Habitat (वास स्थान) |
 | 4 | National Water Mission |
 | 5 | Sustaining Himalayan Ecosystem |
 | 6 | Green India |
@@ -292,25 +292,25 @@ D. −4°C cooling
 
 | Ladder | Instruments | What it controls | Classic trap |
 |--------|-------------|------------------|--------------|
-| **Climate** | UNFCCC (1992) → **Kyoto** (1997) → **Paris** (2015) | GHG mitigation / NDCs | Montreal is **not** climate mitigation |
+| **Climate** | UNFCCC (1992) (जलवायु परिवर्तन संधि) → **Kyoto** (क्योटो) (1997) → **Paris** (2015) | GHG mitigation / NDCs | Montreal is **not** climate mitigation |
 | **Ozone** | Vienna (1985) → **Montreal** (1987) → **Kigali** (HFCs, 2016) | ODS / HFC phase-down | Kyoto is **not** ozone |
 
-- **UNFCCC** is the parent climate convention. **Kyoto** gave binding Annex-I cuts and CDM. **Paris** uses voluntary **NDCs** for all parties.
+- **UNFCCC** (यूएनएफसीसीसी) is the parent climate convention. **Kyoto** gave binding Annex-I cuts and CDM. **Paris** uses voluntary **NDCs** for all parties.
 - **CBDR** (common but differentiated responsibilities) is the climate equity line — do not paste it onto Montreal automatically.
 - **Montreal** protects the ozone layer; **Kigali** amends Montreal for HFCs (also climate-relevant, but still ozone-family architecture).
 
 - **Climate mitigation** means reducing GHG sources or enhancing sinks to limit future warming.
 - **UNFCCC (1992, Rio)** entered into force **21 March 1994**; it frames greenhouse-gas mitigation.
 - **Kyoto Protocol (1997; force 16 February 2005)** was the first binding emission-cut treaty for **developed (Annex I) countries**.
-- Kyoto’s **Clean Development Mechanism (CDM)** lets Annex-I parties fund projects in developing countries and earn **CERs** (1 CER ≈ **1 tCO₂**). Carbon credits are **market-traded**, not fixed by UNEP price.
-- **Paris Agreement (2015)** uses voluntary **NDCs** to limit warming well below **2°C** and pursue **1.5°C**. The “$1000 billion/year” paraphrase is wrong — finance language was about mobilising **$100 billion** class climate finance.
-- **Green Climate Fund (GCF)** was established at **Cancun COP-16 (2010)** under UNFCCC to help developing countries with adaptation and mitigation — **not** founded at Durban and **not** under UNEP/OECD/ADB/World Bank as its founding aegis.
+- Kyoto’s **Clean Development Mechanism (CDM)** lets Annex-I parties fund projects in developing countries and earn **CERs** (1 CER ≈ **1 tCO₂**). Carbon credits are **market-traded**, not fixed by UNEP (संयुक्त राष्ट्र पर्यावरण कार्यक्रम) price.
+- **Paris Agreement (पेरिस समझौता) (2015)** (पेरिस समझौता) uses voluntary **NDCs** to limit warming well below **2°C** and pursue **1.5°C**. The “$1000 billion/year” paraphrase is wrong — finance language was about mobilising **$100 billion** class climate finance.
+- **Green Climate Fund (GCF)** (जीसीएफ) was established at **Cancun COP-16 (2010)** under UNFCCC to help developing countries with adaptation and mitigation — **not** founded at Durban and **not** under UNEP/OECD/ADB/World Bank as its founding aegis.
 - **India's updated NDC (2022)** targets **45% lower emissions intensity of GDP by 2030** (vs 2005).
 - India targets **50% cumulative electric installed capacity from non-fossil sources by 2030** (not a “60% of total energy from renewables” paraphrase).
 - India pledged **Net Zero by 2070** at **COP-26 Glasgow (2021)**. **Net zero** means emissions are **balanced by absorption/removal** — not that every emission falls to absolute zero.
-- **LiFE (Lifestyle for Environment)** was launched in **June 2022**. The idea was proposed at **COP-26**, not COP-25.
+- **LiFE (Lifestyle for Environment (जीवनशैली पर्यावरण))** was launched in **June 2022**. The idea was proposed at **COP-26**, not COP-25.
 - **Earth Hour** is a **WWF** awareness event (usually last Saturday of March, lights off ~1 hour) — not UNEP/UNESCO.
-- **Montreal Protocol (1987)** controls **ozone-depleting substances**, not climate change.
+- **Montreal Protocol (मॉन्ट्रियल प्रोटोकॉल) (1987)** (मॉन्ट्रियल प्रोटोकॉल) controls **ozone-depleting substances**, not climate change.
 - **GHG Protocol** (WRI + WBCSD) is an accounting tool for governments and business — not a UN treaty.
 
 > **Logic:** Climate mitigation treaty stem → **Kyoto**. Montreal = ozone. GCF = Cancun 2010. Net zero ≠ absolute zero emissions.
@@ -321,7 +321,7 @@ Which agreement relates to climate change mitigation?
 
 A. Montreal Protocol
 
-B. Ramsar
+B. Ramsar (रामसर)
 
 C. Kyoto Protocol
 

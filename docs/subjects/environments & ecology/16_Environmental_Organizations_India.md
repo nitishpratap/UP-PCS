@@ -4,7 +4,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-MoEFCC | CPCB | SPCB | NGT | NEERI | WII | BSI | ZSI | FSI
+MoEFCC (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय) | CPCB (केंद्रीय प्रदूषण नियंत्रण बोर्ड) | SPCB | NGT | NEERI | WII | BSI | ZSI | FSI
 
 </details>
 
@@ -23,20 +23,20 @@ MoEFCC | CPCB | SPCB | NGT | NEERI | WII | BSI | ZSI | FSI
 
 ## Consolidated — 26 Must-Score Facts
 
-1. **MoEFCC** is India’s nodal ministry for environment, forests, wildlife, and climate change. It began as MoEF in **1985** and was renamed MoEFCC in **2014**. Headquarters is **New Delhi**.
+1. **MoEFCC** (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय) is India’s nodal ministry for environment (पर्यावरण), forests, wildlife, and climate change (जलवायु परिवर्तन). It began as MoEF in **1985** and was renamed MoEFCC in **2014**. Headquarters is **New Delhi**.
 2. MoEFCC grants **Category A Environmental Clearance**, runs the **PARIVESH** portal, and administers EPA, Wildlife Act, Forest Conservation Act, and Biodiversity Act. It does **not** set NAAQS pollution standards.
-3. **CPCB** was created under the **Water Act, 1974**, sits in **New Delhi**, sets **NAAQS**, and coordinates State Pollution Control Boards. The Air Act **1981** widened its air-pollution role.
+3. **CPCB** (केंद्रीय प्रदूषण नियंत्रण बोर्ड) was created under the **Water Act, 1974**, sits in **New Delhi**, sets **NAAQS**, and coordinates State Pollution Control Boards. The Air Act **1981** widened its air-pollution role.
 4. CPCB does **not** grant Environmental Clearance, does **not** publish ISFR, and does **not** prepare the Annual Groundwater Quality Report — that report belongs to **CGWB**.
 5. Every state has an **SPCB**. SPCBs issue **Consent to Establish** and **Consent to Operate** under the Water and Air Acts. They do **not** grant Category B EC — that is **SEIAA**.
-6. **UPPCB** is Uttar Pradesh’s board with headquarters at **Lucknow**. It enforces norms on Kanpur tanneries, Noida–Ghaziabad industry, and Ganga–Yamuna discharges.
-7. **NGT** was created by the **NGT Act, 2010** (operational **2011**). Headquarters is New Delhi, with regional benches at Bhopal, Pune, Kolkata, and Chennai.
+6. **UPPCB** is Uttar Pradesh (उत्तर प्रदेश)’s board with headquarters at **Lucknow** (लखनऊ). It enforces norms on Kanpur (कानपुर) tanneries, Noida–Ghaziabad industry, and Ganga (गंगा)–Yamuna (यमुना) discharges.
+7. **NGT** was created by the **NGT Act, 2010** (operational **2011**). Headquarters is New Delhi, with regional benches at Bhopal, Pune (पुणे), Kolkata, and Chennai.
 8. NGT hears environmental appeals, including EC appeals, and can award compensation under Polluter Pays. The Act aims for disposal within **six months**. NGT does **not** itself grant EC.
 9. The NGT Chairperson must be a retired **Supreme Court** judge or a High Court Chief Justice.
-10. **WII** (**1982**, Dehradun) does wildlife research and trains forest officers. It helped frame India’s **ten** biogeographic zones and tiger-census methods. It is **not** the plant or animal survey body.
-11. **BSI** (**1890**, Kolkata) surveys **plants** and publishes *Flora of India* and the plant Red Data Book. **ZSI** (**1916**, Kolkata) surveys **animals** and publishes *Fauna of India* and the animal Red Data Book.
-12. **FSI** (**1981**, Dehradun) maps forest cover and publishes the **India State of Forest Report** every **two years**. ISFR is **not** an annual CPCB product.
+10. **WII** (**1982**, Dehradun (देहरादून)) does wildlife research and trains forest officers. It helped frame India’s **ten** biogeographic zones and tiger-census methods. It is **not** the plant or animal survey body.
+11. **BSI** (**1890**, Kolkata) surveys **plants** and publishes *Flora (वनस्पति) of India* and the plant Red Data Book (रेड डेटा बुक). **ZSI** (**1916**, Kolkata) surveys **animals** and publishes *Fauna (प्राणीजात) of India* and the animal Red Data Book.
+12. **FSI** (**1981**, Dehradun) maps forest cover (वन आवरण) and publishes the **India State of Forest Report** every **two years**. ISFR is **not** an annual CPCB product.
 13. **NEERI** (**1958**, **Nagpur**) began as **CPHERI** and is a CSIR laboratory for environmental science and engineering under the Ministry of Science and Technology.
-14. Headquarters fact: **Delhi** — MoEFCC, CPCB, NGT; **Dehradun** — WII, FSI; **Kolkata** — BSI, ZSI; **Nagpur** — NEERI; **Lucknow** — UPPCB.
+14. Headquarters fact: **Delhi** — MoEFCC, CPCB, NGT; **Dehradun** (देहरादून) — WII, FSI; **Kolkata** — BSI, ZSI; **Nagpur** — NEERI; **Lucknow** — UPPCB.
 15. Category A EC → **MoEFCC**. Category B EC → **SEIAA**. Industry consent → **SPCB**. EC appeal → **NGT**.
 16. Pollution standards → **CPCB**. Forest cover report → **FSI**. Plant taxonomy → **BSI**. Animal taxonomy → **ZSI**. Wildlife training → **WII**. Environmental engineering research → **NEERI**.
 17. MoEFCC was **not** created in **1972**. That year marks the Stockholm Conference and the Wildlife (Protection) Act.
@@ -49,8 +49,8 @@ MoEFCC | CPCB | SPCB | NGT | NEERI | WII | BSI | ZSI | FSI
 24. PARIVESH is MoEFCC’s online EC application system — not a CPCB monitoring portal.
 25. Match report to publisher: ISFR → **FSI**; Groundwater Quality Report → **CGWB**; NAAQS bulletins → **CPCB**; *Flora* → **BSI**; *Fauna* → **ZSI**.
 26. NEERI is **Nagpur 1958**, not New Delhi 1970 and not a pollution-standards board.
-27. **CAZRI = Jodhpur**; **IIFM = Bhopal**; operational Antarctica stations = **Maitri + Bharati**.
-28. **INCOIS = Hyderabad**; ENVIS population–environment centre = **IIPS Mumbai**.
+27. **CAZRI = Jodhpur**; **IIFM = Bhopal**; operational Antarctica (भारती) stations = **Maitri + Bharati** (मैत्री).
+28. **INCOIS = Hyderabad (हैदराबाद)**; ENVIS population (जनसंख्या)–environment centre = **IIPS Mumbai**.
 
 ---
 
@@ -91,11 +91,11 @@ MoEFCC | CPCB | SPCB | NGT | NEERI | WII | BSI | ZSI | FSI
 - It was established as **Ministry of Environment & Forests (MoEF) in 1985**.
 - It was renamed **MoEFCC in 2014** when climate change was formally added to the mandate.
 - **Headquarters** is **New Delhi**.
-- MoEFCC administers **EPA 1986**, **Wildlife (Protection) Act 1972**, **Forest (Conservation) Act 1980**, and **Biological Diversity Act 2002**.
+- MoEFCC administers **EPA 1986** (पर्यावरण संरक्षण 1986), **Wildlife (Protection) Act 1972**, **Forest (Conservation) Act 1980**, and **Biological Diversity Act 2002** (जैव विविधता अधिनियम 2002).
 - It grants **Category A Environmental Clearance** through the **Expert Appraisal Committee (EAC)**.
 - The **PARIVESH portal** is MoEFCC's online system for EC applications.
 - MoEFCC approves **forest land diversion** under FCA 1980.
-- It coordinates India's role in **UNFCCC, CBD, and Montreal Protocol**.
+- It coordinates India's role in **UNFCCC (यूएनएफसीसीसी), CBD, and Montreal Protocol (मॉन्ट्रियल प्रोटोकॉल)**.
 - MoEFCC **does not** set **NAAQS** pollution standards — that is **CPCB's** role.
 - MoEFCC **does not** publish **ISFR** — that is **FSI's** role.
 
@@ -111,7 +111,7 @@ MoEFCC | CPCB | SPCB | NGT | NEERI | WII | BSI | ZSI | FSI
 
 ---
 
-## 16.2 Central Pollution Control Board (CPCB) & State Pollution Control Board (SPCB)
+## 16.2 Central Pollution Control Board (CPCB) (केंद्रीय प्रदूषण नियंत्रण बोर्ड) & State Pollution Control Board (SPCB) (राज्य प्रदूषण नियंत्रण बोर्ड)
 
 **Identity:** Water Act 1974 | CPCB Delhi | SPCB consent | NOT EC authority
 
@@ -157,7 +157,7 @@ Annual Groundwater Quality Report 2024 prepared by:
 
 ---
 
-## 16.3 National Green Tribunal (NGT)
+## 16.3 National Green Tribunal (NGT) (राष्ट्रीय हरित अधिकरण)
 
 **Identity:** NGT Act 2010 | Delhi HQ | Appeals | 6-month disposal target
 
@@ -178,7 +178,7 @@ Annual Groundwater Quality Report 2024 prepared by:
 
 ---
 
-## 16.4 Wildlife Institute of India (WII)
+## 16.4 Wildlife Institute of India (WII) (भारतीय वन्यजीव संस्थान)
 
 **Identity:** 1982 Dehradun | Wildlife research + training | NOT taxonomy
 
@@ -187,26 +187,26 @@ Annual Groundwater Quality Report 2024 prepared by:
 - WII trains **Indian Forest Service** and state forest officers.
 - It helped delineate India's **10 biogeographic zones** (Rodgers & Panwar, 1988).
 - WII develops **tiger census methodology** with NTCA and states.
-- WII studies **protected areas**, **human-wildlife conflict**, and habitat management.
+- WII studies **protected areas**, **human-wildlife conflict**, and habitat (वास स्थान) management.
 - WII **does not** maintain national plant/animal species catalogues — **BSI/ZSI** do.
 - WII **does not** publish **ISFR** — **FSI** does.
 
 ---
 
-## 16.5 Botanical Survey of India (BSI)
+## 16.5 Botanical Survey of India (BSI) (भारतीय वनस्पति सर्वेक्षण)
 
 **Identity:** 1890 Kolkata | PLANTS | *Flora of India* | Red Data Book (plants)
 
 - **BSI** was established in **1890** and is headquartered at **Kolkata**.
 - It surveys and documents **Indian plant diversity** — flowering plants, ferns, algae, and fungi.
 - BSI publishes ***Flora of India*** and state floras.
-- It maintains the **Central National Herbarium** at Shibpur, Howrah.
+- It maintains the **Central National Herbarium (पादप संग्रहालय)** at Shibpur, Howrah.
 - BSI publishes the **Red Data Book of Indian Plants**.
 - BSI surveys **plants only** — **not animals**.
 
 ---
 
-## 16.6 Zoological Survey of India (ZSI)
+## 16.6 Zoological Survey of India (ZSI) (भारतीय प्राणी सर्वेक्षण)
 
 **Identity:** 1916 Kolkata | ANIMALS | *Fauna of India* | Red Data Book (animals)
 
@@ -215,7 +215,7 @@ Annual Groundwater Quality Report 2024 prepared by:
 - ZSI publishes the ***Fauna of India*** series.
 - It maintains **National Zoological Collections** for species identification.
 - ZSI publishes the **Red Data Book of Indian Animals**.
-- ZSI supports **CITES** and **WPA Schedule** listing with scientific data.
+- ZSI supports **CITES** (साइट्स) and **WPA Schedule** listing with scientific data.
 - ZSI surveys **animals only** — **not plants**.
 
 | Body | Est. | HQ | Kingdom |
@@ -227,14 +227,14 @@ Annual Groundwater Quality Report 2024 prepared by:
 
 ---
 
-## 16.7 Forest Survey of India (FSI)
+## 16.7 Forest Survey of India (FSI) (भारतीय वन सर्वेक्षण)
 
 **Identity:** 1981 Dehradun | Biennial ISFR | Satellite forest mapping
 
 - **FSI** was established in **1981** at **Dehradun** under **MoEFCC**.
 - FSI assesses **forest cover** using satellite imagery and ground verification.
 - It publishes the **India State of Forest Report (ISFR)** every **two years** — biennial, not annual.
-- ISFR reports **forest cover classes**, **tree cover**, and **carbon stock** estimates.
+- ISFR reports **forest cover classes**, **tree cover** (वृक्ष आवरण), and **carbon stock** estimates (प्राकलन समिति).
 - FSI **does not** monitor industrial air/water pollution — **CPCB/SPCB** do.
 - FSI **does not** survey plant/animal species taxonomy — **BSI/ZSI** do.
 
@@ -276,15 +276,15 @@ ISFR 2023 is published by **FSI**. UP districts with >20% forest cover included 
 
 **Identity:** Antarctica bases | CAZRI Jodhpur | IIFM Bhopal | FRI / IGFRI | ENVIS | INCOIS
 
-- India’s Antarctic stations: **Dakshin Gangotri (1983–84)** first base (now supply/transit); **Maitri (1989)**; **Bharati (March 2013)**. Permanent **operational** pair today = **Maitri + Bharati** (not Dakshin Gangotri as active science base).
+- India’s Antarctic stations: **Dakshin Gangotri (गंगोत्री) (1983–84)** first base (now supply/transit); **Maitri (1989)**; **Bharati (March 2013)**. Permanent **operational** pair today = **Maitri + Bharati** (not Dakshin Gangotri as active science base).
 - **Wildlife Institute of India** — **Dehradun**. **Forest Research Institute** — **Dehradun**. **Indian Institute of Forest Management** — **Bhopal** (not Kolkata).
 - **Central Arid Zone Research Institute (CAZRI)** — **Jodhpur** (ICAR; arid-zone research).
-- **Indian Grassland and Fodder Research Institute** — **Jhansi**. **IARI** — **New Delhi**.
+- **Indian Grassland and Fodder Research Institute** — **Jhansi** (झांसी). **IARI** — **New Delhi**.
 - **National Institute of Nutrition** — **Hyderabad**. **National Institute of Ayurveda** — **Jaipur**. **National Institute of Naturopathy** — **Pune**.
-- **Indian Institute of Ecology and Environment** — **New Delhi** (founded **5 June 1980** teaching).
+- **Indian Institute of Ecology (पारिस्थितिकी) and Environment** — **New Delhi** (founded **5 June 1980** teaching).
 - **ENVIS Centre on Population and Environment** — **IIPS Mumbai**.
 - **Indian National Centre for Ocean Information Services (INCOIS)** — **Hyderabad** (1999; Ministry of Earth Sciences).
-- **G.B. Pant Institute of Himalayan Environment and Development** — **Almora**. **Centre for Ecological Sciences** — **Bengaluru**.
+- **G.B. Pant Institute of Himalayan Environment and Development** — **Almora** (अल्मोड़ा). **Centre for Ecological Sciences** — **Bengaluru**.
 - **Kailash Sacred Landscape Conservation and Development Initiative (KSLCDI)** partners: **India, China, Nepal**.
 
 > **Logic:** IIFM = **Bhopal**. CAZRI = **Jodhpur**. Operational Antarctica = **Maitri + Bharati**.

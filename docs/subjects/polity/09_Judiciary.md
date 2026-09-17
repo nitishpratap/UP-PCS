@@ -44,13 +44,13 @@
 8. **Article 129** makes the Supreme Court a **court of record**. **Article 141** makes its law binding on all courts. **Article 142** allows complete justice and is available to the **Supreme Court only**, not High Courts. A Constitution Bench under **145(3)** needs at least **five** judges.
 9. **Article 131** is the Supreme Court’s **exclusive original** jurisdiction in federal disputes between the Union and States or among States. It does **not** cover Fundamental Rights, private parties, or river-water disputes where Parliament has barred the Court.
 10. Disputes over **President or Vice-President elections** go to the Supreme Court under **Article 71**, not Article 131. River-water disputes fall under **Article 262**; the **Inter-State River Water Disputes Act, 1956** bars Supreme Court jurisdiction under Article 131.
-11. **Article 32** is a Fundamental Right and gives the Supreme Court writ jurisdiction for **Fundamental Rights only**. **Article 226** is **wider** — High Courts can issue writs for Fundamental Rights **and** any other legal right.
+11. **Article 32** (अनुच्छेद 32) is a Fundamental Right and gives the Supreme Court writ jurisdiction for **Fundamental Rights only**. **Article 226** is **wider** — High Courts can issue writs for Fundamental Rights **and** any other legal right.
 12. **Article 136** Special Leave Petition is the Supreme Court’s widest appellate power, but it does **not** apply to judgments of **armed-forces courts**. **Article 137** is review. **Article 143** advisory opinions are **not binding**; under **143(1)** the Court **may** decline, and under **143(2)** it **shall** report on pre-Constitution treaty questions.
 13. The **42nd Amendment** had tried to cut High Court power over Central laws (**32A / 131A / 226A**). The **43rd Amendment** repealed those bars. High Courts **can** strike down Central laws.
 14. Every State has a High Court under **Article 214**. A **common** High Court for two or more States needs only an **ordinary law** under **Article 231**, not a special amendment under Article 368. There are **25** High Courts. High Court judges retire at **62** (raised from 60 by the **15th Amendment**).
 15. A High Court judge takes oath before the **Governor** but resigns to the **President**. Qualification is **10 years** judicial office or **10 years** as High Court advocate — **no** distinguished-jurist route. Salary is charged on the **State** Consolidated Fund; **pension** is charged on the Consolidated Fund of **India**.
 16. Transfer of High Court judges is under **Article 222** and does **not** need the judge’s consent. An **additional** High Court judge under **Article 224** sits for at most **two years** and must leave by age **62**. After retirement a permanent HC judge cannot practise in the **same** High Court (**Article 220**).
-17. The three **Chartered** High Courts of **1862** are **Calcutta, Bombay, and Madras**. **Allahabad** High Court began on **17 March 1866** (first at Agra, then Allahabad from 1869). The **Lucknow Bench** (1948) is a **bench** of Allahabad, not a separate High Court. Allahabad has the largest sanctioned strength.
+17. The three **Chartered** High Courts of **1862** are **Calcutta, Bombay, and Madras**. **Allahabad** (इलाहाबाद) High Court began on **17 March 1866** (first at Agra, then Allahabad from 1869). The **Lucknow Bench** (1948) is a **bench** of Allahabad, not a separate High Court. Allahabad has the largest sanctioned strength.
 18. Judicial independence rests on fixed tenure, charged salaries, bar on discussion of conduct in legislatures (**121 / 211**), no practice after SC retirement (**124(7)**), contempt powers (**129 / 215**), separation under **Article 50**, and control of court staff (**146 / 229**).
 19. PIL is **not** written in the Constitution; it grew through **Articles 32 and 226**. The key fact for the PIL CJI is **P.N. Bhagwati** (with Krishna Iyer). Landmark locus expansion came in *S.P. Gupta* (1981).
 20. Judicial review draws on **Articles 13, 32, 131, 136, 226, and 227**. Basic structure review survives *Kesavananda*, *Minerva Mills*, and *L. Chandra Kumar*. **Review** is Article **137**; a **curative** petition (*Rupa Hurra*, 2002) comes only **after** review fails.
@@ -59,9 +59,9 @@
 23. CAT started on **1 November 1985** at Delhi. *Sampath Kumar* (1987) treated tribunals as substitutes for High Courts. *L. Chandra Kumar* (1997) held that tribunals only **supplement** High Courts; **Articles 226 and 227** remain part of the basic structure.
 24. NALSA rests on the **Legal Services Authorities Act, 1987** (in force **9 November 1995**). A **Lok Adalat** award equals a civil-court **decree** and has **no appeal**. A regular Lok Adalat works only by **compromise**; a **Permanent Lok Adalat** can decide merits in public-utility pre-litigation cases (cap about **₹1 crore**).
 25. **Gram Nyayalayas** (2008 Act; in force **2 October 2009**) are separate courts, not Gram Panchayat courts, and are **not bound** by the Evidence Act. **Fast Track Courts** are ordinary sessions courts on a fast track — they are **not** ADR. An All-India Judicial Service under **Article 312** is enabled but **not yet created** and cannot go below District Judge rank.
-26. Contempt of Court is inherent under **Articles 129 and 215**; the **1971 Act** only regulates it. Criminal contempt by a private person needs **Attorney General** consent under section **15**, but **suo motu** action does not. Truth in public interest became a defence by the **2006** amendment. Limitation is generally **one year**.
+26. Contempt of Court is inherent under **Articles 129 and 215**; the **1971 Act** only regulates it. Criminal contempt by a private person needs **Attorney General** (महान्यायवादी) consent under section **15**, but **suo motu** action does not. Truth in public interest became a defence by the **2006** amendment. Limitation is generally **one year**.
 27. **Fathima Beevi** (1989) was the first woman Supreme Court judge; she later became Governor of **Tamil Nadu**, not Kerala. **Anna Chandy** was the first woman High Court judge. **Leila Seth** was the first woman High Court Chief Justice. **Indu Malhotra** (2018) was the first woman SC judge elevated directly from the **Bar**.
-28. An **ad hoc** Supreme Court judge under **Article 127** is a **sitting** High Court judge. A **retired** judge may sit under **Article 128**. Do not swap these two articles.
+28. An **ad hoc** Supreme Court judge under **Article 127** is a **sitting** (बैठक) High Court judge. A **retired** judge may sit under **Article 128**. Do not swap these two articles.
 29. Election petitions for MPs and MLAs go to the **High Court** under the Representation of the People Act and **Article 329**, not straight to the Supreme Court. President and Vice-President election disputes stay under **Article 71**.
 30. The USA Supreme Court does **not** give advisory opinions. India’s Supreme Court **does**, under **Article 143**, but those opinions are **not binding** on the President.
 
@@ -170,7 +170,7 @@ India’s judiciary is **both** integrated (one hierarchy) **and** independent (
 - **Art. 127** allows the appointment of an **ad hoc judge** to the Supreme Court.
 - An ad hoc judge must be a **sitting High Court judge** who is qualified to be a Supreme Court judge.
 - This appointment needs the CJI's request, the President's **previous consent**, and consultation with that judge's High Court Chief Justice.
-- An ad hoc judge is appointed only when the Supreme Court lacks a **quorum** of judges.
+- An ad hoc judge is appointed only when the Supreme Court lacks a **quorum** (गणपूर्ति) of judges.
 - **Art. 128** allows a **retired judge** to sit and act as a Supreme Court judge.
 - That retired judge must be a former **Supreme Court judge**, or a High Court judge otherwise qualified for the Supreme Court.
 - This requires the consent of both the **President** and the judge concerned.
@@ -370,7 +370,7 @@ Same process for **SC and HC**. Popularly “impeachment”; constitutionally it
 - The Speaker or the Chairman may **admit or refuse** that motion.
 - If admitted, a **3-member inquiry committee** is formed: an **SC judge**, a **High Court Chief Justice**, and a **distinguished jurist**.
 - If this committee **clears** the judge, the motion automatically **drops**.
-- If the committee finds the judge guilty, each House must pass the address by a **special majority** — a majority of the **total membership** plus **two-thirds of members present and voting**.
+- If the committee finds the judge guilty, each House must pass the address by a **special majority** — a majority of the **total membership** (सदन की कुल सदस्य संख्या का) plus **two-thirds of members present and voting**.
 - This special-majority formula is the **same** as Art. 368's first limb, but a judge's removal is **not** a constitutional amendment and needs no State ratification.
 - Both Houses must pass the address in the **same session**.
 - The **President** then issues the actual order of removal.
@@ -401,7 +401,7 @@ Constitutional shields so the executive cannot pack, starve, or discuss the cour
 - The only exception is a **Financial Emergency under Art. 360**.
 
 **Charged expenditure**
-- The salaries of Supreme Court judges, and the Court's administrative expenses under **Art. 146**, are charged on the **Consolidated Fund of India**.
+- The salaries of Supreme Court judges, and the Court's administrative expenses under **Art. 146**, are charged on the **Consolidated Fund of India** (भारत की संचित निधि).
 - The salaries of High Court judges are charged on the **Consolidated Fund of the State**.
 - Under **Art. 221**, the pensions of High Court judges are charged on the **Consolidated Fund of India**.
 
@@ -695,9 +695,9 @@ D. Sajjan Singh, 1965
 - **Bombay:** Maharashtra, **Goa**, Dadra & Nagar Haveli and Daman & Diu.
 - **Calcutta:** West Bengal, **Andaman & Nicobar**.
 - **Madras:** Tamil Nadu, **Puducherry**.
-- **Kerala** (Ernakulam): Kerala, **Lakshadweep**.
+- **Kerala** (Ernakulam): Kerala, **Lakshadweep** (लक्षद्वीप).
 - **Gauhati:** Assam, **Nagaland, Mizoram, Arunachal Pradesh**.
-- **J&K and Ladakh:** J&K + **Ladakh** (reorganised 2019).
+- **J&K and Ladakh:** J&K + **Ladakh** (लद्दाख) (reorganised 2019).
 
 ### Establishment years (match-list)
 
@@ -723,7 +723,7 @@ D. Sajjan Singh, 1965
 
 - The **Indian High Courts Act, 1861** was the enabling statute; the actual **Letters Patent** for this HC were issued on **17 March 1866**.
 - Its birth name was the **High Court of Judicature for the North-Western Provinces**.
-- Its **first seat** was at **Agra** (1866), replacing the old **Sadr Diwani Adalat**.
+- Its **first seat** was at **Agra** (आगरा) (1866), replacing the old **Sadr Diwani Adalat**.
 - The seat **shifted to Allahabad in 1869**.
 - It took the name **"High Court of Judicature at Allahabad"** under a supplementary Letters Patent in **1919**.
 - Its **first Chief Justice** was Sir **Walter Morgan**.
@@ -732,7 +732,7 @@ D. Sajjan Singh, 1965
 - Lucknow became a **permanent bench**, while the **principal seat** stayed at **Allahabad (Prayagraj)**.
 - The Lucknow Bench handles the **Avadh/Oudh** districts, classically **12** in number, while the rest of UP is heard at Allahabad.
 - Its sanctioned strength is **160** judges, making it the **largest High Court in India**.
-- Its jurisdiction covers the whole of **Uttar Pradesh** only — Uttarakhand has had its own **Nainital High Court** since 2000.
+- Its jurisdiction covers the whole of **Uttar Pradesh** (उत्तर प्रदेश) only — Uttarakhand has had its own **Nainital High Court** since 2000.
 
 > **Logic:** Lucknow is a **bench**, not a second High Court and not a “common HC”. Allahabad is **not** a Chartered HC of 1862.
 
@@ -819,7 +819,7 @@ Power of courts to test **constitutionality** of legislative and executive actio
 
 **Three slices:** review of **legislation** · of **administrative action** · of **judicial decisions** (appeal / revision / 136).
 
-**JR ≠ appeal.** Appeal rehear **merits** (error of fact/law). JR asks only: did the authority have **jurisdiction**, follow **procedure**, and stay inside the **Constitution**? Administrative-law grounds (shorthand): **illegality · irrationality (Wednesbury) · procedural impropriety**.
+**JR ≠ appeal.** Appeal rehear **merits** (error of fact/law). JR asks only: did the authority have **jurisdiction**, follow **procedure** (प्रक्रिया), and stay inside the **Constitution**? Administrative-law grounds (shorthand): **illegality · irrationality (Wednesbury) · procedural impropriety**.
 
 | India | USA | UK |
 |-------|-----|-----|

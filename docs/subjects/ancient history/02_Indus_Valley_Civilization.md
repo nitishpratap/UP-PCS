@@ -21,7 +21,7 @@ Indus Valley Civilization | Features of Harappan Civilization | Major Harappan S
 - **2021:** Dholavira → UNESCO World Heritage Site.
 - **2018:** Sanauli chariot burials (ASI).
 - **2026:** Rakhigarhi skeletons to AnSI (Kolkata) and BSIP Lucknow for DNA / facial reconstruction; ASI 3-year excavation.
-- **Budget 2026:** 15 archaeological sites as experiential destinations, including **Lothal** and **Rakhigarhi**.
+- **Budget 2026:** 15 archaeological sites as experiential destinations, including **Lothal** and **Rakhigarhi** (राखीगढ़ी).
 
 ---
 
@@ -31,15 +31,15 @@ Indus Valley Civilization | Features of Harappan Civilization | Major Harappan S
 1. The Indus Valley Civilization is a **Bronze Age urban** culture. The Mature phase is about **2600–1900 BCE**. Early is roughly **3300–2600 BCE** and Late about **1900–1300 BCE**.
 2. It is also called **Harappan** after the first excavated site. The economy type in match-lists is **Urban**, not pastoral. Pastoral belongs to the Rigvedic age.
 3. **Charles Masson** noticed Harappa ruins in **1826**. **Daya Ram Sahni** excavated Harappa in **1921**. **R.D. Banerji** excavated Mohenjo-daro in **1922**. **John Marshall** announced the civilization in **1924**.
-4. Geographic extremes are **Sutkagen-dor** (west), **Alamgirpur** in Meerut, UP (east), **Manda** on the Chenab in Jammu (north), and **Daimabad** in Maharashtra (south).
-5. Uttar Pradesh Harappan sites are **Alamgirpur** (Meerut), **Hulas** (Saharanpur), and **Mandi** (Muzaffarnagar). **Rakhigarhi** is in Hisar, **Haryana**, not Uttar Pradesh.
+4. Geographic extremes are **Sutkagen-dor** (west), **Alamgirpur** (आलमगीरपुर) in Meerut, UP (east), **Manda** (मांडा) on the Chenab in Jammu (north), and **Daimabad** in Maharashtra (south).
+5. Uttar Pradesh Harappan sites are **Alamgirpur** (Meerut), **Hulas** (हुलास) (Saharanpur), and **Mandi** (मंडी) (Muzaffarnagar). **Rakhigarhi** is in Hisar, **Haryana**, not Uttar Pradesh.
 - **Sinauli (Baghpat district, UP):** Major Bronze Age / Late Harappan & Copper Hoard necropolis excavated by ASI (D.V. Sharma & S.K. Manjul). Yielded **three full-size solid wooden-wheel chariots**, copper-antenna swords, shields, copper-sheathed coffins, and royal burials (~2000–1800 BCE). One of the most significant archaeological finds in Uttar Pradesh, establishing indigenous warrior traditions in the Ganga-Yamuna Doab.
 6. **Alamgirpur** marks the **eastern boundary** of Harappan culture. Do not give that role to Rakhigarhi or Manda.
-7. **Sanauli** in Baghpat, Uttar Pradesh, yielded Late Harappan / OCP **chariot burials** (ASI, 2018). It is not a Mature grid-city with a Great Bath.
-8. The **Great Bath** is at **Mohenjo-daro**. The famous **dockyard** is at **Lothal** (Gujarat), excavated by **S.R. Rao**. Boat evidence is linked with Mohenjo-daro and Lothal.
-9. **Dholavira** in Gujarat is known for water reservoirs, a **three-part** town plan (citadel, middle town, lower town), and a large **signboard**. UNESCO listed it in **2021**.
-10. **Kalibangan** in Rajasthan shows a **ploughed field** and **fire altars**. Its drainage is weaker than Mohenjo-daro’s.
-11. **Chanhudaro** is a craft town famous for **bead-making** and has **no citadel**.
+7. **Sanauli** (सनौली) in Baghpat, Uttar Pradesh, yielded Late Harappan / OCP **chariot burials** (ASI, 2018). It is not a Mature grid-city with a Great Bath.
+8. The **Great Bath** is at **Mohenjo-daro** (मोहनजोदड़ो). The famous **dockyard** (गोदीबाड़ा) is at **Lothal** (Gujarat), excavated by **S.R. Rao**. Boat evidence is linked with Mohenjo-daro and Lothal.
+9. **Dholavira** (धोलावीरा) in Gujarat is known for water reservoirs, a **three-part** town plan (citadel, middle town, lower town), and a large **signboard**. UNESCO listed it in **2021**.
+10. **Kalibangan** (कालीबंगा) in Rajasthan shows a **ploughed field** and **fire altars**. Its drainage is weaker than Mohenjo-daro’s.
+11. **Chanhudaro** (चन्हूदड़ो) is a craft town famous for **bead-making** and has **no citadel**.
 12. Harappan bricks commonly follow the ratio **1: 2: 4**. Cities show a **citadel** (usually west) and a larger **lower town** (east).
 13. The civilization used **bronze** (copper plus tin). There was **no iron** and **no coined money**. The script on seals is still **unread**.
 14. The most common seal animal is the **unicorn**. Weights often follow a binary and decimal pattern with a key unit of **16**.
@@ -151,7 +151,7 @@ Indus Valley Civilization | Features of Harappan Civilization | Major Harappan S
 **Bronze Age urban culture | Mature ~2600–1900 BCE | also called Harappan | proto-historic**
 
 - First urban civilization of the subcontinent; contemporary with Mesopotamia and Egypt.
-- Named **Harappan** after **Harappa** (first excavated site). Geography is wider than the Indus: Ghaggar–Hakra (Saraswati belt), Gujarat, Haryana, eastern UP, northern Afghanistan.
+- Named **Harappan** after **Harappa** (हड़प्पा) (first excavated site). Geography is wider than the Indus: Ghaggar–Hakra (Saraswati belt), Gujarat, Haryana, eastern UP, northern Afghanistan.
 - Archaeologists use **culture** for a set of distinctive objects found together in place and time. For Harappa these include **seals, beads, weights, stone blades, and baked bricks**. The **seal** is the most distinctive artefact.
 - IVC is **proto-historic**: people wrote, but the script is still **undeciphered**. It is **not** prehistoric (no writing) and **not** fully historic (readable texts).
 - Some books say **Sindhu–Saraswati** civilization — same culture, different label.
@@ -244,7 +244,7 @@ D. 4 3 1 2
 
 **Site ↔ river/state ↔ one signature find | Pakistan first, then India**
 
-- **Harappa** stands on the left bank of the **Ravi** in Pakistani Punjab (Montgomery / Sahiwal district).
+- **Harappa** stands on the left bank of the **Ravi** (रावी) in Pakistani Punjab (Montgomery / Sahiwal district).
 - **Daya Ram Sahni** excavated it in **1921**.
 - **Stuart Piggott** paired it with Mohenjo-daro as **“twin capitals.”**
 - It has two main mounds: a western **citadel** mound and an eastern **city** mound.
@@ -253,7 +253,7 @@ D. 4 3 1 2
 - The first famous artefact type is a **unicorn** seal with inscription.
 - Finds include a red-sandstone **male torso** and a bronze mirror.
 
-- **Mohenjo-daro** means “mound of the dead” and lies on the right bank of the **Indus** in **Larkana, Sindh**.
+- **Mohenjo-daro** means “mound of the dead” and lies on the right bank of the **Indus** (सिंधु) in **Larkana, Sindh**.
 - **R.D. Banerji** excavated it in **1922**.
 - The **Great Bath** is here. No other Harappan city has this exact public tank.
 - A large building north-east of the bath (about **70 × 24 m**) is often read as a priest’s residence or college of priests.
@@ -308,7 +308,7 @@ D. 4 3 1 2
 - **Padri** in Gujarat was the 2020 match for **Gujarat**.
 - **Bhagatrav** in Gujarat is a coastal Harappan site.
 
-- **Kalibangan** in Hanumangarh, Rajasthan, stands on the **Ghaggar**.
+- **Kalibangan** in Hanumangarh, Rajasthan, stands on the **Ghaggar** (घग्गर).
 - **B.B. Lal** and **B.K. Thapar** excavated it (from about **1960–61**). Luigi Pio Tessitori and later **A. Ghosh** also figure in early notice / survey.
 - It is known for a **ploughed field** and **fire altars**.
 - A triangular terracotta cake with a **horned deity** is a Kalibangan booklet fact.
@@ -396,7 +396,7 @@ D. 3 2 4 1
 - **Sanauli** in Baghpat, Uttar Pradesh, was announced by ASI in **2018**.
 - It yielded wooden coffins, copper antennae swords, and **chariot burials**.
 - Sanauli is Late Harappan / OCP. It is **not** a Mature grid-city with a Great Bath.
-- **Sohgaura** (Gorakhpur, UP) is a **Mauryan** copper-plate site on the Rapti — **not** a Harappan site (IAS 2019 trap with Chanhudaro / Kot Diji / Desalpur).
+- **Sohgaura** (सोहगौरा) (Gorakhpur, UP) is a **Mauryan** copper-plate site on the Rapti — **not** a Harappan site (IAS 2019 trap with Chanhudaro / Kot Diji / Desalpur).
 
 > **Logic:** Sahni is Harappa. Banerji is Mohenjo-daro. Wheeler is later method, not the discoverer. Cunningham saw Harappa early but missed its meaning.
 
@@ -410,7 +410,7 @@ D. 3 2 4 1
 
 - **Alamgirpur** on the Hindon in Meerut marks the **eastern boundary** of the civilisation.
 - **Hulas** in **Saharanpur** is an eastern Harappan habitation site in Uttar Pradesh.
-- **Mandi** in **Muzaffarnagar** is in **Uttar Pradesh**. **Manda** is in Jammu.
+- **Mandi** in **Muzaffarnagar** is in **Uttar Pradesh** (उत्तर प्रदेश). **Manda** is in Jammu.
 - **Sanauli** in Baghpat (2018) has coffins, copper weapons, and **chariots**.
 - Sanauli is Late Harappan / OCP. It is not a Mature urban Indus city.
 
@@ -513,11 +513,11 @@ D. III, IV
 **Later ports (same syllabus bullet; not Mature Harappan cities)**
 
 - **Bharuch (Barygaza)** in Gujarat appears in the Periplus as a Roman-trade port.
-- **Sopara** is a Konkan port.
+- **Sopara** (शूर्पारक) is a Konkan port.
 - **Muziris** in Kerala was the Roman pepper port.
 - **Kaveripattinam (Puhar)** is the Sangam Chola coast.
 - **Arikamedu** near Puducherry yielded Roman amphorae.
-- **Tamralipti** in Bengal served the east coast and Southeast Asia.
+- **Tamralipti** (ताम्रलिप्ति) in Bengal served the east coast and Southeast Asia.
 
 > **Logic:** The dockyard is **Lothal**. Boat models are **Mohenjo-daro and Lothal**. Dholavira is not the port in that question.
 
@@ -541,7 +541,7 @@ A. Dholavira and Bhagatrav B. Harappa and Kot Diji C. Mohenjo-daro and Lothal D.
 - Surplus grain in **granaries** (Harappa, Mohenjo-daro) fed specialists — bead-makers, seal-cutters, bronze-smiths, brick-makers.
 - Exchange by **barter and weights**. **No coins.** Seals marked bundles, not a currency.
 - Craft towns: Chanhudaro (beads), Nageshwar (shell), Lothal (beads + port).
-- Do **not** import Mauryan **shreni** (guild) into IVC — that is a later institution.
+- Do **not** import Mauryan **shreni** (श्रेणी) (guild) into IVC — that is a later institution.
 
 > **Logic:** 2020 match: IVC = **Urban**. “Harappan coin economy” is false.
 
@@ -551,7 +551,7 @@ A. Dholavira and Bhagatrav B. Harappa and Kot Diji C. Mohenjo-daro and Lothal D.
 
 - Mesopotamian texts call the region **Meluhha**. **Dilmun** = Bahrain entrepot. **Magan** = Oman (copper).
 - **Exports:** carnelian beads, cotton cloth, ivory, timber, shell, peacock (in texts).
-- **Imports / raw:** **lapis** (Badakhshan via **Shortughai**), copper (**Khetri** / Baluchistan / Oman), tin (Iran / Afghanistan), **silver** (Zawar and Ajmer in Rajasthan; also Afghanistan and Iran), lead (Afghanistan / Iran / Rajasthan), gold (South India / Karnataka hinterland is often cited), shilajit (Himalaya), garnet (Gujarat).
+- **Imports / raw:** **lapis** (Badakhshan via **Shortughai**), copper (**Khetri** / Baluchistan / Oman), tin (Iran / Afghanistan), **silver** (रूपक) (Zawar and Ajmer in Rajasthan; also Afghanistan and Iran), lead (Afghanistan / Iran / Rajasthan), gold (South India / Karnataka hinterland is often cited), shilajit (Himalaya), garnet (Gujarat).
 - Steatite from Kirthar/Baluchistan; shell from Nageshwar and the Makran.
 - Seals of Harappan type turn up in the Gulf and Sumer — proof of contact, not of political empire.
 - Inland: ox-carts (terracotta models), river boats on Indus–Ghaggar.
@@ -862,14 +862,14 @@ A. Dholavira and Bhagatrav B. Harappa and Kot Diji C. Mohenjo-daro and Lothal D.
 **Late rural doab culture | ochre wash on pottery | bridge between Late Harappan east and PGW**
 
 - **Ochre Coloured Pottery** gets its name from a red ochre wash that rubs off on the fingers.
-- The main belt is **western UP, Haryana, and Rajasthan**: **Hastinapur**, **Bahadarabad**, **Lal Qila**, **Bargaon**, and **Atranjikhera**.
+- The main belt is **western UP, Haryana, and Rajasthan**: **Hastinapur** (हस्तिनापुर), **Bahadarabad**, **Lal Qila**, **Bargaon**, and **Atranjikhera**.
 - **B.B. Lal** excavated OCP at **Hastinapur**. That dig is famous in the Mahabharata archaeology debate, but OCP alone does **not** prove the epic war.
 - The date-band is roughly the **late 3rd to 2nd millennium BCE**. It overlaps the **eastern fringe** of Late Harappan decline and comes **before PGW** in stratigraphy.
 - Settlements are **rural**, not planned Harappan cities. **Copper Hoards** often appear nearby.
 - OCP is **not** Lothal red ware. It is **not** megalithic black-and-red ware of the south.
 - Sequence memory for the doab: **Late Harappan / OCP → PGW → NBPW**.
 
-> **Logic:** OCP = **doab**, not Lothal red ware. Hastinapur OCP ≠ automatic “Mahabharata proved.”
+> **Logic:** OCP = **doab** (दोआब), not Lothal red ware. Hastinapur OCP ≠ automatic “Mahabharata proved.”
 
 ---
 

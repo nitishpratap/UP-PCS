@@ -19,14 +19,14 @@ Political Condition of Sixth Century BCE | Sixteen Mahajanapadas | Mahajanapadas
 
 1. The sixth–fourth centuries BCE bring **iron**, **NBPW**, punch-marked silver (**Aahat**), and the **second urbanisation**. This is still **before** the Mauryan empire.
 2. Sources for the sixteen mahajanapadas include the Buddhist **Anguttara Nikaya** and the Jain **Bhagavati Sutra** (different name-set). **Panini’s Ashtadhyayi** names about **22** janapadas and stresses **Magadha, Asmaka, and Kamboja**.
-3. The four great monarchies were **Magadha, Kosala, Vatsa, and Avanti**. Republics (**gana-sangha**) include **Vajji** and **Malla**. Papers often call the **Licchavis of Vaishali** the world’s first republic.
-4. **Vajji** was a confederacy with capital **Vaishali** (called *Magadhham Puram* in the Suttanipata). **Malla** held **Kushinagar** and **Pava**. **Asmaka** was the only mahajanapada **south of the Vindhyas**.
+3. The four great monarchies were **Magadha, Kosala, Vatsa, and Avanti**. Republics (**gana-sangha** (गण-संघ)) include **Vajji** and **Malla**. Papers often call the **Licchavis of Vaishali** the world’s first republic.
+4. **Vajji** was a confederacy with capital **Vaishali** (वैशाली) (called *Magadhham Puram* in the Suttanipata). **Malla** held **Kushinagar** (कुशीनगर) and **Pava**. **Asmaka** was the only mahajanapada **south of the Vindhyas**.
 5. Classic capital matches: **Matsya–Viratnagar**, **Kuru–Indraprastha**, **Surasena–Mathura**, **Asmaka–Potana**, **Chedi–Suktimati / Sotthivati**, **Anga–Champa**.
-6. Early strongest was often **Kashi**. **Anga** was Magadha’s first major bite. **Avanti** survived until the **Shishunaga** conquest.
-7. Eight mahajanapadas touch **Uttar Pradesh**: Kashi, Kosala, Vatsa, Kuru, Panchala, Malla, Surasena, and Chedi.
+6. Early strongest was often **Kashi** (काशी). **Anga** was Magadha’s first major bite. **Avanti** survived until the **Shishunaga** conquest.
+7. Eight mahajanapadas touch **Uttar Pradesh** (उत्तर प्रदेश): Kashi, Kosala, Vatsa, Kuru, Panchala, Malla, Surasena, and Chedi.
 8. Not UP: **Magadha / Anga / Vajji** are Bihar-centred, **Avanti** is Madhya Pradesh, and **Matsya** is Rajasthan.
-9. UP capital facts: Kashi–**Varanasi**, Kosala–**Ayodhya / Shravasti** (crescent plan at Saheth–Maheth), Vatsa–**Kaushambi**, Kuru–**Hastinapur / Indraprastha**, Panchala–**Ahichchhatra / Kampilya**, Malla–**Kushinagar**, Surasena–**Mathura**, Chedi–Bundelkhand edge.
-10. **Rajagriha / Girivraja** was early Magadha’s hill capital. **Ajatashatru** fortifies / founds the **Pataligrama** seed; **Udayin** first makes **Pataliputra** the capital (Ganga north, Son west).
+9. UP capital facts: Kashi–**Varanasi** (वाराणसी), Kosala–**Ayodhya / Shravasti** (crescent plan at Saheth–Maheth), Vatsa–**Kaushambi** (कौशांबी), Kuru–**Hastinapur / Indraprastha**, Panchala–**Ahichchhatra / Kampilya**, Malla–**Kushinagar**, Surasena–**Mathura** (मथुरा), Chedi–Bundelkhand edge.
+10. **Rajagriha / Girivraja** was early Magadha’s hill capital. **Ajatashatru** (अजातशत्रु) fortifies / founds the **Pataligrama** seed; **Udayin** first makes **Pataliputra** (पाटलिपुत्र) the capital (Ganga north, Son west).
 11. Haryanka order: **Bimbisara** (alliances and **Anga**) → **Ajatashatru** (war on **Vajji**, *rathamusala* (रथमुसल)) → **Udayin** (Pataliputra as capital).
 12. **Shishunaga** rule took **Avanti**. **Kalashoka** is linked with the **Second Buddhist Council**. The last Shishunaga is often named **Nandivardhana**.
 13. **Mahapadma Nanda** is remembered as *ekarat* (एकराट्) / *sarvakshatrantaka* (सर्वक्षत्रान्तक) / *ugrasena* (उग्रसेन) / *aparoparashurama* (अपरोपरशुराम). **Dhana Nanda** was the last Nanda, called **Agrammes** by the Greeks; commander **Bhaddasala**.
@@ -37,16 +37,16 @@ Political Condition of Sixth Century BCE | Sixteen Mahajanapadas | Mahajanapadas
 18. Magadha rose through river trade, iron, elephants, and aggressive conquest from Anga toward Vajji and finally Avanti.
 19. **Champa** (epic **Malini**) was the river-port capital of **Anga**. **Varanasi** was the capital of **Kashi**. Do not swap them.
 20. **Potana** is the Asmaka capital in standard match lists. Later **Pratishthana / Paithan** belongs to Satavahana geography, not the 2020 Asmaka key.
-21. **Kushinagar** and **Pava** are **Malla** towns. Jain **Pavapuri** (Mahavira’s nirvana) is a Magadha-site fact, not the same as Malla Pava in every stem.
+21. **Kushinagar** and **Pava** are **Malla** towns. Jain **Pavapuri** (पावापुरी) (Mahavira’s nirvana) is a Magadha-site fact, not the same as Malla Pava in every stem.
 22. Magadha’s expansion wars should be read as Cause → Course → Result: Anga first, then Kosala/Vajji pressure, then Avanti under Shishunaga, then Nanda imperial climax before Mauryas.
-23. Punch-marked **silver** coins and NBPW mark the money-and-city package of second urbanisation.
+23. Punch-marked **silver** (रूपक) coins and NBPW mark the money-and-city package of second urbanisation.
 24. **Ajatashatru** is the parricide king who broke the Licchavi confederacy. **Bimbisara** is the alliance-builder who took Anga. **Jivaka** was Bimbisara’s physician, sent also to treat **Chanda Pradyota** of Avanti.
 25. The sixteen names are fixed furniture; capitals and UP/non-UP sorting decide most prelims marks.
 26. Second urbanisation centres sit on river corridors of the middle Ganga, not on Harappan Indus grids. Six Buddha-age metros in the *Mahaparinirvana-sutra*: **Champa, Rajagriha, Varanasi, Saketa, Kaushambi, Shravasti**.
-27. After the Nandas comes the Mauryan takeover under **Chandragupta** — that story belongs to the next topic, not this one.
+27. After the Nandas comes the Mauryan takeover under **Chandragupta** (चंद्रगुप्त) — that story belongs to the next topic, not this one.
 28. Keep pottery chronology: **PGW** (Later Vedic) then **NBPW** (mahajanapada / early historic). Mixing them is a frequent trap.
-29. **Udayana–Vasavadatta** (Bhasa’s *Svapnavasavadattam*) is tied to **Ujjain**, not to Kaushambi alone as the love-story setting.
-30. **Kalpi** (ancient **Kalpriya**) sits on the **Yamuna** in Jalaun (UP). Dynasty dates for Magadha houses: Haryanka → Shishunaga → Nanda → Maurya → Shunga.
+29. **Udayana–Vasavadatta** (Bhasa’s *Svapnavasavadattam* (स्वप्नवासवदत्तम्)) is tied to **Ujjain** (उज्जैन), not to Kaushambi alone as the love-story setting.
+30. **Kalpi** (ancient **Kalpriya**) sits on the **Yamuna** (यमुना) in Jalaun (UP). Dynasty dates for Magadha houses: Haryanka → Shishunaga → Nanda → Maurya → Shunga.
 
 ---
 
@@ -133,8 +133,8 @@ Not UP: Magadha / Anga / Vajji (Bihar), Avanti (MP), Matsya (RJ).
 
 | Book / text | Writer / authority | What it is for |
 |-------------|--------------------|----------------|
-| *Ashtadhyayi* | **Panini** (Pushkalavati / Gandhara) | Grammar; names about **22** janapadas |
-| *Svapnavasavadattam* | **Bhasa** | Udayana–Vasavadatta story set at **Ujjain** |
+| *Ashtadhyayi* (अष्टाध्यायी) | **Panini** (पाणिनि) (Pushkalavati / Gandhara) | Grammar; names about **22** janapadas |
+| *Svapnavasavadattam* | **Bhasa** (भास) | Udayana–Vasavadatta story set at **Ujjain** |
 | *Anguttara Nikaya* | Buddhist canon (no single author) | Standard list of **sixteen** mahajanapadas |
 | *Bhagavati Sutra* (*Vyakhya Prajnapti*) | Jain canon (no single author) | Parallel sixteen-name list (names differ) |
 
@@ -157,7 +157,7 @@ Not UP: Magadha / Anga / Vajji (Bihar), Avanti (MP), Matsya (RJ).
 - **Punch-marked** silver (*karshapana*, bent bars), also called **Aahat** coins, appears. There is no gold dinara yet. These are the earliest extant Indian coins and run from about the seventh–sixth centuries BCE into the Mauryan age.
 - Two constitutions exist: **monarchy** and **gana-sangha**. A gana-sangha is an assembly of kshatriya clans, not adult-male democracy.
 - The Shakyas of Kapilavastu sit under Kosala. They are **not** one of the 16 names.
-- Revenue language separates four dues. **Bhaga** is a produce share (often one-sixth). **Bali** is tribute. **Shulka** is a toll. **Visti** is labour.
+- Revenue language separates four dues. **Bhaga** (भाग) is a produce share (often one-sixth). **Bali** (बलि) is tribute. **Shulka** is a toll. **Visti** is labour.
 - Officers in this horizon include *mahamatta*, *senanayaka*, and *bhandagarika*.
 - The standard list of 16 is the Buddhist **Anguttara Nikaya**. The Jain list is the **Bhagavati / Vyakhya Prajnapti** (names differ: Anga, Banga, Malay, and others). Puranas give the Magadha dynasties. Greek writers appear only at the **Nanda** end.
 - **Panini** of **Pushkalavati** (Gandhara) in the *Ashtadhyayi* names about **22** janapadas. The three he stresses as important are **Magadha, Asmaka, and Kamboja**.
@@ -189,7 +189,7 @@ Not UP: Magadha / Anga / Vajji (Bihar), Avanti (MP), Matsya (RJ).
 | 1 | **Kashi** | Varanasi | Ganga |
 | 2 | **Kosala** | Shravasti / Ayodhya | Sarayu |
 | 3 | **Anga** | Champa | Ganga (port) |
-| 4 | **Magadha** | Rajagriha → Pataliputra | Ganga + Son |
+| 4 | **Magadha** (मगध) | Rajagriha → Pataliputra | Ganga + Son |
 | 5 | **Vajji** (Vrijji) | Vaishali | Gandak belt |
 | 6 | **Malla** | Kushinagar / Pava | Rapti–Gandak edge |
 | 7 | **Chedi** | Shuktimati | Ken / Bundelkhand |
@@ -198,9 +198,9 @@ Not UP: Magadha / Anga / Vajji (Bihar), Avanti (MP), Matsya (RJ).
 | 10 | **Panchala** | Ahichchhatra / Kampilya | Ganga (Rohilkhand) |
 | 11 | **Matsya** | Viratnagar (Bairat) | Rajasthan |
 | 12 | **Surasena** | Mathura | Yamuna |
-| 13 | **Asmaka** (Assaka) | **Potana** / Potali | **Godavari** |
-| 14 | **Avanti** | Ujjain / Mahishmati | Shipra / **Narmada** |
-| 15 | **Gandhara** | Taxila (also Pushkalavati) | Indus |
+| 13 | **Asmaka** (Assaka) | **Potana** / Potali | **Godavari** (गोदावरी) |
+| 14 | **Avanti** | Ujjain / Mahishmati | Shipra / **Narmada** (नर्मदा) |
+| 15 | **Gandhara** (गांधार) | Taxila (also Pushkalavati) | Indus |
 | 16 | **Kamboja** | Rajapura | Hindu Kush |
 
 **Kashi**
@@ -233,7 +233,7 @@ Not UP: Magadha / Anga / Vajji (Bihar), Avanti (MP), Matsya (RJ).
 
 **Chedi**
 - The capital is **Sotthivati / Suktimati (Shuktimati)** in Bundelkhand and its fringe.
-- Epic memory names Sisupala. Later **Kharavela** of Kalinga belongs to a Chedi line; his **Hathigumpha** inscription is the Nanda–Kalinga evidence paper, not a sixth-century Chedi capital fact.
+- Epic memory names Sisupala. Later **Kharavela** (खारवेल) of Kalinga belongs to a Chedi line; his **Hathigumpha** inscription is the Nanda–Kalinga evidence paper, not a sixth-century Chedi capital fact.
 
 **Vatsa**
 - The king is **Udayana**. Kaushambi is a Yamuna fort-city. G.R. Sharma excavated it.
@@ -263,7 +263,7 @@ Not UP: Magadha / Anga / Vajji (Bihar), Avanti (MP), Matsya (RJ).
 - The legend of **Udayana and Vasavadatta** is set when Vatsa’s Udayana is held at **Ujjain**. Bhasa’s drama **Svapnavasavadattam** tells that story.
 
 **Gandhara**
-- **Taxila** is the university-town and an Achaemenid satrapy. **Pushkalavati** is the second pole.
+- **Taxila** (तक्षशिला) is the university-town and an Achaemenid satrapy. **Pushkalavati** is the second pole.
 - Ramayana memory says **Taksha**, son of Bharata, founded Takshashila. **Panini** is born in the Pushkalavati / Gandhara world.
 
 **Kamboja**
@@ -303,14 +303,14 @@ Not UP: Magadha / Anga / Vajji (Bihar), Avanti (MP), Matsya (RJ).
 
 - Eight of the sixteen touch present-day Uttar Pradesh: **Kashi, Kosala, Vatsa, Kuru, Panchala, Malla, Surasena**, and **Chedi** on the Bundelkhand edge.
 - **Magadha, Anga, and Vajji** are in **Bihar**, not Uttar Pradesh.
-- **Avanti** is in **Madhya Pradesh**. **Matsya** is in **Rajasthan**. **Asmaka** is in the Deccan. **Gandhara** and **Kamboja** are in the northwest.
+- **Avanti** is in **Madhya Pradesh**. **Matsya** is in **Rajasthan** (थार). **Asmaka** is in the Deccan. **Gandhara** and **Kamboja** are in the northwest.
 
 | State | UP fact |
 |-------|---------|
 | Kashi | Varanasi — oldest continuous city on this list |
-| Kosala | **Ayodhya** + **Shravasti** (Saheth-Maheth, crescent plan); Prasenajit |
+| Kosala | **Ayodhya** (अयोध्या) + **Shravasti** (Saheth-Maheth, crescent plan); Prasenajit |
 | Vatsa | **Kaushambi** (Prayagraj) — Udayana; NBPW + rampart |
-| Kuru | **Hastinapur** (Meerut); Indraprastha = Delhi NCR |
+| Kuru | **Hastinapur** (हस्तिनापुर) (Meerut); Indraprastha = Delhi NCR |
 | Panchala | **Ahichchhatra** (Bareilly), Kampilya (Farrukhabad); Kanyakubja belt |
 | Malla | **Kushinagar** + Pava |
 | Surasena | **Mathura** |
@@ -328,7 +328,7 @@ Not UP: Magadha / Anga / Vajji (Bihar), Avanti (MP), Matsya (RJ).
 
 - Several of the 16 have **two poles**. **Kosala** has Shravasti and Ayodhya. **Kuru** has Hastinapur and Indraprastha.
 - **Avanti** has Ujjain in the north and Mahishmati in the south. **Panchala** has Ahichchhatra in the north and Kampilya in the south.
-- **Magadha** has **Rajgir**, then **Pataliputra** after Udayin’s shift.
+- **Magadha** has **Rajgir** (राजगीर), then **Pataliputra** after Udayin’s shift.
 - The 2020 paper spellings are **Sursena, Asmak, Potan, Virat Nagar**. Mathura is Surasena, never Matsya.
 
 **PYQ — UPPCS Prelims 2020, Q6**
@@ -454,7 +454,7 @@ Sixteenth-century BCE politics is a chain of stronger states swallowing weaker o
 - Roads run east to Anga and Bengal, and west up-river to Kashi, Kosala, and Vatsa. Magadha did **not** rise on Arabian-Sea trade.
 - Unbroken hungry houses follow: Haryanka, then Shishunaga, then Nanda. Rivals had one strong king each — Prasenajit, Pradyota, Udayana — then gaps.
 - Bimbisara’s Kosala princess brought the **Kashi dowry**. His Licchavi wife is **Chellana** (daughter of Chetak). His Madra wife is **Khema**.
-- A standing army and *mahamattas* make a proto-Mauryan machine. The finished *Arthashastra* org-chart is Mauryan, not Haryanka.
+- A standing army and *mahamattas* make a proto-Mauryan machine. The finished *Arthashastra* (अर्थशास्त्र) org-chart is Mauryan, not Haryanka.
 
 | Dynasty | Approx. span (Buddhist coaching line) |
 |---------|----------------------------------------|
@@ -526,7 +526,7 @@ The Shishunagas take Magadha after the Haryanka weak tail. Their territorial pri
 **First Gangetic “empire” | ~345–322 BCE | *Navananda***
 
 - **Mahapadma Nanda** is also called **Ugrasena** (उग्रसेन). Puranic titles are **ekarat** (एकराट्), **sarvakshatrantaka** (सर्वक्षत्रान्तक - “destroyer of kshatriyas”), and **aparoparashurama** (अपरोपरशुराम). Hostile texts give a **shudra / barber** origin.
-- He rolls up leftover Kuru, Panchala, Kosala, and Vatsa boards. The Hathigumpha later remembers a Nanda carrying off a Jina image from **Kalinga** and digging a **canal** there. That inscription is **Kharavela’s**, not a Nanda edict. It is also remembered as early canal-engraving evidence.
+- He rolls up leftover Kuru, Panchala, Kosala, and Vatsa boards. The Hathigumpha later remembers a Nanda carrying off a Jina image from **Kalinga** (कलिंग) and digging a **canal** there. That inscription is **Kharavela’s**, not a Nanda edict. It is also remembered as early canal-engraving evidence.
 - Nine Nandas (*Navananda*) means Mahapadma plus eight sons. Coaching lists often name: Ugrasen / Mahapadma, Panduk, Pandugati, Bhootpal, Rastrapal, Govishanak, Dashasiddhak, Kaivart, and **Dhana Nanda**.
 - The last is **Dhana Nanda**, the Greek **Agrammes / Xandrames**. His commander is remembered as **Bhaddasala**. Late Nanda rule is remembered for heavy taxes and unrest.
 - Curtius gives an army of **2,00,000** infantry, **20,000** cavalry, **2,000** chariots, and **3,000** elephants. Treat it as order of size, not a muster roll. The numbers are enough that Alexander’s army **stopped at the Beas**.
@@ -543,7 +543,7 @@ The Shishunagas take Magadha after the Haryanka weak tail. Their territorial pri
 
 **Archaeological marker of mahajanapada cities and second urbanisation | ~700–200 BCE | not PGW, not Harappan**
 
-- **Northern Black Polished Ware** is a fine, glossy, often metallic-looking black pottery. It marks elite table culture in early historic north India.
+- **Northern Black Polished Ware** (उत्तरी काली पॉलिश मृद्भांड / एनबीपीडब्ल्यू) is a fine, glossy, often metallic-looking black pottery. It marks elite table culture in early historic north India.
 - The usual date-band is about **700–200 BCE**, from late mahajanapada growth through early Mauryan cities. It is **later** than PGW in stratigraphy.
 - NBPW appears at urban and administrative sites: **Kaushambi**, **Rajghat** (Kashi), **Hastinapur**, **Shringaverapura**, **Taxila**, **Pataliputra**, and **Vaishali**.
 - Wheeler and Krishna Deva named the ware at **Ahichchhatra**. Marshall had already noticed similar “fine black lustrous ware” at Sarnath and Bhita.

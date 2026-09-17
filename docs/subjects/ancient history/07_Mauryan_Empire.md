@@ -18,9 +18,9 @@ Mauryan Empire · Chandragupta Maurya · Bindusara · Ashoka · then Admin / Off
 ## Consolidated — 38 Must-Score Facts
 
 1. The Mauryan empire runs about **322–185 BCE**. Buddhist tradition links the clan to **Moriya / Pipphalivana**; some Puranas smear a “low origin.”
-2. King order is **Chandragupta (322–297)** → **Bindusara Amitraghata** (अमित्रघात) **(297–273)** → **Ashoka** (accession about **272**, coronation **268–232**) → last **Brihadratha**, killed by **Pushyamitra Shunga** in **185 BCE**.
+2. King order is **Chandragupta (322–297)** → **Bindusara Amitraghata** (अमित्रघात) **(297–273)** → **Ashoka** (अशोक) (accession about **272**, coronation **268–232**) → last **Brihadratha**, killed by **Pushyamitra Shunga** (पुष्यमित्र शुंग) in **185 BCE**.
 3. Chandragupta, guided by **Chanakya / Kautilya**, overthrew the last Nanda (**Dhana Nanda**) and later treaty-settled with **Seleucus** about **303 BCE**.
-4. Seleucus ceded north-west districts and received **500 elephants**. **Megasthenes** came as envoy and wrote the lost *Indica* (known through Strabo and Arrian).
+4. Seleucus ceded north-west districts and received **500 elephants**. **Megasthenes** (मेगस्थनीज) came as envoy and wrote the lost *Indica* (known through Strabo and Arrian).
 5. Pliny’s army figures for Chandragupta are huge (about 6 lakh foot, 30k horse, 9k elephants). Money used punch-marked **pana** (पण). Material culture shows **NBPW** and ring-wells.
 6. Empire extent ran from **Kandahar to Bengal** and Himalaya to Karnataka. **Chola, Pandya, Satiyaputra, and Keralaputra** appear as **neighbours**, not Mauryan provinces.
 7. Ashoka’s titles include **Devanampiya Piyadassi** (देवानांप्रिय प्रियदर्शी). The personal name **Ashoka** appears at **Maski, Gujarra, Nittur, and Udegolam**.
@@ -28,10 +28,10 @@ Mauryan Empire · Chandragupta Maurya · Bindusara · Ashoka · then Admin / Off
 9. **Rock Edict XII** teaches **samavaya** (समवाय) — religious concord / synthesis. Do not give that role to RE XIII.
 10. **Dhamma-mahamatras** (धम्म महामात्र) were appointed in Ashoka’s **14th year** (RE V). Dhamma is ethical **state policy**, not identical with the Buddhist religion he patronised.
 11. The Bhabru edict lists Buddhist texts such as *Laghulovada* for monks. That does **not** mean “Ashoka’s Dhamma is defined as Rahulovada.”
-12. Scripts: **Brahmi** is the main Prakrit script. **Kharoshthi** appears at **Shahbazgarhi** and **Mansehra**. **Greek and Aramaic** appear at **Kandahar**.
-13. The **Sarnath** four-lion capital is India’s **national emblem**. **Ahraura** in Mirzapur is Uttar Pradesh’s own **Minor Rock Edict**.
-14. **Barabar** caves were gifted to **Ajivikas**. Their polish is Mauryan; they are not Ajanta-style Buddhist painted caves.
-15. **Kanaganahalli** preserves a label reading **“Raya Asoka.”** Schism edicts appear at Sarnath and **Kaushambi**.
+12. Scripts: **Brahmi** (ब्राह्मी) is the main Prakrit script. **Kharoshthi** appears at **Shahbazgarhi** (शाहबाजगढ़ी) and **Mansehra** (मानसेहरा). **Greek and Aramaic** appear at **Kandahar** (कंधार).
+13. The **Sarnath** (सारनाथ) four-lion capital is India’s **national emblem**. **Ahraura** in Mirzapur is Uttar Pradesh’s own **Minor Rock Edict**.
+14. **Barabar** caves were gifted to **Ajivikas** (आजीविक). Their polish is Mauryan; they are not Ajanta-style Buddhist painted caves.
+15. **Kanaganahalli** (कनगनाहल्ली) preserves a label reading **“Raya Asoka.”** Schism edicts appear at Sarnath and **Kaushambi** (कौशांबी).
 16. **Samaharta** (समाहर्ता) collects revenue. **Sannidhata** (सन्निधाता) stores the treasury (**kosha** (कोष)). Never reverse collector and storekeeper.
 17. **Rajuka** (रज्जुक) handled land and justice (pillar edicts). **Dhamma-mahamatras** (धम्म महामात्र) handled moral and welfare work (RE V).
 18. Provincial princes (**kumara** (कुमार) / aryaputra) are classically posted at **Taxila, Ujjain, Suvarnagiri, and Tosali**. Kashi–Kosala–Vatsa sat in the imperial core, not as a separate kumara province label.
@@ -39,7 +39,7 @@ Mauryan Empire · Chandragupta Maurya · Bindusara · Ashoka · then Admin / Off
 20. Greek *Agronomai* in Megasthenes match rural **revenue / land** officers. **Pautavadhyaksha** (पौतवाध्यक्ष) is the weights official — a common wrong option.
 21. Six city boards and six army boards in the Greek account cover crafts, foreigners, census, and military arms. They are parallel lists, not one board doing both jobs.
 22. **Bhaga** (भाग) is the produce share. **Bali** (बलि) is an extra or religious levy. Rummindei notes remission of *bali* at Lumbini.
-23. **Sudama** and **Lomas Rishi** are Barabar cells; Lomas Rishi shows the famous horseshoe chaitya-arch facade.
+23. **Sudama** and **Lomas Rishi** (लोमश ऋषि) are Barabar cells; Lomas Rishi shows the famous horseshoe chaitya-arch facade.
 24. UP Mauryan facts: Ahraura MRE (Mirzapur), Sarnath lions, Allahabad / Kaushambi pillar tradition, Meerut pillar moved by Firoz Shah, and Sankissa elephant capital.
 25. **Bindusara** is remembered as **Amitraghata** (अमित्रघात - “slayer of foes”) and held the empire between Chandragupta and Ashoka. Greek writers call him Amitrochates.
 26. **Bherighosha** (भेरीघोष) is the war-drum. **Dhammaghosha** (धम्मघोष) is the dhamma-drum of RE IV / XIII — Ashoka’s metaphor for moral conquest.
@@ -47,12 +47,12 @@ Mauryan Empire · Chandragupta Maurya · Bindusara · Ashoka · then Admin / Off
 28. Pillar Edict V lists protected animals. Rock Edict V creates dhamma-mahamatras. Same number, different medium and content.
 29. Chandragupta Maurya (322 BCE founder) is not **Chandragupta II Vikramaditya** of the Gupta age.
 30. Pushyamitra’s coup in **185 BCE** ends Mauryan rule and begins Shunga power. Post-Ashoka decline had already weakened the periphery.
-31. Kautilya’s *Arthashastra* is the Sanskrit statecraft text. Megasthenes’ *Indica* is the Greek outsider report. Use each for the questions it can answer.
+31. Kautilya’s *Arthashastra* (अर्थशास्त्र) is the Sanskrit statecraft text. Megasthenes’ *Indica* is the Greek outsider report. Use each for the questions it can answer.
 32. Ashoka’s empire neighbours in the far south stayed independent; edicts speak to them as border peoples, not as conquered Magadhan districts. **Sri Lanka (Tamraparni)** is a neighbour / mission land, **not** a Mauryan province.
-33. **Sohgaura** (Gorakhpur, UP) and **Mahasthan** (Bangladesh) are Mauryan famine / grain-store records. Mauryas did **not** make religious land grants as a system (that epigraphy starts with Satavahanas).
+33. **Sohgaura** (Gorakhpur, UP) and **Mahasthan** (महास्थान) (Bangladesh) are Mauryan famine / grain-store records. Mauryas did **not** make religious land grants as a system (that epigraphy starts with Satavahanas).
 34. **Pranaya** (प्रणय) is the Mauryan **emergency** tax. **Sita** (सीता) is crown-land produce under the *sitadhyaksha* (सीताध्यक्ष). *Pankodakasannirodhe* (पंकोदकसन्निरोधे) is the penalty for fouling roads with mud and water.
-35. Courts in the *Arthashastra*: **Dharmasthiya** (धर्मस्थीय - civil) and **Kantakashodhana** (कण्टकशोधन - criminal). The text also allows divorce in listed cases. **Manusmriti** blocks widow remarriage and calls non-conforming foreigners **fallen kshatriyas**.
-36. **Vishnugupta** is Chanakya’s other name (papers often treat it as the childhood / alternate identity). *Arthashastra* is compared with Machiavelli’s *Prince*. *Mudrarakshasa* calls Chandragupta **Vrishal / Kulheen**; Dhundiraja wrote a commentary.
+35. Courts in the *Arthashastra*: **Dharmasthiya** (धर्मस्थीय - civil) and **Kantakashodhana** (कण्टकशोधन - criminal). The text also allows divorce in listed cases. **Manusmriti** (मनुस्मृति) blocks widow remarriage and calls non-conforming foreigners **fallen kshatriyas**.
+36. **Vishnugupta** (विष्णुगुप्त) is Chanakya’s other name (papers often treat it as the childhood / alternate identity). *Arthashastra* is compared with Machiavelli’s *Prince*. *Mudrarakshasa* (मुद्राराक्षस) calls Chandragupta **Vrishal / Kulheen**; Dhundiraja wrote a commentary.
 37. **Justin** remembers Sandrokottos meeting Alexander. **William Jones** first equated Sandrokottos with Chandragupta Maurya. Jain texts call Bindusara **Simhasena**; his mother is **Durdhara**.
 38. City officials in *Indica* are **Astynomoi**. The caravan chief in the *Arthashastra* is **Sarthavaha** (सार्थवाह). Birth–death registration is one of the six municipal boards that still echoes modern municipal work.
 
@@ -95,7 +95,7 @@ Mauryan Empire · Chandragupta Maurya · Bindusara · Ashoka · then Admin / Off
 | Item | Lock |
 |------|------|
 | Devanampiya Piyadassi | Ashoka on edicts |
-| Personal name “Ashoka” | **Maski**, Gujarra, Nittur, Udegolam |
+| Personal name “Ashoka” | **Maski** (मास्की), Gujarra, Nittur, Udegolam |
 | RE XIII | **Kalinga war** (~261 BCE) |
 | RE XII | **Samavaya** (religious concord) |
 | RE V | **Dhamma-mahamatras** (14th year) |
@@ -135,9 +135,9 @@ Mauryan Empire · Chandragupta Maurya · Bindusara · Ashoka · then Admin / Off
 |-------------|--------------------|----------------|
 | *Arthashastra* | **Kautilya / Chanakya / Vishnugupta** | Sanskrit statecraft; saptanga, officials, courts |
 | *Indica* | **Megasthenes** | Greek envoy account of Chandragupta’s India (lost; known via Strabo, Arrian) |
-| *Mudrarakshasa* | **Vishakhadatta** | Sanskrit play on Chandragupta–Chanakya court intrigue |
+| *Mudrarakshasa* | **Vishakhadatta** (विशाखदत्त) | Sanskrit play on Chandragupta–Chanakya court intrigue |
 | Commentary on *Mudrarakshasa* | **Dhundiraja** | Later commentary on Vishakhadatta’s play |
-| *Devichandraguptam* | **Vishakhadatta** | Drama remembered with Gupta-age story (same author; later setting) |
+| *Devichandraguptam* (देवीचन्द्रगुप्तम्) | **Vishakhadatta** | Drama remembered with Gupta-age story (same author; later setting) |
 | *Abhisarikavanchitaka* | **Vishakhadatta** | Another work attributed to the same dramatist |
 | *Dipavamsa* | Sinhalese Buddhist chronicle | Third Council at Pataliputra under Ashoka |
 | *Mahavamsa* | Sinhalese Buddhist chronicle | Same council; Moggaliputta Tissa; Lanka missions |
@@ -151,7 +151,7 @@ Mauryan Empire · Chandragupta Maurya · Bindusara · Ashoka · then Admin / Off
 
 - The *Arthashastra* is **not** the *Mudrarakshasa*.
 - The *Indica* is **not** the *Arthashastra*.
-- *Devichandraguptam* shares Vishakhadatta’s name but its story sits in the **Gupta** horizon.
+- *Devichandraguptam* shares Vishakhadatta’s name but its story sits in the **Gupta** (गुप्त) horizon.
 
 > **Logic:** For “author of Indica” the answer is **Megasthenes**. For “author of Arthashastra” the answer is **Kautilya / Chanakya / Vishnugupta**.
 
@@ -161,7 +161,7 @@ Mauryan Empire · Chandragupta Maurya · Bindusara · Ashoka · then Admin / Off
 
 **Chandragupta Maurya | c. 322–185 BCE | capital Pataliputra (Ganga–Son)**
 
-The Mauryas built the first large pan-North Indian state. Their capital was **Pataliputra** at the Ganga–Son junction.
+The Mauryas built the first large pan-North Indian state. Their capital was **Pataliputra** (पाटलिपुत्र) at the Ganga–Son junction.
 
 ### Origin and Greek names
 
@@ -171,11 +171,11 @@ The Mauryas built the first large pan-North Indian state. Their capital was **Pa
 - Greek writers remember a humble youth who later topples the Nandas.
 - **Plutarch** calls him **Androcottus**.
 - **Justin** calls him **Sandrokottos** and remembers a meeting with **Alexander**.
-- **William Jones** first equated Sandrokottos with **Chandragupta Maurya**.
+- **William Jones** first equated Sandrokottos with **Chandragupta Maurya** (चंद्रगुप्त मौर्य).
 
 ### Chanakya and literary sources
 
-- **Chanakya** is also called **Kautilya**.
+- **Chanakya** (चाणक्य) is also called **Kautilya** (कौटिल्य).
 - Another name for him is **Vishnugupta**, often treated as his childhood or alternate identity.
 - He was a Taxila Brahman. After insult at the Nanda court, he trained Chandragupta.
 - His book is the *Arthashastra*, a hard statecraft text often compared with Machiavelli’s *Prince*.
@@ -189,9 +189,9 @@ The Mauryas built the first large pan-North Indian state. Their capital was **Pa
 
 | Ruler | Span (approx.) | Must-hold fact |
 |-------|----------------|----------------|
-| **Chandragupta** | 322–297 BCE | Overthrows **Dhana Nanda**; Greek **Sandrokottos** |
+| **Chandragupta** (चंद्रगुप्त) | 322–297 BCE | Overthrows **Dhana Nanda**; Greek **Sandrokottos** |
 | **Bindusara** | 297–273 BCE | Greek **Amitraghata / Amitrochates** |
-| **Ashoka** | Accedes ~272; crowned 268–232 BCE | **Kalinga**, **dhamma**, and the edicts |
+| **Ashoka** | Accedes ~272; crowned 268–232 BCE | **Kalinga** (कलिंग), **dhamma** (धम्म), and the edicts |
 | **Brihadratha** | ends 185 BCE | Killed by **Pushyamitra Shunga** |
 
 - **Kunala** is a legendary blinded heir. He is not a hard epigraphic king.
@@ -212,7 +212,7 @@ The Mauryas built the first large pan-North Indian state. Their capital was **Pa
 - The *Mahavamsa* is a Buddhist chronicle.
 - The *Mudrarakshasa* comes last, as a play.
 - **James Prinsep** deciphered Brahmi in **1837**.
-- The **Maski** edict later proved that **Piyadassi** is Ashoka.
+- The **Maski** edict later proved that **Piyadassi** (प्रियदर्शी) is Ashoka.
 
 ### Neighbours, pottery, coins, and army size
 
@@ -220,7 +220,7 @@ The Mauryas built the first large pan-North Indian state. Their capital was **Pa
 
 | Named in RE II | Fact |
 |----------------|------|
-| **Chola** | South neighbour |
+| **Chola** (चोल) | South neighbour |
 | **Pandya** | South neighbour |
 | **Satiyaputra** | South neighbour |
 | **Keralaputra** | South neighbour |
@@ -285,7 +285,7 @@ A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 - Envoy **Deimachus** comes from Antiochus I (Strabo). **Dionysius** is remembered as the envoy of Egypt’s **Ptolemy II Philadelphus** to the Mauryan court.
 - A letter to **Antiochus I** asks for sweet wine, dry figs, and a philosopher. The **philosopher was refused**.
 - Tradition gives him an Ajivika lean.
-- The *Divyavadana* remembers a **Taxila** revolt; **Ashoka** is posted there as *kumara* to suppress it. Buddhist tradition also places Ashoka as viceroy of **Avanti (Ujjain)** under Bindusara.
+- The *Divyavadana* remembers a **Taxila** (तक्षशिला) revolt; **Ashoka** is posted there as *kumara* to suppress it. Buddhist tradition also places Ashoka as viceroy of **Avanti (Ujjain)** under Bindusara.
 - *Samantapasadika* of **Buddhaghosa** remembers Ashoka winning / merging **Avanti** into the Mauryan empire during Bindusara’s reign.
 - His son and successor is **Ashoka**.
 
@@ -297,7 +297,7 @@ A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 
 **Centralised bureaucracy | mantriparishad | salaried amatyas | not a Gupta samanta state**
 
-The Mauryan state is a **centralised** empire. Officers are paid. Power does not rest mainly on feudatory **samantas** as in the Gupta age.
+The Mauryan state is a **centralised** empire. Officers are paid. Power does not rest mainly on feudatory **samantas** (सामंत) as in the Gupta age.
 
 ### King and ministers
 
@@ -324,7 +324,7 @@ The Mauryan state is a **centralised** empire. Officers are paid. Power does not
 
 - The army is *chaturanga* plus a navy under the *navadhyaksha*.
 - *Indica* gives a war office of **six** army boards: navy, transport, infantry, cavalry, chariots, and elephants.
-- The great road is the **Uttarapatha** from Taxila to Pataliputra.
+- The great road is the **Uttarapatha** (उत्तरापथ) from Taxila to Pataliputra.
 - Strabo’s agronomoi also set mile-pillars. That road detail is a **trap option**, not the key meaning of Agronomai (revenue / land).
 
 ### Village to district ladder
@@ -365,13 +365,13 @@ Read this as **two machines**. Kautilya’s *adhyakshas* are one picture. Megast
 - The **yukta** is a subordinate executive.
 - The **pradeshika / pradeshtri** inspects the district and links police and spies.
 - The **mahamatra** is a high officer of a province or department.
-- The **dhamma-mahamatra** appears in Rock Edict V. He works for welfare of sects, prisoners, and borders. Appointment is in the **14th year** after coronation.
+- The **dhamma-mahamatra** (धम्म महामात्र) appears in Rock Edict V. He works for welfare of sects, prisoners, and borders. Appointment is in the **14th year** after coronation.
 - The **pativedaka** is the reporter. Rock Edict VI says the king is reachable always.
 - The **gopa** and **sthanika** are Kautilya’s rural circle officers.
 
 ### Princes and forts
 
-- The **kumara** is a prince-viceroy at **Taxila**, **Ujjain**, or **Suvarnagiri**.
+- The **kumara** is a prince-viceroy at **Taxila**, **Ujjain** (उज्जैन), or **Suvarnagiri**.
 - **Tosali** is the Kalinga post.
 - The **antapala** holds the frontier.
 - The **durgapala** holds the fort.
@@ -448,7 +448,7 @@ Ashoka is the Mauryan emperor of the edicts. After the **Kalinga war** he turns 
 ### Name on the stones
 
 - Major edicts say **Piyadassi / Devanampiya**, not the personal name.
-- The personal name **Ashoka** appears on Minor Rock Edicts at **Maski**, **Gujarra**, **Nittur**, and **Udegolam**.
+- The personal name **Ashoka** appears on Minor Rock Edicts at **Maski**, **Gujarra** (गुजर्रा), **Nittur**, and **Udegolam**.
 
 ### Kalinga War (261 BCE) — Cause, Course, Result
 
@@ -456,7 +456,7 @@ Ashoka is the Mauryan emperor of the edicts. After the **Kalinga war** he turns 
 
 **Course:** In his **8th regnal year (~261 BCE)**, Ashoka invaded Kalinga. Rock Edict **XIII** remembers **1 lakh** killed, **1.5 lakh** deported, and countless sufferers.
 
-**Result:** Kalinga was **annexed**; headquarters at **Tosali** and **Samapa**. Ashoka turned to **dhamma-vijaya**. Separate Kalinga edicts at **Dhauli** and **Jaugada** tell mahamatras that **"all men are my children."** He does **not** give Kalinga back.
+**Result:** Kalinga was **annexed**; headquarters at **Tosali** and **Samapa**. Ashoka turned to **dhamma-vijaya**. Separate Kalinga edicts at **Dhauli** and **Jaugada** (जौगढ़) tell mahamatras that **"all men are my children."** He does **not** give Kalinga back.
 
 ### After Kalinga
 
@@ -466,7 +466,7 @@ Ashoka is the Mauryan emperor of the edicts. After the **Kalinga war** he turns 
 - Mission lands include Kashmir–Gandhara, Mahishamandala, Vanavasi, Aparantaka, Maharatha, the Yona, the Himalaya, and **Suvannabhumi**.
 - **Lanka** receives **Mahinda** and **Sanghamitta**, under king **Devanampiya Tissa**, with a Bodhi-sapling.
 - Legend credits **84,000** stupas and viharas.
-- **Jalauka** in Kashmir is from the *Rajatarangini*, not from edicts.
+- **Jalauka** in Kashmir is from the *Rajatarangini* (राजतरंगिणी), not from edicts.
 - The Barabar gift to Ajivikas is polished granite cells, not Buddhist viharas.
 - Death is about **232 BCE**. The empire runs to **185 BCE**.
 
@@ -482,8 +482,8 @@ Ashoka is the Mauryan emperor of the edicts. After the **Kalinga war** he turns 
 - Sinhalese tradition places it in Ashoka’s **17th–18th year** after coronation (coronation **268 BCE** → council near **250 BCE**).
 - **Moggaliputta Tissa** presided. The council purified doctrine and organised missions.
 - Missions went to Kashmir–Gandhara, Sri Lanka (**Mahinda**, **Sanghamitta**), and other regions.
-- Council place order is **Rajagriha** (1st), then **Vaishali** (2nd), then **Pataliputra** (3rd), then **Kundalvana** (4th).
-- Third Council = **Ashoka** at **Pataliputra**. Fourth Council = **Kanishka** at **Kundalvana**.
+- Council place order is **Rajagriha** (1st), then **Vaishali** (वैशाली) (2nd), then **Pataliputra** (3rd), then **Kundalvana** (4th).
+- Third Council = **Ashoka** at **Pataliputra**. Fourth Council = **Kanishka** (कनिष्क) at **Kundalvana**.
 - **Sri Lanka** received the mission but remained an **edge neighbour**, not a Mauryan province (RE II).
 
 > **Logic:** The year **c. 250 BCE** comes from chronicle tradition. Ashokan edicts do **not** date the Third Council.
@@ -495,8 +495,8 @@ Ashoka is the Mauryan emperor of the edicts. After the **Kalinga war** he turns 
 **After Bodh Gaya visit | traditional pilgrimage order**
 
 - After turning toward Buddhism, Ashoka stopped hunting and began pilgrimage. Tradition places the circuit as **Lumbini → Kapilavastu → Bodh Gaya → Sarnath → Kushinagar → Shravasti**.
-- **Rummindei** marks Lumbini (birth). **Bhabru / Bairat** shows him as **Piyadasi Raja of Magadha** and a Buddhist patron.
-- **Sanchi** is remembered as the finest / best-preserved early stupa core begun under Ashoka (Raisen, MP). **Bharhut** railings bloom mainly in the **Shunga** age.
+- **Rummindei** (रुम्मिनदेई) marks Lumbini (birth). **Bhabru / Bairat** shows him as **Piyadasi Raja of Magadha** and a Buddhist patron.
+- **Sanchi** (सांची) is remembered as the finest / best-preserved early stupa core begun under Ashoka (Raisen, MP). **Bharhut** (भरहुत) railings bloom mainly in the **Shunga** (शुंग) age.
 
 ---
 
@@ -603,13 +603,13 @@ A. Both 1 and 2 B. Neither 1 nor 2 C. Only 1 D. Only 2
 | **XIV** | Edicts written short or long as the place needs |
 | Site | Region | Script / extra |
 |------|--------|----------------|
-| **Girnar (Junagadh)** | Gujarat | Full 14; later **Rudradaman** + Skandagupta on same rock |
+| **Girnar (Junagadh)** | Gujarat | Full 14; later **Rudradaman** (रुद्रदामन) + Skandagupta on same rock |
 | **Kalsi** | Dehradun, Uttarakhand | Elephant figure; northern RE |
 | **Dhauli** | Odisha | Separate Kalinga edicts; **elephant** carved |
 | **Jaugada** | Odisha | Separate Kalinga edicts |
 | **Shahbazgarhi** | KP, Pakistan | **Kharoshthi** |
 | **Mansehra** | KP, Pakistan | **Kharoshthi** |
-| **Sopara** | Maharashtra | Fragments |
+| **Sopara** (शूर्पारक) | Maharashtra | Fragments |
 | **Erragudi / Yerragudi** | Andhra | Major + minor cluster |
 | **Sannati (Kanaganahalli)** | Karnataka | RE fragments; panel labelled **Raya Asoka** |
 
@@ -673,7 +673,7 @@ A. Rock Edict XI B. Rock Edict XII C. Rock Edict XIII D. Rock Edict II
 | **Rampurva** | Bihar | **Two** shafts: lion + **bull** |
 | **Rummindei** | Lumbini, Nepal | Visit; **bali** dropped; *bhaga* cut to **1/8** |
 | **Nigali Sagar** | Nepal | Konagamana stupa enlarged |
-| **Allahabad** | from **Kaushambi**, UP | Ashoka + **Queen’s edict (Karuvaki, Tivala)** + Samudragupta + Jahangir |
+| **Allahabad** (इलाहाबाद) | from **Kaushambi**, UP | Ashoka + **Queen’s edict (Karuvaki, Tivala)** + Samudragupta + Jahangir |
 | **Delhi-Topra** | from Topra, Haryana | Full PE I–VII; Firoz Shah |
 | **Delhi-Meerut** | from **Meerut, UP** | Firoz Shah |
 
@@ -693,11 +693,11 @@ Minor pillar / schism: Sarnath, Sanchi, Kaushambi. The **Kaushambi schism edict*
 | **Lomas Rishi** | Barabar | (facade; no Ashokan text) | **Horseshoe chaitya-arch** — prototype of Bhaja/Karle/Ajanta fronts |
 | **Vishvakarma (Visva Zopri)** | Barabar | Ashoka | Ajivika |
 | **Karan Chaupar** | Barabar | Ashoka, 19th year | Rain-retreat for Ajivikas |
-| **Gopika, Vapiyaka, Vadathika** | Nagarjuni | **Dasharatha** | Still **Ajivika** |
+| **Gopika, Vapiyaka, Vadathika** | Nagarjuni | **Dasharatha** | Still **Ajivika** (आजीविक) |
 
 - These are **not** Buddhist viharas. Ajanta, Karle, and Bhaja copy the **horseshoe arch** centuries later.
 - Palace memory is the **Kumrahar 80-pillar** hall at Pataliputra. Wooden palisade is Greek memory. Stone polish is the Ashokan trademark.
-- Sculpture tagged Mauryan polish includes the **Didarganj Yakshi** at Patna (date debated).
+- Sculpture tagged Mauryan polish includes the **Didarganj Yakshi** (दीदारगंज यक्षी) at Patna (date debated).
 - The **Parkham Yaksha** at Mathura is inscribed **Manibhadra**.
 - Two Patna yakshas belong to the same polish tradition.
 - The **Dhauli elephant** is another Mauryan sculpture fact.
@@ -726,7 +726,7 @@ The *Arthashastra* is the Mauryan **statecraft handbook**. It is **not** the *Mu
 
 - The **18 tirthas** (तीर्थ - highest officials) include mantrin (मन्त्रिन्), purohita (पुरोहित), senapati (सेनापति), yuvaraja (युवराज), dauvarika (दौवारिक), antarvamsika (अन्तर्वंशिक), prasasta (प्रशास्ता), samaharta (समाहर्ता), and sannidhata (सन्निधाता), plus pradeshta (प्रदेष्टा), nayaka (नायक), pauravyavaharika (पौरव्यावहारिक), karmantika (कार्मन्तिक), mantri-parishad-adhyaksha (मन्त्रिपरिषदाध्यक्ष), dandapala (दण्डपाल), durgapala (दुर्गपाल), antapala (अन्तपाल), and atavika (आटविक).
 - The adhyaksha-state covers mines (*akaradhyaksha* / आकराध्यक्ष), salt (*lavanadhyaksha* / लवणाध्यक्ष), trade (*panyadhyaksha* / पण्याध्यक्ष), crown lands (*sitadhyaksha* / सीताध्यक्ष), forests, spinning, ships (*navadhyaksha* / नावाध्यक्ष), passports, and mint (*lakshanadhyaksha* / लक्षणाध्यक्ष).
-- It is a **command economy**. Guilds (*shreni* / श्रेणी) are regulated, not abolished.
+- It is a **command economy**. Guilds (*shreni* (श्रेणी) / श्रेणी) are regulated, not abolished.
 
 ### Slavery, courts, and family law
 
@@ -795,7 +795,7 @@ The *Arthashastra* is the Mauryan **statecraft handbook**. It is **not** the *Mu
 | **Uttarapatha** | **Taxila** | Kumara |
 | **Avantiratha / Avantirashtra** | **Ujjain** | Kumara |
 | **Kalinga** (after 261) | **Tosali** (+ **Samapa**) | Kumara / mahamatra |
-| **Dakshinapatha** | **Suvarnagiri** | Kumara |
+| **Dakshinapatha** (दक्षिणापथ) | **Suvarnagiri** | Kumara |
 
 - Stack: empire → province → **ahara / vishaya** → *sthanika* circle → *gopa* (5–10 villages) → *grama* (*gramika*).
 - Edicts also say **aryaputra** for princes. Mahamatras can hold a province when no prince is posted.
@@ -819,7 +819,7 @@ The Mauryan state lives mainly on land dues. Hold the levy names as separate fac
 | **Bali** | Extra / religious levy; **Rummindei drops it** |
 | **Hiranya** | Cash |
 | **Shulka** | Toll / customs (*sulkadhyaksha*) |
-| **Vishti** | Forced labour |
+| **Vishti** (विष्टि -) | Forced labour |
 | **Udakabhaga** | Irrigation cess |
 | **Pranaya** | Emergency / benevolence tax (**UKPCS 2021**) |
 | **Sita** | Crown-farm produce (*sitadhyaksha*) |
@@ -850,8 +850,8 @@ The Mauryan state lives mainly on land dues. Hold the levy names as separate fac
 - **Guilds (*shreni*)** were regulated, not abolished.
 - Craft towns continued under *panyadhyaksha* control.
 - Rock Edict **II** names **Chola, Pandya, Satiyaputra, Keralaputra, and Tamraparni** as neighbours — not Mauryan provinces.
-- The northwest had **Yavana** contact.
-- Punch-marked **silver** remained the standard coin.
+- The northwest had **Yavana** (यवन) contact.
+- Punch-marked **silver** (रूपक) remained the standard coin.
 - **Ring-wells** and **NBPW** mark urban Mauryan sites.
 
 ## 7.17 Spy System
@@ -894,11 +894,11 @@ Ashoka did **not** abolish spies. The spy chapter belongs to the *Arthashastra*,
 
 | Fact | Place |
 |------|--------|
-| **Ahraura MRE** | **Mirzapur** — UP’s own Minor Rock Edict |
+| **Ahraura MRE** | **Mirzapur** (मिर्ज़ापुर) — UP’s own Minor Rock Edict |
 | Sarnath pillar / four-lion capital | Varanasi — **national emblem** |
 | Schism edict | Sarnath + **Kaushambi** |
 | Allahabad pillar | Originally **Kaushambi**; now Prayagraj (Ashoka + Gupta + Jahangir) |
-| Meerut pillar | Origin **Meerut**; Firoz Shah moved it to Delhi |
+| Meerut pillar | Origin **Meerut** (मेरठ); Firoz Shah moved it to Delhi |
 | Sankissa elephant capital | Farrukhabad belt |
 | Kashi–Kosala–Vatsa | Inside the **imperial core**, not a kumara-province |
 | Kushinagar | Mauryan-period Buddhist site (Malla); not an edict site |
@@ -1764,7 +1764,7 @@ D. Pushyabhuti
 
 **Logic:** Relative chronology among given imperial houses — Mauryas are earliest.
 
-**Ans: B.** Among the options, **Maurya** is the oldest.
+**Ans: B.** Among the options, **Maurya** (मौर्य) is the oldest.
 
 **Trap:** Ranking **Kushana** before Gupta correctly but still after Maurya, then mis-picking Gupta as “classical oldest.”
 
@@ -1854,7 +1854,7 @@ D. Vallabhi
 
 **Ans: C.** The famous Mauryan learning centre is **Taxila**.
 
-**Trap:** Answering **Nalanda** from medieval Buddhist university fame.
+**Trap:** Answering **Nalanda** (नालंदा) from medieval Buddhist university fame.
 
 </details>
 

@@ -4,7 +4,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-UNFCCC | Kyoto Protocol | Paris Agreement | CBD | Ramsar | CITES | Bonn Convention (CMS) | Basel | Rotterdam | Stockholm Convention | Minamata
+UNFCCC (यूएनएफसीसीसी) | Kyoto (क्योटो) Protocol | Paris Agreement (पेरिस समझौता) | CBD | Ramsar (रामसर) | CITES (साइट्स) | Bonn Convention (CMS) | Basel | Rotterdam | Stockholm Convention | Minamata
 
 </details>
 
@@ -24,19 +24,19 @@ UNFCCC | Kyoto Protocol | Paris Agreement | CBD | Ramsar | CITES | Bonn Conventi
 ## Consolidated — 24 Must-Score Facts
 
 1. The climate ladder is **UNFCCC 1992 → Kyoto 1997 → Paris 2015**.
-2. **Kyoto** set binding targets mainly for **Annex-I** parties. **Paris** uses universal **NDCs** for all parties.
-3. **Montreal** protects the ozone layer. **Kyoto / Paris / UNFCCC** are climate instruments. Never swap Montreal for climate mitigation.
+2. **Kyoto** (क्योटो) set binding targets mainly for **Annex-I** parties. **Paris** uses universal **NDCs** for all parties.
+3. **Montreal** protects the ozone layer. **Kyoto / Paris / UNFCCC** are climate instruments. Never swap Montreal for climate mitigation (जलवायु शमन).
 4. **CBD (1992)** is the biodiversity convention. **Cartagena** is the biosafety protocol under CBD.
-5. **Ramsar (1971)** covers wetlands. **CITES (1973)** covers wildlife **trade**. **CMS / Bonn (1979)** covers **migratory** species.
-6. **Basel (1989)** covers hazardous **waste**. **Rotterdam (1998)** covers hazardous **chemicals** through the PIC procedure.
-7. **Stockholm Convention (2001)** covers **POPs** such as DDT and PCBs. It is **not** the Stockholm Conference of **1972**.
+5. **Ramsar (1971)** covers wetlands. **CITES (1973)** (साइट्स) covers wildlife **trade** (पण्याध्यक्ष). **CMS / Bonn (1979)** covers **migratory** species.
+6. **Basel (1989)** covers hazardous **waste**. **Rotterdam (1998)** covers hazardous **chemicals** through the PIC procedure (प्रक्रिया).
+7. **Stockholm Convention (2001)** (स्टॉकहोम संधि) covers **POPs** such as DDT and PCBs. It is **not** the Stockholm Conference of **1972**.
 8. **Minamata (2013)** covers **mercury**.
 9. UNFCCC was opened at **Rio 1992**. Its secretariat sits in **Bonn**. Annual COP meetings drive negotiations.
-10. CITES is not the IUCN Red List. CMS is not CITES. Trade rules and migration treaties are different tools.
+10. CITES is not the IUCN (आईयूसीएन) Red List. CMS is not CITES. Trade rules and migration treaties are different tools.
 11. Ramsar “wise use” allows sustainable human use of wetlands — it is not a total ban slogan.
 12. Paris Agreement year fact is **2015**. Kyoto year fact is **1997**. Montreal year fact is **1987**.
 13. A stem that says Kyoto is about “saving water” is false. Kyoto is climate.
-14. Stockholm **1972** created the UNEP moment. Stockholm **2001** is the POPs treaty. Keep the two Stockholms apart.
+14. Stockholm **1972** created the UNEP (संयुक्त राष्ट्र पर्यावरण कार्यक्रम) moment. Stockholm **2001** is the POPs treaty. Keep the two Stockholms apart.
 15. Basel moves on waste shipment and disposal. Rotterdam’s PIC is prior informed consent for chemicals trade.
 16. CBD’s three objectives are conservation, sustainable use, and fair benefit-sharing from genetic resources.
 17. CMS protects migratory animals across borders. CITES controls international commercial trade in listed species.
@@ -44,7 +44,7 @@ UNFCCC | Kyoto Protocol | Paris Agreement | CBD | Ramsar | CITES | Bonn Conventi
 19. UNFCCC is the parent framework; Kyoto and Paris are protocols/agreements under that climate family.
 20. Do not put Ramsar, CITES, or CBD into the climate-mitigation answer slot when Kyoto is present.
 21. UP Ramsar geography traps belong beside Ramsar treaty facts but do not change the 1971 identity.
-22. Rotterdam is chemicals PIC, not mercury (Minamata) and not POPs listing (Stockholm 2001).
+22. Rotterdam is chemicals PIC, not mercury (Minamata) and not POPs listing (Stockholm 2001 (स्टॉकहोम संधि)).
 23. Paris NDCs are nationally determined. Kyoto Annex-I targets were top-down binding for listed developed parties.
 24. Bonn Convention means **CMS**, not the UNFCCC Bonn secretariat alone.
 
@@ -84,13 +84,13 @@ UNFCCC | Kyoto Protocol | Paris Agreement | CBD | Ramsar | CITES | Bonn Conventi
 
 **Identity:** 1992 Rio framework | Stabilize GHGs | COP | Bonn secretariat
 
-- The **UN Framework Convention on Climate Change (UNFCCC)** was opened at **Rio 1992**.
+- The **UN Framework Convention on Climate Change (जलवायु परिवर्तन) (UNFCCC)** was opened at **Rio 1992**.
 - Goal: stabilize greenhouse gas concentrations to prevent dangerous climate interference.
 - Holds annual **COP** meetings; secretariat in **Bonn, Germany**.
-- Parent framework for **Kyoto Protocol** and **Paris Agreement**.
+- Parent framework for **Kyoto Protocol** and **Paris Agreement** (पेरिस समझौता).
 - Does **not** itself set the Kyoto Annex targets or Paris NDCs — those are later instruments.
 
-> **Logic:** UNFCCC = climate framework. IPCC = science body (Topic 42).
+> **Logic:** UNFCCC = climate framework. IPCC (आईपीसीसी) = science body (Topic 42).
 
 ---
 
@@ -98,7 +98,7 @@ UNFCCC | Kyoto Protocol | Paris Agreement | CBD | Ramsar | CITES | Bonn Conventi
 
 **Identity:** 1997 | Binding Annex-I targets | CDM / carbon markets | ≠ Montreal
 
-- The **Kyoto Protocol (1997)** set **legally binding emission reduction targets** for **Annex-I (developed) countries**.
+- The **Kyoto Protocol (1997)** (क्योटो प्रोटोकॉल) set **legally binding emission reduction targets** for **Annex-I (developed) countries**.
 - Flexible mechanisms: **CDM**, Joint Implementation, and Emissions Trading — origin of **carbon credits**.
 - Climate mitigation treaty — **not** ozone (Montreal) and **not** “save water.”
 
@@ -106,7 +106,7 @@ UNFCCC | Kyoto Protocol | Paris Agreement | CBD | Ramsar | CITES | Bonn Conventi
 
 Climate change mitigation agreement:
 
-Options: A. Montreal Protocol B. Ramsar C. Kyoto Protocol D. CITES
+Options: A. Montreal Protocol (मॉन्ट्रियल प्रोटोकॉल) B. Ramsar C. Kyoto Protocol D. CITES
 
 <details><summary>Show answer</summary>
 
@@ -128,7 +128,7 @@ Options: A. Cartagena — Biosafety B. Stockholm — POPs C. Montreal — Ozone 
 
 **PYQ — UPPCS Prelims 2021, Q125**
 
-Carbon credit concept originated from:
+Carbon credit (कार्बन क्रेडिट) concept originated from:
 
 <details><summary>Show answer</summary>
 
@@ -144,7 +144,7 @@ Carbon credit concept originated from:
 
 **Identity:** 2015 COP21 | Universal NDCs | Well below 2°C / pursue 1.5°C | Force 2016
 
-- The **Paris Agreement (2015)** applies to **all parties** through **Nationally Determined Contributions (NDCs)**.
+- The **Paris Agreement (2015)** (पेरिस समझौता) applies to **all parties** through **Nationally Determined Contributions (NDCs)**.
 - Aims to hold warming **well below 2°C** and pursue **1.5°C**.
 - Entered into force in **2016**.
 - Differs from Kyoto’s Annex-I-only binding model — bottom-up pledges with global stocktake.
@@ -161,7 +161,7 @@ Carbon credit concept originated from:
 - **CBD** opened at **Rio 1992** with three objectives: **conservation**, **sustainable use**, and **fair benefit-sharing** of genetic resources.
 - **Cartagena Protocol** = biosafety / LMOs.
 - **Nagoya Protocol (2010)** = Access and Benefit Sharing (ABS).
-- India implements CBD via the **Biological Diversity Act 2002** (NBA/SBBs/BMCs).
+- India implements CBD via the **Biological Diversity Act 2002** (जैव विविधता अधिनियम 2002) (NBA/SBBs/BMCs).
 - Biodiversity Day **22 May** commemorates CBD text adoption.
 
 **PYQ — UPPCS Prelims 2019, Q132**
@@ -176,9 +176,9 @@ Cartagena Protocol — Biosafety is a **correct** match.
 
 **Identity:** 1971 | Wetlands | Wise Use | 2 February | UP geography traps
 
-- The **Ramsar Convention (1971)** conserves wetlands of international importance under **“Wise Use.”**
-- **World Wetlands Day = 2 February** (Ramsar adoption date).
-- India has about **100** Ramsar sites (**Tamil Nadu** leads state counts; **UP 12**, **Punjab 6** among high counts).
+- The **Ramsar Convention (1971)** (रामसर कन्वेंशन) conserves wetlands of international importance under **“Wise Use.”**
+- **World Wetlands Day (विश्व आर्द्रभूमि दिवस) = 2 February** (Ramsar adoption date).
+- India has about **100** Ramsar sites (**Tamil Nadu (नाडु)** leads state counts; **UP 12**, **Punjab 6** among high counts).
 - **Montreux Record** = Ramsar sites with adverse / likely adverse ecological change from human interference.
 - Negative geography: **Rudrasagar = Tripura**; **Sultanpur NP = Haryana** — not UP.
 
@@ -191,7 +191,7 @@ Consider the following Ramsar sites:
 3. Rudrasagar Lake 
 4. Sultanpur National Park 
 
-Which of the above are **not** located in Uttar Pradesh?
+Which of the above are **not** located in Uttar Pradesh (उत्तर प्रदेश)?
 
 A. 1 and 2 
 B. 3 and 4 
@@ -217,10 +217,10 @@ D. 2 and 4
 
 **Identity:** 1973 Washington | Wildlife trade | Appendices I–III | ≠ IUCN
 
-- **CITES** regulates **international trade** in endangered wild fauna and flora.
+- **CITES** regulates **international trade** in endangered wild fauna (प्राणीजात) and flora (वनस्पति).
 - Uses **Appendices I, II, III** by trade-threat level.
-- Adopted **1973 (Washington)** — not a Rio 1992 product.
-- **World Wildlife Day = 3 March** (CITES adoption date).
+- Adopted (अंगीकृत) **1973 (Washington)** — not a Rio 1992 product.
+- **World Wildlife Day (विश्व वन्यजीव दिवस) = 3 March** (CITES adoption date).
 - IUCN Red List assesses extinction risk; CITES regulates trade.
 
 > **Logic:** CITES ≠ CMS. Trade ≠ migration focus.
@@ -229,7 +229,7 @@ D. 2 and 4
 
 ## 43.7 Bonn Convention (CMS)
 
-**Identity:** 1979 | Migratory species | Habitat corridors | Bonn
+**Identity:** 1979 | Migratory species | Habitat (वास स्थान) corridors | Bonn
 
 - The **Convention on the Conservation of Migratory Species of Wild Animals (CMS / Bonn Convention, 1979)** protects migratory species across range states.
 - Focuses on **migration routes and habitats**, not commercial trade permits like CITES.
@@ -243,7 +243,7 @@ D. 2 and 4
 
 **Identity:** 1989 | Transboundary hazardous waste | Prior notice / control
 
-- The **Basel Convention (1989)** controls **transboundary movements of hazardous wastes** and their disposal.
+- The **Basel Convention (1989)** (बासेल कन्वेंशन) controls **transboundary movements of hazardous wastes** and their disposal.
 - Aims to reduce hazardous waste generation and prevent dumping on weaker states.
 - Part of the BRS chemicals/waste cluster with Rotterdam and Stockholm.
 
@@ -255,8 +255,8 @@ D. 2 and 4
 
 **Identity:** 1998 | PIC | Hazardous chemicals in trade | FAO + UNEP
 
-- The **Rotterdam Convention (1998)** uses **Prior Informed Consent (PIC)** for certain hazardous chemicals and pesticides in international trade.
-- Jointly administered by **FAO** and **UNEP**.
+- The **Rotterdam Convention (1998)** (रॉटरडैम कन्वेंशन) uses **Prior Informed Consent (PIC)** for certain hazardous chemicals and pesticides in international trade.
+- Jointly administered by **FAO** and **UNEP** (संयुक्त राष्ट्र पर्यावरण कार्यक्रम).
 - Does not ban all listed chemicals globally; it ensures importing countries are informed and consent.
 
 > **Logic:** Rotterdam = PIC chemicals. Basel = waste. Stockholm = POPs.
@@ -265,7 +265,7 @@ D. 2 and 4
 
 ## 43.10 Stockholm Convention
 
-**Identity:** 2001 | POPs | DDT/PCBs etc. | ≠ Stockholm 1972 conference
+**Identity:** 2001 | POPs | DDT/PCBs etc. | ≠ Stockholm 1972 (स्टॉकहोम सम्मेलन) conference
 
 - The **Stockholm Convention (2001)** targets **Persistent Organic Pollutants (POPs)** — long-lived toxic chemicals (e.g. certain pesticides, PCBs, dioxins).
 - Seeks elimination or restriction of listed POPs.
@@ -275,7 +275,7 @@ D. 2 and 4
 
 Stockholm Convention — Persistent organic pollutant is a **correct** match.
 
-> **Logic:** Stockholm POPs 2001 ≠ Stockholm Environment Conference 1972.
+> **Logic:** Stockholm POPs 2001 ≠ Stockholm Environment (पर्यावरण) Conference 1972.
 
 ---
 
@@ -283,7 +283,7 @@ Stockholm Convention — Persistent organic pollutant is a **correct** match.
 
 **Identity:** 2013 | Mercury | Named after Japan disaster | India ratified
 
-- The **Minamata Convention (2013)** controls **mercury** use, emissions, and releases across the life cycle.
+- The **Minamata Convention (2013)** (मिनामाता संधि) controls **mercury** use, emissions, and releases across the life cycle.
 - Named after **Minamata disease** (mercury poisoning) in Japan.
 - Covers products, processes, artisanal gold mining, and emissions to air/water/land.
 - India ratified around **2018** (CA fact in many banks).

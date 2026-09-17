@@ -1,4 +1,4 @@
-# Topic 6 — Population, Demographics & SC/ST Settlements of Uttarakhand
+# Topic 6 — Population (जनसंख्या), Demographics & SC/ST Settlements of Uttarakhand (उत्तराखंड)
 
 ### ★ UKPCS state card (Unit 2 — Geography of Uttarakhand)
 
@@ -11,33 +11,33 @@
 
 | Indicator | Uttarakhand State Value | Highest District | Lowest District |
 | :--- | :--- | :--- | :--- |
-| **Total Population** | **1,00,86,292** (1.01 Crore) | **Haridwar** (18.90 Lakh) | **Rudraprayag** (2.42 Lakh) |
-| **Decadal Growth (2001–11)** | **18.81%** (National: 17.70%) | **Udham Singh Nagar** (33.45%) | **Pauri Garhwal** (**-1.41%** negative!) |
-| **Negative Growth Districts** | **Pauri (-1.41%)** & **Almora (-1.28%)** | Severe out-migration / *Palayan* | Creates "Ghost Villages" (*Bhootiya Gaon*) |
-| **Population Density** | **189 persons / sq km** | **Haridwar** (801) | **Uttarkashi** (41) |
-| **Sex Ratio** | **963** (National: 943) | **Almora** (**1142**) | **Haridwar** (**880**) |
-| **Child Sex Ratio (0–6)** | **890** (National: 919) | **Almora** (922) | **Pithoragarh** (816) |
-| **Overall Literacy Rate** | **78.82%** (Rank: 17th in India) | **Dehradun** (84.25%) | **Udham Singh Nagar** (73.10%) |
+| **Total Population** | **1,00,86,292** (1.01 Crore) | **Haridwar** (हरिद्वार) (18.90 Lakh) | **Rudraprayag** (रुद्रप्रयाग) (2.42 Lakh) |
+| **Decadal Growth (2001–11)** | **18.81%** (National: 17.70%) | **Udham Singh Nagar** (ऊधम सिंह नगर) (33.45%) | **Pauri (पौड़ी) Garhwal (गढ़वाल)** (**-1.41%** negative!) |
+| **Negative Growth Districts** | **Pauri (-1.41%)** & **Almora (अल्मोड़ा) (-1.28%)** | Severe out-migration / *Palayan* | Creates "Ghost Villages" (*Bhootiya Gaon*) |
+| **Population Density** | **189 persons / sq km** | **Haridwar** (801) | **Uttarkashi** (उत्तरकाशी) (41) |
+| **Sex Ratio** | **963** (National: 943) | **Almora** (अल्मोड़ा) (**1142**) | **Haridwar** (**880**) |
+| **Child Sex Ratio (0–6)** | **890** (National: 919) | **Almora** (922) | **Pithoragarh** (पिथौरागढ़) (816) |
+| **Overall Literacy Rate** | **78.82%** (Rank: 17th in India) | **Dehradun** (देहरादून) (84.25%) | **Udham Singh Nagar** (73.10%) |
 | **Male Literacy** | **87.40%** | **Rudraprayag** (93.90%) | **Haridwar** (81.04%) |
 | **Female Literacy** | **70.04%** | **Dehradun** (78.54%) | **Uttarkashi** (59.74%) |
-| **Scheduled Caste (SC) %** | **18.76%** of total pop | **Bageshwar** (27.73%) | **Dehradun** (14.5%) |
-| **Scheduled Tribe (ST) %** | **2.89%** of total pop | **Udham Singh Nagar** (7.46%) | **Rudraprayag** (0.15%) |
-| **Urban Population %** | **30.23%** (Rural: 69.77%) | **Dehradun** (55.52%) | **Bageshwar** (3.49%) |
+| **Scheduled Caste (अनुसूचित जाति) (SC) %** | **18.76%** of total pop | **Bageshwar** (बागेश्वर) (27.73%) | **Dehradun** (14.5%) |
+| **Scheduled Tribe (अनुसूचित जनजाति) (ST) %** | **2.89%** of total pop | **Udham Singh Nagar** (7.46%) | **Rudraprayag** (0.15%) |
+| **Urban (नगरीय) Population %** | **30.23%** (Rural: 69.77%) | **Dehradun** (55.52%) | **Bageshwar** (3.49%) |
 
 ---
 
 ## Must-Score Facts (High-Yield UKPCS)
 
 1. **Sex Ratio Descending Trap (UKPCS 2025 Q111):**  
-   $$\text{Almora (1142)} \longrightarrow \text{Rudraprayag (1114)} \longrightarrow \text{Tehri Garhwal (1077)} \longrightarrow \text{Haridwar (880)}$$  
+   $$\text{Almora (1142)} \longrightarrow \text{Rudraprayag (1114)} \longrightarrow \text{Tehri (टिहरी) Garhwal (1077)} \longrightarrow \text{Haridwar (880)}$$  
    *(7 hill districts have sex ratio > 1000 due to heavy male out-migration; plains districts Haridwar 880 and Dehradun 889 have lowest).*
-2. **Negative Decadal Growth (Ghost Villages):** Uttarakhand has two hill districts that registered an absolute population contraction between 2001 and 2011: **Pauri Garhwal (-1.41%)** and **Almora (-1.28%)**.
+2. **Negative Decadal Growth (Ghost Villages):** Uttarakhand has two hill districts that registered an absolute (निरपेक्ष) population contraction between 2001 and 2011: **Pauri Garhwal (-1.41%)** and **Almora (-1.28%)**.
 3. **Density Contrast:** **Haridwar (801)** has 20 times the population density of **Uttarkashi (41)**.
 4. **Literacy Extremes:**
    - Overall Literacy: **Dehradun** highest (84.25%); **US Nagar** lowest (73.10%).
    - Male Literacy: **Rudraprayag** highest in India/state (93.90%).
    - Female Literacy: **Uttarkashi** is the only district with female literacy under 60% (59.74%).
-5. **Vanrawat / Raji Lifestyle (UKPCS 2025 Q113):** Forest-dwelling primitive tribal group concentrated in **Pithoragarh**; historically sustained by **shifting cultivation** (*Jhuming*) until restricted by state forest laws.
+5. **Vanrawat / Raji Lifestyle (UKPCS 2025 Q113):** Forest-dwelling primitive tribal (आदिवासी) group concentrated in **Pithoragarh**; historically sustained by **shifting cultivation** (*Jhuming*) until restricted by state forest laws.
 
 ---
 
@@ -46,13 +46,13 @@
 | Rank | Population | Density (per $\text{km}^2$) | Sex Ratio (females/1000) | Literacy Rate (%) |
 | :---: | :--- | :--- | :--- | :--- |
 | **1** | **Haridwar** (18.90 L) | **Haridwar** (801) | **Almora** (1142) | **Dehradun** (84.25%) |
-| **2** | **Dehradun** (16.96 L) | **Dehradun** (549) | **Rudraprayag** (1114) | **Nainital** (83.88%) |
-| **3** | **US Nagar** (16.48 L) | **US Nagar** (425) | **Pauri Garhwal** (1103) | **Chamoli** (82.65%) |
+| **2** | **Dehradun** (16.96 L) | **Dehradun** (549) | **Rudraprayag** (1114) | **Nainital** (नैनीताल) (83.88%) |
+| **3** | **US Nagar** (16.48 L) | **US Nagar** (425) | **Pauri Garhwal** (1103) | **Chamoli** (चमोली) (82.65%) |
 | **4** | **Nainital** (9.55 L) | **Nainital** (225) | **Bageshwar** (1090) | **Pithoragarh** (82.25%) |
 | **5** | **Pauri Garhwal** (6.87 L) | **Tehri Garhwal** (170) | **Tehri Garhwal** (1077) | **Pauri Garhwal** (82.02%) |
 | **6** | **Tehri Garhwal** (6.18 L) | **Pauri Garhwal** (129) | **Pithoragarh** (1020) | **Rudraprayag** (81.30%) |
 | **7** | **Almora** (6.22 L) | **Bageshwar** (116) | **Chamoli** (1015) | **Almora** (80.47%) |
-| **8** | **Pithoragarh** (4.83 L) | **Almora** (198) | **Uttarkashi** (958) | **Champawat** (79.83%) |
+| **8** | **Pithoragarh** (4.83 L) | **Almora** (198) | **Uttarkashi** (958) | **Champawat** (चंपावत) (79.83%) |
 | **9** | **Chamoli** (3.91 L) | **Champawat** (147) | **Champawat** (980) | **Bageshwar** (80.01%) |
 | **10**| **Uttarkashi** (3.30 L) | **Rudraprayag** (122) | **Nainital** (934) | **Tehri Garhwal** (76.36%) |
 | **11**| **Bageshwar** (2.59 L) | **Pithoragarh** (68) | **US Nagar** (920) | **Uttarkashi** (75.81%) |
@@ -92,7 +92,7 @@
 - **Least Urbanized District:** **Bageshwar (3.49%)**, followed by Rudraprayag (4.10%) and Uttarkashi (7.36%).
 - **Settlement Patterns:**
   - *Mid-Himalayan Hill Slopes:* Nucleated compact settlements located on southern spurs to maximize sunlight; terraced cultivation (*Khet*).
-  - *Doon & Terai Valleys:* Dispersed and linear settlement ribbons along highways and canal banks.
+  - *Doon & Terai (तराई) Valleys:* Dispersed and linear settlement ribbons along highways and canal banks.
   - *Alpine Zones:* Transhumant seasonal dwellings (*Mait* in summer alpine pastures; *Gunda/Munsa* in winter valleys).
 
 ---

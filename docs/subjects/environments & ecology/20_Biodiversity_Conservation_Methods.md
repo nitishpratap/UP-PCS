@@ -4,7 +4,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-In-situ Conservation | Ex-situ Conservation | Gene Bank | Seed Bank | Botanical Garden | Zoological Park
+In-situ (स्थान पर) Conservation (स्व-स्थाने संरक्षण) | Ex-situ (स्थानांतरित) Conservation (बाह्य-स्थाने संरक्षण) | Gene Bank | Seed Bank (बीज बैंक) | Botanical Garden (वनस्पति उद्यान) | Zoological Park
 
 </details>
 
@@ -23,27 +23,27 @@ In-situ Conservation | Ex-situ Conservation | Gene Bank | Seed Bank | Botanical 
 
 ## Consolidated — 24 Must-Score Facts
 
-1. **In-situ** conservation protects biodiversity **in the natural habitat**. It is the preferred primary strategy because the whole ecosystem and natural selection stay intact.
-2. **Ex-situ** conservation protects biodiversity **outside** the natural habitat — zoos, botanic gardens, seed banks, gene banks, cryobanks. It is a backup, not a replacement for in-situ.
-3. In-situ examples: National Park, Wildlife Sanctuary, Biosphere Reserve, Conservation/Community Reserve, sacred grove, Ramsar wetland, wildlife corridor.
-4. Ex-situ examples: zoo, botanical garden, seed bank, gene bank, captive breeding centre, tissue culture, cryopreservation.
+1. **In-situ** (स्थान पर) conservation protects biodiversity **in the natural habitat (वास स्थान)**. It is the preferred primary strategy because the whole ecosystem (पारिस्थितिकी तंत्र) and natural selection stay intact.
+2. **Ex-situ** (स्थानांतरित) conservation protects biodiversity **outside** the natural habitat — zoos, botanic gardens, seed banks, gene banks, cryobanks. It is a backup, not a replacement for in-situ.
+3. In-situ examples: National Park, Wildlife Sanctuary, Biosphere Reserve (जैवमंडल आरक्षित क्षेत्र), Conservation/Community Reserve (सामुदायिक आरक्षित क्षेत्र), sacred grove, Ramsar (रामसर) wetland, wildlife corridor.
+4. Ex-situ examples: zoo, botanical garden, seed bank, gene bank, captive breeding centre, tissue culture, cryopreservation (क्रायो-संरक्षण).
 5. Four-way pattern: National Park and sacred grove are **in-situ**; zoo, seed bank, and botanic garden are **ex-situ**.
 6. A **gene bank** stores genetic material broadly — seeds, DNA, tissue, pollen, sperm, embryos. A **seed bank** stores **seeds only**.
-7. **Orthodox seeds** (wheat, rice) tolerate drying and cold storage around **−18°C**. **Recalcitrant seeds** (mango, coconut) cannot take simple dry seed-bank storage and need living collections or cryo routes.
+7. **Orthodox seeds** (सामान्य (रूढ़िवादी) बीज) (wheat, rice) tolerate drying and cold storage around **−18°C**. **Recalcitrant seeds** (कठिन (असहनीय) बीज) (mango, coconut) cannot take simple dry seed-bank storage and need living collections or cryo routes.
 8. **Cryopreservation** stores material at about **−196°C** in liquid nitrogen.
 9. India’s plant gene/seed flagship is **NBPGR**, New Delhi (**1976/1978** line). India’s animal gene-bank flagship is **NBAGR**, Karnal (**1984**).
 10. The **Indian Botanic Garden**, Howrah (**1787**), is India’s classic large botanic garden, linked with BSI administration. The **National Zoological Park**, New Delhi (**1959**), is the national zoo flagship.
-11. **CZA** is the statutory zoo regulator under **MoEFCC**.
+11. **CZA** is the statutory zoo regulator under **MoEFCC** (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय).
 12. The **Svalbard Global Seed Vault** in Norway is a duplicate backup vault — not India’s NBPGR.
 13. NBPGR is plants in Delhi; NBAGR is animals in Karnal. BSI in Kolkata surveys plants; it is **not** the national gene bank.
-14. Dudhwa and Katerniaghat-style protected areas are **in-situ**. Kukrail crocodile centre and garden collections are **ex-situ**.
-15. Sacred groves are community in-situ pockets — do not park them with zoos.
+14. Dudhwa (दुधवा) and Katerniaghat-style protected areas are **in-situ**. Kukrail crocodile centre and garden collections are **ex-situ**.
+15. Sacred groves (पवित्र उपवन) are community in-situ pockets — do not park them with zoos.
 16. Wildlife corridors keep in-situ populations linked; they are not ex-situ cages.
 17. Captive breeding is ex-situ recovery support; releasing only works if habitat (in-situ) remains.
 18. Seed banks fail for recalcitrant species if the stem assumes every crop seed stores like wheat.
 19. Gene bank ⊃ seed bank. Calling every gene bank a “seeds-only room” is wrong.
-20. Biosphere Reserves and National Parks are in-situ frameworks; botanic gardens are living ex-situ plant collections.
-21. UP colour: Dudhwa/Katerniaghat = in-situ; NBRI Lucknow garden collections = ex-situ; NBPGR in Delhi still serves national plant genetic resources including UP crops.
+20. Biosphere Reserves (जैवमंडल आरक्षित क्षेत्र) and National Parks are in-situ frameworks; botanic gardens are living ex-situ plant collections.
+21. UP colour: Dudhwa/Katerniaghat = in-situ; NBRI Lucknow (लखनऊ) garden collections = ex-situ; NBPGR in Delhi still serves national plant genetic resources including UP crops.
 22. Community and Conservation Reserves are newer in-situ tools beside classic parks and sanctuaries.
 23. Cryobanking is an ex-situ technology for germplasm that ordinary refrigeration cannot hold.
 24. Priority line for prelims: **in-situ first, ex-situ supplementary** — never reverse the preference.
@@ -86,15 +86,15 @@ In-situ Conservation | Ex-situ Conservation | Gene Bank | Seed Bank | Botanical 
 **Identity:** On-site | Natural habitat | Preferred primary strategy | WPA 1972 protected areas
 
 - **In-situ conservation** protects species **where they naturally live**, keeping habitat, food webs, pollinators, and competitors intact.
-- NCERT and global policy treat in-situ as the **preferred primary strategy** because it preserves **ecosystem integrity**, **natural selection**, and **genetic diversity** in real conditions.
-- **National Parks** offer strict habitat protection under **Wildlife (Protection) Act, 1972**, with human activity restricted. **Dudhwa NP (UP)** is a Terai in-situ example.
+- NCERT and global policy treat in-situ as the **preferred primary strategy** because it preserves **ecosystem integrity**, **natural selection**, and **genetic diversity** (आनुवंशिक विविधता) in real conditions.
+- **National Parks** offer strict habitat protection under **Wildlife (Protection) Act, 1972**, with human activity restricted. **Dudhwa NP (UP)** is a Terai (तराई) in-situ example.
 - **Wildlife Sanctuaries** protect habitat with slightly more flexible human use than NPs but remain **in-situ**. **Katerniaghat WLS (UP)** protects gharial and Gangetic dolphin in natural rivers.
 - **Biosphere Reserves** follow the UNESCO **MAB** model with **core**, **buffer**, and **transition** zones, combining strict protection with sustainable community use.
 - **Conservation Reserves** and **Community Reserves** (WPA amendments) protect habitat patches with community participation.
-- **Sacred groves** (deorai, sarna, kavu) are traditional **in-situ** community forests protected by local belief systems.
+- **Sacred groves** (deorai, sarna (सरना), kavu) are traditional **in-situ** community forests protected by local belief systems.
 - **Ramsar wetlands** and **marine protected areas** are specialised **in-situ** tools for aquatic and coastal ecosystems.
 - **Wildlife corridors** link fragmented habitats at landscape scale. The **Terai Arc Landscape** connects Dudhwa–Corbett habitats.
-- **Limitation:** In-situ alone cannot save species whose habitat is completely destroyed or whose wild population is critically small without ex-situ backup.
+- **Limitation:** In-situ alone cannot save species whose habitat is completely destroyed or whose wild population (जनसंख्या) is critically small without ex-situ backup.
 
 **PYQ — UPPCS Prelims 2023, Q118**
 
@@ -119,7 +119,7 @@ D. None of the above
 | National Park | In-situ | Dudhwa (UP) |
 | Wildlife Sanctuary | In-situ | Katerniaghat (UP) |
 | Biosphere Reserve | In-situ | Similipal |
-| Sacred Grove | In-situ | Tribal UP belts |
+| Sacred Grove | In-situ | Tribal (आदिवासी) UP belts |
 | Seed Bank | **Ex-situ** | NBPGR Delhi |
 
 > **Logic:** UPPCS 2019 pattern — "Which is in-situ?" → only **NP/sanctuary/BR/sacred grove**. Zoo, seed bank, botanic garden = **ex-situ distractors**.
@@ -136,7 +136,7 @@ D. None of the above
 - **Major ex-situ types:** zoological parks, botanical gardens, seed banks, gene banks, captive breeding centres, tissue culture, cryopreservation.
 - **Genetic bottleneck risk:** small captive groups lose diversity through inbreeding — zoos rotate breeding pairs and maintain studbooks.
 - **Reintroduction link:** ex-situ breeding succeeds only if **in-situ habitat** is restored. Cheetah reintroduction required **Kuno NP** habitat preparation alongside captive stock.
-- **IUCN Red List "Extinct in the Wild (EW)"** marks species surviving only in zoos, botanic gardens, or seed banks with no viable wild population.
+- **IUCN (आईयूसीएन) Red List "Extinct in the Wild (EW)"** marks species surviving only in zoos, botanic gardens, or seed banks with no viable wild population.
 - **CBD + BDA 2002:** India regulates access to genetic resources; ex-situ collections at NBPGR/NBAGR support national biodiversity obligations.
 
 **PYQ — UPPCS Prelims 2018, Q54**
@@ -175,7 +175,7 @@ D. Sacred groves
 - A **gene bank** stores **multiple forms of genetic material**: seeds, pollen, tissue cultures, DNA, animal semen, and embryos.
 - **ICAR-NBPGR** at **Pusa Campus, New Delhi** (est. **1978**) is India's national **plant** gene bank. It holds one of the world's largest plant collections.
 - The **National Gene Bank** at NBPGR (est. **1996** unit) is the long-term **base collection** stored at **-18°C to -20°C** for orthodox seeds, with cryo units for recalcitrant material.
-- **NBAGR, Karnal (Haryana)** (est. **1984**) conserves **animal** genetic resources — semen, embryos, and DNA of indigenous livestock breeds (Sahiwal, Gir, Red Sindhi).
+- **NBAGR, Karnal (Haryana)** (est. **1984**) conserves **animal** genetic resources — semen, embryos, and DNA of indigenous livestock breeds (Sahiwal, Gir (गीर), Red Sindhi).
 - **Cryopreservation** uses **liquid nitrogen at -196°C**, stopping biological activity for decades-long storage of embryos, sperm, pollen, and tissue.
 - **Active collection** holds frequently accessed seeds for breeders. **Base collection** is long-term duplicate storage with minimal disturbance.
 - Stored seeds lose viability over time and must be **periodically regenerated** by germination and re-collection.
@@ -226,10 +226,10 @@ D. Sacred groves
 - **Botanical gardens** maintain **living plant collections** outside wild habitat for conservation, research, education, and display.
 - Unlike seed banks (dormant storage), gardens keep **living plants** — essential for **recalcitrant-seed species** and **Extinct in the Wild** plants.
 - The **Acharya Jagadish Chandra Bose Indian Botanic Garden** at **Howrah, West Bengal** (est. **1787** by Colonel Robert Kyd) is the **largest and oldest** botanic garden in India, famous for the **Great Banyan Tree**.
-- It is administered by **Botanical Survey of India (BSI)**. BSI is a **survey organisation** — it is not synonymous with "botanical garden" as a conservation method.
-- **Other major gardens:** Lalbagh (Bengaluru, 1760), **NBRI garden (Lucknow)**, Empress Garden (Pune).
+- It is administered by **Botanical Survey of India (BSI)** (भारतीय वनस्पति सर्वेक्षण). BSI is a **survey organisation** — it is not synonymous with "botanical garden" as a conservation method.
+- **Other major gardens:** Lalbagh (Bengaluru, 1760), **NBRI garden (Lucknow)**, Empress Garden (Pune (पुणे)).
 - **BGCI** links **3500+ gardens** globally for coordinated ex-situ plant conservation.
-- **Limitation:** living collections hold limited genetic diversity, artificial conditions differ from wild ecology, and maintenance is costly.
+- **Limitation:** living collections hold limited genetic diversity, artificial conditions differ from wild ecology (पारिस्थितिकी), and maintenance is costly.
 
 | Garden | Location | Notable |
 |--------|----------|---------|
@@ -247,7 +247,7 @@ D. Sacred groves
 
 - **Zoological parks (zoos)** hold animals in **enclosed, managed environments** — classic **ex-situ** conservation removed from free-ranging wild habitat.
 - **Roles:** conservation breeding, public education, scientific research, and genetic reservoir for reintroduction when habitat is secured.
-- **Central Zoo Authority (CZA)** was created under the **Wildlife (Protection) Amendment Act, 1991** and functions under **MoEFCC**. It grants zoo recognition, sets standards, and coordinates breeding programmes.
+- **Central Zoo Authority (CZA)** (केंद्रीय चिड़ियाघर प्राधिकरण) was created under the **Wildlife (Protection) Amendment Act, 1991** and functions under **MoEFCC**. It grants zoo recognition (मान्यता), sets standards, and coordinates breeding programmes.
 - The **National Zoological Park (Delhi Zoo)** in **New Delhi** (est. **1959**) is a flagship ex-situ facility for endangered Indian species.
 - **Species recovery centres** (also ex-situ): vulture breeding centres (Pinjore, Rani, Buxa), **Kukrail Crocodile Centre (Lucknow, UP)**, gharial breeding for river release.
 - **Trap: zoo vs sanctuary** — zoo = **captive ex-situ**; sanctuary = **wild animals in natural habitat (in-situ)**.

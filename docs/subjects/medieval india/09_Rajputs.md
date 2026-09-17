@@ -4,7 +4,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Rajput Warriors | Maharana Pratap | Battle of Haldighati | Rana Sanga | Rajput States
+Rajput (राजपूत) Warriors | Maharana Pratap (प्रताप) | Battle of Haldighati (हल्दीघाटी) | Rana Sanga (सांगा) | Rajput States
 
 </details>
 
@@ -17,30 +17,30 @@ Rajput Warriors | Maharana Pratap | Battle of Haldighati | Rana Sanga | Rajput S
 
 ## Consolidated — 24 Must-Score Facts
 
-1. **Sisodia** ruled **Mewar** (Chittor → Udaipur); **Rathore** ruled **Marwar** (Jodhpur); **Kachhwaha** ruled **Amber/Jaipur**.
+1. **Sisodia** ruled **Mewar** (Chittor (चित्तौड़) → Udaipur (उदयपुर)); **Rathore** ruled **Marwar** (मारवाड़) (Jodhpur); **Kachhwaha** ruled **Amber/Jaipur**.
 2. Title fact: **Maharana/Rana** for Mewar; **Rao** for Marwar and Bikaner.
-3. At **Khanwa on 16 March 1527**, Babur defeated **Rana Sanga**'s confederacy; never pair **Pratap** with Khanwa.
-4. **Maharana Pratap**, son of Udai Singh II, refused Akbar's mansab and held out from Aravalli bases such as **Kumbhalgarh** and **Gogunda**.
-5. At **Haldighati on 18 June 1576**, Pratap faced **Raja Man Singh** of Amber; **Akbar was not** present in the pass.
+3. At **Khanwa (खानवा) on 16 March 1527**, Babur (बाबर) defeated **Rana Sanga**'s confederacy; never pair **Pratap** with Khanwa.
+4. **Maharana Pratap**, son of Udai Singh II, refused Akbar (अकबर)'s mansab (मनसब) and held out from Aravalli (अरावली) bases such as **Kumbhalgarh** and **Gogunda**.
+5. At **Haldighati on 18 June 1576**, Pratap faced **Raja (राजा) Man Singh** (राजा मान सिंह) of Amber; **Akbar was not** present in the pass.
 6. Haldighati was tactically indecisive; Pratap escaped, fought a guerrilla war, and died in **1597**.
-7. Pratap's son **Amar Singh** made peace with **Jahangir in 1615**, keeping Mewar honour without personal court attendance.
-8. **Alauddin** sacked **Chittor in 1303**; **Akbar** took it in **1567–68** after Jaimal–Patta resistance and jauhar.
-9. Alauddin conquest order: **Gujarat 1299 → Ranthambore 1301 → Chittor 1303 → Warangal ~1310**.
+7. Pratap's son **Amar Singh** made peace with **Jahangir (जहाँगीर) in 1615**, keeping Mewar honour without personal court attendance.
+8. **Alauddin** sacked **Chittor in 1303**; **Akbar** (अकबर) took it in **1567–68** after Jaimal–Patta (पट्टा) resistance and jauhar (जौहर).
+9. Alauddin conquest order: **Gujarat 1299 → Ranthambore (रणथंभौर) 1301 → Chittor 1303 → Warangal (वारंगल) ~1310**.
 10. **Udaipur** became Mewar capital from **1559**, while **Chittor** remained the prestige fort.
-11. **Rana Hamir** belongs to **Mewar**; **Rana Chunda** is also Mewar, while **Rao Chunda** is the **Marwar** line.
-12. **Rana Hammir (c. 1326)** restored Mewar after the Khalji sack; he is **not Hamir Deva** of Ranthambore (died 1301).
-13. **Vijay Stambha** is **Kumbha**'s victory tower; **Kirti Stambha** is the older Jain tower — both stand at Chittor.
-14. **Jayata and Kumpa** fought for **Marwar** against Sher Shah at Sammel in **1544**.
-15. **Jauhar** is women's immolation at a falling fort; **saka** is the warriors' last charge.
+11. **Rana Hamir (हमीर)** belongs to **Mewar**; **Rana Chunda** (राणा चुंडा) is also Mewar, while **Rao Chunda** (राव चुंडा) is the **Marwar** line.
+12. **Rana Hammir (मेवाड़ हमीर) (c. 1326)** restored Mewar after the Khalji (खिलजी) sack; he is **not Hamir Deva (रणथम्भौर हमीर)** of Ranthambore (died 1301).
+13. **Vijay Stambha** (विजय स्तम्भ) is **Kumbha** (कुम्भा)'s victory tower; **Kirti Stambha** (कीर्ति स्तम्भ) is the older Jain tower — both stand at Chittor.
+14. **Jayata and Kumpa** fought for **Marwar** against Sher Shah (शेरशाह) at Sammel in **1544**.
+15. **Jauhar** is women's immolation at a falling fort; **saka** (साका) is the warriors' last charge.
 16. Pratap's allies included **Bhils under Punja** and Afghan commander **Hakim Khan Sur**.
 17. Other states: **Bhati–Jaisalmer**, **Hada–Bundi–Kota**, and **Bikaner** as a Rathore branch.
 18. **Rao Jodha** founded **Jodhpur in 1459**.
-19. After Akbar, most Rajput houses took mansabs; **Man Singh** of Amber held about **7000** zat and fought at Haldighati.
-20. **Malik Sarwar** founded **Jaunpur**, not Malwa — a common distractor beside ruler–state match lists.
-21. Khanwa sits near the **Agra–Fatehpur Sikri** belt; Haldighati is a narrow **Aravalli** pass near Gogunda.
-22. Cause–course–result for Khanwa: Sanga built a post-Panipat confederacy, Babur used Araba and Tulughma, and the Rajput challenge to early Mughal power broke.
+19. After Akbar, most Rajput houses took mansabs; **Man Singh** (मान सिंह) of Amber held about **7000** zat (जात) and fought at Haldighati.
+20. **Malik Sarwar** founded **Jaunpur** (जौनपुर), not Malwa — a common distractor beside ruler–state match lists.
+21. Khanwa sits near the **Agra–Fatehpur Sikri (फतेहपुर सीकरी)** belt; Haldighati is a narrow **Aravalli** (अरावली) pass near Gogunda.
+22. Cause–course–result for Khanwa: Sanga built a post-Panipat confederacy, Babur used Araba and Tulughma, and the Rajput challenge to early Mughal (मुग़ल) power broke.
 23. Cause–course–result for Haldighati: Pratap refused submission, Man Singh led the imperial wing, and Pratap withdrew to continue guerrilla resistance.
-24. **Tansen** served Rewa/Bhata before Akbar; do not treat **Udai Singh of Mewar** as his pre-Akbar patron fact.
+24. **Tansen** (तानसेन) served Rewa/Bhata before Akbar; do not treat **Udai Singh of Mewar** as his pre-Akbar patron fact.
 
 ---
 
@@ -87,8 +87,8 @@ Rajput Warriors | Maharana Pratap | Battle of Haldighati | Rana Sanga | Rajput S
 | Khanwa | **16 March 1527** | Babur vs **Rana Sanga** |
 | Haldighati | **18 June 1576** | Man Singh vs **Pratap** (Akbar absent) |
 | Sammel | **1544** | Sher Shah vs Maldeo; **Jayata–Kumpa** (Marwar) |
-| Alauddin’s Chittor | **1303** | Khalji sack |
-| Akbar’s Chittor | **1567–68** | Jaimal–Patta; jauhar |
+| Alauddin’s Chittor (अलाउद्दीन) | **1303** | Khalji sack |
+| Akbar’s (अकबर) Chittor | **1567–68** | Jaimal–Patta; jauhar |
 | Amar Singh–Jahangir peace | **1615** | Mewar honour kept |
 
 ### Ruler ↔ lock
@@ -114,18 +114,18 @@ Rajput Warriors | Maharana Pratap | Battle of Haldighati | Rana Sanga | Rajput S
 ## 9.1 Rajput Warriors
 
 - Rajputs were **clan-lineages** claiming Kshatriya status, not a single empire.
-- Core power sat in **Rajasthan**, with branches in Bundelkhand, Malwa, and Gujarat.
+- Core power sat in **Rajasthan** (थार), with branches in Bundelkhand, Malwa, and Gujarat.
 - A Rajput chief drew strength from **genealogy**, a **hill-fort**, **cavalry**, and **marriage** alliances.
 - **Chittor** was the Sisodia prestige fort until Udaipur replaced it as capital.
-- **Ranthambore** was a Chauhan fort. Alauddin took it in **1301** from **Hamir Deva**.
+- **Ranthambore** (रणथंभौर) was a Chauhan fort. Alauddin took it in **1301** from **Hamir Deva**.
 - The honour code prized **izzat** and hospitality.
 - When a fort fell, women performed **jauhar** and men rode out in **saka**.
-- Clans fought each other as often as they fought Turks or Mughals.
-- **Prithviraj Chauhan** is the Tarain-era Chauhan fact, not a Mewar Sisodia.
+- Clans fought each other as often as they fought Turks (तुर्क) or Mughals.
+- **Prithviraj (पृथ्वीराज) Chauhan** is the Tarain-era Chauhan fact, not a Mewar Sisodia.
 - **Rana Hammir (c. 1326–1364)** restored **Mewar** after the Khalji sack of Chittor.
 - That Hammir is **not** Hamir Deva of Ranthambore.
 - After Akbar, most Rajput houses took mansabs.
-- **Aurangzeb** later strained Marwar and Mewar.
+- **Aurangzeb** (औरंगजेब) later strained Marwar and Mewar.
 
 ---
 
@@ -168,8 +168,8 @@ D. Malik Sarwar – Malwa Khwaja Jahan
 
 **Rana Sangram Singh** | Mewar | Premier Rajput before Babur
 
-- **Cause:** After **Panipat I (1526)**, **Rana Sanga** of Mewar built a **Rajput confederacy** to stop Babur before the Mughal foothold hardened. **Mahmud Lodi** joined the anti-Babur front as a Lodi claimant.
-- **Course:** On **16 March 1527** near **Khanwa** (Fatehpur Sikri–Bharatpur belt), Sanga's Rajput coalition charged Babur's smaller army. Babur used chained **Araba** wagons and **Tulughma** flanking cavalry to break the charge. Tradition credits Sanga with **80 wounds**, a lost eye, and a lost arm from earlier wars.
+- **Cause:** After **Panipat (पानीपत) I (1526)**, **Rana Sanga** of Mewar built a **Rajput confederacy** to stop Babur before the Mughal foothold hardened. **Mahmud Lodi** joined the anti-Babur front as a Lodi claimant.
+- **Course:** On **16 March 1527** near **Khanwa** (Fatehpur Sikri–Bharatpur belt), Sanga's Rajput coalition (गठबंधन) charged Babur's smaller army (सेना). Babur used chained **Araba** wagons and **Tulughma** flanking cavalry to break the charge. Tradition credits Sanga with **80 wounds**, a lost eye, and a lost arm from earlier wars.
 - **Result:** Babur won decisively. Sanga died **~1528**. No second all-Rajput confederacy faced Babur. Babur still fought at **Ghagra (1529)** before his death.
 
 > **Logic:** Khanwa = **Sanga 1527**. Never pair **Pratap** with Khanwa.
@@ -205,7 +205,7 @@ D. Malik Sarwar – Malwa Khwaja Jahan
 ---
 
 ## 9.6 Chittor — Two Sieges
-### Siege of Chittor by Alauddin Khalji (1303) — Cause, Course, Result
+### Siege of Chittor by Alauddin Khalji (अलाउद्दीन खिलजी) (1303) — Cause, Course, Result
 
 **Cause:** Alauddin wanted to break **Mewar's** prestige and secure the **Gujarat–Malwa–Delhi** corridor after taking **Gujarat (1299)** and **Ranthambore (1301)**.
 **Course:** The Sultan besieged **Chittor**. Rajput women performed **jauhar**; warriors fought to the death. The fort was stormed and sacked.
@@ -213,8 +213,8 @@ D. Malik Sarwar – Malwa Khwaja Jahan
 
 ### Siege of Chittor by Akbar (1567–68) — Cause, Course, Result
 
-**Cause:** Udai Singh II** had already founded **Udaipur (1559)**, but **Chittor** remained the Rajput prestige fort. **Maharana Pratap** refused submission. Akbar wanted Mewar in the **mansabdari** system.
-**Course:** Imperial armies besieged the fort. Defenders **Jaimal** and **Patta** led resistance. A final **jauhar** took place before the Mughals took the fort.
+**Cause:** Udai Singh II** had already founded **Udaipur (1559)**, but **Chittor** remained the Rajput prestige fort. **Maharana Pratap** refused submission. Akbar wanted Mewar in the **mansabdari** (मनसबदारी व्यवस्था) system.
+**Course:** Imperial armies besieged the fort. Defenders **Jaimal** and **Patta** (पट्टा) led resistance. A final **jauhar** took place before the Mughals took the fort.
 **Result:** Chittor fell to the Mughals. Pratap continued resistance from **Kumbhalgarh** and fought at **Haldighati (1576)**. Do not confuse this siege with **Alauddin's 1303** sack.
 
 
@@ -234,7 +234,7 @@ A. 1-3-2-4 | B. 3-4-1-2 | C. 2-1-4-3 | D. 4-2-3-1
 
 **Ans: C (2-1-4-3)Order:** Gujarat **1299** → Ranthambore **1301** → Chittor **1303** → Warangal **~1310**.
 
-**Trap:** Warangal** (Deccan/Kafur) comes **last**, not first.
+**Trap:** Warangal** (Deccan (दक्कन)/Kafur) comes **last**, not first.
 
 </details>
 

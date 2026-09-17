@@ -18,26 +18,26 @@ Parts of Constitution | Important Parts (III, IV, IVA, IX, IXA, IXB, XV, XVIII, 
 ## Consolidated — 40 Must-Score Facts
 
 1. The Constitution is organised into **Parts**. Originally there were **22 Parts**; today there are about **25 Parts** (including IVA, IXA, IXB, XIVA). **Part VII** stands **repealed**.
-2. **Part III** is **Fundamental Rights** (justiciable). **Part IV** is **DPSP** (non-justiciable). **Part IVA** is **Fundamental Duties**.
+2. **Part III** is **Fundamental Rights** (मौलिक अधिकार) (justiciable). **Part IV** is **DPSP** (non-justiciable). **Part IVA** is **Fundamental Duties** (मौलिक कर्तव्य).
 3. **Part IX** is Panchayats, **Part IXA** is Municipalities, and **Part IXB** is Cooperative Societies. Do not park Municipalities in Part XI.
 4. **Part XI** is **Relations between the Union and the States**. **Part XIVA** is **Tribunals**. Confusing XI with Municipalities or Tribunals is a classic wrong-match trap.
 5. **Part V** is the Union; **Part VI** is the States; **Part VIII** is Union Territories; **Part X** is Scheduled and Tribal Areas; **Part XV** is Elections; **Part XVII** is Official Language; **Part XVIII** is Emergency; **Part XX** is Amendment; **Part XXI** holds temporary, transitional and special provisions (**371–371J**).
-6. The **Attorney General** sits under **Part V**, not under **Part XIII** (Trade, Commerce and Intercourse). Citizenship sits in **Part II**, not Part I.
+6. The **Attorney General** (महान्यायवादी) sits under **Part V**, not under **Part XIII** (Trade, Commerce and Intercourse). Citizenship sits in **Part II**, not Part I.
 7. Schedule facts: **First** = territories of States and UTs; **Second** = emoluments (President, CJI, CAG, etc.); **Third** = oaths and affirmations (President's oath is NOT here, it is in Art. 60); **Fourth** = Rajya Sabha seat allocation.
 8. **Fifth Schedule** covers Scheduled Areas and Scheduled Tribes in many States. **Sixth Schedule** covers tribal areas of **Assam, Meghalaya, Tripura and Mizoram (AMTM)** with Autonomous Councils. (Manipur is NOT in 6th Schedule).
-9. **Seventh Schedule** holds the Union, State and Concurrent Lists (**Article 246**). **Eighth Schedule** lists **22** official languages.
-10. **Ninth Schedule** validates certain Acts (added by **1st Amendment, 1951**). **Tenth Schedule** is anti-defection (added by **52nd Amendment, 1985**).
+9. **Seventh Schedule** holds the Union, State and Concurrent Lists (**Article 246**). **Eighth Schedule** (आठवीं अनुसूची) lists **22** official languages.
+10. **Ninth Schedule** (नौवीं अनुसूची) validates certain Acts (added by **1st Amendment, 1951**). **Tenth Schedule** is anti-defection (added by **52nd Amendment, 1985**).
 11. **Eleventh Schedule** lists **29** Panchayat subjects (**73rd**). **Twelfth Schedule** lists **18** Municipality subjects (**74th**). Do not swap 29 and 18.
 12. In the Eighth Schedule, 14 original languages. **Sindhi** (21st Amd), **Konkani, Manipuri, Nepali** (71st Amd), and **Bodo, Dogri, Maithili, Santhali** (92nd Amd) were added later. **Bhojpuri and English** are **out**.
 13. **Article 1** declares India a **Union of States**. **Article 3** lets Parliament form or alter States. **Article 12** defines **State** for Fundamental Rights. **Article 13** voids inconsistent laws.
-14. Equality cluster: **Articles 14–18**. Freedom cluster: **Article 19**’s **six** freedoms. Life and personal liberty: **Article 21**. Free and compulsory education ages **6–14**: **Article 21A**.
-15. **Article 32** is the Supreme Court remedy for Fundamental Rights. **Article 226** is the High Court’s wider writ power. **Article 51A** holds Fundamental Duties.
+14. Equality cluster: **Articles 14–18**. Freedom cluster: **Article 19**’s **six** freedoms. Life and personal liberty: **Article 21** (अनुच्छेद 21). Free and compulsory education ages **6–14**: **Article 21A**.
+15. **Article 32** (अनुच्छेद 32) is the Supreme Court remedy for Fundamental Rights. **Article 226** is the High Court’s wider writ power. **Article 51A** holds Fundamental Duties.
 16. Pardon facts: **Article 72** (President) and **Article 161** (Governor). Ordinance facts: **Article 123** (President) and **Article 213** (Governor).
 17. Union executive articles: **74** (aid and advice), **75** (Council of Ministers), **76** (Attorney General). **Article 110** defines a Money Bill. **Article 112** is the Annual Financial Statement (Budget). **Article 148** is the CAG.
 18. **Article 249** lets Rajya Sabha empower Parliament to legislate on a State List subject.
 19. **Article 263** is the Inter-State Council. **Article 280** is the Finance Commission. **Article 300A** is the legal right to property (44th Amendment). **Article 312** enables All-India Services. **Article 315** is UPSC / SPSC. **Article 324** is the Election Commission.
 20. Commission Articles: **338** (NCSC), **338A** (NCST - 89th Amd), **338B** (NCBC - 102nd Amd), **340** (Backward Classes Commission).
-21. Emergency articles: **352** (national), **356** (State / President’s Rule), **360** (financial). **Article 368** is amendment of the Constitution (Part XX).
+21. Emergency articles: **352** (national), **356** (State / President’s Rule), **360** (financial). **Article 368** (अनुच्छेद 368) is amendment of the Constitution (Part XX).
 22. Special-State articles run **371–371J** in Part XXI (e.g. 371A Nagaland, 371G Mizoram, 371J Kalyana Karnataka). **Article 393** is the short title.
 23. Part III article span is **12–35**. Part IV is **36–51**. Duties sit at **51A** (added by the **42nd Amendment**; eleventh duty by the **86th Amendment, 2002**).
 24. Panchayats (**Part IX**, Arts. **243–243O**) came with the **73rd Amendment, 1992**. Municipalities (**Part IXA**) came with the **74th Amendment, 1992**. Cooperatives (**Part IXB**) came with the **97th Amendment, 2011**.
@@ -484,7 +484,7 @@ Also match: **V** Union · **VI** States · **VIII** UTs · **X** Scheduled & Tr
 
 #### Articles 23–24 — Right against Exploitation
 
-- **Article 23(1)** prohibits traffic in human beings, *begar*, and other similar forms of forced labour. Contravention is a punishable offence.
+- **Article 23(1)** prohibits traffic in human beings, *begar* (बेगार), and other similar forms of forced labour. Contravention is a punishable offence.
 - **Article 23(2)** lets the State impose compulsory service for public purposes, without discrimination only on religion, race, caste or class.
 - **Article 24** says no child below **fourteen years** shall work in any factory or mine or engage in any other hazardous employment.
 - Do not park untouchability here. Untouchability is **Article 17** under equality.
@@ -619,8 +619,8 @@ Also match: **V** Union · **VI** States · **VIII** UTs · **X** Scheduled & Tr
 |------|---------|-------------|
 | **72** | Power of President to grant pardons etc. | Pardon, reprieve, respite, remission, suspension, commutation — for offences against Union law, sentences by **court-martial**, and **death sentences** in all cases. |
 | **73** | Extent of executive power of the Union | Extends to matters on which Parliament has power to make laws, and to exercise of rights/authority/jurisdiction exercisable by the Government of India by virtue of any treaty or agreement — subject to the Constitution and to State executive power on Concurrent List matters where a State law applies. |
-| **74** | Council of Ministers to aid and advise President | There shall be a Council of Ministers with the Prime Minister at the head to aid and advise the President. The **42nd** made advice binding. The **44th** allows the President to require the CoM to reconsider advice **once**; thereafter the President shall act in accordance with the advice tendered after such reconsideration. |
-| **75** | Other provisions as to Ministers | PM is appointed by the President. Other Ministers are appointed by the President on the advice of the PM. Collective responsibility to the **Lok Sabha**. A Minister who for any period of **six consecutive months** is not a member of either House ceases to be a Minister. **91st Amendment**: CoM of the Union shall not exceed **15%** of the total number of members of the Lok Sabha. |
+| **74** | Council of Ministers to aid and advise President | There shall be a Council of Ministers with the Prime Minister at the head to aid and advise the President. The **42nd** made advice binding. The **44th Amendment** (44वां संशोधन) allows the President to require the CoM to reconsider advice **once**; thereafter the President shall act in accordance with the advice tendered after such reconsideration. |
+| **75** | Other provisions as to Ministers | PM is appointed by the President. Other Ministers are appointed by the President on the advice of the PM. Collective responsibility to the **Lok Sabha** (लोकसभा). A Minister who for any period of **six consecutive months** is not a member of either House ceases to be a Minister. **91st Amendment**: CoM of the Union shall not exceed **15%** of the total number of members of the Lok Sabha. |
 | **76** | Attorney-General for India | Appointed by the President. Must be qualified to be appointed a Judge of the Supreme Court. Gives advice on legal matters and performs other duties of a legal character as assigned. Right of audience in all courts in India. May take part in the proceedings of Parliament without vote. Holds office during the pleasure of the President. |
 | **77** | Conduct of business of the Government of India | All executive action of the Government of India shall be expressed to be taken in the name of the President. Orders and instruments are authenticated as rules provide. President makes rules for convenient transaction of business and allocation among Ministers. |
 | **78** | Duties of Prime Minister as respects furnishing of information to President | Communicate to the President all decisions of the CoM relating to administration and legislation. Furnish such information relating to administration as the President may call for. If the President so requires, submit for the consideration of the CoM any matter on which a decision has been taken by a Minister but which has not been considered by the Council. |
@@ -631,7 +631,7 @@ Also match: **V** Union · **VI** States · **VIII** UTs · **X** Scheduled & Tr
 
 | Art. | Subject | Elaboration |
 |------|---------|-------------|
-| **79** | Constitution of Parliament | Parliament consists of the President and two Houses — **Rajya Sabha** (Council of States) and **Lok Sabha** (House of the People). |
+| **79** | Constitution of Parliament | Parliament consists of the President and two Houses — **Rajya Sabha** (राज्यसभा) (Council of States) and **Lok Sabha** (House of the People). |
 | **80** | Composition of Rajya Sabha | Maximum **250** members: not more than **238** representatives of States and UTs + **12** nominated by the President from persons having special knowledge or practical experience in literature, science, art and social service. |
 | **81** | Composition of Lok Sabha | Not more than **530** representatives of States + not more than **20** representatives of UTs. Nomination of not more than two Anglo-Indian members lapsed after the **104th Amendment (2020)**. |
 | **83** | Duration of Houses | Rajya Sabha is a continuing House; as nearly as possible **one-third** of members retire every **second year**. Lok Sabha continues for **five years** from its first meeting unless sooner dissolved. During a Proclamation of Emergency, Parliament may by law extend the life of the Lok Sabha by **one year at a time**, not extending beyond six months after the Proclamation ceases. |
@@ -727,7 +727,7 @@ Also match: **V** Union · **VI** States · **VIII** UTs · **X** Scheduled & Tr
 | **245** | Extent of laws made by Parliament and by State Legislatures | Parliament may make laws for the whole or any part of India. A State Legislature may make laws for the whole or any part of the State. A law made by Parliament shall not be invalid because it would have extra-territorial operation. |
 | **246** | Subject-matter of laws made by Parliament and State Legislatures | **Seventh Schedule**: List I (Union), List II (State), List III (Concurrent). In case of overlap, Union power prevails subject to Art. **254** nuances on the Concurrent List. |
 | **248** | Residuary powers of legislation | Parliament has exclusive power to make any law with respect to any matter not enumerated in the Concurrent List or State List. Linked to Union List Entry **97**. |
-| **249** | Power of Parliament to legislate with respect to a matter in the State List in the national interest | If the Rajya Sabha passes a resolution supported by not less than **two-thirds** of the members **present and voting**, Parliament may legislate on that State List matter for the whole or any part of India. Such resolution remains in force for a period not exceeding **one year** and may be renewed. |
+| **249** | Power of Parliament to legislate with respect to a matter in the State List in the national interest | If the Rajya Sabha passes a resolution supported by not less than **two-thirds** (ते-भागा) of the members **present and voting**, Parliament may legislate on that State List matter for the whole or any part of India. Such resolution remains in force for a period not exceeding **one year** and may be renewed. |
 | **250** | Power of Parliament to legislate with respect to any matter in the State List if a Proclamation of Emergency is in operation | While a Proclamation of Emergency is in operation, Parliament may legislate for a State on State List matters. |
 | **252** | Power of Parliament to legislate for two or more States by consent | If the Legislatures of two or more States pass resolutions that Parliament should legislate on a State List matter, Parliament may do so for those States. Other States may adopt later by resolution. |
 | **253** | Legislation for giving effect to international agreements | Parliament may make any law for implementing any treaty, agreement or convention, or any decision at an international conference — even on a State List matter. |
@@ -747,7 +747,7 @@ Also match: **V** Union · **VI** States · **VIII** UTs · **X** Scheduled & Tr
 | **320** | Functions of Public Service Commissions | Conduct examinations for appointments. Consulted on recruitment methods, principles of appointment/promotion/transfer, suitability of candidates, disciplinary matters, and related claims — subject to regulations making exceptions. |
 | **323A** | Administrative tribunals | Parliament may by law provide for adjudication of disputes relating to recruitment and conditions of service of Union / State public servants. Basis of CAT / SATs. Part **XIVA** (42nd Amendment). |
 | **323B** | Tribunals for other matters | Appropriate Legislature may provide tribunals for tax, foreign exchange, industrial and labour disputes, land reforms, ceiling on urban property, elections to Legislature, and other listed matters. |
-| **324** | Superintendence, direction and control of elections | Vested in the **Election Commission** for elections to Parliament, State Legislatures, and offices of President and Vice-President. Commission consists of the Chief Election Commissioner and such number of other Election Commissioners as the President may fix. CEC removed like a Supreme Court Judge. |
+| **324** | Superintendence, direction and control of elections | Vested in the **Election Commission** (निर्वाचन आयोग) for elections to Parliament, State Legislatures, and offices of President and Vice-President. Commission consists of the Chief Election Commissioner and such number of other Election Commissioners as the President may fix. CEC removed like a Supreme Court Judge. |
 | **325** | No person to be ineligible for inclusion in, or to claim to be included in a special, electoral roll on grounds of religion, race, caste or sex | There shall be one general electoral roll for every territorial constituency. |
 | **326** | Elections to the House of the People and to the Legislative Assemblies of States to be on the basis of adult suffrage | Citizen of India, not less than **eighteen years** of age (reduced from 21 by the **61st Amendment**), and not otherwise disqualified. |
 | **329** | Bar to interference by courts in electoral matters | Validity of laws relating to delimitation or allotment of seats shall not be called in question in any court. No election to Parliament or a State Legislature shall be called in question except by an election petition presented to such authority and in such manner as Parliament may by law provide. |
@@ -949,7 +949,7 @@ D. 4, 2, 1, 3
 
 - Declaring a Fifth Schedule area does **not** strip the State of executive power; the Union does **not** take over total administration merely on the Governor’s recommendation.
 - *Samatha* (1997) held that transfer of tribal land in Scheduled Areas to private parties for mining is unconstitutional under the Fifth Schedule frame.
-- Ninth Schedule was added under PM **Jawaharlal Nehru** (1st Amendment, 1951) to protect land-reform / zamindari-abolition laws.
+- Ninth Schedule was added under PM **Jawaharlal Nehru** (जवाहरलाल नेहरू) (1st Amendment, 1951) to protect land-reform / zamindari-abolition laws.
 **PYQ — UPPCS Prelims 2019, Q31**
 
 Sixth Schedule is applicable in which of the following States?
@@ -3349,7 +3349,7 @@ D. Not specified in any list
 
 **Logic:** Economic planning = Concurrent.
 
-**Ans: C.** **Concurrent List**.
+**Ans: C.** **Concurrent List** (समवर्ती सूची).
 
 </details>
 

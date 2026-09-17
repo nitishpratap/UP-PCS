@@ -50,12 +50,12 @@
 9. **Article 258** lets the Union entrust functions to a State (usually with consent). **Article 258A** (7th Amendment) lets a State entrust functions to the Union. **Article 261** is full faith and credit for public acts, records, and judicial proceedings across India.
 10. All-India Services under **Article 312** need a Rajya Sabha resolution by **two-thirds present and voting**, then a Parliament law. The three AIS are **IAS, IPS, and IFoS** (IFoS from **1966**). **Article 312A** (28th Amendment) deals with ex-ICS officers.
 11. **Article 265** bars tax without authority of law. **Article 271** surcharge on certain Union taxes belongs to the **Union only** and is not shared. **Article 268** stamp duties are levied by the Union but collected by the States.
-12. The **Finance Commission (Article 280)** is appointed by the **President** every five years: a Chair and **four** other members. It reports to the **President**, not to NITI Aayog. Qualifications are fixed by Parliament through the **1951 Act**.
+12. The **Finance Commission (Article 280)** is appointed by the **President** every five years: a Chair and **four** (चातुर्याम) other members. It reports to the **President**, not to NITI Aayog. Qualifications are fixed by Parliament through the **1951 Act**.
 13. The first Finance Commission was chaired by **K.C. Neogy**. The **14th** Finance Commission set the States’ vertical share of the divisible pool at **42%**; the **15th** set it at **41%**. The **16th** is chaired by **Arvind Panagariya**.
 14. **Article 275** grants recommended by the Finance Commission are **charged** on the Consolidated Fund of India (with a tribal proviso). **Article 282** allows **discretionary** grants by the Union **or** a State for any public purpose — do not swap 275 and 282.
 15. A State cannot tax Union property (**285**). The Union cannot tax State property except as allowed (**289**). A State that is indebted to the Centre needs Union consent to borrow further (**293**).
 16. GST arrived through the **101st Amendment (2016)** and went live on **1 July 2017**. It is a dual tax (CGST + SGST / IGST) under **Article 246A**, **not** residuary Entry 97. **Liquor** stays out; **five petroleum** items stay out until the Council decides otherwise.
-17. The **GST Council (279A)** is chaired by the **Union Finance Minister**. Centre has **one-third** weight and States **two-thirds**; decisions need **three-fourths** weighted majority; quorum is **half**. Recommendations are not strictly binding (*Mohit Minerals*, 2022).
+17. The **GST Council (279A)** is chaired by the **Union Finance Minister**. Centre has **one-third** weight and States **two-thirds** (ते-भागा); decisions need **three-fourths** weighted majority; quorum is **half**. Recommendations are not strictly binding (*Mohit Minerals*, 2022).
 18. **Article 301** guarantees freedom of trade, commerce, and intercourse throughout India; it is **not** a Fundamental Right under Article 19. Parliament may restrict under **302**. A State restriction under **304(b)** needs **previous Presidential sanction**.
 19. Inter-State migration and inter-State quarantine sit in **Union List Entry 81**, not the State List.
 20. The **Inter-State Council (Article 263)** is constitutional: the President **may** establish it; the **1990** order did so on **Sarkaria** advice; the **Prime Minister** chairs; it is recommendatory. Do not credit Punchhi for creating it.
@@ -65,7 +65,7 @@
 24. **Article 131** is the Supreme Court’s exclusive original jurisdiction for Union–State or inter-State disputes involving a **legal right**. Private parties are out. River water is out where barred. Faith-and-credit is **261**, not 131.
 25. **Rajamannar (1969, Tamil Nadu)** wanted residuary powers with States, abolition of All-India Services, and repeal of **356**. **Sarkaria (1983–88)** backed a strong Centre, keeping AIS and 356, and creating the Inter-State Council.
 26. **Punchhi (2007–10)** came after Sarkaria. It favoured localising **356**, strengthening the Inter-State Council, and time-capping bills under **Article 201**.
-27. NITI Aayog (**2015**) replaced the **Planning Commission**. It did **not** replace the Finance Commission under **Article 280**. NITI is the SDG nodal body; it does not allocate the old Plan funds and does not report as if it were the FC.
+27. NITI Aayog (**2015**) replaced the **Planning Commission** (योजना आयोग). It did **not** replace the Finance Commission under **Article 280**. NITI is the SDG nodal body; it does not allocate the old Plan funds and does not report as if it were the FC.
 28. The **42nd Amendment** moved **five** subjects from the State List to the Concurrent List.
 29. Profession tax under **Article 276** has a constitutional ceiling (figure **₹2,500** after the **60th Amendment**). Jute export-duty grants under **273** go to Assam, Bihar, Odisha, and West Bengal.
 30. Border and inter-State settlements are often political (Union Home Minister plus Chief Ministers), not automatic **Article 131** cases. Read whether a **legal right** is pleaded before jumping to the Supreme Court’s original jurisdiction.
@@ -143,7 +143,7 @@ India is **federal with a Unitary bias**. Operating rules:
 - **246A (101st Amendment, 2016):** Concurrent GST power for Parliament and State legislatures, **notwithstanding** Arts. **246** and **254**. Clause (2) keeps **exclusive** Union power for GST on **inter-State** supply (paired with **Art. 269A**).
 - **247:** Parliament may create extra courts for better Union-law administration.
 - **248:** Residuary (including residuary **taxation**) is **Parliament’s** — paired with Union List **Entry 97**. Cyber law, space research, and similar unforeseen heads sit here.
-- **249:** RS resolution — **2/3 of members present and voting** that it is necessary in the **national interest** → Parliament may make law on a **State List** item (and, after the 101st, also on GST under **246A** in that frame). Resolution lasts **1 year** (re-passable 1 year at a time). Law dies **6 months** after the resolution expires.
+- **249:** RS resolution — **2/3 of members present and voting** that it is necessary in the **national interest** → Parliament may make law on a **State List** (राज्य सूची) item (and, after the 101st, also on GST under **246A** in that frame). Resolution lasts **1 year** (re-passable 1 year at a time). Law dies **6 months** after the resolution expires.
 - **250:** While a Proclamation of Emergency is in force, Parliament may legislate on **any State List** item (and GST under **246A**). Law dies **6 months** after Emergency ends.
 - **251:** If a 249/250 Union law clashes with a State law, **Union prevails**; the State law revives after the Union law ends, minus the inconsistency.
 - **252:Two or more** State legislatures **pass resolutions** requesting Parliament. Law applies only to them; **other States may adopt** by resolution. **Amend / repeal = Parliament only**, not the State.
@@ -305,7 +305,7 @@ D. Anti-Defection — Tenth Schedule
 - **Single** judiciary — State HCs apply Union+State law; SC on top.
 - **All-India Services** (next home) — one cadre, two masters.
 - **CAG** audits Union **and** States.
-- Extra-constitutional coordination: **NITI Aayog** (1 Jan **2015**, replaced Planning Commission) — Governing Council of CMs; **NDC** (1952, extra-constitutional, PM + CMs — largely moribund after NITI). **ISC / Zonal Councils** — own homes below.
+- Extra-constitutional coordination: **NITI Aayog** (नीति आयोग) (1 Jan **2015**, replaced Planning Commission) — Governing Council of CMs; **NDC** (1952, extra-constitutional, PM + CMs — largely moribund after NITI). **ISC / Zonal Councils** — own homes below.
 
 > **Logic:** 258(1) needs **consent**; 258(2) does **not**. 258A is the **mirror** (State → Union) and is **not** original — **7th Amd**. NITI / NDC are **not** Art. 263.
 
@@ -323,14 +323,14 @@ D. Anti-Defection — Tenth Schedule
 
 ## All-India Services (Art. 312)
 
-**One cadre, two masters** — created only after a **Rajya Sabha** resolution; existing three are **IAS · IPS · IFoS**.
+**One cadre, two masters** — created only after a **Rajya Sabha** (राज्यसभा) resolution; existing three are **IAS · IPS · IFoS**.
 
 - **Existing three:IAS · IPS · Indian Forest Service (IFoS)** — there is **no fourth** AIS yet.
 - **Statute:All-India Services Act, 1951** (IAS & IPS). **IFoS** created **1966** under 312 (RS resolution + law).
 - **Ancestor:ICS / IP** (colonial). IAS/IPS successor services from commencement.
 - **Create a new AIS:Rajya Sabha** resolution that it is necessary / expedient in the **national interest** → **Parliament** may then provide by law.
-- **Majority:Not less than two-thirds of members present and voting** — **not** 2/3 of **total membership** (2025).
-- **Control:Dual** — Union (cadre rules, discipline, **UPSC** recruitment, batch) + State (day-to-day posting). Centre can **suspend / dismiss** with procedure; State cannot unilaterally kill the cadre.
+- **Majority:Not less than two-thirds of members present and voting** — **not** 2/3 of **total membership** (सदन की कुल सदस्य संख्या का) (2025).
+- **Control:Dual** — Union (cadre rules, discipline, **UPSC** (संघ लोक सेवा आयोग) recruitment, batch) + State (day-to-day posting). Centre can **suspend / dismiss** with procedure; State cannot unilaterally kill the cadre.
 - **312A:28th Amendment (1972)** — Parliament may vary / revoke **ICS** officers’ conditions of service (old covenant). Not a fourth AIS.
 - **AIJS:** Also under **312** — **not created**.
 - **Exclusive RS:** Creation trigger is **Rajya Sabha-only** (2018). Lok Sabha cannot start it.
@@ -812,13 +812,13 @@ D. Union Home Minister and Chief Ministers of Assam and Meghalaya
 Union Commission on Centre–State Relations. Chair: Justice **R.S. Sarkaria**. Members: **B. Sivaraman**, **Dr S.R. Sen**. Report **1988**. About **247** recommendations. **Cooperative federalism with a strong Centre** — the opposite pole to Rajamannar.
 
 - A **strong Centre** is **necessary**; India is not the USA.
-- **Residuary** power should stay with the **Union**.
+- **Residuary** (अवशिष्ट) power should stay with the **Union**.
 - **All-India Services** should continue under dual control.
 - The **Inter-State Council** should be set up under Art. **263** and preferably styled an **Inter-Governmental Council** — implemented on **28 May 1990** (2021 PYQ).
 - Keep Art. **356**, but only as a **last resort**.
 - Before 356: give a warning, hold a **floor test**, and put **material facts** in the proclamation — not for partisan use (*Bommai* later judicialised this).
 - The Governor should be an eminent person from **outside** the State; the Centre should **consult the CM**; the Governor should not be a party worker on a mission.
-- The Centre should **consult States** before legislating on the **Concurrent List**.
+- The Centre should **consult States** before legislating on the **Concurrent List** (समवर्ती सूची).
 - **Zonal Councils** should be activated.
 - The President should not sit endlessly on reserved State Bills.
 
@@ -838,7 +838,7 @@ Union Commission on Centre–State Relations. Chair: Justice **M.M. Punchhi** (f
 - Consult States when a **treaty** hits the **State List**.
 - Strengthen National Integration Council / internal-security coordination with States (NCTC debate).
 
-> **Logic:** Punchhi = **procedure**, not Rajamannar’s repeal list. “Local emergency” and “201 time-cap” are Punchhi tags.
+> **Logic:** Punchhi = **procedure** (प्रक्रिया), not Rajamannar’s repeal list. “Local emergency” and “201 time-cap” are Punchhi tags.
 
 ### Who wanted what (one line)
 

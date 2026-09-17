@@ -1,4 +1,4 @@
-# Topic 39 — Acid Rain
+# Topic 39 — Acid Rain (अम्ल वर्षा)
 ### ★ UPPCS Revision Sheet — Lucent-style (no repetition · Practice ≥25)
 
 <details>
@@ -17,14 +17,14 @@ Acid Rain | Causes | Effects | Prevention
 ## Current Affairs (this topic)
 
 - Twin of Acid Rain core — chemistry fixed; rare CA only.
-- Acid rain ≠ photochemical smog ≠ ozone depletion.
+- Acid rain ≠ photochemical smog ≠ ozone depletion (ओजोन क्षरण).
 
 ---
 
 ## Consolidated — 22 Must-Score Facts
 
 1. **Acid rain** means acidic deposition with **pH below 5.6**.
-2. Normal rain is already slightly acidic near **pH 5.6** because CO₂ forms weak carbonic acid. It is **not** pH 7.
+2. Normal rain (सामान्य वर्षा) is already slightly acidic near **pH 5.6** because CO₂ forms weak carbonic acid. It is **not** pH 7.
 3. **Wet deposition** arrives with rain, snow, or fog. **Dry deposition** settles as acidic gases or particles without rain.
 4. The main strong acid pathway is **SO₂ → H₂SO₄**. **NOx → HNO₃** is the other major path.
 5. **CO₂ → H₂CO₃** sets the weak baseline. Carbon dioxide alone is **not** the main culprit of severe acid rain.
@@ -34,7 +34,7 @@ Acid Rain | Causes | Effects | Prevention
 9. Acid deposition harms conifers and weathers marble and limestone. The Taj marble → **gypsum** story is the classic Indian fact.
 10. Prevention tools include **FGD**, catalytic converters, cleaner fuel norms such as **BS-VI**, and regional protocols.
 11. The **Gothenburg Protocol / CLRTAP** family targets acidifying air pollutants. **Montreal** targets ozone ODS — different problem.
-12. The **Taj Trapezium** is the pollution-control belt designed to protect the Taj Mahal.
+12. The **Taj Trapezium** is the pollution-control belt designed to protect the Taj Mahal (ताज महल).
 13. SO₂ is denser than air and can travel long distances before deposition.
 14. Acid rain is a **secondary-pollutant** story built from primary SO₂ and NOx emissions.
 15. Coal power and some industries are major SO₂ sources. Vehicles and combustion add NOx.
@@ -79,7 +79,7 @@ Acid Rain | Causes | Effects | Prevention
 
 **Identity:** pH < 5.6 | H₂SO₄ + HNO₃ | Wet + dry | Secondary pollutant
 
-- **Acid rain** means precipitation or atmospheric deposition with **pH below 5.6**, mainly from **sulphuric acid (H₂SO₄)** and **nitric acid (HNO₃)**.
+- **Acid rain** means precipitation or atmospheric deposition with **pH below 5.6**, mainly from **sulphuric acid (H₂SO₄)** and **nitric acid (HNO₃)** (नाइट्रिक अम्ल).
 - **Normal unpolluted rain** is already slightly acidic (~**pH 5.6**) because **CO₂** forms weak **carbonic acid (H₂CO₃)** — it is **not** pH 7.
 - Anthropogenic episodes can fall to about **pH 4.0–4.5** (or lower in extreme cases).
 - Includes **wet deposition** (rain, snow, fog) and **dry deposition** (acidic gases/particles settling without rain).
@@ -132,13 +132,13 @@ Options: A. Both true; R explains A B. A false, R true C. Both true; R not expla
 - Natural sources (volcanoes for SO₂; lightning for NOx) exist but are minor versus anthropogenic loads in industrial regions.
 - **CO₂** only sets the weak baseline (~5.6); it is **not** the main cause of damaging acid rain.
 - **SO₂ is heavier than air** and can linger near ground-level sources.
-- India/UP hotspots: Singrauli thermal belt, Mathura refinery–Agra corridor, industrial NCR/Kanpur airsheds.
+- India/UP hotspots: Singrauli thermal belt, Mathura (मथुरा) refinery–Agra corridor, industrial NCR/Kanpur (कानपुर) airsheds.
 
 **PYQ — UPPCS Prelims 2025, Q43 (pattern)**
 
 Gases lighter than air among listed options — only **helium** fits; **SO₂ and HCl are heavier**.
 
-> **Logic:** SO₂ sinks relative to air — density trap.
+> **Logic:** SO₂ sinks relative (सापेक्ष) to air — density trap.
 
 ---
 
@@ -149,7 +149,7 @@ Gases lighter than air among listed options — only **helium** fits; **SO₂ an
 - Freshwater life fails when pH falls below about **5.0** — fish eggs and many aquatic species die; toxic **Al³⁺** is mobilised.
 - Soils lose **Ca²⁺/Mg²⁺** nutrients and gain toxic aluminium, damaging roots.
 - **Conifers** (pine, spruce) are especially sensitive to acid fog and soil change.
-- Marble/limestone monuments: **CaCO₃ + acid → gypsum (CaSO₄·2H₂O) crust** — classic **Taj Mahal** yellowing/damage.
+- Marble/limestone monuments: **CaCO₃ + acid → gypsum (CaSO₄·2H₂O) crust** — classic **Taj Mahal** (ताज महल) yellowing/damage.
 - Taj damage is linked to **SO₂** from Mathura refinery and nearby industries, plus particulates.
 - Human health: SO₂/NOx and acid aerosols irritate lungs.
 - **Lichens** die in high-SO₂ air and act as pollution bio-indicators (Topic 38 crossover).
@@ -173,8 +173,8 @@ Gases lighter than air among listed options — only **helium** fits; **SO₂ an
 - **Flue Gas Desulphurisation (FGD)** scrubbers use lime/limestone to cut SO₂ from power-plant stacks.
 - Vehicle **catalytic converters** and cleaner fuels cut NOx; **BS-VI** fuel has very low sulphur (~**10 ppm**).
 - Switch from coal/diesel to **CNG/LPG/renewables** reduces acidifying emissions.
-- CPCB emission standards and consents limit SO₂/NOx from industry.
-- International: **Gothenburg Protocol (1999)** under **CLRTAP** targets acidifying and related air pollutants — **not** the Montreal Protocol (ozone).
+- CPCB (केंद्रीय प्रदूषण नियंत्रण बोर्ड) emission standards and consents limit SO₂/NOx from industry.
+- International: **Gothenburg Protocol (1999)** (गोथेनबर्ग प्रोटोकॉल) under **CLRTAP** targets acidifying and related air pollutants — **not** the Montreal Protocol (मॉन्ट्रियल प्रोटोकॉल) (ozone).
 - **Taj Trapezium Zone (~10,400 km²)** — Supreme Court-driven controls (1996 onward) forced gas switch/relocation of polluting units around Agra.
 
 | Tool | Cuts |

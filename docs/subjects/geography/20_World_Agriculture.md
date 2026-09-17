@@ -5,7 +5,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Agriculture systems | Whittlesey regions | Cereals | Fibres / sugar / oilseeds | Plantation (tea, coffee, cocoa, rubber) | Livestock | Shifting cultivation | Green Revolution / FAO | Von Thünen
+Agriculture systems | Whittlesey regions | Cereals | Fibres / sugar / oilseeds | Plantation (tea, coffee, cocoa, rubber) | Livestock | Shifting cultivation | Green Revolution (हरित क्रांति) / FAO | Von Thünen
 
 </details>
 
@@ -28,23 +28,23 @@ None mandatory. If a paper quotes a **year** (e.g. 2016 coffee), freeze **that**
 
 1. In plantation MCQs the classic plantation crop is **tea**, not wheat, rice, or maize. Plantation means estate, capital, monoculture, hired labour, and export.
 2. Coffee producer order often taught for **2016** is **Brazil > Vietnam > Colombia > Indonesia**. Brazil is mainly **arabica** on Terra Roxa; Vietnam is bulk **robusta**.
-3. Major cocoa producers are **Côte d’Ivoire, Ghana, and Cameroon**. **Latvia** is not a cocoa producer. Cocoa originated in the Amazon.
+3. Major cocoa producers are **Côte d’Ivoire, Ghana (घन), and Cameroon**. **Latvia** is not a cocoa producer. Cocoa originated in the Amazon.
 4. India’s rubber fact is **Kerala**. Rubber (*Hevea*) originated in the Amazon and moved to South-East Asia. Malaysia’s **Kinta Valley** is **tin**, not rubber.
 5. Shifting-cultivation names: **Jhum** (NE India), **Podu** (Andhra/Odisha), **Ladang** (Malaysia), **Milpa** (Mexico), **Roca** (Brazil), **Chena** (Sri Lanka), **Caingin** (Philippines).
 6. The world **citrus** belt is **Mediterranean**, not equatorial.
-7. Philippines cane and coconut history fact: **Spanish and Americans**.
+7. Philippines cane and coconut history (इतिहास) fact: **Spanish and Americans**.
 8. Wrong Indian crop–state dumps include Gujarat–tea, UP–jute, and Assam–wheat. The right fact is **Kerala–rubber** (and Assam for tea volume).
 9. **Oil palm** majors are **Indonesia and Malaysia**. **Olive** majors are Spain, Italy, and Greece.
 10. World **sugarcane** leader is **Brazil**. **Sugar beet** belongs to temperate **Europe**.
 11. For rice and wheat, **China and India** lead in **volume**, but classic **exporters** are often other countries (Thailand/Vietnam for rice; Russia/USA/Canada and others for wheat).
-12. **Intensive subsistence** = monsoon wet rice. **Extensive commercial** = Prairie/Pampas wheat. **Mixed farming** = crops plus livestock (West Europe / US Midwest).
+12. **Intensive subsistence** = monsoon wet rice. **Extensive commercial** = Prairie (प्रेयरी)/Pampas wheat. **Mixed farming** = crops plus livestock (West Europe / US Midwest).
 13. **Black tea** is fermented; **green tea** is not. The pluck fact is **two leaves and a bud**. Tea likes **20–30°C**, **150–300 cm** rain, slope, and acid soil.
 14. **IRRI** is in the Philippines. Borlaug’s Nobel was for **Peace**. **FAO** HQ is **Rome**.
 15. Banana: India produces heavily; **Ecuador** is a classic shipper. Silk and wool volume often centres on **China**; Australia is famous for **Merino** wool.
 16. Soy export triangle = **USA–Brazil–Argentina**. India leads world **milk volume**; New Zealand and the Netherlands dominate the dairy-export story.
 17. **Von Thünen** is market rings around a city. **Whittlesey** is the thirteen world agricultural types — do not merge the two models.
 18. Five Mediterranean **west coasts** carry the citrus / vine / olive world belt.
-19. Maize fact: **US Corn Belt**; USA > China > Brazil in volume. Long-staple cotton = Egypt/Sudan; short staple = India–Pakistan belt.
+19. Maize fact: **US Corn Belt**; USA > China > Brazil in volume. Long-staple cotton = Egypt (मिस्र)/Sudan; short staple = India–Pakistan belt.
 20. Ranching belts include Pampas, Prairie, Veld, and Downs. Shifting cultivation is humid-tropics slash-and-burn with short crop years and long fallow.
 21. **Golden Crescent** = Afghanistan–Iran–Pakistan opium. **Shahtoosh** = Chiru. **Fazenda** = Brazil plantation (not jhum). **Taungya** = Myanmar. **Mocha** = Yemen; **Kona** = Hawaii.
 22. Apiculture = bees; viticulture = grapes; olericulture = vegetables. India often leads milk + banana + castor; China tea/tobacco/silk; Brazil cane + coffee #1; Thailand rubber.
@@ -156,7 +156,7 @@ Agriculture is the primary activity that raises crops and/or animals. Teaching f
 | **Sedentary** | Same fields year after year | Most of Eurasia |
 | **Nomadic / shifting** | People or plots **move** | Sahara herders; Amazon/Congo jhum |
 
-**Intensive vs extensive (do not swap)**
+**Intensive vs extensive (सघन) (do not swap)**
 
 | | Intensive subsistence | Extensive commercial grain |
 |--|----------------------|----------------------------|
@@ -164,7 +164,7 @@ Agriculture is the primary activity that raises crops and/or animals. Teaching f
 | Labour | Family, high per ha | Machines, low per ha |
 | Capital | Low–medium | High (machines, silos) |
 | Crop | Rice (wet) or wheat–millets | Wheat, maize |
-| Where | E / S / SE Asia | Prairies, Pampas, Downs, Ukraine–Russia steppe |
+| Where | E / S / SE Asia | Prairies, Pampas, Downs, Ukraine–Russia steppe (स्टेपी) |
 | Surplus | Thin; local markets | Export belt |
 
 **Other named systems (one home each)**
@@ -172,10 +172,10 @@ Agriculture is the primary activity that raises crops and/or animals. Teaching f
 | System | Climate / where | What is grown / raised | Note |
 |--------|-----------------|------------------------|------------|
 | **Mixed farming** | W Europe, US Midwest | Crops **+** livestock on the **same** farm | Fodder rotation; manure; not “only wheat” |
-| **Dairy farming** | NW Europe, Great Lakes, NZ, Denmark, Netherlands | Milk, butter, cheese | Mild climate + fodder + urban market; New Zealand is classic grass-export dairy |
+| **Dairy farming** | NW Europe, Great Lakes, NZ, Denmark, Netherlands | Milk, butter, cheese | Mild climate + fodder + urban (नगरीय) market; New Zealand is classic grass-export dairy |
 | **Mediterranean** | 30–45° **west coasts** (five patches) | **Citrus, vine, olive**, winter wheat, vegetables | Winter rain + dry bright summer (2020 citrus answer **C**) |
 | **Livestock ranching** | Pampas, W USA Prairie, Australian Downs, S African Veld | Cattle / sheep, **commercial** | Not nomadic herding (that is subsistence) |
-| **Nomadic herding** | Sahara–Arabia–C Asia–tundra | Camel, sheep, yak, reindeer | Moves with pasture; low density |
+| **Nomadic herding** | Sahara–Arabia–C Asia–tundra (टुंड्रा) | Camel, sheep, yak, reindeer | Moves with pasture; low density |
 | **Truck / market gardening** | Urban fringes | Vegetables, fruit, flowers | High value, perishable, near city |
 | **Horticulture** | Med + hill + greenhouse | Fruit, veg, flowers | Viticulture means **grape / wine** |
 | **Plantation** | Humid tropics | Tea, coffee, cocoa, rubber, cane, oil palm, banana, coconut, spices | Humid-tropic estate monoculture |
@@ -198,7 +198,7 @@ Agriculture is the primary activity that raises crops and/or animals. Teaching f
 | **Apiculture** | Bees / honey |
 | **Floriculture** | Flowers (Netherlands auction) |
 
-The plantation crop fact is **Tea** (not wheat, rice or maize). The world citrus belt is **Mediterranean**, not equatorial and not Kangra / Pir Panjal as the *world* answer.
+The plantation crop fact is **Tea** (not wheat, rice or maize). The world citrus belt is **Mediterranean**, not equatorial and not Kangra (कांगड़ा) / Pir (पीर) Panjal (पीर पंजाल) as the *world* answer.
 
 **Inline PYQ — UPPCS Prelims 2024, Q34**
 
@@ -227,9 +227,9 @@ In which of the following regions of the world, the production of citrus fruits 
 
 **Options:**
 
-A. Between Kangra and Dhauladhar ranges
+A. Between Kangra and Dhauladhar (धौलाधार) ranges
 
-B. Between Pir Panjal and Himadri ranges
+B. Between Pir Panjal and Himadri (हिमाद्रि) ranges
 
 C. Mediterranean regions
 
@@ -268,7 +268,7 @@ Derwent **Whittlesey (1936)** — standard 13-type world map. Learn **region + c
 
 | Patch | Where |
 |-------|-------|
-| 1 | Mediterranean Sea basin (Spain, Italy, Greece, Levant, Maghreb) |
+| 1 | Mediterranean Sea basin (Spain, Italy, Greece, Levant (लेवेंट), Maghreb) |
 | 2 | California |
 | 3 | Central Chile |
 | 4 | Cape of South Africa |
@@ -294,7 +294,7 @@ Ranks **move**. Freeze a year only when the paper quotes it. Learn **climate + b
 
 ### Rice
 
-Rice needs heat plus moisture. Temperature is about **20–27°C**. Rain is about **100–200 cm**, or irrigation. **Clayey alluvial** soil that puddles is typical, with standing water.
+Rice needs heat plus moisture. Temperature is about **20–27°C**. Rain is about **100–200 cm**, or irrigation. **Clayey alluvial (जलोढ़)** soil that puddles is typical, with standing water.
 - World’s main **calorie crop** for the largest number of people.
 - Types include **Indica** (South / South-East Asia, long grain), **Japonica** (Japan, Korea, North China — stickier), and **Javanica** (Indonesia).
 - The **IRRI** (International Rice Research Institute) sits at **Los Baños, Philippines**. It drove HYV rice of the Green Revolution.
@@ -309,7 +309,7 @@ Rice needs heat plus moisture. Temperature is about **20–27°C**. Rain is abou
 ### Wheat
 
 - Cool growing season (**~10–15°C**), bright ripening (**~20–25°C**). Rain **~50–75 cm**. Well-drained loam. Frost at ripening spoils grain.
-- **Winter wheat** is sown autumn, survives mild winter (USA south, Europe, N India rabi).
+- **Winter wheat** is sown autumn, survives mild winter (USA south, Europe, N India rabi (रबी)).
 - **Spring wheat** is sown spring in **harsh-winter** belts (Canadian Prairie, Siberia).
 - **Durum** is hard wheat for **pasta** (Mediterranean).
 
@@ -338,7 +338,7 @@ Rice needs heat plus moisture. Temperature is about **20–27°C**. Rain is abou
 
 ### Millets / coarse grains
 
-- Drought belts of **Africa and India** grow sorghum, pearl millet and finger millet. The climate fact is **low rain**, not 200 cm tea slopes.
+- Drought (सूखा) belts of **Africa and India** grow sorghum, pearl millet and finger millet. The climate fact is **low rain**, not 200 cm tea slopes.
 
 ---
 
@@ -355,7 +355,7 @@ Rice needs heat plus moisture. Temperature is about **20–27°C**. Rain is abou
 
 ### Jute (“golden fibre”)
 
-- Hot humid **~25–35°C**, rain **~150–200 cm**, Ganga–Brahmaputra **alluvium**.
+- Hot humid **~25–35°C**, rain **~150–200 cm**, Ganga (गंगा)–Brahmaputra (ब्रह्मपुत्र) **alluvium**.
 - World jute is almost entirely **India and Bangladesh**. Do not treat UP as a jute state (2022 trap).
 
 ### Sugarcane vs sugar beet
@@ -363,7 +363,7 @@ Rice needs heat plus moisture. Temperature is about **20–27°C**. Rain is abou
 | | Sugarcane | Sugar beet |
 |--|-----------|------------|
 | Climate | Tropical; long season **10–18 months**; frost-free | Temperate; **4–7 months** |
-| Rain / water | **~75–150 cm** or irrigation | Moderate rain; Europe plains |
+| Rain / water | **~75–150 cm** or irrigation | Moderate (नरम दल) rain; Europe plains |
 | World centre | **Brazil** (also ethanol from cane) | **France, Germany, Russia, Ukraine, USA** |
 | Asia names | India, China, Thailand, Pakistan | Not a Kerala crop |
 
@@ -390,7 +390,7 @@ Rice needs heat plus moisture. Temperature is about **20–27°C**. Rain is abou
 | Organisation | **Estate** (large), often colonial origin |
 | Capital + labour | High capital; **hired** labour (not only family) |
 | Crop | **Monoculture** for **export** |
-| Processing | Factory on or near the estate (tea factory, rubber smoke-house, sugar mill) |
+| Processing | Factory (फैक्टरी) on or near the estate (tea factory, rubber smoke-house, sugar mill) |
 | Classic list | **Tea, coffee, cocoa, rubber, sugarcane, banana, oil palm, coconut, spices** |
 | Not plantation | Wheat, rice, maize as the *predominant* system |
 
@@ -398,10 +398,10 @@ Rice needs heat plus moisture. Temperature is about **20–27°C**. Rain is abou
 
 | Crop | India | Do not write |
 |------|------------|--------------|
-| Tea | Assam (volume), WB Darjeeling, Nilgiri | Gujarat — Tea |
-| Coffee | Karnataka > Kerala > Tamil Nadu (shade, Western Ghats) | Assam as coffee king |
+| Tea | Assam (volume), WB Darjeeling, Nilgiri (नीलगिरि) | Gujarat — Tea |
+| Coffee | Karnataka > Kerala > Tamil Nadu (shade, Western Ghats (पश्चिमी घाट)) | Assam as coffee king |
 | Rubber | **Kerala** (Kottayam–Ernakulam) | Assam — Wheat; UP — Jute |
-| Spices | Kerala pepper + cardamom | |
+| Spices | Kerala pepper (काली मिर्च) + cardamom | |
 | Coconut | Kerala–TN–Karnataka coast | Philippines is the *world* Spanish–US story |
 | Banana | India = huge **producer**; **Ecuador** = classic **exporter** | India = world’s banana-ship king |
 
@@ -424,7 +424,7 @@ Which one of the following is correctly matched?
 
 A. Gujarat — Tea
 
-B. Uttar Pradesh — Jute
+B. Uttar Pradesh (उत्तर प्रदेश) — Jute
 
 C. Kerala — Rubber
 
@@ -454,7 +454,7 @@ D. Spanish and Americans
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Spanish colony then US period. Dutch = Indonesia; British = India/Malaya; French = Indochina.
+**Ans: D** — Spanish colony (उपनिवेश) then US period. Dutch = Indonesia; British = India/Malaya; French = Indochina.
 
 </details>
 
@@ -465,7 +465,7 @@ D. Spanish and Americans
 **Bush** *Camellia sinensis*. Wants **20–30°C**, **150–300 cm** well-distributed rain, **well-drained slopes** (water must **not** stagnate), **acidic** soil (about pH 4.5–5.5), cheap skilled **plucking**.
 
 - Pluck means **two leaves and a bud**.
-- Tea needs hill slopes, monsoon rain and drainage. It is **not** a desert crop. It is **not** a zaid melon.
+- Tea needs hill slopes, monsoon rain and drainage. It is **not** a desert crop. It is **not** a zaid (जायद) melon.
 
 | Type | Processing | Where the puts it |
 |------|------------|------------------------|
@@ -477,7 +477,7 @@ D. Spanish and Americans
 | Region | Fact |
 |--------|------|
 | **China** | Usual **largest producer**; original home; green tea |
-| **India** | **Assam** (Brahmaputra valley — **volume**), **Darjeeling** (GI, hill, orthodox), **Dooars/Terai**, **Nilgiri**, Kangra, Munnar |
+| **India** | **Assam** (Brahmaputra valley — **volume**), **Darjeeling** (GI, hill, orthodox), **Dooars/Terai (तराई)**, **Nilgiri** (नीलगिरि), Kangra, Munnar |
 | **Sri Lanka** | “**Ceylon** tea”; central highlands; high / mid / low grown |
 | **Kenya** | Leading **African** name; often among top **exporters**; highland |
 | Indonesia, Vietnam, Bangladesh, Turkey | Also revise |
@@ -502,10 +502,10 @@ D. Spanish and Americans
 |---------|------------|
 | **Brazil** | Usual **#1**. São Paulo–Minas–Paraná highlands. **Terra Roxa** soil. Mostly **arabica** |
 | **Vietnam** | **#2** in the 2016 fact. **Robusta** bulk. Central Highlands. Trap = putting it first |
-| **Colombia** | Mild **arabica**; **third** in 2016 four |
+| **Colombia** | Mild **arabica**; **third** in 2016 four (चातुर्याम) |
 | **Indonesia** | Sumatra / Java / Sulawesi; **fourth** in 2016 four |
 | **Ethiopia** | **Origin** story of arabica — **not** the 2016 tonnage king |
-| **India** | Karnataka (**Kodagu, Chikmagalur, Hassan**) > Kerala (Wayanad) > Tamil Nadu (Nilgiri). Shade often **silver oak** |
+| **India** | Karnataka (**Kodagu, Chikmagalur, Hassan**) > Kerala (Wayanad) > Tamil Nadu (Nilgiri). Shade often **silver (रूपक) oak** |
 
 **Coffee rust** (*Hemileia vastatrix*) is a famous plantation disease. The Ceylon tea-shift story is linked to this rust.
 
@@ -546,7 +546,7 @@ Trap **D** puts Colombia second. Trap **C** starts with Vietnam.
 | Country | Fact |
 |---------|------|
 | **Côte d’Ivoire (Ivory Coast)** | World’s usual **#1** |
-| **Ghana** | #2 belt; quality name |
+| **Ghana** (घन) | #2 belt; quality name |
 | **Cameroon** | Major (2021 list) |
 | Nigeria | West African belt |
 | Indonesia, Ecuador, Brazil | New World / SE Asia |
@@ -577,7 +577,7 @@ D. Ivory Coast
 
 ## N.9 Rubber
 
-**Tree** *Hevea brasiliensis* (Euphorbiaceae). Origin is the **Amazon**. It wants **25–35°C**, **>200 cm** rain evenly spread, high humidity, **no frost**, laterite or alluvial soil, and tapping labour.
+**Tree** *Hevea brasiliensis* (Euphorbiaceae). Origin is the **Amazon**. It wants **25–35°C**, **>200 cm** rain evenly spread, high humidity, **no frost**, laterite (लेटराइट) or alluvial soil, and tapping labour.
 
 - Latex comes from **tapping** the bark. The tree takes about **6–7 years** to come into tapping.
 - **Henry Wickham** took seeds from the Amazon to Kew, then to Ceylon / Malaya (1870s). The production belt then **moved to South-East Asia**. Brazil is the origin, **not** today’s tonnage king.
@@ -625,7 +625,7 @@ D. Coffee Production
 | **Oil palm** | Equatorial, high rain | **Indonesia + Malaysia** | Latvia / Kerala-only |
 | **Banana** | Hot, wet, frost-free | India = huge **producer**; **Ecuador** (also Philippines, Costa Rica) = **export** | Equating producer with exporter |
 | **Coconut** | Coastal tropics | Indonesia, Philippines, India | Philippines development = **Spanish and Americans** |
-| **Pepper** | Hot, wet vine | Vietnam / India / Indonesia (ranks move) | “Only Kerala in the world” |
+| **Pepper** (काली मिर्च) | Hot, wet vine | Vietnam / India / Indonesia (ranks move) | “Only Kerala in the world” |
 | **Cardamom** | Humid hills | Guatemala + India (Kerala–Karnataka) | |
 | **Clove / nutmeg** | Equatorial islands | Indonesia (Maluku / “Spice Islands”) | |
 | **Tobacco** | Warm, frost-careful | China, Brazil, India, USA | Not a slope-tea crop |
@@ -671,7 +671,7 @@ They crop the plot for about **1–3 years**, then leave it **fallow** so forest
 | **Penda** | Chhattisgarh / Bastar |
 | **Kuruwa** | Jharkhand |
 | **Kumari** | Western Ghats / Kerala hills |
-| **Khil** | Himalaya |
+| **Khil** | Himalaya (हिमालय) |
 | **Valre / waltre** | SE Rajasthan |
 | **Bringa / koman** | Odisha pockets |
 
@@ -696,13 +696,13 @@ Humid tropics: Amazon, Congo, SE Asia hills, NE India, Central America.
 
 ## N.13 World Green Revolution and FAO (short)
 
-The **Green Revolution** is the mid-20th-century package of high-yielding varieties, irrigation, fertiliser and plant protection that raised cereal output in many countries.
+The **Green Revolution** (हरित क्रांति) is the mid-20th-century package of high-yielding varieties, irrigation, fertiliser and plant protection that raised cereal output in many countries.
 
 - The package logic is the same worldwide: **HYV seeds + water + fertiliser + pesticide**.
 - **Norman Borlaug** led the wheat breakthrough at **CIMMYT in Mexico** and won the **Nobel Peace Prize in 1970** (not a “Nobel in Agriculture”).
 - High-yield **wheat** spread from Mexico into India and Pakistan.
 - High-yield **rice** centres on **IRRI at Los Baños, Philippines**, with IR8 as the classic early variety across Asia.
-- The **Food and Agriculture Organization (FAO)** is the UN food body with headquarters in **Rome**.
+- The **Food and Agriculture Organization (FAO)** (एफएओ) is the UN food body with headquarters in **Rome**.
 - **World Food Day** is observed on **16 October**.
 - **Golden rice** is genetically enriched for **Vitamin A** — a frequent correct pair in coaching keys.
 
@@ -749,15 +749,15 @@ India’s state-wise GR belt (Punjab–Haryana–western UP) is an India-agricul
 
 | Note | Fact |
 |-----|------|
-| **Mocha** coffee | **Yemen** (port name) |
+| **Mocha** coffee | **Yemen** (port (बंदरगाह) name) |
 | **Kona** coffee | **Hawaii** (USA) |
 | Sacramento–San Joaquin | **California** — grapes / citrus |
 | **Sugar Bowl** | Classic tag for **Cuba** |
 | **Fazenda** | Brazil plantation (coffee) — **not** shifting cultivation |
-| **Taungya** | Agroforestry / forest–farm system in **Myanmar** |
+| **Taungya** | Agroforestry (कृषि वानिकी) / forest–farm system in **Myanmar** |
 | **Alley cropping** | Crops in alleys between tree rows |
 | **Golden Crescent** | Illicit opium — **Afghanistan, Iran, Pakistan** (not Iraq) |
-| **Shahtoosh** | Tibetan antelope / **Chiru** hair (Tibet / Ladakh story) |
+| **Shahtoosh** | Tibetan antelope / **Chiru** hair (Tibet / Ladakh (लद्दाख) story) |
 | Catechu (**kattha**) | From **Khair** (*Acacia catechu*) wood |
 | Groundnut native | **Brazil** / Mato Grosso; Gambia’s classic peanut economy |
 | **Alfalfa / Lucerne** | Fodder legume (Fabaceae) |

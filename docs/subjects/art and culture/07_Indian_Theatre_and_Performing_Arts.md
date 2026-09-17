@@ -44,7 +44,7 @@ Indian Theatre | Performing Arts | Folk Theatre | Sanskrit Theatre | Natyashastr
 17. The musical drama **Indra Sabha** (इंद्र सभा), composed by **Agha Hasan Amanat** (आगा हसन अमानत) and staged at **Lucknow in 1853** under Wajid Ali Shah, marks the dawn of modern operatic theatre in Awadh.
 18. **Bidesiya** (बिदेसिया) is a migration-themed folk play of the Bhojpuri belt of eastern Uttar Pradesh and western Bihar. In Banaras, **Bhartendu Harishchandra** (भारतेन्दु हरिश्चंद्र) laid the foundation of modern Hindi drama.
 19. The Indian People's Theatre Association (**IPTA**) was established in **1943**. The **National School of Drama (NSD)** was founded at New Delhi in **1959**, and was shaped decisively under the legendary directorship of **Ebrahim Alkazi**.
-20. **Sangeet Natak Akademi** (**1952**) covers music, dance, **and theatre**. It is not a dance-only body.
+20. **Sangeet Natak Akademi** (संगीत नाटक अकादेमी) (**1952**) covers music, dance, **and theatre**. It is not a dance-only body.
 21. Sanskrit plays as a rule **end well**. Stock figures are **nayaka** (नायक), **nayika** (नायिका), and **vidushaka** (विदूषक). There is no Greek-style tragedy as the default form.
 22. **Nataka** (नाटक) is a mythic heroic play type. **Prakarana** (प्रकरण) invents a social plot. Do not confuse **natya** (नाट्य, drama) with **nritta** (नृत्त, pure dance).
 23. UNESCO Intangible Cultural Heritage performing arts elements include **Koodiyattam** Sanskrit theatre (**2008**), the traditional **Ramlila** (**2008**), and **Mudiyettu** (मुडियेट्टु) ritual drama (**2010**).
@@ -74,89 +74,6 @@ Indian Theatre | Performing Arts | Folk Theatre | Sanskrit Theatre | Natyashastr
 
 ---
 
-## Hindi spell — hard names
-
-Write these in Devanagari as given. One name, one spelling.
-
-| English | Hindi |
-|---------|-------|
-| Natyashastra | नाट्यशास्त्र |
-| Bharata Muni | भरत मुनि |
-| Abhinavabharati | अभिनवभारती |
-| Abhinavagupta | अभिनवगुप्त |
-| Dasharupaka | दशरूपक |
-| Dhananjaya | धनंजय |
-| Ashvaghosha | अश्वघोष |
-| Bhasa | भास |
-| Kalidasa | कालिदास |
-| Shudraka | शूद्रक |
-| Mrichchhakatika | मृच्छकटिकम् |
-| Vishakhadatta | विशाखदत्त |
-| Mudrarakshasa | मुद्राराक्षस |
-| Bhavabhuti | भवभूति |
-| Uttararamacharita | उत्तररामचरित |
-| Bhartrihari | भर्तृहरि |
-| Koodiyattam | कूड़ियाट्टम् |
-| Koothambalam | कूथम्बलम |
-| Chakyar | चाक्यार |
-| Mizhavu | मिझावु |
-| Mudiyettu | मुडियेट्टु |
-| Theyyam | तैय्यम |
-| Therukoothu | तेरुक्कूत्तु |
-| Ottamthullal | ओट्टमथुल्लल |
-| Krishnattam | कृष्णाट्टम् |
-| Yakshagana | यक्षगान |
-| Burrakatha | बुराकथा |
-| Ankiya Nat | अंकिया नाट |
-| Bhaona | भाओना |
-| Ramman | रम्माण |
-| Bhumiyal Devta | भूमियाल देवता |
-| Oja-Pali | ओजा-पाली |
-| Kariyila | करियला |
-| Daskathia | दासकठिया |
-| Villu Pattu | विल्लुपाट्टु |
-| Tolpavakoothu | तोलपावकूत्तु |
-| Tholu Bommalata | तोलू बोम्मलता |
-| Togalu Gombeyatta | तोगलू गोम्बेयट्ट |
-| Gombeyatta | गोम्बेयट्ट |
-| Bommalattam | बोम्मलाट्टम् |
-| Kundhei | कुंधेई |
-| Pavakathakali | पावकथकली |
-| Sitabenga | सीताबेंगा |
-| Jogimara | जोगीमारा |
-| Yavanika | यवनिका |
-| Nepathya | नेपथ्य |
-| Sutradhara | सूत्रधार |
-| Vidushaka | विदूषक |
-| Purvaranga | पूर्वरंग |
-| Mattavarani | मत्तवारणी |
-| Bhand Pather | भांड पाथर |
-| Maach | माच |
-| Pandavani | पांडवानी |
-| Bidesiya | बिदेसिया |
-| Gulabo–Sitabo | गुलाबो-सीताबो |
-| Lavani | लावणी |
-| Nautanki | नौटंकी |
-| Tamasha | तमाशा |
-| Bhavai | भवई |
-| Swang | स्वांग |
-| Jatra | यात्रा |
-| Powada | पोवाड़ा |
-| Kathputli | कठपुतली |
-| Svapnavasavadattam | स्वप्नवासवदत्तम् |
-| Urubhanga | ऊरुभंग |
-| Abhijnanashakuntalam | अभिज्ञानशाकुन्तलम् |
-| Malavikagnimitram | मालविकाग्निमित्रम् |
-| Vikramorvashiya | विक्रमोर्वशीयम् |
-| Ratnavali | रत्नावली |
-| Mattavilasa Prahasana | मत्तविलास प्रहसन |
-| Samavakara | समवकार |
-| Ihamrga | ईहामृग |
-| Prahasana | प्रहसन |
-| Bhana | भाण |
-| Vithi | वीथी |
-
----
 
 ## Must-score facts — Sanskrit drama, folk theatre, puppets
 
@@ -229,7 +146,7 @@ Performing arts are live arts before an audience. The set is music, dance, theat
 
 Folk theatre uses a regional language. It is open-air, oral, and tied to a festival or fair.
 
-- **Nautanki** (नौटंकी) belongs to **Uttar Pradesh**. It is folk opera and an offshoot of Swang. It is named in **Ain-i-Akbari**.
+- **Nautanki** (नौटंकी) belongs to **Uttar Pradesh** (उत्तर प्रदेश). It is folk opera and an offshoot of Swang. It is named in **Ain-i-Akbari**.
 - The Nautanki drum is **nagara** (नगाड़ा). Two schools are **Kanpur** and **Lucknow**.
 - **Ramlila** (रामलीला) belongs to **UP** (Ramnagar–Varanasi, Braj). It is for Dussehra and is UNESCO **2008** (proclaimed 2005). Traditionally men play Sita too.
 - **Raslila** (रासलीला) is the **Braj / Mathura–Vrindavan** Krishna play. Manipuri Ras Lila is classical dance of Manipur, not this Braj folk play.
@@ -259,7 +176,7 @@ Folk theatre uses a regional language. It is open-air, oral, and tied to a festi
 - **Ottamthullal** (ओट्टमथुल्लल) belongs to Kerala. It is linked to **Kunchan Nambiar** (कुंचन नंबियार). It is solo satirical dance-theatre.
 - **Bidesiya** (बिदेसिया) is by **Bhikhari Thakur** (भिखारी ठाकुर). It belongs to the Bhojpuri belt (Bihar / eastern **UP**). It is a migrant-labour play.
 - **Pandavani** (पांडवानी) belongs to Chhattisgarh. It tells the Mahabharata. **Teejan Bai** (तीजन बाई) is linked to it.
-- **Khyal** (ख्याल) is a Rajasthan folk play. It is not Hindustani *khayal* singing.
+- **Khyal** (ख्याल) is a Rajasthan folk play. It is not Hindustani *khayal* (ख्याल) singing.
 - **Theyyam** (तैय्यम) is north Kerala ritual theatre. It holds Sangam Velan memory. It is not Kathakali.
 
 > **Logic:** Nautanki belongs to **Uttar Pradesh. Tamasha is not UP. Yakshagana belongs to Karnataka, not Kerala.
@@ -274,20 +191,20 @@ Sanskrit theatre uses Sanskrit and Prakrit. It runs roughly from the second cent
 
 - **Ashvaghosha** (अश्वघोष) wrote *Sariputraprakarana* (शारिपुत्रप्रकरण). It is often tagged the **first** classical Sanskrit play (Buddhist).
 - **Bhasa** (भास) is among the earliest Sanskrit dramatists, with 13 surviving plays including masterpieces like *Svapnavasavadattam* (स्वप्नवासवदत्तम्) and the tragic hero drama *Urubhanga* (ऊरुभंग).
-- **Kalidasa** (कालिदास) wrote three master plays: *Abhijnanashakuntalam* (अभिज्ञानशाकुन्तलम्), *Malavikagnimitram* (मालविकाग्निमित्रम्), and *Vikramorvashiya* (विक्रमोर्वशीयम्). (Kalidasa poems not dramas are *Meghaduta*, *Raghuvamsha*, *Kumarasambhava*, and *Ritusamhara*; *Shringara Shataka* belongs to **Bhartrihari** (भर्तृहरि)).
+- **Kalidasa** (कालिदास) wrote three master plays: *Abhijnanashakuntalam* (अभिज्ञानशाकुन्तलम्), *Malavikagnimitram* (मालविकाग्निमित्रम्), and *Vikramorvashiya* (विक्रमोर्वशीयम्). (Kalidasa poems not dramas are *Meghaduta*, *Raghuvamsha* (रघुवंश), *Kumarasambhava*, and *Ritusamhara*; *Shringara Shataka* belongs to **Bhartrihari** (भर्तृहरि)).
 - **Shudraka** (शूद्रक) wrote *Mrichchhakatika* (मृच्छकटिकम्) (The Little Clay Cart — social prakarana).
 - **Vishakhadatta** (विशाखदत्त) wrote *Mudrarakshasa* (मुद्राराक्षस) (political thriller with Chanakya) and *Devichandraguptam* (देवीचन्द्रगुप्तम्).
 - **Bhavabhuti** (भवभूति) wrote *Uttararamacharita* (उत्तररामचरित) (Karuna rasa peak), *Malatimadhava* (मालतीमाधव), and *Mahaviracharita* (महावीरचरित).
-- King **Harsha** (हर्ष) (7th century CE) authored three Sanskrit plays: *Ratnavali* (रत्नावली), *Priyadarshika* (प्रियदर्शिका), and *Nagananda* (नागानन्द). *Ratnavali* contains one of the earliest vivid literary depictions of the celebration of **Holi**.
+- King **Harsha** (हर्ष) (7th century CE) authored three Sanskrit plays: *Ratnavali* (रत्नावली), *Priyadarshika* (प्रियदर्शिका), and *Nagananda* (नागानन्द). *Ratnavali* contains one of the earliest vivid literary depictions of the celebration of **Holi** (होली).
 - **Mahendravarman I** (महेन्द्रवर्मन प्रथम) wrote *Mattavilasa Prahasana* (मत्तविलास प्रहसन) (Pallava satire). He is the same king as the rock-cut Mandagapattu caves.
 
 ### Conventions
 
 - Elite speech is Sanskrit. Women, clowns, and servants speak **Prakrit**.
 - **Natyadharmi** is stylised. **Lokadharmi** is closer to life.
-- Classical Sanskrit used **curtains, not masks**. Kathakali *chutti* makeup is dance-drama, not this Sanskrit stage.
+- Classical Sanskrit used **curtains, not masks**. Kathakali *chutti* (चुट्टी) makeup is dance-drama, not this Sanskrit stage.
 - **Koodiyattam / Kutiyattam** belongs to Kerala. It is the oldest *living* Sanskrit theatre, staged in a *Koothambalam*. One act can last days.
-- Koodiyattam castes are **Chakyar** (actors) and **Nambiar** (drums). The drum is **mizhavu**. Opening recall is **nirvahana**.
+- Koodiyattam castes are **Chakyar** (चाक्यार) (actors) and **Nambiar** (drums). The drum is **mizhavu**. Opening recall is **nirvahana**.
 - Koodiyattam UNESCO tags are masterpiece **2001** and Representative List **2008**.
 - Sanskrit theatre declined as language left the masses and courts shifted. It survives as Koodiyattam, not as a north-Indian court play.
 
@@ -300,16 +217,16 @@ Sanskrit theatre uses Sanskrit and Prakrit. It runs roughly from the second cent
 The **Natyashastra** is by **Bharata Muni**. It is a treatise of drama, dance, and music. Dance chapters use the same book.
 
 - It is called a **Natyaveda** / fifth Veda in tradition.
-- Pathya (words) is from **Rigveda**.
-- Gita (song) is from **Samaveda**.
-- Abhinaya (acting) is from **Yajurveda**.
-- Rasa is from **Atharvaveda**.
+- Pathya (words) is from **Rigveda** (ऋग्वेद).
+- Gita (song) is from **Samaveda** (सामवेद).
+- Abhinaya (acting) is from **Yajurveda** (यजुर्वेद).
+- Rasa is from **Atharvaveda** (अथर्ववेद).
 - The usual date band is **c. 200 BCE – 200 CE**. It is not Panini. It is not Kalidasa.
 - Four abhinaya are **angika, vachika, aharya, sattvika**.
 - The nine rasas are Shringara, Hasya, Karuna, Raudra, Veera, Bhayanaka, Bibhatsa, Adbhuta, and **Shanta** (later ninth).
-- **Bhava** is what the actor holds. **Rasa** is what the spectator tastes.
-- The definitive medieval philosophical commentary on the *Natyashastra* is the *Abhinavabharati* by the Kashmiri Shaivite scholar **Abhinavagupta**.
-- The later digest is **Dhananjaya**, *Dasharupaka*.
+- **Bhava** (भाव) is what the actor holds. **Rasa** is what the spectator tastes.
+- The definitive medieval philosophical commentary on the *Natyashastra* is the *Abhinavabharati* by the Kashmiri Shaivite scholar **Abhinavagupta** (अभिनवगुप्त).
+- The later digest is **Dhananjaya** (धनंजय), *Dasharupaka*.
 - There are ten *rupakas*. Natyashastra itself leans on **Nataka** and **Prakarana**. Learn all ten names:
 
 1. **Nataka** (नाटक) is a mythic hero play and is longer.
@@ -360,7 +277,7 @@ Syllabus names the first two plus Kathputli (a string school).
 ### String (sutradharika)
 
 - Sutradhara literally means **holder of strings**. Puppet and play-director share the word.
-- **Kathputli** (कठपुतली) belongs to **Rajasthan**. They are wooden marionettes with bright dress and **no legs** (skirt hides the base). They are **not** UP.
+- **Kathputli** (कठपुतली) belongs to **Rajasthan** (थार). They are wooden marionettes with bright dress and **no legs** (skirt hides the base). They are **not** UP.
 - **Kundhei** (कुंधेई) is Odisha string. It uses light wood and is jointed.
 - **Gombeyatta** (गोम्बेयट्ट) is Karnataka string (Yakshagana look).
 - **Bommalattam** (बोम्मलाट्टम्) belongs to Tamil Nadu. It is a string and rod mix.

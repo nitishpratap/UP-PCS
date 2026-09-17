@@ -2,9 +2,9 @@
 
 ### ★ UKPCS state card (Unit 1 — modern UK slice)
 
-> **High-yield 2025 stems:** Vichari / Sabha / Divya (Q69) · Gillespie at Nalapani (Q82).  
-> **Before:** [Chand of Kumaon](../../medieval%20india/uttarakhand/03_Chand_Dynasty_of_Kumaon.md) · [Parmar of Garhwal](../../medieval%20india/uttarakhand/02_Parmar_Dynasty_of_Garhwal.md)  
-> **After:** [British Rule](02_British_Rule_in_Uttarakhand.md) · [Tehri Estate](03_Tehri_Estate.md)  
+> **High-yield 2025 stems:** Vichari / Sabha (सभा) / Divya (Q69) · Gillespie at Nalapani (Q82).  
+> **Before:** [Chand of Kumaon (कुमाऊँ)](../../medieval%20india/uttarakhand (उत्तराखंड)/03_Chand_Dynasty_of_Kumaon.md) · [Parmar of Garhwal (गढ़वाल)](../../medieval%20india/uttarakhand/02_Parmar_Dynasty_of_Garhwal.md)  
+> **After:** [British Rule](02_British_Rule_in_Uttarakhand.md) · [Tehri (टिहरी) Estate](03_Tehri_Estate.md)  
 > **Last verified:** September 2026 gap audit — chronology (1790 / 1804 Khurbura) · Amar Singh Thapa · Subba–begar admin · Nalapani + Makwanpur course · Sugauli spelling
 
 ---
@@ -13,20 +13,20 @@
 
 | Head | Key |
 |------|-----|
-| Entry into Kumaon | **Gorkhas** take Almora / Kumaon about **1790** |
-| Garhwal climax | **Pradyuman Shah** dies at **Khurbura / Dehradun**, about **1804** |
-| Western commander | **Amar Singh Thapa** — senior Gorkha commander west of the Kali |
+| Entry into Kumaon | **Gorkhas** take Almora (अल्मोड़ा) / Kumaon about **1790** |
+| Garhwal climax | **Pradyuman Shah** dies at **Khurbura / Dehradun (देहरादून)**, about **1804** |
+| Western commander | **Amar Singh Thapa** — senior Gorkha commander west of the Kali (काली) |
 | Peak control | Roughly **1790–1815** over large parts of present Uttarakhand |
 | Anglo-Gorkha War | **1814–1816** |
 | Dehradun column | **Major General Rollo Gillespie** killed at **Nalapani / Kalanga**, **1814** |
 | Defender of Nalapani | **Balbhadra Singh Thapa** |
-| Sutlej / Nepal pressure | **David Ochterlony** — Sutlej front; later pressure toward **Makwanpur** |
+| Sutlej (सतलुज) / Nepal pressure | **David Ochterlony** — Sutlej front; later pressure toward **Makwanpur** |
 | Settlement | **Treaty of Sugauli** (**1815–16**; also spelled **Segauli**) — Nepal cedes hill tracts west of Kali |
-| British share | **Kumaon and eastern Garhwal** under Company; western Garhwal restored as **Tehri** |
+| British share | **Kumaon and eastern Garhwal** under Company (कंपनी); western Garhwal restored as **Tehri** (टिहरी) |
 | Revenue officer | **Subba** — provincial / district governor under Gorkha rule |
-| Labour burden | Heavy revenue + **begar** (forced labour) under Gorkha hill rule |
+| Labour burden | Heavy revenue + **begar** (बेगार) (forced labour) under Gorkha hill rule |
 | Judge title | **Vichari / Bichari** |
-| Other judicial workers | **Sabha** |
+| Other judicial workers | **Sabha** (सभा) |
 | Divya | **Trial by ordeal**, not an officer’s title |
 
 ---
@@ -58,9 +58,9 @@
 
 ## 1.1 Causes — why the Gorkhas entered the hills
 
-- After consolidating power in Nepal under the Shah–Thapa system, Gorkha armies pushed west into the central Himalaya.
+- After consolidating power in Nepal under the Shah–Thapa system, Gorkha armies pushed west into the central Himalaya (हिमालय).
 - Fragmented hill polities of **Kumaon (Chand)** and **Garhwal (Parmar)** invited successive campaigns.
-- Control of trade routes, revenue villages, and strategic ridge lines between the Kali and the Yamuna drew Nepal’s expansion.
+- Control of trade (पण्याध्यक्ष) routes, revenue villages, and strategic ridge lines between the Kali and the Yamuna (यमुना) drew Nepal’s expansion.
 - By about **1790**, Gorkha power replaces Chand rule in Kumaon in the standard coaching chronology.
 - Garhwal remains the next target; the conquest climax comes later, around **1804**.
 
@@ -70,9 +70,9 @@
 
 ### Chronology of occupation
 
-- About **1790**, Gorkha forces take **Kumaon** and Almora from the declining Chand polity.
-- Through the 1790s and early 1800s they press into **Garhwal**.
-- About **1804**, the Garhwal climax comes at **Khurbura** near **Dehradun**: **Pradyuman Shah** dies fighting the Gorkhas.
+- About **1790**, Gorkha forces take **Kumaon** (कुमाऊँ) and Almora from the declining Chand polity.
+- Through the 1790s and early 1800s they press into **Garhwal** (गढ़वाल).
+- About **1804**, the Garhwal climax comes at **Khurbura** near **Dehradun** (देहरादून): **Pradyuman Shah** dies fighting the Gorkhas.
 - **Amar Singh Thapa** is the classic western-front commander memory for Kumaon–Garhwal and the hills west of the Kali.
 - After Khurbura, Gorkha occupation covers large parts of present Uttarakhand until the Company war.
 
@@ -88,7 +88,7 @@
 
 **Cause**
 
-- Border friction with the East India Company after the Company’s rise in the Doab and Rohilkhand leads to the **Anglo-Gorkha War (1814–1816)**.
+- Border friction with the East India Company after the Company’s rise in the Doab (दोआब) and Rohilkhand leads to the **Anglo-Gorkha War (1814–1816)**.
 - Company officers contest Gorkha claims along the Tarai and hill frontier.
 
 **Course**
@@ -97,7 +97,7 @@
 - The first assault fails; Gillespie is killed in the fighting at Nalapani.
 - **Balbhadra Singh Thapa** defends the fort; the siege continues with bombardment and blockade.
 - The fort falls only after prolonged fighting and heavy losses on both sides.
-- On the western / **Sutlej** front, **David Ochterlony** advances against Gorkha positions.
+- On the western / **Sutlej** (सतलुज) front, **David Ochterlony** advances against Gorkha positions.
 - Ochterlony’s later pressure toward **Makwanpur** forces the decisive military squeeze that brings Nepal to terms.
 - Do not place Ochterlony at Nalapani; that column and death belong to Gillespie.
 
@@ -110,7 +110,7 @@
 
 ## 1.3 Results — Sugauli and the new map
 
-- The **Treaty of Sugauli** (**1815–16**) ends the war: Nepal cedes territories west of the **Kali** among other clauses.
+- The **Treaty of Sugauli** (**1815–16**) ends the war: Nepal cedes territories west of the **Kali** (काली) among other clauses.
 - Spelling note: **Sugauli** is the usual modern form; **Segauli** appears in older Company texts — same treaty.
 - **Kumaon** and **eastern Garhwal** pass under British administration.
 - **Sudarshan Shah** receives the restored western Garhwal nucleus that becomes the **Tehri** princely estate.
@@ -167,7 +167,7 @@ D. Major General Morley
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Four Anglo-Gorkha commanders — the one killed at Nalapani is Gillespie.
+**Logic:** Four (चातुर्याम) Anglo-Gorkha commanders — the one killed at Nalapani is Gillespie.
 
 **Ans: B (Series B provisional key).** Rollo Gillespie led the Dehradun column and died at Nalapani / Kalanga. Ochterlony belongs to the Sutlej front.
 

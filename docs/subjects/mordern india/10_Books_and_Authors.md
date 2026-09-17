@@ -4,7 +4,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Books and Authors | History Books | Books on Freedom Movement | Political Books | Books by Ambedkar | Books Related to Governors-General | Books on Partition | Bankim Chandra Chattopadhyay | Bhojpuri Literature | Realistic Novels | Anandamath | Poverty and Un-British Rule | Hind Swaraj | Discovery of India | India Wins Freedom | Gita Rahasya | Gulamgiri | Annihilation of Caste | The Indian War of Independence | Mother India and Unhappy India
+Books and Authors | History (इतिहास) Books | Books on Freedom Movement | Political Books | Books by Ambedkar (अम्बेडकर) | Books Related to Governors-General | Books on Partition | Bankim Chandra Chattopadhyay | Bhojpuri Literature | Realistic Novels | Anandamath (आनंदमठ) | Poverty and Un-British Rule (अन-ब्रिटिश शासन) | Hind Swaraj (हिंद स्वराज) | Discovery of India (भारत एक खोज) | India Wins Freedom (इंडिया विन्स फ्रीडम) | Gita Rahasya (गीता रहस्य) | Gulamgiri (गुलामगिरी) | Annihilation of Caste (जाति का विनाश) | The Indian War of Independence (इंडियन वॉर ऑफ इंडिपेंडेंस) | Mother India (मदर इंडिया) and Unhappy India (अनहैप्पी इंडिया)
 
 </details>
 
@@ -18,33 +18,33 @@ Books and Authors | History Books | Books on Freedom Movement | Political Books 
 ## Consolidated — 28 Must-Score Facts
 
 1. ***Anandamath*** (**1882**) is by **Bankim Chandra Chattopadhyay** and carries **Vande Mataram**. It is not the national anthem.
-2. ***Neel Darpan*** (**1860**) is **Dinabandhu Mitra’s** indigo play. Do not give it to Bankim.
-3. ***Poverty and Un-British Rule in India*** by **Dadabhai Naoroji** was published in **1901**. It is the classic drain-of-wealth tract.
+2. ***Neel Darpan** (नील दर्पण)* (**1860**) is **Dinabandhu Mitra (मित्र -)’s** indigo (नील) play. Do not give it to Bankim.
+3. ***Poverty and Un-British Rule in India*** by **Dadabhai Naoroji (नौरोजी)** was published in **1901**. It is the classic drain-of-wealth tract.
 4. ***The Rise and Growth of Economic Nationalism in India*** is **Bipan Chandra’s** later historiography, not Naoroji’s 1901 book.
-5. ***Hind Swaraj*** (**1909**) is Gandhi’s political tract. ***My Experiments with Truth*** is his autobiography — do not swap the two.
-6. ***The Discovery of India*** (**1946**) is **Nehru’s** Ahmednagar-jail civilisation–nation book. ***Toward Freedom / Autobiography*** is a different Nehru title.
+5. ***Hind Swaraj*** (**1909**) is Gandhi (गांधी)’s political tract. ***My Experiments with Truth*** is his autobiography — do not swap the two.
+6. ***The Discovery of India*** (**1946**) is **Nehru (नेहरू)’s** Ahmednagar-jail civilisation–nation book. ***Toward Freedom / Autobiography*** is a different Nehru title.
 7. ***India Wins Freedom*** is **Maulana Abul Kalam Azad’s** freedom memoir. Do not confuse it with Nehru’s *Discovery of India*.
-8. ***Gita Rahasya*** is **Tilak’s** Gita–politics work. ***Arctic Home in the Vedas*** is also Tilak, but on a Vedic homeland — never swap.
-9. ***Gulamgiri*** (**1873**) is **Jyotiba Phule’s** caste-as-slavery tract. ***Annihilation of Caste*** (**1936**) is **Ambedkar’s**.
-10. ***The Story of My Deportation*** is **Lala Lajpat Rai**. ***A Nation in Making*** is **Surendranath Banerjee**.
-11. ***Unhappy India*** is Lajpat Rai’s reply to Katherine Mayo’s hostile ***Mother India*** (**1927**).
-12. ***The Indian War of Independence*** (**1909**) is **V.D. Savarkar’s** reading of **1857** as a national war. It is not Bankim’s novel.
-13. ***India Divided*** is **Rajendra Prasad**. ***Pakistan or the Partition of India*** is **Ambedkar**.
-14. Match-four fact: *Story of My Deportation* — **Lajpat Rai**; *Gita Rahasya* — **Tilak**; *A Nation in Making* — **Banerjee**; *India Wins Freedom* — **Azad**.
-15. ***Firangiya*** (**1921**) is **Manoranjan Prasad Sinha’s** Bhojpuri anti-British poem.
-16. ***Batohiya*** (**1911**) is **Raghuveer Narayan’s** Bhojpuri poem. The traveller character in *Bidesiya* is a different fact.
-17. ***Bidesiya*** is **Bhikhari Thakur’s** migrant folk-drama; he is remembered as the **Shakespeare of Bhojpuri**.
+8. ***Gita Rahasya*** is **Tilak (तिलक)’s** Gita–politics work. ***Arctic Home in the Vedas** (आर्कटिक होम)* is also Tilak, but on a Vedic homeland — never swap.
+9. ***Gulamgiri*** (**1873**) is **Jyotiba Phule (ज्योतिबा फुले)’s** caste-as-slavery tract. ***Annihilation of Caste*** (**1936**) is **Ambedkar’s**.
+10. ***The Story of My Deportation (डिपोर्टेशन)*** is **Lala Lajpat Rai** (लाला लाजपत राय). ***A Nation in Making (ए नेशन इन मेकिंग)*** is **Surendranath Banerjee (बनर्जी)**.
+11. ***Unhappy India*** is Lajpat Rai’s reply to Katherine Mayo (मेयो)’s hostile ***Mother India*** (**1927**).
+12. ***The Indian War of Independence*** (**1909**) is **V.D. Savarkar (सावरकर)’s** reading (रीडिंग) of **1857** as a national war. It is not Bankim’s novel.
+13. ***India Divided*** is **Rajendra Prasad**. ***Pakistan or the Partition of India*** is **Ambedkar** (अम्बेडकर).
+14. Match-four fact: *Story of My Deportation* — **Lajpat Rai**; *Gita Rahasya* — **Tilak** (तिलक); *A Nation in Making* — **Banerjee**; *India Wins Freedom* — **Azad**.
+15. ***Firangiya** (फिरंगिया)* (**1921**) is **Manoranjan Prasad Sinha’s** Bhojpuri anti-British poem.
+16. ***Batohiya*** (**1911**) is **Raghuveer Narayan’s** Bhojpuri poem. The traveller character in *Bidesiya* (बिदेसिया) is a different fact.
+17. ***Bidesiya*** is **Bhikhari Thakur (भिखारी ठाकुर)’s** migrant folk-drama; he is remembered as the **Shakespeare of Bhojpuri**.
 18. ***Achhut Kee Shikayat*** (**1914**) is **Heera Dom**.
-19. ***Godaan*** and related social novels are **Premchand**. Do not place them with Bankim’s political romance.
+19. ***Godaan** (गोदान)* and related social novels are **Premchand**. Do not place them with Bankim’s political romance.
 20. ***Economic History of India*** is **R.C. Dutt’s** economic-nationalist classic of that age.
-21. ***Satyarth Prakash*** is **Dayanand Saraswati** (Arya Samaj). ***Tuhfat-ul-Muwahhidin*** is **Raja Rammohan Roy**.
-22. ***Why I Am an Atheist*** is **Bhagat Singh**. ***The Indian Struggle*** / ***An Indian Pilgrim*** are **Subhas Chandra Bose**.
-23. ***Gitanjali*** is **Tagore** (Nobel **1913**). ***Jana Gana Mana*** is the national **anthem**; **Vande Mataram** is the national **song**.
-24. Lord Curzon’s GG-linked titles include ***Problems of the Far East*** / ***British Government in India***. ***My Indian Years*** is **Hardinge**.
+21. ***Satyarth Prakash*** is **Dayanand Saraswati** (Arya Samaj (आर्य समाज)). ***Tuhfat-ul-Muwahhidin*** is **Raja (राजा) Rammohan Roy**.
+22. ***Why I Am an Atheist*** is **Bhagat Singh** (भगत सिंह). ***The Indian Struggle*** / ***An Indian Pilgrim*** are **Subhas Chandra Bose** (सुभाष चंद्र बोस).
+23. ***Gitanjali*** is **Tagore** (Nobel **1913**). ***Jana Gana Mana (माना)*** is the national **anthem**; **Vande Mataram** is the national **song** (सोंग).
+24. Lord Curzon (कर्ज़न)’s GG-linked titles include ***Problems of the Far East*** / ***British Government in India***. ***My Indian Years*** is **Hardinge**.
 25. ***Hindutva: Who is a Hindu?*** (**1923**) is Savarkar’s separate title from his **1909** 1857 history.
 26. Sort books by type first: primary tract, memoir, later historiography, GG-linked, or partition narrative — that sorting kills most author traps.
 27. A book written **in** 1901 about the drain is a **primary tract**. A book written **about** that age decades later is **historiography**.
-28. Drill order for prelims: the **syllabus eight**, then the match-four above, then twins, then the **Bhojpuri four**.
+28. Drill order for prelims: the **syllabus eight**, then the match-four above, then twins, then the **Bhojpuri four (चातुर्याम)**.
 
 ---
 
@@ -75,15 +75,15 @@ Books and Authors | History Books | Books on Freedom Movement | Political Books 
 | Bankim Chandra Chattopadhyay | *Anandamath* (1882) | *Neel Darpan* (Dinabandhu Mitra) |
 | Dadabhai Naoroji | *Poverty and Un-British Rule in India* (1901) | *Rise and Growth of Economic Nationalism* (Bipan Chandra) |
 | M.K. Gandhi | *Hind Swaraj* (1909) | *My Experiments with Truth* (his own autobiography — a different book) |
-| Jawaharlal Nehru | *The Discovery of India* (1946) | *Toward Freedom* (his autobiography) |
+| Jawaharlal Nehru (जवाहरलाल नेहरू) | *The Discovery of India* (1946) | *Toward Freedom* (his autobiography) |
 | Abul Kalam Azad | *India Wins Freedom* | *Freedom at Midnight* (Collins & Lapierre) |
 | B.G. Tilak | *Gita Rahasya* | *Arctic Home in the Vedas* (his **other** book) |
 | Jyotiba Phule | *Gulamgiri* (1873) | *Annihilation of Caste* (Ambedkar) |
-| B.R. Ambedkar | *Annihilation of Caste* (1936) | *Pakistan or the Partition of India* (his **other** book, not Jinnah's) |
+| B.R. Ambedkar (बी.आर. अम्बेडकर) | *Annihilation of Caste* (1936) | *Pakistan or the Partition of India* (his **other** book, not Jinnah's) |
 | Lala Lajpat Rai | *The Story of My Deportation*; *Unhappy India* (1928) | *Mother India* (Katherine Mayo — the book he was replying to) |
 | V.D. Savarkar | *The Indian War of Independence* (1909) | *Hindutva* (1923, his **other** book); *Anandamath* (Bankim, not Savarkar) |
 | Rajendra Prasad | *India Divided* | *Pakistan or the Partition of India* (Ambedkar) |
-| Surendranath Banerjee | *A Nation in Making* | never Lajpat Rai or Gokhale |
+| Surendranath Banerjee | *A Nation in Making* | never Lajpat Rai or Gokhale (गोखले) |
 | Subhas Chandra Bose | *The Indian Struggle*; *An Indian Pilgrim* | never Bhagat Singh |
 | Katherine Mayo | *Mother India* (1927) | never an Indian author |
 
@@ -105,7 +105,7 @@ Do not memorise books as one long list. Sort every title into **one** of these f
 | **Primary political tracts** | Written *during* the freedom struggle to argue a position | *Poverty and Un-British Rule*, *Hind Swaraj*, *Gulamgiri*, *Annihilation of Caste*, *The Indian War of Independence* |
 | **Memoirs / autobiographies** | First-person freedom-struggle accounts | *India Wins Freedom*, *The Story of My Deportation*, *A Nation in Making*, *My Experiments with Truth*, *An Indian Pilgrim* |
 | **Later historiography** | Written *about* the nationalist age, not during it | *The Rise and Growth of Economic Nationalism in India* (Bipan Chandra), *Economic History of India* (R.C. Dutt) |
-| **GG / Viceroy-linked** | Written by or closely tied to a Governor-General/Viceroy | *Problems of the Far East*, *My Indian Years*, and the GG teaching card below |
+| **GG / Viceroy-linked** | Written by or closely tied to a Governor-General (गवर्नर-जनरल)/Viceroy (वायसराय) | *Problems of the Far East*, *My Indian Years*, and the GG teaching card below |
 | **Partition and post-Independence narrative** | Focused on 1946–48 endgame | *India Wins Freedom*, *India Divided*, *Pakistan or the Partition of India*, *Freedom at Midnight*, *Train to Pakistan* |
 | **Social / regional / caste literature** | Anti-caste tracts, Bhojpuri works, realist novels | *Gulamgiri*, *Annihilation of Caste*, Bhojpuri four, Premchand's novels |
 
@@ -139,24 +139,24 @@ One home for extra titles. Details of the syllabus eight sit in the cards below.
 | **The Rise and Growth of Economic Nationalism in India** | **Bipan Chandra** | Historiography |
 | **Arctic Home in the Vedas** | B.G. Tilak | Vedic homeland |
 | **Pakistan or the Partition of India** | B.R. Ambedkar | Partition analysis |
-| **The Buddha and His Dhamma** | B.R. Ambedkar | Buddhist work |
-| **What Congress and Gandhi have done to the Untouchables** | B.R. Ambedkar | Critique of Congress caste politics |
+| **The Buddha (बुद्ध) and His Dhamma (धम्म)** | B.R. Ambedkar | Buddhist work |
+| **What Congress (कांग्रेस) and Gandhi have done to the Untouchables** | B.R. Ambedkar | Critique of Congress caste politics |
 | **Freedom at Midnight** | Collins and Lapierre | Popular Partition narrative |
 | **Train to Pakistan** | Khushwant Singh | Partition novel |
 | **India Divided** | Rajendra Prasad | Partition analysis |
 | **The Indian Struggle** | Subhas Chandra Bose | Freedom-movement narrative |
 | **An Indian Pilgrim** | Subhas Chandra Bose | Autobiography |
 | **The Indian War of Independence** | V.D. Savarkar | 1909; 1857 as national war |
-| **Why I Am an Atheist** | Bhagat Singh | Revolutionary essay |
+| **Why I Am an Atheist** | Bhagat Singh | Revolutionary (क्रांतिकारी) essay |
 | **Gitanjali** | Rabindranath Tagore | Nobel 1913 |
-| **Tuhfat-ul-Muwahhidin** | Raja Rammohan Roy | Monotheism tract; **Persian** (English *Gift to Monotheists* later) |
-| **Causes of the Indian Mutiny** (*Asbab-e-Baghawat-e-Hind*) | Sir Syed Ahmad Khan | 1857 analysis |
+| **Tuhfat-ul-Muwahhidin** | Raja Rammohan Roy | Monotheism tract; **Persian** (फ़ारसी) (English *Gift to Monotheists* later) |
+| **Causes of the Indian Mutiny** (*Asbab-e-Baghawat-e-Hind*) | Sir Syed Ahmad Khan (सर सैयद) | 1857 analysis |
 | **History of the Indian National Congress** | Pattabhi Sitaramayya | Official Congress history |
 | **Young India** (book) | Lala Lajpat Rai | Nationalist interpretation (not Gandhi’s paper) |
 | **Mother India** | Katherine Mayo | 1927 anti-India tract |
 | **Problems of the Far East / British Government in India** | Lord Curzon | GG-linked; two Curzon titles |
 | **My Indian Years** | Lord Hardinge | Viceroy memoir |
-| ***Lucile*** (as Owen Meredith) | Lord Lytton | Pre-viceroyalty poetry, GG-linked trap |
+| ***Lucile*** (as Owen Meredith) | Lord Lytton (लिटन) | Pre-viceroyalty poetry, GG-linked trap |
 | **The Viceroy's Journal** | Lord Wavell | Posthumous Partition-years diary |
 | **Hindutva: Who is a Hindu?** | V.D. Savarkar | 1923; separate from his 1909 history |
 | **Firangiya** | Manoranjan Prasad Sinha | 1921; Bhojpuri |
@@ -164,25 +164,25 @@ One home for extra titles. Details of the syllabus eight sit in the cards below.
 | **Bidesiya** | Bhikhari Thakur | Migrant folk-drama |
 | **Achhut Kee Shikayat** | Heera Dom | 1914 |
 | **Godaan / Gaban / Sevasadan / Kafan** | Premchand | Hindi social realism |
-| **Amar Sonar Bangla** | Rabindranath Tagore | 1905 Swadeshi; Bangladesh anthem (first 10 lines, **1972**) |
-| **The Indian Sociologist** | Shyamji Krishna Varma | London journal |
+| **Amar Sonar Bangla** | Rabindranath Tagore | 1905 Swadeshi (स्वदेशी); Bangladesh anthem (first 10 lines, **1972**) |
+| **The Indian Sociologist** | Shyamji Krishna (कृष्णा) Varma | London journal |
 | **Annals and Antiquities of Rajasthan** | Col. James Tod | Feudalism in Rajasthan |
 | **Bandi Jivan / Bandi Jeevan** | Sachindra Nath Sanyal | **1922**; Cellular Jail memoir; **"Bible of the Revolutionaries"** |
-| **Bahuvivah / Balya Vivaher Dosh** | Ishwar Chandra Vidyasagar | Social-reform tracts |
+| **Bahuvivah / Balya Vivaher Dosh** | Ishwar Chandra Vidyasagar (विद्यासागर) | Social-reform tracts |
 | **Chetavani Ra Chungatiya** | Kesari Singh Barhath | Rajasthan patriot verses (**1903**) |
-| **Bharat Bharati** | Maithili Sharan Gupta | Rashtrakavi |
-| **Ae Mere Watan Ke Logo** (song) | Pradeep (R.C.N. Dwivedi) | 1962 China-war tribute |
+| **Bharat Bharati** | Maithili Sharan Gupta (गुप्त) | Rashtrakavi |
+| **Ae Mere Watan Ke Logo** (song) | Pradeep (R.C.N. Dwivedi (द्विवेदी)) | 1962 China-war tribute |
 | **Saare Jahan Se Achcha** | Muhammad Iqbal | Later League politics |
-| **Gokhale: My Political Guru** | M.K. Gandhi | First edn Ahmedabad **1955** |
-| **The Life Divine / New Lamps for Old** | Aurobindo Ghosh | Philosophy / early criticism |
+| **Gokhale: My Political Guru (गुरु)** | M.K. Gandhi | First edn Ahmedabad (अहमदाबाद) **1955** |
+| **The Life Divine / New Lamps for Old** | Aurobindo (अरविंद) Ghosh | Philosophy / early criticism |
 | **Das Kapital** | Karl Marx | Engels edited vols 2–3 |
 | **The Springing Tiger** | Hugh Toye | Bose biography |
 | **Indian Unrest** | Valentine Chirol | Branded Tilak “Father of Unrest” |
-| **The Philosophy of the Bomb** | Bhagwati Charan Vohra | HSRA tract |
+| **The Philosophy of the Bomb** | Bhagwati Charan (चारण) Vohra | HSRA tract |
 | **Dreamland / Introduction to Dreamland** | Lala Ramsaran Das / Bhagat Singh stream | Jail literature |
 | **Guilty Men of India’s Partition** | Ram Manohar Lohia | Partition critique |
 | **The Man Who Divided India** | Rafiq Zakaria | Partition biography |
-| **India from Curzon to Nehru and After** | Durga Das | Political chronicle |
+| **India from Curzon to Nehru and After** | Durga (दुर्ग -) Das | Political chronicle |
 | **Jawaharlal Nehru: A Biography** | Frank Moraes | Nehru biography |
 | **The Story of the Integration of the Indian States** | V.P. Menon | Princely integration |
 | **Ignited Minds / Wings of Fire** | A.P.J. Abdul Kalam | Missile Man titles |
@@ -190,13 +190,13 @@ One home for extra titles. Details of the syllabus eight sit in the cards below.
 | **Landmarks in Indian Constitutional and National Development** | Gurmukh Nihal Singh | Later Governor of Rajasthan (**1956–62**) |
 | **Congress Presidential Addresses** (ed.) | G.A. Natesan | 1885–1934 compilation |
 | **Desher Katha** | Sakharam Ganesh Deuskar | Swadeshi-era tract |
-| **The Baiga** | Verrier Elwin | Tribal ethnography |
+| **The Baiga** | Verrier Elwin | Tribal (आदिवासी) ethnography |
 | **Silent Spring** | Rachel Carson | Pesticides critique |
 | **Planned Economy for India** | M. Visvesvaraya | **1934** ten-year plan ideas |
 | **Vital-Vidhvansak** | Gopal Baba Walangkar | First monthly for untouchable readers (**1888**) |
 | **Vanguard** | M.N. Roy | Emigre communist journal |
 | **Bapu: My Mother** | Manubehn Gandhi | Memoir |
-| **New India / The Commonweal** | Annie Besant | Papers from **1914**; Central Hindu College **1898** |
+| **New India / The Commonweal** | Annie Besant (बेसेंट) | Papers from **1914**; Central Hindu College **1898** |
 
 > **Logic:** Drill the **2020 four** and **Poverty 1901** first. Then twins. Then Bhojpuri four. Then the Savarkar/Mayo/GG additions.
 
@@ -208,14 +208,14 @@ Extra Drill leans hard on **paper ↔ editor**. Hold this spine before the book 
 
 | Paper / magazine | Editor / founder | Tag |
 |------------------|------------------|-----|
-| ***Kesari*** / ***Mahratta*** | **B.G. Tilak** | Marathi / English; Extremist Poona press |
-| ***New India*** / ***Commonweal*** | **Annie Besant** | Home Rule papers from **1914** |
-| ***Young India*** / ***Harijan*** | **M.K. Gandhi** | Newspapers — not Lajpat Rai’s *Young India* **book** |
+| ***Kesari*** / ***Mahratta*** | **B.G. Tilak** | Marathi / English; Extremist (गरम दल) Poona press |
+| ***New India*** / ***Commonweal*** | **Annie Besant** | Home Rule (होम रूल) papers from **1914** |
+| ***Young India*** / ***Harijan** (हरिजन)* | **M.K. Gandhi** | Newspapers — not Lajpat Rai’s *Young India* **book** |
 | ***Bande Mataram*** | **Aurobindo Ghosh** (editor) | Swadeshi Bengal daily |
 | ***Yugantar*** | Barindra circle | Revolutionary Bengal weekly |
-| ***The Indian Sociologist*** | **Shyamji Krishna Varma** | London / India House |
-| ***The Bengalee*** | **Surendranath Banerjee** | Moderate Bengal press |
-| ***The Hindu*** | **G. Subramania Iyer** (start **1878**) | Madras; linked to Mahajan Sabha |
+| ***The Indian Sociologist*** | **Shyamji Krishna Varma** | London / India House (इंडिया हाउस) |
+| ***The Bengalee*** | **Surendranath Banerjee** | Moderate (नरम दल) Bengal press |
+| ***The Hindu*** | **G. Subramania Iyer** (start **1878**) | Madras; linked to Mahajan Sabha (सभा) |
 | ***Bangadarshan*** | **Bankim Chandra** | Literary–nationalist journal |
 | ***Amrita Bazar Patrika*** | Ghosh brothers / Sisir Kumar Ghosh stream | Bengal nationalist daily |
 
@@ -240,7 +240,7 @@ Extra Drill leans hard on **paper ↔ editor**. Hold this spine before the book 
 - *Anandamath* is set against the **Sanyasi–Fakir** rising (**1763–1800** memory) and the Bengal famine background. Coaching keys often call it the **“Bible of Bengali patriotism.”**
 - Sannyasi rebels fight a tyrannical order.
 - The Mother-as-nation image is sung as **Vande Mataram**.
-- The song was sung in the **Swadeshi** years and adopted as national song. It is **not** the national anthem (*Jana Gana Mana* is Tagore).
+- The song was sung in the **Swadeshi** (स्वदेशी) years and adopted (अंगीकृत) as national song. It is **not** the national anthem (*Jana Gana Mana* is Tagore).
 - Bankim edited the journal ***Bangadarshan***.
 - **Neel Darpan** is **not** his. That indigo play is **Dinabandhu Mitra (1860)**.
 
@@ -262,12 +262,12 @@ Extra Drill leans hard on **paper ↔ editor**. Hold this spine before the book 
 
 ## 10.3 Poverty and Un-British Rule in India
 
-**Author:Dadabhai NaorojiYear:1901Idea:Drain of Wealth**
+**Author:Dadabhai NaorojiYear:1901Idea:Drain of Wealth (धन निष्कासन)**
 
 - Naoroji gathered speeches and papers into this book. The year is **1901**.
 - “Un-British” means the Raj violated Britain’s own liberal standards.
 - That is the same Moderate vocabulary as 2024 Q135.
-- Drain meant salaries, pensions, home charges, profits and unequal trade took Indian wealth to Britain.
+- Drain meant salaries, pensions, home charges (होम चार्जेस), profits and unequal trade (पण्याध्यक्ष) took Indian wealth to Britain.
 - Poverty was **produced**.
 - This is a **primary nationalist tract**, not later academic historiography.
 - ***The Rise and Growth of Economic Nationalism in India*** is **Bipan Chandra**, not Naoroji.
@@ -303,7 +303,7 @@ D. 1903 A.D.
 - Form: a **dialogue** between Editor and Reader on what true Swaraj is.
 - Original **Gujarati (1909)**; British banned it, so an **English** version followed to beat censorship. Gandhi’s sharp line on the British Parliament as **sterile / “prostitute”** sits in this tract.
 - Separate Gandhi title: ***Gokhale: My Political Guru*** (first edition **Ahmedabad, February 1955**).
-- In **1929** at **Kausani** (Uttarakhand) he completed the English rendering of **Anasakti Yoga** from the Gita — a favourite **UKPCS** place-fact.
+- In **1929** at **Kausani** (बागेश्वर) (Uttarakhand (उत्तराखंड)) he completed the English rendering of **Anasakti Yoga (योग)** from the Gita — a favourite **UKPCS** place-fact.
 - Gandhi attacks modern industrial civilisation.
 - He attacks railways-as-greed, and lawyers and doctors as props of colonial society.
 - He wants **self-rule of the self**, not a brown copy of English rule.
@@ -322,7 +322,7 @@ D. 1903 A.D.
 
 - It is a civilisational and political narrative of India.
 - It covers culture, history, and the making of a modern nation.
-- It was written in jail during the Quit India years.
+- It was written in jail during the Quit India (भारत छोड़ो) years.
 - It is **not** Nehru’s autobiography. Autobiography = ***An Autobiography*** / ***Toward Freedom*** (1936).
 - ***Glimpses of World History*** is a third Nehru title.
 - It is letters to Indira from jail in the 1930s.
@@ -337,7 +337,7 @@ D. 1903 A.D.
 **Author:Maulana Abul Kalam AzadType:** memoir of the last years of the freedom struggle and Partition politics
 
 - Azad writes as Congress President and as a critic of the endgame.
-- He discusses the Cabinet Mission, Partition, and his colleagues.
+- He discusses the Cabinet Mission (कैबिनेट मिशन), Partition, and his colleagues.
 - It was first published in **1959**.
 - Some pages were held back and released later. The **1988** complete text is the common memory.
 - ***India Wins Freedom*** is **Maulana Abul Kalam Azad** — not Deportation (Lajpat Rai), *Gita Rahasya* (Tilak) or *A Nation in Making* (Banerjee).
@@ -355,7 +355,7 @@ D. 1903 A.D.
 
 - Tilak read the Gita as a book of **karma-yoga** and nationalist duty.
 - He uses the Gita to argue for action in the world, not withdrawal.
-- ***Gita Rahasya*** is **Bal Gangadhar Tilak's** work, written during his Mandalay imprisonment.
+- ***Gita Rahasya*** is **Bal Gangadhar Tilak (बाल गंगाधर तिलक)'s** work, written during his Mandalay imprisonment.
 - His other famous book is ***The Arctic Home in the Vedas***.
 - That book argues that Vedic people once lived in the Arctic. Do **not** swap the two.
 - *Gita Rahasya* is **not** Gandhi’s.
@@ -460,11 +460,11 @@ D. 4 3 2 1
 
 ## 10.11 The Indian War of Independence (V.D. Savarkar)
 
-**Author:Vinayak Damodar SavarkarYear:1909Original title / language:** written in **Marathi**, published in **English translation** from **London**; the book was **banned** by the colonial government immediately
+**Author:Vinayak Damodar (दामोदर) SavarkarYear:1909Original title / language:** written in **Marathi**, published in **English translation** from **London**; the book was **banned** by the colonial government immediately
 
 - Savarkar wrote the book while a law student in London, associated with **India House** and the revolutionary circle around **Shyamji Krishna Varma**.
-- The book's core argument is that **1857 was not a mere "Mutiny"** but India's **first war of independence** — a planned, national rising against foreign rule.
-- It celebrated leaders of 1857 (Nana Sahib, Tantia Tope, Rani Lakshmibai, Bahadur Shah Zafar) as freedom fighters, not rebels or sepoys acting from narrow grievance.
+- The book's core argument is that **1857 was not a mere "Mutiny"** but India's **first war of independence** (प्रथम स्वतंत्रता संग्राम) — a planned, national rising against foreign rule.
+- It celebrated leaders of 1857 (Nana Sahib (नाना साहेब), Tantia Tope (तात्या टोपे), Rani Lakshmibai (रानी लक्ष्मीबाई), Bahadur Shah Zafar (बहादुर शाह ज़फ़र)) as freedom fighters, not rebels or sepoys acting from narrow grievance.
 - The British banned the book in India even before publication; copies were smuggled in and secretly reprinted, including under false covers.
 - It became a foundational text for the **revolutionary** stream of nationalism (Topic 11), read by groups like the **Abhinav Bharat** society that Savarkar himself helped found.
 - Do **not** confuse this history with Bankim's ***Anandamath*** (1882 novel, Sanyasi-rising background) or with Sir Syed Ahmad Khan's ***Causes of the Indian Mutiny*** (a loyalist, causes-only analysis from the opposite political direction).
@@ -502,7 +502,7 @@ D. 4 3 2 1
 
 - **Bipan Chandra** wrote ***The Rise and Growth of Economic Nationalism in India***. Distractors often name Partha Sarathi Gupta, S. Gopal or B.R. Nanda.
 - Naoroji and Dutt **wrote in the nationalist age**. Bipan Chandra **wrote later about that age**.
-- Ancient/medieval match sets (Jayaswal *Hindu Polity*, Basham, Kosambi, V.A. Smith) are **not** this Modern India core. Skip 2024 Q134 here.
+- Ancient/medieval match sets (Jayaswal (जयसवाल) *Hindu Polity*, Basham (बैशम), Kosambi (कोसांबी), V.A. Smith (स्मिथ)) are **not** this Modern India core. Skip 2024 Q134 here.
 
 > **Logic:** Exact title *Rise and Growth of Economic Nationalism in India* = **Bipan Chandra**.
 
@@ -540,7 +540,7 @@ D. Bipin Chandra
 | **My Indian Years, 1910–1916** | **Lord Hardinge** | Viceroy memoir; covers the Delhi Durbar and the bomb attack on him (1912) |
 | ***Lucile*** (poem, pen name **Owen Meredith**) | **Lord Lytton** | Written **before** his viceroyalty; Lytton is remembered in politics for **Proud Reserve** |
 | ***The Viceroy's Journal*** (published 1973, posthumous) | **Lord Wavell** | Diary covering the final Partition years, edited by **Penderel Moon** |
-| Patronage (not authorship) of the **first English Gita translation** by **Charles Wilkins** (1785) | **Warren Hastings** | Wrote the preface encouraging Orientalist scholarship; not himself the Gita's translator |
+| Patronage (not authorship) of the **first English Gita translation** by **Charles Wilkins** (1785) | **Warren Hastings** (वारेन) | Wrote the preface encouraging Orientalist (प्राच्यवादी) scholarship; not himself the Gita's translator |
 
 **Partition set**
 
@@ -585,10 +585,10 @@ D. Bipin Chandra
 
 | Work | Author | Year / tag |
 |------|--------|------------|
-| **Firangiya / Firangia** | **Manoranjan Prasad Sinha** | **1921**, Non-Cooperation; anti-British Bhojpuri poem |
+| **Firangiya / Firangia** | **Manoranjan Prasad Sinha** | **1921**, Non-Cooperation (असहयोग); anti-British Bhojpuri poem |
 | **Batohiya** | **Raghuveer Narayan** | **1911**; patriotic traveller-song; often called Vande Mataram of Bhojpuri |
-| **Bidesiya** | **Bhikhari Thakur** | Migrant folk-drama; **Shakespeare of Bhojpuri** |
-| **Achhut Kee Shikayat** | **Heera Dom** | **1914**; printed in *Saraswati*, Allahabad; early Dalit protest poem |
+| **Bidesiya** | **Bhikhari Thakur** (भिखारी ठाकुर) | Migrant folk-drama; **Shakespeare of Bhojpuri** |
+| **Achhut Kee Shikayat** | **Heera Dom** | **1914**; printed in *Saraswati* (सरस्वती), Allahabad (इलाहाबाद); early Dalit (दलित) protest poem |
 | Beti Bechwa, Gabarghichor, Bhai Birodh | Bhikhari Thakur | Other social plays |
 | Mehrarun ke Durdasa, Naiki Duniya | **Rahul Sankrityayan** | Bhojpuri plays (second-line recall) |
 
@@ -1082,7 +1082,7 @@ D. S. N. Roy
 <details>
 <summary>Show answer</summary>
 
-**Logic:** British official on Muslims / Wahabi question — not Sir Syed.
+**Logic:** British official on Muslims / Wahabi (वहाबी) question — not Sir Syed.
 
 **Ans: A (Series B provisional key).** William Wilson Hunter published *The Indian Musalmans* (**1871**).
 
@@ -1111,13 +1111,13 @@ D. Bengali
 
 **Q3. UKPCS (Pre) 2021**
 
-In 1929, at which place did Mahatma Gandhi complete his translation of Anasakti Yoga?
+In 1929, at which place did Mahatma Gandhi (महात्मा गांधी) complete his translation of Anasakti Yoga?
 
 A. Kausani
 
-B. Almora
+B. Almora (अल्मोड़ा)
 
-C. Nainital
+C. Nainital (नैनीताल)
 
 D. Ranikhet
 
@@ -1420,7 +1420,7 @@ D. Veer ras poet
 
 **Logic:** Sumitra Nandan Pant = Chhayavadi poet.
 
-**Ans: B.** Works include *Chidambara*, *Lokayatan*, *Pallav*, *Yugvani*.
+**Ans: B.** Works include *Chidambara* (चिदंबरा), *Lokayatan*, *Pallav*, *Yugvani* (युगवाणी).
 
 </details>
 

@@ -1,10 +1,10 @@
-# Topic 22 — Renewable Energy
+# Topic 22 — Renewable Energy (नवीकरणीय ऊर्जा)
 ### ★ UPPCS Revision Sheet — Lucent-style (no repetition · Practice ≥25)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Solar Energy | Wind Energy | Biomass Energy | Geothermal Energy | Tidal Energy | Small Hydro Projects | Green Hydrogen
+Solar Energy | Wind Energy | Biomass Energy (बायोमास ऊर्जा) | Geothermal Energy (भू-तापीय ऊर्जा) | Tidal Energy | Small Hydro Projects | Green Hydrogen
 
 </details>
 
@@ -24,21 +24,21 @@ Solar Energy | Wind Energy | Biomass Energy | Geothermal Energy | Tidal Energy |
 ## Consolidated — 34 Must-Score Facts
 
 1. **Renewable** energy replenishes on a human timescale — sun, wind, water, biomass, geothermal. **Nuclear** is low-carbon but usually **not** counted as renewable MCQs.
-2. **Solar PV** turns sunlight directly into electricity. **CSP** uses mirrors to make heat, then steam and turbines.
+2. **Solar PV** turns sunlight directly into electricity. **CSP** (सीएसपी) uses mirrors to make heat, then steam and turbines.
 3. The **National Solar Mission** began in **2010** under NAPCC (JNNSM from Jan 2010). India chased about **100 GW** solar by 2022 and **500 GW** non-fossil capacity by **2030**.
 4. Solar has the **greatest RE potential** in India among common options and is the most eco-friendly among solar cell vs fossils/nuclear fission options.
 5. **Bhadla** in Rajasthan is India’s mega solar-park fact (not Gujarat as “largest”). **PM-KUSUM** supports farmer solar pumps. **OSOWOG** is One Sun One World One Grid.
 6. **Domestic Content Requirement (DCR)** in solar news means mandating domestically manufactured PV cells/modules.
 7. The **International Solar Alliance** began in **2015** (India–France, COP21). Headquarters is **Gurugram**. Not all UN members — originally sun-belt countries between Tropics. First Summit **New Delhi, March 2018**. Members target mobilising about **USD 1 trillion** for solar by **2030**.
 8. **Cochin International Airport** = world’s first fully solar-powered airport. **Diu** = first Indian UT / smart city running **100% solar** (daytime / UT stems). **Surat** = first district with **100% solar-powered PHCs**.
-9. Wind power converts kinetic energy of air; power scales roughly with the **cube** of wind speed. Leading states include **Tamil Nadu, Gujarat, and Karnataka**.
-10. **Biomass** is energy from organic matter. **Biogas** from anaerobic digestion is mainly **methane (CH₄) and carbon dioxide (CO₂)** — not a butane/carbon-monoxide pair.
+9. Wind power converts kinetic energy of air; power scales roughly with the **cube** of wind speed. Leading states include **Tamil Nadu (नाडु), Gujarat, and Karnataka**.
+10. **Biomass** is energy from organic matter. **Biogas** (बायोगैस) from anaerobic digestion is mainly **methane (CH₄) and carbon dioxide (CO₂) (कार्बन डाइऑक्साइड)** — not a butane/carbon-monoxide pair.
 11. Bagasse cogeneration, **GOBAR-Dhan**, and **SATAT** (bio-CNG) are biomass-policy neighbours.
-12. **Geothermal** uses Earth’s internal heat. Indian provinces include **Himalaya, Cambay, West Coast, SONATA (Son–Narmada–Tapi), Godavari, Mahanadi** — **not Ganga Delta**. Sites: **Puga, Manikaran, Tattapani**.
+12. **Geothermal** uses Earth’s internal heat. Indian provinces include **Himalaya (हिमालय), Cambay, West Coast, SONATA (Son–Narmada (नर्मदा)–Tapi (तापी)), Godavari (गोदावरी), Mahanadi (महानदी)** — **not Ganga (गंगा) Delta (डेल्टा)**. Sites: **Puga, Manikaran, Tattapani**.
 13. **Tidal** energy comes from Moon-driven sea-level change. India’s best potential is often locked to the **Gulf of Khambhat**, then Gulf of Kutch.
 14. **Small hydro** under MNRE is **≤25 MW**. Above that is treated as large hydro. Himalayan streams hold large SHP potential.
-15. The **Ramganga Project** in Garhwal, Uttarakhand, is about **198 MW** — a hydro fact that also matters for irrigation links toward UP.
-16. **Green hydrogen** is H₂ from water electrolysis powered by **renewable** electricity. Grey hydrogen comes from natural gas; blue adds CCS to gas routes.
+15. The **Ramganga (रामगंगा) Project** in Garhwal (गढ़वाल), Uttarakhand (उत्तराखंड), is about **198 MW** — a hydro fact that also matters for irrigation links toward UP.
+16. **Green hydrogen** is H₂ from water electrolysis powered by **renewable** electricity. Grey hydrogen comes from natural gas; blue adds CCS (सुरक्षा कैबिनेट समिति) to gas routes.
 17. The **National Green Hydrogen Mission** (January **2023**) targets about **5 MMT** per year by **2030**. National Hydrogen Energy Board dates to **3 Oct 2003**.
 18. Hydrogen can power **IC engines**, be **blended with natural gas**, and run **fuel-cell vehicles** — all three are correct in recent stems.
 19. Fuel cells with pure H₂ emit **heat and water**; they produce **DC**; they can power buildings and portable devices.
@@ -48,7 +48,7 @@ Solar Energy | Wind Energy | Biomass Energy | Geothermal Energy | Tidal Energy |
 23. Geothermal and nuclear are not “derived from the Sun” in the renewable-sun family sense used in many stems — though fossil-fuel energy ultimately traces to the Sun.
 24. India still lacks a large commercial tidal plant even where potential maps look strong.
 25. Green / grey / blue hydrogen colours mark production route and carbon intensity — not the colour of the gas.
-26. UP colour: Mirzapur solar collaboration history, western UP bagasse cogeneration, limited wind, Ramganga water–power links.
+26. UP colour: Mirzapur (मिर्ज़ापुर) solar collaboration history (इतिहास), western UP bagasse cogeneration, limited wind, Ramganga water–power links.
 27. CSP is heat-first; PV is photon-to-electron. Do not describe CSP as a simple rooftop panel.
 28. Wind leadership is southern and western coastal/plateau states — not a default UP fact.
 29. Small hydro ceiling **25 MW** is the MNRE number; do not invent a different cutoff.
@@ -94,14 +94,14 @@ Solar Energy | Wind Energy | Biomass Energy | Geothermal Energy | Tidal Energy |
 
 **Identity:** PV + CSP | National Solar Mission 2010 | ISA Gurugram 2015 | 500 GW non-fossil 2030
 
-- **Solar energy** is radiant light and heat from the Sun — harnessed via **photovoltaic (PV)** panels or **concentrated solar power (CSP)**.
+- **Solar energy** is radiant light and heat from the Sun — harnessed via **photovoltaic (PV)** panels or **concentrated solar power (CSP)** (संकेंद्रित सौर ताप).
 - **PV cells** (silicon semiconductors) convert photons to DC electricity; an inverter converts to AC for the grid.
 - **CSP** uses mirrors to heat fluid, produce steam, and drive a turbine — can store heat for after-sunset generation.
-- Highest insolation in **Rajasthan, Gujarat, Madhya Pradesh, Maharashtra**. **Bhadla Solar Park (Rajasthan)** is among the world's largest.
+- Highest insolation (सूर्यताप) in **Rajasthan, Gujarat, Madhya Pradesh, Maharashtra**. **Bhadla Solar Park (Rajasthan)** is among the world's largest.
 - **National Solar Mission (2010)** is a pillar of **NAPCC (2008)** — also called **JNNSM** from January 2010 — target scaled to **100 GW solar**, achieved around **2022–2024**.
 - Solar has the **greatest renewable potential** in India among common options; solar cells are the most eco-friendly among petroleum / forest products / nuclear fission / solar options.
 - **500 GW non-fossil fuel capacity by 2030** (COP26, 2021) includes solar, wind, hydro, nuclear, and biomass — solar remains the largest growth component.
-- **International Solar Alliance (ISA)** launched **30 November 2015** at **COP21 Paris** by **India and France** — treaty-based IGO, HQ **Gurugram, Haryana**.
+- **International Solar Alliance (ISA)** (अंतरराष्ट्रीय सौर गठबंधन) launched **30 November 2015** at **COP21 Paris** by **India and France** — treaty-based IGO, HQ **Gurugram, Haryana**.
 - ISA membership is **not** “all UN members” — historically focused on countries between the Tropics of Cancer and Capricorn (membership has since widened). First Summit: **New Delhi, 11 March 2018**. Declaration ambition: mobilise about **USD 1 trillion** for solar by **2030**.
 - **Domestic Content Requirement (DCR)** in solar RfS means using domestically manufactured PV cells and modules.
 - Silicon wafers / cells are largely imported or assembled — India is **not** among the top silicon-wafer manufacturers; solar tariffs are regulated by **CERC/SERCs**, not set solely by SECI.
@@ -156,7 +156,7 @@ D. Only 1
 | Feature | Onshore | Offshore |
 |---------|---------|----------|
 | Cost | Lower | Higher |
-| Wind quality | Moderate | Stronger, steadier |
+| Wind quality | Moderate (नरम दल) | Stronger, steadier |
 | India status | Mature | Early policy stage |
 
 > **Logic:** Rajasthan leads **solar**, not wind. **Tamil Nadu** = wind leader trap.
@@ -171,7 +171,7 @@ D. Only 1
 - **Anaerobic digestion:** bacteria break organic matter **without oxygen** in a digester → **biogas** + **slurry** (organic fertiliser).
 - **Biogas composition:Methane (CH₄) ~50–70%** + **Carbon dioxide (CO₂) ~25–45%** + traces of H₂S and moisture.
 - **Butane** is an LPG component — **not** a major biogas constituent. **Carbon monoxide** is incomplete combustion product — not main biogas component.
-- **Bagasse** (sugarcane crush residue) is burned in **UP sugar mills** (Meerut, Muzaffarnagar belt) for **cogeneration** — electricity + process heat.
+- **Bagasse** (sugarcane crush residue) is burned in **UP sugar mills** (Meerut (मेरठ), Muzaffarnagar belt) for **cogeneration** — electricity + process heat.
 - **GOBAR-Dhan / SATAT:** government push for community biogas and **bio-CNG** — oil marketing companies procure compressed biogas.
 - **E20 ethanol blending target by 2025** — ethanol from sugarcane, maize, and agri-waste reduces petrol imports.
 - **Stubble burning** wastes biomass and causes **PM2.5 pollution** — not sustainable energy use.
@@ -200,7 +200,7 @@ D. 1 and 2
 
 ## 22.4 Geothermal Energy
 
-**Identity:** Earth's interior heat | Puga Ladakh | Baseload potential | NOT from Sun
+**Identity:** Earth's interior heat | Puga Ladakh (लद्दाख) | Baseload potential | NOT from Sun
 
 - **Geothermal energy** harnesses **heat from Earth's interior** — hot rocks, steam, or underground water — for electricity or direct heating.
 - Heat sources: **radioactive decay** of minerals + residual heat from Earth's formation — temperature rises **~25–30°C per km** depth.
@@ -221,12 +221,12 @@ D. 1 and 2
 **Identity:** Moon's gravity | Khambhat highest range | Predictable | No major Indian plant yet
 
 - **Tidal energy** harnesses the **rise and fall of sea levels** caused primarily by **gravitational pull of the Moon** (and Sun).
-- **Tidal barrage:** dam across estuary — gates allow water in at high tide, release through **turbines** at low tide.
+- **Tidal barrage:** dam (दाम -) across estuary (ज्वारनदमुख) — gates allow water in at high tide, release through **turbines** at low tide.
 - **Tidal stream turbines:** underwater turbines in fast tidal channels — no large dam required.
 - **India's potential:Gulf of Khambhat (Cambay)** — tidal range up to **~11 m**, highest in India. **Gulf of Kutch** is second.
 - **No major commercial tidal power plant** operational in India — papers test **potential**, not installed leadership.
 - **Advantages:highly predictable** (lunar calendar) — unlike variable wind/solar.
-- **Disadvantages:** high capital cost, estuary ecosystem disruption, siltation in Khambhat.
+- **Disadvantages:** high capital cost, estuary ecosystem (पारिस्थितिकी तंत्र) disruption, siltation in Khambhat.
 - **Tidal ≠ wave energy:** tidal = gravity-driven sea level change; wave = wind-driven surface waves.
 
 **PYQ — UPPCS Prelims 2022**
@@ -247,7 +247,7 @@ D. Kerala
 
 </details>
 
-> **Logic:** Tidal potential = **Gujarat coast** (Khambhat/Kutch), not Thar Desert.
+> **Logic:** Tidal potential = **Gujarat coast** (Khambhat/Kutch), not Thar (थार) Desert.
 
 ---
 
@@ -258,7 +258,7 @@ D. Kerala
 - **Hydropower** converts **potential/kinetic energy of falling water** into electricity — renewable, rainfall-dependent.
 - **MNRE definition:Small hydro project (SHP) = ≤25 MW**. Above 25 MW = **large hydro**.
 - **Run-of-river:** minimal large reservoir — lower submergence, preferred in sensitive Himalaya.
-- **Storage/pondage:** dam + reservoir (Tehri, Bhakra model) — higher head but displacement/seismic risks.
+- **Storage/pondage:** dam + reservoir (Tehri (टिहरी), Bhakra model) — higher head but displacement/seismic risks.
 - **Himalayan rivers** have **enormous hydroelectric potential** — steep gradient, snow-fed perennial flow.
 - **Ramganga Multipurpose Project:Garhwal (Uttarakhand)**, dam on Ramganga tributary of Ganga, **~198 MW** hydropower — irrigates western **UP** plains.
 - **Pumped storage hydro:** uses off-peak electricity to pump water uphill, releases at peak demand — grid balancing with solar/wind.
@@ -277,7 +277,7 @@ D. Only 1
 
 <details><summary>Show answer</summary>
 
-**Ans: D** — Stmt 1 true. Stmt 2 false — major Indian hydro in **Uttarakhand, HP, Sikkim, Arunachal**; UP benefits via Ganga/Yamuna systems.
+**Ans: D** — Stmt 1 true. Stmt 2 false — major Indian hydro in **Uttarakhand, HP, Sikkim, Arunachal**; UP benefits via Ganga/Yamuna (यमुना) systems.
 
 </details>
 
@@ -289,7 +289,7 @@ Options include: Dam length 825.8 m | Hydropower **198 MW** | Location Garhwal |
 
 <details><summary>Show answer</summary>
 
-**Verify all four stats** — **198 MW** and **Garhwal** are standard correct facts. Irrigated area figure is the common mismatch trap in options.
+**Verify all four (चातुर्याम) stats** — **198 MW** and **Garhwal** (गढ़वाल) are standard correct facts. Irrigated area figure is the common mismatch trap in options.
 
 </details>
 

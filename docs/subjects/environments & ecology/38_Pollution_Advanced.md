@@ -4,7 +4,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Air Pollution (Sources | Air Quality | AQI | NCAP | Smog | Photochemical Smog | Industrial | Vehicular | Indoor) | Water Pollution (Surface | Groundwater | Drinking | Standards) | Soil Pollution (Fertilizers | Pesticides | Heavy Metals) | Noise Pollution (Sources | Standards) | Marine Pollution (Coastal | Ocean) | Plastic Pollution (PWM)
+Air Pollution (Sources | Air Quality | AQI | NCAP (राष्ट्रीय स्वच्छ वायु कार्यक्रम) | Smog | Photochemical Smog | Industrial | Vehicular | Indoor) | Water Pollution (Surface | Groundwater | Drinking | Standards) | Soil Pollution (Fertilizers | Pesticides | Heavy Metals) | Noise Pollution (Sources | Standards) | Marine Pollution (Coastal | Ocean) | Plastic Pollution (PWM)
 
 </details>
 
@@ -29,19 +29,19 @@ Air Pollution (Sources | Air Quality | AQI | NCAP | Smog | Photochemical Smog | 
 4. **NCAP (2019)** targets non-attainment cities with about a **20–30%** particulate cut goal.
 5. **London smog** is SO₂ plus smoke. **Photochemical smog** needs NOx, VOCs, and sunlight and yields **ozone + PAN**; **PAN** is a strong eye irritant.
 6. **Fly ash** is a thermal-power primary pollutant usable in bricks/cement; oxides SiO₂/Al₂O₃/CaO **plus toxic metals**. **BS-VI** began **1 Apr 2020**.
-7. **SAFAR** is an IITM air-quality and weather forecast system. **WAYU** units were installed in **Delhi**.
+7. **SAFAR** (सफर) is an IITM air-quality and weather forecast system. **WAYU** units were installed in **Delhi**.
 8. **CO** forms carboxyhaemoglobin (**~200–300×** affinity vs O₂). **Radon** is the top indoor air-pollutant teaching fact.
 9. **BOD** measures organic pollution through microbial oxygen demand. High BOD means worse water quality.
 10. **COD** is usually greater than or equal to BOD. Clean water often shows DO above about **6 mg/L** and BOD below about **3 mg/L**.
-11. **Eutrophication** is nutrient (N/P) overload → algal bloom → dissolved-oxygen crash — water, not air.
-12. The **Central Ground Water Board (CGWB)** issues the groundwater quality report. **CPCB** is not CGWB.
+11. **Eutrophication** (सुपोषण) is nutrient (N/P) overload → algal bloom → dissolved-oxygen crash — water, not air.
+12. The **Central Ground Water Board (CGWB)** (केंद्रीय भूजल बोर्ड) issues the groundwater quality report. **CPCB** (केंद्रीय प्रदूषण नियंत्रण बोर्ड) is not CGWB.
 13. Classic arsenic hotspot teaching points to **Bangladesh** / Gangetic plains. **Knock-knee** = fluoride; **Black Foot** = arsenic; **Minamata** = Hg; **Itai-itai** = Cd.
-14. **Damodar** = biological desert. Ganga BOD peak classically **Kanpur–Allahabad**. Leather industry = high chemical pollution.
+14. **Damodar** (दामोदर) = biological desert. Ganga (गंगा) BOD peak classically **Kanpur (कानपुर)–Allahabad (इलाहाबाद)**. Leather industry = high chemical pollution.
 15. Many pesticides are **not** readily biodegradable — a frequent true statement in papers.
 16. Heavy-metal facts include **chromium** around Kanpur plus lead, cadmium, and mercury elsewhere. Mercury sources include **gold mining** and **coal TPPs**; **no known safe exposure level**.
 17. Daytime noise standards (dB): Silence **50**, Residential **55**, Commercial **65**, Industrial **75**. **Green muffler** = tree belts for noise.
-18. **Moradabad** was flagged among the world’s noisiest cities in UNEP Frontier reporting.
-19. About **80%** of marine pollution comes from land. **MARPOL** governs ship-source pollution. **IMO HQ = London**. Ocean acidification harms calcareous life and corals.
+18. **Moradabad** was flagged among the world’s noisiest cities in UNEP (संयुक्त राष्ट्र पर्यावरण कार्यक्रम) Frontier reporting.
+19. About **80%** of marine pollution comes from land. **MARPOL** governs ship-source pollution. **IMO HQ = London**. Ocean acidification (महासागरीय अम्लीकरण) harms calcareous life and corals.
 20. Plastic Waste Management Rules date from **2016**. The SUP ban push is **2022**. EPR is the producer-responsibility tool. Microbeads harm marine ecosystems.
 21. India ranks among the world’s largest plastic-waste generators (often taught as about **third**).
 22. Indoor air pollution is driven by solid cooking fuels, tobacco smoke, poor ventilation, and **radon**.
@@ -57,7 +57,7 @@ Air Pollution (Sources | Air Quality | AQI | NCAP | Smog | Photochemical Smog | 
 32. **Bhopal MIC (Dec 1984)**; **Chernobyl (1986)** radioactive disaster teaching pair.
 33. **SWM Rules 2016** give elaborate landfill/site criteria. **R2 Code** = responsible electronics recycling.
 34. **H-CNG** reduces CO/HC/CO₂ vs CNG but does **not eliminate** CO; up to ~**1/5** H₂ by volume; not cheaper than CNG.
-35. Geoengineering teaching: **cirrus thinning** and **sulphate aerosol** injection aim at cooling / offsetting warming — not cyclone control.
+35. Geoengineering (भू-इंजीनियरिंग) teaching: **cirrus thinning** and **sulphate aerosol** injection aim at cooling / offsetting warming — not cyclone control.
 36. Steel industry emits **CO, CO₂, SOx, and NOx**. **Aflatoxins** = mould toxins on poorly stored grains.
 
 ---
@@ -147,7 +147,7 @@ SAFAR inaugurated (July 2018) by:
 **Identity:** CPCB 0–500 | Eight pollutants | Health categories | Sub-indices
 
 - India’s **AQI** (CPCB) runs from **0 to 500**. **National Air Quality Index (NAQI)** launched **17 October 2014** under the “one number–one colour–one description” idea.
-- Categories: **0–50 Good**, **51–100 Satisfactory**, **101–200 Moderate**, **201–300 Poor**, **301–400 Very Poor**, **401–500 Severe**.
+- Categories: **0–50 Good**, **51–100 Satisfactory**, **101–200 Moderate (नरम दल)**, **201–300 Poor**, **301–400 Very Poor**, **401–500 Severe**.
 - Eight pollutants: **PM10, PM2.5, NO₂, CO, O₃, SO₂, NH₃, Pb**. **CO₂ and CH₄ are not AQI parameters** (they are climate/GHG metrics).
 - CO and O₃ use **8-hour** averages; most others use **24-hour** averages. CO is reported in **mg/m³**; NO₂/O₃ typically in **µg/m³**.
 - AQI uses sub-indices for pollutants and reports the worst as the day’s AQI.
@@ -171,10 +171,10 @@ SAFAR inaugurated (July 2018) by:
 
 **Identity:** 2019 | 122 cities | 20–30% PM reduction target
 
-- **NCAP** launched in **2019** to improve air quality in non-attainment cities.
+- **NCAP** (राष्ट्रीय स्वच्छ वायु कार्यक्रम) launched in **2019** to improve air quality in non-attainment cities.
 - Covers **122 cities** with city action plans, monitoring, and source control.
 - Target framework: about **20–30% reduction in PM concentrations** over the programme timeline (baseline-linked).
-- UP NCAP cities include Lucknow, Kanpur, Ghaziabad, Agra, Varanasi, Meerut, Noida, Prayagraj, Moradabad, Bareilly, and others notified over time.
+- UP NCAP cities include Lucknow (लखनऊ), Kanpur, Ghaziabad, Agra, Varanasi (वाराणसी), Meerut (मेरठ), Noida, Prayagraj (प्रयागराज), Moradabad, Bareilly, and others notified over time.
 - Complements BS-VI fuel, dust control, and industrial CETP/stack measures.
 
 > **Logic:** NCAP = city clean-air programme, not a groundwater body.
@@ -225,7 +225,7 @@ Options: A. Oxygen and ozone B. Ozone and nitrogen C. Oxygen and nitrogen D. Oxi
 - Engine path: N₂ + O₂ → NO; then NO → NO₂; NO₂ + light → NO + O; O + O₂ → **O₃**; hydrocarbons + NOx → **PAN**.
 - It always involves **ozone** as a key secondary product; **PAN**, formaldehyde, and aldehydes also appear.
 - **PAN (peroxyacetyl nitrate)** is a powerful **eye irritant** (lachrymator) and damages plant chloroplasts.
-- Typical of traffic-rich sunny cities (Los Angeles type); also relevant to Indian summer/pre-monsoon urban episodes.
+- Typical of traffic-rich sunny cities (Los Angeles type); also relevant to Indian summer/pre-monsoon urban (नगरीय) episodes.
 - The brown-orange haze of photochemical smog is a **secondary** pollution state — SO₂ stack gas alone is **primary**.
 
 **PYQ — UPPCS Prelims 2022, Q46**
@@ -287,7 +287,7 @@ Options: A. Oil refining B. Fertilizer industry C. Thermal power plant D. Mining
 - Congestion, diesel fleets, and two-wheelers drive city NO₂/PM peaks.
 - Complementary tools: EV push, PUC checks, odd-even-type episodic measures, CAFE efficiency norms.
 - **H-CNG** (hydrogen-enriched CNG) can cut CO/HC/CO₂ versus CNG; hydrogen up to about **one-fifth** by volume can be blended; it does **not eliminate** CO and is **not** cheaper than CNG.
-- **CCAC** (Climate and Clean Air Coalition, **2012**, with UNEP) focuses on **methane, black carbon, and HFCs** — statement that it is a unique G20-only initiative is false.
+- **CCAC** (Climate and Clean Air Coalition (गठबंधन), **2012**, with UNEP) focuses on **methane, black carbon, and HFCs** — statement that it is a unique G20-only initiative is false.
 
 > **Logic:** BS-VI cut sulphur in fuel and tightened NOx/PM limits versus BS-IV. CCAC ≠ G20 club.
 
@@ -320,11 +320,11 @@ Options: A. Oil refining B. Fertilizer industry C. Thermal power plant D. Mining
 - **Eutrophication:** excess **N and P** → algal bloom → DO crash → fish kill. Eutrophication is **not** an air-pollution process.
 - Highest Ganga **BOD** stretch is classically **Kanpur–Allahabad**. **Damodar** is the classic **biological desert** river.
 - Leather-industry effluent is a top chemical pollution source for water and soil.
-- UP rivers: Ganga (Kanpur stretch), Gomti (Lucknow), Yamuna (Mathura–Agra influence).
+- UP rivers: Ganga (Kanpur stretch), Gomti (Lucknow), Yamuna (Mathura (मथुरा)–Agra influence).
 
 **PYQ — UPPCS Prelims 2023, Q103**
 
-Biological Oxygen Demand (BOD) is a standard criterion for—
+Biological Oxygen Demand (BOD) (जैव रासायनिक ऑक्सीजन मांग) is a standard criterion for—
 
 Options: A. Pollution assay in aquatic ecosystems B. High-altitude O₂ C. Blood O₂ D. Forest O₂
 
@@ -354,7 +354,7 @@ Options: A. Pollution assay in aquatic ecosystems B. High-altitude O₂ C. Blood
 
 Annual Groundwater Quality Report 2024 prepared by:
 
-1. CPCB 2. CWC 3. CGWB
+1. CPCB 2. CWC (केंद्रीय जल आयोग) 3. CGWB
 
 Options: A. 1 and 2 B. Only 3 C. 2 and 3 D. Only 1
 
@@ -406,7 +406,7 @@ Options: A. Sri Lanka B. Bangladesh C. Bhutan D. Pakistan
 
 ---
 
-## 38.14 Fertilizers and Environment
+## 38.14 Fertilizers and Environment (पर्यावरण)
 
 **Identity:** N/P runoff | Eutrophication | Urea overuse
 
@@ -420,7 +420,7 @@ Options: A. Sri Lanka B. Bangladesh C. Bhutan D. Pakistan
 
 ## 38.15 Pesticides and Environment
 
-**Identity:** Persistence | Biomagnification | Not biodegradable
+**Identity:** Persistence | Biomagnification (जैव आवर्धन) | Not biodegradable
 
 - Many pesticides are **persistent** and can **biomagnify** along food chains.
 - UPPCS treats **pesticide** as **not a biodegradable pollutant** versus domestic waste/urine/faecal matter.
@@ -443,7 +443,7 @@ Options: A. Domestic waste B. Urine C. Faecal matter D. Pesticide
 
 ## 38.16 Heavy Metal Pollution
 
-**Identity:** Pb / Cd / Cr / Hg | Bioaccumulation | Kanpur Cr
+**Identity:** Pb / Cd / Cr / Hg | Bioaccumulation (जैव संचय) | Kanpur Cr
 
 - Heavy metals do not degrade; they **bioaccumulate**.
 - Key facts: **Pb** (batteries/paint/antiknock petrol legacy), **Cd** (batteries/industry — **Itai-itai**), **Cr** (tanneries — Kanpur), **Hg** (**Minamata**; gold mining + coal TPP sources; **no known safe exposure level**).
@@ -472,13 +472,13 @@ Options: A. Domestic waste B. Urine C. Faecal matter D. Pesticide
 - Jet flights are among the most intense common outdoor noise sources; sonic boom = Mach-scale teaching.
 - **Green muffler** = multi-row roadside tree belts that absorb noise (and dust).
 - **Moradabad** was listed as the world’s **second most noise-polluted city** in UNEP **Frontier Report 2022**.
-- **Ringelmann scale** measures smoke density, not noise.
+- **Ringelmann scale** (रिंगेलमैन पैमाना) measures smoke density, not noise.
 
 **PYQ — UPPCS Prelims 2022, Q81**
 
 UNEP Frontier Report 2022 — second most noise-polluted city:
 
-Options: A. Kota B. Moradabad C. Indore D. Patna
+Options: A. Kota B. Moradabad C. Indore D. Patna (पटना)
 
 <details><summary>Show answer</summary>
 
@@ -532,10 +532,10 @@ Teach CPCB industrial day standard as **75 dB** in general notes.
 - About **80%** of marine pollution originates on **land**.
 - **MARPOL** is the key international ship-pollution convention. **IMO** headquarters is in **London**.
 - **Ocean acidification** (CO₂ → falling ocean pH) harms calcareous phytoplankton, coral reefs, and some animals with phytoplankton larvae — cloud seeding is **not** the standard concern list.
-- Harmful algal blooms link to estuary nutrients, monsoon run-off, and upwelling.
+- Harmful algal blooms link to estuary (ज्वारनदमुख) nutrients, monsoon run-off, and upwelling.
 - **SACEP** = South Asia Cooperative Environment Programme.
 - Major issues: oil spills, nutrient dead zones, and plastic/microplastic accumulation in gyres.
-- Coral stress combines warming and local pollution (cross-topic with climate/coral bleaching).
+- Coral stress combines warming and local pollution (cross-topic with climate/coral bleaching (प्रवाल विरंजन)).
 
 > **Logic:** Ocean pollution ≠ only mid-ocean dumping. Acidification ≠ cloud seeding.
 
@@ -552,7 +552,7 @@ Teach CPCB industrial day standard as **75 dB** in general notes.
 - **Microplastics** are plastic particles **< 5 mm**. **Microbeads** in cosmetics are harmful to **marine ecosystems**.
 - Polythene bags persist because they are **polymers** of ethylene, not because they are proteins.
 
-> **Logic:** PWM/EPR = management law track; SUP ban = item-specific prohibition track.
+> **Logic:** PWM/EPR = management law track; SUP ban = item-specific prohibition (प्रतिषेध) track.
 
 ---
 

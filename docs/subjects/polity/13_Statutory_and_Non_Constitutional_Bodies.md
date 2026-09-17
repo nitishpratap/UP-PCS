@@ -91,12 +91,12 @@ D. 2 and 3
 1. A **statutory body** is created by an **Act of Parliament or a State legislature**. It is not created by the Constitution (CAT is the special case that rides on **Article 323A**).
 2. The **Lokpal and Lokayuktas Act, 2013** creates a Chairperson and up to **eight** members, with **half** judicial and **half** from SC/ST/OBC/minorities/women. Term is **five years or age 70**. Removal is like a Supreme Court judge.
 3. Lokpal’s Selection Committee is the **Prime Minister**, **Lok Sabha Speaker**, **Leader of Opposition in the Lok Sabha**, the **CJI or nominee**, and an **eminent jurist**. The **Chairman of the Rajya Sabha** is **not** on that panel. Search Committee and Selection Committee are different bodies.
-4. The first Lokpal was **Justice P.C. Ghose (2019)**. Complaints ordinarily cover acts within about **seven years** and follow a prescribed form. **Lokayukta** is a **State Act** office; **Maharashtra (1971)** was first; Uttar Pradesh has a 1975 Act with an Up-Lokayukta.
+4. The first Lokpal was **Justice P.C. Ghose (2019)**. Complaints ordinarily cover acts within about **seven years** and follow a prescribed form. **Lokayukta** (लोकायुक्त) is a **State Act** office; **Maharashtra (1971)** was first; Uttar Pradesh has a 1975 Act with an Up-Lokayukta.
 5. The **Central Vigilance Commission** began from the Santhanam idea (**1962**), became executive in **1964**, and gained statutory status under the **CVC Act, 2003** after *Vineet Narain*. It has **no constitutional article**. Composition is Chairperson plus **two** Vigilance Commissioners.
 6. CVC members are selected by the **Prime Minister, Home Minister, and Leader of Opposition**, for **four years or age 65**. The CVC has superintendence over the CBI in Prevention of Corruption cases, but the CVC itself is **not** a police force. The CBI Director panel is **PM + LoP (LS) + CJI**, not the CVC.
 7. The **RTI Act, 2005** (in force **12 October 2005**) creates the CIC and SICs. Normal reply time is **30 days** (**48 hours** where life or liberty is at stake). PIO penalty can go up to **₹25,000**. The 2019 amendment lets the Centre prescribe term and salary.
 8. CIC selection involves the **Prime Minister, Leader of Opposition, and a Union Cabinet Minister**. The RTI movement’s grassroots fact is often traced to **MKSS**. Section **8** lists exemptions; section **4** demands suo motu disclosure.
-9. The **NHRC** is under the **Protection of Human Rights Act, 1993**. It is **statutory**, not Article **338**. Its recommendations are recommendatory. Complaints are ordinarily within **one year**. After 2019, the Chair may be a retired **CJI or Supreme Court judge**; term is **three years or age 70**.
+9. The **NHRC** (राष्ट्रीय मानव अधिकार आयोग) is under the **Protection of Human Rights Act, 1993**. It is **statutory**, not Article **338**. Its recommendations are recommendatory. Complaints are ordinarily within **one year**. After 2019, the Chair may be a retired **CJI or Supreme Court judge**; term is **three years or age 70**.
 10. An **SHRC** Chair is typically a retired High Court Chief Justice; after 2019 a retired High Court judge may also qualify. Do not treat NHRC/SHRC as constitutional commissions under 338–338B.
 11. The **National Green Tribunal (2010)** covers scheduled environment Acts; the **Wildlife Protection Act** is **not** on that schedule. The Chair is an SC or HC judge; the Principal Bench is in **Delhi**; appeal lies to the Supreme Court; disposal aim is about **six months**.
 12. NGT decides with the principles of **sustainable development**, **polluter pays**, and the **precautionary** principle. It is created by the NGT Act, not by Article 323A.
@@ -108,9 +108,9 @@ D. 2 and 3
 18. The **RBI** follows the Hilton Young idea (**1926**), the RBI Act **1934**, and started on **1 April 1935**; it was nationalised in **1949**. Currency notes are an RBI function, but **₹1 notes and coins** are Government of India. The **Monetary Policy Committee** dates to **2016**.
 19. The **National Housing Bank** Act is **1987**. From **2019**, the **RBI** regulates housing finance companies while the Government owns NHB — a classic ownership-versus-regulation split.
 20. **CAT** was created by the Administrative Tribunals Act, **1985**, with Principal Bench at Delhi, under **Article 323A**. High Court writ power under **226** survives after *L. Chandra Kumar*. Armed forces use the **Armed Forces Tribunal (2007)**, not CAT.
-21. **NITI Aayog** began by Cabinet Resolution on **1 January 2015**. It is **neither constitutional nor statutory**. The **Prime Minister** is Chair; the first Vice-Chair was **Arvind Panagariya**. It is a think-tank and does **not** replace the Finance Commission.
+21. **NITI Aayog** (नीति आयोग) began by Cabinet Resolution on **1 January 2015**. It is **neither constitutional nor statutory**. The **Prime Minister** is Chair; the first Vice-Chair was **Arvind Panagariya**. It is a think-tank and does **not** replace the Finance Commission.
 22. NITI’s Governing Council includes Chief Ministers and Lieutenant Governors. It is the **SDG nodal** body. It runs AIM, DMEO, and Aspirational Districts. It does **not** allocate the old Planning Commission Plan funds.
-23. The old **Planning Commission** began on **15 March 1950**. The **National Development Council** began on **6 August 1952** (PM plus Chief Ministers) and approved Five-Year Plans. NITI replaced the Planning Commission, not the NDC’s entire political history overnight, but Plan-era machinery changed.
+23. The old **Planning Commission** (योजना आयोग) began on **15 March 1950**. The **National Development Council** began on **6 August 1952** (PM plus Chief Ministers) and approved Five-Year Plans. NITI replaced the Planning Commission, not the NDC’s entire political history overnight, but Plan-era machinery changed.
 24. The **CBI** was set up by an MHA resolution on **1 April 1963**. Its investigation power rides on the **Delhi Special Police Establishment Act, 1946**. It is **not** statutory in the same way as the CVC Act body. It needs **State consent** under section **6** unless a High Court or the Supreme Court orders otherwise.
 25. CBI is India’s National Central Bureau for **Interpol** and runs **BHARATPOL**. The Academy is at **Ghaziabad**. Administrative control links include **DoPT**.
 26. The **NIA** was created by the **NIA Act, 2008** after 26/11. It investigates scheduled offences and does **not** need State consent in the CBI sense. The **2019** amendment widened its reach.
@@ -175,7 +175,7 @@ Bodies **created by Act** or by **executive resolution**. None of them (except C
 
 - The modern ombudsman institution began in **Sweden in 1809**.
 - Justice **Ajay Manikrao Khanwilkar** became Chairperson of the Lokpal on **10 March 2024**.
-- The **Lokpal** consists of a **Chairperson** and a **maximum of 8 members**.
+- The **Lokpal** (लोकपाल) consists of a **Chairperson** and a **maximum of 8 members**.
 - **At least 50%** of the members must be **judicial members**.
 - **At least 50%** of the members must be from **SC, ST, OBC, minorities, or women**.
 - The **Chairperson** must be a sitting or retired **Chief Justice of India or a Supreme Court judge**, or a person of impeccable integrity with **at least 25 years** of special knowledge in fields such as anti-corruption policy, public administration, vigilance, or law.
@@ -248,8 +248,8 @@ The **Anna Hazare / India Against Corruption movement (2011)** is the street-pol
 - Each State's **Lokayukta** is set up under that **State's own Act** — there is no central Lokayukta statute for the States.
 - The **2013 Union Lokpal Act** asked States to put a Lokayukta in place; many States already had one before that.
 - **Maharashtra**, in **1971**, was the **first State** to set up a Lokayukta.
-- **Odisha** passed a Lokayukta law first in **1970**, but its institution became operational only in **1983**. Maharashtra enacted its law in **1971** and established the first functioning Lokayukta in **1972**.
-- **Uttar Pradesh** enacted the **U.P. Lokayukta and Up-Lokayukta Act, 1975** — one of the earliest State laws.
+- **Odisha** (ओडिशा) passed a Lokayukta law first in **1970**, but its institution became operational only in **1983**. Maharashtra enacted its law in **1971** and established the first functioning Lokayukta in **1972**.
+- **Uttar Pradesh** (उत्तर प्रदेश) enacted the **U.P. Lokayukta and Up-Lokayukta Act, 1975** — one of the earliest State laws.
 - From **26 February 2024**, the U.P. Lokayukta holds office for **five years or until age 70**, whichever is earlier.
 - The **Up-Lokayukta** is the number-two official under the UP Act.
 - Typically — and in UP — the Lokayukta is appointed by the **Governor**, after consulting the **Chief Justice of the High Court** and the **Leader of Opposition**; the exact wording follows each State's own Act.
@@ -543,7 +543,7 @@ To sum up: the **CAT is a 1985 statutory body**, **enabled by Art. 323A**. **Arm
 | **Statutory** | **Act of Parliament / State** | Lokpal, CVC, CIC, NHRC, NGT, CAT, RBI… (above) |
 | **Executive / extra-constitutional** | **Resolution / order** | **NITI, NDC, CBI, IB, RAW, ED, NSC**. **NIA** is the odd one: **statutory** terror agency parked here because the syllabus lists it with the police/intel set |
 
-> **Logic:** “Extra-constitutional agency” (2018) = **NITI**, not UPSC/FC/ECI. CBI is **not** a 2003-style statutory commission even though DSPE 1946 gives it teeth.
+> **Logic:** “Extra-constitutional agency” (2018) = **NITI** (नीति), not UPSC/FC/ECI. CBI is **not** a 2003-style statutory commission even though DSPE 1946 gives it teeth.
 
 ---
 
@@ -551,7 +551,7 @@ To sum up: the **CAT is a 1985 statutory body**, **enabled by Art. 323A**. **Arm
 
 **Extra-constitutional planning body (1950) replaced by an extra-constitutional think-tank (2015)** — neither is the Finance Commission.
 
-- The **Planning Commission** was born on **15 March 1950**, as an **extra-constitutional** body, with **Nehru** as its Chair.
+- The **Planning Commission** was born on **15 March 1950**, as an **extra-constitutional** body, with **Nehru** (नेहरू) as its Chair.
 - The **12th and last Five-Year Plan** ended in **2017**.
 - The Commission's **working head** was the **Deputy Chairman** — again, **not** a constitutional office.
 - **Ashok Chanda** called the Planning Commission the **"Economic Cabinet of India"** — a fact tested in **2018**.
@@ -574,7 +574,7 @@ The **NITI Aayog** was set up by a **Cabinet Resolution** — **not** by an Act,
 
 The NITI Aayog functions as a **think-tank** — promoting cooperative and competitive federalism, bottom-up planning, a national agenda, performance indices, and hand-holding of States. Its early documents were the **15-year Vision, 7-year Strategy, and 3-year Action Agenda**. The **DMEO (Development Monitoring and Evaluation Office)** became an attached office **under NITI** in **2020**, as did the **Atal Innovation Mission (AIM)** and its **Atal Tinkering Labs**.
 
-The NITI Aayog is **not** the **Finance Commission** — the FC rests on **Art. 280** and its report goes to the **President** (2023 fact). The NITI Aayog does **not allocate Plan funds** — that was the Planning Commission's job; today, expenditure runs through the **Budget and the Finance Ministry**. It does **not recommend MSP** — that is the **CACP's** job. And being chaired by the PM does **not** make it a **constitutional** body.
+The NITI Aayog is **not** the **Finance Commission** (वित्त आयोग) — the FC rests on **Art. 280** and its report goes to the **President** (2023 fact). The NITI Aayog does **not allocate Plan funds** — that was the Planning Commission's job; today, expenditure runs through the **Budget and the Finance Ministry**. It does **not recommend MSP** — that is the **CACP's** job. And being chaired by the PM does **not** make it a **constitutional** body.
 
 The **NITI Aayog is India's SDG nodal institution**, a fact tested in **2019**. **MoSPI** maintains the indicator framework, while **NITI** publishes the **SDG India Index**.
 
@@ -903,7 +903,7 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Chair + **four**; report to **President**. NITI is **not** the FC.
+**Ans: D.** Chair + **four** (चातुर्याम); report to **President**. NITI is **not** the FC.
 
 </details>
 

@@ -4,7 +4,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Microplastics | Carbon Credit | Carbon Trading | Net Zero Emissions | Green Finance | Blue Economy | LiFE Mission
+Microplastics | Carbon Credit (कार्बन क्रेडिट) | Carbon Trading | Net Zero Emissions (नेट जीरो उत्सर्जन) | Green Finance (हरित वित्त) | Blue Economy (नीली अर्थव्यवस्था) | LiFE Mission
 
 </details>
 
@@ -25,24 +25,24 @@ Microplastics | Carbon Credit | Carbon Trading | Net Zero Emissions | Green Fina
 
 1. **Microplastics** are plastic fragments **smaller than 5 mm**. Primary sources include microbeads; secondary sources come from larger plastic breaking down. They are not “fast biodegradable.”
 2. Microplastics enter food webs from plankton to fish to humans. India’s identified single-use plastic bans tightened around **2022**. UN plastics treaty talks (INC) also run from that period.
-3. One **carbon credit** equals **1 tonne of CO₂-equivalent** reduced, removed, or avoided. Kyoto’s CDM produced CERs; voluntary markets use standards such as Verra and Gold Standard.
+3. One **carbon credit** equals **1 tonne of CO₂-equivalent** reduced, removed, or avoided. Kyoto (क्योटो)’s CDM produced CERs; voluntary markets use standards such as Verra and Gold Standard.
 4. **Carbon trading** is the market that buys and sells allowances or credits (cap-and-trade). The **EU ETS** is the largest compliance market. India’s **CCTS (2023)** under the Energy Conservation Act line is steered with **BEE**.
 5. **PAT** creates energy-efficiency certificates (**ESCerts**). PAT is **not** identical to carbon credits under CCTS.
 6. **Green Credit Programme (2023)** rewards eco-actions. It is **not** the same instrument as a carbon credit.
 7. **Net zero** means anthropogenic emissions balanced by removals. India’s target is **2070** (COP26 Glasgow **2021**). China is often locked at **2060**; EU/UK at **2050**. Net zero is not gross zero.
 8. India’s NDC track includes cutting emission intensity and raising non-fossil capacity share toward the **2030** horizon (including the ~50% non-fossil capacity language in later updates).
-9. **Green finance** is capital for climate and environment projects — green bonds, climate funds, GCF. India issued **Sovereign Green Bonds** in FY **2022–23**; SEBI’s Green Bond Framework is **2023**.
+9. **Green finance** is capital for climate and environment (पर्यावरण) projects — green bonds, climate funds, GCF. India issued **Sovereign Green Bonds** in FY **2022–23**; SEBI’s Green Bond Framework is **2023**.
 10. The **$100 billion** a year climate-finance pledge is the developed-to-developing finance politics fact. Loss and Damage Fund operationalisation is linked to **COP28 (2023)**.
-11. **Blue economy** is sustainable ocean and coastal use — fisheries, ports, tourism, offshore renewables — aligned with **SDG 14**. **Blue carbon** is carbon stored in mangroves and seagrass.
+11. **Blue economy** is sustainable ocean and coastal use — fisheries, ports, tourism, offshore renewables — aligned with **SDG 14**. **Blue carbon** (नीला कार्बन) is carbon stored in mangroves and seagrass.
 12. **MISHTI (2023 Budget)** restores mangroves and sits beside Sagarmala and Deep Ocean Mission in the blue–coastal policy neighbourhood.
-13. **LiFE** (Lifestyle for Environment) is a MoEFCC behaviour-change mission. The idea was pitched at **COP26 Glasgow (2021)** and launched in **June 2022**. It is **not** a COP-25 Madrid product.
+13. **LiFE** (Lifestyle for Environment (जीवनशैली पर्यावरण)) is a MoEFCC (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय) behaviour-change mission. The idea was pitched at **COP26 Glasgow (2021)** and launched in **June 2022**. It is **not** a COP-25 Madrid product.
 14. LiFE catalogues pro-planet actions for citizens; it is lifestyle awareness, not a carbon-market statute.
 15. Carbon credit (unit) ≠ carbon trading (market) ≠ Green Credit (eco-action incentive) ≠ green finance (capital).
 16. India net zero is **2070**, not 2050.
 17. Microplastics are **<5 mm**, not 5 cm.
 18. Kyoto flexible mechanisms are climate tools; Montreal is ozone — do not swap treaty families in “current issues” stems.
 19. Nature-based credits often come from forestry and mangrove (blue carbon) projects.
-20. UNEP’s Emissions Gap Report tracks the gap between pledges and pathways — neighbour to net-zero politics.
+20. UNEP (संयुक्त राष्ट्र पर्यावरण कार्यक्रम)’s Emissions Gap Report (उत्सर्जन अंतराल रिपोर्ट) tracks the gap between pledges and pathways — neighbour to net-zero politics.
 21. SUP item bans are domestic plastic regulation; they do not by themselves equal a global plastics treaty.
 22. CCTS is India’s carbon market architecture; PAT remains an efficiency-certificate neighbour under BEE.
 23. Blue economy is ocean wealth with sustainability; it is not a synonym for inland wetland policy alone.
@@ -83,13 +83,13 @@ Microplastics | Carbon Credit | Carbon Trading | Net Zero Emissions | Green Fina
 
 ## 24.1 Microplastics
 
-**Identity:** <5 mm | Primary vs secondary | Persistent | Ganga/food-chain contamination
+**Identity:** <5 mm | Primary vs secondary | Persistent | Ganga (गंगा)/food-chain contamination
 
 - **Microplastics** are plastic particles **smaller than 5 mm** — primary (manufactured small) or secondary (fragmented from larger plastic).
 - **Primary:** microbeads in cosmetics, plastic **nurdles**, industrial abrasives.
 - **Secondary:** bags, bottles, fishing nets, and **tyre wear** breaking down — most environmental mass is secondary.
 - **Major sources:** single-use packaging, **synthetic textile fibres** (laundry effluent), tyre abrasion, fishing gear, agricultural plastic mulch.
-- **Pathways:** land → rivers → sea. **Ganga and Yamuna** studies show microplastic contamination downstream of urban centres (Kanpur, Varanasi, Lucknow).
+- **Pathways:** land → rivers → sea. **Ganga and Yamuna (यमुना)** studies show microplastic contamination downstream of urban (नगरीय) centres (Kanpur (कानपुर), Varanasi (वाराणसी), Lucknow (लखनऊ)).
 - **Health concern:** detected in blood, lungs, placenta — potential carrier for toxins; research ongoing.
 - **Persistence trap:** polyethylene/polypropylene persist **decades to centuries** — photodegradation makes **smaller** particles, not harmless minerals.
 - **Global policy:** UNEA **2022** resolution launched **Global Plastics Treaty** negotiations (INC process).
@@ -109,7 +109,7 @@ Microplastics | Carbon Credit | Carbon Trading | Net Zero Emissions | Green Fina
 **Identity:** 1 credit = 1 tCO₂e | Kyoto CDM/CERs | Nature-based credits | Green Credit ≠ carbon credit
 
 - **Carbon credit** is a tradable certificate representing **one tonne of CO₂ equivalent (tCO₂e)** reduced, avoided, or removed.
-- **Project-based generation:** verified emission-reduction project (solar displacing coal, biogas, afforestation) → accredited body issues credits → sold to buyer.
+- **Project-based generation:** verified emission-reduction project (solar displacing coal, biogas (बायोगैस), afforestation) → accredited body issues credits → sold to buyer.
 - **Kyoto CDM (Clean Development Mechanism):** developed countries fund projects in developing countries → **Certified Emission Reductions (CERs)**. India hosted many wind/solar CDM projects.
 - **Voluntary Carbon Market:** companies buy credits for net-zero pledges — **Verra (VCS), Gold Standard** standards.
 - **Nature-based credits:** afforestation, REDD+, **mangrove restoration** — permanence risk if forest burns or is cleared.
@@ -125,7 +125,7 @@ A. Earth Summit, Rio
 
 B. Kyoto Protocol
 
-C. Montreal Protocol
+C. Montreal Protocol (मॉन्ट्रियल प्रोटोकॉल)
 
 D. G-8 Summit
 
@@ -148,21 +148,21 @@ D. G-8 Summit
 - **Carbon credit vs carbon trading:** credit = **unit** (1 tCO₂e); trading = **market** exchanging those units.
 - **EU Emissions Trading System (EU ETS)** is the world's **largest compliance carbon market**.
 - **Kyoto flexible mechanisms:** (1) Emissions Trading among Annex I countries, (2) **CDM**, (3) Joint Implementation.
-- **India Carbon Credit Trading Scheme (CCTS), 2023** under **Energy Conservation Act 2001** — **Bureau of Energy Efficiency (BEE)** as designated authority.
-- **PAT (Perform, Achieve and Trade), 2012:** trades **energy efficiency certificates (ESCerts)** — parallel market-based compliance, **not identical to carbon credits**.
+- **India Carbon Credit Trading Scheme (CCTS), 2023** under **Energy Conservation Act 2001** — **Bureau of Energy Efficiency (BEE)** (ऊर्जा दक्षता ब्यूरो) as designated authority.
+- **PAT (Perform, Achieve and Trade (पण्याध्यक्ष)), 2012:** trades **energy efficiency certificates (ESCerts)** — parallel market-based compliance, **not identical to carbon credits**.
 - **Compliance vs voluntary:** compliance markets are legally mandated (EU ETS, future CCTS); voluntary markets are optional corporate purchases.
 
 **PYQ — UPPCS Prelims 2024, Q35**
 
-Which international agreement is related to climate change mitigation?
+Which international agreement is related to climate change (जलवायु परिवर्तन) mitigation?
 
 A. Montreal Protocol
 
-B. Ramsar Convention
+B. Ramsar (रामसर) Convention
 
 C. Kyoto Protocol
 
-D. CITES
+D. CITES (साइट्स)
 
 <details><summary>Show answer</summary>
 
@@ -174,7 +174,7 @@ D. CITES
 |---------|------------|
 | Carbon credit | Unit = 1 tCO₂e |
 | Carbon trading | Market exchanging credits/allowances |
-| Carbon offset | Using credits to compensate own emissions |
+| Carbon offset (कार्बन ऑफसेट) | Using credits to compensate own emissions |
 
 > **Logic:** Montreal = ozone. Kyoto/Paris = climate. PAT = **energy efficiency**, not carbon directly.
 
@@ -184,13 +184,13 @@ D. CITES
 
 **Identity:** Emissions = removals | India 2070 COP26 | NDC 2030 interim | Emissions Gap = UNEP
 
-- **Net zero:** anthropogenic GHG emissions are **balanced by anthropogenic removals** over a specified period — not absolute gross zero.
+- **Net zero:** anthropogenic GHG emissions are **balanced by anthropogenic removals** over a specified period — not absolute (निरपेक्ष) gross zero.
 - **Gross zero** means eliminating virtually all emissions — harder and costlier than net zero.
 - **India's target: net zero by 2070** — announced by PM at **COP26 Glasgow, November 2021**.
-- **Interim NDC 2030 (updated 2022):** (1) reduce emissions **intensity of GDP by 45%** from 2005, (2) **50% cumulative electric capacity from non-fossil sources**, (3) additional **2.5–3 GtCO₂e carbon sink** through forests.
+- **Interim NDC 2030 (updated 2022):** (1) reduce emissions **intensity of GDP by 45%** from 2005, (2) **50% cumulative electric capacity from non-fossil sources**, (3) additional **2.5–3 GtCO₂e carbon sink (कार्बन सिंक)** through forests.
 - **Carbon neutral vs net zero:** carbon neutral often means **CO₂ only**; full GHG net zero includes methane and N₂O.
 - **Country comparison:** EU/UK **2050**, China **2060**, India **2070**, US **2050** (pledge).
-- **UNEP Emissions Gap Report** measures gap between NDC pledges and **1.5°C/2°C pathways** — published by **UNEP**.
+- **UNEP Emissions Gap Report** measures gap between NDC pledges and **1.5°C/2°C pathways** — published by **UNEP** (संयुक्त राष्ट्र पर्यावरण कार्यक्रम).
 
 | Country | Net zero year |
 |---------|---------------|
@@ -206,11 +206,11 @@ D. CITES
 
 **Identity:** Green bonds | Sovereign Green Bonds FY 2022–23 | SEBI framework | GCF | Loss and Damage COP28
 
-- **Green finance** mobilises capital for investments with environmental benefits — clean energy, pollution prevention, biodiversity, climate adaptation.
+- **Green finance** mobilises capital for investments with environmental benefits — clean energy, pollution prevention, biodiversity, climate adaptation (जलवायु अनुकूलन).
 - **Green bonds:** debt where proceeds fund **eligible green projects** only — renewables, clean transport, water, adaptation.
 - **India's first Sovereign Green Bonds** issued in **FY 2022–23** (January 2023 tranches) for solar, wind, green hydrogen, EV public transport.
 - **SEBI Green Bond Framework (2023)** defines eligible categories and disclosure — aligns with ICMA Green Bond Principles.
-- **Green Climate Fund (GCF)** operates under **UNFCCC** — established at **Cancun COP-16 (2010)** to support developing-country adaptation and mitigation. It is **not** a Durban creation and not founded under UNEP/OECD/ADB/World Bank.
+- **Green Climate Fund (GCF)** (जीसीएफ) operates under **UNFCCC** (यूएनएफसीसीसी) — established at **Cancun COP-16 (2010)** to support developing-country adaptation and mitigation. It is **not** a Durban creation and not founded under UNEP/OECD/ADB/World Bank.
 - **$100 billion/year climate finance pledge** by developed countries — committed at **COP15 Copenhagen (2009)**, reaffirmed Paris 2015.
 - **Loss and Damage Fund** operationalised at **COP28 UAE (2023)** — finances recovery from climate impacts exceeding adaptation capacity.
 - **Green finance ≠ Green Credit Programme** — finance = capital markets; Green Credit = eco-action incentive certificates.
@@ -229,10 +229,10 @@ D. CITES
 
 **Identity:** SDG 14 | Sustainable ocean use | MISHTI 2023 | Sagarmala | Blue carbon
 
-- **Blue economy** is the **sustainable use of ocean resources** for economic growth and livelihoods while preserving marine and coastal ecosystem health.
+- **Blue economy** is the **sustainable use of ocean resources** for economic growth and livelihoods while preserving marine and coastal ecosystem (पारिस्थितिकी तंत्र) health.
 - **SDG 14** = **Life Below Water** — conserve and sustainably use oceans, seas, and marine resources.
 - India has **~2.37 million sq km EEZ** — fisheries, ports, shipping, coastal tourism, offshore wind, marine biotechnology.
-- **Blue carbon:** mangroves, seagrass, salt marshes sequester carbon faster per hectare than many terrestrial forests.
+- **Blue carbon:** mangroves, seagrass, salt (लवणाध्यक्ष) marshes sequester carbon faster per hectare than many terrestrial forests.
 - **MISHTI** (Mangrove Initiative for Shoreline Habitats and Tangible Income) announced in **Union Budget 2023–24** — restore mangrove forests for cyclone protection and livelihoods.
 - **Sagarmala:** port-led coastal development — MoPSW nodal.
 - **Deep Ocean Mission:** manned submersible (Samudrayaan), deep-sea mining exploration, biodiversity survey.
@@ -262,7 +262,7 @@ D. Only 1
 | Ports/shipping | Sagarmala |
 | Deep-sea exploration | Deep Ocean Mission |
 
-> **Logic:** MISHTI = **coastal mangroves**, not Ganga basin. Blue economy = **SDG 14**.
+> **Logic:** MISHTI = **coastal mangroves**, not Ganga basin (गंगा). Blue economy = **SDG 14**.
 
 ---
 
@@ -272,7 +272,7 @@ D. Only 1
 
 - **LiFE (Lifestyle for Environment)** is an India-led movement for **individual and community pro-planet behaviour change** — mindful consumption over destructive consumption.
 - **Idea announced at COP26, Glasgow, November 2021** by the PM — complement to government climate policy; individuals as change agents for SDG 12 and SDG 13.
-- **Mission LiFE formally launched in June 2022** — **MoEFCC** is nodal ministry.
+- **Mission LiFE formally launched in June 2022** — **MoEFCC** (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय) is nodal ministry.
 - **75 pro-planet actions:** save energy, reduce waste, save water, sustainable food, e-waste disposal, tree plantation — via **Mission LiFE app/portal**.
 - **Mechanism:** nudge and awareness (not regulatory law) — reduces lifestyle carbon footprint from food, transport, household energy.
 - Supports **net zero 2070** through demand-side emission reduction alongside technology deployment.

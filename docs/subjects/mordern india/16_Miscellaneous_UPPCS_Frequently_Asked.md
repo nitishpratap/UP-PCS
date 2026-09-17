@@ -4,7 +4,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Slogans | Newspapers & Journals | Books & Authors | Committees & Commissions | British Acts Timeline | Treaties & Agreements | INC Sessions (Place–President–Resolution) | Revolutionary Organisations & HQ | UP Freedom Fighters | Women Freedom Fighters | British Officials & Policies | Forts, Monuments & Museums | Chronology 1757–1947
+Slogans | Newspapers & Journals | Books & Authors | Committees & Commissions | British Acts Timeline | Treaties & Agreements | INC Sessions (Place–President–Resolution) | Revolutionary (क्रांतिकारी) Organisations & HQ | UP Freedom Fighters | Women Freedom Fighters | British Officials & Policies | Forts, Monuments & Museums | Chronology 1757–1947
 
 </details>
 
@@ -17,31 +17,31 @@ Slogans | Newspapers & Journals | Books & Authors | Committees & Commissions | B
 
 ## Consolidated — 28 Must-Score Facts
 
-1. **“Swaraj is my birthright and I shall have it”** is **Tilak**. **“Do or Die”** is **Gandhi** at Quit India (**8 August 1942**).
-2. **“Inquilab Zindabad”** was coined by **Hasrat Mohani** and popularised by **Bhagat Singh**. It is not Bose’s slogan.
-3. **“Give me blood and I will give you freedom,” “Jai Hind” and “Delhi Chalo”** belong to **Bose / INA**.
-4. **Vande Mataram** (Bankim, *Anandamath*) is the national **song**. **Jana Gana Mana** (Tagore) is the national **anthem** (Calcutta session **1911**).
-5. **“Back to the Vedas”** is **Dayanand Saraswati**. **“One caste, one religion, one God”** is **Sri Narayana Guru**.
-6. **“Educate, Agitate, Organise”** is **Ambedkar**. **“Sarfaroshi ki tamanna”** sits with the **Bismil** / Kakori stream.
-7. **Tilak’s *Kesari* (Marathi) and *Mahratta* (English)** are **Pune** papers — not Gorakhpur.
-8. UP press match: **Swadesh–Gorakhpur**, **Bharat Bandhu–Hathras**, **Satyawadi–Agra**, **Shakti–Almora**.
-9. Gandhi’s papers include ***Young India***, ***Harijan*** and ***Navajivan***. ***Indian Opinion*** belongs to his South Africa years.
-10. INC firsts: **Bonnerjee 1885** (first session); **Tyabji 1887** (first Muslim); **Yule 1888** (first English); **Besant 1917** (first woman); **Sarojini 1925** (first Indian woman).
-11. **Belgaum 1924** is Gandhi’s **only** presidentship. **Lahore 1929** is **Purna Swaraj**. **Karachi 1931** (Patel) is Fundamental Rights. **Faizpur 1937** is the first village session.
-12. **Tilak never** became Congress President. Bose held **1938–39**; Azad held **Ramgarh 1940**.
-13. UP 1857: **Lucknow = Begum Hazrat Mahal**; **Allahabad = Liyaqat Ali** — never swap.
-14. UP map facts: **Kakori 9 Aug 1925**; **Chauri Chaura 4/5 Feb 1922 (Gorakhpur)**; **Azad Park, Allahabad**.
-15. Treaty year facts: **Allahabad 1765**, **Madras 1769**, **Salbai 1782**, **Mangalore 1784**. Chronological order is Allahabad → Madras → Salbai → Mangalore.
-16. Education commissions ladder: **Wood 1854 → Hunter 1882 → Sadler 1917 → Sargeant 1944**.
-17. **Hunter Commission 1882** is education. **Hunter Committee 1919** is the Jallianwala inquiry — different bodies.
-18. Mission year facts: **Simon 1927**, **Nehru Report 1928**, **Cripps 1942**, **Cabinet Mission 1946**.
-19. Official ↔ policy: **Curzon — Partition 1905**; **Minto — separate electorates 1909**; **Chelmsford — Montford 1919**; **Irwin — Gandhi–Irwin Pact 1931**; **Willingdon — Communal Award 1932**; **Mountbatten — 3 June Plan**.
-20. **Shanti Ghosh** is a **1931 Bengal** revolutionary name. **Aruna Asaf Ali** is **Quit India 1942** — do not swap.
-21. INA trials sat at the **Red Fort**, not Gwalior Fort.
-22. **Rani Lakshmibai** is the Rani of Jhansi. **Jhalkari Bai** is the Dalit soldier remembered as resembling her in battle.
-23. ***Poverty and Un-British Rule*** = Naoroji **1901**. ***Economic Nationalism*** historiography = **Bipan Chandra**.
-24. ***Anandamath*** = Bankim; ***Hind Swaraj*** = Gandhi; ***Discovery of India*** = Nehru; ***India Wins Freedom*** = Azad; ***Gita Rahasya*** = Tilak.
-25. **Simon Go Back** is keyed to the anti-Simon agitation and the **Lajpat Rai** association.
+1. **“Swaraj (स्वराज) is my birthright and I shall have it”** is **Tilak** (तिलक). **“Do or Die (करो या मरो)”** is **Gandhi** (गांधी) at Quit India (भारत छोड़ो) (**8 August 1942**).
+2. **“Inquilab (इंकलाब) Zindabad”** was coined by **Hasrat Mohani** and popularised by **Bhagat Singh** (भगत सिंह). It is not Bose’s slogan.
+3. **“Give me blood (खून दो) and I will give you freedom,” “Jai Hind” and “Delhi Chalo”** belong to **Bose / INA (आज़ाद हिंद फौज)**.
+4. **Vande Mataram** (Bankim, *Anandamath* (आनंदमठ)) is the national **song** (सोंग). **Jana Gana Mana (माना)** (Tagore) is the national **anthem** (Calcutta session (पंगु सत्र) **1911**).
+5. **“Back to the Vedas”** is **Dayanand Saraswati (सरस्वती)**. **“One caste, one religion, one God”** is **Sri Narayana Guru (गुरु)**.
+6. **“Educate, Agitate, Organise”** is **Ambedkar** (अम्बेडकर). **“Sarfaroshi ki tamanna”** sits with the **Bismil** / Kakori stream.
+7. **Tilak’s *Kesari* (Marathi) and *Mahratta* (English)** are **Pune** (पुणे) papers — not Gorakhpur (गोरखपुर).
+8. UP press match: **Swadesh (स्वदेश)–Gorakhpur**, **Bharat Bandhu–Hathras (हाथरस)**, **Satyawadi–Agra**, **Shakti (शक्ति)–Almora (अल्मोड़ा)**.
+9. Gandhi’s papers include ***Young India***, ***Harijan** (हरिजन)* and ***Navajivan***. ***Indian Opinion*** belongs to his South Africa years.
+10. INC firsts: **Bonnerjee 1885** (first session); **Tyabji 1887** (first Muslim); **Yule 1888** (first English); **Besant (बेसेंट) 1917** (एनी बेसेंट) (first woman); **Sarojini 1925** (सरोजिनी) (first Indian woman).
+11. **Belgaum 1924** (बेलगाव) is Gandhi’s **only** presidentship. **Lahore 1929** (लाहौर) is **Purna Swaraj** (पूर्ण स्वराज). **Karachi 1931** (Patel) is Fundamental Rights (मौलिक अधिकार). **Faizpur 1937** is the first village session.
+12. **Tilak never** became Congress (कांग्रेस) President. Bose held **1938–39**; Azad held **Ramgarh 1940**.
+13. UP 1857: **Lucknow (लखनऊ) = Begum Hazrat Mahal (बेगम हज़रत महल)**; **Allahabad (इलाहाबाद) = Liyaqat Ali (लियाकत)** — never swap.
+14. UP map facts: **Kakori 9 Aug 1925**; **Chauri Chaura (चौरी चौरा) 4/5 Feb 1922 (Gorakhpur)**; **Azad Park, Allahabad**.
+15. Treaty year facts: **Allahabad 1765**, **Madras 1769**, **Salbai 1782** (सालबाई), **Mangalore 1784**. Chronological order is Allahabad → Madras → Salbai → Mangalore.
+16. Education commissions ladder: **Wood 1854 (वुड) → Hunter 1882 (हंटर) → Sadler 1917 → Sargeant 1944**.
+17. **Hunter Commission 1882** (हंटर आयोग 1882) is education. **Hunter Committee 1919** (हंटर कमेटी 1919) is the Jallianwala inquiry — different bodies.
+18. Mission year facts: **Simon 1927**, **Nehru (नेहरू) Report (नेहरू रिपोर्ट) 1928** (नेहरू रिपोर्ट), **Cripps (क्रिप्स) 1942** (क्रिप्स), **Cabinet Mission (कैबिनेट मिशन) 1946** (कैबिनेट मिशन).
+19. Official ↔ policy: **Curzon (कर्ज़न) — Partition 1905 (बंगाल विभाजन)**; **Minto — separate electorates 1909**; **Chelmsford — Montford 1919**; **Irwin (इरविन) — Gandhi–Irwin Pact (गांधी-इरविन) 1931**; **Willingdon (विलिंग्डन) — Communal Award (सांप्रदायिक पंचाट) 1932**; **Mountbatten — 3 June Plan (3 जून योजना)**.
+20. **Shanti Ghosh** (शांति घोष) is a **1931 Bengal** revolutionary name. **Aruna Asaf Ali** (अरुणा) is **Quit India 1942** — do not swap.
+21. INA trials sat at the **Red Fort** (लाल किला), not Gwalior Fort.
+22. **Rani Lakshmibai** (रानी लक्ष्मीबाई) is the Rani of Jhansi (झांसी). **Jhalkari Bai** (झलकारी बाई) is the Dalit (दलित) soldier remembered as resembling her in battle.
+23. ***Poverty and Un-British Rule (अन-ब्रिटिश शासन)*** = Naoroji (नौरोजी) **1901**. ***Economic Nationalism*** historiography = **Bipan Chandra**.
+24. ***Anandamath*** = Bankim; ***Hind Swaraj** (हिंद स्वराज)* = Gandhi; ***Discovery of India** (भारत एक खोज)* = Nehru; ***India Wins Freedom** (इंडिया विन्स फ्रीडम)* = Azad; ***Gita Rahasya** (गीता रहस्य)* = Tilak.
+25. **Simon Go Back** is keyed to the anti-Simon agitation and the **Lajpat Rai (राई)** association.
 26. **Garibi Hatao** is a later Indira-era slogan, not a 1920s freedom-struggle fact.
 27. This file is a **match vault**: slogans, press, sessions, treaties and UP names — event stories live in earlier chapters.
 28. Drill first the slogan six, the INC “first” six, the committee/mission six, and the British-official six — those rows carry the heaviest repeat weight.
@@ -97,7 +97,7 @@ Slogans | Newspapers & Journals | Books & Authors | Committees & Commissions | B
 |------|------|
 | Hunter Commission (education) | 1882 |
 | Hunter Committee (Punjab) | 1919–20 |
-| Simon Commission | 1927–30 |
+| Simon Commission (साइमन कमीशन) | 1927–30 |
 | Nehru Report | 1928 |
 | Cripps Mission | 1942 |
 | Cabinet Mission | 1946 |
@@ -111,40 +111,40 @@ Slogans | Newspapers & Journals | Books & Authors | Committees & Commissions | B
 | Chelmsford | Montford Act, 1919 |
 | Irwin | Gandhi–Irwin Pact, 1931 |
 | Willingdon | Communal Award, 1932 |
-| Mountbatten | 3 June Plan; last Viceroy |
+| Mountbatten | 3 June Plan; last Viceroy (माउंटबेटन) |
 
-> **Logic:** These four tables carry the heaviest repeat weight across 2018–2025 papers. Drill them first if short on time.
+> **Logic:** These four (चातुर्याम) tables carry the heaviest repeat weight across 2018–2025 papers. Drill them first if short on time.
 
 ---
 
 ## 16.1 Slogans and who gave them
 
-**This topic is the slogan home.** Event stories stay with Swadeshi, Home Rule and the final phase.
+**This topic is the slogan home.** Event stories stay with Swadeshi (स्वदेशी), Home Rule (होम रूल) and the final phase.
 
 | Slogan | Person | Role |
 |--------|--------|------|
-| **Swaraj is my birthright and I shall have it** | **Bal Gangadhar Tilak** | Not Gokhale, not Gandhi |
+| **Swaraj is my birthright and I shall have it** | **Bal Gangadhar Tilak** (बाल गंगाधर तिलक) | Not Gokhale (गोखले), not Gandhi |
 | **Inquilab Zindabad** | Coined **Hasrat Mohani**; popularised by **Bhagat Singh** | Not Bose |
 | **Do or Die** | **Gandhi**, Quit India, **8 Aug 1942** | Not Bose |
-| **Give me blood and I will give you freedom** | **Subhas Chandra Bose** | INA |
+| **Give me blood and I will give you freedom** | **Subhas Chandra Bose** (सुभाष चंद्र बोस) | INA |
 | **Jai Hind** | Bose / INA (Abid Hasan coinage memory) | |
 | **Delhi Chalo / Dilli Chalo** | Bose / INA | |
 | **Simon Go Back** | Anti-Simon 1928; **Lajpat Rai** association | |
 | **Vande Mataram** | **Bankim** (*Anandamath*) | National **song**, not anthem |
 | **Jana Gana Mana** | **Tagore** | National **anthem**; Calcutta session **1911** |
-| **Back to the Vedas** | **Dayanand Saraswati** | Arya Samaj |
+| **Back to the Vedas** | **Dayanand Saraswati** | Arya Samaj (आर्य समाज) |
 | **One caste, one religion, one God for mankind** | **Sri Narayana Guru** | |
-| **Sarfaroshi ki tamanna** | **Bismil / Ram Prasad Bismil** stream | Kakori |
+| **Sarfaroshi ki tamanna** | **Bismil / Ram Prasad Bismil (राम प्रसाद)** stream | Kakori |
 | **Purna Swaraj** | Lahore **1929** goal | Nehru President |
-| **Quit India** | Congress mass call, Aug 1942 | |
+| **Quit India** (भारत छोड़ो) | Congress mass call, Aug 1942 | |
 | **Garibi Hatao** | Later (Indira); **not** 1920s | |
-| **Educate, Agitate, Organise** | **B.R. Ambedkar** | Bahishkrit Hitkarini Sabha motto |
-| **Jai Jawan Jai Kisan** | **Lal Bahadur Shastri** | 1965; Ramlila Maidan memory |
+| **Educate, Agitate, Organise** | **B.R. Ambedkar** (बी.आर. अम्बेडकर) | Bahishkrit Hitkarini Sabha (सभा) motto |
+| **Jai Jawan Jai Kisan** | **Lal Bahadur Shastri** | 1965; Ramlila (रामलीला) Maidan (मैदान) memory |
 | **Freedom is almost within reach…** | **Gandhi** | Quit India appeal (with Do or Die) |
-| **Political freedom is the life-breath of a nation** | **Aurobindo Ghosh** | Early nationalist |
+| **Political freedom is the life-breath of a nation** | **Aurobindo (अरविंद) Ghosh** | Early nationalist |
 | **I am an Indian Tom-Tom…** | **Annie Besant** | Wake sleepers for motherland |
 | **Imperialism is dead as the Dodo** | **Clement Attlee** | Post-war British PM |
-| **Self-Respect (Suyamariyadai)** | **E.V. Ramasamy “Periyar”** | Self-Respect Movement, 1925, Tamil Nadu |
+| **Self-Respect (Suyamariyadai)** | **E.V. Ramasamy “Periyar (पेरियार)”** | Self-Respect Movement (स्वाभिमान आंदोलन), 1925, Tamil Nadu (नाडु) |
 
 > **Logic:** Tilak ≠ Do or Die. Bose ≠ Inquilab. Vande Mataram ≠ Jana Gana Mana.
 
@@ -162,23 +162,23 @@ This is the **press match table**. Editor stories sit with Education and Press.
 | **Al-Hilal** / **Al-Balagh** | Abul Kalam Azad | |
 | **Bande Mataram** (paper) | Aurobindo | ≠ Bankim’s song |
 | **Mooknayak** / **Bahishkrit Bharat** | Ambedkar | |
-| **Pratap** | Ganesh Shankar Vidyarthi | **Kanpur** |
-| **Leader** / **Abhyudaya** / Hindustan Times (role) | Madan Mohan Malaviya | |
+| **Pratap** (प्रताप) | Ganesh Shankar Vidyarthi | **Kanpur** (कानपुर) |
+| **Leader** / **Abhyudaya** / Hindustan Times (role) | Madan Mohan Malaviya (मालवीय) | |
 | **Independent** | Motilal Nehru | |
-| **Bengalee** | Surendranath Banerjee | |
+| **Bengalee** | Surendranath Banerjee (बनर्जी) | |
 | **Amrita Bazar Patrika** | Ghosh brothers | English overnight vs Vernacular Press Act |
 | **Comrade** / **Hamdard** | Muhammad Ali | |
 | **Commonweal** / **New India** | Annie Besant | |
 | **Sambad Kaumudi** / **Mirat-ul-Akhbar** | Rammohan Roy | |
-| **Som Prakash** | Ishwar Chandra Vidyasagar (assoc.) | |
-| **Swadesh** | — | **Gorakhpur** |
+| **Som Prakash** | Ishwar Chandra Vidyasagar (विद्यासागर) (assoc.) | |
+| **Swadesh** | — | **Gorakhpur** (गोरखपुर) |
 | **Bharat Bandhu** | — | **Hathras** |
-| **Satyawadi** | — | **Agra** |
-| **Shakti** | — | **Almora** |
+| **Satyawadi** | — | **Agra** (आगरा) |
+| **Shakti** | — | **Almora** (अल्मोड़ा) |
 | **The Hindu** | G. Subramania Iyer | Madras, 1878 |
 | **Tribune** | Dyal Singh Majithia | Lahore, 1881 |
 | **Rast Goftar** | Dadabhai Naoroji | Gujarati/English, Bombay |
-| **Hindoo Patriot** | Harish Chandra Mukherjee | Bengal; Indigo revolt coverage |
+| **Hindoo Patriot** | Harish Chandra Mukherjee | Bengal; Indigo (नील) revolt coverage |
 
 - **Swadesh** is the Gorakhpur paper in the standard match set; do not swap it with Tilak's **Kesari** (Pune).
 
@@ -196,22 +196,22 @@ This is the **books match table**. Eight syllabus titles and the 2020/2019/2021 
 | *The Discovery of India* | Nehru |
 | *India Wins Freedom* | Azad |
 | *Gita Rahasya* | Tilak |
-| *Gulamgiri* | Jyotiba Phule |
-| *Annihilation of Caste* | Ambedkar |
-| *The Story of My Deportation* | Lala Lajpat Rai |
-| *A Nation in Making* | Surendranath Banerjee |
+| *Gulamgiri* (गुलामगिरी) | Jyotiba Phule (ज्योतिबा फुले) |
+| *Annihilation of Caste* (जाति का विनाश) | Ambedkar |
+| *The Story of My Deportation (डिपोर्टेशन)* | Lala Lajpat Rai (लाला लाजपत राय) |
+| *A Nation in Making (ए नेशन इन मेकिंग)* | Surendranath Banerjee |
 | *The Rise and Growth of Economic Nationalism in India* | Bipan Chandra |
 | *An Autobiography / The Story of My Experiments with Truth* | M.K. Gandhi |
 | *Satyarth Prakash* | Dayanand Saraswati |
-| *The Indian War of Independence, 1857* | V.D. Savarkar |
-| *Unhappy India* | Lala Lajpat Rai |
+| *The Indian War of Independence (इंडियन वॉर ऑफ इंडिपेंडेंस), 1857* | V.D. Savarkar (सावरकर) |
+| *Unhappy India* (अनहैप्पी इंडिया) | Lala Lajpat Rai |
 | *The Indian Struggle* | Subhas Chandra Bose |
 | *India Divided* | Rajendra Prasad |
-| *Glimpses of World History* | Jawaharlal Nehru |
+| *Glimpses of World History (इतिहास)* | Jawaharlal Nehru (जवाहरलाल नेहरू) |
 | *New Lamps for Old* (series) | **Aurobindo Ghosh** |
 | *Gitanjali* / Song Offerings | Tagore (Nobel **1913**) |
 | *Amar Sonar Bangla* | Tagore (Bangladesh anthem) |
-| *The Indian Sociologist* | Shyamji Krishna Varma |
+| *The Indian Sociologist* | Shyamji Krishna (कृष्णा) Varma |
 | *Bandi Jivan* | Sachindranath Sanyal |
 | *Annals and Antiquities of Rajasthan* | Col. James Tod |
 | *The Springing Tiger* | Hugh Toye (on Bose) |
@@ -235,28 +235,28 @@ Book match set: Deportation–**Lajpat Rai**; *Gita Rahasya*–**Tilak**; *A Nat
 | **Hunter Committee** (Punjab) | **1919–20** | Jallianwala inquiry — **≠ 1882** |
 | **Sargeant Plan** | **1944** | Education |
 | **Hartog** | 1929 | Education |
-| **Linlithgow** | 1936–37 | Agriculture |
+| **Linlithgow** (लिनलिथगो) | 1936–37 | Agriculture |
 | **Whitley** | 1929–31 | Labour |
-| **Simon Commission** | 1927–30 | All-white; “Go Back” |
+| **Simon Commission** (साइमन कमीशन) | 1927–30 | All-white; “Go Back” |
 | **Butler** | 1927 | Princely states |
 | **Dhar Commission** | 1948 | Against linguistic basis |
 | **JVP** | 1948–49 | Nehru–Patel–Sitaramayya |
-| **SRC** | 1953–55 | **Fazl Ali, Panikkar, Kunzru** |
-| **Balwant Rai Mehta** | 1957 | Three-tier Panchayati Raj |
+| **SRC** (आयोग) | 1953–55 | **Fazl Ali, Panikkar, Kunzru** |
+| **Balwant Rai Mehta** (बलवंत राय) | 1957 | Three-tier Panchayati Raj (पंचायती राज) |
 | **George Campbell** | after **Odisha 1866–67** | Inquiry after “Sea of Calamity” famine |
 | **Strachey** | **1880** | Famine Codes **1883** |
 | **MacDonnell** | 1901 | Famine |
 | **Colin Scott Moncrieff** | 1901–03 | Irrigation |
 | **Thomas Robertson** | 1901–03 | Railway |
 | **Andrew Frazer** | 1902–03 | Police (also spelled Fraser) |
-| **Rowlatt (Sedition) Committee** | 1918 | Sidney Rowlatt; led to the **Rowlatt Act, 1919** |
+| **Rowlatt (रॉलेट) (Sedition) Committee** | 1918 | Sidney Rowlatt; led to the **Rowlatt Act, 1919** |
 | **Nehru Report** | 1928 | Motilal Nehru; Indian response to all-white Simon |
-| **Muddiman Committee** | 1924 | Reforms Enquiry; reviewed dyarchy's working |
+| **Muddiman Committee** | 1924 | Reforms Enquiry; reviewed dyarchy (द्वैध शासन)'s working |
 | **Lee Commission** | 1924 | Indianisation of the civil services |
-| **Skeen Committee** | 1925 | Indianisation of the army |
+| **Skeen Committee** | 1925 | Indianisation of the army (सेना) |
 | **Cripps Mission** | 1942 | Post-dated cheque (Gandhi); talks failed |
-| **Cabinet Mission** | 1946 | Pethick-Lawrence, Cripps, A.V. Alexander; grouping plan |
-| **Wavell Plan / Simla Conference** | 1945 | Breakdown over Muslim League parity |
+| **Cabinet Mission** (कैबिनेट मिशन) | 1946 | Pethick-Lawrence, Cripps, A.V. Alexander (सिकंदर); grouping plan |
+| **Wavell Plan (वेवेल योजना) / Simla Conference** | 1945 | Breakdown over Muslim League parity |
 
 - Education commission order: **Wood (1854) → Hunter (1882) → Sadler (1917–19) → Sargeant (1944)**.
 
@@ -270,23 +270,23 @@ This is the **Acts timeline**. Full Act stories sit with Governors-General, admi
 
 | Year | Act | One fact |
 |------|-----|----------|
-| **1773** | Regulating Act | GG of Bengal; Supreme Court Calcutta |
+| **1773** | Regulating Act (रेगुलेटिंग एक्ट) | GG of Bengal; Supreme Court Calcutta |
 | **1784** | Pitt’s India Act | Board of Control; dual control |
-| **1793** | Charter | Permanent Settlement already 1793 (Cornwallis) |
-| **1813** | Charter | Missionaries; ₹1 lakh education; Company trade monopoly **ends** (China/tea excepted) |
+| **1793** | Charter | Permanent Settlement (स्थायी बंदोबस्त) already 1793 (Cornwallis (कॉर्नवालिस)) |
+| **1813** | Charter | Missionaries; ₹1 lakh education; Company (कंपनी) trade (पण्याध्यक्ष) monopoly **ends** (China/tea excepted) |
 | **1833** | Charter | GG of **India**; law member; slavery step |
 | **1853** | Charter | Open ICS competition; separate Lt-Gov Bengal |
 | **1858** | GOI Act | Crown; Viceroy; Secretary of State |
 | **1861** | Indian Councils | Portfolio; Indians nominated |
-| **1878** | Vernacular Press Act | Lytton; Ripon repeals |
+| **1878** | Vernacular Press Act | Lytton (लिटन); Ripon (रिपन) repeals |
 | **1878** | Arms Act | Lytton |
 | **1882** | Ilbert Bill controversy | Ripon; racial bar |
 | **1892** | Indian Councils | Indirect election; budget discuss |
 | **1909** | Morley–Minto | **Separate electorates** (Muslims) |
-| **1919** | Montagu–Chelmsford | **Dyarchy** provinces; Chamber of Princes |
+| **1919** | Montagu–Chelmsford | **Dyarchy** (द्वैध शासन) provinces; Chamber of Princes |
 | **1919** | Rowlatt | Arrest without trial |
 | **1935** | GOI Act | Provincial **autonomy**; dyarchy at Centre; federation (not started) |
-| **1947** | Indian Independence Act | Partition; Dominion status; Mountbatten as first Governor-General of free India |
+| **1947** | Indian Independence Act (अधिनियम) | Partition; Dominion status (डोमिनियन); Mountbatten as first Governor-General (गवर्नर-जनरल) of free India |
 
 - The **Communal Award** was **16 August 1932**; **1933** is a year trap.
 
@@ -298,20 +298,20 @@ This is the **treaty match table**. War stories sit with Company expansion.
 
 | Treaty | Year | War / fact |
 |--------|------|------------|
-| **Aix-la-Chapelle** | **1748** | 1st Carnatic ends; **Madras returned** to English |
-| **Allahabad** | **1765** | Dual government / Diwani |
-| **Madras** | **1769** | 1st Anglo–Mysore (indecisive) |
-| **Salbai** | **1782** | 1st Anglo–Maratha |
+| **Aix-la-Chapelle** | **1748** | 1st Carnatic (कर्नाटक) ends; **Madras returned** to English |
+| **Allahabad** (इलाहाबाद) | **1765** | Dual government / Diwani (दीवानी) |
+| **Madras** | **1769** | 1st Anglo–Mysore (मैसूर) (indecisive) |
+| **Salbai** | **1782** | 1st Anglo–Maratha (मराठा) |
 | **Mangalore** | **1784** | 2nd Anglo–Mysore |
 | **Seringapatam** | **1792** | 3rd Anglo–Mysore |
 | **Bassein** | **1802** | 2nd Anglo–Maratha (subsidiary) |
-| **Amritsar** | **1809** | Ranjit Singh–British Sutlej peace, not a war end |
+| **Amritsar** (अमृतसर) | **1809** | Ranjit Singh (रणजीत सिंह)–British Sutlej (सतलुज) peace, not a war end |
 | **Sugauli** | **1816** | Anglo–Nepal; **not** Kathmandu as the treaty name |
 | **Yandabo** | **1826** | 1st Anglo–Burma |
 | **Lahore** | 1846 | 1st Anglo–Sikh |
-| **Lucknow Pact** | **1916** | Congress–League |
+| **Lucknow Pact** (लखनऊ पैक्ट) | **1916** | Congress–League |
 | **Gandhi–Irwin** | **1931** | Pact after CDM |
-| **Poona Pact** | **1932** | Gandhi–Ambedkar |
+| **Poona Pact** (पूना पैक्ट) | **1932** | Gandhi–Ambedkar |
 | **Turkmenchay** (Russia–Iran) | **1828** | Fuelled British fear of Russian approach to India |
 | **Shimla Agreement** (Indira–Bhutto) | **1972** | After 1971 war — **≠** 1945 Simla Conference |
 
@@ -331,26 +331,26 @@ This is the **INC session match table**. Early-nationalist story sits with Rise 
 | **1888** | Allahabad | **George Yule** | First **English** President |
 | **1896** | Calcutta | Rahimtulla Sayani | **Vande Mataram** sung |
 | **1905** | Banaras | G.K. Gokhale | |
-| **1906** | Calcutta | Naoroji (3rd time) | **Swaraj** as Congress goal |
+| **1906** | Calcutta | Naoroji (3rd time) | **Swaraj** (स्वराज) as Congress goal |
 | **1907** | **Surat** | Rash Behari Ghosh | **Split** |
 | **1911** | Calcutta | Bishan Narayan Dar | **Jana Gana Mana** sung |
-| **1916** | **Lucknow** | A.C. Majumdar | Reunion + **Lucknow Pact** |
+| **1916** | **Lucknow** (लखनऊ) | A.C. Majumdar | Reunion + **Lucknow Pact** |
 | **1917** | Calcutta | **Annie Besant** | First **woman** President |
 | **1919** | Amritsar | Motilal Nehru | After Jallianwala |
-| **1920** | Calcutta (Special) | Lala Lajpat Rai | NCM |
+| **1920** | Calcutta (Special) | Lala Lajpat Rai | NCM (असहयोग) |
 | **1920** | Nagpur | Vijayaraghavachariar | NCM constitution |
 | **1924** | **Belgaum** | **M.K. Gandhi** | **Only** session Gandhi presided |
 | **1925** | Kanpur | **Sarojini Naidu** | First **Indian** woman President |
-| **1927** | Madras | M.A. Ansari | Simon boycott line |
+| **1927** | Madras | M.A. Ansari | Simon boycott (बहिष्कार) line |
 | **1929** | **Lahore** | Jawaharlal Nehru | **Purna Swaraj**; 26 Jan 1930 |
-| **1931** | **Karachi** | Vallabhbhai Patel | **Fundamental Rights** + National Economic Programme |
+| **1931** | **Karachi** | Vallabhbhai Patel | **Fundamental Rights** (मौलिक अधिकार) + National Economic Programme |
 | **1934** | Bombay | Rajendra Prasad | |
 | **1936** | Lucknow | Nehru | |
 | **1937** | **Faizpur** | Nehru | First session in a **village** |
 | **1938** | **Haripura** | Subhas Bose | |
 | **1939** | **Tripuri** | Bose; then Rajendra Prasad | Bose resigns |
 | **1940** | **Ramgarh** | Abul Kalam Azad | 2024 Q133 chronology |
-| **1946** | Meerut | J.B. Kripalani | |
+| **1946** | Meerut (मेरठ) | J.B. Kripalani | |
 
 - **Bal Gangadhar Tilak** **never** presided over an INC session.
 
@@ -365,10 +365,10 @@ This is the **revolutionary HQ match table**. Action stories sit with Swadeshi a
 | Organisation | Year / HQ | Person |
 |--------------|-----------|--------|
 | **Abhinav Bharat** | 1904, Nashik / London stream | **V.D. Savarkar** |
-| **Anushilan Samiti** | Calcutta / Dhaka | Pulin Behari (Dhaka); Hardinge bomb **1912** — Hardinge bomb organisation |
-| **Jugantar / Yugantar** | Bengal | Barindra Ghosh stream |
-| **India House** | London | Shyamji Krishna Varma |
-| **Ghadar** | **1913, San Francisco** | Lala Hardayal |
+| **Anushilan (अनुशीलन) Samiti (समिति)** | Calcutta / Dhaka | Pulin Behari (Dhaka); Hardinge bomb **1912** — Hardinge bomb organisation |
+| **Jugantar (युगांतर) / Yugantar** | Bengal | Barindra Ghosh stream |
+| **India House** (इंडिया हाउस) | London | Shyamji Krishna Varma |
+| **Ghadar** (ग़दर) | **1913, San Francisco** | Lala Hardayal |
 | **Berlin Committee** | WWI | Virendranath Chattopadhyay |
 | **HRA** | **1924, Kanpur** | Ram Prasad Bismil, Sachindra Sanyal |
 | **Kakori** | **9 Aug 1925**, UP | Bismil, Ashfaqullah, Rajendra Lahiri, Roshan Singh |
@@ -376,38 +376,38 @@ This is the **revolutionary HQ match table**. Action stories sit with Swadeshi a
 | **Naujawan Bharat Sabha** | **1926, Lahore** | Bhagat Singh, Sukhdev |
 | **Chittagong** | **1930** | Surya Sen |
 | **Swadesh Bandhab Samiti** | **1905, Barisal** | Ashwini Kumar Dutta |
-| **Forward Bloc** | **1939** | Bose |
+| **Forward Bloc** (फॉरवर्ड ब्लॉक) | **1939** | Bose |
 | **Indian Independence League** | **1942, Tokyo/Singapore** | Rash Behari Bose; precursor body for the INA |
-| **Azad Hind Fauj / INA** | **1942** (Mohan Singh), reorganised **1943** | Subhas Chandra Bose |
+| **Azad Hind (आज़ाद हिंद) Fauj (फौज) / INA** | **1942** (Mohan Singh), reorganised **1943** | Subhas Chandra Bose |
 
 - **Abhinav Bharat** founder: **V.D. Savarkar**, not Bhagat Singh.
 - Hardinge bomb (**1912**): **Anushilan Samiti**, not Jugantar.
 
 ---
 
-## 16.9 Freedom fighters of Uttar Pradesh
+## 16.9 Freedom fighters of Uttar Pradesh (उत्तर प्रदेश)
 
 | Person / event | Fact |
 |----------------|------|
-| **Mangal Pandey** | Barrackpore **29 Mar 1857**; UP origin (Ballia/Nagwa memory) |
+| **Mangal Pandey** (मंगल पांडे) | Barrackpore (बैरकपुर) **29 Mar 1857**; UP origin (Ballia/Nagwa memory) |
 | **Nana Saheb** | Kanpur 1857 |
-| **Tantia Tope** | 1857; hanged 1859 |
+| **Tantia Tope** (तात्या टोपे) | 1857; hanged 1859 |
 | **Rani Lakshmibai** | Jhansi → Gwalior |
-| **Begum Hazrat Mahal** | **Lucknow** 1857 |
-| **Maulvi Ahmadullah Shah** | Faizabad / Awadh |
+| **Begum Hazrat Mahal** (बेगम हज़रत महल) | **Lucknow** 1857 |
+| **Maulvi Ahmadullah Shah** (अहमदुल्लाह शाह) | Faizabad / Awadh (अवध) |
 | **Liyaqat Ali** | **Allahabad** 1857 — **not Lucknow** |
-| **Awadh Kisan Sabha / Eka** | Baba Ramchandra; Madari Pasi |
-| **Chauri Chaura** | **4 Feb 1922**, Gorakhpur |
+| **Awadh Kisan Sabha / Eka (एका)** | Baba Ramchandra (बाबा रामचंद्र); Madari Pasi |
+| **Chauri Chaura** (चौरी चौरा) | **4 Feb 1922**, Gorakhpur |
 | **Kakori** | **9 Aug 1925** — Bismil, Ashfaq |
-| **Ram Prasad Bismil** | Born **Shahjahanpur**, UP; founded the **HRA**; Kakori; hanged 1927 |
+| **Ram Prasad Bismil** | Born **Shahjahanpur** (शाहजहाँपुर), UP; founded the **HRA**; Kakori; hanged 1927 |
 | **Ashfaqullah Khan** | Born **Shahjahanpur**, UP; Kakori; hanged 1927 |
 | **Chandrashekhar Azad** | Alfred Park / **Azad Park, Allahabad**, **27 Feb 1931** |
-| **Raja Mahendra Pratap** | **Hathras/Mursan**, UP; founded the Provisional Government of India at **Kabul, 1915** |
+| **Raja (राजा) Mahendra Pratap** | **Hathras/Mursan**, UP; founded the Provisional Government of India at **Kabul, 1915** |
 | **Ganesh Shankar Vidyarthi** | *Pratap*, Kanpur; killed 1931 communal riot |
 | **Motilal Nehru** / **Jawaharlal** | Allahabad |
 | **Madan Mohan Malaviya** | Allahabad; BHU; *Leader* |
 | **Purushottam Das Tandon** | Allahabad |
-| **Govind Ballabh Pant** | UP politics (Kumaon) |
+| **Govind Ballabh Pant** | UP politics (Kumaon (कुमाऊँ)) |
 | **Rafi Ahmad Kidwai** | Barabanki |
 | **Acharya Narendra Dev** | Congress Socialist Party |
 
@@ -420,12 +420,12 @@ This is the **revolutionary HQ match table**. Action stories sit with Swadeshi a
 | Woman | Fact | NOT |
 |-------|------|-----|
 | **Rani Lakshmibai** | Jhansi 1857 | |
-| **Jhalkari Bai** | 1857, **Jhansi**; a Dalit soldier who resembled Rani Lakshmibai in the battle | Not the Rani herself |
+| **Jhalkari Bai** | 1857, **Jhansi** (झांसी); a Dalit soldier who resembled Rani Lakshmibai in the battle | Not the Rani herself |
 | **Uda Devi** | 1857, **Lucknow**; a Dalit woman fighter at Sikandar Bagh | |
 | **Begum Hazrat Mahal** | Lucknow 1857 | |
 | **Madam Bhikaji Cama** | Stuttgart flag **1907** | |
 | **Annie Besant** | Home Rule; INC President **1917** | Not the first **Indian** woman President |
-| **Sarojini Naidu** | INC President **1925**; 2nd RTC **yes** | |
+| **Sarojini Naidu** | INC President **1925**; 2nd RTC (द्वितीय गोलमेज) **yes** | |
 | **Kamala Nehru** / **Kasturba Gandhi** | CDM / constructive | |
 | **Kalpana Datta** / **Pritilata Waddedar** | Chittagong | |
 | **Shanti Ghosh** / **Suniti Chaudhuri** | Comilla shooting **1931** | **≠ Quit India** |
@@ -448,23 +448,23 @@ This is the **Governor-General policy match table**. Full tenure cards sit with 
 
 | Official | Policy fact |
 |----------|-------------|
-| Warren Hastings | 1st GG Bengal; Rohilla; Impey |
+| Warren Hastings (वारेन) | 1st GG Bengal; Rohilla; Impey |
 | Cornwallis | Permanent Settlement; civil services |
-| Wellesley | Subsidiary Alliance |
-| William Bentinck | Sati 1829; 1st GG of **India** (1833) |
-| Dalhousie | Doctrine of Lapse; railways; 1st Anglo-Burma wrap / 2nd Burma |
+| Wellesley (वेलेज़ली) | Subsidiary Alliance (सहायक संधि) |
+| William Bentinck (बेंटिंक) | Sati 1829; 1st GG of **India** (1833) |
+| Dalhousie (डलहौज़ी) | Doctrine of Lapse (विलुप्ति सिद्धांत); railways; 1st Anglo-Burma wrap / 2nd Burma |
 | Canning | 1st **Viceroy**; 1857 |
-| Lytton | Vernacular Press; Arms; Delhi Durbar 1877 |
+| Lytton | Vernacular Press; Arms; Delhi Durbar 1877 (दिल्ली दरबार 1877) |
 | Ripon | Local self-govt; repeal Vernacular Press; Ilbert |
 | Curzon | Partition of Bengal 1905; Universities Act |
 | Minto | 1909 separate electorates |
 | Hardinge (Charles) | Capital Delhi; bomb 1912 |
 | Chelmsford | 1919 Act; Jallianwala under O’Dwyer/Dyer |
-| Reading | 1921–26; Simon Commission announced (1927, just after); Chauri Chaura, NCM withdrawal |
+| Reading (रीडिंग) | 1921–26; Simon Commission announced (1927, just after); Chauri Chaura, NCM withdrawal |
 | Irwin | Gandhi–Irwin Pact |
 | Willingdon | 1931–36; Second RTC; Communal Award (1932); Poona Pact |
-| Linlithgow | August Offer; longest viceroyalty; WWII |
-| Wavell | Wavell Plan / Simla 1945 |
+| Linlithgow | August Offer (अगस्त प्रस्ताव); longest viceroyalty; WWII |
+| Wavell | Wavell Plan / Simla 1945 (शिमला) |
 | Mountbatten | 3 June Plan; last Viceroy |
 
 Use this table to drill Governor-General–reform matching.
@@ -476,18 +476,18 @@ Use this table to drill Governor-General–reform matching.
 | Place | Fact |
 |-------|------|
 | **Red Fort, Delhi** | **INA Trials 1945–46** — 2019 Q21; **not** Gwalior / Agra / Amer |
-| **Jallianwala Bagh, Amritsar** | 13 April 1919 |
-| **Cellular Jail, Andaman** | Savarkar and others |
+| **Jallianwala Bagh (जलियांवाला बाग), Amritsar** | 13 April 1919 |
+| **Cellular Jail, Andaman (अंडमान)** | Savarkar and others |
 | **Jhansi Fort** | Rani Lakshmibai |
 | **Lucknow Residency** | 1857 siege |
 | **Aga Khan Palace, Pune** | Gandhi interned in QI |
-| **Sabarmati Ashram** | Dandi start 1930 |
+| **Sabarmati (साबरमती) Ashram** (साबरमती) | Dandi (दांडी) start 1930 |
 | **Sevagram** | Gandhi’s later ashram |
 | **Mani Bhavan, Mumbai** | Gandhi's residence 1917–1934, now a museum |
 | **Gowalia Tank / August Kranti Maidan, Bombay** | QI 8 Aug 1942 |
-| **Alfred Park / Chandrashekhar Azad Park, Prayagraj** | Azad’s death 1931 |
+| **Alfred Park / Chandrashekhar Azad Park, Prayagraj (प्रयागराज)** | Azad’s death 1931 |
 | **Kakori** | Near Lucknow; 1925 train action |
-| **Martyrs' Memorial, Patna** | Quit India, 1942; seven students shot near the Secretariat |
+| **Martyrs' Memorial, Patna (पटना)** | Quit India, 1942; seven students shot near the Secretariat |
 | **Victoria Memorial, Calcutta** | Curzon-era imperial monument |
 | **India Gate** | WW I memorial; later Amar Jawan |
 
@@ -499,8 +499,8 @@ Use this table to drill Governor-General–reform matching.
 
 | Year | Event |
 |------|--------|
-| 1757 | Plassey |
-| 1764 | Buxar |
+| 1757 | Plassey (प्लासी) |
+| 1764 | Buxar (बक्सर) |
 | 1765 | Allahabad / Dual government |
 | 1773 | Regulating Act |
 | 1793 | Permanent Settlement |
@@ -515,7 +515,7 @@ Use this table to drill Governor-General–reform matching.
 | 1909 | Morley–Minto |
 | 1911 | Partition revoked; capital Delhi |
 | 1916 | Lucknow Pact; Home Rule |
-| 1917 | Champaran |
+| 1917 | Champaran (चंपारण) |
 | 1919 | Rowlatt; Jallianwala; GOI Act |
 | 1920–22 | NCM |
 | 1922 | Chauri Chaura |
@@ -529,12 +529,12 @@ Use this table to drill Governor-General–reform matching.
 | 1932 | Communal Award; Poona Pact; Third RTC |
 | 1935 | GOI Act |
 | 1939 | Ministries resign; Forward Bloc |
-| 1940 | August Offer; Ramgarh; Individual Satyagraha |
+| 1940 | August Offer; Ramgarh; Individual Satyagraha (सत्याग्रह) |
 | 1942 | Cripps; Quit India |
-| 1943 | Azad Hind Government 21 Oct |
+| 1943 | Azad Hind Government (सरकार) 21 Oct |
 | 1945 | Wavell / Simla; INA Trials |
 | 1946 | Cabinet Mission; RIN; Direct Action; Interim Govt |
-| 1947 | Mountbatten Plan 3 Jun; Independence Act 18 Jul; 15 Aug |
+| 1947 | Mountbatten Plan (माउंटबेटन योजना) 3 Jun; Independence Act 18 Jul; 15 Aug |
 
 ---
 
@@ -559,17 +559,17 @@ Short GC matches that recur as Who / When / Which famine / Which slogan. Full st
 | Anglo-Afghan policy driver (19th c.) | Fear of **Russian** expansion (after **Turkmenchay 1828**) |
 | Odisha famine **1866–67** | Called **“Sea of Calamity”**; ~**13 lakh** dead; **George Campbell** inquiry |
 | Bengal famine **1943** | ~**3 million** dead (Linlithgow wartime) |
-| Pindari leaders (early 19th c.) | **Chittu**, **Karim Khan**, **Basil Mohammad**; crushed by **Lord Hastings** |
+| Pindari (पिंडारी) leaders (early 19th c.) | **Chittu**, **Karim Khan**, **Basil Mohammad**; crushed by **Lord Hastings** (लॉर्ड हेस्टिंग्स) |
 | First speaker in Gandhi cap (no wig) | **G.V. Mavlankar** (Central Assembly **1946**) |
 | Tagore titles | **Gurudev**; Gandhi called him **Great Sentinel**; Nobel **1913**; Visva-Bharati **1921** |
-| Ambedkar birth–death | **14 Apr 1891**, Mhow; died **6 Dec 1956**; Bharat Ratna posthumous |
+| Ambedkar birth–death | **14 Apr 1891**, Mhow; died **6 Dec 1956**; Bharat Ratna (भारत रत्न) posthumous |
 | Banaras Hindu Mahasabha **Aug 1923** | Presided by **Madan Mohan Malaviya** |
 | Frontier Gandhi | **Abdul Ghaffar Khan** (Bacha Khan); **Khudai Khidmatgar / Red Shirts**; Bharat Ratna **1987** |
 | Official Congress history | **Pattabhi Sitaramayya** (lost Tripuri **1939** to Bose) |
 | Whitley Commission **1929** | Labour conditions / health / plantations / employer–employee relations |
 | First woman PM in the world | **Sirimavo Bandaranaike** (Sri Lanka, **1960**) |
 | British PM residence | **10 Downing Street**, Westminster |
-| “Everything else can wait, but not agriculture” | **Nehru** (after Independence) |
+| “Everything else can wait, but not agriculture” | **Nehru** (नेहरू) (after Independence) |
 | Mountbatten on Partition guilt | Blamed **Jinnah** most |
 | Attlee on Partition | “British Government is **not** responsible for the partition” |
 | First communist state ministry | **Kerala, 1957** (E.M.S. Namboodiripad) |
@@ -578,25 +578,25 @@ Short GC matches that recur as Who / When / Which famine / Which slogan. Full st
 | Dialectical materialism | **Karl Marx** (class struggle / materialist history) |
 | Paper inventor (China) | **Cai Lun / Tsai-lun**, **105 CE** |
 | Mother Teresa | Born Skopje/Albania stream; Indian citizen at death **5 Sep 1997**; Missionaries of Charity |
-| Kisan Diwas | **23 December** (Chaudhary Charan Singh) |
-| Operation Polo | Hyderabad, **Sep 1948** |
-| Operation Vijay (1999) | **Kargil** vs Pakistan (**≠** Goa 1961, also called Vijay) |
+| Kisan Diwas | **23 December** (Chaudhary Charan (चारण) Singh) |
+| Operation Polo | Hyderabad (हैदराबाद), **Sep 1948** |
+| Operation Vijay (1999) | **Kargil** (कारगिल) vs Pakistan (**≠** Goa (गोवा) 1961 (गोवा), also called Vijay) |
 | First All India Socialist Youth Congress | Calcutta **27 Dec 1928**, chair **Nehru** |
 | Alipore Central Jail | **Kolkata**, founded **1906** |
 | Bethune School (Calcutta) | **J.E.D. Bethune**; first secretary **Vidyasagar** |
 | Bankim | Among first Calcutta University graduates; *Vande Mataram* in *Anandamath* |
-| Azad | Deoband stream; *Mazameen al-Nadwa*; Congress President **1940–46**; *India Wins Freedom* |
-| Bombay Trimurti | **Pherozeshah Mehta, K.T. Telang, Badruddin Tyabji** |
+| Azad | Deoband (देवबंद) stream; *Mazameen al-Nadwa*; Congress President **1940–46**; *India Wins Freedom* |
+| Bombay Trimurti (त्रिमूर्ति) | **Pherozeshah Mehta, K.T. Telang, Badruddin Tyabji** |
 | Baden-Powell | Boy Scouts / Girl Guides founder stream |
-| Deepavali Declaration **1929** | Irwin; dominion-status hope |
+| Deepavali (दीपावली) Declaration **1929** | Irwin; dominion-status hope |
 | Imperial Gazetteer compiler | **W.W. Hunter** |
-| USSR dissolution | **26 Dec 1991** |
+| USSR dissolution (विघटन) | **26 Dec 1991** |
 | German reunification | **3 Oct 1990** |
 | China–Tibet | **1959** occupation / end of Tibetan autonomy tag |
 | Hiroshima / Nagasaki | **6 Aug / 9 Aug 1945**; Japan surrender **15 Aug 1945** |
 | French Revolution | **1789** |
 | Nehru death / seat | **27 May 1964**; **Phulpur** (not Rae Bareli) |
-| First non-Congress PM | **Morarji Desai**, **24 Mar 1977**; Surat |
+| First non-Congress PM | **Morarji Desai (आमिल)**, **24 Mar 1977**; Surat |
 
 > **Logic:** Keep Operation Vijay (Goa **1961**) separate from Operation Vijay (Kargil **1999**). Simla **1945** ≠ Shimla Pact **1972**.
 
@@ -682,7 +682,7 @@ D. 4 3 2 1
 
 **Q10. 2019 Q93**
 
-Match: A. Treaty of Allahabad B. Treaty of Manglore C. Treaty of Salbai D. Treaty of Madras
+Match: A. Treaty of Allahabad (इलाहाबाद की संधि) B. Treaty of Manglore C. Treaty of Salbai (सालबाई की संधि) D. Treaty of Madras
 With: 1. 1782 2. 1784 3. 1769 4. 1765
 
 A. 4 2 3 1

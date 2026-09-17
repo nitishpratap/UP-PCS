@@ -4,7 +4,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Environmental Impact Assessment (EIA) | Strategic Environmental Assessment (SEA)
+Environmental Impact Assessment (EIA) (पर्यावरण प्रभाव आकलन) | Strategic Environmental Assessment (SEA) (रणनीतिक पर्यावरण आकलन)
 
 </details>
 
@@ -24,25 +24,25 @@ Environmental Impact Assessment (EIA) | Strategic Environmental Assessment (SEA)
 ## Consolidated — 24 Must-Score Facts
 
 1. **EIA** studies a project’s likely environmental effects **before** approval. The aim is anticipatory prevention, not reactive cleanup.
-2. Legal base is the **Environment (Protection) Act, 1986** (Section **3**). First EIA Notification was **1994**; the current framework is **EIA Notification 2006 (14 September)**.
+2. Legal base is the **Environment (पर्यावरण) (Protection) Act, 1986** (Section **3**). First EIA Notification was **1994**; the current framework is **EIA Notification 2006 (14 September)**.
 3. **Environmental Clearance** is mandatory prior clearance for listed projects.
-4. **Category A** is appraised centrally by **MoEFCC** through the **EAC**.
+4. **Category A** is appraised centrally by **MoEFCC** (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय) through the **EAC**.
 5. **Category B** is appraised by **SEIAA** through **SEAC**. **B1** needs full EIA (usually with public hearing); **B2** is simplified.
 6. Under a **General Condition**, a Category B project in a sensitive area is treated as Category A.
-7. The four classic stages are **screening → scoping → public consultation → appraisal**. Screening applies to Category B only.
-8. **Scoping** fixes the **Terms of Reference (ToR)** for the EIA study.
-9. An EIA report covers baseline, impact prediction, mitigation, and an **Environmental Management Plan (EMP)**.
+7. The four (चातुर्याम) classic stages are **screening → scoping → public consultation → appraisal**. Screening applies to Category B only.
+8. **Scoping** fixes the **Terms of Reference (ToR)** (संदर्भ की शर्तें) for the EIA study.
+9. An EIA report covers baseline, impact prediction, mitigation, and an **Environmental Management Plan (EMP)** (पर्यावरण प्रबंधन योजना).
 10. **Rapid EIA** uses one season; **comprehensive EIA** covers all seasons.
-11. MoEFCC/SEIAA **grant** EC. EAC/SEAC only **recommend**. CPCB/SPCB set standards and monitor — they do **not** grant EC.
+11. MoEFCC/SEIAA **grant** EC. EAC/SEAC only **recommend** (सिफारिश). CPCB (केंद्रीय प्रदूषण नियंत्रण बोर्ड)/SPCB set standards and monitor — they do **not** grant EC.
 12. **NGT (Act 2010)** hears EC and pollution appeals. **PARIVESH** is MoEFCC’s online EC portal.
 13. **SEA** assesses policies, plans, and programmes upstream of projects. India has project-level EIA law but **no standalone SEA statute**.
 14. SEA references include the Kiev SEA Protocol **2003** (Espoo family) and the EU SEA Directive.
 15. Rio Principle **17** supports EIA for projects with significant impacts.
 16. EC must come **before** construction. Ex-post facto clearance is illegal in the standard line.
 17. Timeline: Bhopal **1984** → EPA **1986** → EIA Notification **1994** → EIA Notification **2006** → NGT Act **2010** → draft EIA amendment debates **2020** (not a full replacement of 2006).
-18. UP examples: Ganga Expressway as Category A; Singrauli TPP expansions; Upper Ganga ESZ plan-level restrictions before project EC.
+18. UP examples: Ganga (गंगा) Expressway as Category A; Singrauli TPP expansions; Upper Ganga ESZ plan-level restrictions before project EC.
 19. EIA is project-level; SEA is plan/policy-level — do not merge the acronyms.
-20. Water Act **1974**/Air Act **1981** create consent regimes; they are **not** the EIA enabling Act (**EPA 1986** is).
+20. Water Act **1974**/Air Act **1981** create consent regimes; they are **not** the EIA enabling Act (**EPA 1986** (पर्यावरण संरक्षण 1986) is).
 21. DEIAA appears in the minor-minerals / B2 district track — not as the Category A central authority.
 22. Public consultation includes hearing plus written comments; skipping it on B1 where required is a process defect.
 23. EMP is mitigation and monitoring inside the EIA package — not a substitute for the EC grant itself.
@@ -104,7 +104,7 @@ Environmental Impact Assessment (EIA) | Strategic Environmental Assessment (SEA)
 
 > **Logic:** Carrying capacity — waste generation must stay within the environment's absorption limit; that is what EIA evaluates.
 
-> **Logic:** Org trap — **CGWB** reports groundwater quality; **CPCB** does not grant EC. EC = **MoEFCC/SEIAA**.
+> **Logic:** Org trap — **CGWB** reports groundwater quality; **CPCB** (केंद्रीय प्रदूषण नियंत्रण बोर्ड) does not grant EC. EC = **MoEFCC/SEIAA**.
 
 | Category | Authority | Screening? | Full EIA? |
 |----------|-----------|------------|-----------|
@@ -128,13 +128,13 @@ Environmental Impact Assessment (EIA) | Strategic Environmental Assessment (SEA)
 - **Strategic Environmental Assessment (SEA)** evaluates the environmental consequences of **policies, plans, and programmes (PPP)** at the earliest planning stage.
 - **SEA sits upstream of EIA**. It asks whether a development path is wise **before** individual projects are designed.
 - **EIA** can only accept, modify, or reject **one pre-selected project**. It cannot question whether an entire sector plan — such as many dams in one basin — is environmentally sound.
-- **SEA assesses cumulative impacts** when multiple projects together may overwhelm an ecosystem even if each passes individual EIA.
+- **SEA assesses cumulative impacts** when multiple projects together may overwhelm an ecosystem (पारिस्थितिकी तंत्र) even if each passes individual EIA.
 - **Public participation** in SEA happens when policy choices are still flexible — earlier and cheaper than late-stage project hearings.
 - **Rio Declaration (1992) Principle 17** calls for **EIA** for proposed activities with significant adverse impact. It does **not** mandate SEA by name.
 - **Espoo Convention (1991)** covers **transboundary EIA**. The **SEA Protocol (2003)** signed at **Kiev** extends assessment to plans and programmes.
 - The **EU SEA Directive (2001/42/EC)** makes SEA mandatory for listed public plans in member states.
 - **India has robust project-level EIA** under the 2006 Notification but **no standalone SEA legislation** as of current law.
-- Partial strategic tools in India include **CRZ notifications**, **Eco-Sensitive Zone (ESZ) notifications**, and basin-level planning — but these are not a full SEA law.
+- Partial strategic tools in India include **CRZ notifications**, **Eco-Sensitive Zone (ESZ) (पर्यावरण-संवेदनशील क्षेत्र) notifications**, and basin-level planning — but these are not a full SEA law.
 
 > **Logic:** Statement "India has mandatory SEA law equivalent to EIA Notification" = **false**.
 
@@ -956,7 +956,7 @@ D. Setting GST rates
 
 ## Mains Answer Framework
 
-**EIA and SEA (250 words):** Define EIA as anticipatory project-level tool under **EPA 1986** and **EIA Notification 2006**. Explain Category A/B, four stages, public consultation, EC before construction, MoEFCC/SEIAA vs CPCB, NGT appeals, PARIVESH. Define SEA at PPP level upstream of EIA; cumulative impacts; international frameworks (Rio Principle 17, Espoo, SEA Protocol 2003, EU Directive). India gap — no standalone SEA law; partial tools (CRZ, ESZ). Controversies — draft EIA 2020, ex-post facto clearance, Lafarge/Great Nicobar examples. Conclude: strengthen compliance and consider strategic assessment for sector plans.
+**EIA and SEA (250 words):** Define EIA as anticipatory project-level tool under **EPA 1986** and **EIA Notification 2006**. Explain Category A/B, four stages, public consultation, EC before construction, MoEFCC/SEIAA vs CPCB, NGT appeals, PARIVESH. Define SEA at PPP level upstream of EIA; cumulative impacts; international frameworks (Rio Principle 17, Espoo, SEA Protocol 2003, EU Directive). India gap — no standalone SEA law; partial tools (CRZ, ESZ). Controversies — draft EIA 2020, ex-post facto clearance, Lafarge/Great Nicobar (निकोबार) examples. Conclude: strengthen compliance and consider strategic assessment for sector plans.
 
 ---
 

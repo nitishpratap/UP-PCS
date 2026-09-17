@@ -65,7 +65,7 @@ D. Gopi Aqua vs. Union of India
 ## Consolidated — 32 Must-Score Facts
 
 1. *A.K. Gopalan* (**1950**) held that Article **21** is satisfied by any procedure in a valid law and read Fundamental Rights in silos. *Maneka Gandhi* (**1978**) requires a **fair, just, and reasonable** procedure and reads Articles **14, 19, and 21** together.
-2. *ADM Jabalpur* (**1976**) held that habeas corpus fails if Article 21 is suspended in Emergency; Justice **Khanna** dissented. The **44th** Amendment later blocked suspension of Articles **20 and 21**. *Puttaswamy* (**2017**) said the *Jabalpur* majority was wrong.
+2. *ADM Jabalpur* (**1976**) held that habeas corpus fails if Article 21 is suspended in Emergency; Justice **Khanna** dissented. The **44th Amendment** (44वां संशोधन) later blocked suspension of Articles **20 and 21**. *Puttaswamy* (**2017**) said the *Jabalpur* majority was wrong.
 3. *Shankari Prasad* (**1951**) upheld the First Amendment and said Article **368** can amend Fundamental Rights. *Sajjan Singh* (**1965**) upheld the Seventeenth Amendment; Mudholkar hinted at “basic features.”
 4. *Golaknath* (**1967**, 11-judge, **6:5**) held that Fundamental Rights **cannot** be amended, with prospective overruling. It is **not** the Basic Structure case.
 5. The **24th** Amendment (**1971**) inserted Article **13(4)** so a **368** amendment is not “law” under Article 13. It came **before** *Kesavananda*.
@@ -74,7 +74,7 @@ D. Gopi Aqua vs. Union of India
 8. *Indira Nehru Gandhi* (**1975**) struck the Thirty-ninth Amendment’s Article **329A(4)/(5)** election-shield clauses and added Rule of Law / free-fair elections themes to Basic Structure talk.
 9. *Minerva Mills* (**1980**) struck the Forty-second Amendment’s Articles **368(4)/(5)** and kept Article **31C** limited to Article **39(b)/(c)**. It locked limited amending power and FR–DPSP harmony.
 10. *Berubari* (**1960**) held that ceding Indian territory needs a **constitutional amendment**, not an ordinary Act, and then treated the Preamble as **not** part of the Constitution. *Kesavananda* later held the Preamble **is** part.
-11. The **Ninth Schedule** (First Amendment, **1951**) is a list-shield for laws. The **Ninth Amendment** (**1960**) is the Berubari boundary amendment. Do not swap Schedule and Amendment.
+11. The **Ninth Schedule** (नौवीं अनुसूची) (First Amendment, **1951**) is a list-shield for laws. The **Ninth Amendment** (**1960**) is the Berubari boundary amendment. Do not swap Schedule and Amendment.
 12. After **24 April 1973**, parking a law in the Ninth Schedule does not save it if it damages Basic Structure (*Waman Rao* **1981**; *I.R. Coelho* **2007**).
 13. Judges Cases: **1981** First Judges gave executive primacy; **1993** Second Judges created Collegium (**CJI + 2**); **1998** Third Judges expanded SC Collegium to **CJI + 4** and HC to **CJI + 2**.
 14. The **99th** Amendment’s **NJAC** was struck on **16 October 2015** (**4:1**) because judicial independence is Basic Structure. Collegium is judge-made and not written into the original text; NJAC was written and fell.
@@ -417,7 +417,7 @@ Maneka Gandhi’s **passport was impounded** under **s.10(3)(c) of the Passport 
 
 **Berubari Union No. 12**, Jalpaiguri district, **West Bengal**. Under the **Nehru–Noon Agreement, 10 Sept 1958**, India proposed to transfer **half of Berubari** to Pakistan and to exchange certain Cooch Behar enclaves.
 
-The President asked the Supreme Court under Art. **143**: can this be done by an **ordinary law** (or by Art. **3**, which lets Parliament alter State boundaries)? Or is a **constitutional amendment** needed? Can the **Preamble** be a source of power to cede land?
+The President asked the Supreme Court under Art. **143**: can this be done by an **ordinary law** (or by Art. **3**, which lets Parliament alter State boundaries)? Or is a **constitutional amendment** needed? Can the **Preamble** (प्रस्तावना) be a source of power to cede land?
 
 **Cession of Indian territory needs a constitutional amendment**, not an ordinary Act or Art. 3. 1960 view: Preamble is **not** part of the Constitution (later reversed by *Kesavananda*).
 
@@ -511,7 +511,7 @@ Challenge to the **10th Schedule** (inserted by the **52nd Amendment, 1985**). T
 
 **RPA s.8(4) three-month cushion for sitting MPs/MLAs struck.** Conviction ≥2 years (s.8(3)) → **instant disqualification**.
 
-**RPA, 1951 s.8(3):** a person convicted and sentenced to **≥ 2 years** is disqualified. **s.8(4)** gave a **sitting** MP/MLA **three months** to appeal — candidates who were not yet members had no such cushion.
+**RPA, 1951 s.8(3):** a person convicted and sentenced to **≥ 2 years** is disqualified. **s.8(4)** gave a **sitting** (बैठक) MP/MLA **three months** to appeal — candidates who were not yet members had no such cushion.
 
 - s.8(4) unconstitutional (Art. **14**). Parliament cannot give sitting members a privilege that candidates do not have
 - **Not** an election-petition case, and **not** a 10th-Schedule defection case
@@ -649,7 +649,7 @@ Two women in Palghar were arrested over a Facebook post after Bal Thackeray’s 
 **December 1985:** oleum gas leaked from **Shriram Foods and Fertiliser** (Delhi). M.C. Mehta petitioned under Art. **32**.
 
 - **No exceptions** (no “Act of God”, no stranger’s act, no plaintiff’s consent)
-- Later *Mehta* orders: **Ganga** pollution, **Taj Trapezium**, Delhi **CNG** buses
+- Later *Mehta* orders: **Ganga** (गंगा) pollution, **Taj Trapezium**, Delhi **CNG** buses
 - Polluter pays / precautionary developed in this line (also *Vellore Citizens*, 1996). Syllabus bullet: **21 + absolute liability**, not every later direction
 
 > **Logic:** *Mehta* ≠ Rylands transplanted. Absolute liability **dropped** the English exceptions. Environment is also an Art. **21** right, not only a DPSP (48A / 51A(g)).

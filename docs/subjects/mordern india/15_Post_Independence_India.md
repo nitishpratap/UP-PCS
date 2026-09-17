@@ -4,7 +4,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Community Development Programme | Etawah Pilot Project | Post-Independence India | Integration of Princely States | Integration of French and Portuguese Enclaves (Goa, Pondicherry) | Constitution Making | States Reorganisation | Planning Commission | Five-Year Plans | Early Foreign Policy (Panchsheel, NAM)
+Community Development Programme | Etawah (इटावा) Pilot Project | Post-Independence India | Integration of Princely States | Integration of French and Portuguese Enclaves (Goa (गोवा), Pondicherry (पांडिचेरी)) | Constitution Making | States Reorganisation | Planning Commission (योजना आयोग) | Five-Year Plans | Early Foreign Policy (Panchsheel, NAM)
 
 </details>
 
@@ -17,36 +17,36 @@ Community Development Programme | Etawah Pilot Project | Post-Independence India
 
 ## Consolidated — 30 Must-Score Facts
 
-1. Arc after transfer: Independence **15 Aug 1947** → CA last sitting **24 Jan 1950** → Constitution **26 Jan 1950** → Planning Commission **Mar 1950** → CDP **2 Oct 1952** → Andhra **1 Oct 1953** → SRC Act **1 Nov 1956** → NITI **1 Jan 2015**.
-2. About **562** princely states were integrated under **Sardar Patel** and **V.P. Menon**. The **Instrument of Accession** covered only **Defence, External Affairs and Communications**.
-3. **Junagadh** joined India after a **plebiscite (1948)**. **Hyderabad** was taken by **Operation Polo** (Police Action) in **September 1948**.
-4. **Jammu and Kashmir** signed the IoA on **26 October 1947** amid tribal invasion. Later J&K Constitution steps must not be shuffled with the Union Constitution dates.
-5. Constituent Assembly first met on **9 December 1946**. The **Objectives Resolution** was moved on **13 December 1946**.
-6. The national **Flag** was adopted on **22 July 1947**. The **Drafting Committee** (Ambedkar) was set up on **29 August 1947**.
-7. The Constitution was **adopted on 26 November 1949** and **commenced on 26 January 1950**. Do not swap the two dates.
-8. Committee chair facts: **Union Constitution — Nehru**; **Rules — Prasad**; **Drafting — Ambedkar**; **Fundamental Rights sub-committee — Kripalani**.
-9. **Chandernagore** used a French referendum route (**19 June 1949**) and merged into **West Bengal** on **2 October 1954**.
+1. Arc after transfer: Independence **15 Aug 1947** → CA last sitting (बैठक) **24 Jan 1950** → Constitution **26 Jan 1950** → Planning Commission **Mar 1950** → CDP (सीडीपी) **2 Oct 1952** → Andhra **1 Oct 1953** → SRC (आयोग) Act **1 Nov 1956** → NITI (नीति) **1 Jan 2015**.
+2. About **562** princely states were integrated under **Sardar Patel** (सरदार पटेल) and **V.P. Menon**. The **Instrument of Accession** covered only **Defence, External Affairs and Communications**.
+3. **Junagadh** (जूनागढ़) joined India after a **plebiscite (1948)**. **Hyderabad** (हैदराबाद) was taken by **Operation Polo** (Police Action) in **September 1948**.
+4. **Jammu and Kashmir** signed the IoA (अधिमिलन) on **26 October 1947** amid tribal (आदिवासी) invasion. Later J&K Constitution steps must not be shuffled with the Union Constitution dates.
+5. Constituent Assembly (संविधान सभा) first met on **9 December 1946**. The **Objectives Resolution** was moved on **13 December 1946**.
+6. The national **Flag** was adopted (अंगीकृत) on **22 July 1947**. The **Drafting Committee** (Ambedkar (अम्बेडकर)) was set up on **29 August 1947**.
+7. The Constitution was **adopted on 26 November 1949** and **commenced (लागू) on 26 January 1950**. Do not swap the two dates.
+8. Committee chair facts: **Union Constitution — Nehru (नेहरू)**; **Rules — Prasad**; **Drafting — Ambedkar**; **Fundamental Rights (मौलिक अधिकार) sub-committee — Kripalani**.
+9. **Chandernagore** (चंद्रनगर) used a French referendum route (**19 June 1949**) and merged into **West Bengal** on **2 October 1954**.
 10. **Pondicherry, Karaikal, Mahe and Yanam** used the **Kizhoor referendum (18 Oct 1954)**; de facto **1 Nov 1954**; de jure Union Territory **1962**.
 11. **Goa, Daman and Diu** were taken by **Operation Vijay (18–19 Dec 1961)**; UT in **1962**; **Goa State in 1987**.
-12. **Dadra and Nagar Haveli** saw local action in **1954** and became a UT by the **10th Amendment, 1961**.
+12. **Dadra (दादरा) and Nagar Haveli** saw local action in **1954** and became a UT by the **10th Amendment, 1961**.
 13. French enclaves used a **referendum/treaty** route. Portuguese Goa used a **military** route — never swap the methods.
 14. **Panchsheel** was signed on **29 April 1954** (India–China five principles). The first **NAM** summit was **Belgrade 1961**; **Bandung 1955** is the mood, not the first summit.
-15. **Etawah Pilot (1948)** was **Albert Mayer’s** UP village project. Nationwide **CDP** began on **2 October 1952**; **NES** followed in **1953**.
+15. **Etawah Pilot (1948)** was **Albert Mayer’s** UP village project. Nationwide **CDP** began on **2 October 1952**; **NES** (एनईएस) followed in **1953**.
 16. Development chronology fact: **CDP → DPAP → Food for Work → TRYSEM**.
-17. **Balwant Rai Mehta (1957)** recommended the three-tier panchayati scheme. **Nyaya Panchayat** is not one of those three Mehta tiers.
+17. **Balwant Rai (राई) Mehta (बलवंत राय) (1957)** recommended the three-tier panchayati scheme. **Nyaya (न्याय) Panchayat** is not one of those three Mehta tiers.
 18. **States Reorganisation Commission** members were **Fazl Ali, K.M. Panikkar and H.N. Kunzru**. Not K.T. Shah; not Pattabhi Sitaramayya.
 19. The first linguistic state was **Andhra (1 October 1953)**. The **States Reorganisation Act** took effect on **1 November 1956**.
 20. **Dhar Commission (1948)** resisted language as the main basis. **SRC (1953)** accepted language with limits.
 21. The **Planning Commission (March 1950)** was **extra-constitutional**. Ashok Chanda called it an “**Economic Cabinet**.”
-22. The then **poverty line** exercise sat with the Planning Commission. **NITI Aayog** began on **1 January 2015**; first Vice-Chair was **Arvind Panagariya**.
-23. **1st Plan** stressed agriculture and CDP. **2nd Plan** followed the **Mahalanobis** heavy-industry path (steel plants).
+22. The then **poverty line** exercise sat with the Planning Commission. **NITI Aayog** (नीति आयोग) began on **1 January 2015**; first Vice-Chair was **Arvind Panagariya**.
+23. **1st Plan** (प्रथम) stressed agriculture and CDP. **2nd Plan** (द्वितीय) followed the **Mahalanobis** heavy-industry path (steel plants).
 24. The **12th Plan** slogan fact is **sustainable growth**; it was the **last** Five-Year Plan.
-25. **1950 map:** Part A = Governor’s provinces; Part B = princely unions; Part C = Chief Commissioner’s provinces; Part D = Andaman and Nicobar — until **1956**.
+25. **1950 map:** Part A (ए) = Governor’s provinces; Part B = princely unions; Part C = Chief Commissioner’s provinces; Part D = Andaman (अंडमान) and Nicobar (निकोबार) — until **1956**.
 26. Privy purses ended with the **26th Amendment, 1971**.
-27. UP Focus: **Etawah 1948 (Mayer, Mahewa)** is the national CDP model; UP was a **Part A** state in 1950; **Uttarakhand** was carved on **9 November 2000**.
-28. **Standstill Agreement** kept interim arrangements; **IoA** permanently ceded the three subjects — do not swap the two instruments.
-29. **Nilokheri** is S.K. Dey’s refugee township model. Do not call it the same thing as Etawah’s Mayer pilot.
-30. Finance Commission is **Article 280**. Planning Commission was never a constitutional body — that is the PC vs FC trap.
+27. UP Focus: **Etawah 1948 (इटावा) (Mayer, Mahewa)** is the national CDP model; UP was a **Part A** state in 1950; **Uttarakhand** (उत्तराखंड) was carved on **9 November 2000**.
+28. **Standstill (स्टैन्डस्टिल) Agreement** kept interim arrangements; **IoA** permanently ceded the three subjects — do not swap the two instruments.
+29. **Nilokheri** (निलोखेडी) is S.K. Dey’s refugee township model. Do not call it the same thing as Etawah’s Mayer pilot.
+30. Finance Commission (वित्त आयोग) is **Article 280**. Planning Commission was never a constitutional body — that is the PC vs FC trap.
 
 ---
 
@@ -84,7 +84,7 @@ Community Development Programme | Etawah Pilot Project | Post-Independence India
 | Chandernagore | Referendum + treaty | De facto 1950; into West Bengal 1954 |
 | Dadra and Nagar Haveli | Local action; UT | 1954; UT by 10th Amendment 1961 |
 | Pondicherry, Karaikal, Mahe, Yanam | Kizhoor referendum + treaty | De facto 1954; de jure 1962 |
-| Goa, Daman and Diu | Operation Vijay (military) | 1961; UT by 12th Amendment 1962; Goa State 1987 |
+| Goa, Daman and Diu | Operation Vijay (military) | 1961; UT by 12th Amendment 1962; Goa State 1987 (गोवा राज्य) |
 
 ### Five-Year Plan ↔ signature fact
 
@@ -92,7 +92,7 @@ Community Development Programme | Etawah Pilot Project | Post-Independence India
 |------|-----------|
 | 1st (1951–56) | Agriculture, irrigation, CDP |
 | 2nd (1956–61) | Mahalanobis; Bhilai / Rourkela / Durgapur |
-| 3rd (1961–66) | Self-reliance derailed by wars and drought |
+| 3rd (1961–66) | Self-reliance derailed by wars and drought (सूखा) |
 | 4th (1969–74) | Growth with stability |
 | 5th (1974–79) | Garibi Hatao |
 | 8th (1992–97) | Liberalisation |
@@ -122,15 +122,15 @@ Community Development Programme | Etawah Pilot Project | Post-Independence India
 **In charge:** States Department, July 1947 — **Sardar Patel** + **V.P. Menon**
 
 - There were about **562/565** princely states.
-- British **paramountcy lapsed** with the Independence Act.
+- British **paramountcy lapsed** with the Independence Act (अधिनियम).
 - States could accede to India or Pakistan, or in theory stand alone.
 - **Butler Committee (1927)** studied paramountcy and princely-state relations with the Crown (Indian States Committee).
-- **All India States People’s Conference (1927)** organised Praja Mandal politics; **Nehru** became its President in **1939**.
+- **All India States People’s Conference (1927)** organised Praja Mandal politics; **Nehru** (नेहरू) became its President in **1939**.
 - The **Instrument of Accession** covered only **Defence, External Affairs and Communications**.
 - A **Standstill Agreement** kept existing arrangements until merger.
 - Most states signed quickly. Hard cases are below.
 - Later came merger agreements and **privy purses**. Privy purses ended by the **26th Amendment, 1971**.
-- The **1950 map** had **Part A** former Governor’s provinces and **Part B** princely unions such as Hyderabad, J&K, Mysore and PEPSU.
+- The **1950 map** had **Part A** former Governor’s provinces and **Part B** princely unions such as Hyderabad, J&K, Mysore (मैसूर) and PEPSU.
 - **Part C** were Chief Commissioner’s provinces. **Part D** was Andaman and Nicobar.
 - This four-fold map lasted until **1956**.
 
@@ -138,7 +138,7 @@ Community Development Programme | Etawah Pilot Project | Post-Independence India
 
 **Cause**
 
-- The Nawab of Junagadh wanted to accede to **Pakistan**, though the population was largely Hindu and the state sat inside Kathiawar, surrounded by Indian territory.
+- The Nawab of Junagadh wanted to accede to **Pakistan**, though the population (जनसंख्या) was largely Hindu and the state sat inside Kathiawar, surrounded by Indian territory.
 
 **Course**
 
@@ -152,7 +152,7 @@ Community Development Programme | Etawah Pilot Project | Post-Independence India
 
 **Cause**
 
-- The Nizam wanted **independence** rather than accession to India, while **Razakars** under **Kasim Razvi** backed that stand with communal militia pressure inside the state.
+- The Nizam (निजाम) wanted **independence** rather than accession to India, while **Razakars** under **Kasim Razvi** backed that stand with communal militia pressure inside the state.
 
 **Course**
 
@@ -166,7 +166,7 @@ Community Development Programme | Etawah Pilot Project | Post-Independence India
 
 **Cause**
 
-- A **tribal invasion** from the Pakistan side began in **October 1947**, threatening Srinagar and forcing Maharaja **Hari Singh** to seek Indian military help.
+- A **tribal invasion** from the Pakistan side began in **October 1947**, threatening Srinagar and forcing Maharaja (महाराज) **Hari Singh** to seek Indian military help.
 
 **Course**
 
@@ -203,7 +203,7 @@ D. IV, III, II, I
 
 </details>
 
-### French Settlements — Chandernagore and the Pondicherry group
+### French Settlements — Chandernagore and the Pondicherry group (पुदुचेरी)
 
 **Places:** Chandernagore (Bengal); Pondicherry, Karaikal, Mahe and Yanam (the four-enclave "Pondicherry group")
 
@@ -211,7 +211,7 @@ D. IV, III, II, I
 - France handed over de facto control on **2 May 1950**.
 - The de jure transfer of sovereignty came on **9 June 1952**, under a Treaty of Cession signed in Paris.
 - Chandernagore merged into **West Bengal** on **2 October 1954**, under the Chandernagore (Merger) Act, 1954.
-- The remaining four French enclaves voted for merger at the **Kizhoor referendum** on **18 October 1954**.
+- The remaining four (चातुर्याम) French enclaves voted for merger at the **Kizhoor referendum** on **18 October 1954**.
 - France transferred them de facto on **1 November 1954**.
 - The Treaty of Cession for Pondicherry, Karaikal, Mahe and Yanam was signed on **28 May 1956**.
 - Ratification instruments were exchanged only on **16 August 1962**, completing the de jure merger.
@@ -269,17 +269,17 @@ D. 1 2 4 3
 
 ## 15.3 Constitution Making
 
-**Body:** Constituent Assembly under the Cabinet Mission plan.
+**Body:** Constituent Assembly under the Cabinet Mission (कैबिनेट मिशन) plan.
 **First sitting:** **9 December 1946**. Temporary President **Sachchidananda Sinha**, then **Rajendra Prasad**.
 
-- The CA idea was pressed hard at **Faizpur Congress (1936)**. The Assembly itself was elected under the **Cabinet Mission** on roughly **one seat per 10 lakh** population.
+- The CA idea was pressed hard at **Faizpur Congress (कांग्रेस) (1936)**. The Assembly itself was elected under the **Cabinet Mission** (कैबिनेट मिशन) on roughly **one seat per 10 lakh** population.
 - Strength was **389**. After Partition it was about **299**. Congress ~**208** seats; League ~**73**. **Jinnah** was **not** a member.
 - Temporary chair **Sachchidananda Sinha** (**9 Dec 1946**); permanent President **Rajendra Prasad** (**11 Dec 1946**). Full sovereignty is keyed from **15 August 1947**.
-- **G.V. Mavlankar** bridged British Central Assembly Speakership and free India’s Lok Sabha Speakership.
+- **G.V. Mavlankar** bridged British Central Assembly Speakership and free India’s Lok Sabha (लोकसभा) Speakership.
 - The Assembly worked **2 years 11 months 18 days**.
 - Nehru moved the **Objective Resolution on 13 December 1946**. It was adopted on **22 January 1947**.
 - The **National Flag** was adopted on **22 July 1947**. That date is **22 July 1947**, not 1948 and not January 1950.
-- The **Drafting Committee** was set up on **29 August 1947**. Chairman was **B.R. Ambedkar**.
+- The **Drafting Committee** was set up on **29 August 1947**. Chairman was **B.R. Ambedkar** (बी.आर. अम्बेडकर).
 - Other members were **N. Gopalaswami Ayyangar**, **Alladi Krishnaswami Ayyar**, **K.M. Munshi** and **Syed Mohammad Saadulla**.
 - **N. Madhava Rau** replaced B.L. Mitter. **T.T. Krishnamachari** replaced D.P. Khaitan.
 - The Constitution was **adopted on 26 November 1949**.
@@ -290,8 +290,8 @@ D. 1 2 4 3
 
 | Committee | Chairman |
 |-----------|----------|
-| Union Constitution Committee | **Jawaharlal Nehru** |
-| Rules of Procedure Committee | **Rajendra Prasad** |
+| Union Constitution Committee | **Jawaharlal Nehru** (जवाहरलाल नेहरू) |
+| Rules of Procedure (प्रक्रिया) Committee | **Rajendra Prasad** |
 | Drafting Committee | **B.R. Ambedkar** |
 | Fundamental Rights Sub-Committee | **J.B. Kripalani** |
 
@@ -374,7 +374,7 @@ D. 22 July, 1948
 
 Who among the following said the above mentioned statement in the Constituent Assembly debates?
 
-A. Somnath Lahiri
+A. Somnath (सोमनाथ) Lahiri
 
 B. Jawaharlal Nehru
 
@@ -412,7 +412,7 @@ D. Dr. S. Radha Krishnan
 
 ## 15.4 Etawah Pilot Project (1948)
 
-**Place:** **Mahewa** block, **Etawah district, Uttar Pradesh**
+**Place:** **Mahewa** block, **Etawah district, Uttar Pradesh (उत्तर प्रदेश)**
 **Person:** **Albert Mayer** (American planner)
 **Year:** **1948**
 
@@ -422,7 +422,7 @@ D. Dr. S. Radha Krishnan
 - Do not confuse it with **Nilokheri** in East Punjab, later Haryana.
 - Nilokheri was **S.K. Dey’s** refugee township, remembered as *Mazdoor Manzil*.
 - Dey later led Community Development at the Centre.
-- Do not credit **Balwant Rai Mehta** of 1957 Panchayati Raj, or Gandhi Jayanti 1952, which is CDP.
+- Do not credit **Balwant Rai Mehta** of 1957 Panchayati Raj (पंचायती राज), or Gandhi (गांधी) Jayanti 1952, which is CDP.
 
 > **Logic:** Etawah = **1948 Mayer UP**. CDP = **1952**. Nilokheri = **Dey**.
 
@@ -436,7 +436,7 @@ D. Dr. S. Radha Krishnan
 - The field worker was the **Village Level Worker / Gram Sevak**.
 - The **National Extension Service** of **1953** was cheaper and wider. It was less intensive than CDP blocks.
 - Officials drove the programme. People’s participation stayed weak.
-- The **Balwant Rai Mehta Committee of 1957** recommended **three-tier Panchayati Raj**: Gram Panchayat, Panchayat Samiti and Zila Parishad.
+- The **Balwant Rai Mehta Committee of 1957** recommended **three-tier Panchayati Raj**: Gram Panchayat, Panchayat Samiti (पंचायत समिति) and Zila Parishad (जिला परिषद).
 - **Nyaya Panchayat is not a Mehta tier**. Nyaya Panchayat was **not** a Mehta Committee tier.
 - Rural programme order: CDP (**1952**) → DPAP (**1973–74**) → Food for Work (**1977**) → TRYSEM (**1979**).
 
@@ -485,7 +485,7 @@ D. 4, 2, 1, 3
 
 **Cause**
 
-- Telugu speakers demanded a separate state from the Madras Presidency after Independence. The **Dhar Commission** and **JVP Committee** had resisted language as the main basis, leaving the demand unresolved.
+- Telugu speakers demanded a separate state from the Madras Presidency (प्रेसीडेंसी) after Independence. The **Dhar Commission** and **JVP Committee** had resisted language as the main basis, leaving the demand unresolved.
 
 **Course**
 
@@ -514,12 +514,12 @@ D. 4, 2, 1, 3
 | Year | What |
 |------|------|
 | **1960** | Bombay split → Maharashtra + Gujarat |
-| **1966** | Punjab reorganised; **Haryana**; Himachal enlarged |
-| **1971–72** | Himachal, Manipur, Tripura, Meghalaya statehood |
+| **1966** | Punjab reorganised; **Haryana**; Himachal (हिमाचल) enlarged |
+| **1971–72** | Himachal, Manipur, Tripura, Meghalaya (मेघालय) statehood |
 | **1987** | Goa, Mizoram, Arunachal |
 | **2000** | Chhattisgarh, Uttarakhand, Jharkhand |
 | **2014** | **Telangana** (from Andhra) |
-| **2019** | J&K and Ladakh as UTs (Art. 370 change — Polity) |
+| **2019** | J&K and Ladakh (लद्दाख) as UTs (Art. 370 change — Polity) |
 
 > **Logic:** First linguistic state **Andhra 1953**. Full reorganisation **1956**. SRC trio = **Fazl Ali, Panikkar, Kunzru**.
 
@@ -573,10 +573,10 @@ D. Uttar Pradesh
 **Set up:** Cabinet resolution, **15 March 1950**. Chairman: **Prime Minister (Nehru)**. Extra-constitutional — **not** Article 280.
 
 - It formulated **Five-Year Plans** from **1951**.
-- **Ashok Chanda** called it the **“Economic Cabinet of India”**. Ashok Chanda applied that label to the **Planning Commission**.
+- **Ashok Chanda** called it the **“Economic Cabinet of India”**. Ashok Chanda applied that label to the **Planning Commission** (योजना आयोग).
 - The **National Development Council** was set up on **6 August 1952**.
 - It had the PM, Chief Ministers and Planning Commission members. It approved plans. It was extra-constitutional.
-- Official **poverty line** estimates of that era were fixed by the **Planning Commission**. The **Planning Commission** (now NITI Aayog) fixed official poverty-line estimates of that era.
+- Official **poverty line** estimates (प्राकलन समिति) of that era were fixed by the **Planning Commission**. The **Planning Commission** (now NITI Aayog) fixed official poverty-line estimates of that era.
 - The successor machinery is NITI-era, not Lok Sabha or Cabinet as a line-drawing body.
 - It was replaced by **NITI Aayog on 1 January 2015**.
 - NITI is a think-tank of cooperative federalism. It has **no** binding Five-Year Plan allocation like the old Commission.
@@ -614,7 +614,7 @@ A. Central Council of Ministers
 
 B. Lok Sabha
 
-C. Rajya Sabha
+C. Rajya Sabha (राज्यसभा)
 
 D. Planning Commission (Now Niti Ayog)
 
@@ -631,7 +631,7 @@ Who was the first Vice-Chairman of the NITI Ayog?
 
 A. Arvind Panagariya
 
-B. Raghuram Rajan
+B. Raghuram Rajan (राजन)
 
 C. Chandrashekhara Subramanyam
 
@@ -1259,7 +1259,7 @@ D. J. B. Kripalani
 
 **Logic:** Congress planning machinery of **1938** — chairman association with Nehru, not Patel or Prasad.
 
-**Ans: C (Series B provisional key).** Nehru chaired the National Planning Committee set up in **1938** during Subhas Chandra Bose's Congress presidency. Patel, Prasad and Kripalani are planted Congress distractors. **Trap:** Do not read this as the **1950 Planning Commission** — the 1938 body was a **Congress** committee, not the post-independence **Cabinet resolution** Commission.
+**Ans: C (Series B provisional key).** Nehru chaired the National Planning Committee set up in **1938** during Subhas Chandra Bose (सुभाष चंद्र बोस)'s Congress presidency. Patel, Prasad and Kripalani are planted Congress distractors. **Trap:** Do not read this as the **1950 Planning Commission** — the 1938 body was a **Congress** committee, not the post-independence **Cabinet resolution** Commission.
 
 </details>
 

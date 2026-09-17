@@ -4,7 +4,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Environmental Literature | Environmental Education | Environmental Awareness | Environmental Communication
+Environmental Literature | Environmental Education (पर्यावरण शिक्षा) | Environmental Awareness (पर्यावरण जागरूकता) | Environmental Communication
 
 </details>
 
@@ -17,18 +17,18 @@ Environmental Literature | Environmental Education | Environmental Awareness | E
 ## Current Affairs (this topic)
 
 - Book–author pairs (Carson, Fukuoka, etc.) stay fixed; new award themes are light CA.
-- Silent Spring ≠ Silent Valley (movement).
+- Silent Spring ≠ Silent Valley (साइलेंट वैली) (movement).
 
 ---
 
 ## Consolidated — 22 Must-Score Facts
 
-1. Four pillars on this sheet: **literature** (landmark books/reports), **education** (formal EE), **awareness** (public campaigns), and **communication** (science to citizens).
+1. Four (चातुर्याम) pillars on this sheet: **literature** (landmark books/reports), **education** (formal EE), **awareness** (public campaigns), and **communication** (science to citizens).
 2. ***Silent Spring* (1962)** by **Rachel Carson** exposed pesticide/DDT harms. It is not Hardin’s commons essay.
 3. **“Tragedy of the Commons” (1968)** by **Garrett Hardin** is about overuse of shared resources.
 4. ***Limits to Growth* (1972)** is the **Club of Rome** systems study. ***Our Common Future* (1987)** is the **Brundtland Report** that popularised sustainable development. Brundtland ≠ Limits to Growth.
 5. Assertion–reason traps often make Brundtland and Limits to Growth look interchangeable — they are different books/years/authors.
-6. Environmental education landmarks include **Tbilisi (1977)**, MoEFCC **NGC/ECO Clubs**, **GSDP (2017)**, and **NEP 2020** ESD language.
+6. Environmental education landmarks include **Tbilisi (1977)**, MoEFCC (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय) **NGC/ECO Clubs**, **GSDP (2017)**, and **NEP 2020** ESD language.
 7. Environmental awareness hooks include **Article 51A(g)**, **NEAC**, **Van Mahotsav** (July tree planting), and **LiFE** (launched **June 2022** from a COP26 idea).
 8. LiFE is **not** a COP-25 product. Idea pitch is Glasgow COP26; launch is June 2022.
 9. Environmental communication flagships include CSE’s ***Down To Earth***, Gobar Times, and IEC components inside schemes. **KSSP** also sits in science–public communication memory from Kerala.
@@ -37,11 +37,11 @@ Environmental Literature | Environmental Education | Environmental Awareness | E
 12. Literature shapes thought; education is curriculum and clubs; awareness is campaigns and duties; communication is media/IEC — keep the four jobs distinct.
 13. NGC/ECO Clubs are MoEFCC school eco-action programmes — not a Bharat Nirman infrastructure scheme.
 14. Agenda 21 is a sustainable-development action plan from Rio; it is not “only environmental education.”
-15. Article **51A(g)** is the constitutional citizen duty to protect the environment — an awareness/duty fact.
+15. Article **51A(g)** is the constitutional citizen duty to protect the environment (पर्यावरण) — an awareness/duty fact.
 16. Van Mahotsav is the July greening festival fact for schools and public tree planting.
 17. NEP 2020 supports education for sustainable development language; it does not replace Tbilisi as the classic EE conference fact.
 18. Down To Earth is CSE journalism for environment — a communication pillar example.
-19. UP colour: NEAC district campaigns, Van Mahotsav in schools, NCAP city awareness (Kanpur), and ECO Clubs in UP schools.
+19. UP colour: NEAC district campaigns, Van Mahotsav in schools, NCAP (राष्ट्रीय स्वच्छ वायु कार्यक्रम) city awareness (Kanpur (कानपुर)), and ECO Clubs in UP schools.
 20. Silent Spring’s year is **1962**; Limits to Growth is **1972**; Brundtland is **1987** — three different decades.
 21. Hardin’s commons logic is shared-resource overuse; it is not Carson’s pesticide narrative.
 22. Match pillar → flagship before matching author names: Carson/Hardin/Brundtland for literature; Tbilisi/ECO Club for education; 51A(g)/LiFE for awareness; Down To Earth for communication.
@@ -90,8 +90,8 @@ Environmental Literature | Environmental Education | Environmental Awareness | E
 - **W.M. Adams, *Green Development* (first edition 1990):** environment and sustainability in the developing world.
 - **Masanobu Fukuoka** was a Japanese farmer-philosopher who pioneered **natural farming** and re-vegetation of desertified lands.
 - **Aldo Leopold, *A Sand County Almanac* (1949):** "Land Ethic" — moral duty to the biotic community.
-- **Paul Ehrlich, *The Population Bomb* (1968):** population growth vs resource limits debate.
-- **Indian voices:** Gandhi *Hind Swaraj* (1909) — restraint vs reckless industrialism; Tagore/Shantiniketan — nature-linked education; Bahuguna — "ecology is permanent economy"; CSE (Anil Agarwal, Sunita Narain) — *Down To Earth*.
+- **Paul Ehrlich, *The Population (जनसंख्या) Bomb* (1968):** population growth vs resource limits debate.
+- **Indian voices:** Gandhi (गांधी) *Hind Swaraj (स्वराज)* (हिंद स्वराज) (1909) — restraint vs reckless industrialism; Tagore/Shantiniketan — nature-linked education; Bahuguna — "ecology (पारिस्थितिकी) is permanent economy"; CSE (Anil Agarwal, Sunita Narain) — *Down To Earth*.
 
 **PYQ — UPPCS Prelims 2024, Q51**
 
@@ -135,11 +135,11 @@ Options: A. Carolyn Merchant B. Karl Marx C. Rachel Carson D. Rajgopalan
 **Identity:** Tbilisi 1977 | NGC/ECO Club | NEP 2020 ESD | Formal + non-formal
 
 - **Environmental Education (EE)** builds knowledge, attitudes, skills, and participation for environmental protection.
-- **Stockholm 1972** put EE on the global agenda; **Tbilisi Declaration (1977)** became the first intergovernmental EE framework.
+- **Stockholm 1972** (स्टॉकहोम सम्मेलन) put EE on the global agenda; **Tbilisi Declaration (1977)** became the first intergovernmental EE framework.
 - **Rio 1992 Agenda 21 Chapter 36** called for reorienting education toward sustainable development.
 - **NEP 2020** integrates environmental awareness and ESD across stages through experiential, multidisciplinary learning.
-- **National Green Corps (NGC) / ECO Clubs (MoEFCC):** school/college clubs for plantation, waste management, biodiversity surveys, energy audits.
-- **Paryavaran Mitra:** CEE Ahmedabad + MoEFCC — student/teacher green ambassadors.
+- **National Green Corps (NGC) (नेशनल ग्रीन कॉर्प्स) / ECO Clubs (MoEFCC):** school/college clubs for plantation, waste management, biodiversity surveys, energy audits.
+- **Paryavaran Mitra (मित्र -):** CEE Ahmedabad (अहमदाबाद) + MoEFCC — student/teacher green ambassadors.
 - **Green Skill Development Programme (GSDP), 2017:** MoEFCC + Skill Ministry — vocational green skills.
 - Formal EE = curriculum; non-formal = ECO Clubs, camps, community programmes.
 
@@ -164,7 +164,7 @@ Options: A. Sustainable Development B. Polluter Pays C. Environmental Education 
 | 2017 | GSDP |
 | 2020 | NEP 2020 ESD integration |
 
-> **Logic:** ECO Club = MoEFCC NGC. Tbilisi = EE; Stockholm = UNEP birth — different milestones.
+> **Logic:** ECO Club = MoEFCC NGC. Tbilisi = EE; Stockholm = UNEP (संयुक्त राष्ट्र पर्यावरण कार्यक्रम) birth — different milestones.
 
 ---
 
@@ -173,23 +173,23 @@ Options: A. Sustainable Development B. Polluter Pays C. Environmental Education 
 **Identity:** Art 51A(g) | NEAC | Van Mahotsav | LiFE | Behaviour change
 
 - **Environmental awareness** is public understanding and concern that drives behaviour change and civic action.
-- **Article 51A(g)** (42nd Amendment, 1976): Fundamental Duty to protect and improve forests, lakes, rivers, and wildlife — pairs with **Art 48A** (state duty).
+- **Article 51A(g)** (42nd (42वां) Amendment, 1976): Fundamental Duty to protect and improve forests, lakes, rivers, and wildlife — pairs with **Art 48A** (state duty).
 - **National Environment Awareness Campaign (NEAC):** MoEFCC-funded NGO/school campaigns since the 1980s.
 - **Van Mahotsav:** tree-plantation week in **July**, popularised by **K.M. Munshi (1950)**.
 - **LiFE Mission:** idea at **COP26 (2021)**; launched **June 2022** — 75 pro-planet lifestyle actions (awareness/nudge, not school curriculum).
-- International awareness anchors: **World Environment Day (5 June)**, **Earth Day (22 April)** — full date list in Topic 31.
+- International awareness anchors: **World Environment Day (विश्व पर्यावरण दिवस) (5 June)**, **Earth Day (पृथ्वी दिवस) (22 April)** — full date list in Topic 31.
 - EE = structured institutional learning; awareness = broad public campaigns and duties.
 
-### Eco-mark, greenwashing, and related awareness facts
+### Eco-mark, greenwashing (ग्रीनवॉशिंग), and related awareness facts
 
 - **Eco-mark / ECOMARC** is India’s eco-labelling scheme launched in **1991** by the Government of India and administered by the **Bureau of Indian Standards (BIS)**.
-- Eco-mark identifies **environment-friendly consumer products** that cause least ecosystem impact — it is **not** Agmark or a general quality-only mark. Drugs/antibiotics are typically **not** on the Eco-mark notified consumer list in bank teaching.
+- Eco-mark identifies **environment-friendly consumer products** that cause least ecosystem (पारिस्थितिकी तंत्र) impact — it is **not** Agmark or a general quality-only mark. Drugs/antibiotics are typically **not** on the Eco-mark notified consumer list in bank teaching.
 - **AGMARK** is a quality certification mark for agricultural produce under the **Agricultural Produce (Grading and Marking) Act, 1937**, issued through the Directorate of Marketing and Inspection (Ministry of Agriculture) — **not FAO**.
 - **BIS / ISI** marks cover many industrial and consumer products (including mandatory certification for automotive tyres and tubes in classic stems).
-- **Greenwashing** means conveying a **false or misleading impression** that a company’s products or practices are eco-friendly.
-- **Greendex** (National Geographic / GlobeScan) measures **environmentally sustainable consumer behaviour** across countries — not carbon-credit sales volume.
+- **Greenwashing** means conveying a **false or misleading impression** that a company (कंपनी)’s products or practices are eco-friendly.
+- **Greendex** (ग्रीनडेक्स) (National Geographic / GlobeScan) measures **environmentally sustainable consumer behaviour** across countries — not carbon-credit sales volume.
 - **Plachimada** (Palakkad, **Kerala**) became a landmark local struggle against groundwater contamination linked to a Coca-Cola bottling plant.
-- Australia’s **Green Army** was a youth environment-works programme; it closed on **30 June 2018**.
+- Australia’s **Green Army (सेना)** was a youth environment-works programme; it closed on **30 June 2018**.
 - **GACSA (Global Alliance for Climate-Smart Agriculture)** has **non-binding** membership. It is **not** an outcome of the Paris 2015 Climate Summit, and India was **not** instrumental in creating it.
 - **Conservation Agriculture** principles are **minimum tillage**, **soil cover with crop residues**, and **crop rotation / sequencing**.
 
@@ -214,12 +214,12 @@ Options: A. Only 2 B. Neither C. Both D. Only 1
 **Identity:** Science → public | Down To Earth | IEC | Risk communication
 
 - **Environmental communication** transmits environmental science, policy, and risk information accurately and accessibly.
-- Bridges scientists/policymakers and citizens — translates AQI, BOD, IPCC summaries into usable messages.
+- Bridges scientists/policymakers and citizens — translates AQI, BOD, IPCC (आईपीसीसी) summaries into usable messages.
 - **CSE *Down To Earth*** (Anil Agarwal / Sunita Narain): leading Indian env journalism; **Gobar Times** for children.
 - **Official channels:** MoEFCC/PIB releases, ISFR summaries, NAPCC documents.
 - **KSSP model:** people's science communication during Silent Valley — data → public pressure → policy win.
-- **IEC (Information, Education, Communication)** components in Swachh Bharat, Namami Gange, NCAP, plastic-waste rules.
-- Digital tools: Mission LiFE app, Sameer (CPCB AQI), DIKSHA eco-modules.
+- **IEC (Information, Education, Communication)** components in Swachh Bharat, Namami Gange (नमामि गंगे), NCAP, plastic-waste rules.
+- Digital tools: Mission LiFE app, Sameer (CPCB (केंद्रीय प्रदूषण नियंत्रण बोर्ड) AQI), DIKSHA eco-modules.
 - **IPCC** communicates climate science assessments — it is not an MoEFCC-style public awareness campaign body.
 
 | Channel | Example |
@@ -241,7 +241,7 @@ Options: A. Only 2 B. Neither C. Both D. Only 1
 - **Tyler Prize for Environmental Achievement** (University of Southern California) is often called the “Nobel of Environment” — environmental science, health, and energy. Notable awardees include Madhav Gadgil (2015 pairing), Partha Dasgupta (2016), Pavan Sukhdev & Gretchen Daily (2020).
 - **Rajiv Gandhi Environment Award** recognises clean/new technology and industrial pollution-reduction practice (MoEFCC track).
 - **Global 500 Award** (UNEP, from **1987**) honoured environmental achievement; later succeeded in spirit by **Champions of the Earth** (from **2005**). Narendra Modi received Champions of the Earth **2018**.
-- **Borlaug Award** is for outstanding agricultural research/contribution. Norman Borlaug’s Nobel was the **Peace** Prize (Green Revolution), not a medicine Nobel.
+- **Borlaug Award** is for outstanding agricultural research/contribution. Norman Borlaug’s Nobel was the **Peace** Prize (Green Revolution (हरित क्रांति)), not a medicine Nobel.
 
 > **Logic:** Tyler ≠ drama/child-rights prize. Global 500 = environment, not anti-terror. AGMARK ≠ Eco-mark; AGMARK ≠ FAO mark.
 

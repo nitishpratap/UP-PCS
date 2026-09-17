@@ -1,4 +1,4 @@
-# Topic 7 — Transport, Tourism, Passes, Bugyals & Natural Hazards of Uttarakhand
+# Topic 7 — Transport, Tourism, Passes, Bugyals & Natural Hazards of Uttarakhand (उत्तराखंड)
 
 ### ★ UKPCS state card (Unit 2 — Geography of Uttarakhand)
 
@@ -11,18 +11,18 @@
 
 | Head | Key Fact |
 | :--- | :--- |
-| **Silkyara–Barkot Tunnel** | **4.531 km long**; cuts Gangotri–Yamunotri highway distance by >20 km (UKPCS 2025 Q51) |
-| **Airport Mismatch (2025)** | **Gauchar** is in **Chamoli** (NOT Rudraprayag!) (UKPCS 2025 Q103) |
-| **Airports in UK** | Jolly Grant (Dehradun), Pantnagar (US Nagar), Naini Saini (Pithoragarh), Chinyalisaur (Uttarkashi), Gauchar (Chamoli) |
+| **Silkyara–Barkot Tunnel** | **4.531 km long**; cuts Gangotri (गंगोत्री)–Yamunotri (यमुनोत्री) highway distance by >20 km (UKPCS 2025 Q51) |
+| **Airport Mismatch (2025)** | **Gauchar** is in **Chamoli** (चमोली) (NOT Rudraprayag (रुद्रप्रयाग)!) (UKPCS 2025 Q103) |
+| **Airports in UK** | Jolly Grant (Dehradun (देहरादून)), Pantnagar (US Nagar), Naini Saini (Pithoragarh (पिथौरागढ़)), Chinyalisaur (Uttarkashi (उत्तरकाशी)), Gauchar (Chamoli) |
 | **Pass: Darma & Byans** | **Sinla Pass** (Pithoragarh) — connects Darma valley to Byans valley |
-| **Pass: Pithoragarh & Tibet**| **Lipulekh Pass** (5,334 m) — traditional Kailash-Mansarovar Yatra route |
-| **Pass: Pithoragarh & Bageshwar**| **Traill's Pass** (5,312 m) — crossed in 1830 by Commissioner G. W. Traill |
+| **Pass: Pithoragarh & Tibet**| **Lipulekh (लिपुलेख) Pass** (5,334 m) — traditional Kailash-Mansarovar Yatra route |
+| **Pass: Pithoragarh & Bageshwar (बागेश्वर)**| **Traill's Pass** (5,312 m) — crossed in 1830 by Commissioner G. W. Traill |
 | **Pass: Uttarkashi & HP** | **Shringkanth Pass** (connects Uttarkashi to Kinnaur/HP) |
-| **Largest Bugyal in UK** | **Bedni Bugyal** (Chamoli) — velvet alpine meadow on the Nanda Devi Raj Jat route |
+| **Largest Bugyal in UK** | **Bedni Bugyal** (Chamoli) — velvet alpine meadow on the Nanda Devi (नंदा देवी) Raj Jat (नंदा देवी राज जात) route |
 | **Butter Festival Bugyal** | **Dayara Bugyal** (Uttarkashi) — celebrated for **Anduri Utsav / Butter Festival** |
-| **State Climate Council (SCCC)**| Established in **2011** (Forest & Environment Dept drafts UAPCC, NOT Revenue Dept) (UKPCS 2025 Q106) |
+| **State Climate Council (SCCC)**| Established in **2011** (Forest & Environment (पर्यावरण) Dept drafts UAPCC, NOT Revenue Dept) (UKPCS 2025 Q106) |
 | **Malpa Landslide Tragedy** | **17–18 August 1998** (Pithoragarh); killed 200+ pilgrims including dancer Protima Bedi |
-| **Kedarnath Flash Deluge** | **16–17 June 2013** — Chaurabari glacial lake breach; Mandakini river deluge |
+| **Kedarnath (केदारनाथ) Flash Deluge** | **16–17 June 2013** — Chaurabari glacial lake breach; Mandakini (मंदाकिनी) river deluge |
 | **Tapovan/Rishiganga Disaster**| **7 February 2021** (Chamoli) — rock-ice avalanche wiped out Rishiganga & Tapovan-Vishnugad hydel plants |
 
 ---
@@ -31,20 +31,20 @@
 
 1. **Airport & Airstrip Catalog (UKPCS 2025 Q103):**
    - *Jolly Grant Airport:* Dehradun (main commercial terminal).
-   - *Pantnagar Airport:* Udham Singh Nagar (Kumaon gateway).
+   - *Pantnagar Airport:* Udham Singh Nagar (ऊधम सिंह नगर) (Kumaon (कुमाऊँ) gateway).
    - *Naini Saini Airport:* Pithoragarh.
-   - *Chinyalisaur (Maa Ganga) Airstrip:* Uttarkashi.
+   - *Chinyalisaur (Maa Ganga (गंगा)) Airstrip:* Uttarkashi.
    - *Gauchar Airstrip:* **Chamoli** (not Rudraprayag).
 2. **Silkyara–Barkot Bi-Directional Tunnel:** Length = **4.531 km**; located on NH-134 under the Char Dham project; collapsed in Nov 2023, resulting in the successful 17-day rescue of 41 workers.
 3. **High Mountain Passes (La / Dhura / Darra):**
    - *Sinla Pass:* Connects Darma and Byans valleys in Pithoragarh.
-   - *Kalindi Pass:* Glaciated alpine pass connecting **Gangotri (Uttarkashi) to Badrinath (Chamoli)**.
+   - *Kalindi Pass:* Glaciated alpine pass connecting **Gangotri (Uttarkashi) to Badrinath (बद्रीनाथ) (Chamoli)**.
    - *Lipulekh Pass:* Pithoragarh to Tibet (tri-junction of India, Nepal, and China).
-   - *Traill's Pass:* Between Pindari Glacier (Bageshwar) and Milam (Pithoragarh).
+   - *Traill's Pass:* Between Pindari (पिंडारी) Glacier (Bageshwar) and Milam (मिलाम) (Pithoragarh).
 4. **Alpine Pastures (Bugyals):**
-   - *Bedni Bugyal:* Chamoli — largest bugyal in the state; Brahma Kamal flourishes here.
-   - *Auli Bugyal:* Chamoli — international winter skiing destination.
-   - *Dayara Bugyal:* Uttarkashi — site of the traditional butter-throwing folk festival (*Anduri Utsav*).
+   - *Bedni Bugyal:* Chamoli — largest bugyal in the state; Brahma Kamal (ब्रह्मकमल) flourishes here.
+   - *Auli (औली) Bugyal:* Chamoli — international winter skiing destination.
+   - *Dayara Bugyal:* Uttarkashi — site of the traditional butter-throwing folk (लोक) festival (*Anduri Utsav*).
 5. **Seismic Vulnerability:** Uttarakhand lies in **Seismic Zones IV and V** (highest vulnerability to catastrophic earthquakes in the Central Seismic Gap).
 
 ---
@@ -65,14 +65,14 @@
 
 | Pass Name | Elevation | Connects / Geographic Span | Key Prelims Features |
 | :--- | :---: | :--- | :--- |
-| **Lipulekh Pass** | 5,334 m | **Pithoragarh $\longleftrightarrow$ Tibet (China)** | Landmark pass on the ancient border trade and annual **Kailash-Mansarovar Yatra**; tri-junction with Nepal. |
-| **Mana Pass (Dungri-La)**| 5,608 m | **Chamoli $\longleftrightarrow$ Tibet** | One of the highest motorable roads in the world (NH-58 terminal); ancient Indo-Tibetan trade link. |
-| **Niti Pass** | 5,068 m | **Chamoli $\longleftrightarrow$ Tibet** | Last pass in the Dhauliganga valley; closed following the 1962 war. |
+| **Lipulekh Pass** | 5,334 m | **Pithoragarh $\longleftrightarrow$ Tibet (China)** | Landmark pass on the ancient border trade (पण्याध्यक्ष) and annual **Kailash-Mansarovar Yatra**; tri-junction with Nepal. |
+| **Mana (माना) Pass (Dungri-La)**| 5,608 m | **Chamoli $\longleftrightarrow$ Tibet** | One of the highest motorable roads in the world (NH-58 terminal); ancient Indo-Tibetan trade link. |
+| **Niti (नीति) Pass** | 5,068 m | **Chamoli $\longleftrightarrow$ Tibet** | Last pass in the Dhauliganga (धौलीगंगा) valley; closed following the 1962 war. |
 | **Sinla Pass** | 5,495 m | **Darma Valley $\longleftrightarrow$ Byans Valley** | Inter-valley high pass within Pithoragarh district. |
 | **Traill's Pass** | 5,312 m | **Bageshwar $\longleftrightarrow$ Pithoragarh** | Connects Pindari Glacier to Milam valley; discovered in 1830 by Commissioner G. W. Traill. |
-| **Kalindi Pass** | 5,950 m | **Uttarkashi $\longleftrightarrow$ Chamoli** | Severe glaciated mountaineering pass linking Gangotri/Gaumukh directly to Badrinath. |
-| **Shringkanth Pass** | 1,500 m | **Uttarkashi $\longleftrightarrow$ Himachal Pradesh** | Ancient transit corridor connecting Rawain to Kinnaur. |
-| **Thang-La Pass** | 5,360 m | **Uttarkashi $\longleftrightarrow$ Tibet** | Second highest pass in the Garhwal Himalaya; accessed via Jadhganga valley. |
+| **Kalindi Pass** | 5,950 m | **Uttarkashi $\longleftrightarrow$ Chamoli** | Severe glaciated mountaineering pass linking Gangotri/Gaumukh (गौमुख) directly to Badrinath. |
+| **Shringkanth Pass** | 1,500 m | **Uttarkashi $\longleftrightarrow$ Himachal (हिमाचल) Pradesh** | Ancient transit corridor connecting Rawain to Kinnaur. |
+| **Thang-La Pass** | 5,360 m | **Uttarkashi $\longleftrightarrow$ Tibet** | Second highest pass in the Garhwal (गढ़वाल) Himalaya (हिमालय); accessed via Jadhganga valley. |
 | **Chorhoti Pass** | 5,364 m | **Chamoli $\longleftrightarrow$ Pithoragarh** | Connects Niti valley to the Kumaon borderland. |
 | **Sunderdhunga Pass** | 5,520 m | **Bageshwar $\longleftrightarrow$ Chamoli** | Traverses high glacial ridgelines between Maiktoli and Panwali peaks. |
 
@@ -84,11 +84,11 @@ In the vernacular language of the Central Himalaya, gentle grassy slopes situate
 
 | District | Prominent Bugyals | High-Yield Prelims Characteristics |
 | :--- | :--- | :--- |
-| **Chamoli** | **Bedni Bugyal**, **Auli**, **Gorson**, Ali, Panar, Bagji, Chitrakantha, Vedini | **Bedni Bugyal:** Largest bugyal in Uttarakhand; famous for Bedni Kund and rare *Brahma Kamal* flowers. <br>**Auli Bugyal:** Premier skiing destination with 4 km ropeway (*Cable Car*) from Joshimath. |
-| **Uttarkashi**| **Dayara**, **Kush Kalyan**, Panwali Kantha, Manji, Devdamini, Har-ki-Doon | **Dayara Bugyal:** Vast 28 sq km meadow; venue of the famous **Anduri Utsav (Butter & Milk Festival)** celebrated on Bhado Sankranti. <br>**Panwali Kantha:** Home to blooming red, pink, and white rhododendrons; long trekking trail. |
-| **Rudraprayag**| **Chopta**, Tungnath, Madhyamaheshwar, Kasni Khark | **Chopta:** Hailed as the **"Mini Switzerland of Uttarakhand"**; base camp for Tungnath and Chandrashila treks. |
-| **Pithoragarh**| **Khalia Top**, Chhipla Kot, Byans Bugyal, Ralam, Betulidhar | **Khalia Top:** Near Munsyari; panoramic views of Panchachuli peaks. <br>**Chhipla Kot:** Sacred alpine meadow housing the Chhipla Kedar shrine. |
-| **Tehri** | **Kotli Bugyal**, Masartal Bugyal, Sahasratal pastures | Alpine grazing grounds used by Gujjars and local sheep herders. |
+| **Chamoli** | **Bedni Bugyal**, **Auli** (औली), **Gorson**, Ali, Panar, Bagji, Chitrakantha, Vedini | **Bedni Bugyal:** Largest bugyal in Uttarakhand; famous for Bedni Kund and rare *Brahma Kamal* (ब्रह्मकमल) flowers. <br>**Auli Bugyal:** Premier skiing destination with 4 km ropeway (*Cable Car*) from Joshimath. |
+| **Uttarkashi** (उत्तरकाशी)| **Dayara**, **Kush Kalyan**, Panwali Kantha, Manji (मंजी), Devdamini, Har-ki-Doon | **Dayara Bugyal:** Vast 28 sq km meadow; venue of the famous **Anduri Utsav (Butter & Milk Festival)** celebrated on Bhado Sankranti. <br>**Panwali Kantha:** Home to blooming red, pink, and white rhododendrons; long trekking trail. |
+| **Rudraprayag** (रुद्रप्रयाग)| **Chopta**, Tungnath, Madhyamaheshwar, Kasni Khark | **Chopta:** Hailed as the **"Mini Switzerland of Uttarakhand"**; base camp for Tungnath and Chandrashila treks. |
+| **Pithoragarh** (पिथौरागढ़)| **Khalia Top**, Chhipla Kot, Byans Bugyal, Ralam, Betulidhar | **Khalia Top:** Near Munsyari; panoramic views of Panchachuli (पंचाचूली) peaks. <br>**Chhipla Kot:** Sacred alpine meadow housing the Chhipla Kedar shrine. |
+| **Tehri** (टिहरी) | **Kotli Bugyal**, Masartal Bugyal, Sahasratal pastures | Alpine grazing grounds used by Gujjars and local sheep herders. |
 
 ---
 
@@ -99,10 +99,10 @@ Uttarakhand's geologically active mountain slopes, fragile tectonic faults (Main
 | Date / Year | Calamity & Location | Geological Nature & Human/Infrastructure Toll |
 | :--- | :--- | :--- |
 | **20 October 1991** | **Uttarkashi Earthquake** (6.6 M) | Severe tectonic tremor along the MCT; over **768 fatalities**; flattened thousands of traditional stone houses across Bhatwari and Dunda. |
-| **17–18 August 1998**| **Malpa Landslide (Pithoragarh)** | Catastrophic rockfall and debris avalanche in the Kali valley wiped out the village of Malpa overnight. **221 dead**, including a batch of 60 Kailash-Mansarovar pilgrims and renowned classical dancer **Protima Bedi**. |
+| **17–18 August 1998**| **Malpa Landslide (Pithoragarh)** | Catastrophic rockfall and debris avalanche in the Kali (काली) valley wiped out the village of Malpa overnight. **221 dead**, including a batch of 60 Kailash-Mansarovar pilgrims and renowned classical dancer **Protima Bedi**. |
 | **29 March 1999** | **Chamoli Earthquake** (6.8 M) | Epicentre near Chamoli/Gopeshwar; over **100 fatalities**; extensive damage to Gopeshwar, Chamoli, and Rudraprayag. |
-| **16–17 June 2013** | **Kedarnath Cloudburst & GLOF (Mandakini Deluge)** | Massive multi-day torrential rains coupled with the sudden breach of **Chaurabari Lake (Gandhi Sarovar)** sent a gigantic wall of mud and boulders down the Mandakini river. Devastated Kedarnath temple township, Rambara, Gaurikund, and Sonprayag. Over **5,700 fatalities**; largest Himalayan disaster of modern times. Led to establishment of State Disaster Response Force (SDRF). |
-| **7 February 2021** | **Chamoli / Tapovan Flash Flood (GLOF & Rockslide)** | A massive hanging glacier and rock mass collapsed from the **Rongti / Nanda Ghunti peak**, creating a colossal flash flood in the Rishi Ganga and Dhauli Ganga rivers. Completely destroyed the **Rishi Ganga Hydel Project (13.2 MW)** and severely damaged NTPC’s **Tapovan-Vishnugad Project (520 MW)**. Over **204 dead/missing** workers trapped inside tunnels. |
+| **16–17 June 2013** | **Kedarnath Cloudburst & GLOF (Mandakini Deluge)** | Massive multi-day torrential rains coupled with the sudden breach of **Chaurabari Lake (Gandhi (गांधी) Sarovar)** sent a gigantic wall of mud and boulders down the Mandakini river. Devastated Kedarnath temple township, Rambara, Gaurikund, and Sonprayag. Over **5,700 fatalities**; largest Himalayan disaster of modern times. Led to establishment of State Disaster Response Force (SDRF). |
+| **7 February 2021** | **Chamoli / Tapovan Flash Flood (GLOF & Rockslide)** | A massive hanging glacier and rock mass collapsed from the **Rongti / Nanda Ghunti peak**, creating a colossal flash flood in the Rishi Ganga and Dhauli (धौली) Ganga rivers. Completely destroyed the **Rishi Ganga Hydel Project (13.2 MW)** and severely damaged NTPC’s **Tapovan-Vishnugad Project (520 MW)**. Over **204 dead/missing** workers trapped inside tunnels. |
 | **January 2023** | **Joshimath Land Subsidence** | Severe land sinking, foundational shifting, and deep wall fissures appeared across 9 municipal wards of Joshimath, built upon ancient landslide moraine debris. Hundreds of families evacuated. |
 
 ---
@@ -137,7 +137,7 @@ D. Pantnagar — Udham Singh Nagar
 *Answer:* **B** (Gauchar is situated in Chamoli district).
 
 **Q3 (UKPCS Prelims 2025, Q106).** Consider the following statements:  
-1. The State Council for Climate Change (SCCC) of Uttarakhand was established in 2011.  
+1. The State Council for Climate Change (जलवायु परिवर्तन) (SCCC) of Uttarakhand was established in 2011.  
 2. Responsibility of preparing UAPCC was given to the State Revenue Department.  
 *Which of the statements given above is/are correct?*  
 A. Only 1  

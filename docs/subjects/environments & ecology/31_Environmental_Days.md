@@ -4,7 +4,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-World Environment Day | World Wetlands Day | Earth Day | International Day for Biological Diversity | International Day of Forests | World Water Day | World Ozone Day | World Wildlife Day
+World Environment (पर्यावरण) Day (विश्व पर्यावरण दिवस) | World Wetlands Day (विश्व आर्द्रभूमि दिवस) | Earth Day (पृथ्वी दिवस) | International Day for Biological Diversity | International Day of Forests | World Water Day (विश्व जल दिवस) | World Ozone Day (विश्व ओजोन दिवस) | World Wildlife Day (विश्व वन्यजीव दिवस)
 
 </details>
 
@@ -23,32 +23,32 @@ World Environment Day | World Wetlands Day | Earth Day | International Day for B
 
 ## Consolidated — 24 Must-Score Facts
 
-1. **World Wetlands Day** falls on **2 February** and marks the **Ramsar Convention (1971)**. It is not 2 March or 3 March.
-2. **World Wildlife Day** falls on **3 March** and marks the adoption of **CITES (1973)**. It is **not** 22 March.
+1. **World Wetlands Day** falls on **2 February** (रामसर) and marks the **Ramsar (रामसर) Convention (1971)** (रामसर कन्वेंशन). It is not 2 March or 3 March.
+2. **World Wildlife Day** falls on **3 March** and marks the adoption of **CITES (साइट्स) (1973)** (साइट्स). It is **not** 22 March.
 3. **International Day of Forests** falls on **21 March**. It was proclaimed by the UN General Assembly in **2012**.
 4. **World Water Day** falls on **22 March**. The classic trap is pairing Wildlife Day with 22 March.
 5. **Earth Day** falls on **22 April**. It began in the United States in **1970** as a civic teach-in movement.
-6. **International Day for Biological Diversity** falls on **22 May** and commemorates the CBD text adopted at Nairobi in **1992**.
-7. **World Environment Day** falls on **5 June**. It marks the opening of the **Stockholm Conference (1972)** and is run by **UNEP**.
-8. **World Ozone Day** falls on **16 September** and marks the **Montreal Protocol (1987)**.
+6. **International Day for Biological Diversity** falls on **22 May** and commemorates the CBD text adopted (अंगीकृत) at Nairobi in **1992**.
+7. **World Environment Day** falls on **5 June**. It marks the opening of the **Stockholm Conference (1972)** (स्टॉकहोम सम्मेलन) and is run by **UNEP** (संयुक्त राष्ट्र पर्यावरण कार्यक्रम).
+8. **World Ozone Day** falls on **16 September** and marks the **Montreal Protocol (मॉन्ट्रियल प्रोटोकॉल) (1987)** (मॉन्ट्रियल प्रोटोकॉल).
 9. In calendar order the eight syllabus days run **2 Feb → 3 Mar → 21 Mar → 22 Mar → 22 Apr → 22 May → 5 Jun → 16 Sep**.
 10. The March ladder is **Wildlife (3) → Forests (21) → Water (22)**. Never put Wildlife on 22 March.
 11. World Environment Day is **not** Earth Day and **not** Wetlands Day. The dates are **5 June**, **22 April**, and **2 February**.
 12. India hosted World Environment Day in **2011** (Forests theme) and **2018** (Beat Plastic Pollution).
 13. Biological Diversity Day shifted from an older **29 December** link to **22 May** from **2000**; papers use **22 May** only.
-14. World Water Day is coordinated under **UN-Water**. Wetlands Day is a **Ramsar** day, not a Water Day synonym.
+14. World Water Day is coordinated under **UN-Water**. Wetlands Day is a **Ramsar** (रामसर) day, not a Water Day synonym.
 15. World Wildlife Day was proclaimed by the UN in **2013**, but the date itself is the **1973 CITES** anniversary.
-16. Ozone Day belongs to the **Montreal Protocol** family. Do not date it as 2 October, 21 April, or 30 January.
+16. Ozone Day belongs to the **Montreal Protocol** (मॉन्ट्रियल प्रोटोकॉल) family. Do not date it as 2 October, 21 April, or 30 January.
 17. Earth Day is a civic global day. It is **not** the same UN treaty day as World Environment Day.
-18. Biodiversity Day is broader than Wildlife Day. Wildlife Day is fauna–flora trade and crime awareness under the CITES date.
+18. Biodiversity Day is broader than Wildlife Day. Wildlife Day is fauna (प्राणीजात)–flora (वनस्पति) trade (पण्याध्यक्ष) and crime awareness under the CITES date.
 19. Van Mahotsav is a separate **July** plantation campaign in India. It is **not** International Day of Forests.
-20. Earth Hour (last Saturday of March, WWF) is **not** on this syllabus day list and is not Earth Day.
-21. Uttar Pradesh has **10** Ramsar sites — useful Wetlands Day geography, but the day itself stays **2 February**.
+20. Earth Hour (अर्थ आवर) (last Saturday of March, WWF (डब्ल्यूडब्ल्यूएफ)) is **not** on this syllabus day list and is not Earth Day.
+21. Uttar Pradesh (उत्तर प्रदेश) has **10** Ramsar sites — useful Wetlands Day geography, but the day itself stays **2 February**.
 22. A correct Ozone–WED pair is **16 September** and **5 June**. A Wildlife–**22 March** pair is always wrong.
 23. Stockholm **1972** anchors WED. Ramsar **1971** anchors Wetlands. Montreal **1987** anchors Ozone. CITES **1973** anchors Wildlife.
 24. Same-number traps: **22** March is Water, **22** April is Earth, **22** May is Biodiversity — three different months.
-25. **World Toilet Day = 19 November** (UN, from 2013). **World No Tobacco Day = 31 May** (not 5 May). **World Habitat Day** = first Monday of October (not a fixed 5 October).
-26. **Swachh Bharat Mission** launched **2 October 2014** (Gandhi Jayanti). Sierra Leone observes national cleanliness on the last Saturday of every month.
+25. **World Toilet Day = 19 November** (UN, from 2013). **World No Tobacco Day = 31 May** (not 5 May). **World Habitat (वास स्थान) Day** = first Monday of October (not a fixed 5 October).
+26. **Swachh Bharat Mission** launched **2 October 2014** (Gandhi (गांधी) Jayanti). Sierra Leone observes national cleanliness on the last Saturday of every month.
 27. Earth Day theme teaching: **2024 = Planet vs. Plastics**. WED **2023 = Beat Plastic Pollution**.
 
 ---
@@ -87,13 +87,13 @@ World Environment Day | World Wetlands Day | Earth Day | International Day for B
 
 ## 31.1 World Environment Day
 
-**Identity:** 5 June | UNEP | Stockholm 1972 | Host country rotates
+**Identity:** 5 June | UNEP | Stockholm 1972 (स्टॉकहोम सम्मेलन) | Host country rotates
 
-- **World Environment Day (WED)** is the UN’s main annual day for environmental awareness and action.
+- **World Environment Day (WED)** is the UN’s main annual day for environmental awareness (पर्यावरण जागरूकता) and action.
 - Date **5 June** marks the opening of the **Stockholm Conference on the Human Environment (1972)**; first observed in **1973**.
 - Administered by **UNEP**; host country rotates and sets the year’s theme.
 - India hosted in **2011** ("Forests: Nature at Your Service") and **2018** ("Beat Plastic Pollution").
-- Recent host/theme facts: **2019** China — Air Pollution; **2020** Colombia (+Germany) — Biodiversity; **2021** Pakistan — Ecosystem Restoration; **2022** Only One Earth; **2023** Solutions to plastic pollution.
+- Recent host/theme facts: **2019** China — Air Pollution; **2020** Colombia (+Germany) — Biodiversity; **2021** Pakistan — Ecosystem (पारिस्थितिकी तंत्र) Restoration; **2022** Only One Earth; **2023** Solutions to plastic pollution.
 - **2022** also marked **50 years** since Stockholm 1972, which designated **5 June** as World Environment Day.
 - WED is **not** Earth Day (**22 April**) and **not** Wetlands Day (**2 February**).
 
@@ -122,7 +122,7 @@ Options: A. 1 and 2 B. Only 3 C. 2 and 3 D. Only 1
 
 - **World Wetlands Day** marks adoption of the **Ramsar Convention on Wetlands** at Ramsar, Iran (**2 February 1971**).
 - Focus is wetland conservation and **wise use** — sustainable human use, not a total ban.
-- India has about **100** Ramsar sites; **Uttar Pradesh has 10**; **Tamil Nadu** leads with **16** (geography overlap).
+- India has about **100** Ramsar sites; **Uttar Pradesh has 10**; **Tamil Nadu (नाडु)** leads with **16** (geography overlap).
 - Date traps: **not 2 March**, **not 3 March** (Wildlife), **not 22 March** (Water).
 
 **PYQ — UPPCS Prelims 2023, Q147**
@@ -162,7 +162,7 @@ Options: A. 10 January B. 15 January C. 1 February D. 2 February
 - Commemorates adoption of the **Convention on Biological Diversity** text at Nairobi (**22 May 1992**); Rio Earth Summit signed CBD the same year.
 - Originally linked to **29 December** (CBD entry into force 1993); shifted to **22 May** from **2000** — papers use **22 May** only.
 - The UN declared **2011–2020** the **United Nations Decade on Biodiversity**.
-- India implements CBD through the **Biological Diversity Act 2002** (NBA / SBBs / BMCs).
+- India implements CBD through the **Biological Diversity Act 2002** (जैव विविधता अधिनियम 2002) (NBA / SBBs / BMCs).
 - Scope is broader than World Wildlife Day (**3 March**, CITES fauna focus).
 
 > **Logic:** IDB = **22 May** — not 22 March (Water) and not 5 June (WED). Decade 2011–20 ≠ climate-decade branding.
@@ -261,7 +261,7 @@ Options: A. 25 December B. 21 April C. 16 September D. 30 January
 
 ## 31.10 Other High-Yield Days
 
-**Identity:** Toilet | No Tobacco | Habitat | Cities | Population | Health | Overshoot
+**Identity:** Toilet | No Tobacco | Habitat | Cities | Population (जनसंख्या) | Health | Overshoot
 
 - **World Toilet Day = 19 November** (UNGA 2013; sanitation for all / end open defecation messaging).
 - **World No Tobacco Day = 31 May** (WHO) — not 5 May. Themes rotate (e.g. tobacco–environment / grow food not tobacco).

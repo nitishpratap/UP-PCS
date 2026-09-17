@@ -1,9 +1,9 @@
-# Topic 3 — Tehri Estate (Tehri Princely State)
+# Topic 3 — Tehri (टिहरी) Estate (Tehri Princely State)
 
-### ★ UKPCS state card (Unit 1 — History and Culture of Uttarakhand)
+### ★ UKPCS state card (Unit 1 — History (इतिहास) and Culture of Uttarakhand (उत्तराखंड))
 
 > **Sources:** Dr. Ajay Rawat's *History of Garhwal*, Atkinson’s Gazetteer, UKPCS PYQ stems (English education under Pratap Shah 2025 Q79, Tilari Kand 1930, Sridev Suman 84-day fast, 1 August 1949 merger).  
-> **Pair with:** [Parmar of Garhwal](../../medieval%20india/uttarakhand/02_Parmar_Dynasty_of_Garhwal.md) · [British Rule](02_British_Rule_in_Uttarakhand.md) · [Freedom Movement](04_Freedom_Movement_in_Uttarakhand.md)
+> **Pair with:** [Parmar of Garhwal (गढ़वाल)](../../medieval%20india/uttarakhand/02_Parmar_Dynasty_of_Garhwal.md) · [British Rule](02_British_Rule_in_Uttarakhand.md) · [Freedom Movement](04_Freedom_Movement_in_Uttarakhand.md)
 
 ---
 
@@ -11,24 +11,24 @@
 
 | Head | Key Fact |
 | :--- | :--- |
-| **Foundation Date** | **28 December 1815** — Sudarshan Shah established capital at Old Tehri (Ganesh Prayag) |
+| **Foundation Date** | **28 December 1815** — Sudarshan Shah established capital at Old Tehri (Ganesh Prayag (प्रयाग)) |
 | **Founder / 1st Ruler** | **Sudarshan Shah** (1815–1859) — authored 7-volume literary text *Sabhasar* (1828) |
-| **British Division** | Alaknanda/Mandakini river was boundary: West = **Tehri Princely State**; East = **British Garhwal** |
-| **"Bolanda Badri"** | Reverential title given to Tehri Kings (considered living incarnation of Lord Badrinath) |
-| **Forest Lease (1860)** | **Bhawani Shah** (1859–1871) leased Yamuna/Kaligad deodar forests to Frederick Wilson ("Pahari Wilson") |
-| **Start of English Education** | **Pratap Shah** (1871–1886) — established *Pratap High School* (1883); printing press; police dept (UKPCS 2025 Q79) |
+| **British Division** | Alaknanda (अलकनंदा)/Mandakini (मंदाकिनी) river was boundary: West = **Tehri Princely State**; East = **British Garhwal** |
+| **"Bolanda Badri"** | Reverential title given to Tehri Kings (considered living incarnation of Lord Badrinath (बद्रीनाथ)) |
+| **Forest Lease (1860)** | **Bhawani Shah** (1859–1871) leased Yamuna (यमुना)/Kaligad deodar forests to Frederick Wilson ("Pahari (पहाड़ी) Wilson") |
+| **Start of English Education** | **Pratap (प्रताप) Shah** (1871–1886) — established *Pratap High School* (1883); printing press; police dept (UKPCS 2025 Q79) |
 | **Model Moderniser** | **Kirti Shah** (1886–1913) — Knighted (KCSI); built **Tehri Clock Tower (1897)**; 1st hydro-power plant (1906) |
 | **Capital Shift (1925)** | **Narendra Shah** (1913–1946) — founded and shifted capital to **Narendranagar (1925)** |
-| **Tilari Kand (Rawain Kand)** | **30 May 1930** — Diwan Chakradhar Juyal fired on unarmed peasants; **"Jallianwala Bagh of Uttarakhand"** |
-| **Praja Mandal Founder** | **Sridev Suman** founded *Tehri Rajya Praja Mandal* on **23 January 1939** at Dehradun |
-| **Epic Martyrdom** | **Sridev Suman** died after an **84-day historic hunger strike** on **25 July 1944** in Tehri Jail |
-| **Last Maharaja & Merger** | **Manvendra Shah** signed accession; Tehri merged with India on **1 August 1949** (as 50th district of UP) |
+| **Tilari Kand (Rawain Kand)** | **30 May 1930** — Diwan Chakradhar Juyal fired on unarmed peasants; **"Jallianwala Bagh (जलियांवाला बाग) of Uttarakhand"** |
+| **Praja Mandal Founder** | **Sridev Suman** founded *Tehri Rajya Praja Mandal* on **23 January 1939** at Dehradun (देहरादून) |
+| **Epic Martyrdom** | **Sridev Suman** died after an **84-day historic (ऐतिहासिक) hunger strike** on **25 July 1944** in Tehri Jail |
+| **Last Maharaja (महाराज) & Merger** | **Manvendra Shah** signed accession; Tehri merged with India on **1 August 1949** (as 50th district of UP) |
 
 ---
 
 ## Must-Score Facts (High-Yield UKPCS)
 
-1. **28 December 1815 (Restoration Day):** Sudarshan Shah arrived at the confluence of the Bhagirathi and Bhilangna rivers (*Ganesh Prayag*) to found Old Tehri after the British retained British Garhwal (Pauri/Srinagar) for themselves.
+1. **28 December 1815 (Restoration Day):** Sudarshan Shah arrived at the confluence of the Bhagirathi (भागीरथी) and Bhilangna rivers (*Ganesh Prayag*) to found Old Tehri after the British retained British Garhwal (Pauri (पौड़ी)/Srinagar) for themselves.
 2. **Sabhasar (1828):** Written in Brajbhasha by Sudarshan Shah under the pen name *Kavi Surat*; primary source for late Parmar dynastic history.
 3. **English Education Pioneer (Pratap Shah):** Built Pratap High School (1883), established the *Pratap Press* (first printing press in hill state), and organized the state into 22 Pattis with a regular police code.
 4. **Tilari Massacre (30 May 1930):** Forest agitation (*Dhandak*) against the 1924 land settlement in Rawain. Diwan **Chakradhar Juyal** (nicknamed the *General Dyer of Uttarakhand*) encircled and slaughtered peaceful farmers assembled on the Tilari plains.
@@ -37,7 +37,7 @@
 
 ---
 
-## Chronological Ruler Guide & Structural Reforms
+## Chronological Ruler Guide & Structural (संरचनात्मक) Reforms
 
 ```
 Sudarshan Shah (1815–1859) [Founder, Sabhasar, Ganesh Prayag capital]
@@ -58,11 +58,11 @@ Manvendra Shah (1946–1949) [Saklana revolt 1948, 1 August 1949 Merger]
 | Ruler | Reign | Key Developments & Prelims Targets |
 | :--- | :--- | :--- |
 | **Sudarshan Shah** | 1815–1859 | First King of Tehri State. Shifted capital to Old Tehri on **28 Dec 1815**. Authored *Sabhasar* (7 volumes, 1828). Hosted British explorer William Moorcroft in 1820. Aided the British during 1857 revolt, earning royal accolades. |
-| **Bhawani Shah** | 1859–1871 | Eldest son of Sudarshan Shah. Succession contested by stepbrother Sher Shah, settled with intervention of Commissioner Ramsay. Leased the rich deodar forests of Yamuna and Tons valleys to British timber entrepreneur **Frederick Wilson** (*Pahari Wilson*) in 1860. |
+| **Bhawani Shah** | 1859–1871 | Eldest son of Sudarshan Shah. Succession (उत्तराधिकार क्रम) contested by stepbrother Sher Shah (शेरशाह), settled with intervention of Commissioner Ramsay. Leased the rich deodar forests of Yamuna and Tons (टौंस) valleys to British timber entrepreneur **Frederick Wilson** (*Pahari Wilson*) in 1860. |
 | **Pratap Shah** | 1871–1886 | Founded new summer seat **Pratapnagar (1877)**. Started **English education** in Tehri (1883). Established the first **Allopathic Dispensary (1876)** and first **Printing Press (Pratap Press)**. Introduced modern Police Force and court system; conducted the *Jhulashah* land revenue settlement. |
-| **Kirti Shah** | 1886–1913 | Reigned under the Regency of Queen Mother **Guleria** until 1892. Hailed by Viceroy Lord Curzon as a model prince. Knighted as K.C.S.I. Founded **Kirtinagar (1894)**. Built the landmark **Tehri Clock Tower (Ghanta Ghar, 1897)** to celebrate Queen Victoria’s Jubilee. Installed **Hydroelectric Power Station (1906)**. Hosted **Swami Rama Tirtha (1902)**, who later took Jal-samadhi in the Bhilangna river (1906). Established *Kirti Boarding*, a municipal board, and codified state penal laws. |
-| **Narendra Shah** | 1913–1946 | Guided by Regency Council of Queen Mother **Nepalia** until 1919. Built and shifted administrative capital to **Narendranagar (1925)**. Built motorable Rishikesh–Tehri road. Implemented rigid 1924 Forest Settlement, triggering the mass **Rawain Dhandak**. His Prime Minister Chakradhar Juyal perpetrated the **Tilari Kand (30 May 1930)**. Founded *Narendra College*. |
-| **Manvendra Shah** | 1946–1949 | 60th and final ruler of the Parmar line. Signed merger agreement on 18 May 1949; Tehri officially integrated into the Republic of India as a district of Uttar Pradesh on **1 August 1949**. Later served as Member of Parliament (Lok Sabha) from Tehri Garhwal for 8 terms and Indian Ambassador to Ireland. |
+| **Kirti Shah** | 1886–1913 | Reigned under the Regency of Queen Mother **Guleria** until 1892. Hailed by Viceroy (वायसराय) Lord Curzon (कर्ज़न) as a model prince. Knighted as K.C.S.I. Founded **Kirtinagar (1894)**. Built the landmark **Tehri Clock Tower (Ghanta Ghar, 1897)** to celebrate Queen Victoria’s Jubilee. Installed **Hydroelectric Power Station (1906)**. Hosted **Swami (स्वामी) Rama Tirtha (1902)**, who later took Jal-samadhi in the Bhilangna river (1906). Established *Kirti Boarding*, a municipal board, and codified state penal laws. |
+| **Narendra Shah** | 1913–1946 | Guided by Regency Council of Queen Mother **Nepalia** until 1919. Built and shifted administrative capital to **Narendranagar (1925)**. Built motorable Rishikesh (ऋषिकेश)–Tehri road. Implemented rigid 1924 Forest Settlement, triggering the mass **Rawain Dhandak**. His Prime Minister Chakradhar Juyal perpetrated the **Tilari Kand (30 May 1930)**. Founded *Narendra College*. |
+| **Manvendra Shah** | 1946–1949 | 60th and final ruler of the Parmar line. Signed merger agreement on 18 May 1949; Tehri officially integrated into the Republic of India as a district of Uttar Pradesh (उत्तर प्रदेश) on **1 August 1949**. Later served as Member of Parliament (Lok Sabha (लोकसभा)) from Tehri Garhwal for 8 terms and Indian Ambassador to Ireland. |
 
 ---
 

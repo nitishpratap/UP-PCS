@@ -19,7 +19,7 @@ World Rivers by Continent | Superlatives (longest / discharge / deepest) | Delta
 ## Current Affairs (this topic)
 
 - Static map chapter — no living scheme tag.
-- Lake names / dam names do not need a yearly refresh unless a new “world’s largest” commission is officially recorded.
+- Lake names / dam (दाम -) names do not need a yearly refresh unless a new “world’s largest” commission is officially recorded.
 
 ---
 
@@ -29,7 +29,7 @@ World Rivers by Continent | Superlatives (longest / discharge / deepest) | Delta
 
 The Grand Canyon of the U.S.A. is formed by which river?
 
-A. St. Lawrence
+A. St. Lawrence (लॉरेंस)
 B. Missouri
 C. Ohio
 D. Colorado
@@ -37,7 +37,7 @@ D. Colorado
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Only one of the four North American rivers cut the Arizona canyon.
+**Logic:** Only one of the four (चातुर्याम) North American rivers cut the Arizona canyon.
 
 **Ans: D (Series B provisional key).** The Colorado River cut the Grand Canyon through the Colorado Plateau.
 
@@ -49,18 +49,18 @@ D. Colorado
 ## Consolidated — 28 Must-Score Facts
 
 1. **New Orleans** stands on the **Mississippi**, not the Missouri. The Missouri joins the Mississippi at **St Louis**.
-2. **Budapest** is on the **Danube**. **Cologne** is on the **Rhine**. India’s **Hyderabad** is on the **Musi**, not the Godavari or Paleru.
-3. The **Mekong** rises in Tibet, flows **south / south-east**, and builds its delta in **southern Vietnam**. It does **not** flow south-west and the delta is **not** in Cambodia.
+2. **Budapest** is on the **Danube**. **Cologne** is on the **Rhine**. India’s **Hyderabad** (हैदराबाद) is on the **Musi**, not the Godavari (गोदावरी) or Paleru.
+3. The **Mekong** rises in Tibet, flows **south / south-east**, and builds its delta (डेल्टा) in **southern Vietnam**. It does **not** flow south-west and the delta is **not** in Cambodia.
 4. Direction pairs: **Amur** north-east; **Syr Darya** north-west into the Aral; **Angara** north out of Baikal; **Volga** from the Valdai Hills into the **Caspian**.
 5. The main USA–Mexico border river is the **Rio Grande**. The **Colorado** is the usual trap option.
 6. **Lake Onega** is in **Russia**, not Canada. **Lake Michigan** lies wholly in the **USA**. **Maracaibo** is in Venezuela. **Baikal** is in Russia.
 7. Superlatives: the **Nile** is longest for Prelims; the **Amazon** has the largest discharge; the **Congo** is deepest and crosses the Equator **twice**; the **Yangtze** is Asia’s longest; the **Volga** is Europe’s longest.
-8. Delta shapes: **Mississippi** = bird’s-foot; **Nile**, **Hwang Ho**, and **Niger** = arcuate (bow).
+8. Delta shapes: **Mississippi** = bird’s-foot (पक्षी-पाद); **Nile**, **Hwang Ho**, and **Niger** = arcuate (चापाकार) (bow).
 9. The **Danube** crosses the most countries. The **Rhine** is Europe’s busiest navigation artery.
 10. **Khartoum** is where the White and Blue Nile meet. **Aswan** created **Lake Nasser**. **GERD** sits on the **Blue Nile** in Ethiopia.
 11. Dam pairs: **Three Gorges–Yangtze**, **Aswan–Nile**, **Itaipu–Paraná**, **Hoover–Colorado**, **Kariba–Zambezi**.
 12. The **Caspian** is the largest lake. **Superior** is the largest freshwater lake by area. **Baikal** is deepest, holds the most fresh volume, and is among the oldest.
-13. **Tanganyika** is second deepest and the longest freshwater lake. **Titicaca** is the highest navigable lake. The **Dead Sea** is the lowest land surface and is hypersaline (about **34%** salt).
+13. **Tanganyika** is second deepest and the longest freshwater lake. **Titicaca** is the highest navigable lake. The **Dead Sea** is the lowest land surface and is hypersaline (about **34%** salt (लवणाध्यक्ष)).
 14. Great Lakes west to east: **Superior → Michigan → Huron → Erie → Ontario** (mnemonic: Super Man Helps Every One).
 15. Falls: **Angel** (Venezuela) is highest; **Victoria** is on the Zambezi; **Niagara** is US–Canada; **Iguazu** is Brazil–Argentina.
 16. The **St Lawrence** is the Great Lakes seaway. The **Rhine–Main–Danube** canal links the Black Sea system to the Rhine.
@@ -75,7 +75,7 @@ D. Colorado
 25. **Limpopo** crosses the Tropic of Capricorn **twice**. **Congo/Zaire** crosses the Equator **twice**.
 26. **Mahaweli** = longest Sri Lanka river; Sri Lanka drainage is **radial** from central highlands.
 27. City–river desk: Phnom Penh–Mekong; Hanoi–Red; Yangon–Irrawaddy; Madrid–Manzanares; Bangkok–Chao Phraya; Basra–Shatt al-Arab.
-28. **Grand Canyon** = Colorado. **Chisapani Gorge** = Nepal (Karnali). Largest delta = **Ganga–Brahmaputra**. Inselberg ≠ glacier.
+28. **Grand Canyon** = Colorado. **Chisapani Gorge** = Nepal (Karnali). Largest delta = **Ganga (गंगा)–Brahmaputra (ब्रह्मपुत्र)**. Inselberg ≠ glacier.
 
 ---
 
@@ -177,7 +177,7 @@ Indian drainage detail lives in the Indian Drainage chapter.
 
 Here teach only world centres that papers actually match.
 
-**Hyderabad–Musi** is the India city trap that sneaks into this world desk.
+**Hyderabad–Musi** (मुसी) is the India city trap that sneaks into this world desk.
 
 **Order of this chapter**
 
@@ -218,10 +218,10 @@ Rivers are matched by continent, mouth and one trap. Length numbers vary by sour
 | Lena | Highlands near Baikal | Arctic | Russia | North to the Arctic |
 | Amu Darya | Pamir | Aral Sea | Central Asia | Aral is shrinking |
 | **Syr Darya** | Tien Shan | **Aral Sea** | Kazakhstan / Uzbekistan | Flows **north-west**. With the Amu Darya it fed (and starved) the Aral |
-| Tigris | Turkey | Shatt al-Arab → Persian Gulf | Turkey–Iraq | **Baghdad** sits on the Tigris |
+| Tigris | Turkey | Shatt al-Arab → Persian (फ़ारसी) Gulf | Turkey–Iraq | **Baghdad** sits on the Tigris |
 | Euphrates | Turkey | Shatt al-Arab → Persian Gulf | Turkey–Syria–Iraq | Twin of the Tigris |
 | Jordan | Hermon / Anti-Lebanon | **Dead Sea** | Israel–Jordan | Ends in the Dead Sea with no ocean mouth |
-| Irrawaddy | N Myanmar | Andaman Sea | Myanmar lifeline | |
+| Irrawaddy | N Myanmar | Andaman (अंडमान) Sea | Myanmar lifeline | |
 | **Mahaweli Ganga** | Sri Lanka highlands | Bay of Bengal | Sri Lanka’s longest river (~335 km). The island shows **radial** drainage | |
 | Salween | Tibet | Andaman Sea | China–Myanmar–Thailand | |
 
@@ -229,7 +229,7 @@ Rivers are matched by continent, mouth and one trap. Length numbers vary by sour
 
 | River | Source | Mouth | Cities / dams / falls | Note |
 |-------|---------------|-------|----------------------|------|
-| **Nile** | White: Victoria · Blue: **Tana** | Mediterranean | **Khartoum** (confluence), Cairo, **Aswan High Dam** → **Lake Nasser** | Arcuate delta. Traditional **longest** river. **GERD** sits on the **Blue Nile** in Ethiopia (Egypt–Sudan dispute) |
+| **Nile** | White: Victoria · Blue: **Tana** | Mediterranean | **Khartoum** (confluence), Cairo, **Aswan High Dam** → **Lake Nasser** | Arcuate delta. Traditional **longest** river. **GERD** sits on the **Blue Nile** in Ethiopia (Egypt (मिस्र)–Sudan dispute) |
 | **Congo / Zaire** | E African highlands | Atlantic | Congo Basin rainforest | **Deepest** major river. Only major river that **crosses the Equator twice**. Second-largest discharge after the Amazon |
 | **Niger** | Guinea highlands | Gulf of Guinea (Nigeria) | Inland delta in Mali, then a coastal delta | **Paradox river** — arcs inland / away from the nearby Atlantic before turning south-east to the Gulf |
 | Zambezi | Zambia / Angola uplands | Mozambique Channel | **Victoria Falls** · Kariba · Cahora Bassa | Zambia–Zimbabwe border at the falls |
@@ -265,7 +265,7 @@ Rivers are matched by continent, mouth and one trap. Length numbers vary by sour
 | Colorado | Rockies → Gulf of California | Hoover Dam and the Grand Canyon | **Not** the USA–Mexico border river |
 | Columbia | Rockies → Pacific | Grand Coulee Dam | NW USA |
 | St Lawrence | Great Lakes → Atlantic | Montreal · Quebec | Seaway |
-| Mackenzie | Great Slave Lake → Arctic | — | Canada |
+| Mackenzie (मैकेंज़ी) | Great Slave Lake → Arctic | — | Canada |
 | Yukon | Canada → Bering Sea (Alaska) | — | |
 | Murray–Darling | SE Australia → Southern Ocean | — | Main Australian system |
 
@@ -314,7 +314,7 @@ D. Neither 1 nor 2
 
 A **delta** is the load dumped at a quiet, shallow mouth with many distributaries.
 
-Strong tides can leave an **estuary** instead of a classic delta.
+Strong tides can leave an **estuary** (ज्वारनदमुख) instead of a classic delta.
 
 Delta shape is a standard match stem. Learn the table, then the traps below.
 
@@ -333,7 +333,7 @@ The **Mekong** delta sits in **southern Vietnam**.
 
 The Mekong delta is **not** in Cambodia as the sea mouth.
 
-The world’s largest delta is the **Ganga–Brahmaputra–Meghna** (Sundarbans) system.
+The world’s largest delta is the **Ganga–Brahmaputra–Meghna** (Sundarbans (सुंदरबन)) system.
 
 **Inline PYQ — UPPCS Prelims 2018, Q33**
 
@@ -366,7 +366,7 @@ Rivers cut valleys and dump load. Match the landform to the agent before you mat
 | **Canyon** | Broader/deeper eroded gorge — **Grand Canyon** cut by **Colorado** (Arizona) |
 | **V-shaped valley** | Youthful vertical + lateral erosion |
 | **Meander** | Looping course on gentle plains |
-| **Alluvial fan / cone** | Sediment cone where a stream leaves mountains into a plain |
+| **Alluvial (जलोढ़) fan / cone** | Sediment cone where a stream leaves mountains into a plain |
 | **Delta** | Mouth deposit. The Ganga–Brahmaputra–Meghna is the world’s largest. The Mississippi is **bird’s-foot**. The Nile is arcuate |
 | **Watershed / catchment** | Land unit that collects, stores and releases water to a common outlet |
 
@@ -428,7 +428,7 @@ A **moraine** is a **glacier** landform.
 | Quebec | Canada | St Lawrence | |
 | Washington DC | USA | Potomac | |
 | New York | USA | Hudson | |
-| **Hyderabad** | India | **Musi** (joins Krishna) | Not Godavari; not Paleru |
+| **Hyderabad** | India | **Musi** (joins Krishna (कृष्णा)) | Not Godavari; not Paleru |
 | Phnom Penh | Cambodia | Mekong | |
 | Hanoi | Vietnam | Red River | |
 | Yangon | Myanmar | Irrawaddy | Former capital |
@@ -438,7 +438,7 @@ A **moraine** is a **glacier** landform.
 | Basra | Iraq | Shatt al-Arab | |
 | Kinshasa / Brazzaville | DRC / Congo | Congo (Zaire) | |
 | Bangkok | Thailand | Chao Phraya (Menam) | |
-| Lahore | Pakistan | Ravi | |
+| Lahore | Pakistan | Ravi (रावी) | |
 | Perth | Australia | Swan | |
 | Caracas | Venezuela | Orinoco basin note | |
 
@@ -510,7 +510,7 @@ D. Missouri
 - **Rhine** is Europe's busiest inland waterway. It links the Swiss Alps to **Rotterdam** on the North Sea through a heavily canalised channel.
 - **Danube** crosses central and eastern Europe to the **Black Sea**. The **Rhine–Main–Danube** canal connects North Sea and Black Sea basins.
 - **Volga** is Russia's main river artery to the **Caspian Sea**. The **Volga–Don** canal gives a route toward the **Azov / Black Sea**.
-- **St Lawrence Seaway** lets ocean ships reach the **Great Lakes** of North America.
+- **St Lawrence Seaway** lets ocean ships (नावाध्यक्ष) reach the **Great Lakes** of North America.
 - **Yangtze** is China's main inland trunk from the interior to the **East China Sea**.
 - **Mississippi** system moves bulk freight from the interior USA to the **Gulf of Mexico**.
 
@@ -539,7 +539,7 @@ Match the dam to the river and the country pair.
 | **Kariba** | **Zambezi** | Zambia–Zimbabwe | |
 | **Hoover** | **Colorado** | USA | |
 | Grand Coulee | Columbia | USA | |
-| Akosombo | Volta | Ghana | |
+| Akosombo | Volta | Ghana (घन) | |
 | Nurek | Vakhsh | Tajikistan | |
 | Merowe | Nile | Sudan | |
 | Cahora Bassa | Zambezi | Mozambique | |
@@ -561,14 +561,14 @@ Learn **superlative** and **type**. Endorheic lakes have no ocean outlet.
 | Type | Fact / example |
 |------|----------------|
 | Tectonic / rift | Baikal, Tanganyika, Dead Sea, Malawi |
-| Glacial | Many Canadian and Alpine lakes. The Great Lakes have glacial history |
+| Glacial | Many Canadian and Alpine lakes. The Great Lakes have glacial history (इतिहास) |
 | Crater / caldera | Crater Lake (USA). Lonar in India is impact, not volcanic |
 | Lagoon / coastal | Chilika-type coastal idea. Barred coastal lakes |
 | Oxbow | Cut-off meander lakes on floodplains |
 | Endorheic | Caspian, Aral, Chad, Dead Sea, Eyre — inland, no sea outlet |
 | Lake | Country | Fresh / salt | |
 |------|---------|--------------|------|
-| **Caspian** | RU / IR / KZ / TM / AZ | Saline inland sea | **Largest lake** on Earth |
+| **Caspian** | RU / IR / KZ / TM / AZ | Saline (लवणीय) inland sea | **Largest lake** on Earth |
 | **Superior** | USA–Canada | Fresh | Largest **freshwater by area** |
 | **Baikal** | **Russia** | Fresh | **Deepest** lake. Largest fresh **volume**. Among the **oldest** |
 | **Tanganyika** | TZ / DRC / BI / ZM | Fresh | **Second deepest**. **Longest** freshwater lake |
@@ -583,7 +583,7 @@ Learn **superlative** and **type**. Endorheic lakes have no ocean outlet.
 | **Dead Sea** | Jordan–Israel | Hypersaline (~**34%**) | **Lowest** land surface on Earth |
 | **Titicaca** | Peru–Bolivia | Fresh | Highest **navigable** lake |
 | **Aral** | Kazakhstan–Uzbekistan | Saline, shrinking | Starved by **Amu / Syr Darya** irrigation diversion |
-| Chad | Africa (multi-state) | Fresh, shrinking | Sahel drought + irrigation |
+| Chad | Africa (multi-state) | Fresh, shrinking | Sahel drought (सूखा) + irrigation |
 | Eyre | Australia | Salt, often dry | Endorheic |
 | Great Bear / Great Slave | Canada | Fresh | |
 | Malawi / Nyasa | Africa rift | Fresh | |

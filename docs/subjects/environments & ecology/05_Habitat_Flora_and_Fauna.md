@@ -1,4 +1,4 @@
-# Topic 5 — Habitat, Flora & Fauna
+# Topic 5 — Habitat (वास स्थान), Flora (वनस्पति) & Fauna (प्राणीजात)
 ### ★ UPPCS Revision Sheet — Lucent-style (no repetition · Practice ≥25)
 
 <details>
@@ -16,30 +16,30 @@ Habitat | Habitat Conservation | Flora and Fauna
 
 ## Current Affairs (this topic)
 
-- Habitat-loss and corridor news often refresh Terai / Himalaya colour for UP–UK.
+- Habitat-loss and corridor news often refresh Terai (तराई) / Himalaya (हिमालय) colour for UP–UK.
 - Do not swap endemic vs endangered wording when CA names a new Red List update.
 
 ---
 
 ## Consolidated — 24 Must-Score Facts
 
-1. A **habitat** is the physical **place** where an organism lives. A **niche** is the **role**. An **ecosystem** is the functional unit. **Environment** is the total surroundings.
+1. A **habitat** (वास स्थान) is the physical **place** where an organism lives. A **niche** is the **role**. An **ecosystem** (पारिस्थितिकी तंत्र) is the functional unit. **Environment** (पर्यावरण) is the total surroundings.
 2. Habitats are commonly classed as **terrestrial, aquatic, or transitional** (mangrove/wetland). Transitional habitats are not purely terrestrial.
 3. Adaptation labels include **arboreal** (trees), **fossorial** (burrows), **cursorial** (open plains), and **xericole** (desert).
 4. **Habitat loss** is the number-one biodiversity threat. **Fragmentation** splits patches; **corridors** reconnect them.
-5. **MISHTI** is the Mangrove Initiative for Shoreline Habitats & Tangible Income from Budget **2023–24** under MoEFCC. It is **not** a 2019 scheme.
-6. **NUHHP** is the National Urban Housing and Habitat Policy of **2007** (MoHUA).
+5. **MISHTI** is the Mangrove Initiative for Shoreline Habitats & Tangible Income from Budget **2023–24** under MoEFCC (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय). It is **not** a 2019 scheme.
+6. **NUHHP** is the National Urban (नगरीय) Housing and Habitat Policy of **2007** (MoHUA).
 7. Habitat–scheme chronology: **JNNURM 2005 → NUHHP 2007 → AMRUT 2015 → Jal Jeevan Mission 2019**.
 8. **Flora** means plant life of a region. **Fauna** means animal life. Do not swap the two.
 9. India has roughly **45,000** plant species and **91,000+** animal species on about **2.4%** of world land.
 10. **BSI (1890, Kolkata)** surveys plants. **ZSI (1916, Kolkata)** surveys animals. Both sit in Kolkata; kingdoms differ.
 11. Engler is linked to world floral regions. **C.O. Sauer** is linked to planting hearths in cultural geography.
-12. A **microhabitat** is a small subdivision inside a larger habitat.
-13. In-situ conservation protects species in natural habitat; ex-situ is outside habitat — same fact as biodiversity sheets.
-14. Uttar Pradesh’s richest wildlife habitat belt is the **Terai** (Dudhwa, Pilibhit, Kishanpur).
+12. A **microhabitat** (सूक्ष्म आवास) is a small subdivision inside a larger habitat.
+13. In-situ (स्थान पर) conservation (स्व-स्थाने संरक्षण) protects species in natural habitat; ex-situ (स्थानांतरित) is outside habitat — same fact as biodiversity sheets.
+14. Uttar Pradesh (उत्तर प्रदेश)’s richest wildlife habitat belt is the **Terai** (तराई) (Dudhwa (दुधवा), Pilibhit, Kishanpur).
 15. UP state animal is **barasingha**. UP state bird is **Sarus crane**.
 16. The **Terai Arc Landscape** corridor links UP Terai protected areas toward Nepal.
-17. Aquatic fauna facts for UP include the **Gangetic dolphin** in the Ganga–Yamuna system.
+17. Aquatic fauna facts for UP include the **Gangetic dolphin** in the Ganga (गंगा)–Yamuna (यमुना) system.
 18. **Water hyacinth** is a common invasive threat in UP village ponds.
 19. Uttar Pradesh has **no mangrove habitat** purposes — it is landlocked for that category.
 20. Habitat is an address; niche is a job description. Mixing the two loses marks on definition stems.
@@ -101,18 +101,18 @@ Habitat | Habitat Conservation | Flora and Fauna
 - **Biotic factors** include food availability, predators, competitors, and symbiotic partners.
 - A **microhabitat** is a small unit within a larger habitat, such as bark crevices or the underside of a leaf.
 - A **macrohabitat** is a landscape-scale habitat unit such as an entire forest, lake, or desert tract.
-- A **biotope** is a European ecology term for an area with relatively uniform environmental conditions. Notes often treat it as similar to habitat.
+- A **biotope** is a European ecology (पारिस्थितिकी) term for an area with relatively uniform environmental conditions. Notes often treat it as similar to habitat.
 
 ### Major habitat types (classification)
 
 | Type | Meaning | India example |
 |------|------|---------------|
-| **Terrestrial** | Land-based | Terai sal forest, Thar desert |
+| **Terrestrial** | Land-based | Terai sal forest, Thar (थार) desert |
 | **Aquatic freshwater** | Ponds, lakes, rivers | Ganga, Loktak |
 | **Marine** | Oceans and seas | Arabian Sea coral/ fisheries belt |
-| **Wetland** | Seasonally or permanently waterlogged | Keoladeo, UP Ramsar sites |
-| **Mangrove / coastal** | Tidal saline coast | Sundarbans |
-| **Grassland / savanna** | Grass-dominated open tract | Dudhwa grasslands |
+| **Wetland** | Seasonally or permanently waterlogged | Keoladeo (केवलादेव), UP Ramsar (रामसर) sites |
+| **Mangrove / coastal** | Tidal saline (लवणीय) coast | Sundarbans (सुंदरबन) |
+| **Grassland / savanna (सवाना)** | Grass-dominated open tract | Dudhwa grasslands |
 | **Alpine / montane** | High-altitude cold zone | Himalayan snow leopard belt |
 | **Desert / arid** | Low rainfall extreme temperature | Thar |
 | **Arboreal** | Tree-dwelling | Lion-tailed macaque |
@@ -193,12 +193,12 @@ D. Only 1
 | **NUHHP** | **2007** | MoHUA | Urban housing and sustainable urban habitat |
 | **JNNURM** | **2005** | MoHUA | Urban infrastructure renewal |
 | **AMRUT** | **2015** | MoHUA | Urban water, sewerage, green spaces |
-| **Jal Jeevan Mission** | **2019** | Jal Shakti | Rural tap water connectivity |
+| **Jal Jeevan Mission** | **2019** | Jal Shakti (शक्ति) | Rural tap water connectivity |
 | **CAMPA** | 2009 / Act 2016 | MoEFCC | Compensatory afforestation for diverted forest land |
-| **Green India Mission** | 2014 | MoEFCC | Forest cover and habitat quality improvement under NAPCC |
+| **Green India Mission** | 2014 | MoEFCC | Forest cover (वन आवरण) and habitat quality improvement under NAPCC |
 
 - **MISHTI** stands for **Mangrove Initiative for Shoreline Habitats and Tangible Income**.
-- MISHTI targets coastal mangrove habitats for shoreline protection and blue carbon restoration.
+- MISHTI targets coastal mangrove habitats for shoreline protection and blue carbon (नीला कार्बन) restoration.
 - **NUHHP** addresses urban habitat quality through housing and green-space planning in cities.
 
 **PYQ — UPPCS Prelims 2025, Q93**
@@ -227,7 +227,7 @@ D. Only 1
 Consider the following and arrange them in the correct chronological order:
 
 1. Atal Mission for Rejuvenation and Urban Transformation (AMRUT)
-2. Jawaharlal Nehru National Urban Renewal Mission (JNNURM)
+2. Jawaharlal Nehru (जवाहरलाल नेहरू) National Urban Renewal Mission (JNNURM)
 3. Jal Jeevan Mission
 4. National Urban Housing and Habitat Policy
 
@@ -257,13 +257,13 @@ D. 4, 2, 3, 1
 - Fauna includes invertebrates and vertebrates across insects, fish, birds, and mammals.
 - Together, flora and fauna form the **biotic content** of a habitat.
 - India has about **45,000** plant species and **91,000+** animal species on roughly **2.4%** of Earth's land area.
-- The **Botanical Survey of India (BSI)** was established in **1890**. Its headquarters is in **Kolkata**. It surveys Indian **plants**.
-- The **Zoological Survey of India (ZSI)** was established in **1916**. Its headquarters is in **Kolkata**. It surveys Indian **animals** and publishes the *Fauna of India* series.
+- The **Botanical Survey of India (BSI)** (भारतीय वनस्पति सर्वेक्षण) was established in **1890**. Its headquarters is in **Kolkata**. It surveys Indian **plants**.
+- The **Zoological Survey of India (ZSI)** (भारतीय प्राणी सर्वेक्षण) was established in **1916**. Its headquarters is in **Kolkata**. It surveys Indian **animals** and publishes the *Fauna of India* series.
 - **Adolf Engler** mapped the world's major **floral regions**.
 - **C.O. Sauer** introduced the concept of **planting hearth**, the region where domesticated plants first originated.
-- The **Puszta grassland** is associated with **Hungary**.
-- The **cryophyte steppe** is associated with **Arctic tundra** vegetation.
-- **Red Sanders (*Pterocarpus santalinus*)** is a South India dry-deciduous endemic (Palkonda–Seshachalam / southern Eastern Ghats) — **not** a tropical rainforest tree.
+- The **Puszta (पुस्ज़टा) grassland** is associated with **Hungary**.
+- The **cryophyte steppe (स्टेपी)** is associated with **Arctic tundra (टुंड्रा)** vegetation.
+- **Red Sanders (*Pterocarpus santalinus*)** is a South India dry-deciduous endemic (Palkonda–Seshachalam / southern Eastern Ghats (पूर्वी घाट)) — **not** a tropical rainforest tree.
 - **Taxus** occurs naturally in the Himalaya, is Red Data–listed, and yields **taxol** (anti-cancer; older stems also cite Parkinson’s).
 - Himalayan associates include **oak** and **rhododendron**; **sandalwood** is South Indian deciduous — not a Himalayan natural associate.
 - Desert flora often shows hard/waxy leaves, tiny leaves, or thorns to cut water loss.

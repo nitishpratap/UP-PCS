@@ -24,21 +24,21 @@ Origin of Human Beings | Stone Age | Paleolithic Age | Mesolithic Age | Neolithi
 5. **Attirampakkam** in the Kortallayar valley of Tamil Nadu has Acheulian tools about **1.5 million years** old. It is a **tool** site, not a hominin fossil site.
 6. **Robert Bruce Foote** recognised the first Indian Paleolithic tools at **Pallavaram** (Tamil Nadu) in **1863**. He is called the Father of Indian Prehistory.
 7. **Bagor** on the Kothari in Rajasthan is the Mesolithic **animal-domestication** key. **V.N. Misra** excavated it. It is not a Paleolithic shrine.
-8. **Sarai Nahar Rai**, **Mahadaha**, and **Damdama** in Pratapgarh, Uttar Pradesh, are Mesolithic **burial** sites of the Ganga plain. Domestication is Bagor; burials are Pratapgarh.
+8. **Sarai Nahar Rai** (सराय नाहर राय), **Mahadaha**, and **Damdama** in Pratapgarh, Uttar Pradesh, are Mesolithic **burial** sites of the Ganga plain. Domestication is Bagor; burials are Pratapgarh.
 9. A **microlith** is a tiny blade about **1–8 cm**, hafted as a composite tool. It is the hallmark of the **Mesolithic**. It is not a Lower Paleolithic handaxe.
 10. **Non-geometric** microliths (backed blades) belong to the earlier Mesolithic. **Geometric** microliths (lunates, triangles, trapezes) belong to the later Mesolithic.
-11. **Mehrgarh** in Balochistan is the earliest farming village of the subcontinent, around **7000 BCE**. First crops are **wheat and barley**. Period I is **aceramic** (farming without pottery).
+11. **Mehrgarh** (मेहरगढ़) in Balochistan is the earliest farming village of the subcontinent, around **7000 BCE**. First crops are **wheat and barley**. Period I is **aceramic** (farming without pottery).
 12. **Koldihwa** and **Mahagara** in the Belan valley of Mirzapur–Prayagraj, Uttar Pradesh, are the early **rice** pair. **G.R. Sharma** excavated them.
 13. **Mahagara** alone has the **cattle pen with hoof marks**. **Koldihwa** is known for **rice-husk impressions** in pottery. Keep the two sister facts separate.
 14. **Lahuradewa** in **Sant Kabir Nagar**, Uttar Pradesh, has early Ganga-plain **rice** at a lake edge. It is **not** a Belan valley site.
-15. **Burzahom** near Srinagar has Neolithic **pit dwellings** about 2–4 m deep and a famous **dog burial**. **Gufkral** in Pulwama means “cave of the potter.”
+15. **Burzahom** (बुरज़होम) near Srinagar has Neolithic **pit dwellings** about 2–4 m deep and a famous **dog burial**. **Gufkral** in Pulwama means “cave of the potter.”
 16. **Chirand** in Saran, Bihar, is the Gangetic Neolithic site famous for **bone and antler tools**. It has no Burzahom-style pit dwellings and no South Indian ash mounds.
-17. **Bhimbetka** in Raisen, Madhya Pradesh, was first recognised by **V.S. Wakankar** in **1957–58**. UNESCO listed it in **2003**. There are about **750+** shelters and **500+** painted ones.
+17. **Bhimbetka** (भीमबेटका) in Raisen, Madhya Pradesh, was first recognised by **V.S. Wakankar** in **1957–58**. UNESCO listed it in **2003**. There are about **750+** shelters and **500+** painted ones.
 18. **Baghor** in the Son valley of Madhya Pradesh is an Upper Paleolithic stone **shrine**. **Bagor** in Rajasthan is Mesolithic **domestication**. Never swap the spellings.
 19. Chalcolithic cultures used **copper plus stone** in **rural** villages. They are **not** Harappan planned cities with citadels and covered drains.
 20. **Inamgaon** in Maharashtra is the **Jorwe** type site. **Navdatoli** on the Narmada in Madhya Pradesh is **Malwa** culture, excavated by **H.D. Sankalia**.
-21. **OCP** (Ochre Coloured Pottery) belongs to the western UP–Haryana–Rajasthan **doab**. **Hastinapur** is a classic OCP site. It is not mature Harappan urban ware.
-22. **Megaliths** are mainly **Iron Age** burial monuments of the Deccan and south (dolmens, cists, stone circles). They are not Stone Age Chalcolithic villages. Classic names include **Brahmagiri**, **Adichanallur**, **Maski**, and **Hallur**.
+21. **OCP** (Ochre Coloured Pottery) belongs to the western UP–Haryana–Rajasthan **doab**. **Hastinapur** (हस्तिनापुर) is a classic OCP site. It is not mature Harappan urban ware.
+22. **Megaliths** are mainly **Iron Age** burial monuments of the Deccan and south (dolmens, cists, stone circles). They are not Stone Age Chalcolithic villages. Classic names include **Brahmagiri**, **Adichanallur**, **Maski** (मास्की), and **Hallur**.
 23. Uttar Pradesh Stone Age facts cluster on the **Belan** (Chopani Mando, Koldihwa, Mahagara), **Lahuradewa**, Pratapgarh Mesolithic cemeteries, **Morhana Pahar** (Sonbhadra paintings), and **Lekhahia** (Mirzapur rock art).
 24. A **rock shelter** is a natural overhang (Bhimbetka). A **carved cave** like Ajanta is cut by humans. Do not call Bhimbetka an Ajanta-style cave.
 25. **V. Gordon Childe** coined the phrase **Neolithic Revolution** for the shift from food collection to food production. The change in South Asia was staggered by region, not one national year.
@@ -219,8 +219,8 @@ Origin of Human Beings | Stone Age | Paleolithic Age | Mesolithic Age | Neolithi
 - The **Acheulian** (older books say **Madrasian**) industry uses **handaxes and cleavers**.
 - Acheulian sites cluster in the peninsula, the Narmada, and the Kortallayar.
 - Major tool valleys include the **Soan, Narmada, Godavari, Krishna, Kortallayar, Belan, and Son**.
-- In the **Belan valley**, **G.R. Sharma** of Allahabad University led work that reported about **44** Lower Paleolithic sites.
-- A bone **Mother Goddess** figurine from **Lohanda Nala** (Belan) is kept in the **Kaushambi** museum.
+- In the **Belan valley** (नवपाषाण), **G.R. Sharma** of Allahabad University led work that reported about **44** Lower Paleolithic sites.
+- A bone **Mother Goddess** figurine from **Lohanda Nala** (Belan) is kept in the **Kaushambi** (कौशांबी) museum.
 - Paleolithic people lived by **hunting and gathering**. They did **not** farm or keep herds.
 - Controlled **fire** is older than farming in world prehistory. Some booklet stems still key “first fire use” to the **Neolithic** — treat that as a stem trap, not as absolute science.
 - Holocene warming around **10,000 BCE** opens the Mesolithic.
@@ -244,8 +244,8 @@ Origin of Human Beings | Stone Age | Paleolithic Age | Mesolithic Age | Neolithi
 - **Non-geometric** microliths (backed blades) are generally **earlier**.
 - **Geometric** microliths (lunates, triangles, trapezes) are generally **later**.
 
-- **A.C.L. Carlleyle** reported rock paintings from the **Vindhya** region in **1867**. That find helped put Indian Mesolithic rock art on the map.
-- **Bagor** lies in the Bhilwara belt of **Rajasthan**, on the **Kothari** river.
+- **A.C.L. Carlleyle** reported rock paintings from the **Vindhya** (विंध्य) region in **1867**. That find helped put Indian Mesolithic rock art on the map.
+- **Bagor** lies in the Bhilwara belt of **Rajasthan** (थार), on the **Kothari** river.
 - Bagor is the standard answer for Mesolithic **animal domestication**.
 - It is often called India’s **largest** Mesolithic site.
 - **V.N. Misra** excavated Bagor.
@@ -256,7 +256,7 @@ Origin of Human Beings | Stone Age | Paleolithic Age | Mesolithic Age | Neolithi
 - **Sarai Nahar Rai**, **Mahadaha**, and **Damdama** lie in **Pratapgarh, Uttar Pradesh**.
 - They are Ganga-plain Mesolithic **cemeteries**.
 - **Damdama** yielded about **41** human graves. About **5** are double burials. **One** triple burial is also reported.
-- **Sarai Nahar Rai** has a grave with **four** human skeletons.
+- **Sarai Nahar Rai** has a grave with **four** (चातुर्याम) human skeletons.
 - **Mahadaha** and **Sarai Nahar Rai** yield many **bone and horn** implements and ornaments. **J.N. Pandey**’s *Puratatva Vimarsh* discusses pointed bone objects from Sarai Nahar Rai, Damdama, and Mahadaha.
 - **Lekhahia** (also Lekhahiya) in the Mirzapur Vindhyas has many skeletons from rock shelter 1. **J.N. Pandey** cites about **17**; **John R. Lukas** cites remnants of about **27**.
 - A useful west-to-east Mesolithic line for geography stems is **Mahadaha → Lekhahia → Paisra → Birbhanpur**.
@@ -380,7 +380,7 @@ D. Lakhnia
 - Megaliths are **Iron Age** burial monuments of the **Deccan and south**. They are **not** Stone Age Chalcolithic village cultures.
 - Common forms include **dolmens** (table stones), **cists** (stone-box graves), **stone circles**, and **menhirs** (upright pillars). Later **hero stones** (*virakkal*) commemorate warriors.
 - Burials often carry **black-and-red ware**, iron weapons and tools, and gold ornaments. The culture marks the spread of **iron** in the peninsula after the north had moved through PGW.
-- **Brahmagiri** in Karnataka is a classic megalithic site linked to early **Sangam** archaeology.
+- **Brahmagiri** in Karnataka is a classic megalithic site linked to early **Sangam** (संगम) archaeology.
 - **Adichanallur** in Tamil Nadu is famous for urn burials and bronze artefacts.
 - **Maski** (Karnataka) appears in **megalithic** lists and as Ashoka’s **Minor Rock Edict** site — read the stem for which fact is asked.
 - **Hallur** in Karnataka is another standard southern megalithic fact.
@@ -389,7 +389,7 @@ D. Lakhnia
 
 ## 1.22 Archaeological Dating and Evidence (Stone Age Toolkit)
 
-- Indian prehistory is dated by **tool typology**, **stratigraphy**, **pollen analysis**, **C-14**, and **TL/OSL**.
+- Indian prehistory is dated by **tool typology**, **stratigraphy** (स्तरिकी), **pollen analysis**, **C-14**, and **TL/OSL**.
 - **Stratigraphy** means deeper layers are older; Paleolithic below Mesolithic shows continuity (e.g. Chopani Mando).
 - **C-14** works on organic matter; very early Palaeolithic sites rely more on geology and typology.
 - **Sivapithecus** Siwalik fossils are **not** evidence of *Homo* in India — trap against Hathnora.
@@ -431,7 +431,7 @@ D. Lakhnia
 - **Renigunta** in Andhra Pradesh has Upper Paleolithic blades.
 - **Bori** in Maharashtra is a claimed early Paleolithic site. It was the **wrong option** in 2018 (domestication = Bagor).
 
-> **Logic:** Attirampakkam is in **Tamil Nadu**, not Karnataka. **Baghor is not Bagor**. The Belan Valley is in **Uttar Pradesh**.
+> **Logic:** Attirampakkam is in **Tamil Nadu**, not Karnataka. **Baghor is not Bagor**. The Belan Valley is in **Uttar Pradesh** (उत्तर प्रदेश).
 
 ---
 
@@ -449,7 +449,7 @@ D. Lakhnia
 - **Mahadaha** in Pratapgarh, Uttar Pradesh, is a large Mesolithic burial cluster with rich **bone and horn** implements.
 - **Damdama** in Pratapgarh, Uttar Pradesh, is another Mesolithic burial site. About **41** graves include double burials and **one triple** burial.
 - **Chopani Mando** in the Belan valley of Uttar Pradesh is advanced Mesolithic with wild rice, **before** Koldihwa farming.
-- **Morhana Pahar** in **Sonbhadra**, Uttar Pradesh, has rock paintings.
+- **Morhana Pahar** in **Sonbhadra** (सोनभद्र), Uttar Pradesh, has rock paintings.
 - **Lekhahia** in Mirzapur, Uttar Pradesh, has rock art and a large skeleton count from rock shelter 1.
 - **Birbhanpur** in West Bengal has microliths.
 - **Teri sites** on the Tamil Nadu coast are coastal Mesolithic camps on red sand dunes.
@@ -505,7 +505,7 @@ D. Lakhnia
 - **Inamgaon** on the Bhima in Maharashtra is the **Jorwe** type site, with mud houses and crops.
 - **Daimabad** on the Pravara in Maharashtra is Jorwe / late Harappan and is known for a **bronze chariot**.
 - **Jorwe** in Maharashtra is the name-giving site of painted black-on-red ware.
-- **Nasik** in Maharashtra belongs to the same Jorwe painted-ware horizon.
+- **Nasik** (नासिक) in Maharashtra belongs to the same Jorwe painted-ware horizon.
 - **Prakash** in Maharashtra belongs to the same Jorwe painted-ware horizon.
 - **Bahal** in Maharashtra belongs to the same Jorwe painted-ware horizon.
 - **Savalda** on the Tapi in Maharashtra is pre-Jorwe Deccan Chalcolithic.
@@ -544,7 +544,7 @@ D. Lakhnia
 - Pigments were mixed with water or animal fat and applied by finger, twig, or hair brush.
 - **Pachmarhi** in Madhya Pradesh is another painted belt.
 - **Adamgarh** in Madhya Pradesh also has rock paintings.
-- **Lakhudiyar** in Almora, **Uttarakhand**, shows humans, animals, and geometrics in white, black, and red.
+- **Lakhudiyar** in Almora, **Uttarakhand** (उत्तराखंड), shows humans, animals, and geometrics in white, black, and red.
 - **Morhana Pahar** in Sonbhadra, Uttar Pradesh, has rock paintings.
 - **Lekhahia** in Mirzapur, Uttar Pradesh, has rock art.
 - The premier painted cluster in India is **Bhimbetka** in Raisen, Madhya Pradesh.

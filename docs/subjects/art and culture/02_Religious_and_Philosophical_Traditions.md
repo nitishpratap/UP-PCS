@@ -16,7 +16,7 @@ Six Schools of Indian Philosophy (Shad Darshana) | Vedic Philosophy | Buddhist P
 ## Current Affairs
 
 - **Maha Kumbh** at Prayagraj ran from **13 January to 26 February 2025**, about **45** days.
-- **Kumbh Mela** is on the UNESCO Intangible Heritage list from **2017**. It is not a tangible monument.
+- **Kumbh Mela** (कुंभ मेला) is on the UNESCO Intangible Heritage list from **2017**. It is not a tangible monument.
 
 ---
 
@@ -30,26 +30,26 @@ Six Schools of Indian Philosophy (Shad Darshana) | Vedic Philosophy | Buddhist P
 5. **Ashtanga Yoga** (अष्टांग योग) order is **yama** (यम), **niyama** (नियम), **asana** (आसन), **pranayama** (प्राणायाम), **pratyahara** (प्रत्याहार), **dharana** (धारणा), **dhyana** (ध्यान), **samadhi** (समाधि).
 6. **Purva Mimamsa** (पूर्व मीमांसा - Jaimini) treats Vedic **ritual** (कर्मकाण्ड). **Uttara Mimamsa / Vedanta** (उत्तर मीमांसा / वेदांत - Badarayana) treats the Upanishads. Kapila is **not** Vedanta.
 7. **Shankara** taught **Advaita** (अद्वैतवाद). **Ramanuja** taught **Vishishtadvaita** (विशिष्टद्वैतवाद). **Madhva** taught **Dvaita** (द्वैतवाद). **Nimbarka** taught **Dvaitadvaita** (द्वैताद्वैतवाद). **Vallabha** taught **Shuddhadvaita** (शुद्धाद्वैतवाद).
-8. Adi Shankara established four cardinal monastic centres (mathas) associated with the four Vedas: **Sringeri** (South — Yajurveda), **Dwaraka** (West — Samaveda), **Puri** (East — Rigveda), and **Jyotirmath / Badrinath** (North — Atharvaveda).
+8. Adi Shankara established four cardinal monastic centres (mathas) associated with the four Vedas: **Sringeri** (South — Yajurveda), **Dwaraka** (West — Samaveda), **Puri** (पुरी) (East — Rigveda), and **Jyotirmath / Badrinath** (North — Atharvaveda).
 9. Vedic stack order is **Samhita → Brahmana → Aranyaka → Upanishad**. *Tat tvam asi* is from the **Chandogya** Upanishad. **Brahman** is not the same word as **Brahmin**.
-10. Buddha’s life geography is **Lumbini** (birth), **Bodh Gaya** in Bihar (enlightenment), **Sarnath** in UP (first sermon), and **Kushinagar** in UP (death).
-11. Buddhist councils order is **Rajagriha → Vaishali → Pataliputra → Kundalvana**. *Milindapanha* is dialogue of **Menander / Milinda** with **Nagasena**.
-12. **Theravada** aims at the arhat and uses Pali. **Mahayana** aims at the Bodhisattva and uses Sanskrit.
-13. Jainism has **24** Tirthankaras. Key emblems include the **bull** for Rishabhanatha, the **serpent hood** for Parshvanatha, and the **lion** for Mahavira. Important Nirvana sites include **Ashtapad**, **Sammed Shikharji**, and **Pavapuri**.
-14. **Parshva** taught four vows. **Mahavira** added **Brahmacharya** as the fifth. The Svetambara canon has **12 Angas**.
-15. **Digambara** monks are sky-clad and deny women monks. **Svetambara** monks wear white and admit women monks.
+10. Buddha’s life geography is **Lumbini** (birth), **Bodh Gaya** (बोधगया) in Bihar (enlightenment), **Sarnath** in UP (first sermon), and **Kushinagar** (कुशीनगर) in UP (death).
+11. Buddhist councils order is **Rajagriha → Vaishali → Pataliputra → Kundalvana**. *Milindapanha* (मिलिंदपन्ह) is dialogue of **Menander / Milinda** with **Nagasena** (नागसेन).
+12. **Theravada** (थेरवाद) aims at the arhat and uses Pali. **Mahayana** (महायान) aims at the Bodhisattva and uses Sanskrit.
+13. Jainism has **24** Tirthankaras. Key emblems include the **bull** for Rishabhanatha, the **serpent hood** for Parshvanatha, and the **lion** (सिंह) for Mahavira. Important Nirvana sites include **Ashtapad**, **Sammed Shikharji**, and **Pavapuri** (पावापुरी).
+14. **Parshva** taught four vows. **Mahavira** added **Brahmacharya** (ब्रह्मचर्य) as the fifth. The Svetambara canon has **12 Angas**.
+15. **Digambara** monks are sky-clad and deny women monks. **Svetambara** (श्वेताम्बर) monks wear white and admit women monks.
 16. **Anekantavada** (अनेकांतवाद) is many-sided reality. **Syadvada** (स्याद्वाद) is the seven-fold “syad” speech about that reality.
-17. Bhakti chronology often runs **Namdev → Kabir → Nanak → Chaitanya. Kabir** was a disciple of **Ramananda. Surdas** belongs to **Vallabha**’s line. **Tulsidas** wrote in **Awadhi**.
+17. Bhakti chronology often runs **Namdev → Kabir → Nanak → Chaitanya. Kabir** was a disciple of **Ramananda. Surdas** belongs to **Vallabha**’s line. **Tulsidas** (तुलसीदास) wrote in **Awadhi**.
 18. The southern Tamil Bhakti tradition flourished through the **12 Alvars** (Vaishnava poet-saints, with Andal as the sole woman saint) and the **63 Nayanars** (Shaiva poet-saints). The four revered Samayacharyas are **Appar, Sambandar, Sundarar, and Manikkavachakar**.
 19. **Chishti** Sufis at Ajmer / Delhi favour **sama** (समा / महफ़िल-ए-समा) and qawwali (क़व्वाली). **Suhrawardi** is linked with Multan. **Nizamuddin Auliya** belongs to **Delhi**.
 20. *Fawaid-ul-Fuad* records Nizamuddin’s conversations as compiled by **Amir Hasan Sijzi. Wahdat-ul-wujud** (वहदत-उल-वुजूद - Ibn Arabi) is not the same as **wahdat-ush-shuhud** (वहदत-उश-शुहूद - Sirhindi).
-21. Among the ten Sikh Gurus, **Angad** gave **Gurmukhi**, **Arjan** compiled the **Adi Granth**, and **Gobind Singh** founded the **Khalsa** in **1699**.
+21. Among the ten Sikh Gurus, **Angad** gave **Gurmukhi**, **Arjan** compiled the **Adi Granth** (आदि ग्रंथ), and **Gobind Singh** founded the **Khalsa** (खालसा) in **1699**.
 22. The five Sikh Takhts are **Akal Takht**, **Keshgarh Sahib**, **Damdama Sahib**, **Patna Sahib**, and **Hazur Sahib**.
 23. Pramana count traps: **Charvaka** accepts only one, **Nyaya** accepts four, and Mimamsa–Kumarila / Vedanta often accept **six**.
-24. The core Buddhist pilgrimage circuit in Uttar Pradesh comprises **Sarnath**, **Kushinagar**, **Shravasti**, **Sankisa**, and **Kaushambi**. The national emblem (Lion Capital) is from Sarnath.
-25. Major Hindu and Bhakti heritage centres in Uttar Pradesh include **Kashi**, **Ayodhya**, the **Braj** region of Surdas, the **Prayagraj Kumbh**, and Kabir’s memorial shrine (*samadhi*) at **Maghar**.
+24. The core Buddhist pilgrimage circuit in Uttar Pradesh comprises **Sarnath**, **Kushinagar**, **Shravasti**, **Sankisa**, and **Kaushambi** (कौशांबी). The national emblem (Lion Capital) is from Sarnath.
+25. Major Hindu and Bhakti heritage centres in Uttar Pradesh include **Kashi**, **Ayodhya** (अयोध्या), the **Braj** region of Surdas, the **Prayagraj Kumbh**, and Kabir’s memorial shrine (*samadhi*) at **Maghar**.
 26. **Kumbh Mela** is UNESCO **intangible** heritage (**2017**). It is not a monument World Heritage site.
-27. The white marble dargah of Sheikh Salim Chishti at **Fatehpur Sikri** is the preeminent Mughal-era Sufi pilgrimage site in Uttar Pradesh.
+27. The white marble dargah of Sheikh Salim Chishti at **Fatehpur Sikri** (फतेहपुर सीकरी) is the preeminent Mughal-era Sufi pilgrimage site in Uttar Pradesh.
 28. The mound of **Kankali Tila** at Mathura is the landmark Uttar Pradesh archaeological site for ancient Jain art and inscriptions.
 
 ---
@@ -76,38 +76,6 @@ Six Schools of Indian Philosophy (Shad Darshana) | Vedic Philosophy | Buddhist P
 
 ---
 
-## Hindi spell — hard names
-
-Write these in Devanagari as given. One name, one spelling.
-
-| English | Hindi |
-|---------|-------|
-| Nyaya | न्याय |
-| Vaisheshika | वैशेषिक |
-| Samkhya | सांख्य |
-| Yoga | योग |
-| Mimamsa | मीमांसा |
-| Vedanta | वेदांत |
-| Charvaka | चार्वाक |
-| Ajivika | आजीवक |
-| Advaita | अद्वैत |
-| Vishishtadvaita | विशिष्टाद्वैत |
-| Dvaita | द्वैत |
-| Nimbarka / Dvaitadvaita | निंबार्क / द्वैताद्वैत |
-| Vallabha / Shuddhadvaita | वल्लभ / शुद्धाद्वैत |
-| Anekantavada | अनेकांतवाद |
-| Syadvada | स्याद्वाद |
-| Alvar | आलवार |
-| Nayanar | नायनार |
-| Nalayira Divya Prabandham | नालायिर दिव्य प्रबंधम् |
-| Tevaram | तेवारम् |
-| Wahdat-ul-wujud | वहदत-उल-वुजूद |
-| Wahdat-ush-shuhud | वहदत-उश-शुहूद |
-| Ramcharitmanas | रामचरितमानस |
-| Sursagar | सूरसागर |
-| Khalsa | खालसा |
-
----
 
 ## Must-score facts — Darshanas, Vedanta, Buddhism
 
@@ -118,7 +86,7 @@ Write these in Devanagari as given. One name, one spelling.
 | Nyaya | **Gautama** — logic (≠ Buddha) |
 | Vaisheshika | **Kanada** — atomism |
 | Samkhya | **Kapila** — Purusha–Prakriti; 25 tattvas; classically nirishvara |
-| Yoga | **Patanjali** — practical partner of Samkhya |
+| Yoga | **Patanjali** (पतंजलि) — practical partner of Samkhya |
 | Purva Mimamsa | **Jaimini** — Vedic ritual |
 | Uttara Mimamsa / Vedanta | **Badarayana** — Upanishads |
 
@@ -201,7 +169,7 @@ A **darshana** is a view aimed at liberation. **Astika** schools accept the Veda
 **Badarayana / Vyasa | Brahma Sutras**
 
 - Vedanta interprets the Upanishads (jñāna-kāṇḍa / ज्ञानकाण्ड).
-- The **Prasthanatrayi** (प्रस्थानत्रयी) are the Upanishads, the *Bhagavad Gita* and the Brahma Sutras.
+- The **Prasthanatrayi** (प्रस्थानत्रयी) are the Upanishads, the *Bhagavad Gita* (भगवद्गीता) and the Brahma Sutras.
 - The founder is not Kapila.
 
 ### Advaita — Shankara (अद्वैतवाद - शंकराचार्य)
@@ -209,10 +177,10 @@ A **darshana** is a view aimed at liberation. **Astika** schools accept the Veda
 **8th century | Advaita | Brahman real, world mithya**
 
 - Shankara’s guru is **Govinda**. His paramguru is **Gaudapada**. His text is *Brahma-sutra-bhashya*.
-- **Sringeri** is the southern matha. It is linked with **Yajurveda** and **Sureshvara**.
-- **Dwaraka** is the western matha. It is linked with **Samaveda** and **Hastamalaka**.
-- **Puri / Govardhana** is the eastern matha. It is linked with **Rigveda** and **Padmapada**.
-- **Jyotirmath / Badrinath** is the northern matha. It is linked with **Atharvaveda** and **Totaka**.
+- **Sringeri** is the southern matha. It is linked with **Yajurveda** (यजुर्वेद) and **Sureshvara**.
+- **Dwaraka** is the western matha. It is linked with **Samaveda** (सामवेद) and **Hastamalaka**.
+- **Puri / Govardhana** is the eastern matha. It is linked with **Rigveda** (ऋग्वेद) and **Padmapada**.
+- **Jyotirmath / Badrinath** is the northern matha. It is linked with **Atharvaveda** (अथर्ववेद) and **Totaka**.
 
 ### Vishishtadvaita — Ramanuja (विशिष्टद्वैतवाद - रामानुजाचार्य)
 
@@ -236,7 +204,7 @@ A **darshana** is a view aimed at liberation. **Astika** schools accept the Veda
 
 **15th–16th century | Champaranya | Pushtimarg**
 
-- Vallabha taught pure non-dualism. He is the guru of **Surdas**. The Ashtachhap poets of Braj include Surdas, Kumbhan, Parmanand, Krishna Das, and others.
+- Vallabha taught pure non-dualism. He is the guru of **Surdas** (सूरदास). The Ashtachhap poets of Braj include Surdas, Kumbhan, Parmanand, Krishna Das, and others.
 
 ### Charvaka / Lokayata (चार्वाक / लोकायत)
 
@@ -317,10 +285,10 @@ D. 4, 3, 2, 1
 - The Gayatri mantra is RV **3.62.10** (Vishvamitra). The Nasadiya hymn is the creation hymn of RV **10**.
 - The four priests are Hotr (Rig), Udgatr (Sama), Adhvaryu (Yajur), and Brahman (Atharva / overall).
 - The Rig Brahmanas are **Aitareya** and **Kaushitaki**.
-- The Yajur Brahmanas are **Taittiriya** and **Shatapatha** (Yajnavalkya).
+- The Yajur Brahmanas are **Taittiriya** (तैत्तिरीय) and **Shatapatha** (Yajnavalkya).
 - The Sama Brahmanas are **Panchavimsha / Tandya** and **Jaiminiya**.
 - The Atharva Brahmana is **Gopatha** only.
-- The six Vedangas are Shiksha, Kalpa, Vyakarana (**Panini**), Nirukta (**Yaska**), Chandas (**Pingala**), and Jyotisha.
+- The six Vedangas are Shiksha, Kalpa, Vyakarana (**Panini** (पाणिनि)), Nirukta (**Yaska** (यास्क)), Chandas (**Pingala**), and Jyotisha.
 - **Tat tvam asi** belongs to the **Chandogya** Upanishad.
 - Aham Brahmasmi belongs to the Brihadaranyaka Upanishad.
 - Ayam atma Brahma belongs to the Mandukya Upanishad.
@@ -329,7 +297,7 @@ D. 4, 3, 2, 1
 - The Purusharthas are Dharma, Artha, Kama, and Moksha. The ashramas run Brahmacharya → Grihastha → Vanaprastha → Sannyasa.
 - The Pancha-mahayajna are Brahma, Deva, Pitri, Bhuta, and Manushya.
 - Sixteen samskaras run Garbhadhana to Antyeshti. **Upanayana** is the one (entry to Vedic study).
-- Early Vedic gods include **Indra** (war/rain), **Agni**, **Varuna** (rta), Soma, and Ushas. The Trimurti (Brahma–Vishnu–Shiva) is **post-Vedic**.
+- Early Vedic gods include **Indra** (war/rain), **Agni**, **Varuna** (वरुणा) (rta), Soma, and Ushas. The Trimurti (Brahma–Vishnu–Shiva) is **post-Vedic**.
 - Major Smriti lawgivers include Manu, Yajnavalkya, Narada, and Parashara. Itihasa comprises Valmiki’s Ramayana and Vyasa’s Mahabharata. There are **18 Mahapuranas** (including the Bhagavata, Vishnu, Shiva, and Markandeya Puranas).
 
 > **Logic:** Upanishads = jñāna-kāṇḍa = Vedanta. Brahmanas = karma-kāṇḍa. Rigveda = oldest.
@@ -366,7 +334,7 @@ D. 4, 3, 2, 1
 - The path is right view, intention, speech, action, livelihood, effort, mindfulness, and concentration.
 - The five skandhas are rupa, vedana, samjna, samskara, and vijnana. **Pratityasamutpada** is the chain of **12** nidanas (dependent origination).
 - The Buddhist Triratna is Buddha, Dharma, and Sangha.
-- **Anicca** means impermanence. **Anatta** means no permanent self (not Upanishadic Atman, not Jain jiva).
+- **Anicca** means impermanence. **Anatta** (अनात्मवाद -) means no permanent self (not Upanishadic Atman, not Jain jiva).
 - The Middle Path rejects both luxury and extreme tapas.
 - Panchashila forbids killing, stealing, sexual misconduct, lying, and intoxicants.
 - Nirvana is the extinction of craving, not a Vedic heaven.
@@ -381,8 +349,8 @@ D. 4, 3, 2, 1
 
 **Milind Panho** is a dialogue between King Milinda (Menander) and monk **Nagasena** — not Nagarjuna, not Kumarila.
 
-- *Buddhacharita* and *Saundarananda* were written by **Ashvaghosha** (Kanishka age).
-- *Madhyamaka Karika* is by **Nagarjuna** (*Shunyavada*).
+- *Buddhacharita* (बुद्धचरित) and *Saundarananda* (सौंदरानंद) were written by **Ashvaghosha** (अश्वघोष) (Kanishka age).
+- *Madhyamaka Karika* is by **Nagarjuna** (नागार्जुन) (*Shunyavada*).
 - Asanga and Vasubandhu belong to Yogacara / Vijnanavada. Dignaga and Dharmakirti belong to logic (Nalanda).
 - *Visuddhimagga* is by Buddhaghosa.
 - Other texts are the Jataka, Dipavamsa and Mahavamsa, Divyavadana, Mahavastu, and Lalitavistara.
@@ -391,30 +359,30 @@ D. 4, 3, 2, 1
 
 - **Theravada / Hinayana** holds the Arhat ideal, uses Pali, and spread in Sri Lanka–Myanmar–Thailand.
 - **Mahayana** holds the Bodhisattva ideal (Avalokiteshvara / Padmapani, Manjushri, Maitreya, Tara, Vajrapani), uses Sanskrit, and spread in East Asia.
-- **Vajrayana** is tantric. It is strong in Tibet, Bhutan, Ladakh, and Sikkim.
+- **Vajrayana** (वज्रयान) is tantric. It is strong in Tibet, Bhutan, Ladakh, and Sikkim.
 - Hinayana is a Mahayana label; papers still use it. The 2nd council split is Sthaviravada vs Mahasanghika. The 4th council is linked with Sarvastivada.
 
 ### First Buddhist Council
 
-The First Council sat at **Rajagriha** (Sattapanni). The patron was **Ajatashatru**. The president was **Mahakassapa**. The traditional year is about **483 BCE**, just after the Mahaparinirvana.
+The First Council sat at **Rajagriha** (Sattapanni). The patron was **Ajatashatru** (अजातशत्रु). The president was **Mahakassapa**. The traditional year is about **483 BCE**, just after the Mahaparinirvana.
 
 - Vinaya and Sutta were recited. It was not at Vaishali and not under Ashoka.
 
 ### Second Buddhist Council
 
-The Second Council sat at **Vaishali**. The patron was **Kalasoka**. The traditional year is about **383 BCE**.
+The Second Council sat at **Vaishali** (वैशाली). The patron was **Kalasoka**. The traditional year is about **383 BCE**.
 
 - It arose from a ten-point dispute. The Sangha split into Sthavira and Mahasanghika.
 
 ### Third Buddhist Council
 
-The Third Council sat at **Pataliputra**. The patron was **Ashoka**. The president was **Moggaliputta Tissa**. The traditional year is about **250 BCE**.
+The Third Council sat at **Pataliputra** (पाटलिपुत्र). The patron was **Ashoka** (अशोक). The president was **Moggaliputta Tissa**. The traditional year is about **250 BCE**.
 
 - It emphasised Abhidhamma / *Kathavatthu*. Missions went out, including Mahinda to Sri Lanka.
 
 ### Fourth Buddhist Council
 
-The Fourth Council sat at **Kundalvana** in Kashmir. The patron was **Kanishka**. The president was **Vasumitra** (Ashvaghosha in some tradition). The date is about the first or second century CE.
+The Fourth Council sat at **Kundalvana** in Kashmir. The patron was **Kanishka** (कनिष्क). The president was **Vasumitra** (Ashvaghosha in some tradition). The date is about the first or second century CE.
 
 - It produced Sarvastivada commentaries and a Mahayana push. Theravada also counts a Sri Lankan 4th council — if the paper says Kashmir/Kanishka, use this one.
 
@@ -492,7 +460,7 @@ D. Kumaril Bhatt
 
 ### Twenty-four Tirthankaras
 
-Candidates should master the serial order, name, and emblem (*lanchhan*) of each Tirthankara. **Twenty** Tirthankaras attained Nirvana at **Sammed Shikhar** (Parasnath, Jharkhand), with only **four exceptions** (Rishabhanatha at Mount Ashtapad, Vasupujya at Champapuri, Neminatha at Mount Girnar, and Mahavira at Pavapuri).
+Candidates should master the serial order, name, and emblem (*lanchhan*) of each Tirthankara. **Twenty** Tirthankaras attained Nirvana at **Sammed Shikhar** (सम्मेद शिखर -) (Parasnath, Jharkhand), with only **four exceptions** (Rishabhanatha at Mount Ashtapad, Vasupujya at Champapuri, Neminatha at Mount Girnar, and Mahavira at Pavapuri).
 
 - 1 **Rishabhanatha / Adinatha** is the first Tirthankara. His emblem is the **bull** and nirvana is at **Ashtapad / Kailash**. His son is **Bahubali** (Gomateshwara); birth is in the Ayodhya tradition and colour is golden.
 - 2 **Ajitanatha** is the second Tirthankara. His emblem is the elephant. Nirvana is at Sammed Shikhar.
@@ -516,7 +484,7 @@ Candidates should master the serial order, name, and emblem (*lanchhan*) of each
 - 20 **Munisuvrata** is the twentieth Tirthankara. His emblem is the tortoise. Nirvana is at Sammed Shikhar and colour is **black**.
 - 21 **Naminatha** is the twenty-first Tirthankara. His emblem is the blue lotus. Nirvana is at Sammed Shikhar.
 - 22 **Neminatha / Arishtanemi** is the twenty-second Tirthankara. His emblem is the **conch**. Nirvana is at **Urjayanta / Girnar / Raivatgiri (Gujarat)**. He is Krishna’s cousin in Jain lore and colour is black.
-- 23 **Parshvanatha** is the twenty-third Tirthankara. His emblem is the **snake**. Nirvana is at **Sammed Shikhar**. He is historical (~**9th–8th** c. BCE), colour is green/blue, and he taught four vows (no brahmacharya yet).
+- 23 **Parshvanatha** (पार्श्वनाथ) is the twenty-third Tirthankara. His emblem is the **snake**. Nirvana is at **Sammed Shikhar**. He is historical (~**9th–8th** c. BCE), colour is green/blue, and he taught four vows (no brahmacharya yet).
 - 24 **Mahavira / Vardhamana** is the twenty-fourth Tirthankara. His emblem is the **lion**. Nirvana is at **Pavapuri**. Colour is golden, and he is the last of this cycle.
 
 > **Logic:** Memorise **all 24 name–symbol** pairs. Nirvana exceptions = **Rishabha (Ashtapad), Vasupujya (Champapuri), Nemi (Girnar), Mahavira (Pavapuri)**. **Vasupujya–Sammed Shikhar** is the classic wrong pair — his nirvana is **Champapuri**.
@@ -571,7 +539,7 @@ Bhakti is personal devotion. It uses the vernacular, singing, and a guru. It ope
 
 ### Alvars
 
-There are **12 Alvars**. They are Vaishnava poet-saints of Vishnu. Their corpus is the *Nalayira Divya Prabandham*, about **4000** verses.
+There are **12 Alvars**. They are Vaishnava poet-saints of Vishnu. Their corpus is the *Nalayira Divya Prabandham* (नालायिर दिव्य प्रबंधम्), about **4000** verses.
 
 - 1 **Poigai** is an Alvar and one of the Mudal Alvars.
 - 2 **Bhoothath** is an Alvar and one of the Mudal Alvars.
@@ -588,7 +556,7 @@ There are **12 Alvars**. They are Vaishnava poet-saints of Vishnu. Their corpus 
 
 ### Nayanars
 
-There are **63 Nayanars**. They are Shaiva poet-saints of Shiva. Their corpus is the *Tevaram* and the *Tiruvachakam*.
+There are **63 Nayanars**. They are Shaiva poet-saints of Shiva. Their corpus is the *Tevaram* (तेवारम्) and the *Tiruvachakam*.
 
 - The four **Samayacharyas** are **Appar**, **Sambandar**, **Sundarar**, and **Manikkavachakar**.
 - Manikkavachakar authored the celebrated devotional work *Tiruvachakam*. While distinct in his historical placement, he is counted as one of the four principal Samayacharyas of Tamil Shaivism.
@@ -598,17 +566,17 @@ There are **63 Nayanars**. They are Shaiva poet-saints of Shiva. Their corpus is
 
 **Deity:** Vitthala of Pandharpur
 
-- **Jnaneshwar** wrote *Jnaneshwari* / *Bhavartha Dipika* on the Gita (~**1290**).
-- **Namdev** composed abhangas. His hymns are also in the Guru Granth. He is the **earliest** of the 2025 four.
+- **Jnaneshwar** wrote *Jnaneshwari* (ज्ञानेश्वरी) / *Bhavartha Dipika* on the Gita (~**1290**).
+- **Namdev** (नामदेव) composed abhangas. His hymns are also in the Guru Granth. He is the **earliest** of the 2025 four.
 - **Eknath** wrote *Eknathi Bhagavat*.
-- **Tukaram** composed **17th** c. abhangas.
+- **Tukaram** (तुकाराम) composed **17th** c. abhangas.
 - **Chokhamela** was a low-caste Varkari saint.
 
 ### Ramananda
 
 **Kashi | Rama-bhakti open to all | Ramananda line**
 
-- His disciple **Kabir** was a weaver.
+- His disciple **Kabir** (कबीर) was a weaver.
 - His disciple **Ravidas** was a cobbler.
 - His disciple **Dhanna** was a Jat.
 - His disciple **Sena** was a barber.
@@ -644,7 +612,7 @@ There are **63 Nayanars**. They are Shaiva poet-saints of Shiva. Their corpus is
 
 **Awadhi | Ramcharitmanas**
 
-- Tulsidas is Rama saguna. *Ramcharitmanas* is **not Sanskrit**. He also wrote *Vinay Patrika*, *Kavitavali*, and *Hanuman Bahuk*.
+- Tulsidas is Rama saguna. *Ramcharitmanas* (रामचरितमानस) is **not Sanskrit**. He also wrote *Vinay Patrika*, *Kavitavali*, and *Hanuman Bahuk*.
 
 ### Chaitanya Mahaprabhu
 
@@ -654,15 +622,15 @@ There are **63 Nayanars**. They are Shaiva poet-saints of Shiva. Their corpus is
 
 ### Other high-yield saints
 
-- **Jayadeva** wrote *Gita Govinda* (**12th** c., Sanskrit).
+- **Jayadeva** wrote *Gita Govinda* (गीत गोविंद) (**12th** c., Sanskrit).
 - **Shankaradeva** belongs to Assam. He is linked with satra, namghar, *Kirtan Ghosa*, and Sattriya dance.
 - **Narsinh Mehta** wrote in Gujarati. His hymn is *Vaishnava jana to*.
 - **Basava / Akka Mahadevi** composed Kannada vachanas. They belong to Virashaiva / Lingayat.
 - **Lal Ded** composed Kashmiri *vakh*.
-- **Mirabai** belongs to Rajasthan. She composed Krishna bhajans.
+- **Mirabai** (मीराबाई) belongs to Rajasthan. She composed Krishna bhajans.
 - **Dadu Dayal** is nirguna and founded the Dadu-panth.
 - **Samartha Ramdas** belongs to Maharashtra. He wrote *Dasbodh* and was the guru of Shivaji (not Guru Ram Das).
-- **Tyagaraja** composed Telugu/Carnatic Rama kirtanas.
+- **Tyagaraja** (त्यागराज) composed Telugu/Carnatic Rama kirtanas.
 - **Daya Bai** wrote *Vinay Malika* and *Dayabodh* (Charandas).
 - **Sahajo Bai** wrote *Sahaj Prakash* (Charandas).
 - **Gangabai** is **not** the author of *Ganesh Dev Leela*.
@@ -766,7 +734,7 @@ Sufism is *tasawwuf*, Islamic mysticism. The path runs **sharia**, then **tariqa
 
 **Dargah:** Nizamuddin, Delhi — **not Multan**
 
-- His disciple was **Amir Khusrau** (Tuti-e-Hind; qawwali tradition). Khusrau did **not** compile the malfuzat.
+- His disciple was **Amir Khusrau** (अमीर खुसरो) (Tuti-e-Hind; qawwali tradition). Khusrau did **not** compile the malfuzat.
 - *Fawaid-ul-Fawad* was compiled by **Amir Hasan Sijzi**.
 
 ### Suhrawardi order
@@ -891,7 +859,7 @@ D. (A) is false, but (R) is true
 - **1 Nanak (1469–1539)** taught Ik Onkar. He made four udasis. He is linked with Nankana Sahib.
 - **2 Angad** developed **Gurmukhi**.
 - **3 Amar Das** organised langar and the manji system. He opposed sati and purdah.
-- **4 Ram Das** founded **Amritsar** (Ramdaspur).
+- **4 Ram Das** founded **Amritsar** (अमृतसर) (Ramdaspur).
 - **5 Arjan** compiled the **Adi Granth** (**1604**). He is linked with Harmandir Sahib. He was the first Sikh Guru-martyr (Jahangir).
 - **6 Hargobind** taught **Miri-Piri**. He raised the Akal Takht and wore two swords.
 - **7 Har Rai** was the seventh Guru.
@@ -947,7 +915,7 @@ Belief produces culture. Temple, stupa, mosque, and gurdwara are the built face 
 
 **UNESCO:** Intangible Cultural Heritage, **2017** (not a monument WH)
 
-- Four sites: **Prayagraj** (Ganga–Yamuna–Saraswati), Haridwar (Ganga), Nashik-Trimbak (Godavari), Ujjain (Shipra). Twelve-year cycle.
+- Four sites: **Prayagraj** (प्रयागराज) (Ganga–Yamuna–Saraswati), Haridwar (Ganga), Nashik-Trimbak (Godavari), Ujjain (Shipra). Twelve-year cycle.
 - **Maha Kumbh, Prayagraj, 13 Jan–26 Feb 2025** (~45 days).
 - Qutub Minar and Taj Mahal are **tangible** World Heritage — not ICH.
 - Vedic chanting UNESCO ICH **2008**.
@@ -962,11 +930,11 @@ Belief produces culture. Temple, stupa, mosque, and gurdwara are the built face 
 ### Sacred geography — UP vs not UP
 
 **UP:** Sarnath, Kushinagar, Shravasti, Sankisa, Kaushambi; Kashi, Ayodhya, Mathura–Vrindavan, Prayagraj, Chitrakoot, Naimisharanya; Maghar (Kabir); Fatehpur Sikri (Salim Chishti).
-**Not UP:** Bodh Gaya, Pavapuri, Vaishali, Rajgir, Nalanda (**Bihar**); Lumbini (**Nepal**); Ajmer (**Rajasthan**); Amritsar (**Punjab**); Girnar/Palitana (**Gujarat**); Shravanabelagola (**Karnataka**); Sammed Shikhar (**Jharkhand**).
+**Not UP:** Bodh Gaya, Pavapuri, Vaishali, Rajgir, Nalanda (**Bihar**); Lumbini (**Nepal**); Ajmer (**Rajasthan** (थार)); Amritsar (**Punjab**); Girnar/Palitana (**Gujarat**); Shravanabelagola (**Karnataka**); Sammed Shikhar (**Jharkhand**).
 
 - Constitutional frame: Preamble secular (**42nd** Amendment). Arts. **25–28**.
 
-> **Logic:** Kumbh = intangible **2017**, not a monument. Relic-worship built the **stupa**.
+> **Logic:** Kumbh = intangible **2017**, not a monument. Relic-worship built the **stupa** (स्तूप).
 
 ---
 

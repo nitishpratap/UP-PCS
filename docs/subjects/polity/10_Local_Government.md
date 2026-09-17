@@ -38,7 +38,7 @@
 | **Amendment** | **73rd Act, 1992** (Force: **24 Apr 1993**) | **74th Act, 1992** (Force: **1 June 1993**) |
 | **Part & Articles** | **Part IX** (Articles **243 to 243-O**) | **Part IXA** (Articles **243-P to 243-ZG**) |
 | **Schedule** | **11th Schedule** (contains **29** subjects) | **12th Schedule** (contains **18** subjects) |
-| **Subject List** | Entry **5** of **State List** | Entry **5** of **State List** |
+| **Subject List** | Entry **5** of **State List** (राज्य सूची) | Entry **5** of **State List** |
 
 ### 2. Evolution & Committees
 | Committee / Event | Key Fact / Recommendation |
@@ -180,12 +180,12 @@ Local government travelled from colonial local boards to a constitutional third 
 ### Balwant Rai Mehta Committee (**1957**)
 This Committee was set up to study why the Community Development Programme and the National Extension Service had failed, and its slogan was **democratic decentralisation**.
 
-- It recommended a **three-tier** structure: the Gram Panchayat at the village level, the Panchayat **Samiti** at the block level, and the Zila Parishad at the district level.
+- It recommended a **three-tier** structure: the Gram Panchayat at the village level, the Panchayat **Samiti** (समिति) at the block level, and the Zila Parishad at the district level.
 - The village-level Gram Panchayat was to be **directly** elected, while the Samiti and the Zila Parishad were to be **indirectly** constituted, from the chairs of the tier below plus co-opted members.
-- The **Samiti** was meant to be the system's **executive** body, while the **Zila Parishad** was meant to play only an **advisory, coordinating, and supervisory** role.
+- The **Samiti** was meant to be the system's **executive** body, while the **Zila Parishad** (जिला परिषद) was meant to play only an **advisory, coordinating, and supervisory** role.
 - The Committee wanted a genuine transfer of **power, funds, and functions**, with all development programmes channelled through these bodies.
 - It recommended that the **District Collector** chair the Zila Parishad — an official chairmanship that was later criticised.
-- The National Development Council **accepted** these recommendations in **1958**, and **Rajasthan** was the first State to adopt the system, in **1959**.
+- The National Development Council **accepted** these recommendations in **1958**, and **Rajasthan** (थार) was the first State to adopt the system, in **1959**.
 
 ### Ashok Mehta Committee (**1977**)
 This Committee was appointed by the Janata government after PRIs had visibly decayed through the 1960s and 70s, prompting the "**grass without roots**" description.
@@ -207,7 +207,7 @@ This Committee was appointed by the Janata government after PRIs had visibly dec
 - It coined the phrase "**grass without roots**" for PRIs whose elections were not being held regularly.
 - It recommended making the **district** the basic unit of planning, creating a **District Development Commissioner**, holding regular elections, and treating PRIs as the vehicles of rural development.
 - The **L.M. Singhvi Committee (1986)** recommended giving PRIs **constitutional recognition**.
-- It described the **Gram Sabha** as the embodiment of direct democracy, calling it a "village republic".
+- It described the **Gram Sabha** (ग्राम सभा) as the embodiment of direct democracy, calling it a "village republic".
 - It also proposed **Nyaya Panchayats** for a cluster of villages, judicial tribunals to settle election disputes, and more financial resources for PRIs.
 - The **P.K. Thungon Committee (1988)** recommended constitutional status, a **3-tier** structure, a **5-year** tenure, a State Finance Commission, and reservation.
 - The **Gadgil Committee (1988)** proposed largely the same skeleton that eventually became the 73rd Amendment — a 3-tier structure, reservation for SC/ST and women, a State Election Commission, and a fixed term.
@@ -468,7 +468,7 @@ Worked picture: a Panchayat first met in January 2021, so its five years run to 
 **Art. 243M** | four different boxes. Mixing them is the trap.
 
 **Box 1 — whole States left out, unless that State itself opts in**
-- Part IX does **not** apply to **Nagaland**, **Meghalaya**, or **Mizoram**.
+- Part IX does **not** apply to **Nagaland**, **Meghalaya** (मेघालय), or **Mizoram**.
 - The **Legislature of that State** may, by law, extend Part IX to itself. This is **not** a PESA job, and it is **not** a Presidential order.
 
 **Box 2 — hill councils that already exist**

@@ -11,7 +11,7 @@
 
 | Head | Constitutional & Institutional Key |
 | :--- | :--- |
-| **State Created** | **9 November 2000** as **Uttaranchal** (27th State); renamed **Uttarakhand** on **1 Jan 2007** |
+| **State Created** | **9 November 2000** as **Uttaranchal** (27th State); renamed **Uttarakhand** (उत्तराखंड) on **1 Jan 2007** |
 | **Legislature** | **Unicameral** (Vidhan Sabha only; no Legislative Council) |
 | **Vidhan Sabha Seats** | **70 elected seats** (Anglo-Indian nominated seat abolished by 104th CAA 2019) |
 | **SC Reserved Seats (13)** | Purola, Rajpur Road, Jhabrera, Bhagwanpur, Jwalapur, Tharali, Pauri, Ghanshali, Bageshwar, Gangolihat, Someshwar, Nainital, Bajpur |
@@ -39,7 +39,7 @@
 1. **Assembly Reservation Architecture:**  
    $$\text{Total Seats: 70} = \text{General (55)} + \text{SC Reserved (13)} + \text{ST Reserved (2: Chakrata \& Nanakmatta)}$$
 2. **Lok Sabha Representation (5 Seats):**  
-   Out of 5 Lok Sabha seats, **Almora** is exclusively reserved for **Scheduled Castes (SC)**. The remaining four (Tehri, Garhwal, Haridwar, Nainital-US Nagar) are unreserved general constituencies.
+   Out of 5 Lok Sabha seats, **Almora** (अल्मोड़ा) is exclusively reserved for **Scheduled Castes (SC)**. The remaining four (Tehri, Garhwal, Haridwar, Nainital-US Nagar) are unreserved general constituencies.
 3. **State Executive Composition (UKPCS 2025 Q139):** The executive consists of the Governor (Head of State under Article 153/154) and the Council of Ministers headed by the Chief Minister (Article 163/164). Both arms are co-constitutive of the executive branch.
 4. **Harbans Kapoor Record (UKPCS 2025 Q141):** Senior Dehradun legislator who uniquely discharged the duties of **Speaker** (2007–2012) and **Protem Speaker** on more than one occasion in the Uttarakhand Assembly.
 5. **N. D. Tiwari Landmark:** The only Chief Minister in the entire history of Uttarakhand to complete an unbroken full 5-year tenure (2002 to 2007).
@@ -58,7 +58,7 @@
 | **Speaker (Interim Assembly)**| **Prakash Pant** | Presided over the 30-member interim assembly. |
 | **Speaker (Elected Assembly)**| **Yashpal Arya** | Elected March 2002 during the 1st elected assembly. |
 | **Woman Speaker of Assembly**| **Ritu Khanduri Bhushan**| Elected March 2022 (Kotdwar MLA). |
-| **Advocate General** | **L. P. Naithani** | Appointed under Article 165 (Mehrban Singh Negi was interim). |
+| **Advocate General** (महाधिवक्ता) | **L. P. Naithani** | Appointed under Article 165 (Mehrban Singh Negi was interim). |
 | **Chief Secretary** | **Ajay Vikram Singh** | Head of State Civil Administration. |
 | **Chairman, UKPSC** | **N. P. Navani** | Appointed under Article 315 at Gurukul Kangri, Haridwar. |
 | **Chief Election Commissioner**| **Durgesh Joshi** | State Election Commission for Panchayats & Municipalities. |
@@ -92,12 +92,12 @@
   4. *Bhagwanpur* (Haridwar)
   5. *Jwalapur* (Haridwar)
   6. *Tharali* (Chamoli)
-  7. *Pauri* (Pauri Garhwal)
+  7. *Pauri* (पौड़ी) (Pauri Garhwal)
   8. *Ghanshali* (Tehri Garhwal)
-  9. *Bageshwar* (Bageshwar)
+  9. *Bageshwar* (बागेश्वर) (Bageshwar)
   10. *Gangolihat* (Pithoragarh)
   11. *Someshwar* (Almora)
-  12. *Nainital* (Nainital)
+  12. *Nainital* (नैनीताल) (Nainital)
   13. *Bajpur* (Udham Singh Nagar)
 - **2 ST Reserved Constituencies:**
   1. **Chakrata** (Dehradun — home to Jaunsari tribe)

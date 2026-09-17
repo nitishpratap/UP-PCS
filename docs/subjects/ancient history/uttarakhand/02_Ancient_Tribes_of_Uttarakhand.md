@@ -59,13 +59,13 @@ Shaka / Kushana (Sun worship: Katarmal, Surya temples)
 
 ### 2. The Kirat Tribe
 - Suppressed the Kols and drove them into lower valleys.
-- Mentioned in the *Mahabharata (Vana Parva)* and Kalidasa's *Raghuvamsha*.
+- Mentioned in the *Mahabharata (Vana Parva)* and Kalidasa's *Raghuvamsha* (रघुवंश).
 - The famous duel between **Arjuna and Lord Shiva** (who assumed the form of a Kirat hunter to test Arjuna's valour before granting the *Pashupatastra*) took place at **Bilvakedar** (near Srinagar, Garhwal).
 - Anthropological continuity: The minuscule **Raji (Van Rawat)** community of Pithoragarh is regarded by linguists as the modern living remnant of the ancient Kirat-Munda stock.
 
 ### 3. The Khas Tribe
 - Migrated into the Himalayas around the 1st millennium BCE, subduing the Kirats and establishing deep agrarian roots.
-- Mentioned in the *Manusmriti* (as Vratya Kshatriyas), *Brihatsamhita* of Varahamihira, and Rajatarangini.
+- Mentioned in the *Manusmriti* (as Vratya Kshatriyas), *Brihatsamhita* (बृहत्संहिता) of Varahamihira, and Rajatarangini.
 - The Khas did not observe rigid Brahmanical orthodoxy: widow remarriage was permitted, divorce was recognized (*Chhut*), and ancestral land partition respected *Jethon*.
 - In **1885**, the British Government formally enacted the **Khas Family Law** to respect and preserve these customary practices.
 
@@ -84,9 +84,9 @@ Shaka / Kushana (Sun worship: Katarmal, Surya temples)
 | Scheduled Tribe | Primary Concentration | Cultural & Religious Hallmarks | High-Yield Prelims Hooks |
 | :--- | :--- | :--- | :--- |
 | **Tharu** | Udham Singh Nagar (Khatima, Sitarganj, Kichha) | Matriarchal influence (women hold supreme domestic authority). Worship *Khadga Bhoot*, *Pachhim-Rukh*. Celebrate *Bajhar* festival. | **Largest ST** in UK (~33% of tribal pop). Celebrate **Diwali as Shok Parva** (Mourning). Traditional alcoholic beverage: **Jand**. |
-| **Jaunsari** | Dehradun (Chakrata, Kalsi, Tyuni / Jaunsar-Bawar) | Polyandry (*Draupadi Vivah*, fraternal polyandry). Supreme deity: **Mahasu Devta** (Hanol Temple on Tons river). | **2nd Largest ST** in UK. Festivals: **Bissu** (Baisakhi), **Magh Mela** (animal sacrifice / Maroj). Folk dances: **Barada Nati**, Harul, Thandya. |
+| **Jaunsari** | Dehradun (Chakrata, Kalsi, Tyuni / Jaunsar-Bawar) | Polyandry (*Draupadi Vivah*, fraternal polyandry). Supreme deity: **Mahasu Devta** (Hanol Temple on Tons river). | **2nd Largest ST** in UK. Festivals: **Bissu** (Baisakhi), **Magh Mela** (animal sacrifice / Maroj). Folk dances: **Barada Nati** (बरदा नाटी), Harul, Thandya. |
 | **Bhotia** | Chamoli, Pithoragarh, Uttarkashi | Mongoloid descent. Divided into sub-groups: **Johari, Darmiya, Byansi, Chaudansi, Tolchha, Marchha, Jad**. High-altitude transhumance. | Ancient Trans-Himalayan wool & salt trade with Western Tibet (*Huniyas*) terminated after 1962 Sino-Indian War. Traditional drink: **Chhang**. Winter home: *Gunda/Munsa*; Summer home: *Mait*. |
-| **Buksa (Bhoksa)** | US Nagar (Bazpur, Kashipur), Dehradun, Nainital (*Buksad* belt) | Claim royal descent from **Udaipur/Mewar Rajputs** who fled after Mughal invasions. Worship **Chamunda Devi** (Chaiti Mela at Kashipur). | Patriarchal families; Council head called **Takhat** assisted by *Munsif* and *Daroga*. |
+| **Buksa (Bhoksa)** | US Nagar (Bazpur, Kashipur), Dehradun, Nainital (*Buksad* belt) | Claim royal descent from **Udaipur/Mewar Rajputs** who fled after Mughal invasions. Worship **Chamunda Devi** (Chaiti Mela at Kashipur). | Patriarchal families; Council head called **Takhat** assisted by *Munsif* (मुंसिफ़) and *Daroga*. |
 | **Raji (Van Rawat)** | Pithoragarh (Didihat, Dharchula, Champawat fringe) | Traditionally nomadic cave dwellers (*Rauthiyada*); worship *Nandadevi*, *Ghananad*, and forest spirits. | **Smallest ST** in UK (< 1,000 persons). Historically practiced **Silent Barter Trade (Mook Vyapar)**. Language: **Tibo-Burman / Munda dialect**. |
 
 ---

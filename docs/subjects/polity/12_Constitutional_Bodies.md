@@ -43,7 +43,7 @@
 4. The Election Commission began as a **single-member** body in 1950, became multi-member in **1989**, briefly single again in **1990**, and has been **three-member** from **1993**. The Chief Election Commissioner is removed like a Supreme Court judge; other Election Commissioners are removed only on the CEC’s recommendation.
 5. An Election Commissioner’s term is **six years or age 65**, whichever is earlier. The first CEC was **Sukumar Sen**. The first woman CEC was **V.S. Ramadevi (1990)**. The **2023 Act** places selection with the Prime Minister, Leader of Opposition in the Lok Sabha, and a Union Cabinet Minister — the Chief Justice is **not** on that panel.
 6. The **UPSC (Articles 315–323)** is appointed by the **President**. Term is **six years or age 65**. Roughly **half** the members must have at least **ten years** of government service. Removal follows the Supreme Court judge path after a Supreme Court inquiry (**317**).
-7. UPSC advice is **not binding**. UPSC functions come from **four** sources: the Constitution, Parliament, rules, and conventions. After leaving office, a UPSC Chairperson cannot take further Union or State office (**319**).
+7. UPSC advice is **not binding**. UPSC functions come from **four** (चातुर्याम) sources: the Constitution, Parliament, rules, and conventions. After leaving office, a UPSC Chairperson cannot take further Union or State office (**319**).
 8. A **State PSC** member is appointed by the **Governor** but removed by the **President**, not the Governor. Extra functions for a State PSC need a law of the **State Legislature** (**321**). A **Joint PSC** for two or more States needs a **Parliament** law; the President appoints.
 9. The **Finance Commission (280)** is a Chair plus **four** members, appointed by the President every five years, reporting to the **President**. It is not NITI Aayog. The first Chair was **K.C. Neogy**; the 16th is chaired by **Arvind Panagariya**. Vertical shares moved from **42%** (14th) to **41%** (15th).
 10. The **CAG (Articles 148–151)** is appointed by the President for **six years or age 65**, removed like a Supreme Court judge, and barred from further office under the Government of India. Form of accounts follows **150**; reports go under **151**.
@@ -51,20 +51,20 @@
 12. The **Attorney General (Article 76)** must be qualified to be a Supreme Court judge and holds office during the **pleasure of the President** — there is no impeachment route. The AG may speak in both Houses but has **no vote**. Private practice is allowed except against the Government of India.
 13. Salary of the Attorney General is **not charged** on the Consolidated Fund. The Solicitor General and Additional Solicitors General are **not** constitutional offices. Do not confuse the AG with the CAG or with the Advocate General.
 14. The **Advocate General (Article 165)** must be qualified to be a High Court judge and holds office during the **pleasure of the Governor**. Article **165** is not an Election Commission article.
-15. The **GST Council (279A)** is a constitutional body under the **101st Amendment**. The Union Finance Minister chairs it. Voting weight is Centre **one-third** and States **two-thirds**, with **three-fourths** weighted majority and quorum of **half**.
+15. The **GST Council (279A)** is a constitutional body under the **101st Amendment**. The Union Finance Minister chairs it. Voting weight is Centre **one-third** and States **two-thirds** (ते-भागा), with **three-fourths** weighted majority and quorum of **half**.
 16. **Articles 350, 350A, and 350B** came through the **7th Amendment (1956)**, **not** the 9th. **350** allows representation in any language; **350A** protects mother-tongue instruction at the primary stage; **350B** creates **one** Special Officer for Linguistic Minorities for the whole of India.
 17. **Article 338** is the National Commission for Scheduled Castes (with list power under **341**). **338A** is the National Commission for Scheduled Tribes (**342**). **338B** is the National Commission for Backward Classes (**342A**), given constitutional status by the **102nd Amendment**.
 18. **Article 339** allows an ad hoc commission on Scheduled Areas and Scheduled Tribes administration — it is **not** the standing NCST. **Article 340** is the inquiry article behind Kalelkar/Mandal-type exercises — it is **not** the standing NCBC under **338B**.
 19. The **105th Amendment (2021)** restored States’ power to identify their own Socially and Educationally Backward Classes after the 102nd had centralised the list logic. Keep **102nd** and **105th** as a confused pair.
 20. The Official Language Commission under **Article 344** was to be set up at five years and then ten years (Kher Commission, 1955). English was originally to continue for **fifteen years** under **343**; the Official Languages Acts of **1963/1967** continue English without a hard stop.
-21. **NITI Aayog** is an **executive** body (Cabinet Resolution). **NHRC** is **statutory**. **NCSC** is **constitutional**. Sorting bodies by creation source is a standing prelims skill.
+21. **NITI Aayog** (नीति आयोग) is an **executive** body (Cabinet Resolution). **NHRC** (राष्ट्रीय मानव अधिकार आयोग) is **statutory**. **NCSC** (राष्ट्रीय अनुसूचित जाति आयोग) is **constitutional**. Sorting bodies by creation source is a standing prelims skill.
 22. Representation of the People Acts split the work: **RPA 1950** covers rolls, seats, and delimitation machinery; **RPA 1951** covers conduct, nominations, corrupt practices, and election petitions. ECI opinions under certain RPA sections bind the President/Governor on disqualification questions.
 23. The Election Commission does **not** decide Speaker elections inside the House. Interior House offices follow parliamentary procedure; external electoral superintendence stays with **324**.
 24. CAG reports are examined by the **Public Accounts Committee**, not by inventing a “CAG committee.” Estimates Committee works on estimates, not CAG audit paras.
 25. UPSC and SPSC members’ independence is protected by charged expenditure and difficult removal. Still, their **advice** to the government is recommendatory, not mandatory.
 26. The Special Officer for Linguistic Minorities (**350B**) is **one** officer for India. Do not confuse that office with the **National Commission for Minorities**, which is statutory.
 27. Joint State PSCs exist only when **two or more States** ask through a **Parliamentary** law. A single State cannot invent a JPSC by State Act alone.
-28. Constitutional bodies with “like SC judge” removal include the **CEC**, **UPSC** members (after SC inquiry), and the **CAG**. The **Attorney General** is the classic pleasure-doctrine contrast — easy removal, no impeachment.
+28. Constitutional bodies with “like SC judge” removal include the **CEC**, **UPSC** (संघ लोक सेवा आयोग) members (after SC inquiry), and the **CAG**. The **Attorney General** (महान्यायवादी) is the classic pleasure-doctrine contrast — easy removal, no impeachment.
 
 ---
 
@@ -265,7 +265,7 @@ D. 1, 2, 3 and 4
 
 **Three different authorities (UP 2021 trap):appoint** = Governor · **remove** = President · **extend functions** = **State Legislature**.
 
-**UP:UPPSC**, HQ **Prayagraj**. ≠ UPSC (Union) ≠ UP **SEC** (local polls).
+**UP:UPPSC**, HQ **Prayagraj** (प्रयागराज). ≠ UPSC (Union) ≠ UP **SEC** (local polls).
 
 **PYQ — UPPCS Prelims 2021, Q133**
 
@@ -447,7 +447,7 @@ D. Services under the Union and States — Part XIV
 - **350A:** States / local authorities to endeavour **mother-tongue** instruction at **primary** stage for linguistic-minority children; President **may direct**.
 - **350B:One** Special Officer **for India** (not per State), appointed by the **President**. Investigate **safeguards** for linguistic minorities; report to the President → Parliament + States.
 
-Operational title: **Commissioner for Linguistic Minorities** (first appointed **1957**). Original HQ **Allahabad**. Now under the Minority Affairs administrative set-up — don’t freeze a pin-code.
+Operational title: **Commissioner for Linguistic Minorities** (first appointed **1957**). Original HQ **Allahabad** (इलाहाबाद). Now under the Minority Affairs administrative set-up — don’t freeze a pin-code.
 
 > **Logic:** 8th Schedule = **22 recognised languages**. 350B is the **officer**, not the Schedule. 9th Amd = **1960** (territory / Berubari line) — **not** 350B.
 
@@ -534,7 +534,7 @@ D. Both 1 and 2
 
 **102nd (2018):** 338B (NCBC) + **342A** — President specifies SEBCs for a State (consultation with Governor); **Parliament** may amend that **Central** list.
 
-**105th (2021):** after *Janhit Abhiyan* / Maratha fallout — restored **States’ power** to identify/list OBCs for **their own** purposes. **Central list still 342A**; States keep a **State list**. 338B stays.
+**105th (2021):** after *Janhit Abhiyan* / Maratha fallout — restored **States’ power** to identify/list OBCs for **their own** purposes. **Central list still 342A**; States keep a **State list** (राज्य सूची). 338B stays.
 
 **Why a standing NCBC at all:** *Indra Sawhney* (**1992**) said identification of OBCs should be done by a **permanent body** → Parliament enacted the **NCBC Act, 1993**. That body was **statutory** until the **102nd** put it in the Constitution.
 
@@ -550,7 +550,7 @@ D. Both 1 and 2
 
 ### Three commissions at a glance
 
-| | **NCSC** | **NCST** | **NCBC** |
+| | **NCSC** | **NCST** (राष्ट्रीय अनुसूचित जनजाति आयोग) | **NCBC** (राष्ट्रीय पिछड़ा वर्ग आयोग) |
 |--|----------|----------|----------|
 | Article | **338** | **338A** | **338B** |
 | List article | **341** | **342** | **342A** (+ State list after 105th) |
@@ -565,7 +565,7 @@ D. Both 1 and 2
 
 - **Article 343(2)** let English **continue** for Union official purposes for **15 years** from commencement — a clock that, on the text, ran out on **26 January 1965**.
 - **Article 343(3)** lets Parliament provide for English (or Hindi) even after those 15 years — this is the hook for the 1963 Act.
-- **Article 344** requires the President to constitute an Official Language Commission at the end of **5 years**, and again at the end of **10 years**, from commencement — that is, in **1955** and **1960**. Its members represent languages listed in the **Eighth Schedule**.
+- **Article 344** requires the President to constitute an Official Language Commission at the end of **5 years**, and again at the end of **10 years**, from commencement — that is, in **1955** and **1960**. Its members represent languages listed in the **Eighth Schedule** (आठवीं अनुसूची).
 - That Commission examines the progressive use of Hindi, restrictions on the use of English, the form of numerals, and any other matter the President refers to it; it reports to the President, who lays it before Parliament.
 - A Parliamentary Committee of **30 MPs — 20 from the Lok Sabha and 10 from the Rajya Sabha** — examines that report.
 - The **first** Commission was chaired by **B.G. Kher** in 1955, and reported in **1956**.
@@ -642,7 +642,7 @@ D. Official Language — Part XVII
 | Kind | Test | examples |
 |------|------|----------------|
 | **Constitutional** | Created **by the Constitution** | ECI, UPSC/SPSC, FC, CAG, AG/AdvG, GST Council, NCSC/NCST/NCBC, 350B officer, ISC, SFC, SEC |
-| **Statutory** | Created by an **Act of Parliament / State** | **Lokpal** (2013) · **NHRC / SHRC** (1993) · **CVC** (2003 Act; was executive) · **CIC / SIC** (RTI 2005) · **NCW** (1990) · **NCM** (1992) · **NCPCR** · **NCSK** (Safai Karamcharis) · **NGT** · **CAT** (1985) · **Delimitation Commission** · old **NCBC 1993** |
+| **Statutory** | Created by an **Act of Parliament / State** | **Lokpal** (लोकपाल) (2013) · **NHRC / SHRC** (1993) · **CVC** (2003 Act; was executive) · **CIC / SIC** (RTI 2005) · **NCW** (1990) · **NCM** (1992) · **NCPCR** · **NCSK** (Safai Karamcharis) · **NGT** · **CAT** (1985) · **Delimitation Commission** · old **NCBC 1993** |
 | **Executive / extra-constitutional** | Created by **resolution / order** | **NITI Aayog (1 Jan 2015)** · Planning Commission · **NDC** · **Law Commission of India** |
 
 **Look-alike trap:** “National Commission for …” is **not** automatically constitutional. **NCSC / NCST / NCBC** are. **NCW / NCM / NCPCR / NCSK** are **statutory**.
@@ -689,8 +689,8 @@ D. National Commission for Backward Classes — Article 340
 - The **SPSC Chairman** is appointed by the **Governor**, removed by the **President**, and charged on the State's Consolidated Fund.
 - The **CAG** is appointed by the President, removed like an **SC judge**, and his salary is charged.
 - The **Attorney General** is appointed by the President and holds office at his **pleasure**; his salary is **not** charged on the Consolidated Fund.
-- The **Finance Commission** is a term body appointed by the President — it is not a standing "judge-like" office.
-- The **GST Council** is constituted by the President as a political, deliberative body.
+- The **Finance Commission** (वित्त आयोग) is a term body appointed by the President — it is not a standing "judge-like" office.
+- The **GST Council** (जीएसटी परिषद) is constituted by the President as a political, deliberative body.
 - The **350B Officer** is appointed by the President and holds office at his pleasure, or as otherwise determined.
 - **NCSC, NCST, and NCBC** members are appointed by the President, with conditions of service fixed by the President — not through an SC-judge-style impeachment process.
 

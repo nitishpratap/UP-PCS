@@ -64,7 +64,7 @@
 
 **Identity:** Art. 165 | State’s top law officer | analogue of Union Attorney General.
 
-- The **Advocate General** advises the State government and represents it in court when required.
+- The **Advocate General** (महाधिवक्ता) advises the State government and represents it in court when required.
 - The office is constitutional under **Article 165**.
 - The Union analogue is the **Attorney General of India** (**Article 76**) — never title the State officer “Attorney General of Uttarakhand.”
 - First Advocate General memory in many lists is **Nanda Ballabh Tiwari**; always verify against the specific stem.
@@ -75,7 +75,7 @@
 
 **Identity:** CAG audits → reports laid → Assembly PAC / Estimates.
 
-- Audit of State receipts and expenditure sits with the **Comptroller and Auditor General** architecture.
+- Audit of State receipts and expenditure sits with the **Comptroller and Auditor General** (नियंत्रक-महालेखापरीक्षक) architecture.
 - Reports are laid before the State legislature and examined by committees such as the **Public Accounts Committee**.
 - Prelims so far has stressed **first office-holder names** more than deep AG procedure, but the CAG → PAC pipeline is the durable teaching bridge.
 

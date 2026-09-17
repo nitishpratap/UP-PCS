@@ -14,13 +14,13 @@
 | **First Historic Dynasty** | **Kuninda (Kulinda)** — ruled central Himalayan foothills from **2nd cent. BCE to 3rd cent. CE** |
 | **Epic Identity** | Mentioned in Mahabharata; King **Subahu** of Subahupur (Srinagar); hailed as **Dwij Srestha** |
 | **Greatest Monarch** | **Amoghbhuti** (1st century BCE) — issued bi-scriptural silver and copper coinage |
-| **Amoghbhuti Coins** | Obverse: **Brahmi**; Reverse: **Kharoshthi**; motifs: Goddess Lakshmi, deer, tree in railing |
+| **Amoghbhuti Coins** | Obverse: **Brahmi**; Reverse: **Kharoshthi** (खरोष्ठी); motifs: Goddess Lakshmi, deer, tree in railing |
 | **Almora Type Coins** | 8 rulers: **Shivdatt, Shivpalit, Haridatt, Gomitra, Aashadh, Mrigbhuti, Vijayabhuti** |
 | **Chhatreshwar Type Coins** | Dedicated to **Lord Shiva (Chhatreshwar)** holding trident; legend: *Bhagavata Chhatreshwara* |
 | **Yaudheya Republic** | Martial *Ayudhajivi Gana*; coin hoards found at **Jaunsar-Bawar, Bhadraj, and Lansdowne** |
 | **Yaudheya Coin Motifs** | **Lord Karttikeya** (with peacock) and Goddess Devsena; legend: *"Yaudheya Ganasya Jaya"* |
 | **Brahmapura Kingdom** | 6th–7th cent. kingdom recorded by Hiuen Tsang; ruled by **Paurava / Vrishavardhan dynasty** |
-| **Taleshwar Copper Plates** | Found in **Almora**; record grants of Paurava kings (Dvijavardhan, Vishnuvardhan) to God Biraneswar |
+| **Taleshwar Copper Plates** | Found in **Almora** (अल्मोड़ा); record grants of Paurava kings (Dvijavardhan, Vishnuvardhan) to God Biraneswar |
 
 ---
 
@@ -80,7 +80,7 @@
 
 ## The Yaudheya Gana in Uttarakhand
 
-- **Nature of State:** The Yaudheyas were a celebrated warrior tribal confederacy (*Ayudhajivi Gana*) described by Panini in the *Ashtadhyayi*.
+- **Nature of State:** The Yaudheyas were a celebrated warrior tribal confederacy (*Ayudhajivi Gana*) described by Panini in the *Ashtadhyayi* (अष्टाध्यायी).
 - **Role in Uttarakhand:** Following the weakening of Kushana imperial power in northern India, the Yaudheyas liberated the foothill Terai, Dehradun, and Lansdowne ridges.
 - **Coin Hoards:**
   - **Jaunsar-Bawar** (Dehradun district).

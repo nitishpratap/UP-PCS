@@ -55,7 +55,7 @@
 
 - The classic five — **Jaunsari, Tharu, Bhotia, Buksa, Raji** — were declared Scheduled Tribes in **1967**.
 - They remain the five STs of Uttarakhand in standard Prelims lists.
-- **Raji / Vanrawat** carries forest-linked PTG memory centred on **Pithoragarh** in geography notes.
+- **Raji / Vanrawat** carries forest-linked PTG memory centred on **Pithoragarh** (पिथौरागढ़) in geography notes.
 - **Bhotia** communities sit in the high Himalayan trade / transhumance belt; **Tharu** and **Buksa** sit on the Tarai fringe — do not merge niches.
 - Sub-group detail is often asked from the geography / society angle, but the polity year stem is **1967**.
 

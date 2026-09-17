@@ -4,7 +4,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Water Resources | IWRM | Rainwater Harvesting | Watershed Management | River Conservation | Wetland Conservation | Groundwater Conservation | Drinking Water Quality
+Water Resources | IWRM | Rainwater Harvesting | Watershed Management (वाटरशेड (जलग्रहण) प्रबंधन) | River Conservation | Wetland Conservation | Groundwater Conservation | Drinking Water Quality
 
 </details>
 
@@ -16,7 +16,7 @@ Water Resources | IWRM | Rainwater Harvesting | Watershed Management | River Con
 
 ## Current Affairs (this topic)
 
-- Jal Jeevan / Namami Gange / wetland CA refresh water chapters.
+- Jal Jeevan / Namami Gange (नमामि गंगे) / wetland CA refresh water chapters.
 - Keep watershed vs command-area and BOD water-quality traps stable.
 
 ---
@@ -24,26 +24,26 @@ Water Resources | IWRM | Rainwater Harvesting | Watershed Management | River Con
 ## Consolidated — 38 Must-Score Facts
 
 1. World water rough shares: oceans about **97.2%**, ice/glaciers about **2%**, groundwater about **0.6%**, rivers about **0.01%**. Descending order is **Oceans > Polar ice > Groundwater > Rivers**.
-2. India holds roughly **4%** of world freshwater for about **18%** of world population. Per-capita availability around **1400 m³** marks water stress in many readings.
+2. India holds roughly **4%** of world freshwater for about **18%** of world population (जनसंख्या). Per-capita availability around **1400 m³** marks water stress in many readings.
 3. The **water cycle** is driven primarily by **solar radiation** through evaporation from oceans, lakes, and rivers. Humidity is measured with a **hygrometer** or psychrometer.
 4. Amount of rainfall depends strongly on **humidity** in the atmosphere — more vapour means greater chance of cloud and rain when temperature falls.
 5. Many transplanted seedlings fail because most **root hairs** are lost during transplantation; root hairs absorb water and mineral nutrients.
 6. **Freshwater is not a biotic resource.** Biotic resources come from living/organic material (forests, animals, fish); **coal and petroleum** are classed biotic because they form from decayed organic matter.
-7. **World Water Day = 22 March** (UN observance from **1993**; UN-Water since **2003**). Theme **2024** = *Leveraging Water for Peace* (also taught as prosperity and peace).
+7. **World Water Day (विश्व जल दिवस) = 22 March** (UN observance from **1993**; UN-Water since **2003**). Theme **2024** = *Leveraging Water for Peace* (also taught as prosperity and peace).
 8. **Rajendra Singh** (“Jal Purush” / Waterman of India; **Tarun Bharat Sangh**, Alwar) won **Ramon Magsaysay 2001** and **Stockholm Water Prize 2015**.
-9. **IWRM** follows Dublin Principles (**1992**) and treats the **river basin** as the planning unit. National Water Policy **2012** priority language puts drinking first, then ecology, agriculture, and industry.
-10. **National Water Mission** (NAPCC, from **30 June 2008**) aims at conservation, less wastage, equitable distribution via IWRM. Five goals include public water database + climate impact assessment, citizen/state conservation action, focus on over-exploited areas, **+20% water-use efficiency**, and basin-level IWRM. Urban wastewater recycling and ocean-water tech for coastal cities fit NWM; **Himalayan–peninsular river linking and free borewell reimbursement do not**.
-11. The **Ministry of Jal Shakti** (**2019**) merged water resources and drinking-water departments.
-12. **Rainwater harvesting** captures rain for use or recharge — rooftops, pits, check dams, johads. Tamil Nadu’s mandatory RWH (**2003**) is a state flagship fact.
+9. **IWRM** follows Dublin Principles (**1992**) and treats the **river basin** as the planning unit. National Water Policy **2012** priority language puts drinking first, then ecology (पारिस्थितिकी), agriculture, and industry.
+10. **National Water Mission** (NAPCC, from **30 June 2008**) aims at conservation, less wastage, equitable distribution via IWRM. Five goals include public water database + climate impact assessment, citizen/state conservation action, focus on over-exploited areas, **+20% water-use efficiency**, and basin-level IWRM. Urban (नगरीय) wastewater recycling and ocean-water tech for coastal cities fit NWM; **Himalayan–peninsular river linking and free borewell reimbursement do not**.
+11. The **Ministry of Jal Shakti (शक्ति)** (**2019**) merged water resources and drinking-water departments.
+12. **Rainwater harvesting** captures rain for use or recharge — rooftops, pits, check dams, johads. Tamil Nadu (नाडु)’s mandatory RWH (**2003**) is a state flagship fact.
 13. A **watershed** is land draining to a common outlet. **Hariyali** is the GOI watershed project for rural water conservation (≠ Pani Sansad / Jal Kranti as the 2022 key).
 14. Desert plants conserve water via hard/waxy leaves, tiny/absent leaves, and thorns instead of leaves.
-15. River cleaning spine: **Central Ganga Authority / GAP 1985 → NRCA 1995 → NGRBA 20 Feb 2009 (EPA; PM chair) → Namami Gange 2014** (NMCG). **STP** = domestic; **CETP** = industrial.
-16. **Yamuna Action Plan** launched **1993** (YAP-I to ~2003; YAP-II Dec 2004; **YAP-III 7 May 2016** under Namami Gange).
-17. **Ganges River Dolphin** (*Platanista gangetica*) = **National Aquatic Animal (2009)**; dams, nets, agrochemicals threaten it — crocodile increase is **not** a standard decline cause in UPSC framing.
-18. Kanpur is the Ganga tannery pollution fact. **Gomti** is Lucknow’s river — do not put Gomti’s main story on Kanpur.
+15. River cleaning spine: **Central Ganga (गंगा) Authority / GAP 1985 → NRCA 1995 → NGRBA 20 Feb 2009 (EPA; PM chair) → Namami Gange 2014** (NMCG). **STP** = domestic; **CETP** = industrial.
+16. **Yamuna (यमुना) Action Plan** launched **1993** (YAP-I to ~2003; YAP-II Dec 2004; **YAP-III 7 May 2016** under Namami Gange).
+17. **Ganges River Dolphin** (*Platanista gangetica*) = **National Aquatic Animal (2009)**; dams, nets, agrochemicals threaten it — crocodile increase is **not** a standard decline cause in UPSC (संघ लोक सेवा आयोग) framing.
+18. Kanpur (कानपुर) is the Ganga tannery pollution fact. **Gomti** is Lucknow (लखनऊ)’s river — do not put Gomti’s main story on Kanpur.
 19. **NLCP (June 2001)** restored urban/semi-urban lakes; merged with NWCP into **NPCA (Feb 2013)**. NLCP lakes include Bhoj, Sukhna, Pichola, Bhimtal — **Chilika is not NLCP**.
-20. Wetlands follow **Ramsar 1971**, Wise Use, World Wetlands Day on **2 February**, and Wetland Rules **2017**. UP Ramsar sites exist; **Rudrasagar** and **Sultanpur** are **not** UP.
-21. **CGWB** prepares the Annual Groundwater Quality Report. **CGWA** (groundwater regulation) is under **EPA 1986**. India has the **largest groundwater-irrigated area** in the world. Arsenic drinking-water teaching often points to **Kolkata**.
+20. Wetlands follow **Ramsar (रामसर) 1971**, Wise Use, World Wetlands Day (विश्व आर्द्रभूमि दिवस) on **2 February** (रामसर), and Wetland Rules **2017**. UP Ramsar sites exist; **Rudrasagar** and **Sultanpur** are **not** UP.
+21. **CGWB** prepares the Annual Groundwater Quality Report. **CGWA** (groundwater regulation) is under **EPA 1986** (पर्यावरण संरक्षण 1986). India has the **largest groundwater-irrigated area** in the world. Arsenic drinking-water teaching often points to **Kolkata**.
 22. Disinfection: **chlorine**, chloramine, chlorine dioxide, ozone; **UV** kills microbes without changing taste/odour — UV does **not** remove odour or settle turbidity.
 23. Water Act **1974** (amended **1988**); Water Cess Act **1977** (enforced **1 Apr 1978**).
 24. **Atal Bhujal Yojana (2019)** is a groundwater management scheme tag.
@@ -52,7 +52,7 @@ Water Resources | IWRM | Rainwater Harvesting | Watershed Management | River Con
 27. Heavy sand mining lowers water table and can pollute groundwater — it does **not** decrease river salinity as a standard consequence.
 28. **Lisbon Declaration** (UN Ocean Conference) is about **oceans**, not freshwater glaciers.
 29. Rivers are **not** second after oceans in global freshwater ranking — ice/glaciers are.
-30. CGWB ≠ CPCB on the groundwater quality report; CGWA ≠ CGWB.
+30. CGWB ≠ CPCB (केंद्रीय प्रदूषण नियंत्रण बोर्ड) on the groundwater quality report; CGWA ≠ CGWB.
 31. Namami Gange is **2014**; GAP is **1985**. NGRBA chair is the **Prime Minister**, not rotating CMs.
 32. IWRM is basin coordination; watershed is the local drainage unit used in ridge-to-valley works.
 33. Aquifer is the underground storage layer; it is not a surface canal.
@@ -98,11 +98,11 @@ Water Resources | IWRM | Rainwater Harvesting | Watershed Management | River Con
 
 **Identity:** Oceans dominate | Rivers tiny fraction | India water-stressed | Surface + groundwater
 
-- Earth's water: oceans ~**97.2%** (saline); polar ice/glaciers ~**2%**; groundwater ~**0.6%**; rivers/lakes ~**0.01%**.
+- Earth's water: oceans ~**97.2%** (saline (लवणीय)); polar ice/glaciers ~**2%**; groundwater ~**0.6%**; rivers/lakes ~**0.01%**.
 - India holds ~**4%** of world renewable freshwater but ~**18%** of population — per capita availability ~**1,400 m³/year** (stress below **1,700 m³**).
 - **Surface water:** rivers, lakes, reservoirs — highly seasonal under monsoon.
 - **Groundwater:** India's largest **extractable** freshwater source (~45% irrigation, ~80% rural domestic).
-- **Ganga–Brahmaputra** system carries about **40%** of India's river water.
+- **Ganga–Brahmaputra (ब्रह्मपुत्र)** system carries about **40%** of India's river water.
 - Drivers of stress: population, urbanisation, inefficient irrigation, pollution reducing usable supply.
 - The **hydrological / water cycle** moves water through evaporation, condensation, precipitation, infiltration, and runoff.
 - **Solar radiation** plays the main role in driving the water cycle by evaporating water from oceans, lakes, and rivers.
@@ -133,7 +133,7 @@ Options: A. 1, 3, 4, 2 B. 1, 2, 4, 3 C. 1, 2, 3, 4 D. 1, 4, 3, 2
 
 ---
 
-## 26.2 Integrated Water Resources Management (IWRM)
+## 26.2 Integrated Water Resources Management (IWRM) (एकीकृत जल संसाधन प्रबंधन)
 
 **Identity:** Dublin 1992 | Basin unit | National Water Policy 2012 | Jal Shakti 2019
 
@@ -152,7 +152,7 @@ Options: A. 1, 3, 4, 2 B. 1, 2, 4, 3 C. 1, 2, 3, 4 D. 1, 4, 3, 2
 |-------------|------|
 | Departmental silos | River basin planning |
 | Supply focus | Supply + demand + quality |
-| Environment ignored | Ecological flows included |
+| Environment (पर्यावरण) ignored | Ecological flows included |
 
 > **Logic:** "IWRM means maximum irrigation extraction" = **FALSE**. River linking ≠ NWM package.
 
@@ -174,7 +174,7 @@ Options: A. 1, 3, 4, 2 B. 1, 2, 4, 3 C. 1, 2, 3, 4 D. 1, 4, 3, 2
 |--------|----------|
 | Rooftop tank | Direct use |
 | Recharge pit/well | Aquifer recharge |
-| Check dam | Slow runoff + percolation |
+| Check dam (दाम -) | Slow runoff + percolation |
 | Johad/taanka | Traditional arid storage |
 
 > **Logic:** RWH = both storage **and** recharge — not tanks alone.
@@ -192,7 +192,7 @@ Options: A. 1, 3, 4, 2 B. 1, 2, 4, 3 C. 1, 2, 3, 4 D. 1, 4, 3, 2
 - **IWMP** (Integrated Watershed Management Programme) — central watershed scheme; converges with MGNREGA.
 - **Hariyali** — Government of India watershed project enabling rural water conservation (2022 PYQ).
 - Classic success models: **Sukhomajri (Haryana)**, **Ralegan Siddhi (Maharashtra)**.
-- Outcomes: less erosion, higher water table, drought resilience, lower flood peaks.
+- Outcomes: less erosion, higher water table, drought (सूखा) resilience, lower flood peaks.
 - Desert plants reduce water loss through **hard and waxy leaves**, **tiny or absent leaves**, and **thorns instead of leaves** — all three modifications inhibit water loss.
 - Heavy **sand mining** in riverbeds can pollute groundwater and lower the water table (sand acts as a sponge/filter). It does **not** typically decrease river salinity as a listed consequence.
 
@@ -231,18 +231,18 @@ Options: A. Jal Kranti B. Pani Sansad C. Hariyali D. None
 **Identity:** GAP 1985 → NGRBA 2009 → Namami Gange 2014 | YAP | Dolphin | STP/CETP
 
 - River degradation drivers: untreated sewage, industrial effluent, sand mining, floodplain encroachment, flow alteration by dams.
-- **Ganga** was declared a **National River** on **4 November 2008**.
-- **Central Ganga Authority (Feb 1985)** under Rajiv Gandhi launched the **Ganga Action Plan**; renamed **National River Conservation Authority (NRCA)** in **September 1995** (PM as chair).
+- **Ganga** (गंगा) was declared a **National River** on **4 November 2008**.
+- **Central Ganga Authority (Feb 1985)** under Rajiv Gandhi (गांधी) launched the **Ganga Action Plan** (गंगा एक्शन प्लान); renamed **National River Conservation Authority (NRCA)** in **September 1995** (PM as chair).
 - **GAP Phase I = 1985**. Phase II (**1993**) brought in **Yamuna Action Plan** and **Gomti Action Plan**.
 - **Yamuna Action Plan:** formally launched **1993** (YAP-I ~1993–2003; YAP-II Dec **2004**; **YAP-III from 7 May 2016** under Namami Gange). *Maili Se Nirmal Yamuna* revitalisation framing from **2017**.
 - **NGRBA (National Ganga River Basin Authority)** constituted **20 February 2009** under **EPA 1986**. The **Prime Minister** chairs it; CMs of Ganga states are members — chair is **not** rotational among CMs. It plans, finances, monitors, and coordinates basin-scale Ganga conservation.
-- **Namami Gange, 2014** (Budget outlay teaching): integrated Ganga rejuvenation — STPs/CETPs, river-front/ghat works, surface cleaning, biodiversity, afforestation, industrial effluent monitoring, Ganga Gram. Pillars include **Nirmal Dhara** and **Aviral Dhara**.
+- **Namami Gange, 2014** (Budget outlay teaching): integrated Ganga rejuvenation — STPs/CETPs, river-front/ghat works, surface cleaning, biodiversity, afforestation, industrial effluent monitoring, Ganga Gram. Pillars include **Nirmal Dhara (धारा)** and **Aviral Dhara**.
 - **NMCG (National Mission for Clean Ganga)** under **Jal Shakti** implements Namami Gange.
-- **NRCP** works: intercept/divert raw sewage, STPs, low-cost sanitation on banks, electric/improved wood crematoria, public awareness.
+- **NRCP** works: intercept/divert raw (रॉ) sewage, STPs, low-cost sanitation on banks, electric/improved wood crematoria, public awareness.
 - **STP** treats domestic sewage; **CETP** treats combined industrial effluent (e.g. Kanpur tanneries — chromium).
 - Clean stretch targets: BOD **<3 mg/L**, DO **>6 mg/L**.
-- **UP facts:** **Kanpur** = Ganga tannery stretch; **Gomti** = Lucknow municipal sewage; **Varanasi** = sewage + ghat waste.
-- **Ganges River Dolphin** (*Platanista gangetica*) is one of four obligate freshwater dolphins; declared India’s **National Aquatic Animal in 2009**. Decline drivers include dams/barrages, accidental fishing-net capture, and agrochemicals — **not** mainly rising crocodile numbers.
+- **UP facts:** **Kanpur** (कानपुर) = Ganga tannery stretch; **Gomti** = Lucknow municipal sewage; **Varanasi** (वाराणसी) = sewage + ghat waste.
+- **Ganges River Dolphin** (*Platanista gangetica*) is one of four (चातुर्याम) obligate freshwater dolphins; declared India’s **National Aquatic Animal in 2009**. Decline drivers include dams/barrages, accidental fishing-net capture, and agrochemicals — **not** mainly rising crocodile numbers.
 - Jharkhand State Ganga River Conservation Authority was formed in **2009** (CM as ex-officio chair).
 
 | Programme | Year | Fact |
@@ -276,12 +276,12 @@ Options: A. Make water pollution-free B. Irrigation only C. Build new dams D. No
 
 **Identity:** Ramsar 1971 | NLCP 2001 → NPCA 2013 | Wetland Rules 2017 | UP Ramsar geography
 
-- Wetlands provide flood absorption, groundwater recharge, purification, fisheries, and bird habitat.
-- **Ramsar Convention (1971):** wetland conservation and **wise use** — World Wetlands Day = **2 February**.
-- India joined Ramsar **1982**; Wetland Rules **2017** (MoEFCC) regulate notified wetlands.
-- **National Lake Conservation Plan (NLCP)** launched **June 2001** to restore degraded urban and semi-urban lakes via an integrated ecosystem approach (pollution control from wastewater inflows).
+- Wetlands provide flood absorption, groundwater recharge, purification, fisheries, and bird habitat (वास स्थान).
+- **Ramsar Convention (1971) (रामसर कन्वेंशन):** wetland conservation and **wise use** — World Wetlands Day = **2 February**.
+- India joined Ramsar **1982**; Wetland Rules **2017** (MoEFCC (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय)) regulate notified wetlands.
+- **National Lake Conservation Plan (NLCP)** launched **June 2001** to restore degraded urban and semi-urban lakes via an integrated ecosystem (पारिस्थितिकी तंत्र) approach (pollution control from wastewater inflows).
 - In **February 2013**, CCEA approved merger of NLCP and the **National Wetlands Conservation Programme** into the **National Plan for Conservation of Aquatic Ecosystems (NPCA)**.
-- Classic NLCP teaching lakes: **Bhoj (MP)**, **Sukhna (Chandigarh)**, **Pichola (Udaipur)**, **Bhimtal / Nainital set (Uttarakhand)**, Powai, Pushkar, Ooty, Ramgarh Tal (Gorakhpur), Mansi Ganga (Mathura), Lakshmi Tal (Jhansi). **Chilika (Odisha) is not under NLCP**.
+- Classic NLCP teaching lakes: **Bhoj (MP)**, **Sukhna (Chandigarh)**, **Pichola (Udaipur (उदयपुर))**, **Bhimtal / Nainital (नैनीताल) set (Uttarakhand (उत्तराखंड))**, Powai, Pushkar, Ooty, Ramgarh Tal (Gorakhpur (गोरखपुर)), Mansi Ganga (Mathura (मथुरा)), Lakshmi Tal (Jhansi (झांसी)). **Chilika (Odisha) is not under NLCP**.
 - **UP Ramsar sites** include Sarsai Nawar, Samaspur, Nawabganj, Upper Ganga, Bakhira, Haiderpur.
 - **NOT in UP: Rudrasagar Lake (Tripura)** and **Sultanpur NP (Haryana)** — classic state-trap pair.
 
@@ -295,11 +295,11 @@ Options: A. Make water pollution-free B. Irrigation only C. Build new dams D. No
 
 - Groundwater is India's main **extractable** freshwater stock — aquifers recharged by monsoon infiltration.
 - **CGWB (Central Ground Water Board)** under Jal Shakti assesses quantity and quality.
-- **Annual Groundwater Quality Report** is prepared by **CGWB** — not CPCB or CWC.
+- **Annual Groundwater Quality Report** is prepared by **CGWB** — not CPCB or CWC (केंद्रीय जल आयोग).
 - **CGWA (Central Ground Water Authority)** was formed under the **Environment (Protection) Act, 1986** to regulate and control groundwater development — **CGWA ≠ CGWB**.
 - India has the **largest area under groundwater irrigation** in the world (followed by China and the USA).
-- **Over-extraction hotspots:** Punjab–Haryana–western UP Green Revolution belt — falling water tables.
-- **Contamination:** **arsenic** in Ganga–Brahmaputra alluvium (urban drinking-water teaching often cites **Kolkata**); **fluoride** in parts of Rajasthan and UP.
+- **Over-extraction hotspots:** Punjab–Haryana–western UP Green Revolution (हरित क्रांति) belt — falling water tables.
+- **Contamination:** **arsenic** in Ganga–Brahmaputra alluvium (urban drinking-water teaching often cites (साइट्स) **Kolkata**); **fluoride** in parts of Rajasthan and UP.
 - **Atal Bhujal Yojana (2019):** community-led groundwater management in water-stressed blocks (7 states).
 - Conservation tools: recharge structures, crop diversification, regulated tubewell electricity, conjunctive use.
 - Legal stack reminder: **Water (Prevention and Control of Pollution) Act, 1974** (amended **1988**); **Water Cess Act, 1977** (enforced **1 April 1978**).

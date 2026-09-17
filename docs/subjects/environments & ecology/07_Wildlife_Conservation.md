@@ -1,10 +1,10 @@
-# Topic 7 — Wildlife Conservation
+# Topic 7 — Wildlife Conservation (वन्यजीव संरक्षण)
 ### ★ UPPCS Revision Sheet — Lucent-style (no repetition · Practice ≥25)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Wildlife Conservation | Wildlife Protection | Project Tiger | Project Elephant | Crocodile Conservation Project | Asiatic Lion Conservation | Rhino Conservation | Snow Leopard Conservation | Vulture Conservation
+Wildlife Conservation | Wildlife Protection (वन्यजीव सुरक्षा) | Project Tiger (प्रोजेक्ट टाइगर) | Project Elephant (प्रोजेक्ट एलीफेंट) | Crocodile Conservation Project | Asiatic Lion (सिंह) Conservation | Rhino Conservation | Snow Leopard Conservation | Vulture Conservation
 
 </details>
 
@@ -23,40 +23,40 @@ Wildlife Conservation | Wildlife Protection | Project Tiger | Project Elephant |
 
 ## Consolidated — 36 Must-Score Facts
 
-1. Wildlife conservation protects species and habitats, with **in-situ** primary and **ex-situ** as backup.
-2. Major threats include habitat loss, poaching, human–wildlife conflict, invasive species, and veterinary **diclofenac** for vultures.
+1. Wildlife conservation protects species and habitats, with **in-situ** (स्थान पर) primary and **ex-situ** (स्थानांतरित) as backup.
+2. Major threats include habitat (वास स्थान) loss, poaching, human–wildlife conflict, invasive species (आक्रामक विदेशी प्रजाति), and veterinary **diclofenac** (डाइक्लोफेनाक) for vultures.
 3. The **Wildlife (Protection) Act, 1972** followed the Stockholm moment and uses **six Schedules**. **Schedule I** is maximum protection.
 4. Schedule I facts include tiger, elephant, rhino, gharial, and vultures among frequently asked species. A **Schedule I tortoise** enjoys the **same protection level as the tiger**.
 5. **Schedule VI** plants cannot be cultivated without a **licence** from the Chief Wildlife Warden (or authorised officer) — not “banned under all circumstances.”
 6. The **Chief Wildlife Warden** is the State implementing officer. **NBWL** is the PM-chaired national advisory body.
 7. **NTCA** became statutory through the **2005/2006** WPA amendments and governs **Tiger Reserves only**.
-8. **Project Tiger** began in **1973**. Corbett was the first tiger reserve. India has **58** tiger reserves. The **2022** census figure often cited is **3,682** tigers.
-9. **Project Elephant** began in **1992** with about **33** elephant reserves and **no WPA statutory basis** — it covers **wild and captive** elephants.
-10. The **Crocodile Project (1975)** covers gharial, mugger, and saltwater crocodile. Best natural gharial view: **Chambal** (also Girwa); IUCN status **Critically Endangered**.
-11. **Project Lion (2020)** focuses on Asiatic lions at **Gir, Gujarat**. Uttar Pradesh has **no** wild Asiatic lion population.
-12. **IRV 2020** planned rhino recovery across seven PAs, including **Dudhwa** in Uttar Pradesh.
-13. **Project Snow Leopard (2009)** and **GSLEP (2013)** cover high Himalaya. UP has **no** snow leopard habitat.
+8. **Project Tiger** (प्रोजेक्ट टाइगर) began in **1973**. Corbett was the first tiger reserve. India has **58** tiger reserves. The **2022** census figure often cited is **3,682** tigers.
+9. **Project Elephant** (प्रोजेक्ट एलीफेंट) began in **1992** with about **33** elephant reserves and **no WPA statutory basis** — it covers **wild and captive** elephants.
+10. The **Crocodile Project (1975)** covers gharial, mugger, and saltwater crocodile. Best natural gharial view: **Chambal** (चंबल) (also Girwa); IUCN (आईयूसीएन) status **Critically Endangered**.
+11. **Project Lion (2020)** focuses on Asiatic lions at **Gir (गीर), Gujarat**. Uttar Pradesh (उत्तर प्रदेश) has **no** wild Asiatic lion population (जनसंख्या).
+12. **IRV 2020** planned rhino recovery across seven PAs, including **Dudhwa** (दुधवा) in Uttar Pradesh.
+13. **Project Snow Leopard (2009)** and **GSLEP (2013)** cover high Himalaya (हिमालय). UP has **no** snow leopard habitat.
 14. The **Vulture Action Plan (2006)** and veterinary **diclofenac ban (2006)** address renal failure in Indian vultures. **SAVE** (Nepal–India) targets **vulture** recovery.
 15. An **umbrella** species (tiger, elephant) protects wide ecosystems. A **flagship** species mobilises public support. A **keystone** species’ loss collapses function (vulture example).
-16. World Wildlife Day is **3 March**. Wildlife Week in India is **2–8 October**. WWF logo animal is the **Giant Panda**.
-17. **Operation Olivia** is an Indian Coast Guard nesting patrol on the **Odisha** coast.
+16. World Wildlife Day (विश्व वन्यजीव दिवस) is **3 March**. Wildlife Week in India is **2–8 October**. WWF (डब्ल्यूडब्ल्यूएफ) logo animal is the **Giant Panda**.
+17. **Operation Olivia** is an Indian Coast Guard (तटरक्षक बल) nesting patrol on the **Odisha** (ओडिशा) coast.
 18. UP tiger reserves are **Dudhwa, Pilibhit, and Ranipur**.
-19. UP rhino fact is **Dudhwa National Park** (reintroduced population).
+19. UP rhino fact is **Dudhwa National Park** (दुधवा राष्ट्रीय उद्यान) (reintroduced population).
 20. UP gharial sites include **Katarniaghat Wildlife Sanctuary** and the **Chambal** sanctuary landscape.
-21. UP elephant reserves are **UP ER (2009)** and **Terai ER (2022)**.
+21. UP elephant reserves are **UP ER (2009)** and **Terai (तराई) ER (2022)**.
 22. Programme-year chain: WPA **1972** → Project Tiger **1973** → Crocodile Project **1975** → Project Elephant **1992** → Biodiversity Act **2002** → NTCA statutory **2005/2006** → Vulture ban **2006** → Project Snow Leopard **2009** → Project Lion **2020**.
 23. **Whale shark** is India’s largest fish; seasonal aggregations off **Gujarat** (Mar–May); protection programme from **2004**.
 24. **Kharai camel** (Kutch, Gujarat) can swim in seawater and graze mangroves; can be domesticated — **not** “wild only.”
-25. **Pugmark** technique estimates wild animal populations from footprints.
+25. **Pugmark** technique estimates (प्राकलन समिति) wild animal populations from footprints.
 26. **Spider monkey** is Central/South American — **not** naturally found in India (Star tortoise, Monitor lizard, Pygmy hog are).
 27. Scientific names: Asiatic wild ass (**Equus hemionus**), Barasingha (**Rucervus/Cervus duvaucelii**), Chinkara (**Gazella bennettii**), Nilgai (**Boselaphus tragocamelus**).
-28. **Community Reserve** (WPA): CWLW authority applies; hunting banned; NTFP collection allowed; **traditional agriculture / jhum not** allowed after notification.
-29. **Animal Welfare Board of India** (1962) is under the **Prevention of Cruelty to Animals Act, 1960** — **not** EPA 1986. NTCA is statutory; NGRBA was PM-chaired.
+28. **Community Reserve** (सामुदायिक आरक्षित क्षेत्र) (WPA): CWLW authority applies; hunting banned; NTFP collection allowed; **traditional agriculture / jhum not** allowed after notification.
+29. **Animal Welfare Board of India** (1962) is under the **Prevention of Cruelty to Animals Act, 1960** — **not** EPA 1986 (पर्यावरण संरक्षण 1986). NTCA is statutory; NGRBA was PM-chaired.
 30. Gharial, Indian wild ass, and wild buffalo cannot be hunted except under limited WPA provisions.
 31. India holds about **2.4%** of world land area but about **8%** of known biodiversity (~**7.28%** of known animal species in Alfred-type figures).
 32. First International Tiger Forum / World Tiger Summit **2010** was at **Saint Petersburg**, Russia.
 33. **New York Declaration on Forests (2014)** is voluntary/non-binding; India was **not** an original signatory.
-34. **UNCCD (1994)** is the sole legally binding desertification convention; bottom-up local participation; no exclusive South Asia finance monopoly claim.
+34. **UNCCD (1994)** (मरुस्थलीकरण रोकथाम संधि) is the sole legally binding desertification (मरुस्थलीकरण) convention; bottom-up local participation; no exclusive South Asia finance monopoly claim.
 35. Conservation is ecological protection; **Wildlife Protection** language often means the **WPA enforcement** track.
 36. NTCA does not run Elephant Reserves; confusing NTCA with Project Elephant administration is a trap.
 
@@ -112,7 +112,7 @@ Wildlife Conservation | Wildlife Protection | Project Tiger | Project Elephant |
 | Item | Lock |
 |------|------|
 | WPA Schedules | Six; **Schedule I** = maximum protection |
-| Schedule VI | Plants; licence from CWLW (not absolute ban) |
+| Schedule VI | Plants; licence from CWLW (not absolute (निरपेक्ष) ban) |
 | NBWL / CWLW | PM-chaired advisory / State implementing officer |
 | NTCA | Statutory via 2005–06 path; Tiger Reserves only |
 
@@ -132,17 +132,17 @@ Wildlife Conservation | Wildlife Protection | Project Tiger | Project Elephant |
 
 ## 7.1 Wildlife Conservation
 
-**Identity:** In-situ primary | Species programmes + community participation | MoEFCC nodal
+**Identity:** In-situ primary | Species programmes + community participation | MoEFCC (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय) nodal
 
 - **Wildlife conservation** means protecting wild plants and animals and the habitats they need to survive.
-- The main strategy is **in-situ conservation**, which protects species where they naturally live.
-- **Ex-situ conservation** uses zoos, captive breeding, and gene banks as backup when wild populations are critically low.
-- A **flagship species** such as the tiger attracts funding and public attention for conservation.
-- An **umbrella species** such as the tiger or elephant needs large habitat, so protecting it also protects many other species.
-- A **keystone species** such as the vulture plays an irreplaceable ecological role. Its loss harms the whole system.
+- The main strategy is **in-situ conservation** (स्व-स्थाने संरक्षण), which protects species where they naturally live.
+- **Ex-situ conservation** (बाह्य-स्थाने संरक्षण) uses zoos, captive breeding, and gene banks as backup when wild populations are critically low.
+- A **flagship species** (प्रतीक (फ्लैगशिप) प्रजाति) such as the tiger attracts funding and public attention for conservation.
+- An **umbrella species** (छत्र (अंब्रेला) प्रजाति) such as the tiger or elephant needs large habitat, so protecting it also protects many other species.
+- A **keystone species** (कीस्टोन प्रजाति) such as the vulture plays an irreplaceable ecological role. Its loss harms the whole system.
 - Major threats include habitat fragmentation, poaching, human–wildlife conflict, veterinary drug poisoning, and invasive species.
 - India runs **species-specific programmes** under MoEFCC on top of the protected area network.
-- **World Wildlife Day** is observed on **3 March**, marking the adoption of CITES in 1973.
+- **World Wildlife Day** is observed on **3 March**, marking the adoption of CITES (साइट्स) in 1973.
 - **Wildlife Week** in India is observed from **2 to 8 October**.
 - **Operation Olivia** is an **Indian Coast Guard** initiative to protect **Olive Ridley turtles** along the **Odisha coast**.
 - Olive Ridley **nesting season** runs from **November to February**, when mass **arribada** occurs at Gahirmatha and Rushikulya.
@@ -193,15 +193,15 @@ D. Only 1
 **Identity:** WPA 1972 | 6 Schedules | CWLW + NBWL | Art 48A, 51A(g)
 
 - **Wildlife (Protection) Act, 1972** is India's main law for protecting wild animals, birds, and plants.
-- The Act was enacted in the same year as the **Stockholm Conference (1972)**.
+- The Act was enacted in the same year as the **Stockholm Conference (1972)** (स्टॉकहोम सम्मेलन).
 - The Act divides species into **six schedules** based on protection level.
-- **Schedule I** gives maximum protection. Hunting and trade are banned for tiger, elephant, rhino, lion, gharial, snow leopard, and Indian vultures.
+- **Schedule I** gives maximum protection. Hunting and trade (पण्याध्यक्ष) are banned for tiger, elephant, rhino, lion, gharial, snow leopard, and Indian vultures.
 - If a tortoise (or any species) is placed in **Schedule I**, it enjoys the **same protection level as the tiger**.
 - **Schedule V** lists vermin such as the common crow and rat, which may be hunted.
 - **Schedule VI** lists specified plants whose cultivation is **prohibited except with a licence** from the Chief Wildlife Warden or authorised officer (classic pitcher-plant / specified-plant pattern).
 - Gharial, Indian wild ass, and wild buffalo cannot be hunted except under limited WPA provisions.
 - The **Chief Wildlife Warden (CWLW)** is the state-level authority for permits and sanctuary management.
-- The **National Board for Wildlife (NBWL)** is chaired by the **Prime Minister** and advises on protected area policy.
+- The **National Board for Wildlife (NBWL)** (राष्ट्रीय वन्यजीव बोर्ड) is chaired by the **Prime Minister** and advises on protected area policy.
 - Offences against Schedule I species can lead to imprisonment up to **7 years**.
 - **Article 48A** directs the State to protect wildlife. **Article 51A(g)** makes it a citizen's duty to protect wildlife.
 - Once an area is notified as a **Community Reserve**, hunting is banned, NTFP collection may continue, but **traditional agriculture / jhum is not** allowed; CWLW authority under WPA applies.
@@ -211,7 +211,7 @@ D. Only 1
 |----------|------------|----------|
 | **I** | Maximum — hunting banned | Tiger, elephant, rhino, gharial, vulture |
 | **II** | High | Himalayan black bear, cobra |
-| **III–IV** | Moderate/lower fauna | Chital, sambar, hare |
+| **III–IV** | Moderate (नरम दल)/lower fauna (प्राणीजात) | Chital, sambar, hare |
 | **V** | Vermin — may be hunted | Crow, rat |
 | **VI** | Specified plants — licence needed | Pitcher plant and other listed taxa |
 
@@ -223,22 +223,22 @@ D. Only 1
 
 **Identity:** CSS 1973 | NTCA 2005/2006 | 58 TRs | Umbrella species model
 
-- **Project Tiger** was launched in **April 1973** by PM Indira Gandhi at Jim Corbett National Park.
+- **Project Tiger** was launched in **April 1973** by PM Indira Gandhi (गांधी) at Jim Corbett (जिम कॉर्बेट) National Park.
 - The project began with **9 tiger reserves**. **Corbett** was the first reserve.
 - India now has **58 tiger reserves**. **Madhav Tiger Reserve** (MP) is the 58th.
 - The **National Tiger Conservation Authority (NTCA)** became a statutory body under the **WPA 2006 amendment**.
-- Every tiger reserve must have a **core zone** kept inviolate and a **buffer zone** for regulated use.
+- Every tiger reserve must have a **core zone** (कोर क्षेत्र) kept inviolate and a **buffer zone** (बफर क्षेत्र) for regulated use.
 - The **All India Tiger Estimation** runs every **4 years** using camera traps and the **M-STrIPES** app (Monitoring System for Tigers — Intensive Protection and Ecological Status: field patrol protocols + GIS software for management).
 - **International Tiger Day** is **29 July** (decided at the **2010 St Petersburg** Tiger Summit).
-- **Nagarjunsagar–Srisailam** holds the largest critical tiger habitat among common options. **Bandipur** pioneered drone monitoring among common stems.
-- **Sathyamangalam TR (Tamil Nadu)** sits at the Eastern–Western Ghats junction.
+- **Nagarjunsagar–Srisailam** holds the largest critical tiger habitat among common options. **Bandipur** (बांदीपुर) pioneered drone monitoring among common stems.
+- **Sathyamangalam TR (Tamil Nadu (तमिलनाडु))** sits at the Eastern–Western Ghats (पश्चिमी घाट) junction.
 - The **2022 census** recorded **3,682 tigers** in India.
 - **Madhya Pradesh** has the most tiger reserves among states.
 - India hosts about **70% of the world's wild tigers**.
 - The tiger is an **umbrella species**. Protecting it also protects prey, co-predators, and forest habitat.
 - UP tiger reserves are **Dudhwa (1987)**, **Pilibhit (2014)**, and **Ranipur (2023)**.
 
-> **Logic:** Tiger Reserve has **WPA statutory basis (Sec 38V)**. Elephant Reserve does **not**.
+> **Logic:** Tiger Reserve has **WPA statutory basis (Sec 38V)**. Elephant Reserve (हाथी अभयारण्य) does **not**.
 
 ---
 
@@ -266,7 +266,7 @@ D. Only 1
 
 **Identity:** 1975 | Crocodile Breeding and Management Project | 3 Indian species
 
-- The **Crocodile Conservation Project** was launched in **1975** with UNDP/FAO assistance.
+- The **Crocodile Conservation Project** was launched in **1975** with UNDP (यूएनडीपी)/FAO assistance.
 - Its official name is the **Crocodile Breeding and Management Project**.
 - It covers **three species**: **gharial**, **mugger (marsh crocodile)**, and **saltwater crocodile**.
 - The **gharial** has a long narrow snout and lives in clean deep rivers such as the **Chambal** and **Girwa**.
@@ -283,8 +283,8 @@ D. Only 1
 - Scientific name locks: Asiatic wild ass (**Equus hemionus**), Barasingha (**Rucervus/Cervus duvaucelii**), Chinkara (**Gazella bennettii**), Nilgai (**Boselaphus tragocamelus**).
 - WWF has used the **Giant Panda (*Ailuropoda melanoleuca*)** as its logo since **1961**.
 - The first International Tiger Forum / World Tiger Summit (**2010**) was held at **Saint Petersburg**, Russia.
-- Captive breeding centres operate at Nandankanan, Hyderabad, Chennai, Lucknow, and Trivandrum.
-- **Ganges River Dolphin** (*Platanista gangetica*) is India’s **National Aquatic Animal (notified 2009)** — one of four obligate freshwater dolphins; Ganga–Brahmaputra–Meghna systems. Decline drivers: dams/barrages, fishing nets, agrochemicals — not mainly rising crocodile numbers. UP also uses a state aquatic-animal / Meri Ganga Meri Dolphin awareness framing.
+- Captive breeding centres operate at Nandankanan, Hyderabad (हैदराबाद), Chennai, Lucknow (लखनऊ), and Trivandrum.
+- **Ganges River Dolphin** (*Platanista gangetica*) is India’s **National Aquatic Animal (notified 2009)** — one of four (चातुर्याम) obligate freshwater dolphins; Ganga (गंगा)–Brahmaputra (ब्रह्मपुत्र)–Meghna systems. Decline drivers: dams/barrages, fishing nets, agrochemicals — not mainly rising crocodile numbers. UP also uses a state aquatic-animal / Meri Ganga Meri Dolphin awareness framing.
 - IUCN teaching: gharial often **Critically Endangered**; mugger/saltwater crocodile commonly **Vulnerable** in bank notes.
 
 > **Logic:** The crocodile project covers **three species**, not gharial alone. National aquatic animal = **dolphin**, not gharial.
@@ -310,7 +310,7 @@ D. Only 1
 
 ## 7.7 Rhino Conservation
 
-**Identity:** Greater one-horned rhino | Kaziranga largest | IRV 2020 | Dudhwa UP site
+**Identity:** Greater one-horned rhino | Kaziranga (काजीरंगा) largest | IRV 2020 | Dudhwa UP site
 
 - The **Greater One-Horned Rhinoceros** (*Rhinoceros unicornis*) lives in Terai and Brahmaputra floodplain grasslands.
 - **Kaziranga National Park** (Assam) holds the **largest rhino population** (~2,600+).
@@ -330,11 +330,11 @@ D. Only 1
 **Identity:** Project Snow Leopard 2009 | GSLEP 2013 | Himalaya only | 500–700 in India
 
 - The **snow leopard** (*Panthera uncia*) lives at **3,000–5,400 m** in the Himalayas and trans-Himalayas.
-- India has an estimated **500–700 snow leopards** across Ladakh, HP, Uttarakhand, Sikkim, Arunachal Pradesh, and J&K.
+- India has an estimated **500–700 snow leopards** across Ladakh (लद्दाख), HP, Uttarakhand (उत्तराखंड), Sikkim, Arunachal Pradesh, and J&K.
 - **Project Snow Leopard** was launched in **2009** to strengthen high-altitude protected area management.
-- **GSLEP (Global Snow Leopard & Ecosystem Protection Programme)** was launched in **2013** by **12 range countries**.
-- **Hemis National Park** in Ladakh is a key snow leopard habitat.
-- **SECURE Himalaya** is a UNDP-GEF project for high-altitude biodiversity in Himachal, Uttarakhand, Sikkim, and Ladakh.
+- **GSLEP (Global Snow Leopard & Ecosystem (पारिस्थितिकी तंत्र) Protection Programme)** was launched in **2013** by **12 range countries**.
+- **Hemis National Park** (हेमिस) in Ladakh is a key snow leopard habitat.
+- **SECURE Himalaya** is a UNDP-GEF project for high-altitude biodiversity in Himachal (हिमाचल), Uttarakhand, Sikkim, and Ladakh.
 - The snow leopard is an **umbrella species** for alpine ecosystems.
 - **International Snow Leopard Day** is **23 October**.
 - The snow leopard is **WPA Schedule I**.
@@ -350,7 +350,7 @@ D. Only 1
 - **Vultures** are keystone scavengers that quickly remove carcasses and limit disease spread.
 - India lost about **99% of its vultures** between the 1980s and 2007 — one of the fastest avian declines on record.
 - **BNHS research (2003)** identified **diclofenac**, a veterinary NSAID given to cattle, as the main cause of vulture renal failure.
-- **Veterinary diclofenac was banned in 2006**. **Meloxicam** is promoted as a safe alternative.
+- **Veterinary diclofenac was banned in 2006**. **Meloxicam** (मेलोक्सिकैम) is promoted as a safe alternative.
 - The **Action Plan for Vulture Conservation 2006** has four pillars: ban toxic drugs, breeding centres, Vulture Safe Zones, and monitoring.
 - **Vulture Safe Zones** are roughly **100 km radius** areas where diclofenac use is eliminated.
 - Captive breeding centres operate at **Pinjore** (Haryana), **Rajabhatkhawa** (West Bengal), **Rani** (Assam), and **Bhopal** (MP).

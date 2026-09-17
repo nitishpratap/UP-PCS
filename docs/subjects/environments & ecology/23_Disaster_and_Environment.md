@@ -1,10 +1,10 @@
-# Topic 23 — Disaster & Environment
+# Topic 23 — Disaster & Environment (पर्यावरण)
 ### ★ UPPCS Revision Sheet — Lucent-style (no repetition · Practice ≥25)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Floods | Drought | Landslides | Cyclones | Heat Waves | Forest Fires
+Floods | Drought (सूखा) | Landslides | Cyclones | Heat Waves | Forest Fires
 
 </details>
 
@@ -16,24 +16,24 @@ Floods | Drought | Landslides | Cyclones | Heat Waves | Forest Fires
 
 ## Current Affairs (this topic)
 
-- Flood / landslide / heat-wave seasons refresh disaster–environment CA for UP–Himalaya.
+- Flood / landslide / heat-wave seasons refresh disaster–environment CA for UP–Himalaya (हिमालय).
 - Sendai Framework year (**2015**) stays fixed — link hazards to land-use and climate stress.
 
 ---
 
 ## Consolidated — 24 Must-Score Facts
 
-1. Environmental degradation raises disaster risk (deforestation worsens floods and landslides). Disasters also damage ecosystems through erosion, pollution, and forest loss.
-2. Flood types include riverine floods on the Ganga plains, flash floods/cloudbursts in Himalaya–Terai, and urban waterlogging. UP river facts include Ganga, Yamuna, Ghaghara, Rapti, and Gandak.
-3. **NDMA** is under the Disaster Management Act **2005**. The **Prime Minister** chairs NDMA. **NDRF** is the response force. Sendai Framework for disaster risk reduction is **2015**.
+1. Environmental degradation (पर्यावरणीय क्षरण) raises disaster risk (deforestation worsens floods and landslides). Disasters also damage ecosystems through erosion, pollution, and forest loss.
+2. Flood types include riverine floods on the Ganga (गंगा) plains, flash floods/cloudbursts in Himalaya–Terai (तराई), and urban (नगरीय) waterlogging. UP river facts include Ganga, Yamuna (यमुना), Ghaghara (घाघरा), Rapti (राप्ती), and Gandak (गंडक).
+3. **NDMA** (आपदा प्राधिकरण) is under the Disaster Management Act **2005**. The **Prime Minister** chairs NDMA. **NDRF** is the response force. Sendai Framework for disaster risk reduction is **2015**.
 4. Drought progresses from **meteorological** (low rain) to **agricultural** (soil moisture) to **hydrological** (rivers and wells). Bundelkhand’s seven UP districts are a chronic drought hotspot.
-5. **DPAP** (Drought Prone Areas Programme) is **1973**. Do not date DPAP as **1952**. A rough programme spine is CDP 1952 → DPAP 1973 → FWP 1977 → TRYSEM 1979.
-6. Landslides need gravity, water, weak slopes, and often vegetation loss. Himalaya and north-eastern hills are core belts. Kedarnath **2013** is the cloudburst–landslide–flood chain fact. Roads, mining, and deforestation are human triggers.
-7. Tropical cyclones need warm seas around **26–27°C**. The **Bay of Bengal** produces more than the Arabian Sea. The **eye** is calm; the **eyewall** has the strongest winds; **storm surge** is the coastal flood killer.
+5. **DPAP** (Drought Prone Areas Programme) is **1973**. Do not date DPAP as **1952**. A rough programme spine is CDP (सीडीपी) 1952 (सामुदायिक विकास) → DPAP 1973 → FWP 1977 → TRYSEM 1979.
+6. Landslides need gravity, water, weak slopes, and often vegetation loss. Himalaya and north-eastern hills are core belts. Kedarnath (केदारनाथ) **2013** is the cloudburst–landslide–flood chain fact. Roads, mining, and deforestation are human triggers.
+7. Tropical cyclones need warm seas around **26–27°C**. The **Bay of Bengal** produces more than the Arabian Sea. The **eye** is calm; the **eyewall** has the strongest winds; **storm surge** (तूफानी महोर्मि) is the coastal flood killer.
 8. Mangroves reduce storm-surge damage. Named cyclone memory often uses Fani (**2019**) and Amphan (**2020**).
 9. IMD plains heat-wave idea: about **≥40°C** with departure **+4.5°C to +6.4°C** as heat wave; severe when departure is **≥+6.4°C** or temperature **≥47°C**. Peak is May–June in North India. Urban heat island amplifies cities but is not identical to a heat-wave definition.
 10. Forest fires need fuel, oxygen, and ignition. Peak season is roughly March–June. Chir pine needles are a Himalayan fuel fact. FSI issues satellite fire alerts.
-11. **Piral Lao–Paise Pao** in Uttarakhand pays for pine-needle collection to cut fire risk and raise income. It is an Uttarakhand flagship, not a default UP scheme name.
+11. **Piral Lao–Paise Pao** in Uttarakhand (उत्तराखंड) pays for pine-needle collection to cut fire risk and raise income. It is an Uttarakhand flagship, not a default UP scheme name.
 12. NDMA Chair = Prime Minister — a recurring institution fact.
 13. Eye ≠ strongest winds. Eyewall holds the violence; eye is the calm core.
 14. Landslides are not “purely natural” when options ignore slope cutting and deforestation.
@@ -41,7 +41,7 @@ Floods | Drought | Landslides | Cyclones | Heat Waves | Forest Fires
 16. DPAP year is **1973**, not the older CDP **1952** tag.
 17. Cloudburst is extreme local rain in a short time — often the Himalayan flood trigger neighbour to landslides.
 18. Storm surge is sea pushed ashore by cyclone winds — distinct from ordinary astronomical tide.
-19. Meteorological drought is rainfall failure; agricultural drought is crop-moisture failure; hydrological drought is stream/groundwater failure. Keep the sequence.
+19. Meteorological drought (मौसमी (मौसम विज्ञान) सूखा) is rainfall failure; agricultural drought (कृषि सूखा) is crop-moisture failure; hydrological drought (जल-वैज्ञानिक सूखा) is stream/groundwater failure. Keep the sequence.
 20. Sendai **2015** is the global DRR framework fact beside India’s NDMA architecture.
 21. Forest-fire season and chir-pine fuel matter more in Uttarakhand hills than in deep Gangetic floodplain districts.
 22. Cyclone naming and Bay of Bengal dominance are coastal facts; UP’s disaster map is flood–drought–heat first.
@@ -89,17 +89,17 @@ Floods | Drought | Landslides | Cyclones | Heat Waves | Forest Fires
 - **UP flood rivers:** Ganga, Yamuna, Ghaghara (Saryu), Rapti, Gandak, Gomti** — monsoon inundation of the Gangetic floodplain.
 - **Human amplification:** floodplain encroachment, embankments that raise silted beds, and **deforestation** in catchments that speeds runoff.
 - **Terai flash risk:** Himalayan/Nepal-side catchments can inundate **Pilibhit, Lakhimpur Kheri, Bahraich** rapidly after extreme rain.
-- **Natural flood benefit:** controlled flooding deposits **alluvial silt** that renews soil fertility — the problem is uncontrolled flooding of encroached zones.
-- **Institutions:NDMA (Disaster Management Act 2005)** — **Prime Minister** is Ex-officio Chair; **NDRF** for response; **IMD/CWC** for forecasting; **Sendai Framework 2015** for disaster risk reduction.
+- **Natural flood benefit:** controlled flooding deposits **alluvial (जलोढ़) silt** that renews soil fertility — the problem is uncontrolled flooding of encroached zones.
+- **Institutions:NDMA (Disaster Management Act 2005)** — **Prime Minister** is Ex-officio Chair; **NDRF** for response; **IMD/CWC (केंद्रीय जल आयोग)** for forecasting; **Sendai Framework 2015** for disaster risk reduction.
 - **Mitigation:** floodplain zoning, wetland restoration (natural sponges), catchment afforestation, early warning.
 
 | Type | Speed | UP example |
 |------|-------|------------|
-| Riverine | Days–weeks | Ganga at Prayagraj/Varanasi |
+| Riverine | Days–weeks | Ganga at Prayagraj (प्रयागराज)/Varanasi (वाराणसी) |
 | Flash | Hours | Terai foothills |
-| Urban | Hours | Lucknow, Kanpur waterlogging |
+| Urban | Hours | Lucknow (लखनऊ), Kanpur (कानपुर) waterlogging |
 
-> **Logic:** Floods are India's most frequent disaster by affected population — not limited to coastal states.
+> **Logic:** Floods are India's most frequent disaster by affected population (जनसंख्या) — not limited to coastal states.
 
 ---
 
@@ -112,7 +112,7 @@ Floods | Drought | Landslides | Cyclones | Heat Waves | Forest Fires
 - **Agricultural drought:** soil moisture insufficient for crops (even if some rain occurs).
 - **Hydrological drought:** rivers, lakes, and groundwater below normal after prolonged dry spell.
 - Sequence often runs meteorological → agricultural → hydrological.
-- **Bundelkhand (UP):** seven districts — **Jhansi, Lalitpur, Jalaun, Banda, Hamirpur, Mahoba, Chitrakoot** — chronic drought–desertification hotspot.
+- **Bundelkhand (UP):** seven districts — **Jhansi (झांसी), Lalitpur, Jalaun, Banda, Hamirpur, Mahoba, Chitrakoot (चित्रकूट)** — chronic drought–desertification (मरुस्थलीकरण) hotspot.
 - **Drought Prone Areas Programme (DPAP)** launched in **1973** — soil conservation, water harvesting, afforestation in dryland districts.
 - Chronology fact s: **CDP 1952 → DPAP 1973 → Food for Work 1977 → TRYSEM 1979**.
 - **Feedback loop:** drought kills vegetation → soil exposed → erosion → worse water retention → next drought worse.
@@ -152,13 +152,13 @@ D. 4, 2, 1, 3
 
 **Cause:** Extreme rainfall / cloudburst over fragile Himalayan slopes, plus prior slope weakening from roads, settlement, and vegetation stress, set up a mass-wasting cascade near Kedarnath (Uttarakhand).
 
-**Course:** Cloudburst triggered landslides and debris flows that choked and then released flash flood water through the Mandakini corridor — a hydrometeorological + mass-movement chain, not a pure earthquake or tsunami frame.
+**Course:** Cloudburst triggered landslides and debris flows that choked and then released flash flood water through the Mandakini (मंदाकिनी) corridor — a hydrometeorological + mass-movement chain, not a pure earthquake or tsunami (सुनामी) frame.
 
 **Result:** Catastrophic loss of life and infrastructure; became the national teaching case for environment–disaster coupling in the Himalaya. Downstream landslide-dam and flood risk also matters for Terai plains including UP.
 
 - **Human triggers:** deforestation (roots bind soil), road cutting/blasting, unplanned hillside construction, mining — landslides are **not purely natural**.
 - **Earthquake link:** Himalayan seismic shaking can trigger widespread mass failures.
-- **Downstream risk:** landslide debris can dam rivers; dam-break floods then hit plains including UP Terai.
+- **Downstream risk:** landslide debris can dam (दाम -) rivers; dam-break floods then hit plains including UP Terai.
 - **Mitigation:** bio-engineering, retaining walls, afforestation, land-use zoning on steep slopes, GSI hazard zonation maps.
 
 > **Logic:** "Landslides are purely natural — humans play no role" = **FALSE**.
@@ -174,9 +174,9 @@ D. 4, 2, 1, 3
 - **Eye:** calm, clear, low-pressure centre. **Eyewall:** ring of **strongest winds and rain** around the eye. Trap: strongest winds are **not** in the eye.
 - **Storm surge:** cyclone winds push seawater onshore — often deadlier than wind on flat coasts (Odisha, WB, Bangladesh).
 - **Bay of Bengal** produces **more frequent and intense** cyclones than the **Arabian Sea** (warmer, shallower, moister waters).
-- East-coast states most hit: Odisha, West Bengal, Andhra Pradesh, Tamil Nadu. UP gets rain remnants, not landfall.
+- East-coast states most hit: Odisha, West Bengal, Andhra Pradesh, Tamil Nadu (नाडु). UP gets rain remnants, not landfall.
 - Regional names: **cyclone** (Indian Ocean), **hurricane** (Atlantic), **typhoon** (NW Pacific), **Willy-Willies** (Australia), **Baguios** (Philippines).
-- **Mangroves** (e.g. Sundarbans) absorb surge energy — coastal buffer. Deforestation of mangroves increases damage.
+- **Mangroves** (e.g. Sundarbans (सुंदरबन)) absorb surge energy — coastal buffer. Deforestation of mangroves increases damage.
 - Recent named storms: **Amphan (2020)**, **Fani (2019)**, **Hudhud (2014)**, **Yaas (2021)** — IMD names North Indian Ocean cyclones.
 
 **PYQ — UPPCS Prelims 2018 pattern**
@@ -202,14 +202,14 @@ Natural disasters cause max damage in developing countries; Bhopal was man-made;
 
 **Identity:** IMD thresholds | Urban heat island | May–June peak | Climate frequency rise
 
-- A **heat wave** is a prolonged period of abnormally high temperature relative to the location's normal.
-- **IMD plains criteria:** maximum temperature **≥40°C** with departure **+4.5°C to +6.4°C** = heat wave; departure **≥+6.4°C** or absolute temp **≥47°C** = **severe heat wave**.
+- A **heat wave** is a prolonged period of abnormally high temperature relative (सापेक्ष) to the location's normal.
+- **IMD plains criteria:** maximum temperature **≥40°C** with departure **+4.5°C to +6.4°C** = heat wave; departure **≥+6.4°C** or absolute (निरपेक्ष) temp **≥47°C** = **severe heat wave**.
 - **Urban heat island:** cities stay hotter than surrounding rural areas due to concrete, asphalt, waste heat, and lost greenery — amplifies heat-wave mortality.
 - UP hotspots: **Kanpur, Lucknow, Agra, Ghaziabad, Noida** — peak stress in **May–June** pre-monsoon.
-- **Climate link:** warming makes heat waves more frequent, longer, and hotter (IPCC AR6).
+- **Climate link:** warming makes heat waves more frequent, longer, and hotter (IPCC (आईपीसीसी) AR6).
 - **Compound risk:** heat + drought raises crop failure and forest-fire fuel dryness; heat + power surge risks blackouts.
 - **Health:** heatstroke, dehydration — elderly, outdoor workers, children most vulnerable.
-- **Adaptation:** cool roofs, urban greening, IMD heat warnings, Heat Action Plans (Ahmedabad model).
+- **Adaptation:** cool roofs, urban greening, IMD heat warnings, Heat Action Plans (Ahmedabad (अहमदाबाद) model).
 
 | Feature | Heat wave | Urban heat island |
 |---------|-----------|-------------------|
@@ -227,7 +227,7 @@ Natural disasters cause max damage in developing countries; Bhopal was man-made;
 
 - A **forest fire** is uncontrolled fire through forest vegetation — needs **fuel + oxygen + ignition**.
 - **Surface fire** burns litter/grass; **crown fire** burns canopy (most destructive); **ground fire** smoulders in organic soil.
-- **Chir pine** forests (Uttarakhand, Himachal) accumulate **dry pine needles** — major summer fuel load.
+- **Chir pine** forests (Uttarakhand, Himachal (हिमाचल)) accumulate **dry pine needles** — major summer fuel load.
 - Peak season: **March–June** before monsoon rains.
 - Human causes dominate: pasture burning, negligence, arson — not only lightning.
 - **Environmental damage:** biodiversity loss, soil organic matter destruction, erosion, **PM2.5 smoke**, CO₂ release; post-fire slopes raise landslide/flood risk.
@@ -252,7 +252,7 @@ D. Both 1 and 2
 
 </details>
 
-> **Logic:** Piral Lao = **Uttarakhand** pine-needle campaign — not a UP state flagship scheme.
+> **Logic:** Piral Lao = **Uttarakhand** (उत्तराखंड) pine-needle campaign — not a UP state flagship scheme.
 
 ---
 

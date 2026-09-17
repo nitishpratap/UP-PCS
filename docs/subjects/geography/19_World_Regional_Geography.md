@@ -33,23 +33,23 @@ None mandatory — static political-map chapter.
 1. Continent area order: **Asia > Africa > North America > South America > Antarctica > Europe > Australia/Oceania**.
 2. The **Nobi** and **Kanto** plains are in **Japan**, not Korea.
 3. Iraq’s **Sunni Triangle** is **Baghdad, Tikrit, and Ramadi**. **Basra** (Shia south) is the trap.
-4. West Asia mountains west to east: **Pontic → Zagros → Hindu Kush → Karakoram**.
+4. West Asia mountains west to east: **Pontic → Zagros → Hindu Kush → Karakoram (काराकोरम)**.
 5. Central Asia capitals: Uzbekistan **Tashkent**, Tajikistan **Dushanbe**, Kyrgyzstan **Bishkek**, Turkmenistan **Ashgabat**, Kazakhstan **Astana**.
 6. The **Kara Kum** desert is in **Turkmenistan**.
 7. **Borneo** is shared by Indonesia, Malaysia, and Brunei and is **not** a volcanic island dump.
-8. Philippines cane and coconut history fact: **Spanish and Americans**.
+8. Philippines cane and coconut history (इतिहास) fact: **Spanish and Americans**.
 9. Korea: **Seoul** south, **Pyongyang** north, roughly the **38th parallel**. Nobi/Kanto are not Korean plains.
-10. Palestine map: **Gaza** on the Egypt side, **West Bank** on the Jordan side, with the **Jordan River / Dead Sea** belt. Neighbours include Israel, Jordan, Egypt, Lebanon, and Syria.
+10. Palestine map: **Gaza** on the Egypt (मिस्र) side, **West Bank** on the Jordan side, with the **Jordan River / Dead Sea** belt. Neighbours include Israel, Jordan, Egypt, Lebanon, and Syria.
 11. Western Europe has **westerlies** and rain in **all months**.
 12. The **Suez Canal** shortened the India–Europe sea route by about **7000 km**.
 13. **Cape Verde**’s capital is **Praia**. **Bamako** is Mali’s capital — do not swap them.
 14. Maghreb capitals: Morocco **Rabat**, Algeria **Algiers**, Tunisia **Tunis**.
-15. Brazil points: **Selva** rainforest and **Terra Roxa** coffee soil are both true.
+15. Brazil points: **Selva** (सेल्वा) rainforest and **Terra Roxa** coffee soil are both true.
 16. Australia’s **interior is desert**. The **north is tropical**, not temperate. The **Darling Range** lies in **south-west** Australia.
-17. India’s operational Antarctic stations are **Maitri** and **Bharati**. **Dakshin Gangotri** is not the operational answer.
+17. India’s operational Antarctic stations are **Maitri** and **Bharati**. **Dakshin Gangotri (गंगोत्री)** is not the operational answer.
 18. **Madeira** is Atlantic Portugal and is **not** Caribbean.
-19. Indonesia west to east: **Sumatra → Java → Bali → Lombok**.
-20. The **Mekong** delta is in **southern Vietnam**, not Cambodia.
+19. Indonesia west to east: **Sumatra → Java → Bali (बलि) → Lombok**.
+20. The **Mekong** delta (डेल्टा) is in **southern Vietnam**, not Cambodia.
 21. South America’s landlocked pair is **Bolivia** and **Paraguay**. Uruguay, Peru, and Suriname have coasts.
 22. **Igarka** is in **Russia**, not China.
 23. New Zealand’s capital is **Wellington**. NZ has North and South Islands with **Cook Strait** and is **not** an Australian state.
@@ -164,7 +164,7 @@ Asia is the **largest** continent. splits: **East / SE / South / West / Central 
 
 **Equator in Asia:** Indonesia (Sumatra, Kalimantan, Sulawesi), Maldives fringe — **not** India, **not** China.
 
-**Tropic of Cancer:** India, Bangladesh, Myanmar, China, Taiwan, UAE/Oman fringe, Saudi, Egypt (Africa).
+**Tropic of Cancer (कर्क रेखा):** India, Bangladesh, Myanmar, China, Taiwan, UAE/Oman fringe, Saudi, Egypt (Africa).
 
 | East Asia | Capital | Physical fact |
 |-----------|---------|---------------|
@@ -174,19 +174,19 @@ Asia is the **largest** continent. splits: **East / SE / South / West / Central 
 | **Taiwan** | Taipei | Off Fujian; not Caribbean |
 | **North / South Korea** | See **N.5** | Peninsula — not the Japanese plains |
 
-**Siberia / Asian Russia** runs from the Urals to the Pacific. The Yenisei port **Igarka** is in **Russia**, not China (2023 port trap). Vladivostok faces the Pacific. Lake Baikal sits in Siberia.
+**Siberia / Asian Russia** runs from the Urals to the Pacific. The Yenisei port (बंदरगाह) **Igarka** is in **Russia**, not China (2023 port trap). Vladivostok faces the Pacific. Lake Baikal sits in Siberia.
 
 ### South Asia (India’s neighbourhood as a *region*)
 
 | Country | Capital | Fact |
 |---------|---------|------|
 | India | New Delhi | Peninsula; Tropic |
-| Pakistan | Islamabad | Indus; Karachi ≠ capital |
-| Nepal | Kathmandu | **Landlocked**; Himalaya |
+| Pakistan | Islamabad | Indus (सिंधु); Karachi ≠ capital |
+| Nepal | Kathmandu | **Landlocked**; Himalaya (हिमालय) |
 | Bhutan | Thimphu | **Landlocked** |
-| Bangladesh | Dhaka | Ganga–Brahmaputra delta |
+| Bangladesh | Dhaka | Ganga (गंगा)–Brahmaputra (ब्रह्मपुत्र) delta |
 | Sri Lanka | Sri Jayawardenepura Kotte / Colombo | Island; Palk Strait |
-| Maldives | Malé | Atolls; equator-near |
+| Maldives | Mal (माल)é | Atolls; equator-near |
 | Afghanistan | Kabul | Landlocked hinge to West/Central Asia; Hindu Kush |
 
 India’s usual **land** neighbours are **Pakistan, China, Nepal, Bhutan, Myanmar and Bangladesh**. Some lists also add **Afghanistan** (via PoK). **Sri Lanka and Maldives are sea neighbours.**
@@ -218,7 +218,7 @@ D. China
 
 ## N.2 West Asia
 
-**West Asia / Middle East** (map): Turkey, Iran, Levant, Arabian Peninsula, Iraq, Gulf states. **Maghreb** (NW Africa) is often paired in “Arab world” MCQs but sits on the **Africa** card.
+**West Asia / Middle East** (map): Turkey, Iran, Levant (लेवेंट), Arabian Peninsula, Iraq, Gulf states. **Maghreb** (NW Africa) is often paired in “Arab world” MCQs but sits on the **Africa** card.
 
 **Mountains, west → east**
 
@@ -227,7 +227,7 @@ D. China
 | 1 | **Pontic** | North **Turkey**, Black Sea coast |
 | 2 | **Zagros** | Western **Iran** (Iraq border) |
 | 3 | **Hindu Kush** | **Afghanistan** |
-| 4 | **Karakoram** | Pakistan–China |
+| 4 | **Karakoram** (काराकोरम) | Pakistan–China |
 
 **Iraq — Sunni Triangle**
 
@@ -324,7 +324,7 @@ The five “stans” plus Kazakhstan’s size define this desk. The **Caspian** 
 | **Tajikistan** | **Dushanbe** | Pamir knot |
 | **Kyrgyzstan** | **Bishkek** | Tien Shan |
 | **Turkmenistan** | **Ashgabat** | **Kara Kum / Karakum** desert (2022) |
-| **Kazakhstan** | **Astana** (Nur-Sultan was the 2019–22 name) | Steppe; **not** Kara Kum |
+| **Kazakhstan** | **Astana** (Nur-Sultan was the 2019–22 name) | Steppe (स्टेपी); **not** Kara Kum |
 
 2019 Q2 listed UZB–TJK–KGZ–TKM against Tashkent–Dushanbe–Bishkek–Ashgabat in that order .
 
@@ -358,7 +358,7 @@ D. 1 4 2 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — All four are the standard pairs in listed order. Trap **B** swaps Bishkek and Ashgabat.
+**Ans: A** — All four (चातुर्याम) are the standard pairs in listed order. Trap **B** swaps Bishkek and Ashgabat.
 
 </details>
 
@@ -457,7 +457,7 @@ D. Spanish and Americans
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Spanish colony, then US period. Dutch = Indonesia; British = Malaya/India; French = Indochina.
+**Ans: D** — Spanish colony (उपनिवेश), then US period. Dutch = Indonesia; British = Malaya/India; French = Indochina.
 
 </details>
 
@@ -547,14 +547,14 @@ Do not park Nobi or Kanto on the Korean card.
 
 ## N.6 Palestine
 
-Map unit the paper still uses: **historic Palestine / Israel–Palestine**.
+Map unit the paper still uses: **historic (ऐतिहासिक) Palestine / Israel–Palestine**.
 
 | Piece | Fact |
 |-------|------|
 | **Gaza Strip** | Mediterranean coast; borders **Egypt** + Israel |
 | **West Bank** | West of Jordan River; borders **Jordan** + Israel |
 | **Jordan River** | Sea of Galilee → **Dead Sea** (no ocean outlet) |
-| **Dead Sea** | Israel–Jordan; lowest land, saline |
+| **Dead Sea** | Israel–Jordan; lowest land, saline (लवणीय) |
 | **Jerusalem** | Claimed capital; Old City holy sites |
 | **Ramallah** | West Bank administrative centre often in news |
 
@@ -678,7 +678,7 @@ Sahara splits **Mediterranean Maghreb** (north) from **sub-Saharan** Africa.
 | **Maghreb** | Morocco, Algeria, Tunisia, Libya (+ Western Sahara disputed) |
 | **Sahel** | Senegal–Mauritania–Mali–Burkina–Niger–Chad–Sudan fringe **south of Sahara** |
 | **Horn** | **Ethiopia, Somalia, Eritrea, Djibouti**. Ethiopia became **landlocked** after **Eritrea** (1993) took the Red Sea |
-| **West Africa** | Nigeria (Abuja, not Lagos as capital), Ghana (Accra), Senegal (Dakar), Mali (**Bamako**) |
+| **West Africa** | Nigeria (Abuja, not Lagos as capital), Ghana (घन) (Accra), Senegal (Dakar), Mali (**Bamako**) |
 | **Central** | DRC (Kinshasa), Congo-Brazzaville, Cameroon, CAR |
 | **East** | Kenya (Nairobi), Tanzania (Dodoma; Dar es Salaam = port), Uganda (Kampala, landlocked) |
 | **Southern** | South Africa (Cape Town / Pretoria / Bloemfontein — **three capitals**), Namibia, Botswana (**landlocked**), Zimbabwe (**landlocked**), Zambia (**landlocked**), Mozambique (coast) |
@@ -737,7 +737,7 @@ D. Cape Verde – Bamako
 | **Mexico** | Mexico City | Plateau; Yucatan; Gulf of Mexico |
 | **Greenland** | Nuuk | **Denmark**; largest **island**, not a US state |
 
-**Great Lakes (west → east):** Superior → Michigan → Huron → Erie → Ontario → St Lawrence. **Lake Michigan** lies wholly in the USA. The others are shared by the USA and Canada.
+**Great Lakes (west → east):** Superior → Michigan → Huron → Erie → Ontario → St Lawrence (लॉरेंस). **Lake Michigan** lies wholly in the USA. The others are shared by the USA and Canada.
 
 **Central America** has seven states: Guatemala, Belize, Honduras, El Salvador, Nicaragua, Costa Rica and **Panama**. The Panama Canal joins the Atlantic and Pacific **with stepped chambers**. Panama is **not** a South American country.
 
@@ -827,7 +827,7 @@ Australia is an island-continent. The **Tropic of Capricorn** cuts it. The inter
 | **South-west** | **Darling Range** (Perth / WA) — 2020 |
 | **East** | **Great Dividing Range**; Sydney, Brisbane |
 | **North-east** | Great Barrier Reef; tropical Queensland |
-| **North** | **Tropical** (monsoon / savanna) — **not temperate** |
+| **North** | **Tropical** (monsoon / savanna (सवाना)) — **not temperate** |
 | **South** | Melbourne, Adelaide; more temperate |
 | **Tasmania** | South of Bass Strait |
 
@@ -932,11 +932,11 @@ Maitri is still **operational**.
 
 Bharati is still **operational**.
 
-India’s permanent **operational** pair is **Maitri + Bharati**.
+India’s permanent **operational** pair is **Maitri + Bharati** (मैत्री).
 
 **Arya** is a fake station name.
 
-**Himadri** is India’s **Arctic** station in Svalbard. It is **not** Antarctic.
+**Himadri** (हिमाद्रि) is India’s **Arctic** station in Svalbard. It is **not** Antarctic.
 
 **Inline PYQ — UPPCS Prelims 2021, Q53**
 

@@ -1,4 +1,4 @@
-# Topic 12 — Acid Rain
+# Topic 12 — Acid Rain (अम्ल वर्षा)
 ### ★ UPPCS Revision Sheet — Lucent-style (no repetition · Practice ≥25)
 
 <details>
@@ -17,7 +17,7 @@ Acid Rain | Causes | Effects | Prevention
 ## Current Affairs (this topic)
 
 - Acid-rain CA is rare; keep SO₂ / NOₓ chemistry and dry vs wet deposition stable.
-- Do not confuse acid rain with ozone hole or greenhouse trapping.
+- Do not confuse acid rain with ozone hole (ओजोन छिद्र) or greenhouse trapping.
 
 ---
 
@@ -35,18 +35,18 @@ Acid Rain | Causes | Effects | Prevention
 10. Conifers are especially sensitive forest receptors. Marble and limestone monuments form a **gypsum crust** (CaSO₄) under sulphuric attack — the Taj story.
 11. **Lichens** die in high SO₂ and act as pollution bio-indicators.
 12. Prevention tools include **FGD scrubbers** (lime/limestone), catalytic converters, low-sulphur coal, CNG/LPG switches, and **BS-VI** fuel (about **10 ppm** sulphur).
-13. The **Gothenburg Protocol (1999)** under **CLRTAP (1979)** cuts transboundary acidifying emissions.
-14. Treaty trap: Gothenburg/CLRTAP = acidifying air pollution; Montreal = ozone; Kyoto = climate GHGs.
-15. The **Taj Trapezium Zone** is about **10,400 km²** around the Taj Mahal, strengthened by Supreme Court orders from **1996**.
-16. **Mathura refinery** is a classic SO₂ source in the Taj Trapezium narrative.
-17. The **Singrauli–Sonbhadra** coal TPP belt is a major UP–MP SO₂ source region.
-18. UP NCAP cities linked to acidifying/urban air pressure include Kanpur, Ghaziabad, Lucknow, and Noida.
+13. The **Gothenburg Protocol (1999)** (गोथेनबर्ग प्रोटोकॉल) under **CLRTAP (1979)** cuts transboundary acidifying emissions.
+14. Treaty trap: Gothenburg/CLRTAP = acidifying air pollution; Montreal = ozone; Kyoto (क्योटो) = climate GHGs.
+15. The **Taj Trapezium Zone** is about **10,400 km²** around the Taj Mahal (ताज महल), strengthened by Supreme Court orders from **1996**.
+16. **Mathura (मथुरा) refinery** is a classic SO₂ source in the Taj Trapezium narrative.
+17. The **Singrauli–Sonbhadra (सोनभद्र)** coal TPP belt is a major UP–MP SO₂ source region.
+18. UP NCAP (राष्ट्रीय स्वच्छ वायु कार्यक्रम) cities linked to acidifying/urban (नगरीय) air pressure include Kanpur (कानपुर), Ghaziabad, Lucknow (लखनऊ), and Noida.
 19. SO₂ is denser than air — a physical property sometimes used in distractors.
 20. Acid rain is **not** “rain only”; dry deposition counts too.
 21. Secondary pollutants H₂SO₄ and HNO₃ form in the atmosphere from primary SO₂ and NOx.
 22. FGD is flue-gas desulphurisation at power-plant chimneys — a mitigation hardware fact, not a treaty name.
 23. Calling CO₂ the chief severe acid-rain driver is wrong; SO₂ and NOx are the pair.
-24. Montreal Protocol does **not** control acid rain. Keep ozone chemistry out of acid-rain treaty options.
+24. Montreal Protocol (मॉन्ट्रियल प्रोटोकॉल) does **not** control acid rain. Keep ozone chemistry out of acid-rain treaty options.
 
 ---
 
@@ -69,7 +69,7 @@ Acid Rain | Causes | Effects | Prevention
 | Item | Lock |
 |------|------|
 | Acid rain pH | Below **5.6** |
-| Normal rain | ~pH **5.6** from CO₂ → H₂CO₃ (≠ 7) |
+| Normal rain (सामान्य वर्षा) | ~pH **5.6** from CO₂ → H₂CO₃ (≠ 7) |
 | Wet / Dry | Rain–snow–fog / gases–particles without rain |
 | SO₂ / NOx paths | → H₂SO₄ (TPPs) / → HNO₃ (vehicles) |
 | CO₂ role | Sets 5.6 baseline — **not** main severe-acid culprit |
@@ -83,7 +83,7 @@ Acid Rain | Causes | Effects | Prevention
 
 **Identity:** pH < 5.6 | H₂SO₄ + HNO₃ | Wet + dry deposition | Secondary pollutant
 
-- **Acid rain** is precipitation or atmospheric deposition with **pH below 5.6**, mainly from **sulphuric acid (H₂SO₄)** and **nitric acid (HNO₃)**.
+- **Acid rain** is precipitation or atmospheric deposition with **pH below 5.6**, mainly from **sulphuric acid (H₂SO₄)** and **nitric acid (HNO₃)** (नाइट्रिक अम्ल).
 - **Normal unpolluted rain** has pH about **5.6**, not 7, because atmospheric **CO₂** forms weak **carbonic acid (H₂CO₃)**.
 - Anthropogenic acid rain often reaches **pH 4.0–4.5** in heavily industrial downwind areas.
 - The **pH scale** runs 0–14. **pH 7 is neutral**. **Below 7 is acidic**. **Above 7 is basic/alkaline**.
@@ -246,7 +246,7 @@ D. Only 1
 - **Catalytic converters** in vehicles convert **NO to N₂** and reduce **NOx** that forms nitric acid.
 - **BS-VI norms (2020)** brought **10 ppm sulphur** in petrol and diesel, cutting both SO₂ and NOx precursors.
 - **CNG, LPG, and natural gas** produce **negligible SO₂** and lower NOx than coal.
-- **CPCB emission standards** under the Air Act cap SO₂ and NOx from TPPs, cement, steel, and refineries.
+- **CPCB (केंद्रीय प्रदूषण नियंत्रण बोर्ड) emission standards** under the Air Act cap SO₂ and NOx from TPPs, cement, steel, and refineries.
 - **Tall chimneys alone are not prevention** — they only disperse pollution farther.
 - The **Gothenburg Protocol (1999)** under **CLRTAP (1979)** sets binding cuts in SO₂ and NOx for transboundary acid rain control in Europe.
 - **Montreal Protocol controls ozone**, not acid rain — do not confuse treaties.

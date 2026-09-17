@@ -4,8 +4,8 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-**Conferences:** Stockholm 1972 | Brundtland Commission | Rio 1992 | Agenda 21 | SD conferences
-**Treaties:** CBD | UNFCCC | Kyoto | Paris | Montreal | Ramsar | CITES | CMS | Vienna | Basel | Rotterdam | Stockholm POPs | Minamata
+**Conferences:** Stockholm 1972 (स्टॉकहोम सम्मेलन) | Brundtland Commission | Rio 1992 | Agenda 21 | SD conferences
+**Treaties:** CBD | UNFCCC (यूएनएफसीसीसी) | Kyoto (क्योटो) | Paris | Montreal | Ramsar (रामसर) | CITES (साइट्स) | CMS | Vienna | Basel | Rotterdam | Stockholm POPs | Minamata
 
 </details>
 
@@ -25,19 +25,19 @@
 ## Consolidated — 30 Must-Score Facts
 
 1. Conference spine: **Stockholm 1972 → Brundtland 1987 → Rio 1992 → Johannesburg 2002 → Rio+20 2012 → SDGs and Paris 2015**.
-2. **Stockholm 1972** was the first UN Conference on the Human Environment. It led to **UNEP** (Nairobi). World Environment Day is **5 June**. The slogan fact is “Only One Earth.”
+2. **Stockholm 1972** (स्टॉकहोम सम्मेलन) was the first UN Conference on the Human Environment (पर्यावरण). It led to **UNEP** (संयुक्त राष्ट्र पर्यावरण कार्यक्रम) (Nairobi). World Environment Day (विश्व पर्यावरण दिवस) is **5 June**. The slogan fact is “Only One Earth.”
 3. The **Brundtland Report** (**1987**, *Our Common Future*) popularised **sustainable development**. It is **not** *Limits to Growth* (**1972**, Club of Rome).
-4. **Rio 1992** (UNCED) produced the Rio Declaration, **Agenda 21**, Forest Principles, and opened **UNFCCC** and **CBD** for signature. **CITES** is **not** a Rio product — CITES is **1973**.
+4. **Rio 1992** (UNCED) produced the Rio Declaration, **Agenda 21**, Forest Principles, and opened **UNFCCC** (यूएनएफसीसीसी) and **CBD** for signature. **CITES** is **not** a Rio product — CITES is **1973**.
 5. **Agenda 21** is Rio’s non-binding sustainable-development action plan for the twenty-first century. It was **not** signed in 1995.
-6. Climate chain: **UNFCCC 1992 → Kyoto Protocol 1997 → Paris Agreement 2015**. Paris uses universal **NDCs** and the **1.5°C** ambition language.
-7. Ozone chain: **Vienna Convention 1985 → Montreal Protocol 1987 → Kigali Amendment 2016** (HFCs). Montreal is **ozone**, not climate.
-8. Treaty–issue fact: Montreal/Vienna = ozone; Kyoto/Paris/UNFCCC = climate; CBD = biodiversity; Ramsar = wetlands; CITES = wildlife **trade**.
+6. Climate chain: **UNFCCC 1992 → Kyoto Protocol 1997 → Paris Agreement (पेरिस समझौता) 2015**. Paris uses universal **NDCs** and the **1.5°C** ambition language.
+7. Ozone chain: **Vienna Convention 1985 → Montreal Protocol (मॉन्ट्रियल प्रोटोकॉल) 1987 → Kigali Amendment 2016** (HFCs). Montreal is **ozone**, not climate.
+8. Treaty–issue fact: Montreal/Vienna = ozone; Kyoto/Paris/UNFCCC = climate; CBD = biodiversity; Ramsar = wetlands; CITES = wildlife **trade** (पण्याध्यक्ष).
 9. **CMS (Bonn)** covers migratory species. **Basel** covers hazardous **waste**. **Rotterdam** covers hazardous **chemicals** (PIC). **Stockholm POPs** covers persistent organic pollutants. **Minamata** covers **mercury**.
 10. **CBD** has three pillars: conserve biodiversity, sustainable use, and fair benefit-sharing. **Nagoya Protocol (2010)** details access and benefit-sharing.
-11. **Ramsar** (**1971**) is the wetlands treaty under the Wise Use idea. World Wetlands Day is **2 February**.
-12. **CITES** (**1973**, Washington) regulates trade through Appendices **I–III**. IUCN’s Red List assesses extinction risk; CITES regulates trade — different jobs.
+11. **Ramsar** (रामसर) (**1971**) is the wetlands treaty under the Wise Use idea. World Wetlands Day (विश्व आर्द्रभूमि दिवस) is **2 February** (रामसर).
+12. **CITES** (**1973**, Washington) regulates trade through Appendices **I–III**. IUCN (आईयूसीएन)’s Red List assesses extinction risk; CITES regulates trade — different jobs.
 13. **GEF** was established in **1991** on the eve of Rio as a finance mechanism for major environmental conventions.
-14. **UNCCD (1994)** is the sole legally binding convention linking environment, development, and sustainable land management; it stresses bottom-up local participation against desertification.
+14. **UNCCD (1994)** (मरुस्थलीकरण रोकथाम संधि) is the sole legally binding convention linking environment, development, and sustainable land management; it stresses bottom-up local participation against desertification (मरुस्थलीकरण).
 15. The **New York Declaration on Forests (2014)** is a voluntary, non-legally binding political declaration (halve forest loss by 2020 / end by 2030 ambition language); India was **not** an original signatory.
 16. Kyoto set binding targets mainly for developed parties. Paris is a universal NDC architecture. Do not treat them as identical instruments.
 17. Kigali amends Montreal to phase down **HFCs**. It is an ozone-protocol amendment path, not a UNFCCC protocol.
@@ -46,8 +46,8 @@
 20. UNEP was born from Stockholm, not from Rio. Rio opened UNFCCC and CBD.
 21. Paris is **2015**; Kyoto is **1997**; UNFCCC framework is **1992**. Keep the climate chronology straight.
 22. Montreal successful ODS phase-out is often contrasted with slower climate politics — but stems still demand the correct issue tag, not slogans.
-23. Rudrasagar is a **Tripura** Ramsar site. Sultanpur is **Haryana**. Neither is an Uttar Pradesh site.
-24. Uttar Pradesh Ramsar examples include sites such as Nawabganj, Samaspur, Sarsai Nawar, Upper Ganga, Bakhira, and Haiderpur — verify the live list before the paper, but never park Rudrasagar or Sultanpur in UP.
+23. Rudrasagar is a **Tripura** Ramsar site. Sultanpur is **Haryana**. Neither is an Uttar Pradesh (उत्तर प्रदेश) site.
+24. Uttar Pradesh Ramsar examples include sites such as Nawabganj, Samaspur, Sarsai Nawar, Upper Ganga (गंगा), Bakhira, and Haiderpur — verify the live list before the paper, but never park Rudrasagar or Sultanpur in UP.
 25. CBD opened at Rio **1992**; Nagoya ABS is **2010**. Do not date CBD as 2010.
 26. Forest Principles at Rio are non-binding soft law — not the same as CITES appendices.
 27. Johannesburg **2002** and Rio+20 **2012** continue the sustainable-development conference line after Rio; they do not reopen CITES as a 1992 invention.
@@ -97,27 +97,27 @@
 
 **Identity:** UNEP 1972 | SD definition 1987 | Rio triple outcome 1992 | Agenda 21 trap | Earth Summit +5 | Rio+20
 
-- The **Stockholm Conference (1972)** was the first major UN conference on the **human environment**.
-- Its theme was **"Only One Earth"** and it adopted the **Stockholm Declaration** with 26 principles.
+- The **Stockholm Conference (1972)** (स्टॉकहोम सम्मेलन) was the first major UN conference on the **human environment**.
+- Its theme was **"Only One Earth"** and it adopted (अंगीकृत) the **Stockholm Declaration** with 26 principles.
 - Stockholm led to creation of **UNEP** with headquarters in **Nairobi, Kenya**.
 - **World Environment Day** is celebrated on **5 June** every year, marking the Stockholm opening day.
 - The **Brundtland Commission (WCED)** published ***Our Common Future*** in **1987** with the classic **sustainable development** definition.
 - The Brundtland Report is **not** *The Limits to Growth* (Club of Rome, 1972).
-- Chronology often tested: ***Limits to Growth* (1972)** → **Brundtland Report (1987)** → **Montreal Protocol enforcement (January 1989)** → **Rio Earth Summit (June 1992)**.
+- Chronology often tested: ***Limits to Growth* (1972)** → **Brundtland Report (1987)** (ब्रंटलैंड रिपोर्ट) → **Montreal Protocol enforcement (January 1989)** → **Rio Earth Summit (June 1992)**.
 - Montreal was **signed in September 1987**; papers that say “enforcement” mean **January 1989**.
-- The **Rio Earth Summit (1992)** or **UNCED** produced the **Rio Declaration**, opened **UNFCCC** and **CBD** for signature, and adopted **Agenda 21**.
+- The **Rio Earth Summit (1992)** (रियो पृथ्वी शिखर सम्मेलन 1992) or **UNCED** produced the **Rio Declaration**, opened **UNFCCC** and **CBD** for signature, and adopted **Agenda 21**.
 - **Agenda 21** is a non-binding action plan for **sustainable development in the 21st century** — adopted at **Rio 1992**, not 1995.
 - Agenda 21 is a large multi-chapter blueprint (about **40 chapters** in **4 sections** / groupings) — bank stems sometimes say “4 agreements.”
 - **Local Agenda 21** encourages cities and local bodies to prepare their own SD plans.
 - The **Commission on Sustainable Development (CSD)** was created to monitor Earth Summit implementation.
-- **Earth Summit +5** was the UN General Assembly special session held in **New York in June 1997** to review Rio progress.
+- **Earth Summit +5** was the UN General Assembly special session (पंगु सत्र) held in **New York in June 1997** to review Rio progress.
 - **Johannesburg Summit (2002)** was Rio+10 on sustainable development and reaffirmed Agenda 21.
 - **Rio+20 (2012)** — the United Nations Conference on Sustainable Development — reviewed SD progress and produced the outcome document ***The Future We Want***.
-- **PAGE (Partnership for Action on Green Economy)** was created as the UN response to Rio+20’s call for green-economy transitions.
+- **PAGE (Partnership for Action on Green Economy (हरित अर्थव्यवस्था))** was created as the UN response to Rio+20’s call for green-economy transitions.
 - **SDGs were adopted in 2015** at the UN General Assembly.
-- The **Global Environment Facility (GEF)** was established in **1991** on the eve of Rio to finance global environmental projects.
+- The **Global Environment Facility (GEF)** (जीईएफ) was established in **1991** on the eve of Rio to finance global environmental projects.
 - GEF is a financial mechanism for five major conventions: **Minamata** (mercury), **Stockholm POPs**, **CBD**, **UNCCD**, and **UNFCCC**.
-- Key implementing partners include **UNDP**, **UNEP**, and the **World Bank**. GEF also supports tools such as the **Least Developed Countries Fund (LDCF)** for National Adaptation Programmes of Action.
+- Key implementing partners include **UNDP** (यूएनडीपी), **UNEP**, and the **World Bank**. GEF also supports tools such as the **Least Developed Countries Fund (LDCF)** for National Adaptation Programmes of Action.
 
 **PYQ — UPPCS Prelims 2025, Q51**
 
@@ -138,7 +138,7 @@ A. Sustainable Development
 
 B. Polluter Pays
 
-C. Environmental Education
+C. Environmental Education (पर्यावरण शिक्षा)
 
 D. Ozone Layer
 
@@ -178,17 +178,17 @@ Brundtland Report is also known as *The Limits to Growth*?
 
 - The **UNFCCC** was opened for signature at **Rio 1992** to stabilize greenhouse gas concentrations.
 - UNFCCC holds annual **COP** meetings. The secretariat is in **Bonn, Germany**.
-- The **Kyoto Protocol (1997)** set **legally binding emission reduction targets** for **Annex-I (developed) countries**. It entered into force on **16 February 2005**.
+- The **Kyoto Protocol (1997)** (क्योटो प्रोटोकॉल) set **legally binding emission reduction targets** for **Annex-I (developed) countries**. It entered into force on **16 February 2005**.
 - Kyoto introduced **Clean Development Mechanism (CDM)** carbon credits and **Emissions Trading**. CDM projects run in **developing countries**; **1 CER ≈ 1 tCO₂**.
-- The **Green Climate Fund (GCF)** was established at **Cancun COP-16 (2010)** under UNFCCC — not at Durban.
-- **Earth Hour** is a **WWF** climate-awareness event (usually last Saturday of March). **GHG Protocol** = **WRI + WBCSD**.
-- The **Paris Agreement (2015)** at **COP21** applies to **all countries** through **Nationally Determined Contributions (NDCs)**.
+- The **Green Climate Fund (GCF)** (जीसीएफ) was established at **Cancun COP-16 (2010)** under UNFCCC — not at Durban.
+- **Earth Hour** (अर्थ आवर) is a **WWF** (डब्ल्यूडब्ल्यूएफ) climate-awareness event (usually last Saturday of March). **GHG Protocol** = **WRI + WBCSD**.
+- The **Paris Agreement (2015)** (पेरिस समझौता) at **COP21** applies to **all countries** through **Nationally Determined Contributions (NDCs)**.
 - Paris aims to limit warming to **well below 2°C**, pursuing **1.5°C**.
 - Paris entered into force in **2016**. It is **not identical** to Kyoto's binding annex-only model.
 
 **PYQ — UPPCS Prelims 2024, Q35**
 
-Which agreement relates to climate change mitigation?
+Which agreement relates to climate change (जलवायु परिवर्तन) mitigation?
 
 A. Montreal Protocol
 
@@ -218,11 +218,11 @@ D. CITES
 
 **Identity:** Vienna 1985 framework | Montreal 1987 ODS phase-out | Kigali 2016 HFCs
 
-- The **Vienna Convention (1985)** created the framework to protect the **ozone layer**.
-- The **Montreal Protocol (1987)** set **binding schedules** to phase out **ozone-depleting substances (ODS)** like CFCs.
+- The **Vienna Convention (1985)** (वियना कन्वेंशन) created the framework to protect the **ozone layer**.
+- The **Montreal Protocol (1987)** (मॉन्ट्रियल प्रोटोकॉल) set **binding schedules** to phase out **ozone-depleting substances (ODS)** like CFCs.
 - Montreal is the **most successful environmental treaty** — universal ratification, ODS emissions down ~99%.
 - **International Ozone Day** is **16 September** (Montreal signing date).
-- The **Kigali Amendment (2016)** phases down **HFCs** under the Montreal framework.
+- The **Kigali Amendment (2016)** (किगाली संशोधन) phases down **HFCs** under the Montreal framework.
 - Montreal controls **ozone/ODS** — **not climate change mitigation** trap logic.
 
 > **Logic:** Full ozone chemistry and Antarctic hole → **Topic 11**.
@@ -245,21 +245,21 @@ D. CITES
 
 ### CITES
 
-- **CITES (1973, Washington)** regulates **international trade** in endangered wild fauna and flora.
+- **CITES (1973, Washington)** regulates **international trade** in endangered wild fauna (प्राणीजात) and flora (वनस्पति).
 - **Appendix I** — trade banned except in exceptional cases.
 - **Appendix II** — regulated trade with permits.
 - **Appendix III** — species listed by a member country requesting cooperation.
 
-### CMS (Bonn Convention)
+### CMS (Bonn Convention) (बॉन कन्वेंशन)
 
 - The **Convention on Migratory Species (1979)** protects **migratory species** and their flyways across borders.
-- CMS focuses on **habitat and migration routes**, not commercial trade like CITES.
+- CMS focuses on **habitat (वास स्थान) and migration routes**, not commercial trade like CITES.
 
 ### Ramsar
 
-- The **Ramsar Convention (1971)** conserves **wetlands** through the **"Wise Use"** principle.
+- The **Ramsar Convention (1971)** (रामसर कन्वेंशन) conserves **wetlands** through the **"Wise Use"** principle.
 - **World Wetlands Day** is **2 February**.
-- India has about **100** Ramsar sites; state ranks often tested are **Tamil Nadu 16**, **Uttar Pradesh 10**, **Punjab 6**.
+- India has about **100** Ramsar sites; state ranks often tested are **Tamil Nadu (नाडु) 16**, **Uttar Pradesh 10**, **Punjab 6**.
 - The **Montreux Record** lists Ramsar sites where ecological character has changed or may change from human interference.
 - India has many Ramsar sites including several in **UP**.
 
@@ -288,11 +288,11 @@ Which Ramsar sites are **NOT** in Uttar Pradesh?
 
 **Identity:** Basel waste | Rotterdam PIC chemicals | Stockholm POPs | Minamata mercury
 
-- The **Basel Convention (1989)** controls **transboundary movement of hazardous waste**.
+- The **Basel Convention (1989)** (बासेल कन्वेंशन) controls **transboundary movement of hazardous waste**.
 - It aims to prevent developed countries from dumping hazardous waste in developing countries.
-- The **Rotterdam Convention (1998)** implements **Prior Informed Consent (PIC)** for trade in **hazardous chemicals**.
+- The **Rotterdam Convention (1998)** (रॉटरडैम कन्वेंशन) implements **Prior Informed Consent (PIC)** for trade in **hazardous chemicals**.
 - The **Stockholm Convention on POPs (2001)** targets **persistent organic pollutants** like **DDT and PCBs** that remain in the environment.
-- The **Minamata Convention (2013)** controls **mercury** mining, use, emissions, and releases.
+- The **Minamata Convention (2013)** (मिनामाता संधि) controls **mercury** mining, use, emissions, and releases.
 - It is named after **Minamata disease** from mercury poisoning in Japan.
 
 | Treaty | Targets |
@@ -1224,7 +1224,7 @@ D. All of the above statements
 As on April 2025, India is not a party to which of the following?
 
 A. CITES
-B. World Heritage Convention
+B. World Heritage (विश्व धरोहर) Convention
 C. Occupational Safety and Health Convention
 D. International Whaling Commission
 

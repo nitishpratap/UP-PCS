@@ -4,7 +4,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Raja Ram Mohan Roy | Ishwar Chandra Vidyasagar | Jyotiba Phule | Satyashodhak Samaj | Behramji Malabari | D.K. Karve | Muslim Reform Movements (Wahabi, Faraizi, Ahmadiyya) | Major Socio-Religious Institutions | Bengal Reform Movements | Young Bengal | Social Reformers and Their Titles | Brahmo Samaj | Arya Samaj | Prarthana Samaj | Paramahansa Mandali | Ramakrishna Mission | Aligarh Movement | Deoband Movement | Theosophical Society | Vivekananda | Dayanand Saraswati | Sir Syed Ahmad Khan | Annie Besant | Sree Narayana Dharma Paripalana Yogam (SNDP) | Sri Narayana Guru | Singh Sabha Movement | Pandita Ramabai | Self-Respect Movement | E.V. Ramaswami Naicker (Periyar)
+Raja (राजा) Ram Mohan Roy (राम मोहन राय) | Ishwar Chandra Vidyasagar (विद्यासागर) | Jyotiba Phule (ज्योतिबा फुले) | Satyashodhak Samaj (सत्यशोधक) | Behramji Malabari (मालाबारी) | D.K. Karve (कर्वे) | Muslim Reform Movements (Wahabi (वहाबी), Faraizi (फ़राज़ी), Ahmadiyya) | Major Socio-Religious Institutions | Bengal Reform Movements | Young Bengal | Social Reformers and Their Titles | Brahmo Samaj (ब्रह्म समाज) | Arya Samaj (आर्य समाज) | Prarthana Samaj (प्रार्थना समाज) | Paramahansa Mandali (परमहंस मंडली) | Ramakrishna (रामकृष्ण) Mission (रामकृष्ण मिशन) | Aligarh (अलीगढ़) Movement (अलीगढ़ आंदोलन) | Deoband (देवबंद) Movement | Theosophical Society (थियोसोफिकल सोसायटी) | Vivekananda (विवेकानंद) | Dayanand Saraswati (सरस्वती) | Sir Syed Ahmad Khan (सर सैयद) | Annie Besant (बेसेंट) | Sree Narayana Dharma Paripalana Yogam (SNDP) | Sri Narayana Guru (गुरु) | Singh Sabha (सिंह सभा) Movement | Pandita Ramabai (रमाबाई) | Self-Respect Movement (स्वाभिमान आंदोलन) | E.V. Ramaswami Naicker (Periyar (पेरियार))
 
 </details>
 
@@ -17,22 +17,22 @@ Raja Ram Mohan Roy | Ishwar Chandra Vidyasagar | Jyotiba Phule | Satyashodhak Sa
 
 ## Consolidated — 31 Must-Score Facts
 
-1. **Raja Ram Mohan Roy** founded **Atmiya Sabha (1815)** and **Brahmo Sabha / Brahmo Samaj (1828)**. He campaigned against Sati; **Bentinck** banned Sati in **1829**.
+1. **Raja Ram Mohan Roy** founded **Atmiya Sabha (1815)** and **Brahmo Sabha / Brahmo Samaj (1828)**. He campaigned against Sati; **Bentinck** (बेंटिंक) banned Sati in **1829**.
 2. **Ishwar Chandra Vidyasagar** pushed the **Widow Remarriage Act, 1856** and served as Principal of Sanskrit College, Calcutta. Do not swap him with D.K. Karve’s western-India work.
 3. **Jyotiba Phule** founded the **Satyashodhak Samaj in 1873** for anti-caste “truth-seeking” in Maharashtra. He is not a Bengal Brahmo figure.
-4. **Behramji Malabari** pushed the **Age of Consent Act, 1891**. **Bal Gangadhar Tilak** opposed British interference in Hindu marriage on that issue.
-5. **D.K. Karve** worked through the Widow Remarriage Association, founded **SNDT Women’s University (1916)**, and later received the **Bharat Ratna (1958)**.
-6. **Arya Samaj** was founded by **Dayanand Saraswati** at Bombay in **1875** on the slogan **“Back to the Vedas.”** It is not Brahmo Samaj.
+4. **Behramji Malabari** pushed the **Age of Consent Act, 1891**. **Bal Gangadhar Tilak** (बाल गंगाधर तिलक) opposed British interference in Hindu marriage on that issue.
+5. **D.K. Karve** worked through the Widow Remarriage Association, founded **SNDT Women’s University (1916)**, and later received the **Bharat Ratna (भारत रत्न) (1958)**.
+6. **Arya Samaj** (आर्य समाज) was founded by **Dayanand Saraswati** at Bombay in **1875** on the slogan **“Back to the Vedas.”** It is not Brahmo Samaj.
 7. **Prarthana Samaj** rose in Bombay in **1867** under **Atmaram Pandurang / M.G. Ranade**. **Paramahansa Mandali (1849, Dadoba Pandurang)** was its secret precursor against caste and idolatry.
-8. **Ramakrishna Mission** was founded by **Vivekananda in 1897**. Vivekananda’s **Chicago address** was in **1893**. Ramakrishna himself was the saint of Dakshineswar, not the Mission’s founder.
-9. **Sir Syed Ahmad Khan** founded **MAO College / the Aligarh Movement in 1875** for modern Western-style Muslim education. **Deoband (1866)** under **Nanautawi and Gangohi** was traditional madrasa revival — opposite orientation.
-10. The **Theosophical Society** was founded by **Blavatsky and Olcott in 1875** at New York; Indian HQ shifted to **Adyar in 1882**. **Annie Besant** later led it and became **INC President in 1917**.
-11. **Sri Narayana Guru** consecrated the **Aruvippuram** shrine in **1888** and the **SNDP Yogam** was organised in **1903** for Ezhava uplift in Kerala on a one-caste–one-god line.
+8. **Ramakrishna Mission** (रामकृष्ण मिशन) was founded by **Vivekananda in 1897**. Vivekananda’s **Chicago address** was in **1893**. Ramakrishna himself was the saint of Dakshineswar, not the Mission’s founder.
+9. **Sir Syed Ahmad Khan** founded **MAO College (एमएओ) / the Aligarh Movement in 1875** for modern Western-style Muslim education. **Deoband (1866)** under **Nanautawi and Gangohi** was traditional madrasa revival — opposite orientation.
+10. The **Theosophical Society** (थियोसोफिकल सोसायटी) was founded by **Blavatsky (ब्लावत्स्की) and Olcott in 1875** at New York; Indian HQ shifted to **Adyar in 1882**. **Annie Besant** later led it and became **INC President in 1917**.
+11. **Sri Narayana Guru** consecrated the **Aruvippuram** shrine in **1888** and the **SNDP Yogam** (एसएनडीपी) was organised in **1903** for Ezhava uplift in Kerala on a one-caste–one-god line.
 12. The **Self-Respect Movement** was launched by **Periyar E.V. Ramaswami Naicker in 1925** in the Tamil country. It is rationalist and anti-Brahmin — not the same as SNDP.
-13. The **Singh Sabha** revival began at **Amritsar (1873)** and **Lahore (1879)**; **Khalsa College** dates to **1892** and **Chief Khalsa Diwan** to **1902**.
+13. The **Singh Sabha** revival began at **Amritsar (अमृतसर) (1873)** and **Lahore (1879)**; **Khalsa (खालसा) College** dates to **1892** and **Chief Khalsa Diwan** to **1902**.
 14. **Pandita Ramabai** founded **Arya Mahila Samaj (1882)**, **Sharada Sadan (1889)** and **Mukti Mission (1898)** for women’s education and shelter — keep her distinct from Karve.
 15. Bengal reform stream: reasoned monotheism, print, English education and law reform (**Sati 1829**, **Widow Remarriage 1856**). Maharashtra stream: anti-caste sabhas and women’s education (**Prarthana 1867**, **Satyashodhak 1873**).
-16. Muslim reform is its own axis: militant revival (**Wahabi** — Sayyid Ahmad of Rae Bareli), Faraizi in Bengal, peaceful messianic **Ahmadiyya** (Mirza Ghulam Ahmad), loyalist **Aligarh**, and traditional **Deoband**.
+16. Muslim reform is its own axis: militant revival (**Wahabi** (वहाबी) — Sayyid (सैयद) Ahmad of Rae Bareli), Faraizi in Bengal, peaceful messianic **Ahmadiyya** (Mirza Ghulam Ahmad), loyalist **Aligarh**, and traditional **Deoband**.
 17. The **Native Marriage Act** dates to **1872**. A correct institution fact often tested: **Sanatan Dharma Rakshini Sabha — Calcutta**.
 18. **J.E.D. Bethune** is locked to girls’ schooling in Calcutta. Annie Besant is locked to **Central Hindu College (1898)** and Theosophy leadership from **1907**.
 19. Brahmo Samaj later split under **Debendranath Tagore** and **Keshab Chandra Sen** lines — Roy founded; he did not run every later faction.
@@ -42,12 +42,12 @@ Raja Ram Mohan Roy | Ishwar Chandra Vidyasagar | Jyotiba Phule | Satyashodhak Sa
 23. Wahabi vs Ahmadiyya: militant revivalist stream versus peaceful messianic stream — a religion-politics confused pair inside Muslim reform.
 24. Young Bengal / Derozio belongs to the Bengal radical student stream, not to Phule’s Satyashodhak work in Maharashtra.
 25. Region map for unknown bodies: place the name on Bengal / Maharashtra / Punjab / South / Muslim-orientation before guessing the year.
-26. Prarthana Samaj is Bombay liberal religious reform; Satyashodhak is Phule’s anti-caste sabha — same presidency, different social aim.
-27. **Akbar II** gave Roy the title **Raja** and sent him to England (**1830**); Roy died at **Bristol (1833)**.
-28. Dayanand is tagged **Martin Luther of India**; he first popularised **Swaraj**, **Hindi as national language**, and **Swadeshi** goods; **Pakhand Khandini Pataka (1867)** precedes Arya Samaj **1875** (HQ later **Lahore 1877**).
-29. Match extras: **Dev Samaj** (Shiv Narayan Agnihotri, Lahore **1887**); **Dharma Sabha** (Radhakant Deb, **1830**, orthodox); **Lokahitwadi** = **Gopal Hari Deshmukh**; **Servants of India Society** = **Gokhale, 1905**.
-30. Law ladder: Sati ban **1829** → slavery illegal **1843** (Ellenborough) → Widow Remarriage **1856** → Native/Brahmo Marriage Act **1872** (ages 14/18) → Age of Consent **1891** (Malabari; Tilak opposed) → **Sharda Act 1929** (Har Bilas Sharda; girls 14 / boys 18).
-31. **Indian National Social Conference (1887)** = Ranade + Raghunath Rao (social issues kept off Congress platform). **Bahujan Samaj (1910)** = Mukund Rao Patil / Shankar Rao Jadhav.
+26. Prarthana Samaj is Bombay liberal religious reform; Satyashodhak is Phule’s anti-caste sabha — same presidency (प्रेसीडेंसी), different social aim.
+27. **Akbar (अकबर) II** gave Roy the title **Raja** (राजा) and sent him to England (**1830**); Roy died at **Bristol (1833)**.
+28. Dayanand is tagged **Martin Luther of India**; he first popularised **Swaraj** (स्वराज), **Hindi as national language (राष्ट्रभाषा)**, and **Swadeshi** (स्वदेशी) goods; **Pakhand Khandini Pataka (1867)** precedes Arya Samaj **1875** (HQ later **Lahore 1877**).
+29. Match extras: **Dev Samaj** (Shiv Narayan Agnihotri, Lahore **1887**); **Dharma Sabha** (Radhakant Deb, **1830**, orthodox); **Lokahitwadi** = **Gopal Hari Deshmukh (देशमुख)**; **Servants of India Society** = **Gokhale (गोखले), 1905**.
+30. Law ladder: Sati ban **1829** → slavery illegal **1843** (Ellenborough) → Widow Remarriage **1856** → Native/Brahmo Marriage Act **1872** (ages 14/18) → Age of Consent **1891** (Malabari; Tilak opposed) → **Sharda (शारदा) Act 1929** (Har Bilas Sharda; girls 14 / boys 18).
+31. **Indian National Social Conference (1887)** = Ranade + Raghunath Rao (social issues kept off Congress (कांग्रेस) platform). **Bahujan Samaj (1910)** = Mukund Rao Patil / Shankar Rao Jadhav.
 
 
 ---
@@ -92,12 +92,12 @@ Raja Ram Mohan Roy | Ishwar Chandra Vidyasagar | Jyotiba Phule | Satyashodhak Sa
 | Gurmukh Singh / Bhai Ditt Singh | Singh Sabha (Lahore, Tat Khalsa) | 1879, Lahore |
 | Pandita Ramabai | Arya Mahila Samaj; Sharada Sadan; Mukti Mission | 1882; 1889; 1898 |
 | Annie Besant / Bhagwan Das | Central Hindu College | 1898, Banaras |
-| Swami Vivekananda | Ramakrishna Mission | 1897, Belur |
-| Dr Palpu / Kumaran Asan / Narayana Guru | SNDP Yogam | 1903, Kerala |
+| Swami (स्वामी) Vivekananda | Ramakrishna Mission | 1897, Belur (बेलूर) |
+| Dr Palpu / Kumaran Asan (आसन) / Narayana Guru | SNDP Yogam | 1903, Kerala |
 | D.K. Karve | Widow Remarriage Association; Indian Women’s University (SNDT from 1920) | 1896 home; 1916 university |
 | E.V. Ramaswami Naicker (Periyar) | Self-Respect Movement | 1925, Tamil country |
-| Naoroji Furdunji / Dadabhai Naoroji | Rahnumai Mazdayasnan Sabha (*Rast Goftar*) | 1851, Bombay |
-| Dr. B.R. Ambedkar | Bahishkrit Hitakarini Sabha (*Mooknayak*) | 1924, Bombay |
+| Naoroji (नौरोजी) Furdunji / Dadabhai Naoroji | Rahnumai Mazdayasnan Sabha (*Rast Goftar*) | 1851, Bombay |
+| Dr. B.R. Ambedkar (बी.आर. अम्बेडकर) | Bahishkrit Hitakarini Sabha (*Mooknayak*) | 1924, Bombay |
 
 ### British social legislation ↔ year (the four-law ladder)
 
@@ -129,7 +129,7 @@ Nineteenth-century reform did **not** happen as one national movement. It grew i
 | **Bengal** | Calcutta and the Bengal presidency | Rammohan Roy, Debendranath Tagore, Vidyasagar, Keshab Chandra Sen, Derozio | Reasoned monotheism, print and English education, law reform (Sati, widow remarriage) | Brahmo Samaj; Sati **1829**; Widow Remarriage **1856** |
 | **Maharashtra** | Bombay–Poona belt | Dadoba Pandurang, Atmaram Pandurang, M.G. Ranade, Jyotiba Phule, Pandita Ramabai, D.K. Karve | Anti-caste and anti-idolatry sabhas, women’s education, widow remarriage in practice | Prarthana Samaj **1867**; Satyashodhak **1873** |
 | **Punjab** | Amritsar–Lahore belt | Dayanand Saraswati (Arya base shifted here), Khem Singh Bedi, Gurmukh Singh | Vedic revivalism (Arya) and Sikh identity revivalism (Singh Sabha), both against missionary inroads | Arya Samaj strong in Punjab; Singh Sabha **1873** |
-| **South** | Madras presidency, Kerala, Tamil country | Sri Narayana Guru, E.V. Ramaswami Naicker (Periyar), Annie Besant (Adyar base) | Anti-caste temple entry and priestcraft attack, rationalist self-respect | SNDP **1903**; Self-Respect **1925** |
+| **South** | Madras presidency, Kerala, Tamil country | Sri Narayana Guru, E.V. Ramaswami Naicker (Periyar), Annie Besant (Adyar base) | Anti-caste temple entry (मंदिर प्रवेश) and priestcraft attack, rationalist self-respect | SNDP **1903**; Self-Respect **1925** |
 | **Muslim streams** | North India and Bengal | Sayyid Ahmad of Rae Bareli, Haji Shariatullah, Mirza Ghulam Ahmad, Sir Syed Ahmad Khan, Nanautawi/Gangohi | Ranges from militant revival to modern loyalist college to traditional seminary | Aligarh **1875**; Deoband **1866** (full comparative table in §6.7) |
 
 - No stream is purely religious or purely social. Bengal and Maharashtra reform pushed **law changes** (Sati, widow remarriage, age of consent). Punjab and the South pushed **identity and caste** questions harder.
@@ -144,12 +144,12 @@ Nineteenth-century reform did **not** happen as one national movement. It grew i
 
 - He is called the **Father of the Indian Renaissance** (about **1772–1833**).
 - In **1815** he founded **Atmiya Sabha** in Calcutta for discussion against idolatry and social evils.
-- In **1828** he founded **Brahmo Sabha**, later called **Brahmo Samaj**.
+- In **1828** he founded **Brahmo Sabha**, later called **Brahmo Samaj** (ब्रह्म समाज).
 - He campaigned against **Sati**. **Lord William Bentinck** banned Sati in **1829** (Regulation XVII).
 - He brought out the paper **Sambad Kaumudi** and wrote **Tuhfat-ul-Muwahhidin** (a monotheist tract).
 - He stood for modern education, including English, and for the use of reason in religion.
-- **Mughal emperor Akbar II** gave him the title **Raja** (**1830**) and sent him to England on the pension question; he died at **Bristol in 1833** (samadhi there).
-- He did **not** oppose Western education — he backed English and scientific learning. **Samachar Chandrika** (Bhavani Charan) was started against his reform line.
+- **Mughal (मुग़ल) emperor Akbar II** gave him the title **Raja** (**1830**) and sent him to England on the pension question; he died at **Bristol in 1833** (samadhi (समाधि) there).
+- He did **not** oppose Western education — he backed English and scientific learning. **Samachar Chandrika** (Bhavani Charan (चारण)) was started against his reform line.
 - He did **not** found Arya Samaj or Satyashodhak Samaj.
 
 > **Logic:** Roy + Sati **1829** + Brahmo **1828**. Satyashodhak is **Phule**, not Roy.
@@ -171,9 +171,9 @@ Nineteenth-century reform did **not** happen as one national movement. It grew i
 ## 6.3 Jyotiba Phule
 
 - He worked in Maharashtra against **caste inequality** and for the education of girls and lower castes.
-- He is associated with the **Anti-caste Movement**, not Civil Disobedience, trade unions or a peasant party.
+- He is associated with the **Anti-caste Movement**, not Civil Disobedience (सविनय अवज्ञा), trade (पण्याध्यक्ष) unions or a peasant party.
 - With **Savitribai Phule** he opened schools for girls and for the lower castes.
-- He wrote **Gulamgiri (1873)** against caste slavery.
+- He wrote **Gulamgiri (गुलामगिरी) (1873)** against caste slavery.
 - **Shetkaryacha Asud** is another of his works.
 - He founded **Satyashodhak Samaj** in **1873** (next section).
 
@@ -241,7 +241,7 @@ D. Raja Ram Mohan Roy
 - He was a **Parsi reformer of Bombay**.
 - He led a **crusade against child marriage**.
 - He advocated the **Age of Consent Act, 1891**, which raised the age of consent for girls.
-- **Bal Gangadhar Tilak** and the extremist wing **opposed** the Act. They said the British should not interfere in Hindu marriage.
+- **Bal Gangadhar Tilak** and the extremist (गरम दल) wing **opposed** the Act. They said the British should not interfere in Hindu marriage.
 - Malabari supported the 1891 Act; Tilak and the Extremists did **not**.
 
 - Later, the **Sharda Act (1929)** raised the statutory marriage ages again (girls **14**, boys **18**).
@@ -285,7 +285,7 @@ D. Both 1 and 2
 - After his first wife died, he himself **remarried a widow, Godubai, in 1893** — a rare act of practice, not just preaching.
 - In **1896** he founded the **Hindu Widows’ Home Association** at **Hingne**, near Poona, to shelter and educate widows.
 - In **1916** he founded the **Indian Women’s University** at Poona, the **first women’s university in India**.
-- The university was renamed the **S.N.D.T. Women’s University** in **1920** after a donation from Sir Vithaldas Thackersey in memory of his mother, Shreemati Nathibai Damodar Thackersey.
+- The university was renamed the **S.N.D.T. Women’s University** in **1920** after a donation from Sir Vithaldas Thackersey in memory of his mother, Shreemati Nathibai Damodar (दामोदर) Thackersey.
 - He was awarded the **Bharat Ratna in 1958**, one of the earliest recipients.
 - Do not mix him with Vidyasagar (Sanskrit College, Calcutta) or with Malabari (child marriage / Age of Consent).
 
@@ -299,15 +299,15 @@ Five distinct streams. UPPCS mixes founders and orientations as traps — learn 
 
 | Stream | Founder / leading name | Year / place | Orientation |
 |--------|------------------------|--------------|-------------|
-| **Wahabi / Tariqah-i-Muhammadiya** | **Sayyid Ahmad of Rae Bareli** (inspired in India by **Shah Waliullah’s** reform line; Arabia’s Abdul Wahab is the name-tag) | From the 1820s; briefly held **Peshawar (~1830)**; died **Balakot 1831**; later Indian centre **Patna** | Militant scriptural revival; later turned anti-Sikh and anti-British |
-| **Faraizi** | **Haji Shariatullah**, later **Dudu Miyan** | From the 1820s, **Bengal** | Peasant Islamic puritanism; anti-landlord, anti-zamindar edge |
-| **Ahl-i-Hadith** | No single founder (loose scholarly stream) | 19th century, north India | Scripturalist; rejected later juristic and Sufi accretions |
+| **Wahabi / Tariqah-i-Muhammadiya** | **Sayyid Ahmad of Rae Bareli** (inspired in India by **Shah Waliullah’s** reform line; Arabia’s Abdul Wahab is the name-tag) | From the 1820s; briefly held **Peshawar (~1830)**; died **Balakot 1831**; later Indian centre **Patna** (पटना) | Militant scriptural revival; later turned anti-Sikh and anti-British |
+| **Faraizi** (फ़राज़ी) | **Haji Shariatullah**, later **Dudu Miyan** | From the 1820s, **Bengal** | Peasant Islamic puritanism; anti-landlord, anti-zamindar edge |
+| **Ahl-i-Hadith** | No single founder (loose scholarly stream) | 19th century, north India | Scripturalist; rejected later juristic and Sufi (सूफी) accretions |
 | **Ahmadiyya** | **Mirza Ghulam Ahmad** | **1889, Qadian (Punjab)** | Peaceful, messianic and missionary; treated as heretical by orthodox Muslims |
 | **Aligarh (Aligarh Movement)** | **Sir Syed Ahmad Khan** | **1875, Aligarh** | Modern Western-style college education; political loyalism to the British |
 | **Deoband (Dar-ul-Ulum)** | **Muhammad Qasim Nanautawi**, **Rashid Ahmad Gangohi** | **1866, Deoband (UP)** | Traditional seminary revival of Hadith and fiqh; later turned more anti-colonial |
 
 - **Wahabi** and **Faraizi** were the earliest streams, rooted in the pre-1857 agrarian and religious unrest of Bengal and the north.
-- After Balakot, Wahabi organisation ran through **Patna** with branches toward Hyderabad, Madras, Bengal, UP and Bombay.
+- After Balakot, Wahabi organisation ran through **Patna** with branches toward Hyderabad (हैदराबाद), Madras, Bengal, UP and Bombay.
 - **Faraizi** under **Dudu Miyan** pushed an anti-English, anti-zamindar edge in eastern Bengal; later many followers merged toward the Wahabi stream (**~1818–1862** arc).
 - **Ahmadiyya** is the odd one out: it is peaceful and missionary, not revivalist-militant, and mainstream Muslim orthodoxy does **not** accept it as within the fold.
 - **Aligarh** and **Deoband** are the two big post-1857 north-Indian answers, and they are opposites in method though both reacted to the same crisis of Muslim decline after 1857.
@@ -351,8 +351,8 @@ This is the **match home** for founder, year, place, and the 2022 organisation�
 | Body | Correct place |
 |------|----------------|
 | **Sanatan Dharma Rakshini Sabha** | **Calcutta** — this is the correctly matched pair |
-| Radhasoami Satsang | **Agra**, not Lahore |
-| Bharat Dharma Mahamandal | **Varanasi / Banaras**, not Delhi |
+| Radhasoami Satsang | **Agra** (आगरा), not Lahore |
+| Bharat Dharma Mahamandal | **Varanasi (वाराणसी) / Banaras**, not Delhi |
 | Deva Samaj (Shiv Narayan Agnihotri) | **Lahore**, not Banaras |
 
 > **Logic:** Learn the **wrong city** as well as the right one. Radhasoami is Agra. Deva Samaj is Lahore.
@@ -388,7 +388,7 @@ D. Deva Samaj — Banaras
 | **Radhasoami Satsang** | **Shivdayal Sahab / Tulsiram** | **1861, Agra** |
 | **Widow Remarriage Association (Maharashtra)** | **Vishnu Parashuram Pandit** | **1850** campaign line |
 | **Indian National Social Conference** | **M.G. Ranade** and **Raghunath Rao** | **1887** — social agenda beside Congress |
-| **Servants of India Society** | **Gopal Krishna Gokhale** | **1905, Poona** |
+| **Servants of India Society** | **Gopal Krishna (कृष्णा) Gokhale** | **1905, Poona** |
 | **Bahujan Samaj** | **Mukund Rao Patil** / Shankar Rao Jadhav | **1910** — Phule-inspired lower-caste organisation |
 | **Poona Sarvajanik Sabha** | Joshi / Chiplunkar stream; **Ranade** joined early | **1870** political association |
 
@@ -460,7 +460,7 @@ Code for List-I A–D against List-II 2, 1, 4, 3 = **option B**.
 | Dayanand Saraswati | **Martin Luther of India**; Back to the Vedas; Swaraj / Hindi / Swadeshi tags |
 | Jyotiba Phule | Mahatma (honorific); anti-caste |
 | Vivekananda | Chicago 1893; “sisters and brothers of America” |
-| Annie Besant | Theosophy; later Home Rule (that politics is a later topic) |
+| Annie Besant | Theosophy; later Home Rule (होम रूल) (that politics is a later topic) |
 | M.G. Ranade | Prarthana Samaj; “father of Indian economics” is a separate tag |
 | Gopal Hari Deshmukh | **Lokahitwadi** |
 | Gopal Krishna Gokhale | **Servants of India Society (1905)** |
@@ -502,7 +502,7 @@ D. A-1, B-2, C-3, D-4
 - Started as **Brahmo Sabha in 1828** by **Raja Ram Mohan Roy**.
 - It taught **one God**.
 - It opposed **idol worship**.
-- It attacked Sati, caste rigidity and meaningless ritual.
+- It attacked Sati, caste rigidity and meaningless ritual (कर्मकाण्ड).
 - After Roy, **Debendranath Tagore** led the **Adi Brahmo Samaj**.
 - **Keshab Chandra Sen** formed the **Brahmo Samaj of India** (**Bhartiya Brahmo Samaj**). Debendranath’s wing is **Adi Brahmo Samaj** — do not swap. Keshab also linked to **Tabernacle of New Dispensation** and **Indian Reform Association**; **Calcutta Unitarian Committee** is Roy’s line, not Keshab’s alone.
 - Debendranath founded **Tattvabodhini Sabha (1839)** to spread Roy’s ideas and later appointed Keshab as Acharya.
@@ -521,8 +521,8 @@ D. A-1, B-2, C-3, D-4
 - The slogan was **“Back to the Vedas.”**
 - It rejected later Puranic accretions, idolatry and child marriage.
 - It used **shuddhi** (reconversion) and built **D.A.V.** schools.
-- Dayanand’s book **Satyarth Prakash** is the doctrinal text. Birth name **Mulshankar**; **Pakhand Khandini Pataka** was raised in **1867**. HQ shifted to **Lahore (1877)**. Later split: **Gurukul** line (Shraddhanand) vs **D.A.V.** line (Hansraj / Lala Lajpat Rai).
-- He is often called the **Martin Luther of India**. He is also tagged as first to popularise **Swaraj**, **Hindi as national language**, and boycott of foreign goods.
+- Dayanand’s book **Satyarth Prakash** is the doctrinal text. Birth name **Mulshankar**; **Pakhand Khandini Pataka** was raised in **1867**. HQ shifted to **Lahore (1877)**. Later split: **Gurukul** (गुरुकुल) line (Shraddhanand) vs **D.A.V.** line (Hansraj / Lala Lajpat Rai (लाला लाजपत राय)).
+- He is often called the **Martin Luther of India**. He is also tagged as first to popularise **Swaraj**, **Hindi as national language**, and boycott (बहिष्कार) of foreign goods.
 - Arya Samaj is **not** Brahmo Samaj and **not** Theosophical Society.
 
 > **Logic:** Year **1875** is shared with MAO College. Do not mix the two founders.
@@ -560,12 +560,12 @@ D. A-1, B-2, C-3, D-4
 
 - **Ramakrishna Paramahamsa** was a saint at **Dakshineswar**. He taught that different religions are paths to the same goal.
 - His disciple **Swami Vivekananda** founded the **Ramakrishna Mission in 1897**.
-- The Mission combines **Vedanta** with **social service** (schools, relief, hospitals).
-- Headquarters of the Math is at **Belur**.
+- The Mission combines **Vedanta** (वेदांत) with **social service** (schools, relief, hospitals).
+- Headquarters of the Math is at **Belur** (बेलूर).
 - Vivekananda’s Chicago speech is in his own section. Do not date the Mission as 1893.
 
-- He preached **Practical Vedanta** and wrote *Raja Yoga*, *Karma Yoga*, *Jnana Yoga*.
-- **Subhas Chandra Bose** called him the spiritual father of the modern nationalist movement in Bengal.
+- He preached **Practical Vedanta** and wrote *Raja Yoga (योग)*, *Karma (कर्म) Yoga*, *Jnana Yoga*.
+- **Subhas Chandra Bose** (सुभाष चंद्र बोस) called him the spiritual father of the modern nationalist movement in Bengal.
 - **Sharadamani (Sharada Devi)** was Ramakrishna’s wife. **Sister Nivedita** (Margaret Noble) was Vivekananda’s Western disciple.
 
 > **Logic:** Mission = **1897**. Chicago Parliament = **1893**.
@@ -658,7 +658,7 @@ D. A-1, B-2, C-3, D-4
 - She joined the **Theosophical Society** in England and moved to India in **1893** to work with the Society.
 - After **Olcott’s death**, she became **President of the Theosophical Society in 1907**, based at **Adyar (Madras)**.
 - In **1898** she founded **Central Hindu College, Banaras**, with the theosophist and jurist **Bhagwan Das**.
-- Central Hindu College later merged into the **Banaras Hindu University**, founded in **1916 by Madan Mohan Malaviya**. Besant is the college co-founder; Malaviya is BHU’s founder — do not swap the two names.
+- Central Hindu College later merged into the **Banaras Hindu University**, founded in **1916 by Madan Mohan Malaviya (मालवीय)**. Besant is the college co-founder; Malaviya is BHU’s founder — do not swap the two names.
 - On social reform she pushed **girls’ education**, criticised **child marriage**, and used the Theosophical ideal of universal brotherhood to soften rigid caste practice in the institutions she ran.
 - Her papers were **New India** and **Commonweal**, used for both Theosophy and reform causes.
 - She founded the **Home Rule League in 1916** and later became the **first woman President of the Indian National Congress, in 1917**. Her Home Rule and Congress-presidency career belongs to the freedom-movement political story, not this socio-religious topic.
@@ -678,7 +678,7 @@ D. A-1, B-2, C-3, D-4
 - He built temples and monastic centres open to all castes, including the **Sivagiri Matha**.
 - In **1903** his followers, led by **Dr Palpu** and the poet **Kumaran Asan**, founded the **Sree Narayana Dharma Paripalana (SNDP) Yogam** to organise the Ezhava community for education and self-respect.
 - **Kumaran Asan** served as the Yogam’s first general secretary and is also remembered as a major Malayalam poet.
-- Narayana Guru inspired later Kerala reform, including support for the **Vaikom Satyagraha (1924–25)**, a protest for lower-caste right of way on roads near the Vaikom temple, which also drew Periyar’s support from Tamil country.
+- Narayana Guru inspired later Kerala reform, including support for the **Vaikom (वैक्कम) Satyagraha (वैकोम) (1924–25)**, a protest for lower-caste right of way on roads near the Vaikom temple, which also drew Periyar’s support from Tamil country.
 - SNDP is **not** a Bengal or Maharashtra body. It is the standard **Kerala / South stream** anti-caste institution.
 
 > **Logic:** SNDP = Kerala, Ezhava, **1903**. Aruvippuram consecration = **1888**. Do not place it in Bengal or Maharashtra.
@@ -709,7 +709,7 @@ D. A-1, B-2, C-3, D-4
 **Pandita Ramabai Saraswati (1858–1922)** | Maharashtra | Sanskrit scholar and women’s reformer
 
 - She was born to a Sanskrit scholar father, **Anant Shastri Dongre**, who unusually taught her Sanskrit and the shastras from childhood.
-- Pandits of Calcutta recognised her scholarship and gave her the titles **Pandita** and **Saraswati** in 1878.
+- Pandits of Calcutta recognised her scholarship and gave her the titles **Pandita** and **Saraswati** (सरस्वती) in 1878.
 - In **1882** she founded the **Arya Mahila Samaj** at **Poona** to promote women’s education and oppose child marriage.
 - In the same year she testified before the **Hunter Commission** on the state of women’s education in India.
 - She travelled to England, where she **converted to Christianity in 1883**.
@@ -726,13 +726,13 @@ D. A-1, B-2, C-3, D-4
 
 **E.V. Ramaswami Naicker, "Periyar" (1879–1973)** | Tamil country | anti-caste rationalism
 
-- He first worked inside the **Indian National Congress** and took part in the **Non-Cooperation Movement**.
+- He first worked inside the **Indian National Congress** and took part in the **Non-Cooperation (असहयोग) Movement**.
 - He played a leading role in the **Vaikom Satyagraha (1924–25)** in Travancore, a protest demanding that lower castes be allowed to use public roads near the **Vaikom Mahadeva temple**. He took over leadership of the satyagraha at one stage, alongside local Kerala leaders such as T.K. Madhavan.
 - He **left the Indian National Congress in 1925**, unconvinced that Congress would fight caste inequality seriously.
 - In **1925** he founded the **Self-Respect Movement**, attacking **Brahmanical priestcraft**, the caste system, and orthodox Hindu textual authority.
-- He promoted **rationalism**, widow remarriage, women’s rights, and inter-caste marriage, and demanded **temple entry** and priesthood rights for all castes, not only Brahmins.
+- He promoted **rationalism**, widow remarriage, women’s rights, and inter-caste marriage, and demanded **temple entry** (मंदिर प्रवेश) and priesthood rights for all castes, not only Brahmins.
 - His journal **Kudi Arasu** carried the movement’s ideas in Tamil.
-- He later founded the **Dravidar Kazhagam in 1944**, growing out of the Self-Respect Movement and linked to the earlier non-Brahmin **Justice Party** current in Madras politics.
+- He later founded the **Dravidar Kazhagam in 1944**, growing out of the Self-Respect Movement and linked to the earlier non-Brahmin **Justice Party** (जस्टिस पार्टी) current in Madras politics.
 - The Self-Respect Movement is a **social and religious-reform** current first; its later party-political offshoots are a separate, later story.
 - Both his Non-Cooperation participation and his 1925 exit from Congress are true and were tested together in a UPPCS statement question.
 
@@ -780,15 +780,15 @@ D. Neither 1 nor 2
 
 ## 6.28 Bahishkrit Hitakarini Sabha and Dr. B.R. Ambedkar
 
-**Dr. B. R. Ambedkar (1891–1956)** | Maharashtra / Pan-India | Dalit uplift & anti-untouchability
+**Dr. B. R. Ambedkar (1891–1956)** | Maharashtra / Pan-India | Dalit (दलित) uplift & anti-untouchability
 
 - Dr. B.R. Ambedkar founded the **Bahishkrit Hitakarini Sabha** on **20 July 1924 in Bombay** for the moral, educational and material advancement of the depressed classes.
 - Central motto of the Sabha: **"Educate, Agitate, Organise"** (शिक्षित बनो, आंदोलन करो, संगठित रहो).
-- In **March 1927**, he led the historic **Mahad Satyagraha** to assert the right of untouchables to draw drinking water from the public **Chawdar Tank** in Mahad (Maharashtra).
-- On **25 December 1927**, he publicly burned the *Manusmriti* as a protest against caste discrimination.
-- Founded key anti-caste journals: ***Mooknayak*** (**1920**, supported by Shahu Maharaj of Kolhapur), ***Bahishkrit Bharat*** (**1927**), ***Samata*** (**1928**), and ***Janata*** (**1930**).
+- In **March 1927**, he led the historic (ऐतिहासिक) **Mahad Satyagraha** to assert the right of untouchables to draw drinking water from the public **Chawdar Tank** in Mahad (Maharashtra).
+- On **25 December 1927**, he publicly burned the *Manusmriti* (मनुस्मृति) as a protest against caste discrimination.
+- Founded key anti-caste journals: ***Mooknayak*** (**1920**, supported by Shahu (शाहू) Maharaj of Kolhapur), ***Bahishkrit Bharat*** (**1927**), ***Samata*** (**1928**), and ***Janata*** (**1930**).
 - Formed the **Independent Labour Party in 1936** and the **All India Scheduled Castes Federation in 1942**.
-- Do **not** confuse *Bahishkrit Hitakarini Sabha* (1924, Ambedkar) with *Depressed Classes Mission Society* (1906, V.R. Shinde) or *All India Anti-Untouchability League / Harijan Sevak Sangh* (1932, Mahatma Gandhi).
+- Do **not** confuse *Bahishkrit Hitakarini Sabha* (1924, Ambedkar) with *Depressed Classes Mission Society* (1906, V.R. Shinde) or *All India Anti-Untouchability League / Harijan (हरिजन) Sevak Sangh* (1932, Mahatma Gandhi (महात्मा गांधी)).
 
 > **Logic:** Bahishkrit Hitakarini Sabha = **1924, Bombay** + **Dr. B.R. Ambedkar** + motto *"Educate, Agitate, Organise"*.
 

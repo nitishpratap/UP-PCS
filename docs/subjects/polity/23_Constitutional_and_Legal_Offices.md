@@ -47,11 +47,11 @@ Sitting AG / CAG / SG names are **CA colour** — don’t raata a 2026 occupant 
 
 ## Consolidated — 30 Must-Score Facts
 
-1. The **Attorney General** (Article **76**) is the Union’s first law officer. Qualification matches a **Supreme Court judge**. Tenure is during the **pleasure of the President**. Removal is **not** by judge-impeachment.
+1. The **Attorney General** (महान्यायवादी) (Article **76**) is the Union’s first law officer. Qualification matches a **Supreme Court judge**. Tenure is during the **pleasure of the President**. Removal is **not** by judge-impeachment.
 2. Under Article **88**, the Attorney General may speak in **both** Houses and their committees but has **no vote**. Private practice is allowed except against the Government of India or in a matter already advised on.
 3. The Attorney General’s oath is **not** a Third Schedule form. Pay is fixed by the President and is **not** a Second Schedule charged office like the CAG. The first AG was **M.C. Setalvad**.
 4. The **Solicitor General** is **not** in the Constitution. The SG assists the AG, has **no** Article **88** right by that office, and is regulated by executive / Law Officers rules.
-5. The **Advocate General** (Article **165**) is the State’s first law officer. Qualification matches a **High Court judge**. Appointment and pleasure are of the **Governor**. Article **177** allows speaking in the State House(s) without a vote.
+5. The **Advocate General** (महाधिवक्ता) (Article **165**) is the State’s first law officer. Qualification matches a **High Court judge**. Appointment and pleasure are of the **Governor**. Article **177** allows speaking in the State House(s) without a vote.
 6. There is **no** office called “Advocate General of India.” Do not invent a Union AdvG.
 7. The **CAG** (Articles **148–151**) is appointed by the President for **six years or age 65**, whichever is earlier. Removal is **like a Supreme Court judge**. Article **148(4)** bars further Union or State office after leaving the post.
 8. The CAG takes a **Third Schedule** oath before the President. Salary is in the **Second Schedule** and charged. Union reports go President → Parliament; State reports go Governor → Legislature (Article **151**).
@@ -60,9 +60,9 @@ Sitting AG / CAG / SG names are **CA colour** — don’t raata a 2026 occupant 
 11. The **Chief Election Commissioner** is appointed by the President. Under the **2023** Act, selection is by the Prime Minister, Lok Sabha Leader of Opposition, and a Cabinet Minister. The **CJI is not** on this panel (unlike the Lokpal panel).
 12. CEC tenure is **six years or age 65**. The CEC is removed **like a Supreme Court judge**. Other Election Commissioners and Regional Commissioners are removed only on the **CEC’s recommendation**. Votes are equal; removal protection is not.
 13. The first CEC was **Sukumar Sen**. The first woman CEC was **V.S. Ramadevi** (**1990**). An Election Commissioner may become CEC, with combined service capped at six years.
-14. The **UPSC** Chairman is appointed by the President for **six years or age 65**. Removal under Article **317** follows a Supreme Court inquiry path. Under Article **319**, a UPSC Chair may take **no** further Union or State office.
+14. The **UPSC** (संघ लोक सेवा आयोग) Chairman is appointed by the President for **six years or age 65**. Removal under Article **317** follows a Supreme Court inquiry path. Under Article **319**, a UPSC Chair may take **no** further Union or State office.
 15. A **State PSC** Chair is **appointed by the Governor** but **removed by the President** (after Supreme Court inquiry on misbehaviour). Extension of SPSC functions under Article **321** is by the **State Legislature**. A Joint PSC needs **Parliament** if the States request it.
-16. UPPSC headquarters is **Prayagraj**. Do not confuse UPPSC with UPSC (Delhi) or with the State Election Commission.
+16. UPPSC headquarters is **Prayagraj** (प्रयागराज). Do not confuse UPPSC with UPSC (Delhi) or with the State Election Commission.
 17. The **Chief Justice of India** retires at **65**, takes oath before the **President**, and resigns to the **President**. Appointment convention is seniority (broken in **1973** and **1977**). If President and Vice-President are both vacant, the CJI can act as President and then takes the Article **60** oath.
 18. The Supreme Court Collegium is **CJI + four**. The High Court Collegium is **CJI + two**. The **99th** Amendment’s NJAC was struck on **16 October 2015**.
 19. A High Court Chief Justice retires at **62**, takes oath before the **Governor**, and resigns to the **President**. Article **223** covers an acting Chief Justice. Outsider Chief Justices are a convention, not a constitutional bar.
@@ -265,7 +265,7 @@ Trap: CAG holds office during the President’s pleasure. **No — SC-judge remo
 
 # CEC · PSC chairs · Chief Justices
 
-This cluster is the **office**: who appoints, who removes, oath, resigns-to-whom. CEC ≠ other ECs on removal. UPSC functions come from **four** sources (Constitution + laws + rules + conventions). SC Collegium = CJI+4.
+This cluster is the **office**: who appoints, who removes, oath, resigns-to-whom. CEC ≠ other ECs on removal. UPSC functions come from **four** (चातुर्याम) sources (Constitution + laws + rules + conventions). SC Collegium = CJI+4.
 
 ---
 
@@ -276,7 +276,7 @@ This cluster is the **office**: who appoints, who removes, oath, resigns-to-whom
 | Dimension | **CEC** | **Other ECs** |
 |-----------|---------|----------------|
 | **Article** | **324** — CEC + such other ECs as the President may fix | Same Commission; **equal vote** in decisions |
-| **Appointment** | **President**. *Anoop Baranwal* **2023**: until a law, panel = PM + LoP + **CJI**. Then **CEC and Other ECs Act, 2023**: **Search** Committee = **Cabinet Secretary + 2 Secretaries** (shortlist **5**). **Selection** Committee = **PM (chair) + LoP in LS + a Union Cabinet Minister**. **CJI is not on the 2023 panel** (contrast **Lokpal**: CJI *is* on that panel) | Same 2023 Act |
+| **Appointment** | **President**. *Anoop Baranwal* **2023**: until a law, panel = PM + LoP + **CJI**. Then **CEC and Other ECs Act, 2023**: **Search** Committee = **Cabinet Secretary + 2 Secretaries** (shortlist **5**). **Selection** Committee = **PM (chair) + LoP in LS + a Union Cabinet Minister**. **CJI is not on the 2023 panel** (contrast **Lokpal** (लोकपाल): CJI *is* on that panel) | Same 2023 Act |
 | **Tenure** | **6 years or 65** (2023 Act) | Same |
 | **Removal** | **Like an SC judge** (324(5)) | **Not** removed except on **CEC’s recommendation** |
 | **Resignation** | To the **President** | To the **President** |

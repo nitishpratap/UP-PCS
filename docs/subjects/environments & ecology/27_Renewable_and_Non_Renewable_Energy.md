@@ -1,17 +1,17 @@
-# Topic 27 — Renewable & Non-Renewable Energy
+# Topic 27 — Renewable & Non-Renewable Energy (अनवीकरणीय ऊर्जा)
 ### ★ UPPCS Revision Sheet — Lucent-style (no repetition · Practice ≥25)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Renewable | Non-renewable | Conventional | Non-conventional | Solar | Wind | Biomass | Biofuels | Biogas | Bioethanol | Biodiesel | Small Hydro | Tidal | Ocean | Energy Security | India Scenario | National RE Programme | National Solar Mission | Energy Conservation | Energy Efficiency
+Renewable | Non-renewable | Conventional | Non-conventional | Solar | Wind | Biomass | Biofuels | Biogas (बायोगैस) | Bioethanol (बायो-इथेनॉल) | Biodiesel (बायो-डीजल) | Small Hydro | Tidal | Ocean | Energy Security | India Scenario | National RE Programme | National Solar Mission | Energy Conservation | Energy Efficiency
 
 </details>
 
 > **Sources baked in:** NCERT Geo 11–12; MNRE; Energy Conservation Act 2001; BEE/PAT; National Policy on Biofuels 2018; National Solar Mission; UPPCS PYQs 2018–2025
 > **Weight:** ★★★ High — renewable vs non-renewable; biogas CH₄+CO₂; conventional/non-conventional; BEE/PAT; E20
 > **Last verified:** August 2026
-> **Overlap note:** Solar/wind/biomass/biogas/SHP/tidal detail also lives in the Renewable Energy chapter — this file keeps those as one-home facts and expands **non-renewable, biofuels, ocean, security, conservation/efficiency**.
+> **Overlap note:** Solar/wind/biomass/biogas/SHP/tidal detail also lives in the Renewable Energy (नवीकरणीय ऊर्जा) chapter — this file keeps those as one-home facts and expands **non-renewable, biofuels, ocean, security, conservation/efficiency**.
 
 ---
 
@@ -36,11 +36,11 @@ Renewable | Non-renewable | Conventional | Non-conventional | Solar | Wind | Bio
 10. **Bioethanol** (maize, sugarcane, etc.) blends with petrol. **Biodiesel** (Jatropha, Pongamia, UCO) blends with diesel. Biofuels are eco-friendly and can ease crisis but are often **not cost-effective** vs fossils.
 11. Biomass gasification of shells/husk yields **producer gas** (CO, H₂, traces of CH₄ — not CO₂-only); can run IC engines.
 12. Solar facts include National Solar Mission **2010**, ISA at **Gurugram**, **500 GW** non-fossil by **2030**, and **PM-KUSUM**.
-13. Wind leadership often names Tamil Nadu and Gujarat. **SHP ≤25 MW**. **Tidal** is Moon-driven. **Ocean energy** is a wider set that includes wave, OTEC, and tidal.
+13. Wind leadership often names Tamil Nadu (नाडु) and Gujarat. **SHP ≤25 MW**. **Tidal** is Moon-driven. **Ocean energy** is a wider set that includes wave, OTEC, and tidal.
 14. **OTEC** uses the temperature difference between warm surface water and cold deep water — not the same as tidal barrage power.
 15. Energy security: India imports a very large share of crude oil (often taught near **~85%**), while coal is mostly domestic. Strategic Petroleum Reserves sit at **Vizag, Mangalore, and Padur**.
 16. **Energy Conservation Act 2001** created **BEE**. **PAT (2012)** trades **ESCerts**. Star labels and UJALA LEDs are efficiency/conservation tools. PAT is **not** CCTS carbon credits.
-17. Coal is fossil non-renewable; biomass is renewable organic matter — do not call coal “biomass.” Nuclear is **not** a biomass energy source.
+17. Coal is fossil non-renewable; biomass is renewable organic matter — do not call coal “biomass.” Nuclear is **not** a biomass energy (बायोमास ऊर्जा) source.
 18. Tidal ≠ wave ≠ OTEC, even though all are ocean-related.
 19. Conventional includes large hydro; calling all hydro “non-conventional” is wrong under the Indian split.
 20. E20 is the higher ethanol blend ambition beyond E10 — do not freeze policy forever at E10.
@@ -107,7 +107,7 @@ Renewable | Non-renewable | Conventional | Non-conventional | Solar | Wind | Bio
 - India target: **500 GW non-fossil capacity by 2030** (COP26) — supports net zero **2070**.
 - **Nuclear** is usually classified as **non-renewable** (finite uranium + waste).
 
-> **Logic:** "Nuclear is renewable" = usually **FALSE** in UPPCS/UPSC. Non-conventional ≈ renewable in many stems.
+> **Logic:** "Nuclear is renewable" = usually **FALSE** in UPPCS/UPSC (संघ लोक सेवा आयोग). Non-conventional ≈ renewable in many stems.
 
 ---
 
@@ -165,7 +165,7 @@ Options: A. Solar B. Petroleum C. Wind D. Biogas
 
 **PYQ — UPPCS Prelims 2023, Q102**
 
-Non-conventional energy sources are those that are—
+Non-conventional energy (गैर-पारंपरिक (वैकल्पिक) ऊर्जा स्रोत) sources are those that are—
 
 Options: A. Non-renewable B. Renewable C. Produced from electricity D. Produced from heat
 
@@ -181,7 +181,7 @@ Options: A. Non-renewable B. Renewable C. Produced from electricity D. Produced 
 
 ## 27.5 Solar Energy
 
-**Identity:** PV + CSP | National Solar Mission 2010 | ISA Gurugram | 500 GW non-fossil 2030
+**Identity:** PV + CSP (सीएसपी) | National Solar Mission 2010 | ISA Gurugram | 500 GW non-fossil 2030
 
 - **PV** converts sunlight directly to electricity; **CSP** uses mirrors to heat fluid for steam turbines.
 - **National Solar Mission (2010)** under NAPCC — solar capacity scaled toward ~100 GW by early 2020s.
@@ -259,7 +259,7 @@ Options: A. Coal B. Nuclear C. Gobar D. Wood
 - Biogas forms when organic matter digests **without oxygen**.
 - Major constituents: **methane (~50–70%)** + **carbon dioxide (~25–45%)**.
 - **Butane** and **carbon monoxide** are not major biogas components.
-- Slurry is useful bio-fertiliser; SATAT promotes compressed biogas (CBG).
+- Slurry is useful bio-fertiliser; SATAT promotes compressed biogas (CBG) (संपीडित बायोगैस).
 
 **PYQ — UPPCS Prelims 2025, Q28**
 
@@ -294,10 +294,10 @@ Options: A. 1 and 3 B. 3 and 4 C. 2 and 3 D. 1 and 2
 
 - **Biodiesel** is fatty acid methyl ester (**FAME**) made by **transesterification** of vegetable oils + methanol + catalyst → biodiesel + glycerol.
 - Feedstocks: **Jatropha**, **Pongamia pinnata (karanj)**, used cooking oil (**RUCO** initiative).
-- **Pongamia** grows in arid / saline / alkaline soils; seeds are lipid-rich with nearly half **oleic acid** — classic dual-statement biodiesel stem with Jatropha.
+- **Pongamia** grows in arid / saline (लवणीय) / alkaline soils; seeds are lipid-rich with nearly half **oleic acid** — classic dual-statement biodiesel stem with Jatropha.
 - Blended with diesel as **B5/B10**.
 - Biodiesel ≠ biogas (liquid ester vs methane gas).
-- First Indian airline biofuel ATF flight (Aug **2018**): **SpiceJet** (Dehradun–Delhi).
+- First Indian airline biofuel ATF flight (Aug **2018**): **SpiceJet** (Dehradun (देहरादून)–Delhi).
 
 > **Logic:** Jatropha was promoted as non-edible biodiesel crop — yield challenges limited scale.
 
@@ -310,7 +310,7 @@ Options: A. 1 and 3 B. 3 and 4 C. 2 and 3 D. 1 and 2
 - MNRE defines **small hydro as ≤25 MW**; above that = large hydro (conventional).
 - Himalayan rivers have **enormous** hydro potential — Indian projects in UK, HP, Sikkim, Arunachal.
 - Run-of-river SHP has lower submergence than large storage dams.
-- **Ramganga (~198 MW)** is **large hydro**, not SHP.
+- **Ramganga (रामगंगा) (~198 MW)** is **large hydro**, not SHP.
 
 > **Logic:** Himalayan potential true; "Nepal border means zero Indian hydro" false.
 
@@ -322,7 +322,7 @@ Options: A. 1 and 3 B. 3 and 4 C. 2 and 3 D. 1 and 2
 
 - Tidal energy uses rise/fall of sea level driven mainly by the **Moon**.
 - India potential: **Gulf of Khambhat** (highest range), **Gulf of Kutch**.
-- Highly predictable vs wind/solar; capital cost and estuary impact are high.
+- Highly predictable vs wind/solar; capital cost and estuary (ज्वारनदमुख) impact are high.
 - Tidal ≠ wave energy (waves = wind-driven surface motion).
 
 ---
@@ -332,7 +332,7 @@ Options: A. 1 and 3 B. 3 and 4 C. 2 and 3 D. 1 and 2
 **Identity:** Wave + OTEC + salinity + tidal stream | Broader than tidal alone
 
 - **Ocean energy** includes **wave**, **OTEC**, **salinity gradient**, and **tidal stream** technologies.
-- **OTEC:** uses ≥~20°C temperature difference between warm surface and cold deep water — tropical seas (Lakshadweep/Andaman potential).
+- **OTEC:** uses ≥~20°C temperature difference between warm surface and cold deep water — tropical seas (Lakshadweep (लक्षद्वीप)/Andaman (अंडमान) potential).
 - Wave energy: wind-driven surface waves — R&D stage on Indian coasts.
 - Trap: "Ocean energy means only tidal" = **FALSE**.
 
@@ -408,7 +408,7 @@ Options: A. 1 and 3 B. 3 and 4 C. 2 and 3 D. 1 and 2
 **Identity:** EC Act 2001 | BEE | Star labeling | Avoided demand
 
 - **Energy conservation** means using less energy for the same service — avoid waste.
-- **Energy Conservation Act 2001** created **Bureau of Energy Efficiency (BEE)** under Ministry of Power.
+- **Energy Conservation Act 2001** created **Bureau of Energy Efficiency (BEE)** (ऊर्जा दक्षता ब्यूरो) under Ministry of Power.
 - BEE sets standards, labels, and norms for designated consumers.
 - **Star labeling (1–5 stars)** on ACs, fridges, fans, TVs, geysers — higher stars = lower consumption.
 - Building energy codes and awareness campaigns cut demand without new generation.
@@ -428,8 +428,8 @@ Options: A. 1 and 3 B. 3 and 4 C. 2 and 3 D. 1 and 2
 **Identity:** Same output, less input | PAT ESCerts | UJALA LEDs | PAT ≠ CCTS
 
 - **Energy efficiency** means delivering the same service with less energy input.
-- **PAT (Perform, Achieve and Trade), 2012:** market scheme for energy-intensive industries — surplus efficiency becomes tradable **ESCerts**.
-- PAT is **not** carbon credit trading (**CCTS 2023** is the carbon market).
+- **PAT (Perform, Achieve and Trade (पण्याध्यक्ष)), 2012:** market scheme for energy-intensive industries — surplus efficiency becomes tradable **ESCerts**.
+- PAT is **not** carbon credit (कार्बन क्रेडिट) trading (**CCTS 2023** is the carbon market).
 - **UJALA:** mass LED distribution — large residential efficiency gain.
 - Efficiency + renewables together cut emissions faster than either alone.
 

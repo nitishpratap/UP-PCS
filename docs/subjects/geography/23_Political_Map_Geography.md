@@ -7,7 +7,7 @@
 
 **Political:** UNCLOS (12/24/200) | India’s neighbours | Boundary lines | Coastline | Capitals | Landlocked / equator | Geographical sobriquets
 
-**Map:** Seas · gulfs · bays | Straits | Canals | Mountains | Rivers / lakes | Ports | Köppen (map climate)
+**Map:** Seas · gulfs · bays | Straits | Canals | Mountains | Rivers / lakes | Ports | Köppen (कोपेन) (map climate)
 
 </details>
 
@@ -39,7 +39,7 @@ D. 8 degrees 4' N to 37 degrees 6' N
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Mainland excludes islands — southern limit is Kanyakumari, not Indira Point.
+**Logic:** Mainland excludes islands — southern limit is Kanyakumari (कन्याकुमारी), not Indira Point (इंदिरा पॉइंट).
 
 **Ans: D (Series B provisional key).** Mainland: 8°4'N to 37°6'N. 6°4'N is Indira Point (islands).
 
@@ -61,19 +61,19 @@ D. 8 degrees 4' N to 37 degrees 6' N
 9. Area ladder: Russia > Canada > USA > China > Brazil > Australia > **India (7th)**. Longest world coastline = **Canada** (then Indonesia, Russia, Philippines, Japan, Australia in the usual set).
 10. Central Asia capital set: Uzbekistan **Tashkent**, Tajikistan **Dushanbe**, Kyrgyzstan **Bishkek**, Turkmenistan **Ashgabat**.
 11. **Bolivia** is landlocked among common South America traps. **Laos** = only SE Asia landlocked. **Nobi/Kanto** = Japan. **Igarka** = Russia.
-12. **Thornthwaite** is the true **vegetation** climate index. **Köppen** gives letter-code climate classes. Mediterranean = **winter rain**. Western Europe = rain **all months** plus westerlies (**Cfb**).
-13. India is the **seventh**-largest country, about **2.4%** of world land, with the Tropic of Cancer through the middle — so India is **not** wholly tropical. The Tropic does **not** cross **Uttar Pradesh**.
+12. **Thornthwaite** (थॉर्नथ्वेट) is the true **vegetation** climate index. **Köppen** gives letter-code climate classes. Mediterranean = **winter rain**. Western Europe = rain **all months** plus westerlies (**Cfb**).
+13. India is the **seventh**-largest country, about **2.4%** of world land, with the Tropic of Cancer (कर्क रेखा) through the middle — so India is **not** wholly tropical. The Tropic does **not** cross **Uttar Pradesh** (उत्तर प्रदेश).
 14. **Cape Verde** capital = **Praia**. **Bamako** = Mali. Only common double-landlocked states: **Uzbekistan** and **Liechtenstein**.
 15. Uttar Pradesh’s only foreign neighbour is **Nepal**.
 16. Largest landlocked country by area = **Kazakhstan**. Most populous landlocked = **Ethiopia**. **Lesotho** is an enclave inside South Africa.
 17. **49th Parallel** ≈ USA–Canada. **38th Parallel** ≈ Koreas. Maginot ≈ France–Germany; Rio Grande ≈ USA–Mexico.
-18. Equator traps: Egypt and Mexico are **not** equatorial countries in the usual MCQ sense.
+18. Equator traps: Egypt (मिस्र) and Mexico are **not** equatorial countries in the usual MCQ sense.
 19. India’s nine coastal states include Gujarat as the longest; Telangana is not coastal.
-20. Oder–Neisse is the historic Germany–Poland line; do not confuse it with McMahon or Durand.
+20. Oder–Neisse is the historic (ऐतिहासिक) Germany–Poland line; do not confuse it with McMahon or Durand.
 21. Shelf rights beyond 200 nm (up to 350) are seabed rights — they do not create a wider EEZ water column.
 22. Horn of Africa = Djibouti, Eritrea, Ethiopia, Somalia (**not Sudan**). Balkans = Albania, Bosnia and Herzegovina, Bulgaria, Croatia, Greece, Kosovo, Montenegro, North Macedonia, Romania, Serbia, Slovenia, European Türkiye — **Austria not** Balkan. Oceania excludes **Indonesia**. Caspian five exclude Armenia/Iraq.
 23. Capitals ≠ famous cities: Australia **Canberra**; Japan **Tokyo**; Nigeria **Abuja**; Myanmar **Naypyidaw**; Slovenia **Ljubljana** (Bratislava = Slovakia).
-24. Old names: Siam→Thailand; Formosa→Taiwan; Gold Coast→Ghana; Dutch Guiana→**Suriname**; Southern Rhodesia→Zimbabwe.
+24. Old names: Siam→Thailand; Formosa→Taiwan; Gold Coast→Ghana (घन); Dutch Guiana→**Suriname**; Southern Rhodesia→Zimbabwe.
 25. Greenland = Denmark politically / N America geographically. Gaza borders **Egypt + Israel**. Afghanistan does **not** border Russia.
 26. Most megacities are coastal as **ocean gateways**. Alaska = USA; Malta = Mediterranean; Baikonur = **Kazakhstan**.
 27. **Norway** = Land of the Midnight Sun (Arctic Circle). **Japan** = Land of the Rising Sun. **Finland** = Thousand Lakes. **(South) Korea** = Morning Calm. **Thailand** = White Elephants.
@@ -208,12 +208,12 @@ Teach the **full political atlas**. Next year can ask any Lucent capital or stra
 
 ## N.1 UNCLOS
 
-**Adopted:** 1982 · **in force:** 1994 · **India:** 1995
+**Adopted (अंगीकृत):** 1982 · **in force:** 1994 · **India:** 1995
 
 Zones are measured from baselines. The normal baseline is the low-water line. One nautical mile is about **1.852 km**.
 
 - **Internal waters** inside the baselines are under full sovereignty — ports and lagoons included.
-- The **territorial sea** extends **12 nm**. The coastal state has full sovereignty. Foreign ships get **innocent passage**.
+- The **territorial sea** extends **12 nm**. The coastal state has full sovereignty. Foreign ships (नावाध्यक्ष) get **innocent passage**.
 - The **contiguous zone** extends **24 nm** from the baseline for customs, fiscal, immigration and sanitary control.
 - The **EEZ** extends **200 nm**. The coastal state has sovereign rights over **resources** (fish, oil, wind). That is not the same as owning the sea like land.
 - The **continental shelf** is at least **200 nm**. Geology can take seabed rights to **350 nm**. Water above that extra shelf is **not** extra EEZ.
@@ -249,9 +249,9 @@ India’s **longest** land border is with **Bangladesh**.
 
 India’s **shortest** land border is with **Afghanistan**.
 
-Pakistan-facing states and UTs include Gujarat, Rajasthan, Punjab and J&K / Ladakh.
+Pakistan-facing states and UTs include Gujarat, Rajasthan, Punjab and J&K / Ladakh (लद्दाख).
 
-China-facing units include Ladakh, Himachal Pradesh, Uttarakhand, Sikkim and Arunachal Pradesh.
+China-facing units include Ladakh, Himachal (हिमाचल) Pradesh, Uttarakhand (उत्तराखंड), Sikkim and Arunachal Pradesh.
 
 Nepal-facing states include Uttarakhand, **Uttar Pradesh**, Bihar, West Bengal and Sikkim.
 
@@ -259,7 +259,7 @@ Bhutan-facing states include Sikkim, West Bengal, Assam and Arunachal Pradesh.
 
 Myanmar-facing states include Arunachal Pradesh, Nagaland, Manipur and Mizoram.
 
-Bangladesh-facing states include West Bengal, Assam, Meghalaya, Tripura and Mizoram.
+Bangladesh-facing states include West Bengal, Assam, Meghalaya (मेघालय), Tripura and Mizoram.
 
 Among foreign countries, **Uttar Pradesh** touches **Nepal only**.
 
@@ -275,19 +275,19 @@ Eight states sit on it: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkh
 
 The Tropic of Cancer does **not** pass through **Uttar Pradesh**.
 
-It does **not** pass through **Ladakh**.
+It does **not** pass through **Ladakh** (लद्दाख).
 
 India is **not** wholly tropical.
 
 The north goes well beyond 23½° N, so a “fully tropical India” statement is false.
 
-India’s standard meridian is **82°30′ E** on the Mirzapur / Prayagraj belt.
+India’s standard meridian (मानक याम्योत्तर) is **82°30′ E** on the Mirzapur (मिर्ज़ापुर) / Prayagraj (प्रयागराज) belt.
 
 That meridian defines **IST**.
 
-The northern extreme is Indira Col / Kashmir.
+The northern extreme is Indira Col (इंदिरा कोल) / Kashmir.
 
-The southern extreme is **Indira Point** in the Andaman and Nicobar Islands.
+The southern extreme is **Indira Point** in the Andaman (अंडमान) and Nicobar (निकोबार) Islands.
 
 The western extreme is **Ghuar Mota** in Gujarat.
 
@@ -301,7 +301,7 @@ The eastern extreme is **Kibithu** in Arunachal Pradesh.
 
 **Between:** India and China (Arunachal / Tibet) · **Person:** Henry McMahon · **Conference:** Simla
 
-- Eastern Himalaya alignment. China disputes it.
+- Eastern Himalaya (हिमालय) alignment. China disputes it.
 - Paper spelling may be **MacMohan**.
 - **Not** the Pakistan, Nepal, or Myanmar line (2018).
 
@@ -367,9 +367,9 @@ D. India and Nepal
 
 **Mainland + islands:** ≈ **7,516.6 km** · **Nine** coastal states
 
-The nine coastal states are Gujarat, Maharashtra, Goa, Karnataka, Kerala, Tamil Nadu, Andhra Pradesh, Odisha and West Bengal.
+The nine coastal states are Gujarat, Maharashtra, Goa (गोवा), Karnataka, Kerala, Tamil Nadu (नाडु), Andhra Pradesh, Odisha and West Bengal.
 
-Coastal Union Territories include Andaman & Nicobar, Lakshadweep, Puducherry and Daman & Diu (inside DN&DD).
+Coastal Union Territories include Andaman & Nicobar, Lakshadweep (लक्षद्वीप), Puducherry and Daman & Diu (inside DN&DD).
 
 The longest **state** coastline is **Gujarat**.
 
@@ -426,7 +426,7 @@ Bhutan’s capital is **Thimphu**.
 
 Myanmar’s capital is **Naypyidaw**.
 
-**Yangon** is Myanmar’s old capital / major port, not the present capital.
+**Yangon** is Myanmar’s old capital / major port (बंदरगाह), not the present capital.
 
 Bangladesh’s capital is **Dhaka**.
 
@@ -434,11 +434,11 @@ Sri Lanka’s official capital is **Sri Jayawardenepura Kotte**.
 
 **Colombo** is Sri Lanka’s commercial city.
 
-The Maldives’ capital is **Malé**.
+The Maldives’ capital is **Mal (माल)é**.
 
 ## Central Asia capitals (match bank)
 
-2019 asked four “Stan” capitals. Next paper can still pick **Kazakhstan** or swap names. Learn the full set. Starred rows mark the 2019 order.
+2019 asked four (चातुर्याम) “Stan” capitals. Next paper can still pick **Kazakhstan** or swap names. Learn the full set. Starred rows mark the 2019 order.
 
 | Country | Capital | Trap |
 |---------|---------|------|
@@ -521,9 +521,9 @@ The Maldives’ capital is **Malé**.
 |-----|-----|
 | Siam | **Thailand** |
 | Formosa | **Taiwan** |
-| Mesopotamia | **Iraq** |
+| Mesopotamia (मेसोपोटामिया) | **Iraq** |
 | Burma | **Myanmar** |
-| Gold Coast | **Ghana** |
+| Gold Coast | **Ghana** (घन) |
 | Dutch Guiana | **Suriname** (not Ghana) |
 | Southern Rhodesia | **Zimbabwe** (Harare was Salisbury) |
 | Abyssinia | Ethiopia |
@@ -607,7 +607,7 @@ Geographical sobriquets are coaching nicknames for countries, cities, and region
 | Playground of Europe | **Switzerland** |
 | Island of Cloves | **Zanzibar** |
 | Pearl of the Antilles / Sugar Bowl of the World | **Cuba** |
-| Island of Pearls / Pearl of the Persian Gulf | **Bahrain** |
+| Island of Pearls / Pearl of the Persian (फ़ारसी) Gulf | **Bahrain** |
 | Gift of the Nile | **Egypt** |
 | Land of Canals | **Pakistan** (coaching tag) |
 | Blue Grass State | **Kentucky** (USA) |
@@ -634,20 +634,20 @@ Geographical sobriquets are coaching nicknames for countries, cities, and region
 
 | Sobriquet | Place |
 |-----------|-------|
-| City of Golden Temple | Amritsar |
+| City of Golden Temple (स्वर्ण मंदिर) | Amritsar (अमृतसर) |
 | Land of Five Rivers | Punjab |
 | Gateway of India / City of Seven Islands | Mumbai |
 | Queen of the Arabian Sea | Kochi (Cochin) |
 | Spice Garden of India | Kerala |
 | Switzerland of India | Kashmir |
-| Twin Cities | Hyderabad–Secunderabad |
-| Manchester of India | Ahmedabad |
+| Twin Cities | Hyderabad (हैदराबाद)–Secunderabad |
+| Manchester of India | Ahmedabad (अहमदाबाद) |
 | Venice of the East | Alappuzha (Alleppey) |
-| Sorrow of Bengal | Damodar |
-| Sorrow of Bihar | Kosi |
+| Sorrow of Bengal | Damodar (दामोदर) |
+| Sorrow of Bihar | Kosi (कोसी) |
 | Sorrow of China | Huang He (Hwang Ho) |
-| Queen of Chotanagpur | Netarhat (Jharkhand) |
-| Queen of Mountains (India) | Mussoorie |
+| Queen of Chotanagpur (छोटानागपुर) | Netarhat (Jharkhand) |
+| Queen of Mountains (India) | Mussoorie (मसूरी) |
 | World’s Bread Basket | Prairies of North America |
 
 **Ocean ridge pair (often pasted near sobriquets in GC):** **Ninety East Ridge** (90°E Ridge) lies in the **Indian Ocean**.
@@ -780,7 +780,7 @@ D. Bolivia
 
 - Bab el-Mandeb — Red Sea and Gulf of Aden (Yemen–Djibouti/Eritrea).
 - Palk — India and Sri Lanka, with Adam’s Bridge.
-- 10° Channel — Andaman and Nicobar. 8°/9° Degree — Lakshadweep / Maldives side.
+- 10° Channel (दस डिग्री) — Andaman and Nicobar. 8°/9° Degree — Lakshadweep / Maldives side.
 - Dover — North Sea and English Channel (UK–France).
 - Magellan — Atlantic and Pacific inshore (Chile); Cape Horn is the open-ocean south.
 - Torres — Australia and Papua New Guinea. Bass — Tasmania and Australia. Cook — NZ islands.
@@ -813,7 +813,7 @@ D. Bolivia
 **Joins:** North Sea and Baltic · **Country:** Germany
 
 - Corinth is Ionian and Aegean (Greece).
-- St Lawrence Seaway is Great Lakes and Atlantic.
+- St Lawrence (लॉरेंस) Seaway is Great Lakes and Atlantic.
 - Rhine–Main–Danube is North Sea inland to the Black Sea.
 
 **Inline PYQ — UPPCS Prelims 2025, Q138**
@@ -897,7 +897,7 @@ D. Lake Manzala-Lake Timsah- Cireat Bitter Lake-Little Bitter Lake
 | **Pontic** ★ | Northern **Turkey** (Black Sea side) | 2024 W→E |
 | **Zagros** ★ | Western **Iran** | 2024 W→E |
 | **Hindu Kush** ★ | **Afghanistan** (into N Pakistan) | 2024 W→E |
-| **Karakoram** ★ | N Pakistan / Ladakh / China border | 2024 W→E; K2 |
+| **Karakoram** (काराकोरम) ★ | N Pakistan / Ladakh / China border | 2024 W→E; K2 |
 | Alps | **Europe** (France–Switzerland–Italy–Austria) | Mont Blanc |
 | Atlas | NW **Africa** (Morocco–Algeria–Tunisia) | |
 | Andes | **South America** (spine) | Aconcagua in Argentina |
@@ -988,7 +988,7 @@ The **Nile** opens into the Mediterranean.
 
 The **Amazon** and the **Congo** open into the Atlantic.
 
-The **Mississippi** opens into the Gulf of Mexico and builds a bird’s-foot delta.
+The **Mississippi** opens into the Gulf of Mexico and builds a bird’s-foot (पक्षी-पाद) delta (डेल्टा).
 
 The **Danube** opens into the Black Sea.
 
@@ -1004,9 +1004,9 @@ The **Mekong** delta is in **southern Vietnam**, not Cambodia as the sea mouth.
 
 The **Irrawaddy** opens into the Andaman Sea.
 
-The **Indus** opens into the Arabian Sea.
+The **Indus** (सिंधु) opens into the Arabian Sea.
 
-The **Ganga–Brahmaputra** opens into the Bay of Bengal.
+The **Ganga (गंगा)–Brahmaputra (ब्रह्मपुत्र)** opens into the Bay of Bengal.
 
 The **Huang He** opens into the Yellow Sea.
 
@@ -1095,14 +1095,14 @@ D. Jakarta — Indonesia
 
 - **Af** — tropical rainforest, rain all year (Amazon, Congo, Indonesia).
 - **Am** — tropical monsoon (west-coast India, parts of SE Asia).
-- **Aw** — savanna, wet–dry (Deccan, African savanna, Brazilian cerrado).
-- **BWh** — hot desert (Sahara, Arabia, Thar, Australia interior).
-- **BWk** — cold desert (Gobi). **BSh/BSk** — steppe (Sahel, Prairie edge).
+- **Aw** — savanna (सवाना), wet–dry (Deccan (दक्कन), African savanna, Brazilian cerrado).
+- **BWh** — hot desert (Sahara, Arabia, Thar (थार), Australia interior).
+- **BWk** — cold desert (Gobi). **BSh/BSk** — steppe (Sahel, Prairie (प्रेयरी) edge).
 - **Cs** — Mediterranean: **winter rain**, dry summer; five west-coast patches.
 - **Cfa** — humid subtropical (SE USA, east China).
 - **Cfb** — marine west coast with rain in **all months**. Classic home is **Western Europe** under the westerlies (2024 both).
 - **Df/Dw** — humid continental / subarctic (Canada, Siberia).
-- **ET** — tundra. **EF** — ice cap. **H** — highland (Tibet, Andes).
+- **ET** — tundra (टुंड्रा). **EF** — ice cap. **H** — highland (Tibet, Andes).
 - Mediterranean: at the Northern Hemisphere winter solstice, belts shift **south** and westerlies cover the Med (2024 both). Summer is dry under the subtropical high / dry land winds (2022 A/R — both true, R explains).
 
 **Inline PYQ — UPPCS Prelims 2018, Q25**

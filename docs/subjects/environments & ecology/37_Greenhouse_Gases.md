@@ -4,7 +4,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Carbon Dioxide (CO₂) | Methane (CH₄) | Nitrous Oxide (N₂O) | Water Vapour | Ozone | Chlorofluorocarbons (CFCs) | Hydrofluorocarbons (HFCs)
+Carbon Dioxide (CO₂) (कार्बन डाइऑक्साइड) | Methane (CH₄) | Nitrous Oxide (N₂O) | Water Vapour | Ozone | Chlorofluorocarbons (CFCs) (सीएफसी) | Hydrofluorocarbons (HFCs) (एचएफसी)
 
 </details>
 
@@ -16,7 +16,7 @@ Carbon Dioxide (CO₂) | Methane (CH₄) | Nitrous Oxide (N₂O) | Water Vapour 
 
 ## Current Affairs (this topic)
 
-- WMO GHG Bulletin and methane CA refresh this twin of Climate Change.
+- WMO GHG Bulletin and methane CA refresh this twin of Climate Change (जलवायु परिवर्तन).
 - GWP order traps (CO₂ / CH₄ / N₂O / fluorinated) stay core.
 
 ---
@@ -24,21 +24,21 @@ Carbon Dioxide (CO₂) | Methane (CH₄) | Nitrous Oxide (N₂O) | Water Vapour 
 ## Consolidated — 30 Must-Score Facts
 
 1. A greenhouse gas absorbs outgoing infrared radiation and traps heat in the atmosphere.
-2. Without the natural greenhouse effect Earth would average about **−18°C**. With it the surface averages about **+15°C**. **Joseph Fourier (1820s)** framed the idea.
+2. Without the natural greenhouse effect (प्राकृतिक ग्रीनहाउस प्रभाव) Earth would average about **−18°C**. With it the surface averages about **+15°C**. **Joseph Fourier (1820s)** framed the idea.
 3. **CO₂** has **GWP = 1**. It dominates long-term forcing from fossil fuels, cement, and deforestation.
 4. Pre-industrial CO₂ was about **280 ppm (~0.03%)**. Present levels are above **415–420 ppm**.
-5. Rough WMO-style relative shares: **CO₂ ~64%, CH₄ ~19%, N₂O ~6%, CFCs + others ~11%**. Order: **CO₂ > CH₄ > CFCs > N₂O**.
+5. Rough WMO-style relative (सापेक्ष) shares: **CO₂ ~64%, CH₄ ~19%, N₂O ~6%, CFCs + others ~11%**. Order: **CO₂ > CH₄ > CFCs > N₂O**.
 6. **Methane (CH₄)** has GWP about **28–36**, a shorter lifetime near **12 years**, and strong links to paddies, cattle, landfills, termites, and wetlands (**marsh gas**).
 7. **Nitrous oxide (N₂O)** is “laughing gas,” has very high GWP (about **265**), and is strongly linked to **fertilizer** use. **Rice** emits both CH₄ and N₂O.
 8. **Water vapour** is the most abundant natural greenhouse gas (~half of natural effect), but it mainly acts as a **feedback**, not the primary anthropogenic driver.
-9. **Tropospheric ozone** is a greenhouse gas and pollutant. **Stratospheric ozone** is the UV shield.
+9. **Tropospheric ozone** (क्षोभमंडलीय ओजोन) is a greenhouse gas and pollutant. **Stratospheric ozone** (समतापमंडलीय ओजोन) is the UV shield.
 10. **CFCs** are both greenhouse gases and ozone-depleting substances and fall under Montreal controls.
 11. **HFCs** are greenhouse gases only (not classic ODS) and are phased down under **Kigali 2016**.
 12. Gases that are **not** greenhouse gases include **argon, N₂, O₂, helium, hydrogen, and propane**.
-13. The Kyoto basket covers **CO₂, CH₄, N₂O, HFCs, PFCs, and SF₆** (later also **NF₃**).
+13. The Kyoto (क्योटो) basket covers **CO₂, CH₄, N₂O, HFCs, PFCs, and SF₆** (later also **NF₃**).
 14. **GWP** compares heat-trapping power to CO₂ over a stated horizon, usually **100 years**. Methane’s short-horizon GWP is much higher than CO₂ — CH₄ is more potent per molecule.
 15. **CO₂e** converts all greenhouse gases into carbon-dioxide equivalent using GWP.
-16. Biogas is mainly **methane plus CO₂**. Do not treat biogas as CO₂-only.
+16. Biogas (बायोगैस) is mainly **methane plus CO₂**. Do not treat biogas as CO₂-only.
 17. Paddy fields are a classic **methane** source fact in Indian papers.
 18. **Direct** GHGs: CO₂, CH₄, N₂O, CFCs, SF₆, NF₃. **Indirect:** NOₓ, CO, NMVOCs, SO₂.
 19. CFC versus HFC is dual-role ODS+GHG versus climate-only substitute under Kigali.
@@ -51,8 +51,8 @@ Carbon Dioxide (CO₂) | Methane (CH₄) | Nitrous Oxide (N₂O) | Water Vapour 
 26. Ozone’s greenhouse role is mainly **tropospheric**; do not call stratospheric ozone the main GHG form.
 27. **Carbon fertilization** = higher plant growth from elevated CO₂.
 28. **Methane hydrates** in Arctic/seafloor can release CH₄ if warmed; CH₄ oxidises to CO₂ in about a decade or two.
-29. **China** is the largest CO₂ emitter; India ~3rd absolute; **Bhutan** often carbon-negative.
-30. CO₂ is both **useful** (photosynthesis) and **harmful** (enhanced greenhouse effect) to life on Earth.
+29. **China** is the largest CO₂ emitter; India ~3rd absolute (निरपेक्ष); **Bhutan** often carbon-negative.
+30. CO₂ is both **useful** (photosynthesis) and **harmful** (enhanced greenhouse effect (मानवजनित संवर्धित प्रभाव)) to life on Earth.
 
 ---
 
@@ -95,8 +95,8 @@ Carbon Dioxide (CO₂) | Methane (CH₄) | Nitrous Oxide (N₂O) | Water Vapour 
 - Main human sources: **fossil fuel combustion**, **cement**, **deforestation / land-use change**.
 - Persists in the climate system for a very long time compared with methane.
 - India ranks among the top absolute emitters (~**3rd**; **China** #1) but has **low per capita** emissions.
-- **Carbon fertilization** increases plant growth from higher CO₂ — distinct from warming and ocean acidification.
-- CO₂ forms weak carbonic acid in rain (natural pH ~5.6) but is **not** the main driver of damaging acid rain (SO₂/NOx dominate).
+- **Carbon fertilization** increases plant growth from higher CO₂ — distinct from warming and ocean acidification (महासागरीय अम्लीकरण).
+- CO₂ forms weak carbonic acid in rain (natural pH ~5.6) but is **not** the main driver of damaging acid rain (अम्ल वर्षा) (SO₂/NOx dominate).
 - CO₂ is both **beneficial** (photosynthesis) and **harmful** (enhanced greenhouse warming).
 
 **PYQ — UPPCS Prelims 2018, Q132**
@@ -125,7 +125,7 @@ Options: A. China B. USA C. India D. France
 - Flooded **rice paddies** create anaerobic soils that emit CH₄. With nitrogen fertiliser, **rice** is also a major **N₂O** source.
 - **Livestock** enteric fermentation (cattle/buffalo) is a major Indian source.
 - Other sources: **landfills**, coal mines, natural **wetlands** (~**75–76%** of natural CH₄), and **termites**.
-- **Methane hydrates** under Arctic tundra and seafloor can release CH₄ if warmed; CH₄ oxidises to CO₂ in roughly a decade or two.
+- **Methane hydrates** under Arctic tundra (टुंड्रा) and seafloor can release CH₄ if warmed; CH₄ oxidises to CO₂ in roughly a decade or two.
 - **CNG** is mainly **methane** (~90%).
 - **Biogas** is mainly **methane + carbon dioxide**.
 
@@ -218,7 +218,7 @@ Options: A. Ammonia B. Nitrous Oxide C. Carbon Monoxide D. Chlorofluorocarbon
 - **Water vapour** is the strongest contributor to the **natural** greenhouse effect by volume.
 - It is mainly a **feedback**: warming increases evaporation → more vapour → more warming.
 - Humans do not control water vapour the way they control CO₂/CH₄/N₂O emission inventories.
-- Concentration varies widely (about **0–4%**) with place and weather; most is in the troposphere.
+- Concentration varies widely (about **0–4%**) with place and weather; most is in the troposphere (क्षोभमंडल).
 - Condenses into clouds; linked to the hydrological cycle.
 
 > **Logic:** “Largest anthropogenic GHG” is **not** water vapour — that label belongs to **CO₂** by forcing share.
@@ -268,8 +268,8 @@ Options: A. Nitrogen oxide B. CO₂ C. Methane D. Ozone
 
 - **CFCs** are human-made compounds once used in refrigeration, aerosols, and foam blowing.
 - They are **both** greenhouse gases (**very high GWP**) and **ozone-depleting substances**.
-- Controlled and largely phased out under the **Montreal Protocol**.
-- In the atmosphere they are long-lived; UV in the stratosphere releases chlorine that destroys O₃.
+- Controlled and largely phased out under the **Montreal Protocol** (मॉन्ट्रियल प्रोटोकॉल).
+- In the atmosphere they are long-lived; UV in the stratosphere (समतापमंडल) releases chlorine that destroys O₃.
 - Still appear in “NOT a GHG?” questions as a **true GHG** distractor next to argon.
 
 **PYQ — UPPCS Prelims 2022, Q102**
@@ -286,7 +286,7 @@ Options: A. Argon B. CFC C. Methane D. Carbon dioxide
 
 **PYQ — UPPCS Prelims 2025, Q45**
 
-Ozone depletion has been linked to CFCs — **TRUE** (with UV-protection statement).
+Ozone depletion (ओजोन क्षरण) has been linked to CFCs — **TRUE** (with UV-protection statement).
 
 > **Logic:** CFC = climate warmer **and** ozone destroyer.
 
@@ -298,7 +298,7 @@ Ozone depletion has been linked to CFCs — **TRUE** (with UV-protection stateme
 
 - **HFCs** replaced many CFCs/HCFCs in air-conditioning and refrigeration.
 - They **do not deplete ozone** (no chlorine/bromine ODS role) but have **very high GWP**.
-- Included in the **Kyoto** climate basket; phased down under the **Kigali Amendment (2016)** to the Montreal Protocol.
+- Included in the **Kyoto** (क्योटो) climate basket; phased down under the **Kigali Amendment (2016)** (किगाली संशोधन) to the Montreal Protocol.
 - Key fact: **HFC = hot but no hole**.
 
 | Gas | ODS? | Climate role | Treaty home |

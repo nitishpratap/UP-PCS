@@ -17,18 +17,18 @@ Indian Classical Dances, Bharatanatyam, Kathak, Kathakali, Kuchipudi, Mohiniyatt
 
 - **Garba of Gujarat** entered the UNESCO Intangible Cultural Heritage list in **December 2023**. It is a folk form. It is not one of the eight classical dances.
 - **Yamini Krishnamurthy**, a leading exponent of Bharatanatyam and Kuchipudi, died on **3 August 2024**.
-- **Birju Maharaj** of the Lucknow Kathak gharana died in **January 2022**.
-- **Kalbelia** of Rajasthan entered UNESCO ICH in **2010**.
-- **Chhau** entered UNESCO ICH in **2010**. It is still not on the Sangeet Natak Akademi list of eight.
-- **Sankirtana** of Manipur entered UNESCO ICH in **2013**. It is ritual music and dance. It is not a ninth classical dance.
-- The **Sangeet Natak Akademi** was founded in **1952**. That year is not the year Sattriya was added.
+- **Birju Maharaj** (बिरजू) of the Lucknow Kathak gharana died in **January 2022**.
+- **Kalbelia** (कालबेलिया) of Rajasthan entered UNESCO ICH in **2010**.
+- **Chhau** (छऊ) entered UNESCO ICH in **2010**. It is still not on the Sangeet Natak Akademi list of eight.
+- **Sankirtana** (संकीर्तन) of Manipur entered UNESCO ICH in **2013**. It is ritual music and dance. It is not a ninth classical dance.
+- The **Sangeet Natak Akademi** (संगीत नाटक अकादेमी) was founded in **1952**. That year is not the year Sattriya was added.
 
 ---
 
 
 ## Consolidated Must-Score Facts
 
-1. The **Sangeet Natak Akademi** recognises **eight** classical dances. **Sattriya** of Assam was added in **2000**. A list of seven has dropped Sattriya.
+1. The **Sangeet Natak Akademi** recognises **eight** classical dances. **Sattriya** (सत्रीय) of Assam was added in **2000**. A list of seven has dropped Sattriya.
 2. **Chhau** (छऊ) is not one of those eight. It is UNESCO martial-folk. Some notes call it a ninth style. That is not the Akademi list.
 3. **Bharatanatyam** (भरतनाट्यम्) belongs to Tamil Nadu.
 4. **Kathak** (कथक) belongs to North India, with Lucknow in Uttar Pradesh as the main gharana.
@@ -37,26 +37,26 @@ Indian Classical Dances, Bharatanatyam, Kathak, Kathakali, Kuchipudi, Mohiniyatt
 7. **Odissi** (ओडिसी) belongs to Odisha.
 8. **Manipuri** (मणिपुरी) belongs to Manipur.
 9. **Sattriya** (सत्रिया) belongs to Assam.
-10. The root text is the **Natyashastra** of **Bharata Muni**. It teaches **nine** rasas.
-11. The four abhinaya are **angika** (body), **vachika** (speech or song), **aharya** (costume), and **sattvika** (inner feeling).
-12. **Nritta** is pure dance without a story. **Nritya** adds expressive abhinaya. **Natya** is dance-drama.
-13. **Lasya** is graceful movement. **Tandava** is vigorous movement. Kerala’s pair is male Kathakali tandava versus female Mohiniyattam lasya.
-14. **Bharatanatyam** uses the **araimandi** half-sit. It grew from temple **sadir**. **Rukmini Devi Arundale** and Kalakshetra led the modern stage revival.
-15. **Kathak** is the only one of the eight that uses Hindustani music. Markers are **chakkar** spins and **tatkar** footwork.
-16. Kathak gharanas are **Lucknow**, **Jaipur**, and **Banaras**. Lucknow is grace and abhinaya under Wajid Ali Shah and Birju Maharaj.
-17. **Kathakali** uses heavy **chutti** makeup. **Pacha** green marks the noble hero. It is not north Indian Kathak.
-18. **Kuchipudi** is Andhra village dance-drama. **Tarangam** is dancing on a brass plate.
+10. The root text is the **Natyashastra** (नाट्यशास्त्र) of **Bharata Muni** (भरत मुनि). It teaches **nine** rasas.
+11. The four abhinaya are **angika** (आंगिक) (body), **vachika** (speech or song), **aharya** (costume), and **sattvika** (सात्त्विक) (inner feeling).
+12. **Nritta** (नृत्त) is pure dance without a story. **Nritya** (नृत्य) adds expressive abhinaya. **Natya** (नाट्य) is dance-drama.
+13. **Lasya** is graceful movement. **Tandava** (तांडव) is vigorous movement. Kerala’s pair is male Kathakali tandava versus female Mohiniyattam lasya.
+14. **Bharatanatyam** uses the **araimandi** (अरैमंडी) half-sit. It grew from temple **sadir**. **Rukmini Devi Arundale** and Kalakshetra led the modern stage revival.
+15. **Kathak** is the only one of the eight that uses Hindustani music. Markers are **chakkar** (चक्कर) spins and **tatkar** (तत्कार) footwork.
+16. Kathak gharanas are **Lucknow** (लखनऊ), **Jaipur**, and **Banaras**. Lucknow is grace and abhinaya under Wajid Ali Shah and Birju Maharaj.
+17. **Kathakali** uses heavy **chutti** (चुट्टी) makeup. **Pacha** (पचा) green marks the noble hero. It is not north Indian Kathak.
+18. **Kuchipudi** is Andhra village dance-drama. **Tarangam** (तरंगम्) is dancing on a brass plate.
 19. **Mohiniyattam** is a Kerala female solo in white-and-gold kasavu. It uses Carnatic music.
-20. **Odissi** uses the **tribhanga** three-bend posture. Temple **mahari** women and boy **gotipua** dancers feed the tradition.
-21. **Manipuri** classical dance centres on **Ras Lila** of Manipur. Braj **Raslila** of Uttar Pradesh is a separate folk Krishna play.
-22. **Sattriya** grew in Assam’s **satra** monasteries from **Sankaradeva**. It is the latest of the official eight.
+20. **Odissi** uses the **tribhanga** (त्रिभंग) three-bend posture. Temple **mahari** women and boy **gotipua** (गोटिपुआ) dancers feed the tradition.
+21. **Manipuri** classical dance centres on **Ras Lila** of Manipur. Braj **Raslila** (रासलीला) of Uttar Pradesh is a separate folk Krishna play.
+22. **Sattriya** grew in Assam’s **satra** monasteries from **Sankaradeva** (शंकरदेव). It is the latest of the official eight.
 23. Among the eight, Bharatanatyam, Kuchipudi, and Mohiniyattam use Carnatic music. Only Kathak uses Hindustani music.
-24. **Garba** of Gujarat entered UNESCO ICH in **2023**. It is still folk, not classical.
+24. **Garba** (गरबा) of Gujarat entered UNESCO ICH in **2023**. It is still folk, not classical.
 25. **Kalbelia** of Rajasthan entered UNESCO ICH in **2010**.
 26. **Chhau** entered UNESCO ICH in **2010**. It is still not on the Akademi list of eight.
-27. **Bhangra** of Punjab, **Lavani** of Maharashtra, and **Bihu** of Assam are folk. They are not among the eight.
-28. **Braj Raslila** is Uttar Pradesh folk. **Charkula** is a Braj lamp-wheel dance. **Mayur** is the Braj peacock dance.
-29. **Chholiya** is a Kumaon sword dance. **Tharu** dance belongs to the Terai.
+27. **Bhangra** (भांगड़ा) of Punjab, **Lavani** (लावणी) of Maharashtra, and **Bihu** (बिहू) of Assam are folk. They are not among the eight.
+28. **Braj Raslila** is Uttar Pradesh folk. **Charkula** (चरकुला) is a Braj lamp-wheel dance. **Mayur** is the Braj peacock dance.
+29. **Chholiya** (छोलिया) is a Kumaon sword dance. **Tharu** dance belongs to the Terai.
 30. Do not confuse **Kathak** the dance with **Kathaka**, a reciter name linked in some texts with the Shukla Yajurveda.
 31. **Rukmini Devi Arundale** revived Bharatanatyam at Kalakshetra.
 32. **Kelucharan Mohapatra** reconstructed concert Odissi.
@@ -86,45 +86,13 @@ Indian Classical Dances, Bharatanatyam, Kathak, Kathakali, Kuchipudi, Mohiniyatt
 
 ---
 
-## Hindi spell — hard names
-
-Write these in Devanagari as given. One name, one spelling.
-
-| English | Hindi |
-|---------|-------|
-| Bharatanatyam | भरतनाट्यम् |
-| Kathak | कथक |
-| Kathakali | कथकली |
-| Kuchipudi | कुचिपुड़ी |
-| Mohiniyattam | मोहिनीअट्टम् |
-| Odissi | ओडिसी |
-| Manipuri | मणिपुरी |
-| Sattriya | सत्रिया |
-| Araimandi | अरैमंडी |
-| Tribhanga | त्रिभंग |
-| Chakkar / Tatkar | चक्कर / तत्कार |
-| Chutti / Pacha | चुट्टी / पचा |
-| Tarangam | तरंगम् |
-| Mahari / Gotipua | महारी / गोटिपुआ |
-| Lasya / Tandava | लास्य / तांडव |
-| Nritta / Nritya / Natya | नृत्त / नृत्य / नाट्य |
-| Angika / Vachika / Aharya / Sattvika | आंगिक / वाचिक / आहार्य / सात्त्विक |
-| Chhau | छऊ |
-| Garba | गरबा |
-| Kalbelia | कालबेलिया |
-| Sankirtana | संकीर्तन |
-| Bihu | बिहु |
-| Charkula | चरकुला |
-| Chholiya | छोलिया |
-
----
 
 ## Must-score drill — eight classical dances, gharanas, markers
 
 | Dance | State and marker |
 |-------|-------------|
 | Bharatanatyam | Tamil Nadu; araimandi stance; sadir origin; Rukmini Devi revival |
-| Kathak | North India / **Uttar Pradesh**; chakkar spins; tatkar footwork |
+| Kathak | North India / **Uttar Pradesh** (उत्तर प्रदेश); chakkar spins; tatkar footwork |
 | Kathakali | Kerala; chutti makeup; pacha green for the noble hero |
 | Kuchipudi | Andhra Pradesh; **tarangam** plate dance |
 | Odissi | Odisha; tribhanga three-bend stance |
@@ -178,8 +146,8 @@ The root text is the **Natyashastra** of **Bharata Muni**. The Sangeet Natak Aka
 | **Shanta** | peace (the later ninth) |
 
 - The *Abhinaya Darpana* of **Nandikesvara** is the companion text on hasta-mudras and bodily expression.
-- Among the eight, **Bharatanatyam**, **Kuchipudi**, and **Mohiniyattam** use **Carnatic** music.
-- Among the eight, only **Kathak** uses **Hindustani** music.
+- Among the eight, **Bharatanatyam**, **Kuchipudi**, and **Mohiniyattam** use **Carnatic** (कर्नाटक) music.
+- Among the eight, only **Kathak** uses **Hindustani** (हिंदुस्तानी) music.
 
 ### The eight, by state
 
@@ -188,7 +156,7 @@ The root text is the **Natyashastra** of **Bharata Muni**. The Sangeet Natak Aka
 - **Kathakali** belongs to **Kerala**.
 - **Kuchipudi** belongs to **Andhra Pradesh**. The name comes from the village of Kuchipudi in Krishna district.
 - **Mohiniyattam** belongs to **Kerala**.
-- **Odissi** belongs to **Odisha**.
+- **Odissi** belongs to **Odisha** (ओडिशा).
 - **Manipuri** belongs to **Manipur**.
 - **Sattriya** belongs to **Assam**. The Akademi recognised it in **2000**.
 
@@ -222,7 +190,7 @@ The root text is the **Natyashastra** of **Bharata Muni**. The Sangeet Natak Aka
 - Do not confuse **Kathak** the dance with **Kathaka**, a priestly reciter name linked in some texts with the Shukla Yajurveda.
 - Technical markers are **tatkar** (rhythmic footwork), **chakkar** (rapid spins), and **ghungroo**.
 - Mughal and Awadh courts turned temple katha into a court spectacle.
-- The peak Awadh patron is Nawab **Wajid Ali Shah**. He is not Akbar.
+- The peak Awadh patron is Nawab **Wajid Ali Shah** (वाजिद अली शाह). He is not Akbar.
 
 ### Three gharanas
 
@@ -321,7 +289,7 @@ The root text is the **Natyashastra** of **Bharata Muni**. The Sangeet Natak Aka
 **Assam | Srimanta Sankaradeva | Akademi classical from 2000**
 
 - Sattriya was born in **satra** monasteries as Vaishnava preaching.
-- It mixes music, dance, and drama. The play form is **Ankiya Nat** or **Bhaona**.
+- It mixes music, dance, and drama. The play form is **Ankiya Nat** (अंकिया नाट) or **Bhaona** (भाओना).
 - It is not only a festival item. It is also a daily satra ritual.
 - Male monks performed originally. Women perform in the concert age.
 - The instruments are **khol** and **taal**. The songs are **borgeet**.
@@ -336,18 +304,18 @@ The root text is the **Natyashastra** of **Bharata Muni**. The Sangeet Natak Aka
 **Rule:** These are community and festival dances. They are not on the Sangeet Natak Akademi list of eight.
 
 - **Bhangra** belongs to Punjab. It is a Baisakhi harvest dance for males.
-- **Giddha** belongs to Punjab. It is for women and uses boliyan.
+- **Giddha** (गिद्धा) belongs to Punjab. It is for women and uses boliyan.
 - **Garba** belongs to Gujarat. It is a Navratri circle around a lamp or Amba. It is UNESCO **Dec 2023**.
 - **Dandiya Raas** belongs to Gujarat. It uses sticks. It is not the same item as Garba.
-- **Lavani** belongs to Maharashtra. It is a powerful female form linked to **Tamasha** folk theatre.
+- **Lavani** belongs to Maharashtra. It is a powerful female form linked to **Tamasha** (तमाशा) folk theatre.
 - **Koli** belongs to the Maharashtra coast. It is a fisherfolk dance.
-- **Ghoomar** belongs to Rajasthan. It uses a swirling ghagra.
+- **Ghoomar** (घूमर) belongs to Rajasthan. It uses a swirling ghagra.
 - **Kalbelia** belongs to Rajasthan. It is a snake-community swirl. It is UNESCO **2010**.
 - **Bihu** belongs to Assam. It is danced at Bohag Bihu. It is folk, not Sattriya.
-- **Rouf** belongs to Kashmir. It is women’s rows in spring.
-- **Chhau** has three homes. **Seraikella** Chhau belongs to Jharkhand. **Purulia** Chhau belongs to West Bengal. **Mayurbhanj** Chhau belongs to Odisha and is danced without a mask. Chhau entered UNESCO in **2010**. It is not one of the Akademi eight.
+- **Rouf** (रौफ) belongs to Kashmir. It is women’s rows in spring.
+- **Chhau** has three homes. **Seraikella** Chhau belongs to Jharkhand. **Purulia** Chhau belongs to West Bengal. **Mayurbhanj** (मयूरभंज) Chhau belongs to Odisha and is danced without a mask. Chhau entered UNESCO in **2010**. It is not one of the Akademi eight.
 - **Pulikali** belongs to Kerala. It is a tiger dance at Onam.
-- **Theyyam** belongs to Kerala. It is ritual, not Kathakali.
+- **Theyyam** (तेय्यम) belongs to Kerala. It is ritual, not Kathakali.
 - **Dollu Kunitha** belongs to Karnataka. It is a drum dance.
 
 ### Uttar Pradesh folk
@@ -356,7 +324,7 @@ The root text is the **Natyashastra** of **Bharata Muni**. The Sangeet Natak Aka
 - **Charkula** belongs to Braj. A brass lamp-tier is worn on the head.
 - **Mayur nritya** belongs to Braj. It uses a peacock costume.
 - **Karma** harvest dances appear in eastern Uttar Pradesh and neighbouring tribal belts. They are folk, not Akademi classical.
-- **Nautanki** is Gangetic folk opera of Uttar Pradesh. It has Kanpur and Lucknow schools. It is named in the Ain-i-Akbari.
+- **Nautanki** (नौटंकी) is Gangetic folk opera of Uttar Pradesh. It has Kanpur and Lucknow schools. It is named in the Ain-i-Akbari.
 - **Chholiya** belongs to Kumaon, now in Uttarakhand and once in the UP hills. It is a sword wedding dance.
 - **Kajari** is a monsoon song of Banaras and Mirzapur. It sits beside dance. It is not a classical form.
 
@@ -369,12 +337,12 @@ The root text is the **Natyashastra** of **Bharata Muni**. The Sangeet Natak Aka
 These are Adivasi ritual dances. A few names, such as Chhau, sit on the folk–tribal edge.
 
 - **Cheraw** belongs to **Mizoram**. It uses bamboo poles. It is not Manipur and not Nagaland.
-- **Santhal** belongs to Jharkhand, WB, and Bihar. It is linked to Karam and Sohrai.
+- **Santhal** (संथाल) belongs to Jharkhand, WB, and Bihar. It is linked to Karam and Sohrai.
 - **Gaur Maria** belongs to Bastar, Chhattisgarh. It uses bison-horn.
 - **Dhimsa** belongs to the AP–Odisha hills. It is a circle dance.
 - **Hornbill festival dances** are a Nagaland showcase. The festival is not one tribe’s only dance.
-- **Hojagiri** belongs to Tripura (Reang). It uses bottles or lamps on the head.
-- **Wangala** belongs to the Garo of Meghalaya.
+- **Hojagiri** (होजगिरी) belongs to Tripura (Reang). It uses bottles or lamps on the head.
+- **Wangala** (वांगाला) belongs to the Garo of Meghalaya.
 - **Banjara / Lambadi** is nomadic and colourful.
 
 ### UP tribal

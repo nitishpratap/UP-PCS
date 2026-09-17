@@ -1,10 +1,10 @@
-﻿# Topic 2 — Ecology & Ecosystem
+﻿# Topic 2 — Ecology (पारिस्थितिकी) & Ecosystem (पारिस्थितिकी तंत्र)
 ### ★ UPPCS Revision Sheet — Lucent-style (no repetition · Practice ≥25)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Ecology – Meaning | Ecosystem | Types of Ecosystems | Terrestrial Ecosystem | Aquatic Ecosystem | Structure and Functions of Ecosystem | Biotic and Abiotic Components | Ecological Niche | Ecological Principles | Ecological Balance | Ecological Succession | Ecosystem Services | Ecosystem Productivity | Ecological Efficiency | Genetic Level Ecology | Species Level Ecology | Community Level Ecology
+Ecology – Meaning | Ecosystem | Types of Ecosystems | Terrestrial Ecosystem | Aquatic Ecosystem | Structure and Functions of Ecosystem | Biotic and Abiotic Components (अजैविक घटक) | Ecological Niche (पारिस्थितिक निकेत) | Ecological Principles | Ecological Balance | Ecological Succession (उत्तराधिकार क्रम) | Ecosystem Services | Ecosystem Productivity | Ecological Efficiency | Genetic Level Ecology | Species Level Ecology | Community Level Ecology
 
 </details>
 
@@ -16,47 +16,47 @@ Ecology – Meaning | Ecosystem | Types of Ecosystems | Terrestrial Ecosystem | 
 
 ## Current Affairs (this topic)
 
-- Ecosystem-services and productivity stems stay conceptual — refresh MEA / IPBES wording if a CA stem cites them.
+- Ecosystem-services and productivity stems stay conceptual — refresh MEA / IPBES wording if a CA stem cites (साइट्स) them.
 - Keep Tansley / Haeckel / Odum name traps stable; they are not CA-dependent.
 
 ---
 
 ## Consolidated — 36 Must-Score Facts
 
-1. **Ecology** is the **study** of organism–environment interactions. **Haeckel (1866)** coined the term. **Ramdeo Misra** is called the father of Indian ecology. **Bionomics** is synonymous with ecology; it does **not** mean “management of life.”
-2. An **ecosystem** is a **functional unit** of biotic and abiotic interaction with energy flow and nutrient cycling. **Tansley (1935)** coined the word.
+1. **Ecology** is the **study** of organism–environment (पर्यावरण) interactions. **Haeckel (1866)** coined the term. **Ramdeo Misra** is called the father of Indian ecology. **Bionomics** (बायोनॉमिक्स) is synonymous with ecology; it does **not** mean “management of life.”
+2. An **ecosystem** (पारिस्थितिकी तंत्र) is a **functional unit** of biotic and abiotic interaction with energy flow and nutrient cycling. **Tansley (1935)** coined the word.
 3. Ecosystems are normally **open systems**. Calling an ecosystem a closed system is wrong.
-4. Four basic components often listed together are **abiotic materials, producers, consumers, and decomposers**.
-5. The seven ecological levels run **organism → population → community → ecosystem → landscape → biome → biosphere**. A frequent shorter order asked is **Population → Community → Ecosystem → Landscape**.
+4. Four (चातुर्याम) basic components often listed together are **abiotic materials, producers, consumers, and decomposers**.
+5. The seven ecological levels run **organism → population (जनसंख्या) → community → ecosystem → landscape → biome (जीवोम) → biosphere**. A frequent shorter order asked is **Population → Community → Ecosystem → Landscape**.
 6. The **biosphere** is the largest ecosystem of Earth. Among ecosystem *types*, the **marine/ocean** ecosystem covers the largest area and is cited as the **most stable**.
 7. Ecosystems may be natural or anthropogenic, terrestrial or aquatic, and **lentic** (standing) or **lotic** (flowing).
 8. Artificial / anthropogenic examples include **farmland / rice field**, orchard, garden, aquarium, and human-made reservoir.
 9. A pond’s vertical/horizontal zones include **littoral → limnetic → profundal**. Marine zones include littoral, neritic, pelagic, benthic, and abyssal.
 10. Structure runs **producers → primary/secondary/tertiary consumers → decomposers and detritivores**. Producers generally outnumber primary consumers.
 11. Core ecosystem functions are **productivity, decomposition, nutrient cycling, and unidirectional energy flow**.
-12. A **niche** is a species’ **role**, not its place. A **habitat** is the place. **Joseph Grinnell (1917)** coined the ecological-niche concept.
-13. A **fundamental niche** is the full potential role without competitors. A **realized niche** is the narrower role after competition.
+12. A **niche** is a species’ **role**, not its place. A **habitat** (वास स्थान) is the place. **Joseph Grinnell (1917)** coined the ecological-niche concept.
+13. A **fundamental niche** (मूल (मौलिक) निकेत) is the full potential role without competitors. A **realized niche** (वास्तविक निकेत) is the narrower role after competition.
 14. **Gause’s competitive exclusion** says two species with identical niches cannot stably coexist when resources are limited.
 15. **Liebig** = limiting factor; **Shelford** = tolerance range; **Lindeman (1942)** ≈ **10%** energy transfer between trophic levels.
 16. **NPP = GPP − plant respiration**. Plants capture only about **1%** of incident sunlight on leaves.
 17. Decreasing productivity order often tested: **Mangroves > grasslands > lakes > oceans**.
-18. **Primary succession** starts on a lifeless substrate. **Secondary succession** starts where **soil already exists** after disturbance.
-19. Full succession phases: **Nudation → Migration → Ecesis → Reaction → Stabilisation**. The full community sequence is a **sere**. UPPCS 2024 often starts from Migration when Nudation is omitted.
-20. Pioneers such as lichen and moss lead through seral stages to a **climax community**. **Monoclimax** theory is linked to **F.E. Clements**. **Hydrosere** is wet; **xerosere** is dry.
+18. **Primary succession** (प्राथमिक अनुक्रमण) starts on a lifeless substrate. **Secondary succession** (द्वितीयक अनुक्रमण) starts where **soil already exists** after disturbance.
+19. Full succession phases: **Nudation → Migration → Ecesis → Reaction → Stabilisation**. The full community sequence is a **sere** (क्रमक). UPPCS 2024 often starts from Migration when Nudation is omitted.
+20. Pioneers such as lichen and moss lead through seral stages to a **climax community** (चरम समुदाय). **Monoclimax** theory is linked to **F.E. Clements**. **Hydrosere** is wet; **xerosere** is dry.
 21. In grasslands, trees often fail to replace grasses because of **water limits and fire**.
 22. An **r-strategist** produces many offspring with fast growth and short life. A **K-strategist** produces few offspring with slow growth and long life.
 23. Population growth models contrast the **J-curve** (exponential) with the **S-curve** (logistic) that levels near **carrying capacity**.
-24. MEA (**2005**) ecosystem services are usually **provisioning, regulating, supporting, and cultural**. Some WDR/UPSC framings add **preserving**. Supporting examples include nutrient cycling and (in that framing) crop pollination.
+24. MEA (**2005**) ecosystem services are usually **provisioning, regulating, supporting, and cultural**. Some WDR/UPSC (संघ लोक सेवा आयोग) framings add **preserving**. Supporting examples include nutrient cycling and (in that framing) crop pollination.
 25. Ecosystem balance is a **dynamic equilibrium**. **Resilience** is the capacity to recover after disturbance. **Deforestation** is a main cause of ecological imbalance in India.
-26. **Eutrophication** is nutrient overload that drives algal bloom and a dissolved-oxygen crash.
+26. **Eutrophication** (सुपोषण) is nutrient overload that drives algal bloom and a dissolved-oxygen crash.
 27. Energy flow is **one-way**. Nutrients **cycle**. Saying energy cycles is a classic wrong option.
 28. A **community** is all populations of different species in an area. A **population** is one interbreeding species in one area.
-29. An **ecotone** is the transition zone between two communities or ecosystems.
+29. An **ecotone** (इकोटोन) is the transition zone between two communities or ecosystems.
 30. Aquatic clines: **pycnocline** = density gradient; **halocline** = salinity gradient; **thermocline** = temperature-with-depth gradient.
 31. In the **phosphorus cycle**, weathering of rocks is the main source releasing the nutrient into the cycle.
 32. **Upwelling** brings cold, nutrient-rich water to the surface and raises marine productivity.
 33. **Eucalyptus** is often treated as an environmental hazard because it draws heavy groundwater and can lower the water table.
-34. UP lotic examples include the **Ganga, Yamuna, and Gomti**. Terai forest and Vindhyan scrub are terrestrial examples.
+34. UP lotic examples include the **Ganga (गंगा), Yamuna (यमुना), and Gomti**. Terai (तराई) forest and Vindhyan scrub are terrestrial examples.
 35. UP wetland examples include **Sur Sarovar (Agra)** and **Nawabganj (Unnao)**. Western UP sugarcane belts are classic agro-ecosystems.
 36. Odum is linked to modern ecosystem ecology; keep him separate from Haeckel (term ecology) and Tansley (term ecosystem). **Deep ecology** was coined by **Arne Næss (1973)**. **Ecological Transition** was used by **John W. Bennett**.
 
@@ -129,13 +129,13 @@ Ecology – Meaning | Ecosystem | Types of Ecosystems | Terrestrial Ecosystem | 
 | Level | example |
 |-------|--------------|
 | **Organism** | Camel water conservation in desert |
-| **Population** | Tiger population in Dudhwa |
+| **Population** | Tiger population in Dudhwa (दुधवा) |
 | **Community** | Fish, birds, and plants sharing a wetland |
-| **Ecosystem** | Ganga stretch at Varanasi with its biota, water, and nutrient flows |
+| **Ecosystem** | Ganga stretch at Varanasi (वाराणसी) with its biota, water, and nutrient flows |
 | **Biome** | Tropical deciduous forest of India |
 | **Biosphere** | Global life-support zone |
 
-> **Logic:** Trap — Odum did **not** coin "ecosystem". **Tansley (1935)** did.
+> **Logic:** Trap — Odum did **not** coin (मुद्रा) "ecosystem". **Tansley (1935)** did.
 
 ---
 
@@ -144,15 +144,15 @@ Ecology – Meaning | Ecosystem | Types of Ecosystems | Terrestrial Ecosystem | 
 **Identity:** Tansley 1935 | Functional unit | Open system | Natural vs anthropogenic | Four components
 
 - **A.G. Tansley** introduced the term **ecosystem** in **1935**.
-- An ecosystem is the basic **functional unit** where living organisms interact with each other and the physical environment.
+- An ecosystem is the basic **functional unit** where living organisms interact with each other and the physical environment (भौतिक पर्यावरण).
 - A standard short definition is a community of organisms together with the environment in which they live.
-- Every ecosystem has **biotic components**, **abiotic components**, **energy flow**, and **nutrient cycling**.
+- Every ecosystem has **biotic components** (जैविक घटक), **abiotic components**, **energy flow**, and **nutrient cycling**.
 - Four components frequently listed together are **abiotic materials**, **producers**, **consumers**, and **decomposers**.
 - **Energy flow** is **unidirectional** (Sun → producers → consumers → heat loss).
 - **Nutrient cycling** is **cyclic** — matter is reused through decomposers.
 - Most ecosystems are **open systems** (exchange energy and matter with surroundings). Calling an ecosystem a **closed system** is wrong.
 - The **biosphere** itself is an open system. New substances can enter, and energy can enter and leave.
-- Components of an ecosystem **are interdependent**. A rise or fall in one population can reshape the rest of the food web.
+- Components of an ecosystem **are interdependent**. A rise or fall in one population can reshape the rest of the food web (खाद्य जाल).
 - **Natural ecosystems** self-regulate (forest, lake, ocean).
 - **Anthropogenic / artificial ecosystems** depend on human inputs (cropland, rice field, orchard, garden, aquarium, sewage-treatment wetland, spaceship life-support systems).
 - Among ecosystem types, the **marine (ocean) ecosystem** covers about **71%** of Earth’s surface and holds about **97%** of planetary water. It is the largest and most stable ecosystem type in common option lists.
@@ -177,19 +177,19 @@ Ecology – Meaning | Ecosystem | Types of Ecosystems | Terrestrial Ecosystem | 
 ### Terrestrial ecosystems
 
 - A **terrestrial ecosystem** exists on land. Plants and animals that live on land are called **terrestrial**.
-- A **forest ecosystem** is dominated by trees. The Terai sal forests and Western Ghats evergreen tracts are common Indian examples.
+- A **forest ecosystem** is dominated by trees. The Terai sal forests and Western Ghats (पश्चिमी घाट) evergreen tracts are common Indian examples.
 - A **grassland ecosystem** is dominated by grasses. Dudhwa Terai grasslands are a UP-relevant example.
-- A **desert ecosystem** is water-scarce and extreme in temperature. The Thar is India's classic desert tract.
+- A **desert ecosystem** is water-scarce and extreme in temperature. The Thar (थार) is India's classic desert tract.
 - Animals adapted to desert dryness are called **xericole**.
-- A **savanna** mixes grassland with scattered trees. Gir in Gujarat is India's best-known savanna-style lion habitat.
-- **Mountain ecosystems** show vegetation change with altitude along the Himalaya belts.
-- **Tundra** and **taiga** are cold-climate terrestrial types. They are not typical of the Indian mainland in Prelims options.
+- A **savanna** (सवाना) mixes grassland with scattered trees. Gir (गीर) in Gujarat is India's best-known savanna-style lion (सिंह) habitat.
+- **Mountain ecosystems** show vegetation change with altitude along the Himalaya (हिमालय) belts.
+- **Tundra** (टुंड्रा) and **taiga** are cold-climate terrestrial types. They are not typical of the Indian mainland in Prelims options.
 
 ### Aquatic ecosystems — lentic and lotic
 
 - An **aquatic ecosystem** is water-based. **Lentic** water stands still in lakes and ponds. **Lotic** water flows in rivers and streams.
-- A **lentic ecosystem** is standing freshwater such as a lake, pond, or reservoir. Loktak and Dal Lake are lentic examples.
-- A **lotic ecosystem** is flowing freshwater such as a river or stream. The Ganga and Yamuna are lotic.
+- A **lentic ecosystem** (स्थिर जल) is standing freshwater such as a lake, pond, or reservoir. Loktak and Dal Lake are lentic examples.
+- A **lotic ecosystem** (प्रवाही जल) is flowing freshwater such as a river or stream. The Ganga and Yamuna are lotic.
 - **Wetlands**, **estuaries**, and **mangroves** are **transitional**. They are neither purely terrestrial nor purely open aquatic.
 
 ### Pond and lake zonation (lentic)
@@ -308,7 +308,7 @@ D. Dominance of single species becomes minimum if the resource distribution is e
 **Identity:** Allen/Bergmann/Gloger | Limiting similarity | Liebig + Shelford
 
 - **Liebig's Law of Minimum** states that growth is limited by the scarcest essential resource. In deserts, water is often that limiting factor even when sunlight is abundant.
-- **Shelford's Law of Tolerance** states that each species survives only within a minimum–maximum range for each factor. Beyond that range, stress or death follows even if other factors are plentiful.
+- **Shelford's Law of Tolerance** (शेलफोर्ड का सहनशीलता नियम) states that each species survives only within a minimum–maximum range for each factor. Beyond that range, stress or death follows even if other factors are plentiful.
 - **Limiting similarity** means coexisting species differ enough in niche use that they do not compete for exactly the same resource at the same time.
 - **Allen's Rule** states that animals in colder climates tend to have smaller appendages such as ears and limbs. Smaller surface area reduces heat loss.
 - **Bergmann's Rule** states that animals in colder climates tend to have larger body size. Bulk helps conserve body heat.
@@ -325,10 +325,10 @@ D. Dominance of single species becomes minimum if the resource distribution is e
 - Ecological balance is **dynamic equilibrium**. An ecosystem looks stable but species populations constantly adjust through births, deaths, and interactions.
 - **Feedback loops** such as predator–prey cycles and nutrient recycling help ecosystems absorb small disturbances without collapsing.
 - **Resilience** is the ability of an ecosystem to recover after a disturbance such as fire, flood, or pollution spike.
-- A **keystone species** has an influence on community structure far greater than its numbers suggest. Removing it can reshape the whole ecosystem.
+- A **keystone species** (कीस्टोन प्रजाति) has an influence on community structure far greater than its numbers suggest. Removing it can reshape the whole ecosystem.
 - Rapid human population growth **disrupts** environmental balance.
-- **Deforestation** is one of the main causes of ecological imbalance in India. Desertification, floods, famines, and rainfall variation are related stresses, but forest loss is the primary driver in many stems.
-- Acts that disturb balance include **lumbering** / commercial felling. Afforestation, rainwater management, biosphere reserves, and wildlife protection help restore balance.
+- **Deforestation** is one of the main causes of ecological imbalance in India. Desertification (मरुस्थलीकरण), floods, famines, and rainfall variation are related stresses, but forest loss is the primary driver in many stems.
+- Acts that disturb balance include **lumbering** / commercial felling. Afforestation, rainwater management, biosphere reserves (जैवमंडल आरक्षित क्षेत्र), and wildlife protection (वन्यजीव सुरक्षा) help restore balance.
 - Industrial management alone is **not** treated as an ecological-balance tool in standard option sets that contrast it with water management, afforestation, and wildlife protection.
 - **Eucalyptus** plantations are often called an environmental hazard because the tree draws heavy groundwater and can lower the water table.
 
@@ -464,9 +464,9 @@ D. Migration – Ecesis – Reaction – Stabilisation
 - **Raymond Lindeman (1942)** showed that only about **10%** of energy or organic matter passes from one trophic level to the next higher level.
 - About **90%** is lost as heat through respiration, movement, excretion, and energy in uneaten parts of organisms.
 - Because of this loss, energy **decreases** at each higher trophic level.
-- **Trophic levels** are the feeding steps in a food chain. They are formed by organisms linked in a food chain.
+- **Trophic levels** are the feeding steps in a food chain (खाद्य श्रृंखला). They are formed by organisms linked in a food chain.
 - **Ecological efficiency** compares energy at two trophic levels: (energy at higher level ÷ energy at lower level) × 100.
-- A **pyramid of energy** is always upright because energy cannot increase as you move up the chain.
+- A **pyramid (पिरामिड) of energy** (ऊर्जा पिरामिड) is always upright because energy cannot increase as you move up the chain.
 
 **PYQ — UPPCS Prelims 2025, Q5**
 
@@ -500,7 +500,7 @@ D. Only 1
 ### Genetic level ecology
 
 - **Genetic-level ecology** studies gene pools, allele frequencies, and genetic variation within populations.
-- High **genetic diversity** helps a population survive disease outbreaks and environmental change.
+- High **genetic diversity** (आनुवंशिक विविधता) helps a population survive disease outbreaks and environmental change.
 - The **Hardy–Weinberg equilibrium** is an ideal model where allele frequencies stay constant when no evolutionary forces act.
 
 ### Species level ecology (population ecology)
@@ -518,7 +518,7 @@ D. Only 1
 
 - A **community** includes all populations of different species living together in one area.
 - **Species richness** counts how many species are present. **Evenness** measures how evenly individuals are spread among those species.
-- Among common options, **coral reefs** show relatively **highest species diversity**.
+- Among common options, **coral reefs** show relatively **highest species diversity (प्रजाति विविधता)**.
 - The **marine (ocean) ecosystem** is often cited as the **most stable** ecosystem type. Do not swap diversity with stability.
 - **Habitat destruction** is the leading direct cause of biodiversity loss.
 
@@ -1882,7 +1882,7 @@ D. 1, 2 and 3
 
 ## Mains Answer Framework
 
-**Ecosystem structure & function (200 words):** Define ecosystem (Tansley) → biotic + abiotic → four functions (productivity, decomposition, nutrient cycling, energy flow) → 1% capture + 10% transfer → Indian example (Ganga basin / Dudhwa).
+**Ecosystem structure & function (200 words):** Define ecosystem (Tansley) → biotic + abiotic → four functions (productivity, decomposition, nutrient cycling, energy flow) → 1% capture + 10% transfer → Indian example (Ganga basin (गंगा) / Dudhwa).
 
 **Ecological succession (200 words):** Define → primary vs secondary → pioneer (lichen) → phases M-E-R-S → hydrosere/xerosere → climax → conservation link (restoration ecology).
 

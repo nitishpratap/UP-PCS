@@ -4,7 +4,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Development of Education | Orientalist–Anglicist Controversy | Serampore Mission and Carey | Educational Centres | Asiatic Society of Bengal | Newspapers and Journals | Beginning of Newspapers | Press Control Laws | Editors and Founders | Wood's Dispatch | Hunter Commission | Indian Universities Act | Macaulay's Minute | Sadler Commission | Hartog Committee | Wardha Scheme | National Education Movement | National Council of Education
+Development of Education | Orientalist (प्राच्यवादी)–Anglicist (आंग्लवादी) Controversy | Serampore (श्रीरामपुर) Mission and Carey | Educational Centres | Asiatic Society of Bengal | Newspapers and Journals | Beginning of Newspapers | Press Control Laws | Editors and Founders | Wood's Dispatch | Hunter Commission | Indian Universities Act | Macaulay's Minute | Sadler Commission | Hartog Committee | Wardha Scheme | National Education Movement | National Council of Education
 
 </details>
 
@@ -18,36 +18,36 @@ Development of Education | Orientalist–Anglicist Controversy | Serampore Missi
 ## Consolidated — 31 Must-Score Facts
 
 1. The **Charter Act, 1813** set aside **₹1 lakh a year** for education and also allowed missionary entry. How to spend the grant sparked the Orientalist–Anglicist fight.
-2. **Orientalists** wanted Sanskrit, Arabic and Persian learning. **Anglicists** wanted English and Western science. The fight ran through the **Committee of Public Instruction** from **1823**.
-3. **Macaulay’s Minute (1835)**, accepted under **Bentinck**, settled English for higher education and the downward-filtration idea. It was a **policy decision**, not a full school system.
-4. **Wood’s Despatch (1854)** under **Dalhousie** was the full ladder from primary school to university, with grants-in-aid. Universities of **Calcutta, Bombay and Madras** followed in **1857**.
-5. The **Hunter Commission (1882)** under **Ripon** focused on **primary education** and local/private effort. The **Sadler Commission (1917–19)** reviewed **Calcutta University / higher education**.
+2. **Orientalists** wanted Sanskrit, Arabic and Persian (फ़ारसी) learning. **Anglicists** wanted English and Western science. The fight ran through the **Committee of Public Instruction** from **1823**.
+3. **Macaulay’s Minute (1835)**, accepted under **Bentinck** (बेंटिंक), settled English for higher education and the downward-filtration idea. It was a **policy decision**, not a full school system.
+4. **Wood’s Despatch (1854)** under **Dalhousie** (डलहौज़ी) was the full ladder from primary school to university, with grants-in-aid. Universities of **Calcutta, Bombay and Madras** followed in **1857**.
+5. The **Hunter Commission (1882)** under **Ripon** (रिपन) focused on **primary education** and local/private effort. The **Sadler Commission (1917–19)** reviewed **Calcutta University / higher education**.
 6. The **Hartog Committee (1929)** flagged primary wastage and said consolidate, don’t just expand. The **Sargent Plan (1944)** was the post-war official blueprint. Hartog ≠ Sargent.
-7. The **Raleigh Commission (1902)** fed the **Indian Universities Act, 1904** under **Curzon**, which tightened government control over university senates.
-8. The **National Council of Education (1906)** was a Swadeshi-era nationalist schooling body in Bengal. The **Wardha Scheme (1937)** was Gandhi’s **Basic Education (Nai Talim)** — different projects, different decades.
-9. The **Asiatic Society of Bengal (1784)** was founded by **Sir William Jones**. **Warren Hastings** encouraged it and **declined** the presidency.
-10. **Serampore College (1818)** was a Danish-territory missionary college linked to **Carey, Marshman and Ward**. **Fort William College (1800)** was Wellesley’s Company civil-servant college — do not swap.
+7. The **Raleigh Commission (1902)** fed the **Indian Universities Act, 1904** under **Curzon** (कर्ज़न), which tightened government control over university senates.
+8. The **National Council of Education (1906)** was a Swadeshi-era nationalist schooling body in Bengal. The **Wardha Scheme (1937)** was Gandhi (गांधी)’s **Basic Education (Nai Talim)** — different projects, different decades.
+9. The **Asiatic Society of Bengal (1784)** was founded by **Sir William Jones (जोन्स)**. **Warren Hastings** (वारेन) encouraged it and **declined** the presidency (प्रेसीडेंसी).
+10. **Serampore College (सेरामपुर) (1818)** was a Danish-territory missionary college linked to **Carey, Marshman and Ward**. **Fort William College (फोर्ट विलियम) (1800)** was Wellesley (वेलेज़ली)’s Company (कंपनी) civil-servant college — do not swap.
 11. **Hicky’s Bengal Gazette (1780)** was the first newspaper in Calcutta. **Wellesley’s Censorship of Press Act (1799)** brought wartime pre-censorship.
-12. **Adam’s Licensing Regulations (1823)** tightened control (Buckingham deported). **Metcalfe’s Act (1835)** repealed licensing — Metcalfe is the **“Liberator of the Press.”**
-13. **Canning’s temporary Licensing Act (1857)** was Revolt-year control. **Lytton’s Vernacular Press Act (1878)** curbed the vernacular press; **Ripon repealed it in 1882**.
-14. Later press facts: **Newspapers (Incitement to Offences) Act, 1908** (Minto); **Indian Press Act, 1910** revived general pre-censorship; **Press (Emergency Powers) Act, 1931** belonged to the Civil Disobedience era.
+12. **Adam’s Licensing Regulations (1823)** tightened control (Buckingham deported). **Metcalfe (मेटकाफ़)’s Act (1835)** repealed licensing — Metcalfe is the **“Liberator of the Press.”**
+13. **Canning’s temporary Licensing Act (1857)** was Revolt-year control. **Lytton (लिटन)’s Vernacular Press Act (1878)** curbed the vernacular press; **Ripon repealed it in 1882**.
+14. Later press facts: **Newspapers (Incitement to Offences) Act, 1908** (Minto); **Indian Press Act, 1910** revived general pre-censorship; **Press (Emergency Powers) Act, 1931** belonged to the Civil Disobedience (सविनय अवज्ञा) era.
 15. Vernacular Press Act **1878** is Lytton’s vernacular-only curb. Indian Press Act **1910** is broader pre-censorship — do not treat them as the same law.
-16. UP newspaper place facts: **Swadesh — Gorakhpur**; **Bharat Bandhu — Hathras**; **Satyawadi — Agra**; **Shakti — Almora**. Tilak’s **Kesari** is Pune, not Gorakhpur.
-17. **Archbold** was Principal of **MAO Aligarh**, Government College Dacca, and **Muir Central College Allahabad**. He was **not** Principal of Lahore College.
+16. UP newspaper place facts: **Swadesh (स्वदेश) — Gorakhpur (गोरखपुर)**; **Bharat Bandhu — Hathras (हाथरस)**; **Satyawadi — Agra**; **Shakti (शक्ति) — Almora (अल्मोड़ा)**. Tilak (तिलक)’s **Kesari** is Pune (पुणे), not Gorakhpur.
+17. **Archbold** was Principal of **MAO Aligarh (अलीगढ़)**, Government College Dacca, and **Muir Central College (म्योर) Allahabad (इलाहाबाद)**. He was **not** Principal of Lahore College.
 18. Education ladder order for chronology: **1813 grant → 1835 Macaulay → 1854 Wood → 1857 universities → 1882 Hunter → 1904 Universities Act → 1906 NCE → 1917–19 Sadler → 1929 Hartog → 1937 Wardha → 1944 Sargent**.
 19. Wardha is **Gandhian** Basic Education. Sargent is a **British official** post-war plan. Mixing them is a standard trap.
-20. Hunter is primary-stage under Ripon. Sadler is university-stage for Calcutta. Hartog is primary wastage under the Simon Commission wing.
+20. Hunter is primary-stage under Ripon. Sadler is university-stage for Calcutta. Hartog is primary wastage under the Simon Commission (साइमन कमीशन) wing.
 21. Ilbert Bill **1883** (Ripon) is about Indian judges trying Europeans. It is **not** the Vernacular Press Act, though both sit in the Ripon–Lytton contrast set.
 22. Downward filtration after 1835 meant educating a small English-knowing elite who would supposedly filter knowledge downward — Wood later tried to build a fuller public system.
-23. Nationalist counter-schooling in **1906** answered Curzon’s control after **1904**. Keep NCE in the Swadeshi education column, not in the Wardha column.
+23. Nationalist counter-schooling in **1906** answered Curzon’s control after **1904**. Keep NCE in the Swadeshi (स्वदेशी) education column, not in the Wardha column.
 24. Press freedom was never linear: Wellesley control → Adam licensing → Metcalfe liberation → 1857 relapse → Lytton vernacular curb → Ripon repeal → 1908–10 tightening → 1931 emergency powers.
-25. MAO College (Aligarh, Sir Syed) and Muir Central College (Allahabad) both appear in Archbold’s career — remember Archbold headed **Muir Central College, Allahabad**, not MAO College Aligarh.
+25. MAO College (एमएओ) (Aligarh, Sir Syed) and Muir Central College (Allahabad) both appear in Archbold’s career — remember Archbold headed **Muir Central College, Allahabad**, not MAO College Aligarh.
 26. Jones vs Hastings on the Asiatic Society is a pure chair trap: **Jones founded and presided**; Hastings only encouraged and stepped aside.
 27. **Calcutta Madrasa (~1780–81, Hastings)** taught Muslim law; **Sanskrit College Banaras (1791, Jonathan Duncan)**. **Charles Wilkins** first English *Gita*; **William Jones** English *Shakuntala* (**1789**).
-28. **Hindu College (1817)** = Ram Mohan Roy with **David Hare** and **Alexander Duff**. College order: Hindu College **1817** → Delhi College **1824** → Mayo / MAO **1875**.
-29. **D.K. Karve** = first women’s university (Bombay stream, **1916**) and widows’ home (**1896**, Poona). **Deccan Education Society** = Tilak, Chiplunkar, Agarkar, Namjoshi (**Ranade** = patron, not core founder).
-30. Press openers: **Portuguese press Goa 1556**; **Hicky 1780**; **Tilak** first jailed Indian journalist tag; **Amrita Bazar Patrika** flipped to English overnight (**1878**) to dodge Vernacular Press Act.
-31. Paper↔person extras: **Ghadar** first issue **Urdu (1 Nov 1913)**; **Free Hindustan** = **Tarak Nath Das**; **Al-Hilal** = Azad; **Bahishkrit Bharat** = Ambedkar; **Qaumi Awaz** = Nehru + Kidwai; **Pioneer** = George Allen (Allahabad).
+28. **Hindu College (1817)** = Ram Mohan Roy with **David Hare** and **Alexander (सिकंदर) Duff**. College order: Hindu College **1817** → Delhi College **1824** → Mayo (मेयो) / MAO **1875**.
+29. **D.K. Karve** (कर्वे) = first women’s university (Bombay stream, **1916**) and widows’ home (**1896**, Poona). **Deccan (दक्कन) Education Society** = Tilak, Chiplunkar, Agarkar, Namjoshi (**Ranade** = patron, not core founder).
+30. Press openers: **Portuguese press Goa (गोवा) 1556**; **Hicky 1780**; **Tilak** (तिलक) first jailed Indian journalist tag; **Amrita Bazar Patrika** flipped to English overnight (**1878**) to dodge Vernacular Press Act.
+31. Paper↔person extras: **Ghadar** (ग़दर) first issue **Urdu (1 Nov 1913)**; **Free Hindustan** = **Tarak Nath Das**; **Al-Hilal** = Azad; **Bahishkrit Bharat** = Ambedkar (अम्बेडकर); **Qaumi Awaz** = Nehru (नेहरू) + Kidwai; **Pioneer** = George Allen (Allahabad).
 
 ```
                British Education Commissions Timeline (1813–1944)
@@ -124,7 +124,7 @@ Development of Education | Orientalist–Anglicist Controversy | Serampore Missi
 
 ### Education bodies
 
-| Body | Year | GG / Viceroy | Core recommendation |
+| Body | Year | GG / Viceroy (वायसराय) | Core recommendation |
 |------|------|---------------|----------------------|
 | Charter Act education clause | **1813** | Minto/Hastings-era Parliament | ₹1 lakh/year; missionaries allowed in |
 | Committee of Public Instruction split | **1823 onward** | Amherst | Orientalist vs Anglicist funding fight |
@@ -135,8 +135,8 @@ Development of Education | Orientalist–Anglicist Controversy | Serampore Missi
 | Indian Universities Act | **1904** | Curzon | Smaller senates, tighter affiliation, more control |
 | National Council of Education | **1906** | — (nationalist body) | Literary/technical colleges free of government control |
 | Sadler Commission | **1917–19** | Chelmsford | Intermediate stage; Boards of Secondary Education |
-| Hartog Committee | **1929** | Irwin | Consolidate primary (wastage/stagnation); diversify secondary |
-| Wardha Scheme | **1937** | — (Gandhi/Congress) | Basic Education / Nai Talim |
+| Hartog Committee | **1929** | Irwin (इरविन) | Consolidate primary (wastage/stagnation); diversify secondary |
+| Wardha Scheme | **1937** | — (Gandhi/Congress (कांग्रेस)) | Basic Education / Nai Talim |
 | Sargent Plan | **1944** | — (Central Advisory Board of Education) | Free compulsory education 6–14; 40-year target |
 
 ### Press-control laws
@@ -149,7 +149,7 @@ Development of Education | Orientalist–Anglicist Controversy | Serampore Missi
 | Licensing Act | **1857** | Canning | Temporary wartime control |
 | Vernacular Press Act | **1878** | Lytton | Curbed vernacular papers only |
 | Repeal | **1882** | Ripon | Vernacular Press Act withdrawn |
-| Newspapers (Incitement to Offences) Act | **1908** | Minto | Curbed revolutionary press |
+| Newspapers (Incitement to Offences) Act | **1908** | Minto | Curbed revolutionary (क्रांतिकारी) press |
 | Indian Press Act | **1910** | Minto/Hardinge | Revived pre-censorship powers |
 | Press (Emergency Powers) Act | **1931** | Irwin | Civil Disobedience-era curbs |
 
@@ -185,7 +185,7 @@ Two ladders run side by side: **education policy** (what got taught, and to whom
 | Wartime censorship | **1799** | Pre-censorship for fear of French ideas | **Wellesley's Press Act** |
 | Licensing | **1823** | Must hold a licence to run a press | **Adam**; Buckingham deported |
 | Liberation | **1835** | Licence dropped; only a declaration needed | **Metcalfe**, "Liberator of the Press" |
-| Vernacular-only curb | **1878** | Special pre-check on Indian-language papers | **Lytton**; repealed by **Ripon 1882** |
+| Vernacular-only curb | **1878** | Special pre-check on Indian-language papers | **Lytton**; repealed by **Ripon 1882** (रिपन) |
 | Nationalist-era re-tightening | **1908–31** | Sedition-era and civil-disobedience-era controls | **Minto, Hardinge, Irwin** acts |
 
 **Why both ladders matter together:** stems often mix an education-body year with a press-law year in the same chronology question. Keep them on two separate mental tracks so a "1878" never gets mistaken for an education year and a "1882" never gets mistaken for Hunter's report year (Hunter is 1882 too — that is the one real overlap to watch).
@@ -231,7 +231,7 @@ Two ladders run side by side: **education policy** (what got taught, and to whom
 
 - Wanted the grant spent on **English** and **Western science**.
 - **Charles Grant**, an evangelical Company official, had argued as early as **1792** that English education would spread Christian and Western values along with useful knowledge.
-- Surprisingly, some **Indian reformers backed the Anglicists**: **Raja Ram Mohan Roy** wrote to Governor-General Amherst in **1823** opposing government money for a new Sanskrit college, asking instead for English and scientific instruction. **David Hare** worked in the same direction through Hindu College.
+- Surprisingly, some **Indian reformers backed the Anglicists**: **Raja (राजा) Ram Mohan Roy** (राम मोहन राय) wrote to Governor-General (गवर्नर-जनरल) Amherst in **1823** opposing government money for a new Sanskrit college, asking instead for English and scientific instruction. **David Hare** worked in the same direction through Hindu College.
 - **Thomas Babington Macaulay**, as Law Member of Bentinck's Council and president of the Committee, wrote the decisive **Minute of 1835** for this camp.
 
 **How it ended**
@@ -269,7 +269,7 @@ Two ladders run side by side: **education policy** (what got taught, and to whom
 - A Danish royal charter of **1827** empowered Serampore College to grant its own degrees, making it one of the earliest degree-granting colleges associated with India.
 - The Company's **1813 Charter Act** finally let missionaries operate in British India directly, ending the need for a Danish base like Serampore for that purpose.
 
-> **Logic:** Serampore is **Danish**, not French or British — do not confuse it with Chandernagore (French) or Chinsurah (Dutch). Carey's Fort William College post and his Serampore College are two separate institutions; keep them apart.
+> **Logic:** Serampore is **Danish**, not French or British — do not confuse it with Chandernagore (चंद्रनगर) (French) or Chinsurah (चिन्सुरा) (Dutch). Carey's Fort William College post and his Serampore College are two separate institutions; keep them apart.
 
 ---
 
@@ -354,9 +354,9 @@ D. C A B D
 
 ## 7.9 Hartog Committee, 1929
 
-- Formally the **Auxiliary Committee on Education**, appointed alongside the **Simon Commission**, chaired by **Sir Philip Hartog**.
+- Formally the **Auxiliary Committee on Education**, appointed alongside the **Simon Commission** (साइमन कमीशन), chaired by **Sir Philip Hartog**.
 - Its job was to review how much education had actually grown since education became a **transferred, provincial subject under the Montagu–Chelmsford reforms of 1919**.
-- Its central finding: primary education had expanded rapidly in raw numbers but with poor quality — huge **wastage and stagnation**, meaning most children who joined primary school dropped out before finishing it and never became **literate for life**.
+- Its central finding: primary education had expanded rapidly in raw (रॉ) numbers but with poor quality — huge **wastage and stagnation**, meaning most children who joined primary school dropped out before finishing it and never became **literate for life**.
 - Its main recommendation was to **consolidate rather than keep expanding** primary schooling — spend on making existing primary schools work, instead of opening more weak ones.
 - At the secondary stage, it recommended **diversifying** the curriculum so that not every secondary student was funnelled toward a university degree; some streams should point toward vocational and practical careers.
 - It sits chronologically **after Sadler (1917–19)** and **before Wardha (1937)**.
@@ -367,8 +367,8 @@ D. C A B D
 
 ## 7.10 Wardha Scheme, 1937
 
-- It was adopted in **1937** after the Wardha conference.
-- **Gandhi** is the moving spirit.
+- It was adopted (अंगीकृत) in **1937** after the Wardha conference.
+- **Gandhi** (गांधी) is the moving spirit.
 - **Zakir Husain** headed the committee that worked out the scheme.
 - It is **Basic Education** or **Nai Talim**.
 - Pupils learned through a productive craft, the mother tongue, and self-supporting school work.
@@ -397,7 +397,7 @@ D. C A B D
 - The first three modern universities opened in **1857**: **Calcutta, Bombay and Madras**.
 - They began mainly as **examining and affiliating** bodies for colleges, not as single residential teaching universities.
 - Later foundations often asked: **Punjab University (1882)** and **Allahabad University (1887)**.
-- Do not date **Allahabad** or **Punjab** to **1857**. Do not treat the **Indian Universities Act, 1904** as the founding law of the 1857 universities — that Act tightened control under Curzon.
+- Do not date **Allahabad** (इलाहाबाद) or **Punjab** to **1857**. Do not treat the **Indian Universities Act, 1904** as the founding law of the 1857 universities — that Act tightened control under Curzon.
 
 > **Logic:** First three universities = **1857**. Allahabad = **1887**. Punjab = **1882**. Universities Act = **control, 1904**, not founding.
 
@@ -405,10 +405,10 @@ D. C A B D
 
 ## 7.13 National Education Movement and the National Council of Education, 1906
 
-- The movement grew during **Swadeshi (1905–06)** as a protest against Curzon's controls (including the **1904 Universities Act**) and as a boycott of official colleges.
+- The movement grew during **Swadeshi (1905–06)** as a protest against Curzon's controls (including the **1904 Universities Act**) and as a boycott (बहिष्कार) of official colleges.
 - **Rangpur National School** opened **8 November 1905** as an early national-education milestone. The **National Council of Education (NCE)** was organised in **Bengal on 15 August 1906**, was the organised expression of this movement — a body meant to run literary and scientific/technical education entirely **free of government control**.
 - **Satish Chandra Mukherjee** was a key founder-organiser of the NCE; **Rashbihari Ghosh** funded it generously.
-- The NCE ran the **Bengal National College** — **Aurobindo Ghosh** served as its first principal — and the **Bengal Technical Institute**, an early technical-education wing.
+- The NCE ran the **Bengal National College** — **Aurobindo (अरविंद) Ghosh** served as its first principal — and the **Bengal Technical Institute**, an early technical-education wing.
 - The Bengal Technical Institute later grew, over decades, into what became **Jadavpur University**.
 - Later national experiments include **Santiniketan / Visva-Bharati** (Tagore) and the national-college stream around **Jamia Millia Islamia**.
 - Banaras Hindu University and Aligarh Muslim University as centres are taught with the educational-centres list below; they are not NCE institutions.
@@ -424,27 +424,27 @@ D. C A B D
 - **Jonathan Duncan** founded the **Sanskrit College, Banaras, in 1791**. He did **not** found the Asiatic Society.
 - **Wellesley** founded **Fort William College in 1800** to train Company civilians in Indian languages and administration; **William Carey** taught Sanskrit, Bengali and Marathi there from 1801.
 - **Hindu College, Calcutta**, opened in **1817**. It later became Presidency College. **David Hare** and Indian patrons backed it.
-- **Vidyasagar** was Principal of the **Sanskrit College, Calcutta**.
+- **Vidyasagar** (विद्यासागर) was Principal of the **Sanskrit College, Calcutta**.
 - **Serampore College (1818)** was founded by the Baptist missionary trio **Carey, Marshman and Ward** on Danish territory; it could grant its own degrees from **1827**.
 - The universities of **Calcutta, Bombay and Madras** were founded in **1857**.
 - **Punjab University** dates to **1882**.
 - **Allahabad University** dates to **1887**.
 - **Sir Syed** founded **MAO College, Aligarh, in 1875**. It became **AMU in 1920**.
-- **Annie Besant** founded **Central Hindu College, Banaras**.
-- **Madan Mohan Malaviya** developed it into **BHU in 1916**.
+- **Annie Besant (बेसेंट)** founded **Central Hindu College, Banaras**.
+- **Madan Mohan Malaviya (मालवीय)** developed it into **BHU in 1916**.
 - **Muir Central College, Allahabad**, later linked to Allahabad University.
 - **Bengal National College (1906)** and the **Bengal Technical Institute** ran under the **National Council of Education** — see the National Education Movement card above.
 
 
 - Calcutta Madrasa is commonly dated **1780–81** under **Warren Hastings** for Muslim law and related subjects (graduates often worked as interpreters). Do not put it at Madras/Bombay/Aligarh.
-- **Charles Wilkins** produced the first English translation of the **Bhagavad Gita** (Hastings wrote a preface). **Sir William Jones** translated Kalidasa’s **Abhijnanashakuntalam** into English (**1789**) and ran *Asiatic Researches*.
+- **Charles Wilkins** produced the first English translation of the **Bhagavad Gita** (भगवद्गीता) (Hastings wrote a preface). **Sir William Jones** translated Kalidasa (कालिदास)’s **Abhijnanashakuntalam** (अभिज्ञानशाकुन्तलम्) into English (**1789**) and ran *Asiatic Researches*.
 - **Nathaniel Halhed** published a **Bengali grammar (1778)**. **Michael Madhusudan Dutt** was offered membership of the **Royal Asiatic Society of Paris**.
 - **Hindu College, Calcutta (1817)** was backed by **Raja Ram Mohan Roy** together with **David Hare** and **Alexander Duff** — do not give the college only to Derozio or Vidyasagar.
-- Founding order trap: **Hindu College 1817** → **Delhi College 1824** → **Mayo College Ajmer 1875** and **MAO Aligarh 1875**.
-- **D.K. Karve** opened a widows’ home at Poona (**1896**) and the Indian Women’s University stream at Bombay (**1916**); he received the **Bharat Ratna (1958)**.
+- Founding order trap: **Hindu College 1817** → **Delhi College 1824** → **Mayo College Ajmer (अजमेर) 1875** and **MAO Aligarh 1875**.
+- **D.K. Karve** opened a widows’ home at Poona (**1896**) and the Indian Women’s University stream at Bombay (**1916**); he received the **Bharat Ratna (भारत रत्न) (1958)**.
 - **New English School / Deccan Education Society (Pune, 1880s)**: **V.K. Chiplunkar, B.G. Tilak, G.G. Agarkar, M.B. Namjoshi**. **M.G. Ranade** supported as a **patron**, not as a core founder.
 - **Madan Mohan Malaviya** pressed for religious teaching in Indian universities; he was BHU Vice-Chancellor **1919–39**. **Lord Hardinge** laid BHU’s foundation stone (**4 Feb 1916**). **Annie Besant’s Central Hindu College (1898)** fed into BHU.
-- **Raleigh / University Commission (1902)** under Curzon included Indian members **Syed Hussain Bilgrami** and **Justice Gurudas Banerjee** — not Tilak/Gokhale.
+- **Raleigh / University Commission (1902)** under Curzon included Indian members **Syed Hussain Bilgrami** and **Justice Gurudas Banerjee (बनर्जी)** — not Tilak/Gokhale (गोखले).
 - **Sadler Commission (1917)** Indian members included **Ashutosh Mukherjee** and **Ziauddin Ahmad**; it stressed fixing **secondary** standards before university reform.
 
 **Teachers and administrators — quick names table**
@@ -552,7 +552,7 @@ D. (A) is false, but (R) is true
 | **Repeal of the Vernacular Press Act** | **1882** | **Ripon** | Removed Lytton's curbs |
 | **Newspapers (Incitement to Offences) Act** | **1908** | **Minto** | Targeted revolutionary/terrorist-linked writing after Swadeshi-era violence |
 | **Indian Press Act** | **1910** | **Minto / Hardinge** | Revived pre-censorship-style powers, wider than the 1878 Act |
-| **Press (Emergency Powers) Act** | **1931** | **Irwin** | Curbed the press during the **Civil Disobedience** movement |
+| **Press (Emergency Powers) Act** | **1931** | **Irwin** | Curbed the press during the **Civil Disobedience** (सविनय अवज्ञा) movement |
 
 - **Amrita Bazar Patrika** switched from Bengali to English overnight so that the Vernacular Press Act would no longer cover it.
 - Remember the **1878 ≠ 1857** trap: the Vernacular Press Act is Lytton's, two decades after Canning's temporary wartime licensing.
@@ -567,10 +567,10 @@ D. (A) is false, but (R) is true
 
 | Paper | Place |
 |-------|--------|
-| **Swadesh** | **Gorakhpur** |
+| **Swadesh** | **Gorakhpur** (गोरखपुर) |
 | **Bharat Bandhu** | **Hathras** |
-| **Satyawadi** | **Agra** |
-| **Shakti** | **Almora** |
+| **Satyawadi** | **Agra** (आगरा) |
+| **Shakti** | **Almora** (अल्मोड़ा) |
 
 Tilak's **Kesari** is **Pune**, not a town in that List-II.
 
@@ -582,10 +582,10 @@ Tilak's **Kesari** is **Pune**, not a town in that List-II.
 | Sambad Kaumudi | Raja Ram Mohan Roy |
 | Amrita Bazar Patrika | Calcutta |
 | The Hindu | Madras |
-| Kesari / Maratha | Tilak, Pune |
+| Kesari / Maratha (मराठा) | Tilak, Pune |
 | Bengalee | Surendranath Banerjee |
 | Indian Opinion | Gandhi, South Africa |
-| Young India / Harijan / Navajivan | Gandhi |
+| Young India / Harijan (हरिजन) / Navajivan | Gandhi |
 | New India / Commonweal | Annie Besant |
 | Hindustan Times / Independent | later nationalist press |
 
@@ -631,30 +631,30 @@ D. A-1, B-2, C-3, D-4
 | Bengal Gazette | James Augustus Hicky |
 | Sambad Kaumudi / Mirat-ul-Akbar | Raja Ram Mohan Roy |
 | Calcutta Journal | James Silk Buckingham (deported under the 1823 licensing rule) |
-| Rast Goftar | Dadabhai Naoroji (associated) |
-| Kesari and Maratha | Bal Gangadhar Tilak |
+| Rast Goftar | Dadabhai Naoroji (नौरोजी) (associated) |
+| Kesari and Maratha | Bal Gangadhar Tilak (बाल गंगाधर तिलक) |
 | Young India, Harijan, Navajivan | M.K. Gandhi |
 | New India, Commonweal | Annie Besant |
 | Bengalee | Surendranath Banerjee |
 | Amrita Bazar Patrika | Ghosh brothers (Sisir / Motilal Ghosh line) |
 | The Hindu | G. Subramania Iyer (founding line) |
 | Al-Hilal | Abul Kalam Azad |
-| Bahishkrit Bharat | B.R. Ambedkar |
+| Bahishkrit Bharat | B.R. Ambedkar (बी.आर. अम्बेडकर) |
 | Indian Opinion | Gandhi (ed. Mansukhlal Nazar first) |
 | Ghadar | Ghadar Party (Hardayal / Bhakna stream); first Urdu |
 | Free Hindustan | Tarak Nath Das |
 | The Pioneer | George Allen |
 | Independent | Motilal Nehru |
-| Qaumi Awaz | Jawaharlal Nehru / Rafi Ahmed Kidwai |
+| Qaumi Awaz | Jawaharlal Nehru (जवाहरलाल नेहरू) / Rafi Ahmed Kidwai |
 | Som Prakash | Ishwar Chandra Vidyasagar line |
 | Hindoo Patriot | Girish Chandra Ghosh → Harish Chandra Mukherjee |
 
 
 - Editor questions are usually **person ↔ paper**.
 - Place questions for UP papers sit in the newspaper table above.
-- Do not give Tilak's Kesari the Gorakhpur slot.
+- Do not give Tilak's Kesari (केसरी) the Gorakhpur slot.
 
-> **Logic:** Tilak = Kesari (Pune). Gandhi = Young India / Harijan. Besant = New India. Buckingham = Calcutta Journal, deported 1823.
+> **Logic:** Tilak = Kesari (Pune) (केसरी). Gandhi = Young India / Harijan. Besant = New India. Buckingham = Calcutta Journal, deported 1823.
 
 ---
 
@@ -666,23 +666,23 @@ D. A-1, B-2, C-3, D-4
 | Portuguese press | First press in Asia at **Goa, 1556** |
 | Free Hindustan | **Tarak Nath Das** (North America / Vancouver line) |
 | Ghadar | Weekly; first issue **1 Nov 1913, Urdu**, San Francisco; then Gurmukhi and other languages |
-| Som Prakash | **Ishwar Chandra Vidyasagar** line (**1858**); backed indigo ryots |
+| Som Prakash | **Ishwar Chandra Vidyasagar** line (**1858**); backed indigo (नील) ryots |
 | Hindoo Patriot | Started by **Girish Chandra Ghosh**; **Harish Chandra Mukherjee** edited and backed the Indigo Movement |
 | Indian Opinion | Gandhi, South Africa (**1903**); first editor **Mansukhlal Nazar**; languages English, Gujarati, Hindi, Tamil — **not Urdu** |
-| Young India | Home Rule circle start (**May 1919**, Bombay); Gandhi edited from **8 Oct 1919** (Ahmedabad weekly) |
+| Young India | Home Rule (होम रूल) circle start (**May 1919**, Bombay); Gandhi edited from **8 Oct 1919** (Ahmedabad (अहमदाबाद) weekly) |
 | Harijan | First issue **11 Feb 1933, Pune**; also Harijan Bandhu (Gujarati) and Harijan Sevak (Hindi) |
-| Udant Martand | First Hindi newspaper (**30 May 1826, Calcutta**), Pt. Jugal Kishore Shukla |
+| Udant Martand (मार्तंड) | First Hindi newspaper (**30 May 1826, Calcutta**), Pt. Jugal Kishore Shukla |
 | Al-Hilal / Al-Balagh | **Abul Kalam Azad** (Al-Hilal **1912**; banned **1914**) |
-| Bahishkrit Bharat | **B.R. Ambedkar** (with Bahishkrit Hitkarini Sabha, **1924**) |
-| Indian Nation | **Kameshwar Singh** of Darbhanga; published from **Patna (1931)** |
+| Bahishkrit Bharat | **B.R. Ambedkar** (बी.आर. अम्बेडकर) (with Bahishkrit Hitkarini Sabha (सभा), **1924**) |
+| Indian Nation | **Kameshwar Singh** of Darbhanga; published from **Patna (पटना) (1931)** |
 | The Pioneer | **George Allen**, Allahabad (**1865**) |
-| Qaumi Awaz | **Jawaharlal Nehru** and **Rafi Ahmed Kidwai** (**1945**, Lucknow) |
+| Qaumi Awaz | **Jawaharlal Nehru** (जवाहरलाल नेहरू) and **Rafi Ahmed Kidwai** (**1945**, Lucknow (लखनऊ)) |
 | Independent | **Motilal Nehru** (not Ambedkar) |
-| Vande Mataram (English weekly) | **Aurobindo Ghosh** / Bipin Chandra Pal stream |
+| Vande Mataram (English weekly) | **Aurobindo Ghosh** / Bipin Chandra Pal (बिपिन चंद्र पाल) stream |
 | Sandhya / Yugantar / Kaal | Revolutionary terrorism advocacy; **Young India** is **not** in that set |
 | Dash Roja | **Abdul Ghaffar Khan** |
 | Commonweal / New India | **Annie Besant** |
-| Tahzeeb-ul-Akhlaq | **Sir Syed Ahmad Khan** (not Jinnah) |
+| Tahzeeb-ul-Akhlaq | **Sir Syed Ahmad Khan** (सर सैयद) (not Jinnah) |
 
 - **Tilak** is the standard first-jailed-Indian-journalist tag (Kesari/Mahratta line; also the **1897** Rand–Ayerst / Shivaji-speech case).
 - **Metcalfe (1835)**, not Bentinck alone, is the **Liberator of the Indian Press** — Bentinck prepared the ground; the Act passed under Metcalfe.
@@ -1998,7 +1998,7 @@ D. 15 August 1908
 <details>
 <summary>Show answer</summary>
 
-**Logic:** National Council of Education 1906 — UKPCS-tagged swadeshi education.
+**Logic:** National Council of Education 1906 (एन.सी.ई.) — UKPCS-tagged swadeshi education.
 
 **Ans: B.** **15 August 1906**.
 

@@ -5,7 +5,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Hazard–Vulnerability–Risk | Natural vs Man-made Disasters | DM Cycle | Earthquakes | Seismic Zones | Tsunami | Landslides | Floods | Drought | Cloudburst | Heat / Cold Waves | Cyclones | Industrial / Chemical | Disaster Management Framework (NDMA / Sendai / NDMP)
+Hazard–Vulnerability–Risk | Natural vs Man-made Disasters | DM Cycle | Earthquakes | Seismic Zones | Tsunami (सुनामी) | Landslides | Floods | Drought (सूखा) | Cloudburst | Heat / Cold Waves | Cyclones | Industrial / Chemical | Disaster Management Framework (NDMA (आपदा प्राधिकरण) / Sendai / NDMP)
 </details>
 
 > **Sources baked in:** NCERT (disasters / interior), PWOnlyIAS / Drishti DM notes, BIS IS 1893:2016, IMD, NDMA / DM Act 2005 / NPDM 2009, UPPCS Prelims 2018–2025
@@ -38,18 +38,18 @@ Cyclone **formation** (SST ~27°C, Coriolis, low shear) and IMD wind ladder are 
 1. Coaching risk fact: **Risk ≈ Hazard × Vulnerability / Capacity**. A disaster happens when a hazard hits exposed people or assets and capacity is too weak.
 2. The disaster-management cycle runs **mitigation → preparedness → response → recovery**. Mitigation is before impact; response is during and just after.
 3. Earthquake **focus** is the point **inside** the Earth; **epicentre** is the point on the **surface** above it. **Richter** measures magnitude; **Mercalli** measures intensity / damage.
-4. Seismic waves split into **body** (through the Earth) and **surface** (along the ground). Body waves arrive **P then S**; surface waves come last and do most damage. **P-wave** shadow is about **103–142°**; **S-wave** shadow lies beyond about **103°** (liquid outer core). The Himalaya is India’s highest seismic belt because of **collision and thrust zones**.
+4. Seismic waves split into **body** (through the Earth) and **surface** (along the ground). Body waves arrive **P then S**; surface waves come last and do most damage. **P-wave** shadow (छाया) is about **103–142°**; **S-wave** shadow lies beyond about **103°** (liquid outer core). The Himalaya (हिमालय) is India’s highest seismic belt because of **collision and thrust zones**.
 5. India uses seismic **Zones II–V** only (Zone I was dropped in 2002). **Zone V is highest**. A draft Zone VI was **withdrawn in March 2026** — maps still follow the 2016 II–V zones.
-6. Zone V covers the North-East, Himalayan pockets, **Kutch** and the **Andaman & Nicobar** belt. Much of Rajasthan and the Deccan sits in Zones II–III.
-7. About **59%** of India’s landmass is earthquake-prone in NDMA note. Famous shocks: Kangra 1905, Bihar–Nepal 1934, **Koyna 1967 (reservoir-induced)**, **Latur 1993 (peninsular / Killari, Zone III)**, Bhuj 2001, and the **26 December 2004** tsunami.
-8. A **tsunami** (Japanese “harbour wave”) is caused by **seafloor displacement** (quake, landslide or volcano), not by ordinary wind waves or tides. It races fast in deep water and piles up near the coast. India’s warning hub is **INCOIS, Hyderabad**. Hall event: **26 Dec 2004** Sumatra megathrust.
+6. Zone V covers the North-East, Himalayan pockets, **Kutch** and the **Andaman (अंडमान) & Nicobar (निकोबार)** belt. Much of Rajasthan and the Deccan (दक्कन) sits in Zones II–III.
+7. About **59%** of India’s landmass is earthquake-prone in NDMA note. Famous shocks: Kangra (कांगड़ा) 1905, Bihar–Nepal 1934, **Koyna 1967 (reservoir-induced)**, **Latur 1993 (peninsular / Killari, Zone III)**, Bhuj 2001, and the **26 December 2004** tsunami.
+8. A **tsunami** (Japanese “harbour wave”) is caused by **seafloor displacement** (quake, landslide or volcano), not by ordinary wind waves or tides. It races fast in deep water and piles up near the coast. India’s warning hub is **INCOIS, Hyderabad (हैदराबाद)**. Hall event: **26 Dec 2004** Sumatra megathrust.
 9. **Kilimanjaro** sits on the East African Rift and is **not** part of the Pacific Ring of Fire.
-10. Landslide belts are the Himalaya, Western Ghats and North-East. pairs include Kedarnath **2013**, Joshimath subsidence **2023**, and Sikkim GLOF **2023**.
-11. Flood types include riverine (Ganga–Brahmaputra), flash floods in hills, urban floods and coastal storm surge. Drought is classed as meteorological, hydrological and agricultural. IMD drought criteria often use rainfall deficiency **>25%** of normal.
-12. IMD **cloudburst** fact is rainfall **≥100 mm in one hour**, typically in Uttarakhand–Himachal–J&K–North-East hill belts around **1000–2500 m**.
+10. Landslide belts are the Himalaya, Western Ghats (पश्चिमी घाट) and North-East. pairs include Kedarnath (केदारनाथ) **2013**, Joshimath subsidence **2023**, and Sikkim GLOF **2023**.
+11. Flood types include riverine (Ganga (गंगा)–Brahmaputra (ब्रह्मपुत्र)), flash floods in hills, urban (नगरीय) floods and coastal storm surge (तूफानी महोर्मि). Drought is classed as meteorological, hydrological and agricultural. IMD drought criteria often use rainfall deficiency **>25%** of normal.
+12. IMD **cloudburst** fact is rainfall **≥100 mm in one hour**, typically in Uttarakhand (उत्तराखंड)–Himachal (हिमाचल)–J&K–North-East hill belts around **1000–2500 m**.
 13. IMD plains heat-wave gate: when **Tmax ≥40°C**, a departure of **4.5–6.4°C** is a heat wave and **>6.4°C** is severe; or actual **≥45°C / ≥47°C**. Criteria also use two stations for two days. Cold-wave plains gate is **Tmin ≤10°C** with a sharp drop.
 14. The **Bay of Bengal** produces **more** cyclones than the Arabian Sea. Peak seasons are roughly **May–June** and **October–December**. Arabian Sea storms can still hit Gujarat–Maharashtra (Tauktae / Kandla note).
-15. Cyclone-name pairs: **Baguio = Philippines**; Hurricane = USA; Typhoon / Taifu = China–Japan; **Willy-willy = Australia**; cyclone = North Indian Ocean; Cordonazo = Mexico.
+15. Cyclone-name pairs: **Baguio = Philippines**; Hurricane = USA; Typhoon / Taifu = China–Japan; **Willy-willy (विली-विली) = Australia**; cyclone = North Indian Ocean; Cordonazo = Mexico.
 16. 2019 storm–place pairs: Dorian–Bahamas, Hagibis–Japan, Lekima–China, Mitag–Korea, with Indian Ocean names like Amphan, Fani and Tauktae also in the news map.
 17. **NDMA** is chaired by the **Prime Minister**. **SDMA** is chaired by the **Chief Minister**. **DDMA** is chaired by the District Magistrate / Collector.
 18. Framework years: **DM Act 2005**, **NPDM 2009**, **NDRF 2006** (MHA), **NDMP 2016**, **Sendai Framework 2015–2030** (after Hyogo 2005–15), **CDRI 2019**. International Day for Disaster Risk Reduction is **13 October**.
@@ -57,10 +57,10 @@ Cyclone **formation** (SST ~27°C, Coriolis, low shear) and IMD wind ladder are 
 20. India’s multi-hazard note: ~**59%** quake-prone, ~**12%** flood-prone, ~**5,700 km** cyclone/tsunami coast, ~**68%** of cultivable area drought-vulnerable.
 21. **Mangroves** cut cyclone and surge impact. **Bhopal 1984** is the classic man-made industrial / chemical disaster.
 22. **DPAP** began in **1973–74**. The earlier Community Development Programme pair is **1952**.
-23. Uttar Pradesh sits mainly in seismic **Zones III–IV** (not Zone V as a whole-State label). Eastern districts face river floods; Bundelkhand faces drought. Plains heat waves peak in May–June (**Loo**).
-24. In the 2018 UP paper, the **Gomati** carried the “biological disaster” pollution label among the given rivers.
+23. Uttar Pradesh (उत्तर प्रदेश) sits mainly in seismic **Zones III–IV** (not Zone V as a whole-State label). Eastern districts face river floods; Bundelkhand faces drought. Plains heat waves peak in May–June (**Loo** (लू)).
+24. In the 2018 UP paper, the **Gomati** (गोमती) carried the “biological disaster” pollution label among the given rivers.
 25. Hazard is potential danger; disaster is when capacity fails. Do not treat the two words as identical.
-26. Cold-wave and fog risk in western Uttar Pradesh and the Terai peaks in **December–January**; plains heat waves (**Loo**) peak in **May–June**.
+26. Cold-wave and fog risk in western Uttar Pradesh and the Terai (तराई) peaks in **December–January**; plains heat waves (**Loo**) peak in **May–June**.
 
 ---
 
@@ -138,12 +138,12 @@ A **hazard** is a potentially damaging natural or man-made event. A **disaster**
 
 - Natural hazards include earthquakes, floods, cyclones, droughts, landslides, heat/cold waves, cloudbursts and tsunamis.
 - Man-made / anthropogenic disasters include industrial and chemical accidents (**Bhopal 1984**), major fires, transport crashes and some CBRN risks.
-- Climate change and unplanned urbanisation raise the chance that a hazard becomes a disaster.
+- Climate change (जलवायु परिवर्तन) and unplanned urbanisation raise the chance that a hazard becomes a disaster.
 - **Exposure** is who or what sits in harm’s way; without exposure, a hazard may not become a disaster.
 
 **India’s multi-hazard map (NDMA / NPDM note)**
 
-- About **59%** of the landmass is earthquake-prone (moderate to very high).
+- About **59%** of the landmass is earthquake-prone (moderate (नरम दल) to very high).
 - About **12%** of land is flood-prone.
 - About **5,700 km** of the long coastline is cyclone / tsunami exposed.
 - About **68%** of cultivable area is drought-vulnerable.
@@ -260,9 +260,9 @@ The Himalayan arc is where the **Indian plate thrusts under Eurasia**, creating 
 
 **Result:** Reinforced **Kutch / Zone V** framing on the western map — different story from Latur’s “stable peninsula” trap.
 
-#### Uttarkashi 1991 (Uttarakhand)
+#### Uttarkashi (उत्तरकाशी) 1991 (Uttarakhand)
 
-**Cause:** Himalayan thrust seismicity in the Garhwal arc.
+**Cause:** Himalayan thrust seismicity in the Garhwal (गढ़वाल) arc.
 
 **Course:** A strong regional shock damaged hill towns and roads in Uttarkashi belt.
 
@@ -278,7 +278,7 @@ The Himalayan arc is where the **Indian plate thrusts under Eurasia**, creating 
 | **1967** | **Koyna** (MH) — reservoir-induced | “Only Himalaya” |
 | 1991 | Uttarkashi | |
 | **1993** | **Latur / Killari** — stable peninsula | Himalayan |
-| 1999 | Chamoli | |
+| 1999 | Chamoli (चमोली) | |
 | **2001** | **Bhuj** (26 Jan) | |
 | 2004 | Sumatra–Andaman (tsunami) | |
 | 2005 | Kashmir / Muzaffarabad | |
@@ -291,7 +291,7 @@ The Himalayan arc is where the **Indian plate thrusts under Eurasia**, creating 
 
 ## N.3 Seismic Zones of India
 
-BIS **IS 1893 (Part 1): 2016** lists **four** zones. **Zone I** was abolished in **2002**. On the present map **Zone V** is the **highest** hazard and **Zone II** is the **lowest**.
+BIS **IS 1893 (Part 1): 2016** lists **four** (चातुर्याम) zones. **Zone I** was abolished in **2002**. On the present map **Zone V** is the **highest** hazard and **Zone II** is the **lowest**.
 A **Zone VI** draft (Nov 2025) was **withdrawn March 2026**. Prelims still use **II–V**.
 
 | Zone | Risk | Where (list) |
@@ -301,9 +301,9 @@ A **Zone VI** draft (Nov 2025) was **withdrawn March 2026**. Prelims still use *
 | **III** | Moderate | Broad peninsula, most of UP, many metros, Latur–Koyna |
 | **II** | Low | Large stable Deccan / western Rajasthan interiors |
 
-- **Zone V** covers almost the entire **Northeast** (except some plains pockets on some maps), the **Andaman & Nicobar**, parts of **J&K / Ladakh, Himachal and Uttarakhand**, the **Rann of Kutch**, and parts of north Bihar.
-- **Zone IV** covers the rest of the Himalayan states, **Delhi**, northern and eastern **UP** (Terai / Ghaghara–Gandak belt), and parts of Bihar, Haryana, Punjab, Maharashtra and J&K.
-- **Zone III** covers the broad peninsula plus **most of UP** (Lucknow, Kanpur, Prayagraj, Varanasi, Agra). Mumbai, Chennai and Kolkata are often tagged III. The **Latur–Koyna** belt sits here too.
+- **Zone V** covers almost the entire **Northeast** (except some plains pockets on some maps), the **Andaman & Nicobar**, parts of **J&K / Ladakh (लद्दाख), Himachal and Uttarakhand**, the **Rann of Kutch**, and parts of north Bihar.
+- **Zone IV** covers the rest of the Himalayan states, **Delhi**, northern and eastern **UP** (Terai / Ghaghara (घाघरा)–Gandak (गंडक) belt), and parts of Bihar, Haryana, Punjab, Maharashtra and J&K.
+- **Zone III** covers the broad peninsula plus **most of UP** (Lucknow (लखनऊ), Kanpur (कानपुर), Prayagraj (प्रयागराज), Varanasi (वाराणसी), Agra). Mumbai, Chennai and Kolkata are often tagged III. The **Latur–Koyna** belt sits here too.
 - **Zone II** covers large stable Deccan and western Rajasthan interiors (Hyderabad–Bengaluru belt).
 
 **UP:** there is **no Zone V**. North/east Terai is **Zone IV**. The bulk of the state is **Zone III**.
@@ -325,7 +325,7 @@ A **tsunami** is a series of long ocean waves set off by **sudden seafloor displ
 
 ### How the wave travels
 
-- In the open ocean a tsunami has a very **long wavelength** and low height, so ships may barely notice it.
+- In the open ocean a tsunami has a very **long wavelength** and low height, so ships (नावाध्यक्ष) may barely notice it.
 - Speed is **high in deep water** (often hundreds of km/h) because the whole water column moves.
 - Near the coast the wave **slows**, **shortens**, and **piles up** into a destructive surge or wall of water.
 - The first sign on some shores is a sudden **drawdown** of the sea, followed by successive crests — not a single splash.
@@ -333,7 +333,7 @@ A **tsunami** is a series of long ocean waves set off by **sudden seafloor displ
 ### India — risk map
 
 - Highest exposure sits on the **Andaman & Nicobar** arc, facing the Sumatra–Andaman subduction zone.
-- The **east coast** (Tamil Nadu, Andhra Pradesh, Odisha, West Bengal / Puducherry) and **Kerala** face open Indian Ocean wave paths.
+- The **east coast** (Tamil Nadu (नाडु), Andhra Pradesh, Odisha, West Bengal / Puducherry) and **Kerala** face open Indian Ocean wave paths.
 - The **west coast** risk is lower but **not zero** — distant basin events and local undersea slips can still reach it.
 - NDMA / multi-hazard notes flag about **5,700 km** of India’s coastline as cyclone / tsunami exposed.
 
@@ -393,8 +393,8 @@ Cloudbursts in the Himalaya often end as **debris flows** that bury roads and se
 
 ### High-risk belts in India
 
-- The **Himalaya** (Uttarakhand, Himachal, J&K / Ladakh, Sikkim, Arunachal) is the densest landslide belt.
-- The **Western Ghats** fail after extreme monsoon rain (Kerala hill slides **2018**).
+- The **Himalaya** (हिमालय) (Uttarakhand, Himachal, J&K / Ladakh, Sikkim, Arunachal) is the densest landslide belt.
+- The **Western Ghats** (पश्चिमी घाट) fail after extreme monsoon rain (Kerala hill slides **2018**).
 - The **North-Eastern hills** combine steep terrain with heavy rain.
 - Soft sedimentary / weathered rock and seismic shaking raise risk further in the Himalayan arc.
 
@@ -402,7 +402,7 @@ Cloudbursts in the Himalaya often end as **debris flows** that bury roads and se
 
 #### Malpa landslide (1998, Uttarakhand)
 
-**Cause:** Steep fractured rock on the Kailash–Mansarovar pilgrimage corridor near **Malpa** (Pithoragarh belt) failed after monsoon saturation and slope instability on a busy trek / road line.
+**Cause:** Steep fractured rock on the Kailash–Mansarovar pilgrimage corridor near **Malpa** (Pithoragarh (पिथौरागढ़) belt) failed after monsoon saturation and slope instability on a busy trek / road line.
 
 **Course:** A major **rockfall / debris slide** buried the route and camps used by pilgrims and porters. Rescue was slow because the same slope kept shedding debris.
 
@@ -410,7 +410,7 @@ Cloudbursts in the Himalaya often end as **debris flows** that bury roads and se
 
 #### Kedarnath disaster (June 2013, Uttarakhand)
 
-**Cause:** Extreme monsoon rain and cloudburst-scale bursts over the **Mandakini** catchment raised pore pressure on already steep, glacier-fed slopes. Chorabari-type lake / debris release and slope failure fed the flood.
+**Cause:** Extreme monsoon rain and cloudburst-scale bursts over the **Mandakini** (मंदाकिनी) catchment raised pore pressure on already steep, glacier-fed slopes. Chorabari-type lake / debris release and slope failure fed the flood.
 
 **Course:** Flash floods and **debris flows** tore through Kedarnath and the Mandakini valley. Roads, bridges, and settlements were buried or washed out across large stretches of Garhwal.
 
@@ -450,17 +450,17 @@ A **flood** occurs when water inundates land that is usually dry.
 ### Types
 
 - **Riverine floods** rise when large rivers overtop banks after prolonged monsoon rain or snowmelt. The **Ganga–Brahmaputra–Meghna** system dominates India’s flood map.
-- **Flash floods** rise in minutes to hours in hills after cloudbursts or sudden dam / landslide lake bursts.
+- **Flash floods** rise in minutes to hours in hills after cloudbursts or sudden dam (दाम -) / landslide lake bursts.
 - **Urban floods** follow blocked drains, paved catchments and intense city rain (Mumbai-type events).
 - **Coastal floods** come with cyclone **storm surge** and high tides.
 - **GLOF** (glacial-lake outburst flood) releases a glacial lake when a moraine dam fails.
 
 ### India riverine traps
 
-- Watch **Kosi, Gandak, Ghaghara and Rapti** for east-UP / Bihar-style floods.
-- The **Kosi** is famous for channel shift and embankment breaches (**Kosi 2008**).
-- Brahmaputra and Barak valleys flood widely in Assam and neighbouring hills.
-- Eastern and trans-Ghaghara **Uttar Pradesh** faces repeat monsoon inundation almost every year.
+- Watch **Kosi (कोसी), Gandak, Ghaghara and Rapti (राप्ती)** for east-UP / Bihar-style floods.
+- The **Kosi** (कोसी) is famous for channel shift and embankment breaches (**Kosi 2008**).
+- Brahmaputra and Barak (बराक) valleys flood widely in Assam and neighbouring hills.
+- Eastern and trans-Ghaghara **Uttar Pradesh** (उत्तर प्रदेश) faces repeat monsoon inundation almost every year.
 
 ### Kosi 2008 — Cause, Course, Result
 
@@ -478,7 +478,7 @@ A **flood** occurs when water inundates land that is usually dry.
 
 ### Institutions and hall years
 
-- **CWC** (Central Water Commission) and **IMD** run flood watch and rainfall alerts.
+- **CWC** (केंद्रीय जल आयोग) (Central Water Commission) and **IMD** run flood watch and rainfall alerts.
 - State flood-control / irrigation departments manage embankments and relief coordination with SDMA / DDMA.
 - Hall years: **Kosi 2008**, **Kerala 2018**, Kedarnath valley cascade **2013**, and east **UP** every strong monsoon.
 
@@ -491,7 +491,7 @@ A **flood** occurs when water inundates land that is usually dry.
 
 ## N.7 Drought
 
-A **drought** is a prolonged shortage of water relative to what a place normally receives or needs.
+A **drought** is a prolonged shortage of water relative (सापेक्ष) to what a place normally receives or needs.
 
 ### Types
 
@@ -502,10 +502,10 @@ A **drought** is a prolonged shortage of water relative to what a place normally
 | Agricultural | Soil moisture / crop stress |
 | Socio-economic | Livelihood failure |
 
-- Meteorological drought is the rainfall start of the chain.
-- Hydrological drought follows when surface and groundwater stocks run down.
-- Agricultural drought hits when soil moisture cannot support crops even if a tank still holds some water.
-- Socio-economic drought is when people lose work, food security or migration options.
+- Meteorological drought (मौसमी (मौसम विज्ञान) सूखा) is the rainfall start of the chain.
+- Hydrological drought (जल-वैज्ञानिक सूखा) follows when surface and groundwater stocks run down.
+- Agricultural drought (कृषि सूखा) hits when soil moisture cannot support crops even if a tank still holds some water.
+- Socio-economic drought (सामाजिक-आर्थिक सूखा) is when people lose work, food security or migration options.
 
 ### IMD cut (meteorological)
 
@@ -530,7 +530,7 @@ A **drought** is a prolonged shortage of water relative to what a place normally
 
 Chronology used in **2025**: Community Development Programme (**1952**), then DPAP (**1973–74**), then Food for Work (**1977**), then TRYSEM (**1979**).
 
-> **Logic:** **1952** is CDP, not DPAP. **DPAP** belongs to **1973–74**.
+> **Logic:** **1952** is CDP (सीडीपी), not DPAP. **DPAP** belongs to **1973–74**.
 
 ---
 
@@ -633,9 +633,9 @@ A **tropical cyclone** is a warm-core low-pressure system over tropical seas wit
 
 | Basin | Disaster fact |
 |-------|----------------|
-| **Bay of Bengal** | **Higher frequency** (~4:1 vs Arabian in many decades); Odisha–AP–TN–WB–Sundarbans surge |
+| **Bay of Bengal** | **Higher frequency** (~4:1 vs Arabian in many decades); Odisha–AP–TN–WB–Sundarbans (सुंदरबन) surge |
 | **Arabian Sea** | Fewer storms, but they **do** hit **Gujarat / Maharashtra** |
-| Peaks | **May–Jun** and **Oct–Dec** (retreating monsoon). Mid-monsoon shear suppresses BoB |
+| Peaks | **May–Jun** and **Oct–Dec** (retreating monsoon (लौटता मानसून)). Mid-monsoon shear suppresses BoB |
 
 - Arabian Sea hits include **1998 Kandla**, **Tauktae 2021** and **Biparjoy 2023**.
 - Storm surge, extreme rain and high winds cause most coastal deaths and damage.
@@ -660,7 +660,7 @@ Regional cyclone names already covered include Hurricane, Typhoon / Taifu, Bagui
 | **Hurricane** ★ | **USA** / Atlantic–Caribbean | High-yield match |
 | **Typhoon** ★ | NW Pacific — **China** class | High-yield match |
 | **Taifu** ★ | **Japan**-facing NW Pacific name | Often paired with Japan |
-| **Willy-willies** ★ | **Australia** | Cyclone ≠ Brickfielder |
+| **Willy-willies** ★ | **Australia** | Cyclone ≠ Brickfielder (ब्रिकफील्डर) |
 | **Cyclone** | North Indian Ocean (**India**/BoB/Arabian) | IMD names |
 | **Cordonazo** | West Mexico Pacific | Coaching distractor |
 
@@ -687,7 +687,7 @@ India has shifted from a **relief-only** habit to **prevention, mitigation and S
 ### Legal and institutional spine
 
 - The **Disaster Management Act, 2005** (notified **23 December 2005**) created the modern statutory architecture.
-- The **National Disaster Management Authority (NDMA)** is the apex body; the **Prime Minister** is ex-officio Chairperson.
+- The **National Disaster Management Authority (NDMA)** (राष्ट्रीय आपदा प्रबंधन प्राधिकरण) is the apex body; the **Prime Minister** is ex-officio Chairperson.
 - The **National Policy on Disaster Management (NPDM)** came in **2009**.
 - The **National Disaster Management Plan (NDMP)** was issued on **1 June 2016** and revised in **2019**, aligned to Sendai.
 - The nodal Union ministry for disaster management is the **Ministry of Home Affairs** (Disaster Management Division).
@@ -715,7 +715,7 @@ India has shifted from a **relief-only** habit to **prevention, mitigation and S
 - The second is to **strengthen disaster risk governance**.
 - The third is to **invest in disaster risk reduction** for resilience.
 - The fourth is to **enhance preparedness** for effective response and to **Build Back Better** in recovery.
-- **CDRI** (Coalition for Disaster Resilient Infrastructure) was launched by India in **2019**.
+- **CDRI** (Coalition (गठबंधन) for Disaster Resilient Infrastructure) was launched by India in **2019**.
 - International Day for Disaster Risk Reduction is **13 October**.
 
 **Inline PYQ — UPPCS Prelims 2021, Q26**
@@ -850,7 +850,7 @@ Uttar Pradesh is a **multi-hazard** state: seismic shaking, river floods, Bundel
 
 ### Biological-disaster label (2018)
 
-- In the 2018 UP paper, the **Gomati** carried the “biological disaster” pollution label among the given rivers — not Yamuna / Sai / Tamsa in that key.
+- In the 2018 UP paper, the **Gomati** carried the “biological disaster” pollution label among the given rivers — not Yamuna (यमुना) / Sai / Tamsa (तमसा) in that key.
 
 ### Institutions
 

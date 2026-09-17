@@ -4,7 +4,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Carbon Footprint | Ecological Footprint | Net Zero Emissions | Green Economy | Blue Economy | Circular Economy | Green Hydrogen | Microplastics | Climate Refugees | Nature-based Solutions | LiFE Mission
+Carbon Footprint | Ecological Footprint (पारिस्थितिक पदचिह्न) | Net Zero Emissions (नेट जीरो उत्सर्जन) | Green Economy (हरित अर्थव्यवस्था) | Blue Economy (नीली अर्थव्यवस्था) | Circular Economy (चक्रीय अर्थव्यवस्था) | Green Hydrogen | Microplastics | Climate Refugees | Nature-based Solutions | LiFE Mission
 
 </details>
 
@@ -16,7 +16,7 @@ Carbon Footprint | Ecological Footprint | Net Zero Emissions | Green Economy | B
 
 ## Current Affairs (this topic)
 
-- Primary living CA chapter — NbS, plastics, heat, Himalaya cryosphere, LiFE.
+- Primary living CA chapter — NbS, plastics, heat, Himalaya (हिमालय) cryosphere, LiFE.
 - Cross-link facts to Climate / Biodiversity / Pollution without relocating treaty years.
 
 ---
@@ -24,27 +24,27 @@ Carbon Footprint | Ecological Footprint | Net Zero Emissions | Green Economy | B
 ## Consolidated — 24 Must-Score Facts
 
 1. A **carbon footprint** totals greenhouse gases in **tCO₂e**. Scope **1** is direct, Scope **2** is purchased energy, Scope **3** is the wider value chain.
-2. India’s **per capita** carbon footprint is about **2 tCO₂e** — low versus global and USA averages — even though absolute emissions are high.
-3. An **ecological footprint** measures resource demand in **global hectares (gha)**. It is **not** the same unit as tCO₂e. The **Social Cost of Carbon** is the monetary long-term damage of **one tonne of CO₂**.
+2. India’s **per capita** carbon footprint is about **2 tCO₂e** — low versus global and USA averages — even though absolute (निरपेक्ष) emissions are high.
+3. An **ecological footprint** (पारिस्थितिक पदचिह्न) measures resource demand in **global hectares (gha)**. It is **not** the same unit as tCO₂e. The **Social Cost of Carbon** is the monetary long-term damage of **one tonne of CO₂**.
 4. **Net zero** balances remaining emissions with removals. India’s year fact is **2070**. It is not gross zero and not automatically **2050**.
 5. NDC-style facts include about **45%** intensity cut, about **50%** non-fossil capacity, and a large forest sink goal.
-6. The **Emissions Gap Report** is by **UNEP**.
+6. The **Emissions Gap Report** (उत्सर्जन अंतराल रिपोर्ट) is by **UNEP** (संयुक्त राष्ट्र पर्यावरण कार्यक्रम).
 7. A **green economy** (UNEP framing) is low-carbon, resource-efficient, and socially inclusive.
 8. A **blue economy** is sustainable ocean use linked to **SDG 14**. **MISHTI** mangrove restoration is from the **2023** Budget, **not 2019**.
 9. A **circular economy** closes material loops through 3R/9R and EPR. It sits inside the broader green-economy idea and links to **SDG 12**.
 10. **Green hydrogen** uses electrolysis powered by renewables. India’s mission (January **2023**) targets about **5 MMT** by **2030**.
-11. **Grey hydrogen** reforms natural gas. **Blue hydrogen** adds CCS to grey pathways. Do not call grey “green.”
+11. **Grey hydrogen** reforms natural gas. **Blue hydrogen** adds CCS (सुरक्षा कैबिनेट समिति) to grey pathways. Do not call grey “green.”
 12. **Microplastics** are plastic pieces smaller than **5 mm**. They are primary (made small) or secondary (fragmented) and are not fast biodegradable.
 13. The **SUP ban** push of **2022** targets single-use plastics that feed microplastic pathways.
 14. **Climate refugees** are mostly **internally** displaced. They are **not** a separate legal category under the **1951** Refugee Convention.
-15. **Nature-based Solutions** protect, manage, or restore ecosystems (IUCN framing). They are not geoengineering (cirrus thinning / sulphate aerosols are geoengineering ideas for cooling, not NbS).
-16. **LiFE** was an idea at **COP-26 (2021)** and launched in **June 2022** under MoEFCC with a long action list. **COP-25 Madrid** is the false trap.
+15. **Nature-based Solutions** protect, manage, or restore ecosystems (IUCN (आईयूसीएन) framing). They are not geoengineering (भू-इंजीनियरिंग) (cirrus thinning / sulphate aerosols are geoengineering ideas for cooling, not NbS).
+16. **LiFE** was an idea at **COP-26 (2021)** and launched in **June 2022** under MoEFCC (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय) with a long action list. **COP-25 Madrid** is the false trap.
 17. Carbon footprint ≠ ecological footprint. Units are **tCO₂e** versus **gha**.
 18. Green economy ≠ circular economy as identical synonyms. Circular is the material-loop design inside a wider green agenda.
 19. Net zero allows balancing removals. Gross zero means nearly eliminating emissions without relying on offsets.
 20. MISHTI is a mangrove initiative. Pairing it with 2019 is wrong.
 21. Microplastic size fact is **<5 mm**, not 5 cm.
-22. NbS examples include mangroves, wetlands, and urban forests — ecosystem actions, not aerosol injection.
+22. NbS examples include mangroves, wetlands, and urban (नगरीय) forests — ecosystem (पारिस्थितिकी तंत्र) actions, not aerosol injection.
 23. LiFE is lifestyle and demand-side behaviour change, not a substitute for the entire NDC package.
 24. Blue economy is oceans and coasts. Green hydrogen is energy. Do not merge the two labels.
 
@@ -96,7 +96,7 @@ Carbon Footprint | Ecological Footprint | Net Zero Emissions | Green Economy | B
 
 | Scope | Type | Example |
 |-------|------|---------|
-| Scope 1 | Direct | Factory boiler |
+| Scope 1 | Direct | Factory (फैक्टरी) boiler |
 | Scope 2 | Purchased energy | Grid electricity |
 | Scope 3 | Other indirect | Supplier emissions, flights |
 
@@ -108,7 +108,7 @@ Carbon Footprint | Ecological Footprint | Net Zero Emissions | Green Economy | B
 
 **Identity:** gha unit | Biocapacity | Global Footprint Network | Broader than carbon
 
-- An **ecological footprint** measures how much biologically productive land and water a population needs for resources and waste absorption, in **global hectares (gha)**.
+- An **ecological footprint** measures how much biologically productive land and water a population (जनसंख्या) needs for resources and waste absorption, in **global hectares (gha)**.
 - **Biocapacity** is nature’s regenerative capacity; if footprint exceeds biocapacity, there is an **ecological deficit**.
 - **Earth Overshoot Day** marks when annual demand exceeds that year’s regeneration.
 - Components include cropland, grazing land, forest, fishing grounds, built-up land, and carbon-absorption land.
@@ -126,7 +126,7 @@ Carbon Footprint | Ecological Footprint | Net Zero Emissions | Green Economy | B
 ### Social Cost of Carbon
 
 - The **Social Cost of Carbon (SCC)** is a **monetary measure** of the long-term damage done by emitting **one tonne of CO₂** in a given year.
-- US EPA and other agencies use SCC estimates to evaluate climate impacts of rule-making.
+- US EPA and other agencies use SCC estimates (प्राकलन समिति) to evaluate climate impacts of rule-making.
 - SCC is **not** the same as a person’s carbon footprint, fossil-fuel requirement of a country, or climate-refugee adaptation cost.
 
 ---
@@ -166,11 +166,11 @@ Match: Emissions Gap Report → **UNEP**.
 
 <details><summary>Show answer</summary>
 
-**Ans: A (3 1 4 2)** — HDR=UNDP; WEO=IMF; WIR=UNCTAD; Emissions Gap=**UNEP**.
+**Ans: A (3 1 4 2)** — HDR=UNDP (यूएनडीपी); WEO=IMF; WIR=UNCTAD; Emissions Gap=**UNEP**.
 
 </details>
 
-> **Logic:** India net zero = **2070**, not 2050. Gap Report ≠ IPCC Assessment Report.
+> **Logic:** India net zero = **2070**, not 2050. Gap Report ≠ IPCC (आईपीसीसी) Assessment Report.
 
 ---
 
@@ -179,9 +179,9 @@ Match: Emissions Gap Report → **UNEP**.
 **Identity:** UNEP 2011 | Low-carbon + inclusive | Decouple GDP from harm | Broader than circular
 
 - UNEP’s **green economy** (2011 framing) improves well-being and equity while cutting environmental risks — **low-carbon, resource-efficient, socially inclusive**.
-- Goal is to **decouple GDP growth from environmental degradation**, not to stop growth.
+- Goal is to **decouple GDP growth from environmental degradation (पर्यावरणीय क्षरण)**, not to stop growth.
 - India levers include renewables (**500 GW non-fossil capacity by 2030** pledge track), EVs (FAME-II), efficiency (PAT/UJALA), and green hydrogen.
-- **Green finance** (sovereign green bonds, SEBI green-bond rules) funds this pathway — detailed market tools sit with Topic 24.
+- **Green finance** (हरित वित्त) (sovereign green bonds, SEBI green-bond rules) funds this pathway — detailed market tools sit with Topic 24.
 - Green economy is **broader** than circular economy; circular material loops are one component.
 
 > **Logic:** Green economy ≠ circular economy as identical labels.
@@ -190,12 +190,12 @@ Match: Emissions Gap Report → **UNEP**.
 
 ## 44.5 Blue Economy
 
-**Identity:** SDG 14 | Ocean livelihoods + conservation | MISHTI 2023 | Sagarmala | Blue carbon
+**Identity:** SDG 14 | Ocean livelihoods + conservation | MISHTI 2023 | Sagarmala | Blue carbon (नीला कार्बन)
 
 - **Blue economy** is sustainable use of ocean and coastal resources for growth and jobs while protecting marine ecosystems.
 - **SDG 14** = **Life Below Water**.
 - India has a large **EEZ (~2.37 million sq km)** — fisheries, ports, shipping, coastal tourism, offshore wind, marine biotech.
-- **Blue carbon** is carbon stored in mangroves, seagrass, and salt marshes.
+- **Blue carbon** is carbon stored in mangroves, seagrass, and salt (लवणाध्यक्ष) marshes.
 - **MISHTI** (Mangrove Initiative for Shoreline Habitats and Tangible Income) was announced in **Union Budget 2023–24** to restore mangroves for shoreline protection and income.
 - **Sagarmala** is port-led coastal development; **Deep Ocean Mission** covers deep-sea exploration (Samudrayaan).
 - UP is **landlocked** — blue-economy PYQs are national schemes, not UP coastal projects.
@@ -226,7 +226,7 @@ MISHTI: (1) Initiated in 2019. (2) Aims to restore mangrove forests.
 
 - A **circular economy** designs out waste by keeping materials in use through reduce, reuse, repair, remanufacture, and recycle — opposite of linear **take-make-dispose**.
 - Classic **3R** expands in some frameworks to a fuller **9R** ladder (refuse → recover).
-- India operationalises circularity mainly through **Extended Producer Responsibility (EPR)** — plastic, e-waste, batteries, tyres.
+- India operationalises circularity mainly through **Extended Producer Responsibility (EPR)** (विस्तारित उत्पादक दायित्व) — plastic, e-waste, batteries, tyres.
 - **Plastic Waste Management Rules 2016** (amended 2022) and related EPR rules make producers responsible for end-of-life collection.
 - Circular economy maps strongly to **SDG 12** (Responsible Consumption and Production).
 - It is a **component** of green economy, not a synonym for the whole green-growth agenda.
@@ -264,12 +264,12 @@ MISHTI: (1) Initiated in 2019. (2) Aims to restore mangrove forests.
 
 ## 44.8 Microplastics
 
-**Identity:** <5 mm | Primary vs secondary | Persistence | SUP ban 2022 | Ganga pathway
+**Identity:** <5 mm | Primary vs secondary | Persistence | SUP ban 2022 | Ganga (गंगा) pathway
 
 - **Microplastics** are plastic particles **smaller than 5 mm**.
 - **Primary** types are manufactured small (microbeads, nurdles).
 - **Secondary** types form when larger plastics fragment (bags, nets, tyre wear) — most environmental mass is secondary.
-- Pathways run land → rivers → sea; Ganga/Yamuna studies show urban downstream contamination.
+- Pathways run land → rivers → sea; Ganga/Yamuna (यमुना) studies show urban downstream contamination.
 - Plastics photodegrade into **smaller** particles; they do **not** vanish into harmless minerals in weeks.
 - India banned identified **single-use plastic items in July 2022** and uses EPR under plastic-waste rules.
 - UNEA **2022** launched Global Plastics Treaty negotiations (INC process).
@@ -287,7 +287,7 @@ MISHTI: (1) Initiated in 2019. (2) Aims to restore mangrove forests.
 
 **Identity:** Climate-linked mobility | Mostly internal | No 1951 legal category | Bundelkhand UP angle
 
-- **Climate refugees / climate migrants** are people forced to move by climate impacts — cyclones, floods, drought, sea-level rise, desertification.
+- **Climate refugees / climate migrants** are people forced to move by climate impacts — cyclones, floods, drought (सूखा), sea-level rise, desertification (मरुस्थलीकरण).
 - Preferred policy language often uses **climate migration**; **“climate refugee”** is **not** a formal category under the **1951 Refugee Convention** (persecution-based).
 - Most climate-linked displacement is **internal** within countries, not cross-border asylum claims.
 - Sudden-onset (floods, cyclones) differs from slow-onset (drought, sea-level rise).
@@ -304,7 +304,7 @@ MISHTI: (1) Initiated in 2019. (2) Aims to restore mangrove forests.
 
 ---
 
-## 44.10 Nature-based Solutions (NbS)
+## 44.10 Nature-based Solutions (NbS) (प्रकृति-आधारित समाधान)
 
 **Identity:** IUCN | Protect–manage–restore | Climate + society | MISHTI | ≠ geoengineering
 
@@ -312,7 +312,7 @@ MISHTI: (1) Initiated in 2019. (2) Aims to restore mangrove forests.
 - Mitigation NbS: forests, mangroves (blue carbon), soils, peatlands.
 - Adaptation NbS: mangrove storm buffers, wetlands for flood peaks, urban greenery for heat.
 - **MISHTI mangrove restoration** is a flagship Indian NbS example (Budget **2023–24**).
-- Related India tracks: Green India Mission, Amrit Dharohar wetlands, Namami Gange riparian works.
+- Related India tracks: Green India Mission, Amrit Dharohar wetlands, Namami Gange (नमामि गंगे) riparian works.
 - NbS ≠ **geoengineering**; planting trees is ecosystem management, not solar-radiation engineering.
 - Geoengineering teaching contrast: **cirrus cloud thinning** and **stratospheric sulphate aerosol injection** are proposed to cool the planet / offset warming — they are **not** NbS and are not for cyclone control or solar-wind shielding.
 - NbS may generate carbon credits but the concept is broader than offset markets alone.
@@ -323,11 +323,11 @@ MISHTI: (1) Initiated in 2019. (2) Aims to restore mangrove forests.
 
 ## 44.11 LiFE Mission
 
-**Identity:** Lifestyle for Environment | MoEFCC | COP26 idea 2021 | Launch June 2022 | 75 actions
+**Identity:** Lifestyle for Environment (जीवनशैली पर्यावरण) | MoEFCC | COP26 idea 2021 | Launch June 2022 | 75 actions
 
 - **LiFE (Lifestyle for Environment)** nudges individual and community behaviour toward mindful consumption.
 - The idea was proposed at **COP26 Glasgow, November 2021**.
-- **Mission LiFE** was formally launched in **June 2022**; **MoEFCC** is nodal.
+- **Mission LiFE** was formally launched in **June 2022**; **MoEFCC** (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय) is nodal.
 - Catalogue of about **75** pro-planet actions covers energy, water, waste, food, and e-waste habits.
 - It is a **behavioural nudge** programme — not a substitute for solar missions, carbon markets, or Green Credit rules.
 - Supports demand-side cuts that help the **net zero 2070** pathway.

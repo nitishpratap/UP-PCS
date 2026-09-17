@@ -20,7 +20,7 @@ Union and its Territory | Formation of States | State Reorganisation | States Re
 1. **Part I (Articles 1–4):** India, that is Bharat, is a **Union of States**. The term "Federation" is nowhere used. Names and territorial extent are in the **First Schedule**.
 2. Territory of India under **Article 1(3)** comprises **States**, **Union Territories**, and such other territories as may be **acquired** (e.g., Puducherry, Goa initially). 
 3. **Article 2** vs **Article 3**: Art 2 allows Parliament to **admit or establish** *new* States (foreign territory, e.g., Sikkim). Art 3 allows forming/altering *existing* States (boundary/name changes).
-4. **Article 4**: Laws under Art 2 & 3 amend the First and Fourth Schedules by a **simple majority**; they are **not** constitutional amendments under **Article 368**.
+4. **Article 4**: Laws under Art 2 & 3 amend the First and Fourth Schedules by a **simple majority**; they are **not** constitutional amendments under **Article 368** (अनुच्छेद 368).
 5. **Article 3 Procedure**: Bill needs prior **President's recommendation**. The concerned State Legislature's views are sought but are **not binding**. The State Legislature **cannot** itself change its name.
 6. **Acquisition vs Cession**: Acquisition requires ordinary law. **Cession** of Indian territory requires a **Constitutional Amendment** (*Berubari Union* case, 1960). 
 7. **Cession Amendments**: 9th Amendment (1960) ceded Berubari to Pakistan. 100th Amendment (2015) executed India–Bangladesh Land Boundary Agreement (exchange of 162 enclaves).
@@ -31,7 +31,7 @@ Union and its Territory | Formation of States | State Reorganisation | States Re
 12. **Zonal Councils**: They are **statutory** bodies established by the States Reorganisation Act, 1956. The **Union Home Minister** is the common chairman. (North Eastern Council was formed by a separate 1971 Act).
 13. **Formation Chronology**: Gujarat (1960), Nagaland (1963), Haryana (1966), Himachal (1971), Manipur/Tripura/Meghalaya (1972), Sikkim (1975).
 14. **Sikkim**: Created via **Article 2**. 35th Amd (1974) made it an 'Associate State'; **36th Amd (1975)** made it a full 22nd State (inserted Art. 371F).
-15. **UP/UK trivia**: United Provinces renamed to **Uttar Pradesh** on **24 Jan 1950** (UP Diwas). **Uttarakhand** was carved out on **9 Nov 2000** as the 27th State.
+15. **UP/UK trivia**: United Provinces renamed to **Uttar Pradesh** (उत्तर प्रदेश) on **24 Jan 1950** (UP Diwas). **Uttarakhand** (उत्तराखंड) was carved out on **9 Nov 2000** as the 27th State.
 16. **Current Map**: India has **28 States and 8 Union Territories**. Dadra & Nagar Haveli and Daman & Diu merged into one UT in **Jan 2020**. J&K and Ladakh formed on 31 Oct 2019.
 17. **UT Administration (Part VIII)**: Administered directly by the President through an Administrator or **Lieutenant Governor (LG)** under **Article 239**. 
 18. **Legislatures in UTs**: **Art. 239A** (14th Amd) enables Puducherry's legislature. **Art. 239AA** (69th Amd, 1991) designates Delhi as **NCT** with special provisions. 
@@ -286,7 +286,7 @@ D. 1 and 2
 
 **14 States (1956):** Andhra Pradesh, Assam, Bihar, **Bombay**, J&K, **Kerala** (new — Travancore-Cochin + Malabar), Madhya Pradesh, Madras, Mysore, Orissa, Punjab, Rajasthan, Uttar Pradesh, West Bengal.
 
-**6 UTs (1956):** Andaman & Nicobar; Delhi; **Himachal Pradesh**; Laccadive, Minicoy & Amindivi (later **Lakshadweep**); **Manipur**; **Tripura**.
+**6 UTs (1956):** Andaman & Nicobar; Delhi; **Himachal Pradesh**; Laccadive, Minicoy & Amindivi (later **Lakshadweep** (लक्षद्वीप)); **Manipur**; **Tripura**.
 
 **Renames later (not 1956):** Madras → **Tamil Nadu (1969)** · Mysore → **Karnataka (1973)** · Uttaranchal → **Uttarakhand (2007)** · Orissa → **Odisha (2011)** · Pondicherry → **Puducherry (2006)**.
 
@@ -309,7 +309,7 @@ D. 1 and 2
 | **2019** | J&K Reorganisation Act — **J&K UT** (with legislature) + **Ladakh UT** (no legislature) from **31 Oct 2019** |
 | **2020** | **Dadra & Nagar Haveli and Daman & Diu** merged into **one UT** (26 Jan 2020) |
 
-**Present fact:28 States + 8 Union Territories.8 UTs:** Andaman & Nicobar; Chandigarh; Dadra & Nagar Haveli and Daman & Diu; **Delhi (NCT)**; **Jammu & Kashmir**; **Ladakh**; Lakshadweep; **Puducherry**.
+**Present fact:28 States + 8 Union Territories.8 UTs:** Andaman & Nicobar; Chandigarh; Dadra & Nagar Haveli and Daman & Diu; **Delhi (NCT)**; **Jammu & Kashmir**; **Ladakh** (लद्दाख); Lakshadweep; **Puducherry**.
 
 > **UP focus:** Uttarakhand carved out of **Uttar Pradesh** on **9 November 2000** (renamed from Uttaranchal in 2007).
 
@@ -448,12 +448,12 @@ D. 69th
 ## National Integration Council (NIC)
 
 - **Extra-constitutional** (not in the Constitution, not created by a dedicated Act). **Not** a constitutional / statutory body.
-- Set up **1961** by **Jawaharlal Nehru** after the **1961** National Integration Conference (communal / caste / regional tensions). First meeting **1962**.
+- Set up **1961** by **Jawaharlal Nehru** (जवाहरलाल नेहरू) after the **1961** National Integration Conference (communal / caste / regional tensions). First meeting **1962**.
 - **Chair: Prime Minister.** Typical members: Union ministers, **all CMs**, leaders of national/regional parties, nominated public persons, sometimes media/women/minority representatives.
 - Mandate: advise on **communalism, casteism, regionalism, linguism, secessionism**; promote national unity. **Recommendatory only** — no binding / coercive power.
 - Reconstituted several times (notably 1968, 1980, 2005, 2010, 2013). Meetings are **irregular** (not an annual statutory calendar).
 
-> **Trap:** Do not confuse NIC with the **Inter-State Council (Art. 263)** or **NITI Aayog** — those are different Centre–State forums.
+> **Trap:** Do not confuse NIC with the **Inter-State Council (Art. 263)** or **NITI Aayog** (नीति आयोग) — those are different Centre–State forums.
 
 ---
 
@@ -559,7 +559,7 @@ Central Government may register (among others):
 ### 4. By naturalisation (s. 6)
 Foreigner (not illegal migrant) who qualifies under the **Third Schedule** of the 1955 Act:
 - **12 months** residence immediately before the application **plus11 years** in the **14 years** before that 12-month period (total **12-year** type test)
-- Good character; adequate knowledge of a language in the **Eighth Schedule**
+- Good character; adequate knowledge of a language in the **Eighth Schedule** (आठवीं अनुसूची)
 - Intention to reside in India or serve under the Government
 - Oath of allegiance
 Government may **relax** for a person who has rendered **distinguished service** to science, philosophy, art, literature, world peace, or human progress.

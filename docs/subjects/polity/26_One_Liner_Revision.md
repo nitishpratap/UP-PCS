@@ -110,7 +110,7 @@ PRECEDENCE (Warrant 1979, ceremonial): 1 Pres · 2 VP · 3 PM · 4 Gov(in state)
 
 ## Frame
 
-Every row below is meant to be readable **alone**. If a cell only said “12 State” or “HC = produce body”, that is the confusion this sheet now kills: **Habeas Corpus** is the writ; **High Court** is the court. Abbreviations are expanded in the tables.
+Every row below is meant to be readable **alone**. If a cell only said “12 State” or “HC = produce body”, that is the confusion this sheet now kills: **Habeas Corpus** (बन्दी प्रत्यक्षीकरण) is the writ; **High Court** is the court. Abbreviations are expanded in the tables.
 
 ---
 
@@ -160,7 +160,7 @@ Originally **8**. Now **12**.
 | **1** | Names / territories of States & UTs | Original |
 | **2** | Emoluments — President, Governors, Speakers, SC/HC judges, CAG | Original |
 | **3** | Forms of **Oaths or Affirmations** | Original |
-| **4** | **Rajya Sabha** seat allocation | Original |
+| **4** | **Rajya Sabha** (राज्यसभा) seat allocation | Original |
 | **5** | Administration of **Scheduled Areas and Scheduled Tribes** in States **other than** the 6th-Schedule areas. Governor + Tribes Advisory Council. **UP is not in it** | Original |
 | **6** | Autonomous District / Regional Councils in the tribal areas of **Assam, Meghalaya, Tripura, Mizoram** only (remember **AMTM**). **Not** UP, **not** the Fifth-Schedule States | Original |
 | **7** | **Union List / State List / Concurrent List** — who may legislate on what (Art. 246) | Original |
@@ -206,7 +206,7 @@ Originally **8**. Now **12**.
 | **21** | No person shall be deprived of **life or personal liberty** except according to **procedure established by law** (Japanese phrase). *Gopalan* 1950 = any procedure in a valid Act. *Maneka* 1978 = that procedure must be **fair, just, reasonable**. The Constitution still does **not** use the US words “due process” |
 | **21A** | Free and compulsory education for children **6–14**. Inserted by **86th Amendment, 2002**; RTE Act 2009 |
 | **22** | Ordinary arrest: grounds, lawyer, produce before a magistrate within **24 hours**. **22(3)–(7)** = separate regime for **preventive detention** |
-| **23** | Traffic in human beings, *begar* and forced labour banned |
+| **23** | Traffic in human beings, *begar* (बेगार) and forced labour banned |
 | **24** | No child **below 14** in a factory, mine, or other hazardous employment |
 | **25** | Freedom of conscience — profess, practise, **propagate** religion (subject to public order, morality, health) |
 | **26** | Every religious **denomination** may manage its own religious affairs and institutions |
@@ -250,7 +250,7 @@ Originally **8**. Now **12**.
 | **66** | VP is elected by members of **both Houses of Parliament** (elected **and nominated**). **State MLAs do not vote** — that is the 54/66 trap |
 | **69** | VP’s oath — before the **President** — **not** in the 3rd Schedule |
 | **72** | President may pardon / commute etc. for **Union-law** offences, **court-martial**, and **every death sentence** |
-| **74** | President acts on the aid and advice of the Council of Ministers. **44th**: he may send the advice back **once** for reconsideration; then he must act |
+| **74** | President acts on the aid and advice of the Council of Ministers. **44th Amendment** (44वां संशोधन): he may send the advice back **once** for reconsideration; then he must act |
 | **75** | PM appointed by the President; CoM **collectively responsible to the Lok Sabha**. Size cap **15% of LS** (91st Amd) |
 | **76** | **Attorney-General of India** — qualified to be an SC judge; holds office during the **pleasure** of the President; may speak in Parliament but **not vote**; salary is **not** charged on the CFI |
 | **79** | Parliament = **President + Lok Sabha + Rajya Sabha** |
@@ -258,8 +258,8 @@ Originally **8**. Now **12**.
 | **81** | Lok Sabha: maximum **550** (530 States + 20 UTs). Anglo-Indian nomination of up to 2 ended with the **104th** (25 Jan 2020) |
 | **83** | RS is a continuing House; **1/3 retire every 2 years**. LS = **5 years** unless dissolved. During a National Emergency, LS may be extended **one year at a time** (**83(2)**), not beyond 6 months after the Emergency ends |
 | **85** | President summons, prorogues, dissolves LS. Maximum **6 months** between two sessions |
-| **108** | **Joint sitting** only for an **ordinary Bill** on which the Houses disagree. **Speaker** presides. **Never** for a Money Bill or a 368 Amendment Bill. Actually used only **three** times (1961, 1978, 2002) |
-| **109** | **Procedure** for a Money Bill: introduced in **LS only**; RS has **14 days** to return recommendations; LS may accept or reject them |
+| **108** | **Joint sitting** (संयुक्त बैठक) only for an **ordinary Bill** on which the Houses disagree. **Speaker** presides. **Never** for a Money Bill or a 368 Amendment Bill. Actually used only **three** times (1961, 1978, 2002) |
+| **109** | **Procedure** (प्रक्रिया) for a Money Bill: introduced in **LS only**; RS has **14 days** to return recommendations; LS may accept or reject them |
 | **110** | **Definition** of a Money Bill (tax, borrowing, Consolidated Fund, charged expenditure…). **Speaker’s certificate is final**. Do not swap 109 and 110 |
 | **112** | Annual Financial Statement — the Constitution’s name for the **Union Budget** |
 | **123** | President’s **Ordinance** when **both Houses are not in session**. Same force as an Act; laid before Parliament; dies **6 weeks** after reassembly unless approved |
@@ -287,7 +287,7 @@ Originally **8**. Now **12**.
 | **226** | High Court writs for Fundamental Rights **and for any other purpose** — **wider than Art. 32** |
 | **239** | A UT is administered by the President through an **Administrator** |
 | **239AA** | NCT **Delhi** Assembly and CoM (**69th Amd, 1991**). **Public order, police and land** stay with the Centre |
-| **243A** | **Gram Sabha** = persons on that village’s **electoral roll**, exercising such powers as the State law gives |
+| **243A** | **Gram Sabha** (ग्राम सभा) = persons on that village’s **electoral roll**, exercising such powers as the State law gives |
 | **243D** | Reservation in Panchayats: SC/ST in proportion to population; women **not less than one-third** (many States, including UP, have raised this to **50% by State law**) |
 | **243E** | Panchayat term **5 years**; if dissolved, election within **6 months** |
 | **243K** | **State Election Commission** — Panchayat rolls and elections. Governor appoints; removed like a **High Court judge**. **Not** the ECI (324) |
@@ -297,9 +297,9 @@ Originally **8**. Now **12**.
 | **244** | **244(1)** = Fifth Schedule (Scheduled Areas). **244(2)** = Sixth Schedule (AMTM tribal areas) |
 | **245** | Parliament may make laws for the whole or any part of India; a State Legislature for that State |
 | **246** | Subject-matter: **7th Schedule** — List I Union, List II State, List III Concurrent. In a clash, Union law prevails (with 254 nuances) |
-| **248** | **Residuary** matters (not in State or Concurrent Lists) = **Parliament**. Same idea as Union List **Entry 97**. Borrowed from **Canada**, not the USA (where residuary is with the States) |
+| **248** | **Residuary** (अवशिष्ट) matters (not in State or Concurrent Lists) = **Parliament**. Same idea as Union List **Entry 97**. Borrowed from **Canada**, not the USA (where residuary is with the States) |
 | **249** | If **Rajya Sabha** resolves by **2/3 of members present and voting** that a State-List matter is in national interest, Parliament may legislate on it for **one year** (renewable) |
-| **250** | During a **352** Emergency, Parliament may legislate on the **State List** for the emergency area; such laws lapse **six months** after the Emergency ends |
+| **250** | During a **352** Emergency, Parliament may legislate on the **State List** (राज्य सूची) for the emergency area; such laws lapse **six months** after the Emergency ends |
 | **252** | If **two or more** State Legislatures pass resolutions, Parliament may legislate for those States on a State-List matter; other States may adopt later |
 | **253** | Parliament may make any law to implement a **treaty / international agreement** — even on a State-List subject |
 | **254** | Concurrent List clash: **Union law prevails**. A State law reserved for and **assented to by the President** can operate in that State until Parliament legislates again |
@@ -307,8 +307,8 @@ Originally **8**. Now **12**.
 | **263** | President **may** establish an **Inter-State Council**. Actually set up by Presidential Order on **28 May 1990**, on **Sarkaria’s** recommendation — **not Punchhi’s** |
 | **265** | No tax except by **authority of law** |
 | **266** | **266(1) Consolidated Fund** of India / of each State (revenues, loans). **266(2) Public Account** (provident funds, deposits — not voted as tax) |
-| **267** | **Contingency Fund** — advances pending authorisation of Parliament/Legislature |
-| **280** | **Finance Commission**: President constitutes every **5th year** (or earlier). Chair + **4** members. Recommends how to share Union taxes with States. Report goes to the **President**, not to NITI Aayog. First chair: **K.C. Neogy** |
+| **267** | **Contingency Fund** (आकस्मिकता निधि) — advances pending authorisation of Parliament/Legislature |
+| **280** | **Finance Commission** (वित्त आयोग): President constitutes every **5th year** (or earlier). Chair + **4** members. Recommends how to share Union taxes with States. Report goes to the **President**, not to NITI Aayog. First chair: **K.C. Neogy** |
 | **300A** | No person shall be deprived of **property** save by authority of law. A **legal / constitutional right**, **not** a Fundamental Right. **44th** deleted old Art. 31 and 19(1)(f) |
 | **310** | Civil servants hold office during the **pleasure** of the President / Governor |
 | **311** | Pleasure is limited: no dismissal by an authority **subordinate** to the appointing authority; reasonable opportunity of hearing (with listed exceptions) |
@@ -319,12 +319,12 @@ Originally **8**. Now **12**.
 | **321** | Extra functions may be given to a PSC by the **Legislature** of that State (or Parliament for UPSC). **2021 fact:** UPPSC’s functions are extended by the **UP Legislature**, not the President |
 | **323A** | Parliament may set up **administrative tribunals** (CAT/SAT) for service disputes — Part **XIVA** |
 | **323B** | Tribunals for other listed matters (tax, land reforms, elections to the Legislature, etc.) |
-| **324** | **Election Commission** — superintendence of elections to **Parliament, State Legislatures, President and Vice-President**. **Not** Panchayat/ULB polls. CEC removed like an **SC judge**; other ECs only on the **CEC’s recommendation** |
+| **324** | **Election Commission** (निर्वाचन आयोग) — superintendence of elections to **Parliament, State Legislatures, President and Vice-President**. **Not** Panchayat/ULB polls. CEC removed like an **SC judge**; other ECs only on the **CEC’s recommendation** |
 | **325** | One general **electoral roll**; no special roll on religion, race, caste or sex |
 | **326** | LS and Assembly elections on **adult suffrage**. Citizen, **18 years** (**61st Amd**, in force **28 Mar 1989**; originally 21) |
 | **327** | Parliament may make law on LS/LA elections — **RPA 1950** (rolls) and **RPA 1951** (conduct) live here |
 | **329** | Courts shall not interfere in electoral matters except by an **election petition** as provided by law |
-| **330 / 332** | SC/ST reserved seats in the **Lok Sabha** / **State Assembly**, in proportion to population |
+| **330 / 332** | SC/ST reserved seats in the **Lok Sabha** (लोकसभा) / **State Assembly**, in proportion to population |
 | **335** | Claims of SC/ST to services, consistent with efficiency of administration |
 | **338** | **National Commission for Scheduled Castes** (constitutional). SC list = Art. **341** |
 | **338A** | **National Commission for Scheduled Tribes** (89th Amd, 2003). ST list = Art. **342** |
@@ -362,7 +362,7 @@ Originally **8**. Now **12**.
 
 | Art. | Fact |
 |------|------|
-| **352** | **National Emergency.** Grounds today: war, external aggression, or **armed rebellion** (44th dropped “internal disturbance” after 1975). President acts only on the **written** recommendation of the **Union Cabinet** (not the PM alone). Each House must approve within **1 month** by **special majority** = majority of **total membership** + **2/3 of members present and voting**. Then it runs **6 months** at a time |
+| **352** | **National Emergency.** Grounds today: war, external aggression, or **armed rebellion** (44th dropped “internal disturbance” after 1975). President acts only on the **written** recommendation of the **Union Cabinet** (not the PM alone). Each House must approve within **1 month** by **special majority** = majority of **total membership** (सदन की कुल सदस्य संख्या का) + **2/3 of members present and voting**. Then it runs **6 months** at a time |
 | **353** | Union may give States executive **directions**; Parliament’s power extends while 352 is on |
 | **354** | President may modify **268–279** revenue distribution while 352 is on |
 | **355** | Union’s **duty** to protect States and ensure constitutional government (use before 356 — Punchhi) |
@@ -407,10 +407,10 @@ Trap: Panchayat polls = **324**. **No — 243K, SEC.** Trap: VP college = same a
 | Writ | Literal | When |
 |------|---------|------|
 | **Habeas Corpus** | to have the body | Illegal detention; **public or private** respondent |
-| **Mandamus** | we command | Compel a **public duty**. **Not** vs President/Governor personally, private person, or a mere contract |
-| **Prohibition** | to forbid | Lower **judicial / quasi-judicial** body exceeding jurisdiction — issued **before** the order |
-| **Certiorari** | to be certified | **Quash** an order already made — **after** |
-| **Quo Warranto** | by what authority | A person in a **substantive public office** created by law; any person may ask |
+| **Mandamus** (परमादेश) | we command | Compel a **public duty**. **Not** vs President/Governor personally, private person, or a mere contract |
+| **Prohibition** (प्रतिषेध) | to forbid | Lower **judicial / quasi-judicial** body exceeding jurisdiction — issued **before** the order |
+| **Certiorari** (उत्प्रेषण) | to be certified | **Quash** an order already made — **after** |
+| **Quo Warranto** (अधिकार-पृच्छा) | by what authority | A person in a **substantive public office** created by law; any person may ask |
 | | **Art. 32** | **Art. 226** |
 |--|-------------|-------------|
 | Court | Supreme Court | High Court |
@@ -469,10 +469,10 @@ Trap: Panchayat polls = **324**. **No — 243K, SEC.** Trap: VP college = same a
 | **1861** | Indian Councils + Indian High Courts Act (Allahabad HC **1866**) |
 | **1892** | Budget discussion; questions |
 | **1909** | Morley-Minto — **separate electorates** |
-| **1919** | Montagu-Chelmsford — **dyarchy** in provinces; Chamber of Princes |
+| **1919** | Montagu-Chelmsford — **dyarchy** (द्वैध शासन) in provinces; Chamber of Princes |
 | **1935** | Provincial autonomy; federal scheme (never fully); RBI; Federal Court **1937** |
 | **9 Dec 1946** | Constituent Assembly first sitting (Sinha; later Rajendra Prasad) |
-| **29 Aug 1947** | Drafting Committee — **Ambedkar** Chair; adviser **B.N. Rau** |
+| **29 Aug 1947** | Drafting Committee — **Ambedkar** (अम्बेडकर) Chair; adviser **B.N. Rau** |
 | **26 Nov 1949** | Adopted. Some Arts. in force the same day (5–9, 60, 324, 366, 367, 393…) |
 | **26 Jan 1950** | Constitution in force. Republic Day (Purna Swaraj date **1930**) |
 | **18 Jun 1951** | **1st Amendment** |
@@ -551,10 +551,10 @@ Trap: Governor’s oath = CJI. **State HC Chief Justice.** Trap: President’s o
 |--------|-----------------|
 | **UK** | Parliamentary government · Cabinet · Rule of Law · legislative procedure · **single citizenship** · bicameralism · parliamentary privileges · **prerogative writs** |
 | **USA** | Fundamental Rights · **judicial review** · independence of judiciary · impeachment of President · removal of SC/HC judges · Preamble’s form · Vice-President’s office · equal protection |
-| **Ireland** | **DPSP** · nomination of RS members · **method of electing the President** |
+| **Ireland** | **DPSP** (राज्य के नीति निदेशक तत्व) · nomination of RS members · **method of electing the President** |
 | **Canada** | Federation with a **strong Centre** · **residuary powers with the Centre** · Centre appoints Governors · **advisory jurisdiction** of the Supreme Court |
-| **Australia** | **Concurrent List** · freedom of trade and commerce (Part XIII) · **joint sitting** of the two Houses |
-| **USSR / Russia** | **Fundamental Duties** · Preamble’s **social, economic and political justice** |
+| **Australia** | **Concurrent List** (समवर्ती सूची) · freedom of trade and commerce (Part XIII) · **joint sitting** of the two Houses |
+| **USSR / Russia** | **Fundamental Duties** (मौलिक कर्तव्य) · Preamble’s **social, economic and political justice** |
 | **France** | **Republic** · Preamble’s **Liberty, Equality, Fraternity** |
 | **Weimar Germany** | Suspension of Fundamental Rights during **Emergency** |
 | **South Africa** | **Amendment procedure** (368) · election of **Rajya Sabha** members |
@@ -1675,14 +1675,14 @@ Trap: ECI = Art. 165. **165 = AdvG.** Trap: FC = 263. **263 = ISC.** Trap: stand
 | **Executive** | Resolution / order | **NITI 1 Jan 2015** · Planning Commission **1950** · **NDC 1952** · Law Commission of India |
 | Body | One-liner |
 |------|-----------|
-| **Lokpal** | 2013 Act. Chair + ≤8. Selection: PM + LS Speaker + **LoP LS** + CJI/nominee + jurist — **not** RS Chairman. 5y/70. First: **P.C. Ghose, 2019** |
-| **Lokayukta** | State Act. First **Maharashtra 1971**. UP **1975** + Up-Lokayukta |
+| **Lokpal** (लोकपाल) | 2013 Act. Chair + ≤8. Selection: PM + LS Speaker + **LoP LS** + CJI/nominee + jurist — **not** RS Chairman. 5y/70. First: **P.C. Ghose, 2019** |
+| **Lokayukta** (लोकायुक्त) | State Act. First **Maharashtra 1971**. UP **1975** + Up-Lokayukta |
 | **CVC** | Santhanam **1962** → executive **1964** → Act **2003** (*Vineet Narain*). **No constitutional article** (2020). Chair+2; 4y/65 |
 | **CIC** | RTI **12 Oct 2005**. 30 days (48h life/liberty). PIO penalty ≤ ₹25,000 |
-| **NHRC** | PHRA **1993** — **statutory, not 338**. Recommendatory |
+| **NHRC** (राष्ट्रीय मानव अधिकार आयोग) | PHRA **1993** — **statutory, not 338**. Recommendatory |
 | **NGT** | 2010. Principal Bench **Delhi**. Wildlife Protection Act **not** in its Schedule |
 | **CAT** | 1985 Act; **enabled** by 323A — the tribunal itself is still **statutory**. Art. **226 survives** |
-| **NITI** | Cabinet Resolution **1 Jan 2015**. PM chairs. **Not** FC, **not** constitutional, **does not** allocate Plan funds |
+| **NITI** (नीति) | Cabinet Resolution **1 Jan 2015**. PM chairs. **Not** FC, **not** constitutional, **does not** allocate Plan funds |
 | **CBI** | MHA resolution **1 Apr 1963** + **DSPE Act 1946**. Needs **State consent** (s.6) unless court orders |
 | **NIA** | Act **2008**. **No** State consent for scheduled offences |
 | **IB / RAW / ED** | IB **1887** MHA · RAW **1968** Kao, Cabinet Secretariat · ED **1956** FEMA/PMLA, Revenue |
@@ -1798,26 +1798,26 @@ Judges: 1981 executive → 1993 CJI+2 → 1998 CJI+4 → 2015 NJAC dead.
 
 | Term | One-liner |
 |------|-----------|
-| **Question Hour** | **First hour**. Starred = oral + supplementary. Unstarred = written |
-| **Zero Hour** | **Immediately after** Question Hour. Indian innovation **1962**. No voting (2021) |
+| **Question Hour** (प्रश्न काल) | **First hour**. Starred = oral + supplementary. Unstarred = written |
+| **Zero Hour** (शून्य काल -) | **Immediately after** Question Hour. Indian innovation **1962**. No voting (2021) |
 | **Calling Attention** | Indian innovation. Minister states; no voting. Both Houses |
-| **Adjournment Motion** | **Lok Sabha only** (Rajya Sabha has no such motion). To drop listed business and discuss a **definite, factual, urgent** public matter. Needs **50 members** to admit. Implies **censure** of the government. Not admitted if the matter is sub judice |
+| **Adjournment Motion** (स्थगन प्रस्ताव) | **Lok Sabha only** (Rajya Sabha has no such motion). To drop listed business and discuss a **definite, factual, urgent** public matter. Needs **50 members** to admit. Implies **censure** of the government. Not admitted if the matter is sub judice |
 | **Censure Motion** | **Lok Sabha only**. **Must state reasons.** May target **one minister**, a group, or the whole Council. If passed, resignation is not automatic in theory — unlike no-confidence — but it is politically fatal |
-| **No-confidence** | **Lok Sabha only** (Art. 75(3)). **Need not state reasons.** Needs **50 members** to admit. If passed, the **entire Council of Ministers must resign**. Only one such motion at a time |
+| **No-confidence** (अविश्वास प्रस्ताव) | **Lok Sabha only** (Art. 75(3)). **Need not state reasons.** Needs **50 members** to admit. If passed, the **entire Council of Ministers must resign**. Only one such motion at a time |
 | **Privilege Motion** | Breach of privilege / contempt → Privileges Committee |
 | **Cut motions** | On **Demands**, LS only: Policy **₹1** · Economy specified · Token **₹100** |
 | **Guillotine** | Remaining demands voted **en bloc** when time is up |
 | **Point of Order** | Rules / Constitution inside the House — **not** merits. Chair **final** |
 | **Motion of Thanks** | On Art. 87 address. Defeat in LS = loss of confidence |
 | **Whip** | Party direction to vote. 10th Schedule: defy a whip on a **confidence / money / 10th-Sch.** vote → defection |
-| **Quorum** | **1/10** of total membership (Art. **100** / **189**) |
+| **Quorum** (गणपूर्ति) | **1/10** of total membership (Art. **100** / **189**) |
 | **Lame-duck session** | Sitting after a new LS is elected but before the old House is done — India rarely uses the US sense |
 | **Hung House** | No party/pre-poll alliance has a majority. Sarkaria invite: **pre-poll → largest party → post-poll**, then **floor test** |
 | **Snap poll** | Early general election after dissolution |
 | **Crossing the floor** | Leave the party you were elected on — 10th Schedule territory |
 | **Pro tem Speaker** | Administers oath to new LS; elected by convention as senior-most; **not** in the Constitution by that name |
 | **Leader of Opposition** | Largest opposition party with ≥ **10%** of House strength (salary statute). Recognised by Speaker/Chairman |
-| **Prorogation** | Ends a **session**. Bills do **not** lapse. **Dissolution** ends the **LS** — some Bills lapse |
+| **Prorogation** (सत्रावसान) | Ends a **session**. Bills do **not** lapse. **Dissolution** (विघटन) ends the **LS** — some Bills lapse |
 | **Vote on Account** | Advance grant for a **few months** (usually ~**2/12** of annual) when the full Budget cannot be passed before 31 Mar. **LS only** |
 | **Vote of Credit** | Blank-cheque grant for an **unexpected** demand (war) — amount not specified in detail |
 | **Exceptional Grant** | One-off special purpose, not part of ordinary service of the year |
@@ -1882,8 +1882,8 @@ Trap: 109 = definition. **110 = definition; 109 = procedure.** Trap: CAB in RS i
 
 | Pin | Fact |
 |-----|------|
-| **Capital / Raj Bhavan / Vidhan Bhavan** | **Lucknow** |
-| **High Court** | Principal seat **Prayagraj** (Letters Patent **17 Mar 1866**; first sat **Agra**, to Allahabad **1869**). First CJ **Walter Morgan** |
+| **Capital / Raj Bhavan / Vidhan Bhavan** | **Lucknow** (लखनऊ) |
+| **High Court** | Principal seat **Prayagraj** (प्रयागराज) (Letters Patent **17 Mar 1866**; first sat **Agra** (आगरा), to Allahabad **1869**). First CJ **Walter Morgan** |
 | **Lucknow Bench** | **1948** amalgamation; Chief Court of Oudh **1925**. Permanent **Bench**, not a second HC. Classical **12 Avadh** districts |
 | **LA** | **403** (was **425**). Largest in India. Age 25. Speaker resigns to Deputy |
 | **LC** | **100** = 36 local + 8 graduates + 8 teachers + 36 MLAs + 12 nominated. Cannot be **dissolved** (can be **abolished**, 169). Age 30 |
@@ -1891,8 +1891,8 @@ Trap: 109 = definition. **110 = definition; 109 = procedure.** Trap: CAB in RS i
 | **CoM cap** | **15% of 403 ≈ 60** including CM (91st) |
 | **Presidential vote-value** | UP MLA = highest (textbook **208**) |
 | **Language** | Hindi Devanagari **1951**; Urdu second **1989**. Region **A** |
-| **Uttarakhand** | **9 Nov 2000** (not 1 Nov). Born **Uttaranchal**; rename **1 Jan 2007**. First Governor **Barnala**, first CM **Nityanand Swami**. **13** districts. HC **Nainital** |
-| **Divisions / districts** | **18 / 75**. Faizabad → **Ayodhya**. Devipatan HQ **Gonda** |
+| **Uttarakhand** (उत्तराखंड) | **9 Nov 2000** (not 1 Nov). Born **Uttaranchal**; rename **1 Jan 2007**. First Governor **Barnala**, first CM **Nityanand Swami**. **13** districts. HC **Nainital** (नैनीताल) |
+| **Divisions / districts** | **18 / 75**. Faizabad → **Ayodhya** (अयोध्या). Devipatan HQ **Gonda** |
 | **UPPSC** | **Prayagraj**, **1937**. Governor appoints; **President** removes; **62**/6y; functions by **UP Legislature (321)** |
 | **UP SEC** | **Lucknow**. 243K+ZA. Removed like **HC judge** |
 | **UP SFC** | Governor, 5y, 243I+Y |

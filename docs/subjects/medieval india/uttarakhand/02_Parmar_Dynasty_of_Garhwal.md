@@ -1,9 +1,9 @@
-# Topic 2 — Parmar (Panwar) Dynasty of Garhwal
+# Topic 2 — Parmar (Panwar) Dynasty of Garhwal (गढ़वाल)
 
-### ★ UKPCS state card (Unit 1 — History and Culture of Uttarakhand)
+### ★ UKPCS state card (Unit 1 — History (इतिहास) and Culture of Uttarakhand (उत्तराखंड))
 
 > **Sources:** Garhwal chronicle tradition, Atkinson’s Himalayan Gazetteer, Dr. Ajay Rawat's *History of Garhwal*, UKPCS PYQ stems (1658 Tasbirdar, Fateh Shah village grants, Ajay Pal 52 Garhs, Rani Karnavati).  
-> **Pair with:** [Kattyuri Dynasty](01_Kattyuri_Dynasty.md) · [Chand Dynasty of Kumaon](03_Chand_Dynasty_of_Kumaon.md) · [Tehri Estate](../../mordern%20india/uttarakhand/03_Tehri_Estate.md)
+> **Pair with:** [Kattyuri Dynasty](01_Kattyuri_Dynasty.md) · [Chand Dynasty of Kumaon (कुमाऊँ)](03_Chand_Dynasty_of_Kumaon.md) · [Tehri (टिहरी) Estate](../../mordern%20india/uttarakhand/03_Tehri_Estate.md)
 
 ---
 
@@ -12,26 +12,26 @@
 | Head | Key Fact |
 | :--- | :--- |
 | **Dynasty Name** | **Parmar / Panwar** of Garhwal (claimed origin: Malwa Parmars) |
-| **Founder Tradition** | **Kanakpal** (888 CE legend) at **Chandpur / Chandpurgarh** (Chamoli) |
+| **Founder Tradition** | **Kanakpal** (888 CE legend) at **Chandpur / Chandpurgarh** (Chamoli (चमोली)) |
 | **Unifier (52 Garhs)** | **Ajay Pal** (37th ruler) — shifted capital to **Dewalgarh (1512)** then **Srinagar (1517)** |
 | **Standard Measurement** | **Dhulia Patha** (grain measure of approx. 2 seers) introduced by Ajay Pal |
 | **First "Shah" Title** | **Balbhadra Shah** (43rd ruler) — title awarded by Delhi Sultans (Bahlol Lodi contacts) |
 | **The "Garh-Bhanjan"** | **Mahipat Shah** — Tibet expeditions; commanders Madho Singh Bhandari & Lodi Rikhola |
-| **"Nakkati Rani"** | **Rani Karnavati** (regent for son Prithvipati Shah) — cut noses of Mughal general **Najabat Khan's** army (1635) |
-| **Painting Origin (1658)** | **Shyamdas & Hardas** arrived May 1658 with **Sulaiman Shikoh**; post of **Tasbirdar** under **Prithvipati Shah** |
-| **Later Painting Master** | **Mola Ram** (poet, painter, historian — wrote *Garh-Rajvansh Kavya*) |
-| **Fateh Shah & Sikhs** | Invited **Guru Ram Rai** (1676); granted 4 villages: **Khurbura, Rajpur, Chamasari, Dhamawala**; Battle of Bhangani (1688) with Guru Gobind Singh |
+| **"Nakkati Rani"** | **Rani Karnavati** (regent for son Prithvipati Shah) — cut noses of Mughal (मुग़ल) general **Najabat Khan's** army (सेना) (1635) |
+| **Painting Origin (1658)** | **Shyamdas & Hardas** arrived May 1658 with **Sulaiman Shikoh**; post of **Tasbirdar** (तस्बीरदार) under **Prithvipati Shah** |
+| **Later Painting Master** | **Mola Ram** (मोला राम) (poet, painter, historian — wrote *Garh-Rajvansh Kavya (काव्य)*) |
+| **Fateh Shah & Sikhs** | Invited **Guru (गुरु) Ram Rai (राई)** (1676); granted 4 villages: **Khurbura, Rajpur, Chamasari, Dhamawala**; Battle of Bhangani (1688) with Guru Gobind Singh (गुरु गोबिंद सिंह) |
 | **Dual Crown King** | **Pradyumna Shah** — ruled Kumaon as *Pradyumna Chand*, then returned to Garhwal |
-| **Last Independent Ruler** | **Pradyumna Shah** died fighting Gorkhas at **Battle of Khudbuda (Dehradun)** on **14 May 1804** |
+| **Last Independent Ruler** | **Pradyumna Shah** died fighting Gorkhas at **Battle of Khudbuda (Dehradun (देहरादून))** on **14 May 1804** |
 
 ---
 
 ## Must-Score Facts (High-Yield UKPCS)
 
-1. **Ajay Pal:** Unified 52 scattered principalities (Garhs), compared to Ashoka/Napoleon; follower of Gorakhnath sect; established measurement standard **Dhulia Patha**.
+1. **Ajay Pal:** Unified 52 scattered principalities (Garhs), compared to Ashoka (अशोक)/Napoleon; follower of Gorakhnath sect; established measurement standard **Dhulia Patha**.
 2. **Chandpur Garh → Dewalgarh → Srinagar:** Capital movement chronology (Chandpurgarh founder seat → Dewalgarh 1512 → Srinagar 1517).
-3. **Mughal Clash (1635):** Rani Karnavati defeated Shah Jahan’s general Najabat Khan in the Doon valley (hence *Nakkati Rani*).
-4. **1658 Sulaiman Shikoh Refuge:** Eldest son of Dara Shikoh sheltered by Prithvipati Shah; brought Mughal court painters Shyamdas & Hardas (*Tasbirdars*). Medini Shah later betrayed him to Aurangzeb.
+3. **Mughal Clash (1635):** Rani Karnavati defeated Shah Jahan (शाहजहाँ)’s general Najabat Khan in the Doon valley (hence *Nakkati Rani*).
+4. **1658 Sulaiman Shikoh Refuge:** Eldest son of Dara (दारा) Shikoh (दारा शिकोह) sheltered by Prithvipati Shah; brought Mughal court painters Shyamdas & Hardas (*Tasbirdars*). Medini Shah later betrayed him to Aurangzeb (औरंगजेब).
 5. **Fateh Shah's Court:** Contemporary of Aurangzeb; patronised *Navratnas* (court poets like Matiram, Jatadhar, Ratan Kavi).
 6. **Battle of Bhangani (1688):** Fought between Fateh Shah and Guru Gobind Singh near Paonta Sahib (recorded in Guru Gobind Singh’s *Bichitra Natak*).
 7. **Madho Singh Bhandari:** Mahipat Shah’s general; famous for constructing the **Maletha Canal** (Kuhl) through a mountain by sacrificing his son Gajendra.
@@ -42,12 +42,12 @@
 
 | King (# / Reign) | Key Contributions & Prelims Hooks |
 | :--- | :--- |
-| **Kanakpal** (1st) | Founded dynasty at Chandpur Garh (Chamoli) after marrying daughter of chief Bhanu Pratap. |
+| **Kanakpal** (1st) | Founded dynasty at Chandpur Garh (Chamoli) after marrying daughter of chief Bhanu Pratap (प्रताप). |
 | **Ajay Pal** (37th, c. 1500–1519) | Consolidated 52 independent garhs. Shifted seat to Dewalgarh (1512), then Srinagar (1517). Devotee of Rajrajeshwari and Gorakhnath; introduced uniform grain measure **Dhulia Patha**. |
-| **Sahajpal** (42nd) | Contemporary of Mughal Emperor Akbar; Bell inscription at Raghunath Temple, Devprayag (1561). |
+| **Sahajpal** (42nd (42वां)) | Contemporary of Mughal Emperor Akbar (अकबर); Bell inscription at Raghunath Temple, Devprayag (देवप्रयाग) (1561). |
 | **Balbhadra Shah** (43rd) | First ruler to permanently use the royal surname **Shah** (replacing *Pal*). |
-| **Man Shah** (44th) | Contemporary of Akbar/Jahangir. Poet Bharat wrote *Manodaya Kavya*. Defeated Kumaon's Laxmi Chand in multiple border skirmishes. Founded town of *Manpur*. |
-| **Shyam Shah** (45th) | Visited Jahangir at Agra (1621), mentioned in *Tuzuk-i-Jahangiri* (gifted horses/elephants). Died childless; 60 queens committed Sati. |
+| **Man Shah** (44th (44वां संशोधन)) | Contemporary of Akbar/Jahangir (जहाँगीर). Poet Bharat wrote *Manodaya Kavya*. Defeated Kumaon's Laxmi Chand in multiple border skirmishes. Founded town of *Manpur*. |
+| **Shyam Shah** (45th) | Visited Jahangir at Agra (1621), mentioned in *Tuzuk-i-Jahangiri* (तुजुक-ए-जहाँगीरी) (gifted horses/elephants). Died childless; 60 queens committed Sati. |
 | **Mahipat Shah** (46th, 1622–1631) | Titled **Garh-Bhanjan** (Fort Destroyer). Invaded Western Tibet (Chaparang/Daba). Legendary commanders: **Madho Singh Bhandari**, **Lodi Rikhola**, **Banwari Das**. Stopped Kumaon king Trimal Chand. |
 | **Rani Karnavati** (Regent, 1631–1640) | Wife of Mahipat Shah, regent for minor prince Prithvipati Shah. Defeated Shah Jahan's Mughal invasion led by Najabat Khan (1635) — severed noses of survivors (*Nakkati Rani*). Built *Karanpur* canal and village in Dehradun. |
 | **Prithvipati Shah** (47th) | Sheltered Prince Sulaiman Shikoh (May 1658). Appointed Shyamdas and Hardas as royal *Tasbirdars* (laid foundation of Garhwal School of Painting). |
@@ -77,7 +77,7 @@
 ```
 
 ### Administrative Nomenclature & Units
-- **Pargana / Garh:** Kingdom was divided into traditional *Parganas* or fortified divisions (*Garhs*).
+- **Pargana (परगना) / Garh:** Kingdom was divided into traditional *Parganas* or fortified divisions (*Garhs*).
 - **Patti:** Sub-division of a Pargana, comprising a cluster of villages under a *Thokdar* or *Sayana*.
 - **Dhulia Patha:** The official wooden grain-measuring vessel standardized by Ajay Pal, enforced to eliminate merchant cheating in grain revenue.
 - **Land Types:**
@@ -87,7 +87,7 @@
 
 ---
 
-## Art & Architecture: The Garhwal Miniature Painting School
+## Art & Architecture: The Garhwal Miniature (लघु चित्र) Painting School
 
 - **Origin Event:** In **May 1658**, Mughal Prince Sulaiman Shikoh sought asylum in Srinagar. Accompanying him were two master imperial artists: **Shyamdas** and his son **Hardas**.
 - **The Title:** Prithvipati Shah gave them hereditary court status as **Tasbirdar** (painters).
@@ -96,8 +96,8 @@
 - **Mola Ram:** Greatest luminary of the Garhwal School.
   - Triple identity: Poet, Painter, and Political Historian.
   - Works: *Garh-Rajvansh Kavya*, *Manmath Sagar*, *Ritu Varnan*.
-  - Paintings: *Mayankmukhi*, *Chandramukhi*, *Utkanthita Nayika*, *Mastani*.
-- **Modern Discovery:** Discovered and brought to international art fame by **Barrister Mukandi Lal** through his classic 1968 publication *Garhwal Painting*.
+  - Paintings: *Mayankmukhi*, *Chandramukhi*, *Utkanthita Nayika (नायिका)* (उत्कंठिता नायिका), *Mastani*.
+- **Modern Discovery:** Discovered and brought to international art fame by **Barrister Mukandi Lal** (लैंसडाउन) through his classic 1968 publication *Garhwal Painting*.
 
 ---
 
@@ -128,7 +128,7 @@ D. Neither 1 nor 2
 **Q2 (UKPCS Prelims 2025, Q81).** Consider the following statements:
 1. Parmar king Fateh Shah invited Guru Ram Rai to his kingdom.  
 2. He welcomed the construction of a Gurudwara at Dehradun.  
-3. He presented four villages — Chhayawala, Bhujanwala, Panditwari and Ghantawala — to him.  
+3. He presented four (चातुर्याम) villages — Chhayawala, Bhujanwala, Panditwari and Ghantawala — to him.  
 *Which of the statements given above are correct?*  
 A. Only 2  
 B. Only 3  

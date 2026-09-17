@@ -4,7 +4,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Ozone Layer | Ozone Depletion | Ozone Hole | Ozone Depleting Substances (ODS) | Montreal Protocol | Vienna Convention
+Ozone Layer | Ozone Depletion (ओजोन क्षरण) | Ozone Hole (ओजोन छिद्र) | Ozone Depleting Substances (ODS) | Montreal Protocol (मॉन्ट्रियल प्रोटोकॉल) | Vienna Convention
 
 </details>
 
@@ -23,40 +23,40 @@ Ozone Layer | Ozone Depletion | Ozone Hole | Ozone Depleting Substances (ODS) | 
 
 ## Consolidated — 34 Must-Score Facts
 
-1. **Ozone (O₃)** is triatomic oxygen. **Good ozone** sits in the **stratosphere** (about **15–30/35 km**). Ground-level ozone is a harmful pollutant.
-2. About **90%** of atmospheric ozone is in the **stratosphere**; about **10%** is in the **troposphere**.
-3. Stratospheric ozone forms when **UV** acts on **O₂** (Chapman cycle). Ozone absorbs **ultraviolet**, not IR as its main protective role.
+1. **Ozone (O₃)** is triatomic oxygen. **Good ozone** (अच्छा ओजोन) sits in the **stratosphere** (समतापमंडल) (about **15–30/35 km**). Ground-level ozone is a harmful pollutant.
+2. About **90%** of atmospheric ozone is in the **stratosphere**; about **10%** is in the **troposphere** (क्षोभमंडल).
+3. Stratospheric ozone (समतापमंडलीय ओजोन) forms when **UV** acts on **O₂** (Chapman cycle). Ozone absorbs **ultraviolet**, not IR as its main protective role.
 4. Ozone amount is measured in **Dobson Units**. **1 DU ≈ 0.01 mm** of pure ozone at **0°C and 1 atm**. Average column ≈ **300 DU**. An ozone hole is often taken as below **220 DU**.
 5. Stratospheric ozone is naturally regulated in part by **nitrogen dioxide (NO₂)**. Column thickness is often highest in **spring** and lowest in the **rainy season** (general seasonal pattern — distinct from the Antarctic spring hole).
 6. Ozone depletion is driven by **ODS** such as CFCs through chlorine and bromine catalytic cycles.
 7. One chlorine atom can destroy on the order of **100,000** ozone molecules before it is removed.
 8. The classic **ozone hole** forms over **Antarctica** in spring (**September–October**) with polar stratospheric clouds, polar front/vortex, and CFCs.
-9. Joe **Farman**, Brian **Gardiner**, and Jonathan **Shanklin** (British Antarctic Survey) reported the Antarctic ozone hole in **Nature (May 1985)**; TOMS mapping was used in that era of monitoring.
+9. Joe **Farman** (फ़रमान), Brian **Gardiner**, and Jonathan **Shanklin** (British Antarctic Survey) reported the Antarctic ozone hole in **Nature (May 1985)**; TOMS mapping was used in that era of monitoring.
 10. ODS include **CFCs, Halon-1211/1301, carbon tetrachloride, methyl chloroform, methyl bromide, HCFCs**, and related chlorine/bromine carriers. **HFCs** are **not** classic ODS.
-11. Refrigerant trade name **Mafron** (halocarbon coolants) is common in domestic refrigerators; **ammonia** is used in many large plants. CFCs are **not** primarily “automobile exhaust” gases.
+11. Refrigerant trade (पण्याध्यक्ष) name **Mafron** (halocarbon coolants) is common in domestic refrigerators; **ammonia** is used in many large plants. CFCs are **not** primarily “automobile exhaust” gases.
 12. CFCs are used in refrigerators/AC, foam blowing, aerosol propellants, and cleaning some electronic components — **not** tubeless-tyre production as a classic CFC use.
 13. **HFCs** are high-GWP climate gases under **Kigali**. They are **not** classic ozone-depleting substances.
-14. The **Vienna Convention (1985)** is the framework treaty. The **Montreal Protocol (16 September 1987; force 1 January 1989)** is the binding ODS phase-out.
-15. World Ozone Day is **16 September** (Montreal signing; UN observance from **1994**).
+14. The **Vienna Convention (1985)** (वियना कन्वेंशन) is the framework treaty. The **Montreal Protocol (16 September 1987; force 1 January 1989)** is the binding ODS phase-out.
+15. World Ozone Day (विश्व ओजोन दिवस) is **16 September** (Montreal signing; UN observance from **1994**).
 16. The **Kigali Amendment (2016; force 1 January 2019)** phases down **HFCs** for climate reasons under the Montreal family.
-17. **Montreal = ozone. Kyoto = climate.** Carbon trading ≠ Montreal.
+17. **Montreal = ozone. Kyoto (क्योटो) = climate.** Carbon trading ≠ Montreal.
 18. ODP measures ozone-damage potential. GWP measures heat-trapping potential.
-19. Stratospheric ozone absorbs harmful UV (**~93–99%** of the most damaging wavelengths). Tropospheric ozone is a pollutant and greenhouse gas.
+19. Stratospheric ozone absorbs harmful UV (**~93–99%** of the most damaging wavelengths). Tropospheric ozone (क्षोभमंडलीय ओजोन) is a pollutant and greenhouse gas.
 20. **UV-A (315–400 nm)** largely reaches the surface; **UV-B (280–315 nm)** is mostly blocked by ozone; **UV-C (100–280 nm)** is blocked and does not reach the surface under normal conditions.
 21. Extra UV-B raises **skin cancer**, cataracts, crop damage, and plankton stress — not “liver/brain/oral cancer” as the classic stem key.
-22. India’s Ozone Cell under MoEFCC tracks HCFC phase-out and cooling-sector compliance.
+22. India’s Ozone Cell under MoEFCC (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय) tracks HCFC phase-out and cooling-sector compliance.
 23. Do not place the protective ozone layer in the troposphere.
 24. CFCs are both ODS and strong greenhouse gases — “CFC not a GHG” is false.
 25. Polar spring timing matters: the deepest Antarctic loss is not midsummer.
 26. Vienna does not itself list every control measure; Montreal carries the binding phase-out schedules.
 27. **G.W. Kent Moore** (University of Toronto) led the **2005** report of an ozone “halo” / low-ozone feature over the **Tibetan Plateau**.
-28. Homosphere (uniform composition) ≈ troposphere + stratosphere + mesosphere; **ionosphere** is **not** part of the homosphere set in UKPCS-style stems.
+28. Homosphere (सममंडल) (uniform composition) ≈ troposphere + stratosphere + mesosphere (मध्यमंडल); **ionosphere** is **not** part of the homosphere set in UKPCS-style stems.
 29. Troposphere is deepest in the tropics (~**18–20 km**) and shallower near the poles.
 30. Dobson Unit is a column measure, not a surface concentration in ppm.
-31. A stem pairing Montreal with climate mitigation is usually the Kyoto/Paris trap.
+31. A stem pairing Montreal with climate mitigation (जलवायु शमन) is usually the Kyoto/Paris trap.
 32. Ozone as a gas near the surface is poisonous to lungs/respiratory systems; as a stratospheric layer it is essential for biotic life via UV shielding.
 33. Formation of ozone is slower over polar regions, so depletion effects are strongest there.
-34. Acid rain is driven by **SO₂ / NOx**, not “nitric acid alone” as a matched pair with ozone–CFC style keys.
+34. Acid rain (अम्ल वर्षा) is driven by **SO₂ / NOx**, not “nitric acid alone” as a matched pair with ozone–CFC style keys.
 
 ---
 
@@ -171,11 +171,11 @@ Options: A. CO B. SO₂ C. O₃ D. Fluorides
 - The **ozone hole** is a region of severely thinned column ozone, defined as **below 220 DU**.
 - It is **not** a literal hole in the sky.
 - Classic location: **Antarctic spring** (**September–October**, Southern Hemisphere). Ozone forms slowly over poles, so depletion effects are strongest there.
-- Extreme cold forms **Polar Stratospheric Clouds (PSCs)**; nitric-acid chemistry on PSC surfaces activates chlorine from CFCs; the **polar front/vortex** isolates air; chlorine becomes highly active when sunlight returns.
+- Extreme cold forms **Polar Stratospheric Clouds (PSCs)** (ध्रुवीय समतापमंडलीय बादल); nitric-acid chemistry on PSC surfaces activates chlorine from CFCs; the **polar front/vortex** isolates air; chlorine becomes highly active when sunlight returns.
 - Discovered in **1985** by **Farman, Gardiner, and Shanklin** (British Antarctic Survey) in *Nature*; total-ozone mapping (TOMS-era) supported monitoring.
 - In **2005**, **G.W. Kent Moore** (University of Toronto) and colleagues reported a low-ozone / “ozone halo” feature over the **Tibetan Plateau**.
 - Arctic thinning occurs but is usually weaker/less persistent than the Antarctic hole.
-- There is **no ozone hole over Uttar Pradesh / India** as an Antarctic-style seasonal feature.
+- There is **no ozone hole over Uttar Pradesh (उत्तर प्रदेश) / India** as an Antarctic-style seasonal feature.
 
 > **Logic:** Hole = Antarctic spring + DU threshold + PSC/CFC chemistry — not “everywhere CFCs are used.”
 
@@ -189,7 +189,7 @@ Options: A. CO B. SO₂ C. O₃ D. Fluorides
 - **CFCs:** refrigerants, aerosol propellants, foam blowing, electronics cleaning — long-lived chlorine sources.
 - **Halons (e.g. Halon-1211, Halon-1301):** fire suppressants — bromine; often higher ozone-depleting impact per molecule.
 - Also controlled: **carbon tetrachloride (CCl₄)**, **methyl chloroform (1,1,1-trichloroethane)**, **methyl bromide (CH₃Br)**, and transitional **HCFCs**.
-- **ODP (Ozone Depleting Potential)** ranks destructiveness relative to **CFC-11 = 1**.
+- **ODP (Ozone Depleting Potential)** ranks destructiveness relative (सापेक्ष) to **CFC-11 = 1**.
 - **HFCs** were ozone-friendly replacements but have high **GWP**; controlled later by the **Kigali Amendment** (climate, not classic ODS).
 - **Nitrous oxide (N₂O)** also contributes to ozone chemistry / long-term ozone loss discussions, but CFCs/halons dominate classic “ozone hole” stems.
 
@@ -219,9 +219,9 @@ Options: A. CO B. SO₂ C. O₃ D. Fluorides
 
 **PYQ — UPPCS Prelims 2024, Q35**
 
-Which agreement is related to climate change mitigation?
+Which agreement is related to climate change (जलवायु परिवर्तन) mitigation?
 
-Options: A. Montreal Protocol B. Ramsar C. Kyoto Protocol D. CITES
+Options: A. Montreal Protocol B. Ramsar (रामसर) C. Kyoto Protocol D. CITES (साइट्स)
 
 <details><summary>Show answer</summary>
 
@@ -263,7 +263,7 @@ World / International Ozone Day date:
 - It commits parties to protect the ozone layer through research, monitoring, information exchange, and cooperation.
 - It does **not** itself set the detailed binding ODS phase-out schedules — that is Montreal’s job.
 - Sequence fact: **Vienna 1985 → Montreal 1987**.
-- Together they form the global ozone regime administered with UNEP support (Ozone Secretariat).
+- Together they form the global ozone regime administered with UNEP (संयुक्त राष्ट्र पर्यावरण कार्यक्रम) support (Ozone Secretariat).
 
 | Treaty | Year | Role |
 |--------|------|------|

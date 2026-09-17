@@ -4,7 +4,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-UNEP | UNDP | FAO | UNESCO | IUCN | WWF | IPCC | WMO | GEF | Greenpeace
+UNEP (संयुक्त राष्ट्र पर्यावरण कार्यक्रम) | UNDP (यूएनडीपी) | FAO | UNESCO | IUCN (आईयूसीएन) | WWF (डब्ल्यूडब्ल्यूएफ) | IPCC (आईपीसीसी) | WMO | GEF | Greenpeace
 
 </details>
 
@@ -23,18 +23,18 @@ UNEP | UNDP | FAO | UNESCO | IUCN | WWF | IPCC | WMO | GEF | Greenpeace
 
 ## Consolidated — 24 Must-Score Facts
 
-1. **UNEP** was created after **Stockholm 1972**. Its HQ is **Nairobi**. Flagship products include the **Emissions Gap Report** and **GEO**.
+1. **UNEP** was created after **Stockholm 1972** (स्टॉकहोम सम्मेलन). Its HQ is **Nairobi**. Flagship products include the **Emissions Gap Report** (उत्सर्जन अंतराल रिपोर्ट) and **GEO**.
 2. **UNDP** sits in **New York** and publishes the **Human Development Report / HDI** (from **1990**).
 3. **FAO** sits in **Rome** and publishes **SOFO**. It co-hosts Rotterdam work with UNEP.
-4. **UNESCO** sits in **Paris** and runs World Heritage and the **MAB** Biosphere Reserve programme.
-5. **IUCN** sits in **Gland** and publishes the **Red List** of extinction risk.
+4. **UNESCO** sits in **Paris** and runs World Heritage (विश्व धरोहर) and the **MAB** Biosphere Reserve (जैवमंडल आरक्षित क्षेत्र) programme.
+5. **IUCN** (आईयूसीएन) sits in **Gland** and publishes the **Red List** of extinction risk.
 6. **WWF** also sits in **Gland** and publishes the **Living Planet Report / LPI**.
 7. **IPCC** sits in **Geneva**. It was created by **WMO + UNEP** in **1988** and shared the **2007** Nobel Peace Prize.
 8. Emissions Gap Report = **UNEP**, not IPCC or UNDP. HDR = **UNDP**, not UNEP.
-9. IPCC does science assessment. **UNFCCC** is the climate treaty. Do not merge the two.
-10. IUCN assesses extinction risk. **CITES** regulates wildlife **trade**. Different jobs.
+9. IPCC does science assessment. **UNFCCC** (यूएनएफसीसीसी) is the climate treaty. Do not merge the two.
+10. IUCN assesses extinction risk. **CITES** (साइट्स) regulates wildlife **trade** (पण्याध्यक्ष). Different jobs.
 11. IUCN and WWF share a city but differ: assessment union versus conservation NGO campaigning and Living Planet metrics.
-12. UNEP coordinates environment. UNDP coordinates development. HQ and report facts separate them.
+12. UNEP coordinates environment (पर्यावरण). UNDP coordinates development. HQ and report facts separate them.
 13. UNESCO heritage–education–MAB is not the same as UNEP environment coordination.
 14. The **GEF (1991)** is a multilateral funder. Donors are not “developed countries only” as a rigid fact.
 15. IPCC Assessment Reports synthesize climate science. They do not set national NDCs.
@@ -83,7 +83,7 @@ UNEP | UNDP | FAO | UNESCO | IUCN | WWF | IPCC | WMO | GEF | Greenpeace
 
 **Identity:** Stockholm 1972 | Nairobi | Emissions Gap | GEO | Treaty host
 
-- **UNEP (United Nations Environment Programme)** is the UN’s principal environment coordination body, created after the **Stockholm Conference (1972)**.
+- **UNEP (United Nations Environment Programme)** is the UN’s principal environment coordination body, created after the **Stockholm Conference (1972)** (स्टॉकहोम सम्मेलन).
 - **HQ: Nairobi, Kenya** — not Geneva or New York.
 - Publishes the annual **Emissions Gap Report** (NDC shortfall vs 1.5–2°C pathways) and **GEO (Global Environment Outlook)**.
 - Hosts/supports secretariats for treaties such as Montreal, Basel, Stockholm POPs, and Minamata.
@@ -175,7 +175,7 @@ Options: A. UNDP B. IMF C. UNICEF D. UNCTAD
 
 ## 42.4 UNESCO
 
-**Identity:** Paris | World Heritage | MAB Biosphere Reserves | ESD
+**Identity:** Paris | World Heritage | MAB Biosphere Reserves (जैवमंडल आरक्षित क्षेत्र) | ESD
 
 - **UNESCO** leads education, science, and culture — environment enters via heritage and biosphere programmes.
 - **HQ: Paris**.
@@ -186,7 +186,7 @@ Options: A. UNDP B. IMF C. UNICEF D. UNCTAD
 
 **PYQ — UPPCS Prelims 2019, Q35**
 
-Jaipur listed as UNESCO World Heritage Site at the 43rd session held in:
+Jaipur listed as UNESCO World Heritage Site at the 43rd session (पंगु सत्र) held in:
 
 Options: A. Baku B. Bishkek C. Istanbul D. Marrakesh
 
@@ -235,7 +235,7 @@ Options: A. Club of Rome B. UNESCO C. Brundtland D. Agenda 21
 - Since **1961**, WWF’s logo animal has been the **Giant Panda (*Ailuropoda melanoleuca*)**.
 - It publishes the **Living Planet Report** and Living Planet Index.
 - **HQ: Gland, Switzerland** — same city as IUCN, different organisation.
-- Publishes the **Living Planet Report** and **Living Planet Index (LPI)** on vertebrate population trends.
+- Publishes the **Living Planet Report** and **Living Planet Index (LPI)** on vertebrate population (जनसंख्या) trends.
 - Known for the **giant panda** logo and flagship-species campaigns.
 - Campaigns and advocates; IUCN assesses via Red List.
 
@@ -247,7 +247,7 @@ Options: A. Club of Rome B. UNESCO C. Brundtland D. Agenda 21
 
 **Identity:** 1988 WMO+UNEP | Geneva | Assessment Reports | Science ≠ policy
 
-- **IPCC (Intergovernmental Panel on Climate Change)** was established in **1988** by **WMO** and **UNEP**.
+- **IPCC (Intergovernmental Panel on Climate Change (जलवायु परिवर्तन))** was established in **1988** by **WMO** and **UNEP**.
 - **HQ: Geneva**.
 - Publishes **Assessment Reports** (AR1→AR6; AR6 synthesis **2023**) plus special reports.
 - Synthesises existing science; does **not** set NDCs or negotiate treaties.
@@ -262,7 +262,7 @@ Options: A. Club of Rome B. UNESCO C. Brundtland D. Agenda 21
 
 **Identity:** WMO Geneva | Greenpeace Amsterdam | US EPA 1970
 
-- The **World Meteorological Organization (WMO)** provides the global framework for meteorology and operational hydrology.
+- The **World Meteorological Organization (WMO)** (डब्लूएमओ) provides the global framework for meteorology and operational hydrology.
 - WMO originated from the **International Meteorological Organization (1873)** and became WMO on **17 March 1951**.
 - **WMO headquarters is Geneva, Switzerland.** It co-created the **IPCC** with UNEP in **1988**.
 - **Greenpeace International** is an environmental NGO headquartered in **Amsterdam, Netherlands**.
@@ -1102,9 +1102,9 @@ D. Nairobi
 
 ## 42.8 OPCW & UN-Habitat (bank add-ons)
 
-**Identity:** Chemical Weapons Convention | The Hague | Habitat Nairobi
+**Identity:** Chemical Weapons Convention | The Hague | Habitat (वास स्थान) Nairobi
 
-- **OPCW (Organisation for the Prohibition of Chemical Weapons)** implements the **Chemical Weapons Convention** (force **29 April 1997**); HQ **The Hague**, Netherlands. It verifies destruction/non-re-emergence of chemical weapons and assists states against chemical threats — **not** an EU/NATO/WHO body. Nobel Peace Prize **2013**.
+- **OPCW (Organisation for the Prohibition (प्रतिषेध) of Chemical Weapons)** implements the **Chemical Weapons Convention** (force **29 April 1997**); HQ **The Hague**, Netherlands. It verifies destruction/non-re-emergence of chemical weapons and assists states against chemical threats — **not** an EU/NATO/WHO body. Nobel Peace Prize **2013**.
 - **UN-Habitat** (UN Human Settlements Programme; HQ **Nairobi**, from **1978**) is mandated to promote socially and environmentally sustainable towns/cities and adequate shelter; partners include governments, local authorities, and non-state actors; contributes to poverty reduction and safe water/sanitation access. Partners are **not** governments-only.
 
 > **Logic:** OPCW ≠ EU organ. UN-Habitat partners ≠ governments only.

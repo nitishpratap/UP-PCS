@@ -8,7 +8,7 @@
 ## Consolidated — 20 Must-Score Facts (Committees & Commissions)
 
 1. **Santhanam Committee (1962–64):** Formed on Prevention of Corruption; recommended the establishment of the **Central Vigilance Commission (CVC, 1964)**.
-2. **Swaran Singh Committee (1976):** Recommended inclusion of **Fundamental Duties** (Part IVA, Art 51A) incorporated by the **42nd Amendment Act 1976**. *(Note: Recommended 8 duties; 10 were added in 1976; 11th added in 2002 via 86th Amd).*
+2. **Swaran Singh Committee (1976):** Recommended inclusion of **Fundamental Duties** (मौलिक कर्तव्य) (Part IVA, Art 51A) incorporated by the **42nd Amendment Act 1976**. *(Note: Recommended 8 duties; 10 were added in 1976; 11th added in 2002 via 86th Amd).*
 3. **Verma Committee (1999):** Identified legal provisions for the implementation and enforcement of Fundamental Duties.
 4. **Balwant Rai Mehta Committee (1957):** Recommended a **3-tier Panchayati Raj system** (Gram Panchayat, Panchayat Samiti, Zila Parishad) under "Democratic Decentralization".
 5. **Ashok Mehta Committee (1977):** Recommended a **2-tier Panchayati Raj system** (Mandal Panchayat and Zila Parishad), official participation of political parties, and creation of Nyaya Panchayats.

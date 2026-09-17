@@ -1,10 +1,10 @@
-# Topic 41 — Environmental Monitoring
+# Topic 41 — Environmental Monitoring (पर्यावरणीय निगरानी)
 ### ★ UPPCS Revision Sheet — Lucent-style (no repetition · Practice ≥25)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Environmental Indicators | Environmental Monitoring | Environmental Audit
+Environmental Indicators | Environmental Monitoring | Environmental Audit (पर्यावरण लेखापरीक्षा)
 
 </details>
 
@@ -16,7 +16,7 @@ Environmental Indicators | Environmental Monitoring | Environmental Audit
 
 ## Current Affairs (this topic)
 
-- CPCB / SPCB monitoring network and satellite products are living CA.
+- CPCB (केंद्रीय प्रदूषण नियंत्रण बोर्ड) / SPCB monitoring network and satellite products are living CA.
 - Keep ambient vs emission monitoring distinction clear.
 
 ---
@@ -28,11 +28,11 @@ Environmental Indicators | Environmental Monitoring | Environmental Audit
 3. Noise is measured in **decibels**. Smoke opacity uses the **Ringelmann** scale **0–5**.
 4. **Lichens** are classic bio-indicators for sulphur dioxide stress.
 5. **Monitoring** means systematic repeated measurement against standards. It is not the same as an audit.
-6. **CPCB** runs **NAMP** (manual air), **CAAQMS** (real-time air), and **NWMP** (surface water).
+6. **CPCB** (केंद्रीय प्रदूषण नियंत्रण बोर्ड) runs **NAMP** (manual air), **CAAQMS** (real-time air), and **NWMP** (surface water).
 7. **CGWB** monitors groundwater quality and levels and publishes the annual groundwater quality report.
-8. **SAFAR** is the IITM air-quality and weather forecast system associated with Harsh Vardhan’s launch messaging in **July 2018**.
-9. **NCAP (2019)** expands city monitoring and action. **SAMEER** is an AQI public app.
-10. An **environmental audit** verifies compliance with law or clearance conditions — it is more than raw data logging.
+8. **SAFAR** (सफर) is the IITM air-quality and weather forecast system associated with Harsh Vardhan’s launch messaging in **July 2018**.
+9. **NCAP (राष्ट्रीय स्वच्छ वायु कार्यक्रम) (2019)** expands city monitoring and action. **SAMEER** is an AQI public app.
+10. An **environmental audit** verifies compliance with law or clearance conditions — it is more than raw (रॉ) data logging.
 11. **Form V** Environmental Statement under EPA Rule **14** goes to the SPCB yearly.
 12. **ISO 14001** is the Environmental Management System standard.
 13. Consent to Operate links industry permission to both monitoring data and audit compliance.
@@ -43,7 +43,7 @@ Environmental Indicators | Environmental Monitoring | Environmental Audit
 18. Indicators turn raw numbers into decision signals for policy and public warning.
 19. Bio-indicators supplement instruments when living organisms reveal chronic pollution stress.
 20. Ringelmann is about visible smoke shade, not a water-quality number.
-21. Do not call an audit “just another AQI reading.” Audit checks legal conformity.
+21. Do not call an audit “just another AQI reading (रीडिंग).” Audit checks legal conformity.
 22. Surface-water networks (NWMP) do not replace groundwater networks (CGWB).
 
 ---
@@ -86,8 +86,8 @@ Environmental Indicators | Environmental Monitoring | Environmental Audit
 - **PSR model:Pressure** (emissions, resource use) → **State** (ambient quality) → **Response** (treatment capacity, action plans).
 - Air indicators: **PM2.5, PM10, SO₂, NO₂, CO, O₃** (and AQI composite 0–500).
 - Water indicators: **BOD, COD, DO, pH, coliform**. Higher BOD = more organic pollution; **COD ≥ BOD**; healthy streams need adequate **DO**.
-- Noise indicator: **decibel (dB)** — logarithmic; CPCB zone limits apply.
-- **Ringelmann scale (0–5)** measures **smoke plume density/opacity**, not water, fog, or noise.
+- Noise indicator: **decibel (dB)** (डेसिबल) — logarithmic; CPCB zone limits apply.
+- **Ringelmann scale (रिंगेलमैन पैमाना) (0–5)** measures **smoke plume density/opacity**, not water, fog, or noise.
 - Bio-indicators: **lichens** (SO₂-sensitive air quality); aquatic macroinvertebrates for clean streams.
 
 **PYQ — UPPCS Prelims 2023, Q103**
@@ -143,13 +143,13 @@ Lichens are good pollution indicators; they do **not** grow well in polluted are
 - **SAFAR** (IITM) combines air-quality monitoring with weather forecasting; inaugurated by **Dr. Harsh Vardhan** (July 2018).
 - **NCAP (2019)** expands monitoring and action in non-attainment cities (including multiple UP cities).
 - **SAMEER** app disseminates CPCB AQI; **PARIVESH** tracks EC compliance reporting.
-- **UPPCB** issues Consent to Establish/Operate and inspects industries in Uttar Pradesh.
+- **UPPCB** issues Consent to Establish/Operate and inspects industries in Uttar Pradesh (उत्तर प्रदेश).
 
 **PYQ — UPPCS Prelims 2025, Q70**
 
 Annual Groundwater Quality Report 2024 prepared by:
 
-1. CPCB 2. CWC 3. CGWB
+1. CPCB 2. CWC (केंद्रीय जल आयोग) 3. CGWB
 
 Options: A. 1 and 2 B. Only 3 C. 2 and 3 D. Only 1
 
@@ -190,7 +190,7 @@ SAFAR inaugurated (July 2018) by:
 - Under **EPA Rules, Rule 14**, specified industries file an annual **Environmental Statement (Form V)** with the SPCB — India’s statutory disclosure/audit-type tool.
 - **ISO 14001** is the voluntary international standard for an **Environmental Management System (EMS)**.
 - Post-EC projects submit periodic **compliance reports** (often six-monthly) — audit/compliance track linked to EIA (Topic 14).
-- Green audits in institutions review energy, water, waste, and campus ecology.
+- Green audits in institutions review energy, water, waste, and campus ecology (पारिस्थितिकी).
 - Consent to Operate renewal typically depends on monitoring results plus inspection/audit findings.
 
 | Tool | Role |

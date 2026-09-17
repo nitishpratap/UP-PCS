@@ -4,7 +4,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Chipko | Appiko | Silent Valley | Narmada Bachao Andolan | Bishnoi | Jungle Bachao Andolan | Save Western Ghats
+Chipko (चिपको) | Appiko (अप्पिको) | Silent Valley (साइलेंट वैली) | Narmada (नर्मदा) Bachao (नर्मदा बचाओ) Andolan (नर्मदा बचाओ) | Bishnoi (बिश्नोई) | Jungle Bachao Andolan | Save Western Ghats (पश्चिमी घाट)
 
 </details>
 
@@ -16,26 +16,26 @@ Chipko | Appiko | Silent Valley | Narmada Bachao Andolan | Bishnoi | Jungle Bach
 
 ## Current Affairs (this topic)
 
-- Movement years and states are fixed history; CA rarely renames Chipko / Appiko / NBA.
+- Movement years and states are fixed history (इतिहास); CA rarely renames Chipko / Appiko / NBA.
 - Keep NBA (Andolan) ≠ National Biodiversity Authority acronym trap ready.
 
 ---
 
 ## Consolidated — 22 Must-Score Facts
 
-1. **Bishnoi** resistance at **Khejarli, Rajasthan (1730)** is led in memory by **Amrita Devi** and the **363** martyrs who died protecting khejri trees. It is centuries older than Chipko.
-2. **Chipko (1973)** began at **Reni, Uttarakhand** (then Uttar Pradesh). Leaders include **Sunderlal Bahuguna, Chandi Prasad Bhatt, and Gaura Devi**. Method: embracing trees against logging.
-3. **Silent Valley (1970s)** in **Kerala (Palakkad)** opposed a hydro project in rainforest. **KSSP** and scientists were central. It is **not** a Tamil Nadu movement.
-4. **Jungle Bachao Andolan (1982)** in **Singhbhum, Jharkhand** was tribal resistance for forest rights.
+1. **Bishnoi** (बिश्नोई) resistance at **Khejarli, Rajasthan (1730)** is led in memory by **Amrita Devi** (अमृता देवी) and the **363** martyrs who died protecting khejri trees. It is centuries older than Chipko.
+2. **Chipko (1973)** began at **Reni, Uttarakhand** (then Uttar Pradesh (उत्तर प्रदेश)). Leaders include **Sunderlal Bahuguna, Chandi Prasad Bhatt (चंडी प्रसाद भट्ट), and Gaura Devi**. Method: embracing trees against logging.
+3. **Silent Valley (1970s)** (शांत घाटी) in **Kerala (Palakkad)** opposed a hydro project in rainforest. **KSSP** and scientists were central. It is **not** a Tamil Nadu (नाडु) movement.
+4. **Jungle Bachao Andolan (1982)** (जंगल बचाओ) in **Singhbhum, Jharkhand** was tribal (आदिवासी) resistance for forest rights.
 5. **Appiko (1983)** in **Karnataka (Sirsi)** was led by **Panduranga Hegde**. It is the southern tree-embrace movement. Appiko is **Karnataka only** — not Uttarakhand, UP, or Kerala.
-6. **Narmada Bachao Andolan (from 1985)** spans **Madhya Pradesh, Gujarat, and Maharashtra**, with **Medha Patkar** and **Baba Amte** as leader facts. It is anti-large-dam displacement politics.
-7. **Save Western Ghats (from about 2011)** is multi-state ecology politics around the **Gadgil** and **Kasturirangan** reports, mining, and ESZ questions.
+6. **Narmada Bachao Andolan (from 1985)** spans **Madhya Pradesh, Gujarat, and Maharashtra**, with **Medha Patkar** (मेधा पाटकर) and **Baba Amte** as leader facts. It is anti-large-dam displacement politics.
+7. **Save Western Ghats (from about 2011)** is multi-state ecology (पारिस्थितिकी) politics around the **Gadgil** and **Kasturirangan** reports, mining, and ESZ questions.
 8. Method families: Chipko, Appiko, and Bishnoi = forest/tree protection. Silent Valley and Narmada Bachao = anti-dam. Save Western Ghats = report/policy ecology protests.
 9. Chipko ≠ Appiko. Chipko is Uttarakhand; Appiko is Karnataka.
 10. Bishnoi **1730** ≠ Chipko **1973**. Century trap matters.
 11. “NBA” as Narmada Bachao Andolan is **not** the National Biodiversity Authority. Same letters, different bodies.
-12. Silent Valley is Kerala rainforest–dam conflict, not a Western Ghats mining-only slogan.
-13. Jungle Bachao is Jharkhand Singhbhum tribal forest rights — not Chipko’s Garhwal story.
+12. Silent Valley is Kerala rainforest–dam (दाम -) conflict, not a Western Ghats mining-only slogan.
+13. Jungle Bachao is Jharkhand Singhbhum tribal forest rights — not Chipko’s Garhwal (गढ़वाल) story.
 14. Narmada Bachao is multi-state Narmada valley politics — not a single-state Kerala story.
 15. Save Western Ghats leans on expert committee reports; Chipko leans on village tree hugging.
 16. UP link: Chipko’s Reni lay in erstwhile UP until Uttarakhand statehood (**2000**). Appiko and Silent Valley are **not** UP movements.
@@ -78,7 +78,7 @@ Chipko | Appiko | Silent Valley | Narmada Bachao Andolan | Bishnoi | Jungle Bach
 
 ---
 
-## 29.1 Chipko Movement
+## 29.1 Chipko Movement (चिपको आंदोलन)
 
 **Identity:** 1973 | Reni, Uttarakhand | Tree hugging | Bahuguna, Bhatt, Gaura Devi
 
@@ -86,12 +86,12 @@ Chipko | Appiko | Silent Valley | Narmada Bachao Andolan | Bishnoi | Jungle Bach
 
 **Cause:** Commercial logging threatened village forests, soil, and water security in Garhwal hills.
 
-**Course:** Chipko began in **March 1973** at **Reni, Chamoli** (then UP, now Uttarakhand). Villagers hugged trees to stop contractors. On **26 March 1974**, **Gaura Devi** led women who blocked ash-tree felling. Leaders include **Sunderlal Bahuguna**, **Chandi Prasad Bhatt**, and **Gaura Devi**. Method = non-violent passive resistance.
+**Course:** Chipko began in **March 1973** at **Reni, Chamoli (चमोली)** (then UP, now Uttarakhand). Villagers hugged trees to stop contractors. On **26 March 1974**, **Gaura Devi** led women who blocked ash-tree felling. Leaders include **Sunderlal Bahuguna**, **Chandi Prasad Bhatt** (चंडी प्रसाद भट्ट), and **Gaura Devi**. Method = non-violent passive resistance (निष्क्रिय प्रतिरोध).
 
 **Result:** National symbol of community forest protection. Influenced the conservation tilt behind **Forest (Conservation) Act 1980** and **National Forest Policy 1988**. Bahuguna’s line — “ecology is permanent economy” — entered coaching memory.
 
-- **Maiti Movement** (Uttarakhand; pioneered by **Kalyan Singh Rawat**, mid-1990s) asks newly married couples to plant a sapling at the bride’s parental home — separate from Chipko.
-- Related movements: **Appiko** (Karnataka), **Narmada Bachao Andolan** (anti-large dam on Narmada).
+- **Maiti Movement** (मैती आंदोलन) (Uttarakhand; pioneered by **Kalyan Singh Rawat**, mid-1990s) asks newly married couples to plant a sapling at the bride’s parental home — separate from Chipko.
+- Related movements: **Appiko** (अप्पिको) (Karnataka), **Narmada Bachao Andolan** (anti-large dam on Narmada).
 
 > **Logic:** Chipko = **Uttarakhand 1973**, not Karnataka (Appiko) or Kerala (Silent Valley).
 
@@ -105,7 +105,7 @@ Chipko | Appiko | Silent Valley | Narmada Bachao Andolan | Bishnoi | Jungle Bach
 
 **Cause:** Commercial clear-felling and monoculture plantations threatened Western Ghats watersheds and local livelihoods in **Uttara Kannada**.
 
-**Course:** **Appiko** (“to embrace” in **Kannada**) launched in **1983** at **Sirsi / Kalase**, Karnataka. **Panduranga Hegde** led tree-embrace protests for sustainable forestry. The fight protected high-rainfall catchments of the **Kali**, **Aghanashini**, and **Sharavathi**.
+**Course:** **Appiko** (“to embrace” in **Kannada**) launched in **1983** at **Sirsi / Kalase**, Karnataka. **Panduranga Hegde** led tree-embrace protests for sustainable forestry. The fight protected high-rainfall catchments of the **Kali** (काली), **Aghanashini**, and **Sharavathi**.
 
 **Result:** Became the southern tree-embrace counterpart of Chipko. It remains a **Karnataka-only** state trap and is **not** the same campaign as Save Western Ghats (2011+ report politics).
 
@@ -132,11 +132,11 @@ Options: A. 1 and 2 B. Only 4 C. 3 and 4 D. Only 1
 
 ### Cause, Course, Result
 
-**Cause:** A Kerala State Electricity Board hydro project on the **Kunthipuzha** threatened to submerge **Silent Valley** tropical evergreen rainforest in **Palakkad**.
+**Cause:** A Kerala State Electricity Board hydro project on the **Kunthipuzha** threatened to submerge **Silent Valley** (साइलेंट वैली) tropical evergreen rainforest in **Palakkad**.
 
-**Course:** Peak mobilisation ran **1978–1983**. **Kerala Sastra Sahitya Parishad (KSSP)** and scientists led petitions, media, and science-based advocacy — not primarily tree-hugging. Pressure reached the Centre.
+**Course:** Peak mobilisation ran **1978–1983**. **Kerala Sastra Sahitya (साहित्य) Parishad (KSSP)** and scientists led petitions, media, and science-based advocacy — not primarily tree-hugging. Pressure reached the Centre.
 
-**Result:** **Indira Gandhi** declared protection in **1983**. **Silent Valley National Park** was notified in **1984** and later included in the **Nilgiri Biosphere Reserve**. The case stands as India’s classic anti-dam rainforest save — different from Chipko/Appiko anti-logging.
+**Result:** **Indira Gandhi (गांधी)** declared protection in **1983**. **Silent Valley National Park** was notified in **1984** and later included in the **Nilgiri (नीलगिरि) Biosphere Reserve (जैवमंडल आरक्षित क्षेत्र)**. The case stands as India’s classic anti-dam rainforest save — different from Chipko/Appiko anti-logging.
 
 > **Logic:** Silent Valley = **Kerala**, not Tamil Nadu.
 
@@ -144,13 +144,13 @@ Options: A. 1 and 2 B. Only 4 C. 3 and 4 D. Only 1
 
 ## 29.4 Narmada Bachao Andolan
 
-**Identity:** 1985+ | Medha Patkar | Sardar Sarovar | MP–Gujarat–Maharashtra
+**Identity:** 1985+ | Medha Patkar | Sardar Sarovar (सरदार सरोवर) | MP–Gujarat–Maharashtra
 
 ### Cause, Course, Result
 
-**Cause:** Large dams on the **Narmada**, especially **Sardar Sarovar**, threatened mass displacement of adivasi and peasant communities with weak rehabilitation and river-ecology loss.
+**Cause:** Large dams on the **Narmada**, especially **Sardar Sarovar** (सरदार सरोवर), threatened mass displacement of adivasi (आदिवासी) and peasant communities with weak rehabilitation and river-ecology loss.
 
-**Course:** The movement formalised around **1985**. Leaders include **Medha Patkar** and **Baba Amte**. Methods mixed satyagraha, jal yatras, court petitions, and drowning protests (jalsamarpan). **World Bank withdrew** funding in **1993** after NBA pressure. Supreme Court rulings (**2000**, **2005**) balanced construction with R&R conditions.
+**Course:** The movement formalised around **1985**. Leaders include **Medha Patkar** and **Baba Amte**. Methods mixed satyagraha (सत्याग्रह), jal yatras, court petitions, and drowning protests (jalsamarpan). **World Bank withdrew** funding in **1993** after NBA pressure. Supreme Court rulings (**2000**, **2005**) balanced construction with R&R conditions.
 
 **Result:** Raised national rehabilitation standards and made displacement a permanent large-dam debate. The project continued under court conditions; the movement’s lasting mark is the **R&R + ecology** frame, not a total dam stop.
 
@@ -164,9 +164,9 @@ Options: A. 1 and 2 B. Only 4 C. 3 and 4 D. Only 1
 
 ### Cause, Course, Result
 
-**Cause:** **Maharaja Abhay Singh** ordered felling of **khejri** trees near **Khejarli (Jodhpur)** for kiln fuel, hitting Bishnoi sacred ecology.
+**Cause:** **Maharaja (महाराज) Abhay Singh** ordered felling of **khejri** trees near **Khejarli (Jodhpur)** for kiln fuel, hitting Bishnoi sacred ecology.
 
-**Course:** In **September 1730**, **Amrita Devi** and villagers hugged trees; **363 Bishnois** were martyred defending them. The **Bishnoi sect** (founded by **Guru Jambheshwar, 1485**) already taught flora–fauna protection (blackbuck, chinkara) among its **29** principles.
+**Course:** In **September 1730**, **Amrita Devi** and villagers hugged trees; **363 Bishnois** were martyred defending them. The **Bishnoi sect** (founded by **Guru (गुरु) Jambheshwar, 1485**) already taught flora (वनस्पति)–fauna (प्राणीजात) protection (blackbuck, chinkara) among its **29** principles.
 
 **Result:** The Maharaja later banned tree felling in Bishnoi villages. The episode is the oldest syllabus forest-protection memory and a conceptual precursor to Chipko — different century and desert ecology.
 
@@ -196,7 +196,7 @@ Options: A. 1 and 2 B. Only 4 C. 3 and 4 D. Only 1
 
 ### Cause, Course, Result
 
-**Cause:** Mining, hydropower, and infrastructure pressure on the **Western Ghats** biodiversity hotspot across Kerala, Karnataka, Maharashtra, Goa, and Tamil Nadu raised demands for stronger ecological zoning.
+**Cause:** Mining, hydropower, and infrastructure pressure on the **Western Ghats** (पश्चिमी घाट) biodiversity hotspot (जैव विविधता हॉटस्पॉट) across Kerala, Karnataka, Maharashtra, Goa (गोवा), and Tamil Nadu raised demands for stronger ecological zoning.
 
 **Course:** The **Western Ghats Ecology Expert Panel (Madhav Gadgil), 2011** recommended strong ecological sensitivity zoning. The **Kasturirangan High-Level Working Group, 2013** moderated ESA extent. Farmer, mining, and conservation protests followed ESZ and report politics.
 

@@ -23,9 +23,9 @@ Taught in time-order: Vedic → Magadha → Maurya → Post-Mauryan → Gupta �
 2. **Ashoka** on edicts is **Devanampiya Piyadassi** (देवानांप्रिय प्रियदर्शी). His personal name appears at **Maski** (and Gujarra, Nittur, Udegolam). **Bindusara** is **Amitraghata** (अमित्रघात).
 3. **Chandragupta I** is the first Gupta **Maharajadhiraja** (महाराजाधिराज). **Chandragupta II** is **Vikramaditya** (विक्रमादित्य). **Harsha** is Chinese **Siladitya** (शीलादित्य). **Kanishka** is **Devaputra** (देवपुत्र).
 4. **Gautamiputra Satakarni** is **Dakshinapathapati** (दक्षिणापथपति). **Kharavela** is **Mahameghavahana** (महामेघवाहन). **Rudradaman I** is **Mahakshatrapa** (महाक्षत्रप). **Mahapadma Nanda** is **Ekarat / Sarvakshatrantaka** (एकराट् / सर्वक्षत्रान्तक).
-5. **Hathigumpha** = **Kharavela**. **Ayodhya** = Pushyamitra’s two **ashwamedhas**. **Besnagar** = Heliodorus, **not** Pushyamitra.
-6. **Prayag Prashasti** = **Samudragupta** by **Harishena** on the Allahabad Ashokan shaft. **Aihole** = **Pulakeshin II** stopping Harsha.
-7. **Girnar / Junagadh** rock carries three ages: **Ashoka**, then **Rudradaman**, then **Skandagupta**.
+5. **Hathigumpha** = **Kharavela**. **Ayodhya** (अयोध्या) = Pushyamitra’s two **ashwamedhas**. **Besnagar** = Heliodorus, **not** Pushyamitra.
+6. **Prayag Prashasti** (प्रयाग प्रशस्ति) = **Samudragupta** (समुद्रगुप्त) by **Harishena** on the Allahabad Ashokan shaft. **Aihole** (ऐहोल) = **Pulakeshin II** stopping Harsha.
+7. **Girnar / Junagadh** rock carries three ages: **Ashoka**, then **Rudradaman** (रुद्रदामन), then **Skandagupta**.
 8. **Sarvavarman–Gaya copper plate** is **NOT** matched. The Gaya plate is **Samudragupta**. Sarvavarman’s fact is the **Asirgarh** seal.
 9. Correct Maukhari / later pairs: **Ishanavarman–Haraha**, **Ishvaravarman–Jaunpur**, **Jivitagupta II–Deo-Baranark**.
 10. Vedic **Bhagadugha** (भागदुघ) is the **revenue** collector of the king’s share. **Akshavapa** (अक्षावाप) is the **dice / gambling** officer — the classic trap.
@@ -38,14 +38,14 @@ Taught in time-order: Vedic → Magadha → Maurya → Post-Mauryan → Gupta �
 17. Mauryan rule is **centralised** through salaried **amatyas** (अमात्य). Gupta and Harsha run a looser **samanta** (सामंत) (feudatory) system.
 18. Kautilya’s **saptanga** (सप्तांग) has seven limbs: swami (स्वामी), amatya (अमात्य), janapada (जनपद), durga (दुर्ग), kosha (कोष), bala (बल), and mitra (मित्र). Adhyakshas (अध्यक्ष) are department heads under that machine.
 19. **Nasik prasasti** of Gautami Balashri records Gautamiputra against Nahapana. **Naneghat** records queen **Naganika** with Satakarni I.
-20. **Mehrauli** iron pillar’s “Chandra” is usually **Chandragupta II**. **Bhitari** pillar is **Skandagupta** versus the Hunas. **Banskhera** and **Madhuban** are Harsha grants.
+20. **Mehrauli** (मेहरौली) iron pillar’s “Chandra” is usually **Chandragupta II**. **Bhitari** pillar is **Skandagupta** versus the Hunas. **Banskhera** and **Madhuban** are Harsha grants.
 21. Samudragupta’s south contemporaries: **Dhananjaya–Kusthalapura**, **Nilaraja–Avamukta**, **Ugrasena–Palaka**, **Vishnugopa–Kanchi**.
 22. Coin evidence ladder: punch-marked silver → Indo-Greek portraits → Kushan gold → Gupta dinara; Chandragupta II’s **silver ~33 grains** proves the western Shaka victory.
 23. The **Vishnu Purana** carries Maurya genealogy. The **Vayu Purana** does **not** throw light on Gupta governance.
 24. **Rajuka** (रज्जुक) is Mauryan district land and justice. **Uparika** (उपरिक) is Gupta provincial governor. Do not swap the ages.
 25. Best king ID order is **inscription first**, then coins, then Puranas. Foreign accounts (Megasthenes, Fa-Hien, Xuanzang, I-tsing) sit beside that ladder.
-26. **Chandragupta Maurya** is Greek **Sandrokottos** (~322 BCE). He is **not** Chandragupta I or Chandragupta II of the Gupta house.
-27. **Rummindei** pillar records Ashoka’s Lumbini visit. **Rabatak** gives Kanishka genealogy. **Haraha** (554 CE) is Maukhari Ishanavarman in Barabanki, UP.
+26. **Chandragupta Maurya** (चंद्रगुप्त मौर्य) is Greek **Sandrokottos** (~322 BCE). He is **not** Chandragupta I or Chandragupta II of the Gupta house.
+27. **Rummindei** (रुम्मिनदेई) pillar records Ashoka’s Lumbini visit. **Rabatak** gives Kanishka genealogy. **Haraha** (554 CE) is Maukhari Ishanavarman in Barabanki, UP.
 28. Title inflation grows from Gupta grants onward. **Chakravartin** (चक्रवर्ती) is the ideal wheel-turning monarch, not one king’s exclusive stamp; a feudatory is **samanta / mahasamanta** (सामंत / महासामंत).
 
 ---
@@ -125,8 +125,8 @@ Taught in time-order: Vedic → Magadha → Maurya → Post-Mauryan → Gupta �
 
 | Book / text | Writer / authority | What it is for |
 |-------------|--------------------|----------------|
-| *Arthashastra* | **Kautilya / Chanakya** | Saptanga, adhyakshas, spies, revenue |
-| *Indica* | **Megasthenes** | Agronomai, city boards, seven classes |
+| *Arthashastra* (अर्थशास्त्र) | **Kautilya / Chanakya** | Saptanga, adhyakshas, spies, revenue |
+| *Indica* | **Megasthenes** (मेगस्थनीज) | Agronomai, city boards, seven classes |
 
 - Do not treat *Indica* as the *Arthashastra*.
 - Broader Mauryan book–writer pairs sit in Topic 7.
@@ -137,9 +137,9 @@ Taught in time-order: Vedic → Magadha → Maurya → Post-Mauryan → Gupta �
 
 **Time-order spine | titles and inscriptions in the next two headings**
 
-- The Vedic start is the **rajan**. He is a tribal chief, not an emperor. Magadha houses then run Haryanka, Shishunaga, and Nanda.
-- Haryanka names to keep are **Bimbisara** and **Ajatashatru**. Nanda names to keep are **Mahapadma** and **Dhana**.
-- The first pan-north machine is **Chandragupta Maurya**, about **322 BCE**. Then come **Bindusara** and **Ashoka**. The empire ends in **185 BCE** when **Pushyamitra Shunga** kills Brihadratha.
+- The Vedic start is the **rajan** (राजन). He is a tribal chief, not an emperor. Magadha houses then run Haryanka, Shishunaga, and Nanda.
+- Haryanka names to keep are **Bimbisara** and **Ajatashatru** (अजातशत्रु). Nanda names to keep are **Mahapadma** and **Dhana**.
+- The first pan-north machine is **Chandragupta Maurya**, about **322 BCE**. Then come **Bindusara** and **Ashoka**. The empire ends in **185 BCE** when **Pushyamitra Shunga** (पुष्यमित्र शुंग) kills Brihadratha.
 - Post-Mauryan names papers keep include **Pushyamitra**, **Kharavela** of Kalinga, **Kanishka** the Kushan, and **Gautamiputra Satakarni** in the Deccan.
 - Gupta line in order: Sri Gupta → Ghatotkacha → **Chandragupta I** → **Samudragupta** → **Chandragupta II** → Kumaragupta I → **Skandagupta**.
 - The last ancient north reunion is **Harsha** of the Pushyabhuti house, **606–647**. The capital shifts from Thanesar to Kannauj.
@@ -249,21 +249,21 @@ Each ruler below is tied to one famous inscription. Hold the pair as a full sent
 
 ### Satavahana, Shaka, Kushan
 
-- **Gautamiputra Satakarni** is recorded in the **Nasik** prasasti of Gautami Balashri. He beats Nahapana.
+- **Gautamiputra Satakarni** is recorded in the **Nasik** (नासिक) prasasti of Gautami Balashri. He beats Nahapana.
 - **Naganika** is recorded at **Naneghat**, with Satakarni I.
 - **Rudradaman I** writes Junagadh Sanskrit prose on the Sudarsana lake repair.
 - **Kanishka** has the **Rabatak** genealogy.
 
 ### Gupta and after
 
-- **Samudragupta** has the **Prayag Prashasti** of Harishena, on the **Allahabad** Ashokan shaft.
-- He also has the **Gaya** copper plate. That plate is the **2022 trap**. It is not Sarvavarman.
+- **Samudragupta** has the **Prayag Prashasti** of Harishena, on the **Allahabad** (इलाहाबाद) Ashokan shaft.
+- He also has the **Gaya** (गया) copper plate. That plate is the **2022 trap**. It is not Sarvavarman.
 - **Chandragupta II** is the usual key for the **Mehrauli** iron pillar’s “Chandra.”
 - **Skandagupta** has the **Bhitari** pillar for the Huna war and also appears at Girnar for the Sudarsana repair after Rudradaman.
 - **Ishanavarman** has **Haraha** at Barabanki, **554 CE**.
-- **Ishvaravarman** has the **Jaunpur** stone.
+- **Ishvaravarman** has the **Jaunpur** (जौनपुर) stone.
 - **Jivitagupta II** has **Deo-Baranark**. Those three 2022 pairs are correct.
-- **Sarvavarman** has the **Asirgarh** seal. He does **not** have the Gaya plate.
+- **Sarvavarman** (सर्ववर्मन) has the **Asirgarh** seal. He does **not** have the Gaya plate.
 - **Pulakeshin II** has **Aihole**, composed by Ravikirti. It records the stop of Harsha.
 - **Harsha** has **Banskhera**, with a signature, and **Madhuban**, a grant.
 
@@ -397,7 +397,7 @@ A. Both 1 and 2 B. Neither 1 nor 2 C. Only 1 D. Only 2
 
 </details>
 
-**Gupta**
+**Gupta** (गुप्त)
 
 - Gupta administration is looser. A **samanta** (सामंत) sends tribute and troops.
 - The province is **bhukti** (भुक्ति), under an **uparika** (उपरिक). The district is **vishaya** (विषय), under a **kumaramatya** (कुमारमात्य) or ayuktaka. The **sandhivigrahika** (संधिविग्रहिक) handles peace and war.
@@ -459,8 +459,8 @@ A. Both 1 and 2 B. Neither 1 nor 2 C. Only 1 D. Only 2
 **Traveller age first | then the admin observation**
 
 - **Megasthenes**, under Chandragupta Maurya, records seven castes through a Greek lens, names the **agronomai**, and describes six city boards and six army boards.
-- **Fa-Hien**, under Chandragupta II, notes comparatively light punishments and visible Buddhist patronage in Gupta north India.
-- **Hiuen Tsang**, under Harsha, praises roads and hospices; elephant numbers in his account are colour, not a census.
+- **Fa-Hien** (फाह्यान), under Chandragupta II, notes comparatively light punishments and visible Buddhist patronage in Gupta north India.
+- **Hiuen Tsang** (ह्वेनसांग), under Harsha, praises roads and hospices; elephant numbers in his account are colour, not a census.
 - **I-tsing**, after Harsha, focuses on monastic rules and Nalanda life rather than a new imperial office list.
 
 | Traveller | Age | Admin observation |

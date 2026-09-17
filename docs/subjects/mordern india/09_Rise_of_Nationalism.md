@@ -4,7 +4,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Political Organisations before INC | Zamindari Association | Bangabhasha Prakashika Sabha | Freedom Leaders | Political Organisations | Indian National Congress | Establishment of INC | Congress Presidents | Congress Sessions | Congress Policies | Moderates | Extremists | Tilak | Dadabhai Naoroji | Poona Sarvajanik Sabha | Indian Association | East India Association | Bombay Presidency Association | Madras Mahajan Sabha | Ilbert Bill
+Political Organisations before INC | Zamindari Association | Bangabhasha Prakashika Sabha (सभा) | Freedom Leaders | Political Organisations | Indian National Congress (कांग्रेस) | Establishment of INC | Congress Presidents | Congress Sessions | Congress Policies | Moderates | Extremists | Tilak (तिलक) | Dadabhai Naoroji (नौरोजी) | Poona Sarvajanik Sabha | Indian Association | East India Association | Bombay Presidency (प्रेसीडेंसी) Association | Madras Mahajan Sabha | Ilbert Bill
 
 </details>
 
@@ -18,37 +18,37 @@ Political Organisations before INC | Zamindari Association | Bangabhasha Prakash
 ## Consolidated — 32 Must-Score Facts
 
 1. The **East India Association** was founded in **1866** in **London** by **Dadabhai Naoroji**. It is not the Calcutta Indian Association of 1876.
-2. The pre-INC chronology four run **East India Association (1866) → National Indian Association (1870) → Indian Society (1872) → Indian Association (1876)**.
-3. The **Indian Association** was founded in **1876** at **Calcutta** by **Surendranath Banerjee** and **Ananda Mohan Bose**.
-4. The **Poona Sarvajanik Sabha** (**1870**, Ranade–Joshi circle) is a Deccan public body. The **Bombay Presidency Association** is **1885** (Mehta, Telang, Tyabji).
+2. The pre-INC chronology four (चातुर्याम) run **East India Association (1866) → National Indian Association (1870) → Indian Society (1872) → Indian Association (1876)**.
+3. The **Indian Association** was founded in **1876** at **Calcutta** by **Surendranath Banerjee (बनर्जी)** and **Ananda Mohan Bose**.
+4. The **Poona Sarvajanik Sabha** (**1870**, Ranade–Joshi circle) is a Deccan (दक्कन) public body. The **Bombay Presidency Association** is **1885** (Mehta, Telang, Tyabji).
 5. The **Indian National Congress** first met on **28 December 1885** at **Gokuldas Tejpal Sanskrit College, Bombay**. **A.O. Hume** organised it; **W.C. Bonnerjee** was the first President; about **72** delegates attended.
-6. **Safety Valve Theory** treats Hume as a British vent for discontent. The rival view is that Congress grew from decades of Indian political work.
-7. **Badruddin Tyabji** (Madras **1887**) was the first **Muslim** Congress President. **George Yule** (Allahabad **1888**) was the first **English** President.
-8. **Vande Mataram** was sung at the Calcutta Congress of **1896**. **Jana Gana Mana** was sung at Calcutta in **1911**.
-9. At Calcutta **1906**, **Dadabhai Naoroji** (third presidency) put **Swaraj** into Congress language as a declared goal.
-10. The **Surat Split** of **1907** broke Moderates and Extremists. The **Lucknow** session of **1916** (A.C. Majumdar) reunited them and sealed the **Lucknow Pact**.
+6. **Safety Valve Theory** (सेफ्टी वाल्व) treats Hume as a British vent for discontent. The rival view is that Congress grew from decades of Indian political work.
+7. **Badruddin Tyabji** (Madras **1887**) was the first **Muslim** Congress President. **George Yule** (Allahabad (इलाहाबाद) **1888**) was the first **English** President.
+8. **Vande Mataram** was sung at the Calcutta Congress of **1896**. **Jana Gana Mana (माना)** was sung at Calcutta in **1911**.
+9. At Calcutta **1906**, **Dadabhai Naoroji** (third presidency) put **Swaraj** (स्वराज) into Congress language as a declared goal.
+10. The **Surat Split** of **1907** broke Moderates and Extremists. The **Lucknow** (लखनऊ) session (पंगु सत्र) of **1916** (A.C. Majumdar) reunited them and sealed the **Lucknow Pact** (लखनऊ पैक्ट).
 11. Do **not** place the Lucknow Pact at **1911**. **1911** is the Delhi Durbar year of Bengal partition annulment and the capital shift to Delhi.
-12. **Annie Besant** (Calcutta **1917**) was the first **woman** Congress President. **Sarojini Naidu** (Kanpur **1925**) was the first **Indian** woman President.
-13. **Belgaum 1924** is Gandhi’s **only** Congress presidentship. **Lahore 1929** (Nehru) passed **Purna Swaraj**.
-14. **Karachi 1931** (Patel) adopted the **Fundamental Rights** resolution. **Faizpur 1937** was the first **village** Congress session.
-15. **Subhas Chandra Bose** presided at **Haripura 1938** and **Tripuri 1939**. **Abul Kalam Azad** presided at **Ramgarh 1940**.
-16. **Bal Gangadhar Tilak never** presided over any INC session. **Gokhale** did preside (Banaras **1905**).
-17. **Poverty and Un-British Rule in India** by Naoroji was published in **1901**. Drain Theory is wealth outflow; “Un-British rule” means the Raj betrayed British liberal ideals.
-18. **Moderates** trusted petition, prayer and British justice. **Extremists** pushed boycott, Swadeshi and assertive Swaraj.
+12. **Annie Besant (बेसेंट)** (Calcutta **1917**) was the first **woman** Congress President. **Sarojini Naidu** (Kanpur (कानपुर) **1925**) was the first **Indian** woman President.
+13. **Belgaum 1924** (बेलगाव) is Gandhi (गांधी)’s **only** Congress presidentship. **Lahore 1929** (लाहौर) (Nehru (नेहरू)) passed **Purna Swaraj** (पूर्ण स्वराज).
+14. **Karachi 1931** (Patel) adopted (अंगीकृत) the **Fundamental Rights** (मौलिक अधिकार) resolution. **Faizpur 1937** was the first **village** Congress session.
+15. **Subhas Chandra Bose** (सुभाष चंद्र बोस) presided at **Haripura 1938** and **Tripuri 1939**. **Abul Kalam Azad** presided at **Ramgarh 1940**.
+16. **Bal Gangadhar Tilak (बाल गंगाधर तिलक) never** presided over any INC session. **Gokhale** (गोखले) did preside (Banaras **1905**).
+17. **Poverty and Un-British Rule (अन-ब्रिटिश शासन) in India** by Naoroji was published in **1901**. Drain Theory (ड्रेन) is wealth outflow; “Un-British rule” means the Raj betrayed British liberal ideals.
+18. **Moderates** trusted petition, prayer and British justice. **Extremists** pushed boycott (बहिष्कार), Swadeshi (स्वदेशी) and assertive Swaraj.
 19. The **Ilbert Bill** controversy of **1883** exposed the racial bar in the courts and fed nationalist anger.
-20. Banerjee’s **Indian National Conference** (**1883/1885**) was an all-India dress rehearsal. It is **not** the same body as the **1885** INC.
+20. Banerjee’s **Indian National Conference** (नेशनल कॉन्फ्रेंस) (**1883/1885**) was an all-India dress rehearsal. It is **not** the same body as the **1885** INC.
 21. The **Madras Mahajan Sabha** dates to **1884**. The **Indian League** (**1875**, Sisir Kumar Ghosh) is not the Indian Association.
-22. **Lajpat Rai’s Mandalay** deportation (**1907**) lasted about **six months**. **Tilak’s Mandalay** sentence (**1908–14**) lasted about **six years**.
-23. Early nationalism grew from racial discrimination, closed ICS doors, drain of wealth, press and English education — then widened after Partition of Bengal (**1905**).
+22. **Lajpat Rai (राई)’s Mandalay** deportation (**1907**) lasted about **six months**. **Tilak’s Mandalay** sentence (**1908–14**) lasted about **six years**.
+23. Early nationalism grew from racial discrimination, closed ICS doors, drain of wealth (धन निष्कासन), press and English education — then widened after Partition of Bengal (**1905**).
 24. On the Moderates A/R trap: both the “providence / modernisation” claim and the “Un-British rule” complaint can be true, yet the complaint does **not** explain the providence claim.
 25. **Dadabhai Naoroji** was Congress President at Calcutta **1886** and again at Calcutta **1906** (his third term).
-26. Extremists are **not** the same as underground revolutionaries. Tilak is Extremist Congress politics; Kakori is a later revolutionary event.
+26. Extremists are **not** the same as underground revolutionaries. Tilak is Extremist (गरम दल) Congress politics; Kakori is a later revolutionary (क्रांतिकारी) event.
 27. Pre-Congress politics lived in London, Calcutta, Poona, Madras and Bombay associations. Congress in **1885** gave them one all-India annual forum.
-28. Hold the arc: pre-INC associations → Moderate Congress → Partition/Extremist rise → Surat split → Lucknow reunion → Home Rule → Gandhian mass phase.
+28. Hold the arc: pre-INC associations → Moderate (नरम दल) Congress → Partition/Extremist rise → Surat split → Lucknow reunion → Home Rule (होम रूल) → Gandhian mass phase.
 29. Earliest organised political line: **Bangabhasha Prakashika Sabha (~1836)** → **Zamindari / Landholders’ Society (1838, Dwarkanath Tagore)** → **Bengal British India Society (1843, George Thompson)** → **British Indian Association (1851, Radhakant Deb President)**.
 30. **Poona Sarvajanik Sabha** petitioned the **House of Commons in 1875**. **Indian Association** is the strongest pre-Congress all-India-leaning body; Banerjee was dismissed from ICS (**~1874**).
-31. **Lord Dufferin** called Congress a **microscopic minority**. British Committee of INC in London (**1889**, **Wedderburn**) published weekly *India*.
-32. **Valentine Chirol** called Tilak the **Father of Indian Unrest**. Tilak’s **Ganapati / Shivaji** festivals politicised public religion; he wrote *Gita Rahasya* in Mandalay jail.
+31. **Lord Dufferin (डफ़रिन)** called Congress a **microscopic minority**. British Committee of INC in London (**1889**, **Wedderburn**) published weekly *India*.
+32. **Valentine Chirol** called Tilak the **Father of Indian Unrest**. Tilak’s **Ganapati (गणपतिदेव) / Shivaji (शिवाजी)** festivals politicised public religion; he wrote *Gita Rahasya* (गीता रहस्य) in Mandalay jail.
 
 ---
 
@@ -89,7 +89,7 @@ Every list-matching or chronology question draws from this spine. Learn **year, 
 | 8 | 1917 | Calcutta | **Annie Besant** | First **woman** President |
 | 9 | 1924 | Belgaum | **M.K. Gandhi** | Gandhi's **only** INC presidentship |
 | 10 | 1925 | Kanpur | **Sarojini Naidu** | First **Indian** woman President |
-| 11 | 1929 | Lahore | **Jawaharlal Nehru** | **Purna Swaraj** resolution |
+| 11 | 1929 | Lahore | **Jawaharlal Nehru** (जवाहरलाल नेहरू) | **Purna Swaraj** resolution |
 | 12 | 1931 | Karachi | **Vallabhbhai Patel** | **Fundamental Rights** resolution |
 
 > **Logic:** If a question gives four sessions and asks for the **odd one out** or a chronology, these twelve cover almost every UPPCS angle seen 2018–2025. Sessions after 1931 (Faizpur, Haripura, Tripuri, Ramgarh) belong with the Gandhian-era and final-phase topics but are listed here too (see 9.4) for completeness.
@@ -104,10 +104,10 @@ Nationalism did **not** appear fully formed in 1885. Hold this arc; every card b
 |-------|-------------|--------|-----------|
 | Pre-Congress associations | **1866–1885** | Petitions, provincial lobbies | East India Assoc → Indian Assoc → INC |
 | Congress founding, early Moderate phase | **1885–1905** | Prayer, petition, protest; safety-valve debate | Hume organises; Bonnerjee first President |
-| Partition and Extremist rise | **1905–1907** | Swadeshi, boycott, passive resistance | Bengal Partition 1905 |
+| Partition and Extremist rise | **1905–1907** | Swadeshi, boycott, passive resistance (निष्क्रिय प्रतिरोध) | Bengal Partition 1905 (बंगाल विभाजन) |
 | Surat split and crackdown | **1907–1911** | Two rival wings; government exile/imprisonment of Extremists | Surat 1907; Mandalay deportations |
-| Reunion and Home Rule | **1916–1918** | Lucknow Pact; Home Rule Leagues (full detail **Topic 12**) | A.C. Majumdar; Besant/Tilak leagues |
-| Gandhian mass phase | **1919 onward** | Mass satyagraha (full detail **Topics 13–14**) | Amritsar 1919 onward |
+| Reunion and Home Rule | **1916–1918** | Lucknow Pact; Home Rule Leagues (दो लीग) (full detail **Topic 12**) | A.C. Majumdar; Besant/Tilak leagues |
+| Gandhian mass phase | **1919 onward** | Mass satyagraha (सत्याग्रह) (full detail **Topics 13–14**) | Amritsar (अमृतसर) 1919 onward |
 
 > **Logic:** Start every Topic 9 answer from the **stage**. Moderates are not "loyalists with no demands." Extremists are not "terrorists." Surat is a **split**, Lucknow is a **reunion** — never confuse the two 1900s-teen sessions.
 
@@ -117,7 +117,7 @@ Nationalism did **not** appear fully formed in 1885. Hold this arc; every card b
 
 - Modern Indian nationalism is the demand for **political rights and self-rule**, not only local caste or regional loyalty.
 - It grew among the English-educated professional class after 1858, then widened in the Swadeshi and Home Rule years.
-- Political causes included racial discrimination and Lytton’s reactionary years.
+- Political causes included racial discrimination and Lytton (लिटन)’s reactionary years.
 - The closed door of the **ICS** also fed political anger.
 - Economic causes included the drain of wealth, high land revenue, the ruin of handicrafts, and famines under a rich empire.
 - Social and intellectual causes included the press, railways, a common English-educated public, and socio-religious reform.
@@ -128,7 +128,7 @@ Nationalism did **not** appear fully formed in 1885. Hold this arc; every card b
 
 ### Ilbert Bill controversy (1883) — Cause → Course → Result
 
-**Viceroy:** Lord Ripon | **Law member:** Courtenay Ilbert
+**Viceroy (वायसराय):** Lord Ripon (रिपन) | **Law member:** Courtenay Ilbert
 
 **Causes**
 
@@ -156,7 +156,7 @@ Nationalism did **not** appear fully formed in 1885. Hold this arc; every card b
 
 ### Bangabhasha Prakashika Sabha (~1836)
 
-- Associates of **Raja Ram Mohan Roy** started this early political discussion body in Bengal (**~1836**).
+- Associates of **Raja (राजा) Ram Mohan Roy** (राम मोहन राय) started this early political discussion body in Bengal (**~1836**).
 - Roy is tagged as the earliest Indian to push for **political** as well as social reform.
 
 ### Zamindari Association / Landholders’ Society (1838)
@@ -165,9 +165,9 @@ Nationalism did **not** appear fully formed in 1885. Hold this arc; every card b
 **Founders:Dwarkanath Tagore** and fellow landlords
 
 - Often keyed as the **first organised political association** in India using **constitutional agitation**.
-- Aim: safeguard **zamindar** rights — not a middle-class nationalist party yet.
+- Aim: safeguard **zamindar** (ज़मींदार) rights — not a middle-class nationalist party yet.
 
-> **Logic:** First political organisation key = **Zamindari / Landholders’ Society, 1838** — not Indian Association 1876.
+> **Logic:** First political organisation key = **Zamindari / Landholders’ Society, 1838** — not Indian Association 1876 (इंडियन एसोसिएशन).
 
 ### Bengal British India Society (1843)
 
@@ -185,7 +185,7 @@ Nationalism did **not** appear fully formed in 1885. Hold this arc; every card b
 
 ### Hindu Mela (1867)
 
-- **Nabagopal Mitra**, inspired by Rajnarayan Bose, founded **Hindu Mela** to promote autonomy and **indigenous goods**.
+- **Nabagopal Mitra (मित्र -)**, inspired by Rajnarayan Bose, founded **Hindu Mela** to promote autonomy and **indigenous goods**.
 
 ### Central National Mohammadan Association (1877)
 
@@ -213,7 +213,7 @@ Nationalism did **not** appear fully formed in 1885. Hold this arc; every card b
 **Associated with:Mary Carpenter**
 
 - Mary Carpenter, the English social reformer, promoted education and social contact between Britain and India.
-- The body was more **social–educational** than a mass political party.
+- The body was more **social–educational** than a mass political party (राजनीतिक दल).
 - It sits **after** East India Association (**1866**) and **before** Indian Society (**1872**).
 
 > **Logic:** National Indian Association **1870** ≠ Indian Association **1876**.
@@ -231,7 +231,7 @@ Nationalism did **not** appear fully formed in 1885. Hold this arc; every card b
 
 ### Poona Sarvajanik Sabha (1870)
 
-**Year:1870Place:** Poona (Pune)
+**Year:1870Place:** Poona (Pune (पुणे))
 **Circle:G.V. Joshi (Sarvajanik Kaka)**, **M.G. Ranade** and Deccan public men
 
 - It claimed to speak for the people of the Deccan before the government (*sarvajanik* = public).
@@ -282,11 +282,11 @@ Nationalism did **not** appear fully formed in 1885. Hold this arc; every card b
 ### Bombay Presidency Association (1885)
 
 **Year:1885Place:** Bombay
-**Founders:Pherozeshah Mehta**, **K.T. Telang**, **Badruddin Tyabji** (the **Trimurti of Bombay**)
+**Founders:Pherozeshah Mehta**, **K.T. Telang**, **Badruddin Tyabji** (the **Trimurti (त्रिमूर्ति) of Bombay**)
 
 - Bombay’s elite political association, founded in the **same year** as Congress.
 - It spoke for civic rights, councils and Indian officers in the presidency.
-- Mehta became the Moderate “Lion of Bombay.”
+- Mehta became the Moderate “Lion (सिंह) of Bombay.”
 - Tyabji later became the **first Muslim President** of Congress, at **Madras 1887**.
 - Do not date it in the 1860s. It is **1885**.
 
@@ -331,19 +331,19 @@ D. 1, 2, 3, 4
 - Early demands included Indianisation of the **civil service**.
 - They asked for simultaneous ICS papers in India and England.
 - They wanted expansion of **legislative councils**, a cut in military spending, and an enquiry into poverty.
-- **Lala Lajpat Rai** and later **R.P. Dutt** argued that Hume founded Congress as a **safety valve**.
+- **Lala Lajpat Rai** (लाला लाजपत राय) and later **R.P. Dutt** argued that Hume founded Congress as a **safety valve**.
 - On this view, Hume wanted to **vent** unrest so that it would not explode.
 - Nationalist historians say Indians used Hume. They were not Hume’s puppets.
 - Congress was meant to meet **once a year**, pass resolutions, and go home. It was not yet a mass party with cadres in every district.
 - Viceroy **Lord Dufferin** (tenure of the founding) mocked Congress as a **microscopic minority** / short-sighted minority.
 - The **British Committee of the INC** was set up in London in **1889** under **Sir William Wedderburn**; it published the weekly *India*.
-- At the **Bankipur (Patna) session, 1912** (President **R.N. Mudholkar**), Hume was publicly called the **Father of Congress**.
+- At the **Bankipur (Patna (पटना)) session, 1912** (President **R.N. Mudholkar**), Hume was publicly called the **Father of Congress**.
 
 > **Logic:** First session = **Bombay 1885 + W.C. Bonnerjee + Hume**. First President is **not** Hume, **not** Naoroji, **not** Tilak.
 
 ---
 
-### Safety Valve Theory vs National Awakening view
+### Safety Valve Theory vs National Awakening view (राष्ट्रीय जागरण)
 
 Two rival explanations of **why** Congress began. Notes test both sides, not just one.
 
@@ -389,14 +389,14 @@ Two rival explanations of **why** Congress began. Notes test both sides, not jus
 | **1938** | Haripura | **Subhas Chandra Bose** |
 | **1939** | Tripuri | Bose again; then Rajendra Prasad after the crisis |
 | **1940** | Ramgarh | **Abul Kalam Azad** |
-| **1946** | Meerut | J.B. Kripalani |
+| **1946** | Meerut (मेरठ) | J.B. Kripalani |
 
-- **Bal Gangadhar Tilak** **never** presided over an INC session.
+- **Bal Gangadhar Tilak** (बाल गंगाधर तिलक) **never** presided over an INC session.
 - Lajpat Rai, Gokhale and Subhas Bose **did** preside.
 - Naoroji is the early leader who presided **three times** (1886, 1893, 1906).
 - **Lucknow Pact is 1916**, not 1911.
 - The **1911** Delhi Durbar package linked partition annulment with moving the capital to Delhi — not the Lucknow Pact.
-- **Ramgarh 1940** came after Congress ministries resigned in **1939**, before the August Offer and Cripps Mission.
+- **Ramgarh 1940** came after Congress ministries resigned in **1939**, before the August Offer (अगस्त प्रस्ताव) and Cripps (क्रिप्स) Mission.
 
 > **Logic:** Burn **Tilak = never President**. Besant **1917** is the first woman President. Sarojini **1925** is the first **Indian** woman President. Gandhi’s only presidency is **Belgaum**.
 
@@ -408,7 +408,7 @@ A. Lala Lajpat Rai
 
 B. Bal Gangadhar Tilak
 
-C. Gopal Krishna Gokhale
+C. Gopal Krishna (कृष्णा) Gokhale
 
 D. Subhash Chandra Bose
 
@@ -439,8 +439,8 @@ D. Subhash Chandra Bose
 
 Early Congress built a full economic programme around Naoroji's drain critique. Learn it as a checklist, not a vague "they wanted reform" line.
 
-1. Cut the **drain of wealth** — reduce home charges, pensions and guaranteed interest paid to Britain.
-2. Reduce the **land revenue** burden; some Moderates wanted the Bengal Permanent Settlement model extended to other provinces.
+1. Cut the **drain of wealth** — reduce home charges (होम चार्जेस), pensions and guaranteed interest paid to Britain.
+2. Reduce the **land revenue** burden; some Moderates wanted the Bengal Permanent Settlement (स्थायी बंदोबस्त) model extended to other provinces.
 3. Cut **military expenditure** and demand a fair India–Britain share of defence costs.
 4. Protect and develop **Indian industry** — tariff protection against Lancashire cloth and other British imports.
 5. Provide proper **famine relief** and public works instead of revenue rigidity during crop failure.
@@ -502,7 +502,7 @@ D. (A) is true, but (R) is false.
 
 - Extremists rose as Partition of Bengal (**1905**) and the limits of petition politics became clear.
 - The triad is **Lal–Bal–Pal**.
-- Their methods were **Swadeshi**, **boycott** of foreign goods, **national education**, and **passive resistance**.
+- Their methods were **Swadeshi** (स्वदेशी), **boycott** of foreign goods, **national education**, and **passive resistance** (निष्क्रिय प्रतिरोध).
 - Swaraj was stated as a right, not a reward for loyalty.
 - They used festivals, the vernacular press and volunteers.
 - As a group they were still not the bomb-throwing revolutionary stream (that stream is **Topic 11**).
@@ -512,9 +512,9 @@ D. (A) is true, but (R) is false.
 | Leader | Province / base | Paper | Signature method |
 |--------|------------------|-------|-------------------|
 | **Lala Lajpat Rai** ("Lal") | **Punjab** — Lahore | *The Punjabee* | Swadeshi + Arya Samaj-linked mass appeal |
-| **Bal Gangadhar Tilak** ("Bal") | **Maharashtra** — Poona | *Kesari*, *Maratha* | Festivals-as-politics; "Swaraj is my birthright" |
-| **Bipin Chandra Pal** ("Pal") | **Bengal** — Calcutta | *Bande Mataram*, *New India* | Swadeshi orator; theorist of passive resistance |
-| **Aurobindo Ghosh** (allied Bengal intellectual, not in the triad name) | Bengal — Calcutta | Editor, *Bande Mataram* | Ideological voice of "new nationalism" |
+| **Bal Gangadhar Tilak** ("Bal") | **Maharashtra** — Poona | *Kesari*, *Maratha* (मराठा) | Festivals-as-politics; "Swaraj is my birthright" |
+| **Bipin Chandra Pal** (बिपिन चंद्र पाल) ("Pal") | **Bengal** — Calcutta | *Bande Mataram*, *New India* | Swadeshi orator; theorist of passive resistance |
+| **Aurobindo (अरविंद) Ghosh** (allied Bengal intellectual, not in the triad name) | Bengal — Calcutta | Editor, *Bande Mataram* | Ideological voice of "new nationalism" |
 
 ### Surat Split, 1907 — Cause → Course → Result
 
@@ -534,7 +534,7 @@ D. (A) is true, but (R) is false.
 
 - **Two Congresses existed in practice** until the **1916 Lucknow reunion**.
 - The government used the split years to exile and jail Extremist leaders (Lajpat Rai’s short Mandalay deportation; Tilak’s long Mandalay sentence — table below).
-- At **Lucknow in 1916**, **Ambika Charan Majumdar** presided. Moderates and Extremists **reunited**, and the same session produced the **Lucknow Pact** with the Muslim League, accepting separate electorates as a bargain.
+- At **Lucknow in 1916**, **Ambika Charan (चारण) Majumdar** presided. Moderates and Extremists **reunited**, and the same session produced the **Lucknow Pact** with the Muslim League, accepting separate electorates as a bargain.
 - **Home Rule in 1916** under Tilak and Besant carried Extremist energy into a new constitutional form (full detail in Topic 12).
 
 ### Extremist crackdown — exile and imprisonment years
@@ -546,9 +546,9 @@ The government moved against Extremist leaders in the years right after Surat. K
 | **Lala Lajpat Rai** | Deported to **Mandalay** without trial under Regulation III of 1818 | **May–November 1907** (six months) |
 | **Bal Gangadhar Tilak** | Convicted of **sedition**; transported to **Mandalay** | **1908–14** (six years) |
 | **Bipin Chandra Pal** | **Self-exile** in England to avoid testifying against Aurobindo in the *Bande Mataram* sedition case | **1908–1911** |
-| **Aurobindo Ghosh** | Tried in the **Alipore Bomb Case**; acquitted, then withdrew from politics to **Pondicherry** | Case **1908–09**; Pondicherry from **1910** |
+| **Aurobindo Ghosh** | Tried in the **Alipore Bomb Case**; acquitted, then withdrew from politics to **Pondicherry** (पांडिचेरी) | Case **1908–09**; Pondicherry from **1910** |
 
-> **Logic:** Surat **1907** = split. Lucknow **1916** = reunion + League pact. Lucknow Pact is **not 1911**. Lajpat Rai's Mandalay (**1907, six months**) is a **different** event from Tilak's Mandalay (**1908–14, sedition sentence**).
+> **Logic:** Surat **1907** = split. Lucknow **1916** = reunion + League pact. Lucknow Pact is **not 1911**. Lajpat Rai's Mandalay (लाजपत राय) (**1907, six months**) is a **different** event from Tilak's Mandalay (तिलक मंडाले) (**1908–14, sedition sentence**).
 
 ---
 
@@ -563,14 +563,14 @@ The government moved against Extremist leaders in the years right after Surat. K
 - **Valentine Chirol** called him the **Father of Indian Unrest**.
 - He accused Moderates of **prayer, petition and protest** politics. His funeral bier (**1 August 1920**) was lifted by Gandhi, Shaukat Ali and others.
 - He **opposed** the **Age of Consent Act, 1891**.
-- **Behramji Malabari** advocated the Act.
+- **Behramji Malabari (मालाबारी)** advocated the Act.
 - Tilak’s Extremist wing did **not** support the Age of Consent Act; Malabari did.
 - He was jailed for sedition in **1897**, after the Chapekar context, and again in **1908**.
 - He spent **1908–14 in Mandalay**.
 - There he wrote ***Gita Rahasya***.
 - Famous line: **“Swaraj is my birthright and I shall have it.”**
 - He **never presided** over an INC session. He was a giant of the Surat Extremists, not a Congress President.
-- In **1916** he started a **Home Rule League** beside Annie Besant’s league. He died in **1920**, just as Non-Cooperation was being shaped.
+- In **1916** he started a **Home Rule League** beside Annie Besant’s league. He died in **1920**, just as Non-Cooperation (असहयोग) was being shaped.
 
 > **Logic:** Tilak = **never INC President + Kesari + Home Rule 1916 + opposed Age of Consent**. Gokhale **did** preside (1905).
 
@@ -585,7 +585,7 @@ The government moved against Extremist leaders in the years right after Surat. K
 - Later he was a merchant and public man in London.
 - Founded the **East India Association (1866)** in London.
 - He sat in the British House of Commons as Liberal MP for **Central Finsbury (1892)** — first Indian MP in that House.
-- Drain theory said India’s wealth left as salaries, pensions, home charges, profits and unequal trade.
+- Drain theory said India’s wealth left as salaries, pensions, home charges, profits and unequal trade (पण्याध्यक्ष).
 - Poverty was **produced**, not natural.
 - ***Poverty and Un-British Rule in India*** was published in **1901**. “Un-British” here means rule that violates Britain’s own standards — the same Moderate vocabulary as the “Un-British rule” critique.
 - He was Congress President **three times**.
@@ -642,7 +642,7 @@ D. 1903 A.D.
 
 - He founded the Indian Association in **1876**.
 - He organised the Indian National Conference in **1883** and **1885**.
-- His book is ***A Nation in Making***.
+- His book is ***A Nation in Making (ए नेशन इन मेकिंग)***.
 - He was called “Surrender Not” in the ICS-age agitation memory.
 
 ### Pherozeshah Mehta
@@ -660,7 +660,7 @@ D. 1903 A.D.
 
 - He was the Punjab Extremist (**Lal** of Lal–Bal–Pal).
 - He presided over the **1920 Calcutta Special** session.
-- His book is ***The Story of My Deportation***.
+- His book is ***The Story of My Deportation (डिपोर्टेशन)***.
 - He **did** preside, unlike Tilak.
 
 ### Bipin Chandra Pal
@@ -687,7 +687,7 @@ Match **List-I** with **List-II** and select the correct answer using the codes 
 A. The Story of My Deportation  1. Surendranath Banerjee
 B. Gita Rahasya  2. Maulana Abul Kalam Azad
 C. A Nation in Making  3. Lala Lajpat Rai
-D. India Wins Freedom  4. Bal Gangadhar Tilak
+D. India Wins Freedom (इंडिया विन्स फ्रीडम)  4. Bal Gangadhar Tilak
 
 A. 3 4 1 2
 
@@ -791,7 +791,7 @@ D. Both 1 and 2
 
 Consider the following events and arrange them in chronological order:
 
-1. Linlithgow August Offer
+1. Linlithgow (लिनलिथगो) August Offer
 2. Cripps Mission arrival in India
 3. Ramgarh Congress Session
 4. Resignation letters of Congress Ministers
@@ -1997,7 +1997,7 @@ D. Sardar Ajit Singh
 
 **Q4. UKPCS / BPSC / UPPCS**
 
-Lala Lajpat Rai’s political guru was:
+Lala Lajpat Rai’s political guru (गुरु) was:
 
 A. Giuseppe Mazzini
 
@@ -2075,13 +2075,13 @@ D. Dadabhai Naoroji
 
 **Logic:** Ganeshotsav politicisation = Tilak — UKPCS mass-mobilisation tag.
 
-**Ans: B.** **Tilak** politicised the **Ganeshotsav** for nationalist mobilisation.
+**Ans: B.** **Tilak** (तिलक) politicised the **Ganeshotsav** for nationalist mobilisation.
 
 </details>
 
 **Q8. UKPCS / BPSC / UPPCS**
 
-Along with Mahatma Gandhi, who lifted Bal Gangadhar Tilak’s bier in 1920?
+Along with Mahatma Gandhi (महात्मा गांधी), who lifted Bal Gangadhar Tilak’s bier in 1920?
 
 A. Maulana Shaukat Ali
 
@@ -2096,7 +2096,7 @@ D. Motilal Nehru
 
 **Logic:** Shaukat Ali lifted Tilak’s bier with Gandhi — UKPCS unity symbol tag.
 
-**Ans: A.** **Shaukat Ali** joined **Gandhi** in carrying Tilak’s bier in **1920**.
+**Ans: A.** **Shaukat Ali** joined **Gandhi** (गांधी) in carrying Tilak’s bier in **1920**.
 
 </details>
 

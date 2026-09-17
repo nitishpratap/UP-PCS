@@ -5,7 +5,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Coalfields | Iron ore | Copper | Tin | Petroleum / OPEC | Natural gas | Conventional vs renewable energy | Other minerals (Mn, bauxite, gold, diamond, U, phosphate) | Critical minerals (REE, lithium, cobalt)
+Coalfields | Iron ore | Copper | Tin | Petroleum / OPEC | Natural gas | Conventional vs renewable energy (नवीकरणीय ऊर्जा) | Other minerals (Mn, bauxite, gold, diamond, U, phosphate) | Critical minerals (REE, lithium, cobalt)
 
 </details>
 
@@ -37,7 +37,7 @@ D. South Africa
 <details>
 <summary>Show answer</summary>
 
-**Logic:** South Africa is the historic leader, not the 2023 leader.
+**Logic:** South Africa is the historic (ऐतिहासिक) leader, not the 2023 leader.
 
 **Ans: A (Series B provisional key).** China leads recent world gold output; South Africa is the twentieth-century trap.
 
@@ -56,7 +56,7 @@ D. South Africa
 6. **Kashagan** oil is in **Kazakhstan**, not Kuwait. **Burgan** is Kuwait. Also fact Ghawar/Dhahran (Saudi), Kirkuk/Zubair (Iraq), Haft Kel (Iran), Baku (Azerbaijan).
 7. Natural gas’s main constituent is **methane**. **LPG** is not the same as **CNG**.
 8. **Postmasburg** (South Africa) = **manganese**. **Iodine** fact = **Chile**. Steel volume top = **China**.
-9. Nuclear and geothermal energy are **not** “stored solar”. Wind, biomass, and hydro are solar-linked renewables. Coal, oil, and gas are conventional non-renewables.
+9. Nuclear and geothermal energy (भू-तापीय ऊर्जा) are **not** “stored solar”. Wind, biomass, and hydro are solar-linked renewables. Coal, oil, and gas are conventional non-renewables.
 10. **Hematite** is the red bulk ore; **magnetite** is black and highest grade. **Weipa** = bauxite; **Newman** = iron; **Witwatersrand** = gold; **Morocco** = phosphate.
 11. Qatar’s **North Field** and Iran’s **South Pars** are one continuous Gulf gas giant.
 12. **Itaipu** = Brazil–Paraguay hydel. **Three Gorges** = China on the Yangtze. **OPEC** HQ = **Vienna**. Original OPEC five (1960): Iran, Iraq, Kuwait, Saudi Arabia, Venezuela.
@@ -68,7 +68,7 @@ D. South Africa
 18. Pegu Yoma must not be dumped into the SE-Asia tin belt — it is an **oil** fact.
 19. Chile copper Assertion–Reason pattern: both copper leadership and porphyry geology can be true, and geology can explain leadership.
 20. North Sea oil/gas = UK–Norway belt; West Siberia = Russia’s giant hydrocarbon province.
-21. **German silver** contains **no silver**. **Peace Pipeline** = Iran–Pakistan. Brent = North Sea light crude. Uranium City = **Canada**. Rare earth processing = **China**.
+21. **German silver (रूपक)** contains **no silver**. **Peace Pipeline** = Iran–Pakistan. Brent = North Sea light crude. Uranium City = **Canada**. Rare earth processing = **China**.
 
 ---
 
@@ -197,7 +197,7 @@ Teach the **full field map**. Next year can ask any Lucent coalfield or ore town
 |------|---------------|-----------|-------------------------|
 | **Peat** | Lowest | First stage; high water | Ireland, Russia, Canada bogs |
 | **Lignite** (brown coal) | Low | Soft; thermal only | Germany (Lusatia), Australia, Neyveli-type |
-| **Bituminous** | Medium–high | Steam **and** coking | Ruhr, Appalachian, Damodar, Kuzbass |
+| **Bituminous** | Medium–high | Steam **and** coking | Ruhr, Appalachian, Damodar (दामोदर), Kuzbass |
 | **Anthracite** | Highest | Hardest; cleanest burn | **Pennsylvania** (USA); South Wales |
 
 **Producer vs exporter** (ranks move; freeze a year only if quoted)
@@ -320,10 +320,10 @@ D. France
 
 | Ore | Colour | Fe | Fact |
 |-----|--------|-----------|------|
-| **Hematite** | **Red** | ~70% | **Bulk** ore of world trade |
+| **Hematite** | **Red** | ~70% | **Bulk** ore of world trade (पण्याध्यक्ष) |
 | **Magnetite** | **Black** | ~72% | **Highest grade**; magnetic |
 | **Limonite** | Yellow-brown | ~60% | Hydrated; lower grade |
-| **Siderite** | Grey-brown | ~40% | Iron carbonate; poorest of the four |
+| **Siderite** | Grey-brown | ~40% | Iron carbonate; poorest of the four (चातुर्याम) |
 
 **Occurrence**
 
@@ -454,8 +454,8 @@ D. India
 
 - Best electrical conductor after silver → **wires**.
 - **Brass** is copper plus zinc.
-- **Bronze** is copper plus tin.
-- Copper is malleable and used in roofing, pipes, coins and electronics.
+- **Bronze** (कांस्य) is copper plus tin.
+- Copper is malleable and used in roofing, pipes, coins (रूपक) and electronics.
 
 **Ore**
 
@@ -523,7 +523,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A).
 
 **Ore / uses**
 
-- The ore is **cassiterite** (SnO₂). It occurs in alluvial placers and granite lodes.
+- The ore is **cassiterite** (SnO₂). It occurs in alluvial (जलोढ़) placers and granite lodes.
 - Uses include **tin plate** (cans), solder, **bronze** (Cu + Sn) and pewter.
 - Tin is a soft, corrosion-resistant coating on steel.
 
@@ -545,7 +545,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A).
 | Andes | Peru | |
 | Jos Plateau | Nigeria | Older textbook name |
 | Cornwall | UK | Historical; worked out |
-| Rondônia | Brazil | Also revise |
+| Rondônia (राष्ट्रीय अन्वेषण एजेंसी) | Brazil | Also revise |
 
 **Pegu Yoma is oil, not tin**
 
@@ -603,7 +603,7 @@ D. Silver
 **What it is**
 
 - Petroleum is liquid hydrocarbon in **sedimentary** basins.
-- The classic trap structure is an **anticline** (also fault, salt dome, offshore shelf).
+- The classic trap structure is an **anticline** (also fault, salt (लवणाध्यक्ष) dome, offshore shelf).
 - Associated gas often sits above the oil.
 
 **OPEC**
@@ -644,7 +644,7 @@ D. Silver
 | Cantarell | Mexico | |
 | Campos / pre-salt | Brazil | |
 | Hassi Messaoud | Algeria | |
-| Bonny / Niger Delta | Nigeria | |
+| Bonny / Niger Delta (डेल्टा) | Nigeria | |
 | Dukhan | Qatar | |
 | Murban | UAE | |
 | **Daqing** | China | |
@@ -706,7 +706,7 @@ D. Iraq - Zubair
 |--------------|---------|------------|
 | **Urengoy** / Yamburg / Medvezhye | Russia | West Siberia |
 | **North Field** | **Qatar** | Same giant reservoir as Iran’s South Pars |
-| **South Pars** | **Iran** | Persian Gulf; world’s largest gas accumulation with Qatar |
+| **South Pars** | **Iran** | Persian (फ़ारसी) Gulf; world’s largest gas accumulation with Qatar |
 | **Groningen** | Netherlands | Historic European giant |
 | Troll / Ekofisk gas | Norway | North Sea |
 | Hugoton / Marcellus shale | USA | |
@@ -777,7 +777,7 @@ D. Methane
 - Wind
 - Tidal
 - Geothermal
-- Biogas
+- Biogas (बायोगैस)
 
 **Non-renewable:** coal, petroleum, natural gas, nuclear.
 
@@ -808,7 +808,7 @@ Nuclear energy and geothermal energy are **not** stored solar. Wind and biomass 
 | **Itaipu** | Paraná | **Brazil–Paraguay** |
 | Grand Coulee | Columbia | USA |
 | Hoover | Colorado | USA |
-| Aswan High | Nile | Egypt |
+| Aswan High | Nile | Egypt (मिस्र) |
 | Guri | Caroní | Venezuela |
 | Churchill Falls | Churchill | Canada |
 | Sayano–Shushenskaya | Yenisei | Russia |
@@ -863,7 +863,7 @@ Nuclear energy and geothermal energy are **not** stored solar. Wind and biomass 
 | Nikopol | Ukraine |
 | Odisha / Maharashtra | India |
 
-**Bauxite → aluminium** (laterite ore; needs huge power to smelt)
+**Bauxite → aluminium** (laterite (लेटराइट) ore; needs huge power to smelt)
 
 | Place | Country |
 |-------|---------|
@@ -891,7 +891,7 @@ Nuclear energy and geothermal energy are **not** stored solar. Wind and biomass 
 
 - Kimberley / Kimberlite story is **South Africa**.
 - Volume names: Russia (Yakutia), Botswana, Canada, DRC.
-- Golconda is historical **India**.
+- Golconda (गोलकोंडा) is historical **India**.
 
 **Nickel**
 
@@ -917,7 +917,7 @@ Nuclear energy and geothermal energy are **not** stored solar. Wind and biomass 
 **Uranium / thorium**
 
 - Uranium mines: **Kazakhstan**, Canada Athabasca, Australia.
-- Olympic Dam (Australia) is U + Cu + Au.
+- Olympic Dam (दाम -) (Australia) is U + Cu + Au.
 - Thorium / monazite sands: India (Kerala–TN), Brazil, Australia.
 - Postmasburg is **not** uranium.
 
@@ -990,7 +990,7 @@ Most of the sources of energy we use represent stored solar energy. Which of the
 
 **Options:**
 
-A. Biomass energy
+A. Biomass energy (बायोमास ऊर्जा)
 
 B. Nuclear energy
 

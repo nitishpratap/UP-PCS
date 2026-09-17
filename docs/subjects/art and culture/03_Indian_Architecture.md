@@ -16,7 +16,7 @@ Indian Temple Architecture | Nagara Style | Dravida Style | Vesara Style | Templ
 ## Current Affairs
 
 - The **Ancient Buddhist Site of Sarnath** in Uttar Pradesh entered the UNESCO World Heritage list in **July 2026** at the 48th World Heritage Committee session in Busan.
-- Sarnath is India’s **45th** World Heritage property. The serial site joins **Chaukhandi Stupa** with the archaeological remains around **Dhamek** and the Ashokan pillar zone.
+- Sarnath is India’s **45th** World Heritage property. The serial site joins **Chaukhandi Stupa** with the archaeological remains around **Dhamek** (धमेख) and the Ashokan pillar zone.
 - **Maratha Military Landscapes of India** entered the list in **2025** as India’s **44th** property. The set covers **12** forts: eleven in Maharashtra and **Gingee** in Tamil Nadu.
 - **Moidams – the Mound-Burial System of the Ahom Dynasty** at Charaideo in Assam entered the list in **2024** as India’s **43rd** property.
 - These recent World Heritage inscriptions reflect India's architectural, fortificatory, and funerary landscape heritage.
@@ -32,50 +32,50 @@ Indian Temple Architecture | Nagara Style | Dravida Style | Vesara Style | Templ
 4. The temple sequence runs **garbhagriha** (गर्भगृह) to **antarala** (अंतराल) to **mandapa** (मंडप), with **pradakshina** (प्रदक्षिणा पथ) around the sanctum.
 5. An **amalaka** (आमलक) and a **kalasha** (कलश) crown a Nagara tower.
 6. A **gopuram** is a Dravida **gateway**. A **shikhara** is the Nagara **sanctum** tower. These two words are often swapped. Pandya and Nayaka phases make gopurams the dominant outer face.
-7. The Odisha Nagara order is **Parasuramesvara**, then **Mukteshvara**, then **Lingaraja**, then **Jagannath**, then **Konark**.
+7. The Odisha Nagara order is **Parasuramesvara** (परशुरामेश्वर), then **Mukteshvara** (मुक्तेश्वर), then **Lingaraja**, then **Jagannath** (जगन्नाथ), then **Konark** (कोणार्क).
 8. A **rekha deul** (रेखा देउल) is the Odisha sanctum tower. A **pidha deul** (पीढ़ा देउल) is the jagamohana hall. **Lingaraja** is the tallest standing temple in Bhubaneswar, about **180** feet.
 9. **Konark** Sun Temple is a stone chariot of Surya with **24** wheels and **7** horses. Eastern Ganga **Narasimhadeva I** built it in the **13th** century. It is also called the **Black Pagoda**.
-10. **Khajuraho** is a **Chandela** sandstone Nagara group in **Madhya Pradesh**, built in the **10th–12th** centuries. About **85** shrines were planned. About **25** still stand. Groups are Hindu and Jain.
-11. **Kandariya Mahadeva**, built by **Vidyadhara**, is the largest Khajuraho temple. **Matangeshvara** belongs to **Dhanga’s** age.
+10. **Khajuraho** (खजुराहो) is a **Chandela** sandstone Nagara group in **Madhya Pradesh**, built in the **10th–12th** centuries. About **85** shrines were planned. About **25** still stand. Groups are Hindu and Jain.
+11. **Kandariya Mahadeva** (कंदरिया महादेव), built by **Vidyadhara**, is the largest Khajuraho temple. **Matangeshvara** belongs to **Dhanga’s** age.
 12. **Markandeshwar** in Vidarbha is called the **Khajuraho of Vidarbha**. It is not Kailasa. It is not Bhimashankar.
-13. **Modhera** Sun Temple belongs to Solanki **Bhima I**.
-14. **Dilwara** at Mount Abu is white **marble** Jain work of the same Solanki milieu.
-15. **Rani ki Vav** at Patan is a Solanki stepwell. UNESCO listed it in **2014**.
+13. **Modhera** (मोढेरा) Sun Temple belongs to Solanki **Bhima I**.
+14. **Dilwara** (दिलवाड़ा) at Mount Abu is white **marble** Jain work of the same Solanki milieu.
+15. **Rani ki Vav** (रानी की वाव) at Patan is a Solanki stepwell. UNESCO listed it in **2014**.
 16. Pallava phases run **Mahendra** rock-cut mandapas, then **Mamalla** rathas, then **Rajasimha** structural temples such as the Shore Temple and Kailasanatha. **Draupadi ratha** is the **smallest**.
-17. Chola Dravida peaks are **Brihadeeswara** at Thanjavur (**1010**, granite), **Gangaikonda Cholapuram**, and **Airavatesvara** at Darasuram. Early Chola **Korangnath** at Srinivasanallur belongs to **Parantaka I**.
-18. **Aihole** is the cradle of early Chalukya experiment. The **Lad Khan** temple stands there.
-19. **Badami** has four caves. **Pattadakal** mixes Nagara and Dravida. Hoysala Belur, Halebidu, and Somnathpur use soapstone star plans in the **Vesara** hybrid.
-20. The **Sarnath** Ashokan capital has four lions. **Rampurva** has a bull and a lion. **Sankisa** has an elephant. **Vaishali** has a single lion. The stone is **Chunar** with Mauryan polish.
-21. **Sanchi** has four **toranas** (तोरण). **Bharhut** is a Shunga railing campus. **Amaravati** has ayaka platforms. **Dhamek** is at Sarnath. **Mahabodhi** is at Bodh Gaya.
+17. Chola Dravida peaks are **Brihadeeswara** at Thanjavur (**1010**, granite), **Gangaikonda Cholapuram** (गंगैकोंड चोलपुरम), and **Airavatesvara** (एरावतेश्वर) at Darasuram. Early Chola **Korangnath** at Srinivasanallur belongs to **Parantaka I**.
+18. **Aihole** (ऐहोल) is the cradle of early Chalukya experiment. The **Lad Khan** temple stands there.
+19. **Badami** has four caves. **Pattadakal** (पट्टदकल) mixes Nagara and Dravida. Hoysala Belur, Halebidu, and Somnathpur use soapstone star plans in the **Vesara** hybrid.
+20. The **Sarnath** (सारनाथ) Ashokan capital has four lions. **Rampurva** has a bull and a lion. **Sankisa** has an elephant. **Vaishali** (वैशाली) has a single lion. The stone is **Chunar** (चुनार) with Mauryan polish.
+21. **Sanchi** has four **toranas** (तोरण). **Bharhut** is a Shunga railing campus. **Amaravati** (अमरावती) has ayaka platforms. **Dhamek** is at Sarnath. **Mahabodhi** (महाबोधि) is at Bodh Gaya.
 22. A **stupa** (स्तूप) is a solid relic mound. A **chaitya** (चैत्य) is a congregational prayer hall with an apse stupa. A **vihara** (विहार) is a monastic residence.
-23. **Karle** is the largest surviving chaitya. Ajanta chaitya caves are **9, 10, 19, and 26**. **Kanheri** holds more than **100** Buddhist caves on Mumbai’s western fringe.
-24. **Lomas Rishi** is a Barabar cave. **Ajanta** is Buddhist only.
-25. **Ellora** caves **1–12** are Buddhist, **13–29** are Hindu, and **30–34** are Jain. **Kailasa** is cave **16**, cut under **Krishna I** in Dravida rock-cut form.
-26. **Elephanta** is mainly **Shaiva**, with the Trimurti, under Rashtrakuta-age patronage. A smaller Buddhist group also exists.
-27. The Slave house begins **Qutub**. The Khilji house adds **Alai Darwaza**. Tughlaq walls use a sloping **batter**. Sharqi work is at **Jaunpur**. **Adina** mosque is at **Pandua**, not Mandu.
-28. Babur’s tomb is at **Kabul**. Humayun’s tomb is at **Delhi**. Akbar’s red stone city is **Fatehpur Sikri**. Jahangir’s tomb is at **Lahore**. **Itimad-ud-Daulah** is Nur Jahan’s marble tomb at Agra. Shah Jahan built the **Taj** and the **Red Fort**. Aurangzeb’s **Bibi ka Maqbara** is at Aurangabad.
-29. **Buland Darwaza** commemorates Akbar’s **Gujarat** victory. It is not a monument for Jahangir’s birth.
-30. Uttar Pradesh World Heritage cultural sites are the **Taj Mahal** (**1983**), **Agra Fort** (**1983**), **Fatehpur Sikri** (**1986**), and **Sarnath** (**2026**).
-31. Uttar Pradesh architecture also includes the Gupta brick temple at **Bhitargaon**, Gupta remains at **Garhwa** in Prayagraj, Sharqi monuments of **Jaunpur**, and the teerth of **Naimisharanya** at Sitapur.
+23. **Karle** (कार्ले) is the largest surviving chaitya. Ajanta chaitya caves are **9, 10, 19, and 26**. **Kanheri** (कन्हेरी) holds more than **100** Buddhist caves on Mumbai’s western fringe.
+24. **Lomas Rishi** (लोमश ऋषि) is a Barabar cave. **Ajanta** (अजंता) is Buddhist only.
+25. **Ellora** (एलोरा) caves **1–12** are Buddhist, **13–29** are Hindu, and **30–34** are Jain. **Kailasa** (कैलास) is cave **16**, cut under **Krishna I** in Dravida rock-cut form.
+26. **Elephanta** (एलिफेंटा) is mainly **Shaiva**, with the Trimurti, under Rashtrakuta-age patronage. A smaller Buddhist group also exists.
+27. The Slave house begins **Qutub**. The Khilji house adds **Alai Darwaza** (अलाई दरवाज़ा). Tughlaq walls use a sloping **batter**. Sharqi work is at **Jaunpur** (जौनपुर). **Adina** mosque is at **Pandua**, not Mandu.
+28. Babur’s tomb is at **Kabul**. Humayun’s tomb is at **Delhi**. Akbar’s red stone city is **Fatehpur Sikri**. Jahangir’s tomb is at **Lahore**. **Itimad-ud-Daulah** (इतिमाद-उद-दौला) is Nur Jahan’s marble tomb at Agra. Shah Jahan built the **Taj** and the **Red Fort**. Aurangzeb’s **Bibi ka Maqbara** (बीबी का मकबरा) is at Aurangabad.
+29. **Buland Darwaza** (बुलंद दरवाज़ा) commemorates Akbar’s **Gujarat** victory. It is not a monument for Jahangir’s birth.
+30. Uttar Pradesh World Heritage cultural sites are the **Taj Mahal** (ताज महल) (**1983**), **Agra Fort** (आगरा किला) (**1983**), **Fatehpur Sikri** (**1986**), and **Sarnath** (**2026**).
+31. Uttar Pradesh architecture also includes the Gupta brick temple at **Bhitargaon** (भीतरगाँव), Gupta remains at **Garhwa** in Prayagraj, Sharqi monuments of **Jaunpur**, and the teerth of **Naimisharanya** (नैमिषारण्य) at Sitapur.
 32. These are **not** in Uttar Pradesh: Qutub and Humayun’s tomb (Delhi), Khajuraho and Sanchi (Madhya Pradesh), Konark (Odisha), Ajanta, Ellora, and Elephanta (Maharashtra), and Mahabalipuram (Tamil Nadu).
 33. Indo-Islamic building uses the **true arch** and dome. Pre-Islamic temples often used **corbelled** courses instead.
 34. **Charbagh** (चारबाग़) is the Islamic four-part garden plan. **Panchayatana** (पंचायतन शैली) is the Hindu five-shrine plan with a central sanctum and four corner shrines.
-35. Gupta **Dashavatara** at **Deogarh** is a classic early panchayatana temple. Freestanding structural temples begin in the **Gupta** age.
-36. **Martand** Sun Temple of Lalitaditya in Kashmir belongs with Konark and Modhera as a sun temple. It is not a latina Nagara shrine of the Gangetic plain.
+35. Gupta **Dashavatara** (दशावतार) at **Deogarh** (देवगढ़) is a classic early panchayatana temple. Freestanding structural temples begin in the **Gupta** (गुप्त) age.
+36. **Martand** (मार्तंड) Sun Temple of Lalitaditya in Kashmir belongs with Konark and Modhera as a sun temple. It is not a latina Nagara shrine of the Gangetic plain.
 37. **Morena Chausath Yogini**, built by Kachchhapaghata **Devapala**, is a circular hypaethral temple. It is not the Khajuraho Chausath Yogini. Popular belief links its plan to the Indian Parliament building. It is not India’s only circular temple.
-38. **Palitana** Jain temples stand on **Shatrunjaya** hill near Bhavnagar in Gujarat. The main dedication is to **Adinatha**.
+38. **Palitana** (पालिताना) Jain temples stand on **Shatrunjaya** hill near Bhavnagar in Gujarat. The main dedication is to **Adinatha**.
 39. **Sonagiri** near **Datia** in Madhya Pradesh is a Digambar Jain hill of about **103** temples. Main shrine number 57 honours **Chandraprabhu**.
 40. The Jagannath triad at Puri — Jagannath, Balabhadra, and Subhadra — is of **neem wood**, renewed in the nabakalebara cycle.
 41. **Angkor Wat** in Cambodia was built by Khmer **Suryavarman II** for **Vishnu**. **Borobudur** on Java in Indonesia is a UNESCO Buddhist monument.
-42. **Virupaksha** at **Hampi** is a living Vijayanagara Shiva shrine. Do not confuse it with **Virupaksha** at **Pattadakal**.
+42. **Virupaksha** (विरूपाक्ष) at **Hampi** (हम्पी) is a living Vijayanagara Shiva shrine. Do not confuse it with **Virupaksha** at **Pattadakal**.
 43. **Teli ka Mandir** at Gwalior mixes a **Dravida-type** tower with northern ornament. Treat it as a fusion trap.
 44. Among Arasavalli, Amarkantak, and Omkareshwar, only **Arasavalli** in Andhra is the famous **Sun** temple. The other two are Shiva centres.
-45. **Ellora** is not Saka. **Meenakshi** is Nayaka Madurai, not Pallava. **Mahabalipuram** is Pallava, not Rashtrakuta. The **Besnagar Heliodorus** pillar is a **Vaishnava Garuda**, not a Shaiva cave.
-46. **Sittanavasal** is a **Jain** cave shrine of Pallava age. Ajanta is Buddhist. Full mural detail lives in the Painting chapter.
-47. The Madhya Pradesh World Heritage trio often tested together is **Khajuraho**, **Bhimbetka**, and **Sanchi**. **Mandu** is not a World Heritage Site.
+45. **Ellora** is not Saka. **Meenakshi** is Nayaka Madurai, not Pallava. **Mahabalipuram** (महाबलीपुरम) is Pallava, not Rashtrakuta. The **Besnagar Heliodorus** pillar is a **Vaishnava Garuda**, not a Shaiva cave.
+46. **Sittanavasal** (सित्तन्नवासल) is a **Jain** cave shrine of Pallava age. Ajanta is Buddhist. Full mural detail lives in the Painting chapter.
+47. The Madhya Pradesh World Heritage trio often tested together is **Khajuraho**, **Bhimbetka** (भीमबेटका), and **Sanchi**. **Mandu** (मांडू) is not a World Heritage Site.
 48. Ajanta’s other Gupta-age mural cousin is **Bagh** in Madhya Pradesh. Padmapani in Cave 1 is taught fully in Painting.
 49. Rashtrakuta courts also backed Jain scholars. **Amoghavarsha I** was a disciple of **Jinasena**, author of the *Adipurana*. That is context for Ellora’s Jain caves.
-50. The south-temple chronology is **Sapt Pagoda**, then **Shore Temple**, then **Brihadeeswara**, then **Gangaikonda Cholapuram**.
+50. The south-temple chronology is **Sapt Pagoda**, then **Shore Temple** (शोर मंदिर), then **Brihadeeswara**, then **Gangaikonda Cholapuram**.
 
 ---
 
@@ -109,39 +109,6 @@ Indian Temple Architecture | Nagara Style | Dravida Style | Vesara Style | Templ
 
 ---
 
-## Hindi spell — hard names
-
-Write these in Devanagari as given. One name, one spelling.
-
-| English | Hindi |
-|---------|-------|
-| Nagara | नागर |
-| Dravida | द्रविड़ |
-| Vesara | वेसर |
-| Shikhara | शिखर |
-| Vimana | विमान |
-| Gopuram | गोपुरम |
-| Garbhagriha | गर्भगृह |
-| Mandapa | मंडप |
-| Amalaka | आमलक |
-| Rekha deul | रेखा देउल |
-| Pidha deul | पीढ़ा देउल |
-| Konark | कोणार्क |
-| Khajuraho | खजुराहो |
-| Kandariya Mahadeva | कंदारिया महादेव |
-| Brihadeeswara | बृहदीश्वर |
-| Gangaikonda Cholapuram | गंगैकोंड चोलपुरम् |
-| Airavatesvara | ऐरावतेश्वर |
-| Pattadakal | पट्टदकल |
-| Chaitya | चैत्य |
-| Vihara | विहार |
-| Torana | तोरण |
-| Qutub Minar | कुतुब मीनार |
-| Buland Darwaza | बुलंद दरवाजा |
-| Charbagh | चारबाग |
-| Pietra dura | पिएत्रा ड्यूरा / परचिन कारी |
-
----
 
 ## Must-score drill — Nagara, Dravida, temples, pillars
 
@@ -218,12 +185,12 @@ Nagara temples belong to North India. The tower is a curvilinear **shikhara**. T
 
 - **Latina** is the simple curvilinear sanctum tower.
 - **Phamsana** is a stepped pyramidal roof, usually over the mandapa.
-- **Valabhi** is a barrel-roof form. **Teli ka Mandir** at Gwalior is the usual example.
+- **Valabhi** (वलभी) is a barrel-roof form. **Teli ka Mandir** at Gwalior is the usual example.
 - Odisha calls the sanctum tower a **rekha deul** (रेखा देउल).
 - Odisha calls the jagamohana hall a **pidha deul** (पीढ़ा देउल).
 - **Khakhara** is a rectangular Odisha roof. **Vaital Deul** at Bhubaneswar is the type example.
 - **Parasuramesvara** at Bhubaneswar is the earliest standing Odisha temple, about the 7th–8th century.
-- **Mukteshvara** follows it. Coaching notes call it a gem and point to its ornate *torana*.
+- **Mukteshvara** follows it. Coaching notes call it a gem and point to its ornate *torana* (तोरण).
 - **Rajarani** is the next named shrine in the Bhubaneswar sequence.
 - **Lingaraja** is an 11th-century pancharatha temple at Bhubaneswar. It is the tallest standing temple in that city, about **180** feet.
 - **Jagannath** at Puri comes next in the Odisha order.
@@ -242,7 +209,7 @@ Nagara temples belong to North India. The tower is a curvilinear **shikhara**. T
 - **Lalguan Mahadeva** is a smaller western shrine.
 - **Brahma** temple at Khajuraho is a named western-group shrine.
 - **Kandariya Mahadeva** is the largest Khajuraho temple. **Vidyadhara** built it in the 11th century.
-- **Parshvanatha** is an eastern Jain temple at Khajuraho.
+- **Parshvanatha** (पार्श्वनाथ) is an eastern Jain temple at Khajuraho.
 - **Adinatha** is another eastern Jain temple there.
 - **Ghantai** is the third named eastern Jain shrine.
 - **Duladeo** belongs to the southern group.
@@ -314,10 +281,10 @@ D. Bhimashankar
 Dravida temples belong to the Tamil country and the south. The tower is a pyramidal **vimana** over the sanctum. The gateway is a tall **gopuram**.
 
 - A Dravida campus sits inside an enclosure called a *prakara*, entered through gopurams.
-- Under the **Pandya** and later **Nayaka** rulers of Madurai, the outer gopurams become the dominant face and can dwarf the vimana.
+- Under the **Pandya** and later **Nayaka** (नायक) rulers of Madurai, the outer gopurams become the dominant face and can dwarf the vimana.
 - **Meenakshi** at Madurai has **12** gopurams. The southern tower is about **52** metres high.
 - Tradition links the original Meenakshi shrine with **Kulasekara Pandya**. The gopuram peak is **Nayaka**. This is not a Pallava foundation.
-- The vimana is storeyed. Each storey is a *tala*. The finial is a *kalasam*. *Kudu* arches look like horseshoes.
+- The vimana is storeyed. Each storey is a *tala* (ताल). The finial is a *kalasam*. *Kudu* arches look like horseshoes.
 - Pallava and Chola structural temples use **granite**. Later Nayaka gopurams often use brick and stucco.
 - **Rameshwaram** is known for the longest temple corridor in this style.
 - **Srivilliputhur** is known for one of the tallest gopurams.
@@ -359,14 +326,14 @@ Gupta temples are the first **structural** freestanding stone and brick temples 
 - Freestanding mortar-and-stone or brick temples are remembered as beginning in the **Gupta** age. They are not Mauryan rock-cut work.
 - Early Gupta shrines are flat-roofed. A simple shikhara then appears. **Panchayatana** also appears.
 - **Dashavatara** at **Deogarh** (Lalitpur region, Uttar Pradesh–Madhya Pradesh border) is a Vishnu temple. It is early Nagara and a classic panchayatana plan.
-- **Bhitargaon** in Kanpur Dehat, **Uttar Pradesh**, is a **brick** temple with terracotta panels. It is Gupta or late Gupta and among India’s oldest brick temples.
+- **Bhitargaon** in Kanpur Dehat, **Uttar Pradesh** (उत्तर प्रदेश), is a **brick** temple with terracotta panels. It is Gupta or late Gupta and among India’s oldest brick temples.
 - **Temple 17** at Sanchi is an early flat-roofed stone shrine.
 - **Tigawa** (Kankali Devi) in Madhya Pradesh is a Gupta shrine.
 - **Nachna-Kuthara** holds a Gupta Parvati temple.
 - **Bhumara** in Madhya Pradesh is a Gupta Shiva temple.
 - **Eran** in Madhya Pradesh holds Gupta Vishnu and Varaha remains.
-- **Garhwa** at Shankargarh in **Prayagraj**, Uttar Pradesh, holds Gupta temple-complex remains.
-- **Udayagiri** near Vidisha in Madhya Pradesh has Gupta cave-temples. The Varaha panel belongs to Chandragupta II.
+- **Garhwa** at Shankargarh in **Prayagraj** (प्रयागराज), Uttar Pradesh, holds Gupta temple-complex remains.
+- **Udayagiri** (उदयगिरि) near Vidisha in Madhya Pradesh has Gupta cave-temples. The Varaha panel belongs to Chandragupta II.
 
 > **Logic:** Gupta work begins the Hindu structural temple. Bhitargaon is the Uttar Pradesh brick example. Gupta rock-cut work is Udayagiri, not Ajanta. Ajanta’s Mahayana phase is Vakataka. Dashavatara is not at Khajuraho.
 
@@ -379,7 +346,7 @@ Gupta temples are the first **structural** freestanding stone and brick temples 
 **Kanchi | granite | Mahabalipuram and Kanchipuram**
 
 - Pallava temple work runs **Mahendra** rock-cut mandapas, then **Mamalla** monolith rathas, then **Rajasimha** structural temples, then **Nandivarman**.
-- **Mahendravarman I** left the Mandagapattu inscription. It records the first rock-cut shrine made without brick, timber, or metal.
+- **Mahendravarman I** (महेन्द्रवर्मन प्रथम) left the Mandagapattu inscription. It records the first rock-cut shrine made without brick, timber, or metal.
 - The **Pancha Rathas** belong to **Narasimhavarman I** (Mamalla). They are cut downward from one granite outcrop.
 - Colonial lists also call that ratha set the **Seven Rathas** or **Sapt Pagoda**.
 - **Dharmaraja ratha** is the largest. Its roof is pyramidal.
@@ -387,7 +354,7 @@ Gupta temples are the first **structural** freestanding stone and brick temples 
 - **Draupadi ratha** is hut-shaped and dedicated to Durga. It is the **smallest** of the set. Little ornament covers it. Lion or elephant-like sculptures sit around it.
 - The **Shore Temple** belongs to **Rajasimha**. It is structural, not rock-cut. It holds two Shiva shrines and a reclining Vishnu. UNESCO lists it with the Mahabalipuram monuments.
 - **Arjuna’s Penance**, also called Descent of the Ganga, is the huge open-air rock relief at Mamallapuram.
-- **Kailasanatha** at Kanchi is Rajasimha’s sandstone proto-Dravida temple. Tradition says Mahendravarman II completed work on it.
+- **Kailasanatha** (कैलासनाथ) at Kanchi is Rajasimha’s sandstone proto-Dravida temple. Tradition says Mahendravarman II completed work on it.
 
 ### Chola
 
@@ -473,13 +440,13 @@ A stupa is a solid relic mound. From bottom to top the parts are *medhi*, then *
 - The **pradakshina patha** is the walking path.
 - **Sanchi Stupa 1** has an Ashokan brick core. The **Shungas** enlarged it.
 - Four **toranas** at Sanchi belong to the Satavahana age. The **south torana is the oldest**.
-- Early Sanchi is **aniconic**. The Buddha appears as a lotus, footprints, or an empty throne. UNESCO listed Sanchi in **1989**. It is in **Madhya Pradesh**, not Uttar Pradesh.
+- Early Sanchi is **aniconic** (अप्रतिमेय). The Buddha appears as a lotus, footprints, or an empty throne. UNESCO listed Sanchi in **1989**. It is in **Madhya Pradesh**, not Uttar Pradesh.
 - **Bharhut** in Madhya Pradesh is a Shunga railing campus. Much of the railing is now in the **Indian Museum, Kolkata**.
 - **Dhamek** at **Sarnath** in Uttar Pradesh is Gupta brick-and-stone. It marks the first sermon. UNESCO listed the Sarnath serial in **2026**.
 - **Chaukhandi** at Sarnath is later commemorative. An octagonal Mughal tower sits on an ancient base.
 - **Mahabodhi** at Bodh Gaya is a brick tower over the enlightenment seat. UNESCO listed it in **2002**. It is not an ayaka-stupa.
 - **Amaravati** in Andhra has **ayaka platforms** with **five pillars** at the four cardinals. It is the type-site for that form.
-- **Nagarjunakonda** belongs to the same ayaka family.
+- **Nagarjunakonda** (नागार्जुनकोंडा) belongs to the same ayaka family.
 - **Ghantasala** belongs to the same ayaka family.
 - **Jaggayyapeta** belongs to the same ayaka family.
 - **Bodh Gaya has no ayaka pillars.**
@@ -513,12 +480,12 @@ A chaitya is an apsidal prayer hall. It has a nave and aisles, a stupa in the ap
 
 - A chaitya is not the free-standing stupa. The hall contains a stupa.
 - **Karle**, also called Karla, near Lonavala is the **largest** surviving Hinayana chaitya.
-- **Bhaja** is very early. Its vault imitates wooden ribs.
-- **Bedsa** is a western-ghat Hinayana chaitya.
+- **Bhaja** (भाजा) is very early. Its vault imitates wooden ribs.
+- **Bedsa** (बेडसा) is a western-ghat Hinayana chaitya.
 - **Kondane** is a western-ghat Hinayana chaitya.
 - **Pitalkhora** is a western-ghat Hinayana chaitya.
 - **Nashik Pandavleni**, also called Pondu Leni, holds chaitya and vihara caves of the western Deccan.
-- **Junnar** holds chaitya and vihara caves.
+- **Junnar** (जुन्नर) holds chaitya and vihara caves.
 - **Kanheri** is the largest cave complex in the Mumbai region. It has more than **100** Buddhist caves from about the first century BCE onward.
 - Ajanta chaityas are caves **9** and **10** in the early phase and caves **19** and **26** in the later phase.
 - Ellora cave **10**, called Vishvakarma, is a later rock-cut chaitya.
@@ -536,9 +503,9 @@ A vihara is a monastery. Cells stand around a courtyard or a central hall.
 - Nashik Pandavleni has viharas.
 - Kanheri has viharas.
 - Nagarjunakonda has monasteries of the ayaka belt.
-- **Nalanda** is a Gupta–Pala mahavihara. Bakhtiyar Khilji burnt it in **1193**.
-- **Vikramashila** is a Pala mahavihara founded by **Dharmapala**.
-- **Odantapuri** is a Pala mahavihara.
+- **Nalanda** (नालंदा) is a Gupta–Pala mahavihara. Bakhtiyar Khilji burnt it in **1193**.
+- **Vikramashila** (विक्रमशिला) is a Pala mahavihara founded by **Dharmapala** (धर्मपाल).
+- **Odantapuri** (उदंतपुरी) is a Pala mahavihara.
 - Sarnath has monastery remains beside Dhamek.
 - **Bagh** in Madhya Pradesh holds Buddhist viharas with murals related to Ajanta.
 
@@ -551,9 +518,9 @@ A vihara is a monastery. Cells stand around a courtyard or a central hall.
 Rock-cut architecture is carved from living rock. It is not assembled from dressed blocks.
 
 - Rock-cut is a **method**. The finished work may be a chaitya, a ratha, or a cave temple.
-- **Barabar** and **Nagarjuni** in Bihar are Mauryan. Patrons are **Ashoka** and **Dasharatha**. The users are **Ajivikas**. The polish is Mauryan.
+- **Barabar** (बराबर) and **Nagarjuni** in Bihar are Mauryan. Patrons are **Ashoka** and **Dasharatha**. The users are **Ajivikas** (आजीविक). The polish is Mauryan.
 - **Lomas Rishi** at Barabar has the earliest surviving chaitya-arch facade.
-- **Sudama** is another Barabar cave.
+- **Sudama** (सुदामा) is another Barabar cave.
 - **Karan Chaupar** is another Barabar cave.
 - **Visva Zopri**, also called Vishvakarma, completes the Barabar set.
 - The nearby **Nagarjuni** group belongs to Dasharatha. It holds Gopi, Vadithi-ka-kubha, and Vapiya-ka-kubha.
@@ -585,7 +552,7 @@ Cave architecture is numbered cave complexes of Buddhist, Hindu, and Jain use. U
 - Elephanta is celebrated for its monumental rock-cut **Trimurti** (or **Maheshamurti**), depicting the three aspects of Shiva: Aghora (Bhairava/fierce), Tatpurusha (serene), and Vamadeva (gentle/creative). It is Shaivite and distinct from Buddhist Ajanta and Ellora's monolithic Kailasa.
 - **Sittanavasal** in Tamil Nadu is a **Jain** cave shrine of Pallava age. Do not merge it with Ajanta’s Buddhist murals.
 - **Badami** has four Chalukya caves. Cave 3, a Vishnu cave of Mangalesha, is the largest. Badami is not India’s oldest rock-cut work. Barabar and the Bhimbetka horizon are earlier.
-- **Udayagiri** and **Khandagiri** near Bhubaneswar are Jain. The **Hathigumpha** inscription at Udayagiri belongs to **Kharavela**.
+- **Udayagiri** and **Khandagiri** (खंडगिरि) near Bhubaneswar are Jain. The **Hathigumpha** inscription at Udayagiri belongs to **Kharavela** (खारवेल).
 - **Rani Gumpha** there is double-storeyed.
 - **Ganesh Gumpha** is another named cave in that Odisha pair.
 - **Udayagiri** near Vidisha in Madhya Pradesh is Gupta. The Varaha panel belongs to Chandragupta II. It is not the Odisha Udayagiri.
@@ -614,7 +581,7 @@ D. Kanishka
 
 ## 3.13 Indo-Islamic Architecture
 
-Indo-Islamic architecture brings the true **arch**, the **dome**, the **minaret**, mortar, calligraphy, *jali*, and arabesque from the late-twelfth-century Sultanate.
+Indo-Islamic architecture brings the true **arch**, the **dome**, the **minaret**, mortar, calligraphy, *jali* (जाली), and arabesque from the late-twelfth-century Sultanate.
 
 - Pre-Islamic India usually used the **corbel**. **Alai Darwaza** is the textbook **true arch** and **true dome**.
 - A **squinch** is the early device that sets a dome on a square. A **pendentive** is the later curved-triangle device.
@@ -622,11 +589,11 @@ Indo-Islamic architecture brings the true **arch**, the **dome**, the **minaret*
 
 ### Qutub complex (Delhi — not Uttar Pradesh)
 
-Qutb-ud-din **Aibak** began the minar about **1193–99**. **Iltutmish** raised storeys **1–4**. **Firoz Shah Tughlaq** added the fifth storey and repairs. Height is about **72.5** m. UNESCO listed the complex in **1993**.
+Qutb-ud-din **Aibak** began the minar about **1193–99**. **Iltutmish** raised storeys **1–4**. **Firoz Shah Tughlaq** (फिरोज शाह तुगलक) added the fifth storey and repairs. Height is about **72.5** m. UNESCO listed the complex in **1993**.
 
 - The minar uses red sandstone with marble bands on the upper storeys. It has about **379** steps. Afghan *minars* such as Jam inspired it, but the result is an Indian synthesis.
-- **Quwwat-ul-Islam** mosque was begun by Aibak on debris of demolished temples.
-- The iron pillar in the courtyard is Gupta. It is linked with **Chandragupta II** / Mehrauli and resists rust.
+- **Quwwat-ul-Islam** (कुव्वत-उल-इस्लाम) mosque was begun by Aibak on debris of demolished temples.
+- The iron pillar in the courtyard is Gupta. It is linked with **Chandragupta II** (चंद्रगुप्त द्वितीय) / Mehrauli and resists rust.
 - **Alai Darwaza**, built by Alauddin Khilji in **1311**, is the first true dome of the complex.
 - The incomplete **Alai Minar** was meant to dwarf Qutub.
 - Iltutmish’s tomb stands in the same complex. Qutub is **Delhi**. Never park it in Uttar Pradesh.
@@ -636,7 +603,7 @@ Qutb-ud-din **Aibak** began the minar about **1193–99**. **Iltutmish** raised 
 **Slave / Mamluk**
 
 - **Quwwat-ul-Islam** is Aibak’s congregational mosque at the Qutub complex.
-- **Qutub Minar** was begun by Aibak and raised by Iltutmish.
+- **Qutub Minar** (कुतुब मीनार) was begun by Aibak and raised by Iltutmish.
 - **Adhai Din Ka Jhopra** at Ajmer is Aibak’s mosque on a Sanskrit college site.
 - **Sultan Garhi** is Iltutmish’s tomb. It is remembered as the first Islamic mausoleum in India.
 - **Balban’s tomb** and the **Red Palace (Lal Mahal)** belong to the later Slave house.
@@ -651,7 +618,7 @@ Qutb-ud-din **Aibak** began the minar about **1193–99**. **Iltutmish** raised 
 
 **Tughlaq**
 
-- **Tughlaqabad** was built by Ghiyasuddin.
+- **Tughlaqabad** (तुगलकाबाद) was built by Ghiyasuddin.
 - Ghiyasuddin’s tomb uses battered walls.
 - **Firoz Shah Kotla** is Firoz’s Delhi citadel.
 - **Khirki** mosque uses a cross-vault.
@@ -665,7 +632,7 @@ Qutb-ud-din **Aibak** began the minar about **1193–99**. **Iltutmish** raised 
 
 ### Provincial Sultanate
 
-- **Atala Masjid** at Jaunpur was built about **1408** by **Ibrahim Shah Sharqi**. It is in **Uttar Pradesh**.
+- **Atala Masjid** (अटाला मस्जिद) at Jaunpur was built about **1408** by **Ibrahim Shah Sharqi**. It is in **Uttar Pradesh**.
 - **Lal Darwaza** and the Jama Masjid at Jaunpur use tall *propylon* screens. They do not use Delhi-type minarets.
 - **Mandu** holds the Jami Masjid, Hindola Mahal, and Jahaz Mahal. Adina is not at Mandu.
 - **Adina Masjid** is at **Pandua** in Bengal. Sikandar Shah built it.
@@ -674,8 +641,8 @@ Qutb-ud-din **Aibak** began the minar about **1193–99**. **Iltutmish** raised 
 - **Tin Darwaza** is at Ahmedabad.
 - **Sidi Saiyyed** jali at Ahmedabad uses the palm motif.
 - **Champaner–Pavagadh** in Gujarat is a UNESCO provincial campus.
-- **Gol Gumbaz** at Bijapur is the tomb of **Muhammad Adil Shah**. It has a whispering gallery.
-- **Charminar** at Hyderabad was built by **Muhammad Quli Qutb Shah** in **1591**.
+- **Gol Gumbaz** (गोल गुम्बद) at Bijapur is the tomb of **Muhammad Adil Shah**. It has a whispering gallery.
+- **Charminar** (चारमीनार) at Hyderabad was built by **Muhammad Quli Qutb Shah** in **1591**.
 
 ### Sher Shah Suri
 
@@ -735,44 +702,44 @@ D. Tin Darwaza – Ahmedabad
 
 ## 3.14 Mughal Architecture
 
-Mughal architecture is the charbagh garden-tomb, the shift from red sandstone to marble, *pietra dura*, the **double dome**, *chhatri*, *jharokha*, and the *hasht-bihisht* eight-paradise plan.
+Mughal architecture is the charbagh garden-tomb, the shift from red sandstone to marble, *pietra dura* (पिएत्रा ड्यूरा), the **double dome**, *chhatri*, *jharokha*, and the *hasht-bihisht* eight-paradise plan.
 
 ### By emperor
 
-**Babur**
+**Babur** (बाबर)
 
 - Babur laid **charbagh** gardens in India.
 - **Ram Bagh**, also called Aram Bagh, at Agra is his garden type.
 - **Kabuli Bagh** mosque stands at Panipat.
 - Babur’s tomb is at **Kabul**, not at Delhi.
 
-**Humayun**
+**Humayun** (हुमायूँ)
 
 - Humayun’s tomb stands at **Delhi** near Nizamuddin.
 - **Bega Begum**, also called Haji Begum, commissioned it. The architect was **Mirak Mirza Ghiyas**.
 - Work runs about **1565–72**. It is the first major Indian garden tomb. UNESCO listed it in **1993**. It is the prototype of the Taj.
 
-**Akbar**
+**Akbar** (अकबर)
 
 - **Agra Fort** is Akbar’s red-sandstone circuit. Jahangiri Mahal and Akbari Mahal sit inside it.
 - **Fatehpur Sikri** was the capital about **1571–85**.
 - **Allahabad Fort** is also Akbar’s.
 - The tomb at **Sikandra** was started by Akbar and finished by Jahangir.
 
-**Jahangir**
+**Jahangir** (जहाँगीर)
 
 - Jahangir’s own tomb is at **Shahdara, Lahore**.
-- **Itimad-ud-Daulah** at Agra was built by **Nur Jahan**. It is the first major **white marble** tomb with **pietra dura**. Coaching notes call it the Baby Taj.
+- **Itimad-ud-Daulah** at Agra was built by **Nur Jahan** (नूरजहाँ). It is the first major **white marble** tomb with **pietra dura**. Coaching notes call it the Baby Taj.
 - The Moti Masjid at Agra Fort is **Shah Jahan’s**, not Jahangir’s.
 
-**Shah Jahan**
+**Shah Jahan** (शाहजहाँ)
 
 - The **Taj Mahal** stands at Agra.
 - The **Red Fort** at Delhi was built in **1639–48**.
-- **Jama Masjid** at Delhi is Shah Jahan’s Friday mosque.
-- **Moti Masjid** inside Agra Fort is his white-marble private mosque.
+- **Jama Masjid** (जामा मस्जिद) at Delhi is Shah Jahan’s Friday mosque.
+- **Moti Masjid** (मोती मस्जिद) inside Agra Fort is his white-marble private mosque.
 
-**Aurangzeb**
+**Aurangzeb** (औरंगजेब)
 
 - **Bibi ka Maqbara**, the tomb of Rabia Daurani at Aurangabad about **1660**, is called the poor man’s Taj.
 - Aurangzeb’s **Moti Masjid** sits inside Delhi’s Red Fort.
@@ -784,12 +751,12 @@ Mughal architecture is the charbagh garden-tomb, the shift from red sandstone to
 
 - **Buland Darwaza** commemorates the **Gujarat victory of 1573**. It does not mark the birth of Salim / Jahangir. Jahangir was born in **1569**.
 - The Jama Masjid of Sikri holds the white-marble **dargah of Salim Chishti** in its courtyard.
-- **Panch Mahal** is a five-storey open pavilion.
-- The **Diwan-i-Khas** has a central **throne pillar**.
-- The **Diwan-i-Aam** is the public audience hall.
+- **Panch Mahal** (पंच महल) is a five-storey open pavilion.
+- The **Diwan-i-Khas** (दीवान-ए-खास) has a central **throne pillar**.
+- The **Diwan-i-Aam** (दीवान-ए-आम) is the public audience hall.
 - Jodha Bai’s palace and Birbal’s house stand in the residential zone.
 - **Anup Talao** is the ornamental tank.
-- The **Ibadat Khana** was Akbar’s hall of religious debate.
+- The **Ibadat Khana** (इबादत खाना) was Akbar’s hall of religious debate.
 
 ### Taj Mahal (Agra, Uttar Pradesh)
 
@@ -812,7 +779,7 @@ Mughal architecture is the charbagh garden-tomb, the shift from red sandstone to
 - Babur is buried at **Kabul**.
 - Humayun is buried at **Delhi**.
 - Jahangir is buried at **Lahore**.
-- Shah Jahan is buried at **Agra**.
+- Shah Jahan is buried at **Agra** (आगरा).
 
 ### Monument chronology
 
@@ -902,9 +869,9 @@ D. III, IV, II, I
 **Span:** Indus cities → Maurya → post-Maurya Buddhist work → Gupta temple
 
 - Indus cities used a grid, baked brick, and covered drains. They had no true arch.
-- The **Great Bath** is at **Mohenjo-daro**.
-- The dock is at **Lothal**.
-- The reservoirs are at **Dholavira**, listed by UNESCO in **2021**.
+- The **Great Bath** is at **Mohenjo-daro** (मोहनजोदड़ो).
+- The dock is at **Lothal** (लोथल).
+- The reservoirs are at **Dholavira** (धोलावीरा), listed by UNESCO in **2021**.
 - Mauryan pillars use **Chunar** sandstone, Mauryan polish, and a Persepolitan bell capital.
 - The **Sarnath** capital has four addorsed lions and a dharmachakra abacus with bull, horse, elephant, and lion. It became the **National Emblem in 1950**.
 - A separate four-lion capital stands at **Sanchi**, apart from the stupa.
@@ -916,7 +883,7 @@ D. III, IV, II, I
 - The **Prayagraj** pillar originally stood at Kaushambi. Later inscriptions of Samudragupta and Jahangir sit on it.
 - **Barabar** caves are Mauryan Ajivika chambers. **Lomas Rishi** has the famous facade.
 - Megasthenes compared the wooden palace at Pataliputra with Persepolis.
-- The life-sized **Didarganj Yakshi** (Chauri-bearer) found near Patna showcases the pinnacle of Mauryan polish on sandstone, serving as an iconic benchmark of Mauryan court sculpture.
+- The life-sized **Didarganj Yakshi** (दीदारगंज यक्षी) (Chauri-bearer) found near Patna showcases the pinnacle of Mauryan polish on sandstone, serving as an iconic benchmark of Mauryan court sculpture.
 - Post-Maurya Buddhist work includes the Sanchi and Bharhut stupas and the Western Ghat chaitya–vihara caves.
 - Gupta builders raise the first Hindu **structural** temple. **Dhamek** at Sarnath belongs to this age.
 - The **Heliodorus Garuda** pillar at Besnagar / Vidisha is **Vaishnava / Bhagavata**. It is not a Shaiva cave shrine.

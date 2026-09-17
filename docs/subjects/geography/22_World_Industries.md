@@ -5,7 +5,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Location factors | Industrial regions | City–industry pairs | Ports / entrepôts | Canals & trade routes (Suez, Panama, Kiel) | World local winds (Lucent chapter bundle)
+Location factors | Industrial regions | City–industry pairs | Ports / entrepôts | Canals & trade (पण्याध्यक्ष) routes (Suez, Panama, Kiel) | World local winds (Lucent chapter bundle)
 
 </details>
 
@@ -30,21 +30,21 @@ None mandatory.
 2. **Igarka** is in **Russia** (Yenisei timber), not China. **Rotterdam** is in the **Netherlands**. **Montevideo** is Uruguay. **Jakarta** is Indonesia.
 3. The **Suez Canal** joins the **Mediterranean** and **Red Sea** and cut India–Europe distance by about **7000 km**. Lakes north to south: **Manzala → Timsah → Great Bitter → Little Bitter**.
 4. **Panama** joins Atlantic/Caribbean and Pacific **with facts**. **Kiel** joins the North Sea and Baltic. Suez is sea-level with **no facts**.
-5. **Chinook** is a warm dry wind of the Rockies. **Foehn** is the Alps equivalent. Both can be true together.
-6. **Mistral** is southern France, **not** Australia. **Shamal** is Arabia, **not** Austria. **Brickfielder** = Australia.
+5. **Chinook** (चिनूक) is a warm dry wind of the Rockies. **Foehn** is the Alps equivalent. Both can be true together.
+6. **Mistral** is southern France, **not** Australia. **Shamal** is Arabia, **not** Austria. **Brickfielder** (ब्रिकफील्डर) = Australia.
 7. **Ruhr** = Germany heavy industry. **Lancashire** = cotton. **Yorkshire** = wool. **Pittsburgh–Great Lakes** = steel. **Detroit** = autos.
 8. Japan belts: **Keihin** = Tokyo–Yokohama; **Hanshin** = Osaka–Kobe; **Chukyo** = Nagoya autos. Nicknames: Osaka = Manchester of Japan; Nagoya = Detroit of Japan; Kawasaki = Pittsburgh of Japan; Ivanovo = Russian Manchester.
-9. **Footloose** industry example = electronics. **Aluminium** seeks cheap hydel. **Steel** seeks ore and coking coal (weight-losing near raw material).
-10. **Entrepôt** classics = Singapore, Rotterdam, Hong Kong. **Duisburg** is an inland Rhine port, not a Dutch sea mouth.
-11. More wind pairs: **Santa Ana** = California; **Haboob** = Sudan; **Yamo** = Japan; **Leveche** = Spain; **Bora** = Adriatic cold; **Harmattan** = West Africa; **Sirocco** = Sahara→Med; **Khamsin** = Egypt.
-12. A **willy-willy** is a cyclone name, not a local wind. **Akron** = tyres. **Toulouse** = Airbus.
+9. **Footloose** industry example = electronics. **Aluminium** seeks cheap hydel. **Steel** seeks ore and coking coal (weight-losing near raw (रॉ) material).
+10. **Entrepôt** classics = Singapore, Rotterdam, Hong Kong. **Duisburg** is an inland Rhine port (बंदरगाह), not a Dutch sea mouth.
+11. More wind pairs: **Santa Ana** = California; **Haboob** = Sudan; **Yamo** = Japan; **Leveche** = Spain; **Bora** (बोरा) = Adriatic cold; **Harmattan** (हरमट्टन) = West Africa; **Sirocco** = Sahara→Med; **Khamsin** (खामसिन) = Egypt (मिस्र).
+12. A **willy-willy** (विली-विली) is a cyclone name, not a local wind. **Akron** = tyres. **Toulouse** = Airbus.
 13. **Silicon Valley** (California) = electronics / IT — not Detroit.
 14. Shipbuilding volume leaders are **China–South Korea–Japan**. St Petersburg remains the classic European city.
 15. Weight-losing industries sit near raw material; bottling and market-oriented industries sit near consumers. Oil refining often seeks the port or pipeline end.
 16. Italy’s industrial triangle is the **Po Basin / Milan–Turin–Genoa** belt.
 17. Port Said is at the **north** end of Suez; Suez town is at the **south**. Panama uses facts and **Gatun Lake**.
 18. Break-of-bulk points concentrate at ports. Textiles often seek labour and market; steel is the classic weight-losing case.
-19. Pearl River Delta is China’s classic coastal manufacturing belt in this chapter’s map diet.
+19. Pearl River Delta (डेल्टा) is China’s classic coastal manufacturing belt in this chapter’s map diet.
 20. Shanghai leads container volume among common port MCQs; Rotterdam sits at the Rhine mouth.
 
 ---
@@ -161,7 +161,7 @@ Teach the **full map**. Next year can ask any Lucent city, port, or wind, not on
 
 **Least-cost idea**
 
-- Factory sits where assembly + processing + distribution cost is lowest.
+- Factory (फैक्टरी) sits where assembly + processing + distribution cost is lowest.
 - **Weight-losing** raw material (iron ore, sugarcane, timber) pulls the mill **near the source**.
 - **Weight-gaining** industries (bottling, brewing) sit near the **market**.
 - **Ubiquitous** inputs (air, water) do not pull the plant; **localised** minerals do.
@@ -170,7 +170,7 @@ Teach the **full map**. Next year can ask any Lucent city, port, or wind, not on
 
 | Factor | Industry |
 |--------|----------|
-| Ore + coking coal | Iron and steel (Ruhr, Pittsburgh, Damodar) |
+| Ore + coking coal | Iron and steel (Ruhr, Pittsburgh, Damodar (दामोदर)) |
 | Sugarcane / timber | Sugar mill, sawmill — bulky, perishable |
 | Limestone | Cement — bulky |
 | Cheap **hydel** | **Aluminium**, electro-chemicals |
@@ -186,9 +186,9 @@ Teach the **full map**. Next year can ask any Lucent city, port, or wind, not on
 | Industry | Typical location |
 |----------|------------------|
 | Iron–steel | Coalfield **or** ore **or** lake/port mixing both (Mesabi ore + Appalachian coal → Pittsburgh–Great Lakes) |
-| Cotton textile | Humid labour districts (Lancashire, Osaka, Mumbai–Ahmedabad) |
+| Cotton textile | Humid labour districts (Lancashire, Osaka, Mumbai–Ahmedabad (अहमदाबाद)) |
 | Wool | Sheep hinterland + mill town (Yorkshire) |
-| Shipbuilding | Deep estuary (Glasgow, St. Petersburg, Yokohama, Busan, Belfast) |
+| Shipbuilding | Deep estuary (ज्वारनदमुख) (Glasgow, St. Petersburg, Yokohama, Busan, Belfast) |
 | Automobiles | Market + parts cluster (Detroit, Nagoya, Wolfsburg, Turin) |
 | Oil refining | Port / pipeline end (Rotterdam, Houston, Abadan, Jamnagar) |
 | Aircraft | Tech + large airfield (Seattle Boeing; **Toulouse** Airbus) |
@@ -272,9 +272,9 @@ Teach the **full map**. Next year can ask any Lucent city, port, or wind, not on
 | Buenos Aires | Argentina |
 | Witwatersrand | South Africa — gold + industry |
 | SE Australia | Sydney–Melbourne |
-| Mumbai–Pune | India — cotton, engineering |
+| Mumbai–Pune (पुणे) | India — cotton, engineering |
 | Hugli | India — jute, engineering |
-| Chotanagpur | India — minerals, steel |
+| Chotanagpur (छोटानागपुर) | India — minerals, steel |
 
 ---
 
@@ -358,7 +358,7 @@ D. A-3, B-4, C-1, D-2
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Osaka cotton, Detroit auto, Cuba cigar, St. Petersburg ships.
+**Ans: D** — Osaka cotton, Detroit auto, Cuba cigar, St. Petersburg ships (नावाध्यक्ष).
 
 </details>
 
@@ -511,7 +511,7 @@ D. Jakarta — Indonesia
 | Corinth | Ionian ↔ Aegean | Greece; ship canal |
 | Soo (Sault Ste. Marie) | Lake Superior ↔ Huron | USA–Canada |
 | Welland | Erie ↔ Ontario | Bypasses Niagara |
-| St Lawrence Seaway | Great Lakes ↔ Atlantic | USA–Canada |
+| St Lawrence (लॉरेंस) Seaway | Great Lakes ↔ Atlantic | USA–Canada |
 | Rhine–Main–Danube | North Sea ↔ Black Sea inland | Europe |
 | Volga–Don | Caspian system ↔ Black Sea | Russia |
 
@@ -521,7 +521,7 @@ D. Jakarta — Indonesia
 |---------|-------|
 | Malacca | Indian Ocean ↔ South China Sea (Singapore) |
 | Sunda / Lombok | Alternate Indonesia routes |
-| Hormuz | Persian Gulf oil |
+| Hormuz | Persian (फ़ारसी) Gulf oil |
 | Bab el-Mandeb | Red Sea ↔ Gulf of Aden |
 | Gibraltar | Med ↔ Atlantic |
 | Bosporus / Dardanelles | Black Sea ↔ Med |
@@ -631,7 +631,7 @@ The **Berg** wind is the South African member.
 
 The **Santa Ana** is the California member.
 
-New Zealand’s Canterbury **Nor’wester** is foehn-type. It is not India’s Kal Baisakhi.
+New Zealand’s Canterbury **Nor’wester** is foehn-type. It is not India’s Kal Baisakhi (बैसाखी).
 
 **Cold winds**
 
@@ -671,7 +671,7 @@ The **Black roller** is a dusty plains wind of North America.
 
 The **Karaburan** is Central Asia.
 
-The **Loo** is the hot, dry summer wind of the north-Indian plains.
+The **Loo** (लू) is the hot, dry summer wind of the north-Indian plains.
 
 The **Kal Baisakhi** (Nor’westers) is the violent pre-monsoon thunderstorm wind of eastern India and Bangladesh.
 
@@ -685,7 +685,7 @@ The **Yamo** is Japanese.
 
 The **Cape Doctor** is Cape Town.
 
-The **Elephanta** is the Malabar September wind.
+The **Elephanta** (एलिफेंटा) is the Malabar September wind.
 
 The **Williwaw** is an Alaskan / Magellan squall.
 

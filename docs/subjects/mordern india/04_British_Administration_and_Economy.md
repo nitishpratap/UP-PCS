@@ -4,7 +4,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Administrative System of British India | Local Administration | Cornwallis Code and the Judiciary | Police and the Thana System | Indian Civil Service (Haileybury to Open Competition) | British Economic Policy | Impact of British Rule on Indian Economy | British Land Revenue Systems | Permanent Settlement | Ryotwari System | Mahalwari System | Drain of Wealth Theory | Commercialization of Agriculture | Plantation Economy (Indigo, Tea) | Deindustrialization | Monetisation and Currency | Dual Economy Critiques | Railways and the Guarantee System | Managing Agency System | Telegraph | Postal System | Famine Policy and Famine Codes | Foreign Trade and Commerce
+Administrative System of British India | Local Administration | Cornwallis (कॉर्नवालिस) Code and the Judiciary | Police and the Thana System | Indian Civil Service (Haileybury to Open Competition) | British Economic Policy | Impact of British Rule on Indian Economy | British Land Revenue Systems | Permanent Settlement (स्थायी बंदोबस्त) | Ryotwari (रैयतवाड़ी) System | Mahalwari (महलवाड़ी) System | Drain of Wealth (धन निष्कासन) Theory | Commercialization of Agriculture | Plantation Economy (Indigo (नील), Tea) | Deindustrialization (विऔद्योगीकरण) | Monetisation and Currency | Dual Economy (द्वैत अर्थव्यवस्था) Critiques | Railways and the Guarantee System (गारंटी प्रणाली) | Managing Agency System (प्रबंध अभिकरण प्रणाली) | Telegraph | Postal System | Famine Policy and Famine Codes | Foreign Trade (पण्याध्यक्ष) and Commerce
 
 </details>
 
@@ -12,34 +12,34 @@ Administrative System of British India | Local Administration | Cornwallis Code 
 > **Weight:** ★★★ — land-revenue matching, Drain book year, Cornwallis/Munro/Mackenzie, judiciary/police ladder, ICS dates, railway guarantee, famine years, infrastructure dates
 > **Last verified:** September 2026 gap audit — land CCR compare; monetisation / dual-economy critiques; commerce expand; Extra Drill gaps flagged (no invented mega banks)
 > **Current Affairs:** N/A (historical)
-> **Ownership:** Full land-revenue compare, Drain, deindustrialisation, railways, famine commissions and dual-economy critiques live here. GG/Viceroy tags, constitutional Acts, Vernacular Press / Arms / Ilbert / Ripon local self-gov as ruler reforms stay in the Governors-General & Viceroys chapter.
+> **Ownership:** Full land-revenue compare, Drain, deindustrialisation, railways, famine commissions and dual-economy critiques live here. GG/Viceroy (वायसराय) tags, constitutional Acts, Vernacular Press / Arms / Ilbert / Ripon (रिपन) local self-gov as ruler reforms stay in the Governors-General & Viceroys chapter.
 
 ---
 
 ## Consolidated — 33 Must-Score Facts
 
-1. Colonial economic policy moved through three phases: **mercantilism (Plassey–1813)**, **one-way free trade (1813–1858)**, and **finance capital / Drain (1858 onward)** [धन की निकासी / बहिर्गमन] with railway guarantees and Home Charges (गृह प्रभार).
-2. The **Permanent Settlement (1793)** [स्थायी बंदोबस्त / ज़मींदारी प्रथा] under **Cornwallis** (planned with **John Shore**) made the **zamindar** (ज़मींदार) proprietor in **Bengal, Bihar, Orissa and Varanasi**. Also called **Istamrari / Jagirdari** (इस्तमरारी / जागीरदारी). About **19%** of British India. Share: **10/11** to Company, **1/11** to Zamindar.
-3. **Ryotwari** (रैयतवाड़ी बंदोबस्त, ~**51%**) settled revenue with the **ryot** (रैयत / किसान) in **Madras, Bombay, Assam & Coorg** (**Munro and Read** first tested in **Baramahal**).
-4. **Mahalwari** (महालवाड़ी बंदोबस्त, ~**30%**, **1822**) under **Holt Mackenzie** settled with the **village / mahal** (महाल / ग्राम) in UP / NWP, Central Provinces and Punjab. **William Bentinck** heavily expanded it.
+1. Colonial economic policy moved through three phases: **mercantilism (Plassey (प्लासी)–1813)**, **one-way free trade (1813–1858)**, and **finance capital / Drain (1858 onward)** [धन की निकासी / बहिर्गमन] with railway guarantees and Home Charges (गृह प्रभार).
+2. The **Permanent Settlement (1793)** [स्थायी बंदोबस्त / ज़मींदारी प्रथा] under **Cornwallis** (planned with **John Shore**) made the **zamindar** (ज़मींदार) proprietor in **Bengal, Bihar, Orissa and Varanasi (वाराणसी)**. Also called **Istamrari / Jagirdari** (इस्तमरारी / जागीरदारी). About **19%** of British India. Share: **10/11** to Company (कंपनी), **1/11** to Zamindar.
+3. **Ryotwari** (रैयतवाड़ी बंदोबस्त, ~**51%**) settled revenue with the **ryot** (रैयत / किसान) in **Madras, Bombay, Assam & Coorg** (**Munro (मुनरो) and Read** first tested in **Baramahal**).
+4. **Mahalwari** (महालवाड़ी बंदोबस्त, ~**30%**, **1822**) under **Holt Mackenzie (मैकेंज़ी)** settled with the **village / mahal** (महाल / ग्राम) in UP / NWP, Central Provinces and Punjab. **William Bentinck (बेंटिंक)** heavily expanded it.
 5. Different land systems in different regions created different classes of Indian peasantry — a standard A/R fact.
-6. The **Cornwallis Code (1793)** [कॉर्नवालिस कोड] built the civil ladder: **Munsiff → Registrar → District (Diwani) Judge → Provincial Courts of Appeal → Sadar Diwani Adalat** (सदर दीवानी अदालत). The same District Judge sat as Magistrate; criminal appeals rose to **Sadar Nizamat Adalat** (सदर निज़ामत अदालत).
+6. The **Cornwallis Code (1793)** [कॉर्नवालिस कोड] built the civil ladder: **Munsiff → Registrar → District (Diwani (दीवानी)) Judge (ज़िला न्यायाधीश) → Provincial Courts of Appeal → Sadar Diwani Adalat** (सदर दीवानी अदालत). The same District Judge sat as Magistrate; criminal appeals rose to **Sadar Nizamat (निज़ामत) Adalat** (सदर निज़ामत अदालत).
 7. In **1793**, the zamindar’s police role was abolished. The **thana–daroga** (थाना - दरोगा प्रणाली) system was placed under the **District Magistrate**.
-8. **Haileybury College (1806)** trained Company nominees in England. The **Charter Act, 1853** opened competition; the **Macaulay Committee (1854)** followed. First Indian ICS was **Satyendranath Tagore (1863)**.
-9. **Simultaneous ICS exams in India** began in **1922** (Allahabad/London) under Montford reforms. The **Lee Commission (1924)** led to the **Public Service Commission (1926)**.
-10. **Fort William College (1800)** was Wellesley’s Calcutta language college for civil servants. Do **not** confuse it with Haileybury.
-11. **Dadabhai Naoroji** published *Poverty and Un-British Rule in India* in **1901** (not 1900). He called Drain the **“evil of all evils”** [धन का बहिर्गमन सिद्धांत / Drain of Wealth]. First Indian in the British Commons (**1892**, Liberal). 
-12. **Sir Syed Ahmad Khan** explicitly rejected the Drain Theory. INC accepted it at the **Calcutta Session 1896**. **Drain** ≠ **deindustrialization** (विऔद्योगीकरण).
-13. **R.C. Dutt** wrote the *Economic History of India* (often asked opposite Naoroji as the other classic Drain critic).
+8. **Haileybury College (हेलीबरी) (1806)** trained Company nominees in England. The **Charter Act, 1853** opened competition; the **Macaulay Committee (1854)** followed. First Indian ICS was **Satyendranath Tagore (1863)**.
+9. **Simultaneous ICS exams in India** began in **1922** (Allahabad (इलाहाबाद)/London) under Montford reforms. The **Lee Commission (1924)** led to the **Public Service Commission (1926)**.
+10. **Fort William College (फोर्ट विलियम) (1800)** was Wellesley (वेलेज़ली)’s Calcutta language college for civil servants. Do **not** confuse it with Haileybury.
+11. **Dadabhai Naoroji (नौरोजी)** published *Poverty and Un-British Rule (अन-ब्रिटिश शासन) in India* in **1901** (not 1900). He called Drain the **“evil of all evils”** [धन का बहिर्गमन सिद्धांत / Drain of Wealth]. First Indian in the British Commons (**1892**, Liberal). 
+12. **Sir Syed Ahmad Khan** (सर सैयद) explicitly rejected the Drain Theory (ड्रेन). INC accepted it at the **Calcutta Session (पंगु सत्र) 1896**. **Drain** ≠ **deindustrialization** (विऔद्योगीकरण).
+13. **R.C. Dutt** wrote the *Economic History (इतिहास) of India* (often asked opposite Naoroji as the other classic Drain critic).
 14. The railway **Guarantee System** promised a **5%** minimum return on British capital from Indian revenues (renegotiated **1869**). The **Managing Agency System** (प्रबंध अभिकरण प्रणाली) let British firms run Indian industries on largely Indian-raised capital for high fees.
-15. First passenger railway: **Bombay–Thane, 1853** (Dalhousie). Telegraph experiment: **1851** (O’Shaughnessy). Company post starts **1774** (Hastings); uniform penny postage **1854** (Dalhousie).
-16. **Industry firsts:** First successful Cotton Mill = **Bombay 1854 (C.N. Dawar)**. First Jute Mill = **Rishra 1855** (George Acland). **TISCO** = Jamshedpur 1907 (J.N. Tata).
-17. Indigo had **nij** (निज - planter’s own land) and **ryoti** (रैयती - peasant’s land via forced cash advance / **dadan** [दादनी प्रथा]). Tea plantations expanded in **Assam from 1839**.
-18. **Famine chronology:** 1770 Bengal; 1866 Orissa (under Lawrence); 1876–78 Great Famine (under Lytton); 1899–1900 famine (Curzon); 1943 Bengal (Linlithgow).
+15. First passenger railway: **Bombay–Thane, 1853** (Dalhousie (डलहौज़ी)). Telegraph experiment: **1851** (O’Shaughnessy). Company post starts **1774** (Hastings (हेस्टिंग्स)); uniform penny postage **1854** (Dalhousie).
+16. **Industry firsts:** First successful Cotton Mill = **Bombay 1854 (C.N. Dawar)**. First Jute Mill = **Rishra 1855** (George Acland). **TISCO** = Jamshedpur 1907 (J.N. Tata (तत)).
+17. Indigo had **nij** (निज - planter’s own land) and **ryoti** (रैयती - peasant’s land via forced cash advance / **dadan** (दादनी प्रथा) [दादनी प्रथा]). Tea plantations expanded in **Assam from 1839**.
+18. **Famine chronology:** 1770 Bengal; 1866 Orissa (under Lawrence (लॉरेंस)); 1876–78 Great Famine (under Lytton (लिटन)); 1899–1900 famine (Curzon (कर्ज़न)); 1943 Bengal (Linlithgow (लिनलिथगो)).
 19. **Famine Commissions:** Campbell (1866), Strachey (1880, produced Famine Codes 1883), Lyall (1897), MacDonnell (1900), Woodhead (1945). Match them accurately.
 20. First **Municipal Corporation** was at **Madras, 1688** (not Calcutta). 
-21. Local Admin chain: **Mayo 1870** (financial decentralisation) → **Ripon 1882** (Father of local self-government, local boards) → **1919 dyarchy** (real provincial transfer of local bodies).
-22. **Charter Act 1833** only proposed open ICS competition. Actual opening came with **Charter Act 1853** — a classic swap trap.
+21. Local Admin chain: **Mayo (मेयो) 1870** (मेयो) (financial decentralisation) → **Ripon 1882** (रिपन) (Father of local self-government, local boards) → **1919 dyarchy (द्वैध शासन)** (real provincial transfer of local bodies).
+22. **Charter Act 1833** (चार्टर 1833) only proposed open ICS competition. Actual opening came with **Charter Act 1853** (चार्टर 1853) — a classic swap trap.
 23. Free-trade after **1813** meant Manchester cloth entered freely while Indian crafts stayed unprotected. “Free trade” freed British goods, not Indian industry.
 24. **Home Charges** = India Office, pensions, debt interest, store purchases in England — **not** costs of wars fought outside India.
 25. **Imperial Preference** = special tariff concessions for British imports in India.
@@ -47,7 +47,7 @@ Administrative System of British India | Local Administration | Cornwallis Code 
 27. **Deindustrialization** meant Indian weavers/artisans lost home markets to British machine goods, pushing them into overcrowded agriculture. Bentinck noted that "the bones of the cotton weavers are bleaching the plains of India".
 28. In the Cornwallis judiciary, the **Munsiff’s Court** handled small civil claims with an Indian officer. The **Sadar Diwani Adalat** at Calcutta was the final civil court.
 29. The District (Diwani) Judge doubled as district **Magistrate** for criminal cases. The **Sadar Nizamat Adalat** was the top criminal appeal court (do not swap Diwani and Nizamat).
-30. Important specialized commissions: **Herschell (1893)** and **Fowler (1898)** on Currency (gold exchange standard at 1s 4d). **Whitley Commission (1929)** on Labour. **Royal Commission on Agriculture (1926)** headed by Linlithgow.
+30. Important specialized commissions: **Herschell (1893)** (हर्शेल) and **Fowler (1898)** (फाउलर) on Currency (gold exchange standard at 1s 4d). **Whitley Commission (1929)** on Labour. **Royal Commission on Agriculture (1926)** headed by Linlithgow.
 31. **Lex Loci Act (1850)** (Religious Disabilities Act): Granted the right to inherit ancestral property upon conversion to Christianity, easing missionary conversions.
 32. **Monetisation:** land revenue demanded in **cash**, spread of railways, and cash crops forced peasants to borrow from rural moneylenders.
 33. **Dual economy** critiques: a thin modern / export pocket alongside a distressed agrarian mass — used by Drain writers and historians against “modernisation” claims.
@@ -98,7 +98,7 @@ Administrative System of British India | Local Administration | Cornwallis Code 
 
 | Level | Civil | Criminal |
 |-------|-------|----------|
-| Lowest | Munsiff's Court | Thana (daroga) |
+| Lowest | Munsiff's Court (मुंसिफ़) | Thana (daroga) |
 | Middle | Registrar's Court | — |
 | District | District (Diwani) Judge | Same Judge sat as Magistrate |
 | Appeal | 4 Provincial Courts of Appeal | 4 Circuit Courts |
@@ -133,16 +133,16 @@ Administrative System of British India | Local Administration | Cornwallis Code 
 
 ### Commissions ↔ objective
 
-| Commission | Year | Viceroy/Governor-General | Objective / Details |
+| Commission | Year | Viceroy/Governor-General (गवर्नर-जनरल) | Objective / Details |
 |------------|------|--------------------------|---------------------|
 | Campbell | 1866 | Lawrence | Famine (Orissa famine, 1866) |
 | Strachey | 1880 | Lytton | Famine (Resulted in Famine Codes 1883) |
-| Lyall | 1897 | Elgin II | Famine |
+| Lyall | 1897 | Elgin II (द्वितीय) | Famine |
 | MacDonnell | 1900 | Curzon | Famine |
 | Woodhead | 1945 | Wavell (post-1943 famine) | Famine inquiry (played down British fault) |
-| Herschell | 1893 | Lansdowne | Currency (closed free silver minting) |
+| Herschell | 1893 | Lansdowne (लैंसडाउन) | Currency (closed free silver (रूपक) minting) |
 | Fowler | 1898 | Elgin II | Currency (gold-exchange standard) |
-| Linlithgow | 1926 | Irwin | Royal Commission on Agriculture |
+| Linlithgow | 1926 | Irwin (इरविन) | Royal Commission on Agriculture |
 | Whitley | 1929 | Irwin | Royal Commission on Labour |
 
 ### Local self-government ↔ milestone
@@ -163,7 +163,7 @@ British economic policy in India was not one static plan. Bipan Chandra's three-
 | Phase | Rough years | Method | Key fact |
 |-------|-------------|--------|-----------|
 | Mercantilism / trade monopoly | Plassey to **1813** | The Company held a **trade monopoly**; Bengal's own land revenue funded the "investment" — goods bought in India for sale in Europe | Charter Act **1813** ends the India trade monopoly |
-| Free trade | **1813–1858** | One-way "free trade": British machine-made goods entered India with little protection for local crafts, while India supplied raw material and bought back finished cloth | Charter Act **1833** ends the China-tea monopoly too; Manchester cloth floods in |
+| Free trade | **1813–1858** | One-way "free trade": British machine-made goods entered India with little protection for local crafts, while India supplied raw (रॉ) material and bought back finished cloth | Charter Act **1833** ends the China-tea monopoly too; Manchester cloth floods in |
 | Finance capital / Drain | **1858 onward** | British capital entered through **railway guarantees**, **managing-agency** control of industry and public loans; **Home Charges** and guaranteed interest moved Indian revenue to Britain | Naoroji's Drain critique, published **1901** |
 
 - Every phase kept the same underlying goal: make India a supplier of raw material and a buyer of British goods.
@@ -179,7 +179,7 @@ British economic policy in India was not one static plan. Bipan Chandra's three-
 - British India was run from the **district** upward. The **Collector** carried revenue, magisterial and — until 1793 — judicial power together.
 - After the **Diwani of 1765** (दीवानी अधिकार - दीवानी सनद) the Company had to collect Bengal's land revenue itself.
 - **Dual Government (1765–72)** [द्वैध शासन: दीवानी एवं निज़ामत अधिकार] left revenue with the Company and police/justice in the Nawab's name. It produced corruption and made the **Bengal Famine of 1770** worse.
-- **Warren Hastings** ended Dual Government in **1772**. Company officers then ran revenue and civil administration directly.
+- **Warren Hastings** (वारेन) ended Dual Government in **1772**. Company officers then ran revenue and civil administration directly.
 - **Cornwallis (1786–93)** professionalised the civil service and separated the judiciary from the revenue side. The dedicated judiciary and police cards below carry this detail forward.
 - The **Charter Act of 1833** created the **Governor-General of India** and one all-India executive.
 - The **Charter Act of 1853** started **open competition** for the civil service. The civil-service card below carries this thread.
@@ -205,7 +205,7 @@ Cornwallis's **Code of 1793** gave British India its first settled ladder of civ
 | Munsiff's Court | Indian officer | Smallest claims |
 | Registrar's Court | European Registrar | Slightly larger claims, referred by the District Judge |
 | District (Zilla/City) Diwani Adalat | **District Judge** | Main civil and revenue-dispute court |
-| Provincial Court of Appeal | 3 Company judges each | Four courts — **Calcutta, Dacca, Murshidabad, Patna** |
+| Provincial Court of Appeal | 3 Company judges each | Four (चातुर्याम) courts — **Calcutta, Dacca, Murshidabad, Patna (पटना)** |
 | **Sadar Diwani Adalat** | Governor-General-in-Council | Final civil court, sat at Calcutta |
 
 **Criminal ladder:**
@@ -213,7 +213,7 @@ Cornwallis's **Code of 1793** gave British India its first settled ladder of civ
 - The same **District Judge also sat as Magistrate** for his district's criminal cases.
 - **Circuit Courts**, staffed by covenanted civil servants, toured the four Provincial divisions to hear criminal appeals and confirm serious sentences.
 - The **Sadar Nizamat Adalat** at Calcutta was the highest criminal court.
-- Softened Muslim law supplied the criminal code, and a **qazi/mufti** law officer sat with the European judge to declare the sentence.
+- Softened Muslim law supplied the criminal code, and a **qazi (क़ाज़ी)/mufti** law officer sat with the European judge to declare the sentence.
 - Europeans were kept outside this Indian court system. They answered instead to the **Supreme Court** at Calcutta.
 - **William Bentinck** later abolished the four Provincial Courts of Appeal and Circuit, shifting their work to Commissioners and then to District Judges/Collectors, and opened judicial posts (Deputy Magistrate, Sadar Amin) to Indians.
 - **High Courts** replaced the Sadar Adalats at Calcutta, Madras and Bombay only in the **1860s**, well after this topic's core Cornwallis frame.
@@ -245,7 +245,7 @@ Cornwallis's **Code of 1793** gave British India its first settled ladder of civ
 - **Satyendranath Tagore** became the **first Indian to qualify** for the Indian Civil Service, in **1863**.
 - The **age limit for entry was cut repeatedly** through the 1860s–70s, which narrowed the practical window for Indian candidates further.
 - The **Aitchison Committee (1886)** created three tiers — Imperial (in England), Provincial and Subordinate (in India) — and nudged the age limit back up.
-- The **Islington Commission (Royal Commission on Public Services, 1912)** (chaired by Lord Islington; members included G.K. Gokhale and Abdur Rahim) recommended that **25% of the superior civil service posts** be filled by Indians.
+- The **Islington Commission (Royal Commission on Public Services, 1912)** (chaired by Lord Islington; members included G.K. Gokhale (गोखले) and Abdur Rahim (रहीम)) recommended that **25% of the superior civil service posts** be filled by Indians.
 - The **Lee Commission (Royal Commission on Superior Civil Services, 1923–24)** recommended establishing a **Public Service Commission** (established in **1926** under Sir Ross Barker) and achieving a **50:50 parity** between Europeans and Indians in the ICS within 15 years.
 - **Simultaneous ICS examinations in India** began only in **1922**, at Allahabad/Delhi, after long nationalist demand and the Montagu–Chelmsford push.
 - Indianisation of the ICS stayed slow and partial right up to 1947.
@@ -295,7 +295,7 @@ D. Delhi
 
 - Every phase in the 4.0 table turned India into a **supplier of raw material** and a **market for British manufactures**. Only the financial tool changed.
 - **Land revenue** stayed the Company's main Indian income throughout, funding wars, administration and — after 1858 — railway guarantees.
-- **Home Charges** were expenditure incurred in **England** by the **Secretary of State for India** on India's behalf. They included India Office establishment costs, interest on public debt raised abroad, interest linked to railway capital, store purchases in England, pensions and gratuities of retired civil and military officers, and other non-effective army charges paid in Britain from Indian revenues.
+- **Home Charges** were expenditure incurred in **England** by the **Secretary of State for India** on India's behalf. They included India Office establishment costs, interest on public debt raised abroad, interest linked to railway capital, store purchases in England, pensions and gratuities of retired civil and military officers, and other non-effective army (सेना) charges paid in Britain from Indian revenues.
 - Funds used for **waging wars outside India** were **not** counted as Home Charges — a standard multi-statement trap.
 - **Imperial Preference** meant special concessions for **British imports into India** (often near-nil or very low duty) while **Indian exports paid high duties in Britain**.
 - Interest and profit on **private foreign capital**, plus payments for banking, insurance and shipping services, were further leakages from India's national income.
@@ -305,7 +305,7 @@ D. Delhi
 
 ### Commerce and foreign trade pattern
 
-- Before Plassey, India still exported **finished textiles** and other crafts. After Company rule hardened, the trade pattern reversed toward **raw-material export** and **finished-goods import**.
+- Before Plassey, India still exported **finished textiles** and other crafts. After Company rule (कंपनी शासन) hardened, the trade pattern reversed toward **raw-material export** and **finished-goods import**.
 - After **1813**, private British merchants flooded India with Manchester cloth under one-way free trade. Indian finished goods faced high British tariffs.
 - Opium to China, indigo and later jute and raw cotton were classic export staples. Tea from Assam joined the plantation export stream from the 1830s–40s.
 - Shipping, insurance and banking around this trade were largely British-controlled, so even “Indian” export earnings leaked through service charges.
@@ -324,11 +324,11 @@ The British did **not** use one land system for all of India. Different regions 
 | Year | **1793** | 1820s (trials from 1790s) | **1822** report |
 | Region | **Bengal, Bihar, Orissa, Varanasi (UP)** etc. | **Madras, Bombay**, E. Bengal, Assam, Coorg | **UP / NWP, Central Provinces, Punjab** |
 | Share of British India (approx.) | **~19%** | **~51%** | **~30%** |
-| Architect | **Cornwallis** (Shore helped shape) | **Munro**, **Alexander Read** (Baramahal) | **Holt Mackenzie** (Bentinck extended) |
-| Payer | **Zamindar** | **Ryot** (cultivator) | Village / **mahal** (often via **lambardar**) |
+| Architect | **Cornwallis** (Shore helped shape) | **Munro**, **Alexander (सिकंदर) Read** (Baramahal) | **Holt Mackenzie** (Bentinck extended) |
+| Payer | **Zamindar** | **Ryot** (cultivator) | Village / **mahal** (often via **lambardar** (लंबरदार)) |
 | Rights | Zamindar = proprietor | Ryot = owner/occupant; pays government direct | Collective village responsibility |
 | Revision | **Fixed / permanent** | Periodic; demand high and strict | Periodic **20–30 yrs** |
-| Other names | **Istamrari / Ist-e-Marari**, Jagirdari, Malgujari, Bishvedari | — | — |
+| Other names | **Istamrari / Ist-e-Marari** (इस्तमरारी बंदोबस्त), Jagirdari, Malgujari (मालगुज़ारी), Bishvedari | — | — |
 
 ### Cause → Course → Result (why three systems)
 
@@ -370,14 +370,14 @@ D. (A) is false but (R) is true
 
 - **Cause:** Decennial and farming experiments after Diwani failed to give the Company a secure, collectable demand.
 - **Course:** Cornwallis, drawing on Shore’s revenue work, fixed the zamindar’s payment **in perpetuity** in Bengal, Bihar, Orissa and Varanasi.
-- **Result:** Zamindars became legal proprietors; cultivators became tenants; litigation and absentee purchase rose; the state’s share stayed frozen while rents on tenants often rose.
+- **Result:** Zamindars became legal proprietors; cultivators became tenants; litigation and absentee purchase rose; the state’s share (भाग) stayed frozen while rents on tenants often rose.
 
 - Introduced by **Lord Cornwallis** in **1793** in **Bengal, Bihar and Orissa**, and also in **Varanasi (UP)**. About **19%** of British India came under it.
 - It is also called **Istamrari / Ist-e-Marari** (इस्तमरारी बंदोबस्त), and sometimes tagged Jagirdari (जागीरदारी), Malgujari (मालगुज़ारी) or Bishvedari in older usage.
 - Failed farming contracts and **decennial** (ten-year) experiments came before the permanent fix of **1793**.
 - The **zamindar** (ज़मींदार) was recognised as **proprietor** with hereditary and transferable rights. He paid a **fixed** yearly sum to the Company — commonly remembered as **10/11** of the collection to the state and **1/11** kept by the zamindar.
 - The actual cultivator became a **tenant**, not the owner of the soil. Zamindars were to issue **pattas** (पट्टा) to farmers, but many never did because there was **no official check** on them.
-- Under the **Sunset Law** (सूर्यास्त कानून / सनसेट लॉ), if the zamindar did not pay by sunset on the due day, the estate could be sold at auction. Many buyers were urban absentees.
+- Under the **Sunset Law** (सूर्यास्त कानून / सनसेट लॉ), if the zamindar did not pay by sunset on the due day, the estate could be sold at auction. Many buyers were urban (नगरीय) absentees.
 - Making the zamindar stronger against the ryot, plus more intermediaries, fed **increased litigation** after 1793 — a classic match-list angle.
 - Because the state's demand was frozen, the Company could **not** raise it when production later grew. Zamindars, however, often raised rents on tenants.
 - Peasant pressure later produced the **Bengal Tenancy Act, 1885**, which defined landlord and tenant rights in Bengal and Bihar.
@@ -390,7 +390,7 @@ D. (A) is false but (R) is true
 Match List-I with List-II:
 
 **List-I** A. Lord Dalhousie B. Lord Curzon C. Lord William Bentinck D. Lord Cornwallis
-**List-II** 1. Permanent Settlement of Bengal 2. Prohibition of Practice of Sati 3. Partition of Bengal 4. Doctrine of Lapse
+**List-II** 1. Permanent Settlement of Bengal 2. Prohibition (प्रतिषेध) of Practice of Sati 3. Partition of Bengal 4. Doctrine of Lapse (विलुप्ति सिद्धांत)
 
 A. 4 3 1 2
 
@@ -417,12 +417,12 @@ D. 4 3 2 1
 
 ### Cause → Course → Result
 
-- **Cause:** Company officers in the south argued that Bengal’s zamindar middleman was alien to Tamil and Deccan village practice and blocked accurate assessment.
+- **Cause:** Company officers in the south argued that Bengal’s zamindar middleman was alien to Tamil and Deccan (दक्कन) village practice and blocked accurate assessment.
 - **Course:** **Alexander Read** tried direct settlement in **Baramahal**; **Thomas Munro** expanded it in Madras; **Elphinstone** carried a similar line into parts of Bombay.
 - **Result:** The state faced the cultivator directly, surveyed fields, issued **pattas** (पट्टा), and kept the right to revise demand — high cash pressure without a Bengal-style landlord buffer.
 
 - **Alexander Read** (Reed) first tried it in **Baramahal** (Tamil country) after the 1790s acquisitions. **Thomas Munro** expanded it as Governor of Madras (**1820–27**) and said Ryotwari was “a system which has always prevailed in India.” **Elphinstone** carried a similar direct settlement into parts of **Bombay**.
-- It spread across the **Madras** Presidency and parts of **Bombay**, plus pockets of **eastern Bengal, Assam and Coorg**. About **51%** of British India came under it.
+- It spread across the **Madras** Presidency (प्रेसीडेंसी) and parts of **Bombay**, plus pockets of **eastern Bengal, Assam and Coorg**. About **51%** of British India came under it.
 - The state settled **directly with the cultivator (ryot / रैयत)**. There was no Bengal-style zamindar in between. The government surveyed and assessed fields and issued **pattas** (पट्टा).
 - The ryot was treated as the landholder responsible for revenue. Tax rates were **high** and collection was **strict**; remission in bad harvests was not a standing right.
 - Revenue was **revised periodically**, so the state could raise demand. Cash pressure pushed peasants toward **moneylenders** and cash crops.
@@ -440,13 +440,13 @@ D. 4 3 2 1
 
 - **Cause:** In the North-Western Provinces the Company needed a settlement that fitted joint village rights better than Bengal’s single zamindar model.
 - **Course:** **Holt Mackenzie’s 1822** report shaped mahal-based assessment; **Bentinck** later extended the idea. A **lambardar** (लंबरदार) often collected the village share.
-- **Result:** About **30%** of British India — mainly **UP / NWP, Central Provinces and Punjab** — carried joint village liability with periodic revision. This is the land-revenue background of much of later Uttar Pradesh.
+- **Result:** About **30%** of British India — mainly **UP / NWP, Central Provinces and Punjab** — carried joint village liability with periodic revision. This is the land-revenue background of much of later Uttar Pradesh (उत्तर प्रदेश).
 
 - Shaped by **Holt Mackenzie's report of 1822** for the **North-Western Provinces** (then under the wider Bengal Presidency administration, which is why some stems say “Bengal”). **Bentinck** later extended the idea. About **30%** of British India came under it.
 - The unit was the **village or mahal** (महाल / ग्राम). Village land was treated as belonging to the village community, which was **jointly responsible** (संयुक्त उत्तरदायित्व) for the revenue.
 - A **lambardar** (लंबरदार / ग्राम प्रधान) often collected the village's share.
 - Demand was **revised periodically**. It was **not** a second Permanent Settlement.
-- Main zones: **UP / NWP, Central Provinces and Punjab** (with local variations). This is the land-revenue background of much of later **Uttar Pradesh**.
+- Main zones: **UP / NWP, Central Provinces and Punjab** (with local variations). This is the land-revenue background of much of later **Uttar Pradesh** (उत्तर प्रदेश).
 - The **Punjab Land Alienation Act, 1900** later restricted land transfer from agricultural to non-agricultural classes — a separate Punjab agrarian fact often asked beside Mahalwari geography.
 
 > **Logic:** Mackenzie = Mahalwari, not Ryotwari. Do not place Mahalwari as the main system of Bengal (that is Permanent Settlement).
@@ -462,12 +462,12 @@ D. 4 3 2 1
 - **Dadabhai Naoroji** was the first and chief propounder. Key writings include *England’s Duties to India*, *The Wants and Means of India*, *On the Commerce of India*, and *Poverty and Un-British Rule in India* (**1901**, not 1900).
 - With **W. C. Bonnerjee** he helped found the **London Indian Society (1865)** to publicise Indian grievances. In **1892** he became the **first Indian elected to the British House of Commons** (Liberal Party ticket).
 - **R. C. Dutt** (*Economic History of India*) stressed the same Drain and argued that a huge share of India’s annual product — often remembered in coaching notes as about **half** — was flowing out every year.
-- Other economic critics of colonialism include **G. Subramania Iyer**, **M. G. Ranade**, **G. V. Joshi** and **Gokhale**. **Sir Syed Ahmad Khan** did **not** accept the Drain Theory; he believed Muslim advance lay under British rule.
-- The **Indian National Congress at Calcutta in 1896** accepted the Drain Theory and linked Drain to famines and mass poverty.
+- Other economic critics of colonialism include **G. Subramania Iyer**, **M. G. Ranade**, **G. V. Joshi** and **Gokhale** (गोखले). **Sir Syed Ahmad Khan** did **not** accept the Drain Theory; he believed Muslim advance lay under British rule.
+- The **Indian National Congress (कांग्रेस) at Calcutta in 1896** accepted the Drain Theory and linked Drain to famines and mass poverty.
 - **Bipan Chandra** later wrote *The Rise and Growth of Economic Nationalism in India* — a retrospective study of the nationalist economic school.
 - Early nationalists attacked **"Un-British rule"** (the Drain), not always the Empire itself.
 
-> **Logic:** Year trap for Naoroji’s book = **1901**. Drain ≠ deindustrialization. Syed Ahmad ≠ Drain critic. Home Charges ≠ overseas war costs.
+> **Logic:** Year trap for Naoroji’s book = **1901**. Drain ≠ deindustrialization. Syed Ahmad ≠ Drain critic. Home Charges ≠ overseas war costs (विदेशी युद्ध).
 
 ---
 **PYQ — UPPCS Prelims 2021, Q139**
@@ -495,7 +495,7 @@ D. 1903 A.D.
 
 "The Rise and Growth of Economic Nationalism in India" was written by
 
-A. Partha Sarthi Gupta
+A. Partha Sarthi Gupta (गुप्त)
 
 B. S Gopal
 
@@ -527,7 +527,7 @@ D. (A) is true, but (R) is false
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** Both true as Moderate facts; R (Un-British / Drain) does not explain the providential modernisation claim.
+**A/R logic:** Both true as Moderate (नरम दल) facts; R (Un-British / Drain) does not explain the providential modernisation claim.
 
 **Ans: A.** Both true; providence/modernisation and the Un-British/Drain critique are two Moderate facts, not cause → effect.
 
@@ -540,7 +540,7 @@ D. (A) is true, but (R) is false
 - Under British rule, especially in the nineteenth century, agriculture was pushed toward **cash crops for export** — indigo, cotton, jute, opium, tea and sugarcane — rather than only subsistence food grains.
 - Land revenue had to be paid in **cash**, so even a bad harvest forced sales. Railways and ports carried crops out to Bombay, Calcutta and Madras.
 - Credit came from **moneylenders**. Default often meant loss of land. When food crops were displaced, **famine** risk rose. Commercialization did **not** mean peasant prosperity.
-- One of the clearest economic results of nineteenth-century British rule was this commercialization — **not** a boom in Indian-owned factories or a rapid rise in urban population.
+- One of the clearest economic results of nineteenth-century British rule was this commercialization — **not** a boom in Indian-owned factories or a rapid rise in urban population (जनसंख्या).
 - **Sir Arthur Cotton** is remembered as the pioneer of large **irrigation works in South India**, linked to commercial agriculture and famine-control debates in the Madras Presidency.
 - The **Indigo Revolt of 1859–60** in Bengal was against forced indigo. The plantation-economy card below carries the indigo mechanism.
 
@@ -548,7 +548,7 @@ D. (A) is true, but (R) is false
 
 Consider the following events and arrange them in correct chronological order.
 
-1. Acquisition of Awadh by the British
+1. Acquisition of Awadh (अवध) by the British
 2. Ilbert Bill Controversy
 3. Indigo Revolt
 4. Second Anglo-Afghan War
@@ -577,12 +577,12 @@ D. 1, 3, 2, 4
 
 Plantation crops were a distinct strand of commercialization: grown mainly for **export**, often under direct European control, not just cash-crop sale by free peasants.
 
-- **Indigo** in Bengal and Bihar had two systems. Under **nij cultivation** the planter grew indigo on land he owned or leased himself.
-- Under **ryoti cultivation** the planter forced peasants to grow indigo on part of their own holding after handing out a cash advance called **dadan**.
+- **Indigo** (नील) in Bengal and Bihar had two systems. Under **nij cultivation** (निज) the planter grew indigo on land he owned or leased himself.
+- Under **ryoti cultivation** (रैयती) the planter forced peasants to grow indigo on part of their own holding after handing out a cash advance called **dadan**.
 - The dadan advance trapped the ryot. He had to keep growing indigo season after season to repay debt, even when it lost money against food crops.
 - Peasant anger at forced ryoti indigo fed directly into the **Indigo Revolt of 1859–60** covered in the commercialization card above.
 - **Tea** plantations grew in **Assam** after wild tea was found there in the 1820s. The **Assam Company, founded in 1839**, was the first major tea enterprise.
-- Tea gardens needed heavy, cheap labour. Planters recruited workers under **indentured contracts** from Chotanagpur, the United Provinces and Bihar, later regulated by laws such as the Inland Emigration Act.
+- Tea gardens needed heavy, cheap labour. Planters recruited workers under **indentured contracts** from Chotanagpur (छोटानागपुर), the United Provinces and Bihar, later regulated by laws such as the Inland Emigration Act.
 - Indentured tea labour lived under harsh contract discipline, penal clauses for desertion, and low wages — a plantation-labour story that runs parallel to overseas indenture.
 - European planters, not Indian capital, owned most of the tea industry through the nineteenth century.
 
@@ -592,7 +592,7 @@ Plantation crops were a distinct strand of commercialization: grown mainly for *
 
 ## 4.14 Deindustrialization
 
-- Indian **handloom, metal-work and other crafts** declined under one-way free trade.
+- Indian **handloom (हथकरघा), metal-work and other crafts** declined under one-way free trade.
 - The process is commonly dated from **1813**, when the Company’s India trade monopoly ended and British manufactures flooded in more freely. The **Charter Act of 1833**, ending the Company as a trading body, aggravated the process.
 - Cheap **Manchester** cloth undercut Indian weavers. High tariffs in Britain blocked Indian finished goods. India exported **raw cotton** and imported finished cloth — the reverse of the older pattern.
 - After conquest, courts and nobles no longer bought on the old scale, so artisans lost patrons.
@@ -615,12 +615,12 @@ Plantation crops were a distinct strand of commercialization: grown mainly for *
 
 | Term | Meaning |
 |------|---------|
-| **Aurang** | Persian for a **warehouse** / place where goods are collected before sale — **not** “treasury officer” |
+| **Aurang** | Persian (फ़ारसी) for a **warehouse** / place where goods are collected before sale — **not** “treasury officer” |
 | **Banian** | Indian commercial **agent** of the East India Company |
 | **Mirasidar** | South Indian village elite / designated **revenue payer** under Ryotwari-era arrangements |
 | **Jajmani** | Traditional service–patron system of **North India** |
 | **Bara Balute** | Traditional village service system of **Maharashtra** |
-| **Mirasi** | Associated with **Tamil Nadu** land/service rights |
+| **Mirasi** | Associated with **Tamil Nadu (नाडु)** land/service rights |
 | **Adade** | Associated with **Karnataka** in the standard match set |
 
 > **Logic:** Aurang ≠ treasury in-charge. Banian ≠ Mirasidar. Keep the regional service-system match (Jajmani–North; Bara Balute–Maharashtra; Mirasi–Tamil Nadu; Adade–Karnataka).
@@ -632,8 +632,8 @@ Plantation crops were a distinct strand of commercialization: grown mainly for *
 Colonial rule did not only take land revenue. It also forced the peasantry deeper into a **cash** economy and then stabilised the rupee for imperial trade.
 
 - Land revenue had to be paid in **cash**, not kind. That single rule pushed peasants toward moneylenders and cash crops even before railways matured.
-- Railways, ports and plantation wages further monetised the countryside. Village barter and grain dues shrank relative to silver and notes.
-- Through much of the nineteenth century India was effectively on a **silver** standard. Falling silver prices in the 1870s–90s made the rupee unstable against sterling and hurt India’s external payments.
+- Railways, ports and plantation wages further monetised the countryside. Village barter and grain dues shrank relative (सापेक्ष) to silver and notes.
+- Through much of the nineteenth century India was effectively on a **silver** (रूपक) standard. Falling silver prices in the 1870s–90s made the rupee unstable against sterling and hurt India’s external payments.
 - The **Herschell Committee (1893)** recommended closing the Indian mints to the **free coinage of silver**. That ended the older automatic silver inflow into the rupee.
 - The **Fowler Committee (1898)** recommended a **gold-exchange standard**. The rupee was linked to sterling at **1 shilling 4 pence (1s 4d)** without putting India on a full gold-coin circulation like Britain.
 - Gold-exchange standard meant India held sterling reserves and converted rupees through London — convenient for Home Charges and British trade, not for Indian monetary autonomy.
@@ -653,7 +653,7 @@ Colonial rule did not only take land revenue. It also forced the peasantry deepe
 - The contracts were **renegotiated in 1869**: the government cleared company debts and extended terms, in exchange for half of future surplus profits — a deal that still favoured the companies.
 - From the 1870s–80s the state began direct **state construction and part-nationalisation** of some lines, but guaranteed and mixed company-managed forms continued alongside it into the twentieth century.
 - The first aims were moving **troops**, taking raw material to ports, and running the administration — not passenger comfort.
-- In the UP region the main junctions were **Kanpur, Lucknow and Allahabad**.
+- In the UP region the main junctions were **Kanpur (कानपुर), Lucknow (लखनऊ) and Allahabad**.
 
 > **Logic:** "5 percent whatever happened" is the guarantee-system fact. Railways are not a "welfare-only" story.
 
@@ -667,7 +667,7 @@ Colonial rule did not only take land revenue. It also forced the peasantry deepe
 - British houses such as **Andrew Yule, Bird & Co. and Jardine Skinner** each controlled a cluster of companies across **jute, coal and tea**, so that one industry fed another — coal for the mills, engineering for the railways.
 - A handful of agencies controlled the large majority of paid-up capital in **jute, coal and tea** through the early twentieth century.
 - The system let British capital and management dominate modern industry while spreading much of the financial risk onto Indian investors.
-- Indian business houses — most famously **Tata** — grew up partly by working outside or against the managing-agency grip, especially in cotton and steel.
+- Indian business houses — most famously **Tata** (तत्) — grew up partly by working outside or against the managing-agency grip, especially in cotton and steel.
 
 > **Logic:** Managing agency is not zamindari. One is industrial-corporate control; the other is agrarian land revenue. Keep the two "British-control-without-full-ownership" stories separate.
 
@@ -704,7 +704,7 @@ Three famines anchor this card. Each has a different colonial cause and a differ
 |--------|-------|---------|------------------------------|------------|
 | Bengal Famine | **1770** | **Dual Government** mismanagement; revenue kept flowing through the disaster | Warren Hastings took charge only afterward (1772) | About a third of Bengal's population by traditional estimate |
 | Odisha (Orissa) Famine | **1866–67** | Isolation + crop failure; remembered as **“Sea of Calamity”** | Mid-Victorian Company/Crown India | About **13 lakh** in Odisha alone; **George Campbell** inquiry followed |
-| Great Famine | **1876–78** | Drought across Madras, Bombay, Mysore, the Deccan; grain kept moving toward export while relief was deliberately kept meagre | **Lord Lytton** | Estimates from **5.5 to 10 million** |
+| Great Famine | **1876–78** | Drought (सूखा) across Madras, Bombay, Mysore (मैसूर), the Deccan; grain kept moving toward export while relief was deliberately kept meagre | **Lord Lytton** | Estimates (प्राकलन समिति) from **5.5 to 10 million** |
 | Bengal Famine | **1943** | Wartime cyclone, hoarding, denial of rice and boats against a feared Japanese advance, and administrative delay in importing grain | **Lord Linlithgow** | About **3 million** |
 
 - The **Odisha famine of 1866–67**, remembered as a **“Sea of Calamity,”** killed about **thirteen lakh** people in Odisha and pushed a formal inquiry under **George Campbell**.
@@ -727,7 +727,7 @@ This section only joins the results. The mechanisms are already taught above.
 - Industry saw handicrafts decline. Modern mills came late and stayed thin, and much of what did grow sat under **managing-agency** control.
 - Finance sent Indian surplus to Britain through the Drain and Home Charges, with the railway **guarantee** as a major later channel.
 - Rail, telegraph and post served control and trade first. Nationalists used them later.
-- Society produced typical colonial classes: zamindar, moneylender, plantation labourer and landless labourer.
+- Society produced typical colonial classes: zamindar, moneylender (साहूकार), plantation labourer and landless labourer.
 - India was **not** "fully modernised by 1947." Infrastructure is not proof of benevolent rule.
 
 ### Dual economy critiques

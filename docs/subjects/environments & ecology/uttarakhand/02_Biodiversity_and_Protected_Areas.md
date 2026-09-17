@@ -1,9 +1,9 @@
-# Topic 2 — Biodiversity & Protected Areas (Uttarakhand)
+# Topic 2 — Biodiversity & Protected Areas (Uttarakhand (उत्तराखंड))
 
 ### ★ UKPCS state card (Unit 5 / geo overlap)
 
 > **Sources:** UKPCS sanctuary–district and NP-year keys, Nanda Devi BR / WHS map.  
-> **High-yield 2025:** Nanda Devi BR (Q20) · sanctuary–district match (Q104) · forest A/R (Q108) · NP years (Q114).  
+> **High-yield 2025:** Nanda Devi (नंदा देवी) BR (Q20) · sanctuary–district match (Q104) · forest A/R (Q108) · NP years (Q114).  
 > **Pair with:** [Geography UK — Vegetation & Wildlife](../../geography/uttarakhand/03_Vegetation_and_Wildlife.md) · [Natural Resources](01_Natural_Resources_and_Climate_Contribution.md).
 
 ---
@@ -11,7 +11,7 @@
 ## Current Affairs (this topic)
 
 - Keep NP notification years and sanctuary–district pairs stable.
-- Nanda Devi / Valley of Flowers WHS + BR fauna set recycles every year.
+- Nanda Devi / Valley of Flowers (फूलों की घाटी) WHS + BR fauna (प्राणीजात) set recycles every year.
 
 ---
 
@@ -19,16 +19,16 @@
 
 | Head | Key |
 |------|-----|
-| Biogeographic zone | **Himalaya** — high endemism; altitudinal belts |
+| Biogeographic zone | **Himalaya** (हिमालय) — high endemism; altitudinal belts |
 | Forest richness A/R | A true; R (topography + climate) **explains** A |
-| Nanda Devi BR | UNESCO WHS (with Valley of Flowers); snow leopard, musk deer, blue sheep |
-| Askot | **Pithoragarh** |
-| Binsar | **Almora** |
-| Govind | **Uttarkashi** |
-| Nandhaur | **Nainital** |
+| Nanda Devi BR | UNESCO WHS (यूनेस्को) (with Valley of Flowers); snow leopard, musk deer, blue sheep |
+| Askot | **Pithoragarh** (पिथौरागढ़) |
+| Binsar | **Almora** (अल्मोड़ा) |
+| Govind | **Uttarkashi** (उत्तरकाशी) |
+| Nandhaur | **Nainital** (नैनीताल) |
 | Corbett NP | **1936** |
-| Rajaji NP | **1983** |
-| Gangotri NP | **1989** |
+| Rajaji (राजाजी) NP | **1983** |
+| Gangotri (गंगोत्री) NP | **1989** |
 | Govind NP | **1990** (not 1989) |
 
 ---
@@ -39,7 +39,7 @@
 2. Nanda Devi BR: WHS + snow leopard / musk deer / blue sheep.
 3. Askot–Pithoragarh; Binsar–Almora; Govind–Uttarkashi; Nandhaur–Nainital.
 4. Corbett 1936; Rajaji 1983; Gangotri 1989; Govind **1990**.
-5. Chipko / FSI–FRI–WII stay on Topic 1.
+5. Chipko (चिपको) / FSI–FRI–WII stay on Topic 1.
 
 ---
 
@@ -60,28 +60,28 @@
 **Identity:** Altitude packs many climates into a short distance.
 
 - Steep relief packs many climatic zones into a short horizontal distance.
-- Habitats run from Tarai–Bhabar forests to alpine meadows and cold desert edges.
+- Habitats run from Tarai–Bhabar (भाबर) forests to alpine meadows and cold desert edges.
 - Assertion–reason stems treat **topography and climate** as the primary explanation of forest and biodiversity richness.
-- Endemism is high in the **Himalaya** biogeographic zone relative to many plains states.
+- Endemism is high in the **Himalaya** biogeographic zone relative (सापेक्ष) to many plains states.
 
 ---
 
 ## 2.2 Flagship parks, tiger landscape, and biosphere
 
-**Identity:** Corbett–Rajaji Tarai · high Garhwal parks · Nanda Devi BR / WHS.
+**Identity:** Corbett–Rajaji Tarai · high Garhwal (गढ़वाल) parks · Nanda Devi BR / WHS.
 
-- **Corbett (1936)** anchors Tarai tiger conservation history and Project Tiger memory.
-- **Rajaji (1983)** covers Shiwalik–dun elephant corridors between Dehradun and Haridwar belts.
+- **Corbett (1936)** anchors Tarai tiger conservation history (इतिहास) and Project Tiger (प्रोजेक्ट टाइगर) memory.
+- **Rajaji (1983)** covers Shiwalik (शिवालिक)–dun (दून) elephant corridors between Dehradun (देहरादून) and Haridwar (हरिद्वार) belts.
 - **Gangotri (1989)** and **Govind (1990)** protect high Garhwal catchments — do not date Govind as 1989.
-- **Nanda Devi** and **Valley of Flowers** form one UNESCO World Heritage property; the biosphere holds snow leopard, Himalayan musk deer, and blue sheep (bharal).
+- **Nanda Devi** and **Valley of Flowers** (फूलों की घाटी) form one UNESCO World Heritage (विश्व धरोहर) property; the biosphere holds snow leopard, Himalayan musk deer, and blue sheep (bharal).
 - Biosphere teaching uses **core–buffer–transition** zonation — stricter core, more flexible outer rings — do not treat BR as only another national park label.
-- Elephant and tiger corridor logic links Corbett–Rajaji–Terai landscapes with neighbouring UP Terai reserves in national wildlife notes.
+- Elephant and tiger corridor logic links Corbett–Rajaji–Terai (तराई) landscapes with neighbouring UP Terai reserves in national wildlife notes.
 
 ---
 
 ## 2.3 Sanctuary–district ratta
 
-**Identity:** Four high-yield sanctuary–district pairs.
+**Identity:** Four (चातुर्याम) high-yield sanctuary–district pairs.
 
 | Sanctuary | District |
 |-----------|----------|
@@ -93,7 +93,7 @@
 *Row order in a match table is not the answer code.*
 
 - Wildlife Sanctuaries allow regulated human uses that a National Park usually forbids — keep the WPA hierarchy from the national Protected Areas chapter.
-- Asan Conservation Reserve (also Ramsar) is a separate UK wetland PA colour in national Ramsar teaching.
+- Asan (आसन) Conservation Reserve (संरक्षण आरक्षित क्षेत्र) (also Ramsar (रामसर)) is a separate UK wetland PA colour in national Ramsar teaching.
 
 ---
 
@@ -101,7 +101,7 @@
 
 **UKPCS Prelims 2025, Q20**
 
-Consider the following statements about Nanda Devi Biosphere Reserve:
+Consider the following statements about Nanda Devi Biosphere (नंदा देवी जैवमंडल) Reserve:
 
 1. It is a World Heritage Site.
 2. Its inhabitants include snow leopard, musk deer and blue sheep.

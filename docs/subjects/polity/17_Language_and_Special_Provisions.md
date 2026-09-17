@@ -222,7 +222,7 @@ D. Official Language — Part XVII
 
 ## Eighth Schedule — 22 languages
 
- The **amendment ladder + not-in list** is the language paper. **No “etc.”All 22 (learn the NOT-list harder than the list):** Assamese · Bengali · **Bodo** · **Dogri** · Gujarati · Hindi · Kannada · Kashmiri · **Konkani** · **Maithili** · Malayalam · **Manipuri** · Marathi · **Nepali** · Odia · Punjabi · Sanskrit · **Santhali** · **Sindhi** · Tamil · Telugu · Urdu.
+ The **amendment ladder + not-in list** is the language paper. **No “etc.”All 22 (learn the NOT-list harder than the list):** Assamese · Bengali · **Bodo** · **Dogri** · Gujarati · Hindi · Kannada · Kashmiri · **Konkani** · **Maithili** · Malayalam · **Manipuri** (मणिपुरी) · Marathi · **Nepali** · Odia · Punjabi · Sanskrit · **Santhali** · **Sindhi** · Tamil · Telugu · Urdu.
 
 **Original 14 (1950):** Assamese · Bengali · Gujarati · Hindi · Kannada · Kashmiri · Malayalam · Marathi · Oriya · Punjabi · Sanskrit · Tamil · Telugu · Urdu.
 
@@ -359,7 +359,7 @@ D. A-1, B-2, C-3, D-4
 
 ## Classical languages (executive, not constitutional)
 
-**Not** an article. **Not** the 8th Schedule. Cabinet / Ministry of Culture notification after a Linguistics Experts Committee (now under **Sahitya Akademi**).
+**Not** an article. **Not** the 8th Schedule. Cabinet / Ministry of Culture notification after a Linguistics Experts Committee (now under **Sahitya Akademi** (साहित्य अकादेमी)).
 
 - **2004** — **Tamil** (first).
 - **2005** — **Sanskrit**.
@@ -426,9 +426,9 @@ D. Both 1 and 2
 - State OL = **Hindi** (Art. **345** + State Act).
 - Second OL = **Urdu** — UP Official Language (Amendment) Act **1989**.
 - OL Rules 1976: UP = **Region A** (A→A work in Hindi).
-- 350B HQ (classic): Commissioner’s original HQ **Allahabad**.
+- 350B HQ (classic): Commissioner’s original HQ **Allahabad** (इलाहाबाद).
 - 8th Schedule demand: **Bhojpuri** (UP/Bihar) is the standing “not yet in” trap. **Maithili** (same belt) **is** in (92nd).
-- Neighbour State: **Uttarakhand** = Hindi OL + **Sanskrit** second official. Do not write that for UP.
+- Neighbour State: **Uttarakhand** (उत्तराखंड) = Hindi OL + **Sanskrit** second official. Do not write that for UP.
 
 ---
 

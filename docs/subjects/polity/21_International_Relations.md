@@ -50,7 +50,7 @@ Newest first. One event, one fact.
 | **2011** | Obama “pivot to Asia” | US FP turn the paper still uses |
 | **2008** | **123 Agreement** + **NSG waiver** | Civil nuclear with US; India still **outside NPT** |
 | **1971** | PRC takes UN China seat (Res. **2758**) | India voted **for** PRC. ROC/Taiwan out of the UN seat |
-| **1950** | Uniting for Peace **377(V)** | GA can *recommend* if the veto kills the Council |
+| **1950** | Uniting for Peace **377(V)** | GA can *recommend* (सिफारिश) if the veto kills the Council |
 
 ---
 
@@ -230,7 +230,7 @@ Machinery: **MEA** (EAM) · Foreign Secretary · **NSA** · **CCS** (PM + HM + R
 | | **Non-alignment** | **NAM** |
 |--|-------------------|--------|
 | What | A **policy**: no military camp in the Cold War; issue-by-issue judgment | A **movement of States**, first summit **1961 Belgrade** |
-| Founders (five names) | — | **Nehru** (India) · **Nasser** (Egypt) · **Tito** (Yugoslavia) · **Sukarno** (Indonesia) · **Nkrumah** (Ghana) |
+| Founders (five names) | — | **Nehru** (नेहरू) (India) · **Nasser** (Egypt) · **Tito** (Yugoslavia) · **Sukarno** (Indonesia) · **Nkrumah** (Ghana) |
 | Military? | Explicitly **not** an alliance | **No** Art. 5, **no** standing army, **no** Brussels HQ |
 
 - First summit **1961, Belgrade**. India hosted **7th Summit, New Delhi, 1983** (Indira Gandhi)
@@ -650,7 +650,7 @@ D. Neither
 - **19 countries + EU + African Union (AU added 2023**, India presidency)
 - India president **1 Dec 2022 – 30 Nov 2023**; New Delhi Leaders’ Summit **9–10 Sep 2023**
 - **Troika** = previous + current + next president. Logo 2023 = globe + lotus, **7 petals = 7 continents**, theme **Vasudhaiva Kutumbakam**
-- UP venues = Agra, Varanasi, Greater Noida, **Lucknow** — **not Kanpur**
+- UP venues = Agra, Varanasi, Greater Noida, **Lucknow** (लखनऊ) — **not Kanpur**
 - **G7 neighbour:** Canada, France, Germany, Italy, Japan, UK, USA (+ EU). **India is not a member** — guest only. 2021 summit: **UK chair** (Cornwall); guests were India/Australia/Korea/South Africa — **Brazil was not** the guest in that stem
 
 > **Logic:** Lotus petals = **7 continents**, not 7 member-states. Kanpur was **not** a UP G20 venue.

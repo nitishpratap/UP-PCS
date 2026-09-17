@@ -24,7 +24,7 @@
 
 | Year | Fact | Why it matters |
 |------|------|----------------|
-| 2022 | **Droupadi Murmu** elected **15th President** (took office 25 July 2022) | First **tribal** and **second woman** President; youngest to hold the office |
+| 2022 | **Droupadi Murmu** elected **15th President** (took office 25 July 2022) | First **tribal** (दिकू) and **second woman** President; youngest to hold the office |
 | 2022 | Jagdeep Dhankhar sworn as **16th** Vice-President | Electoral college = **all** MPs (elected + nominated); States out |
 | 2025 | **C. P. Radhakrishnan** sworn as Vice-President | Continuity of Art. 64 / Art. 67 traps |
 
@@ -63,7 +63,7 @@ D. Members of Lok Sabha only
 4. The President is elected **indirectly** by an Electoral College of **elected** MPs of both Houses, **elected** MLAs of the States, and **elected** MLAs of **Delhi and Puducherry** (**70th Amendment**).
 5. **Nominated** members of Parliament and members of State **Legislative Councils** do **not** vote in the Presidential election. They **do** vote in the Vice-President’s election.
 6. Election uses **proportional representation by single transferable vote** and a secret ballot. Vote-value population is frozen at the **1971 census** until the first census after **2026**.
-7. Presidential qualifications (**Article 58**): citizen, completed **35 years**, and qualified for election to the **Lok Sabha** (not Rajya Sabha). Oath is before the **Chief Justice of India**.
+7. Presidential qualifications (**Article 58**): citizen, completed **35 years**, and qualified for election to the **Lok Sabha** (लोकसभा) (not Rajya Sabha). Oath is before the **Chief Justice of India**.
 8. Term is **five years**; re-election is allowed any number of times. A vacancy by death, resignation or removal must be filled within **six months**; the Vice-President acts until then.
 9. Impeachment under **Article 61** is for **violation of the Constitution**. Nominated MPs **can** vote in impeachment; **State MLAs do not**. No President has ever been impeached.
 10. Veto types in India: **absolute**, **suspensive**, and **pocket** (no fixed time limit). There is **no qualified veto** of the USA type.
@@ -75,7 +75,7 @@ D. Members of Lok Sabha only
 16. **Article 74** aid and advice is **binding** on the President (42nd / 44th line). **Article 78** is the Prime Minister’s duty to communicate information to the President.
 17. Council of Ministers size is capped at **15% of the Lok Sabha** by the **91st Amendment**. Collective responsibility under **Article 75(3)** is to the **Lok Sabha only**.
 18. Individual ministers hold office during the **pleasure of the President** (**Article 75(2)**). Rank order: Cabinet Ministers → Ministers of State → Deputy Ministers. Cabinet Committees are **extra-constitutional**.
-19. The **Attorney General** (**Article 76**) is the first law officer, needs Supreme Court judge qualifications, holds office **during the pleasure of the President**, and may **speak in both Houses** but **cannot vote**.
+19. The **Attorney General** (महान्यायवादी) (**Article 76**) is the first law officer, needs Supreme Court judge qualifications, holds office **during the pleasure of the President**, and may **speak in both Houses** but **cannot vote**.
 20. The **Warrant / Table of Precedence (1979)** is **ceremonial only**. It is **not** the constitutional line of succession.
 21. Precedence ranks to fact: **1** President, **2** Vice-President, **3** Prime Minister, **4** Governors (within their State), **5** former Presidents, **6CJI = Speaker**, **7** Cabinet Ministers / CMs (in State) / former PMs / Leaders of Opposition, **11Attorney General**.
 22. Do not place the Speaker below Cabinet Ministers: Speaker shares **rank 6** with the CJI; Cabinet Ministers are **rank 7**. AG at **11** does **not** outrank Cabinet Ministers.
@@ -210,7 +210,7 @@ D. All members of Parliament and State Legislatures
 | **Term (Art. 56)** | **5 years**; can resign (addressed to the **Vice-President**); **re-election** allowed any number of times (Art. 57) |
 | **Vacancy (Art. 62)** | Election to fill a vacancy by expiry within the term; a vacancy by death/resignation/removal must be filled **within 6 months**; VP acts until then |
 | **If VP also vacant** | **Chief Justice of India** acts as President (*President (Discharge of Functions) Act, 1969*); if CJI’s office is vacant, the **senior-most SC judge** available |
-| **Emoluments** | Paid from the **Consolidated Fund of India** (current teaching figure: **₹5 lakh** per month) |
+| **Emoluments** | Paid from the **Consolidated Fund of India** (भारत की संचित निधि) (current teaching figure: **₹5 lakh** per month) |
 
 > **Logic:** For President's qualification the benchmark is **Lok Sabha** membership eligibility (not Rajya Sabha). Citizenship by **birth** is **not** required. Oath is before the **CJI**. Seat as MP/MLA is vacated on entering office (Art. 59), not before contesting.
 
@@ -242,7 +242,7 @@ D. All members of Parliament and State Legislatures
 |----------|------------|
 | **Executive** | All Union executive action is in his name; appoints PM, other ministers, AG, CAG, CJI & judges, Governors, Election Commissioners, UPSC/FC chairs, etc. |
 | **Legislative** | Summons/prorogues Parliament, dissolves Lok Sabha; **special address** (Art. 87); nominates 12 RS members (literature, science, art, social service) & (earlier) Anglo-Indians; assents to Bills (Art. 111) — **veto**; **ordinance** (Art. 123) |
-| **Financial** | Money Bill needs prior recommendation; causes Budget to be laid; Contingency Fund at his disposal; constitutes the **Finance Commission** |
+| **Financial** | Money Bill needs prior recommendation; causes Budget to be laid; Contingency Fund at his disposal; constitutes the **Finance Commission** (वित्त आयोग) |
 | **Judicial** | Appoints judges; seeks **advisory opinion** (Art. 143); **pardoning power** (Art. 72) |
 | **Diplomatic** | Treaties/agreements negotiated in his name; appoints & receives diplomats |
 | **Military** | **Supreme Commander** of the Defence Forces; appoints chiefs (actual power regulated by law) |
@@ -402,7 +402,7 @@ D. (A) is false, but (R) is true
 
 - Term is **five years** (**Article 67**). Re-election is allowed.
 - Resignation is by writing under his hand addressed to the **President** (**Article 67(a)**).
-- Removal is **not** called impeachment. Under **Article 67(b)**, a resolution of the **Rajya Sabha** passed by a **majority of all the then members** of the Council, and **agreed to by the Lok Sabha**, removes him. At least **fourteen days’ notice** must be given. **No ground** is specified in the text.
+- Removal is **not** called impeachment. Under **Article 67(b)**, a resolution of the **Rajya Sabha** (राज्यसभा) passed by a **majority of all the then members** of the Council, and **agreed to by the Lok Sabha**, removes him. At least **fourteen days’ notice** must be given. **No ground** is specified in the text.
 
 ### Vacancy and Art. 71
 
@@ -519,7 +519,7 @@ D. R. Venkataraman
 - **Art. 78:** duties of the PM — to **communicate** all decisions of the CoM to the President, furnish information, and submit matters for the consideration of the Council when the President so requires.
 - The PM is the **channel of communication** between the President and the CoM, chairs Cabinet meetings, and advises the President on major appointments and dissolution of the Lok Sabha.
 - **Age:** the Constitution does not fix a separate PM age; the practical floor is **25 years** (Lok Sabha eligibility) if the person seeks a Lok Sabha seat, or **30** if only Rajya Sabha membership is intended.
-- A PM who sits only in the **Rajya Sabha** may **speak** in the Lok Sabha but **cannot vote** there — so he cannot vote on a **no-confidence** motion.
+- A PM who sits only in the **Rajya Sabha** may **speak** in the Lok Sabha but **cannot vote** there — so he cannot vote on a **no-confidence** (अविश्वास प्रस्ताव) motion.
 
 > **Logic:** Art. 74 = aid & advise (binding after 44th, one reconsideration). Art. 78 = PM's duty to communicate. A person who is **not a member of either House** can be PM/minister but must become one within **6 months** (Art. 75(5)). Legal name of the Government of India in suits is the **Union of India** (Art. 300).
 
@@ -757,7 +757,7 @@ D. 1, 4, 3, 2
 | **7A** | Holders of **Bharat Ratna** decoration |
 | **8** | Ambassadors / High Commissioners; **Governors outside their States**; **Chief Ministers outside their States** |
 | **9** | **Judges of the Supreme Court** |
-| **9A** | **Chairman, UPSC**; **Chief Election Commissioner**; **Comptroller and Auditor General** |
+| **9A** | **Chairman, UPSC**; **Chief Election Commissioner**; **Comptroller and Auditor General** (नियंत्रक-महालेखापरीक्षक) |
 | **10** | **Deputy Chairman, Rajya Sabha**; **Deputy Speaker, Lok Sabha**; **Ministers of State** (Union); **Deputy Chief Ministers** (within State); NITI Aayog members (as listed) |
 | **11** | **Lieutenant Governors** (within UT); **Cabinet Secretary**; **Attorney General of India**; Principal Scientific Adviser |
 

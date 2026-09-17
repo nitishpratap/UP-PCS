@@ -42,14 +42,14 @@
 5. National Emergency has been used in **1962** (China), **1971** (Pakistan), and **1975–77** (the Internal Emergency, **25 June 1975 to 21 March 1977**).
 6. Under **Article 358**, **Article 19** automatically suspends only when the Emergency is on grounds of **war or external aggression** — **not** for armed rebellion alone. Under **359**, the President may suspend enforcement of named Fundamental Rights, but **Articles 20 and 21** can **never** be suspended (44th Amendment; contrast *ADM Jabalpur*).
 7. After the 44th Amendment, laws or executive action during Emergency need a real **emergency nexus** (**358(2) / 359**). Blanket misuse without nexus is not protected.
-8. **President’s Rule** uses **Article 356**, linked to the Union’s duty under **355** and the directions-gateway under **365**. Parliamentary approval is needed within **two months** by **simple majority** in both Houses.
+8. **President’s Rule** uses **Article 356** (अनुच्छेद 356), linked to the Union’s duty under **355** and the directions-gateway under **365**. Parliamentary approval is needed within **two months** by **simple majority** in both Houses.
 9. President’s Rule runs in **six-month** slices. Beyond **one year**, continuation needs a National Emergency in force in India or that State **and** an Election Commission certificate that elections cannot be held. Maximum is normally **three years**.
 10. *S.R. Bommai* (**1994**) made 356 justiciable, insisted on majority on the **floor of the House**, and warned against dissolving the Assembly before Parliament approves the proclamation. The President **cannot** assume High Court powers under 356.
 11. The first use of President’s Rule was in **Punjab in 1951**. Mass misuse is especially remembered around **1977** and **1980**.
 12. **Financial Emergency (360)** is for a threat to India’s financial stability or credit. It has **never been used**. Approval window is **two months** by simple majority; it then continues until revoked — there is **no** six-month renewal clock like 352/356.
 13. During a Financial Emergency the Centre may give directions on financial propriety, reduce salaries even of judges, and require State money bills to be reserved.
 14. **Martial law** is military control in a locality, with indemnity possible under **Article 34**. It is **not** a substitute for National Emergency. Under 352 the civilian Constitution continues with emergency overlays.
-15. While a National Emergency is on, **Article 250** lets Parliament legislate on the **State List**. Under **353** the Union may direct States on almost any matter — a strong unitary tilt. **354** lets the President modify Centre–State revenue sharing during 352.
+15. While a National Emergency is on, **Article 250** lets Parliament legislate on the **State List** (राज्य सूची). Under **353** the Union may direct States on almost any matter — a strong unitary tilt. **354** lets the President modify Centre–State revenue sharing during 352.
 16. State Assembly life can be extended by **one year at a time** during a National Emergency (**Article 172**), subject to the usual outer limits after Emergency ends.
 17. Election petitions and the **Article 329** bar continue to matter even in Emergency contexts — Emergency does not invent a free-for-all over electoral disputes.
 18. Special majority for **352** approval is harder than the **simple majority** used for **356** and **360**. Approval time is **one month** for 352 and **two months** for 356/360.
@@ -136,7 +136,7 @@ Emergency Provisions sit in **Part XVIII** (Arts. **352–360**).
 | **FR hit** | **358 / 359** | **No** automatic FR suspend | **No** FR suspend |
 | **Federal hit** | Union directions · **250** State-List laws · **354** revenues · LS life +1 year (83(2)) | President assumes State executive; LA suspended/dissolved; Parliament/President legislates for the State (**357**) | Union directions on financial propriety; salary cuts (incl. **judges**); State money bills reserved |
 
-**Extension of 356 beyond one year (44th):** A **352** proclamation must be in operation in the whole of India **or** that State, **and** the **Election Commission** must certify that elections cannot be held. Then 356 continues in six-month slices up to a maximum of **3 years**.
+**Extension of 356 beyond one year (44th):** A **352** proclamation must be in operation in the whole of India **or** that State, **and** the **Election Commission** (निर्वाचन आयोग) must certify that elections cannot be held. Then 356 continues in six-month slices up to a maximum of **3 years**.
 
 ---
 
@@ -147,10 +147,10 @@ Emergency Provisions sit in **Part XVIII** (Arts. **352–360**).
 - The grounds today are **war**, **external aggression**, and **armed rebellion**.
 - The **44th Amendment** replaced the older ground of **“internal disturbance”** after the 1975 Emergency.
 - A 352 proclamation may cover the **whole of India** or only a **part**.
-- The **38th Amendment** first allowed this territorial limit; the **44th** kept it.
+- The **38th Amendment** first allowed this territorial limit; the **44th Amendment** (44वां संशोधन) kept it.
 - The President needs a **written** recommendation of the **Union Cabinet** (44th Amendment).
 - On **25 June 1975**, the Emergency was proclaimed on the Prime Minister’s advice **without** a Cabinet meeting — that is the key fact.
-- Each House must approve by a majority of its **total membership** and by **two-thirds of members present and voting**.
+- Each House must approve by a majority of its **total membership** (सदन की कुल सदस्य संख्या का) and by **two-thirds of members present and voting**.
 - The life of the Lok Sabha may be extended **one year at a time** during 352.
 - That extension cannot go beyond **six months** after the Emergency ends (**Art. 83(2)**).
 - Under **Art. 250**, Parliament may make laws on the **State List** for the emergency area.
@@ -172,7 +172,7 @@ Emergency Provisions sit in **Part XVIII** (Arts. **352–360**).
 
 **Federal tilt while 352 is on:** Union directions, State-List laws, revenue tweaks — and Union law prevails in a clash.
 
-- **Art. 353:** The Union may give **directions** to States on any matter, and Parliament may make laws as if the matter were on the **Union List**.
+- **Art. 353:** The Union may give **directions** to States on any matter, and Parliament may make laws as if the matter were on the **Union List** (संघ सूची).
 - **353 proviso (44th):** If 352 is confined to a **part** of India, directions or laws for **other** States are allowed only as required for that Emergency.
 - **Art. 354:** The President may modify **revenue distribution** (Arts. 268–279) while 352 is on; the order is laid in Parliament.
 - **Art. 250:** Parliament’s **State-List** power for the emergency area; the law dies **six months** after 352 ends.
@@ -243,7 +243,7 @@ D. (A) is true, but (R) is false
 | Laid in Parliament | Not a 358 order (automatic) | **359 order must be laid** before each House |
 | 32 | Empty for Art. 19 while 358 runs | May be barred for the **named** FRs (never for 20/21) |
 
-- In *ADM Jabalpur* (1976, *habeas corpus*), the majority held that even Art. **21** could sleep during Emergency.
+- In *ADM Jabalpur* (1976, *habeas corpus* (बन्दी प्रत्यक्षीकरण)), the majority held that even Art. **21** could sleep during Emergency.
 - The **44th Amendment** overruled that result politically by locking Arts. **20 and 21**.
 - *Justice H.R. Khanna*’s dissent in *ADM Jabalpur* is the name.
 - Later benches restored the *Khanna* line in spirit (*IR Coelho* and related holdings).

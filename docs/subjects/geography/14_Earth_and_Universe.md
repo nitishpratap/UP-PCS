@@ -5,7 +5,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Origin of Universe | Solar System | Earth System (spheres / **rock cycle**) | Motions of Earth | Latitude | Longitude | Time | Time Zones | IDL | Atmosphere | Weather & Climate | Global Warming | El Niño | Coriolis | Jet Stream | Pressure Belts | Planetary Winds | ITCZ | Interior of the Earth | Continental Drift | Plate Tectonics | Fold & Fault Mountains | **Igneous · Sedimentary · Metamorphic** | Volcano Types | **Earthquakes · seismic waves · tsunami** | Earthquake & Volcano Belts
+Origin of Universe | Solar System | Earth System (spheres / **rock cycle**) | Motions of Earth | Latitude | Longitude | Time | Time Zones | IDL | Atmosphere | Weather & Climate | Global Warming (भूमंडलीय तापन) | El Niño (अल नीनो) | Coriolis | Jet Stream | Pressure Belts | Planetary Winds | ITCZ | Interior of the Earth | Continental Drift | Plate Tectonics | Fold & Fault Mountains | **Igneous · Sedimentary · Metamorphic** | Volcano Types | **Earthquakes · seismic waves · tsunami (सुनामी)** | Earthquake & Volcano Belts
 </details>
 
 > **Sources baked in:** NCERT Class 6–11 (Earth, atmosphere, interior, plates), PWOnlyIAS / Drishti, **Ghatnachakra** World Geography (Universe–Solar–Earth + Rocks / Volcanoes + **Earthquakes** CB–58+; **Atmosphere–Insolation–Cyclones–Humidity–Pressure–Clouds–Winds** CB–164+), UPPCS Prelims 2018–2025
@@ -22,8 +22,8 @@ Origin of Universe | Solar System | Earth System (spheres / **rock cycle**) | Mo
 |------|------|-----------|--------|
 | **2013–14** | Mangalyaan / MOM | First Indian Mars orbiter (2024) | ISRO |
 | **2023** | Aditya-L1 | Solar mission — not Mars | ISRO |
-| **1987 / 1997** | Montreal vs Kyoto | Ozone vs climate | UNEP / UNFCCC |
-| **2015** | Paris Agreement | NDC successor to Kyoto path | UNFCCC |
+| **1987 / 1997** | Montreal vs Kyoto (क्योटो) | Ozone vs climate | UNEP (संयुक्त राष्ट्र पर्यावरण कार्यक्रम) / UNFCCC (यूएनएफसीसीसी) |
+| **2015** | Paris Agreement (पेरिस समझौता) | NDC successor to Kyoto path | UNFCCC |
 | **2018** | Science — Mars subglacial lake | 2018 Q85 | Science |
 | **2026** | El Niño tendency vs Indian monsoon | IMD |
 
@@ -43,7 +43,7 @@ D. Jupiter
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Farthest planet among the four has the longest year.
+**Logic:** Farthest planet among the four (चातुर्याम) has the longest year.
 
 **Ans: C (Series B provisional key).** Neptune (~165 Earth years) outranks Uranus, Saturn and Jupiter.
 
@@ -63,29 +63,29 @@ D. Jupiter
 7. Earth **rotates** in about **24 hours** (day–night) and **revolves** in about **365¼ days** (year / leap year). **Perihelion** is about **3–4 January**; **aphelion** about **4 July**.
 8. Seasons are caused by the **23½° axial tilt**, not by perihelion distance. Equinoxes are about **21 March / 23 September**; solstices about **21 June / 22 December**.
 9. One degree of latitude is about **111 km**. Tropics sit at **23½°**; polar circles at **66½°**. Time zones use roughly **15° = 1 hour**. **0° latitude and 0° longitude** meet in the **Atlantic** (Gulf of Guinea).
-10. India’s Standard Time is based on **82°30′ E** near **Mirzapur** and is **GMT + 5 hours 30 minutes** for the whole country. The International Date Line is near **180°** (zigzag); the west side is a day ahead.
-11. Atmosphere layers: **troposphere** holds weather; **stratosphere** holds the **ozone** UV shield and is nearly weather-free (**ideal for jet flight**); mesosphere is coldest; **ionosphere** reflects radio waves and hosts auroras; **exosphere** hosts communication satellites.
-12. Earth’s atmosphere is heated mainly by **long-wave terrestrial radiation**, not by direct short-wave alone. Normal lapse rate is about **6.5°C/km**. Permanent gases = **N₂, O₂, Ar**; CO₂ / O₃ / vapour vary. Albedo = **reflecting** power (fresh snow highest). Max heating belt often ~**20°N**. Same-latitude Agra vs Darjeeling contrast is an **altitude** fact. Cyclone names: Hurricane–USA, Typhoon–China Sea, Willy-Willy–Australia, Baguio–Philippines. Tornado scale = **Fujita**; hurricane = **Saffir–Simpson**.
+10. India’s Standard Time is based on **82°30′ E** near **Mirzapur** (मिर्ज़ापुर) and is **GMT + 5 hours 30 minutes** for the whole country. The International Date Line is near **180°** (zigzag); the west side is a day ahead.
+11. Atmosphere layers: **troposphere** (क्षोभमंडल) holds weather; **stratosphere** (समतापमंडल) holds the **ozone** UV shield and is nearly weather-free (**ideal for jet flight**); mesosphere (मध्यमंडल) is coldest; **ionosphere** reflects radio waves and hosts auroras; **exosphere** hosts communication satellites.
+12. Earth’s atmosphere is heated mainly by **long-wave terrestrial radiation (भौमिक विकिरण)**, not by direct short-wave alone. Normal lapse rate is about **6.5°C/km**. Permanent gases = **N₂, O₂, Ar**; CO₂ / O₃ / vapour vary. Albedo = **reflecting** power (fresh snow highest). Max heating belt often ~**20°N**. Same-latitude Agra vs Darjeeling contrast is an **altitude** fact. Cyclone names: Hurricane–USA, Typhoon–China Sea, Willy-Willy (विली-विली)–Australia, Baguio–Philippines. Tornado scale = **Fujita**; hurricane = **Saffir–Simpson**.
 13. Diffusion / scattering of light is linked to **dust** in one Prelims set. **Weather** is short-term; **climate** is the long-term average.
-14. Greenhouse gases include water vapour, CO₂, CH₄, N₂O, O₃ and CFCs. **Argon is not** a greenhouse gas. **Kyoto** deals with climate / carbon; **Montreal** deals with ozone.
+14. Greenhouse gases include water vapour, CO₂, CH₄, N₂O, O₃ and CFCs. **Argon is not** a greenhouse gas. **Kyoto** (क्योटो) deals with climate / carbon; **Montreal** deals with ozone.
 15. **El Niño** is a warm eastern Pacific / Peru current phase with **less upwelling**, so **plankton and fish fall**. It can disturb the Indian monsoon.
 16. Coriolis deflects to the **right in the Northern Hemisphere** and to the **left in the Southern Hemisphere**. It is zero at the equator (Ferrel’s law).
-17. Jet streams are mainly high-altitude **westerlies** (polar jet and subtropical jet). The **Tropical Easterly Jet (TEJ)** is the summer easterly exception. Speeds can reach **300–500 km/h**. “All jets are easterly” is false.
-18. Pressure belts: ITCZ / equatorial **low** (doldrums); subtropical **high** near **30°** (horse latitudes); subpolar low near **60°**; polar high. Planetary winds are trades, westerlies and polar easterlies.
+17. Jet streams are mainly high-altitude **westerlies** (polar jet and subtropical jet). The **Tropical Easterly Jet (TEJ (उष्णकटिबंधीय पूर्वी जेट))** is the summer easterly exception. Speeds can reach **300–500 km/h**. “All jets are easterly” is false.
+18. Pressure belts: ITCZ / equatorial **low** (doldrums (डोलड्रम)); subtropical **high** near **30°** (horse latitudes (हॉर्स अक्षांश)); subpolar low near **60°**; polar high. Planetary winds are trades, westerlies and polar easterlies.
 19. **Roaring Forties** are strong westerlies near **40°S** (with Furious Fifties / Shrieking Sixties farther south). The ITCZ is a **low**; belts shift with the solstice seasons.
 20. Interior shells: **Sial** (continental crust), **Sima** (oceanic crust), **Nife** (core). Discontinuities: crust–**Moho**–mantle–**Gutenberg** (~2900 km, S-wave stop)–**Lehmann**–inner core.
-21. P-wave shadow is about **103–142°**; S-wave shadow lies beyond about **103°** because the outer core is liquid.
+21. P-wave shadow (छाया) is about **103–142°**; S-wave shadow lies beyond about **103°** because the outer core is liquid.
 22. **Wegener (1912)** proposed continental drift with **Pangaea** and **Panthalassa**. Plate margins are divergent, convergent or transform. New ocean crust forms by **sea-floor spreading**.
-23. **Fold mountains** include the Himalaya, Alps, Andes and Rockies. **Fault / block mountains** include the Vosges, Black Forest, Sierra Nevada and Rhine graben.
-24. Volcano types: shield (**Mauna Loa**), composite (**Fuji / Etna / Vesuvius**), cinder (**Paricutin**), fissure (**Deccan**), caldera (**Krakatoa**). **Stromboli** is the “lighthouse of the Mediterranean.” **Barren Island** is India’s only active volcano (Andaman).
+23. **Fold mountains** include the Himalaya (हिमालय), Alps, Andes and Rockies. **Fault / block mountains** include the Vosges, Black Forest, Sierra Nevada and Rhine graben.
+24. Volcano types: shield (**Mauna Loa**), composite (**Fuji / Etna / Vesuvius**), cinder (**Paricutin**), fissure (**Deccan** (दक्कन)), caldera (**Krakatoa**). **Stromboli** is the “lighthouse of the Mediterranean.” **Barren Island** is India’s only active volcano (Andaman (अंडमान)).
 25. Match pairs: **Rainier = USA**, **Etna = Italy**, **Paricutin = Mexico**, **Apo = Philippines**. **Kilimanjaro** is East African Rift, **not** Ring of Fire.
 26. Earthquake–volcano belts include the Pacific **Ring of Fire**, Mid-Atlantic Ridge, Alpine–Himalayan belt and East African Rift. India’s seismic map uses Zones II–V.
 27. Earth’s spheres — lithosphere, atmosphere, hydrosphere and biosphere — interact. Rocks cycle among igneous, sedimentary and metamorphic states.
-28. Heat budget: about **35**/100 of insolation is reflected (albedo) and about **51**/100 reaches the surface; surface heating then returns as **long-wave** radiation.
-29. Nuclear and geothermal energy are **not** forms of stored solar energy. India’s Tropic of Cancer runs through the **middle** of the country — India is not wholly tropical and is not split into equal tropical halves by that line alone.
+28. Heat budget: about **35**/100 of insolation (सूर्यताप) is reflected (albedo) and about **51**/100 reaches the surface; surface heating then returns as **long-wave** radiation.
+29. Nuclear and geothermal energy (भू-तापीय ऊर्जा) are **not** forms of stored solar energy. India’s Tropic of Cancer (कर्क रेखा) runs through the **middle** of the country — India is not wholly tropical and is not split into equal tropical halves by that line alone.
 30. Pluto was reclassified as a **dwarf planet** by the IAU in **2006**. Neptune is the farthest true planet and the coldest among the eight.
 31. The Moon always shows roughly the same face because its rotation period ≈ its revolution (~**27.3 days**). Weight on the Moon is about **1/6** of weight on Earth. Apollo 11 landed in the **Sea of Tranquillity (1969)**.
-32. Light-year measures **distance**. Star colour tracks **temperature**. Brittle star is **not** an astronomical object. Earth Day is **22 April**.
+32. Light-year measures **distance**. Star colour tracks **temperature**. Brittle star is **not** an astronomical object. Earth Day (पृथ्वी दिवस) is **22 April**.
 33. **Igneous** = cooled magma/lava (no fossils); **sedimentary** = layered + fossils; **metamorphic** = heat/pressure remake. Granite → **gneiss**; limestone → **marble**; sandstone → **quartzite**; shale → **slate**.
 34. Most abundant volcanic gas is **water vapour**. Magma is underground; lava is surface melt. **Stromboli** = Mediterranean lighthouse; **Barren Island** = India’s only confirmed active volcano; Circum-Pacific / **Ring of Fire** has the densest volcanic belt.
 35. Earthquake **focus/hypocentre** is the rupture point; **epicentre** is the surface point above it. **P** waves are fastest (all states of matter); **S** waves solids only; surface waves are slowest and most damaging. **Richter** = magnitude (~10× amplitude / ~32× energy per step); **Mercalli** = intensity.
@@ -269,7 +269,7 @@ Order from the Sun: **Mercury – Venus – Earth – Mars – Jupiter – Satur
 ### Sun-centred model
 
 - The modern **heliocentric** model is linked to **Nicolaus Copernicus** (*Commentariolus* / *De revolutionibus*).
-- Coaching notes sometimes also mention an earlier Indian astronomical tradition associated with **Varahamihira**, but Copernicus remains the standard European propounder pair for heliocentrism.
+- Coaching notes sometimes also mention an earlier Indian astronomical tradition associated with **Varahamihira** (वराहमिहिर), but Copernicus remains the standard European propounder pair for heliocentrism.
 - **Kepler** gave the laws of planetary motion.
 - **Newton** explained orbital motion through **universal gravitation**.
 
@@ -371,8 +371,8 @@ Heat zones run **torrid** between the tropics, **temperate** from each tropic to
 - India holds about **2.4%** of world land area.
 - The Tropic of Cancer runs **through the middle** of India, so India is **not** wholly tropical.
 - A claim that India is split into neat equal latitudinal halves is an overclaim if asked alone.
-- Uttar Pradesh does **not** lie on the Tropic of Cancer.
-- Same latitude does **not** mean same temperature. **Agra** and **Darjeeling** share a latitude belt idea but differ sharply because of **altitude** and thinner hill air.
+- Uttar Pradesh (उत्तर प्रदेश) does **not** lie on the Tropic of Cancer.
+- Same latitude does **not** mean same temperature. **Agra** (आगरा) and **Darjeeling** share a latitude belt idea but differ sharply because of **altitude** and thinner hill air.
 
 ### Great circles, 0°–0°, and field tricks
 
@@ -394,7 +394,7 @@ Ecuador, Colombia, Brazil, São Tomé and Príncipe, Gabon, Republic of the Cong
 
 **Tropic of Cancer (~23½° N)** — 17 countries / territories usually listed:
 
-Mexico, Bahamas, Western Sahara, Mauritania, Mali, Algeria, Niger, Libya, Egypt, Saudi Arabia, United Arab Emirates, Oman, India, Bangladesh, Myanmar, China, Taiwan.
+Mexico, Bahamas, Western Sahara, Mauritania, Mali, Algeria, Niger, Libya, Egypt (मिस्र), Saudi Arabia, United Arab Emirates, Oman, India, Bangladesh, Myanmar, China, Taiwan.
 
 - **Not** on Cancer: **Iran** (classic wrong option).
 
@@ -434,7 +434,7 @@ Meridians meet at the poles. The **Prime Meridian** is **0°** longitude through
 
 **Prime Meridian (0° longitude) land countries — complete coaching list:**
 
-United Kingdom, France, Spain, Algeria, Mali, Burkina Faso, Togo, Ghana.
+United Kingdom, France, Spain, Algeria, Mali, Burkina Faso, Togo, Ghana (घन).
 
 The meridian also crosses Antarctic territory, but the usual country-match set is the eight names above. **Niger** and **Nigeria** are classic wrong options.
 
@@ -462,7 +462,7 @@ The **atmosphere** is the envelope of gases held around Earth by gravity. Most o
 | **Nitrogen (N₂)** | **~78.08%** | Most abundant gas in dry air |
 | **Oxygen (O₂)** | **~20.95%** | Needed for respiration and combustion |
 | **Argon (Ar)** | **~0.93%** | Main noble gas; **not** a greenhouse gas |
-| **Carbon dioxide (CO₂)** | **~0.04%** (~400 ppm class) | Trace greenhouse gas that varies with season and human activity |
+| **Carbon dioxide (CO₂)** (कार्बन डाइऑक्साइड) | **~0.04%** (~400 ppm class) | Trace greenhouse gas that varies with season and human activity |
 | Neon, helium, methane, krypton, hydrogen, etc. | Trace | Very small permanent or near-permanent fractions |
 
 Water vapour is **not** fixed in the dry-air table. Its share is **variable**. It can sit near **0%** over cold deserts and rise to about **4%** over warm humid air.
@@ -505,7 +505,7 @@ Abundance order for dry air is **nitrogen**, then **oxygen**, then **argon**, th
 - The **thermosphere** heats strongly with height. The **ionosphere** in this region reflects radio waves and hosts the **aurora**.
 - The **exosphere** is the outermost fringe that merges into space.
 
-### Homosphere and heterosphere
+### Homosphere (सममंडल) and heterosphere (विषममंडल)
 
 | Zone | Rough extent | Mixing |
 |------|--------------|--------|
@@ -518,8 +518,8 @@ Abundance order for dry air is **nitrogen**, then **oxygen**, then **argon**, th
 |------|---------|
 | Main atmospheric heating | **Long-wave terrestrial** radiation from Earth’s surface |
 | Ozone maximum / UV shield | **Stratosphere** |
-| Ozone hole focus | **Antarctica** in spring |
-| Montreal Protocol | Cut **CFCs** on the ozone path (not the Kyoto climate path) |
+| Ozone hole (ओजोन छिद्र) focus | **Antarctica** in spring |
+| Montreal Protocol (मॉन्ट्रियल प्रोटोकॉल) | Cut **CFCs** on the ozone path (not the Kyoto climate path) |
 | Normal lapse (troposphere) | Temperature falls about **6.5°C** per km |
 | Temperature inversion | Temperature rises with height in a short layer |
 
@@ -527,7 +527,7 @@ Abundance order for dry air is **nitrogen**, then **oxygen**, then **argon**, th
 - Short-wave insolation warms the ground first.
 - The ground then emits **long-wave** infrared, and the lower air absorbs that long-wave.
 - The **ozone hole** is strongest over **Antarctica** in spring.
-- The **Montreal Protocol** cut CFCs that destroy stratospheric ozone.
+- The **Montreal Protocol** (मॉन्ट्रियल प्रोटोकॉल) cut CFCs that destroy stratospheric ozone (समतापमंडलीय ओजोन).
 - **Kyoto** deals with climate and greenhouse gases, not the ozone protocol path.
 - In a **temperature inversion**, the normal lapse is reversed for a short height band.
 - Inversions are common on calm valley nights and near some fronts, and they can trap smoke and pollution near the ground.
@@ -538,7 +538,7 @@ Abundance order for dry air is **nitrogen**, then **oxygen**, then **argon**, th
 With reference to the ozone layer, which of the following statements is/are correct?
 
 1. It protects the Earth’s surface from solar ultraviolet radiation.
-2. Its depletion has been linked to chlorofluorocarbons (CFCs).
+2. Its depletion has been linked to chlorofluorocarbons (CFCs) (सीएफसी).
 
 A. 1 only
 
@@ -602,7 +602,7 @@ Maximum surface heating often sits near **~20°N**, not exactly on the equator. 
 |---------|----------------|
 | Fresh snow | **75–95%** |
 | Deserts | **20–30%** |
-| Prairie / grassland | **10–20%** |
+| Prairie (प्रेयरी) / grassland | **10–20%** |
 | Paddy / dark wet fields | **3–15%** |
 | Earth mean (planetary) | ~**30%** |
 
@@ -633,8 +633,8 @@ Of **100** units of insolation at the top of the atmosphere:
 
 ### Humidity terms — Teaching Card
 
-- **Absolute humidity** is the **mass of water vapour** in a given **volume** of air — how many grams of vapour sit in a cubic metre.
-- **Relative humidity** is that vapour expressed as a **percentage of saturation** at the **same temperature** — how full the air is compared with what it could hold.
+- **Absolute (निरपेक्ष) humidity** (निरपेक्ष) is the **mass of water vapour** in a given **volume** of air — how many grams of vapour sit in a cubic metre.
+- **Relative (सापेक्ष) humidity** (सापेक्ष आर्द्रता) is that vapour expressed as a **percentage of saturation** at the **same temperature** — how full the air is compared with what it could hold.
 - **Specific humidity** is the mass of vapour per unit mass of **moist air** — useful because it stays steadier when air expands or contracts.
 - Relative humidity **falls as temperature rises** if the vapour mass stays the same, because warmer air can hold more water before saturation.
 - Moisture generally **decreases with latitude**.
@@ -659,7 +659,7 @@ Of **100** units of insolation at the top of the atmosphere:
 
 ## N.6C Clouds
 
-A **cloud** is a visible mass of tiny water droplets, ice crystals, or both, suspended in the air. Clouds form when moist air cools to **saturation** and water vapour **condenses** on condensation nuclei such as dust, salt or smoke particles.
+A **cloud** is a visible mass of tiny water droplets, ice crystals, or both, suspended in the air. Clouds form when moist air cools to **saturation** and water vapour **condenses** on condensation nuclei such as dust, salt (लवणाध्यक्ष) or smoke particles.
 
 ### How clouds form
 
@@ -797,7 +797,7 @@ An **anticyclone** is a **high-pressure** centre.
 | | Weather | Climate |
 |--|---------|---------|
 | Time | Hours–days | **~30-year** average |
-| Example | Today’s rain, today’s Loo | Monsoon climate, Mediterranean |
+| Example | Today’s rain, today’s Loo (लू) | Monsoon climate, Mediterranean |
 
 Both share the same **elements**: temperature, pressure, wind, humidity, cloudiness and precipitation. Weather answers “what is happening now.” Climate answers “what is usual for this season and place.”
 
@@ -809,7 +809,7 @@ Why winter rain happens: pressure belts **follow the Sun**. Around the NH **wint
 
 **Where else it occurs (same Cs logic):**
 
-- Classic **Mediterranean Basin** — Spain, southern France, Italy, Greece, coastal North Africa, Levant fringe.
+- Classic **Mediterranean Basin** — Spain, southern France, Italy, Greece, coastal North Africa, Levant (लेवेंट) fringe.
 - **California** west coast (USA).
 - Central **Chile**.
 - **South-west Australia** (Perth belt) and parts of southern Australia.
@@ -846,7 +846,7 @@ D. Neither 1 nor 2
 
 ## N.8 Global Warming
 
-The **natural greenhouse effect** keeps Earth warm enough for life. Greenhouse gases let short-wave insolation in but trap **outgoing long-wave** radiation. **Global warming** is the extra warming from a **rise in greenhouse-gas concentrations** after industrial fossil-fuel use, deforestation and intensive agriculture.
+The **natural greenhouse effect** (प्राकृतिक ग्रीनहाउस प्रभाव) keeps Earth warm enough for life. Greenhouse gases let short-wave insolation in but trap **outgoing long-wave** radiation. **Global warming** is the extra warming from a **rise in greenhouse-gas concentrations** after industrial fossil-fuel use, deforestation and intensive agriculture.
 
 | Is a greenhouse gas | Not a greenhouse gas |
 |---------------------|----------------------|
@@ -864,34 +864,34 @@ The **natural greenhouse effect** keeps Earth warm enough for life. Greenhouse g
 |------------|------|-------|--------------|
 | **Montreal Protocol** | **1987** | **Ozone layer** | Cuts ozone-depleting substances, especially **CFCs** and related chemicals |
 | **Kyoto Protocol** | **1997** | **Climate / GHG** | Sets binding emission cuts for listed greenhouse gases and frames **carbon credits** |
-| **Paris Agreement** | **2015** | **Climate / NDCs** | Each country files Nationally Determined Contributions under the UNFCCC path |
+| **Paris Agreement** (पेरिस समझौता) | **2015** | **Climate / NDCs** | Each country files Nationally Determined Contributions under the UNFCCC path |
 
-**Montreal Protocol (1987)**
+**Montreal Protocol (1987)** (मॉन्ट्रियल प्रोटोकॉल)
 
 - Montreal is an **ozone** treaty, not a climate-mitigation treaty.
 - It targets CFCs and other ozone-depleting substances that destroy stratospheric ozone.
 - The ozone shield itself sits mainly in the **stratosphere**.
 
-**Kyoto Protocol (1997)**
+**Kyoto Protocol (1997)** (क्योटो प्रोटोकॉल)
 
 - Kyoto is a **climate** treaty under the greenhouse-gas path.
 - It deals with CO₂ and other GHGs, not with “saving water.”
-- The idea of **carbon credit** trading is classically linked with Kyoto.
+- The idea of **carbon credit** (कार्बन क्रेडिट) trading is classically linked with Kyoto.
 
-**Paris Agreement (2015)**
+**Paris Agreement (2015)** (पेरिस समझौता)
 
 - Paris continues the climate path after Kyoto.
 - Countries submit **Nationally Determined Contributions (NDCs)** stating how they will cut or control emissions.
-- Paris is still about climate and GHGs. It is not an ozone protocol and not a wetland or wildlife trade treaty.
+- Paris is still about climate and GHGs. It is not an ozone protocol and not a wetland or wildlife trade (पण्याध्यक्ष) treaty.
 
 **Common traps**
 
 | Wrong pairing | Correct |
 |---------------|---------|
 | Kyoto → save water | Kyoto → climate / GHG / carbon credit |
-| Montreal → climate mitigation | Montreal → ozone / CFCs |
-| Ramsar → climate mitigation | Ramsar → wetlands |
-| CITES → climate mitigation | CITES → wildlife trade |
+| Montreal → climate mitigation (जलवायु शमन) | Montreal → ozone / CFCs |
+| Ramsar (रामसर) → climate mitigation | Ramsar → wetlands |
+| CITES (साइट्स) → climate mitigation | CITES → wildlife trade |
 | Paris → ozone CFCs | Paris → climate NDCs |
 
 Montreal protects the ozone layer. Kyoto and Paris address climate greenhouse gases. Do not swap those families.
@@ -914,7 +914,7 @@ D. Kyoto Protocol — Save water
 
 **Logic:** The stem asks for the **wrong** pair. Three protocols are matched to their true themes. Kyoto is climate / GHG, so “save water” is the false match.
 
-**Ans: D.** Kyoto deals with climate change and greenhouse gases, including the carbon-credit idea. It does **not** deal with saving water. Trap: Montreal correctly pairs with the ozone layer, so do not mark C.
+**Ans: D.** Kyoto deals with climate change (जलवायु परिवर्तन) and greenhouse gases, including the carbon-credit idea. It does **not** deal with saving water. Trap: Montreal correctly pairs with the ozone layer, so do not mark C.
 
 </details>
 
@@ -964,7 +964,7 @@ Among major emitters, coaching ranks often run **China > USA > India** (India ab
 
 ---
 
-## N.9 El Niño · La Niña · ENSO
+## N.9 El Niño · La Niña (ला नीना) · ENSO
 
 **ENSO** (El Niño–Southern Oscillation) is the coupled ocean–atmosphere swing of the **equatorial Pacific**. The **Southern Oscillation** is the **Darwin–Tahiti** pressure see-saw.
 
@@ -982,7 +982,7 @@ Among major emitters, coaching ranks often run **China > USA > India** (India ab
 - Warm water spreads into the **eastern Pacific**. A warm current appears off **Peru**.
 - Eastern upwelling **weakens**, so **plankton and fish catch fall** — the warm water does **not** increase Peruvian plankton.
 - Heavy rain and floods can hit the normally dry west coast of South America.
-- Drought risk rises over parts of **Indonesia, Australia** and sometimes **India’s monsoon** timing/strength.
+- Drought (सूखा) risk rises over parts of **Indonesia, Australia** and sometimes **India’s monsoon** timing/strength.
 - The Walker cell **breaks or reverses**.
 - A **strong / “super” El Niño** is simply an intense version of the same eastern warming and upwelling collapse. Recent strong events (for example **2015–16** and **2023–24**) are living CA reminders — teach the mechanism, not only one year’s headline.
 
@@ -1062,7 +1062,7 @@ D. Pressure alone
 
 **Jet streams** are narrow ribbons of very fast wind in the upper troposphere, often near the **200–300 hPa** level. They form where strong temperature contrasts create steep pressure gradients aloft.
 
-The main **polar jet** and the **subtropical westerly jet (STWJ)** both blow from **west to east**. Speeds are often **300–500 km/h**. Pilots and WWII meteorology first mapped these cores as high-altitude **westerlies**, not as a global easterly belt.
+The main **polar jet** and the **subtropical westerly jet (STWJ (पश्चिमी जेट))** both blow from **west to east**. Speeds are often **300–500 km/h**. Pilots and WWII meteorology first mapped these cores as high-altitude **westerlies**, not as a global easterly belt.
 
 Over India, the subtropical westerly jet sits south of the Himalaya in winter and helps winter western disturbances. In the southwest monsoon season that jet weakens or shifts, and a **Tropical Easterly Jet (TEJ)** appears near about **14°N** in the upper troposphere. TEJ is the important **easterly** exception; it must not be used to call all jets easterly.
 
@@ -1123,8 +1123,8 @@ Pressure belts **follow the Sun**. They shift **north** in Northern Hemisphere s
 
 ### Local mountain winds
 
-- A **valley breeze** is **anabatic** — day air flows **upslope**.
-- A **mountain breeze** is **katabatic** — night air flows **downslope**.
+- A **valley breeze** is **anabatic** (आरोही) — day air flows **upslope**.
+- A **mountain breeze** is **katabatic** (अवरोही पवन) — night air flows **downslope**.
 
 ---
 
@@ -1181,7 +1181,7 @@ Oceanic crust is about **5–10 km** thick. Continental crust is about **30–40
 
 - **Pleistocene** is the classic “Great Ice Age” framing in coaching notes.
 - The **Little Ice Age** is often dated about **1300–1870 AD**, with colder winters in Europe and North America.
-- The **Jurassic** is the age of dinosaurs. Indian remains notes include **Raiyoli (Gujarat)** and **Bara Simla / Narmada (Jabalpur)**.
+- The **Jurassic** is the age of dinosaurs. Indian remains notes include **Raiyoli (Gujarat)** and **Bara Simla / Narmada (नर्मदा) (Jabalpur)**.
 - The **Cocos plate** sits between Central America and the Pacific plate.
 
 ---
@@ -1200,7 +1200,7 @@ Oceanic crust is about **5–10 km** thick. Continental crust is about **30–40
 
 At a **divergent** boundary, plates pull apart and new oceanic crust forms along a mid-ocean ridge or a continental rift. At a **convergent** boundary, plates collide. Oceanic crust may **subduct** into a trench, or two continents may collide and raise fold mountains. At a **transform** boundary, plates slide past each other and release energy as earthquakes with little crust created or destroyed.
 
-The **Nazca** plate sinks under South America and builds the **Andes** beside the Peru–Chile trench. A **Benioff** zone is the dipping plane of earthquakes inside a subducting slab. India was once part of **Gondwana**. Its collision with Eurasia still thickens and raises the **Himalaya**.
+The **Nazca** plate sinks under South America and builds the **Andes** beside the Peru–Chile trench. A **Benioff** zone is the dipping plane of earthquakes inside a subducting slab. India was once part of **Gondwana**. Its collision with Eurasia still thickens and raises the **Himalaya** (हिमालय).
 
 ---
 
@@ -1274,7 +1274,7 @@ A volcano is a crustal rupture that lets lava, ash and gases escape from a magma
 |-----|------|
 | **Magma** | Molten rock **below** the surface |
 | **Lava** | Magma that reaches the surface (~600–1200°C); cools to igneous rock |
-| Most abundant volcanic gas | **Water vapour (H₂O)** — then CO₂, SO₂ and others |
+| Most abundant volcanic gas | **Water vapour (H₂O)** (जलवाष्प) — then CO₂, SO₂ and others |
 | Acidic lava | High silica makes it sticky / viscous |
 | Basic lava | Low silica makes it runny / fluid |
 | Caldera | Large collapsed vent / crater |
@@ -1286,7 +1286,7 @@ A volcano is a crustal rupture that lets lava, ash and gases escape from a magma
 | **Composite / strato** | Sticky, explosive; **Fuji, Vesuvius, Etna, Pinatubo, St Helens, Rainier, Cotopaxi** |
 | Cinder cone | Small, steep; **Paricutin** (Mexico) |
 | Caldera | Collapse after blast; **Krakatoa / Krakatau** (Indonesia), Yellowstone |
-| Fissure / flood basalt | **Deccan Trap** |
+| Fissure / flood basalt | **Deccan Trap** (दक्कन ट्रैप) |
 
 - **Mauna Loa** is Earth’s largest volcano by bulk. It also had a strong **2022** eruption.
 
@@ -1371,7 +1371,7 @@ An earthquake is shaking from a sudden release of energy in the **lithosphere**.
 
 **Shadow zones (NCERT):** Seismographs within about **103°** of the epicentre record both P and S waves. **S-waves** are not recorded beyond about **103°** because the liquid outer core stops shear waves. **P-waves** are missing in a belt about **103–142°** because they are refracted at the mantle–core boundary; they reappear beyond about **142°**. A claim that both P and S arrive at *any* distance beyond 105° is **false**.
 
-**Magnitude vs intensity**
+**Magnitude vs intensity** (मर्कली)
 
 | Scale | Measures | Note |
 |-------|----------|-----|
@@ -1407,7 +1407,7 @@ Most earthquakes and volcanoes cluster along **plate boundaries**, not randomly 
 
 The **Circum-Pacific Ring of Fire** follows subduction around the Pacific basin. It holds most of the world’s volcanoes and about nine-tenths of recorded earthquakes. The name is about fire from magma, **not** forest fires. The **Mid-Atlantic** belt follows the divergent mid-ocean ridge and includes Iceland and the Azores. The **Alpine–Himalayan** belt runs from the Mediterranean through the Alps and Caucasus into the **Himalaya**. It is India’s main inland seismic framing because the Indian plate still pushes into Eurasia. The **East African Rift** is a divergent continental rift with volcanoes such as **Kilimanjaro** and Kenya. It is **not** part of the Pacific Ring of Fire. The **Cocos** plate lies between Central America and the Pacific plate and feeds Central American subduction.
 
-India’s official seismic zoning uses **Zones II–V**, with Zone V the highest hazard. The **Prime Minister** chairs the NDMA.
+India’s official seismic zoning uses **Zones II–V**, with Zone V the highest hazard. The **Prime Minister** chairs the NDMA (आपदा प्राधिकरण).
 
 ---
 ## Complete PYQ Bank — Earth & Universe (2018–2025)

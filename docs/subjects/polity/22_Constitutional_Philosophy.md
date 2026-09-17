@@ -29,7 +29,7 @@ Newest first. One event, one fact.
 | **2015** | **NJAC** (99th) struck | Review of an *amendment* = constitutional supremacy, not “judicial coup” as a syllabus answer |
 | **1994** | *Bommai*: secularism = Basic Structure | A communal State government can justify **356**. floor test; don’t dissolve first |
 | **1978** | *Maneka Gandhi* | The due-process *turn*. Art. 21 words unchanged |
-| **1978** | **44th**: Art. **38(2)** inequalities; property out of Part III | Welfare clause thickened; socialism ≠ Art. 31 forever |
+| **1978** | **44th Amendment** (44वां संशोधन): Art. **38(2)** inequalities; property out of Part III | Welfare clause thickened; socialism ≠ Art. 31 forever |
 | **1976** | **42nd** prints **Socialist, Secular, integrity** | Names the ideals; does **not** invent Arts. 25–28 or Part IV |
 | **1973–80** | *Kesavananda* → *Minerva* | Parliamentary sovereignty **refused**; constitutional supremacy **locked**. Secular character already in the BS *list* |
 | **1963** | **16th Amd** — sovereignty and integrity in Art. **19** restrictions + 3rd Schedule oaths | Integrity as a *liberty bound* before the Preamble printed the word (1976) |
@@ -141,7 +141,7 @@ First half: **how the Constitution ties the State down**. Second half: what the 
 **Limited government by a constitution.** The State may do only what the Constitution allows, by the procedure it allows. Having a booklet ≠ constitutionalism.
 
 - India has a **written higher law**: the Constitution ranks above ordinary statutes, under Articles **13** and **245**.
-- **Fundamental Rights** (Part III) create a zone that the State must justify entering before it can act.
+- **Fundamental Rights** (मौलिक अधिकार) (Part III) create a zone that the State must justify entering before it can act.
 - An **independent judiciary** with the power of **judicial review** can say *no* to a statute, an executive order, or — after 1973 — even a destructive constitutional amendment.
 - **Separation of powers and checks** ensure that power is not concentrated in one pocket.
 - The amending power has a **ceiling**: the Constitution's identity cannot be rewritten, as *Kesavananda* held — this is constitutionalism operating against **Parliament itself**.
@@ -160,7 +160,7 @@ First half: **how the Constitution ties the State down**. Second half: what the 
 
 **Fidelity to the Constitution’s norms, not to the street’s “morality”.Not** a phrase in the text. No article, no schedule, no 42nd insert.
 
-- The historian **George Grote**, writing on Athenian history, coined the idea; **Ambedkar** brought it into the Constituent Assembly Debates on **4 November 1948**.
+- The historian **George Grote**, writing on Athenian history, coined the idea; **Ambedkar** (अम्बेडकर) brought it into the Constituent Assembly Debates on **4 November 1948**.
 - Grote's idea was that the majority **restrains itself** and respects **forms and institutions**, instead of ruling by mood.
 - Ambedkar warned that constitutional morality is **not a natural sentiment** — it has to be **cultivated**, because without its diffusion a constitution is only a parchment.
 - Courts have used it to mean holding to the Constitution's own **norms** — representative government, plurality, and dignity — even when the crowd wants otherwise.
@@ -193,7 +193,7 @@ First half: **how the Constitution ties the State down**. Second half: what the 
 
 **Indian working facts**
 
-- **Article 14** guarantees equality, **Article 21** guarantees liberty, and **Articles 32 and 226** give the remedy of judicial review to enforce both.
+- **Article 14** guarantees equality, **Article 21** (अनुच्छेद 21) guarantees liberty, and **Articles 32 and 226** give the remedy of judicial review to enforce both.
 - In *Indira Nehru Gandhi v Raj Narain* (**1975**), the Supreme Court treated the **Rule of Law**, along with free and fair elections, as part of the Basic Structure — so Parliament cannot *amend away* the Rule of Law.
 - Even in the UK, critics like Jennings argued that Dicey's third limb was only a Victorian snapshot of his time — Jennings is not an Indian authority; use him only to remember that **limb 3 is the shaky one**.
 - Rule **by** law is a trap phrase: a statute can still be used as a whip by the ruler. The Rule of Law instead asks whether that statute itself is **subject to** the Constitution.
@@ -223,7 +223,7 @@ Two syllabus bullets. **One fight.**
 |--|----------------------------------|------------------------|
 | Text | Art. **21** — still these words | US **5th** (federal) and **14th** (states) Amendments |
 | Borrowed from | **Japan** (Art. 31) | US Constitution |
-| Classic meaning | If a **validly enacted** law lays down a procedure, deprivation is legal (**lex**) | Courts test the **procedure** *and* whether the law itself is fair (**jus**) |
+| Classic meaning | If a **validly enacted** law lays down a procedure, deprivation is legal (**lex**) | Courts test the **procedure** (प्रक्रिया) *and* whether the law itself is fair (**jus**) |
 | Two US faces | — | **Procedural** due process = hearing, notice, unbiased judge. **Substantive** = even a tidy procedure cannot save an unjust law |
 | CAD | **B.N. Rau** (Constitutional Adviser) had seen US courts strike New-Deal-type laws (*Lochner* era). He warned “due process” would let the SC kill **socio-economic** legislation. Draft therefore took **Japan Art. 31** | The words “due process” were **deliberately not** written |
 
@@ -284,7 +284,7 @@ After *Maneka*, Indian courts do **both** procedural and substantive fairness un
 - Tribunals under **Articles 323A and 323B** were meant to supplement, not substitute, the High Courts — in *L. Chandra Kumar*, the Supreme Court held that the writ jurisdiction of the High Courts under **Articles 226/227** must survive.
 - The dominance of the Lok Sabha over Money Bills is an **internal** hierarchy within the legislature, not the creation of a fourth organ.
 
-> **Logic:** India **has** SOP — **functional**, not US rigidity. Art. 50 is a **DPSP**, not a FR, and it is **not** a complete SOP clause.
+> **Logic:** India **has** SOP — **functional**, not US rigidity. Art. 50 is a **DPSP** (राज्य के नीति निदेशक तत्व), not a FR, and it is **not** a complete SOP clause.
 
 ---
 
@@ -293,7 +293,7 @@ After *Maneka*, Indian courts do **both** procedural and substantive fairness un
 **Each organ can restrain the others.** Separation without teeth is a poster. Checks **complement** SOP; they are not a fourth organ.
 
 - The **judiciary checks the legislature and executive** through **judicial review** of statutes and executive orders, through writs under **Articles 32 and 226**, through the contempt power, and by striking down any amendment that hits the **Basic Structure**.
-- The **legislature checks the executive**: a **no-confidence** motion in the Lok Sabha can bring down the Council of Ministers, and Question Hour, committees, and cut motions keep the executive under scrutiny. Parliament also has an **impeachment** path against the President.
+- The **legislature checks the executive**: a **no-confidence** (अविश्वास प्रस्ताव) motion in the Lok Sabha can bring down the Council of Ministers, and Question Hour, committees, and cut motions keep the executive under scrutiny. Parliament also has an **impeachment** path against the President.
 - The **legislature checks the judiciary** too: judges can be removed only by a special-majority process under **Articles 124(4)/218**, not by a simple whip; Parliament also controls the judiciary's budget and can legislate on its jurisdiction, **subject to the Basic Structure**.
 - The **executive checks the legislature** through its majority control of the legislative timetable, and through **ordinances** under **Articles 123/213** — though an ordinance is **not** a private legislature: it must be laid before the House and expires **six weeks after reassembly** if not approved.
 - The **executive checks the judiciary** through the appointments process (the Supreme Court Collegium is CJI plus four senior judges; the NJAC alternative was struck down on **16 October 2015**) and through the pardoning power under **Articles 72/161**.
@@ -403,7 +403,7 @@ The **word** is 42nd. The **code** is 1950: Arts. **25–28**. Hindi tag: **प�
 | Other face | Art. **15** (no religious discrimination) · Arts. **29–30** (minorities) | — |
 
 - In *Kesavananda Bharati* (**1973**), the Court had already listed **secular character** as part of the Basic Structure.
-- In *S.R. Bommai* (**1994**), the Court applied that fact to **politics**: a State government that uses religion as a tool of power can justify invoking **Article 356**.
+- In *S.R. Bommai* (**1994**), the Court applied that fact to **politics**: a State government that uses religion as a tool of power can justify invoking **Article 356** (अनुच्छेद 356).
 - India is not a theocracy, since there is no State religion; but it is also **not** "anti-religion" — that is the opposite mistake.
 - **Article 44**, a Directive Principle, says the State shall endeavour to secure a Uniform Civil Code. It is a **DPSP**, **not** a Fundamental Right, and is a cousin of the secular *civil-law* idea.
 - The Sabarimala controversy under **Article 25(2)** is a fight between custom and equality that combines secularism with constitutional morality — treat it as its own case, not a restacking of *Bommai*.

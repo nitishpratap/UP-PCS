@@ -11,7 +11,7 @@
 ## Current Affairs (this topic)
 
 - Mobile e-court / digital justice news refreshes the 2025 twin-statement pattern.
-- Seat of the High Court stays **Nainital** — do not relocate it to Dehradun in seat stems.
+- Seat of the High Court stays **Nainital** (नैनीताल) — do not relocate it to Dehradun in seat stems.
 
 ---
 

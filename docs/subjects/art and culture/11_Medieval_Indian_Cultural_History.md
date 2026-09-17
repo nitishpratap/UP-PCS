@@ -1,9 +1,9 @@
-# Topic 11 — Medieval Indian Cultural History
+# Topic 11 — Medieval Indian Cultural History (इतिहास)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Medieval Indian Art | Medieval Indian Architecture | Medieval Indian Literature | Medieval Indian Administration | Akbar's Administration | Cultural Policies of Akbar
+Medieval Indian Art | Medieval Indian Architecture | Medieval Indian Literature | Medieval Indian Administration | Akbar (अकबर)'s Administration | Cultural Policies of Akbar
 
 </details>
 
@@ -15,7 +15,7 @@ Medieval Indian Art | Medieval Indian Architecture | Medieval Indian Literature 
 
 ## Current Affairs
 
-- **Fatehpur Sikri**, the **Taj Mahal**, and **Humayun’s Tomb** remain UNESCO World Heritage monuments. Tomb–city pairs and **Buland Darwaza** still sit in the standing Mughal set.
+- **Fatehpur Sikri** (फतेहपुर सीकरी), the **Taj Mahal** (ताज महल), and **Humayun (हुमायूँ)’s Tomb** remain UNESCO World Heritage (विश्व धरोहर) monuments. Tomb–city pairs and **Buland Darwaza** (बुलंद दरवाज़ा) still sit in the standing Mughal (मुग़ल) set.
 
 
 ---
@@ -23,34 +23,34 @@ Medieval Indian Art | Medieval Indian Architecture | Medieval Indian Literature 
 
 ## Consolidated Must-Score Facts
 
-1. **Humayun** brought Persian masters **Mir Sayyid Ali** and **Abdus Samad. Akbar** built the **kitabkhana** and the illustrated **Razmnama. Jahangir** favoured naturalism under painters such as **Mansur**. Under Aurangzeb many painters left the imperial atelier.
-2. Sultanate architecture spine: **Qutub** under Aibak–Iltutmish, **Alai Darwaza** under the Khaljis, and **Jaunpur Sharqi** work such as **Atala Masjid**.
-3. Mughal architecture spine: **Humayun’s Tomb** at Delhi with **charbagh**, **Fatehpur Sikri** under Akbar, and the **Taj Mahal** under Shah Jahan at Agra.
-4. Tomb locations of the Great Mughals: **Babur** is buried in **Kabul** (Bagh-e Babur), **Humayun** in **Delhi**, **Jahangir** at Shahdara in **Lahore**, and **Shah Jahan** alongside Mumtaz Mahal in **Agra** (Taj Mahal, the only one among these located in Uttar Pradesh).
-5. **Buland Darwaza** at Fatehpur Sikri marks Akbar’s **Gujarat victory**. It is **not** a monument for Jahangir’s birth in **1569**.
-6. **Babur** wrote his memoir (*Tuzuk-i-Baburi*) in **Chagatai Turki**. The Mughal **court language** was **Persian**. Do not swap the two.
-7. **Abul Fazl** wrote the narrative **Akbarnama** and the gazetteer **Ain-i-Akbari. Faizi** was the court poet. **Nakhshabi** wrote the *Tutinama*.
+1. **Humayun** brought Persian (फ़ारसी) masters **Mir Sayyid (सैयद) Ali** and **Abdus Samad. Akbar** built the **kitabkhana** (किताबखाना) and the illustrated **Razmnama (रज्मनामा). Jahangir (जहाँगीर)** favoured naturalism under painters such as **Mansur**. Under Aurangzeb (औरंगजेब) many painters left the imperial atelier.
+2. Sultanate architecture spine: **Qutub** (कुतुब) under Aibak–Iltutmish (इल्तुतमिश), **Alai Darwaza** (अलाई दरवाज़ा) under the Khaljis, and **Jaunpur (जौनपुर) Sharqi** (जौनपुर शर्की) work such as **Atala Masjid** (अटाला मस्जिद).
+3. Mughal architecture spine: **Humayun’s Tomb** at Delhi with **charbagh** (चारबाग़), **Fatehpur Sikri** under Akbar, and the **Taj Mahal** under Shah Jahan (शाहजहाँ) at Agra.
+4. Tomb locations of the Great Mughals: **Babur** (बाबर) is buried in **Kabul** (Bagh-e Babur), **Humayun** in **Delhi**, **Jahangir** (जहाँगीर) at Shahdara in **Lahore**, and **Shah Jahan** alongside Mumtaz Mahal (मुमताज महल) in **Agra** (Taj Mahal, the only one among these located in Uttar Pradesh (उत्तर प्रदेश)).
+5. **Buland Darwaza** at Fatehpur Sikri marks Akbar’s (अकबर) **Gujarat victory**. It is **not** a monument for Jahangir’s birth in **1569**.
+6. **Babur** wrote his memoir (*Tuzuk-i-Baburi* (तुजुक-ए-बाबरी)) in **Chagatai (चगताई) Turki (तुर्की)**. The Mughal **court language** was **Persian**. Do not swap the two.
+7. **Abul Fazl** (अबुल फजल) wrote the narrative **Akbarnama** (अकबरनामा) and the gazetteer **Ain-i-Akbari (आइन-ए-अकबरी). Faizi (फैजी)** was the court poet. **Nakhshabi** wrote the *Tutinama*.
 8. Key Mughal court chronology of deaths: **Faizi (1595) → Sheikh Mubarak (1597) → Abul Fazl (1602) → Prince Daniyal (1604)**.
-9. Sultanate **iqta** gave revenue to a **muqti** to raise troops. **Khalsa** was crown land under **direct** state control. A **jagir** is a revenue assignment, not Khalsa.
-10. Akbar’s **mansab** had **zat** (personal rank) and **sawar** (cavalry contingent). The original mansab system was **not hereditary**.
-11. **Zabt** is measured land assessment. **Dahsala** is Todar Mal’s **ten-year** average revenue system from about **1580**.
-12. The copper **dam** continued from Sher Shah into Akbar’s currency. Akbar organised about **15 subas** in the mature empire map used s.
-13. **Ibadat Khana** debates began at Fatehpur Sikri in **1575. Sulh-i-kul** was the public peace policy. **Din-i-Ilahi** of **1582** was a private fellowship, not a state religion.
-14. Akbar abolished **jizya** in **1564**. The **Mahzar** of **1579** asserted Akbar’s authority in religious disputes.
-15. Celebrated members of Akbar's nine jewels (*Navaratnas*) include musical maestro **Tansen** (recruited from King Ramchandra of Rewa/Bhata), finance minister **Raja Todar Mal**, court wit **Birbal** (Mahesh Das), chief ideologue **Abul Fazl**, and poet laureate **Faizi**.
-16. Uttar Pradesh architecture: **Jaunpur** Sharqi (Atala, Lal Darwaza), **Agra** Fort–Itimad-ud-Daulah–Taj–Ram Bagh, and **Fatehpur Sikri** (Buland Darwaza, Ibadat Khana, Salim Chishti).
-17. **Tulsidas** wrote the Awadhi *Ramcharitmanas* in Akbar’s age. **Kavindra Acharya** of Banaras is linked to Shah Jahan’s court culture.
+9. Sultanate **iqta** (इक्ता) gave revenue to a **muqti** (मुक़्ती) to raise troops. **Khalsa** (खालसा) was crown land under **direct** state control. A **jagir** (जागीर) is a revenue assignment, not Khalsa.
+10. Akbar’s **mansab** (मनसब) had **zat** (जात) (personal rank) and **sawar** (सवार) (cavalry contingent). The original mansab system was **not hereditary** (गैर-वंशानुगत).
+11. **Zabt** (जब्त) is measured land assessment. **Dahsala** (दहसाला) is Todar Mal (टोडर मल)’s **ten-year** average revenue system from about **1580**.
+12. The copper **dam** (दाम -) continued from Sher Shah (शेरशाह) into Akbar’s currency. Akbar organised about **15 subas** in the mature empire map used s.
+13. **Ibadat Khana** (इबादत खाना) debates began at Fatehpur Sikri in **1575. Sulh-i-kul (सुलह-ए-कुल)** was the public peace policy. **Din-i-Ilahi** (दीन-ए-इलाही) of **1582** was a private fellowship, not a state religion.
+14. Akbar abolished **jizya** (जज़िया) in **1564**. The **Mahzar** of **1579** asserted Akbar’s authority in religious disputes.
+15. Celebrated members of Akbar's nine jewels (*Navaratnas*) include musical maestro **Tansen** (तानसेन) (recruited from King Ramchandra of Rewa/Bhata), finance minister **Raja (राजा) Todar Mal**, court wit **Birbal** (बीरबल) (Mahesh Das), chief ideologue **Abul Fazl**, and poet laureate **Faizi** (फैजी).
+16. Uttar Pradesh architecture: **Jaunpur** Sharqi (Atala, Lal Darwaza), **Agra** Fort–Itimad-ud-Daulah (इतिमाद-उद-दौला)–Taj–Ram Bagh, and **Fatehpur Sikri** (Buland Darwaza, Ibadat Khana, Salim Chishti (चिश्ती)).
+17. **Tulsidas** (तुलसीदास) wrote the Awadhi (अवधी) *Ramcharitmanas* (रामचरितमानस) in Akbar’s age. **Kavindra Acharya** of Banaras is linked to Shah Jahan’s court culture.
 18. These are **not** UP tombs: Babur at Kabul, Jahangir at Lahore, Humayun at Delhi.
-19. Medieval painting moved from Sultanate book-art into the Mughal **kitabkhana**, then outward to Rajput and Pahari courts as imperial patronage shifted.
-20. **Alai Darwaza** is an Alauddin Khalji gateway at the Qutub complex. It is not a Sharqi Jaunpur monument.
+19. Medieval painting moved from Sultanate book-art into the Mughal **kitabkhana**, then outward to Rajput (राजपूत) and Pahari (पहाड़ी) courts as imperial patronage shifted.
+20. **Alai Darwaza** is an Alauddin Khalji (अलाउद्दीन खिलजी) gateway at the Qutub complex. It is not a Sharqi Jaunpur monument.
 21. **Fatehpur Sikri** is Akbar’s planned capital near Agra. It holds Buland Darwaza and the Ibadat Khana, not Shah Jahan’s Taj.
-22. **Akbarnama** tells the reign story. **Ain-i-Akbari** is the administrative and statistical companion. Papers often swap the two titles.
+22. **Akbarnama** tells the reign story. **Ain-i-Akbari** (आइन-ए-अकबरी) is the administrative and statistical companion. Papers often swap the two titles.
 23. **Zat** ranks the man’s personal status. **Sawar** ranks the horsemen he must maintain. High zat with low sawar is a classic trap pattern.
 24. **Iqta** revenue stayed with the muqti for troops. **Khalsa** revenue went to the treasury under direct officials. Do not call jagirs “direct crown land.”
 25. Persian was the language of farmans, chronicles, and court poetry after Babur. Turki remained Babur’s personal memoir tongue, not later court speech.
-26. **Din-i-Ilahi** never replaced Islam as state religion. **Sulh-i-kul** is the broader public tolerance policy examined more often than the private cult.
-27. **Jaunpur** Sharqi architecture is a regional Sultanate style of eastern UP. It is not Delhi Slave or Khalji architecture.
-28. In medieval cultural historiography, **Azizuddin Khan** is noted for translating Sanskrit texts during Firoz Shah Tughlaq's Nagarkot/Kangra campaign (*Dalail-i-Firoz Shahi*); he is distinct from Abul Fazl's Mughal court histories.
+26. **Din-i-Ilahi** never replaced Islam as state religion. **Sulh-i-kul** (सुलह-ए-कुल -) is the broader public tolerance policy examined more often than the private cult.
+27. **Jaunpur** Sharqi architecture (शर्की स्थापत्य) is a regional Sultanate style of eastern UP. It is not Delhi Slave or Khalji architecture.
+28. In medieval cultural historiography, **Azizuddin Khan** is noted for translating Sanskrit texts during Firoz Shah (फ़िरोज़ शाह) Tughlaq (फिरोज शाह तुगलक)'s Nagarkot/Kangra (कांगड़ा) campaign (*Dalail-i-Firoz Shahi*); he is distinct from Abul Fazl's Mughal court histories.
 
 ---
 
@@ -69,32 +69,6 @@ Medieval Indian Art | Medieval Indian Architecture | Medieval Indian Literature 
 
 ---
 
-## Hindi spell — hard names
-
-Write these in Devanagari as given. One name, one spelling.
-
-| English | Hindi |
-|---------|-------|
-| Kitabkhana | किताबखाना |
-| Razmnama | रज्मनामा |
-| Hamzanama | हम्जानामा |
-| Charbagh | चारबाग |
-| Buland Darwaza | बुलंद दरवाजा |
-| Ibadat Khana | इबादत खाना |
-| Tuzuk-i-Baburi | तुजुक-ए-बाबरी |
-| Akbarnama | अकबरनामा |
-| Ain-i-Akbari | आइन-ए-अकबरी |
-| Mansab | मनसब |
-| Zabt | जब्त |
-| Suba | सूबा |
-| Iqta | इक्ता |
-| Khalsa | खालसा |
-| Sulh-i-kul | सुलह-ए-कुल |
-| Din-i-Ilahi | दीन-ए-इलाही |
-| Jaunpur Sharqi | जौनपुर शर्की |
-| Atala Masjid | अटाला मस्जिद |
-
----
 
 ## Must-score facts — painting, architecture, admin culture
 
@@ -104,7 +78,7 @@ Write these in Devanagari as given. One name, one spelling.
 |------|------|
 | Humayun masters | Mir Sayyid Ali, Abdus Samad |
 | Akbar | Kitabkhana; illustrated atelier |
-| Baburnama language | **Chagatai Turki** (court = **Persian**) |
+| Baburnama (बाबरनामा) language | **Chagatai Turki** (court = **Persian**) |
 | Abul Fazl | *Akbarnama* (narrative) + *Ain-i-Akbari* (gazetteer) |
 | Death order | Faizi 1595 → Mubarak 1597 → Abul Fazl 1602 → Daniyal 1604 |
 
@@ -124,7 +98,7 @@ Write these in Devanagari as given. One name, one spelling.
 | Iqta / Khalsa | Muqti revenue / crown land |
 | Mansab | Zat + sawar (not originally hereditary) |
 | Zabt / Dahsala | Measurement / Todar Mal 10-year average (~1580) |
-| Dam | Copper coin Sher Shah → Akbar |
+| Dam | Copper coin (मुद्रा) Sher Shah → Akbar |
 
 ---
 
@@ -133,14 +107,14 @@ Write these in Devanagari as given. One name, one spelling.
 Medieval art is Sultanate book-art, the Mughal kitabkhana, and Rajput and Pahari courts.
 
 - Humayun, returning from Safavid exile, brings **Mir Sayyid Ali** and **Abdus Samad**. The Persian workshop enters India.
-- **Akbar** runs the imperial **kitabkhana**. Indian colour and costume fuse with Persian composition.
-- Akbar’s illustrated sets include *Akbarnama* and ***Razmnama*** (Persian Mahabharata).
+- **Akbar** (अकबर) runs the imperial **kitabkhana**. Indian colour and costume fuse with Persian composition.
+- Akbar’s illustrated sets include *Akbarnama* and ***Razmnama*** (Persian Mahabharata (महाभारत)).
 - **Jahangir** marks the naturalism peak. **Ustad Mansur** is famed for birds and animals.
 - Shah Jahan keeps court painting. Architecture takes the bigger purse.
-- Under **Aurangzeb**, the imperial atelier shrinks. Painters move to Rajput and Deccan courts.
-- Rajput schools (Mewar, Marwar, Bundi, Kishangarh) use Hindu narrative and flat colour. They are not Mughal portrait naturalism.
-- Pahari schools (Basohli, Guler, Kangra) paint hill Krishna-lila.
-- **Pietra dura** (*parchin kari*) stone inlay represents the quintessential decorative art of Shah Jahan's monuments, most exquisitely displayed at the Taj Mahal.
+- Under **Aurangzeb**, the imperial atelier shrinks. Painters move to Rajput and Deccan (दक्कन) courts.
+- Rajput schools (Mewar (मेवाड़), Marwar (मारवाड़), Bundi, Kishangarh) use Hindu narrative and flat colour. They are not Mughal portrait naturalism.
+- Pahari schools (Basohli (बसोहली), Guler, Kangra) paint hill Krishna-lila.
+- **Pietra dura** (पिएत्रा ड्यूरा) (*parchin kari*) stone inlay represents the quintessential decorative art of Shah Jahan's monuments, most exquisitely displayed at the Taj Mahal.
 - Calligraphy is a primary Islamic art, not a side craft.
 
 > **Logic:** Jahangir = Mansur / naturalism. Akbar = Razmnama atelier**. Rajput ≠ Mughal.
@@ -149,36 +123,36 @@ Medieval art is Sultanate book-art, the Mughal kitabkhana, and Rajput and Pahari
 
 ## 11.2 Medieval Indian Architecture
 
-Medieval architecture brings the true arch, the dome, and the charbagh. Learn monument, ruler, and city together.
+Medieval architecture brings the true arch (सच्चा मेहराब), the dome, and the charbagh. Learn monument, ruler, and city together.
 
-- **Qutub Minar** was started by **Aibak** and finished by **Iltutmish**. It stands in Delhi.
+- **Qutub Minar** (कुतुब मीनार) was started by **Aibak** and finished by **Iltutmish** (इल्तुतमिश). It stands in Delhi.
 - **Alai Darwaza** is by Alauddin Khalji. It is an early true-arch gateway.
 - The Tughlaq look uses batter (slope), rubble and an austere style.
 - **Sharqi Jaunpur (UP)** is known for **Atala Masjid**. It has a big screen-facade and weak minaret emphasis. It is not a Delhi clone.
 - **Lal Darwaza Masjid** is at Jaunpur. It is the correct UP pair.
-- **Adina Masjid** is at **Pandua / Bengal**, not Mandu — the classic unmatched pair in match lists.
+- **Adina Masjid** is at **Pandua / Bengal**, not Mandu (मांडू) — the classic unmatched pair in match lists.
 - **Humayun’s Tomb** stands in **Delhi**. It has a charbagh and a double dome. Haji Begum is associated with it.
 - **Fatehpur Sikri** was Akbar’s capital (about **1571–1585**). It was abandoned (water).
 - **Buland Darwaza** is at Fatehpur Sikri. It commemorates the **Gujarat victory (1573)**. It does **not** mark Jahangir’s birth (**1569**).
-- **Panch Mahal** is a five-storey open pavilion at Fatehpur Sikri. It is not the victory gate.
-- The **Salim Chishti dargah** is white marble in the Fatehpur Jama Masjid court.
-- **Agra Fort** has Akbar’s red-sandstone base. Shah Jahan’s marble palaces stand inside.
-- **Itimad-ud-Daulah** stands at Agra. It belongs to Nur Jahan’s father. It uses marble and pietra dura before the Taj.
+- **Panch Mahal** (पंच महल) is a five-storey open pavilion at Fatehpur Sikri. It is not the victory gate.
+- The **Salim Chishti dargah** is white marble in the Fatehpur Jama Masjid (जामा मस्जिद) court.
+- **Agra Fort** (आगरा किला) has Akbar’s red-sandstone base. Shah Jahan’s marble palaces stand inside.
+- **Itimad-ud-Daulah** stands at Agra. It belongs to Nur Jahan (नूरजहाँ)’s father. It uses marble and pietra dura before the Taj.
 - The **Taj Mahal** is at **Agra**. It was built by Shah Jahan for Mumtaz.
-- The **Red Fort** and **Jama Masjid** are by Shah Jahan, in **Delhi**.
-- **Bibi ka Maqbara** is Aurangzeb-era, at Aurangabad. It is called the “Poor man’s Taj.”
+- The **Red Fort** (लाल किला) and **Jama Masjid** (जामा मस्जिद) are by Shah Jahan, in **Delhi**.
+- **Bibi ka Maqbara** (बीबी का मकबरा) is Aurangzeb-era, at Aurangabad. It is called the “Poor man’s Taj.”
 - **Babur**’s tomb city is **Kabul**.
 - **Humayun**’s tomb city is **Delhi**.
 - **Jahangir**’s tomb city is **Lahore**.
 - **Shah Jahan**’s tomb city is **Agra**.
 
-### Vijayanagara, Bahmani and Deccan cultural layer
+### Vijayanagara (विजयनगर), Bahmani and Deccan cultural layer
 
-Vijayanagara art is contemporary with the early Mughals. Hampi holds the monuments. Deccan sultanate art sits beside it.
+Vijayanagara art is contemporary with the early Mughals. Hampi (हम्पी) holds the monuments. Deccan sultanate art sits beside it.
 
-- **Vijayanagara** (capital tradition at **Hampi**) builds large Dravida temple complexes, bazaar streets, and royal platforms remembered in the UNESCO Hampi landscape.
-- Musical–bhakti colour includes **Purandaradasa** and related Carnatic / Haridasa memory — do not park all medieval music under only Mughal courts.
-- **Bahmani** and later Deccan sultanates (Bijapur, Golconda / Qutb Shahi, Ahmadnagar, Bidar, Berar) develop Deccani painting, tomb architecture, and Indo-Persian court culture beside the Mughal north.
+- **Vijayanagara** (capital tradition at **Hampi**) builds large Dravida (द्रविड़) temple complexes, bazaar streets, and royal platforms remembered in the UNESCO Hampi landscape.
+- Musical–bhakti (भक्ति) colour includes **Purandaradasa** and related Carnatic (कर्नाटक) / Haridasa memory — do not park all medieval music under only Mughal courts.
+- **Bahmani** and later Deccan sultanates (Bijapur (बीजापुर), Golconda (गोलकोंडा) / Qutb (कुतुब) Shahi, Ahmadnagar, Bidar, Berar) develop Deccani painting, tomb architecture, and Indo-Persian court culture beside the Mughal north.
 - Deccani painting is a separate school from Mughal and Rajput — bold colour and Deccan court themes, not a Kangra clone.
 - When a stem asks Mughal-era **south** culture, check Vijayanagara / Deccan first before forcing a Delhi–Agra answer.
 
@@ -234,7 +208,7 @@ D. 4 3 1 2
 Arrange the following monuments in chronological order.
 
 I. Rabia Daurani's Tomb, Aurangabad
-II. Shershah Suri's Tomb, Sasaram
+II. Shershah Suri's Tomb, Sasaram (सासाराम)
 III. Humayun's Tomb, Delhi
 IV. Atala Mosque, Jaunpur
 
@@ -257,7 +231,7 @@ Which of the following pairs is NOT correctly matched?
 A. Adina Masjid – Mandu
 B. Lal Darwaza Masjid – Jaunpur
 C. Dakhil Darwaza – Gaur
-D. Tin Darwaza – Ahmedabad
+D. Tin Darwaza – Ahmedabad (अहमदाबाद)
 
 <details>
 <summary>Show answer</summary>
@@ -272,7 +246,7 @@ D. Tin Darwaza – Ahmedabad
 
 Medieval literature is Persian court prose, Turki memoir, Sanskrit–Persian translations, and Hindi bhakti books.
 
-- **Babur** wrote *Tuzuk-i-Baburi / Baburnama* in **Chagatai Turki**. A later Persian translation was by Abdur Rahim.
+- **Babur** wrote *Tuzuk-i-Baburi / Baburnama* in **Chagatai Turki**. A later Persian translation was by Abdur Rahim (रहीम).
 - The Mughal **court language was Persian**. Turki is not the official court tongue.
 - **Abul Fazl** wrote *Akbarnama* (narrative) and *Ain-i-Akbari* (admin gazetteer). These are two books by one author.
 - **Faizi** was the poet brother of Abul Fazl. He was poet laureate and died in **1595**.
@@ -281,15 +255,15 @@ Medieval literature is Persian court prose, Turki memoir, Sanskrit–Persian tra
 - Prince **Daniyal** died in **1604**.
 - **Gulbadan Begum** wrote *Humayunnama*. She was a daughter of **Babur**, not of Alauddin.
 - **Hamida Banu Begum** was the wife of **Humayun** and mother of Akbar. She was **not** the wife of Alauddin Khalji.
-- **Amir Khusrau** belongs to the Sultanate and was a disciple of Nizamuddin. *Tughlaqnama* is **his**, not Ibn Battuta’s.
+- **Amir Khusrau** (अमीर खुसरो) belongs to the Sultanate and was a disciple of Nizamuddin. *Tughlaqnama* (तुग़लक़नामा) is **his**, not Ibn Battuta (इब्न बतूता)’s.
 - *Tabaqat-i-Nasiri* was written by **Minhaj-us-Siraj**.
-- *Tarikh-i-Firoz Shahi* is by **Barani** and also by **Shams-i-Siraj Afif** (same title, two works).
+- *Tarikh-i-Firoz Shahi* is by **Barani** (बरनी) and also by **Shams-i-Siraj Afif** (same title, two works).
 - **Nakhshabi** translated *Suka Saptati* as Persian ***Tutinama***. It is not by Khusrau.
 - Firoz Tughlaq’s Nagarkot / Jwalamukhi Sanskrit haul was rendered into Persian as *Dalail-i-Firoz Shahi* by **Azizuddin Khan**.
-- Akbar’s translation bureau rendered *Razmnama*, the Ramayana and the Atharvaveda into Persian.
+- Akbar’s translation bureau rendered *Razmnama*, the Ramayana (रामायण) and the Atharvaveda (अथर्ववेद) into Persian.
 - **Tulsidas** wrote *Ramcharitmanas* in Awadhi, in Akbar’s century.
-- **Kavindra Acharya Saraswati** of Banaras had **Shah Jahan** as patron.
-- Numerous Sanskrit musical treatises were systematically translated into Persian during the Mughal era; while Sufi Chishti *sama* (musical audition) reflects spiritual devotion, it does not directly explain the court-sponsored imperial translation movement.
+- **Kavindra Acharya Saraswati (सरस्वती)** of Banaras had **Shah Jahan** as patron.
+- Numerous Sanskrit musical treatises were systematically translated into Persian during the Mughal era; while Sufi (सूफी) Chishti *sama* (समा) (musical audition) reflects spiritual devotion, it does not directly explain the court-sponsored imperial translation movement.
 
 > **Logic:** Mughal memoirs were in **Turki**; court record ran in **Persian**. *Tughlaqnama* is not Ibn Battuta's work.
 
@@ -335,7 +309,7 @@ D. 2, 4, 3, 1
 
 Which of the following is **not** correctly matched?
 
-A. Iltutmish — Father of Razia
+A. Iltutmish — Father of Razia (रजिया)
 B. Shah Turkan — Wife of Iltutmish
 C. Hamida Banu Begum — Wife of Alauddin Khilji
 D. Gulbadan Begum — Daughter of Babur
@@ -439,13 +413,13 @@ Sultanate administration uses the iqta and Khalsa frame. Its departments come be
 - An **iqta** was a revenue assignment to a **muqti / iqtadar**.
 - The muqti **collects** and is expected to **maintain troops** from that revenue.
 - Iqta revenue is **not** all deposited straight into the Sultan’s account. That is the usual wrong option.
-- *Siyasatnama* (Nizam-ul-Mulk) is a source on iqta practice.
-- Diwan-i-Wizarat handled finance.
-- Diwan-i-Arz handled the military.
-- Diwan-i-Insha handled correspondence.
+- *Siyasatnama* (Nizam-ul-Mulk (निजाम-उल-मुल्क)) is a source on iqta practice.
+- Diwan-i-Wizarat (दीवान-ए-विज़ारत) handled finance.
+- Diwan-i-Arz (दीवान-ए-अर्घ) handled the military.
+- Diwan-i-Insha (दीवान-ए-इंशा) handled correspondence.
 - Diwan-i-Rasalat handled foreign / religious business (labels vary by reign).
-- Alauddin Khalji used market control, dagh (branding) and huliya (descriptive roll) of cavalry.
-- Sher Shah is known for roads, dak, the silver **rupiya** and copper **dam**. Akbar keeps the dam idea.
+- Alauddin Khalji used market control, dagh (दाग़ -) (branding) and huliya (चेहरा) (descriptive roll) of cavalry.
+- Sher Shah is known for roads, dak, the silver (रूपक) **rupiya** (रुपिया) and copper **dam**. Akbar keeps the dam idea.
 
 > **Logic:** **Jagirs** are assignable revenue rights, **not** direct crown land. Do not confuse **iqta** with jagir or zamindari.
 
@@ -468,7 +442,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **PYQ — UPPCS Prelims 2019, Q15**
 
-Which one of the following is NOT the characteristics of Iqta System?
+Which one of the following is NOT the characteristics of Iqta System (इक्ता)?
 
 A. Iqta was a revenue collection system
 B. Siyasatnama was the source of information for Iqta System
@@ -486,20 +460,20 @@ D. Muqti was supposed to maintain troops out of the revenue collected from Iqta
 
 ## 11.5 Akbar's Administration
 
-Akbar’s administration is mansab, zabt, and suba. Todar Mal shapes the revenue. Sher Shah’s coin continues.
+Akbar’s administration is mansab, zabt, and suba (सूबा). Todar Mal shapes the revenue. Sher Shah’s coin continues.
 
-- **Mansabdari** was the official nobility ranking. It was started by **Akbar**.
+- **Mansabdari** (मनसबदारी व्यवस्था) was the official nobility ranking. It was started by **Akbar**.
 - The dual number was **zat** (personal status / salary) and **sawar** (cavalry to maintain).
 - Original mansab is **not hereditary**. Later Mughals loosen this.
-- The empire was divided into **subas** (15 in the mature Akbar list). Below that came sarkar and pargana.
+- The empire was divided into **subas** (15 in the mature Akbar list). Below that came sarkar (सरकार) and pargana (परगना).
 - **Zabt** was measurement-based assessment.
-- **Dahsala** used a ten-year average of produce/prices. It is linked to **Todar Mal**, about **1580**.
-- The **Wazir / Diwan** handled revenue.
+- **Dahsala** used a ten-year average of produce/prices. It is linked to **Todar Mal** (टोडर मल), about **1580**.
+- The **Wazir (वज़ीर) / Diwan** handled revenue.
 - The **Mir Bakshi** handled military / mansab rolls.
 - The **Sadr-us-Sudur** handled grants / charity.
-- The **Mir Saman** handled the household.
-- **Bairam Khan** was vakil / regent in Akbar’s early years. The title **Khan-i-Khanan** came from **Humayun**, not as a fresh Akbar gift at vazir-appointment.
-- In currency, Akbar, like **Sher Shah**, regulates coin. The chief copper coin was the **dam**. The silver **rupiya** continues.
+- The **Mir Saman** (मीर-ए-सामां -) handled the household.
+- **Bairam Khan** (बैरम खान) was vakil / regent in Akbar’s early years. The title **Khan-i-Khanan** came from **Humayun**, not as a fresh Akbar gift at vazir-appointment.
+- In currency, Akbar, like **Sher Shah** (शेरशाह), regulates coin. The chief copper coin was the **dam**. The silver **rupiya** continues.
 
 > **Logic:** Mansab **≠ hereditary. Dam** is Sher Shah’s copper that Akbar keeps.
 
@@ -508,7 +482,7 @@ Akbar’s administration is mansab, zabt, and suba. Todar Mal shapes the revenue
 Consider the following statements with reference to Bairam Khan:
 
 1. Akbar gave the title of Khan-i-Khana to Bairam Khan.
-2. This title was not given at the time of appointment of Bairam Khan as Vazir of Empire.
+2. This title was not given at the time of appointment of Bairam Khan as Vazir (वक़ील) of Empire.
 
 A. Both 1 and 2
 B. Neither 1 nor 2
@@ -564,12 +538,12 @@ D. Neither 1 nor 2
 
 **Sulh-i-kul** is Akbar’s public line of peace with all. **Din-i-Ilahi** is a small private order.
 
-- The **Ibadat Khana** was set up in **1575** at Fatehpur Sikri. It began with ulema debates and was later opened to other faiths.
+- The **Ibadat Khana** was set up in **1575** at Fatehpur Sikri. It began with ulema (उलेमा) debates and was later opened to other faiths.
 - The **Mahzar** belongs to **1579**. It is the so-called infallibility decree. Akbar became final arbiter in religious dispute among ulema.
 - **Sulh-i-kul** means peace with all. It was a public governance ethic, not a church.
 - **Din-i-Ilahi / Tauhid-i-Ilahi** began in **1582** as a small discipleship around Akbar. **Birbal** is the famous Hindu join. It was **not** a state religion and was **not** forced on the empire.
 - **Jizya** was abolished in **1564**. Aurangzeb later brings it back. That is a different reign.
-- Hindu nobles at court included **Man Singh**, **Todar Mal** and **Birbal**.
+- Hindu nobles at court included **Man Singh** (मान सिंह), **Todar Mal** and **Birbal**.
 - The Navaratna culture names to raata are **Tansen**, **Todar Mal**, **Birbal**, **Abul Fazl** and **Faizi**.
 - **Tansen** was earlier at the court of **Raja Ramchandra of Bhata / Rewa**. He then joined Akbar.
 - The translation house rendered Sanskrit epics and Vedas into Persian (*Razmnama*).

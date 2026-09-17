@@ -1,11 +1,11 @@
-# Topic 11 — Population Geography
+# Topic 11 — Population (जनसंख्या) Geography
 
 ### ★ UPPCS Revision Sheet — Lucent / PW style (one home per association · no repetition · Practice ≥25)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Census of India | Factors of Distribution | Population Density (arithmetic / physiological / agricultural) | Growth Vocabulary | Sex Ratio | Child Sex Ratio | Literacy | Birth–Death–Natural Growth–TFR | Migration (streams / push–pull) | Composition (age / occupation / SC–ST) | Urbanization | Million Cities | Population Pyramid | Demographic Transition & Theories
+Census of India | Factors of Distribution | Population Density (arithmetic / physiological / agricultural) | Growth Vocabulary | Sex Ratio | Child Sex Ratio | Literacy | Birth–Death–Natural Growth–TFR | Migration (streams / push–pull) | Composition (age / occupation / SC–ST) | Urbanization | Million Cities | Population Pyramid (पिरामिड) | Demographic Transition & Theories
 </details>
 
 > **Sources baked in:** Census 2011 (official until Census 2027), NCERT Class 12 (Population), PWOnlyIAS / Drishti notes, NFHS-4/5, NPP 2000, UPPCS Prelims 2018–2025
@@ -33,16 +33,16 @@ Census of India | Factors of Distribution | Population Density (arithmetic / phy
 ## Consolidated — 26 Must-Score Facts
 
 1. India’s first non-synchronous census was in **1872** (some papers key **1871**). The first **synchronous** all-India census was in **1881**.
-2. **1921** is the **Great Divide** year of Indian census history. **2011** was the **15th** census and the **7th** after Independence.
+2. **1921** is the **Great Divide** year of Indian census history (इतिहास). **2011** was the **15th** census and the **7th** after Independence.
 3. Census 2011 India population was about **121.09 crore**. Decadal growth **2001–11** was **17.64%**. India holds roughly one-sixth of world population in that count.
 4. Arithmetic density is **population / total area**. India’s 2011 arithmetic density is **382** persons per km².
 5. Physiological density is **population / net sown area**. Agricultural density is **agricultural population / net sown area**. Do not swap these three density types.
-6. Among States, **Bihar** has the highest density (**1106**). West Bengal and Kerala follow high; Uttar Pradesh is **829**. **Arunachal Pradesh** has the lowest State density (**17**). Delhi UT is very dense but is not a “lowest density State” answer.
-7. Core 2011 figures: sex ratio **943**, child sex ratio **919**, literacy **74.04%** (age **7+**), urban share **31.16%**. Scheduled Castes about **16.6%**; Scheduled Tribes about **8.6%**.
-8. **Uttar Pradesh** is the most populous State and has the largest rural population. **Sikkim** is the least populous State. **Nagaland** showed negative growth in 2001–11.
+6. Among States, **Bihar** has the highest density (**1106**). West Bengal and Kerala follow high; Uttar Pradesh (उत्तर प्रदेश) is **829**. **Arunachal Pradesh** has the lowest State density (**17**). Delhi UT is very dense but is not a “lowest density State (न्यूनतम जनघनत्व)” answer.
+7. Core 2011 figures: sex ratio **943**, child sex ratio **919**, literacy **74.04%** (age **7+**), urban (नगरीय) share **31.16%**. Scheduled Castes about **16.6%**; Scheduled Tribes about **8.6%**.
+8. **Uttar Pradesh** (उत्तर प्रदेश) is the most populous State and has the largest rural population. **Sikkim** is the least populous State. **Nagaland** showed negative growth in 2001–11.
 9. Highest State sex ratio is **Kerala**. Among States in the usual 2011 set, lowest sex ratio is **Haryana**. Lowest child sex ratio (rural + urban) is also **Haryana**.
 10. Literacy is highest in **Kerala** and lowest among States in **Bihar**. In Uttar Pradesh, **Shrawasti** has the lowest female literacy among districts.
-11. Absolute growth is **P₂ − P₁**. Growth rate is the percentage change. **Natural growth = CBR − CDR**. Induced change comes from **migration**.
+11. Absolute (निरपेक्ष) growth is **P₂ − P₁**. Growth rate is the percentage change. **Natural growth = CBR − CDR**. Induced change comes from **migration**.
 12. Replacement-level **TFR is 2.1** children per woman, not “per thousand” (that wording belongs to birth/death rates). NFHS-4 (2015–16) reported **2.2**. NFHS-5 reports about **2.0**.
 13. The National Population Policy **2000** aimed at population stability by **2045**. World Population Day is **11 July**. The World Population Report is associated with **UNFPA**.
 14. The demographic dividend window is the large share of working ages **15–59**, not 60+ or 0–6. Dependency compares young plus aged with workers.
@@ -51,11 +51,11 @@ Census of India | Factors of Distribution | Population Density (arithmetic / phy
 17. The largest internal migration stream is **rural → rural**. Female migration is often for marriage; male migration is often for work. **Immigration** means in-movement; **emigration** means out-movement.
 18. Push factors drive people from the origin; pull factors attract them to the destination. Out-migration sources are often Uttar Pradesh–Bihar; destinations are often Maharashtra–Delhi–Gujarat.
 19. A **census town** needs population **≥5,000**, density **≥400/km²**, and **≥75%** of **male main workers** in non-agriculture.
-20. Census 2011 listed **53** million-plus urban agglomerations. Kanpur crossed the million mark in **1971**; Lucknow in **1981**. 2011 UP UA order is **Kanpur > Lucknow > Ghaziabad > Agra**.
-21. Uttar Pradesh district facts (2011): **Prayagraj** most populous; **Ghaziabad** densest; **Jaunpur** among the higher sex-ratio districts; **Shrawasti** lowest female literacy.
+20. Census 2011 listed **53** million-plus urban agglomerations. Kanpur (कानपुर) crossed the million mark in **1971**; Lucknow (लखनऊ) in **1981**. 2011 UP UA order is **Kanpur > Lucknow > Ghaziabad > Agra**.
+21. Uttar Pradesh district facts (2011): **Prayagraj** (प्रयागराज) most populous; **Ghaziabad** densest; **Jaunpur** (जौनपुर) among the higher sex-ratio districts; **Shrawasti** lowest female literacy.
 22. Uttar Pradesh holds about **16.5%** of India’s population. Rural share is about **77.7%**; urban about **22.3%**. State sex ratio is **912**; literacy about **67.7%**.
-23. Crowded belts are the Ganga plain and coasts. Sparse belts are the Himalaya, North-East hills, Thar and dry interior pockets. Distribution factors include terrain, climate, soil, water, minerals, industry, transport and history.
-24. Keep **Census 2011** numbers for Prelims until **Census 2027** results replace them. UN estimates that India became the most populous country around **2023** do not rewrite the 2011 tables.
+23. Crowded belts are the Ganga (गंगा) plain and coasts. Sparse belts are the Himalaya (हिमालय), North-East hills, Thar (थार) and dry interior pockets. Distribution factors include terrain, climate, soil, water, minerals, industry, transport and history.
+24. Keep **Census 2011** numbers for Prelims until **Census 2027** results replace them. UN estimates (प्राकलन समिति) that India became the most populous country around **2023** do not rewrite the 2011 tables.
 25. A broad-base population pyramid signals high fertility. Ageing shows earlier in southern States than in the high-fertility northern belt.
 26. Occupational structure is taught as primary / secondary / tertiary. Primary still takes a large share of India’s workforce, with a slow shift toward secondary and tertiary as development proceeds.
 
@@ -107,14 +107,14 @@ Census of India | Factors of Distribution | Population Density (arithmetic / phy
 
 | Item | Lock |
 |------|------|
-| Highest density state (usual) | Bihar |
+| Highest density state (सर्वाधिक घनत्व) (usual) | Bihar |
 | Lowest density (large state) | Arunachal teaching |
 | Highest literacy (usual) | Kerala |
 | Phase model | High stationary → early expanding → late expanding → low stationary |
 
 ---
 
-## N.0 Framework (UPSC / NCERT map first)
+## N.0 Framework (UPSC (संघ लोक सेवा आयोग) / NCERT map first)
 
 Population geography asks **how many people live where**, **how that number changes**, and **what structure** the population has.
 
@@ -187,16 +187,16 @@ People are unevenly spread across India. About half of India’s population is c
 Physical factors:
 
 - **Terrain** — plains favour dense settlement; steep Himalaya and many NE hills remain sparse.
-- **Climate** — moderate monsoon belts attract people; extreme cold, arid or very wet zones deter dense living.
+- **Climate** — moderate (नरम दल) monsoon belts attract people; extreme cold, arid or very wet zones deter dense living.
 - **Soil** — fertile alluvium of the Ganga plain and many deltas supports intensive farming and denser villages.
 - **Water** — perennial rivers and irrigation raise carrying capacity.
 
 Socio-economic and historical factors:
 
 - **Settled agriculture and early civilisation** kept river plains crowded for centuries.
-- **Minerals and industry** pull people toward mining–industrial belts (ple parts of Chotanagpur and coastal industrial hubs).
+- **Minerals and industry** pull people toward mining–industrial belts (ple parts of Chotanagpur (छोटानागपुर) and coastal industrial hubs).
 - **Transport networks** thicken settlement along roads and railways.
-- **Urbanisation and jobs** concentrate migrants in metros such as Delhi, Mumbai, Kolkata, Bengaluru, Chennai, Hyderabad and Ahmedabad.
+- **Urbanisation and jobs** concentrate migrants in metros such as Delhi, Mumbai, Kolkata, Bengaluru, Chennai, Hyderabad (हैदराबाद) and Ahmedabad (अहमदाबाद).
 
 **Map pair**
 
@@ -251,7 +251,7 @@ Population density compares people with land. Prelims usually quotes **arithmeti
 
 Which of the following State has the lowest density of population as per the Census of 2011?
 
-A. Himachal Pradesh
+A. Himachal (हिमाचल) Pradesh
 
 B. Arunachal Pradesh
 
@@ -274,7 +274,7 @@ Sex ratio is the number of females per **1,000** males in the total population.
 - Formula used in Census notes: **(females ÷ males) × 1,000**.
 - India’s Census **2011** sex ratio is **943** (up from **933** in 2001).
 - The highest State sex ratio in 2011 is **Kerala** (**1,084**).
-- Among major States, **Tamil Nadu** and **Andhra Pradesh** also sit high on the 2011 list.
+- Among major States, **Tamil Nadu (नाडु)** and **Andhra Pradesh** also sit high on the 2011 list.
 - Among States in the usual 2011 set, the lowest sex ratio is **Haryana** (**879**).
 - Some Union Territories show even lower figures than Haryana, but State-level stems usually expect **Haryana**.
 - India’s **rural** sex ratio is higher than the **urban** sex ratio in the 2011 pattern, because male-selective migration into cities skews urban counts.
@@ -340,7 +340,7 @@ Census literacy covers persons aged **7 years and above** who can read and write
 - That age cut-off defines the **effective literacy rate**. Counting the whole population including children below 7 gives a lower **crude literacy rate**.
 - India’s Census **2011** literacy is **74.04%** (male **82.14%**, female **65.46%**).
 - The gender gap is therefore about **16.7** percentage points in the 2011 set.
-- Highest literacy State is **Kerala** (about **94%**).
+- Highest literacy State (सर्वाधिक साक्षरता) is **Kerala** (about **94%**).
 - Lowest literacy State among major States is **Bihar** (about **61.8%**).
 - Literacy rose from about **64.8%** in 2001 to **74.04%** in 2011, with a large absolute gain among rural females.
 - Urban literacy is higher than rural literacy in every major State pattern taught from Census 2011.
@@ -389,7 +389,7 @@ D. Bahraich
 - NFHS-5 national TFR is about **2.0**. That is a later survey figure; it does not change the 2018 paper answer.
 - **National Population Policy 2000** aimed for replacement fertility and a **stable population by 2045**.
 - **World Population Day** is **11 July**.
-- The **World Population Report** is released by **UNFPA**, not IMF, WHO or UNDP.
+- The **World Population Report** is released by **UNFPA**, not IMF, WHO or UNDP (यूएनडीपी).
 
 **UP Population Control Bill 2021 trap**
 
@@ -466,7 +466,7 @@ D. Neither 1 nor 2
 
 Migration in the Census means a change of residence. It changes both **size** and **composition** of population at origin and destination.
 
-- The four internal streams are rural-to-rural, rural-to-urban, urban-to-urban and urban-to-rural.
+- The four (चातुर्याम) internal streams are rural-to-rural, rural-to-urban, urban-to-urban and urban-to-rural.
 - India’s **largest** internal migration stream is **rural-to-rural**.
 - Female migration is classically linked with **marriage**.
 - Male migration is classically linked with **work / employment**.
@@ -474,7 +474,7 @@ Migration in the Census means a change of residence. It changes both **size** an
 
 **Push and pull factors**
 
-- **Push factors** make the origin less attractive — unemployment, poverty, drought, flood, conflict, or lack of services.
+- **Push factors** make the origin less attractive — unemployment, poverty, drought (सूखा), flood, conflict, or lack of services.
 - **Pull factors** make the destination more attractive — jobs, education, better wages, urban amenities, and industrial hubs.
 - Uttar Pradesh and Bihar are classic **out-migration** source states; Maharashtra, Delhi and Gujarat are classic **in-migration** destinations.
 
@@ -517,7 +517,7 @@ Urbanisation is the rising share of people living in **urban** places, plus the 
 - On the urbanisation curve used in standard notes, the **acceleration** stage is the **second stage**.
 - Urbanisation and high literacy both help reduce the birth rate over time.
 - Among religious groups, **Jains** have the highest urban share in Census 2011.
-- Among States, **Goa** is classically taught as the most urbanised State by share; large northern States remain more rural.
+- Among States, **Goa** (गोवा) is classically taught as the most urbanised State by share; large northern States remain more rural.
 - Uttar Pradesh’s urban share in 2011 is about **22.3%**, well below the national average, while its rural share is about **77.7%**.
 - Urban growth comes from natural increase inside towns, rural–urban migration, and reclassification of rural units as census or statutory towns.
 
@@ -572,7 +572,7 @@ A Census **million city / urban agglomeration** has population ≥ **10 lakh** (
 - A **megacity** in UN usage is often ≥ **10 million**.
 - A **conurbation** is a merged urban sprawl of several towns.
 - Use the definition given in the stem.
-- In Uttar Pradesh, **Kanpur** crossed 10 lakh in **1971** and **Lucknow** in **1981**.
+- In Uttar Pradesh, **Kanpur** crossed 10 lakh in **1971** and **Lucknow** (लखनऊ) in **1981**.
 - UP UA size order in 2011 is **Kanpur > Lucknow > Ghaziabad > Agra**.
 - Million-city growth concentrates jobs, services and migrants, so these UAs pull strongly from surrounding rural districts.
 
