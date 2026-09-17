@@ -33,27 +33,27 @@ Six Schools of Indian Philosophy (Shad Darshana) | Vedic Philosophy | Buddhist P
 5. **Ashtanga Yoga** (अष्टांग योग) order is **yama** (यम), **niyama** (नियम), **asana** (आसन), **pranayama** (प्राणायाम), **pratyahara** (प्रत्याहार), **dharana** (धारणा), **dhyana** (ध्यान), **samadhi** (समाधि).
 6. **Purva Mimamsa** (पूर्व मीमांसा - Jaimini) treats Vedic **ritual** (कर्मकाण्ड). **Uttara Mimamsa / Vedanta** (उत्तर मीमांसा / वेदांत - Badarayana) treats the Upanishads. Kapila is **not** Vedanta.
 7. **Shankara** taught **Advaita** (अद्वैतवाद). **Ramanuja** taught **Vishishtadvaita** (विशिष्टद्वैतवाद). **Madhva** taught **Dvaita** (द्वैतवाद). **Nimbarka** taught **Dvaitadvaita** (द्वैताद्वैतवाद). **Vallabha** taught **Shuddhadvaita** (शुद्धाद्वैतवाद).
-8. Shankara’s four mathas fact as **Sringeri–Yajurveda**, **Dwaraka–Samaveda**, **Puri–Rigveda**, and **Badri / Jyotirmath–Atharvaveda**.
+8. Adi Shankara established four cardinal monastic centres (mathas) associated with the four Vedas: **Sringeri** (South — Yajurveda), **Dwaraka** (West — Samaveda), **Puri** (East — Rigveda), and **Jyotirmath / Badrinath** (North — Atharvaveda).
 9. Vedic stack order is **Samhita → Brahmana → Aranyaka → Upanishad**. *Tat tvam asi* is from the **Chandogya** Upanishad. **Brahman** is not the same word as **Brahmin**.
 10. Buddha’s life geography is **Lumbini** (birth), **Bodh Gaya** in Bihar (enlightenment), **Sarnath** in UP (first sermon), and **Kushinagar** in UP (death).
 11. Buddhist councils order is **Rajagriha → Vaishali → Pataliputra → Kundalvana**. *Milindapanha* is dialogue of **Menander / Milinda** with **Nagasena**.
 12. **Theravada** aims at the arhat and uses Pali. **Mahayana** aims at the Bodhisattva and uses Sanskrit.
-13. Jainism has **24** Tirthankaras. Symbol facts include **Rishabha–bull**, **Parshva–snake**, and **Mahavira–lion**. Nirvana places include **Ashtapad**, **Shikharji**, and **Pavapuri**.
+13. Jainism has **24** Tirthankaras. Key emblems include the **bull** for Rishabhanatha, the **serpent hood** for Parshvanatha, and the **lion** for Mahavira. Important Nirvana sites include **Ashtapad**, **Sammed Shikharji**, and **Pavapuri**.
 14. **Parshva** taught four vows. **Mahavira** added **Brahmacharya** as the fifth. The Svetambara canon has **12 Angas**.
 15. **Digambara** monks are sky-clad and deny women monks. **Svetambara** monks wear white and admit women monks.
 16. **Anekantavada** (अनेकांतवाद) is many-sided reality. **Syadvada** (स्याद्वाद) is the seven-fold “syad” speech about that reality.
 17. Bhakti chronology often runs **Namdev → Kabir → Nanak → Chaitanya. Kabir** was a disciple of **Ramananda. Surdas** belongs to **Vallabha**’s line. **Tulsidas** wrote in **Awadhi**.
-18. Tamil bhakti facts are **12 Alvars** (आलवार - Andal the only woman) and **63 Nayanars** (नायनार). The four Samayacharyas are **Appar, Sambandar, Sundarar, and Manikkavachakar**.
+18. The southern Tamil Bhakti tradition flourished through the **12 Alvars** (Vaishnava poet-saints, with Andal as the sole woman saint) and the **63 Nayanars** (Shaiva poet-saints). The four revered Samayacharyas are **Appar, Sambandar, Sundarar, and Manikkavachakar**.
 19. **Chishti** Sufis at Ajmer / Delhi favour **sama** (समा / महफ़िल-ए-समा) and qawwali (क़व्वाली). **Suhrawardi** is linked with Multan. **Nizamuddin Auliya** belongs to **Delhi**.
 20. *Fawaid-ul-Fuad* records Nizamuddin’s conversations as compiled by **Amir Hasan Sijzi. Wahdat-ul-wujud** (वहदत-उल-वुजूद - Ibn Arabi) is not the same as **wahdat-ush-shuhud** (वहदत-उश-शुहूद - Sirhindi).
 21. Among the ten Sikh Gurus, **Angad** gave **Gurmukhi**, **Arjan** compiled the **Adi Granth**, and **Gobind Singh** founded the **Khalsa** in **1699**.
 22. The five Sikh Takhts are **Akal Takht**, **Keshgarh Sahib**, **Damdama Sahib**, **Patna Sahib**, and **Hazur Sahib**.
 23. Pramana count traps: **Charvaka** accepts only one, **Nyaya** accepts four, and Mimamsa–Kumarila / Vedanta often accept **six**.
-24. UP Buddhist circuit facts are **Sarnath**, **Kushinagar**, **Shravasti**, **Sankisa**, and **Kaushambi**. The Lion Capital is from Sarnath.
-25. UP Hindu and bhakti facts include **Kashi**, **Ayodhya**, **Braj / Surdas**, **Prayagraj Kumbh**, and Kabir’s samadhi at **Maghar**.
+24. The core Buddhist pilgrimage circuit in Uttar Pradesh comprises **Sarnath**, **Kushinagar**, **Shravasti**, **Sankisa**, and **Kaushambi**. The national emblem (Lion Capital) is from Sarnath.
+25. Major Hindu and Bhakti heritage centres in Uttar Pradesh include **Kashi**, **Ayodhya**, the **Braj** region of Surdas, the **Prayagraj Kumbh**, and Kabir’s memorial shrine (*samadhi*) at **Maghar**.
 26. **Kumbh Mela** is UNESCO **intangible** heritage (**2017**). It is not a monument World Heritage site.
-27. Salim Chishti’s dargah at **Fatehpur Sikri** is the high-yield UP Sufi site fact.
-28. Mathura’s **Kankali Tila** is the classic UP Jain archaeological fact.
+27. The white marble dargah of Sheikh Salim Chishti at **Fatehpur Sikri** is the preeminent Mughal-era Sufi pilgrimage site in Uttar Pradesh.
+28. The mound of **Kankali Tila** at Mathura is the landmark Uttar Pradesh archaeological site for ancient Jain art and inscriptions.
 
 ---
 
@@ -151,7 +151,7 @@ Six Schools of Indian Philosophy (Shad Darshana) | Vedic Philosophy | Buddhist P
 
 **Founder:** Patanjali (पतंजलि) | **Text:** Yoga Sutras (योग सूत्र)
 
-- The definition fact is *Yogash chitta-vritti-nirodhah* (योगश्चित्तवृत्तिनिरोधः).
+- According to Patanjali, Yoga is defined as *Yogash chitta-vritti-nirodhah* (योगश्चित्तवृत्तिनिरोधः — the cessation of mental fluctuations).
 - Yoga is the practical partner of Samkhya. It adds **Ishvara** (ईश्वर).
 - Ashtanga Yoga (अष्टांग योग), in order, is **yama** (यम), **niyama** (नियम), **asana** (आसन), **pranayama** (प्राणायाम), **pratyahara** (प्रत्याहार), **dharana** (धारणा), **dhyana** (ध्यान), **samadhi** (समाधि).
 - Yama comprises ahimsa, satya, asteya, brahmacharya, aparigraha.
@@ -220,7 +220,7 @@ Six Schools of Indian Philosophy (Shad Darshana) | Vedic Philosophy | Buddhist P
 
 - Ajivika teaches the doctrine of fate (*niyati* / नियति). Makkhali Gosala was a contemporary of the Buddha and Mahavira. The school later became extinct.
 
-### Pramana count (key fact)
+### Pramana Count across Philosophical Systems
 
 - **Charvaka** accepts **1** pramana — pratyaksha only.
 - **Bauddha** (typical) accepts **2** — pratyaksha and anumana.
@@ -300,7 +300,7 @@ D. 4, 3, 2, 1
 - The Pancha-mahayajna are Brahma, Deva, Pitri, Bhuta, and Manushya.
 - Sixteen samskaras run Garbhadhana to Antyeshti. **Upanayana** is the one (entry to Vedic study).
 - Early Vedic gods include **Indra** (war/rain), **Agni**, **Varuna** (rta), Soma, and Ushas. The Trimurti (Brahma–Vishnu–Shiva) is **post-Vedic**.
-- Smriti facts are Manu, Yajnavalkya, Narada, and Parashara. Itihasa is Valmiki’s Ramayana plus Vyasa’s Mahabharata. There are **18 Mahapuranas** (Bhagavata, Vishnu, Shiva, Markandeya, and others).
+- Major Smriti lawgivers include Manu, Yajnavalkya, Narada, and Parashara. Itihasa comprises Valmiki’s Ramayana and Vyasa’s Mahabharata. There are **18 Mahapuranas** (including the Bhagavata, Vishnu, Shiva, and Markandeya Puranas).
 
 > **Logic:** Upanishads = jñāna-kāṇḍa = Vedanta. Brahmanas = karma-kāṇḍa. Rigveda = oldest.
 
@@ -391,7 +391,7 @@ D. 4, 3, 2, 1
 - Buddhist symbols include the dharmachakra, Bodhi tree, footprints, deer (Sarnath), and the lion capital (national emblem).
 - Buddhism spread under Ashoka. It then grew under Kanishka / Gandhara. Later it was backed by the Palas and by Nalanda–Vikramashila.
 - It declined in the plains after the **12th–13th** c.
-- The modern fact is **Ambedkar**, Nagpur, **14 Oct 1956**.
+- In the modern era, **Dr. B.R. Ambedkar** revived Navayana Buddhism, formally embracing the faith at Nagpur on **14 October 1956**.
 
 **PYQ — UPPCS Prelims 2025, Q105**
 
@@ -462,7 +462,7 @@ D. Kumaril Bhatt
 
 ### Twenty-four Tirthankaras
 
-For every name fact serial and emblem (*lanchhan*). Nirvana home for **20** is **Sammed Shikhar** (Parasnath, Jharkhand). There are **four exceptions** only.
+Candidates should master the serial order, name, and emblem (*lanchhan*) of each Tirthankara. **Twenty** Tirthankaras attained Nirvana at **Sammed Shikhar** (Parasnath, Jharkhand), with only **four exceptions** (Rishabhanatha at Mount Ashtapad, Vasupujya at Champapuri, Neminatha at Mount Girnar, and Mahavira at Pavapuri).
 
 - 1 **Rishabhanatha / Adinatha** is the first Tirthankara. His emblem is the **bull** and nirvana is at **Ashtapad / Kailash**. His son is **Bahubali** (Gomateshwara); birth is in the Ayodhya tradition and colour is golden.
 - 2 **Ajitanatha** is the second Tirthankara. His emblem is the elephant. Nirvana is at Sammed Shikhar.
@@ -561,7 +561,7 @@ D. Mahavira — Pavapuri
 **Count:** 63 | **Deity:** Shiva | **Corpus:** Tevaram + Tiruvachakam
 
 - The four **Samayacharyas** are **Appar**, **Sambandar**, **Sundarar**, and **Manikkavachakar**.
-- Manikkavachakar’s book is *Tiruvachakam*. He is not always counted inside the 63 the same way. He is still an key fact.
+- Manikkavachakar authored the celebrated devotional work *Tiruvachakam*. While distinct in his historical placement, he is counted as one of the four principal Samayacharyas of Tamil Shaivism.
 - **Karaikkal Ammaiyar** is the earliest woman Shaiva saint. Sundarar’s *Tiruttondattogai* lists the 63.
 
 ### Maharashtra Varkari
@@ -637,7 +637,7 @@ D. Mahavira — Pavapuri
 - **Sahajo Bai** wrote *Sahaj Prakash* (Charandas).
 - **Gangabai** is **not** the author of *Ganesh Dev Leela*.
 
-The **2025** chronology fact is Namdev → Kabir → Nanak → Chaitanya.
+The chronological sequence of leading Bhakti saints is: **Namdev → Kabir → Guru Nanak → Chaitanya Mahaprabhu**.
 
 > **Logic:** Guru Granth has Kabir and Namdev, **not** Tulsidas.
 
@@ -1442,7 +1442,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Ans: B.** A false, R true.
 
-**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Vow fact is correct. Digambara / Svetambara dress and gender rules are reversed in (R).
+**A/R logic:** The stem swaps the statements: the assertion is false while the reason is true. The statement regarding vows is correct, but Digambara and Svetambara rules on monastic dress and gender are reversed in (R).
 
 </details>
 
@@ -1642,7 +1642,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 1. Sarnath, Kushinagar, Shravasti, Sankisa and Kaushambi form a Buddhist circuit set.
 2. Kabir’s samadhi is associated with Maghar.
-3. Mathura’s Kankali Tila is a classic Jain archaeological fact.
+3. The Kankali Tila mound at Mathura is a landmark archaeological site for ancient Jain art and Ayagapatas.
 
 Which of the statements given above are correct?
 

@@ -34,26 +34,26 @@ SNA / NSD standing dates are static, not news.
 1. **Natyashastra** by **Bharata Muni** (about **200 BCE–200 CE**) codifies drama with about **10** rupaka, **9** rasa, and four abhinaya.
 2. **Abhinavabharati** is Abhinavagupta’s commentary on Natyashastra. **Dasharupaka** is Dhananjaya’s later summary of play types.
 3. **Ashvaghosha** is often tagged with the earliest Sanskrit play tradition. **Bhasa** left about **13** plays. **Kalidasa** wrote **three** dramas.
-4. Playwright facts: **Shudraka** wrote *Mrichchhakatika*, **Vishakhadatta** wrote *Mudrarakshasa*, **Bhavabhuti** wrote *Uttararamacharita*, and **Harsha** wrote *Ratnavali*.
+4. Major classical Sanskrit dramatists and their works include **Shudraka** (*Mrichchhakatika*), **Vishakhadatta** (*Mudrarakshasa*), **Bhavabhuti** (*Uttararamacharita*), and King **Harsha** (*Ratnavali*).
 5. *Shringara Shataka* is by **Bhartrihari**, not Kalidasa. Do not park poem titles inside the drama list.
-6. Stage vocabulary facts **yavanika** as curtain, **nepathya** as backstage, and **sutradhara** as director-presenter.
-7. The oldest rock amphitheatre fact is **Sitabenga** at Ramgarh, Chhattisgarh. Neighbouring **Jogimara** is the painting fact, not the theatre fact.
+6. Core classical theatre terminology identifies **yavanika** as the stage curtain, **nepathya** as the backstage dressing room, and **sutradhara** as the director and narrator-presenter.
+7. The oldest rock-cut theatre and amphitheatre in India is the **Sitabenga** cave at Ramgarh in Chhattisgarh, while the neighbouring **Jogimara** cave is noted for early frescoes rather than theatrical architecture.
 8. Kerala temple theatre houses are called **koothambalam**. Living Sanskrit theatre is **Koodiyattam** of the Chakyar tradition with **mizhavu** drum.
 9. **Koodiyattam** is UNESCO living Sanskrit theatre (proclaimed **2001**, list **2008**). It is theatre, not a ninth SNA classical dance.
 10. **Nautanki** is the high-yield **UP** folk opera, named in the *Ain-i-Akbari*, with **Kanpur** and **Lucknow** schools and the **nagara** drum.
 11. **Ramlila** of Ramnagar–Varanasi / Braj is UNESCO **2008. Raslila** is the Braj Krishna folk play, not Manipuri classical Ras Lila.
 12. **Swang** belongs to Haryana, western UP, and Rajasthan. **Tamasha** of Maharashtra uses Lavani and often has women playing male roles.
 13. **Jatra** belongs to Bengal and Odisha. **Yakshagana** belongs to coastal **Karnataka. Bhavai** belongs to Gujarat.
-14. **Bhaona** of Assam is linked with Majuli satras. **Ramman** of Uttarakhand and **Powada** / **Burrakatha** are regional narrative theatre facts.
+14. **Bhaona** is the traditional theatrical enactment of Ankiya Nat, centered in the Vaishnavite satras of Majuli (Assam). **Ramman** is the sacred masked ritual theatre of Uttarakhand, while **Powada** (Maharashtra) and **Burrakatha** (Andhra Pradesh) represent vibrant regional narrative theatre traditions.
 15. **Kathputli** of Rajasthan is string marionette, often without carved legs. **Gulabo–Sitabo** of **Lucknow** are glove comic puppets.
 16. **Kundhei** is Odisha string puppetry. **Tholu Bommalata** of Andhra Pradesh and **Ravana Chhaya** of Odisha are shadow forms.
-17. **Indra Sabha** by **Amanat** (**Lucknow, 1853**) is the highest-yield UP modern-folk stage fact of Awadh.
-18. **Bidesiya** belongs to the eastern UP / Bhojpuri belt. **Bhartendu Harishchandra** of Banaras is the modern Hindi theatre fact.
-19. **IPTA** was founded in **1943**. The **National School of Drama** was founded in **1959** at New Delhi. Long director fact is **Ebrahim Alkazi**.
+17. The musical drama **Indra Sabha**, composed by **Agha Hasan Amanat** and staged at **Lucknow in 1853** under Wajid Ali Shah, marks the dawn of modern operatic theatre in Awadh.
+18. **Bidesiya** is a prominent migration-themed folk theatre form of the Bhojpuri-speaking belt of eastern Uttar Pradesh and western Bihar. In Banaras, **Bhartendu Harishchandra** laid the foundation of modern Hindi dramatic literature and stagecraft.
+19. The Indian People's Theatre Association (**IPTA**) was established in **1943**. The **National School of Drama (NSD)** was founded at New Delhi in **1959**, and was shaped decisively under the legendary directorship of **Ebrahim Alkazi**.
 20. **Sangeet Natak Akademi** (**1952**) covers music, dance, **and theatre**. It is not a dance-only body.
 21. Sanskrit plays as a rule **end well**. Stock figures are **nayaka**, **nayika**, and **vidushaka**. There is no Greek-style tragedy as the default form.
 22. **Nataka** is a mythic heroic play type. **Prakarana** invents a social plot. Do not confuse **natya** (drama) with **nritta** (pure dance).
-23. UNESCO theatre-related facts include Koodiyattam (**2001/2008**), Ramlila (**2008**), and **Mudiyettu** (**2010**).
+23. UNESCO Intangible Cultural Heritage performing arts elements include **Koodiyattam** Sanskrit theatre (**2008**), the traditional **Ramlila** (**2008**), and **Mudiyettu** ritual drama (**2010**).
 24. These are **not** UP: Kathputli (Rajasthan), Yakshagana (Karnataka), Koodiyattam (Kerala), Tamasha (Maharashtra), and Ramman (Uttarakhand).
 
 ---
@@ -110,19 +110,19 @@ SNA / NSD standing dates are static, not news.
 
 - It is the oldest continuous drama tradition in the subcontinent. Vedic *samvada* hymns are only a hint, not full plays.
 - The word *nataka* is from *nata*, meaning dancer. Drama, dance and music start as one art.
-- The oldest rock amphitheatre fact is **Sitabenga** (Ramgarh, Chhattisgarh). Neighbouring **Jogimara** cave is the painting fact.
+- The oldest rock-cut theatre in India is **Sitabenga Cave** (Ramgarh hills, Surguja, Chhattisgarh), while neighbouring **Jogimara** preserves early frescoes.
 - The codifier is **Natyashastra** by **Bharata Muni**. It lists about **10 rupaka** and **9 rasa**.
-- Sanskrit court and temple theatre includes Kalidasa’s **three** dramas. The living remnant is **Koodiyattam** (Kerala).
-- Regional folk includes **Nautanki** of **UP**. Ramlila is UNESCO **2008**.
-- Modern proscenium starts from the 19th c. onward. **Bhartendu Harishchandra** (Banaras, **UP**) is the Hindi theatre fact.
-- **Parsi theatre** (19th c. Bombay) is company stage with Urdu/Hindi myth and romance. It feeds later films.
-- **Indra Sabha** is by **Amanat**, **Lucknow, 1853**. It is an Awadh court play. It is the highest-yield UP modern-folk fact.
-- **IPTA** was founded in **1943**. It is people’s theatre and an anti-fascist/left cultural front.
-- **National School of Drama** was founded in **1959** at **New Delhi**. Its festival is Bharat Rang Mahotsav. The long director fact is **Ebrahim Alkazi**.
+- Temple Sanskrit theatre survived in Kerala’s **koothambalam** halls through **Koodiyattam**.
+- Mughal and British rule broke the Sanskrit temple-palace loop; theatre survived as **folk drama** (nautanki, jatra, bhavai, yakshagana).
+- Modern proscenium theatre emerged from the mid-19th century onward, championed in Hindi literature by **Bhartendu Harishchandra** of Banaras (UP).
+- Parsi theatre was commercial, melodramatic, and popular in cities.
+- **Indra Sabha**, composed by **Agha Hasan Amanat** and performed at **Lucknow in 1853**, is the milestone Urdu-Awadhi musical play patronized by the court of Awadh.
+- IPTA was founded in **1943** (Bengal famine, anti-fascist, leftist).
+- The **National School of Drama (NSD)** was founded in **1959** at New Delhi, hosting the annual Bharat Rang Mahotsav; it was shaped into premier prominence under long-serving director **Ebrahim Alkazi**.
 - **Badal Sircar** is linked to Third Theatre (street, no proscenium).
-- SNA was founded in **1952** at New Delhi. It is the apex body for music, dance **and theatre**, not dance-only.
-- Sanskrit plays **end well**. There is no Greek-style tragedy as the rule.
-- Stock figures are **nayaka**, **nayika**, and **vidushaka** (clown). **Sutradhara** is the director-presenter. The same word is the etymology of string-puppet *sutradhara*.
+- Sangeet Natak Akademi was founded in **1952** at New Delhi as the apex body for music, dance, and theatre.
+- Classical Sanskrit plays invariably end happily (there is no Greek-style tragedy tradition).
+- Stock figures include the **nayaka** (hero), **nayika** (heroine), and **vidushaka** (jester/clown), while the **sutradhara** serves as the stage manager and director-presenter.
 
 > **Logic:** Theatre is not “only Sanskrit.” UPPCS geography loves **Nautanki** as **UP**.
 
@@ -162,7 +162,7 @@ SNA / NSD standing dates are static, not news.
 - **Therukoothu** is Tamil Nadu street theatre.
 - **Dashavatar** belongs to Konkan (Sindhudurg–Goa). It presents ten Vishnu avatars.
 - **Ankiya Nat** belongs to Assam and is linked to Sankaradeva. It is one-act and uses masks. Musicians are Gayan–Bayan (khol).
-- **Bhaona** is the staging of Ankiya Nat. **Majuli** is the fact.
+- **Bhaona** is the dramatic staging of Srimanta Sankardeva's Ankiya Nat, traditionally preserved and enacted in the Vaishnavite satras of **Majuli Island** in Assam.
 - **Mudiyettu** is Kerala ritual theatre. It is UNESCO **2010**. It is not Kathakali.
 - **Ramman** belongs to Garhwal, Uttarakhand. It honours **Bhumiyal Devta** and is UNESCO ICH **2009**.
 - It is village ritual theatre with masks, music, and seasonal performance — not a commercial stage play and not SNA classical dance.
@@ -181,7 +181,7 @@ SNA / NSD standing dates are static, not news.
 - **Khyal** is a Rajasthan folk play. It is not Hindustani *khayal* singing.
 - **Theyyam** is north Kerala ritual theatre. It holds Sangam Velan memory. It is not Kathakali.
 
-> **Logic:** Nautanki** belongs to **UP**. Tamasha is not UP. Yakshagana belongs to Karnataka, not Kerala.
+> **Logic:** Nautanki belongs to **UP**. Tamasha is not UP. Yakshagana belongs to Karnataka, not Kerala.
 
 ---
 
@@ -192,13 +192,12 @@ SNA / NSD standing dates are static, not news.
 ### Playwrights (one name, one play fact)
 
 - **Ashvaghosha** wrote *Sariputraprakarana*. It is often tagged the **first** classical Sanskrit play (Buddhist).
-- **Bhasa** has the earliest large surviving set (~13 plays). The facts are *Svapnavasavadattam* and *Urubhanga*.
-- **Kalidasa** has three dramas only: ***Abhijnanashakuntalam***, ***Vikramorvashiya***, and ***Malavikagnimitram***.
-- Kalidasa poems (not dramas) are *Meghaduta*, *Raghuvamsha*, *Kumarasambhava*, and *Ritusamhara*. **Shringara Shataka is not his** — it belongs to **Bhartrihari**.
-- **Shudraka** wrote ***Mrichchhakatika*** (Little Clay Cart). It has conflict and an antagonist, with a commoner hero. It is not Kalidasa.
-- **Vishakhadatta** wrote ***Mudrarakshasa***. It is a Chanakya–Chandragupta plot.
-- **Bhavabhuti** wrote ***Uttararamacharita***. He also wrote *Mahaviracharita* and *Malatimadhava*. He is not Kalidasa.
-- **Harsha** (7th c.) wrote *Ratnavali*, *Priyadarshika*, and *Nagananda*. *Ratnavali* is an early **Holi** textual fact.
+- **Bhasa** is among the earliest Sanskrit dramatists, with 13 surviving plays including masterpieces like *Svapnavasavadattam* and the tragic hero drama *Urubhanga*.
+- **Kalidasa** wrote three master plays: *Abhijnanashakuntalam*, *Malavikagnimitram*, and *Vikramorvashiya*. (Kalidasa poems not dramas are *Meghaduta*, *Raghuvamsha*, *Kumarasambhava*, and *Ritusamhara*; *Shringara Shataka* belongs to **Bhartrihari**).
+- **Shudraka** wrote *Mrichchhakatika* (The Little Clay Cart — social prakarana).
+- **Vishakhadatta** wrote *Mudrarakshasa* (political thriller with Chanakya) and *Devichandraguptam*.
+- **Bhavabhuti** wrote *Uttararamacharita* (Karuna rasa peak), *Malatimadhava*, and *Mahaviracharita*.
+- King **Harsha** (7th century CE) authored three Sanskrit plays: *Ratnavali*, *Priyadarshika*, and *Nagananda*. *Ratnavali* contains one of the earliest vivid literary depictions of the celebration of **Holi**.
 - **Mahendravarman I** wrote *Mattavilasa Prahasana* (Pallava satire). He is the same king as the rock-cut Mandagapattu caves.
 
 ### Conventions
@@ -228,7 +227,7 @@ SNA / NSD standing dates are static, not news.
 - Four abhinaya are **angika, vachika, aharya, sattvika**.
 - The nine rasas are Shringara, Hasya, Karuna, Raudra, Veera, Bhayanaka, Bibhatsa, Adbhuta, and **Shanta** (later ninth).
 - **Bhava** is what the actor holds. **Rasa** is what the spectator tastes.
-- The commentary fact is **Abhinavagupta**, *Abhinavabharati*.
+- The definitive medieval philosophical commentary on the *Natyashastra* is the *Abhinavabharati* by the Kashmiri Shaivite scholar **Abhinavagupta**.
 - The later digest is **Dhananjaya**, *Dasharupaka*.
 - There are ten *rupakas*. Natyashastra itself leans on **Nataka** and **Prakarana**. Learn all ten names:
 
@@ -298,7 +297,7 @@ Syllabus names the first two plus Kathputli (a string school).
 - **Yampuri** are Bihar rod puppets. They have no legs.
 - **Putul Nach** is Bengal rod.
 - **Pavakathakali / Pavakoothu** is Kerala glove.
-- **Gulabo–Sitabo** belongs to **Lucknow, UP**. They are a glove pair of comic women. This is the UP puppet fact, **not** Kathputli.
+- **Gulabo–Sitabo** is a traditional glove puppetry form from **Lucknow (UP)** featuring witty domestic satirical dialogues between two women; it is native to Uttar Pradesh, distinct from Rajasthan's string Kathputli.
 
 > **Logic:** Kathputli is **Rajasthan string**. Shadow is not Kathputli. Gulabo-Sitabo is **Lucknow glove**.
 

@@ -33,18 +33,18 @@ No 2025–26 scheme rewrites mansab or Din-i-Ilahi (verified August 2026).
 1. **Humayun** brought Persian masters **Mir Sayyid Ali** and **Abdus Samad. Akbar** built the **kitabkhana** and the illustrated **Razmnama. Jahangir** favoured naturalism under painters such as **Mansur**. Under Aurangzeb many painters left the imperial atelier.
 2. Sultanate architecture spine: **Qutub** under Aibak–Iltutmish, **Alai Darwaza** under the Khaljis, and **Jaunpur Sharqi** work such as **Atala Masjid**.
 3. Mughal architecture spine: **Humayun’s Tomb** at Delhi with **charbagh**, **Fatehpur Sikri** under Akbar, and the **Taj Mahal** under Shah Jahan at Agra.
-4. Tomb geography fact: **Babur** at **Kabul**, **Humayun** at **Delhi**, **Jahangir** at **Lahore**, **Shah Jahan** at **Agra**. Only Shah Jahan’s tomb among these is in Uttar Pradesh.
+4. Tomb locations of the Great Mughals: **Babur** is buried in **Kabul** (Bagh-e Babur), **Humayun** in **Delhi**, **Jahangir** at Shahdara in **Lahore**, and **Shah Jahan** alongside Mumtaz Mahal in **Agra** (Taj Mahal, the only one among these located in Uttar Pradesh).
 5. **Buland Darwaza** at Fatehpur Sikri marks Akbar’s **Gujarat victory**. It is **not** a monument for Jahangir’s birth in **1569**.
 6. **Babur** wrote his memoir (*Tuzuk-i-Baburi*) in **Chagatai Turki**. The Mughal **court language** was **Persian**. Do not swap the two.
 7. **Abul Fazl** wrote the narrative **Akbarnama** and the gazetteer **Ain-i-Akbari. Faizi** was the court poet. **Nakhshabi** wrote the *Tutinama*.
-8. Death chronology fact: **Faizi 1595 → Sheikh Mubarak 1597 → Abul Fazl 1602 → Daniyal 1604**.
+8. Key Mughal court chronology of deaths: **Faizi (1595) → Sheikh Mubarak (1597) → Abul Fazl (1602) → Prince Daniyal (1604)**.
 9. Sultanate **iqta** gave revenue to a **muqti** to raise troops. **Khalsa** was crown land under **direct** state control. A **jagir** is a revenue assignment, not Khalsa.
 10. Akbar’s **mansab** had **zat** (personal rank) and **sawar** (cavalry contingent). The original mansab system was **not hereditary**.
 11. **Zabt** is measured land assessment. **Dahsala** is Todar Mal’s **ten-year** average revenue system from about **1580**.
 12. The copper **dam** continued from Sher Shah into Akbar’s currency. Akbar organised about **15 subas** in the mature empire map used s.
 13. **Ibadat Khana** debates began at Fatehpur Sikri in **1575. Sulh-i-kul** was the public peace policy. **Din-i-Ilahi** of **1582** was a private fellowship, not a state religion.
 14. Akbar abolished **jizya** in **1564**. The **Mahzar** of **1579** asserted Akbar’s authority in religious disputes.
-15. Navaratna facts include **Tansen** (from Ramchandra of Bhata), **Todar Mal**, **Birbal**, **Abul Fazl**, and **Faizi**.
+15. Celebrated members of Akbar's nine jewels (*Navaratnas*) include musical maestro **Tansen** (recruited from King Ramchandra of Rewa/Bhata), finance minister **Raja Todar Mal**, court wit **Birbal** (Mahesh Das), chief ideologue **Abul Fazl**, and poet laureate **Faizi**.
 16. Uttar Pradesh architecture: **Jaunpur** Sharqi (Atala, Lal Darwaza), **Agra** Fort–Itimad-ud-Daulah–Taj–Ram Bagh, and **Fatehpur Sikri** (Buland Darwaza, Ibadat Khana, Salim Chishti).
 17. **Tulsidas** wrote the Awadhi *Ramcharitmanas* in Akbar’s age. **Kavindra Acharya** of Banaras is linked to Shah Jahan’s court culture.
 18. These are **not** UP tombs: Babur at Kabul, Jahangir at Lahore, Humayun at Delhi.
@@ -57,7 +57,7 @@ No 2025–26 scheme rewrites mansab or Din-i-Ilahi (verified August 2026).
 25. Persian was the language of farmans, chronicles, and court poetry after Babur. Turki remained Babur’s personal memoir tongue, not later court speech.
 26. **Din-i-Ilahi** never replaced Islam as state religion. **Sulh-i-kul** is the broader public tolerance policy examined more often than the private cult.
 27. **Jaunpur** Sharqi architecture is a regional Sultanate style of eastern UP. It is not Delhi Slave or Khalji architecture.
-28. **Azizuddin Khan** is linked to the *Nagarkot* / Kangra campaign literature fact in the medieval culture map; keep him separate from Abul Fazl’s court histories.
+28. In medieval cultural historiography, **Azizuddin Khan** is noted for translating Sanskrit texts during Firoz Shah Tughlaq's Nagarkot/Kangra campaign (*Dalail-i-Firoz Shahi*); he is distinct from Abul Fazl's Mughal court histories.
 
 ---
 
@@ -120,7 +120,7 @@ No 2025–26 scheme rewrites mansab or Din-i-Ilahi (verified August 2026).
 - Under **Aurangzeb**, the imperial atelier shrinks. Painters move to Rajput and Deccan courts.
 - Rajput schools (Mewar, Marwar, Bundi, Kishangarh) use Hindu narrative and flat colour. They are not Mughal portrait naturalism.
 - Pahari schools (Basohli, Guler, Kangra) paint hill Krishna-lila.
-- **Pietra dura** inlay is the Taj / Shah Jahan decorative fact.
+- **Pietra dura** (*parchin kari*) stone inlay represents the quintessential decorative art of Shah Jahan's monuments, most exquisitely displayed at the Taj Mahal.
 - Calligraphy is a primary Islamic art, not a side craft.
 
 > **Logic:** Jahangir = Mansur / naturalism. Akbar = Razmnama atelier**. Rajput ≠ Mughal.
@@ -269,7 +269,7 @@ D. Tin Darwaza – Ahmedabad
 - Akbar’s translation bureau rendered *Razmnama*, the Ramayana and the Atharvaveda into Persian.
 - **Tulsidas** wrote *Ramcharitmanas* in Awadhi, in Akbar’s century.
 - **Kavindra Acharya Saraswati** of Banaras had **Shah Jahan** as patron.
-- Many Sanskrit **music** treatises were rendered into Persian. Chishti *sama* is a separate fact. It does **not** explain the translation drive.
+- Numerous Sanskrit musical treatises were systematically translated into Persian during the Mughal era; while Sufi Chishti *sama* (musical audition) reflects spiritual devotion, it does not directly explain the court-sponsored imperial translation movement.
 
 > **Logic:** Mughal memoirs were in **Turki**; court record ran in **Persian**. *Tughlaqnama* is not Ibn Battuta's work.
 

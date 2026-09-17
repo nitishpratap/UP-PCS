@@ -30,7 +30,7 @@ Vedic chanting UNESCO ICH **2008**. Sankirtana (Manipur) **2013**.
 
 ## Consolidated — 24 Must-Score Facts
 
-1. **Sangeet** means **gita** (vocal) + **vadya** (instrumental) + **nritya** (dance). The earliest chant fact is the **Samaveda**.
+1. In Indian tradition, **Sangeet** encompasses the triad of **gita** (vocal music), **vadya** (instrumental music), and **nritya** (dance). The earliest textual foundation for sacred melodic chanting is the **Samaveda**.
 2. Theory roots are **Natyashastra** by **Bharata Muni** and the first clear use of the word **raga** in **Matanga**’s *Brihaddeshi*.
 3. The medieval encyclopedia is **Sangeet Ratnakar** by **Sharngadeva** (**13th** century, Devagiri).
 4. There are **seven** swaras (**Sa Re Ga Ma Pa Dha Ni**) and traditionally **22** shrutis in an octave.
@@ -41,19 +41,19 @@ Vedic chanting UNESCO ICH **2008**. Sankirtana (Manipur) **2013**.
 9. The Carnatic Trinity is **Tyagaraja** (Telugu Rama kritis), **Muthuswami Dikshitar** (Sanskrit), and **Syama Sastri** (Devi kritis). They are not Tansen’s line.
 10. Treatise matchs are **Ragamala–Pundrik Vitthal**, **Rasa Kaumudi–Sri Kantha**, **Raga Vibodh–Somanath**, and **Chaturdandi Prakashika–Venkatamakhin**.
 11. **Gwalior** is the oldest khayal gharana. **Agra** gharana is of Agra city in UP. **Kirana** gharana is of Kirana village in the western UP belt.
-12. **Patiala** facts **Bade Ghulam Ali Khan. Jaipur–Atrauli** facts **Kishori Amonkar. Maihar** facts **Allauddin Khan** and is in **Madhya Pradesh**, not UP.
+12. Celebrated gharana maestros include **Ustad Bade Ghulam Ali Khan** of the **Patiala** Gharana, **Kishori Amonkar** of the **Jaipur–Atrauli** Gharana, and **Ustad Allauddin Khan** of the **Maihar** Gharana (located in **Madhya Pradesh**, not Uttar Pradesh).
 13. **Kirana** is strongly linked with **Bhimsen Joshi**. Do not place Maihar or Tyagaraja Aradhana inside UP.
 14. Instrument families are **tata** (plucked string), **vitat** (bowed string), **sushira** (wind), **avanaddha** (membrane), and **ghana** (solid / idiophone).
 15. **Tabla** pairs with khayal and thumri. **Pakhawaj** pairs with dhrupad. **Mridangam** is the Carnatic primary drum.
 16. **Shehnai** is the Hindustani reed of Banaras. **Nadaswaram** is the Carnatic temple reed.
 17. **Tansen** was a dhrupad master of Akbar’s Navaratna, earlier at the court of Raja Ramchandra of Bhata / Rewa. He is not part of the Carnatic Trinity.
-18. UP musician facts include **Bismillah Khan** (shehnai, Varanasi), **Begum Akhtar** (Faizabad / Lucknow), and **Girija Devi** (Banaras thumri).
-19. UP light-classical geography facts **thumri** of Lucknow–Banaras and **Kajri** of Mirzapur–Banaras. **Swami Haridas** belongs to Vrindavan.
+18. Renowned musical legends associated with Uttar Pradesh include **Ustad Bismillah Khan** (shehnai, Varanasi), **Begum Akhtar** (Ghazal and Thumri, Faizabad and Lucknow), and **Girija Devi** (the "Queen of Thumri", Banaras).
+19. Key light-classical traditions of Uttar Pradesh include **Thumri** (nurtured in Lucknow and Banaras), **Kajri** (monsoon songs rooted in Mirzapur and Varanasi), and the Dhrupad legacy of **Swami Haridas** at Vrindavan.
 20. **Sangeet Natak Akademi** was founded in **1952** at New Delhi as the apex body for music, dance, and theatre.
-21. Bharat Ratna musician years fact as **M.S. Subbulakshmi 1998**, **Ravi Shankar 1999**, **Bismillah Khan 2001**, and **Bhimsen Joshi 2008**.
+21. The chronological conferment of the **Bharat Ratna** upon classical musicians is: **M.S. Subbulakshmi (1998)**, **Pt. Ravi Shankar (1999)**, **Ustad Bismillah Khan (2001)**, and **Pt. Bhimsen Joshi (2008)**.
 22. A **raga** is a melody framework. A **tala** is a beat-cycle. **Teental** is **16** beats. Carnatic **Adi tala** is **8**.
 23. Vedic chanting is UNESCO ICH **2008**. Manipuri **Sankirtana** is UNESCO ICH **2013**.
-24. Tansen Samaroh is held at **Gwalior, Madhya Pradesh**. It is not a UP festival fact.
+24. The prestigious annual **Tansen Samaroh** is hosted at the tomb of Tansen in **Gwalior, Madhya Pradesh**, not in Uttar Pradesh.
 
 ---
 
@@ -119,17 +119,18 @@ Vedic chanting UNESCO ICH **2008**. Sankirtana (Manipur) **2013**.
 **Identity:** Raga–tala art music | Two classical branches after ~12th–13th c. | Folk and film run parallel
 
 - **Sangeet** is *gita* (vocal) + *vadya* (instrumental) + *nritya* (dance).
-- The earliest musical fact is **Samaveda** (chanted hymns). It is not a concert raga book.
-- The theory root is **Natyashastra** by **Bharata Muni**.
-- The first clear use of the word **raga** is **Matanga**, *Brihaddeshi*.
-- The medieval encyclopedia is **Sangeet Ratnakar** by **Sharngadeva** (**13th** c., Devagiri).
+- The earliest musical source in Indian history is the **Samaveda**, comprising liturgical Vedic verses set to melody; it represents sacred chanting rather than modern concert ragas.
+- Bharata’s *Natyashastra* gives the foundational grammar of *jati* melodies.
+- Matanga’s *Brihaddeshi* (~8th c.) gives the first surviving clear definition of **raga**.
+- Sharngadeva’s *Sangeet Ratnakar* (**13th c.**) is the great medieval compendium before the north–south split widened.
+- The north–south split crystallized during the Delhi Sultanate / Vijayanagara era.
 - **Raga** is a melody framework. It is not “a Western scale.” It has aroha, avarohana, vadi, samvadi, rasa, and often a time/season.
 - **Tala** is a repeating beat-cycle. **Teental** is **16**. Carnatic **Adi tala** is **8**.
 - The seven swaras are **Sa Re Ga Ma Pa Dha Ni**.
 - Sanskrit names are Shadja, Rishabha, Gandhara, Madhyama, Panchama, Dhaivata and Nishada.
 - There are **22 shrutis** in an octave. This is finer than Western semitones.
 - The two classical systems are **Hindustani** (north) and **Carnatic** (south). Do not call Carnatic “southern Hindustani.”
-- Folk and film run parallel to classical. UP light facts are **Kajri**, **thumri** and **Begum Akhtar**.
+- Folk and semi-classical music flourish alongside the classical tradition; prominent Uttar Pradesh light-classical forms include **Kajri** and **Thumri**, with **Begum Akhtar** being their most celebrated exponent.
 - Sangeet Natak Akademi was founded in **1952**, New Delhi. It is the apex body for music, dance and theatre.
 
 ### Treatise ↔ author (UPPCS match set)
@@ -195,10 +196,9 @@ D. 1 2 3 4
 - **Khayal** is the dominant concert form today. The drum is **Tabla**. It has bada (slow) + chhota (fast).
 - Khayal bloom is **Niyamat Khan Sadarang** and Adarang at **Muhammad Shah Rangeela’s** court.
 - **Thumri** is light classical. It is romantic *bol banav*. Centres are **Lucknow** and **Banaras** (**UP**).
-- **Tappa** is short, fast and ornate. It has a camel-song origin (Punjab/NW). It was refined at **Muhammad Shah’s** court.
-- The tappa composer fact is **Shori Miyan (Ghulam Nabi)**. It is not Akbar, not Jahangir, and not Shah Jahan.
-- **Tarana** uses nonsense syllables (*tom, ta, der*). It is a fast close. Tradition links **Amir Khusrau**.
-- **Ghazal** is Urdu poetry, semi-classical. **Begum Akhtar** (Faizabad–Lucknow) is the UP fact.
+- The primary architect and composer of classical **Tappa** was **Shori Miyan (Ghulam Nabi)** in the 18th-century court of Asaf-ud-Daula; it did not originate under Akbar or Jahangir.
+- **Tarana** is attributed to Amir Khusrau. It uses rhythmic mnemonic syllables (*ta na na dere na*).
+- The semi-classical **Ghazal** tradition in Uttar Pradesh was immortalized by **Begum Akhtar** (Akhtari Bai Faizabadi), associated with Faizabad and Lucknow.
 - **Qawwali** is Sufi chorus. **Amir Khusrau** is the disciple of **Nizamuddin Auliya**.
 - **Dadra** is light, like thumri, often 6-beat.
 - **Hori / Kajri / Chaiti** are seasonal light forms. **Kajri** is monsoon of the **Mirzapur–Banaras belt (UP)**.
@@ -300,38 +300,30 @@ D. Muhammad Shah
 
 Later set splits string into **Tata** as plucked and **Vitat** as bowed.
 
-### Family facts
+### Instrument Families (Natya Shastra Classification)
 
-- **Tata / Tat** is plucked string. Examples are sitar, sarod, veena and tanpura.
-- **Vitat** is bowed string. Examples are sarangi, esraj and violin.
-- **Sushira / Sushir** is wind. Examples are bansuri, shehnai, nadaswaram and shankh.
-- **Avanaddha** is membrane drum. Examples are tabla, pakhawaj, mridangam and dholak.
-- **Ghana** is solid, with no skin. **Manjira** and kartal belong here. **Ghatam** is a clay pot. Park it in **Ghana**, not tabla-class.
+- **Tata / Tat (Plucked Strings):** Examples include sitar, sarod, Saraswati veena, and tanpura.
+- **Vitat (Bowed Strings):** Examples include sarangi, esraj, and violin.
+- **Sushira / Sushir (Wind):** Examples include bansuri, shehnai, nadaswaram, and shankh.
+- **Avanaddha (Percussion / Membranes):** Examples include tabla, pakhawaj, mridangam, and dholak.
+- **Ghana (Idiophones / Solid):** Solid instruments without membranes; examples include manjira, kartal, and the clay pot **Ghatam** (classified as Ghana, not Avanaddha).
 
-### One instrument, one fact
+### Master Instrumentalists & Characteristics
 
-- **Sitar** is a Hindustani lute. It has a gourd and movable frets.
-- **Ravi Shankar** is the sitar fact.
-- **Sarod** is fretless. It has a metal fingerboard.
-- **Amjad Ali Khan** is sarod.
-- **Ali Akbar Khan** is sarod.
-- **Saraswati veena** is the Carnatic main plucked lute.
-- **Rudra veena** is Hindustani. It is dhrupad. It is not the same as Saraswati veena.
-- **Tanpura** is drone only. It is not a melody soloist.
-- **Sarangi** is bowed. It is closest to the human voice. It is vocal accompaniment.
-- **Bansuri** is a bamboo flute. It has Krishna iconography.
-- **Hariprasad Chaurasia** is bansuri.
-- **Shehnai** is a Hindustani reed.
-- **Bismillah Khan** of **Varanasi (UP)** gave shehnai concert status.
-- **Nadaswaram** is a Carnatic temple reed. It is longer and louder than shehnai.
-- **Tabla** is paired drums. It is Hindustani khayal/thumri.
-- **Alla Rakha** is tabla.
-- **Zakir Hussain** is tabla.
-- **Pakhawaj** is a barrel drum. It is **Dhrupad** only in the standard match.
-- **Mridangam** is the Carnatic main drum.
-- **Palghat Mani Iyer** is mridangam.
-- **Kanjira** is a Carnatic frame drum.
-- **Harmonium** is a reed-box. It is used in khayal/ghazal. Purists argue it is not a classical Indian *vadya*.
+- **Sitar:** A plucked string instrument (Tata) with movable frets and a gourd resonator, popularized globally by **Pt. Ravi Shankar** and **Ustad Vilayat Khan**.
+- **Sarod:** A fretless plucked string instrument with a polished steel fingerboard, masterfully played by **Ustad Amjad Ali Khan** and **Ustad Ali Akbar Khan**.
+- **Saraswati Veena:** The primary plucked lute of Carnatic classical music, associated with Goddess Saraswati.
+- **Rudra Veena:** The ancient, deep-toned plucked string instrument of Hindustani music, traditionally used in Dhrupad performance.
+- **Tanpura:** A plucked drone instrument that provides the foundational harmonic pitch for classical vocal and instrumental recitals.
+- **Sarangi:** A bowed string instrument (Vitat) whose rich, resonant timbre is considered closest to the human voice; traditionally used as vocal accompaniment in Khayal and Thumri.
+- **Bansuri:** A transverse bamboo flute (Sushira) intimately linked with Krishna iconography and elevated to classical prominence by **Pt. Hariprasad Chaurasia**.
+- **Shehnai:** A double-reed wind instrument elevated to the classical concert stage by **Ustad Bismillah Khan** of Varanasi.
+- **Nadaswaram:** A long, powerful double-reed temple wind instrument of South India, central to auspicious Carnatic ceremonies.
+- **Tabla:** A paired hand-drum set (Avanaddha: Dayan and Bayan) central to Hindustani Khayal, Thumri, and instrumental recitals; epitomized by **Ustad Alla Rakha** and **Ustad Zakir Hussain**.
+- **Pakhawaj:** An ancient barrel-shaped two-headed drum, traditionally used to accompany Dhrupad singing.
+- **Mridangam:** The primary rhythmic percussion instrument of Carnatic classical concerts, masterfully performed by legends like **Palghat Mani Iyer**.
+- **Kanjira:** A South Indian circular frame drum with monitor-lizard skin, used in Carnatic percussion ensembles.
+- **Harmonium:** A free-reed keyboard instrument widely used for accompanying Khayal, Ghazal, and devotional singing.
 
 > **Logic:** Sitar is Tata. Sarangi is Vitat. Shehnai is Sushira. Tabla is Avanaddha. Ghatam is not tabla family.
 
@@ -364,23 +356,23 @@ Later set splits string into **Tata** as plucked and **Vitat** as bowed.
 
 ### Instrumental
 
-- **Allauddin Khan** is the Maihar founder. He is a sarod/sitar teacher.
-- **Ravi Shankar** is sitar. He is Maihar. He received Bharat Ratna **1999**.
-- **Ali Akbar Khan** is sarod. He is Maihar.
-- **Vilayat Khan** is sitar. He is Imdadkhani.
-- **Amjad Ali Khan** is sarod.
-- **Bismillah Khan** is **shehnai**. He is **Varanasi**. He received Bharat Ratna **2001**. Independence-Day Red Fort is a fact in many papers.
-- **Hariprasad Chaurasia** is bansuri.
-- **Alla Rakha** is tabla. He is Punjab gharana.
-- **Zakir Hussain** is tabla. He died **15 Dec 2024**. He received Padma Vibhushan **2023**. He is not shehnai.
+- **Allauddin Khan:** Founder of the Maihar Gharana; legendary guru of sarod and sitar.
+- **Pt. Ravi Shankar:** Renowned sitar maestro of the Maihar Gharana; awarded the **Bharat Ratna in 1999**.
+- **Ali Akbar Khan:** Eminent sarod maestro of the Maihar Gharana.
+- **Vilayat Khan:** Celebrated sitar maestro of the Imdadkhani Gharana.
+- **Amjad Ali Khan:** Preeminent sarod maestro of the Gwalior/Senia Bangash lineage.
+- **Ustad Bismillah Khan:** The peerless maestro of the **shehnai**, based in **Varanasi**; he performed at the Red Fort on Independence Day in 1947 and was awarded the **Bharat Ratna in 2001**.
+- **Hariprasad Chaurasia:** Eminent bansuri virtuoso.
+- **Alla Rakha:** Celebrated tabla maestro of the Punjab Gharana.
+- **Zakir Hussain:** Internationally renowned tabla virtuoso; died on **15 Dec 2024**; honored with the Padma Vibhushan in **2023**.
 
-### Carnatic
+### Carnatic Vocalists & Instrumentalists
 
-- **Purandara Dasa** is early pedagogy. He wrote Kannada *devaranama*.
-- **Tyagaraja** wrote Telugu Rama *kritis*.
-- **Muthuswami Dikshitar** wrote Sanskrit *kritis*.
-- **Syama Sastri** wrote Devi *kritis*.
-- **M.S. Subbulakshmi** is Carnatic vocal. She is the first musician **Bharat Ratna (1998)**. UN concert is a fact.
+- **Purandara Dasa:** Revered as the *Pitamaha* (grandfather) of Carnatic music; codified foundational pedagogical exercises and composed Kannada *devaranamas*.
+- **Tyagaraja:** Composed Telugu *kritis* dedicated to Lord Rama; foremost member of the Carnatic Trinity.
+- **Muthuswami Dikshitar:** Composed profound Sanskrit *kritis* with intricate raga structures.
+- **Syama Sastri:** Composed intense Devi *kritis* in complex talas.
+- **M.S. Subbulakshmi:** Legendary Carnatic vocalist who was the first musician conferred the **Bharat Ratna (1998)**; gave a historic performance at the UN General Assembly in 1966.
 - **Semmangudi Srinivasa Iyer** is Carnatic vocal.
 - **Lalgudi Jayaraman** is violin.
 - **Palghat Mani Iyer** is mridangam.
@@ -766,7 +758,7 @@ D. 1, 2, 3 and 4
 
 **Ans: B.** Only 1, 2 and 3 are correct.
 
-**Logic:** Tyagaraja Aradhana is not a UP festival fact. Tansen Samaroh is at Gwalior, MP.
+**Logic:** Tyagaraja Aradhana is held at Thiruvaiyaru (Tamil Nadu), not in UP. Tansen Samaroh is held at Gwalior (MP).
 
 </details>
 
@@ -843,7 +835,7 @@ D. Only 3
 
 **Ans: C.** 1 and 2 only are correct.
 
-**Logic:** Tansen Samaroh is a Gwalior festival fact, not an ICH listing in this spine.
+**Logic:** Tansen Samaroh is an annual festival celebrated at Gwalior (MP), not an inscribed UNESCO Intangible Cultural Heritage element.
 
 </details>
 
@@ -1070,7 +1062,7 @@ D. Both are UNESCO listings identical with Vedic chanting
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Kajri and thumri are UP light-classical geography facts.
+**Ans: A.** Kajri and Thumri are prominent light-classical musical traditions native to Uttar Pradesh.
 
 **Logic:** Do not relocate them into Carnatic Trinity or Deccani centres.
 

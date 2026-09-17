@@ -22,7 +22,7 @@ Indian Temple Architecture | Nagara Style | Dravida Style | Vesara Style | Templ
 - Sarnath is India’s **45th** World Heritage property. The serial site joins **Chaukhandi Stupa** with the archaeological remains around **Dhamek** and the Ashokan pillar zone.
 - **Maratha Military Landscapes of India** entered the list in **2025** as India’s **44th** property. The set covers **12** forts: eleven in Maharashtra and **Gingee** in Tamil Nadu.
 - **Moidams – the Mound-Burial System of the Ahom Dynasty** at Charaideo in Assam entered the list in **2024** as India’s **43rd** property.
-- These three inscriptions sit on this architecture and landscape card. They are not painting or dance facts.
+- These recent World Heritage inscriptions reflect India's architectural, fortificatory, and funerary landscape heritage.
 
 ---
 
@@ -551,7 +551,7 @@ D. Bodhgaya
 - Ellora caves **30–34** are Jain. **Chhota Kailasa** sits in the Jain group. Indra Sabha is cave **32**.
 - Rashtrakuta courts also patronised Jain scholars. **Amoghavarsha I** was a disciple of **Jinasena**, author of the *Adipurana*.
 - **Elephanta** is Gharapuri island in Mumbai harbour. UNESCO listed it in **1987**. The main caves are **Shaiva** rock-cut work of Rashtrakuta-age patronage. A smaller Buddhist cave group also exists.
-- Elephanta’s fact is the **Trimurti** or **Maheshamurti** of Aghora, Tatpurusha, and Vamadeva. It is not Buddhist Ajanta. It is not Ellora Kailasa.
+- Elephanta is celebrated for its monumental rock-cut **Trimurti** (or **Maheshamurti**), depicting the three aspects of Shiva: Aghora (Bhairava/fierce), Tatpurusha (serene), and Vamadeva (gentle/creative). It is Shaivite and distinct from Buddhist Ajanta and Ellora's monolithic Kailasa.
 - **Sittanavasal** in Tamil Nadu is a **Jain** cave shrine of Pallava age. Do not merge it with Ajanta’s Buddhist murals.
 - **Badami** has four Chalukya caves. Cave 3, a Vishnu cave of Mangalesha, is the largest. Badami is not India’s oldest rock-cut work. Barabar and the Bhimbetka horizon are earlier.
 - **Udayagiri** and **Khandagiri** near Bhubaneswar are Jain. The **Hathigumpha** inscription at Udayagiri belongs to **Kharavela**.
@@ -650,7 +650,7 @@ D. Kanishka
 
 - Sher Shah’s tomb at **Sasaram** in Bihar, about **1545**, is octagonal. It prefigures Mughal garden-tomb scale.
 - In Delhi he left **Purana Qila** and the **Qila-i-Kuhna** mosque.
-- The Grand Trunk Road is a road fact, not an architectural style card.
+- In addition to his architectural monuments, Sher Shah reconstructed and expanded the ancient arterial highway (*Sadak-e-Azam*, later known as the Grand Trunk Road) connecting Sonargaon in Bengal to Attock in the Punjab.
 
 **PYQ — UPPCS Prelims 2022, Q4**
 
@@ -885,7 +885,7 @@ D. III, IV, II, I
 - The **Prayagraj** pillar originally stood at Kaushambi. Later inscriptions of Samudragupta and Jahangir sit on it.
 - **Barabar** caves are Mauryan Ajivika chambers. **Lomas Rishi** has the famous facade.
 - Megasthenes compared the wooden palace at Pataliputra with Persepolis.
-- The **Didarganj Yakshi** shows Mauryan polish. Treat it as a sculpture fact.
+- The life-sized **Didarganj Yakshi** (Chauri-bearer) found near Patna showcases the pinnacle of Mauryan polish on sandstone, serving as an iconic benchmark of Mauryan court sculpture.
 - Post-Maurya Buddhist work includes the Sanchi and Bharhut stupas and the Western Ghat chaitya–vihara caves.
 - Gupta builders raise the first Hindu **structural** temple. **Dhamek** at Sarnath belongs to this age.
 - The **Heliodorus Garuda** pillar at Besnagar / Vidisha is **Vaishnava / Bhagavata**. It is not a Shaiva cave shrine.
@@ -3513,7 +3513,7 @@ D. 1, 2, 3 and 4
 
 Assertion (A): Freestanding structural temples begin prominently in the Gupta age.
 
-Reason (R): Dashavatara temple at Deogarh is a classic early panchayatana fact.
+Reason (R): The Dashavatara temple at Deogarh is a classic early example of a freestanding panchayatana temple.
 
 Select the correct answer from the code given below:
 
@@ -3639,7 +3639,7 @@ D. Bhitargaon is a Sultanate batter gateway at Delhi
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Bhitargaon is the classic UP Gupta brick temple fact.
+**Ans: A.** Bhitargaon represents the classic Gupta-period brick temple in Uttar Pradesh.
 
 **Logic:** Pair it with Garhwa (Prayagraj) when UP Gupta architecture is asked.
 

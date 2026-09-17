@@ -38,17 +38,17 @@ Archaeology | Archaeological Discoveries | Excavations | Ancient Sites
 8. Indus geography: Harappa (Pakistan Punjab), Mohenjo-daro (Sindh), **Dholavira** and **Lothal** (Gujarat), **Kalibangan** (Rajasthan), **Rakhigarhi** (Haryana, largest in India, **not UP**).
 9. Uttar Pradesh Indus sites: **Alamgirpur** (easternmost, Meerut), **Mandi**, **Hulas** (Saharanpur belt), and **Santhali** (Bijnor).
 10. **Mandi** and **Hulas** are UP. **Rakhigarhi** is Haryana. That state split is a standing prelims trap.
-11. Match fact: **Balu–Haryana**, **Manda–Jammu & Kashmir**, **Padri–Gujarat**, **Hulas–Uttar Pradesh**.
-12. Boat / dock evidence is linked to **Mohenjo-daro** and **Lothal. Lothal** is the dockyard fact; **Dholavira** is reservoirs and the signboard fact.
+11. Key Harappan geographical correlations: **Balu** (Haryana), **Manda** (Jammu & Kashmir), **Padri** (Gujarat), and **Hulas** (Uttar Pradesh).
+12. Maritime and shipping evidence appears at **Mohenjo-daro** (terracotta boat amulets) and **Lothal** (the world's earliest tidal dockyard); **Dholavira** is distinguished by monumental stone water reservoirs and a ten-symbol inscription signboard.
 13. Prehistoric matchs include **Nevasa** (Maharashtra), **Isampur** (Karnataka), **Didwana** (Rajasthan), and **Gudiyam** (Tamil Nadu).
 14. **Bhimbetka** was identified by **V. S. Wakankar** in **1957** in **Madhya Pradesh**. It is prehistoric rock shelter art, not a Harappan city.
 15. **Sanauli** in **Baghpat, UP**, excavated around **2018**, is the late Harappan / OCP **chariot** site. It is not the easternmost Indus city.
 16. Early historic UP sites include **Sarnath**, **Hastinapur**, **Kaushambi**, **Ahichhatra**, and **Shravasti**.
-17. Prehistoric UP belt facts include the **Belan valley**, **Sarai Nahar Rai**, and **Mahadaha**.
+17. Crucial prehistoric archaeological complexes in Uttar Pradesh include the **Belan Valley** (Palaeolithic to Neolithic sequence, including Koldihwa), and Pratapgarh's Mesolithic habitation-burial sites at **Sarai Nahar Rai**, **Mahadaha**, and **Damdama**.
 18. **In-situ** conservation keeps remains on the mound. **Ex-situ** moves objects to a museum. Both appear in heritage management stems.
 19. **BSIP Lucknow** is named for aDNA work linked to recent Rakhigarhi skeletal study. The bones themselves are from **Haryana**, not from a UP Indus city.
 20. Excavator spine: Cunningham (seal / ASI), Sahni (Harappa), Banerji (Mohenjo-daro), Marshall (announcement / mass dig), Wheeler (1946 grid), Wakankar (Bhimbetka), **S. R. Rao** (Lothal), **R. S. Bisht** (Dholavira), **B. B. Lal** (Kalibangan–Hastinapur).
-21. **Manda** is a northern Indus outpost in Jammu & Kashmir. It is **not** the eastern boundary site; that eastern fact is **Alamgirpur**.
+21. **Manda** (on the Chenab in Jammu & Kashmir) marks the northern frontier of the Indus Valley Civilisation, whereas **Alamgirpur** (on the Hindon in Meerut, UP) marks its easternmost frontier.
 22. Archaeology dates by layers and materials. A stone seal needs associated organic samples or other methods; bare C-14 on stone is a false option.
 23. **Harappa** and **Mohenjo-daro** are the twin discovery cities of the 1920s. Later famous Indian sites fill the Gujarat–Rajasthan–Haryana–UP map.
 24. **Kalibangan** is famous for the ploughed field and fire altars in Rajasthan. Do not place Kalibangan in Uttar Pradesh.
@@ -116,7 +116,7 @@ Archaeology | Archaeological Discoveries | Excavations | Ancient Sites
 - **Stratigraphy** follows the law of superposition. In an undisturbed trench the **lower layer is older**.
 - **Typology** dates by shape. A pot type or seal style is matched across mounds before a lab date exists.
 - **Radiocarbon (C-14)** dates **organic** carbon: charcoal, bone, wood, seed. It does **not** date a stone seal or a copper tool by itself.
-- **Thermoluminescence** dates **fired** clay and burnt brick. It is the pottery fact.
+- **Thermoluminescence (TL) dating** is employed specifically to date crystalline materials subjected to heat, making it the primary method for dating ancient pottery, terracotta figurines, and fired brick.
 - **Pollen analysis** reconstructs crop and climate. It does not date a metal hoard.
 - **Epigraphy** reads inscriptions. **Numismatics** reads coins. Both are archaeological source-types, not separate ministries.
 - Field archaeology is survey, trench and record. Underwater work is a branch. **Dwarka** and **Poompuhar** are the named marine cases.
@@ -140,7 +140,7 @@ Archaeology | Archaeological Discoveries | Excavations | Ancient Sites
 - **John Marshall** announced the Indus civilisation to the world in **1924**. Large ASI clearance at Mohenjo-daro ran into **1931**.
 - **Mortimer Wheeler** re-dug **Harappa in 1946** with a measured grid. He is not the first IVC excavator.
 - **Mehrgarh** in Balochistan is the Neolithic farming precursor. It is not an Indian state site.
-- **V. S. Wakankar** first showed that **Bhimbetka** was prehistoric. The year fact is **1957**. The state is **Madhya Pradesh**. He is not Sankalia, not Vatsa, not V. N. Mishra as first visitor.
+- Archaeologist **Dr. V. S. Wakankar** discovered the prehistoric rock shelters and paintings of **Bhimbetka** (Raisen district, Madhya Pradesh) in **1957**, establishing their Upper Palaeolithic and Mesolithic antiquity. He is distinct from H. D. Sankalia, M. S. Vats, or V. N. Mishra.
 
 **PYQ — UPPCS Prelims 2020, Q10**
 
@@ -184,7 +184,7 @@ D. V. N. Mishra
 - Marshall’s earlier IVC work was broader clearance. Wheeler added measured stratigraphy. Wheeler did **not** discover Harappa.
 - Sequence on a licensed dig: survey → permission → grid and datum → layer-by-layer lift → sieve → draw and photograph → conserve → publish.
 - **Rescue / salvage** excavation records a mound before a dam or highway removes it.
-- High water tables rot brick. Village overlay on **Rakhigarhi** and **Hastinapur** is the encroachment fact.
+- Conservation challenges include rising water tables that decompose baked brick, while modern habitation overlaying ancient mounds at **Rakhigarhi** and **Hastinapur** poses severe encroachment challenges.
 - **H. D. Sankalia** is the Deccan Chalcolithic name. **Nevasa** and **Inamgaon** are his sites.
 - Underwater excavation is still excavation. It is not a third dating method.
 
@@ -239,10 +239,10 @@ D. A-3, B-2, C-4, D-1
 
 ### Harappan / IVC
 
-- **Harappa** is in Pakistani **Punjab**. Granary fact. Sahni 1921.
+- **Harappa** (Sahiwal district, Pakistani Punjab): Excavated by Daya Ram Sahni in 1921; noted for its Great Granary, citadel, and cemetery R-37.
 - **Mohenjo-daro** is in **Sindh**. Great Bath and planned streets. Banerji 1922. Boat models occur here.
 - **Dholavira** is in **Kutch, Gujarat**. Reservoirs, stadium, signboard. WHS **2021**.
-- **Lothal** is in **Gujarat. Dockyard** and bead factory. Boat models occur here too.
+- **Lothal** (Gulf of Khambhat, Gujarat): Excavated by S. R. Rao; featuring a tidal dockyard, bead-making factory, fire altars, and terracotta boat models.
 - **Kalibangan** is in **Rajasthan**. Fire altars and a ploughed field. **B. B. Lal**.
 - **Rakhigarhi** is in **Hisar, Haryana**. It is India’s **largest** IVC site. It is **not** in UP.
 - **Banawali** is in **Haryana**.
@@ -250,7 +250,7 @@ D. A-3, B-2, C-4, D-1
 - **Padri** is in **Gujarat**.
 - **Manda** is in **Jammu & Kashmir**. It marks the **northern** edge, not the east.
 - **Surkotada** is in Gujarat. Horse-bone debate.
-- **Chanhudaro** is in Sindh. Bead factory, no citadel.
+- **Chanhudaro** (Sindh, Pakistan): Specialized craft and bead manufacturing centre without a fortified citadel; excavated by N. G. Majumdar and Ernest Mackay.
 - **Alamgirpur** is in **Meerut, UP**. It marks the **eastern** boundary.
 - **Mandi** is in **Uttar Pradesh**.
 - **Hulas** is in **Saharanpur, UP**.

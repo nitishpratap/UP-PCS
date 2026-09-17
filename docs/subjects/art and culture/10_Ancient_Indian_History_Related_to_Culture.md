@@ -32,8 +32,8 @@ No scheme/ministry CA changes the static craft and school lists (verified August
 ## Consolidated — 26 Must-Score Facts
 
 1. Ancient Indian cultural span runs from **Bhimbetka** rock art through **Indus Valley** cities (about **2600–1900 BCE**), then **Maurya**, **Shunga–Kushan**, and **Gupta** (4th–6th century CE).
-2. Indus art facts are **steatite seals**, **terracotta mother goddess**, planned brick cities, and the **Dancing Girl** bronze made by **lost-wax**.
-3. **Northern Black Polished Ware (NBPW)** is the Mauryan fine pottery fact. **Ajanta** murals are the **Gupta–Vakataka** painting fact.
+2. Hallmark artistic achievements of the Indus Valley Civilisation include carved **steatite seals**, figurines of the **terracotta Mother Goddess**, meticulously planned baked-brick cities, and the iconic **Dancing Girl** bronze sculpture cast using the **lost-wax** (*cire perdue*) technique.
+3. **Northern Black Polished Ware (NBPW)** is the diagnostic deluxe pottery of the Mauryan and Northern Black Polished Ware period, while the classical Buddhist rock-cut murals of **Ajanta** represent the zenith of **Gupta–Vakataka** painting.
 4. Sculpture schools: **Gandhara** uses grey **schist** with Greco-Roman Buddha style in the north-west. **Mathura** uses red **sandstone** and is indigenous in **Uttar Pradesh. Amaravati** uses white **limestone** narrative panels in Andhra.
 5. **Mauryan polish** on **Chunar** sandstone (Mirzapur belt) gives a mirror finish. The **Didarganj Yakshi** is the classic Mauryan polish figure.
 6. **Bharhut** and early **Sanchi** are **Shunga** narrative reliefs. Early Sanchi is largely **aniconic** (wheel, tree, throne), not a human Buddha.
@@ -43,20 +43,20 @@ No scheme/ministry CA changes the static craft and school lists (verified August
 10. **Rock-cut** architecture (Barabar, chaityas) is carved into living rock. **Structural** temples are built from the Gupta age onward as freestanding buildings.
 11. Uttar Pradesh Indus sites are **Alamgirpur**, **Mandi**, and **Hulas. Alamgirpur** (Meerut belt) is the **easternmost** Indus site.
 12. **Rakhigarhi** is in **Haryana** and is the largest Indus site in India. It is **not** in Uttar Pradesh.
-13. **Sanauli** in **Baghpat** is a late Harappan / OCP **chariot** site. It is an extra UP fact and not the easternmost Indus city.
+13. **Sanauli** (Baghpat district, UP) is a late Harappan / Ochre Coloured Pottery (OCP) burial site famous for the discovery of copper-plated **war chariots**, coffins, and weaponry, representing a distinct post-urban transitional phase.
 14. These are **not** UP Indus sites: Lothal and Dholavira (**Gujarat**), Kalibangan (**Rajasthan**), Manda (**Jammu & Kashmir**), and Mohenjo-daro (**Sindh**).
-15. Match fact: **Balu–Haryana**, **Manda–Jammu & Kashmir**, **Padri–Gujarat**, **Hulas–Uttar Pradesh**.
+15. Key Harappan site matches: **Balu** (Haryana), **Manda** (Jammu & Kashmir), **Padri** (Gujarat), and **Hulas** (Saharanpur, Uttar Pradesh).
 16. Boat / dock evidence appears at **Mohenjo-daro** and **Lothal. Kalibangan** holds the famous **ploughed-field** evidence.
-17. Indus crops include **wheat**, **barley**, and **cotton**. Cotton is an Indus fact, not a modern-only crop. Rice expands strongly in the eastern later Vedic belt.
+17. Primary Indus agricultural crops included **wheat**, **barley**, and **cotton** (cultivated earliest in the subcontinent); widespread rice cultivation expanded later in the eastern Gangetic valley during the later Vedic period.
 18. The **Arthashastra** shows state interest in agriculture and craft regulation. **Sreni** are craft **guilds. Nanadesi** were itinerant “many-country” merchants.
-19. **Chanhudaro** is the Indus **bead** craft centre. Punch-marked coins are the early Mauryan money fact. Gupta gold **dinara** are die-struck gold coins.
-20. **Wootz** steel is the South Indian high-carbon steel fact in the ancient–early historic craft map.
+19. **Chanhudaro** served as a specialized Indus bead-making and craft workshop centre; silver and copper punch-marked coins (*karshapanas*) served as the primary currency under the Mauryas, whereas the Guptas issued magnificent die-struck gold coins known as **dinara**.
+20. **Wootz steel** represents the renowned crucible high-carbon steel developed in ancient South India and traded across the ancient Mediterranean and West Asian worlds.
 21. **Mathura** is the red-sandstone school home in UP. **Sarnath** is known for the **Lion Capital** and the Gupta Buddha. **Bhitargaon** is a Gupta brick temple in the Kanpur belt.
 22. **Ahichhatra** and **Kaushambi** are terracotta and urban craft centres of Uttar Pradesh.
 23. Indus cities are **urban brick** with seals and drains. Early **Rigvedic** society is largely **pastoral**. Do not treat the two as one culture stage.
 24. Terracotta mother-goddess and plough models differ from bronze: the **Dancing Girl** is **lost-wax bronze**, not terracotta.
 25. Punch-marked coins are irregular silver or copper pieces. Gupta **dinara** are die-struck **gold**. Do not call every ancient coin a dinara.
-26. **Sarnath** as a World Heritage monument fact (inscribed **2026**) strengthens the Lion Capital and Gupta Buddha site, but it does not create a new sculpture school.
+26. The inscription of **Sarnath** on the UNESCO World Heritage list (**2026**) affirms the global significance of its Dhamek Stupa, Ashokan Lion Capital, and classical Gupta sculpture school.
 
 ---
 
@@ -176,7 +176,7 @@ D. Only 2
 - **Gandhara** sculpture uses grey **schist** (also stucco). The Buddha is Greco-Roman / Hellenistic, with wavy hair, drapery and an Apollo-like face. The school is in the NW (Peshawar–Taxila belt).
 - **Mathura** sculpture uses **red sandstone**. It shows an indigenous Buddha and Jina. The centre is in **Uttar Pradesh**, peaking under the Kushans and continuing into the Gupta age.
 - **Amaravati** sculpture uses white / greenish **limestone**. It is from Andhra and shows dynamic narrative and movement.
-- Amaravati-region stupas show a **platform with Aryaka-pillars**. This is the fact.
+- Stupas of the Amaravati school and Andhra region (such as Amaravati and Nagarjunakonda) are uniquely distinguished by rectangular platforms bearing groups of five **Aryaka pillars** (*ayaka-stambhas*) at the cardinal points.
 - **Gupta / Sarnath** sculpture is the classical ideal. It shows transparent drapery and the **Dharmachakra mudra** Buddha.
 - Terracotta sculpture is huge at **Ahichhatra** and Kaushambi (UP). It is not a “stone school.”
 
@@ -723,7 +723,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Ans: A.** Both (A) and (R) are true, but (R) is not the correct explanation of (A).
 
-**A/R logic:** Both facts are true. Rakhigarhi’s size does not explain Alamgirpur’s eastern edge location.
+**A/R logic:** Both statements are correct; however, Rakhigarhi’s size does not explain why Alamgirpur marks the easternmost boundary of the civilization.
 
 </details>
 

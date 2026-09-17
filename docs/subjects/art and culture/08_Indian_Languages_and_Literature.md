@@ -33,27 +33,27 @@ Yuva Puraskar is Sahitya Akademi’s young-writer prize (under 35), not Jnanpith
 1. **Shruti** is the heard Veda stack of Samhita, Brahmana, Aranyaka, and Upanishad. **Smriti** covers epics, Puranas, Dharmashastra, and related remembered texts.
 2. The four Vedas are **Rig** (hymns), **Sama** (chant), **Yajur** (ritual), and **Atharva**. Shukla Yajurveda is **Vajasaneyi**; Krishna Yajurveda is **Taittiriya**.
 3. **Valmiki**’s *Ramayana* has **seven** kandas. **Vyasa**’s *Mahabharata* has **eighteen** parvas. The *Bhagavad Gita* sits inside **Bhishma Parva**.
-4. Kalidasa’s kavya facts are *Meghaduta*, *Raghuvamsha*, *Kumarasambhava*, and *Ritusamhara*. His three dramas are *Abhijnanashakuntalam*, *Vikramorvashiya*, and *Malavikagnimitram*.
-5. *Shringara Shataka* is by **Bhartrihari**, not Kalidasa. *Uttararamacharita* is **Bhavabhuti**. *Mrichchhakatika* is **Shudraka**.
-6. High-yield author–work facts include **Trivikram Bhatta–Nalachampu**, **Somadeva–Kathasaritsagara**, **Jayadeva–Gita Govinda**, and **Kshemendra–Brihatkathamanjari**.
-7. **Panini** wrote the *Ashtadhyayi*. **Patanjali** wrote the *Mahabhashya*. **Kautilya / Chanakya** wrote the *Arthashastra*.
-8. **Charaka** is the medicine fact. **Sushruta** is the surgery fact. **Aryabhata** wrote *Aryabhatiya*. **Varahamihira** wrote *Brihatsamhita*.
-9. Buddhist canon language is **Pali** (Tripitaka). Jain Agamas are largely **Prakrit / Ardhamagadhi**. Svetambara Angas number **12**.
-10. Other drama facts: **Ashvaghosha** (*Buddhacharita*), **Bhasa** (about 13 plays), **Vishakhadatta** (*Mudrarakshasa*), and **Harsha** (*Ratnavali*, *Nagananda*, *Priyadarshika*).
-11. **Banabhatta** wrote *Harshacharita* and *Kadambari*. **Dandin** wrote *Dashakumaracharita*. **Bharavi** wrote *Kiratarjuniya*. **Magha** wrote *Shishupalavadha*.
-12. The Eighth Schedule lists **22** languages. **Bhojpuri** is widely spoken in east UP but is **not** in the Eighth Schedule.
-13. **Sahitya Akademi** awards in **24** languages. That count is not the same as the Eighth Schedule’s **22**.
-14. Classical language status now covers **11** languages after **3 October 2024**, when Marathi, Pali, Prakrit, Assamese, and Bengali were added.
-15. Earlier classical tags fact as Tamil **2004**, Sanskrit **2005**, Kannada and Telugu **2008**, Malayalam **2013**, and Odia **2014**.
-16. UP Hindi–Awadhi–Braj facts: **Tulsidas** wrote the Awadhi *Ramcharitmanas*, **Surdas** wrote in **Braj**, and **Malik Muhammad Jayasi** wrote the Awadhi *Padmavat*.
-17. **Kabir** is linked with **Maghar / Sant Kabir Nagar. Premchand** wrote *Godan*. **Bhartendu Harishchandra** belongs to Banaras.
-18. **Kavindra Acharya** of Banaras was patronised by **Shah Jahan**. This is a UP court-literature fact.
-19. Itihasa means the epics Ramayana and Mahabharata. The **eighteen** Maha Puranas are a separate Smriti class.
-20. Kavya is poem (*Meghaduta*). Nataka is drama (*Shakuntala*). Do not treat every Sanskrit title as a play.
-21. The Pali and Prakrit classical tags of **2024** also touch the UP Buddhist and Jain literary belt, but they are not Eighth Schedule entries by themselves.
-22. *Milindapanha* is the dialogue of Indo-Greek **Menander / Milinda** with Buddhist monk **Nagasena**.
-23. Classical language is a Culture Ministry recognition tag. Eighth Schedule is a **constitutional** language list. Do not equate the two counts.
-24. Valmiki is the Sanskrit Adikavi of the *Ramayana*. Tulsidas’s *Ramcharitmanas* is the Awadhi retelling fact for UPPCS.
+4. Kalidasa’s poetic masterpieces (*kavyas*) include *Meghaduta*, *Raghuvamsha*, *Kumarasambhava*, and *Ritusamhara*. His three immortal Sanskrit dramas are *Abhijnanashakuntalam*, *Vikramorvashiya*, and *Malavikagnimitram*.
+5. *Mudrarakshasa* by **Vishakhadatta** is a historical political drama about Chandragupta Maurya and Chanakya. It has no major romantic theme.
+6. Prominent classical literary works and their authors include: **Trivikrama Bhatta** (*Nalachampu*), **Somadeva** (*Kathasaritsagara*), **Jayadeva** (*Gita Govinda*), and **Kshemendra** (*Brihatkathamanjari*).
+7. Early Tamil literature is the **Sangam corpus**, grouped as the *Ettuttokai* (Eight Anthologies), *Pattuppattu* (Ten Idylls), and *Tolkappiyam* (grammar/poetics). The two later epics are *Silappadikaram* and *Manimekalai*.
+8. In ancient Indian scientific literature, **Charaka** is revered for medicine (*Charaka Samhita*), **Sushruta** for surgery and rhinoplasty (*Sushruta Samhita*), **Aryabhata** for astronomy and mathematics (*Aryabhatiya*), and **Varahamihira** for encyclopedic astrology and sciences (*Brihatsamhita*).
+9. The oldest Buddhist canon is the Pali **Tipitaka**: Vinaya, Sutta, and Abhidhamma. The Jain canon is Prakrit **Angas** and Upangas.
+10. Other drama masterworks: **Ashvaghosha** (*Buddhacharita*, *Saundarananda*), **Bhasa** (13 plays), **Vishakhadatta** (*Mudrarakshasa*), and King **Harsha** (*Ratnavali*, *Nagananda*, *Priyadarshika*).
+11. Amir Khusrau wrote in Persian and early Hindavi. He served under multiple Delhi Sultanate rulers and coined the famous phrase about the Indian parrot (*Tuti-i-Hind*).
+12. Bhakti literature in regional languages was composed by **Basaveshwara** (Kannada vachanas), **Jnaneshwar** (Marathi *Jnaneshwari*), **Chaitanya**’s circle in Bengal, and the **Alvars** (*Nalayira Divya Prabandham*).
+13. *Rajatarangini* by **Kalhana** (12th century, Sanskrit) is the first formal historical chronicle of Kashmir.
+14. In **October 2024**, the Union Cabinet approved **five new Classical Languages**: **Marathi**, **Pali**, **Prakrit**, **Assamese**, and **Bengali**.
+15. The chronology of previously declared Classical Languages is: Tamil (**2004**), Sanskrit (**2005**), Telugu and Kannada (**2008**), Malayalam (**2013**), and Odia (**2014**), bringing the total count to **11 Classical Languages**.
+16. Landmark literary traditions of Uttar Pradesh include **Goswami Tulsidas** (author of the Awadhi epic *Ramcharitmanas*), **Surdas** (Braj devotional poetry in *Sursagar*), and **Malik Muhammad Jayasi** (Awadhi Sufi romance *Padmavat*).
+17. **Bhartendu Harishchandra** of Banaras is widely recognized as the father of modern Hindi dramatic and prose literature.
+18. The renowned Sanskrit scholar **Kavindra Acharya Saraswati** of Banaras was patronized by Emperor **Shah Jahan**; he famously persuaded the emperor to abolish the pilgrimage tax on Hindu pilgrims at Kashi and Prayag.
+19. The Eighth Schedule of the Constitution lists **22** languages. It began with 14; Sindhi was added in 1967 (21st Amendment); Konkani, Manipuri, and Nepali in 1992 (71st Amendment); and Bodo, Dogri, Maithili, and Santhali in 2003 (92nd Amendment).
+20. English and Rajasthani are **not** in the Eighth Schedule. Bhojpuri is also **not** currently listed.
+21. The criteria for Classical Language status require **1500–2000 years** of high antiquity, an original literary tradition, and distinctiveness from modern vernacular offshoots.
+22. *Harshacharita* and *Kadambari* were composed by **Banabhatta**, the court poet of King Harsha.
+23. *Gita Govinda* was composed by **Jayadeva** in 12th-century Odisha/Bengal, celebrating the divine love of Radha and Krishna.
+24. Maharishi Valmiki is revered as the *Adikavi* for composing the original Sanskrit *Ramayana*, while Goswami Tulsidas composed the celebrated 16th-century Awadhi retelling, the *Ramcharitmanas*.
 25. Tamil Sangam spine: *Tolkappiyam* = grammar; *Tirukkural* (*Kural* / Muppal / Laghuveda) = Tiruvalluvar; *Silappadikaram* = Ilango Adigal; *Manimekalai* = Sattanar.
 26. **Kamban** wrote *Ramavataram* (Tamil Ramayana). ***Tirumurai*** is the Saiva hymn corpus treated as a **Fifth Veda** of Tamil Shaivism.
 27. **Alvars** number **12** (Vaishnava); **Nayanars** number **63** (Shaiva). Do not reverse the counts.
@@ -96,7 +96,7 @@ Yuva Puraskar is Sahitya Akademi’s young-writer prize (under 35), not Jnanpith
 | Amarakosha | Brihatsamhita | Amarasimha lexicon vs Varahamihira encyclopedia | अमरकोश / बृहत्संहिता |
 | Mitakshara | Dayabhaga | Vijnaneshwara (son’s right in father’s lifetime) vs Jimutavahana (after death) | मिताक्षरा / दायाभाग |
 | Nagasena | Nagarjuna | Milindapanha monk vs Madhyamaka philosopher | नागसेन / नागार्जुन |
-| Vishakhadatta | Bilhana | Mudrarakshasa / Devichandragupta vs Vikramankadevacharita | विशाखदत्त / बिल्हण |
+| Vishakhadatta | Bilhana | Mudrarakshasa / Devichandraguptam vs Vikramankadevacharita | विशाखदत्त / बिल्हण |
 | Pliny | Ptolemy | Natural History vs geography / Almagest | प्लिनी / टॉलेमी |
 | Panini | Patanjali | Ashtadhyayi (earlier) vs Mahabhashya (Shunga link) | पाणिनि / पतंजलि |
 
@@ -143,18 +143,14 @@ Yuva Puraskar is Sahitya Akademi’s young-writer prize (under 35), not Jnanpith
 
 **Span:** Vedic oral → sutra → epic → classical Sanskrit | **Split:** Shruti vs Smriti
 
-- **Shruti** is the Veda stack of Samhita, Brahmana, Aranyaka and Upanishad.
-- **Smriti** covers epics, Puranas, Dharmashastra and the *Arthashastra*.
+- Classical Sanskrit grammar was codified by **Panini** in the *Ashtadhyayi* (8 chapters, ~4000 sutras).
+- Statecraft and political economy were expounded by **Kautilya (Chanakya)** in the *Arthashastra*, followed by **Kamandaka**’s *Nitisara*.
+- Classical Indian medical sciences were pioneered by **Charaka** (internal medicine; *Charaka Samhita* in 120 chapters and 8 sections) and **Sushruta** (surgical procedures; *Sushruta Samhita*).
+- Mathematics and astronomy flourished through **Aryabhata**’s *Aryabhatiya* (place-value system, zero, Earth's rotation) and **Varahamihira**’s *Brihatsamhita* and *Panchasiddhantika*.
 - Greek **Herodotus** is called the **Father of History**. His *Histories / Historica* describes Indo–Persian relations in the **5th century BCE**.
 - Roman **Pliny the Elder** wrote *Natural History*. Do not match that title with **Ptolemy**.
-- The grammar fact is **Panini** and the *Ashtadhyayi*.
 - The *Mahabhashya* is **Patanjali**’s grammar. Yoga Sutras are a different Patanjali debate.
 - Vedanga grammar companions: **Yaska** wrote *Nirukta* (etymology). **Katyayana** wrote the *Varttika* on Panini.
-- The politics fact is **Kautilya / Chanakya** and the *Arthashastra*. **Kamandaka** wrote *Nitisara*, an early political digest after the Arthashastra line.
-- Medicine facts are **Charaka** for medicine and **Sushruta** for surgery. The *Charaka Samhita* has **120 chapters** in **eight** sections.
-- **Vagbhata**’s *Ashtanga Samgraha* is a medical digest. *Dasarupaka* is a treatise on **play** forms. *Lilavati* is **mathematics**.
-- Maths and astro facts are **Aryabhata**’s *Aryabhatiya* and **Varahamihira**’s *Brihatsamhita*.
-- **Brahmagupta** is remembered for mathematics and astronomy in the early medieval Deccan–Malwa belt.
 - The Buddhist canon language is **Pali** (Tripitaka). *Milindapanha* is **Menander / Milinda** and **Nagasena**.
 - The Jain canon is Prakrit / Ardhamagadhi **Agamas**. Svetambara Angas number **12**.
 - Ancient literature is not “religion only.” Grammar, statecraft and Ayurveda count as ancient literature.
@@ -207,7 +203,7 @@ D. Only 1
 
 ### Drama, biography, and court poets
 
-- **Bhasa** wrote about 13 plays. Named facts are *Svapnavasavadattam*, *Urubhanga*, and *Madhyama-vyayoga*.
+- **Bhasa** composed 13 surviving Sanskrit plays, including *Svapnavasavadattam*, *Urubhanga*, and *Madhyama-vyayoga*.
 - **Ashvaghosha** wrote *Buddhacharita* and *Saundarananda*. He helped spread Buddhism. *Sariputraprakarana* is often tagged as an early Sanskrit play. *Buddhacharita* is **not** by Vasubandhu.
 - **Shudraka** wrote *Mrichchhakatika* (*Mrichchhakatikam*).
 - **Harsha** of Kannauj wrote three plays: *Ratnavali*, *Priyadarshika*, and *Nagananda*. He is remembered as a king who wielded both sword and pen.
@@ -257,7 +253,7 @@ D. Only 1
 
 ### Other authors (one name, one fact)
 
-- **Bhartrihari** wrote the *Niti*, *Shringara* and *Vairagya Shataka*.
+- **Bhartesrihari** wrote the *Niti*, *Shringara* and *Vairagya Shataka*.
 - **Anandavardhana** wrote *Dhvanyaloka* on dhvani poetics.
 - **Abhinavagupta** wrote *Abhinavabharati*, the Natyashastra commentary. He is Kashmir Shaiva.
 - **Surdas** wrote *Sursagar*, *Sur Saravali*, and *Sahitya Lahiri*.
@@ -420,8 +416,8 @@ D. Neither 1 nor 2
 - **Sattanar** wrote *Manimekalai* (Buddhist sequel; merchant / nun story).
 - **Kamban** wrote *Ramavataram*, the Tamil Ramayana.
 - ***Tirumurai*** is the twelve-volume Saiva hymn corpus; tradition treats it as a **Fifth Veda** of Tamil Shaivism (with Vedas and Saiva Agamas behind Saiva Siddhanta).
-- **Alvars** are **12** Vaishnava Tamil saints. Their fact is *Nalayira Divya Prabandham*.
-- **Nayanars** are **63** Shaiva Tamil saints. Their fact is *Tevaram* (within the wider Tirumurai).
+- The **12 Alvars** were Tamil Vaishnavite poet-saints whose sacred hymns are compiled in the *Nalayira Divya Prabandham*.
+- The **63 Nayanars** were Tamil Shaivite poet-saints whose foundational hymns comprise the *Tevaram* (canonized within the 12 *Tirumurais*).
 
 ### Match spine (Tamil texts)
 
@@ -438,29 +434,29 @@ D. Neither 1 nor 2
 - **Basava** wrote Kannada *vachanas* in the Virashaiva line.
 - The Telugu Mahabharata poets are **Nannaya**, **Tikkana** and **Errana**.
 - **Tyagaraja** wrote Telugu Rama *kritis*. He is of the Carnatic Trinity.
-- Malayalam’s fact is *Ramacharitam*. Later comes Ezhuthachan.
+- In Malayalam literature, the earliest notable poetic work is the 12th-century *Ramacharitam*, followed later by the foundational writings of Thunchaththu Ezhuthachan.
 
 ### Indo-Aryan (UP-heavy)
 
-- **Tulsidas** wrote *Ramcharitmanas* in **Awadhi**. His belt is Ayodhya–Chitrakoot–Banaras. Other facts are *Vinaya Patrika* and *Kavitavali*.
+- **Tulsidas** composed the *Ramcharitmanas* in **Awadhi** across the cultural belt of Ayodhya, Chitrakoot, and Varanasi (Banaras); his other seminal masterworks include *Vinaya Patrika* and *Kavitavali*.
 - **Surdas** wrote *Sursagar*, *Sur Saravali*, and *Sahitya Lahiri* in **Braj**. He is in the Vallabhacharya / Pushtimarg line.
 - **Kabir** wrote *Bijak* and *sabad*. He is of Maghar / Sant Kabir Nagar in **UP**. His guru is **Ramananda**.
 - **Malik Muhammad Jayasi** wrote *Padmavat* in **Awadhi**.
 - **Bihari** wrote *Satsai* in Braj.
 - **Rahim / Raskhan** wrote Braj Krishna/Hindi couplets in the Mughal age.
-- **Bhartendu Harishchandra** is of Banaras. He is the fact for modern Hindi prose and stage.
+- **Bhartendu Harishchandra** of Varanasi is universally regarded as the father of modern Hindi prose and stage drama.
 - **Premchand** wrote *Godan*, *Gaban* and *Sevasadan*. He is the **UP** Hindi-Urdu novelist.
 - **Jayasi / Kabir / Tulsidas** are the Awadhi–Sant core. **Tulsidas is not** in the Guru Granth Sahib.
 
 ### Others (name-fact)
 
-- Bengali facts are **Chandidas** and Chaitanya biographies.
+- Prominent landmarks of Bengali literature include the early poetry of **Chandidas** and the devotional biographies of Chaitanya Mahaprabhu.
 - **Rabindranath Tagore** wrote *Gitanjali*. He won the Nobel in **1913**.
-- Marathi facts are **Jnaneshwar** (*Jnaneshwari*) and **Tukaram** *abhangas*.
+- Marathi Bhakti literature is anchored by **Jnaneshwar** (who authored the *Jnaneshwari* commentary on the Gita) and the devotional *abhangas* of Sant **Tukaram**.
 - Jayadeva is Sanskrit, but Odisha claims the Gita Govinda soil.
-- Urdu facts are **Ghalib** and **Mir** of the Lucknow–Delhi belt.
+- Classical Urdu poetry reached its zenith through master poets **Mirza Ghalib** and **Mir Taqi Mir**, flourishing across the Delhi and Lucknow cultural spheres.
 - **Ghazal** is an Urdu lyric, sung as light-classical.
-- Kashmiri facts are Lal Ded and *Kathasaritsagara* in Sanskrit from Kashmir.
+- Kashmiri literary traditions encompass the mystic verses (*vatsun*) of 14th-century Shaivite poetess **Lal Ded** (Lalleshwari) as well as the Sanskrit master-anthology *Kathasaritsagara* composed by Somadeva in Kashmir.
 
 > **Logic:** Awadhi = Tulsidas/Jayasi. Braj = Surdas. Premchand = UP novel, not a Bhakti sant.
 
@@ -2637,7 +2633,7 @@ D. 1, 2, 3 and 4
 **Q3.** With reference to Kalidasa, which of the following statements is/are correct?
 
 1. Shringara Shataka is also Kalidasa’s work.
-2. Kavya facts include Meghaduta, Raghuvamsha, Kumarasambhava and Ritusamhara.
+2. His poetic works (kavyas) include Meghaduta, Raghuvamsha, Kumarasambhava, and Ritusamhara.
 3. His three dramas are Mrichchhakatika, Mudrarakshasa and Swapnavasavadatta.
 
 A. Only 1 and 3

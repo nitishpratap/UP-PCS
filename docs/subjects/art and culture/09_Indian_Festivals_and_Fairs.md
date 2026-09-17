@@ -49,10 +49,10 @@ Festivals of India | State-wise Festivals | Folk Festivals | Tribal Festivals | 
 15. **Sonepur** cattle fair is in **Bihar. Gangasagar** mela is in **West Bengal. Ambubachi** is at Kamakhya in Assam.
 16. Uttar Pradesh festival spine: **Prayagraj Kumbh / Magh Mela**, **Braj Holi** (Mathura–Vrindavan–Barsana), **Ramlila** (Ramnagar / Varanasi), eastern **Chhath**, **Taj Mahotsav** (Agra, February), **Ganga Mahotsav** (Varanasi), **Lucknow Mahotsav**, and **Ayodhya Deepotsav**.
 17. **Chhath** is sun worship on eastern UP–Bihar–Jharkhand ghats. It is not moon worship.
-18. **Deva Mela** is at **Barabanki. Bateshwar Fair** is in **Agra** district. Muharram / Shia processions are a Lucknow cultural fact.
+18. **Deva Mela** is held at **Barabanki**, while the historic **Bateshwar Fair** takes place in **Agra** district. Mourning processions of Muharram represent an integral part of the Shia cultural tradition in Lucknow.
 19. Government cultural festivals include **Taj Mahotsav** (Agra), **Ganga Mahotsav** (Varanasi), **Lucknow Mahotsav**, **Khajuraho Dance Festival** (Madhya Pradesh), and **Tansen Samaroh** (Gwalior, Madhya Pradesh). Tansen is not a UP fair.
 20. South Indias: **Pongal** (four-day January in Tamil Nadu), **Onam** (Kerala), **Mysore Dasara** (Karnataka), **Thrissur Pooram** (Kerala), and **Bathukamma** (Telangana).
-21. North-East facts: **Hornbill** (Nagaland), **Sangai** (Manipur), **Chapchar Kut** (Mizoram), **Wangala** (Meghalaya Garo), and **Losar** across Sikkim–Arunachal–Ladakh Buddhist New Year.
+21. Key North-Eastern festivals include: **Hornbill** (Nagaland), **Sangai** (Manipur), **Chapchar Kut** (Mizoram), **Wangala** (celebrated by the Garo of Meghalaya), and **Losar** (the Buddhist New Year observed across Sikkim, Arunachal Pradesh, and Ladakh).
 22. **Eid-ul-Fitr** ends Ramadan. **Eid-ul-Adha** is Bakrid, the sacrifice festival. Do not treat them as one festival.
 23. National days are **Republic Day (26 January)**, **Independence Day (15 August)**, and **Gandhi Jayanti (2 October)**. They sit beside harvest and religious calendars, not inside Kumbh geography.
 24. Folk festivals such as **Braj Holi** are peasant / regional joy. Tribal festivals such as **Sarhul** are adivasi ritual calendars. Do not collapse folk and tribal into one label.
@@ -136,38 +136,38 @@ Not UP: Pushkar, Surajkund, Onam, Hornbill, Kullu Dussehra.
 
 **Rule:** One flagship name per state. Papers ask “festival of X” and “NOT matched.”
 
-- **Andhra Pradesh**’s key fact is **Ugadi**.
-- **Arunachal Pradesh**’s key fact is **Losar**. Solung (Adi) and Nyokum (Nyishi) are also named.
-- **Assam**’s key fact is **Bihu**. Ambubachi Mela is at Kamakhya.
-- **Bihar**’s key facts are **Chhath Puja** and the **Sonepur** cattle fair.
-- **Chhattisgarh**’s key fact is **Bastar Dussehra**.
-- **Goa**’s key facts are Carnival and Shigmo.
-- **Gujarat**’s key fact is **Navratri / Garba**. Uttarayan is the kite festival at Makar Sankranti.
-- **Haryana**’s key fact is the **Surajkund** crafts mela.
-- **Himachal Pradesh**’s key fact is **Kullu Dussehra**.
-- **Jharkhand**’s key fact is **Sarhul**. Karma is also named, and Chhath is kept on the plateau too.
-- **Karnataka**’s key fact is **Mysore Dasara**. Ugadi and Hampi Utsav are also named.
-- **Kerala**’s key fact is **Onam**. Thrissur Pooram and Vishu are also named.
-- **Madhya Pradesh**’s key facts are the Khajuraho Dance Festival, **Tansen Samaroh** (Gwalior) and Bhagoria (Bhil).
-- **Maharashtra**’s key facts are **Ganesh Chaturthi** and **Gudi Padwa**.
-- **Manipur**’s key fact is the **Sangai Festival**. Yaoshang is also named.
-- **Meghalaya**’s key fact is **Wangala** (Garo). Nongkrem (Khasi) is also named.
-- **Mizoram**’s key fact is **Chapchar Kut**.
-- **Nagaland**’s key fact is the **Hornbill Festival**.
-- **Odisha**’s key fact is **Ratha Yatra** (Puri). Nuakhai harvest and Konark Dance Festival are also named.
-- **Punjab**’s key fact is **Baisakhi**. Lohri is also named.
-- **Rajasthan**’s key fact is the **Pushkar Fair** (camel, Kartik). Teej, Gangaur and the Desert Festival (Jaisalmer) are also named.
-- **Sikkim**’s key fact is **Losar**. Saga Dawa is also named.
-- **Tamil Nadu**’s key fact is **Pongal**. Karthigai Deepam and Puthandu are also named.
-- **Telangana**’s key fact is **Bathukamma**. Bonalu and Medaram Jatara are also named.
-- **Tripura**’s key facts are Kharchi Puja and Garia Puja.
-- **Uttar Pradesh**’s key facts are **Kumbh / Magh Mela** (Prayagraj), **Braj Holi**, **Ramlila** and Taj Mahotsav (Agra).
-- **Uttarakhand**’s key fact is **Kumbh** (Haridwar). **Pushkar Kumbh** at Mana / Keshav Prayag is the May 2025 fact.
-- **West Bengal**’s key fact is **Durga Puja**. Gangasagar Mela is also named.
-- **Delhi**’s key facts are Qutub Festival and Phool Walon Ki Sair.
-- **Ladakh**’s key facts are Losar and the **Hemis** monastery festival.
-- **Jammu & Kashmir**’s key facts are the Tulip Festival (Srinagar) and Urs fairs.
-- **Puducherry**’s key facts are Bastille Day heritage and Pongal overlap.
+- **Andhra Pradesh**: Celebrates **Ugadi** (the Telugu New Year) as its premier state festival.
+- **Arunachal Pradesh**: Marks the Buddhist New Year with **Losar**, alongside celebrated tribal festivals including **Solung** (Adi tribe) and **Nyokum** (Nyishi tribe).
+- **Assam**: Anchors its cultural calendar around the three **Bihu** harvest festivals (Rongali, Kongali, Bhogali); the sacred **Ambubachi Mela** is observed annually at the Kamakhya Temple in Guwahati.
+- **Bihar**: Celebrates **Chhath Puja** (dedicated to the Sun God) as its paramount cultural festival and hosts the historic **Sonepur Cattle Fair** (Asia's largest animal fair at Harihar Kshetra).
+- **Chhattisgarh**: Renowned for the unique 75-day-long **Bastar Dussehra**, honoring the local patron deity Goddess Danteshwari.
+- **Goa**: Celebrates the vibrant pre-Lenten **Goa Carnival** and the joyous spring festival of **Shigmo** (the Goan counterpart of Holi).
+- **Gujarat**: Celebrates nine nights of **Navratri** with community **Garba** and Dandiya Raas (inscribed on UNESCO ICH in 2023), alongside **Uttarayan** (the International Kite Festival on Makar Sankranti).
+- **Haryana**: Hosts the globally acclaimed **Surajkund International Crafts Mela** annually in February at Faridabad.
+- **Himachal Pradesh**: Renowned for the week-long **Kullu Dussehra**, commencing on Vijayadashami day in the Dhalpur ground of Kullu.
+- **Jharkhand**: Celebrates **Sarhul** (the tribal festival of the Sal tree blossoms), alongside **Karma Puja** and extensive observances of **Chhath Puja** across the plateau.
+- **Karnataka**: Celebrates the grand ten-day **Mysore Dasara** (featuring the Jamboo Savari elephant procession), alongside **Ugadi** (Kannada New Year) and the **Hampi Utsav**.
+- **Kerala**: Celebrates **Onam** as its signature harvest festival (commemorating King Mahabali), alongside the vibrant elephant and percussion spectacle **Thrissur Pooram** and the astronomical New Year **Vishu**.
+- **Madhya Pradesh**: Hosts the premier classical **Khajuraho Dance Festival**, the prestigious **Tansen Samaroh** (classical music festival in Gwalior), and the vibrant tribal **Bhagoria** festival among the Bhils.
+- **Maharashtra**: Celebrates **Ganesh Chaturthi** as its most prominent socio-religious festival, alongside **Gudi Padwa** (the Marathi New Year).
+- **Manipur**: Highlights the **Sangai Festival** (named after the state's endangered brow-antlered deer), alongside the spring festival of **Yaoshang** (the Meitei celebration akin to Holi).
+- **Meghalaya**: Renowned for **Wangala** (the 'Hundred Drums' post-harvest festival of the Garo tribe) and the religious thanksgiving dance-festival **Nongkrem** among the Khasi people.
+- **Mizoram**: Celebrates **Chapchar Kut**, the major agricultural spring festival celebrated with the Cheraw bamboo dance after clearing the jhum fields.
+- **Nagaland**: Hosts the famed **Hornbill Festival** (the 'Festival of Festivals') at the Kisama Heritage Village near Kohima, held annually from 1–10 December.
+- **Odisha**: Renowned for the massive annual **Ratha Yatra** of Lord Jagannath at Puri, the agricultural harvest festival **Nuakhai**, and the classical **Konark Dance Festival**.
+- **Punjab**: Celebrates **Baisakhi** (marking the harvest and the founding of the Khalsa in 1699) and the winter bonfire harvest festival **Lohri**.
+- **Rajasthan**: Hosts the world-renowned **Pushkar Fair** (the camel and livestock fair held in the Hindu month of Kartik near Ajmer), alongside **Teej**, **Gangaur**, and the **Desert Festival** in Jaisalmer.
+- **Sikkim**: Celebrates the Tibetan Buddhist New Year **Losar** and the sacred tripartite Buddhist festival of **Saga Dawa**.
+- **Tamil Nadu**: Celebrates **Pongal** (the four-day harvest festival in January), the festival of lights **Karthigai Deepam** (famed at Tiruvannamalai), and the Tamil New Year **Puthandu**.
+- **Telangana**: Celebrates the unique floral festival of **Bathukamma**, the mother-goddess festival of **Bonalu**, and the monumental biennial tribal gathering **Medaram Jatara** (Sammakka Saralamma Jatara).
+- **Tripura**: Celebrates **Kharchi Puja** (the worship of the fourteen deities at Old Agartala) and the post-harvest tribal dance-festival **Garia Puja**.
+- **Uttar Pradesh**: Anchored by the mega **Kumbh / Magh Mela** at Prayagraj, the world-famous **Braj Holi** (Mathura, Vrindavan, Barsana), the traditional **Ramlila** (notably at Ramnagar, Varanasi), and the **Taj Mahotsav** in Agra.
+- **Uttarakhand**: Renowned for the **Haridwar Kumbh Mela** on the Ganga; additionally hosted the special **Pushkar Kumbh** at Mana / Keshav Prayag in May 2025.
+- **West Bengal**: Renowned for **Durga Puja** (inscribed on UNESCO ICH in 2021) and the massive pilgrimage bath at **Gangasagar Mela** on Makar Sankranti.
+- **Delhi (UT)**: Hosts the **Qutub Festival** of music and dance, and the historic interfaith communal harmony festival **Phool Walon Ki Sair** in Mehrauli.
+- **Ladakh (UT)**: Marks the Tibetan New Year **Losar** and hosts the monastic masked-dance festival at the **Hemis Gompa**.
+- **Jammu & Kashmir (UT)**: Renowned for the spring **Tulip Festival** at the Indira Gandhi Memorial Tulip Garden in Srinagar and historic Sufi **Urs** fairs across the valley.
+- **Puducherry (UT)**: Commemorates Franco-Indian cultural links with **Bastille Day** celebrations alongside traditional Tamil **Pongal** festivities.
 
 > **Logic:** Onam = Kerala. Pongal = Tamil Nadu. Hornbill = Nagaland. Pushkar Fair = Rajasthan. Pushkar Kumbh 2025 = Uttarakhand**.
 
@@ -177,7 +177,7 @@ Not UP: Pushkar, Surajkund, Onam, Hornbill, Kullu Dussehra.
 
 **Identity:** Peasant / village / regional joy | Dance, song, season | Not SNA classical
 
-- **Braj Holi** is of Mathura–Vrindavan in **UP**. It is a Krishna legend and an international tourist fact.
+- **Braj Holi** is centered in Mathura, Vrindavan, Barsana, and Nandgaon in **UP**, celebrated around Krishna-Radha traditions and attracting national and international visitors.
 - **Lathmar Holi** is of Barsana–Nandgaon in **UP**. Women beat men with sticks in play.
 - **Phoolon ki Holi** is the flower Holi at Banke Bihari, Vrindavan.
 - **Garba / Dandiya** is of Gujarat. It is Navratri circles and UNESCO **2023**. It is not Rajasthan.
@@ -248,7 +248,7 @@ Not UP: Pushkar, Surajkund, Onam, Hornbill, Kullu Dussehra.
 - **Kaanum Pongal** is the outing / family visit.
 - **Jallikattu** is bull-taming in the Pongal season in Tamil Nadu. It is not Kerala.
 - **Puthandu** is the Tamil New Year (April).
-- **Karthigai Deepam** is the Tamil Nadu lamp festival. Tiruvannamalai is the fact.
+- **Karthigai Deepam** is the grand festival of lights in Tamil Nadu, celebrated with immense devotion atop the holy hill of **Tiruvannamalai** (Annamalaiyar Temple).
 - **Onam** is of **Kerala**. It lasts about 10 days in August–September and marks King **Mahabali**.
 - Onam marks include the *pookalam* flower carpet, *Vallamkali* snake-boat and *Onasadya* feast.
 - **Vishu** is Kerala’s solar New Year. It falls in April with Vishukkani.
@@ -284,7 +284,7 @@ Not UP: Pushkar, Surajkund, Onam, Hornbill, Kullu Dussehra.
 - **Christmas** falls on **25 December**.
 - **Guru Nanak Jayanti** is Gurpurab.
 - **Baisakhi** is when the Sikh **Khalsa** was founded in **1699**. It is also the Punjab harvest.
-- **Buddha Purnima** falls on Vaishakha Purnima. Birth, enlightenment and parinirvana share one day-fact.
+- **Buddha Purnima** (Vesak) falls on Vaishakha Purnima, commemorating the three holiest milestones in the life of Gautama Buddha: his birth, enlightenment (*Bodhi*), and mahaparinirvana.
 - **Mahavir Jayanti** is Jain.
 - **Paryushana** is the Jain fasting festival.
 - **Navroz / Nowruz** is the Parsi New Year. UNESCO Nawruz is multinational.
@@ -295,7 +295,7 @@ Not UP: Pushkar, Surajkund, Onam, Hornbill, Kullu Dussehra.
 
 ## 9.8 Fairs of India
 
-**Identity:** Mela = periodic gathering | Trade + pilgrimage + spectacle | Kumbh is the mega-fact
+**Identity:** Mela = periodic socio-religious gathering | Confluence of trade, pilgrimage, and public spectacle | Kumbh Mela represents the premier mega-gathering
 
 - **Kumbh Mela** is UNESCO ICH **2017**. It is the largest peaceful pilgrimage gathering.
 - The four sites only are **Prayagraj, Haridwar, Nashik and Ujjain**.
@@ -305,7 +305,7 @@ Not UP: Pushkar, Surajkund, Onam, Hornbill, Kullu Dussehra.
 - **Ujjain** is on the Shipra in **Madhya Pradesh**. The Mahakaleshwar link is named.
 - Each site hosts a Kumbh about every **12 years**. Across four sites a Kumbh falls roughly every **3–4 years**.
 - **Ardh Kumbh** falls every **6 years** at Prayagraj and Haridwar.
-- **Maha Kumbh** is at Prayagraj. It is marketed as a 144-year planetary fact. The **13 Jan–26 Feb 2025** run lasted about **45 days**.
+- **Maha Kumbh** is held at Prayagraj every 144 years (following a cycle of 12 Purna Kumbhs); the historic **2025 Maha Kumbh** took place from **13 January to 26 February 2025**, spanning approximately 45 days at the Sangam.
 - **Magh Mela** is the **annual** bathing fair at Prayagraj in Magh. It is not the full Kumbh.
 - **Pushkar Fair** is at **Pushkar, Ajmer, Rajasthan**. It is camel and livestock in **Kartik** (Oct–Nov). It is not a 4-site Kumbh.
 - **Pushkar Kumbh** is a different event. It is at **Keshav Prayag, Mana** (Chamoli) in **Uttarakhand**, at Alaknanda and Saraswati. It falls every **12 years** when Jupiter enters Gemini, and ran in **May 2025** (about 14–26 May).
@@ -316,7 +316,7 @@ Not UP: Pushkar, Surajkund, Onam, Hornbill, Kullu Dussehra.
 - **Deva Mela** is at Barabanki in **UP**.
 - **Bateshwar Fair** is in Agra district, **UP**. It is a livestock fair.
 - **Nagaur Fair** is a Rajasthan cattle fair.
-- **Kolayat Fair** is of Rajasthan. Kapil Muni is the fact.
+- **Kolayat Fair** (Kapil Muni Fair) is held in Bikaner, Rajasthan, centered around the sacred lake and ashram dedicated to sage Kapil Muni.
 
 > **Logic:** The **May 2025 Pushkar Kumbh** was in **Uttarakhand only** — do not mark Rajasthan. Rajasthan owns the **Pushkar camel fair**, not this May Kumbh.
 

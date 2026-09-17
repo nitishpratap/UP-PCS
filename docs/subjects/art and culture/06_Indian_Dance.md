@@ -33,13 +33,13 @@ Kalbelia UNESCO **2010**. Chhau **2010**. Sankirtana **2013**. SNA **1952**.
 
 1. Sangeet Natak Akademi recognises **eight** classical dances. **Sattriya** of Assam was added in **2000**. A paper that says seven has dropped Sattriya.
 2. **Chhau** is **not** in the SNA eight. It is UNESCO intangible / martial-folk, even if some notes call it a ninth style.
-3. The eight state facts are Bharatanatyam–**Tamil Nadu**, Kathak–**North / UP**, Kathakali–**Kerala**, Kuchipudi–**Andhra Pradesh**, Mohiniyattam–**Kerala**, Odissi–**Odisha**, Manipuri–**Manipur**, and Sattriya–**Assam**.
+3. The eight classical dances and their respective states of origin are: **Bharatanatyam** (Tamil Nadu), **Kathak** (Uttar Pradesh / North India), **Kathakali** (Kerala), **Kuchipudi** (Andhra Pradesh), **Mohiniyattam** (Kerala), **Odissi** (Odisha), **Manipuri** (Manipur), and **Sattriya** (Assam).
 4. The root text is **Natyashastra** by **Bharata Muni**, with **nine** rasas and four abhinaya: angika, vachika, aharya, and sattvika.
 5. **Nritta** is pure dance without story. **Nritya** adds expressive abhinaya. **Natya** is dance-drama.
 6. **Lasya** is graceful movement. **Tandava** is vigorous movement. Kerala’s pair is male **Kathakali** tandava versus female **Mohiniyattam** lasya.
 7. **Bharatanatyam** uses the **araimandi** half-sit stance and grew from temple **sadir. Rukmini Devi Arundale** and Kalakshetra led the modern stage revival.
-8. **Kathak** is the Hindustani classical dance among the eight. Marker facts are **chakkar** spins and **tatkar** footwork.
-9. Kathak gharanas are **Lucknow** (Wajid Ali Shah, Bindadin, Birju Maharaj), **Jaipur**, and **Banaras**. Lucknow Kathak is the core UP fact.
+8. **Kathak** is the sole form among the eight classical dances that uses Hindustani music. Its signature technical markers are rapid pirouettes (**Chakkars**) and rhythmic footwork (**Tatkar**).
+9. The major Kathak gharanas are **Lucknow** (famed for *Bhava* and elegance under Wajid Ali Shah, Thakur Prasad, Bindadin, and Birju Maharaj), **Jaipur**, and **Banaras**.
 10. **Kathakali** of Kerala uses heavy **chutti** makeup and colour codes such as **pacha**. It is dance-drama, not north Indian Kathak.
 11. **Kuchipudi** of Andhra Pradesh is village dance-drama. The plate dance **tarangam** is its famous marker.
 12. **Mohiniyattam** of Kerala is a female solo lasya form in white-and-gold costume. It uses Carnatic music like Bharatanatyam and Kuchipudi.
@@ -47,11 +47,11 @@ Kalbelia UNESCO **2010**. Chhau **2010**. Sankirtana **2013**. SNA **1952**.
 14. **Manipuri** classical dance centres on **Ras Lila** of Manipur. UP **Braj Raslila** is a separate folk Krishna play and must not be matched as Manipuri.
 15. **Sattriya** grew in Assam’s **satra** monasteries from **Sankaradeva**. It is the latest of the official eight.
 16. Carnatic-music dances among the eight are Bharatanatyam, Kuchipudi, and Mohiniyattam. Only **Kathak** among the eight uses Hindustani music.
-17. Folk is not classical. High-yield folk / ICH facts include **Garba** of Gujarat (UNESCO **2023**), **Kalbelia** (**2010**), and **Chhau** (**2010**).
+17. Folk dances are distinct from the classical canon. Prominent folk and UNESCO Intangible Cultural Heritage traditions include **Garba** of Gujarat (UNESCO **2023**), **Kalbelia** of Rajasthan (**2010**), and **Chhau** of Eastern India (**2010**).
 18. Other folk names often asked are **Bhangra**, **Lavani**, and **Bihu**. They are not SNA classical eight.
-19. UP folk dance facts include **Braj Raslila**, **Charkula**, **Mayur**, **Chholiya** of Kumaon, and **Tharu** dances of the Terai.
+19. Notable folk dances of Uttar Pradesh and the neighbouring hill region include the **Braj Raslila**, **Charkula** (balancing multi-tiered lamp wheels), **Mayur dance**, **Chholiya** (sword dance of Kumaon), and tribal dances of the **Tharu** in the Terai.
 20. Do not confuse **Kathak** the dance with **Kathaka**, a priestly reciter tradition linked in some texts with the Shukla Yajurveda.
-21. Revival name facts are **Rukmini Devi** for Bharatanatyam, **Kelucharan Mohapatra** for Odissi, **Birju Maharaj** for Kathak, and **Vallathol** for Kerala Kalamandalam.
+21. Key pioneers of the 20th-century classical revival include **Rukmini Devi Arundale** (Bharatanatyam), **Guru Kelucharan Mohapatra** (Odissi), **Pt. Birju Maharaj** (Kathak), and poet **Vallathol Narayana Menon** (Kathakali and Mohiniyattam).
 22. **Yamini Krishnamurthy** danced Bharatanatyam and Kuchipudi. She died on **3 August 2024**.
 23. **Abhinaya Darpana** by **Nandikesvara** is the hasta-mudra companion text often asked beside Natyashastra.
 24. Sankirtana of Manipur is UNESCO ICH **2013**. It is music–dance ritual, not a ninth SNA classical dance.
@@ -122,7 +122,7 @@ Kalbelia UNESCO **2010**. Chhau **2010**. Sankirtana **2013**. SNA **1952**.
 - **Aharya** is costume and makeup (Kathakali’s home).
 - **Sattvika** is inner emotion.
 - The nine rasas are Shringara, Hasya, Karuna, Raudra, Veera, Bhayanaka, Bibhatsa, Adbhuta, and **Shanta** (later ninth).
-- *Abhinaya Darpana* is by **Nandikesvara**. It is the hasta-fact if asked beside Natyashastra.
+- The *Abhinaya Darpana* by **Nandikesvara** is the classic authoritative treatise on gestures (*hasta-mudras*) and bodily expression.
 - The Carnatic dance cluster is Bharatanatyam, Kuchipudi, and Mohiniyattam.
 - The Hindustani dance is **Kathak only** among the eight.
 
@@ -145,7 +145,7 @@ Kalbelia UNESCO **2010**. Chhau **2010**. Sankirtana **2013**. SNA **1952**.
 
 **State:** Tamil Nadu | **Music:** Carnatic | **Temple name:** Sadir / Dasi Attam
 
-- The stance fact is **araimandi** (half-sit, turned-out knees).
+- The core posture of Bharatanatyam is **Araimandi** (a half-sitting stance with knees turned outwards forming a triangle).
 - It has fire-temple geometry. It uses Nataraja iconography.
 - Tanjore Quartet shaped the concert **margam** (alarippu → varnam → tillana).
 - The 20th-c. stage revival is **Rukmini Devi Arundale** and **Kalakshetra**.
@@ -160,10 +160,12 @@ Kalbelia UNESCO **2010**. Chhau **2010**. Sankirtana **2013**. SNA **1952**.
 
 ## 6.3 Kathak
 
-**Region:** North | **Music:** Hindustani** (only classical eight with this fact) | **UP home:** Lucknow
+**Region:** Northern India | **Music:** Hindustani Classical (the only classical dance in India utilizing the Hindustani musical system) | **Principal UP Centre:** Lucknow
 
-- The name is from *kathaka*, meaning storyteller. It is not the Vedic **Kathaka** samhita.
-- The marks are **tatkar** (footwork), **chakkar** (spins), and **ghungroo**. A verse is often recited then danced.
+- Origin is the *Kathaka* storyteller caste of temples.
+- The aphorism is *Katha kahe so kathak kahave*.
+- The golden age of Lucknow Kathak unfolded under the royal patronage of Nawab **Wajid Ali Shah** of Awadh.
+- The technical markers are **tatkar** (footwork), **chakkar** (spins), and **ghungroo**. A verse is often recited then danced.
 - Mughal / Awadh court turned temple katha into court spectacle.
 - The peak court fact is **Wajid Ali Shah** of Awadh.
 
@@ -174,7 +176,7 @@ Kalbelia UNESCO **2010**. Chhau **2010**. Sankirtana **2013**. SNA **1952**.
 - **Banaras** is linked to **Janakiprasad**. It uses floorwork and natwari. It belongs to **UP**.
 
 - Birju Maharaj died **16 Jan 2022**. He belongs to the Lucknow line.
-- Accompaniment is tabla, sometimes pakhawaj, and sarangi or harmonium. Mridangam is not the primary fact.
+- Musical accompaniment features the tabla, pakhawaj, sarangi, and harmonium; the mridangam is not used.
 
 > **Logic:** Lucknow Kathak belongs to **UP**. Wajid Ali Shah is the Awadh peak, not Akbar.
 
@@ -203,8 +205,8 @@ Kalbelia UNESCO **2010**. Chhau **2010**. Sankirtana **2013**. SNA **1952**.
 
 **State:** Andhra Pradesh | **Village:** Kuchipudi / Kuchelapuram, **Krishna district** | **Type:** dance-drama
 
-- The saint-composer fact is **Siddhendra Yogi**.
-- The play-fact is **Bhama Kalapam** (Satyabhama).
+- The foundational saint-composer of Kuchipudi was **Siddhendra Yogi**.
+- His masterwork is the devotional dance-drama **Bhama Kalapam** (centering on Satyabhama).
 - **Tarangam** is dancing on a **brass plate**, often with a pot on the head.
 - It has a Yakshagana-like village origin and later became a solo concert form.
 - **Yamini Krishnamurthy** is also a Kuchipudi exponent.
@@ -218,7 +220,7 @@ Kalbelia UNESCO **2010**. Chhau **2010**. Sankirtana **2013**. SNA **1952**.
 
 **State:** Kerala | **Who:** female solo | **Mood:** lasya** (Mohini avatar)
 
-- The costume fact is white or off-white with a **gold** border (kasavu).
+- The dancer is attired in an off-white handloom saree with an ornate golden border, known as the **Kasavu** saree.
 - It uses soft swaying, not Kathakali jumps and stamps.
 - Revival is linked to **Vallathol Narayana Menon** and Kerala Kalamandalam (same house as Kathakali, different form).
 - It is the second Kerala classical. It is a pair trap with Kathakali.
@@ -229,7 +231,7 @@ Kalbelia UNESCO **2010**. Chhau **2010**. Sankirtana **2013**. SNA **1952**.
 
 ## 6.7 Odissi
 
-**State:** Odisha | **Temple:** Jagannath, Puri | **Body fact:** tribhangi** (three bends)
+**State:** Odisha | **Sacred Association:** Jagannath Temple, Puri | **Characteristic Posture:** **Tribhanga** (deflective three-bend posture)
 
 - The other stance is **chowk** (square, masculine).
 - The streams are **Mahari** (temple women) and **Gotipua** (boys as women), later nartaki/concert.
@@ -246,7 +248,7 @@ Kalbelia UNESCO **2010**. Chhau **2010**. Sankirtana **2013**. SNA **1952**.
 **State:** Manipur | **Faith:** Vaishnava Ras | **Look:** soft, rounded, little stamp
 
 - The earliest ritual layer is **Lai Haraoba** (merrymaking of the gods).
-- The concert fact is **Ras Lila** of Krishna–gopis.
+- The spiritual foundation of Manipuri classical dance is the **Raslila**, depicting the divine love of Radha, Krishna, and the Gopis.
 - The drum dance is **Pung Cholom**. The cymbal dance is **Kartal Cholom**.
 - It uses a white or pale costume and a barrel skirt for Ras.
 - Guru **Bipin Singh** shaped the modern concert form.
@@ -1003,7 +1005,7 @@ D. Only 3
 8. Garba UNESCO **2023** is still **folk**.
 9. Tribhangi is **Odissi**, not Bharatanatyam.
 10. Tarangam plate is **Kuchipudi**, not Mohiniyattam.
-11. The Kathak percussion fact is **tabla / Hindustani**, not mridangam.
+11. Kathak is accompanied by the **tabla and Hindustani classical music**, not the Carnatic mridangam.
 12. Cheraw belongs to **Mizoram**, not Manipur.
 13. Lucknow Kathak belongs to **UP**. Kelucharan is Odissi, not Lucknow.
 14. Gotipua are boys. Mahari are temple women.

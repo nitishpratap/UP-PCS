@@ -47,7 +47,7 @@ Indological Studies | Gurukul System | Ancient Indian Education System | Nalanda
 15. **Sahitya Akademi** awards in **24** languages. **Jnanpith** (**1965**) is a Bharatiya Jnanpith trust prize, not a Sahitya Akademi award.
 16. **IGNCA** (Indira Gandhi National Centre for the Arts) and the **Ministry of Culture** date to **1985**. **CCRT** (Centre for Cultural Resources and Training) began in **1979**. **NGMA** (National Gallery of Modern Art) also dates to **1954**.
 17. **ICCR** (Indian Council for Cultural Relations, **1950**) belongs to the **MEA** (Ministry of External Affairs), not the Culture Ministry.
-18. UP museum facts include **Allahabad Museum** (Prayagraj, **1931**), State Museum Lucknow, Jhansi Museum, and the **Sarnath** ASI site museum.
+18. Important museums in Uttar Pradesh include the **Allahabad Museum** (Prayagraj, founded in **1931**), the State Museum at Lucknow, the Government Museum at Jhansi, and the **Sarnath** ASI site museum.
 19. ASI circles for key UP monuments run through **Lucknow** and **Agra**, covering Sarnath, Kushinagar, Taj, and Fatehpur Sikri.
 20. IVC sites in UP include **Alamgirpur**, **Mandi**, and **Hulas. Rakhigarhi** is in Haryana, not UP.
 21. The North Central Zonal Cultural Centre HQ is at **Prayagraj**. Lalit Kala has a regional centre at **Lucknow**. IGNCA has a regional centre at **Varanasi**.
@@ -111,7 +111,7 @@ Indological Studies | Gurukul System | Ancient Indian Education System | Nalanda
 |---------------|-----------|
 | **Sir William Jones** | Founder-President; Sanskrit–Latin–Greek cognates; translated **Abhijnanashakuntalam** |
 | **Warren Hastings** | GG when Society founded; **declined Presidentship** in favour of Jones; encouraged Sanskrit/Persian/Arabic |
-| **Jonathan Duncan** | **Benares Sanskrit College, 1791** — NOT Asiatic Society (2021 trap option) |
+| **Jonathan Duncan** | Founded **Benares Sanskrit College in 1791**; he was not associated with the Asiatic Society (a common distractor). |
 | **Charles Wilkins** | Bhagavad Gita English **1785** |
 | **H.T. Colebrooke / H.H. Wilson** | Hindu law–astronomy; Rigveda / Vishnu Purana |
 | **Max Müller** | *Sacred Books of the East* (50 vols) — later, **German/Oxford**, not the 1784 start |
@@ -1331,7 +1331,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Ans: A.** Both (A) and (R) are true, but (R) does not explain why PRASAD is under Tourism.
 
-**A/R logic:** Both scheme facts are independently true. HRIDAY’s Varanasi list does not explain PRASAD’s parent ministry.
+**A/R logic:** Both statements are independently true. The inclusion of Varanasi under HRIDAY does not explain why PRASAD falls under the administrative domain of the Ministry of Tourism.
 
 </details>
 

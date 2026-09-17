@@ -32,21 +32,21 @@ Folk Arts | Folk Traditions | Folk Beliefs | Folk Culture of India | Handloom | 
 
 1. **Folk art** is community, oral, and ritual. It is not a Natyashastra classical school like Bharatanatyam or a court Mughal miniature atelier.
 2. Painting map: **Madhubani** (Bihar Mithila), **Warli** (Maharashtra), **Pattachitra** (Odisha), **Phad** (Rajasthan), **Gond** (Madhya Pradesh), **Kalamkari** (Andhra), **Sanjhi** (Mathura, UP), and **Phulkari** (Punjab).
-3. More painting facts: **Pithora** (Gujarat), **Saura** (Odisha), **Cheriyal** (Telangana), **Kalighat** (West Bengal), **Rogan** (Kutch), **Aipan** (Uttarakhand), and **Mandana** (Rajasthan).
+3. Key regional folk painting styles include: **Pithora** (Rathwa tribe, Gujarat), **Saura** (wall icons/*idital*, Odisha), **Cheriyal** (narrative scroll painting, Telangana), **Kalighat** (patachitra watercolours of Kolkata, West Bengal), **Rogan** (boiled castor-oil fabric art of Kutch), **Aipan** (ritual floor and wall art, Uttarakhand), and **Mandana** (festive chalk designs, Rajasthan).
 4. **Madhubani** is bright geometric Mithila work of Bihar and carries a **GI**. It is not a named UNESCO ICH element by itself.
 5. **Warli** is Maharashtra tribal white-on-red painting. Do not place Warli in Bihar or Uttar Pradesh.
 6. **Sanjhi** is Braj / Mathura–Vrindavan paper-cutting of Uttar Pradesh and now carries a GI.
-7. Folk belief facts: **Gramdevta / Kuldevi**, **Nag Panchami**, **Chhath** sun worship in eastern UP–Bihar, **Ojha** healers, and tribal faiths such as **Sarna**, **Donyi-Polo**, and **Sanamahi**.
+7. Core folk and tribal belief traditions include village shrine deities (**Gramdevta / Kuldevi**), serpent reverence (**Nag Panchami**), riverine Sun worship (**Chhath** in eastern UP and Bihar), traditional spirit healers (**Ojha**), and indigenous sacred groves and animist faiths including **Sarna** (Chota Nagpur), **Donyi-Polo** (Arunachal Pradesh), and **Sanamahi** (Manipur).
 8. **Handloom** is cloth woven on a manual loom. Yarn may be mill-spun. **Khadi** is **hand-spun and** hand-woven under **KVIC (MSME)**.
 9. **Handicraft** is a handmade object such as pottery, metalwork, or embroidery. It is not the same word as handloom cloth.
 10. National **Handloom Day** is **7 August**, recalling the **1905** Swadeshi moment; the first observance was **2015**. India Handloom Brand started in **2015**. Handloom Mark is from **2006**.
 11. Development Commissioner (Handicrafts) sits under **Textiles. PEHCHAN** artisan cards began in **2016. e-Pehchan** is the handloom digital ID from **2025. Shilp Guru** is the top handicraft honour.
 12. **GI** is governed by the **1999** Act. The Registry is at **Chennai** under **DPIIT / Commerce**, not Culture and not Textiles. First Indian GI was **Darjeeling Tea (2004)**. Protection is about **10 years** and renewable.
 13. Uttar Pradesh craft-city map: **Banarasi** brocade (Varanasi), **Chikankari** and **Zardozi** (Lucknow), **Bhadohi** carpet, **Moradabad** brass, **Firozabad** glass, **Khurja** pottery, and **Kannauj** attar.
-14. More UP craft facts: **Saharanpur** wood, **Agra** marble inlay, **Hapur–Pilkhuwa** block print, and **Azamgarh–Nizamabad** black pottery.
+14. Additional distinguished handicrafts of Uttar Pradesh include **Saharanpur** carved woodwork, **Agra** marble inlay (*parchin kari*), **Pilkhuwa** hand-block printing (Hapur), and **Nizamabad** black-clay pottery (Azamgarh).
 15. **Blue Pottery** is **Jaipur**, not Lucknow. **Pushkar Fair** is Rajasthan. **Surajkund** crafts mela is Haryana.
 16. **Ramlila** and **Nautanki** are UP folk theatre. **Raslila** is Braj folk play; it is not Manipuri classical dance.
-17. Ministry fact: handloom and handicrafts = **Textiles**; GI Registry = **Commerce / DPIIT**; KVIC / khadi = **MSME**; ZCCs, IGNCA, and many folk festival grants = **Culture**.
+17. Key administrative oversight of crafts and heritage: handlooms and handicrafts fall under the **Ministry of Textiles**; the Geographical Indications Registry operates under the **Ministry of Commerce & Industry (DPIIT)**; Khadi and village industries (KVIC) belong to **MSME**; while Zonal Cultural Centres, IGNCA, and festival grants are administered by the **Ministry of Culture**.
 18. **North Central Zone Cultural Centre** is at **Prayagraj**.
 19. **Sant Kabir Award** is the highest **handloom** weaver honour. **Shilp Guru** is the highest **handicraft** artisan honour. Do not swap the two.
 20. **Chikankari** is Lucknow white-thread embroidery on muslin. **Zardozi** is metallic-thread court embroidery also strong in Lucknow.
@@ -55,7 +55,7 @@ Folk Arts | Folk Traditions | Folk Beliefs | Folk Culture of India | Handloom | 
 23. **Surajkund** is the February crafts fair of Haryana. **Pushkar Fair** is the Kartik camel fair of Rajasthan. **Pushkar Kumbh 2025** was Mana in Uttarakhand.
 24. Folk tradition is a custom passed socially. Folk belief is the village supernatural worldview. Both sit under folk culture but answer different stems.
 25. These are **not** UP: Pushkar Fair (Rajasthan), Pushkar Kumbh 2025 (Uttarakhand), Surajkund (Haryana), Blue Pottery (Jaipur), Warli (Maharashtra), Madhubani (Bihar).
-26. **Banarasi Brocade** is a Varanasi handloom GI. **Chikankari** is a Lucknow embroidery GI. Both are Culture-facing craft facts of Uttar Pradesh.
+26. Among Uttar Pradesh's prominent cultural GI products, **Banarasi Brocade** represents Varanasi's premier handloom heritage, while **Chikankari** represents Lucknow's celebrated delicate embroidery tradition.
 27. **Phad** is Rajasthan scroll painting. **Pattachitra** is Odisha / sometimes West Bengal cloth or palm-leaf painting. Do not dump every scroll into Madhubani.
 28. Uttar Pradesh leads India’s GI count in recent tallies (about **81** by late **2025**), so craft–city matching stays high-yield for UPPCS.
 
@@ -123,14 +123,14 @@ Folk Arts | Folk Traditions | Folk Beliefs | Folk Culture of India | Handloom | 
 - **Kalamkari** belongs to **Andhra Pradesh**. The name is pen-work. **Srikalahasti** is freehand temple painting. **Machilipatnam** is block-print trade cloth. The cloth is **cotton**, not Himalayan wool.
 - **Sanjhi** belongs to **Mathura–Vrindavan, UP**. It is stencilled paper-cutting on Yamuna ghats, tied to Krishna and Pitru Paksha. It now has a GI.
 - **Phulkari** belongs to **Punjab**. Flower embroidery sits on an odhani or shawl.
-- **Pithora** belongs to Gujarat Rathwa walls. Horse motifs are the fact.
+- **Pithora** is a sacred ritual wall painting tradition of the Rathwa and Bhilala tribes in Gujarat and Madhya Pradesh, characterized by vivid depictions of horses and the tutelary deity Pithora Baba.
 - **Saura** belongs to **Odisha**. The wall icon is *idital*. Do not call it Warli.
 - **Cheriyal** belongs to **Telangana**. It is a narrative scroll.
-- **Kalighat** belongs to **West Bengal**. Bazaar pats from colonial Calcutta are the fact.
+- **Kalighat painting** originated in 19th-century Calcutta (West Bengal) around the Kalighat temple, evolving into popular bazaar scroll watercolours depicting Hindu deities and sharp satirical sketches of colonial babu society.
 - **Rogan** belongs to **Kutch, Gujarat**. Castor-oil paint is laid with a stick or stylus.
 - **Aipan** belongs to **Uttarakhand**. White rice-paste geometry covers floors and walls.
 - **Mandana** belongs to Rajasthan (and adjoining MP). White chalk floor-and-wall patterns mark harvest.
-- **Lippan** belongs to Kutch. Mirror-mud relief is the fact.
+- **Lippan Kaam** (mud and mirror relief work) is the traditional decorative mural art of the Rabari community in Kutch, Gujarat.
 - **Sujni** embroidery belongs to **Bihar**, not Maharashtra.
 - Nautanki and Raslila are folk **performance**, not wall painting. Visual folk art is still the painting and craft list above.
 
@@ -210,12 +210,12 @@ D. Only 1
 - Classical culture is court and temple, Sanskrit or Persian, and a written canon.
 - Folk culture is community, oral, and in the local language.
 - Tribal culture is Adivasi identity and forest economy. Gond, Warli and Sarna sit here, not in Bharatanatyam.
-- The North fact is **Braj** Krishna culture plus **Ramlila**.
-- The East fact is **Madhubani** and **Chhath**.
-- The West fact is **Garba** and **Warli**.
-- The South fact is **Kalamkari** and **Theyyam**.
-- The North-East fact is **Bihu** and bamboo craft.
-- The central tribal fact is **Gond** art and **Pandavani**.
+- In northern India, folk culture is exemplified by the **Braj** Krishna devotional landscape and traditional **Ramlila** performances.
+- In eastern India, folk traditions are headlined by **Madhubani** painting and the riverine **Chhath Puja**.
+- In western India, community celebration is anchored by Gujarati **Garba** and Maharashtra's tribal **Warli** painting.
+- In southern India, vibrant folk expressions include Andhra's **Kalamkari** textiles and Kerala's ritualistic **Theyyam** dance.
+- In north-eastern India, folk life revolves around Assam's agricultural **Bihu** and indigenous bamboo-cane craftsmanship.
+- In the central tribal belt, artistic traditions are led by **Gond** painting and Chhattisgarh's Mahabharata narrative balladeering, **Pandavani**.
 - **Ramlila** is UNESCO ICH **2008**. The living belt is North India with a **UP** centre (Ramnagar–Varanasi, Braj).
 - **Garba of Gujarat** is UNESCO ICH **2023**.
 - **Chhau** (2010) and **Kalbelia** (2010) are folk/tribal performance listings. Bharatanatyam is **not** a named UNESCO ICH element.
@@ -313,7 +313,7 @@ D. Neither 1 nor 2
 - **Channapatna** lacquer toys belong to **Karnataka**.
 - **Pipli** appliqué belongs to **Odisha**.
 - **Molela** terracotta plaques belong to **Rajasthan. Bankura** terracotta horses belong to **West Bengal**.
-- Kashmir facts are **papier-mâché** and **Pashmina**.
+- Jammu & Kashmir's hallmark handicrafts are world-renowned **papier-mâché** and hand-woven **Pashmina** / Kani shawls.
 - **Venushilpa** by Chitracharya **Upendra Maharathi** is a book on **bamboo art**, not painting.
 
 > **Logic:** Moradabad = brass. Firozabad = glass. Khurja = pottery. Bhadohi = carpet. Blue Pottery = Jaipur**.

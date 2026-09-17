@@ -37,16 +37,16 @@ No new school-vs-stone CA (verified August 2026).
 5. **Gupta Sarnath Buddha** shows **dharmachakra** mudra, a transparent robe, and spiritual calm. It differs from heavy-volume Kushan Mathura figures.
 6. Early Buddhist art is **aniconic** (wheel, tree, empty throne). The **human Buddha** image becomes common from the **Kushan** age.
 7. Key mudras: **dharmachakra** (teaching), **bhumisparsha** (earth-touching), **abhaya** (fearlessness), **dhyana** (meditation), and **varada** (boon).
-8. Temple sculpture facts: **Khajuraho** Chandela mithuna, **Konark** Sun temple with **24 wheels** and **7 horses**, **Mahabalipuram** Pallava relief, and **Hoysala** soapstone / chloritic schist carving.
+8. Landmark temple sculpture traditions: **Khajuraho** (sensuous Chandela *mithuna* couples on Nagara sandstone), **Konark Sun Temple** (conceived as Surya's chariot carved with **24 wheels** and pulled by **7 horses**), **Mahabalipuram** (monumental Pallava open-air granite reliefs such as Arjuna's Penance), and **Hoysala** temples (intricate, jewel-like chloritic schist/soapstone carvings).
 9. Stone map: **Chunar** polish stone in UP, Mathura **red sandstone**, Gandhara **schist**, Amaravati **limestone**, Hoysala **chloritic schist**, and much South Indian temple work in **granite**.
 10. **Mauryan polish** is the mirror Chunar surface. Gupta finish is smooth idealism, not the same mirror polish.
-11. Bronze facts: Indus **Dancing Girl** by **lost-wax**, **Chola Nataraja** processional bronzes, **Pala** Buddhist bronzes, and tribal **Dhokra** bell-metal. Dhokra is not Chola temple bronze.
+11. Masterpieces of Indian metallurgy include the prehistoric Indus **Dancing Girl** cast in bronze via the **lost-wax** technique, exquisite South Indian **Chola Nataraja** processional bronzes, eastern Indian **Pala** Buddhist bronze icons, and indigenous central/eastern tribal **Dhokra** bell-metal castings.
 12. **Nataraja** holds **damaru** and fire, shows **abhaya** and **gajahasta**, places the right foot on **Apasmara**, and stands in a **prabhamandala**.
 13. Uttar Pradesh sculpture homes: **Mathura** school, **Sarnath** Lion Capital and Gupta Buddha, **Chunar** polish stone, and terracotta at **Ahichhatra** and **Kaushambi**.
 14. **Lion Capital** of Sarnath: four lions back to back; abacus with horse, bull, elephant, and lion plus **dharmachakra**. It became the **National Emblem** in **1950**.
-15. **Sarnath** is UNESCO World Heritage from **2026**. The inscription strengthens the site fact; it does not invent a new school.
+15. The **2026** inscription of **Sarnath** on the UNESCO World Heritage list highlights its status as the cradle of the classical Gupta sculpture school and home of the Mauryan Lion Capital.
 16. **Bharhut** is **Shunga**, not Mauryan. Early **Sanchi** remains largely aniconic before later iconic additions.
-17. **Udayagiri Varaha** and **Deogarh Vishnu** are Gupta Hindu sculpture facts outside the Sarnath Buddha alone.
+17. Beyond Buddhist icons at Sarnath, classical Gupta Hindu sculpture is exemplified by the colossal rock-cut **Varaha cave relief at Udayagiri** (Madhya Pradesh) and the **Sheshashayi Vishnu panel at Deogarh** (Lalitpur, UP).
 18. **Khajuraho**, **Sanchi**, **Konark**, Chola bronze, and **Didarganj** are outside Uttar Pradesh. Gandhara and Amaravati are also not UP schools.
 19. Mathura Kushan figures are heavier in volume. Gupta Sarnath figures look lighter, calmer, and more spiritual. That contrast is a standard school trap.
 20. **Chola Nataraja** is a South Indian temple processional bronze. The Indus **Dancing Girl** is a tiny lost-wax figurine from Harappa-age craft, not Shiva Nataraja.
@@ -107,7 +107,7 @@ No new school-vs-stone CA (verified August 2026).
 **Identity:** Stone, bronze and terracotta | Religion and court pay for it | Period ↔ school ↔ region
 
 - Indian sculpture begins in the Indus Valley with terracotta figurines.
-- The metal fact from that age is the **Dancing Girl** bronze of Mohenjo-daro.
+- Metallurgical mastery in the Harappan civilization is epitomized by the iconic lost-wax bronze figurine of the **Dancing Girl** discovered at Mohenjo-daro.
 - Mauryan stone is polished **Chunar sandstone**. Pillars and Yaksha–Yakshi images take that mirror finish.
 - After the Mauryas, Shunga and Satavahana art tells stories on stupa railings. Named sites are **Bharhut** and **Sanchi**.
 - The first mature **human Buddha** appears in the **Kushan** age.
@@ -127,12 +127,12 @@ No new school-vs-stone CA (verified August 2026).
 
 ## 12.2 Gupta Sculpture
 
-**Identity:** 4th–6th c. classical icons | Sarnath is the Buddha fact
+**Identity:** 4th–6th c. classical spiritual idealism | Sarnath represents the pinnacle of Buddhist sculpture
 
 - Gupta faces look calm. Eyes are half-closed. The body is balanced, not the heavy Kushan type.
 - The robe is a **transparent sanghati**. Cloth clings, but the body still shows. That is the Gupta hallmark.
 - A halo and a lotus seat become normal.
-- The **Sarnath Buddha** sits in **dharmachakra mudra**. This is the first-sermon fact.
+- The quintessential **Sarnath Buddha** is seated in the **dharmachakra pravartana mudra**, commemorating the Buddha's First Sermon in the Deer Park.
 - The stone is pale sandstone, not Mathura’s red spotted type.
 - Sarnath already holds the Mauryan **Lion Capital**. The Gupta Buddha stands on the same campus, centuries later.
 - Mathura workshops still work in Gupta times. The “ideal Buddha” is still the Sarnath type.
@@ -186,7 +186,7 @@ No new school-vs-stone CA (verified August 2026).
 - **Khajuraho** is **Chandela** work in Madhya Pradesh.
 - The temples are **Nagara** and sandstone. The tag is **mithuna** panels, not Dravida.
 - **Konark** is Eastern Ganga work in Odisha.
-- The temple is built as **Surya’s chariot**. Fact: **24 wheels** and **7 horses**.
+- The entire temple is architecturalised as **Surya’s colossal solar chariot**, featuring **24 intricately carved stone wheels** drawn by **7 galloping horses**.
 - **Mahabalipuram** is Pallava. It is open-air granite.
 - The named relief is **Arjuna’s Penance**, also called Descent of the Ganga. The Five Rathas stand nearby.
 - **Brihadeeswara** is a Chola granite vimana. Ritual bronzes matter more here than a crowded wall programme.
@@ -204,7 +204,7 @@ No new school-vs-stone CA (verified August 2026).
 
 ## 12.5 Stone Sculpture
 
-**Fact:** stone — place — school
+**Key Classification:** Stone medium — Geographic provenance — Sculpture school
 
 - **Chunar sandstone** comes from the Mirzapur belt in **UP**. Mauryan pillars take a **mirror polish** on it. The Lion Capital is this stone.
 - **Mathura** icons use red or spotted **sandstone**. The region is **UP**. The age is Kushan into Gupta.
@@ -228,7 +228,7 @@ No new school-vs-stone CA (verified August 2026).
 
 - The **Dancing Girl** is from Mohenjo-daro. She is **bronze**, made by lost-wax. She is not terracotta and not stone.
 - Chola **utsava murtis** are processional bronzes. They are taken out of the granite temple.
-- **Nataraja** is the Chola bronze fact. It is Tamil Nadu. Shiva is the cosmic dancer.
+- The cosmic dance of Shiva as **Nataraja** represents the crowning glory of medieval **Chola** lost-wax bronze casting in Tamil Nadu.
 - The upper right hand holds the **damaru**.
 - The upper left hand holds **agni**.
 - The lower right hand shows **abhaya**.
@@ -280,7 +280,7 @@ No new school-vs-stone CA (verified August 2026).
 **Region:** Krishna–Godavari, Andhra | **Stone:** white / greenish **limestone** | **Age:** Satavahana–Ikshvaku
 
 - Panels are narrative **stupa** casing slabs. Scenes are crowded and moving. The human Buddha appears in action.
-- A platform with **Aryaka-pillars** is the fact..
+- A prominent rectangular projection (*ayaka* platform) surmounted by five **Aryaka pillars** (*ayaka-stambhas*) at each cardinal direction is the diagnostic hallmark of stupas in the Amaravati region.
 - **Nagarjunakonda** and Ghantasala are related Andhra sites. The named Aryaka-pillar answer is still **Amaravati**.
 - Bodies are flowing. They are not Gandhara’s toga-Buddha.
 - The first identity is not Mathura’s free-standing red-sandstone icon.

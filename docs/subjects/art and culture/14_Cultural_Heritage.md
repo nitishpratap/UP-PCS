@@ -65,9 +65,9 @@ D. A and D only
 6. **Varanasi ghats** remain on the **Tentative** List only. Do not count them as a fifth UP World Heritage Site.
 7. Recent India inscriptions: **Moidams** (Assam, **2024**), **Maratha Military Landscapes** (**2025**), and **Sarnath** (**2026**). Earlier pairs include Santiniketan and Hoysala (**2023**) and Dholavira and Ramappa (**2021**).
 8. India has **16** UNESCO ICH elements. Early Masterpiece proclamations were **Kutiyattam 2001**, **Vedic chanting 2003**, and **Ramlila 2005**; all three entered the Representative List in **2008**.
-9. Later ICH facts: **Yoga 2016**, **Kumbh Mela 2017**, **Durga Puja of Kolkata 2021**, **Garba of Gujarat 2023**, and **Deepavali 2025**.
+9. Recent inscriptions on the UNESCO ICH list include: **Yoga (2016)**, **Kumbh Mela (2017)**, **Durga Puja of Kolkata (2021)**, **Garba of Gujarat (2023)**, and **Deepavali (2025)**.
 10. These are **not** named UNESCO ICH elements: **Bharatanatyam**, **Kathak**, **Nautanki**, and **Holi** as a standalone Indian element.
-11. **World Heritage Day** is **18 April** (ICOMOS). The ICH Convention date fact is **17 October 2003**. India ratified ICH in **2005**.
+11. **World Heritage Day** (International Day for Monuments and Sites) is celebrated on **18 April** under ICOMOS; the UNESCO Intangible Cultural Heritage Convention was adopted on **17 October 2003** (ratified by India in **2005**).
 12. Cultural WHS use criteria **i–vi**. Natural WHS use **vii–x**. Mixed sites need both sets. India has only one mixed site: Khangchendzonga.
 13. The **Representative List** shows living identity. The **Urgent Safeguarding List** is for endangered ICH needing emergency action.
 14. The **Tentative List** is India’s proposed pipeline. The **Inscribed List** is the official World Heritage roll.
@@ -141,12 +141,12 @@ D. A and D only
 **Identity:** Physical cultural property | Monument, site, city, cave, museum object | ASI + UNESCO are different doors
 
 - Tangible heritage is material. A tourist can photograph it. An archaeologist can excavate it.
-- Immovable facts are monuments, historic cities, caves, temple groups and cultural landscapes.
-- Movable facts are museum objects and antiquities.
+- **Immovable tangible heritage** comprises built monuments, archaeological ruins, historic cities, rock-cut caves, temple complexes, and cultural landscapes.
+- **Movable tangible heritage** encompasses museum artifacts, manuscripts, numismatic collections, and protected antiquities.
 - **ASI** protects monuments under the **AMASR Act, 1958**. About **3,600+** are centrally protected. That badge is **not** a UNESCO tag.
 - The **Antiquities and Art Treasures Act, 1972** covers smuggling and ownership of movable heritage.
 - State archaeology departments protect a second, larger set of monuments.
-- Pollution yellows the Taj. The **Taj Trapezium Zone** is the Agra air-buffer fact.
+- To combat atmospheric pollution that discolours the Taj Mahal's white marble, the government demarcated the **Taj Trapezium Zone (TTZ)** as a 10,400 sq km protective environmental buffer around Agra.
 - Encroachment, tourist wear and illegal digging are the other three threats.
 - Conservation means structure, chemistry, documentation and a **buffer zone**. It does not mean a WHS certificate by itself.
 - A natural park can be tangible in the physical sense and still be classed as a **natural** WHS.
@@ -185,7 +185,7 @@ D. A and D only
 - **OUV** means the site matters to all humanity, not only to one nation.
 - Cultural criteria are **(i) to (vi)**. Natural criteria are **(vii) to (x)**.
 - Criterion **(i)** is a masterpiece of human genius. The Taj is the textbook case.
-- Criterion **(x)** is biodiversity habitat. **Kaziranga** is the rhino fact.
+- Criterion **(x)** pertains to threatened species and natural biodiversity habitats, exemplified by **Kaziranga National Park** as the prime sanctuary for the one-horned rhinoceros.
 - A **mixed** site meets both sets. India’s only mixed WHS is **Khangchendzonga National Park, Sikkim (2016)**.
 - After inscription, the State files periodic conservation reports. A site in crisis can go on the **List of World Heritage in Danger**.
 - **Manas** (Assam) was on the Danger List and was later removed after recovery.
@@ -257,7 +257,7 @@ D. 3, 2, 1, 4
 - **Sarnath (2026)** is the **45th**.
 - **Santiniketan** (Birbhum, WB, **2023**) is Tagore’s university town.
 - **Sacred Ensembles of the Hoysalas (2023)** are **Belur, Halebidu and Somanathapura** in Karnataka. They are not Ramappa.
-- **Ramappa / Rudreshwara (2021)** is Kakatiya, **Telangana**. Floating bricks are the architecture fact. The WHS year is **2021**.
+- **Ramappa (Rudreshwara) Temple (2021)** was built under the Kakatiyas in **Telangana**, celebrated for its lightweight 'floating bricks' and carved sandbox foundation. Its UNESCO inscription was granted in **2021**.
 - **Dholavira (2021)** is the Harappan city in **Kutch, Gujarat**.
 - **Nalanda Mahavihara (2016)** is Bihar. **Mahabodhi, Bodh Gaya (2002)** is a different Bihar site.
 - **Jaipur City** was inscribed in **2019** at the WHC’s **43rd** session in **Baku, Azerbaijan**.
@@ -813,7 +813,7 @@ D. 1, 2 and 3
 
 </details>
 
-**Q17.** Which one of the following is outside Uttar Pradesh as a WHS geography fact?
+**Q17.** Which one of the following World Heritage Sites is located outside Uttar Pradesh?
 
 A. Taj Mahal
 B. Agra Fort

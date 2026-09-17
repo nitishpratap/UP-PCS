@@ -76,14 +76,14 @@ D. Lazzatnama
 4. Sahitya prizes include the annual book award, Fellowship, **Yuva Puraskar (authors ≤35)**, and Bal Sahitya. Yuva ran in **23** languages in **2025** with **no Dogri** that year.
 5. **Jnanpith** is given by the **Bharatiya Jnanpith** trust from **1965** (first winner **G. Sankara Kurup**). It is **not** a Sahitya Akademi award. The **58th** Jnanpith went to **Rambhadracharya** (with Gulzar).
 6. Lalit Kala gives National Awards and **Kala Ratna**, runs **Triennale India**, and has a regional centre at **Lucknow**. It is not the same body as **NGMA**.
-7. **Bharat Ratna** began in **1954**. Culture musician facts include **M. S. Subbulakshmi (1998**, first musician), **Ravi Shankar (1999)**, **Lata Mangeshkar** and **Bismillah Khan (2001)**, **Bhimsen Joshi (2008)**, **Bhupen Hazarika (2019)**, and **Jasraj (2020)**. **Satyajit Ray** received it for cinema in **1992**.
+7. Instituted in **1954**, the **Bharat Ratna** has been conferred upon six classical/cultural musicians: **M. S. Subbulakshmi** (1998, the first musician recipient), **Pandit Ravi Shankar** (1999), **Lata Mangeshkar** and **Ustad Bismillah Khan** (2001), **Pandit Bhimsen Joshi** (2008), and **Dr. Bhupen Hazarika** (2019, posthumous). Legendary filmmaker **Satyajit Ray** received it for cinema in **1992**.
 8. These culture names are **not** Bharat Ratna: **Birju Maharaj**, tabla maestro **Ustad Zakir Hussain**, and **Rabindranath Tagore** (Nobel **1913**; died **1941**, before the award existed).
 9. Dr **Zakir Husain** (Bharat Ratna **1963**) was the statesman-President. He is **not** the tabla maestro Ustad Zakir Hussain.
 10. **Sahitya Yuva Puraskar** is for young authors ≤35. **Bismillah Khan Yuva** is SNA’s young **performing** award. Do not swap the two Yuva names.
 11. **GI** follows the **1999** Act. Registry is at **Chennai** under **DPIIT / Commerce**, not Culture. First Indian GI was **Darjeeling Tea (2004)**.
 12. Culture-facing UP GIs include **Banarasi** brocade and **Chikankari. Blue Pottery** is Jaipur, not UP.
 13. **Bismillah Khan** is the shehnai maestro of **Varanasi**, Bharat Ratna **2001**, and namesake of SNA Yuva. **Birju Maharaj** is Lucknow Kathak and not Bharat Ratna.
-14. **Premchand** is the UP Hindi-Urdu fiction fact. **Tulsidas** wrote *Ramcharitmanas* in Awadhi. **Rambhadracharya** is the Sanskrit Jnanpith fact.
+14. Prominent UP literary figures: **Munshi Premchand** pioneered modern Hindi-Urdu realist fiction (*Godan*); **Goswami Tulsidas** authored the epic *Ramcharitmanas* in Awadhi; and spiritual scholar **Jagadguru Rambhadracharya** received the 58th Jnanpith Award for Sanskrit literature.
 15. Akademi Award is the annual discipline prize. **Akademi Ratna** is the lifetime Fellowship. Papers often treat every SNA prize as Fellowship.
 16. A **GI tag** protects place-linked community quality. A **trademark** protects one firm’s brand.
 17. Culture ministry runs the akademis. **Commerce / DPIIT** runs the GI Registry. Do not put GI under Culture.
@@ -94,7 +94,7 @@ D. Lazzatnama
 22. SNA is older (**1952**) than Sahitya and Lalit Kala (**1954**). Year order is a frequent match trap.
 23. **Bharat Ratna** is the highest civilian honour; the Prime Minister recommends names to the President. It is not an akademi prize.
 24. Jnanpith is a literary trust award from **1965**. Sahitya Akademi Award is the annual Culture-academy book prize. Keep trust versus academy clear.
-25. Lucknow’s Lalit Kala regional centre is a UP institutional fact. It does not make every visual artist of Lucknow a National Award winner by default.
+25. While Lucknow hosts a premier Regional Centre of the Lalit Kala Akademi, National Akademi Awards are conferred strictly by the central national jury on merit.
 26. filter: first identify the body (SNA / Sahitya / Lalit Kala / Jnanpith / Bharat Ratna / GI ministry), then the person or craft, then the year if asked.
 
 ---
@@ -163,7 +163,7 @@ D. Lazzatnama
 - **Pandit Bhimsen Joshi** received it in **2008**. The form is Hindustani khayal (Kirana).
 - **Bhupen Hazarika** received it in **2019** (posthumous). Assamese music and film.
 - **Pandit Jasraj** received it in **2020** (posthumous). Mewati vocal.
-- **Satyajit Ray** received it in **1992**. He is the cinema fact, not a classical vocalist.
+- **Satyajit Ray** received the Bharat Ratna in **1992** for his monumental contributions to world cinema (not as a musical vocalist).
 - **Dr Zakir Husain** (Bharat Ratna **1963**) was the educationist who became President. **Ustad Zakir Hussain** the tabla maestro is **not** a Bharat Ratna.
 - **Pandit Birju Maharaj** is Padma Vibhushan and SNA Ratna. He is **not** Bharat Ratna.
 - **Rabindranath Tagore** won the **Nobel Prize in 1913**. He died in **1941**, before Bharat Ratna existed.
@@ -321,16 +321,16 @@ D. Sudha Murthy
 - **Rukmini Devi Arundale** revived Bharatanatyam and founded **Kalakshetra**.
 - **Kelucharan Mohapatra** is Odissi.
 - **Yamini Krishnamurthy** is Bharatanatyam / Kuchipudi. She died **3 August 2024**.
-- **Premchand** is the Hindi-Urdu fiction fact of **UP** (*Godan*).
+- **Munshi Premchand** (Lamhi, Varanasi, UP) is the preeminent pioneer of modern Hindi-Urdu realist fiction (*Godan*, *Gaban*).
 - **Tulsidas** wrote *Ramcharitmanas* in Awadhi.
 - **Rambhadracharya** is the Sanskrit Jnanpith name in the 2025 paper.
 - **Anuradha Roy** wrote *All the Lives We Never Lived* (Sahitya Akademi English, 2022).
 - **Satyajit Ray** is cinema Bharat Ratna **1992**.
 - **Raja Ravi Varma** is the oleograph-realism painter.
 - **Nandalal Bose** is the Bengal School painter.
-- **Amrita Sher-Gil** is the Indo-modern painting fact.
+- **Amrita Sher-Gil** is celebrated as the pioneer of modern Indian visual art, blending European post-impressionist techniques with Indian traditional subjects.
 - **Tansen** is Akbar’s court dhrupad name.
-- **Amir Khusrau** is the Hindavi / qawwali ancestor fact.
+- **Amir Khusrau** (born at Patiyali, Kasganj, UP) is revered as the father of qawwali, developer of Khari Boli/Hindavi poetry, and innovator of Hindustani musical forms.
 - Padma Vibhushan **2025** in **Art** went to **L. Subramaniam** (violin).
 - Padma Vibhushan **2025** in Literature and Education went to **M. T. Vasudevan Nair**.
 
