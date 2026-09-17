@@ -78,70 +78,53 @@ Political Condition of Sixth Century BCE | Sixteen Mahajanapadas | Mahajanapadas
 
 ## Must-score facts — capitals, UP list, Magadha order
 
-### Classic capital matches
+### Master Table — All 16 Mahajanapadas (सोलह महाजनपद)
 
-| Mahajanapada | Capital |
-|--------------|---------|
-| Matsya | **Viratnagar** |
-| Kuru | **Indraprastha / Hastinapur** |
-| Surasena | **Mathura** |
-| Asmaka | **Potana** (only south of Vindhyas) |
-| Chedi | **Suktimati / Sotthivati** |
-| Anga | **Champa** |
-| Vajji | **Vaishali** (gana-sangha) |
-| Malla | **Kushinagar / Pava** |
-| Magadha | **Rajagriha** → later **Pataliputra** |
-| Kashi | **Varanasi** |
-| Kosala | **Ayodhya / Shravasti** |
-| Vatsa | **Kaushambi** |
-| Panchala | **Ahichchhatra / Kampilya** |
-| Avanti | **Ujjain / Mahishmati** |
+*(Canonical list according to Buddhist **Anguttara Nikaya** and Jain **Bhagavati Sutra**; high-yield for match-the-column with ancient capitals & modern regions)*
 
-### Eight UP-touching mahajanapadas
+| No. | Mahajanapada (महाजनपद) | Capital(s) (राजधानी) | Modern Region (वर्तमान क्षेत्र) | Polity Type / Contemporary Ruler | High-Yield Exam Note |
+|:---:|:----------------------|:---------------------|:--------------------------------|:---------------------------------|:---------------------|
+| **1** | **Kashi** (काशी) | **Varanasi** (वाराणसी) | Varanasi, UP | Monarchy; King Ashvasena (Parshvanatha's father) | Conquered by Kosala before Buddha's death |
+| **2** | **Kosala** (कोसल) | **Shravasti** (श्रावस्ती) / Ayodhya / Saketa | Faizabad, Gonda, Bahraich (Awadh, UP) | Monarchy; King **Prasenjit** (contemporary of Buddha) | Sarayu river divided into North (Shravasti) & South (Kushavati) |
+| **3** | **Anga** (अंग) | **Champa** (चंपा) (ancient Malini) | Bhagalpur & Munger, Bihar | Monarchy; King Brahmadatta | Annexed by Bimbisara into Magadha; great river trade port |
+| **4** | **Magadha** (मगध) | **Girivraja / Rajagriha** → **Pataliputra** | Patna, Gaya, Nalanda, Bihar | Monarchy; Bimbisara, Ajatashatru | Emerged as the supreme empire of 6th c. BCE |
+| **5** | **Vajji** (वृज्जि) | **Vaishali** (वैशाली) | Muzaffarpur, Vaishali, N. Bihar | **Gana-Sangha** (Confederacy of 8 clans including Lichchhavis) | World's first republic; Ajatashatru defeated after 16-yr war |
+| **6** | **Malla** (मल्ल) | **Kushinagar** (कुशीनगर) & **Pava** (पावा) | Deoria, Gorakhpur, Kushinagar, UP | **Gana-Sangha** (Oligarchy/Republic) | Buddha attained *Mahaparinirvana* at Kushinagar; Mahavira at Pava |
+| **7** | **Chedi** (चेदि) | **Suktimati** (शुक्तिमती) / Sotthivati | Bundelkhand (UP & MP borders) | Monarchy; King Shishupala (Mahabharata) | Located along Ken river (*Shuktimati*) |
+| **8** | **Vatsa** (वत्स) | **Kaushambi** (कौशाम्बी) | Prayagraj & Kaushambi, UP | Monarchy; King **Udayana** (hero of *Svapnavasavadattam*) | Famous Buddhist centre; Ghositarama monastery |
+| **9** | **Kuru** (कुरु) | **Indraprastha** (इन्द्रप्रस्थ) / Hastinapur | Meerut, Delhi, Thanesar (Haryana/UP) | Monarchy → later republican tendencies | King Koravya at Buddha's time |
+| **10** | **Panchala** (पांचाल) | North: **Ahichchhatra** (बरेली); South: **Kampilya** (फर्रुखाबाद) | Bareilly, Badaun, Farrukhabad (Rohilkhand, UP) | Monarchy → later Gana-Sangha | Divided by Ganga into North & South Panchala |
+| **11** | **Matsya** (मत्स्य) | **Viratnagar** (विराटनगर / Bairat) | Jaipur, Alwar, Bharatpur (Rajasthan) | Monarchy | King Sujata; annexed into Magadha empire |
+| **12** | **Surasena** (शूरसेन) | **Mathura** (मथुरा) | Mathura, Braj region, UP | Monarchy; King Avantiputra (disciple of Buddha) | Associated with Yadava clan & Krishna cult |
+| **13** | **Ashmaka / Assaka** (अश्मक) | **Potana / Potali / Podana / Potil** (पोटिल) | Godavari Valley (Maharashtra / Telangana) | Monarchy; King Brahmadatta | **ONLY Mahajanapada situated South of Vindhyas / on Godavari river** |
+| **14** | **Avanti** (अवन्ति) | North: **Ujjain** (उज्जयिनी); South: **Mahishmati** (माहिष्मती) | Malwa region, Madhya Pradesh | Monarchy; King **Pradyota** (*Chanda Pradyota*) | Vetravati river divided it; physician Jivaka sent by Bimbisara |
+| **15** | **Gandhara** (गांधार) | **Taxila** (तक्षशिला) & Pushkalavati | Rawalpindi, Peshawar, NWFP (Pakistan) | Monarchy; King Pukkusati | Famous university & trade crossroad on Uttarapatha |
+| **16** | **Kamboja** (कंबोज) | **Rajapura / Rajpur** (राजपुर) / Hathaka | Hazara, Kashmir border, Pamir/Hindukush | Monarchy → later republic | Renowned for fine breed of **horses** (*Ashva-kendra*) |
 
-**Kashi · Kosala · Vatsa · Kuru · Panchala · Malla · Surasena · Chedi**
-
-Not UP: Magadha / Anga / Vajji (Bihar), Avanti (MP), Matsya (RJ).
-
-### Magadha dynasty order
-
-**Haryanka → Shishunaga → Nanda → Maurya**
-
-| King | Tag |
-|------|-----|
-| Bimbisara | Alliances; took **Anga** |
-| Ajatashatru | War on **Vajji**; *rathamusala* (रथमुसल); Pataligrama seed |
-| Udayin | First makes **Pataliputra** capital |
-| Shishunaga | Took **Avanti** |
-| Kalashoka | Linked with **2nd Buddhist Council** |
-| Mahapadma Nanda | *Ekarat* (एकराट्) / *Sarvakshatrantaka* (सर्वक्षत्रान्तक) |
-| Dhana Nanda | Last; Greek **Agrammes** |
-
-### Pottery / money
-
-| Item | Lock |
-|------|------|
-| NBPW | Deluxe black pottery of 2nd urbanisation |
-| PGW | Later Vedic (earlier) |
-| Punch-marked silver | **Aahat (आहत) / karshapana (कार्षापण)** |
+#### Geographical Classification of the 16 Mahajanapadas:
+- **8 in Modern Uttar Pradesh:** Kashi, Kosala, Vatsa, Malla, Surasena, Panchala, Kuru (partly), Chedi (partly).
+- **3 in Bihar:** Magadha, Anga, Vajji.
+- **1 in Madhya Pradesh:** Avanti (plus parts of Chedi).
+- **1 in Rajasthan:** Matsya.
+- **1 in South India (Godavari basin):** Ashmaka (Assaka).
+- **2 in Northwest / Beyond Indus:** Gandhara, Kamboja.
+- **Gana-Sanghas (Republics / Non-monarchical):** **Vajji** (8 confederate clans) and **Malla** (two branches: Pava and Kushinara).
 
 ---
 
-## Books and Writers — Sixth Century BCE
+### Master Breakdown — The 5 Buddhist Nikayas of Sutta Pitaka (सुत्तपिटक के 5 निकाय)
 
-**Book–writer pairs | named texts of the mahajanapada age**
+The **Sutta Pitaka** (doctrine & dialogues of Buddha, recited by **Ananda** at the 1st Buddhist Council) is divided into **five Nikayas**:
 
-| Book / text | Writer / authority | What it is for |
-|-------------|--------------------|----------------|
-| *Ashtadhyayi* (अष्टाध्यायी) | **Panini** (पाणिनि) (Pushkalavati / Gandhara) | Grammar; names about **22** janapadas |
-| *Svapnavasavadattam* | **Bhasa** (भास) | Udayana–Vasavadatta story set at **Ujjain** |
-| *Anguttara Nikaya* | Buddhist canon (no single author) | Standard list of **sixteen** mahajanapadas |
-| *Bhagavati Sutra* (*Vyakhya Prajnapti*) | Jain canon (no single author) | Parallel sixteen-name list (names differ) |
+| Nikaya (निकाय) | Meaning / Scope | Key Suttas & Canonical Contents | High-Yield PYQ Reference |
+|:---------------|:----------------|:--------------------------------|:--------------------------|
+| **1. Digha Nikaya** (दीघ निकाय) | *Long Discourses* (34 long suttas) | • **Mahaparinibbana Sutta** (Buddha’s final days, relics, last words)<br>• **Brahmajala Sutta** (62 philosophical wrong views)<br>• **Ambattha Sutta** (caste debate)<br>• **Sigalovada Sutta** (layman ethics) | UPPCS Spl Pre 2004 Q2 (Digha Nikaya = Buddhist canonical text, not Jain) |
+| **2. Majjhima Nikaya** (मज्झिम निकाय) | *Middle-length Discourses* (152 suttas) | • **Angulimala Sutta** (conversion of bandit Angulimala)<br>• **Ratthapala Sutta**<br>• Dialogues on meditation, karma, dependent origination (*Pratityasamutpada*) | UPPCS Pre 2008 (canon classification) |
+| **3. Samyutta Nikaya** (संयुक्त निकाय) | *Connected / Grouped Discourses* (~2,900 suttas) | • **Dhammacakkappavattana Sutta** (First Sermon at Sarnath; Four Noble Truths & Eightfold Path)<br>• Anattalakkhana Sutta (no-soul doctrine) | Core source for Four Noble Truths & Eightfold Path |
+| **4. Anguttara Nikaya** (अंगुत्तर निकाय) | *Numerical / Gradual Discourses* (over 9,500 short suttas) | • **Lists the 16 Mahajanapadas** (सोलह महाजनपद सूची)<br>• Grouped by numbers: sets of 1s, 2s, 3s... up to 11s | Direct source for 16 Mahajanapadas list |
+| **5. Khuddaka Nikaya** (खुद्दक निकाय) | *Minor Collection* (15 distinct poetic & narrative books) | • **Jatakas** (547 stories of Buddha's previous births)<br>• **Dhammapada** (423 verses of moral wisdom)<br>• **Theragatha** (verses of elder monks)<br>• **Therigatha** (verses of elder nuns - earliest women's poetry)<br>• Sutta Nipata, Khuddakapatha | UPPCS 2008 / Mains: Jatakas & Therigatha belong to Khuddaka Nikaya |
 
-- For “who wrote *Ashtadhyayi*” the answer is **Panini**.
-- For “which text lists the sixteen mahajanapadas” the usual answer is **Anguttara Nikaya**, not a personal author.
-
-> **Logic:** Full capital / Magadha teaching stays in the cards below.
+---
 
 ---
 

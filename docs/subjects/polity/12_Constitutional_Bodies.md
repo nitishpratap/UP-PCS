@@ -317,6 +317,52 @@ D. Uttar Pradesh State Legislature
 | For | Union–State + local top-up | State–PRI/ULB |
 | Article | **280** | **243I / 243Y** |
 
+### Master Table — 1st to 16th Finance Commissions (वित्त आयोग)
+
+| No. | Chairman (अध्यक्ष) | Appointed (वर्ष) | Operational Period (कार्यकाल) | Key Share / Highlights |
+|:---:|:-------------------|:----------------:|:-----------------------------:|:-----------------------|
+| **1st** | **K.C. Neogy** | 1951 | 1952–1957 | First FC; laid fundamental revenue-sharing rules |
+| **2nd** | **K. Santhanam** | 1956 | 1957–1962 | Post-States Reorganisation realignment |
+| **3rd** | **A.K. Chanda** | 1960 | 1962–1966 | Addressed Planning Commission dualism |
+| **4th** | **Dr. P.V. Rajamannar** | 1964 | 1966–1969 | State autonomy focus |
+| **5th** | **Mahavir Tyagi** | 1968 | 1969–1974 | Interim + final reports |
+| **6th** | **K. Brahmananda Reddy** | 1972 | 1974–1979 | Upgradation grants for backward states |
+| **7th** | **J.M. Shelat** | 1977 | 1979–1984 | Increased excise sharing to 40% |
+| **8th** | **Y.B. Chavan** | 1982 | 1984–1989 | Addressed revenue deficits |
+| **9th** | **N.K.P. Salve** | 1987 | 1989–1995 | Normative approach to state expenditure |
+| **10th** | **K.C. Pant** | 1992 | 1995–2000 | Recommended Alternative Devolution Scheme (80th Amend.) |
+| **11th** | **Prof. A.M. Khusro** | 1998 | 2000–2005 | First local bodies grants under 73rd/74th Amend. |
+| **12th** | **Dr. C. Rangarajan** | 2002 | 2005–2010 | 30.5% devolution; debt consolidation & relief facility (FRBM linked) |
+| **13th** | **Dr. Vijay Kelkar** | 2007 | 2010–2015 | 32.0% devolution; GST incentive roadmap; disaster response (NDRF/SDRF) |
+| **14th** | **Dr. Y.V. Reddy** | 2013 | 2015–2020 | **42.0%** devolution (record 10% jump; untied funds to States) |
+| **15th** | **N.K. Singh** | 2017 | 2020–2021 (Interim) / 2021–2026 (Final) | **41.0%** (1% carved out for UTs of J&K & Ladakh); 2011 Census base |
+| **16th** | **Dr. Arvind Panagariya** | 2023 (31 Dec) | 2026–2031 | 16th Commission; Secretary Ritvik Ranjanam Pandey |
+
+---
+
+### Delimitation Commission (परिसीमन आयोग) — Arts. 82, 170 & 329
+
+**Statutory boundary-fixing body** — Parliament enacts a Delimitation Act after Census; orders have **force of law** and **cannot be questioned in court**.
+
+- **Constitutional Basis:**
+  - **Article 82:** Allocation of seats and territorial delimitation for **Lok Sabha** after each census by an authority prescribed by law.
+  - **Article 170:** Delimitation and seat adjustment for **State Legislative Assemblies** (Vidhan Sabhas) after each census.
+  - **Article 329(a):** **Complete judicial bar** — validity of any law relating to delimitation or allotment of seats cannot be called in question in any court (*Meghraj Kothari v. Delimitation Commission*, 1967 SC).
+- **The 4 Delimitation Acts:**
+  1. Delimitation Commission Act, **1952**
+  2. Delimitation Commission Act, **1962**
+  3. Delimitation Commission Act, **1972**
+  4. Delimitation Commission Act, **2002** (chaired by **Justice Kuldip Singh**; worked based on 2001 Census).
+- **Composition of Delimitation Commission:**
+  - **Chairperson:** A retired **Supreme Court Judge** appointed by the President of India.
+  - **Members (Ex-officio):** Chief Election Commissioner (or an Election Commissioner nominated by CEC), and the **State Election Commissioner** of the concerned state.
+  - **Associate Members:** 5 Lok Sabha MPs and 5 State MLAs from that State (appointed by Speaker of LS and Speaker of Vidhan Sabha); attend hearings but **have NO right to vote** or sign the final order.
+- **Seat Freezes (Amendments):**
+  - **42nd Amendment, 1976:** Froze total seats in Lok Sabha (543) and Assemblies based on **1971 Census** until after the year 2000.
+  - **84th Amendment, 2001:** Extended the freeze on total seats up to the year **2026** (first census published after 2026); permitted internal boundary readjustment using 1991 Census.
+  - **87th Amendment, 2003:** Substituted **2001 Census** (in place of 1991) as the base for internal boundary rationalisation without changing total seat count.
+- **Key Trap:** The Delimitation Commission is **NOT** the Election Commission of India. ECI merely provides administrative assistance and notifies the resulting orders. ECI cannot alter delimitation boundaries on its own.
+
 ---
 
 ## CAG (Arts. 148–151)

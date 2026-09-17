@@ -81,21 +81,58 @@ National Parties | Regional Parties | Recognition (मान्यता) of Pol
 | Anti-defection | **Tenth Schedule** |
 | Registration | RPA **s.29A** |
 
-### National / State party (any one route)
+### Statutory Criteria for Recognition (Election Symbols Order, 1968)
 
-| Type | Classic route |
-|------|---------------|
-| National | **6%** votes in **4** States + **4** LS seats **or** **2%** LS seats from ≥3 States, etc. |
-| State | **6%** + **2** MLAs / **1** MP **or** **3%** Assembly seats (min 3), etc. |
+A party registered under **Section 29A of RPA 1951** is initially a *Registered Unrecognised Political Party (RUPP)*. It gains **recognition** solely by meeting performance thresholds in general elections:
 
-### Quick locks
+#### 1. Conditions for Recognition as a NATIONAL PARTY (राष्ट्रीय दल)
+*(A party must fulfill **ANY ONE** of the following 3 conditions):*
+1. **Votes + Seats Route:** Polling at least **6% of total valid votes** in **4 or more States** in a Lok Sabha or State Assembly election, **AND** winning at least **4 seats in the Lok Sabha** from any State or States.
+2. **Lok Sabha Seats Route:** Winning at least **2% of total seats in the Lok Sabha** (i.e., $543 \times 2\% = \mathbf{11\text{ seats}}$), and these elected members must represent **at least 3 different States**.
+3. **Multi-State Recognition Route:** Being recognized as a **State Party in at least 4 States**.
 
-| Item | Lock |
-|------|------|
-| National parties (2024–26 set) | AAP, BSP, BJP, CPI(M), INC, NPP (verify current ECI list) |
-| Symbols | Reserved = recognised; free = unrecognised / Independents |
-| Founding order trap | TDP **1982** → BSP **1984** → SP **1992** → TMC **1998** |
-| System | Multi-party (not classic two-party) |
+*(Current 6 National Parties in 2024–26: **BJP, INC, BSP, CPI(M), AAP, NPP**; CPI, TMC, and NCP lost national status in April 2023).*
+
+#### 2. Conditions for Recognition as a STATE PARTY (राज्य / क्षेत्रीय दल)
+*(A party must fulfill **ANY ONE** of the following 5 conditions in the concerned State):*
+1. **6% Votes + 2 MLAs:** Polling at least **6% of valid votes** in the State Assembly election **AND** winning at least **2 Assembly seats (MLAs)**.
+2. **6% Votes + 1 MP:** Polling at least **6% of valid votes** in the State during a Lok Sabha election **AND** winning at least **1 Lok Sabha seat (MP)** from that State.
+3. **3% Seats or 3 MLAs:** Winning at least **3% of the total Assembly seats** or **3 seats in the Legislative Assembly**, whichever is higher.
+4. **1 MP per 25 LS Seats:** Winning at least **1 Lok Sabha seat for every 25 seats** allotted to that State (or any fraction thereof).
+5. **8% Vote-Share Alone (2011 Rule):** Polling at least **8% of the total valid votes** in the State in an Assembly or Lok Sabha election, **even if it wins ZERO seats**.
+
+---
+
+### Master Table — Indian Political Parties (Founding Year, Founder & Symbol)
+
+*(High-yield for chronological arrangement & match-the-column PYQs like UPPCS 2022 Q53)*
+
+| Party Name (दल) | Abbr. | Founded (वर्ष) | Key Founder(s) (संस्थापक) | Official Symbol (प्रतीक) | Level / Status |
+|:----------------|:-----:|:--------------:|:--------------------------|:-------------------------|:---------------|
+| **Indian National Congress** | INC | **1885** (28 Dec) | A.O. Hume, W.C. Bonnerjee | Hand (हाथ का पंजा) | National Party |
+| **Shiromani Akali Dal** | SAD | **1920** (14 Dec) | Master Tara Singh, Baba Kharak Singh | Scales (तराजू) | State Party (Punjab) |
+| **Communist Party of India** | CPI | **1925** (26 Dec) | M.N. Roy, S.V. Ghate (Kanpur) | Ears of Corn and Sickle | State Party (lost Nat. status 2023) |
+| **J&K National Conference** | JKNC | **1932/1939** | Sheikh Abdullah | Plough (हल) | State Party (J&K) |
+| **Dravida Munnetra Kazhagam** | DMK | **1949** (17 Sep) | C.N. Annadurai, Periyar legacy | Rising Sun (उगता सूरज) | State Party (TN, Puducherry) |
+| **CPI (Marxist)** | CPI(M) | **1964** (7 Nov) | P. Sundarayya, E.M.S., Jyoti Basu | Hammer, Sickle and Star | National Party |
+| **Shiv Sena** | SS | **1966** (19 Jun) | Bal Thackeray | Bow and Arrow (मूल) | State Party (Maharashtra) |
+| **AIADMK** | AIADMK | **1972** (17 Oct) | M.G. Ramachandran (MGR) | Two Leaves (दो पत्तियाँ) | State Party (TN, Puducherry) |
+| **Jharkhand Mukti Morcha** | JMM | **1972** (15 Nov) | Shibu Soren, Binod Bihari Mahato | Bow and Arrow (झारखंड) | State Party (Jharkhand) |
+| **Bharatiya Janata Party** | BJP | **1980** (6 Apr) | Atal Bihari Vajpayee, L.K. Advani | Lotus (कमल) | National Party |
+| **Telugu Desam Party** | TDP | **1982** (29 Mar) | N.T. Rama Rao (NTR) | Bicycle (साइकिल - AP) | State Party (AP, Telangana) |
+| **Bahujan Samaj Party** | BSP | **1984** (14 Apr) | Kanshi Ram | Elephant (हाथी) | National Party |
+| **Asom Gana Parishad** | AGP | **1985** (14 Oct) | Prafulla Kumar Mahanta | Elephant (असम राज्य) | State Party (Assam) |
+| **Samajwadi Party** | SP | **1992** (4 Oct) | Mulayam Singh Yadav | Bicycle (साइकिल - UP) | State Party (UP) |
+| **Rashtriya Janata Dal** | RJD | **1997** (5 Jul) | Lalu Prasad Yadav | Hurricane Lamp (लालटेन) | State Party (Bihar, Jharkhand) |
+| **Biju Janata Dal** | BJD | **1997** (26 Dec) | Naveen Patnaik | Conch (शंख) | State Party (Odisha) |
+| **All India Trinamool Congress**| AITC/TMC| **1998** (1 Jan) | Mamata Banerjee | Flowers and Grass | State Party (lost Nat. status 2023) |
+| **Nationalist Congress Party** | NCP | **1999** (10 Jun) | Sharad Pawar, P.A. Sangma | Clock (घड़ी) | State Party (lost Nat. status 2023) |
+| **BRS (formerly TRS)** | BRS | **2001** (27 Apr) | K. Chandrashekar Rao (KCR) | Car (कार) | State Party (Telangana) |
+| **YSR Congress Party** | YSRCP | **2011** (12 Mar) | Y.S. Jagan Mohan Reddy | Ceiling Fan (पंखा) | State Party (AP) |
+| **Aam Aadmi Party** | AAP | **2012** (26 Nov) | Arvind Kejriwal | Broom (झाड़ू) | National Party (gained 2023) |
+| **National People's Party** | NPP | **2013** (6 Jan) | P.A. Sangma | Book (किताब) | National Party (1st North-East 2019) |
+
+> **UPPCS Classic Trap Sequence:** **TDP (1982) → BSP (1984) → SP (1992) → TMC (1998)**.
 
 ---
 

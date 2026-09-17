@@ -450,7 +450,7 @@ A **flood** occurs when water inundates land that is usually dry.
 ### Types
 
 - **Riverine floods** rise when large rivers overtop banks after prolonged monsoon rain or snowmelt. The **Ganga–Brahmaputra–Meghna** system dominates India’s flood map.
-- **Flash floods** rise in minutes to hours in hills after cloudbursts or sudden dam (दाम -) / landslide lake bursts.
+- **Flash floods** rise in minutes to hours in hills after cloudbursts or sudden dam (बांध) / landslide lake bursts.
 - **Urban floods** follow blocked drains, paved catchments and intense city rain (Mumbai-type events).
 - **Coastal floods** come with cyclone **storm surge** and high tides.
 - **GLOF** (glacial-lake outburst flood) releases a glacial lake when a moraine dam fails.

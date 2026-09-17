@@ -6,7 +6,7 @@
 
 **Houses & Organisation:** Parliament | Rajya Sabha (राज्यसभा) | Lok Sabha (लोकसभा) | Composition & Nomination | Qualification & Disqualification of Members | Office of Profit | Speaker | Deputy Speaker | Pro Tem Speaker | Chairman of Rajya Sabha | Joint Sitting (संयुक्त बैठक) | Parliamentary Privileges | Parliamentary Secretariat | Whip | Sessions of Parliament | Summoning (आहूत करना), Prorogation (सत्रावसान), Adjournment (स्थगन), Dissolution (विघटन) | Quorum (गणपूर्ति) | Lame Duck Session (पंगु सत्र)
 
-**Budget, Bills, Devices, Committees:** Budget | Consolidated Fund | Contingency Fund (आकस्मिकता निधि) | Public Account (लोक लेखा) | Charged Expenditure (भारित) | Demand for Grants | Appropriation Bill | Vote on Account | Supplementary / Excess / Additional Grants | Vote of Credit & Exceptional Grant | Ordinary Bill | Money Bill | Financial Bill (वित्तीय) | Finance Bill (वित्त) | Constitutional Amendment Bill | Private Member Bill | Money Bill vs Financial Bill | Lapsing of Bills | Question Hour (प्रश्न काल) | Zero Hour (शून्य काल -) | Half-an-Hour Discussion | Short Duration Discussion | Calling Attention | Adjournment Motion (स्थगन प्रस्ताव) | Censure | No-Confidence (अविश्वास प्रस्ताव) | Confidence | Privilege Motion | Cut Motions (कटौती प्रस्ताव) | Closure | Guillotine | Point of Order | PAC (लोक लेखा समिति) | Estimates (प्राकलन समिति) Committee | COPU | DRSCs | Business Advisory | Rules | Ethics | Privileges | Petitions | Subordinate Legislation | Government Assurances
+**Budget, Bills, Devices, Committees:** Budget | Consolidated Fund | Contingency Fund (आकस्मिकता निधि) | Public Account (लोक लेखा) | Charged Expenditure (भारित) | Demand for Grants | Appropriation Bill | Vote on Account | Supplementary / Excess / Additional Grants | Vote of Credit & Exceptional Grant | Ordinary Bill | Money Bill | Financial Bill (वित्तीय) | Finance Bill (वित्त) | Constitutional Amendment Bill | Private Member Bill | Money Bill vs Financial Bill | Lapsing of Bills | Question Hour (प्रश्न काल) | Zero Hour (शून्य काल) | Half-an-Hour Discussion | Short Duration Discussion | Calling Attention | Adjournment Motion (स्थगन प्रस्ताव) | Censure | No-Confidence (अविश्वास प्रस्ताव) | Confidence | Privilege Motion | Cut Motions (कटौती प्रस्ताव) | Closure | Guillotine | Point of Order | PAC (लोक लेखा समिति) | Estimates (प्राकलन समिति) Committee | COPU | DRSCs | Business Advisory | Rules | Ethics | Privileges | Petitions | Subordinate Legislation | Government Assurances
 
 </details>
 
@@ -5131,7 +5131,7 @@ House tools for questions, urgency, and censure — **not** a second Bill proced
 
 > **Logic:** Zero Hour is **after** Question Hour, not before, and not the “first hour”. No-confidence needs **no grounds**; censure **does**. Adjournment / no-confidence / cut motions = **LS only**.
 
-**PYQ — UPPCS Prelims 2021, Q141'Zero Hour'** in the working of the Indian Parliament means—
+**PYQ — UPPCS Prelims 2021, Q141 — 'Zero Hour'** in the working of the Indian Parliament means—
 
 A. The first hour of the Session
 B. When privilege motion are accepted
@@ -5461,7 +5461,7 @@ D. Contingency Fund of India
 
 </details>
 
-**Q8. UPPCS Prelims 2021, Q141'Zero Hour'** in the working of the Indian Parliament means—
+**Q8. UPPCS Prelims 2021, Q141 — 'Zero Hour'** in the working of the Indian Parliament means—
 A. The first hour of the Session
 B. When privilege motion are accepted
 C. Hour before question hour

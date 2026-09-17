@@ -100,15 +100,35 @@ Bhakti Movement | Major Bhakti Saints | Chronology of Bhakti Saints | Indian Sai
 | Nizamuddin Auliya | Amir Khusrau |
 | Guru Nanak | Mardana (rababi companion) |
 
-### Chishti line
+### Master Table — Major Sufi Silsilas in India (प्रमुख सूफी सिलसिले)
 
-**Moinuddin (Ajmer) → Qutbuddin Bakhtiyar Kaki → Baba Farid → Nizamuddin → Nasiruddin Chiragh**
+*(Tested heavily in match-the-pair, saints, centres, and doctrinal practices)*
 
-| Order | Tag |
-|-------|-----|
-| Chishti | Poverty; **sama**; reject state wealth |
-| Suhrawardi | Multan; accept patronage (**Bahauddin Zakariya**) |
-| Naqshbandi | Ahmad Sirhindi; anti-syncretism |
+| Silsila (सिलसिला) | Indian Founder(s) | Main Centres / Khanqah | Key Saints (पीर / शेख) | Doctrinal Stance & State Relations |
+|:------------------|:------------------|:-----------------------|:-----------------------|:-----------------------------------|
+| **Chishti** (चिश्ती) | **Khwaja Muinuddin Chishti** (arrived 1192 with Ghori) | **Ajmer** (Rajasthan), Delhi, Nagaur, Pakpattan, Daulatabad, Gulbarga | • **Qutbuddin Bakhtiyar Kaki** (Delhi; Qutb Minar dedicated to him)<br>• **Baba Fariduddin Ganj-i-Shakar** (Ajodhan/Pakpattan; verses in Guru Granth Sahib)<br>• **Hazrat Nizamuddin Auliya** (*Mahbub-i-Ilahi*; Delhi; saw reign of 7 Sultans; Yogic pranayama master / *Siddha*)<br>• **Nasiruddin Chiragh-i-Dehli** (last great Chishti of Delhi)<br>• **Shaikh Salim Chishti** (Fatehpur Sikri; Akbar's spiritual guide)<br>• **Burhanuddin Gharib** (introduced Chishti order in Deccan; **Daulatabad**, 1309)<br>• **Khwaja Gesudaraz Banda Nawaz** (**Gulbarga**; author of *Miraj-ul-Ashiqin*) | • **Poverty, simplicity, service to mankind**<br>• Kept **strict aloofness from state patronage and wealth**<br>• Practiced **Sama (समा)** — spiritual musical gatherings to attain ecstasy<br>• Embraced *Wahdat-ul-Wujud* (Unity of Being / Pantheism) |
+| **Suhrawardi** (सुहरावर्दी) | **Shaikh Bahauddin Zakariya** (1170–1262) | **Multan** & Uchh (Punjab / Sindh) | • **Bahauddin Zakariya** (given title *Shaikh-ul-Islam* by Iltutmish)<br>• **Shaikh Ruknuddin Abul Fath** (grandson of Zakariya; patronized by Alauddin & Tughlaqs)<br>• Jalaluddin Surkh-Posh Bukhari | • **Accepted state titles, jagirs, and royal patronage**<br>• Did not believe in extreme poverty or fasting<br>• Rejected *Sama* music; strictly adhered to orthodox Sharia |
+| **Naqshbandi** (नक़्शबंदी) | **Khwaja Baqi Billah** (1563–1603) | Delhi, Sirhind (Punjab) | • **Shaikh Ahmad Sirhindi** (*Mujaddid Alf-i-Sani* — Reformer of the Second Millennium; imprisoned by Jahangir at Gwalior)<br>• Khwaja Muhammad Masum<br>• **Shah Waliullah Dehlawi** (18th c. synthesizer) | • **Most orthodox and puritanical order**<br>• Vehemently opposed Akbar's syncretic *Sulh-i-Kul* and *Din-i-Ilahi*<br>• Formulated *Wahdat-ul-Shuhud* (Unity of Appearance) against *Wahdat-ul-Wujud*<br>• **Strictly banned musical gatherings (Sama)**; practiced silent remembrance (*Zikr-i-Khafi*) |
+| **Qadiri** (कादिरी) | **Shah Niamatullah** & **Sayyid Muhammad Ghaus** (mid-15th c.) | Uchh (Sindh), Multan, Agra, Lahore | • **Shaikh Mir Muhammad (Mian Mir)** of Lahore (laid foundation stone of Golden Temple, Amritsar)<br>• **Mullah Shah Badakhshi** (spiritual guru of **Dara Shikoh** and **Jahanara**)<br>• Dara Shikoh authored *Safinat-ul-Auliya* and *Sakinat-ul-Auliya* on Qadiri saints | • Moderate, orthodox yet tolerant<br>• Dara Shikoh translated 50 Upanishads into Persian as ***Sirr-i-Akbar*** under Qadiri influence<br>• Practiced loud remembrance (*Zikr-i-Jali*) |
+| **Shattari** (शत्तारी) | **Shah Abdullah Shattari** (d. 1472) | Jaunpur, Malwa, Bengal, **Gwalior** | • **Shaikh Muhammad Ghaus of Gwalior** (author of *Jawahir-i-Khamsa*; deep master of Yogic occult sciences; guru of **Tansen**; patronized by Humayun) | • Believed in direct, instantaneous spiritual attainment (*Shattar* = lightning speed)<br>• Synthesized Islamic Sufism with Hindu Hatha Yoga and Tantra |
+| **Firdausi** (फिरदौसी) | **Shaikh Badruddin Samarqandi** (branch of Suhrawardi) | **Bihar** (Maner, Rajgir, Patna) | • **Shaikh Sharfuddin Yahya Maneri** (*Makhdum-ul-Mulk*; famous for *Maktubat-i-Sadi* / Hundred Letters on spiritual guidance) | • Active almost exclusively in **Bihar**<br>• Emphasized social justice, humanitarian service, and spiritual letters |
+
+---
+
+### Master Table — Essential Sufi Literature & Cross-Cultural Translations
+
+*(Tested directly in UPPCS 2018 Q90, 2021 Q101)*
+
+| Book / Text Title | Author / Compiler | Subject / Nature of Work | High-Yield Exam Takeaway |
+|:------------------|:------------------|:-------------------------|:-------------------------|
+| ***Fawa'id-ul-Fu'ad*** (फ़वाइद-उल-फ़ुआद) | **Amir Hasan Sijzi** (the "Saadi of India") | Record of conversations and table-talks (*Malfuzat*) of **Hazrat Nizamuddin Auliya** | Pioneer of the *Malfuzat* genre; shows daily life, ethics, and teachings in Delhi Sultanate |
+| ***Amritakunda*** → ***Hauz al-Hayat*** (हौज़ अल-हयात) | Translated into Arabic/Persian by **Rukn-ud-din Samarqandi** | Sanskrit Yogic treatise on Hatha Yoga, breath control (*Pranayama*), and chakras | Proof of deep Yogic influence on Chishti Sufis; Nizamuddin Auliya praised yogic practices and was called *Siddha* (UPPCS 2018 Q90) |
+| ***Kashf-ul-Mahjub*** (कश्फ़-उल-महजूब) | **Ali Hujwiri** (*Data Ganj Bakhsh*, Lahore) | Earliest formal Persian treatise on Sufi doctrine, principles, and hagiography | Oldest Sufi text composed in the Indian subcontinent |
+| ***Siyar-ul-Auliya*** (सियर-उल-औलिया) | **Sayyid Muhammad Mubarak Kirmani (Mir Khwurd)** | Comprehensive biography and history of the Chishti saints of India | Standard authentic narrative for Chishti silsila genealogy |
+| ***Miraj-ul-Ashiqin*** (मेराज-उल-आशिक़ीन) | **Khwaja Gesudaraz Banda Nawaz** of Gulbarga | Mystical Islamic treatise on divine love and spiritual stations | Earliest known prose work in **Dakhani Urdu** |
+| ***Jawahir-i-Khamsa*** (जवाहिरे खम्सा) | **Shaikh Muhammad Ghaus of Gwalior** | Five Jewels of mystical practice, incantations, and esoteric sciences | Integrated Yogic mudras with Sufi meditation; used by Humayun |
+
+---
 
 ### Vedanta school ↔ founder
 
@@ -531,8 +551,8 @@ D. A false, R true
 - A **Shaikh** (शेख) is authorised to teach the path; **Sama** is the musical assembly. **Ulema** (उलेमा) are scholars of Islamic law — they are **not** a Sufi institution term.
 - **Ba-shara** Sufis follow Sharia and include the Chishti and Suhrawardi orders.
 - **Be-shara** Sufis are wandering qalandars and malangs who live outside strict law.
-- **Wahdat-ul-Wujud** (वहदत-उल-वुजूद -) (Ibn Arabi) teaches unity of existence, meaning God is everywhere.
-- **Wahdat-ul-Shuhud** (वहदत-उश-शुहूद -) (Ahmad Sirhindi) holds that God is separate from creation.
+- **Wahdat-ul-Wujud** (वहदत-उल-वुजूद) (Ibn Arabi) teaches unity of existence, meaning God is everywhere.
+- **Wahdat-ul-Shuhud** (वहदत-उश-शुहूद) (Ahmad Sirhindi) holds that God is separate from creation.
 - The **pir–murid** bond means the disciple owes loyalty and service, while the pir gives spiritual instruction and **wazifa** (meditation formula).
 - **Sama** is a musical devotional assembly and a **Chishti** hallmark; it involves dhikr, qawwali (क़व्वाली), and ecstasy.
 - **Ziyarat** means pilgrimage to a **dargah** (Sufi tomb) to seek the saint's **barakat** (spiritual grace).

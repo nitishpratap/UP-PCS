@@ -185,7 +185,7 @@ Nationalism did **not** appear fully formed in 1885. Hold this arc; every card b
 
 ### Hindu Mela (1867)
 
-- **Nabagopal Mitra (मित्र -)**, inspired by Rajnarayan Bose, founded **Hindu Mela** to promote autonomy and **indigenous goods**.
+- **Nabagopal Mitra (मित्र)**, inspired by Rajnarayan Bose, founded **Hindu Mela** to promote autonomy and **indigenous goods**.
 
 ### Central National Mohammadan Association (1877)
 
@@ -291,6 +291,61 @@ Nationalism did **not** appear fully formed in 1885. Hold this arc; every card b
 - Do not date it in the 1860s. It is **1885**.
 
 > **Logic:** Bombay Presidency Association **1885** ≠ East India Association **1866**.
+
+---
+
+### Master Table — Chronology of Pre-Congress Political Organisations (1836–1885)
+
+*(High-yield for chronological arrangement & match-the-column questions)*
+
+| Year | Organisation (संगठन) | Place | Key Founder(s) / Promoters | Core Objectives & Notes |
+|:----:|:---------------------|:------|:---------------------------|:------------------------|
+| **1836** | **Bangabhasha Prakasika Sabha** | Calcutta | Associates of Raja Ram Mohan Roy | Earliest body in Bengal for political discussion and reform |
+| **1838** | **Zamindari Association / Landholders' Society** | Calcutta | **Dwarkanath Tagore**, Radhakant Deb, Prasanna Kumar Tagore | **First organised political association** in India using constitutional agitation; guarded zamindar interests |
+| **1843** | **Bengal British India Society** | Calcutta | **George Thompson** & Dwarkanath Tagore | Collected and disseminated information on conditions of people in India |
+| **1851** | **British Indian Association** | Calcutta | **Radhakant Deb** (President), **Debendranath Tagore** (Secy) | Formed by amalgamation of Landholders' Society & Bengal British India Society; petitioned 1853 Charter Act |
+| **1852** | **Bombay Association** | Bombay | **Dadabhai Naoroji**, Jagannath Shankarsheth | First political organisation in Bombay Presidency; petitioned Parliament for representative government |
+| **1852** | **Madras Native Association** | Madras | **Gazulu Lakshminarasu Chetty** | First political organisation in Madras Presidency; petitioned against East India Company misrule |
+| **1866** | **East India Association** | **London** | **Dadabhai Naoroji** | Set up in London to lobby British public and Parliament on Indian welfare and Drain of Wealth |
+| **1867** | **National Indian Association** | London / Bristol | **Mary Carpenter** | Promoted social and educational ties between Britain and India |
+| **1870** | **Poona Sarvajanik Sabha** | Poona | **M.G. Ranade**, **G.V. Joshi (Sarvajanik Kaka)**, S.H. Chiplunkar | Premier public body of Maharashtra; petitioned House of Commons (1875) for direct Indian representation |
+| **1872** | **Indian Society** | London | **Ananda Mohan Bose** | Formed by Indian students in Britain to foster political unity |
+| **1875** | **Indian League** | Calcutta | **Sisir Kumar Ghosh**, Sambhu Charan Mukherjee | Aimed to stimulate nationalism among the middle class; published *Amrita Bazar Patrika* |
+| **1876** | **Indian Association** | Calcutta | **Surendranath Banerjee** & **Ananda Mohan Bose** | **Most important pre-Congress nationalist body**; agitated against ICS age limit reduction (1877) and Vernacular Press Act (1878) |
+| **1883** | **Indian National Conference** | Calcutta | **Surendranath Banerjee** & Ananda Mohan Bose | All-India precursor / dress rehearsal for Congress; held 2nd conference in Dec 1885 simultaneously with 1st INC |
+| **1884** | **Madras Mahajana Sabha** | Madras | **M. Viraraghavachariar**, **G. Subramania Iyer**, **P. Ananda Charlu** | Premier precursor organisation in South India; closely linked with *The Hindu* newspaper |
+| **1885** | **Bombay Presidency Association** | Bombay | **Pherozeshah Mehta**, **K.T. Telang**, **Badruddin Tyabji** | Founded in Jan 1885 by the "Bombay Triumvirate"; opposed Lytton's reactionary policies |
+
+---
+
+### Anti-Congress & Loyalist Organisations (विपक्ष एवं राजभक्त संगठन)
+
+*(Tested directly in UPPCS & Chhattisgarh PCS)*
+
+| Year | Organisation Name | Founders / Leaders | Core Objective / Platform |
+|:----:|:------------------|:-------------------|:--------------------------|
+| **1888** | **United Indian Patriotic Association** (संयुक्त भारतीय राजभक्त सभा) | **Sir Syed Ahmad Khan** & **Raja Shiv Prasad (Sitara-i-Hind)** of Banaras | Formed to **oppose the Indian National Congress**, dissuade Muslims and Hindu landlords from joining Congress, and rally support for the British Raj |
+| **1893** | **Muhammadan Anglo-Oriental Defence Association of Upper India** | **Sir Syed Ahmad Khan** & **Theodore Beck** (Principal of MAO College, Aligarh) | Formed to prevent Muslims from participating in national political agitation and to advocate separate Muslim political interests |
+
+---
+
+### Master Table — All 9 UP Sessions of the Indian National Congress (उत्तर प्रदेश में कांग्रेस के 9 अधिवेशन)
+
+*(High-frequency question in UPPCS Prelims & UP Special papers)*
+
+| # | Year | City / Venue | President (अध्यक्ष) | Historical Significance / Landmark Event |
+|:---:|:----:|:-------------|:--------------------|:-----------------------------------------|
+| **1** | **1888** | **Allahabad** (इलाहाबाद) | **George Yule** | **First British / Non-Indian President**; Lord Dufferin openly opposed session |
+| **2** | **1892** | **Allahabad** | **W.C. Bonnerjee** | Second presidency of W.C. Bonnerjee |
+| **3** | **1899** | **Lucknow** (लखनऊ) | **Romesh Chunder Dutt** (R.C. Dutt) | Famous economic historian (*Economic History of India*); demand for Permanent Settlement extension |
+| **4** | **1905** | **Banaras** (वाराणसी) | **Gopal Krishna Gokhale** | Formal protest against Partition of Bengal; support for **Swadeshi movement** |
+| **5** | **1910** | **Allahabad** | **Sir William Wedderburn** | Only British official to preside over two Congress sessions (1889 & 1910) |
+| **6** | **1916** | **Lucknow** | **Ambica Charan Majumdar** | **Historic Lucknow Pact** (INC & Muslim League agreement); **Reunion** of Moderates and Extremists |
+| **7** | **1925** | **Kanpur** (कानपुर) | **Sarojini Naidu** | **First Indian Woman President** of the Indian National Congress |
+| **8** | **1936** | **Lucknow** | **Jawaharlal Nehru** | Nehru declared **Socialism** as the goal of Congress; formation of All India Kisan Sabha |
+| **9** | **1946** | **Meerut** (मेरठ) | **J.B. Kripalani** | Last pre-independence session; Kripalani was President **at the time of Indian Independence** (15 Aug 1947) |
+
+---
 
 **PYQ — UPPCS Prelims 2024, Q15**
 

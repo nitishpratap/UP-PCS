@@ -381,7 +381,7 @@ D. Amir Khusrau
 
 ## 5.9 Akbarnama & Ain-i-Akbari (Abul Fazl)
 
-**Author:** Abul Fazl (1551–1602) | **Role:** Akbar's Navratna; chief ideologue of **sulh-i-kul** (सुलह-ए-कुल -)
+**Author:** Abul Fazl (1551–1602) | **Role:** Akbar's Navratna; chief ideologue of **sulh-i-kul** (सुलह-ए-कुल)
 
 | | Akbarnama | Ain-i-Akbari |
 |---|-----------|--------------|

@@ -760,6 +760,92 @@ The chronology to remember is: **IB (1887) → ED (1956) → CBI (1963) → RAW 
 
 ---
 
+## Zonal Councils, Law Commission & Important National Commissions
+
+### 1. Zonal Councils (क्षेत्रीय परिषदें)
+
+- **Genesis & Statute:** Zonal Councils are **Statutory bodies** (NOT constitutional bodies). They were established by an Act of Parliament: **Part III of the States Reorganisation Act, 1956**.
+- **Chairman:** The **Union Home Minister** is the common Chairman of all Zonal Councils.
+- **Vice-Chairman:** The **Chief Ministers** of the states included in each zone act as Vice-Chairman by rotation, holding office for **one year** at a time.
+- **Members:** Chief Minister and two other ministers nominated by the Governor from each state, plus the administrator of each UT in the zone.
+- **Nature of Function:** Purely **deliberative and advisory** bodies to promote inter-state cooperation and regional integration.
+
+#### The Five Zonal Councils & Headquarters Matrix
+
+| Zonal Council | Headquarters | Member States & Union Territories |
+| :--- | :--- | :--- |
+| **Northern Zonal Council** | **New Delhi** | Haryana, Himachal Pradesh, Punjab, Rajasthan, NCT of Delhi, UTs of J&K, Ladakh, and Chandigarh. |
+| **Central Zonal Council** (मध्य क्षेत्रीय परिषद) | **Prayagraj (Allahabad)** *(High-yield UP exam fact!)* | **Uttar Pradesh, Uttarakhand, Madhya Pradesh, Chhattisgarh**. |
+| **Eastern Zonal Council** | **Kolkata** | Bihar, Jharkhand, West Bengal, Odisha. |
+| **Western Zonal Council** | **Mumbai** | Gujarat, Maharashtra, Goa, UTs of Dadra & Nagar Haveli and Daman & Diu. |
+| **Southern Zonal Council** | **Chennai** | Andhra Pradesh, Telangana, Karnataka, Kerala, Tamil Nadu, UT of Puducherry. |
+
+> **North-Eastern Council (NEC):** Created by a separate Act — the **North-Eastern Council Act, 1971** (Headquarters: **Shillong**). It comprises 8 states: Assam, Arunachal Pradesh, Manipur, Meghalaya, Mizoram, Nagaland, Tripura, and **Sikkim** (added via 2002 amendment).
+
+---
+
+### 2. Law Commission of India (विधि आयोग)
+
+- **Status & Nature:** **Non-statutory, extra-constitutional executive advisory body** constituted periodically by the Government of India (Ministry of Law and Justice) for a fixed **three-year term**.
+- **Pre-Independence History:**
+  - **First Law Commission (1834):** Established under the **Charter Act of 1833**, chaired by **Lord Macaulay** (drafted the Indian Penal Code). Subsequent pre-independence commissions were set up in 1853, 1861, and 1879.
+- **Independent India:**
+  - **First Law Commission of Independent India (1955):** Chaired by **M.C. Setalvad** (India's first Attorney General, 1955–1958).
+  - **Function:** Review obsolete laws, advise on codification and law reform to implement DPSPs, and examine judicial reforms.
+  - **Recent Commissions:**
+    - **21st Law Commission (2015–2018):** Chaired by Justice **B.S. Chauhan** (Uniform Civil Code consultation paper).
+    - **22nd Law Commission (2020–2024):** Chaired by Justice **Ritu Raj Awasthi** (UCC, simultaneous elections, law of sedition).
+
+---
+
+### 3. National Commission to Review the Working of the Constitution (NCRWC / Venkatachaliah Commission)
+
+- **Date of Constitution:** **22 February 2000** by the NDA Government (PM Atal Bihari Vajpayee).
+- **Chairman:** Former Chief Justice of India **Justice M.N. Venkatachaliah** (11-member commission).
+- **Legal Status:** **Non-statutory, executive advisory body**. Its appointment was **NOT approved by Parliament** (created purely by executive resolution).
+- **Term & Report:** Submitted its final 2-volume report on **31 March 2002**.
+- **High-Yield Recommendations for Prelims:**
+  1. **Article 356 Safeguards:** Mandatory prior warning notice to the state; state legislative assembly should NOT be dissolved until Parliament ratifies the proclamation (codifying the *S.R. Bommai* judgment).
+  2. **Constructive Vote of No-Confidence:** Modelled on the German Basic Law; any no-confidence motion must concurrently name the alternative Prime Minister / Chief Minister.
+  3. **Fundamental Duties (Art 51A):** Recommended adding duties to vote in elections, actively pay taxes, foster family values, and educate children.
+  4. **Governor's Appointment:** Recommended appointment by a high-level committee comprising the Prime Minister, Union Home Minister, Lok Sabha Speaker, and the Chief Minister of the concerned state.
+  5. **Inter-State Council:** To be renamed as the **National Development and Inter-State Council**.
+
+---
+
+### 4. National Integration Council (NIC — राष्ट्रीय एकता परिषद)
+
+- **Establishment:** Set up in **1961** by Prime Minister **Jawaharlal Nehru** following the National Integration Conference; first meeting held in **1962**.
+- **Nature:** Non-constitutional, non-statutory **executive advisory body**.
+- **Chairman:** **Prime Minister of India**.
+- **Composition:** Union Ministers, Chief Ministers of all States and UTs, leaders of political parties, UGC chairperson, SC/ST commissioners, and eminent public figures.
+- **Mandate:** Address communalism, casteism, regionalism, and linguistic chauvinism.
+
+---
+
+### 5. Backward Classes Commissions & Mandal Commission
+
+- **Constitutional Basis:** **Article 340** empowers the President to appoint a commission to investigate the conditions of socially and educationally backward classes.
+- **First Backward Classes Commission (1953):** Chaired by **Kaka Kalelkar** (submitted report in 1955; identified 2,399 backward castes).
+- **Second Backward Classes Commission (1979):** Appointed by Morarji Desai's Janata Party government, chaired by **B.P. Mandal** (submitted report in December 1980):
+  - Identified 3,743 backward castes (~52% of population).
+  - Recommended **27% reservation** for OBCs in government employment and educational institutions.
+  - Implemented in **August 1990** by V.P. Singh (National Front) government.
+  - ***Indra Sawhney v. Union of India (1992)* (Mandal Case):** Supreme Court upheld 27% quota subject to exclusion of the "Creamy Layer" and a 50% cap on total reservations.
+- **National Commission for Backward Classes (NCBC):**
+  - **1993:** Initially created as a **statutory body** under the NCBC Act, 1993.
+  - **2018 (102nd Constitutional Amendment Act):** Granted **constitutional status** by inserting **Article 338B** (and Article 342A). Consists of 1 Chairperson, 1 Vice-Chairperson, and 3 Members appointed by the President.
+
+---
+
+### 6. Official Language Commission (राजभाषा आयोग)
+
+- **Constitutional Mandate:** **Article 344** mandates the President to constitute an Official Language Commission after 5 years from commencement of the Constitution, and thereafter at the end of 10 years.
+- **First Official Language Commission (1955):** Chaired by **B.G. Kher** (Kher Commission, submitted report in 1956).
+- **Parliamentary Committee on Official Language:** Under **Article 344(4)**, consists of **30 members** (20 from Lok Sabha, 10 from Rajya Sabha) elected by proportional representation. Chaired by the **Union Home Minister**.
+
+---
+
 ## Common Traps
 
 | Trap | Correct |
@@ -2891,7 +2977,7 @@ D. None of the above
 
 **Q62. MPPCS (Pre) 2019**
 
-Chairperson and Members of the State Human Rights Commission are appointed by.
+Chairperson and Members of the State Human Rights Commission are appointed by:
 
 A. Governor
 B. President
@@ -3179,7 +3265,7 @@ D. National Human Rights - 1993 Commission
 
 ### Law, review, vigilance and backward-class commissions
 
-**Q78. 67th BPSC (Pre) (Re- ), 2022**
+**Q78. 67th BPSC (Pre) (Re-Exam), 2022**
 
 Who was the Chairman of the First Law Commission in Independent India?
 

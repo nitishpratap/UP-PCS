@@ -814,12 +814,16 @@ A. Brazil
 B. South Africa
 C. Russia
 D. China
-**Ans: B — South Africa.UPPCS Prelims 2022, Q45** — WHO Global Traditional Medicine Centre will be at—
+**Ans: B — South Africa.**
+
+**UPPCS Prelims 2022, Q45** — WHO Global Traditional Medicine Centre will be at—
 A. Johannesburg
 B. Jaffna
 C. Haridwar
 D. Jamnagar
-**Ans: D — Jamnagar (Gujarat).UPPCS Prelims 2021, Q122** — G7 Summit June 2021: (1) UK was the Chair (2) Brazil was invited as a guest
+**Ans: D — Jamnagar (Gujarat).**
+
+**UPPCS Prelims 2021, Q122** — G7 Summit June 2021: (1) UK was the Chair (2) Brazil was invited as a guest
 A. Only 1
 B. Only 2
 C. Both

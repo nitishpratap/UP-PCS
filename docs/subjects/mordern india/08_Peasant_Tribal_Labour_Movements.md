@@ -586,7 +586,7 @@ D. Pt. Jawaharlal Nehru
 
 - The **Hindu Patriot** under **Harish Chandra Mukherjee** publicised planter crimes; missionaries also wrote against the system.
 
-- **Dinabandhu Mitra (मित्र -)** wrote the play ***Nil Darpan*** (1860) dramatising the ryots' suffering.
+- **Dinabandhu Mitra (मित्र)** wrote the play ***Nil Darpan*** (1860) dramatising the ryots' suffering.
 
 - **Rev. James Long** was fined and jailed for publishing the English translation of the play.
 

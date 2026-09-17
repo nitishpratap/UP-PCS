@@ -130,13 +130,61 @@ Namami Gange (नमामि गंगे) and GAP are Ganga cleaning programme
 | Pandoh | **Beas** (ब्यास) (≠ Ravi) |
 | Srisailam | **Krishna** (कृष्णा) (≠ Tungabhadra) |
 
-### Name locks
+### Master Table — Panch Prayag of Uttarakhand (पंच प्रयाग)
 
-| Item | Lock |
-|------|------|
-| Ganga named at | **Devprayag** (Alaknanda + Bhagirathi) |
-| Punjab five (E→W teaching) | Sutlej–Beas–Ravi–Chenab–Jhelum spine |
-| Trans-Himalayan | Rise north of Great Himalaya (e.g. Sutlej, Indus, Brahmaputra) |
+*(Tested heavily in match-the-pair: UPPCS 2023 Q50, UKPCS)*
+
+| Prayag (प्रयाग) | Headstream 1 | Headstream 2 (Tributary) | District / Location | Key Shrine / Geographical Landmark |
+|:----------------|:-------------|:-------------------------|:--------------------|:-----------------------------------|
+| **1. Vishnuprayag** (विष्णुप्रयाग) | **Alaknanda** (अलकनंदा) | **Dhauliganga** (धौलीगंगा - Western) | Chamoli, Uttarakhand | Nearest prayag to Badrinath & Joshimath; origin from Satopanth glacier |
+| **2. Nandaprayag** (नंदप्रयाग) | **Alaknanda** | **Nandakini** (नंदाकिनी) | Chamoli, Uttarakhand | Confluence named after King Nanda; Nandakini rises from Nanda Ghunti |
+| **3. Karnaprayag** (कर्णप्रयाग) | **Alaknanda** | **Pindar** (पिंडर) | Chamoli, Uttarakhand | Pindar rises from Pindari glacier (Kumaon/Garhwal border) |
+| **4. Rudraprayag** (रुद्रप्रयाग) | **Alaknanda** | **Mandakini** (मंदाकिनी / Kali Ganga) | Rudraprayag, Uttarakhand | Mandakini flows down from **Kedarnath** (Chorabari glacier) |
+| **5. Devprayag** (देवप्रयाग) | **Alaknanda** | **Bhagirathi** (भागीरथी) | Tehri Garhwal, Uttarakhand | **The river is officially named GANGA (गंगा) from this confluence onward**; Bhagirathi rises from Gaumukh (Gangotri glacier) |
+
+---
+
+### Master Table — Tributaries of Major Indian River Systems (बाएँ एवं दाएँ तट की सहायक नदियाँ)
+
+*(High-yield for list-matching and tributary identification questions)*
+
+| River System | Origin (उद्गम) | Left-Bank Tributaries (बायाँ तट) | Right-Bank Tributaries (दायाँ तट) | Drainage Mouth / Key Notes |
+|:-------------|:---------------|:---------------------------------|:----------------------------------|:---------------------------|
+| **Ganga** (2,525 km) | Devprayag (Bhagirathi + Alaknanda) | • **Ramganga** (meets at Kannauj)<br>• **Gomti** (origin Gomat Taal/Phulhar Jheel, Pilibhit; meets near Saidpur)<br>• **Ghaghara / Saryu** (meets at Chhapra)<br>• **Gandak** (meets at Sonpur)<br>• **Burhi Gandak**<br>• **Kosi** ("Sorrow of Bihar"; meets at Kursela)<br>• **Mahananda** (easternmost left tributary) | • **Yamuna** (largest tributary; meets at Prayagraj Sangam)<br>• **Tamas / Tons** (meets near Sirsa)<br>• **Son** (radial from Amarkantak; meets at Patna/Danapur)<br>• **Punpun** (meets at Fatuha) | Enters Bangladesh as **Padma**; combines with **Jamuna** (Brahmaputra) and **Meghna** to form Sundarbans delta |
+| **Yamuna** (1,376 km) | Yamunotri Glacier (Bandarpunch) | • Tons (largest Himalayan tributary)<br>• Hindon (meets near Noida/Greater Noida)<br>• Rind, Sasur Khaderi | • **Chambal** (meets near Muradganj/Etawah)<br>• **Sindh** (meets in Jalaun)<br>• **Betwa** (meets at Hamirpur)<br>• **Ken** (meets at Chilla, Banda) | Parallel to Ganga; forms fertile Ganga-Yamuna Doab |
+| **Indus** (Sindhu, 2,880 km) | Bokhar Chu (near Lake Mansarovar, Tibet) | • **Zanskar**<br>• Suru, Soan<br>• **Panjnad** (combined flow of Jhelum, Chenab, Ravi, Beas, Sutlej) | • **Shyok** (with Nubra)<br>• **Gilgit**<br>• Hunza<br>• **Kabul** (with Swat)<br>• Kurram, Gomal | Trans-Himalayan; enters Arabian Sea south of Karachi |
+| **Brahmaputra** (2,900 km) | Angsi / Chemayungdung Glacier (Tibet as *Yarlung Tsangpo*) | • **Lohit**<br>• **Dibang** (Sikang)<br>• **Burhi Dihing**<br>• **Dhansiri** (South)<br>• Kopili | • **Subansiri** (gold-bearing; largest tributary)<br>• Kameng (Jia Bhoreli)<br>• **Manas**<br>• Sankosh<br>• **Teesta** (captured from Ganga system in 1787 flood) | Syntaxial U-turn at Namcha Barwa; world's largest river island **Majuli** (Assam) |
+| **Godavari** (1,465 km)<br>*"Dakshin Ganga" / "Vriddha Ganga"* | Trimbakeshwar (Nashik, Maharashtra) | • **Dharna**<br>• **Penganga**<br>• **Wainganga**<br>• **Wardha** (combined: **Pranhita**)<br>• **Indravati** (Chitrakote Falls)<br>• **Sabari** & Sileru | • **Pravara**<br>• Mula<br>• **Manjra / Manjira** (longest right-bank tributary, flows through Nizamabad)<br>• Maner | **Largest Peninsular river basin**; forms lobate delta in Andhra Pradesh |
+| **Krishna** (1,400 km) | Near Mahabaleshwar (Western Ghats, Maharashtra) | • **Bhima** (longest tributary, 861 km)<br>• Dindi<br>• Peddavagu<br>• **Musi** (Hyderabad sits on its banks)<br>• Paleru, Munneru | • **Venna**<br>• **Koyna** (Shivsagar reservoir)<br>• Panchganga<br>• Dudhganga<br>• **Ghataprabha** (Gokak falls)<br>• **Malaprabha**<br>• **Tungabhadra** (Tunga + Bhadra; largest basin tributary) | Second largest east-flowing peninsular river; major dams: Almatti, Srisailam, Nagarjuna Sagar |
+| **Cauvery / Kaveri** (800 km)<br>*"Ganga of the South"* | Talakaveri, Brahmagiri Range (Kodagu, Karnataka) | • **Harangi**<br>• **Hemavati**<br>• **Shimsha**<br>• **Arkavathi** | • **Lakshmantirtha**<br>• **Kabini**<br>• Suvarnavathi<br>• **Bhavani**<br>• **Noyyal**<br>• **Amaravati** | Perennial due to dual monsoons (SW monsoon in upper basin + NE monsoon in lower basin); islands: Srirangapatna, Shivanasamudra, Srirangam |
+| **Mahanadi** (851 km) | Sihawa highlands (Dhamtari, Chhattisgarh) | • **Seonath** (longest tributary, 383 km)<br>• **Hasdeo**<br>• **Mand**<br>• **Ib** | • **Jonk** (UPPCS repeated trap: Jonk joins Mahanadi, NOT Ganga!)<br>• **Ong**<br>• **Tel** | Hirakud Dam (longest earthen dam); drains Chhattisgarh and Odisha into Bay of Bengal |
+| **Narmada** (1,312 km) | Amarkantak Plateau (Anuppur, MP) | • **Sher**<br>• **Shakkar**<br>• **Dudhi**<br>• **Tawa** (longest tributary)<br>• Ganjal, Kundi | • **Hiran**<br>• Barna<br>• Choral<br>• Man, Uri, Orsang | Flows through **rift valley** between Vindhyas (north) & Satpuras (south); Dhuandhar falls; Sardar Sarovar Dam; forms **estuary** (no delta) |
+| **Tapi / Tapti** (724 km) | Multai (Betul district, Satpura Range, MP) | • **Purna** (main tributary; drains Vidarbha)<br>• **Girna**<br>• Panjhra<br>• Bori, Waghur | • Suki<br>• Gomai<br>• Arunavati | Parallel rift valley south of Satpuras; Ukai & Kakrapar dams; forms estuary at Surat |
+
+---
+
+### Master Table — Major Mountain Passes of India (भारत के प्रमुख पर्वतीय दर्रे)
+
+*(High-frequency match-the-pair: Pass ↔ State / Mountain Range)*
+
+| Pass Name (दर्रा) | State / Union Territory | Mountain Range | Strategic / Historical Connection |
+|:------------------|:------------------------|:---------------|:----------------------------------|
+| **Zoji La** (ज़ोजिला) | Ladakh (UT) | Great Himalayas | Connects **Srinagar to Leh**; Zojila Tunnel under construction |
+| **Karakoram Pass** | Ladakh (UT) | Karakoram Range | Highest pass in India (~5,540 m); ancient silk route to Tarim Basin / Yarkand |
+| **Bara-lacha La** (बारालाचा) | Himachal Pradesh | Zanskar Range | Connects **Mandi/Manali to Leh**; source of Bhaga river (Chenab) |
+| **Shipki La** (शिपकी ला) | Himachal Pradesh | Zanskar Range | **Sutlej river enters India from Tibet** through this gorge; India-China border trade post |
+| **Rohtang Pass** (रोहतांग) | Himachal Pradesh | Pir Panjal Range | Connects Kullu Valley with Lahaul and Spiti; bypassed by **Atal Tunnel** (9.02 km) |
+| **Mana Pass** (माना दर्रा) / *Dungri-La* | Uttarakhand | Greater Himalayas | Located in Nanda Devi Biosphere; connects Uttarakhand with Tibet; near Badrinath |
+| **Niti Pass** (नीति दर्रा) | Uttarakhand | Greater Himalayas | Ancient trade route between Uttarakhand (Chamoli) and Tibet |
+| **Lipulekh Pass** (लिपुलेख) | Uttarakhand (Pithoragarh) | Kumaon Himalayas | **Tri-junction of India, Nepal, and Tibet**; pilgrimage route for **Kailash-Mansarovar Yatra** |
+| **Nathu La** (नाथुला) | Sikkim | Dongkya Range | Ancient Silk Route to Lhasa (Chumbi Valley, Tibet); reopened for border trade in 2006 |
+| **Jelep La** (जेलेप ला) | Sikkim | Greater Himalayas | Passes through Chumbi Valley connecting Sikkim/Kalimpong with Lhasa (Tibet) |
+| **Bomdi La** (बोमडिला) | Arunachal Pradesh | Greater Himalayas | Connects Arunachal Pradesh (Tawang) with Lhasa (Tibet) |
+| **Diphu Pass** (दिफू दर्रा) | Arunachal Pradesh | Mishmi Hills | Tri-junction border of India, China, and Myanmar |
+| **Thal Ghat** (थाल घाट) / *Kasara Ghat* | Maharashtra | Western Ghats (Sahyadri) | Links **Mumbai to Nashik & Kolkata** (NH-3 & Central Railway) |
+| **Bhor Ghat** (भोर घाट) | Maharashtra | Western Ghats (Sahyadri) | Links **Mumbai to Pune & Chennai** (Mumbai-Pune Expressway & rail line) |
+| **Palghat Gap** (पालघाट) | Kerala & Tamil Nadu | Between Nilgiris & Anaimalai | Major gap connecting **Palakkad (Kerala) with Coimbatore (Tamil Nadu)** |
+| **Shencottah Gap** (शेनकोट्टा) | Kerala & Tamil Nadu | Between Cardamom & Agasthyamalai | Connects **Kollam (Kerala) with Madurai (Tamil Nadu)** |
 
 ---
 

@@ -742,19 +742,25 @@ Two 1956 statutes (do not merge):
 
 **How a tribunal is born (1956 Act as in force):** State complains → Centre **negotiates** → if no settlement, Centre **must** constitute a tribunal (time-bound after the 2002 amendment: generally within a **year** of the complaint). Award: **3 years**, extendable **2 years**. After **2002**, the decision, once published in the Gazette, has the **same force as an SC order**. Parties may seek **explanation/guidance** from the same tribunal.
 
-**2019 Amendment Bill** (permanent tribunal + Disputes Resolution Committee + 2+1 years): passed **Lok Sabha only**, **lapsed** — **not law**. Trap: “India now has a single permanent water tribunal.” **False.Name-fact tribunals**
+**2019 Amendment Bill** (permanent tribunal + Disputes Resolution Committee + 2+1 years): passed **Lok Sabha only**, **lapsed** — **not law**. Trap: “India now has a single permanent water tribunal.” **False**. Ad-hoc tribunals are still constituted per dispute under the 1956 Act.
 
-- **Krishna (कृष्णा):** MH, KA, AP/Telangana.
-- **Godavari (गोदावरी):** MH, AP/Telangana, Odisha, KA, MP/Chhattisgarh.
-- **Narmada (नर्मदा):** MP, Gujarat, Maharashtra, Rajasthan.
-- **Cauvery:** KA, TN, Kerala, Puducherry — CWDT → SC **2018** modified; **CWMA** implements.
-- **Ravi (रावी)–Beas (ब्यास):** Punjab, Haryana, Rajasthan.
-- **Mahadayi:** Goa, KA, MH.
-- **Mahanadi (महानदी):** Odisha, Chhattisgarh.
+### Master Table — Inter-State River Water Disputes Tribunals (1956 Act)
 
-**UP angle:** Yamuna (यमुना) sharing is handled through the **Upper Yamuna River Board** (UP, Uttarakhand, HP, Haryana, Delhi, Rajasthan) — a **board**, not a famous 262 tribunal. Ganga (गंगा) is not a classic PCS tribunal name the way **Cauvery / Narmada / Krishna** are.
+| No. | Tribunal Name (अधिकरण) | Year Set Up | Riparian States Involved (संबंधित राज्य) | Key Chairman / Status |
+|:---:|:-----------------------|:-----------:|:-----------------------------------------|:----------------------|
+| **1** | **Krishna Water Disputes Tribunal-I** | **1969** | Maharashtra, Karnataka, Andhra Pradesh | Justice **R.S. Bachawat**; Award in 1973/1976 |
+| **2** | **Godavari Water Disputes Tribunal** | **1969** | Maharashtra, Andhra Pradesh, Karnataka, Madhya Pradesh, Odisha | Justice **R.S. Bachawat**; Final Award in 1980 |
+| **3** | **Narmada Water Disputes Tribunal** | **1969** | Gujarat, Madhya Pradesh, Maharashtra, Rajasthan | Justice **V. Ramaswami**; Sardar Sarovar allocations (1979) |
+| **4** | **Ravi & Beas Waters Tribunal** | **1986** | Punjab, Haryana, Rajasthan | Justice **V. Balakrishna Eradi**; Eradi Tribunal (SYL canal dispute) |
+| **5** | **Cauvery Water Disputes Tribunal** | **1990** | Tamil Nadu, Karnataka, Kerala, Puducherry | Justice **Chittatosh Mookerjee**; Final award 2007; SC modified 2018 (CWMA/CWRC formed) |
+| **6** | **Krishna Water Disputes Tribunal-II**| **2004** | Maharashtra, Karnataka, Andhra Pradesh, Telangana | Justice **Brijesh Kumar**; Report 2010 (sub judice / Telangana re-reference) |
+| **7** | **Vansadhara Water Disputes Tribunal** | **2010** | Andhra Pradesh & Odisha | Justice **Mukundakam Sharma**; Final report 2017/2019 (Katragadda / Neradi barrage) |
+| **8** | **Mahadayi (Mandovi) Water Tribunal** | **2010** | Goa, Karnataka, Maharashtra | Justice **J.M. Panchal**; Award 2018 (Kalasa-Banduri project) |
+| **9** | **Mahanadi Water Disputes Tribunal** | **2018** | Chhattisgarh & Odisha | Justice **A.M. Khanwilkar**; constituted March 2018 (ongoing) |
 
-> **Logic:** “SC has original jurisdiction over river-water disputes” = **false**. **262 + 1956 Act** shut **131**. SC can still hear **implementation / constitutional** after an award (Cauvery 2018) — that is **not** 131-as-tribunal.
+**UP angle:** Yamuna (यमुना) sharing is handled through the **Upper Yamuna River Board** (UP, Uttarakhand, HP, Haryana, Delhi, Rajasthan) — a **statutory board**, not a 262 tribunal. Ganga (गंगा) is regulated through NMCG / National Ganga Council.
+
+> **Logic:** “SC has original jurisdiction over river-water disputes” = **false**. Under **Article 262(2)** and **Section 11 of the 1956 Act**, the Supreme Court’s **Article 131 original jurisdiction is completely barred**. SC can only intervene via **Article 136 (Special Leave Petition)** on substantial questions of law or basic human right to water, NOT as an original dispute arbiter.
 
 ---
 

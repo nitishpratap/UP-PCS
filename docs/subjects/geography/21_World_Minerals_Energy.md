@@ -917,7 +917,7 @@ Nuclear energy and geothermal energy are **not** stored solar. Wind and biomass 
 **Uranium / thorium**
 
 - Uranium mines: **Kazakhstan**, Canada Athabasca, Australia.
-- Olympic Dam (दाम -) (Australia) is U + Cu + Au.
+- Olympic Dam (ओलंपिक डैम, Australia) is U + Cu + Au.
 - Thorium / monazite sands: India (Kerala–TN), Brazil, Australia.
 - Postmasburg is **not** uranium.
 

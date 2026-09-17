@@ -1090,7 +1090,7 @@ A Cantonment Board is created under the **Ministry of Defence / Cantonments Act*
 | After 74th | Many converted to Nagar Panchayat | Mostly **abolished** / converted | The constitutional replacement |
 
 ### Parallel bodies (why the elected ULB often looks weak)
-- A **Township** — such as a PSU, steel-plant, or dam (दाम -) township — has a company providing municipal-type services, and the **243Q exception** may apply to it.
+- A **Township** — such as a PSU, steel-plant, or dam (बांध) township — has a company providing municipal-type services, and the **243Q exception** may apply to it.
 - A **Port (बंदरगाह) Trust** administers a major port and is a Union-level body.
 - A **Development Authority**, such as the **Lucknow Development Authority (LDA)** or MDA, handles the master plan, land, and housing, but is **not an elected** body.
 - Special-purpose **housing, water, or sewerage boards** often **bypass** the municipality entirely for that particular 12th Schedule function.
@@ -2004,7 +2004,7 @@ D. 3 only
 
 **Q30. CGPCS (Pre) 2024**
 
-Article 243(J) of the Indian Constitution is related to.
+Article 243(J) of the Indian Constitution is related to:
 
 A. Constitution of Finance commission to review financial position
 B. Audit of Accounts of Panchayats

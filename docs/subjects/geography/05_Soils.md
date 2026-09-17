@@ -740,7 +740,7 @@ D. Black soil is found in Himalayan region
 | Cover crop / mulch | Protect surface | All farms |
 | Crop rotation / mixed cropping | Fertility + cover | Farm systems |
 | Zero / reduced tillage + residue | Moisture conserve; less soil disturb | Rainfed / intensive farms |
-| Check dam (दाम -) / gully plug | Trap silt and water | Gullies / Chambal ravines |
+| Check dam (बांध) / gully plug | Trap silt and water | Gullies / Chambal ravines |
 | Afforestation | Long-term watershed cover | Hills and ravines |
 | Regulated grazing | Keep surface cover | Pastures |
 | Gypsum / lime | Chemical reclaim | Alkaline / acid |
@@ -813,7 +813,7 @@ D. Hoshangabad, Madhya Pradesh
 - **Kabar** hardens into blocks when dry.
 - **Rakar** is leaching-prone on slopes.
 | **Bhonta / Monta** | Vindhyan red–yellow | Plateau fringe | Mirzapur–Sonbhadra–Prayagraj |
-| Reh / Usar / Kallar / Thur / Banjar (बंजर -) | Saline–alkaline | Canal tracts | Aligarh (अलीगढ़), Mainpuri, Etawah, Kanpur (कानपुर), Unnao, Raebareli, Lucknow (लखनऊ) belt |
+| Reh / Usar / Kallar / Thur / Banjar (बंजर) | Saline–alkaline | Canal tracts | Aligarh (अलीगढ़), Mainpuri, Etawah, Kanpur (कानपुर), Unnao, Raebareli, Lucknow (लखनऊ) belt |
 | Bhur | Sandy ridges | Upper Ganga–Yamuna Doab | Western plain |
 | Jalodh / Cop | Alluvial local names | Plains | — |
 | Problem | Hotspot | Fix |

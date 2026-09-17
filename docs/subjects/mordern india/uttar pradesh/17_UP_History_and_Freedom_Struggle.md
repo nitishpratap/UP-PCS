@@ -8,9 +8,9 @@
 ## Consolidated — 20 Must-Score Facts (UP History)
 
 1. **8 Mahajanapadas in UP:** Exactly **8 out of the 16 Mahajanapadas** were located within modern Uttar Pradesh: **Kashi (काशी), Kosala (कोसल), Vatsa (वत्स), Malla, Chedi, Shurasena, Kuru, and Panchala (पांचाल)**.
-2. **Sarnath (सारनाथ) (Isipatana):** Lord Buddha (बुद्ध) delivered his **First Sermon** (धर्मचक्रप्रवर्तन -) (*Dhammachakkappavattana*) to the five ascetics (*Pancha-vaggiya*) at Deer Park, Sarnath near Varanasi (वाराणसी).
+2. **Sarnath (सारनाथ) (Isipatana):** Lord Buddha (बुद्ध) delivered his **First Sermon** (धर्मचक्रप्रवर्तन) (*Dhammachakkappavattana*) to the five ascetics (*Pancha-vaggiya*) at Deer Park, Sarnath near Varanasi (वाराणसी).
 3. **Shravasti (Jetavana):** Lord Buddha spent the **maximum number of rainy retreats / Varshavas (25 seasons)** and delivered the greatest number of sermons at Shravasti, capital of Kosala.
-4. **Kushinagar (कुशीनगर) (Kusinara):** Lord Buddha attained **Mahaparinirvana** (महापरिनिर्वाण -) at the age of 80 in 483 BCE (निर्वाण) on the banks of the Hiranyavati river in the Malla republic; cremated at Ramabhar Stupa (स्तूप).
+4. **Kushinagar (कुशीनगर) (Kusinara):** Lord Buddha attained **Mahaparinirvana** (महापरिनिर्वाण) at the age of 80 in 483 BCE (निर्वाण) on the banks of the Hiranyavati river in the Malla republic; cremated at Ramabhar Stupa (स्तूप).
 5. **Prayag (प्रयाग) Prashasti (Allahabad (इलाहाबाद) Pillar (इलाहाबाद स्तंभ)):** Composed in Sanskrit *Champu* style by court poet **Harishena**; inscribed on an Ashokan pillar recording the military conquests (*Digvijaya*) of **Samudragupta** (समुद्रगुप्त).
 6. **Sohgaura (सोहगौरा) Copper Plate (Gorakhpur (गोरखपुर)):** Pre-Ashokan Mauryan Prakrit (प्राकृत) inscription in Brahmi (ब्राह्मी) script (लिपि); oldest epigraphic record in India mentioning state grain storehouses for **famine relief**.
 7. **Bhitari Pillar Inscription (Ghazipur):** Records the military triumphs of Gupta (गुप्त) emperor **Skandagupta** (स्कंदगुप्त), particularly his decisive repulse of the invading **Hunas**.

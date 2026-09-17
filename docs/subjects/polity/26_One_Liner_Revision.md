@@ -34,7 +34,7 @@ Articles | Parts | Schedules | Constitutional Bodies | Statutory Bodies | Import
 | Year | Fact |
 |------|------|
 | 2024 | NCBC (राष्ट्रीय पिछड़ा वर्ग आयोग) matched to **340** as the paper’s “least-wrong” — still learn **338B** vs **340** |
-| 2024 | UPSC (संघ लोक सेवा आयोग) functions = **four (चातुर्याम) sources**; Zero Hour (शून्य काल -) already locked 2021 |
+| 2024 | UPSC (संघ लोक सेवा आयोग) functions = **four (चातुर्याम) sources**; Zero Hour (शून्य काल) already locked 2021 |
 | 2023 | Panchayat polls = **SEC**, not ECI, not a “PR Commission of India” |
 | 2023 | CEC Act panel **without CJI** |
 | 2021 | ISC = **Sarkaria** (सरकारिया आयोग); UPPSC (उत्तर प्रदेश लोक सेवा आयोग) extend = **Legislature** |
@@ -1799,7 +1799,7 @@ Judges: 1981 executive → 1993 CJI+2 → 1998 CJI+4 → 2015 NJAC dead.
 | Term | One-liner |
 |------|-----------|
 | **Question Hour** (प्रश्न काल) | **First hour**. Starred = oral + supplementary. Unstarred = written |
-| **Zero Hour** (शून्य काल -) | **Immediately after** Question Hour. Indian innovation **1962**. No voting (2021) |
+| **Zero Hour** (शून्य काल) | **Immediately after** Question Hour. Indian innovation **1962**. No voting (2021) |
 | **Calling Attention** | Indian innovation. Minister states; no voting. Both Houses |
 | **Adjournment (स्थगन) Motion** (स्थगन प्रस्ताव) | **Lok Sabha only** (Rajya Sabha has no such motion). To drop listed business and discuss a **definite, factual, urgent** public matter. Needs **50 members** to admit. Implies **censure** of the government. Not admitted if the matter is sub judice |
 | **Censure Motion** | **Lok Sabha only**. **Must state reasons.** May target **one minister**, a group, or the whole Council. If passed, resignation is not automatic in theory — unlike no-confidence — but it is politically fatal |

@@ -47,7 +47,7 @@ Partition of Bengal | Swadeshi Movement | Delhi Durbar | Revolutionary Organisat
 28. **Komagata Maru (1914)** sits in the Ghadar-era overseas chain between Ghadar founding and wartime plots.
 29. The Hardinge bomb (**1912**) hit a Viceroy (वायसराय)’s Delhi procession. The Assembly bomb (**1929**) was a Central Assembly protest — different year, different aim.
 30. UP Focus: Kakori is the Lucknow-belt treasury action of **HRA**; fact Bismil’s birth and hanging places separately.
-31. **Mitra (मित्र -) Mela (1899)** became **Abhinav Bharat (1904)** under **V.D. Savarkar** (Maharashtra; London branch **1906**).
+31. **Mitra (मित्र) Mela (1899)** became **Abhinav Bharat (1904)** under **V.D. Savarkar** (Maharashtra; London branch **1906**).
 32. **Barrah Dacoity (1908, East Bengal)** was led by **Pulin Behari Das** (Dhaka Anushilan).
 33. **Bagha Jatin (Jatindranath Mukherjee)** led the wartime **Yugantar** reorganisation; **Sachindra Nath Sanyal** opened an Anushilan branch at **Patna (पटना) (1913)**.
 - **Sachindra Nath Sanyal's book *Bandi Jeevan*** served as the **"Bible of the Revolutionaries"**, inspiring a generation of youth across North India to join HRA.

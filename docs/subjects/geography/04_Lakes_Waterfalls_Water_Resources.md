@@ -592,10 +592,43 @@ D. Kevti fall
 | **Indira Sagar** (Narmada Sagar) | **Narmada** | Near **Punasa / Khandwa**, MP | Largest reservoir **by volume**; ~1.23 lakh ha + ~**1000 MW** target; **Harsud** town submerged (**2004**) |
 | **Nagarjuna Sagar** | **Krishna** | AP–TS border; completed **1967** | Multipurpose; Nalgonda–Khammam–Guntur–Prakasam belt; height ~**125 m** |
 | **Tehri** | **Bhagirathi** (+ **Bhilangana** confluence at old Tehri) | Uttarakhand; **rock-fill**; THDC | India’s **tallest** dam (~**260.5 m**); cleared **1972**, work from **1978**; seismic / displacement protest |
-| **Tulbul** | **Jhelum** (झेलम) at **Wular** | J&K | Navigation/storage; IWT sensitivity; ≠ Baglihar (Chenab) |
-| **Ramganga** (रामगंगा) (Kalagarh) | Ramganga | **Garhwal (UK)**; command in UP | Length **825.8 m**; power **198 MW**; irrig **~5.75–5.90 lakh ha ≠ 6** |
+### Master Table — Major Dams & Multipurpose Projects in India (भारत के प्रमुख बांध एवं बहुउद्देशीय परियोजनाएं)
 
-> **Logic:** ** Ramganga peculiarities — length 825.8 m, 198 MW, Garhwal are correct. **Irrigated area – 6 lakh hectares** is the wrong pair.
+*(High-yield for match-the-column with Rivers, States, and Specific Features)*
+
+| Project / Dam (बांध / परियोजना) | River (नदी) | State / Union Territory | Key Characteristics & Exam Notes |
+|:--------------------------------|:------------|:------------------------|:---------------------------------|
+| **Tehri Dam** (टिहरी बांध) | **Bhagirathi** (+ Bhilangana confluence) | Uttarakhand | **Tallest dam in India** (260.5 m); rock-fill earth dam; THDC |
+| **Bhakra-Nangal** (भाखड़ा नांगल) | **Sutlej** | Himachal Pradesh & Punjab | **Highest concrete straight gravity dam** (226 m); reservoir: **Gobind Sagar**; joint venture of PB, HR, RJ |
+| **Hirakud Dam** (हीराकुंड बांध) | **Mahanadi** | Odisha (Sambalpur) | **Longest earthen dam in the world** (main dam 4.8 km; total length with dykes 25.8 km); Gandhi Minar & Nehru Minar |
+| **Sardar Sarovar Dam** | **Narmada** | Gujarat (Navagam, Kevadia) | Height 163 m; benefits Gujarat, Rajasthan, Maharashtra, MP; Statue of Unity downstream; **Narmada Bachao Andolan** (Medha Patkar) |
+| **Indira Sagar Dam** (Narmada Sagar)| **Narmada** | Madhya Pradesh (Khandwa) | **Largest water reservoir in India by storage volume** (12.22 BCM); submerged Harsud town |
+| **Nagarjuna Sagar Dam** | **Krishna** | Andhra Pradesh & Telangana | World's largest masonry dam; built 1955–1967; named after Buddhist scholar Acharya Nagarjuna |
+| **Srisailam Dam** | **Krishna** | Andhra Pradesh & Telangana | Second largest capacity working hydroelectric station; located in deep gorge of Nallamala hills |
+| **Almatti Dam** (Lal Bahadur Shastri) | **Krishna** | Karnataka (Bijapur) | Main reservoir of Upper Krishna Irrigation Project |
+| **Pandoh Dam** (पंडोह बांध) | **Beas** | Himachal Pradesh (Mandi) | Diverts Beas waters into Sutlej via Beas-Sutlej Link for power at Dehar |
+| **Pong Dam** (Maharana Pratap Sagar) | **Beas** | Himachal Pradesh (Kangra) | Earth-fill embankment dam; wetland Ramsar site |
+| **Baglihar Dam** (बगलीहार) | **Chenab** | Jammu & Kashmir (Ramban) | Run-of-the-river project; cleared after neutral expert Raymond Lafitte adjudication under Indus Waters Treaty |
+| **Salal Dam** (सलाल बांध) | **Chenab** | Jammu & Kashmir (Reasi) | Run-of-the-river hydroelectric project on Chenab rock pedestal |
+| **Dulhasti Dam** (दुलहस्ती) | **Chenab** | Jammu & Kashmir (Kishtwar) | Run-of-the-river power project on Chandra/Chenab river |
+| **Pakal Dul & Ratle** | **Chenab** & Marusudar | Jammu & Kashmir (Kishtwar) | Major new hydropower projects under execution |
+| **Uri Dam (Uri-I & II)** | **Jhelum** | Jammu & Kashmir (Baramulla) | Near LoC; run-of-the-river hydro plant |
+| **Tulbul Navigation Project** | **Jhelum** (Wular Lake outlet) | Jammu & Kashmir | Navigation barrage contested by Pakistan; suspended since 1987 |
+| **Rihand Dam** (Govind Ballabh Pant) | **Rihand** (tributary of Son) | Uttar Pradesh (Pipri, Sonbhadra)| **Largest man-made artificial lake by area in India**; power source for Renukoot aluminium plant |
+| **Matatila Dam** (माताटीला बांध) | **Betwa** | Uttar Pradesh (Lalitpur) | Multipurpose dam; joint project with MP |
+| **Rajghat Dam** (Rani Laxmibai) | **Betwa** | UP & MP border (Lalitpur/Chanderi)| Inter-state multipurpose project on Betwa |
+| **Parichha Dam** (परीछा बांध) | **Betwa** | Uttar Pradesh (Jhansi) | Thermal power station water supply & canal irrigation |
+| **Chambal Project** (4-stage cascade)| **Chambal** | MP & Rajasthan | 1. **Gandhi Sagar** (Mandsaur, MP)<br>2. **Rana Pratap Sagar** (Rawatbhata, RJ)<br>3. **Jawahar Sagar** (Kota, RJ)<br>4. **Kota Barrage** (irrigation canals) |
+| **Idukki Dam** (इडुक्की बांध) | **Periyar** | Kerala | Concrete **double-curvature arch dam** between Kuravan & Kurathi hills; underground power house at Moolamattom |
+| **Mullaperiyar Dam** | **Periyar** | Kerala (leased to Tamil Nadu)| Masonry gravity dam built 1895 by British engineer John Pennycuick; administered by TN |
+| **Mettur Dam** (Stanley Reservoir)| **Cauvery** | Tamil Nadu (Salem) | Built 1934; chief irrigation reservoir for Cauvery delta farmers |
+| **Krishna Raja Sagara (KRS)** | **Cauvery** | Karnataka (Mandya/Mysuru) | Designed by Sir **M. Visvesvaraya**; Brindavan Gardens located below dam |
+| **Ukai Dam** (Vallabh Sagar) | **Tapi** | Gujarat (Surat) | Second largest reservoir in Gujarat after Sardar Sarovar |
+| **Kakrapar Project** | **Tapi** | Gujarat | Weir project for irrigation + Kakrapar Atomic Power Station |
+| **Koyna Dam** (कोयना बांध) | **Koyna** (tributary of Krishna)| Maharashtra (Satara) | Largest completed hydroelectric power plant in Maharashtra; triggered **1967 Koynanagar earthquake** |
+| **Damodar Valley Project (DVC)** | **Damodar & Barakar** | Jharkhand & West Bengal | First multipurpose river valley project of independent India (1948); modeled on US **Tennessee Valley Authority (TVA)**; dams at **Tilaiya, Maithon, Belpahari** (on Barakar) and **Panchet** (on Damodar) |
+
+---
 
 ### Multipurpose valley cards (Ghatnachakra)
 

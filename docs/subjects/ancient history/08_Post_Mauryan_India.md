@@ -130,9 +130,42 @@ Post-Mauryan Period | Satavahana Rulers | South Indian History | Indo-Greeks | S
 | 4th Council | Kashmir **Kundalvana** |
 | Art | Gandhara + Mathura |
 
-### Invader order
+### Master Table — Ancient Indian Eras (संवत एवं काल-गणना)
 
-**Greeks → Sakas → Kushans**
+*(Tested in chronological arrangement & match-the-column questions)*
+
+| Era Name (संवत) | Starting Year | Founder / Associated Event | Key Inscriptional / Historical Usage |
+|:----------------|:-------------:|:---------------------------|:-------------------------------------|
+| **Kali Era** (कलि संवत) | **3102 BCE** | Traditional start of Kali Yuga (Mahabharata war end) | Mentioned in Aihole inscription of Pulakeshin II (634 CE) |
+| **Saptarshi / Laukika Era** | **3076 BCE** | Cycle of 2,700 years (100 yrs per Nakshatra) | Prevalent in Kashmir (used by Kalhana in *Rajatarangini*) |
+| **Mahavira Nirvana Era** | **527 BCE** | Nirvana of 24th Jain Tirthankara Vardhamana Mahavira | Core era used in Jain historical chronology |
+| **Buddha Nirvana Era** | **483 / 544 BCE** | Mahaparinirvana of Gautama Buddha | Widely used in Sri Lankan chronicles (*Mahavamsa*, *Dipavamsa*) |
+| **Maurya Era** | **322 BCE** | Coronation of Chandragupta Maurya | Used in select Jain & Greek references |
+| **Vikrama Samvat** (विक्रम संवत) | **57 BCE** | King Vikramaditya of Ujjain (victory over Shakas); also called **Krita Era** (कृत संवत) or **Malava Era** (मालव संवत) | Most popular Hindu calendar era; difference from Shaka Era is **135 years** ($57 + 78 = 135$) |
+| **Shaka Samvat** (शक संवत) | **78 CE** | Accession of Kushan Emperor **Kanishka I** (or Chashtana) | Adopted as **India's National Calendar** (22 March 1957; Chaitra 1); used in royal epigraphs across India |
+| **Kalachuri / Chedi Era** | **248–249 CE** | Founded by Abhira King **Ishwarsena** / Traikutaka kings | Used by Kalachuris of Tripuri & Chedi dynasties |
+| **Gupta Samvat** (गुप्त संवत) | **319–320 CE** | Coronation of **Chandragupta I** (*Maharajadhiraja*); identical to **Vallabhi Era** | Used in Gupta pillar inscriptions (Mathura, Sarnath, Eran) |
+| **Harsha Era** (हर्ष संवत) | **606 CE** | Accession of King **Harshavardhana** of Kannauj/Thanesar | Used in Harsha's copper plates (Banskhera, Madhuban) |
+| **Hijri Era** (हिजरी संवत) | **622 CE** | Migration (*Hijra*) of Prophet Muhammad from Mecca to Medina | Islamic lunar calendar; used throughout Medieval India |
+| **Kollam Era** (कोल्लम संवत) | **825 CE** | Founded in Kerala (also called *Malayalam Era*) | Used in South Indian temple records and Kerala history |
+| **Chalukya-Vikrama Era** | **1076 CE** | Founded by Western Chalukya King **Vikramaditya VI** | Replaced Shaka era in Chalukya empire; commemorated by poet Bilhana |
+| **Lakshmana Sena Era** | **1119 CE** | Coronation of Sena King **Lakshmanasena** of Bengal | Used in Mithila (Bihar) and Bengal medieval records |
+| **Ilahi Era** (इलाही संवत) | **1584 CE** | Promulgated by Mughal Emperor **Akbar** (retroactive to 1556) | Solar administrative calendar used in Mughal revenue records |
+
+---
+
+### Master Table — Ancient Indian Coinage & Metrology (प्राचीन भारतीय सिक्के)
+
+*(High-yield for coin types, metals, issuing dynasties, and symbols)*
+
+| Coin Type / Dynasty | Primary Metals | Distinguishing Features & Motifs | Key Rulers / Canonical References |
+|:-------------------|:---------------|:---------------------------------|:-----------------------------------|
+| **Punch-Marked Coins**<br>(*Aahat / Karshapana / Pana / Dharana*) | Silver & Copper | • **Earliest coins of India** (6th c. BCE Mahajanapadas & Mauryas)<br>• Irregular shape, stamped with separate punches (sun, six-armed symbol, tree-in-railing, hill, bull)<br>• **NO royal portraits, NO written legends** | Mentioned by Panini (*Ashtadhyayi*) & Kautilya (*Arthashastra*); *Lakhana-adhyaksha* (mint superintendent) |
+| **Indo-Greek Coins** | Gold, Silver, Copper, Nickel | • **FIRST to issue GOLD coins in India**<br>• **FIRST inscribed coins with ruler portraits & names**<br>• Bilingual and biscript (Greek on obverse, Kharosthi/Brahmi on reverse) | **Menander I (Milinda)**, **Agathocles** (earliest depiction of Hindu deities: Vasudeva-Krishna & Balarama-Sankarshana) |
+| **Kushana Coins**<br>(*Dinar* / *Suvarna*) | Gold & Copper | • **FIRST LARGE-SCALE IMPERIAL GOLD COINAGE** with highest purity (equal to Roman Denarius)<br>• Images of rulers in Central Asian coat & boots + multicultural deities (Shiva with Nandi/Trishula, Buddha, Oesho, Nana, Mihira)<br>• Issued heavy copper coins for common daily circulation | • **Vima Kadphises**: first Kushan gold coins (*Sarvalokeshvara*)<br>• **Kanishka I**: put image of **standing Buddha** with Greek legend *BODDO*<br>• **Huvishka & Vasudeva I** |
+| **Satavahana Coins** | **Lead (सीसा), Potin (पोटीन)**, Copper, Silver | • **NEVER ISSUED GOLD COINS** (high-frequency trap!)<br>• Bilingual silver coins (*Gautamiputra Satakarni* restruck Nahapana's silver coins at Jogalthambi)<br>• Distinctive motif: **Ship with double masts** representing active Indian Ocean maritime trade | **Yajna Sri Satakarni** (ship-type coins); **Gautamiputra Satakarni** (Jogalthambi hoard) |
+| **Yaudheya Coins**<br>(Tribal / Republican) | Copper & Bronze | • Issued by republican warrior clan of Punjab/Haryana/Rajasthan<br>• Reverse shows **Karttikeya (Brahmanyadeva)** holding spear with peacock (*Mayura*), six-headed (*Shadanana*)<br>• Legend: *Yaudheya Ganasya Jaya* ("Victory to the Yaudheya Republic") | UPPCS Special Mains 2008 Q14 (Yaudheyas = Karttikeya coins) |
+| **Gupta Coins**<br>(*Dinar* gold, *Rupaka* silver) | Gold, Silver, Copper | • **LARGEST NUMBER OF GOLD COINS** in ancient India (*Dinar*)<br>• Elaborate artistic classical types: Archer type, Tiger-slayer, Lion-slayer, Ashwamedha type, Lyrist (Veena) type, King-and-Queen (*Chandragupta I & Kumaradevi*)<br>• Silver coins (*Rupaka*) first issued by **Chandragupta II** after conquering Western Kshatrapas of Malwa/Saurashtra | • **Samudragupta**: Veena/Lyrist type & Ashwamedha type<br>• **Chandragupta II Vikramaditya**: Lion-slayer & Silver Rupaka<br>• **Kumaragupta I**: Karttikeya type & maximum number of hoards (Bayana hoard in Bharatpur, Rajasthan) |
 
 ---
 

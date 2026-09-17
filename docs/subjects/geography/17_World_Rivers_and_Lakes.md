@@ -19,7 +19,7 @@ World Rivers by Continent | Superlatives (longest / discharge / deepest) | Delta
 ## Current Affairs (this topic)
 
 - Static map chapter — no living scheme tag.
-- Lake names / dam (दाम -) names do not need a yearly refresh unless a new “world’s largest” commission is officially recorded.
+- Lake names / dam (बांध) names do not need a yearly refresh unless a new “world’s largest” commission is officially recorded.
 
 ---
 

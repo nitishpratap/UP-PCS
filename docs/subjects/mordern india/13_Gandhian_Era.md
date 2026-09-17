@@ -18,7 +18,7 @@ Gandhi (गांधी) early life | Gandhi in South Africa | Gandhian Ideology
 ## Consolidated — 42 Must-Score Facts
 
 1. Gandhi founded the **Natal Indian Congress (कांग्रेस) (1894)**, ran ***Indian Opinion***, and wrote ***Hind Swaraj (हिंद स्वराज)* (1909)** before returning to India in **1915**. **Gokhale** (गोखले) was his political guru (गुरु).
-2. **Champaran 1917** fought the **tinkathia** (तीनकठिया प्रथा -) indigo (नील) system (**3/20**); **Raj Kumar Shukla** brought Gandhi. This is Gandhi’s first satyagraha in India.
+2. **Champaran 1917** fought the **tinkathia** (तीनकठिया प्रथा) indigo (नील) system (**3/20**); **Raj Kumar Shukla** brought Gandhi. This is Gandhi’s first satyagraha in India.
 3. **Kheda 1918** sought revenue remission (Patel). **Ahmedabad mill strike 1918** (Anasuya Sarabhai) saw Gandhi’s **first fast in India**.
 4. The **Rowlatt Act (1919)** and **Jallianwala Bagh (13 April 1919**, Dyer, Amritsar (अमृतसर)) opened the all-India protest climate.
 5. **Hunter Committee 1919** (हंटर कमेटी 1919) inquired into the Punjab firing. It is **not** the **Hunter Commission 1882** (हंटर आयोग 1882) on education.

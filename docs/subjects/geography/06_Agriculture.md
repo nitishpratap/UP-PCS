@@ -57,7 +57,7 @@
 22. Institutions: **ICAR** Delhi; **IARI** Pusa; seed chain **Breeder → Foundation → Certified**; **KVK** at district level. First agri university = **Pantnagar (1960)**. **Agmark** = Act **1937**. FAO grain moisture ≤ **14%**.
 23. **Jhum** is north-east shifting cultivation (also podu / bewar / dahiya / kumari / waltre). Organic farming bans synthetics; **Sikkim** is the first fully organic state. Precision farming is GIS / GPS site-specific management.
 24. India usually ranks **first** in milk, pulses, and jute, and often **second** in rice, wheat, and cane.
-25. Red rot of cane is a **fungus**; citrus canker is a **bacterium**. Command Area Development improves an existing command — it is not a new dam (दाम -).
+25. Red rot of cane is a **fungus**; citrus canker is a **bacterium**. Command Area Development improves an existing command — it is not a new dam (बांध).
 26. Green Revolution costs include monoculture and groundwater stress in Punjab–Haryana. Bio-decomposer sprays are the free fungal stubble-management tool in recent papers.
 27. Amartya Sen’s food thesis is **entitlements**, not Swaminathan’s breeding story.
 28. Lift irrigation matters where southern canal layouts are irregular. Drip and sprinkler raise water-use efficiency in horticulture and dry tracts.

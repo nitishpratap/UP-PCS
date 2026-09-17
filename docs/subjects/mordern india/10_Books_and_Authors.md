@@ -18,7 +18,7 @@ Books and Authors | History (इतिहास) Books | Books on Freedom Moveme
 ## Consolidated — 28 Must-Score Facts
 
 1. ***Anandamath*** (**1882**) is by **Bankim Chandra Chattopadhyay** and carries **Vande Mataram**. It is not the national anthem.
-2. ***Neel Darpan** (नील दर्पण)* (**1860**) is **Dinabandhu Mitra (मित्र -)’s** indigo (नील) play. Do not give it to Bankim.
+2. ***Neel Darpan** (नील दर्पण)* (**1860**) is **Dinabandhu Mitra (मित्र)’s** indigo (नील) play. Do not give it to Bankim.
 3. ***Poverty and Un-British Rule in India*** by **Dadabhai Naoroji (नौरोजी)** was published in **1901**. It is the classic drain-of-wealth tract.
 4. ***The Rise and Growth of Economic Nationalism in India*** is **Bipan Chandra’s** later historiography, not Naoroji’s 1901 book.
 5. ***Hind Swaraj*** (**1909**) is Gandhi (गांधी)’s political tract. ***My Experiments with Truth*** is his autobiography — do not swap the two.
@@ -182,7 +182,7 @@ One home for extra titles. Details of the syllabus eight sit in the cards below.
 | **Dreamland / Introduction to Dreamland** | Lala Ramsaran Das / Bhagat Singh stream | Jail literature |
 | **Guilty Men of India’s Partition** | Ram Manohar Lohia | Partition critique |
 | **The Man Who Divided India** | Rafiq Zakaria | Partition biography |
-| **India from Curzon to Nehru and After** | Durga (दुर्ग -) Das | Political chronicle |
+| **India from Curzon to Nehru and After** | Durga Das (दुर्गा दास) | Political chronicle |
 | **Jawaharlal Nehru: A Biography** | Frank Moraes | Nehru biography |
 | **The Story of the Integration of the Indian States** | V.P. Menon | Princely integration |
 | **Ignited Minds / Wings of Fire** | A.P.J. Abdul Kalam | Missile Man titles |

@@ -392,7 +392,7 @@ D. 4, 2, 3, 1
 
 - The Congress Working Committee passed the "Quit India" resolution at Wardha in July, adopted (अंगीकृत) by the AICC at Bombay on **8 August 1942**, with Gandhi's call of **"Do or Die."**
 - **Yusuf Meher Ali** is keyed with coining the slogan **Quit India**. Nehru moved the Bombay AICC resolution; Patel supported; Azad was Congress President (Ramgarh 1940 continuity).
-- Arrests under **Operation Zero Hour (शून्य काल -)** (**9 August**): Gandhi and Sarojini Naidu to **Aga Khan Palace**; many Working Committee members to **Ahmednagar Fort**; Rajendra Prasad (not in Bombay) to **Bankipur (Patna (पटना))** jail.
+- Arrests under **Operation Zero Hour (शून्य काल)** (**9 August**): Gandhi and Sarojini Naidu to **Aga Khan Palace**; many Working Committee members to **Ahmednagar Fort**; Rajendra Prasad (not in Bombay) to **Bankipur (Patna (पटना))** jail.
 - American journalist **Louis Fischer** (Gandhi’s biographer) was with Gandhi in this season. **Linlithgow** called the rising the most serious since **1857**, citing peasant fury in eastern UP–Bihar.
 - All top leaders were arrested on **8–9 August**, so the movement ran **leaderless and underground**.
 - **Aruna Asaf Ali** hoisted the flag at Gowalia Tank; **Usha Mehta** ran **Congress Radio** from Bombay; **Matangini Hazra**, 73, was shot at Tamluk while carrying the flag; **Kanaklata Barua** fell at Gohpur in Assam.

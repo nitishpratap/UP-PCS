@@ -186,6 +186,42 @@ East India Company and Nawabs of Bengal | Nawabs of Bengal | Battle of Plassey (
 | Lawrence | Masterly Inactivity (Afghan caution) |
 | Lytton | Proud Reserve / Forward Policy (Afghan aggression) |
 
+---
+
+### Master Table — Clive’s Dual Government Personnel & Awadh Administration (1765–1798)
+
+*(High-yield for regional PCS & RO/ARO administrative questions)*
+
+| Office / Post | Appointed Individual | Region / Authority | Exam Context & Significant Notes |
+|:--------------|:---------------------|:-------------------|:---------------------------------|
+| **Deputy Diwan (Naib Diwan) of Bengal** | **Mohammad Raza Khan** (मोहम्मद रज़ा खान) | Bengal (also functioned as Naib Nazim) | Appointed by Robert Clive under Treaty of Allahabad (1765); exercised dual civil and criminal oversight until Warren Hastings arrested him in 1772 |
+| **Deputy Diwan (Naib Diwan) of Bihar** | **Raja Shitab Rai** (राजा शिताब राय) | Bihar (Patna) | Administered land revenue collection in Bihar for the Company; tried and acquitted by Hastings |
+| **Deputy Diwan of Odisha** | **Rai Durlabh** (राय दुर्लभ) | Odisha | Former minister of Siraj-ud-Daulah; rewarded by Clive with Orissa diwani administration |
+| **Artha Mantri (Finance Minister / Diwan)** | **Raja Tikait Rai** (राजा टिकैत राय) | Awadh (Nawab Asaf-ud-Daula, 1775–97) | Highly influential Kayastha minister; managed finances of Awadh; built public tanks (*Tikait Rai Talab*) and temples (*UP RO/ARO Mains 2016*) |
+| **Commander & Trusted Minister** | **Raja Jhaulal** (राजा झाऊलाल) | Awadh (Nawab Asaf-ud-Daula) | Influential minister in Lucknow court; later removed under British pressure |
+
+---
+
+### Master Table — Battles of the Anglo-Sikh Wars in Chronological Sequence
+
+*(Critical for arranging chronological battle questions: Mudki → Ferozeshah → Aliwal → Sobraon → Chillianwala → Gujrat)*
+
+| Phase | Battle Name | Date | British Commander vs Sikh Leaders | Decisive Outcome & Treaty |
+|:------|:------------|:-----|:-----------------------------------|:---------------------------|
+| **1st Anglo-Sikh War**<br>(1845–1846)<br>*Gov-Gen: Lord Hardinge I* | **1. Battle of Mudki** (मुदकी) | **18 Dec 1845** | Sir Hugh Gough vs Lal Singh | British victory despite heavy casualties |
+| | **2. Battle of Ferozeshah** (फिरोज़शाह) | **21–22 Dec 1845** | Sir Hugh Gough & Hardinge vs Lal Singh & Tej Singh | Fierce contest; British saved by Sikh commanders' treachery |
+| | **3. Battle of Baddowal** (बद्दोवाल) | **21 Jan 1846** | Sir Harry Smith vs Ranjodh Singh Majithia | Minor Sikh tactical success |
+| | **4. Battle of Aliwal** (अलीवाल) | **28 Jan 1846** | Sir Harry Smith vs Ranjodh Singh Majithia | Decisive British victory; pushed Sikhs across Sutlej |
+| | **5. Battle of Sobraon** (सबराओं) | **10 Feb 1846** | Sir Hugh Gough vs Tej Singh & Sham Singh Atariwala | **Decisive British triumph**; Sham Singh died heroically |
+| | **Treaty of Lahore** (लाहौर की संधि) | **9 March 1846** | British Company & Minor Maharaja Duleep Singh | Jalandhar Doab annexed; ₹1.5 Cr indemnity; Kashmir sold to **Gulab Singh** (Treaty of Amritsar, 16 March 1846); Henry Lawrence appointed Resident |
+| | **Treaty of Bhairowal** (भैरोवाल) | **16 Dec 1846** | British & Council of Regency | Rani Jindan removed from regency; British troops stationed in Lahore |
+| **2nd Anglo-Sikh War**<br>(1848–1849)<br>*Gov-Gen: Lord Dalhousie* | **1. Battle of Ramnagar** (रामनगर) | **22 Nov 1848** | Lord Gough vs Sher Singh Attariwalla | Indecisive cavalry battle on Chenab river |
+| | **2. Battle of Chillianwala** (चिलियांवाला) | **13 Jan 1849** | Lord Gough vs Sher Singh Attariwalla | Bloody draw with disastrous British losses; Gough widely condemned |
+| | **3. Battle of Gujrat** (गुजरात) | **21 Feb 1849** | Lord Gough vs combined Sikh & Afghan forces | **"Battle of the Guns"** — heavy artillery destroyed Sikh army |
+| | **Annexation of Punjab** (पंजाब विलय) | **29 March 1849** | Proclaimed by **Lord Dalhousie** | Punjab annexed to British Empire; Maharaja Duleep Singh pensioned off to England; Koh-i-Noor surrendered |
+
+---
+
 **PYQ — UPPCS Prelims 2019, Q93**
 
 Match List-I with List-II:

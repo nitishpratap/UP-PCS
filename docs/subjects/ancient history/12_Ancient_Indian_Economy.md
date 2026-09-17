@@ -89,30 +89,46 @@ Taught in time-order: no coins in IVC → Vedic nishka → punch-marked silver �
 
 **Indus = Urban · Rigvedic = Pastoral · Later Vedic = Agrarian · Medieval = landlordism**
 
-### Port ↔ lock
+### Master Table — Ancient Indian Ports & Maritime Entrepôts (प्राचीन भारतीय पत्तन)
 
-| Port | Lock |
-|------|------|
-| Lothal | Harappan **dockyard** |
-| Barygaza | **Broach** (Narmada); Periplus |
-| Barbarikon | **Indus-mouth** port |
-| Tamralipti | Ganga mouth; Bay of Bengal |
-| Muziris | Malabar; Roman **pepper** |
-| Puhar / Kaveripattinam | Sangam Chola port |
-| Arikamedu | Periplus **Poduke**; Roman amphorae |
-| Sopara / Kalyan | Konkan (Mauryan onward) |
+*(Categorized by Coast, River Basin, Ancient/Periplus names, and Key Trade Commodities)*
 
-### Guild / road tags
+| Port Name (प्राचीन पत्तन) | Periplus / Classical Name | Coast / Modern State | River / Geographical Location | Key Commercial Role & Commodities |
+|:--------------------------|:--------------------------|:---------------------|:------------------------------|:-----------------------------------|
+| **Lothal** (लोथल) | — | Gujarat (Gulf of Khambhat) | Bhogavo river, Saurashtra | World's earliest tidal **dockyard** (गोदीबाड़ा); Harappan bead factories & Persian Gulf seal |
+| **Barbaricum / Barbarikon** | *Barbarike* | Sindh (Pakistan) | Indus river mouth | Trade terminus for Central Asian goods, lapis lazuli, turquoise, silk |
+| **Barygaza / Bharuch** (भृगुकच्छ) | *Barygaza* | Gujarat (Gulf of Khambhat) | Narmada river mouth | **Chief western entrepôt** of India; terminus of Dakshinapatha; export of cotton, onyx, agates, spikenard |
+| **Sopara / Surparaka** (शूर्पारक) | *Souppara* | Maharashtra (North Konkan) | Near Mumbai / Vaitarna river | Ancient port since Buddhist/Mauryan times (Ashokan Edicts found here); trade with Arabia & Egypt |
+| **Kalyan** (कल्याण) | *Calliena* | Maharashtra | Ulhas river / Thane Creek | Major Satavahana naval & commercial port mentioned in *Periplus* |
+| **Chaula / Chemula** | *Saimur / Chaul* | Maharashtra | Alibag / Revdanda Creek | Prominent port connecting Deccan with Persian Gulf & Red Sea |
+| **Tyndis / Tondi** (तोंडी) | *Tyndis* | Kerala (Malabar Coast) | Ponnani / Kadalundi river mouth | Sangam **Chera kingdom** port; transshipment point for Roman ships |
+| **Muziris / Muchiri** (मुज़िरिस) | *Muziris* | Kerala (Malabar Coast) | Periyar river mouth (Kodungallur) | **Greatest Roman pepper emporium** (*Yavanapriya*); temple of Augustus built by Roman merchants |
+| **Nelcynda & Bacare** | *Nelkynda / Bakare* | Kerala / Pandya border | Meenachil / Pamba river basin | Spices, tortoiseshell, pearls; deep-water anchorage for Roman freighters |
+| **Korkai** (कोरकई) | *Colchoi* | Tamil Nadu (Gulf of Mannar) | Tambraparni river mouth | Sangam **Pandya capital & port**; world-famous **pearl fisheries** (*Muthu*) |
+| **Alagankulam** | — | Tamil Nadu (Palk Strait) | Vaigai river mouth | Excavated Roman rouletted ware, coins of Roman Emperor Arcadius & Valentinian |
+| **Arikamedu** (अरिकामेडु) | *Poduke* | Puducherry (Coromandel Coast)| Ariyankuppam river lagoon | **Indo-Roman trading station**; huge yields of Roman *amphorae* (wine jars), *Arretine ware*, glass beads |
+| **Kaveripattinam / Poompuhar** | *Khabiris Emporion* / *Puhar*| Tamil Nadu (Coromandel Coast)| Kaveri river mouth | Sangam **Chola chief port**; described vividly in *Silappadikaram* and *Manimekalai* |
+| **Motupalli** (मोटुपल्ली) | *Mutfili* | Andhra Pradesh | Prakasam district | **Kakatiya dynasty** port; famous *Abhaya Shasana* (charter of security) by Ganapatideva; visited by **Marco Polo** |
+| **Machilipatnam / Maisolia** | *Maisolia* | Andhra Pradesh | Krishna delta | Famous in *Periplus* for manufacture and export of exceptionally fine **muslin** (*Maslin*) |
+| **Dantapura / Palur** (दन्तपुर) | *Paloura* | Odisha (Ganjam Coast) | Rushikulya river mouth | Chief Kalinga port; direct sailing point for merchant ships bound for **Suvarnabhumi** (SE Asia) |
+| **Tamralipti / Tamluk** (ताम्रलिप्ति) | *Tamalites* | West Bengal (Bay of Bengal) | Rupnarayan river (Ganga delta) | **Supreme eastern gateway** of ancient India; embarkation port for Southeast Asia, Sri Lanka, and China; visited by Faxian, Xuanzang, and Yijing |
 
-| Term | Lock |
-|------|------|
-| Shreni | Craft / trade guild; head = **shreshthin** |
-| Manigrama | **Foreign / overseas** trade body |
-| Nanadesi | Merchants of many lands |
-| Nagaram | South town merchant body |
-| Uttarapatha | Taxila → Pataliputra |
-| Dakshinapatha | Ganga belt → **Ujjain** → Deccan (**road**, not only sea) |
-| Yavanapriya | Sanskrit for **pepper** |
+---
+
+### Master Table — Ancient Merchant Guilds & Trade Corporations (व्यापारिक श्रेणियां एवं निगम)
+
+*(Tested in administrative and economic history questions — UPPCS 2018, 2022, 2024)*
+
+| Guild / Body (संस्था) | Nature & Operational Scope | Geographic Sphere | Key Characteristics & Powers |
+|:----------------------|:---------------------------|:------------------|:-----------------------------|
+| **Shreni** (श्रेणी) | Occupational guild of artisans or merchants of the **same profession** | Pan-India | Headed by **Shreshthin** (or *Jyeshthaka*); had judicial powers over members; maintained own militia (*Shrenibala*); accepted fixed deposits and paid interest |
+| **Nigama** (निगम) | Guild organization / assembly of merchants of **varied professions** | Urban centres / market towns | Issued own coins and tokens in Post-Mauryan period (e.g., Kausambi, Taxila); functioned as town corporation |
+| **Sarthavaha** (सार्थवाह) | Leader of mobile caravan traders (*Sartha*) | Long-distance trade highways (*Uttarapatha*, *Dakshinapatha*) | Managed logistics, security, and provisions for caravan merchants travelling across deserts, forests, and borders |
+| **Manigrama / Manigramam** | Guild of traveling merchants engaging in **inland and overseas trade** | South India (Tamil Nadu, Kerala) & **Southeast Asia** | Formed in Sangam/Pallava era; set up trade enclaves abroad; recorded in the 9th-century **Takua Pa inscription** (Thailand) |
+| **Ayyavole 500 / Nanadesi**<br>(*Ainnurruvar*) | "The Five Hundred Lords of Aihole" — premier **trans-national merchant corporation** | Karnataka, Tamil Nadu, Sri Lanka, Sumatra (Indonesia), Myanmar | Symbolized by tiger/bull; operated armed mercantile convoys across the Indian Ocean; patronized temples and civic works |
+| **Anjuvannam** (अंजुवण्णम्) | Guild of **foreign / West Asian merchants** (Jews, Christians, Muslims, Persians) | Malabar & Coromandel coasts (Kerala, TN) | Autonomous trading privileges granted by royal charters (e.g., **Jewish Copper Plates of Cochin** to Joseph Rabban, 1000 CE; **Quilon Syrian Plates** to Mar Sapir Iso) |
+| **Valanjiyar** (वलंजियर) | Martial merchant community / trading corporation | South India & Ceylon | Often associated with the Ayyavole 500; traded in jewels, spices, and fine textiles; maintained martial guards |
+| **Nagaram** (नगरम) | Local assembly of resident merchants in market towns | Chola Empire (Tamil Nadu) | Handled urban local administration, commercial dispute resolution, and trade tax collection for the crown |
 
 ---
 

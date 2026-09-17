@@ -44,7 +44,7 @@
 4. **Devipatan** division HQ is **Gonda** (with Bahraich, Shravasti, Balrampur) — **not Basti**. **Lalitpur** has only **one** UP neighbour.
 5. **Ramganga** (रामगंगा) meets the Ganga (गंगा) at **Kannauj** (कन्नौज). **Betwa** (बेतवा) meets the Yamuna (यमुना) at **Hamirpur**, not Prayagraj (प्रयागराज). Yamuna right-bank order west to east: **Chambal (चंबल)–Sind (सिंध)–Betwa–Ken**. The **Gomti** rises in Pilibhit.
 6. Bundelkhand soils: **Mar/Kabar** are **black**; **Parua/Rakar** are **red**. About **90%** of UP is alluvial (जलोढ़). **Usar** needs gypsum and drainage.
-7. **Badua** dam (दाम -) is **not** in UP. **Matatila** is on the Betwa in Lalitpur. **Ken–Betwa** is the Bundelkhand national project. Eastern UP hydel is blocked by the **Nepal** Himalaya (हिमालय).
+7. **Badua** dam (बांध) is **not** in UP. **Matatila** is on the Betwa in Lalitpur. **Ken–Betwa** is the Bundelkhand national project. Eastern UP hydel is blocked by the **Nepal** Himalaya (हिमालय).
 8. UP leads potato quantity; CIP centre fact is **Agra (Singna)**. UP is not a jute/tea/rubber state. **Mentha** facts on Rohilkhand.
 9. Census 2011: lowest female literacy among common facts = **Shrawasti**. Smallest-area trap among listed four (चातुर्याम) = **Hapur**. City order **Kanpur (कानपुर) > Lucknow (लखनऊ) > Ghaziabad > Agra**. UP Day = **24 January**.
 10. Central Smart Cities list has **10**; **Ghaziabad** is out. NER HQ = **Gorakhpur** (गोरखपुर). Kushinagar (कुशीनगर) international airport opened **24 June 2020**. Amrit Bharat stations fact **149**. HRIDAY cities = Varanasi (वाराणसी) and Mathura (मथुरा).
