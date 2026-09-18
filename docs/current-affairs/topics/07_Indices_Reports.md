@@ -243,9 +243,49 @@ The Ministry of Education released the **Unified District Information System for
 - **Gross Enrolment Ratio (GER)**: Middle school at **90.3%**; Secondary school at **68.5%**.
 - **Digital Infrastructure**: **64.7%** of schools have computers; **63.5%** have internet connectivity. Basic amenities: drinking water in **99.3%**, electricity in **93.6%**, girls' toilets in **97.3%**.
 
-### Soft ranking follow-ups
+### NITI Aayog: Internationalisation of Higher Education in India
+- **Report Title**: *"Internationalisation of Higher Education in India: Prospects, Potential, and Policy Recommendations"*.
+- **Inbound–Outbound Student Ratio**:
+  - 2021: **1:24**
+  - 2022: **1:19** (for every 1 international student studying in India, **28 Indian students** go abroad).
+- **Overseas Education Expenditure**:
+  - Projected to reach **₹6.2 lakh crore by 2025** (~**2% of India's GDP** and ~**75% of India's annual trade deficit** in FY 2024–25).
+- **Foreign Student Inflow**:
+  - India hosted approximately **47,000 international students** in 2022.
+  - Potential projected to scale to **7.89 to 11 lakh international students by 2047** with systemic credit transfers, streamlined visa regimes, and global campus branch integration.
 
-Keep March–April report facts ready (Happiness, GTI). Add named Whitley / Pulitzer winners only when a stem needs them.
+### Swachh Survekshan 2024–25 — Complete National Rankings Matrix
+- **Administering Ministry**: Ministry of Housing and Urban Affairs (MoHUA).
+- **Super Swachh League (Top Performers by Population)**:
+  - **>10 Lakh Category**:
+    1. **Indore** (Madhya Pradesh)
+    2. **Surat** (Gujarat)
+    3. **Navi Mumbai** (Maharashtra)
+    4. **Vijayawada** (Andhra Pradesh)
+  - **3–10 Lakh Category**:
+    5. **Noida** (Uttar Pradesh)
+    6. **Chandigarh**
+    7. **Mysuru** (Karnataka)
+    8. **Ujjain** (Madhya Pradesh)
+    9. **Gandhinagar** (Gujarat)
+    10. **Guntur** (Andhra Pradesh)
+  - **50,000–3 Lakh Category**: 11. **NDMC** (Delhi), 12. **Tirupati** (AP), 13. **Ambikapur** (CG), 14. **Lonavala** (MH).
+  - **20,000–50,000 Category**: 15. **Vita** (MH), 16. **Saswad** (MH), 17. **Deolali Pravara** (MH), 18. **Dungarpur** (RJ).
+  - **<20,000 Category**: 19. **Panchgani** (MH), 20. **Patan** (CG), 21. **Panhala** (MH), 22. **Bishrampur** (CG), 23. **Budni** (MP).
+- **Presidential Awardees: Swachh Shehar (5 Population Categories)**:
+  - **>10 Lakh**: 1. **Ahmedabad** (Gujarat), 2. **Bhopal** (Madhya Pradesh), 3. **Lucknow** (Uttar Pradesh).
+  - **3–10 Lakh**: 4. **Mira-Bhayandar** (Maharashtra), 5. **Bilaspur** (Chhattisgarh), 6. **Jamshedpur** (Jharkhand).
+  - **50,000–3 Lakh**: 7. **Dewas** (Madhya Pradesh), 8. **Karhad** (Maharashtra), 9. **Karnal** (Haryana).
+  - **20,000–50,000**: 10. **Panaji** (Goa), 11. **Aska** (Odisha), 12. **Kumhari** (Chhattisgarh).
+  - **<20,000**: 13. **Bilha** (Chhattisgarh), 14. **Chikiti** (Odisha), 15. **Shahganj** (Madhya Pradesh).
+- **Safaimitra Surakshit Shehar (Top 5)**:
+  1. **GVMC Visakhapatnam** (Andhra Pradesh)
+  2. **Jabalpur** (Madhya Pradesh)
+  3. **Gorakhpur** (Uttar Pradesh)
+  4. **Secunderabad Cantt.** (Telangana)
+  5. **Prayagraj** (Uttar Pradesh)
+- **Cleanest Ganga City**: **Prayagraj** (Uttar Pradesh).
+- **Special Ministerial Recognition**: **Swachh Mahakumbh 2025 (Prayagraj)** awarded special recognition by MoHUA.
 
 ---
 

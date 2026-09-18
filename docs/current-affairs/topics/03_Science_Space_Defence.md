@@ -495,6 +495,28 @@ The **SHANTI Act, 2025** (received Presidential assent in December 2025) overhau
 - **Strategic Sovereign Monopoly**: The Central Government strictly retains exclusive control over sensitive fuel-cycle operations, uranium enrichment beyond notified thresholds, heavy water production, and spent-fuel reprocessing/nuclear waste management.
 - **Dispute Redressal Bodies**: Establishes the **Nuclear Damage Claims Commission** and the **Atomic Energy Redressal Advisory Council**.
 
+### Defence Procurement Manual 2025 (DPM 2025)
+- **Approval & Date**: Approved on **23 October 2025** by Defence Minister Rajnath Singh; came into effect on **1 November 2025**.
+- **Predecessor**: Completely supersedes the outdated **DPM 2009**.
+- **Crucial Prelims Distinction**: DPM 2025 strictly governs **Revenue Procurement** (routine maintenance, spare parts, rations, clothing, fuel, and minor equipment totaling ~**₹1 lakh crore annually**). It does **NOT** govern capital acquisitions (which are governed by the Defence Acquisition Procedure - DAP 2020).
+- **Core Principles**: Enhances operational jointness among the Army, Navy, and Air Force, slashes procurement timelines, and mandates preferential sourcing for domestic MSMEs and startups under Atmanirbhar Bharat.
+
+### Indian Maritime Doctrine 2025
+- **Release**: Released on **2 December 2025** by the Chief of the Naval Staff ahead of Navy Day (celebrated on **4 December 2025**).
+- **Central Theme**: ***"Combat Ready, Cohesive, Credible, and Aatmanirbhar Force"***, articulating the Navy's operational readiness to secure vital Sea Lines of Communication (SLOCs) and protect India's maritime sovereignty in the Indo-Pacific.
+
+### India–UAE 8-Exaflop Supercomputing Cluster
+- **Agreement**: Term sheet finalized between India's **Centre for Development of Advanced Computing (C-DAC)** and UAE's AI major **G42** during the May 2026 bilateral summit.
+- **Scale**: Establishes a massive **8-exaflop supercomputing cluster** dedicated to training large language models (LLMs), climate modeling, and sovereign AI development across the Global South.
+
+### BSNL Nationwide VoWiFi (Wi-Fi Calling) Rollout
+- **Launch Date**: **1 January 2026** (New Year 2026).
+- **Technology**: Deployed **Voice over Wi-Fi (VoWiFi)** nationwide across all telecom circles, enabling mobile users to make and receive crystal-clear voice and video calls over Wi-Fi networks in cellular "shadow zones" (basements, remote locations, high-rises) without extra app installations.
+
+### Cameco–Department of Atomic Energy (DAE) Uranium Pact
+- **Value**: **CAD 2.6 billion agreement** signed during Canadian PM Mark Carney's visit (Feb–March 2026).
+- **Scope**: Canadian uranium giant **Cameco** guarantees long-term supply of natural uranium concentrates to the **Department of Atomic Energy (DAE)** to feed India's expanding fleet of Pressurised Heavy Water Reactors (PHWRs).
+
 ---
 
 ## Practice Zone — UPPCS Format

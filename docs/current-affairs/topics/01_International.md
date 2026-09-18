@@ -366,6 +366,125 @@ In Tashkent, President **Shavkat Mirziyoyev** conferred Uzbekistan’s supreme s
 
 India launched the first **Guide to Grasslands and Other Open Natural Ecosystems of India** at the **17th** session of **UNCCD COP17** in **Ulaanbaatar, Mongolia**. Full soft environment card → [Environment](05_Environment_Days.md).
 
+---
+
+## In-Depth Bilateral Relations & State Visits (Ghatna Chakra Eye Drishti 2026)
+
+### 1. India–Cyprus Strategic Partnership (20–23 May 2026)
+- **Visiting Dignitary**: President **Nikos Christodoulides** paid an official State Visit to India (his first visit in his current capacity).
+- **Elevation of Ties**: Bilateral relations formally elevated to a **Strategic Partnership**.
+- **Diplomatic Milestone**: Commemorates the upcoming **65th anniversary of diplomatic relations in 2027**.
+- **Defence Roadmap**: Agreed on a 5-year roadmap for defence cooperation (**2026–2031**) between Cyprus Defence & Space Industries Cluster and Society of Indian Defence Manufacturers (SIDM).
+- **Financial & Space Integration**:
+  - MoU between **NPCI International Payments Limited (NIPL)** and **Eurobank Cyprus**.
+  - Framework established for interoperability of India's **UPI** with the **TARGET Instant Payment Settlement (TIPS)** of the European Central Bank.
+  - Space cooperation between **ERATOSTHENES Centre of Excellence** and **IN-SPACe**.
+
+### 2. Myanmar President U Min Aung Hlaing Visit to India (30 May – 3 June 2026)
+- **Significance**: First foreign trip undertaken by Myanmar President **U Min Aung Hlaing** since assuming office.
+- **Foreign Policy Anchors**: Anchored under India's **"Neighbourhood First"** and **"Act East"** policies.
+- **Spiritual & Tech Stops**:
+  - Offered prayers at **Mahabodhi Temple** (Bodh Gaya), Mahabodhi Meditation Centre, and Sujata Temple.
+  - Toured the **NTPC Energy Technology Research Alliance (NETRA)** complex in Greater Noida (UP) to observe clean energy and green hydrogen R&D.
+- **Connectivity Projects Reaffirmed**:
+  - **Kaladan Multi-Modal Transit Transport Project (KMMTTP)**: Connects Kolkata to **Sittwe Port** in Myanmar $\rightarrow$ inland waterway along Kaladan River to **Paletwa** $\rightarrow$ highway to **Zorinpui in Mizoram**.
+  - **India–Myanmar–Thailand (IMT) Trilateral Highway**: Critical land route connecting Northeast India to ASEAN.
+
+### 3. India–South Korea "Futuristic Partnership" (19–21 April 2026)
+- **Visiting Dignitary**: South Korean President **Lee Jae-myung** held summit talks with PM Modi at Hyderabad House, New Delhi.
+- **Framework**: Special Strategic Partnership (established in 2015) upgraded towards a *"futuristic partnership"*.
+- **Key Bilateral Outcomes**:
+  - **Bilateral Trade Target**: Set at **USD 54 billion by 2030** (currently ~$27 billion).
+  - **Economic Security Dialogue**: Initiated to secure critical technologies and resilient semiconductor supply chains.
+  - **India–Korea Digital Bridge**: Focus on AI, semiconductors, and digital infrastructure.
+  - **Defence**: Shipbuilding and naval infrastructure (highlighted by the proven **K-9 Vajra** self-propelled howitzer partnership).
+  - **Cultural**: **2028–29** officially declared the **"Year of India–ROK Friendship"**.
+
+### 4. India–Jordan Bilateral Milestone (15–16 December 2025)
+- **Significance**: PM Narendra Modi paid an official visit to Amman; **first full-fledged bilateral visit by an Indian Prime Minister to Jordan in 37 years**.
+- **Milestone**: Marked **75 years of diplomatic relations** with King Abdullah II ibn Al Hussein.
+- **8-Point Vision**: Encompasses trade, fertilizers, IT, healthcare, infrastructure, critical minerals, civil nuclear cooperation, and people-to-people ties.
+- **Food Security Strategic Anchor**: Jordan supplies vital **phosphates and potash fertilisers** essential for India's agricultural security.
+- **Agreements Signed**: 5 MoUs covering renewable energy, water management, cultural exchange, heritage twinning, and Digital Public Infrastructure (including proposed UPI integration).
+
+### 5. India–UAE Comprehensive Strategic Outcomes (Jan & May 2026)
+- **Summit Meetings**: UAE President **Sheikh Mohamed bin Zayed Al Nahyan (MBZ)** visited India on 19 January 2026; PM Modi visited UAE in May 2026 (kick-starting a 5-nation tour).
+- **Strategic Petroleum Reserves (SPR)**:
+  - Strategic Collaboration MoU between **Indian Strategic Petroleum Reserves Limited (ISPRL)** and **Abu Dhabi National Oil Company (ADNOC)**.
+  - Provides for potential ADNOC crude storage up to **30 million barrels** in India's SPR facilities at **Visakhapatnam (AP)** and the upcoming reserve at **Chandikhol (Odisha)**.
+  - Includes provision for potential Indian crude oil storage at **Fujairah (UAE)**.
+- **Maritime & Supercomputing Hubs**:
+  - MoU between **Cochin Shipyard Limited** and **Drydocks World** to establish a **Ship Repair Cluster at Vadinar (Gujarat)** with offshore fabrication under the Maritime Development Fund Scheme.
+  - Term sheet signed between **C-DAC (India)** and **G42 (UAE)** to establish an **8-exaflop supercomputing cluster**.
+  - Operationalised the Virtual Trade Corridor using **MAITRI** (*Master Application for International Trade and Regulatory Interface*).
+- **Trade & Energy**:
+  - **HPCL–ADNOC Gas Agreement**: 10-year Sale and Purchase Agreement (SPA) for **0.5 MMTPA LNG** starting 2028.
+  - Development of **Dholera Special Investment Region (SIR)** in Gujarat with UAE partnership.
+  - Setting up of **DP World** and **First Abu Dhabi Bank (FAB)** in **GIFT City**.
+  - Establishment of **"House of India"** in Abu Dhabi (museum of Indian art and heritage); UAE providing artefacts for the **National Maritime Heritage Complex (NMHC) at Lothal**.
+
+### 6. India–Afghanistan Engagement & Mission Upgrade (October 2025)
+- **High-Level Visit**: Afghan Acting Foreign Minister **Amir Khan Muttaqi** visited India (9–16 October 2025) — highest-level engagement since the Taliban takeover in August 2021.
+- **Diplomatic Status**: India upgraded its technical mission in Kabul to a **full-fledged operational embassy** and allowed Taliban-appointed diplomats to staff the Afghan Embassy in New Delhi.
+- **Air Corridor**: Agreed to relaunch the **India–Afghanistan Air Freight Corridor**.
+- **Development Portfolio**: India remains one of Afghanistan's largest development partners with over **$3 billion** in developmental assistance across 34 provinces.
+
+### 7. India–Mongolia 70-Year Milestone (14 October 2025)
+- **Summit**: PM Modi and Mongolian President **Khurelsukh Ukhnaa** held bilateral talks in New Delhi, marking **70 years of diplomatic relations** (established 1955).
+- **Strategic Partnership**: Upgraded in 2015 under a $1 billion credit line.
+- **Oil Refinery Project**: Reaffirmed the **$1.7 billion oil refinery project** (Mongolia's first refinery, 1.5 MMTPA capacity by 2028, built with Indian support).
+- **Cultural & Regional Link**:
+  - Regional partnership: **Ladakh Autonomous Hill Development Council $\leftrightarrow$ Arkhangai Province**.
+  - India to digitise **1 million Mongolian manuscripts** and deploy a Sanskrit teacher to **Gandan Monastery**.
+  - Free e-visas announced for Mongolian citizens; 2026 visit of Arahant Buddhist relics to Mongolia.
+  - **Conservation**: Mongolia officially joined India's **International Big Cat Alliance (IBCA)**.
+
+### 8. Sri Lankan PM Dr. Harini Nireka Amarasuriya Maiden Visit (16–18 October 2025)
+- **Significance**: Dr. Harini Nireka Amarasuriya's first official overseas visit after assuming office as Prime Minister.
+- **Education & Heritage Connect**: Visited her alma mater **Hindu College (Delhi University)**, where she previously studied Sociology under an Indian MEA scholarship.
+- **Key Agendas**: Advanced negotiations on the **Economic and Technology Cooperation Agreement (ETCA)** and studied India's **PM Gati Shakti** and **NEP 2020** models at NITI Aayog.
+- **Bharat–Sri Lanka Sanskrit Mahotsav**: Inaugurated on **10 November 2025** at the University of Colombo, organized by Swami Vivekananda Cultural Centre, Central Sanskrit University (India), and SL Ministry of Education.
+
+### 9. India–Vietnam Academic & Tech Cooperation (18 September 2025)
+- **MoU**: **IIT Kanpur** and **Vietnam National University (VNU)** signed a major research MoU in Kanpur.
+- **Focus Areas**: AI, smart city engineering, autonomous drone technology, and digital healthcare.
+
+### 10. India–Russia Bilateral Meeting (1 September 2025 | SCO Tianjin)
+- **Context**: PM Narendra Modi and President Vladimir Putin met on the sidelines of the Shanghai Cooperation Organisation (SCO) Summit in Tianjin, China.
+- **Pact & Trade**: Reaffirmed the **"Special and Privileged Strategic Partnership"**. Bilateral trade reached **US$ 68.72 billion in FY 2024–25** (dominated by energy imports). PM Modi invited Putin for the 23rd Annual India–Russia Summit in India.
+
+### 11. India–Maldives 60th Independence Day (25–26 July 2025)
+- **Historic First**: PM Modi was the **Guest of Honour at Maldives' 60th Independence Day** — the **first-ever Indian PM** to be invited as Chief Guest. Marked **60 years of diplomatic ties** (1965–2025).
+- **Trade Deal**: Formally launched negotiations for the **India–Maldives Free Trade Agreement (IMFTA)**.
+- **Financial Package**: Extended a **Line of Credit (LoC) of INR 4,850 crore (~USD 550 million)** along with eased debt rollover.
+- **Handover**: 3,300 social housing units in Hulhumalé; new Ministry of Defence building; Colombo Security Conclave equipment handed to MNDF.
+- **Joint Stamps**: Depicting traditional seafaring heritage: Indian **'Uru'** and Maldivian **'Vadhu Dhoni'**.
+
+### 12. India–Philippines Strategic Partnership (4–8 August 2025)
+- **Dignitary**: Philippine President **Ferdinand R. Marcos Jr.** paid his first State Visit to India, marking **75 years of diplomatic ties** (established 1949).
+- **Elevation of Ties**: Upgraded to a **Strategic Partnership** via the *Strategic Partnership Plan of Action (2025–2029)*.
+- **Treaties Signed**:
+  1. **MLAT**: Mutual Legal Assistance in Criminal Matters.
+  2. **TTSP**: Transfer of Sentenced Persons.
+- **Trade & Space**: Adopted Terms of Reference (ToR) for a **Preferential Trade Agreement (PTA)** (trade stood at ~$3.3 billion in 2024–25); ISRO and Philippine Space Agency signed a Statement of Intent.
+- **Joint Stamps**: Featuring the national flowers: Indian **Lotus** and Philippine **Sampaguita** (a fragrant Arabian jasmine variety).
+
+### 13. India–Canada Strategic Energy & Uranium Pact (27 Feb – 2 March 2026)
+- **Visiting Dignitary**: Canadian Prime Minister **Mark Carney** paid an official visit to India; marked **79 years of diplomatic relations**.
+- **Cameco–DAE Deal**: Landmark **CAD 2.6 billion agreement** between Canadian uranium giant **Cameco** and India's **Department of Atomic Energy (DAE)** for long-term supply of uranium to fuel India's civilian reactors.
+- **CEPA Negotiations**: Signed Terms of Reference to conclude the **Comprehensive Economic Partnership Agreement (CEPA)** by end-2026, aiming to raise bilateral trade to **CAD 70 billion (~INR 4.65 lakh crore) by 2030**.
+- **Agri & Skilling Centers**:
+  - Proposal to establish the **Canada–India Pulse Protein Centre of Excellence** at **NIFTEM Kundli (Haryana)**.
+  - **AICTE–Mitacs MoU**: Funds research internships for **300 Indian undergraduate students annually** at Canadian universities starting 2027.
+- **Critical Minerals**: Signed MoU on Critical Minerals Cooperation; India endorsed the G7 Critical Minerals Action Plan.
+
+### 14. India–Brazil Strategic Ties (18–22 February 2026)
+- **Visiting Dignitary**: Brazilian President **Luiz Inácio Lula da Silva** paid his 2nd State Visit (5th overall visit) to India.
+- **Multilateral Forum**: Attended the **2nd AI Impact Summit** (19–20 Feb) in New Delhi and held bilateral talks with PM Modi on 21 February.
+- **Global South Anchors**: Reaffirmed joint leadership across **BRICS, G20, IBSA, G-4, WTO, and United Nations** reform.
+
+---
+
 ## Practice Zone — UPPCS Format
 
 > **20 questions** for this sheet only — drill after you revise the months above.

@@ -23,6 +23,12 @@
 | **MY Bharat Mobile App** | **1 October 2025** <br> (Ministry of Youth Affairs) | — | Digital empowerment platform for youth leadership and community participation. |
 | **PM-SETU Initiative** | **4 October 2025** <br> (Ministry of Skill Development) | **₹60,000 crore** (Centrally Sponsored) | Upgrades **1,000 Government ITIs** on a **hub-and-spoke model** (200 hub ITIs and 800 spoke ITIs). |
 | **Angikaar – 2025 Campaign** | **4 September 2025** <br> (MoHUA — PMAY-U 2.0) | — | Nationwide urban saturation drive across **>5,000 ULBs** for PMAY-U 2.0 and Credit Risk Guarantee Trust (CRGFTLIH). |
+| **MERITE Scheme** | **8 August 2025** <br> (Union Cabinet / MoE) | Multi-year central support | Multidisciplinary Education and Research Improvement in Technical Education; covers **275 technical institutions** (175 engineering colleges + 100 polytechnics) from **2025–26 to 2029–30** under NEP 2020. |
+| **e-SafeHER Programme** | **13 April 2026** <br> (MeitY + C-DAC + Reliance Fdn) | — (ISEA Programme) | Cybersecurity awareness and safe digital participation training for **10 lakh (1 million) rural women** over 3 years. |
+| **DHRUVA Policy** | **October 2025** <br> (Dept of Posts, MoC) | — | Digital Hub for Reference and Unique Virtual Address; standardises digital addressing infrastructure across India. |
+| **Mission Digital Shram Setu** | **October 2025** <br> (NITI Aayog) | — | National AI roadmap under *"AI for Inclusive Societal Development"* for India's **490 million informal workers**. |
+| **'We RISE' Initiative** | **17 October 2025** <br> (NITI Aayog WEP + DP World) | — | Women Entrepreneurs Reimagining Inclusive and Sustainable Enterprises; accelerating MSME market access. |
+| **Model Youth Gram Sabha (MYGS)** | **October 2025** <br> (MoPR / NEP 2020) | — | Hands-on democratic governance and procedural training for students based on constitutional Gram Sabhas under **Article 243**. |
 
 ---
 

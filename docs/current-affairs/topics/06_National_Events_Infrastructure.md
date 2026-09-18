@@ -449,6 +449,63 @@ A Bench of the High Court of Jammu and Kashmir and Ladakh was established for **
   - **Tenure & Age Restrictions**: Caps the age limit of office bearers at **70 years** (conditional exemption up to 75); maximum 3 terms with mandatory cooling-off periods.
   - **National Sports Tribunal**: Establishes a specialized tribunal headed by a sitting/former Supreme Court judge or High Court Chief Justice for athlete dispute redressal.
 
+### Election Commission of India: Special Intensive Revision (SIR) in Bihar
+- **Constitutional & Statutory Powers**: Ordered under **Article 324** and **Section 21(3) of the Representation of the People Act, 1950**.
+- **Nature of Exercise**: Complete door-to-door physical verification by Booth Level Officers (BLOs) to reconstruct electoral rolls from scratch. (Last comprehensive special intensive revision in India was conducted in 2003).
+- **Timeline**: Guidelines issued 24 June 2025; Qualifying date: **1 July 2025**; Final roll published: **30 September 2025**.
+- **Historic Polling Station Milestone**: On 21 July 2025, Bihar became the **first state in India where every polling station has fewer than 1,200 electors** (ceiling reduced from 1,500). To achieve this, **12,817 new polling stations** were added (total increasing from 77,895 to **90,712**).
+- **Appeals Route**: Lies under **Section 24 of RPA 1950** and **Rule 27 of the Registration of Electors Rules, 1960**.
+- **Documentary Proofs**: Flexible list of 11 approved foundational documents; Supreme Court (10 July 2025) directed ECI to consider Aadhaar card, Voter ID, and Ration card as valid proofs.
+
+### Renaming of 'Kerala' to 'Keralam' (Article 3)
+- **Cabinet Decision**: On **24 February 2026**, the Union Cabinet approved the proposal to rename the State of "Kerala" to **"Keralam"**.
+- **Constitutional Procedure**: Followed a resolution unanimously passed by the Kerala Legislative Assembly on **24 June 2024** under **Article 3** of the Constitution to amend the First Schedule.
+
+### Kerala Declared First Fully Digitally Literate State
+- **Declaration Date**: On **21 August 2025**, Chief Minister Pinarayi Vijayan declared **Kerala** as the **first fully digitally literate state in India** following the completion of its mass grassroots digital empowerment initiative.
+
+### Yuge Yugeen Bharat National Museum
+- **World Record Scale**: Set to become the **world's largest museum**, covering approximately **1.17 to 1.55 lakh square metres** with nearly **950 rooms**.
+- **Location**: Housed in the historic **North and South Blocks** on Raisina Hill, New Delhi (under the Central Vista Redevelopment Project), replacing the existing National Museum.
+- **Rollout**: First gallery, themed ***"Time and Timelessness"***, is scheduled to open by **end-2026**.
+
+### Centenary of Rashtriya Swayamsevak Sangh (RSS) & ₹100 Coin
+- **Event**: Celebrated on **1 October 2025** at Dr. Ambedkar International Centre, New Delhi. PM Narendra Modi attended as Chief Guest.
+- **Foundational Fact**: RSS was founded on Vijayadashami in **1925 at Nagpur** by **Dr. Keshav Baliram Hedgewar**.
+- **Commemorative ₹100 Coin**: Pure silver non-circulating commemorative coin. The reverse features **"Bharat Mata" seated on a lion in Varada Mudra**, flanked by three swayamsevaks — marking the **first time in independent India that the image of Bharat Mata has appeared on an Indian coin**.
+
+### Reclassification of Limestone as a Major Mineral (MMDR Act, 1957)
+- **Order Date**: Effective from **10 October 2025**, the Ministry of Mines reclassified **all limestone as a "Major Mineral"** under the Mines and Minerals (Development and Regulation) Act, 1957.
+- **Regulatory Reform**: Abolished the historical arbitrary distinction between lime (minor mineral for kilns/building) and industrial-grade limestone (major mineral for cement/steel), ensuring transparent auctioning and nationwide regulatory uniformity.
+
+### India's First Gigawatt-Scale Data Centre & AI Hub (Visakhapatnam)
+- **Announcement**: October 2025 with an investment of **US$ 15 billion** by a global tech corporation.
+- **Capacity**: India's first AI hub with gigawatt-scale compute capacity for AI, cloud, and high-performance computing (HPC) services, supported by Andhra Pradesh state incentives.
+
+### India's First Cooperative Multi-Feed CBG Plant (Maharashtra)
+- **Inauguration**: 5 October 2025 at **Kopargaon, Ahilyanagar district (Maharashtra)** by Union Home and Cooperation Minister Amit Shah.
+- **Capacity**: Produces **~12 tonnes of Compressed Bio-Gas (CBG)** and **~75 tonnes of potash granules daily** using sugarcane press mud and distillery spent wash/molasses.
+
+### Jammu & Kashmir Chrysanthemum Garden (Srinagar)
+- **Inauguration**: 25 October 2025 by CM Omar Abdullah at **Nehru Memorial Botanical Garden, Srinagar**.
+- **Scale & Purpose**: Spread over **100 kanals (12.5 hectares)** (cost: ₹1.86 crore); conceived to extend Kashmir's tourist season into autumn beyond the spring tulip bloom.
+
+### 9th India Mobile Congress (IMC) 2025
+- **Dates & Venue**: **8 to 11 October 2025** at **Yashobhoomi (IICC)**, Dwarka, New Delhi.
+- **Organisers**: Department of Telecommunications (DoT) and Cellular Operators Association of India (COAI).
+- **Theme**: ***"Innovate to Transform"***.
+
+### Green Mobility Initiative & Suzuki e-VITARA Launch
+- **Date & Place**: **26 August 2025** at **Hansalpur, Gujarat**, inaugurated by PM Narendra Modi.
+- **Milestone**: Flagged off Suzuki's first India-manufactured global strategic battery electric vehicle (BEV) named **'e-VITARA'** for export and domestic markets.
+
+### 150th Birth Anniversary of Bhagwan Birsa Munda
+- **Observance**: Celebrated on **15 November 2025** as **Janjatiya Gaurav Divas**.
+- **Janjatiya Gaurav Varsh (JJGV)**: Observed by the Ministry of Tribal Affairs from 15 November 2024 to 15 November 2025, culminating in a nationwide fortnight (*Janjatiya Gaurav Varsh Pakhwada*, 1–15 Nov 2025).
+
+### Central Opium Cultivation License Policy 2025–26
+- **Notification**: Notified for the crop year **1 October 2025 to 30 September 2026** regulating licensed poppy cultivation across notified tracts in Madhya Pradesh, Rajasthan, and Uttar Pradesh.
+
 ---
 
 ## Practice Zone — UPPCS Format

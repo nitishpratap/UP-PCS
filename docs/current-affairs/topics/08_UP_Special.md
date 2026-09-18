@@ -459,6 +459,36 @@ The UP Cabinet cleared two big road projects to grow the state’s expressway ne
   - **Anpara (Sonbhadra)**: Rank 5 (Score: 187.5).
   - **Rae Bareli**: Rank 7 (Score: 186.5).
 
+#### Swachh Survekshan 2024–25 — UP Cities Complete Performance
+- **Cleanest Ganga City**: **Prayagraj** declared India's **Cleanest Ganga City**.
+- **Special Ministerial Recognition**: **Swachh Mahakumbh 2025** received a special ministerial recognition from MoHUA.
+- **Safaimitra Surakshit Shehar (Sanitation Worker Safe City)**:
+  - **Gorakhpur**: **Rank 3** in India.
+  - **Prayagraj**: **Rank 5** in India.
+- **Presidential Awardee (>10 Lakh Category)**:
+  - **Lucknow (Nagar Nigam)**: **Rank 3** in India (behind Ahmedabad and Bhopal).
+- **Super Swachh League (3–10 Lakh Category)**:
+  - **Noida**: **Rank 5** in India (ahead of Chandigarh, Mysuru, Ujjain, Gandhinagar).
+- **Top 20 Cities (>10 Lakh Population)**:
+  - **Lucknow**: 3rd | **Agra**: 10th | **Ghaziabad**: 11th | **Prayagraj**: 12th | **Kanpur**: 13th | **Varanasi**: 17th.
+- **Top 20 Cities (3–10 Lakh Population)**:
+  - **Gorakhpur**: 4th | **Moradabad**: 10th | **Mathura-Vrindavan**: 11th | **Firozabad**: 12th | **Saharanpur**: 16th | **Jhansi**: 17th | **Bareilly**: 20th.
+
+#### Lucknow Metro Rail Project Phase-1B (East-West Corridor)
+- **Cabinet Approval**: Approved by Union Cabinet on **12 August 2025**.
+- **Sanctioned Cost**: **₹5,801 crore**.
+- **Route & Alignment**: Connects **Charbagh to Vasant Kunj** (traversing the densely populated heritage areas of Old Lucknow).
+- **Route Specifications**: Total length **11.165 km** with **12 stations** (**7 underground and 5 elevated**).
+- **Total Network**: Upon operationalisation of Phase 1B, Lucknow's total active metro operational network will expand to **34 km**.
+
+#### Myanmar President Tours NETRA Complex (Greater Noida)
+- **Event**: During his official State Visit to India (30 May – 3 June 2026), Myanmar President **U Min Aung Hlaing** toured the **NTPC Energy Technology Research Alliance (NETRA)** complex located in **Greater Noida (Gautam Buddha Nagar district)** to observe clean energy, hydrogen, and renewable technology R&D.
+
+#### IIT Kanpur & Vietnam National University (VNU) Research MoU
+- **Agreement Date**: **18 September 2025** in Kanpur.
+- **Core Scope**: Bilateral academic and technological partnership between **IIT Kanpur** and **Vietnam National University** focusing on **AI, smart city systems, drone technology, AI-driven healthcare, and agricultural drone applications**.
+- **Key Delegations**: Included Dr. Nguyen Thu Huong (Vice Rector) and Prof. Nguyen Dinh Duc (Dean of Civil Engineering, VNU).
+
 ---
 
 ## Practice Zone — UPPCS Format
