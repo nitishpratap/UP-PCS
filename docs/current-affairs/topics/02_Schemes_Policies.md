@@ -15,6 +15,15 @@
 
 ---
 
+## High-Yield Scheme Foundation Anchors (Late 2025)
+
+| Scheme / Mission | Approval Date & Ministry | Financial Outlay | Core Objective |
+| :--- | :--- | :--- | :--- |
+| **Mission for Aatmanirbharta in Pulses** | **1 October 2025** <br> (Union Cabinet) | **₹11,440 crore** <br> (2025–26 to 2030–31) | Self-sufficiency in pulses production, expanding acreage, seed hubs, and assured procurement. |
+| **MY Bharat Mobile App** | **1 October 2025** <br> (Ministry of Youth Affairs) | — | Digital empowerment platform for youth leadership and community participation. |
+
+---
+
 ## January 2026
 
 ### Plan to merge farm schemes into PM-RKVY | around 12 January 2026
@@ -52,12 +61,26 @@ NITI Aayog started a short, intensive drive to fill gaps in basic development in
 
 - Period: **28 January 2026 to 14 April 2026** (about three months).
 - It works under two older programmes:
- - **Aspirational Districts Programme (ADP)** — started **January 2018**, covers **112** districts.
- - **Aspirational Blocks Programme (ABP)** — started **January 2023**, covers **513** blocks.
+  - **Aspirational Districts Programme (ADP)** — started **January 2018**, covers **112** districts.
+  - **Aspirational Blocks Programme (ABP)** — started **January 2023**, covers **513** blocks.
 - Aim: reach full saturation on selected development indicators.
 
+### Export Promotion Mission | launched January 2026
+
+**What happened**
+The Union Government formally operationalised the **Export Promotion Mission** (approved November 2025) to bolster India's merchandise and services export competitiveness.
+
+**Core facts**
+- **Implementation Period:** **2025–26 to 2030–31** (aligned with 16th FC period).
+- **Total Financial Outlay:** **₹25,060 crore**.
+- **Key Interventions:** Launched two key interventions under the ***Niryat Protsahan*** sub-scheme focused specifically on strengthening exports from **Micro, Small and Medium Enterprises (MSMEs)**.
+
+### Atal Pension Yojana (APY) Extension | 21 January 2026
+
+- **What happened:** The Union Cabinet approved the continuation of the **Atal Pension Yojana (APY)** up to **FY 2030–31** to sustain social security coverage for unorganised sector workers.
+
 !!! tip "UP tip"
- Older UPPCS papers already ask how many UP districts are in the Aspirational Districts list. Keep that state number ready when you revise UP.
+  Older UPPCS papers already ask how many UP districts are in the Aspirational Districts list. Keep that state number ready when you revise UP.
 
 ---
 
@@ -170,6 +193,90 @@ Nominations for the **Subhash Chandra Bose Aapda Prabandhan Puraskar** can now b
 - Individual: about **₹5 lakh** plus certificate.
 - Institution: about **₹51 lakh** plus certificate (to be used for disaster work).
 
+### Bharat Audyogik Vikas Yojna (BHAVYA) | March 2026
+
+**What happened**
+The Union Cabinet approved **BHAVYA (Bharat Audyogik Vikas Yojna)**, an umbrella scheme for the comprehensive development and modernization of industrial parks across India.
+
+**Core facts**
+- **Nodal Department:** **DPIIT** (Department for Promotion of Industry and Internal Trade, Ministry of Commerce and Industry).
+- **Approved Outlay:** **₹33,660 crore**.
+- **Objective:** Financing state-of-the-art infrastructure, plug-and-play industrial corridors, and smart utility facilities in new and existing industrial parks.
+
+### PM-RAHAT Scheme | Notified 19 February 2026
+
+**What happened**
+The Central Government notified the **Prime Minister - Road Accident Victims' Hospitalisation and Assured Treatment (PM-RAHAT) Scheme** to drastically reduce road crash fatalities through prompt trauma care.
+
+**Core facts**
+- **Statutory Authority**: Section 162 of the **Motor Vehicles Act, 1988** (as amended).
+- **Entitlement**: **Cashless medical treatment up to ₹1.5 lakh** per victim for a maximum period of **7 days** from the time of accident across all public and private roads.
+- **Helpline & Citizen Roles**: Seamlessly integrated with emergency helpline **112 (ERSS)**; Good Samaritans assisting victims are formally recognized as **RAH-VEER**.
+
+### Bharat VISTAAR Scheme | 17 February 2026
+
+**What happened**
+Launched in **Jaipur** by Union Agriculture Minister Shivraj Singh Chouhan and Rajasthan CM Bhajanlal Sharma, **Bharat VISTAAR** is India’s flagship farmer-centric, AI-powered Digital Public Infrastructure (DPI).
+
+**Core facts**
+- **Architecture**: Multilingual, voice-first AI platform delivering hyper-local agricultural advisory (weather, soil health, crop diagnostics, real-time APMC mandi prices).
+- **Initial Rollout**: Hindi and English across Rajasthan, Maharashtra, Bihar, and Gujarat before nationwide expansion.
+
+### Jal Jeevan Mission (JJM) 2.0 | Approved 10 March 2026
+
+**What happened**
+The Union Cabinet chaired by PM Narendra Modi approved the restructuring and expansion of the Jal Jeevan Mission into **JJM 2.0**, marking a strategic transition from physical infrastructure creation to a **utility-based service delivery model (24x7 treated tap water)**.
+
+**Core facts**
+- **Total Restructured Outlay**: **₹8.69 lakh crore** (Central Government share: **₹3.59 lakh crore**; additional Central assistance: ₹1.51 lakh crore).
+- **Physical Milestone**: Rural tap water connectivity expanded from 17% (3.23 crore households in August 2019) to **81.61% (15.80 crore households)** by early 2026.
+- **Target**: Universal 100% saturation covering all **19.36 crore rural households by December 2028**.
+- **Digital & Community Architecture**:
+  - **"Sujalam Bharat" Portal**: Unique Sujal village / service area IDs mapping water sources to household taps.
+  - **"Jal Arpan"**: Gram Panchayats and Village Water & Sanitation Committees (VWSC) formally certify operational sustainability before declaring a village "Har Ghar Jal".
+  - **"Jal Utsav"**: Annual community-driven awareness festival.
+
+### Gyan Bharatam National Manuscript Survey | 16 March 2026
+
+**What happened**
+The Ministry of Culture launched the **Gyan Bharatam National Manuscript Survey** to map, document, and digitise India's vast manuscript heritage.
+
+**Core facts**
+- **Objective**: Geo-tagged national mapping of rare manuscripts housed across temples, mutts, private collections, universities, and libraries.
+- **Outcome**: Development of a nationwide **"Manuscript Presence Map"** and centralized digital preservation archive.
+- **Four-Stage Framework**: 1. Identification $\rightarrow$ 2. Physical Verification $\rightarrow$ 3. Cataloguing & Metadata $\rightarrow$ 4. Conservation & Digitisation.
+
+### Revised / Modified Regional Connectivity Scheme (UDAN) | 25 March 2026
+
+**What happened**
+The Union Cabinet approved the continuation of the Regional Connectivity Scheme (RCS-UDAN) as **Modified / Revised UDAN** for a 10-year term from **FY 2026–27 to 2035–36**.
+
+**Core facts**
+- **Total 10-Year Outlay**: **₹28,840 crore** (100% funded via Central budgetary support).
+- **Key Components**:
+  - **Aerodromes CAPEX**: **₹12,159 crore** over 8 years to develop 100 unserved airstrips into fully operational regional airports.
+  - **O&M Support**: ₹2,577 crore providing up to ₹3.06 crore/year for regional airports and ₹0.90 crore/year for heliports/water aerodromes (3-year support).
+  - **Modern Helipads**: **₹3,661 crore** to build 200 modern helipads (₹15 crore per unit) across hilly, island, and aspirational regions.
+- **Track Record (since Oct 2016)**: 665 routes operationalized across 95 airports/heliports, transporting over 1.64 crore passengers.
+
+### NCERT Conferred "Institution Deemed to be University" Status | 30 March 2026
+
+**What happened**
+The Union Government and UGC granted the National Council of Educational Research and Training (NCERT) the status of an **"Institution Deemed to be University under distinct category"**.
+
+**Core facts**
+- **Mandate**: Aligned with NEP 2020, empowers NCERT to independently design and award undergraduate, postgraduate, and doctoral degrees in teacher education and pedagogy while preserving its national mandate for school curricula and textbooks.
+
+### Age-Based Social Media Restrictions for Children | March 2026
+
+**What happened**
+Indian states initiated legislative moves to restrict social media access for minors, following global child safety benchmarks.
+
+**Core facts**
+- **Karnataka**: Announced a blanket ban on social media use for children **below 16 years** in its Budget speech (6 March 2026).
+- **Andhra Pradesh**: Prohibited access for children **below 13 years** (with regulations being drafted for ages 13–16).
+- **Global Benchmark**: Modeled after **Australia's** *Online Safety Amendment (Social Media Minimum Age) Act, 2024* (banning social media for under-16s).
+
 ---
 
 ## April 2026
@@ -207,9 +314,54 @@ The Union Cabinet fixed **Nutrient Based Subsidy (NBS)** rates for phosphatic an
 - Covers grades such as **DAP** and various **NPKS** fertilisers.
 - NBS for P&K fertilisers has run since **1 April 2010**.
 
+### PMGSY-III Continuation & Extension | 18 April 2026
+
+**What happened**
+The Union Cabinet approved the continuation of the **Pradhan Mantri Gram Sadak Yojana-III (PMGSY-III)** with a revised financial outlay to complete pending road and bridge infrastructure.
+
+- **Revised Financial Outlay:** **₹83,977 crore**.
+- **PMGSY at 25 Years & PMGSY-IV Launch**:
+  - PMGSY completed **25 years** in December 2025 (launched 25 Dec 2000). Overall, 7.87 lakh km constructed (95% progress).
+  - **PMGSY-IV (2024–25 to 2028–29)**: Targets construction and upgradation of **62,500 km** of rural roads with an approved outlay of **₹70,125 crore**.
+
+### JANANI Platform | Ministry of Health & Family Welfare
+
+**What happened**
+The Ministry of Health and Family Welfare launched **JANANI** (**Journey of Antenatal, Natal and Neonatal Integrated Care**) at the National Summit on Innovation and Inclusivity.
+
+**Core facts**
+- **Architecture**: Upgraded digital version of the Reproductive and Child Health (RCH) portal, providing a longitudinal electronic health record across the maternal-child care continuum.
+- **Key Innovation**: Introduction of **QR-enabled digital Mother and Child Health (MCH) cards** for instant tracking.
+- **Interoperability**: Fully interoperable with **U-WIN** (universal immunization) and **POSHAN Tracker**.
+- **Milestones**: Crossed **1.34 crore registered beneficiaries** (>30 lakh pregnant women) and generated over 30 lakh digital MCH cards.
+
+### 8th Poshan Pakhwada 2026 | 9 to 23 April 2026
+
+**What happened**
+The Ministry of Women and Child Development celebrated the nationwide **8th Poshan Pakhwada** under Mission Poshan 2.0.
+
+**Core facts**
+- **Duration**: **9 to 23 April 2026**.
+- **National Launch**: Vigyan Bhavan, New Delhi by Union Minister Annpurna Devi.
+- **Theme for 2026**: **"Maximizing Brain Development in the First Six Years of Life"**.
+- **Strategic Focus**: Emphasizing the **first 1,000 days** as the critical window for infant brain development, cognitive milestones, and nutritional foundation.
+
 ---
 
 ## May 2026
+
+### Promotion and Regulation of Online Gaming Rules, 2026 | In force 1 May 2026
+
+**What happened**
+The Central Government notified and brought into force the **Promotion and Regulation of Online Gaming Rules, 2026**, operationalizing the PROG Act, 2025.
+
+**Core facts**
+- **Enforcement Date**: **1 May 2026**.
+- **Scope & Demarcation**:
+  - Distinguishes permissible games (e-sports, educational games, social games) from prohibited online money/gambling games.
+  - Strictly prohibits the offering, operation, facilitation, and advertisement of **online money games**.
+- **Statutory Regulator**: Establishes the **Online Gaming Authority of India** as a unified digital-first regulator with mandatory registration protocols.
+- **Dispute Redressal**: Two-tier grievance redressal system; users can appeal to the Authority within **30 days**; complaints must be concluded within **90 days**.
 
 ### SARTHAK-PDS | Cabinet approval 27 May 2026
 

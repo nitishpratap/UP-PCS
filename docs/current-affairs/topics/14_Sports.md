@@ -88,6 +88,12 @@
 
 ---
 
+### 5. Other Major Championship Foundations (Late 2025)
+
+- **FIDE World Cup 2025:** Hosted in **Goa, India** (30 Oct – 27 Nov 2025). Champion: Grandmaster **Javokhir Sindarov** of Uzbekistan.
+
+---
+
 ## January 2026
 
 ### Padma sports names
@@ -120,6 +126,26 @@ The Union Budget spoke about making India stronger in sports goods manufacturing
 ### Soft UP sports note
 
 Some February compilations spoke about a possible return of big bike racing events to **Buddh International Circuit**. Add a hard date only when the calendar is confirmed.
+
+### Ranji Trophy 2025–26 | Historic Maiden Title for J&K
+
+**What happened**
+**Jammu and Kashmir** created historic sporting folklore by winning their **first-ever Ranji Trophy title** in history, defeating Karnataka in the final (held 15 October 2025 – 28 February 2026).
+
+**Core facts**
+- **Champions:** **Jammu and Kashmir** (Maiden Ranji Trophy title).
+- **Runners-up:** **Karnataka**.
+
+### Women's Premier League (WPL 2026) | 4th Edition
+
+- **Organiser:** BCCI (9 January – 5 February 2026; 5 teams).
+- **Champions:** **Royal Challengers Bengaluru (RCB)** (defeated Delhi Capitals in the final).
+- **Most Valuable Player (MVP):** **Sophie Devine** (Gujarat Giants).
+
+### Other February Championship Highlights
+
+- **Col. C. K. Nayudu Trophy Elite 2025–26:** Winner: **Tamil Nadu**; Runner-up: Maharashtra.
+- **SAFF U-19 Women's Championship 2026 (Pokhara, Nepal):** Champion: **India** (3rd title); Runner-up: Bangladesh.
 
 ---
 
@@ -178,6 +204,16 @@ The **first** Khelo India Tribal Games concluded. Host state in coverage: **Chha
 
 - IPL 2026 season created several record headlines in compilations (fastest milestones / big chase). Add a named record only when a stem needs one exact player fact.
 - Para archery: **Payal Nag** was covered as the first quadruple amputee to win a World Para Archery Series Final championship event in Bangkok.
+
+### Vaibhav Sooryavanshi's World Record | April 2026
+
+- 15-year-old batting prodigy **Vaibhav Sooryavanshi** smashed the **fastest half-century in List A cricket history off just 11 balls** against Sri Lanka A, breaking the long-standing 12-ball record of Kaushalya Weeraratne.
+
+### Other April Championship Highlights
+
+- **ISSF Junior World Cup (Cairo, Egypt | 19–27 April 2026):** **India finished First** in the overall medal standings.
+- **Youngest Palk Strait Swimmer (30 April 2026):** **Ishank Singh**, a 7-year-old swimmer from **Ranchi, Jharkhand**, became the youngest person ever to swim across the Palk Strait.
+- **Badminton Asia Championships 2026 (Ningbo, China):** India's young sensation **Ayush Shetty** bagged the **Silver medal** in Men's Singles (Gold: Shi Yu Qi of China).
 
 ---
 
@@ -242,13 +278,25 @@ India won the FIH Hockey Women’s Nations Cup hosted by **New Zealand**.
 - Qualification effect: India qualified for the **FIH Pro League**.
 - FIH HQ: **Lausanne**, Switzerland.
 
+### 2026 French Open (Roland-Garros) | Paris (24 May – 7 June 2026)
+
+**What happened**
+The clay-court Grand Slam concluded at Stade Roland-Garros in Paris.
+
+**Core winners**
+- **Men’s Singles Champion:** **Alexander Zverev** (Germany) — captured his **first-ever Grand Slam singles title**.
+- **Women’s Singles Champion:** **Mirra Andreeva** (Russia).
+
+### Indian Super League (ISL 2025–26) | Football
+
+- **Champions:** **East Bengal FC** won their **maiden ISL championship title**, defeating traditional arch-rivals Mohun Bagan Super Giant in the final.
+
 ### ICC Women’s T20 World Cup 2026 | soft start fact
 
 - Edition: **10th**.
-- Host: **England**.
+- Host: **England and Wales** (12 June – 5 July 2026).
 - Teams: **12**.
 - Defending champions: **New Zealand**.
-- Add the winner only after the final date is locked for July/August sheets.
 
 ---
 

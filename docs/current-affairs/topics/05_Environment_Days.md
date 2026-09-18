@@ -41,7 +41,9 @@ Just before World Wetlands Day, India publicly celebrated new wetlands of intern
 **Count caution**
 
 - February notes often said India had about **98** Ramsar sites after Patna + Chhari-Dhand.
+- Just preceding these in December 2025 were **Siliserh Lake** (**Alwar, Rajasthan**) and **Kopra Jalashay** (**Bilaspur, Chhattisgarh**).
 - Later: Shekha Jheel = **99**; Surha Tal = **100**; Glaw Lake = **101**.
+- With **100 Ramsar sites**, India ranks **1st in Asia** and **3rd Globally** (after the UK with 175 and Mexico with 144 sites).
 - Full living table → [Master tables](00_Master_Tables.md). Do **not** treat Surha Tal as a January public headline; its big WED announcement was in **June**.
 
 ### Solid Waste Management Rules, 2026 | notified 28 January 2026
@@ -111,9 +113,19 @@ Every year, **22 March** is **World Water Day**. It focuses on fresh water and w
 
 - **Rights. Justice. Action. For ALL Women and Girls.**
 
-### Climate and energy report notes
+### Plastic Waste Management (Amendment) Rules, 2026 | Notified 31 March 2026
 
-March coverage also highlighted India’s updated climate targets messaging and energy statistics. Fact exact NDC percentage numbers only from a primary PIB brief when you revise for mocks.
+**What happened**
+The Ministry of Environment, Forest and Climate Change (MoEFCC) notified comprehensive amendments to the Plastic Waste Management Rules, 2016 under the Environment (Protection) Act, 1986.
+
+**Core facts**
+- **Indian Standard Compliance**: All recycled plastic packaging must strictly comply with **IS 14534:2023** (*Plastics — Recycling and Marking of Products*).
+- **Feedstock Conversion is Recycling**: Converting plastic into chemical feedstock or new plastic polymers is now legally classified as **recycling**, not disposal.
+- **End-of-Life Disposal**: Broadened to formally include co-processing, waste-to-energy, waste-to-oil, and road construction.
+- **Mandatory Reusable Targets**:
+  - **Rigid Plastic Packaging (0.9 to 4.9 L/kg)**: Reuse obligations escalate from **10% (in 2025–26)** to **25% (from 2028–29 onwards)**.
+  - **Drinking Water Packaging ($\ge$4.9 L/kg)**: Reuse target rises from **70% to 85%**.
+- **Regulatory Entities**: Introduces formal definitions and liability for *Registered Environment Auditors*, *Plastic Waste Processors*, and *Sellers*.
 
 ---
 
@@ -232,8 +244,13 @@ On World Environment Day, India designated **Jai Prakash Narayan Bird Sanctuary 
 
 UP also launched the **UP Clean Air Management Project** (~**₹2,741 crore**; World Bank support; first **airshed-based** clean-air push in coverage). Full UP card → [UP Special](08_UP_Special.md).
 
-### Other June environment days
+### Other June environment days & health initiatives
 
+- **12th International Day of Yoga (21 June 2026):**
+  - **Main Venue:** Red Road, **Kolkata, West Bengal**; attended by PM Narendra Modi (~35,000 participants).
+  - **2026 Theme:** ***"Yoga for Healthy Ageing"***.
+  - **Countdowns & Heritage Venues:** 100-day countdown at Vigyan Bhawan, New Delhi; 75-day at **Lonar** (Maharashtra); 50-day at **Kanha Shanti Vanam** (Hyderabad); 25-day at **Khajuraho Group of Monuments** (Madhya Pradesh).
+- **Ladakh Single-Use Plastic Ban (19 June 2026):** Strict ban enforced against single-use plastics and open littering across the Union Territory of Ladakh to preserve fragile high-altitude Himalayan ecology.
 - **World Day to Combat Desertification and Drought (17 June):** Rangelands — Recognize. Respect. Restore.
 - **World Bicycle Day (3 June):** Cycling for a Greener Future (compilation theme).
 

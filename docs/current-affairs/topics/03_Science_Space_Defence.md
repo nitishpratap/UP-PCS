@@ -47,6 +47,17 @@
 
 ---
 
+### High-Yield Biotech & Space Foundation (Late 2025)
+
+- **First Indigenous CRISPR-Based Gene Therapy (19 Nov 2025):** India launched its first indigenous CRISPR Cas-based gene therapy for the clinical management of **Sickle Cell Disease**.
+- **First Indigenous Antibiotic — Nafithromycin:** India's first indigenously developed and approved novel macrolide antibiotic, targeted against drug-resistant respiratory infections.
+- **First Indigenous 64-Bit Microprocessor — DHRUV64 (15 Dec 2025):** India's first indigenous 64-bit dual-core microprocessor developed by **C-DAC** (Centre for Development of Advanced Computing).
+- **Spiral Galaxy 'Alaknanda' (Dec 2025):** Giant spiral galaxy discovered by Indian astrophysicists at **NCRA-TIFR**, Pune.
+- **Green Hydrogen Plant for Railways:** India's first green hydrogen production plant for powering trains commissioned at **Jind, Haryana**.
+- **Indian Space Industry E-Catalogue:** Launched as India's first digital repository mapping domestic space-sector capabilities and industrial supply chains during the **5th Indian Space Congress 2026** in New Delhi.
+
+---
+
 ## January 2026
 
 ### LR-AShM hypersonic anti-ship missile | shown on Republic Day 2026
@@ -63,6 +74,14 @@ On **26 January 2026**, during the **77th Republic Day** parade at **Kartavya Pa
 - It is a **hypersonic glide** missile. It can hit both fixed and moving ship targets.
 - Public briefings stress indigenous sensors and avionics.
 - It uses a two-stage solid rocket boost, then glides at very high speed at low altitude, which makes early radar detection harder.
+
+### Captain Hansja Sharma — Rudra Armed Helicopter Milestone (26 Jan 2026)
+
+- 27-year-old **Captain Hansja Sharma** created military history by becoming the **Indian Army's first woman pilot qualified to fly the Rudra armed attack helicopter**.
+
+### Solid Fuel Ducted Ramjet (SFDR) Test | 3 Feb 2026
+
+- DRDO successfully flight-tested the indigenous **Solid Fuel Ducted Ramjet (SFDR)** technology at ITR Chandipur, enabling extended beyond-visual-range (BVR) air-to-air missile propulsion.
 
 !!! tip "Confused pair"
  **BrahMos** is a **supersonic cruise** missile. **Pralay** is a different tactical strike missile. **LR-AShM** is the hypersonic anti-ship story of January 2026.
@@ -176,6 +195,18 @@ DRDO and the Navy tested an indigenous **air-droppable container** from a **P-8I
 - It can drop supplies of about **150 kg** to ships far at sea.
 - Useful when a ship needs urgent stores without coming to harbour.
 
+### Project 'Vayu Baan' | March 2026
+
+- The Indian Air Force (**IAF**) launched **Project Vayu Baan** to develop India's first indigenous **helicopter-launched drone system**, enabling standoff surveillance and tactical strikes.
+
+### Haven-1 — World's First Commercial Space Station
+
+- Aerospace company **Vast** announced timelines for **Haven-1**, scheduled to become the world's first commercial, privately operated space station in low Earth orbit.
+
+### CALM-Brain Repository | Bengaluru
+
+- India's first digital repository of comprehensive clinical and neuro-imaging data on major psychiatric disorders, named **CALM-Brain**, was launched in **Bengaluru**.
+
 ---
 
 ## April 2026
@@ -194,6 +225,14 @@ India’s **500 MWe Prototype Fast Breeder Reactor (PFBR)** at **Kalpakkam, Tami
 - The PFBR is the bridge in India’s **three-stage** nuclear programme toward later use of **thorium**.
 - In the longer plan, **Thorium-232** in the blanket can be converted into **Uranium-233**.
 - Built mainly with indigenous design and manufacturing.
+
+### Chandrayaan-5 (LUPEX Mission) | April 2026
+
+- ISRO and JAXA (Japan Aerospace Exploration Agency) began evaluating launch infrastructure in **Japan** for the joint **Lunar Polar Exploration (LUPEX)** mission, officially designated as **Chandrayaan-5**.
+
+### Cochin Airport — Hydrogen Buses
+
+- **Cochin International Airport** became the first airport in India to operationalise zero-emission **hydrogen-powered buses** for internal airside passenger transit.
 
 !!! trap "Easy wrong options"
  Calling PFBR a pressurised heavy water reactor. Mixing Kalpakkam with Kudankulam. Saying it already runs fully on thorium fuel today.
@@ -291,6 +330,22 @@ The maiden multilateral exercise **Pragati 2026** brought armies of **13** count
 - Name in coverage: Squadron Leader **Saanya**.
 - Qualification: Category-A Qualified Flying Instructor (**Cat-A QFI**).
 
+### VISTA Stratospheric Balloon | May 2026
+
+**What happened**
+India's first indigenous **stratospheric super-pressure balloon (SPB)**, named **VISTA**, was successfully developed and launched.
+
+**Core facts**
+- **Developer:** **Red Balloon Aerospace** (private deep-tech space startup).
+- **Launch Site:** **Vijayawada, Andhra Pradesh**.
+- **Capability:** Long-duration high-altitude atmospheric observations, near-space research, and high-altitude surveillance.
+
+### SMILE Space Mission | May 2026
+
+- **Agencies:** Joint mission of the **Chinese Academy of Sciences (CAS)** and the **European Space Agency (ESA)**.
+- **Full Form:** **Solar wind Magnetosphere Ionosphere Link Explorer**.
+- **Objective:** Deep study of solar wind interactions with Earth's magnetosphere and cosmic weather.
+
 ---
 
 ## June 2026
@@ -310,6 +365,20 @@ Coverage highlighted commissioning of indigenous Navy platforms designed by the 
 
 - **ICGS Akshay** — new-generation Fast Patrol Vessel, built by **Goa Shipyard Limited**, commissioned in Goa.
 - First indigenous **Air Cushion Vehicle** for the Coast Guard: **H-561**, first of six being built by Chowgule and Company.
+
+### Rudram-II Flight-Test | 2 June 2026
+
+**What happened**
+The Defence Research and Development Organisation (**DRDO**) and the **Indian Air Force (IAF)** successfully flight-tested the indigenous **Rudram-II** missile from a Su-30MKI fighter aircraft off the Odisha coast.
+
+**Core facts**
+- **Type:** Indigenous **Air-to-Surface** anti-radiation and precision-strike missile.
+- **Developer:** DRDO.
+- **Role:** Neutralising enemy radar installations, communication nodes, and surface-to-air missile (SAM) sites.
+
+### NASA MAVEN Mission Concluded | June 2026
+
+- NASA announced the conclusion of the long-running **MAVEN** (*Mars Atmosphere and Volatile EvolutioN*) orbital science mission exploring the history of Mars' atmospheric and water loss.
 
 ### Soft space–book hybrid
 
@@ -389,6 +458,44 @@ The first **fully indigenous** AK-203 assault rifle, named **Sher**, was manufac
 
 - **INS Nipun** — second **Nistar-class** Diving Support Vessel, built by **Hindustan Shipyard Limited**, Visakhapatnam.
 - **EOD Exercise 2026** (8th edition) — India and USA explosive ordnance disposal drills at Southern Naval Command, **Kochi**.
+
+---
+
+## Strategic Doctrines & Nuclear Roadmap (Ghatna Chakra Eye Drishti 2026)
+
+### India's First National Counter-Terrorism Policy & Strategy — PRAHAAR | 23 February 2026
+
+**What happened**
+The Ministry of Home Affairs (MHA) officially released India's first unified, formal counter-terrorism doctrine named **PRAHAAR**.
+
+**Core facts**
+- **Doctrine Framework**: Establishes an integrated, multi-agency operational blueprint combating terrorism, radicalisation, cross-border terror funding, automated cyber warfare, weaponized drones, and **CBRNED threats** (Chemical, Biological, Radiological, Nuclear, Explosive, and Digital).
+- **Core Principle**: Expressly affirms that India rejects any conceptual link between terrorism and specific religions, ethnicities, or civilisations.
+
+### Defence Forces Vision 2047 | Released 10 March 2026
+
+**What happened**
+Raksha Mantri Rajnath Singh released the apex long-term defence blueprint titled *"Defence Forces Vision 2047: A Roadmap for a Future-Ready Indian Military"* at South Block, New Delhi.
+
+**Core facts**
+- **Formulated By**: **Headquarters Integrated Defence Staff (HQ IDS)**.
+- **Three-Phase Calibrated Transformation Roadmap**:
+  1. **Era of Transition (till 2030)**: Jointness, theaterisation, structural restructuring, rapid induction of indigenous drones, AI, and border surveillance networks.
+  2. **Era of Consolidation (2030–2040)**: Operationalizing layered anti-missile and integrated air defence grids, offensive cyber capabilities, and sovereign military space architecture.
+  3. **Era of Excellence (2040–2047)**: Achieving an entirely self-reliant, all-domain expeditionary military force by the centenary of Independence.
+
+### SHANTI Act, 2025 & Long-Term Nuclear Power Roadmap
+
+**What happened**
+The **SHANTI Act, 2025** (received Presidential assent in December 2025) overhauls India's civilian nuclear legislative framework to dramatically ramp up clean base-load energy.
+
+**Core facts**
+- **National Nuclear Target**: Expanding nuclear power capacity to **100 GW by 2047** (current installed capacity stands at **8.78 GW** or ~3.1% of national power generation; slated to reach 22.38 GW by 2031–32).
+- **Private Sector Entry**: Legally permits private companies to participate in nuclear plant construction, routine operations, equipment manufacturing, and small modular reactor (SMR) development.
+- **Strategic Sovereign Monopoly**: The Central Government strictly retains exclusive control over sensitive fuel-cycle operations, uranium enrichment beyond notified thresholds, heavy water production, and spent-fuel reprocessing/nuclear waste management.
+- **Dispute Redressal Bodies**: Establishes the **Nuclear Damage Claims Commission** and the **Atomic Energy Redressal Advisory Council**.
+
+---
 
 ## Practice Zone — UPPCS Format
 

@@ -32,6 +32,30 @@
 
 ---
 
+### 1.1 Nobel Prizes 2025 (Complete Board)
+
+> **UPPCS Direct Match Alert:** Memorise the precise scientific discoveries, keywords, and country affiliations:
+
+| Category | Winner(s) | Country / Institution | Field / Key Contribution |
+| :--- | :--- | :--- | :--- |
+| **Physiology or Medicine** | **Mary E. Brunkow**, **Fred Ramsdell**, **Shimon Sakaguchi** | USA / Japan | Discoveries concerning regulatory T cells and peripheral immune tolerance mechanisms. |
+| **Physics** | **John Clarke**, **Michel H. Devoret**, **John M. Martinis** | USA / France | Discovery of **macroscopic quantum mechanical tunnelling** and energy quantisation in an electric circuit. |
+| **Chemistry** | **Omar M. Yaghi**, **Susumu Kitagawa**, **Richard Robson** | USA / Japan / Australia | For the pioneer development of **Metal-Organic Frameworks (MOFs)** and porous coordination polymers. |
+| **Literature** | **László Krasznahorkai** | Hungary | For compelling vision and dystopic postmodern literary prose capturing the human condition. |
+| **Peace** | **María Corina Machado** | Venezuela | Pro-democracy leader fighting for constitutional rights and peaceful democratic transition in Venezuela. |
+| **Economic Sciences** | **Joel Mokyr**, **Philippe Aghion**, **Peter Howitt** | USA / France / Canada | Theories on innovation, creative destruction, and historical drivers of sustained technological economic growth. |
+
+---
+
+### 1.2 Prestigious Global & State Honours (2025–2026)
+
+- **Wolf Prize in Physics 2025:** Conferred on **Prof. Jainendra K. Jain** (**first person of Indian origin** to receive the Wolf Prize in Physics), shared with James P. Eisenstein and Mordehai Heiblum. Awarded for the groundbreaking discovery and theory of ***Composite Fermions*** in fractional quantum Hall states. Presented by Israeli President Isaac Herzog.
+- **Order of the White Double Cross (Slovakia):** Slovakia's **highest state honour** was conferred on Prime Minister **Narendra Modi** during his official visit to **Bratislava** (14–16 June 2026).
+- **Miss Universe 2025 (November 2025):** Won by **Fátima Bosch** of **Mexico**.
+- **Femina Miss India World 2026 (18 April 2026):** Won by **Sadhvi Satish Sail** at KIIT, Bhubaneswar, Odisha.
+
+---
+
 ### 2. Major National Honours & Literary Awards (2024–2025)
 
 #### Bharat Ratna 2024 (5 Luminaries Conferred)
@@ -46,8 +70,9 @@
 - **Jagadguru Rambhadracharya** — Renowned polyglot Sanskrit scholar, spiritual leader, and founder/head of Tulsi Peeth at **Chitrakoot (Uttar Pradesh)**. *(High-yield UP question)*
 - *(Context: 57th Jnanpith winner was Damodar Mauzo for Konkani literature).*
 
-#### 54th Dadasaheb Phalke Award (Presented Oct 2024 for 2022)
-- Conferred on legendary actor and cultural icon **Mithun Chakraborty** at the 70th National Film Awards ceremony for his monumental contribution to Indian cinema. *(53rd recipient was Waheeda Rehman).*
+#### 54th & 55th Dadasaheb Phalke Awards
+- **55th Dadasaheb Phalke Award (for year 2023, presented Sept 2025):** Conferred on legendary Malayalam superstar and cultural icon **Mohanlal** at the 71st National Film Awards ceremony at Vigyan Bhawan, New Delhi.
+- **54th Dadasaheb Phalke Award (for year 2022, presented Oct 2024):** Conferred on legendary actor **Mithun Chakraborty** at the 70th National Film Awards ceremony. *(53rd was Waheeda Rehman).*
 
 #### 70th National Film Awards (Key Winners)
 - **Best Feature Film:** *Aattam* (The Play) — Malayalam (Directed by Anand Ekarshi).
@@ -59,8 +84,23 @@
 #### International Literary Awards
 - **Booker Prize 2024:** **Samantha Harvey** (UK) for her novel ***Orbital*** (compact novel set aboard the International Space Station; first ISS-set Booker winner).
 - **International Booker Prize 2024:** **Jenny Erpenbeck** (Author, Germany) and **Michael Hofmann** (Translator) for the German novel ***Kairos***.
-- **33rd Saraswati Samman (2023/24):** Poet **Prabha Varma** for his Malayalam novel-in-verse ***Roudra Sathwikam*** (instituted by KK Birla Foundation).
+- **35th Saraswati Samman (2025):** Conferred on eminent Bengali writer **Ramkumar Mukhopadhyay** for his acclaimed novel ***'Hara Parbati Katha'*** (instituted by KK Birla Foundation).
+- **33rd Saraswati Samman (2023/24):** Poet **Prabha Varma** for his Malayalam novel-in-verse ***Roudra Sathwikam***.
 - **33rd Vyas Samman (2023/24):** Hindi writer **Pushpa Bharati** for her memoir ***Yaadein, Yaadein aur Yaadein*** (KK Birla Foundation).
+- **Sahitya Akademi Award 2025 in Hindi (announced March 2026):** Conferred on renowned writer **Mamta Kalia** for her memoir ***'Jeete Jee Allahabad'*** (awarded across 24 official Indian languages).
+
+#### Rashtriya Vigyan Puraskar 2025 (India's Highest Science Honours)
+- **Vigyan Ratna (Posthumously):** Conferred on legendary astrophysicist **Prof. Jayant Vishnu Narlikar** for lifetime pioneering contributions to cosmology and physics.
+- **Vigyan Team Award:** Conferred on **The Aroma Mission Team** of the Council of Scientific and Industrial Research (**CSIR**) for the transformative Purple Revolution and lavender cultivation in J&K.
+- **Structure (4 Tiers):** Vigyan Ratna (lifetime achievement), Vigyan Shri (distinguished contribution), Vigyan Yuva-Shanti Swarup Bhatnagar (exceptional young scientists $\le 45$ years), and Vigyan Team.
+
+#### Other Landmark Global & National Honours (2025–2026)
+- **2026 Abel Prize (Mathematics):** Conferred on German mathematician **Gerd Faltings** for foundational work in arithmetic geometry and Diophantine equations.
+- **2026 Goldman Environmental Prize (April 2026):** Six women grassroots leaders honoured: Iroro Tanshi (Nigeria), Borim Kim (South Korea), Sarah Finch (UK), Theonila Roka Matbob (Papua New Guinea), Alannah Acaq Hurley (USA), and Yuvelis Morales Blanco (Colombia).
+- **2025 SASTRA Ramanujan Prize:** Conferred on mathematician **Alexander Smith** (Northwestern University).
+- **70th Filmfare Awards (October 2025 | Ahmedabad):** Kiran Rao's film ***Laapataa Ladies*** set a record winning **13 awards**, including Best Film.
+- **UN Dag Hammarskjöld Medal (May 2026):** Awarded posthumously to two fallen Indian UN peacekeepers: **Lance Havildar Harbhajan Singh** and **Naib Subedar Sujit Kumar Pradhan**.
+- **2026 Pulitzer Prize (Illustrated Reporting):** Indian visual journalists **Anand RK** and **Suparna Sharma** named among winners.
 
 #### Major Dhyan Chand Khel Ratna 2023/2024
 - Awarded jointly to India's star men's badminton doubles pair: **Chirag Shetty** and **Satwiksairaj Rankireddy** (Asian Games Gold 2023, World No. 1 ranking, BWF World Tour titles).

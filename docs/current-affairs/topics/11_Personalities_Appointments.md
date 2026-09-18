@@ -14,6 +14,16 @@
 
 ---
 
+## Landmark National Appointments Foundation (Late 2025)
+
+| Office / Commission | Appointee | High-Yield Prelims Detail |
+| :--- | :--- | :--- |
+| **8th Central Pay Commission** | **Justice Ranjana Prakash Desai** | Appointed **Chairperson** (October 2025); former Supreme Court Judge and Delimitation Commission head. |
+| **53rd Chief Justice of India** | **Justice Surya Kant** | Assumed office on **24 November 2025** as India's 53rd CJI. |
+| **Central Industrial Security Force (CISF)** | **Praveer Ranjan** | Appointed **Director General (DG)**. |
+
+---
+
 ## January 2026
 
 ### Leaders in the India–EU meeting
@@ -26,7 +36,11 @@ These were visiting leaders, not new Indian appointments, but names are still as
 
 Award winners from January are listed under [Awards](04_Awards.md).
 
-No major new constitutional appointment (Governor, CDS, SEBI chief, and so on) was locked as a must-score card for January in this pass.
+### Regulatory & Statutory Appointments
+- **Atomic Energy Regulatory Board (AERB):** **A. K. Balasubrahmanian** assumed office as Chairperson (1 January 2026).
+
+### National Obituaries
+- **Prof. Madhav Gadgil (Passed away 7 Jan 2026 at age 83):** Eminent ecologist and environmental champion; headed the milestone **Western Ghats Ecology Expert Panel (WGEEP / Gadgil Commission)**.
 
 ---
 
@@ -48,6 +62,9 @@ If a clear PIB appointment of a Governor, CDS, Election Commissioner, or regulat
 
 **What happened**
 Around mid-March, coverage said **Vikram K. Doraiswami** was appointed India’s Ambassador to **China**. He earlier served as High Commissioner to the United Kingdom.
+
+### National Commission for Backward Classes (NCBC)
+- **Sadhvi Niranjan Jyoti** assumed charge as the **Chairperson** of the National Commission for Backward Classes (NCBC) in March 2026.
 
 ### Other names in March news
 
@@ -101,11 +118,15 @@ Around mid-March, coverage said **Vikram K. Doraiswami** was appointed India’s
 
 ### Key appointments in June coverage
 
+- **FATF Vice-President:** India elected for the first time; **Vivek Aggarwal** appointed as Vice-President of the Financial Action Task Force for the term July 2026 – June 2027.
 - **Lokhande Prashant Sitaram** — Chairperson, **CBSE**.
 - **Saurabh Vijay** — CEO, **IndiaAI Mission** (also earlier linked with UIDAI in May coverage; fact the post named in the stem).
 - **Neelkanth Mishra** — India’s Executive Director at the **World Bank**.
 - **Dr Saibal Chattopadhyay** — Chairperson, **National Statistical Commission**.
 - **Tushar Mehta** — Solicitor General term extended (about three years in coverage).
+
+### June Obituaries
+- **Dr. Subhash C. Kashyap (Passed away 4 June 2026 at age 97):** Renowned constitutional jurist, scholar, and former **Secretary-General of the Lok Sabha** (author of authoritative treatises on Indian Parliamentary procedure and the Constitution).
 
 ### Soft tech name
 

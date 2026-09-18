@@ -15,6 +15,24 @@
 
 ---
 
+## High-Yield UP Foundation Matrix (Late 2025)
+
+> **UPPCS Pattern Alert:** Late-year announcements frequently appear in the prelims paper. Memorise these district connections and milestones:
+
+| Event / Project | District / Location | Key Prelims Fact |
+| :--- | :--- | :--- |
+| **UNESCO Creative City of Gastronomy** | **Lucknow** | Conferred in **October 2025**; joins UNESCO Creative Cities Network (UCCN). |
+| **India's 1st Swastik-shaped 'Lotus Garden'** | **CSIR-NBRI, Lucknow** | Inaugurated **15 Sept 2025** by Dr. Jitendra Singh & CM Yogi Adityanath; Area: **930 sq. metres**. |
+| **Swachh Vayu Sarvekshan 2025** | **Agra, Jhansi, Moradabad** | **Agra:** Joint 3rd (>10L category, 196/200); **Jhansi & Moradabad:** Joint 2nd (3–10L category, 198.5/200). |
+| **Ayodhya Deepotsav 2025** | **Ayodhya (Saryu River)** | **9th edition** (19 Oct 2025); Guinness World Record of **26,17,215** oil lamps (diyas). |
+| **Indigenous Hydrogen Vessel** | **Varanasi** | Commercial operations of India's first fully indigenous hydrogen fuel cell passenger vessel began **11 Dec 2025**. |
+| **4th Kashi Tamil Sangamam** | **Varanasi** | Cultural integration initiative celebrated in Varanasi (late 2025). |
+| **Basmati & Organic Training Centre** | **Pilibhit** | India's first integrated Basmati & Organic Training Centre-cum-Demonstration Farm. |
+| **Air Quality Alert (CREA Report)** | **Ghaziabad** | Ranked as the **most polluted city in India** in November 2025. |
+| **Cultural Legend Obituary** | **Varanasi** | **Pt. Chhannulal Mishra** passed away (2 Oct 2025 at 89); Kirana & Benaras gharana; Padma Vibhushan (2020), Yash Bharti; PM Modi's Varanasi proposer in 2014. |
+
+---
+
 ## January 2026
 
 ### Patna Bird Sanctuary, Etah — Ramsar site
@@ -43,6 +61,33 @@ Some lists show early-2026 designation paperwork. For prelims, fact the **month 
 - **Padma Vibhushan:** **N Rajam** (Art), Uttar Pradesh.
 - Several Padma Shri names from UP were also announced. The full list is under [Awards](04_Awards.md).
 
+### UP Statehood Day (24 January 2026) — New Schemes
+
+**What happened**
+UP Statehood Day was celebrated at **Rashtra Prerna Sthal, Lucknow**. Union Home and Cooperation Minister **Amit Shah** attended as chief guest alongside CM Yogi Adityanath.
+
+**Core schemes launched**
+- **'One District, One Cuisine' (ODOC) Scheme:** Launched on the lines of ODOP to promote traditional and local culinary heritage of each district.
+- **Sardar Patel Industrial Area Scheme:** Inaugurated to accelerate balanced industrial infrastructure across districts.
+
+### Lucknow — India's First "Zero Fresh Waste Dump City" (21 January 2026)
+
+- **Lucknow** became the **first city in Uttar Pradesh** to attain the milestone of **"Zero Fresh Waste Dump City"**, processing 100% of its daily generated municipal solid waste without sending fresh unsegregated waste to legacy landfills.
+
+### UP Governor's Residence Renamed "Jan Bhavan" (17 January 2026)
+
+- The official residence of the Governor of Uttar Pradesh in Lucknow (formerly **Raj Bhavan**) has been officially renamed as ***"Jan Bhavan"***.
+
+### 86th All India Presiding Officers' Conference (AIPOC)
+
+- **Dates & Venue:** **19–21 January 2026** at the **Uttar Pradesh Vidhan Sabha, Lucknow**.
+- **Inauguration:** Addressed by Lok Sabha Speaker **Om Birla**.
+
+### Republic Day Parade 2026 — UP Tableau
+
+- **Uttar Pradesh Tableau Theme:** ***"Culture of Bundelkhand"*** (showcasing historical heritage, local arts, and folk culture of the Bundelkhand region).
+- *(Note: Ministry of Culture Tableau theme was "150 Years of Vande Mataram").*
+
 ---
 
 ## February 2026
@@ -58,6 +103,12 @@ State Finance Minister **Suresh Khanna** presented the UP Budget for **2026–27
 - Rise over previous year: about **12.2%**.
 - Capital expenditure share: about **19.5%**.
 - Fiscal deficit target: **3%**, in line with **16th Finance Commission** guidance up to **2030–31**.
+
+**Uttar Pradesh Economic Review 2025–26 (Presented 9 February 2026)**
+
+- **UP GSDP Growth Trajectory:**
+  - GSDP in 2016–17: **~₹13.30 lakh crore**.
+  - GSDP Quick Estimates for 2024–25: **~₹30.25 lakh crore** (more than doubled).
 
 **Selected spending ideas**
 
@@ -112,6 +163,15 @@ March’s biggest national stories were the T20 World Cup, defence purchases, Na
 - CCSU Meerut AI pilot
 - Sarus crane census
 
+### Laxman Award & Rani Lakshmibai Award Hike | 24 March 2026
+
+**What happened**
+The Uttar Pradesh Government announced a substantial increase in the prize money for the state's highest sports honours: the **Laxman Award** (for male sportspersons) and the **Rani Lakshmibai Award** (for female sportspersons).
+
+**Core facts**
+- **Previous Prize Money:** ₹3.11 lakh each.
+- **Revised Prize Money:** **₹10 lakh each** (along with a bronze statue and citation).
+
 ### Soft follow-ups for later months
 
 - Fresh Ramsar count after Sheikha Jheel / Surha Tal
@@ -147,6 +207,40 @@ April coverage said commercial flights from **Jewar Airport** were targeted to s
 
 - On **28 April 2026**, the Allahabad High Court upheld land acquisition of about **1,858 hectares** for Jewar airport expansion (Phase-2 / Phase-3 related villages in **Gautam Buddha Nagar**).
 - The court stressed timely rehabilitation and resettlement under the **2013** land acquisition law.
+
+### Northern Region Agriculture Conference (24 April 2026)
+
+- **Venue:** **Lucknow, Uttar Pradesh**.
+- **Organiser:** Union Ministry of Agriculture and Farmers' Welfare.
+- **Focus:** Enhancing farm productivity, crop diversification, and organic/natural farming adoption in northern states.
+
+### Ganga Expressway Inauguration | 29 April 2026
+
+**What happened**
+Prime Minister **Narendra Modi** inaugurated the **594-kilometre-long** greenfield **Ganga Expressway** at a mega-ceremony held in **Hardoi, Uttar Pradesh**.
+
+**Core specs & prelims facts**
+- **Length:** **594 km** (access-controlled, 6-lane expandable to 8 lanes).
+- **Starting Point:** **Bijauli village** in **Meerut** district (connecting to **NH-334**).
+- **Ending Point:** **Judapur Dandu village** in **Prayagraj** district (connecting to **NH-19** near bypass).
+- **Inauguration Venue:** **Hardoi**.
+- **12 Districts Traversed (West to East):**
+  1. Meerut
+  2. Hapur
+  3. Bulandshahr
+  4. Amroha
+  5. Sambhal
+  6. Budaun
+  7. Shahjahanpur (includes a 3.5 km airstrip for emergency fighter landings)
+  8. Hardoi
+  9. Unnao
+  10. Raebareli
+  11. Pratapgarh
+  12. Prayagraj
+
+### Accidental Deaths in UP — NCRB ADSI 2024 Report (May 2026)
+
+- In the **Accidental Deaths and Suicides in India (ADSI) 2024** report released by NCRB, **Uttar Pradesh** accounted for **9.2% of all accidental deaths in India**, ranking **3rd nationally** behind Maharashtra (16.2%) and Madhya Pradesh (9.8%).
 
 ### Keep ready from older months
 
@@ -299,7 +393,35 @@ The UP Cabinet cleared two big road projects to grow the state’s expressway ne
 - Cost: about **₹7,968 crore**.
 - Length idea: about **103 km**.
 - Link: **Jhansi** to the **Bundelkhand Expressway** near **Jalaun**.
-- Why it matters: better access to **BIDA** and the **Defence Corridor** around Jhansi.
+### UP Rankings in NCRB Crime in India 2024 & PAI 2.0 (Ghatna Chakra Eye Drishti 2026)
+
+#### NCRB Crime in India 2024 — UP-Specific Rankings
+- **Crimes Against Women**:
+  - **Uttar Pradesh ranked #1 in India** with **66,398 registered cases** (followed by Maharashtra with 47,954 and West Bengal with 34,360 cases).
+- **Dowry Deaths**:
+  - **Uttar Pradesh ranked #1 in India** with **2,038 cases** involving **2,057 victims** (followed by Bihar with 1,078 cases).
+- **Atrocities Against Scheduled Castes (SC)**:
+  - **Uttar Pradesh ranked #1 in India** with **14,642 cases** registered under SC/ST (PoA) Act and related sections (highest absolute count nationally).
+
+#### Panchayat Advancement Index 2.0 (PAI 2.0) — UP Highlights (MoPR, April 2026)
+- **Framework**: Evaluates Gram Panchayats across 9 localized SDG themes.
+- **B-Grade / 'Performer' Panchayats (Score 60 to <75)**:
+  - **Uttar Pradesh ranked #1 in India** in absolute count with **18,905 Panchayats** qualifying as 'Performers' (followed by Gujarat: 11,963; MP: 11,154).
+- **D-Grade / 'Beginner' Panchayats (Score <40)**:
+  - **Uttar Pradesh had the highest absolute number** of beginner Panchayats in India at **6,124**, highlighting regional intra-state developmental divides.
+- **National Context**: Across India, **zero (0)** Panchayats achieved the A+ (Achiever, $\ge$90) grade.
+
+#### Republic Day 2026 — UP Tableau Milestone
+- **Tableau Theme**: **"Culture of Bundelkhand"**
+- **Focus**: Portrayed Bundelkhand's rich cultural and folk heritage together with modern development strides (Bundelkhand Expressway, Defence Industrial Corridor Jhansi node, and tap water transformation).
+- **Accolade**: Won **2nd Prize in the Popular Choice category** (nationwide MyGov citizen voting), ranking just behind Gujarat (*Mantra of Swadeshi*).
+
+#### AI-Led Innovation & BHASHINI Conference (Lucknow, Jan 2026)
+- **Host & Venue**: **Lucknow** (held on **20 January 2026**).
+- **Organisers**: Centre for e-Governance (CeG), Department of IT & Electronics, Government of Uttar Pradesh in collaboration with Digital India BHASHINI Division (MeitY).
+- **Goal**: Accelerating voice-first, multilingual conversational AI tools across UP's e-governance systems and public service delivery in local dialects.
+
+---
 
 ## Practice Zone — UPPCS Format
 

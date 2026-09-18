@@ -15,6 +15,26 @@
 
 ---
 
+## High-Yield Indices Foundation Matrix (2025–2026)
+
+> **UPPCS Direct Hit Formula:** Match the Index with the Publishing Body, India's Rank, and the #1 Nation:
+
+| Index / Report | Publishing Organisation | India's Rank | Top Performer | High-Yield Note |
+| :--- | :--- | :--- | :--- | :--- |
+| **World Happiness Report 2026** | UN SDSN | **116th** (out of 147) | **Finland** (9th year) | Iceland #2, Denmark #3 |
+| **World Press Freedom Index 2026** | Reporters Without Borders (RSF) | **157th** | Norway | Categorised under "Difficult situation" |
+| **Global Terrorism Index (GTI 2026)** | Institute for Economics & Peace (IEP) | **13th** | **Pakistan** (#1 most affected) | IEP headquarters in Sydney |
+| **Corruption Perceptions Index (CPI 2025)** | Transparency International (Berlin) | **91st** (out of 182) | Denmark | Released Feb 2026 |
+| **Energy Transition Index (ETI 2026)** | World Economic Forum (WEF) | **70th** | **Sweden** | DR Congo ranked last (120th) |
+| **Global Innovation Index (GII 2025)** | WIPO | **38th** | Switzerland | Top 40 consistency |
+| **Climate Change Performance Index (CCPI 2026)** | Germanwatch / NewClimate | **23rd** | No country in Top 3 | Released Nov 2025 |
+| **Asia Power Index 2025** | Lowy Institute (Australia) | **3rd** | 1st: USA, 2nd: China | Measures power in Indo-Pacific |
+| **Asia Manufacturing Index (AMI 2026)** | — | **6th** | **China** | Regional manufacturing competitiveness |
+| **Global Startup Ecosystem Report 2026** | Startup Genome | **Bengaluru (15th)** | Silicon Valley | Beijing is Asia's top AI cluster |
+| **Numbeo Crime Index 2026** | Numbeo | — | **Abu Dhabi** | Safest city in the world |
+
+---
+
 ## January 2026
 
 ### Sampoornata Abhiyan 2.0 and aspirational rankings
@@ -51,6 +71,19 @@ In the Budget speech, the Finance Minister said that close to **25 crore** peopl
 - Report submitted: **17 November 2025**.
 - Accepted for use from **2026–27 to 2030–31**.
 - About **₹1.4 lakh crore** was provided to states as Finance Commission grants in the FY 2026–27 Budget.
+
+### Corruption Perceptions Index (CPI 2025) | February 2026
+
+- **Publisher:** **Transparency International** (HQ: Berlin, Germany).
+- **India’s Rank:** **91st** among 182 countries/territories.
+- **Top Performer:** **Denmark**.
+
+### Energy Transition Index 2026 (ETI 2026)
+
+- **Publisher:** **World Economic Forum (WEF)**.
+- **India’s Rank:** **70th**.
+- **Top 3 Countries:** **Sweden** (1st), followed by Finland (2nd) and Denmark (3rd).
+- **Lowest Rank:** Democratic Republic of the Congo (120th).
 
 ### UP ranking note
 
@@ -112,6 +145,66 @@ The **Henley Passport Index** ranked passports by visa-free access.
 - Publisher family: **Henley & Partners** (uses IATA data).
 - Top passport in coverage: **Singapore** (about **192** visa-free destinations).
 - **India** around **rank 78** (about **56** visa-free destinations).
+
+### World Press Freedom Index 2026 | May 2026
+
+**What happened**
+Reporters Sans Frontières (**RSF** / Reporters Without Borders) released the 2026 edition of the World Press Freedom Index.
+
+**Core facts**
+- **Publisher:** **RSF** (HQ: Paris, France).
+- **India’s Rank:** **157th**.
+- **Category:** India was classified in the **"Difficult situation"** bracket (RSF classifies countries into 5 categories: Good, Satisfactory, Problematic, Difficult, Very Serious).
+
+### Sample Registration System (SRS) Bulletin 2024 | May 2026
+
+**What happened**
+The Office of the Registrar General & Census Commissioner, India (**ORGI**, Ministry of Home Affairs) released the **SRS Bulletin 2024**, tracking national demographic trends.
+
+**Core demographic indicators**
+- **Birth Rate:** Dropped from **21 per 1,000 population** (in 2014) to **18.3 per 1,000 population** (in 2024).
+- **Death Rate:** Dropped from **6.7 per 1,000 population** (in 2014) to **6.4 per 1,000 population** (in 2024).
+
+### Panchayat Advancement Index 2.0 (PAI 2.0) | 24 April 2026
+
+**What happened**
+The Ministry of Panchayati Raj released the **Panchayat Advancement Index (PAI) 2.0 Report** on the occasion of National Panchayati Raj Day (24 April 2026) evaluating Gram Panchayats across 9 localized SDG themes.
+
+**Core facts**
+- **Coverage**: **2,59,867 Gram Panchayats** participated (97.3% coverage across 27 States and 6 UTs).
+- **Non-participating State**: **West Bengal was the ONLY state that did not participate** (submitted zero data).
+- **Grade Breakdown**:
+  - **Grade A+ (Achiever, $\ge$90%)**: **Zero (0)** Panchayats in India.
+  - **Grade A (Front Runner, 75–89%)**: **3,635** Panchayats. **Tripura ranked #1** with **943 Front Runner Panchayats** (out of 1,176), followed by Telangana (624) and Andhra Pradesh (591).
+  - **Grade B (Performer, 60–74%)**: 1,18,824 Panchayats (**Uttar Pradesh ranked #1** in absolute count with 18,905).
+  - **Grade D (Beginner, <40%)**: 13,689 Panchayats (**Uttar Pradesh ranked #1** in absolute count with 6,124).
+
+### Crime in India Report 2024 (NCRB) | May 2026
+
+**What happened**
+The National Crime Records Bureau (NCRB) released its annual **Crime in India 2024** report, the first to incorporate cases registered under the **Bharatiya Nyaya Sanhita (BNS)** alongside the IPC.
+
+**Core facts**
+- **Total Registered Criminal Cases**: **58.85 lakh** cases (6% decline from 62.41 lakh in 2023). Crime rate dropped from 448.3 to **418.9 per lakh population**.
+- **Cybercrime Surge**: Recorded **1,01,928 cases** (a **17.9% increase** over 2023). **72.6% of cybercrime was financial fraud** (73,987 cases).
+- **Crimes Against Women**:
+  - **Uttar Pradesh ranked #1** in total crimes against women (**66,398 cases**), followed by Maharashtra (47,954) and West Bengal (34,360).
+  - **Uttar Pradesh ranked #1 in Dowry Deaths** (**2,038 cases / 2,057 victims**), followed by Bihar (1,078).
+  - Domestic cruelty by husband/relatives accounted for **27.2%** of all crimes against women.
+- **Crimes Against Scheduled Castes (SC)**: Total 55,698 cases. **Uttar Pradesh ranked #1** with **14,642 cases**.
+- **Crimes Against Scheduled Tribes (ST)**: Total 9,966 cases (down 23.1%). **Madhya Pradesh ranked #1** with **3,165 cases**.
+- **Charge-Sheet Efficiency**: **Kerala ranked #1** among states with a **94.5% charge-sheeting rate** (Puducherry 91%, West Bengal 90.6%).
+- **Drug Overdose Deaths**: Rose 50% to **978 deaths**. **Tamil Nadu reported highest** (313 deaths), followed by Punjab (106).
+
+### NITI Aayog School Education System Report | May 2026
+
+**What happened**
+NITI Aayog released a comprehensive evaluation titled *"School Education System in India: Temporal Analysis and Policy Roadmap for Quality Enhancement"*, synthesizing UDISE+, PARAKH 2024, and NAS data.
+
+**Core facts**
+- **Scale of School Network**: **14.71 lakh schools** serving over **24.69 crore students**.
+- **Primary vs Higher Secondary Access**: Near-universal access achieved at primary level; Gross Enrolment Ratio (GER) at Higher Secondary level stands at **58.4%**.
+- **Key Bottleneck Identified**: Sharp drop in transition rates post-upper-primary and acute need for digital infrastructure in smaller/remote rural schools.
 
 ### Soft ranking follow-ups
 

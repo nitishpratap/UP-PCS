@@ -57,6 +57,13 @@ Before you finish reading any international news, answer these in simple words:
 
 ---
 
+### 5. UNESCO Intangible Cultural Heritage Session (December 2025 | New Delhi)
+- **Venue & Chair:** 20th session of the Intergovernmental Committee for the Safeguarding of the Intangible Cultural Heritage held at **Red Fort, New Delhi** (8–13 December 2025); chaired by **Vishal V. Sharma** (India's Permanent Delegate to UNESCO).
+- **Landmark Inscription:** **Deepavali** was inscribed on the **UNESCO Representative List of the Intangible Cultural Heritage of Humanity**.
+- **India's Total Count:** Increased to **16** intangible cultural heritage elements inscribed on UNESCO's list.
+
+---
+
 ## January 2026
 
 ### India–EU leaders’ meeting | 27 January 2026 | New Delhi
@@ -184,6 +191,12 @@ The UN Security Council voted on a resolution about reopening the **Strait of Ho
 - The UK Parliament passed the **Tobacco and Vapes Bill** path that blocks cigarette sales for people born on or after **1 January 2009**.
 - **Turkey** tightened social-media access rules for children under **15**.
 
+### 9th Indian Ocean Conference (IOC 2026) | 10–12 April 2026
+
+- **Host Country:** **Mauritius**.
+- **Theme:** ***"Collective Stewardship for Indian Ocean Governance"***.
+- **Significance:** Organised in collaboration with India Foundation to address maritime security, blue economy, and ecological resilience across the Indian Ocean Region.
+
 ---
 
 ## May 2026
@@ -222,20 +235,36 @@ Prime Minister **Narendra Modi** received high civilian honours from Nordic coun
 - **Norway:** Grand Cross of the **Royal Norwegian Order of Merit**.
 - **Sweden:** **Royal Order of the Polar Star**, Commander Grand Cross.
 
+### UAE Formally Withdraws from OPEC | 1 May 2026
+
+**What happened**
+The **United Arab Emirates (UAE)** formally withdrew its membership from the **Organization of the Petroleum Exporting Countries (OPEC)** with effect from **1 May 2026**, shifting its focus toward sovereign production quota flexibility and green transition partnerships.
+
 ---
 
 ## June 2026
 
-### 52nd G7 Summit | France
+### 52nd G7 Summit | Évian-les-Bains, France | 15–17 June 2026
 
 **What happened**
-The **G7 Summit** was hosted by **France**. Leaders discussed geopolitics, global imbalances, children, and organised crime.
+The **52nd G7 Summit** was hosted by **France** at **Évian-les-Bains**, under the presidency of French President **Emmanuel Macron**. Prime Minister **Narendra Modi** represented India as an invited partner nation.
 
 **Core facts**
+- **Venue:** **Évian-les-Bains, France**.
+- **Theme:** ***"Working Together to Address Major International Challenges"***.
+- **Key Outcome:** Adoption of the *Leaders' Declaration on Tackling Migrant Smuggling*.
+- **Initiatives:** Japanese PM Sanae Takaichi introduced the *POWERR Asia* initiative.
+- **G7 members:** Canada, France, Germany, Italy, Japan, the UK, and the USA.
 
-- Host: **France**.
-- Theme: **Working Together to Address Major International Challenges**.
-- G7 members: Canada, France, Germany, Italy, Japan, the UK, and the USA.
+### 16th BRICS Agriculture Ministers' Meeting | 12–13 June 2026
+
+- **Host Venue:** **Indore, Madhya Pradesh** (held under India's BRICS Presidency).
+- **Declaration Adopted:** ***Indore Declaration*** on sustainable agriculture, digital farming, and smallholder resilience.
+
+### Multilateral Institutional Expansions (June 2026)
+
+- **New Development Bank (NDB):** **Uzbekistan** admitted as the **10th member country** of NDB.
+- **UN General Assembly (UNGA) 81st Session:** Ambassador **Khalilur Rahman** of **Bangladesh** was elected President of the 81st UNGA session (term begins 8 September 2026), defeating Andreas Kakouris of Cyprus.
 
 ### US–Iran interim pact | Islamabad MoU
 
