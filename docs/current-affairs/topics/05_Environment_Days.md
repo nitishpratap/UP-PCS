@@ -322,6 +322,50 @@ Full board → [Master tables](00_Master_Tables.md).
 
 First national guide to India’s grasslands and open natural ecosystems launched at **UNCCD COP17**, **Ulaanbaatar**.
 
+---
+
+## Environmental Policies, Wildlife & Conservation Landmarks (Ghatna Chakra Eye Drishti 2026)
+
+### Solid Waste Management (SWM) Rules, 2026
+- **Statutory Authority**: Notified by MoEFCC under the Environment (Protection) Act, 1986; **supersedes SWM Rules, 2016**.
+- **Mandatory 4-Way Waste Segregation**:
+  1. Wet waste (organic / kitchen)
+  2. Dry waste (recyclables)
+  3. **Sanitary waste** (sanitary napkins, diapers)
+  4. **Special care waste** (domestic hazardous fractions like fluorescent tubelights, waste batteries, electronics).
+- **Stringent Regulations on Bulk Waste Generators**:
+  - Defined as any entity meeting any of: (i) floor area $\ge 20,000\text{ sq m}$, (ii) water consumption $\ge 40,000\text{ L/day}$, or (iii) solid waste generation $\ge 100\text{ kg/day}$.
+  - Must process organic waste on-site or procure an **Extended Bulk Waste Generator Responsibility (EBWGR)** certificate.
+- **Tourism & Fragile Zones**: Local bodies in hilly and island regions are empowered for the first time to levy solid waste management and environmental conservation fees from tourists/visitors.
+
+### India's First Dugong Conservation Reserve (Tamil Nadu)
+- **International Milestone**: Formally recognized by the **IUCN** at the World Conservation Congress 2025 in Abu Dhabi.
+- **Location & Extent**: Located in the northern **Palk Bay, Tamil Nadu**; encompasses **448.34 sq km** including over **12,250 hectares of critical seagrass meadows**.
+- **Species Profile**: Dugong (*Dugong dugon* / Sea Cow) is India's only strictly herbivorous marine mammal; listed as **"Vulnerable to Extinction"** on the IUCN Red List and protected under Schedule I of the Wildlife (Protection) Act, 1972.
+
+### Synchronous All India Elephant Estimation (SAIEE 2021–25) — First DNA-Based Census
+- **Conducting Agency**: Wildlife Institute of India (WII) and Project Elephant under MoEFCC.
+- **National Baseline**: Estimated total population of wild Asian elephants in India is **22,446** (Confidence Interval: 18,255 to 26,645).
+- **State Rankings**:
+  - **#1 Karnataka**: **6,013 wild elephants** (highest in India).
+  - **#2 Assam**: **4,159 wild elephants**.
+  - **#3 Tamil Nadu**: **3,136 wild elephants**.
+  - **Kerala**: 2,785 wild elephants.
+  - **Uttarakhand**: 1,792 wild elephants (dominates the Shivalik & Gangetic Plains landscape).
+
+### Aravalli Hills Definition Committee (Supreme Court HPC)
+- **Judicial Intervention**: On 3 June 2026, the Supreme Court stayed previous bureaucratic mining guidelines and constituted a 5-member High Powered Expert Committee (HPC).
+- **Chairperson**: **Kanchan Devi**, Director General of the Indian Council of Forestry Research and Education (ICFRE).
+- **Mandate**: Deliver a definitive, scientifically grounded definition of the "Aravalli Hills" and "Aravalli Range" across Delhi, Haryana, Rajasthan, and Gujarat to protect the fragile green wall from illegal mining.
+
+### Swachh Survekshan 2024–25 (9th Edition)
+- **Ministry**: Ministry of Housing and Urban Affairs (MoHUA).
+- **Scale**: Assessed 4,589 urban local bodies, 58 cantonment boards, and 88 Ganga towns.
+- **Central Theme**: **"Reduce, Reuse, and Recycle"**.
+- **Key Innovations**: Introduced the **'Super Swachh League'** to evaluate consistent top performers and deployed Cleanliness Target Units (CTU) under *Swabhav Swachhata, Sanskar Swachhata*.
+
+---
+
 ## Practice Zone — UPPCS Format
 
 > **20 questions** for this sheet only — drill after you revise the months above.

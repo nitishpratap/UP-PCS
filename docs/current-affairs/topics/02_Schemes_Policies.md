@@ -21,6 +21,8 @@
 | :--- | :--- | :--- | :--- |
 | **Mission for Aatmanirbharta in Pulses** | **1 October 2025** <br> (Union Cabinet) | **₹11,440 crore** <br> (2025–26 to 2030–31) | Self-sufficiency in pulses production, expanding acreage, seed hubs, and assured procurement. |
 | **MY Bharat Mobile App** | **1 October 2025** <br> (Ministry of Youth Affairs) | — | Digital empowerment platform for youth leadership and community participation. |
+| **PM-SETU Initiative** | **4 October 2025** <br> (Ministry of Skill Development) | **₹60,000 crore** (Centrally Sponsored) | Upgrades **1,000 Government ITIs** on a **hub-and-spoke model** (200 hub ITIs and 800 spoke ITIs). |
+| **Angikaar – 2025 Campaign** | **4 September 2025** <br> (MoHUA — PMAY-U 2.0) | — | Nationwide urban saturation drive across **>5,000 ULBs** for PMAY-U 2.0 and Credit Risk Guarantee Trust (CRGFTLIH). |
 
 ---
 

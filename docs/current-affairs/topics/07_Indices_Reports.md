@@ -206,6 +206,43 @@ NITI Aayog released a comprehensive evaluation titled *"School Education System 
 - **Primary vs Higher Secondary Access**: Near-universal access achieved at primary level; Gross Enrolment Ratio (GER) at Higher Secondary level stands at **58.4%**.
 - **Key Bottleneck Identified**: Sharp drop in transition rates post-upper-primary and acute need for digital infrastructure in smaller/remote rural schools.
 
+### NIRF India Rankings 2025 (10th Edition) | Released September 2025
+
+**What happened**
+The Ministry of Education released the 10th edition of the **National Institutional Ranking Framework (NIRF) 2025**, evaluating 7,692 participating institutions across 5 core parameters: TLR (30%), RPC (30%), GO (20%), OI (10%), and Perception (10%).
+
+**Core category leaders**
+- **Overall Category**: **IIT Madras** (**Rank 1** for the 7th consecutive year, 2019–2025).
+- **Universities Category**: **IISc Bengaluru** (**Rank 1** for the 10th consecutive year).
+- **Colleges Category**: **Hindu College, Delhi** (**Rank 1** for 2nd consecutive year; Miranda House #2).
+- **Engineering**: **IIT Madras** (**Rank 1** for the 10th consecutive year).
+- **Management**: **IIM Ahmedabad** (**Rank 1**).
+- **Medical**: **AIIMS New Delhi** (**Rank 1**).
+- **Pharmacy**: **Jamia Hamdard, New Delhi** (**Rank 1**).
+- **Law**: **NLSIU Bengaluru** (**Rank 1** for the 8th consecutive year).
+- **Architecture & Planning**: **IIT Roorkee** (**Rank 1**).
+- **Innovation Category & SDGs Category**: **IIT Madras** (**Rank 1** in both).
+
+### UDISE+ 2024–25 School Education Statistics
+
+**What happened**
+The Ministry of Education released the **Unified District Information System for Education Plus (UDISE+) 2024–25** report, tracking national school infrastructure, enrollment, and teaching personnel.
+
+**Core statistical milestones**
+- **Teacher Strength Crossed 1 Crore**: Total teachers increased to **1,01,22,420** (a 6.7% expansion over 2022–23).
+- **Pupil-Teacher Ratio (PTR)**:
+  - Foundational: **10**
+  - Preparatory: **13**
+  - Middle: **17**
+  - Secondary: **21**
+  - *(All categories significantly outperform the NEP 2020 national benchmark of $\le 30:1$).*
+- **Annual Dropout Rates**:
+  - Preparatory: **2.3%**
+  - Middle: **3.5%**
+  - Secondary: **8.2%** (down from 10.9%).
+- **Gross Enrolment Ratio (GER)**: Middle school at **90.3%**; Secondary school at **68.5%**.
+- **Digital Infrastructure**: **64.7%** of schools have computers; **63.5%** have internet connectivity. Basic amenities: drinking water in **99.3%**, electricity in **93.6%**, girls' toilets in **97.3%**.
+
 ### Soft ranking follow-ups
 
 Keep March–April report facts ready (Happiness, GTI). Add named Whitley / Pulitzer winners only when a stem needs them.

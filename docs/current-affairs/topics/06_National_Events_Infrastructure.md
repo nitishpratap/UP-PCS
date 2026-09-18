@@ -414,10 +414,40 @@ A Bench of the High Court of Jammu and Kashmir and Ladakh was established for **
 - **Environmental Safeguards**: Enforces Port Waste Reception and Handling Plans under MARPOL and Ballast Water Management Conventions.
 - **Mega Ports**: Empowers Central Government to notify designated high-capacity deep-water ports as "Mega Ports".
 
-### Supreme Court Stay on UGC Equity Regulations, 2026
-- **Order Date**: 29 January 2026 (Bench of Justices Surya Kant and Ujjal Bhuyan).
-- **Status**: Kept in abeyance the newly notified *UGC (Promotion of Equity in Higher Education Institutions) Regulations, 2026*; older 2012 Regulations remain operative.
-- **Origin**: Followed Supreme Court directions in *Abeda Salim Tadvi v. Union of India (2019)* on campus discrimination and suicide prevention.
+### Supreme Court Advisory Opinion on 16th Presidential Reference (Article 143)
+- **Constitutional Reference**: Special Reference 1 of 2025 referred 14 constitutional questions regarding Governors' power over State Bills under Articles 200, 201, 142, and 361.
+- **Bench**: 5-Judge Constitution Bench (mandatory under **Article 145(3)**).
+- **Core Holdings**:
+  - **Rejection of "Deemed Assent"**: Firmly rejected the April 2025 two-judge bench ruling (*State of Tamil Nadu v. Governor of Tamil Nadu*) that purported to invent "deemed assent" under Article 142. The SC held that judicially assuming or granting assent violates the separation of powers.
+  - **No Rigid Timelines**: The Constitution intentionally avoids rigid deadlines for the Governor (Article 200) or President (Article 201); courts cannot fix artificial deadlines.
+  - **No Pocket Veto**: Governors cannot indefinitely delay or sit on Bills without reason; prolonged and unexplained inaction is unconstitutional and subject to limited judicial review.
+
+### The Constitution (One Hundred and Thirtieth Amendment) Bill, 2025
+- **Introduction**: Introduced in Lok Sabha on 20 August 2025; referred to a Joint Parliamentary Committee (JPC).
+- **Substantive Rule**: Mandates the **automatic removal from office** of the Prime Minister, Chief Minister, or any Union/State Minister if they are **arrested and detained in custody for 30 consecutive days** in connection with offences punishable with imprisonment of 5 years or more.
+- **Constitutional Articles Amended**: **Article 75, Article 164, and Article 239AA**.
+
+### Pennaiyar River Water Dispute (Article 262)
+- **Judicial Order**: On 2 February 2026, the Supreme Court directed the Union Government to notify and constitute an Inter-State Water Disputes Tribunal within one month.
+- **Basin States**: **Tamil Nadu, Karnataka, and Union Territory of Puducherry**.
+- **Historical Dispute**: Originates in Karnataka, flows through Tamil Nadu; dispute centers on the validity and interpretation of the 1892 Madras-Mysore agreement.
+
+### Election of 15th Vice President of India
+- **Election Date**: 9 September 2025 (sworn in 12 September 2025).
+- **Victor**: NDA candidate **C.P. Radhakrishnan** elected as the **15th Vice President of India**.
+- **Margin**: Secured **452 first-preference votes**, defeating INDIA bloc candidate Justice B. Sudershan Reddy (former Supreme Court judge) who received 300 votes (out of 767 cast).
+
+### Bihar Political Shift (April 2026)
+- **Resignation**: Nitish Kumar (who had taken oath for a record 10th term in November 2025) resigned as Chief Minister on 14 April 2026.
+- **Historic Oath**: On 15 April 2026, **Samrat Chaudhary** took oath as the **first Chief Minister of Bihar from the Bharatiya Janata Party (BJP)**.
+
+### National Sports Governance Act, 2025
+- **Enactment**: Passed August 2025 (assented 18 August 2025).
+- **Core Reforms**:
+  - Defines national sports bodies across 4 levels: National Olympic Committee, National Paralympic Committee, National Sports Federations, and Regional Sports Federations.
+  - **Gender Inclusion**: Mandates that the Executive Committee (maximum 15 members) must include **at least 4 women members**, 2 sportspersons of outstanding merit, and 2 elected athlete representatives.
+  - **Tenure & Age Restrictions**: Caps the age limit of office bearers at **70 years** (conditional exemption up to 75); maximum 3 terms with mandatory cooling-off periods.
+  - **National Sports Tribunal**: Establishes a specialized tribunal headed by a sitting/former Supreme Court judge or High Court Chief Justice for athlete dispute redressal.
 
 ---
 

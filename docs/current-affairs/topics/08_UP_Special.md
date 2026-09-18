@@ -421,6 +421,44 @@ The UP Cabinet cleared two big road projects to grow the state’s expressway ne
 - **Organisers**: Centre for e-Governance (CeG), Department of IT & Electronics, Government of Uttar Pradesh in collaboration with Digital India BHASHINI Division (MeitY).
 - **Goal**: Accelerating voice-first, multilingual conversational AI tools across UP's e-governance systems and public service delivery in local dialects.
 
+#### Uttar Pradesh "Gharauni Act" 2025 (Assented 2 January 2026)
+- **Official Title**: *The Uttar Pradesh Rural Population (Abadi) Records Act, 2025*.
+- **Core Purpose**: Provides statutory legal backing to rural residential (*abadi*) property records created under the **SVAMITVA** scheme (Ministry of Panchayati Raj).
+- **UP SVAMITVA Milestones**:
+  - Targeted villages: **90,573** (100% drone survey completed).
+  - Property cards prepared in **68,377 villages**.
+  - Total *Gharauni* property cards generated in UP: **1,04,86,961 (over 1.04 crore cards!)** — highest in India.
+
+#### Dharma Dhwaja Hoisting at Shri Ram Janmabhoomi Mandir (Ayodhya)
+- **Date**: **25 November 2025** (Dhwajarohan Utsav attended by PM Narendra Modi during the auspicious *Abhijit Muhurta*).
+- **Flag Specifications**: Saffron triangular flag, **10 feet high by 20 feet long**.
+- **Three Sacred Emblems**:
+  1. **Radiant Sun**: Symbol of Lord Ram's Suryavanshi lineage.
+  2. **Om**: Spiritual connection between humanity and divinity.
+  3. **Kovidara Tree**: Emblem of Ayodhya's ancient dynasty and flag tradition.
+
+#### Kashi Tamil Sangamam 4.0 (Varanasi — Dec 2025)
+- **Dates & Venue**: **2 to 15 December 2025** in **Varanasi** (valedictory on 30 Dec 2025 attended by VP C.P. Radhakrishnan).
+- **Central Theme**: **"Let Us Learn Tamil - Tamil Karkalam"** (focus on youth exchange and everyday spoken Tamil).
+- **Knowledge Anchors**: Ministry of Education with **IIT Madras** and **Banaras Hindu University (BHU)**.
+
+#### Swachh Vayu Sarvekshan 2025 — Full UP City Performance
+- **Category-1 (>10 Lakh Population)**:
+  - **Agra**: **Rank 3** in India (Score: 196) (joint 3rd with Surat).
+  - **Kanpur**: **Rank 5** (Score: 192.2).
+  - **Prayagraj**: Rank 7 (Score: 188).
+  - **Varanasi**: Rank 11 (Score: 184).
+  - **Ghaziabad**: Rank 12 (Score: 183).
+  - **Lucknow**: Rank 15 (Score: 179).
+- **Category-2 (3–10 Lakh Population)**:
+  - **Moradabad & Jhansi**: **Joint Rank 2** in India (Score: 198.5).
+  - **Gorakhpur & Firozabad**: Joint Rank 5 (Score: 195).
+  - **Bareilly**: Rank 7 (Score: 189.5).
+  - **Noida**: Rank 9 (Score: 184.2).
+- **Category-3 (<3 Lakh Population)**:
+  - **Anpara (Sonbhadra)**: Rank 5 (Score: 187.5).
+  - **Rae Bareli**: Rank 7 (Score: 186.5).
+
 ---
 
 ## Practice Zone — UPPCS Format
