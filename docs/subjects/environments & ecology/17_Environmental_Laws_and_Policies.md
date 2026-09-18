@@ -86,6 +86,8 @@
 
 **Identity:** Art 48A | Art 51A(g) | Art 21 expansion | Concurrent List (समवर्ती सूची) | Rio principles in SC
 
+![India's Environmental Legal Regime: Constitutional Anchors, Timeline and Clearance Tracks](images/env_ch17_01_india_environmental_legislation_timeline.png)
+
 - **Environmental law** in India combines **constitutional duties**, **statutory Acts**, and **Supreme Court/NGT jurisprudence**.
 - **Article 48A** (DPSP) directs the **State** to protect and improve the environment and safeguard forests and wildlife.
 - **Article 51A(g)** (Fundamental Duty) requires every **citizen** to protect and improve the natural environment.

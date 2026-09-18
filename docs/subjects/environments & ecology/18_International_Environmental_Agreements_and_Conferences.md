@@ -97,6 +97,8 @@
 
 **Identity:** UNEP 1972 | SD definition 1987 | Rio triple outcome 1992 | Agenda 21 trap | Earth Summit +5 | Rio+20
 
+![Multilateral Environmental Agreements (MEAs) and Global Summits Roadmap](images/env_ch18_01_global_environmental_treaties_roadmap.png)
+
 - The **Stockholm Conference (1972)** (स्टॉकहोम सम्मेलन) was the first major UN conference on the **human environment**.
 - Its theme was **"Only One Earth"** and it adopted (अंगीकृत) the **Stockholm Declaration** with 26 principles.
 - Stockholm led to creation of **UNEP** with headquarters in **Nairobi, Kenya**.

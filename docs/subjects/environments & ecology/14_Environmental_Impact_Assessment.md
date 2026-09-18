@@ -85,6 +85,8 @@ Environmental Impact Assessment (EIA) (पर्यावरण प्रभा�
 
 **Identity:** EPA 1986 | EIA Notification 2006 | Category A/B | Four stages | EC before construction
 
+![EIA Notification 2006: Dual-Tier Clearance Architecture and 4-Stage Workflow](images/env_ch14_01_eia_notification_2006_workflow_architecture.png)
+
 - **Environmental Impact Assessment (EIA)** is a systematic study of a proposed project's likely environmental, social, and health effects **before** major decisions are taken.
 - The goal is **anticipatory prevention** — reject, redesign, or condition projects rather than repair damage after construction.
 - The **Environment (Protection) Act, 1986** is the legal base. **Section 3** empowers the Centre to notify rules requiring prior clearance.

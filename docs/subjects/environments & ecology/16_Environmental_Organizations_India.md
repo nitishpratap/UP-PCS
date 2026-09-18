@@ -87,6 +87,8 @@ MoEFCC (पर्यावरण, वन और जलवायु परिव�
 
 **Identity:** Nodal ministry | 1985/2014 | Delhi | Category A EC | PARIVESH
 
+![India's Apex Environmental Institutions: Cartographic Distribution and Mandates](images/env_ch16_01_india_environmental_institutions_map.png)
+
 - **MoEFCC** is India's **nodal ministry** for environment, forests, wildlife, and climate change policy.
 - It was established as **Ministry of Environment & Forests (MoEF) in 1985**.
 - It was renamed **MoEFCC in 2014** when climate change was formally added to the mandate.

@@ -83,6 +83,8 @@ Acid Rain | Causes | Effects | Prevention
 
 **Identity:** pH < 5.6 | H₂SO₄ + HNO₃ | Wet + dry deposition | Secondary pollutant
 
+![Acid Deposition Chemistry, Environmental pH Scale and Ecological/Monuments Impacts](images/env_ch12_01_acid_rain_mechanisms_impacts.png)
+
 - **Acid rain** is precipitation or atmospheric deposition with **pH below 5.6**, mainly from **sulphuric acid (H₂SO₄)** and **nitric acid (HNO₃)** (नाइट्रिक अम्ल).
 - **Normal unpolluted rain** has pH about **5.6**, not 7, because atmospheric **CO₂** forms weak **carbonic acid (H₂CO₃)**.
 - Anthropogenic acid rain often reaches **pH 4.0–4.5** in heavily industrial downwind areas.

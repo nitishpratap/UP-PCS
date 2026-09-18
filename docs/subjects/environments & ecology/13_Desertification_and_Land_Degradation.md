@@ -83,6 +83,8 @@ Desertification | Land Degradation | Soil Erosion
 
 **Identity:** ASDM drylands | Productivity loss | Overgrazing | UNCCD 1994
 
+![Water and Wind Soil Erosion Dynamics and Mechanical/Biological Defenses](images/env_ch13_01_water_wind_soil_erosion_stages.png)
+
 - **Desertification** is **land degradation in arid, semi-arid, and dry sub-humid (ASDM) areas** caused by climate variation and human activities.
 - It is **not** simply existing deserts like the Thar expanding. Any qualifying dryland that loses fertility and vegetation can desertify.
 - Drylands cover about **41% of Earth's land** and support roughly **2 billion people**.

@@ -85,6 +85,8 @@ In-situ (स्थान पर) Conservation (स्व-स्थाने स�
 
 **Identity:** On-site | Natural habitat | Preferred primary strategy | WPA 1972 protected areas
 
+![Biodiversity Conservation: In-Situ vs Ex-Situ Taxonomy, Seed Physiology and IUCN Risk Ladder](images/env_ch20_01_in_situ_ex_situ_conservation_taxonomy.png)
+
 - **In-situ conservation** protects species **where they naturally live**, keeping habitat, food webs, pollinators, and competitors intact.
 - NCERT and global policy treat in-situ as the **preferred primary strategy** because it preserves **ecosystem integrity**, **natural selection**, and **genetic diversity** (आनुवंशिक विविधता) in real conditions.
 - **National Parks** offer strict habitat protection under **Wildlife (Protection) Act, 1972**, with human activity restricted. **Dudhwa NP (UP)** is a Terai (तराई) in-situ example.

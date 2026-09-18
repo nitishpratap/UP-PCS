@@ -92,6 +92,8 @@
 
 **Identity:** Brundtland 1987 | Three pillars | Inter/intra-generational equity | Indicators | Natural capital
 
+![Sustainable Development: Nested Paradigms, SDG Wedding Cake and Circular Economy](images/env_ch15_01_sustainable_development_sdg_framework.png)
+
 - **Sustainable development** means meeting the needs of the present **without compromising** the ability of future generations to meet their own needs.
 - This definition comes from the **Brundtland Report (1987)** (ब्रंटलैंड रिपोर्ट), formally titled ***Our Common Future***, by the **World Commission on Environment and Development (WCED)** chaired by **Gro Harlem Brundtland**.
 - The Brundtland Report is **not** *The Limits to Growth*. That 1972 study was by the **Club of Rome**.

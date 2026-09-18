@@ -83,6 +83,8 @@ IPCC (आईपीसीसी) | UNEP (संयुक्त राष्ट्
 
 **Identity:** 1988 WMO+UNEP | Geneva | Assessment Reports | Nobel 2007 | Not policy body
 
+![Global Climate and Environmental Governance: Apex Bodies and Multilateral Finance](images/env_ch19_01_global_climate_environmental_governance_architecture.png)
+
 - The **IPCC (Intergovernmental Panel on Climate Change (जलवायु परिवर्तन))** was established in **1988** by **WMO** and **UNEP**.
 - It provides governments with **scientific assessments** of climate change, impacts, and response options.
 - **Headquarters** is in **Geneva, Switzerland**.

@@ -97,6 +97,8 @@ Ozone Layer | Ozone Depletion (ओजोन क्षरण) | Ozone Hole (ओ�
 
 **Identity:** O₃ in stratosphere | UV shield | Chapman cycle | Dobson Unit
 
+![Stratospheric Ozone: Vertical Profile, Chapman Photochemical Cycle and Antarctic Catalytic Depletion](images/env_ch11_01_ozone_layer_formation_depletion_mechanism.png)
+
 - **Ozone (O₃)** is a molecule of three oxygen atoms that absorbs harmful ultraviolet radiation.
 - The **ozone layer** lies mainly in the **stratosphere** (समतापमंडल) at about **15–35 km**, with peak concentration near **25 km**.
 - The **Chapman cycle** describes natural ozone formation when UV splits O₂ and O combines with O₂ to form O₃.
