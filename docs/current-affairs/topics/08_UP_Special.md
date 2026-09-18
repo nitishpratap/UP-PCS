@@ -563,6 +563,32 @@ The UP Cabinet cleared two big road projects to grow the state’s expressway ne
   2. **Varanasi–Siliguri High-Speed Rail Corridor** (linking Eastern UP to North-East India).
 - **Inland Waterways & Ship Repair Hub**: Under the 20 new National Waterways initiative, a dedicated **regional training centre and modern inland vessel ship-repair ecosystem** was sanctioned for **Varanasi** (alongside Patna on NW-1 Ganga).
 
+#### Uttar Pradesh Achieves 13 Ramsar Sites Milestone (World Environment Day 2026)
+- **100th Ramsar Site of India**: **Jai Prakash Narayan (Surha Tal) Bird Sanctuary**, located in **Ballia district, Uttar Pradesh**, was designated as India's **100th Ramsar site** on **5 June 2026 (World Environment Day)**.
+  - A large natural freshwater wetland in the middle Ganga floodplain, vital for migratory waterfowl and indigenous fisheries.
+- **99th Ramsar Site of India**: **Shekha Jheel Bird Sanctuary**, located in **Aligarh district, Uttar Pradesh** (17 km from Aligarh; notified 19 January 2026; hosts 249 bird species on the Central Asian Flyway).
+- **Recent Preceding Addition**: **Patna Bird Sanctuary** in **Etah district** (notified 4 December 2025; UP's smallest bird sanctuary at ~108 hectares).
+- **National Ranking**: **Uttar Pradesh ranks #2 in India with 13 Ramsar sites** (surpassed only by Tamil Nadu with 20 sites).
+
+| # | Ramsar Wetland Name | District in Uttar Pradesh | Designation / Notification Date |
+|---|---------------------|---------------------------|---------------------------------|
+| 1 | Upper Ganga River (Brijghat to Narora stretch) | Bulandshahr, Hapur, Sambhal | 8 November 2005 |
+| 2 | Nawabganj Bird Sanctuary (Shahid Chandra Shekhar Azad) | Unnao | 19 September 2019 |
+| 3 | Sarsai Nawar Jheel | Etawah | 19 September 2019 |
+| 4 | Samaspur Bird Sanctuary | Rae Bareli | 3 October 2019 |
+| 5 | Sandi Bird Sanctuary | Hardoi | 26 September 2019 |
+| 6 | Parvati Arga Bird Sanctuary | Gonda | 2 December 2019 |
+| 7 | Saman Bird Sanctuary | Mainpuri | 2 December 2019 |
+| 8 | Sur Sarovar (Keetham Lake) | Agra | 21 August 2020 |
+| 9 | Haiderpur Wetland | Muzaffarnagar & Bijnor | 13 April 2021 |
+| 10 | Bakhira Wildlife Sanctuary | Sant Kabir Nagar | 29 June 2021 |
+| 11 | Patna Bird Sanctuary | Etah | 4 December 2025 |
+| 12 | Shekha Jheel Bird Sanctuary (99th in India) | Aligarh | 19 January 2026 |
+| 13 | Jai Prakash Narayan Bird Sanctuary / Surha Tal (100th in India) | Ballia | 5 June 2026 |
+
+#### IQAir World Air Quality Report 2025 — Loni (UP) Ranked #1 Most Polluted Globally
+- **Global #1 City**: **Loni (Ghaziabad district, Uttar Pradesh)** was ranked as the **world's most polluted city** in the IQAir 2025 Report with an annual average PM2.5 concentration of **112.5 $\mu\text{g/m}^3$** (far exceeding the WHO annual guideline of 5 $\mu\text{g/m}^3$).
+
 ---
 
 ## Practice Zone — UPPCS Format

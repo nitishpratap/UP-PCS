@@ -382,6 +382,150 @@ First national guide to India’s grasslands and open natural ecosystems launche
 - **Investment**: ₹369.80 crore mobilized under PMMSY and FIDF to modernize coastal fishing harbors into climate-resilient, energy-efficient "Blue Ports".
 - **Pilot Locations**: **Vanakbara (Diu)** and **Jakhau (Gujarat)**, alongside **Karaikal (Puducherry)**.
 
+### India's 100th & 99th Ramsar Sites (World Environment Day 2026 Milestone)
+- **Historic Benchmark**: On **5 June 2026 (World Environment Day)**, India achieved the historic milestone of designating its **100th Ramsar site**.
+- **100th Ramsar Site**: **Jai Prakash Narayan (Surha Tal) Bird Sanctuary**, located in **Ballia district, Uttar Pradesh**.
+  - Geographic profile: Freshwater wetland situated in the middle stretch of the Ganga River basin; critical sanctuary for migratory waterbirds.
+- **99th Ramsar Site**: **Shekha Jheel Bird Sanctuary**, located in **Aligarh district, Uttar Pradesh** (notified as UP's 12th Ramsar site in Jan 2026 before Surha Tal became the 13th).
+  - Geographic profile: Freshwater lake situated 17 km from Aligarh; serves as an essential stopover along the **Central Asian Flyway (CAF)**; records 249 bird species (62 exclusively wetland-dependent).
+- **National Ramsar Standings**:
+  - **Top State**: **Tamil Nadu** leads India with **20 Ramsar sites**.
+  - **Runner-up**: **Uttar Pradesh** ranks **#2 in India with 13 Ramsar sites**.
+  - **Largest Wetland under Ramsar in India**: **Sundarbans** (West Bengal).
+  - **Smallest Wetland under Ramsar in India**: **Renuka Wetland** (Himachal Pradesh).
+  - **First Wetlands in India (1981)**: **Chilika Lake** (Odisha) and **Keoladeo National Park** (Rajasthan).
+  - **Continental & Global Rank**: India ranks **1st in South Asia / Asia** and **3rd globally** in total Ramsar sites (behind UK: 175 and Mexico: 144).
+
+| # | UP Ramsar Site | District | Designated / Notified |
+|---|----------------|----------|-----------------------|
+| 1 | Upper Ganga River (Brijghat to Narora stretch) | Bulandshahr / Hapur / Sambhal | 8 November 2005 |
+| 2 | Nawabganj Bird Sanctuary (Shahid Chandra Shekhar Azad) | Unnao | 19 September 2019 |
+| 3 | Sarsai Nawar Jheel | Etawah | 19 September 2019 |
+| 4 | Samaspur Bird Sanctuary | Rae Bareli | 3 October 2019 |
+| 5 | Sandi Bird Sanctuary | Hardoi | 26 September 2019 |
+| 6 | Parvati Arga Bird Sanctuary | Gonda | 2 December 2019 |
+| 7 | Saman Bird Sanctuary | Mainpuri | 2 December 2019 |
+| 8 | Sur Sarovar (Keetham Lake) | Agra | 21 August 2020 |
+| 9 | Haiderpur Wetland | Muzaffarnagar / Bijnor | 13 April 2021 |
+| 10 | Bakhira Wildlife Sanctuary | Sant Kabir Nagar | 29 June 2021 |
+| 11 | Patna Bird Sanctuary | Etah | 4 December 2025 |
+| 12 | Shekha Jheel Bird Sanctuary (99th Ramsar Site of India) | Aligarh | 19 January 2026 |
+| 13 | Jai Prakash Narayan Bird Sanctuary / Surha Tal (100th Ramsar Site of India) | Ballia | Designated 5 June 2026 |
+
+- **Recent Additions in Other States (2025–26)**:
+  - **Chhattisgarh's 1st Ramsar Site**: **Kopra Reservoir** (Bilaspur district; notified 12 December 2025).
+  - **Gujarat**: **Chhari Dhand** (Kutch; notified 16 June 2025).
+  - **Bihar**: **Gokul Reservoir**, **Udipur Lake**, and **Gogabil Lake** (all notified 13 May 2025; joining Kabartal, Nagi, and Nakati).
+  - **Rajasthan**: **Khichan Wetland** (19 Feb 2025), **Menar Wetland Complex** (19 Feb 2025), **Siliserh Lake** (7 July 2025).
+  - **Sikkim**: **Khachoedpalri Wetland** (15 July 2024).
+
+### Maitri II Research Station in Antarctica (East Antarctica)
+- **Cabinet Approval**: Ministry of Finance approved the construction of **'Maitri II'** on **4 October 2025**.
+- **Location & Target**: Proposed as India's **fourth research station in Antarctica**, located in **East Antarctica**; planned to be fully operational by **January 2029**.
+- **Historical Timeline of Indian Antarctic Stations**:
+  1. **Dakshin Gangotri**: India's 1st base (established 1983–84; submerged under ice, operated for a few years).
+  2. **Maitri**: 2nd base (operational since **1989**); situated in the **Schirmacher Oasis** (a 20-km-long ice-free stretch at 50 m altitude, 100 km inland).
+  3. **Bharati**: 3rd base (operational since **2012** in the Larsemann Hills).
+  4. **Maitri II**: 4th base (to replace aging Maitri station by Jan 2029).
+- **Executing Agency**: **National Centre for Polar and Ocean Research (NCPOR), Goa** (under Ministry of Earth Sciences - MoES).
+
+### India's First Bamboo-Based Ethanol Plant (NRL, Assam)
+- **Inauguration**: Dedicated to the nation by PM Narendra Modi on **14 September 2025** at **Numaligarh Refinery Limited (NRL)** in **Golaghat district, Assam**.
+- **Corporate Vehicle**: Established through **Assam Bio-Refinery Private Limited**, a joint venture between NRL and Finnish bio-technology leaders **Fortum and Chempolis Oy**.
+- **Feedstock & Innovation**: Uses locally cultivated **bamboo** (non-food, fast-growing, high-lignocellulosic biomass) to produce 2G bio-ethanol, minimizing food-vs-fuel conflicts and driving green industrialization across Northeast India. (Foundation stone also laid for a modern polypropylene unit).
+
+### E85 Fuel Rollout in India & Ethanol Blending Milestones
+- **Launch Date & Dignitary**: Launched on **World Environment Day (5 June 2026)** by Union Minister for Petroleum and Natural Gas **Hardeep Singh Puri** at an IndianOil retail outlet in New Delhi.
+- **Composition & Specifications**: **E85** is a high-ethanol blended automotive fuel comprising **80% to 85% ethanol and 14% to 19% petrol**, tailored for **Flex-Fuel Vehicles (FFVs)**.
+- **Flex-Fuel Vehicle Capabilities**: FFVs feature intelligent engine and fuel injection sensors that automatically detect ethanol-petrol blend ratios and can run seamlessly on blends from **E20, E85 up to E100**.
+- **Phased Commercial Rollout**:
+  - Initial phase: 48 Public Sector OMC retail outlets across India.
+  - Near-term expansion: Scaled to **500 outlets by December 2026** and approximately **5,000 outlets by December 2027**.
+  - Long-term blending target: National aggregate ethanol blending to reach nearly **26% by 2030–31**.
+- **Historic Blending Trajectory**:
+  - Blending rose from a meager **1.53% in 2014** to **20% as of 5 June 2026** — **achieving the national 20% blending target a full five years ahead of schedule**!
+- **Economic & Ecological Benefits**:
+  - E85 is priced approximately **₹20 per litre lower than conventional petrol**, transferring domestic bio-refinery benefits to consumers.
+  - FFVs operating on E85 reduce lifecycle greenhouse gas (GHG) emissions by **around 61%** compared to conventional petrol vehicles.
+
+### India's First Green Methanol Production Plant (Kandla, Gujarat)
+- **Location**: Developing at **Deendayal Port Authority (DPA)**, Kandla, Gujarat.
+- **Scale**: 5 tonne-per-day green biomethanol production facility for cleaner marine bunkering fuel.
+- **Partners**: Executed with **Thermax Energy** and **Ankur Scientific** (providing advanced biomass gasification technology).
+- **Ecological Innovation**: Uses the invasive alien weed ***Prosopis juliflora*** (Vilayati Babul) biomass as its primary feedstock — converting an aggressive ecological hazard into clean green marine fuel.
+
+### Project Great Indian Bustard (GIB) — Captive Breeding Breakthrough
+- **Status as of 14 June 2026**: Union Environment Minister Bhupender Yadav reported that the captive breeding programme added 3 more chicks, taking total hatched chicks in the 4th breeding year to **26** (18 via artificial insemination, 4 natural breeding, 4 wild-collected eggs).
+- **Total Captive Population**: Captive stock reached **94 birds** at the breeding centre.
+- **Species Profile**:
+  - Scientific Name: ***Ardeotis nigriceps*** (known locally as **Godawan**).
+  - State Bird of: **Rajasthan**.
+  - Conservation Status: **"Critically Endangered"** on IUCN Red List; listed under **Schedule I** of Wildlife (Protection) Act, 1972.
+  - Habitat: Flagship bird of dry grassland ecosystems; primarily concentrated in **Desert National Park (DNP), Jaisalmer, Rajasthan**.
+  - Historical decline: Over 1,000 individuals (1960s) $\to$ 745 (1978) $\to$ 600 (2001) $\to$ 300 (2008) $\to$ ~125 (2013).
+  - Ecological importance: Indicator of healthy grasslands; India supports 15–20% of the world's livestock on grasslands.
+
+### India's First Satellite-Tagged Ganges Soft-Shell Turtle
+- **Release Event**: On **15 May 2026**, India's first satellite-tagged Ganges soft-shell turtle was released in the 1,302 sq km **Kaziranga National Park and Tiger Reserve in Assam**.
+- **Species Profile**:
+  - Scientific Name: ***Nilssonia gangetica***.
+  - Protection: **Schedule I** under Wildlife (Protection) Act, 1972.
+  - Diagnostic feature: Differentiated from other riverine turtles by prominent **arrowhead-shaped markings** on top of its head.
+  - Ecological significance: Assam is a global freshwater turtle hotspot; of 8 soft-shell turtle species found in India, **5 species are found in the Kaziranga landscape**.
+
+### CMS COP15 — 15th Bonn Convention Conference (Campo Grande, Brazil)
+- **Dates & Venue**: Held from **23 to 29 March 2026** in **Campo Grande, Brazil**.
+- **Theme**: *"Connecting Nature to Sustain Life"*.
+- **Parent Treaty**: Convention on the Conservation of Migratory Species of Wild Animals (**CMS** / **Bonn Convention**), signed in 1979 in Bonn, Germany, under UNEP auspices.
+- **Major Outcomes**:
+  - Granted new or upgraded treaty protection to **40 species, subspecies, and populations** of migratory birds, aquatic wildlife, and terrestrial animals across CMS Appendices I and II.
+  - CMS now protects over **1,200 unique migratory species**.
+  - Final approval to 70 proposals, 15 appendix amendments, 16 Concerted Actions, and 39 resolutions.
+  - Targeted conservation measures approved for: **Cheetah, striped hyena, snowy owl, giant otter, great hammerhead shark**, and declining shorebirds.
+- **Presidency & Future Venue**:
+  - **Brazil** assumed the CMS COP Presidency for the 2026–2029 triennium.
+  - **CMS COP16** will be held in **Bonn, Germany in 2029**, marking the **50th anniversary** of the Bonn Convention (1979–2029).
+
+### "Bhavasagara" — National Repository for Deep-Sea Fauna (Kochi, Kerala)
+- **Notification**: Designated on **30 March 2026** by the Ministry of Environment, Forest and Climate Change (MoEFCC).
+- **Host Institution**: **Centre for Marine Living Resources & Ecology (CMLRE)** in Kochi, Kerala (an attached institute under the **Ministry of Earth Sciences - MoES**).
+- **Core Role**: Designated as India's **National Repository for Deep-Sea Fauna** from India's 2.37 million sq km Exclusive Economic Zone (EEZ).
+- **Holdings**: Houses over **3,560 taxonomically identified and geo-referenced voucher specimens**; serves as the official national custodian for type specimens of new deep-sea species discovered in Indian waters.
+
+### Project Him Sarovar (Ladakh Cold-Desert Water Security)
+- **Launch Date**: Launched on **10 April 2026** by **Vinay Saxena, Lieutenant Governor of Ladakh**.
+- **Focus**: Tailored for Ladakh's high-altitude cold-desert ecosystem; focuses on **scientific snow harvesting**, capturing glacial melt and seasonal snowmelt in small engineered water bodies to mitigate severe lean-season water shortages.
+- **Targets**:
+  - Phase I: 50 water bodies planned (30 in Leh, 20 in Kargil) covering ~25% of Ladakh villages (5 already completed by June 2026).
+  - Target: Scale up to 100 such high-altitude water bodies by 2027.
+
+### India Withdraws Candidature to Host COP33 UNFCCC (2028)
+- **Diplomatic Development**: India formally withdrew its bid to host **COP33**, the 33rd Conference of the Parties to the United Nations Framework Convention on Climate Change (UNFCCC), scheduled for **2028**.
+- **Background**: PM Narendra Modi had formally proposed India as COP33 host at COP28 (Dubai, Dec 2023), reiterated at the BRICS Rio Summit in July 2025.
+- **UN Regional Rotation**: Under the UN 5-regional-group system:
+  - **COP31 (2026)**: Co-hosted by **Türkiye and Australia** (Western European and Others Group - WEOG).
+  - **COP33 (2028)**: Allotted to the **African Group**; to be hosted in the capital of **Ethiopia** (Addis Ababa).
+
+### Project Cheetah — 9 Cheetahs Translocated from Botswana to Kuno NP
+- **Translocation**: Arrival of **9 wild cheetahs from Botswana** at **Kuno National Park (Sheopur district, Madhya Pradesh)**, marking the third major international cheetah batch.
+- **Historical Milestones**:
+  - Declared officially extinct in India in **1952**.
+  - Last confirmed sighting recorded in **1947 in Koriya district** (in erstwhile MP, now Chhattisgarh).
+  - **Project Cheetah** formally launched on **17 September 2022**.
+  - Batch 1: **8 cheetahs from Namibia** (released September 2022).
+  - Batch 2: **12 cheetahs from South Africa** (released February 2023).
+  - Batch 3: **9 cheetahs from Botswana** (2026).
+
+### Namo Oxygen Parks (New Delhi)
+- **Inauguration**: On World Environment Day (**5 June 2026**), Union Environment Minister Bhupender Yadav and Delhi Chief Minister Rekha Gupta inaugurated **18 Namo Oxygen Parks** across Delhi under the nationwide ***Ek Ped Maa Ke Naam*** campaign.
+- **Context**: Created as a public ecological restoration measure following the illegal felling of 1,100 mature trees in the protected Southern Ridge ("lungs of Delhi") by the Delhi Development Authority (DDA).
+
+### Andaman & Nicobar Underwater Guinness World Records (Swaraj Dweep)
+- **Event Date**: May 2026 at **Swaraj Dweep** (formerly **Havelock Island**, South Andaman).
+- **Two World Records**: Set by Andaman & Nicobar Administration to promote sustainable marine tourism:
+  1. *"Largest flag unfurled underwater"* (Indian National Tricolour).
+  2. *"Tallest human stack underwater"*.
+
 ---
 
 ## Practice Zone — UPPCS Format

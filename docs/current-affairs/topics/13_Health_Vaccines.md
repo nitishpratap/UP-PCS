@@ -336,6 +336,20 @@ Independence Day speeches also spoke about wider free hospital cover under **Ayu
 
 **International Youth Day** falls on **12 August**. The 2026 theme was **Different Contexts, Common Aspirations**.
 
+### Third Tobacco-Free Youth Campaign (Tobacco Free Youth Campaign 3.0)
+- **Launch Date & Venue**: Launched on **9 October 2025** at a hybrid event in New Delhi.
+- **Inaugurated by**: Smt. **Anupriya Patel**, Union Minister of State for Health and Family Welfare.
+- **Duration**: **60-day nationwide public health campaign**.
+- **Six Enhanced Strategies**:
+  1. Intensifying public awareness campaigns regarding health hazards of tobacco and nicotine.
+  2. Promoting tobacco-free educational institutions (ToFEI).
+  3. Strengthening enforcement of COTPA, 2003 (Cigarettes and Other Tobacco Products Act).
+  4. Promoting tobacco-free villages (*Tambaku Mukt Gaon*).
+  5. Enhancing digital and social media outreach targeting adolescents and youth.
+  6. Expanding cessation services through the National Tobacco Quitline (NTQL) and mCessation initiatives.
+
+---
+
 ## Practice Zone — UPPCS Format
 
 > **20 questions** for this sheet only — drill after you revise the months above.

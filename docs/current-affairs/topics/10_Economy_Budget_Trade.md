@@ -1036,6 +1036,35 @@ Government official estimates confirmed that gross FDI inflows into India rose t
 - **IPPB Wins Digital Payments Award 2024–25**: **India Post Payments Bank (IPPB)** clinched the **1st position among all Payments Banks in India** in the DFS Performance Index.
 - **S&P Sovereign Credit Rating Upgrade to 'BBB'**: On **14 August 2025**, S&P Global Ratings upgraded India's sovereign rating from 'BBB-' to **'BBB'** (short-term rating raised to 'A-2', outlook Stable), marking **India's first sovereign credit upgrade in 18 years (since 2007)** on the back of sustained 8.8% average GDP expansion.
 - **India Elected Co-Chair of UN-GGIM-AP (2025–28)**: India elected Co-Chair of the UN Regional Committee on Global Geospatial Information Management for Asia and the Pacific, advancing geospatial integration under PM GatiShakti.
+- **India Surpasses Brazil to Rank #3 Globally in Renewable Energy Capacity (IRENA 2026)**:
+  - As per the **Renewable Capacity Statistics 2026** released by the International Renewable Energy Agency (IRENA, based on calendar year 2025 data), India secured the **3rd rank worldwide in installed renewable energy capacity**, overtaking Brazil.
+  - **Global Leaderboard**:
+    1. **China**: 2,258.02 GW
+    2. **United States**: 467.92 GW
+    3. **India**: 250.52 GW (IRENA RE metric; MNRE domestic metric crossed 282.75 GW by May 2026)
+    4. **Brazil**: 228.20 GW
+    5. **Germany**: 199.92 GW
+    6. **Japan**: 134.53 GW
+    7. **Canada**: 110.51 GW
+    - *World Total*: 5,149.28 GW
+- **National Power Grid Expansion & Power Sufficiency FY 2025–26 (Ministry of Power / NPP)**:
+  - **Synchronous Grid Milestone**: India's national power transmission network crossed **5 lakh circuit kilometres (508,535 ckm)** of transmission lines at $\ge 220\text{ kV}$ in January 2026; transformation capacity reached **1,469,041 MVA (about 1,469.04 GVA)** by June 2026.
+  - Formally recognized by the Ministry of Power as the **world's largest synchronous national grid** (*"One Nation – One Grid – One Frequency"*).
+  - **Power Sufficiency Milestone (FY 2025–26)**:
+    - Total energy requirement: 17,07,493 MU vs energy availability: 17,06,985 MU $\to$ **Energy deficit stood at just 0.03%**!
+    - Peak power demand: 2,45,444 MW vs peak demand met: 2,45,416 MW $\to$ **Peak deficit reduced to just 0.01%**!
+  - **Non-Fossil Milestone**: India achieved the milestone of **50% cumulative electric power installed capacity from non-fossil fuel sources in June 2025** — **five years ahead of the 2030 NDC target** under the Paris Agreement (working towards 500 GW non-fossil by 2030).
+  - **Installed Capacity Breakdown (National Power Portal, June 2026)**: Total: **543,013.8 MW (543.01 GW)**:
+    - *Thermal*: 251,489.13 MW (46.3%)
+    - *Hydro (Large)*: 51,964.66 MW (9.6%)
+    - *Renewable Energy Sources (RES, excl. large hydro)*: 230,780.01 MW (42.5%) [Wind: 56,807 MW; Solar: >157,000 MW]
+    - *Nuclear*: 8,780.00 MW (1.6%)
+  - **Total Electricity Generation FY 2025–26**: **1,847.913 BU**:
+    - *Fossil Fuel Generation*: **1,306.951 BU (70.8%)** [Coal: 1,250.19 BU (67.7%), Lignite: 30.32 BU (1.6%), Gas: 26.01 BU (1.4%)].
+    - *Non-Fossil Fuel Generation*: **538.970 BU (29.2%)** [Solar: 173.53 BU (9.4%), Hydro: 167.16 BU (9.1%), Wind: 106.09 BU (5.7%), Nuclear: 55.18 BU (3.0%), BioPower: 29.20 BU (1.6%), Bhutan import: 7.81 BU (0.4%)].
+    - Solar + Wind combined generated 279.61 BU (15.14% of national electricity generation).
+- **Mizoram Ginger Mission (₹189.79 Crore)**:
+  - Launched by Union Minister for DoNER Jyotiraditya Scindia and Mizoram CM Lalduhoma as a ₹189.79 crore convergence-led mission to expand scientific ginger cultivation, organic certification, processing, and value-chain export linkages.
 
 ---
 

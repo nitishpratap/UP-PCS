@@ -838,6 +838,66 @@ A Candere Hurun India Women Leaders list put **Meena Bindra** (BIBA) at the top.
     - Standard of Living (1/18 each): Cooking Fuel, Sanitation, Drinking Water, Electricity, Housing, Assets.
   - **Poverty Cut-off**: An individual is considered multidimensionally poor if deprived in **$\ge$ 33.3% (one-third)** of the weighted indicators.
 
+### 43. India Electric Mobility Index (IEMI) 2024 | NITI Aayog
+- **Publishing Body**: **NITI Aayog** (launched to track transport sector decarbonization toward India's Net Zero 2070 goal).
+- **Scope & First in World**: World's first comprehensive **sub-national level e-mobility index**, benchmarking all **28 States and 8 Union Territories**.
+- **Structural Methodology**: Evaluates **16 core indicators across 3 foundational themes**:
+  1. *Transport Electrification*
+  2. *Charging Infrastructure*
+  3. *EV Research & Innovation*
+- **Three Performance Classifications**:
+  - **Frontrunners (Score: 65–99)**
+  - **Performers (Score: 50–64)**
+  - **Aspirants (Score: 0–49)**
+- **Key National Scores**:
+  - **Top Score**: **77** (achieved by Delhi).
+  - **National Average Score**: **39**.
+- **Overall Top Performers Ranking**:
+  - **Frontrunners**:
+    1. **Delhi (Score: 77)** — #1 in India.
+    2. **Maharashtra (Score: 68)** — #2 in India.
+    3. **Chandigarh (Score: 65)** — #3 in India.
+  - **Performers**:
+    - Karnataka (64)
+    - Tamil Nadu (59)
+    - Haryana (54)
+  - **Aspirants (Below 50)**:
+    - Odisha (49)
+    - Rajasthan (48)
+    - Chhattisgarh (48)
+- **Lowest-Scoring States/UTs**:
+  - **Dadra & Nagar Haveli and Daman & Diu**: **12** (lowest in India).
+  - **Nagaland**: **19**.
+  - **Jammu & Kashmir**: **20**.
+  - **Andaman & Nicobar Islands**: **22**.
+  - **Sikkim**: **23**.
+
+### 44. IQAir World Air Quality Report 2025 (8th Annual Edition | March 2026)
+- **Publisher**: **IQAir** (Swiss air quality technology company; released 24 March 2026; 8th annual edition).
+- **Scale of Coverage**: Analyzes PM2.5 concentrations from **9,446 cities across 143 countries, regions, and territories** (a 33% increase in West Asian monitoring coverage including Iran, Syria, Jordan; Burundi, Turkmenistan, Togo excluded due to lack of public data).
+- **WHO PM2.5 Annual Guideline (5 µg/m³)**:
+  - **Only 13 countries/territories** met the WHO annual standard of $\le 5\ \mu\text{g/m}^3$: French Polynesia, Puerto Rico, U.S. Virgin Islands, Barbados, New Caledonia, Iceland, Bermuda, Réunion, Andorra, Australia, Grenada, Panama, and Estonia.
+  - Globally, **only 14% of cities** met the WHO annual standard (down from 17% in 2024).
+- **World's Most Polluted Cities 2025 (by Annual Average PM2.5, $\mu\text{g/m}^3$)**:
+  1. **Loni, India (Uttar Pradesh)** — **112.5 $\mu\text{g/m}^3$** (#1 Most Polluted City in the World! Located in Ghaziabad district, UP).
+  2. **Hotan, China** — **109.6 $\mu\text{g/m}^3$**.
+  3. **Byrnihat, India** — **101.1 $\mu\text{g/m}^3$** (Assam–Meghalaya industrial border).
+  4. **Delhi, India** — **99.6 $\mu\text{g/m}^3$** (down from 108.3 in 2024).
+  5. **Faisalabad, Pakistan** — **98.8 $\mu\text{g/m}^3$**.
+- **World's Most Polluted Capital Cities 2025**:
+  1. **New Delhi, India** — **82.2 $\mu\text{g/m}^3$** (#1 Most Polluted Capital in the World).
+  2. **Dhaka, Bangladesh** — **68.0 $\mu\text{g/m}^3$**.
+  3. **Dushanbe, Tajikistan** — **57.3 $\mu\text{g/m}^3$**.
+  4. **N'Djamena, Chad** — **53.6 $\mu\text{g/m}^3$**.
+  5. **Kinshasa, DR Congo** — **50.2 $\mu\text{g/m}^3$**.
+- **World's Most Polluted Countries/Territories 2025**:
+  1. **Pakistan** — **67.3 $\mu\text{g/m}^3$** (#1 Most Polluted Country).
+  2. **Bangladesh** — **66.1 $\mu\text{g/m}^3$**.
+  3. **Tajikistan** — **57.3 $\mu\text{g/m}^3$**.
+  4. **Chad** — **53.6 $\mu\text{g/m}^3$**.
+  5. **Democratic Republic of the Congo** — **50.2 $\mu\text{g/m}^3$**.
+  6. **India** — **48.9 $\mu\text{g/m}^3$** (ranked **6th most polluted country globally**; improved from 50.6 $\mu\text{g/m}^3$ in 2024).
+
 ---
 
 ## Practice Zone — UPPCS Format

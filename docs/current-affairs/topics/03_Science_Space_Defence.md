@@ -816,6 +816,74 @@ The **SHANTI Act, 2025** (received Presidential assent in December 2025) overhau
 ### CR450 Next-Gen High-Speed Train
 - **Record**: China unveiled the **CR450 bullet train**, reaching an operational test speed of **453 km/h**, setting the benchmark for the world's fastest conventional passenger rail technology.
 
+### BharatGen: India's First AI Multimodal Large Language Model (MLLM)
+- **Launch Date & Forum**: Launched on **2 June 2025** by Union Minister of State (IC) for Science & Technology at the BharatGen Summit 2025.
+- **National Breakthrough**: India's first indigenously developed **Multimodal Large Language Models (MLLMs)**.
+- **Linguistic Breadth**: Purpose-built to process and generate content across **22 Indian languages**.
+- **Multimodal Capabilities**: Processes heterogeneous data formats simultaneously — text, images, audio, and video — unlike older unimodal models.
+- **Mission Framework**: Developed under the **National Mission on Interdisciplinary Cyber-Physical Systems (NM-ICPS)**.
+- **Executing Agency**: **TIH Foundation for IoT and IoE at IIT Bombay** (Technology Innovation Hub).
+
+### Kalaa Setu & BhashaSetu — Real-Time Language Tech for India
+- **Initiative**: Launched by the **Ministry of Information & Broadcasting (MIB)** through its **WaveX Startup Accelerator Platform**.
+- **WaveX Platform**: Dedicated startup accelerator launched under MIB's flagship **WAVES initiative** in March 2025 to nurture innovation across media, entertainment, and language technologies.
+- **BhashaSetu Challenge**: Real-time language translation challenge launched under WaveX on **30 June 2025**.
+- **Kalaa Setu Challenge**: Designed to advance real-time AI-powered multilingual speech and translation tools for inclusive, last-mile citizen communication.
+
+### Param Rudra Supercomputer Inaugurated at IIT Patna (Bihar's First Supercomputer)
+- **Milestone**: Patna joined India's high-performance computing map with the inauguration of **Param Rudra**, the **first supercomputer in Bihar**.
+- **Mission**: Installed under the **National Supercomputing Mission (NSM)**.
+- **Collaboration**: Institutionalized through an MoU between **IIT Patna** and the **Centre for Development of Advanced Computing (C-DAC)**.
+- **Computing Power**: Operates at **838 Teraflops (TF)**, utilizing predominantly indigenous components and running on an Indian-developed system software stack created by C-DAC.
+
+### India's First LNG-Diesel Dual-Fuel DEMU Train
+- **Operational Debut**: Indian Railways launched the country's first **LNG-diesel dual-fuel DEMU train** at **Sabarmati, Ahmedabad**.
+- **Technical Retrofit**: Driving power cars of the **1,400 HP Diesel Electric Multiple Unit (DEMU)** were retrofitted with a dual-fuel injection system.
+- **Fuel Economics & Emissions**: Utilizes Liquefied Natural Gas (LNG) to replace approximately **40% of traditional diesel consumption**, substantially curbing particulate emissions and operating expenditure.
+
+### National Shipbuilding & Heavy Industries Park, Tamil Nadu (NSHIP, TN)
+- **First-of-its-Kind SPV**: Established as India's first dedicated **Special Purpose Vehicle (SPV)** under the Government of India's **Shipbuilding Development Scheme**.
+- **Institutional Structure**: 50:50 Joint Venture between **V.O. Chidambaranar (VOC) Port Authority** (Government of India) and **SIPCOT** (State Industries Promotion Corporation of Tamil Nadu, Govt of Tamil Nadu).
+- **Strategic Vision**: Develop a mega shipbuilding and heavy industries manufacturing cluster to capture commercial merchant vessel orders and domestic defence vessel repair.
+
+### HAL Dhruv New Generation (NG) Helicopter for Civil Aviation
+- **Maiden Flight**: Successfully conducted on **30 December 2025** at HAL's Helicopter Division in **Bengaluru**.
+- **Technical Specifications**: 5.5-tonne, indigenously developed, twin-engine, all-weather multi-role helicopter derived from the Dhruv Advanced Light Helicopter (ALH) Mk-III civil platform.
+- **Propulsion & Certification**: Powered by indigenous **Shakti turboshaft engines** with Cat-A performance and AS4 certification; specifically configured for demanding offshore oil and gas logistics (such as ONGC offshore platforms).
+
+### DRAVYA Portal (Ayush Ayurvedic Database)
+- **Full Form**: **Digitized Retrieval Application for Versatile Yardstick of AYUSH Substances (DRAVYA)**.
+- **Publisher**: Ministry of Ayush.
+- **Repository Scope**: Largest comprehensive digital database of Ayurvedic ingredients, classical medicinal plants, and modern products, linking classical Sanskrit ayurvedic texts with peer-reviewed pharmacological and toxicological field studies.
+- **Phase I Target**: Catalogues standardized technical dossiers on **100 key medicinal substances**.
+
+### Rudrastra Hybrid VTOL Strike UAV
+- **Successful Firing**: Tested by the Indian Army on **11 June 2025** at the **Pokhran Firing Range, Rajasthan**.
+- **Manufacturer**: Developed indigenously by **Solar Defence and Aerospace Limited (SDAL)**.
+- **Platform Architecture**: Hybrid **Vertical Take-Off and Landing (VTOL)** unmanned aerial vehicle, merging the runway-independent vertical launch of a helicopter with the high-speed cruise efficiency of a fixed-wing aircraft.
+- **Tactical Parameters**: Total operational range of **170 km** (including target loitering); flight endurance of **~90 minutes**; armed with an **airburst warhead** for counter-insurgency and tactical battlefield interdiction.
+
+### SCOT — World's First Commercial Space Surveillance Satellite
+- **Pioneering Startup**: Commissioned by Bengaluru-based spacetech enterprise **Digantara**.
+- **Payload Name**: **SCOT (Space Camera for Object Tracking)**.
+- **Launch Details**: Launched into Low Earth Orbit (LEO) aboard **SpaceX's Transporter-12 mission** on **14 January 2025**; operational imaging initiated in March 2025.
+- **Resolution & Capabilities**: World's first commercial orbital surveillance sensor capable of detecting and tracking space debris and orbital objects as small as **5 cm** in LEO, safeguarding satellite constellations against catastrophic orbital collisions.
+
+### BSNL Soft Launches Quantum 5G FWA
+- **Debut Date & Venue**: Announced on **18 June 2025** in Hyderabad.
+- **Innovation**: Bharat Sanchar Nigam Limited (BSNL) soft-launched **Quantum 5G Fixed Wireless Access (FWA)**.
+- **Technology Profile**: Indigenous, **SIM-less** fixed-wireless broadband solution delivering gigabit fibre-like speeds wirelessly over 5G radio frequencies to homes and remote enterprises.
+
+### India International Science Festival (IISF) 2025 (11th Edition)
+- **Dates & Venue**: Held from **6 to 9 December 2025** in **Panchkula, Haryana**.
+- **Theme**: *"Vigyan Se Samriddhi: for Atmanirbhar Bharat"* (Science for Prosperity: for a Self-Reliant India).
+- **Core Mission**: Bridging traditional knowledge systems with state-of-the-art scientific research and laboratory-to-society technology transfer.
+
+### WAVES Animation Bazaar & 8th India Joy 2025 (Hyderabad)
+- **Dates & Venue**: Held on **1 November 2025** in **Hyderabad**.
+- **Organizers**: Jointly organized by Government of Telangana, TVAGA (Telangana VFX, Animation and Gaming Association), and the Union Ministry of Information & Broadcasting.
+- **Strategic Announcement**: Announced the establishment of the **Indian Institute of Creative Technologies (IICT)** in Hyderabad to serve as the premier national institute for AVGC-XR (Animation, Visual Effects, Gaming, Comics, and Extended Reality).
+
 ---
 
 ## Practice Zone — UPPCS Format
