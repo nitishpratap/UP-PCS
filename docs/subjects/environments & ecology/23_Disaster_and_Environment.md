@@ -84,6 +84,8 @@ Floods | Drought (सूखा) | Landslides | Cyclones | Heat Waves | Forest Fi
 
 **Identity:** Riverine / flash / urban | UP Ganga–Yamuna–Terai | NDMA 2005 | Sendai 2015
 
+![Disaster-Environment Interactions and Hydro-Meteorological Hazards](images/env_ch23_01_disaster_mechanisms_cyclone_drought_landslide.png)
+
 - A **flood** occurs when water overflows onto normally dry land — river channel capacity or drainage is exceeded.
 - **Riverine floods** swell slowly over days–weeks on plains. **Flash floods** follow cloudbursts in hills within hours. **Urban flooding** is waterlogging from impervious surfaces and clogged drains.
 - **UP flood rivers:** Ganga, Yamuna, Ghaghara (Saryu), Rapti, Gandak, Gomti** — monsoon inundation of the Gangetic floodplain.

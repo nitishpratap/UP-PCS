@@ -91,6 +91,8 @@ Global Environmental Geography (biomes · climate zones · world deserts · flor
 
 **Identity:** Spatial environment (पर्यावरण) patterns | Climate primary control | Latitude + continentality + altitude
 
+![Global Environmental Geography and Climatic Biome Patterns](images/env_ch25_01_global_biomes_climatic_zones_geography.png)
+
 - **Global environmental geography** studies *where* environmental systems occur and *why* — linking physical geography (climate, relief, oceans) to biomes, biodiversity, and degradation.
 - **Climate** (temperature + precipitation) is the primary control on biome distribution.
 - **Latitude:** equatorial regions receive direct sunlight year-round → high productivity and biodiversity; polar regions receive oblique rays → low productivity.

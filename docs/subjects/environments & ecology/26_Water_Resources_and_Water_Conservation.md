@@ -98,6 +98,8 @@ Water Resources | IWRM | Rainwater Harvesting | Watershed Management (वाट�
 
 **Identity:** Oceans dominate | Rivers tiny fraction | India water-stressed | Surface + groundwater
 
+![Hydrological Partitioning, Watershed Engineering and Aquifer Dynamics](images/env_ch26_01_water_resources_watershed_aquifer_dynamics.png)
+
 - Earth's water: oceans ~**97.2%** (saline (लवणीय)); polar ice/glaciers ~**2%**; groundwater ~**0.6%**; rivers/lakes ~**0.01%**.
 - India holds ~**4%** of world renewable freshwater but ~**18%** of population — per capita availability ~**1,400 m³/year** (stress below **1,700 m³**).
 - **Surface water:** rivers, lakes, reservoirs — highly seasonal under monsoon.

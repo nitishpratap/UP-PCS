@@ -82,6 +82,8 @@ Environmental Literature | Environmental Education (पर्यावरण श
 
 **Identity:** Carson / Hardin / Limits / Brundtland | Author ↔ work matching
 
+![Environmental Literature, Paradigm Shifts and Citizen Awareness](images/env_ch30_01_environmental_literature_milestones_concepts.png)
+
 - **Environmental literature** includes books and landmark reports that shaped ecological thought and policy.
 - **Rachel Carson, *Silent Spring* (1962):** exposed DDT/pesticide harm to birds, food chains, and health — triggered the modern environmental movement.
 - **Garrett Hardin, "Tragedy of the Commons" (1968):** argued individuals overuse shared resources (pasture, fisheries, air) for private gain.

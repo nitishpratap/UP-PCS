@@ -96,6 +96,8 @@ Renewable | Non-renewable | Conventional | Non-conventional | Solar | Wind | Bio
 
 **Identity:** Human-timescale replenishment | MNRE sources | Cleaner than fossils | Intermittency challenge
 
+![Energy System Taxonomy, OTEC Thermodynamics and Biofuel Generations](images/env_ch27_01_energy_classification_ocean_biofuels_matrix.png)
+
 - **Renewable energy** comes from sources replenished continuously on a human timescale — sun, wind, flowing water, tides, biomass, geothermal heat.
 - India types: solar, wind, biomass/biogas, small hydro, tidal, geothermal, waste-to-energy.
 - Advantages: lower GHG than coal/oil; cuts oil/gas import pressure; decentralised rural supply.

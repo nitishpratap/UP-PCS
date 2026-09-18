@@ -94,6 +94,8 @@ Solar Energy | Wind Energy | Biomass Energy (बायोमास ऊर्ज�
 
 **Identity:** PV + CSP | National Solar Mission 2010 | ISA Gurugram 2015 | 500 GW non-fossil 2030
 
+![Renewable Energy Generation Architectures and Biochemical Cycles](images/env_ch22_01_renewable_energy_technologies_matrix.png)
+
 - **Solar energy** is radiant light and heat from the Sun — harnessed via **photovoltaic (PV)** panels or **concentrated solar power (CSP)** (संकेंद्रित सौर ताप).
 - **PV cells** (silicon semiconductors) convert photons to DC electricity; an inverter converts to AC for the grid.
 - **CSP** uses mirrors to heat fluid, produce steam, and drive a turbine — can store heat for after-sunset generation.

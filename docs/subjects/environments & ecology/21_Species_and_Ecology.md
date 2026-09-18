@@ -87,6 +87,8 @@ Red Data Book (रेड डेटा बुक) | IUCN (आईयूसीए�
 
 **Identity:** National endangered-species catalogue | BSI plants | ZSI animals | Kolkata HQ | ≠ IUCN Red List
 
+![Ecological Systems, Species Adaptations and Ecosystem Transitions](images/env_ch21_01_species_ecology_wetlands_mangrove_coral.png)
+
 - A **Red Data Book** lists **endangered, rare, and threatened species (संकटग्रस्त प्रजातियां)** of a country or region — "red" signals conservation urgency.
 - In **India**, **BSI (Botanical Survey of India)** publishes the **Red Data Book of Indian Plants**.
 - **ZSI (Zoological Survey of India)** publishes the **Red Data Book of Indian Animals**.

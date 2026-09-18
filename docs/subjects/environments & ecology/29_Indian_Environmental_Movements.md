@@ -82,6 +82,8 @@ Chipko (चिपको) | Appiko (अप्पिको) | Silent Valley (स�
 
 **Identity:** 1973 | Reni, Uttarakhand | Tree hugging | Bahuguna, Bhatt, Gaura Devi
 
+![Historic and Contemporary Indian Environmental Movements](images/env_ch29_01_indian_environmental_movements_spatial_timeline.png)
+
 ### Cause, Course, Result
 
 **Cause:** Commercial logging threatened village forests, soil, and water security in Garhwal hills.

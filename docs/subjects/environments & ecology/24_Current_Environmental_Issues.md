@@ -85,6 +85,8 @@ Microplastics | Carbon Credit (कार्बन क्रेडिट) | Carbo
 
 **Identity:** <5 mm | Primary vs secondary | Persistent | Ganga (गंगा)/food-chain contamination
 
+![Contemporary Environmental Issues, Carbon Markets and Blue Carbon](images/env_ch24_01_carbon_markets_microplastics_blue_economy.png)
+
 - **Microplastics** are plastic particles **smaller than 5 mm** — primary (manufactured small) or secondary (fragmented from larger plastic).
 - **Primary:** microbeads in cosmetics, plastic **nurdles**, industrial abrasives.
 - **Secondary:** bags, bottles, fishing nets, and **tyre wear** breaking down — most environmental mass is secondary.

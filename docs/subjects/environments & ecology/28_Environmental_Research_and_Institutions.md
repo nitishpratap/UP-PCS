@@ -83,6 +83,8 @@ BSI | ZSI | FSI | FRI | WII | NBA | SBB | BMC | NBPGR
 
 **Identity:** 1890 | Kolkata | Plants only | Flora of India | Red Data Book (plants)
 
+![India's Ecological Research Architecture and Statutory Biodiversity Ladder](images/env_ch28_01_india_environmental_research_institutions_hierarchy.png)
+
 - **BSI** is the national organisation for survey, taxonomy, and documentation of **Indian plant diversity**.
 - Established **1890**; headquarters **Kolkata** (Central National Herbarium (पादप संग्रहालय), Shibpur, Howrah); under **MoEFCC** (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय).
 - Publishes ***Flora of India*** and state/regional floras; maintains herbarium network.
