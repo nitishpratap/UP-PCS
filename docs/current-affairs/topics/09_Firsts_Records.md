@@ -139,6 +139,14 @@ On **27 January 2026**, India and the EU announced that FTA negotiations were co
 - **Kaziah Liz Mejo** — first Kerala Miss Universe India winner in about 64 years (coverage).
 - Made-in-India **C-295** defence transport aircraft flight success highlighted in I-Day speech.
 
+### Other Notable National & State Firsts (Eye Drishti 2026)
+- **First Indian State to Conduct Mobile Phone e-Voting**: Bihar (municipal bypolls on 28 June 2025 across 6 urban local bodies).
+- **India's Largest Battery-Based Solar Plant**: Operationalized at **Kajra (Lakhisarai district, Bihar)** — 301 MW solar generation paired with a 495 MWh Battery Energy Storage System (BESS).
+- **India's First AI-Based Cyber Helpline Call Centre**: Automated triage and complaint registration launched for helpline **1930** in Bihar.
+- **Third NIFTEM in India**: Sanctioned at **Hajipur (Vaishali, Bihar)** across 100 acres (after Kundli, Haryana and Thanjavur, Tamil Nadu).
+- **India's First Gold in World Para Athletics High Jump T63**: Won by **Shailesh Kumar** with an Asian & Championship record clearance of **1.91 metres**.
+- **First Leader from the BJP to become Bihar Chief Minister**: **Samrat Choudhary** (sworn in as 24th CM on 15 April 2026).
+
 ## Practice Zone — UPPCS Format
 
 > **20 questions** for this sheet only — drill after you revise the months above.

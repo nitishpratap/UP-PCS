@@ -864,6 +864,12 @@ The UP Cabinet cleared two big road projects to grow the state’s expressway ne
 #### India's First Indigenous Hydrogen-Powered Water Taxi (Varanasi)
 - **Green Maritime Transport**: Flagged off by Union Minister Sarbananda Sonowal on **11 December 2025 in Varanasi** on the Ganga River; powered by hydrogen fuel cell modules with zero tailpipe carbon emissions.
 
+#### 16th Hockey India Sub-Junior Men National Championship (Gold for UP)
+- **Sports Glory**: Held at **Rajgir Sports Complex (Bihar)** in 2026; **Uttar Pradesh won the Gold Medal** by defeating Madhya Pradesh **5–2** in the final (Silver: MP; Bronze: Punjab).
+
+#### ABDM Scan-and-Share OPD Registrations (UP Ranked #2 in India)
+- **Digital Health Milestone**: In the National Health Authority's Ayushman Bharat Digital Mission (ABDM) rankings, Uttar Pradesh secured the **#2 rank in India** with **2.25 crore online OPD registrations** generated via Scan-and-Share QR codes (standing second only to Bihar's 2.94 crore out of 11.38 crore national registrations).
+
 ---
 
 ## Practice Zone — UPPCS Format

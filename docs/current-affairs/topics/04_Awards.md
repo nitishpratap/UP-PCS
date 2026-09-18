@@ -417,6 +417,25 @@ Professor **Deepak Dhar** shared the **Dirac Medal 2026** of the Abdus Salam Int
 - President approved about **78** Armed Forces / CAPF gallantry awards (including posthumous).
 - About **1,057** police / fire / home guard / civil defence / correctional service medals in the I-Day civil list.
 
+### 16th Dadasaheb Phalke Film Festival 2026
+- **Award**: **Best Animation Film**.
+- **Winning Film**: **"The Wild Call"** (inspired by the ecological biodiversity of **Rajgir Zoo Safari**).
+- **Produced by**: Department of Environment, Forest and Climate Change, Government of Bihar.
+- **Directed by**: Naveendh S. Fareed and Azharuddin Sulaiman.
+
+### 17th CIDC Vishwakarma Awards 2026
+- **Conferred by**: Construction Industry Development Council (CIDC), presented by Union Minister Nitin Gadkari in New Delhi.
+- **Awardees**:
+  - **Bapu Tower** (Patna).
+  - **Buddha Samyak Darshan Museum and Memorial Stupa** (Vaishali).
+
+### Global Water Award 2026 (Global Water Summit)
+- **Award**: **"Wastewater Project of the Year"**.
+- **Winner**: **Bihar Urban Infrastructure Development Corporation Limited (BUIDCO)**.
+- **Project**: Recognized for the execution of the **Digha-Kankarbagh Integrated Wastewater Project**.
+
+---
+
 ## Practice Zone — UPPCS Format
 
 > **20 questions** for this sheet only — drill after you revise the months above.

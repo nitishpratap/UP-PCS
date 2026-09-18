@@ -385,6 +385,23 @@ The **23rd** Commonwealth Games ended in **Glasgow, Scotland**. **Australia** to
 - Remember **Major Dhyan Chand**.
 - National slogan in coverage: **Khelega Bharat, Jeetega Bharat**.
 
+### 12th Men's Asia Cup Hockey 2025 (Rajgir Sports Complex)
+- **Tournament**: Held in September 2025 at the newly constructed **Rajgir Sports Complex (Bihar)**.
+- **Champion**: **India defeated South Korea 4–1** in the final on **7 September 2025**.
+- **Significance**: Ended an **8-year Asia Cup title drought** and secured India's direct qualification for the **2026 FIH Men's Hockey World Cup** (co-hosted by Belgium and the Netherlands).
+
+### World Para Athletics Championships 2025 (High Jump T63 Gold)
+- **Historical Feat**: **Shailesh Kumar** (Islam Nagar, Jamui district, Bihar) won India's **first-ever Gold medal** in the **Men's High Jump T63 event**.
+- **Record**: Cleared an Asian and Championship record height of **1.91 metres**. Co-national Varun Bhati won the Bronze medal.
+
+### 16th Hockey India Sub-Junior Men National Championship 2026
+- **Venue**: Hosted at **Rajgir Sports Complex (Bihar)**.
+- **Gold**: **Uttar Pradesh** defeated Madhya Pradesh **5–2** in the final.
+- **Podium**: Gold: UP; Silver: MP; Bronze: Punjab.
+
+### SportsStar Aces Awards 2026
+- **Recognition**: Bihar was selected as the **"Best State in Promoting Sports"**; chosen by an expert national jury chaired by former cricket captain **Sunil Gavaskar**.
+
 ---
 
 ## Practice Zone — UPPCS Format

@@ -649,6 +649,20 @@ First national guide to India’s grasslands and open natural ecosystems launche
   1. *"Largest flag unfurled underwater"* (Indian National Tricolour).
   2. *"Tallest human stack underwater"*.
 
+### Two New Ramsar Sites in Bihar (Gokul Jalashay & Udaipur Jheel)
+- **Wetlands Tag**: Two prominent wetlands of Bihar were added to the global Ramsar List of Wetlands of International Importance:
+  1. **Gokul Jalashay** — located in **Buxar district**.
+  2. **Udaipur Jheel** — located in **West Champaran district** (renowned oxbow lake ecosystem along the Gandak floodplain).
+- *(Note: Bihar's first Ramsar site was Kanwar Lake / Kabal Tal in Begusarai, designated in 2020).*
+
+### Bihar's First Natural Elephant Corridor
+- **Notification**: Bihar Forest Department established the state's **first natural elephant corridor** to ensure secure migration pathways between Jharkhand and Bihar forests.
+- **Encompassed Zones**: Covers the **Garhi forest area** of Jamui Forest Division, the **Charkapathar and Batiya forest areas** of Jhajha, and the **Madhwa sub-forest area** of Chakai Forest Division.
+
+### Asian Waterbird Census 2026 (Kosi Region)
+- **Census Findings**: Conducted across the Kosi riverine wetlands in February 2026; recorded **4,982 waterbirds across 92 species**.
+- **Rare Migratory Sighting**: Documented rare winter visitors including the **Baikal Teal** (*Anas formosa*, an elusive Siberian migratory duck) and the **Fulvous Whistling Teal**.
+
 ---
 
 ## Practice Zone — UPPCS Format
