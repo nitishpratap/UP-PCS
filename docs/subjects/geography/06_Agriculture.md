@@ -247,9 +247,6 @@ India’s land-use reporting (NCERT / Ministry of Agriculture) splits reported a
 
 ### Seasons
 
-![Cropping Seasons & Land-Use Categories in India — Kharif, Rabi, Zaid & 9 Official Land-Use Classes](images/ch6_01_cropping_seasons_landuse.png)
-
-![Flagship Agricultural Schemes, Revolutions & Policies — PM-KISAN, PMFBY, Soil Health Card & MSP Formula](images/ch6_14_major_agricultural_schemes_institutes.png)
 
 | Season | Months | Typical crops |
 |--------|--------|---------------|
@@ -277,19 +274,6 @@ India’s land-use reporting (NCERT / Ministry of Agriculture) splits reported a
 
 ![Cartographic Spatial Map — Major Agricultural Crop Belts of India (Rice, Wheat, Cotton, Sugarcane, Coarse Cereals, Plantation & Spice Belts)](images/ch6_00_india_crop_belts_cartographic_map.png)
 
-![Major Food, Cash & Plantation Crops Matrix — Requirements, Yields & Leading Producer States](images/ch6_02_major_food_cash_crops_matrix.png)
-
-![Rice (Paddy) Cultivation Geography of India — Agronomic Requirements & State Rankings](images/ch6_07_rice_cultivation_belts_india.png)
-
-![Wheat (Rabi) Cultivation Belt & Irrigated Agro-Ecology](images/ch6_08_wheat_cultivation_belt_irrigation.png)
-
-![Fibre Crops of India: Cotton (White Gold) vs Jute (Golden Fibre)](images/ch6_09_cotton_jute_fibre_crops_map.png)
-
-![Sugarcane Geography: Subtropical North vs Tropical South](images/ch6_10_sugarcane_belts_north_vs_south.png)
-
-![Millets (Nutri-Cereals) & Pulses Geography of India](images/ch6_11_coarse_cereals_millets_pulses.png)
-
-![Plantation Crops of India: Tea, Coffee, Rubber & Spices](images/ch6_12_plantation_crops_tea_coffee_rubber.png)
 
 ### Rice
 
@@ -633,9 +617,6 @@ Three **number** facts — do not mix:
 
 ### 15 Agro-climatic Zones (Planning Commission)
 
-![Agro-Climatic Zoning — India 15 Planning Commission Zones & Uttar Pradesh 9 Agro-Climatic Zones](images/ch6_03_agro_climatic_zones_india_up.png)
-
-![Uttar Pradesh 9 Agro-Climatic Zones (Official Planning Commission) District Map](images/ch6_13_up_9_agro_climatic_zones_map.png)
 
 | # | Zone | Core | Agri tag |
 |---|------|------|----------|
@@ -862,7 +843,6 @@ CAD develops the **command** of an existing project (channels, drainage, waraban
 
 ### Jhum / shifting cultivation
 
-![Shifting Cultivation Nomenclature — Regional Indian Names and Global Slash-and-Burn Systems](images/ch6_05_shifting_cultivation_jhum_names.png)
 
 **Jhum** is the north-east name for slash-and-burn shifting cultivation.
 
@@ -999,7 +979,6 @@ D. Ministry of Finance
 
 ### Colour Revolutions — must-score set
 
-![Agricultural Colour Revolutions in India — Leaders, Focus Commodities & Trap Associations](images/ch6_04_agricultural_colour_revolutions.png)
 
 The colour tags name sector pushes that sit beside the classic Green Revolution.
 
@@ -1024,7 +1003,6 @@ Do **not** swap Golden with Yellow. Golden is horticulture and honey; Yellow is 
 
 ## UP Focus (compact)
 
-![Uttar Pradesh Agriculture, National Rank #1 Commodities, Specialty Hubs & Universities](images/ch6_06_up_agriculture_special_map.png)
 
 **Identity:** Uttar Pradesh is a **plains agricultural giant** — wheat–rice–sugarcane in the west and centre, rice in the east, potato and mango as specialty tags, and almost no plantation leadership.
 

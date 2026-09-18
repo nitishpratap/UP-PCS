@@ -473,6 +473,8 @@ D. Herbert Spencer
 
 ## N.7 Uttar Pradesh Focus — Urban Centres
 
+![Uttar Pradesh 17 Municipal Corporations (Nagar Nigams) Location Map](images/ch12_01_up_17_nagar_nigams_map.png)
+
 | City | Functional / tag |
 |------|------------------------|
 | **Lucknow** | State capital — administrative; first UP Smart City (May 2016) |

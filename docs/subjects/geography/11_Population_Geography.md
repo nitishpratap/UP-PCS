@@ -233,6 +233,8 @@ D. 3, 1, 4, 2
 
 ## N.3 Population Density
 
+![India Population Density Distribution Map (Census 2011)](images/ch11_01_india_population_density_map.png)
+
 Population density compares people with land. Prelims usually quotes **arithmetic density**, but NCERT also teaches two agricultural-pressure measures.
 
 | Type | Formula | What it shows |
@@ -268,6 +270,8 @@ D. Mizoram
 ---
 
 ## N.4 Sex Ratio
+
+![India Sex Ratio Spatial Distribution Map (Census 2011)](images/ch11_02_india_sex_ratio_map.png)
 
 Sex ratio is the number of females per **1,000** males in the total population.
 
@@ -680,6 +684,8 @@ D. Geometric, Arithmetic
 ---
 
 ## N.14 Uttar Pradesh Focus
+
+![Uttar Pradesh Demographic District Rankings Map (Census 2011)](images/ch11_03_up_district_demographics_map.png)
 
 Uttar Pradesh is India’s **most populous** state and also has the **largest rural** population in Census 2011.
 

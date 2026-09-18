@@ -203,10 +203,6 @@ D. Chilka, Michigan, Superior, Victoria
 
 ![Major Lakes of India Classified by Origin & Chemistry](images/ch4_01_india_major_lakes_map.jpg)
 
-![Genetic Classification of Indian Lakes (Origin-Wise) — Tectonic, Crater, Lagoon, Oxbow, Glacial & Aeolian Types](images/ch4_06_lakes_by_origin_types.png)
-
-![Freshwater vs Saline / Lagoon Lakes of India — Spatial Distribution & Ramsar Sites](images/ch4_11_freshwater_vs_saline_lakes_india.png)
-
 Papers ask lakes in **two different ways**. Do not mix them in one mental list.
 
 ### 1. Chemistry / size kings (first question type)
@@ -442,10 +438,6 @@ Later papers can swap in Ladoga, Victoria, Titicaca, and similar names — learn
 
 ![Ramsar Wetlands of Uttar Pradesh (13 Sites)](images/ch4_05_up_13_ramsar_wetlands_map.jpg)
 
-![Ramsar Convention Wetlands of International Importance in India — 85 Sites, Superlatives & Montreux Record](images/ch4_14_ramsar_wetlands_all_india_matrix.png)
-
-![Groundwater Irrigation Dynamics & Depletion in India & UP — Stage of Extraction, Tube-Well Dominance & Critical Blocks](images/ch4_13_groundwater_irrigation_depletion_map.png)
-
 Ramsar **in UP** (learn the names that *are* UP). UP total **13** as of June 2026.
 
 | Site | District / belt |
@@ -505,8 +497,6 @@ D. Wular
 ## N.2 Waterfalls
 
 ![Major Waterfalls of India Map](images/ch4_02_india_major_waterfalls_map.jpg)
-
-![Major Waterfalls of India & River Pairings Matrix — Kunchikal, Jog, Dhuandhar, Chitrakote & Plunge Types](images/ch4_07_top_waterfalls_river_height_matrix.png)
 
 - A **waterfall** is a steep or vertical drop of a stream. Falls may be natural or artificial. Most Indian natural falls sit in mountain / plateau country with hard–soft rock contrasts.
 - Soft rock erodes faster than hard rock. The hard ledge remains as a lip and water plunges at the **knickpoint**.
@@ -781,16 +771,6 @@ D. Kevti fall
 ### Canals
 
 ![Major Canals and Irrigation Framework of India](images/ch4_04_major_canals_irrigation_map.jpg)
-
-![Ken-Betwa River Link Project — Daudhan Dam, Beneficiary Districts in UP/MP & Panna Tiger Reserve Impact](images/ch4_08_ken_betwa_daudhan_dam_link.png)
-
-![National River Linking Perspective Plan (NPP) — 16 Peninsular & 14 Himalayan Links Matrix](images/ch4_09_national_river_linking_project_grid.png)
-
-![Uttar Pradesh Major Canal Systems & Barrages — Upper/Lower Ganga, Sharda, Eastern Yamuna & Betwa](images/ch4_10_up_major_canals_network.png)
-
-![Key Barrages, Dams & Hydro Projects in Uttar Pradesh — Rihand, Matatila, Parichha, Narora, Gokul & Lav-Kush](images/ch4_12_major_barrages_dams_up.png)
-
-![Major Multipurpose Dams & Hydro Projects of Peninsular South India — Nagarjuna Sagar, Srisailam, Mettur, Idukki](images/ch4_15_multipurpose_projects_south_india.png)
 
 | Canal | Source / offtake | Region | Tag |
 |-------|------------------|--------|-----|

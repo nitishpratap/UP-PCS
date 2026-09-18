@@ -120,6 +120,8 @@ Process chapter — no living scheme tag. Static PYQ surface (trellis (जाल
 
 ## N.0 Framework — Geomorphic Processes
 
+![Plate Tectonics: Three Major Types of Lithospheric Plate Boundaries](images/ch15_06_plate_tectonics_boundaries_diagram.png)
+
 Geomorphology studies how landforms are made and destroyed.
 
 - **Endogenic processes** come from Earth’s interior — folding, faulting, volcanism, earthquakes and uplift. They build relief.
@@ -249,6 +251,8 @@ Loess beds are wind silt later lithified.
 ---
 
 ## N.2 Rock Cycle
+
+![The Geological Rock Cycle & Petrological Transformations](images/ch15_01_rock_cycle_diagram.png)
 
 The **rock cycle** is the continuous pathway that turns magma and rock from one class into another.
 
@@ -398,6 +402,8 @@ Agents often work together. A river may inherit a glacial trough, and wind may r
 ---
 
 ## N.5 Fluvial Landforms (Davis cycle)
+
+![Fluvial Geomorphology: River Profile & Landforms from Source to Mouth](images/ch15_02_fluvial_landforms_profile_diagram.png)
 
 Rivers cut, carry and deposit. Davis stages are a teaching ladder, not a strict clock for every valley.
 
@@ -572,6 +578,8 @@ D. Neither 1 nor 2
 
 ## N.7 Structural Basins & Fault Valley Drainage
 
+![Structural Geomorphology: Folding (Anticline/Syncline) vs Faulting (Horst/Graben)](images/ch15_05_folds_faults_rift_valleys_diagram.png)
+
 A **structural basin** is a low enclosed by structure (syncline, rift or down-warp). Drainage often becomes **centripetal**.
 
 | Example | Type |
@@ -726,6 +734,8 @@ D. Only ice sheets
 
 ## N.8 Glaciers & Glacial Landforms
 
+![Glacial Geomorphology: Erosional & Depositional Landforms](images/ch15_03_glacial_landforms_diagram.png)
+
 A glacier is a mass of ice that moves under its own weight. Fact the **U-valley vs V-valley** pair, the **fjord vs ria** pair, and the depositional till suite.
 
 ### Glacier types — Teaching Card
@@ -836,6 +846,8 @@ Wind needs dry ground, sparse vegetation and a sand or silt supply — hot deser
 ---
 
 ## N.10 Coastal Landforms (+ karst)
+
+![Karst Topography: Limestone Cavern System & Speleothems](images/ch15_04_karst_topography_cave_diagram.png)
 
 Waves run **swash** up the beach and **backwash** down. **Longshore drift** moves sediment along the shore and builds spits.
 

@@ -181,6 +181,8 @@ D. Jupiter
 
 ## N.0 Framework — Earth as a System
 
+![Earth's Internal Concentric Structure & Seismic Discontinuities (CONMOREGULE)](images/ch14_04_earth_interior_discontinuities_diagram.png)
+
 Physical geography studies Earth as interacting spheres.
 
 - **Lithosphere** — solid crust and upper mantle (rocks, plates, landforms).
@@ -327,6 +329,8 @@ Most planets **orbit and rotate prograde** (same sense as Earth’s west-to-east
 
 ## N.3 Motions of Earth
 
+![Earth Motions: Revolution, 23.5° Axial Tilt, Solstices & Equinoxes](images/ch14_02_earth_revolution_seasons_diagram.png)
+
 | Motion | Period | Effect |
 |--------|--------|--------|
 | **Rotation** | ~**24 h** (west to east) | Day and night, apparent Sun motion, and **Coriolis** |
@@ -353,6 +357,8 @@ Around the Northern Hemisphere **winter solstice**, global pressure belts **shif
 ---
 
 ## N.4 Latitude
+
+![World Map: Major Parallels (Equator, Cancer, Capricorn) & Prime Meridian](images/ch14_01_world_latitudes_parallels_map.png)
 
 **Latitude** lines are parallels. **0°** is the Equator. **90°** marks the poles. One degree of latitude is about **111 km**.
 
@@ -414,6 +420,8 @@ Norway, Sweden, Finland, Russia, United States (Alaska), Canada, Denmark (**Gree
 
 ## N.5 Longitude, Time, Time Zones, IDL
 
+![Global Pressure Belts, Planetary Winds & Tri-Cellular Circulation](images/ch14_05_global_pressure_belts_winds_diagram.png)
+
 Meridians meet at the poles. The **Prime Meridian** is **0°** longitude through **Greenwich**.
 
 | Note | Note |
@@ -452,6 +460,8 @@ India’s extreme longs / Tropic **states**. **15° / IDL / IST meridian**
 ---
 
 ## N.6 Atmosphere & Its Structure
+
+![Atmospheric Thermal Structure & Vertical Layers Curve](images/ch14_03_atmospheric_layers_temperature_curve.png)
 
 The **atmosphere** is the envelope of gases held around Earth by gravity. Most of its mass sits in the lower layers. Almost all ordinary weather forms in the **troposphere**.
 

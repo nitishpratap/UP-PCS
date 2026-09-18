@@ -116,10 +116,6 @@
 
 ![Soil Profile Horizons Diagram — O, A, E, B, C, R Layers, Eluviation vs Illuviation, Solum & Regolith](images/ch5_01_soil_profile_horizons.png)
 
-![Physiographic Soil Zones of Uttar Pradesh: Shiwalik Foothills to Tarai, Bangar & Khadar](images/ch5_13_bhabar_tarai_bangar_khadar_up.png)
-
-![Soil Nutrients, NPK Ratio & Micronutrient Deficiency in India — Zinc Deficit & Neem-Coated Urea](images/ch5_12_soil_nutrients_npk_deficiency.png)
-
 | Item | Lock |
 |------|------|
 | Profile (down) | **O → A → E → B → C → R** |
@@ -236,13 +232,6 @@ Indian parent material is commonly grouped into five families. Climate can still
 
 ![Cartographic Spatial Map — Soil Distribution Across India (Alluvial, Black Regur, Red & Yellow, Laterite, Arid, Mountain & Mangrove Belts)](images/ch5_00_india_soil_distribution_cartographic_map.png)
 
-![ICAR 8 Major Soil Groups of India — National Coverage, Mineral Composition & Crop Suitability](images/ch5_02_icar_soil_types_india.png)
-
-![Deccan Trap Regur (Black Cotton Soil) Geographic Extent & Characteristics](images/ch5_06_black_soil_regur_deccan_trap_map.png)
-
-![Laterite Soils (Let-ter = Brick): Genesis, Malabar Belts & Cash Crops](images/ch5_07_laterite_soils_malabar_highlands.png)
-
-![Red & Yellow Soils of Peninsular India (Crystalline Shield)](images/ch5_08_red_and_yellow_soils_crystalline.png)
 
 Notes use this set, not full USDA taxonomy names. Read each row for how it forms, where it lies, the star crop, and the classic trap.
 
@@ -719,9 +708,6 @@ D. Black soil is found in Himalayan region
 - Overgrazing in the dry season pulls grass **out by the roots** and pulverises topsoil with hooves.
 - Faulty farming includes ploughing **down the slope**, skipping rotation, and unsustainable **jhum** as fallows shrink.
 
-![Soil Erosion Ladder — Splash, Sheet, Rill, Gully, and Ravine / Badlands Progression](images/ch5_03_soil_erosion_ladder.png)
-
-![Chambal Ravines & Gully Erosion / Badlands Topography](images/ch5_09_chambal_badlands_gully_ravines.png)
 
 | Type | Agent | Feature | Example |
 |------|-------|---------|---------|
@@ -746,7 +732,6 @@ D. Black soil is found in Himalayan region
 - Prevention on farms is cheaper than ravine reclamation.
 - Seed modification raises yield genetics; it is **not** a soil-fertility method like rotation / mixed / multiple cropping.
 
-![Soil Conservation Techniques — Contour Ploughing, Terracing, Shelter Belts, Strip Cropping & Check Dams](images/ch5_04_soil_conservation_methods.png)
 
 | Method | Purpose | Best setting |
 |--------|---------|--------------|
@@ -804,11 +789,6 @@ D. Hoshangabad, Madhya Pradesh
 ## N.4 UP Focus
 ### UP soil belts — expanded teaching map
 
-![Uttar Pradesh Regional Soils Map — Bhabar-Tarai, Central Alluvial Doab, Bundelkhand Mar/Kabar/Parua/Rakar, Vindhyan Bhonta & Usar Tracts](images/ch5_05_uttar_pradesh_soils_map.png)
-
-![Bundelkhand Special Soils: Mar, Kabar, Parua & Rakar](images/ch5_10_up_bundelkhand_soils_mar_kabar.png)
-
-![Saline & Alkaline Soils of UP: Usar, Reh & Kallar Lands](images/ch5_11_saline_alkaline_usar_reh_map.png)
 
 - **Terai** (तराई) — alluvial, moist, N-rich; rice–wheat after drainage.
 - **Middle doab** — khadar/bangar mix; wheat–sugarcane Green Revolution belt.

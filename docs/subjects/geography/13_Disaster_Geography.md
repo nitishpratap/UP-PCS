@@ -127,6 +127,8 @@ Cyclone **formation** (SST ~27°C, Coriolis, low shear) and IMD wind ladder are 
 
 ## N.0 Framework — Hazard, Vulnerability, Risk & DM Cycle
 
+![India Multi-Hazard Vulnerability Map (Floods, Cyclones & Landslides)](images/ch13_02_india_hazard_zones_map.png)
+
 A **hazard** is a potentially damaging natural or man-made event. A **disaster** occurs when that hazard hits exposed people or assets and **capacity** is too weak to cope.
 
 - Coaching fact: **Risk ≈ Hazard × Vulnerability / Capacity**.
@@ -195,6 +197,8 @@ Arrival order on a record is **P**, then **S**, then **surface** waves.
 | **Love / Rayleigh** | Surface | Along the free surface | Near-surface rock / soil | Last; usually most destructive at ground |
 
 ### Shadow zones
+
+![Seismic Waves Propagation & Shadow Zones Diagram (P-Waves vs S-Waves)](images/ch13_03_seismic_waves_shadow_zones_diagram.png)
 
 Each earthquake has its own shadow pattern because wave paths bend inside Earth.
 
@@ -290,6 +294,8 @@ The Himalayan arc is where the **Indian plate thrusts under Eurasia**, creating 
 ---
 
 ## N.3 Seismic Zones of India
+
+![India Seismic Zoning Map (BIS 1893 Criteria)](images/ch13_01_india_seismic_zones_map.png)
 
 BIS **IS 1893 (Part 1): 2016** lists **four** (चातुर्याम) zones. **Zone I** was abolished in **2002**. On the present map **Zone V** is the **highest** hazard and **Zone II** is the **lowest**.
 A **Zone VI** draft (Nov 2025) was **withdrawn March 2026**. Prelims still use **II–V**.

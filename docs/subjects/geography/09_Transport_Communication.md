@@ -195,11 +195,6 @@ Transport and communication are the **arteries of circulation** of the economy.
 
 ## N.1 Railways
 
-![Indian Railways — 18 Railway Zones & Headquarters, Dedicated Freight Corridors (EDFC & WDFC) and High-Speed Rail](images/ch9_01_indian_railways_zones_dfc.png)
-
-![Dedicated Freight Corridors (DFC): Arteries of Freight Logistics](images/ch9_07_dedicated_freight_corridors_edfc_wdfc.png)
-
-![Indian Railways: 18 Railway Zones & Headquarters Directory](images/ch9_14_railway_zones_headquarters_matrix.png)
 
 Indian Railways is the country’s principal long-distance land carrier for passengers and bulky freight.
 
@@ -353,11 +348,6 @@ D. 1, 2 and 3
 
 ## N.2 Roads, Expressways, Bharatmala
 
-![National Highways, Golden Quadrilateral, North-South & East-West Corridors, Bharatmala & Expressways](images/ch9_02_national_highways_expressways_map.png)
-
-![Golden Quadrilateral, North-South & East-West Highway Corridors](images/ch9_06_golden_quadrilateral_corridors_map.png)
-
-![Mega Connectivity Initiatives: Bharatmala, Sagarmala & Parvatmala](images/ch9_13_bharatmala_sagarmala_parvatmala.png)
 
 Roads are preferred for short and medium hauls because they are cheaper to build than railways and act as feeders to rail, air and sea terminals.
 
@@ -464,9 +454,6 @@ D. Mau
 
 ## N.3 Waterways
 
-![National Waterways Network of India — NW-1 Ganga to NW-5 Mahanadi, Stretches, Multimodal Terminals & Jal Marg Vikas](images/ch9_03_national_waterways_network.png)
-
-![National Waterway-1 (Ganga-Bhagirathi-Hooghly) — 1,620 km Terminals](images/ch9_09_national_waterway_1_ganga_terminals.png)
 
 Inland and coastal water transport is cheap for bulk cargo when channel depth and terminals exist.
 
@@ -512,9 +499,6 @@ D. Chattogram (Chittagong)
 
 ## N.4 Ports, Harbours, Maritime Trade
 
-![Major Seaports of India — Western vs Eastern Coast, Natural vs Artificial, Tidal & Container Hubs](images/ch9_04_major_ports_maritime_trade.png)
-
-![13 Major Seaports of India: Western vs Eastern Coast](images/ch9_10_major_seaports_west_vs_east_coast.png)
 
 India’s mainland plus island coasts stretch about **7,517 km**.
 
@@ -806,13 +790,6 @@ D. Refraction
 
 ## N.9 Uttar Pradesh Focus
 
-![Uttar Pradesh Transport Infrastructure — Expressways, International Airports, NW-1 Terminals & Railway HQs](images/ch9_05_up_transport_expressways_aviation.png)
-
-![Uttar Pradesh: The "Expressway State" of India](images/ch9_08_up_expressways_super_network.png)
-
-![Uttar Pradesh Aviation Network: 5 International & Domestic Airports](images/ch9_11_airports_international_aviation_up.png)
-
-![Trunk Gas & Crude Oil Pipelines Network in India & UP](images/ch9_12_gas_and_crude_pipelines_india_up.png)
 
 Uttar Pradesh has **no major seaport**. Its identity is rail headquarters, expressways, airports, NW-1, inland pipeline nodes and station redevelopment.
 

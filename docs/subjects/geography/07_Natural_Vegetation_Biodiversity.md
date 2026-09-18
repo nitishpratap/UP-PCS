@@ -222,7 +222,6 @@ Standard notes split Indian vegetation into **five** heads and **sixteen** sub-t
 
 **Four hotspots (Conservation International)**
 
-![4 Global Biodiversity Hotspots Covering India — Extent, Endemic Species & Diagnostic Criteria](images/ch7_04_biodiversity_hotspots_india.png)
 
 - **Himalaya** (whole Indian Himalaya, not a separate “east hotspot” plus “west hotspot”).
 - **Western Ghats and Sri Lanka**.
@@ -251,13 +250,6 @@ Standard notes split Indian vegetation into **five** heads and **sixteen** sub-t
 
 ![Cartographic Spatial Map — Forest Types & Key Biosphere Reserves Across India (Evergreen, Deciduous, Thorn, Montane, Mangroves & 18 Biospheres)](images/ch7_00_india_forests_biospheres_cartographic_map.png)
 
-![Champion & Seth Major Forest Types of India Matrix — Rainfall, Indicators, Belts & Exam Traps](images/ch7_01_forest_types_india_matrix.png)
-
-![Tropical Wet Evergreen & Semi-Evergreen Forests of India](images/ch7_06_tropical_evergreen_rainforests_map.png)
-
-![Tropical Deciduous (Monsoon) Forests: India's Most Widespread Forests](images/ch7_07_tropical_deciduous_monsoon_forests.png)
-
-![Mangrove Wetlands & Tidal / Littoral Ecosystems of India](images/ch7_08_mangroves_wetlands_tidal_forests.png)
 
 ### Evergreen & semi-evergreen
 
@@ -383,7 +375,6 @@ Also called **tropical thorn forests** or arid forests. Plants are **xerophytes*
 
 ### Montane (altitude elevator)
 
-![Montane Vegetation — Himalayan Altitude Elevator from Foothills to Snowline & Peninsular Sholas](images/ch7_02_himalayan_montane_altitude_elevator.png)
 
 Montane forests are an **altitude elevator**, not a plains rain ladder. Above about **900 m**, temperature (height) rules the belt. Mountain forests split into two sets: **northern (Himalayan)** and **southern (peninsular hills)**.
 
@@ -606,13 +597,6 @@ An **epiphyte** grows on another plant for support, not as a parasite that steal
 ## N.5 Protected Areas — Framework
 ### UNESCO MAB and India's Biosphere Reserve Programme
 
-![18 Biosphere Reserves of India & 12 UNESCO MAB World Network Reserves — Complete Geographic Directory](images/ch7_03_india_18_biosphere_reserves_mab.png)
-
-![Project Tiger & The Tiger Reserves Network in India — 55 Reserves](images/ch7_09_project_tiger_55_reserves_map.png)
-
-![Critically Endangered Fauna & Iconic Sanctuaries of India](images/ch7_12_endangered_fauna_habitats_india.png)
-
-![Sacred Groves & Community Conservation Traditions in India](images/ch7_13_sacred_groves_community_reserves.png)
 
 - **UNESCO Man and the Biosphere (MAB)** programme promotes **core + buffer + transition** zoning for conservation with sustainable human use.
 - India runs a **national Biosphere Reserve programme** under the **Wildlife (Protection) Act** framework; **18** sites are notified nationally.
@@ -706,11 +690,6 @@ D. Sacred groves
 
 ## N.6 Uttar Pradesh — Forests, Parks, Sanctuaries, Ramsar
 
-![ISFR Standings & Uttar Pradesh Forest Geography — District Ranks & Protected Area Network](images/ch7_05_isfr_uttar_pradesh_forest_geography.png)
-
-![India State of Forest Report (ISFR) — Essential Standings for UPPCS](images/ch7_11_isfr_latest_forest_cover_states.png)
-
-![Protected Area Network of Uttar Pradesh: National Parks & 4 Tiger Reserves](images/ch7_10_up_wildlife_sanctuaries_national_parks.png)
 
 **Only one National Park: Dudhwa (Lakhimpur Kheri).** Do not invent a second NP in UP.
 
