@@ -457,6 +457,229 @@ The Department of Economic and Policy Research (DEPR), Reserve Bank of India, pu
 
 ---
 
+### Nutritional Intake in India | NSO Report (HCES 2022–24)
+
+**What happened**
+The National Statistical Office (**NSO**), MoSPI, released the report on *Nutritional Intake in India* based on two consecutive rounds of Household Consumption Expenditure Surveys (**HCES 2022–23 and 2023–24**) covering August 2022 to July 2024.
+
+**Key Calorie, Protein & Fat Metrics**
+- **Average Daily Calorie Intake**:
+  - 2022–23: **2,233 kcal** (Rural) and **2,250 kcal** (Urban).
+  - 2023–24: **2,212 kcal** (Rural) and **2,240 kcal** (Urban).
+  - Indicates stable average energy intake in the **2,200–2,250 kcal/day** band.
+- **Fractile Class Convergence**:
+  - Calorie intake in bottom 5 fractile classes in rural and bottom 6 in urban increased in 2023–24 compared to 2022–23.
+  - In 2023–24: Top 5% fractile consumed **2,941 kcal** (Rural) and **3,092 kcal** (Urban); Bottom 5% consumed **1,688 kcal** (Rural) and **1,696 kcal** (Urban) — reflecting a narrowing consumption gap.
+- **Dietary Shift in Protein & Fat Sources**:
+  - Daily protein intake rose to **61.8 g** (Rural) and **63.4 g** (Urban) in 2023–24 (up from 59.3 g and 58.8 g in 2009–10).
+  - **Decline in Cereal Dominance**: Cereals' contribution to protein dropped from 60.2% to **45.9% in rural areas**, and from 51.3% to **38.7% in urban areas** since 2009–10.
+  - **Surge in Animal & Diversified Protein**: Egg, fish, and meat contribution rose from 5.9% to **12.4% in rural**, and 7.6% to **14.1% in urban** diets.
+- **Adjusted Daily Intake (Accounting for Outside Meals/Guests)**:
+  - Adjusted Calories: **2,191 kcal** (Rural) | **2,225 kcal** (Urban).
+  - Adjusted Protein: **61.2 g** (Rural) | **62.9 g** (Urban).
+  - Adjusted Fat: **59.7 g** (Rural) | **69.3 g** (Urban).
+
+---
+
+### Status of Tourist Inflow into India | Ministry of Tourism (11 August 2025)
+
+**What happened**
+The Ministry of Tourism released comprehensive official statistics on foreign tourist inflow, foreign exchange earnings, and tourism's contribution to the national economy. With overseas tourism offices rationalized, international tourism marketing is actively spearheaded through **Indian Diplomatic Missions abroad**.
+
+**Core Tourism Inflow & Economic Metrics**
+- **Foreign Tourist Arrivals (FTA)**:
+  - 2022: **64.37 lakh**
+  - 2023: **95.21 lakh**
+  - 2024: **99.52 lakh** (~9.95 million / near 1 crore mark).
+- **Foreign Exchange Earnings (FEE) from Tourism**:
+  - 2022: ₹1,69,917 crore
+  - 2023: ₹2,66,045 crore
+  - 2024 (Revised Estimate): **₹2,93,033 crore**.
+- **Tourism Sector's Share in India's GDP**:
+  - 2021–22: 1.75%
+  - 2022–23: 5.09%
+  - 2023–24 (Provisional Estimate): **5.22% of National GDP**.
+- **Top 5 Source Countries for FTA in 2024**:
+  1. **United States (USA)**: **18,04,586** (18.05 lakh — Rank 1!)
+  2. **Bangladesh**: **17,50,165** (17.50 lakh — Rank 2!)
+  3. **United Kingdom (UK)**: **10,22,587** (10.23 lakh — Rank 3!)
+  4. **Australia**: **5,18,205** (Rank 4)
+  5. **Canada**: **4,76,273** (Rank 5)
+
+---
+
+### Third Advance Estimates of Agricultural Crops 2025–26 | Released 27 May 2026
+
+**What happened**
+Union Minister for Agriculture and Farmers' Welfare **Shivraj Singh Chouhan** released the *Third Advance Estimates of Production of Major Agricultural Crops for 2025–26*. India recorded its **highest-ever foodgrain harvest in history**.
+
+**Record Production Figures (2025–26)**
+- **Total Foodgrain Production**: **376.563 million tonnes** (Record; increased by 18.8 million tonnes or **+5.3%** over 2024–25's 357.732 MT).
+- **Rice**: **154.024 million tonnes** (All-time record; up from 150.184 MT).
+- **Wheat**: **120.657 million tonnes** (All-time record; up from 117.945 MT).
+- **Maize / Corn**: **55.093 million tonnes**.
+- **Shree Anna (Millets)**: **17.584 million tonnes**.
+- **Nutri and Coarse Cereals**: **74.472 million tonnes**.
+- **Total Pulses**:
+  - Gram (Chickpea): **12.514 million tonnes**.
+  - Tur / Arhar: **3.592 million tonnes**.
+  - Lentil (Masur): **1.762 million tonnes**.
+- **Total Oilseeds**: **43.059 million tonnes** (Groundnut: 13.074 MT, Soybean: 12.596 MT).
+- **Sugarcane**: **500.063 million tonnes** (All-time record; up by 45.45 MT over 454.611 MT).
+- **Cotton**: **29.024 million bales** (Each cotton bale weighs **170 kg**).
+- **Jute & Mesta**: **9.176 million bales** (Each jute bale weighs **180 kg**).
+
+**Top 3 Producing States by Major Crop (Third Advance Estimates 2025–26)**
+
+| Crop / Category | Rank 1 State | Rank 2 State | Rank 3 State |
+| :--- | :--- | :--- | :--- |
+| **Rice** | **Uttar Pradesh** (198.05 L t) | Telangana (185.29 L t) | West Bengal (171.36 L t) |
+| **Wheat** | **Uttar Pradesh** (358.77 L t) | Madhya Pradesh (264.43 L t) | Punjab (170.79 L t) |
+| **Maize** | **Madhya Pradesh** (100.49 L t) | Karnataka (65.51 L t) | Maharashtra (56.97 L t) |
+| **Total Pulses** | **Madhya Pradesh** (53.48 L t) | Maharashtra (50.79 L t) | Rajasthan (44.73 L t) |
+| **Total Oilseeds** | **Rajasthan** (105.96 L t) | Gujarat (89.35 L t) | Madhya Pradesh (82.40 L t) |
+| **Sugarcane** | **Uttar Pradesh** (2,296.99 L t) | Maharashtra (1,316.49 L t) | Karnataka (572.88 L t) |
+| **Cotton** | **Maharashtra** (77.55 L bales) | Gujarat (67.93 L bales) | Telangana (55.54 L bales) |
+| **Jute** | **West Bengal** (75.93 L bales) | Bihar (7.59 L bales) | Assam (6.93 L bales) |
+
+---
+
+### Minimum Support Prices (MSP) for 14 Kharif Crops 2026–27 | CCEA, 13 May 2026
+
+**What happened**
+The Cabinet Committee on Economic Affairs (**CCEA**) chaired by PM Narendra Modi approved the MSP for **14 mandated Kharif crops** for the 2026–27 marketing season, adhering to the principle of setting MSP at **at least 1.5 times the all-India weighted average cost of production ($A2+FL$)**.
+
+**Approved Kharif MSP Rates for 2026–27 (₹ per Quintal)**
+
+| Crop | MSP 2026–27 (₹/qtl) | Absolute Increase (₹/qtl) | Margin over Cost (%) |
+| :--- | :--- | :--- | :--- |
+| **Paddy (Common)** | **₹2,441** | ₹141 | 50% |
+| **Paddy (Grade A)** | **₹2,461** | ₹141 | — |
+| **Jowar (Hybrid)** | **₹4,023** | ₹252 | 50% |
+| **Jowar (Maldandi)**| **₹4,073** | ₹252 | — |
+| **Bajra** | **₹2,900** | ₹125 | **56%** |
+| **Ragi** | **₹5,205** | ₹419 | 50% |
+| **Maize** | **₹2,410** | ₹185 | **56%** |
+| **Tur / Arhar** | **₹8,450** | ₹450 | 50% |
+| **Moong** | **₹8,780** | ₹202 | **61%** (Highest margin!) |
+| **Urad** | **₹8,200** | ₹450 | 50% |
+| **Groundnut** | **₹7,517** | ₹434 | 50% |
+| **Sunflower Seed**| **₹8,343** | **₹622** (Highest increase!) | 50% |
+| **Soybean (Yellow)**| **₹5,708** | ₹316 | 50% |
+| **Sesamum (Til)** | **₹10,346** (Highest absolute MSP!) | **₹500** | 50% |
+| **Nigerseed** | **₹10,052** | **₹515** | 50% |
+| **Cotton (Medium)**| **₹8,267** | **₹557** | 50% |
+| **Cotton (Long)** | **₹8,667** | **₹557** | 50% |
+
+**Key Prelims Takeaways**:
+- **Highest Absolute MSP**: **Sesamum (₹10,346/qtl)**, followed by Nigerseed (₹10,052/qtl).
+- **Highest Absolute Increase**: **Sunflower Seed (+₹622/qtl)**, followed by Cotton (+₹557/qtl) and Nigerseed (+₹515/qtl).
+- **Highest Profit Margins over Cost**: **Moong (61%)**, **Bajra (56%)**, and **Maize (56%)**.
+
+---
+
+### Basic Animal Husbandry Statistics (BAHS) 2025 | Released 26 November 2025
+
+**What happened**
+On **National Milk Day (26 November 2025)**, the Ministry of Fisheries, Animal Husbandry & Dairying released the *Basic Animal Husbandry Statistics 2025* based on the Integrated Sample Survey (ISS 2024–25).
+
+**Macroeconomic Weight of Livestock**
+- Livestock sector contributed **31% of total Agricultural GVA** and **5.5% of National GVA** in 2023–24.
+- Total livestock exports reached **₹66,249 crore** in 2024–25 (dominated by bovine meat).
+- **Milk Production (India #1 Globally)**:
+  - National Production: **247.87 million tonnes** (+3.58% growth).
+  - **Per Capita Availability**: **485 grams per day** (up from 319 g/day in 2014–15).
+  - **Top 5 Milk Producing States**:
+    1. **Uttar Pradesh**: **15.66%**
+    2. **Rajasthan**: **14.82%**
+    3. **Madhya Pradesh**: **9.12%**
+    4. **Gujarat**: **7.78%**
+    5. **Maharashtra**: **6.71%**
+    *(Top 5 states produce 54.09% of India's milk).*
+- **Egg Production (India #2 Globally)**:
+  - National Production: **149.11 billion eggs** (+4.44% growth).
+  - **Per Capita Availability**: **106 eggs per annum** (up from 62 in 2014–15).
+  - Commercial poultry accounts for **84.49%** of total egg production.
+  - **Top Egg Producing States**: 1. **Andhra Pradesh (18.37%)**, 2. Tamil Nadu (15.63%), 3. Telangana (12.98%), 4. West Bengal (10.72%), 5. Karnataka (6.67%).
+- **Meat Production (India #4 Globally)**:
+  - National Production: **10.50 million tonnes** (+2.46% growth). Poultry constitutes ~**50%** of total meat.
+  - **Top Meat Producing States**: 1. **West Bengal (12.46%)**, 2. **Uttar Pradesh (12.20%)**, 3. Maharashtra (11.57%), 4. Andhra Pradesh (10.84%), 5. Telangana (10.49%).
+- **Wool Production**:
+  - National Production: **34.57 million kg** (+2.63% growth).
+  - **Top Wool Producing States**: 1. **Rajasthan (47.85%)**, 2. Jammu & Kashmir (22.88%), 3. Gujarat (6.22%).
+
+---
+
+### Startup India Completes 10 Years & States' Startup Ranking 5.0
+
+**What happened**
+The flagship **Startup India** initiative completed **10 years on 16 January 2026** (launched 16 January 2016; **16 January observed as National Startup Day** since 2022). India stands as the **world's third-largest startup ecosystem**.
+
+**Key Ecosystem Milestones**
+- Recognized startups expanded from <500 in 2014 to **over 2,00,000 (2 lakh)** in 2026 (~44,000 registered in 2025 alone).
+- Unicorn count surged from 4 to nearly **125 unicorns**.
+- **States' Startup Ranking Framework 5.0 (SRF 5.0 by DPIIT)**:
+  - **Best Performers**: **Gujarat** (Category A: >1 crore population); **Arunachal Pradesh & Goa** (Category B: <1 crore).
+  - **Top Performers**: **Uttar Pradesh**, Karnataka, Punjab, and Tamil Nadu (Category A); Himachal Pradesh (Category B).
+  - **Leaders**: Andhra Pradesh, Haryana, Kerala, MP, Maharashtra, Rajasthan, Telangana, Uttarakhand (Category A); Manipur, Meghalaya, Nagaland (Category B).
+
+---
+
+### Semiconductor Manufacturing: India's 1st Commercial Fab & ISM Expansion
+
+**What happened**
+India achieved historic breakthroughs in its domestic semiconductor fabrication journey under the **India Semiconductor Mission (ISM)**:
+1. **India's First Commercial Semiconductor Fab at Dholera SEZ (Gujarat)**:
+   - Developer: **Tata Semiconductor Manufacturing Private Limited (TSMPL)**.
+   - Officially notified on **9 April 2026**; spread across **66.166 hectares**.
+   - Proposed Outlay: **₹91,000 crore**; projected employment for **21,000 personnel**.
+   - Capacity: **50,000 wafer starts per month** (AI-enabled commercial chip fabrication).
+2. **Two New ISM Semiconductor Units Cleared (5 May 2026)**:
+   - Cumulative Investment: **₹3,936 crore** (2,230 high-skilled jobs).
+   - **Crystal Matrix Ltd (Dholera, Gujarat)**: India's first commercial Mini/Micro-LED display facility using **Gallium Nitride (GaN)** foundry technology (annual capacity 72,000 sq. m panels and 24,000 RGB wafer sets).
+   - **Suchi Semicon Pvt Ltd (Surat, Gujarat)**: Outsourced Assembly and Test (OSAT) facility for discrete semiconductors (1,033.20 million chips/year).
+   - **ISM Scale**: Total approved projects under ISM reached **12 projects** with cumulative commitments of **₹1.64 lakh crore**.
+
+---
+
+### Two New SEZs Notified in Puducherry | 27 May 2026
+
+The Ministry of Commerce & Industry notified Puducherry's first two Special Economic Zones:
+1. **IT/ITES SEZ**: Developed by **Oulgaret Municipality** at Thattanchavady (8.62 ha; ₹725 cr; 3,500 jobs).
+2. **Multi-Sector SEZ**: Developed by **PIPDIC** at Karasur village, Villianur (86.25 ha; ₹1,250 cr; 5,000 jobs).
+
+---
+
+### Electronics & Mobile Manufacturing Surge
+
+- **Electronics Production**: Reached **₹11.3 lakh crore in 2024–25** (6x jump from ₹1.9 lakh cr in 2014–15).
+- **Electronics Exports**: Reached **₹3.27 lakh crore** (8x increase); generated **2.5 million jobs** and attracted >USD 4 billion FDI.
+- **Top 5 Electronic Export Destinations**: 1. **USA**, 2. **UAE**, 3. **Netherlands**, 4. **UK**, 5. **Italy**.
+- **Mobile Phones Leadership**:
+  - Production scaled 28 times to **₹5.45 lakh crore** in 2024–25; produces **~330 million phones annually**.
+  - **India is the world's 2nd-largest mobile phone manufacturer**.
+  - Mobile exports skyrocketed to **₹2 lakh crore** (a 127-fold surge from ₹1,500 cr in 2014–15).
+
+---
+
+### India Foreign Trade Milestones
+
+- **Export Surge**: World Bank notes India's exports expanded at **7.1% (2024)** vs 2.5% global average. Share of exports in India's GDP reached **21.2%**.
+- **April–August 2025 Exports**: USD 346.10 billion (merchandise 53.09%, services 46.91%) advancing towards **USD 1 trillion annual export target**.
+- **Global Tea Milestone**: In 2024, **India overtook Sri Lanka to become the world's second-largest tea exporter**!
+
+---
+
+### ILO Employment and Social Trends 2026 | Geneva, 14 January 2026
+
+- Released by the **International Labour Organization (ILO)**.
+- **Informality**: By 2026, **2.1 billion workers** globally will be in informal employment.
+- **Working Poverty**: ~284 million workers globally live on less than USD 3 per day. Extreme working poverty stands at **7.9%**.
+- **Global Youth Unemployment**: Recorded at **12.4%** in 2025.
+- **Labour Income Share**: Fell to **52.6%** globally.
+
+---
+
 ## July 2026
 
 ### India–UK CETA in force | 15 July 2026

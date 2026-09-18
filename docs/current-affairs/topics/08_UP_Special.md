@@ -514,6 +514,34 @@ The UP Cabinet cleared two big road projects to grow the state’s expressway ne
 - **Crude Birth Rate (CBR)**: **24.7 per 1,000 population** in UP (ranked **2nd highest in India** among major states, behind Bihar's 26.8; National average: 18.3).
 - **Infant Mortality Rate (IMR)**: **34 infant deaths per 1,000 live births** in UP (ranked **3rd highest in India** behind Chhattisgarh's 36 and Madhya Pradesh's 35; National average: 24).
 
+#### Third Advance Estimates of Agricultural Crops 2025–26 — UP Triple Crown (#1 in Rice, Wheat, Sugarcane)
+- **Source**: Ministry of Agriculture & Farmers' Welfare (Released 27 May 2026).
+- **Rice Production**: **Uttar Pradesh ranked #1 in India** with **198.05 lakh tonnes** (surpassing Telangana: 185.29L tonnes and West Bengal: 171.36L tonnes).
+- **Wheat Production**: **Uttar Pradesh ranked #1 in India** with **358.77 lakh tonnes** (far ahead of Madhya Pradesh: 264.43L tonnes and Punjab: 170.79L tonnes).
+- **Sugarcane Production**: **Uttar Pradesh ranked #1 in India** with **2,296.99 lakh tonnes** (commanding a dominant lead over Maharashtra: 1,316.49L tonnes and Karnataka: 572.88L tonnes).
+
+#### Basic Animal Husbandry Statistics (BAHS) 2025 — UP Milk & Meat Leadership
+- **Source**: Department of Animal Husbandry and Dairying, MoFAHD (Released 26 November 2025 on National Milk Day).
+- **Milk Production**:
+  - **Uttar Pradesh ranked #1 in India** contributing **15.66%** of total national milk production (followed by Rajasthan: 14.82%, Madhya Pradesh: 9.12%, Gujarat: 7.78%, Maharashtra: 6.71%).
+- **Meat Production**:
+  - **Uttar Pradesh ranked #2 in India** contributing **12.20%** of total national meat output (closely following West Bengal at #1 with 12.46%; ahead of Maharashtra: 11.57% and Andhra Pradesh: 10.84%).
+
+#### States' Startup Ranking Framework 5.0 (SRF 5.0) — UP as 'Top Performer'
+- **Announced by**: DPIIT, Ministry of Commerce and Industry (evaluating 34 States/UTs).
+- **UP Category**: Category A (States with population > 1 crore).
+- **UP Standing**: **Uttar Pradesh adjudged as 'Top Performer'** alongside Karnataka, Punjab, and Tamil Nadu (Gujarat was 'Best Performer').
+
+#### NITI Aayog Fiscal Health Index (FHI) 2026 — UP as 'Front-Runner' State
+- **Released on**: 11 March 2026 by NITI Aayog (assessing 5 pillars: Quality of Expenditure, Revenue Mobilisation, Fiscal Prudence, Debt Index, Debt Sustainability).
+- **UP Standing**: **Uttar Pradesh classified in the 'Front-Runners' category** among major states, sharing honors with Gujarat, Maharashtra, Chhattisgarh, Telangana, and Karnataka (Achievers: Odisha, Goa, Jharkhand).
+
+#### NITI Aayog Export Preparedness Index (EPI) 2024 — UP #1 Landlocked State
+- **Released on**: 14 January 2026 by NITI Aayog (4th edition, evaluated across 4 pillars: Policy, Infrastructure, Business Ecosystem, Export Performance).
+- **Overall Large States Rank**: **Rank #4 in India** (behind coastal heavyweights Maharashtra, Tamil Nadu, and Gujarat; ahead of Andhra Pradesh).
+- **Landlocked Champion**: **Uttar Pradesh ranked #1 among ALL LANDLOCKED STATES in India**!
+- **Core Drivers Praised**: **One District One Product (ODOP)** initiative, comprehensive logistics policy reforms, expressway and inland multimodal logistics hubs/dry ports, and dedicated exporter handholding cells.
+
 ---
 
 ## Practice Zone — UPPCS Format

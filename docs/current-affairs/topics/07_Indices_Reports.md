@@ -718,6 +718,101 @@ A Candere Hurun India Women Leaders list put **Meena Bindra** (BIBA) at the top.
   - **Global Innovation Index (GII) 2025**: India holds **38th rank**.
   - **Global IP Filings (WIPO 2024)**: India ranked **4th in Trademark filings, 6th in Patent applications, and 7th in Industrial Design filings**.
 
+### 34. WEF Energy Transition Index (ETI) 2026 | Released 18 June 2026
+- **Publisher**: **World Economic Forum (WEF)** in collaboration with **Accenture**.
+- **Report Title**: *"Fostering Effective Energy Transition 2026"*.
+- **Scope**: Evaluates **120 countries** across 44 indicators tracking transition readiness and system performance.
+- **Top 5 Performers**:
+  1. **Sweden** (Score: 75.3 — #1 globally)
+  2. **Finland** (Score: 74.1)
+  3. **Denmark** (Score: 72.6)
+  4. **Estonia** (Score: 70.9)
+  5. **Norway** (Score: 70.5)
+- **India's Standing**: **Ranked 70th out of 120 countries** (Score: **54.9**; climbed 2 ranks from 72nd).
+
+### 35. Performance Grading Index for Districts (PGI-D) 2024–25
+- **Publisher**: Department of School Education and Literacy, **Ministry of Education**.
+- **Scope**: Assesses **782 districts** nationwide across 600 points and 70 indicators grouped under 6 categories.
+- **Grade Distribution (Critical UPPCS Prelims Traps)**:
+  - **Utkarsh (Score >90%)**: **Zero (0) districts** achieved this grade.
+  - **Uttam-1 (81–90%)**: **Zero (0) districts** achieved this grade.
+  - **Uttam-2 (71–80%)**: 16 districts (up from 1).
+  - **Uttam-3 (61–70%)**: 75 districts (up from 40).
+- **Top Districts**: **Diu** (Score: 469 — highest in India), **Kolhapur** (MH: 463), **Barnala** (PB: 461), **Muktsar** (PB: 456).
+- **State Showcase**: **Kerala** stood out nationally with **all 14 of its districts placed in Uttam-2 or Uttam-3**.
+- **Lowest Scoring Districts**: South West Garo Hills (Meghalaya: 173), West Khasi Hills (176), South Garo Hills (179).
+
+### 36. State Energy Efficiency Index (SEEI) 2024 | Released by BEE
+- **Publishers**: **Bureau of Energy Efficiency (BEE)** with Alliance for an Energy Efficient Economy (**AEEE**).
+- **Scope**: 6th edition; evaluates 36 States/UTs across 66 indicators for FY 2023–24.
+- **Top Performers by Energy Consumption Group**:
+  - **Group 1 (>15 MTOE)**: **Maharashtra**
+  - **Group 2 (5–15 MTOE)**: **Andhra Pradesh**
+  - **Group 3 (1–5 MTOE)**: **Assam**
+  - **Group 4 (<1 MTOE)**: **Tripura**
+- **National Milestones**: 24 states notified ECBC 2017; 31 states adopted EV policies; Kerala achieved **74% adoption** of solar-powered agricultural pumps.
+
+### 37. "From Borrowers to Builders: Women and India's Evolving Credit Market" | NITI Aayog (7 April 2026)
+- **Publishers**: **NITI Aayog**, Women Entrepreneurship Platform (**WEP**), TransUnion CIBIL, and MicroSave Consulting.
+- **Core Findings**:
+  - Women in India hold a credit portfolio of **₹76 lakh crore**, representing **26% of total system credit** (up from ₹16 lakh crore in 2017).
+  - Credit penetration among women surged from **19% in 2017 to 36% in 2025**.
+  - India has approximately **45 crore credit-eligible women**, signaling vast untapped credit growth potential.
+
+### 38. Fiscal Health Index (FHI) 2026 | NITI Aayog (11 March 2026)
+- **Publisher**: **NITI Aayog** (2nd edition; measures fiscal resilience amidst global public debt reaching $102 trillion).
+- **Five Pillars**: Quality of Expenditure, Revenue Mobilisation, Fiscal Prudence, Debt Index, Debt Sustainability.
+- **Major States Categorisation**:
+  - **Achievers**: **Odisha, Goa, Jharkhand**.
+  - **Front-Runners**: **Gujarat, Maharashtra, Chhattisgarh, Telangana, Uttar Pradesh, Karnataka**.
+  - **Performers**: Madhya Pradesh, Haryana, Bihar (stronger deficit management), Tamil Nadu, Rajasthan.
+  - **Aspirational / Debt-Stressed**: **Punjab, Kerala, and West Bengal** flagged as the most debt-stressed and interest-burdened States.
+- **Himalayan & North-Eastern States**: Achievers: **Arunachal Pradesh, Uttarakhand**.
+
+### 39. Export Preparedness Index (EPI) 2024 | NITI Aayog (14 January 2026)
+- **Publisher**: **NITI Aayog** (4th edition; baseline aligned with $1 trillion merchandise export target by 2030).
+- **Four Core Pillars & Weights**: Policy & Governance (**20%**), Export Infrastructure (**20%**), Business Ecosystem (**40%**), Export Performance (**20%**).
+- **Large States Ranking**:
+  1. **Maharashtra**
+  2. **Tamil Nadu**
+  3. **Gujarat**
+  4. **Uttar Pradesh**
+  5. **Andhra Pradesh**
+- **Landlocked Champion**: **Uttar Pradesh ranked #1 among ALL LANDLOCKED STATES in India** (driven by ODOP, multimodal dry ports, expressways).
+- **Himalayan / Small States**: 1. **Uttarakhand**, 2. Jammu & Kashmir, 3. Nagaland.
+
+### 40. Innovators Business Environment Index (IBEI) 2026 | StartupBlink (January 2026)
+- **Publisher**: **StartupBlink** (covers 125 countries across 30+ indicators).
+- **Top 2 Economies**: 1. **United States**, 2. **Singapore**.
+- **India's Standing**: **Ranked 54th globally**; **Ranked #1 in South Asia** and **10th in Asia-Pacific**.
+
+### 41. Index of Economic Freedom 2026 | The Heritage Foundation (March 2026)
+- **Publisher**: **The Heritage Foundation** (Washington, D.C.; 32nd annual edition; assesses 176 countries).
+- **Four Policy Pillars**: Rule of Law, Government Size, Regulatory Efficiency, Open Markets.
+- **Categories & Top Standings**:
+  - **Economically Free ($\ge$80)**: Only 4 nations: 1. **Singapore (84.4 — #1 globally)**, 2. **Switzerland (83.7)**, 3. **Ireland (83.3)**, 4. **Australia (80.1)**.
+  - **Mostly Unfree (50–59.9)**: **India ranks 132nd globally** (Score: **52.5**; grouped with Mexico 92nd, South Africa 100th, Bangladesh 120th, Brazil 134th).
+  - **Repressed (<50)**: **North Korea (176th / Score: 3.1 — Lowest in the world)**; Pakistan (152nd), China (154th).
+
+### 42. Global Multidimensional Poverty Index (MPI) 2025 | UNDP & OPHI (17 October 2025)
+- **Publishers**: **United Nations Development Programme (UNDP)** and **Oxford Poverty and Human Development Initiative (OPHI)**.
+- **Special Dimension**: First-ever integration of **climate hazards** (floods, extreme heat) with multidimensional deprivation data.
+- **Global Deprivation Matrix**:
+  - **1.1 billion people (18.3%)** live in acute multidimensional poverty globally.
+  - **Over half (584 million) are children under 18**; child poverty rate stands at **27.8%** vs 13.5% for adults.
+  - **83.5% of poor people reside in rural areas**.
+  - Sub-Saharan Africa (553 million) and South Asia (402 million) account for **83.2% of all multidimensionally poor individuals**.
+- **India's Historic Transformation**:
+  - Multidimensional poverty in India plummeted from **55.1% in 2005–06 down to 16.4% in 2019–21**.
+  - Approximately **414 million people moved out of multidimensional poverty** in this 15-year period!
+- **MPI Structural Framework (High-Yield UPPCS Theory)**:
+  - **3 Dimensions**: Health, Education, Standard of Living (each dimension weighted equally at **1/3**).
+  - **10 Indicators**:
+    - Health (1/6 each): Nutrition, Child Mortality.
+    - Education (1/6 each): Years of Schooling, School Attendance.
+    - Standard of Living (1/18 each): Cooking Fuel, Sanitation, Drinking Water, Electricity, Housing, Assets.
+  - **Poverty Cut-off**: An individual is considered multidimensionally poor if deprived in **$\ge$ 33.3% (one-third)** of the weighted indicators.
+
 ---
 
 ## Practice Zone — UPPCS Format
