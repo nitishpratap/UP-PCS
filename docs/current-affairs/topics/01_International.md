@@ -573,6 +573,135 @@ India launched the first **Guide to Grasslands and Other Open Natural Ecosystems
   - **Israel**: Conferred the ***Speaker of the Knesset Medal*** on **25 February 2026** (presented by Speaker Amir Ohana in Jerusalem).
   - **Palestine**: Conferred the ***Grand Collar of the State of Palestine*** in **2018** (presented by President Mahmoud Abbas).
 
+### Arrest of Venezuelan President & Operation Absolute Resolve (January 2026)
+- **What Happened**: Venezuelan President **Nicolás Maduro** was captured by U.S. forces during **Operation Absolute Resolve** in January 2026.
+- **Acting Leadership**: Venezuela's Supreme Court directed Vice President **Delcy Rodríguez** (in office since 2018; Bolivarian socialist movement founded by Hugo Chávez) to assume the role of acting President.
+- **Geopolitical & Legal Flashpoint**: Prompted international debates regarding state sovereignty, unilateral intervention, and **Article 2(4) of the UN Charter** (which strictly prohibits the threat or use of force against the territorial integrity or political independence of any state).
+
+---
+
+## Multilateral Summits, Conferences & International Organisations (2025–2026)
+
+### 1. 52nd G7 Summit (15–17 June 2026 | Évian-les-Bains, France)
+- **Host & Presidency**: Held in **Évian-les-Bains, France**, under the French G7 Presidency.
+- **Participants**: Canada, France, Germany, Italy, Japan, United Kingdom, United States, and the European Union.
+- **Outreach Guests**: Key invited partners including **India** and Brazil.
+- **India's Participation**: Marked **India's 13th guest invitation** and Prime Minister Narendra Modi's **7th consecutive appearance** at the G7 Summit.
+- **Key Deliberations & Declarations**:
+  - Addressed vital waterway disruptions, endorsing demining operations and naval escort missions in the **Strait of Hormuz** for secure global energy transit.
+  - PM Modi strongly championed the safety of civilian seafarers and freedom of international commercial navigation.
+  - Reaffirmed peace and stability in the Taiwan Strait and called for complete, verifiable denuclearization of North Korea.
+  - Adopted three joint declarations: *Public Health & Tech*, *Migration & Crime*, and *Economy & Supply Chains*.
+- **Chronology & Future Hosts**:
+  - **51st G7 Summit (2025)**: Kananaskis, Alberta, Canada.
+  - **52nd G7 Summit (2026)**: Évian-les-Bains, France.
+  - **53rd G7 Summit (2027)**: United States.
+
+### 2. Election of the President of the 81st UNGA Session (September 2026)
+- **Elected President**: **Khalilur Rahman**, veteran diplomat and Foreign Minister of **Bangladesh**, was elected President of the **81st Session of the United Nations General Assembly (UNGA)**.
+- **Tenure**: Commences 1-year tenure on **8 September 2026**.
+- **Election Process**: Elected through a secret ballot after contesting against Andreas Kakouris of Cyprus. The presidency was allocated to the **Asia-Pacific Group** under the UN's geographic rotation system.
+- **Theme of the 81st Session**: *"Restoring Trust, Managing Transformation: A United Nations that Delivers for All"*.
+- **Historical Benchmark**: This marks Bangladesh's second UNGA presidency; **Humayun Rasheed Choudhury** served as President of the 41st UNGA Session in **1986**.
+
+### 3. BRICS Foreign Ministers Meeting 2026 & India's 2026 Chairship
+- **Ministerial Meeting**: Hosted by India at **Bharat Mandapam, New Delhi** on **14–15 May 2026**, chaired by External Affairs Minister **Dr. S. Jaishankar**.
+- **India's 4th Chairship**: India assumed the BRICS Chairship for 2026 — its **fourth time** chairing the grouping (previously chaired in **2012, 2016, and 2021**).
+- **Chairship Theme**: *"Building for Resilience, Innovation, Cooperation and Sustainability"*.
+- **Summit Venue**: The **18th BRICS Leaders' Summit** will be hosted by India in **2026**.
+- **Membership Matrix**: Following formal expansion, BRICS comprises **11 members**: Brazil, Russia, India, China, South Africa, Egypt, Ethiopia, Iran, UAE, Saudi Arabia (invited / finalizing formal accession), and **Indonesia** (inducted as newest full member).
+- **Preceding Summit (17th BRICS Summit 2025)**: Held in **Rio de Janeiro, Brazil** (6–7 July 2025) under the theme *"Strengthening Global South Cooperation for a More Inclusive and Sustainable Governance"*.
+
+### 4. UNSC Non-Permanent Members Election (2027–2028 Term)
+- **Election Date & Organ**: Elected by the UN General Assembly on **3 June 2026** for a two-year mandate running from **1 January 2027 to 31 December 2028**.
+- **Five Elected Nations**:
+  - **Western European and Others Group (2 seats)**: **Austria** and **Portugal** (Germany secured 104 votes and failed to win a seat).
+  - **Asia-Pacific Group (1 seat)**: **Kyrgyzstan** (defeated the Philippines after four competitive voting rounds; marks Kyrgyzstan's **first-ever term** on the Security Council since joining the UN in 1992).
+  - **Latin America and Caribbean Group (1 seat)**: **Trinidad and Tobago**.
+  - **African Group (1 seat)**: **Zimbabwe**.
+
+### 5. Common Criteria Development Board (CCDB) — India's Chairmanship
+- **Leadership Role**: India was nominated to chair the **Common Criteria Development Board (CCDB)** for a **two-year term** (2026–2028), elevating India's voice in global cybersecurity governance.
+- **Mandate**: CCDB is the governing body for the Common Criteria framework, standardizing global evaluation and certification of IT product security.
+- **Benchmark Standard**: Governed under **ISO/IEC 15408** (*"Evaluation criteria for IT security"*, latest edition **ISO/IEC 15408-1:2026**).
+
+### 6. 11th Quad Foreign Ministers' Meeting (26 May 2026 | New Delhi)
+- **Host & Participants**: Hosted by India in **New Delhi** on 26 May 2026, bringing together Foreign Ministers of **India, USA, Japan, and Australia**.
+- **Four Core Cooperation Pillars**:
+  1. Maritime and transnational security.
+  2. Economic prosperity and security.
+  3. Critical and emerging technologies.
+  4. Humanitarian assistance and emergency response.
+- **Major Outcomes & Agreements**:
+  - **IPMSC**: Established the *Indo-Pacific Maritime Surveillance Collaboration* to enhance coordinated naval and satellite monitoring.
+  - **IPMDA Hub in India**: Welcomed the operationalisation of the Indian Ocean Region programme of the *Indo-Pacific Partnership for Maritime Domain Awareness (IPMDA)* through the **Information Fusion Centre – Indian Ocean Region (IFC-IOR)** in **Gurugram, Haryana**.
+  - **Quad Initiative on Indo-Pacific Energy Security**: Launched to protect critical maritime energy lifelines and grid integration.
+  - **Quad Critical Minerals Framework**: Formulated to build transparent, resilient mineral supply chains, countering high concentration (IEA data shows China controls ~91% of global refined rare earth production).
+  - **Fiji Port Development**: Quad committed joint assistance to the Government of **Fiji** for modernising port infrastructure (following the *Quad Ports of the Future Partnership Conference* hosted by India in October 2025).
+  - **Pax Silica**: Formally incorporated into the Quad's economic security doctrine to guarantee semiconductor and trusted AI hardware supply ecosystems across 5G/6G and advanced computing.
+
+### 7. WTO 14th Ministerial Conference (MC-14 | Yaoundé, Cameroon | March 2026)
+- **Venue & Significance**: Held in **Yaoundé, Cameroon** — making it only the **second WTO Ministerial Conference ever hosted on African soil** (after MC-10 in Nairobi, Kenya, 2015).
+- **Membership**: WTO comprises **166 member states**.
+- **Indian Delegation**: Led by Union Minister of Commerce and Industry **Piyush Goyal**.
+- **Key Impasse & Outcomes**:
+  - The conference failed to conclude a comprehensive consensus ministerial declaration due to sharp North–South divisions on WTO dispute settlement reform and agriculture.
+  - **E-Commerce Moratorium**: A critical flashpoint was the moratorium on customs duties on electronic transmissions (in force since 1998); members failed to agree on a permanent extension.
+  - **Fisheries Subsidies Agreement**: Noted that the landmark WTO Agreement on Fisheries Subsidies officially **entered into force on 15 September 2025**.
+  - **India's Stance**: Firmly safeguarded public stockholding (PSH) for food security, protected subsidies for small and artisanal fishermen, and resisted disciplines on non-violation complaints under TRIPS.
+
+### 8. 11th Raisina Dialogue 2026 (5–7 March 2026 | New Delhi)
+- **Organisers**: Jointly hosted by the **Observer Research Foundation (ORF)** and the **Ministry of External Affairs (MEA)**.
+- **Theme**: *"Samskāra: Assertion, Accommodation, Advancement"*.
+- **Chief Guest & Keynote Speaker**: **Alexander Stubb**, President of **Finland**.
+- **Inauguration**: Inaugurated by Prime Minister Narendra Modi; attended by ~2,700 delegates from over 110 countries.
+- **New Launch**: Unveiled the **Raisina Science Diplomacy Initiative (SDI)**, institutionalised by the Office of the Principal Scientific Adviser (PSA) to the Government of India and ORF to bridge advanced science, quantum/AI technologies, and diplomatic policy.
+
+### 9. 16th India–EU Summit (27 January 2026 | New Delhi)
+- **High-Level Representation**: Prime Minister Narendra Modi met with European Council President **António Costa** and European Commission President **Ursula von der Leyen** (who were also Chief Guests for India's 77th Republic Day).
+- **Historic FTA Milestone**: Formally announced the **successful conclusion of negotiations on the landmark India–EU Free Trade Agreement (FTA)** (negotiations originally launched in 2007, suspended in 2013, and re-launched in June 2022).
+- **Strategic Roadmap**: Adopted the comprehensive ***"Towards 2030"*** strategic agenda structured across five pillars:
+  1. Prosperity and sustainability.
+  2. Technology and innovation.
+  3. Security and defence.
+  4. Connectivity and global challenges.
+  5. Mobility and people-to-people ties.
+- **Defence & Security**: Launched the *India–EU Security and Defence Partnership* covering joint maritime security exercises, cybersecurity incident response, and defence industrial co-production.
+- **Institutional MoUs**:
+  - Adopted a *Comprehensive Mobility Framework* for seamless movement of professionals, researchers, and students.
+  - Extended the *India–EU Science and Technology Agreement* for the **2025–2030** cycle; initiated discussions for India's associate membership in **Horizon Europe**.
+  - Disaster management cooperation pact between India's **NDMA** and EU's **DG-ECHO**.
+  - Dialogues on bridging carbon compliance regarding the EU's **Carbon Border Adjustment Mechanism (CBAM)**.
+
+### 10. 20th G20 Leaders' Summit (22–23 November 2025 | Johannesburg, South Africa)
+- **Historic Milestone**: The **first-ever G20 Leaders' Summit hosted on African soil**, held in Johannesburg under South Africa's G20 Presidency.
+- **Summit Theme**: *"Solidarity, Equality, Sustainability"*.
+- **Ubuntu Philosophy**: The *Johannesburg Leaders' Declaration* anchored itself in the traditional African humanist philosophy of **Ubuntu** (*"I am because we are" — shared humanity and mutual interdependence*).
+- **Mission 300**: Pledged concerted multilateral support to provide electricity access to **300 million people across Africa by 2030**.
+- **India's Six Global Proposals**: Prime Minister Narendra Modi (attending his 12th G20 Summit) proposed six major initiatives on behalf of the Global South:
+  1. *Traditional Knowledge Repository* (digitising indigenous medicinal and environmental knowledge).
+  2. *Africa Skills Multiplier Initiative* (pan-African vocational training through a train-the-trainer framework).
+  3. *Global Healthcare Response Team* (rapid emergency medical deployments).
+  4. *Open Satellite Data Partnership* (sharing Earth observation data for climate and agriculture).
+  5. *Critical Minerals Circularity Initiative* (recycling and sustainable processing).
+  6. *Drug–Terror Nexus Initiative* (combatting illicit narcotics trafficking financing terrorism).
+- **Trilateral ACITI Launch**: On the summit sidelines (22 Nov 2025), India, Australia, and Canada officially launched the **Australia–Canada–India Technology and Innovation (ACITI) Partnership** focused on green energy, critical minerals supply chains, and responsible AI.
+- **G20 Future Roster**:
+  - **21st G20 Summit (2026)**: Miami, Florida, United States.
+  - **22nd G20 Summit (2027)**: United Kingdom.
+  - **23rd G20 Summit (2028)**: Republic of Korea (South Korea).
+
+### 11. 2nd WHO Global Summit on Traditional Medicine (17–19 December 2025 | New Delhi)
+- **Host & Venue**: Co-hosted by the **World Health Organization (WHO)** and India's **Ministry of Ayush** at **Bharat Mandapam, New Delhi**.
+- **Theme**: *"Restoring balance: The science and practice of health and well-being"*.
+- **Institutional Background**: Followed the inaugural 1st WHO Global Summit on Traditional Medicine held in **Gandhinagar, Gujarat (August 2023)**.
+- **Global Hub**: Anchored to the world's first and only global outpost dedicated to indigenous healing systems — the **WHO Global Traditional Medicine Centre (GTMC)** located at **Jamnagar, Gujarat**.
+
+### 12. G7 French Presidency: One Health Summit 2026 (5–7 April 2026 | Lyon, France)
+- **Host & Dates**: Convened in **Lyon, France**, coinciding with **World Health Day (7 April 2026)** under the French G7 Presidency.
+- **Core Concept**: Focuses on the indivisible interconnections between human health, domestic and wild animal health, plant biosecurity, and ecosystem integrity (WHO notes that over **60% of all emerging human infectious pathogens originate in animals**).
+- **Institutional Quadripartite**: Driven collectively by the four lead multilateral bodies: **WHO, FAO, UNEP, and WOAH** (World Organisation for Animal Health).
+
 ---
 
 ## Practice Zone — UPPCS Format

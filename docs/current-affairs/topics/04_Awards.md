@@ -32,18 +32,41 @@
 
 ---
 
-### 1.1 Nobel Prizes 2025 (Complete Board)
+### 1.1 Nobel Prizes 2025 (Complete Board & Deep Facts)
 
 > **UPPCS Direct Match Alert:** Memorise the precise scientific discoveries, keywords, and country affiliations:
 
 | Category | Winner(s) | Country / Institution | Field / Key Contribution |
 | :--- | :--- | :--- | :--- |
-| **Physiology or Medicine** | **Mary E. Brunkow**, **Fred Ramsdell**, **Shimon Sakaguchi** | USA / Japan | Discoveries concerning regulatory T cells and peripheral immune tolerance mechanisms. |
-| **Physics** | **John Clarke**, **Michel H. Devoret**, **John M. Martinis** | USA / France | Discovery of **macroscopic quantum mechanical tunnelling** and energy quantisation in an electric circuit. |
-| **Chemistry** | **Omar M. Yaghi**, **Susumu Kitagawa**, **Richard Robson** | USA / Japan / Australia | For the pioneer development of **Metal-Organic Frameworks (MOFs)** and porous coordination polymers. |
-| **Literature** | **László Krasznahorkai** | Hungary | For compelling vision and dystopic postmodern literary prose capturing the human condition. |
-| **Peace** | **María Corina Machado** | Venezuela | Pro-democracy leader fighting for constitutional rights and peaceful democratic transition in Venezuela. |
-| **Economic Sciences** | **Joel Mokyr**, **Philippe Aghion**, **Peter Howitt** | USA / France / Canada | Theories on innovation, creative destruction, and historical drivers of sustained technological economic growth. |
+| **Physiology or Medicine** | **Mary E. Brunkow**, **Fred Ramsdell**, **Shimon Sakaguchi** | USA / Japan | Discoveries concerning **Regulatory T-cells (Tregs)** and the **FOXP3 gene**, which regulates **peripheral immune tolerance** (preventing the immune system from attacking body's own tissues; key for autoimmune diseases, organ transplant, and cancer immunotherapy). *(Indian historical connection: Har Gobind Khorana won in 1968 for decoding the genetic code).* |
+| **Physics** | **John Clarke**, **Michel H. Devoret**, **John M. Martinis** | UK / France / USA | Discovery of **macroscopic quantum mechanical tunnelling** and energy quantisation in electrical circuits. Proved quantum phenomena occur in larger engineered circuits; pioneered **Josephson junctions** (two superconductors separated by a thin insulating layer) vital for superconducting **qubits** in quantum computing. |
+| **Chemistry** | **Omar M. Yaghi**, **Susumu Kitagawa**, **Richard Robson** | USA / Japan / Australia | For the pioneer development of **Metal-Organic Frameworks (MOFs)** and porous coordination polymers (porous crystalline structures of metal ions + organic linkers used in carbon capture, gas storage, water harvesting, and catalysis). |
+| **Literature** | **László Krasznahorkai** | Hungary | Hungarian novelist and screenwriter (*Satantango*, *The Melancholy of Resistance*). Citation: *"an introspective body of work that reaffirms art's enduring humanistic power amid apocalyptic themes."* |
+| **Peace** | **María Corina Machado** | Venezuela | Pro-democracy opposition leader, head of the **Vente Venezuela** party; recognized for courageous defense of democratic rights and efforts toward a peaceful transition from dictatorship to democracy in Venezuela. |
+| **Economic Sciences** | **Joel Mokyr**, **Philippe Aghion**, **Peter Howitt** | USA / France / Canada | For explaining **innovation-driven economic growth**. Aghion and Howitt formulated the modern mathematical theory of growth through **"creative destruction"** (the process whereby new innovations replace obsolete technologies and firms). Official name: *Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel* (established 1968, first awarded 1969). |
+
+---
+
+### 1.2 UNESCO Cultural & Natural Heritage Inscriptions (2025)
+
+#### A. Deepavali Inscribed on UNESCO Intangible Cultural Heritage (ICH) List
+- **Date of Inscription**: **10 December 2025**.
+- **Session & Venue**: Inscribed during the **20th session of the Intergovernmental Committee for the Safeguarding of the Intangible Cultural Heritage**, held at the **Red Fort, New Delhi (8–13 December 2025)**.
+- **Domain**: Inscribed under the domain of *social practices, rituals and festive events*.
+- **Milestone Rank**: Deepavali became the **16th Indian element** on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity (joining Kumbh Mela, Durga Puja in Kolkata, Ramlila, Vedic Chanting, Garba of Gujarat, Yoga, Koodiyattam, etc.).
+- **UNESCO Executive Board**: India was also re-elected to the **UNESCO Executive Board for the 2025–2029 term** (58 member states elected for 4-year terms).
+
+#### B. Maratha Military Landscapes — India's 44th World Heritage Property
+- **Date & Session**: Inscribed on **11 July 2025** during the **47th session of the UNESCO World Heritage Committee** held in **Paris, France** (6–16 July 2025; note that the 46th session was held in New Delhi, India).
+- **Serial Property**: Consists of **12 historic forts** demonstrating extraordinary military engineering and strategic adaptation across the Western Ghats and Deccan:
+  - **11 Forts in Maharashtra**: Raigad, Shivneri, Pratapgad, Rajgad, Sindhudurg, Lohagad, Vijaydurg, Salher, Suvarnadurg, Khanderi, and Panhala.
+  - **1 Fort in Tamil Nadu**: **Gingee Fort** (*Crucial UPPCS Trap: It is NOT located entirely in Maharashtra!*).
+- **Total Heritage Tally of India**: India now possesses **44 UNESCO World Heritage Sites** (comprising **36 Cultural, 7 Natural, and 1 Mixed Site** - Khangchendzonga).
+- **Recent Inscription Timeline**:
+  - 2021: Dholavira (Gujarat) & Ramappa Temple (Telangana).
+  - 2023: Santiniketan (West Bengal) & Sacred Ensembles of the Hoysalas (Karnataka).
+  - 2024: Moidams – the Mound-Burial System of the Ahom Dynasty (Assam).
+  - 2025: **Maratha Military Landscapes of India** (Maharashtra & Tamil Nadu).
 
 ---
 

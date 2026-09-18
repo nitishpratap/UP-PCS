@@ -478,6 +478,114 @@ A Candere Hurun India Women Leaders list put **Meena Bindra** (BIBA) at the top.
 - **Theme**: *"AI Governance in a Global Context: Policy and Regulatory Approaches"*.
 - **Top 5**: 1. **United States** (79.13), 2. Finland, 3. Singapore, 4. Denmark, 5. Sweden.
 - **India's Standing**: Jumped to **45th position globally** (Score: **54.43**), reflecting accelerated digital public infrastructure deployment.
+- **Sub-Rankings**: India ranked **2nd among lower-middle-income countries** (behind Vietnam) and **3rd globally** on domestic market scale and income inequality indicators.
+
+### 12. Responsible Nations Index (RNI) 2026 | Released 19 January 2026
+- **Launch & Publisher**: Launched in New Delhi by former President **Ram Nath Kovind**; published by the **World Intellectual Foundation (WIF)** and developed collaboratively by **WIF, Jawaharlal Nehru University (JNU), and IIM Mumbai**.
+- **Framework**: Evaluates 154 countries utilizing World Bank, UN agencies, and World Justice Project datasets to establish an objective, non-Western, non-GDP-centric assessment of national responsibility.
+- **Top 5 Nations**:
+  1. **Singapore** (0.61945)
+  2. Switzerland (0.58692)
+  3. Denmark (0.58372)
+  4. Cyprus (0.57737)
+  5. Sweden (0.57397)
+- **Lowest Ranked**: Afghanistan, North Korea, Yemen, Syria, Central African Republic.
+- **India's Standing**: **Ranked 16th globally** (Score: **0.551513**), reflecting strong balanced governance and multilateral responsibility.
+
+### 13. The Global Risks Report 2026 | Released 14 January 2026
+- **Publisher**: **World Economic Forum (WEF)** (21st edition; drawn from Global Risks Perception Survey - GRPS and Executive Opinion Survey - EOS).
+- **Core Diagnosis**: The world is entering an *"Age of Competition"* driven by geoeconomic fragmentation, technological warfare, and cascading ecological shocks.
+- **Top 5 Global Risks by Severity**:
+  - **Short-Term (2 Years)**:
+    1. Geo-economic confrontation
+    2. Misinformation and disinformation
+    3. Societal polarization
+    4. Extreme weather events
+    5. State-based armed conflict
+  - **Long-Term (10 Years)**:
+    1. Extreme weather events
+    2. Biodiversity loss and ecosystem collapse
+    3. Critical change to Earth systems
+    4. Misinformation and disinformation
+    5. Adverse outcomes of AI technologies
+- **Most Interconnected Global Risk**: **Inequality**.
+- **India's Specific Risk Outlook**:
+  - **#1 Top Risk for India**: **Cybersecurity**.
+  - Subsequent domestic risks: Income and wealth inequality, Insufficient public services, Economic downturn, State-based armed conflict.
+
+### 14. Asia Manufacturing Index (AMI) 2026 | Released 12 January 2026
+- **Publisher**: **Dezan Shira & Associates** (assesses 11 Asian manufacturing powerhouse economies).
+- **Top 6 Standings**:
+  1. **China** (Strong industrial base and integrated supply chains)
+  2. **Malaysia** (Policy reforms and investor-friendly environment)
+  3. **Vietnam** (Export-driven manufacturing growth)
+  4. **Singapore** (Advanced infrastructure and innovation)
+  5. **South Korea** (High-technology manufacturing)
+  6. **India** (**Ranked 6th**; core identified competitive advantage: *Market size and workforce strength*).
+
+### 15. The World Inequality Report 2026 | Released December 2025
+- **Publisher**: **World Inequality Lab** (3rd edition; edited by **Thomas Piketty** and **Lucas Chancel**).
+- **Global Wealth & Income Matrix**:
+  - Top 10% controls **~75% of global wealth**; bottom 50% owns just **2%**.
+  - Top 1% owns **37% of global wealth** (more than the combined wealth of the entire bottom 50%).
+  - The ultra-rich top 0.001% (~60,000 individuals) hold **3 times more wealth than the poorest 50% of the world's population**.
+  - Women earn only **25% of global labour income** (female labour force participation: 15.7%).
+  - Climate inequality: Top 10% accounts for **77% of private capital emissions**; richest 1% produces **41% of emissions**; bottom 50% contributes only 3%.
+  - Systemic wealth drain: Approximately **1% of global GDP flows annually from poorer to richer nations** through unequal financial mechanisms.
+- **India's Inequality Metrics**:
+  - Top 10% captures **58% of national income**; bottom 50% receives just **15%**.
+  - Richest 10% holds **65% of national wealth**; top 1% controls **40% of total wealth**.
+  - Average per capita annual income: **€6,200 (PPP)**; average wealth per adult: **€28,000 (PPP)**.
+
+### 16. Commitment to Development Index (CDI) 2025 | Released 20 November 2025
+- **Publisher**: **Center for Global Development (CGD)** (measures policies of major economies supporting poorer nations beyond foreign aid).
+- **Top Performers**: 1. **Sweden**, 2. Germany, 3. Norway, 4. Finland, 5. UK.
+- **Major Economies Underperforming**: United States ranks 28th; China ranks 34th.
+- **India's Standing**: **36th overall** (among 38 evaluated economies); **30th on income-adjusted ranking**.
+- **Sectoral Divergence**: India ranks **8th in Environment**, but ranks **38th (last) in both Trade and Development Finance**.
+
+### 17. UN World Urbanization Prospects 2025 | Released November 2025
+- **Publisher**: **UN Department of Economic and Social Affairs (UN DESA)**.
+- **World's Most Populous Megacities**:
+  1. **Jakarta, Indonesia** (**42 million**)
+  2. **Dhaka, Bangladesh** (**37 million**)
+  3. **Tokyo, Japan** (**33 million** — dropped from top spot)
+- **Asian Mega-Concentration**: **9 of the world's 10 most populous cities** are in Asia: Jakarta, Dhaka, Tokyo, New Delhi, Shanghai, Guangzhou, Manila, Kolkata, and Seoul.
+
+### 18. Global Hunger Index (GHI) 2025 | October 2025
+- **Publishers**: **Concern Worldwide**, **Welthungerhilfe**, and **IFHV** (20th edition).
+- **Global Score**: Average score is **18.3** ("Moderate").
+- **Four Indicators**: Undernourishment, Child Stunting, Child Wasting, Child Mortality.
+- **Bottom-Most Nation**: **Somalia** (worst hunger level globally).
+- **Seven Nations in "Alarming" Category**: Burundi, DR Congo, Haiti, Yemen, Madagascar, Somalia, South Sudan.
+- **India's Standing**: **Ranked 102nd out of 123 evaluated countries** (Score: **25.8**, Severity: **"Serious"**). Child stunting stands at ~35% and child wasting at 18%.
+
+### 19. Global Liveability Index 2025 | June 2025
+- **Publisher**: **Economist Intelligence Unit (EIU)** (173 cities assessed across stability, healthcare, culture & environment, education, infrastructure).
+- **World's Most Liveable City**: **Copenhagen (Denmark)** (Score: **98.0**; perfect 100 in stability, education, infrastructure), terminating Vienna's 3-year streak.
+- **Top 5**: 1. Copenhagen (98.0), 2. Vienna (97.1) & Zurich (97.1), 4. Melbourne (97.0), 5. Geneva (96.8).
+- **Least Liveable Cities**: 173. Damascus (Syria), 172. Tripoli (Libya), 171. Dhaka (Bangladesh), 170. Karachi (Pakistan), 169. Algiers (Algeria).
+- **India's Cities**: Both **New Delhi and Mumbai tied at 141st rank** out of 173 cities.
+
+### 20. Global Gender Gap Report 2025 | Released 11 June 2025
+- **Publisher**: **World Economic Forum (WEF)** (19th edition; 148 economies across 4 dimensions: Economic Participation, Education, Health, Political Empowerment).
+- **Top 5 Nations**: 1. **Iceland** (0.926; top for 16th consecutive year), 2. Finland (0.879), 3. Norway (0.863), 4. United Kingdom (0.838), 5. New Zealand (0.827).
+- **Bottom 5 Nations**: 148. **Pakistan** (0.567), 147. Sudan (0.570), 146. Chad (0.571), 145. Iran (0.583), 144. Guinea (0.595).
+- **India's Standing**: **Ranked 131st out of 148 countries** (Gender Parity Score: **64.4% / 0.644**; fell from 129th in 2024).
+- **Weakest Area**: **Political Empowerment** — women in Parliament fell from 14.7% to 13.8%; female ministers fell from 6.5% to 5.6% (steep drop from 2019 high of 30%).
+- **South Asia Matrix**: Bangladesh surged to 24th; Bhutan (119), Nepal (125), and Sri Lanka (130) all rank higher than India. Only Maldives (138) and Pakistan (148) rank lower.
+
+### 21. UN Sustainable Development Report (SDR) 2025 | Released 24 June 2025
+- **Publisher**: **UN Sustainable Development Solutions Network (SDSN)** (evaluates 167 nations across 17 SDGs).
+- **Global Assessment**: Zero SDGs on track globally for 2030; only ~17% of targets progressing adequately.
+- **Top 3 Leaders (SDG Index)**:
+  1. **Finland** (87.0)
+  2. **Sweden** (85.7)
+  3. **Denmark** (85.3)
+  *(19 of top 20 nations are European; China ranks 49th).*
+- **Bottom 3 Nations**: 167. South Sudan (41.6), 166. Central African Republic (45.2), 165. Chad (46.0).
+- **India's Standing**: **Ranked 99th out of 167 countries** (Score: **66.95 / ~67.0**). Demonstrates consistent 4-year upward trajectory: 120th (2021) $\rightarrow$ 121st (2022) $\rightarrow$ 112th (2023) $\rightarrow$ 109th (2024) $\rightarrow$ **99th (2025)**.
+- **Regional Comparison**: Bhutan (74th), Nepal (85th), Maldives (53rd), and Sri Lanka (93rd) lead India; Bangladesh (114th) and Pakistan (140th) lag behind.
 
 ---
 
