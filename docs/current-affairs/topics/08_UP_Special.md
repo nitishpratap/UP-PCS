@@ -489,6 +489,9 @@ The UP Cabinet cleared two big road projects to grow the state’s expressway ne
 - **Core Scope**: Bilateral academic and technological partnership between **IIT Kanpur** and **Vietnam National University** focusing on **AI, smart city systems, drone technology, AI-driven healthcare, and agricultural drone applications**.
 - **Key Delegations**: Included Dr. Nguyen Thu Huong (Vice Rector) and Prof. Nguyen Dinh Duc (Dean of Civil Engineering, VNU).
 
+#### IIT Kanpur in QS World University Rankings 2027
+- **Global Milestone**: **IIT Kanpur** maintained its global standing at **Rank 222** in the QS World University Rankings 2027, standing as Uttar Pradesh's highest-ranked premier higher education institution globally.
+
 ---
 
 ## Practice Zone — UPPCS Format

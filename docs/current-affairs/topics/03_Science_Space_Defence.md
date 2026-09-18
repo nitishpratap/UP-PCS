@@ -517,6 +517,15 @@ The **SHANTI Act, 2025** (received Presidential assent in December 2025) overhau
 - **Value**: **CAD 2.6 billion agreement** signed during Canadian PM Mark Carney's visit (Feb–March 2026).
 - **Scope**: Canadian uranium giant **Cameco** guarantees long-term supply of natural uranium concentrates to the **Department of Atomic Energy (DAE)** to feed India's expanding fleet of Pressurised Heavy Water Reactors (PHWRs).
 
+### 🇮🇳 Operation Sindhu (West Asia Strategic Evacuation)
+- **Mission**: Evacuation operation launched by the **Government of India** in 2026 to extract Indian citizens stranded across West Asian conflict zones (amid US–Israel–Iran military escalations).
+- **Air & Maritime Dimensions**: Coordinated by the Ministry of External Affairs (MEA), Indian Air Force (IAF C-17 Globemaster III transport aircraft), and Indian Navy warships deployed on anti-piracy / maritime patrol in the Persian Gulf and Arabian Sea.
+
+### SIPRI 2026 Nuclear & Strategic Metrics
+- **Nuclear Warheads Stockpile**: India's estimated nuclear stockpile expanded to **190 warheads** (surpassing Pakistan's 170 warheads). Global total: 12,187 warheads (Russia 5,420; USA 5,042; China 620; France 370; UK 225).
+- **Global Military Spending**: India ranked **5th globally** with an annual defence budget of **$92.1 billion** (an 8.9% expansion over 2024; trailing US $954B, China $336B, Russia $190B, Germany $114B).
+- **Arms Imports Share**: India is the **world's 2nd largest arms importer** accounting for **8.2% of global arms imports** in 2021–2025 (surpassed only by war-torn Ukraine at 9.7%).
+
 ---
 
 ## Practice Zone — UPPCS Format

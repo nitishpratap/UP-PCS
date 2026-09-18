@@ -351,6 +351,136 @@ August was quieter for new global indices. Keep ready:
 
 A Candere Hurun India Women Leaders list put **Meena Bindra** (BIBA) at the top. Para shooter **Avani Lekhara** appeared in the top ten.
 
+---
+
+## In-Depth Global Indices & Rankings (Ghatna Chakra Eye Drishti 2026)
+
+### 1. Global Peace Index (GPI) 2026 | Released 9 June 2026
+- **Publisher**: **Institute for Economics & Peace (IEP)**, Sydney.
+- **Key Finding**: Global peacefulness is at its lowest point since the index's inception due to escalating militarization and regional wars.
+- **Global Leaders (Top 5)**:
+  1. **Iceland** (remains the world's most peaceful country since 2008)
+  2. **New Zealand**
+  3. **Switzerland**
+  4. **Slovenia**
+  5. **Ireland**
+- **Bottom 5 Least Peaceful**: **Russia** (163rd / least peaceful), Sudan, Democratic Republic of Congo, Ukraine, Israel.
+- **United States**: Ranked **134th** globally.
+- **India's Ranking**: **127th out of 163 countries** (fell from 115th in 2025).
+- **South Asian Order**: **Bhutan** leads the region at **16th** globally $\rightarrow$ Sri Lanka (67th) $\rightarrow$ Nepal (111th) $\rightarrow$ Bangladesh (117th) $\rightarrow$ **India (127th)** $\rightarrow$ Pakistan (152nd) $\rightarrow$ Afghanistan (157th).
+
+### 2. World Competitiveness Ranking 2026 | Released 18 June 2026
+- **Publisher**: **IMD Business School** (Switzerland); assesses 70 global economies.
+- **Four Core Pillars**: Economic Performance, Government Efficiency, Business Efficiency, and Infrastructure.
+- **Top 5 Economies**:
+  1. **Singapore** (reclaimed the #1 global spot)
+  2. **Hong Kong SAR**
+  3. **Switzerland**
+  4. **Taiwan**
+  5. **United Arab Emirates (UAE)**
+- **India's Standing**: **Ranked 44th** out of 70 economies.
+
+### 3. EIU Democracy Index 2025 | Published April 2026
+- **Publisher**: **Economist Intelligence Unit (EIU)**.
+- **Classification of India**: Categorized as a ***"Flawed Democracy"***; overall score fell by -0.33 points, dropping India to **45th rank globally**.
+- **Top 5 Democracies**:
+  1. **Norway**
+  2. **New Zealand**
+  3. **Denmark**
+  4. **Iceland**
+  5. **Switzerland**
+- **Bottom Ranked**: **Afghanistan** (167th rank / lowest globally, alongside North Korea).
+
+### 4. SIPRI Yearbook 2026 (57th Edition) | Released 8 June 2026
+- **Publisher**: **Stockholm International Peace Research Institute (SIPRI)**.
+- **Nuclear Warhead Inventories**:
+  - **Russia**: 5,420 total inventory (1,796 deployed).
+  - **United States**: 5,042 total inventory (1,770 deployed).
+  - **China**: 620 total inventory (34 deployed).
+  - **France**: 370 total inventory (280 deployed).
+  - **United Kingdom**: 225 total inventory (120 deployed).
+  - **India**: **190 total warheads** (12 deployed).
+  - **Pakistan**: **170 total warheads** (0 deployed).
+  - *(Crucial Prelims Fact: India possesses 190 nuclear warheads, having surpassed Pakistan's stockpile of 170).*
+- **Military Expenditure 2025 (Top 5 Spenders)**:
+  1. **United States**: $954.0 billion (-7.5%)
+  2. **China**: $336.0 billion (+7.4%)
+  3. **Russia**: $190.0 billion (+5.9%)
+  4. **Germany**: $114.0 billion (+24.0%)
+  5. **India**: **$92.1 billion** (+8.9% increase over 2024; 5th largest military spender globally).
+- **International Arms Transfers (2021–2025 Trend)**:
+  - **Top Arms Importers**: 1. **Ukraine (9.7%)**, 2. **India (8.2%)**, 3. Saudi Arabia (6.8%), 4. Qatar (6.4%), 5. Pakistan (4.2%).
+  - **Top Arms Exporters**: 1. **United States (42.0%)**, 2. **France (9.8%)**, 3. **Russia (6.8%)**, 4. Germany (5.7%), 5. China (5.6%).
+
+### 5. QS World University Rankings 2027 | Released 18 June 2026
+- **Publisher**: **Quacquarelli Symonds (QS)**; evaluated >1,500 institutions across 106 nations.
+- **Global Top 3**:
+  1. **MIT (USA)** — Top spot for the **15th consecutive year**.
+  2. **Imperial College London** and **Stanford University** (tied for 2nd).
+- **Indian Institutions (52 featured — 5th most represented nation)**:
+  - **IIT Delhi**: **Rank 118** (highest-ranked Indian institution, up from 123).
+  - **IIT Bombay**: Rank 134.
+  - **IIT Madras**: Rank 170.
+  - **IIT Kharagpur**: Rank 205.
+  - **IISc Bangalore**: Rank 221.
+  - **IIT Kanpur**: **Rank 222** (maintained; premier UP institution).
+  - **University of Delhi**: Rank 323.
+  - **IIT Roorkee**: Rank 335.
+  - **IIT Guwahati**: Rank 350.
+  - **Shoolini University**: **Rank 454** (**Highest-ranked private university in India**).
+
+### 6. World Press Freedom Index 2026
+- **Publisher**: **Reporters Without Borders (RSF — Reporters Sans Frontières)**.
+- **Global Pattern**: Evaluates 180 countries across 5 indicators: Political, Legal Framework, Economic, Sociocultural, and Safety.
+- **Top 5 Countries**: 1. **Norway**, 2. Netherlands, 3. Estonia, 4. Denmark, 5. Sweden.
+- **Bottom 5 Countries**: 176. Saudi Arabia, 177. Iran, 178. China, 179. North Korea, 180. **Eritrea**.
+- **India's Standing**:
+  - **Rank 157th out of 180 countries** (Score: **32.96**; dropped 6 spots from 151st in 2025).
+  - Classified in the ***"Very Serious"*** category.
+  - **South Asian Order (India is lowest in South Asia)**: Nepal (87th) $\rightarrow$ Maldives (108th) $\rightarrow$ Sri Lanka (134th) $\rightarrow$ Bhutan (150th) $\rightarrow$ Bangladesh (152nd) $\rightarrow$ Pakistan (153rd) $\rightarrow$ **India (157th)**.
+
+### 7. World Happiness Report 2026 | Released 19 March 2026
+- **Publisher**: Wellbeing Research Centre (University of Oxford) with Gallup, UN SDSN.
+- **Metric**: Cantril Ladder (0 to 10 scale) using 6 variables: GDP per capita, social support, healthy life expectancy, freedom, generosity, and corruption perceptions. Special focus on *Social Media and Wellbeing*.
+- **Top 5 Happiest**:
+  1. **Finland** (Score: 7.764 — **#1 for the 9th consecutive year**)
+  2. **Iceland**
+  3. **Denmark**
+  4. **Costa Rica** (standout non-Nordic performer)
+  5. **Sweden**
+- **Bottom 5**: 143. Botswana, 144. Zimbabwe, 145. Malawi, 146. Sierra Leone, 147. **Afghanistan** (1.446 — least happy).
+- **India's Ranking**: **116th out of 147 countries**. (In South Asia, Nepal and Pakistan rank happier than India; Bangladesh and Sri Lanka rank lower).
+
+### 8. Global Terrorism Index (GTI) 2026 | Released March 2026
+- **Publisher**: **Institute for Economics & Peace (IEP)**, Sydney (13th edition; 163 countries).
+- **Global Trend**: Global terrorism deaths dropped by 28%; incidents decreased by 22%. The **Sahel region** in Sub-Saharan Africa accounts for >50% of global deaths.
+- **Most Impacted Country**: **Pakistan ranked #1 in the world** (highest terrorism impact).
+- **India's Standing**: **Ranked 13th** (Score: 6.428); Left-Wing Extremism (LWE) showed a continuing decline.
+
+### 9. Corruption Perceptions Index (CPI) 2025 | Released 10 February 2026
+- **Publisher**: **Transparency International** (Secretariat in Berlin, Germany; founded 1993).
+- **Scale**: 0 (highly corrupt) to 100 (very clean); evaluated 182 countries. Global average fell to 42.
+- **Top Performers**:
+  1. **Denmark** (Score: **89/100** — **#1 for the 8th consecutive year**)
+  2. **Finland** (88)
+  3. **Singapore** (84)
+  4. **New Zealand & Norway** (81)
+- **Least Clean**: **South Sudan & Somalia** (Score: 9), Venezuela (10), Syria & North Korea (15).
+- **India's Standing**: **Ranked 91st** with a score of **39 out of 100**. (Bhutan: 71, China: 43, India: 39, Pakistan: 28, Bangladesh: 24).
+
+### 10. International Intellectual Property (IP) Index 2026 | March 2026
+- **Publisher**: **U.S. Chamber of Commerce** (14th edition; evaluates 55 economies across 53 criteria).
+- **Top 4 Economies**: 1. **United States (95.15%)**, 2. UK (93.98%), 3. France (93.11%), 4. Germany (92.02%).
+- **India's Standing**: **Ranked 43rd out of 55 economies** (Score: **36.91%**; maintained 43rd rank from 2025).
+
+### 11. Network Readiness Index (NRI) 2025 | Released 4 February 2026
+- **Publisher**: **Portulans Institute** (assesses 127 economies across 4 pillars: Technology, People, Governance, Impact).
+- **Theme**: *"AI Governance in a Global Context: Policy and Regulatory Approaches"*.
+- **Top 5**: 1. **United States** (79.13), 2. Finland, 3. Singapore, 4. Denmark, 5. Sweden.
+- **India's Standing**: Jumped to **45th position globally** (Score: **54.43**), reflecting accelerated digital public infrastructure deployment.
+
+---
+
 ## Practice Zone — UPPCS Format
 
 > **20 questions** for this sheet only — drill after you revise the months above.

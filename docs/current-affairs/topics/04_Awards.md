@@ -49,10 +49,32 @@
 
 ### 1.2 Prestigious Global & State Honours (2025–2026)
 
-- **Wolf Prize in Physics 2025:** Conferred on **Prof. Jainendra K. Jain** (**first person of Indian origin** to receive the Wolf Prize in Physics), shared with James P. Eisenstein and Mordehai Heiblum. Awarded for the groundbreaking discovery and theory of ***Composite Fermions*** in fractional quantum Hall states. Presented by Israeli President Isaac Herzog.
+- **Speaker of the Knesset Medal (Israel):** Israel's highest parliamentary honour was conferred on Prime Minister **Narendra Modi** on **25 February 2026**, presented by Knesset Speaker Amir Ohana in Jerusalem. With this, Modi became the **first leader in global history to receive supreme honours from BOTH Israel and Palestine** (*Grand Collar of the State of Palestine* was conferred in 2018).
+- **FAO Agricola Medal:** The highest award of the UN Food and Agriculture Organization (FAO) was conferred on Prime Minister **Narendra Modi** at FAO Headquarters in **Rome** (19 May 2026) in recognition of his contribution to global food security, smallholder farmer empowerment, and sustainable agrifood systems.
+- **Order of the Republic (Trinidad & Tobago):** Conferred on Prime Minister **Narendra Modi** by President Christine Carla Kangaloo on **3 July 2025**; Modi became the **first foreign leader to receive Trinidad & Tobago's highest national honour**.
+- **Order of the Most Ancient Welwitschia Mirabilis (Namibia):** Namibia's supreme civilian honour was conferred on Prime Minister **Narendra Modi** by President Dr. Netumbo Nandi-Ndaitwah on **9 July 2025** in Windhoek.
+- **Great Honour Nishan of Ethiopia:** Conferred on Prime Minister **Narendra Modi** by Prime Minister Abiy Ahmed Ali on **16 December 2025** during his historic address to the Joint Session of the Ethiopian Parliament in Addis Ababa.
+- **The Grand Collar of the National Order of the Southern Cross (Brazil):** Brazil's highest honour for foreign dignitaries was conferred on Prime Minister **Narendra Modi** by President Luiz Inácio Lula da Silva on **8 July 2025** in Brasília.
 - **Order of the White Double Cross (Slovakia):** Slovakia's **highest state honour** was conferred on Prime Minister **Narendra Modi** during his official visit to **Bratislava** (14–16 June 2026).
+- **Wolf Prize in Physics 2025:** Conferred on **Prof. Jainendra K. Jain** (**first person of Indian origin** to receive the Wolf Prize in Physics), shared with James P. Eisenstein and Mordehai Heiblum. Awarded for the groundbreaking discovery and theory of ***Composite Fermions*** in fractional quantum Hall states. Presented by Israeli President Isaac Herzog.
 - **Miss Universe 2025 (November 2025):** Won by **Fátima Bosch** of **Mexico**.
 - **Femina Miss India World 2026 (18 April 2026):** Won by **Sadhvi Satish Sail** at KIIT, Bhubaneswar, Odisha.
+
+#### 77th Republic Day Parade Honours (26 January 2026)
+- **Judges Panel Selection**:
+  - **Best State Tableaux**:
+    1. **Maharashtra** (*Ganeshotsav: A Symbol of Aatmanirbharta*)
+    2. **Jammu & Kashmir** (*Handicrafts and Folk Dances of J&K*)
+    3. **Kerala** (*Water Metro & 100% Digital Literacy*)
+  - **Best Marching Contingents**: **Indian Navy** (Services); **Delhi Police** (CAPF / Auxiliary).
+  - **Best Ministry / Department**: **Ministry of Culture** (*Vande Mataram - The Soul Cry of a Nation*).
+- **Popular Choice (MyGov Nationwide Citizen Voting)**:
+  - **Best State Tableaux**:
+    1. **Gujarat** (*Mantra of Swadeshi - Self-Reliance - Freedom: Vande Mataram*)
+    2. **Uttar Pradesh** (*Culture of Bundelkhand*)
+    3. **Rajasthan** (*Bikaner Gold Art / Usta Art*)
+  - **Best Marching Contingents**: **Assam Regiment** (Services); **CRPF** (CAPF).
+  - **Best Ministry / Department**: Department of School Education & Literacy (NEP 2020).
 
 ---
 

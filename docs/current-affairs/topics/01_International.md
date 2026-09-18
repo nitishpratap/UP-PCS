@@ -482,6 +482,96 @@ India launched the first **Guide to Grasslands and Other Open Natural Ecosystems
 - **Visiting Dignitary**: Brazilian President **Luiz Inácio Lula da Silva** paid his 2nd State Visit (5th overall visit) to India.
 - **Multilateral Forum**: Attended the **2nd AI Impact Summit** (19–20 Feb) in New Delhi and held bilateral talks with PM Modi on 21 February.
 - **Global South Anchors**: Reaffirmed joint leadership across **BRICS, G20, IBSA, G-4, WTO, and United Nations** reform.
+- **Trade & Resources**: Shared target to raise bilateral trade to over **USD 30 billion by 2030** (Brazil is India's largest trading partner in Latin America). MoU between India's Ministry of Steel and Brazil's Ministry of Mines and Energy for steel sector minerals.
+- **Modi's 2025 Visit**: On 8 July 2025, PM Modi was conferred Brazil's highest national honour: ***"The Grand Collar of the National Order of the Southern Cross"***.
+
+### 15. India–Argentina (4–5 July 2025)
+- **Historic Milestone**: First bilateral visit by an Indian Prime Minister to Argentina in **57 years** (Modi previously visited in 2018 for the multilateral G20 Summit).
+- **Leadership**: Summit talks with President **Javier Milei** in Buenos Aires; Strategic Partnership (since 2019).
+- **Tribute**: Paid homage at the memorial of **General José de San Martín** (*Father of the Nation of Argentina*).
+- **Trade Linchpin**: Argentina is India's primary global supplier of **edible oils, especially soybean oil**.
+
+### 16. India–Trinidad & Tobago (3–4 July 2025)
+- **Summit & Honours**: PM Modi met President **Christine Carla Kangaloo** and was conferred the nation's highest honour: ***"The Order of the Republic"*** (first foreign leader to receive it).
+- **First in Caribbean**: Trinidad & Tobago became the **first Caribbean country to adopt UPI** (agreement signed September 2024).
+- **Diaspora Milestone**: Modi addressed the Joint Parliament and announced that **OCI card eligibility is extended to the 6th generation diaspora** (earlier capped at the 4th generation).
+
+### 17. India–Norway & 3rd India–Nordic Summit (18–19 May 2026 | Oslo)
+- **Elevation of Ties**: Bilateral relationship elevated to a ***"Green Strategic Partnership"*** during PM Modi's visit to Oslo, hosted by Norwegian PM **Jonas Gahr Støre** (audience with King Harald V).
+- **3rd India–Nordic Summit (19 May 2026)**: Convened India alongside Norway, Denmark, Finland, Iceland, and Sweden; elevated to a *trusted Green Technology and Innovation Strategic Partnership*.
+- **Green Finance & IPOI**: Norwegian Climate Investment Fund investing in Indian clean energy under **Article 6.2 of Paris Agreement**; Norway officially joined the **Indo-Pacific Oceans Initiative (IPOI)**; Arctic research at India's **Himadri station in Ny-Ålesund, Svalbard**.
+
+### 18. India–Italy & FAO Agricola Medal (19–20 May 2026 | Rome)
+- **Elevation of Ties**: Upgraded to a ***"Special Strategic Partnership"*** during PM Modi's bilateral talks with Italian PM **Giorgia Meloni**.
+- **Motto**: *"Design and Develop in India and Italy, and Deliver for the World"*.
+- **Trade & Security**: Bilateral trade target of **€20 billion by 2029**. Permanent Task Force on countering terror financing; MoU between Italy's **Guardia di Finanza** and India's **Directorate of Enforcement (ED)**.
+- **Mobility & Culture**: Launched ***"ICI – Italy Calls India: a University-Enterprise Talent Bridge"***; **2027** declared *Year of Culture and Tourism between Italy and India*; Italy participating in NMHC Lothal.
+- **FAO Agricola Medal**: PM Modi visited FAO Headquarters in Rome and received the **FAO Agricola Medal** (highest FAO award for food security and sustainable agrifood systems).
+
+### 19. India–France (17–19 February 2026)
+- **Elevation**: French President **Emmanuel Macron** visited India; ties upgraded to a ***"Special Global Strategic Partnership"*** under the *Horizon 2047 Roadmap*.
+- **Innovation Year**: **India–France Year of Innovation 2026** focusing on AI, healthcare, and research.
+- **Defence Manufacturing**: Deepening co-design and co-production (Rafale-M fighters, Scorpène submarines, and helicopter assembly in India).
+- **Civil Nuclear**: France reaffirmed backing for India's 100 GW nuclear target by 2047, advancing the **Jaitapur Nuclear Power Project (Maharashtra)**.
+
+### 20. India–Germany (12–13 January 2026)
+- **Summit**: German Chancellor **Friedrich Merz** held bilateral talks with PM Modi in Gandhinagar / Ahmedabad.
+- **Mobility Milestone**: Germany announced **visa-free transit** for Indian passport holders transiting through German airports.
+- **Trade & Defence**: Bilateral trade crossed **USD 50 billion**. Germany showed active interest in naval and air exercises: **MILAN 2026, IONS Conclave of Chiefs, and Exercise Tarang Shakti**.
+
+### 21. India–United Kingdom (8–9 October 2025)
+- **UK PM Visit**: Prime Minister **Sir Keir Starmer** made his first official visit to India under the *Vision 2035* roadmap.
+- **Defence Procurement**: Signed a **£350 million ($468 million)** contract for supply of lightweight missiles to India.
+- **Tech & Innovation**: Launched the **India–U.K. Connectivity & Innovation Centre** (£24 million over 4 years across AI telecom, non-terrestrial networks, and cybersecurity); Critical Minerals Industry Guild launched with a satellite campus at **IIT-ISM Dhanbad**.
+- **Foreign University Campuses**: Letter of Intent granted to **Lancaster University** to open a campus in **Bengaluru**; in-principle approval to **University of Surrey** for a campus in **GIFT City**.
+
+### 22. India–Australia Organic Mutual Recognition (24 September 2025)
+- **MRA on Organic Products**: Signed at Vanijya Bhavan, New Delhi under the India–Australia ECTA.
+- **Implementing Agencies**: **APEDA (India)** and **DAFF (Australia)**.
+- **Coverage**: Enables mutual acceptance of organic standards for unprocessed plant products, processed plant foods, and wine, eliminating duplicate testing and securing 30–40% price premiums for organic farmers.
+
+### 23. India–Ethiopia (16–17 December 2025 | Addis Ababa)
+- **Historic Visit**: PM Modi paid the **first-ever bilateral visit by an Indian PM to Ethiopia**, holding talks with PM **Abiy Ahmed Ali** and addressing the Joint Session of the Ethiopian Parliament.
+- **Highest Honour**: PM Modi was conferred Ethiopia's supreme honour: ***"Great Honour Nishan of Ethiopia"***.
+- **Elevation**: Bilateral relations elevated to a **Strategic Partnership**.
+
+### 24. India–Namibia (9 July 2025 | Windhoek)
+- **Historic Visit**: First visit to Namibia by an Indian Prime Minister in **27 years**, hosted by President **Dr. Netumbo Nandi-Ndaitwah**.
+- **Highest Honour**: Modi was conferred Namibia's highest civilian honour: ***"Order of the Most Ancient Welwitschia Mirabilis"*** (first Indian leader to receive it).
+- **UPI Pioneer**: Namibia was the **first country globally to sign a licensing agreement to adopt UPI technology** (April 2024: NIPL and Bank of Namibia).
+- **Global Initiatives**: Namibia joined the **Coalition for Disaster Resilient Infrastructure (CDRI)** and the **Global Biofuels Alliance (GBA)**.
+- **Wildlife Diplomacy**: Acknowledged Namibia's foundational gift of **8 cheetahs in 2022** for the Cheetah Reintroduction Project at **Kuno National Park (Madhya Pradesh)**.
+
+---
+
+## Global Geopolitics, West Asia Accord & Evacuation Operations
+
+### US–Iran Initial Peace Agreement (17 June 2026)
+- **Signatories**: Signed electronically by US President **Donald Trump** and Iranian President **Masoud Pezeshkian** (14-point MoU) aimed at halting the 4-month West Asian war.
+- **Key Terms**:
+  1. Immediate ceasefire across all fronts, explicitly including Lebanon.
+  2. **Strait of Hormuz Reopening**: Unrestricted, toll-free commercial passage restored within 30 days.
+  3. **Economic Sanctions Relief**: US Treasury waivers for Iranian crude, petroleum, and shipping.
+  4. **Reconstruction Fund**: Framework for a **$300 billion reconstruction fund** financed by Gulf Arab states (US will not contribute directly).
+  5. **Unfreezing Assets**: Unblocking ~$24 billion of restricted Iranian funds held abroad.
+  6. **Nuclear Enrichment Ceiling**: Iran required to halt enrichment and **down-blend existing highly enriched uranium stocks to 3.67%** under strict IAEA verification.
+
+### Military Operations in the Conflict
+- **Joint US–Israeli Strikes (28 Feb 2026)**: US termed it **Operation Epic Fury**; airstrikes on Iranian nuclear sites (Fordow, Natanz, Isfahan) named **Operation Midnight Hammer** using B-2 stealth bombers; Israel termed it **Operation Roaring Lion**.
+- **Iran's Retaliation**: Successive missile barrages designated **Operation True Promise 3**.
+- **Gaza & Syria Operations**: Israel launched **Operation Gideon's Chariots II** in Gaza (Hamas responded with **Operation Moses' Staff**); Israel launched **Operation Arrow of Bashan** in Syria, declaring the 1974 Disengagement Agreement void.
+
+### 🇮🇳 Operation Sindhu (India's Evacuation Mission)
+- **What is it**: The official overseas emergency evacuation operation launched by the **Government of India** to safely extract Indian citizens stranded across the war-affected West Asian theater.
+- *(Historical Lineage: 1990–91 Gulf War airlift $\rightarrow$ Operation Sukoon 2006 Lebanon $\rightarrow$ Operation Safe Homecoming 2011 Libya $\rightarrow$ Operation Rahat 2015 Yemen $\rightarrow$ Operation Ganga 2022 Ukraine $\rightarrow$ Operation Kaveri 2023 Sudan $\rightarrow$ Operation Ajay 2023 Israel $\rightarrow$ **Operation Sindhu 2026**).*
+
+### Supreme Leader Succession in Iran
+- Following the death of Ali Khamenei on 28 February 2026, his son **Mojtaba Khamenei** was selected and announced as the new **Supreme Leader of Iran** by the Assembly of Experts on **9 March 2026**.
+
+### Prime Minister Modi Honoured by Both Israel and Palestine
+- **Historic Record**: PM Narendra Modi became the **first leader in global history to be conferred the highest state honours by both Israel and Palestine**:
+  - **Israel**: Conferred the ***Speaker of the Knesset Medal*** on **25 February 2026** (presented by Speaker Amir Ohana in Jerusalem).
+  - **Palestine**: Conferred the ***Grand Collar of the State of Palestine*** in **2018** (presented by President Mahmoud Abbas).
 
 ---
 
