@@ -247,6 +247,8 @@ India’s land-use reporting (NCERT / Ministry of Agriculture) splits reported a
 
 ### Seasons
 
+![Cropping Seasons & Land-Use Categories in India — Kharif, Rabi, Zaid & 9 Official Land-Use Classes](images/ch6_01_cropping_seasons_landuse.png)
+
 | Season | Months | Typical crops |
 |--------|--------|---------------|
 | **Kharif** | Jun–Oct (SW monsoon (दक्षिण-पश्चिम)) | Rice, maize, jowar, bajra, ragi, cotton, jute, groundnut, soybean, tur, sesame |
@@ -270,6 +272,10 @@ India’s land-use reporting (NCERT / Ministry of Agriculture) splits reported a
 ---
 
 ## N.2 Food Crops
+
+![Cartographic Spatial Map — Major Agricultural Crop Belts of India (Rice, Wheat, Cotton, Sugarcane, Coarse Cereals, Plantation & Spice Belts)](images/ch6_00_india_crop_belts_cartographic_map.png)
+
+![Major Food, Cash & Plantation Crops Matrix — Requirements, Yields & Leading Producer States](images/ch6_02_major_food_cash_crops_matrix.png)
 
 ### Rice
 
@@ -613,6 +619,8 @@ Three **number** facts — do not mix:
 
 ### 15 Agro-climatic Zones (Planning Commission)
 
+![Agro-Climatic Zoning — India 15 Planning Commission Zones & Uttar Pradesh 9 Agro-Climatic Zones](images/ch6_03_agro_climatic_zones_india_up.png)
+
 | # | Zone | Core | Agri tag |
 |---|------|------|----------|
 | 1 | Western Himalayan | J&K, HP, UK | Apple, valley cereals |
@@ -838,6 +846,8 @@ CAD develops the **command** of an existing project (channels, drainage, waraban
 
 ### Jhum / shifting cultivation
 
+![Shifting Cultivation Nomenclature — Regional Indian Names and Global Slash-and-Burn Systems](images/ch6_05_shifting_cultivation_jhum_names.png)
+
 **Jhum** is the north-east name for slash-and-burn shifting cultivation.
 
 Farmers clear a forest patch, burn the residue, raise crops for about **one to three years**, then leave the plot fallow while opening a new patch.
@@ -973,6 +983,8 @@ D. Ministry of Finance
 
 ### Colour Revolutions — must-score set
 
+![Agricultural Colour Revolutions in India — Leaders, Focus Commodities & Trap Associations](images/ch6_04_agricultural_colour_revolutions.png)
+
 The colour tags name sector pushes that sit beside the classic Green Revolution.
 
 The **Golden Revolution** covers **horticulture and honey**.
@@ -995,6 +1007,8 @@ Do **not** swap Golden with Yellow. Golden is horticulture and honey; Yellow is 
 ---
 
 ## UP Focus (compact)
+
+![Uttar Pradesh Agriculture, National Rank #1 Commodities, Specialty Hubs & Universities](images/ch6_06_up_agriculture_special_map.png)
 
 **Identity:** Uttar Pradesh is a **plains agricultural giant** — wheat–rice–sugarcane in the west and centre, rice in the east, potato and mango as specialty tags, and almost no plantation leadership.
 

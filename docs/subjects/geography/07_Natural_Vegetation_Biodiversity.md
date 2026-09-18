@@ -222,6 +222,8 @@ Standard notes split Indian vegetation into **five** heads and **sixteen** sub-t
 
 **Four hotspots (Conservation International)**
 
+![4 Global Biodiversity Hotspots Covering India — Extent, Endemic Species & Diagnostic Criteria](images/ch7_04_biodiversity_hotspots_india.png)
+
 - **Himalaya** (whole Indian Himalaya, not a separate “east hotspot” plus “west hotspot”).
 - **Western Ghats and Sri Lanka**.
 - **Indo-Burma** (NE India and neighbours; **Nicobar is not** this box).
@@ -246,6 +248,10 @@ Standard notes split Indian vegetation into **five** heads and **sixteen** sub-t
 ---
 
 ## N.2 Type Cards
+
+![Cartographic Spatial Map — Forest Types & Key Biosphere Reserves Across India (Evergreen, Deciduous, Thorn, Montane, Mangroves & 18 Biospheres)](images/ch7_00_india_forests_biospheres_cartographic_map.png)
+
+![Champion & Seth Major Forest Types of India Matrix — Rainfall, Indicators, Belts & Exam Traps](images/ch7_01_forest_types_india_matrix.png)
 
 ### Evergreen & semi-evergreen
 
@@ -370,6 +376,8 @@ Also called **tropical thorn forests** or arid forests. Plants are **xerophytes*
 - It is **not** “desert with zero plants.”
 
 ### Montane (altitude elevator)
+
+![Montane Vegetation — Himalayan Altitude Elevator from Foothills to Snowline & Peninsular Sholas](images/ch7_02_himalayan_montane_altitude_elevator.png)
 
 Montane forests are an **altitude elevator**, not a plains rain ladder. Above about **900 m**, temperature (height) rules the belt. Mountain forests split into two sets: **northern (Himalayan)** and **southern (peninsular hills)**.
 
@@ -592,6 +600,8 @@ An **epiphyte** grows on another plant for support, not as a parasite that steal
 ## N.5 Protected Areas — Framework
 ### UNESCO MAB and India's Biosphere Reserve Programme
 
+![18 Biosphere Reserves of India & 12 UNESCO MAB World Network Reserves — Complete Geographic Directory](images/ch7_03_india_18_biosphere_reserves_mab.png)
+
 - **UNESCO Man and the Biosphere (MAB)** programme promotes **core + buffer + transition** zoning for conservation with sustainable human use.
 - India runs a **national Biosphere Reserve programme** under the **Wildlife (Protection) Act** framework; **18** sites are notified nationally.
 - **Nilgiri (1986)** was India's **first** Biosphere Reserve.
@@ -684,6 +694,8 @@ D. Sacred groves
 
 ## N.6 Uttar Pradesh — Forests, Parks, Sanctuaries, Ramsar
 
+![ISFR Standings & Uttar Pradesh Forest Geography — District Ranks & Protected Area Network](images/ch7_05_isfr_uttar_pradesh_forest_geography.png)
+
 **Only one National Park: Dudhwa (Lakhimpur Kheri).** Do not invent a second NP in UP.
 
 | Name | Type | Belt | Note |
@@ -711,6 +723,8 @@ D. Sacred groves
 - Sonbhadra often leads absolute (निरपेक्ष) forest area in UP.
 
 ### UP Ramsar (learn IN vs NOT)
+
+![Uttar Pradesh 13 Ramsar Wetlands Network — Locations & 100th National Ramsar Site Surha Tal](images/ch4_05_up_13_ramsar_wetlands_map.jpg)
 
 **UP total is 13** (June 2026). January 2020 added **six** Ramsar sites to UP.
 

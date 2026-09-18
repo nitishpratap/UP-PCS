@@ -174,6 +174,8 @@ D. India
 
 ## N.0 Framework (map first)
 
+![Cartographic Spatial Map — National Highways, Expressways, Major Seaports & Inland Waterways of India](images/ch9_00_india_highways_ports_waterways_cartographic_map.png)
+
 Transport and communication are the **arteries of circulation** of the economy.
 
 - **Transport** moves people and goods.
@@ -192,6 +194,8 @@ Transport and communication are the **arteries of circulation** of the economy.
 ---
 
 ## N.1 Railways
+
+![Indian Railways — 18 Railway Zones & Headquarters, Dedicated Freight Corridors (EDFC & WDFC) and High-Speed Rail](images/ch9_01_indian_railways_zones_dfc.png)
 
 Indian Railways is the country’s principal long-distance land carrier for passengers and bulky freight.
 
@@ -345,6 +349,8 @@ D. 1, 2 and 3
 
 ## N.2 Roads, Expressways, Bharatmala
 
+![National Highways, Golden Quadrilateral, North-South & East-West Corridors, Bharatmala & Expressways](images/ch9_02_national_highways_expressways_map.png)
+
 Roads are preferred for short and medium hauls because they are cheaper to build than railways and act as feeders to rail, air and sea terminals.
 
 **Road classes**
@@ -450,6 +456,8 @@ D. Mau
 
 ## N.3 Waterways
 
+![National Waterways Network of India — NW-1 Ganga to NW-5 Mahanadi, Stretches, Multimodal Terminals & Jal Marg Vikas](images/ch9_03_national_waterways_network.png)
+
 Inland and coastal water transport is cheap for bulk cargo when channel depth and terminals exist.
 
 - The **Inland Waterways Authority of India (IWAI)** was set up in **1986**.
@@ -493,6 +501,8 @@ D. Chattogram (Chittagong)
 ---
 
 ## N.4 Ports, Harbours, Maritime Trade
+
+![Major Seaports of India — Western vs Eastern Coast, Natural vs Artificial, Tidal & Container Hubs](images/ch9_04_major_ports_maritime_trade.png)
 
 India’s mainland plus island coasts stretch about **7,517 km**.
 
@@ -783,6 +793,8 @@ D. Refraction
 ---
 
 ## N.9 Uttar Pradesh Focus
+
+![Uttar Pradesh Transport Infrastructure — Expressways, International Airports, NW-1 Terminals & Railway HQs](images/ch9_05_up_transport_expressways_aviation.png)
 
 Uttar Pradesh has **no major seaport**. Its identity is rail headquarters, expressways, airports, NW-1, inland pipeline nodes and station redevelopment.
 

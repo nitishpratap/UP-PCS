@@ -114,6 +114,8 @@
 
 ### Profile / terms
 
+![Soil Profile Horizons Diagram — O, A, E, B, C, R Layers, Eluviation vs Illuviation, Solum & Regolith](images/ch5_01_soil_profile_horizons.png)
+
 | Item | Lock |
 |------|------|
 | Profile (down) | **O → A → E → B → C → R** |
@@ -228,6 +230,10 @@ Indian parent material is commonly grouped into five families. Climate can still
 
 ### ICAR / school classification
 
+![Cartographic Spatial Map — Soil Distribution Across India (Alluvial, Black Regur, Red & Yellow, Laterite, Arid, Mountain & Mangrove Belts)](images/ch5_00_india_soil_distribution_cartographic_map.png)
+
+![ICAR 8 Major Soil Groups of India — National Coverage, Mineral Composition & Crop Suitability](images/ch5_02_icar_soil_types_india.png)
+
 Notes use this set, not full USDA taxonomy names. Read each row for how it forms, where it lies, the star crop, and the classic trap.
 
 | Soil | How it forms | Core belt | Star crop / use | Classic trap |
@@ -339,6 +345,8 @@ Tropical rainforests suffer strong **leaching** from year-round rain. Contour bu
 ## N.2 Soil Types
 
 ### Alluvial
+
+![Northern Plains Soil Cross-Section — Shiwalik to Bhabar, Tarai, Bangar and Khadar](images/02_northern_plains_cross_section.jpg)
 
 India’s **most extensive** soils. NCERT Class 11 uses about **40%**. Other standard notes often write about **46%** (about 15 lakh km²) and say these lands feed more than **40%** of India’s people. Keep both figures; do not treat the ~46% figure as a second NCERT value.
 
@@ -701,6 +709,8 @@ D. Black soil is found in Himalayan region
 - Overgrazing in the dry season pulls grass **out by the roots** and pulverises topsoil with hooves.
 - Faulty farming includes ploughing **down the slope**, skipping rotation, and unsustainable **jhum** as fallows shrink.
 
+![Soil Erosion Ladder — Splash, Sheet, Rill, Gully, and Ravine / Badlands Progression](images/ch5_03_soil_erosion_ladder.png)
+
 | Type | Agent | Feature | Example |
 |------|-------|---------|---------|
 | **Splash** | Raindrop | Crumb structure smashed by falling drops — **first** stage | Bare soil in first rains |
@@ -723,6 +733,8 @@ D. Black soil is found in Himalayan region
 - **Reduced / zero tillage**, leaving **crop residue** on the field, and **gypsum** before irrigation (breaks salt–clay pans) are water-conservation farm facts (IAS 2017 set).
 - Prevention on farms is cheaper than ravine reclamation.
 - Seed modification raises yield genetics; it is **not** a soil-fertility method like rotation / mixed / multiple cropping.
+
+![Soil Conservation Techniques — Contour Ploughing, Terracing, Shelter Belts, Strip Cropping & Check Dams](images/ch5_04_soil_conservation_methods.png)
 
 | Method | Purpose | Best setting |
 |--------|---------|--------------|
@@ -779,6 +791,8 @@ D. Hoshangabad, Madhya Pradesh
 
 ## N.4 UP Focus
 ### UP soil belts — expanded teaching map
+
+![Uttar Pradesh Regional Soils Map — Bhabar-Tarai, Central Alluvial Doab, Bundelkhand Mar/Kabar/Parua/Rakar, Vindhyan Bhonta & Usar Tracts](images/ch5_05_uttar_pradesh_soils_map.png)
 
 - **Terai** (तराई) — alluvial, moist, N-rich; rice–wheat after drainage.
 - **Middle doab** — khadar/bangar mix; wheat–sugarcane Green Revolution belt.

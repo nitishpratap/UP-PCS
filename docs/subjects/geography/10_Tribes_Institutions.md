@@ -136,6 +136,8 @@ Masai habitat (वास स्थान) remains **East Africa**. Do not “upd
 
 ## N.0 Framework (map first)
 
+![Cartographic Spatial Map — Major Scheduled Tribes of India & Regional Distribution](images/ch10_01_india_tribes_spatial_map.png)
+
 The Constitution does **not** define “tribe” in a detailed article. **Article 342** lets the President notify Scheduled Tribes for each State or Union Territory, after consulting the Governor in a State. **Parliament** may later include or exclude communities by law. ST lists are therefore **state-specific**. A community that is Scheduled Tribe in one State may not be listed in another.
 
 **Where tribal communities live**
@@ -288,6 +290,8 @@ D. 1 and 2
 ---
 
 ## N.2 Tribes of Uttar Pradesh
+
+![Uttar Pradesh Tribes Geography — Terai Belt (Tharu, Buksa) vs Vindhyan / Sonbhadra Cluster & PVTGs](images/ch10_02_up_tribes_district_map.png)
 
 Uttar Pradesh has a **low** Scheduled Tribe share. Census 2011 put it at about **0.6%** of the State population (roughly 11 lakh people). The still tests a **fixed notified list**.
 
@@ -675,6 +679,8 @@ A **Krishi Vigyan Kendra (KVK)** is the district **extension** arm of the ICAR�
 ---
 
 ## N.8 Agricultural, dairy, horticulture and forest institutes
+
+![Key National Research Institutes & Scientific Centres in India & UP — Agricultural, Forestry, Dairy & UP Clusters](images/ch10_03_national_institutes_map.png)
 
 Every major State has a State Agricultural University.
 
