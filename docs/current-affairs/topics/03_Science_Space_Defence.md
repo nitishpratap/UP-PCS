@@ -526,6 +526,17 @@ The **SHANTI Act, 2025** (received Presidential assent in December 2025) overhau
 - **Global Military Spending**: India ranked **5th globally** with an annual defence budget of **$92.1 billion** (an 8.9% expansion over 2024; trailing US $954B, China $336B, Russia $190B, Germany $114B).
 - **Arms Imports Share**: India is the **world's 2nd largest arms importer** accounting for **8.2% of global arms imports** in 2021–2025 (surpassed only by war-torn Ukraine at 9.7%).
 
+### 🇮🇳 Operation Sagar Bandhu (HADR Mission — Sri Lanka)
+- **Context**: Disaster relief operation launched by India in late November 2025 following widespread destruction caused by **Cyclone Ditwah** in Sri Lanka (*Sagar Bandhu* = "Ocean Friend").
+- **Naval & Air Assets**: Indian Navy deployed aircraft carrier **INS Vikrant**, stealth frigate **INS Udaygiri**, and offshore patrol vessel **INS Sukanya**, alongside Indian Air Force **C-130J Super Hercules** transport aircraft with emergency stores, field hospital equipment, and humanitarian supplies.
+
+### INTERPOL Silver Notice (Illicit Financial Assets)
+- **Launch Date**: Formally introduced in **January 2025** as the 8th official color-coded alert of INTERPOL.
+- **Mandate**: Designed specifically to **identify, track, freeze, and seize illicit criminal assets and money-laundering proceeds** across international jurisdictions, strengthening global asset recovery.
+
+### CR450 Next-Gen High-Speed Train
+- **Record**: China unveiled the **CR450 bullet train**, reaching an operational test speed of **453 km/h**, setting the benchmark for the world's fastest conventional passenger rail technology.
+
 ---
 
 ## Practice Zone — UPPCS Format

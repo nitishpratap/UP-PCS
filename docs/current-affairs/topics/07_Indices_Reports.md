@@ -587,6 +587,52 @@ A Candere Hurun India Women Leaders list put **Meena Bindra** (BIBA) at the top.
 - **India's Standing**: **Ranked 99th out of 167 countries** (Score: **66.95 / ~67.0**). Demonstrates consistent 4-year upward trajectory: 120th (2021) $\rightarrow$ 121st (2022) $\rightarrow$ 112th (2023) $\rightarrow$ 109th (2024) $\rightarrow$ **99th (2025)**.
 - **Regional Comparison**: Bhutan (74th), Nepal (85th), Maldives (53rd), and Sri Lanka (93rd) lead India; Bangladesh (114th) and Pakistan (140th) lag behind.
 
+### 22. G20 Report on Global Inequality | Released November 2025
+- **Context & Mandate**: First-ever comprehensive G20 Global Inequality Report commissioned under **South Africa's G20 Presidency**.
+- **Panel Leadership**: Prepared by the *G20 Extraordinary Committee of Independent Experts on Global Inequality*, chaired by Nobel laureate **Joseph E. Stiglitz** (key members included Jayati Ghosh, Winnie Byanyima, and Imraan Valodia).
+- **Key Findings**:
+  - ~83% of surveyed nations exhibit severe income inequality (Gini coefficient > 0.4; Gini index originated by Italian statistician Corrado Gini in 1912), encompassing ~90% of global population.
+  - From 2000 to 2024, the world's richest 1% captured **41% of all newly created wealth**, whereas the bottom 50% accrued just **1%**.
+  - Proposed the institutional formation of an **International Panel on Inequality (IPI)**, modeled along the lines of the IPCC.
+  - In India, wealth held by the top 1% surged by ~62% during the period; while consumption-based Gini showed marginal cooling, structural wealth inequality remains severely skewed.
+
+### 23. Women, Peace and Security (WPS) Index 2025/26
+- **Publishers**: **Georgetown Institute for Women, Peace and Security (GIWPS)** and the **Peace Research Institute Oslo (PRIO)** (ranks 181 countries across Inclusion, Justice, and Security).
+- **Top 5**: 1. **Denmark** (0.939), 2. Iceland (0.932), 3. Norway (0.924), 4. Sweden (0.924), 5. Finland (0.921).
+- **Bottom 5**: 181. Afghanistan (0.279), Yemen, Central African Republic, Syria, Sudan.
+- **India's Standing**: **Ranked 131st globally** (Score: **0.607**), reflecting substantial systemic challenges in female workforce participation, safety, and legislative representation.
+
+### 24. Human Development Report (HDR) 2025
+- **Publisher**: **United Nations Development Programme (UNDP)** (193 countries evaluated).
+- **Top Country**: **Iceland** (Rank 1).
+- **Bottom-Most**: **South Sudan** (Rank 193).
+- **India's Standing**: **Ranked 130th out of 193 countries**.
+
+### 25. Global Innovation Index (GII) 2025
+- **Publisher**: **World Intellectual Property Organization (WIPO)** (139 economies evaluated).
+- **Top Country**: **Switzerland** (Rank 1; consistent global leader).
+- **India's Standing**: **Ranked 38th out of 139 economies**, consolidating India's place among the top 40 innovative nations globally.
+
+### 26. Henley Passport Index (January 2026 Release)
+- **Publisher**: **Henley & Partners** (based on IATA data).
+- **Top Passport**: **Singapore** (Rank 1; world's most powerful passport).
+- **India's Standing**: **Ranked 80th globally**, granting visa-free / visa-on-arrival entry to **55 destinations**.
+
+### 27. Global Firepower (GFP) Ranking 2026
+- **Publisher**: **Global Firepower**.
+- **Top Military Powers**: 1. **United States**, 2. Russia, 3. China.
+- **India's Standing**: **Ranked 4th globally**, upholding its established position behind USA, Russia, and China.
+
+### 28. Climate Risk Index 2026
+- **Publisher**: **Germanwatch** (analyzing long-term exposure to extreme weather over a 30-year span).
+- **Highest Vulnerability**: Dominica, Myanmar, Honduras.
+- **India's Standing**: **Ranked 9th globally** in long-term climate vulnerability.
+
+### 29. Climate Change Performance Index (CCPI) 2026
+- **Publishers**: **Germanwatch**, **NewClimate Institute**, and **Climate Action Network (CAN)**.
+- **Top Performers**: **Ranks 1, 2, and 3 remain empty** (no country deemed on track to prevent 1.5°C warming); **Denmark ranks 4th** (highest ranked actual country).
+- **India's Standing**: **Ranked 10th globally**, remaining the only G20 member consistently inside the global top 10 for renewable expansion and per-capita energy restraint.
+
 ---
 
 ## Practice Zone — UPPCS Format

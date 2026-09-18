@@ -364,6 +364,24 @@ First national guide to India’s grasslands and open natural ecosystems launche
 - **Central Theme**: **"Reduce, Reuse, and Recycle"**.
 - **Key Innovations**: Introduced the **'Super Swachh League'** to evaluate consistent top performers and deployed Cleanliness Target Units (CTU) under *Swabhav Swachhata, Sanskar Swachhata*.
 
+### Tuvalu Joins IUCN as 90th State Member (October 2025)
+- **International Accession**: The vulnerable Pacific island nation of **Tuvalu** formally acceded as the **90th State Member of the International Union for Conservation of Nature (IUCN)**.
+- **Geography & Biodiversity**: Encompasses 9 low-lying coral atolls / reef islands with merely 26 sq km of land, but stewards a massive **900,000 sq km Exclusive Economic Zone (EEZ)** rich in pelagic marine biodiversity.
+
+### BIOFACH 2026 & Global Organic Agriculture Matrix
+- **Honorary Title**: India was named **"Country of the Year"** at **BIOFACH 2026 (Nuremberg, Germany | 10–13 Feb 2026)**, the world's premier organic trade exhibition.
+- **Nodal Agency & GI Rices**: Organized by **APEDA** (Ministry of Commerce & Industry), spotlighting five GI-tagged organic rice varieties: **Indrayani, Navara, Gobindbhog, Red rice, and Chak Hao (Black rice)**.
+- **Global Organic Standings**:
+  - **#1 in Organic Land Area**: **Australia** leads the world (>53 million hectares).
+  - **#2 in Organic Land Area**: **India** holds the second-largest certified organic acreage globally.
+  - **#1 in Organic Producers**: **India ranks 1st globally in the sheer number of organic producers**.
+  - **Top Indian State**: **Madhya Pradesh** leads all Indian states in certified organic cultivation area.
+
+### India–FAO Blue Ports Initiative (September 2025)
+- **Collaboration**: Joint initiative by the Ministry of Fisheries, Animal Husbandry & Dairying and the UN Food and Agriculture Organization (FAO).
+- **Investment**: ₹369.80 crore mobilized under PMMSY and FIDF to modernize coastal fishing harbors into climate-resilient, energy-efficient "Blue Ports".
+- **Pilot Locations**: **Vanakbara (Diu)** and **Jakhau (Gujarat)**, alongside **Karaikal (Puducherry)**.
+
 ---
 
 ## Practice Zone — UPPCS Format

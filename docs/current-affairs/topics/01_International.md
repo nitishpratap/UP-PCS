@@ -702,6 +702,127 @@ India launched the first **Guide to Grasslands and Other Open Natural Ecosystems
 - **Core Concept**: Focuses on the indivisible interconnections between human health, domestic and wild animal health, plant biosecurity, and ecosystem integrity (WHO notes that over **60% of all emerging human infectious pathogens originate in animals**).
 - **Institutional Quadripartite**: Driven collectively by the four lead multilateral bodies: **WHO, FAO, UNEP, and WOAH** (World Organisation for Animal Health).
 
+### 13. 22nd ASEAN–India Summit & 20th East Asia Summit (October 2025 | Kuala Lumpur)
+- **Host & Presidency**: Held in **Kuala Lumpur, Malaysia**, chaired by Malaysian Prime Minister **Anwar Ibrahim** under Malaysia's 2025 ASEAN Chairship theme: *"Inclusivity and Sustainability"*.
+- **India's Participation**: Prime Minister Narendra Modi participated virtually, reviewing the ASEAN–India Comprehensive Strategic Partnership (established in 2022; relations began as sectoral dialogue partnership in 1992).
+- **Major Strategic Initiatives**:
+  - Adopted the **ASEAN–India Plan of Action 2026–2030**.
+  - **India declared 2026 as the ASEAN–India Year of Maritime Cooperation**.
+  - Proposed the 2nd ASEAN–India Defence Ministers' Meeting and 2nd ASEAN–India Maritime Exercise.
+  - Announced specialized green energy training for 400 ASEAN professionals supporting the **ASEAN Power Grid**.
+  - Proposed establishing a **Centre for Southeast Asian Studies at Nalanda University** (Bihar).
+  - Announced the **East Asia Summit Maritime Heritage Festival at Lothal, Gujarat**.
+  - Endorsed the *ASEAN–India Joint Leaders' Statement on Sustainable Tourism*.
+- **ASEAN Expansion**:
+  - **Timor-Leste** was officially admitted as the **11th member of ASEAN on 26 October 2025** during the summit in Kuala Lumpur (first new member admitted to ASEAN since the 1990s).
+- **Subsequent Summits**:
+  - **20th East Asia Summit (EAS)**: Held on 27 October 2025 in Kuala Lumpur, marking 20 years since EAS inception via the 2005 Kuala Lumpur Declaration.
+  - **48th ASEAN Summit (8 May 2026)**: Held in **Cebu, Philippines**, under the Philippines' 2026 Chairship theme: *"Navigating Our Future, Together"*.
+
+### 14. 25th Shanghai Cooperation Organisation (SCO) Summit 2025 (31 Aug–1 Sept 2025 | Tianjin)
+- **Host City & Chair**: Held in **Tianjin, China**, attended in person by Prime Minister Narendra Modi.
+- **Tianjin Declaration**: Strongly condemned international terrorism and, in a significant diplomatic breakthrough for New Delhi, explicitly named the **April 2025 Pahalgan terror attack in India**. Also condemned the Jaffer Express hijacking and Khuzdar school bus bombing.
+- **SCO Structural Overhaul**: Merged dialogue partners and observers into a streamlined structure of **10 member states + 17 partners**, with **Laos** admitted as the newest partner.
+- **New Institutional Organs**: Approved the establishment of four new specialized SCO centres (security, organized crime, cyber threats, drug trafficking) and initiated the formal creation of an **SCO Development Bank**.
+- **Strategic Blueprints**: Adopted the *SCO Development Strategy 2026–2035*, *Cooperation Programme 2026–2030*, and the *Roadmap for Energy Cooperation till 2030*.
+- **India–China Bilateral Side-Track**: Preceded by Chinese FM Wang Yi's visit to New Delhi (18–19 August 2025) for 24th Special Representatives (SR) talks with NSA Ajit Doval and EAM Dr. S. Jaishankar; agreed on expanding the **Kailash-Mansarovar Yatra (2026)** and resuming border trade through **Nathu La, Shipki La, and Lipulekh**.
+
+### 15. World Food India (WFI) 2025 (25–28 September 2025 | New Delhi)
+- **Venue & Host**: 4th edition held at **Bharat Mandapam, New Delhi**, organised by the Ministry of Food Processing Industries (MoFPI) and inaugurated by PM Modi.
+- **Partner Countries**: **New Zealand** and **Saudi Arabia**.
+- **Focus Countries**: **Japan, UAE, Vietnam, and Russia**.
+- **Scale**: Over 90 participating nations and 2,000+ exhibitors aimed at positioning India as a global food processing and value-addition hub.
+
+### 16. India Elected to INTERPOL Asian Committee & Silver Notice Launch
+- **Election (19 September 2025)**: India was elected as a member of the **INTERPOL Asian Committee** for a four-year term (**2025–2029**) during the 25th Asian Regional Conference in **Singapore**.
+- **Nodal Agency**: India is represented by the **Central Bureau of Investigation (CBI)**, which operates as the National Central Bureau (NCB) for INTERPOL in India.
+- **INTERPOL's 8 Color-Coded Notices Master Matrix**:
+  - **Red Notice**: Locates and arrests persons wanted for prosecution or to serve a sentence.
+  - **Yellow Notice**: Helps locate missing persons or identify persons unable to identify themselves.
+  - **Blue Notice**: Collects additional information on a suspect's identity, location, or activities.
+  - **Green Notice**: Warns of a person's criminal activities considered a potential threat.
+  - **Orange Notice**: Warns of an imminent event, person, or weapon threatening public safety.
+  - **Purple Notice**: Shares information on modi operandi, procedures, or concealing devices used by criminals.
+  - **Black Notice**: Seeks information on unidentified bodies.
+  - **Silver Notice (NEW — Launched January 2025)**: Specially designed to **identify, track, freeze, and confiscate criminal assets and illicit financial proceeds** across international jurisdictions! *(Critical UPPCS New Pattern Trap)*.
+
+### 17. India–ILO Landmark MoU on IRCO (16 September 2025 | Geneva)
+- **Pact**: India signed a historic MoU with the International Labour Organization (ILO) in Geneva to develop the **International Reference Classification of Occupations (IRCO)** to ensure global equivalence and mobility of Indian skilled workers.
+- **Historical Anchor**: **N.M. Joshi** served as India's first representative of organized labour at the ILO's founding Washington Summit in **1919**.
+
+---
+
+## International Elections & Head of State Transitions (2025–2026)
+
+| Country | Leader & Designation | Month / Year | Significance / Prelims Facts |
+| :--- | :--- | :--- | :--- |
+| **Nepal** | **Balendra Shah ("Balen")** (Prime Minister) | March 2026 | Structural engineer, rapper, and former Mayor of Kathmandu; led the **Rastriya Swatantra Party (RSP)** to victory following the **September 2025 "Gen Z Movement"** (triggered by a ban on 26 social media platforms and protests against nepotism / "Nepo Kids"). Became Nepal's **youngest Prime Minister** after the fall of K.P. Sharma Oli. |
+| **Nepal** | **Sushila Karki** (Interim Prime Minister) | Late 2025 | Former Chief Justice of Nepal; appointed as **interim Prime Minister** during the constitutional transition, becoming the **first female Prime Minister in Nepal's history**. |
+| **Japan** | **Sanae Takaichi** (Prime Minister) | October 2025 | Elected President of the Liberal Democratic Party (LDP) and designated by the Diet as the **104th Prime Minister of Japan** — becoming **Japan's first-ever female Prime Minister**. |
+| **Albania** | **Diella** (Virtual Minister) | September 2025 | **World's first AI-powered Minister** (*Diella* means "sun" in Albanian), integrated into the *e-Albania* digital governance portal to supervise public procurement and eliminate government tender corruption. |
+| **France** | **Sebastien Lecornu** (Prime Minister) | September 2025 | Appointed by President Emmanuel Macron following the resignation of François Bayrou after a National Assembly vote of no confidence. |
+| **Australia** | **Anthony Albanese** (Prime Minister) | May 2025 | Sworn in for a **second term** as Prime Minister of Australia on 13 May 2025. |
+| **Poland** | **Karol Nawrocki** (President) | June 2025 | Elected President of Poland (assumed office August 2025), succeeding Andrzej Duda after defeating Warsaw Mayor Rafal Trzaskowski. |
+| **Guyana** | **Irfaan Ali** (President) | September 2025 | Re-elected for a second presidential term; made history in 2020 as Guyana's first Muslim head of state. |
+| **Cameroon** | **Paul Biya** (President) | October 2025 | Re-elected for his **8th consecutive term** at the age of **92**, maintaining his status as the **world's oldest serving head of state**. |
+
+---
+
+## Global Disasters & Humanitarian Relief Operations (2025–2026)
+
+### 1. Cyclone Ditwah & 🇮🇳 Operation Sagar Bandhu (November 2025)
+- **Disaster**: Cyclone Ditwah triggered catastrophic flooding, storm surges, and landslides across **Sri Lanka** in late November 2025.
+- **India's Response**: India immediately launched **Operation Sagar Bandhu** (*"Ocean Friend"*), reinforcing its role as First Responder in the Indian Ocean.
+- **Assets Deployed**: Indian Navy deployed **INS Vikrant, INS Udaygiri, and INS Sukanya**, accompanied by Indian Air Force **C-130J Super Hercules** transport aircraft carrying field hospitals and relief stores.
+
+### 2. Ethiopia's Hayli Gubbi Volcano Explosive Eruption (23 November 2025)
+- **Location**: Located in the **Afar Depression / Erta Ale volcanic range** of the East African Rift System in Ethiopia.
+- **Geological Milestone**: Erupted explosively on 23 November 2025, marking its **first documented explosive eruption in approximately 12,000 years**.
+- **Impact**: Injected volcanic ash and sulphur dioxide plumes up to 15 km altitude, disrupting flight corridors across the Red Sea, Arabian Peninsula, and western India.
+
+### 3. Hurricane Melissa (October 2025 | Jamaica)
+- **Severity**: Landed on **Jamaica** as a catastrophic **Category 5 hurricane** with sustained winds of 295 km/h.
+- **Record**: Officially became the **strongest hurricane ever recorded to strike Jamaica** in modern meteorological history.
+
+### 4. Super Typhoon Ragasa / Nando (September 2025)
+- **Track & Scope**: Intensified rapidly into a Category 5-equivalent Super Typhoon over the western North Pacific with sustained winds of 230–265 km/h; swept across the Luzon Strait, Taiwan, Hong Kong, Macau, Guangdong, and northern Vietnam. Known domestically in the Philippines as **Typhoon Nando**.
+
+### 5. Kamchatka Megathrust Earthquake (30 July 2025 | Russia)
+- **Magnitude**: Massive **8.8 Mw earthquake** off the eastern coast of the Kamchatka Peninsula (focal depth 35 km; Intensity IX Violent near Petropavlovsk-Kamchatsky).
+- **Historical Benchmark**: The most energetic global earthquake since the 2011 Tohoku event (Japan), tied as the **6th most powerful earthquake in recorded human history** (alongside the 1906 Ecuador-Colombia and 2010 Chile earthquakes).
+
+### 6. Cyclone Gezani (Madagascar)
+- **Impact**: Category 3-equivalent Intense Tropical Cyclone with sustained gusts over 195 km/h made landfall directly at **Toamasina** (Madagascar's chief eastern port city), destroying ~75% of local port and power infrastructure.
+
+---
+
+## High-Yield International Flashpoints & News in Shorts
+
+- **Scotland Legalises Water Cremation (Alkaline Hydrolysis):** Scotland became the **first nation in the UK** to legalize water cremation (alkaline hydrolysis using water, elevated heat, and potassium hydroxide / KOH), marking the most significant funeral law reform since 1902 and reducing greenhouse emissions ~7-fold compared to flame cremation.
+- **Spain Bans Social Media for Under-16:** Spain became the **first European country** to prohibit access to social media platforms for children under the age of 16 (second country globally after **Australia**, which enacted a similar ban in December 2025). Announced by PM Pedro Sánchez at the World Government Summit in Dubai.
+- **India Gifts High-Speed Ferry to Maldives:** Under the **HICDP Phase III agreement**, India gifted the Maldives its first high-speed ferry, initiating the *Raajje Transport Link (RTL)* inter-island transit network across **Faafu and Dhaalu Atolls** (12 ferries total planned).
+- **1st BRICS Sherpas Meeting 2026:** Convened in New Delhi on 9–10 February 2026 under India's BRICS Chairship; led by India's BRICS Sherpa **Sudhakar Dalela** under the theme *"Building for Resilience, Innovation, Cooperation and Sustainability"*.
+- **Pakistan–Afghanistan Escalation (Operation Ghazab lil-Haq):** In late February 2026, Pakistan conducted airstrikes inside Afghanistan designated **Operation Ghazab lil-Haq**, targeting alleged TTP safe havens across the contested **Durand Line** (the 2,640 km frontier drawn in **1893**).
+- **BIOFACH 2026 (Nuremberg, Germany) — India "Country of the Year":**
+  - India was honoured as the official **"Country of the Year"** at BIOFACH 2026 (10–13 February 2026 in Nuremberg), the world's premier organic trade exhibition.
+  - Participation spearheaded by **APEDA** (Ministry of Commerce & Industry), spotlighting five GI-tagged organic rice varieties: **Indrayani, Navara, Gobindbhog, Red rice, and Chak Hao (Black rice)**.
+  - *Global Organic Agriculture Matrix*: **Australia** leads the world in total organic farmland area (>53 million hectares); **India ranks 2nd globally in organic agricultural acreage** and ranks **1st globally in the total number of organic producers**. Within India, **Madhya Pradesh ranks 1st in certified organic area**.
+- **India Launches e-B-4 Business Visa:** In January 2026, India rolled out the new **e-Production Investment Business Visa (e-B-4)** specifically for Chinese technical specialists and manufacturing engineers to expedite industrial clearances online without embassy visits.
+- **Russian Naval Base in Sudan:** Sudan officially ratified an agreement granting Russia rights to build its **first naval logistics base on African soil** near **Port Sudan on the Red Sea**, functioning as a strategic hedge against Mediterranean access constraints at Tartus, Syria.
+- **Discovery of 2,000-Year-Old Kushan Coins (Taxila):** Archaeologists discovered bronze coins issued during the reign of Kushan Emperor **Vasudeva I** alongside 6th-century BCE lapis lazuli beads at **Bhir Mound (near Taxila, Rawalpindi, Pakistan)**. Features king making offerings on obverse and a female deity on reverse.
+- **Finke River (Australia) — World's Oldest River:** Hydrogeological studies confirmed the **Finke River** (*Larapinta* in Arrernte language; 640 km through MacDonnell Ranges in Central Australia) as the **world's oldest surviving river system**, dating back **300 to 400 million years** as an antecedent stream.
+- **India–Netherlands Lothal NMHC Pact:** India and the Netherlands signed an MoU in December 2025 to partner in curating and conserving the **National Maritime Heritage Complex (NMHC)** at **Lothal, Gujarat**, in institutional collaboration with the National Maritime Museum, Amsterdam.
+- **28th Commonwealth Speakers Conference (CSPOC 2026):** India hosted the **28th Conference of Speakers and Presiding Officers of the Commonwealth** at **Samvidhan Sadan, New Delhi** (14–16 January 2026), chaired by Lok Sabha Speaker **Om Birla** and inaugurated by PM Modi (India previously hosted in 1970–71, 1986, and 2010; 29th CSPOC scheduled for London in 2028).
+- **CEC Gyanesh Kumar to Chair International IDEA Council 2026:** India assumed the Chairmanship of the Council of Member States of the **International Institute for Democracy and Electoral Assistance (International IDEA)** for 2026 in Stockholm, Sweden, with Chief Election Commissioner **Gyanesh Kumar** (**26th CEC of India**) serving as Chair.
+- **3rd India–Singapore Ministerial Roundtable (ISMR):** Convened in New Delhi on 13 August 2025; India represented by four ministers (Nirmala Sitharaman, Dr. S. Jaishankar, Piyush Goyal, and Ashwini Vaishnaw) alongside Singapore DPM Gan Kim Yong, deepening bilateral digital finance and semiconductor supply chains.
+- **California Declares Diwali a State Holiday (2025):** California Governor Gavin Newsom signed into law legislation making Diwali an official paid state holiday, making California the **third U.S. state** to do so after **Pennsylvania** and **Connecticut**.
+- **China's CR450 Bullet Train:** China unveiled the **CR450**, achieving test speeds of **453 km/h** to become the world's fastest conventional high-speed train; China operates 45,000 km of high-speed rail.
+- **Bulgaria Adopts Euro as 21st Eurozone Member:** On **1 January 2026**, **Bulgaria** formally joined the eurozone, replacing the Bulgarian lev with the euro and becoming the **21st member state of the euro currency bloc** *(Croatia was the 20th member in 2023)*.
+- **India–FAO Blue Ports Initiative (September 2025):** MoFPI and Ministry of Fisheries partnered with FAO under PMMSY and FIDF (₹369.80 crore) to convert fishing harbours into climate-smart Blue Ports, selecting **Vanakbara (Diu), Jakhau (Gujarat), and Karaikal (Puducherry)** as initial pilot sites.
+- **India Re-Elected to UN Human Rights Council (UNHRC):** In October 2025, India was **elected unopposed to the UNHRC for the 2026–2028 triennium**, securing its **7th term** on the Geneva-based 47-member council.
+- **UN Cybercrime Convention Signed in Hanoi:** Under UNODC auspices, member states convened in Hanoi, Vietnam, to sign the **first-ever United Nations Convention Against Cybercrime**, establishing unified global extradition and digital evidence standards.
+- **Tuvalu Joins IUCN as 90th Member:** The low-lying Pacific island nation of **Tuvalu** formally acceded as the **90th State Member of the International Union for Conservation of Nature (IUCN)** in October 2025.
+
 ---
 
 ## Practice Zone — UPPCS Format

@@ -182,6 +182,95 @@ India around **rank 78**; Singapore at the top. Details → [Indices](07_Indices
 
 **World MSME Day** is **27 June**. Theme in coverage: Empowering MSMEs through Innovation and Sustainable Industrial Development.
 
+### MoSPI Provisional Estimates of Annual GDP 2025–26 | Released 5 June 2026
+
+**What happened**
+On **5 June 2026**, the Ministry of Statistics & Programme Implementation (MoSPI) released the *Provisional Estimates of Annual Gross Domestic Product (GDP) for the Financial Year 2025–26* alongside Quarterly GDP Estimates for Q4 (January–March 2026).
+
+**Core Growth & Absolute Numbers**
+- **Real GDP Growth (2025–26)**: Estimated at **7.7%** (rose from ₹299.89 lakh crore in 2024–25 to **₹323.12 lakh crore** in 2025–26 at constant 2011–12 prices).
+- **Nominal GDP Growth (2025–26)**: Estimated at **8.9%** (rose from ₹318.07 lakh crore in 2024–25 to **₹346.36 lakh crore** in 2025–26).
+- **Real GVA Growth**: **7.9%** (₹294.91 lakh crore vs ₹273.36 lakh crore in 2024–25).
+- **Nominal GVA Growth**: **9.1%** (₹314.87 lakh crore vs ₹288.54 lakh crore in 2024–25).
+- **Q4 2025–26 Growth**: Real GDP grew by **7.8%** (reaching ₹87.77 lakh crore).
+
+| Indicator | 2024–25 | 2025–26 (Provisional) | Growth Rate |
+| :--- | :--- | :--- | :--- |
+| **Real GDP (Constant Prices)** | ₹299.89 lakh cr | **₹323.12 lakh cr** | **7.7%** |
+| **Nominal GDP (Current Prices)**| ₹318.07 lakh cr | **₹346.36 lakh cr** | **8.9%** |
+| **Real GVA (Constant Prices)** | ₹273.36 lakh cr | **₹294.91 lakh cr** | **7.9%** |
+| **Nominal GVA (Current Prices)**| ₹288.54 lakh cr | **₹314.87 lakh cr** | **9.1%** |
+
+**Sectoral Performance (Growth at Constant Prices)**
+- **Manufacturing**: **10.7%** (strongest industrial surge).
+- **Trade, Hotels, Transport, Communication & Broadcasting**: **10.9%** (leading services engine).
+- **Construction**: **7.4%**.
+- **Agriculture, Livestock, Forestry and Fishing**: **3.0%**.
+
+**Composition of Nominal GVA (2025–26)**
+- Agriculture, Livestock, Forestry and Fishing: **18%**
+- Manufacturing: **15%**
+- Trade, Hotels, Transport, Communication & Broadcasting: **14%**
+- Construction: **8%**
+
+**Per Capita Indicators (2025–26)**
+- **At Constant (2011–12) Prices**:
+  - Per Capita GDP: **₹2,27,447**
+  - Per Capita GNI: **₹2,24,307**
+  - Per Capita NNI: **₹1,93,480**
+  - Per Capita PFCE: **₹1,26,660**
+- **At Current Prices**:
+  - Per Capita GDP: **₹2,43,803**
+  - Per Capita GNI: **₹2,40,769**
+  - Per Capita NNI: **₹2,08,090**
+  - Per Capita GNDI: **₹2,49,195**
+  - Per Capita PFCE: **₹1,38,324**
+
+**Demand-Side Shares in GDP (Constant Prices)**
+- Private Final Consumption Expenditure (PFCE): **55.7%** (dominant driver).
+- Gross Fixed Capital Formation (GFCF / Investment rate): **32.3%**.
+- Government Final Consumption Expenditure (GFCE): **10.1%**.
+- Exports of Goods & Services: **22.2%**.
+- Imports of Goods & Services: **23.7%**.
+
+---
+
+### National Health Accounts (NHA) Estimates 2022–23
+
+**What happened**
+The Ministry of Health and Family Welfare published the *National Health Accounts Estimates for India (2022–23)*, structured under the global *System of Health Accounts 2011 (SHA 2011)* framework.
+
+**High-Yield UPPCS Prelims Health Metrics**
+- **Total Health Expenditure (THE)**: **₹8,81,359 crore**, constituting **3.37% of GDP**.
+- **Per Capita Total Health Expenditure**: **₹6,373**.
+- **Current Health Expenditure (CHE)**: ₹7,66,814 crore (**87.00%** of THE); **Capital Expenditure**: ₹1,14,545 crore (**13.00%** of THE).
+- **Government Health Expenditure (GHE)**: **₹3,85,332 crore** (**43.72% of THE**, accounting for **1.48% of GDP**). Per capita GHE: **₹2,786**.
+- **Out-of-Pocket Expenditure (OOPE)**: **₹3,82,629 crore** (**43.41% of THE**). Per capita OOPE: **₹2,767**.
+- **Historical Paradigm Shift (Crucial Trap)**: **Government Health Expenditure (43.72%) now officially surpasses Household Out-of-Pocket Expenditure (43.41%)**, reversing decades of private out-of-pocket dominance!
+- **Private Health Insurance**: ₹81,012 crore (**9.19%** of THE).
+- **Pharmaceutical Spending**: Accounts for **29.6%** of Current Health Expenditure.
+- **AYUSH / Alternative Medicine**: Accounts for **3.5%** of CHE.
+- **Expenditure by Level of Care**:
+  - Primary Care: ~**46%** of CHE
+  - Secondary Care: ~**34%** of CHE
+  - Tertiary Care: ~**15%** of CHE
+  - *Within Government Health Spending alone, **Primary Healthcare commands 51%** of public funds.*
+
+---
+
+### Insolvency and Bankruptcy Code (IBC) Completes 10 Years (2016–2026)
+
+**What happened**
+The **Insolvency and Bankruptcy Code, 2016** marked its **10th anniversary milestone in 2026**, successfully shifting India from a protracted, liquidation-centric recovery regime to a time-bound corporate revival framework.
+
+**Cumulative Resolution & Recovery Data (as of 31 March 2026)**
+- Total cases admitted under IBC: **8,987 cases**.
+- Cases closed: **7,102 cases** (with **4,099 companies successfully rescued and revived**).
+- Approved resolution plans: **1,419 cases**.
+- Creditor Realisation: Facilitated cumulative realisation of **more than ₹4 lakh crore** for financial and operational creditors.
+- Fair Value Recovery: Creditors recovered approximately **95% of the fair value** of distressed corporate assets.
+- Liquidation Value Multiplier: Realisations represented **167% of the liquidation value**, conclusively proving that resolution preserves substantially greater enterprise value than liquidation.
+
 ---
 
 ## July 2026

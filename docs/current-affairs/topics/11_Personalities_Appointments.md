@@ -21,6 +21,25 @@
 | **8th Central Pay Commission** | **Justice Ranjana Prakash Desai** | Appointed **Chairperson** (October 2025); former Supreme Court Judge and Delimitation Commission head. |
 | **53rd Chief Justice of India** | **Justice Surya Kant** | Assumed office on **24 November 2025** as India's 53rd CJI. |
 | **Central Industrial Security Force (CISF)** | **Praveer Ranjan** | Appointed **Director General (DG)**. |
+| **26th Chief Election Commissioner of India** | **Gyanesh Kumar** | Elected **Chair of the Council of Member States of International IDEA** for 2026 in Stockholm, Sweden. |
+| **India's BRICS Sherpa** | **Sudhakar Dalela** | Led the 1st BRICS Sherpas and Sous-Sherpas meeting under India's 2026 Chairship. |
+
+---
+
+## Global Leadership Transitions & Key International Appointments (2025–2026)
+
+| Office / Country | Leader | Month / Year | High-Yield Prelims Detail |
+| :--- | :--- | :--- | :--- |
+| **Japan (Prime Minister)** | **Sanae Takaichi** | October 2025 | Designated **104th Prime Minister of Japan**; **first woman to ever serve as Prime Minister of Japan** (and President of LDP). |
+| **Nepal (Prime Minister)** | **Balendra Shah ("Balen")** | March 2026 | Structural engineer, rapper, and former Mayor of Kathmandu; led Rastriya Swatantra Party (RSP) to victory following the 2025 youth "Gen Z Movement"; became **Nepal's youngest Prime Minister**. |
+| **Nepal (Interim Prime Minister)** | **Sushila Karki** | Late 2025 | Former Chief Justice of Nepal; served as interim Prime Minister, becoming the **first female Prime Minister in Nepal's history**. |
+| **UN General Assembly (81st Session)** | **Khalilur Rahman** | September 2026 | Foreign Minister of **Bangladesh**; elected **President of the 81st UNGA Session** (theme: *"Restoring Trust, Managing Transformation"*). |
+| **Albania (Public Procurement)** | **Diella** | September 2025 | **World's first AI-powered Minister** (*Diella* = "sun" in Albanian); integrated into the *e-Albania* digital portal to supervise tenders and curb corruption. |
+| **France (Prime Minister)** | **Sebastien Lecornu** | September 2025 | Appointed Prime Minister of France by President Emmanuel Macron following the resignation of François Bayrou. |
+| **Poland (President)** | **Karol Nawrocki** | August 2025 | Assumed office as President of Poland, succeeding Andrzej Duda after defeating Rafal Trzaskowski. |
+| **Australia (Prime Minister)** | **Anthony Albanese** | May 2025 | Sworn in for a **second term** as Prime Minister of Australia on 13 May 2025. |
+| **Guyana (President)** | **Irfaan Ali** | September 2025 | Re-elected for a second term as President of Guyana (first Muslim head of state in 2020). |
+| **Cameroon (President)** | **Paul Biya** | October 2025 | Re-elected for his **8th consecutive term** at age **92**; remains the **world's oldest serving head of state**. |
 
 ---
 
