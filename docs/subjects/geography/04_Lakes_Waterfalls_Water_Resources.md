@@ -21,6 +21,8 @@
 
 ## Current Affairs (this topic)
 
+![Ramsar Wetlands of Uttar Pradesh Map (13 Sites with 100th National Ramsar)](images/ch4_05_up_13_ramsar_wetlands_map.jpg)
+
 | Year | Fact | Why asked | Source |
 |------|------|-----------|--------|
 | **5 Jun 2026** | India designates **100th Ramsar** — **Jai Prakash Narayan Bird Sanctuary (Surha Tal), Ballia, UP** (World Environment (पर्यावरण) Day (विश्व पर्यावरण दिवस)) | “How many Ramsar in India / latest UP site?” | MoEFCC (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय) / PIB |
@@ -198,6 +200,8 @@ D. Chilka, Michigan, Superior, Victoria
 ---
 
 ## N.1 Lakes of India
+
+![Major Lakes of India Classified by Origin & Chemistry](images/ch4_01_india_major_lakes_map.jpg)
 
 Papers ask lakes in **two different ways**. Do not mix them in one mental list.
 
@@ -432,6 +436,8 @@ Later papers can swap in Ladoga, Victoria, Titicaca, and similar names — learn
 
 ### UP wetlands (state paper gold)
 
+![Ramsar Wetlands of Uttar Pradesh (13 Sites)](images/ch4_05_up_13_ramsar_wetlands_map.jpg)
+
 Ramsar **in UP** (learn the names that *are* UP). UP total **13** as of June 2026.
 
 | Site | District / belt |
@@ -489,6 +495,8 @@ D. Wular
 ---
 
 ## N.2 Waterfalls
+
+![Major Waterfalls of India Map](images/ch4_02_india_major_waterfalls_map.jpg)
 
 - A **waterfall** is a steep or vertical drop of a stream. Falls may be natural or artificial. Most Indian natural falls sit in mountain / plateau country with hard–soft rock contrasts.
 - Soft rock erodes faster than hard rock. The hard ledge remains as a lip and water plunges at the **knickpoint**.
@@ -576,6 +584,8 @@ D. Kevti fall
 
 ## N.3 Dams, canals and hydropower
 
+![Major Dams and Multipurpose River Valley Projects in India Map](images/ch4_03_multipurpose_projects_dams_map.jpg)
+
 - A **dam** stores water in a reservoir. A **barrage** diverts with little storage. **Farakka** and **Nangal** headworks are barrages, not storage twins of Bhakra.
 - **Multipurpose** means irrigation plus power plus flood cushion, and sometimes drinking water / navigation. Nehru called multipurpose river-valley projects the **“temples of modern India.”**
 - NCERT’s teaching set of river-valley projects is **Bhakra–Nangal, Hirakud, Damodar Valley, Nagarjuna Sagar, and the Indira Gandhi Canal**.
@@ -592,7 +602,10 @@ D. Kevti fall
 | **Indira Sagar** (Narmada Sagar) | **Narmada** | Near **Punasa / Khandwa**, MP | Largest reservoir **by volume**; ~1.23 lakh ha + ~**1000 MW** target; **Harsud** town submerged (**2004**) |
 | **Nagarjuna Sagar** | **Krishna** | AP–TS border; completed **1967** | Multipurpose; Nalgonda–Khammam–Guntur–Prakasam belt; height ~**125 m** |
 | **Tehri** | **Bhagirathi** (+ **Bhilangana** confluence at old Tehri) | Uttarakhand; **rock-fill**; THDC | India’s **tallest** dam (~**260.5 m**); cleared **1972**, work from **1978**; seismic / displacement protest |
+
 ### Master Table — Major Dams & Multipurpose Projects in India (भारत के प्रमुख बांध एवं बहुउद्देशीय परियोजनाएं)
+
+![Major Dams & Waterways Reference Summary](images/ch3_major_dams_waterways.png)
 
 *(High-yield for match-the-column with Rivers, States, and Specific Features)*
 
@@ -756,6 +769,8 @@ D. Kevti fall
 - **DVC** dams **Tilaiya, Konar, Maithon, Panchet** sit on the Damodar–Barakar system.
 
 ### Canals
+
+![Major Canals and Irrigation Framework of India](images/ch4_04_major_canals_irrigation_map.jpg)
 
 | Canal | Source / offtake | Region | Tag |
 |-------|------------------|--------|-----|

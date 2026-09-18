@@ -34,6 +34,12 @@ Namami Gange (नमामि गंगे) and GAP are Ganga cleaning programme
 
 ---
 
+### 🗺️ Visual Cheat Sheet — Complete Indian Drainage System
+
+![Indian Drainage System Overview Cheat Sheet](images/ch3_00_drainage_vertical_cheat_sheet.png)
+
+---
+
 
 ## Consolidated — 32 Must-Score Facts
 
@@ -97,7 +103,7 @@ Namami Gange (नमामि गंगे) and GAP are Ganga cleaning programme
 
 ---
 
-![img_9.png](../img_9.png)
+![Drainage System of India — Master Value Added Material](images/ch3_00_drainage_overview_sheet.png)
 
 ## Must-score facts — basins, types, dam–river
 
@@ -192,6 +198,10 @@ Namami Gange (नमामि गंगे) and GAP are Ganga cleaning programme
 
 ### River basics (must know before systems)
 
+![Major Drainage Systems of India](images/ch3_02_major_drainage_systems_map.png)
+
+![Drainage Outlets and Key Facts](images/ch3_01_drainage_key_facts.png)
+
 - A **drainage basin** is the whole catchment of a large river. A **watershed** is a smaller unit inside that basin.
 - A **major** basin has a catchment above **20,000 km²**. A **medium** basin is 2,000–20,000 km². A **minor** basin is below 2,000 km².
 - About **77% of India’s drainage area** faces the **Bay of Bengal**. About **23%** faces the **Arabian Sea**. Inland basins cover about **8% of area** (Luni, Ghaggar (घग्गर), Ladakh (लद्दाख) closed basins).
@@ -238,7 +248,11 @@ Genetic drainage names describe **what the river follows** or **when it formed r
 | **Concordant** | Follows structure and slope | Most peninsular rivers |
 | **Discordant** | Cuts across structure | Himalayan antecedent rivers |
 
+![Drainage Patterns Visual Reference](images/ch3_08_drainage_patterns_diagrams.png)
+
 #### Trans-Himalayan rivers (separate tag)
+
+![Himalayan River Systems Overview](images/ch3_03_himalayan_river_systems_overview.png)
 
 - **Trans-Himalayan rivers** rise **north of the Great Himalaya**, usually on the **Tibetan Plateau**, then **cut through** the Himalaya into India.
 - They are typically **antecedent**. Origin is beyond the main Himalayan crest, not in the Himachal (हिमाचल) / Kashmir Himalaya proper.
@@ -256,6 +270,8 @@ Genetic drainage names describe **what the river follows** or **when it formed r
 ## 3.1 Himalayan rivers
 
 ### Indus system
+
+![Indus River System and Five Rivers of Punjab (Panjnad) Map](images/ch3_indus_panjnad_map.jpg)
 
 - The Indus rises near the **Kailash / Mansarovar** region of Tibet (Bokhar Chu class origin). It is **antecedent** and **Trans-Himalayan**. It cuts a gorge in Ladakh and reaches the **Arabian Sea** near Karachi.
 - Total length is about **2900–3180 km**. Only about **710 km** lies in India.
@@ -295,6 +311,10 @@ D. Only 1
 </details>
 
 ### Ganga system
+
+![Ganga River Basin Network & Tributaries Map](images/ch3_ganga_river_basin_map.jpg)
+
+![Ganga System Tributaries Branch Tree](images/ch3_ganga_branch_tree.png)
 
 - The Ganga is formed at **Devprayag** where **Alaknanda** meets **Bhagirathi** (भागीरथी). Length is about **2525 km** — India’s longest river.
 - The **Bhagirathi** rises at **Gomukh** (Gangotri (गंगोत्री) glacier). The **Alaknanda** rises near **Satopanth** above Badrinath. **Badrinath** sits on the Alaknanda. **Kedarnath** (केदारनाथ) sits on the Mandakini.
@@ -349,9 +369,13 @@ D. Only 1
 - The **Betwa** rises in the Vindhya. The **Ken** joins near Banda.
 - A west-to-east right-bank order stem that lists Betwa, Ken, Sind, and Chambal as items 1–4 answers with Chambal first, then Sind, then Betwa, then Ken.
 
+![Yamuna Right Bank Tributaries Flow Chart](images/ch3_yamuna_flow_chart.png)
+
 > **Logic:** Ramganga at Kannauj is **true**. Betwa at Prayagraj is **false**. The **Padma** is the Ganga in Bangladesh. The **Jamuna** is the Brahmaputra in Bangladesh.
 
 ### Panch Prayag and Uttarakhand
+
+![Panch Prayag Himalayan Confluences Step-by-Step](images/ch3_panch_prayag_detailed.png)
 
 - Upstream to downstream on the Alaknanda the order is **Vishnuprayag** (विष्णुप्रयाग), then **Nandaprayag**, then **Karnaprayag** (कर्णप्रयाग), then **Rudraprayag** (रुद्रप्रयाग), then **Devprayag**.
 
@@ -399,6 +423,9 @@ D. 2 4 1 3
 - In Assam the channel is **braided**. **Majuli** is the world’s largest inhabited river island (and India’s first island district).
 - Looking downstream in Assam (mostly westward flow): **right-bank (north)** tributaries include **Subansiri, Kameng, Manas, Sankosh, Teesta**. **Left-bank (south)** tributaries include **Burhi Dihing, Dhansiri, Kopili**.
 - The **Teesta** rises in Sikkim (Khangchung Chho class — **not** the same source as the Brahmaputra). **Rangeet** is a Teesta tributary from Sikkim. Teesta was once a Ganga tributary; **river capture** shifted it to the Brahmaputra.
+
+![River Capture / Piracy Diagram](images/ch3_11_river_capture_piracy.png)
+
 - Near Dhubri the river enters Bangladesh. There the **Tista** joins, and the river is called the **Jamuna** (not the Yamuna).
 - The **Barak** rises in the Manipur hills (not Arunachal like Lohit/Subansiri). It becomes Surma–Kushiyara, then the **Meghna**, and reaches the **Bay of Bengal**. It is **not** inland drainage.
 - Padma is joined by Jamuna, then by Meghna; the combined Sundarbans delta lies between the Hooghly and the Meghna. The Bengal Delta is subdivided into **moribund, mature, and active** belts.
@@ -408,6 +435,10 @@ D. 2 4 1 3
 ---
 
 ## 3.2 Peninsular rivers
+
+![Peninsular India Rivers and Water Divides Relief Map](images/ch3_peninsular_rivers_map.jpg)
+
+![Peninsular Rivers Flow Pattern — East vs West Flowing](images/ch3_06_peninsular_flow_pattern_map.png)
 
 - The main peninsular water divide is the **Western Ghats**. Most large rivers flow **east** to the Bay of Bengal and build **deltas**.
 - **Narmada, Tapi, and Mahi** flow **west** to the Arabian Sea and mostly build **estuaries**, not deltas. They run short, steep courses through hard rock / rift valleys and carry less delta-building silt.
@@ -462,6 +493,8 @@ D. 2 4 1 3
 - Of Periyar / Pennar / Palar, only **Periyar** reaches the Arabian Sea.
 - Standard origin pairs: Yamuna–Yamunotri · Krishna–Mahabaleshwar · Godavari–Nashik · Mahanadi–Sihawa.
 
+![Origin of Major Peninsular Rivers](images/ch3_07_origin_peninsular_rivers.png)
+
 **PYQ — UPPCS Prelims 2018, Q102**
 
 Which of the following rivers of India does NOT originate from the Western Ghats?
@@ -482,6 +515,8 @@ D. Kabini *(paper: Kabam in some OCR)*
 
 ### Narmada, Tapi, and other west-flowing rivers
 
+![Estuaries vs Deltas (West Coast vs East Coast)](images/ch3_10_estuaries_diagram.png)
+
 - The **Narmada** is the **longest west-flowing** peninsular river (about **1312 km**). It rises at **Amarkantak** (Maikal) and uses the **rift** between Vindhya (north) and Satpura (south).
 - It falls as **Dhuandhar** at the **Marble Rocks** near Jabalpur. It reaches the **Gulf of Khambhat**. **Aliabet** is the large estuary (ज्वारनदमुख) island.
 - Right-bank tributaries are few. **Hiran** is the usual named right-bank stream. **Tawa** is a major left-bank tributary (joins near the Narmadapuram / Hoshangabad belt).
@@ -498,6 +533,8 @@ D. Kabini *(paper: Kabam in some OCR)*
 - **Mandovi** and **Zuari** are Goa (गोवा)’s estuary rivers.
 
 ### Inland and fault-valley drainage
+
+![Structural Basins and Fault / Rift Valley Drainage](images/ch3_12_structural_basins_rift_valleys.png)
 
 - The **Luni** (“salt river”) rises on the western Aravalli near **Ajmer** (अजमेर). It dies in the **Rann of Kachchh**. Water is **fresh in the upper course** and **saline below Balotra**.
 - The **Ghaggar** (घग्गर) is a seasonal Shiwalik (शिवालिक) stream. It fades in the Thar (थार) near Hanumangarh. It is the usual **Saraswati (सरस्वती) palaeo-channel**. It is **inland**.
@@ -596,6 +633,10 @@ The **Ken** rises in Madhya Pradesh and meets the Yamuna near **Banda**.
 
 From west to east, the major Yamuna right-bank feeders in the UP story are **Chambal**, then **Sind**, then **Betwa**, then **Ken**.
 
+![Yamuna Right Bank Feeder Order (Chambal -> Sind -> Betwa -> Ken)](images/ch3_05_yamuna_right_bank_tributaries.png)
+
+![Ken-Betwa Interlinking Project Facts](images/ch3_14_ken_betwa_current_affairs.png)
+
 The **Hindon** is a Yamuna **left**-bank stream of western Uttar Pradesh / NCR.
 
 ---
@@ -604,6 +645,8 @@ The **Hindon** is a Yamuna **left**-bank stream of western Uttar Pradesh / NCR.
 
 ### Deltas versus estuaries
 ### Types of deltas — Teaching Card
+
+![Delta Types Diagrams](images/ch3_09_delta_types_diagrams.png)
 
 - **Arcuate delta** has a convex seaward front and many distributaries spreading like a fan. The **Ganga–Brahmaputra (Sundarbans)** and **Godavari–Krishna** are Indian examples.
 - **Bird's-foot (digitate) delta** has long finger-like distributaries. The **Mississippi** is the classic world example — **not** the Ganga.
@@ -752,6 +795,10 @@ A **drainage pattern** is the map shape of rivers. The shape tells you what **co
 
 ## 3.5 Waterways and river linking
 
+![National Waterways NW-1 to NW-5 Map & Overview](images/ch3_13_national_waterways_map_list.png)
+
+![Major Dams & Waterways Reference](images/ch3_major_dams_waterways.png)
+
 | NW | Route |
 |----|-------|
 | **NW-1** | Ganga–Bhagirathi–Hooghly (Haldia–Prayagraj) — longest |
@@ -767,6 +814,16 @@ A **drainage pattern** is the map shape of rivers. The shape tells you what **co
 - Polavaram includes Godavari–Krishna link assistance.
 - Disputes: **Cauvery** (Karnataka–Tamil Nadu). **Krishna** (Maharashtra–Karnataka–Telangana–Andhra Pradesh). **Ravi–Beas / SYL** (Punjab–Haryana). **Narmada** (Gujarat–Madhya Pradesh–Maharashtra–Rajasthan). Law: ISRWD Act 1956 (अधिनियम) and Article **262**.
 - Namami Gange and GAP (1985) clean the Ganga on the NW-1 stretch.
+
+---
+
+### 📝 Master Drainage Comparisons & Memory Hooks
+
+![Must-Know Drainage Term Comparisons](images/ch3_term_comparisons_table.png)
+
+![Rapid Facts and Memory Hooks](images/ch3_rapid_facts_column.png)
+
+![One-Line Memory Hooks & Mnemonics](images/ch3_15_one_line_memory_hooks.png)
 
 ---
 

@@ -131,7 +131,7 @@ D. Mistral
 
 ---
 
-![img_6.png](../img_6.png)
+![Climate of India Overview Cheat Sheet](images/ch2_00_climate_overview_sheet.png)
 
 ## Must-score facts — seasons, monsoon, onset
 
@@ -183,6 +183,8 @@ Climate is the long-term weather pattern of a place. India’s climate is **trop
 | **Jet streams** | Winter STWJ (पश्चिमी जेट) steers Western Disturbances; summer TEJ (उष्णकटिबंधीय पूर्वी जेट) supports SW monsoon |
 | **ENSO / IOD** | Year-to-year monsoon strength (El Niño weakens; +IOD helps) |
 
+![Physiographic & Orographic Impact: The Himalayan Barrier](images/ch2_02_physiographic_orographic_himalaya.png)
+
 - Latitude places most of India in the tropical and subtropical belts. The Himalaya adds a cold-temperate belt in the north.
 - The Himalaya blocks cold Central Asian winds in winter. It also forces orographic rain on the southern slopes in the monsoon.
 - Coasts stay moderate because of the sea. The interior Deccan and north-west India have continental extremes.
@@ -200,6 +202,8 @@ Temperature normally falls with height because the ground heats the lowest air. 
 | **Darjeeling (about 2000 m)** | about **4 °C** | Same latitude as Agra; **lapse rate** |
 | Mumbai / Chennai | 24–26 °C | Maritime |
 | Jaisalmer | 12–15 °C in January; 40–45 °C in June | Highest **diurnal** range among usual stations |
+
+![January vs June Temperature Distribution Across India](images/ch2_11_temperature_jan_jun.png)
 
 - January is coldest in the north-west and the Himalaya. January is warmest in the far south.
 - June is hottest in north-west Rajasthan and Gujarat.
@@ -308,6 +312,8 @@ The equator receives more sun than the poles. Warm air rises near the equator. C
 | Thermosphere | about 80–400 km | Ionosphere and aurora |
 | Exosphere | outermost | Space |
 
+![Atmospheric Layers & Global Pressure Belts](images/ch2_09_atmospheric_layers_pressure_belts.png)
+
 #### Pressure belts and circulation cells
 
 | Step | Process | Surface result |
@@ -402,6 +408,8 @@ Two standard explanations work together:
 - In winter the ITCZ shifts south. Winds reverse to the north-east. Over most of India those winds are dry. They rain on the Coromandel only after picking up Bay moisture.
 - Withdrawal begins in the **north-west** and ends in the extreme south. That north-to-south pullback is the retreating monsoon.### Southwest monsoon
 
+![Southwest Monsoon: Flow, Branches & Onset Isochrones](images/ch2_01_sw_monsoon_flow_and_branches.png)
+
 - The south-west monsoon lasts from **June to September**. It gives about **75–90%** of India’s annual rain.
 - IMD’s normal onset at **Kerala** is about **1 June** (first among major states). The front then moves north at roughly ten days per degree of latitude.
 
@@ -468,6 +476,8 @@ D. Both true and R is the correct explanation
 | Jaisalmer | less than 25 cm | Far from both branches; Aravalli parallel |
 | Leh / Ladakh | less than 10 cm (often ~4 cm class) | Himalayan rain shadow — driest among usual options |
 
+![Annual Rainfall Distribution Across India](images/ch2_10_annual_rainfall_distribution.png)
+
 - All-India mean rainfall is about **118–124 cm** (class figures vary by yearbook; ~**118 cm / ~1236 mm** both appear).
 - IMD calls a **rainy day** a day with **2.5 mm or more** rain in 24 hours.
 - India’s tropical monsoon belt allows **kharif (खरीफ), rabi (रबी), and zaid (जायद)**. The claim that India has the highest cultivated area versus the USA, China, and Japan is false.
@@ -490,6 +500,8 @@ D. Both true and R is the correct explanation
 | **Isohyet** | Same rainfall |
 
 ### Northeast monsoon and retreating monsoon
+
+![Northeast Monsoon: Bay of Bengal Flow & Coromandel Rainfall](images/ch2_03_ne_monsoon_rainfall.png)
 
 These two names cover the same autumn window, but they are not the same process.
 
@@ -523,6 +535,8 @@ These two names cover the same autumn window, but they are not the same process.
 
 ### Western Disturbances
 
+![Western Disturbances: Origin, Path & Rainfall Gradient](images/ch2_04_western_disturbances.png)
+
 Western Disturbances are **extra-tropical** winter storms. They form near the Mediterranean–Caspian region, travel east in the subtropical westerly jet, and bring rain or snow to north-west India. They are not monsoon lows and not Bay of Bengal depressions.
 
 | Item | Note |
@@ -541,6 +555,8 @@ Western Disturbances are **extra-tropical** winter storms. They form near the Me
 ## 2.3 Winds, Storms and Cyclones
 
 ### Local winds and storms of India
+
+![Local Winds and Storms of India](images/ch2_05_local_winds_india.png)
 
 Local winds are short-lived and stay near the ground.
 
@@ -576,6 +592,8 @@ Foehn / Chinook are warm-dry lee winds. They are not the same as cold night-time
 | **Katabatic** | Valleys | **Night** | **Downslope** cold drainage |
 
 ### World local winds (full match map)
+
+![World Local Winds Match Map](images/ch2_06_local_winds_world_map.png)
 
 - Past papers have already asked Mistral, Shamal, Chinook, Foehn, Santa Ana, Haboob, Brickfielder, Leveche, Black roller, and Yamo. Other standard local winds still worth knowing include **Sirocco, Bora (बोरा), Harmattan (हरमट्टन), Khamsin (खामसिन), Zonda, Samun**, and the Willy-willy trap.
 - Local winds are short-lived and near the ground. Group them by **family**, then fact the region.
@@ -646,6 +664,8 @@ Foehn / Chinook are warm-dry lee winds. They are not the same as cold night-time
 
 ### Tropical cyclones
 
+![Tropical Cyclones: Bay of Bengal vs Arabian Sea & IMD Categories](images/ch2_07_tropical_cyclones_basins.png)
+
 A tropical cyclone is a large spinning storm over warm ocean. It needs sea-surface temperature of about **26–27 °C or more**, deep moisture, Coriolis spin, and low vertical wind shear. Coriolis is too weak on the equator, so genesis is usually between about **5° and 30°**.
 
 | Need | Note |
@@ -708,6 +728,8 @@ A tropical cyclone is a large spinning storm over warm ocean. It needs sea-surfa
 
 ### Köppen (India) versus Thornthwaite
 
+![Koppen Climate Classification Map of India](images/ch2_13_koppen_climate_classification.jpg)
+
 Köppen classifies climate by temperature and rainfall letter codes. Thornthwaite classifies by moisture balance. The line **“Vegetation is the true index of climate”** belongs to Thornthwaite, not Köppen.
 
 | Thinker | Method | Note |
@@ -745,6 +767,8 @@ Köppen classifies climate by temperature and rainfall letter codes. Thornthwait
 - The “humid south-east” belts (Chotanagpur (छोटानागपुर)–Odisha–south Chhattisgarh fringe) sit in the wetter monsoon east; do not confuse with Thar **BWh**.
 
 ### Jet streams
+
+![Jet Streams Over India: Winter STWJ vs Summer TEJ](images/ch2_08_jet_streams_india.png)
 
 Jet streams are narrow, fast winds near the tropopause. Most mid-latitude jets are **westerly** (west → east). Speeds of about **300–500 km/h** are typical. The summer **Tropical Easterly Jet** over India is the main exception.
 
@@ -786,6 +810,8 @@ D. (A) true, (R) false
 </details>
 
 ### El Niño, La Niña, and IOD
+
+![El Nino and La Nina Impact on Indian Monsoon & Walker Circulation](images/ch2_14_el_nino_la_nina_monsoon.jpg)
 
 These three names scare many students. Keep them separate first.
 
@@ -901,6 +927,8 @@ D. Neither 1 nor 2
 **Ans: A** — Stmt 1 true: warm current off Peru. Stmt 2 false: warm El Niño water weakens upwelling, so plankton and fish **fall**, they do not rise. **C** is the classic trap.
 
 </details>
+
+![UPPCS Climate PYQ Traps Reminder](images/ch2_12_pyq_traps_reminder.png)
 
 ---
 
