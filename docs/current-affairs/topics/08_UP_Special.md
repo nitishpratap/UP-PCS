@@ -542,6 +542,12 @@ The UP Cabinet cleared two big road projects to grow the state’s expressway ne
 - **Landlocked Champion**: **Uttar Pradesh ranked #1 among ALL LANDLOCKED STATES in India**!
 - **Core Drivers Praised**: **One District One Product (ODOP)** initiative, comprehensive logistics policy reforms, expressway and inland multimodal logistics hubs/dry ports, and dedicated exporter handholding cells.
 
+#### Union Budget 2026–27 — High-Speed Rail & Waterway Infrastructure for UP
+- **High-Speed Rail Corridors**: Among the 7 high-speed rail corridors announced nationally, two major corridors anchor in Uttar Pradesh:
+  1. **Delhi–Varanasi High-Speed Rail Corridor**
+  2. **Varanasi–Siliguri High-Speed Rail Corridor** (linking Eastern UP to North-East India).
+- **Inland Waterways & Ship Repair Hub**: Under the 20 new National Waterways initiative, a dedicated **regional training centre and modern inland vessel ship-repair ecosystem** was sanctioned for **Varanasi** (alongside Patna on NW-1 Ganga).
+
 ---
 
 ## Practice Zone — UPPCS Format

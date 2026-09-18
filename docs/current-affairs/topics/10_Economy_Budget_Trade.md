@@ -39,44 +39,133 @@ India and the European Union announced that they had finished FTA negotiations d
 
 ## February 2026
 
-### Union Budget 2026–27 | presented 1 February 2026
+### Union Budget 2026–27 | Presented 1 February 2026
 
 **What happened**
-Finance Minister **Nirmala Sitharaman** presented the Union Budget for **2026–27**. She called it a **Yuva Shakti**-driven Budget. It was the first Budget made in **Kartavya Bhawan**. She explained the Budget through **three kartavyas**: growth, people’s capacity, and inclusive development (**Sabka Saath, Sabka Vikas**).
+Union Minister for Finance and Corporate Affairs **Smt. Nirmala Sitharaman** presented the Union Budget 2026–27 in Parliament on **1 February 2026**. Anchored in the new **Kartavya Bhawan**, the Budget was framed around **Yuva Shakti** and structured under **Three Kartavyas**:
+1. **Kartavya 1**: Faster and resilient growth by raising productivity and competitiveness amid global volatility.
+2. **Kartavya 2**: Build people's capacities so citizens become partners in prosperity.
+3. **Kartavya 3**: Inclusive access to resources and opportunities under **Sabka Saath, Sabka Vikas**.
 
-**Big money figures to revise**
+---
 
-| Item | Fact |
-|------|------|
-| Public capital expenditure (capex) | **₹12.2 lakh crore** |
-| Fiscal deficit target | **4.3%** of GDP |
-| Earlier comparison used in speech | about **₹11.2 lakh crore** in BE 2025–26; much lower about a decade ago |
-| Total expenditure (BE messaging) | about **₹53.5 lakh crore** |
-| Centre’s net tax receipts (BE messaging) | about **₹28.7 lakh crore** |
-| 16th Finance Commission grants to states | about **₹1.4 lakh crore** for FY 2026–27 |
-| Biopharma SHAKTI | **₹10,000 crore** over 5 years |
-| Container Manufacturing scheme | **₹10,000 crore** over 5 years |
-| CCUS | **₹20,000 crore** over 5 years |
-| Electronics Components Manufacturing | outlay raised to **₹40,000 crore** |
-| New Income Tax Act, 2025 | comes into force on **1 April 2026** |
+#### Budget at a Glance (Master Financial Table — ₹ Crore)
 
-**Transport and logistics ideas**
+| Component | 2024–25 Actuals | 2025–26 (BE) | 2025–26 (RE) | 2026–27 (BE) |
+| :--- | :--- | :--- | :--- | :--- |
+| **1. Revenue Receipts** | ₹30,36,619 | ₹34,20,409 | ₹33,42,323 | **₹35,33,150** |
+| - *Tax Revenue (Net to Centre)* | ₹25,00,039 | ₹28,37,409 | ₹26,74,661 | **₹28,66,922** |
+| - *Non-Tax Revenue* | ₹5,36,580 | ₹5,83,000 | ₹6,67,662 | **₹6,66,228** |
+| **2. Capital Receipts** | ₹16,16,249 | ₹16,44,936 | ₹16,22,519 | **₹18,14,165** |
+| - *Recovery of Loans* | ₹24,617 | ₹29,000 | ₹30,190 | **₹38,397** |
+| - *Other Receipts (Disinvestment)* | ₹17,202 | ₹47,000 | ₹33,837 | **₹80,000** |
+| - *Borrowings & Other Liabilities* | ₹15,74,431 | ₹15,68,936 | ₹15,58,492 | **₹16,95,768** |
+| **Total Receipts (1 + 2)** | ₹46,52,867 | ₹50,65,345 | ₹49,64,842 | **₹53,47,315** |
+| **Total Expenditure** | ₹46,52,867 | ₹50,65,345 | ₹49,64,842 | **₹53,47,315** |
+| - *On Revenue Account* | ₹36,00,914 | ₹39,44,255 | ₹38,69,087 | **₹41,25,494** |
+| - *Of which: Interest Payments* | ₹11,15,575 | ₹12,76,338 | ₹12,74,338 | **₹14,03,972** |
+| - *Grants for creation of Capital Assets*| ₹2,72,656 | ₹4,27,192 | ₹3,08,151 | **₹4,92,702** |
+| - *On Capital Account (Public Capex)* | ₹10,51,953 | ₹11,21,090 | ₹10,95,755 | **₹12,21,821** |
+| **Effective Capital Expenditure** | ₹13,24,609 | ₹15,48,282 | ₹14,03,906 | **₹17,14,523** |
 
-- A new Dedicated Freight Corridor from **Dankuni (East)** to **Surat (West)**.
-- **20 new National Waterways** over five years. The first focus named is **NW-5** in Odisha, linking mineral and industrial areas to Paradeep and Dhamra ports.
-- Ship-repair support for inland waterways at **Varanasi** and **Patna**.
-- **Seven High-Speed Rail corridors** as growth connectors.
-- A Coastal Cargo Promotion Scheme to move more goods by sea instead of only road and rail.
+---
 
-**Orange Economy**
+#### Deficit Statistics & Public Debt Path (% of GDP)
 
-- The Budget supported the creative sector called **AVGC**: Animation, Visual Effects, Gaming, and Comics.
-- Support was announced for the **Indian Institute of Creative Technologies, Mumbai**, including Content Creator Labs.
-- Explainers also spoke of labs in many schools and colleges. Memorise exact school counts only after locking them from an official annex.
+| Deficit Indicator | 2024–25 Actuals | 2025–26 (BE) | 2025–26 (RE) | 2026–27 (BE) | % of GDP (2026–27 BE) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Fiscal Deficit** | ₹15,74,431 | ₹15,68,936 | ₹15,58,492 | **₹16,95,768** | **4.3%** |
+| **Revenue Deficit** | ₹5,64,296 | ₹5,23,846 | ₹5,26,764 | **₹5,92,344** | **1.5%** |
+| **Effective Revenue Deficit** | ₹2,91,640 | ₹96,654 | ₹2,18,613 | **₹99,642** | **0.3%** |
+| **Primary Deficit** | ₹4,58,856 | ₹2,92,598 | ₹2,84,154 | **₹2,91,796** | **0.7%** |
 
-**Scheme names**
+- **Centre's Outstanding Debt**: Estimated at **55.6% of GDP in 2026–27** (down from pandemic peak of 61% in 2020–21; long-term fiscal glide path targets **50% ± 1% by March 2031**).
+- **Nominal GDP Growth Assumption**: Budget projects **10.0% nominal GDP growth** for FY 2026–27.
 
-All major new scheme names from this Budget are written in easy language under [Schemes](02_Schemes_Policies.md).
+---
+
+#### Rupee Flows (Where It Comes From & Where It Goes)
+
+**Rupee Comes From (2026–27 BE)**:
+1. **Borrowings and Other Liabilities**: **24%** (Single largest receipt source)
+2. **Income Tax**: **21%**
+3. **Corporation Tax**: **18%**
+4. **Goods and Services Tax (GST) & Other Taxes**: **15%**
+5. **Non-Tax Revenue**: **10%**
+6. **Union Excise Duties**: **6%**
+7. **Customs**: **4%**
+8. **Non-Debt Capital Receipts**: **2%**
+
+*(High-Yield Sequence Trap: Borrowings 24% > Income Tax 21% > Corporation Tax 18% > GST 15% > Non-Tax 10% > Excise 6% > Customs 4% > Non-Debt Capital 2%).*
+
+**Rupee Goes To (2026–27 BE)**:
+1. **States' Share of Taxes & Duties**: **22%** (Single largest outflow)
+2. **Interest Payments**: **20%**
+3. **Central Sector Schemes**: **17%**
+4. **Defence**: **11%**
+5. **Centrally Sponsored Schemes (CSS)**: **8%**
+6. **Finance Commission & Other Transfers**: **7%**
+7. **Other Expenditure**: **7%**
+8. **Major Subsidies**: **6%**
+9. **Civil Pensions**: **2%**
+
+---
+
+#### Detailed Sectoral Allocations & Flagship Programmes
+
+**1. Strategic Manufacturing & Industry (Kartavya 1)**:
+- **Biopharma SHAKTI**: **₹10,000 crore (over 5 years)** to build India as a global biologics hub; sets up **3 new NIPERs**, upgrades **7 existing NIPERs**, and accredits **1,000+ clinical trial sites**.
+- **India Semiconductor Mission 2.0 (Semicon 2.0)**: Outlay of **₹1,27,500 crore** for full-stack IP, semiconductor equipment, and supply-chain development.
+- **Electronics Components Manufacturing Scheme**: Outlay raised to **₹40,000 crore**.
+- **Rare Earth Corridors**: Dedicated extraction and processing corridors announced in **Odisha, Kerala, Andhra Pradesh, and Tamil Nadu**.
+- **Container Manufacturing Scheme**: Outlay of **₹10,000+ crore (over 5 years)**.
+- **Chemical Parks**: 3 modern Chemical Parks on a challenge-mode, cluster plug-and-play model.
+- **Legacy Industrial Clusters**: Scheme to modernize and revive **200 legacy industrial clusters**.
+- **SME Growth Fund**: **₹10,000 crore** fund to create "Champion SMEs"; Self-Reliant India Fund topped up by **₹2,000 crore**.
+
+**2. Infrastructure, Logistics & Connectivity**:
+- **Public Capital Expenditure**: Raised to record **₹12.22 lakh crore** (effective capex: **₹17.15 lakh crore**).
+- **Interest-Free 50-Year Loans to States for Capex**: Raised to **₹1,85,000 crore** (up from ₹1.44 lakh crore).
+- **Dedicated Freight Corridor (DFC)**: Greenfield freight corridor from **Dankuni (West Bengal) to Surat (Gujarat)**.
+- **20 New National Waterways**: Operationalisation over 5 years, commencing with **NW-5 in Odisha**.
+- **Inland Ship Repair Hubs**: Dedicated ship-repair and regional training ecosystems at **Varanasi** and **Patna**.
+- **Coastal Cargo Promotion Scheme**: Aim to increase coastal/waterways cargo share from **6% to 12% by 2047**.
+- **Seven High-Speed Rail Corridors**: 1. Mumbai–Pune, 2. Pune–Hyderabad, 3. Hyderabad–Bengaluru, 4. Hyderabad–Chennai, 5. Chennai–Bengaluru, 6. **Delhi–Varanasi**, 7. **Varanasi–Siliguri**.
+- **City Economic Regions (CERs)**: **₹5,000 crore per CER (5 years)** via reform-cum-results challenge funding.
+
+**3. Human Capital, Orange Economy & Social Priorities (Kartavya 2 & 3)**:
+- **AVGC Labs (Orange Economy)**: Setting up Content Creator Labs in **15,000 schools and 500 colleges** linked to **Indian Institute of Creative Technologies (IICT), Mumbai**.
+- **Allied Healthcare**: Training and certification of **1,00,000 Allied Health Professionals (AHP)** over 5 years.
+- **Medical Hubs & AYUSH**: **5 Regional Medical Hubs** for medical tourism; **3 new All India Institutes of Ayurveda**.
+- **Mental Health**: Establishing **NIMHANS-2** in North India; upgrading mental health institutes at **Ranchi** and **Tezpur**.
+- **Five University Townships**: Planned near major industrial and logistics corridors.
+- **Bharat-VISTAAR**: Multilingual agricultural AI tool integrating AgriStack with ICAR scientific practice packages.
+- **Divyangjan Kaushal Yojana**: Specialised skilling in IT, AVGC, hospitality, and food processing.
+- **Tourism Heritage**: Cultural and infrastructure push across **15 archaeological sites**; training **10,000 tourist guides**.
+- **16th Finance Commission Grants**: **₹1.4 lakh crore** provided for FY 2026–27.
+
+**4. Ministry & Subsidy Expenditure Distribution**:
+- **Ministry of Defence**: **₹7.85 lakh crore** (**15% of total Union Budget** — highest single ministerial allocation; capital outlay for defence services: **₹2,19,306 crore**, a +17.6% rise).
+- **Ministry of Road Transport & Highways**: **6%**.
+- **Ministry of Railways**: **5%**.
+- **Ministry of Home Affairs**: **5%**.
+- **Total Subsidies**: **₹4,54,773 crore** (Food subsidy: **₹2,27,629 crore**; Fertiliser subsidy: **₹1,70,799 crore** — together constituting **87% of total subsidies**).
+- **Top Flagship Scheme Allocation**: **VB-G RAM G** allocated **₹95,692 crore** (highest single scheme outlay; transition MGNREGS allocation: ₹30,000 crore).
+
+---
+
+#### Major Tax Reforms & Proposals (Union Budget 2026–27)
+
+- **Cloud Data Centres Tax Holiday to 2047**: 100% tax holiday granted until the year **2047** for foreign companies providing global cloud services using Indian data centres (subject to routing through Indian resellers).
+- **IFSC / GIFT City Tax Holiday Doubled**: Extended from **10 years to 20 years** for IFSC units and Offshore Banking Units, with a concessional 15% rate applicable thereafter.
+- **Minimum Alternate Tax (MAT) Rationalisation**: Corporate MAT rate reduced from **15% to 14%**; MAT credit accumulation discontinued from April 2026.
+- **TCS Relief**: Tax Collected at Source (TCS) on overseas education remittances, medical treatments, and tour packages slashed to **2%**.
+- **Share Buyback Taxation Overhaul**: Buybacks taxed as capital gains; additional buyback tax levied on promoters raising effective tax to **22% for corporate promoters and 30% for non-corporate promoters**.
+- **Securities Transaction Tax (STT)**: Calibrated upward revision on futures and options (F&O) contracts.
+- **Foreign Assets Disclosure Scheme 2026**: Introduced for small taxpayers, providing graded relief and immunity upon voluntary declaration.
+- **FDI / Portfolio Liberalisation**: Persons Resident Outside India (PROI) allowed to invest up to **10%** in listed Indian companies under the Portfolio Investment Scheme.
+
+---
 
 ### Uttar Pradesh Budget
 
@@ -677,6 +766,127 @@ The Ministry of Commerce & Industry notified Puducherry's first two Special Econ
 - **Working Poverty**: ~284 million workers globally live on less than USD 3 per day. Extreme working poverty stands at **7.9%**.
 - **Global Youth Unemployment**: Recorded at **12.4%** in 2025.
 - **Labour Income Share**: Fell to **52.6%** globally.
+
+---
+
+### Global Unicorn Index 2025 | Hurun Research Institute (26 June 2025)
+
+- Highlights **1,523 unicorns worldwide** across **52 countries and 307 cities**, commanding a combined valuation of **$5.6 trillion**.
+- Over **55% of global unicorns** were founded in the last 10 years.
+- 203 new unicorns emerged during the year, adding $565 billion in new value.
+
+---
+
+### Forbes World's Billionaires List 2026 & Indians in Global Top 100
+
+**Global Top 5 Richest Persons**:
+1. **Elon Musk**: **$839 billion** (Tesla, SpaceX — USA)
+2. **Larry Page**: **$257 billion** (Google — USA)
+3. **Sergey Brin**: **$237 billion** (Google — USA)
+4. **Jeff Bezos**: **$224 billion** (Amazon — USA)
+5. **Mark Zuckerberg**: **$222 billion** (Facebook / Meta — USA)
+
+**Indian Billionaires in Global Top 100**:
+- **Mukesh Ambani**: **Rank 21 globally** (**$99.7 billion**) — *Richest person in India and Asia*.
+- **Gautam Adani**: **Rank 31 globally** (**$63.8 billion**) — *Second richest in India*.
+- **Savitri Jindal & Family**: **Rank 51 globally** (**$39.1 billion**, Steel) — ***Richest Woman in India***.
+- **Lakshmi Mittal**: **Rank 70 globally** (**$31.0 billion**, Steel).
+- **Shiv Nadar**: **Rank 71 globally** (**$30.9 billion**, Software / HCL).
+- **Cyrus Poonawalla**: **Rank 95 globally** (**$27.0 billion**, Vaccines / Serum Institute of India).
+- **Dilip Shanghvi**: **Rank 100 globally** (**$25.6 billion**, Pharmaceuticals / Sun Pharma).
+
+---
+
+### Hurun Global Rich List 2026 | Released 10 March 2026
+
+- **Indian Billionaire Count**: India added **57 new billionaires** in 2025–26, elevating the total count to **308 billionaires**!
+- **Global Standing**: India solidifies its position as the **world's third-largest billionaire hub** (behind USA and China).
+- **Wealth Concentration**: Combined wealth of Indian billionaires rose 10% to **₹112.6 trillion**; average billionaire wealth stands at **₹36,570 crore** (now exceeding China's billionaire average).
+- **Top Billionaire Cities**:
+  - **Mumbai**: India's billionaire capital with **95 billionaires** (+15 added in the year, outpacing New York).
+  - **Shenzhen**: Crowned Asia's billionaire capital with **132 billionaires**.
+  - **National Leader**: **Mukesh Ambani** remains India's wealthiest individual.
+
+---
+
+### India–EFTA Trade and Economic Partnership Agreement (TEPA) | In Force 1 October 2025
+
+**What happened**
+The landmark **Trade and Economic Partnership Agreement (TEPA)** between India and the four developed nations of the **European Free Trade Association (EFTA — Switzerland, Norway, Iceland, and Liechtenstein)**, signed on 10 March 2024, officially **entered into force on 1 October 2025**.
+
+**Core Provisions & Economic Commitments**
+- **First FTA with Developed European Nations**: First trade agreement of its kind signed by India with a developed European bloc.
+- **14 Comprehensive Chapters**: Covering goods, services, rules of origin, IPR, investment promotion, and sanitary measures.
+- **Tariff Concessions**:
+  - EFTA offers duty concessions on **92.2% of its tariff lines, covering 99.6% of India's exports** (zero duty on non-agricultural and processed food products).
+  - India offers market access on **82.7% of its tariff lines, covering 95.3% of EFTA exports** (sensitivities in dairy, soya, coal, and domestic pharma strictly protected).
+- **$100 Billion Investment Pledge**: EFTA countries legally committed to facilitate **USD 100 billion in foreign direct investment into India over 15 years**, generating an estimated 1 million direct jobs.
+- **Gold Import Dynamics**: Over **80% of India's imports from EFTA consist of gold**, which remains insulated from tariff reductions.
+
+---
+
+### India's Foreign Direct Investment (FDI) Inflows in FY 2024–25
+
+**What happened**
+Government official estimates confirmed that gross FDI inflows into India rose to **USD 81.04 billion (provisional)** in FY 2024–25, registering a **14% increase** over USD 71.28 billion in FY 2023–24.
+
+**Long-Term Trend & Inflow Architecture**
+- Over the 11-year span (2014–2025), India accumulated **USD 748.78 billion in FDI**, marking a **143% surge** over the previous 11 years (2003–14: $308.38B).
+- **Top Sectoral Recipients of FDI Equity (FY 2024–25)**:
+  1. **Services Sector**: **19%** of total equity inflows (USD 9.35 billion, up 40.77%).
+  2. **Computer Software & Hardware**: **16%**.
+  3. **Trading**: **8%**.
+  - *Manufacturing FDI expanded by 18% to USD 19.04 billion.*
+- **Top Destination States for FDI Equity**:
+  1. **Maharashtra**: **39%** of total FDI equity inflows (Dominant #1 recipient).
+  2. **Karnataka**: **13%**.
+  3. **Delhi**: **12%**.
+- **Top Source Countries for FDI Equity**:
+  1. **Singapore**: **30%** share (Leading investing nation).
+  2. **Mauritius**: **17%** share.
+  3. **United States (USA)**: **11%** share.
+
+---
+
+### APEDA BHARATI Initiative | Agri-Export Acceleration (2 September 2025)
+
+- Launched by the **Agricultural and Processed Food Products Export Development Authority (APEDA)**.
+- **BHARATI** stands for: **Bharat's Hub for Agritech, Resilience, Advancement and Incubation for Export Enablement**.
+- Nurtures **100 agri-food and agri-tech startups** in its initial batch to propel India's agri-exports toward the national target of **$50 billion by 2030**.
+
+---
+
+### NABARD 8th Rural Economic Conditions and Sentiments Survey (RECSS)
+
+- Conducted by **NABARD** in **November 2025** across 6,000 households in 600 villages across 28 states & 1 UT.
+- **79.2% of households** reported higher consumption, spending **67.30% of income on consumption**.
+- Credit channels: **58.30%** accessed only formal credit; **20.82%** relied solely on informal sources (average informal interest rate: **17.8%**).
+- Government welfare transfers contributed **~10% of rural household income**.
+- **Rural roads (42.4%)** emerged as the top perceived infrastructure improvement.
+
+---
+
+### Income Mobility in India (2014–2025) | CMIE Household Panel Study
+
+- Analyzed balanced panel data from CMIE Consumer Pyramids Household Survey across Top 10%, Middle 40%, and Bottom 50%.
+- Households experiencing downward mobility rose from 14% (2015) to **26.8% in 2025**; upward mobility rose from 14.1% to **23.5%**.
+- Highest vulnerability observed in rural households, with **29% of rural households worse off than in 2014**.
+
+---
+
+### High-Yield Short Economic & Financial News
+
+- **Prohibition of Sugar Exports**: Directorate General of Foreign Trade (**DGFT**) prohibited the export of sugar with immediate effect until **30 September 2026**, reclassifying sugar from the "Restricted" to the **"Prohibited"** category to safeguard domestic price stability.
+- **India's First Mega Greenfield Shipyard (Thoothukudi, Tamil Nadu)**: Tripartite MoU inked on **20 April 2026** between **HD Korea Shipbuilding & Offshore Engineering**, National Shipbuilding & Heavy Industries Park TN Ltd (**V.O. Chidambaranar Port Authority** + SIPCOT), and Sagarmala Finance Corporation.
+- **First Digital Grievance Redressal for Gig Workers**: **Karnataka** became India's first state to roll out a dedicated digital grievance redressal mechanism under the Karnataka Platform Based Gig Workers Welfare Board.
+- **SARTHAK-PDS Scheme Approved**: CCEA approved the technology-driven modernization scheme on **27 May 2026** with a central outlay of **₹25,530 crore**, aligned with the 16th Finance Commission cycle (up to 31 March 2031).
+- **Startup India Fund of Funds 2.0 (FoF 2.0)**: Notified on **13 April 2026** with a fresh corpus of **₹10,000 crore** to catalyze domestic venture capital for deep-tech and growth-stage startups.
+- **CBDC (Digital Rupee) in Public Distribution System**: RBI's Central Bank Digital Currency (CBDC) integrated into food subsidy distribution under PMGKAY via pilots launched in **Gujarat (15 February 2026)** and **Puducherry (26 February 2026)**.
+- **Kerala Declared 'Extreme Poverty-Free' State**: On **1 November 2025 (Kerala Piravi)**, CM Pinarayi Vijayan declared Kerala as India's **first state to eradicate extreme poverty**.
+- **India–MERCOSUR PTA Expansion**: Bilateral negotiations initiated on **16 October 2025** to expand the 2009 Preferential Trade Agreement from 450 tariff lines toward a comprehensive trade agreement targeting **$20 billion bilateral trade by 2030**.
+- **IPPB Wins Digital Payments Award 2024–25**: **India Post Payments Bank (IPPB)** clinched the **1st position among all Payments Banks in India** in the DFS Performance Index.
+- **S&P Sovereign Credit Rating Upgrade to 'BBB'**: On **14 August 2025**, S&P Global Ratings upgraded India's sovereign rating from 'BBB-' to **'BBB'** (short-term rating raised to 'A-2', outlook Stable), marking **India's first sovereign credit upgrade in 18 years (since 2007)** on the back of sustained 8.8% average GDP expansion.
+- **India Elected Co-Chair of UN-GGIM-AP (2025–28)**: India elected Co-Chair of the UN Regional Committee on Global Geospatial Information Management for Asia and the Pacific, advancing geospatial integration under PM GatiShakti.
 
 ---
 

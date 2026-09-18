@@ -602,16 +602,41 @@ A Candere Hurun India Women Leaders list put **Meena Bindra** (BIBA) at the top.
 - **Bottom 5**: 181. Afghanistan (0.279), Yemen, Central African Republic, Syria, Sudan.
 - **India's Standing**: **Ranked 131st globally** (Score: **0.607**), reflecting substantial systemic challenges in female workforce participation, safety, and legislative representation.
 
-### 24. Human Development Report (HDR) 2025
-- **Publisher**: **United Nations Development Programme (UNDP)** (193 countries evaluated).
-- **Top Country**: **Iceland** (Rank 1).
-- **Bottom-Most**: **South Sudan** (Rank 193).
-- **India's Standing**: **Ranked 130th out of 193 countries**.
+### 24. Human Development Report (HDR) 2025 | Released 6 May 2025
+- **Publisher**: **United Nations Development Programme (UNDP)**.
+- **Report Title**: *"A Matter of Choice: People and Possibilities in the Age of AI"*.
+- **Global Pattern**: Global Human Development Index saw its smallest increase since 1990 (excluding the 2020–21 pandemic).
+- **Top 5 Nations**:
+  1. **Iceland** (HDI: **0.972** — #1 globally, up from 3rd)
+  2. **Norway** and **Switzerland** (tied at **0.970**)
+  4. **Denmark** (**0.962**)
+  5. **Germany** and **Sweden** (tied at **0.959**)
+- **Lowest Ranked Country**: **South Sudan** (HDI: **0.388** / Rank 193).
+- **India's Standing & Trajectory**:
+  - **Rank**: **130th out of 193 countries** (improved from 133rd in 2022).
+  - **HDI Value**: **0.685** (up from 0.676; classified under ***"Medium Human Development"***, approaching the $\ge$0.700 threshold for High Human Development).
+  - **South Asian Order**: China (78th) $\rightarrow$ Sri Lanka (89th) $\rightarrow$ Bhutan (125th) $\rightarrow$ **India & Bangladesh (tied at 130th)** $\rightarrow$ Nepal (145th) $\rightarrow$ Myanmar (150th) $\rightarrow$ Pakistan (168th).
+  - **Key Structural Pillars for India (1990 to 2023 Long-Term Transformation)**:
+    - **Life Expectancy at Birth**: Surged from 58.6 years (1990) to **72.0 years** in 2023 (highest ever recorded in Indian history).
+    - **Expected Years of Schooling**: Increased from 8.2 years (1990) to **13.0 years**.
+    - **Gross National Income (GNI) Per Capita**: Increased over fourfold from USD 2,167 (1990) to **USD 9,046** in 2023 (2021 PPP).
 
-### 25. Global Innovation Index (GII) 2025
-- **Publisher**: **World Intellectual Property Organization (WIPO)** (139 economies evaluated).
-- **Top Country**: **Switzerland** (Rank 1; consistent global leader).
-- **India's Standing**: **Ranked 38th out of 139 economies**, consolidating India's place among the top 40 innovative nations globally.
+### 25. Global Innovation Index (GII) 2025 | Released 16 September 2025
+- **Publisher**: **World Intellectual Property Organization (WIPO)** (18th edition, launched in Geneva).
+- **Theme**: *"Innovation at a Crossroads"*.
+- **Scope**: Assesses **139 economies** using 80 indicators.
+- **Top Performers**:
+  1. **Switzerland** (#1 globally for the **15th consecutive year**; leads in Creative outputs).
+  2. **Sweden** (#2 globally for 3rd straight year).
+  3. **United States** (#1 in Corporate R&D investors, 2nd in domestic market, 4th in private credit).
+  - **China**: Enters the **top 10 for the first time** (leads in Knowledge & Technology outputs; only middle-income economy in top 30).
+  - Top 10 also includes: Singapore (4th), UK (5th), South Korea (6th), Finland (7th), Netherlands (8th), Germany (9th), Denmark (10th).
+- **India's Standing & Sub-Pillars**:
+  - **Rank**: **38th out of 139 economies** (massive 43-rank ascent from 81st in 2015!).
+  - **Regional Distinction**: **Ranked 1st among lower-middle-income economies** and **Ranked 1st in Central & Southern Asia**.
+  - **Input vs Output**: Innovation Inputs rank: **52nd**; Innovation Outputs rank: **32nd** (reflecting high innovation efficiency).
+  - **Pillar Strengths**: Knowledge & Technology Outputs (**22nd**), Market Sophistication (**38th**).
+  - **Identified Weaknesses**: Business Sophistication (64th), Infrastructure (61st), Institutions (58th).
 
 ### 26. Henley Passport Index (January 2026 Release)
 - **Publisher**: **Henley & Partners** (based on IATA data).
