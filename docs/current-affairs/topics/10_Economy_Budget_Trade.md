@@ -270,6 +270,190 @@ The **Insolvency and Bankruptcy Code, 2016** marked its **10th anniversary miles
 - Creditor Realisation: Facilitated cumulative realisation of **more than ₹4 lakh crore** for financial and operational creditors.
 - Fair Value Recovery: Creditors recovered approximately **95% of the fair value** of distressed corporate assets.
 - Liquidation Value Multiplier: Realisations represented **167% of the liquidation value**, conclusively proving that resolution preserves substantially greater enterprise value than liquidation.
+- **Gross NPA Ratio Impact**: Gross NPA ratio of Scheduled Commercial Banks (SCBs) dropped to a multi-year low of **2.15%** in September 2025.
+- **Dominance of IBC in Legal Recoveries**: In FY 2024–25, SCBs recovered **₹1,04,400 crore** across all recovery mechanisms (SARFAESI, DRTs, Lok Adalats, IBC) — of which **52.4% was recovered through IBC alone**, establishing IBC as India's premier recovery vehicle.
+
+---
+
+### Implementation of Four New Labour Codes | 21 November 2025
+
+**What happened**
+The Union Government officially notified the nationwide enforcement of the **Four New Labour Codes** with effect from **21 November 2025**, culminating the consolidation and rationalisation of **29 legacy central labour enactments**.
+
+**The Four Consolidated Codes**
+1. **The Code on Wages, 2019** (subsumes Payment of Wages Act 1936, Minimum Wages Act 1948, Payment of Bonus Act 1965, Equal Remuneration Act 1976).
+2. **The Industrial Relations Code, 2020** (subsumes Trade Unions Act 1926, Industrial Employment Standing Orders Act 1946, Industrial Disputes Act 1947).
+3. **The Code on Social Security, 2020** (subsumes Employees' Provident Funds Act 1952, ESI Act 1948, Maternity Benefit Act 1961, Payment of Gratuity Act 1972, etc.).
+4. **The Occupational Safety, Health and Working Conditions (OSH) Code, 2020** (subsumes Factories Act 1948, Mines Act 1952, Contract Labour Act 1970, Inter-State Migrant Workmen Act 1979, etc.).
+
+**Key High-Yield Prelims Provisions**
+- **Universal Minimum Wage & National Floor Wage**: Mandatory statutory right across all organized and unorganized employment sectors.
+- **Mandatory Appointment Letters**: Obligatory for all employees across every establishment, formalizing contractual employment.
+- **Social Security for Gig & Platform Workers**: First-ever statutory recognition and establishment of a dedicated Social Security Fund financed by aggregators (1–2% of turnover, capped at 5% of payout to workers).
+- **Preventive Healthcare**: Free annual health check-ups mandated for employees above 40/45 years of age in hazardous establishments.
+- **Ease of Compliance**: Single electronic registration, single unified license, and single integrated annual return replacing dozens of fragmented returns.
+
+---
+
+### 10 Years of Unified Payments Interface (UPI) | 2016–2026
+
+**What happened**
+The **Unified Payments Interface (UPI)** completed **10 years of transformative operations in April 2026**, having reshaped India's financial architecture into the global gold standard for instant real-time retail payments.
+
+**Milestone Timeline & Architecture**
+- **Pilot Launch Date**: **11 April 2016** (launched by Dr. Raghuram Rajan, then RBI Governor, alongside NPCI).
+- **Umbrella Architect**: **National Payments Corporation of India (NPCI)** (MD & CEO: Dilip Asbe; non-profit institution under Section 8 of Companies Act 2013, initiated by RBI and IBA under Payment and Settlement Systems Act, 2007).
+- **Core Technology**: 24/7 instant inter-bank payment system using Virtual Payment Address (VPA / UPI ID), QR codes, and phone numbers over IMPS rails.
+
+**Record Volumes & Global Dominance (FY 2025–26 Data)**
+- **Monthly Record**: Single-month transaction volume breached **2,264 crore (22.64 billion)** transactions in March 2026.
+- **Annual Volume & Value (FY 2025–26)**:
+  - Total Annual Transactions: **24,161.69 crore transactions**.
+  - Total Annual Value: Reached approximately **₹314 lakh crore** (~$3.8 trillion).
+- **Domestic Share**: UPI commands over **85% of total retail digital payment transactions** by volume in India.
+- **Global Share**: India accounts for approximately **49% of all global real-time payment transactions**, predominantly powered by UPI.
+- **Cross-Border Footprint**: UPI linked with international payment systems in Singapore (PayNow), UAE (Jaywan/AANI), Mauritius, Sri Lanka, France (Eiffel Tower), Bhutan, and Nepal.
+
+---
+
+### New Income-tax Act, 2025 | Effective 1 April 2026
+
+**What happened**
+Parliament enacted the **Income-tax Act, 2025** during the Winter Session 2025, overhauling the six-decade-old Income-tax Act, **1961**. The new legislation officially enters into force on **1 April 2026**.
+
+**Key Architectural & Procedural Reforms**
+- **Structural Simplification**: Stripped down complex legacy provisos into **536 sections and 23 chapters** (down from over 800 convoluted provisions in the 1961 Act).
+- **Abolition of Assessment Year / Previous Year Dichotomy**: Introduced a single, intuitive concept of **"Tax Year"** (Financial Year in which income is earned), ending decades of procedural confusion.
+- **Form 130 Replaces Form 16**: Standard certificate for deduction of tax at source (TDS) on salary income, traditionally known as **Form 16, is superseded by Form 130** under the new rules.
+- **New Tax Regime Slabs & Rebates**:
+  - Full tax rebate granted for taxable income up to **₹12,00,000 (₹12 lakh)** under the default New Tax Regime (zero effective tax liability).
+  - Standard Deduction for salaried employees and pensioners retained at **₹75,000**.
+  - Family pension standard deduction: ₹25,000.
+- **Tax Administration Collections**: Gross direct tax collections surpassed ₹22.27 lakh crore; net direct tax collections registered ~₹19.6 lakh crore.
+
+---
+
+### 16th Finance Commission Report (2026–2031) | Award Period 2026–27 to 2030–31
+
+**What happened**
+The **Sixteenth Finance Commission (16th FC)** submitted its comprehensive recommendations report to President Droupadi Murmu on **17 November 2025**, which was officially tabled in Parliament on **1 February 2026** alongside the Union Budget 2026–27.
+
+**Constitutional Setup & Composition**
+- **Constitutional Provision**: Constituted under **Article 280** of the Constitution of India (notified on 31 December 2023).
+- **Chairman**: **Dr. Arvind Panagariya** (former Vice Chairman, NITI Aayog; Professor at Columbia University).
+- **Members**: Ajay Narayan Jha, Annie George Mathew, Dr. Niranjan Rajadhyaksha, Soumya Kanti Ghosh; Secretary: Ritvik Ranjanam Pandey.
+- **Award Period**: 5 Financial Years from **1 April 2026 to 31 March 2031 (2026–27 to 2030–31)**.
+
+**Devolution Formula & Weightages**
+- **Vertical Devolution**: Retained at **41%** of the net divisible pool of Union taxes to States (maintaining parity with the 15th Finance Commission post-reorganisation of Jammu & Kashmir).
+- **Horizontal Devolution Criteria & Weightages**:
+  - **Income Distance**: **42.5%** (equity criterion measuring distance from highest per-capita income state).
+  - **Population (2011 Census)**: **17.5%**.
+  - **Demographic Performance**: **10.0%** (incentivizing TFR reduction and population stabilization).
+  - **Geographical Area**: **10.0%**.
+  - **Forest & Ecology**: **10.0%** (dense forest canopy cover).
+  - **Contribution to Real GDP / Economic Performance**: **10.0%** (rewarding efficiency and tax base expansion).
+
+| Criterion | 15th FC Weight | 16th FC Weight (2026–31) |
+| :--- | :--- | :--- |
+| **Income Distance** | 45.0% | **42.5%** |
+| **Population (2011)** | 15.0% | **17.5%** |
+| **Demographic Performance** | 12.5% | **10.0%** |
+| **Area** | 15.0% | **10.0%** |
+| **Forest & Ecology** | 10.0% | **10.0%** |
+| **Contribution to Real GDP / Economic Effort** | 2.5% (Tax effort) | **10.0%** (Economic performance) |
+
+**Grants-in-Aid Package (Total ~₹9.47 Lakh Crore)**
+- Total Recommended Grants: **₹9,47,000 crore** over the 5-year award period.
+- **Rural Local Bodies (Panchayati Raj Institutions)**: **₹4,35,000 crore**.
+- **Urban Local Bodies (ULBs / Municipalities)**: **₹3,56,000 crore**.
+- **Wastewater Management & Sanitation**: Ring-fenced allocation of **₹56,100 crore** within local body grants.
+- **Urbanisation Premium**: Special dedicated incentive corpus of **₹10,000 crore** for cities managing rapid planned urbanization.
+- **Disaster Management Grants**: **₹1,56,000 crore**.
+- **State Disaster Risk Management Fund (SDRMF)**: Combined allocation (SDRF + SDMF) of **₹2,04,401 crore** (Centre : State cost sharing at 75:25 for general states, 90:10 for Himalayan and North-Eastern states).
+
+**Top 5 State Shares in the Divisible Pool**
+1. **Uttar Pradesh**: **17.62%** (**HIGHEST share among all States in India!**)
+2. **Bihar**: **9.95%**
+3. **Madhya Pradesh**: **7.85%**
+4. **Maharashtra**: **6.44%**
+5. **Rajasthan**: **5.93%**
+*(West Bengal ranks 6th with 5.67%).*
+
+**Fiscal Consolidation & Debt Path Roadmaps**
+- **Union Government Fiscal Deficit**: Glide path targeted to reduce to **3.5% of GDP by 2030–31** (4.3% in 2026–27).
+- **State Governments Fiscal Deficit**: Capped at **3.0% of GSDP**, with an additional 0.5% conditional borrowing window linked to power distribution reforms.
+- **Combined General Government Debt**: Targeted to glide down from **77.3% of GDP (in 2025–26) to 73.1% by 2030–31**.
+
+---
+
+### New National Accounts Series with Base Year 2022–23 | Notified 27 February 2026
+
+**What happened**
+On **27 February 2026**, the Ministry of Statistics & Programme Implementation (MoSPI) officially launched the revised National Accounts Statistics series with **Base Year 2022–23** (updating the decade-old 2011–12 series).
+
+**Core Innovations & Recalibrated Growth Rates**
+- **Modern Data Integration**: Incorporates GST Network (GSTN) transaction analytics, MCA-21 electronic registry, Annual Survey of Unincorporated Sector Enterprises (ASUSE), and updated CPI consumption weightages.
+- **Revised Growth Trajectory (2022–23 Base)**:
+  - FY 2025–26 Real GDP Growth: Estimated at **7.6%** (compared to 7.7% under 2011–12 base).
+  - FY 2025–26 Nominal GDP Growth: Pegged at **8.6%**.
+  - Q3 (Oct–Dec 2025) Growth: Real GDP expanded by **7.8%**; Nominal GDP by **8.9%**.
+
+---
+
+### Key Macroeconomic Indicators 2025–26 Snapshot
+
+- **Consumer Price Index (CPI) Inflation**: Dropped to a 5-year cyclical low of **2.10%** in June 2025 (well within RBI's 4 ± 2% tolerance band).
+- **Wholesale Price Index (WPI) Inflation**: Contracted into deflationary territory at **-0.32%** in November 2025.
+- **Foreign Exchange Reserves**: Scaled an all-time record peak of **$686.2 billion** in early 2026, providing over 11 months of import cover.
+- **Current Account Deficit (CAD)**: Comfortably contained at **1.3% of GDP** in FY 2024–25.
+- **Gross Foreign Direct Investment (FDI)**: Registered gross inflows of **$51.8 billion**.
+
+---
+
+### Banking Laws (Amendment) Act, 2025 | Effective 1 August 2025
+
+**What happened**
+The **Banking Laws (Amendment) Act, 2025** came into force on **1 August 2025**, amending five major banking statutes: Reserve Bank of India Act 1934, Banking Regulation Act 1949, State Bank of India Act 1955, Banking Companies (Acquisition and Transfer of Undertakings) Acts 1970 and 1980.
+
+**Key High-Yield Amendments**
+- **Substantial Interest Limit Enhanced**: The monetary threshold defining "substantial interest" in a company/firm for bank directors was **raised from ₹5 lakh to ₹2 crore** (the first revision since 1968, correcting for 57 years of economic expansion).
+- **Tenure of Directors in Cooperative Banks**: Maximum tenure of directors (other than Chairman/Whole-time Director) in Primary Cooperative Banks capped at **10 consecutive years** (up from 8 years).
+- **Nomination Facility Multiplied (Max 4 Nominees)**:
+  - **Bank Deposit Accounts**: Depositors can now nominate up to **4 nominees**, either *successively* (in order of priority) or *simultaneously* (with specified percentage shares of deposits).
+  - **Safe Deposit Lockers / Safe Custody Articles**: Up to **4 nominees** allowed *successively*.
+- **Standardized Reporting Fortnights**: Statutory reporting day for banks changed from alternate Fridays to fixed calendar fortnights: **1st to 15th** of the month and **16th to the end of the month**.
+- **Investor Protection**: Unclaimed dividends, matured deposits, and interest on shares transferred to the **Investor Education and Protection Fund (IEPF)**.
+
+---
+
+### M. S. Sahoo Committee on Assured Payouts in NPS | PFRDA, 13 January 2026
+
+**What happened**
+The Pension Fund Regulatory and Development Authority (PFRDA) constituted a **15-member high-level committee** on **13 January 2026** chaired by **Dr. M. S. Sahoo** (former Chairperson of Insolvency and Bankruptcy Board of India - IBBI).
+
+**Terms of Reference**
+- Mandated to design and structure the regulatory and operational framework for **"Assured Payouts / Guaranteed Returns"** schemes under the **National Pension System (NPS)**.
+- Seeks to provide market-linked pension subscribers an optional guaranteed minimum return floor without compromising fiscal sustainability.
+
+---
+
+### Updated Poverty Estimates 2025 (Rangarajan Methodology)
+
+**What happened**
+The Department of Economic and Policy Research (DEPR), Reserve Bank of India, published a research paper in 2025 applying the **Dr. C. Rangarajan Committee poverty methodology (2014)** to the official *Household Consumption Expenditure Survey (HCES) 2022–23*.
+
+**Key Dramatic Poverty Reductions (2011–12 to 2022–23)**
+- **Rural Odisha**: Rural poverty plunged from **47.8% in 2011–12 down to 8.6% in 2022–23** (a massive 39.2 percentage point decline).
+- **Urban Bihar**: Urban poverty dropped sharply from **50.8% in 2011–12 down to 9.1% in 2022–23** (a 41.7 percentage point decline).
+- **Lowest Decline**: States with already low baseline poverty like **Kerala and Himachal Pradesh** recorded the smallest percentage point declines.
+
+---
+
+### MoSPI Mascot & Regional Rural Banks (RRB) Corporate Identity
+
+- **MoSPI Official Mascot & Logo**: On **1 January 2026**, the Ministry of Statistics & Programme Implementation unveiled its revamped official logo and launched a dedicated mascot named **"सांख्यिकी" (Sankhyiki)** to popularize official statistical literacy and data awareness among Indian citizens and students.
+- **RRBs Unified Corporate Identity**: On **18 December 2025**, the Department of Financial Services (DFS) launched a unified national corporate identity and logo for all **Regional Rural Banks (RRBs)** across India, styled in **dark blue and green hues** symbolizing institutional trust, financial stability, and agricultural vitality.
 
 ---
 

@@ -120,6 +120,49 @@ WHO declared an **Ebola** outbreak linked with the **Democratic Republic of Cong
 !!! tip "Easy memory"
  Keep Nurses Day as **12 May** for standard key facting unless a stem quotes another date.
 
+### National Family Health Survey-6 (NFHS-6) | Released 29 May 2026
+
+**What happened**
+The Ministry of Health and Family Welfare (**MoHFW**) released the national factsheets for **NFHS-6 (2023–24)** on **29 May 2026**, conducted by the **International Institute for Population Sciences (IIPS), Mumbai** across 6.79 lakh households in 715 districts (**excluding Manipur** due to law and order).
+
+**Key Health, Fertility & Nutrition Metrics**
+- **Total Fertility Rate (TFR)**: **2.0** (Urban: 1.6, Rural: 2.1; replacement level: 2.1).
+- **Institutional Deliveries**: **90.6%** (Rural: 89.2%, Urban: 94.8%).
+- **Skilled Birth Attendance**: **91.3%**.
+- **Child Immunization (12–23 months)**: Full immunization coverage rose to **87.1%**.
+- **Rotavirus Vaccine Coverage**: **85.4%**.
+- **Child Malnutrition (<5 years)**:
+  - **Stunting (chronic)**: **29.3%** (significant drop from 35.5% in NFHS-5).
+  - **Wasting (acute)**: **18.7%**; **Severe Wasting**: **5.2%**.
+  - **Underweight**: **31.8%** (down from 32.1%).
+- **Women's Health & Autonomy**:
+  - **Independent Bank Account**: **89.0%** (up from 78.6%).
+  - **Internet Use**: **64.3%**.
+  - **Mobile Phone Ownership**: **63.6%**.
+  - **Spousal Violence**: Experienced by **22.3%** of ever-married women (declined from 29.3%).
+- **Demographics & Coverage**:
+  - **Health Insurance**: **60.2%** of households covered by health insurance/financing scheme (up from 41.4%).
+  - **Elderly Population ($\ge$60 years)**: **12.9%**.
+  - **Overweight or Obese Adults (BMI $\ge$ 25)**: Women **30.7%**, Men **26.8%**.
+
+### Sample Registration System (SRS) Bulletin 2024 | Released 20 May 2026
+
+**What happened**
+The **Office of the Registrar General of India (ORGI)**, Ministry of Home Affairs, released the **SRS Bulletin 2024** (Vol 59, No. 1) on **20 May 2026**.
+
+**Key Vital Demographic Metrics**
+- **Crude Birth Rate (CBR)**: **18.3 per 1,000 population** (Rural: 20.2, Urban: 14.7).
+  - Highest: **Bihar (26.8)**, UP (24.7), MP (23.9).
+  - Lowest: **Andaman & Nicobar (9.9)**; States: Goa (11.6), Kerala (12.3).
+- **Crude Death Rate (CDR)**: **6.4 per 1,000 population** (Rural: 6.8, Urban: 5.6; Male: 7.1, Female: 5.6).
+  - Highest: **Chhattisgarh (8.4)**, Odisha (7.9), Kerala (7.6).
+  - Lowest: **Chandigarh (3.9)**; States: Nagaland (4.2), Delhi (4.6).
+- **Natural Growth Rate (NGR)**: **11.9 per 1,000 population** (Highest: **Bihar 20.8**; Lowest: **Kerala 3.9**).
+- **Infant Mortality Rate (IMR)**: **24 infant deaths per 1,000 live births** (Rural: 27, Urban: 17; Male: 24, Female: 25).
+  - **1 in every 42 infants in India dies within the first year of life**.
+  - Highest: **Chhattisgarh (36)**, MP (35), UP (34).
+  - Lowest: **Manipur (2)**, Goa (5), Kerala (6).
+
 ---
 
 ## June 2026

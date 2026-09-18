@@ -633,6 +633,91 @@ A Candere Hurun India Women Leaders list put **Meena Bindra** (BIBA) at the top.
 - **Top Performers**: **Ranks 1, 2, and 3 remain empty** (no country deemed on track to prevent 1.5°C warming); **Denmark ranks 4th** (highest ranked actual country).
 - **India's Standing**: **Ranked 10th globally**, remaining the only G20 member consistently inside the global top 10 for renewable expansion and per-capita energy restraint.
 
+### 30. National Family Health Survey-6 (NFHS-6) | Factsheets Released 29 May 2026
+- **Publishing Authority**: Ministry of Health and Family Welfare (**MoHFW**).
+- **Nodal Agency**: **International Institute for Population Sciences (IIPS), Mumbai**.
+- **Fieldwork & Sample**: Conducted across **2023–24** surveying **6.79 lakh households** across **715 districts** in all States/UTs.
+  - *(Critical UPPCS Trap: Fieldwork could NOT be completed in **Manipur** due to security/law-and-order constraints; Manipur is excluded from the national factsheets).*
+- **Demographic & Fertility Indicators**:
+  - **Total Fertility Rate (TFR)**: **2.0 children per woman** (national average below the replacement level of 2.1; Urban: **1.6**, Rural: **2.1**).
+  - **Contraceptive Prevalence Rate (CPR)**: **69.1%** (Modern CPR: 58.7%).
+  - **Institutional Deliveries**: Reached **90.6%** (Rural: 89.2%, Urban: 94.8%).
+  - **Skilled Birth Attendance**: **91.3%** of births delivered by skilled healthcare personnel.
+  - **Child Marriage**: Women aged 20–24 married before age 18: **20.1%**; Men aged 25–29 married before age 21: **15.9%**.
+  - **Teenage Childbearing (15–19 years)**: **6.7%**.
+- **Child Health & Nutritional Status (<5 Years)**:
+  - **Full Immunization Coverage (12–23 months)**: **87.1%**.
+  - **Rotavirus Vaccine Coverage**: **85.4%**.
+  - **Stunting (Height-for-Age / Chronic Malnutrition)**: **29.3%** (significant drop from 35.5% in NFHS-5).
+  - **Wasting (Weight-for-Height / Acute Malnutrition)**: **18.7%**; **Severe Wasting**: **5.2%**.
+  - **Underweight (Weight-for-Age)**: **31.8%** (down from 32.1%).
+- **Women's Socio-Economic Autonomy**:
+  - **Independent Bank/Savings Account**: **89.0%** of women have and independently use a bank account (up from 78.6% in NFHS-5).
+  - **Internet Usage**: **64.3%** of women have ever used the internet (Urban: 75.8%, Rural: 57.5%).
+  - **Mobile Phone Ownership**: **63.6%** of women own and use a mobile phone.
+  - **Spousal Violence**: Ever-married women reporting physical/sexual violence dropped to **22.3%** (from 29.3%).
+- **Demographic Structure & Lifestyles**:
+  - Population aged **<5 years**: **8.0%** | Aged **<15 years**: **25.5%** | Aged **$\ge$60 years (Elderly)**: **12.9%** (reflecting rapid demographic aging).
+  - **Health Insurance Coverage**: **60.2%** of households have at least one member covered (up from 41.4%).
+  - **Overweight or Obese Adults (BMI $\ge$ 25)**: Women **30.7%**, Men **26.8%**.
+  - **Basic Household Amenities**: Electricity **98.3%**, Improved drinking water **96.5%**, Clean cooking fuel **69.8%**.
+
+### 31. Sample Registration System (SRS) Bulletin 2024 | Released 20 May 2026
+- **Publishing Authority**: **Office of the Registrar General of India (ORGI)**, Ministry of Home Affairs (Reference Year: 2024, Vol 59, No. 1).
+- **Crude Birth Rate (CBR)**:
+  - **National Average**: **18.3 per 1,000 population** (Rural: 20.2, Urban: 14.7).
+  - **Highest Birth Rate**: **Bihar (26.8)** $\rightarrow$ Uttar Pradesh (24.7) $\rightarrow$ Madhya Pradesh (23.9).
+  - **Lowest Birth Rate**: **Andaman & Nicobar Islands (9.9)**; among major states: Goa (11.6), Kerala (12.3).
+- **Crude Death Rate (CDR)**:
+  - **National Average**: **6.4 per 1,000 population** (Rural: 6.8, Urban: 5.6; Male: 7.1, Female: 5.6).
+  - **Highest Death Rate**: **Chhattisgarh (8.4)** $\rightarrow$ Odisha (7.9) $\rightarrow$ Kerala (7.6) $\rightarrow$ Punjab (7.5).
+  - **Lowest Death Rate**: **Chandigarh (3.9)**; among states: Nagaland (4.2), Mizoram (4.5), Delhi (4.6).
+- **Natural Growth Rate (NGR = CBR - CDR)**:
+  - **National Average**: **11.9 per 1,000 population** (Rural: 13.4, Urban: 9.1).
+  - **Highest Natural Growth Rate**: **Bihar (20.8)**.
+  - **Lowest Natural Growth Rate**: **Kerala (3.9)**.
+- **Infant Mortality Rate (IMR)**:
+  - **National Average**: **24 infant deaths per 1,000 live births** (Rural: 27, Urban: 17; Male: 24, Female: 25).
+  - **Key Structural Ratio**: **1 in every 42 infants in India dies within the first year of life** (in rural areas 1 in 37; in urban areas 1 in 59).
+  - **Highest IMR**: **Chhattisgarh (36)** $\rightarrow$ Madhya Pradesh (35) $\rightarrow$ Uttar Pradesh (34).
+  - **Lowest IMR**: **Manipur (2)** $\rightarrow$ Goa (5) $\rightarrow$ Kerala (6) $\rightarrow$ Puducherry (7).
+
+### 32. Civil Registration System (CRS) Report 2023 | Released 10 October 2025
+- **Publishing Authority**: ORGI, Ministry of Home Affairs (under Registration of Births and Deaths Act, 1969 & RBD Amendment Act, 2023; Seventh Schedule Concurrent List Entry 30).
+- **Statutory Mandate**: Mandatory reporting of births and deaths within **21 days**.
+- **National Birth Registration**:
+  - **Level of Registration**: **98.4%** across India (institutional births: 74.7%).
+  - Total registered births: **252.1 lakh** (52.4% male, 47.6% female).
+  - **21 States/UTs** achieved 100% birth registration.
+- **Sex Ratio at Birth (SRB) — CRS 2023 Master Table**:
+  - **Top States/UTs with Highest SRB**:
+    1. **Arunachal Pradesh**: **1,085** females per 1,000 males
+    2. **Nagaland**: **1,007**
+    3. **Goa**: **973**
+    4. **Ladakh**: **972**
+    5. **Tripura**: **972**
+    6. **Kerala**: **967**
+  - **Bottom States with Lowest SRB**:
+    1. **Jharkhand**: **899** (**Lowest in India!**)
+    2. **Bihar**: **900**
+    3. **Uttar Pradesh**: **902**
+    4. **Telangana**: **906**
+    5. **Gujarat**: **908**
+    6. **Haryana**: **911**
+- **National Death Registration**:
+  - **Level of Registration**: **97.2%** across India (institutional deaths: 24.0%).
+  - Total registered deaths: **86.6 lakh** (60.6% male, 39.4% female).
+  - **19 States/UTs** achieved 100% death registration.
+
+### 33. Reforming India's R&D Ecosystem 2026 | NITI Aayog, 9 April 2026
+- **Release Details**: Released by NITI Aayog Vice Chairman Suman Bery and Dr. V.K. Saraswat.
+- **Core Reform Blueprint**: Introduces the **ROPE Framework** (**Removing Obstacles and Promoting Enablers**) to revamp public and private research funding.
+- **R&D Landscape Metrics in India**:
+  - **Gross Expenditure on R&D (GERD)**: Stands at **0.64% of GDP** (national policy vision targets 2.0%).
+  - **Private Sector Share in GERD**: Only **~36%** in India (compared to >70% in USA, South Korea, Germany).
+  - **Global Innovation Index (GII) 2025**: India holds **38th rank**.
+  - **Global IP Filings (WIPO 2024)**: India ranked **4th in Trademark filings, 6th in Patent applications, and 7th in Industrial Design filings**.
+
 ---
 
 ## Practice Zone — UPPCS Format

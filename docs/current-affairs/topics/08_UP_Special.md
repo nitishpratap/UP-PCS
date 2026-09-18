@@ -492,6 +492,28 @@ The UP Cabinet cleared two big road projects to grow the state’s expressway ne
 #### IIT Kanpur in QS World University Rankings 2027
 - **Global Milestone**: **IIT Kanpur** maintained its global standing at **Rank 222** in the QS World University Rankings 2027, standing as Uttar Pradesh's highest-ranked premier higher education institution globally.
 
+#### 16th Finance Commission (2026–31) — UP Awarded Highest Devolution Share in India
+- **Chairman**: **Dr. Arvind Panagariya** (tabled in Parliament 1 February 2026).
+- **UP Devolution Percentage**: **17.62%** of the net divisible pool of Union taxes.
+- **National Distinction**: **Rank #1 in India** (Highest share among all 28 States), significantly ahead of Bihar (2nd: 9.95%), Madhya Pradesh (3rd: 7.85%), Maharashtra (4th: 6.44%), and Rajasthan (5th: 5.93%).
+- **Grants Share**: UP also stands as the largest single beneficiary state under the recommended **₹9.47 lakh crore** local bodies and disaster grants pool.
+
+#### PM Dhan-Dhaanya Krishi Yojana (PMDDKY) — UP Tops with 12 Districts
+- **Approval Date**: Union Cabinet approved the scheme on **16 July 2025** for a 6-year period (FY 2025–26 to FY 2030–31).
+- **Aspirational Agriculture Districts**: Out of 100 districts identified nationwide on **3 October 2025** across 29 States/UTs, **Uttar Pradesh has 12 districts — HIGHEST IN INDIA** (surpassing Maharashtra: 9, Madhya Pradesh: 8, Rajasthan: 8, and Bihar: 7).
+- **Core Focus**: Targeted saturation of irrigation, high-yield certified seeds, digital agriculture, post-harvest warehouses, and agro-processing in UP's agri-backward regions.
+
+#### Civil Registration System (CRS) 2023 — UP Vital Statistics (ORGI, Oct 2025)
+- **Birth Registration Level in UP**: **89.1%** (National average: 98.4%).
+- **Death Registration Level in UP**: **80.0%** (National average: 97.2%).
+- **Total Registered Births in UP**: Approximately **49.70 lakh births** (comprising 26,14,000 male and 23,56,000 female births).
+- **Total Registered Deaths in UP**: Approximately **12.30 lakh deaths**.
+- **Sex Ratio at Birth (SRB) in UP**: **902 females per 1,000 males** (among major states, one of the lowest alongside Jharkhand 899, Bihar 900, Telangana 906; National highest: Arunachal Pradesh 1,085).
+
+#### Sample Registration System (SRS) Bulletin 2024 — UP Specifics (ORGI, May 2026)
+- **Crude Birth Rate (CBR)**: **24.7 per 1,000 population** in UP (ranked **2nd highest in India** among major states, behind Bihar's 26.8; National average: 18.3).
+- **Infant Mortality Rate (IMR)**: **34 infant deaths per 1,000 live births** in UP (ranked **3rd highest in India** behind Chhattisgarh's 36 and Madhya Pradesh's 35; National average: 24).
+
 ---
 
 ## Practice Zone — UPPCS Format

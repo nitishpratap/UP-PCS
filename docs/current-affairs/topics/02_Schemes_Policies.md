@@ -571,6 +571,43 @@ On India’s **80th** Independence Day, PM Modi delivered his **13th** consecuti
 
 The **National Bureau of Soil Survey and Land Use Planning** released India’s first national **soil texture map** using remote sensing, for crop choice and farm planning.
 
+---
+
+### PM Dhan-Dhaanya Krishi Yojana (PMDDKY) | 100 Aspirational Agriculture Districts
+
+**What happened**
+The Union Cabinet chaired by PM Narendra Modi approved the **Pradhan Mantri Dhan-Dhaanya Krishi Yojana (PMDDKY)** on **16 July 2025** for a duration of **6 years (FY 2025–26 to FY 2030–31)**. On **3 October 2025**, the government formally notified **100 Aspirational Agriculture Districts** selected across 29 States and Union Territories.
+
+**Core Objectives & High-Yield Facts**
+- **Target Districts**: 100 agriculture-lagging districts facing low productivity, deficient irrigation, and low cropping intensity.
+- **Top State-Wise Distribution of Districts**:
+  1. **Uttar Pradesh**: **12 districts** (**Highest in India**)
+  2. **Maharashtra**: **9 districts**
+  3. **Madhya Pradesh**: **8 districts**
+  4. **Rajasthan**: **8 districts**
+  5. **Bihar**: **7 districts**
+- **Intervention Pillars**:
+  - Saturation of micro-irrigation and groundwater recharging.
+  - Accelerated distribution of climate-resilient, bio-fortified certified seeds.
+  - Digital agriculture infrastructure (AgriStack, digital soil health mapping).
+  - Modern decentralized storage, cold chains, and Farmer Producer Organisations (FPOs) integration.
+
+---
+
+### Atal Pension Yojana (APY) Extended to FY 2030–31 | Cabinet Approval 21 January 2026
+
+**What happened**
+The Union Cabinet approved the continuation and funding extension of the **Atal Pension Yojana (APY)** on **21 January 2026**, extending the flagship social security pension scheme up to **FY 2030–31**.
+
+**Core Operational Architecture**
+- **Original Launch**: Launched on **9 May 2015** by PM Modi in Kolkata (alongside PMJJBY and PMSBY).
+- **Administering Body**: Pension Fund Regulatory and Development Authority (**PFRDA**).
+- **Target Group**: Unorganized sector workers aged **18 to 40 years**.
+- **Pension Benefits**: Guaranteed minimum monthly pension of **₹1,000, ₹2,000, ₹3,000, ₹4,000, or ₹5,000** upon reaching the age of **60 years**, depending on subscriber contribution.
+- **Subscriber Base**: Crossed **8.66 crore subscribers** by early 2026, marking it as India's largest unorganized sector pension programme.
+
+---
+
 ## Practice Zone — UPPCS Format
 
 > **20 questions** for this sheet only — drill after you revise the months above.
