@@ -71,6 +71,19 @@
 - **First Indigenous 64-Bit Microprocessor — DHRUV64 (15 Dec 2025):** India's first indigenous 64-bit dual-core microprocessor developed by **C-DAC** (Centre for Development of Advanced Computing).
 - **Spiral Galaxy 'Alaknanda' (Dec 2025):** Giant spiral galaxy discovered by Indian astrophysicists at **NCRA-TIFR**, Pune.
 - **Green Hydrogen Plant for Railways:** India's first green hydrogen production plant for powering trains commissioned at **Jind, Haryana**.
+- **First Indigenous Pilot Trainer Aircraft 'HANSA-3 NG' (29 Nov 2025):** Production version launched by **CSIR-National Aerospace Laboratories (CSIR-NAL)**, Bengaluru; features an all-composite airframe designed for civil (PPL/CPL) and military pilot training.
+- **Agni-Prime Rail-Based Test (24 Sept 2025):** India successfully launched the new-generation surface-to-surface ballistic missile **Agni-Prime** (strike range: **1,000 to 2,000 km**; payload: 1,500–3,000 kg) from a specially designed **rail-based mobile launcher**, placing India among select nations with canisterised rail launch capability.
+- **TASL Defence Facility in Morocco (23 Sept 2025):** Defence Minister Rajnath Singh and Moroccan counterpart inaugurated **Tata Advanced Systems Limited's (TASL)** defence manufacturing facility in **Berrechid, Morocco** — **India's first overseas private defence manufacturing plant**, producing the **Wheeled Armoured Platform (WhAP) 8x8** for the Royal Moroccan Army.
+- **ICGS 'Adamya' Commissioned (19 Sept 2025):** First vessel of the **Adamya-class** (series of 8 Fast Patrol Vessels built by Goa Shipyard Limited) commissioned at **Paradip Port, Odisha**.
+- **INS Arnala Commissioned (18 June 2025):** First of eight indigenously designed and built Anti-Submarine Warfare Shallow Water Crafts (ASW-SWC) commissioned at Visakhapatnam; built by **GRSE** in PPP with **L&T Shipyard**; named after historic Arnala Island off Vasai, Maharashtra (Chhatrapati Shivaji Maharaj legacy).
+- **INS Nistar Commissioned (18 July 2025):** India's **first indigenously designed and built Diving Support Vessel (DSV)** commissioned at Visakhapatnam; built entirely by **Hindustan Shipyard Limited (HSL)** for deep-sea submarine rescue operations.
+- **INS Tamal Commissioned (1 July 2025):** Commissioned at **Yantar Shipyard in Kaliningrad, Russia**; 8th stealth frigate under **Project 1135.6 (Tushil-class)**; officially marked as the **last foreign-built warship of the Indian Navy**.
+- **Astra BVRAAM Test (11 July 2025):** DRDO and IAF flight-tested the Astra Beyond Visual Range Air-to-Air Missile equipped with an **indigenous active RF seeker** from a Su-30MKI fighter off Odisha, confirming strike capability over **100 km**.
+- **Akash Prime High-Altitude Test (16 July 2025):** Tested by Army Air Defence and DRDO in high-altitude **Ladakh**; features an active RF seeker; seamlessly integrated with **'Akashteer'** (indigenous automated air defence control system).
+- **Pralay Quasi-Ballistic Missile User Trials (28–29 July 2025):** Successful consecutive launches of surface-to-surface solid-fuel missile (range: **150–500 km**; payload: 350–700 kg) from Dr. APJ Abdul Kalam Island.
+- **Agni-5 Launch (20 August 2025):** Strategic Forces Command (SFC) tested canister-based ICBM/IRBM Agni-5 (declared range **up to 5,000 km**) from Chandipur.
+- **Rudrastra Hybrid Drone Test (11 June 2025):** Indian Army tested **Rudrastra**, a hybrid VTOL UAV developed by **Solar Defence & Aerospace Limited (SDAL)** at Pokhran (range: **170 km**, flight endurance: **90 minutes**).
+- **Dhvani Hypersonic Missile:** DRDO advanced development of **Dhvani**, a next-generation **Hypersonic Glide Vehicle (HGV)** capable of speeds exceeding **Mach 5 (>7,400 km/h)** and an operational range of **6,000 to 10,000 km**.
 - **Indian Space Industry E-Catalogue:** Launched as India's first digital repository mapping domestic space-sector capabilities and industrial supply chains during the **5th Indian Space Congress 2026** in New Delhi.
 - **India's First Private EO Satellite Constellation (EO-PPP):** On 21 January 2026, **IN-SPACe** signed an agreement with the Pixxel-led consortium **"Allied Orbits"** (Pixxel Space India, Piersight Space, SatSure Analytics, Dhruva Space) to invest over **₹1,200 crore** across 5 years to launch **12 indigenous Earth Observation satellites** (panchromatic, multispectral, hyperspectral, and microwave SAR).
 
@@ -132,6 +145,8 @@ DRDO fired **two Pralay missiles** quickly from the **same launcher** near **Cha
 ### Other short defence notes from January coverage
 
 - **Pinaka LRGR-120** was reported with about **120 km** range class testing from Chandipur.
+- **Suryastra Universal Multi-Calibre Rocket Launcher:** In January 2026, the Indian Army fast-tracked a **₹293 crore** contract under emergency procurement powers with private manufacturer **NIBE Limited** (in collaboration with **Israel**) for **Suryastra**, India's first Made-in-India universal multi-calibre rocket launcher with strike ranges of **150 km and 300 km**, capable of also firing loitering munitions up to 100 km.
+- **'Saksham' C-UAS Grid System:** Indian Army initiated induction of the indigenously developed **Saksham** (*Situational Awareness for Kinetic Soft and Hard Kill Assets Management*) Counter-Unmanned Aerial System grid, developed by **Bharat Electronics Limited (BEL)** to detect, track, and neutralise hostile quadcopters and swarm drones in border sectors using integrated soft-kill (electronic jamming) and hard-kill capabilities.
 - Keep extra rocket or drone headlines only if a clear PIB fact appears later.
 
 ---
@@ -218,6 +233,50 @@ The Union Budget 2026–27 announced dedicated capital support for 4 major groun
 4. **COSMOS-2 Planetarium:**
    - **Location:** **Amaravati, Andhra Pradesh**; established and implemented by the **Indian Institute of Astrophysics (IIA)**.
 
+### Agni-III Intermediate-Range Ballistic Missile Test | 6 February 2026
+
+**What happened**
+India successfully test-fired the indigenous intermediate-range ballistic missile **Agni-III** from the Integrated Test Range (ITR) at **Chandipur, Odisha**, under the Strategic Forces Command.
+
+**Core facts**
+- **Type:** Indigenous, two-stage, solid-fuelled **Intermediate-Range Ballistic Missile (IRBM)**.
+- **Strike Range & Payload:** Operational strike range exceeding **3,000 km** with a **1.5-tonne** payload capacity.
+- **Agni Series Range Hierarchy:**
+  - *Agni-1:* ~700 km
+  - *Agni-2:* ~2,000 km
+  - *Agni-3:* >3,000 km
+  - *Agni-4:* ~4,000 km
+  - *Agni-5:* >5,000 km (Intercontinental range; tested with MIRV in Mission Divyastra).
+
+### Launch of First Cadet Training Ship 'Krishna' | 16 February 2026
+
+**What happened**
+The Indian Navy launched **'Krishna' (Yard 18003)**, the first of three indigenous **Cadet Training Ships (CTS)**, at **L&T Shipyard, Kattupalli (Chennai)**.
+
+**Core facts**
+- **Vessel Name:** **Krishna** (first ship of the 3-vessel CTS order).
+- **Builder:** **Larsen & Toubro (L&T)** Shipbuilding, Kattupalli, Chennai.
+- **Dignitaries:** Launched by Smt. Anupama Chauhan in the presence of Chief of Defence Staff (**CDS**) **General Anil Chauhan**.
+- **Role:** Comprehensive sea training for officer cadets, including basic navigation, seamanship, and international naval diplomacy.
+
+### Additional Boeing P-8I Maritime Patrol Aircraft Procurement | 12 February 2026
+
+- On **12 February 2026**, the Defence Acquisition Council (DAC) accorded Acceptance of Necessity (**AoN**) for the procurement of additional **Boeing P-8I Neptune** long-range maritime patrol and anti-submarine warfare (ASW) aircraft to counter increasing submarine activity in the Indian Ocean Region.
+
+### India AI Mission: GPU Scale & UDAAN Pitch Fest | February 2026
+
+- **Compute Milestone:** Against an initial target of 10,000 GPUs, India expanded national public compute to **38,000 GPUs** and approved **570 Data Labs** across the country.
+- **UDAAN Pitch Fest:** Launched during the India-AI Impact Summit to fund AI startups from Tier-2 and Tier-3 cities, prioritizing women founders and differently-abled changemakers.
+
+### Bharat Forecast System (BFS) Adopted by IMD | February 2026
+
+**What happened**
+The India Meteorological Department (**IMD**) announced the adoption of the **Bharat Forecast System (BFS)**, India's first high-resolution indigenously engineered numerical weather model.
+
+**Core facts**
+- **High-Resolution Spatial Grid:** Delivers weather predictions at a **$6\text{ km} \times 6\text{ km}$ spatial resolution**, replacing the legacy $12\text{ km} \times 12\text{ km}$ (144 sq km) model (research ongoing to scale down to 3 km and 1 km grids).
+- **Significance:** Radically enhances hyperlocal forecasting accuracy for severe weather events, extreme rainfall, tropical cyclones, and flash floods.
+
 ---
 
 ## March 2026
@@ -277,6 +336,36 @@ DRDO and the Navy tested an indigenous **air-droppable container** from a **P-8I
 ### CALM-Brain Repository | Bengaluru
 
 - India's first digital repository of comprehensive clinical and neuro-imaging data on major psychiatric disorders, named **CALM-Brain**, was launched in **Bengaluru**.
+
+### Bharat Electricity Summit 2026 & Historic Clean Energy Milestones | March 2026
+
+**What happened**
+The **Bharat Electricity Summit 2026** was held from **19 to 22 March 2026** at **Yashobhoomi, New Delhi**, themed *"Electrifying Growth. Empowering Sustainability. Connecting Globally."*
+
+**Core facts & Official National Power Data**
+- **Strategic Blueprints Released:**
+  - *National Resource Adequacy Plan*.
+  - *Transmission Plan for Integration of over 900 GW Non-Fossil Fuel Capacity by 2035–36*.
+- **Historic Milestones (as of 31 March 2026):**
+  - **Total Installed Power Generation Capacity:** **5,32,740 MW (532.74 GW)**.
+  - **Total Non-Fossil Fuel Capacity:** **2,83,468 MW (283.47 GW)** — crossing **53.2% of total installed power capacity**, achieving India's COP26 Panchamrit pledge of >50% non-fossil power 4 years ahead of 2030!
+  - **Single-Year Record Additions (FY 2025–26):** Non-fossil addition reached an all-time high of **55.29 GW** (comprising **44.61 GW solar** and **6.05 GW wind**).
+- **Latest Growth (as of 31 May 2026):**
+  - Total non-fossil capacity reached **2,91,525.08 MW (291.53 GW)**.
+  - Cumulative solar capacity reached **157.05 GW** (largest renewable segment).
+
+### Major Naval Deliveries & Inductions | Late March 2026
+
+**1. INS Dunagiri (Yard 3023) — Project 17A Stealth Frigate:**
+- Delivered to the Indian Navy on **30 March 2026** by **Garden Reach Shipbuilders & Engineers (GRSE), Kolkata**.
+- Fifth ship of the Nilgiri-class guided-missile stealth frigates (second built by GRSE); preserves the naval heritage of the erstwhile Leander-class frigate that served from 1977 to 2010.
+
+**2. Anti-Submarine Warfare Shallow Water Crafts (ASW SWC):**
+- **AGRAY:** Fourth of eight ASW-SWC built by GRSE Kolkata, delivered on **30 March 2026**; at 77 metres long, AGRAY and its sister ships are the **largest Indian Naval warships propelled by waterjets**!
+- **Malwan:** Delivered on **31 March 2026** by **Cochin Shipyard Limited (CSL)** under the Mahe-class ASW SWC line; named after historic coastal Malwan in Sindhudurg, Maharashtra (maritime legacy of Chhatrapati Shivaji Maharaj).
+
+**3. INS Sanshodhak (SVL):**
+- Fourth and final **Survey Vessel (Large)** delivered by GRSE Kolkata for deep-water and port hydrographic surveying.
 
 ---
 
@@ -396,9 +485,37 @@ India successfully flight-tested an advanced **Agni** missile with **MIRV** tech
 **What happened**
 India successfully test-launched the short-range ballistic missile **Agni-1** from the Integrated Test Range at **Chandipur / Balasore, Odisha**, under the **Strategic Forces Command**.
 
-### Scramjet and TARA notes (same window)
+### Scramjet Combustor Test | DRDL Hyderabad | May 2026
 
-May coverage also reported a long-duration **scramjet combustor** ground test (over **1,200 seconds**) at DRDL Hyderabad for future hypersonic work, and a maiden trial of the **TARA** (Tactical Advanced Range Augmentation) glide weapon system. Keep names ready; fact exact numbers from a PIB note before mocks.
+- DRDL Hyderabad conducted a successful long-duration ground test of an indigenous **scramjet combustor** exceeding **1,200 seconds** to validate thermal endurance and supersonic combustion for future hypersonic platforms.
+
+### India's 1st Indigenous Glide Weapon System — TARA | 7 May 2026
+
+**What happened**
+DRDO and the Indian Air Force (IAF) successfully conducted the maiden flight trial of **TARA** (Tactical Advanced Range Augmentation) off the coast of Odisha on **7 May 2026**.
+
+**Core facts**
+- **System Name:** **TARA** (**Tactical Advanced Range Augmentation**).
+- **Type:** India's **first indigenous glide weapon system**.
+- **Developer:** Designed and developed by **Research Centre Imarat (RCI), Hyderabad**, along with other DRDO laboratories.
+- **Function:** A modular range-extension and precision-guidance kit that converts conventional unguided gravity aerial bombs/warheads into precision-guided standoff glide weapons.
+- **Combat Advantage:** Drastically elevates the strike value of existing low-cost aerial munitions, enabling IAF aircraft to strike heavily defended targets from outside enemy air defence envelopes.
+
+### ICGS 'Achal' Commissioned into Indian Coast Guard | 9 May 2026
+
+**What happened**
+Indian Coast Guard Ship (**ICGS**) **Achal** was commissioned into service on **9 May 2026** at **Goa Shipyard Limited (GSL)**.
+
+**Core facts**
+- **Class:** Latest vessel in the new-generation **Adamya-class** Fast Patrol Vessel (FPV) series.
+- **Builder:** Designed and built indigenously by **Goa Shipyard Limited (GSL)**.
+- **Etymology:** Named **"Achal"**, a Sanskrit term signifying **"firm / immovable"**.
+- **Role:** High-speed coastal patrol, anti-smuggling, EEZ maritime surveillance, and fisheries protection.
+
+### Oreshnik Hypersonic Intermediate-Range Ballistic Missile | 24 May 2026
+
+- On **24 May 2026**, Russia fired the **Oreshnik** (Russian for *"Hazel Tree"*, Ukrainian reporting codename *"Kedr"* / Cedar) intermediate-range ballistic missile (IRBM) during an attack on Kyiv.
+- Characterised by multiple hypersonic warheads descending in steep, fiery streaks at speeds virtually impossible to intercept by conventional Western missile defence shields.
 
 ### Exercise Pragati 2026 | Umroi, Meghalaya
 
@@ -534,6 +651,17 @@ The foundation stone for India's first advanced **3D semiconductor chip packagin
 - **Facility Type:** Greenfield, vertically integrated advanced packaging and embedded glass-substrate ATMP (Assembly, Testing, Marking, and Packaging) unit.
 - **Financial Outlay:** Total project investment of **₹1,943.53 crore** approved under Phase 1 of the **India Semiconductor Mission (ISM)**.
 - **Strategic Milestone:** Employs glass instead of traditional organic substrates for 3D heterogenous chip stacking, drastically improving heat dissipation and high-frequency performance; makes **Odisha the first State** to host both an approved compound semiconductor fab and a 3D glass packaging plant.
+
+### Operation Mule Hunt 1.0 | Gujarat Cyber Police | June 2026
+
+- **What happened:** Gujarat Police and the Cyber Centre of Excellence (CCOE) carried out **Operation Mule Hunt 1.0**, dismantling statewide cyber financial crime syndicates using mule bank accounts.
+- **Key Outcomes:** Uncovered cyber fraud worth **₹2,289 crore**, clamped down on **913 mule bank accounts**, registered 565 FIRs, and arrested 638 accused persons.
+
+### India Assumes Chairmanship of Common Criteria Development Board (CCDB)
+
+- **Appointment:** India was unanimously nominated as Chair of the **Common Criteria Development Board (CCDB)** for a two-year tenure from **April 2026 to April 2028**.
+- **Context:** Confirmed during the meeting of the Common Criteria Recognition Arrangement (CCRA) in **Tokyo, Japan**.
+- **Role:** CCRA is the premier global standard ensuring mutual recognition of IT security certificates, eliminating repeated certification hurdles for Indian secure IT and cyber products across 30+ member nations.
 
 ---
 

@@ -14,11 +14,67 @@
 
 ---
 
+## High-Yield Health & Vaccine Foundation Anchors (Late 2025)
+
+### WHO Global Tuberculosis (TB) Report 2025 | Released 12 Nov 2025
+
+**What happened**
+The World Health Organization (WHO) released the **Global Tuberculosis Report 2025**, assessing TB surveillance across 184 countries (representing >99% of global population).
+
+**Core facts & Global Burden**
+- Global incident cases: **10.7 million people** in 2024 (rate: **131 new cases per 100,000 population**).
+- TB-HIV co-infection: **5.8%** of new TB patients globally were living with HIV.
+- Age/sex profile: Adult men ($\ge 15$ yrs) accounted for **54%** (5.8 million), adult women **35%** (3.7 million), and children ($0–14$ yrs) **11%** (1.2 million).
+- Regional share: **South-East Asia (34%)** > Western Pacific (27%) > African Region (25%) > Eastern Mediterranean (8.6%) > Americas (3.3%) > Europe (1.9%).
+- **Top 8 Countries (~two-thirds of global TB burden):**
+  1. **India (25%)** — single largest contributor
+  2. Indonesia (10%)
+  3. Philippines (6.8%)
+  4. China (6.5%)
+  5. Pakistan (6.3%)
+  6. Nigeria (4.8%)
+  7. DR Congo (3.9%)
+  8. Bangladesh (3.6%)
+
+**India's National Performance**
+- **Incidence Decline:** India's TB incidence dropped **21%** — from **237 per lakh population in 2015 to 187 per lakh in 2024** (nearly double the global rate of decline of 12%).
+- **Mortality Reduction:** TB deaths among HIV-negative individuals fell from 28 per lakh (2015) to **21 per lakh (2024)**.
+- **Treatment Coverage:** Reached **>92% in 2024** (up from 53% in 2015).
+- **Notification & Missing Cases:** 26.18 lakh TB patients diagnosed in 2024 out of ~27 lakh estimated incident cases; "missing cases" slashed from **15 lakh in 2015 to under 1 lakh in 2024**.
+
+### Nafithromycin (Miqnaf) — India's First Indigenous Antibiotic | 18 Oct 2025
+
+**What happened**
+Union Minister **Dr. Jitendra Singh** announced India's first indigenously discovered, developed, and approved novel macrolide antibiotic, **Nafithromycin**, to combat Antimicrobial Resistance (AMR).
+
+**Core facts**
+- **Developer:** Discovered and developed with the support of **BIRAC** (Biotechnology Industry Research Assistance Council).
+- **Commercialization:** Marketed by **Wockhardt** under the brand name **Miqnaf**.
+- **Therapeutic Role:** Highly effective against drug-resistant respiratory tract infections; vital clinical intervention for cancer patients and patients with uncontrolled diabetes.
+
+### Country's First Animal Stem Cell Biobank | NIAB Hyderabad | 9 August 2025
+
+- Union Minister **Dr. Jitendra Singh** inaugurated India's first state-of-the-art **Animal Stem Cell Biobank and Laboratory** at the **National Institute of Animal Biotechnology (NIAB)** under BRIC in **Hyderabad**.
+- Objective: Advancing regenerative veterinary medicine, stem cell therapy, and cellular diagnostics for livestock breeds.
+
+### Kenya Eliminates Sleeping Sickness (HAT) | WHO Validation | 8 August 2025
+
+- **WHO** formally validated **Kenya** for the elimination of **Human African Trypanosomiasis (HAT)**, commonly known as **Sleeping Sickness**, as a public health problem.
+- **Disease Agent & Vector:** Parasitic protozoan ***Trypanosoma brucei rhodesiense*** transmitted by the bite of the **tsetse fly**.
+- **Milestone:** Kenya became the **tenth country in the world** to achieve WHO validation for HAT elimination.
+
+---
+
 ## January 2026
 
-No strong national vaccine or disease-free declaration was locked for January in the first pass.
+### India's First State-Funded BSL-4 Laboratory | Gandhinagar | 13 January 2026
 
-If a WHO notice or new vaccine approval appears later, add it here with agency, date, and disease name.
+**What happened**
+Union Home Minister **Amit Shah** laid the foundation stone for India's first state-funded **Bio-Safety Level-4 (BSL-4)** Bio-Containment Laboratory at the **Gujarat Biotechnology Research Centre (GBRC)** in **Gandhinagar**.
+
+**Core facts**
+- **Biosafety Level 4:** Represents the highest level of biological containment, engineered for handling high-consequence, lethal, airborne, and often incurable pathogens (e.g., Ebola, Nipah, Marburg, Crimean-Congo hemorrhagic fever).
+- **Current Footprint:** India currently operates only **one civilian BSL-4 laboratory**, located at the **National Institute of Virology (NIV)** in **Pune, Maharashtra**. The GBRC Gandhinagar facility significantly expands western India's biosecurity and viral pandemic preparedness.
 
 ---
 
@@ -62,6 +118,39 @@ If a WHO notice or new vaccine approval appears later, add it here with agency, 
 
 - Budget and UP explainers spoke of expanding district hospital capacity, including emergency and trauma care. One common figure used in explainers is about a **50%** capacity push.
 
+### Nationwide HPV Vaccination Campaign for 14-Year-Old Girls | 28 February 2026
+
+**What happened**
+India launched its nationwide free **Human Papillomavirus (HPV) vaccination campaign** on **28 February 2026** from **Ajmer, Rajasthan**, covering all 36 States and Union Territories.
+
+**Core facts**
+- **Target Demographic:** **14-year-old girls** (annual eligible cohort estimated at **1.2 crore** girls as per RGI 2021).
+- **Health Imperative:** Cervical cancer is the **second most common cancer among Indian women** (IARC-GLOBOCAN 2022 recorded 1,27,526 cases and 79,906 deaths in India).
+- **Dosage & Administration:** **Single-dose (0.5 ml)** Intramuscular (IM) injection in the left upper arm; administered free of cost with parental/guardian consent.
+- **Rollout Phases:** Initial **3-month (90-day)** campaign mode, followed by integration into routine weekly immunization days.
+- **Digital Infrastructure:** Managed through the **U-WIN** portal for pre-registration, appointments, and digital certificates, while **eVIN** manages real-time vaccine stocks and cold chain logistics.
+
+### India Approves Takeda's TAK-003 (Qdenga) Dengue Vaccine
+
+**What happened**
+CDSCO's Subject Expert Committee (SEC) under the Drugs Controller General of India (DCGI) recommended approval for **TAK-003 (Qdenga)**, making it **India's first approved dengue vaccine**.
+
+**Core facts**
+- **Developer:** Developed by **Takeda Pharmaceuticals (Japan)**.
+- **Approved Age Bracket:** Individuals aged **4 to 60 years**.
+- **Vaccine Mechanism:** **Live-attenuated tetravalent vaccine** protecting against all four dengue virus serotypes (DENV 1, 2, 3, and 4).
+- **Genomic Backbone:** Engineered using the **DENV-2 strain** as the genetic backbone.
+- **Dosing Schedule:** **2-dose series administered 3 months apart**.
+
+### SAHI & BODH Health AI Frameworks | 17 February 2026
+
+**What happened**
+At the India AI Impact Summit 2026, the Union Health Ministry and MeitY unveiled two foundational health AI governance architectures:
+
+**Core facts**
+- **SAHI (Strategy for Artificial Intelligence in Healthcare for India):** National guidance framework establishing institutional protocols for clinical validation, ethical AI deployment, algorithmic transparency, and patient data governance.
+- **BODH (Benchmarking Open Data Platform for Health AI):** Developed by **IIT Kanpur** in collaboration with the **National Health Authority (NHA)**. It acts as a privacy-preserving benchmarking engine allowing clinical researchers to evaluate AI models against anonymized real-world health datasets without exposing raw patient data.
+
 ---
 
 ## March 2026
@@ -95,9 +184,34 @@ Supreme Court coverage on withdrawing life support in a long vegetative-state ca
 - **World Malaria Day (25 April):** Driven to End Malaria: Now We Can. Now We Must.
 - **World Liver Day (19 April):** Solid Habits, Strong Liver (compilation theme).
 
+### 10th National Summit on Innovation and Inclusivity | Chandigarh | 30 April – 1 May 2026
+
+**What happened**
+The Union Ministry of Health and Family Welfare (MoHFW) organised the **10th National Summit on Innovation and Inclusivity: Best Practices Shaping India's Health Future** in **Chandigarh**, inaugurated by Union Health Minister **J.P. Nadda**.
+
+**Core facts & National Health Milestones**
+- **Key Indicators Highlighted:**
+  - Institutional deliveries rose from 79% to **89%**.
+  - India achieved a **79% decline in under-five mortality (U5MR)** and a **73% decline in infant mortality (IMR)** over long-term health missions.
+- **Digital Health Portals Launched:**
+  1. **Swasth Bharat Portal:** A unified, one-stop national digital interface integrating multiple vertical disease control and maternal-child health programmes onto a single dashboard.
+  2. **JANANI Portal (Journey of Antenatal, Natal and Neonatal Integrated Care — Sehat ke Sath, Every Step of Care):** A robust digital platform aligned with the **Ayushman Bharat Digital Mission (ABDM)** framework, designed as the single source of truth for **RMNCH** (Reproductive, Maternal, Newborn, Child, and Adolescent Health) data across all public and private facilities.
+  3. **Integrated Training Module for Primary Health Care Worker Teams:** Standardized, competency-based continuous medical education curriculum for frontline ASHA and ANM workers.
+
 ---
 
 ## May 2026
+
+### Mission SEHAT | New Delhi | 11 May 2026
+
+**What happened**
+Union Health Minister **J.P. Nadda** and Union Agriculture Minister **Shivraj Singh Chouhan** jointly launched **Mission SEHAT** in New Delhi, establishing a convergence model between agriculture, bio-fortification, and public nutrition.
+
+**Core facts**
+- **Full Form:** **Science Excellence for Health through Agricultural Transformation**.
+- **Joint Custodians:** Conceived and executed jointly by the **Indian Council of Agricultural Research (ICAR)** and the **Indian Council of Medical Research (ICMR)**.
+- **Core Vision:** *"Healthy Food, Healthy Farms and a Healthy India"*.
+- **Mechanism:** Directs agricultural research toward breeding climate-resilient, micronutrient-dense crops (bio-fortified iron, zinc, protein) to treat community micronutrient deficiencies, stunting, and wasting.
 
 ### WHO declares Ebola a Public Health Emergency of International Concern
 
@@ -179,6 +293,18 @@ The **Office of the Registrar General of India (ORGI)**, Ministry of Home Affair
 ### Soft health–environment link
 
 World Environment Day and Surha Tal’s Ramsar tag sit under [Environment](05_Environment_Days.md). Keep June focused on Yoga theme for health stems.
+
+### AdFalciVax: Indigenous Multi-Stage Malaria Vaccine | June 2026
+
+**What happened**
+On **17 June 2026**, ICMR confirmed that technology for **AdFalciVax**, a novel recombinant multi-stage malaria vaccine candidate, has been licensed to five Indian pharmaceutical companies to begin clinical trials and scaled manufacturing.
+
+**Core facts**
+- **Developer:** Developed by the **Regional Medical Research Centre (RMRC), Bhubaneswar**, under the **Indian Council of Medical Research (ICMR)**.
+- **Pathogen Target:** Recombinant multi-stage formulation against ***Plasmodium falciparum*** to block both individual infection and community transmission.
+- **Revolutionary Thermal Stability:** Stable for **up to 9 months at ambient room temperature**, completely bypassing the ultra-cold or cold-chain storage hurdles that hinder African and remote Indian immunization campaigns.
+- **Ultra-Affordable Economics:** Estimated production cost of just **₹20 per dose**, compared to existing global WHO-prequalified vaccines (**RTS,S/AS01 Mosquirix** and **R21/Matrix-M**) costing between **₹250 and ₹830 per dose**.
+- **National Goal:** Accelerates India's timeline to achieve zero indigenous malaria cases by **2027** and nationwide malaria elimination by **2030**.
 
 ---
 
