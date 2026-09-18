@@ -361,6 +361,8 @@ Most water is held in the salty ocean. Of the small fresh share, **ice sheets an
 
 ## N.2 Ocean Floor, Ridge, Shelf, Slope, Guyot
 
+![Ocean Floor Topography & Hypsographic Profile: Continental Shelf, Slope, Rise, Abyssal Plain, Mid-Ocean Ridge & Trench](images/ch16_01_ocean_floor_topography_diagram.png)
+
 The ocean floor profile is the skeleton of every later card.
 
 - The profile runs **land → shelf → slope → rise or trench → abyssal plain**.
@@ -518,6 +520,8 @@ D. A-2, B-4, C-1, D-3
 
 ## N.4 Ocean Currents (warm & cold)
 
+![World Ocean Currents Map: Warm vs Cold Ocean Currents, Oceanic Gyres, Sargasso Sea & Grand Banks](images/ch16_02_world_ocean_currents_map.png)
+
 Ocean currents are driven by prevailing winds, the **Coriolis** force (deflection right in the Northern Hemisphere, left in the Southern) and the shape of the land.
 
 - **Warm** currents commonly wash the **east coasts** of continents (west sides of ocean basins).
@@ -651,6 +655,8 @@ Extra Atlantic names: the **Irminger** and Norwegian currents are warm. The East
 ---
 
 ## N.5 Salinity
+
+![Ocean Salinity Distribution, Thermocline Thermal Stratification & Spring vs Neap Orbital Tides Mechanics](images/ch16_03_ocean_salinity_temperature_thermocline.png)
 
 Open-ocean salinity averages about **35‰** (35 g salt per 1000 g seawater). **Sodium chloride (NaCl)** is about **77%** of the dissolved salts in the dissolved-salt table. Controls are evaporation, rainfall, river inflow and ice freeze / melt.
 

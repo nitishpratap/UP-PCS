@@ -187,6 +187,8 @@ Teach the **full field map**. Next year can ask any Lucent coalfield or ore town
 
 ## N.1 Coal
 
+![World Coal Basins & Major Petroleum / Natural Gas Provinces Map: Appalachian, Ruhr, Kuzbass, Donbas, Ghawar, Permian, North Sea, Maracaibo & Baku](images/ch21_02_world_coal_petroleum_energy_basins_map.png)
+
 - Fossil fuel from buried peat in swamp forests (Carboniferous in Europe–USA; **Gondwana** in India–Australia–South Africa).
 - Used as **steam coal** (thermal power) and **coking coal** (steel). Coking ≠ lignite.
 - Ranks **rise in carbon** and fall in moisture: peat → lignite → bituminous → anthracite.
@@ -310,6 +312,8 @@ D. France
 ---
 
 ## N.2 Iron ore
+
+![World Major Mineral Belts & Mining Districts Map: Pilbara, Carajas, Chuquicamata, Kinta Valley, Witwatersrand, Athabasca & Lithium Triangle](images/ch21_01_world_major_mineral_belts_map.png)
 
 **Why it is asked**
 

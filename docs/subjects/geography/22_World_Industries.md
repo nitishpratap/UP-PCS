@@ -210,6 +210,8 @@ Teach the **full map**. Next year can ask any Lucent city, port, or wind, not on
 
 ## N.2 Industrial regions
 
+![World Major Industrial Regions Map: Rust Belt, Rhine-Ruhr, UK Midlands, Po Valley, Kanto Plain, Yangtze Delta, Chota Nagpur & Southern Urals](images/ch22_01_world_major_industrial_regions_map.png)
+
 **Europe**
 
 | Region | Country | Fact |
@@ -614,6 +616,8 @@ D. Lake Manzala-Lake Timsah- Cireat Bitter Lake-Little Bitter Lake
 ---
 
 ## N.6 World local winds
+
+![World Famous Local Winds Map: Hot Foehn/Chinook, Sirocco, Harmattan, Loo vs Cold Mistral, Bora, Pampero, Buran & Blizzards](images/ch22_02_world_local_winds_map.png)
 
 Learn the full local-wind match set below, grouped by family. The same set is also taught under Climate of India.
 

@@ -199,6 +199,8 @@ Seven continents by **area** (largest → smallest):
 
 ## N.1 Mountains
 
+![Major Mountains, Highest Peaks & Plateaus Map: Fold & Block Mountains, Orogenies & Continental Summits](images/ch18_01_world_fold_block_mountains_map.png)
+
 **Four (चातुर्याम) families**
 
 | Family | Force / story | World examples |
@@ -687,6 +689,8 @@ D. Only 1
 
 ## N.6 Deserts
 
+![Major Deserts of the World & Offshore Cold Ocean Currents: Subtropical vs Mid-Latitude Rain-Shadow Aridity](images/ch18_02_world_major_deserts_map.png)
+
 Deserts are arid lands (often **< 25 cm** rain) with sparse xerophytic vegetation.
 
 **Why hot deserts favour west coasts**
@@ -826,6 +830,8 @@ D. Gibson – Brazil
 ---
 
 ## N.7 Grasslands
+
+![Major Grasslands of the World: Temperate Prairies, Pampas, Steppes, Veld & Downs vs Tropical Savannas](images/ch18_03_world_grasslands_map.png)
 
 **Tropical** grassland is **savanna** — summer rain with scattered trees.
 

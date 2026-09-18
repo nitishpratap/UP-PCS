@@ -130,6 +130,8 @@ None mandatory — static political-map chapter.
 
 ## N.0 Framework — World Regional Geography
 
+![Strategic Straits, Canals & Maritime Chokepoints Map: Malacca, Hormuz, Bab-el-Mandeb, Suez, Panama, Gibraltar & Turkish Straits](images/ch19_01_world_strategic_straits_and_canals_map.png)
+
 **Identity:** This is a **political + regional map** chapter. Capitals, “which is NOT in the region”, landlocked status, equator crossings, and a few physical facts inside each belt all live here.
 
 Learn each continent’s **size order** first.
@@ -1003,6 +1005,8 @@ D. Anguilla
 ---
 
 ## N.14 Landlocked · Equator · Capitals · Boundaries (map diet)
+
+![Strategic Marginal Seas & Famous Boundary Lines Map: South China Sea, Red Sea, Persian Gulf, 49th & 38th Parallels, Durand & Radcliffe Lines](images/ch19_02_world_marginal_seas_and_boundary_lines_map.png)
 
 **South America landlocked:Bolivia + Paraguay** only. Uruguay / Peru / Suriname have coasts.
 

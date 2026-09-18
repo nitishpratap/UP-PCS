@@ -191,6 +191,8 @@ Teach the **full world map**. Next year can ask any standard Lucent pair, not on
 
 ## N.1 World Rivers
 
+![World Major Rivers Map: Source, Mouths, Discharges & Tropic Crossings](images/ch17_01_world_major_rivers_map.png)
+
 Rivers are matched by continent, mouth and one trap. Length numbers vary by source — learn the **Prelims superlative**, not a kilometre fight.
 
 **Who is “longest / biggest”?**
@@ -553,6 +555,8 @@ Match the dam to the river and the country pair.
 ---
 
 ## N.7 Lakes
+
+![World Major Lakes Map: Great Lakes HOMES System, Baikal, Caspian & East African Rift Lakes](images/ch17_02_world_major_lakes_map.png)
 
 Learn **superlative** and **type**. Endorheic lakes have no ocean outlet.
 

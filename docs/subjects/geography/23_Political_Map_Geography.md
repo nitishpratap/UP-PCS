@@ -208,6 +208,8 @@ Teach the **full political atlas**. Next year can ask any Lucent capital or stra
 
 ## N.1 UNCLOS
 
+![UNCLOS Maritime Zones Schematic Cross-Section: Internal Waters, Territorial Sea (12 NM), Contiguous Zone (24 NM), EEZ (200 NM), Continental Shelf & High Seas](images/ch23_02_unclos_maritime_zones_diagram.png)
+
 **Adopted (अंगीकृत):** 1982 · **in force:** 1994 · **India:** 1995
 
 Zones are measured from baselines. The normal baseline is the low-water line. One nautical mile is about **1.852 km**.
@@ -655,6 +657,8 @@ Geographical sobriquets are coaching nicknames for countries, cities, and region
 ---
 
 ## N.6 Landlocked, equator, islands
+
+![World Landlocked Countries, Enclaves & Exclaves Map: Double-Landlocked States (Uzbekistan & Liechtenstein), True Enclaves, Exclaves & Major Landlocked Nations](images/ch23_01_world_political_enclaves_landlocked_map.png)
 
 **South America (2022 four)**
 

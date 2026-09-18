@@ -187,6 +187,8 @@ Teach the **full UP map**. Next year can ask any standard district extreme or ca
 
 ## N.2 Physiographic regions
 
+![Uttar Pradesh Physiography and River Drainage System Map: Bhabar, Terai, Gangetic Alluvial Plains, Bundelkhand & Vindhyan Plateaus with Master Rivers & Canals](../images/ch24_01_up_physiography_drainage_map.png)
+
 **Identity:** The Ganga plain covers about **90%** of the state. The south holds the Bundelkhand plateau and the Vindhyan/Kaimur scarp. There is no Himalaya inside present UP.
 
 ### Bhabar
@@ -451,6 +453,8 @@ D. Sind → Ken → Chambal → Betwa
 ---
 
 ## N.9 Forests, national parks, sanctuaries
+
+![Uttar Pradesh Protected Areas, Ramsar Wetlands and Mineral Belts Map: Dudhwa National Park, 4 Tiger Reserves, 13 Ramsar Sites & Southern Hard-Rock Mineral Resources](../images/ch24_02_up_protected_areas_minerals_map.png)
 
 **Cover:** about **6%** of TGA — **not 12.8%**. Jaunpur, Ghazipur, Ballia ≈ **no forest land** (Ballia still has Surha Tal wetland). ISFR 2023 >20% of district area: **Chandauli + Shravasti**, not Bahraich.
 

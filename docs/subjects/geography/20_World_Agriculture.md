@@ -246,6 +246,8 @@ D. Equatorial regions
 
 ## N.2 Whittlesey agricultural regions
 
+![Derwent Whittlesey's World Agricultural Regions Map: 13 Major Global Farming & Livestock Systems](images/ch20_01_whittlesey_agricultural_regions_map.png)
+
 Derwent **Whittlesey (1936)** — standard 13-type world map. Learn **region + crop**, not the essay.
 
 | Type | Core belt |
@@ -383,6 +385,8 @@ Rice needs heat plus moisture. Temperature is about **20–27°C**. Rain is abou
 ---
 
 ## N.5 Plantation crops (the system)
+
+![Global Cash Crops, Plantation Belts & Commodities Map: Coffee Fazendas, Tea, Rubber, Cocoa, Sugar & Corn Belts](images/ch20_02_world_cash_crop_belts_map.png)
 
 | Feature | Fact |
 |---------|------|
