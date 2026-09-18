@@ -138,6 +138,20 @@ Masai habitat (वास स्थान) remains **East Africa**. Do not “upd
 
 ![Cartographic Spatial Map — Major Scheduled Tribes of India & Regional Distribution](images/ch10_01_india_tribes_spatial_map.png)
 
+![Central Indian Tribal Heartland: Chota Nagpur, Bastar & Satpura](images/ch10_04_central_india_tribal_belt_map.png)
+
+![Western Indian Tribal Belt: Bhil Country & Sahariya Tract](images/ch10_05_western_india_bhil_country_map.png)
+
+![Tribal Geography of North-East India (The Seven Sisters)](images/ch10_06_northeast_india_tribes_spatial_map.png)
+
+![Himalayan Pastoral Nomads & High-Altitude Transhumance](images/ch10_07_himalayan_pastoral_nomads_map.png)
+
+![Tribal Communities of South India & Nilgiri Biosphere Reserve](images/ch10_08_south_india_nilgiri_tribes_map.png)
+
+![Indigenous Tribes of Andaman & Nicobar Islands (Negrito vs Mongoloid)](images/ch10_09_andaman_nicobar_pvtg_islands_map.png)
+
+![75 Particularly Vulnerable Tribal Groups (PVTGs) in India](images/ch10_12_75_pvtgs_india_criteria_map.png)
+
 The Constitution does **not** define “tribe” in a detailed article. **Article 342** lets the President notify Scheduled Tribes for each State or Union Territory, after consulting the Governor in a State. **Parliament** may later include or exclude communities by law. ST lists are therefore **state-specific**. A community that is Scheduled Tribe in one State may not be listed in another.
 
 **Where tribal communities live**
@@ -292,6 +306,10 @@ D. 1 and 2
 ## N.2 Tribes of Uttar Pradesh
 
 ![Uttar Pradesh Tribes Geography — Terai Belt (Tharu, Buksa) vs Vindhyan / Sonbhadra Cluster & PVTGs](images/ch10_02_up_tribes_district_map.png)
+
+![Uttar Pradesh Scheduled Tribes: District Rankings & Cultural Traits](images/ch10_10_up_tribes_district_wise_density.png)
+
+![Terai Tribal Cultures of Uttar Pradesh: Tharu & Buksa In-Depth](images/ch10_11_tharu_buksa_terai_culture_map.png)
 
 Uttar Pradesh has a **low** Scheduled Tribe share. Census 2011 put it at about **0.6%** of the State population (roughly 11 lakh people). The still tests a **fixed notified list**.
 
@@ -681,6 +699,12 @@ A **Krishi Vigyan Kendra (KVK)** is the district **extension** arm of the ICAR�
 ## N.8 Agricultural, dairy, horticulture and forest institutes
 
 ![Key National Research Institutes & Scientific Centres in India & UP — Agricultural, Forestry, Dairy & UP Clusters](images/ch10_03_national_institutes_map.png)
+
+![Premier Research Institutes in Lucknow & Kanpur (UPPCS Favorite)](images/ch10_13_lucknow_kanpur_research_institutes.png)
+
+![National Agricultural, Horticultural & Crop Research Headquarters](images/ch10_14_agricultural_horticultural_national_hqs.png)
+
+![National Forestry, Wildlife, Dairy & Veterinary Institutes](images/ch10_15_forestry_wildlife_veterinary_hqs.png)
 
 Every major State has a State Agricultural University.
 

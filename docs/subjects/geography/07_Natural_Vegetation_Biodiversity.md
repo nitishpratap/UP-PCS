@@ -253,6 +253,12 @@ Standard notes split Indian vegetation into **five** heads and **sixteen** sub-t
 
 ![Champion & Seth Major Forest Types of India Matrix — Rainfall, Indicators, Belts & Exam Traps](images/ch7_01_forest_types_india_matrix.png)
 
+![Tropical Wet Evergreen & Semi-Evergreen Forests of India](images/ch7_06_tropical_evergreen_rainforests_map.png)
+
+![Tropical Deciduous (Monsoon) Forests: India's Most Widespread Forests](images/ch7_07_tropical_deciduous_monsoon_forests.png)
+
+![Mangrove Wetlands & Tidal / Littoral Ecosystems of India](images/ch7_08_mangroves_wetlands_tidal_forests.png)
+
 ### Evergreen & semi-evergreen
 
 Tropical evergreen needs equable heat and heavy rain. These forests are also called **Selvas**.
@@ -602,6 +608,12 @@ An **epiphyte** grows on another plant for support, not as a parasite that steal
 
 ![18 Biosphere Reserves of India & 12 UNESCO MAB World Network Reserves — Complete Geographic Directory](images/ch7_03_india_18_biosphere_reserves_mab.png)
 
+![Project Tiger & The Tiger Reserves Network in India — 55 Reserves](images/ch7_09_project_tiger_55_reserves_map.png)
+
+![Critically Endangered Fauna & Iconic Sanctuaries of India](images/ch7_12_endangered_fauna_habitats_india.png)
+
+![Sacred Groves & Community Conservation Traditions in India](images/ch7_13_sacred_groves_community_reserves.png)
+
 - **UNESCO Man and the Biosphere (MAB)** programme promotes **core + buffer + transition** zoning for conservation with sustainable human use.
 - India runs a **national Biosphere Reserve programme** under the **Wildlife (Protection) Act** framework; **18** sites are notified nationally.
 - **Nilgiri (1986)** was India's **first** Biosphere Reserve.
@@ -695,6 +707,10 @@ D. Sacred groves
 ## N.6 Uttar Pradesh — Forests, Parks, Sanctuaries, Ramsar
 
 ![ISFR Standings & Uttar Pradesh Forest Geography — District Ranks & Protected Area Network](images/ch7_05_isfr_uttar_pradesh_forest_geography.png)
+
+![India State of Forest Report (ISFR) — Essential Standings for UPPCS](images/ch7_11_isfr_latest_forest_cover_states.png)
+
+![Protected Area Network of Uttar Pradesh: National Parks & 4 Tiger Reserves](images/ch7_10_up_wildlife_sanctuaries_national_parks.png)
 
 **Only one National Park: Dudhwa (Lakhimpur Kheri).** Do not invent a second NP in UP.
 

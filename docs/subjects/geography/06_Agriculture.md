@@ -249,6 +249,8 @@ India’s land-use reporting (NCERT / Ministry of Agriculture) splits reported a
 
 ![Cropping Seasons & Land-Use Categories in India — Kharif, Rabi, Zaid & 9 Official Land-Use Classes](images/ch6_01_cropping_seasons_landuse.png)
 
+![Flagship Agricultural Schemes, Revolutions & Policies — PM-KISAN, PMFBY, Soil Health Card & MSP Formula](images/ch6_14_major_agricultural_schemes_institutes.png)
+
 | Season | Months | Typical crops |
 |--------|--------|---------------|
 | **Kharif** | Jun–Oct (SW monsoon (दक्षिण-पश्चिम)) | Rice, maize, jowar, bajra, ragi, cotton, jute, groundnut, soybean, tur, sesame |
@@ -276,6 +278,18 @@ India’s land-use reporting (NCERT / Ministry of Agriculture) splits reported a
 ![Cartographic Spatial Map — Major Agricultural Crop Belts of India (Rice, Wheat, Cotton, Sugarcane, Coarse Cereals, Plantation & Spice Belts)](images/ch6_00_india_crop_belts_cartographic_map.png)
 
 ![Major Food, Cash & Plantation Crops Matrix — Requirements, Yields & Leading Producer States](images/ch6_02_major_food_cash_crops_matrix.png)
+
+![Rice (Paddy) Cultivation Geography of India — Agronomic Requirements & State Rankings](images/ch6_07_rice_cultivation_belts_india.png)
+
+![Wheat (Rabi) Cultivation Belt & Irrigated Agro-Ecology](images/ch6_08_wheat_cultivation_belt_irrigation.png)
+
+![Fibre Crops of India: Cotton (White Gold) vs Jute (Golden Fibre)](images/ch6_09_cotton_jute_fibre_crops_map.png)
+
+![Sugarcane Geography: Subtropical North vs Tropical South](images/ch6_10_sugarcane_belts_north_vs_south.png)
+
+![Millets (Nutri-Cereals) & Pulses Geography of India](images/ch6_11_coarse_cereals_millets_pulses.png)
+
+![Plantation Crops of India: Tea, Coffee, Rubber & Spices](images/ch6_12_plantation_crops_tea_coffee_rubber.png)
 
 ### Rice
 
@@ -620,6 +634,8 @@ Three **number** facts — do not mix:
 ### 15 Agro-climatic Zones (Planning Commission)
 
 ![Agro-Climatic Zoning — India 15 Planning Commission Zones & Uttar Pradesh 9 Agro-Climatic Zones](images/ch6_03_agro_climatic_zones_india_up.png)
+
+![Uttar Pradesh 9 Agro-Climatic Zones (Official Planning Commission) District Map](images/ch6_13_up_9_agro_climatic_zones_map.png)
 
 | # | Zone | Core | Agri tag |
 |---|------|------|----------|

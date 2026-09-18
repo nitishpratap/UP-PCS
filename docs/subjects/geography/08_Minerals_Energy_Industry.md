@@ -268,6 +268,12 @@ The mineral belts of India form one map. The north-eastern plateau is richest; t
 
 ![Major Metallic Minerals & Famous Mines of India — Ore Types, Leaders & National Mines Map](images/ch8_01_metallic_minerals_mines_map.png)
 
+![Four Major Iron Ore Belts of India & Mine-to-Port Export Linkages](images/ch8_07_iron_ore_belts_mines_ports_link.png)
+
+![Bauxite Reserves & Aluminium Smelters of India](images/ch8_08_bauxite_aluminium_smelters_map.png)
+
+![Non-Ferrous Metallic Minerals: Copper, Lead-Zinc & Manganese](images/ch8_09_copper_lead_zinc_manganese_mines.png)
+
 ### Iron
 
 Iron is the backbone of heavy industry. Steel needs iron ore plus **coking coal** and a **flux** such as limestone or dolomite.
@@ -498,6 +504,8 @@ D. 3 4 1 2
 
 ![Coal Resources of India — Gondwana vs Tertiary Basins, Carbon Ranks & Major Coalfields](images/ch8_02_coalfields_gondwana_tertiary_map.png)
 
+![Coal Resources of India: Gondwana Basins (~98%) vs Tertiary Coal](images/ch8_10_gondwana_damodar_son_mahanadi_coal.png)
+
 Coal is a sedimentary **fossil fuel** formed from buried plant matter. It is **non-renewable**. Rank rises as **carbon rises** and **moisture falls**.
 
 ### Two geological ages
@@ -616,6 +624,8 @@ D. 1 3 2 4
 ## N.4 Petroleum, gas, refineries
 
 ![Petroleum Basins, Offshore Fields & Refineries in India — Bombay High, KG Basin & Refining Capacity](images/ch8_03_oil_gas_basins_refineries_map.png)
+
+![Petroleum Refineries & Trunk Oil / Gas Pipelines of India](images/ch8_11_oil_refineries_pipelines_hbj_jamnagar.png)
 
 Petroleum is a **non-renewable** mineral oil found in **sedimentary basins**, not in the Chota Nagpur crystalline core.
 
@@ -739,6 +749,8 @@ Hydel needs a **head** (drop) and a **flow**. Storage dams hold monsoon water; r
 
 ![Nuclear Power Plants & Atomic Minerals of India — 7 Operating Stations, Technology Partners & Uranium Belts](images/ch8_04_nuclear_thermal_power_plants.png)
 
+![Nuclear Power Plants & Atomic Minerals of India (7 Operating Stations)](images/ch8_12_atomic_energy_uranium_thorium_belts.png)
+
 Nuclear plants need a large water body for cooling and a secure site. Fuel is **uranium** (and thorium in the long Indian programme), not sunshine.
 
 | Plant | State |
@@ -813,6 +825,8 @@ D. 4 2 3 1
 ## N.6 Industry, Regions, Corridors
 
 ![8 Major Industrial Regions & Integrated Steel Plants of India — Clusters, Ports & Foreign Collaboration](images/ch8_05_major_industrial_regions_corridors.png)
+
+![Integrated Steel Plants of India & Foreign Collaborations](images/ch8_13_integrated_steel_plants_collaborations.png)
 
 Manufacturing converts raw (रॉ) materials into more valuable goods. Location is decided by a bundle of factors, not one trick alone.
 
@@ -993,6 +1007,8 @@ D. 1, 2, 3 and 4
 ## N.7 Uttar Pradesh focus
 
 ![Uttar Pradesh Minerals, Energy Assets & Industrial Districts — Sonbhadra Hub, Power Grid & ODOP Clusters](images/ch8_06_up_minerals_energy_industry_map.png)
+
+![Sonbhadra: The Energy Capital of Uttar Pradesh & Mineral Geography](images/ch8_14_up_sonbhadra_minerals_energy_capital.png)
 
 Uttar Pradesh is not a Jharkhand-scale ore state. The **Gangetic plains** are almost empty of metallic ores. The mineral and energy belt is the **southern hard-rock / Vindhyan** fringe, especially **Sonbhadra**.
 
