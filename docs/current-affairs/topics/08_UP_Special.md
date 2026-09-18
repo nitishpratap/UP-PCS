@@ -30,6 +30,8 @@
 | **Basmati & Organic Training Centre** | **Pilibhit** | India's first integrated Basmati & Organic Training Centre-cum-Demonstration Farm. |
 | **Air Quality Alert (CREA Report)** | **Ghaziabad** | Ranked as the **most polluted city in India** in November 2025. |
 | **Cultural Legend Obituary** | **Varanasi** | **Pt. Chhannulal Mishra** passed away (2 Oct 2025 at 89); Kirana & Benaras gharana; Padma Vibhushan (2020), Yash Bharti; PM Modi's Varanasi proposer in 2014. |
+| **Axiom Mission 4 (Ax-4) Pilot** | **Lucknow** | Group Captain **Shubhanshu Shukla** (born in **Lucknow**) served as Pilot of SpaceX Crew Dragon 'Grace' to the ISS; **1st Indian astronaut on the ISS**, 2nd Indian in orbit after Rakesh Sharma (1984). |
+| **Supercomputer 'Arunika' (Global Rank #251)** | **NCMRWF, Noida (Gautam Buddha Nagar)** | NCMRWF's high-performance weather forecasting supercomputer ranked **#251 globally** in the TOP 500 Supercomputers list (Nov 2025, 5.94 PFlop/s Rmax); 3rd fastest supercomputer in India. |
 
 ---
 
@@ -249,6 +251,19 @@ Prime Minister **Narendra Modi** inaugurated the **594-kilometre-long** greenfie
 - CCSU Meerut AI pilot
 - Sarus crane census
 - Patna Bird Sanctuary (Etah) Ramsar
+
+### UP Personalities & High-Tech Milestones
+
+#### Group Captain Shubhanshu Shukla | Axiom-4 Pilot (Lucknow)
+- **Hometown:** Born and raised in **Triveni Nagar, Lucknow, Uttar Pradesh**.
+- **Mission:** Served as the **Pilot** of Axiom Mission 4 (**Ax-4**) aboard SpaceX Crew Dragon **'Grace' (C213)** to the **International Space Station (ISS)** (launched 25 June 2025, returned 15 July 2025).
+- **Distinction:** First Indian astronaut to visit the ISS; only the second Indian citizen in space after Wing Commander Rakesh Sharma (1984 aboard Soyuz T-11) after a **41-year hiatus**; the **first person from Uttar Pradesh in space**!
+
+#### Weather Supercomputer 'Arunika' | NCMRWF, Noida
+- **Location:** National Centre for Medium Range Weather Forecasting (**NCMRWF**), Ministry of Earth Sciences, located in **Noida (Gautam Buddha Nagar district, Uttar Pradesh)**.
+- **Global Standing:** Ranked **#251 in the world** in the **TOP 500 Supercomputers list** (66th Edition, November 2025, SC25 St. Louis).
+- **Compute Power:** Sustained performance (**Rmax**) of **5.94 PFlop/s** and peak performance (**Rpeak**) of **7.40 PFlop/s** with 203,040 processing cores.
+- **National Standing:** Ranks as the **3rd fastest supercomputer in India** (behind AIRAWAT-PSAI at C-DAC Pune and Arka at IITM Pune).
 
 ---
 

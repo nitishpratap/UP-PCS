@@ -32,6 +32,20 @@
 
 ---
 
+### Official National Progress Benchmarks (Economic Survey 2025–26)
+
+| Scheme / Platform | Nodal Ministry | Cumulative Milestone / Progress Metric | Core Focus & Beneficiary Base |
+| :--- | :--- | :--- | :--- |
+| **PM-KISAN** | Ministry of Agriculture | **₹4.09 lakh crore disbursed** directly via DBT | Income support of ₹6,000/year in 3 equal instalments of ₹2,000 to landholding farmer families. |
+| **PM-KMY (Kisan Maandhan)** | Ministry of Agriculture | **24.92 lakh farmers enrolled** | Voluntary old-age pension scheme providing **₹3,000/month** after age 60 (entry age 18–40). |
+| **e-NAM** | Ministry of Agriculture / SFAC | **1.79 crore farmers**, **2.72 crore traders**, **4,698 FPOs** onboarded | Pan-India electronic trading portal integrating **1,522 regulated APMC wholesale mandis** (by 31 Dec 2025). |
+| **SVAMITVA Scheme** | Ministry of Panchayati Raj | Drone surveys completed in **3.28 lakh villages** | Survey of Villages and Mapping with Improvised Technology in Village Areas; clear property titles via 'Property Cards' + Drone Didis. |
+| **PM Jan Dhan Yojana (PMJDY)** | Ministry of Finance (DFS) | **55.02 crore accounts** (March 2025); **36.63 crore** in rural/semi-urban areas | Basic savings bank accounts, RuPay debit cards with ₹2 lakh accident cover, ₹10,000 overdraft facility. |
+| **e-Shram Portal** | Ministry of Labour & Employment | **>31 crore unorganised workers registered** (**54% women**) | National database of unorganised workers seeded with Aadhaar for targeted social security deliverability. |
+| **National Career Service (NCS)** | Ministry of Labour & Employment | Mobilised **~80 million (8 crore) vacancies** | One-stop digital platform matching jobseekers and employers, integrated with DigiLocker and e-Shram. |
+
+---
+
 ## January 2026
 
 ### Plan to merge farm schemes into PM-RKVY | around 12 January 2026

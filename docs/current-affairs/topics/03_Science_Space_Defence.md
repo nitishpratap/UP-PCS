@@ -23,10 +23,14 @@
 
 | Mission | Launch Vehicle / Date | Orbit / Destination | Scientific Objective / Key Highlights |
 | :--- | :--- | :--- | :--- |
-| **Chandrayaan-3** | **LVM3-M4** <br> (14 July 2023) | Lunar South Pole <br> (Landed **23 Aug 2023**) | • Lander: **Vikram**; Rover: **Pragyan**.<br>• Landing site named **Shiv Shakti Point**; Chandrayaan-2 crash site named **Tiranga Point**.<br>• India became the **1st country to soft-land near lunar South Pole**, 4th country overall to land on Moon.<br>• **23 August** declared **National Space Day**.<br>• Payloads: ChaSTE (thermal), ILSA (seismicity), RAMBHA-LP (plasma), APXS & LIBS (chemical composition). |
+| **Chandrayaan-3** | **LVM3-M4** <br> (14 July 2023) | Lunar South Pole <br> (Landed **23 Aug 2023**) | • Lander: **Vikram**; Rover: **Pragyan**.<br>• Landing site named **Shiv Shakti Point**; Chandrayaan-2 crash site named **Tiranga Point**.<br>• India became the **1st country to soft-land near lunar South Pole**, 4th country overall to land on Moon.<br>• **23 August** declared **National Space Day**.<br>• Payloads: ChaSTE (thermal), ILSA (seismicity), RAMBHA-LP (plasma), APXS & LIBS (chemical composition).<br>• *Hop Experiment:* Vikram hopped 50 cm; revealed 2-layer stratigraphy in top 6.5 cm of regolith. |
 | **Aditya-L1** | **PSLV-C57** <br> (2 Sep 2023) | Halo orbit around **Sun-Earth Lagrange Point 1 (L1)** (~1.5 million km) | • India's **first dedicated solar observatory** in space.<br>• Inserted into L1 halo orbit on **6 January 2024**.<br>• Key payloads: **VELC** (Visible Emission Line Coronagraph - primary payload built by IIA Bengaluru), **SUIT** (Solar Ultraviolet Imaging Telescope), ASPEX, PAPA. |
 | **XPoSat** (X-ray Polarimeter Satellite) | **PSLV-C58** <br> (1 Jan 2024) | Low Earth Orbit (~650 km) | • India's first dedicated polarimetry mission to study celestial X-ray sources (black holes, neutron stars).<br>• World's **2nd such mission** after NASA's IXPE.<br>• Payloads: **POLIX** (RRI Bengaluru) & **XSPECT** (URSC). |
-| **Gaganyaan Programme** | **Human-Rated LVM3 (HLVM3)** | Low Earth Orbit (400 km) | • 3-member crew for 3 days.<br>• Astronaut designates announced Feb 2024: Gp Capt **Prashanth Nair**, Gp Capt **Ajit Krishnan**, Gp Capt **Angad Pratap**, Wg Cdr **Shubhanshu Shukla** (Shubhanshu selected for Axiom-4 to ISS).<br>• Female humanoid robot: **Vyommitra**. |
+| **Gaganyaan Programme** | **Human-Rated LVM3 (HLVM3)** | Low Earth Orbit (400 km) | • 3-member crew for 3 days.<br>• Astronaut designates announced Feb 2024: Gp Capt **Prashanth Nair**, Gp Capt **Ajit Krishnan**, Gp Capt **Angad Pratap**, Wg Cdr **Shubhanshu Shukla**.<br>• Female humanoid robot: **Vyommitra**. |
+| **NISAR Satellite** | **GSLV-F16** <br> (30 July 2025) | Sun-Synchronous Polar Orbit (747 km circular, 98.4°) | • Landmark NASA–ISRO Earth Observation collaboration.<br>• World's **first dual-band radar imaging satellite** using **L-band (NASA)** and **S-band (ISRO)** SAR.<br>• Features 12-m unfurlable mesh reflector antenna on 9-m boom; **SweepSAR** technology; 12-day Earth repeat cycle; mass **2,393 kg**.<br>• 18th GSLV flight, 12th with indigenous cryogenic upper stage. |
+| **LVM3-M6 / BlueBird Block-2** | **LVM3-M6** <br> (24 Dec 2025) | Low Earth Orbit (LEO) | • 104th launch from Sriharikota; 9th flight of LVM3 (100% success rate); 3rd dedicated commercial mission.<br>• Launched **AST SpaceMobile (USA)** BlueBird Block-2 direct-to-cell satellite.<br>• **Heaviest payload launched by LVM3 from Indian soil: 6,100 kg**!<br>• Largest commercial communication satellite deployed in LEO (223 m² phased array antenna). |
+| **Axiom Mission 4 (Ax-4)** | **SpaceX Falcon-9** <br> (25 June – 15 July 2025) | International Space Station (ISS) | • Spacecraft: SpaceX Crew Dragon **'Grace' (C213)**.<br>• Gp Capt **Shubhanshu Shukla** (born in **Lucknow, UP**) served as **Pilot**.<br>• **1st Indian astronaut to visit ISS**; 2nd Indian citizen in orbit after Rakesh Sharma (1984) after 41 years.<br>• Commander: Peggy Whitson (USA); Crew: Tibor Kapu (Hungary), Slawosz Uznanski (Poland). Docked at Harmony Module for 18 days; splashed down in Pacific Ocean. |
+| **Kalam 1200 / Vikram-1** | Static Test <br> (8 August 2025) | SDSC-SHAR Sriharikota | • **Skyroot Aerospace** (Hyderabad) tested 1st stage motor of **Vikram-1** rocket.<br>• 11m long, 1.7m diameter monolithic composite motor, 30 tonnes solid propellant (longest monolithic motor built at Solid Propellant Plant, Sriharikota).<br>• Vikram-1 payload: 350 kg to 500 km LEO, 260 kg to SSPO. |
 
 ---
 
@@ -47,14 +51,28 @@
 
 ---
 
-### High-Yield Biotech & Space Foundation (Late 2025)
+### High-Yield Biotech, Computing & Space Foundation (Late 2025)
 
+- **TOP 500 Supercomputers (66th Edition — Nov 2025, SC25 St. Louis):**
+  - **Global Exascale Leaders:**
+    1. **El Capitan** (USA — Lawrence Livermore National Laboratory): **1.809 exaFLOP/s** (1,809 PFlop/s Rmax, 11.34 million cores; World #1).
+    2. **Frontier** (USA — Oak Ridge National Lab): 1,353 PFlop/s Rmax.
+    3. **Aurora** (USA — Argonne National Lab): 1,012 PFlop/s Rmax.
+    4. **JUPITER Booster** (Germany — Forschungszentrum Jülich): 1,000 PFlop/s Rmax (*Europe's first exascale supercomputer*).
+    5. **Eagle** (USA — Microsoft Azure): 561.2 PFlop/s Rmax.
+  - **India's 5 Supercomputers in Global TOP 500:**
+    1. **Rank 188 — AIRAWAT-PSAI:** Located at **C-DAC, Pune** (Rmax 8.50 PFlop/s, Rpeak 13.17 PFlop/s; India's fastest supercomputer).
+    2. **Rank 196 — Arka:** Located at **IITM, Pune** (Rmax 8.28 PFlop/s, Rpeak 10.61 PFlop/s).
+    3. **Rank 251 — Arunika:** Located at **NCMRWF, Noida (Uttar Pradesh)** (Rmax 5.94 PFlop/s, Rpeak 7.40 PFlop/s; crucial weather forecasting system).
+    4. **Rank 338 — Pratyush:** Located at **IITM, Pune** (Rmax 3.76 PFlop/s, Rpeak 4.01 PFlop/s).
+    5. **Rank 469 — Arka AI/ML:** Located at **IITM, Pune** (Rmax 2.70 PFlop/s, Rpeak 3.75 PFlop/s).
 - **First Indigenous CRISPR-Based Gene Therapy (19 Nov 2025):** India launched its first indigenous CRISPR Cas-based gene therapy for the clinical management of **Sickle Cell Disease**.
 - **First Indigenous Antibiotic — Nafithromycin:** India's first indigenously developed and approved novel macrolide antibiotic, targeted against drug-resistant respiratory infections.
 - **First Indigenous 64-Bit Microprocessor — DHRUV64 (15 Dec 2025):** India's first indigenous 64-bit dual-core microprocessor developed by **C-DAC** (Centre for Development of Advanced Computing).
 - **Spiral Galaxy 'Alaknanda' (Dec 2025):** Giant spiral galaxy discovered by Indian astrophysicists at **NCRA-TIFR**, Pune.
 - **Green Hydrogen Plant for Railways:** India's first green hydrogen production plant for powering trains commissioned at **Jind, Haryana**.
 - **Indian Space Industry E-Catalogue:** Launched as India's first digital repository mapping domestic space-sector capabilities and industrial supply chains during the **5th Indian Space Congress 2026** in New Delhi.
+- **India's First Private EO Satellite Constellation (EO-PPP):** On 21 January 2026, **IN-SPACe** signed an agreement with the Pixxel-led consortium **"Allied Orbits"** (Pixxel Space India, Piersight Space, SatSure Analytics, Dhruva Space) to invest over **₹1,200 crore** across 5 years to launch **12 indigenous Earth Observation satellites** (panchromatic, multispectral, hyperspectral, and microwave SAR).
 
 ---
 
@@ -147,6 +165,59 @@ A research team at **IIT Kanpur** used about **30 years** of satellite data in a
 
 February UP notes mentioned a semiconductor unit push in **Greater Noida (Gautam Buddh Nagar)** as North India’s first such unit. Treat the “first” claim carefully until the plant status is fully clear. Keep the place fact under [UP Special](08_UP_Special.md).
 
+### India-AI Impact Summit 2026 | New Delhi | 16–21 February 2026
+
+**What happened**
+The Government of India hosted the **India-AI Impact Summit 2026** at **Bharat Mandapam, New Delhi** from **16 to 21 February 2026**. This was the **first time** the summit was hosted by a Global South nation.
+
+**Core framework: Three Sutras & Seven Chakras**
+
+- **Three Guiding Sutras:**
+  1. **People:** AI must serve humanity in all its diversity, respecting cultural identities and leaving no one behind.
+  2. **Planet:** Resource-efficient AI development accelerating climate resilience and green computing.
+  3. **Progress:** Equitable distribution of AI benefits; democratising datasets, compute, and foundational models for healthcare, education, agriculture, and governance.
+- **Seven Action Chakras:**
+  1. *Human Capital:* Skilling and workforce transformation.
+  2. *Inclusion for Social Empowerment:* Preserving linguistic and cultural diversity.
+  3. *Safe and Trusted AI:* Safety evaluation, red-teaming, and auditing tools.
+  4. *Resilience, Innovation, and Efficiency:* Energy-efficient compute and algorithms.
+  5. *Science:* Accelerating scientific discovery and research.
+  6. *Democratizing AI Resources:* Public access to compute and datasets.
+  7. *AI for Economic Development & Social Good:* High-impact public sector deployments.
+- **Official Logo:** The **Ashoka Chakra**, symbolizing ethical governance, constitutional justice, and democratic values guiding India's digital trajectory.
+- **Global Launch:** Unveiled the **Global AI Impact Commons**, cataloguing 80+ real-world deployment stories across 30+ nations.
+
+### Bodhan AI & Bharat EduAI Stack | IIT Madras
+
+**What happened**
+At the Bharat Bodhan AI Conclave 2026 at Bharat Mandapam (12–13 February 2026), Union Education Minister **Dharmendra Pradhan** launched the **Bodhan AI Centre of Excellence** and initiated the **Bharat EduAI Stack**.
+
+**Core facts**
+- **Anchor Institution:** **IIT Madras** (established as the *IIT Madras Bodhan AI Foundation*).
+- **Core Architecture:** Conceived as an open-source **Sovereign Digital Public Infrastructure (DPI)** for education.
+- **Components:** Personalised generative AI student tutors, AI-assisted pedagogical support and lesson planning for teachers, automated institutional workflows, and learning analytics.
+
+### NIELIT Quantum & AI University Campus | Amaravati Quantum Valley
+
+- On **20 February 2026**, the National Institute of Electronics and Information Technology (**NIELIT**, under MeitY) signed an MoU with the Government of Andhra Pradesh to establish India's first dedicated **Quantum and Artificial Intelligence University Campus** in **Amaravati** (*Amaravati Quantum Valley*).
+
+### New Telescopes in Ladakh & COSMOS-2 | Union Budget 2026–27 Push
+
+The Union Budget 2026–27 announced dedicated capital support for 4 major ground-based astronomy facilities:
+
+1. **National Large Solar Telescope (NLST):**
+   - **Location:** **Merak**, near Pangong Lake, **Ladakh**.
+   - **Specs:** **2-metre-class** ground-based solar telescope observing in optical and near-infrared wavelengths.
+   - **Objective:** Resolving the origin, dynamics, and violent eruptions of solar magnetic fields with high spatial resolution.
+2. **National Large Optical-Infrared Telescope (NLOT):**
+   - **Location:** **Hanle, Ladakh** (near the Indian Astronomical Observatory).
+   - **Specs:** Flagship **13.7-metre segmented primary mirror** equipped with advanced adaptive optics, high-resolution spectrographs, and infrared imagers.
+3. **Upgrade of Himalayan Chandra Telescope (HCT):**
+   - **Location:** Hanle, Ladakh (altitude 4,500 m); remotely operated by the **Indian Institute of Astrophysics (IIA)** from CREST (Hosakote near Bengaluru).
+   - **Upgrade:** Upgraded from the existing 2-metre mirror to a **3.7-metre segmented optical-infrared telescope** tailored for multi-messenger astronomy and transient cosmic events.
+4. **COSMOS-2 Planetarium:**
+   - **Location:** **Amaravati, Andhra Pradesh**; established and implemented by the **Indian Institute of Astrophysics (IIA)**.
+
 ---
 
 ## March 2026
@@ -214,17 +285,38 @@ DRDO and the Navy tested an indigenous **air-droppable container** from a **P-8I
 ### Prototype Fast Breeder Reactor criticality | Kalpakkam | 6 April 2026
 
 **What happened**
-India’s **500 MWe Prototype Fast Breeder Reactor (PFBR)** at **Kalpakkam, Tamil Nadu** attained **first criticality** on **6 April 2026**. Criticality means the controlled fission chain reaction has started.
+India’s **500 MWe Prototype Fast Breeder Reactor (PFBR)** at **Kalpakkam, Tamil Nadu** attained **first criticality** on **6 April 2026**, initiating a self-sustaining nuclear chain reaction.
 
 **Core facts**
+- **Capacity & Builder:** **500 MWe** (megawatt electrical); constructed by **BHAVINI** (Bharatiya Nabhikiya Vidyut Nigam Limited) at the Kalpakkam Nuclear Complex.
+- **Global Milestone:** Once fully operational, India will become only the **second country in the world after Russia** to operate a commercial fast breeder reactor!
+- **Core Fuel & Coolant:** Uranium–Plutonium **Mixed Oxide (MOX)** fuel; cooled by liquid **sodium**.
+- **India's Three-Stage Nuclear Programme (Dr. Homi Bhabha):**
+  - **Stage 1 — PHWRs:** Pressurised Heavy Water Reactors using **natural uranium**; spent fuel yields **Plutonium-239**.
+  - **Stage 2 — FBRs (PFBR Milestone):** Fast Breeder Reactors fueled by Plutonium; breeds **Uranium-233** from surrounding **Thorium-232 blankets** while generating more fissile fuel than consumed.
+  - **Stage 3 — Thorium Reactors:** Harnesses India's vast domestic thorium reserves using bred Uranium-233 for indefinite energy self-reliance.
 
-- Capacity: **500 MWe**.
-- Place: **Kalpakkam**, Tamil Nadu.
-- Fuel type: Uranium–Plutonium **Mixed Oxide (MOX)**.
-- Coolant technology highlighted: liquid **sodium**.
-- The PFBR is the bridge in India’s **three-stage** nuclear programme toward later use of **thorium**.
-- In the longer plan, **Thorium-232** in the blanket can be converted into **Uranium-233**.
-- Built mainly with indigenous design and manufacturing.
+### Artemis II Mission | NASA | 1 April 2026
+
+**What happened**
+NASA launched the historic **Artemis II** crewed lunar flyby mission from the Kennedy Space Center on **1 April 2026**, sending humans beyond low Earth orbit toward the Moon for the first time in **53 years** (since Apollo 17 in December 1972).
+
+**Core facts**
+- **Type:** Crewed lunar flyby demonstration mission (slingshot around the Moon, not a landing).
+- **Launcher & Spacecraft:** Launched atop the **Space Launch System (SLS)** rocket; Orion spacecraft named **'Integrity'** by the crew.
+- **Engineering Validation:** Verified life support systems, deep-space navigation, manual flight control, and the critical **Avcoat** base heat shield during high-speed atmospheric re-entry.
+- **Next Step:** NASA lists **Artemis III** for 2027 as a low Earth orbit demo to test commercial lunar human landing systems from **SpaceX** and **Blue Origin**.
+
+### SMOPS-2026 (Spacecraft Mission Operations) | Bengaluru | 8–10 April 2026
+
+**What happened**
+The 2nd edition of the **International Conference on Spacecraft Mission Operations (SMOPS-2026)** was held in **Bengaluru** from **8 to 10 April 2026**.
+
+**Core facts**
+- **Theme:** *"Innovative Operations for Smart and Sustainable Space Mission Management – Next Generation"*.
+- **Organisers:** Jointly organised by **ISRO**, the **Astronautical Society of India (ASI)**, and the **International Academy of Astronautics (IAA)**.
+- **Inauguration:** Inaugurated by Shri **A. S. Kiran Kumar**, former Chairman of ISRO.
+- **Scope:** Mission autonomy, automated constellation management, deep-space communication, and space robotics.
 
 ### Chandrayaan-5 (LUPEX Mission) | April 2026
 
@@ -346,6 +438,40 @@ India's first indigenous **stratospheric super-pressure balloon (SPB)**, named *
 - **Full Form:** **Solar wind Magnetosphere Ionosphere Link Explorer**.
 - **Objective:** Deep study of solar wind interactions with Earth's magnetosphere and cosmic weather.
 
+### India's First Orbital Data Centre Satellite — Pathfinder | May 2026
+
+**What happened**
+On **4 May 2026**, private space-tech firm **Pixxel** and Indian AI startup **Sarvam** announced a strategic partnership to build **Pathfinder**, India's first orbital data centre satellite.
+
+**Core facts**
+- **Satellite Class & Launch:** Planned as a **200 kg-class satellite** scheduled for launch in **Q4 2026**.
+- **Manufacturing:** Built at Pixxel's **Gigapixxel** manufacturing facility (engineered to scale satellite production to 100 units).
+- **Pixxel's Role:** Designs, builds, launches, and operates the satellite platform; integrates hyperspectral imaging sensors.
+- **Sarvam's Role:** Delivers the full-stack sovereign AI platform running directly on the satellite's GPU layer for real-time onboard training and edge inference in orbit.
+- **Strategic Impact:** Eliminates the latency of sending massive raw imagery to terrestrial ground stations; guarantees national AI sovereignty in space edge computing.
+
+### Mission Drishti: World's First OptoSAR Satellite | May 2026
+
+**What happened**
+Indian private space startup **GalaxEye** developed **Mission Drishti**, hailed by the Prime Minister's Office as the **world's first OptoSAR satellite** and the **largest privately built satellite in India**.
+
+**Core facts**
+- **OptoSAR Innovation:** Overcomes the trade-off of Earth observation by integrating both **Multispectral Imaging (MSI)** optical sensors and **Synthetic Aperture Radar (SAR)** sensors on a single satellite bus.
+- **Advantage:** Optical sensors provide high-resolution, intuitive visual clarity but are blocked by clouds, haze, rain, and night; SAR penetrates clouds and darkness but lacks optical intuition. OptoSAR delivers synchronized, all-weather, analysis-ready imagery.
+
+### Chandrayaan-3 Hop Experiment & Regolith Discoveries | May 2026
+
+**What happened**
+On **18 May 2026**, ISRO scientists published comprehensive peer-reviewed findings from the historic **Hop experiment** conducted by the **Vikram Lander** on the lunar South Pole.
+
+**Core facts**
+- **The Maneuver:** Before shutting down, Vikram reignited its liquid thrusters, performed a controlled **50 cm hop**, and relocated; its **ChaSTE** (Chandra's Surface Thermophysical Experiment) thermal probe re-penetrated virgin regolith at the new site.
+- **Major Scientific Insights:**
+  1. **Layered Stratigraphy:** The lunar regolith within the top **6.5 cm** is not homogenous dust; it exhibits distinct stratification with sharp physical and thermal boundaries.
+  2. **Geotechnical Compaction:** Soil density and cohesion increase drastically with depth — transitioning from loose dust to densely packed, sticky regolith.
+  3. **Twilight Thermal Shadowing:** Micro-depressions and local craters cast sharp thermal shadows, causing surface temperatures to plummet much faster than predicted by global lunar climate models.
+  4. **Plume Erosion:** The engine plume stripped away the upper **3 cm** of regolith, exposing and slightly compacting the deeper cohesive substratum.
+
 ---
 
 ## June 2026
@@ -383,6 +509,31 @@ The Defence Research and Development Organisation (**DRDO**) and the **Indian Ai
 ### Soft space–book hybrid
 
 Group Captain **Shubhanshu Shukla**’s memoir coverage recalled him as the first Indian citizen on the **International Space Station** (Axiom-4). Book card → [Books](12_Books_Culture_CA.md).
+
+### Bharat Innovates 2026 | Nice, France | 14–16 June 2026
+
+**What happened**
+The **Bharat Innovates 2026** deep-tech summit concluded in **Nice, France** (14–16 June 2026), marking a major milestone in global institutional partnerships and commercial venture backing for Indian indigenous science.
+
+**Core facts**
+- **Participants:** Showcased **120 curated Indian DeepTech startups** and **45 advanced technology projects** from 15 premier Indian institutions (over 60% incubated at IITs and IISc).
+- **Major Commercial Partnerships:**
+  - **Agnikul Cosmos** signed agreements with **ICEYE** (Finland) and **Safran** (France).
+  - **Detect Technologies** partnered with **TotalEnergies**.
+  - **TuTr Hyperloop** collaborated with **thyssenkrupp**.
+  - **iElectron Technologies** partnered with **ALTEN**.
+  - Confirmed strategic angel and institutional investment into **The ePlane Company**.
+
+### India's First Advanced 3D Semiconductor Packaging Unit | Bhubaneswar, Odisha
+
+**What happened**
+The foundation stone for India's first advanced **3D semiconductor chip packaging facility** based on glass substrates was laid in **Bhubaneswar, Odisha**.
+
+**Core facts**
+- **Promoter & Project:** Promoted by **3D Glass Solutions** under the *Heterogeneous Integration Packaging Solutions* project.
+- **Facility Type:** Greenfield, vertically integrated advanced packaging and embedded glass-substrate ATMP (Assembly, Testing, Marking, and Packaging) unit.
+- **Financial Outlay:** Total project investment of **₹1,943.53 crore** approved under Phase 1 of the **India Semiconductor Mission (ISM)**.
+- **Strategic Milestone:** Employs glass instead of traditional organic substrates for 3D heterogenous chip stacking, drastically improving heat dissipation and high-frequency performance; makes **Odisha the first State** to host both an approved compound semiconductor fab and a 3D glass packaging plant.
 
 ---
 
