@@ -884,6 +884,33 @@ The **SHANTI Act, 2025** (received Presidential assent in December 2025) overhau
 - **Organizers**: Jointly organized by Government of Telangana, TVAGA (Telangana VFX, Animation and Gaming Association), and the Union Ministry of Information & Broadcasting.
 - **Strategic Announcement**: Announced the establishment of the **Indian Institute of Creative Technologies (IICT)** in Hyderabad to serve as the premier national institute for AVGC-XR (Animation, Visual Effects, Gaming, Comics, and Extended Reality).
 
+### Project Samudrayaan & Deep Ocean Mission (MATSYA-6000)
+- **Deep Ocean Dives**: Two Indian aquanauts — **Commander (Retd) Jatinder Pal Singh** and **R. Ramesh** — successfully conducted preparatory deep-ocean training dives into the Atlantic Ocean aboard France's research submersible ***Nautile***.
+- **Mission Identity**: **Samudrayaan** is India's first manned deep-sea exploration mission, spearheaded by the Ministry of Earth Sciences (MoES) under the flagship **Deep Ocean Mission**.
+- **Manned Vehicle**: **MATSYA-6000**, a deep-submergence spherical vehicle designed to carry **3 humans** to an extreme ocean depth of **6,000 metres (6 km)**.
+- **Engineering Specifications**:
+  - Hull Geometry: Perfect sphere of **2,260 mm internal diameter** with **80 mm thick walls**.
+  - Metallurgy: Forged from ultra-high-strength **Titanium alloy (Ti6Al4V ELI grade)**.
+  - Pressure Tolerance: Engineered to withstand crushing hydrostatic pressures up to **600 bar** (600 times atmospheric pressure) at near-freezing ocean temperatures of $-3^\circ\text{C}$.
+- **Strategic Objectives**: Underwater scientific exploration, polymetallic nodules / gas hydrates survey, deep-sea mining technology, and benthic ocean robotics.
+
+### ICGS Samudra Pratap — India's First Indigenous Pollution Control Vessel
+- **Commissioning**: Formally commissioned by Raksha Mantri **Rajnath Singh** on **5 January 2026** in Goa.
+- **Shipbuilding & Fleet Standing**: Built by **Goa Shipyard Limited (GSL)**; the first of two dedicated Pollution Control Vessels (PCVs); boasts over **60% indigenous content** and stands as the **largest vessel in the Indian Coast Guard (ICG) fleet to date**.
+- **Operational Profile**: Engineered with state-of-the-art ocean containment booms, oil recovery skimmers, chemical dispersant spraying gear, dynamic positioning systems, and firefighting capabilities to neutralize offshore marine ecological disasters.
+
+### 16th Assembly of the International Renewable Energy Agency (IRENA)
+- **Dates & Venue**: Concluded on **12 January 2026** in **Abu Dhabi, United Arab Emirates (UAE)**.
+- **Assembly Theme**: *"Powering Humanity: Renewable Energy for Shared Prosperity"*.
+- **Youth Leadership**: Convened the IRENA Youth Forum with delegates from over 60 countries to advance digital technology and youth entrepreneurship in the clean energy transition.
+
+### Green Mobility Initiatives in Hansalpur (Gujarat)
+- **Event Date**: **26 August 2025** in **Hansalpur, Ahmedabad district, Gujarat**.
+- **Inaugurated by**: Prime Minister **Narendra Modi**.
+- **Technological Breakthroughs**:
+  1. Inaugurated localized commercial manufacturing of advanced **hybrid battery electrodes** at the **TDS Lithium-Ion Battery Plant**.
+  2. Flagged off global exports of Suzuki's first Made-in-India global Battery Electric Vehicle (BEV) — the **"e-VITARA"**.
+
 ---
 
 ## Practice Zone — UPPCS Format

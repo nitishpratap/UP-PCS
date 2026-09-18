@@ -332,6 +332,17 @@ The **International Booker Prize 2026** went to **Taiwan Travelogue** by **Yáng
 
 - The **2026 Pulitzer Prizes** were announced in early May. Keep a named journalism winner only if a stem needs one exact byline.
 
+### Whitley Award 2026 ("Green Oscar") | May 2026
+
+**What happened**
+Indian wildlife biologist and conservationist **Parveen Shaikh** won the prestigious **Whitley Award 2026**, widely celebrated internationally as the **"Green Oscar"**.
+
+**Core facts**
+- **Recipient**: **Parveen Shaikh** (associated with the **Bombay Natural History Society - BNHS**).
+- **Species Protected**: Endangered **Indian Skimmer** (*Rynchops albicollis*), a distinct riverine bird with a specialized knife-like bill.
+- **Conservation Methodology**: Community-led conservation mobilizing riverside villagers as grassroots "Guardians" to protect vulnerable sandbar nesting colonies from cattle trampling, stray dogs, and sudden upstream reservoir releases.
+- **Geographical Footprint**: Successfully scaling the community model along the **Ganga River to Prayagraj, Uttar Pradesh**.
+
 ---
 
 ## June 2026

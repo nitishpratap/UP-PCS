@@ -515,6 +515,129 @@ First national guide to India’s grasslands and open natural ecosystems launche
   - Batch 1: **8 cheetahs from Namibia** (released September 2022).
   - Batch 2: **12 cheetahs from South Africa** (released February 2023).
   - Batch 3: **9 cheetahs from Botswana** (2026).
+- **Cub Births & Population Update (March–June 2026)**:
+  - Female cheetah **Jwala** (formerly **Siyaya**, Namibian cheetah brought in Sep 2022) gave birth to **5 healthy cubs** at Kuno on **9 March 2026** (her 3rd litter in India, 10th successful litter under the reintroduction project).
+  - Raised the total count of India-born cheetah cubs to **33**.
+  - **Translocation Flight**: The 9 Botswana cheetahs (6 females, 3 males) were donated from Mokolodi Nature Reserve during President Droupadi Murmu's state visit, airlifted by IAF from Gaborone to Gwalior, and ferried by helicopters to Kuno on **28 February 2026**.
+  - **Current Total Count (June 2026)**: Total cheetah population stands at **52** (**49 at Kuno National Park** and **3 at Gandhi Sagar Wildlife Sanctuary, MP**).
+  - Second Home: **Gandhi Sagar Wildlife Sanctuary (Mandsaur & Neemuch districts, MP)** operationalized as an additional habitat.
+
+### NHAI "Bee Corridors" Initiative (February 2026)
+- **Launch Date**: **17 February 2026** by the National Highways Authority of India (**NHAI**).
+- **Paradigm Shift**: Transitioning highway roadside greening from purely ornamental beautification to **ecological pollinator corridors**.
+- **Execution**: Planting native pollinator-friendly flowering shrubs, nectar-yielding flora, and nesting micro-habitats along national highway medians and right-of-ways (expanding the Green Highways Policy 2015).
+
+### State of India's Environment (SOE) 2026 Report | CSE
+- **Publisher**: **Centre for Science and Environment (CSE)** and *Down to Earth* magazine (released 25 February 2026 at the Anil Agarwal Dialogue 2026 in Nimli, Alwar, Rajasthan).
+- **Extreme Weather Shocks**:
+  - 2025 witnessed the highest frequency and severity of extreme weather disasters in 4 years.
+  - Between 1 January and 30 November 2025, extreme weather events struck on **99% of days (332 out of 334 days)** in India, claiming 4,421 lives and devastating **17.41 million hectares of standing crop area**.
+  - Worst hit States: **Himachal Pradesh** (267 disaster days), **Kerala** (173 days), **Madhya Pradesh** (162 days).
+- **Air Quality & Ocean Stress**:
+  - Only **15% of India's population (~200 million people)** resides within 10 km of a continuous ambient air quality monitoring station (CAAQMS); **85% (>1.2 billion people)** live outside reliable monitoring.
+  - Global ocean acidity has surged by **30% to 40%** since the industrial era.
+
+### India's 7th National Report (NR-7) to the Convention on Biological Diversity (CBD)
+- **Submission**: Submitted by MoEFCC on **26 February 2026** (ahead of the 28 February statutory deadline under Article 26 of the CBD).
+- **Framework**: Indicator-based assessment deploying **142 national indicators mapped across 23 National Biodiversity Targets (NBTs)**, aligned with the Kunming-Montreal Global Biodiversity Framework (KM-GBF).
+- **Key National Baselines**:
+  - **Recorded Forest Area (RFA)**: **7,75,377 sq km** (of which 5,20,365 sq km is under actual forest cover; up by 1,445.81 sq km over 2021).
+  - **Wetland Extent**: Latest high-resolution NWIA/SARITA mapping estimates **3.58 million wetlands** covering **16.89 million hectares (5.12% of India's geographical area)** (up from 15.98M ha in Wetland Atlas 2017).
+  - **Agroforestry**: Covers **8.65% of total geographical area (28.42 million hectares)**.
+
+### MoEFCC Year-End Review 2025 — Wildlife & Environmental Milestones
+- **Ek Ped Maa Ke Naam**: **262.4 crore saplings planted** as of 24 December 2025; digitally monitored on the **Meri LiFE portal**.
+- **Project Tiger Milestone**:
+  - India expanded its network to **58 Tiger Reserves** covering ~85,000 sq km (up from 46 reserves in 2014).
+  - New Tiger Reserve Added: **Madhav Tiger Reserve (Shivpuri district, Madhya Pradesh)**.
+  - 6th cycle of All India Tiger Estimation initiated.
+- **Project Elephant**:
+  - Elephant Reserves expanded to **33** (covering ~8,610 sq km additional protected habitat).
+  - **150 elephant corridors** formally ground-truthed across 15 states.
+  - Fatal conflict ex-gratia compensation enhanced: **Doubled from ₹5 lakh to ₹10 lakh**.
+  - Captive elephant DNA profiling instituted via the **Gaj Soochna App**.
+- **International Big Cat Alliance (IBCA)**:
+  - Framework Agreement entered into legal force on **23 January 2025**; membership expanded to 18 nations for conserving 7 big cats (Tiger, Lion, Leopard, Snow Leopard, Cheetah, Jaguar, Puma).
+- **National Board for Wildlife (NBWL)**: 7th meeting chaired by PM Modi at **Sasan, Gir (Gujarat)** on 3 March 2025.
+- **National Clean Air Programme (NCAP)**:
+  - 130 non-attainment cities covered; ₹13,415 crore performance-linked funds disbursed.
+  - 103 cities achieved PM10 reductions compared to 2017–18; 64 cities reduced PM10 by >20%; 22 cities achieved NAAQS compliance.
+- **Nagar Van & MISHTI Schemes**:
+  - **Nagar Van Yojana**: 620 urban forest projects sanctioned (₹654 crore outlay).
+  - **MISHTI (Mangrove Initiative for Shoreline Habitats & Tangible Incomes)**: 22,560 hectares of degraded mangrove ecosystems restored (4,536 ha restored in 2025 alone).
+- **Blue Flag Beaches**: **18 beaches across 7 coastal States and 4 UTs** hold international Blue Flag certification.
+- **India's Paris NDC Achievements**:
+  - Reduced GDP emission intensity by **36% from 2005 levels by 2020** (ahead of 45% by 2030 target).
+  - Non-fossil installed electric capacity surpassed **50% in June 2025** (ahead of 50% by 2030 target).
+  - Cumulative additional carbon sink reached **2.29 billion tonnes CO2e** (target: 2.5–3.0 billion tonnes by 2030).
+
+### 30th Conference of the Parties to the UNFCCC (COP30 | Belém, Brazil)
+- **Dates & Venue**: Held from **10 to 21 November 2025** in **Belém (Amazon region), Brazil**.
+- **Core Theme & Architecture**: "Implementation-First" agenda centered on the **COP30 Global Climate Action Agenda (GCAA)** with 30 activation groups across 482 initiatives.
+- **Key Outcomes — The Belém Package**:
+  - **Global Mutirão Decision**: Derived from the Brazilian indigenous term *"Mutirão"* (collective community action for shared benefit, identical to India's *"Shramdaan"*).
+  - **Climate Finance Mandate**: Strengthened interpretation of **Article 9.1 of the Paris Agreement** ("developed country Parties shall provide financial resources to developing country Parties"). Two-year Climate Finance Work Programme launched.
+  - **Tropical Forest Forever Facility (TFFF)**: Brazil-championed $125 billion blended finance facility paying countries performance-based returns for preserving tropical forest biomes.
+  - **Belém 4x Pledge**: Endorsed by 23 nations to **quadruple sustainable low-carbon fuel capacity by 2035** (green hydrogen, advanced second-generation biofuels, and e-fuels), tracked by the IEA.
+  - **Belém Health Action Plan**: World's first dedicated international climate adaptation plan for public health ($300 million initial mobilization).
+- **India's Assertive Stance**:
+  - Firmly demanded **$1.3 trillion annually** in public grant-equivalent climate finance from developed nations under Article 9.1.
+  - Vehemently opposed unilateral carbon border measures like the EU's **CBAM (Carbon Border Adjustment Mechanism)** as protectionist trade barriers violating Common But Differentiated Responsibilities (CBDR-RC).
+  - Next host: **COP31 (2026)** to be co-hosted by **Türkiye and Australia**.
+
+### Global Methane Status Report (Launched at COP30)
+- **Published by**: UNEP and the Climate and Clean Air Coalition (CCAC).
+- **Global Methane Pledge (GMP)**: Includes 159 signatory countries + European Commission, covering ~57% of global anthropogenic methane emissions.
+- **Source Breakdown**: Anthropogenic methane originates from **Agriculture (42%)**, **Energy/Fossil Fuels (38%)**, and **Waste (20%)**.
+- **Mitigation Potential**: G20+ countries generate 65% of global methane emissions and hold 72% of cost-effective abatement potential.
+
+### UNEP Emissions Gap Report 2025 (16th Edition: "Off Target")
+- **Released on**: 4 November 2025 by the United Nations Environment Programme (UNEP).
+- **Emissions Peak**: Global anthropogenic greenhouse gas emissions reached a record **57.7 GtCO2e in 2024** (+2.3% surge over 2023).
+- **Driver of Surge**: Net Land Use, Land-Use Change and Forestry (LULUCF) emissions spiked by ~21% in 2024 (accounting for 53% of the total emissions growth).
+- **Temperature Projections**: Current policies lead to catastrophic global warming of **~2.8°C**; full implementation of unconditional NDCs leads to **~2.5°C**, and conditional NDCs to **~2.3°C** (far above the Paris Agreement's 1.5°C threshold).
+- **Emissions Gap for 2030**: 12 GtCO2e gap remains for a 2°C pathway; 20 GtCO2e gap remains for 1.5°C.
+
+### FAO Global Forest Resources Assessment (GFRA) 2025
+- **Publisher**: **Food and Agriculture Organization (FAO)** of the United Nations (published quinquennially / every 5 years; covers 1990–2025).
+- **Global Forest Envelope**: Earth's total forest area stands at **4.14 billion hectares** (~32% of global land mass).
+- **Deforestation Deceleration**: Net annual forest loss decreased from 10.7 million ha/year in the 1990s to **4.12 million ha/year in 2015–2025**.
+- **Forest Wealth Concentration**: Over 54% of global forests are concentrated in five mega-forest nations: **1. Russia, 2. Brazil, 3. Canada, 4. United States, 5. China**.
+- **India's Global Standings**:
+  - **Total Forest Area**: India holds **72.7 million hectares (~2% of world's forest)**, advancing to **9th position globally** (overtaking previous 10th spot).
+  - **Annual Net Forest Gain**: India retained **3rd position worldwide** in average annual net forest area gain.
+  - **Carbon Sequestration**: India's forests rank **5th globally** among national forest carbon sinks, capturing an estimated **150 Mt of CO2 annually** (2021–2025).
+
+### Ramsar Convention COP15 (Victoria Falls, Zimbabwe)
+- **Dates & Venue**: Held from **23 to 31 July 2025** in **Victoria Falls, Zimbabwe**.
+- **Conference Theme**: *"Protecting Wetlands for Our Common Future"*.
+- **Strategic Plan**: Adopted the **5th Strategic Plan (2025–2034)** featuring 4 systemic goals and 18 operational targets.
+- **Accreditation of Indian Cities**: **Indore (Madhya Pradesh)** and **Udaipur (Rajasthan)** became India's **first-ever officially accredited "Wetland Cities"** under the international Wetland City Accreditation (WCA) scheme!
+- **Historic Indian Resolution**: India tabled a landmark resolution titled *"Promoting Sustainable Lifestyles for the Wise Use of Wetlands"*, inspired by PM Modi's **Mission LiFE**, adopted unanimously by all 172 member states.
+- **Next COP16**: Scheduled for **July 2028 in Panama City, Panama**.
+
+### Cold Desert Biosphere Reserve (Himachal Pradesh) Added to UNESCO WNBR
+- **Global Recognition**: Included in **UNESCO's World Network of Biosphere Reserves (WNBR)** during the **5th World Congress of Biosphere Reserves (37th MAB ICC session) in Hangzhou, China**.
+- **National Tally**: India now possesses **13 UNESCO MAB-recognized Biosphere Reserves** (out of 18 national Biosphere Reserves).
+- **Geographic Extent**: Spans **7,770 sq km** across Spiti Valley (altitudes 3,300 m to 6,600 m); India's first high-altitude cold desert biosphere reserve in the UNESCO network.
+- **Protected Areas Included**: Encompasses **Pin Valley National Park**, **Kibber Wildlife Sanctuary**, **Chandratal Wildlife Sanctuary/Wetland**, and Sarchu.
+
+### Sundarbans Tiger Reserve (STR) Becomes India's 2nd Largest Tiger Reserve
+- **Sanction Date**: Approved by the National Board for Wildlife (NBWL) on **19 August 2025**.
+- **Expansion Area**: Added **1,044.68 sq km** of contiguous mangrove forests (Matla, Raidighi, and Ramganga ranges of South 24 Parganas) to Sundarbans Tiger Reserve.
+- **Total Area & National Rank**: Total area expanded to **2,584.89 sq km**, making STR the **2nd largest tiger reserve in India** (behind **Nagarjunsagar-Srisailam Tiger Reserve** in Andhra Pradesh at 3,296 sq km).
+
+### 'Matri Van' Urban Forest Initiative (Gurugram, Haryana)
+- **Launch**: Inaugurated on **2 August 2025** in **Gurugram** by Union Ministers Bhupender Yadav and Manohar Lal under the ***Ek Ped Maa Ke Naam*** campaign.
+- **Scale & Ecological Remediation**: 750-acre thematic urban forest established in the Aravalli Hills along the Gurugram–Faridabad Road; eradicates invasive Kabuli Kikar (*Prosopis juliflora*) and re-establishes native Dhak and Amaltash forests across 10 specialized theme groves (Bodhi Vatika, Bambusetum, Aravalli Arboretum, Pushp Vatika, Sugandh Vatika, Nakshatra Vatika, etc.).
+
+### India's First Centre of Excellence for Hornbill Conservation (Tamil Nadu)
+- **Location**: Established by Tamil Nadu Forest Department at **Anamalai Tiger Reserve (ATR)** in **Coimbatore district**.
+- **Target Species**: Focused on the four indigenous hornbill species of the Western Ghats: **Great Hornbill**, **Malabar Grey Hornbill**, **Malabar Pied Hornbill**, and **Indian Grey Hornbill** (venerated as the "farmers of the forest" for vital canopy seed dispersal).
+
+### National Red List Roadmap and Vision 2025–2030
+- **Unveiled at**: IUCN World Conservation Congress 2025 in Abu Dhabi by MoS Kirti Vardhan Singh.
+- **Partners**: Jointly developed by MoEFCC, **Zoological Survey of India (ZSI)**, **Botanical Survey of India (BSI)**, and IUCN's Centre for Species Survival to create an authentic indigenous red-list threat registry for Indian flora and fauna.
 
 ### Namo Oxygen Parks (New Delhi)
 - **Inauguration**: On World Environment Day (**5 June 2026**), Union Environment Minister Bhupender Yadav and Delhi Chief Minister Rekha Gupta inaugurated **18 Namo Oxygen Parks** across Delhi under the nationwide ***Ek Ped Maa Ke Naam*** campaign.

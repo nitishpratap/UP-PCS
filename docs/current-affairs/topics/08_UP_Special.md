@@ -589,6 +589,58 @@ The UP Cabinet cleared two big road projects to grow the state’s expressway ne
 #### IQAir World Air Quality Report 2025 — Loni (UP) Ranked #1 Most Polluted Globally
 - **Global #1 City**: **Loni (Ghaziabad district, Uttar Pradesh)** was ranked as the **world's most polluted city** in the IQAir 2025 Report with an annual average PM2.5 concentration of **112.5 $\mu\text{g/m}^3$** (far exceeding the WHO annual guideline of 5 $\mu\text{g/m}^3$).
 
+#### Ganga Expressway Inauguration (29 April 2026 | Hardoi)
+- **Inaugurated by**: Prime Minister **Narendra Modi** on **April 29, 2026** in **Hardoi district**.
+- **Foundation Stone**: Laid on **18 December 2021** in Shahjahanpur; construction commenced April 2022 under a **Public-Private Partnership (PPP)** framework.
+- **Length & Alignment**: **594 km long**, access-controlled greenfield expressway corridor with 6 lanes (expandable to 8 lanes), designed for speeds up to 120 km/h.
+- **Total Project Cost**: Estimated at **₹36,230 crore**.
+- **12 Traversed Districts**: Traverses 12 districts from Western to Eastern Uttar Pradesh:
+  1. **Meerut** (Starting point)
+  2. **Hapur**
+  3. **Bulandshahr**
+  4. **Amroha**
+  5. **Sambhal**
+  6. **Badaun**
+  7. **Shahjahanpur**
+  8. **Hardoi** (Inauguration venue)
+  9. **Unnao**
+  10. **Rae Bareli**
+  11. **Pratapgarh**
+  12. **Prayagraj** (Terminating point).
+
+#### North Tech Symposium 2026 (Prayagraj, UP)
+- **Inaugurated by**: Raksha Mantri **Rajnath Singh** on **May 4, 2026** in **Prayagraj**.
+- **Central Theme**: *"Raksha Triveni Sangam – Where Technology, Industry & Soldiering Converge"*.
+- **Organizers**: Jointly organized by the **Northern Command and Central Command** of the Indian Army, alongside the **Society of Indian Defence Manufacturers (SIDM)**.
+
+#### India's First Basmati & Organic Training-cum-Demo Farm (Pilibhit, UP)
+- **Institutional Agreement**: The Agricultural and Processed Food Products Export Development Authority (**APEDA**) signed a **70-year long-term lease agreement** to establish India's first integrated Basmati and organic training-cum-demonstration farm in **Pilibhit district, Uttar Pradesh**.
+- **Mandate**: Advance sustainable export-grade organic Basmati cultivation, certified farm training, and zero-residue agriculture.
+
+#### Parveen Shaikh Wins 2026 Whitley Award ("Green Oscar")
+- **Prestigious Honor**: **Parveen Shaikh** won the **2026 Whitley Award** (commonly known as the **"Green Oscar"**).
+- **Conservation Achievement**: Spearheaded community-led conservation of the endangered **Indian Skimmer** (*Rynchops albicollis*).
+- **Institutional Link & UP Geography**: Associated with the **Bombay Natural History Society (BNHS)**; her highly successful "Guardian" conservation model is being expanded **along the Ganga River to Prayagraj, Uttar Pradesh**.
+
+#### Minimum Wage Revision in Uttar Pradesh (April 2026)
+- **Statutory Notification**: Notified by Uttar Pradesh Government on **17 April 2026** with retrospective effect from **1 April 2026**, under the **Minimum Wages Act, 1948** and the **United Provinces Industrial Disputes Act, 1947**.
+- **Three Geographical Tiers**:
+  - **Category I**: **Gautam Buddha Nagar and Ghaziabad** (industrial concentration & high cost of living).
+  - **Category II**: Districts containing **Municipal Corporations** (*Nagar Nigams*).
+  - **Category III**: Remaining districts of the State.
+- **Category I Monthly Wage Slabs** (Basic + Variable Dearness Allowance):
+  - *Unskilled Labour*: **₹13,690**
+  - *Semi-skilled Labour*: **₹15,059**
+  - *Skilled Labour*: **₹16,868**.
+
+#### Fruit Horizon 2026 Conclave (Lucknow, UP)
+- **Dates & Venue**: Held on **6–7 May 2026** in **Lucknow**.
+- **Scope**: Two-day national conclave focused on transforming India into a global export powerhouse in premium horticulture, GI-tagged subtropical fruits, and cold-chain infrastructure.
+
+#### 'Visit My State' Tourism Campaign (Uttar Pradesh)
+- **Launch Date**: Launched on **13 May 2026** by Uttar Pradesh Tourism Minister **Jaiveer Singh**.
+- **Citizen Benefit**: State-run museums across Uttar Pradesh offer **free entry to children and families for two months** to boost domestic heritage tourism and empower local artisans.
+
 ---
 
 ## Practice Zone — UPPCS Format
