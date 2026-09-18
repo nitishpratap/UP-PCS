@@ -92,7 +92,7 @@
 
 **Identity:** Brundtland 1987 | Three pillars | Inter/intra-generational equity | Indicators | Natural capital
 
-![Sustainable Development: Nested Paradigms, SDG Wedding Cake and Circular Economy](images/env_ch15_01_sustainable_development_sdg_framework.png)
+![Sustainable Development: Core Principles & NITI Aayog SDG Index](images/env_ch15_01_sustainable_development_principles_niti_index.png)
 
 - **Sustainable development** means meeting the needs of the present **without compromising** the ability of future generations to meet their own needs.
 - This definition comes from the **Brundtland Report (1987)** (ब्रंटलैंड रिपोर्ट), formally titled ***Our Common Future***, by the **World Commission on Environment and Development (WCED)** chaired by **Gro Harlem Brundtland**.
@@ -159,6 +159,8 @@ D. A true, R false
 ## 15.2 SDGs & SDGs 2030
 
 **Identity:** 17 goals | 2030 deadline | 2015 adoption | MDGs replaced | NITI coordination
+
+![The 17 Sustainable Development Goals & Circular Economy (6R Framework)](images/env_ch15_02_sdg_17_goals_matrix_circular_economy.png)
 
 - The **2030 Agenda for Sustainable Development** was adopted by all UN member states on **25 September 2015**.
 - It sets **17 Sustainable Development Goals (SDGs) (सतत विकास लक्ष्य)** with **169 targets** and **231 indicators** to be achieved by **2030**.

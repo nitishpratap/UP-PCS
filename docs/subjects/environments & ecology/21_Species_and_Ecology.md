@@ -87,7 +87,7 @@ Red Data Book (रेड डेटा बुक) | IUCN (आईयूसीए�
 
 **Identity:** National endangered-species catalogue | BSI plants | ZSI animals | Kolkata HQ | ≠ IUCN Red List
 
-![Ecological Systems, Species Adaptations and Ecosystem Transitions](images/env_ch21_01_species_ecology_wetlands_mangrove_coral.png)
+![Ecological Species Roles: Keystone, Umbrella & Indicator](images/env_ch21_01_species_ecological_roles_taxonomy.png)
 
 - A **Red Data Book** lists **endangered, rare, and threatened species (संकटग्रस्त प्रजातियां)** of a country or region — "red" signals conservation urgency.
 - In **India**, **BSI (Botanical Survey of India)** publishes the **Red Data Book of Indian Plants**.
@@ -189,6 +189,8 @@ D. 1 and 2
 ## 21.4 Mangroves
 
 **Identity:** Halophytes | Coastal tidal | Pneumatophores | Sundarbans | MISHTI 2023-24
+
+![Coastal & Aquatic Ecosystems: Wetlands, Mangroves & Corals](images/env_ch21_02_wetlands_mangroves_coral_reefs_ecology.png)
 
 - **Mangroves** are **salt-tolerant** trees and shrubs growing in **intertidal mudflats** of tropical and subtropical coasts.
 - **Pneumatophores** (vertical aerial breathing roots) and **prop roots** (Rhizophora) enable gas exchange in waterlogged anaerobic soil.

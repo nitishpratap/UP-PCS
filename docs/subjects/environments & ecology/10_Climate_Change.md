@@ -116,7 +116,7 @@ Global Warming (भूमंडलीय तापन) | Greenhouse Effect | Gre
 
 **Identity:** Fourier 1820s | Shortwave in · longwave out | Natural vs enhanced | ≠ ozone depletion (ओजोन क्षरण)
 
-![Planetary Radiation Budget, Enhanced Greenhouse Effect & Radiative Forcing](images/env_ch10_01_greenhouse_effect_radiative_forcing.png)
+![Planetary Radiation Budget & Natural vs Enhanced Greenhouse Effect](images/env_ch10_01_greenhouse_radiation_budget.png)
 
 - The **greenhouse effect** is the process by which atmospheric gases absorb and re-emit **outgoing infrared radiation**, warming the surface and lower atmosphere.
 - **Joseph Fourier (1820s)** postulated the greenhouse-effect concept.
@@ -135,6 +135,8 @@ Global Warming (भूमंडलीय तापन) | Greenhouse Effect | Gre
 ## 10.3 Greenhouse Gases (GHGs)
 
 **Identity:** Kyoto basket | WMO share order | Argon/H₂/propane not GHG | Direct vs indirect
+
+![Kyoto Protocol 6 Basket GHGs & Global Warming Potential](images/env_ch10_02_kyoto_ghgs_gwp_matrix.png)
 
 - **Greenhouse gases** absorb and emit infrared radiation in the atmosphere.
 - **CO₂** is the main anthropogenic driver by concentration and total forcing. IPCC-style forcing share is often ~**76%**; older WMO-bulletin style relative shares used in many Indian papers are **CO₂ ~64%, CH₄ ~19%, N₂O ~6%, CFCs + others ~11%**.

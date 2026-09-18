@@ -83,7 +83,7 @@ BSI | ZSI | FSI | FRI | WII | NBA | SBB | BMC | NBPGR
 
 **Identity:** 1890 | Kolkata | Plants only | Flora of India | Red Data Book (plants)
 
-![India's Ecological Research Architecture and Statutory Biodiversity Ladder](images/env_ch28_01_india_environmental_research_institutions_hierarchy.png)
+![India's Ecological Research Architecture & Apex Surveys](images/env_ch28_01_forestry_ecological_survey_institutions.png)
 
 - **BSI** is the national organisation for survey, taxonomy, and documentation of **Indian plant diversity**.
 - Established **1890**; headquarters **Kolkata** (Central National Herbarium (पादप संग्रहालय), Shibpur, Howrah); under **MoEFCC** (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय).
@@ -176,6 +176,8 @@ Options: A. 1 and 2 B. Only 3 C. 2 and 3 D. Only 1
 ## 28.6 National Biodiversity Authority (NBA) (राष्ट्रीय जैव विविधता प्राधिकरण)
 
 **Identity:** BDA 2002 | Chennai HQ | Foreign access + ABS | ≠ PBR preparer
+
+![Biological Diversity Act 2002 — Three-Tier Statutory Governance Ladder](images/env_ch28_02_biological_diversity_act_three_tier_ladder.png)
 
 - **NBA** is the national statutory body under the **Biological Diversity Act, 2002**.
 - Headquarters: **Chennai, Tamil Nadu (नाडु)** — **not New Delhi**.

@@ -60,7 +60,7 @@ Wildlife Conservation | Wildlife Protection (वन्यजीव सुरक�
 35. Conservation is ecological protection; **Wildlife Protection** language often means the **WPA enforcement** track.
 36. NTCA does not run Elephant Reserves; confusing NTCA with Project Elephant administration is a trap.
 
-![Flagship Wildlife Conservation Projects & Statutory Governance in India](images/env_ch07_01_india_wildlife_projects_map.png)
+![India's Flagship Species Conservation Projects Timeline](images/env_ch07_01_flagship_wildlife_projects_timeline.png)
 
 ```text
            India's Wildlife Conservation Projects Chronology
@@ -193,6 +193,8 @@ D. Only 1
 ## 7.2 Wildlife Protection
 
 **Identity:** WPA 1972 | 6 Schedules | CWLW + NBWL | Art 48A, 51A(g)
+
+![Statutory Wildlife Governance & Legal Reforms — NBWL, NTCA, WCCB & WPA 2022](images/env_ch07_02_wildlife_governance_ntca_wii_wccb.png)
 
 - **Wildlife (Protection) Act, 1972** is India's main law for protecting wild animals, birds, and plants.
 - The Act was enacted in the same year as the **Stockholm Conference (1972)** (स्टॉकहोम सम्मेलन).

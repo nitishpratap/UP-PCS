@@ -82,7 +82,7 @@ Environmental Literature | Environmental Education (पर्यावरण श
 
 **Identity:** Carson / Hardin / Limits / Brundtland | Author ↔ work matching
 
-![Environmental Literature, Paradigm Shifts and Citizen Awareness](images/env_ch30_01_environmental_literature_milestones_concepts.png)
+![Foundational Environmental Literature & Global Milestones](images/env_ch30_01_foundational_environmental_literature_reports.png)
 
 - **Environmental literature** includes books and landmark reports that shaped ecological thought and policy.
 - **Rachel Carson, *Silent Spring* (1962):** exposed DDT/pesticide harm to birds, food chains, and health — triggered the modern environmental movement.
@@ -173,6 +173,8 @@ Options: A. Sustainable Development B. Polluter Pays C. Environmental Education 
 ## 30.3 Environmental Awareness
 
 **Identity:** Art 51A(g) | NEAC | Van Mahotsav | LiFE | Behaviour change
+
+![Environmental Observance Calendar, Awards & Citizen Campaigns](images/env_ch30_02_environmental_observance_days_awards_india.png)
 
 - **Environmental awareness** is public understanding and concern that drives behaviour change and civic action.
 - **Article 51A(g)** (42nd (42वां) Amendment, 1976): Fundamental Duty to protect and improve forests, lakes, rivers, and wildlife — pairs with **Art 48A** (state duty).

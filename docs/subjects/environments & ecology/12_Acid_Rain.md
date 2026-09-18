@@ -83,7 +83,7 @@ Acid Rain | Causes | Effects | Prevention
 
 **Identity:** pH < 5.6 | H₂SO₄ + HNO₃ | Wet + dry deposition | Secondary pollutant
 
-![Acid Deposition Chemistry, Environmental pH Scale and Ecological/Monuments Impacts](images/env_ch12_01_acid_rain_mechanisms_impacts.png)
+![Acid Deposition: Atmospheric Chemistry & Formation](images/env_ch12_01_acid_rain_mechanisms_impacts.png)
 
 - **Acid rain** is precipitation or atmospheric deposition with **pH below 5.6**, mainly from **sulphuric acid (H₂SO₄)** and **nitric acid (HNO₃)** (नाइट्रिक अम्ल).
 - **Normal unpolluted rain** has pH about **5.6**, not 7, because atmospheric **CO₂** forms weak **carbonic acid (H₂CO₃)**.
@@ -193,6 +193,8 @@ D. Only 1
 ## 12.3 Effects
 
 **Identity:** Aquatic kill | Soil Al³⁺ | Conifers | Taj gypsum | Lichens
+
+![Acid Rain Impacts: Marble Cancer & Ecological Cascade](images/env_ch12_02_acid_rain_stone_cancer_ecological_impacts.png)
 
 - **Aquatic ecosystems** fail when lake/river pH drops **below about 5.0** — fish eggs do not hatch and adult fish die.
 - **Aluminium (Al³⁺)** leached from acidified soil is **toxic to fish gills** and plant roots.

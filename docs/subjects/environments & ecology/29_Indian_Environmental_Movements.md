@@ -82,7 +82,7 @@ Chipko (चिपको) | Appiko (अप्पिको) | Silent Valley (स�
 
 **Identity:** 1973 | Reni, Uttarakhand | Tree hugging | Bahuguna, Bhatt, Gaura Devi
 
-![Historic and Contemporary Indian Environmental Movements](images/env_ch29_01_indian_environmental_movements_spatial_timeline.png)
+![Grassroots Forest Conservation Movements — Bishnoi, Chipko & Appiko](images/env_ch29_01_historic_forest_movements_bishnoi_chipko_appiko.png)
 
 ### Cause, Course, Result
 
@@ -131,6 +131,8 @@ Options: A. 1 and 2 B. Only 4 C. 3 and 4 D. Only 1
 ## 29.3 Silent Valley Movement
 
 **Identity:** 1970s–83 | Kerala | Anti-hydro dam | KSSP | SVNP 1984
+
+![River Valley Resistance & Ecologically Fragile Zones — Silent Valley, Narmada & Western Ghats](images/env_ch29_02_river_valley_hydroelectric_movements_narmada_silent_valley.png)
 
 ### Cause, Course, Result
 

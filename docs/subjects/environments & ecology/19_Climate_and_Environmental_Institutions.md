@@ -83,7 +83,7 @@ IPCC (आईपीसीसी) | UNEP (संयुक्त राष्ट्
 
 **Identity:** 1988 WMO+UNEP | Geneva | Assessment Reports | Nobel 2007 | Not policy body
 
-![Global Climate and Environmental Governance: Apex Bodies and Multilateral Finance](images/env_ch19_01_global_climate_environmental_governance_architecture.png)
+![Apex Global Environmental Institutions & Mandates](images/env_ch19_01_apex_international_environmental_bodies.png)
 
 - The **IPCC (Intergovernmental Panel on Climate Change (जलवायु परिवर्तन))** was established in **1988** by **WMO** and **UNEP**.
 - It provides governments with **scientific assessments** of climate change, impacts, and response options.
@@ -107,6 +107,8 @@ IPCC (आईपीसीसी) | UNEP (संयुक्त राष्ट्
 ## 19.2 UNEP
 
 **Identity:** Stockholm 1972 (स्टॉकहोम सम्मेलन) | Nairobi HQ | Emissions Gap | GEO | MEA secretariats
+
+![Global Climate Finance & Multilateral Funds Matrix](images/env_ch19_02_global_climate_finance_mechanisms.png)
 
 - **UNEP** was created by the **Stockholm Conference (1972)** (स्टॉकहोम सम्मेलन) as the UN's principal environmental authority.
 - **Headquarters** is in **Nairobi, Kenya** — the only major UN environment HQ in the Global South.

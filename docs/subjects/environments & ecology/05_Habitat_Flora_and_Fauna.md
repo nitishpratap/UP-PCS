@@ -90,7 +90,7 @@ Habitat | Habitat Conservation | Flora and Fauna
 
 **Identity:** Place where species lives | Terrestrial / aquatic / transitional | Adaptation-based types
 
-![Whittaker Biome Classification & Ecological Species Roles](images/env_ch05_01_whittaker_biomes_climate_matrix.png)
+![Whittaker's Global Biome Classification Matrix](images/env_ch05_01_whittaker_biomes_classification.png)
 
 - A **habitat** is the natural place where a plant or animal normally lives and finds food, shelter, and breeding conditions.
 - NCERT treats habitat as the **address** of a species. It answers the question "where does it live?"
@@ -252,6 +252,8 @@ D. 4, 2, 3, 1
 ## 5.3 Flora and Fauna
 
 **Identity:** Biotic inhabitants of habitats | BSI + ZSI | India megadiversity stats
+
+![Ecological Species Roles, Functional Guilds & Invasives](images/env_ch05_02_ecological_species_roles_keystone_umbrella_flagship.png)
 
 - **Flora** is the collective **plant** life of a particular region, habitat, or geological period.
 - **Fauna** is the collective **animal** life of a particular region, habitat, or geological period.

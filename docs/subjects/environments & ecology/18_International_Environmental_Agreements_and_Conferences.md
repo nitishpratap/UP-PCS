@@ -97,7 +97,7 @@
 
 **Identity:** UNEP 1972 | SD definition 1987 | Rio triple outcome 1992 | Agenda 21 trap | Earth Summit +5 | Rio+20
 
-![Multilateral Environmental Agreements (MEAs) and Global Summits Roadmap](images/env_ch18_01_global_environmental_treaties_roadmap.png)
+![Global Environmental Summits: Stockholm 1972 to Rio+20](images/env_ch18_01_global_summits_stockholm_rio_timeline.png)
 
 - The **Stockholm Conference (1972)** (स्टॉकहोम सम्मेलन) was the first major UN conference on the **human environment**.
 - Its theme was **"Only One Earth"** and it adopted (अंगीकृत) the **Stockholm Declaration** with 26 principles.
@@ -289,6 +289,8 @@ Which Ramsar sites are **NOT** in Uttar Pradesh?
 ## 18.5 Chemicals & Waste Treaties — Basel, Rotterdam, Stockholm POPs & Minamata
 
 **Identity:** Basel waste | Rotterdam PIC chemicals | Stockholm POPs | Minamata mercury
+
+![Multilateral Environmental Agreements (MEAs) Classification Matrix](images/env_ch18_02_multilateral_environmental_agreements_matrix.png)
 
 - The **Basel Convention (1989)** (बासेल कन्वेंशन) controls **transboundary movement of hazardous waste**.
 - It aims to prevent developed countries from dumping hazardous waste in developing countries.
