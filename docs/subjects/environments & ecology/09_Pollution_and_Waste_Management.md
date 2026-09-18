@@ -163,6 +163,9 @@ D. Only 1
 - **Lead** from petrol antiknock additives harms children’s brain development and adult heart/respiratory health.
 - **London/classical smog** forms from **SO₂ and smoke** in cool, humid conditions.
 - **Los Angeles/photochemical smog** forms when **NOx + hydrocarbons** react in sunlight to yield **O₃, formaldehyde, and PAN**; **PAN** is a strong eye irritant.
+
+![Chemical Dynamics of Air Pollution: Photochemical vs Classical London Smog](images/env_ch09_01_smog_formation_chemistry.png)
+
 - India’s **AQI** is based on **eight** pollutants: **PM10, PM2.5, NO₂, CO, O₃, SO₂, NH₃, Pb** — **not CO₂ or CH₄**. Bands: **0–50 Good** … **401–500 Severe**. **NAQI** launched **17 Oct 2014**.
 - **NCAP (National Clean Air Programme, 2019)** targets non-attainment cities for about **20–30% PM reduction** (2017 baseline framing).
 - **Fly ash** from coal TPPs is used in bricks and as Portland cement replacement; main oxides are SiO₂, Al₂O₃, CaO, plus toxic metals (Pb, As, Cu).
@@ -212,6 +215,9 @@ D. Only 1
 - **COD (Chemical Oxygen Demand)** measures total oxidizable matter. **COD is always ≥ BOD**.
 - **DO (Dissolved Oxygen)** above **6 mg/L** suits healthy rivers. Below about **5 mg/L** stresses fish; teaching banks often call **<4 mg/L** highly polluted.
 - **Eutrophication** begins when excess **nitrogen and phosphorus** cause algal blooms, bacterial decomposition, and **DO collapse** — a **water** phenomenon, not air pollution.
+
+![Aquatic Degradation Dynamics: Phelps-Streeter Dissolved Oxygen Sag Curve & Cultural Eutrophication](images/env_ch09_02_water_pollution_do_sag_eutrophication.png)
+
 - **Faecal coliform** bacteria indicate sewage contamination. Safe drinking water should have **zero faecal coliform**.
 - Highest **BOD** on the Ganga is classically taught between **Kanpur and Allahabad (Prayagraj)** from heavy pollutant load.
 - **Damodar** is called a **biological desert** along the Giridih–Durgapur industrial/mining stretch.

@@ -60,6 +60,8 @@ Wildlife Conservation | Wildlife Protection (वन्यजीव सुरक�
 35. Conservation is ecological protection; **Wildlife Protection** language often means the **WPA enforcement** track.
 36. NTCA does not run Elephant Reserves; confusing NTCA with Project Elephant administration is a trap.
 
+![Flagship Wildlife Conservation Projects & Statutory Governance in India](images/env_ch07_01_india_wildlife_projects_map.png)
+
 ```text
            India's Wildlife Conservation Projects Chronology
                                         │

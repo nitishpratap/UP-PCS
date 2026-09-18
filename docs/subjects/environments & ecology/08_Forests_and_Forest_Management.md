@@ -77,6 +77,8 @@ Forests and their Types | Forest Types in India | Forest Conservation | Forest M
 
 ## Must-score facts — ISFR, types, law chain
 
+![India's Forest Canopy Density Classification (ISFR) & Champion-Seth Forest Types](images/env_ch08_01_india_forest_types_canopy_classification.png)
+
 ### Cover definitions
 
 | Item | Lock |

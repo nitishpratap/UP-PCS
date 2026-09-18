@@ -1,4 +1,4 @@
-﻿# Topic 1 — Environment (पर्यावरण) Basics
+# Topic 1 — Environment (पर्यावरण) Basics
 ### ★ UPPCS Revision Sheet — Lucent-style (no repetition · Practice ≥25)
 
 <details>
@@ -114,6 +114,8 @@ Environment – Meaning | Environmental Components | Classification of Environme
 ## 1.1 Environment – Meaning
 
 **Scope:** NCERT definition | four spheres | atmosphere basics | scales & types | milestones & law
+
+![Earth's Four Spheres & Ecological Limiting Laws](images/env_ch01_01_earth_four_spheres_interaction.png)
 
 | Source | Definition |
 |--------|------------|

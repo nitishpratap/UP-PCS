@@ -116,6 +116,8 @@ Global Warming (भूमंडलीय तापन) | Greenhouse Effect | Gre
 
 **Identity:** Fourier 1820s | Shortwave in · longwave out | Natural vs enhanced | ≠ ozone depletion (ओजोन क्षरण)
 
+![Planetary Radiation Budget, Enhanced Greenhouse Effect & Radiative Forcing](images/env_ch10_01_greenhouse_effect_radiative_forcing.png)
+
 - The **greenhouse effect** is the process by which atmospheric gases absorb and re-emit **outgoing infrared radiation**, warming the surface and lower atmosphere.
 - **Joseph Fourier (1820s)** postulated the greenhouse-effect concept.
 - The Sun emits **high-energy shortwave** radiation (UV, visible, near-IR). Harmful **UV** is largely absorbed by the **ozone layer**; visible and IR reach the surface as heat.

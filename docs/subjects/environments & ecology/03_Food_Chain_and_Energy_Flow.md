@@ -233,6 +233,8 @@ D. May increase or decrease
 
 **Identity:** Elton 1927 | Energy / biomass / numbers | Only energy pyramid always upright
 
+![Trophic Energy Flow, Lindeman's 10% Law & Ecological Pyramids](images/env_ch03_01_trophic_energy_flow_10percent_pyramids.png)
+
 - An **ecological pyramid** is a diagram of trophic structure. It shows energy, biomass, or numbers at each level.
 - **Charles Elton (1927)** developed the early pyramid concept in trophic studies.
 - A **pyramid of energy** plots energy flow in **kcal/m²/yr**. It is **always upright** because energy is lost at every transfer.
@@ -244,6 +246,8 @@ D. May increase or decrease
 - The **pyramid of energy** is the best measure of ecosystem function because it shows actual energy availability and is never inverted.
 - **Decomposers** are usually omitted from standard pyramid diagrams. They act on all levels and return nutrients to producers.
 - **Biomagnification** of toxins such as DDT increases concentration up the food chain. Top predators suffer most even as energy decreases upward.
+
+![Bioaccumulation vs Biomagnification and DDT Trophic Cascade](images/env_ch03_02_bioaccumulation_biomagnification_ddt.png)
 
 | Pyramid | Unit | Always upright? | Inverted example |
 |---------|------|-----------------|------------------|

@@ -90,6 +90,8 @@ Habitat | Habitat Conservation | Flora and Fauna
 
 **Identity:** Place where species lives | Terrestrial / aquatic / transitional | Adaptation-based types
 
+![Whittaker Biome Classification & Ecological Species Roles](images/env_ch05_01_whittaker_biomes_climate_matrix.png)
+
 - A **habitat** is the natural place where a plant or animal normally lives and finds food, shelter, and breeding conditions.
 - NCERT treats habitat as the **address** of a species. It answers the question "where does it live?"
 - A **habitat** is not the same as a **niche**. The niche is the species **role** in the ecosystem.

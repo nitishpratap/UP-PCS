@@ -181,6 +181,8 @@ D. 4 2 1 3
 
 **Identity:** UNESCO MAB 1971 | Core–Buffer–Transition | 18 notified | No WPA basis
 
+![In-Situ vs Ex-Situ Conservation and UNESCO Biosphere Reserve Concentric Zonation](images/env_ch06_01_in_situ_ex_situ_biosphere_structure.png)
+
 - A **Biosphere Reserve (BR)** (जैवमंडल आरक्षित क्षेत्र) is a large landscape for conservation, research, and sustainable community use under UNESCO's **Man and the Biosphere (MAB) Programme**.
 - India notified its first BR, **Nilgiri** (नीलगिरि), in **1986**.
 - India has **18 notified Biosphere Reserves**. **13** are in UNESCO's World Network of Biosphere Reserves.
@@ -211,6 +213,8 @@ D. 4 2 1 3
 | 16 | Cold Desert | Himachal (हिमाचल) Pradesh |
 | 17 | Seshachalam Hills | Andhra Pradesh |
 | 18 | Panna | Madhya Pradesh |
+
+![Spatial Map of India's 18 Biosphere Reserves: UNESCO WNBR vs Domestic](images/env_ch06_02_india_biosphere_reserves_map.png)
 
 **PYQ — UPPCS Prelims 2025, Q144**
 

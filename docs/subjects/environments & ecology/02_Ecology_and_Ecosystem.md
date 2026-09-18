@@ -1,4 +1,4 @@
-﻿# Topic 2 — Ecology (पारिस्थितिकी) & Ecosystem (पारिस्थितिकी तंत्र)
+# Topic 2 — Ecology (पारिस्थितिकी) & Ecosystem (पारिस्थितिकी तंत्र)
 ### ★ UPPCS Revision Sheet — Lucent-style (no repetition · Practice ≥25)
 
 <details>
@@ -194,6 +194,8 @@ Ecology – Meaning | Ecosystem | Types of Ecosystems | Terrestrial Ecosystem | 
 
 ### Pond and lake zonation (lentic)
 
+![Aquatic Ecosystem Zonation & Ecotone Edge Effect](images/env_ch02_02_aquatic_zonation_ecotone.png)
+
 | Zone | Location | Key fact |
 |------|----------|-----------|
 | **Littoral** | Shallow shore with rooted plants | Warmest, highest light |
@@ -346,6 +348,8 @@ D. Dominance of single species becomes minimum if the resource distribution is e
 ## 2.8 Ecological Succession
 
 **Identity:** Primary vs secondary | Nudation → M-E-R-S | Sere | Pioneer → climax | Monoclimax
+
+![Ecological Succession: Primary Xerosere and Hydrosere Stages](images/env_ch02_01_ecological_succession_stages.png)
 
 - **Ecological succession** is the orderly, predictable replacement of one community by another over time in the same area.
 - The full set of communities that appear one after another is called a **sere**. Each intermediate community is a **seral stage**.

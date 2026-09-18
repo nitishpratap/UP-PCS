@@ -366,6 +366,8 @@ D. None of the above
 
 **Identity:** Myers 1988 | ≥1500 endemic plants + ≥70% habitat lost | India has 4 of 36
 
+![India's Four Biodiversity Hotspots & Global Diversity Gradients](images/env_ch04_01_india_biodiversity_hotspots_map.png)
+
 - A **biodiversity hotspot** (जैव विविधता हॉटस्पॉट) is a region with **high endemism** and **severe habitat loss**.
 - **Norman Myers (1988)** set the hotspot concept. Conservation International later updated the global list to **36 hotspots** (about **2.5%** of Earth’s land; >**50%** of endemic plant species). The **36th** hotspot added via CEPF (2016) is the **North American Coastal Plain**.
 - **Two formal criteria:** at least **1,500 endemic vascular plant species** and at least **70% loss** of original primary vegetation. Recognition (मान्यता) also stresses **species richness, endemism, and threat perception** — not vegetation density or ethnobotany alone.
