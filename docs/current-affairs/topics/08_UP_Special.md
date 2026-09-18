@@ -643,6 +643,229 @@ The UP Cabinet cleared two big road projects to grow the state’s expressway ne
 
 ---
 
+### Uttar Pradesh Budget 2026–27 Master Dossier (Presented 11 February 2026)
+- **Presented by**: Finance Minister **Suresh Kumar Khanna** in the UP Legislative Assembly on **11 February 2026**.
+- **Macroeconomic Target**: Geared towards fulfilling the vision of transforming Uttar Pradesh into a **$1 Trillion Economy**.
+- **GSDP Projections**:
+  - Projected GSDP for 2026–27 at current prices: **₹39.8 lakh crore** (a 28% increase over the revised estimate of 2025–26).
+  - Real GSDP growth at constant prices in 2024–25: **9.0%** (surpassing the national GDP expansion rate of 6.5%).
+  - GSDP Sectoral Structure (2024–25): **Agriculture: 27%**, **Industry/Manufacturing: 26%**, **Services: 47%**.
+- **UP Per Capita GSDP (2024–25)**: Estimated at **₹1,24,366** (up by 11.6% over 2023–24; national per capita GDP: ₹2,34,859).
+- **Budget Dimensions & Key Aggregates**:
+  - **Total Budget Outlay (Gross Expenditure)**: **₹9,12,696 crore** (27% expansion over RE 2025–26).
+  - **Debt Repayment**: ₹61,795 crore; **Net Policy Expenditure**: **₹8,50,901 crore**.
+  - **Total Receipts**: **₹8,48,233 crore** (Net receipts excluding public debt borrowings: ₹7,32,420 crore).
+  - **Revenue Surplus**: Budgeted at **₹64,458 crore (1.6% of GSDP)** (maintains continuous revenue surplus status).
+  - **Fiscal Deficit**: Budgeted at **₹1,18,481 crore (exactly 3.0% of GSDP)** — strictly conforming to the **16th Finance Commission's 3.0% GSDP fiscal deficit ceiling** for states.
+  - **Primary Deficit**: Budgeted at **₹49,560 crore (1.2% of GSDP)**.
+  - **Outstanding Debt/Liabilities**: Estimated to decline to **23.1% of GSDP** by end of 2026–27 (down from 27.6% in 2025–26 RE).
+- **Revenue Structure & State Tax Mobilization**:
+  - Total Revenue Receipts: **₹7,28,928 crore** (50% raised from own state resources, 50% from Central transfers/grants).
+  - **State's Own Tax Revenue**: Budgeted at **₹3,34,491 crore** (+48% over RE 2025–26).
+    - **State GST (SGST)**: **₹1,49,956 crore** (largest internal tax pillar, contributing **45%** of own tax revenue).
+    - **State Excise**: **₹71,278 crore** (+17% over RE).
+    - **Sales Tax / VAT**: **₹48,115 crore**.
+    - **Stamp & Registration Fees**: **₹43,802 crore**.
+    - **Taxes on Motor Vehicles**: **₹15,808 crore**.
+  - **State's Own Non-Tax Revenue**: Budgeted at **₹26,754 crore**.
+  - **Central Devolution**: Share in Central Taxes: **₹2,68,911 crore**; Grants-in-Aid from Centre: **₹98,772 crore**.
+- **Rupee Flows (B.E. 2026–27 Percentage Shares)**:
+  - **Rupee Comes In (Sources)**: State's Own Tax Revenue: **39.0%**, Share in Central Taxes: **31.4%**, Public Debt Borrowings: **13.5%**, Central Grants: **11.5%**, Non-Tax Revenue: **3.1%**, Public Account Net: **1.1%**, Recovery of Loans: **0.4%**.
+  - **Rupee Goes Out (Expenditure)**: Capital Outlay / Infra: **19.4%**, Salaries (Govt): **11.2%**, Salaries (Aided Institutions): **8.9%** (Total Salaries: 20.1%), Pensions: **11.1%**, Interest Payments: **7.6%**, Public Debt Loan Repayment: **6.8%**, Grants-in-Aid: **6.1%**, Subsidies: **4.7%**, Local Bodies Assignment: **4.1%**, Loans & Advances: **1.0%**, Other Operational Spending: **19.1%**.
+- **Key Sectoral Outlays & Major Scheme Allocations**:
+  - **Education, Sports, Arts & Culture**: **₹1,08,154 crore** (largest sectoral allocation, +28% over RE). Primary education assistance: ₹55,792 crore; Samagra Shiksha Abhiyan: ₹7,738 crore.
+  - **Energy**: **₹56,621 crore** (Power subsidy: ₹21,500 crore).
+  - **Health and Family Welfare**: **₹53,326 crore** (Rural allopathy: ₹6,818 crore; Urban allopathy: ₹5,793 crore).
+  - **Transport & Roads**: **₹50,391 crore** (Capital outlay on roads and bridges: **₹38,592 crore**).
+  - **Rural Development**: **₹49,044 crore** (+59% over RE; PMAY-Gramin: ₹6,102 crore; MGNREGS: ₹5,544 crore; NRLM/Aajeevika: ₹4,580 crore).
+  - **Social Welfare & Nutrition**: **₹42,263 crore** (Old age / farmer pensions: ₹8,950 crore; Destitute Women Pension: ₹3,500 crore).
+  - **Police & Public Safety**: **₹41,898 crore**.
+  - **Agriculture and Allied**: **₹30,938 crore** (Private tubewell free power subsidy: ₹2,400 crore; Solar pump conversion: ₹638 crore).
+  - **Urban Development**: **₹27,532 crore** (PMAY-Urban: ₹6,842 crore).
+
+---
+
+### Uttar Pradesh Economic Survey 2025–26 Master Findings (Presented 9 February 2026)
+- **Macro Vision**: Presented on **9 February 2026**; details UP's structural roadmap toward achieving a **$1 Trillion Gross State Domestic Product**.
+- **GSDP Expansion Trajectory**:
+  - GSDP at current prices rose from ₹13.30 lakh crore (2016–17) to **₹30.25 lakh crore in 2024–25 (Quick Estimates)** — clocking a phenomenal **CAGR of 10.8% over 8 years**.
+  - GSDP for 2025–26 estimated at approximately **₹36 lakh crore**.
+  - **Contribution to National Economy**: Uttar Pradesh contributes **9.1% of India's total Gross Domestic Product**.
+- **Structural Shifts in State Economy (2017–18 to 2024–25)**:
+  - **Primary Sector**: 25.9% $\to$ **25.8%** (resilient, stable baseline).
+  - **Secondary Sector**: 25.4% $\to$ **27.2%** (expanded rapidly driven by mega expressways, industrial corridors, and manufacturing).
+  - **Tertiary Sector**: 48.8% $\to$ **47.0%** (healthy restructuring toward high-value manufacturing while retaining services dominance).
+  - *Comparison with India*: National secondary sector contracted from 27.0% to 25.3%, whereas UP's industrial share expanded to 27.2%!
+- **Demographics & Population Profile (March 2026 Baseline)**:
+  - Total Estimated Population: **25.19 crore**:
+    - Represents **17.8% of India's total population** (141.51 crore).
+    - Represents **3.0% of the entire world population** (830 crore).
+    - **Global Scale**: If Uttar Pradesh were an independent sovereign nation, it would be the **5th most populous country in the world** (behind only India, China, USA at 33.5 cr, and Indonesia at 27.7 cr; ahead of Pakistan, Nigeria, and Brazil!).
+  - **Demographic Transition & Fertility**:
+    - Population annual growth rate decelerated from 1.85% (2011) to 1.70% (2021), projected to drop sharply to **0.58% annually during 2026–2051**.
+    - **Total Fertility Rate (TFR)**: Plummeted from 2.7 (NFHS-4, 2015–16) to **2.4 (NFHS-5, 2019–21)**, steadily approaching the demographic replacement rate of 2.1.
+  - **Life Expectancy Projections**:
+    - Males: 62.5 years (2011) $\to$ projected **73.2 years** (2051).
+    - Females: 65.0 years (2011) $\to$ projected **77.1 years** (2051).
+- **Fiscal Autonomy & Per Capita Wealth**:
+  - **Declining Central Dependence**: Reliance on Central tax devolution dropped from **56.0% in 2016–17 down to 46.4% in 2025–26**, showing increasing financial self-reliance.
+  - **State Own Tax Revenue**: Rose from ₹0.86 lakh crore (2016–17) to **₹2.09 lakh crore in 2024–25** (a 2.5-fold leap; CAGR 14.7%).
+  - **Per Capita Net Income**: Rose from ₹54,564 (2016–17) to **₹1,09,844 in 2024–25** (CAGR 9.1%; between 2020–21 and 2024–25 growth accelerated to 14.7%). Gross per capita income reached **₹1,26,304**.
+- **Agriculture & Allied Performance**:
+  - Agricultural GVA expanded from ₹2.96 lakh crore (2016–17) to **₹6.95 lakh crore in 2024–25 (CAGR 11.2%)**.
+  - Composition of Agri GVA: **Crops: 67.4%**, **Livestock: 24.7%**, **Forestry: 4.5%**, **Fisheries: 3.5%**.
+  - Total foodgrain output in 2024–25 reached **737.4 lakh metric tonnes** (+9.9% year-on-year).
+  - Milk production expanded by 33.6% (cementing UP's **#1 rank nationally**); egg production jumped by 167%.
+- **Forestry Expansion**:
+  - Forest and tree cover expanded from 23,437.53 sq km (ISFR 2021) to **23,996.72 sq km** (ISFR 2023), a net gain of **559.19 sq km (+2.39%)**.
+  - **Uttar Pradesh ranks 2nd in India in net increase of forest and tree cover**!
+- **Infrastructure, Transport & Digital Connectivity**:
+  - **Expressway Capital**: UP leads India with **7 operational expressways**, 3 under construction, and 12 proposed corridors.
+  - **Aviation Leadership**: Houses 12 domestic airports and **4 operational international airports** (Lucknow, Varanasi, Kushinagar, Ayodhya). With Noida International Airport (Jewar), UP will become the **first state in India with 5 international airports**.
+  - **National Highway Network**: Encompasses **12,123 km of National Highways** traversed by **90 designated National Highways**.
+  - **Urban Ropeway**: India's first urban passenger ropeway project is under execution in **Varanasi**.
+  - **Digital Connectivity Crown**: Uttar Pradesh ranks **#1 in India in total internet subscribers** with **13.82 crore active internet connections** (as of September 2025–26).
+- **Tourism Transformation (Maha Kumbh Factor)**:
+  - Total tourist arrivals skyrocketed from 64.91 crore in 2024 to **156.18 crore tourists in 2025 (a 2.4-fold surge)**, powered by the Prayagraj Maha Kumbh.
+  - **UP overtook Tamil Nadu to become #1 in India in domestic tourist visits** (UP's national share of domestic tourists expanded from 16.2% in 2021 $\to$ 18.4% in 2022 $\to$ 19.1% in 2023 $\to$ **21.9% in 2024**).
+
+---
+
+### Uttar Pradesh Schemes, Institutions & Governance Landmarks (2025–2026)
+
+#### UP Navayug Palika Yojana (Approved March 2026)
+- **Objective**: Expand the Smart City Mission to second-tier urban centers across the state.
+- **Coverage**: Implemented across urban local bodies in **58 district headquarters** (55 municipal councils, 3 town councils, and Dadri Municipal Council in Gautam Buddha Nagar).
+- **Funding & Outlay**: **₹583.20 crore annually**, totaling **₹2,916 crore over five years (2025–26 to 2029–30)**.
+- **Key Feature**: **100% fully state-funded** with zero Central Government financial participation; focuses on e-governance, digital municipal services, mechanized sanitation, and smart urban infrastructure.
+
+#### Project GANGA (Broadband Connectivity)
+- **Full Form**: **Government Assisted Network for Growth and Advancement (GANGA)**.
+- **Coverage**: Launched in March 2026 to deliver high-speed optical broadband connectivity to **20 lakh households** across urban and rural UP over 2–3 years.
+- **Grassroots Model**: Trains 8,000 to 10,000 rural youth as **Digital Service Providers (DSPs)** at the Nyaya Panchayat level to manage village internet services.
+
+#### Nivesh Mitra 3.0 & Industrial Parks Infrastructure (March 2026)
+- **Platform**: Upgraded digital single-window clearances via **Nivesh Mitra 3.0** launched by CM Yogi Adityanath on 24 March 2026.
+- **New Schemes**: Unveiled the **'UP Private Business Park Development Scheme-2025'** and the **'Plug-and-Play Industrial Sheds Scheme'** to accelerate MSME factory setups.
+
+#### Uttar Pradesh AI Mission & Lucknow AI City
+- **State AI Mission**: Announced at the Regional AI Impact Conference (Lucknow, Jan 2026) with a dedicated state outlay of **₹2,000 crore over 3 years**.
+- **Lucknow AI City Project**: Envisages an investment of **₹10,732 crore** to develop India's first dedicated AI City in Lucknow, featuring a 10,000-GPU compute cluster, multimodal Indian language labs, and incubation hubs.
+
+#### 86th All India Presiding Officers' Conference (AIPOC)
+- **Venue & Dates**: Hosted by the UP Legislature at Vidhan Bhawan, **Lucknow from 19 to 21 January 2026**.
+- **Dignitaries**: Inaugurated by UP Governor Anandiben Patel and addressed by Lok Sabha Speaker Om Birla; focused on leveraging technology for paperless legislative proceedings and legislator capacity building.
+
+#### Jan Bhavan (Governor's Residence Renamed)
+- **Historic Renaming**: On **21 January 2026**, the Uttar Pradesh Government officially renamed the official residence of the Governor in Lucknow from **Raj Bhavan to 'Jan Bhavan'** (People's House).
+
+#### One District-One Cuisine (ODOC) Initiative
+- **Launch Event**: Launched by Union Home Minister Amit Shah on **Uttar Pradesh Day (24 January 2026)** at Rashtra Prerna Sthal, Lucknow.
+- **Concept**: Modeled on the ODOP success; identifies, standardizes, brands, and exports the distinctive traditional cuisine and culinary delicacies of each of UP's 75 districts.
+
+#### Uttar Pradesh Gaurav Samman 2025–26
+- **Presented on**: UP Day (**24 January 2026**); carries a cash prize of **₹11 lakh, citation, and shawl** each.
+- **Five Distinguished Recipients**:
+  1. **Group Captain Shubhanshu Shukla** (Lucknow): Space Science & Aviation (Axiom-4 mission astronaut pilot).
+  2. **Alakh Pandey** (Prayagraj): Education & EdTech (Founder & CEO of Physics Wallah).
+  3. **Dr. Hari Om Panwar**: Hindi Literature and poetry.
+  4. **Rashmi Arya**: Social Work & Women Empowerment.
+  5. **Dr. Sudhanshu Singh**: Agricultural Science and rural crop research.
+
+#### Rashtra Prerna Sthal (Lucknow)
+- **Inauguration**: Dedicated by PM Narendra Modi on **25 December 2025** on the **101st birth anniversary of former PM Atal Bihari Vajpayee** in Lucknow.
+
+#### First Zero Fresh Waste Dump City in UP
+- **Recognition**: **Lucknow** became the **first city in Uttar Pradesh** to achieve the milestone of being certified as a **Zero Fresh Waste Dump City** under Swachh Bharat Mission (Urban), processing 100% of its daily municipal waste (2,000 MT/day) at the Shivri treatment plant.
+
+#### India's First Glass Museum (Firozabad)
+- **Location**: Established in **Firozabad**, globally renowned as the "Suhag Nagari" / "Glass City of India", cataloguing centuries of traditional glass-blowing crafts and modern scientific glass innovations.
+
+#### India's First Dedicated Forest University (Gorakhpur)
+- **Establishment**: UP Government announced India's first dedicated **Forest University** in **Gorakhpur** with an initial outlay of **₹500 crore**, focusing on forestry science, wildlife habitat management, and climate research.
+
+#### Uttar Pradesh's First Municipal Space Lab (Padrauna)
+- **Location**: Established at **Padrauna in Kushinagar district** by the Padrauna Municipal Council in partnership with Vyomika Space, offering hands-on astronomical instrumentation for rural schoolchildren.
+
+#### Parvati Arga Bird Sanctuary Declared Eco-Sensitive Zone (ESZ)
+- **Notification**: Declared an **Eco-Sensitive Zone (ESZ)** by the Ministry of Environment, Forest and Climate Change; situated in **Gonda district, Uttar Pradesh** (also an accredited Ramsar site).
+
+#### Lucknow Designated UNESCO "Creative City of Gastronomy"
+- **International Honor**: Designated by UNESCO on **31 October 2025** (World Cities Day) as a member of the UNESCO Creative Cities Network (UCCN) in the **Gastronomy** category for its Awadhi culinary heritage.
+- **National Context**: Lucknow is the **second city in India** to receive this gastronomic honor, following **Hyderabad (designated in 2019)**.
+
+#### India's First MWh-Scale Vanadium Redox Flow Battery (VRFB)
+- **Location & Commissioning**: Inaugurated on **11 November 2025** in **Greater Noida** by the Union Minister for Power and Housing & Urban Affairs.
+- **Capacity & Developer**: **3 MWh** commercial energy storage facility engineered by **NTPC NETRA** (National Energy Technology Research Alliance) for large-scale grid storage.
+
+#### India's First 'Solar on Track' System (Duhai, Ghaziabad)
+- **Installation**: Deployed by NCRTC in November 2025 at the Namo Bharat RRTS Depot in **Duhai, Ghaziabad** — first application of railway track-mounted solar panels on any metro or high-speed rail corridor in India.
+
+#### State Institute of Hotel Management (SIHM) in Gorakhpur
+- **Sanction**: UP's first State Institute of Hotel Management sanctioned for **Gorakhpur** to train professionals for the burgeoning Purvanchal Buddhist Circuit tourism.
+
+#### India's First Government Hospital-Based AI Clinic (GIMS Greater Noida)
+- **Medical Innovation**: Launched at the **Government Institute of Medical Sciences (GIMS) in Greater Noida**; deploys AI-based genomic analysis, rapid digital pathology, and medical imaging screening.
+
+#### India's First AI-Enabled State University Pilot (CCSU Meerut)
+- **Academic Debut**: Unveiled on **28 January 2026** at **Chaudhary Charan Singh University (CCSU), Meerut** in partnership with MSDE, Google Cloud, and Placecom.
+
+#### North India's First Semiconductor Unit (Gautam Buddha Nagar)
+- **Groundbreaking**: Foundation stone laid by PM Narendra Modi on **21 February 2026** in **Gautam Buddha Nagar**.
+- **Joint Venture**: Partnership between **HCL and Foxconn** involving an investment of approximately **₹3,700 crore** for specialized outsourced semiconductor assembly and test (OSAT) packaging.
+
+#### Namo Bharat Rapid Rail & Meerut Metro Inauguration
+- **Commissioning**: Inaugurated by PM Narendra Modi on **22 February 2026** in **Meerut**, integrating regional high-speed transit with intra-city metro rail on common track infrastructure.
+
+#### Purvanchal's First Yarn Processing Plant (Mirzapur)
+- **Establishment**: Sited in **Mirzapur district** to supply locally processed, dye-treated synthetic and woollen yarn directly to the GI-tagged hand-knotted carpet hubs of Mirzapur and Bhadohi.
+
+#### Bareilly Airport Tops UP in Customer Satisfaction Survey
+- **Aviation Ranking**: **Bareilly Airport** clinched the **#1 rank in Uttar Pradesh** and **7th rank nationally** in the Airports Authority of India (AAI) Customer Satisfaction Index (National #1 shared by Bhopal and Khajuraho).
+
+#### UP's First-Ever Dedicated Excise Export Policy 2026–29
+- **Policy Approved**: Approved on **13 February 2026**; Uttar Pradesh became the **first state in India to notify an independent, export-oriented excise regulatory policy** for grain distilleries and alcoholic beverages.
+
+#### India's First National Cow Culture Museum (Mathura)
+- **Institution**: Established on the campus of **Pandit Deendayal Upadhyaya Pashu Chikitsa Vigyan Vishwavidyalaya in Mathura**, preserving the germplasm history and physical models of 100 indigenous bovine breeds.
+
+#### India–France National Centre of Excellence in Aeronautics (Kanpur)
+- **Sanction**: PM Narendra Modi announced the **National Centre of Excellence (NCoE) for Skilling in Aeronautics and Defence** at the **National Skill Training Institute (NSTI) in Kanpur**.
+
+#### Two New State Universities Established in UP (February 2026)
+- **Legislation**: UP Legislative Assembly passed enabling Acts on **16 February 2026** establishing:
+  1. **Kashi Naresh State University in Bhadohi**
+  2. **Swami Shukdevanand State University in Shahjahanpur**.
+
+#### Eparchaean Unconformity at Kalinjar Fort Declared Geo-Heritage Site
+- **Designation**: Geological Survey of India (**GSI**) formally declared the **Eparchaean Unconformity near Kalinjar Fort in Banda district** as a **National Geo-Heritage Site of National Importance** on **6 March 2026** during GSI's 176th Foundation Day.
+
+#### Varanasi Sets Guinness World Record for Tree Plantation
+- **World Record**: On **1 March 2026**, Varanasi planted **2,51,446 saplings in a single hour** (surpassing China's 2018 record of 1.53 lakh trees) to create the urban green lung called **"Namo Van"**.
+
+#### Second Rangewide Dolphin Estimation Launched from Bijnor
+- **Wildlife Census**: MoEFCC rolled out the nationwide second dolphin census under **Project Dolphin** on **17 January 2026 starting from Bijnor, UP** along the Upper Ganga stretch (coordinated by WII Dehradun).
+
+#### 72nd National Volleyball Tournament (Varanasi)
+- **Event**: Inaugurated virtually by PM Modi on **4 January 2026** at the **Dr. Sampoornanand Sports Stadium in Varanasi** featuring 58 national teams.
+
+#### First State-Level Braille Library in UP
+- **Location**: Inaugurated on **4 January 2026** at **Dr. Shakuntala Misra National Rehabilitation University (DSMNRU) in Lucknow**, housing over 4,000 Braille reference volumes.
+
+#### UP Tops Business Deregulation 1.0 Rankings
+- **National Honors**: Uttar Pradesh was ranked **#1 in India** by the Department for Promotion of Industry and Internal Trade (DPIIT) for cutting bureaucratic compliance across 23 key commercial sectors.
+
+#### Divya Singh (Gorakhpur) Cycles to Everest Base Camp
+- **Mountaineering Feat**: 28-year-old schoolteacher **Divya Singh from Gorakhpur** became the **first Indian woman and second woman globally** to cycle all the way to Mount Everest Base Camp (completed in 14 days).
+
+#### 700-kg Vikramaditya Vedic Clock Installed in Kashi Vishwanath
+- **Cultural Landmark**: A massive 700-kg Vedic clock calculating traditional *Panchang* and celestial time was installed at **Kashi Vishwanath Temple in Varanasi** in April 2026, gifted by Madhya Pradesh CM Mohan Yadav.
+
+#### India's First Indigenous Hydrogen-Powered Water Taxi (Varanasi)
+- **Green Maritime Transport**: Flagged off by Union Minister Sarbananda Sonowal on **11 December 2025 in Varanasi** on the Ganga River; powered by hydrogen fuel cell modules with zero tailpipe carbon emissions.
+
+---
+
 ## Practice Zone — UPPCS Format
 
 > **20 questions** for this sheet only — drill after you revise the months above.
