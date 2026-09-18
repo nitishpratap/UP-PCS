@@ -135,7 +135,7 @@ D. Hispar
 
 ---
 
-![img_5.png](../img_5.png)
+![Indian Physical Geography Overview Cheat Sheet](images/00_chapter_overview_cheat_sheet.png)
 
 ## Must-score facts — belts, peaks, passes
 
@@ -182,7 +182,8 @@ D. Hispar
 | **Himalayas and extra-peninsular mountains** | Young fold belt from India–Eurasia collision | Still rising in zones; includes Karakoram and Purvanchal |
 | **Indo–Ganga–Brahmaputra (ब्रह्मपुत्र) Plain** | Foredeep filled with Himalayan alluvium | One of the world’s largest alluvial (जलोढ़) tracts |
 
-![physical-map-india.jpg](physical-map-india.jpg)
+![India Physical Relief Map](images/00_india_physical_relief_map.jpg)
+
 - The **six** relief units used in map questions are Northern Mountains, Northern Plains, Peninsular Plateau, Indian Desert, Coastal Plains, and Islands.
 - Some notes list only **five** units and fold the Thar into the **Rajasthan Plain**. Keep the Thar as a **separate** Pleistocene–recent sand sheet, so use six divisions.
 - About **43%** of India is plains, **28%** plateau, **19%** hills, and **11%** high mountains (standard class figures).
@@ -197,6 +198,8 @@ D. Hispar
 ---
 
 ## 1.1 Physiographic Divisions of India
+
+![Six Physiographic Divisions of India](images/01_physiographic_divisions_map.png)
 
 | Division | Where | Age | One-line identity |
 |----------|-------|-----|-------------------|
@@ -226,6 +229,8 @@ D. Oligocene
 </details>
 
 ### Northern Plains
+
+![Northern Plains Geomorphological Cross-Section: Shiwalik to Khadar](images/02_northern_plains_cross_section.jpg)
 
 - The Northern Plain is a **foredeep** filled by Himalayan rivers. South of the Shiwaliks the belts run **Bhabar** (भाबर), then **Terai** (तराई), then **Bhangar (भांगर) / Khadar (खादर)**. Never reverse that order.
 - Direction matters. From the **Himalaya foot moving south**, the order is **Shiwalik → Bhabar → Terai**. From the **Gangetic edge moving north**, UK-style lists read **Tarai → Bhabar → Shiwalik**. Same belts — opposite reading (रीडिंग) direction. Always note where the stem starts.
@@ -333,6 +338,8 @@ D. Oligocene
 - The **Eight Degree Channel** separates **Minicoy** from the **Maldives**.
 - Adam’s Bridge / **Rama Setu** remnants lie between India and Sri Lanka. They are a submerged limestone shoal, not a Himalayan fold.
 
+![Coastal Plains & Islands of India](images/03_coastal_facts_and_islands.png)
+
 > **Logic:** Never reverse origins. A&N = volcanic. Lakshadweep = coral.
 
 ---
@@ -343,6 +350,8 @@ D. Oligocene
 - The arc has two **syntaxial bends**. The western bend is around **Nanga Parbat**. The eastern bend is around **Namcha Barwa** in **Tibet**, not in India.
 
 ### North to south (parallel ranges)
+
+![Himalayan Mountain System: Parallel Ranges & Cross-Section](images/04_himalayan_structure_and_valleys.png)
 
 | Range | Typical height | Rock / fossil fact |
 |-------|----------------|--------------------|
@@ -394,6 +403,8 @@ D. 1, 2 and 3 are correct
 </details>
 
 ### West to east (regional sections)
+
+![Himalayas: West to East Regional Divisions by River Boundaries](images/05_himalayan_regional_divisions.jpg)
 
 - NCERT cuts the Himalaya by rivers, west to east.
 - The **Punjab Himalaya** (about **560 km**) lies between the **Indus and the Satluj**. Karakoram, Ladakh, Pir Panjal, Zaskar, and Dhauladhar sit in this western block.
@@ -458,6 +469,8 @@ D. 1, 2 and 3 are correct
 
 ### Himalayan peaks (match home)
 
+![Major Mountain Peaks of India](images/06_important_peaks_map.png)
+
 | Peak | m | Note |
 |------|---|------|
 | **K2 (Godwin Austin)** | 8611 | **Karakoram** (PoK) — not the main Himalayan arc |
@@ -493,6 +506,10 @@ D. 1, 2 and 3 are correct
 | **Shevaroy** | — | Salem, Tamil Nadu | — | Eastern Ghats; **not** Tirupati |
 
 - Central India hills run **west to east** as **Satpura**, then **Mahadeo**, then **Maikal**, then **Chhotanagpur**.
+
+![Peninsular Hills: West to East Profile](images/07_peninsular_hills_profile.png)
+
+![Hills of Peninsular India - Complete Map](images/08_peninsular_hills_pmfias_map.png)
 
 ### Aravalli Range
 
@@ -553,6 +570,8 @@ D. Satpura, Mahadeo, Chhotanagpur and Maikal
 - **Bhor Ghat (Khandala)** carries the Mumbai–Pune (पुणे) route.
 - **Palghat (Palakkad) Gap** is a **rift** and the **widest** gap. It links Kerala with Tamil Nadu and lets south-west monsoon moisture into the Mysore (मैसूर)–Coimbatore interior.
 
+![Western Ghats vs Eastern Ghats Comparison](images/10_western_vs_eastern_ghats.png)
+
 ### Eastern Ghats
 
 - The Eastern Ghats are **discontinuous** and lower. They have neither structural unity nor a continuous crest.
@@ -596,6 +615,8 @@ D. Satpura, Mahadeo, Chhotanagpur and Maikal
 | Lower | about **150 m** |
 | **Intertrappean beds** | Sediment **between** lava flows; **land / freshwater** fossils — **not** sea plants and animals |
 
+![Deccan Trap Basalt Flows & Intertrappean Beds Diagram](images/11_deccan_trap_layers.png)
+
 **PYQ — UPPCS Prelims 2024, Q59**
 
 Which one of the following pairs (Deccan Trap – Peculiarity) is not correctly matched?
@@ -615,6 +636,8 @@ D. Depth of upper trap – approximately 450 metres
 </details>
 
 ### Central Highlands and north-eastern plateaus
+
+![Peninsular Plateaus of India - Central Highlands & Deccan](images/09_peninsular_plateaus_map.png)
 
 - The Central Highlands are the **northern** Peninsular Plateau, **north of the Narmada–Son**.
 - **Marwar / Mewar (मेवाड़) Plateau** is **east** of the Aravalli (sandstone–shale–limestone, Banas toward Chambal). **Marwar Plain** is the Thar **west** of the Aravalli. Do not swap them.
@@ -642,6 +665,8 @@ D. Depth of upper trap – approximately 450 metres
 ## 1.4 Passes, Peaks & Sacred Geography
 
 ### Mountain passes
+
+![Major Mountain Passes of India](images/12_major_passes_map_facts.png)
 
 - UPPCS tests **pass ↔ State / UT**. The wrong state is the trap.
 
@@ -798,6 +823,8 @@ D. Only 1
 
 ### Tropic of Cancer (23°30′ N)
 
+![Tropic of Cancer: 8 States Chain](images/14_tropic_of_cancer_map.png)
+
 **Easy idea:** This is a **latitude** line (runs east–west). South of it the sun can be overhead once a year; north of it (Himalaya belt) India is **not** purely tropical.
 
 | Order (west → east) | State on the Tropic |
@@ -845,6 +872,8 @@ D. 1 and 2
 
 ### Extreme points
 
+![India Latitudinal & Longitudinal Extent and Extreme Points](images/13_india_locational_framework_map.png)
+
 | Extreme | Place | Easy fact |
 |---------|-------|-----------|
 | **North** | **Indira Col**, Siachen / Ladakh | High pass on the northern frontier — not a city |
@@ -877,6 +906,8 @@ D. 1 and 2
 - **Telangana** is not a coastal state. **Puducherry** is a coastal UT with enclaves, not a “tenth coastal state” in this ranking.
 
 > **Logic:** Gujarat** has the longest **state** mainland coastline — not Maharashtra, Andhra Pradesh, or Kerala.
+
+![UPPCS Geography PYQ Traps Reminder](images/15_pyq_traps_reminder.png)
 
 ---
 
