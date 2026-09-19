@@ -262,11 +262,11 @@ Notes use this set, not full USDA taxonomy names. Read each row for how it forms
 |:---|:---:|:---|:---|:---|:---|
 | **Alluvial Soil**<br>*(जलोढ़ मृदा)* | ~**40%** (Class 11)<br>~46% (other) | **Uttar Pradesh** (उत्तर प्रदेश) | Bihar, West Bengal, Punjab, Haryana, Coastal deltas (AP/Odisha/TN) | Extensive Indo-Gangetic river floodplains; transported silt (*khadar* & *bangar*) | **Trap:** Bundelkhand (southern UP) is **not** alluvial (it has black *Mar/Kabar* & red *Rakar/Parua*); but UP as a whole holds the single largest alluvial tract (~90% of state area). |
 | **Black Soil / Regur**<br>*(काली / रेगुर मृदा)* | ~**15–16%** | **Maharashtra** (महाराष्ट्र) | Madhya Pradesh (Malwa), Gujarat (Kathiawar), North Karnataka, Telangana | Formed *in situ* by weathering of **Deccan Trap basaltic lava**; rich in titaniferous magnetite; high clay & moisture retention | **Trap:** Regur is strictly peninsular volcanic; **never** match with Himalaya or Gangetic plains. Do not mistake local black patches in eastern India (Rajmahal) as main Deccan regur. |
-| **Red & Yellow Soil**<br>*(लाल एवं पीली मृदा)* | ~**18.5%**<br>*(2nd largest)* | **Andhra Pradesh** (आंध्र प्रदेश) / **Tamil Nadu** | Odisha, Chhattisgarh, Chotanagpur (Jharkhand), Southern Karnataka | Formed on **ancient crystalline & metamorphic granite–gneiss** rocks under low-to-medium rainfall; red from ferric oxide ($Fe_2O_3$) diffusion | **Trap:** Red soil is **not** laterite! Red soil has good tilth and responds well to fertilizers (pulses, millets, oilseeds); laterite is intensely leached, acidic, and bakes rock-hard. |
+| **Red & Yellow Soil**<br>*(लाल एवं पीली मृदा)* | ~**18.5%**<br>*(2nd largest)* | **Andhra Pradesh** (आंध्र प्रदेश) / **Tamil Nadu** | Odisha, Chhattisgarh, Chotanagpur (Jharkhand), Southern Karnataka | Formed on **ancient crystalline & metamorphic granite–gneiss** rocks under low-to-medium rainfall; red from ferric oxide (Fe₂O₃) diffusion | **Trap:** Red soil is **not** laterite! Red soil has good tilth and responds well to fertilizers (pulses, millets, oilseeds); laterite is intensely leached, acidic, and bakes rock-hard. |
 | **Laterite Soil**<br>*(लेटराइट मृदा)* | ~**3.7–4.3%** | **Kerala** (केरल - Malabar Coast) | **Maharashtra** (Western Ghats crests/Konkan if Kerala absent), Karnataka, Meghalaya (Shillong plateau) | Intense **tropical leaching** under alternate wet & dry seasons; silica & lime washed down (*eluviation*), Fe & Al oxides left on top; bakes like brick (*later*) | **Trap:** First identified in **Angadipuram, Kerala (Malabar)** by Francis Buchanan (1807). If Kerala is not in the options, look for **Maharashtra / Karnataka** (Western Ghats). Never pick northern alluvial plains (UP/Punjab) or desert (Rajasthan). |
 | **Desert / Arid Soil**<br>*(मरुस्थलीय मृदा)* | ~**4.3–4.4%** | **Rajasthan** (राजस्थान - Western/Thar) | Northern Gujarat (Kutch fringe), Southern Haryana & Punjab | Hyper-arid to semi-arid climate, mechanical weathering; sandy texture, alkaline pH, high soluble salts, thick subsoil *kankar* (calcareous) pan | **Trap:** Not permanently sterile — highly productive when irrigated (Indira Gandhi Canal proved this for wheat/mustard/cotton). Do not match with wet NE states like Meghalaya! |
 | **Forest & Mountain Soil**<br>*(पर्वतीय / वन मृदा)* | ~**8.6%** | **Jammu & Kashmir / Ladakh / Himachal Pradesh / Uttarakhand** | Sikkim, Arunachal Pradesh, higher slopes of Western & Eastern Ghats | Formed under forest cover on steep mountain slopes; thin, skeletal, immature profile (*azonal*); acidic with slow humus decomposition in cold climates | **Trap:** Soil depth varies sharply by relief — thin on steep slopes, deep and fertile in valley bottoms (Kashmir, Doon, Kullu valleys). |
-| **Saline & Alkaline Soil**<br>*(लवणीय एवं क्षारीय / ऊसर / रेह)* | ~**2.1%** | **Uttar Pradesh** (Western & Central canal tracts) / **Gujarat** (Rann) | Punjab, Haryana, Coastal saline tracts (Sundarbans, Chilika) | High evaporation exceeding rainfall + canal over-irrigation without underground drainage → capillary rise of sodium, calcium & magnesium salts | **Trap:** **Gypsum ($CaSO_4 \cdot 2H_2O$)** is used for alkaline/sodic soils (replaces exchangeable Na with Ca); **Lime ($CaCO_3$)** is for acidic soils (low pH). Never use lime on alkaline/usar soils! |
+| **Saline & Alkaline Soil**<br>*(लवणीय एवं क्षारीय / ऊसर / रेह)* | ~**2.1%** | **Uttar Pradesh** (Western & Central canal tracts) / **Gujarat** (Rann) | Punjab, Haryana, Coastal saline tracts (Sundarbans, Chilika) | High evaporation exceeding rainfall + canal over-irrigation without underground drainage → capillary rise of sodium, calcium & magnesium salts | **Trap:** **Gypsum (CaSO₄·2H₂O)** is used for alkaline/sodic soils (replaces exchangeable Na with Ca); **Lime (CaCO₃)** is for acidic soils (low pH). Never use lime on alkaline/usar soils! |
 | **Peaty & Marshy Soil**<br>*(पीट एवं दलदली मृदा)* | Localized (~**1%**) | **Kerala** (Kuttanad & Alappuzha/Kottayam - local **Kari** soil) | Sundarbans (West Bengal), Coastal Odisha, Northern Bihar (Koshi floodland), Tarai (Uttarakhand) | Waterlogged conditions in humid tracts with poor drainage; slow anaerobic breakdown of dead vegetation → massive organic accumulation (humus **40–50%**) | **Trap:** Peaty soil is heavy and jet black, but it is **not** regur/black cotton soil! Regur is dry/semi-arid basaltic alkaline soil; Peaty is submerged, acidic, and organic-heavy. |
 
 ---
@@ -339,7 +339,7 @@ In UPPCS Prelims and RO/ARO, questions routinely test local nomenclature used in
 | **"High moisture retention"** / retains subsoil moisture for months; sustains rainfed rabi crops long after rains cease | **Black Soil / Regur**<br>*(काली / रेगुर मृदा)* | Extremely fine, tight argillaceous texture and high capillary water-holding capacity. | Do not pick Alluvial or Red soil (both drain significantly faster). |
 | **"Bakes like brick"** upon exposure to sun and drying / alternate wet-and-dry tropical leaching | **Laterite Soil**<br>*(लेटराइट मृदा)* | Latin *later* = brick; intense tropical leaching washes away silica and bases (*desilication*), leaving an indurated residual crust of iron and aluminium oxides. | **Trap:** Red soil looks red from iron diffusion, but does **not** bake into rock-hard building bricks. |
 | **"River-borne transported sediments"** / *khadar* (newer, light, annual flood silt) vs *bangar* (older, clayey, terrace alluvium) | **Alluvial Soil**<br>*(जलोढ़ मृदा)* | Deposited by Himalayan and Peninsular rivers; azonal soil covering ~40% (NCERT) to ~46% of India's plain area. | UP and Bihar are overwhelmingly alluvial; do not assume all plain soils are homogeneous bangar. |
-| **"Kankar nodules"** *(कंकड़ / Calcareous nodules)* in lower horizons / impure calcium carbonate concretions | **Old Alluvium (Bangar)** OR **Arid Soil** | Downward leaching and precipitation of calcium carbonate ($CaCO_3$) in subsoil under sub-humid to arid regimes. | *Khadar* (new alluvium) is completely devoid of kankar; kankar is characteristic of *Bangar*. |
+| **"Kankar nodules"** *(कंकड़ / Calcareous nodules)* in lower horizons / impure calcium carbonate concretions | **Old Alluvium (Bangar)** OR **Arid Soil** | Downward leaching and precipitation of calcium carbonate (CaCO₃) in subsoil under sub-humid to arid regimes. | *Khadar* (new alluvium) is completely devoid of kankar; kankar is characteristic of *Bangar*. |
 | **"Thick sandy texture + high soluble salts + impermeable subsoil kankar layer"** | **Desert / Arid Soil**<br>*(मरुस्थलीय मृदा)* | Mechanical disintegration dominates over chemical decay under arid conditions; high evaporation draws salts upward; kankar layer restricts root penetration. | Not permanently barren; highly productive when irrigated (e.g., Indira Gandhi Canal command area). |
 | **"Thin, skeletal, immature profile on steep slopes"** / highly vulnerable to sheet erosion | **Mountain & Forest Soil**<br>*(पर्वतीय मृदा)* | Relief and slope prevent horizon maturation; azonal/skeletal; acidic with raw un-decomposed humus in snow-bound belts; fertile in valley bottoms. | Not regur; not transported plains alluvium. |
 | **"Waterlogged organic mass"** / high humus (40–50%) / dark, heavy, acidic / submerged lowlands | **Peaty & Marshy Soil**<br>*(पीट एवं दलदली मृदा)* | Anaerobic conditions in humid wetlands prevent bacterial oxidation of dead plant matter (e.g., Kuttanad 'Kari' in Kerala). | **Trap:** Dark/black color is from decaying organic humus, **not** basaltic volcanic ash or regur titaniferous magnetite! |
@@ -351,8 +351,8 @@ In UPPCS Prelims and RO/ARO, questions routinely test local nomenclature used in
 | Diagnostic Clue / Chemical Trait in Stem | Soil Type / Problem Class | Required Soil Amendment / Remedy | Examiner's Trap |
 |:---|:---|:---|:---|
 | **White salt efflorescence / crust** on surface (*Reh, Kallar, Thur, Luni, Chopan*) | **Saline Soil**<br>*(लवणीय मृदा / Solonchak)* | Leaching with fresh water + installing underground sub-surface tile drainage; salt-tolerant crops (barley, cotton). | Do not add lime or chemical precipitants; physical flushing and drainage are essential. |
-| **High exchangeable sodium ($Na^+$) / pH > 8.5** / black alkali spots (*Usar*) | **Alkaline / Sodic Soil**<br>*(क्षारीय मृदा / Solonetz)* | **Gypsum ($CaSO_4 \cdot 2H_2O$)** or Iron Pyrites ($FeS_2$) to replace exchangeable $Na^+$ with $Ca^{2+}$. | **Major Trap:** Adding Lime ($CaCO_3$) worsens alkaline soil! Lime is exclusively for acidic soils. |
-| **Low soil pH (< 5.5) / high acidity** / strong leaching of bases | **Acidic Soil**<br>*(अम्लीय मृदा - Laterite / Hill soils)* | **Agricultural Lime** (Quicklime $CaO$, Slaked lime $Ca(OH)_2$, or Limestone $CaCO_3$), Dolomite, or Wood Ash. | Never prescribe gypsum for acidic soils; gypsum does not raise soil pH significantly. |
+| **High exchangeable sodium (Na⁺) / pH > 8.5** / black alkali spots (*Usar*) | **Alkaline / Sodic Soil**<br>*(क्षारीय मृदा / Solonetz)* | **Gypsum (CaSO₄·2H₂O)** or Iron Pyrites (FeS₂) to replace exchangeable Na⁺ with Ca²⁺. | **Major Trap:** Adding Lime (CaCO₃) worsens alkaline soil! Lime is exclusively for acidic soils. |
+| **Low soil pH (< 5.5) / high acidity** / strong leaching of bases | **Acidic Soil**<br>*(अम्लीय मृदा - Laterite / Hill soils)* | **Agricultural Lime** (Quicklime CaO, Slaked lime Ca(OH)₂, or Limestone CaCO₃), Dolomite, or Wood Ash. | Never prescribe gypsum for acidic soils; gypsum does not raise soil pH significantly. |
 | **Rich in Potash and Lime, but universally deficient in Nitrogen, Phosphorus & Humus** | **Alluvial & Black Soils of India** | Supplement with NPK fertilizers (ideal Indian ratio **4:2:1**); green manuring with *Dhaincha* or *Sunnhemp*. | Almost all Indian soils (except peaty/forest) are inherently deficient in **Nitrogen, Phosphorus, and Humus**. |
 | **Rich in Iron & Aluminium, severely depleted in Silica, Lime, Magnesia, and Potash** | **Laterite Soil**<br>*(लेटराइट मृदा)* | Requires heavy doses of manures, lime, and nitrogenous-phosphatic fertilizers to sustain plantation crops. | Candidates confuse Laterite with Black soil; Laterite has been leached of its bases and silica. |
 
@@ -411,54 +411,54 @@ D. Topography
 
 ## N.1A World soil belts · phytotypes
 
-### 1. World Zonal Soils (Dokuchaev Tradition)
+### World Zonal Soils (Dokuchaev Tradition)
 
 > **The Core Zonal Law:** Soils are not merely broken rock fragments. **Vasily Dokuchaev** (the Russian father of modern pedology) established that over time, **Macro-Climate (temperature + precipitation) and Natural Vegetation Biomes override parent geology**. 
 > As you move latitudinally across the globe, climate belts create specific vegetation biomes, which directly generate predictable **Zonal Soil Belts**:
 
 | Soil Type | Etymology & Literal Meaning | Climate Belt & Biome | Pedological Formation & Characteristics | Classic Prelims Match / Key Trap |
 |:---|:---|:---|:---|:---|
-| **Chernozem**<br>*(चेरनोज़ेम)* | Russian: *Cherniy* (Black) + *Zemlya* (Earth) = **"Black Earth"** | **Temperate Grasslands** (Eurasian Steppes of Ukraine/Russia, North American Prairies) | Annual death of dense fibrous grass roots; cold winters slow bacterial decay $\rightarrow$ colossal accumulation of **dark humus (up to 10–16%)**; rich in calcium and moisture. | **The world's most fertile natural soil.** Known as the global "Breadbasket of the World" (wheat belt). |
-| **Chestnut**<br>*(चेस्टनट / भूरी स्टेपी मृदा)* | Color of chestnut nut (**Dark brown**) | **Semi-Arid Steppe Margins** (drier edge of Chernozem toward deserts) | Similar to Chernozem but receives **lower rainfall** $\rightarrow$ lower grass biomass $\rightarrow$ less humus. The color lightens from pitch black to chestnut brown. | Transitional buffer between humid Chernozem and dry Sierozem. |
+| **Chernozem**<br>*(चेरनोज़ेम)* | Russian: *Cherniy* (Black) + *Zemlya* (Earth) = **"Black Earth"** | **Temperate Grasslands** (Eurasian Steppes of Ukraine/Russia, North American Prairies) | Annual death of dense fibrous grass roots; cold winters slow bacterial decay → colossal accumulation of **dark humus (up to 10–16%)**; rich in calcium and moisture. | **The world's most fertile natural soil.** Known as the global "Breadbasket of the World" (wheat belt). |
+| **Chestnut**<br>*(चेस्टनट / भूरी स्टेपी मृदा)* | Color of chestnut nut (**Dark brown**) | **Semi-Arid Steppe Margins** (drier edge of Chernozem toward deserts) | Similar to Chernozem but receives **lower rainfall** → lower grass biomass → less humus. The color lightens from pitch black to chestnut brown. | Transitional buffer between humid Chernozem and dry Sierozem. |
 | **Prairie**<br>*(प्रेयरी / Brunizem)* | French: *Prairie* = **Meadow** | **Humid Temperate Grasslands** (US Midwest Corn & Soybean Belt) | Higher rainfall than Chernozem; dense tall-grass growth yields rich humus, but higher moisture causes mild base leaching. | Transitional between Chernozem (grassland) and Podzol (forest). Highly productive. |
-| **Podzol**<br>*(पोडज़ोल)* | Russian: *Pod* (under) + *Zola* (ash) = **"Under-ash"** | **Cold Temperate Coniferous (Taiga / Boreal)** forests (Canada, Siberia, Scandinavia) | Acidic pine needles + heavy snowmelt and organic acids leach out iron and humus downward, leaving a **bleached, ash-grey silica layer** ($E$-horizon). Strongly acidic and nutrient-poor. | **Acidic forest soil.** Classic Prelims pairing: Taiga/Coniferous woodland + ash-grey leached soil. |
+| **Podzol**<br>*(पोडज़ोल)* | Russian: *Pod* (under) + *Zola* (ash) = **"Under-ash"** | **Cold Temperate Coniferous (Taiga / Boreal)** forests (Canada, Siberia, Scandinavia) | Acidic pine needles + heavy snowmelt and organic acids leach out iron and humus downward, leaving a **bleached, ash-grey silica layer** (E-horizon). Strongly acidic and nutrient-poor. | **Acidic forest soil.** Classic Prelims pairing: Taiga/Coniferous woodland + ash-grey leached soil. |
 | **Spodosol**<br>*(स्पोडोसोल)* | Greek: *Spodos* (wood ash) | Humid cold temperate climates | **USDA Soil Taxonomy equivalent** for the Podzol family. | Treat Spodosol and Podzol as synonymous in civil services papers. |
-| **Laterite**<br>*(लेटराइट)* | Latin: *Later* = **Brick** | **Hot-Wet Tropical / Monsoon** belts with alternating wet and dry seasons | Heavy monsoonal downpours wash away silica and bases (*desilication/eluviation*), leaving an insoluble crust of **Iron ($Fe$) and Aluminium ($Al$) oxides**. Bakes rock-hard when dry. | **Intensely leached & acidic.** Poor for cereal grains; ideal for **cashew, tapioca, tea, coffee, rubber, cinchona**. |
-| **Sierozem**<br>*(सिरोज़ेम)* | Russian: *Seriy* (Grey) + *Zemlya* (Earth) = **"Grey Earth"** | **Mid-Latitude Temperate Deserts** and arid scrub (Central Asia, Great Basin) | Rainfall is so low that plant cover is sparse; negligible humus accumulation $\rightarrow$ pale ash-grey tint. High evaporation draws lime/calcium salts to the surface. | High in mineral salts/lime (*pedocal*), but severely deficient in organic humus and water. |
-| **Terra Rossa**<br>*(टेरा रोसा)* | Italian: *Terra* (Earth) + *Rossa* (Red) = **"Red Earth"** | **Mediterranean Karst Terrain** (Italy, Greece, Spain, Croatia) | Formed exclusively on **Limestone / Dolomite** bedrock. Rainwater dissolves and carries away soluble $CaCO_3$, leaving behind an insoluble residual **red clay mantle** enriched with ferric iron. | **High-Yield Prelims Pair:** Limestone weathering + Mediterranean climate. |
+| **Laterite**<br>*(लेटराइट)* | Latin: *Later* = **Brick** | **Hot-Wet Tropical / Monsoon** belts with alternating wet and dry seasons | Heavy monsoonal downpours wash away silica and bases (*desilication/eluviation*), leaving an insoluble crust of **Iron (Fe) and Aluminium (Al) oxides**. Bakes rock-hard when dry. | **Intensely leached & acidic.** Poor for cereal grains; ideal for **cashew, tapioca, tea, coffee, rubber, cinchona**. |
+| **Sierozem**<br>*(सिरोज़ेम)* | Russian: *Seriy* (Grey) + *Zemlya* (Earth) = **"Grey Earth"** | **Mid-Latitude Temperate Deserts** and arid scrub (Central Asia, Great Basin) | Rainfall is so low that plant cover is sparse; negligible humus accumulation → pale ash-grey tint. High evaporation draws lime/calcium salts to the surface. | High in mineral salts/lime (*pedocal*), but severely deficient in organic humus and water. |
+| **Terra Rossa**<br>*(टेरा रोसा)* | Italian: *Terra* (Earth) + *Rossa* (Red) = **"Red Earth"** | **Mediterranean Karst Terrain** (Italy, Greece, Spain, Croatia) | Formed exclusively on **Limestone / Dolomite** bedrock. Rainwater dissolves and carries away soluble CaCO₃, leaving behind an insoluble residual **red clay mantle** enriched with ferric iron. | **High-Yield Prelims Pair:** Limestone weathering + Mediterranean climate. |
 
 #### Dokuchaev Memory Shortcuts for Fast MCQ Solving
 
 * **Trick 1: The Russian Color Palette**
-  * **Cherno** = **Black** $\rightarrow$ *Black Earth* $\rightarrow$ Humus-rich Steppe Grassland (Wheat basket).
-  * **Siero** = **Grey** (सलेटी/धूसर) $\rightarrow$ *Grey Earth* $\rightarrow$ Arid Mid-latitude Desert.
-  * **Pod-zol** = **Ash** (राख) $\rightarrow$ *Ash-grey leached* $\rightarrow$ Cold Taiga / Coniferous forest.
-* **Trick 2: The Grassland Moisture Gradient (From Wet $\rightarrow$ Dry)**
-  $$\text{Prairie (Humid, Dark Brown)} \;\longrightarrow\; \textbf{Chernozem (Ideal, Pitch Black)} \;\longrightarrow\; \text{Chestnut (Drier, Brown)} \;\longrightarrow\; \textbf{Sierozem (Desert, Grey)}$$
-  *(Mnemonic: **P**erfect **C**orn **C**heers **S**and $\rightarrow$ Prairie $\rightarrow$ Chernozem $\rightarrow$ Chestnut $\rightarrow$ Sierozem)*
+  * **Cherno** = **Black** → *Black Earth* → Humus-rich Steppe Grassland (Wheat basket).
+  * **Siero** = **Grey** (सलेटी/धूसर) → *Grey Earth* → Arid Mid-latitude Desert.
+  * **Pod-zol** = **Ash** (राख) → *Ash-grey leached* → Cold Taiga / Coniferous forest.
+* **Trick 2: The Grassland Moisture Gradient (From Wet → Dry)**
+  **Prairie** (humid, dark brown) → **Chernozem** (ideal, pitch black) → **Chestnut** (drier, brown) → **Sierozem** (desert, grey)
+  *(Mnemonic: **P**erfect **C**orn **C**heers **S**and → Prairie → Chernozem → Chestnut → Sierozem)*
 * **Trick 3: 2-Word Fast Match Keys**
-  * **Terra Rossa** $\Longleftrightarrow$ **Limestone (Karst) + Mediterranean** *(Italian red sauce on Mediterranean limestone)*.
-  * **Laterite** $\Longleftrightarrow$ **Tropical Monsoon Leaching + Brick**.
+  * **Terra Rossa** ↔ **Limestone (Karst) + Mediterranean** *(Italian red sauce on Mediterranean limestone)*.
+  * **Laterite** ↔ **Tropical Monsoon Leaching + Brick**.
 
 ---
 
-### 2. Soil Water Dynamics & Capillary Rise
+### Soil Water Dynamics & Capillary Rise
 
-* **Capillary Rise (केशिका क्रिया):** Smaller pore spaces generate significantly stronger capillary suction climb. 
-  $$\text{Effectiveness order: } \textbf{Clay} > \textbf{Loam / Silt} > \textbf{Sandy soil} > \textbf{Sand}$$
+* **Capillary Rise (केशिका क्रिया):** Smaller pore spaces generate significantly stronger capillary suction climb.
+  Effectiveness order: **Clay** > **Loam / Silt** > **Sandy soil** > **Sand**
 * **Water-Holding Capacity (जल धारण क्षमता):** Governed by fine particle surface area and clay mineral lattice.
-  $$\text{Capacity order: } \textbf{Clay} > \textbf{Silt} > \textbf{Sand}$$
+  Capacity order: **Clay** > **Silt** > **Sand**
 
 ---
 
-### 3. Phytotypes ↔ Ecological Substrate (Plant Habitat Classification)
+### Phytotypes ↔ Ecological Substrate (Plant Habitat Classification)
 
 Every term ends with **-phyte** (Greek *phyton* = **plant**). The prefix is a standard science root word describing the environment:
 
 | Plant Label (पादप वर्ग) | Prefix Meaning | Everyday Science Anchor Word | Natural Habitat & Substrate | Typical Examples |
 |:---|:---|:---|:---|:---|
-| **Halophyte**<br>*(लवणमृद्भिद)* | **Halo** = Salt | **Halogen** *(Chlorine/Iodine form salts like $NaCl$)*; **Halite** *(rock salt)* | **Saline soils / Coastal salt marshes** *(लवणीय मृदा)* | Mangroves (*Rhizophora*, Sundari), *Salicornia* |
-| **Cryophyte**<br>*(शीतमृद्भिद)* | **Cryo** = Extreme Cold / Ice | **Cryogenic Engine** *(ISRO's liquid $H_2/O_2$ rocket engine)*; **Cryotherapy** *(ice therapy)* | **Cold, Polar, Tundra & Snowfields** *(शीत / टुंड्रा क्षेत्र)* | Snow mosses, alpine lichens |
+| **Halophyte**<br>*(लवणमृद्भिद)* | **Halo** = Salt | **Halogen** *(Chlorine/Iodine form salts like NaCl)*; **Halite** *(rock salt)* | **Saline soils / Coastal salt marshes** *(लवणीय मृदा)* | Mangroves (*Rhizophora*, Sundari), *Salicornia* |
+| **Cryophyte**<br>*(शीतमृद्भिद)* | **Cryo** = Extreme Cold / Ice | **Cryogenic Engine** *(ISRO's liquid H₂/O₂ rocket engine)*; **Cryotherapy** *(ice therapy)* | **Cold, Polar, Tundra & Snowfields** *(शीत / टुंड्रा क्षेत्र)* | Snow mosses, alpine lichens |
 | **Lithophyte**<br>*(शैलोद्भिद)* | **Litho** = Stone / Rock | **Lithosphere** *(rocky crust)*; **Paleolithic** *(Old Stone Age)* | **Bare Rock Surfaces & Cliffs** *(चट्टानी धरातल)* | Rock-dwelling lichens, ferns, orchids |
 | **Xerophyte**<br>*(मरुद्भिद)* | **Xero** = Dry | **Xerox** *(literally "dry copying" without liquid ink)*; **Xerophthalmia** *(dry eyes)* | **Tropical Deserts & Arid Regimes** *(शुष्क मरुस्थल)* | Cactus (*Opuntia*), Acacia (*Babool*), Khejri |
 | **Hydrophyte**<br>*(जलोद्भिद)* | **Hydro** = Water | **Hydration**, **Hydroelectric**, **Hydrogen** | **Open Water / Aquatic** *(floating or submerged)* | Lotus, Water Lily, *Hydrilla*, *Eichhornia* |
@@ -466,16 +466,16 @@ Every term ends with **-phyte** (Greek *phyton* = **plant**). The prefix is a st
 | **Psammophyte**<br>*(बालुकोद्भिद)* | **Psammo** = Sand | *Psammology* *(study of sand)* | **Shifting Sand Dunes & Sand Fields** *(रेतीले टीले)* | Sand binders, marram grass |
 | **Chasmophyte**<br>*(दरारोद्भिद)* | **Chasmo** = Fissure / Crevice | *Chasm* *(deep gorge/cleft)* | **Rock Crevices & Fissures** *(चट्टानों की दरारें)* | Saxifrage, cliff crevicular flora |
 | **Oxylophyte**<br>*(अम्लोद्भिद)* | **Oxy** = Acidic | *Oxygen* *(historically "acid former")* | **Strongly Acidic Soils** *(अम्लीय मृदा)* | Heather, peat moss (*Sphagnum*) |
-| **Calciphyte**<br>*(चूनामृद्भिद)* | **Calci** = Lime / Calcium | **Calcium Carbonate** ($CaCO_3$), *Calcification* | **Lime & Calcium-rich Soils** *(चूनायुक्त मृदा)* | Calciphilous limestone flora |
+| **Calciphyte**<br>*(चूनामृद्भिद)* | **Calci** = Lime / Calcium | **Calcium Carbonate** (CaCO₃), *Calcification* | **Lime & Calcium-rich Soils** *(चूनायुक्त मृदा)* | Calciphilous limestone flora |
 
 #### The Commission's Favorite Distractor: `Hydrophyte` vs `Hygrophyte`
 
-* **HYDRO-phyte** $\longrightarrow$ **Directly in Open Water (Aquatic)**: The plant actually lives submerged in or floating on a body of water (think: staying **hydrated** in a swimming pool $\rightarrow$ Lotus).
-* **HYGRO-phyte** $\longrightarrow$ **Swamps & High Atmospheric Humidity**: The plant grows on saturated marshy soil where air humidity is near 100% (think: a **hygrometer** measuring humidity $\rightarrow$ swamp ferns).
+* **HYDRO-phyte** → **Directly in Open Water (Aquatic)**: The plant actually lives submerged in or floating on a body of water (think: staying **hydrated** in a swimming pool → Lotus).
+* **HYGRO-phyte** → **Swamps & High Atmospheric Humidity**: The plant grows on saturated marshy soil where air humidity is near 100% (think: a **hygrometer** measuring humidity → swamp ferns).
 
 ---
 
-### 4. Soil Ecology & Conservation Highlights
+### Soil Ecology & Conservation Highlights
 
 * **Earthworms as "Ecosystem Engineers" (पारिस्थितिकी तंत्र के इंजीनियर):** Earthworms burrow continuously, creating subterranean macropores for aerating roots and water infiltration. Their organic castings enrich topsoil with nitrogen, phosphorus, and microbial flora while loosening heavy clays. They are universally **beneficial** for agriculture (classic wrong option: calling earthworms pests).
 * **Tropical Rainforest Paradox:** Equatorial rainforests experience the world's most lush vegetation, yet their soils are naturally **low in available nutrients** because year-round torrential rainfall causes relentless **leaching**, and high heat causes instant microbial oxidation of organic matter before a humus layer can accumulate.
