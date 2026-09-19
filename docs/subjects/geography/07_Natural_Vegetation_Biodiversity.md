@@ -569,23 +569,45 @@ D. Stamp
 
 ## N.3 Forest Distribution & ISFR
 
-**FSI** publishes **India State of Forest Report (ISFR)**.
+**Forest Survey of India (FSI)**, Dehradun (under MoEFCC), publishes the biennial **India State of Forest Report (ISFR)**.
 
-- **Forest cover** is canopy mapped by satellite.
-- **Recorded Forest Area (RFA)** (अभिलिखित वन क्षेत्र) is legal notification.
-- Do **not** mix cover % with recorded forest %.
+### Core Definitions
 
-| PYQ figure | Fact |
-|------------|------|
-| ISFR **2017** | **21.54%** of India’s TGA — later reports differ; fact the year asked |
-| ISFR **2021** | Max increase among options: **Andhra Pradesh** |
-| UP cover | About **6%** of TGA — **not 12.8%** |
-| ISFR **2023** UP >20% districts | **Chandauli + Shravasti** — **not Bahraich** |
-| Eastern plain belt | Jaunpur, Ghazipur, **Ballia** ≈ near-nil **forest land** — wetland still possible |
+- **Forest Cover (वन आवरण):** Satellite canopy mapping. All lands with tree canopy density $\ge 10\%$ and area $\ge 1$ hectare, **irrespective of ownership or legal status** (includes private orchards, tea estates, and plantations).
+  - *Very Dense Forest (VDF):* Canopy $> 70\%$
+  - *Moderately Dense Forest (MDF):* Canopy $40\% - 70\%$
+  - *Open Forest (OF):* Canopy $10\% - 40\%$
+  - *Scrub:* Canopy $< 10\%$ (NOT counted in Forest Cover).
+- **Tree Cover (वृक्ष आवरण):** Small tree patches, isolated trees, and linear roadside/canal plantings **$< 1$ hectare** occurring outside recorded forests (Trees Outside Forest / TOF).
+- **Recorded Forest Area (RFA) (अभिलिखित वन क्षेत्र):** Lands legally recorded or notified as forest in government revenue/forest records under the Indian Forest Act 1927 (**Reserved**, **Protected**, and **Unclassed**), regardless of whether trees physically grow there.
+- **Key Rule:** `Forest Cover ≠ Recorded Forest Area`. Approximately 27% of India's forest cover lies *outside* legally notified RFA.
 
-- Forest Policy **1988** set a national goal of **33%** forest/tree cover (वृक्ष आवरण).
-- Legal admin classes are **Reserved**, **Protected** and **Unclassed** — not the same as NCERT climate types.
-- Social / farm forestry is people-centric planting outside dense natural forest (Class 9).
+---
+
+### High-Yield UP-PCS Past Year Questions & Trap Facts
+
+| Topic / Year | Tested Concept | Official Fact / Commission Key | Exam Alert & Nuance |
+|:---|:---|:---|:---|
+| **ISFR 2021 (UPPSC 2022)** | State with maximum increase in forest cover | **Andhra Pradesh** (+647 sq km) | Followed by Telangana (+632 sq km) and Odisha (+537 sq km). Often tricked with MP. |
+| **UP Forest % (UPPSC 2023)** | "Forests constitute about 12.8% of the total area of the state." | **Accepted as TRUE** in UPPSC Official Key | **The Double Reality:** FSI satellite cover is **6.15%** (9.23% including tree cover), but UPPSC accepted **12.8%** based on state statistical diary / recorded forest classifications. |
+| **Eastern Plain Belt (UPPSC 2023)** | "Districts of Jaunpur, Ghazipur, and Ballia have no forest land." | **Accepted as TRUE** in UPPSC Official Key | Intensively cultivated alluvial Ganga plains (Purvanchal) officially record near-nil forest land. |
+| **>20% Forest Districts (UPPSC 2025)** | Districts with $>20\%$ forest cover in UP | **Chandauli + Shravasti** have $>20\%$; **Bahraich does NOT** | • Chandauli: ~21.63%<br>• Shravasti: ~20.95%<br>• Bahraich: ~10.15% (Katarniaghat Sanctuary present, but total district cover is $<20\%$). |
+| **ISFR 2017 (Old PYQ)** | Forest cover % of India's TGA | **21.54%** of India's TGA | In ISFR 2021, forest cover grew to **21.71%** (Total Green Cover = 24.62%). |
+| **UP Forest Extremes** | Max & Min forest districts in UP | • **Max Area & %:** Sonbhadra (~35%)<br>• **Min Area & %:** Bhadohi / Sant Ravidas Nagar ($<0.5\%$) | Consistently asked in UP special geography. |
+
+---
+
+### Policies & Administrative Classification
+
+- **National Forest Policy 1988:** Sets a national target of **33%** total forest and tree cover for India.
+  - Plains target: 20–25%.
+  - Hills and mountainous regions target: **66% (two-thirds)** to prevent soil erosion and landslides.
+- **Legal Administrative Classes:**
+  - **Reserved Forests:** Highest degree of protection; all activities (grazing, timber harvesting) prohibited unless specifically permitted.
+  - **Protected Forests:** Activities permitted unless specifically prohibited.
+  - **Unclassed Forests:** Other unclassified government or private/community woodlands.
+  - *(Note: These are legal governance categories under IFA 1927, not NCERT ecological/climatic zones like evergreen or deciduous).*
+- **Social Forestry:** Term coined by the National Commission on Agriculture (NCA) in 1976. Refers to raising plantations with community participation outside traditional dense forest reserves (farm forestry, community forestry, agro-forestry, and urban forestry).
 
 ---
 
@@ -593,14 +615,30 @@ D. Stamp
 
 **Acclimatization** is an organism adjusting its physiology to a new climate over days or seasons. **Adaptation** is a longer evolutionary trait that helps a species survive in a habitat. Teaching uses these **adaptation types** for vegetation questions.
 
-| Type | Meaning | Example |
-|------|---------|---------|
-| **Xerophyte** | Dry-adapted | Thorn forest: spines, succulence, deep roots |
-| **Hydrophyte** | Water-adapted | Lotus, hydrilla |
-| **Mesophyte** | Moderate (नरम दल) moisture | Most crops / deciduous understorey |
-| **Halophyte** | Salt-adapted | Mangroves |
-| **Pneumatophore** | Breathing root | Mangrove |
-| **Epiphyte** | Grows on other plants | Equatorial orchids (2019) |
+These names are two lists. Split them that way.
+
+**The plant (where it lives)**
+
+| Type | Hindi | Meaning | Example |
+|------|--------|---------|---------|
+| **Xerophyte** | मरुद्भिद | Dry-adapted | Thorn forest: spines, succulence, deep roots |
+| **Hydrophyte** | जलोद्भिद | Water-adapted | Lotus, hydrilla |
+| **Mesophyte** | समोद्भिद | Moderate moisture | Most crops / deciduous understorey |
+| **Halophyte** | लवणमृद्भिद | Salt-adapted | Mangroves |
+| **Epiphyte** | अधिपादप | Grows on another plant | Equatorial orchids |
+
+**The mangrove root (not a plant class)**
+
+| Feature | Hindi | Meaning | Example |
+|---------|--------|---------|---------|
+| **Pneumatophore** | वात-मूल / श्वसन मूल | Breathing root | Mangrove roots that stick up out of mud |
+
+Mangrove is the **plant** (halophyte). Pneumatophore is the **root trick** of that plant.
+
+- A hydrophyte lives **in water** (lotus).
+- An epiphyte sits **on a tree** (orchid). It is not a parasite.
+- A halophyte lives **in salt** (mangrove).
+- A pneumatophore is the mangrove’s **breathing root**, not a sixth plant class.
 
 A **xerophyte** lives where water is scarce. It may grow spines instead of broad leaves, store water in fleshy stems, shed leaves in drought, or send roots deep into groundwater. Thorn forests of Rajasthan and Gujarat are classic xerophyte belts.
 
