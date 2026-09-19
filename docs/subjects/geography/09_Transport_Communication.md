@@ -376,11 +376,9 @@ Roads are preferred for short and medium hauls because they are cheaper to build
 - **Pradhan Mantri (मंत्री) Bharat Jodo Pariyojana** builds highway corridors to tourist and economic nodes on **BOT**.
 - **Mumbai–Pune (पुणे)** was India’s first six-lane access-controlled expressway (~95 km).
 - **PMGSY** began **25 December 2000** — all-weather rural connectivity to eligible habitations.
-- **Jawahar (Banihal) Tunnel** crosses the **Banihal** axis of the **Pir Panjal** in Jammu & Kashmir (BRO).
-- IAS **2023** connectivity trap: East–West is **not** Dibrugarh–Surat.
-- The India–Myanmar–Thailand Trilateral ends at **Mae Sot** (not Chiang Mai).
-- BCIM runs **Kunming–Kolkata** (not Varanasi–Kunming).
-- All three stems in that paper were wrong.
+- The **Jawahar (Banihal) Tunnel** crosses the **Banihal** axis of the **Pir Panjal** in Jammu & Kashmir (BRO).
+- The **India–Myanmar–Thailand Trilateral Highway** is a road link from India through Myanmar into Thailand. It ends at **Mae Sot** in Thailand, not Chiang Mai.
+- The **BCIM** corridor (Bangladesh–China–India–Myanmar) runs **Kunming to Kolkata**. It is not a Varanasi–Kunming highway.
 - **Bharatmala** is the umbrella **highway** programme. It is **not** a port scheme.
 - An **expressway** is an **access-controlled** high-speed road, stricter than an ordinary national highway.
 
@@ -1474,7 +1472,9 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three were **wrong** in IAS 2023: EW is **Porbandar–Silchar**; Trilateral ends at **Mae Sot**; BCIM is **Kunming–Kolkata**.
+**Logic:** Statement 1 is false: the East–West Corridor is **Porbandar–Silchar**, not Dibrugarh–Surat. Statement 2 is false: the India–Myanmar–Thailand Trilateral Highway ends at **Mae Sot**, not Chiang Mai. Statement 3 is false: BCIM runs **Kunming–Kolkata**, not Varanasi–Kunming.
+
+**Ans: D.** None of the three statements is correct.
 
 </details>
 
