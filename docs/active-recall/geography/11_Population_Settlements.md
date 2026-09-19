@@ -70,7 +70,16 @@ Target about 25 minutes. Answer from memory. Mark misses. Framework: **distribut
 <details>
 <summary>Show answer</summary>
 
-**Ans: Thompson (Notestein awareness).** Stage 1 high birth and death. Stage 2 death falls first → **rapid growth**. Stage 3 birth falls. Stage 4 low birth and death. India is framed past pure Stage 2, in later expanding / declining-growth transition. **Demographic dividend** = large **15–59** working-age share. Benefit needs education, skills, jobs and health — numbers alone do not deliver it.
+**Ans: Thompson (Notestein awareness).** Stage 1 high birth and death. Stage 2 death falls first → **rapid growth**. Stage 3 birth falls. Stage 4 low birth and death. Blacker adds a fifth **declining** stage. India is framed past pure Stage 2, in later expanding / declining-growth transition. **Demographic dividend** = large **15–59** working-age share. Benefit needs education, skills, jobs and health — numbers alone do not deliver it.
+
+</details>
+
+**Q6a.** Name the main population theories and their propounders. Who else can appear as an option?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** Optimum Population is **Edwin Cannan**. Social mal-adjustment is **Henry George**. Demographic Transition is **Thompson**, with **Notestein** also named. Population–food is **Malthus**: geometric population and arithmetic food. It is a theory of **population**. Robbins, Dalton and Carr-Saunders restated optimum. Dalton’s maladjustment formula is not George. **Marx** treated surplus population as a product of capitalism. **Boserup** said population can intensify farming. **Dumont** is social capillarity, not George. Malthus positive checks raise deaths. Preventive checks lower births.
 
 </details>
 

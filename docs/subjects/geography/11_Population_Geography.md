@@ -30,7 +30,7 @@ Census of India | Factors of Distribution | Population Density (arithmetic / phy
 ---
 
 
-## Consolidated — 26 Must-Score Facts
+## Consolidated — 27 Must-Score Facts
 
 1. India’s first non-synchronous census was in **1872** (some papers key **1871**). The first **synchronous** all-India census was in **1881**.
 2. **1921** is the **Great Divide** year of Indian census history (इतिहास). **2011** was the **15th** census and the **7th** after Independence.
@@ -47,17 +47,18 @@ Census of India | Factors of Distribution | Population Density (arithmetic / phy
 13. The National Population Policy **2000** aimed at population stability by **2045**. World Population Day is **11 July**. The World Population Report is associated with **UNFPA**.
 14. The demographic dividend window is the large share of working ages **15–59**, not 60+ or 0–6. Dependency compares young plus aged with workers.
 15. Urbanisation acceleration in the classic curve is linked to the **second stage** of demographic transition. Among religions, **Jains** are the most urbanised.
-16. Demographic Transition Theory is linked to **Thompson** (with Notestein). Optimum population is linked to **Cannan**. Malthus argued population grows **geometrically** while food grows **arithmetically**.
+16. Demographic Transition Theory is linked to **Thompson** (with **Notestein**). Optimum population is linked to **Edwin Cannan**. Social mal-adjustment is linked to **Henry George**. Malthus argued population grows **geometrically** while food grows **arithmetically**. The Malthusian Theory is a theory of **population**.
 17. The largest internal migration stream is **rural → rural**. Female migration is often for marriage; male migration is often for work. **Immigration** means in-movement; **emigration** means out-movement.
 18. Push factors drive people from the origin; pull factors attract them to the destination. Out-migration sources are often Uttar Pradesh–Bihar; destinations are often Maharashtra–Delhi–Gujarat.
 19. A **census town** needs population **≥5,000**, density **≥400/km²**, and **≥75%** of **male main workers** in non-agriculture.
 20. Census 2011 listed **53** million-plus urban agglomerations. Kanpur (कानपुर) crossed the million mark in **1971**; Lucknow (लखनऊ) in **1981**. 2011 UP UA order is **Kanpur > Lucknow > Ghaziabad > Agra**.
 21. Uttar Pradesh district facts (2011): **Prayagraj** (प्रयागराज) most populous; **Ghaziabad** densest; **Jaunpur** (जौनपुर) among the higher sex-ratio districts; **Shrawasti** lowest female literacy.
-22. Uttar Pradesh holds about **16.5%** of India’s population. Rural share is about **77.7%**; urban about **22.3%**. State sex ratio is **912**; literacy about **67.7%**.
+22. Uttar Pradesh holds about **16.5%** of India’s population. Rural share is about **77.7%** against India’s **68.84%**. Urban share is about **22.3%** against India’s **31.16%**. State sex ratio is **912** against India’s **943**. Literacy is about **67.7%** against India’s **74.04%**.
 23. Crowded belts are the Ganga (गंगा) plain and coasts. Sparse belts are the Himalaya (हिमालय), North-East hills, Thar (थार) and dry interior pockets. Distribution factors include terrain, climate, soil, water, minerals, industry, transport and history.
 24. Keep **Census 2011** numbers for Prelims until **Census 2027** results replace them. UN estimates (प्राकलन समिति) that India became the most populous country around **2023** do not rewrite the 2011 tables.
 25. A broad-base population pyramid signals high fertility. Ageing shows earlier in southern States than in the high-fertility northern belt.
 26. Occupational structure is taught as primary / secondary / tertiary. Primary still takes a large share of India’s workforce, with a slow shift toward secondary and tertiary as development proceeds.
+27. Malthus’s **positive** checks raise the death rate (famine, disease, war). **Preventive** checks lower the birth rate (delayed marriage, moral restraint). **Karl Marx** treated surplus population as a product of capitalism, not a natural food-arithmetic law. **Ester Boserup** argued that population growth can push agricultural intensification.
 
 ---
 
@@ -88,6 +89,13 @@ Census of India | Factors of Distribution | Population Density (arithmetic / phy
 | Natural vs induced growth | Natural = CBR−CDR; induced = migration | Same thing | प्राकृतिक ≠ प्रेरित |
 | Immigration / emigration | In / out | Swap | आप्रवास / उत्प्रवास |
 | SC / ST share (2011) | SC ~**16.6%** · ST ~**8.6%** | Swap or invent | अनुसूचित जाति / जनजाति |
+| Optimum Population | **Edwin Cannan** | Robbins / Dalton / Carr-Saunders as the first name | अनुकूलतम जनसंख्या |
+| Social mal-adjustment | **Henry George** | Dalton’s “maladjustment” formula, or Malthus | सामाजिक कुसमायोजन |
+| Demographic Transition | **Thompson** (Notestein also) | Cannan / Malthus | जनांकिकीय संक्रमण |
+| Population–food | **Malthus** | Marx (he criticises Malthus) | जनसंख्या–खाद्य |
+| Geometric vs arithmetic | Population **geometric**; food **arithmetic** | Swap the two progressions | गुणोत्तर / समानांतर |
+| Positive vs preventive checks | Positive = **death** up; preventive = **birth** down | Swap | धनात्मक / निवारक नियंत्रण |
+| Social capillarity | **Arsène Dumont** | Henry George | सामाजिक केशिका |
 
 ---
 
@@ -244,7 +252,7 @@ Population density compares people with land. Prelims usually quotes **arithmeti
 | **Agricultural density** | Agricultural population ÷ **net sown** area | Pressure of farm workers on cultivated land |
 
 - India’s Census **2011** arithmetic density is **382** (do not mix with **2001 ≈ 325**).
-- High-density **state** ladder note: **Bihar (~1106)** > **West Bengal (~1028)** > **Kerala (~860)** > **Uttar Pradesh (829)**.
+- High-density **state** ladder note: **Bihar (~1106)** > **West Bengal (~1028)** > **Kerala (~860)** > **Uttar Pradesh (829)**. Uttar Pradesh **829** sits well above India’s **382**.
 - The lowest density **state** is **Arunachal Pradesh (~17)**.
 - NCT **Delhi** is a very high-density UT, but it is **not** a “state” answer for lowest density.
 - Moderate densities appear in many peninsular and central states; Himalayan and several NE hill states stay relatively low.
@@ -282,7 +290,7 @@ Sex ratio is the number of females per **1,000** males in the total population.
 - Among States in the usual 2011 set, the lowest sex ratio is **Haryana** (**879**).
 - Some Union Territories show even lower figures than Haryana, but State-level stems usually expect **Haryana**.
 - India’s **rural** sex ratio is higher than the **urban** sex ratio in the 2011 pattern, because male-selective migration into cities skews urban counts.
-- Uttar Pradesh sex ratio in 2011 is **912**, below the national average.
+- Uttar Pradesh sex ratio in 2011 is **912**, below India’s **943**.
 - Within UP, district notes often cite **Jaunpur** among the better sex-ratio districts.
 
 **Inline PYQ — UPPCS Prelims 2018, Q38**
@@ -315,7 +323,7 @@ Child sex ratio (CSR) counts girls per 1,000 boys in the age group **0–6**.
 - The State with the **lowest CSR in both rural and urban areas** in the usual 2011 set is **Haryana**.
 - Do not mark Uttar Pradesh, Kerala or Jammu & Kashmir for that lowest-CSR question.
 - Southern and several north-eastern States generally show healthier CSR patterns than the north-western belt in Census maps.
-- Uttar Pradesh’s overall sex ratio (**912**) is already below the national average; CSR stems still treat **Haryana** as the classic lowest rural-plus-urban answer.
+- Uttar Pradesh’s overall sex ratio (**912**) is already below India’s **943**. India’s CSR is **919**. CSR stems still treat **Haryana** as the classic lowest rural-plus-urban answer.
 
 **Inline PYQ — UPPCS Prelims 2018, Q110**
 
@@ -348,7 +356,7 @@ Census literacy covers persons aged **7 years and above** who can read and write
 - Lowest literacy State among major States is **Bihar** (about **61.8%**).
 - Literacy rose from about **64.8%** in 2001 to **74.04%** in 2011, with a large absolute gain among rural females.
 - Urban literacy is higher than rural literacy in every major State pattern taught from Census 2011.
-- In Uttar Pradesh, overall literacy in 2011 is about **67.7%**, below the national average.
+- In Uttar Pradesh, overall literacy in 2011 is about **67.7%**, below India’s **74.04%**.
 - In Uttar Pradesh, the lowest **female literacy** district fact is **Shrawasti**.
 - Do not mark Rampur, Balrampur or Bahraich for that UP female-literacy floor question.
 - The **Lorenz curve** measures **income inequality**, not illiteracy.
@@ -522,7 +530,7 @@ Urbanisation is the rising share of people living in **urban** places, plus the 
 - Urbanisation and high literacy both help reduce the birth rate over time.
 - Among religious groups, **Jains** have the highest urban share in Census 2011.
 - Among States, **Goa** (गोवा) is classically taught as the most urbanised State by share; large northern States remain more rural.
-- Uttar Pradesh’s urban share in 2011 is about **22.3%**, well below the national average, while its rural share is about **77.7%**.
+- Uttar Pradesh’s urban share in 2011 is about **22.3%**, well below India’s **31.16%**, while its rural share is about **77.7%** against India’s **68.84%**.
 - Urban growth comes from natural increase inside towns, rural–urban migration, and reclassification of rural units as census or statutory towns.
 
 **Inline PYQ — UPPCS Prelims 2021, Q48**
@@ -618,13 +626,9 @@ D. Working population of 15 to 59 years
 
 ## N.13 Demographic Transition & Theories
 
-**Demographic Transition Theory (Thompson; Notestein also appears in standard notes)**
+**Four named theories** | Cannan · Henry George · Thompson · Malthus
 
-- Stage 1: high birth rate and high death rate.
-- Stage 2: the death rate falls first, so population explodes.
-- Stage 3: birth rate falls.
-- Stage 4: low birth rate and low death rate.
-- India is generally framed in the later expanding / declining-growth phase after Stage 2–3 transition, not Stage 1.
+Population theories explain **why numbers grow**, **when growth slows**, and **whether a given size is too large or too small** for the resources in use.
 
 | Theory | Propounder |
 |--------|------------|
@@ -633,8 +637,82 @@ D. Working population of 15 to 59 years
 | Demographic Transition | **Thompson** |
 | Population–food | **Malthus** |
 
-- **Malthus** argued that population grows in **geometric** progression while food grows in **arithmetic** progression.
-- The Malthusian Theory is a theory of **population**.
+If a stem matches theory to person, use this table first. Other scholars appear in options as popularisers, critics, or parallel theories. They do **not** replace the four names above.
+
+### Malthus — Population–food (theory of population)
+
+**Thomas Malthus** (1798, *Essay on the Principle of Population*) argued that population grows in **geometric** progression (1, 2, 4, 8…) while food grows in **arithmetic** progression (1, 2, 3, 4…).
+
+- The Malthusian Theory is a theory of **population**. It is not a theory of poverty, unemployment, or the economy.
+- When numbers outrun food, misery returns through **positive checks** that raise the death rate: famine, disease and war.
+- **Preventive checks** lower the birth rate: delayed marriage, celibacy and moral restraint.
+- Do not swap the two progressions. Geometric is population. Arithmetic is food.
+- **Neo-Malthusians** later kept the food-pressure idea but stressed **birth control** as the main check.
+- **David Ricardo**’s diminishing returns on land is often taught beside Malthus. The geometric/arithmetic pairing itself remains **Malthus**.
+
+### Optimum Population — Edwin Cannan
+
+**Edwin Cannan** defined **optimum population** as the size at which, with given resources and technique, **income per head** is **maximum**.
+
+- If actual population is **below** that size, the country is **underpopulated** and per-head income sits below the peak.
+- If actual population is **above** that size, the country is **overpopulated** and per-head income falls.
+- **Lionel Robbins**, **Hugh Dalton** and **A.M. Carr-Saunders** restated the same optimum idea. If the stem asks who **propounded** Optimum Population Theory, the name is still **Edwin Cannan**.
+- Robbins spoke of the population that just makes **maximum returns** possible.
+- Dalton spoke of the population that gives **maximum income per head**.
+- Carr-Saunders spoke of the population that yields **maximum economic welfare**.
+- Dalton called the gap from the optimum **maladjustment**, written as **M = (A − O) / O**, where A is actual population and O is optimum. If M is positive the country is overpopulated. If M is negative it is underpopulated. If M is zero it is at the optimum.
+- Dalton’s word **maladjustment** is **not** Henry George’s Social Mal-adjustment Theory.
+
+### Social Mal-adjustment — Henry George
+
+**Henry George** (*Progress and Poverty*) argued that poverty is a **social mal-adjustment**, not a natural Malthusian food-arithmetic law.
+
+- He blamed **unequal land and wealth** (land monopoly and unjust distribution), not “too many people”.
+- Do not pair this theory with Malthus, Cannan, Thompson or Dalton.
+
+### Demographic Transition — Thompson (Notestein)
+
+**Warren Thompson** is the named propounder in the usual match list. **Frank Notestein** restated and popularised the same transition idea. **C.P. Blacker** is remembered for a **five-stage** version that adds a final **declining** stage.
+
+The classic four-stage path is **high stationary → early expanding → late expanding → low stationary**.
+
+| Stage | Birth rate | Death rate | Growth |
+|-------|------------|------------|--------|
+| 1 High stationary | High | High | Slow |
+| 2 Early expanding | High | Falls first | Rapid (explosion) |
+| 3 Late expanding | Falls | Low | Slows |
+| 4 Low stationary | Low | Low | Stable / very slow |
+| 5 Declining (Blacker) | Very low | Low, but can exceed births | Shrinks / ages |
+
+- Stage 1 stays high-high because of disease, poor health care and food shortage. Many notes illustrate it with pre-industrial / tribal societies.
+- Stage 2 is the explosion stage because **death falls first** (health, sanitation, food) while births stay high. Urbanisation **acceleration** in the classic curve is linked to this **second** stage.
+- Stage 3 is when **births fall** through education, urban living and family planning.
+- Stage 4 is low births and low deaths in a mature industrial society.
+- Stage 5 (when used) is ageing and possible natural **decrease**, as in several European countries and Japan.
+- India is generally framed in the **later expanding** phase after the Stage 2–3 shift, not in Stage 1. It is not parked forever in the explosion stage.
+
+### Other scholars who appear as options
+
+These names sit beside the four-theory table. They are parallel ideas or later restatements, not replacements for Cannan, Henry George, Thompson or Malthus.
+
+| Idea | Person |
+|------|--------|
+| Surplus population under capitalism | **Karl Marx** (with Engels) |
+| Population growth can intensify farming | **Ester Boserup** |
+| Social capillarity (rise in status → fewer children) | **Arsène Dumont** |
+| Five-stage transition including decline | **C.P. Blacker** |
+| Fertility falls as density rises | **Sadler** |
+| Diet theory (better fed → lower fertility) | **Doubleday** |
+| Energy to mind versus reproduction | **Herbert Spencer** |
+| Optimum restated (not the first name) | Robbins / Dalton / Carr-Saunders |
+| DTT restated (not the first name) | **Notestein** |
+
+- **Karl Marx** rejected Malthus’s natural-law overpopulation. He treated a **surplus population** as a product of **capitalist** production and unequal distribution, not of geometric births versus arithmetic food.
+- **Ester Boserup** argued the opposite pressure story. A larger population can **stimulate agricultural intensification** (more labour, shorter fallow, better technique) rather than only famine.
+- **Arsène Dumont**’s **social capillarity** says people who want to rise in status tend to have **fewer children**. Do not confuse Dumont with Henry George.
+- **Sadler** linked lower fertility with higher density.
+- **Doubleday** linked lower fertility with a richer diet.
+- **Herbert Spencer** argued that energy spent on mental development reduces energy left for reproduction.
 
 **Inline PYQ — UPPCS Prelims 2023, Q122**
 
@@ -660,7 +738,10 @@ D. A-(4), B-(3), C-(1), D-(2)
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Cannan, Henry George, Thompson, Malthus.
+**Logic:** The stem tests four theory–person pairs. Cannan is optimum, not DTT. Henry George is social mal-adjustment, not Dalton’s optimum formula. Thompson is DTT. Malthus is population–food.
+
+**Ans: A.** A-3 Cannan, B-4 Henry George, C-1 Thompson, D-2 Malthus.
+
 </details>
 
 **Inline PYQ — UPPCS Prelims 2024, Q94**
@@ -678,7 +759,10 @@ D. Geometric, Arithmetic
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Population **geometric**; food **arithmetic**.
+**Logic:** The stem tests the exact Malthus wording. Option C swaps the two progressions. Linear/exponential wording is a paraphrase trap, not the standard pair.
+
+**Ans: D.** Population grows in **geometric** progression. Food grows in **arithmetic** progression.
+
 </details>
 
 ---
@@ -689,9 +773,12 @@ D. Geometric, Arithmetic
 
 Uttar Pradesh is India’s **most populous** state and also has the **largest rural** population in Census 2011.
 
-- UP held about **16.5%** of India’s population (~**19.98 crore**).
-- Density **829**, sex ratio **912**, literacy about **67.7%**, urban share about **22.3%**, rural share about **77.7%**.
-- Decadal growth **2001–11** was about **20.23%**.
+- UP held about **16.5%** of India’s population (~**19.98 crore** of India’s **121.09 crore**).
+- Density is **829** against India’s **382**.
+- Sex ratio is **912** against India’s **943**.
+- Literacy is about **67.7%** against India’s **74.04%**.
+- Urban share is about **22.3%** against India’s **31.16%**. Rural share is about **77.7%** against India’s **68.84%**.
+- Decadal growth **2001–11** was about **20.23%**, above India’s **17.64%**.
 - **Prayagraj** is the most populous district in the 2011 note.
 - **Ghaziabad** is the densest district.
 - **Jaunpur** ranks among the better sex-ratio districts.
@@ -700,13 +787,19 @@ Uttar Pradesh is India’s **most populous** state and also has the **largest ru
 - UA order 2011: **Kanpur > Lucknow > Ghaziabad > Agra**.
 - Never treat TFR as a “per thousand” figure — that unit belongs to CBR.
 
-| Item | 2011 fact |
-|------|-----------|
-| Rank | Most populous state; largest rural population |
-| Density / SR / literacy | 829 / 912 / ~67.7% |
-| Female literacy floor (district) | **Shrawasti** |
-| Million years | Kanpur **1971**, Lucknow **1981** |
-| UA order | Kanpur > Lucknow > Ghaziabad > Agra |
+| Item | Uttar Pradesh 2011 | India 2011 |
+|------|--------------------|------------|
+| Rank | Most populous state; largest rural population | — |
+| Population | ~**19.98 crore** (~**16.5%** of India) | **121.09 crore** |
+| Density | **829** | **382** |
+| Sex ratio | **912** | **943** |
+| Literacy | ~**67.7%** | **74.04%** |
+| Urban share | ~**22.3%** | **31.16%** |
+| Rural share | ~**77.7%** | **68.84%** |
+| Decadal growth 2001–11 | ~**20.23%** | **17.64%** |
+| Female literacy floor (district) | **Shrawasti** | — |
+| Million years | Kanpur **1971**, Lucknow **1981** | — |
+| UA order | Kanpur > Lucknow > Ghaziabad > Agra | — |
 
 ---
 
@@ -751,7 +844,9 @@ D. Geometric, Arithmetic
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Logic:** The stem tests Malthus’s exact progression pair. Arithmetic–geometric is the swap trap.
+
+**Ans: D.** Population grows in **geometric** progression. Food grows in **arithmetic** progression.
 </details>
 
 ---
@@ -798,7 +893,9 @@ D. A-(4), B-(3), C-(1), D-(2)
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Logic:** Optimum = Cannan, not Thompson. Social mal-adjustment = Henry George, not Dalton’s optimum formula. DTT = Thompson. Population–food = Malthus.
+
+**Ans: A.** A-3 Edwin Cannan, B-4 Henry George, C-1 Thompson, D-2 Malthus.
 </details>
 
 ---
@@ -855,7 +952,9 @@ D. Poverty
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Logic:** The stem names the Malthusian Theory and asks what it is related to. Poverty, unemployment and economy are distractors. Henry George’s social mal-adjustment is the poverty-distribution story, not Malthus.
+
+**Ans: B.** The Malthusian Theory is a theory of **population**.
 </details>
 
 ---
@@ -1155,7 +1254,7 @@ D. A and B
 
 ## Practice Zone — UPPCS Format Drill
 
-> **30 questions** | Original drill (not a PYQ dump) | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D | **Ans first, then Logic**
+> **33 questions** | Original drill (not a PYQ dump) | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D | **Ans first, then Logic**
 
 **Q1.** With reference to India’s census history, which of the following statements is/are correct?
 
@@ -1410,25 +1509,26 @@ D. Neither 1 nor 2
 
 </details>
 
-**Q13.** Arrange the following demographic ideas with their linked scholars:
+**Q13.** Consider the following pairs:
 
 1. Demographic Transition Theory — Thompson (with Notestein)
-2. Optimum population — Cannan
+2. Optimum population — Edwin Cannan
 3. Geometric population vs arithmetic food — Malthus
+4. Social mal-adjustment — Henry George
 
 How many of the above pairs are correctly matched?
 
-A. Only one
-B. Only two
-C. All three
-D. None
+A. Only two
+B. Only three
+C. All four
+D. Only one
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three scholar pairs are correct.
+**Ans: C.** All four scholar pairs are correct.
 
-**Logic:** Keep Malthus geometric/arithmetic wording exact.
+**Logic:** Robbins/Dalton/Carr-Saunders restated optimum; they do not replace Cannan. Dalton’s maladjustment formula is not Henry George.
 
 </details>
 
@@ -1776,6 +1876,75 @@ D. Lowest density State — West Bengal
 
 </details>
 
+**Q31.** With reference to population theories, which of the following statements is/are correct?
+
+1. Optimum Population Theory is linked to Edwin Cannan.
+2. Social Mal-adjustment Theory is linked to Henry George.
+3. Dalton’s maladjustment formula is the same theory as Henry George’s Social Mal-adjustment Theory.
+
+Select the correct answer from the code given below:
+
+A. Only 3
+B. 1 and 2
+C. 2 and 3
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2 are correct.
+
+**Logic:** Statement 3 glues Dalton’s optimum gap formula onto Henry George. George’s social mal-adjustment is about unjust land and wealth, not M = (A − O) / O.
+
+</details>
+
+**Q32.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Malthus argued that population grows in geometric progression while food grows in arithmetic progression.
+
+Reason (R): The Malthusian Theory is a theory of poverty.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Assertion is true. Reason is false.
+
+**A/R logic:** Geometric vs arithmetic is Malthus. The theory is of **population**. Poverty-from-distribution is Henry George, not Malthus.
+
+</details>
+
+**Q33.** Match List-I with List-II and select the correct answer from the code given below:
+
+| List-I | List-II |
+|---|---|
+| A. Karl Marx | 1. Social capillarity |
+| B. Ester Boserup | 2. Surplus population of capitalism |
+| C. Arsène Dumont | 3. Population as a push to farm intensification |
+| D. C.P. Blacker | 4. Five-stage demographic transition |
+
+*Row order is not the answer code.*
+
+A. A-1, B-2, C-3, D-4
+B. A-2, B-3, C-1, D-4
+C. A-2, B-1, C-3, D-4
+D. A-3, B-2, C-1, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Marx–capitalist surplus; Boserup–intensification; Dumont–capillarity; Blacker–five stages.
+
+**Logic:** Do not give Dumont Henry George’s social mal-adjustment. Do not give Marx the geometric/arithmetic pair.
+
+</details>
+
 ## Common Traps — Don't Fall For These
 
 1. **First census = 1881** — FALSE as “first ever.” **1881 = first synchronous**; 2023 key **1871**.
@@ -1803,3 +1972,11 @@ D. Lowest density State — West Bengal
 23. **Immigration = movement out** — FALSE. Immigration = **in**; emigration = **out**.
 24. **ST share = 16.6%** — FALSE. ST ~**8.6%**; SC ~**16.6%**.
 25. **Skip factors of distribution because UPPCS never asked them** — FALSE. Next year can ask terrain/soil/industry pulls from the same topic.
+26. **Optimum Population = Robbins / Dalton / Carr-Saunders as the first name** — FALSE. Propounder = **Edwin Cannan**. The others restated it.
+27. **Social mal-adjustment = Dalton or Malthus** — FALSE. **Henry George**. Dalton’s M = (A − O) / O is the optimum **gap**, not George’s land-distribution argument.
+28. **Demographic Transition = Cannan** — FALSE. **Thompson** (Notestein also appears). Cannan is optimum.
+29. **Population geometric / food arithmetic swapped** — FALSE. Population is **geometric**. Food is **arithmetic**.
+30. **Malthusian Theory = poverty / economy / unemployment** — FALSE. It is a theory of **population**. Poverty-from-distribution is **Henry George**.
+31. **Positive checks = delayed marriage** — FALSE. Positive checks **raise deaths** (famine, disease, war). **Preventive** checks lower births.
+32. **Marx = geometric vs arithmetic** — FALSE. Marx criticised Malthus and treated surplus population as a product of **capitalism**.
+33. **Dumont = Social Mal-adjustment** — FALSE. Dumont is **social capillarity**. George is social mal-adjustment.
