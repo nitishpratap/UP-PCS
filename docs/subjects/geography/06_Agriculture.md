@@ -943,9 +943,8 @@ D. Ministry of Finance
 - Wheat gained most in production and productivity; rice came next.
 - Costs included regional inequality, a **groundwater** crash, nutrient mining, millet and pulse neglect, rice–wheat **monoculture**, and stubble burning.
 - Social and environmental costs are real — do not treat “no cost” as true.
-- Dry-zone India is still largely **agrarian**.
-- With irrigation, the same tracts have **second Green Revolution** potential.
-- Irrigation potential does **not** explain why dry India is agrarian — it only says what those tracts could become if water arrives.
+- Large parts of **rainfed / dry-zone** India are still **agrarian**: farming remains the main livelihood even where rainfall is low.
+- Those same tracts can raise yields sharply if **irrigation** arrives. That is the **second Green Revolution** idea for drylands the first Green Revolution skipped.
 - Second Green Revolution aims to extend seed–water–fertiliser to left-out areas and integrate crops with animal husbandry, social forestry (सामाजिक वानिकी) and fishing — not only more wheat–rice in already-benefited belts.
 - **BGREI** (Bringing Green Revolution to Eastern India) sits under RKVY.
 - It targets **rice-based** systems in the east and unused water, not a second Punjab in the desert.
@@ -3905,7 +3904,7 @@ D. 1 and 2
 6. **Yellow = horticulture** — FALSE. Yellow = **oilseeds**; Golden = horticulture **and honey**.
 7. **UP–Jute / Gujarat–Tea / Assam–Wheat** — FALSE. Correct pair in that set: **Kerala–Rubber**.
 8. **Ahmedabad = India’s largest cotton textile centre** — FALSE. In cotton *region* yes; largest mill centre traditionally **Mumbai**.
-9. **Maharashtra coops explain UP’s lower cane yield** — FALSE. Both facts true; R does **not** explain A (2019).
+9. **Maharashtra coops explain UP’s lower cane yield** — FALSE. UP leads quantity; Maharashtra leads productivity. Cooperatives do not cause that yield gap.
 10. **CIP potato centre = Aligarh** — FALSE. **Agra (Singna)**; UP is potato leader.
 11. **Sultana/Gulabi/Kali Champa = grapes only** — Sources disagree. The UPPCS **2018** answer was **guava**; Ghatnachakra lists **grapes** — for that year the paper answer is guava.
 12. **ACZ = 127 or 20** — FALSE. Planning ACZ = **15**; NARP ~127; AER ~20.
