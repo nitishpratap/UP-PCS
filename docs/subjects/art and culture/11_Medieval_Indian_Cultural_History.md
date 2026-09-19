@@ -121,6 +121,8 @@ Medieval art is Sultanate book-art, the Mughal kitabkhana, and Rajput and Pahari
 
 ---
 
+
+
 ## 11.2 Medieval Indian Architecture
 
 Medieval architecture brings the true arch (सच्चा मेहराब), the dome, and the charbagh. Learn monument, ruler, and city together.

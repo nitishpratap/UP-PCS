@@ -110,6 +110,8 @@ Indian Classical Dances, Bharatanatyam, Kathak, Kathakali, Kuchipudi, Mohiniyatt
 
 ---
 
+
+
 ## 6.1 Indian Classical Dances
 
 The root text is the **Natyashastra** of **Bharata Muni**. The Sangeet Natak Akademi list has **eight** classical dances. **Sattriya** became the eighth in **2000**.

@@ -111,6 +111,8 @@ Six Schools of Indian Philosophy (Shad Darshana) | Vedic Philosophy | Buddhist P
 
 ---
 
+
+
 ## 2.1 Six Schools of Indian Philosophy (Shad Darshana / षड्दर्शन)
 
 A **darshana** is a view aimed at liberation. **Astika** schools accept the Veda as a valid pramana. **Nastika** schools reject Vedic infallibility. Nastika is not the same as modern atheist.

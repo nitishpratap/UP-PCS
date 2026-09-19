@@ -133,6 +133,8 @@ D. A and D only
 
 ---
 
+
+
 ## 14.1 Tangible Cultural Heritage
 
 Tangible heritage (भौतिक) is physical cultural property: a monument, a site, a city, a cave, or a museum object. ASI protection and UNESCO listing are different doors.

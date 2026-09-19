@@ -124,6 +124,8 @@ D. None of the above
 
 ---
 
+
+
 ## 4.1 Ancient Indian Painting
 
 Ancient painting runs from prehistoric rock art to early historic work, before Gupta classical murals.

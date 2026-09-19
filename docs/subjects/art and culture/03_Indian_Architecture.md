@@ -144,6 +144,8 @@ Indian Temple Architecture | Nagara Style | Dravida Style | Vesara Style | Templ
 
 ---
 
+
+
 ## 3.1 Indian Temple Architecture
 
 **Meaning:** A Hindu temple is the house of the deity. The usual plan runs east to west from the gateway into the garbhagriha. This card also covers the syllabus head **Temple Architecture**.
@@ -180,6 +182,8 @@ Indian Temple Architecture | Nagara Style | Dravida Style | Vesara Style | Templ
 ---
 
 ## 3.2 Nagara Style
+
+![Nagara Temple Structure](images/art_ch03_01_temple_nagara.png)
 
 Nagara temples belong to North India. The tower is a curvilinear **shikhara**. There is generally no monumental gopuram.
 
@@ -277,6 +281,8 @@ D. Bhimashankar
 ---
 
 ## 3.3 Dravida Style
+
+![Dravida Temple Structure](images/art_ch03_02_temple_dravida.png)
 
 Dravida temples belong to the Tamil country and the south. The tower is a pyramidal **vimana** over the sanctum. The gateway is a tall **gopuram**.
 
@@ -431,7 +437,11 @@ The Buddhist trio is the **stupa** (relic mound), the **chaitya** (prayer hall),
 
 ---
 
+
+
 ## 3.8 Stupa
+
+![Buddhist Stupa Structure](images/art_ch03_03_buddhist_stupa.png)
 
 A stupa is a solid relic mound. From bottom to top the parts are *medhi*, then *anda*, then *harmika*, then *yashti* with *chhatra*.
 

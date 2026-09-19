@@ -97,6 +97,8 @@ Indian Sculpture | Gupta (गुप्त) Sculpture | Buddhist Sculpture | Temp
 
 ---
 
+
+
 ## 12.1 Indian Sculpture
 
 Indian sculpture uses stone, bronze, and terracotta. Religion and the court pay for it. Learn each school with its period and region.

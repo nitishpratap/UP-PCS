@@ -99,14 +99,17 @@
 
 **Identity:** UNEP 1972 | SD definition 1987 | Rio triple outcome 1992 | Agenda 21 trap | Earth Summit +5 | Rio+20
 
+![1972 Stockholm Summit](images/summit_1972_stockholm_1789803372847.jpg)
 - The **Stockholm Conference (1972)** (स्टॉकहोम सम्मेलन) was the first major UN conference on the **human environment**.
 - Its theme was **"Only One Earth"** and it adopted (अंगीकृत) the **Stockholm Declaration** with 26 principles.
 - Stockholm led to creation of **UNEP** with headquarters in **Nairobi, Kenya**.
 - **World Environment Day** is celebrated on **5 June** every year, marking the Stockholm opening day.
+![1987 Brundtland](images/summit_1987_brundtland_1789803390858.jpg)
 - The **Brundtland Commission (WCED)** published ***Our Common Future*** in **1987** with the classic **sustainable development** definition.
 - The Brundtland Report is **not** *The Limits to Growth* (Club of Rome, 1972).
 - Chronology often tested: ***Limits to Growth* (1972)** → **Brundtland Report (1987)** (ब्रंटलैंड रिपोर्ट) → **Montreal Protocol enforcement (January 1989)** → **Rio Earth Summit (June 1992)**.
 - Montreal was **signed in September 1987**; papers that say “enforcement” mean **January 1989**.
+![1992 Rio Earth Summit](images/summit_1992_rio_1789803403262.jpg)
 - The **Rio Earth Summit (1992)** (रियो पृथ्वी शिखर सम्मेलन 1992) or **UNCED** produced the **Rio Declaration**, opened **UNFCCC** and **CBD** for signature, and adopted **Agenda 21**.
 - **Agenda 21** is a non-binding action plan for **sustainable development in the 21st century** — adopted at **Rio 1992**, not 1995.
 - Agenda 21 is a large multi-chapter blueprint (about **40 chapters** in **4 sections** / groupings) — bank stems sometimes say “4 agreements.”
@@ -184,6 +187,7 @@ Brundtland Report is also known as *The Limits to Growth*?
 - Kyoto introduced **Clean Development Mechanism (CDM)** carbon credits and **Emissions Trading**. CDM projects run in **developing countries**; **1 CER ≈ 1 tCO₂**.
 - The **Green Climate Fund (GCF)** (जीसीएफ) was established at **Cancun COP-16 (2010)** under UNFCCC — not at Durban.
 - **Earth Hour** (अर्थ आवर) is a **WWF** (डब्ल्यूडब्ल्यूएफ) climate-awareness event (usually last Saturday of March). **GHG Protocol** = **WRI + WBCSD**.
+![2015 Paris & SDGs](images/summit_2015_paris_1789803416545.jpg)
 - The **Paris Agreement (2015)** (पेरिस समझौता) at **COP21** applies to **all countries** through **Nationally Determined Contributions (NDCs)**.
 - Paris aims to limit warming to **well below 2°C**, pursuing **1.5°C**.
 - Paris entered into force in **2016**. It is **not identical** to Kyoto's binding annex-only model.

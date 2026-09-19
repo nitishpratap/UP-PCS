@@ -111,6 +111,8 @@ Indian Music | Hindustani Classical Music | Carnatic Classical Music | Major Gha
 
 ---
 
+
+
 ## 5.1 Indian Music
 
 Indian art music is built on raga and tala. Two classical branches form after about the twelfth and thirteenth centuries. Folk and film music run parallel.
