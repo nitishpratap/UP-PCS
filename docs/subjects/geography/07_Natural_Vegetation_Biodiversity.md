@@ -22,7 +22,7 @@
 |------|------|-----------|--------|
 | **5 Jun 2026** | **Surha Tal / JP Narayan BS (Ballia)** = India’s **100th Ramsar**; UP **13th** | Count + latest UP site | MoEFCC (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय) / PIB |
 | **2025–26** | UP Ramsar adds Patna (पटना) BS, Sheikha Jheel, Surha Tal (full names in N.6) | State list (राज्य सूची) | MoEFCC |
-| **Budget 2023–24** | **MISHTI** mangrove restoration — not a 2019 start | 2025 Q93 | Budget |
+| **Budget 2023–24** | **MISHTI** mangrove restoration — not a 2019 start | Mangrove scheme year | Budget |
 | Static | Olivia (Coast Guard (तटरक्षक बल), Odisha, Nov–May); coral warming 2024 PYQ | Coastal ops | ICG / PYQ |
 | ISFR | Use the **report year in the question**; 2017 = 21.54% is a frozen PYQ | Figure trap | FSI |
 
@@ -95,7 +95,7 @@ Lakes-as-wetlands. This file keeps the **geography** facts.
 | Agasthyamalai | Kerala **and TN** | Only one state as if exclusive | अगस्त्यमलाई = केरल–TN |
 | Nilgiri BR | **First** Indian BR (1986) | Call Nanda Devi first | नीलगिरि पहला |
 | Hotspot count | **Four** Indian hotspots | Mix with 18 BRs | चार हॉटस्पॉट |
-| 2010 hotspot names | Himalaya + WG–SL + Indo-Burma + Sundaland (Nicobar) | Split Himalaya E/W + Andaman as the four | निकोबार = सुंडालैंड |
+| Hotspot names | Himalaya + WG–Sri Lanka + Indo-Burma + Sundaland (**Nicobar**) | Split Himalaya east/west, or add Andaman as if it were Sundaland | निकोबार = सुंडालैंड |
 | Wet evergreen rain | NCERT **>200 cm**; many notes also use **>250** for wet evergreen | Mix the two numbers in one question | 200 / 250 |
 | Dry evergreen vs wet evergreen | Dry evergreen = **TN coast**, NE monsoon ~100 cm | Call it Western Ghat rain forest | कोरोमंडल शुष्क सदाबहार |
 | Chir vs deodar belt | Chir = **subtropical pine** 1000–2000 m west; deodar = temperate | Swap belts | चीड़ निचला; देवदार ऊँचा |
@@ -223,14 +223,15 @@ Standard notes split Indian vegetation into **five** heads and **sixteen** sub-t
 **Four hotspots (Conservation International)**
 
 
-- **Himalaya** (whole Indian Himalaya, not a separate “east hotspot” plus “west hotspot”).
-- **Western Ghats and Sri Lanka**.
-- **Indo-Burma** (NE India and neighbours; **Nicobar is not** this box).
-- **Sundaland** covers **Nicobar** (with Indonesia–Malaysia), **not** the Andaman group as the Sundaland fact.
-- UPSC (संघ लोक सेवा आयोग) 2010 trap listed “Eastern Himalayas, Western Himalayas, Western Ghats and Andaman–Nicobar (अंडमान).” That naming is **wrong**. Hotspots are also **not** tropics-only (Mediterranean, SW Australia, Chilean temperate forest).
-- Myers idea: high **endemism** plus heavy **habitat (वास स्थान) loss**. Do not equate four hotspots with **18** biosphere reserves.
+- **Himalaya** is **one** hotspot covering the Indian Himalaya. Do **not** count Eastern Himalaya and Western Himalaya as two separate hotspots.
+- **Western Ghats and Sri Lanka** is the second.
+- **Indo-Burma** covers north-east India and neighbours. **Nicobar is not** in this box.
+- **Sundaland** covers **Nicobar** (with Indonesia–Malaysia). It does **not** make the Andaman group the Sundaland fact, and it is **not** a joint “Andaman–Nicobar hotspot.”
+- Do **not** write the four as Eastern Himalaya, Western Himalaya, Western Ghats and Andaman–Nicobar.
+- Hotspots are **not** tropics-only. Extra-tropical examples include the **Mediterranean**, **south-west Australia**, and the **Chilean** temperate / winter-rainfall forest.
+- Myers’ idea is high **endemism** plus heavy **habitat (वास स्थान) loss**. Do not equate four hotspots with **18** biosphere reserves.
 
-### World vegetation matches (2019)
+### World vegetation matches
 
 | Type | Region |
 |------|--------|
@@ -282,7 +283,7 @@ Tropical evergreen needs equable heat and heavy rain. These forests are also cal
 
 - **Cinchona** grows in Assam, Kerala, and West Bengal evergreen belts.
 - Cinchona does **not** grow as a Chhattisgarh dry-deciduous fact.
-- **Silent Valley (Kerala)** is the classic tropical evergreen / rain-forest name in match lists.
+- **Silent Valley (Kerala)** is the classic tropical evergreen / rain-forest pair.
 - **Mahogany** belongs here (tropical evergreen), **not** in the Himalayan set.
 
 **Semi-evergreen (the transition)**
@@ -2690,7 +2691,7 @@ D. Only 2 and 3
 16. **Hotspots = 18** — FALSE. **Four** hotspots; **18** biosphere reserves.
 17. **Nanda Devi = first BR** — FALSE. **Nilgiri (1986)** is first.
 18. **Forest cover % = Recorded Forest Area %** — FALSE. ISFR cover ≠ legal RFA.
-19. **Four hotspots = Eastern Himalaya + Western Himalaya + Western Ghats + Andaman** — FALSE. That is the **2010 trap**. Use Himalaya, WG–Sri Lanka, Indo-Burma, Sundaland (**Nicobar**).
+19. **Four hotspots = Eastern Himalaya + Western Himalaya + Western Ghats + Andaman** — FALSE. The four are Himalaya, Western Ghats–Sri Lanka, Indo-Burma, and Sundaland (**Nicobar**).
 20. **Dry evergreen = Western Ghat rain forest** — FALSE. It is the **Tamil Nadu / Coromandel** NE-monsoon belt.
 21. **Chir pine is an alpine juniper scrub** — FALSE. Chir is **sub-tropical pine** at about 1000–2000 m in the western Himalaya.
 22. **Hotspots exist only in the tropics** — FALSE. Mediterranean, SW Australia and Chilean temperate forest are hotspots too.
