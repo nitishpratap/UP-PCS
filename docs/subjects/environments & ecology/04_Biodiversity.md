@@ -126,8 +126,6 @@ Biodiversity | Levels of Biodiversity | Genetic Diversity (आनुवंशि
 
 **Identity:** Genetic | Species | Ecosystem | Whittaker α–β–γ
 
-![Biodiversity Levels, Spatial Metrics & Latitudinal Gradients](images/env_ch04_02_biodiversity_levels_gradients_alpha_beta_gamma.png)
-
 ### Genetic diversity
 
 - **Genetic diversity** is variation in genes and alleles **within** a species.
@@ -364,11 +362,11 @@ D. None of the above
 
 ---
 
+![India's 4 Biodiversity Hotspots — Geographic Distribution & Norman Myers Criteria](images/env_ch04_01_india_biodiversity_hotspots_map.png)
+
 ## 4.8 Biodiversity Hotspots
 
 **Identity:** Myers 1988 | ≥1500 endemic plants + ≥70% habitat lost | India has 4 of 36
-
-![India's Biodiversity Hotspots & Norman Myers Criteria](images/env_ch04_01_india_biodiversity_hotspots_criteria.png)
 
 - A **biodiversity hotspot** (जैव विविधता हॉटस्पॉट) is a region with **high endemism** and **severe habitat loss**.
 - **Norman Myers (1988)** set the hotspot concept. Conservation International later updated the global list to **36 hotspots** (about **2.5%** of Earth’s land; >**50%** of endemic plant species). The **36th** hotspot added via CEPF (2016) is the **North American Coastal Plain**.

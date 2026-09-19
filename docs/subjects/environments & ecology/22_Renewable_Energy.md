@@ -94,8 +94,6 @@ Solar Energy | Wind Energy | Biomass Energy (बायोमास ऊर्ज�
 
 **Identity:** PV + CSP | National Solar Mission 2010 | ISA Gurugram 2015 | 500 GW non-fossil 2030
 
-![Solar, Wind & Hydro Energy Architecture in India](images/env_ch22_01_solar_wind_hydro_energy_architecture.png)
-
 - **Solar energy** is radiant light and heat from the Sun — harnessed via **photovoltaic (PV)** panels or **concentrated solar power (CSP)** (संकेंद्रित सौर ताप).
 - **PV cells** (silicon semiconductors) convert photons to DC electricity; an inverter converts to AC for the grid.
 - **CSP** uses mirrors to heat fluid, produce steam, and drive a turbine — can store heat for after-sunset generation.
@@ -168,8 +166,6 @@ D. Only 1
 ## 22.3 Biomass Energy
 
 **Identity:** Organic matter → energy | Biogas = CH₄ + CO₂ | Bagasse UP sugar belt | Anaerobic digestion
-
-![Bioenergy, Geothermal & Ocean Energy Dynamics](images/env_ch22_02_biomass_geothermal_ocean_energy_matrix.png)
 
 - **Biomass energy** is stored **chemical energy in organic matter** — plants, crop residue, animal waste, wood — released by burning, fermentation, or **anaerobic digestion**.
 - **Anaerobic digestion:** bacteria break organic matter **without oxygen** in a digester → **biogas** + **slurry** (organic fertiliser).

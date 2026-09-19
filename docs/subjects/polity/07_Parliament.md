@@ -87,12 +87,6 @@ D. Governor
 29. Each House has its own **Secretariat** under **Article 98**. Ministers and the Attorney General may **speak in both Houses** (**Article 88**) but vote only in the House where they are members.
 30. **Meira Kumar** is the first woman Speaker of the Lok Sabha. Business Advisory Committee is chaired by the **Speaker**.
 
-### Visual Reference: Mathematical Majorities in the Indian Constitution
-![The 4 Types of Majorities in the Indian Constitution](images/pol_ch07_01_parliamentary_majorities_matrix.png)
-
-### Procedural Architecture: Legislative Journey of Bills & Joint Sitting (Art 108)
-![Legislative Journey of Bills: Procedural Decision Tree](images/pol_ch07_02_legislative_bill_passage_flowchart.png)
-
 ---
 
 ## Confused Pairs
@@ -735,6 +729,9 @@ Last session of the **outgoing** Lok Sabha **after** a new Lok Sabha has been el
 > **Logic:** Adjournment ≠ prorogation ≠ dissolution. Only the **President** prorogues/dissolves; only the **presiding officer** adjourns. Prorogation does **not** kill Bills.
 
 ---
+
+### Visual Reference: Mathematical Majorities in the Indian Constitution
+![The 4 Types of Majorities in the Indian Constitution](images/pol_ch07_01_parliamentary_majorities_matrix.png)
 
 ## Quorum & voting (गणपूर्ति / कोरम एवं मतदान: Art. 100)
 
@@ -4962,6 +4959,9 @@ D. A-1, B-2, C-3, D-4
 > **Logic:** Demands for Grants, cut motions, no-confidence, adjournment motion = **Lok Sabha only**. RS discusses the Budget but **does not vote** the demands.
 
 ---
+
+### Procedural Architecture: Legislative Journey of Bills & Joint Sitting (Art 108)
+![Legislative Journey of Bills: Procedural Decision Tree](images/pol_ch07_02_legislative_bill_passage_flowchart.png)
 
 ## Bills — types and traps
 

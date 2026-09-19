@@ -177,11 +177,11 @@ D. 4 2 1 3
 
 ---
 
+![In-Situ vs Ex-Situ Conservation & UNESCO Biosphere Reserve Zonation Architecture](images/env_ch06_01_in_situ_ex_situ_biosphere_structure.png)
+
 ## 6.3 Biosphere Reserve
 
 **Identity:** UNESCO MAB 1971 | Core–Buffer–Transition | 18 notified | No WPA basis
-
-![In-Situ vs Ex-Situ Conservation & UNESCO Biosphere Reserve Zonation Architecture](images/env_ch06_01_in_situ_ex_situ_biosphere_structure.png)
 
 - A **Biosphere Reserve (BR)** (जैवमंडल आरक्षित क्षेत्र) is a large landscape for conservation, research, and sustainable community use under UNESCO's **Man and the Biosphere (MAB) Programme**.
 - India notified its first BR, **Nilgiri** (नीलगिरि), in **1986**.
@@ -192,6 +192,8 @@ D. 4 2 1 3
 - **Nokrek** is in **Meghalaya** (Garo (गारो) Hills; Nokrek peak), not Manipur. **Simlipal** is in **Odisha** (ओडिशा). **Agasthyamalai** spans **Kerala and Tamil Nadu (तमिलनाडु)** (Neyyar, Peppara, Shendurney WLS + Kalakad–Mundanthurai TR).
 - The **largest** national BR by area is **Great Rann of Kutch** (Gujarat). Among UNESCO-certified Indian BRs by area, **Gulf of Mannar** is often cited as the largest. The **smallest** is **Nokrek** (Meghalaya).
 - Area order among common options: **Gulf of Mannar > Sundarbans (सुंदरबन) > Pachmarhi > Khangchendzonga**.
+
+![India's 18 Biosphere Reserves & UNESCO WNBR Global Recognition Network](images/env_ch06_02_india_biosphere_reserves_map.png)
 
 | # | Biosphere Reserve | State(s) |
 |---|-------------------|----------|
@@ -213,8 +215,6 @@ D. 4 2 1 3
 | 16 | Cold Desert | Himachal (हिमाचल) Pradesh |
 | 17 | Seshachalam Hills | Andhra Pradesh |
 | 18 | Panna | Madhya Pradesh |
-
-![India's 18 Biosphere Reserves & UNESCO WNBR Global Recognition Network](images/env_ch06_02_india_biosphere_reserves_map.png)
 
 **PYQ — UPPCS Prelims 2025, Q144**
 

@@ -90,8 +90,6 @@ Habitat | Habitat Conservation | Flora and Fauna
 
 **Identity:** Place where species lives | Terrestrial / aquatic / transitional | Adaptation-based types
 
-![Whittaker's Global Biome Classification Matrix](images/env_ch05_01_whittaker_biomes_classification.png)
-
 - A **habitat** is the natural place where a plant or animal normally lives and finds food, shelter, and breeding conditions.
 - NCERT treats habitat as the **address** of a species. It answers the question "where does it live?"
 - A **habitat** is not the same as a **niche**. The niche is the species **role** in the ecosystem.
@@ -104,6 +102,8 @@ Habitat | Habitat Conservation | Flora and Fauna
 - A **microhabitat** is a small unit within a larger habitat, such as bark crevices or the underside of a leaf.
 - A **macrohabitat** is a landscape-scale habitat unit such as an entire forest, lake, or desert tract.
 - A **biotope** is a European ecology (पारिस्थितिकी) term for an area with relatively uniform environmental conditions. Notes often treat it as similar to habitat.
+
+![Whittaker's Global Biome Classification Matrix](images/env_ch05_01_whittaker_biomes_classification.png)
 
 ### Major habitat types (classification)
 
@@ -249,11 +249,11 @@ D. 4, 2, 3, 1
 
 ---
 
+![Ecological Species Roles, Functional Guilds & Invasive Alien Species](images/env_ch05_02_ecological_species_roles_keystone_umbrella_flagship.png)
+
 ## 5.3 Flora and Fauna
 
 **Identity:** Biotic inhabitants of habitats | BSI + ZSI | India megadiversity stats
-
-![Ecological Species Roles, Functional Guilds & Invasives](images/env_ch05_02_ecological_species_roles_keystone_umbrella_flagship.png)
 
 - **Flora** is the collective **plant** life of a particular region, habitat, or geological period.
 - **Fauna** is the collective **animal** life of a particular region, habitat, or geological period.

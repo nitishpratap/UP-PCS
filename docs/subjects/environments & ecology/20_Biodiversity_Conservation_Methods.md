@@ -81,11 +81,11 @@ In-situ (स्थान पर) Conservation (स्व-स्थाने स�
 
 ---
 
+![Biodiversity Conservation In-situ vs Ex-situ Taxonomy & IUCN Red List Hierarchy](images/env_ch20_01_in_situ_ex_situ_conservation_taxonomy.png)
+
 ## 20.1 In-situ Conservation
 
 **Identity:** On-site | Natural habitat | Preferred primary strategy | WPA 1972 protected areas
-
-![Biodiversity Conservation: In-Situ vs Ex-Situ Taxonomy](images/env_ch20_01_in_situ_vs_ex_situ_conservation_taxonomy.png)
 
 - **In-situ conservation** protects species **where they naturally live**, keeping habitat, food webs, pollinators, and competitors intact.
 - NCERT and global policy treat in-situ as the **preferred primary strategy** because it preserves **ecosystem integrity**, **natural selection**, and **genetic diversity** (आनुवंशिक विविधता) in real conditions.
@@ -198,8 +198,6 @@ D. Sacred groves
 ## 20.4 Seed Bank
 
 **Identity:** Ex-situ | Seeds only | Orthodox = cold storage | Recalcitrant = mango/coconut trap
-
-![IUCN Red List Categories & Seed Physiology Dynamics](images/env_ch20_02_iucn_red_list_criteria_categories.png)
 
 - A **seed bank** stores **seeds only** (narrower than a gene bank). Seeds are dried to **3–7% moisture**, sealed airtight, and kept at **-18°C to -20°C**.
 - **Orthodox seeds** (wheat, rice, maize, millets, pulses) tolerate desiccation and cold — suitable for **decades of storage**.

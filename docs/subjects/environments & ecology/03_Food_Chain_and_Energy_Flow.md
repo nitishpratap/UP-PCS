@@ -159,6 +159,11 @@ Food Chain | Food Web (खाद्य जाल) | Trophic Levels | Energy Flow
 - **Decomposers** break down dead matter from **all levels**. They recycle nutrients but are usually drawn **beside** the main chain, not as the top of an energy pyramid.
 - Decomposer organisms in standard stems are **fungi and bacteria**. **Viruses** are not counted as decomposers here.
 - **Detritivores** such as earthworms fragment dead material and bridge the detritus chain toward decomposers.
+
+![Bioaccumulation vs Biomagnification and DDT Trophic Cascade](images/env_ch03_02_bioaccumulation_biomagnification_ddt.png)
+
+### Bioaccumulation and Biomagnification
+
 - **Biomagnification** means a non-degradable toxin (classic example **DDT**, also mercury) rises in concentration at successive trophic levels and lodges in fatty tissues. The highest concentration appears in top consumers such as a **snake** in a grasshopper–toad–snake chain.
 
 | Level | Role | UP / India example |
@@ -229,11 +234,11 @@ D. May increase or decrease
 
 ---
 
+![Trophic Energy Flow, Lindeman's 10% Law & Ecological Pyramids](images/env_ch03_01_trophic_energy_flow_10percent_pyramids.png)
+
 ## 3.5 Ecological Pyramid (Ecological Pyramids)
 
 **Identity:** Elton 1927 | Energy / biomass / numbers | Only energy pyramid always upright
-
-![Trophic Energy Flow, Lindeman's 10% Law & Ecological Pyramids](images/env_ch03_01_trophic_energy_flow_10percent_pyramids.png)
 
 - An **ecological pyramid** is a diagram of trophic structure. It shows energy, biomass, or numbers at each level.
 - **Charles Elton (1927)** developed the early pyramid concept in trophic studies.
@@ -246,8 +251,6 @@ D. May increase or decrease
 - The **pyramid of energy** is the best measure of ecosystem function because it shows actual energy availability and is never inverted.
 - **Decomposers** are usually omitted from standard pyramid diagrams. They act on all levels and return nutrients to producers.
 - **Biomagnification** of toxins such as DDT increases concentration up the food chain. Top predators suffer most even as energy decreases upward.
-
-![Bioaccumulation vs Biomagnification and DDT Trophic Cascade](images/env_ch03_02_bioaccumulation_biomagnification_ddt.png)
 
 | Pyramid | Unit | Always upright? | Inverted example |
 |---------|------|-----------------|------------------|

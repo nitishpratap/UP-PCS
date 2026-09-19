@@ -83,8 +83,6 @@ Desertification | Land Degradation | Soil Erosion
 
 **Identity:** ASDM drylands | Productivity loss | Overgrazing | UNCCD 1994
 
-![UNCCD, Land Degradation Neutrality & CAZRI Defenses](images/env_ch13_02_unccd_land_degradation_neutrality_cazri.png)
-
 - **Desertification** is **land degradation in arid, semi-arid, and dry sub-humid (ASDM) areas** caused by climate variation and human activities.
 - It is **not** simply existing deserts like the Thar expanding. Any qualifying dryland that loses fertility and vegetation can desertify.
 - Drylands cover about **41% of Earth's land** and support roughly **2 billion people**.
@@ -155,11 +153,11 @@ D. 2040
 
 ---
 
+![Soil Erosion 4-Stage Water Progression & Wind Transport Dynamics](images/env_ch13_01_soil_erosion_water_wind_dynamics.png)
+
 ## 13.3 Soil Erosion
 
 **Identity:** A-horizon loss | Sheet→ravine | Wind deflation | Conservation measures
-
-![Soil Erosion Dynamics: Water & Wind Transport Mechanisms](images/env_ch13_01_soil_erosion_water_wind_dynamics.png)
 
 - **Topsoil (A-horizon)** is the fertile organic-rich layer, usually **15–30 cm deep**. It can take **centuries to form** but may be lost in **one heavy monsoon** on bare slopes.
 - **Normal (geological) erosion** is slow and balanced by soil formation. **Accelerated erosion** from human activity is **10–100× faster** than formation — this is the usual default meaning of "soil erosion."

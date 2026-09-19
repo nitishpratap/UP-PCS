@@ -85,8 +85,6 @@ Microplastics | Carbon Credit (कार्बन क्रेडिट) | Carbo
 
 **Identity:** <5 mm | Primary vs secondary | Persistent | Ganga (गंगा)/food-chain contamination
 
-![Marine Ecosystem Threats & Blue Carbon Dynamics — Microplastics, Ocean Acidification & Coastal Sinks](images/env_ch24_02_blue_carbon_microplastics_ocean_acidification.png)
-
 - **Microplastics** are plastic particles **smaller than 5 mm** — primary (manufactured small) or secondary (fragmented from larger plastic).
 - **Primary:** microbeads in cosmetics, plastic **nurdles**, industrial abrasives.
 - **Secondary:** bags, bottles, fishing nets, and **tyre wear** breaking down — most environmental mass is secondary.
@@ -144,8 +142,6 @@ D. G-8 Summit
 ## 24.3 Carbon Trading
 
 **Identity:** Cap-and-trade | EU ETS largest | Kyoto origin | India CCTS 2023 | PAT = ESCerts
-
-![Global Carbon Accounting & Paris Article 6 Architecture — Carbon Markets & Cap-and-Trade](images/env_ch24_01_carbon_markets_article_6_cop28.png)
 
 - **Carbon trading** is the **market mechanism** to buy and sell emission **allowances or credits** under a regulatory cap.
 - **Cap-and-trade:** regulator sets total emissions cap → firms get allowances → efficient firms sell surplus to high emitters → cap met at lowest cost.

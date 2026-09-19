@@ -65,9 +65,6 @@
 29. Election petitions for MPs and MLAs go to the **High Court** under the Representation of the People Act and **Article 329**, not straight to the Supreme Court. President and Vice-President election disputes stay under **Article 71**.
 30. The USA Supreme Court does **not** give advisory opinions. India’s Supreme Court **does**, under **Article 143**, but those opinions are **not binding** on the President.
 
-### Cartographic Reference: Territorial Jurisdictions of the 25 High Courts & Non-Capital Seats
-![Territorial Jurisdictions of the 25 High Courts of India](images/pol_ch09_01_high_courts_territorial_jurisdiction_map.png)
-
 ---
 
 ## Confused Pairs
@@ -670,6 +667,9 @@ D. Sajjan Singh, 1965
 - Creating a common High Court under Art. 231 is **not** a constitutional amendment under Art. 368.
 
 ---
+
+### Cartographic Reference: Territorial Jurisdictions of the 25 High Courts & Non-Capital Seats
+![Territorial Jurisdictions of the 25 High Courts of India](images/pol_ch09_01_high_courts_territorial_jurisdiction_map.png)
 
 ## High Courts — organisation
 

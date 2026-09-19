@@ -48,47 +48,6 @@ Union and its Territory | Formation of States | State Reorganisation | States Re
 29. **Fundamental Rights (मौलिक अधिकार) (Citizens Only)**: Articles **15, 16, 19, 29, 30**. Non-citizens also get Arts. 14, 20, 21, 22, 25-28.
 30. **Minority / Treaties Trivia**: French enclaves (Puducherry de jure 1962), Portuguese enclaves (Goa/Daman/Diu liberated in 1961 via *Operation Vijay*).
 
-### Visual Reference: Chronological Evolution of Indian States (1953 — Present)
-![Chronological Evolution of Indian States (1953 — Present)](images/pol_ch04_01_states_reorganisation_chronology_map.png)
-
-```
-                  States Reorganisation Chronological Ladder
-                                      │
-         1953: Andhra State (1st linguistic state; Potti Sriramulu; Kurnool capital)
-                                      │
-         1956: States Reorganisation Act (7th Amendment; 14 States & 6 UTs)
-               Kerala & Karnataka (Mysore) created
-                                      │
-         1960: Bombay Reorganisation (15th state: Gujarat; Maharashtra)
-                                      │
-         1961: Liberation of Goa, Daman & Diu (Operation Vijay; 12th Amendment)
-                                      │
-         1963: 16th state: Nagaland (carved out of Assam; Naga Hills)
-                                      │
-         1966: Punjab Reorganisation (17th state: Haryana; UT: Chandigarh; Shah Commission)
-                                      │
-         1971: 18th state: Himachal Pradesh (elevated from UT status)
-                                      │
-         1972: North-Eastern Reorganisation (19th: Manipur, 20th: Tripura, 21st: Meghalaya)
-                                      │
-         1975: 22nd state: Sikkim (35th Amd 1974 Associate ➔ 36th Amd 1975 Full state)
-                                      │
-         1987: 23rd: Mizoram, 24th: Arunachal Pradesh, 25th: Goa (56th Amd)
-                                      │
-         2000: Millennial States Carve-out:
-               • 1 Nov 2000: 26th state — Chhattisgarh (from MP)
-               • 9 Nov 2000: 27th state — Uttarakhand / Uttaranchal (from UP)
-               • 15 Nov 2000: 28th state — Jharkhand (from Bihar)
-                                      │
-         2014: 2 June 2014: 29th state — Telangana (from Andhra Pradesh; Srikrishna Committee)
-                                      │
-         2019: 31 Oct 2019: J&K Reorganisation (J&K and Ladakh bifurcated into 2 UTs)
-               Total now: 28 States & 8 UTs (Dadra & Nagar Haveli + Daman & Diu merged 2020)
-```
-
-### Spatial Reference: Statutory Zonal Councils & Regional Headquarters
-![Zonal Councils of India: Territorial Jurisdictions & Headquarters](images/pol_ch04_02_zonal_councils_india_map.png)
-
 ---
 
 ## Confused Pairs
@@ -296,7 +255,19 @@ D. 1 and 2
 
 **Renames later (not 1956):** Madras → **Tamil Nadu (नाडु) (1969)** · Mysore → **Karnataka (1973)** · Uttaranchal → **Uttarakhand (2007)** · Orissa → **Odisha (2011)** · Pondicherry (पांडिचेरी) → **Puducherry (2006)**.
 
+### Spatial Reference: Statutory Zonal Councils & Regional Headquarters
+![Zonal Councils of India: Territorial Jurisdictions & Headquarters](images/pol_ch04_02_zonal_councils_india_map.png)
+
+- **Statutory Status**: Zonal Councils are statutory bodies established under **Part III of the States Reorganisation Act, 1956** (NOT constitutional; contrast with Art. 263 Inter-State Council).
+- **5 Statutory Zones**: Northern (New Delhi), Central (Prayagraj / Allahabad), Eastern (Kolkata), Western (Mumbai), Southern (Chennai).
+- **North-Eastern Council**: Created separately under the **North-Eastern Council Act, 1971** (Headquarters: Shillong).
+- **Chairman**: Union Home Minister is the common Chairman of all 5 Zonal Councils; Chief Ministers act as Vice-Chairmen by annual rotation.
+- **UP Focus**: Uttar Pradesh falls under the **Central Zonal Council**, headquartered at **Prayagraj (Allahabad)** alongside MP, Uttarakhand, and Chhattisgarh.
+
 ---
+
+### Visual Reference: Chronological Evolution of Indian States (1953 — Present)
+![Chronological Evolution of Indian States (1953 — Present)](images/pol_ch04_01_states_reorganisation_chronology_map.png)
 
 ## After 1956 — State / UT chronology (spine)
 

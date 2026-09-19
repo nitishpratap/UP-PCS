@@ -111,11 +111,11 @@ Environment – Meaning | Environmental Components | Classification of Environme
 
 ---
 
+![Earth's Four Interconnected Spheres & Biosphere Envelope](images/env_ch01_01_earth_four_spheres_atmosphere_biosphere.png)
+
 ## 1.1 Environment – Meaning
 
 **Scope:** NCERT definition | four spheres | atmosphere basics | scales & types | milestones & law
-
-![Earth's Four Interconnected Spheres & Biosphere Envelope](images/env_ch01_01_earth_four_spheres_atmosphere_biosphere.png)
 
 | Source | Definition |
 |--------|------------|
@@ -175,11 +175,11 @@ D. Only 1
 
 ---
 
+![Foundational Ecological Laws & Limiting Factor Dynamics](images/env_ch01_02_ecological_limiting_laws_liebig_shelford.png)
+
 ## 1.2 Environmental Components
 
 **Identity:** Environment = Abiotic + Biotic | Liebig + Shelford | N-fixation
-
-![Foundational Ecological Laws & Limiting Factor Dynamics](images/env_ch01_02_ecological_limiting_laws_liebig_shelford.png)
 
 | Abiotic factor category | Includes | Hindi |
 |-------------------------|----------|-------|

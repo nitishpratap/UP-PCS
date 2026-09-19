@@ -72,9 +72,6 @@
 - **Cooperatives (97th Amd, 2011):** Part IXB (243ZH-243ZT). Art 43B DPSP (राज्य के नीति निदेशक तत्व) and Art 19(1)(c) FR. In 2021, SC struck down its application to State cooperatives.
 - **Cantonment Board:** Set up under Cantonments Act (2006). Falls under **Ministry of Defence**. Station Commander is ex-officio President (not 74th Amd ULB).
 
-### Structural Architecture: 3-Tier Panchayati Raj & 73rd/74th Constitutional Framework
-![Local Self-Government Architecture: 73rd & 74th Amendments](images/pol_ch10_01_panchayati_raj_3tier_architecture.png)
-
 ---
 
 ## Confused Pairs
@@ -556,6 +553,9 @@ This is a standalone syllabus item, so it deserves its own treatment rather than
 - The Gram Sabha is **not** a fourth tier of the Panchayati Raj system, and it should not be confused with a **Nyaya Panchayat**.
 
 ---
+
+### Structural Architecture: 3-Tier Panchayati Raj & 73rd/74th Constitutional Framework
+![Local Self-Government Architecture: 73rd & 74th Amendments](images/pol_ch10_01_panchayati_raj_3tier_architecture.png)
 
 ## Three-tier structure & who does what
 

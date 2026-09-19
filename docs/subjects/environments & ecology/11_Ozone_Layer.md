@@ -93,11 +93,11 @@ Ozone Layer | Ozone Depletion (ओजोन क्षरण) | Ozone Hole (ओ�
 
 ---
 
+![Chapman Ozone Cycle & CFC Catalytic Depletion Chain](images/env_ch11_01_ozone_layer_formation_depletion_mechanism.png)
+
 ## 11.1 Ozone Layer
 
 **Identity:** O₃ in stratosphere | UV shield | Chapman cycle | Dobson Unit
-
-![Stratospheric Ozone: Formation & Catalytic Depletion Chemistry](images/env_ch11_01_ozone_layer_formation_depletion_mechanism.png)
 
 - **Ozone (O₃)** is a molecule of three oxygen atoms that absorbs harmful ultraviolet radiation.
 - The **ozone layer** lies mainly in the **stratosphere** (समतापमंडल) at about **15–35 km**, with peak concentration near **25 km**.
@@ -193,8 +193,6 @@ D. Only 1
 ## 11.4 Montreal Protocol
 
 **Identity:** Vienna 1985 + Montreal 1987 | ODS phase-out | Kigali HFCs | India compliance
-
-![Ozone Protection Regime: Montreal Protocol & Kigali Amendment](images/env_ch11_02_montreal_protocol_kigali_amendment.png)
 
 - The **Vienna Convention (1985)** (वियना कन्वेंशन) created the framework to protect the ozone layer through cooperation and monitoring.
 - The **Montreal Protocol (1987)** (मॉन्ट्रियल प्रोटोकॉल) set **binding schedules** to phase out production and consumption of ODS.

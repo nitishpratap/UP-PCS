@@ -82,11 +82,11 @@
 
 ---
 
+![India Environmental Legal Architecture & Statutory Chronology](images/env_ch17_01_india_environmental_legislation_timeline.png)
+
 ## 17.1 Environmental Law (Constitutional Framework)
 
 **Identity:** Art 48A | Art 51A(g) | Art 21 expansion | Concurrent List (समवर्ती सूची) | Rio principles in SC
-
-![India's Environmental Legal Regime: Constitutional Anchors & Statutory Timeline](images/env_ch17_01_constitutional_pillars_environmental_acts_timeline.png)
 
 - **Environmental law** in India combines **constitutional duties**, **statutory Acts**, and **Supreme Court/NGT jurisprudence**.
 - **Article 48A** (DPSP) directs the **State** to protect and improve the environment and safeguard forests and wildlife.
@@ -256,8 +256,6 @@ D. 1977
 ## 17.6 Biological Diversity Act, 2002 & National Green Tribunal Act, 2010
 
 **Identity:** BDA = CBD domestic law | NBA Chennai | NGT = appeals tribunal
-
-![National Green Tribunal: Powers, Jurisdiction & Excluded Acts (NGT 2010)](images/env_ch17_02_ngt_tribunal_powers_excluded_acts.png)
 
 ### BDA 2002
 

@@ -94,11 +94,11 @@ Water Resources | IWRM | Rainwater Harvesting | Watershed Management (वाट�
 
 ---
 
+![Global Water Partitioning, Aquifer Hydrogeology & Water Stress](images/env_ch26_01_global_water_partitioning_aquifers.png)
+
 ## 26.1 Water Resources
 
 **Identity:** Oceans dominate | Rivers tiny fraction | India water-stressed | Surface + groundwater
-
-![Hydrological Partitioning & Aquifer Dynamics](images/env_ch26_01_global_water_partitioning_aquifers.png)
 
 - Earth's water: oceans ~**97.2%** (saline (लवणीय)); polar ice/glaciers ~**2%**; groundwater ~**0.6%**; rivers/lakes ~**0.01%**.
 - India holds ~**4%** of world renewable freshwater but ~**18%** of population — per capita availability ~**1,400 m³/year** (stress below **1,700 m³**).
@@ -183,11 +183,11 @@ Options: A. 1, 3, 4, 2 B. 1, 2, 4, 3 C. 1, 2, 3, 4 D. 1, 4, 3, 2
 
 ---
 
+![Ridge-to-Valley Watershed Architecture & Traditional Rainwater Harvesting Geography](images/env_ch26_02_watershed_management_traditional_rainwater.png)
+
 ## 26.4 Watershed Management
 
 **Identity:** Ridge-to-valley | Drainage basin | IWMP / Hariyali | Collects-stores-releases water
-
-![Watershed Management & Traditional Water Harvesting Systems](images/env_ch26_02_watershed_management_traditional_rainwater.png)
 
 - A **watershed** is the land area draining to a common outlet — also called catchment/drainage basin.
 - It **collects, stores, and releases** water — UPPCS 2023 definition fact.

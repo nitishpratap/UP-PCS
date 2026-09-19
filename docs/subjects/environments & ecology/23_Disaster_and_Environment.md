@@ -84,8 +84,6 @@ Floods | Drought (सूखा) | Landslides | Cyclones | Heat Waves | Forest Fi
 
 **Identity:** Riverine / flash / urban | UP Ganga–Yamuna–Terai | NDMA 2005 | Sendai 2015
 
-![National Disaster Management Architecture & Sendai Framework](images/env_ch23_01_dm_act_2005_sendai_framework.png)
-
 - A **flood** occurs when water overflows onto normally dry land — river channel capacity or drainage is exceeded.
 - **Riverine floods** swell slowly over days–weeks on plains. **Flash floods** follow cloudbursts in hills within hours. **Urban flooding** is waterlogging from impervious surfaces and clogged drains.
 - **UP flood rivers:** Ganga, Yamuna, Ghaghara (Saryu), Rapti, Gandak, Gomti** — monsoon inundation of the Gangetic floodplain.
@@ -170,8 +168,6 @@ D. 4, 2, 1, 3
 ## 23.4 Cyclones
 
 **Identity:** Warm ocean ≥26–27°C | Bay of Bengal nursery | Eye calm / eyewall strongest | Storm surge
-
-![Hydro-Meteorological & Geophysical Hazards — Cyclone Anatomy, Landslides & Drought](images/env_ch23_02_cyclone_landslide_drought_mechanisms.png)
 
 - A **tropical cyclone** is an intense rotating storm over warm tropical oceans with a low-pressure centre.
 - Formation needs **sea surface temperature ≥26–27°C**, moist air, low vertical wind shear, and Coriolis force (not on the equator).

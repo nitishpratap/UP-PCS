@@ -87,8 +87,6 @@ MoEFCC (पर्यावरण, वन और जलवायु परिव�
 
 **Identity:** Nodal ministry | 1985/2014 | Delhi | Category A EC | PARIVESH
 
-![India's Apex Environmental Institutions & Research Bodies](images/env_ch16_01_apex_environmental_institutions_mandates.png)
-
 - **MoEFCC** is India's **nodal ministry** for environment, forests, wildlife, and climate change policy.
 - It was established as **Ministry of Environment & Forests (MoEF) in 1985**.
 - It was renamed **MoEFCC in 2014** when climate change was formally added to the mandate.
@@ -277,8 +275,6 @@ ISFR 2023 is published by **FSI**. UP districts with >20% forest cover included 
 ## 16.9 Institutes, Stations & Match Facts
 
 **Identity:** Antarctica bases | CAZRI Jodhpur | IIFM Bhopal | FRI / IGFRI | ENVIS | INCOIS
-
-![Statutory Environmental Bodies & Exam Traps Matrix](images/env_ch16_02_spatial_distribution_environmental_institutes.png)
 
 - India’s Antarctic stations: **Dakshin Gangotri (गंगोत्री) (1983–84)** first base (now supply/transit); **Maitri (1989)**; **Bharati (March 2013)**. Permanent **operational** pair today = **Maitri + Bharati** (not Dakshin Gangotri as active science base).
 - **Wildlife Institute of India** — **Dehradun**. **Forest Research Institute** — **Dehradun**. **Indian Institute of Forest Management** — **Bhopal** (not Kolkata).

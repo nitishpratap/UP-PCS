@@ -81,11 +81,11 @@ Environmental Impact Assessment (EIA) (पर्यावरण प्रभा�
 
 ---
 
+![EIA Notification 2006 Statutory Stages & Categorization Architecture](images/env_ch14_01_eia_notification_2006_workflow.png)
+
 ## 14.1 Environmental Impact Assessment (EIA)
 
 **Identity:** EPA 1986 | EIA Notification 2006 | Category A/B | Four stages | EC before construction
-
-![EIA Notification 2006: Dual-Tier Clearance Architecture & 4-Stage Workflow](images/env_ch14_01_eia_clearance_architecture_stages.png)
 
 - **Environmental Impact Assessment (EIA)** is a systematic study of a proposed project's likely environmental, social, and health effects **before** major decisions are taken.
 - The goal is **anticipatory prevention** — reject, redesign, or condition projects rather than repair damage after construction.
@@ -126,8 +126,6 @@ Environmental Impact Assessment (EIA) (पर्यावरण प्रभा�
 ## 14.2 Strategic Environmental Assessment (SEA)
 
 **Identity:** PPP level | Upstream of EIA | No standalone Indian law | SEA Protocol 2003
-
-![Project EIA vs Strategic Environmental Assessment (SEA)](images/env_ch14_02_eia_vs_sea_strategic_framework.png)
 
 - **Strategic Environmental Assessment (SEA)** evaluates the environmental consequences of **policies, plans, and programmes (PPP)** at the earliest planning stage.
 - **SEA sits upstream of EIA**. It asks whether a development path is wise **before** individual projects are designed.

@@ -192,9 +192,9 @@ Ecology – Meaning | Ecosystem | Types of Ecosystems | Terrestrial Ecosystem | 
 - A **lotic ecosystem** (प्रवाही जल) is flowing freshwater such as a river or stream. The Ganga and Yamuna are lotic.
 - **Wetlands**, **estuaries**, and **mangroves** are **transitional**. They are neither purely terrestrial nor purely open aquatic.
 
-### Pond and lake zonation (lentic)
-
 ![Aquatic Ecosystem Zonation & Ecotone Edge Effect](images/env_ch02_02_aquatic_zonation_ecotone.png)
+
+### Pond and lake zonation (lentic)
 
 | Zone | Location | Key fact |
 |------|----------|-----------|
@@ -345,11 +345,11 @@ D. Dominance of single species becomes minimum if the resource distribution is e
 
 ---
 
+![Ecological Succession: Primary Xerosere and Hydrosere Stages](images/env_ch02_01_ecological_succession_stages.png)
+
 ## 2.8 Ecological Succession
 
 **Identity:** Primary vs secondary | Nudation → M-E-R-S | Sere | Pioneer → climax | Monoclimax
-
-![Ecological Succession: Primary Xerosere and Hydrosere Stages](images/env_ch02_01_ecological_succession_stages.png)
 
 - **Ecological succession** is the orderly, predictable replacement of one community by another over time in the same area.
 - The full set of communities that appear one after another is called a **sere**. Each intermediate community is a **seral stage**.

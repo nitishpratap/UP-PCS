@@ -87,11 +87,11 @@ Global Environmental Geography (biomes · climate zones · world deserts · flor
 
 ---
 
+![Global Biomes Distribution, Climatic Pressure Belts & World Deserts](images/env_ch25_01_global_biomes_climatic_zones_geography.png)
+
 ## 25.1 Scope & Climate Controls
 
 **Identity:** Spatial environment (पर्यावरण) patterns | Climate primary control | Latitude + continentality + altitude
-
-![Global Biome Distribution & Latitudinal Zonation](images/env_ch25_01_global_biomes_latitudinal_zonation.png)
 
 - **Global environmental geography** studies *where* environmental systems occur and *why* — linking physical geography (climate, relief, oceans) to biomes, biodiversity, and degradation.
 - **Climate** (temperature + precipitation) is the primary control on biome distribution.
@@ -265,11 +265,22 @@ Options: A. 3 4 2 1 B. 2 1 4 3 C. 3 4 1 2 D. 2 3 4 1
 
 ---
 
+![Eco-Geographical Adaptation Rules & Ecotone Edge Effect](images/env_ch25_02_ecotones_edge_effect_ecological_rules.png)
+
+### Eco-Geographical Rules & Ecotone Dynamics
+
+- **Bergmann's rule:** Body size in endotherms increases with colder climate (higher latitude) to reduce heat loss per unit volume (e.g., Polar Bear > Sun Bear).
+- **Allen's rule:** Extremities and appendages (ears, limbs, snouts) are shorter and more compact in colder climates (e.g., Arctic Fox short ears vs Desert Fennec Fox large ears).
+- **Gloger's rule:** Endotherms in warm, humid climates develop darker melanin pigmentation (eumelanin) than those in cold, arid regions.
+- **Jordan's rule:** Marine fish developing in colder, high-latitude waters have more vertebrae than relatives in warm tropical waters.
+- **Ecotone (संक्रमिका):** A transition zone where two biomes overlap (e.g., Mangrove between sea and land; Estuary between river and ocean).
+- **Edge effect (किनारा प्रभाव):** Greater species diversity and population density occur in the ecotone than in either adjacent community alone, harboring unique "edge species".
+
+---
+
 ## 25.6 Biodiversity Hotspots & Degradation Belts
 
 **Identity:** Myers criteria | 36 hotspots | 4 in India | Pollution corridors
-
-![Ecological Transition Zones & Eco-Geographical Rules — Ecotones, Edge Effect & Morphological Rules](images/env_ch25_02_ecotones_edge_effect_ecological_rules.png)
 
 - **Biodiversity hotspot (जैव विविधता हॉटस्पॉट) (Myers):** high **endemism** + ≥**70%** natural habitat loss.
 - About **36** global hotspots. **Four (चातुर्याम) in India:** Himalaya, Western Ghats–Sri Lanka, Indo-Burma (NE), Sundaland (Nicobar (निकोबार)).

@@ -77,8 +77,6 @@ Forests and their Types | Forest Types in India | Forest Conservation | Forest M
 
 ## Must-score facts — ISFR, types, law chain
 
-![India's Forest Canopy Density Classification (ISFR)](images/env_ch08_01_india_forest_canopy_classification.png)
-
 ### Cover definitions
 
 | Item | Lock |
@@ -101,6 +99,8 @@ Forests and their Types | Forest Types in India | Forest Conservation | Forest M
 | Reserved vs Protected Forest | Strictest IFA / State-regulated lighter |
 
 ---
+
+![India Forest Canopy Architecture & ISFR Forest Types](images/env_ch08_01_india_forest_canopy_classification.png)
 
 ## 8.1 Forests and their Types
 
@@ -133,8 +133,6 @@ Forests and their Types | Forest Types in India | Forest Conservation | Forest M
 ## 8.2 Forest Types in India
 
 **Identity:** Champion & Seth 1968 | 16 types | UP Terai–Vindhyan–Bundelkhand
-
-![Champion & Seth Forest Types & Statutory Regime](images/env_ch08_02_champion_seth_forest_types_legislation.png)
 
 - **Champion and Seth (1968)** is India's standard forest type classification with **16 major types** in **6 groups**.
 - The **six groups** are Moist Tropical, Dry Tropical, Montane Subtropical, Montane Temperate, Sub-Alpine, and Alpine.

@@ -96,8 +96,6 @@ Renewable | Non-renewable | Conventional | Non-conventional | Solar | Wind | Bio
 
 **Identity:** Human-timescale replenishment | MNRE sources | Cleaner than fossils | Intermittency challenge
 
-![Energy Classification, Conservation & Strategic Reserves](images/env_ch27_01_energy_taxonomy_conservation_spr.png)
-
 - **Renewable energy** comes from sources replenished continuously on a human timescale — sun, wind, flowing water, tides, biomass, geothermal heat.
 - India types: solar, wind, biomass/biogas, small hydro, tidal, geothermal, waste-to-energy.
 - Advantages: lower GHG than coal/oil; cuts oil/gas import pressure; decentralised rural supply.
@@ -234,8 +232,6 @@ Options: A. Coal B. Nuclear C. Gobar D. Wood
 ## 27.8 Biofuels
 
 **Identity:** Liquid/gaseous fuels from biomass | Policy 2018 | E20 target | Food vs fuel debate
-
-![Biofuel Generations (1G-4G), Hydrogen Spectrum & Ocean Energy](images/env_ch27_02_biofuels_1g_4g_ocean_hydrogen.png)
 
 - **Biofuels** are fuels produced from biomass — bioethanol, biodiesel, biogas/CBG, advanced (2G) fuels.
 - **National Policy on Biofuels, 2018** sets blending roadmap and feedstock categories.
