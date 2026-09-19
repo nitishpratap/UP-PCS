@@ -48,6 +48,9 @@ Union and its Territory | Formation of States | State Reorganisation | States Re
 29. **Fundamental Rights (मौलिक अधिकार) (Citizens Only)**: Articles **15, 16, 19, 29, 30**. Non-citizens also get Arts. 14, 20, 21, 22, 25-28.
 30. **Minority / Treaties Trivia**: French enclaves (Puducherry de jure 1962), Portuguese enclaves (Goa/Daman/Diu liberated in 1961 via *Operation Vijay*).
 
+### Visual Reference: Chronological Evolution of Indian States (1953 — Present)
+![Chronological Evolution of Indian States (1953 — Present)](images/pol_ch04_01_states_reorganisation_chronology_map.png)
+
 ```
                   States Reorganisation Chronological Ladder
                                       │
@@ -82,6 +85,9 @@ Union and its Territory | Formation of States | State Reorganisation | States Re
          2019: 31 Oct 2019: J&K Reorganisation (J&K and Ladakh bifurcated into 2 UTs)
                Total now: 28 States & 8 UTs (Dadra & Nagar Haveli + Daman & Diu merged 2020)
 ```
+
+### Spatial Reference: Statutory Zonal Councils & Regional Headquarters
+![Zonal Councils of India: Territorial Jurisdictions & Headquarters](images/pol_ch04_02_zonal_councils_india_map.png)
 
 ---
 

@@ -87,6 +87,12 @@ D. Governor
 29. Each House has its own **Secretariat** under **Article 98**. Ministers and the Attorney General may **speak in both Houses** (**Article 88**) but vote only in the House where they are members.
 30. **Meira Kumar** is the first woman Speaker of the Lok Sabha. Business Advisory Committee is chaired by the **Speaker**.
 
+### Visual Reference: Mathematical Majorities in the Indian Constitution
+![The 4 Types of Majorities in the Indian Constitution](images/pol_ch07_01_parliamentary_majorities_matrix.png)
+
+### Procedural Architecture: Legislative Journey of Bills & Joint Sitting (Art 108)
+![Legislative Journey of Bills: Procedural Decision Tree](images/pol_ch07_02_legislative_bill_passage_flowchart.png)
+
 ---
 
 ## Confused Pairs

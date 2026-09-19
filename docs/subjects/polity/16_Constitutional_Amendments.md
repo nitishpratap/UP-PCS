@@ -99,6 +99,9 @@ D. 86th Constitutional Amendment Act, 2002
 27. Local-government amendments are the pair **73rd + 74th**. Rights-education is **86th**. Goods and services tax is **101st**. EWS is **103rd**. Women reservation awaiting delimitation is **106th**.
 28. The **42nd (1976)** added **Socialist** and **Secular** to the Preamble. The **44th (1978)** unwound Emergency excesses and moved property out of Part III to **Article 300A**.
 
+### Procedural Flowchart: Article 368 Amendment Pathways & Basic Structure Filter
+![The 3 Constitutional Amendment Pathways (Article 368)](images/pol_ch16_01_article_368_amendment_pathways.png)
+
 ---
 
 ## Confused Pairs
