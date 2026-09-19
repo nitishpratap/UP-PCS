@@ -26,7 +26,7 @@
 | Static rule | MSP for **22 mandated crops**; CACP recommends, Cabinet decides; target **≥1.5×** all-India cost (Budget 2018–19) | Institution > old rupees | PIB |
 | 2025–26 Kharif | Highest MSP hike then: nigerseed, ragi, cotton, sesamum; extra push pulses/oilseeds/**Shree Anna** | Diversification narrative | PIB |
 | Ongoing | **PM-AASHA** (PSS via NAFED/NCCF); **e-NAM**; **PM-KISAN**; **PMFBY** | Scheme names | DA&FW |
-| 2025 | Delhi **bio-decomposer** (fungal mix, free) for stubble | 2025 Q10 | PYQ / GNCTD |
+| 2025 | Delhi **bio-decomposer** (fungal mix, free) for stubble | Free fungal mix for stubble-to-manure | PYQ / GNCTD |
 
 ---
 
@@ -241,7 +241,7 @@ India’s land-use reporting (NCERT / Ministry of Agriculture) splits reported a
 - Average size of operational holdings is often largest in **Rajasthan** (थार) among major states.
 - About **half of NSA** is still rainfed.
 - Groundwater waters about **two-thirds** (ते-भागा) of the irrigated area.
-- Land-use ballpark (Ministry of Agriculture): net sown area about **45–47%**, forest about **23%**, other uses about **30–31%** (closest IAS 2010 option was 47 / 23 / 30).
+- Land-use ballpark (Ministry of Agriculture): net sown area about **45–47%**, forest about **23%**, other uses about **30–31%**. A common round figure is **47 / 23 / 30**.
 - Horticulture output has overtaken foodgrain tonnage in recent years. That is volume, not calorie king.
 - MSP and free power still pull **paddy in Punjab** and **cane in drought (सूखा) Maharashtra**. That is policy, not climate.
 
@@ -255,8 +255,9 @@ India’s land-use reporting (NCERT / Ministry of Agriculture) splits reported a
 | **Zaid** | Mar–Jun | Watermelon, cucumber, fodder, vegetables |
 | Long / perennial | — | Sugarcane (10–18 months); tea, coffee, rubber |
 
-- India’s tropical monsoon supports diversified cropping almost year-round.
-- India has a **higher share of geographical area under cultivation** than USA, China and Japan (statement 1 in the usual multi-statement set; keys sometimes split on stmt 1, but stmt 2 on year-round cropping is sure).
+- India’s tropical monsoon supports diversified cropping almost year-round — kharif, rabi and zaid on the same land where water allows.
+- India has a **higher share** of its geographical area under cultivation than the **USA, China or Japan**. That is a **percentage-of-land** fact.
+- It does **not** mean India has the world’s largest **absolute** cropland. The USA’s arable area is comparable or larger because the USA’s total land is much bigger.
 - Rabi belts of PB–HR–W UP also benefit from **western disturbances** (winter rain) plus irrigation.
 
 **School agricultural regions** (crop-system map — separate from the 15 ACZ names):
@@ -507,7 +508,7 @@ Long-duration crop (**~10–18 months**) — not a single short season.
 - **Uttar Pradesh** often leads **area and production**.
 - **Maharashtra** often leads **yield** and cooperative factories.
 - Cane on a small share of Maharashtra land still drinks a huge share of irrigation water.
-- 2019 A/R: both statements are true; coops **do not explain** UP’s lower productivity, so the code is **B**.
+- Cooperative mills in Maharashtra are a true institutional fact, but they do **not** explain why Uttar Pradesh’s yield is lower. North Indian frost, the loo, a shorter crushing season and ratoon cycles do.
 - Price uses **FRP** (plus possible state SAP) — not cereal MSP.
 - By-products include bagasse and molasses / ethanol.
 - Sugar can also come from **beet**, not cane alone.
@@ -519,7 +520,7 @@ Long-duration crop (**~10–18 months**) — not a single short season.
 - A key variety is **Co. 1148**.
 - **Adsali** cane in the Maharashtra low-rain belt takes about **16–18 months**.
 - **Sustainable Sugarcane Initiative (SSI)** (WWF–ICRISAT, **2009**) uses fewer seeds, nursery seedlings, wider spacing, drip-friendly layout and more intercropping scope — it does **not** ban all chemical fertiliser.
-- Sugarcane is the **least water-efficient** among common IAS crop options (versus pearl millet, red gram and sunflower).
+- Among pearl millet, red gram, sunflower and sugarcane, **sugarcane** is the **least water-efficient**.
 
 ### Tea · Coffee · Rubber · Spices
 
@@ -638,7 +639,7 @@ Three **number** facts — do not mix:
 
 - One state can sit in **multiple** zones.
 - Western Dry ≠ West Coast Ghats.
-- Trap: “India has 20 agro-climatic and 15 agro-ecological regions” swaps **both** counts, so the whole statement set is false (CGPCS-type).
+- Do not swap the counts: Planning Commission agro-climatic zones are **15**; NBSS agro-ecological regions are about **20**. A claim that India has **20** agro-climatic and **15** agro-ecological regions reverses both numbers, so it is false.
 - **P. Sengupta and G. Sdasyuk (1968)** divided India into **60** micro agricultural regions (Registrar General monograph).
 
 ### Agro-ecological regions (NBSS&LUP ≈ 20)
@@ -756,10 +757,10 @@ CAD develops the **command** of an existing project (channels, drainage, waraban
 - **Rock phosphate / superphosphate** is a poor fertigation choice because of precipitation.
 - Controlling irrigation-water alkalinity is a taught advantage.
 - **Permaculture** discourages monoculture, stresses mulching, and resists salinity buildup better than chemical monoculture.
-- It **is** workable in semi-arid settings — the false IAS statement is that it is “not easily possible” there.
+- It **is** workable in semi-arid settings. Do not treat “not easily possible in semi-arid tracts” as true.
 - **Zero tillage** allows wheat sowing without burning previous residue, supports direct-seeded rice logic, and aids carbon sequestration (कार्बन पृथक्करण).
 - **Conservation agriculture** core practices are minimum / zero tillage, residue mulch on the soil, and crop rotation / sequencing — **not** “ban plantation crops.”
-- Eco-friendly practice sets in IAS questions include crop diversification, legume intensification, **tensiometer** use, and **vertical farming**.
+- Eco-friendly practice sets often include crop diversification, legume intensification, **tensiometer** use, and **vertical farming**.
 - **Green agriculture** (UPPCS wording) means integrated pest management plus integrated nutrient supply plus integrated natural resource management.
 
 ### Schemes (practice)
@@ -942,9 +943,9 @@ D. Ministry of Finance
 - Wheat gained most in production and productivity; rice came next.
 - Costs included regional inequality, a **groundwater** crash, nutrient mining, millet and pulse neglect, rice–wheat **monoculture**, and stubble burning.
 - Social and environmental costs are real — do not treat “no cost” as true.
-- Dry-zone A/R: dry India is agrarian (**A true**).
-- It has second Green Revolution potential with irrigation (**R true**).
-- But R does **not** explain A, so the code is **B**.
+- Dry-zone India is still largely **agrarian**.
+- With irrigation, the same tracts have **second Green Revolution** potential.
+- Irrigation potential does **not** explain why dry India is agrarian — it only says what those tracts could become if water arrives.
 - Second Green Revolution aims to extend seed–water–fertiliser to left-out areas and integrate crops with animal husbandry, social forestry (सामाजिक वानिकी) and fishing — not only more wheat–rice in already-benefited belts.
 - **BGREI** (Bringing Green Revolution to Eastern India) sits under RKVY.
 - It targets **rice-based** systems in the east and unused water, not a second Punjab in the desert.
@@ -1447,9 +1448,13 @@ C. Only 1
 
 D. Only 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: A in most keys** — Stmt 2 is unambiguously true. Stmt 1 is the usual NCERT-style claim (higher *share* of area cultivated than those three). If a key splits, stmt 2 is still sure.
+**Logic:** Statement 1 as worded claims the **highest geographical area** under cultivation versus the USA, China and Japan. That reads as **absolute** cropland. India’s **share** of land cultivated is higher than those three, but the USA’s **absolute** arable area is comparable or larger, so statement 1 is false as written. Statement 2 is true: tropical monsoon supports kharif, rabi and zaid.
+
+**Ans: D.** Only 2 is correct.
+
 </details>
 
 ### 2025
