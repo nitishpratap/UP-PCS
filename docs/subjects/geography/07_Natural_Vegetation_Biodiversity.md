@@ -43,8 +43,8 @@ Lakes-as-wetlands. This file keeps the **geography** facts.
 9. Evergreen forests of the Western Ghats, north-east, and Andamans are multilayered with rosewood, mahogany, and ebony and do **not** shed all leaves in one dry season. Moist deciduous forests (teak, sal, shisham, sandalwood) shed in the dry season and cover the **largest** area.
 10. Thorn / scrub of Rajasthan, Gujarat, and rain-shadow tracts holds acacia, babool, ber, and khair (xerophytes). Littoral / mangrove forests of deltas hold **sundari** and **pneumatophores** (वात-मूल) and buffer storms.
 11. World vegetation match: **Maquis** = Mediterranean; **Fynbos** = South Africa; **Chaparral** = California; **Matorral** = Chile. Epiphytes peak in equatorial forest; acacia in Sahara; baobab in savanna (सवाना); cedars in Mediterranean.
-12. Forest cover (वन आवरण) in ISFR 2017 was **21.54%**. Among common options, Andhra Pradesh showed the maximum increase in 2021. **Forest cover is not the same as Recorded Forest Area**. National Forest Policy 1988 aims at about **33%**.
-13. Uttar Pradesh (उत्तर प्रदेश) forest cover is about **6%** of geographical area — not 12.8%. ISFR 2023 districts above 20% include **Chandauli and Shravasti**, not Bahraich. Jaunpur (जौनपुर)–Ghazipur–Ballia have near-nil forest land, yet Ballia holds **Surha Tal** Ramsar.
+12. Latest Forest Cover (ISFR 2023 / benchmark for 2025–2026 exams) stands at **21.76%** of India's TGA (Total Forest + Tree Cover = **25.17%**). Top state by forest area is **Madhya Pradesh**; top state by combined green cover gain is **Chhattisgarh**, followed by **Uttar Pradesh (#2 gainer, +559 sq km)**. **Forest cover is not the same as Recorded Forest Area**. National Forest Policy 1988 aims at about **33%**.
+13. Uttar Pradesh (उत्तर प्रदेश) latest forest cover is **6.24%** of geographical area (Total Forest + Tree Cover = **9.96%**). In UP, districts above 20% forest cover include **Chandauli (~21.6%) and Shravasti (~20.9%)**, not Bahraich (~10.1%). Jaunpur (जौनपुर)–Ghazipur–Ballia have near-nil forest land, yet Ballia holds **Surha Tal** Ramsar. Uttarakhand (उत्तराखंड) forest cover stands at **45.44%** of geographical area (legal RFA is ~**71%**); top forest area is **Pauri Garhwal**, top % is **Nainital**, and lowest is **Udham Singh Nagar**.
 14. National Parks are stricter than Wildlife Sanctuaries. Biosphere Reserves have **core + buffer + transition**. India has **18** biosphere reserves; **Nilgiri (1986)** was the first.
 15. **In-situ** (स्थान पर) conservation = National Park, Sanctuary, Biosphere Reserve (जैवमंडल आरक्षित क्षेत्र), sacred grove. **Ex-situ** (स्थानांतरित) = zoo, botanical garden (वनस्पति उद्यान), seed bank (बीज बैंक). A botanical garden is **not** in-situ.
 16. Chronology fact: Wildlife Protection (वन्यजीव सुरक्षा) Act **1972** → Project Tiger **1973** → Project Elephant (प्रोजेक्ट एलीफेंट) **1992** → Biological Diversity Act **2002**. Project Tiger launched on **1 April 1973**.
@@ -584,16 +584,60 @@ D. Stamp
 
 ---
 
-### High-Yield UP-PCS Past Year Questions & Trap Facts
+### Active Forest Benchmark (For 2025 & 2026 Exams)
 
-| Topic / Year | Tested Concept | Official Fact / Commission Key | Exam Alert & Nuance |
+#### 1. All-India Snapshot (Latest FSI Assessment)
+
+| Parameter | Latest Figure (For 2025–26 Exams) | % of India's TGA | Trend / Change |
 |:---|:---|:---|:---|
-| **ISFR 2021 (UPPSC 2022)** | State with maximum increase in forest cover | **Andhra Pradesh** (+647 sq km) | Followed by Telangana (+632 sq km) and Odisha (+537 sq km). Often tricked with MP. |
-| **UP Forest % (UPPSC 2023)** | "Forests constitute about 12.8% of the total area of the state." | **Accepted as TRUE** in UPPSC Official Key | **The Double Reality:** FSI satellite cover is **6.15%** (9.23% including tree cover), but UPPSC accepted **12.8%** based on state statistical diary / recorded forest classifications. |
-| **Eastern Plain Belt (UPPSC 2023)** | "Districts of Jaunpur, Ghazipur, and Ballia have no forest land." | **Accepted as TRUE** in UPPSC Official Key | Intensively cultivated alluvial Ganga plains (Purvanchal) officially record near-nil forest land. |
-| **>20% Forest Districts (UPPSC 2025)** | Districts with $>20\%$ forest cover in UP | **Chandauli + Shravasti** have $>20\%$; **Bahraich does NOT** | • Chandauli: ~21.63%<br>• Shravasti: ~20.95%<br>• Bahraich: ~10.15% (Katarniaghat Sanctuary present, but total district cover is $<20\%$). |
-| **ISFR 2017 (Old PYQ)** | Forest cover % of India's TGA | **21.54%** of India's TGA | In ISFR 2021, forest cover grew to **21.71%** (Total Green Cover = 24.62%). |
-| **UP Forest Extremes** | Max & Min forest districts in UP | • **Max Area & %:** Sonbhadra (~35%)<br>• **Min Area & %:** Bhadohi / Sant Ravidas Nagar ($<0.5\%$) | Consistently asked in UP special geography. |
+| **Forest Cover** | **7,15,343 sq km** | **21.76%** | Net increase across country |
+| **Tree Cover** | **1,12,014 sq km** | **3.41%** | Trees outside forest (TOF) |
+| **Total Green Cover** | **8,27,357 sq km** | **25.17%** | Net gain of **+1,445 sq km** |
+
+- **Top States by Forest Area:** **Madhya Pradesh (85,724 sq km)** > Arunachal Pradesh > Chhattisgarh.
+- **Top States by Forest %:** **Mizoram (~84.5%)** > Arunachal Pradesh > Meghalaya (among UTs: Lakshadweep ~90%).
+- **Maximum Gainers (Combined Forest + Tree):** **Chhattisgarh (+684 sq km)** > **Uttar Pradesh (+559 sq km)** & **Odisha (+559 sq km)**.
+- **Maximum Forest Cover Gain (Forest only):** **Mizoram (+242 sq km)** > Gujarat (+180 sq km) > Odisha (+152 sq km).
+- **Maximum Loss:** **Madhya Pradesh (-612.41 sq km)**.
+
+---
+
+#### 2. Uttar Pradesh Forest Profile (2025–2026 Data)
+
+| Metric | Official Figure | % of UP's Total Area | Notes |
+|:---|:---|:---|:---|
+| **Forest Cover** | **15,045.80 sq km** | **6.24%** | Satellite canopy $\ge 10\%$ |
+| **Tree Cover** | **8,950.92 sq km** | **3.72%** | Small patches & roadside trees |
+| **Total Green Cover** | **23,996.72 sq km** | **9.96%** | UP gained **+559 sq km** (#2 in India!) |
+
+- **UP District Extremes:**
+  - **Highest Forest Cover (Area & %):** **Sonbhadra (~35.2%)**
+  - **Lowest Forest Cover (Area & %):** **Bhadohi / Sant Ravidas Nagar (~0.37%)**
+- **Districts with $>20\%$ Forest Cover:**
+  - **Chandauli (~21.63%)** and **Shravasti (~20.95%)** have $>20\%$.
+  - *Exam Trap:* **Bahraich is only ~10.15%** (despite Katarniaghat Wildlife Sanctuary, total district cover is $<20\%$).
+- **Near-Nil Forest Land:** **Jaunpur, Ghazipur, and Ballia** (Purvanchal alluvial plain, officially accepted as having no recorded forest land).
+- **The UPPSC 12.8% Trap:** While FSI satellite cover is **6.24%** (9.96% total green cover), UPPSC officially accepted **12.8%** as correct based on state revenue records. Know both figures.
+
+---
+
+#### 3. Uttarakhand Forest Profile (UKPCS / 2025–2026 Data)
+
+| Metric | Official Figure | % of UK's Total Area | Notes |
+|:---|:---|:---|:---|
+| **Forest Cover** | **~24,305 sq km** | **45.44%** | Actual satellite canopy mapped |
+| **Recorded Forest Area (RFA)** | **~38,000 sq km** | **~71.05%** | Legally notified forest in government records |
+| **Growing Stock Rank** | **Rank #1 in India** | — | Highest increase in forest growing stock nationwide |
+
+- **Critical UKPCS Trap (Cover vs. RFA):**
+  - **71%** is the **legal Recorded Forest Area (RFA)** notified under forest laws.
+  - **45.44%** is the actual physical **Forest Cover** detected by satellite.
+  - Do **not** confuse the two in UKPCS prelims options!
+- **UK District Extremes:**
+  - **Largest Forest Area (sq km):** **Pauri Garhwal** (followed by Uttarkashi and Chamoli).
+  - **Highest Forest %:** **Nainital (~71.6%)** (followed by Champawat and Pauri Garhwal).
+  - **Lowest Forest % & Area:** **Udham Singh Nagar (~16.8%)** and **Haridwar** (the two plains / industrial-agricultural districts).
+- **Mountain Benchmark:** National Forest Policy 1988 mandates a **66% (two-thirds)** forest cover goal for Himalayan hill states.
 
 ---
 
