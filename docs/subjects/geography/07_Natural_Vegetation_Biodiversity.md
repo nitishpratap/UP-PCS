@@ -233,16 +233,35 @@ Standard notes split Indian vegetation into **five** heads and **sixteen** sub-t
 
 ### World vegetation matches
 
-| Type | Region |
-|------|--------|
-| **Maquis** | Mediterranean coastal |
-| **Fynbos** | South Africa |
-| **Chaparral** | California |
-| **Matorral** | Chile |
-| Epiphytes | Equatorial |
-| Acacia | Sahara |
-| Baobab | Savanna |
-| Cedars | Mediterranean |
+These eight rows are two lists. Split them that way.
+
+**Same climate, four local names**
+
+Winter-rain, summer-dry shrubland is one climate with four regional names.
+
+| Name | Where | Memory |
+|------|--------|--------|
+| **Maquis** | Mediterranean coast | Maquis = Mediterranean |
+| **Chaparral** | California | Both start with C |
+| **Matorral** | Chile | Both have “l” |
+| **Fynbos** | South Africa (Cape) | Fynbos = fine bush of the Cape |
+
+- Do not swap them.
+- Maquis is not California.
+- Fynbos is not Chile.
+
+**One plant, one belt**
+
+| Plant | Belt | Why |
+|------|------|-----|
+| **Epiphytes** (orchids on trees) | Equatorial rainforest | Need constant wet heat and a canopy |
+| **Acacia** | Sahara / arid Africa | Thorn tree of dry tracts |
+| **Baobab** | Savanna | Fat-trunk tree of grassland with scattered trees |
+| **Cedars** | Mediterranean | Atlas / Lebanon cedar, not equatorial forest |
+
+- **Cedar** and **Maquis** can both sit in the Mediterranean.
+- Cedar is the **tree**.
+- Maquis is the **shrub thicket**.
 
 
 ---
