@@ -69,6 +69,7 @@ Indological Studies | Gurukul System | Ancient Indian Education System | Nalanda
 
 ---
 
+![Institutions Related to Indian Culture Master Revision Cheat Sheet](images/00_topic01_institutions_overview_cheat_sheet.png)
 
 ## Must-score facts — societies, colleges, museums
 
@@ -100,6 +101,10 @@ Indological Studies | Gurukul System | Ancient Indian Education System | Nalanda
 ---
 
 ## 1.1 Indological Studies
+
+![The Asiatic Society, Kolkata — Founded 1784 by Sir William Jones](images/01_asiatic_society_calcutta_building.jpg)
+
+![Indological & Oriental Studies in India (1784–1917) Timeline](images/01_indological_studies_timeline.png)
 
 **Asiatic Society of Bengal | 15 January 1784 | Calcutta**
 
@@ -162,6 +167,8 @@ D. (A) is false, but (R) is true
 
 ## 1.2 Gurukul System
 
+![The Four Ashramas: Life Stages & Gurukul Discipline](images/02a_four_ashramas_lifecycle.png)
+
 A gurukul is a residential school. The shishya lived in the guru’s household. Teaching was oral guru-shishya parampara.
 
 - Entry was often via **Upanayana** into the **Brahmacharya** (ब्रह्मचर्य) ashrama (traditionally dvija varnas).
@@ -178,6 +185,8 @@ A gurukul is a residential school. The shishya lived in the guru’s household. 
 
 ## 1.3 Ancient Indian Education System
 
+![The 18 Vidyas: Classical Knowledge Hierarchy](images/02b_18_vidyas_classical_curriculum.png)
+
 Not one system: Brahmanical gurukuls, Buddhist **viharas**, Jain **shalas**, **shreni** (श्रेणी) (guild) craft training ran in parallel.
 
 | Fact | Content |
@@ -189,11 +198,17 @@ Not one system: Brahmanical gurukuls, Buddhist **viharas**, Jain **shalas**, **s
 | **Assessment** | **Shastrartha** (debate); Nalanda gatekeepers (Hiuen Tsang: very low admission) |
 | **Decline** | 13th-c. raids (Khilji) + loss of patronage + Macaulay English model |
 
+![64 Kalas & Gurukul vs Buddhist Vihara Comparison](images/02c_gurukul_vs_vihara_comparison.png)
+
 > **Logic:** 64 Kalas = **skills/arts**. Buddhist centres used **Pali and Sanskrit**, not Sanskrit only.
 
 ---
 
 ## 1.4 Nalanda University
+
+![Ancient Higher Learning Centres & Buddhist Mahaviharas Spatial Map](images/03_ancient_universities_spatial_map.png)
+
+![Nalanda Mahavihara Temple No. 3 (Sariputta Stupa) Excavated Ruins](images/03b_nalanda_mahavihara_temple3_ruins.jpg)
 
 **Where / when:** Near Rajgir, **Bihar**; Gupta origins, peak **5th–12th c. CE** under **Pala** (**Dharmapala, Devapala**).
 
@@ -236,9 +251,13 @@ Not one system: Brahmanical gurukuls, Buddhist **viharas**, Jain **shalas**, **s
 
 > **Logic:** Founder-patron = **Dharmapala**. Atisha = Vikramashila. Destroyed **~1203**, same Khilji, **not** WH-listed.
 
+![Ancient Universities & Buddhist Mahaviharas Comparative Dossier](images/03a_mahaviharas_comparative_dossier.png)
+
 ---
 
 ## 1.7 Important Cultural Institutions of India
+
+![Ministry of Culture: Apex Governance & Organisational Taxonomy](images/04_ministry_of_culture_organisational_taxonomy.png)
 
 **Ministry of Culture** became a **separate ministry in 1985** (earlier a Department under Education). Nodal for arts, heritage, UNESCO coordination, autonomous bodies.
 
@@ -251,7 +270,11 @@ Not one system: Brahmanical gurukuls, Buddhist **viharas**, Jain **shalas**, **s
 | **INTACH** | **Indian National Trust for Art and Cultural Heritage** | 1984 | **NGO** (non-governmental organisation) | Heritage conservation partner — not a government autonomous body |
 | **7 ZCCs** | **Seven Zonal Cultural Centres** | 1985–87 | Ministry of Culture | Folk and tribal promotion — regional HQs below |
 
+![High-Frequency Parent Ministry & Status Confusion Traps](images/05_cultural_bodies_parent_ministry_traps.png)
+
 **Parent short forms:** **MEA** = Ministry of External Affairs. **NGO** = non-governmental organisation. **ZCC** = Zonal Cultural Centre. **Mo Culture** = Ministry of Culture.
+
+![Seven Zonal Cultural Centres (ZCC) of India: Headquarters Map](images/06_seven_zonal_cultural_centres_map.png)
 
 **7 Zonal Cultural Centres**
 
@@ -274,6 +297,8 @@ Not one system: Brahmanical gurukuls, Buddhist **viharas**, Jain **shalas**, **s
 
 ## 1.8 Archaeological Survey of India (ASI)
 
+![ASI AMASR Act Statutory Monument Buffer Zones](images/07_amasr_act_monument_protection_zones.png)
+
 **Est. 1861** (Viceroy **Canning**); first DG **Alexander Cunningham**. HQ New Delhi. **Ministry of Culture**.
 
 - Its mandate is to survey, excavate and conserve. It also stops illegal digging and antiquity smuggling.
@@ -281,6 +306,9 @@ Not one system: Brahmanical gurukuls, Buddhist **viharas**, Jain **shalas**, **s
 - The **Antiquities and Art Treasures Act 1972** covers export and ownership of antiquities.
 - The organisation is a DG plus **Circles**. -relevant circles are **Agra, Lucknow, Patna, Delhi and Jhansi**.
 - It runs **site museums** at the monument (Sarnath, Sanchi, Nalanda, Konark, Fatehpur Sikri, Agra, Ellora, Elephanta, Gol Gumbaz).
+
+![Sarnath Site Museum: Original 3rd Century BCE Ashokan Lion Capital](images/07b_sarnath_site_museum_lion_capital.jpg)
+
 - There are about **3,600+** centrally protected monuments (papers accept “3000+”).
 - UP ASI trap (full IVC questions live in Archaeology): **Alamgirpur, Mandi and Hulas** are in UP. **Rakhigarhi** (राखीगढ़ी) is in **Haryana**.
 
@@ -331,6 +359,8 @@ Evolved from **Imperial Record Department, 1891, Calcutta**; shifted to **New De
 ---
 
 ## 1.12 Sangeet Natak Akademi
+
+![The Three National Akademis: Rabindra Bhavan Triad, New Delhi](images/08_three_national_akademis_rabindra_bhavan.png)
 
 **1952** (govt resolution); statutory via **Sangeet Natak Akademi Act, 1959**. HQ **Rabindra Bhavan**, New Delhi. Ministry of Culture.
 
@@ -464,6 +494,8 @@ D. Chittaranjan
 ---
 
 ## 1.15A Uttar Pradesh Cultural & Performing Arts Institutions (High-Yield Match List)
+
+![Uttar Pradesh Cultural & Performing Arts Institutions Match Ladder](images/09_up_cultural_institutions_match_ladder.png)
 
 > **UPPCS recurring match trap:** Papers often pair UP cultural academies with their establishment years and locations. Learn one identity sentence per institute.
 
