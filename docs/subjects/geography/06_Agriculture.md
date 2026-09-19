@@ -48,7 +48,7 @@
 13. Sugarcane needs about **21–27°C** and **75–150 cm** rain or irrigation. **Uttar Pradesh leads quantity**; **Maharashtra leads productivity** and cooperatives. Frost and Loo (लू) hurt the north; the south is frost-free. Heavy rain lowers sugar; dry stress makes fibre. Price policy is **FRP** (plus SAP), not cereal MSP. Ratoon means a crop from stubble.
 14. Tea is a **plantation** crop needing about **20–30°C**, **150–300 cm** rain, and slopes — Assam, West Bengal, and Nilgiri (नीलगिरि). Coffee needs shade and is strongest in **Karnataka**, then Kerala and Tamil Nadu (नाडु).
 15. Rubber needs about **25–35°C** and above **200 cm** rain; the correct state pair is **Kerala**. Pepper (काली मिर्च) and cardamom also concentrate in **Kerala**. World citrus is a Mediterranean specialty.
-16. Potato leadership is with **Uttar Pradesh** (उत्तर प्रदेश). CIP-SARC is at **Agra (Singna)**, not Aligarh (अलीगढ़). **Sultana / Gulabi / Kali (काली) Champa (चम्पा):** the UPPCS **2018** answer was **guava**; some question banks list **grapes** — sources disagree.
+16. Potato leadership is with **Uttar Pradesh** (उत्तर प्रदेश). CIP-SARC is at **Agra (Singna)**, not Aligarh (अलीगढ़). **Sultana, Gulabi and Kali (काली) Champa (चम्पा)** are **guava** varieties — not grapes.
 17. Planning Commission (योजना आयोग) agro-climatic zones = **15**; NARP zones about **127**; agro-ecological regions about **20**. The Trans-Gangetic belt is the classic Green Revolution wheat–rice zone.
 18. **CACP recommends** MSP; the **Cabinet decides**. Mandated MSP crops are **22**. Cane uses FRP, not the cereal MSP schedule.
 19. Green Revolution = HYV seed + water + fertiliser (Lerma Rojo, Sonora 64, IR-8) in Punjab–Haryana–western Uttar Pradesh. Costs include groundwater crash, monoculture, millet/pulse neglect, and the stubble window. **BGREI** targets eastern rice systems. Norman Borlaug’s Nobel is for **Peace**.
@@ -87,7 +87,7 @@
 | Kerala rubber vs GJ tea | KL–Rubber **correct**; GJ–Tea / Assam–Wheat **wrong** | Pick GJ tea | रबर = केरल |
 | Ahmedabad vs Mumbai | Ahmedabad in cotton **region**; largest mill centre traditionally **Mumbai** | Ahmedabad = largest centre | कपड़ा केंद्र = मुंबई |
 | Potato CIP | **Agra (Singna)** | Aligarh | आलू केंद्र = आगरा |
-| Guava vs grapes | **Sultana / Gulabi / Kali Champa:** UPPCS **2018** answer was **guava**; some banks list **grapes** | Sources disagree | अमरूद/अंगूर विवाद |
+| Sultana / Gulabi / Kali Champa vs grapes | These three names are **guava** varieties | Pick grapes because Sultana is also a grape name | अमरूद ≠ अंगूर |
 | Azolla vs pesticide | Azolla = **biofertiliser** in rice | Insecticide | एजोला = जैव उर्वरक |
 | 15 vs 127 vs 20 | ACZ **15** / NARP **~127** / AER **~20** | Mix counts | 15 कृषि-जलवायु |
 | Sen vs Swaminathan | Food **entitlements** = Amartya Sen | Swaminathan | सेन = एंटाइटलमेंट |
@@ -578,8 +578,8 @@ Long-duration crop (**~10–18 months**) — not a single short season.
 - The world citrus belt is the **Mediterranean**.
 - India’s orange renown centres on **Nagpur**.
 - Improved **guava** varieties include **Lalit** and **Banarsi**.
-- For **Sultana, Gulabi and Kali Champa**, the UPPCS **2018** answer was **guava**.
-- Ghatnachakra lists **grapes** for the same names — sources disagree; for that year the paper answer is guava.
+- **Sultana, Gulabi and Kali Champa** are **guava** varieties.
+- Do not treat this trio as grapes. The name **Sultana** is also used for a seedless grape, and that is the usual mix-up.
 - **Uttar Pradesh** is the **leading potato producer**.
 - The CIP South Asia Regional Centre is at **Singna, Agra**, not Aligarh.
 - Best processing potato varieties are **Kufri Chipsona-2** and Chipsona-3 in the plains, and **Kufri Himsona** in the hills.
@@ -1126,9 +1126,13 @@ C. Guava
 
 D. Grapes
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: C Guava** — Trap: grapes because of the name Sultana.
+**Logic:** Grapes is the trap because **Sultana** is also a seedless-grape name. This trio is **guava**.
+
+**Ans: C.** **Guava**.
+
 </details>
 
 **Q107.** Largest producer of cardamom and pepper in India?
@@ -3842,7 +3846,7 @@ D. 1 and 2
 
 A. Potato leadership is with Bihar only
 B. CIP-SARC is at Agra (Singna), not Aligarh
-C. Sultana/Gulabi/Kali Champa are definitively grapes in all keys
+C. Sultana, Gulabi and Kali Champa are grape varieties
 D. Golden rice carries Vitamin C
 
 <details>
@@ -3850,7 +3854,7 @@ D. Golden rice carries Vitamin C
 
 **Ans: B.** CIP potato centre = Agra (Singna); UP leads potato.
 
-**Logic:** Sultana/Gulabi/Kali Champa: UPPCS 2018 key was guava; some banks list grapes — sources disagree. Golden rice = Vitamin A.
+**Logic:** **Sultana, Gulabi and Kali Champa** are guava varieties, not grapes. Golden rice carries Vitamin A, not Vitamin C.
 
 </details>
 
@@ -3906,7 +3910,7 @@ D. 1 and 2
 8. **Ahmedabad = India’s largest cotton textile centre** — FALSE. In cotton *region* yes; largest mill centre traditionally **Mumbai**.
 9. **Maharashtra coops explain UP’s lower cane yield** — FALSE. UP leads quantity; Maharashtra leads productivity. Cooperatives do not cause that yield gap.
 10. **CIP potato centre = Aligarh** — FALSE. **Agra (Singna)**; UP is potato leader.
-11. **Sultana/Gulabi/Kali Champa = grapes only** — Sources disagree. The UPPCS **2018** answer was **guava**; Ghatnachakra lists **grapes** — for that year the paper answer is guava.
+11. **Sultana/Gulabi/Kali Champa = grapes** — FALSE. They are **guava** varieties. The name Sultana is the grape mix-up.
 12. **ACZ = 127 or 20** — FALSE. Planning ACZ = **15**; NARP ~127; AER ~20.
 13. **Azolla = insecticide** — FALSE. **Biofertiliser** in flooded rice (2023).
 14. **Food entitlements = Swaminathan** — FALSE. **Amartya Sen**.
