@@ -804,11 +804,13 @@ D. Black soil is found in Himalayan region
 | Silty | Medium–high | Medium | Moderate (नरम दल) | Some alluvium |
 | Clayey | High | Slow | Hard when wet | Black regur |
 | **Loam** | Balanced | Balanced | Favourable | Best farm texture |
+
 | Particle | Diameter |
 |----------|--------------------------|
-| **Clay** | **< 0.002 mm** |
+| **Clay** | **less than 0.002 mm** |
 | Silt | About 0.002–0.06 mm |
 | Fine sand | About 0.06–2 mm |
+
 | Condition | pH tendency | Remedy hint |
 |-----------|-------------|-------------|
 | Laterite / NE humid / peaty | Acidic | Lime |
@@ -854,7 +856,7 @@ D. Black soil is found in Himalayan region
 ### Soil Erosion Stages (The Water Erosion Ladder)
 
 > **The Water Erosion Sequence (जल अपरदन की क्रमिक अवस्थाएँ):**
-> $$\textbf{Splash} \;\longrightarrow\; \textbf{Sheet} \;\longrightarrow\; \textbf{Rill} \;\longrightarrow\; \textbf{Gully} \;\longrightarrow\; \textbf{Ravine / Badland}$$
+> **Splash** → **Sheet** → **Rill** → **Gully** → **Ravine / Badland**
 > *(Mnemonic: **S**plash **S**mashes, **S**heet **S**teals, **R**ill **R**akes, **G**ully **G**ouges, **R**avine **R**uins!)*
 
 | Stage / Type | Primary Agent | Physical Mechanism & Diagnostic Feature | Real-World Example & Field Signature | Exam Decision Rule |
@@ -871,15 +873,13 @@ D. Black soil is found in Himalayan region
 
 ### Soil Conservation Methods (Categorized for Effortless Recall)
 
-Instead of a scattered list, civil services conservation methods fall into **5 distinct functional domains**:
+Instead of a scattered list, conservation methods fall into **five functional domains**:
 
-```
-                              SOIL CONSERVATION DOMAINS
-          ┌────────────────┬────────────────┬────────────────┬────────────────┐
-          ▼                ▼                ▼                ▼                ▼
-     1. Terrain &      2. Agronomic     3. Wind & Arid    4. Biological &   5. Chemical &
-      Slope Control     Field Methods      Defenses       Watershed Cover    Hydrological
-```
+1. Terrain and slope control
+2. Agronomic field methods
+3. Wind and arid-zone defences
+4. Biological and watershed cover
+5. Chemical and hydrological reclamation
 
 #### Category 1: Terrain & Slope Engineering (ढाल प्रबंधन)
 
@@ -921,8 +921,8 @@ Instead of a scattered list, civil services conservation methods fall into **5 d
 
 | Problem Condition | Scientific Remedy & Action | Typical Focus Tract |
 |:---|:---|:---|
-| **Alkaline / Sodic Soils (*Usar*)** | Application of **Gypsum ($CaSO_4 \cdot 2H_2O$)** or Iron Pyrites ($FeS_2$) to replace toxic exchangeable $Na^+$ with $Ca^{2+}$. | Canal-irrigated plains of UP, Punjab, Haryana. |
-| **Acidic Soils (Low pH)** | Application of **Agricultural Lime ($CaCO_3$)**, Dolomite, or Slaked Lime to neutralize soil acidity and restore base saturation. | Laterite belts (Kerala, Karnataka), humid North-East hills. |
+| **Alkaline / Sodic Soils (*Usar*)** | Application of **Gypsum (CaSO₄·2H₂O)** or Iron Pyrites (FeS₂) to replace toxic exchangeable Na⁺ with Ca²⁺. | Canal-irrigated plains of UP, Punjab, Haryana. |
+| **Acidic Soils (Low pH)** | Application of **Agricultural Lime (CaCO₃)**, Dolomite, or Slaked Lime to neutralize soil acidity and restore base saturation. | Laterite belts (Kerala, Karnataka), humid North-East hills. |
 | **Waterlogged & Saline Soils** | Installation of subterranean tile drainage + lining of canals to lower elevated water tables and halt capillary salt deposition. | Command areas of major canal irrigation projects. |
 
 ---
