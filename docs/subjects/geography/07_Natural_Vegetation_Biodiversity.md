@@ -573,12 +573,12 @@ D. Stamp
 
 ### Core Definitions
 
-- **Forest Cover (वन आवरण):** Satellite canopy mapping. All lands with tree canopy density $\ge 10\%$ and area $\ge 1$ hectare, **irrespective of ownership or legal status** (includes private orchards, tea estates, and plantations).
-  - *Very Dense Forest (VDF):* Canopy $> 70\%$
-  - *Moderately Dense Forest (MDF):* Canopy $40\% - 70\%$
-  - *Open Forest (OF):* Canopy $10\% - 40\%$
-  - *Scrub:* Canopy $< 10\%$ (NOT counted in Forest Cover).
-- **Tree Cover (वृक्ष आवरण):** Small tree patches, isolated trees, and linear roadside/canal plantings **$< 1$ hectare** occurring outside recorded forests (Trees Outside Forest / TOF).
+- **Forest Cover (वन आवरण):** Satellite canopy mapping. All lands with tree canopy density **≥ 10%** and area **≥ 1 hectare**, **irrespective of ownership or legal status** (includes private orchards, tea estates, and plantations).
+  - *Very Dense Forest (VDF):* Canopy **> 70%**
+  - *Moderately Dense Forest (MDF):* Canopy **40%–70%**
+  - *Open Forest (OF):* Canopy **10%–40%**
+  - *Scrub:* Canopy **below 10%** (NOT counted in Forest Cover).
+- **Tree Cover (वृक्ष आवरण):** Small tree patches, isolated trees, and linear roadside/canal plantings **below 1 hectare** occurring outside recorded forests (Trees Outside Forest / TOF).
 - **Recorded Forest Area (RFA) (अभिलिखित वन क्षेत्र):** Lands legally recorded or notified as forest in government revenue/forest records under the Indian Forest Act 1927 (**Reserved**, **Protected**, and **Unclassed**), regardless of whether trees physically grow there.
 - **Key Rule:** `Forest Cover ≠ Recorded Forest Area`. Approximately 27% of India's forest cover lies *outside* legally notified RFA.
 
@@ -606,16 +606,16 @@ D. Stamp
 
 | Metric | Official Figure | % of UP's Total Area | Notes |
 |:---|:---|:---|:---|
-| **Forest Cover** | **15,045.80 sq km** | **6.24%** | Satellite canopy $\ge 10\%$ |
+| **Forest Cover** | **15,045.80 sq km** | **6.24%** | Satellite canopy ≥ 10% |
 | **Tree Cover** | **8,950.92 sq km** | **3.72%** | Small patches & roadside trees |
 | **Total Green Cover** | **23,996.72 sq km** | **9.96%** | UP gained **+559 sq km** (#2 in India!) |
 
 - **UP District Extremes:**
   - **Highest Forest Cover (Area & %):** **Sonbhadra (~35.2%)**
   - **Lowest Forest Cover (Area & %):** **Bhadohi / Sant Ravidas Nagar (~0.37%)**
-- **Districts with $>20\%$ Forest Cover:**
-  - **Chandauli (~21.63%)** and **Shravasti (~20.95%)** have $>20\%$.
-  - *Exam Trap:* **Bahraich is only ~10.15%** (despite Katarniaghat Wildlife Sanctuary, total district cover is $<20\%$).
+- **Districts with more than 20% Forest Cover:**
+  - **Chandauli (~21.63%)** and **Shravasti (~20.95%)** have more than 20%.
+  - **Bahraich is only ~10.15%** (despite Katarniaghat Wildlife Sanctuary, total district cover is under 20%).
 - **Near-Nil Forest Land:** **Jaunpur, Ghazipur, and Ballia** (Purvanchal alluvial plain, officially accepted as having no recorded forest land).
 - **The UPPSC 12.8% Trap:** While FSI satellite cover is **6.24%** (9.96% total green cover), UPPSC officially accepted **12.8%** as correct based on state revenue records. Know both figures.
 
