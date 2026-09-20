@@ -168,13 +168,24 @@ Origin of Human Beings | Stone Age | Paleolithic Age | Mesolithic Age | Neolithi
 - Thomsen split museum collections into **Stone, Bronze, and Iron** (Copenhagen).
 - The Stone Age is further split into **Paleolithic, Mesolithic, and Neolithic** by tool and economy.
 - Dates in India are **regional**. There is no single national switch year.
+- Northwest farming at **Mehrgarh** can begin around **7000 BCE** while Mesolithic hunting still continues in other belts.
 
-| Period | Approx. | Economy | Defining fact |
-|--------|---------|---------|---------------|
-| **Paleolithic** | ~2 mya – 10,000 BCE | Hunting-gathering | Chipped core/flake/blade tools |
-| **Mesolithic** | ~10,000 – 6000 BCE | Hunting-fishing; some sedentism | **Microliths** |
-| **Neolithic** | ~7000 – 1000 BCE (regional) | Food production | Ground stone + pottery + villages |
-| **Chalcolithic** | ~3000 – 1500 BCE | Farming + first metal | **Copper + stone** — **not** a fourth Stone Age |
+| Period | Approx. (India) | Economy | Defining fact |
+|--------|-----------------|---------|---------------|
+| **Paleolithic** | ~2 mya – 10,000 BCE | Hunting and gathering | Chipped stone (core, flake, blade) |
+| **Mesolithic** | ~10,000 – 4000 BCE | Hunting, fishing; some sedentism | **Microliths** |
+| **Neolithic** | ~7000 – 1000 BCE | Food production | Ground or polished stone, pottery, villages |
+
+- Older summaries often compress Mesolithic as **10,000–6000 BCE**. Many Indian microlithic camps run later, toward **4000 BCE**.
+- The **Chalcolithic** is the Copper Age after the Stone Age. It is **not** a fourth Stone Age.
+- Farming already exists in the Neolithic. Chalcolithic villages add **copper** beside stone.
+
+| Period | Approx. (India) | Economy | Defining fact |
+|--------|-----------------|---------|---------------|
+| **Chalcolithic** | ~3000 – 1000 BCE | Farming villages plus first metal | **Copper plus stone**; rural, not Harappan cities |
+
+- Each period has a typical **tool class**. That is how the three Stone Age stages are told apart.
+
 | Tool class | What it is | Typical period |
 |------------|------------|----------------|
 | **Chopper / chopping** | Pebble tool, one or both edges flaked | Lower Pal **Soanian** |
@@ -188,9 +199,8 @@ Origin of Human Beings | Stone Age | Paleolithic Age | Mesolithic Age | Neolithi
 - Common raw stone includes **quartzite, chert, agate, jasper, and flint**.
 - The Stone Age **ends locally** when copper or bronze, and later urban Harappan cultures, appear.
 - It does **not** end everywhere at once.
-- UPPCS typically asks you to match **period, feature, and site** together.
 
-> **Logic:** Chalcolithic is **copper-stone**, not “Stone Age IV.” Kashmir Neolithic is not the same date or crop as Tamil Nadu Neolithic.
+> **Logic:** Chalcolithic is **copper-stone**, not “Stone Age IV.” Kashmir Neolithic is not the same date or crop as Tamil Nadu Neolithic. Jorwe fades around **1000 BCE**, so Chalcolithic does not stop at 1500 BCE.
 
 ---
 
@@ -235,6 +245,7 @@ Origin of Human Beings | Stone Age | Paleolithic Age | Mesolithic Age | Neolithi
 **Middle Stone Age | Holocene warming ~10,000 BCE | microliths | hunting–fishing**
 
 - The Mesolithic begins with **Holocene** warming around **10,000 BCE**.
+- In India it commonly runs toward **4000 BCE**. Some older summaries stop the period at **6000 BCE**.
 - The economy is still hunting, gathering, and fishing.
 - Camps become more sedentary near rivers and lakes.
 - The **bow and arrow** was likely widespread, using microlith arrowheads.
