@@ -62,7 +62,7 @@ Vedic Period | Rigvedic Society | Later Vedic Society | Vedic Administration | R
 | Sabha | Samiti | Elders/nobles (later exclusive) vs **general tribal** assembly that **chooses the rajan** | सभा / समिति |
 | Sabha | Vidatha | Political/judicial elite vs **oldest** gathering — **economic + ritual**, women, **fades first** | सभा / विदथ |
 | Bhagadugha | Sangrahitri | Collects king's **share (bhaga)** vs **treasurer** | भागदुघ / संग्रहीतृ |
-| Bhagadugha | Akshavapa | Revenue vs **dice / gambling** officer (2023 trap C) | भागदुघ / अक्षावाप |
+| Bhagadugha | Akshavapa | Revenue vs **dice / gambling** officer | भागदुघ / अक्षावाप |
 | Shukla Yajurveda | Krishna Yajurveda | **Vajasaneyi** (mantra & prose separate) vs Taittiriya / Kathaka / Maitrayani (mixed). **Krishna here = Black Yajurveda**, not the god Krishna | शुक्ल / कृष्ण यजुर्वेद |
 | Indra | Agni | **~250** hymns, war/rain vs **~200** hymns, fire / offering-carrier | इन्द्र / अग्नि |
 | Indra (Early) | Prajapati (Later) | War-chief god of Rigveda vs creator / ritual supreme of Later Vedic | इन्द्र / प्रजापति |
@@ -287,10 +287,10 @@ D. 4 3 1 2
 - The **gramani** (ग्रामिणी) is the village head and is also listed among the ratnins.
 - The **bhagadugha** is the **revenue collector**.
 - He takes the king’s **bhaga** (share) of produce or booty.
-- **Bhagadugha** collects the king’s **bhaga** (revenue share) — the standard match-list fact for that officer.
 - The **sangrahitri** is the treasurer or chamberlain.
-- The **akshavapa** is the officer of **dice and gambling**, and sometimes of accounts.
-- Akshavapa is option **C** in 2023. It is the **wrong** answer for Bhagadugha, but it is a **real** office. Learn both.
+- The **akshavapa** is a real Later Vedic **ratnin**.
+- His charge is **dice and gambling**, and sometimes accounts.
+- He is **not** the revenue collector. Revenue is **Bhagadugha**.
 - The **suta** is the charioteer or bard.
 - The **kshattri** is another ratnin.
 - The **takshan** is the carpenter.
@@ -306,7 +306,7 @@ D. 4 3 1 2
 | **Kshattri** | Chamberlain-type officer |
 | **Bhagadugha** | Revenue collector of the king’s **bhaga** |
 | **Sangrahitri** | Treasurer |
-| **Akshavapa** | Dice / gambling officer (2023 trap vs Bhagadugha) |
+| **Akshavapa** | Dice / gambling officer |
 | **Takshan** | Carpenter |
 | **Govikartana** | Cowherd / cattle officer in lists |
 | **Palagala** | Another ratnin name in Later Vedic lists |
