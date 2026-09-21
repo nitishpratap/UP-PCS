@@ -358,7 +358,7 @@ Around the Northern Hemisphere **winter solstice**, global pressure belts **shif
 
 ## N.4 Latitude
 
-![World Map: Major Parallels (Equator, Cancer, Capricorn) & Prime Meridian](images/ch14_01_world_latitudes_parallels_map.png)
+![World map with Equator, Tropic of Cancer, Tropic of Capricorn, Arctic Circle and Antarctic Circle](images/ch14_01_world_latitudes_parallels_map.png)
 
 **Latitude** lines are parallels. **0°** is the Equator. **90°** marks the poles. One degree of latitude is about **111 km**.
 
