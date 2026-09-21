@@ -1,9 +1,11 @@
 # Track only exported Notion notes in this repo.
-# Ignore everything else (PDFs, videos, tools, secrets, IDE files).
+# Ignore everything else (videos, tools, secrets, IDE files).
 
 /*
 !/exports/
 !/exports/**
+!/pdfs/
+!/pdfs/**
 !.gitignore
 !/pyq/
 !/pyq/**
