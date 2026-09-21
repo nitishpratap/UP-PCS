@@ -31,7 +31,7 @@ Use it in three situations:
 | **CA** | [Current Affairs](08_Current_Affairs.md) | **~245–255** functional (~26–39/year); Subject-tag only **161** | Plan from functional CA, not Subject tag. IR/Defence/schemes leak in 2024–25. Full playbook: [CA hub](../current-affairs/index.md). |
 
 !!! tip "Fast rule"
-    If you have only a few days, finish **Geography + Polity + Environment + Modern History** before polishing low-frequency corners. Keep **Current Affairs** on a monthly lock checklist — it rivals History in question count.
+    If you have only a few days, finish **Geography + Polity + Environment + Modern History** before polishing low-frequency corners. Keep **Current Affairs** on a monthly lock checklist — it rivals History in question count. Chapter-level High / Medium / Least lists: [Chapter Priority Tracker](../chapter-tracker.md).
 
 ---
 

@@ -43,6 +43,18 @@ SKIP_FILE = re.compile(
 )
 H2_SPLIT = re.compile(r"(?m)^## ")
 TABLE_SEP = re.compile(r"^\s*\|?\s*:?-{3,}")
+QUESTION_START = re.compile(
+    r"(?i)^\s*(\*\*)?(PYQ\b|Q\d+[a-z]?\.\s|Match List[- ]I\b|Assertion\s*\(A\))",
+)
+QUESTION_TABLE_HEAD = re.compile(
+    r"(?i)list[-\s]*([i1]|ii|2)\b|code given below|select the correct",
+)
+OPTION_ROW = re.compile(r"^\s*\|\s*[A-D]\.\s")
+NUMBERED_OPTION_ROW = re.compile(r"^\s*\|\s*\d+\.\s")
+HY_LIST_HEADING = re.compile(
+    r"(?i)\b(match|pair|tribute|frontier|gana|north|south|"
+    r"tag|lock|trap|list|vs\.?|versus|site|kingdom)\b",
+)
 
 CSS = """
 :root { --ink: #1e293b; --muted: #64748b; --line: #e2e8f0; --navy: #273c75; --amber: #d97706; }
@@ -197,30 +209,108 @@ def is_table_row(line: str) -> bool:
     return line.strip().startswith("|")
 
 
-def extract_teaching_tables(body: str) -> str:
-    lines = body.splitlines()
-    chunks: list[str] = []
-    last_h3 = ""
-    last_h4 = ""
+def is_question_start(line: str) -> bool:
+    text = line.strip()
+    if not text:
+        return False
+    if QUESTION_START.search(text):
+        return True
+    if re.match(r"(?i)^\*\*Q\d+", text):
+        return True
+    return False
+
+
+def looks_like_question_table(table_lines: list[str]) -> bool:
+    if len(table_lines) < 2:
+        return True
+    if QUESTION_TABLE_HEAD.search(table_lines[0]):
+        return True
+    body = table_lines[2:] if len(table_lines) > 2 else []
+    letter_rows = sum(1 for row in body if OPTION_ROW.search(row))
+    numbered_rows = sum(1 for row in body if NUMBERED_OPTION_ROW.search(row))
+    if letter_rows >= 2 and numbered_rows >= 2:
+        return True
+    if letter_rows >= 3:
+        return True
+    joined = " ".join(table_lines).lower()
+    if "row order is not the answer" in joined:
+        return True
+    return False
+
+
+def strip_inline_questions(text: str) -> str:
+    """Drop PYQ / Match List / Q-stems so question tables never ride a teaching heading."""
+    lines = text.splitlines()
+    kept: list[str] = []
     i = 0
     while i < len(lines):
-        raw = lines[i]
-        if raw.startswith("### "):
-            last_h3 = raw
-            last_h4 = ""
-        elif raw.startswith("#### "):
-            last_h4 = raw
-        if is_table_row(raw) and i + 1 < len(lines) and TABLE_SEP.search(lines[i + 1] or ""):
-            table: list[str] = []
-            while i < len(lines) and is_table_row(lines[i]):
-                table.append(lines[i])
+        if is_question_start(lines[i]):
+            while i < len(lines):
+                line = lines[i]
+                if line.startswith("## ") or line.startswith("### ") or line.startswith("#### "):
+                    break
                 i += 1
-            if len(table) >= 3:
-                heading = last_h4 or last_h3
-                block = (heading + "\n\n" if heading else "") + "\n".join(table)
-                chunks.append(block)
+                if re.search(r"</details>", line, re.I):
+                    break
+            while i < len(lines) and not lines[i].strip():
+                i += 1
+            continue
+        kept.append(lines[i])
+        i += 1
+    return "\n".join(kept)
+
+
+def read_markdown_table(lines: list[str], start: int) -> tuple[list[str], int]:
+    table: list[str] = []
+    i = start
+    while i < len(lines) and is_table_row(lines[i]):
+        table.append(lines[i])
+        i += 1
+    return table, i
+
+
+def extract_h3_high_yield(part: str) -> str:
+    """Keep teaching tables and compact ratta lists; never keep question tables."""
+    part = strip_inline_questions(part).strip()
+    if not part:
+        return ""
+    lines = part.splitlines()
+    heading = lines[0] if lines and lines[0].startswith("###") else ""
+    rest = lines[1:] if heading else lines
+    tables: list[str] = []
+    i = 0
+    while i < len(rest):
+        if is_table_row(rest[i]) and i + 1 < len(rest) and TABLE_SEP.search(rest[i + 1] or ""):
+            table, i = read_markdown_table(rest, i)
+            if len(table) >= 3 and not looks_like_question_table(table):
+                tables.append("\n".join(table))
             continue
         i += 1
+
+    if tables:
+        bits = [heading] if heading else []
+        bits.extend(tables)
+        return "\n\n".join(bit for bit in bits if bit).strip()
+
+    if heading and HY_LIST_HEADING.search(heading):
+        body = "\n".join(rest).strip()
+        if body:
+            return f"{heading}\n\n{body}".strip()
+    return ""
+
+
+def extract_teaching_tables(body: str) -> str:
+    body = strip_inline_questions(body)
+    chunks: list[str] = []
+    parts = re.split(r"(?m)^(?=### )", body)
+    if parts:
+        lead = extract_h3_high_yield(parts[0])
+        if lead:
+            chunks.append(lead)
+        for part in parts[1:]:
+            block = extract_h3_high_yield(part)
+            if block:
+                chunks.append(block)
     return "\n\n".join(chunks).strip()
 
 
@@ -243,11 +333,11 @@ def extract_chapter(path: Path) -> tuple[str, str]:
     if kind == "facts-file":
         _, sections = split_h2(text)
         body = "\n\n".join(f"## {t}\n\n{b}".strip() for t, b in sections) or text
-        return body.strip(), ""
+        return strip_inline_questions(body).strip(), ""
     if kind == "tables-file":
         _, sections = split_h2(text)
         body = "\n\n".join(f"## {t}\n\n{b}".strip() for t, b in sections) or text
-        return "", body.strip()
+        return "", strip_inline_questions(body).strip()
 
     _, sections = split_h2(text)
     facts: list[str] = []
@@ -260,7 +350,7 @@ def extract_chapter(path: Path) -> tuple[str, str]:
             facts.append(block)
             continue
         if HIGH_YIELD_TITLE.search(title):
-            tables.append(block)
+            tables.append(strip_inline_questions(block).strip())
             continue
         teaching_tables = extract_teaching_tables(body)
         if teaching_tables:
@@ -377,7 +467,7 @@ def subject_folders() -> list[tuple[str, Path]]:
     return out
 
 
-def build_subject(label: str, folder: Path, tmp: Path) -> list[Path]:
+def build_subject(label: str, folder: Path, tmp: Path, tables_only: bool = False) -> list[Path]:
     facts_chapters: list[tuple[str, str]] = []
     table_chapters: list[tuple[str, str]] = []
     for title, path in chapter_list(folder):
@@ -391,7 +481,7 @@ def build_subject(label: str, folder: Path, tmp: Path) -> list[Path]:
 
     written: list[Path] = []
     safe = re.sub(r"[\\\\/:*?\"<>|]", " ", label).strip()
-    if facts_chapters:
+    if facts_chapters and not tables_only:
         html = wrap_document(
             label,
             "Must-Score Facts",
@@ -431,6 +521,7 @@ def main() -> int:
         return 1
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     wanted = [a for a in sys.argv[1:] if not a.startswith("-")]
+    tables_only = "--tables" in sys.argv
     subjects = subject_folders()
     if wanted:
         subjects = [
@@ -448,7 +539,7 @@ def main() -> int:
     try:
         for label, folder in subjects:
             print(f"\n== {label} ==", flush=True)
-            written.extend(build_subject(label, folder, tmp))
+            written.extend(build_subject(label, folder, tmp, tables_only=tables_only))
     finally:
         shutil.rmtree(tmp, ignore_errors=True)
 

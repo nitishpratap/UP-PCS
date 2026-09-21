@@ -9,7 +9,7 @@ Use the **left sidebar** to expand a subject and open its chapters. Start each s
 
 **Dual exam:** National chapters serve **UPPCS + UKPCS**. Open the **Uttarakhand** section inside a subject for UKPCS-only state heads. Full paper map: **[UKPCS Desk](../ukpcs/index.md)**.
 
-For UPPCS 2018–2025 question weight and study order, open **[Prelims Analysis](../prelims-analysis/index.md)**.
+For UPPCS 2018–2025 question weight and study order, open **[Prelims Analysis](../prelims-analysis/index.md)**. Tick chapters as you finish them in the **[Chapter Priority Tracker](../chapter-tracker.md)**.
 
 <div class="study-grid" markdown>
 
