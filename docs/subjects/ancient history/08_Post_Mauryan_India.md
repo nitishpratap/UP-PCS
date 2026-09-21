@@ -43,7 +43,7 @@ Post-Mauryan Period | Satavahana Rulers | South Indian History | Indo-Greeks | S
 24. **Gandhara** art is Kushan northwest Greco-Buddhist. **Amaravati** art is Satavahana Andhra limestone narrative relief. Do not swap the schools.
 25. Ashoka’s Rock Edict II names Chola, Pandya, Keralaputra, and Satiyaputra as **independent neighbours**, not Mauryan provinces.
 26. In Uttar Pradesh, **Ayodhya** is the Pushyamitra ashwamedha fact, and **Mathura** is the Kushan second capital and Mathura-art home.
-27. **Patanjali** of the *Mahabhashya* (महाभाष्य) and Kalidasa’s *Malavikagnimitra* (Agnimitra) sit in Shunga-court tradition, but Buddhist books stay hostile to Pushyamitra even while Sanchi still grows. **Patanjali is Shunga-age — not Kanishka’s court.**
+27. **Patanjali** (पतंजलि) of the *Mahabhashya* (महाभाष्य) and Kalidasa’s (कालिदास) *Malavikagnimitra* (मालविकाग्निमित्रम्) (Agnimitra (अग्निमित्र)) sit in Shunga-court tradition, but Buddhist books stay hostile to Pushyamitra even while Sanchi still grows. **Patanjali is Shunga-age — not Kanishka’s court.**
 28. Satavahana personal names are often **metronymic** (Gautamiputra, Vashishthiputra). After their decline, Deccan power thins toward the third century CE.
 29. **Vima Kadphises** (Kadphises II) issues the first large-scale **gold** for regular use; title **Sarvalokeshvara**. **Kujula** mainly issues **copper**. **Kanishka** puts **Buddha** (बुद्ध) on coins.
 30. **Rabatak** lists Kushan cities **Saketa, Kaushambi, Pataliputra, and Champa** — **not Shravasti**. Sarnath Kanishka Buddha image inscription is dated about **81 CE** (year 3 of his era).
@@ -175,8 +175,8 @@ Post-Mauryan Period | Satavahana Rulers | South Indian History | Indo-Greeks | S
 
 | Book / text | Writer / authority | Horizon / use |
 |-------------|--------------------|---------------|
-| *Mahabhashya* | **Patanjali** | Shunga-age grammar; **not** Kanishka’s court |
-| *Malavikagnimitra* | **Kalidasa** (कालिदास) | Play on Agnimitra (Pushyamitra’s son); Shunga setting |
+| *Mahabhashya* (महाभाष्य) | **Patanjali** (पतंजलि) | Shunga-age grammar; **not** Kanishka’s court |
+| *Malavikagnimitra* (मालविकाग्निमित्रम्) | **Kalidasa** (कालिदास) | Play on Agnimitra (अग्निमित्र) (Pushyamitra’s son); Shunga setting |
 | *Gatha Saptasati* | **Hala** | Prakrit anthology; Satavahana court |
 | *Milinda Panha* | Dialogue of **Menander (Milinda)** and **Nagasena** | Indo-Greek Buddhist Q&A |
 | *Buddhacharita* | **Ashvaghosha** | Buddha’s life epic; Kanishka age |
@@ -226,7 +226,7 @@ After **185 BCE** India has several power centres at once. Magadha passes to the
 - There is a Brahmanical revival under this house.
 - Pushyamitra performs two **ashwamedha** rites. The **Ayodhya inscription** of **Dhanadeva** records those two.
 - Do not place those ashvamedhas at Besnagar, Hathigumpha, or Sarnath.
-- **Agnimitra** is Pushyamitra’s son. Kalidasa’s *Malavikagnimitra* uses him.
+- **Agnimitra** (अग्निमित्र) is Pushyamitra’s son. Kalidasa’s (कालिदास) *Malavikagnimitra* (मालविकाग्निमित्रम्) uses him.
 - **Patanjali** of the *Mahabhashya* is placed in this court in tradition. He is **not** a Kanishka-court scholar.
 - Buddhist books are hostile, yet Sanchi is still enlarged in this age.
 - **Bharhut** (भरहुत) stupa railings are a classic **Shunga** sculpture fact.

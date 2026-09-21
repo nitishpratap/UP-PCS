@@ -310,7 +310,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans: Abhijnanashakuntalam, Meghaduta, Raghuvamsha** (also Kumarasambhava, Malavikagnimitra). **Shringara Shataka is Bhartrihari**, not Kalidasa (2025). Elite language = **Sanskrit**. **Vishakhadatta** = *Mudrarakshasa*. **Amarasimha** = *Amarakosha*.
+**Ans: *Abhijnanashakuntalam* (अभिज्ञानशाकुन्तलम्), *Meghaduta* (मेघदूत), *Raghuvamsha* (रघुवंश)** (also *Kumarasambhava* (कुमारसंभव), *Malavikagnimitra* (मालविकाग्निमित्रम्)). ***Shringara Shataka* (शृंगार शतक) is Bhartrihari (भर्तृहरि)**, not Kalidasa (कालिदास) (2025). Elite language = **Sanskrit**. **Vishakhadatta** (विशाखदत्त) = *Mudrarakshasa* (मुद्राराक्षस). **Amarasimha** (अमरसिंह) = *Amarakosha* (अमरकोश).
 
 </details>
 
@@ -410,9 +410,9 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 | Fa-Hien | **CG II** pilgrim |
 | Kumaragupta | **Nalanda** |
 | Skandagupta | **Hunas / Bhitari** |
-| Aryabhata | **rotation / π** |
-| Kalidasa | **Shakuntala** |
-| Varahamihira | **Brihat Samhita** |
+| Aryabhata (आर्यभट) | **rotation / π** |
+| Kalidasa (कालिदास) | **Shakuntala (*Abhijnanashakuntalam* (अभिज्ञानशाकुन्तलम्))** |
+| Varahamihira (वराहमिहिर) | **Brihat Samhita (बृहत्संहिता)** |
 | Deogarh | **Dashavatara** |
 | Bhitargaon | **brick temple** |
 | Prayaga Prashasti | **Samudragupta** |
@@ -465,7 +465,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans:** **Vishakhadatta** wrote ***Mudrarakshasa*** — a Sanskrit political drama about **Chanakya** and the fall of the Nanda–Maurya transition. Not Kalidasa.
+**Ans:** **Vishakhadatta** (विशाखदत्त) wrote ***Mudrarakshasa*** (मुद्राराक्षस) — a Sanskrit political drama about **Chanakya** (चाणक्य) and the fall of the Nanda–Maurya transition. Not Kalidasa (कालिदास).
 
 </details>
 
@@ -474,7 +474,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans:** ***Shringara Shataka*** is **Bhartrihari’s**, not Kalidasa’s. Kalidasa facts remain **Shakuntala, Meghaduta, Raghuvamsha**.
+**Ans:** ***Shringara Shataka*** (शृंगार शतक) is **Bhartrihari’s** (भर्तृहरि), not Kalidasa’s (कालिदास). Kalidasa facts remain **Shakuntala (*Abhijnanashakuntalam* (अभिज्ञानशाकुन्तलम्)), Meghaduta (मेघदूत), Raghuvamsha (रघुवंश)**.
 
 </details>
 

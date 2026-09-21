@@ -5,12 +5,9 @@ icon: material/checkbox-marked-outline
 
 # Chapter Priority Tracker
 
+Tick a chapter when you finish it. The tick stays in **this browser**. Open a subject, then click a topic to see how many questions were asked.
 
-Tick a chapter when you finish it. The tick stays in **this browser**. Click the name to open the note.
-
-**Grouped by PYQ hits** in **UPPCS** (2018–2025 banks) **plus UKPCS** (2016, 2021, 2024, 2025 banks), unique year–question pairs, Practice Zone excluded. A few high-weight clusters from [Prelims Analysis](prelims-analysis/index.md) stay in Highly Important even if the bank heading style under-counts them.
-
-<div class="ct-toolbar" markdown="1">
+<div class="ct-toolbar">
 
 <p class="ct-overall"><strong>Overall:</strong> <span class="ct-progress" data-ct-subject="all"></span></p>
 
@@ -22,524 +19,3359 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Click the
 <button type="button" class="ct-filter" data-ct-filter="open">Not done</button>
 </div>
 
-<div class="ct-jump" markdown="1">
-
-[Ancient History](#ancient-history) · [Medieval India](#medieval-india) · [Modern India](#modern-india) · [Art and Culture](#art-and-culture) · [Geography](#geography) · [Environment and Ecology](#environment-and-ecology) · [Polity](#polity) · [Economy](#economy) · [Science and Technology](#science-and-technology)
-
 </div>
 
+<details class="ct-subject" id="ancient-history" data-ct-subject="ancient-history" name="ct-subject">
+  <summary>
+    <span class="ct-subject-title">Ancient History</span>
+    <span class="ct-progress" data-ct-subject="ancient-history"></span>
+    <span class="ct-subject-count">18 chapters</span>
+  </summary>
+  <div class="ct-subject-body">
+<h3 class="ct-group-title">Highly Important</h3>
+<div class="ct-list ct-list--high">
+<details class="ct-row" data-ct-id="ancient-history-07-Mauryan-Empire-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="ancient-history-07-Mauryan-Empire-md" aria-label="Mark Topic 7 — Mauryan Empire done">
+    <span class="ct-title">Topic 7 — Mauryan Empire</span>
+    <span class="ct-pills">26 Qs · UPPCS 19 · UKPCS 7</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/ancient%20history/07_Mauryan_Empire/#77-ashokas-dhamma">Ashoka&#x27;s Dhamma</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/ancient%20history/07_Mauryan_Empire/#books-and-writers-mauryan-age">Books and Writers — Mauryan Age</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/ancient%20history/07_Mauryan_Empire/#75-important-mauryan-officials">Important Mauryan Officials</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/ancient%20history/07_Mauryan_Empire/#78-major-rock-edicts">Major Rock Edicts</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/ancient%20history/07_Mauryan_Empire/#71-mauryan-empire">Mauryan Empire</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/ancient%20history/07_Mauryan_Empire/#716-revenue-administration">Revenue Administration</a> — 1 question (UKPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/ancient%20history/07_Mauryan_Empire/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="ancient-history-08-Post-Mauryan-India-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="ancient-history-08-Post-Mauryan-India-md" aria-label="Mark Topic 8 — Post-Mauryan India done">
+    <span class="ct-title">Topic 8 — Post-Mauryan India</span>
+    <span class="ct-pills">24 Qs · UPPCS 22 · UKPCS 2</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/ancient%20history/08_Post_Mauryan_India/#87-kushanas">Kushanas</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/ancient%20history/08_Post_Mauryan_India/#810-later-south-2025-match-only">Later South — 2025 match only</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/ancient%20history/08_Post_Mauryan_India/#81-post-mauryan-period">Post-Mauryan Period</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/ancient%20history/08_Post_Mauryan_India/#82-satavahana-rulers">Satavahana Rulers</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/ancient%20history/08_Post_Mauryan_India/#85-shakas">Shakas</a> — 1 question (UKPCS 1)</li>
+      <li><a href="../subjects/ancient%20history/08_Post_Mauryan_India/#83-south-indian-history">South Indian History</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/ancient%20history/08_Post_Mauryan_India/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="ancient-history-04-Religious-Movements-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="ancient-history-04-Religious-Movements-md" aria-label="Mark Topic 4 — Religious Movements done">
+    <span class="ct-title">Topic 4 — Religious Movements</span>
+    <span class="ct-pills">23 Qs · UPPCS 23 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/ancient%20history/04_Religious_Movements/#complete-pyq-bank-ghatnachakra-buddhism-jainism-bhagavata-uppcs-ukpcs-standard">Ghatnachakra Buddhism / Jainism / Bhagavata</a> — 13 questions (UPPCS 13)</li>
+      <li><a href="../subjects/ancient%20history/04_Religious_Movements/#413-ashokan-patronage">Ashokan Patronage</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/ancient%20history/04_Religious_Movements/#46-buddhist-councils">Buddhist Councils</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/ancient%20history/04_Religious_Movements/#47-buddhist-texts">Buddhist Texts</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/ancient%20history/04_Religious_Movements/#412-cave-architecture">Cave Architecture</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/ancient%20history/04_Religious_Movements/#417-nirvana-sites-of-tirthankaras">Nirvana Sites of Tirthankaras</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/ancient%20history/04_Religious_Movements/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="ancient-history-02-Indus-Valley-Civilization-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="ancient-history-02-Indus-Valley-Civilization-md" aria-label="Mark Topic 2 — Indus Valley Civilization (Harappan Civilization) done">
+    <span class="ct-title">Topic 2 — Indus Valley Civilization (Harappan Civilization)</span>
+    <span class="ct-pills">21 Qs · UPPCS 20 · UKPCS 1</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/ancient%20history/02_Indus_Valley_Civilization/#complete-pyq-bank-ghatnachakra-indus-valley-uppcs-ukpcs-standard">Ghatnachakra Indus Valley</a> — 8 questions (UPPCS 7 · UKPCS 1)</li>
+      <li><a href="../subjects/ancient%20history/02_Indus_Valley_Civilization/#25-archaeological-sites-of-uttar-pradesh">Archaeological Sites of Uttar Pradesh</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/ancient%20history/02_Indus_Valley_Civilization/#21-indus-valley-civilization">Indus Valley Civilization</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/ancient%20history/02_Indus_Valley_Civilization/#23-major-harappan-sites">Major Harappan Sites</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/ancient%20history/02_Indus_Valley_Civilization/#26-major-ports-of-ancient-india">Major Ports of Ancient India</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/ancient%20history/02_Indus_Valley_Civilization/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="ancient-history-03-Vedic-Civilization-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="ancient-history-03-Vedic-Civilization-md" aria-label="Mark Topic 3 — Vedic Civilization done">
+    <span class="ct-title">Topic 3 — Vedic Civilization</span>
+    <span class="ct-pills">19 Qs · UPPCS 15 · UKPCS 4</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/ancient%20history/03_Vedic_Civilization/#complete-pyq-bank-ghatnachakra-vedic-age-uppcs-ukpcs-standard">Ghatnachakra Vedic Age</a> — 12 questions (UPPCS 9 · UKPCS 3)</li>
+      <li><a href="../subjects/ancient%20history/03_Vedic_Civilization/#311-four-vedas">Four Vedas</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/ancient%20history/03_Vedic_Civilization/#34-vedic-administration">Vedic Administration</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/ancient%20history/03_Vedic_Civilization/#31-vedic-period">Vedic Period</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/ancient%20history/03_Vedic_Civilization/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="ancient-history-13-Archaeology-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="ancient-history-13-Archaeology-md" aria-label="Mark Topic 13 — Archaeology done">
+    <span class="ct-title">Topic 13 — Archaeology</span>
+    <span class="ct-pills">16 Qs · UPPCS 16 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/ancient%20history/13_Archaeology/#136-archaeological-sites-of-uttar-pradesh">Archaeological Sites of Uttar Pradesh</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/ancient%20history/13_Archaeology/#135-archaeological-sites">Archaeological Sites</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/ancient%20history/13_Archaeology/#134-excavations">Excavations</a> — 2 questions (UPPCS 2)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/ancient%20history/13_Archaeology/">Open chapter</a>
+  </div>
+</details>
 </div>
 
-!!! note "How to read the counts"
-    **UP** = unique UPPCS stems in that chapter. **UK** = unique UKPCS stems in that chapter or mapped from the UKPCS PYQ bank. Rank is **within that subject**, not across the whole library. Uttarakhand folders are ranked on UKPCS hits; even a low-count UK chapter still feeds the one-third state share of the UKPCS paper.
-
-## Ancient History { #ancient-history }
-
-<p class="ct-subhead"><span class="ct-progress" data-ct-subject="ancient-history"></span> 18 chapters</p>
-
-### Highly Important
-
-<div class="ct-list ct-list--high" markdown="1">
-
-- <span class="ct-row" data-ct-id="ancient-history-07-Mauryan-Empire-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="ancient-history-07-Mauryan-Empire-md" aria-label="Mark Topic 7 — Mauryan Empire done"> [Topic 7 — Mauryan Empire](subjects/ancient history/07_Mauryan_Empire.md) <span class="ct-pills">UP 19 · UK 7</span></span>
-- <span class="ct-row" data-ct-id="ancient-history-08-Post-Mauryan-India-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="ancient-history-08-Post-Mauryan-India-md" aria-label="Mark Topic 8 — Post-Mauryan India done"> [Topic 8 — Post-Mauryan India](subjects/ancient history/08_Post_Mauryan_India.md) <span class="ct-pills">UP 22 · UK 2</span></span>
-- <span class="ct-row" data-ct-id="ancient-history-04-Religious-Movements-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="ancient-history-04-Religious-Movements-md" aria-label="Mark Topic 4 — Religious Movements done"> [Topic 4 — Religious Movements](subjects/ancient history/04_Religious_Movements.md) <span class="ct-pills">UP 23 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="ancient-history-02-Indus-Valley-Civilization-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="ancient-history-02-Indus-Valley-Civilization-md" aria-label="Mark Topic 2 — Indus Valley Civilization (Harappan Civilization) done"> [Topic 2 — Indus Valley Civilization (Harappan Civilization)](subjects/ancient history/02_Indus_Valley_Civilization.md) <span class="ct-pills">UP 20 · UK 1</span></span>
-- <span class="ct-row" data-ct-id="ancient-history-03-Vedic-Civilization-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="ancient-history-03-Vedic-Civilization-md" aria-label="Mark Topic 3 — Vedic Civilization done"> [Topic 3 — Vedic Civilization](subjects/ancient history/03_Vedic_Civilization.md) <span class="ct-pills">UP 15 · UK 4</span></span>
-- <span class="ct-row" data-ct-id="ancient-history-13-Archaeology-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="ancient-history-13-Archaeology-md" aria-label="Mark Topic 13 — Archaeology done"> [Topic 13 — Archaeology](subjects/ancient history/13_Archaeology.md) <span class="ct-pills">UP 16 · UK 0</span></span>
-
+<h3 class="ct-group-title">Medium Important</h3>
+<div class="ct-list ct-list--medium">
+<details class="ct-row" data-ct-id="ancient-history-14-Ancient-India-Miscellaneous-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="ancient-history-14-Ancient-India-Miscellaneous-md" aria-label="Mark Topic 14 — Ancient India Miscellaneous done">
+    <span class="ct-title">Topic 14 — Ancient India Miscellaneous</span>
+    <span class="ct-pills">18 Qs · UPPCS 18 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/ancient%20history/14_Ancient_India_Miscellaneous/#complete-pyq-bank-this-topic-uppcs-prelims-20182025">this topic (UPPCS Prelims 2018–2025)</a> — 18 questions (UPPCS 18)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/ancient%20history/14_Ancient_India_Miscellaneous/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="ancient-history-11-Ancient-Indian-Administration-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="ancient-history-11-Ancient-Indian-Administration-md" aria-label="Mark Topic 11 — Ancient Indian Administration done">
+    <span class="ct-title">Topic 11 — Ancient Indian Administration</span>
+    <span class="ct-pills">15 Qs · UPPCS 15 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/ancient%20history/11_Ancient_Indian_Administration/#113-rulers-and-their-inscriptions">Rulers and their Inscriptions</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/ancient%20history/11_Ancient_Indian_Administration/#114-ancient-administration">Ancient Administration</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/ancient%20history/11_Ancient_Indian_Administration/#112-titles-of-ancient-rulers">Titles of Ancient Rulers</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/ancient%20history/11_Ancient_Indian_Administration/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="ancient-history-01-Stone-Age-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="ancient-history-01-Stone-Age-md" aria-label="Mark Topic 1 — Stone Age (Prehistoric India) done">
+    <span class="ct-title">Topic 1 — Stone Age (Prehistoric India)</span>
+    <span class="ct-pills">12 Qs · UPPCS 10 · UKPCS 2</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/ancient%20history/01_Stone_Age/#complete-pyq-bank-ghatnachakra-stone-age-uppcs-ukpcs-standard">Ghatnachakra Stone Age</a> — 8 questions (UPPCS 7 · UKPCS 1)</li>
+      <li><a href="../subjects/ancient%20history/01_Stone_Age/#113-bhimbetka-rock-shelters">Bhimbetka Rock Shelters</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/ancient%20history/01_Stone_Age/#14-mesolithic-age">Mesolithic Age</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/ancient%20history/01_Stone_Age/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="ancient-history-09-Gupta-Age-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="ancient-history-09-Gupta-Age-md" aria-label="Mark Topic 9 — Gupta Age done">
+    <span class="ct-title">Topic 9 — Gupta Age</span>
+    <span class="ct-pills">11 Qs · UPPCS 11 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/ancient%20history/09_Gupta_Age/#94-chandragupta-ii">Chandragupta II</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/ancient%20history/09_Gupta_Age/#917-gupta-literature">Gupta Literature</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/ancient%20history/09_Gupta_Age/#93-samudraguptas-military-campaigns">Samudragupta&#x27;s Military Campaigns</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/ancient%20history/09_Gupta_Age/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="ancient-history-06-Foreign-Invasions-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="ancient-history-06-Foreign-Invasions-md" aria-label="Mark Topic 6 — Foreign Invasions done">
+    <span class="ct-title">Topic 6 — Foreign Invasions</span>
+    <span class="ct-pills">6 Qs · UPPCS 6 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/ancient%20history/06_Foreign_Invasions/#64-foreign-invasions">Foreign Invasions</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/ancient%20history/06_Foreign_Invasions/#66-indo-greek-kingdom">Indo-Greek Kingdom</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/ancient%20history/06_Foreign_Invasions/">Open chapter</a>
+  </div>
+</details>
 </div>
 
-### Medium Important
-
-<div class="ct-list ct-list--medium" markdown="1">
-
-- <span class="ct-row" data-ct-id="ancient-history-14-Ancient-India-Miscellaneous-md" data-group="medium" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="ancient-history-14-Ancient-India-Miscellaneous-md" aria-label="Mark Topic 14 — Ancient India Miscellaneous done"> [Topic 14 — Ancient India Miscellaneous](subjects/ancient history/14_Ancient_India_Miscellaneous.md) <span class="ct-pills">UP 18 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="ancient-history-11-Ancient-Indian-Administration-md" data-group="medium" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="ancient-history-11-Ancient-Indian-Administration-md" aria-label="Mark Topic 11 — Ancient Indian Administration done"> [Topic 11 — Ancient Indian Administration](subjects/ancient history/11_Ancient_Indian_Administration.md) <span class="ct-pills">UP 15 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="ancient-history-01-Stone-Age-md" data-group="medium" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="ancient-history-01-Stone-Age-md" aria-label="Mark Topic 1 — Stone Age (Prehistoric India) done"> [Topic 1 — Stone Age (Prehistoric India)](subjects/ancient history/01_Stone_Age.md) <span class="ct-pills">UP 10 · UK 2</span></span>
-- <span class="ct-row" data-ct-id="ancient-history-09-Gupta-Age-md" data-group="medium" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="ancient-history-09-Gupta-Age-md" aria-label="Mark Topic 9 — Gupta Age done"> [Topic 9 — Gupta Age](subjects/ancient history/09_Gupta_Age.md) <span class="ct-pills">UP 11 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="ancient-history-06-Foreign-Invasions-md" data-group="medium" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="ancient-history-06-Foreign-Invasions-md" aria-label="Mark Topic 6 — Foreign Invasions done"> [Topic 6 — Foreign Invasions](subjects/ancient history/06_Foreign_Invasions.md) <span class="ct-pills">UP 6 · UK 0</span></span>
-
+<h3 class="ct-group-title">Least Important</h3>
+<div class="ct-list ct-list--least">
+<details class="ct-row" data-ct-id="ancient-history-12-Ancient-Indian-Economy-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="ancient-history-12-Ancient-Indian-Economy-md" aria-label="Mark Topic 12 — Ancient Indian Economy done">
+    <span class="ct-title">Topic 12 — Ancient Indian Economy</span>
+    <span class="ct-pills">11 Qs · UPPCS 11 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/ancient%20history/12_Ancient_Indian_Economy/#121-economy">Economy</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/ancient%20history/12_Ancient_Indian_Economy/#123-gold-coins-in-india">Gold Coins in India</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/ancient%20history/12_Ancient_Indian_Economy/#126-ports">Ports</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/ancient%20history/12_Ancient_Indian_Economy/#124-trade">Trade</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/ancient%20history/12_Ancient_Indian_Economy/#125-trade-organisations-guilds-shreni">Trade Organisations / Guilds (Shreni)</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/ancient%20history/12_Ancient_Indian_Economy/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="ancient-history-05-Sixth-Century-BCE-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="ancient-history-05-Sixth-Century-BCE-md" aria-label="Mark Topic 5 — Sixth Century BCE done">
+    <span class="ct-title">Topic 5 — Sixth Century BCE</span>
+    <span class="ct-pills">10 Qs · UPPCS 10 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/ancient%20history/05_Sixth_Century_BCE/#54-capitals-of-mahajanapadas">Capitals of Mahajanapadas</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/ancient%20history/05_Sixth_Century_BCE/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="ancient-history-10-Post-Gupta-Period-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="ancient-history-10-Post-Gupta-Period-md" aria-label="Mark Topic 10 — Post-Gupta Period done">
+    <span class="ct-title">Topic 10 — Post-Gupta Period</span>
+    <span class="ct-pills">9 Qs · UPPCS 9 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/ancient%20history/10_Post_Gupta_Period/#107-hiuen-tsang">Hiuen Tsang</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/ancient%20history/10_Post_Gupta_Period/#101-post-gupta-age">Post-Gupta Age</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/ancient%20history/10_Post_Gupta_Period/">Open chapter</a>
+  </div>
+</details>
 </div>
 
-### Least Important
-
-<div class="ct-list ct-list--least" markdown="1">
-
-- <span class="ct-row" data-ct-id="ancient-history-12-Ancient-Indian-Economy-md" data-group="least" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="ancient-history-12-Ancient-Indian-Economy-md" aria-label="Mark Topic 12 — Ancient Indian Economy done"> [Topic 12 — Ancient Indian Economy](subjects/ancient history/12_Ancient_Indian_Economy.md) <span class="ct-pills">UP 11 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="ancient-history-05-Sixth-Century-BCE-md" data-group="least" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="ancient-history-05-Sixth-Century-BCE-md" aria-label="Mark Topic 5 — Sixth Century BCE done"> [Topic 5 — Sixth Century BCE](subjects/ancient history/05_Sixth_Century_BCE.md) <span class="ct-pills">UP 10 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="ancient-history-10-Post-Gupta-Period-md" data-group="least" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="ancient-history-10-Post-Gupta-Period-md" aria-label="Mark Topic 10 — Post-Gupta Period done"> [Topic 10 — Post-Gupta Period](subjects/ancient history/10_Post_Gupta_Period.md) <span class="ct-pills">UP 9 · UK 0</span></span>
-
+<h3 class="ct-group-title">Uttarakhand — Highly Important</h3>
+<div class="ct-list ct-list--high">
+<details class="ct-row" data-ct-id="ancient-history-uttarakhand-03-Kuninda-and-Yaudheya-md" data-group="high" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="ancient-history-uttarakhand-03-Kuninda-and-Yaudheya-md" aria-label="Mark Topic 3 — Kuninda &amp; Yaudheya done">
+    <span class="ct-title">Topic 3 — Kuninda &amp; Yaudheya</span>
+    <span class="ct-pills">2 Qs · UPPCS 0 · UKPCS 2</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/ancient%20history/uttarakhand/03_Kuninda_and_Yaudheya/#ukpcs-inline-practice-questions">UKPCS Inline &amp; Practice Questions</a> — 2 questions (UKPCS 2)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/ancient%20history/uttarakhand/03_Kuninda_and_Yaudheya/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="ancient-history-uttarakhand-04-Kartikepur-Dynasty-md" data-group="high" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="ancient-history-uttarakhand-04-Kartikepur-Dynasty-md" aria-label="Mark Topic 4 — Kartikepur Dynasty done">
+    <span class="ct-title">Topic 4 — Kartikepur Dynasty</span>
+    <span class="ct-pills">1 Qs · UPPCS 0 · UKPCS 1</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/ancient%20history/uttarakhand/04_Kartikepur_Dynasty/#ukpcs-inline-practice-questions">UKPCS Inline &amp; Practice Questions</a> — 1 question (UKPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/ancient%20history/uttarakhand/04_Kartikepur_Dynasty/">Open chapter</a>
+  </div>
+</details>
 </div>
 
-### Uttarakhand — Highly Important
-
-<div class="ct-list ct-list--high" markdown="1">
-
-- <span class="ct-row" data-ct-id="ancient-history-uttarakhand-03-Kuninda-and-Yaudheya-md" data-group="high" data-uk="1"><input type="checkbox" class="ct-check" data-ct-id="ancient-history-uttarakhand-03-Kuninda-and-Yaudheya-md" aria-label="Mark Topic 3 — Kuninda & Yaudheya done"> [Topic 3 — Kuninda & Yaudheya](subjects/ancient history/uttarakhand/03_Kuninda_and_Yaudheya.md) <span class="ct-pills">UP 0 · UK 2</span></span>
-- <span class="ct-row" data-ct-id="ancient-history-uttarakhand-04-Kartikepur-Dynasty-md" data-group="high" data-uk="1"><input type="checkbox" class="ct-check" data-ct-id="ancient-history-uttarakhand-04-Kartikepur-Dynasty-md" aria-label="Mark Topic 4 — Kartikepur Dynasty done"> [Topic 4 — Kartikepur Dynasty](subjects/ancient history/uttarakhand/04_Kartikepur_Dynasty.md) <span class="ct-pills">UP 0 · UK 1</span></span>
-
+<h3 class="ct-group-title">Uttarakhand — Least Important</h3>
+<div class="ct-list ct-list--least">
+<details class="ct-row" data-ct-id="ancient-history-uttarakhand-01-Prehistoric-and-Protohistoric-Uttarakhand-md" data-group="least" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="ancient-history-uttarakhand-01-Prehistoric-and-Protohistoric-Uttarakhand-md" aria-label="Mark Topic 1 — Prehistoric &amp; Protohistoric UK done">
+    <span class="ct-title">Topic 1 — Prehistoric &amp; Protohistoric UK</span>
+    <span class="ct-pills">0 Qs · UPPCS 0 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p>No tagged stems in the teaching or bank headings yet.</p>
+    <a class="md-button md-button--primary ct-open" href="../subjects/ancient%20history/uttarakhand/01_Prehistoric_and_Protohistoric_Uttarakhand/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="ancient-history-uttarakhand-02-Ancient-Tribes-of-Uttarakhand-md" data-group="least" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="ancient-history-uttarakhand-02-Ancient-Tribes-of-Uttarakhand-md" aria-label="Mark Topic 2 — Ancient Tribes done">
+    <span class="ct-title">Topic 2 — Ancient Tribes</span>
+    <span class="ct-pills">0 Qs · UPPCS 0 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p>No tagged stems in the teaching or bank headings yet.</p>
+    <a class="md-button md-button--primary ct-open" href="../subjects/ancient%20history/uttarakhand/02_Ancient_Tribes_of_Uttarakhand/">Open chapter</a>
+  </div>
+</details>
 </div>
 
+  </div>
+</details>
 
-### Uttarakhand — Least Important
-
-<div class="ct-list ct-list--least" markdown="1">
-
-- <span class="ct-row" data-ct-id="ancient-history-uttarakhand-01-Prehistoric-and-Protohistoric-Uttarakhand-md" data-group="least" data-uk="1"><input type="checkbox" class="ct-check" data-ct-id="ancient-history-uttarakhand-01-Prehistoric-and-Protohistoric-Uttarakhand-md" aria-label="Mark Topic 1 — Prehistoric & Protohistoric UK done"> [Topic 1 — Prehistoric & Protohistoric UK](subjects/ancient history/uttarakhand/01_Prehistoric_and_Protohistoric_Uttarakhand.md) <span class="ct-pills">UP 0 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="ancient-history-uttarakhand-02-Ancient-Tribes-of-Uttarakhand-md" data-group="least" data-uk="1"><input type="checkbox" class="ct-check" data-ct-id="ancient-history-uttarakhand-02-Ancient-Tribes-of-Uttarakhand-md" aria-label="Mark Topic 2 — Ancient Tribes done"> [Topic 2 — Ancient Tribes](subjects/ancient history/uttarakhand/02_Ancient_Tribes_of_Uttarakhand.md) <span class="ct-pills">UP 0 · UK 0</span></span>
-
+<details class="ct-subject" id="medieval-india" data-ct-subject="medieval-india" name="ct-subject">
+  <summary>
+    <span class="ct-subject-title">Medieval India</span>
+    <span class="ct-progress" data-ct-subject="medieval-india"></span>
+    <span class="ct-subject-count">14 chapters</span>
+  </summary>
+  <div class="ct-subject-body">
+<h3 class="ct-group-title">Highly Important</h3>
+<div class="ct-list ct-list--high">
+<details class="ct-row" data-ct-id="medieval-india-02-Turkish-Invasions-Delhi-Sultanate-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="medieval-india-02-Turkish-Invasions-Delhi-Sultanate-md" aria-label="Mark Topic 2 — Turkish Invasions &amp; Delhi Sultanate done">
+    <span class="ct-title">Topic 2 — Turkish Invasions &amp; Delhi Sultanate</span>
+    <span class="ct-pills">43 Qs · UPPCS 36 · UKPCS 7</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/medieval%20india/02_Turkish_Invasions_Delhi_Sultanate/#25-khalji-dynasty-alauddin-military-mubarak">Khalji Dynasty — Alauddin, Military &amp; Mubarak</a> — 9 questions (UPPCS 9)</li>
+      <li><a href="../subjects/medieval%20india/02_Turkish_Invasions_Delhi_Sultanate/#complete-pyq-bank-muslim-invasion-uppcs-first">Muslim Invasion</a> — 8 questions (UPPCS 7 · UKPCS 1)</li>
+      <li><a href="../subjects/medieval%20india/02_Turkish_Invasions_Delhi_Sultanate/#26-tughlaq-dynasty">Tughlaq Dynasty</a> — 8 questions (UPPCS 8)</li>
+      <li><a href="../subjects/medieval%20india/02_Turkish_Invasions_Delhi_Sultanate/#complete-pyq-bank-slave-dynasty-uppcs-first">Slave Dynasty</a> — 5 questions (UPPCS 4 · UKPCS 1)</li>
+      <li><a href="../subjects/medieval%20india/02_Turkish_Invasions_Delhi_Sultanate/#complete-pyq-bank-delhi-sultanate-uppcs-20182025">Delhi Sultanate</a> — 3 questions (UPPCS 1 · UKPCS 2)</li>
+      <li><a href="../subjects/medieval%20india/02_Turkish_Invasions_Delhi_Sultanate/#21-turkish-invasions-of-india">Turkish Invasions of India</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/medieval%20india/02_Turkish_Invasions_Delhi_Sultanate/#29-delhi-sultanate-administration">Delhi Sultanate Administration</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/medieval%20india/02_Turkish_Invasions_Delhi_Sultanate/#212-delhi-sultanate-architecture">Delhi Sultanate Architecture</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/medieval%20india/02_Turkish_Invasions_Delhi_Sultanate/#210-delhi-sultanate-revenue-system">Delhi Sultanate Revenue System</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/medieval%20india/02_Turkish_Invasions_Delhi_Sultanate/#22-muhammad-ghori">Muhammad Ghori</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/medieval%20india/02_Turkish_Invasions_Delhi_Sultanate/#24-slave-mamluk-dynasty-rulers">Slave (Mamluk) Dynasty &amp; Rulers</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/medieval%20india/02_Turkish_Invasions_Delhi_Sultanate/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="medieval-india-07-Mughal-Empire-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="medieval-india-07-Mughal-Empire-md" aria-label="Mark Topic 7 — Mughal Empire done">
+    <span class="ct-title">Topic 7 — Mughal Empire</span>
+    <span class="ct-pills">25 Qs · UPPCS 21 · UKPCS 4</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/medieval%20india/07_Mughal_Empire/#ghatnachakra-extra-drill-babur-to-aurangzeb-uppcs-first">Babur to Aurangzeb</a> — 7 questions (UPPCS 6 · UKPCS 1)</li>
+      <li><a href="../subjects/medieval%20india/07_Mughal_Empire/#ukpcs-mughal-stems">Mughal</a> — 3 questions (UKPCS 3)</li>
+      <li><a href="../subjects/medieval%20india/07_Mughal_Empire/#74-administration-mansabdari">Administration &amp; Mansabdari</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/medieval%20india/07_Mughal_Empire/#77-architecture-painting-education">Architecture, Painting, Education</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/medieval%20india/07_Mughal_Empire/#71-babur-foundation-literature">Babur — Foundation &amp; Literature</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/medieval%20india/07_Mughal_Empire/#76-currency">Currency</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/medieval%20india/07_Mughal_Empire/#72-major-battles-master-chronology">Major Battles — Master Chronology</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/medieval%20india/07_Mughal_Empire/#713-tombs-and-royal-families">Tombs and royal families</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/medieval%20india/07_Mughal_Empire/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="medieval-india-04-Bhakti-Sufi-Movements-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="medieval-india-04-Bhakti-Sufi-Movements-md" aria-label="Mark Topic 4 — Bhakti &amp; Sufi Movements done">
+    <span class="ct-title">Topic 4 — Bhakti &amp; Sufi Movements</span>
+    <span class="ct-pills">19 Qs · UPPCS 16 · UKPCS 3</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/medieval%20india/04_Bhakti_Sufi_Movements/#ghatnachakra-extra-drill-bhakti-sufi-uppcs-first">Bhakti &amp; Sufi</a> — 11 questions (UPPCS 8 · UKPCS 3)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/medieval%20india/04_Bhakti_Sufi_Movements/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="medieval-india-03-Regional-Kingdoms-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="medieval-india-03-Regional-Kingdoms-md" aria-label="Mark Topic 3 — Regional Kingdoms (Sharqi, Kashmir, Vijayanagara, Bahmani &amp; Deccan) done">
+    <span class="ct-title">Topic 3 — Regional Kingdoms (Sharqi, Kashmir, Vijayanagara, Bahmani &amp; Deccan)</span>
+    <span class="ct-pills">18 Qs · UPPCS 15 · UKPCS 3</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/medieval%20india/03_Regional_Kingdoms/#ghatnachakra-extra-drill-provincial-dynasties-uppcs-first-then-others">Provincial Dynasties (UPPCS first, then others)</a> — 10 questions (UPPCS 9 · UKPCS 1)</li>
+      <li><a href="../subjects/medieval%20india/03_Regional_Kingdoms/#35-deccan-sultanates">Deccan Sultanates</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/medieval%20india/03_Regional_Kingdoms/#31-sharqi-sultanate-jaunpur">Sharqi Sultanate (Jaunpur)</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/medieval%20india/03_Regional_Kingdoms/#34-bahmani-kingdom">Bahmani Kingdom</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/medieval%20india/03_Regional_Kingdoms/#32-kashmir-under-zain-ul-abidin">Kashmir under Zain-ul-Abidin</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/medieval%20india/03_Regional_Kingdoms/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="medieval-india-05-Medieval-Literature-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="medieval-india-05-Medieval-Literature-md" aria-label="Mark Topic 5 — Medieval Literature done">
+    <span class="ct-title">Topic 5 — Medieval Literature</span>
+    <span class="ct-pills">9 Qs · UPPCS 7 · UKPCS 2</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/medieval%20india/05_Medieval_Literature/#55-amir-khusrau-12531325">Amir Khusrau (1253–1325)</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/medieval%20india/05_Medieval_Literature/#59-akbarnama-ain-i-akbari-abul-fazl">Akbarnama &amp; Ain-i-Akbari (Abul Fazl)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/medieval%20india/05_Medieval_Literature/#53-delhi-sultanate-literature">Delhi Sultanate Literature</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/medieval%20india/05_Medieval_Literature/#51-medieval-literature-overview">Medieval Literature — Overview</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/medieval%20india/05_Medieval_Literature/#512-regional-persian-chronicles">Regional Persian Chronicles</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/medieval%20india/05_Medieval_Literature/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="medieval-india-08-Sher-Shah-Suri-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="medieval-india-08-Sher-Shah-Suri-md" aria-label="Mark Topic 8 — Sher Shah Suri done">
+    <span class="ct-title">Topic 8 — Sher Shah Suri</span>
+    <span class="ct-pills">7 Qs · UPPCS 7 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/medieval%20india/08_Sher_Shah_Suri/#82-administration">Administration</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/medieval%20india/08_Sher_Shah_Suri/#85-currency-reforms">Currency Reforms</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/medieval%20india/08_Sher_Shah_Suri/#81-life-rise-reign">Life, Rise, Reign</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/medieval%20india/08_Sher_Shah_Suri/#ghatnachakra-extra-drill-sher-shah-uppcs-first">Sher Shah</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/medieval%20india/08_Sher_Shah_Suri/">Open chapter</a>
+  </div>
+</details>
 </div>
 
-
-## Medieval India { #medieval-india }
-
-<p class="ct-subhead"><span class="ct-progress" data-ct-subject="medieval-india"></span> 14 chapters</p>
-
-### Highly Important
-
-<div class="ct-list ct-list--high" markdown="1">
-
-- <span class="ct-row" data-ct-id="medieval-india-02-Turkish-Invasions-Delhi-Sultanate-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="medieval-india-02-Turkish-Invasions-Delhi-Sultanate-md" aria-label="Mark Topic 2 — Turkish Invasions & Delhi Sultanate done"> [Topic 2 — Turkish Invasions & Delhi Sultanate](subjects/medieval india/02_Turkish_Invasions_Delhi_Sultanate.md) <span class="ct-pills">UP 36 · UK 7</span></span>
-- <span class="ct-row" data-ct-id="medieval-india-07-Mughal-Empire-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="medieval-india-07-Mughal-Empire-md" aria-label="Mark Topic 7 — Mughal Empire done"> [Topic 7 — Mughal Empire](subjects/medieval india/07_Mughal_Empire.md) <span class="ct-pills">UP 21 · UK 4</span></span>
-- <span class="ct-row" data-ct-id="medieval-india-04-Bhakti-Sufi-Movements-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="medieval-india-04-Bhakti-Sufi-Movements-md" aria-label="Mark Topic 4 — Bhakti & Sufi Movements done"> [Topic 4 — Bhakti & Sufi Movements](subjects/medieval india/04_Bhakti_Sufi_Movements.md) <span class="ct-pills">UP 16 · UK 3</span></span>
-- <span class="ct-row" data-ct-id="medieval-india-03-Regional-Kingdoms-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="medieval-india-03-Regional-Kingdoms-md" aria-label="Mark Topic 3 — Regional Kingdoms (Sharqi, Kashmir, Vijayanagara, Bahmani & Deccan) done"> [Topic 3 — Regional Kingdoms (Sharqi, Kashmir, Vijayanagara, Bahmani & Deccan)](subjects/medieval india/03_Regional_Kingdoms.md) <span class="ct-pills">UP 15 · UK 3</span></span>
-- <span class="ct-row" data-ct-id="medieval-india-05-Medieval-Literature-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="medieval-india-05-Medieval-Literature-md" aria-label="Mark Topic 5 — Medieval Literature done"> [Topic 5 — Medieval Literature](subjects/medieval india/05_Medieval_Literature.md) <span class="ct-pills">UP 7 · UK 2</span></span>
-- <span class="ct-row" data-ct-id="medieval-india-08-Sher-Shah-Suri-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="medieval-india-08-Sher-Shah-Suri-md" aria-label="Mark Topic 8 — Sher Shah Suri done"> [Topic 8 — Sher Shah Suri](subjects/medieval india/08_Sher_Shah_Suri.md) <span class="ct-pills">UP 7 · UK 0</span></span>
-
+<h3 class="ct-group-title">Medium Important</h3>
+<div class="ct-list ct-list--medium">
+<details class="ct-row" data-ct-id="medieval-india-11-Marathas-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="medieval-india-11-Marathas-md" aria-label="Mark Topic 11 — Marathas done">
+    <span class="ct-title">Topic 11 — Marathas</span>
+    <span class="ct-pills">11 Qs · UPPCS 11 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/medieval%20india/11_Marathas/#ghatnachakra-extra-drill-maratha-state-confederacy">Maratha State &amp; Confederacy</a> — 6 questions (UPPCS 6)</li>
+      <li><a href="../subjects/medieval%20india/11_Marathas/#112-shivaji">Shivaji</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/medieval%20india/11_Marathas/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="medieval-india-12-Later-Medieval-India-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="medieval-india-12-Later-Medieval-India-md" aria-label="Mark Topic 12 — Later Medieval India done">
+    <span class="ct-title">Topic 12 — Later Medieval India</span>
+    <span class="ct-pills">11 Qs · UPPCS 11 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/medieval%20india/12_Later_Medieval_India/#ghatnachakra-extra-drill-advent-of-european-companies">Advent of European Companies</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/medieval%20india/12_Later_Medieval_India/#ghatnachakra-extra-drill-disintegration-of-the-mughal-empire">Disintegration of the Mughal Empire</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/medieval%20india/12_Later_Medieval_India/#127-foreign-travellers">Foreign travellers</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/medieval%20india/12_Later_Medieval_India/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="medieval-india-09-Rajputs-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="medieval-india-09-Rajputs-md" aria-label="Mark Topic 9 — Rajputs done">
+    <span class="ct-title">Topic 9 — Rajputs</span>
+    <span class="ct-pills">5 Qs · UPPCS 5 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/medieval%20india/09_Rajputs/#96-chittor-two-sieges">Chittor — Two Sieges</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/medieval%20india/09_Rajputs/#92-rajput-states-ruler-match">Rajput States — Ruler Match</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/medieval%20india/09_Rajputs/">Open chapter</a>
+  </div>
+</details>
 </div>
 
-### Medium Important
-
-<div class="ct-list ct-list--medium" markdown="1">
-
-- <span class="ct-row" data-ct-id="medieval-india-11-Marathas-md" data-group="medium" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="medieval-india-11-Marathas-md" aria-label="Mark Topic 11 — Marathas done"> [Topic 11 — Marathas](subjects/medieval india/11_Marathas.md) <span class="ct-pills">UP 11 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="medieval-india-12-Later-Medieval-India-md" data-group="medium" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="medieval-india-12-Later-Medieval-India-md" aria-label="Mark Topic 12 — Later Medieval India done"> [Topic 12 — Later Medieval India](subjects/medieval india/12_Later_Medieval_India.md) <span class="ct-pills">UP 11 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="medieval-india-09-Rajputs-md" data-group="medium" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="medieval-india-09-Rajputs-md" aria-label="Mark Topic 9 — Rajputs done"> [Topic 9 — Rajputs](subjects/medieval india/09_Rajputs.md) <span class="ct-pills">UP 5 · UK 0</span></span>
-
+<h3 class="ct-group-title">Least Important</h3>
+<div class="ct-list ct-list--least">
+<details class="ct-row" data-ct-id="medieval-india-01-Early-Medieval-India-Regional-Kingdoms-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="medieval-india-01-Early-Medieval-India-Regional-Kingdoms-md" aria-label="Mark Topic 1 — Early Medieval India (Regional Kingdoms) done">
+    <span class="ct-title">Topic 1 — Early Medieval India (Regional Kingdoms)</span>
+    <span class="ct-pills">8 Qs · UPPCS 6 · UKPCS 2</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/medieval%20india/01_Early_Medieval_India_Regional_Kingdoms/#12-major-dynasties-rulers-of-south-india">Major Dynasties &amp; Rulers of South India</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/medieval%20india/01_Early_Medieval_India_Regional_Kingdoms/#16-chola-empire">Chola Empire</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/medieval%20india/01_Early_Medieval_India_Regional_Kingdoms/#13-pallava-dynasty">Pallava Dynasty</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/medieval%20india/01_Early_Medieval_India_Regional_Kingdoms/#113-sena-dynasty">Sena Dynasty</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/medieval%20india/01_Early_Medieval_India_Regional_Kingdoms/#120-yadava-dynasty">Yadava Dynasty</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/medieval%20india/01_Early_Medieval_India_Regional_Kingdoms/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="medieval-india-10-Sikhism-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="medieval-india-10-Sikhism-md" aria-label="Mark Topic 10 — Sikhism done">
+    <span class="ct-title">Topic 10 — Sikhism</span>
+    <span class="ct-pills">6 Qs · UPPCS 4 · UKPCS 2</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/medieval%20india/10_Sikhism/#ghatnachakra-extra-drill-sikh-sect">Sikh Sect</a> — 3 questions (UPPCS 1 · UKPCS 2)</li>
+      <li><a href="../subjects/medieval%20india/10_Sikhism/#101-sikhism-identity">Sikhism — Identity</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/medieval%20india/10_Sikhism/">Open chapter</a>
+  </div>
+</details>
 </div>
 
-### Least Important
-
-<div class="ct-list ct-list--least" markdown="1">
-
-- <span class="ct-row" data-ct-id="medieval-india-01-Early-Medieval-India-Regional-Kingdoms-md" data-group="least" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="medieval-india-01-Early-Medieval-India-Regional-Kingdoms-md" aria-label="Mark Topic 1 — Early Medieval India (Regional Kingdoms) done"> [Topic 1 — Early Medieval India (Regional Kingdoms)](subjects/medieval india/01_Early_Medieval_India_Regional_Kingdoms.md) <span class="ct-pills">UP 6 · UK 2</span></span>
-- <span class="ct-row" data-ct-id="medieval-india-10-Sikhism-md" data-group="least" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="medieval-india-10-Sikhism-md" aria-label="Mark Topic 10 — Sikhism done"> [Topic 10 — Sikhism](subjects/medieval india/10_Sikhism.md) <span class="ct-pills">UP 4 · UK 2</span></span>
-
+<h3 class="ct-group-title">Uttarakhand — Highly Important</h3>
+<div class="ct-list ct-list--high">
+<details class="ct-row" data-ct-id="medieval-india-uttarakhand-02-Parmar-Dynasty-of-Garhwal-md" data-group="high" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="medieval-india-uttarakhand-02-Parmar-Dynasty-of-Garhwal-md" aria-label="Mark Topic 2 — Parmar Dynasty of Garhwal done">
+    <span class="ct-title">Topic 2 — Parmar Dynasty of Garhwal</span>
+    <span class="ct-pills">2 Qs · UPPCS 0 · UKPCS 2</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/medieval%20india/uttarakhand/02_Parmar_Dynasty_of_Garhwal/#ukpcs-inline-practice-questions">UKPCS Inline &amp; Practice Questions</a> — 2 questions (UKPCS 2)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/medieval%20india/uttarakhand/02_Parmar_Dynasty_of_Garhwal/">Open chapter</a>
+  </div>
+</details>
 </div>
 
-### Uttarakhand — Highly Important
-
-<div class="ct-list ct-list--high" markdown="1">
-
-- <span class="ct-row" data-ct-id="medieval-india-uttarakhand-02-Parmar-Dynasty-of-Garhwal-md" data-group="high" data-uk="1"><input type="checkbox" class="ct-check" data-ct-id="medieval-india-uttarakhand-02-Parmar-Dynasty-of-Garhwal-md" aria-label="Mark Topic 2 — Parmar Dynasty of Garhwal done"> [Topic 2 — Parmar Dynasty of Garhwal](subjects/medieval india/uttarakhand/02_Parmar_Dynasty_of_Garhwal.md) <span class="ct-pills">UP 0 · UK 2</span></span>
-
+<h3 class="ct-group-title">Uttarakhand — Medium Important</h3>
+<div class="ct-list ct-list--medium">
+<details class="ct-row" data-ct-id="medieval-india-uttarakhand-03-Chand-Dynasty-of-Kumaon-md" data-group="medium" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="medieval-india-uttarakhand-03-Chand-Dynasty-of-Kumaon-md" aria-label="Mark Topic 3 — Chand Dynasty of Kumaon done">
+    <span class="ct-title">Topic 3 — Chand Dynasty of Kumaon</span>
+    <span class="ct-pills">1 Qs · UPPCS 0 · UKPCS 1</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/medieval%20india/uttarakhand/03_Chand_Dynasty_of_Kumaon/#ukpcs-inline-practice-questions">UKPCS Inline &amp; Practice Questions</a> — 1 question (UKPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/medieval%20india/uttarakhand/03_Chand_Dynasty_of_Kumaon/">Open chapter</a>
+  </div>
+</details>
 </div>
 
-### Uttarakhand — Medium Important
-
-<div class="ct-list ct-list--medium" markdown="1">
-
-- <span class="ct-row" data-ct-id="medieval-india-uttarakhand-03-Chand-Dynasty-of-Kumaon-md" data-group="medium" data-uk="1"><input type="checkbox" class="ct-check" data-ct-id="medieval-india-uttarakhand-03-Chand-Dynasty-of-Kumaon-md" aria-label="Mark Topic 3 — Chand Dynasty of Kumaon done"> [Topic 3 — Chand Dynasty of Kumaon](subjects/medieval india/uttarakhand/03_Chand_Dynasty_of_Kumaon.md) <span class="ct-pills">UP 0 · UK 1</span></span>
-
+<h3 class="ct-group-title">Uttarakhand — Least Important</h3>
+<div class="ct-list ct-list--least">
+<details class="ct-row" data-ct-id="medieval-india-uttarakhand-01-Kattyuri-Dynasty-md" data-group="least" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="medieval-india-uttarakhand-01-Kattyuri-Dynasty-md" aria-label="Mark Topic 1 — Kattyuri Dynasty done">
+    <span class="ct-title">Topic 1 — Kattyuri Dynasty</span>
+    <span class="ct-pills">0 Qs · UPPCS 0 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p>No tagged stems in the teaching or bank headings yet.</p>
+    <a class="md-button md-button--primary ct-open" href="../subjects/medieval%20india/uttarakhand/01_Kattyuri_Dynasty/">Open chapter</a>
+  </div>
+</details>
 </div>
 
-### Uttarakhand — Least Important
+  </div>
+</details>
 
-<div class="ct-list ct-list--least" markdown="1">
-
-- <span class="ct-row" data-ct-id="medieval-india-uttarakhand-01-Kattyuri-Dynasty-md" data-group="least" data-uk="1"><input type="checkbox" class="ct-check" data-ct-id="medieval-india-uttarakhand-01-Kattyuri-Dynasty-md" aria-label="Mark Topic 1 — Kattyuri Dynasty done"> [Topic 1 — Kattyuri Dynasty](subjects/medieval india/uttarakhand/01_Kattyuri_Dynasty.md) <span class="ct-pills">UP 0 · UK 0</span></span>
-
+<details class="ct-subject" id="modern-india" data-ct-subject="modern-india" name="ct-subject">
+  <summary>
+    <span class="ct-subject-title">Modern India</span>
+    <span class="ct-progress" data-ct-subject="modern-india"></span>
+    <span class="ct-subject-count">22 chapters</span>
+  </summary>
+  <div class="ct-subject-body">
+<h3 class="ct-group-title">Highly Important</h3>
+<div class="ct-list ct-list--high">
+<details class="ct-row" data-ct-id="mordern-india-02-East-India-Company-Expansion-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-02-East-India-Company-Expansion-md" aria-label="Mark Topic 2 — East India Company Expansion done">
+    <span class="ct-title">Topic 2 — East India Company Expansion</span>
+    <span class="ct-pills">25 Qs · UPPCS 24 · UKPCS 1</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/mordern%20india/02_East_India_Company_Expansion/#211-anglo-maratha-wars">Anglo-Maratha Wars</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/mordern%20india/02_East_India_Company_Expansion/#ghatnachakra-extra-drill-regional-states-punjab-mysore">Regional States: Punjab &amp; Mysore</a> — 4 questions (UPPCS 3 · UKPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/02_East_India_Company_Expansion/#213-anglo-nepal-war-and-treaty-of-sugauli-1816">Anglo-Nepal War and Treaty of Sugauli, 1816</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/02_East_India_Company_Expansion/#29-doctrine-of-lapse-and-awadh-1856">Doctrine of Lapse and Awadh 1856</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/02_East_India_Company_Expansion/#210-anglo-mysore-wars-and-mysore-state">Anglo-Mysore Wars and Mysore State</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/02_East_India_Company_Expansion/#ghatnachakra-extra-drill-eic-nawabs-of-bengal">EIC &amp; Nawabs of Bengal</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/02_East_India_Company_Expansion/#212-sikh-empire-anglo-sikh-wars-treaty-of-lahore-punjab-annexation">Sikh Empire, Anglo-Sikh Wars, Treaty of Lahore, Punjab Annexation</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/02_East_India_Company_Expansion/#26-warren-hastings-expansion-only">Warren Hastings (expansion only)</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/02_East_India_Company_Expansion/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="mordern-india-03-Governors-General-and-Viceroys-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-03-Governors-General-and-Viceroys-md" aria-label="Mark Topic 3 — Governors-General &amp; Viceroys done">
+    <span class="ct-title">Topic 3 — Governors-General &amp; Viceroys</span>
+    <span class="ct-pills">24 Qs · UPPCS 24 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/mordern%20india/03_Governors_General_and_Viceroys/#339-lord-chelmsford-19161921">Lord Chelmsford (1916–1921)</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/mordern%20india/03_Governors_General_and_Viceroys/#321-lord-dalhousie-18481856">Lord Dalhousie (1848–1856)</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/03_Governors_General_and_Viceroys/#34-warren-hastings-17721785">Warren Hastings (1772–1785)</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/03_Governors_General_and_Viceroys/#324-government-of-india-act-1858">Government of India Act, 1858</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/03_Governors_General_and_Viceroys/#335-lord-curzon-18991905">Lord Curzon (1899–1905)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/03_Governors_General_and_Viceroys/#332-lord-dufferin-18841888">Lord Dufferin (1884–1888)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/03_Governors_General_and_Viceroys/#338-lord-hardinge-ii-19101916">Lord Hardinge II (1910–1916)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/03_Governors_General_and_Viceroys/#333-lord-lansdowne-18881894">Lord Lansdowne (1888–1894)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/03_Governors_General_and_Viceroys/#345-lord-linlithgow-19361943">Lord Linlithgow (1936–1943)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/03_Governors_General_and_Viceroys/#330-lord-lytton-18761880">Lord Lytton (1876–1880)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/03_Governors_General_and_Viceroys/#316-lord-macaulay">Lord Macaulay</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/03_Governors_General_and_Viceroys/#346-lord-wavell-19431947">Lord Wavell (1943–1947)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/03_Governors_General_and_Viceroys/#39-lord-wellesley-वलजल-17981805">Lord Wellesley (वेलेज़ली) (1798–1805)</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/03_Governors_General_and_Viceroys/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="mordern-india-15-Post-Independence-India-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-15-Post-Independence-India-md" aria-label="Mark Topic 15 — Post-Independence India done">
+    <span class="ct-title">Topic 15 — Post-Independence India</span>
+    <span class="ct-pills">20 Qs · UPPCS 19 · UKPCS 1</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/mordern%20india/15_Post_Independence_India/#153-constitution-making">Constitution Making</a> — 5 questions (UPPCS 5)</li>
+      <li><a href="../subjects/mordern%20india/15_Post_Independence_India/#157-planning-commission">Planning Commission</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/mordern%20india/15_Post_Independence_India/#156-states-reorganisation">States Reorganisation</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/15_Post_Independence_India/#155-community-development-programme-2-october-1952">Community Development Programme (2 October 1952)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/15_Post_Independence_India/#ghatnachakra-extra-drill-constituent-assembly">Constituent Assembly</a> — 1 question (UKPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/15_Post_Independence_India/#158-five-year-plans">Five-Year Plans</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/15_Post_Independence_India/#152-integration-of-princely-states">Integration of Princely States</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/15_Post_Independence_India/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="mordern-india-13-Gandhian-Era-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-13-Gandhian-Era-md" aria-label="Mark Topic 13 — Gandhian Era (1915–1948) done">
+    <span class="ct-title">Topic 13 — Gandhian Era (1915–1948)</span>
+    <span class="ct-pills">18 Qs · UPPCS 16 · UKPCS 2</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#ghatnachakra-extra-drill-gandhiirwin-karachi-rtc-poona-pact">Gandhi–Irwin, Karachi, RTC, Poona Pact</a> — 2 questions (UKPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#136-jallianwala-bagh-13-april-1919">Jallianwala Bagh (13 April 1919)</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#1314-civil-disobedience-movement-and-dandi-march">Civil Disobedience Movement and Dandi March</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#1317-communal-award-and-poona-pact">Communal Award and Poona Pact</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#1318-gandhis-constructive-programme">Gandhi&#x27;s Constructive Programme</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#131-indian-national-movement-chronology-gandhian-phase">Indian National Movement Chronology (Gandhian phase)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#1311-nehru-report-1928">Nehru Report (1928)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/13_Gandhian_Era/#1315-round-table-conferences">Round Table Conferences</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/13_Gandhian_Era/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="mordern-india-08-Peasant-Tribal-Labour-Movements-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-08-Peasant-Tribal-Labour-Movements-md" aria-label="Mark Topic 8 — Peasant, Tribal &amp; Labour Movements done">
+    <span class="ct-title">Topic 8 — Peasant, Tribal &amp; Labour Movements</span>
+    <span class="ct-pills">17 Qs · UPPCS 17 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/mordern%20india/08_Peasant_Tribal_Labour_Movements/#814-labour-movement-trade-union-congress-and-labour-organisations">Labour Movement, Trade Union Congress and Labour Organisations</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/mordern%20india/08_Peasant_Tribal_Labour_Movements/#89-tribal-revolts-and-tribal-leaders">Tribal Revolts and Tribal Leaders</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/08_Peasant_Tribal_Labour_Movements/#81-early-uprisings-chronology">Early Uprisings Chronology</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/08_Peasant_Tribal_Labour_Movements/#810-moplah-rebellion-1921">Moplah Rebellion (1921)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/08_Peasant_Tribal_Labour_Movements/#ghatnachakra-extra-drill-other-civil-uprisings">Other Civil Uprisings</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/08_Peasant_Tribal_Labour_Movements/#83-peasant-leaders">Peasant Leaders</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/08_Peasant_Tribal_Labour_Movements/#86-santhal-rebellion-185556">Santhal Rebellion (1855–56)</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/08_Peasant_Tribal_Labour_Movements/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="mordern-india-14-Final-Phase-of-Freedom-Struggle-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-14-Final-Phase-of-Freedom-Struggle-md" aria-label="Mark Topic 14 — Final Phase of Freedom Struggle done">
+    <span class="ct-title">Topic 14 — Final Phase of Freedom Struggle</span>
+    <span class="ct-pills">15 Qs · UPPCS 13 · UKPCS 2</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/mordern%20india/14_Final_Phase_of_Freedom_Struggle/#ghatnachakra-extra-drill-cabinet-mission-interim-government-partition">Cabinet Mission, Interim Government, Partition</a> — 2 questions (UKPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/14_Final_Phase_of_Freedom_Struggle/#149-azad-hind-fauj-and-azad-hind-government">Azad Hind Fauj and Azad Hind Government</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/14_Final_Phase_of_Freedom_Struggle/#1413-cabinet-mission-1946">Cabinet Mission (1946)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/14_Final_Phase_of_Freedom_Struggle/#1416-final-phase-194547">Final Phase (1945–47)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/14_Final_Phase_of_Freedom_Struggle/#1410-ina-trials">INA Trials</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/14_Final_Phase_of_Freedom_Struggle/#141-independence-chronology">Independence Chronology</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/14_Final_Phase_of_Freedom_Struggle/#1411-political-deadlock-formulas">Political Deadlock (formulas)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/14_Final_Phase_of_Freedom_Struggle/#148-quit-india-movement-8-august-1942">Quit India Movement (8 August 1942)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/14_Final_Phase_of_Freedom_Struggle/#146-second-world-war-and-india">Second World War and India</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/14_Final_Phase_of_Freedom_Struggle/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="mordern-india-11-Swadeshi-and-Revolutionary-Movement-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-11-Swadeshi-and-Revolutionary-Movement-md" aria-label="Mark Topic 11 — Swadeshi &amp; Revolutionary Movement done">
+    <span class="ct-title">Topic 11 — Swadeshi &amp; Revolutionary Movement</span>
+    <span class="ct-pills">14 Qs · UPPCS 14 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/mordern%20india/11_Swadeshi_and_Revolutionary_Movement/#118-abhinav-bharat-and-india-house">Abhinav Bharat and India House</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/11_Swadeshi_and_Revolutionary_Movement/#116-anushilan-samiti">Anushilan Samiti</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/11_Swadeshi_and_Revolutionary_Movement/#114-delhi-durbar-1877-and-1911">Delhi Durbar — 1877 and 1911</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/11_Swadeshi_and_Revolutionary_Movement/#1110-ghadar-party">Ghadar Party</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/11_Swadeshi_and_Revolutionary_Movement/#1113-hindustan-socialist-republican-association-hsra">Hindustan Socialist Republican Association (HSRA)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/11_Swadeshi_and_Revolutionary_Movement/#1116-other-revolutionary-events">Other Revolutionary Events</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/11_Swadeshi_and_Revolutionary_Movement/#112-partition-of-bengal-1905">Partition of Bengal (1905)</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/11_Swadeshi_and_Revolutionary_Movement/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="mordern-india-09-Rise-of-Nationalism-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-09-Rise-of-Nationalism-md" aria-label="Mark Topic 9 — Rise of Nationalism done">
+    <span class="ct-title">Topic 9 — Rise of Nationalism</span>
+    <span class="ct-pills">13 Qs · UPPCS 13 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/mordern%20india/09_Rise_of_Nationalism/#94-congress-presidents-and-sessions">Congress Presidents and Sessions</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/09_Rise_of_Nationalism/#99-dadabhai-naoroji">Dadabhai Naoroji</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/09_Rise_of_Nationalism/#910-freedom-leaders-of-the-early-nationalist-phase">Freedom Leaders of the Early Nationalist Phase</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/09_Rise_of_Nationalism/#96-moderates-naram-dal">Moderates (Naram Dal)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/09_Rise_of_Nationalism/#92-political-organisations-before-inc">Political Organisations before INC</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/09_Rise_of_Nationalism/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="mordern-india-05-Revolt-of-1857-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-05-Revolt-of-1857-md" aria-label="Mark Topic 5 — Revolt of 1857 done">
+    <span class="ct-title">Topic 5 — Revolt of 1857</span>
+    <span class="ct-pills">11 Qs · UPPCS 9 · UKPCS 2</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/mordern%20india/05_Revolt_of_1857/#ghatnachakra-extra-drill-revolt-of-1857">Revolt of 1857</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/mordern%20india/05_Revolt_of_1857/#54-centres-of-revolt">Centres of Revolt</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/05_Revolt_of_1857/#511-kunwar-singh">Kunwar Singh</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/05_Revolt_of_1857/#55-leaders-of-revolt">Leaders of Revolt</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/05_Revolt_of_1857/#514-role-of-awadh">Role of Awadh</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/05_Revolt_of_1857/#ukpcs-complete-pyq-bank-extra-harvest">UKPCS Complete PYQ Bank (Extra harvest)</a> — 1 question (UKPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/05_Revolt_of_1857/">Open chapter</a>
+  </div>
+</details>
 </div>
 
-
-## Modern India { #modern-india }
-
-<p class="ct-subhead"><span class="ct-progress" data-ct-subject="modern-india"></span> 22 chapters</p>
-
-### Highly Important
-
-<div class="ct-list ct-list--high" markdown="1">
-
-- <span class="ct-row" data-ct-id="mordern-india-02-East-India-Company-Expansion-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="mordern-india-02-East-India-Company-Expansion-md" aria-label="Mark Topic 2 — East India Company Expansion done"> [Topic 2 — East India Company Expansion](subjects/mordern india/02_East_India_Company_Expansion.md) <span class="ct-pills">UP 24 · UK 1</span></span>
-- <span class="ct-row" data-ct-id="mordern-india-03-Governors-General-and-Viceroys-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="mordern-india-03-Governors-General-and-Viceroys-md" aria-label="Mark Topic 3 — Governors-General & Viceroys done"> [Topic 3 — Governors-General & Viceroys](subjects/mordern india/03_Governors_General_and_Viceroys.md) <span class="ct-pills">UP 24 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="mordern-india-15-Post-Independence-India-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="mordern-india-15-Post-Independence-India-md" aria-label="Mark Topic 15 — Post-Independence India done"> [Topic 15 — Post-Independence India](subjects/mordern india/15_Post_Independence_India.md) <span class="ct-pills">UP 19 · UK 1</span></span>
-- <span class="ct-row" data-ct-id="mordern-india-13-Gandhian-Era-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="mordern-india-13-Gandhian-Era-md" aria-label="Mark Topic 13 — Gandhian Era (1915–1948) done"> [Topic 13 — Gandhian Era (1915–1948)](subjects/mordern india/13_Gandhian_Era.md) <span class="ct-pills">UP 16 · UK 2</span></span>
-- <span class="ct-row" data-ct-id="mordern-india-08-Peasant-Tribal-Labour-Movements-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="mordern-india-08-Peasant-Tribal-Labour-Movements-md" aria-label="Mark Topic 8 — Peasant, Tribal & Labour Movements done"> [Topic 8 — Peasant, Tribal & Labour Movements](subjects/mordern india/08_Peasant_Tribal_Labour_Movements.md) <span class="ct-pills">UP 17 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="mordern-india-14-Final-Phase-of-Freedom-Struggle-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="mordern-india-14-Final-Phase-of-Freedom-Struggle-md" aria-label="Mark Topic 14 — Final Phase of Freedom Struggle done"> [Topic 14 — Final Phase of Freedom Struggle](subjects/mordern india/14_Final_Phase_of_Freedom_Struggle.md) <span class="ct-pills">UP 13 · UK 2</span></span>
-- <span class="ct-row" data-ct-id="mordern-india-11-Swadeshi-and-Revolutionary-Movement-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="mordern-india-11-Swadeshi-and-Revolutionary-Movement-md" aria-label="Mark Topic 11 — Swadeshi & Revolutionary Movement done"> [Topic 11 — Swadeshi & Revolutionary Movement](subjects/mordern india/11_Swadeshi_and_Revolutionary_Movement.md) <span class="ct-pills">UP 14 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="mordern-india-09-Rise-of-Nationalism-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="mordern-india-09-Rise-of-Nationalism-md" aria-label="Mark Topic 9 — Rise of Nationalism done"> [Topic 9 — Rise of Nationalism](subjects/mordern india/09_Rise_of_Nationalism.md) <span class="ct-pills">UP 13 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="mordern-india-05-Revolt-of-1857-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="mordern-india-05-Revolt-of-1857-md" aria-label="Mark Topic 5 — Revolt of 1857 done"> [Topic 5 — Revolt of 1857](subjects/mordern india/05_Revolt_of_1857.md) <span class="ct-pills">UP 9 · UK 2</span></span>
-
+<h3 class="ct-group-title">Medium Important</h3>
+<div class="ct-list ct-list--medium">
+<details class="ct-row" data-ct-id="mordern-india-10-Books-and-Authors-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-10-Books-and-Authors-md" aria-label="Mark Topic 10 — Books &amp; Authors done">
+    <span class="ct-title">Topic 10 — Books &amp; Authors</span>
+    <span class="ct-pills">14 Qs · UPPCS 8 · UKPCS 6</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/mordern%20india/10_Books_and_Authors/#ghatnachakra-extra-drill-magazines-books-and-authors">Magazines, Books and Authors</a> — 7 questions (UPPCS 1 · UKPCS 6)</li>
+      <li><a href="../subjects/mordern%20india/10_Books_and_Authors/#1010-books-on-freedom-movement-and-political-books">Books on Freedom Movement and Political Books</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/10_Books_and_Authors/#1013-history-books-and-historiography">History Books and Historiography</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/10_Books_and_Authors/#103-poverty-and-un-british-rule-in-india">Poverty and Un-British Rule in India</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/10_Books_and_Authors/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="mordern-india-12-Home-Rule-and-Labour-Politics-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-12-Home-Rule-and-Labour-Politics-md" aria-label="Mark Topic 12 — Home Rule &amp; Labour Politics done">
+    <span class="ct-title">Topic 12 — Home Rule &amp; Labour Politics</span>
+    <span class="ct-pills">14 Qs · UPPCS 13 · UKPCS 1</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/mordern%20india/12_Home_Rule_and_Labour_Politics/#128-labour-politics-aituc-and-the-party-map">Labour Politics — AITUC and the Party Map</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/12_Home_Rule_and_Labour_Politics/#129-left-parties">Left Parties</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/12_Home_Rule_and_Labour_Politics/#1210-congress-socialist-party">Congress Socialist Party</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/12_Home_Rule_and_Labour_Politics/#121-home-rule-movement">Home Rule Movement</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/12_Home_Rule_and_Labour_Politics/#1211-regional-parties">Regional Parties</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/12_Home_Rule_and_Labour_Politics/#ghatnachakra-extra-drill-trade-union-and-communist-party">Trade Union and Communist Party</a> — 1 question (UKPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/12_Home_Rule_and_Labour_Politics/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="mordern-india-06-Socio-Religious-Reform-Movements-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-06-Socio-Religious-Reform-Movements-md" aria-label="Mark Topic 6 — Socio-Religious Reform Movements done">
+    <span class="ct-title">Topic 6 — Socio-Religious Reform Movements</span>
+    <span class="ct-pills">14 Qs · UPPCS 12 · UKPCS 2</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/mordern%20india/06_Socio_Religious_Reform_Movements/#65-behramji-malabari">Behramji Malabari</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/06_Socio_Religious_Reform_Movements/#69-bengal-reform-movements">Bengal Reform Movements</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/06_Socio_Religious_Reform_Movements/#66-dk-karve">D.K. Karve</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/06_Socio_Religious_Reform_Movements/#63-jyotiba-phule">Jyotiba Phule</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/06_Socio_Religious_Reform_Movements/#68-major-socio-religious-institutions">Major Socio-Religious Institutions</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/06_Socio_Religious_Reform_Movements/#64-satyashodhak-samaj">Satyashodhak Samaj</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/06_Socio_Religious_Reform_Movements/#626-self-respect-movement-and-ev-ramaswami-naicker-periyar">Self-Respect Movement and E.V. Ramaswami Naicker (Periyar)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/06_Socio_Religious_Reform_Movements/#610-social-reformers-and-their-titles">Social Reformers and Their Titles</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/06_Socio_Religious_Reform_Movements/#ghatnachakra-extra-drill-socio-religious-movements">Socio-Religious Movements</a> — 1 question (UKPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/06_Socio_Religious_Reform_Movements/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="mordern-india-04-British-Administration-and-Economy-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-04-British-Administration-and-Economy-md" aria-label="Mark Topic 4 — British Administration &amp; Economy done">
+    <span class="ct-title">Topic 4 — British Administration &amp; Economy</span>
+    <span class="ct-pills">12 Qs · UPPCS 12 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/mordern%20india/04_British_Administration_and_Economy/#411-drain-of-wealth-theory">Drain of Wealth Theory</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/mordern%20india/04_British_Administration_and_Economy/#47-british-land-revenue-systems">British Land Revenue Systems</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/04_British_Administration_and_Economy/#412-commercialization-of-agriculture">Commercialization of Agriculture</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/04_British_Administration_and_Economy/#ghatnachakra-extra-drill-economic-impact-of-british-rule">Economic Impact of British Rule</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/04_British_Administration_and_Economy/#45-local-administration">Local Administration</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/04_British_Administration_and_Economy/#48-permanent-settlement-1793">Permanent Settlement, 1793</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/04_British_Administration_and_Economy/">Open chapter</a>
+  </div>
+</details>
 </div>
 
-### Medium Important
-
-<div class="ct-list ct-list--medium" markdown="1">
-
-- <span class="ct-row" data-ct-id="mordern-india-10-Books-and-Authors-md" data-group="medium" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="mordern-india-10-Books-and-Authors-md" aria-label="Mark Topic 10 — Books & Authors done"> [Topic 10 — Books & Authors](subjects/mordern india/10_Books_and_Authors.md) <span class="ct-pills">UP 8 · UK 6</span></span>
-- <span class="ct-row" data-ct-id="mordern-india-12-Home-Rule-and-Labour-Politics-md" data-group="medium" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="mordern-india-12-Home-Rule-and-Labour-Politics-md" aria-label="Mark Topic 12 — Home Rule & Labour Politics done"> [Topic 12 — Home Rule & Labour Politics](subjects/mordern india/12_Home_Rule_and_Labour_Politics.md) <span class="ct-pills">UP 13 · UK 1</span></span>
-- <span class="ct-row" data-ct-id="mordern-india-06-Socio-Religious-Reform-Movements-md" data-group="medium" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="mordern-india-06-Socio-Religious-Reform-Movements-md" aria-label="Mark Topic 6 — Socio-Religious Reform Movements done"> [Topic 6 — Socio-Religious Reform Movements](subjects/mordern india/06_Socio_Religious_Reform_Movements.md) <span class="ct-pills">UP 12 · UK 2</span></span>
-- <span class="ct-row" data-ct-id="mordern-india-04-British-Administration-and-Economy-md" data-group="medium" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="mordern-india-04-British-Administration-and-Economy-md" aria-label="Mark Topic 4 — British Administration & Economy done"> [Topic 4 — British Administration & Economy](subjects/mordern india/04_British_Administration_and_Economy.md) <span class="ct-pills">UP 12 · UK 0</span></span>
-
+<h3 class="ct-group-title">Least Important</h3>
+<div class="ct-list ct-list--least">
+<details class="ct-row" data-ct-id="mordern-india-01-Advent-of-Europeans-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-01-Advent-of-Europeans-md" aria-label="Mark Topic 1 — Advent of Europeans done">
+    <span class="ct-title">Topic 1 — Advent of Europeans</span>
+    <span class="ct-pills">12 Qs · UPPCS 12 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/mordern%20india/01_Advent_of_Europeans/#15-dutch-in-india">Dutch in India</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/01_Advent_of_Europeans/#16-english-east-india-company">English East India Company</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/01_Advent_of_Europeans/#113-first-carnatic-war-17461748">First Carnatic War, 1746–1748</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/01_Advent_of_Europeans/#110-factories-and-presidencies">Factories and Presidencies</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/01_Advent_of_Europeans/#114-second-carnatic-war-c17491754">Second Carnatic War, c.1749–1754</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/01_Advent_of_Europeans/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="mordern-india-07-Education-and-Press-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-07-Education-and-Press-md" aria-label="Mark Topic 7 — Education &amp; Press done">
+    <span class="ct-title">Topic 7 — Education &amp; Press</span>
+    <span class="ct-pills">12 Qs · UPPCS 10 · UKPCS 2</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/mordern%20india/07_Education_and_Press/#715-asiatic-society-of-bengal">Asiatic Society of Bengal</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/07_Education_and_Press/#714-educational-centres-and-teachers">Educational Centres and Teachers</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/07_Education_and_Press/#76-hunter-commission-1882">Hunter Commission, 1882</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/07_Education_and_Press/#717-newspapers-and-journals">Newspapers and Journals</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/07_Education_and_Press/#ghatnachakra-extra-drill-press">Press</a> — 1 question (UKPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/07_Education_and_Press/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="mordern-india-16-Miscellaneous-UPPCS-Frequently-Asked-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-16-Miscellaneous-UPPCS-Frequently-Asked-md" aria-label="Mark Topic 16 — Miscellaneous (Frequently Asked by UPPCS) done">
+    <span class="ct-title">Topic 16 — Miscellaneous (Frequently Asked by UPPCS)</span>
+    <span class="ct-pills">7 Qs · UPPCS 7 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p>No tagged stems in the teaching or bank headings yet.</p>
+    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/16_Miscellaneous_UPPCS_Frequently_Asked/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="mordern-india-uttar-pradesh-17-UP-History-and-Freedom-Struggle-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-uttar-pradesh-17-UP-History-and-Freedom-Struggle-md" aria-label="Mark Topic 17 — UP History &amp; Freedom Struggle done">
+    <span class="ct-title">Topic 17 — UP History &amp; Freedom Struggle</span>
+    <span class="ct-pills">0 Qs · UPPCS 0 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p>No tagged stems in the teaching or bank headings yet.</p>
+    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/uttar%20pradesh/17_UP_History_and_Freedom_Struggle/">Open chapter</a>
+  </div>
+</details>
 </div>
 
-### Least Important
-
-<div class="ct-list ct-list--least" markdown="1">
-
-- <span class="ct-row" data-ct-id="mordern-india-01-Advent-of-Europeans-md" data-group="least" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="mordern-india-01-Advent-of-Europeans-md" aria-label="Mark Topic 1 — Advent of Europeans done"> [Topic 1 — Advent of Europeans](subjects/mordern india/01_Advent_of_Europeans.md) <span class="ct-pills">UP 12 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="mordern-india-07-Education-and-Press-md" data-group="least" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="mordern-india-07-Education-and-Press-md" aria-label="Mark Topic 7 — Education & Press done"> [Topic 7 — Education & Press](subjects/mordern india/07_Education_and_Press.md) <span class="ct-pills">UP 10 · UK 2</span></span>
-- <span class="ct-row" data-ct-id="mordern-india-16-Miscellaneous-UPPCS-Frequently-Asked-md" data-group="least" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="mordern-india-16-Miscellaneous-UPPCS-Frequently-Asked-md" aria-label="Mark Topic 16 — Miscellaneous (Frequently Asked by UPPCS) done"> [Topic 16 — Miscellaneous (Frequently Asked by UPPCS)](subjects/mordern india/16_Miscellaneous_UPPCS_Frequently_Asked.md) <span class="ct-pills">UP 7 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="mordern-india-uttar-pradesh-17-UP-History-and-Freedom-Struggle-md" data-group="least" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="mordern-india-uttar-pradesh-17-UP-History-and-Freedom-Struggle-md" aria-label="Mark Topic 17 — UP History & Freedom Struggle done"> [Topic 17 — UP History & Freedom Struggle](subjects/mordern india/uttar pradesh/17_UP_History_and_Freedom_Struggle.md) <span class="ct-pills">UP 0 · UK 0</span></span>
-
+<h3 class="ct-group-title">Uttarakhand — Highly Important</h3>
+<div class="ct-list ct-list--high">
+<details class="ct-row" data-ct-id="mordern-india-uttarakhand-04-Freedom-Movement-in-Uttarakhand-md" data-group="high" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-uttarakhand-04-Freedom-Movement-in-Uttarakhand-md" aria-label="Mark Topic 4 — Freedom Movement in UK done">
+    <span class="ct-title">Topic 4 — Freedom Movement in UK</span>
+    <span class="ct-pills">8 Qs · UPPCS 0 · UKPCS 8</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/mordern%20india/uttarakhand/04_Freedom_Movement_in_Uttarakhand/#ukpcs-inline-practice-questions">UKPCS Inline &amp; Practice Questions</a> — 4 questions (UKPCS 4)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/uttarakhand/04_Freedom_Movement_in_Uttarakhand/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="mordern-india-uttarakhand-01-Gorkha-Invasion-and-Rule-md" data-group="high" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-uttarakhand-01-Gorkha-Invasion-and-Rule-md" aria-label="Mark Topic 1 — Gorkha Invasion &amp; Rule done">
+    <span class="ct-title">Topic 1 — Gorkha Invasion &amp; Rule</span>
+    <span class="ct-pills">5 Qs · UPPCS 0 · UKPCS 5</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/mordern%20india/uttarakhand/01_Gorkha_Invasion_and_Rule/#ukpcs-inline-pyqs">UKPCS Inline PYQs</a> — 2 questions (UKPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/uttarakhand/01_Gorkha_Invasion_and_Rule/#14-administration-ratta-courts-and-revenue-under-gorkha-rule">Administration ratta — courts and revenue under Gorkha rule</a> — 1 question (UKPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/uttarakhand/01_Gorkha_Invasion_and_Rule/">Open chapter</a>
+  </div>
+</details>
 </div>
 
-### Uttarakhand — Highly Important
-
-<div class="ct-list ct-list--high" markdown="1">
-
-- <span class="ct-row" data-ct-id="mordern-india-uttarakhand-04-Freedom-Movement-in-Uttarakhand-md" data-group="high" data-uk="1"><input type="checkbox" class="ct-check" data-ct-id="mordern-india-uttarakhand-04-Freedom-Movement-in-Uttarakhand-md" aria-label="Mark Topic 4 — Freedom Movement in UK done"> [Topic 4 — Freedom Movement in UK](subjects/mordern india/uttarakhand/04_Freedom_Movement_in_Uttarakhand.md) <span class="ct-pills">UP 0 · UK 8</span></span>
-- <span class="ct-row" data-ct-id="mordern-india-uttarakhand-01-Gorkha-Invasion-and-Rule-md" data-group="high" data-uk="1"><input type="checkbox" class="ct-check" data-ct-id="mordern-india-uttarakhand-01-Gorkha-Invasion-and-Rule-md" aria-label="Mark Topic 1 — Gorkha Invasion & Rule done"> [Topic 1 — Gorkha Invasion & Rule](subjects/mordern india/uttarakhand/01_Gorkha_Invasion_and_Rule.md) <span class="ct-pills">UP 0 · UK 5</span></span>
-
+<h3 class="ct-group-title">Uttarakhand — Medium Important</h3>
+<div class="ct-list ct-list--medium">
+<details class="ct-row" data-ct-id="mordern-india-uttarakhand-02-British-Rule-in-Uttarakhand-md" data-group="medium" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-uttarakhand-02-British-Rule-in-Uttarakhand-md" aria-label="Mark Topic 2 — British Rule in UK done">
+    <span class="ct-title">Topic 2 — British Rule in UK</span>
+    <span class="ct-pills">4 Qs · UPPCS 0 · UKPCS 4</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/mordern%20india/uttarakhand/02_British_Rule_in_Uttarakhand/#traditional-village-intermediaries-under-colonial-rule">Traditional Village Intermediaries Under Colonial Rule</a> — 1 question (UKPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/uttarakhand/02_British_Rule_in_Uttarakhand/#ukpcs-inline-practice-questions">UKPCS Inline &amp; Practice Questions</a> — 1 question (UKPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/uttarakhand/02_British_Rule_in_Uttarakhand/">Open chapter</a>
+  </div>
+</details>
 </div>
 
-### Uttarakhand — Medium Important
-
-<div class="ct-list ct-list--medium" markdown="1">
-
-- <span class="ct-row" data-ct-id="mordern-india-uttarakhand-02-British-Rule-in-Uttarakhand-md" data-group="medium" data-uk="1"><input type="checkbox" class="ct-check" data-ct-id="mordern-india-uttarakhand-02-British-Rule-in-Uttarakhand-md" aria-label="Mark Topic 2 — British Rule in UK done"> [Topic 2 — British Rule in UK](subjects/mordern india/uttarakhand/02_British_Rule_in_Uttarakhand.md) <span class="ct-pills">UP 0 · UK 4</span></span>
-
+<h3 class="ct-group-title">Uttarakhand — Least Important</h3>
+<div class="ct-list ct-list--least">
+<details class="ct-row" data-ct-id="mordern-india-uttarakhand-03-Tehri-Estate-md" data-group="least" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-uttarakhand-03-Tehri-Estate-md" aria-label="Mark Topic 3 — Tehri Estate done">
+    <span class="ct-title">Topic 3 — Tehri Estate</span>
+    <span class="ct-pills">2 Qs · UPPCS 0 · UKPCS 2</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/mordern%20india/uttarakhand/03_Tehri_Estate/#ukpcs-inline-practice-questions">UKPCS Inline &amp; Practice Questions</a> — 1 question (UKPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/uttarakhand/03_Tehri_Estate/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="mordern-india-uttarakhand-05-Peoples-Movements-of-Uttarakhand-md" data-group="least" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-uttarakhand-05-Peoples-Movements-of-Uttarakhand-md" aria-label="Mark Topic 5 — People&#x27;s Movements of UK done">
+    <span class="ct-title">Topic 5 — People&#x27;s Movements of UK</span>
+    <span class="ct-pills">2 Qs · UPPCS 0 · UKPCS 2</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/mordern%20india/uttarakhand/05_Peoples_Movements_of_Uttarakhand/#ukpcs-inline-practice-questions">UKPCS Inline &amp; Practice Questions</a> — 1 question (UKPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/uttarakhand/05_Peoples_Movements_of_Uttarakhand/">Open chapter</a>
+  </div>
+</details>
 </div>
 
-### Uttarakhand — Least Important
+  </div>
+</details>
 
-<div class="ct-list ct-list--least" markdown="1">
-
-- <span class="ct-row" data-ct-id="mordern-india-uttarakhand-03-Tehri-Estate-md" data-group="least" data-uk="1"><input type="checkbox" class="ct-check" data-ct-id="mordern-india-uttarakhand-03-Tehri-Estate-md" aria-label="Mark Topic 3 — Tehri Estate done"> [Topic 3 — Tehri Estate](subjects/mordern india/uttarakhand/03_Tehri_Estate.md) <span class="ct-pills">UP 0 · UK 2</span></span>
-- <span class="ct-row" data-ct-id="mordern-india-uttarakhand-05-Peoples-Movements-of-Uttarakhand-md" data-group="least" data-uk="1"><input type="checkbox" class="ct-check" data-ct-id="mordern-india-uttarakhand-05-Peoples-Movements-of-Uttarakhand-md" aria-label="Mark Topic 5 — People's Movements of UK done"> [Topic 5 — People's Movements of UK](subjects/mordern india/uttarakhand/05_Peoples_Movements_of_Uttarakhand.md) <span class="ct-pills">UP 0 · UK 2</span></span>
-
+<details class="ct-subject" id="art-and-culture" data-ct-subject="art-and-culture" name="ct-subject">
+  <summary>
+    <span class="ct-subject-title">Art and Culture</span>
+    <span class="ct-progress" data-ct-subject="art-and-culture"></span>
+    <span class="ct-subject-count">21 chapters</span>
+  </summary>
+  <div class="ct-subject-body">
+<h3 class="ct-group-title">Highly Important</h3>
+<div class="ct-list ct-list--high">
+<details class="ct-row" data-ct-id="art-and-culture-03-Indian-Architecture-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="art-and-culture-03-Indian-Architecture-md" aria-label="Mark Topic 3 — Indian Architecture done">
+    <span class="ct-title">Topic 3 — Indian Architecture</span>
+    <span class="ct-pills">22 Qs · UPPCS 22 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/art%20and%20culture/03_Indian_Architecture/#complete-pyq-bank-ghatnachakra-architecture-in-ancient-india-uppcs-ukpcs-standard">Ghatnachakra Architecture in Ancient India</a> — 12 questions (UPPCS 12)</li>
+      <li><a href="../subjects/art%20and%20culture/03_Indian_Architecture/#314-mughal-architecture">Mughal Architecture</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/art%20and%20culture/03_Indian_Architecture/#313-indo-islamic-architecture">Indo-Islamic Architecture</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/art%20and%20culture/03_Indian_Architecture/#36-pallava-and-chola-temples">Pallava and Chola Temples</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/art%20and%20culture/03_Indian_Architecture/#312-cave-architecture">Cave Architecture</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/art%20and%20culture/03_Indian_Architecture/#32-nagara-style">Nagara Style</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/art%20and%20culture/03_Indian_Architecture/#38-stupa">Stupa</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/art%20and%20culture/03_Indian_Architecture/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="art-and-culture-08-Indian-Languages-and-Literature-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="art-and-culture-08-Indian-Languages-and-Literature-md" aria-label="Mark Topic 8 — Indian Languages &amp; Literature done">
+    <span class="ct-title">Topic 8 — Indian Languages &amp; Literature</span>
+    <span class="ct-pills">22 Qs · UPPCS 22 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/art%20and%20culture/08_Indian_Languages_and_Literature/#complete-pyq-bank-ghatnachakra-ancient-literature-and-litterateur-uppcs-ukpcs-standard">Ghatnachakra Ancient Literature and Litterateur</a> — 10 questions (UPPCS 10)</li>
+      <li><a href="../subjects/art%20and%20culture/08_Indian_Languages_and_Literature/#88-important-literary-works">Important Literary Works</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/art%20and%20culture/08_Indian_Languages_and_Literature/#87-indian-languages">Indian Languages</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/art%20and%20culture/08_Indian_Languages_and_Literature/#82-sanskrit-literature">Sanskrit Literature</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/art%20and%20culture/08_Indian_Languages_and_Literature/#85-puranic-literature">Puranic Literature</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/art%20and%20culture/08_Indian_Languages_and_Literature/#83-vedic-literature">Vedic Literature</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/art%20and%20culture/08_Indian_Languages_and_Literature/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="art-and-culture-11-Medieval-Indian-Cultural-History-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="art-and-culture-11-Medieval-Indian-Cultural-History-md" aria-label="Mark Topic 11 — Medieval Indian Cultural History done">
+    <span class="ct-title">Topic 11 — Medieval Indian Cultural History</span>
+    <span class="ct-pills">19 Qs · UPPCS 19 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/art%20and%20culture/11_Medieval_Indian_Cultural_History/#113-medieval-indian-literature">Medieval Indian Literature</a> — 8 questions (UPPCS 8)</li>
+      <li><a href="../subjects/art%20and%20culture/11_Medieval_Indian_Cultural_History/#112-medieval-indian-architecture">Medieval Indian Architecture</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/art%20and%20culture/11_Medieval_Indian_Cultural_History/#115-akbars-administration">Akbar&#x27;s Administration</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/art%20and%20culture/11_Medieval_Indian_Cultural_History/#114-medieval-indian-administration">Medieval Indian Administration</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/art%20and%20culture/11_Medieval_Indian_Cultural_History/#116-cultural-policies-of-akbar">Cultural Policies of Akbar</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/art%20and%20culture/11_Medieval_Indian_Cultural_History/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="art-and-culture-02-Religious-and-Philosophical-Traditions-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="art-and-culture-02-Religious-and-Philosophical-Traditions-md" aria-label="Mark Topic 2 — Religious and Philosophical Traditions done">
+    <span class="ct-title">Topic 2 — Religious and Philosophical Traditions</span>
+    <span class="ct-pills">13 Qs · UPPCS 13 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/art%20and%20culture/02_Religious_and_Philosophical_Traditions/#26-sufi-movement">Sufi Movement</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/art%20and%20culture/02_Religious_and_Philosophical_Traditions/#25-bhakti-movement">Bhakti Movement</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/art%20and%20culture/02_Religious_and_Philosophical_Traditions/#23-buddhist-philosophy">Buddhist Philosophy</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/art%20and%20culture/02_Religious_and_Philosophical_Traditions/#21-six-schools-of-indian-philosophy-shad-darshana-षडदरशन">Six Schools of Indian Philosophy (Shad Darshana / षड्दर्शन)</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/art%20and%20culture/02_Religious_and_Philosophical_Traditions/#24-jain-philosophy">Jain Philosophy</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/art%20and%20culture/02_Religious_and_Philosophical_Traditions/#27-major-religious-traditions-of-india">Major Religious Traditions of India</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/art%20and%20culture/02_Religious_and_Philosophical_Traditions/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="art-and-culture-10-Ancient-Indian-History-Related-to-Culture-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="art-and-culture-10-Ancient-Indian-History-Related-to-Culture-md" aria-label="Mark Topic 10 — Ancient Indian History Related to Culture done">
+    <span class="ct-title">Topic 10 — Ancient Indian History Related to Culture</span>
+    <span class="ct-pills">12 Qs · UPPCS 12 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/art%20and%20culture/10_Ancient_Indian_History_Related_to_Culture/#103-ancient-indian-architecture">Ancient Indian Architecture</a> — 6 questions (UPPCS 6)</li>
+      <li><a href="../subjects/art%20and%20culture/10_Ancient_Indian_History_Related_to_Culture/#101-ancient-indian-art">Ancient Indian Art</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/art%20and%20culture/10_Ancient_Indian_History_Related_to_Culture/#104-ancient-indian-agriculture">Ancient Indian Agriculture</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/art%20and%20culture/10_Ancient_Indian_History_Related_to_Culture/#105-ancient-indian-industries">Ancient Indian Industries</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/art%20and%20culture/10_Ancient_Indian_History_Related_to_Culture/#102-ancient-indian-sculpture">Ancient Indian Sculpture</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/art%20and%20culture/10_Ancient_Indian_History_Related_to_Culture/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="art-and-culture-16-Awards-Personalities-GI-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="art-and-culture-16-Awards-Personalities-GI-md" aria-label="Mark Topic 16 — Awards, Personalities &amp; GI Tags done">
+    <span class="ct-title">Topic 16 — Awards, Personalities &amp; GI Tags</span>
+    <span class="ct-pills">10 Qs · UPPCS 5 · UKPCS 5</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/art%20and%20culture/16_Awards_Personalities_GI/#164-sahitya-akademi-awards">Sahitya Akademi Awards</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/art%20and%20culture/16_Awards_Personalities_GI/#166-important-cultural-personalities">Important Cultural Personalities</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/art%20and%20culture/16_Awards_Personalities_GI/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="art-and-culture-05-Indian-Music-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="art-and-culture-05-Indian-Music-md" aria-label="Mark Topic 5 — Indian Music done">
+    <span class="ct-title">Topic 5 — Indian Music</span>
+    <span class="ct-pills">4 Qs · UPPCS 4 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/art%20and%20culture/05_Indian_Music/#52-hindustani-classical-music">Hindustani Classical Music</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/art%20and%20culture/05_Indian_Music/#51-indian-music">Indian Music</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/art%20and%20culture/05_Indian_Music/#56-musicians-of-india">Musicians of India</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/art%20and%20culture/05_Indian_Music/">Open chapter</a>
+  </div>
+</details>
 </div>
 
-
-## Art and Culture { #art-and-culture }
-
-<p class="ct-subhead"><span class="ct-progress" data-ct-subject="art-and-culture"></span> 21 chapters</p>
-
-### Highly Important
-
-<div class="ct-list ct-list--high" markdown="1">
-
-- <span class="ct-row" data-ct-id="art-and-culture-03-Indian-Architecture-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="art-and-culture-03-Indian-Architecture-md" aria-label="Mark Topic 3 — Indian Architecture done"> [Topic 3 — Indian Architecture](subjects/art and culture/03_Indian_Architecture.md) <span class="ct-pills">UP 22 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="art-and-culture-08-Indian-Languages-and-Literature-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="art-and-culture-08-Indian-Languages-and-Literature-md" aria-label="Mark Topic 8 — Indian Languages & Literature done"> [Topic 8 — Indian Languages & Literature](subjects/art and culture/08_Indian_Languages_and_Literature.md) <span class="ct-pills">UP 22 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="art-and-culture-11-Medieval-Indian-Cultural-History-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="art-and-culture-11-Medieval-Indian-Cultural-History-md" aria-label="Mark Topic 11 — Medieval Indian Cultural History done"> [Topic 11 — Medieval Indian Cultural History](subjects/art and culture/11_Medieval_Indian_Cultural_History.md) <span class="ct-pills">UP 19 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="art-and-culture-02-Religious-and-Philosophical-Traditions-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="art-and-culture-02-Religious-and-Philosophical-Traditions-md" aria-label="Mark Topic 2 — Religious and Philosophical Traditions done"> [Topic 2 — Religious and Philosophical Traditions](subjects/art and culture/02_Religious_and_Philosophical_Traditions.md) <span class="ct-pills">UP 13 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="art-and-culture-10-Ancient-Indian-History-Related-to-Culture-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="art-and-culture-10-Ancient-Indian-History-Related-to-Culture-md" aria-label="Mark Topic 10 — Ancient Indian History Related to Culture done"> [Topic 10 — Ancient Indian History Related to Culture](subjects/art and culture/10_Ancient_Indian_History_Related_to_Culture.md) <span class="ct-pills">UP 12 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="art-and-culture-16-Awards-Personalities-GI-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="art-and-culture-16-Awards-Personalities-GI-md" aria-label="Mark Topic 16 — Awards, Personalities & GI Tags done"> [Topic 16 — Awards, Personalities & GI Tags](subjects/art and culture/16_Awards_Personalities_GI.md) <span class="ct-pills">UP 5 · UK 5</span></span>
-- <span class="ct-row" data-ct-id="art-and-culture-05-Indian-Music-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="art-and-culture-05-Indian-Music-md" aria-label="Mark Topic 5 — Indian Music done"> [Topic 5 — Indian Music](subjects/art and culture/05_Indian_Music.md) <span class="ct-pills">UP 4 · UK 0</span></span>
-
+<h3 class="ct-group-title">Medium Important</h3>
+<div class="ct-list ct-list--medium">
+<details class="ct-row" data-ct-id="art-and-culture-15-Archaeology-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="art-and-culture-15-Archaeology-md" aria-label="Mark Topic 15 — Archaeology done">
+    <span class="ct-title">Topic 15 — Archaeology</span>
+    <span class="ct-pills">9 Qs · UPPCS 9 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/art%20and%20culture/15_Archaeology/#154-ancient-sites">Ancient Sites</a> — 7 questions (UPPCS 7)</li>
+      <li><a href="../subjects/art%20and%20culture/15_Archaeology/#152-archaeological-discoveries">Archaeological Discoveries</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/art%20and%20culture/15_Archaeology/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="art-and-culture-14-Cultural-Heritage-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="art-and-culture-14-Cultural-Heritage-md" aria-label="Mark Topic 14 — Cultural Heritage done">
+    <span class="ct-title">Topic 14 — Cultural Heritage</span>
+    <span class="ct-pills">7 Qs · UPPCS 4 · UKPCS 3</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/art%20and%20culture/14_Cultural_Heritage/#143-unesco-world-heritage-sites">UNESCO World Heritage Sites</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/art%20and%20culture/14_Cultural_Heritage/#145-unesco-world-heritage-sites-in-india">UNESCO World Heritage Sites in India</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/art%20and%20culture/14_Cultural_Heritage/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="art-and-culture-01-Institutions-Related-to-Indian-Culture-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="art-and-culture-01-Institutions-Related-to-Indian-Culture-md" aria-label="Mark Topic 1 — Institutions Related to Indian Culture done">
+    <span class="ct-title">Topic 1 — Institutions Related to Indian Culture</span>
+    <span class="ct-pills">6 Qs · UPPCS 6 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/art%20and%20culture/01_Institutions_Related_to_Indian_Culture/#11-indological-studies">Indological Studies</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/art%20and%20culture/01_Institutions_Related_to_Indian_Culture/#115-museums-in-india">Museums in India</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/art%20and%20culture/01_Institutions_Related_to_Indian_Culture/#113-sahitya-akademi">Sahitya Akademi</a> — 2 questions (UPPCS 2)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/art%20and%20culture/01_Institutions_Related_to_Indian_Culture/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="art-and-culture-04-Indian-Painting-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="art-and-culture-04-Indian-Painting-md" aria-label="Mark Topic 4 — Indian Painting done">
+    <span class="ct-title">Topic 4 — Indian Painting</span>
+    <span class="ct-pills">6 Qs · UPPCS 2 · UKPCS 4</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/art%20and%20culture/04_Indian_Painting/#41-ancient-indian-painting">Ancient Indian Painting</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/art%20and%20culture/04_Indian_Painting/#folk-painting-overlap-not-a-second-folk-topic">Folk painting (overlap — not a second Folk topic)</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/art%20and%20culture/04_Indian_Painting/">Open chapter</a>
+  </div>
+</details>
 </div>
 
-### Medium Important
-
-<div class="ct-list ct-list--medium" markdown="1">
-
-- <span class="ct-row" data-ct-id="art-and-culture-15-Archaeology-md" data-group="medium" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="art-and-culture-15-Archaeology-md" aria-label="Mark Topic 15 — Archaeology done"> [Topic 15 — Archaeology](subjects/art and culture/15_Archaeology.md) <span class="ct-pills">UP 9 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="art-and-culture-14-Cultural-Heritage-md" data-group="medium" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="art-and-culture-14-Cultural-Heritage-md" aria-label="Mark Topic 14 — Cultural Heritage done"> [Topic 14 — Cultural Heritage](subjects/art and culture/14_Cultural_Heritage.md) <span class="ct-pills">UP 4 · UK 3</span></span>
-- <span class="ct-row" data-ct-id="art-and-culture-01-Institutions-Related-to-Indian-Culture-md" data-group="medium" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="art-and-culture-01-Institutions-Related-to-Indian-Culture-md" aria-label="Mark Topic 1 — Institutions Related to Indian Culture done"> [Topic 1 — Institutions Related to Indian Culture](subjects/art and culture/01_Institutions_Related_to_Indian_Culture.md) <span class="ct-pills">UP 6 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="art-and-culture-04-Indian-Painting-md" data-group="medium" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="art-and-culture-04-Indian-Painting-md" aria-label="Mark Topic 4 — Indian Painting done"> [Topic 4 — Indian Painting](subjects/art and culture/04_Indian_Painting.md) <span class="ct-pills">UP 2 · UK 4</span></span>
-
+<h3 class="ct-group-title">Least Important</h3>
+<div class="ct-list ct-list--least">
+<details class="ct-row" data-ct-id="art-and-culture-13-Folk-Culture-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="art-and-culture-13-Folk-Culture-md" aria-label="Mark Topic 13 — Folk Culture done">
+    <span class="ct-title">Topic 13 — Folk Culture</span>
+    <span class="ct-pills">4 Qs · UPPCS 4 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/art%20and%20culture/13_Folk_Culture/#132-folk-traditions">Folk Traditions</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/art%20and%20culture/13_Folk_Culture/#136-handicrafts">Handicrafts</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/art%20and%20culture/13_Folk_Culture/#135-handloom">Handloom</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/art%20and%20culture/13_Folk_Culture/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="art-and-culture-09-Indian-Festivals-and-Fairs-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="art-and-culture-09-Indian-Festivals-and-Fairs-md" aria-label="Mark Topic 9 — Indian Festivals &amp; Fairs done">
+    <span class="ct-title">Topic 9 — Indian Festivals &amp; Fairs</span>
+    <span class="ct-pills">4 Qs · UPPCS 4 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/art%20and%20culture/09_Indian_Festivals_and_Fairs/#99-cultural-festivals-organized-by-government">Cultural Festivals Organized by Government</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/art%20and%20culture/09_Indian_Festivals_and_Fairs/#98-fairs-of-india">Fairs of India</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/art%20and%20culture/09_Indian_Festivals_and_Fairs/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="art-and-culture-12-Sculpture-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="art-and-culture-12-Sculpture-md" aria-label="Mark Topic 12 — Sculpture done">
+    <span class="ct-title">Topic 12 — Sculpture</span>
+    <span class="ct-pills">2 Qs · UPPCS 2 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/art%20and%20culture/12_Sculpture/#129-amaravati-school">Amaravati School</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/art%20and%20culture/12_Sculpture/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="art-and-culture-uttar-pradesh-17-UP-Art-Culture-Demographics-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="art-and-culture-uttar-pradesh-17-UP-Art-Culture-Demographics-md" aria-label="Mark Topic 17 — UP Art, Culture &amp; Demographics done">
+    <span class="ct-title">Topic 17 — UP Art, Culture &amp; Demographics</span>
+    <span class="ct-pills">0 Qs · UPPCS 0 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p>No tagged stems in the teaching or bank headings yet.</p>
+    <a class="md-button md-button--primary ct-open" href="../subjects/art%20and%20culture/uttar%20pradesh/17_UP_Art_Culture_Demographics/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="art-and-culture-06-Indian-Dance-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="art-and-culture-06-Indian-Dance-md" aria-label="Mark Topic 6 — Indian Dance done">
+    <span class="ct-title">Topic 6 — Indian Dance</span>
+    <span class="ct-pills">0 Qs · UPPCS 0 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p>No tagged stems in the teaching or bank headings yet.</p>
+    <a class="md-button md-button--primary ct-open" href="../subjects/art%20and%20culture/06_Indian_Dance/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="art-and-culture-07-Indian-Theatre-and-Performing-Arts-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="art-and-culture-07-Indian-Theatre-and-Performing-Arts-md" aria-label="Mark Topic 7 — Indian Theatre &amp; Performing Arts done">
+    <span class="ct-title">Topic 7 — Indian Theatre &amp; Performing Arts</span>
+    <span class="ct-pills">0 Qs · UPPCS 0 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p>No tagged stems in the teaching or bank headings yet.</p>
+    <a class="md-button md-button--primary ct-open" href="../subjects/art%20and%20culture/07_Indian_Theatre_and_Performing_Arts/">Open chapter</a>
+  </div>
+</details>
 </div>
 
-### Least Important
-
-<div class="ct-list ct-list--least" markdown="1">
-
-- <span class="ct-row" data-ct-id="art-and-culture-13-Folk-Culture-md" data-group="least" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="art-and-culture-13-Folk-Culture-md" aria-label="Mark Topic 13 — Folk Culture done"> [Topic 13 — Folk Culture](subjects/art and culture/13_Folk_Culture.md) <span class="ct-pills">UP 4 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="art-and-culture-09-Indian-Festivals-and-Fairs-md" data-group="least" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="art-and-culture-09-Indian-Festivals-and-Fairs-md" aria-label="Mark Topic 9 — Indian Festivals & Fairs done"> [Topic 9 — Indian Festivals & Fairs](subjects/art and culture/09_Indian_Festivals_and_Fairs.md) <span class="ct-pills">UP 4 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="art-and-culture-12-Sculpture-md" data-group="least" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="art-and-culture-12-Sculpture-md" aria-label="Mark Topic 12 — Sculpture done"> [Topic 12 — Sculpture](subjects/art and culture/12_Sculpture.md) <span class="ct-pills">UP 2 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="art-and-culture-uttar-pradesh-17-UP-Art-Culture-Demographics-md" data-group="least" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="art-and-culture-uttar-pradesh-17-UP-Art-Culture-Demographics-md" aria-label="Mark Topic 17 — UP Art, Culture & Demographics done"> [Topic 17 — UP Art, Culture & Demographics](subjects/art and culture/uttar pradesh/17_UP_Art_Culture_Demographics.md) <span class="ct-pills">UP 0 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="art-and-culture-06-Indian-Dance-md" data-group="least" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="art-and-culture-06-Indian-Dance-md" aria-label="Mark Topic 6 — Indian Dance done"> [Topic 6 — Indian Dance](subjects/art and culture/06_Indian_Dance.md) <span class="ct-pills">UP 0 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="art-and-culture-07-Indian-Theatre-and-Performing-Arts-md" data-group="least" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="art-and-culture-07-Indian-Theatre-and-Performing-Arts-md" aria-label="Mark Topic 7 — Indian Theatre & Performing Arts done"> [Topic 7 — Indian Theatre & Performing Arts](subjects/art and culture/07_Indian_Theatre_and_Performing_Arts.md) <span class="ct-pills">UP 0 · UK 0</span></span>
-
+<h3 class="ct-group-title">Uttarakhand — Highly Important</h3>
+<div class="ct-list ct-list--high">
+<details class="ct-row" data-ct-id="art-and-culture-uttarakhand-03-Heritage-and-Cultural-Institutes-md" data-group="high" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="art-and-culture-uttarakhand-03-Heritage-and-Cultural-Institutes-md" aria-label="Mark Topic 3 — Heritage &amp; Cultural Institutes done">
+    <span class="ct-title">Topic 3 — Heritage &amp; Cultural Institutes</span>
+    <span class="ct-pills">8 Qs · UPPCS 0 · UKPCS 8</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/art%20and%20culture/uttarakhand/03_Heritage_and_Cultural_Institutes/#ukpcs-real-exam-pyq-bank">UKPCS Real Exam PYQ Bank</a> — 2 questions (UKPCS 2)</li>
+      <li><a href="../subjects/art%20and%20culture/uttarakhand/03_Heritage_and_Cultural_Institutes/#1-world-heritage-वशव-धरहर-monumental-sites-in-uttarakhand">1. World Heritage (विश्व धरोहर) &amp; Monumental Sites in Uttarakhand</a> — 1 question (UKPCS 1)</li>
+      <li><a href="../subjects/art%20and%20culture/uttarakhand/03_Heritage_and_Cultural_Institutes/#4-notable-modern-authors-cultural-icons-of-uttarakhand">4. Notable Modern Authors &amp; Cultural Icons of Uttarakhand</a> — 1 question (UKPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/art%20and%20culture/uttarakhand/03_Heritage_and_Cultural_Institutes/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="art-and-culture-uttarakhand-02-Dances-Music-and-Fairs-md" data-group="high" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="art-and-culture-uttarakhand-02-Dances-Music-and-Fairs-md" aria-label="Mark Topic 2 — Dances, Music &amp; Fairs done">
+    <span class="ct-title">Topic 2 — Dances, Music &amp; Fairs</span>
+    <span class="ct-pills">2 Qs · UPPCS 0 · UKPCS 2</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/art%20and%20culture/uttarakhand/02_Dances_Music_and_Fairs/#ukpcs-inline-practice-questions">UKPCS Inline &amp; Practice Questions</a> — 1 question (UKPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/art%20and%20culture/uttarakhand/02_Dances_Music_and_Fairs/">Open chapter</a>
+  </div>
+</details>
 </div>
 
-### Uttarakhand — Highly Important
-
-<div class="ct-list ct-list--high" markdown="1">
-
-- <span class="ct-row" data-ct-id="art-and-culture-uttarakhand-03-Heritage-and-Cultural-Institutes-md" data-group="high" data-uk="1"><input type="checkbox" class="ct-check" data-ct-id="art-and-culture-uttarakhand-03-Heritage-and-Cultural-Institutes-md" aria-label="Mark Topic 3 — Heritage & Cultural Institutes done"> [Topic 3 — Heritage & Cultural Institutes](subjects/art and culture/uttarakhand/03_Heritage_and_Cultural_Institutes.md) <span class="ct-pills">UP 0 · UK 8</span></span>
-- <span class="ct-row" data-ct-id="art-and-culture-uttarakhand-02-Dances-Music-and-Fairs-md" data-group="high" data-uk="1"><input type="checkbox" class="ct-check" data-ct-id="art-and-culture-uttarakhand-02-Dances-Music-and-Fairs-md" aria-label="Mark Topic 2 — Dances, Music & Fairs done"> [Topic 2 — Dances, Music & Fairs](subjects/art and culture/uttarakhand/02_Dances_Music_and_Fairs.md) <span class="ct-pills">UP 0 · UK 2</span></span>
-
+<h3 class="ct-group-title">Uttarakhand — Least Important</h3>
+<div class="ct-list ct-list--least">
+<details class="ct-row" data-ct-id="art-and-culture-uttarakhand-01-Folk-Culture-of-Uttarakhand-md" data-group="least" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="art-and-culture-uttarakhand-01-Folk-Culture-of-Uttarakhand-md" aria-label="Mark Topic 1 — Folk Culture of UK done">
+    <span class="ct-title">Topic 1 — Folk Culture of UK</span>
+    <span class="ct-pills">0 Qs · UPPCS 0 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p>No tagged stems in the teaching or bank headings yet.</p>
+    <a class="md-button md-button--primary ct-open" href="../subjects/art%20and%20culture/uttarakhand/01_Folk_Culture_of_Uttarakhand/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="art-and-culture-uttarakhand-04-Personalities-Literature-and-Press-md" data-group="least" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="art-and-culture-uttarakhand-04-Personalities-Literature-and-Press-md" aria-label="Mark Topic 4 — Personalities, Literature &amp; Press done">
+    <span class="ct-title">Topic 4 — Personalities, Literature &amp; Press</span>
+    <span class="ct-pills">0 Qs · UPPCS 0 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p>No tagged stems in the teaching or bank headings yet.</p>
+    <a class="md-button md-button--primary ct-open" href="../subjects/art%20and%20culture/uttarakhand/04_Personalities_Literature_and_Press/">Open chapter</a>
+  </div>
+</details>
 </div>
 
+  </div>
+</details>
 
-### Uttarakhand — Least Important
-
-<div class="ct-list ct-list--least" markdown="1">
-
-- <span class="ct-row" data-ct-id="art-and-culture-uttarakhand-01-Folk-Culture-of-Uttarakhand-md" data-group="least" data-uk="1"><input type="checkbox" class="ct-check" data-ct-id="art-and-culture-uttarakhand-01-Folk-Culture-of-Uttarakhand-md" aria-label="Mark Topic 1 — Folk Culture of UK done"> [Topic 1 — Folk Culture of UK](subjects/art and culture/uttarakhand/01_Folk_Culture_of_Uttarakhand.md) <span class="ct-pills">UP 0 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="art-and-culture-uttarakhand-04-Personalities-Literature-and-Press-md" data-group="least" data-uk="1"><input type="checkbox" class="ct-check" data-ct-id="art-and-culture-uttarakhand-04-Personalities-Literature-and-Press-md" aria-label="Mark Topic 4 — Personalities, Literature & Press done"> [Topic 4 — Personalities, Literature & Press](subjects/art and culture/uttarakhand/04_Personalities_Literature_and_Press.md) <span class="ct-pills">UP 0 · UK 0</span></span>
-
+<details class="ct-subject" id="geography" data-ct-subject="geography" name="ct-subject">
+  <summary>
+    <span class="ct-subject-title">Geography</span>
+    <span class="ct-progress" data-ct-subject="geography"></span>
+    <span class="ct-subject-count">31 chapters</span>
+  </summary>
+  <div class="ct-subject-body">
+<h3 class="ct-group-title">Highly Important</h3>
+<div class="ct-list ct-list--high">
+<details class="ct-row" data-ct-id="geography-07-Natural-Vegetation-Biodiversity-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="geography-07-Natural-Vegetation-Biodiversity-md" aria-label="Mark Topic 7 — Natural Vegetation &amp; Biodiversity Geography done">
+    <span class="ct-title">Topic 7 — Natural Vegetation &amp; Biodiversity Geography</span>
+    <span class="ct-pills">45 Qs · UPPCS 38 · UKPCS 7</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/geography/07_Natural_Vegetation_Biodiversity/#complete-pyq-bank-natural-vegetation-biodiversity-geography-20182025">Natural Vegetation &amp; Biodiversity Geography (2018–2025)</a> — 31 questions (UPPCS 31)</li>
+      <li><a href="../subjects/geography/07_Natural_Vegetation_Biodiversity/#complete-pyq-bank-ghatnachakra-natural-vegetation-uppcs-ukpcs-standard">Ghatnachakra Natural Vegetation</a> — 9 questions (UPPCS 4 · UKPCS 5)</li>
+      <li><a href="../subjects/geography/07_Natural_Vegetation_Biodiversity/#n5-protected-areas-framework">Protected Areas — Framework</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/07_Natural_Vegetation_Biodiversity/#n2-type-cards">Type Cards</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/geography/07_Natural_Vegetation_Biodiversity/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="geography-08-Minerals-Energy-Industry-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="geography-08-Minerals-Energy-Industry-md" aria-label="Mark Topic 8 — Minerals, Energy &amp; Industry done">
+    <span class="ct-title">Topic 8 — Minerals, Energy &amp; Industry</span>
+    <span class="ct-pills">44 Qs · UPPCS 41 · UKPCS 3</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/geography/08_Minerals_Energy_Industry/#complete-pyq-bank-minerals-energy-industry-20182025">Minerals, Energy &amp; Industry (2018–2025)</a> — 34 questions (UPPCS 34)</li>
+      <li><a href="../subjects/geography/08_Minerals_Energy_Industry/#n6-industry-regions-corridors">Industry, Regions, Corridors</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/geography/08_Minerals_Energy_Industry/#n3-coal">Coal</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/08_Minerals_Energy_Industry/#n2-non-metallic-and-atomic-minerals">Non-metallic and atomic minerals</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/08_Minerals_Energy_Industry/#n4-petroleum-gas-refineries">Petroleum, gas, refineries</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/08_Minerals_Energy_Industry/#n5-power-thermal-hydro-nuclear-renewables">Power: thermal, hydro, nuclear, renewables</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/geography/08_Minerals_Energy_Industry/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="geography-23-Political-Map-Geography-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="geography-23-Political-Map-Geography-md" aria-label="Mark Topic 23 — Political &amp; Map-Based Geography done">
+    <span class="ct-title">Topic 23 — Political &amp; Map-Based Geography</span>
+    <span class="ct-pills">41 Qs · UPPCS 35 · UKPCS 6</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/geography/23_Political_Map_Geography/#complete-pyq-bank-ghatnachakra-borders-capitals-landlocked-uppcs-ukpcs-standard">Ghatnachakra Borders Capitals Landlocked</a> — 19 questions (UPPCS 17 · UKPCS 2)</li>
+      <li><a href="../subjects/geography/23_Political_Map_Geography/#n13-köppen-climate">Köppen climate</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/geography/23_Political_Map_Geography/#n9-canals">Canals</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/geography/23_Political_Map_Geography/#n10-mountains-map">Mountains (map)</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/geography/23_Political_Map_Geography/#n3-boundary-lines">Boundary lines</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/23_Political_Map_Geography/#n4-coastline-and-coastal-states">Coastline and coastal states</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/23_Political_Map_Geography/#n5a-country-ranks-regions-dependent-territories-old-names">Country ranks · regions · dependent territories · old names</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/23_Political_Map_Geography/#complete-pyq-bank-ghatnachakra-geographical-sobriquets-uppcs-ukpcs-standard">Ghatnachakra Geographical Sobriquets</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/23_Political_Map_Geography/#n6-landlocked-equator-islands">Landlocked, equator, islands</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/23_Political_Map_Geography/#n12-ports-map">Ports (map)</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/geography/23_Political_Map_Geography/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="geography-18-World-Landforms-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="geography-18-World-Landforms-md" aria-label="Mark Topic 18 — World Landforms done">
+    <span class="ct-title">Topic 18 — World Landforms</span>
+    <span class="ct-pills">40 Qs · UPPCS 34 · UKPCS 6</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/geography/18_World_Landforms/#complete-pyq-bank-ghatnachakra-extra-drill-deserts-mountains-logic-pass">Ghatnachakra / Extra Drill Deserts &amp; Mountains (Logic pass)</a> — 9 questions (UPPCS 7 · UKPCS 2)</li>
+      <li><a href="../subjects/geography/18_World_Landforms/#complete-pyq-bank-ghatnachakra-islands-uppcs-ukpcs-standard">Ghatnachakra Islands</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/geography/18_World_Landforms/#n8-vegetation-world-belts">Vegetation (world belts)</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/geography/18_World_Landforms/#n6-deserts">Deserts</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/geography/18_World_Landforms/#n1-mountains">Mountains</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/geography/18_World_Landforms/#n9-world-climatic-regions">World Climatic Regions</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/geography/18_World_Landforms/#complete-pyq-bank-ghatnachakra-forests-world-climate-uppcs-ukpcs-standard">Ghatnachakra Forests World Climate</a> — 2 questions (UPPCS 1 · UKPCS 1)</li>
+      <li><a href="../subjects/geography/18_World_Landforms/#complete-pyq-bank-ghatnachakra-grasslands-uppcs-ukpcs-standard">Ghatnachakra Grasslands</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/geography/18_World_Landforms/#n7-grasslands">Grasslands</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/geography/18_World_Landforms/#n4-volcanoes-world-locations">Volcanoes (world locations)</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/geography/18_World_Landforms/#n5-islands">Islands</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/geography/18_World_Landforms/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="geography-14-Earth-and-Universe-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="geography-14-Earth-and-Universe-md" aria-label="Mark Topic 14 — Earth &amp; Universe done">
+    <span class="ct-title">Topic 14 — Earth &amp; Universe</span>
+    <span class="ct-pills">39 Qs · UPPCS 34 · UKPCS 5</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/geography/14_Earth_and_Universe/#complete-pyq-bank-earth-universe-20182025">Earth &amp; Universe (2018–2025)</a> — 15 questions (UPPCS 15)</li>
+      <li><a href="../subjects/geography/14_Earth_and_Universe/#complete-pyq-bank-ghatnachakra-atmosphere-insolation-cyclones-humidity-pressure-clouds-winds-uppcs-ukpcs-standard">Ghatnachakra Atmosphere Insolation Cyclones Humidity Pressure Clouds Winds</a> — 9 questions (UPPCS 7 · UKPCS 2)</li>
+      <li><a href="../subjects/geography/14_Earth_and_Universe/#n8-global-warming">Global Warming</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/geography/14_Earth_and_Universe/#n6-atmosphere-its-structure">Atmosphere &amp; Its Structure</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/geography/14_Earth_and_Universe/#n10-coriolis-force">Coriolis Force</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/14_Earth_and_Universe/#n9-el-niño-la-niña-ल-नन-enso">El Niño · La Niña (ला नीना) · ENSO</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/14_Earth_and_Universe/#complete-pyq-bank-ghatnachakra-rocks-volcanoes-uppcs-ukpcs-standard">Ghatnachakra Rocks &amp; Volcanoes</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/14_Earth_and_Universe/#n11-jet-stream">Jet Stream</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/14_Earth_and_Universe/#n17-volcano-types">Volcano Types</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/14_Earth_and_Universe/#n7-weather-vs-climate">Weather vs Climate</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/geography/14_Earth_and_Universe/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="geography-04-Lakes-Waterfalls-Water-Resources-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="geography-04-Lakes-Waterfalls-Water-Resources-md" aria-label="Mark Topic 4 — Lakes, Waterfalls &amp; Water Resources done">
+    <span class="ct-title">Topic 4 — Lakes, Waterfalls &amp; Water Resources</span>
+    <span class="ct-pills">37 Qs · UPPCS 33 · UKPCS 4</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/geography/04_Lakes_Waterfalls_Water_Resources/#complete-pyq-bank-ghatnachakra-multipurpose-river-valley-projects-uppcs-ukpcs-standard">Ghatnachakra Multipurpose River Valley Projects</a> — 13 questions (UPPCS 13)</li>
+      <li><a href="../subjects/geography/04_Lakes_Waterfalls_Water_Resources/#complete-pyq-bank-ghatnachakra-irrigation-canals-uppcs-ukpcs-standard">Ghatnachakra Irrigation &amp; Canals</a> — 5 questions (UPPCS 4 · UKPCS 1)</li>
+      <li><a href="../subjects/geography/04_Lakes_Waterfalls_Water_Resources/#n3-dams-canals-and-hydropower">Dams, canals and hydropower</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/04_Lakes_Waterfalls_Water_Resources/#n1-lakes-of-india">Lakes of India</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/04_Lakes_Waterfalls_Water_Resources/#n2-waterfalls">Waterfalls</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/geography/04_Lakes_Waterfalls_Water_Resources/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="geography-uttar-pradesh-24-Geography-of-Uttar-Pradesh-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="geography-uttar-pradesh-24-Geography-of-Uttar-Pradesh-md" aria-label="Mark Topic 24 — Geography of Uttar Pradesh done">
+    <span class="ct-title">Topic 24 — Geography of Uttar Pradesh</span>
+    <span class="ct-pills">33 Qs · UPPCS 33 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p>No tagged stems in the teaching or bank headings yet.</p>
+    <a class="md-button md-button--primary ct-open" href="../subjects/geography/uttar%20pradesh/24_Geography_of_Uttar_Pradesh/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="geography-21-World-Minerals-Energy-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="geography-21-World-Minerals-Energy-md" aria-label="Mark Topic 21 — World Minerals &amp; Energy done">
+    <span class="ct-title">Topic 21 — World Minerals &amp; Energy</span>
+    <span class="ct-pills">32 Qs · UPPCS 27 · UKPCS 5</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/geography/21_World_Minerals_Energy/#complete-pyq-bank-ghatnachakra-minerals-uppcs-ukpcs-standard">Ghatnachakra Minerals</a> — 13 questions (UPPCS 12 · UKPCS 1)</li>
+      <li><a href="../subjects/geography/21_World_Minerals_Energy/#n1-coal">Coal</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/geography/21_World_Minerals_Energy/#n2-iron-ore">Iron ore</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/geography/21_World_Minerals_Energy/#n8-other-world-minerals">Other world minerals</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/geography/21_World_Minerals_Energy/#n6-natural-gas">Natural gas</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/geography/21_World_Minerals_Energy/#n4-tin">Tin</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/geography/21_World_Minerals_Energy/#n3-copper">Copper</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/21_World_Minerals_Energy/#n5-petroleum">Petroleum</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/geography/21_World_Minerals_Energy/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="geography-03-Drainage-System-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="geography-03-Drainage-System-md" aria-label="Mark Topic 3 — Drainage System done">
+    <span class="ct-title">Topic 3 — Drainage System</span>
+    <span class="ct-pills">27 Qs · UPPCS 27 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/geography/03_Drainage_System/#31-himalayan-rivers">Himalayan rivers</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/geography/03_Drainage_System/#32-peninsular-rivers">Peninsular rivers</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/03_Drainage_System/#34-river-features-and-patterns">River features and patterns</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/geography/03_Drainage_System/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="geography-02-Climate-of-India-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="geography-02-Climate-of-India-md" aria-label="Mark Topic 2 — Climate of India done">
+    <span class="ct-title">Topic 2 — Climate of India</span>
+    <span class="ct-pills">25 Qs · UPPCS 20 · UKPCS 5</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/geography/02_Climate_of_India/#24-classification-and-oceanatmosphere-phenomena">Classification and ocean–atmosphere phenomena</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/geography/02_Climate_of_India/#21-climate-basics">Climate Basics</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/02_Climate_of_India/#22-monsoon-system">Monsoon System</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/geography/02_Climate_of_India/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="geography-01-Indian-Physical-Geography-Mountains-Hills-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="geography-01-Indian-Physical-Geography-Mountains-Hills-md" aria-label="Mark Topic 1 — Indian Physical Geography: Mountains &amp; Hills done">
+    <span class="ct-title">Topic 1 — Indian Physical Geography: Mountains &amp; Hills</span>
+    <span class="ct-pills">24 Qs · UPPCS 19 · UKPCS 5</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/geography/01_Indian_Physical_Geography_Mountains_Hills/#13-peninsular-mountains-hills-plateaus">Peninsular Mountains, Hills &amp; Plateaus</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/geography/01_Indian_Physical_Geography_Mountains_Hills/#12-himalayan-mountain-system">Himalayan Mountain System</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/01_Indian_Physical_Geography_Mountains_Hills/#15-locational-framework">Locational Framework</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/01_Indian_Physical_Geography_Mountains_Hills/#14-passes-peaks-sacred-geography">Passes, Peaks &amp; Sacred Geography</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/01_Indian_Physical_Geography_Mountains_Hills/#11-physiographic-divisions-of-india">Physiographic Divisions of India</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/geography/01_Indian_Physical_Geography_Mountains_Hills/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="geography-17-World-Rivers-and-Lakes-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="geography-17-World-Rivers-and-Lakes-md" aria-label="Mark Topic 17 — World Rivers &amp; Lakes done">
+    <span class="ct-title">Topic 17 — World Rivers &amp; Lakes</span>
+    <span class="ct-pills">20 Qs · UPPCS 15 · UKPCS 5</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/geography/17_World_Rivers_and_Lakes/#complete-pyq-bank-ghatnachakra-world-rivers-cities-landforms-uppcs-ukpcs-standard">Ghatnachakra World Rivers Cities Landforms</a> — 6 questions (UPPCS 5 · UKPCS 1)</li>
+      <li><a href="../subjects/geography/17_World_Rivers_and_Lakes/#complete-pyq-bank-ghatnachakra-lakes-waterfalls-dams-uppcs-ukpcs-standard">Ghatnachakra Lakes Waterfalls Dams</a> — 4 questions (UPPCS 3 · UKPCS 1)</li>
+      <li><a href="../subjects/geography/17_World_Rivers_and_Lakes/#n1-world-rivers">World Rivers</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/geography/17_World_Rivers_and_Lakes/#n3-cities-on-rivers">Cities on Rivers</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/17_World_Rivers_and_Lakes/#n4-international-border-rivers">International / Border Rivers</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/17_World_Rivers_and_Lakes/#n7-lakes">Lakes</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/17_World_Rivers_and_Lakes/#n2-world-deltas">World deltas</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/geography/17_World_Rivers_and_Lakes/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="geography-19-World-Regional-Geography-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="geography-19-World-Regional-Geography-md" aria-label="Mark Topic 19 — World Regional Geography done">
+    <span class="ct-title">Topic 19 — World Regional Geography</span>
+    <span class="ct-pills">20 Qs · UPPCS 20 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/geography/19_World_Regional_Geography/#n4-south-east-asia">South-East Asia</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/geography/19_World_Regional_Geography/#n7-europe">Europe</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/geography/19_World_Regional_Geography/#n11-australia">Australia</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/geography/19_World_Regional_Geography/#n3-central-asia">Central Asia</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/geography/19_World_Regional_Geography/#n10-south-america">South America</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/geography/19_World_Regional_Geography/#n2-west-asia">West Asia</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/geography/19_World_Regional_Geography/#n8-africa">Africa</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/19_World_Regional_Geography/#n12-antarctica">Antarctica</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/19_World_Regional_Geography/#n1-asia-overview-east-south">Asia (overview + East + South)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/19_World_Regional_Geography/#n13-caribbean">Caribbean</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/geography/19_World_Regional_Geography/">Open chapter</a>
+  </div>
+</details>
 </div>
 
-
-## Geography { #geography }
-
-<p class="ct-subhead"><span class="ct-progress" data-ct-subject="geography"></span> 31 chapters</p>
-
-### Highly Important
-
-<div class="ct-list ct-list--high" markdown="1">
-
-- <span class="ct-row" data-ct-id="geography-07-Natural-Vegetation-Biodiversity-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="geography-07-Natural-Vegetation-Biodiversity-md" aria-label="Mark Topic 7 — Natural Vegetation & Biodiversity Geography done"> [Topic 7 — Natural Vegetation & Biodiversity Geography](subjects/geography/07_Natural_Vegetation_Biodiversity.md) <span class="ct-pills">UP 38 · UK 7</span></span>
-- <span class="ct-row" data-ct-id="geography-08-Minerals-Energy-Industry-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="geography-08-Minerals-Energy-Industry-md" aria-label="Mark Topic 8 — Minerals, Energy & Industry done"> [Topic 8 — Minerals, Energy & Industry](subjects/geography/08_Minerals_Energy_Industry.md) <span class="ct-pills">UP 41 · UK 3</span></span>
-- <span class="ct-row" data-ct-id="geography-23-Political-Map-Geography-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="geography-23-Political-Map-Geography-md" aria-label="Mark Topic 23 — Political & Map-Based Geography done"> [Topic 23 — Political & Map-Based Geography](subjects/geography/23_Political_Map_Geography.md) <span class="ct-pills">UP 35 · UK 6</span></span>
-- <span class="ct-row" data-ct-id="geography-18-World-Landforms-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="geography-18-World-Landforms-md" aria-label="Mark Topic 18 — World Landforms done"> [Topic 18 — World Landforms](subjects/geography/18_World_Landforms.md) <span class="ct-pills">UP 34 · UK 6</span></span>
-- <span class="ct-row" data-ct-id="geography-14-Earth-and-Universe-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="geography-14-Earth-and-Universe-md" aria-label="Mark Topic 14 — Earth & Universe done"> [Topic 14 — Earth & Universe](subjects/geography/14_Earth_and_Universe.md) <span class="ct-pills">UP 34 · UK 5</span></span>
-- <span class="ct-row" data-ct-id="geography-04-Lakes-Waterfalls-Water-Resources-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="geography-04-Lakes-Waterfalls-Water-Resources-md" aria-label="Mark Topic 4 — Lakes, Waterfalls & Water Resources done"> [Topic 4 — Lakes, Waterfalls & Water Resources](subjects/geography/04_Lakes_Waterfalls_Water_Resources.md) <span class="ct-pills">UP 33 · UK 4</span></span>
-- <span class="ct-row" data-ct-id="geography-uttar-pradesh-24-Geography-of-Uttar-Pradesh-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="geography-uttar-pradesh-24-Geography-of-Uttar-Pradesh-md" aria-label="Mark Topic 24 — Geography of Uttar Pradesh done"> [Topic 24 — Geography of Uttar Pradesh](subjects/geography/uttar pradesh/24_Geography_of_Uttar_Pradesh.md) <span class="ct-pills">UP 33 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="geography-21-World-Minerals-Energy-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="geography-21-World-Minerals-Energy-md" aria-label="Mark Topic 21 — World Minerals & Energy done"> [Topic 21 — World Minerals & Energy](subjects/geography/21_World_Minerals_Energy.md) <span class="ct-pills">UP 27 · UK 5</span></span>
-- <span class="ct-row" data-ct-id="geography-03-Drainage-System-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="geography-03-Drainage-System-md" aria-label="Mark Topic 3 — Drainage System done"> [Topic 3 — Drainage System](subjects/geography/03_Drainage_System.md) <span class="ct-pills">UP 27 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="geography-02-Climate-of-India-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="geography-02-Climate-of-India-md" aria-label="Mark Topic 2 — Climate of India done"> [Topic 2 — Climate of India](subjects/geography/02_Climate_of_India.md) <span class="ct-pills">UP 20 · UK 5</span></span>
-- <span class="ct-row" data-ct-id="geography-01-Indian-Physical-Geography-Mountains-Hills-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="geography-01-Indian-Physical-Geography-Mountains-Hills-md" aria-label="Mark Topic 1 — Indian Physical Geography: Mountains & Hills done"> [Topic 1 — Indian Physical Geography: Mountains & Hills](subjects/geography/01_Indian_Physical_Geography_Mountains_Hills.md) <span class="ct-pills">UP 19 · UK 5</span></span>
-- <span class="ct-row" data-ct-id="geography-17-World-Rivers-and-Lakes-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="geography-17-World-Rivers-and-Lakes-md" aria-label="Mark Topic 17 — World Rivers & Lakes done"> [Topic 17 — World Rivers & Lakes](subjects/geography/17_World_Rivers_and_Lakes.md) <span class="ct-pills">UP 15 · UK 5</span></span>
-- <span class="ct-row" data-ct-id="geography-19-World-Regional-Geography-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="geography-19-World-Regional-Geography-md" aria-label="Mark Topic 19 — World Regional Geography done"> [Topic 19 — World Regional Geography](subjects/geography/19_World_Regional_Geography.md) <span class="ct-pills">UP 20 · UK 0</span></span>
-
+<h3 class="ct-group-title">Medium Important</h3>
+<div class="ct-list ct-list--medium">
+<details class="ct-row" data-ct-id="geography-16-Oceans-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="geography-16-Oceans-md" aria-label="Mark Topic 16 — Oceans done">
+    <span class="ct-title">Topic 16 — Oceans</span>
+    <span class="ct-pills">31 Qs · UPPCS 27 · UKPCS 4</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/geography/16_Oceans/#complete-pyq-bank-ghatnachakra-hydrosphere-seas-currents-salinity-tides-trenches-uppcs-ukpcs-standard">Ghatnachakra Hydrosphere Seas Currents Salinity Tides Trenches</a> — 13 questions (UPPCS 10 · UKPCS 3)</li>
+      <li><a href="../subjects/geography/16_Oceans/#n8-canals-waterways">Canals &amp; Waterways</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/geography/16_Oceans/#n4-ocean-currents-warm-cold">Ocean Currents (warm &amp; cold)</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/geography/16_Oceans/#complete-pyq-bank-ghatnachakra-straits-canals-coral-uppcs-ukpcs-standard">Ghatnachakra Straits Canals Coral</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/geography/16_Oceans/#n2-ocean-floor-ridge-shelf-slope-guyot">Ocean Floor, Ridge, Shelf, Slope, Guyot</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/16_Oceans/#n1-oceans-seas">Oceans &amp; Seas</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/16_Oceans/#complete-pyq-bank-oceans-20182025">Oceans (2018–2025)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/16_Oceans/#n11-polar-regions-antarctic-treaty">Polar Regions &amp; Antarctic Treaty</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/16_Oceans/#n5-salinity">Salinity</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/16_Oceans/#n6-tides">Tides</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/16_Oceans/#n3-trenches">Trenches</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/geography/16_Oceans/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="geography-06-Agriculture-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="geography-06-Agriculture-md" aria-label="Mark Topic 6 — Agriculture done">
+    <span class="ct-title">Topic 6 — Agriculture</span>
+    <span class="ct-pills">28 Qs · UPPCS 28 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/geography/06_Agriculture/#complete-pyq-bank-agriculture-20182025">Agriculture (2018–2025)</a> — 26 questions (UPPCS 26)</li>
+      <li><a href="../subjects/geography/06_Agriculture/#n5-agricultural-regions-agro-climatic-zones">Agricultural Regions &amp; Agro-climatic Zones</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/06_Agriculture/#n10-msp-agricultural-marketing">MSP &amp; Agricultural Marketing</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/geography/06_Agriculture/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="geography-09-Transport-Communication-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="geography-09-Transport-Communication-md" aria-label="Mark Topic 9 — Transport &amp; Communication done">
+    <span class="ct-title">Topic 9 — Transport &amp; Communication</span>
+    <span class="ct-pills">26 Qs · UPPCS 20 · UKPCS 6</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/geography/09_Transport_Communication/#complete-pyq-bank-ghatnachakra-world-transport-ports-mapping-uppcs-ukpcs-standard">Ghatnachakra World Transport Ports Mapping</a> — 5 questions (UPPCS 4 · UKPCS 1)</li>
+      <li><a href="../subjects/geography/09_Transport_Communication/#n1-railways">Railways</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/geography/09_Transport_Communication/#n5-airports">Airports</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/geography/09_Transport_Communication/#n4-ports-harbours-maritime-trade">Ports, Harbours, Maritime Trade</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/geography/09_Transport_Communication/#n2-roads-expressways-bharatmala">Roads, Expressways, Bharatmala</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/geography/09_Transport_Communication/#n8-communication-basic">Communication (Basic)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/09_Transport_Communication/#n6-pipelines">Pipelines</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/09_Transport_Communication/#n7-sagarmala-blue-economy-gati-shakti-nlp">Sagarmala, Blue Economy, Gati Shakti, NLP</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/09_Transport_Communication/#n3-waterways">Waterways</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/geography/09_Transport_Communication/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="geography-11-Population-Geography-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="geography-11-Population-Geography-md" aria-label="Mark Topic 11 — Population Geography done">
+    <span class="ct-title">Topic 11 — Population Geography</span>
+    <span class="ct-pills">23 Qs · UPPCS 23 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/geography/11_Population_Geography/#complete-pyq-bank-population-geography-20182025">Population Geography (2018–2025)</a> — 8 questions (UPPCS 8)</li>
+      <li><a href="../subjects/geography/11_Population_Geography/#n7-birth-rate-death-rate-natural-growth-tfr">Birth Rate, Death Rate, Natural Growth, TFR</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/geography/11_Population_Geography/#n13-demographic-transition-theories">Demographic Transition &amp; Theories</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/geography/11_Population_Geography/#n10-urbanization">Urbanization</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/geography/11_Population_Geography/#n1-census-of-india">Census of India</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/11_Population_Geography/#n5-child-sex-ratio">Child Sex Ratio</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/11_Population_Geography/#n6-literacy">Literacy</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/11_Population_Geography/#n3-population-density">Population Density</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/11_Population_Geography/#n2-population-distribution">Population Distribution</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/11_Population_Geography/#n12-population-pyramid-age-structure">Population Pyramid &amp; Age Structure</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/11_Population_Geography/#n4-sex-ratio">Sex Ratio</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/geography/11_Population_Geography/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="geography-15-Geomorphology-and-Landform-Processes-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="geography-15-Geomorphology-and-Landform-Processes-md" aria-label="Mark Topic 15 — Geomorphology &amp; Landform Processes done">
+    <span class="ct-title">Topic 15 — Geomorphology &amp; Landform Processes</span>
+    <span class="ct-pills">23 Qs · UPPCS 10 · UKPCS 13</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/geography/15_Geomorphology_and_Landform_Processes/#complete-pyq-bank-ghatnachakra-extra-drill-uppcs-ukpcs-standard">Ghatnachakra / Extra Drill</a> — 7 questions (UPPCS 1 · UKPCS 6)</li>
+      <li><a href="../subjects/geography/15_Geomorphology_and_Landform_Processes/#complete-pyq-bank-ukpcs-geomorphology-landform-processes">UKPCS (Geomorphology / landform processes)</a> — 7 questions (UKPCS 7)</li>
+      <li><a href="../subjects/geography/15_Geomorphology_and_Landform_Processes/#n6-types-of-deltas">Types of Deltas</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/geography/15_Geomorphology_and_Landform_Processes/#n7-structural-basins-fault-valley-drainage">Structural Basins &amp; Fault Valley Drainage</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/geography/15_Geomorphology_and_Landform_Processes/#n1-rocks-igneous-sedimentary-metamorphic">Rocks — Igneous, Sedimentary, Metamorphic</a> — 2 questions (UPPCS 2)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/geography/15_Geomorphology_and_Landform_Processes/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="geography-05-Soils-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="geography-05-Soils-md" aria-label="Mark Topic 5 — Soils done">
+    <span class="ct-title">Topic 5 — Soils</span>
+    <span class="ct-pills">9 Qs · UPPCS 9 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/geography/05_Soils/#complete-pyq-bank-ghatnachakra-the-soil-uppcs-ukpcs-standard">Ghatnachakra The Soil</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/geography/05_Soils/#n2-soil-types">Soil Types</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/geography/05_Soils/#n1-formation-profile-classification">Formation, Profile, Classification</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/05_Soils/#n3-texture-fertility-erosion-conservation">Texture, Fertility, Erosion, Conservation</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/geography/05_Soils/">Open chapter</a>
+  </div>
+</details>
 </div>
 
-### Medium Important
-
-<div class="ct-list ct-list--medium" markdown="1">
-
-- <span class="ct-row" data-ct-id="geography-16-Oceans-md" data-group="medium" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="geography-16-Oceans-md" aria-label="Mark Topic 16 — Oceans done"> [Topic 16 — Oceans](subjects/geography/16_Oceans.md) <span class="ct-pills">UP 27 · UK 4</span></span>
-- <span class="ct-row" data-ct-id="geography-06-Agriculture-md" data-group="medium" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="geography-06-Agriculture-md" aria-label="Mark Topic 6 — Agriculture done"> [Topic 6 — Agriculture](subjects/geography/06_Agriculture.md) <span class="ct-pills">UP 28 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="geography-09-Transport-Communication-md" data-group="medium" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="geography-09-Transport-Communication-md" aria-label="Mark Topic 9 — Transport & Communication done"> [Topic 9 — Transport & Communication](subjects/geography/09_Transport_Communication.md) <span class="ct-pills">UP 20 · UK 6</span></span>
-- <span class="ct-row" data-ct-id="geography-11-Population-Geography-md" data-group="medium" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="geography-11-Population-Geography-md" aria-label="Mark Topic 11 — Population Geography done"> [Topic 11 — Population Geography](subjects/geography/11_Population_Geography.md) <span class="ct-pills">UP 23 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="geography-15-Geomorphology-and-Landform-Processes-md" data-group="medium" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="geography-15-Geomorphology-and-Landform-Processes-md" aria-label="Mark Topic 15 — Geomorphology & Landform Processes done"> [Topic 15 — Geomorphology & Landform Processes](subjects/geography/15_Geomorphology_and_Landform_Processes.md) <span class="ct-pills">UP 10 · UK 13</span></span>
-- <span class="ct-row" data-ct-id="geography-05-Soils-md" data-group="medium" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="geography-05-Soils-md" aria-label="Mark Topic 5 — Soils done"> [Topic 5 — Soils](subjects/geography/05_Soils.md) <span class="ct-pills">UP 9 · UK 0</span></span>
-
+<h3 class="ct-group-title">Least Important</h3>
+<div class="ct-list ct-list--least">
+<details class="ct-row" data-ct-id="geography-22-World-Industries-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="geography-22-World-Industries-md" aria-label="Mark Topic 22 — World Industries done">
+    <span class="ct-title">Topic 22 — World Industries</span>
+    <span class="ct-pills">19 Qs · UPPCS 19 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/geography/22_World_Industries/#complete-pyq-bank-ghatnachakra-world-industries-uppcs-ukpcs-standard">Ghatnachakra World Industries</a> — 6 questions (UPPCS 6)</li>
+      <li><a href="../subjects/geography/22_World_Industries/#complete-pyq-bank-ghatnachakra-local-winds-uppcs-ukpcs-standard">Ghatnachakra Local Winds</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/geography/22_World_Industries/#n5-trade-routes">Trade routes</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/geography/22_World_Industries/#n6-world-local-winds">World local winds</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/geography/22_World_Industries/#n3-industrial-cities">Industrial cities</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/22_World_Industries/#n4-ports-and-seaports">Ports and seaports</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/geography/22_World_Industries/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="geography-10-Tribes-Institutions-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="geography-10-Tribes-Institutions-md" aria-label="Mark Topic 10 — Tribes &amp; Institutions done">
+    <span class="ct-title">Topic 10 — Tribes &amp; Institutions</span>
+    <span class="ct-pills">16 Qs · UPPCS 16 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/geography/10_Tribes_Institutions/#complete-pyq-bank-ghatnachakra-major-tribes-of-the-world-uppcs-ukpcs-standard">Ghatnachakra Major Tribes of the World</a> — 8 questions (UPPCS 8)</li>
+      <li><a href="../subjects/geography/10_Tribes_Institutions/#n6-world-tribes">World tribes</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/geography/10_Tribes_Institutions/#n1-tribes-of-india">Tribes of India</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/geography/10_Tribes_Institutions/#n8-agricultural-dairy-horticulture-and-forest-institutes">Agricultural, dairy, horticulture and forest institutes</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/10_Tribes_Institutions/#n5-andaman-nicobar">Andaman &amp; Nicobar</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/geography/10_Tribes_Institutions/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="geography-20-World-Agriculture-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="geography-20-World-Agriculture-md" aria-label="Mark Topic 20 — World Agriculture done">
+    <span class="ct-title">Topic 20 — World Agriculture</span>
+    <span class="ct-pills">16 Qs · UPPCS 16 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/geography/20_World_Agriculture/#complete-pyq-bank-ghatnachakra-agriculture-livestock-uppcs-ukpcs-standard">Ghatnachakra Agriculture &amp; Livestock</a> — 6 questions (UPPCS 6)</li>
+      <li><a href="../subjects/geography/20_World_Agriculture/#n1-agriculture-world-systems">Agriculture (world systems)</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/geography/20_World_Agriculture/#n5-plantation-crops-the-system">Plantation crops (the system)</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/geography/20_World_Agriculture/#n8-cocoa">Cocoa</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/20_World_Agriculture/#n7-coffee">Coffee</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/geography/20_World_Agriculture/#n9-rubber">Rubber</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/geography/20_World_Agriculture/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="geography-13-Disaster-Geography-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="geography-13-Disaster-Geography-md" aria-label="Mark Topic 13 — Disaster Geography done">
+    <span class="ct-title">Topic 13 — Disaster Geography</span>
+    <span class="ct-pills">12 Qs · UPPCS 12 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/geography/13_Disaster_Geography/#complete-pyq-bank-disaster-geography-20182025">Disaster Geography (2018–2025)</a> — 8 questions (UPPCS 8)</li>
+      <li><a href="../subjects/geography/13_Disaster_Geography/#n11-disaster-management-framework">Disaster Management Framework</a> — 3 questions (UPPCS 3)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/geography/13_Disaster_Geography/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="geography-12-Human-Geography-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="geography-12-Human-Geography-md" aria-label="Mark Topic 12 — Human Geography (Settlements) done">
+    <span class="ct-title">Topic 12 — Human Geography (Settlements)</span>
+    <span class="ct-pills">10 Qs · UPPCS 10 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/geography/12_Human_Geography/#complete-pyq-bank-human-geography-settlements-20182025">Human Geography / Settlements (2018–2025)</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/geography/12_Human_Geography/#n6-smart-villages-scheme-years">Smart Villages &amp; Scheme Years</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/geography/12_Human_Geography/#n5-smart-cities-heritage-cities">Smart Cities &amp; Heritage Cities</a> — 2 questions (UPPCS 2)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/geography/12_Human_Geography/">Open chapter</a>
+  </div>
+</details>
 </div>
 
-### Least Important
-
-<div class="ct-list ct-list--least" markdown="1">
-
-- <span class="ct-row" data-ct-id="geography-22-World-Industries-md" data-group="least" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="geography-22-World-Industries-md" aria-label="Mark Topic 22 — World Industries done"> [Topic 22 — World Industries](subjects/geography/22_World_Industries.md) <span class="ct-pills">UP 19 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="geography-10-Tribes-Institutions-md" data-group="least" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="geography-10-Tribes-Institutions-md" aria-label="Mark Topic 10 — Tribes & Institutions done"> [Topic 10 — Tribes & Institutions](subjects/geography/10_Tribes_Institutions.md) <span class="ct-pills">UP 16 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="geography-20-World-Agriculture-md" data-group="least" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="geography-20-World-Agriculture-md" aria-label="Mark Topic 20 — World Agriculture done"> [Topic 20 — World Agriculture](subjects/geography/20_World_Agriculture.md) <span class="ct-pills">UP 16 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="geography-13-Disaster-Geography-md" data-group="least" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="geography-13-Disaster-Geography-md" aria-label="Mark Topic 13 — Disaster Geography done"> [Topic 13 — Disaster Geography](subjects/geography/13_Disaster_Geography.md) <span class="ct-pills">UP 12 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="geography-12-Human-Geography-md" data-group="least" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="geography-12-Human-Geography-md" aria-label="Mark Topic 12 — Human Geography (Settlements) done"> [Topic 12 — Human Geography (Settlements)](subjects/geography/12_Human_Geography.md) <span class="ct-pills">UP 10 · UK 0</span></span>
-
+<h3 class="ct-group-title">Uttarakhand — Highly Important</h3>
+<div class="ct-list ct-list--high">
+<details class="ct-row" data-ct-id="geography-uttarakhand-03-Vegetation-and-Wildlife-md" data-group="high" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="geography-uttarakhand-03-Vegetation-and-Wildlife-md" aria-label="Mark Topic 3 — Vegetation &amp; Wildlife done">
+    <span class="ct-title">Topic 3 — Vegetation &amp; Wildlife</span>
+    <span class="ct-pills">13 Qs · UPPCS 0 · UKPCS 13</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/geography/uttarakhand/03_Vegetation_and_Wildlife/#ukpcs-inline-pyqs">UKPCS Inline PYQs</a> — 7 questions (UKPCS 7)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/geography/uttarakhand/03_Vegetation_and_Wildlife/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="geography-uttarakhand-07-Transport-Tourism-Natural-Hazards-md" data-group="high" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="geography-uttarakhand-07-Transport-Tourism-Natural-Hazards-md" aria-label="Mark Topic 7 — Transport, Tourism &amp; Hazards done">
+    <span class="ct-title">Topic 7 — Transport, Tourism &amp; Hazards</span>
+    <span class="ct-pills">7 Qs · UPPCS 0 · UKPCS 7</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/geography/uttarakhand/07_Transport_Tourism_Natural_Hazards/#ukpcs-inline-practice-questions">UKPCS Inline &amp; Practice Questions</a> — 3 questions (UKPCS 3)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/geography/uttarakhand/07_Transport_Tourism_Natural_Hazards/">Open chapter</a>
+  </div>
+</details>
 </div>
 
-### Uttarakhand — Highly Important
-
-<div class="ct-list ct-list--high" markdown="1">
-
-- <span class="ct-row" data-ct-id="geography-uttarakhand-03-Vegetation-and-Wildlife-md" data-group="high" data-uk="1"><input type="checkbox" class="ct-check" data-ct-id="geography-uttarakhand-03-Vegetation-and-Wildlife-md" aria-label="Mark Topic 3 — Vegetation & Wildlife done"> [Topic 3 — Vegetation & Wildlife](subjects/geography/uttarakhand/03_Vegetation_and_Wildlife.md) <span class="ct-pills">UP 0 · UK 13</span></span>
-- <span class="ct-row" data-ct-id="geography-uttarakhand-07-Transport-Tourism-Natural-Hazards-md" data-group="high" data-uk="1"><input type="checkbox" class="ct-check" data-ct-id="geography-uttarakhand-07-Transport-Tourism-Natural-Hazards-md" aria-label="Mark Topic 7 — Transport, Tourism & Hazards done"> [Topic 7 — Transport, Tourism & Hazards](subjects/geography/uttarakhand/07_Transport_Tourism_Natural_Hazards.md) <span class="ct-pills">UP 0 · UK 7</span></span>
-
+<h3 class="ct-group-title">Uttarakhand — Medium Important</h3>
+<div class="ct-list ct-list--medium">
+<details class="ct-row" data-ct-id="geography-uttarakhand-01-Location-Relief-Structure-md" data-group="medium" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="geography-uttarakhand-01-Location-Relief-Structure-md" aria-label="Mark Topic 1 — Location, Relief &amp; Structure done">
+    <span class="ct-title">Topic 1 — Location, Relief &amp; Structure</span>
+    <span class="ct-pills">4 Qs · UPPCS 0 · UKPCS 4</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/geography/uttarakhand/01_Location_Relief_Structure/#ukpcs-inline-pyqs">UKPCS Inline PYQs</a> — 2 questions (UKPCS 2)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/geography/uttarakhand/01_Location_Relief_Structure/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="geography-uttarakhand-05-Agriculture-Animal-Husbandry-Irrigation-md" data-group="medium" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="geography-uttarakhand-05-Agriculture-Animal-Husbandry-Irrigation-md" aria-label="Mark Topic 5 — Agri, AH &amp; Irrigation done">
+    <span class="ct-title">Topic 5 — Agri, AH &amp; Irrigation</span>
+    <span class="ct-pills">4 Qs · UPPCS 0 · UKPCS 4</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/geography/uttarakhand/05_Agriculture_Animal_Husbandry_Irrigation/#ukpcs-inline-pyqs">UKPCS Inline PYQs</a> — 2 questions (UKPCS 2)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/geography/uttarakhand/05_Agriculture_Animal_Husbandry_Irrigation/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="geography-uttarakhand-06-Population-SC-ST-Settlements-md" data-group="medium" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="geography-uttarakhand-06-Population-SC-ST-Settlements-md" aria-label="Mark Topic 6 — Population, SC/ST &amp; Settlements done">
+    <span class="ct-title">Topic 6 — Population, SC/ST &amp; Settlements</span>
+    <span class="ct-pills">4 Qs · UPPCS 0 · UKPCS 4</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/geography/uttarakhand/06_Population_SC_ST_Settlements/#ukpcs-inline-practice-questions">UKPCS Inline &amp; Practice Questions</a> — 2 questions (UKPCS 2)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/geography/uttarakhand/06_Population_SC_ST_Settlements/">Open chapter</a>
+  </div>
+</details>
 </div>
 
-### Uttarakhand — Medium Important
-
-<div class="ct-list ct-list--medium" markdown="1">
-
-- <span class="ct-row" data-ct-id="geography-uttarakhand-01-Location-Relief-Structure-md" data-group="medium" data-uk="1"><input type="checkbox" class="ct-check" data-ct-id="geography-uttarakhand-01-Location-Relief-Structure-md" aria-label="Mark Topic 1 — Location, Relief & Structure done"> [Topic 1 — Location, Relief & Structure](subjects/geography/uttarakhand/01_Location_Relief_Structure.md) <span class="ct-pills">UP 0 · UK 4</span></span>
-- <span class="ct-row" data-ct-id="geography-uttarakhand-05-Agriculture-Animal-Husbandry-Irrigation-md" data-group="medium" data-uk="1"><input type="checkbox" class="ct-check" data-ct-id="geography-uttarakhand-05-Agriculture-Animal-Husbandry-Irrigation-md" aria-label="Mark Topic 5 — Agri, AH & Irrigation done"> [Topic 5 — Agri, AH & Irrigation](subjects/geography/uttarakhand/05_Agriculture_Animal_Husbandry_Irrigation.md) <span class="ct-pills">UP 0 · UK 4</span></span>
-- <span class="ct-row" data-ct-id="geography-uttarakhand-06-Population-SC-ST-Settlements-md" data-group="medium" data-uk="1"><input type="checkbox" class="ct-check" data-ct-id="geography-uttarakhand-06-Population-SC-ST-Settlements-md" aria-label="Mark Topic 6 — Population, SC/ST & Settlements done"> [Topic 6 — Population, SC/ST & Settlements](subjects/geography/uttarakhand/06_Population_SC_ST_Settlements.md) <span class="ct-pills">UP 0 · UK 4</span></span>
-
+<h3 class="ct-group-title">Uttarakhand — Least Important</h3>
+<div class="ct-list ct-list--least">
+<details class="ct-row" data-ct-id="geography-uttarakhand-04-Minerals-Power-Industry-md" data-group="least" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="geography-uttarakhand-04-Minerals-Power-Industry-md" aria-label="Mark Topic 4 — Minerals, Power &amp; Industry done">
+    <span class="ct-title">Topic 4 — Minerals, Power &amp; Industry</span>
+    <span class="ct-pills">3 Qs · UPPCS 0 · UKPCS 3</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/geography/uttarakhand/04_Minerals_Power_Industry/#ukpcs-inline-pyq">UKPCS Inline PYQ</a> — 1 question (UKPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/geography/uttarakhand/04_Minerals_Power_Industry/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="geography-uttarakhand-02-Climate-and-Drainage-md" data-group="least" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="geography-uttarakhand-02-Climate-and-Drainage-md" aria-label="Mark Topic 2 — Climate &amp; Drainage done">
+    <span class="ct-title">Topic 2 — Climate &amp; Drainage</span>
+    <span class="ct-pills">2 Qs · UPPCS 0 · UKPCS 2</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/geography/uttarakhand/02_Climate_and_Drainage/#ukpcs-inline-practice-questions">UKPCS Inline &amp; Practice Questions</a> — 1 question (UKPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/geography/uttarakhand/02_Climate_and_Drainage/">Open chapter</a>
+  </div>
+</details>
 </div>
 
-### Uttarakhand — Least Important
+  </div>
+</details>
 
-<div class="ct-list ct-list--least" markdown="1">
-
-- <span class="ct-row" data-ct-id="geography-uttarakhand-04-Minerals-Power-Industry-md" data-group="least" data-uk="1"><input type="checkbox" class="ct-check" data-ct-id="geography-uttarakhand-04-Minerals-Power-Industry-md" aria-label="Mark Topic 4 — Minerals, Power & Industry done"> [Topic 4 — Minerals, Power & Industry](subjects/geography/uttarakhand/04_Minerals_Power_Industry.md) <span class="ct-pills">UP 0 · UK 3</span></span>
-- <span class="ct-row" data-ct-id="geography-uttarakhand-02-Climate-and-Drainage-md" data-group="least" data-uk="1"><input type="checkbox" class="ct-check" data-ct-id="geography-uttarakhand-02-Climate-and-Drainage-md" aria-label="Mark Topic 2 — Climate & Drainage done"> [Topic 2 — Climate & Drainage](subjects/geography/uttarakhand/02_Climate_and_Drainage.md) <span class="ct-pills">UP 0 · UK 2</span></span>
-
+<details class="ct-subject" id="environment-and-ecology" data-ct-subject="environment-and-ecology" name="ct-subject">
+  <summary>
+    <span class="ct-subject-title">Environment and Ecology</span>
+    <span class="ct-progress" data-ct-subject="environment-and-ecology"></span>
+    <span class="ct-subject-count">47 chapters</span>
+  </summary>
+  <div class="ct-subject-body">
+<h3 class="ct-group-title">Highly Important</h3>
+<div class="ct-list ct-list--high">
+<details class="ct-row" data-ct-id="environments-ecology-01-Environment-Basics-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="environments-ecology-01-Environment-Basics-md" aria-label="Mark Topic 1 — Environment Basics done">
+    <span class="ct-title">Topic 1 — Environment Basics</span>
+    <span class="ct-pills">36 Qs · UPPCS 36 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/environments%20%26%20ecology/01_Environment_Basics/#14-humanenvironment-interaction">Human–Environment Interaction</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/01_Environment_Basics/#11-environment-meaning">Environment – Meaning</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/01_Environment_Basics/#13-classification-of-environment">Classification of Environment</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/01_Environment_Basics/#12-environmental-components">Environmental Components</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/01_Environment_Basics/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="environments-ecology-02-Ecology-and-Ecosystem-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="environments-ecology-02-Ecology-and-Ecosystem-md" aria-label="Mark Topic 2 — Ecology &amp; Ecosystem done">
+    <span class="ct-title">Topic 2 — Ecology &amp; Ecosystem</span>
+    <span class="ct-pills">30 Qs · UPPCS 30 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/environments%20%26%20ecology/02_Ecology_and_Ecosystem/#25-ecological-niche">Ecological Niche</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/02_Ecology_and_Ecosystem/#211-ecological-efficiency">Ecological Efficiency</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/02_Ecology_and_Ecosystem/#28-ecological-succession">Ecological Succession</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/02_Ecology_and_Ecosystem/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="environments-ecology-18-International-Environmental-Agreements-and-Conferences-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="environments-ecology-18-International-Environmental-Agreements-and-Conferences-md" aria-label="Mark Topic 18 — International Environmental Agreements &amp; Conferences done">
+    <span class="ct-title">Topic 18 — International Environmental Agreements &amp; Conferences</span>
+    <span class="ct-pills">13 Qs · UPPCS 6 · UKPCS 7</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/environments%20%26%20ecology/18_International_Environmental_Agreements_and_Conferences/#mains-answer-framework">Mains Answer Framework</a> — 4 questions (UKPCS 4)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/18_International_Environmental_Agreements_and_Conferences/#181-conferences-stockholm-brundtland-rio-agenda-21-sd-summits">Conferences — Stockholm, Brundtland, Rio, Agenda 21 &amp; SD Summits</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/18_International_Environmental_Agreements_and_Conferences/#184-biodiversity-species-treaties-cbd-cites-cms-ramsar">Biodiversity &amp; Species Treaties — CBD, CITES, CMS &amp; Ramsar</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/18_International_Environmental_Agreements_and_Conferences/#182-climate-treaties-unfccc-kyoto-protocol-paris-agreement">Climate Treaties — UNFCCC, Kyoto Protocol &amp; Paris Agreement</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/18_International_Environmental_Agreements_and_Conferences/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="environments-ecology-22-Renewable-Energy-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="environments-ecology-22-Renewable-Energy-md" aria-label="Mark Topic 22 — Renewable Energy done">
+    <span class="ct-title">Topic 22 — Renewable Energy</span>
+    <span class="ct-pills">12 Qs · UPPCS 12 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/environments%20%26%20ecology/22_Renewable_Energy/#226-small-hydro-projects">Small Hydro Projects</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/22_Renewable_Energy/#223-biomass-energy">Biomass Energy</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/22_Renewable_Energy/#221-solar-energy">Solar Energy</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/22_Renewable_Energy/#225-tidal-energy">Tidal Energy</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/22_Renewable_Energy/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="environments-ecology-38-Pollution-Advanced-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="environments-ecology-38-Pollution-Advanced-md" aria-label="Mark Topic 38 — Pollution (Advanced) done">
+    <span class="ct-title">Topic 38 — Pollution (Advanced)</span>
+    <span class="ct-pills">12 Qs · UPPCS 12 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/environments%20%26%20ecology/38_Pollution_Advanced/#382-air-quality">Air Quality</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/38_Pollution_Advanced/#3811-groundwater-pollution">Groundwater Pollution</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/38_Pollution_Advanced/#385-smog">Smog</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/38_Pollution_Advanced/#387-industrial-emissions">Industrial Emissions</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/38_Pollution_Advanced/#3818-noise-standards">Noise Standards</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/38_Pollution_Advanced/#3815-pesticides-and-environment">Pesticides and Environment</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/38_Pollution_Advanced/#386-photochemical-smog">Photochemical Smog</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/38_Pollution_Advanced/#3817-sources-of-noise-pollution">Sources of Noise Pollution</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/38_Pollution_Advanced/#3810-surface-water-pollution">Surface Water Pollution</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/38_Pollution_Advanced/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="environments-ecology-04-Biodiversity-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="environments-ecology-04-Biodiversity-md" aria-label="Mark Topic 4 — Biodiversity done">
+    <span class="ct-title">Topic 4 — Biodiversity</span>
+    <span class="ct-pills">12 Qs · UPPCS 7 · UKPCS 5</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/environments%20%26%20ecology/04_Biodiversity/#mains-answer-framework">Mains Answer Framework</a> — 3 questions (UKPCS 3)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/04_Biodiversity/#47-biodiversity-conservation">Biodiversity Conservation</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/04_Biodiversity/#48-biodiversity-hotspots">Biodiversity Hotspots</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/04_Biodiversity/#46-biodiversity-loss">Biodiversity Loss</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/04_Biodiversity/#43-global-indian-biodiversity">Global &amp; Indian Biodiversity</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/04_Biodiversity/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="environments-ecology-06-Protected-Areas-and-Conservation-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="environments-ecology-06-Protected-Areas-and-Conservation-md" aria-label="Mark Topic 6 — Protected Areas &amp; Conservation done">
+    <span class="ct-title">Topic 6 — Protected Areas &amp; Conservation</span>
+    <span class="ct-pills">11 Qs · UPPCS 11 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/environments%20%26%20ecology/06_Protected_Areas_and_Conservation/#63-biosphere-reserve">Biosphere Reserve</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/06_Protected_Areas_and_Conservation/#62-national-park">National Park</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/06_Protected_Areas_and_Conservation/#69-ramsar-sites">Ramsar Sites</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/06_Protected_Areas_and_Conservation/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="environments-ecology-32-National-Parks-and-Protected-Areas-Advanced-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="environments-ecology-32-National-Parks-and-Protected-Areas-Advanced-md" aria-label="Mark Topic 32 — National Parks &amp; Protected Areas (Advanced) done">
+    <span class="ct-title">Topic 32 — National Parks &amp; Protected Areas (Advanced)</span>
+    <span class="ct-pills">10 Qs · UPPCS 10 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/environments%20%26%20ecology/32_National_Parks_and_Protected_Areas_Advanced/#323-national-parks-of-india">National Parks of India</a> — 5 questions (UPPCS 5)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/32_National_Parks_and_Protected_Areas_Advanced/#322-wildlife-sanctuaries-of-uttar-pradesh">Wildlife Sanctuaries of Uttar Pradesh</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/32_National_Parks_and_Protected_Areas_Advanced/#321-national-parks-of-uttar-pradesh">National Parks of Uttar Pradesh</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/32_National_Parks_and_Protected_Areas_Advanced/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="environments-ecology-36-Ozone-Layer-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="environments-ecology-36-Ozone-Layer-md" aria-label="Mark Topic 36 — Ozone Layer done">
+    <span class="ct-title">Topic 36 — Ozone Layer</span>
+    <span class="ct-pills">10 Qs · UPPCS 10 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/environments%20%26%20ecology/36_Ozone_Layer/#365-montreal-protocol">Montreal Protocol</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/36_Ozone_Layer/#361-ozone-layer">Ozone Layer</a> — 3 questions (UPPCS 3)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/36_Ozone_Layer/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="environments-ecology-37-Greenhouse-Gases-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="environments-ecology-37-Greenhouse-Gases-md" aria-label="Mark Topic 37 — Greenhouse Gases done">
+    <span class="ct-title">Topic 37 — Greenhouse Gases</span>
+    <span class="ct-pills">10 Qs · UPPCS 10 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/environments%20%26%20ecology/37_Greenhouse_Gases/#372-methane-ch₄">Methane (CH₄)</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/37_Greenhouse_Gases/#376-chlorofluorocarbons-cfcs">Chlorofluorocarbons (CFCs)</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/37_Greenhouse_Gases/#375-ozone-as-greenhouse-gas">Ozone (as Greenhouse Gas)</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/37_Greenhouse_Gases/#371-carbon-dioxide-co₂">Carbon Dioxide (CO₂)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/37_Greenhouse_Gases/#373-nitrous-oxide-n₂o">Nitrous Oxide (N₂O)</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/37_Greenhouse_Gases/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="environments-ecology-21-Species-and-Ecology-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="environments-ecology-21-Species-and-Ecology-md" aria-label="Mark Topic 21 — Species &amp; Ecology done">
+    <span class="ct-title">Topic 21 — Species &amp; Ecology</span>
+    <span class="ct-pills">9 Qs · UPPCS 9 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/environments%20%26%20ecology/21_Species_and_Ecology/#215-coral-reefs">Coral Reefs</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/21_Species_and_Ecology/#217-himalayan-ecosystem">Himalayan Ecosystem</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/21_Species_and_Ecology/#214-mangroves">Mangroves</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/21_Species_and_Ecology/#213-wetlands">Wetlands</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/21_Species_and_Ecology/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="environments-ecology-10-Climate-Change-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="environments-ecology-10-Climate-Change-md" aria-label="Mark Topic 10 — Climate Change done">
+    <span class="ct-title">Topic 10 — Climate Change</span>
+    <span class="ct-pills">8 Qs · UPPCS 5 · UKPCS 3</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/environments%20%26%20ecology/10_Climate_Change/#109-climate-mitigation">Climate Mitigation</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/10_Climate_Change/#mains-answer-framework">Mains Answer Framework</a> — 2 questions (UKPCS 2)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/10_Climate_Change/#107-climate-change-impacts">Climate Change Impacts</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/10_Climate_Change/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="environments-ecology-15-Sustainable-Development-and-Environmental-Governance-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="environments-ecology-15-Sustainable-Development-and-Environmental-Governance-md" aria-label="Mark Topic 15 — Sustainable Development &amp; Environmental Governance done">
+    <span class="ct-title">Topic 15 — Sustainable Development &amp; Environmental Governance</span>
+    <span class="ct-pills">8 Qs · UPPCS 8 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/environments%20%26%20ecology/15_Sustainable_Development_and_Environmental_Governance/#152-sdgs-sdgs-2030">SDGs &amp; SDGs 2030</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/15_Sustainable_Development_and_Environmental_Governance/#153-environmental-governance-justice-ethics">Environmental Governance, Justice &amp; Ethics</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/15_Sustainable_Development_and_Environmental_Governance/#151-sustainable-development">Sustainable Development</a> — 2 questions (UPPCS 2)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/15_Sustainable_Development_and_Environmental_Governance/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="environments-ecology-25-Global-Environmental-Geography-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="environments-ecology-25-Global-Environmental-Geography-md" aria-label="Mark Topic 25 — Global Environmental Geography done">
+    <span class="ct-title">Topic 25 — Global Environmental Geography</span>
+    <span class="ct-pills">8 Qs · UPPCS 8 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/environments%20%26%20ecology/25_Global_Environmental_Geography/#254-world-deserts-critical-ecosystems">World Deserts &amp; Critical Ecosystems</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/25_Global_Environmental_Geography/#255-floral-regions-vegetation-matching">Floral Regions &amp; Vegetation Matching</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/25_Global_Environmental_Geography/#251-scope-climate-controls">Scope &amp; Climate Controls</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/25_Global_Environmental_Geography/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="environments-ecology-27-Renewable-and-Non-Renewable-Energy-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="environments-ecology-27-Renewable-and-Non-Renewable-Energy-md" aria-label="Mark Topic 27 — Renewable &amp; Non-Renewable Energy done">
+    <span class="ct-title">Topic 27 — Renewable &amp; Non-Renewable Energy</span>
+    <span class="ct-pills">8 Qs · UPPCS 8 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/environments%20%26%20ecology/27_Renewable_and_Non_Renewable_Energy/#279-biogas">Biogas</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/27_Renewable_and_Non_Renewable_Energy/#277-biomass-energy">Biomass Energy</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/27_Renewable_and_Non_Renewable_Energy/#274-non-conventional-sources-of-energy">Non-conventional Sources of Energy</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/27_Renewable_and_Non_Renewable_Energy/#272-non-renewable-energy">Non-renewable Energy</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/27_Renewable_and_Non_Renewable_Energy/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="environments-ecology-08-Forests-and-Forest-Management-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="environments-ecology-08-Forests-and-Forest-Management-md" aria-label="Mark Topic 8 — Forests &amp; Forest Management done">
+    <span class="ct-title">Topic 8 — Forests &amp; Forest Management</span>
+    <span class="ct-pills">8 Qs · UPPCS 8 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/environments%20%26%20ecology/08_Forests_and_Forest_Management/#82-forest-types-in-india">Forest Types in India</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/08_Forests_and_Forest_Management/#87-agroforestry">Agroforestry</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/08_Forests_and_Forest_Management/#88-joint-forest-management-jfm">Joint Forest Management (JFM)</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/08_Forests_and_Forest_Management/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="environments-ecology-09-Pollution-and-Waste-Management-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="environments-ecology-09-Pollution-and-Waste-Management-md" aria-label="Mark Topic 9 — Pollution &amp; Waste Management done">
+    <span class="ct-title">Topic 9 — Pollution &amp; Waste Management</span>
+    <span class="ct-pills">8 Qs · UPPCS 8 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/environments%20%26%20ecology/09_Pollution_and_Waste_Management/#93-air-pollution">Air Pollution</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/09_Pollution_and_Waste_Management/#91-environmental-pollution">Environmental Pollution</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/09_Pollution_and_Waste_Management/#99-marine-pollution">Marine Pollution</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/09_Pollution_and_Waste_Management/#94-water-pollution">Water Pollution</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/09_Pollution_and_Waste_Management/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="environments-ecology-34-Climate-Change-Advanced-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="environments-ecology-34-Climate-Change-Advanced-md" aria-label="Mark Topic 34 — Climate Change (Advanced) done">
+    <span class="ct-title">Topic 34 — Climate Change (Advanced)</span>
+    <span class="ct-pills">7 Qs · UPPCS 7 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/environments%20%26%20ecology/34_Climate_Change_Advanced/#344-greenhouse-gas-emissions">Greenhouse Gas Emissions</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/34_Climate_Change_Advanced/#3411-carbon-credit">Carbon Credit</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/34_Climate_Change_Advanced/#3413-climate-change-mitigation">Climate Change Mitigation</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/34_Climate_Change_Advanced/#3415-climate-change-policy-of-india">Climate Change Policy of India</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/34_Climate_Change_Advanced/#343-global-climate-monitoring">Global Climate Monitoring</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/34_Climate_Change_Advanced/#345-sources-of-greenhouse-gases">Sources of Greenhouse Gases</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/34_Climate_Change_Advanced/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="environments-ecology-07-Wildlife-Conservation-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="environments-ecology-07-Wildlife-Conservation-md" aria-label="Mark Topic 7 — Wildlife Conservation done">
+    <span class="ct-title">Topic 7 — Wildlife Conservation</span>
+    <span class="ct-pills">7 Qs · UPPCS 7 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/environments%20%26%20ecology/07_Wildlife_Conservation/#71-wildlife-conservation">Wildlife Conservation</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/07_Wildlife_Conservation/#79-vulture-conservation">Vulture Conservation</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/07_Wildlife_Conservation/">Open chapter</a>
+  </div>
+</details>
 </div>
 
-
-## Environment and Ecology { #environment-and-ecology }
-
-<p class="ct-subhead"><span class="ct-progress" data-ct-subject="environment-and-ecology"></span> 47 chapters</p>
-
-### Highly Important
-
-<div class="ct-list ct-list--high" markdown="1">
-
-- <span class="ct-row" data-ct-id="environments-ecology-01-Environment-Basics-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="environments-ecology-01-Environment-Basics-md" aria-label="Mark Topic 1 — Environment Basics done"> [Topic 1 — Environment Basics](subjects/environments & ecology/01_Environment_Basics.md) <span class="ct-pills">UP 36 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="environments-ecology-02-Ecology-and-Ecosystem-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="environments-ecology-02-Ecology-and-Ecosystem-md" aria-label="Mark Topic 2 — Ecology & Ecosystem done"> [Topic 2 — Ecology & Ecosystem](subjects/environments & ecology/02_Ecology_and_Ecosystem.md) <span class="ct-pills">UP 30 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="environments-ecology-18-International-Environmental-Agreements-and-Conferences-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="environments-ecology-18-International-Environmental-Agreements-and-Conferences-md" aria-label="Mark Topic 18 — International Environmental Agreements & Conferences done"> [Topic 18 — International Environmental Agreements & Conferences](subjects/environments & ecology/18_International_Environmental_Agreements_and_Conferences.md) <span class="ct-pills">UP 6 · UK 7</span></span>
-- <span class="ct-row" data-ct-id="environments-ecology-22-Renewable-Energy-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="environments-ecology-22-Renewable-Energy-md" aria-label="Mark Topic 22 — Renewable Energy done"> [Topic 22 — Renewable Energy](subjects/environments & ecology/22_Renewable_Energy.md) <span class="ct-pills">UP 12 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="environments-ecology-38-Pollution-Advanced-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="environments-ecology-38-Pollution-Advanced-md" aria-label="Mark Topic 38 — Pollution (Advanced) done"> [Topic 38 — Pollution (Advanced)](subjects/environments & ecology/38_Pollution_Advanced.md) <span class="ct-pills">UP 12 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="environments-ecology-04-Biodiversity-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="environments-ecology-04-Biodiversity-md" aria-label="Mark Topic 4 — Biodiversity done"> [Topic 4 — Biodiversity](subjects/environments & ecology/04_Biodiversity.md) <span class="ct-pills">UP 7 · UK 5</span></span>
-- <span class="ct-row" data-ct-id="environments-ecology-06-Protected-Areas-and-Conservation-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="environments-ecology-06-Protected-Areas-and-Conservation-md" aria-label="Mark Topic 6 — Protected Areas & Conservation done"> [Topic 6 — Protected Areas & Conservation](subjects/environments & ecology/06_Protected_Areas_and_Conservation.md) <span class="ct-pills">UP 11 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="environments-ecology-32-National-Parks-and-Protected-Areas-Advanced-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="environments-ecology-32-National-Parks-and-Protected-Areas-Advanced-md" aria-label="Mark Topic 32 — National Parks & Protected Areas (Advanced) done"> [Topic 32 — National Parks & Protected Areas (Advanced)](subjects/environments & ecology/32_National_Parks_and_Protected_Areas_Advanced.md) <span class="ct-pills">UP 10 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="environments-ecology-36-Ozone-Layer-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="environments-ecology-36-Ozone-Layer-md" aria-label="Mark Topic 36 — Ozone Layer done"> [Topic 36 — Ozone Layer](subjects/environments & ecology/36_Ozone_Layer.md) <span class="ct-pills">UP 10 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="environments-ecology-37-Greenhouse-Gases-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="environments-ecology-37-Greenhouse-Gases-md" aria-label="Mark Topic 37 — Greenhouse Gases done"> [Topic 37 — Greenhouse Gases](subjects/environments & ecology/37_Greenhouse_Gases.md) <span class="ct-pills">UP 10 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="environments-ecology-21-Species-and-Ecology-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="environments-ecology-21-Species-and-Ecology-md" aria-label="Mark Topic 21 — Species & Ecology done"> [Topic 21 — Species & Ecology](subjects/environments & ecology/21_Species_and_Ecology.md) <span class="ct-pills">UP 9 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="environments-ecology-10-Climate-Change-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="environments-ecology-10-Climate-Change-md" aria-label="Mark Topic 10 — Climate Change done"> [Topic 10 — Climate Change](subjects/environments & ecology/10_Climate_Change.md) <span class="ct-pills">UP 5 · UK 3</span></span>
-- <span class="ct-row" data-ct-id="environments-ecology-15-Sustainable-Development-and-Environmental-Governance-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="environments-ecology-15-Sustainable-Development-and-Environmental-Governance-md" aria-label="Mark Topic 15 — Sustainable Development & Environmental Governance done"> [Topic 15 — Sustainable Development & Environmental Governance](subjects/environments & ecology/15_Sustainable_Development_and_Environmental_Governance.md) <span class="ct-pills">UP 8 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="environments-ecology-25-Global-Environmental-Geography-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="environments-ecology-25-Global-Environmental-Geography-md" aria-label="Mark Topic 25 — Global Environmental Geography done"> [Topic 25 — Global Environmental Geography](subjects/environments & ecology/25_Global_Environmental_Geography.md) <span class="ct-pills">UP 8 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="environments-ecology-27-Renewable-and-Non-Renewable-Energy-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="environments-ecology-27-Renewable-and-Non-Renewable-Energy-md" aria-label="Mark Topic 27 — Renewable & Non-Renewable Energy done"> [Topic 27 — Renewable & Non-Renewable Energy](subjects/environments & ecology/27_Renewable_and_Non_Renewable_Energy.md) <span class="ct-pills">UP 8 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="environments-ecology-08-Forests-and-Forest-Management-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="environments-ecology-08-Forests-and-Forest-Management-md" aria-label="Mark Topic 8 — Forests & Forest Management done"> [Topic 8 — Forests & Forest Management](subjects/environments & ecology/08_Forests_and_Forest_Management.md) <span class="ct-pills">UP 8 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="environments-ecology-09-Pollution-and-Waste-Management-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="environments-ecology-09-Pollution-and-Waste-Management-md" aria-label="Mark Topic 9 — Pollution & Waste Management done"> [Topic 9 — Pollution & Waste Management](subjects/environments & ecology/09_Pollution_and_Waste_Management.md) <span class="ct-pills">UP 8 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="environments-ecology-34-Climate-Change-Advanced-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="environments-ecology-34-Climate-Change-Advanced-md" aria-label="Mark Topic 34 — Climate Change (Advanced) done"> [Topic 34 — Climate Change (Advanced)](subjects/environments & ecology/34_Climate_Change_Advanced.md) <span class="ct-pills">UP 7 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="environments-ecology-07-Wildlife-Conservation-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="environments-ecology-07-Wildlife-Conservation-md" aria-label="Mark Topic 7 — Wildlife Conservation done"> [Topic 7 — Wildlife Conservation](subjects/environments & ecology/07_Wildlife_Conservation.md) <span class="ct-pills">UP 7 · UK 0</span></span>
-
+<h3 class="ct-group-title">Medium Important</h3>
+<div class="ct-list ct-list--medium">
+<details class="ct-row" data-ct-id="environments-ecology-26-Water-Resources-and-Water-Conservation-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="environments-ecology-26-Water-Resources-and-Water-Conservation-md" aria-label="Mark Topic 26 — Water Resources &amp; Water Conservation done">
+    <span class="ct-title">Topic 26 — Water Resources &amp; Water Conservation</span>
+    <span class="ct-pills">7 Qs · UPPCS 7 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/environments%20%26%20ecology/26_Water_Resources_and_Water_Conservation/#264-watershed-management">Watershed Management</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/26_Water_Resources_and_Water_Conservation/#268-drinking-water-quality">Drinking Water Quality</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/26_Water_Resources_and_Water_Conservation/#267-groundwater-conservation">Groundwater Conservation</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/26_Water_Resources_and_Water_Conservation/#261-water-resources">Water Resources</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/26_Water_Resources_and_Water_Conservation/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="environments-ecology-35-Atmosphere-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="environments-ecology-35-Atmosphere-md" aria-label="Mark Topic 35 — Atmosphere done">
+    <span class="ct-title">Topic 35 — Atmosphere</span>
+    <span class="ct-pills">7 Qs · UPPCS 7 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/environments%20%26%20ecology/35_Atmosphere/#355-stratosphere">Stratosphere</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/35_Atmosphere/#352-atmospheric-composition">Atmospheric Composition</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/35_Atmosphere/#351-structure-of-the-atmosphere">Structure of the Atmosphere</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/35_Atmosphere/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="environments-ecology-23-Disaster-and-Environment-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="environments-ecology-23-Disaster-and-Environment-md" aria-label="Mark Topic 23 — Disaster &amp; Environment done">
+    <span class="ct-title">Topic 23 — Disaster &amp; Environment</span>
+    <span class="ct-pills">6 Qs · UPPCS 6 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/environments%20%26%20ecology/23_Disaster_and_Environment/#232-drought">Drought</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/23_Disaster_and_Environment/#236-forest-fires">Forest Fires</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/23_Disaster_and_Environment/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="environments-ecology-33-Biosphere-Reserves-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="environments-ecology-33-Biosphere-Reserves-md" aria-label="Mark Topic 33 — Biosphere Reserves done">
+    <span class="ct-title">Topic 33 — Biosphere Reserves</span>
+    <span class="ct-pills">6 Qs · UPPCS 6 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/environments%20%26%20ecology/33_Biosphere_Reserves/#332-major-biosphere-reserves-of-india">Major Biosphere Reserves of India</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/33_Biosphere_Reserves/#331-biosphere-reserve">Biosphere Reserve</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/33_Biosphere_Reserves/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="environments-ecology-42-International-Environmental-Organizations-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="environments-ecology-42-International-Environmental-Organizations-md" aria-label="Mark Topic 42 — International Environmental Organizations done">
+    <span class="ct-title">Topic 42 — International Environmental Organizations</span>
+    <span class="ct-pills">6 Qs · UPPCS 6 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/environments%20%26%20ecology/42_International_Environmental_Organizations/#422-undp">UNDP</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/42_International_Environmental_Organizations/#421-unep">UNEP</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/42_International_Environmental_Organizations/#424-unesco">UNESCO</a> — 2 questions (UPPCS 2)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/42_International_Environmental_Organizations/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="environments-ecology-05-Habitat-Flora-and-Fauna-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="environments-ecology-05-Habitat-Flora-and-Fauna-md" aria-label="Mark Topic 5 — Habitat, Flora &amp; Fauna done">
+    <span class="ct-title">Topic 5 — Habitat, Flora &amp; Fauna</span>
+    <span class="ct-pills">6 Qs · UPPCS 6 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/environments%20%26%20ecology/05_Habitat_Flora_and_Fauna/#51-habitat">Habitat</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/05_Habitat_Flora_and_Fauna/#52-habitat-conservation">Habitat Conservation</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/05_Habitat_Flora_and_Fauna/#53-flora-and-fauna">Flora and Fauna</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/05_Habitat_Flora_and_Fauna/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="environments-ecology-11-Ozone-Layer-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="environments-ecology-11-Ozone-Layer-md" aria-label="Mark Topic 11 — Ozone Layer done">
+    <span class="ct-title">Topic 11 — Ozone Layer</span>
+    <span class="ct-pills">5 Qs · UPPCS 5 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/environments%20%26%20ecology/11_Ozone_Layer/#114-montreal-protocol">Montreal Protocol</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/11_Ozone_Layer/#111-ozone-layer">Ozone Layer</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/11_Ozone_Layer/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="environments-ecology-24-Current-Environmental-Issues-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="environments-ecology-24-Current-Environmental-Issues-md" aria-label="Mark Topic 24 — Current Environmental Issues done">
+    <span class="ct-title">Topic 24 — Current Environmental Issues</span>
+    <span class="ct-pills">5 Qs · UPPCS 5 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/environments%20%26%20ecology/24_Current_Environmental_Issues/#246-blue-economy">Blue Economy</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/24_Current_Environmental_Issues/#242-carbon-credit">Carbon Credit</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/24_Current_Environmental_Issues/#243-carbon-trading">Carbon Trading</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/24_Current_Environmental_Issues/#247-life-mission">LiFE Mission</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/24_Current_Environmental_Issues/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="environments-ecology-31-Environmental-Days-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="environments-ecology-31-Environmental-Days-md" aria-label="Mark Topic 31 — Environmental Days done">
+    <span class="ct-title">Topic 31 — Environmental Days</span>
+    <span class="ct-pills">5 Qs · UPPCS 5 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/environments%20%26%20ecology/31_Environmental_Days/#317-world-ozone-day">World Ozone Day</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/31_Environmental_Days/#311-world-environment-day">World Environment Day</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/31_Environmental_Days/#312-world-wetlands-day">World Wetlands Day</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/31_Environmental_Days/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="environments-ecology-41-Environmental-Monitoring-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="environments-ecology-41-Environmental-Monitoring-md" aria-label="Mark Topic 41 — Environmental Monitoring done">
+    <span class="ct-title">Topic 41 — Environmental Monitoring</span>
+    <span class="ct-pills">5 Qs · UPPCS 5 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/environments%20%26%20ecology/41_Environmental_Monitoring/#411-environmental-indicators">Environmental Indicators</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/41_Environmental_Monitoring/#412-environmental-monitoring">Environmental Monitoring</a> — 2 questions (UPPCS 2)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/41_Environmental_Monitoring/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="environments-ecology-44-Current-Environmental-Issues-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="environments-ecology-44-Current-Environmental-Issues-md" aria-label="Mark Topic 44 — Current Environmental Issues done">
+    <span class="ct-title">Topic 44 — Current Environmental Issues</span>
+    <span class="ct-pills">4 Qs · UPPCS 4 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/environments%20%26%20ecology/44_Current_Environmental_Issues/#443-net-zero-emissions">Net Zero Emissions</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/44_Current_Environmental_Issues/#445-blue-economy">Blue Economy</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/44_Current_Environmental_Issues/#4411-life-mission">LiFE Mission</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/44_Current_Environmental_Issues/">Open chapter</a>
+  </div>
+</details>
 </div>
 
-### Medium Important
-
-<div class="ct-list ct-list--medium" markdown="1">
-
-- <span class="ct-row" data-ct-id="environments-ecology-26-Water-Resources-and-Water-Conservation-md" data-group="medium" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="environments-ecology-26-Water-Resources-and-Water-Conservation-md" aria-label="Mark Topic 26 — Water Resources & Water Conservation done"> [Topic 26 — Water Resources & Water Conservation](subjects/environments & ecology/26_Water_Resources_and_Water_Conservation.md) <span class="ct-pills">UP 7 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="environments-ecology-35-Atmosphere-md" data-group="medium" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="environments-ecology-35-Atmosphere-md" aria-label="Mark Topic 35 — Atmosphere done"> [Topic 35 — Atmosphere](subjects/environments & ecology/35_Atmosphere.md) <span class="ct-pills">UP 7 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="environments-ecology-23-Disaster-and-Environment-md" data-group="medium" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="environments-ecology-23-Disaster-and-Environment-md" aria-label="Mark Topic 23 — Disaster & Environment done"> [Topic 23 — Disaster & Environment](subjects/environments & ecology/23_Disaster_and_Environment.md) <span class="ct-pills">UP 6 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="environments-ecology-33-Biosphere-Reserves-md" data-group="medium" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="environments-ecology-33-Biosphere-Reserves-md" aria-label="Mark Topic 33 — Biosphere Reserves done"> [Topic 33 — Biosphere Reserves](subjects/environments & ecology/33_Biosphere_Reserves.md) <span class="ct-pills">UP 6 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="environments-ecology-42-International-Environmental-Organizations-md" data-group="medium" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="environments-ecology-42-International-Environmental-Organizations-md" aria-label="Mark Topic 42 — International Environmental Organizations done"> [Topic 42 — International Environmental Organizations](subjects/environments & ecology/42_International_Environmental_Organizations.md) <span class="ct-pills">UP 6 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="environments-ecology-05-Habitat-Flora-and-Fauna-md" data-group="medium" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="environments-ecology-05-Habitat-Flora-and-Fauna-md" aria-label="Mark Topic 5 — Habitat, Flora & Fauna done"> [Topic 5 — Habitat, Flora & Fauna](subjects/environments & ecology/05_Habitat_Flora_and_Fauna.md) <span class="ct-pills">UP 6 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="environments-ecology-11-Ozone-Layer-md" data-group="medium" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="environments-ecology-11-Ozone-Layer-md" aria-label="Mark Topic 11 — Ozone Layer done"> [Topic 11 — Ozone Layer](subjects/environments & ecology/11_Ozone_Layer.md) <span class="ct-pills">UP 5 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="environments-ecology-24-Current-Environmental-Issues-md" data-group="medium" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="environments-ecology-24-Current-Environmental-Issues-md" aria-label="Mark Topic 24 — Current Environmental Issues done"> [Topic 24 — Current Environmental Issues](subjects/environments & ecology/24_Current_Environmental_Issues.md) <span class="ct-pills">UP 5 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="environments-ecology-31-Environmental-Days-md" data-group="medium" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="environments-ecology-31-Environmental-Days-md" aria-label="Mark Topic 31 — Environmental Days done"> [Topic 31 — Environmental Days](subjects/environments & ecology/31_Environmental_Days.md) <span class="ct-pills">UP 5 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="environments-ecology-41-Environmental-Monitoring-md" data-group="medium" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="environments-ecology-41-Environmental-Monitoring-md" aria-label="Mark Topic 41 — Environmental Monitoring done"> [Topic 41 — Environmental Monitoring](subjects/environments & ecology/41_Environmental_Monitoring.md) <span class="ct-pills">UP 5 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="environments-ecology-44-Current-Environmental-Issues-md" data-group="medium" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="environments-ecology-44-Current-Environmental-Issues-md" aria-label="Mark Topic 44 — Current Environmental Issues done"> [Topic 44 — Current Environmental Issues](subjects/environments & ecology/44_Current_Environmental_Issues.md) <span class="ct-pills">UP 4 · UK 0</span></span>
-
+<h3 class="ct-group-title">Least Important</h3>
+<div class="ct-list ct-list--least">
+<details class="ct-row" data-ct-id="environments-ecology-12-Acid-Rain-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="environments-ecology-12-Acid-Rain-md" aria-label="Mark Topic 12 — Acid Rain done">
+    <span class="ct-title">Topic 12 — Acid Rain</span>
+    <span class="ct-pills">4 Qs · UPPCS 4 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/environments%20%26%20ecology/12_Acid_Rain/#121-acid-rain">Acid Rain</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/12_Acid_Rain/#122-causes">Causes</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/12_Acid_Rain/#123-effects">Effects</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/12_Acid_Rain/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="environments-ecology-30-Environmental-Literature-and-Awareness-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="environments-ecology-30-Environmental-Literature-and-Awareness-md" aria-label="Mark Topic 30 — Environmental Literature &amp; Awareness done">
+    <span class="ct-title">Topic 30 — Environmental Literature &amp; Awareness</span>
+    <span class="ct-pills">4 Qs · UPPCS 4 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/environments%20%26%20ecology/30_Environmental_Literature_and_Awareness/#301-environmental-literature">Environmental Literature</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/30_Environmental_Literature_and_Awareness/#303-environmental-awareness">Environmental Awareness</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/30_Environmental_Literature_and_Awareness/#302-environmental-education">Environmental Education</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/30_Environmental_Literature_and_Awareness/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="environments-ecology-43-International-Environmental-Agreements-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="environments-ecology-43-International-Environmental-Agreements-md" aria-label="Mark Topic 43 — International Environmental Agreements done">
+    <span class="ct-title">Topic 43 — International Environmental Agreements</span>
+    <span class="ct-pills">4 Qs · UPPCS 4 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/environments%20%26%20ecology/43_International_Environmental_Agreements/#432-kyoto-protocol">Kyoto Protocol</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/43_International_Environmental_Agreements/#435-ramsar-convention">Ramsar Convention</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/43_International_Environmental_Agreements/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="environments-ecology-13-Desertification-and-Land-Degradation-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="environments-ecology-13-Desertification-and-Land-Degradation-md" aria-label="Mark Topic 13 — Desertification &amp; Land Degradation done">
+    <span class="ct-title">Topic 13 — Desertification &amp; Land Degradation</span>
+    <span class="ct-pills">3 Qs · UPPCS 3 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/environments%20%26%20ecology/13_Desertification_and_Land_Degradation/#131-desertification">Desertification</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/13_Desertification_and_Land_Degradation/#133-soil-erosion">Soil Erosion</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/13_Desertification_and_Land_Degradation/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="environments-ecology-14-Environmental-Impact-Assessment-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="environments-ecology-14-Environmental-Impact-Assessment-md" aria-label="Mark Topic 14 — Environmental Impact Assessment done">
+    <span class="ct-title">Topic 14 — Environmental Impact Assessment</span>
+    <span class="ct-pills">3 Qs · UPPCS 3 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p>No tagged stems in the teaching or bank headings yet.</p>
+    <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/14_Environmental_Impact_Assessment/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="environments-ecology-19-Climate-and-Environmental-Institutions-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="environments-ecology-19-Climate-and-Environmental-Institutions-md" aria-label="Mark Topic 19 — Climate &amp; Environmental Institutions done">
+    <span class="ct-title">Topic 19 — Climate &amp; Environmental Institutions</span>
+    <span class="ct-pills">3 Qs · UPPCS 3 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/environments%20%26%20ecology/19_Climate_and_Environmental_Institutions/#192-unep">UNEP</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/19_Climate_and_Environmental_Institutions/#193-undp">UNDP</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/19_Climate_and_Environmental_Institutions/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="environments-ecology-20-Biodiversity-Conservation-Methods-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="environments-ecology-20-Biodiversity-Conservation-Methods-md" aria-label="Mark Topic 20 — Biodiversity Conservation Methods done">
+    <span class="ct-title">Topic 20 — Biodiversity Conservation Methods</span>
+    <span class="ct-pills">3 Qs · UPPCS 3 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/environments%20%26%20ecology/20_Biodiversity_Conservation_Methods/#202-ex-situ-conservation">Ex-situ Conservation</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/20_Biodiversity_Conservation_Methods/#201-in-situ-conservation">In-situ Conservation</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/20_Biodiversity_Conservation_Methods/#204-seed-bank">Seed Bank</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/20_Biodiversity_Conservation_Methods/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="environments-ecology-03-Food-Chain-and-Energy-Flow-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="environments-ecology-03-Food-Chain-and-Energy-Flow-md" aria-label="Mark Topic 3 — Food Chain &amp; Energy Flow done">
+    <span class="ct-title">Topic 3 — Food Chain &amp; Energy Flow</span>
+    <span class="ct-pills">3 Qs · UPPCS 3 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/environments%20%26%20ecology/03_Food_Chain_and_Energy_Flow/#34-energy-flow-in-ecosystem">Energy Flow in Ecosystem</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/03_Food_Chain_and_Energy_Flow/#33-trophic-levels">Trophic Levels</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/03_Food_Chain_and_Energy_Flow/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="environments-ecology-39-Acid-Rain-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="environments-ecology-39-Acid-Rain-md" aria-label="Mark Topic 39 — Acid Rain done">
+    <span class="ct-title">Topic 39 — Acid Rain</span>
+    <span class="ct-pills">3 Qs · UPPCS 3 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/environments%20%26%20ecology/39_Acid_Rain/#391-acid-rain">Acid Rain</a> — 2 questions (UPPCS 2)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/39_Acid_Rain/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="environments-ecology-40-Desertification-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="environments-ecology-40-Desertification-md" aria-label="Mark Topic 40 — Desertification done">
+    <span class="ct-title">Topic 40 — Desertification</span>
+    <span class="ct-pills">3 Qs · UPPCS 3 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/environments%20%26%20ecology/40_Desertification/#401-desertification">Desertification</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/40_Desertification/#403-drought">Drought</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/40_Desertification/#404-soil-erosion">Soil Erosion</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/40_Desertification/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="environments-ecology-16-Environmental-Organizations-India-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="environments-ecology-16-Environmental-Organizations-India-md" aria-label="Mark Topic 16 — Environmental Organizations (India) done">
+    <span class="ct-title">Topic 16 — Environmental Organizations (India)</span>
+    <span class="ct-pills">2 Qs · UPPCS 2 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/environments%20%26%20ecology/16_Environmental_Organizations_India/#162-central-pollution-control-board-cpcb-कदरय-परदषण-नयतरण-बरड-state-pollution-control-board-spcb-रजय-परदषण-नयतरण-बरड">Central Pollution Control Board (CPCB) (केंद्रीय प्रदूषण नियंत्रण बोर्ड) &amp; State Pollution Control Board (SPCB) (राज्य प्रदूषण नियंत्रण बोर्ड)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/16_Environmental_Organizations_India/#167-forest-survey-of-india-fsi-भरतय-वन-सरवकषण">Forest Survey of India (FSI) (भारतीय वन सर्वेक्षण)</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/16_Environmental_Organizations_India/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="environments-ecology-17-Environmental-Laws-and-Policies-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="environments-ecology-17-Environmental-Laws-and-Policies-md" aria-label="Mark Topic 17 — Environmental Laws &amp; Policies done">
+    <span class="ct-title">Topic 17 — Environmental Laws &amp; Policies</span>
+    <span class="ct-pills">2 Qs · UPPCS 2 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/environments%20%26%20ecology/17_Environmental_Laws_and_Policies/#172-environment-protection-act-1986">Environment (Protection) Act, 1986</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/17_Environmental_Laws_and_Policies/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="environments-ecology-28-Environmental-Research-and-Institutions-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="environments-ecology-28-Environmental-Research-and-Institutions-md" aria-label="Mark Topic 28 — Environmental Research &amp; Institutions done">
+    <span class="ct-title">Topic 28 — Environmental Research &amp; Institutions</span>
+    <span class="ct-pills">2 Qs · UPPCS 2 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/environments%20%26%20ecology/28_Environmental_Research_and_Institutions/#283-forest-survey-of-india-fsi-भरतय-वन-सरवकषण">Forest Survey of India (FSI) (भारतीय वन सर्वेक्षण)</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/28_Environmental_Research_and_Institutions/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="environments-ecology-29-Indian-Environmental-Movements-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="environments-ecology-29-Indian-Environmental-Movements-md" aria-label="Mark Topic 29 — Indian Environmental Movements done">
+    <span class="ct-title">Topic 29 — Indian Environmental Movements</span>
+    <span class="ct-pills">1 Qs · UPPCS 1 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/environments%20%26%20ecology/29_Indian_Environmental_Movements/#292-appiko-movement">Appiko Movement</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/29_Indian_Environmental_Movements/">Open chapter</a>
+  </div>
+</details>
 </div>
 
-### Least Important
-
-<div class="ct-list ct-list--least" markdown="1">
-
-- <span class="ct-row" data-ct-id="environments-ecology-12-Acid-Rain-md" data-group="least" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="environments-ecology-12-Acid-Rain-md" aria-label="Mark Topic 12 — Acid Rain done"> [Topic 12 — Acid Rain](subjects/environments & ecology/12_Acid_Rain.md) <span class="ct-pills">UP 4 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="environments-ecology-30-Environmental-Literature-and-Awareness-md" data-group="least" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="environments-ecology-30-Environmental-Literature-and-Awareness-md" aria-label="Mark Topic 30 — Environmental Literature & Awareness done"> [Topic 30 — Environmental Literature & Awareness](subjects/environments & ecology/30_Environmental_Literature_and_Awareness.md) <span class="ct-pills">UP 4 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="environments-ecology-43-International-Environmental-Agreements-md" data-group="least" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="environments-ecology-43-International-Environmental-Agreements-md" aria-label="Mark Topic 43 — International Environmental Agreements done"> [Topic 43 — International Environmental Agreements](subjects/environments & ecology/43_International_Environmental_Agreements.md) <span class="ct-pills">UP 4 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="environments-ecology-13-Desertification-and-Land-Degradation-md" data-group="least" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="environments-ecology-13-Desertification-and-Land-Degradation-md" aria-label="Mark Topic 13 — Desertification & Land Degradation done"> [Topic 13 — Desertification & Land Degradation](subjects/environments & ecology/13_Desertification_and_Land_Degradation.md) <span class="ct-pills">UP 3 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="environments-ecology-14-Environmental-Impact-Assessment-md" data-group="least" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="environments-ecology-14-Environmental-Impact-Assessment-md" aria-label="Mark Topic 14 — Environmental Impact Assessment done"> [Topic 14 — Environmental Impact Assessment](subjects/environments & ecology/14_Environmental_Impact_Assessment.md) <span class="ct-pills">UP 3 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="environments-ecology-19-Climate-and-Environmental-Institutions-md" data-group="least" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="environments-ecology-19-Climate-and-Environmental-Institutions-md" aria-label="Mark Topic 19 — Climate & Environmental Institutions done"> [Topic 19 — Climate & Environmental Institutions](subjects/environments & ecology/19_Climate_and_Environmental_Institutions.md) <span class="ct-pills">UP 3 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="environments-ecology-20-Biodiversity-Conservation-Methods-md" data-group="least" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="environments-ecology-20-Biodiversity-Conservation-Methods-md" aria-label="Mark Topic 20 — Biodiversity Conservation Methods done"> [Topic 20 — Biodiversity Conservation Methods](subjects/environments & ecology/20_Biodiversity_Conservation_Methods.md) <span class="ct-pills">UP 3 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="environments-ecology-03-Food-Chain-and-Energy-Flow-md" data-group="least" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="environments-ecology-03-Food-Chain-and-Energy-Flow-md" aria-label="Mark Topic 3 — Food Chain & Energy Flow done"> [Topic 3 — Food Chain & Energy Flow](subjects/environments & ecology/03_Food_Chain_and_Energy_Flow.md) <span class="ct-pills">UP 3 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="environments-ecology-39-Acid-Rain-md" data-group="least" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="environments-ecology-39-Acid-Rain-md" aria-label="Mark Topic 39 — Acid Rain done"> [Topic 39 — Acid Rain](subjects/environments & ecology/39_Acid_Rain.md) <span class="ct-pills">UP 3 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="environments-ecology-40-Desertification-md" data-group="least" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="environments-ecology-40-Desertification-md" aria-label="Mark Topic 40 — Desertification done"> [Topic 40 — Desertification](subjects/environments & ecology/40_Desertification.md) <span class="ct-pills">UP 3 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="environments-ecology-16-Environmental-Organizations-India-md" data-group="least" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="environments-ecology-16-Environmental-Organizations-India-md" aria-label="Mark Topic 16 — Environmental Organizations (India) done"> [Topic 16 — Environmental Organizations (India)](subjects/environments & ecology/16_Environmental_Organizations_India.md) <span class="ct-pills">UP 2 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="environments-ecology-17-Environmental-Laws-and-Policies-md" data-group="least" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="environments-ecology-17-Environmental-Laws-and-Policies-md" aria-label="Mark Topic 17 — Environmental Laws & Policies done"> [Topic 17 — Environmental Laws & Policies](subjects/environments & ecology/17_Environmental_Laws_and_Policies.md) <span class="ct-pills">UP 2 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="environments-ecology-28-Environmental-Research-and-Institutions-md" data-group="least" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="environments-ecology-28-Environmental-Research-and-Institutions-md" aria-label="Mark Topic 28 — Environmental Research & Institutions done"> [Topic 28 — Environmental Research & Institutions](subjects/environments & ecology/28_Environmental_Research_and_Institutions.md) <span class="ct-pills">UP 2 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="environments-ecology-29-Indian-Environmental-Movements-md" data-group="least" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="environments-ecology-29-Indian-Environmental-Movements-md" aria-label="Mark Topic 29 — Indian Environmental Movements done"> [Topic 29 — Indian Environmental Movements](subjects/environments & ecology/29_Indian_Environmental_Movements.md) <span class="ct-pills">UP 1 · UK 0</span></span>
-
+<h3 class="ct-group-title">Uttarakhand — Highly Important</h3>
+<div class="ct-list ct-list--high">
+<details class="ct-row" data-ct-id="environments-ecology-uttarakhand-02-Biodiversity-and-Protected-Areas-md" data-group="high" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="environments-ecology-uttarakhand-02-Biodiversity-and-Protected-Areas-md" aria-label="Mark 02 — Biodiversity &amp; Protected Areas done">
+    <span class="ct-title">02 — Biodiversity &amp; Protected Areas</span>
+    <span class="ct-pills">8 Qs · UPPCS 0 · UKPCS 8</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/environments%20%26%20ecology/uttarakhand/02_Biodiversity_and_Protected_Areas/#ukpcs-inline-pyqs">UKPCS Inline PYQs</a> — 4 questions (UKPCS 4)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/uttarakhand/02_Biodiversity_and_Protected_Areas/">Open chapter</a>
+  </div>
+</details>
 </div>
 
-### Uttarakhand — Highly Important
-
-<div class="ct-list ct-list--high" markdown="1">
-
-- <span class="ct-row" data-ct-id="environments-ecology-uttarakhand-02-Biodiversity-and-Protected-Areas-md" data-group="high" data-uk="1"><input type="checkbox" class="ct-check" data-ct-id="environments-ecology-uttarakhand-02-Biodiversity-and-Protected-Areas-md" aria-label="Mark 02 — Biodiversity & Protected Areas done"> [02 — Biodiversity & Protected Areas](subjects/environments & ecology/uttarakhand/02_Biodiversity_and_Protected_Areas.md) <span class="ct-pills">UP 0 · UK 8</span></span>
-
+<h3 class="ct-group-title">Uttarakhand — Medium Important</h3>
+<div class="ct-list ct-list--medium">
+<details class="ct-row" data-ct-id="environments-ecology-uttarakhand-03-Climate-Vulnerability-and-Governance-md" data-group="medium" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="environments-ecology-uttarakhand-03-Climate-Vulnerability-and-Governance-md" aria-label="Mark 03 — Climate Vulnerability &amp; Governance done">
+    <span class="ct-title">03 — Climate Vulnerability &amp; Governance</span>
+    <span class="ct-pills">5 Qs · UPPCS 0 · UKPCS 5</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/environments%20%26%20ecology/uttarakhand/03_Climate_Vulnerability_and_Governance/#ukpcs-inline-pyqs">UKPCS Inline PYQs</a> — 2 questions (UKPCS 2)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/uttarakhand/03_Climate_Vulnerability_and_Governance/">Open chapter</a>
+  </div>
+</details>
 </div>
 
-### Uttarakhand — Medium Important
-
-<div class="ct-list ct-list--medium" markdown="1">
-
-- <span class="ct-row" data-ct-id="environments-ecology-uttarakhand-03-Climate-Vulnerability-and-Governance-md" data-group="medium" data-uk="1"><input type="checkbox" class="ct-check" data-ct-id="environments-ecology-uttarakhand-03-Climate-Vulnerability-and-Governance-md" aria-label="Mark 03 — Climate Vulnerability & Governance done"> [03 — Climate Vulnerability & Governance](subjects/environments & ecology/uttarakhand/03_Climate_Vulnerability_and_Governance.md) <span class="ct-pills">UP 0 · UK 5</span></span>
-
+<h3 class="ct-group-title">Uttarakhand — Least Important</h3>
+<div class="ct-list ct-list--least">
+<details class="ct-row" data-ct-id="environments-ecology-uttarakhand-01-Natural-Resources-and-Climate-Contribution-md" data-group="least" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="environments-ecology-uttarakhand-01-Natural-Resources-and-Climate-Contribution-md" aria-label="Mark 01 — Natural Resources &amp; Climate Contribution done">
+    <span class="ct-title">01 — Natural Resources &amp; Climate Contribution</span>
+    <span class="ct-pills">0 Qs · UPPCS 0 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p>No tagged stems in the teaching or bank headings yet.</p>
+    <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/uttarakhand/01_Natural_Resources_and_Climate_Contribution/">Open chapter</a>
+  </div>
+</details>
 </div>
 
-### Uttarakhand — Least Important
+  </div>
+</details>
 
-<div class="ct-list ct-list--least" markdown="1">
-
-- <span class="ct-row" data-ct-id="environments-ecology-uttarakhand-01-Natural-Resources-and-Climate-Contribution-md" data-group="least" data-uk="1"><input type="checkbox" class="ct-check" data-ct-id="environments-ecology-uttarakhand-01-Natural-Resources-and-Climate-Contribution-md" aria-label="Mark 01 — Natural Resources & Climate Contribution done"> [01 — Natural Resources & Climate Contribution](subjects/environments & ecology/uttarakhand/01_Natural_Resources_and_Climate_Contribution.md) <span class="ct-pills">UP 0 · UK 0</span></span>
-
+<details class="ct-subject" id="polity" data-ct-subject="polity" name="ct-subject">
+  <summary>
+    <span class="ct-subject-title">Polity</span>
+    <span class="ct-progress" data-ct-subject="polity"></span>
+    <span class="ct-subject-count">33 chapters</span>
+  </summary>
+  <div class="ct-subject-body">
+<h3 class="ct-group-title">Highly Important</h3>
+<div class="ct-list ct-list--high">
+<details class="ct-row" data-ct-id="polity-02-Features-of-the-Constitution-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="polity-02-Features-of-the-Constitution-md" aria-label="Mark Topic 2 — Features of the Constitution done">
+    <span class="ct-title">Topic 2 — Features of the Constitution</span>
+    <span class="ct-pills">46 Qs · UPPCS 38 · UKPCS 8</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/polity/02_Features_of_the_Constitution/#ghatnachakra-extra-drill-preamble-governance-national-symbols">Preamble, Governance &amp; National Symbols</a> — 21 questions (UPPCS 21)</li>
+      <li><a href="../subjects/polity/02_Features_of_the_Constitution/#n4-federal-system-quasi-federal-nature-federal-vs-unitary">Federal system, quasi-federal nature, federal vs unitary</a> — 5 questions (UPPCS 5)</li>
+      <li><a href="../subjects/polity/02_Features_of_the_Constitution/#n7-basic-structure-doctrine">Basic Structure Doctrine</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/polity/02_Features_of_the_Constitution/#n6-preamble">Preamble</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/polity/02_Features_of_the_Constitution/#n5-parliamentary-system">Parliamentary system</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/polity/02_Features_of_the_Constitution/#n12-constitutional-principles">Constitutional principles</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/02_Features_of_the_Constitution/#n13-sources-of-the-indian-constitution-borrowed-features">Sources of the Indian Constitution (borrowed features)</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/polity/02_Features_of_the_Constitution/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="polity-13-Statutory-and-Non-Constitutional-Bodies-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="polity-13-Statutory-and-Non-Constitutional-Bodies-md" aria-label="Mark Topic 13 — Statutory &amp; Non-Constitutional Bodies done">
+    <span class="ct-title">Topic 13 — Statutory &amp; Non-Constitutional Bodies</span>
+    <span class="ct-pills">44 Qs · UPPCS 33 · UKPCS 11</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/polity/13_Statutory_and_Non_Constitutional_Bodies/#ghatnachakra-extra-drill-planning-commission-niti-aayog-and-ndc">Planning Commission, NITI Aayog and NDC</a> — 9 questions (UPPCS 5 · UKPCS 4)</li>
+      <li><a href="../subjects/polity/13_Statutory_and_Non_Constitutional_Bodies/#ghatnachakra-extra-drill-lokpal-and-important-commissions">Lokpal and Important Commissions</a> — 8 questions (UPPCS 6 · UKPCS 2)</li>
+      <li><a href="../subjects/polity/13_Statutory_and_Non_Constitutional_Bodies/#planning-commission-niti-aayog">Planning Commission → NITI Aayog</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/polity/13_Statutory_and_Non_Constitutional_Bodies/#rbi-rbi-act-1934-constitutional-relevance">RBI (RBI Act, 1934) — constitutional relevance</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/polity/13_Statutory_and_Non_Constitutional_Bodies/#cbi-central-bureau-of-investigation">CBI (Central Bureau of Investigation)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/13_Statutory_and_Non_Constitutional_Bodies/#cic-sic-rti-act-2005">CIC &amp; SIC (RTI Act, 2005)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/13_Statutory_and_Non_Constitutional_Bodies/#cvc-central-vigilance-commission">CVC (Central Vigilance Commission)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/13_Statutory_and_Non_Constitutional_Bodies/#lokpal-lokpal-and-lokayuktas-act-2013">Lokpal (Lokpal and Lokayuktas Act, 2013)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/13_Statutory_and_Non_Constitutional_Bodies/#ndma-disaster-management-act-2005">NDMA (Disaster Management Act, 2005)</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/polity/13_Statutory_and_Non_Constitutional_Bodies/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="polity-07-Parliament-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="polity-07-Parliament-md" aria-label="Mark Topic 7 — Parliament done">
+    <span class="ct-title">Topic 7 — Parliament</span>
+    <span class="ct-pills">44 Qs · UPPCS 38 · UKPCS 6</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/polity/07_Parliament/#rajya-sabha-composition-special-powers-art-80-83">Rajya Sabha — composition &amp; special powers (Art. 80, 83)</a> — 10 questions (UPPCS 10)</li>
+      <li><a href="../subjects/polity/07_Parliament/#financial-committees">Financial Committees</a> — 5 questions (UPPCS 5)</li>
+      <li><a href="../subjects/polity/07_Parliament/#ghatnachakra-extra-drill-parliamentary-committees">Parliamentary Committees</a> — 5 questions (UPPCS 3 · UKPCS 2)</li>
+      <li><a href="../subjects/polity/07_Parliament/#joint-sitting-art-108">Joint Sitting (Art. 108)</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/polity/07_Parliament/#lok-sabha-composition-art-8183-331">Lok Sabha — composition (Art. 81–83, 331)</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/polity/07_Parliament/#speaker-deputy-speaker-pro-tem-speaker">Speaker, Deputy Speaker, Pro Tem Speaker</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/polity/07_Parliament/#bills-types-and-traps">Bills — types and traps</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/polity/07_Parliament/#budget-the-three-funds-arts-112-265267">Budget &amp; the three funds (Arts. 112, 265–267)</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/polity/07_Parliament/#ghatnachakra-extra-drill-conduct-of-business-legislative-procedure">Conduct of Business &amp; Legislative Procedure</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/polity/07_Parliament/#chairman-of-the-rajya-sabha">Chairman of the Rajya Sabha</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/07_Parliament/#departmental-other-committees">Departmental &amp; other committees</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/07_Parliament/#parliament-the-frame-art-7981">Parliament — the frame (Art. 79–81)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/07_Parliament/#parliamentary-devices-motions">Parliamentary devices &amp; motions</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/07_Parliament/#qualification-disqualification-arts-84-101103">Qualification &amp; Disqualification (Arts. 84, 101–103)</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/polity/07_Parliament/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="polity-10-Local-Government-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="polity-10-Local-Government-md" aria-label="Mark Topic 10 — Local Government done">
+    <span class="ct-title">Topic 10 — Local Government</span>
+    <span class="ct-pills">41 Qs · UPPCS 34 · UKPCS 7</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/polity/10_Local_Government/#ghatnachakra-extra-drill-panchayati-raj-and-local-bodies">Panchayati Raj and Local Bodies</a> — 20 questions (UPPCS 16 · UKPCS 4)</li>
+      <li><a href="../subjects/polity/10_Local_Government/#evolution-from-ripon-to-73rd">Evolution — from Ripon to 73rd</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/polity/10_Local_Government/#arts-243p243zg-elaboration">Arts. 243P–243ZG (elaboration)</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/polity/10_Local_Government/#frame-why-pris-exist">Frame — why PRIs exist</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/polity/10_Local_Government/#arts-243243o-elaboration">Arts. 243–243O (elaboration)</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/polity/10_Local_Government/#eleventh-schedule-29-subjects-243g">Eleventh Schedule — 29 subjects (243G)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/10_Local_Government/#pesa-1996">PESA, 1996</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/10_Local_Government/#reservation-art-243d">Reservation (Art. 243D)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/10_Local_Government/#sources-of-pri-finance-243h-practice">Sources of PRI finance (243H + practice)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/10_Local_Government/#urban-evolution-firsts">Urban evolution (firsts)</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/polity/10_Local_Government/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="polity-01-Constitutional-Development-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="polity-01-Constitutional-Development-md" aria-label="Mark Topic 1 — Constitutional Development done">
+    <span class="ct-title">Topic 1 — Constitutional Development</span>
+    <span class="ct-pills">38 Qs · UPPCS 36 · UKPCS 2</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/polity/01_Constitutional_Development/#ghatnachakra-extra-drill-constitutional-development">Constitutional Development</a> — 18 questions (UPPCS 17 · UKPCS 1)</li>
+      <li><a href="../subjects/polity/01_Constitutional_Development/#n9-constituent-assembly">Constituent Assembly</a> — 5 questions (UPPCS 5)</li>
+      <li><a href="../subjects/polity/01_Constitutional_Development/#n6-simon-commission-to-poona-pact">Simon Commission to Poona Pact</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/polity/01_Constitutional_Development/#n8-interim-government-mountbatten-plan-independence-act">Interim Government, Mountbatten Plan &amp; Independence Act</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/polity/01_Constitutional_Development/#n7-august-offer-to-cabinet-mission">August Offer to Cabinet Mission</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/polity/01_Constitutional_Development/#n2-crown-rule-and-indian-councils-acts">Crown rule and Indian Councils Acts</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/01_Constitutional_Development/#n3-government-of-india-act-1919-montaguchelmsford">Government of India Act, 1919 (Montagu–Chelmsford)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/01_Constitutional_Development/#n10-sources-borrowed-features">Sources / Borrowed Features</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/polity/01_Constitutional_Development/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="polity-16-Constitutional-Amendments-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="polity-16-Constitutional-Amendments-md" aria-label="Mark Topic 16 — Constitutional Amendments done">
+    <span class="ct-title">Topic 16 — Constitutional Amendments</span>
+    <span class="ct-pills">37 Qs · UPPCS 31 · UKPCS 6</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/polity/16_Constitutional_Amendments/#ghatnachakra-extra-drill-constitutional-amendments">Constitutional Amendments</a> — 19 questions (UPPCS 17 · UKPCS 2)</li>
+      <li><a href="../subjects/polity/16_Constitutional_Amendments/#42nd-amendment-1976">42nd Amendment, 1976</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/polity/16_Constitutional_Amendments/#basic-structure-case-ladder-20242021-fact">Basic Structure — case ladder (2024/2021 fact)</a> — 3 questions (UPPCS 3)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/polity/16_Constitutional_Amendments/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="polity-09-Judiciary-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="polity-09-Judiciary-md" aria-label="Mark Topic 9 — Judiciary done">
+    <span class="ct-title">Topic 9 — Judiciary</span>
+    <span class="ct-pills">35 Qs · UPPCS 32 · UKPCS 3</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/polity/09_Judiciary/#supreme-court-composition-organisation">Supreme Court — composition &amp; organisation</a> — 16 questions (UPPCS 14 · UKPCS 2)</li>
+      <li><a href="../subjects/polity/09_Judiciary/#ghatnachakra-extra-drill-high-courts">High Courts</a> — 6 questions (UPPCS 6)</li>
+      <li><a href="../subjects/polity/09_Judiciary/#jurisdiction-of-the-supreme-court">Jurisdiction of the Supreme Court</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/polity/09_Judiciary/#pil-public-interest-litigation">PIL (Public Interest Litigation)</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/polity/09_Judiciary/#tribunals-part-xiva-arts-323a323b">Tribunals — Part XIVA (Arts. 323A–323B)</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/polity/09_Judiciary/#judicial-review">Judicial Review</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/09_Judiciary/#women-judges-firsts">Women Judges (firsts)</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/polity/09_Judiciary/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="polity-12-Constitutional-Bodies-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="polity-12-Constitutional-Bodies-md" aria-label="Mark Topic 12 — Constitutional Bodies done">
+    <span class="ct-title">Topic 12 — Constitutional Bodies</span>
+    <span class="ct-pills">33 Qs · UPPCS 29 · UKPCS 4</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/polity/12_Constitutional_Bodies/#ghatnachakra-extra-drill-finance-commission">Finance Commission</a> — 6 questions (UPPCS 5 · UKPCS 1)</li>
+      <li><a href="../subjects/polity/12_Constitutional_Bodies/#ghatnachakra-extra-drill-public-service-commissions-and-linguistic-minorities">Public Service Commissions and Linguistic Minorities</a> — 5 questions (UPPCS 5)</li>
+      <li><a href="../subjects/polity/12_Constitutional_Bodies/#attorney-general-art-76-advocate-general-art-165">Attorney General (Art. 76) &amp; Advocate General (Art. 165)</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/polity/12_Constitutional_Bodies/#election-commission-arts-324329">Election Commission (Arts. 324–329)</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/polity/12_Constitutional_Bodies/#official-language-commission-art-344-part-xvii">Official Language Commission (Art. 344) &amp; Part XVII</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/polity/12_Constitutional_Bodies/#cag-arts-148151">CAG (Arts. 148–151)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/12_Constitutional_Bodies/#constitutional-vs-statutory-vs-executive">Constitutional vs Statutory vs Executive</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/12_Constitutional_Bodies/#special-officer-for-linguistic-minorities-art-350b">Special Officer for Linguistic Minorities (Art. 350B)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/12_Constitutional_Bodies/#state-psc-joint-psc">State PSC &amp; Joint PSC</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/12_Constitutional_Bodies/#upsc-arts-315323">UPSC (Arts. 315–323)</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/polity/12_Constitutional_Bodies/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="polity-06-Union-Executive-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="polity-06-Union-Executive-md" aria-label="Mark Topic 6 — Union Executive done">
+    <span class="ct-title">Topic 6 — Union Executive</span>
+    <span class="ct-pills">33 Qs · UPPCS 27 · UKPCS 6</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/polity/06_Union_Executive/#ghatnachakra-extra-drill-council-of-ministers-prime-minister">Council of Ministers &amp; Prime Minister</a> — 8 questions (UPPCS 8)</li>
+      <li><a href="../subjects/polity/06_Union_Executive/#ghatnachakra-extra-drill-the-vice-president">The Vice-President</a> — 5 questions (UPPCS 3 · UKPCS 2)</li>
+      <li><a href="../subjects/polity/06_Union_Executive/#president-powers">President — Powers</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/polity/06_Union_Executive/#vice-president-art-6371">Vice-President (Art. 63–71)</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/polity/06_Union_Executive/#comptroller-and-auditor-general-नयतरक-महलखपरकषक-of-india-art-148151">Comptroller and Auditor General (नियंत्रक-महालेखापरीक्षक) of India (Art. 148–151)</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/polity/06_Union_Executive/#cabinet-kitchen-cabinet-committees-secretariat">Cabinet, Kitchen Cabinet, Committees &amp; Secretariat</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/06_Union_Executive/#council-of-ministers-art-74-75-77-88">Council of Ministers (Art. 74, 75, 77, 88)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/06_Union_Executive/#president-chronology-high-yield">President chronology (high-yield)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/06_Union_Executive/#president-election-art-5255">President — Election (Art. 52–55)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/06_Union_Executive/#ghatnachakra-extra-drill-the-president">The President</a> — 1 question (UKPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/polity/06_Union_Executive/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="polity-05-Fundamental-Rights-and-Duties-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="polity-05-Fundamental-Rights-and-Duties-md" aria-label="Mark Topic 5 — Fundamental Rights &amp; Duties done">
+    <span class="ct-title">Topic 5 — Fundamental Rights &amp; Duties</span>
+    <span class="ct-pills">24 Qs · UPPCS 17 · UKPCS 7</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/polity/05_Fundamental_Rights_and_Duties/#n19-directive-principles-रजय-क-नत-नदशक-ततव-of-state-policy-articles-3651-part-iv">Directive Principles (राज्य के नीति निदेशक तत्व) of State Policy — Articles 36–51 (Part IV)</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/polity/05_Fundamental_Rights_and_Duties/#n21-fundamental-duties-article-51a-part-iva">Fundamental Duties — Article 51A (Part IVA)</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/polity/05_Fundamental_Rights_and_Duties/#n4-right-to-equality-articles-1418">Right to Equality — Articles 14–18</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/polity/05_Fundamental_Rights_and_Duties/#n7-article-20-protection-in-respect-of-conviction">Article 20 — Protection in respect of conviction</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/05_Fundamental_Rights_and_Duties/#n8-article-21-life-and-personal-liberty">Article 21 — Life and personal liberty</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/05_Fundamental_Rights_and_Duties/#n13-cultural-educational-rights-articles-2930">Cultural &amp; Educational Rights — Articles 29–30</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/05_Fundamental_Rights_and_Duties/#n1-fundamental-rights-overview">Fundamental Rights — overview</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/05_Fundamental_Rights_and_Duties/#n6-right-against-exploitation-articles-2324">Right against Exploitation — Articles 23–24</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/05_Fundamental_Rights_and_Duties/#n14-right-to-constitutional-remedies-article-32-226">Right to Constitutional Remedies — Article 32 (+ 226)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/05_Fundamental_Rights_and_Duties/#n5-right-to-freedom-article-19-reasonable-restrictions">Right to Freedom — Article 19 + reasonable restrictions</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/polity/05_Fundamental_Rights_and_Duties/">Open chapter</a>
+  </div>
+</details>
 </div>
 
-
-## Polity { #polity }
-
-<p class="ct-subhead"><span class="ct-progress" data-ct-subject="polity"></span> 33 chapters</p>
-
-### Highly Important
-
-<div class="ct-list ct-list--high" markdown="1">
-
-- <span class="ct-row" data-ct-id="polity-02-Features-of-the-Constitution-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="polity-02-Features-of-the-Constitution-md" aria-label="Mark Topic 2 — Features of the Constitution done"> [Topic 2 — Features of the Constitution](subjects/polity/02_Features_of_the_Constitution.md) <span class="ct-pills">UP 38 · UK 8</span></span>
-- <span class="ct-row" data-ct-id="polity-13-Statutory-and-Non-Constitutional-Bodies-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="polity-13-Statutory-and-Non-Constitutional-Bodies-md" aria-label="Mark Topic 13 — Statutory & Non-Constitutional Bodies done"> [Topic 13 — Statutory & Non-Constitutional Bodies](subjects/polity/13_Statutory_and_Non_Constitutional_Bodies.md) <span class="ct-pills">UP 33 · UK 11</span></span>
-- <span class="ct-row" data-ct-id="polity-07-Parliament-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="polity-07-Parliament-md" aria-label="Mark Topic 7 — Parliament done"> [Topic 7 — Parliament](subjects/polity/07_Parliament.md) <span class="ct-pills">UP 38 · UK 6</span></span>
-- <span class="ct-row" data-ct-id="polity-10-Local-Government-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="polity-10-Local-Government-md" aria-label="Mark Topic 10 — Local Government done"> [Topic 10 — Local Government](subjects/polity/10_Local_Government.md) <span class="ct-pills">UP 34 · UK 7</span></span>
-- <span class="ct-row" data-ct-id="polity-01-Constitutional-Development-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="polity-01-Constitutional-Development-md" aria-label="Mark Topic 1 — Constitutional Development done"> [Topic 1 — Constitutional Development](subjects/polity/01_Constitutional_Development.md) <span class="ct-pills">UP 36 · UK 2</span></span>
-- <span class="ct-row" data-ct-id="polity-16-Constitutional-Amendments-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="polity-16-Constitutional-Amendments-md" aria-label="Mark Topic 16 — Constitutional Amendments done"> [Topic 16 — Constitutional Amendments](subjects/polity/16_Constitutional_Amendments.md) <span class="ct-pills">UP 31 · UK 6</span></span>
-- <span class="ct-row" data-ct-id="polity-09-Judiciary-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="polity-09-Judiciary-md" aria-label="Mark Topic 9 — Judiciary done"> [Topic 9 — Judiciary](subjects/polity/09_Judiciary.md) <span class="ct-pills">UP 32 · UK 3</span></span>
-- <span class="ct-row" data-ct-id="polity-12-Constitutional-Bodies-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="polity-12-Constitutional-Bodies-md" aria-label="Mark Topic 12 — Constitutional Bodies done"> [Topic 12 — Constitutional Bodies](subjects/polity/12_Constitutional_Bodies.md) <span class="ct-pills">UP 29 · UK 4</span></span>
-- <span class="ct-row" data-ct-id="polity-06-Union-Executive-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="polity-06-Union-Executive-md" aria-label="Mark Topic 6 — Union Executive done"> [Topic 6 — Union Executive](subjects/polity/06_Union_Executive.md) <span class="ct-pills">UP 27 · UK 6</span></span>
-- <span class="ct-row" data-ct-id="polity-05-Fundamental-Rights-and-Duties-md" data-group="high" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="polity-05-Fundamental-Rights-and-Duties-md" aria-label="Mark Topic 5 — Fundamental Rights & Duties done"> [Topic 5 — Fundamental Rights & Duties](subjects/polity/05_Fundamental_Rights_and_Duties.md) <span class="ct-pills">UP 17 · UK 7</span></span>
-
+<h3 class="ct-group-title">Medium Important</h3>
+<div class="ct-list ct-list--medium">
+<details class="ct-row" data-ct-id="polity-19-Acts-and-Governance-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="polity-19-Acts-and-Governance-md" aria-label="Mark Topic 19 — Acts &amp; Governance done">
+    <span class="ct-title">Topic 19 — Acts &amp; Governance</span>
+    <span class="ct-pills">30 Qs · UPPCS 22 · UKPCS 8</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/polity/19_Acts_and_Governance/#ghatnachakra-extra-drill-important-acts-and-governance">Important Acts and Governance</a> — 10 questions (UPPCS 9 · UKPCS 1)</li>
+      <li><a href="../subjects/polity/19_Acts_and_Governance/#second-arc-and-the-neighbours">Second ARC (and the neighbours)</a> — 4 questions (UKPCS 4)</li>
+      <li><a href="../subjects/polity/19_Acts_and_Governance/#consumer-protection-act-2019">Consumer Protection Act, 2019</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/polity/19_Acts_and_Governance/#national-food-security-act-2013">National Food Security Act, 2013</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/polity/19_Acts_and_Governance/#disaster-management-act-2005">Disaster Management Act, 2005</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/19_Acts_and_Governance/#e-governance">E-Governance</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/19_Acts_and_Governance/#labour-codes">Labour Codes</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/19_Acts_and_Governance/#mission-karmayogi">Mission Karmayogi</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/19_Acts_and_Governance/#rti-act-2005">RTI Act, 2005</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/polity/19_Acts_and_Governance/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="polity-03-Parts-Articles-and-Schedules-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="polity-03-Parts-Articles-and-Schedules-md" aria-label="Mark Topic 3 — Parts, Articles &amp; Schedules done">
+    <span class="ct-title">Topic 3 — Parts, Articles &amp; Schedules</span>
+    <span class="ct-pills">28 Qs · UPPCS 26 · UKPCS 2</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/polity/03_Parts_Articles_and_Schedules/#ghatnachakra-extra-drill-parts-articles-and-schedules">Parts, Articles and Schedules</a> — 15 questions (UPPCS 13 · UKPCS 2)</li>
+      <li><a href="../subjects/polity/03_Parts_Articles_and_Schedules/#parts-of-the-constitution">Parts of the Constitution</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/polity/03_Parts_Articles_and_Schedules/#schedules-master-match-1-to-12">Schedules — Master Match (1 to 12)</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/polity/03_Parts_Articles_and_Schedules/#seventh-schedule-union-state-concurrent-lists">Seventh Schedule — Union / State / Concurrent Lists</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/polity/03_Parts_Articles_and_Schedules/#eighth-schedule-languages-22">Eighth Schedule — Languages (22)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/03_Parts_Articles_and_Schedules/#eleventh-twelfth-schedules">Eleventh &amp; Twelfth Schedules</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/03_Parts_Articles_and_Schedules/#fifth-vs-sixth-schedule">Fifth vs Sixth Schedule</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/polity/03_Parts_Articles_and_Schedules/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="polity-11-Centre-State-Relations-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="polity-11-Centre-State-Relations-md" aria-label="Mark Topic 11 — Centre–State Relations done">
+    <span class="ct-title">Topic 11 — Centre–State Relations</span>
+    <span class="ct-pills">27 Qs · UPPCS 25 · UKPCS 2</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/polity/11_Centre_State_Relations/#ghatnachakra-extra-drill-centrestate-relations">Centre–State Relations</a> — 5 questions (UPPCS 3 · UKPCS 2)</li>
+      <li><a href="../subjects/polity/11_Centre_State_Relations/#finance-commission-art-280">Finance Commission (Art. 280)</a> — 5 questions (UPPCS 5)</li>
+      <li><a href="../subjects/polity/11_Centre_State_Relations/#all-india-services-art-312">All-India Services (Art. 312)</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/polity/11_Centre_State_Relations/#seventh-schedule-lists-entries">Seventh Schedule — lists (entries)</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/polity/11_Centre_State_Relations/#article-131-centrestate-inter-state-disputes">Article 131 — Centre–State / Inter-State disputes</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/11_Centre_State_Relations/#gst-council-101st-amendment-arts-246a-269a-279a">GST Council (101st Amendment + Arts. 246A, 269A, 279A)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/11_Centre_State_Relations/#inter-state-council-art-263">Inter-State Council (Art. 263)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/11_Centre_State_Relations/#punchhi-commission-200710">Punchhi Commission (2007–10)</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/polity/11_Centre_State_Relations/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="polity-14-Elections-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="polity-14-Elections-md" aria-label="Mark Topic 14 — Elections done">
+    <span class="ct-title">Topic 14 — Elections</span>
+    <span class="ct-pills">26 Qs · UPPCS 25 · UKPCS 1</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/polity/14_Elections/#election-commission-as-poll-machinery">Election Commission — as poll machinery</a> — 16 questions (UPPCS 15 · UKPCS 1)</li>
+      <li><a href="../subjects/polity/14_Elections/#anti-defection-law-10th-schedule">Anti-Defection Law (10th Schedule)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/14_Elections/#electoral-reforms-chronology-committees">Electoral Reforms — chronology &amp; committees</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/14_Elections/#franchise-universal-adult-franchise">Franchise &amp; Universal Adult Franchise</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/14_Elections/#free-and-fair-elections">Free and Fair Elections</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/14_Elections/#national-voters-day">National Voters’ Day</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/polity/14_Elections/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="polity-26-One-Liner-Revision-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="polity-26-One-Liner-Revision-md" aria-label="Mark Topic 26 — One-Liner Revision done">
+    <span class="ct-title">Topic 26 — One-Liner Revision</span>
+    <span class="ct-pills">24 Qs · UPPCS 24 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/polity/26_One_Liner_Revision/#complete-pyq-bank-topic-26-bodies-parliament-cases-up">Complete PYQ Bank (Topic 26) — Bodies, Parliament, Cases, UP</a> — 13 questions (UPPCS 13)</li>
+      <li><a href="../subjects/polity/26_One_Liner_Revision/#complete-pyq-bank-topic-26-parts-schedules-amendments">Complete PYQ Bank (Topic 26) — Parts, Schedules, Amendments</a> — 11 questions (UPPCS 11)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/polity/26_One_Liner_Revision/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="polity-17-Language-and-Special-Provisions-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="polity-17-Language-and-Special-Provisions-md" aria-label="Mark Topic 17 — Language &amp; Special Provisions done">
+    <span class="ct-title">Topic 17 — Language &amp; Special Provisions</span>
+    <span class="ct-pills">22 Qs · UPPCS 21 · UKPCS 1</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/polity/17_Language_and_Special_Provisions/#ghatnachakra-extra-drill-official-language">Official Language</a> — 6 questions (UPPCS 6)</li>
+      <li><a href="../subjects/polity/17_Language_and_Special_Provisions/#eighth-schedule-22-languages">Eighth Schedule — 22 languages</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/polity/17_Language_and_Special_Provisions/#ghatnachakra-extra-drill-temporary-transitional-and-special-provisions">Temporary, Transitional and Special Provisions</a> — 4 questions (UPPCS 3 · UKPCS 1)</li>
+      <li><a href="../subjects/polity/17_Language_and_Special_Provisions/#part-xvii-map-343351">Part XVII map (343–351)</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/polity/17_Language_and_Special_Provisions/#sixth-schedule">Sixth Schedule</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/polity/17_Language_and_Special_Provisions/#arts-371371j">Arts. 371–371J</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/17_Language_and_Special_Provisions/#linguistic-minorities-art-350b">Linguistic minorities &amp; Art. 350B</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/polity/17_Language_and_Special_Provisions/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="polity-08-State-Government-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="polity-08-State-Government-md" aria-label="Mark Topic 8 — State Government done">
+    <span class="ct-title">Topic 8 — State Government</span>
+    <span class="ct-pills">19 Qs · UPPCS 17 · UKPCS 2</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/polity/08_State_Government/#ghatnachakra-extra-drill-the-governor">The Governor</a> — 8 questions (UPPCS 7 · UKPCS 1)</li>
+      <li><a href="../subjects/polity/08_State_Government/#state-legislature-unicameral-vs-bicameral-arts-168169">State Legislature — unicameral vs bicameral (Arts. 168–169)</a> — 5 questions (UPPCS 5)</li>
+      <li><a href="../subjects/polity/08_State_Government/#governor-appointment-term-conditions-arts-153162">Governor — appointment, term, conditions (Arts. 153–162)</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/polity/08_State_Government/#chief-minister-council-of-ministers-arts-163164-167">Chief Minister &amp; Council of Ministers (Arts. 163–164, 167)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/08_State_Government/#legislative-council-arts-169-171173">Legislative Council (Arts. 169, 171–173)</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/polity/08_State_Government/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="polity-25-UP-Special-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="polity-25-UP-Special-md" aria-label="Mark Topic 25 — UP Special done">
+    <span class="ct-title">Topic 25 — UP Special</span>
+    <span class="ct-pills">9 Qs · UPPCS 9 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/polity/25_UP_Special/#lok-sabha-and-rajya-sabha-seats-from-uttar-pradesh">Lok Sabha and Rajya Sabha seats from Uttar Pradesh</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/25_UP_Special/#uttar-pradesh-legislative-assembly">Uttar Pradesh Legislative Assembly</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/25_UP_Special/#uttar-pradesh-legislative-council">Uttar Pradesh Legislative Council</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/25_UP_Special/#uttar-pradesh-public-service-commission">Uttar Pradesh Public Service Commission</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/25_UP_Special/#uttar-pradesh-state-election-commission">Uttar Pradesh State Election Commission</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/polity/25_UP_Special/">Open chapter</a>
+  </div>
+</details>
 </div>
 
-### Medium Important
-
-<div class="ct-list ct-list--medium" markdown="1">
-
-- <span class="ct-row" data-ct-id="polity-19-Acts-and-Governance-md" data-group="medium" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="polity-19-Acts-and-Governance-md" aria-label="Mark Topic 19 — Acts & Governance done"> [Topic 19 — Acts & Governance](subjects/polity/19_Acts_and_Governance.md) <span class="ct-pills">UP 22 · UK 8</span></span>
-- <span class="ct-row" data-ct-id="polity-03-Parts-Articles-and-Schedules-md" data-group="medium" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="polity-03-Parts-Articles-and-Schedules-md" aria-label="Mark Topic 3 — Parts, Articles & Schedules done"> [Topic 3 — Parts, Articles & Schedules](subjects/polity/03_Parts_Articles_and_Schedules.md) <span class="ct-pills">UP 26 · UK 2</span></span>
-- <span class="ct-row" data-ct-id="polity-11-Centre-State-Relations-md" data-group="medium" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="polity-11-Centre-State-Relations-md" aria-label="Mark Topic 11 — Centre–State Relations done"> [Topic 11 — Centre–State Relations](subjects/polity/11_Centre_State_Relations.md) <span class="ct-pills">UP 25 · UK 2</span></span>
-- <span class="ct-row" data-ct-id="polity-14-Elections-md" data-group="medium" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="polity-14-Elections-md" aria-label="Mark Topic 14 — Elections done"> [Topic 14 — Elections](subjects/polity/14_Elections.md) <span class="ct-pills">UP 25 · UK 1</span></span>
-- <span class="ct-row" data-ct-id="polity-26-One-Liner-Revision-md" data-group="medium" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="polity-26-One-Liner-Revision-md" aria-label="Mark Topic 26 — One-Liner Revision done"> [Topic 26 — One-Liner Revision](subjects/polity/26_One_Liner_Revision.md) <span class="ct-pills">UP 24 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="polity-17-Language-and-Special-Provisions-md" data-group="medium" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="polity-17-Language-and-Special-Provisions-md" aria-label="Mark Topic 17 — Language & Special Provisions done"> [Topic 17 — Language & Special Provisions](subjects/polity/17_Language_and_Special_Provisions.md) <span class="ct-pills">UP 21 · UK 1</span></span>
-- <span class="ct-row" data-ct-id="polity-08-State-Government-md" data-group="medium" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="polity-08-State-Government-md" aria-label="Mark Topic 8 — State Government done"> [Topic 8 — State Government](subjects/polity/08_State_Government.md) <span class="ct-pills">UP 17 · UK 2</span></span>
-- <span class="ct-row" data-ct-id="polity-25-UP-Special-md" data-group="medium" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="polity-25-UP-Special-md" aria-label="Mark Topic 25 — UP Special done"> [Topic 25 — UP Special](subjects/polity/25_UP_Special.md) <span class="ct-pills">UP 9 · UK 0</span></span>
-
+<h3 class="ct-group-title">Least Important</h3>
+<div class="ct-list ct-list--least">
+<details class="ct-row" data-ct-id="polity-23-Constitutional-and-Legal-Offices-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="polity-23-Constitutional-and-Legal-Offices-md" aria-label="Mark Topic 23 — Constitutional &amp; Legal Offices done">
+    <span class="ct-title">Topic 23 — Constitutional &amp; Legal Offices</span>
+    <span class="ct-pills">16 Qs · UPPCS 16 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/polity/23_Constitutional_and_Legal_Offices/#state-psc-chairman">State PSC Chairman</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/polity/23_Constitutional_and_Legal_Offices/#attorney-general-of-india-art-76">Attorney General of India (Art. 76)</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/polity/23_Constitutional_and_Legal_Offices/#chief-election-commissioner-election-commissioners-art-324">Chief Election Commissioner &amp; Election Commissioners (Art. 324)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/23_Constitutional_and_Legal_Offices/#comptroller-and-auditor-general-नयतरक-महलखपरकषक-arts-148151">Comptroller and Auditor General (नियंत्रक-महालेखापरीक्षक) (Arts. 148–151)</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/polity/23_Constitutional_and_Legal_Offices/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="polity-18-Political-Parties-and-Pressure-Groups-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="polity-18-Political-Parties-and-Pressure-Groups-md" aria-label="Mark Topic 18 — Political Parties &amp; Pressure Groups done">
+    <span class="ct-title">Topic 18 — Political Parties &amp; Pressure Groups</span>
+    <span class="ct-pills">13 Qs · UPPCS 12 · UKPCS 1</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/polity/18_Political_Parties_and_Pressure_Groups/#ghatnachakra-extra-drill-political-parties">Political Parties</a> — 11 questions (UPPCS 10 · UKPCS 1)</li>
+      <li><a href="../subjects/polity/18_Political_Parties_and_Pressure_Groups/#regional-state-parties-set">Regional / State parties (set)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/18_Political_Parties_and_Pressure_Groups/#trade-unions">Trade unions</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/polity/18_Political_Parties_and_Pressure_Groups/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="polity-21-International-Relations-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="polity-21-International-Relations-md" aria-label="Mark Topic 21 — International Relations done">
+    <span class="ct-title">Topic 21 — International Relations</span>
+    <span class="ct-pills">10 Qs · UPPCS 10 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/polity/21_International_Relations/#brics-g20-sco">BRICS · G20 · SCO</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/polity/21_International_Relations/#saarc-asean-bimstec">SAARC · ASEAN · BIMSTEC</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/polity/21_International_Relations/#imf-world-bank-bretton-woods-twins">IMF &amp; World Bank (Bretton Woods twins)</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/polity/21_International_Relations/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="polity-24-Important-Supreme-Court-Judgments-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="polity-24-Important-Supreme-Court-Judgments-md" aria-label="Mark Topic 24 — Important Supreme Court Judgments done">
+    <span class="ct-title">Topic 24 — Important Supreme Court Judgments</span>
+    <span class="ct-pills">9 Qs · UPPCS 6 · UKPCS 3</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/polity/24_Important_Supreme_Court_Judgments/#chronology-master">Chronology master</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/polity/24_Important_Supreme_Court_Judgments/#ic-golaknath-vs-state-of-punjab-1967">I.C. Golaknath vs State of Punjab (1967)</a> — 2 questions (UPPCS 2)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/polity/24_Important_Supreme_Court_Judgments/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="polity-04-Union-and-Territory-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="polity-04-Union-and-Territory-md" aria-label="Mark Topic 4 — Union &amp; Territory done">
+    <span class="ct-title">Topic 4 — Union &amp; Territory</span>
+    <span class="ct-pills">9 Qs · UPPCS 9 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/polity/04_Union_and_Territory/#citizenship-part-ii">Citizenship (Part II)</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/polity/04_Union_and_Territory/#lieutenant-governor-vs-administrator-governor">Lieutenant Governor (vs Administrator / Governor)</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/polity/04_Union_and_Territory/#union-and-its-territory-part-i">Union and its Territory (Part I)</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/polity/04_Union_and_Territory/#article-239aa-delhi-nct">Article 239AA — Delhi (NCT)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/04_Union_and_Territory/#state-reorganisation-commissions-first-linguistic-state">State Reorganisation — Commissions &amp; First Linguistic State</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/polity/04_Union_and_Territory/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="polity-15-Emergency-Provisions-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="polity-15-Emergency-Provisions-md" aria-label="Mark Topic 15 — Emergency Provisions done">
+    <span class="ct-title">Topic 15 — Emergency Provisions</span>
+    <span class="ct-pills">5 Qs · UPPCS 5 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/polity/15_Emergency_Provisions/#effect-on-fundamental-rights-358359">Effect on Fundamental Rights (358–359)</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/15_Emergency_Provisions/#ghatnachakra-extra-drill-emergency-provisions">Emergency Provisions</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/15_Emergency_Provisions/#national-emergency-art-352">National Emergency (Art. 352)</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/polity/15_Emergency_Provisions/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="polity-22-Constitutional-Philosophy-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="polity-22-Constitutional-Philosophy-md" aria-label="Mark Topic 22 — Constitutional Philosophy done">
+    <span class="ct-title">Topic 22 — Constitutional Philosophy</span>
+    <span class="ct-pills">4 Qs · UPPCS 4 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p>No tagged stems in the teaching or bank headings yet.</p>
+    <a class="md-button md-button--primary ct-open" href="../subjects/polity/22_Constitutional_Philosophy/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="polity-20-Internal-Security-md" data-group="least" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="polity-20-Internal-Security-md" aria-label="Mark Topic 20 — Internal Security done">
+    <span class="ct-title">Topic 20 — Internal Security</span>
+    <span class="ct-pills">2 Qs · UPPCS 2 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/polity/20_Internal_Security/#internal-security-map">Internal Security — map</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/polity/20_Internal_Security/#mac-natgrid-nctc-bharatpol">MAC · NATGRID · NCTC · BHARATPOL</a> — 1 question (UPPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/polity/20_Internal_Security/">Open chapter</a>
+  </div>
+</details>
 </div>
 
-### Least Important
-
-<div class="ct-list ct-list--least" markdown="1">
-
-- <span class="ct-row" data-ct-id="polity-23-Constitutional-and-Legal-Offices-md" data-group="least" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="polity-23-Constitutional-and-Legal-Offices-md" aria-label="Mark Topic 23 — Constitutional & Legal Offices done"> [Topic 23 — Constitutional & Legal Offices](subjects/polity/23_Constitutional_and_Legal_Offices.md) <span class="ct-pills">UP 16 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="polity-18-Political-Parties-and-Pressure-Groups-md" data-group="least" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="polity-18-Political-Parties-and-Pressure-Groups-md" aria-label="Mark Topic 18 — Political Parties & Pressure Groups done"> [Topic 18 — Political Parties & Pressure Groups](subjects/polity/18_Political_Parties_and_Pressure_Groups.md) <span class="ct-pills">UP 12 · UK 1</span></span>
-- <span class="ct-row" data-ct-id="polity-21-International-Relations-md" data-group="least" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="polity-21-International-Relations-md" aria-label="Mark Topic 21 — International Relations done"> [Topic 21 — International Relations](subjects/polity/21_International_Relations.md) <span class="ct-pills">UP 10 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="polity-24-Important-Supreme-Court-Judgments-md" data-group="least" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="polity-24-Important-Supreme-Court-Judgments-md" aria-label="Mark Topic 24 — Important Supreme Court Judgments done"> [Topic 24 — Important Supreme Court Judgments](subjects/polity/24_Important_Supreme_Court_Judgments.md) <span class="ct-pills">UP 6 · UK 3</span></span>
-- <span class="ct-row" data-ct-id="polity-04-Union-and-Territory-md" data-group="least" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="polity-04-Union-and-Territory-md" aria-label="Mark Topic 4 — Union & Territory done"> [Topic 4 — Union & Territory](subjects/polity/04_Union_and_Territory.md) <span class="ct-pills">UP 9 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="polity-15-Emergency-Provisions-md" data-group="least" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="polity-15-Emergency-Provisions-md" aria-label="Mark Topic 15 — Emergency Provisions done"> [Topic 15 — Emergency Provisions](subjects/polity/15_Emergency_Provisions.md) <span class="ct-pills">UP 5 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="polity-22-Constitutional-Philosophy-md" data-group="least" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="polity-22-Constitutional-Philosophy-md" aria-label="Mark Topic 22 — Constitutional Philosophy done"> [Topic 22 — Constitutional Philosophy](subjects/polity/22_Constitutional_Philosophy.md) <span class="ct-pills">UP 4 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="polity-20-Internal-Security-md" data-group="least" data-uk="0"><input type="checkbox" class="ct-check" data-ct-id="polity-20-Internal-Security-md" aria-label="Mark Topic 20 — Internal Security done"> [Topic 20 — Internal Security](subjects/polity/20_Internal_Security.md) <span class="ct-pills">UP 2 · UK 0</span></span>
-
+<h3 class="ct-group-title">Uttarakhand — Highly Important</h3>
+<div class="ct-list ct-list--high">
+<details class="ct-row" data-ct-id="polity-uttarakhand-01-Constitutional-Framework-of-Uttarakhand-md" data-group="high" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="polity-uttarakhand-01-Constitutional-Framework-of-Uttarakhand-md" aria-label="Mark Topic 1 — Constitutional Framework done">
+    <span class="ct-title">Topic 1 — Constitutional Framework</span>
+    <span class="ct-pills">6 Qs · UPPCS 0 · UKPCS 6</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/polity/uttarakhand/01_Constitutional_Framework_of_Uttarakhand/#ukpcs-inline-practice-questions">UKPCS Inline &amp; Practice Questions</a> — 3 questions (UKPCS 3)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/polity/uttarakhand/01_Constitutional_Framework_of_Uttarakhand/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="polity-uttarakhand-06-Local-Government-Panchayati-Raj-md" data-group="high" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="polity-uttarakhand-06-Local-Government-Panchayati-Raj-md" aria-label="Mark Topic 6 — Local Government &amp; PR done">
+    <span class="ct-title">Topic 6 — Local Government &amp; PR</span>
+    <span class="ct-pills">4 Qs · UPPCS 0 · UKPCS 4</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/polity/uttarakhand/06_Local_Government_Panchayati_Raj/#ukpcs-inline-practice-questions">UKPCS Inline &amp; Practice Questions</a> — 2 questions (UKPCS 2)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/polity/uttarakhand/06_Local_Government_Panchayati_Raj/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="polity-uttarakhand-03-High-Court-and-Jurisdiction-md" data-group="high" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="polity-uttarakhand-03-High-Court-and-Jurisdiction-md" aria-label="Mark Topic 3 — High Court &amp; Jurisdiction done">
+    <span class="ct-title">Topic 3 — High Court &amp; Jurisdiction</span>
+    <span class="ct-pills">3 Qs · UPPCS 0 · UKPCS 3</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/polity/uttarakhand/03_High_Court_and_Jurisdiction/#32-mobile-e-courts">Mobile e-courts</a> — 1 question (UKPCS 1)</li>
+      <li><a href="../subjects/polity/uttarakhand/03_High_Court_and_Jurisdiction/#ukpcs-inline-pyq">UKPCS Inline PYQ</a> — 1 question (UKPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/polity/uttarakhand/03_High_Court_and_Jurisdiction/">Open chapter</a>
+  </div>
+</details>
 </div>
 
-### Uttarakhand — Highly Important
-
-<div class="ct-list ct-list--high" markdown="1">
-
-- <span class="ct-row" data-ct-id="polity-uttarakhand-01-Constitutional-Framework-of-Uttarakhand-md" data-group="high" data-uk="1"><input type="checkbox" class="ct-check" data-ct-id="polity-uttarakhand-01-Constitutional-Framework-of-Uttarakhand-md" aria-label="Mark Topic 1 — Constitutional Framework done"> [Topic 1 — Constitutional Framework](subjects/polity/uttarakhand/01_Constitutional_Framework_of_Uttarakhand.md) <span class="ct-pills">UP 0 · UK 6</span></span>
-- <span class="ct-row" data-ct-id="polity-uttarakhand-06-Local-Government-Panchayati-Raj-md" data-group="high" data-uk="1"><input type="checkbox" class="ct-check" data-ct-id="polity-uttarakhand-06-Local-Government-Panchayati-Raj-md" aria-label="Mark Topic 6 — Local Government & PR done"> [Topic 6 — Local Government & PR](subjects/polity/uttarakhand/06_Local_Government_Panchayati_Raj.md) <span class="ct-pills">UP 0 · UK 4</span></span>
-- <span class="ct-row" data-ct-id="polity-uttarakhand-03-High-Court-and-Jurisdiction-md" data-group="high" data-uk="1"><input type="checkbox" class="ct-check" data-ct-id="polity-uttarakhand-03-High-Court-and-Jurisdiction-md" aria-label="Mark Topic 3 — High Court & Jurisdiction done"> [Topic 3 — High Court & Jurisdiction](subjects/polity/uttarakhand/03_High_Court_and_Jurisdiction.md) <span class="ct-pills">UP 0 · UK 3</span></span>
-
+<h3 class="ct-group-title">Uttarakhand — Least Important</h3>
+<div class="ct-list ct-list--least">
+<details class="ct-row" data-ct-id="polity-uttarakhand-04-SC-ST-Minorities-Official-Language-md" data-group="least" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="polity-uttarakhand-04-SC-ST-Minorities-Official-Language-md" aria-label="Mark Topic 4 — SC/ST, Minorities &amp; Language done">
+    <span class="ct-title">Topic 4 — SC/ST, Minorities &amp; Language</span>
+    <span class="ct-pills">2 Qs · UPPCS 0 · UKPCS 2</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/polity/uttarakhand/04_SC_ST_Minorities_Official_Language/#ukpcs-inline-pyq">UKPCS Inline PYQ</a> — 1 question (UKPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/polity/uttarakhand/04_SC_ST_Minorities_Official_Language/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="polity-uttarakhand-07-Governance-and-Rights-Schemes-md" data-group="least" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="polity-uttarakhand-07-Governance-and-Rights-Schemes-md" aria-label="Mark Topic 7 — Governance &amp; Rights Schemes done">
+    <span class="ct-title">Topic 7 — Governance &amp; Rights Schemes</span>
+    <span class="ct-pills">2 Qs · UPPCS 0 · UKPCS 2</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/polity/uttarakhand/07_Governance_and_Rights_Schemes/#ukpcs-inline-practice-questions">UKPCS Inline &amp; Practice Questions</a> — 1 question (UKPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/polity/uttarakhand/07_Governance_and_Rights_Schemes/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="polity-uttarakhand-02-Public-Services-PSC-Auditing-md" data-group="least" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="polity-uttarakhand-02-Public-Services-PSC-Auditing-md" aria-label="Mark Topic 2 — Public Services, PSC &amp; Auditing done">
+    <span class="ct-title">Topic 2 — Public Services, PSC &amp; Auditing</span>
+    <span class="ct-pills">0 Qs · UPPCS 0 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p>No tagged stems in the teaching or bank headings yet.</p>
+    <a class="md-button md-button--primary ct-open" href="../subjects/polity/uttarakhand/02_Public_Services_PSC_Auditing/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="polity-uttarakhand-05-Funds-Parties-Elections-md" data-group="least" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="polity-uttarakhand-05-Funds-Parties-Elections-md" aria-label="Mark Topic 5 — Funds, Parties &amp; Elections done">
+    <span class="ct-title">Topic 5 — Funds, Parties &amp; Elections</span>
+    <span class="ct-pills">0 Qs · UPPCS 0 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p>No tagged stems in the teaching or bank headings yet.</p>
+    <a class="md-button md-button--primary ct-open" href="../subjects/polity/uttarakhand/05_Funds_Parties_Elections/">Open chapter</a>
+  </div>
+</details>
 </div>
 
+  </div>
+</details>
 
-### Uttarakhand — Least Important
+<details class="ct-subject" id="economy" data-ct-subject="economy" name="ct-subject">
+  <summary>
+    <span class="ct-subject-title">Economy</span>
+    <span class="ct-progress" data-ct-subject="economy"></span>
+    <span class="ct-subject-count">0 chapters</span>
+  </summary>
+  <div class="ct-subject-body">
+<p class="ct-empty-note">National Economy topic files are not split yet. Revise from the <a href="../subjects/economy/00_Syllabus/">Economy syllabus</a> and the <a href="../subjects/economy/uttarakhand/00_Syllabus/">Uttarakhand Economy map</a>. UKPCS 2025 carried about <strong>10</strong> Economy questions.</p>
+  </div>
+</details>
 
-<div class="ct-list ct-list--least" markdown="1">
-
-- <span class="ct-row" data-ct-id="polity-uttarakhand-04-SC-ST-Minorities-Official-Language-md" data-group="least" data-uk="1"><input type="checkbox" class="ct-check" data-ct-id="polity-uttarakhand-04-SC-ST-Minorities-Official-Language-md" aria-label="Mark Topic 4 — SC/ST, Minorities & Language done"> [Topic 4 — SC/ST, Minorities & Language](subjects/polity/uttarakhand/04_SC_ST_Minorities_Official_Language.md) <span class="ct-pills">UP 0 · UK 2</span></span>
-- <span class="ct-row" data-ct-id="polity-uttarakhand-07-Governance-and-Rights-Schemes-md" data-group="least" data-uk="1"><input type="checkbox" class="ct-check" data-ct-id="polity-uttarakhand-07-Governance-and-Rights-Schemes-md" aria-label="Mark Topic 7 — Governance & Rights Schemes done"> [Topic 7 — Governance & Rights Schemes](subjects/polity/uttarakhand/07_Governance_and_Rights_Schemes.md) <span class="ct-pills">UP 0 · UK 2</span></span>
-- <span class="ct-row" data-ct-id="polity-uttarakhand-02-Public-Services-PSC-Auditing-md" data-group="least" data-uk="1"><input type="checkbox" class="ct-check" data-ct-id="polity-uttarakhand-02-Public-Services-PSC-Auditing-md" aria-label="Mark Topic 2 — Public Services, PSC & Auditing done"> [Topic 2 — Public Services, PSC & Auditing](subjects/polity/uttarakhand/02_Public_Services_PSC_Auditing.md) <span class="ct-pills">UP 0 · UK 0</span></span>
-- <span class="ct-row" data-ct-id="polity-uttarakhand-05-Funds-Parties-Elections-md" data-group="least" data-uk="1"><input type="checkbox" class="ct-check" data-ct-id="polity-uttarakhand-05-Funds-Parties-Elections-md" aria-label="Mark Topic 5 — Funds, Parties & Elections done"> [Topic 5 — Funds, Parties & Elections](subjects/polity/uttarakhand/05_Funds_Parties_Elections.md) <span class="ct-pills">UP 0 · UK 0</span></span>
-
-</div>
-
-
-## Economy { #economy }
-
-<p class="ct-subhead"><span class="ct-progress" data-ct-subject="economy"></span> 0 chapters</p>
-
-National Economy topic files are not split yet. Revise from the [Economy syllabus](subjects/economy/00_Syllabus.md) and the [Uttarakhand Economy map](subjects/economy/uttarakhand/00_Syllabus.md). UKPCS 2025 carried about **10** Economy questions.
-
-## Science and Technology { #science-and-technology }
-
-<p class="ct-subhead"><span class="ct-progress" data-ct-subject="science-and-technology"></span> 0 chapters</p>
-
-National Science & Technology topic files are not split yet. Revise from the [S&T syllabus](subjects/science%20and%20technology/00_Syllabus.md) and the [Uttarakhand S&T map](subjects/science%20and%20technology/uttarakhand/00_Syllabus.md). UKPCS 2025 carried about **27** Science / Environment / Computer questions — treat this subject as **highly important** for UKPCS until chapters exist.
+<details class="ct-subject" id="science-and-technology" data-ct-subject="science-and-technology" name="ct-subject">
+  <summary>
+    <span class="ct-subject-title">Science and Technology</span>
+    <span class="ct-progress" data-ct-subject="science-and-technology"></span>
+    <span class="ct-subject-count">0 chapters</span>
+  </summary>
+  <div class="ct-subject-body">
+<p class="ct-empty-note">National Science &amp; Technology topic files are not split yet. Revise from the <a href="../subjects/science%20and%20technology/00_Syllabus/">S&amp;T syllabus</a> and the <a href="../subjects/science%20and%20technology/uttarakhand/00_Syllabus/">Uttarakhand S&amp;T map</a>. UKPCS 2025 carried about <strong>27</strong> Science / Environment / Computer questions — treat this subject as <strong>highly important</strong> for UKPCS until chapters exist.</p>
+  </div>
+</details>
 
 <p class="ct-reset-wrap"><button type="button" class="ct-reset" id="ct-reset">Clear all ticks in this browser</button></p>

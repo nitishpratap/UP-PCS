@@ -83,9 +83,9 @@ Indian Theatre | Performing Arts | Folk Theatre | Sanskrit Theatre | Natyashastr
 |------|------|
 | Natyashastra | Bharata; ~10 rupaka; 9 rasa |
 | Abhinavabharati / Dasharupaka | Abhinavagupta / Dhananjaya |
-| Bhasa / Kalidasa | ~13 plays / *Shakuntala* trio |
-| Shudraka / Vishakhadatta / Bhavabhuti | *Mrichchhakatika* / *Mudrarakshasa* / *Uttararamacharita* |
-| Bhartrihari | *Shringara Shataka* (≠ Kalidasa) |
+| Bhasa (भास) / Kalidasa (कालिदास) | ~13 plays / *Abhijnanashakuntalam* (अभिज्ञानशाकुन्तलम्) trio |
+| Shudraka (शूद्रक) / Vishakhadatta (विशाखदत्त) / Bhavabhuti (भवभूति) | *Mrichchhakatika* (मृच्छकटिकम्) / *Mudrarakshasa* (मुद्राराक्षस) / *Uttararamacharita* (उत्तररामचरित) |
+| Bhartrihari (भर्तृहरि) | *Shringara Shataka* (शृंगार शतक) (≠ Kalidasa) |
 | Stage vocab | Yavanika = curtain; nepathya = backstage; sutradhara = presenter |
 
 ### Folk / UNESCO / UP
@@ -191,7 +191,9 @@ Sanskrit theatre uses Sanskrit and Prakrit. It runs roughly from the second cent
 
 - **Ashvaghosha** (अश्वघोष) wrote *Sariputraprakarana* (शारिपुत्रप्रकरण). It is often tagged the **first** classical Sanskrit play (Buddhist).
 - **Bhasa** (भास) is among the earliest Sanskrit dramatists, with 13 surviving plays including masterpieces like *Svapnavasavadattam* (स्वप्नवासवदत्तम्) and the tragic hero drama *Urubhanga* (ऊरुभंग).
-- **Kalidasa** (कालिदास) wrote three master plays: *Abhijnanashakuntalam* (अभिज्ञानशाकुन्तलम्), *Malavikagnimitram* (मालविकाग्निमित्रम्), and *Vikramorvashiya* (विक्रमोर्वशीयम्). (Kalidasa poems not dramas are *Meghaduta*, *Raghuvamsha* (रघुवंश), *Kumarasambhava*, and *Ritusamhara*; *Shringara Shataka* belongs to **Bhartrihari** (भर्तृहरि)).
+- **Kalidasa** (कालिदास) wrote three master plays: *Abhijnanashakuntalam* (अभिज्ञानशाकुन्तलम्), *Malavikagnimitram* (मालविकाग्निमित्रम्), and *Vikramorvashiya* (विक्रमोर्वशीयम्).
+- Kalidasa poems that are **not** dramas are *Meghaduta* (मेघदूत), *Raghuvamsha* (रघुवंश), *Kumarasambhava* (कुमारसंभव), and *Ritusamhara* (ऋतुसंहार).
+- *Shringara Shataka* (शृंगार शतक) belongs to **Bhartrihari** (भर्तृहरि), not Kalidasa.
 - **Shudraka** (शूद्रक) wrote *Mrichchhakatika* (मृच्छकटिकम्) (The Little Clay Cart — social prakarana).
 - **Vishakhadatta** (विशाखदत्त) wrote *Mudrarakshasa* (मुद्राराक्षस) (political thriller with Chanakya) and *Devichandraguptam* (देवीचन्द्रगुप्तम्).
 - **Bhavabhuti** (भवभूति) wrote *Uttararamacharita* (उत्तररामचरित) (Karuna rasa peak), *Malatimadhava* (मालतीमाधव), and *Mahaviracharita* (महावीरचरित).
@@ -208,7 +210,7 @@ Sanskrit theatre uses Sanskrit and Prakrit. It runs roughly from the second cent
 - Koodiyattam UNESCO tags are masterpiece **2001** and Representative List **2008**.
 - Sanskrit theatre declined as language left the masses and courts shifted. It survives as Koodiyattam, not as a north-Indian court play.
 
-> **Logic:** Kalidasa’s **plays** are three. *Uttararamacharita* is by Bhavabhuti. *Mrichchhakatika* is by Shudraka.
+> **Logic:** Kalidasa’s **plays** are three. *Uttararamacharita* (उत्तररामचरित) is by Bhavabhuti (भवभूति). *Mrichchhakatika* (मृच्छकटिकम्) is by Shudraka (शूद्रक).
 
 ---
 
@@ -305,7 +307,7 @@ Syllabus names the first two plus Kathputli (a string school).
 
 **Local `pyq/` 2018–2025:** no UPPCS question whose *primary* topic is theatre, Natyashastra, or puppetry.
 
-**Trap for this chapter:** — *Shringara Shataka* is **Bhartrihari**, not Kalidasa. Kalidasa’s **three plays** are *Abhijnanashakuntalam*, *Vikramorvashiya*, *Malavikagnimitram*.
+**Trap for this chapter:** — *Shringara Shataka* (शृंगार शतक) is **Bhartrihari** (भर्तृहरि), not Kalidasa (कालिदास). Kalidasa’s **three plays** are *Abhijnanashakuntalam* (अभिज्ञानशाकुन्तलम्), *Vikramorvashiya* (विक्रमोर्वशीयम्), *Malavikagnimitram* (मालविकाग्निमित्रम्).
 
 **External high-yield (UPSC — not in local pyq/)**
 
@@ -933,9 +935,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 1. **Nautanki** belongs to **UP** (Kanpur and Lucknow). Tamasha belongs to Maharashtra. Jatra belongs to Bengal.
 2. **Yakshagana** belongs to **Karnataka**, not Kerala.
 3. **Koodiyattam** is **Sanskrit theatre**, not Kathakali and not SNA dance no. 9.
-4. Kalidasa dramas are **three**. *Uttararamacharita* is by **Bhavabhuti**.
-5. *Mrichchhakatika* is by **Shudraka**. *Mudrarakshasa* is by **Vishakhadatta**. *Sariputraprakarana* is by **Ashvaghosha**.
-6. *Shringara Shataka* is not by Kalidasa (**Bhartrihari**).
+4. Kalidasa (कालिदास) dramas are **three**. *Uttararamacharita* (उत्तररामचरित) is by **Bhavabhuti** (भवभूति).
+5. *Mrichchhakatika* (मृच्छकटिकम्) is by **Shudraka** (शूद्रक). *Mudrarakshasa* (मुद्राराक्षस) is by **Vishakhadatta** (विशाखदत्त). *Sariputraprakarana* (शारिपुत्रप्रकरण) is by **Ashvaghosha** (अश्वघोष).
+6. *Shringara Shataka* (शृंगार शतक) is not by Kalidasa (**Bhartrihari** (भर्तृहरि)).
 7. **Kathputli** is **Rajasthan string**, not Lucknow. **Kundhei** is **Odisha string**.
 8. **Gulabo-Sitabo** is **Lucknow glove**, not Kathputli.
 9. In shadow puppetry, Tholu belongs to AP. Ravana Chhaya belongs to Odisha. Tolpavakoothu belongs to Kerala.

@@ -1023,7 +1023,12 @@ body.fact-lock-page .fact-lock-sheet .study-mcq {
 /* --------------------------------------------------------------------------
    Chapter Priority Tracker
    -------------------------------------------------------------------------- */
-.chapter-tracker-page .ct-toolbar {
+.chapter-tracker-page .md-sidebar--secondary {
+  display: none;
+}
+.chapter-tracker-page .md-content {
+  max-width: 52rem;
+}
   position: sticky;
   top: 3.2rem;
   z-index: 4;
@@ -1048,6 +1053,68 @@ body.fact-lock-page .fact-lock-sheet .study-mcq {
   font-size: .9rem;
 }
 .ct-jump { margin: .7rem 0 0; font-size: .86rem; }
+
+.chapter-tracker-page .md-typeset details.ct-subject {
+  display: block;
+  margin: 0 0 .65rem;
+  padding: 0;
+  border: 1px solid var(--study-hairline);
+  border-radius: .75rem;
+  background: var(--study-surface);
+  box-shadow: none;
+}
+.chapter-tracker-page .md-typeset details.ct-subject > summary {
+  display: grid;
+  grid-template-columns: 1fr auto auto auto;
+  gap: .65rem;
+  align-items: center;
+  margin: 0;
+  padding: .8rem 1rem;
+  cursor: pointer;
+  list-style: none;
+  font-weight: 700;
+  background: transparent;
+}
+.chapter-tracker-page .md-typeset details.ct-subject > summary::-webkit-details-marker,
+.chapter-tracker-page .md-typeset details.ct-subject > summary::marker,
+.chapter-tracker-page .md-typeset details.ct-subject > summary::before {
+  display: none;
+  content: "";
+}
+.chapter-tracker-page .md-typeset details.ct-subject > summary::after {
+  content: "";
+  width: .5rem;
+  height: .5rem;
+  border-right: 2px solid var(--md-default-fg-color--light);
+  border-bottom: 2px solid var(--md-default-fg-color--light);
+  transform: rotate(45deg);
+  transition: transform .15s ease;
+}
+.chapter-tracker-page .md-typeset details.ct-subject[open] > summary::after {
+  transform: rotate(225deg);
+}
+.chapter-tracker-page .md-typeset details.ct-subject[open] {
+  box-shadow: var(--study-shadow);
+}
+.ct-subject-title { min-width: 0; font-size: 1.02rem; }
+.ct-subject .ct-progress,
+.ct-subject-count {
+  font-family: var(--study-ui);
+  font-size: .78rem;
+  font-weight: 700;
+  white-space: nowrap;
+  color: var(--md-default-fg-color--light);
+}
+.ct-subject .ct-progress { color: var(--md-accent-fg-color); }
+.ct-subject-body {
+  padding: .15rem 1rem 1rem;
+  border-top: 1px solid var(--study-hairline);
+}
+.ct-empty-note { margin: .85rem 0 .4rem; }
+.ct-group-title {
+  margin: .95rem 0 .35rem;
+  font-size: .95rem;
+}
 
 .ct-filters {
   display: flex;
@@ -1075,57 +1142,96 @@ body.fact-lock-page .fact-lock-sheet .study-mcq {
 .ct-reset { border-radius: .45rem; }
 
 .ct-list {
-  margin: .4rem 0 1.4rem;
-}
-.ct-list > ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
   display: grid;
   gap: .4rem;
+  margin: .4rem 0 1.4rem;
 }
-.ct-list > ul > li { margin: 0; }
-.ct-row {
+.chapter-tracker-page .md-typeset details.ct-row {
+  display: block;
+  margin: 0;
+  padding: 0;
+  border: 1px solid var(--study-hairline);
+  border-radius: .55rem;
+  background: var(--study-surface);
+  box-shadow: none;
+}
+.chapter-tracker-page .md-typeset details.ct-row > summary {
   display: grid;
-  grid-template-columns: auto 1fr auto;
+  grid-template-columns: auto 1fr auto auto;
   gap: .7rem;
   align-items: center;
   margin: 0;
   padding: .55rem .75rem;
-  border: 1px solid var(--study-hairline);
-  border-radius: .55rem;
-  background: var(--study-surface);
   cursor: pointer;
+  list-style: none;
+  font-weight: 600;
+  background: transparent;
 }
+.chapter-tracker-page .md-typeset details.ct-row > summary::-webkit-details-marker,
+.chapter-tracker-page .md-typeset details.ct-row > summary::marker,
+.chapter-tracker-page .md-typeset details.ct-row > summary::before {
+  display: none;
+  content: "";
+}
+.chapter-tracker-page .md-typeset details.ct-row > summary::after {
+  content: "";
+  width: .45rem;
+  height: .45rem;
+  margin-left: .15rem;
+  border-right: 2px solid var(--md-default-fg-color--light);
+  border-bottom: 2px solid var(--md-default-fg-color--light);
+  transform: rotate(45deg);
+  transition: transform .15s ease;
+}
+.chapter-tracker-page .md-typeset details.ct-row[open] > summary::after {
+  transform: rotate(225deg);
+}
+.ct-title { min-width: 0; }
 .ct-row:hover { box-shadow: var(--study-shadow); }
 .ct-row.is-done {
-  opacity: .62;
   background: color-mix(in srgb, #16a34a 8%, var(--study-surface));
 }
-.ct-row.is-done a { text-decoration: line-through; }
-.ct-row a {
-  font-weight: 600;
-  text-decoration: none;
+.ct-row.is-done .ct-title { text-decoration: line-through; opacity: .7; }
+.ct-panel {
+  padding: .15rem .9rem .85rem 2.4rem;
+  border-top: 1px solid var(--study-hairline);
 }
+.ct-panel p { margin: .35rem 0; font-size: .88rem; }
+.ct-topics {
+  margin: .15rem 0 .75rem;
+  padding-left: 1.15rem;
+}
+.ct-topics li { margin: .22rem 0; font-size: .88rem; }
+.ct-topics a { font-weight: 600; }
+.ct-open { margin-top: .55rem; }
 .ct-pills {
   font-family: var(--study-ui);
   font-size: .72rem;
   font-weight: 700;
   letter-spacing: .02em;
-  white-space: nowrap;
+  white-space: normal;
+  text-align: right;
+  line-height: 1.35;
+  max-width: 15.5rem;
   color: var(--md-default-fg-color--light);
 }
 .ct-list--high .ct-row { border-left: 3px solid #b45309; }
 .ct-list--medium .ct-row { border-left: 3px solid #273c75; }
 .ct-list--least .ct-row { border-left: 3px solid #64748b; }
 
-.md-typeset h3:has(+ .ct-list--high) { color: #b45309; }
-.md-typeset h3:has(+ .ct-list--medium) { color: #273c75; }
-.md-typeset h3:has(+ .ct-list--least) { color: #64748b; }
+.md-typeset h3.ct-group-title:has(+ .ct-list--high) { color: #b45309; }
+.md-typeset h3.ct-group-title:has(+ .ct-list--medium) { color: #273c75; }
+.md-typeset h3.ct-group-title:has(+ .ct-list--least) { color: #64748b; }
 
 @media (max-width: 720px) {
-  .ct-row {
-    grid-template-columns: auto 1fr;
+  .chapter-tracker-page .md-typeset details.ct-subject > summary {
+    grid-template-columns: 1fr auto auto;
+  }
+  .ct-subject-count {
+    display: none;
+  }
+  .chapter-tracker-page .md-typeset details.ct-row > summary {
+    grid-template-columns: auto 1fr auto;
   }
   .ct-pills {
     grid-column: 2;

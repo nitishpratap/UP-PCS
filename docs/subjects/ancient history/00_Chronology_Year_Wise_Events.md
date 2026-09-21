@@ -173,7 +173,7 @@ Prehistoric cultures | Indus / Harappan phases | Vedic age | Mahajanapadas & Mag
 | **c. 319–320 CE** | Chandragupta I; beginning of the Gupta Era; marriage alliance with the Licchavis |
 | **c. 335–375 CE** | Samudragupta’s conquests; Allahabad / Prayaga Prashasti of Harishena; Vincent Smith’s “Indian Napoleon” tag |
 | **c. 345 CE** | Mayurasharma founds the Kadamba kingdom at Banavasi |
-| **c. 375–415 CE** | Chandragupta II Vikramaditya; defeat of western Shakas; court of the Navaratnas; age of Kalidasa in coaching keys |
+| **c. 375–415 CE** | Chandragupta II Vikramaditya (विक्रमादित्य); defeat of western Shakas; court of the Navaratnas; age of **Kalidasa** (कालिदास) in coaching keys |
 | **c. 399–414 CE** | Fa-Hien (Faxian) travels in Gupta India |
 | **c. 415–455 CE** | Kumaragupta I; title Mahendraditya; Nalanda’s early growth under Gupta patronage |
 | **c. 455–467 CE** | Skandagupta faces the Hunas |

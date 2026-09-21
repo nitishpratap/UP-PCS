@@ -53,19 +53,19 @@ Ancient Indian Literature | Sanskrit Literature | Vedic Literature | Epic Litera
 26. **Kamban** (कंबन) wrote *Ramavataram* (रामावतारम्), the Tamil Ramayana. ***Tirumurai*** (तिरुमुरै) is the Saiva hymn corpus treated as a Fifth Veda of Tamil Shaivism.
 27. **Alvars** number **12** (Vaishnava); **Nayanars** (नायनार) number **63** (Shaiva). Do not reverse the counts.
 28. Greek **Herodotus** is the **Father of History**; his *Histories / Historica* describes Indo–Persian relations in the **5th century BCE**. *Natural History* is **Pliny the Elder**, not Ptolemy.
-29. Gupta-age classics include **Amarasimha**’s *Amarakosha* (अमरकोश), **Vatsyayana**’s *Kamasutra*, Kalidasa’s *Meghaduta*, and **Vishakhadatta**’s *Mudrarakshasa* (Maurya overthrow of the Nandas, written in the Gupta age).
+29. Gupta-age classics include **Amarasimha**’s (अमरसिंह) *Amarakosha* (अमरकोश), **Vatsyayana**’s (वात्स्यायन) *Kamasutra* (कामसूत्र), **Kalidasa**’s (कालिदास) *Meghaduta* (मेघदूत), and **Vishakhadatta**’s (विशाखदत्त) *Mudrarakshasa* (मुद्राराक्षस) (Maurya overthrow of the Nandas, written in the Gupta age).
 30. **Panini** (पाणिनि) wrote the *Ashtadhyayi* (अष्टाध्यायी). **Patanjali** (पतंजलि) wrote the *Mahabhashya* (महाभाष्य). **Yaska** (यास्क) wrote the *Nirukta* (निरुक्त). **Katyayana** (कात्यायन) wrote the *Varttika* (वार्त्तिक). Panini is not a Pushyamitra court poet. Patanjali is Shunga-linked.
 31. **Kalhana**’s *Rajatarangini* is the Sanskrit chronicle of **Kashmir** kings, completed under **Jayasimha / Jai Singh (1128–1149)**, in **eight** tarangas. Continuators are **Jonaraja** and **Srivara**.
 32. **Harsha** (हर्ष) wrote *Ratnavali* (रत्नावली), *Priyadarshika* (प्रियदर्शिका), and *Nagananda* (नागानन्द). *Harshacharita* and *Kadambari* are **Banabhatta**. *Karpuramanjari* (कर्पूरमंजरी) is **Rajasekhara** (राजशेखर), not Harsha.
 33. **Sriharsha** (श्रीहर्ष) wrote *Naishadhiyacharita* (नैषधीयचरित). **Bharavi** (भारवि) wrote *Kiratarjuniya* (किरातार्जुनीय). **Magha** (माघ) wrote *Shishupalavadha* (शिशुपालवध). *Dashakumaracharita* (दशकुमारचरित) by **Dandin** (दंडी) is not a Mahabharata theme.
-34. **Varahamihira** wrote *Panchasiddhantika* (पंचसिद्धांतिका) (based on **Greek** astronomy), *Brihatsamhita* (encyclopedic), and *Brihat Jataka*. *Amarakosha* is **Amarasimha**, not Varaha.
-35. **Charaka Samhita** is Ayurveda medicine in **120 chapters** and **eight** sections. **Bhaskara II**’s *Siddhantashiromani* has four parts: *Lilavati*, *Bijaganita*, *Ganitadhyaya*, *Goladhyaya* (algebra fame).
-36. **Aryabhata** wrote *Aryabhatiya*; earth is spherical and rotates; often tagged for trigonometry and decimal place-value teaching. **Zero** as a numeral is credited to an **anonymous Indian** (Arabs used it by **873 CE**).
+34. **Varahamihira** (वराहमिहिर) wrote *Panchasiddhantika* (पंचसिद्धांतिका) (based on **Greek** astronomy), *Brihatsamhita* (बृहत्संहिता) (encyclopedic), and *Brihat Jataka* (बृहज्जातक). *Amarakosha* (अमरकोश) is **Amarasimha** (अमरसिंह), not Varaha.
+35. **Charaka Samhita** (चरक संहिता) is Ayurveda medicine in **120 chapters** and **eight** sections. **Bhaskara II**’s (भास्कर द्वितीय) *Siddhantashiromani* (सिद्धांत शिरोमणि) has four parts: *Lilavati* (लीलावती), *Bijaganita* (बीजगणित), *Ganitadhyaya* (गणिताध्याय), *Goladhyaya* (गोलाध्याय) (algebra fame).
+36. **Aryabhata** (आर्यभट) wrote *Aryabhatiya* (आर्यभटीय); earth is spherical and rotates; often tagged for trigonometry and decimal place-value teaching. **Zero** as a numeral is credited to an **anonymous Indian** (Arabs used it by **873 CE**).
 37. *Panchatantra* (पंचतंत्र) is attributed to **Vishnu Sharma** (विष्णु शर्मा). Abul Fazl’s Mughal Persian rendering is ***Ayar-e-Danish*** (आयारे दानिश).
 38. *Natyashastra* (नाट्यशास्त्र) is **Bharata Muni** (भरत मुनि). **Bhasa** (भास) wrote *Svapnavasavadattam* (स्वप्नवासवदत्तम्) and *Madhyama-vyayoga* (मध्यमव्यायोग).
 39. **Manusmriti** (मनुस्मृति) is mainly the social and law system. **Mitakshara** (मिताक्षरा) is **Vijnaneshwara** (विज्ञानेश्वर) on Yajnavalkya. **Dayabhaga** (दायाभाग) is **Jimutavahana** (जीमूतवाहन).
-40. Court–poet matches: **Chandragupta II** (चंद्रगुप्त द्वितीय)–Kalidasa; **Samudragupta**–**Harisena**; **Harsha**–Banabhatta; **Alauddin Khalji** (अलाउद्दीन खिलजी)–Amir Khusrau. **Jayadeva** (*Gita Govinda*) adorned **Lakshmana Sena**’s Bengal court.
-41. Wrong-pair traps: *Devichandragupta* = **Vishakhadatta** (not **Bilhana** (बिल्हण)); *Milindapanha* (मिलिंदपन्ह) monk = **Nagasena** (नागसेन) (not Nagarjuna); *Kadambari* = **Banabhatta** (not Subandhu); *Buddhacharita* = **Ashvaghosha** (not Vasubandhu).
+40. Court–poet matches: **Chandragupta II** (चंद्रगुप्त द्वितीय)–**Kalidasa** (कालिदास); **Samudragupta** (समुद्रगुप्त)–**Harisena** (हरिषेण); **Harsha** (हर्ष)–**Banabhatta** (बाणभट्ट); **Alauddin Khalji** (अलाउद्दीन खिलजी)–**Amir Khusrau** (अमीर खुसरो). **Jayadeva** (जयदेव) (*Gita Govinda* (गीत गोविंद)) adorned **Lakshmana Sena**’s Bengal court.
+41. Wrong-pair traps: *Devichandraguptam* (देवीचन्द्रगुप्तम्) = **Vishakhadatta** (विशाखदत्त) (not **Bilhana** (बिल्हण)); *Milindapanha* (मिलिंदपन्ह) monk = **Nagasena** (नागसेन) (not Nagarjuna); *Kadambari* (कादंबरी) = **Banabhatta** (बाणभट्ट) (not Subandhu); *Buddhacharita* (बुद्धचरित) = **Ashvaghosha** (अश्वघोष) (not Vasubandhu).
 42. *Mattavilasa Prahasana* (मत्तविलास प्रहसन) is Pallava **Mahendravarman I** (महेन्द्रवर्मन प्रथम). *Gaudavaho* (गौडवहो) is **Vakpati** (वाकपति). *Katantra* (कातंत्र) is **Sarvavarman** (सर्ववर्मन). *Nitisara* (नीतिसार) is **Kamandaka** (कामंदक).
 
 ---
@@ -78,7 +78,7 @@ Ancient Indian Literature | Sanskrit Literature | Vedic Literature | Epic Litera
 | Samhita | Brahmana | Mantra collection vs ritual prose | संहिता / ब्राह्मण |
 | Shukla Yajurveda | Krishna Yajurveda | Vajasaneyi (Madhyandina, Kanva) vs Taittiriya, Maitrayani, Kathaka, Kapisthala | शुक्ल / कृष्ण यजुर्वेद |
 | Itihasa | Purana | Ramayana–Mahabharata vs 18 Maha Puranas | इतिहास / पुराण |
-| Kavya | Nataka | Poem (Meghaduta) vs drama (Shakuntala) | काव्य / नाटक |
+| Kavya | Nataka | Poem (*Meghaduta* (मेघदूत)) vs drama (*Abhijnanashakuntalam* (अभिज्ञानशाकुन्तलम्)) | काव्य / नाटक |
 | Kalidasa | Bhavabhuti | 3 plays + 4 poems vs Uttararamacharita | कालिदास / भवभूति |
 | 8th Schedule | Classical language | Constitutional **22** vs Culture tag **11** | अष्टम अनुसूची / शास्त्रीय भाषा |
 | 8th Schedule | Sahitya Akademi | 22 vs **24** award languages | 22 / 24 |
@@ -113,8 +113,8 @@ Ancient Indian Literature | Sanskrit Literature | Vedic Literature | Epic Litera
 
 | Author | Work |
 |--------|------|
-| Kalidasa | *Meghaduta*, *Raghuvamsha*, *Shakuntala*… |
-| Bhartrihari | *Shringara Shataka* (शृंगार शतक) |
+| **Kalidasa** (कालिदास) | *Abhijnanashakuntalam* (अभिज्ञानशाकुन्तलम्), *Malavikagnimitram* (मालविकाग्निमित्रम्), *Vikramorvashiya* (विक्रमोर्वशीयम्); *Raghuvamsha* (रघुवंश), *Kumarasambhava* (कुमारसंभव), *Meghaduta* (मेघदूत), *Ritusamhara* (ऋतुसंहार) |
+| **Bhartrihari** (भर्तृहरि) | *Shringara Shataka* (शृंगार शतक) |
 | Panini / Patanjali | *Ashtadhyayi* / *Mahabhashya* |
 | Charaka / Sushruta | Medicine / surgery |
 | Banabhatta | *Harshacharita*, *Kadambari* |
@@ -131,7 +131,7 @@ Ancient Indian Literature | Sanskrit Literature | Vedic Literature | Epic Litera
 | Classical languages | **11** after **3 Oct 2024** |
 | Early classical years | Tamil 2004 · Sanskrit 2005 · Kannada/Telugu 2008 · Malayalam 2013 · Odia 2014 |
 | Alvars / Nayanars | **12** Vaishnava / **63** Shaiva |
-| Court–poet | CG II–Kalidasa; Samudragupta–Harisena; Harsha–Bana |
+| Court–poet | CG II (चंद्रगुप्त द्वितीय)–Kalidasa (कालिदास); Samudragupta (समुद्रगुप्त)–Harisena (हरिषेण); Harsha (हर्ष)–Bana (बाण) |
 
 ---
 
@@ -162,20 +162,23 @@ Classical Sanskrit follows Panini. It covers kavya, nataka, and shastra. Gupta a
 ### Gupta peak & foreign mirrors
 
 - Sanskrit literature reached a classical peak in the **Gupta** (गुप्त) age for both prose and poetry.
-- High-yield Gupta-age classics include **Amarasimha**’s *Amarakosha*, **Vatsyayana**’s *Kamasutra*, Kalidasa’s *Meghaduta*, and **Vishakhadatta**’s *Mudrarakshasa*.
-- *Mudrarakshasa* is a Sanskrit drama written in the Gupta period. Its plot shows **Chandragupta Maurya** (चंद्रगुप्त मौर्य) and **Kautilya** (कौटिल्य) overthrowing the **Nandas**, and it also paints Mauryan social and economic life.
-- Vishakhadatta also wrote ***Devichandraguptam** (देवीचन्द्रगुप्तम्)* (do not assign it to **Bilhana** (बिल्हण)).
+- High-yield Gupta-age classics include **Amarasimha**’s (अमरसिंह) *Amarakosha* (अमरकोश), **Vatsyayana**’s (वात्स्यायन) *Kamasutra* (कामसूत्र), **Kalidasa**’s (कालिदास) *Meghaduta* (मेघदूत), and **Vishakhadatta**’s (विशाखदत्त) *Mudrarakshasa* (मुद्राराक्षस).
+- *Mudrarakshasa* (मुद्राराक्षस) is a Sanskrit drama written in the Gupta period. Its plot shows **Chandragupta Maurya** (चंद्रगुप्त मौर्य) and **Kautilya** (कौटिल्य) overthrowing the **Nandas**, and it also paints Mauryan social and economic life.
+- **Vishakhadatta** (विशाखदत्त) also wrote *Devichandraguptam* (देवीचन्द्रगुप्तम्) (do not assign it to **Bilhana** (बिल्हण)).
 
 ### Kalidasa (highest-yield author)
 
-**Seven genuine works traditionally listed:**
-**Drama:** *Abhijnanashakuntalam* (अभिज्ञानशाकुन्तलम्), *Vikramorvashiya* (विक्रमोर्वशीयम्), *Malavikagnimitram* (मालविकाग्निमित्रम्)
-**Kavya:** *Raghuvamsha* (रघुवंश), *Kumarasambhava* (कुमारसंभव), *Meghaduta* (मेघदूत), *Ritusamhara* (ऋतुसंहार)
+**Kalidasa (कालिदास) | Chandragupta II (चंद्रगुप्त द्वितीय) court tradition**
 
-- *Meghaduta* is a khandakavya (cloud-messenger).
-- *Raghuvamsha* is a mahakavya.
-- ***Malavikagnimitram*** is often treated as Kalidasa’s **first** play. It is a five-act love story of Shunga king **Agnimitra** of Vidisha (son of Pushyamitra’s line) and Malavika.
-- These works are **not his**. *Shringara Shataka* is **Bhartrihari**. *Uttararamacharita* (उत्तररामचरित) is Bhavabhuti. *Mrichchhakatika* (मृच्छकटिकम्) is Shudraka. *Mudrarakshasa* is Vishakhadatta. ***Janakiharanam*** is **Kumaradasa**, not Kalidasa.
+- **Kalidasa** (कालिदास) belongs to the Chandragupta II (चंद्रगुप्त द्वितीय) tradition.
+- The play *Abhijnanashakuntalam* (अभिज्ञानशाकुन्तलम्) is his drama of Dushyanta and Shakuntala.
+- The play *Malavikagnimitram* (मालविकाग्निमित्रम्) is his drama of Shunga king Agnimitra and Malavika. It is often treated as his **first** play.
+- The play *Vikramorvashiya* (विक्रमोर्वशीयम्) is his drama of Pururavas and Urvashi.
+- The mahakavya *Raghuvamsha* (रघुवंश) is his epic of Raghu’s line.
+- The mahakavya *Kumarasambhava* (कुमारसंभव) is his epic of the birth of Kartikeya.
+- The lyric *Meghaduta* (मेघदूत) is his cloud-messenger *khandakavya* (खंडकाव्य).
+- The lyric *Ritusamhara* (ऋतुसंहार) is his cycle of the six seasons.
+- These works are **not his**. *Shringara Shataka* (शृंगार शतक) is **Bhartrihari** (भर्तृहरि). *Uttararamacharita* (उत्तररामचरित) is **Bhavabhuti** (भवभूति). *Mrichchhakatika* (मृच्छकटिकम्) is **Shudraka** (शूद्रक). *Mudrarakshasa* (मुद्राराक्षस) is **Vishakhadatta** (विशाखदत्त). *Janakiharanam* (जानकीहरणम्) is **Kumaradasa** (कुमारदास), not Kalidasa.
 
 **PYQ — UPPCS Prelims 2025, Q48**
 
@@ -201,34 +204,34 @@ D. Only 1
 
 #### The Great Classical Dramas & Works Master Matrix
 
-| Playwright / Author | Major Works | Genre / Category | Patron / Court / Period | Protagonists, Core Theme & High-Yield Exam Facts |
+| Playwright / Author | Major Works | Genre / Category | Patron / Court / Period | Protagonists, Core Theme & High-Yield Facts |
 | :--- | :--- | :--- | :--- | :--- |
-| **Shudraka** (शूद्रक) | ***Mrichchhakatika*** (मृच्छकटिकम् — "The Little Clay Cart") | 10-Act *Prakarana* (Social / Middle-class Drama) | Classical / Post-Gupta Era | • **Protagonists:** **Charudatta** (impoverished, noble Brahmin merchant of Ujjayini) & **Vasantasena** (wealthy, virtuous courtesan).<br>• **Subplot:** Political revolution in Ujjayini where the rebel cowherd **Aryaka** overthrows the tyrant King Palaka.<br>• **Key Figures:** Samsthanaka (Shakara — the wicked villain who strangles Vasantasena and frames Charudatta), Maitreya (the Vidushaka), Rohasena (Charudatta’s young son who cries for a golden toy cart, filled with jewels by Vasantasena).<br>• **Exam Trap:** Distinct from royal heroic plays; realistically portrays thieves, gamblers, city crowds, and justice. |
+| **Shudraka** (शूद्रक) | ***Mrichchhakatika*** (मृच्छकटिकम् — "The Little Clay Cart") | 10-Act *Prakarana* (Social / Middle-class Drama) | Classical / Post-Gupta Era | • **Protagonists:** **Charudatta** (impoverished, noble Brahmin merchant of Ujjayini) & **Vasantasena** (wealthy, virtuous courtesan).<br>• **Subplot:** Political revolution in Ujjayini where the rebel cowherd **Aryaka** overthrows the tyrant King Palaka.<br>• **Key Figures:** Samsthanaka (Shakara — the wicked villain who strangles Vasantasena and frames Charudatta), Maitreya (the Vidushaka), Rohasena (Charudatta’s young son who cries for a golden toy cart, filled with jewels by Vasantasena).<br>• **Trap:** Distinct from royal heroic plays; realistically portrays thieves, gamblers, city crowds, and justice. |
 | **Vishakhadatta** (विशाखदत्त) | 1. ***Mudrarakshasa*** (मुद्राराक्षस — "Signet Ring of Rakshasa")<br>2. ***Devichandraguptam*** (देवीचन्द्रगुप्तम्) | Political Drama / Historical Play | Gupta Period (circa 5th–6th c. CE) | • *Mudrarakshasa:* **Zero female lead / romance**. Pure political espionage. Depicts **Chanakya** outwitting Rakshasa (loyal minister of the overthrown Nandas) to secure the throne for **Chandragupta Maurya**.<br>• *Devichandraguptam:* Tragic story of cowardly king **Ramagupta** offering Queen **Dhruvadevi** to Shaka invaders, rescued by younger brother **Chandragupta II** disguised as Dhruvadevi (do not assign to Bilhana!). |
 | **Bhasa** (भास) | **13 Surviving Plays** (*Trivandrum Plays*, discovered in 1912 by **T. Ganapati Sastri**) | Classical Nataka & Vyayoga | Pre-Kalidasa (approx 2nd–3rd c. CE) | • ***Svapnavasavadattam*** (स्वप्नवासवदत्तम्): Love story of King **Udayana** of Vatsa (Kaushambi) and Queen **Vasavadatta** (Avanti).<br>• ***Urubhanga*** (ऊरुभंग — "Breaking of the Thighs"): **The ONLY known tragedy in classical Sanskrit drama**, depicting Duryodhana’s death on Kurukshetra.<br>• ***Madhyama-vyayoga*** (मध्यमव्यायोग): Bhima, Hidimba & Ghatotkacha reunion.<br>• ***Karnabhara*** (कर्णभार): Karna gifting his divine armor & earrings to disguised Indra.<br>• ***Charudatta***: 4-act prototype later expanded by Shudraka into *Mrichchhakatika*. |
-| **Kalidasa** (कालिदास) | 1. ***Abhijnanashakuntalam***<br>2. ***Malavikagnimitram***<br>3. ***Vikramorvashiya*** | Nataka (Court Dramas) | Chandragupta II (Vikramaditya) / Gupta Golden Age | • *Abhijnanashakuntalam:* King Dushyanta & Shakuntala; ring lost in Sachitirtha.<br>• *Malavikagnimitram:* Kalidasa’s first play; love story of Shunga King **Agnimitra** and princess Malavika.<br>• *Vikramorvashiya:* Vedic legend of King Pururavas and celestial nymph Urvashi. |
+| **Kalidasa** (कालिदास) | 1. ***Abhijnanashakuntalam*** (अभिज्ञानशाकुन्तलम्)<br>2. ***Malavikagnimitram*** (मालविकाग्निमित्रम्)<br>3. ***Vikramorvashiya*** (विक्रमोर्वशीयम्) | Nataka (नाटक) (Court Dramas) | Chandragupta II (चंद्रगुप्त द्वितीय) (Vikramaditya (विक्रमादित्य)) / Gupta Golden Age | • *Abhijnanashakuntalam* (अभिज्ञानशाकुन्तलम्): King Dushyanta & Shakuntala; ring lost in Sachitirtha.<br>• *Malavikagnimitram* (मालविकाग्निमित्रम्): Kalidasa’s first play; love story of Shunga King **Agnimitra** (अग्निमित्र) and princess Malavika.<br>• *Vikramorvashiya* (विक्रमोर्वशीयम्): Vedic legend of King Pururavas and celestial nymph Urvashi. |
 | **Harshavardhana** (हर्षवर्धन) | 1. ***Ratnavali*** (रत्नावली)<br>2. ***Priyadarshika*** (प्रियदर्शिका)<br>3. ***Nagananda*** (नागानन्द) | Sanskrit Natika & Buddhist Drama | King of Kannauj (Pushyabhuti dynasty, 606–647 CE) | • *Ratnavali:* King Udayana and Princess Ratnavali (Sagarika).<br>• *Nagananda:* Buddhist-themed play depicting the supreme self-sacrifice of Prince **Jimutavahana** offering his own body to Garuda to save the Nagas.<br>• Remembered as a monarch who excelled with both sword and pen. |
-| **Bhavabhuti** (भवभूति) | 1. ***Uttararamacharita*** (उत्तररामचरित)<br>2. ***Mahaviracharita***<br>3. ***Malatimadhava*** | Sanskrit Drama (Kavya-Nataka) | Court poet of King **Yashovarman** of Kannauj (8th c. CE) | • *Uttararamacharita:* Later life of Rama, exile of pregnant Sita, reunion with sons Lava and Kusha; acclaimed as the supreme masterpiece of the **Karuna Rasa** (pathos/compassion).<br>• *Malatimadhava:* Passionate love of Malati & Madhava, featuring chilling tantric Aghoraghanta & Kapalika rituals in cremation grounds. |
+| **Bhavabhuti** (भवभूति) | 1. ***Uttararamacharita*** (उत्तररामचरित)<br>2. ***Mahaviracharita*** (महावीरचरित)<br>3. ***Malatimadhava*** (मालतीमाधव) | Sanskrit Drama (Kavya-Nataka) | Court poet of King **Yashovarman** (यशोवर्मन) of Kannauj (8th c. CE) | • *Uttararamacharita* (उत्तररामचरित): Later life of Rama, exile of pregnant Sita, reunion with sons Lava and Kusha; acclaimed as the supreme masterpiece of the **Karuna Rasa** (करुण रस) (pathos/compassion).<br>• *Malatimadhava* (मालतीमाधव): Passionate love of Malati & Madhava, featuring chilling tantric Aghoraghanta & Kapalika rituals in cremation grounds. |
 | **Mahendravarman I** (महेन्द्रवर्मन प्रथम) | ***Mattavilasa Prahasana*** (मत्तविलास प्रहसन — "The Farce of Drunken Sport") | Short Satirical Farce (*Prahasana*) | Pallava Dynasty of Kanchi (early 7th c. CE) | • Hilarious satire mocking the moral degeneration and hypocrisy of drunken **Kapalika** Shaivite ascetics, Pashupatas, and heterodox Buddhist monks in Kanchi. |
 | **Bhattanarayana** (भट्टनारायण) | ***Venisamhara*** (वेणीसंहार — "Braiding of the Hair") | Heroic Drama (*Nataka*) | Early Medieval (Bengal / Kannauj tradition) | • Based on the Mahabharata; depicts **Bhima** fulfilling his vow to kill Duhshasana, break Duryodhana's thighs, and braid Draupadi's dishevelled hair with their blood. |
 | **Rajasekhara** (राजशेखर) | 1. ***Karpuramanjari*** (कर्पूरमंजरी)<br>2. ***Kavyamimamsa*** (काव्यमीमांसा)<br>3. ***Balaramayana*** | Prakrit Drama & Literary Poetics | Gurjara-Pratihara court of **Mahendrapala I** & **Mahipala** | • *Karpuramanjari* is celebrated for being composed entirely in **Sauraseni Prakrit** (not Sanskrit; do not attribute to Harsha!).<br>• *Kavyamimamsa:* Practical reference handbook on poetic craft and geography for aspiring poets. |
 | **Banabhatta** (बाणभट्ट) | 1. ***Harshacharita*** (हर्षचरित)<br>2. ***Kadambari*** (कादंबरी) | Akhyayika (Biography) & Katha (Prose Romance) | Court of King **Harsha** of Kannauj | • *Harshacharita:* First formal historical biography in Sanskrit prose.<br>• *Kadambari:* Celebrated complex romantic novel (completed by his son Bhushanbhatta); do not confuse with Subandhu. |
 | **Jayadeva** (जयदेव) | ***Gita Govinda*** (गीत गोविंद) | Lyrical Devotional Poem (Giti-Kavya) | Court poet of King **Lakshmana Sena** of Bengal (12th c. CE) | • 12 Sargas and 24 Prabandhas describing the mystical divine love, separation, and union of Radha and Krishna; fundamental to Vaishnava Sahajiya and Bhakti movements. |
 | **Somadeva** (सोमदेव) | 1. ***Kathasaritsagara*** (कथासरित्सागर)<br>2. ***Lalit Vigraharaja*** | Narrative Lore & Drama | Kashmir (under Ananta/Kalasha) & Chahamana court | • *Kathasaritsagara:* Massive compilation of folk tales in 18 books (*Lambakas*), adapting Gunadhya’s lost *Brihatkatha* (written in Paisachi Prakrit).<br>• *Lalit Vigraharaja:* Court drama celebrating King Vigraharaja IV (Visaladeva) of Shakambhari. |
-| **Kshemendra** (क्षेमेन्द्र) | ***Brihatkathamanjari***, *Deshopadesha*, *Auchityavicharacharcha* | Narrative Anthologies & Literary Criticism | 11th c. Kashmir | • Famous for *Brihatkathamanjari* (abridgement of Brihatkatha) and establishing the **Auchitya** (propriety) school of poetics. |
+| **Kshemendra** (क्षेमेन्द्र) | ***Brihatkathamanjari*** (बृहत्कथामंजरी), *Deshopadesha* (देशोपदेश), *Auchityavicharacharcha* (औचित्यविचारचर्चा) | Narrative Anthologies & Literary Criticism | 11th c. Kashmir | • Famous for *Brihatkathamanjari* (बृहत्कथामंजरी) (abridgement of Brihatkatha (बृहत्कथा)) and establishing the **Auchitya** (औचित्य) (propriety) school of poetics. |
 | **Subandhu** (सुबन्धु) | ***Vasavadatta*** (वासवदत्ता) | Sanskrit Prose Romance | Gupta / Post-Gupta Era | • Romantic prose tale renowned for relentless double entendres (*Shlesha* — every syllable carrying two meanings); completely different book from Bhasa’s play *Svapnavasavadattam*. |
 | **Bilhana** (बिल्हण) | ***Vikramankadevacharita*** (विक्रमांकदेवचरित) | Historical Mahakavya | Court of Western Chalukya King **Vikramaditya VI** | • Epic eulogy describing the life and triumphs of the Kalyani Chalukya king. Also wrote the famous lyrical love poem *Chaurapanchashika*. |
 | **Kamandaka** (कामन्दक) | ***Nitisara*** (नीतिसार) | Treatise on Statecraft & Polity | Gupta Era | • Classic political treatise based directly on Kautilya's Arthashastra; explains Mandala theory, Rajadharma, and diplomacy. |
 
-- Court–poet spine: **Chandragupta II**–Kalidasa; **Samudragupta**–**Harisena** (Allahabad prasasti); **Harsha**–Banabhatta; **Alauddin Khalji**–Amir Khusrau.
-- **Amarasimha** belongs to Chandragupta II’s Navaratna circle. He is **not** Harshavardhana’s poet.
+- Court–poet spine: **Chandragupta II** (चंद्रगुप्त द्वितीय)–**Kalidasa** (कालिदास); **Samudragupta** (समुद्रगुप्त)–**Harisena** (हरिषेण) (Allahabad prasasti); **Harsha** (हर्ष)–**Banabhatta** (बाणभट्ट); **Alauddin Khalji** (अलाउद्दीन खिलजी)–**Amir Khusrau** (अमीर खुसरो).
+- **Amarasimha** (अमरसिंह) belongs to Chandragupta II’s Navaratna circle. He is **not** Harshavardhana’s poet.
 
 ### Mahakavya from the Mahabharata
 
 - **Sriharsha** (श्रीहर्ष) wrote *Naishadhiyacharita* (नैषधीयचरित) on **Nala and Damayanti**.
 - **Bharavi** (भारवि) wrote *Kiratarjuniya* (किरातार्जुनीय) on Arjuna’s combat with Shiva as a kirata.
 - **Magha** (माघ) wrote *Shishupalavadha* (शिशुपालवध) on Krishna and Shishupala.
-- **Dandin** wrote *Dashakumaracharita* (adventures of ten princes) and *Kavyadarsha*. It is **not** a Mahabharata-theme epic.
+- **Dandin** (दंडी) wrote *Dashakumaracharita* (दशकुमारचरित) (adventures of ten princes) and *Kavyadarsha* (काव्यादर्श). It is **not** a Mahabharata-theme epic.
 
 ### Kashmir chronicles and related histories
 
@@ -241,17 +244,17 @@ D. Only 1
 
 ### Science, law, and didactic texts
 
-- **Varahamihira** wrote *Panchasiddhantika* (based on **Greek** astronomy), *Brihatsamhita* (encyclopedic), and *Brihat Jataka*.
-- **Aryabhata** wrote *Aryabhatiya* covering arithmetic, algebra, plane and spherical trigonometry, and astronomy. He taught that the earth is **spherical** and **rotates** on its axis. He is often called a pioneer of trigonometry and linked with decimal place-value teaching.
-- **Bhaskara II (Bhaskaracharya)** wrote *Siddhantashiromani* in four parts: *Lilavati*, *Bijaganita* (algebra), *Ganitadhyaya*, and *Goladhyaya*. He is the usual “algebra” name in options.
+- **Varahamihira** (वराहमिहिर) wrote *Panchasiddhantika* (पंचसिद्धांतिका) (based on **Greek** astronomy), *Brihatsamhita* (बृहत्संहिता) (encyclopedic), and *Brihat Jataka* (बृहज्जातक).
+- **Aryabhata** (आर्यभट) wrote *Aryabhatiya* (आर्यभटीय) covering arithmetic, algebra, plane and spherical trigonometry, and astronomy. He taught that the earth is **spherical** and **rotates** on its axis. He is often called a pioneer of trigonometry and linked with decimal place-value teaching.
+- **Bhaskara II (Bhaskaracharya)** (भास्कर द्वितीय) wrote *Siddhantashiromani* (सिद्धांत शिरोमणि) in four parts: *Lilavati* (लीलावती), *Bijaganita* (बीजगणित) (algebra), *Ganitadhyaya* (गणिताध्याय), and *Goladhyaya* (गोलाध्याय). He is the usual “algebra” name in options.
 - **Zero** as a numeral is credited to an **anonymous Indian**; Arabs learned it from India and used it by about **873 CE**.
 - ***Manusmriti*** (*Manava Dharmashastra*) is mainly about the **social system** and law. Manu is remembered as the first law-giver of India.
 - **Vijnaneshwara** (विज्ञानेश्वर) wrote the *Mitakshara* (मिताक्षरा) on Yajnavalkya Smriti. **Jimutavahana** (जीमूतवाहन) wrote the *Dayabhaga* (दायाभाग). In Mitakshara, sons can claim a right in the father’s lifetime. In Dayabhaga, the claim is generally after the father’s death.
 - **Sarvavarman** wrote *Katantra* (grammar). **Devana Bhatta** wrote *Smriti Chandrika*. **Hemadri** wrote *Chaturvarga Chintamani*. **Madhavacharya** is linked with *Parashara Madhava*. **Ballala Sena** wrote *Dana Sagara*.
-- *Panchatantra* animal fables are attributed to **Vishnu Sharma**. The set is said to have been translated into about **15** Indian and **40** foreign languages. In the Mughal age **Abul Fazl** (अबुल फजल) rendered it as ***Ayar-e-Danish***.
-- **Bharata Muni**’s *Natyashastra* is the treatise on drama, dance, and music — often called the “Bible” of North Indian classical music.
-- **Bhamaha** wrote *Kavyalankara*. Do not confuse it with Bhasa’s plays.
-- Pallava **Mahendravarman I** wrote the farce ***Mattavilasa Prahasana***.
+- *Panchatantra* (पंचतंत्र) animal fables are attributed to **Vishnu Sharma** (विष्णु शर्मा). The set is said to have been translated into about **15** Indian and **40** foreign languages. In the Mughal age **Abul Fazl** (अबुल फजल) rendered it as ***Ayar-e-Danish*** (आयारे दानिश).
+- **Bharata Muni**’s (भरत मुनि) *Natyashastra* (नाट्यशास्त्र) is the treatise on drama, dance, and music — often called the “Bible” of North Indian classical music.
+- **Bhamaha** (भामह) wrote *Kavyalankara* (काव्यालंकार). Do not confuse it with Bhasa’s plays.
+- Pallava **Mahendravarman I** (महेन्द्रवर्मन प्रथम) wrote the farce *Mattavilasa Prahasana* (मत्तविलास प्रहसन).
 - **Somadeva Suri** wrote *Nitivakyamrita*. **Nayachandra Suri** wrote *Hammira Mahakavya*.
 
 ### Buddhist / Jain text traps
@@ -262,7 +265,7 @@ D. Only 1
 
 ### Other authors (one name, one fact)
 
-- **Bhartesrihari** wrote the *Niti* (नीति), *Shringara* and *Vairagya Shataka*.
+- **Bhartrihari** (भर्तृहरि) wrote the *Niti Shataka* (नीति शतक), *Shringara Shataka* (शृंगार शतक), and *Vairagya Shataka* (वैराग्य शतक).
 - **Anandavardhana** wrote *Dhvanyaloka* on dhvani poetics.
 - **Abhinavagupta** wrote *Abhinavabharati* (अभिनवभारती), the Natyashastra commentary. He is Kashmir Shaiva.
 - **Surdas** wrote *Sursagar*, *Sur Saravali*, and *Sahitya Lahiri*.
@@ -405,34 +408,48 @@ D. Kathak
 
 ## 8.5 Puranic Literature
 
-There are **18 Mahapuranas and **18** Upapuranas. The names of the eighteen Maha form the usual set.
+There are **18** Mahapuranas and **18** Upapuranas. The names of the eighteen Maha form the usual set.
 
 **Pancha-lakshana idea:** sarga, pratisarga, vamsha, manvantara, vamshanucharita.
 
-1. Brahma
-2. Padma
-3. Vishnu
-4. Shiva / Vayu (lists vary on Shiva vs Vayu as a Maha)
-5. Bhagavata
-6. Narada
-7. Markandeya
-8. Agni
-9. Bhavishya
-10. Brahmavaivarta
-11. Linga
-12. Varaha
-13. Skanda (largest)
-14. Vamana
-15. Kurma
-16. Matsya
-17. Garuda
-18. Brahmanda
+1. Brahma (ब्रह्म)
+2. Padma (पद्म)
+3. Vishnu (विष्णु)
+4. Shiva / Vayu (शिव / वायु) (lists vary on Shiva vs Vayu as a Maha)
+5. Bhagavata (भागवत)
+6. Narada (नारद)
+7. Markandeya (मार्कण्डेय)
+8. Agni (अग्नि)
+9. Bhavishya (भविष्य)
+10. Brahmavaivarta (ब्रह्मवैवर्त)
+11. Linga (लिंग)
+12. Varaha (वराह)
+13. Skanda (स्कन्द) (largest)
+14. Vamana (वामन)
+15. Kurma (कूर्म)
+16. Matsya (मत्स्य)
+17. Garuda (गरुड़)
+18. Brahmanda (ब्रह्माण्ड)
 
-- The history-source fact is that **Vishnu Purana** carries **Maurya** (मौर्य) genealogies.
-- **Vayu Purana** is used for **Gupta** polity and genealogy.
-- **Bhagavata Purana** is the Krishna-bhakti peak text.
-- **Markandeya** holds the Devi Mahatmya.
-- Upapurana names are not the first thing to raata.
+### Purana → dynasty (history use)
+
+Six Puranas carry usable Kali-age king-lists: **Vayu, Brahmanda, Bhagavata, Bhavishya, Matsya, and Vishnu**. Those lists usually **end with the Guptas**. Coaching still matches one Purana to one house.
+
+| Purana | Dynasty it is asked for | What it preserves |
+|--------|-------------------------|-------------------|
+| **Vishnu Purana** (विष्णु पुराण) | **Maurya** (मौर्य) | Maurya genealogy. The same Magadha chain also names Nanda, Shunga, and Kanva. |
+| **Matsya Purana** (मत्स्य पुराण) | **Andhra / Satavahana** (सातवाहन) | Longest Andhra list, about **30** kings and about **460** years. |
+| **Vayu Purana** (वायु पुराण) | **Gupta** (गुप्त) *kings* | Gupta **names**. Also the Kanva end and Andhra founder **Simuka** (सिमुक). It is **not** a Gupta admin manual. |
+| **Brahmanda Purana** (ब्रह्माण्ड पुराण) | Parallel to Vayu | Andhra and Gupta name-lists sit close to the Vayu recension. |
+| **Bhagavata Purana** (भागवत पुराण) | Solar–lunar lines + Krishna | Also carries Maurya–Andhra lists. It is the Krishna-bhakti peak text. |
+| **Bhavishya Purana** (भविष्य पुराण) | “Future” Kali-age kings | Later layers. Use it lightly. |
+| **Markandeya Purana** (मार्कण्डेय पुराण) | Not a dynasty match | *Devi Mahatmya* (देवी माहात्म्य) sits here. |
+| **Skanda Purana** (स्कन्द पुराण) | Not a dynasty match | Largest Maha. Tirtha geography, not the Magadha king-list. |
+
+- The **Vishnu Purana** (विष्णु पुराण) is the match for the **Maurya** (मौर्य) genealogy.
+- The **Matsya Purana** (मत्स्य पुराण) is the match for the **Andhra / Satavahana** (सातवाहन) list.
+- The **Vayu Purana** (वायु पुराण) lists **Gupta** (गुप्त) kings. It does **not** throw light on the Gupta system of governance.
+- Other Puranas can name the same houses. Do not treat the match as “this Purana alone ever mentions them.”
 
 **PYQ — UPPCS Prelims 2023, Q29**
 
@@ -449,7 +466,9 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Statement 1 is the Vishnu–Maurya genealogy match. Statement 2 is false: Vayu lists Gupta *kings*; it is not a Gupta *admin* manual.
+
+**Ans: A.** Only 1 is correct.
 
 </details>
 
@@ -615,39 +634,41 @@ D. Both true and R explains A
 
 | Author | Work(s) |
 |--------|---------|
-| Panini | *Ashtadhyayi* |
-| Patanjali | *Mahabhashya* |
-| Yaska | *Nirukta* |
-| Katyayana | *Varttika* |
-| Chanakya / Kautilya | *Arthashastra* |
-| Vatsyayana | *Kamasutra* |
-| Amarasimha | *Amarakosha* |
-| Kalhana | *Rajatarangini* |
-| Bharavi | *Kiratarjuniya* |
-| Magha | *Shishupalavadha* |
-| Sriharsha | *Naishadhiyacharita* |
-| Dandin | *Dashakumaracharita* |
-| Harsha | *Nagananda*, *Ratnavali*, *Priyadarshika* |
-| Rajasekhara | *Karpuramanjari* |
-| Varahamihira | *Brihatsamhita*, *Panchasiddhantika*, *Brihat Jataka* |
-| Vishakhadatta | *Mudrarakshasa*, *Devichandraguptam* |
-| Shudraka | *Mrichchhakatikam* |
-| Bilhana (बिल्हण) | *Vikramankadevacharita* (विक्रमांकदेवचरित) |
-| Sarvavarman | *Katantra* |
-| Vijnaneshwara | *Mitakshara* |
-| Jimutavahana | *Dayabhaga* |
-| Vishnu Sharma | *Panchatantra* |
-| Bharata Muni | *Natyashastra* |
-| Bhasa | *Svapnavasavadattam*, *Madhyama-vyayoga* |
-| Ashvaghosha | *Buddhacharita*, *Saundarananda* |
-| Jayadeva | *Gita Govinda* |
-| Bhaskara II | *Siddhantashiromani* (*Lilavati*, *Bijaganita*…) |
-| Aryabhata | *Aryabhatiya* |
-| Mahendravarman I | *Mattavilasa Prahasana* |
-| Vakpati | *Gaudavaho* |
-| Kamandaka | *Nitisara* |
-| Surdas | *Sursagar*, *Sur Saravali*, *Sahitya Lahiri* |
-| Tulsidas | *Ramcharitmanas*, *Vinaya Patrika*, *Kavitavali* |
+| **Panini** (पाणिनि) | *Ashtadhyayi* (अष्टाध्यायी) |
+| **Patanjali** (पतंजलि) | *Mahabhashya* (महाभाष्य) |
+| **Yaska** (यास्क) | *Nirukta* (निरुक्त) |
+| **Katyayana** (कात्यायन) | *Varttika* (वार्त्तिक) |
+| **Chanakya / Kautilya** (चाणक्य / कौटिल्य) | *Arthashastra* (अर्थशास्त्र) |
+| **Vatsyayana** (वात्स्यायन) | *Kamasutra* (कामसूत्र) |
+| **Amarasimha** (अमरसिंह) | *Amarakosha* (अमरकोश) |
+| **Kalidasa** (कालिदास) | *Abhijnanashakuntalam* (अभिज्ञानशाकुन्तलम्), *Malavikagnimitram* (मालविकाग्निमित्रम्), *Vikramorvashiya* (विक्रमोर्वशीयम्); *Raghuvamsha* (रघुवंश), *Kumarasambhava* (कुमारसंभव), *Meghaduta* (मेघदूत), *Ritusamhara* (ऋतुसंहार) |
+| **Bhartrihari** (भर्तृहरि) | *Shringara Shataka* (शृंगार शतक) |
+| **Kalhana** (कल्हण) | *Rajatarangini* (राजतरंगिणी) |
+| **Bharavi** (भारवि) | *Kiratarjuniya* (किरातार्जुनीय) |
+| **Magha** (माघ) | *Shishupalavadha* (शिशुपालवध) |
+| **Sriharsha** (श्रीहर्ष) | *Naishadhiyacharita* (नैषधीयचरित) |
+| **Dandin** (दंडी) | *Dashakumaracharita* (दशकुमारचरित) |
+| **Harsha** (हर्ष) | *Nagananda* (नागानन्द), *Ratnavali* (रत्नावली), *Priyadarshika* (प्रियदर्शिका) |
+| **Rajasekhara** (राजशेखर) | *Karpuramanjari* (कर्पूरमंजरी) |
+| **Varahamihira** (वराहमिहिर) | *Brihatsamhita* (बृहत्संहिता), *Panchasiddhantika* (पंचसिद्धांतिका), *Brihat Jataka* (बृहज्जातक) |
+| **Vishakhadatta** (विशाखदत्त) | *Mudrarakshasa* (मुद्राराक्षस), *Devichandraguptam* (देवीचन्द्रगुप्तम्) |
+| **Shudraka** (शूद्रक) | *Mrichchhakatika* (मृच्छकटिकम्) |
+| **Bilhana** (बिल्हण) | *Vikramankadevacharita* (विक्रमांकदेवचरित) |
+| **Sarvavarman** (सर्ववर्मन) | *Katantra* (कातंत्र) |
+| **Vijnaneshwara** (विज्ञानेश्वर) | *Mitakshara* (मिताक्षरा) |
+| **Jimutavahana** (जीमूतवाहन) | *Dayabhaga* (दायाभाग) |
+| **Vishnu Sharma** (विष्णु शर्मा) | *Panchatantra* (पंचतंत्र) |
+| **Bharata Muni** (भरत मुनि) | *Natyashastra* (नाट्यशास्त्र) |
+| **Bhasa** (भास) | *Svapnavasavadattam* (स्वप्नवासवदत्तम्), *Madhyama-vyayoga* (मध्यमव्यायोग) |
+| **Ashvaghosha** (अश्वघोष) | *Buddhacharita* (बुद्धचरित), *Saundarananda* (सौंदरानंद) |
+| **Jayadeva** (जयदेव) | *Gita Govinda* (गीत गोविंद) |
+| **Bhaskara II** (भास्कर द्वितीय) | *Siddhantashiromani* (सिद्धांत शिरोमणि) (*Lilavati* (लीलावती), *Bijaganita* (बीजगणित)…) |
+| **Aryabhata** (आर्यभट) | *Aryabhatiya* (आर्यभटीय) |
+| **Mahendravarman I** (महेन्द्रवर्मन प्रथम) | *Mattavilasa Prahasana* (मत्तविलास प्रहसन) |
+| **Vakpati** (वाकपति) | *Gaudavaho* (गौडवहो) |
+| **Kamandaka** (कामंदक) | *Nitisara* (नीतिसार) |
+| **Surdas** (सूरदास) | *Sursagar* (सूरसागर), *Sur Saravali* (सूरसरावली), *Sahitya Lahiri* (साहित्य लहरी) |
+| **Tulsidas** (तुलसीदास) | *Ramcharitmanas* (रामचरितमानस), *Vinaya Patrika* (विनय पत्रिका), *Kavitavali* (कवितावली) |
 
 - **Tuzuk-i-Baburi / Baburnama** is by Babur in Chagatai Turki. The later Persian translation is by Abdur Rahim.
 - **Suka Saptati** is Sanskrit by Chintamani Bhatta. The Persian ***Tutinama*** is by **Ziya-ud-din Nakhshabi**, not Amir Khusrau. Akbar’s *Tuti-nama* is the Mughal manuscript painting of the same stories.
@@ -854,7 +875,9 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Statement 1 is the Vishnu–Maurya genealogy match. Statement 2 is false: Vayu lists Gupta kings; it is not a Gupta admin manual.
+
+**Ans: A.** Only 1 is correct.
 
 </details>
 
@@ -3266,9 +3289,9 @@ D. He founded Sahitya Akademi’s 24-language award list
 
 ## Common Traps
 
-1. *Shringara Shataka* is not by Kalidasa. It is by **Bhartrihari**.
-2. *Uttararamacharita* is not by Kalidasa. It is by **Bhavabhuti**.
-3. *Mrichchhakatika* is not by Kalidasa. It is by **Shudraka**.
+1. *Shringara Shataka* (शृंगार शतक) is not by Kalidasa (कालिदास). It is by **Bhartrihari** (भर्तृहरि).
+2. *Uttararamacharita* (उत्तररामचरित) is not by Kalidasa. It is by **Bhavabhuti** (भवभूति).
+3. *Mrichchhakatika* (मृच्छकटिकम्) is not by Kalidasa. It is by **Shudraka** (शूद्रक).
 4. *Kathasaritsagara* is **Somadeva**, not Kshemendra (*Brihatkathamanjari*).
 5. *Gita Govinda* is **Jayadeva**, not Trivikram Bhatta.
 6. Shukla Yajurveda is **Vajasaneyi**, not Taittiriya. Kathaka is not Kathak dance.
@@ -3295,4 +3318,4 @@ D. He founded Sahitya Akademi’s 24-language award list
 27. *Rajatarangini* continuators = **Jonaraja** and **Srivara**; contemporary king = **Jayasimha / Jai Singh**.
 28. *Gita Govinda* court = **Lakshmana Sena**, not Dharmapala / Devapala.
 29. *Natyashastra* = **Bharata Muni**. *Mattavilasa* = **Mahendravarman I**.
-30. Dashakumaracharita is **not** a Mahabharata-theme mahakavya.
+31. **Vishnu Purana** (विष्णु पुराण) = **Maurya** (मौर्य) genealogy. **Matsya Purana** (मत्स्य पुराण) = longest **Andhra / Satavahana** (सातवाहन) list. **Vayu Purana** (वायु पुराण) lists Gupta kings but is **not** a Gupta admin manual.

@@ -33,9 +33,9 @@ Origin · Chandragupta I · Samudragupta · Chandragupta II · Kumaragupta I · 
 14. Gold coin types: **king-queen** = Chandragupta I; **lyrist / horse / battle-axe / tiger** = Samudragupta (about **six** famous gold types); **archer** = Chandragupta II; peacock types often mark **Kumaragupta I**.
 15. **Nalanda** is Gupta (Kumaragupta I). **Takshashila** is the older Gandhara town. **Vikramashila** (विक्रमशिला) is Pala **Dharmapala** (धर्मपाल). **Vallabhi** is Maitraka Gujarat.
 16. The classical **Sarnath Buddha** has a plain drape and halo. It is Gupta art, **not** Kushan **Gandhara** (गांधार) Greco-Buddhist sculpture.
-17. **Kalidasa** (कालिदास) belongs to the Chandragupta II court tradition. *Shringara Shataka* (शृंगार शतक) is **Bhartrihari** (भर्तृहरि), not Kalidasa.
-18. Later author–book facts: **Trivikrama Bhatta–Nala Champu**, **Somadeva–Kathasaritsagara**, **Jayadeva–Gita Govinda**, **Kshemendra–Brihatkathamanjari**.
-19. Science facts: **Aryabhata** wrote the *Aryabhatiya* (आर्यभटीय) and taught Earth’s rotation; **Varahamihira** wrote the *Brihatsamhita* (बृहत्संहिता); **Brahmagupta** describes cyclic quadrilaterals.
+17. **Kalidasa** (कालिदास) belongs to the Chandragupta II (चंद्रगुप्त द्वितीय) court tradition. Plays (नाटक): *Abhijnanashakuntalam* (अभिज्ञानशाकुन्तलम्), *Malavikagnimitra* (मालविकाग्निमित्रम्), *Vikramorvashiyam* (विक्रमोर्वशीयम्). Mahakavyas (महाकाव्य): *Raghuvamsa* (रघुवंश), *Kumarasambhava* (कुमारसंभव). Lyrics (गीतिकाव्य): *Meghaduta* (मेघदूत), *Ritusamhara* (ऋतुसंहार). *Shringara Shataka* (शृंगार शतक) is **Bhartrihari** (भर्तृहरि), not Kalidasa.
+18. Later author–book facts: **Trivikrama Bhatta** (त्रिविक्रम भट्ट)–*Nala Champu* (नल चम्पू), **Somadeva** (सोमदेव)–*Kathasaritsagara* (कथासरित्सागर), **Jayadeva** (जयदेव)–*Gita Govinda* (गीत गोविंद), **Kshemendra** (क्षेमेन्द्र)–*Brihatkathamanjari* (बृहत्कथामंजरी).
+19. Science facts: **Aryabhata** (आर्यभट) wrote the *Aryabhatiya* (आर्यभटीय) and taught Earth’s rotation; **Varahamihira** (वराहमिहिर) wrote the *Brihatsamhita* (बृहत्संहिता); **Brahmagupta** (ब्रह्मगुप्त) describes cyclic quadrilaterals.
 20. The **Mehrauli** iron pillar’s “Chandra” is usually taken as **Chandragupta II** (चंद्रगुप्त द्वितीय). It stands as a **Vishnu dhvaja** on **Vishnupada**. **Udayagiri** (उदयगिरि) Varaha caves also sit in his reign.
 21. Chandragupta II’s daughter **Prabhavatigupta** married Vakataka **Rudrasena II** and later ruled as regent. Do not confuse Chandragupta II with Chandragupta Maurya.
 22. The **Vishnu Purana** carries Maurya genealogy. The **Vayu Purana** does **not** give a usable Gupta system of governance.
@@ -55,8 +55,8 @@ Origin · Chandragupta I · Samudragupta · Chandragupta II · Kumaragupta I · 
 36. **Dashpur / Mandasor** silk-weavers’ guild under **Bandhuvarman** (Kumaragupta I age) built and later repaired a **Sun** temple — often called India’s earliest “advertisement” style record.
 37. Vakataka **Pravarasena I** took the title **Samrat** (सम्राट), performed **four ashvamedhas**, and is the real early empire-builder after founder **Vindhyashakti**. **Pravarasena II** composed *Setubandha*.
 38. Sri Lankan king **Meghavarman** sought Samudragupta’s leave to build a Buddhist monastery at **Bodh Gaya** (बोधगया).
-39. *Mrichchhakatika* (मृच्छकटिकम्) by **Sudraka** is the urban love story of **Charudatta** and **Vasantasena**. Chess as **Chaturanga** is a Gupta-age culture note.
-40. **Dhanvantari** is the Navaratna medicine name. **Bhaskara II** (*Lilavati*, *Siddhanta Shiromani*) is **12th century**, not a Gupta contemporary.
+39. *Mrichchhakatika* (मृच्छकटिकम्) by **Sudraka** (शूद्रक) is the urban love story of **Charudatta** (चारुदत्त) and **Vasantasena** (वसन्तसेना). Chess as **Chaturanga** (चतुरंग) is a Gupta-age culture note.
+40. **Dhanvantari** (धन्वंतरि) is the Navaratna medicine name. **Bhaskara II** (भास्कर द्वितीय) (*Lilavati* (लीलावती), *Siddhanta Shiromani* (सिद्धांत शिरोमणि)) is **12th century**, not a Gupta contemporary.
 
 ---
 
@@ -70,7 +70,7 @@ Origin · Chandragupta I · Samudragupta · Chandragupta II · Kumaragupta I · 
 | Prayag Prashasti | Allahabad pillar | Harishena’s **text** vs the **shaft** it sits on | प्रशस्ति / स्तंभ |
 | Gold dinara | Silver rupaka | Prestige types vs **2022 Shaka-victory** proof (~33 grains) | दीनार / रूपक |
 | Bhukti | Vishaya | Province (**Uparika**) vs district (**Kumaramatya**) | भुक्ति / विषय |
-| Kalidasa | Bhartrihari | Meghaduta / Raghuvamsa vs **Shringara Shataka** (2025) | कालिदास / भर्तृहरि |
+| Kalidasa | Bhartrihari | *Meghaduta* (मेघदूत) / *Raghuvamsa* (रघुवंश) vs **Shringara Shataka** (शृंगार शतक) (2025) | कालिदास / भर्तृहरि |
 | Fa-Hien | Hiuen Tsang | CG II ~400 CE vs **Harsha** ~630s | फाह्यान / ह्वेन त्सांग |
 | Kumaragupta I | Skandagupta | **Nalanda** patron vs **Huna** wars (Bhitari) | कुमारगुप्त / स्कंदगुप्त |
 | Somadeva | Kshemendra | *Kathasaritsagara* vs *Brihatkathamanjari* (2025) | सोमदेव / क्षेमेन्द्र |
@@ -145,27 +145,28 @@ Origin · Chandragupta I · Samudragupta · Chandragupta II · Kumaragupta I · 
 
 | Book / text | Writer / authority | What it is for |
 |-------------|--------------------|----------------|
-| *Abhijnanashakuntalam* (अभिज्ञानशाकुन्तलम्), *Malavikagnimitra*, *Vikramorvashiyam* | **Kalidasa** | Gupta dramas; CG II court tradition |
-| *Raghuvamsa*, *Kumarasambhava* (कुमारसंभव) | **Kalidasa** | Mahakavyas |
-| *Meghaduta*, *Ritusamhara* (ऋतुसंहार) | **Kalidasa** | Lyrics |
-| *Shringara Shataka* | **Bhartrihari** | Not Kalidasa |
-| *Amarakosha* (अमरकोश) | **Amarasimha** | Lexicon; Navaratna name |
-| *Mrichchhakatika* | **Sudraka** | Charudatta–Vasantasena |
-| *Mudrarakshasa*, *Devichandraguptam* (देवीचन्द्रगुप्तम्) | **Vishakhadatta** (विशाखदत्त) | Chanakya play; Ramagupta story |
-| *Panchatantra* | **Vishnu Sharma** (विष्णु शर्मा) (tradition) | Fable cycle |
+| *Abhijnanashakuntalam* (अभिज्ञानशाकुन्तलम्), *Malavikagnimitra* (मालविकाग्निमित्रम्), *Vikramorvashiyam* (विक्रमोर्वशीयम्) | **Kalidasa** (कालिदास) | Gupta dramas (नाटक); CG II court tradition |
+| *Raghuvamsa* (रघुवंश), *Kumarasambhava* (कुमारसंभव) | **Kalidasa** (कालिदास) | Mahakavyas (महाकाव्य) |
+| *Meghaduta* (मेघदूत), *Ritusamhara* (ऋतुसंहार) | **Kalidasa** (कालिदास) | Lyrics (गीतिकाव्य) |
+| *Shringara Shataka* (शृंगार शतक) | **Bhartrihari** (भर्तृहरि) | Not Kalidasa |
+| *Amarakosha* (अमरकोश) | **Amarasimha** (अमरसिंह) | Lexicon; Navaratna name |
+| *Mrichchhakatika* (मृच्छकटिकम्) | **Sudraka** (शूद्रक) | Charudatta (चारुदत्त)–Vasantasena (वसन्तसेना) |
+| *Mudrarakshasa* (मुद्राराक्षस), *Devichandraguptam* (देवीचन्द्रगुप्तम्) | **Vishakhadatta** (विशाखदत्त) | Chanakya play; Ramagupta story |
+| *Kamasutra* (कामसूत्र) | **Vatsyayana** (वात्स्यायन) | Gupta-age Sanskrit treatise |
+| *Panchatantra* (पंचतंत्र) | **Vishnu Sharma** (विष्णु शर्मा) (tradition) | Fable cycle |
 | *Kiratarjuniya* (किरातार्जुनीय) | **Bharavi** (भारवि) | Late Gupta / after |
-| *Aryabhatiya* | **Aryabhata** | 499 CE; maths / astronomy |
-| *Panchasiddhantika* (पंचसिद्धांतिका), *Brihatsamhita* | **Varahamihira** | Astronomy / encyclopaedia |
-| *Brahmasphutasiddhanta* | **Brahmagupta** | Early 7th c. edge of the age |
-| *Setubandha* (*Ravanavaho*) | **Pravarasena II** | Vakataka Prakrit |
-| Prayag Prashasti | **Harishena** | Samudragupta’s literary eulogy |
-| *Nala Champu* | **Trivikrama Bhatta** (त्रिविक्रम भट्ट) | Later match pair |
+| *Aryabhatiya* (आर्यभटीय) | **Aryabhata** (आर्यभट) | 499 CE; maths / astronomy |
+| *Panchasiddhantika* (पंचसिद्धांतिका), *Brihatsamhita* (बृहत्संहिता) | **Varahamihira** (वराहमिहिर) | Astronomy / encyclopaedia |
+| *Brahmasphutasiddhanta* (ब्रह्मस्फुटसिद्धान्त) | **Brahmagupta** (ब्रह्मगुप्त) | Early 7th c. edge of the age |
+| *Setubandha* (सेतुबन्ध) (*Ravanavaho* (रावणवहो)) | **Pravarasena II** (प्रवरसेन द्वितीय) | Vakataka Prakrit |
+| Prayag Prashasti (प्रयाग प्रशस्ति) | **Harishena** (हरिषेण) | Samudragupta’s literary eulogy |
+| *Nala Champu* (नल चम्पू) | **Trivikrama Bhatta** (त्रिविक्रम भट्ट) | Later match pair |
 | *Kathasaritsagara* (कथासरित्सागर) | **Somadeva** (सोमदेव) | Later match pair |
 | *Gita Govinda* (गीत गोविंद) | **Jayadeva** (जयदेव) | Later match pair |
 | *Brihatkathamanjari* (बृहत्कथामंजरी) | **Kshemendra** (क्षेमेन्द्र) | Later match pair |
 
-- **Kalidasa** is not the author of *Shringara Shataka* (**Bhartrihari**).
-- *Mudrarakshasa* is Vishakhadatta’s play. It is not the *Arthashastra* (अर्थशास्त्र).
+- **Kalidasa** (कालिदास) is not the author of *Shringara Shataka* (शृंगार शतक) (**Bhartrihari** (भर्तृहरि)).
+- *Mudrarakshasa* (मुद्राराक्षस) is Vishakhadatta’s (विशाखदत्त) play. It is not the *Arthashastra* (अर्थशास्त्र).
 
 > **Logic:** Full Navaratna / science teaching stays in the Gupta Literature cards.
 
@@ -295,7 +296,7 @@ A. 1 2 3 4 B. 2 1 4 3 C. 3 1 4 2 D. 4 3 2 1
 - The **Mehrauli iron pillar** names **Chandra**. Most books take this as this king.
 - The pillar is a **Vishnu dhvaja** set up on a hill called **Vishnupada**.
 - It now stands in the courtyard of Quwwat-ul-Islam near the Qutub Minar.
-- Navaratna court is a later legend. **Kalidasa** is the name papers keep. Full nine-name table sits in the literature card.
+- Navaratna court is a later legend. **Kalidasa** (कालिदास) is the name papers keep. Full nine-name table sits in the literature card.
 - After the Shaka victory he issues **silver rupaka** coins.
 - The strongest Shaka-victory proof in the 2022 paper is those **silver coins** weighing about **33 grains**.
 - **Fa-Hien (Faxian)** was in India **399–414 CE** during this reign to collect authentic Buddhist Vinaya texts.
@@ -530,7 +531,7 @@ The Gupta state is **not** a Mauryan-style spy-and-adhyaksha machine. Power is s
 - 2018 south four on this text: Dhananjaya–Kusthalapura, Nilaraja–Avamukta, Ugrasena–Palaka, Vishnugopa–**Kanchi**.
 - Calls the king a *kaviraja* and a warrior. Lyrist coins back the poet-king pose.
 - Praise text. Not a campaign diary with dates.
-- *Devichandraguptam* is **Vishakhadatta**, not Harishena.
+- *Devichandraguptam* (देवीचन्द्रगुप्तम्) is **Vishakhadatta** (विशाखदत्त), not Harishena (हरिषेण).
 
 > **Logic:** Prashasti = the **words**. The **shaft** they sit on is the Allahabad / Prayag pillar.
 
@@ -599,36 +600,47 @@ The Gupta state is **not** a Mauryan-style spy-and-adhyaksha machine. Power is s
 
 **Kalidasa is the Gupta fact | 2025 also dumps later author–book pairs**
 
-- **Kalidasa** belongs to the Chandragupta II tradition. Plays: *Abhijnanashakuntalam*, *Malavikagnimitra*, *Vikramorvashiyam*. Mahakavyas: *Raghuvamsa*, *Kumarasambhava*. Lyrics: *Meghaduta*, *Ritusamhara*.
-- *Shringara Shataka* is **Bhartrihari**, not Kalidasa.
+- **Kalidasa** (कालिदास) belongs to the Chandragupta II (चंद्रगुप्त द्वितीय) tradition.
+- The play *Abhijnanashakuntalam* (अभिज्ञानशाकुन्तलम्) is his drama of Dushyanta and Shakuntala.
+- The play *Malavikagnimitra* (मालविकाग्निमित्रम्) is his drama of Shunga king Agnimitra and Malavika.
+- The play *Vikramorvashiyam* (विक्रमोर्वशीयम्) is his drama of Pururavas and Urvashi.
+- The mahakavya *Raghuvamsa* (रघुवंश) is his epic of Raghu’s line.
+- The mahakavya *Kumarasambhava* (कुमारसंभव) is his epic of the birth of Kartikeya.
+- The lyric *Meghaduta* (मेघदूत) is his cloud-messenger poem.
+- The lyric *Ritusamhara* (ऋतुसंहार) is his cycle of the six seasons.
+- *Shringara Shataka* (शृंगार शतक) is **Bhartrihari** (भर्तृहरि), not Kalidasa.
 
 ### Navaratnas (later tradition)
 
-Coaching lists **nine gems** at Vikramaditya / Chandragupta II’s court. Historians treat the full nine as a **later legend** (*Jyotirvidabharana*). Papers still ask the names. **Kalidasa** is the firm Gupta fact.
+Coaching lists **nine gems** at Vikramaditya / Chandragupta II’s court. Historians treat the full nine as a **later legend** (*Jyotirvidabharana* (ज्योतिर्विदाभरण)). Papers still ask the names. **Kalidasa** (कालिदास) is the firm Gupta fact.
 
 | Gem | Field |
 |-----|-------|
-| **Kalidasa** | Poetry and drama |
-| **Amarasimha** | *Amarakosha* (lexicon) |
-| **Varahamihira** | Astronomy (*Panchasiddhantika*, *Brihatsamhita*) — actually **6th century** |
-| **Dhanvantari** | Medicine |
-| **Vararuchi** | Grammar |
-| **Ghatakarpara** | Poetry |
-| **Kshapanaka** | Astrology |
-| **Shanku** | Architecture |
-| **Vetala Bhatta** | Magic / counsel |
+| **Kalidasa** (कालिदास) | Poetry and drama |
+| **Amarasimha** (अमरसिंह) | *Amarakosha* (अमरकोश) (lexicon) |
+| **Varahamihira** (वराहमिहिर) | Astronomy (*Panchasiddhantika* (पंचसिद्धांतिका), *Brihatsamhita* (बृहत्संहिता)) — actually **6th century** |
+| **Dhanvantari** (धन्वंतरि) | Medicine |
+| **Vararuchi** (वररुचि) | Grammar |
+| **Ghatakarpara** (घटकर्पर) | Poetry |
+| **Kshapanaka** (क्षपणक) | Astrology |
+| **Shanku** (शंकु) | Architecture |
+| **Vetala Bhatta** (वेताल भट्ट) | Magic / counsel |
 
-- **Sudraka** wrote *Mrichchhakatika* (*The Little Clay Cart*). It is the urban love story of merchant **Charudatta** and courtesan **Vasantasena**, and it also mirrors city administration and society in a Gupta-age Ujjain setting.
-- **Vishakhadatta** wrote *Mudrarakshasa*, a Chanakya play of Gupta date, and *Devichandraguptam* (Ramagupta story).
-- **Amarasimha** wrote the *Amarakosha*. **Vishnu Sharma** is the traditional author of the *Panchatantra*. **Bharavi** wrote *Kiratarjuniya*, late Gupta or after.
-- Trap: **Dhanvantari** is the Navaratna Ayurveda name. **Bhaskara II** (*Lilavati*, *Siddhanta Shiromani*) belongs to the **12th century**, not Chandragupta II’s court.
+- **Sudraka** (शूद्रक) wrote *Mrichchhakatika* (मृच्छकटिकम्) (*The Little Clay Cart*). It is the urban love story of merchant **Charudatta** (चारुदत्त) and courtesan **Vasantasena** (वसन्तसेना), and it also mirrors city administration and society in a Gupta-age Ujjain setting.
+- **Vishakhadatta** (विशाखदत्त) wrote *Mudrarakshasa* (मुद्राराक्षस), a Chanakya play of Gupta date, and *Devichandraguptam* (देवीचन्द्रगुप्तम्) (Ramagupta story).
+- **Amarasimha** (अमरसिंह) wrote the *Amarakosha* (अमरकोश).
+- **Vatsyayana** (वात्स्यायन) wrote the *Kamasutra* (कामसूत्र). It belongs to the Gupta-age Sanskrit milieu, not to Kalidasa’s seven works.
+- **Vishnu Sharma** (विष्णु शर्मा) is the traditional author of the *Panchatantra* (पंचतंत्र).
+- **Bharavi** (भारवि) wrote *Kiratarjuniya* (किरातार्जुनीय), late Gupta or after.
+- **Harishena** (हरिषेण) belongs to the Samudragupta (समुद्रगुप्त) court. He composed the *Prayag Prashasti* (प्रयाग प्रशस्ति).
+- Trap: **Dhanvantari** (धन्वंतरि) is the Navaratna Ayurveda name. **Bhaskara II** (भास्कर द्वितीय) (*Lilavati* (लीलावती), *Siddhanta Shiromani* (सिद्धांत शिरोमणि)) belongs to the **12th century**, not Chandragupta II’s court.
 
 | Writer | Book |
 |--------|------|
-| **Trivikrama Bhatta** | **Nala Champu** |
-| **Somadeva** | **Kathasaritsagara** |
-| **Jayadeva** | **Gita Govinda** |
-| **Kshemendra** | **Brihatkathamanjari** |
+| **Trivikrama Bhatta** (त्रिविक्रम भट्ट) | **Nala Champu** (नल चम्पू) |
+| **Somadeva** (सोमदेव) | **Kathasaritsagara** (कथासरित्सागर) |
+| **Jayadeva** (जयदेव) | **Gita Govinda** (गीत गोविंद) |
+| **Kshemendra** (क्षेमेन्द्र) | **Brihatkathamanjari** (बृहत्कथामंजरी) |
 
 **PYQ — UPPCS Prelims 2025, Q48**
 
@@ -675,10 +687,10 @@ A. 3 4 1 2 B. 4 3 2 1 C. 4 3 1 2 D. 3 4 2 1
 
 **Astronomy + maths + iron**
 
-- **Aryabhata** wrote the *Aryabhatiya* in **499 CE**. Tradition places him at Kusumapura / Pataliputra. He teaches that the earth rotates and explains eclipses without demon stories. Sine, cosine, and inverse-sine ideas appear in the *Aryabhatiya* and *Surya Siddhanta* horizon of the 5th century.
-- **Varahamihira** wrote the *Panchasiddhantika* and the *Brihatsamhita*. He sits at Ujjain.
-- **Brahmagupta** wrote the *Brahmasphutasiddhanta* in the early 7th century, at the edge of this age. He describes cyclic quadrilaterals and zero rules.
-- Medicine circulates in *Sushruta* and *Charaka* redactions. **Sushruta** (सुश्रुत) is far earlier than the Gupta court — do not make him a Gupta contemporary. **Dhanvantari** is the Navaratna medicine name for this age.
+- **Aryabhata** (आर्यभट) wrote the *Aryabhatiya* (आर्यभटीय) in **499 CE**. Tradition places him at Kusumapura / Pataliputra. He teaches that the earth rotates and explains eclipses without demon stories. Sine, cosine, and inverse-sine ideas appear in the *Aryabhatiya* and *Surya Siddhanta* (सूर्य सिद्धांत) horizon of the 5th century.
+- **Varahamihira** (वराहमिहिर) wrote the *Panchasiddhantika* (पंचसिद्धांतिका) and the *Brihatsamhita* (बृहत्संहिता). He sits at Ujjain.
+- **Brahmagupta** (ब्रह्मगुप्त) wrote the *Brahmasphutasiddhanta* (ब्रह्मस्फुटसिद्धान्त) in the early 7th century, at the edge of this age. He describes cyclic quadrilaterals and zero rules.
+- Medicine circulates in *Sushruta* (सुश्रुत) and *Charaka* (चरक) redactions. **Sushruta** (सुश्रुत) is far earlier than the Gupta court — do not make him a Gupta contemporary. **Dhanvantari** (धन्वंतरि) is the Navaratna medicine name for this age.
 - The Mehrauli pillar is rust-resistant iron. “Chandra” on it is usually **Chandragupta II**. Decimal place-value is in use. “Aryabhata invented zero” is too crude for a sharp true/false. He uses place value.
 
 > **Logic:** Aryabhata is not Varahamihira. Fa-Hien did not write the *Aryabhatiya*. *Lilavati* is not Gupta.

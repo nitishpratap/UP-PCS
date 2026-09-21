@@ -27,7 +27,7 @@ Taught in that order. World cores start with Mesopotamia, not with the later-fam
 6. **Shang China** on the **Yellow River** uses readable **oracle-bone** script and ritual bronze **ding** vessels. Unlike the Indus script, Shang writing **is** read.
 7. Puranas are post-Vedic smriti encyclopaedias shaped mainly in the Gupta age and after. Count fact is **18 Mahapuranas** and **18 Upapuranas**.
 8. A Mahapurana is supposed to carry **panchalakshana**: sarga, pratisarga, vamsha, manvantara, and vamshanucharita.
-9. The **Vishnu Purana** preserves a **Mauryan** genealogy. The **Vayu Purana** may list early dynasty names but does **not** give a usable Gupta system of governance.
+9. The **Vishnu Purana** (विष्णु पुराण) preserves a **Mauryan** (मौर्य) genealogy. The **Matsya Purana** (मत्स्य पुराण) gives the longest **Andhra / Satavahana** (सातवाहन) list. The **Vayu Purana** (वायु पुराण) lists Gupta **kings** but does **not** give a usable Gupta system of governance.
 10. Puranic **Shriparvatiya** means the **Ikshvakus** of **Nagarjunakonda / Vijayapuri**. Trap options include Vakataka, Shaka, and Kharavela.
 11. Indian materialism in the is **Charvaka / Lokayata** (चार्वाक). The only accepted pramana is **pratyaksha** (प्रत्यक्ष) (perception). It denies lasting soul, karma fruit, rebirth, and Veda authority.
 12. **Charvaka ≠ Charaka**. Charaka is the Ayurveda compiler; Charvaka is the materialist school. Mixing the names is the cheap trap.
@@ -61,7 +61,8 @@ Taught in that order. World cores start with Mesopotamia, not with the later-fam
 | Cuneiform | Hieroglyphs | Clay wedges vs **picture** signs | कीलाक्षर / चित्रलिपि |
 | Indus script | Oracle bones | Still **unread** vs earliest **readable** Chinese | सिन्धु लिपि / अस्थि लेख |
 | Mahapurana | Upapurana | 18 major (5 traits) vs 18 **minor** | महापुराण / उपपुराण |
-| Vishnu Purana | Vayu Purana | **Mauryan** list (2023) vs **not** Gupta admin | विष्णु / वायु |
+| Vishnu Purana | Vayu Purana | **Mauryan** list vs **not** Gupta admin | विष्णु / वायु |
+| Matsya Purana | Vishnu Purana | Longest **Andhra / Satavahana** list vs **Mauryan** genealogy | मत्स्य / विष्णु |
 | Ikshvaku | Vakataka | Puranic **Shriparvatiya** vs Vidarbha | इक्ष्वाकु / वाकाटक |
 | Charvaka | Charaka | Materialist school vs **Ayurveda** compiler | चार्वाक / चरक |
 | Charvaka | Buddhism | Denies rebirth vs accepts **karma/rebirth** | चार्वाक / बौद्ध |
@@ -92,8 +93,9 @@ Taught in that order. World cores start with Mesopotamia, not with the later-fam
 | Item | Lock |
 |------|------|
 | Mahapuranas | **18** (+ 18 Upapuranas) |
-| Vishnu Purana | Preserves **Mauryan** genealogy |
-| Vayu Purana | Does **not** give usable Gupta governance |
+| Vishnu Purana (विष्णु पुराण) | Preserves **Mauryan** (मौर्य) genealogy |
+| Matsya Purana (मत्स्य पुराण) | Longest **Andhra / Satavahana** (सातवाहन) list (~30 kings) |
+| Vayu Purana (वायु पुराण) | Gupta **kings**; does **not** give usable Gupta governance |
 | Shriparvatiya | **Ikshvakus** of Nagarjunakonda |
 | Charvaka / Lokayata | Perception only; denies soul / karma fruit |
 | Charaka | Ayurveda (*Charaka Samhita* **120** ch / **8** sections) ≠ Charvaka |
@@ -309,9 +311,27 @@ Taught in that order. World cores start with Mesopotamia, not with the later-fam
 | 17 | **Garuda** | Vishnu — shraddha / afterlife |
 | 18 | Brahmanda | Brahma |
 
-- **Vishnu Purana** preserves a **Mauryan** genealogy. Statement 1 is **true**.
-- **Vayu Purana** is used for early dynastic lists, including Gupta **names**. It does **not** give a usable Gupta **system of governance**. Statement 2 is **false**.
+- **Vishnu Purana** (विष्णु पुराण) preserves a **Mauryan** (मौर्य) genealogy. Statement 1 is **true**.
+- **Matsya Purana** (मत्स्य पुराण) gives the longest **Andhra / Satavahana** (सातवाहन) king list, about **30** names and about **460** years.
+- **Vayu Purana** (वायु पुराण) is used for early dynastic lists, including Gupta **names**. It does **not** give a usable Gupta **system of governance**. Statement 2 is **false**.
 - Only statement 1 is correct; both-correct is the bait.
+
+### Purana → dynasty (history use)
+
+Six Puranas carry usable Kali-age king-lists: **Vayu, Brahmanda, Bhagavata, Bhavishya, Matsya, and Vishnu**. Those lists usually **end with the Guptas**. Coaching still matches one Purana to one house.
+
+| Purana | Dynasty it is asked for | What it preserves |
+|--------|-------------------------|-------------------|
+| **Vishnu Purana** (विष्णु पुराण) | **Maurya** (मौर्य) | Maurya genealogy. The same Magadha chain also names Nanda, Shunga, and Kanva. |
+| **Matsya Purana** (मत्स्य पुराण) | **Andhra / Satavahana** (सातवाहन) | Longest Andhra list, about **30** kings and about **460** years. |
+| **Vayu Purana** (वायु पुराण) | **Gupta** (गुप्त) *kings* | Gupta **names**. Also the Kanva end and Andhra founder **Simuka** (सिमुक). It is **not** a Gupta admin manual. |
+| **Brahmanda Purana** (ब्रह्माण्ड पुराण) | Parallel to Vayu | Andhra and Gupta name-lists sit close to the Vayu recension. |
+| **Bhagavata Purana** (भागवत पुराण) | Solar–lunar lines + Krishna | Also carries Maurya–Andhra lists. It is the Krishna-bhakti peak text. |
+| **Bhavishya Purana** (भविष्य पुराण) | “Future” Kali-age kings | Later layers. Use it lightly. |
+| **Markandeya Purana** (मार्कण्डेय पुराण) | Not a dynasty match | *Devi Mahatmya* (देवी माहात्म्य) sits here. |
+| **Skanda Purana** (स्कन्द पुराण) | Not a dynasty match | Largest Maha. Tirtha geography, not the Magadha king-list. |
+
+- Other Puranas can name the same houses. Do not treat the match as “this Purana alone ever mentions them.”
 
 ### Shriparvatiya
 

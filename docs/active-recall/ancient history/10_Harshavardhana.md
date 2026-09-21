@@ -213,7 +213,7 @@ One fact per card. Write keywords, then open **Show answer**.
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans: *Harshacharita*** (biography, not Harsha's autobiography) and ***Kadambari*.** Court language **Sanskrit**; also poet **Mayura**.
+**Ans: *Harshacharita* (हर्षचरित)** (biography, not Harsha's autobiography) and ***Kadambari* (कादंबरी).** Court language **Sanskrit**; also poet **Mayura** (मयूर).
 
 </details>
 
@@ -308,7 +308,7 @@ One fact per card. Write keywords, then open **Show answer**.
 | Deccan foe | **Pulakeshin II** |
 | Southern river barrier | **Narmada** |
 | Chinese traveller | **Xuanzang / Si-Yu-Ki** |
-| Indian biographer | **Banabhatta / Harshacharita** |
+| Indian biographer | **Banabhatta (बाणभट्ट) / Harshacharita (हर्षचरित)** |
 | Three Sanskrit plays | **Ratnavali, Priyadarshika, Nagananda** |
 | Patronised university | **Nalanda** |
 | Two famous assemblies | **Kannauj (~643)** and **Prayaga** (quinquennial dana) |
@@ -344,7 +344,7 @@ One fact per card. Write keywords, then open **Show answer**.
 | Rajyashri | Sister whose rescue leads to **Kannauj** |
 | Pulakeshin II / Narmada | Southern **defeat / barrier** (~630) |
 | Xuanzang | Chinese monk; ***Si-Yu-Ki*** |
-| Banabhatta | ***Harshacharita*** biographer |
+| Banabhatta (बाणभट्ट) | ***Harshacharita*** (हर्षचरित) biographer |
 | Prayaga assembly | **Charity every five years** |
 | c. 647 CE | Harsha’s **death**; empire fragments |
 

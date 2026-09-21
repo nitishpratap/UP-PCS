@@ -133,12 +133,12 @@ Mauryan Empire · Chandragupta Maurya · Bindusara · Ashoka · then Admin / Off
 
 | Book / text | Writer / authority | What it is for |
 |-------------|--------------------|----------------|
-| *Arthashastra* | **Kautilya / Chanakya / Vishnugupta** | Sanskrit statecraft; saptanga, officials, courts |
+| *Arthashastra* (अर्थशास्त्र) | **Kautilya / Chanakya / Vishnugupta** (कौटिल्य / चाणक्य / विष्णुगुप्त) | Sanskrit statecraft; saptanga, officials, courts |
 | *Indica* | **Megasthenes** | Greek envoy account of Chandragupta’s India (lost; known via Strabo, Arrian) |
-| *Mudrarakshasa* | **Vishakhadatta** (विशाखदत्त) | Sanskrit play on Chandragupta–Chanakya court intrigue |
-| Commentary on *Mudrarakshasa* | **Dhundiraja** | Later commentary on Vishakhadatta’s play |
-| *Devichandraguptam* (देवीचन्द्रगुप्तम्) | **Vishakhadatta** | Drama remembered with Gupta-age story (same author; later setting) |
-| *Abhisarikavanchitaka* | **Vishakhadatta** | Another work attributed to the same dramatist |
+| *Mudrarakshasa* (मुद्राराक्षस) | **Vishakhadatta** (विशाखदत्त) | Sanskrit play on Chandragupta–Chanakya court intrigue |
+| Commentary on *Mudrarakshasa* (मुद्राराक्षस) | **Dhundiraja** (धुन्दिराज) | Later commentary on Vishakhadatta’s play |
+| *Devichandraguptam* (देवीचन्द्रगुप्तम्) | **Vishakhadatta** (विशाखदत्त) | Drama remembered with Gupta-age story (same author; later setting) |
+| *Abhisarikavanchitaka* (अभिसारिकावंचितक) | **Vishakhadatta** (विशाखदत्त) | Another work attributed to the same dramatist |
 | *Dipavamsa* | Sinhalese Buddhist chronicle | Third Council at Pataliputra under Ashoka |
 | *Mahavamsa* | Sinhalese Buddhist chronicle | Same council; Moggaliputta Tissa; Lanka missions |
 | *Divyavadana* | Buddhist anthology | Taxila revolt under Bindusara; Ashoka as *kumara* |
@@ -178,12 +178,12 @@ The Mauryas built the first large pan-North Indian state. Their capital was **Pa
 - **Chanakya** (चाणक्य) is also called **Kautilya** (कौटिल्य).
 - Another name for him is **Vishnugupta**, often treated as his childhood or alternate identity.
 - He was a Taxila Brahman. After insult at the Nanda court, he trained Chandragupta.
-- His book is the *Arthashastra*, a hard statecraft text often compared with Machiavelli’s *Prince*.
-- The *Mudrarakshasa* of **Vishakhadatta** is a **play**, not the *Arthashastra*.
+- His book is the *Arthashastra* (अर्थशास्त्र), a hard statecraft text often compared with Machiavelli’s *Prince*.
+- The *Mudrarakshasa* (मुद्राराक्षस) of **Vishakhadatta** (विशाखदत्त) is a **play**, not the *Arthashastra*.
 - It shows court intrigue under Chandragupta through Malayaketu and Amatya Rakshasa.
 - The play calls Chandragupta **Vrishal** and **Kulheen**.
-- **Dhundiraja** wrote a commentary on *Mudrarakshasa*.
-- Vishakhadatta’s other remembered works are *Devichandraguptam* (a Gupta-age story) and *Abhisarikavanchitaka*.
+- **Dhundiraja** (धुन्दिराज) wrote a commentary on *Mudrarakshasa*.
+- Vishakhadatta’s other remembered works are *Devichandraguptam* (देवीचन्द्रगुप्तम्) (a Gupta-age story) and *Abhisarikavanchitaka* (अभिसारिकावंचितक).
 
 ### King line (overview)
 

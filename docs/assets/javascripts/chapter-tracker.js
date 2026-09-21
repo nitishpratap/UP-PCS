@@ -4,7 +4,11 @@
   let currentFilter = "all";
 
   function isTrackerPage() {
-    return Boolean(document.querySelector(".ct-toolbar") && document.querySelector(".ct-row"));
+    return Boolean(document.querySelector(".ct-toolbar") && document.querySelector(".ct-subject"));
+  }
+
+  function subjects() {
+    return [...document.querySelectorAll("details.ct-subject")];
   }
 
   function loadState() {
@@ -30,19 +34,13 @@
     const overall = document.querySelector('.ct-progress[data-ct-subject="all"]');
     if (overall) overall.textContent = `${done} / ${all.length} done`;
 
-    document.querySelectorAll(".ct-progress[data-ct-subject]").forEach((el) => {
-      const sid = el.getAttribute("data-ct-subject");
-      if (!sid || sid === "all") return;
-      const heading = document.getElementById(sid);
-      if (!heading) return;
-      const sectionRows = [];
-      let node = heading.nextElementSibling;
-      while (node && node.tagName !== "H2") {
-        if (node.querySelectorAll) sectionRows.push(...node.querySelectorAll(".ct-row"));
-        node = node.nextElementSibling;
-      }
+    subjects().forEach((section) => {
+      const sid = section.getAttribute("data-ct-subject");
+      const el = section.querySelector(`.ct-progress[data-ct-subject="${sid}"]`);
+      const sectionRows = [...section.querySelectorAll(".ct-row")];
+      if (!el) return;
       const d = sectionRows.filter((row) => row.querySelector(".ct-check")?.checked).length;
-      el.textContent = `${d} / ${sectionRows.length} done`;
+      el.textContent = sectionRows.length ? `${d} / ${sectionRows.length} done` : "notes only";
     });
   }
 
@@ -70,29 +68,18 @@
       const visible = [...list.querySelectorAll(".ct-row")].some((row) => !row.hidden);
       list.hidden = !visible;
       const heading = list.previousElementSibling;
-      if (heading && /^H[23]$/.test(heading.tagName)) heading.hidden = !visible;
+      if (heading && (heading.tagName === "H3" || heading.classList?.contains("ct-group-title"))) {
+        heading.hidden = !visible;
+      }
     });
 
-    document.querySelectorAll(".md-typeset h2[id]").forEach((h2) => {
-      let node = h2.nextElementSibling;
-      let any = false;
-      while (node && node.tagName !== "H2") {
-        if (node.classList?.contains("ct-list") && !node.hidden) any = true;
-        node = node.nextElementSibling;
-      }
-      if (h2.id === "economy" || h2.id === "science-and-technology") {
-        const hide = currentFilter !== "all" && currentFilter !== "open";
-        h2.hidden = hide;
-        let p = h2.nextElementSibling;
-        while (p && p.tagName !== "H2") {
-          if (!p.classList?.contains("ct-list")) p.hidden = hide;
-          p = p.nextElementSibling;
-        }
+    subjects().forEach((section) => {
+      const sectionRows = [...section.querySelectorAll(".ct-row")];
+      if (!sectionRows.length) {
+        section.hidden = currentFilter !== "all" && currentFilter !== "open";
         return;
       }
-      h2.hidden = currentFilter !== "all" && !any;
-      const sub = h2.nextElementSibling;
-      if (sub && sub.classList?.contains("ct-subhead")) sub.hidden = h2.hidden;
+      section.hidden = !sectionRows.some((row) => !row.hidden);
     });
   }
 
@@ -104,6 +91,10 @@
       if (!id || !box) return;
       box.checked = Boolean(state[id]);
       row.classList.toggle("is-done", box.checked);
+      if (!box.dataset.ctBound) {
+        box.dataset.ctBound = "1";
+        box.addEventListener("click", (event) => event.stopPropagation());
+      }
     });
   }
 
@@ -135,10 +126,29 @@
         const box = row.querySelector(".ct-check");
         if (box) box.checked = false;
         row.classList.remove("is-done");
+        if (row.tagName === "DETAILS") row.open = false;
+      });
+      subjects().forEach((section) => {
+        section.open = false;
       });
       updateProgress();
       applyFilter("all");
     }
+  }
+
+  function bindSubjects() {
+    subjects().forEach((section) => {
+      if (section.dataset.ctBound) return;
+      section.dataset.ctBound = "1";
+      section.addEventListener("toggle", () => {
+        if (!section.open) return;
+        queueMicrotask(() => {
+          subjects().forEach((other) => {
+            if (other !== section) other.open = false;
+          });
+        });
+      });
+    });
   }
 
   function bindOnce() {
@@ -155,9 +165,13 @@
     }
     document.body.classList.add("chapter-tracker-page");
     bindOnce();
+    bindSubjects();
     restoreChecks();
     updateProgress();
     applyFilter(currentFilter === "all" ? "all" : currentFilter);
+    subjects().forEach((section) => {
+      section.open = false;
+    });
   }
 
   if (typeof document$ !== "undefined") document$.subscribe(initialiseTracker);

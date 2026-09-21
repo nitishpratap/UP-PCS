@@ -366,7 +366,7 @@ D. IV, III, I, II
 - **Pulakeshin I** was the real founder of the **Vatapi / Badami** Chalukya dynasty. **Kirtivarman I** and Mangalesha built the early Badami base before Pulakeshin II’s fame.
 - Present **Badami** (बादामी) (Bagalkot district, Karnataka) is ancient **Vatapi**, Chalukya capital in the 6th–7th centuries.
 - **Pulakeshin II (610–642)** was the most capable Early Chalukya ruler. He stopped **Harsha** near the **Narmada** (नर्मदा).
-- The **Aihole inscription** of **Ravikirti** praises Pulakeshin II. At the end of the prasasti, Ravikirti claims fame like **Kalidasa** and **Bharavi** — so **Kalidasa’s name** appears in the Aihole record.
+- The **Aihole inscription** of **Ravikirti** (रविकीर्ति) praises Pulakeshin II. At the end of the prasasti, Ravikirti claims fame like **Kalidasa** (कालिदास) and **Bharavi** (भारवि) — so **Kalidasa’s name** appears in the Aihole record.
 - **Vikramaditya I** recovered Badami after the Pallava sack of Vatapi.
 - **Vikramaditya II** captured Kanchi and patronised the **Virupaksha (विरूपाक्ष) temple at Pattadakal (पट्टदकल)**.
 - Eastern Chalukyas of **Vengi** were founded by **Kubja Vishnuvardhana**, a brother / branch line of **Pulakeshin II**, after the Badami conquest of coastal Andhra.

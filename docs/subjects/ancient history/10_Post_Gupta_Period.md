@@ -27,7 +27,7 @@ Post-Gupta Age | Harshavardhana | Administration of Harsha | Policies of Harshav
 8. Harsha held the **Kannauj assembly** in **643** to honour Xuanzang, and the **Prayag Moksha-parishad / Mahamoksha** every five years for charity give-aways.
 9. Harsha’s copper-plate facts are **Banskhera** (with his signature) and **Madhuban**. The **Sonpat** seal is Pushyabhuti family. Hathigumpha is **not** Harsha — it is **Kharavela** (खारवेल).
 10. After **647** there is no stable heir. The Chinese envoy **Wang Xuance** is attacked by **Arunashva** of Tirhut, and the north fragments again.
-11. **Banabhatta** (बाणभट्ट) is Harsha’s court poet from **Pritikuta** (Son bank, Bihar tradition / Shravasti belt in notes). He writes ornate Sanskrit prose, not Gupta-age verse drama like Kalidasa. *Rajatarangini* (राजतरंगिणी) of Kalhana also carries later Harsha-age memory.
+11. **Banabhatta** (बाणभट्ट) is Harsha’s court poet from **Pritikuta** (Son bank, Bihar tradition / Shravasti belt in notes). He writes ornate Sanskrit prose, not Gupta-age verse drama like **Kalidasa** (कालिदास). *Rajatarangini* (राजतरंगिणी) of Kalhana (कल्हण) also carries later Harsha-age memory.
 12. *Harshacharita* (हर्षचरित) is Bana’s prose **biography** of Harsha (**akhyayika**). *Kadambari* (कादंबरी) is his unfinished prose **romance** (**katha**), finished by tradition by son Bhushanabhatta.
 13. **Hiuen Tsang (Xuanzang)** was in India about **630–644**, studied at **Nalanda** (नालंदा) under **Shilabhadra**, and wrote the ***Si-Yu-Ki***. He is Harsha’s Chinese witness, not Fa-Hien.
 14. Traveller chronology: **Fa-Hien** (फाह्यान) (~399–414, Chandragupta II) → **Sung-yun** (~518–521) → **Hiuen Tsang** (ह्वेनसांग) (~630–644, Harsha) → **I-Tsing** (~671–695, after Harsha) → **Al-Biruni** (~1017).
@@ -35,7 +35,7 @@ Post-Gupta Age | Harshavardhana | Administration of Harsha | Policies of Harshav
 16. **Sarvavarman–Gaya copper plate** is **NOT** matched. The Gaya plate is Gupta / **Samudragupta** (समुद्रगुप्त). Sarvavarman’s fact is the **Asirgarh** seal.
 17. Harsha’s administration reuses Gupta vocabulary: **uparika**, **mahasandhivigrahika** (महासांधिविग्रहिक), **mahapratihara**, and **bhandagaradhikarana** (भाण्डागाराधिकरण). He did **not** invent the Uparika.
 18. The state is personal: **mahasamanta** (महासामंत) feudatories and agrahara grants continue, and the machine collapses when Harsha dies in **647**. Post-Gupta north shows clearer **feudal / lord–vassal land control** than Mauryan central pay.
-19. Three plays often given to Harsha are *Nagananda*, *Ratnavali*, and *Priyadarshika* (प्रियदर्शिका). *Nagananda* carries the Buddhist flavour of the three.
+19. Three plays often given to Harsha are *Nagananda* (नागानन्द), *Ratnavali* (रत्नावली), and *Priyadarshika* (प्रियदर्शिका). *Nagananda* carries the Buddhist flavour of the three.
 20. **Rajyashri did not marry Dhruvasena** of Valabhi. She is Grihavarman’s widow; Maitraka **Dhruvasena II** was restored as an ally.
 21. Mihirakula’s remembered seats include **Sakala**, the **Gwalior** inscription, and Kashmir memory in the *Rajatarangini*. Toramana appears on the **Eran** boar inscription.
 22. Later Gupta **Adityasena** has the **Aphsad** inscription in Bihar. Maitraka founder-memory is **Bhatarka** at Valabhi.
@@ -285,10 +285,10 @@ Harsha tries to reunite north India after the Guptas. He succeeds in the north a
 - Brahman. Village **Pritikuta** on the Son (Aurangabad, Bihar tradition; notes also place him in the Shravasti belt). Father **Chitrabhanu**. He wandered as a scholar, then entered **Harsha’s court** as *asthana-kavi*. That is why he is a **source for Harsha**, not a Gupta-age poet.
 - *Rajatarangini* of **Kalhana** also carries later memory useful for this age, but Bana is the court witness.
 - He writes ornate **Sanskrit prose** (*gadya-kavya*). Verse-drama is not his identity.
-- ***Harshacharita*** is “Deeds of Harsha,” a prose **biography** of his patron. Class: **akhyayika**.
-- ***Kadambari*** is a long **romance** named after the heroine. Class: **katha**. Not a second Harsha chronicle. He left it unfinished. Tradition: son **Bhushanabhatta** finished it.
-- Same Harsha court also had **Mayura**, author of *Suryashataka*. Mayura is not Bana.
-- **Banabhatta** is Harsha’s **7th-century** court poet. **Kalidasa** is Chandragupta II’s Gupta-age poet.
+- ***Harshacharita*** (हर्षचरित) is “Deeds of Harsha,” a prose **biography** of his patron. Class: **akhyayika** (आख्यायिका).
+- ***Kadambari*** (कादंबरी) is a long **romance** named after the heroine. Class: **katha** (कथा). Not a second Harsha chronicle. He left it unfinished. Tradition: son **Bhushanabhatta** (भूषणभट्ट) finished it.
+- Same Harsha court also had **Mayura** (मयूर), author of *Suryashataka* (सूर्यशतक). Mayura is not Bana.
+- **Banabhatta** (बाणभट्ट) is Harsha’s **7th-century** court poet. **Kalidasa** (कालिदास) is Chandragupta II’s (चंद्रगुप्त द्वितीय) Gupta-age poet.
 
 > **Logic:** Bana ≠ Kalidasa. *Harshacharita* ≠ *Kadambari*.
 
