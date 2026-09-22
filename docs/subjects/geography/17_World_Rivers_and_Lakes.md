@@ -46,7 +46,7 @@ D. Colorado
 ---
 
 
-## Consolidated — 30 Must-Score Facts
+## Consolidated — 34 Must-Score Facts
 
 1. **New Orleans** stands on the **Mississippi**, not the Missouri. The Missouri joins the Mississippi at **St Louis**.
 2. **Budapest** is on the **Danube**. **Cologne** is on the **Rhine**. India’s **Hyderabad** (हैदराबाद) is on the **Musi**, not the Godavari (गोदावरी) or Paleru.
@@ -76,6 +76,12 @@ D. Colorado
 26. **Mahaweli** = longest Sri Lanka river; Sri Lanka drainage is **radial** from central highlands.
 27. City–river desk: Phnom Penh–Mekong; Hanoi–Red; Yangon–Irrawaddy; Madrid–Manzanares; Bangkok–Chao Phraya; Basra–Shatt al-Arab.
 28. **Grand Canyon** = Colorado. **Chisapani Gorge** = Nepal (Karnali). Largest delta = **Ganga (गंगा)–Brahmaputra (ब्रह्मपुत्र)**. Inselberg ≠ glacier.
+29. Delta mouths: Mekong → **South China Sea**; Nile → **Mediterranean**; Mississippi → **Gulf of Mexico**; Danube → **Black Sea**; Indus → **Arabian Sea**.
+30. Border rivers beyond Rio Grande: **Amur** (Russia–China), **Orange** (South Africa–Namibia), **Salween** (Myanmar–Thailand stretches), **Zambezi** (Zambia–Zimbabwe at Victoria Falls).
+31. More dam–river pairs: **Guri–Caroní** (Venezuela), **Tucuruí–Tocantins** (Brazil), **Grand Coulee–Columbia** (USA), **Sayano-Shushenskaya–Yenisei** (Russia), **Tarbela–Indus** (Pakistan), **Nurek–Vakhsh** (Tajikistan).
+32. Yangtze chain: Tibetan Plateau → China → **Three Gorges** → Shanghai belt → **East China Sea**.
+33. Nile chain: Victoria / Tana → Sudan–Egypt → **Aswan High Dam** → Nile Delta → **Mediterranean**.
+34. Only a marked stretch of a river is the international border — do not treat the whole Mekong or Colorado course as one continuous border.
 
 ---
 29. International rivers to keep: Nile (Africa), Amazon (South America), Danube (most countries crossed), Rhine (busy European navigation), Mekong (SE Asia), Rio Grande (USA–Mexico border).
@@ -193,9 +199,34 @@ Teach the **full world map**. Next year can ask any standard Lucent pair, not on
 
 ## N.1 World Rivers
 
+![World political base with major rivers, lakes, seas and continents](images/ch17_world_political_rivers.jpg)
+
+![Major rivers of the world by continent](images/ch17_world_rivers_continents.jpg)
+
 ![World Major Rivers Map: Source, Mouths, Discharges & Tropic Crossings](images/ch17_01_world_major_rivers_map.png)
 
 Rivers are matched by continent, mouth and one trap. Length numbers vary by source — learn the **Prelims superlative**, not a kilometre fight.
+
+**Study as one chain, not a name dump**
+
+> **Source → countries → dam (if any) → delta → sea / ocean**
+
+Examples:
+
+- **Yangtze:** Tibetan Plateau → China → **Three Gorges** → Shanghai region → **East China Sea**
+- **Nile:** Victoria / Tana → Sudan–Egypt → **Aswan High Dam** → **Nile Delta** → **Mediterranean**
+- **Ganga:** Himalayas → India–Bangladesh → **Ganga–Brahmaputra–Meghna Delta** → **Bay of Bengal**
+
+**Learn by continent (spine list)**
+
+| Continent | Rivers to place first |
+|-----------|------------------------|
+| **North America** | Mississippi–Missouri, Mackenzie, St Lawrence, Colorado, Rio Grande |
+| **South America** | Amazon, Paraná, Paraguay, Uruguay, Orinoco |
+| **Europe** | Danube, Rhine, Volga, Dnieper, Don |
+| **Africa** | Nile, Congo, Niger, Zambezi, Orange |
+| **Asia** | Ob, Yenisei, Lena, Amur, Huang He, Yangtze, Mekong, Ganga, Brahmaputra, Indus, Tigris–Euphrates |
+| **Australia** | Murray–Darling |
 
 **Who is “longest / biggest”?**
 
@@ -316,6 +347,8 @@ D. Neither 1 nor 2
 
 ## N.2 World deltas
 
+![World major river deltas — know which sea or ocean each mouth opens into](images/ch17_world_deltas.jpg)
+
 A **delta** is the load dumped at a quiet, shallow mouth with many distributaries.
 
 Strong tides can leave an **estuary** (ज्वारनदमुख) instead of a classic delta.
@@ -328,6 +361,24 @@ Delta shape is a standard match stem. Learn the table, then the traps below.
 | **Bird’s-foot** | Distributaries like toes | **Mississippi** — Nile is **not** this |
 | **Cuspate** | Pointed tooth | Tiber (Italy) |
 | **Moribund** | Abandoned / dying lobe | Cauvery (India) |
+
+**Deltas to locate — plus the sea they open into**
+
+| Continent | Delta | River | Opens into |
+|-----------|-------|-------|------------|
+| Asia | **Ganga–Brahmaputra–Meghna** | Ganga / Brahmaputra | **Bay of Bengal** |
+| Asia | Mekong Delta | Mekong | **South China Sea** |
+| Asia | Yangtze Delta | Yangtze | **East China Sea** |
+| Asia | Pearl River Delta | Pearl | South China Sea approaches |
+| Asia | Indus Delta | Indus | **Arabian Sea** |
+| Africa | Nile Delta | Nile | **Mediterranean** |
+| Africa | Niger Delta | Niger | **Gulf of Guinea** (Atlantic) |
+| Europe | Danube Delta | Danube | **Black Sea** |
+| North America | Mississippi Delta | Mississippi | **Gulf of Mexico** |
+| South America | Amazon mouth | Amazon | **Atlantic** |
+| South America | Orinoco Delta | Orinoco | **Atlantic** |
+
+Do not stop at the delta name. Always ask **which sea or ocean** the mouth faces.
 
 The **Nile**, **Hwang Ho** and **Niger** are arcuate deltas.
 
@@ -473,20 +524,33 @@ D. Only 1 and 2
 
 ## N.4 International / Border Rivers
 
-Border and multi-country rivers are classic match-list bait.
+![International border rivers — Rio Grande, Amur and other river boundaries](images/ch17_border_rivers.jpg)
 
-| River | What it divides / crosses | |
-|-------|---------------------------|------|
+Border and multi-country rivers are classic match-list bait. Only the **marked stretch** is the border — not always the whole river course.
+
+| River | Countries / border stretch | Trap |
+|-------|----------------------------|------|
 | **Rio Grande** | **USA–Mexico** for a long stretch | Not Colorado, not Mississippi |
 | Colorado | Only a **short** US–Mexico bit near Yuma | Do not pick for “the” border river |
-| Danube | Germany to the Black Sea through ~**10** countries | Most international |
-| Rhine | Switzerland–France–Germany–Netherlands | |
-| Mekong | China, Myanmar, Laos, Thailand, Cambodia, Vietnam | |
-| Amur | Russia–China | |
+| **Amur** | **Russia–China** | — |
+| **Mekong** | Parts of Myanmar–Thailand, Laos–Thailand, Cambodia–Vietnam region | Do not treat the whole course as one border |
+| **Salween** | Myanmar–Thailand stretches | — |
+| **Orange** | South Africa–Namibia | — |
+| **Limpopo** | South Africa with Botswana / Zimbabwe stretches | — |
+| **Zambezi** | Zambia–Zimbabwe (Victoria Falls belt) | — |
+| **Danube** | Portions of several European borders; crosses ~**10** countries overall | — |
+| **Senegal** | Senegal–Mauritania | — |
+| **Congo** | Parts of DRC–Republic of Congo | — |
+| **Kunene** | Angola–Namibia | — |
 | Jordan | Israel–Jordan | Into Dead Sea |
-| Zambezi | Zambia–Zimbabwe at Victoria Falls | |
-| St Lawrence | USA–Canada | |
-| Niagara River | USA–Canada, between Lakes Erie and Ontario | |
+| Rhine | Switzerland–France–Germany–Netherlands corridor | — |
+| St Lawrence | USA–Canada | — |
+| Niagara River | USA–Canada, between Lakes Erie and Ontario | — |
+
+**India angle**
+
+- **India–Bangladesh:** Ganga / Padma, Brahmaputra / Jamuna and other shared systems.
+- **India–Pakistan:** the **Indus system** is geopolitically central; the land boundary itself is **not** simply “the Indus River line”.
 
 **Inline PYQ — UPPCS Prelims 2023, Q62**
 
@@ -532,27 +596,39 @@ D. Missouri
 
 ## N.6 Dams
 
-Match the dam to the river and the country pair.
+![World’s largest hydropower stations — locate dam, country and river together](images/ch17_world_dams.jpg)
 
-| Dam | River | Country | |
-|-----|-------|---------|------|
-| **Three Gorges** | **Yangtze** | China | World’s largest hydro fact |
-| **Aswan High** | **Nile** | Egypt | Creates **Lake Nasser** |
-| **GERD** | **Blue Nile** | Ethiopia | Water-sharing dispute with Egypt / Sudan |
-| **Itaipu** | **Paraná** | Brazil–Paraguay | |
-| **Kariba** | **Zambezi** | Zambia–Zimbabwe | |
-| **Hoover** | **Colorado** | USA | |
-| Grand Coulee | Columbia | USA | |
-| Akosombo | Volta | Ghana (घन) | |
-| Nurek | Vakhsh | Tajikistan | |
-| Merowe | Nile | Sudan | |
-| Cahora Bassa | Zambezi | Mozambique | |
-| Kurobe | Kurobe | Japan | |
-| Grande Dixence | Dixence | Switzerland | |
-| Enguri | Enguri | Georgia | |
-| Xiaowan | Lancang / Mekong | China | |
-| **Zangmu** | Yarlung Tsangpo / Brahmaputra | Tibet (China) | Flow concern note |
-| Oroville | Feather | USA | |
+Match the dam to the **river** and the **country**. Capacity ranks help ranking stems; the map pair is dam–river–country.
+
+| Dam | Country | River |
+|-----|---------|-------|
+| **Three Gorges** | China | **Yangtze** |
+| **Itaipu** | Brazil–Paraguay | **Paraná** |
+| **Guri** | Venezuela | **Caroní** |
+| **Aswan High** | Egypt | **Nile** (creates **Lake Nasser**) |
+| **Grand Coulee** | USA | **Columbia** |
+| **Tucuruí** | Brazil | **Tocantins** |
+| **Robert-Bourassa** | Canada | **La Grande** |
+| **Sayano-Shushenskaya** | Russia | **Yenisei** |
+| **Tarbela** | Pakistan | **Indus** |
+| **Nurek** | Tajikistan | **Vakhsh** |
+| **GERD** | Ethiopia | **Blue Nile** |
+| **Kariba** | Zambia–Zimbabwe | **Zambezi** |
+| **Hoover** | USA | **Colorado** |
+| Akosombo | Ghana (घन) | Volta |
+| Merowe | Sudan | Nile |
+| Cahora Bassa | Mozambique | Zambezi |
+| Xiaowan | China | Lancang / Mekong |
+| **Zangmu** | Tibet (China) | Yarlung Tsangpo / Brahmaputra |
+| Oroville | USA | Feather |
+
+**Three chains to revise as one system**
+
+| Chain | Path |
+|-------|------|
+| **Yangtze** | Tibetan Plateau → China → **Three Gorges** → Shanghai belt → **East China Sea** |
+| **Nile** | Victoria / Tana → Sudan–Egypt → **Aswan High Dam** → **Nile Delta** → **Mediterranean** |
+| **Paraná** | Interior South America → **Itaipu** (Brazil–Paraguay) → Río de la Plata → **Atlantic** |
 
 ---
 

@@ -194,19 +194,110 @@ Five named oceans plus many seas and gulfs. Area order and Indian Ocean identity
 - The **Sargasso Sea** sits in the North Atlantic gyre and has **no land boundary**.
 - The **Caspian** and **Aral** are **lakes**, not true seas.
 
-**Seas desk (GC extras)**
+**Seas desk — learn by “what is it between?”**
 
-| Sea | Note |
-|-----|-----|
-| **South China Sea** | Pacific marginal sea, often the deepest among common options (~5377 m) |
-| **Bering Sea** | Pacific marginal sea between Asia and America |
-| **Mediterranean** | Largest enclosed sea, linked to the Atlantic at Gibraltar |
-| **Black Sea** | South-east Europe; **Syria does not** border it |
-| **Sea of Azov** | Almost enclosed; opens to the Black Sea through the Kerch Strait |
-| **Tyrrhenian** | Between Italy, Sicily, Sardinia and Corsica |
-| **Sargasso** | North Atlantic sea with **no coastline**, named for Sargassum weed |
-| **Aral** | Shrinking lake shared by Kazakhstan and Uzbekistan |
-| **Red Sea** | **Axial trough** (rift) between Africa and Arabia |
+Do not memorise only coordinates. Read each map as **who sits on which side**, then learn the connector strait or current.
+
+### South China Sea
+
+![South China Sea location — China north, Vietnam west, Philippines east, Borneo south](images/ch16_sea_south_china.jpg)
+
+- The **South China Sea** is a **western Pacific** marginal sea in Southeast Asia.
+- Picture the frame: **China** on top, **Vietnam** on the left, the **Philippines** on the right, and **Borneo / Malaysia** below.
+- Core coastal set: China, Taiwan, Vietnam, Philippines, Malaysia, Brunei, and parts of Indonesia.
+- It is often the **deepest** option among common seas (~**5377 m**).
+- Island traps inside the basin include the **Paracel** and **Spratly** groups.
+
+### Bering Sea
+
+![Bering Sea location — between Russia and Alaska](images/ch16_sea_bering.jpg)
+
+- The **Bering Sea** is a **North Pacific** marginal sea between **Russia** and **Alaska (USA)**.
+- Easy cue: **Bering = between Russia and Alaska**.
+- The **Bering Strait** links the Bering Sea to the **Arctic Ocean**.
+
+### Mediterranean Sea
+
+![Mediterranean Sea location — Europe north, Africa south, Asia east](images/ch16_sea_mediterranean.jpg)
+
+- The **Mediterranean** sits between **Europe** (north) and **Africa** (south), with **Asia** on the eastern side.
+- Atlantic Ocean → **Strait of Gibraltar** → Mediterranean.
+- It is the classic large enclosed sea in MCQs.
+- **Syria does border the Mediterranean**, but **Syria does not border the Black Sea**.
+- **Jordan does not** open to the Mediterranean; Jordan’s only sea tip is the **Gulf of Aqaba** (Red Sea).
+
+### Black Sea
+
+![Black Sea location — Ukraine north, Turkey south, Romania–Bulgaria west, Russia–Georgia east](images/ch16_sea_black.jpg)
+
+- Ring the coasts: **north Ukraine**, **east Russia + Georgia**, **south Türkiye**, **west Bulgaria + Romania**.
+- Strait chain (high-yield order): **Black Sea → Bosporus → Sea of Marmara → Dardanelles → Aegean → Mediterranean**.
+- **Syria** is a Mediterranean country only — never put it on the Black Sea list.
+
+### Sea of Azov
+
+![Sea of Azov location — north of the Black Sea via Kerch Strait](images/ch16_sea_azov.jpg)
+
+- The **Sea of Azov** sits **north of the Black Sea**, mainly between **Ukraine** and **Russia**.
+- It opens to the Black Sea through the **Kerch Strait**.
+- Cue: **Azov = small sea parked above the Black Sea**.
+
+### Tyrrhenian Sea
+
+![Tyrrhenian Sea location — west of Italy between Corsica, Sardinia and Sicily](images/ch16_sea_tyrrhenian.jpg)
+
+- The **Tyrrhenian Sea** is **west of Italy**.
+- Frame: **Italy** to the east, **Corsica** and **Sardinia** to the west, **Sicily** to the south.
+- Cue: **T = Tyrrhenian = to the west of Italy**.
+
+### Sargasso Sea
+
+![Sargasso Sea in the North Atlantic gyre — sea without a land coast](images/ch16_sea_sargasso.jpg)
+
+- The **Sargasso Sea** lies in the **North Atlantic**, roughly around **Bermuda**.
+- It has **no coastline**; currents form the boundary (NOAA: only sea without a land shore).
+- Current frame: **west Gulf Stream**, **north North Atlantic Current**, **east Canary Current**, **south North Atlantic Equatorial Current**.
+- Named for **Sargassum** weed floating in the gyre.
+
+### Aral Sea
+
+![Aral Sea location — between Kazakhstan and Uzbekistan, fed by Syr Darya and Amu Darya](images/ch16_sea_aral.jpg)
+
+- The **Aral Sea** sits in **Central Asia** between **Kazakhstan** and **Uzbekistan**.
+- Despite the name “sea”, it is a **lake**.
+- Feeders: **Syr Darya** from the northeast and **Amu Darya** from the south.
+- Heavy irrigation diversion has shrunk the lake into separate remaining water bodies.
+
+### Red Sea
+
+![Red Sea location — Africa west, Arabian Peninsula east; Suez north, Bab-el-Mandeb south](images/ch16_sea_red.jpg)
+
+- The **Red Sea** separates **Africa** (Egypt, Sudan, Eritrea, Djibouti) from the **Arabian Peninsula** (Saudi Arabia, Yemen).
+- North: **Suez Canal** links the Red Sea to the **Mediterranean**.
+- South: **Bab-el-Mandeb** opens to the **Gulf of Aden** and then the **Indian Ocean**.
+- Form: **axial trough / rift** between the African and Arabian plates — long, narrow, and deep for its width.
+
+**Quick “between what?” table**
+
+| Sea | Just remember this |
+|-----|--------------------|
+| **South China Sea** | China – Vietnam – Philippines – Borneo |
+| **Bering Sea** | **Russia ↔ Alaska** |
+| **Mediterranean** | **Europe ↔ Africa**, Asia east |
+| **Black Sea** | Ukraine – Russia – Georgia – Türkiye – Bulgaria – Romania |
+| **Sea of Azov** | **North of Black Sea**, via Kerch Strait |
+| **Tyrrhenian** | **West of Italy**, Italy–Sardinia–Corsica–Sicily |
+| **Sargasso** | **North Atlantic; no coastline; currents define it** |
+| **Aral** | **Kazakhstan + Uzbekistan; shrinking lake** |
+| **Red Sea** | **Africa ↔ Arabia; rift** |
+
+**Five map chains to revise first**
+
+1. **Black Sea + Azov + Bosporus + Dardanelles**
+2. **Mediterranean + Tyrrhenian + Adriatic + Aegean + Ionian**
+3. **Red Sea + Gulf of Aden + Bab-el-Mandeb + Suez**
+4. **South China Sea + surrounding countries**
+5. **Aral Sea + Syr Darya + Amu Darya**
 
 **Türkiye’s four (चातुर्याम) waters — clock method**
 
