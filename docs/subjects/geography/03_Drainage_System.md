@@ -41,7 +41,7 @@ Namami Gange (नमामि गंगे) and GAP are Ganga cleaning programme
 ---
 
 
-## Consolidated — 34 Must-Score Facts
+## Consolidated — 38 Must-Score Facts
 
 1. About **77%** of India’s drainage **area** faces the **Bay of Bengal**, about **23%** faces the **Arabian Sea**, and inland basins cover about **8%** of area. Over **90% of river water** still goes to the Bay of Bengal.
 2. Water-share fact: **Brahmaputra about 40%**, **Ganga about 25%**, **Godavari about 6%**. Brahmaputra leads water volume; Ganga leads Indian basin area.
@@ -79,6 +79,10 @@ Namami Gange (नमामि गंगे) and GAP are Ganga cleaning programme
 ---
 33. Ganga left-bank Himalayan tributes include Ramganga, Ghaghara, Gandak, Kosi and Mahananda; **Gomti** is plains-origin. Right-bank facts include Yamuna, Son and Damodar.
 34. Peninsular rivers are older, graded and mostly rain-fed; Himalayan rivers are younger, perennial and often antecedent through rising ranges.
+35. Dendritic rivers include the **Ganga** and **Indus** plains, the **Godavari**, the **Mahanadi**, the **Krishna**, and the **Kaveri**.
+36. The Indian **trellis** ground is the old folded belt of **Singhbhum** (Chotanagpur). **Rectangular** streams follow joints on the **Vindhyan** rocks.
+37. **Centripetal** streams drain into **Loktak** and into **Sambhar** (Mendha, Rupangarh).
+38. The **Sharavati** follows a **parallel** pattern down the Western Ghats.
 
 ---
 
@@ -763,31 +767,44 @@ A **drainage pattern** is the map shape of rivers. The shape tells you what **co
 
 - **Dendritic** looks like a **tree** with many irregular branches.
 - It develops on **homogeneous / uniform rock** — the same resistance everywhere, so streams join at acute angles without a forced grid.
-- Indian plains examples include stretches of the **Indus, Godavari, Mahanadi, Krishna and Kaveri**.
+- The **Ganga (गंगा)** on the northern plain follows a dendritic pattern.
+- The **Indus (सिंधु)** on the plain follows a dendritic pattern.
+- The **Godavari (गोदावरी)** follows a dendritic pattern.
+- The **Mahanadi (महानदी)** follows a dendritic pattern.
+- The **Krishna (कृष्णा)** follows a dendritic pattern.
+- The **Kaveri (कावेरी)** follows a dendritic pattern.
 - **Trellis** looks like a **garden trellis / lattice** — long parallel master streams with short cross-links.
 - It develops on **folded** belts of **hard and soft rock** alternating — soft belts become strike valleys; hard belts become ridges.
+- The Indian trellis ground is the old folded belt of **Singhbhum (सिंहभूम)** on the **Chotanagpur (छोटानागपुर)** plateau.
 - Memory: **same rock → tree (dendritic)**; **folds → lattice (trellis)**.
 
 **From a high centre or into a bowl**
 
 - **Radial** streams run **outward** from a high centre — like spokes from a hub.
 - Typical Indian controls are a dome, a volcano, or a highland such as **Amarkantak** or **Girnar**.
+- The **Narmada (नर्मदा)** leaves Amarkantak toward the **west**.
+- The **Son (सोन)** leaves Amarkantak toward the **Ganga**.
+- The Mahanadi rises at **Sihawa**, so it is not an Amarkantak radial river.
 - **Centripetal** is the opposite — streams run **inward** into a **closed basin**.
-- **Imphal / Loktak** is the classic Indian centripetal / closed-basin pair.
+- Streams of the **Imphal** basin drain inward toward **Loktak (लोकतक)**.
+- The **Mendha (मेंढा)** drains inward toward **Sambhar (सांभर)** lake.
+- The **Rupangarh (रुपनगढ़)** drains inward toward Sambhar lake.
 
 **Joints and steep slopes**
 
-- **Rectangular** drainage bends at near-right angles because streams follow **joints** and **faults** — common on some Himalayan stretches.
-- **Parallel** drainage has many streams running side by side on a **steep, uniform slope** — Western Ghat torrents are the teaching picture.
+- **Rectangular** drainage bends at near-right angles because streams follow **joints** and **faults**.
+- Streams on the jointed **Vindhyan (विंध्य)** rocks follow a rectangular pattern.
+- **Parallel** drainage has many streams running side by side on a **steep, uniform slope**.
+- The **Sharavati (शरावती)** follows a parallel pattern down the Western Ghats.
 
-| Pattern | Control | India |
-|---------|---------|-------|
-| **Dendritic** | Uniform rock | Indus, Godavari, Mahanadi, Krishna, Kaveri plains |
-| **Trellis** | **Folded** ridges and valleys | Alternating hard and soft beds |
-| **Radial** | Dome or peak | **Amarkantak**, Girnar |
-| **Centripetal** | Closed basin | **Imphal / Loktak** |
-| **Parallel** | Steep uniform slope | Western Ghat torrents |
-| **Rectangular** | Joints and faults | Himalayan stretches |
+| Pattern | Control | River / ground |
+|---------|---------|----------------|
+| **Dendritic** | Uniform rock | **Ganga** and **Indus** plains; **Godavari**; **Mahanadi**; **Krishna**; **Kaveri** |
+| **Trellis** | **Folded** ridges and valleys | **Singhbhum** (Chotanagpur) |
+| **Radial** | Dome or peak | **Narmada** west and **Son** toward the Ganga from **Amarkantak**; Girnar |
+| **Centripetal** | Closed basin | **Loktak** (Imphal); **Mendha** and **Rupangarh** into **Sambhar** |
+| **Parallel** | Steep uniform slope | **Sharavati** (Western Ghats) |
+| **Rectangular** | Joints and faults | Jointed **Vindhyan** streams |
 
 - Youth shows gorges and waterfalls. Maturity shows meanders and floodplains. Old age shows ox-bows and deltas. The Brahmaputra is **braided**.
 - **Rejuvenation** is renewed downcutting after uplift, base-level fall, or capture. Knickpoints, terraces, and incised meanders appear.

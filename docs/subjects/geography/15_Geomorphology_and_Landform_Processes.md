@@ -9,7 +9,7 @@ Endogenic / Exogenic Processes | Rocks — Igneous, Sedimentary, Metamorphic | R
 </details>
 
 > **Sources baked in:** NCERT Class 11 (Geomorphic Processes, Landforms), PWOnlyIAS / Drishti geomorphology notes, Lucent landform match-lists, **Ghatnachakra / multi-PCS Extra** (weathering · fluvial · glacial · aeolian · coastal · karst · drainage · deltas · **CB–73+ valleys** · **CB–143+ river landforms**), **UKPCS** Prelims stems (rocks · landforms), UPPCS Prelims 2018–2025
-> **Weight:** ★★★ — trellis, bird’s-foot vs arcuate, moribund Cauvery, Imphal lacustrine, Damodar fault-valley, rock-cycle pairs; teach full process map for **UPPCS + UKPCS**
+> **Weight:** ★★★ — trellis, bird’s-foot (Mississippi only) vs arcuate, moribund Bengal vs Cauvery, Imphal lacustrine, Damodar fault-valley, rock-cycle pairs; teach full process map for **UPPCS + UKPCS**
 > **Last verified:** September 2026 — Extra Drill expanded with CB–73+ / CB–143+ (valleys · fluvial landforms) + UKPCS rock stems
 > **Current Affairs:** none mandatory (process chapter); Himalayan fossils / delta types stay static
 
@@ -23,7 +23,7 @@ Process chapter — no living scheme tag. Static PYQ surface (trellis (जाल
 ---
 
 
-## Consolidated — 32 Must-Score Facts
+## Consolidated — 52 Must-Score Facts
 
 1. **Endogenic** processes (folding, faulting, volcanism, uplift) build relief from inside the Earth. **Exogenic** processes wear and deposit at the surface. **Gradation** = degradation + aggradation.
 2. Davis’s cycle of erosion is framed as **structure–process–time** (youth–mature–old). Penck and King modify timing, but the landform vocabulary stays -useful.
@@ -35,7 +35,7 @@ Process chapter — no living scheme tag. Static PYQ surface (trellis (जाल
 8. Fluvial stages: youth = **V-valley / waterfall / pothole**; mature = **meander / floodplain / levee**; old = **ox-bow / delta (डेल्टा) / peneplain**. Rejuvenation adds knickpoints, terraces and incised meanders.
 9. On a meander, the **concave** bank erodes and the **convex** bank builds a **point bar**. A **yazoo** stream is deferred behind a levee. Mountain-foot dumps are **alluvial (जलोढ़) fans**; coalescing fans form a **bajada**.
 10. Stream genetic types include consequent (अनुवर्ती), subsequent (परवर्ती), obsequent and resequent. **Antecedent** (पूर्ववर्ती) streams cut rising land; **superimposed** (अध्यारोपित) streams inherit a course from a cover; subsequent streams follow structure.
-11. **Bird’s-foot** (पक्षी-पाद) delta = **Mississippi**. **Arcuate** (चापाकार) deltas = **Nile** and **Ganga (गंगा)–Brahmaputra (ब्रह्मपुत्र)**. **Cuspate** pair = Tiber. **Moribund** has two frames: **Bengal subdivision** (UPPCS 2019) vs **Cauvery lobe** in landform match-lists — read the stem. Eastern India mouths favour deltas; western mouths often form **estuaries** (Narmada (नर्मदा) / Tapi (तापी)).
+11. The **only** bird’s-foot (पक्षी-पाद) example is the **Mississippi**. **Arcuate** (चापाकार) examples include the **Nile** and the **Ganga (गंगा)–Brahmaputra (ब्रह्मपुत्र)**. The usual cuspate example is the **Tiber**. East-flowing Indian mouths often build deltas; **Narmada (नर्मदा)** and **Tapi (तापी)** usually form estuaries.
 12. Drainage patterns: **folded** beds → **trellis**; homogeneous rock → **dendritic** (वृक्षाकार); dome → **radial**; joints / faults → **rectangular**.
 13. The classic fault-valley river tag is the **Damodar** (दामोदर), not the Chambal (चंबल). **Narmada–Tapi** are rift / fault-line pairs as well.
 14. The **Imphal** basin is **lacustrine** (lake-filled), not loess or glacial. Kashmir Vale also has lacustrine / structural pairs. **Loess** is wind-laid silt (China belt), not Imphal.
@@ -59,6 +59,26 @@ Process chapter — no living scheme tag. Static PYQ surface (trellis (जाल
 30. Glacial depositional set: **moraine, drumlin, esker, kame, outwash, erratic**. Erosional set: cirque, arête, horn, U-valley, hanging valley, fjord, tarn.
 31. Aeolian deposition builds **barchan** (horns downwind) and often **parabolic** dunes (horns upwind). Wind erosion forms yardang, zeugen and mushroom rocks.
 32. Coastal deposition builds spit, bar, tombolo and lagoon with longshore drift. Coral reefs: fringing, barrier and **atoll** (horseshoe / ring around a lagoon).
+33. If the stem calls a moribund delta a **subdivision**, the answer is the **Bengal Delta** (moribund, mature, active). If the stem asks which river’s delta is the moribund **lobe**, the answer is the **Cauvery**. **Krishna (कृष्णा)–Godavari (गोदावरी)** and **Mahanadi (महानदी)** fit neither wording.
+34. The **Irrawaddy** (इरावदी) delta lies in **southern Myanmar**.
+35. The **Nile** (नील) delta lies in **northern Egypt**.
+36. The **Indus** (सिंधु) delta lies in **Sindh, Pakistan**.
+37. The **Danube** (डेन्यूब) delta meets the **Black Sea** in **Romania and Ukraine**.
+38. The **Rhine** (राइन) delta lies in the **Netherlands**.
+39. The **Volga** (वोल्गा) delta lies on the **Caspian Sea**.
+40. The **Niger** (नाइजर) has an inland delta in **Mali** and a sea delta in **Nigeria**.
+41. The **Godavari** (गोदावरी) delta lies in **Andhra Pradesh**.
+42. The **Krishna** (कृष्णा) delta lies in **Andhra Pradesh**.
+43. The **Mahanadi** (महानदी) delta lies in **Odisha**.
+44. The **Cauvery** (कावेरी) delta lies in **Tamil Nadu**.
+45. The **Red River** delta lies in **northern Vietnam**.
+46. The **Amazon** meets the Atlantic in **Brazil** as a broad estuary.
+47. Dendritic rivers include the **Ganga (गंगा)** and **Indus (सिंधु)** plains, the **Godavari (गोदावरी)**, the **Mahanadi (महानदी)**, the **Krishna (कृष्णा)**, and the **Kaveri (कावेरी)**.
+48. From **Amarkantak (अमरकंटक)**, the **Narmada (नर्मदा)** flows west and the **Son (सोन)** flows toward the Ganga. That spread is **radial**. The Mahanadi rises at **Sihawa**, so it is not in this radial set.
+49. The Indian **trellis** ground is the old folded belt of **Singhbhum (सिंहभूम)** on the Chotanagpur plateau.
+50. **Rectangular** streams follow joints on the **Vindhyan (विंध्य)** rocks.
+51. **Centripetal** streams drain into **Loktak (लोकतक)** and into **Sambhar (सांभर)**.
+52. The **Sharavati (शरावती)** follows a **parallel** pattern down the Western Ghats.
 
 ---
 
@@ -72,9 +92,16 @@ Process chapter — no living scheme tag. Static PYQ surface (trellis (जाल
 | Quartzite | From **sandstone** | From limestone | क्वार्टजाइट |
 | Gneiss | From **granite** | From shale | नाइस |
 | Trellis | **Folded** structures | Dendritic on folds | जाल / जाली |
-| Bird’s-foot delta | **Mississippi** | Ganga / Nile | पक्षी-पाद |
+| Bird’s-foot delta | **Mississippi only** | Ganga / Nile / a second river | पक्षी-पाद |
 | Arcuate delta | **Nile, Ganga–Brahmaputra** | Mississippi | चापाकार |
-| Moribund (two frames) | **Bengal subdivision** vs **Cauvery lobe** — read stem | Mixing both into one key | मृतप्राय |
+| Moribund wording | **Subdivision → Bengal**; **lobe → Cauvery** | One answer for both | मृतप्राय |
+| Mekong delta | **Southern Vietnam** | Cambodia | मेकांग |
+| Nile delta | **Northern Egypt** | Sudan / Ethiopia | नील |
+| Indus delta | **Sindh, Pakistan** | Indian west coast | सिंधु |
+| Irrawaddy delta | **Southern Myanmar** | Thailand | इरावदी |
+| Danube delta | **Black Sea (Romania–Ukraine)** | Hungary | डेन्यूब |
+| Volga delta | **Caspian Sea** | Black Sea | वोल्गा |
+| Niger deltas | **Mali inland; Nigeria at the sea** | One mouth only | नाइजर |
 | Imphal basin | **Lacustrine** | Loess / glacial | झीलकृत |
 | Barchan horns | Point **downwind** | Upwind | बरखान |
 | Stalactite | **Ceiling** | Floor | स्टैलेक्टाइट |
@@ -501,24 +528,93 @@ A delta needs a large load, a quiet coast and a shallow shelf. Strong tides or w
 
 ### Delta shapes — Teaching Card
 
-- An **arcuate** delta has a **bow / fan** front with many distributaries — **Nile**, **Ganga–Brahmaputra (Sundarbans (सुंदरबन))**, Rhine, Niger and Hwang Ho. It is **not** bird’s-foot.
-- A **bird’s-foot** delta sends long toe-like distributaries into quiet water — the classic is the **Mississippi**. The Ganga is **not** this type.
-- A **cuspate** delta is **tooth / pointed** where opposing waves pinch the mouth — Tiber (Italy) and Ebro are the usual pairs.
-- An **estuarine** mouth fills a drowned funnel rather than building a big fan — many west-India type mouths.
-- A **moribund** delta belt is an **abandoned / dying** part of a delta.
-- Indian papers use **two frames**. If the stem says **subdivision** of a named delta (UPPCS 2019), answer **Bengal Delta** (moribund–mature–active belts). If the stem asks which river’s delta is the **moribund / abandoned lobe** in landform lists, coaching often keys **Cauvery**.
-- Do **not** pick Krishna (कृष्णा)–Godavari (गोदावरी) or Mahanadi (महानदी) for either classic stem. Do **not** force one answer for both wordings.
-- India: **east-coast deltas** sit on a wide shelf; **west-coast estuaries** favour **Narmada** (नर्मदा) and **Tapi** (तापी).
-- The **Mekong** rises on the **Tibetan Plateau**; its delta is in **southern Vietnam**, not southern Cambodia.
+- An **arcuate** (चापाकार) delta has a **bow / fan** front and many distributaries.
+- The **Nile** (नील) builds an arcuate delta in **northern Egypt**.
+- The **Ganga (गंगा)–Brahmaputra (ब्रह्मपुत्र)** builds an arcuate delta in the **Sundarbans (सुंदरबन)**.
+- The **Rhine** (राइन) builds an arcuate delta in the **Netherlands**.
+- The **Niger** (नाइजर) builds an arcuate coastal delta in **Nigeria**.
+- The **Hwang Ho** (ह्वांग हो) builds an arcuate delta on China’s **Bohai** coast.
+- A **bird’s-foot** (पक्षी-पाद) delta sends long toe-like distributaries into quiet water.
+- The **Mississippi** (मिसिसिपी) is the **only** bird’s-foot example.
+- A **cuspate** delta is **tooth / pointed** where waves from two sides pinch the mouth.
+- The **Tiber** (टाइबर) in Italy is a cuspate example.
+- The **Ebro** (एब्रो) in Spain is a cuspate example.
+- An **estuarine** mouth fills a drowned funnel rather than a fan.
+- The **Narmada** (नर्मदा) meets the Arabian Sea as an estuary.
+- The **Tapi** (तापी) meets the Arabian Sea as an estuary.
+- East-coast deltas sit on a wide shelf.
+
+### Moribund — two different questions
+
+- A **moribund** (मृतप्राय) belt is the **dying** part of a delta, where old channels no longer carry the main flow.
+- The **Bengal Delta** is split into three belts: **moribund**, **mature**, and **active**.
+- If the stem says moribund delta is a **subdivision** of a named delta, the answer is the **Bengal Delta**.
+- That moribund belt sits on the older **western** side of Bengal, after the main flow shifted east toward the **Padma**.
+- If the stem asks which **river’s** delta is the moribund or **abandoned lobe**, the answer is the **Cauvery** (कावेरी).
+- The Cauvery delta is old and heavily irrigated, and it adds little new land at the sea.
+- **Krishna (कृष्णा)–Godavari (गोदावरी)** is not the answer when the word is **subdivision**.
+- **Krishna–Godavari** is not the answer when the word is **abandoned lobe**.
+- **Mahanadi (महानदी)** is not the answer when the word is **subdivision**.
+- **Mahanadi** is not the answer when the word is **abandoned lobe**.
+- **Subdivision** means Bengal. **Abandoned lobe** means Cauvery. Each wording keeps its own answer.
+
+| Wording in the stem | What it asks | Answer |
+|------|----------------|---------|
+| **Subdivision** of a named delta | Which delta is split into moribund–mature–active belts | **Bengal Delta** |
+| Which **river’s** delta is the moribund / abandoned **lobe** | Which delta is old and no longer growing | **Cauvery** |
+| Either wording, with Krishna–Godavari or Mahanadi as the pick | Distractor on both stems | **Neither** |
+
+### If the stem swaps the river — where the delta lies
+
+The Mekong stem keeps a true source and moves the delta to the wrong country. The same test can use any river below.
+
+| River | Rises in | Delta lies in | Usual wrong place |
+|------|----------|----------------|-------------------|
+| **Mekong** (मेकांग) | Tibetan Plateau | **Southern Vietnam** | Southern Cambodia |
+| **Red River** | Yunnan, China | **Northern Vietnam** | Southern Vietnam (that is the Mekong) |
+| **Irrawaddy** (इरावदी) | Northern Myanmar | **Southern Myanmar** | Thailand |
+| **Chao Phraya** | Northern Thailand | **Central Thailand** | Cambodia |
+| **Nile** (नील) | White Nile: Lake Victoria; Blue Nile: Lake Tana | **Northern Egypt** | Sudan or Ethiopia |
+| **Indus** (सिंधु) | Tibet, near Mansarovar | **Sindh, Pakistan** | Indian west coast |
+| **Ganga–Brahmaputra** | Himalaya | **Bengal** (India and Bangladesh) | Assam alone |
+| **Godavari** (गोदावरी) | Trimbakeshwar | **Andhra Pradesh** | Odisha or Tamil Nadu |
+| **Krishna** (कृष्णा) | Mahabaleshwar | **Andhra Pradesh** | Karnataka at the sea |
+| **Mahanadi** (महानदी) | Sihawa, Chhattisgarh | **Odisha** | Andhra Pradesh |
+| **Cauvery** (कावेरी) | Talakaveri, Karnataka | **Tamil Nadu** | Karnataka at the sea |
+| **Narmada / Tapi** | Amarkantak / Multai | **Estuary**, not a large delta | An arcuate fan |
+| **Danube** (डेन्यूब) | Black Forest, Germany | **Black Sea**, Romania and Ukraine | Hungary or Austria |
+| **Rhine** (राइन) | Swiss Alps | **Netherlands** | Germany only |
+| **Volga** (वोल्गा) | Valdai Hills, Russia | **Caspian Sea**, Russia | Black Sea |
+| **Niger** (नाइजर) | Guinea highlands | Inland delta in **Mali**; sea delta in **Nigeria** | Treating Mali as the sea mouth |
+| **Amazon** | Andes | Broad **estuary in Brazil** | A fan delta in Peru |
+| **Hwang Ho** | Tibetan Plateau | **Bohai**, China | A bird’s-foot mouth |
+| **Mississippi** | Lake Itasca, Minnesota | **Louisiana**, Gulf of Mexico | Any second bird’s-foot river |
+
+- The **Mekong** rises on the **Tibetan Plateau**, and its delta lies in **southern Vietnam**.
+- Cambodia stands on the Mekong, but the delta is not in southern Cambodia.
+- The **Red River** delta lies in **northern Vietnam**.
+- The **Irrawaddy** delta lies in **southern Myanmar**.
+- The **Nile** delta lies in **northern Egypt**.
+- The **Indus** delta lies in **Sindh, Pakistan**.
+- The **Danube** delta meets the **Black Sea** in Romania and Ukraine.
+- The **Rhine** delta lies in the **Netherlands**.
+- The **Volga** delta lies on the **Caspian Sea**.
+- The **Niger** has an inland delta in **Mali**.
+- The **Niger** has a sea delta in **Nigeria**.
+- The **Godavari** delta lies in **Andhra Pradesh**.
+- The **Krishna** delta lies in **Andhra Pradesh**.
+- The **Mahanadi** delta lies in **Odisha**.
+- The **Cauvery** delta lies in **Tamil Nadu**.
+- The **Amazon** meets the Atlantic in **Brazil** as a broad estuary.
 
 | Type | Shape / fact | Classic |
 |------|----------------|---------|
-| **Arcuate** | Bow / fan | **Nile, Ganga–Brahmaputra (Sundarbans), Rhine, Niger, Hwang Ho** — **not** bird’s-foot |
-| **Bird’s-foot** | Distributaries like toes | **Mississippi**. Ganga is **not** this |
-| **Cuspate** | Tooth / pointed | Tiber (Italy), Ebro |
-| **Estuarine** | Fills a drowned mouth | Some European / west-India type mouths |
-| **Moribund (subdivision stem)** | Dying belt inside Bengal’s scheme | **Bengal Delta** (UPPCS 2019) |
-| **Moribund (lobe / river stem)** | Abandoned / ageing delta | **Cauvery** in many landform keys |
+| **Arcuate** | Bow / fan | Nile, Ganga–Brahmaputra (Sundarbans), Rhine, Niger, Hwang Ho |
+| **Bird’s-foot** | Distributaries like toes | **Mississippi only** |
+| **Cuspate** | Tooth / pointed | Tiber (Italy), Ebro (Spain) |
+| **Estuarine** | Fills a drowned mouth | Narmada, Tapi |
+| **Moribund (subdivision wording)** | Dying belt inside a three-belt scheme | **Bengal Delta** |
+| **Moribund (lobe wording)** | Abandoned / ageing delta | **Cauvery** |
 
 **Inline PYQ — UPPCS Prelims 2018, Q33**
 
@@ -535,7 +631,9 @@ D. Cauvery
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Nile/Ganga = **arcuate**; Mississippi = **bird’s-foot**.
+**Logic:** Bird’s-foot has one example. The Nile and the Ganga–Brahmaputra are arcuate. The Cauvery is an old delta, not this shape.
+
+**Ans: C** — The **Mississippi** is the only bird’s-foot example.
 </details>
 
 **Inline PYQ — UPPCS Prelims 2019, Q85**
@@ -577,7 +675,9 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Delta = **southern Vietnam**.
+**Logic:** The rise on the Tibetan Plateau is correct. The delta country is the trap: southern Vietnam, not southern Cambodia. The same stem can name another river from the delta-country table above.
+
+**Ans: A** — Only statement 1. The Mekong delta lies in **southern Vietnam**.
 </details>
 
 ---
@@ -687,36 +787,54 @@ A **drainage pattern** is the map shape of rivers. The shape tells you what **co
 
 **Tree and grid patterns**
 
-- **Dendritic** looks like a **tree** with many irregular branches.
+- **Dendritic** (वृक्षाकार) looks like a **tree** with many irregular branches.
 - It develops on **homogeneous rock** (same resistance everywhere) — no strong fold or joint grid to force streams into lines.
-- **Trellis** looks like a **garden trellis / lattice** — main streams in long parallel valleys, short cross-links.
+- The **Ganga (गंगा)** on the northern plain follows a dendritic pattern.
+- The **Indus (सिंधु)** on the plain follows a dendritic pattern.
+- The **Godavari (गोदावरी)** follows a dendritic pattern.
+- The **Mahanadi (महानदी)** follows a dendritic pattern.
+- The **Krishna (कृष्णा)** follows a dendritic pattern.
+- The **Kaveri (कावेरी)** follows a dendritic pattern.
+- **Trellis** (जालनुमा) looks like a **garden trellis / lattice** — main streams in long parallel valleys, short cross-links.
 - It develops on **folded** belts of **hard and soft rock** alternating — soft belts become strike valleys; hard belts become ridges.
+- The Indian trellis ground is the old folded belt of **Singhbhum (सिंहभूम)** on the **Chotanagpur (छोटानागपुर)** plateau.
 - Memory: **same rock → tree (dendritic)**; **folds → lattice (trellis)**.
 
 **From a high centre or into a bowl**
 
-- **Radial** streams run **outward** from a high centre — like spokes from a hub.
-- Typical controls: **dome**, **volcano**, or a highland such as **Amarkantak**.
-- **Centripetal** is the opposite — streams run **inward** into a **closed basin**.
-- Structural basins often show centripetal drainage.
+- **Radial** (अरीय) streams run **outward** from a high centre — like spokes from a hub.
+- Typical controls: **dome**, **volcano**, or a highland such as **Amarkantak (अमरकंटक)**.
+- The **Narmada (नर्मदा)** leaves Amarkantak toward the **west**.
+- The **Son (सोन)** leaves Amarkantak toward the **Ganga**.
+- The Mahanadi rises at **Sihawa**, so it is not an Amarkantak radial river.
+- **Girnar (गिरनार)** hill in Gujarat also sends streams outward.
+- The **Mahaweli (महावेली)** drains **Sri Lanka**, where streams radiate from the central highlands.
+- **Centripetal** (केन्द्राभिमुख) is the opposite — streams run **inward** into a **closed basin**.
+- Streams of the **Imphal** basin drain inward toward **Loktak (लोकतक)**.
+- The **Mendha (मेंढा)** drains inward toward **Sambhar (सांभर)** lake.
+- The **Rupangarh (रुपनगढ़)** drains inward toward Sambhar lake.
 
 **Joints, slope, rings, and chaos**
 
-- **Rectangular** drainage bends at near-right angles because streams follow **joints** and **faults**.
-- **Parallel** drainage has many streams running side by side on a **steep, uniform slope**.
-- **Annular** drainage forms **ring-like** courses where soft beds sit in **concentric** arcs around a dome or basin.
-- **Deranged** drainage is messy and poorly organised on a **new glacial dump** (kame-and-kettle / recently ice-left ground) before a clear network develops.
+- **Rectangular** (आयताकार) drainage bends at near-right angles because streams follow **joints** and **faults**.
+- Streams on the jointed **Vindhyan (विंध्य)** rocks follow a rectangular pattern.
+- **Parallel** (समानांतर) drainage has many streams running side by side on a **steep, uniform slope**.
+- The **Sharavati (शरावती)** follows a parallel pattern down the **Western Ghats (पश्चिमी घाट)**.
+- **Annular** (वलयाकार) drainage forms **ring-like** courses where soft beds sit in **concentric** arcs around a dome or basin.
+- The usual annular example is the **Black Hills** of South Dakota. No single Indian river carries this tag.
+- **Deranged** (अव्यवस्थित) drainage is messy and poorly organised on a **new glacial dump** (kame-and-kettle / recently ice-left ground) before a clear network develops.
+- Deranged ground, such as the **Canadian Shield**, has no single master river.
 
-| Pattern | Looks like | Control (why) |
-|---------|------------|---------------|
-| **Dendritic** | Tree branches | Homogeneous rock |
-| **Trellis** | Lattice / garden trellis | Folded hard–soft belts |
-| **Radial** | Spokes outward | Dome / volcano / Amarkantak |
-| **Centripetal** | Spokes inward | Closed basin |
-| **Rectangular** | Right-angle bends | Joints / faults |
-| **Parallel** | Side-by-side lines | Steep uniform slope |
-| **Annular** | Rings | Concentric weak beds |
-| **Deranged** | Chaotic / unfinished | New glacial dump |
+| Pattern | Looks like | Control (why) | River / ground |
+|---------|------------|---------------|----------------|
+| **Dendritic** | Tree branches | Homogeneous rock | **Ganga** and **Indus** plains; **Godavari**; **Mahanadi**; **Krishna**; **Kaveri** |
+| **Trellis** | Lattice / garden trellis | Folded hard–soft belts | **Singhbhum** (Chotanagpur) |
+| **Radial** | Spokes outward | Dome / volcano / highland | **Narmada** west and **Son** toward the Ganga from **Amarkantak**; Girnar; **Mahaweli** (Sri Lanka) |
+| **Centripetal** | Spokes inward | Closed basin | **Loktak** (Imphal basin); **Mendha** and **Rupangarh** into **Sambhar** |
+| **Rectangular** | Right-angle bends | Joints / faults | Jointed **Vindhyan** streams |
+| **Parallel** | Side-by-side lines | Steep uniform slope | **Sharavati** (Western Ghats) |
+| **Annular** | Rings | Concentric weak beds | **Black Hills** — no single Indian river |
+| **Deranged** | Chaotic / unfinished | New glacial dump | **Canadian Shield** — no master river |
 
 **Inline PYQ — UPPCS Prelims 2024, Q31**
 
@@ -1184,7 +1302,7 @@ D. Tiber
 
 **Logic:** Bird’s-foot vs arcuate is a classic swap.
 
-**Ans: C.** Mississippi is the classic bird’s-foot. Nile and Ganga–Brahmaputra are **arcuate**. Trap: do not mark Ganga as bird’s-foot.
+**Ans: C.** The Mississippi is the only bird’s-foot example. The Nile and the Ganga–Brahmaputra are arcuate.
 
 </details>
 
@@ -2733,9 +2851,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Both true; arcuate examples do not explain why Mississippi is bird’s-foot.
+**Ans: A.** Both statements are true. The Nile and the Ganga–Brahmaputra being arcuate does not explain why the Mississippi is bird’s-foot.
 
-**A/R logic:** Read moribund stems carefully (Bengal vs Cauvery frames).
+**A/R logic:** The Mississippi is the only bird’s-foot example. An arcuate fact about other rivers does not explain that shape.
 
 </details>
 
@@ -3007,10 +3125,32 @@ D. Sedimentary rocks form only in space
 
 </details>
 
+**Q31.** With reference to river deltas, which of the following statements is/are correct?
+
+1. The Danube delta lies in Hungary.
+2. The Volga delta lies on the Caspian Sea.
+3. The Irrawaddy delta lies in southern Myanmar.
+
+Select the correct answer from the code given below:
+
+A. Only 1
+B. 2 and 3
+C. 1 and 2
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Statements 2 and 3 are correct. The Danube delta meets the Black Sea in Romania and Ukraine.
+
+**Logic:** Hungary is on the Danube, but it is not the delta. The Volga ends on the Caspian, not the Black Sea. The Irrawaddy delta is Myanmar, not Thailand.
+
+</details>
+
 ## Common Traps — Don't Fall For These
 
-1. **Ganga delta = bird’s-foot** — FALSE. **Mississippi**. Ganga = **arcuate**.
-2. **Every moribund stem = Cauvery** — FALSE. **Subdivision** wording → **Bengal**; **lobe / river match** wording → often **Cauvery**.
+1. **Ganga delta = bird’s-foot** — FALSE. Bird’s-foot has **one** example: the **Mississippi**. Ganga = **arcuate**.
+2. **Every moribund stem = Cauvery** — FALSE. **Subdivision** wording → **Bengal**; **abandoned lobe** wording → **Cauvery**. Krishna–Godavari and Mahanadi fit neither.
 3. **Folds → dendritic** — FALSE. **Trellis**.
 4. **Imphal = loess / glacial** — FALSE. **Lacustrine**.
 5. **Marble from sandstone** — FALSE. **Limestone**. Quartzite = sandstone.
@@ -3018,19 +3158,25 @@ D. Sedimentary rocks form only in space
 7. **Barchan horns upwind** — FALSE. **Downwind**.
 8. **Stalactite on the floor** — FALSE. **Ceiling**.
 9. **U-valley = youthful river** — FALSE. **Glacier**. River youth = **V**.
-10. **Mekong delta = Cambodia** — FALSE. **Vietnam**.
+10. **Mekong delta = Cambodia** — FALSE. **Southern Vietnam**. The Red River delta is the **northern** Vietnam one.
 11. **West Indian rivers = big arcuate deltas** — FALSE. **Estuaries** (Narmada/Tapi).
-12. **Greater Himalaya full of marine fossils** — FALSE. That’s **Lesser**; Greater is fossil-poor crystalline.
-13. **Fjord = any estuary** — FALSE. **Drowned glacial trough**.
-14. **Basalt = intrusive granite twin** — FALSE. Basalt = **extrusive**.
-15. **Loess = river silt of Imphal** — FALSE. **Wind silt**; Imphal = lake plain.
-16. **Fault-valley = Chambal** — FALSE. **Damodar**.
-17. **Endogenic = only rivers** — FALSE. Endogenic = interior build (fold/fault/volcano).
-18. **Weathering always transports** — FALSE. Weathering is **in situ**.
-19. **Skip process framework because recent papers asked trellis/Damodar** — FALSE. Next year can ask any standard NCERT agent or pair.
-20. **Sill cuts the beds** — FALSE. **Dyke** cuts; sill is **parallel**.
-21. **Point bar on the concave bank** — FALSE. Concave **erodes**; convex **deposits**.
-22. **Ria = fjord** — FALSE. Ria = drowned **river**; fjord = drowned **glacier**.
-23. **Peneplain = King’s arid pediment** — FALSE. Peneplain = **Davis**; pediplain = **King**.
-24. **Marble is foliated** — FALSE. Marble/quartzite = **non-foliated**.
-25. **Intertrappean = sea fossils** — FALSE. **Freshwater / land** fossils.
+12. **Nile delta = Sudan / Ethiopia** — FALSE. **Northern Egypt**.
+13. **Indus delta = Indian west coast** — FALSE. **Sindh, Pakistan**.
+14. **Irrawaddy delta = Thailand** — FALSE. **Southern Myanmar**.
+15. **Danube delta = Hungary** — FALSE. **Black Sea** (Romania and Ukraine).
+16. **Volga delta = Black Sea** — FALSE. **Caspian Sea**.
+17. **Niger has one delta** — FALSE. Inland delta in **Mali**; sea delta in **Nigeria**.
+18. **Greater Himalaya full of marine fossils** — FALSE. That’s **Lesser**; Greater is fossil-poor crystalline.
+19. **Fjord = any estuary** — FALSE. **Drowned glacial trough**.
+20. **Basalt = intrusive granite twin** — FALSE. Basalt = **extrusive**.
+21. **Loess = river silt of Imphal** — FALSE. **Wind silt**; Imphal = lake plain.
+22. **Fault-valley = Chambal** — FALSE. **Damodar**.
+23. **Endogenic = only rivers** — FALSE. Endogenic = interior build (fold/fault/volcano).
+24. **Weathering always transports** — FALSE. Weathering is **in situ**.
+25. **Skip process framework because recent papers asked trellis/Damodar** — FALSE. Next year can ask any standard NCERT agent or pair.
+26. **Sill cuts the beds** — FALSE. **Dyke** cuts; sill is **parallel**.
+27. **Point bar on the concave bank** — FALSE. Concave **erodes**; convex **deposits**.
+28. **Ria = fjord** — FALSE. Ria = drowned **river**; fjord = drowned **glacier**.
+29. **Peneplain = King’s arid pediment** — FALSE. Peneplain = **Davis**; pediplain = **King**.
+30. **Marble is foliated** — FALSE. Marble/quartzite = **non-foliated**.
+31. **Intertrappean = sea fossils** — FALSE. **Freshwater / land** fossils.
