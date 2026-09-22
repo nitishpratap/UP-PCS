@@ -160,6 +160,7 @@ D. India
 | Golden Quadrilateral | Delhi–Mumbai–Chennai–Kolkata (~5846 km) |
 | NS / EW | Srinagar–Kanyakumari / Porbandar–Silchar |
 | Bharatmala vs Sagarmala | Highways vs **port-led** |
+| Bharatmala top constructed state (31 Oct 2024) | **Rajasthan** (~2,241 km) |
 | PMGSY | Rural all-weather (**2000**) |
 | Atal Tunnel | Under **Rohtang** (Pir Panjal; BRO) |
 | Gati Shakti | **13 Oct 2021**; NLP **Sep 2022** |
@@ -386,6 +387,7 @@ Roads are preferred for short and medium hauls because they are cheaper to build
 - The **India–Myanmar–Thailand Trilateral Highway** is a road link from India through Myanmar into Thailand. It ends at **Mae Sot** in Thailand, not Chiang Mai.
 - The **BCIM** corridor (Bangladesh–China–India–Myanmar) runs **Kunming to Kolkata**. It is not a Varanasi–Kunming highway.
 - **Bharatmala** is the umbrella **highway** programme. It is **not** a port scheme.
+- **Bharatmala Phase-I progress (MoRTH, as on 31 October 2024):** about **26,425 km** awarded and **18,714 km** constructed nationwide. Among states, **Rajasthan** had the **highest constructed length** (**2,241 km**), ahead of Uttar Pradesh and Maharashtra on that date.
 - An **expressway** is an **access-controlled** high-speed road, stricter than an ordinary national highway.
 
 **Atal Tunnel**

@@ -186,6 +186,20 @@ Laureus Awards were held in **Madrid**. Full winner card → [Awards](04_Awards.
 **Quick facts**
 
 - Sportsman: **Carlos Alcaraz**.
+
+### Wimbledon men’s singles 2026
+
+**What happened**
+**Jannik Sinner** (Italy) retained the Wimbledon men’s singles title in **July 2026**, beating **Alexander Zverev** in the final.
+
+**Core facts**
+
+- Winner: **Jannik Sinner** (second straight Wimbledon).
+- Finalist: **Alexander Zverev**.
+- **Carlos Alcaraz** missed the tournament with a wrist injury — do not mark him as the 2026 champion.
+
+!!! trap
+Laureus / other awards may still name Alcaraz. For **Wimbledon 2026 men’s singles**, the answer is **Sinner**.
 - Sportswoman: **Aryna Sabalenka**.
 - Team: **Paris Saint-Germain**.
 

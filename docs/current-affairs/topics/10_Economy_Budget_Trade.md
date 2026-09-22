@@ -1031,6 +1031,23 @@ Government official estimates confirmed that gross FDI inflows into India rose t
 - **SARTHAK-PDS Scheme Approved**: CCEA approved the technology-driven modernization scheme on **27 May 2026** with a central outlay of **₹25,530 crore**, aligned with the 16th Finance Commission cycle (up to 31 March 2031).
 - **Startup India Fund of Funds 2.0 (FoF 2.0)**: Notified on **13 April 2026** with a fresh corpus of **₹10,000 crore** to catalyze domestic venture capital for deep-tech and growth-stage startups.
 - **CBDC (Digital Rupee) in Public Distribution System**: RBI's Central Bank Digital Currency (CBDC) integrated into food subsidy distribution under PMGKAY via pilots launched in **Gujarat (15 February 2026)** and **Puducherry (26 February 2026)**.
+
+### RBI PRAVAAH portal
+
+**What it is**
+**PRAVAAH** = **Platform for Regulatory Application, Validation And AutHorisation** — RBI’s central web portal for regulatory authorisations, licences, and approvals.
+
+**Core facts**
+
+- Launched **28 May 2024**; from **1 May 2025**, regulated entities are told to use PRAVAAH for such applications.
+- Covers NBFC registration / Certificate of Registration workstreams and other RBI permissions.
+- Portal: `pravaah.rbi.org.in`.
+- Confused portals: **e-Kuber** (payments/settlement), **DAKSH** (RBI supervisory), **UDGAM** (unclaimed deposits) — not PRAVAAH.
+
+### BSNL Ratna classification
+
+- **BSNL** is classified as a **Miniratna Category-I** CPSE in standard DPE lists used for prelims.
+- Do not upgrade it to **Navratna** or **Maharatna** unless a fresh DPE order says so. Recent Navratna upgrades in coverage went to names such as **NHPC, SECI, RailTel, SJVN**, not BSNL.
 - **Kerala Declared 'Extreme Poverty-Free' State**: On **1 November 2025 (Kerala Piravi)**, CM Pinarayi Vijayan declared Kerala as India's **first state to eradicate extreme poverty**.
 - **India–MERCOSUR PTA Expansion**: Bilateral negotiations initiated on **16 October 2025** to expand the 2009 Preferential Trade Agreement from 450 tariff lines toward a comprehensive trade agreement targeting **$20 billion bilateral trade by 2030**.
 - **IPPB Wins Digital Payments Award 2024–25**: **India Post Payments Bank (IPPB)** clinched the **1st position among all Payments Banks in India** in the DFS Performance Index.

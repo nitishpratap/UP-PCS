@@ -14,6 +14,35 @@
 
 ---
 
+## High-Yield infrastructure / urban digital cards
+
+### Bharatmala constructed length leader | as on 31 October 2024
+
+**What happened**
+MoRTH reported Phase-I Bharatmala progress to Parliament / PIB: **26,425 km** awarded and **18,714 km** constructed.
+
+**Core facts**
+
+- Highest **constructed** length among states: **Rajasthan** (**2,241 km**).
+- Common distractors in stems: Uttar Pradesh and Maharashtra (also large, but not the top on that date).
+- Bharatmala = **highways**. Sagarmala = **port-led**. Do not swap.
+
+!!! trap
+“Largest NH length forever” ≠ this stem. The October **2024** Bharatmala **constructed** leader is **Rajasthan**.
+
+### National Urban Innovation Stack (NUIS) Digital Blueprint
+
+**What happened**
+**MoHUA** and the **National Institute of Urban Affairs (NIUA)** jointly developed the **NUIS Digital Blueprint** as a shared digital public good for urban governance.
+
+**Core facts**
+
+- Goal: interoperable, reusable digital building blocks for cities (APIs, registries, urban solutions).
+- NIUA’s **Centre for Digital Governance** anchors implementation.
+- Wrong options often say MeitY alone or NITI Aayog alone.
+
+---
+
 ## January 2026
 
 ### 77th Republic Day | 26 January 2026 | Kartavya Path

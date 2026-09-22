@@ -20,7 +20,20 @@ Tangible Cultural Heritage | Intangible Cultural Heritage | UNESCO World Heritag
 - **Sarnath** (सारनाथ) was inscribed in **July 2026** as India’s **45th** property and Uttar Pradesh (उत्तर प्रदेश)’s **fourth**.
 - **Deepavali** (दीपावली) entered UNESCO ICH on **10 December 2025** as India’s **16th** element, at 20.COM at the Red Fort (लाल किला), Delhi.
 
----.
+---
+
+## Culture origin theories (quick pair)
+
+Two standard explanations of how culture develops appear in multi-statement stems:
+
+| Theory | Core claim |
+|--------|------------|
+| **Idealistic Theory** | Culture grows from **divine inspiration**, intuition, or higher ideas perceived by individuals or groups. |
+| **Materialistic Theory** | **Physical environment**, climate, and **means of production** shape culture first. |
+
+- Vedic culture is **not** only a religious product. Material conditions (pastoral–agrarian life, geography, technology) also shaped it. A statement that Vedic culture developed *only* from religious beliefs is **false**.
+
+---
 
 
 ### UKPCS Prelims 2025

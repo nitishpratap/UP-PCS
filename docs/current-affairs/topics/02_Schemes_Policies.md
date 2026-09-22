@@ -29,6 +29,33 @@
 | **Mission Digital Shram Setu** | **October 2025** <br> (NITI Aayog) | — | National AI roadmap under *"AI for Inclusive Societal Development"* for India's **490 million informal workers**. |
 | **'We RISE' Initiative** | **17 October 2025** <br> (NITI Aayog WEP + DP World) | — | Women Entrepreneurs Reimagining Inclusive and Sustainable Enterprises; accelerating MSME market access. |
 | **Model Youth Gram Sabha (MYGS)** | **October 2025** <br> (MoPR / NEP 2020) | — | Hands-on democratic governance and procedural training for students based on constitutional Gram Sabhas under **Article 243**. |
+| **Kisan Rin Portal (KRP)** | **September 2023** <br> (MoA&FW / MISS–KCC) | Digitised IS + PRI claims | Before KRP, banks submitted **Interest Subvention (IS)** and **Prompt Repayment Incentive (PRI)** claims **manually to RBI and NABARD**. KRP digitises claims for Kisan Credit Card interest support. |
+| **National Urban Innovation Stack (NUIS)** | MoHUA + **NIUA** Digital Blueprint | Shared urban digital public good | Stack approach for interoperable urban e-governance. Digital Blueprint jointly developed by **Ministry of Housing and Urban Affairs** and **National Institute of Urban Affairs (NIUA)**. Trap: not MeitY-only / not NITI Aayog alone. |
+| **Nyaya Setu AI Chatbot** | **Department of Justice** under **DISHA** | Voice-first legal assistant | Multimodal, multilingual AI legal help for citizens (voice/text; many Indian languages). Mascot **Dishika**. Multilingual stack linked with **BHASHINI** (ASR / Shrutlekh-type tools). Trap: “Anuvaadini” as the only translation name is weak — official coverage stresses **BHASHINI**. |
+| **PRAVAAH (RBI)** | Launched **28 May 2024**; mandatory path stressed from **1 May 2025** | Regulatory approvals portal | Full form: **Platform for Regulatory Application, Validation And AutHorisation**. Used for RBI authorisations / licences / approvals, including **NBFC** CoR and related requests; also surrender/processing of certificates in that workflow. Trap: not e-Kuber, DAKSH, or UDGAM. |
+| **Samagra Shiksha** | MoE; SSA + RMSA + Teacher Education | School education umbrella | Merged **Sarva Shiksha Abhiyan**, **Rashtriya Madhyamik Shiksha Abhiyan**, and **Teacher Education**. **Mid-Day Meal / PM POSHAN** is **not** a Samagra component — it stays a separate nutrition scheme. |
+
+---
+
+### Nyaya Setu AI Chatbot | launched 29 March 2026 | DISHA / Department of Justice
+
+**What happened**
+Vice-President **C. P. Radhakrishnan** unveiled **Nyaya Setu**, a voice-first AI legal assistant, at a **DISHA** programme of the **Department of Justice** (Vigyan Bhawan), with mascot **Dishika**.
+
+**Core facts**
+
+- It is a **voice-first, multimodal, multilingual** AI legal assistant for rights, processes, and next steps.
+- Parent scheme: **DISHA** (**Designing Innovative Solutions for Holistic Access to Justice**) under the **Department of Justice**.
+- Built / powered with **Digital India BHASHINI** voice stack (ASR, multilingual NLP); programme coverage also used **Shrutlekh** for live transcription / translation.
+- Do **not** key **Anuvaadini** as the official multilingual engine for Nyaya Setu when the stem forces a BHASHINI vs Anuvaadini choice.
+
+!!! trap
+Statements I–II true, III false when III names only **Anuvaadini**. Correct multi-statement key is usually **I and II only**.
+
+### Samagra Shiksha — what merged / what did not
+
+- Samagra Shiksha merges **SSA + RMSA + Teacher Education**.
+- **Mid-Day Meal Scheme (now PM POSHAN)** is **not** merged into Samagra.
 
 ---
 
@@ -43,6 +70,7 @@
 | **PM Jan Dhan Yojana (PMJDY)** | Ministry of Finance (DFS) | **55.02 crore accounts** (March 2025); **36.63 crore** in rural/semi-urban areas | Basic savings bank accounts, RuPay debit cards with ₹2 lakh accident cover, ₹10,000 overdraft facility. |
 | **e-Shram Portal** | Ministry of Labour & Employment | **>31 crore unorganised workers registered** (**54% women**) | National database of unorganised workers seeded with Aadhaar for targeted social security deliverability. |
 | **National Career Service (NCS)** | Ministry of Labour & Employment | Mobilised **~80 million (8 crore) vacancies** | One-stop digital platform matching jobseekers and employers, integrated with DigiLocker and e-Shram. |
+| **Kisan Rin Portal (KRP)** | MoA&FW (MISS–KCC) | Claims processed **₹1.08+ lakh crore** by 31 Dec 2024; ~**5.9 crore** farmers mapped | Digitises Interest Subvention + Prompt Repayment Incentive claims. **Before KRP**, banks filed these claims **manually with RBI and NABARD**. |
 
 ---
 

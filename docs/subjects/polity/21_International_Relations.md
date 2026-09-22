@@ -314,6 +314,9 @@ Cold-War alliances + 21st-century minilaterals. **SCO / QUAD** as clubs have the
 | Exhibit | UN Charter Chapter **VII** | NATO **Art. 5** (also CSTO, ANZUS) |
 | India | UN peacekeeping / Chapter VII mandates | **Not** in Art. 5 clubs |
 
+- UN peacekeeping is mandated by the **Security Council** (not the General Assembly alone).
+- India deployed the **first all-women Formed Police Unit** to **Liberia (UNMIL, January 2007)**.
+
 > **Logic:** AUKUS = **AUS–UK–US**. Quad **includes India**. NATO Art. 5 does **not** bind India.
 
 ---
@@ -387,6 +390,10 @@ UNSC **veto / P5 / India’s 8 elected terms** = already above. Here = the **UN 
 
 ### ECOSOC
 **54 members, 3-year terms** — New York. Coordinates specialised agencies.
+- Members are elected by the **UN General Assembly** on the basis of **regional representation** (Africa, Asia-Pacific, Eastern Europe, Latin America & Caribbean, Western Europe and others).
+- ECOSOC is a **principal organ** of the UN. It is **not** a subsidiary organ of the Security Council.
+- **India** was elected under the **Asia-Pacific** group for the term **2026–28** (term begins **1 January 2026**; India secured **181** of **187** valid votes in the June 2025 GA election).
+- Former diplomat **Preeti Saran** was **re-elected** to the UN **Committee on Economic, Social and Cultural Rights (CESCR)** (fresh term commonly cited as **2027–2030**; she has also chaired CESCR). Do not swap her with Ruchira Kamboj / Eenam Gambhir / Sneha Dubey in CESCR stems.
 
 ### ICJ
 **UN principal judicial organ** — **The Hague**. Own card below.
@@ -1326,6 +1333,31 @@ of both conventions UNCAC and UNTOC. Hence option 4
 is correct. So, the correct answer is option C..
 
 </details>
+
+### UNTOC, UNCAC and Spotlight — quick match
+
+| Instrument | Must-score fact |
+|------------|-----------------|
+| **UNTOC** | Also called the **Palermo Convention** (opened for signature at Palermo, Dec **2000**). Main treaty against **transnational organised crime**. |
+| **UNCAC** | The **only legally binding universal anti-corruption** instrument. Asset recovery is a UNCAC highlight. |
+| **UN Spotlight Initiative** | Joint **UN–EU** programme to end violence against women and girls. It is **not** an IMF programme. |
+
+> **Logic:** Palermo = UNTOC. Only universal anti-corruption treaty = UNCAC. Spotlight ≠ IMF.
+
+### India–Middle East–Europe Economic Corridor (IMEC)
+
+**What it is:** A multimodal connectivity plan announced at the **G20 New Delhi Summit (September 2023)** to link **India–Gulf–Europe**.
+
+**Core facts**
+
+- It has an **eastern** corridor (India to the Arabian Gulf, mainly **maritime**) and a **northern** corridor (Gulf to Europe, mainly **rail** plus Mediterranean sea legs).
+- Founding MoU participants include **India, USA, UAE, Saudi Arabia, EU, France, Germany and Italy**. **China is not a founding participant.**
+- Along the rail spine, partners also speak of **electricity cables**, **digital connectivity**, and **clean hydrogen** pipelines.
+
+### All-women Formed Police Unit (Liberia)
+
+- India deployed the **first all-women Formed Police Unit (FPU)** in UN peacekeeping history to **Liberia (UNMIL)** in **January 2007** (CRPF Mahila contingent; about **125** personnel).
+- UN peacekeeping operations are mandated by the **UN Security Council**, **not** by the General Assembly alone.
 
 **Q22. Ghatnachakra (source Q31)**
 

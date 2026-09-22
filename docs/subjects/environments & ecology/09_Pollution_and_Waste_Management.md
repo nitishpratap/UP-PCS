@@ -43,12 +43,12 @@ Environmental Pollution (पर्यावरणीय प्रदूषण) |
 18. **Damodar** (दामोदर) is classically called a **biological desert** from mining/industry pollution. Ganga (गंगा) BOD often highest **Kanpur (कानपुर)–Allahabad (इलाहाबाद)** stretch.
 19. Arsenic groundwater hotspots: Ganga–Brahmaputra (ब्रह्मपुत्र) / Bangladesh Padma (पद्मा)–Meghna; Indian states include WB, Bihar, UP, Jharkhand, Assam, Manipur, Chhattisgarh.
 20. About **80%** of marine pollution comes from **land**. Ocean acidification (महासागरीय अम्लीकरण) from CO₂ harms calcareous plankton and corals. **IMO** HQ = **London**.
-21. Noise is measured in **decibels**. **Green muffler** = roadside tree belts for noise (and dust). Jet take-off/landing is among the loudest common sources.
+21. Noise is measured in **decibels**. Under **Noise Pollution (Regulation and Control) Rules, 2000**, a person may complain when noise exceeds the ambient standard by **10 dB(A) or more**. A **10 dB** rise also means **10×** intensity on the logarithmic scale. **Green muffler** = roadside tree belts for noise (and dust).
 22. Plastic: **PWM Rules 2016**, SUP ban push **2022**, microplastics **<5 mm**; **microbeads** harm marine ecosystems. Polythene = ethylene polymer, non-biodegradable.
 23. **Bioremediation** uses microbes to clean pollution; **cannot** readily/completely treat **Cd/Pb** heavy metals. **Oilzapper** (TERI) is for oily sludge/spills. Genetic engineering can create specialised strains (e.g. *Pseudomonas putida*).
 24. Waste rules cluster in **2016**: SWM, BMW, Hazardous Waste, and Plastic Waste. **E-waste Rules** updated in **2022**. **EPR** first featured strongly in plastic/e-waste rules **2011+**.
 25. **3R** priority is **Reduce > Reuse > Recycle**. **Swachh Bharat** began in **2014**. NAQI launched **17 Oct 2014**.
-26. BMW colour codes: **Yellow** incineration; **Red** disinfect and recycle; **White** sharps; **Blue** glass/metal.
+26. BMW colour codes: **Yellow** incineration; **Red** contaminated recyclables (IV tubes/sets, catheters, urine bags, syringes **without** needles) for disinfection then recycle; **White** sharps (needles); **Blue** glass vials / metal.
 27. **Euro / BS** emission norms limit CO, HC, NOx, PM. Euro-II ultra-low sulphur diesel ≈ **≤0.05% S**. India skipped BS-V to **BS-VI (1 Apr 2020)**.
 28. Catalytic converters use **Pt / Pd / Rh** to convert CO → CO₂, NOx → N₂, HC → CO₂ + H₂O.
 29. UP air NCAP cities include Lucknow (लखनऊ), Kanpur, Ghaziabad, Agra, Varanasi (वाराणसी), Meerut (मेरठ), Noida, Prayagraj (प्रयागराज), Moradabad, and Bareilly.
@@ -299,6 +299,7 @@ D. Only 1
 - **CPCB residential limits** are **55 dB (day)** and **45 dB (night)**.
 - **Silence zones** near hospitals and schools allow **50 dB (day)** and **40 dB (night)**.
 - **Industrial zones** allow **75 dB (day)** and **70 dB (night)**.
+- Under **Noise Pollution (Regulation and Control) Rules, 2000**, a complaint may be made when noise exceeds the prescribed ambient standard by **10 dB(A) or more** (Rule 7). Do not key 5 / 8 / 9 dB.
 - Prolonged exposure above **85 dB** can cause permanent **Noise-Induced Hearing Loss (NIHL)**.
 - Rough dB anchors: rustling leaves **~20 dB**, normal talk **~60 dB**, truck **~80–85 dB**, jet engine **~120 dB**, jet landing **~150 dB**, rocket **~180 dB**.
 - Noise from aircraft faster than sound is a **sonic boom** (Mach scale: Mach-1 = speed of sound).
@@ -306,7 +307,7 @@ D. Only 1
 - **Moradabad (UP)** ranked among the world's most noise-polluted cities in UNEP's Frontier Report 2022.
 - **Noise Pollution (Regulation and Control) Rules, 2000** operate under **EPA 1986**. Jet flights are among the most intense common noise sources.
 
-> **Logic:** **45 dB** is residential **night**, not silence zone night (**40 dB**). Green muffler = noise control, not soil.
+> **Logic:** Complaint threshold = **+10 dB(A)** above ambient, not 5/8/9. **45 dB** is residential **night**, not silence zone night (**40 dB**). Green muffler = noise control, not soil.
 
 ---
 
@@ -431,20 +432,20 @@ D. −4°C temperature drop
 - **Biomedical waste (BMW)** comes from hospitals, clinics, labs, and veterinary institutions.
 - **BMW Rules 2016** replaced the 1998 rules and require separate collection from municipal waste.
 - **Yellow bags** hold anatomical waste, soiled dressings, and expired medicines for **incineration or autoclaving**.
-- **Red bags** hold contaminated disposables such as gloves and tubing for **disinfection then recycling**.
-- **White translucent containers** hold **sharps** such as needles and scalpels.
-- **Blue bags** hold glassware and metallic implants after disinfection.
+- **Red bags** hold contaminated recyclable disposables for **disinfection then recycling**. Classic Red list items include **IV tubes and sets**, **catheters**, **urine bags**, and **syringes without needles**.
+- **White translucent containers** hold **sharps** such as **needles** from used syringes and scalpels.
+- **Blue bags** hold **glassware** (including contaminated glass vials) and metallic implants after disinfection.
 - **CBWTF (Common Biomedical Waste Treatment Facility)** serves clusters of healthcare units.
 - Untreated BMW must not be stored beyond **48 hours**.
 
-> **Logic:** Sharps = white**, not yellow. Yellow = anatomical/infectious soiled waste.
+> **Logic:** Sharps = **white**, not yellow. Needles are **not** Red. Contaminated glass vials are **Blue**, not Red. Yellow = anatomical/infectious soiled waste.
 
 | Colour | Waste type | Treatment |
 |--------|------------|-----------|
 | Yellow | Anatomical, soiled, medicines | Incineration/autoclave |
-| Red | Contaminated disposables | Disinfection → recycle |
-| White | Sharps | Autoclave → disposal |
-| Blue | Glass, metal | Disinfection → recycle |
+| Red | Contaminated recyclables (IV tubes, catheters, urine bags, syringes without needles) | Disinfection → recycle |
+| White | Sharps (needles) | Autoclave → disposal |
+| Blue | Glass vials, metal | Disinfection → recycle |
 
 ---
 

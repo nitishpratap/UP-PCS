@@ -33,6 +33,65 @@
 | **Axiom Mission 4 (Ax-4) Pilot** | **Lucknow** | Group Captain **Shubhanshu Shukla** (born in **Lucknow**) served as Pilot of SpaceX Crew Dragon 'Grace' to the ISS; **1st Indian astronaut on the ISS**, 2nd Indian in orbit after Rakesh Sharma (1984). |
 | **Supercomputer 'Arunika' (Global Rank #251)** | **NCMRWF, Noida (Gautam Buddha Nagar)** | NCMRWF's high-performance weather forecasting supercomputer ranked **#251 globally** in the TOP 500 Supercomputers list (Nov 2025, 5.94 PFlop/s Rmax); 3rd fastest supercomputer in India. |
 
+### Jal Pakhwada in UP schools | 16–30 April 2026
+
+**What happened**
+Uttar Pradesh ran a **Jal Pakhwada** (water fortnight) in **all schools and educational institutions** under the **Jal Shakti Abhiyan: Catch the Rain** push.
+
+**Core facts**
+
+- Dates: **16 April to 30 April 2026**.
+- Aim: make water conservation a student-led mass movement (daily water pledge, clean drinking-water sources, competitions, rallies).
+- Schools report activities online; coordination with Jal Nigam, Panchayati Raj, Basic Education, and Health.
+
+!!! trap
+Do not pick Mission Amrit Sarovar, Atal Bhujal, or Namami Gange when the stem is the **April 2026 school water fortnight**. The name is **Jal Pakhwada**.
+
+### Nand Baba Milk Mission — scheme family
+
+**What it is**
+UP’s dairy push (about **₹1,000 crore** framing) to expand milk cooperatives and indigenous cattle units.
+
+**Schemes under the Mission (remember these three)**
+
+1. **Mukhyamantri Swadeshi Gau-Samvardhan Yojana**
+2. **Mukhyamantri Pragatisheel Pashupalak Protsahan Yojana**
+3. **Nandini Krishak Samriddhi Yojana** (plus Mini Nandini)
+
+!!! trap
+**Kamdhenu Dairy Yojana** is **not** listed as a current Nand Baba Mission component in the official scheme set. Older Kamdhenu beneficiaries are often **ineligible** for the new Nandini units.
+
+### Chuka Beach | Pilibhit Tiger Reserve
+
+**What happened / what it is**
+**Chuka Beach** is an eco-tourism riverside beach on the **Sharda / Sharda Sagar** side inside **Pilibhit Tiger Reserve** (not Dudhwa).
+
+**Core facts**
+
+- District: **Pilibhit**, Terai UP.
+- Stay options: Tharu / bamboo / tree huts; visit usually via reserve safari booking.
+- Trap: stems often park Chuka under **Dudhwa**. Correct reserve = **Pilibhit**.
+
+### MV Ganga Vilas | flagged off 13 January 2023 | Varanasi
+
+**What happened**
+PM Modi flagged off **MV Ganga Vilas**, billed as the world’s longest river cruise, from **Varanasi**.
+
+**Core facts**
+
+- Route memory: **Varanasi → Dibrugarh (Assam)** via Bangladesh; about **3,200 km** / **~51 days**; ~**27** river systems.
+- Vessel: three decks, **18** suites, capacity about **36** tourists; Make-in-India cruise.
+
+### Karikot village | Bahraich | ICRT Award 2025
+
+**What happened**
+**Karikot** (Bahraich, UP) received the **International Subcontinent Responsible Tourism (ICRT) Award 2025**.
+
+**Core facts**
+
+- Category to remember: **Climate Adaptation and Resilience** (not waste / local sourcing / peace-inclusion distractors).
+- District: **Bahraich**.
+
 ---
 
 ## January 2026

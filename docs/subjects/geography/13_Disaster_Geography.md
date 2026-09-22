@@ -33,7 +33,7 @@ Cyclone **formation** (SST ~27°C, Coriolis, low shear) and IMD wind ladder are 
 ---
 
 
-## Consolidated — 30 Must-Score Facts
+## Consolidated — 31 Must-Score Facts
 
 1. Coaching risk fact: **Risk ≈ Hazard × Vulnerability / Capacity**. A disaster happens when a hazard hits exposed people or assets and capacity is too weak.
 2. The disaster-management cycle runs **mitigation → preparedness → response → recovery**. Mitigation is before impact; response is during and just after.
@@ -53,7 +53,7 @@ Cyclone **formation** (SST ~27°C, Coriolis, low shear) and IMD wind ladder are 
 16. 2019 storm–place pairs: Dorian–Bahamas, Hagibis–Japan, Lekima–China, Mitag–Korea, with Indian Ocean names like Amphan, Fani and Tauktae also in the news map.
 17. **NDMA** is chaired by the **Prime Minister**. **SDMA** is chaired by the **Chief Minister**. **DDMA** is chaired by the District Magistrate / Collector.
 18. Framework years: **DM Act 2005**, **NPDM 2009**, **NDRF 2006** (MHA), **NDMP 2016**, **Sendai Framework 2015–2030** (after Hyogo 2005–15), **CDRI 2019**. International Day for Disaster Risk Reduction is **13 October**.
-19. NEC pair = Union Home Secretary. **NIDM** handles training from Delhi. India is **not** a disaster-free country.
+19. NEC pair = Union Home Secretary. **NIDM** handles training from Delhi. Its ancestor **NCDM** was set up in **1995** under **IIPA** (not ICSSR / NDMA). India is **not** a disaster-free country.
 20. India’s multi-hazard note: ~**59%** quake-prone, ~**12%** flood-prone, ~**5,700 km** cyclone/tsunami coast, ~**68%** of cultivable area drought-vulnerable.
 21. **Mangroves** cut cyclone and surge impact. **Bhopal 1984** is the classic man-made industrial / chemical disaster.
 22. **DPAP** began in **1973–74**. The earlier Community Development Programme pair is **1952**.
@@ -67,6 +67,7 @@ Cyclone **formation** (SST ~27°C, Coriolis, low shear) and IMD wind ladder are 
 28. Hazard classes include geophysical (quake, volcano, tsunami), hydrological (flood), meteorological (cyclone, heat/cold wave), climatological (drought) and technological / industrial (Bhopal-type).
 29. Landslide triggers include steep slopes, heavy rain, earthquakes, deforestation and toe-cutting of slopes. Avalanche risk sits mainly in high Himalayan snow belts.
 30. Early-warning chain: IMD (weather / cyclone / heat), INCOIS (tsunami / ocean), CWC (floods), GSI / NDMA guidance for landslides — do not dump every warning on one agency.
+31. **Sendai Framework** has **seven** global targets and **four** priorities for action (not six targets / three priorities). Priority 4 includes **Build Back Better** in recovery. It was adopted at the **Third** UN World Conference on DRR (Sendai, Japan).
 
 ---
 
@@ -711,7 +712,7 @@ India has shifted from a **relief-only** habit to **prevention, mitigation and S
 - **DDMA** — district apex; **District Magistrate / Collector** chairs (elected district head often co-chairs).
 - **NEC** (National Executive Committee) — **Union Home Secretary** coordinates implementation.
 - **NDRF** — specialised response force under **MHA**, raised **2006** (began with 8 battalions; later expanded to **16**).
-- **NIDM** — training and research from **New Delhi** (earlier NCDM lineage).
+- **NIDM** — training and research from **New Delhi**. It grew out of the **National Centre for Disaster Management (NCDM)**, established in **1995** under the **Indian Institute of Public Administration (IIPA)** — not under ICSSR, and not as an NDMA body from day one.
 
 ### Cycle (teach the order)
 
@@ -723,6 +724,8 @@ India has shifted from a **relief-only** habit to **prevention, mitigation and S
 ### International and CA pairs
 
 - The **Sendai Framework (2015–2030)**, agreed at Sendai in Japan, follows the **Hyogo Framework (2005–2015)**. The earlier **Yokohama Strategy** dates to **1994**.
+- It was adopted at the **Third UN World Conference on Disaster Risk Reduction**.
+- Sendai sets **seven** global targets and **four** priorities for action. Do not accept “six targets and three priorities.”
 - Sendai’s first priority is to **understand disaster risk**.
 - The second is to **strengthen disaster risk governance**.
 - The third is to **invest in disaster risk reduction** for resilience.
@@ -757,10 +760,10 @@ D. The Health and Family Welfare Minister
 | **DDMA** | District Magistrate chairs (elected head co-chairs) |
 | **NEC** | National Executive Committee — **Union Home Secretary** |
 | **NDRF** | **2006**, specialised response under **MHA**; started at 8 Bn and later rose to **16 Bn** |
-| **NIDM** | Training / research in **New Delhi** (from NCDM 1995 to NIDM) |
+| **NIDM** | Training / research in **New Delhi**; grew from **NCDM (1995, under IIPA)** |
 | Nodal ministry | **MHA** (Disaster Management Division) |
 | **NDMP** | **1 Jun 2016** (revised 2019) — aligned to Sendai |
-| **Sendai** | **2015–2030**, Sendai (Japan), after **Hyogo 2005–2015** and Yokohama 1994 |
+| **Sendai** | **2015–2030**, Sendai (Japan), after **Hyogo 2005–2015** and Yokohama 1994; **7** global targets + **4** priorities; “Build Back Better” in Priority 4 |
 | **NPDM** | National Policy on Disaster Management — **2009** |
 | **CDRI** | Coalition for Disaster Resilient Infrastructure — India, **2019** |
 | IDDR | International Day for DRR — **13 October** |

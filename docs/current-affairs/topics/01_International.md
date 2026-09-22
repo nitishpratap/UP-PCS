@@ -50,6 +50,50 @@ Before you finish reading any international news, answer these in simple words:
 
 ---
 
+### 3A. India–Middle East–Europe Economic Corridor (IMEC) | MoU at G20 New Delhi, September 2023
+
+**What happened**
+Partners signed an MoU to build **IMEC**, a multimodal corridor linking **India, the Arabian Gulf, and Europe**.
+
+**Core facts**
+
+- **East corridor:** India ↔ Arabian Gulf (mainly **maritime**).
+- **Northern corridor:** Gulf ↔ Europe (mainly **rail**, then Mediterranean sea legs).
+- Founding participants include **India, USA, UAE, Saudi Arabia, EU, France, Germany, Italy**. **China is not a founding participant.**
+- Also envisaged: power cables, digital links, and clean hydrogen pipes along the route.
+
+!!! trap
+Do not put China in the founding MoU list. IMEC is often contrasted with China’s Belt and Road Initiative, but China is not a founder.
+
+### 3B. India elected to ECOSOC | June 2025 | term 2026–28
+
+**What happened**
+The UN General Assembly elected **India** to the **Economic and Social Council (ECOSOC)** for **2026–28**.
+
+**Core facts**
+
+- Election is by **regional groups**. India won under the **Asia-Pacific** group (**181 / 187** valid votes).
+- Term begins **1 January 2026**.
+- ECOSOC has **54** members elected for **three-year** terms.
+- ECOSOC is a **principal organ** of the UN. It is **not** a subsidiary body of the Security Council.
+
+### Preeti Saran re-elected to CESCR | April 2026 news window
+
+**What happened**
+Former Indian diplomat **Preeti Saran** was **re-elected** to the UN **Committee on Economic, Social and Cultural Rights (CESCR)**.
+
+**Core facts**
+
+- CESCR monitors the **International Covenant on Economic, Social and Cultural Rights**.
+- Members serve in a **personal capacity** (expert body), not as country delegates in the usual diplomatic sense.
+- She has also served as **Chair** of CESCR (first Indian in that chair in recent coverage).
+- Term cited in 2026 election coverage: **2027–2030**.
+
+!!! trap
+CESCR ≠ ECOSOC membership itself. Name trap: **Preeti Saran**, not Ruchira Kamboj.
+
+---
+
 ### 4. 50th G7 Summit (June 2024 | Apulia / Fasano, Italy)
 - **Host:** Borgo Egnazia, Fasano, Apulia (Italy); chaired by Italian PM Giorgia Meloni.
 - **India's Participation:** PM Narendra Modi attended as an **Invited Outreach Nation** (his first foreign visit after taking oath for his third term).

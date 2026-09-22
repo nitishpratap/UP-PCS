@@ -15,6 +15,26 @@
 
 ---
 
+## High-Yield 2025 carry cards (glacier / climate)
+
+### Yala Glacier tribute | 12 May 2025 | Langtang, Nepal
+
+**What happened**
+Locals, Buddhist monks, and Himalayan glaciologists held a high-altitude tribute for **Yala Glacier** in **Langtang Valley, Nepal**. News desks often call it a glacier declared **‘dead’** or joining the world’s “dead glacier” list because of rapid melt.
+
+**Core facts**
+
+- Location: **Langtang**, northern Nepal (about **5,170–5,750 m**).
+- Monitored by **ICIMOD** as one of the best-studied glaciers in the Hindu Kush Himalaya.
+- Since the **1970s**, Yala has **shrunk by about 66%** and **retreated about 784 m**.
+- Scientists warn it may disappear around the **2040s** if warming continues; the May **2025** event marked its critically endangered / “dead glacier” status in public messaging.
+- Linked to the UN **International Year of Glaciers’ Preservation 2025**.
+
+!!! trap
+Do not pick Khumbu or Imja when the stem says the Nepal glacier marked ‘dead’ / tribute in **May 2025**. The name is **Yala**.
+
+---
+
 ## January 2026
 
 ### New Ramsar sites in the news | late January 2026

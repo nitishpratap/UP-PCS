@@ -133,7 +133,7 @@ A festival is a recurring community celebration. It may mark season, harvest, fa
 Learn one flagship festival per state. Wrong-pair questions often swap neighbouring states.
 
 - **Andhra Pradesh**: Celebrates **Ugadi** (the Telugu New Year) as its premier state festival.
-- **Arunachal Pradesh**: Marks the Buddhist New Year with **Losar**, alongside celebrated tribal festivals including **Solung** (Adi tribe) and **Nyokum** (Nyishi tribe).
+- **Arunachal Pradesh**: Marks the Buddhist New Year with **Losar** and the Theravada Buddhist water festival **Sangken** (community New Year among Tai groups such as Khamti). Celebrated tribal festivals include **Solung** and **Mopin** (both **Adi** agricultural festivals) and **Nyokum** (Nyishi tribe).
 - **Assam**: Anchors its cultural calendar around the three **Bihu** harvest festivals (Rongali, Kongali, Bhogali); the sacred **Ambubachi Mela** is observed annually at the Kamakhya Temple in Guwahati.
 - **Bihar**: Celebrates **Chhath Puja** (dedicated to the Sun God) as its paramount cultural festival and hosts the historic **Sonepur Cattle Fair** (Asia's largest animal fair at Harihar Kshetra).
 - **Chhattisgarh**: Renowned for the unique 75-day-long **Bastar Dussehra**, honoring the local patron deity Goddess Danteshwari.
@@ -207,6 +207,8 @@ Tribal festivals are Adivasi ritual. They centre on a sacred grove, a tree, or a
 - **Tusu Parab** is the Jharkhand / West Bengal tribal harvest.
 - **Nyokum** is of Arunachal. It is Nyishi.
 - **Solung** is of Arunachal. It is the Adi agricultural festival.
+- **Mopin** is also of Arunachal. It is an **Adi** agricultural festival meant to drive away evil spirits and seek prosperity. It is **not** a Garo festival (Garo harvest = **Wangala** in Meghalaya).
+- **Sangken** is of Arunachal. It is a Buddhist New Year / water-sprinkling festival. Do not swap it with Losar alone.
 
 > **Logic:** Sarhul = Jharkhand. Bastar Dussehra = Chhattisgarh**, 75 days, not standard Dussehra.
 

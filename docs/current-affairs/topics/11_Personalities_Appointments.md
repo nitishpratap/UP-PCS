@@ -24,6 +24,34 @@
 | **26th Chief Election Commissioner of India** | **Gyanesh Kumar** | Elected **Chair of the Council of Member States of International IDEA** for 2026 in Stockholm, Sweden. |
 | **India's BRICS Sherpa** | **Sudhakar Dalela** | Led the 1st BRICS Sherpas and Sous-Sherpas meeting under India's 2026 Chairship. |
 
+### Preeti Saran — CESCR re-election | 2026
+
+**What happened**
+Former Indian diplomat **Preeti Saran** was **re-elected** to the UN **Committee on Economic, Social and Cultural Rights (CESCR)**.
+
+**Core facts**
+
+- Body: **CESCR** (ICESCR monitoring committee), not ECOSOC membership itself.
+- She has also served as **Chair** of CESCR.
+- Name traps in options: **Ruchira Kamboj**, **Eenam Gambhir**, **Sneha Dubey**.
+
+!!! trap
+CESCR ≠ ECOSOC. For the 2026 CESCR re-election stem, the name is **Preeti Saran**.
+
+### NYC proclaims Dr B. R. Ambedkar Day | 14 April 2025
+
+**What happened**
+New York City Mayor **Eric Adams** proclaimed **14 April 2025** as **Dr B. R. Ambedkar Day** in New York City. The proclamation was announced at a UN Headquarters commemorative event.
+
+**Core facts**
+
+- Date linked to Ambedkar’s birth anniversary (**14 April**).
+- Mayor name in stems: **Eric Adams** (not Bill de Blasio; not London’s Sadiq Khan).
+- Announced by NYC Mayor’s Office for International Affairs (Deputy Commissioner Dilip Chauhan) in the presence of MoS **Ramdas Athawale**.
+
+!!! trap
+Swap mayor names. The 2025 NYC proclamation belongs to **Eric Adams**.
+
 ---
 
 ## Global Leadership Transitions & Key International Appointments (2025–2026)
