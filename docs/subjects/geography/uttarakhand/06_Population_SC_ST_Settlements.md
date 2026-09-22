@@ -26,18 +26,46 @@
 
 ---
 
-## Must-Score Facts (High-Yield UKPCS)
+## Consolidated — 26 Must-Score Facts
 
-1. **Sex Ratio Descending Trap (UKPCS 2025 Q111):**  
-   $$\text{Almora (1142)} \longrightarrow \text{Rudraprayag (1114)} \longrightarrow \text{Tehri (टिहरी) Garhwal (1077)} \longrightarrow \text{Haridwar (880)}$$  
-   *(7 hill districts have sex ratio > 1000 due to heavy male out-migration; plains districts Haridwar 880 and Dehradun 889 have lowest).*
-2. **Negative Decadal Growth (Ghost Villages):** Uttarakhand has two hill districts that registered an absolute (निरपेक्ष) population contraction between 2001 and 2011: **Pauri Garhwal (-1.41%)** and **Almora (-1.28%)**.
-3. **Density Contrast:** **Haridwar (801)** has 20 times the population density of **Uttarkashi (41)**.
-4. **Literacy Extremes:**
-   - Overall Literacy: **Dehradun** highest (84.25%); **US Nagar** lowest (73.10%).
-   - Male Literacy: **Rudraprayag** highest in India/state (93.90%).
-   - Female Literacy: **Uttarkashi** is the only district with female literacy under 60% (59.74%).
-5. **Vanrawat / Raji Lifestyle (UKPCS 2025 Q113):** Forest-dwelling primitive tribal (आदिवासी) group concentrated in **Pithoragarh**; historically sustained by **shifting cultivation** (*Jhuming*) until restricted by state forest laws.
+1. Census 2011 total population of Uttarakhand is **1,00,86,292** (~1.01 crore).
+2. Highest population district = **Haridwar** (~18.90 lakh); lowest = **Rudraprayag** (~2.42 lakh).
+3. State decadal growth (2001–11) = **18.81%** (national 17.70%); highest growth = **Udham Singh Nagar (33.45%)**.
+4. Two districts registered **negative** decadal growth: **Pauri Garhwal (−1.41%)** and **Almora (−1.28%)** — the ghost-village / *palayan* story.
+5. State density = **189** persons/sq km; highest = **Haridwar (801)**; lowest = **Uttarkashi (41)**.
+6. State sex ratio = **963** (national 943); highest = **Almora (1142)**; lowest = **Haridwar (880)**.
+7. Sex-ratio descending trap set: **Almora (1142) → Rudraprayag (1114) → Tehri Garhwal (1077) → Haridwar (880)**.
+8. Seven hill districts have sex ratio above **1000** due to heavy male out-migration; plains districts Haridwar (880) and Dehradun (889) are among the lowest.
+9. Child sex ratio (0–6) = **890** (national 919); Almora highest (922); Pithoragarh lowest (816).
+10. Overall literacy = **78.82%**; highest = **Dehradun (84.25%)**; lowest = **Udham Singh Nagar (73.10%)**.
+11. Highest male literacy = **Rudraprayag (93.90%)**; lowest female literacy extreme = **Uttarkashi (59.74%)** (only district under 60% female literacy).
+12. SC share = **18.76%** of total population; highest SC % = **Bageshwar (27.73%)**; lowest SC % = **Dehradun (14.5%)**.
+13. ST share = **2.89%** of total population; highest ST % = **Udham Singh Nagar (7.46%)**; lowest ST % = **Rudraprayag (0.15%)**.
+14. **Udham Singh Nagar** holds about **42.1%** of the state’s tribal population (mainly **Tharu** and **Buksa**).
+15. **Dehradun** holds about **38.2%** of the tribal population (mainly **Jaunsari** in Jaunsar-Bawar).
+16. **Pithoragarh** holds **Bhotia** (Johar/Darma) and the primitive **Raji (Vanrawat)**; **Chamoli** holds Marchha and Tolchha Bhotias; **Uttarkashi** holds Jad Bhotias.
+17. **Vanrawats / Raji** are forest-dwelling groups concentrated in **Pithoragarh** and historically practised **shifting cultivation** until restricted by forest laws.
+18. Urban population = **30.23%** (rural 69.77%); most urbanized = **Dehradun (55.52%)**; least urbanized = **Bageshwar (3.49%)**.
+19. Mid-Himalayan settlements are often nucleated on southern spurs for sunlight with terraced *khet* cultivation.
+20. Doon and Tarai valleys show dispersed and linear settlement ribbons along highways and canal banks.
+21. Alpine zones retain transhumant seasonal dwellings (*Mait* in summer pastures; *Gunda/Munsa* in winter valleys).
+22. Highest SC population count is in **Haridwar**; highest ST population count is in **Udham Singh Nagar**.
+23. Do not swap highest overall literacy (**Dehradun**) with highest male literacy (**Rudraprayag**).
+24. Do not swap highest SC % (**Bageshwar**) with highest ST % (**Udham Singh Nagar**).
+25. Do not swap highest density (**Haridwar**) with lowest density (**Uttarkashi**).
+26. Negative growth belongs to **Pauri** and **Almora** — not to Chamoli/Rudraprayag alone.
+
+---
+
+## Confused Pairs & Common Traps
+
+| Confused Pair | Critical Distinction |
+| :--- | :--- |
+| **Almora vs Haridwar (Sex Ratio)** | Almora = **highest** sex ratio (1142); Haridwar = **lowest** sex ratio (880). |
+| **Haridwar vs Uttarkashi (Density)** | Haridwar = **highest** density (801); Uttarkashi = **lowest** density (41). |
+| **Pauri vs Udham Singh Nagar (Growth)**| US Nagar = **highest decadal growth** (+33.45%); Pauri Garhwal = **lowest/negative** (-1.41%). |
+| **Highest SC % vs Highest ST %** | Highest SC % = **Bageshwar (27.73%)**; Highest ST % = **Udham Singh Nagar (7.46%)**. |
+| **Highest Overall Literacy vs Male Literacy** | Highest overall = **Dehradun (84.25%)**; Highest male = **Rudraprayag (93.90%)**. |
 
 ---
 
@@ -94,18 +122,6 @@
   - *Mid-Himalayan Hill Slopes:* Nucleated compact settlements located on southern spurs to maximize sunlight; terraced cultivation (*Khet*).
   - *Doon & Terai (तराई) Valleys:* Dispersed and linear settlement ribbons along highways and canal banks.
   - *Alpine Zones:* Transhumant seasonal dwellings (*Mait* in summer alpine pastures; *Gunda/Munsa* in winter valleys).
-
----
-
-## Confused Pairs & Common Traps
-
-| Confused Pair | Critical Distinction |
-| :--- | :--- |
-| **Almora vs Haridwar (Sex Ratio)** | Almora = **highest** sex ratio (1142); Haridwar = **lowest** sex ratio (880). |
-| **Haridwar vs Uttarkashi (Density)** | Haridwar = **highest** density (801); Uttarkashi = **lowest** density (41). |
-| **Pauri vs Udham Singh Nagar (Growth)**| US Nagar = **highest decadal growth** (+33.45%); Pauri Garhwal = **lowest/negative** (-1.41%). |
-| **Highest SC % vs Highest ST %** | Highest SC % = **Bageshwar (27.73%)**; Highest ST % = **Udham Singh Nagar (7.46%)**. |
-| **Highest Overall Literacy vs Male Literacy** | Highest overall = **Dehradun (84.25%)**; Highest male = **Rudraprayag (93.90%)**. |
 
 ---
 

@@ -7,7 +7,7 @@
 
 ---
 
-## Consolidated — 15 Must-Score Facts (UK Protected Areas)
+## Consolidated — 20 Must-Score Facts (UK Protected Areas)
 
 1. **Oldest National Park in India:** **Corbett National Park** was established in **1936** as *Hailey National Park* (later Ramganga (रामगंगा) NP in 1954, renamed Corbett in 1957); India’s first national park and the launch site of **Project Tiger (प्रोजेक्ट टाइगर) on 1 April 1973**.
 2. **Largest National Park in Uttarakhand:** **Gangotri (गंगोत्री) National Park (2,390.02 sq. km)** located in **Uttarkashi** (उत्तरकाशी); covers Gaumukh (गौमुख) glacier and high-altitude alpine terrain.
@@ -15,20 +15,20 @@
 4. **Largest Wildlife Sanctuary in Uttarakhand:** **Kedarnath (केदारनाथ) Wildlife Sanctuary (975.20 sq. km)** spread across **Chamoli and Rudraprayag (रुद्रप्रयाग)**; created in **1972** primarily to conserve the endangered Himalayan Musk Deer.
 5. **Smallest Wildlife Sanctuary in Uttarakhand:** **Mussoorie (मसूरी) (Benog / Mountain Quail) Wildlife Sanctuary (10.82 sq. km)** in **Dehradun** (देहरादून); established in **1993**.
 6. **Oldest Wildlife Sanctuary in Uttarakhand:** **Govind Wildlife Sanctuary (1955)** in **Uttarkashi**; covers 485.89 sq. km in the Tons (टौंस) river basin.
-7. **Two Tiger Reserves of Uttarakhand:**
-   - **Corbett Tiger Reserve:** Notified in **1973** (first in India).
-   - **Rajaji (राजाजी) Tiger Reserve:** Notified in **2015** (48th Tiger Reserve of India; second in UK).
+7. **Two Tiger Reserves of Uttarakhand:** **Corbett Tiger Reserve** notified in **1973** (first in India); **Rajaji (राजाजी) Tiger Reserve** notified in **2015** (48th Tiger Reserve of India; second in UK).
 8. **UNESCO World Natural Heritage Sites:** **Nanda Devi (नंदा देवी) NP (1988)** and **Valley of Flowers NP (2005)** form **one composite UNESCO World Heritage (विश्व धरोहर) property** in Chamoli.
-9. **Single Biosphere Reserve (जैवमंडल आरक्षित क्षेत्र):** **Nanda Devi Biosphere (नंदा देवी जैवमंडल) Reserve** was established in **1988** (core area: Nanda Devi NP; buffer: Valley of Flowers); included in UNESCO's World Network of Biosphere Reserves (जैवमंडल आरक्षित क्षेत्र) (**MAB program**) in **2004**.
-10. **First Ramsar (रामसर) Wetland Site (रामसर आर्द्रभूमि स्थल) in Uttarakhand:** **Asan (आसन) Conservation Reserve (संरक्षण आरक्षित क्षेत्र) (Dehradun)** was declared Uttarakhand’s **first Ramsar site in October 2020** (at confluence of Yamuna (यमुना) and Asan rivers; winter refuge for Ruddy Shelduck).
-11. **Jhilmil Jheel Conservation Reserve (Haridwar (हरिद्वार)):** Established in **2005** specifically for the conservation of the endangered **Swamp Deer (Barasingha — *Rucervus duvaucelii*)**.
-12. **Musk Deer Breeding & Research Centres:**
-    - **Mahroodi Musk Deer Research Centre:** Established in **1977** (in Bageshwar (बागेश्वर) / Pithoragarh (पिथौरागढ़) border).
-    - **Kanchula Kharak Musk Deer Breeding Centre:** Established in **1982** near Chopta in **Chamoli district**.
-    - **Askot Wildlife Sanctuary:** Established in **1986** in **Pithoragarh** (पिथौरागढ़); holds the highest density of Musk Deer.
-13. **Rajaji National Park Amalgamation (1983):** Formed by amalgamating 3 contiguous wildlife sanctuaries: **Rajaji Sanctuary (1948)**, **Motichur Sanctuary (1964)**, and **Chilla Sanctuary (1977)**; named after Bharat Ratna (भारत रत्न) C. Rajagopalachari.
-14. **Snow Leopard Conservation:** Centred in **Gangotri NP**, **Govind NP**, and **Nanda Devi NP**; India's first Snow Leopard Conservation Centre was set up in **Lanka, Uttarkashi**.
+9. **Single Biosphere Reserve (जैवमंडल आरक्षित क्षेत्र):** **Nanda Devi Biosphere (नंदा देवी जैवमंडल) Reserve** was established in **1988** (core: Nanda Devi NP; buffer includes Valley of Flowers); entered UNESCO’s World Network (**MAB**) in **2004**.
+10. **First Ramsar (रामसर) Wetland Site (रामसर आर्द्रभूमि स्थल) in Uttarakhand:** **Asan (आसन) Conservation Reserve (संरक्षण आरक्षित क्षेत्र) (Dehradun)** was declared Uttarakhand’s **first Ramsar site in October 2020** (Yamuna (यमुना)–Asan confluence; winter refuge for Ruddy Shelduck).
+11. **Jhilmil Jheel Conservation Reserve (Haridwar (हरिद्वार))** was established in **2005** for endangered **Swamp Deer (Barasingha — *Rucervus duvaucelii*)**.
+12. **Musk Deer centres:** **Mahroodi** research centre **1977** (Bageshwar (बागेश्वर)/Pithoragarh (पिथौरागढ़) border); **Kanchula Kharak** breeding centre **1982** (Chopta, **Chamoli**); **Askot Wildlife Sanctuary (1986, Pithoragarh)** holds high musk-deer density.
+13. **Rajaji National Park Amalgamation (1983):** formed by amalgamating **Rajaji Sanctuary (1948)**, **Motichur Sanctuary (1964)**, and **Chilla Sanctuary (1977)**; named after Bharat Ratna (भारत रत्न) C. Rajagopalachari.
+14. **Snow Leopard Conservation** is centred in **Gangotri NP**, **Govind NP**, and **Nanda Devi NP**; India’s first Snow Leopard Conservation Centre was set up in **Lanka, Uttarkashi**.
 15. **Total Protected Areas Tally:** Uttarakhand has **6 National Parks**, **7 Wildlife Sanctuaries**, and **4 Conservation Reserves**.
+16. National Park chronology spine: **Corbett 1936 → Nanda Devi 1982 → Valley of Flowers 1982 → Rajaji 1983 → Gangotri 1989 → Govind 1990**.
+17. **Nanda Devi NP** and **Valley of Flowers NP** were both established in **1982** in Chamoli — UNESCO years differ (**1988** vs **2005**).
+18. **Sonanadi Wildlife Sanctuary (Pauri Garhwal (गढ़वाल))** is the elephant/tiger corridor foothills pair — do not swap it with **Askot (Pithoragarh)** musk-deer colour.
+19. Gangotri is the **largest NP**; Kedarnath is the **largest WLS** — do not swap size crowns across categories.
+20. Valley of Flowers is the **smallest NP**; Mussoorie/Benog is the **smallest WLS** — different categories, different districts.
 
 ---
 

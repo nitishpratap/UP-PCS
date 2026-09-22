@@ -55,7 +55,7 @@ Newest first. One event, one fact.
 ---
 
 
-## Consolidated — 32 Must-Score Facts
+## Consolidated — 33 Must-Score Facts
 
 1. India’s foreign policy rests on **independent judgment** — historically called non-alignment and later strategic autonomy. It is **not** isolation and was **not** joining a US or USSR military camp in the Cold War textbook sense.
 2. **Panchsheel** was signed on **29 April 1954** in the India–China Tibet trade (पण्याध्यक्ष) agreement. The five principles are mutual respect for sovereignty, non-aggression, non-interference, equality and mutual benefit, and peaceful coexistence.
@@ -89,6 +89,7 @@ Newest first. One event, one fact.
 30. **Five Eyes** is US–UK–Canada–Australia–New Zealand intelligence sharing. **CSTO** is Russia-led. **SEATO / CENTO** are dead. Warsaw Pact ended with the Cold War.
 31. US foreign-policy milestones often asked are Monroe (**1823**), Truman containment (**1947**), NATO (**1949**), Nixon’s China opening (**1972**), unipolar moment (**1991**), Pivot to Asia (**2011**), and later America First / AUKUS–Quad framing.
 32. Connect Central Asia (**2012**) and the **2+2** format with the US, Japan, Australia, and Russia are standard India outreach facts beside Look/Act East and SAGAR.
+33. **Article 51** (DPSP) directs the State to promote **international peace and security**, just and honourable relations, respect for international law and treaty obligations, and settlement of disputes by arbitration — the constitutional footing for foreign-policy ideals, not a Fundamental Right.
 
 ---
 

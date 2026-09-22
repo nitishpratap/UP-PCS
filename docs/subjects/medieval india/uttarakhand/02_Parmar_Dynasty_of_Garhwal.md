@@ -26,17 +26,31 @@
 
 ---
 
-## Must-Score Facts (High-Yield UKPCS)
+## Consolidated — 22 Must-Score Facts
 
-1. **Ajay Pal:** Unified 52 scattered principalities (Garhs), compared to Ashoka (अशोक)/Napoleon; follower of Gorakhnath sect; established measurement standard **Dhulia Patha**.
-2. **Chandpur Garh → Dewalgarh → Srinagar:** Capital movement chronology (Chandpurgarh founder seat → Dewalgarh 1512 → Srinagar 1517).
-3. **Mughal Clash (1635):** Rani Karnavati defeated Shah Jahan (शाहजहाँ)’s general Najabat Khan in the Doon valley (hence *Nakkati Rani*).
-4. **1658 Sulaiman Shikoh Refuge:** Eldest son of Dara (दारा) Shikoh (दारा शिकोह) sheltered by Prithvipati Shah; brought Mughal court painters Shyamdas & Hardas (*Tasbirdars*). Medini Shah later betrayed him to Aurangzeb (औरंगजेब).
-5. **Fateh Shah's Court:** Contemporary of Aurangzeb; patronised *Navratnas* (court poets like Matiram, Jatadhar, Ratan Kavi).
-6. **Battle of Bhangani (1688):** Fought between Fateh Shah and Guru Gobind Singh near Paonta Sahib (recorded in Guru Gobind Singh’s *Bichitra Natak*).
-7. **Madho Singh Bhandari:** Mahipat Shah’s general; famous for constructing the **Maletha Canal** (Kuhl) through a mountain by sacrificing his son Gajendra.
+1. **Parmar / Panwar** of Garhwal claimed Malwa Parmar origin; legendary founder **Kanakpal** (888 CE tradition) sat at **Chandpur / Chandpurgarh** (Chamoli (चमोली)).
+2. **Ajay Pal** (37th ruler, c. **1500–1519**) unified the **52 Garhs**, followed Gorakhnath/Rajrajeshwari devotion, and set grain measure **Dhulia Patha** (~2 seers).
+3. Capital chronology: **Chandpurgarh → Dewalgarh (1512) → Srinagar (1517)** under Ajay Pal.
+4. **Balbhadra Shah** (43rd) was the first to fix the royal surname **Shah** (replacing Pal), linked to Delhi Sultan contacts.
+5. **Mahipat Shah** (**Garh-Bhanjan**) invaded western Tibet; legendary commanders were **Madho Singh Bhandari**, **Lodi Rikhola**, and **Banwari Das**.
+6. **Madho Singh Bhandari** cut the **Maletha Canal (Kuhl)** through a mountain; tradition says he sacrificed his son **Gajendra**.
+7. **Rani Karnavati** (regent **1631–40** for Prithvipati Shah) defeated Shah Jahan (शाहजहाँ)’s general **Najabat Khan** in the Doon (**1635**) and cut noses of survivors — hence **Nakkati Rani**.
+8. **1635 Nakkati Rani** Cause–Course–Result: Mughal (मुग़ल) push into Doon → Karnavati’s victory over Najabat Khan → surviving captives mutilated and Mughal prestige hit in Garhwal.
+9. In **May 1658**, **Prithvipati Shah** sheltered **Sulaiman Shikoh** (eldest son of Dara (दारा) Shikoh (दारा शिकोह)); painters **Shyamdas** and **Hardas** became court **Tasbirdars** (तस्बीरदार).
+10. **Medini Shah** later betrayed Sulaiman to Aurangzeb (औरंगजेब)’s side and was disowned by Prithvipati.
+11. Garhwal miniature line: **Shyamdas → Hardas → Hiralal → Mangatram → Mola Ram (1743–1833)**.
+12. **Mola Ram** was poet–painter–historian of *Garh-Rajvansh Kavya (काव्य)*; modern fame came through **Barrister Mukandi Lal**’s *Garhwal Painting* (**1968**).
+13. **Fateh Shah** (**1684–1716**) kept court **Navratnas** (Matiram, Jatadhar, Ratan Kavi) in Garhwal’s cultural peak under Aurangzeb’s age.
+14. Fateh Shah invited **Guru (गुरु) Ram Rai (राई)** (**1676**) and granted four Dehradun villages: **Khurbura, Rajpur, Chamasari, Dhamawala**.
+15. **Battle of Bhangani (1688)** Cause–Course–Result: hill politics near Paonta → Fateh Shah fought **Guru Gobind Singh (गुरु गोबिंद सिंह)** → recorded in *Bichitra Natak*; keep it distinct from Khudbuda **1804**.
+16. **Pradyumna Shah** briefly ruled Kumaon as **Pradyumna Chand**, then reclaimed Garhwal; he died at **Battle of Khudbuda (Dehradun (देहरादून))** on **14 May 1804** against Gorkhas under **Amar Singh Thapa**.
+17. Admin ladder: King → **Mukhtiyar / Wazir / Chautariya** → **Diwan** → **Daftari / Bakshi** → **Negi / Thokdar / Kameen / Sayana** → village **Pradhan**.
+18. Land types: **Talaon** = irrigated valley (highest revenue); **Upraon** = rain-fed terrace; **Ijran / Katil** = steep bush land under periodic tillage.
+19. **Sahajpal**’s **1561** bell inscription at Raghunath Temple, Devprayag (देवप्रयाग), marks Akbar (अकबर)-age Garhwal memory.
+20. **Shyam Shah** visited Jahangir (जहाँगीर) at Agra (**1621**) and appears in *Tuzuk-i-Jahangiri* (तुजुक-ए-जहाँगीरी).
+21. **Kanakpal** = legendary founder at Chandpurgarh; **Ajay Pal** = 52-Garh unifier and Srinagar capital — never swap.
+22. **Battle of Bhangani (1688)** ≠ **Battle of Khudbuda (1804)** — Sikh hill clash vs final Gorkha conquest of independent Garhwal.
 
----
 
 ## Chronological Ruler Guide & Significant Milestones
 

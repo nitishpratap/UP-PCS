@@ -31,14 +31,30 @@
 
 ---
 
-## Must-Score Facts
+## Consolidated — 22 Must-Score Facts
 
-1. Lat–long ~28°43′–31°27′ N · 77°34′–81°02′ E; HP west, Nepal/Tibet E–N, UP south.
-2. South→north full stack: Tarai → Bhabar → Shiwalik → Dun → Lesser → Great Himalaya.
-3. Bhabar = streams sink; Tarai = streams reappear, marshy, fertile.
-4. Between MBT and MCT = **Lesser Himalaya**; Shiwalik = south of MBT.
-5. Dehradun = classic dun; Nanda Devi ~7816–7817 m (Chamoli); Kamet ~7756 m.
-6. Garhwal = west; Kumaon = east.
+1. Uttarakhand occupies the **central Himalayan** sector of India, roughly **28°43′–31°27′ N** and **77°34′–81°02′ E**.
+2. **Himachal Pradesh** borders the west; **Nepal** the east; the **Tibetan** frontier the north; **Uttar Pradesh** plains the south.
+3. Historic–administrative divisions: **Garhwal** is west; **Kumaon** is east.
+4. Garhwal districts include Dehradun, Tehri, Uttarkashi, Chamoli, Rudraprayag, and Pauri with related hill tehsils.
+5. Kumaon districts include Nainital, Almora, Bageshwar, Champawat, and Pithoragarh with related hill tehsils.
+6. **Haridwar** and **Udham Singh Nagar** sit on the southern Tarai fringe of this dual map.
+7. South→north relief stack: **Tarai → Bhabar → Shiwalik → Dun → Lesser Himalaya → Great Himalaya**.
+8. Compact four-name lists often read **Tarai → Shiwalik → Lesser Himalaya → Great Himalaya**; placing Tarai last is the usual inversion trap.
+9. National plains teaching reads the same foothill belts southward as **Shiwalik → Bhabar → Terai** — do not reverse either list without checking where the stem starts.
+10. **Bhabar** is porous gravel–boulder at the Himalayan foot where streams often **sink** underground.
+11. **Tarai** is the marshy belt south of Bhabar where groundwater **reappears** and soils support dense cultivation and forest.
+12. **Shiwaliks** are young, soft foothills of unconsolidated sediments and are landslide-prone.
+13. **Duns** are longitudinal flat-floored valleys in the Shiwalik belt; **Dehradun** is the classic dun.
+14. **Main Boundary Thrust (MBT)** separates the Shiwaliks from the Lesser Himalaya.
+15. **Main Central Thrust (MCT)** separates the Lesser Himalaya from the Higher / central crystalline belt.
+16. **South of the MBT** = Shiwalik foothills and duns; **between MBT and MCT** = **Lesser Himalaya**.
+17. **North of the MCT** = Higher / central crystalline **Great Himalaya** (snow line, major peaks, glacier heads).
+18. Tarai and Bhabar sit **south of the Shiwalik**, not between the thrusts.
+19. Farther north, **Trans-Himalaya / Tethys Himalaya** is a separate structural family beyond the Great Himalayan crest.
+20. **Nanda Devi** is the highest major UK peak at about **7816–7817 m** in **Chamoli**; **Kamet** is next among major peaks at about **7756 m**.
+21. Named Garhwal crest peaks also include **Trisul**, **Dunagiri**, and **Chaukhamba**.
+22. Great Himalayan glaciers (Gangotri, Pindari, Milam and related ice fields) feed Bhagirathi–Alaknanda headstreams and shape pilgrimage–tourism geography.
 
 ---
 

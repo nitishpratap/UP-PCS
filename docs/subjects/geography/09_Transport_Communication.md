@@ -75,7 +75,7 @@ D. India
 ---
 
 
-## Consolidated — 27 Must-Score Facts
+## Consolidated — 31 Must-Score Facts
 
 1. Transport moves people and goods; communication moves information. About **95%** of India’s trade by **volume** moves by sea.
 2. India’s first passenger train ran **Mumbai–Thane in 1853**. Indian Railways is organised into about **18 zones** (older books still say 16).
@@ -104,6 +104,12 @@ D. India
 25. **Incredible India** is the MoT tourism brand; **ITDC** dates from **1966**. Match hill stations carefully: Chakrata–UK, Haflong–Assam, Kalimpong–WB, Kufri–HP.
 26. **City of Lakes = Udaipur (उदयपुर)** (not Jaisalmer). **Pink City = Jaipur**. **Sabarimala = Kerala**. UNESCO tourist set includes Champaner–Pavagarh, CST Mumbai, Mamallapuram and Konark (कोणार्क).
 27. **Srisailam = Nallamala**; Omkareshwar (ओंकारेश्वर) and Pushkar are **not** on Satmala / Mahadeo in the IAS 2015 trap. **Biligiriranga** holds the standing Ranganatha note in Karnataka.
+---
+28. Railway track gauges in teaching: **broad (1676 mm)**, metre and narrow. Most Indian main lines are broad gauge after unification drives.
+29. **Konkan Railway** links Maharashtra–Goa–Karnataka–Kerala along the west coast. **HBJ / HVJ** (Hazira–Bijaipur–Jagdishpur) is a classic gas-pipeline spine in coaching notes.
+30. **Deendayal (Kandla)** is a tidal / gulf port on the west; **Ennore / Kamarajar** is a major east-coast port near Chennai. Do not swap west- and east-coast port lists.
+31. Communication basics: postal / telecom move information; optical fibre uses **TIR**. Do not treat transport and communication as the same word.
+
 ---
 
 ## Confused Pairs

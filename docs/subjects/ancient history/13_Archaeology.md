@@ -17,7 +17,7 @@ Taught so the method comes before the site: who runs the dig → how layers and 
 
 ---
 
-## Consolidated — 28 Must-Score Facts
+## Consolidated — 34 Must-Score Facts
 
 1. The **Archaeological Survey of India** was founded in **1861** under Viceroy Canning. The first Director-General was **Alexander Cunningham**.
 2. ASI headquarters is **24 Tilak Marg, New Delhi**. It is **not** Lucknow; Lucknow holds UP State Archaeology and the State Museum.
@@ -31,9 +31,9 @@ Taught so the method comes before the site: who runs the dig → how layers and 
 10. Boat **models** come from **Mohenjo-daro and Lothal**. Dholavira is not that boat-model pair.
 11. Prehistoric site–state facts: **Nevasa–Maharashtra**, **Isampur–Karnataka**, **Didwana–Rajasthan**, **Gudiyam–Tamil Nadu**.
 12. Harappan site–state facts: **Balu–Haryana**, **Manda–Jammu & Kashmir**, **Padri–Gujarat**, **Hulas–Uttar Pradesh**.
-13. Uttar Pradesh Harappan trio: **Alamgirpur** (आलमगीरपुर) (Meerut, Hindon), **Hulas** (हुलास) (Baghpat), and **Mandi** (मंडी) (Bijnor, Ramganga).
+13. Uttar Pradesh Harappan trio: **Alamgirpur** (आलमगीरपुर) (Meerut, Hindon), **Hulas** (हुलास) (Saharanpur), and **Mandi** (मंडी) (Muzaffarnagar).
 14. **Alamgirpur** is the **easternmost** Harappan site in India. **Rakhigarhi** (राखीगढ़ी) (Haryana) is the largest mound — it is **not** UP and **not** the eastern edge.
-15. **Mandi** (Bijnor, UP) is **not Manda** (Chenab belt, J&K). Mixing the two names is a frequent trap.
+15. **Mandi** (Muzaffarnagar, UP) is **not Manda** (Chenab belt, J&K). Mixing the two names is a frequent trap.
 16. UP IVC questions often want **Mandi and Hulas** together and reject **Rakhigarhi**. Hulas also appears with Alamgirpur in older UP pairs.
 17. Other UP trenches: **Koldihwa / Mahagara** (Belan, early rice claim), **Hastinapur** (हस्तिनापुर) (PGW), **Kaushambi** (कौशांबी), **Ahichchhatra**, **Sarnath** (सारनाथ), **Shravasti**, **Atranjikhera**.
 18. **Robert Bruce Foote** at **Pallavaram** in **1863** first recognised Indian Paleolithic tools.
@@ -47,6 +47,12 @@ Taught so the method comes before the site: who runs the dig → how layers and 
 26. Cunningham used Chinese pilgrim routes to hunt Buddhist sites such as Sarnath, Sanchi, and Bharhut — Survey foundation, not IVC discovery.
 27. Mature Harappan chronology near **about 2600–1900 BCE** rests on absolute clocks plus pottery and stratigraphy, not “guesswork from bricks.”
 28. Site is the place with remains; **excavation** is the dig. Papers ask present **state / UT** for site matching, not the excavator’s birthplace.
+29. Doab pottery clock: **Late Harappan / OCP → PGW → NBPW**. **OCP** pairs with Copper Hoards; **PGW** is Later Vedic; **NBPW** rises with second urbanisation / Mauryan cities.
+30. **Megalithic** burials with large stones belong mainly to the Iron-age **south**. They are not a Harappan city label.
+31. Signature Harappan cards: **Rakhigarhi** (largest in India, Haryana); **Dholavira** (reservoirs + signboard, R.S. Bisht); **Kalibangan** (plough + fire altars, B.B. Lal); **Banawali** (fortified Haryana town); **Surkotada** (horse-bone debate).
+32. **Thermoluminescence (TL)** dates fired pottery or bricks by asking when the object was last heated. Use relative methods to order a trench; use C-14 or TL when the stem wants a calendar band.
+33. **Typology** matches pottery and tool shapes across sites as another relative clock beside stratigraphy.
+34. UP trenches beyond the Harappan trio: **Koldihwa / Mahagara** (Belan rice), **Hastinapur** (PGW / OCP), **Kaushambi**, **Ahichchhatra**, **Sarnath**, **Shravasti**, **Atranjikhera**, **Sanauli** (Baghpat chariots).
 
 ---
 
@@ -61,7 +67,7 @@ Taught so the method comes before the site: who runs the dig → how layers and 
 | Sahni | Banerjee | **Harappa 1921** vs **Mohenjo-daro 1922** | साहनी / बनर्जी |
 | Wakankar | Sankalia | **Bhimbetka** vs Deccan prehistory | वाकणकर / संकलिया |
 | Alamgirpur | Rakhigarhi | Easternmost **UP** vs largest **Haryana** | आलमगीरपुर / राखीगढ़ी |
-| Mandi | Manda | **Bijnor UP** vs **J&K** Chenab | मंडी / मांडा |
+| Mandi | Manda | **Muzaffarnagar UP** vs **J&K** Chenab | मंडी / मांडा |
 | Hulas | Lothal | Baghpat **UP** vs Gujarat **dock** | हुलास / लोथल |
 | Rock shelter | Cave | Bhimbetka overhang vs hollow | शैल आश्रय / गुफा |
 | ASI HQ | Lucknow | **New Delhi** vs UP state archaeology | दिल्ली / लखनऊ |

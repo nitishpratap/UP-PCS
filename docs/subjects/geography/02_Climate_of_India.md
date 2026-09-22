@@ -74,7 +74,7 @@ D. Mistral
 ---
 
 
-## Consolidated — 30 Must-Score Facts
+## Consolidated — 32 Must-Score Facts
 
 1. India’s climate is **tropical monsoon**, not wholly tropical, because the country stretches into the subtropical north. The Himalaya (हिमालय) acts as a winter **wall** against Central Asian cold and forces **orographic** rain on southern slopes in the monsoon.
 2. The word monsoon comes from Arabic **mausim** (season). About **75–90%** of India’s rain falls with the south-west monsoon from June to September. Onset usually begins first in **Kerala around 1 June**.
@@ -106,6 +106,10 @@ D. Mistral
 28. Uttar Pradesh’s south-west monsoon rain often arrives with **Bay of Bengal depressions**. An active spell needs the trough on the plain. Pre-monsoon **lightning** and winter **inversion smog** (west UP / NCR fringe) are key hazards.
 29. Absolute (निरपेक्ष) humidity (निरपेक्ष) is the **mass of vapour** in air. Relative humidity is the **percentage of saturation**. Relative humidity falls when temperature rises even if vapour mass stays the same.
 30. The north-east monsoon on the Coromandel / Chennai coast is **NE-monsoon dependent**, not a south-west monsoon belt. Do not confuse retreating-monsoon October heat with Western Disturbance (पश्चिमी विक्षोभ) winter rain in the north-west.
+
+---
+31. Retreating monsoon months are mainly **October–November**, with October heat and Bay of Bengal / Andaman cyclone risk. Do not call this the Western Disturbance season.
+32. Burst of monsoon is sudden onset with heavy rain; withdrawal is gradual from north-west to south-east. Break monsoon ≠ retreating monsoon.
 
 ---
 

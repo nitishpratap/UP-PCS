@@ -23,15 +23,15 @@ Gandhi (गांधी) early life | Gandhi in South Africa | Gandhian Ideology
 4. The **Rowlatt Act (1919)** and **Jallianwala Bagh (13 April 1919**, Dyer, Amritsar (अमृतसर)) opened the all-India protest climate.
 5. **Hunter Committee 1919** (हंटर कमेटी 1919) inquired into the Punjab firing. It is **not** the **Hunter Commission 1882** (हंटर आयोग 1882) on education.
 6. After Jallianwala, **Tagore returned his knighthood**. **Sankaran Nair** (शंकरन नायर) resigned from the Viceroy (वायसराय)’s Executive Council.
-7. **Non-Cooperation** (असहयोग) launched at Calcutta special (**Sep 1920**) and Nagpur (**Dec 1920**), joined to **Khilafat** (खिलाफत).
-8. **Chauri Chaura (चौरी चौरा) (5 February 1922, Gorakhpur (गोरखपुर))** led Gandhi to withdraw NCM (असहयोग). **Belgaum 1924** (बेलगाव) is Gandhi’s only Congress presidentship.
+7. **Non-Cooperation — Cause:** Rowlatt–Jallianwala shock plus Khilafat grievance after Ottoman defeat. **Course:** launched Calcutta special (**Sep 1920**) / Nagpur (**Dec 1920**); boycott of titles, schools, courts; paired with Khilafat. **Result:** withdrawn after **Chauri Chaura (5 Feb 1922)**; constructive work and council-entry debate follow.
+8. **Chauri Chaura (5 February 1922, Gorakhpur)** led Gandhi to withdraw NCM. **Belgaum 1924** is Gandhi’s only Congress presidentship.
 9. **Gaya (Dec 1922)** split **No-changers** (stay out; constructive work) from **Pro-changers/Swarajists** (enter councils and obstruct).
 10. The **Swaraj Party (Jan 1923)** was founded by **C.R. Das** and **Motilal Nehru** for council entry.
 11. The **Simon Commission (Nov 1927)** was all-white. The **Nehru Report (1928, Motilal)** answered with a **dominion** draft.
 12. **Lahore 1929** (लाहौर) (Nehru) declared **Purna Swaraj**; the pledge day was **26 January 1930**. Dominion status (डोमिनियन) and complete independence are different goals.
 13. **Gandhi’s Eleven Points (Jan 1930)** were an ultimatum to Irwin (इरविन). They are not **Jinnah’s Fourteen Points (1929)**.
-14. **Dandi March** ran **12 March–6 April 1930** and launched **Civil Disobedience** (सविनय अवज्ञा). **Dharasana** is locked to **Webb Miller’s** reportage.
-15. **Gandhi–Irwin Pact (गांधी-इरविन) (5 March 1931)** was a Congress–Viceroy truce. **Karachi (Mar 1931)** adopted (अंगीकृत) Fundamental Rights (मौलिक अधिकार) and an economic programme.
+14. **Civil Disobedience — Cause:** Lahore **Purna Swaraj** pledge and Irwin’s rejection of Gandhi’s **Eleven Points**. **Course:** **Dandi March (12 March–6 April 1930)** opens salt satyagraha; nationwide civil-law defiance; **Dharasana** (Webb Miller). **Result:** **Gandhi–Irwin Pact (5 March 1931)** truce; Karachi Fundamental Rights; later RTC/Poona path.
+15. **Gandhi–Irwin Pact (5 March 1931)** was a Congress–Viceroy truce. **Karachi (Mar 1931)** adopted Fundamental Rights and an economic programme.
 16. At the **Second Round Table Conference (Sep–Dec 1931)** Gandhi was the sole Congress representative. **Rajendra Prasad** did **not** go as Congress delegate.
 17. The **Communal Award (16 August 1932)** gave Depressed Classes separate electorates. The year is **1932**, not 1933.
 18. The **Poona Pact (24 September 1932)** replaced that with **reserved seats in a joint electorate**.
@@ -48,7 +48,7 @@ Gandhi (गांधी) early life | Gandhi in South Africa | Gandhian Ideology
 29. UP Focus: **Chauri Chaura** (चौरी चौरा) is Gorakhpur; Swaraj Party founding memory sits with the **Allahabad** (इलाहाबाद) Nehrus.
 30. Cripps (क्रिप्स) (**1942**) and Quit India (भारत छोड़ो) (**1942**) continue this story in the next chapter — they are not separate from the Gandhian arc.
 31. **Vaikom** (वैक्कम) satyagraha continuity sits in the mid-1920s constructive/temple-entry stream (often paired with Belgaum-era dates).
-32. Hold the phase map: local satyagrahas → Rowlatt/Jallianwala → NCM → Gaya/Swarajists → Simon/Lahore → Dandi/CDM → pacts → constructive decade → August Offer/Individual Satyagraha.
+32. Hold the phase map with years: local satyagrahas (**1917–18**) → Rowlatt/Jallianwala (**1919**) → NCM (**1920–22**) → Gaya/Swarajists (**1922–23**) → Simon/Lahore (**1927–29**) → Dandi/CDM (**1930–34**) → pacts/Poona (**1931–32**) → constructive decade → August Offer/Individual Satyagraha (**1940**).
 33. Gandhi was born **2 October 1869** at **Porbandar**; father **Karamchand (Kaba) Gandhi** was Diwan of Porbandar, Rajkot and Wankaner; law training at **Inner Temple**, London; college often keyed **Samaldas, Bhavnagar**.
 34. South Africa stretch is about **21 years** (**1893–1915**); case of **Dada Abdullah**; **Phoenix (1904)** is his **oldest** ashram; press = ***Indian Opinion***.
 35. Twin principles of **Ram Rajya** = **truth and non-violence**. He told **Louis Fischer** he was a true socialist aiming at **Sarvodaya**.

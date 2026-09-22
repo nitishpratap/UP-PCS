@@ -11,7 +11,7 @@
 2. **Decadal Growth (2001–2011):** **17.70%** (Rural: 12.3%, Urban (नगरीय): 31.8%). Highest State: **Meghalaya (मेघालय) (27.9%)**, followed by Arunachal Pradesh (26.0%) and Bihar (25.4%). Lowest/negative State: **Nagaland (-0.6%)**, followed by Kerala (4.9%) and Goa (गोवा) (8.2%). Highest UT: Dadra (दादरा) & Nagar Haveli (55.9%).
 3. **Population Density:** **382 persons / sq. km** (up from 325 in 2001). Top States: **Bihar (1,106)** > **West Bengal (1,028)** > **Kerala (860)** > **Uttar Pradesh (उत्तर प्रदेश) (829)**. Lowest State: **Arunachal Pradesh (17)** > Mizoram (52) > Sikkim (86). Highest UT: Delhi (11,320); Lowest UT: Andaman (अंडमान) & Nicobar (निकोबार) (46).
 4. **Overall Sex Ratio:** **943 females per 1,000 males** (+10 from 933 in 2001). Top States: **Kerala (1,084)** > **Tamil Nadu (नाडु) (996)** > **Andhra Pradesh (993)** > Chhattisgarh (991). Lowest States: **Haryana (879)** > J&K (889) > Sikkim (890) > Punjab (895). Highest UT: Puducherry (1,037); Lowest UT: Daman & Diu (618).
-5. **Child Sex Ratio (0–6 years):** **919** (dropped sharply from 927 in 2001 — major exam trap). Highest States: **Arunachal Pradesh (972)** > Mizoram (970) > Meghalaya (970) > Chhattisgarh (969). Lowest States: **Haryana (834)** > Punjab (846) > J&K (862) > Rajasthan (888).
+5. **Child Sex Ratio (0–6 years):** **919** (dropped sharply from 927 in 2001 — classic trap). Highest States: **Arunachal Pradesh (972)** > Mizoram (970) > Meghalaya (970) > Chhattisgarh (969). Lowest States: **Haryana (834)** > Punjab (846) > J&K (862) > Rajasthan (888).
 6. **Overall Literacy Rate:** **74.04%** (Males: **82.14%**, Females: **65.46%**; gender literacy gap = **16.68%**). Top States: **Kerala (94.0%)** > **Mizoram (91.3%)** > Goa (88.7%) > Tripura (87.2%). Top UT: Lakshadweep (लक्षद्वीप) (91.8%). Lowest States: **Bihar (61.8%)** > Arunachal Pradesh (65.4%) > Rajasthan (66.1%) > Jharkhand (66.4%). Lowest female literacy: **Rajasthan (52.1%)**, followed closely by Bihar (51.5%).
 7. **Scheduled Castes (SC) Demography:** **20.14 Crore (16.6% of India's population)**. Highest absolute (निरपेक्ष) SC count: **Uttar Pradesh (4.13 Crore)** > West Bengal (2.14 Cr) > Bihar (1.65 Cr). Highest SC proportion (%): **Punjab (31.9%)** > Himachal (हिमाचल) Pradesh (25.2%) > West Bengal (23.5%) > UP (20.7%). States/UTs with **ZERO SC** population: **Nagaland, Lakshadweep, Andaman & Nicobar Islands**.
 8. **Scheduled Tribes (ST) Demography:** **10.43 Crore (8.6% of India's population)**. Highest absolute ST count: **Madhya Pradesh (1.53 Crore)** > Maharashtra (1.05 Cr) > Odisha (0.95 Cr). Highest ST proportion (%): **Lakshadweep (94.8%)** > **Mizoram (94.4%)** > Nagaland (86.5%) > Meghalaya (86.1%). States/UTs with **ZERO ST** population: **Punjab, Haryana, Chandigarh, Delhi, Puducherry**.
@@ -39,7 +39,6 @@
 30. **Census 2011 Mascot & Tagline:** 15th National Census (7th since 1947). Mascot: **Female Enumerator (प्रगणक शिक्षिका)**. Motto: *"Our Census, Our Future"* (हमारी जनगणना, हमारा भविष्य). Census Commissioner was **C. Chandramouli**.
 
 ---
-
 ## Confused Pairs
 
 | A | B | Distinguishing Fact / Correct Match | Hindi Terminology |

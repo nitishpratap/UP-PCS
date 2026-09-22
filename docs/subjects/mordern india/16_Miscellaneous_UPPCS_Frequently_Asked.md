@@ -43,8 +43,8 @@ Slogans | Newspapers & Journals | Books & Authors | Committees & Commissions | B
 24. ***Anandamath*** = Bankim; ***Hind Swaraj** (हिंद स्वराज)* = Gandhi; ***Discovery of India** (भारत एक खोज)* = Nehru; ***India Wins Freedom** (इंडिया विन्स फ्रीडम)* = Azad; ***Gita Rahasya** (गीता रहस्य)* = Tilak.
 25. **Simon Go Back** is keyed to the anti-Simon agitation and the **Lajpat Rai (राई)** association.
 26. **Garibi Hatao** is a later Indira-era slogan, not a 1920s freedom-struggle fact.
-27. This file is a **match vault**: slogans, press, sessions, treaties and UP names — event stories live in earlier chapters.
-28. Drill first the slogan six, the INC “first” six, the committee/mission six, and the British-official six — those rows carry the heaviest repeat weight.
+27. Vault priority rows: slogan six + INC “first” six + committee/mission six + British-official six — then UP press/1857/Kakori rows.
+28. Drill those vault rows before narrative chapters; event stories live in Topics 1–15, not here.
 
 ---
 

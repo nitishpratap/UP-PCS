@@ -56,7 +56,7 @@ D. Vadodara
 ---
 
 
-## Consolidated — 28 Must-Score Facts
+## Consolidated — 32 Must-Score Facts
 
 1. Most of India’s mineral wealth lies **east of the Mangalore–Kanpur (कानपुर) line**. The northern plains are almost empty of major ores. **Chota Nagpur** is the richest mineral belt and is often called India’s Ruhr. **Dharwar** rocks are the metallic storehouse; **Gondwana** holds nearly all coal.
 2. India is poor in many non-ferrous metals but rich in **bauxite**. Mica’s classic dielectric belt is **Koderma–Gaya (गया)–Hazaribagh** in Jharkhand.
@@ -86,6 +86,12 @@ D. Vadodara
 26. Shankargarh silica feeds the **Firozabad** glass industry. The **Chunar (चुनार)–Churk–Dalla** belt is cement. **HINDALCO Renukoot** is aluminium. Sonrai (Lalitpur) has a copper occurrence.
 27. Uttar Pradesh city industries: Kanpur textile and leather, Moradabad brass, Aligarh (अलीगढ़) padlocks and hardware, Firozabad glass, Meerut (मेरठ) sports goods, Noida–Ghaziabad NCR engineering.
 28. Uttar Pradesh coal is mostly **non-coking** Singrauli–Sonbhadra coal. It is not Jharia-type coking coal.
+
+---
+29. Atomic minerals: **uranium** classic mine = **Jaduguda (Jharkhand)**; **thorium / monazite** sands = **Kerala–Tamil Nadu** beaches. Lithium finds at **Reasi (J&K)** matter, but India still imports much Li, Ni and Co.
+30. Petroleum basins to keep: Assam (Digboi / Naharkatiya), Mumbai High, Ankleshwar (Gujarat), Barmer (Rajasthan), Krishna–Godavari and Cauvery. Digboi is among India’s oldest refineries.
+31. Power mix: thermal dominates generation share in the usual teaching line; hydro is strong in Himalayan / Western Ghat pockets; nuclear plants sit where cooling water and security allow (Tarapur, Kakrapar, Kudankulam, Kaiga, Rawatbhata, Kalpakkam, Narora).
+32. Industrial region tags: Chotanagpur = mineral-heavy heartland; Mumbai–Pune = cotton / engineering; Ahmedabad–Vadodara = textile / petrochem; Hugli = jute / engineering; Coimbatore = spinning.
 
 ---
 

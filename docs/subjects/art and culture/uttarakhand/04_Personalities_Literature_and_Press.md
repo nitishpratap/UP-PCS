@@ -7,31 +7,36 @@
 
 ---
 
-## Consolidated — 20 Must-Score Facts (Spine Revision)
+## Consolidated — 28 Must-Score Facts
 
-| Category | High-Yield Prelims Key |
-| :--- | :--- |
-| **First Newspaper of Uttarakhand (1842)** | ***The Hills*** (Mussoorie (मसूरी)) — published in English by **John Mckinnon** (first newspaper of North India/Himalayan region) |
-| **First Vernacular Newspaper (1868)** | ***Samay Vinod** (समय विनोद)* (Nainital (नैनीताल)) — bi-lingual Hindi/Urdu fortnightly edited by **Jay Datt Joshi** |
-| **Almora (अल्मोड़ा) Akhbar (अल्मोड़ा अखबार) (1871)** | Started by **Debating Club Almora**; first editor: **Buddhi Ballabh Pant**; Badridatt Pandey became editor in **1913**; banned **1918** |
-| **Weekly Shakti (शक्ति) (1918)** | Founded on **15 October 1918 (Vijayadashami (विजयादशमी))** by **Badridatt Pandey** (कुमाऊँ का इतिहास) after Almora Akhbar ban |
-| **Garhwali (1905)** | Published from **Dehradun** (देहरादून) by Garhwal (गढ़वाल) Union; edited by **Girija Datt Naithani** & **Tara (तारा) Datt Gairola** |
-| **Karmabhoomi (कर्मभूमि) (1939)** | Published from **Lansdowne** (लैंसडाउन); edited by **Bhairav Datt Dhulia** & **Bhakt Darshan** |
-| **Yugvani (युगवाणी) (1947)** | Published from **Dehradun**; edited by **Bhagwati Prasad Panthari** & **Gopeshwar Kothiyal** |
-| **First Dalit (दलित) Newspaper (1934)** | ***Samta** (समता)* (Almora) — founded by **Munshi Hari Prasad Tamta** |
-| **First Hindi D.Litt (1931)** | **Dr. Pitambar Datt Barthwal** (*The Nirguna (निर्गुण) School of Hindi Poetry*) |
-| **First Hindi Jnanpith (ज्ञानपीठ) (1968)** | **Sumitranandan Pant** (born Kausani, Almora) for ***Chidambara** (चिदंबरा)* |
-| **"Kumaon (कुमाऊँ) Kesari (कुमाऊँ केसरी)"** | **Badridatt Pandey** (leader of 1921 Coolie-Begar movement & author of *Kumaon Ka Itihas* (कुमाऊँ का इतिहास)) |
-| **"Garh Kesari (गढ़ केसरी)"** | **Anusuya Prasad Bahuguna** (Garhwal Congress (कांग्रेस) stalwart) |
-| **"Uttarakhand Gandhi (उत्तराखंड के गांधी)"** | **Indramani Badoni** (born Akhori, Tehri (टिहरी); fast unto death for Uttarakhand statehood) |
-| **"Charan (चारण)" / Encyclopedia** | **Dr. Shiv Prasad Dabral** (author of 12-volume *Uttarakhand Ka Itihas* (उत्तराखंड का इतिहास), Dugadda) |
-| **"Himalaya (हिमालय) Putra (हिमालय पुत्र)"** | **Pandit Govind Ballabh Pant** (Bharat Ratna (भारत रत्न) 1957; UP's first Chief Minister & Union Home Minister) |
-| **"The Pundit" (Explorer)** | **Pandit Nain Singh Rawat** (cartographer of Tibet/Lhasa; RGS Royal Patron's Medal 1876) |
-| **"Chipko (चिपको) Mata (चिपको माता)"** | **Gaura Devi** (leader of Reni village 1974 forest action) |
-| **First Param Vir Chakra of India**| **Major Somnath (सोमनाथ) Sharma** (4 Kumaon Regiment; posthumously for 1947 Battle of Badgam) |
-| **First Woman on Everest (1984)** | **Bachendri Pal** (born Nakuri village, Uttarkashi (उत्तरकाशी); scaled Everest 23 May 1984) |
-
----
+1. ***The Hills*** (Mussoorie (मसूरी), **1842**), published by **John Mckinnon**, is the first newspaper of Uttarakhand / the north Indian hill belt.
+2. ***Samay Vinod** (समय विनोद)* (Nainital (नैनीताल), **1868**), edited by **Jay Datt Joshi**, is the first Hindi/Urdu vernacular fortnightly of the region.
+3. ***Almora (अल्मोड़ा) Akhbar** (अल्मोड़ा अखबार)* (**1871**) began under the Debating Club with editor **Buddhi Ballabh Pant**; **Badridatt Pandey** edited from **1913**; banned **1918**.
+4. Weekly ***Shakti** (शक्ति)* launched on **15 October 1918 (Vijayadashami (विजयादशमी))** by **Badridatt Pandey** after the Almora Akhbar ban.
+5. ***Garhwali*** (**1905**, Dehradun (देहरादून)) was edited by **Girija Datt Naithani** and **Tara (तारा) Datt Gairola**. ***Garhwal Samachar*** (**1902**, Dugadda) preceded it under Naithani.
+6. ***Karmabhoomi** (कर्मभूमि)* (**1939**, Lansdowne (लैंसडाउन)) was edited by **Bhairav Datt Dhulia** and **Bhakt Darshan**.
+7. ***Yugvani** (युगवाणी)* (**1947**, Dehradun) was edited by **Bhagwati Prasad Panthari** and **Gopeshwar Kothiyal**.
+8. ***Samta** (समता)* (Almora, **1934**) by **Munshi Hari Prasad Tamta** is the first Dalit (दलित) / Shilpkar newspaper of Uttarakhand.
+9. ***Tarun Bharat*** (**1922**, Lansdowne) was linked with **Barrister Mukandi Lal** (लैंसडाउन). ***Swadhin Praja*** (**1930**, Almora) was edited by **Victor Mohan Joshi**.
+10. **Dr. Pitambar Datt Barthwal** earned the first Hindi D.Litt (**1931**) for *The Nirguna (निर्गुण) School of Hindi Poetry*.
+11. **Sumitranandan Pant** (Kausani, Almora) won the first Hindi **Jnanpith (ज्ञानपीठ) (1968)** for ***Chidambara** (चिदंबरा)*.
+12. **"Kumaon (कुमाऊँ) Kesari (कुमाऊँ केसरी)"** is **Badridatt Pandey** (Coolie-Begar **1921**; *Kumaon Ka Itihas* (कुमाऊँ का इतिहास)).
+13. **"Garh Kesari (गढ़ केसरी)"** is **Anusuya Prasad Bahuguna**. **"Uttarakhand Gandhi (उत्तराखंड के गांधी)"** is **Indramani Badoni** (Tehri (टिहरी) statehood fast).
+14. **"Charan (चारण)" / encyclopedia historian** is **Dr. Shiv Prasad Dabral** (*Uttarakhand Ka Itihas* (उत्तराखंड का इतिहास), Dugadda).
+15. **"Himalaya (हिमालय) Putra (हिमालय पुत्र)"** is **Pandit Govind Ballabh Pant** (Bharat Ratna (भारत रत्न) **1957**).
+16. **"The Pundit"** explorer-cartographer is **Pandit Nain Singh Rawat** (RGS Royal Patron’s Medal **1876**).
+17. **"Chipko (चिपको) Mata (चिपको माता)"** is **Gaura Devi** of the Reni forest action (**1974**).
+18. **Major Somnath (सोमनाथ) Sharma** (4 Kumaon) is India’s first **Param Vir Chakra** (Battle of Badgam, **1947**).
+19. **Bachendri Pal** (Nakuri, Uttarkashi (उत्तरकाशी)) was the first Indian woman on Everest (**23 May 1984**).
+20. **Prof. Shekhar Pathak** founded the journal *PAHAR* and wrote *The Chipko Movement*. **Dr. D. D. Sharma** documented Himalayan languages (Padma Shri).
+21. Press chronology spine: Hills **1842** → Samay Vinod **1868** → Almora Akhbar **1871** → Garhwali **1905** → Shakti **1918** → Samta **1934** → Karmabhoomi **1939** → Yugvani **1947**.
+22. Badridatt Pandey links Almora Akhbar, Shakti, Coolie-Begar, and *Kumaon Ka Itihas*. Do not split those tags across unrelated editors.
+23. First newspaper is English *The Hills*. First vernacular is *Samay Vinod*. First Dalit paper is *Samta*.
+24. Pant’s Jnanpith is **1968** for *Chidambara*. Barthwal’s D.Litt is **1931**. Do not swap literary firsts.
+25. Indramani Badoni is Uttarakhand Gandhi of the statehood struggle. Gaura Devi is Chipko Mata of Reni. Keep sobriquets distinct.
+26. Mukandi Lal appears in press (*Tarun Bharat*) and in Garhwal painting rediscovery (*Garhwal Painting*, **1969**).
+27. Sports–gallantry spine for UK: Somnath Sharma (first PVC) and Bachendri Pal (first Indian woman on Everest).
+28. These press, sobriquet, and personality facts are UKPCS Unit 1 / GK heads. They are not national akademi award lists.
 
 ## 1. History of Press & Journalism in Uttarakhand
 

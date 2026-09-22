@@ -51,6 +51,10 @@ Advent of Europeans | Arrival of European Companies | Portuguese in India | Dutc
 32. Portuguese **capitanias** were coastal captaincies under fort captains. A **cartaze** was the sea-pass.
 33. **Farrukhsiyar (फ़र्रुख़)’s farman of 1717** (Magna Carta of Company) gave EIC duty-free trade privileges in Bengal via *dastaks*. It is **not** the **Diwani (दीवानी) of 1765** (दीवानी अधिकार).
 34. **Founders of Cities (Match-the-following list)**: Job Charnock (Calcutta), Francis Day (Madras), Gerald Aungier (Bombay), François Martin (Pondicherry).
+35. **Albuquerque’s policies:** control Goa as capital; choke Hormuz/Malacca sea lanes; break Arab spice middlemen; encourage *casados* (Portuguese–Indian marriages); fortify key ports — conquest of coast, not Deccan interior like Almeida’s Blue Water line.
+36. **Battle of Swally (1612) — Cause/Course/Result:** Portuguese challenge to English Surat trade → **Thomas Best** wins the naval fight → permanent English **Surat factory (1613)** follows; Swally is not the factory founding date.
+37. **EIC charter ladder (not Factory Acts):** original **1600** (Elizabeth I) → renewals through the 17th–18th centuries → **1813** ends India trade monopoly (tea/China kept) → **1833** ends all Company trade → **1853** opens ICS competition — keep this distinct from industrial Factory Acts.
+38. **Arrival vs charter trap:** Dutch ships reach India before permanent English factories, but EIC charter (**1600**) precedes VOC charter (**1602**). **Levant Company (1592)** was a **land-route** charter — not the first sea East India Company.
 
 ---
 

@@ -27,25 +27,49 @@
 
 ---
 
-## Must-Score Facts (High-Yield UKPCS)
+## Consolidated — 28 Must-Score Facts
 
-1. **Airport & Airstrip Catalog (UKPCS 2025 Q103):**
-   - *Jolly Grant Airport:* Dehradun (main commercial terminal).
-   - *Pantnagar Airport:* Udham Singh Nagar (ऊधम सिंह नगर) (Kumaon (कुमाऊँ) gateway).
-   - *Naini Saini Airport:* Pithoragarh.
-   - *Chinyalisaur (Maa Ganga (गंगा)) Airstrip:* Uttarkashi.
-   - *Gauchar Airstrip:* **Chamoli** (not Rudraprayag).
-2. **Silkyara–Barkot Bi-Directional Tunnel:** Length = **4.531 km**; located on NH-134 under the Char Dham project; collapsed in Nov 2023, resulting in the successful 17-day rescue of 41 workers.
-3. **High Mountain Passes (La / Dhura / Darra):**
-   - *Sinla Pass:* Connects Darma and Byans valleys in Pithoragarh.
-   - *Kalindi Pass:* Glaciated alpine pass connecting **Gangotri (Uttarkashi) to Badrinath (बद्रीनाथ) (Chamoli)**.
-   - *Lipulekh Pass:* Pithoragarh to Tibet (tri-junction of India, Nepal, and China).
-   - *Traill's Pass:* Between Pindari (पिंडारी) Glacier (Bageshwar) and Milam (मिलाम) (Pithoragarh).
-4. **Alpine Pastures (Bugyals):**
-   - *Bedni Bugyal:* Chamoli — largest bugyal in the state; Brahma Kamal (ब्रह्मकमल) flourishes here.
-   - *Auli (औली) Bugyal:* Chamoli — international winter skiing destination.
-   - *Dayara Bugyal:* Uttarkashi — site of the traditional butter-throwing folk (लोक) festival (*Anduri Utsav*).
-5. **Seismic Vulnerability:** Uttarakhand lies in **Seismic Zones IV and V** (highest vulnerability to catastrophic earthquakes in the Central Seismic Gap).
+1. **Silkyara–Barkot** bi-directional tunnel is **4.531 km** long on NH-134 under the Char Dham project and shortens the Gangotri–Yamunotri highway distance by more than **20 km**.
+2. Airports / airstrips: **Jolly Grant** (Dehradun), **Pantnagar** (Udham Singh Nagar), **Naini Saini** (Pithoragarh), **Chinyalisaur** (Uttarkashi), **Gauchar** (**Chamoli**).
+3. **Gauchar** is in **Chamoli** — not Rudraprayag (classic airport mismatch).
+4. **Lipulekh Pass** (~5,334 m) links Pithoragarh with Tibet on the Kailash–Mansarovar route (India–Nepal–China tri-junction).
+5. **Mana (Dungri-La)** (~5,608 m) and **Niti** (~5,068 m) link Chamoli with Tibet; Niti closed after the 1962 war.
+6. **Sinla Pass** connects **Darma** and **Byans** valleys inside Pithoragarh (internal inter-valley pass).
+7. **Traill’s Pass** (~5,312 m) links Bageshwar (Pindari) with Pithoragarh (Milam); crossed by G. W. Traill in **1830**.
+8. **Kalindi Pass** (~5,950 m) is a severe glaciated mountaineering pass linking **Gangotri (Uttarkashi)** with **Badrinath (Chamoli)**.
+9. **Shringkanth Pass** connects Uttarkashi with Kinnaur / Himachal Pradesh.
+10. Other Tibet-facing Garhwal–Kumaon passes include Thang-La, Unta Dhura, Chorhoti, and related high *la / dhura* corridors.
+11. **Bugyals** are alpine meadows above the tree-line (about **3,000–4,500 m**); called Bugyal in Garhwal and Payar / Bugyal in Kumaon.
+12. **Bedni Bugyal** (Chamoli) is the **largest** bugyal in the state and lies on the Nanda Devi Raj Jat route; Brahma Kamal flourishes here.
+13. **Auli Bugyal** (Chamoli) is the premier winter skiing destination with a ropeway from Joshimath.
+14. **Dayara Bugyal** (Uttarkashi) hosts the **Anduri Utsav / Butter Festival** on Bhado Sankranti.
+15. **Chopta** (Rudraprayag) is called the “Mini Switzerland of Uttarakhand” and is the base for Tungnath–Chandrashila treks.
+16. State Council for Climate Change (**SCCC**) was established in **2011**; UAPCC drafting belongs to the **Forest & Environment** side — not the Revenue Department.
+17. Uttarakhand lies in **Seismic Zones IV and V** with high vulnerability along the Central Seismic Gap and MBT–MCT belt.
+18. **Uttarkashi earthquake** of **20 October 1991** (~6.6 M) killed over **768** people along the MCT belt.
+19. **Malpa landslide** of **17–18 August 1998** (Pithoragarh, Kali valley) killed about **221**, including Kailash–Mansarovar pilgrims and dancer **Protima Bedi**.
+20. **Chamoli earthquake** of **29 March 1999** (~6.8 M) caused over **100** fatalities around Chamoli / Gopeshwar / Rudraprayag.
+21. **Kedarnath** disaster of **16–17 June 2013** combined cloudburst with **Chaurabari Lake (Gandhi Sarovar)** breach and Mandakini deluge; over **5,700** fatalities and later SDRF strengthening.
+22. **Tapovan / Rishiganga** disaster of **7 February 2021** (Chamoli) was a rock-ice avalanche that destroyed Rishi Ganga hydel and damaged Tapovan-Vishnugad; over **204** dead / missing.
+23. **Joshimath land subsidence** (January 2023) affected wards built on ancient landslide moraine debris and forced large evacuations.
+24. Do not swap **Sinla** (internal Darma–Byans) with **Lipulekh** (international to Tibet).
+25. Do not swap **Dayara** (Butter Festival, Uttarkashi) with **Bedni** (largest bugyal, Chamoli).
+26. Do not swap **Malpa 1998** (landslide / rockfall on Kali) with **Kedarnath 2013** (GLOF / cloudburst on Mandakini).
+27. Silkyara exact length trap distractors are **3.531 km** and **6.531 km** — correct is **4.531 km**.
+28. Char Dham corridor, border roads, and alpine tourism all sit on the same fragile slope–seismic hazard map.
+
+---
+
+## Confused Pairs & Common Traps
+
+| Confused Pair | Critical Distinction |
+| :--- | :--- |
+| **Gauchar vs Rudraprayag** | Gauchar airstrip is in **Chamoli** district (trap distractor: Rudraprayag). |
+| **Silkyara Length** | Exact length is **4.531 km** (trap distractors: 3.531 km, 6.531 km). |
+| **Sinla Pass vs Lipulekh Pass** | Sinla Pass = **internal pass** connecting Darma and Byans valleys; Lipulekh = **international pass** to Tibet. |
+| **Dayara Bugyal vs Bedni Bugyal** | Dayara = **Butter Festival / Anduri Utsav** (Uttarkashi); Bedni = **largest bugyal / Brahma Kamal** (Chamoli). |
+| **Malpa (1998) vs Kedarnath (2013)** | Malpa = **Landslide / rockfall** on Kali river (Protima Bedi); Kedarnath = **GLOF / cloudburst** on Mandakini. |
+| **SCCC Year & Department** | SCCC was created in **2011**; UAPCC is managed by the **Forest & Environment Department** (NOT Revenue Dept). |
 
 ---
 
@@ -104,19 +128,6 @@ Uttarakhand's geologically active mountain slopes, fragile tectonic faults (Main
 | **16–17 June 2013** | **Kedarnath Cloudburst & GLOF (Mandakini Deluge)** | Massive multi-day torrential rains coupled with the sudden breach of **Chaurabari Lake (Gandhi (गांधी) Sarovar)** sent a gigantic wall of mud and boulders down the Mandakini river. Devastated Kedarnath temple township, Rambara, Gaurikund, and Sonprayag. Over **5,700 fatalities**; largest Himalayan disaster of modern times. Led to establishment of State Disaster Response Force (SDRF). |
 | **7 February 2021** | **Chamoli / Tapovan Flash Flood (GLOF & Rockslide)** | A massive hanging glacier and rock mass collapsed from the **Rongti / Nanda Ghunti peak**, creating a colossal flash flood in the Rishi Ganga and Dhauli (धौली) Ganga rivers. Completely destroyed the **Rishi Ganga Hydel Project (13.2 MW)** and severely damaged NTPC’s **Tapovan-Vishnugad Project (520 MW)**. Over **204 dead/missing** workers trapped inside tunnels. |
 | **January 2023** | **Joshimath Land Subsidence** | Severe land sinking, foundational shifting, and deep wall fissures appeared across 9 municipal wards of Joshimath, built upon ancient landslide moraine debris. Hundreds of families evacuated. |
-
----
-
-## Confused Pairs & Common Traps
-
-| Confused Pair | Critical Distinction |
-| :--- | :--- |
-| **Gauchar vs Rudraprayag** | Gauchar airstrip is in **Chamoli** district (trap distractor: Rudraprayag). |
-| **Silkyara Length** | Exact length is **4.531 km** (trap distractors: 3.531 km, 6.531 km). |
-| **Sinla Pass vs Lipulekh Pass** | Sinla Pass = **internal pass** connecting Darma and Byans valleys; Lipulekh = **international pass** to Tibet. |
-| **Dayara Bugyal vs Bedni Bugyal** | Dayara = **Butter Festival / Anduri Utsav** (Uttarkashi); Bedni = **largest bugyal / Brahma Kamal** (Chamoli). |
-| **Malpa (1998) vs Kedarnath (2013)** | Malpa = **Landslide / rockfall** on Kali river (Protima Bedi); Kedarnath = **GLOF / cloudburst** on Mandakini. |
-| **SCCC Year & Department** | SCCC was created in **2011**; UAPCC is managed by the **Forest & Environment Department** (NOT Revenue Dept). |
 
 ---
 

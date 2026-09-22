@@ -32,7 +32,7 @@ Oceans & Seas | Ocean Floor | Trenches | Ocean Currents (Warm & Cold) | Temperat
 ---
 
 
-## Consolidated — 34 Must-Score Facts
+## Consolidated — 36 Must-Score Facts
 
 1. By area the oceans rank **Pacific > Atlantic > Indian > Southern > Arctic**. The Indian Ocean was the Greek **Erythraean Sea** and straddles **both sides of the Equator**.
 2. Ocean-floor order from the shore is **shelf → slope → rise (or trench) → abyssal plain**. A **guyot** is a flat-topped seamount. The continental shelf is shallow (about **200 m**), rich in fish and oil, and covers roughly **7.5%** of the ocean floor.
@@ -68,6 +68,10 @@ Oceans & Seas | Ocean Floor | Trenches | Ocean Currents (Warm & Cold) | Temperat
 32. Lake salinity pairs: Assal / Van / Dead Sea / Great Salt (लवणाध्यक्ष) Lake. **Halocline** = salinity gradient with depth. **Diamantina** = Indian Ocean.
 33. Türkiye clock: **N = Black**, **S = Mediterranean**, **W = Aegean**, **NW = Marmara**. West→east ladder: **Mediterranean → Black → Caspian → Aral** (“My Black Cat Ate”).
 34. **Gaza** faces the **Mediterranean**. Baltic coasts = Denmark, Germany, Poland, Lithuania, Latvia, Estonia, Russia, Finland, Sweden — **not Norway**. **Jordan** has no Mediterranean coast (only **Aqaba** / Red Sea).
+
+---
+35. Warm currents raise coastal temperature and humidity; cold currents cool and dry coasts and help west-coast deserts. Fog is common where warm and cold currents meet.
+36. Coral needs warm clear shallow water; bleaching pairs with about **2°C** sea-surface warming. India’s reef facts: Andaman & Nicobar, Lakshadweep, Gulf of Mannar, Gulf of Kachchh.
 
 ---
 
@@ -123,8 +127,6 @@ Oceans & Seas | Ocean Floor | Trenches | Ocean Currents (Warm & Cold) | Temperat
 | Persian Gulf coast | **Not Oman** | Oman inside Gulf | फारस की खाड़ी |
 | Syria sea | **Mediterranean** | Black Sea | सीरिया |
 | Gaza water | **Mediterranean** | Red / Dead Sea as coast | गाजा |
-
----
 
 ---
 

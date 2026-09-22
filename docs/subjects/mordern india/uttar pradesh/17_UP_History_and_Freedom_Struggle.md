@@ -5,28 +5,36 @@
 
 ---
 
-## Consolidated — 20 Must-Score Facts (UP History)
+## Consolidated — 28 Must-Score Facts (UP History)
 
-1. **8 Mahajanapadas in UP:** Exactly **8 out of the 16 Mahajanapadas** were located within modern Uttar Pradesh: **Kashi (काशी), Kosala (कोसल), Vatsa (वत्स), Malla, Chedi, Shurasena, Kuru, and Panchala (पांचाल)**.
-2. **Sarnath (सारनाथ) (Isipatana):** Lord Buddha (बुद्ध) delivered his **First Sermon** (धर्मचक्रप्रवर्तन) (*Dhammachakkappavattana*) to the five ascetics (*Pancha-vaggiya*) at Deer Park, Sarnath near Varanasi (वाराणसी).
-3. **Shravasti (Jetavana):** Lord Buddha spent the **maximum number of rainy retreats / Varshavas (25 seasons)** and delivered the greatest number of sermons at Shravasti, capital of Kosala.
-4. **Kushinagar (कुशीनगर) (Kusinara):** Lord Buddha attained **Mahaparinirvana** (महापरिनिर्वाण) at the age of 80 in 483 BCE (निर्वाण) on the banks of the Hiranyavati river in the Malla republic; cremated at Ramabhar Stupa (स्तूप).
-5. **Prayag (प्रयाग) Prashasti (Allahabad (इलाहाबाद) Pillar (इलाहाबाद स्तंभ)):** Composed in Sanskrit *Champu* style by court poet **Harishena**; inscribed on an Ashokan pillar recording the military conquests (*Digvijaya*) of **Samudragupta** (समुद्रगुप्त).
-6. **Sohgaura (सोहगौरा) Copper Plate (Gorakhpur (गोरखपुर)):** Pre-Ashokan Mauryan Prakrit (प्राकृत) inscription in Brahmi (ब्राह्मी) script (लिपि); oldest epigraphic record in India mentioning state grain storehouses for **famine relief**.
-7. **Bhitari Pillar Inscription (Ghazipur):** Records the military triumphs of Gupta (गुप्त) emperor **Skandagupta** (स्कंदगुप्त), particularly his decisive repulse of the invading **Hunas**.
-8. **Agra Founded by Sikandar Lodi (सिकंदर) (1504):** Founded in **1504**; made the imperial Sultanate capital in **1506**.
-9. **Jaunpur (जौनपुर) ("Shiraz-e-Hind"):** Founded in 1359 by Firoz Shah (फ़िरोज़ शाह) Tughlaq (फिरोज शाह तुगलक) in memory of his cousin Jauna Khan (Muhammad bin Tughlaq (मुहम्मद बिन तुगलक)). Capital of the **Sharqi (शर्की) Dynasty** (Malik Sarwar 1394; Atala Masjid (अटाला मस्जिद) completed 1408 by Ibrahim (इब्राहिम) Shah Sharqi).
-10. **Awadh (अवध) Nawabi Dynasty:** Founded by **Saadat Khan (सादात खान) Burhan-ul-Mulk** in 1722. Capital shifted from **Faizabad to Lucknow (लखनऊ) in 1775** by **Asaf-ud-Daula** (आसफउद्दौला) (builder of Bara Imambara).
-11. **Annexation of Awadh (अवध अधिग्रहण) (1856):** Nawab **Wajid Ali Shah** (वाजिद अली शाह) was deposed and Awadh annexed by Lord Dalhousie (डलहौज़ी) on **13 February 1856** on grounds of alleged maladministration (*Outram Report*).
-12. **1857 Spark at Meerut (मेरठ):** The sepoys of the **3rd Native Cavalry at Meerut** mutinied on **10 May 1857**, marching to Delhi.
-13. **1857 Revolt Centres & Leaders:** Lucknow = Begum Hazrat Mahal (बेगम हज़रत महल); Kanpur (कानपुर) = Nana Saheb & Tatya Tope; Jhansi (झांसी) = Rani Lakshmibai (रानी लक्ष्मीबाई); Allahabad = Maulvi Liaquat Ali (लियाक़त अली); Bareilly = Khan Bahadur Khan (खान बहादुर खान); Faizabad = Maulvi Ahmadullah Shah (अहमदुल्लाह शाह).
-14. **9 INC Sessions in UP:** Allahabad hosted 3 (1888, 1892, 1910); Lucknow hosted 3 (1899, 1916, 1936); Banaras (1905); Kanpur (1925 — Sarojini Naidu, 1st Indian woman); Meerut (1946 — J. B. Kripalani).
-15. **Lucknow Pact (लखनऊ पैक्ट) (1916):** Presided over by **Ambica Charan (चारण) Majumdar**; joint agreement between INC and Muslim League; reunion of Moderates and Extremists.
-16. **Oudh Kisan Sabha (सभा) (1920):** Formed at **Pratapgarh** in October 1920 under **Baba Ramchandra** (बाबा रामचंद्र), who mobilized peasants using the *Ramcharitmanas* (रामचरितमानस).
-17. **Eka (एका) Movement (1921–22):** Peasant resistance in **Hardoi, Bahraich, Sitapur** led by **Madari Pasi** against illegal cesses (*Abwabs*) and forced labour (*Begar* (बेगार)).
-18. **Chauri-Chaura Incident:** Occurred on **4 February 1922** at Gorakhpur; 22 policemen burnt alive; Gandhi (गांधी) called off Non-Cooperation (असहयोग) on **12 February 1922 (Bardoli (बारडोली) resolution)**.
-19. **Kakori Train Action (9 August 1925):** Executions in Dec 1927: **Bismil (Gorakhpur Jail)**, **Ashfaqulla Khan (Faizabad Jail)**, **Roshan Singh (Naini Jail)**, **Rajendra Lahiri (Gonda Jail)**.
-20. **Ballia Parallel Government (1942):** Established in August 1942 during Quit India (भारत छोड़ो) Movement under **Chittu Pandey** (*"Sher-e-Ballia"*); first parallel government in India.
+1. **8 Mahajanapadas in UP:** Exactly **8 out of the 16 Mahajanapadas** were located within modern Uttar Pradesh: **Kashi, Kosala, Vatsa, Malla, Chedi, Shurasena, Kuru, and Panchala**.
+2. **Sarnath (Isipatana):** Buddha’s **First Sermon** (*Dhammachakkappavattana*) to the five ascetics at Deer Park near Varanasi.
+3. **Shravasti (Jetavana):** Buddha spent the **maximum Varshavas (25 seasons)** and delivered the greatest number of sermons here (Kosala capital).
+4. **Kushinagar (Kusinara):** Buddha attained **Mahaparinirvana** (age 80, traditionally **483 BCE**) on the Hiranyavati; cremated at **Ramabhar Stupa**.
+5. **Prayag Prashasti (Allahabad Pillar):** **Harishena**’s Sanskrit Champu on an Ashokan pillar recording **Samudragupta**’s Digvijaya.
+6. **Sohgaura Copper Plate (Gorakhpur):** Pre-Ashokan Mauryan Prakrit/Brahmi record of state **famine grain storehouses**.
+7. **Bhitari Pillar (Ghazipur):** Records **Skandagupta**’s triumphs, especially against the **Hunas**.
+8. **Agra** founded by **Sikandar Lodi (1504)**; imperial capital from **1506**.
+9. **Jaunpur (“Shiraz-e-Hind”):** Founded **1359** by Firoz Shah Tughlaq; **Sharqi** capital (Malik Sarwar **1394**; Atala Masjid **1408** under Ibrahim Shah Sharqi).
+10. **Awadh Nawabi:** Founded by **Saadat Khan Burhan-ul-Mulk (1722)**; capital **Faizabad → Lucknow in 1775** under **Asaf-ud-Daula** (Bara Imambara).
+11. **Awadh annexation (13 Feb 1856):** **Wajid Ali Shah** deposed; Dalhousie annexes on Outram’s **misrule** report — not Lapse.
+12. **1857 spark:** **3rd Native Cavalry, Meerut, 10 May 1857**, then march to Delhi.
+13. **1857 UP centres:** Lucknow = Begum Hazrat Mahal; Kanpur = Nana Sahib & Tantia Tope; Jhansi = Rani Lakshmibai; Allahabad = Maulvi Liaquat Ali; Bareilly = Khan Bahadur Khan; Faizabad = Maulvi Ahmadullah Shah.
+14. **9 INC sessions in UP:** Allahabad **3** (1888, 1892, 1910); Lucknow **3** (1899, 1916, 1936); Banaras (**1905**, Gokhale); Kanpur (**1925**, Sarojini Naidu, first Indian woman President); Meerut (**1946**, J.B. Kripalani).
+15. **Lucknow Pact (1916):** President **A.C. Majumdar**; INC–League deal + Moderate–Extremist reunion.
+16. **UP Kisan Sabha (Feb 1918):** Indra Narayan Dwivedi / Gauri Shankar Mishra / Malaviya circle — **not** Baba Ramchandra.
+17. **Oudh Kisan Sabha (Oct 1920, Pratapgarh):** **Baba Ramchandra** mobilised peasants with the *Ramcharitmanas*.
+18. **Eka Movement (1921–22):** Hardoi–Bahraich–Sitapur under **Madari Pasi** against *abwabs* and *begar*.
+19. **Chauri Chaura (4 Feb 1922, Gorakhpur):** 22 policemen burnt; Gandhi withdraws NCM (**12 Feb 1922**, Bardoli resolution).
+20. **Kakori (9 Aug 1925):** Executions Dec **1927** — **Bismil (Gorakhpur Jail)**, **Ashfaqulla (Faizabad)**, **Roshan Singh (Naini)**, **Rajendra Lahiri (Gonda)**.
+21. **Ballia parallel government (Aug 1942):** **Chittu Pandey** (“Sher-e-Ballia”) — first parallel government memory of Quit India.
+22. **Banaras 1905** is Gokhale’s Moderate presidency on the Partition eve — do not place Tilak as INC President there (Tilak **never** President).
+23. **Allahabad Proclamation (1 Nov 1858)** under Canning starts Crown rule — Queen’s Proclamation reading place.
+24. **Cornwallis tomb at Ghazipur** and **Warren Hastings–Chait Singh (Banaras 1781)** are Company-era UP tags, not 1857 centres.
+25. Do not swap **Sarnath (First Sermon)** with **Shravasti (most sermons)** or **Kushinagar (Mahaparinirvana)**.
+26. Do not swap **Kakori jail places** (Bismil/Ashfaq/Roshan/Lahiri) or **Faizabad Ahmadullah** with **Allahabad Liaquat Ali**.
+27. Do not swap **UP Kisan Sabha 1918** with **Oudh Kisan Sabha 1920**.
+28. Hold the UP freedom map: 1857 centres → INC UP sessions → Kisan/Eka → Chauri Chaura → Kakori → Ballia 1942.
 
 ---
 

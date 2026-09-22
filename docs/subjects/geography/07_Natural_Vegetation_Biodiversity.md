@@ -43,7 +43,7 @@ Lakes-as-wetlands. This file keeps the **geography** facts.
 9. Evergreen forests of the Western Ghats, north-east, and Andamans are multilayered with rosewood, mahogany, and ebony and do **not** shed all leaves in one dry season. Moist deciduous forests (teak, sal, shisham, sandalwood) shed in the dry season and cover the **largest** area.
 10. Thorn / scrub of Rajasthan, Gujarat, and rain-shadow tracts holds acacia, babool, ber, and khair (xerophytes). Littoral / mangrove forests of deltas hold **sundari** and **pneumatophores** (वात-मूल) and buffer storms.
 11. World vegetation match: **Maquis** = Mediterranean; **Fynbos** = South Africa; **Chaparral** = California; **Matorral** = Chile. Epiphytes peak in equatorial forest; acacia in Sahara; baobab in savanna (सवाना); cedars in Mediterranean.
-12. Latest Forest Cover (ISFR 2023 / benchmark for 2025–2026 exams) stands at **21.76%** of India's TGA (Total Forest + Tree Cover = **25.17%**). Top state by forest area is **Madhya Pradesh**; top state by combined green cover gain is **Chhattisgarh**, followed by **Uttar Pradesh (#2 gainer, +559 sq km)**. **Forest cover is not the same as Recorded Forest Area**. National Forest Policy 1988 aims at about **33%**.
+12. Latest Forest Cover (ISFR 2023 / teaching benchmark for 2025–2026) stands at **21.76%** of India's TGA (Total Forest + Tree Cover = **25.17%**). Top state by forest area is **Madhya Pradesh**; top state by combined green cover gain is **Chhattisgarh**, followed by **Uttar Pradesh (#2 gainer, +559 sq km)**. **Forest cover is not the same as Recorded Forest Area**. National Forest Policy 1988 aims at about **33%**.
 13. Uttar Pradesh (उत्तर प्रदेश) latest forest cover is **6.24%** of geographical area (Total Forest + Tree Cover = **9.96%**). In UP, districts above 20% forest cover include **Chandauli (~21.6%) and Shravasti (~20.9%)**, not Bahraich (~10.1%). Jaunpur (जौनपुर)–Ghazipur–Ballia have near-nil forest land, yet Ballia holds **Surha Tal** Ramsar. Uttarakhand (उत्तराखंड) forest cover stands at **45.44%** of geographical area (legal RFA is ~**71%**); top forest area is **Pauri Garhwal**, top % is **Nainital**, and lowest is **Udham Singh Nagar**.
 14. National Parks are stricter than Wildlife Sanctuaries. Biosphere Reserves have **core + buffer + transition**. India has **18** biosphere reserves; **Nilgiri (1986)** was the first.
 15. **In-situ** (स्थान पर) conservation = National Park, Sanctuary, Biosphere Reserve (जैवमंडल आरक्षित क्षेत्र), sacred grove. **Ex-situ** (स्थानांतरित) = zoo, botanical garden (वनस्पति उद्यान), seed bank (बीज बैंक). A botanical garden is **not** in-situ.
@@ -70,7 +70,6 @@ Lakes-as-wetlands. This file keeps the **geography** facts.
 36. **Mahogany** is **not** a Himalayan species (tropical American origin / Indian evergreen belts). Himalayan set = juniper, silver (रूपक) fir, spruce, deodar, birch.
 
 ---
-
 ## Confused Pairs
 
 | Pair | Correct | Trap | Hindi |
@@ -107,8 +106,6 @@ Lakes-as-wetlands. This file keeps the **geography** facts.
 | Vembanad mangrove | **Kerala** | Karnataka | वेम्बनाड = केरल |
 | Mahogany belt | Tropical evergreen (not Himalaya) | Call it Himalayan with fir/spruce | महोगनी ≠ हिमालय |
 | Khejri vs Dhak | Khejri = desert social forestry; Dhak/Palash = flame of forest | Swap uses | खेजड़ी ≠ पलाश |
-
----
 
 ---
 

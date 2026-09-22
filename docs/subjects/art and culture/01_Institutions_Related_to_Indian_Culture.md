@@ -23,7 +23,7 @@ Indological Studies | Gurukul System | Ancient Indian Education System | Nalanda
 ---.
 
 
-## Consolidated Must-Score Facts
+## Consolidated — 34 Must-Score Facts
 
 1. The **Asiatic Society of Bengal** was founded in **1784** at Calcutta by **Sir William Jones. Warren Hastings** declined the Presidentship in Jones’s favour.
 2. **Fort William College** was set up in **1800** by **Lord Wellesley** to train Company officers in Indian languages.
@@ -31,24 +31,34 @@ Indological Studies | Gurukul System | Ancient Indian Education System | Nalanda
 4. The **Bhandarkar Oriental Research Institute** at Pune was founded in **1917** and is known for critical editions such as the Mahabharata.
 5. A **gurukul** (गुरुकुल) is a residential guru–shishya school. **Guru dakshina** (गुरु दक्षिणा) is an end-of-study offering, not a monthly fee.
 6. Classical learning counted **18 Vidyas** and **64 Kalas**. The ashrama order is **Brahmacharya** (ब्रह्मचर्य) → **Grihastha** (गृहस्थ) → **Vanaprastha** (वानप्रस्थ) → **Sannyasa** (संन्यास).
-7. **Kangri Gurukul** at Haridwar was founded in **1902** in the Dayananda / Arya Samaj line.
+7. **Kangri Gurukul** at Haridwar was founded in **1902** by **Swami Shraddhanand** in the Dayananda / Arya Samaj line.
 8. **Nalanda** (नालंदा) mahavihara in Bihar flourished under Pala patronage. **Hiuen Tsang** (ह्वेनसांग) studied there. It was destroyed around **1193** by Bakhtiyar Khilji. The ruins are UNESCO **2016** under the **ASI**.
 9. The **new Nalanda University** is under the **MEA** by the Act of **2010**, with campus at **Rajgir**. It is not a Culture Ministry body.
 10. **Taxila (Takshashila)** lay in Gandhara, now in **Pakistan**. It was a multi-teacher city linked with **Panini** (पाणिनि) and **Chanakya** (चाणक्य), and is UNESCO **1980**.
 11. **Vikramashila** (विक्रमशिला) at Bhagalpur was founded by Pala **Dharmapala. Atisha** taught there. It fell around **1203** to Khilji and is **not** a separate World Heritage site.
 12. The **Indian Museum**, Kolkata (**1814**) is India’s oldest museum. The **National Museum**, Delhi dates to **1949**.
-13. The **Archaeological Survey of India** was founded in **1861** under **Alexander Cunningham**. The **National Archives of India** began in **1891**.
-14. **Sangeet Natak Akademi** (संगीत नाटक अकादेमी) (**1952**) covers performing arts. **Sahitya Akademi** and **Lalit Kala Akademi** (ललित कला अकादेमी) both date to **1954** for literature and visual arts.
-15. **Sahitya Akademi** awards in **24** languages. **Jnanpith** (ज्ञानपीठ) (**1965**) is a Bharatiya Jnanpith trust prize, not a Sahitya Akademi award.
-16. **IGNCA** (Indira Gandhi National Centre for the Arts) and the **Ministry of Culture** date to **1985**. **CCRT** (Centre for Cultural Resources and Training) began in **1979**. **NGMA** (राष्ट्रीय आधुनिक कला गैलरी) (National Gallery of Modern Art) also dates to **1954**.
-17. **ICCR** (Indian Council for Cultural Relations, **1950**) belongs to the **MEA** (Ministry of External Affairs), not the Culture Ministry.
-18. Important museums in Uttar Pradesh include the **Allahabad Museum** (Prayagraj, founded in **1931**), the State Museum at Lucknow, the Government Museum at Jhansi, and the **Sarnath** (सारनाथ) ASI site museum.
-19. ASI circles for key UP monuments run through **Lucknow** (लखनऊ) and **Agra** (आगरा), covering Sarnath, Kushinagar, Taj, and Fatehpur Sikri.
-20. IVC sites in UP include **Alamgirpur** (आलमगीरपुर), **Mandi** (मंडी), and **Hulas. Rakhigarhi** is in Haryana, not UP.
-21. The North Central Zonal Cultural Centre HQ is at **Prayagraj** (प्रयागराज). Lalit Kala has a regional centre at **Lucknow**. IGNCA has a regional centre at **Varanasi** (वाराणसी).
-22. **HRIDAY** (**2015**) includes **Varanasi. PRASAD** is a **Tourism** ministry scheme, not Culture.
-23. The **National Culture Fund** began in **1996. Ek Bharat Shreshtha Bharat** began in **2015**.
-24. The **National Mission for Manuscripts** (**2003**) was restructured as **Gyan Bharatam** for **2024–31**.
+13. Landmark museums outside Delhi–Kolkata include **Salar Jung** (Hyderabad, **1951**), **Victoria Memorial** (Kolkata, **1921**), **CSMVS / Prince of Wales** (Mumbai, **1922**), and the **Calico Museum of Textiles** (Ahmedabad, **1949**).
+14. The **Archaeological Survey of India** was founded in **1861** under **Alexander Cunningham**. The **National Archives of India** began in **1891**.
+15. Monument protection runs under the **AMASR Act 1958** (amended **2010**). The **National Monument Authority** regulates a **100 m** prohibited zone and a **200 m** regulated zone around centrally protected monuments.
+16. **Sangeet Natak Akademi** (संगीत नाटक अकादेमी) (**1952**) covers performing arts. **Sahitya Akademi** and **Lalit Kala Akademi** (ललित कला अकादेमी) both date to **1954** for literature and visual arts.
+17. **Sahitya Akademi** awards in **24** languages. **Jnanpith** (ज्ञानपीठ) (**1965**) is a Bharatiya Jnanpith trust prize, not a Sahitya Akademi award.
+18. **IGNCA** and the **Ministry of Culture** date to **1985**. **CCRT** began in **1979**. **NGMA** dates to **1954**. The **National School of Drama (NSD)** was founded in **1959** at New Delhi.
+19. **Kalakshetra** at Chennai, founded by **Rukmini Devi Arundale**, is the premier Bharatanatyam and arts academy. **INTACH** (**1984**) is an **NGO** for heritage conservation, not a Culture ministry akademi.
+20. **ICCR** (Indian Council for Cultural Relations, **1950**) belongs to the **MEA**, not the Culture Ministry.
+21. India has **seven Zonal Cultural Centres** (about **1985–87**) under Culture for folk and tribal promotion. The **North Central ZCC** headquarters is at **Prayagraj** (प्रयागराज).
+22. Important museums in Uttar Pradesh include the **Allahabad Museum** (Prayagraj, **1931**), the State Museum at Lucknow, the Government Museum at Jhansi, and the **Sarnath** (सारनाथ) ASI site museum.
+23. ASI circles for key UP monuments run through **Lucknow** (लखनऊ) and **Agra** (आगरा), covering Sarnath, Kushinagar, Taj, and Fatehpur Sikri.
+24. IVC sites in UP include **Alamgirpur** (आलमगीरपुर), **Mandi** (मंडी), and **Hulas. Rakhigarhi** is in Haryana, not UP.
+25. Lalit Kala has a regional centre at **Lucknow**. IGNCA has a regional centre at **Varanasi** (वाराणसी). **Bhartendu Natya Academy** (Lucknow, **1975**) trains theatre on an NSD-style model.
+26. **HRIDAY** (**2015**) includes **Varanasi. PRASAD** is a **Tourism** ministry scheme, not Culture.
+27. The **National Culture Fund** began in **1996. Ek Bharat Shreshtha Bharat** began in **2015**.
+28. The **National Mission for Manuscripts** (**2003**) was restructured as **Gyan Bharatam** for **2024–31**.
+29. **Odantapuri** and **Somapura** (Paharpur, Bangladesh) are Pala-age Buddhist centres often paired with Nalanda and Vikramashila; Somapura is UNESCO, not a UP site.
+30. The **Raja Rammohun Roy Library Foundation** (Kolkata) and the **National Library** (Kolkata) anchor national library policy under Culture, distinct from the akademis.
+31. **Chhatrapati Shivaji Maharaj Vastu Sangrahalaya (CSMVS)** is Mumbai’s former Prince of Wales Museum. Do not place Salar Jung in Delhi or Mumbai.
+32. Site museums such as **Sarnath** and **Kushinagar** are ASI excavation museums. They are not the same as the National Museum, Delhi.
+33. **ICCR** does cultural diplomacy abroad. The seven **ZCCs** do regional folk outreach inside India. Do not swap MEA vs Culture parentage.
+34. Protected-monument status under AMASR is national legal protection. UNESCO World Heritage listing is a separate international inscription.
 
 ---
 

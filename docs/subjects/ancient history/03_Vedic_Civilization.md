@@ -15,7 +15,7 @@ Vedic Period | Rigvedic Society | Later Vedic Society | Vedic Administration | R
 
 ---
 
-## Consolidated — 34 Must-Score Facts
+## Consolidated — 42 Must-Score Facts
 
 1. The **Early / Rigvedic** age is about **1500–1000 BCE** in the **Sapta Sindhu** (Punjab) belt. Its economy type is **pastoral**.
 2. The **Later Vedic** age is about **1000–600 BCE** in the **Ganga–Yamuna doab**, including much of western–central Uttar Pradesh. Its economy type is **agrarian**, with iron and **PGW**.
@@ -51,6 +51,14 @@ Vedic Period | Rigvedic Society | Later Vedic Society | Vedic Administration | R
 32. **Sindhu** is named most often in the Rigveda; **Saraswati** is the most sacred (*Naditama / Devitama / Matetama* / नदीतमा, देवितमा, मातेतमा). Afghanistan rivers in the hymns include **Kubha, Krumu, Gomati, Suvastu**.
 33. **Gayatri** (RV III.62.10, Vishvamitra → Savitr); **Satyameva Jayate** (*Mundaka*); **Tamaso mā jyotir gamaya** (*Brihadaranyaka*); Nachiketa–Yama (*Katha*).
 34. **Boghaz-köi** (Hittite / Asia Minor) names **Indra, Varuna, Mitra, Nasatya**. Cow is **aghanya** (अघन्या - not to be killed). **Dasharajna** (दशराज्ञ युद्ध) was fought on the **Parushni** (परुष्णी / रावी).
+35. Later Vedic kings advertise power through **Rajasuya** (consecration), **Ashvamedha** (horse sacrifice / territory claim), and **Vajapeya**. **Ashvamedha** is treated in the **Shatapatha Brahmana**; **Rajasuya** in the **Aitareya Brahmana**.
+36. Four **ashramas** (Brahmacharya → Grihastha → Vanaprastha → Sannyasa) and four **purusharthas** (Dharma, Artha, Kama, Moksha) are systematized in the Later / post-Vedic horizon.
+37. Core Vedic officers: **purohita** (priest-adviser), **senani** (army), **gramani** (village head). Later Vedic **ratnins** expand the jewel-officer household around the king.
+38. Early Vedic staple grain is **yava** (barley). Later crop vocabulary adds **vrihi** (rice), **godhuma** (wheat), **mudga**, and **ikshu**. Wealth is still counted in **cows**.
+39. The **Purusha Sukta** (Rigveda **X.90**, late Mandala X) names the four **varnas**; **Shudra** appears clearly here. It is **not** the oldest hymn of the Rigveda.
+40. Kinship terms **kula / vamsha / gotra** are not the same as **kosha** (treasury). **Gotra** is clan identity; **kosha** is the store.
+41. **Sama Veda** is chant / melody drawn largely from Rigvedic verses. **Yajurveda** is the ritual-formula Veda (White / Black schools). **Atharvaveda** is charms and household rites.
+42. **Aitareya** and **Shatapatha** are key **Brahmana** texts. **Brihadaranyaka** and **Chandogya** are major early **Upanishads**. **Mundaka** gives *Satyameva Jayate*.
 
 ---
 

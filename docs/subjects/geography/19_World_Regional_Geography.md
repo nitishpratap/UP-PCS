@@ -28,7 +28,7 @@ None mandatory — static political-map chapter.
 ---
 
 
-## Consolidated — 28 Must-Score Facts
+## Consolidated — 33 Must-Score Facts
 
 1. Continent area order: **Asia > Africa > North America > South America > Antarctica > Europe > Australia/Oceania**.
 2. The **Nobi** and **Kanto** plains are in **Japan**, not Korea.
@@ -59,6 +59,12 @@ None mandatory — static political-map chapter.
 27. Boundary parallels: **38th** ≈ Koreas; **49th** ≈ Canada–USA.
 28. South Asia map: Nepal and Bhutan are landlocked; Maldives and Sri Lanka are islands; **Kabul** is Afghanistan’s capital. The Caucasus trio is Georgia–Armenia–Azerbaijan; Istanbul is not Turkey’s capital.
 29. **Esperanto** is an artificial world auxiliary language. **Tamil** is an official language of **Singapore**. Spanish is official in Chile/Colombia/Cuba — **not** Congo. **Bahasa** = Indonesia (not Thailand). Mandarin leads classic L-1 speaker counts; English often leads total L-1+L-2.
+
+---
+30. Great Lakes west→east: **Superior → Michigan → Huron → Erie → Ontario**. The St Lawrence is the seaway outlet.
+31. Maghreb = Morocco–Algeria–Tunisia (sometimes Libya in wider use). Sahel is the semi-arid belt south of the Sahara — not the same as Maghreb.
+32. USA–Canada land border roughly follows the **49th parallel** in the west. Alaska is USA; Greenland is Denmark politically / North America geographically.
+33. East Asia flash cards: Japan’s **Honshu** is the main island; Korea split near the **38th parallel**; China’s capital is **Beijing** (not Shanghai).
 
 ---
 
@@ -98,8 +104,6 @@ None mandatory — static political-map chapter.
 | Double landlocked | **Uzbekistan** / Liechtenstein | Any coastal state | दोहरा स्थलरुद्ध |
 | 38th vs 49th parallel | Korea DMZ vs Canada–USA | Swapped | 38° / 49° |
 | Capital ≠ mega-city | Ankara / Canberra / Brasília / Abu Dhabi | Istanbul / Sydney / Rio / Dubai | राजधानी |
-
----
 
 ---
 

@@ -26,7 +26,7 @@ Environment – Meaning | Environmental Components | Classification of Environme
 ---
 
 
-## Consolidated — 29 Must-Score Facts
+## Consolidated — 31 Must-Score Facts
 
 1. Environment means the sum of **biotic and abiotic** factors that affect living organisms. Notes do not treat “only physical” or “only living” as the full definition.
 2. The four (चातुर्याम) spheres are **lithosphere, hydrosphere, atmosphere, and biosphere**. Biosphere roughly spans from about **200 m below soil** to about **6 km** above sea level.
@@ -57,6 +57,8 @@ Environment – Meaning | Environmental Components | Classification of Environme
 27. Natural versus anthropogenic, terrestrial versus aquatic, and internal versus external are further common classification axes.
 28. Micro-, meso-, and macro-scales describe environment size from a pond edge to a region or the globe. Competitive papers usually default to the **natural/physical** sense of environment.
 29. Agenda 21 belongs to **Rio 1992**, not 1995. Mixing Brundtland 1987 with Agenda 21’s year is a common trap.
+30. **Carrying capacity** is the maximum load an environment can sustain indefinitely. Resource extraction must stay **below** regeneration, and waste must stay **within** absorption capacity — not the reverse.
+31. **Ecological footprint** (पारिस्थितिक पदचिह्न) measures the land/water area needed to support consumption, in **global hectares (gha)**.
 
 ---
 

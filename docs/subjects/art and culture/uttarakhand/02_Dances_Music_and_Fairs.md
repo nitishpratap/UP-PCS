@@ -7,6 +7,39 @@
 
 ---
 
+## Consolidated — 30 Must-Score Facts
+
+1. State animal of Uttarakhand is the **Alpine Musk Deer** (*Moschus chrysogaster* / Kasturi Mriga).
+2. State bird is the **Himalayan Monal** (*Lophophorus impejanus* / Danfe). State tree is **Buransh** (बुरांश) (*Rhododendron arboreum*).
+3. State flower is **Brahma Kamal** (ब्रह्मकमल) (*Saussurea obvallata* / *Kaul Padma*). State butterfly is the **Common Peacock** (*Papilio bianor*, **2016**).
+4. State musical instruments are **Dhol and Damau**, notified in **2015**. State song (सोंग) (**2016**) is *"Uttarakhand Devbhumi Matribhumi"* (lyrics Hemant Bisht; music Narendra Singh Negi).
+5. **Nanda Devi (नंदा देवी) Raj Jat** (नंदा देवी राज जात) runs every **12 years** for about **280 km** from **Nauti** to **Homkund** (त्रिशूल).
+6. A four-horned ram (*Chasingya Khadu*) leads the Raj Jat. Golden canopies called **Chhatoli** are carried by Kansuwa descendants. Women traditionally stop at **Wan**.
+7. **Devidhura (देवीधुरा) Bagwal (बग्वाल)** at **Champawat** (चंपावत) (Barahi temple) is the historic stone-pelting fair on Raksha Bandhan among four *Khams*.
+8. **Jauljibi (जौलजीबी) Mela** at **Pithoragarh** (पिथौरागढ़) sits at the Gori–Kali (काली) confluence; started **1914** by Gajendra Bahadur Pal.
+9. **Uttarayani Mela** at **Bageshwar** (बागेश्वर) (Saryu–Gomti) on Makar Sankranti (मकर संक्रांति) is the historic Coolie-Begar immersion venue of **1921**.
+10. **Purnagiri Mela** (Champawat / Tanakpur) falls in Chaitra Navratri (नवरात्रि). **Chaiti (चैती) Mela** at Kashipur (Udham Singh Nagar (ऊधम सिंह नगर)) is linked with the Buksa tribe.
+11. **Bissu Mela** of Jaunsar–Bawar (Dehradun (देहरादून)) on Baisakhi (बैसाखी) features the martial **Thoda** archery dance.
+12. **Syaldey–Bikhauti** (Almora (अल्मोड़ा) / Dwarahat) and **Somnath (सोमनाथ) Mela** (Masi, Almora) are Baisakhi-season Kumaon fairs.
+13. **Chholiya (छोलिया)** is the Kumaon (कुमाऊँ) martial sword dance of Rajput (राजपूत) weddings with shield and sword.
+14. **Langvir Nritya** (लांगवीर नृत्य) is the Garhwal (गढ़वाल) acrobatic pole dance. **Pandav Nritya** (पांडव नृत्य) is Garhwal Mahabharata ritual dance-drama.
+15. **Chaunfla** is a Garhwal romantic clap-and-footwork dance without instruments. **Thandya** is a maternal-courtyard dance of newly married daughters.
+16. **Jhora (झोड़ा)** and **Chanchari** are Kumaon circular community dances. **Chhapeli** is a romantic duet with handkerchief or mirror.
+17. **Hurkiya Baul** (हुड़किया बौल) is Kumaon agrarian paddy song with the *Hurka* drum. **Sarau** is a Garhwal martial sword dance.
+18. Instrument map: **Dhol–Damau** (state pair), **Hurka** (hourglass), **Bhankora** (straight copper trumpet), **Ransingha** (curved brass horn), **Moshakbeen** (bagpipe), **Thali–Dor** (Jagar idiophones).
+19. **Radha Bahin Bhatt** received **Padma Shri 2025** for **Social Work** (Lakshmi Ashram, Kausani). **Madhuri Barthwal** received Padma Shri **2022** for folk music.
+20. Pandav Nritya of Garhwal is **not** Pandavani of Chhattisgarh. Chholiya is **not** Chhapeli.
+21. Devidhura is Champawat stone Bagwal. Jauljibi is Pithoragarh trade mela. Do not swap districts.
+22. Nanda Raj Jat starts at **Nauti** and ends at **Homkund**, not Roopkund as the terminal shrine.
+23. State flower is Brahma Kamal. State tree is Buransh. Do not reverse the two.
+24. Dhol–Damau is the state instrument pair of **2015**, not Hurka alone.
+25. Haridwar (हरिद्वार) Kumbh (कुंभ) and Ardh Kumbh sit on the state festival map beside hill melas, on a **12** and **6** year cycle.
+26. **Gend Mela** of Pauri (पौड़ी) and **Vaikunth Chaturdashi** of Srinagar Garhwal are regional Garhwal calendar fairs.
+27. Monal is also Nepal’s national bird (*Danfe*). That does not move the Uttarakhand state-bird tag.
+28. Musk deer habitat memory often cites Kedarnath (केदारनाथ) and Askot sanctuaries. Brahma Kamal is offered at Kedarnath.
+29. Folk dances split by zone: Garhwal (Pandav, Langvir, Chaunfla, Thandya, Sarau) versus Kumaon (Chholiya, Jhora, Chanchari, Hurkiya Baul, Chhapeli).
+30. These state symbols and fairs are UKPCS Unit 1 / GK heads. They are not SNA classical dance forms.
+
 ## Quick Revision — Spine Only
 
 | Head | Cultural & Prelims Key |

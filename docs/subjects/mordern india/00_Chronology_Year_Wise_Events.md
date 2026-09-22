@@ -22,19 +22,19 @@ Year-wise Modern India timeline | Later Mughals to Independence | Company wars c
 )
 
 
-## Consolidated — 24 Must-Score Facts
+## Consolidated — 28 Must-Score Facts
 
 1. Hold **four megaspines**, not one flat list: **Wars / Expansion**, **Acts**, **Reform & Press**, **National Movement**.
 2. Company political start: **Plassey 1757 → Buxar 1764 → Allahabad / Dual Govt 1765 → Regulating Act 1773**.
-3. Mysore war ladder: **1st 1766–69 → 2nd 1780–84 → 3rd 1790–92 → 4th 1799** (Tipu dies).
-4. Maratha war ladder: **1st 1775–82 → 2nd 1803–05 → 3rd 1817–18** (Peshwa ends).
+3. **Mysore CCR ladder:** 1st (**1767–69**, Madras treaty) → 2nd (**1780–84**, Mangalore) → 3rd (**1790–92**, half kingdom ceded) → 4th (**1799**, Tipu dies / Subsidiary).
+4. **Maratha CCR ladder:** 1st (**1775–82**, Salbai peace) → 2nd (**1803–05**, after Bassein 1802) → 3rd (**1817–18**, Peshwa ends / Pindaris crushed).
 5. Act ladder to Crown: **1773 → 1784 → 1793 → 1813 → 1833 → 1853 → 1858**.
 6. Crown constitutional ladder: **1861 → 1892 → 1909 → 1919 → 1935 → 1947**.
 7. Social reform anchors: **Sati 1829 → Slavery Act 1843 → Widow Remarriage 1856 → Age of Consent 1891**.
 8. Education ladder: **Wood 1854 → Hunter 1882 → Sadler 1917 → Sargeant 1944**.
 9. Nationalism megaspine: **INC 1885 → Partition 1905 → League 1906 → Surat 1907 → 1909 → Delhi 1911**.
 10. Gandhi early ladder: **Champaran 1917 → Ahmedabad + Kheda 1918 → Rowlatt / Jallianwala 1919**.
-11. Mass movement ladder: **NCM 1920–22 → Chauri Chaura 1922 → CDM 1930 → Quit India 1942**.
+11. **Mass CCR ladder:** NCM (**1920–22**, boycott + Khilafat; ends Chauri Chaura) → CDM (**1930**, salt; Gandhi–Irwin) → Quit India (**1942**, Do or Die; suppressed but legitimacy crash).
 12. Mission ladder: **Simon 1927 → Nehru Report 1928 → Cripps 1942 → Cabinet Mission 1946 → Mountbatten Plan 3 June 1947**.
 13. UP spine: **Banaras 1781 → Allahabad Proclamation 1 Nov 1858 → Chauri Chaura Feb 1922 → Kakori 9 Aug 1925 → Ballia 1942**.
 14. Do not swap **Hunter Commission 1882** (education) with **Hunter Committee 1919** (Punjab).
@@ -47,7 +47,11 @@ Year-wise Modern India timeline | Later Mughals to Independence | Company wars c
 21. **Communal Award → Poona Pact** both sit in **1932**, Award first.
 22. **Cripps Mission** and **Quit India** share **1942**; Cripps fails first, then Quit India (**8 August**).
 23. **Wavell / Simla 1945 → Cabinet Mission 1946 → Mountbatten Plan 1947 → Independence 15 August 1947**.
-24. Arrival order of Europeans (companies): **Portuguese → English → Dutch → Dane → French**.
+24. Arrival order of Europeans: **Portuguese → Dutch → English → Danes → French** (charter years differ from arrival order).
+25. **Sikh / Punjab ladder:** Amritsar (**1809**) → Lahore (**1846**) → annexation (**1849**).
+26. **1857 CCR compact:** Causes (Lapse, Awadh 1856, cartridges) → Course (Meerut **10 May** → centres) → Result (**1858** Crown / Peel army).
+27. **Nepal / Burma / Sindh tags:** Sugauli (**1816**); Yandabo (**1826**) → 2nd Burma (**1852**) → 3rd (**1885**); Sindh (**1843**, Napier).
+28. **Subsidiary (1798 Hyderabad first)** before **Lapse (1848 Satara first)** — method ladder for annexation politics.
 
 ---
 

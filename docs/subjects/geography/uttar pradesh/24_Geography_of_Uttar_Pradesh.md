@@ -36,31 +36,38 @@
 ---
 
 
-## Consolidated — 20 Must-Score Facts
+## Consolidated — 28 Must-Score Facts
 
-1. UP’s only National Park is **Dudhwa** (दुधवा) in **Lakhimpur Kheri**. **Chandraprabha** sanctuary is in **Chandauli**. **Katarniaghat** (1975) is in Bahraich. Amangarh is a Bijnor tiger reserve; Ranipur is Chitrakoot (चित्रकूट) TR.
-2. Forest cover (वन आवरण) is about **6%**, not 12.8%. Jaunpur (जौनपुर)–Ghazipur–Ballia have almost no forest land. ISFR >20% districts fact: **Chandauli** and **Shravasti**.
-3. Ramsar sites **not** in UP include Rudrasagar, Sultanpur, and Surinsar–Mansar. UP has **13** Ramsar sites; India’s 100th was **Surha Tal, Ballia**. January 2020 added six.
-4. **Devipatan** division HQ is **Gonda** (with Bahraich, Shravasti, Balrampur) — **not Basti**. **Lalitpur** has only **one** UP neighbour.
-5. **Ramganga** (रामगंगा) meets the Ganga (गंगा) at **Kannauj** (कन्नौज). **Betwa** (बेतवा) meets the Yamuna (यमुना) at **Hamirpur**, not Prayagraj (प्रयागराज). Yamuna right-bank order west to east: **Chambal (चंबल)–Sind (सिंध)–Betwa–Ken**. The **Gomti** rises in Pilibhit.
-6. Bundelkhand soils: **Mar/Kabar** are **black**; **Parua/Rakar** are **red**. About **90%** of UP is alluvial (जलोढ़). **Usar** needs gypsum and drainage.
-7. **Badua** dam (बांध) is **not** in UP. **Matatila** is on the Betwa in Lalitpur. **Ken–Betwa** is the Bundelkhand national project. Eastern UP hydel is blocked by the **Nepal** Himalaya (हिमालय).
-8. UP leads potato quantity; CIP centre fact is **Agra (Singna)**. UP is not a jute/tea/rubber state. **Mentha** facts on Rohilkhand.
-9. Census 2011: lowest female literacy among common facts = **Shrawasti**. Smallest-area trap among listed four (चातुर्याम) = **Hapur**. City order **Kanpur (कानपुर) > Lucknow (लखनऊ) > Ghaziabad > Agra**. UP Day = **24 January**.
-10. Central Smart Cities list has **10**; **Ghaziabad** is out. NER HQ = **Gorakhpur** (गोरखपुर). Kushinagar (कुशीनगर) international airport opened **24 June 2020**. Amrit Bharat stations fact **149**. HRIDAY cities = Varanasi (वाराणसी) and Mathura (मथुरा).
-11. District extremes: north **Saharanpur**, south **Sonbhadra** (सोनभद्र), east **Ballia**, west **Shamli**.
-12. Rain name pairs: highest among common options **Gorakhpur**; lowest **Mathura** (मथुरा).
-13. Irrigation is dominated by **tubewells** (~**75%**; canal ~**15%**). Western UP faces groundwater **dark-zone** pressure. UP leads absolute (निरपेक्ष) tubewell area and GW resources for irrigation.
-14. **Saryu Canal** National Project serves eastern UP. Classics: Upper Ganga (**Bhimgoda/Haridwar (हरिद्वार)**, 1854), Lower Ganga (**Narora**, 1878), **Sharda** (शारदा) (Banbasa; longest UP system length), East Yamuna (Tajewala/Hathinikund), Agra, Sarda Sahayak.
-15. **Bangar** is older alluvium with kankar. **Khadar** (खादर) is newer floodplain. Bhabar is pebble soak zone; Terai is marshy fertile re-emergence.
-16. **Sonbhadra** is the energy capital. **Shankargarh** silica feeds **Firozabad** glass. **Renukoot** = HINDALCO aluminium. **Sonrai** copper is in Lalitpur. Mathura has the oil refinery.
-17. State animal = **swamp deer**; state bird = **Sarus crane**.
-18. The **Tropic of Cancer** (कर्क रेखा) does **not** cross UP. **Nanda Devi** (नंदा देवी) is in **Uttarakhand** (उत्तराखंड), not UP. UP’s only foreign neighbour is **Nepal**.
-19. UP is India’s most populous state, fourth by area, with **75** districts and **18** divisions. Capital Lucknow; High Court at Prayagraj. Name date fact **24 January 1950**. Uttarakhand carved on **9 November 2000**.
-20. Nepal-border districts: Pilibhit, Kheri, Bahraich, Shravasti, Balrampur, Siddharthnagar, Maharajganj. Regions: Doab = Ganga–Yamuna; Awadh = Gomti–Ghaghara (घाघरा); Rohilkhand = Ramganga; Purvanchal = eastern rice belt; Vindhyan = Sonbhadra–Mirzapur (मिर्ज़ापुर) energy fringe.
+1. UP is India’s most populous state and has the **largest rural** population. Area rank is **4th** (~**2.4 lakh km²**). There are **75** districts and **18** divisions. Capital is **Lucknow**; High Court is at **Prayagraj**. The State name date is **24 January 1950**; **Uttarakhand** was carved on **9 November 2000**.
+2. Latitudes run roughly **23°52′–31°28′ N**; longitudes **77°–84° E**. The **Tropic of Cancer does not** enter UP. Present UP has **no Himalayan high peaks** after 2000 — **Nanda Devi** is in **Uttarakhand**.
+3. Neighbours are Uttarakhand, Haryana, Delhi, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, Bihar and **Nepal**. The only foreign land neighbour is **Nepal**. Seven Nepal-border districts are Pilibhit, Lakhimpur Kheri, Bahraich, Shravasti, Balrampur, Siddharthnagar and Maharajganj.
+4. District extremes: north **Saharanpur**, south **Sonbhadra** (सोनभद्र), east **Ballia**, west **Shamli**. **Lalitpur** has only **one** UP-district neighbour (**Jhansi**). **Devipatan** division HQ is **Gonda** (Gonda–Bahraich–Shravasti–Balrampur) — **not Basti**.
+5. Physiographic map: **Bhabar** = pebble soak where streams sink; **Terai** = marshy re-emergence belt (Dudhwa / Katarniaghat / Suhelwa). **Doab** = Ganga–Yamuna Green Revolution heart; **Awadh** = Gomti–Ghaghara; **Rohilkhand** = Ramganga / mentha; **Purvanchal** = eastern rice plain; **Bundelkhand** = drought plateau; **Vindhyan** = Sonbhadra–Mirzapur energy fringe.
+6. Köppen tag for the Gangetic plain is **Cwg** (monsoon with dry winter). Rain generally rises **west to east** (west doab ~**60–80 cm**; east / Terai ~**100–140 cm**). Classic wettest belt tag = **Gorakhpur**; driest = **Mathura**.
+7. May–June **Loo** hits the western plain. Hottest summer belt tags include **Jhansi, Banda and Agra**. **Western Disturbances** give winter rain that supports **rabi wheat**. After Uttarakhand’s creation, UP has **no alpine / snow climate**.
+8. About **90%** of UP is **alluvial**. **Khadar** = new fertile floodplain; **Bangar** = older alluvium with **kankar**; **Bhur** = sandy western-doab ridges. **Usar / reh / kallar** on west–central canal tracts needs **gypsum plus drainage**, not lime alone.
+9. Bundelkhand soils: **Mar / Kabar** = **black**; **Parua / Rakar (pathari)** = **red**. **Bhonta / Monta** = Vindhyan red–yellow (Mirzapur–Sonbhadra). Ravines mark the **Agra–Etawah–Jalaun** Chambal–Yamuna belt.
+10. **Ramganga** meets the Ganga at **Kannauj**. **Betwa** meets the Yamuna at **Hamirpur** (not Prayagraj). **Ken** joins near **Banda**. Yamuna right-bank order west to east: **Chambal–Sind–Betwa–Ken**.
+11. **Gomti** rises at **Madho Tala / Fulhar, Pilibhit** — Lucknow stands on it (2018 pollution / “biological disaster” tag). **Ghaghara / Saryu** passes Ayodhya; **Rapti** passes Gorakhpur. **Hindon** is a Yamuna **left**-bank NCR river.
+12. National **Chambal** Sanctuary spans **UP–MP–Rajasthan** (Etawah–Agra) for gharial — **not** Haryana. **Badua** dam is **not** in UP. **Matatila** is on the **Betwa** in **Lalitpur**. **Ken–Betwa** is the live Bundelkhand interlinking project. Eastern UP hydel is blocked because the Himalaya to the north lies in **Nepal**.
+13. Irrigation is dominated by **tubewells** (~**75%**; canals ~**15%**). Western UP faces groundwater **dark-zone** pressure. UP leads absolute tubewell area and groundwater resources for irrigation.
+14. Canal classics: Upper Ganga offtake **Bhimgoda / Haridwar** (**1854**, P.T. Cautley); Lower Ganga **Narora** (**1878**); **Sharda** at **Banbasa** (longest UP system length); East Yamuna at Tajewala / Hathinikund; Agra Canal at Okhla; **Saryu Canal** National Project for eastern UP; plus Sarda Sahayak.
+15. Crop map: **wheat** = west–centre rabi GR belt; **sugarcane** = west–centre (UP often **#1 quantity**, Maharashtra often higher **productivity**); **rice** = east and Terai; **potato** = UP leads quantity; **mentha** = Rohilkhand; oilseeds / pulses = Bundelkhand. UP–jute / UP–tea / UP–rubber are **wrong** pairs.
+16. CIP potato centre fact = **Agra (Singna)**, not Aligarh. **IRRI-SARC** rice centre = **Varanasi**. Malihabad pairs with **Dasheri** mango.
+17. **Sonbhadra** is the energy / mineral capital (non-coking Singrauli-side coal, limestone, thermal). **HINDALCO Renukoot** = aluminium. **Shankargarh** silica feeds **Firozabad** glass. **Chunar–Churk–Dalla** = cement limestone. **Sonrai (Lalitpur)** = copper occurrence. **Mathura** has the oil refinery. Obra, Anpara and Rihand are thermal hubs.
+18. City–industry pairs: **Kanpur** textile / leather; **Moradabad** brass; **Aligarh** padlocks / hardware; **Firozabad** glass; **Meerut** sports goods; **Bhadohi** carpets; **Khurja** pottery; **Saharanpur** woodcraft; **Varanasi** silk; Noida–Ghaziabad = NCR engineering. ODOP Moonj pair = **Amethi + Sultanpur**.
+19. Forest cover is about **6%** of TGA (not 12.8%). ISFR >20% districts: **Chandauli** and **Shravasti**. Jaunpur–Ghazipur–Ballia have near-nil forest land. Terai–bhabar vegetation is moist deciduous (**sal**); Vindhyan south is dry deciduous.
+20. UP’s **only National Park** is **Dudhwa** (Lakhimpur Kheri). Tiger Reserves are Dudhwa (NP + Kishanpur + **Katarniaghat**), **Pilibhit**, **Amangarh (Bijnor)** and **Ranipur (Chitrakoot)** — do not invent extra NPs. **Katarniaghat** WLS = Bahraich, **1975**. **Chandraprabha** WLS = **Chandauli**.
+21. Other sanctuary tags: **Hastinapur** (Meerut–Bijnor–Amroha; swamp deer); **Kaimoor** (Sonbhadra–Chandauli); **Suhelwa** (Balrampur–Shravasti–Gonda); **Sohagibarwa** (Maharajganj); **Mahavir Swami** (Lalitpur).
+22. UP has **13** Ramsar sites; India’s **100th** was **Surha Tal / JP Narayan Bird Sanctuary, Ballia**. Sites **not** in UP: Rudrasagar (Tripura), Sultanpur (Haryana), Surinsar–Mansar (J&K). **Sarsai Nawar** and **Samaspur** **are** in UP.
+23. State animal = **swamp deer**; state bird = **Sarus crane**; state flower = **Butea / Dhak / Palash** (*Butea monosperma*).
+24. Census 2011 freeze: UP ~**16.5%** of India; density **829**; sex ratio **912**; literacy ~**67.7%**; urban ~**22.3%**. Lowest female literacy among common facts = **Shrawasti**. Highest literacy belt = **Gautam Buddha Nagar**. Smallest-area trap among listed four = **Hapur**. Largest-area standard = **Lakhimpur Kheri**.
+25. Density extremes: highest **Ghaziabad**; lowest belt **Lalitpur / Sonbhadra**. UA 2011 order **Kanpur > Lucknow > Ghaziabad > Agra**. Kanpur crossed a million in **1971**; Lucknow in **1981**.
+26. Central / Mission Smart Cities = **10** (Lucknow, Kanpur, Prayagraj, Agra, Varanasi, Aligarh, Bareilly, Jhansi, Moradabad, Saharanpur). **Ghaziabad is not** in that Central-10. **HRIDAY** in UP = **Varanasi and Mathura** only.
+27. NER HQ = **Gorakhpur**; NCR HQ = **Prayagraj**. No major seaport; waterway fact = **NW-1** on the Ganga. **Kushinagar** international airport opened **24 June 2020**. Jewar = Noida International. Amrit Bharat UP stations fact = **149**.
+28. Expressways: **Yamuna** (Noida–Agra) was the first; also Agra–Lucknow, **Purvanchal** (Lucknow–Ballia via **Mau**), Bundelkhand, Ganga Expressway and Gorakhpur Link. Built Purvanchal does **not** run through Basti.
 
 ---
-
 ## Confused Pairs
 
 | Pair | Correct | Trap | Hindi |
@@ -97,8 +104,6 @@
 | Rain high vs low | **Gorakhpur** wetter · **Mathura** drier | Swap | गोरखपुर / मथुरा |
 | Extremes N/S/E/W | Saharanpur / Sonbhadra / Ballia / Shamli | Swap Ballia–Sonbhadra | सीमा ज़िले |
 | Tubewell vs canal | Tubewells **dominant**; west dark-zone pressure | Only canals everywhere | नलकूप |
-
----
 
 ---
 

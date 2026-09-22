@@ -26,16 +26,15 @@ Indus Valley Civilization | Features of Harappan Civilization | Major Harappan S
 ---
 
 
-## Consolidated — 34 Must-Score Facts
+## Consolidated — 40 Must-Score Facts
 
 1. The Indus Valley Civilization is a **Bronze Age urban** culture. The Mature phase is about **2600–1900 BCE**. Early is roughly **3300–2600 BCE** and Late about **1900–1300 BCE**.
 2. It is also called **Harappan** after the first excavated site. The economy type in match-lists is **Urban**, not pastoral. Pastoral belongs to the Rigvedic age.
 3. **Charles Masson** noticed Harappa ruins in **1826**. **Daya Ram Sahni** excavated Harappa in **1921**. **R.D. Banerji** excavated Mohenjo-daro in **1922**. **John Marshall** announced the civilization in **1924**.
 4. Geographic extremes are **Sutkagen-dor** (west), **Alamgirpur** (आलमगीरपुर) in Meerut, UP (east), **Manda** (मांडा) on the Chenab in Jammu (north), and **Daimabad** in Maharashtra (south).
 5. Uttar Pradesh Harappan sites are **Alamgirpur** (Meerut), **Hulas** (हुलास) (Saharanpur), and **Mandi** (मंडी) (Muzaffarnagar). **Rakhigarhi** is in Hisar, **Haryana**, not Uttar Pradesh.
-- **Sinauli (Baghpat district, UP):** Major Bronze Age / Late Harappan & Copper Hoard necropolis excavated by ASI (D.V. Sharma & S.K. Manjul). Yielded **three full-size solid wooden-wheel chariots**, copper-antenna swords, shields, copper-sheathed coffins, and royal burials (~2000–1800 BCE). One of the most significant archaeological finds in Uttar Pradesh, establishing indigenous warrior traditions in the Ganga-Yamuna Doab.
 6. **Alamgirpur** marks the **eastern boundary** of Harappan culture. Do not give that role to Rakhigarhi or Manda.
-7. **Sanauli** (सनौली) in Baghpat, Uttar Pradesh, yielded Late Harappan / OCP **chariot burials** (ASI, 2018). It is not a Mature grid-city with a Great Bath.
+7. **Sanauli / Sinauli** (सनौली) in Baghpat, Uttar Pradesh (ASI, D.V. Sharma & S.K. Manjul, **2018**), is a Late Harappan / Copper Hoard necropolis with **wooden-wheel chariots**, copper-antenna swords, and coffined burials (~2000–1800 BCE). It is **not** a Mature grid-city with a Great Bath.
 8. The **Great Bath** is at **Mohenjo-daro** (मोहनजोदड़ो). The famous **dockyard** (गोदीबाड़ा) is at **Lothal** (Gujarat), excavated by **S.R. Rao**. Boat evidence is linked with Mohenjo-daro and Lothal.
 9. **Dholavira** (धोलावीरा) in Gujarat is known for water reservoirs, a **three-part** town plan (citadel, middle town, lower town), and a large **signboard**. UNESCO listed it in **2021**.
 10. **Kalibangan** (कालीबंगा) in Rajasthan shows a **ploughed field** and **fire altars**. Its drainage is weaker than Mohenjo-daro’s.
@@ -62,7 +61,13 @@ Indus Valley Civilization | Features of Harappan Civilization | Major Harappan S
 31. IVC is **proto-historic**: writing exists but the script is **undeciphered**. It is a **Bronze Age** culture with **no iron**.
 32. The **cow** is **not** shown on Harappan seals or terracotta; unicorn, bull, elephant, rhino, and tiger are.
 33. Decline theories to name: flood (Marshall / Mackay / S.R. Rao), Aryan attack (Wheeler — now rejected), climate (Stein / Ghosh), geological change (M.R. Sahni / Lambrick), epidemic (Kennedy). IIT Kharagpur drought reading cites about **900** dry years.
-34. **Cemetery R-37** = Harappa; **dockyard** = Lothal; **ploughed field** = Kalibangan; **Dancing Girl** = Mohenjo-daro.
+34. **Cemetery R-37** = Harappa Mature coffin cemetery; **Cemetery H** = Late Harappan urn / fractional burial at Harappa. **Dockyard** = Lothal; **ploughed field** = Kalibangan; **Dancing Girl** = Mohenjo-daro.
+35. **Early Harappan** builds regional cultures and fortifications before full urban grids; **Mature** is the peak of citadel–lower-town planning; **Late** is de-urbanisation and regional successors including doab OCP overlap.
+36. Harappan polity leaves **no** royal palace names or king-lists. Organisation reads as **civic / corporate elite** control (standard brick, seals, weights), not a named pharaoh-style monarchy.
+37. **Daimabad** (Maharashtra) is the southernmost Harappan / Late Harappan site and yielded famous **bronze** figurines (chariot, buffalo, elephant, rhino). Those bronzes are **not** the same as Sanauli’s wooden chariot burials.
+38. **Chanhudaro** = bead craft town, **no citadel**. **Harappa** = granaries and Cemetery R-37. **Mohenjo-daro** = Great Bath and Dancing Girl. Keep site signatures separate.
+39. Weights follow a binary then decimal series with a key unit near **16**. Trade seals are often **steatite**; the most common animal motif is the **unicorn**.
+40. **Mandi** (Muzaffarnagar jewellery / treasure find) and **Hulas** (Saharanpur) are the usual UP Harappan pair in stems. **Sanauli** is Baghpat Late Harappan / OCP — add it only when chariots or coffins are asked.
 
 ---
 

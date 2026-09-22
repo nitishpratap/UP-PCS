@@ -28,13 +28,30 @@
 
 ---
 
-## Must-Score Facts (High-Yield UKPCS)
+## Consolidated — 22 Must-Score Facts
 
-1. **Non-Regulation System:** Kumaon and British Garhwal were administered directly by the Governor-General (गवर्नर-जनरल) through the Commissioner of Kumaon, exempt from standard plains civil/criminal procedure (प्रक्रिया) codes.
-2. **The Revenue Police System (1819):** Initiated by Traill in 1819 and formalized under the Scheduled District Act 1874. Patwaris in hill areas possess dual powers of land record administration and regular police investigation (a system unique to Uttarakhand hills).
-3. **Assi Sala Settlement (1823 / Samvat 1880):** Traill's 7th settlement. First comprehensive survey demarcating village boundaries (*Hadbandi*).
-4. **Almora as Initial HQ:** Prior to 1854/55, Almora was the administrative capital of Kumaon. In 1854, the headquarters was moved to **Nainital** (नैनीताल).
-5. **Henry Ramsay (1856–1884):** Cousin of Lord Dalhousie (डलहौज़ी). Deeply sympathetic to local hill customs; kept Kumaon completely unshakeable during the 1857 Revolt; developed roads, the Almora waterworks, and modern canal irrigation in Terai-Bhabhar.
+1. British hill rule begins **May 1815** (Sugauli formalized **1816**) over **Kumaon** and **British Garhwal** as a **Non-Regulation** tract: the Commissioner of Kumaon answered to the Governor-General outside standard plains procedure codes.
+2. **Edward Gardner** is the **first Commissioner** (**May 1815 – April 1816**, ~9 months) and ran the first provisional settlement (**1815**).
+3. **G. W. Traill (1816–1835)** is the real builder of British hill administration — “Ma-Baap” paternal rule, Almora Jail (**1816**), Pauri Jail (**1821**), and pilgrim-road work.
+4. **Revenue Police (1819):** Traill armed hill **Patwaris** with dual land-record and investigative / police powers; later formalized under the **Scheduled Districts Act, 1874**.
+5. **Assi Sala Bandobast (1823 / Samvat 1880):** Traill’s **7th** settlement — first comprehensive *Hadbandi* (village-boundary) survey and standardized ledgers.
+6. Traill’s **1833** medical reform appointed **native doctors at Almora** (not Nainital — Nainital discovery is **1841**).
+7. **Traill’s Pass (1830)** links the Pithoragarh–Bageshwar / Pindari high route — keep it distinct from Assi Sala year.
+8. **Nainital** was discovered in **1841** by merchant **P. Barron** (under Lushington’s commissionership); municipal board **1845**; Kumaon HQ shifted **Almora → Nainital in 1854** under **J. H. Batten**.
+9. **Batten’s “Golden Settlement”** (20-year, **1842** Kumaon / **1840** Garhwal line) is praised for equitable rates and proprietary recognition of village co-parceners.
+10. **Sir Henry Ramsay (“Ramji” / “King of Kumaon”, 1856–1884)** — cousin of Dalhousie — kept the hills quiet in **1857**, hosted plains refugees at Nainital, and pushed roads, Almora waterworks, Terai canals, and Kumaon Iron Works (**1857**, Ramgarh).
+11. **J. O’B. Becket (1863–1873)** ran the **first scientific settlement** with survey chains (*Jareeb*), cadastral maps, and **five** soil classes (*Talaon, Upraon Awwal, Upraon Doyam, Ijran, Katil*).
+12. Total colonial land settlements in the hills: **11** British settlements (**1815–1928**) plus a post-independence Ibbotson settlement (**1960–64**).
+13. Village hierarchy: **Padhan** (one village) → **Kamin** (assigned village cluster revenue) → **Sayana / Thokdar** (hereditary Patti intermediary) under the hill **Patwari**.
+14. **Kamin** collects revenue from a **group of assigned villages** (UKPCS 2025); **Padhan** is headman of a **single** village — classic swap trap.
+15. Hill **Patwari** ≠ plains Patwari: the hill officer combines land records with **FIR / investigation / arrest** powers.
+16. **Forest Act 1878** reserved oak–deodar–pine tracts and criminalized customary fuel, fodder, and grazing — seed of later hill forest agitations.
+17. **Coolie-Begar triad:** *Coolie-Begar* (unpaid labour), *Coolie-Utar* (forced porterage), *Coolie-Burdash* (forced rations/shelter) — the burden that catalyses **Bageshwar 1921**.
+18. Commissioner ladder to hold: **Gardner → Traill → Gowan → Lushington → Batten → Ramsay**.
+19. Garhwal was separated as an independent district with **Pauri** HQ in the **1839** line (do not date that HQ shift to 1854 — 1854 is Nainital for Kumaon).
+20. Do not swap **Assi Sala (Traill, 1823)** with **Becket scientific survey (1863–73)**.
+21. Do not swap **Gardner (first, short)** with **Ramsay (longest, 1857 peace)**.
+22. Hold the admin map: Non-Regulation Commissioner rule → Traill revenue-police + Assi Sala → Batten Golden Settlement / Nainital HQ → Ramsay 1857 stability → Becket scientific survey → forest–begar burdens.
 
 ---
 

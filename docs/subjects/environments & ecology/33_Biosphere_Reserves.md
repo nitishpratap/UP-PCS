@@ -21,7 +21,7 @@ Biosphere Reserve (जैवमंडल आरक्षित क्षेत�
 
 ---
 
-## Consolidated — 24 Must-Score Facts
+## Consolidated — 25 Must-Score Facts
 
 1. A Biosphere Reserve is a **UNESCO MAB (1971)** landscape with **core → buffer → transition**. It is **not** a Wildlife Protection (वन्यजीव सुरक्षा) Act category.
 2. India has **18** notified national Biosphere Reserves. About **13** sit on the UNESCO World Network.

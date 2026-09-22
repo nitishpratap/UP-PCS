@@ -25,15 +25,31 @@
 
 ---
 
-## Must-Score Facts (High-Yield UKPCS)
+## Consolidated — 22 Must-Score Facts
 
-1. **The Capital Shift (Joshimath to Baijnath):** Capital shifted from Joshimath to Kartikeyapura (modern Baijnath in Bageshwar) in the fertile Katyur valley around the 9th/10th century to escape severe winters, recurring landslides, and Northern Tibetan raids.
-2. **Ishtaganadeva's Monumental Legacy:** Son of Nimbar and Queen Nasu Devi; celebrated as the **first ruler to unify all territories of Garhwal and Kumaon** under one centralized rule; built Navadurga, Lakulisa, and Mahishamardini shrines at Joshimath.
-3. **Lalitsuradeva’s Inscriptions:** Two celebrated copper plates found at **Pandukeshwar** near Joshimath, dated in his 21st and 22nd regnal years. Eulogized as an incarnation of Lord Varaha who rescued the earth from moral ruin.
-4. **Bageshwar Stone Inscription:** Issued by King **Bhuwandev**; provides the unbroken genealogy of the Nimbar dynasty and records generous land grants to the ancient Vyaghreswar (Bageshwar) Shiva temple.
-5. **The Fall & Bir Dev:** The dynasty degenerated under **Bir Dev (Biram Dev)**, who imposed extortionate taxes, forced labor, and atrocities upon his subjects. Slain during a massive popular rebellion; following his death, Katyuri power shattered into petty chieftaincies.
+1. The **Katyuri / Kattyuri** house (c. **740–1050 CE**) is the first historic (ऐतिहासिक) empire of Uttarakhand spanning Garhwal and Kumaon.
+2. First capital was **Joshimath (Kartikeyapura)** in the Alaknanda (अलकनंदा) valley; later capital was **Baijnath** in the fertile **Katyur valley** (Bageshwar (बागेश्वर)) on the Gomti.
+3. Capital shift Cause–Course–Result: severe winters, landslides, and northern raids → move from Joshimath to Baijnath (~9th/10th c.) → safer agrarian base in Katyur valley.
+4. Founder tradition names **Basantandev (Basu Dev)** with the title **Parama-bhattaraka Maharajadhiraja (महाराजाधिराज)**.
+5. Three ruling houses run **Basantandev → Nimbar → Salonaditya**.
+6. **Ishtaganadeva** (son of Nimbar and Queen Nasu Devi) was the first ruler to **unify Garhwal and Kumaon** under one central rule.
+7. Ishtaganadeva built rock temples at Joshimath including **Navadurga**, **Lakulisa**, and **Mahishamardini** shrines.
+8. **Lalitsuradeva** is the apex builder-king (reign over **44** years); Pandukeshwar plates praise him like **Varaha** and **Bhagiratha** for roads, bridges (*Setu*), and pilgrim rest houses.
+9. Two copper plates of Lalitsuradeva at **Pandukeshwar** (near Joshimath) date to his **21st** and **22nd** regnal years.
+10. **Bageshwar Stone Inscription** of **Bhuwandev** gives Nimbar-house genealogy and records grants to **Vyaghreswar** (Bageshwar) Shiva temple.
+11. **Padmata** and **Subhiksharaja** also leave Pandukeshwar-plate memory in the later Salonaditya phase.
+12. Admin titles: **Mahasamanta** = feudatory/military chief; **Kottapala** = fort and pass commander; **Doshaparadhika** = crime investigator; **Dandapashika / Dandanayaka** = chief magistrate.
+13. Revenue and transit: **Bhogika / Mahabhogika** collected agricultural *Bhoga*; **Saulkika** took tolls and customs; **Tarika / Ghattapala** supervised ferries and bridges.
+14. Court and household: **Pratihara / Mahapratihara (महाप्रतिहार)** regulated audiences; **Khadgika** was the sword bodyguard; **Kishorvadhabhikrit** ran horse studs.
+15. The dynasty fell under tyrant **Bir Dev (Biram Dev)** through extortion, forced labour, and a popular peasant rebellion that shattered unified rule.
+16. After Bir Dev, power fragmented into **Askot (Rajbar)**, **Doti (Raiyka)**, **Dwarahat**, and **Baijnath** branches.
+17. **Askot** branch was founded by **Abhay Pal** (grandson of Bir Dev) in **1279** in the Askot–Didihat belt of Pithoragarh (पिथौरागढ़).
+18. **Dwarahat** branch built the dense stone temple clusters called the “**Khajuraho (खजुराहो) of Kumaon**.”
+19. Baijnath remnant was later annexed by the **Chand** dynasty under Bharati Chand and Balo Kalyan Chand.
+20. **Kartikeyapura** is Katyuri capital memory; **Brahmapura** is the earlier 6th–7th century kingdom named by Hiuen Tsang — do not merge them.
+21. **Ishtaganadeva** = great unifier; **Lalitsuradeva** = greatest builder/Pandukeshwar reign — keep the pair separate.
+22. Successor states after Katyuri break-up: **Chand** at Champawat (चंपावत) (Kumaon) and **Parmar** at Chandpur Garhi (Garhwal).
 
----
 
 ## Dynastic Lineage & Three Ruling Houses
 

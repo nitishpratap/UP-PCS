@@ -22,7 +22,7 @@
 
 ---
 
-## Consolidated — 26 Must-Score Facts
+## Consolidated — 28 Must-Score Facts
 
 1. Memorise the act-year chain: **WPA 1972 → Water 1974 → FCA 1980 → Air 1981 → EPA 1986 → BDA 2002 → FRA 2006 → NGT Act 2010**.
 2. **Article 48A** (DPSP (राज्य के नीति निदेशक तत्व)) directs the State to protect the environment (पर्यावरण). **Article 51A(g)** is the citizen’s Fundamental Duty to protect nature. Do not swap them.
@@ -50,6 +50,8 @@
 24. NGT hears appeals; it does not rewrite the year of EPA or replace CPCB’s standards role.
 25. CAMPA/NPV issues arise after forest diversion under FCA — they are not FRA Gram Sabha rights tools.
 26. Match clearance labels carefully: **SPCB consent**, **MoEFCC/SEIAA EC**, **MoEFCC forest clearance**.
+27. Wildlife and forests sit on the **Concurrent List** (समवर्ती सूची) — Centre and states both legislate.
+28. Indian courts have adopted Rio principles — **Precautionary**, **Polluter Pays**, and **Public Trust** (*Vellore Citizens’ Welfare Forum*).
 
 ---
 

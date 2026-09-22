@@ -17,7 +17,7 @@ Taught in that order. World cores start with Mesopotamia, not with the later-fam
 
 ---
 
-## Consolidated — 30 Must-Score Facts
+## Consolidated — 34 Must-Score Facts
 
 1. The four Old World Bronze urban cores are **Mesopotamia**, **Egypt**, **Indus** (सिंधु), and **Shang China**. Iron-Age Greece, Rome, and Persia belong to a later bucket.
 2. **Mesopotamia** sits on the **Tigris–Euphrates**, runs competing **city-states**, writes **cuneiform** on clay, and builds stepped **ziggurat** temple-towers — not tombs.
@@ -49,6 +49,10 @@ Taught in that order. World cores start with Mesopotamia, not with the later-fam
 28. Purana Qila in Delhi is a **fort** name, not a Sanskrit Purana text. Use Puranas as genealogy supplements to inscriptions, not as year-perfect chronicles.
 29. Ajita Kesakambalin in the Pali canon is a materialist neighbour of Charvaka thought. Nyaya is **Gautama**; Vaisheshika is **Kanada** — neither is Charvaka.
 30. Shang ends with Zhou conquest; Harappan cities **thin out** around **1900 BCE**; Egypt shows unusual dynastic continuity — decline is not one shared story.
+31. **Meluhha** in Mesopotamian texts is commonly linked with the Indus. Harappan Gulf trade sits with **Dilmun / Magan** memory — not a named UP river dock.
+32. **Ajivika** doctrine centres on **Makkhali Gosala** and fatalist **niyati**. Barabar caves were gifted to Ajivikas under Ashoka’s age — not to Buddhists.
+33. **Upapuranas** are the eighteen minor Puranas beside the eighteen Mahapuranas. Use Puranas as genealogy supplements to inscriptions, not as year-perfect chronicles.
+34. *Charaka Samhita* is internal medicine; **Sushruta** is surgery. **Charvaka ≠ Charaka** remains the cheap name trap beside both cards.
 
 ---
 

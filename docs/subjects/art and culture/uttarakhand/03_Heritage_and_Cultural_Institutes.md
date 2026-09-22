@@ -7,29 +7,40 @@
 
 ---
 
-## Consolidated — 20 Must-Score Facts (Heritage & Institutes)
+## Consolidated — 32 Must-Score Facts
 
-| Head | High-Yield Prelims Key |
-| :--- | :--- |
-| **UNESCO World Natural Heritage** | **Nanda Devi (नंदा देवी) National Park** (inscribed 1988) + **Valley of Flowers (फूलों की घाटी) National Park** (extended 2005) form **one unified WHS property** |
-| **UNESCO Intangible Cultural Heritage (ICH)** | **Ramman (रम्माण) (2009)** — masked ritual (कर्मकाण्ड) theatre of **Saloor-Dungra (सलूर-डुंगरा) (Chamoli (चमोली))** dedicated to **Bhumiyal Devta** (भूमियाल देवता) |
-| **Garhwal (गढ़वाल) Painting Origin (1658)** | Initiated by **Shyamdas and Hardas** who arrived at Srinagar in **May 1658** in the court of **Raja (राजा) Prithvipati Shah** (with Mughal (मुग़ल) refugee Sulaiman Shikoh); given post of ***Tasbirdar** (तस्बीरदार)* |
-| **Master of Garhwal Painting** | **Mola Ram** (मोला राम) (1743–1833) — painter, poet, and philosopher; works discovered & popularised globally by **Barrister Mukandi Lal** (लैंसडाउन) (*Garhwal Painting*, 1969) |
-| **Oldest Technical University in Asia** | **IIT Roorkee** — established **1847** as *Thomason College of Civil Engineering*; made 7th IIT in **2001** |
-| **First Agricultural University of India** | **GBPUAT Pantnagar** (Udham Singh Nagar (ऊधम सिंह नगर)) — inaugurated **17 November 1960** by Pt. Jawaharlal Nehru (जवाहरलाल नेहरू); "Cradle of India's Green Revolution (हरित क्रांति)" |
-| **Forest Research Institute (FRI)** (वन अनुसंधान संस्थान) | **Dehradun** (देहरादून) — established **1906** as Imperial Forest Research Institute; grand Greco-Roman main building inaugurated 1929 by Lord Irwin (इरविन) |
-| **Survey of India (SOI) HQ** | **Dehradun** — founded in **1767** (India's oldest scientific department); HQ permanently shifted to Dehradun in **1942** |
-| **Indian Military Academy (IMA)** | **Dehradun** — inaugurated **1 October 1932** by Field Marshal Sir Philip Chetwode; motto: *Veerta Aur Vivek* (वीरता और विवेक) |
-| **LBSNAA** | **Mussoorie** (मसूरी) — established **1959** at Charleville Hotel; apex training academy for IAS and civil services |
-| **ARIES (Astronomy)** | **Manora Peak (Nainital (नैनीताल))** — set up in 1954 (Varanasi (वाराणसी)), shifted to Nainital in 1955; houses Asia's premier **3.6m Devasthal Optical Telescope** |
-| **IVRI Mukteshwar** | **Mukteshwar (Nainital)** — established **1893** by **Dr. Alfred Lingard** as Imperial Bacteriological Laboratory; developed Rinderpest vaccine |
-| **Directorate of Coldwater Fisheries (DCFR)**| **Bhimtal (Nainital)** — established **1987**; ICAR premier coldwater fish research centre (frequent exam trap: *not Haldwani*) |
-| **VPKAS (Hill Agriculture)** | **Almora** (अल्मोड़ा) — founded in **1924** in Kolkata by legendary plant physiologist **Prof. Boshi Sen**; transferred to Almora in 1936 |
-| **G.B. Pant Institute of Himalayan Env. (NIHE)**| **Kosi-Katarmal (Almora)** — established **1988**; apex institute for Himalayan ecological sustainability |
-| **Wadia Institute of Himalayan Geology (WIHG)**| **Dehradun** — founded **1968** (Delhi by Prof. D.N. Wadia); shifted to Dehradun in **1976** |
-| **Herbal Research Institute (HRDI)** | **Mandal, Gopeshwar (Chamoli)** — established **1989** for alpine medicinal and aromatic plant conservation |
-
----
+1. **Nanda Devi (नंदा देवी) National Park** (**1988**) and **Valley of Flowers (फूलों की घाटी) National Park** (extension **2005**) form **one** UNESCO World Natural Heritage property in Chamoli (चमोली).
+2. **Ramman (रम्माण) (2009)** is UNESCO ICH of **Saloor-Dungra (सलूर-डुंगरा) (Chamoli)** dedicated to **Bhumiyal Devta** (भूमियाल देवता).
+3. Garhwal (गढ़वाल) painting begins in **May 1658** when **Shyamdas** and **Hardas** arrived with Sulaiman Shikoh at the court of **Raja (राजा) Prithvipati Shah** and received the post of ***Tasbirdar** (तस्बीरदार)*.
+4. **Mola Ram** (मोला राम) (**1743–1833**) is the supreme Garhwal painter-poet. **Barrister Mukandi Lal** popularised the school in *Garhwal Painting* (**1969**).
+5. After Gorkha and British partition, **Chetu** and **Manku** worked under Raja **Sudarshan Shah** at **Tehri** (टिहरी).
+6. **IIT Roorkee** began in **1847** as Thomason College of Civil Engineering and became the **7th IIT** in **2001**.
+7. **GBPUAT Pantnagar** (Udham Singh Nagar (ऊधम सिंह नगर)), inaugurated **17 November 1960** by Nehru (जवाहरलाल नेहरू), is India’s first agricultural university and the “Cradle of the Green Revolution (हरित क्रांति)”.
+8. **Forest Research Institute (FRI)** (वन अनुसंधान संस्थान) at **Dehradun** (देहरादून) was established **1906**; the Greco-Roman main building was inaugurated in **1929** by Lord Irwin (इरविन).
+9. **Survey of India** HQ is at **Dehradun**. The department was founded in **1767**; HQ shifted permanently to Dehradun in **1942**.
+10. **Indian Military Academy (IMA)** at Dehradun was inaugurated **1 October 1932** by Field Marshal Sir Philip Chetwode; motto *Veerta Aur Vivek* (वीरता और विवेक).
+11. **LBSNAA** at **Mussoorie** (मसूरी) began in **1959** at Charleville Hotel as the apex IAS / civil services academy.
+12. **ARIES** at Manora Peak (**Nainital (नैनीताल)**) began in **1954** at Varanasi (वाराणसी) and shifted in **1955**; it houses the **3.6 m Devasthal Optical Telescope**.
+13. **IVRI Mukteshwar** (**Nainital**) was established **1893** by **Dr. Alfred Lingard** as the Imperial Bacteriological Laboratory and developed the Rinderpest vaccine.
+14. **DCFR** (Coldwater Fisheries) sits at **Bhimtal (Nainital)** from **1987**. It is **not** at Haldwani.
+15. **VPKAS** at **Almora** (अल्मोड़ा) was founded in **1924** in Kolkata by **Prof. Boshi Sen** and transferred to Almora in **1936**.
+16. **G.B. Pant National Institute of Himalayan Environment (NIHE)** is at **Kosi-Katarmal (Almora)** from **1988**.
+17. **Wadia Institute of Himalayan Geology (WIHG)** was founded **1968** (Delhi) by **Prof. D.N. Wadia** and shifted to Dehradun in **1976**.
+18. **Herbal Research and Development Institute (HRDI)** is at **Mandal, Gopeshwar (Chamoli)** from **1989**.
+19. **Wildlife Institute of India (WII)** is at Chandrabani, Dehradun (**1982**, MoEFCC). **IIRS** (ISRO) is at Dehradun (**1966**).
+20. **IGNFA** (IFS staff college) is at Dehradun (**1987**). **ONGC** national HQ is at Tel Bhavan, Dehradun (**1956**).
+21. **CBRI** (CSIR building research) and **NIH** (hydrology, Jal Shakti) sit at **Roorkee** (**1947** and **1978**).
+22. **Gurukul Kangri** at Haridwar (हरिद्वार) was founded **1902** by **Swami Shraddhanand**. **Uttarakhand Sanskrit University** at Haridwar dates to **2005**.
+23. **Nehru Institute of Mountaineering (NIM)** at **Uttarkashi (उत्तरकाशी)** began in **1965**. **HAPPRC** alpine plant centre is at Srinagar Garhwal (**1979**).
+24. **Uday Shankar Academy of Dance and Drama** at Almora dates to **2003**, recalling Uday Shankar’s 1938–44 India Cultural Centre.
+25. **Pushpesh Pant** is the culinary / IR scholar of UKPCS fame; *Himalaya Ke Barf* (हिमालय के बर्फ) is **not** his book.
+26. **Kaziranga** and the Mountain Railways are World Heritage sites **outside** Uttarakhand. VoF + Nanda Devi are the UK pair.
+27. IVRI historical vaccine work is **Mukteshwar (UK)**; the later main plains campus is **Izatnagar, Bareilly (UP)**.
+28. Tasbirdar is a Garhwal court painter post. It is not a Mughal mansab rank.
+29. FRI foundation year is **1906**; the grand building inauguration year is **1929**. Do not collapse the two dates.
+30. IIT Roorkee foundation is **1847**; IIT status year is **2001**. Do not treat them as one stamp.
+31. ASI Dehradun Circle and state heritage bodies protect monuments; UNESCO WHS status for VoF–Nanda Devi is a separate international inscription.
+32. Garhwal painting is a **Pahari** hill school. It is not a Rajasthan plains Rajput atelier and not Kangra itself.
 
 ## 1. World Heritage (विश्व धरोहर) & Monumental Sites in Uttarakhand
 

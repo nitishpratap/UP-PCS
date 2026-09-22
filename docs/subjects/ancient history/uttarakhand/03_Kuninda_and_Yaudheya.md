@@ -24,17 +24,32 @@
 
 ---
 
-## Must-Score Facts (High-Yield UKPCS)
+## Consolidated — 24 Must-Score Facts
 
-1. **Amoghbhuti's Unique Coinage:** Amoghbhuti was the **only Kuninda king to mint silver coins** in addition to copper. The silver legend reads:  
-   $$\text{Brahmi (Obv): } \textit{Rajnah Kunindasya Amoghbhutisya Maharajasya}$$  
-   $$\text{Kharoshthi (Rev): } \textit{Rana Kunindasa Amoghabhutisa Maharajasa}$$
-2. **The 3 Distinct Kuninda Coin Series:**
-   - **Amoghbhuti Type:** Bilinguistic/bi-scriptural, fine silver/copper, deer and Lakshmi.
-   - **Almora Type:** Pure copper, found in Almora (British Museum), single Brahmi script, named local kings (e.g., Shivdatt, Haridatt).
-   - **Chhatreshwar / Shiva Type:** Depicts standing Shiva with trident and staff (*Trishula-Parashu*), late Kushana-influenced period.
-3. **Hiuen Tsang’s 634 CE Account:** Visited Haridwar (*Mo-yu-lo* / Mayapura) and described the hill kingdom of **Brahmapura** (*Po-lo-hih-mo-pu-lo*), noting that it was ruled by a female monarch (*Suvarnagotra / Stree Rajya* tradition).
-4. **Taleshwar Copper Plates (Almora):** Primary epigraphic proof of the **Paurava dynasty** ruling Brahmapura in the 6th–7th centuries CE; mentions officials like *Kottapala* (fort commander) and *Pratihara* (chamberlain).
+1. **Kuninda (Kulinda)** are the first historic dynasty of the central Himalayan foothills, about **2nd century BCE to 3rd century CE**.
+2. Epic identity: Mahabharata king **Subahu** of Subahupur (Srinagar tradition); hailed as **Dwij Srestha**.
+3. Greatest Kuninda monarch is **Amoghbhuti** (1st century BCE) — the **only** Kuninda king to mint **silver** as well as copper.
+4. Amoghbhuti coins are **bi-scriptural**: obverse **Brahmi**, reverse **Kharoshthi**; motifs include Goddess Lakshmi, deer, and tree-in-railing.
+5. Three Kuninda coin series: **Amoghbhuti Type** (bilingual silver/copper), **Almora Type** (pure copper, local named kings), **Chhatreshwar / Shiva Type** (late Kushana-influenced Shiva with trident).
+6. Almora Type names eight rulers including **Shivdatt, Shivpalit, Haridatt, Gomitra, Aashadh, Mrigbhuti, Vijayabhuti** — single Brahmi script, British Museum holdings.
+7. Chhatreshwar Type legend memory: *Bhagavata Chhatreshwara*; standing Shiva with **trishula-parashu**.
+8. **Yaudheya** are a martial *Ayudhajivi Gana*. Hill hoards appear at **Jaunsar-Bawar, Bhadraj, and Lansdowne**.
+9. Yaudheya coin motifs: **Karttikeya** with peacock and Goddess Devsena; legend *"Yaudheya Ganasya Jaya"*.
+10. **Brahmapura** is the 6th–7th century hill kingdom recorded by **Hiuen Tsang** (*Po-lo-hih-mo-pu-lo*), ruled by **Paurava / Vrishavardhan** tradition.
+11. Xuanzang (about **634 CE**) visited Haridwar (*Mo-yu-lo* / Mayapura) and noted Brahmapura’s **female monarch / Suvarnagotra / Stree Rajya** memory.
+12. **Taleshwar copper plates** (Almora) record Paurava grants (Dvijavardhan, Vishnuvardhan) to God **Biraneswar** and name officials such as **Kottapala** and **Pratihara**.
+13. Do not swap **Kuninda Amoghbhuti silver** with **Yaudheya Karttikeya copper**. Do not swap **Brahmapura** with later **Kartikeyapura**.
+14. Amoghbhuti bilingual = Brahmi + Kharoshthi. Almora Type = copper + Brahmi only.
+15. Yaudheya are a **gana**, not a Kuninda royal house. Their UK fact is hill **coin hoards**, not a capital list like Sangam Madurai.
+16. Taleshwar plates are **Paurava / Brahmapura** epigraphy — not Pandukeshwar Katyuri plates.
+17. Hiuen Tsang’s UK name for the Kumaon hill entity in the famous stem is **Brahmapura**, not Kartikeyapur.
+18. Subahu / Dwij Srestha is the **epic** Kuninda tag; Amoghbhuti is the **coin** tag.
+19. Chhatreshwar Type is late / Shiva-devotional — after Amoghbhuti’s bilingual peak.
+20. Karttikeya on Yaudheya coins is the peacock-bearing war god — not a Katyuri temple-builder name.
+21. Official titles on Taleshwar plates (*Kottapala*, *Pratihara*) foreshadow later Katyuri admin vocabulary without making Pauravas into Katyuris.
+22. Kuninda span ends by about the 3rd century CE; Brahmapura / Paurava is the next early historic epigraphic layer.
+23. Pair national Post-Mauryan NW coinage with this chapter — UKPCS still wants Almora / Jaunsar findspots.
+24. Next chapter is **Kartikepur (Katyuri)** — Joshimath → Baijnath — after Brahmapura memory.
 
 ---
 

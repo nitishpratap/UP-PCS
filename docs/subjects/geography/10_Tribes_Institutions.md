@@ -32,7 +32,7 @@ Masai habitat (वास स्थान) remains **East Africa**. Do not “upd
 ---
 
 
-## Consolidated — 24 Must-Score Facts
+## Consolidated — 28 Must-Score Facts
 
 1. Scheduled Tribe (अनुसूचित जनजाति) lists are **state-wise** under **Article 342**. Parliament can amend the lists by law. A community listed in one State need not be listed in another.
 2. STs are about **8.6%** of India’s population (जनसंख्या) (Census 2011). Among the largest groups are **Bhil, Gond (गोंड) and Santhal (संथाल)**. Madhya Pradesh often leads in absolute (निरपेक्ष) ST population.
@@ -51,15 +51,19 @@ Masai habitat (वास स्थान) remains **East Africa**. Do not “upd
 15. **Janjatiya Gaurav Diwas** is observed on **15 November** (Birsa Munda’s birth anniversary).
 16. Andaman **Negrito** natives are Great Andamanese, **Onge**, **Jarawa** and **Sentinelese** (North Sentinel Island). Nicobar (निकोबार) **Mongoloid** groups are Nicobarese and **Shompen** (Great Nicobar PVTG). **Rengma** is not an island tribe.
 17. World habitat pairs: **Bushman = Kalahari**; **Eskimo = northern Canada**; **Pygmy = Congo**; **Masai = East Africa** (not West Africa); **Ainu = Japan**; **Punan = Borneo**; Lapps/Sami = Sweden–Finland.
-17a. Also: Semang = **Malaysia** (not Indonesia); Bedouin = Arabia; Kirghiz = Central Asia (not Sudan); Maori = New Zealand; Zulu = South Africa; Bantu ≠ Sahara. **Transhumance** = seasonal valley–mountain herding.
-17b. Gypsies’ original home = **India**. Africa = cradle of mankind. Cro-Magnon is the most recent among classic fossil-human options.
-18. **Khirghiz** are Central Asian, not Sudanese. **Koryak** live in north-east Siberia, not Alaska.
-19. **IMD** headquarters is New Delhi (**1875**). **ICAR** headquarters is New Delhi (**1929**). **IARI** is at **Pusa, New Delhi** — it is not the apex ICAR council itself.
-20. **FRI** and **ICFRE** are at **Dehradun** (देहरादून). **WII** is also Dehradun but is not the FRI answer. **NDRI** is at **Karnal** (dairy lab). **IVRI** is at **Izatnagar, Bareilly (UP)**. **NDDB** is at **Anand** and ran **Operation Flood** (ऑपरेशन फ्लड) — it is not NDRI.
-21. **IIHR** is at Bengaluru. **CISH** is at Lucknow (लखनऊ). **CSAUAT** is at Kanpur (कानपुर). **Pantnagar** is remembered as the first State Agricultural University tradition.
-22. The **Forest Rights Act** is **2006**. **Adi Karmayogi** (June 2025) is a **Ministry of Tribal Affairs** programme.
-23. Main tribal belts are the North-Eastern hills, the central Indian plateau, western Bhil country, and the Andaman–Nicobar (अंडमान) isolates.
-24. Krishi Vigyan Kendras (KVKs) are the frontline **extension** arms under the ICAR system.
+18. Also: Semang = **Malaysia** (not Indonesia); Bedouin = Arabia; Kirghiz = Central Asia (not Sudan); Maori = New Zealand; Zulu = South Africa; Bantu ≠ Sahara. **Transhumance** = seasonal valley–mountain herding.
+19. Gypsies’ original home = **India**. Africa = cradle of mankind. Cro-Magnon is the most recent among classic fossil-human options.
+20. **Khirghiz** are Central Asian, not Sudanese. **Koryak** live in north-east Siberia, not Alaska.
+21. **IMD** headquarters is New Delhi (**1875**). **ICAR** headquarters is New Delhi (**1929**). **IARI** is at **Pusa, New Delhi** — it is not the apex ICAR council itself.
+22. **FRI** and **ICFRE** are at **Dehradun** (देहरादून). **WII** is also Dehradun but is not the FRI answer. **NDRI** is at **Karnal** (dairy lab). **IVRI** is at **Izatnagar, Bareilly (UP)**. **NDDB** is at **Anand** and ran **Operation Flood** (ऑपरेशन फ्लड) — it is not NDRI.
+23. **IIHR** is at Bengaluru. **CISH** is at Lucknow (लखनऊ). **CSAUAT** is at Kanpur (कानपुर). **Pantnagar** is remembered as the first State Agricultural University tradition.
+24. The **Forest Rights Act** is **2006**. **Adi Karmayogi** (June 2025) is a **Ministry of Tribal Affairs** programme.
+25. Main tribal belts are the North-Eastern hills, the central Indian plateau, western Bhil country, and the Andaman–Nicobar (अंडमान) isolates.
+26. Krishi Vigyan Kendras (KVKs) are the frontline **extension** arms under the ICAR system.
+
+---
+27. World habitat extras: **Masai** = East Africa (not West Africa); **Ainu** = Japan; **Punan** = Borneo; Lapps / Sami = Sweden–Finland; **Maori** = New Zealand; **Zulu** = South Africa.
+28. Gypsies’ original home in the usual teaching line = **India**. Transhumance = seasonal valley–mountain herding. Cro-Magnon is the most recent among classic fossil-human options.
 
 ---
 

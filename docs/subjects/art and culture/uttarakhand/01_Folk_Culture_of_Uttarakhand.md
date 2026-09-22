@@ -7,6 +7,37 @@
 
 ---
 
+## Consolidated — 28 Must-Score Facts
+
+1. **Aipan** (ऐपण) is Kumaon (कुमाऊँ) ritual floor and wall art painted with **Geru** (गेरू) (red ochre ground) and **Biswar** (बिसवार) (white rice paste).
+2. Aipan received a **GI tag** in **September 2021**. Motifs are applied with the ring finger (*Anamika*) and middle finger of the right hand.
+3. **Dhuli Arghya Chauki** is drawn to welcome the bridegroom. **Lakshmi Padchinha** are Diwali (दिवाली) white footprints leading into the home.
+4. **Jyoti Patta / Bar-Boond** is genealogical wall painting for namkaran, yajnopavit, and weddings. **Asan Chauki** is drawn on ritual wooden seats.
+5. In **Jagar** (जागर), the **Jagaria** (जगरिया) is the singer-chanter of deity genealogies. The **Dangariya** (डंगरिया) is the spirit medium in trance.
+6. The *Syana* is the elder interrogator who questions the Dangariya on behalf of the afflicted family.
+7. Deities invoked in Jagar include **Golu / Gwal Devta** (justice; Chitai and Ghorakhal), **Narsingh**, **Bhairav**, **Gangnath**, **Haru–Chhurmal**, and mountain fairies (*Aanchhari*).
+8. **Ramman** (रम्माण) of **Saloor-Dungra** (सलूर-डुंगरा) in **Chamoli** (चमोली) entered UNESCO ICH on **2 October 2009**.
+9. Ramman is dedicated to **Bhumiyal Devta** (भूमियाल देवता). It uses about **18** wooden masks (*Mukhota*) without spoken dialogue.
+10. Ramman mask classes are **Dyot Pattar** (sacred deities such as Narsingh) and **Khyari Pattar** (comic / historical figures).
+11. Ramman dance acts include **Mal-Nrit** (Garhwali–Gorkha combat), **Kurukhyo**, and **Baniya–Baniyan**. Rhythm uses **Dhol–Damau** and copper **Bhankoras**.
+12. **Hiljatra** (हिलजात्रा) of the **Sor Valley, Pithoragarh** (पिथौरागढ़) is a monsoon paddy-planting festival whose climax figure is **Lakhia Bhoot** (लाखिया भूत).
+13. Hiljatra tradition is linked with the Kathmandu Indra (इन्द्र) Jatra (यात्रा) line. Do not confuse it with Nanda Raj Jat.
+14. **Pawada / Bhada** (पावाड़ा) are heroic martial ballads of Madho Singh, Kafu Chauhan, Jeetu Bagdwal, and related warriors.
+15. **Khuded** (खुदेड) songs are melancholy bride songs longing for the maternal home (*Mait*).
+16. **Bair** songs are competitive intellectual duels between Kumaon bards. **Neoli** songs are romantic Kumaon lyrics of separation.
+17. **Jhumailo** (झुमैलो) is a Garhwal spring song welcoming *Buransh* (बुरांश) blossom. **Hurkiya Baul** (हुड़किया बौल) is a Kumaon paddy-transplant song with the *Hurka* drum.
+18. **Mangal Geet** are auspicious ceremonial songs sung by *Mangal-mukhi* women at weddings and births.
+19. Aipan is **not** dry-powder rangoli. Ramman is **not** dialogue Ramlila of the plains.
+20. Jagaria is **not** the possessed medium. Dangariya is **not** the lead chanter.
+21. Ramman village is **Saloor-Dungra**, not every Chamoli fairground. Hiljatra home is **Pithoragarh**, not Champawat Bagwal.
+22. Golu Devta is the justice deity of Chitai / Ghorakhal, distinct from Bhumiyal Devta of Ramman.
+23. Folk song spine: Pawada = heroics; Khuded = longing; Bair = debate; Neoli = romance; Hurkiya Baul = agriculture.
+24. Aipan special Chauki and Padchinha motifs decide wedding and Diwali stems; Geru + Biswar decide material stems.
+25. UNESCO year for Ramman is **2009**. GI year for Aipan is **2021**. Do not swap the two years.
+26. Lakhia Bhoot is a horned attendant figure of Hiljatra fertility blessing, not a Ramman mask class.
+27. Jagar instruments commonly include **Dhol–Damau** or **Dor–Thali**. Do not reduce Jagar to dance alone.
+28. UK folk culture here is ritual and oral community practice. It is not SNA classical dance and not Mughal miniature painting.
+
 ## Quick Revision — Spine Only
 
 | Head | Key Fact |

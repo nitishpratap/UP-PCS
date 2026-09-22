@@ -5,7 +5,7 @@
 
 ---
 
-## Consolidated — 20 Must-Score Facts (Committees & Commissions)
+## Consolidated — 24 Must-Score Facts (Committees & Commissions)
 
 1. **Santhanam Committee (1962–64):** Formed on Prevention of Corruption; recommended the establishment of the **Central Vigilance Commission (CVC, 1964)**.
 2. **Swaran Singh Committee (1976):** Recommended inclusion of **Fundamental Duties** (मौलिक कर्तव्य) (Part IVA, Art 51A) incorporated by the **42nd (42वां) Amendment Act 1976**. *(Note: Recommended 8 duties; 10 were added in 1976; 11th added in 2002 via 86th Amd).*
@@ -14,19 +14,23 @@
 5. **Ashok Mehta (अशोक मेहता) Committee (1977):** Recommended a **2-tier Panchayati Raj system** (Mandal Panchayat and Zila Parishad), official participation of political parties, and creation of Nyaya (न्याय) Panchayats.
 6. **L. M. Singhvi Committee (1986):** First to recommend (सिफारिश) **Constitutional Status for Panchayati Raj Institutions** (later materialized via the 73rd Amendment 1992).
 7. **P. K. Thungon Committee (1988):** Recommended constitutional recognition (मान्यता) for PRIs, 5-year fixed tenure, and State Finance Commissions.
-8. **Rajamannar Committee (1969):** Appointed by the Tamil Nadu (नाडु) (DMK) Government; recommended abolition of All-India Services (IAS, IPS) and repeal of Article 356 (अनुच्छेद 356).
-9. **Sarkaria (सरकारिया आयोग) Commission (1983–88):** Appointed by Central Government on **Centre-State Relations** (R. S. Sarkaria, B. Sivaraman, S. R. Sen); recommended Article 356 as last resort, establishment of permanent Inter-State Council under Art. 263 (set up in 1990).
-10. **M. M. Punchhi (पुंछी आयोग) Commission (2007–10):** Appointed on **Centre-State Relations**; recommended localized emergency under Art. 355, fixed 5-year tenure for Governors, and impeachment procedure (प्रक्रिया) for Governors.
-11. **Dinesh Goswami Committee (1990):** Landmark report on **Electoral Reforms**; recommended electronic voting (गणपूर्ति) machines (EVMs), state funding in kind, and checking booth-capturing.
-12. **Indrajit Gupta (गुप्त) Committee (1998):** Recommended **State Funding of Elections** to candidates of recognized political parties.
-13. **Tarkunde Committee (1974):** Appointed by Jayaprakash Narayan (Citizens for Democracy); recommended lowering voting age from 21 to 18 years (implemented via 61st Amendment 1988).
-14. **Kothari Commission (1964–66):** National education commission; recommended 10+2+3 educational structure and allocation of 6% of national income to education.
-15. **Dr. K. Kasturirangan Committee (2019):** Drafted the **National Education Policy (NEP 2020)** replacing 10+2 with 5+3+3+4 schooling system.
-16. **First Backward Classes Commission (1953):** Appointed under Article 340 under the chairmanship of **Kaka Kalelkar**.
-17. **Second Backward Classes Commission (1979):** Appointed under **B. P. Mandal (Mandal Commission)**; recommended 27% reservation for Other Backward Classes (OBCs) in central government jobs.
-18. **Justice G. Rohini Commission (2017):** Appointed under Article 340 for the **Sub-categorization of OBCs**.
-19. **Sachar Committee (2005):** Examined the social, economic, and educational status of the Muslim community in India.
-20. **First & Second Administrative Reforms Commissions:**
+8. **G. V. K. Rao Committee (1985):** Warned of bureaucratization of development (“**grass without roots**”) and pushed **district-level** planning / a District Development Commissioner model.
+9. **Rajamannar Committee (1969):** Appointed by the Tamil Nadu (नाडु) (DMK) Government; recommended abolition of All-India Services (IAS, IPS) and repeal of Article 356 (अनुच्छेद 356).
+10. **Sarkaria (सरकारिया आयोग) Commission (1983–88):** Appointed by Central Government on **Centre-State Relations** (R. S. Sarkaria, B. Sivaraman, S. R. Sen); recommended Article 356 as last resort, establishment of permanent Inter-State Council under Art. 263 (set up in 1990).
+11. **M. M. Punchhi (पुंछी आयोग) Commission (2007–10):** Appointed on **Centre-State Relations**; recommended localized emergency under Art. 355, fixed 5-year tenure for Governors, and impeachment procedure (प्रक्रिया) for Governors.
+12. **Dinesh Goswami Committee (1990):** Landmark report on **Electoral Reforms**; recommended electronic voting (गणपूर्ति) machines (EVMs), state funding in kind, and checking booth-capturing.
+13. **Indrajit Gupta (गुप्त) Committee (1998):** Recommended **State Funding of Elections** to candidates of recognized political parties.
+14. **Tarkunde Committee (1974):** Appointed by Jayaprakash Narayan (Citizens for Democracy); recommended lowering voting age from 21 to 18 years (implemented via 61st Amendment 1988).
+15. **Vohra Committee (1993):** Examined the **criminalisation of politics** and the nexus among politicians, bureaucrats, and underworld syndicates.
+16. **Kothari Commission (1964–66):** National education commission; recommended 10+2+3 educational structure and allocation of 6% of national income to education.
+17. **Dr. K. Kasturirangan Committee (2019):** Drafted the **National Education Policy (NEP 2020)** replacing 10+2 with 5+3+3+4 schooling system.
+18. **First Backward Classes Commission (1953):** Appointed under Article 340 under the chairmanship of **Kaka Kalelkar**.
+19. **Second Backward Classes Commission (1979):** Appointed under **B. P. Mandal (Mandal Commission)**; recommended 27% reservation for Other Backward Classes (OBCs) in central government jobs.
+20. **Justice G. Rohini Commission (2017):** Appointed under Article 340 for the **Sub-categorization of OBCs**.
+21. **Sachar Committee (2005):** Examined the social, economic, and educational status of the Muslim community in India.
+22. **Xaxa Committee (2013):** Studied socio-economic, health, and land-alienation conditions of **Tribal** communities (Prof. Virginius Xaxa).
+23. **M. S. Swaminathan Commission (2004–06):** National Commission on Farmers; recommended MSP of at least **C2 + 50%**.
+24. **First & Second Administrative Reforms Commissions:**
     - **1st ARC (प्रथम एआरसी) (1966):** Chaired by **Morarji Desai (आमिल)** (later K. Hanumanthaiah); recommended Lokpal (लोकपाल) and Lokayukta (लोकायुक्त).
     - **2nd ARC (द्वितीय एआरसी) (2005):** Chaired by **Veerappa Moily** (later V. Ramachandran); submitted 15 reports on ethics, RTI, and crisis management.
 

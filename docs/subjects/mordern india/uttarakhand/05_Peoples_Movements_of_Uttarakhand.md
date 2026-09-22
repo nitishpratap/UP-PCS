@@ -30,19 +30,32 @@
 
 ---
 
-## Must-Score Facts (High-Yield UKPCS)
+## Consolidated — 24 Must-Score Facts
 
-1. **Statehood Incident Sequence (1994):**  
-   $$\text{Khatima (1 Sep)} \longrightarrow \text{Mussoorie (2 Sep)} \longrightarrow \text{Rampur Tiraha (1–2 Oct 1994)}$$  
-   *(UKPCS 2025 Q78 trapped on "Mussoorie — 3 September"; the correct date is 2 September).*
-2. **Gaura Devi & Chipko (26 March 1974):** Gaura Devi presided over the *Mahila Mangal Dal* of Reni village. When loggers arrived while men were away in Chamoli for compensation hearings, Gaura Devi blocked their path, saying: *"This forest is our mother's home; shoot us before you axe our trees."*
-3. **Chandi Prasad Bhatt:** Received **Ramon Magsaysay Award (1982)** and Padma (पद्मा) Bhushan (2005) for pioneering grassroots non-violent ecological defense through Dasholi Gram Swarajya Mandal (DGSM, founded 1964).
-4. **Sunderlal Bahuguna (1927–2021):** Undertook 5,000 km Trans-Himalayan foot march (Kashmir to Kohima, 1981–83); advocated tree conservation to Indira Gandhi (गांधी) leading to 15-year commercial felling ban above 1,000m; led Tehri Dam (टिहरी बांध) hunger strikes.
-5. **UP Reorganisation Bill 2000 Parliamentary Dates:**
-   - Lok Sabha (लोकसभा) passed: **1 August 2000**
-   - Rajya Sabha (राज्यसभा) passed: **10 August 2000**
-   - Presidential Assent (K. R. Narayanan): **28 August 2000**
-   - State inaugurated: **9 November 2000**
+1. **Dola-Palki (1930):** **Jayanand Bharati** fought feudal bans so Dalit (Shilpkar) brides/grooms could ride wedding palanquins — social-reform opener of the people’s-movement spine.
+2. **Chipko — Cause:** Commercial logging contracts threatened hill forests and livelihood after forest reservation tightened customary rights.
+3. **Chipko — Course:** Starts at **Mandal (Chamoli, 1973)** under **Chandi Prasad Bhatt** (Dasholi Gram Swarajya Mandal, founded **1964**); peaks at **Reni on 26 March 1974** when **Gaura Devi** leads ~27 village women to hug trees.
+4. **Chipko — Result:** Central ban on commercial felling above **1,000 m** (1980 line); inspires Karnataka **Appiko (1983)**; slogan memory tied to **Ghanshyam Raturi**.
+5. **Chandi Prasad Bhatt** received the **Ramon Magsaysay Award (1982)** and Padma Bhushan (**2005**).
+6. **Sunderlal Bahuguna (1927–2021):** 5,000 km Kashmir–Kohima march (**1981–83**); pressed Indira Gandhi for the felling ban; later led **Tehri Dam** hunger strikes.
+7. **Beej Bachao Andolan** (late 1980s, Jardhargaon, Tehri) under **Vijay Jardhari** revived **Barahnaja** (twelve complementary traditional crops) against hybrid monoculture.
+8. **Pani Rakho Andolan** (Ufrainkhal, Pauri) under **Sachidanand Bharati** recharges springs with *Chal-Khal* pits.
+9. **Maiti Movement (1994, Gwaldam):** **Kalyan Singh Rawat** — bridal sapling planting cared for by *Maiti* sisters; not a Chipko logging confrontation.
+10. **Raksha Sutra (1994, Bhilangna):** Villagers tied sacred threads to marked trees to stop UP Forest Corporation felling.
+11. **Jhapto-Cheeno (21 June 1998):** Lata/Reni villagers entered **Nanda Devi** National Park asserting grazing and NTFP rights.
+12. **Uttarakhand Kranti Dal (UKD)** founded **24–25 July 1979** at Mussoorie; first president **Dr. D. D. Pant**.
+13. **Kaushik Committee (Jan–May 1994):** **Ramashankar Kaushik** recommended **8** hill districts and **Gairsain** as capital.
+14. **Statehood — Cause:** 1994 reservation circular under Mulayam Singh Yadav’s UP government and long hill-statehood demand escalated into mass agitation across eight hill districts.
+15. **Statehood course — Khatima:** **1 September 1994** police firing; **7** martyrs; observed as **“Black Day”**.
+16. **Statehood course — Mussoorie:** **2 September 1994** Jhula Ghar firing (trap distractor **3 Sep**); DSP **Uma Kant Tripathi** and agitators killed.
+17. **Statehood course — Rampur Tiraha:** Night of **1–2 October 1994** near Muzaffarnagar; PAC/police assault on Delhi-bound protesters.
+18. **Sri Yantra Tapu (10 Nov 1995, Srinagar):** Fasting protesters attacked; **Yashodhar Benjwal** and **Rajesh Rawat** killed/drowned.
+19. **Deve Gowda** announced statehood from the Red Fort on **15 August 1996**.
+20. **UP Reorganisation Act path:** Lok Sabha **1 Aug 2000** → Rajya Sabha **10 Aug 2000** → Presidential assent (**K. R. Narayanan**) **28 Aug 2000** → stateborn **9 Nov 2000** as **Uttaranchal** (27th state); interim CM **Nityanand Swami**, Governor **Surjit Singh Barnala**.
+21. Renamed **Uttarakhand** with effect from **1 January 2007** (Alteration of Name Act 2006).
+22. **Bhararisain / Gairsain** declared **Summer Capital** in **2020** (CM Trivendra Singh Rawat) — distinct from provisional/winter **Dehradun**.
+23. Do not swap **Khatima 1 Sep** with **Mussoorie 2 Sep**; do not swap **Chipko** with **Maiti**; do not swap **Beej Bachao** with **Pani Rakho**.
+24. Hold the spectrum: Dola-Palki → Chipko → UKD → Beej/Pani/Maiti → 1994 firings → Jhapto-Cheeno → 9 Nov 2000 / 1 Jan 2007 rename.
 
 ---
 

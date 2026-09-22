@@ -6,7 +6,7 @@ Use this file to instruct any AI (or yourself) when creating or restructuring to
 **Look & feel gold standard:** **Lucent’s General Knowledge** (Polity/History pages) and crisp UPSC website / PIB-style static notes — headings → bullets/tables → exam locks only.  
 **Length rule:** Size **may exceed 20 minutes** of reading when the chapter needs it (many syllabus bullets / dense PYQ surface). **Hard rule is no repetition** — never pad with restated facts. Prefer dense Lucent layout over cutting exam content.  
 **Revision targets (soft):** aim for a Quick Revision pass in **2–5 minutes**; first full read as short as the chapter allows without dropping syllabus/PYQ locks.  
-**Content rule:** Syllabus bullets + UPPCS/RO-ARO PYQ-tested facts (2018–2025) + **current affairs when needed** (schemes, appointments, amendments, reports — see §Current Affairs Protocol). If it is not syllabus, not PYQ-tested, not a needed trap, and not exam-relevant CA → **do not write it**.  
+**Content rule:** Syllabus bullets + **full topic map** (NCERT Class 10–12 + Drishti / PWOnlyIAS coaching heads for this topic) + UPPCS/RO-ARO PYQ-tested facts (2018–2025) + **current affairs when needed**. PYQs are **checks**, not the syllabus ceiling — include unasked-but-standard heads as concise decidable facts. Skip only fluff that is neither syllabus, nor coaching-map, nor trap, nor exam-relevant CA.  
 **Practice Zone:** **minimum 25** questions per topic; scale up with chapter size (see sizing table).
 
 **Exam pattern standard:** `pyq/2025/UP_PCS_Pre_2025_GS_Paper_1.md` (format reference) + **all files in `pyq/` from 2018–2025** + **RO-ARO** — **every matching UPPCS/RO-ARO question must be searched and added per §UPPCS PYQ Search & Addition Protocol**  
@@ -40,6 +40,7 @@ Build UPPCS Prelims (+ light Mains where required) notes that maximize **ROI per
 |----------|---------|
 | **Lucent voice** | Headings → bullets/tables → locks only; no essay filler |
 | **Syllabus-complete** | Every `00_Syllabus.md` bullet for this topic is covered |
+| **Topic-map complete** | Every NCERT / standard coaching head for this topic has a decidable fact in teaching + Consolidated — even with **zero** past hit |
 | **PYQ-complete** | Every matching UPPCS/RO-ARO (2018–2025) from `pyq/` is mined and placed (see PYQ protocol — **unchanged**) |
 | **CA when needed** | Recent exam-relevant facts added once (schemes, amendments, reports, UP CA) |
 | **One-fact-one-home** | Each exam fact has **one full teaching home**; other sections may give a **one-line lock**, never a jump (`→ §` / `→ Topic N`) |
@@ -755,10 +756,20 @@ Rules:
 
 Omit Definitions / How It Works / Exam Facts / Examples unless they add **new** locks.
 
-### 3. Consolidated Reference
+### 3. Consolidated Must-Score Facts (topic-map spine — hard)
 
-Lists **once**, and **only if** not already complete in Quick Revision:
-Acts | Articles | Orgs | Dates | Schemes | Reports | UP Focus.
+**Job:** First-pass armour for *any* natural Prelims angle under this topic — not a dump of only previously asked examples.
+
+| Do | Don't |
+|----|-------|
+| Cover **every** syllabus / coaching-map head for this topic as a **decidable** one-line fact | Stop at “what UPPCS/UKPCS already asked” |
+| Keep PYQ-hit associations + traps | Vague theme sentences (“nationalism grew from…”) with no lock |
+| Pull missing heads from teaching cards / NCERT / Drishti / PW into Consolidated | Generic definitions that cannot decide a stem |
+| Update the count in the heading (`Consolidated — N Must-Score Facts`) | Invent facts; pad with fluff; write **exam** / **lock** |
+
+**Self-test before shipping:** “If next year’s paper invents a new stem from an unasked coaching head in this topic, does Consolidated still leave a decidable answer?” If no → add that head.
+
+**Consolidated Reference lists** (Acts | Articles | Orgs | Dates | Schemes | Reports | UP Focus) still appear **once** only if not already complete in Quick Revision / teaching cards.
 
 ### 4. Practice Zone
 

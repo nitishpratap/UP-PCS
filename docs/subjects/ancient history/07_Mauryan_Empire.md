@@ -15,7 +15,7 @@ Mauryan Empire · Chandragupta Maurya · Bindusara · Ashoka · then Admin / Off
 
 ---
 
-## Consolidated — 38 Must-Score Facts
+## Consolidated — 42 Must-Score Facts
 
 1. The Mauryan empire runs about **322–185 BCE**. Buddhist tradition links the clan to **Moriya / Pipphalivana**; some Puranas smear a “low origin.”
 2. King order is **Chandragupta (322–297)** → **Bindusara Amitraghata** (अमित्रघात) **(297–273)** → **Ashoka** (अशोक) (accession about **272**, coronation **268–232**) → last **Brihadratha**, killed by **Pushyamitra Shunga** (पुष्यमित्र शुंग) in **185 BCE**.
@@ -55,6 +55,10 @@ Mauryan Empire · Chandragupta Maurya · Bindusara · Ashoka · then Admin / Off
 36. **Vishnugupta** (विष्णुगुप्त) is Chanakya’s other name (papers often treat it as the childhood / alternate identity). *Arthashastra* is compared with Machiavelli’s *Prince*. *Mudrarakshasa* (मुद्राराक्षस) calls Chandragupta **Vrishal / Kulheen**; Dhundiraja wrote a commentary.
 37. **Justin** remembers Sandrokottos meeting Alexander. **William Jones** first equated Sandrokottos with Chandragupta Maurya. Jain texts call Bindusara **Simhasena**; his mother is **Durdhara**.
 38. City officials in *Indica* are **Astynomoi**. The caravan chief in the *Arthashastra* is **Sarthavaha** (सार्थवाह). Birth–death registration is one of the six municipal boards that still echoes modern municipal work.
+39. Ashoka convened the **Third Buddhist Council** at **Pataliputra** about **250 BCE**. **Moggaliputta Tissa** presided; missions went to Kashmir–Gandhara and Sri Lanka (**Mahinda / Sanghamitta**). Edicts do **not** date the council.
+40. After Bodh Gaya, Ashoka’s traditional **dhamma yatra** circuit is **Lumbini → Kapilavastu → Bodh Gaya → Sarnath → Kushinagar → Shravasti**. **Rummindei** marks Lumbini; **Bhabru / Bairat** shows him as a Buddhist patron.
+41. **Sanchi** (Raisen, MP) is the best-preserved early stupa core begun under Ashoka. **Bharhut** railings bloom mainly in the **Shunga** age — do not treat both as identical Ashokan art facts.
+42. Mauryan **spies** (*gudhapurusha*) split into **sanstha** (stationary) and **sanchara** (mobile). The Gupta–Harsha ages do **not** run the same paid spy-state image.
 
 ---
 

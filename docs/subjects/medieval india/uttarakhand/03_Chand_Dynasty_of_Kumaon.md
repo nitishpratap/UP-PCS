@@ -28,16 +28,33 @@
 
 ---
 
-## Must-Score Facts (High-Yield UKPCS)
+## Consolidated — 24 Must-Score Facts
 
-1. **Char Aal:** Somchand appointed four guard clans — **Karki, Bora, Taragi, Chaudhary** to guard the four gates of Rajbunga fort at Champawat.
-2. **Capital Movement:** Founded at **Champawat** (चंपावत) (Kali (काली) Kumaon) $\rightarrow$ Shift initiated by **Bhishm Chand** (Khagmara fort) $\rightarrow$ Completed by **Balo Kalyan Chand** to **Almora (1563)**.
-3. **Delhi Sultanate (दिल्ली सल्तनत) Ties:** **Garud Gyan Chand** was the first Chand ruler to visit the Delhi imperial court. Sultan Firoz Shah Tughlaq conferred the royal title *Garud* upon seeing him shoot down a hawk.
-4. **Mughal (मुग़ल) Ties:** **Rudra Chand** visited Akbar at Lahore (1588); Akbar granted the 84-Mal (Terai pargana (परगना)) as a farman (फ़रमान). Rudra Chand authored *Syenika Shastra* (hawk falconry) and *Traivarnika Dharma Nirnaya*.
-5. **Taklakot / Tibet Campaign:** **Baz Bahadur Chand** allied with Shah Jahan (शाहजहाँ) and Aurangzeb (औरंगजेब), invaded Western Tibet, captured Taklakot (Purang), and secured the Kailash-Mansarovar pilgrim routes. He brought the idol of **Nanda Devi** (नंदा देवी) from Garhwal's Badhangarh to Kot Almora.
-6. **Battle of Hawalbagh (1790):** Gorkha army (सेना) under Amar Singh Thapa, Joga Malla, and Hastidal Chautariya routed Mahendra Chand and Lal Singh, ending 800+ years of Chand rule in Kumaon.
+1. **Chand** dynasty of Kumaon used the **Garud** emblem; founder **Somchand** (c. 10th/11th c. Jhusi/Prayag (प्रयाग) legend) built **Rajbunga Fort** at **Champawat (चंपावत)**.
+2. **Char Aal** guard clans appointed by Somchand: **Karki, Bora (बोरा), Taragi (Tadagi), Chaudhary** at the four gates of Rajbunga.
+3. Capital movement: **Champawat** → shift begun by **Bhishm Chand** (Khagmara) → completed by **Balo Kalyan Chand** to **Almora in 1563** (Alamnagar/Rajapur).
+4. **Garud Gyan Chand** (**1374–1419**) was the first Chand to visit the Delhi court; **Firoz Shah (फ़िरोज़ शाह) Tughlaq (फिरोज शाह तुगलक)** gave the title **Garud** and Terai (तराई)–Bhabhar gains followed.
+5. **Bharti Chand** (**1437–1477**) fought a **12-year war** against Doti (Nepal) Raiyka kings to end tributary status; prolonged camps are linked to **Nayak caste** origin memory.
+6. **Rudra Chand** (**1568–1597**) met **Akbar (अकबर) at Lahore (1588)**, gained the **84-Mal** Terai farman (फ़रमान), built **Malla Mahal (महाल)**, and wrote *Syenika Shastra* and *Traivarnika Dharma Nirnaya*.
+7. Rudra Chand’s social code ranked Brahmins as **Chauthani** (Joshi, Pant, Pandey, Tiwari) above **Pitiya/Panchbidiya**, and used **Oliya** Brahmins for weather omens.
+8. **Laxmi Chand** attacked Parmar Garhwal seven times and failed (*Lakhuli Bidal* joke); he set dual courts **Vali** (high civil) and **Dungi** (military/common).
+9. **Baz Bahadur Chand** (**1638–1678**) allied with Shah Jahan (शाहजहाँ)/Aurangzeb (औरंगजेब), took **Taklakot (Purang)** in western Tibet, and secured Kailash–Mansarovar routes.
+10. Baz Bahadur levied **Ghyoo-kar** (ghee tax) on Tibet trade (पण्याध्यक्ष) to fund pilgrim dharmashalas and brought the **Nanda Devi** (नंदा देवी) idol from Badhangarh to Kot Almora.
+11. **Jagat Chand** (**1708–1720**) marks Kumaon’s “Golden Age”; he took Garhwal’s Srinagar and assigned its revenues to **Badrinath (बद्रीनाथ)**.
+12. **Devi Chand** (**1720–1726**) is remembered as the “**Tughlaq of Kumaon**” for whimsical grants and failed Delhi ambitions.
+13. **Kalyan Chand IV** faced **Rohilla** invasion under **Ali Muhammad Khan** (**1743–44**); Almora was sacked until Garhwal’s **Pradeep Shah** paid about **3 lakh** to buy withdrawal.
+14. Kingmaker **Harsh Dev Joshi** invited rival Garhwal and later Gorkha interventions into Kumaon faction fights.
+15. **Battle of Hawalbagh (Jan 1790)** Cause–Course–Result: Gorkha dual advance under **Amar Singh Thapa**, **Joga Malla**, and **Hastidal Chautariya** → routed **Mahendra Chand** and Lal Singh → ended 800+ years of Chand rule.
+16. Chand admin units ran **Mandal → Pargana (परगना) → Patti → Gaon**; officers included **Diwan/Wazir (वज़ीर)**, **Bhandari**, **Kotwal/Prahari**, and hereditary **Thokdar / Kameen / Sayana**.
+17. Famous tax matrix **36 Rakam 32 Kalam** = 36 principal taxes + 32 clerical/court fees.
+18. High-yield Rakam samples: **Sirtee** (land cash), **Jhoolia** (bridge crossing), **Mangya** (war levy), **Bhent** (tribute gifts), **Ghyoo-kar** (ghee), **Tand-kar** (loom), **Ghodiyalo** (cavalry fodder).
+19. **Kameen-chari / Sayana-chari** funded hereditary collectors; **Khor-Dungar** was pasture/forest grass cess.
+20. Somchand also set rural heads **Burha** and **Sayana** with panchayats under Champawat rule.
+21. Chand architectural memory includes Almora forts/palaces (**Malla Mahal**) and Champawat’s Rajbunga as the founding fort.
+22. Do not confuse **Garud Gyan Chand** (Firoz-era title) with **Rudra Chand** (Akbar-era 84-Mal farman).
+23. Do not confuse **Hawalbagh 1790** (Kumaon Chand end) with Garhwal’s **Khudbuda 1804** (Parmar end).
+24. Emblem **Garud** and title origin under Gyan Chand remain the standard Chand identity pair for match stems.
 
----
 
 ## Chronological Ruler Guide & Significant Milestones
 

@@ -42,9 +42,9 @@ Books and Authors | History (इतिहास) Books | Books on Freedom Moveme
 23. ***Gitanjali*** is **Tagore** (Nobel **1913**). ***Jana Gana Mana (माना)*** is the national **anthem**; **Vande Mataram** is the national **song** (सोंग).
 24. Lord Curzon (कर्ज़न)’s GG-linked titles include ***Problems of the Far East*** / ***British Government in India***. ***My Indian Years*** is **Hardinge**.
 25. ***Hindutva: Who is a Hindu?*** (**1923**) is Savarkar’s separate title from his **1909** 1857 history.
-26. Sort books by type first: primary tract, memoir, later historiography, GG-linked, or partition narrative — that sorting kills most author traps.
-27. A book written **in** 1901 about the drain is a **primary tract**. A book written **about** that age decades later is **historiography**.
-28. Drill order for prelims: the **syllabus eight**, then the match-four above, then twins, then the **Bhojpuri four (चातुर्याम)**.
+26. Sort by type first to kill traps: **primary tract** (*Poverty…* 1901; *Hind Swaraj* 1909) vs **memoir** (*India Wins Freedom*; *Discovery*) vs **later historiography** (Bipan Chandra) vs **GG-linked** vs **partition narrative**.
+27. A book written **in** 1901 about the drain is a **primary tract**. A book written **about** that age decades later is **historiography** — never match Naoroji to Bipan Chandra titles.
+28. Highest-yield drill set: syllabus eight (*Anandamath, Poverty…, Hind Swaraj, Discovery, India Wins Freedom, Gita Rahasya, Gulamgiri, Annihilation*) → match-four (Lajpat / Tilak / Banerjee / Azad) → twin traps → Bhojpuri four (*Firangiya, Batohiya, Bidesiya, Achhut Kee Shikayat*).
 
 ---
 

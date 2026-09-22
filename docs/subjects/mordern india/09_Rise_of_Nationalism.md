@@ -15,7 +15,7 @@ Political Organisations before INC | Zamindari Association | Bangabhasha Prakash
 
 ---
 
-## Consolidated — 32 Must-Score Facts
+## Consolidated — 35 Must-Score Facts
 
 1. The **East India Association** was founded in **1866** in **London** by **Dadabhai Naoroji**. It is not the Calcutta Indian Association of 1876.
 2. The pre-INC chronology four (चातुर्याम) run **East India Association (1866) → National Indian Association (1870) → Indian Society (1872) → Indian Association (1876)**.
@@ -34,21 +34,24 @@ Political Organisations before INC | Zamindari Association | Bangabhasha Prakash
 15. **Subhas Chandra Bose** (सुभाष चंद्र बोस) presided at **Haripura 1938** and **Tripuri 1939**. **Abul Kalam Azad** presided at **Ramgarh 1940**.
 16. **Bal Gangadhar Tilak (बाल गंगाधर तिलक) never** presided over any INC session. **Gokhale** (गोखले) did preside (Banaras **1905**).
 17. **Poverty and Un-British Rule (अन-ब्रिटिश शासन) in India** by Naoroji was published in **1901**. Drain Theory (ड्रेन) is wealth outflow; “Un-British rule” means the Raj betrayed British liberal ideals.
-18. **Moderates** trusted petition, prayer and British justice. **Extremists** pushed boycott (बहिष्कार), Swadeshi (स्वदेशी) and assertive Swaraj.
-19. The **Ilbert Bill** controversy of **1883** exposed the racial bar in the courts and fed nationalist anger.
-20. Banerjee’s **Indian National Conference** (नेशनल कॉन्फ्रेंस) (**1883/1885**) was an all-India dress rehearsal. It is **not** the same body as the **1885** INC.
+18. **Moderates** used petition, prayer, and faith in British justice; leaders include **Gokhale, Mehta, Banerjee, Naoroji**. **Extremists** pushed boycott, Swadeshi, and assertive Swaraj; leaders include **Tilak, Bipin Chandra Pal, Lajpat Rai, Aurobindo**.
+19. The **Ilbert Bill** controversy of **1883** exposed the racial bar in the courts (Indian judges trying Europeans) and fed nationalist anger under Ripon.
+20. Banerjee’s **Indian National Conference** (**1883/1885**) was an all-India dress rehearsal. It is **not** the same body as the **1885** INC.
 21. The **Madras Mahajan Sabha** dates to **1884**. The **Indian League** (**1875**, Sisir Kumar Ghosh) is not the Indian Association.
-22. **Lajpat Rai (राई)’s Mandalay** deportation (**1907**) lasted about **six months**. **Tilak’s Mandalay** sentence (**1908–14**) lasted about **six years**.
-23. Early nationalism grew from racial discrimination, closed ICS doors, drain of wealth (धन निष्कासन), press and English education — then widened after Partition of Bengal (**1905**).
+22. **Lajpat Rai’s Mandalay** deportation (**1907**) lasted about **six months**. **Tilak’s Mandalay** sentence (**1908–14**) lasted about **six years**.
+23. Concrete early drivers: **Ilbert Bill (1883)** racial insult, **ICS age/closed doors**, **Drain Theory** (*Poverty…* **1901**), vernacular press growth, and English-educated associations — then mass widening after **Partition of Bengal (1905)**.
 24. On the Moderates A/R trap: both the “providence / modernisation” claim and the “Un-British rule” complaint can be true, yet the complaint does **not** explain the providence claim.
 25. **Dadabhai Naoroji** was Congress President at Calcutta **1886** and again at Calcutta **1906** (his third term).
-26. Extremists are **not** the same as underground revolutionaries. Tilak is Extremist (गरम दल) Congress politics; Kakori is a later revolutionary (क्रांतिकारी) event.
-27. Pre-Congress politics lived in London, Calcutta, Poona, Madras and Bombay associations. Congress in **1885** gave them one all-India annual forum.
-28. Hold the arc: pre-INC associations → Moderate (नरम दल) Congress → Partition/Extremist rise → Surat split → Lucknow reunion → Home Rule (होम रूल) → Gandhian mass phase.
+26. Extremists are **not** the same as underground revolutionaries. Tilak is Extremist Congress politics; Kakori is a later revolutionary event.
+27. Pre-Congress homes: **London** (East India Association), **Calcutta** (Indian Association / League), **Poona** (Sarvajanik Sabha), **Madras** (Mahajan Sabha), **Bombay** (Presidency Association) — INC **1885** gave them one annual all-India forum.
+28. Decidable arc with years: associations (**1866–85**) → Moderate INC (**1885–1905**) → Partition/Extremist rise (**1905–07**) → **Surat Split 1907** → **Lucknow reunion 1916** → Home Rule (**1916–18**) → Gandhian mass phase after **1919**.
 29. Earliest organised political line: **Bangabhasha Prakashika Sabha (~1836)** → **Zamindari / Landholders’ Society (1838, Dwarkanath Tagore)** → **Bengal British India Society (1843, George Thompson)** → **British Indian Association (1851, Radhakant Deb President)**.
 30. **Poona Sarvajanik Sabha** petitioned the **House of Commons in 1875**. **Indian Association** is the strongest pre-Congress all-India-leaning body; Banerjee was dismissed from ICS (**~1874**).
-31. **Lord Dufferin (डफ़रिन)** called Congress a **microscopic minority**. British Committee of INC in London (**1889**, **Wedderburn**) published weekly *India*.
-32. **Valentine Chirol** called Tilak the **Father of Indian Unrest**. Tilak’s **Ganapati (गणपतिदेव) / Shivaji (शिवाजी)** festivals politicised public religion; he wrote *Gita Rahasya* (गीता रहस्य) in Mandalay jail.
+31. **Lord Dufferin** called Congress a **microscopic minority**. British Committee of INC in London (**1889**, **Wedderburn**) published weekly *India*.
+32. **Valentine Chirol** called Tilak the **Father of Indian Unrest**. Tilak’s **Ganapati / Shivaji** festivals politicised public religion; he wrote *Gita Rahasya* in Mandalay jail.
+33. **Economic critique spine:** Naoroji Drain + “Un-British rule”; **R.C. Dutt** *Economic History*; Moderate method = constitutional agitation, not Swadeshi boycott depth.
+34. **Extremist programme triad:** Swaraj + Swadeshi + Boycott (+ national education) — distinct from Moderate 3Ps (petition, prayer, protest).
+35. **Surat 1907** split is about method and Swaraj language after Partition heat; **Lucknow 1916** reunites Moderates–Extremists **and** seals Congress–League Pact — two different reunions of different pairs.
 
 ---
 

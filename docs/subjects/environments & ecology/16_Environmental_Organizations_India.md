@@ -21,7 +21,7 @@ MoEFCC (पर्यावरण, वन और जलवायु परिव�
 
 ---
 
-## Consolidated — 26 Must-Score Facts
+## Consolidated — 28 Must-Score Facts
 
 1. **MoEFCC** (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय) is India’s nodal ministry for environment (पर्यावरण), forests, wildlife, and climate change (जलवायु परिवर्तन). It began as MoEF in **1985** and was renamed MoEFCC in **2014**. Headquarters is **New Delhi**.
 2. MoEFCC grants **Category A Environmental Clearance**, runs the **PARIVESH** portal, and administers EPA, Wildlife Act, Forest Conservation Act, and Biodiversity Act. It does **not** set NAAQS pollution standards.

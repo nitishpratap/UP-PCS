@@ -24,8 +24,8 @@ Congress (कांग्रेस) Socialist Party | Subhash Chandra Bose | For
 5. The **Rani of Jhansi (झांसी) Regiment** is keyed to **Lakshmi Sehgal**. INA slogans include **Give me blood (खून दो)…**, **Delhi Chalo** and **Jai Hind**.
 6. **INA Trials** at the **Red Fort** (लाल किला) tried **Shah Nawaz Khan, Prem Sahgal and Gurbaksh Singh Dhillon**. Mass protest forced remission of sentences.
 7. Wartime bridge: ministries resign **1939** → **Ramgarh (Mar 1940)** → **August Offer (अगस्त प्रस्ताव) (Aug 1940)** → **Individual Satyagraha (सत्याग्रह) (Oct 1940**, Vinoba first).
-8. **Cripps Mission (March 1942)** offered dominion after war, a Constituent Assembly (संविधान सभा), and provincial opt-out. Congress and League rejected it.
-9. **Quit India** (भारत छोड़ो) was launched on **8 August 1942** at Bombay with Gandhi (गांधी)’s **Do or Die** (करो या मरो).
+8. **Cripps Mission (March 1942) — Cause:** Japan’s advance and need for Indian war cooperation. **Course:** Stafford Cripps offers dominion after war, Constituent Assembly, and provincial opt-out. **Result:** Congress and League reject; Gandhi’s “post-dated cheque” line; path opens to Quit India.
+9. **Quit India — Cause:** Cripps failure plus wartime repression and “Quit India” demand. **Course:** **8 August 1942** Bombay launch (**Do or Die**); leaders jailed; underground and parallel governments. **Result:** suppressed by 1944 but mass legitimacy of British rule collapses; endgame pressure continues via INA/RIN.
 10. Quit India women facts: **Aruna Asaf Ali (अरुणा), Matangini Hazra, Kanaklata Barua, Usha Mehta** (radio). **Shanti Ghosh** (शांति घोष) is **not** a QI 1942 name.
 11. Parallel governments: **Ballia** (Chittu Pandey, UP), **Tamluk**, and **Satara (Prati Sarkar (सरकार))**.
 12. The **C.R. Formula (1944)** is **Rajagopalachari’s**, not C.R. Das (dead **1925**). **Desai–Liaquat** talks followed in **1945**.
@@ -46,7 +46,7 @@ Congress (कांग्रेस) Socialist Party | Subhash Chandra Bose | For
 27. Do not swap **Wavell Plan (1945 interim executive)** with **Mountbatten Plan (1947 partition + transfer)**.
 28. Do not swap **Simla 1945** (शिमला) (Wavell conference) with **Cabinet Mission 1946** (कैबिनेट मिशन) (three-minister grouping plan).
 29. Bose’s INA and the Red Fort trials turned military defeat into a political storm that pressed the endgame of **1945–47**.
-30. Hold the endgame arc: Cripps fail → Quit India → INA/RIN pressure → Cabinet Mission → Direct Action → Mountbatten Plan → Independence Act.
+30. Endgame with dates: Cripps fail (**Mar 1942**) → Quit India (**8 Aug 1942**) → INA/RIN pressure (**1945–46**) → Cabinet Mission (**1946**) → Direct Action (**16 Aug 1946**) → Mountbatten Plan (**3 June 1947**) → Independence Act (**18 July**) → **15 August 1947**.
 
 ```
                Final Phase of Freedom Struggle Chronology (1940–1947)

@@ -23,7 +23,7 @@ Process chapter — no living scheme tag. Static PYQ surface (trellis (जाल
 ---
 
 
-## Consolidated — 28 Must-Score Facts
+## Consolidated — 32 Must-Score Facts
 
 1. **Endogenic** processes (folding, faulting, volcanism, uplift) build relief from inside the Earth. **Exogenic** processes wear and deposit at the surface. **Gradation** = degradation + aggradation.
 2. Davis’s cycle of erosion is framed as **structure–process–time** (youth–mature–old). Penck and King modify timing, but the landform vocabulary stays -useful.
@@ -53,6 +53,12 @@ Process chapter — no living scheme tag. Static PYQ surface (trellis (जाल
 26. A gorge is a steep mountain cut; a canyon is often the arid stair-step equivalent. U-valley = glacier; V-valley = youthful river.
 27. Mekong source is Tibet; its delta is in **Vietnam**, not Cambodia.
 28. The rock cycle links magma ⇄ igneous → sedimentary → metamorphic → melt, so the same material can reappear as a different rock type after burial, melting or recrystallisation.
+
+---
+29. Mass wasting moves material downslope under gravity (creep, slide, flow, fall). It is an agent alongside river, wind, glacier, sea and groundwater.
+30. Glacial depositional set: **moraine, drumlin, esker, kame, outwash, erratic**. Erosional set: cirque, arête, horn, U-valley, hanging valley, fjord, tarn.
+31. Aeolian deposition builds **barchan** (horns downwind) and often **parabolic** dunes (horns upwind). Wind erosion forms yardang, zeugen and mushroom rocks.
+32. Coastal deposition builds spit, bar, tombolo and lagoon with longshore drift. Coral reefs: fringing, barrier and **atoll** (horseshoe / ring around a lagoon).
 
 ---
 

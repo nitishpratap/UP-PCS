@@ -46,7 +46,7 @@ D. None of the above
 ---
 
 
-## Consolidated Must-Score Facts
+## Consolidated — 32 Must-Score Facts
 
 1. **Bhimbetka** (भीमबेटका) rock shelters are in Raisen, **Madhya Pradesh. V.S. Wakankar** demonstrated their prehistoric importance in **1957**. They are UNESCO **2003**, not fresco.
 2. The **Jogimara** (जोगीमारा) cave at Ramgarh in **Chhattisgarh**, dating to about the **3rd–1st** century BCE, contains the earliest surviving Indian frescoes, depicting secular dance and theatrical scenes rather than Buddhist narrative cycles.
@@ -61,17 +61,26 @@ D. None of the above
 11. **Rajput** painting is Rajasthan princely and bhakti / ragamala based. **Pahari** painting is Himalayan hill painting. Kangra is hills, not Rajasthan plains.
 12. In Rajasthani painting, the Mewar school is highlighted by the master artist **Sahibdin**, Kishangarh is celebrated for the iconic **Bani Thani** (बनी ठनी) portrait by Nihal Chand, and Nathdwara is renowned for **Pichwai** (पिछवाई) cloth paintings dedicated to Shrinathji. Bundi and Kotah are famed for dynamic hunting landscapes.
 13. Pahari sequence runs **Basohli → Guler (Nainsukh / Manaku) → Kangra (Sansar Chand)**. Basohli is bold and flat; Kangra is lyrical Krishna–nature.
-14. **Tanjore** painting uses gold foil and gems on wood. **Mysore** painting uses finer gesso and is less gem-studded.
-15. **Srikalahasti Kalamkari** is temple pen-work. **Machilipatnam Kalamkari** is block-printed trade cloth.
-16. Traditional Indian folk painting traditions include **Madhubani** of Bihar, **Warli** of Maharashtra, **Phad** of Rajasthan, **Pattachitra** (पट्टचित्र) of Odisha and Bengal, **Gond** of Madhya Pradesh, **Pithora** of Gujarat/MP, **Kalighat** (कालीघाट) of West Bengal, and the stencilled **Sanjhi** (सांझी) art of the Braj region in Uttar Pradesh.
-17. **Madhubani** has a GI tag. It is **not** UNESCO intangible heritage. Do not confuse GI with ICH.
-18. **Ravi Varma** used oil and oleograph realism. **Abanindranath** led the Bengal School wash revival and painted **Bharat Mata** (भारत माता).
-19. **Nandalal Bose** painted the Haripura Congress panels and Constitution illumination. The **Progressive Artists’ Group** formed in **1947. Amrita Sher-Gil** painted *Three Girls*.
-20. The **Company School** made colonial documentary pictures for East India Company patrons. It is not the nationalist Bengal School.
-21. Awadh and Lucknow painting is distinguished by the master artist **Mihr Chand** and local Company School developments. In Varanasi, **Bharat Kala Bhavan** at Banaras Hindu University houses one of India's richest collections of Mughal and Rajasthani miniatures.
-22. Ajanta technique is pigment on **wet** plaster (fresco tradition). Tempera / secco puts binder on a **dry** surface.
-23. A **mural** is wall or ceiling paint integral to a building. A **miniature** is a small album or manuscript picture.
-24. The celebrated treatise *Venushilpa* by Chitracharya Upendra Maharathi is a definitive work on **bamboo** art and craft, not a painting school.
+14. **Garhwal** is a Pahari school. **Mola Ram** (मोला राम) is its named master. The line begins with **Shyamdas** and **Hardas** as *Tasbirdar* at Srinagar Garhwal in **1658**.
+15. Other Pahari place-names to keep distinct are **Chamba**, **Nurpur**, and **Bilaspur** beside the Basohli–Guler–Kangra spine.
+16. **Tanjore** painting uses gold foil and gems on wood. **Mysore** painting uses finer gesso and is less gem-studded.
+17. **Srikalahasti Kalamkari** is temple pen-work. **Machilipatnam Kalamkari** is block-printed trade cloth.
+18. Traditional Indian folk painting traditions include **Madhubani** of Bihar, **Warli** of Maharashtra, **Phad** of Rajasthan, **Pattachitra** (पट्टचित्र) of Odisha and Bengal, **Gond** of Madhya Pradesh, **Pithora** of Gujarat/MP, **Kalighat** (कालीघाट) of West Bengal, and the stencilled **Sanjhi** (सांझी) art of the Braj region in Uttar Pradesh.
+19. **Cheriyal** is Telangana narrative scroll painting. **Manjusha** is Bihar’s snake-theme scroll art of the Bhagalpur belt. **Tikuli** is glass-and-enamel craft painting linked with Bihar.
+20. Tibetan–Himalayan **Thangka** painting is scroll art of Buddhist deities and mandalas. It is not a Rajasthani miniature school.
+21. **Madhubani** has a GI tag. It is **not** UNESCO intangible heritage. Do not confuse GI with ICH.
+22. **Ravi Varma** used oil and oleograph realism. **Abanindranath** led the Bengal School wash revival and painted **Bharat Mata** (भारत माता).
+23. **Nandalal Bose** painted the Haripura Congress panels and Constitution illumination. The **Progressive Artists’ Group** formed in **1947. Amrita Sher-Gil** painted *Three Girls*.
+24. The **Company School** made colonial documentary pictures for East India Company patrons. It is not the nationalist Bengal School.
+25. Awadh and Lucknow painting is distinguished by the master artist **Mihr Chand** and local Company School developments. In Varanasi, **Bharat Kala Bhavan** at Banaras Hindu University houses one of India's richest collections of Mughal and Rajasthani miniatures.
+26. Ajanta technique is pigment on **wet** plaster (fresco tradition). Tempera / secco puts binder on a **dry** surface.
+27. A **mural** is wall or ceiling paint integral to a building. A **miniature** is a small album or manuscript picture.
+28. Basohli is epitomized by *Rasamanjari* cycles with hot flat colour. Kangra softens into green–blue–pink Krishna lyricism under **Sansar Chand**.
+29. **Marwar**, **Bikaner**, and **Jaipur** are additional Rajasthani ateliers beside Mewar, Kishangarh, Bundi, and Kotah.
+30. **Pithora** of the Rathwa (Gujarat / western Madhya Pradesh) is ritual wall painting, not a Mughal album style.
+31. **Gond** painting of Madhya Pradesh uses dotted tree-and-animal patterning. Do not place Gond in Bihar or Maharashtra.
+32. The celebrated treatise *Venushilpa* by Chitracharya Upendra Maharathi is a definitive work on **bamboo** art and craft, not a painting school.
+
 
 ---
 

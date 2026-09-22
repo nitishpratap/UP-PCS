@@ -86,7 +86,7 @@ D. 2 and 3
 ---
 
 
-## Consolidated — 28 Must-Score Facts
+## Consolidated — 30 Must-Score Facts
 
 1. A **statutory body** is created by an **Act of Parliament or a State legislature**. It is not created by the Constitution (CAT is the special case that rides on **Article 323A**).
 2. The **Lokpal and Lokayuktas Act, 2013** creates a Chairperson and up to **eight** members, with **half** judicial and **half** from SC/ST/OBC (अन्य पिछड़ा वर्ग)/minorities/women. Term is **five years or age 70**. Removal is like a Supreme Court judge.
@@ -116,6 +116,8 @@ D. 2 and 3
 26. The **NIA** was created by the **NIA Act, 2008** after 26/11. It investigates scheduled offences and does **not** need State consent in the CBI sense. The **2019** amendment widened its reach.
 27. The **Intelligence Bureau (1887)** is the oldest, for **internal** intelligence under the Home Ministry. **RAW (21 September 1968)**, founded under **R.N. Kao**, handles **external** intelligence under the Cabinet Secretariat. The **Enforcement Directorate (1956)** under the Department of Revenue works FEMA and PMLA.
 28. The **National Security Council (1998)** is chaired by the **Prime Minister**. The first National Security Adviser was **Brajesh Mishra**. Related structures include SPG, NSAB, and NSCS.
+29. **Zonal Councils** are **statutory** under the **States Reorganisation Act, 1956** (five zones). The **Union Home Minister** is the common chair. Uttar Pradesh sits in the **Central** Zonal Council (HQ **Prayagraj**). The **North Eastern Council** is a separate **1971** Act body — not a sixth Zonal Council.
+30. The **Law Commission of India** is an **executive / extra-constitutional** advisory body (usually a **three-year** term under the Ministry of Law and Justice). The first Law Commission of independent India (**1955**) was chaired by **M.C. Setalvad**. It is **not** a constitutional body and **not** created by a standing statute.
 
 ---
 

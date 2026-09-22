@@ -15,7 +15,7 @@ Origin of Human Beings | Stone Age | Paleolithic Age | Mesolithic Age | Neolithi
 
 ---
 
-## Consolidated — 34 Must-Score Facts
+## Consolidated — 42 Must-Score Facts
 
 1. Indian prehistory runs **Paleolithic → Mesolithic → Neolithic → Chalcolithic**. Paleolithic people used **chipped** tools and lived by hunting and gathering. Neolithic people used **polished or ground** stone, pottery, and farming.
 2. Lower Paleolithic tools are **handaxes and cleavers** (Acheulian). Middle Paleolithic tools are **flakes** made by the Levallois method. Upper Paleolithic tools are **blades, burins, and scrapers**.
@@ -51,6 +51,14 @@ Origin of Human Beings | Stone Age | Paleolithic Age | Mesolithic Age | Neolithi
 32. **Damdama** has a **triple** burial; **Sarai Nahar Rai** has a **four-skeleton** grave. Bone implements cluster at **Mahadaha** and **Sarai Nahar Rai**.
 33. **Lahuradewa** (Sant Kabir Nagar) is the booklet key for earliest subcontinental **agriculture / rice** when listed; otherwise **Mehrgarh** is the wheat–barley settled-life key.
 34. **OCP** was christened by **B.B. Lal** at **Hastinapur**. **Jorwe** adults lie **north–south** under house floors; children often rest in **double urns**.
+35. The **Kayatha** culture sits on the **Chambal in Madhya Pradesh** and is known for sturdy **red-slipped** ware. It is not Malwa Navdatoli and not Ahar–Banas.
+36. The **Savalda** culture on the **Tapi in Maharashtra** is the **pre-Jorwe** Deccan Chalcolithic horizon. **Jorwe** is the later painted black-on-red phase with Inamgaon as type site.
+37. **Ganeshwar–Jodhpura** in Rajasthan is a copper-working culture that supplied metal toward the Harappan zone. **Balathal** shows an early fortification-like wall in the Ahar belt.
+38. Prehistory is dated by **tool typology**, **stratigraphy** (deeper = older), **pollen**, **C-14** (organic only), and **TL/OSL** (fired clay / sediments). Stratigraphy alone cannot print “2600 BCE.”
+39. **Patne** in Maharashtra is Upper Paleolithic and is known for **ostrich eggshell** beads. **Kurnool caves** (Andhra Pradesh) yield Upper Paleolithic **bone** tools.
+40. **Hunsgi** and **Isampur** in Karnataka are Acheulian factory / quarry sites. **Gudiyam** in Tamil Nadu is a Paleolithic rock-shelter / cave site.
+41. **Ahar–Banas** (Mewar, Rajasthan, about **2100–1500 BCE**) is **contemporary with the Harappan** civilisation, knew **rice**, and used white-painted **black-and-red ware**. The stem “rice was unknown to them” is false.
+42. **Adamgarh** near Hoshangabad, Madhya Pradesh, shows a Paleolithic-to-Mesolithic sequence on the Narmada and early domestication claims. **Sivapithecus** Siwalik fossils are **not** *Homo* evidence against Hathnora.
 
 ---
 

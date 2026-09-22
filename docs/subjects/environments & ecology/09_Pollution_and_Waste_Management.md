@@ -21,7 +21,7 @@ Environmental Pollution (पर्यावरणीय प्रदूषण) |
 
 ---
 
-## Consolidated — 36 Must-Score Facts
+## Consolidated — 39 Must-Score Facts
 
 1. **Pollution** is harmful addition beyond the environment (पर्यावरण)’s absorption capacity. **Degradation** is the broader fall in environmental quality and productivity.
 2. Human-caused pollution / human-modified environment = **anthropogenic**. Anthropogenic pollution often raises persistent **non-biodegradable** loads.
@@ -59,6 +59,9 @@ Environmental Pollution (पर्यावरणीय प्रदूषण) |
 34. Hazardous waste follows HW Rules **2016** plus Basel controls — not SWM municipal rules alone.
 35. **Asian Brown Cloud** / atmospheric brown cloud is especially noted over **South Asia** (winter aerosols, black carbon, sulphate).
 36. Bag filters trap finer particulates (**<~50 μm**); cyclone separators/collectors handle coarser (**>~50 μm**). **Cyclone divider** is not a standard control device name.
+37. **Radioactive pollution** is ionizing radiation beyond safe dose. **Becquerel (Bq)** counts disintegrations per second; **Sievert (Sv)** is biological dose; **half-life** is time for **50%** decay — not complete disappearance.
+38. **AERB** (Atomic Energy Regulatory Board) regulates nuclear safety in India. **Chernobyl (26 April 1986)** is the classic nuclear-accident teaching case; **Bhopal (1984)** is MIC industrial gas, not radioactive pollution.
+39. **Thermal pollution** raises water temperature (mainly power-plant cooling water). Warm water holds **less DO**; even a **2–3°C** rise can stress aquatic life. **Cooling towers/ponds** mitigate discharge under Water Act consent conditions.
 
 ---
 

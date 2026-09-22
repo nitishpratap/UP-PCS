@@ -52,7 +52,7 @@ D. Jupiter
 ---
 
 
-## Consolidated — 36 Must-Score Facts
+## Consolidated — 38 Must-Score Facts
 
 1. Big Bang is linked to **Lemaître** / **Gamow** (~**13.7–13.8 bn yr**) and **Hubble** expansion. Steady State is **Hoyle**. Nebular is **Kant–Laplace**. The Milky Way is a **barred spiral** galaxy.
 2. **Chandrasekhar limit** ≈ **1.44 M☉** sets the white-dwarf ceiling; beyond that path → neutron star / black hole. A galactic year for the Sun is ~**22.5–25 crore** years. IAU lists **88** constellations; **Saptarishi** points to the Pole Star.
@@ -90,6 +90,10 @@ D. Jupiter
 34. Most abundant volcanic gas is **water vapour**. Magma is underground; lava is surface melt. **Stromboli** = Mediterranean lighthouse; **Barren Island** = India’s only confirmed active volcano; Circum-Pacific / **Ring of Fire** has the densest volcanic belt.
 35. Earthquake **focus/hypocentre** is the rupture point; **epicentre** is the surface point above it. **P** waves are fastest (all states of matter); **S** waves solids only; surface waves are slowest and most damaging. **Richter** = magnitude (~10× amplitude / ~32× energy per step); **Mercalli** = intensity.
 36. **Tsunami** is Japanese for harbour wave. Ring of Fire ≈ **90%** of world quakes. NW India shakes mainly from **Indian–Eurasian** plate convergence. 2004 Indian Ocean and 2011 **Fukushima** are the classic tsunami case studies.
+
+---
+37. Day and night length vary with seasons because of axial tilt; on equinox day and night are about equal everywhere. Arctic / Antarctic Circles mark 24-hour day or night at solstice.
+38. Plate boundary types: **divergent** (new crust / mid-ocean ridge), **convergent** (trenches / fold mountains), **transform** (side-slip faults). Himalaya = continent–continent collision.
 
 ---
 

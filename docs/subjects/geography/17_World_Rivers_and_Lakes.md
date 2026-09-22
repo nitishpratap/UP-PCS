@@ -46,7 +46,7 @@ D. Colorado
 ---
 
 
-## Consolidated — 28 Must-Score Facts
+## Consolidated — 30 Must-Score Facts
 
 1. **New Orleans** stands on the **Mississippi**, not the Missouri. The Missouri joins the Mississippi at **St Louis**.
 2. **Budapest** is on the **Danube**. **Cologne** is on the **Rhine**. India’s **Hyderabad** (हैदराबाद) is on the **Musi**, not the Godavari (गोदावरी) or Paleru.
@@ -76,6 +76,10 @@ D. Colorado
 26. **Mahaweli** = longest Sri Lanka river; Sri Lanka drainage is **radial** from central highlands.
 27. City–river desk: Phnom Penh–Mekong; Hanoi–Red; Yangon–Irrawaddy; Madrid–Manzanares; Bangkok–Chao Phraya; Basra–Shatt al-Arab.
 28. **Grand Canyon** = Colorado. **Chisapani Gorge** = Nepal (Karnali). Largest delta = **Ganga (गंगा)–Brahmaputra (ब्रह्मपुत्र)**. Inselberg ≠ glacier.
+
+---
+29. International rivers to keep: Nile (Africa), Amazon (South America), Danube (most countries crossed), Rhine (busy European navigation), Mekong (SE Asia), Rio Grande (USA–Mexico border).
+30. Lake genesis types: tectonic / rift, glacial, crater, lagoon, oxbow and artificial reservoir — do not treat every famous lake as simply “fresh”.
 
 ---
 
@@ -116,8 +120,6 @@ Read as: **this** is correct · **that** is the usual wrong option.
 | Dead Sea | Lowest land + hypersaline | Ordinary sea | मृत सागर |
 | Niger | **Paradox** (inland arc first) | Straight to Gulf | नाइजर |
 | Volga mouth | **Caspian** | Black Sea | वोल्गा |
-
----
 
 ---
 

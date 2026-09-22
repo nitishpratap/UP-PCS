@@ -41,8 +41,8 @@ Raja (राजा) Ram Mohan Roy (राम मोहन राय) | Ishwar Ch
 22. Aligarh and Sir Syed are always paired in matches: the **institution (1875)** and its **founder-reformer**. Do not separate them into unrelated options.
 23. Wahabi vs Ahmadiyya: militant revivalist stream versus peaceful messianic stream — a religion-politics confused pair inside Muslim reform.
 24. Young Bengal / Derozio belongs to the Bengal radical student stream, not to Phule’s Satyashodhak work in Maharashtra.
-25. Region map for unknown bodies: place the name on Bengal / Maharashtra / Punjab / South / Muslim-orientation before guessing the year.
-26. Prarthana Samaj is Bombay liberal religious reform; Satyashodhak is Phule’s anti-caste sabha — same presidency (प्रेसीडेंसी), different social aim.
+25. Region map before guessing year: **Bengal** (Brahmo / Young Bengal) · **Maharashtra** (Prarthana / Satyashodhak / Karve) · **Punjab** (Arya / Singh Sabha) · **South** (SNDP / Self-Respect) · **Muslim axis** (Aligarh / Deoband / Wahabi / Ahmadiyya).
+26. Prarthana Samaj is Bombay liberal religious reform; Satyashodhak is Phule’s anti-caste sabha — same presidency, different social aim.
 27. **Akbar (अकबर) II** gave Roy the title **Raja** (राजा) and sent him to England (**1830**); Roy died at **Bristol (1833)**.
 28. Dayanand is tagged **Martin Luther of India**; he first popularised **Swaraj** (स्वराज), **Hindi as national language (राष्ट्रभाषा)**, and **Swadeshi** (स्वदेशी) goods; **Pakhand Khandini Pataka (1867)** precedes Arya Samaj **1875** (HQ later **Lahore 1877**).
 29. Match extras: **Dev Samaj** (Shiv Narayan Agnihotri, Lahore **1887**); **Dharma Sabha** (Radhakant Deb, **1830**, orthodox); **Lokahitwadi** = **Gopal Hari Deshmukh (देशमुख)**; **Servants of India Society** = **Gokhale (गोखले), 1905**.

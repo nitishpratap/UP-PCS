@@ -22,7 +22,7 @@ Renewable | Non-renewable | Conventional | Non-conventional | Solar | Wind | Bio
 
 ---
 
-## Consolidated — 34 Must-Score Facts
+## Consolidated — 36 Must-Score Facts
 
 1. **Renewable** sources replenish on a human timescale (sun, wind, water, biomass, geothermal). **Non-renewable** sources are finite stocks (coal, oil, gas, uranium). Notes usually treat **nuclear as non-renewable** even though it is low-carbon.
 2. In Indian usage, **conventional** energy means coal, oil, gas, **large hydro**, and nuclear. **Non-conventional** means solar, wind, biomass, biogas, tidal, geothermal, ocean, and **small hydro ≤25 MW** — treated as roughly equal to **renewable** in many stems.
@@ -58,6 +58,8 @@ Renewable | Non-renewable | Conventional | Non-conventional | Solar | Wind | Bio
 32. Small hydro cutoff **≤25 MW** is the recurring MNRE number.
 33. Nuclear’s classification is usually non-renewable/conventional, not “renewable because low carbon.”
 34. Energy conservation (using less) and energy efficiency (more service per unit energy) are neighbours under BEE/PAT, not synonyms for renewable capacity addition alone.
+35. **SATAT** promotes **compressed biogas (CBG)** for transport; oil-marketing companies procure CBG. **GOBAR-Dhan** is the community/dung biogas neighbour scheme — do not invent butane as a major biogas gas.
+36. Biogas forms by **anaerobic** digestion; slurry is useful bio-fertiliser after gas capture.
 
 ---
 

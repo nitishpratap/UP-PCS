@@ -48,7 +48,7 @@ D. 8 degrees 4' N to 37 degrees 6' N
 ---
 
 
-## Consolidated — 30 Must-Score Facts
+## Consolidated — 32 Must-Score Facts
 
 1. UNCLOS: **territorial sea 12 nm**, **contiguous zone 24 nm**, **EEZ 200 nm**. The continental shelf may extend to **350 nm**, but that does **not** push EEZ water beyond 200.
 2. **Innocent passage** applies in the territorial sea. **Transit passage** applies in international straits.
@@ -80,6 +80,10 @@ D. 8 degrees 4' N to 37 degrees 6' N
 28. **South America** = Bird Continent. **Sri Lanka** = Mistress of the Eastern Sea / Pearl of the Indian Ocean. **Singapore** = Gateway to Asia. **Istanbul** = Gateway to the West.
 29. City tags: **Venice** = canals; **Osaka** = Manchester of the East; **San Francisco** = Golden Gate; **Chicago** = City of Smoke; **Buenos Aires** = Paris of South America; **St. Petersburg** = Venice of the North.
 30. **Pamir** = Roof of the World. **Baikal** = Pearl of Siberia. **Bahrain** = Island of Pearls. **Aberdeen** = Oil Capital of Europe. **Ninety East Ridge** = Indian Ocean.
+
+---
+31. India’s land neighbours are seven; maritime neighbours are Sri Lanka and Maldives. Longest land border = **Bangladesh**; shortest = **Afghanistan** (via Wakhan / PoK teaching).
+32. Sobriquet diet extras: **Venice** = canals; **Osaka** = Manchester of the East; **Chicago** = City of Smoke; **Pamir** = Roof of the World; **Baikal** = Pearl of Siberia.
 
 ---
 
@@ -137,8 +141,6 @@ D. 8 degrees 4' N to 37 degrees 6' N
 | Oil Capital of Europe | **Aberdeen** | Liverpool / Belfast | यूरोप की तेल राजधानी |
 | Land of Promise | **Mindanao** | Java / Cuba | वादा द्वीप |
 | Ninety East Ridge | **Indian Ocean** | Pacific / Atlantic | नाइंटी ईस्ट रिज |
-
----
 
 ---
 

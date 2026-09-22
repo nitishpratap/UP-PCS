@@ -29,13 +29,32 @@
 
 ---
 
-## Must-Score Facts (High-Yield UKPCS)
+## Consolidated — 24 Must-Score Facts
 
-1. **Kalu Mahara (1857):** Hailed as the first freedom fighter of Uttarakhand. Organized the secret group *Krantiveer* in Kali (काली) Kumaon (Bisung village, Lohaghat) on the secret invitation of Nawab Wajid Ali Shah (वाजिद अली शाह) of Awadh (अवध); attacked British barracks at Chandmari (Lohaghat).
-2. **Kumaon Parishad Timeline:** Founded Sept 1916; 4th conference at Kashipur (1920) passed resolutions supporting Non-Cooperation (असहयोग); merged into INC in 1926.
-3. **Coolie-Begar Abolition (13–14 Jan 1921):** At the Uttarayani fair in Bageshwar on the banks of the Saryu, 40,000 peasants led by Badridatt Pandey, Hargovind Pant, and Chiranji Lal vowed never to give begar (बेगार) and flung the colonial revenue registers into the river. Mahatma Gandhi (महात्मा गांधी) called it a **"Bloodless Revolution"**.
-4. **Peshawar Incident (23 April 1930):** Captain Ricketts ordered the 2/18 Royal Garhwal Rifles to open fire on unarmed Khudai Khidmatgars at Qissa Khwani Bazaar. Platoon Commander Chandra Singh Garhwali roared: *"Garhwaliyo, Cease Fire!"* Court-martialed; Barrister Mukandi Lal fought his legal defense.
-5. **Sult Firing (5 September 1942):** British SDM Johnson ordered firing at Khumaan in Sult (Almora). Four (चातुर्याम) martyrs: Ganga (गंगा) Ram, Kheema Dev, Churamani, and Bahadur Singh. Gandhi named Sult the *Bardoli of Kumaon*.
+1. **1857 — Kalu Mahara (Kalu Singh Mehra):** First hill freedom-fighter memory; secret org **Krantiveer** in Kali Kumaon (Bisung / Lohaghat); attacked British barracks at **Chandmari**; linked in tradition to Wajid Ali Shah’s invitation.
+2. **Almora Debating Club (1870)** and **Almora Akhbar (1871)** open the vernacular political press; after the Akhbar was banned, **Badridatt Pandey** founded weekly *Shakti* on **15 October 1918**.
+3. **Garhwal Hitkarini / Garhwal Union (1901)** was founded by **Tara Dutt Gairola** (*Garhwal Samachar* 1902, *Garhwali* 1905).
+4. **Kumaon Parishad** founded **Sept 1916** at **Majjkhali (Almora)** by B. D. Pandey, G. B. Pant, Hargovind Pant, Indralal Shah; **merged into INC in 1926** (6th session, Ganiyadholi / Ranikhet, Mukandi Lal).
+5. Landmark Parishad sessions: **1st Almora 1917** (Jay Datt Joshi) → **2nd Haldwani 1918** (Tara Dutt Gairola) → **3rd Kotdwar 1919** → **4th Kashipur 1920** (Hargovind Pant; Non-Cooperation + Coolie-Begar deadline) → **5th Tanakpur 1923** → **6th merger 1926**.
+6. **Home Rule League, Dehradun (1918)** was founded by **Swami Vicharanand Saraswati** — not Dayanand (UKPCS 2025).
+7. **Badridatt Pandey met Gandhi at Calcutta (Dec 1918)** to brief him on Coolie-Begar — not at Kausani.
+8. **Coolie-Begar — Cause:** Forced unpaid labour, porterage, and rations for touring officials (*Coolie-Begar / Utar / Burdash*).
+9. **Coolie-Begar — Course:** On **13–14 January 1921** (Uttarayani) at **Bageshwar** on the Saryu, ~40,000 peasants led by **Badridatt Pandey, Hargovind Pant, Chiranji Lal** swore to end begar and flung revenue registers into the river.
+10. **Coolie-Begar — Result:** System collapses without bloodshed; Gandhi called it a **“Bloodless Revolution”**; Badridatt earns the title **“Kumaon Kesari”**.
+11. **Gandhi in Kumaon (14 June–2 July 1929):** Stayed **12 days** at Kausani (later Anashakti Ashram); wrote the intro to *Anashakti Yoga*; called Kausani the **“Switzerland of India”**. Garhwal tour followed **16–24 Oct 1929**.
+12. **Peshawar Incident — Cause/Course:** On **23 April 1930**, during CDM at Qissa Khwani, Captain Ricketts ordered **2/18 Royal Garhwal Rifles** to fire on unarmed Khudai Khidmatgars; Havildar Major **Chandra Singh Garhwali** ordered **cease fire**.
+13. **Peshawar — Result:** Court-martial at Abbottabad; **Barrister Mukandi Lal** defended; Chandra Singh got rigorous imprisonment (saved from the gallows).
+14. **Dandi March (1930)** Uttarakhand satyagrahis among the 78: **Jyotiram Kandpal, Bhairav Dutt Joshi, Gorakh Veer (Khadag Bahadur)**.
+15. **Dola-Palki (1930):** **Jayanand Bharati** led the struggle for palanquin rights for Dalit (Shilpkar) wedding parties.
+16. **Quit India — Sult firing (5 Sept 1942):** SDM Johnson’s police fire at **Khumaan, Sult (Almora)**; martyrs include **Ganga Ram, Kheema Dev, Churamani, Bahadur Singh**; Gandhi named Sult the **“Bardoli of Kumaon”**.
+17. **Deghat firing (18 Aug 1942, Almora):** **Hari Krishna** and **Heera Mani** martyred; Chanauda Gandhi Ashram raided **10 Aug 1942**.
+18. Do not swap **Kashipur 1920 (4th Parishad)** with **Majjkhali / Almora 1916 (founding)**.
+19. Do not swap **Bardoli of Kumaon (Sult)** with **Bardoli of Garhwal (Gujaddoo)**.
+20. Do not swap **Peshawar refusal (Garhwali troops)** with **Tilari firing (Tehri troops)**.
+21. Do not swap **Calcutta 1918 (Coolie-Begar briefing)** with **Kausani 1929 (Anashakti stay)**.
+22. Do not swap **Almora Akhbar (1871)** with ***Shakti* (15 Oct 1918)**.
+23. Hold the hill freedom spine: **1857 Kalu Mahara → press/Parishad → Coolie-Begar 1921 → Gandhi 1929 → Peshawar 1930 → Dandi/Dola-Palki → Quit India Sult 1942**.
+24. Coolie-Begar and Sult both need Cause → Course → Result memory; Peshawar is a refusal-to-fire card, not a massacre-by-hill-troops card.
 
 ---
 

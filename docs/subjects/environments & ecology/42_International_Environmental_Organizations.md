@@ -21,7 +21,7 @@ UNEP (संयुक्त राष्ट्र पर्यावरण क�
 
 ---
 
-## Consolidated — 24 Must-Score Facts
+## Consolidated — 29 Must-Score Facts
 
 1. **UNEP** was created after **Stockholm 1972** (स्टॉकहोम सम्मेलन). Its HQ is **Nairobi**. Flagship products include the **Emissions Gap Report** (उत्सर्जन अंतराल रिपोर्ट) and **GEO**.
 2. **UNDP** sits in **New York** and publishes the **Human Development Report / HDI** (from **1990**).
@@ -47,6 +47,11 @@ UNEP (संयुक्त राष्ट्र पर्यावरण क�
 22. Treaty secretariats hosted or supported by UNEP (Montreal, Basel, Stockholm POPs, Minamata) are still treaty bodies, not UNEP synonyms.
 23. WWF is not the Red List author. IUCN is.
 24. FAO HQ is Rome, not Paris or Geneva.
+25. **WMO** headquarters is **Geneva**. It grew from the International Meteorological Organization (**1873**) and became WMO on **17 March 1951**. It co-created the **IPCC** with UNEP in **1988**.
+26. **Greenpeace International** is an environmental NGO headquartered in **Amsterdam**, Netherlands.
+27. The **US EPA** was established on **2 December 1970**. Do not confuse it with India’s **Environment (Protection) Act, 1986**.
+28. **OPCW** implements the **Chemical Weapons Convention** (force **29 April 1997**); HQ is **The Hague**. It won the Nobel Peace Prize in **2013**. It is **not** an EU, NATO, or WHO body.
+29. **UN-Habitat** (UN Human Settlements Programme; HQ **Nairobi**, from **1978**) promotes sustainable towns and shelter. Partners are **not** governments-only.
 
 ---
 

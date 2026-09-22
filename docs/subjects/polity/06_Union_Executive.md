@@ -55,9 +55,9 @@ D. Members of Lok Sabha (लोकसभा) only
 ---
 
 
-## Consolidated — 28 Must-Score Facts
+## Consolidated — 30 Must-Score Facts
 
-1. **Part V, Articles 52–78** cover the Union Executive: **President, Vice-President, Prime Minister, Council of Ministers, and Attorney General**.
+1. **Part V** covers the Union: Executive (**Articles 52–78** — President, Vice-President, Prime Minister, Council of Ministers, Attorney General) plus Parliament, and the **CAG under Articles 148–151**.
 2. India follows a parliamentary system: the **President** is the **nominal / de jure** head; the **real / de facto** executive is the **Council of Ministers headed by the Prime Minister**.
 3. **Article 53** vests executive power of the Union in the **President**, exercised in practice on the **aid and advice** of the Council of Ministers under **Article 74**.
 4. The President is elected **indirectly** by an Electoral College of **elected** MPs of both Houses, **elected** MLAs of the States, and **elected** MLAs of **Delhi and Puducherry** (**70th Amendment**).
@@ -76,15 +76,17 @@ D. Members of Lok Sabha (लोकसभा) only
 17. Council of Ministers size is capped at **15% of the Lok Sabha** by the **91st Amendment**. Collective responsibility under **Article 75(3)** is to the **Lok Sabha only**.
 18. Individual ministers hold office during the **pleasure of the President** (**Article 75(2)**). Rank order: Cabinet Ministers → Ministers of State → Deputy Ministers. Cabinet Committees are **extra-constitutional**.
 19. The **Attorney General** (महान्यायवादी) (**Article 76**) is the first law officer, needs Supreme Court judge qualifications, holds office **during the pleasure of the President**, and may **speak in both Houses** but **cannot vote**.
-20. The **Warrant / Table of Precedence (1979)** is **ceremonial only**. It is **not** the constitutional line of succession.
-21. Precedence ranks to fact: **1** President, **2** Vice-President, **3** Prime Minister, **4** Governors (within their State), **5** former Presidents, **6CJI = Speaker**, **7** Cabinet Ministers / CMs (in State) / former PMs / Leaders of Opposition, **11Attorney General**.
-22. Do not place the Speaker below Cabinet Ministers: Speaker shares **rank 6** with the CJI; Cabinet Ministers are **rank 7**. AG at **11** does **not** outrank Cabinet Ministers.
-23. **CEC / CAG (भारत के नियंत्रक-महालेखापरीक्षक) / UPSC (संघ लोक सेवा आयोग) Chair** sit at **9A**; Supreme Court judges sit at **9** — do not swap those bands.
-24. The PMO is headed by the **Principal Secretary** to the PM. The **Cabinet Secretariat** is headed by the **Cabinet Secretary** — different offices.
-25. Nomination for President needs **50** proposers and **50** seconders; disputes go to the **Supreme Court** under **Article 71**.
-26. Resignation of the President is addressed to the **Vice-President**. The President shall not be a member of either House; if a sitting (बैठक) member is elected, the seat is vacated.
-27. Kitchen / inner Cabinet and most Cabinet Committees are political practice, not constitutional offices. Deputy Prime Minister is also a political designation, not a separate constitutional post.
-28. **Droupadi Murmu** became the **15th President** (office from **25 July 2022**) — first tribal President and second woman President.
+20. The **CAG (Articles 148–151)** is appointed by the President for **six years or age 65**, removed **like a Supreme Court judge** (not pleasure tenure), and is barred from further Union or State office. Union reports go to the **President** then Parliament; State reports go to the **Governor**. Contrast: **AG = pleasure**; **CAG = SC-judge security**.
+21. The **Warrant / Table of Precedence (1979)** is **ceremonial only**. It is **not** the constitutional line of succession.
+22. Precedence ranks to fact: **1** President, **2** Vice-President, **3** Prime Minister, **4** Governors (within their State), **5** former Presidents, **6** CJI = Speaker, **7** Cabinet Ministers / CMs (in State) / former PMs / Leaders of Opposition, **11** Attorney General.
+23. Do not place the Speaker below Cabinet Ministers: Speaker shares **rank 6** with the CJI; Cabinet Ministers are **rank 7**. AG at **11** does **not** outrank Cabinet Ministers.
+24. **CEC / CAG (भारत के नियंत्रक-महालेखापरीक्षक) / UPSC (संघ लोक सेवा आयोग) Chair** sit at **9A**; Supreme Court judges sit at **9** — do not swap those bands.
+25. The PMO is headed by the **Principal Secretary** to the PM. The **Cabinet Secretariat** is headed by the **Cabinet Secretary** — different offices.
+26. Nomination for President needs **50** proposers and **50** seconders; disputes go to the **Supreme Court** under **Article 71**.
+27. Resignation of the President is addressed to the **Vice-President**. The President shall not be a member of either House; if a sitting (बैठक) member is elected, the seat is vacated.
+28. Kitchen / inner Cabinet and most Cabinet Committees are political practice, not constitutional offices. Deputy Prime Minister is also a political designation, not a separate constitutional post.
+29. **Doctrine of Pleasure** (Article **310**) is the general rule for civil servants, but it is **restricted** by Article **311** and by the hard removal routes for judges, CAG, CEC and similar offices.
+30. **Droupadi Murmu** became the **15th President** (office from **25 July 2022**) — first tribal President and second woman President.
 
 ---
 

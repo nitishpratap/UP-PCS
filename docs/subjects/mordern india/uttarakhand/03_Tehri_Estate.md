@@ -26,14 +26,28 @@
 
 ---
 
-## Must-Score Facts (High-Yield UKPCS)
+## Consolidated — 20 Must-Score Facts
 
-1. **28 December 1815 (Restoration Day):** Sudarshan Shah arrived at the confluence of the Bhagirathi (भागीरथी) and Bhilangna rivers (*Ganesh Prayag*) to found Old Tehri after the British retained British Garhwal (Pauri (पौड़ी)/Srinagar) for themselves.
-2. **Sabhasar (1828):** Written in Brajbhasha by Sudarshan Shah under the pen name *Kavi Surat*; primary source for late Parmar dynastic history.
-3. **English Education Pioneer (Pratap Shah):** Built Pratap High School (1883), established the *Pratap Press* (first printing press in hill state), and organized the state into 22 Pattis with a regular police code.
-4. **Tilari Massacre (30 May 1930):** Forest agitation (*Dhandak*) against the 1924 land settlement in Rawain. Diwan **Chakradhar Juyal** (nicknamed the *General Dyer of Uttarakhand*) encircled and slaughtered peaceful farmers assembled on the Tilari plains.
-5. **Sridev Suman's 84-Day Fast:** Imprisoned under barbaric conditions for demanding civil liberties; sacrificed his life on 25 July 1944.
-6. **Kirtinagar Revolt (11 January 1948):** **Nagendra Saklani** and **Molu Ram (Bhartwal)** were martyred capturing the Kirtinagar court, forcing Maharaja Manvendra Shah to capitulate.
+1. **Foundation:** On **28 December 1815**, **Sudarshan Shah** founds Old Tehri at **Ganesh Prayag** (Bhagirathi–Bhilangna confluence) after the British keep eastern Garhwal and restore western Garhwal as the Tehri estate.
+2. **Boundary:** The **Alaknanda / Mandakini** line divides **Tehri Princely State** (west) from **British Garhwal** (east).
+3. Tehri kings carry the reverential title **“Bolanda Badri”** (living Badrinath memory).
+4. Sudarshan Shah authored the seven-volume *Sabhasar* (**1828**, Brajbhasha; pen name *Kavi Surat*) — a primary source for late Parmar history.
+5. **Bhawani Shah (1859–1871)** leased Yamuna / Kaligad deodar forests to **Frederick Wilson (“Pahari Wilson”)** in **1860**.
+6. **Pratap Shah (1871–1886)** starts **English education** (*Pratap High School, 1883*), the *Pratap Press*, police code, and allopathic dispensary (**1876**) — UKPCS education stem keys him, not Narendra Shah.
+7. **Kirti Shah (1886–1913)** is the model moderniser: **Tehri Clock Tower (1897)**, first hydro-power (**1906**), *Kirtinagar (1894)*, hosted **Swami Rama Tirtha (1902)**.
+8. **Narendra Shah (1913–1946)** shifts the capital to **Narendranagar (1925)** and imposes the rigid **1924 forest settlement** that sparks Rawain *Dhandak*.
+9. **Tilari / Rawain Kand — Cause:** The **1924** forest settlement barred grazing and timber rights in Rawain under Narendra Shah.
+10. **Tilari — Course:** On **30 May 1930**, Diwan **Chakradhar Juyal** (while the king was in Europe) encircled unarmed peasants on the Tilari plains and opened fire.
+11. **Tilari — Result:** Mass deaths / drownings in the Yamuna; remembered as the **“Jallianwala Bagh of Uttarakhand”**; Juyal as **“General Dyer of Uttarakhand”**.
+12. **Tehri Rajya Praja Mandal** was founded on **23 January 1939** at Dehradun by **Sridev Suman**, Paripurnanand Painuli, Daulatram, and **Nagendra Saklani** — aim: responsible government under the Maharaja.
+13. **Sridev Suman:** Arrested **27 Dec 1943**; began indefinite fast **3 May 1944**; died after an **84-day** hunger strike on **25 July 1944** in Tehri Jail (body cast into the Bhilangna).
+14. **Saklana / Kirtinagar — Course:** On **11 January 1948**, marchers capture the Kirtinagar court; **Nagendra Saklani** and **Molu Ram (Bhartwal)** are martyred.
+15. **Result — merger:** Royal authority collapses; **Manvendra Shah** signs accession; Tehri merges into India on **1 August 1949** (as a UP district).
+16. Do not swap **Pratap Shah (English education 1883)** with **Narendra Shah (Narendranagar 1925)**.
+17. Do not swap **Tilari Kand (30 May 1930, Tehri troops fire)** with **Peshawar (23 April 1930, Garhwal Rifles refuse to fire)**.
+18. Do not swap **Suman (84-day fast, 1944)** with **Saklani (shot, 1948)**.
+19. Do not swap **Tehri restoration (28 Dec 1815)** with **Tehri merger (1 Aug 1949)**.
+20. Hold the ruler ladder: **Sudarshan → Bhawani → Pratap → Kirti → Narendra → Manvendra**.
 
 ---
 

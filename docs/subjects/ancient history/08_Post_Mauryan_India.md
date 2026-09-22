@@ -33,7 +33,7 @@ Post-Mauryan Period | Satavahana Rulers | South Indian History | Indo-Greeks | S
 14. The brief Parthian / Pahlava bridge king is **Gondophares**. The northwest Buddhist site fact for this age is **Takht-i-Bahi**.
 15. Kushans rise from the **Yuezhi**. **Kujula Kadphises** founds the house; **Vima Kadphises** floods India with imperial **gold**; **Kanishka** (कनिष्क) is the greatest ruler.
 16. Kushan main capital is **Purushapura (Peshawar)**. **Mathura** (मथुरा) in Uttar Pradesh is the second great Indian centre. Art pairs **Gandhara** (गांधार) Greco-Buddhist schist with **Mathura** red sandstone.
-17. keys peg Kanishka’s accession to **78 CE**, the start of the **Shaka era**. Do **not** confuse it with **Vikrama Samvat 57 BCE**.
+17. Coaching keys peg Kanishka’s accession to **78 CE**, the start of the **Shaka era**. Do **not** confuse it with **Vikrama Samvat 57 BCE**.
 18. Kanishka convened the **Fourth Buddhist Council** in Kashmir at **Kundalvana**. **Vasumitra** is remembered as president, and **Ashvaghosha** (अश्वघोष) belongs to this age. Kanishka’s title is **Devaputra** (देवपुत्र).
 19. Sangam Tamilakam’s **Muvendar** are **Chera** (bow), **Chola** (चोल) (tiger), and **Pandya** (fish). Capitals are **Vanji / Karur**, **Uraiyur**, and **Madurai** (मदुरै).
 20. **Karikala** is the Sangam Chola who built the **Kallanai** on the Kaveri. He is **not** imperial **Rajaraja I** of Thanjavur.

@@ -33,7 +33,7 @@ Cyclone **formation** (SST ~27°C, Coriolis, low shear) and IMD wind ladder are 
 ---
 
 
-## Consolidated — 26 Must-Score Facts
+## Consolidated — 30 Must-Score Facts
 
 1. Coaching risk fact: **Risk ≈ Hazard × Vulnerability / Capacity**. A disaster happens when a hazard hits exposed people or assets and capacity is too weak.
 2. The disaster-management cycle runs **mitigation → preparedness → response → recovery**. Mitigation is before impact; response is during and just after.
@@ -61,6 +61,12 @@ Cyclone **formation** (SST ~27°C, Coriolis, low shear) and IMD wind ladder are 
 24. In the 2018 UP paper, the **Gomati** (गोमती) carried the “biological disaster” pollution label among the given rivers.
 25. Hazard is potential danger; disaster is when capacity fails. Do not treat the two words as identical.
 26. Cold-wave and fog risk in western Uttar Pradesh and the Terai (तराई) peaks in **December–January**; plains heat waves (**Loo**) peak in **May–June**.
+
+---
+27. Surface seismic waves include **Love** and **Rayleigh**; they arrive after body waves and do most damage. **P** waves travel through solids, liquids and gases; **S** waves travel through **solids only**.
+28. Hazard classes include geophysical (quake, volcano, tsunami), hydrological (flood), meteorological (cyclone, heat/cold wave), climatological (drought) and technological / industrial (Bhopal-type).
+29. Landslide triggers include steep slopes, heavy rain, earthquakes, deforestation and toe-cutting of slopes. Avalanche risk sits mainly in high Himalayan snow belts.
+30. Early-warning chain: IMD (weather / cyclone / heat), INCOIS (tsunami / ocean), CWC (floods), GSI / NDMA guidance for landslides — do not dump every warning on one agency.
 
 ---
 

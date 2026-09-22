@@ -25,28 +25,48 @@
 
 ---
 
-## Must-Score Facts (High-Yield UKPCS)
+## Consolidated — 28 Must-Score Facts
 
-1. **West to East River Alignment (UKPCS 2025 Q109):**  
-   $$\text{Yamuna (West)} \longrightarrow \text{Bhilangana (Tehri (टिहरी))} \longrightarrow \text{Alaknanda (Central)} \longrightarrow \text{Gori Ganga (East Pithoragarh)}$$
-2. **Panch Prayag Confluence Formula:**
-   - **Vishnuprayag:** Alaknanda + Western Dhauliganga (धौलीगंगा) (Chamoli)
-   - **Nandaprayag:** Alaknanda + Nandakini (Chamoli)
-   - **Karnaprayag:** Alaknanda + Pindar (Chamoli)
-   - **Rudraprayag:** Alaknanda + Mandakini (मंदाकिनी) (Rudraprayag)
-   - **Devprayag:** Alaknanda + Bhagirathi (Tehri Garhwal (गढ़वाल)) $\rightarrow$ becomes **Ganga**
-3. **Panch Kedar (Body Parts of Shiva Worshipped):**
-   - **Kedarnath (केदारनाथ):** Hump (*Prishtha*) — Rudraprayag
-   - **Madhyamaheshwar:** Navel (*Nabhi*) — Rudraprayag
-   - **Tungnath:** Arms (*Bhuja*) — Rudraprayag (highest Shiva temple: 3,680 m)
-   - **Rudranath:** Face / Mukha (*Mukh*) — Chamoli
-   - **Kalpeshwar:** Hair lock (*Jata*) — Chamoli (only Kedar open all 12 months)
-4. **Panch Badri (All in Chamoli District):**
-   - **Vishal Badri (Badrinath (बद्रीनाथ)):** Main Dham consecrated by Adi Shankara (अद्वैतवाद).
-   - **Yogdhyan Badri:** Pandukeshwar (where Pandu meditated).
-   - **Bhavishya Badri:** Subhai / Tapovan (future shrine).
-   - **Vridha Badri:** Animath (ancient seat before Badrinath).
-   - **Adi Badri:** Karnaprayag (cluster of 16 ancient stone shrines).
+1. **Kali (Sharda)** is the longest river in Uttarakhand at **252 km**; source Lipulekh / Kalapani; it forms the international boundary with Nepal.
+2. **Bhagirathi (205 km)** and **Alaknanda (195 km)** unite at **Devprayag** to form the **Ganga**.
+3. West→east river alignment: **Yamuna → Bhilangana → Alaknanda → Gori Ganga**.
+4. Bhagirathi rises at **Gaumukh** from the **Gangotri Glacier** (Uttarkashi); Alaknanda rises from **Satopanth** and **Bhagirath Kharak** (Chamoli).
+5. **Yamuna** rises from the Yamunotri Glacier (Bandarpunch, Uttarkashi); **Tons** carries about **twice the water volume** of the Yamuna.
+6. **Western Ramganga** rises in the Dudhatoli range and traverses Corbett National Park into UP; **Kosi (Kaushiki)** drains Almora–Ramnagar and joins Ramganga in UP.
+7. **Saryu** rises at Sarmool (Bageshwar) and meets Kali at **Pancheshwar**; **Mandakini** rises from Chaurabari Glacier and meets Alaknanda at Rudraprayag.
+8. **Bhilangana** rises from Khatling Glacier (Tehri) and is submerged in the Tehri Dam reservoir.
+9. Panch Prayag north→south: **Vishnuprayag → Nandaprayag → Karnaprayag → Rudraprayag → Devprayag**.
+10. Vishnuprayag = Alaknanda + Western Dhauliganga; Nandaprayag = Alaknanda + Nandakini; Karnaprayag = Alaknanda + Pindar.
+11. Rudraprayag = Alaknanda + Mandakini; Devprayag = Alaknanda + Bhagirathi → Ganga.
+12. Longest river = **Kali (252 km)**; river with greatest water volume among common traps = **Alaknanda**.
+13. **Gangotri Glacier** (Uttarkashi) is the largest in Uttarakhand (~**30 km** long, 2 km wide); snout **Gaumukh** (~3,900 m).
+14. **Milam Glacier** (Pithoragarh) is the largest in Kumaon (~**16 km**); source of **Gori Ganga**.
+15. **Pindari Glacier** (Bageshwar) feeds the **Pindar**; discovered / crossed by **G. W. Traill** via Traill’s Pass (1830).
+16. **Khatling Glacier** (Tehri) feeds Bhilangana; **Chaurabari Glacier** (Rudraprayag) feeds Mandakini and Chaurabari Tal (Gandhi Sarovar) — linked to the June 2013 Kedarnath disaster.
+17. **Roopkund** (Chamoli, ~5,029 m) is the “Mystery / Skeleton Lake” with 9th-century skeletal remains on the Nanda Devi Raj Jat route.
+18. **Naukuchiatal** (Nainital) is the deepest lake in Kumaon (~40 m, nine corners); **Bhimtal** is the largest lake in Kumaon.
+19. **Nainital Lake** is pear-shaped, discovered by **P. Barron** in 1841; **Dodital** (Uttarkashi) is the six-cornered Ganesha lake feeding Asiganga.
+20. **Hemkund (Lokpal)** (Chamoli) is sacred among seven snow peaks; **Deoria Tal** (Rudraprayag) reflects the Chaukhamba peaks.
+21. Panch Kedar body parts: Kedarnath = hump; Madhyamaheshwar = navel; **Tungnath = arms** (highest Shiva temple, **3,680 m**); Rudranath = face; Kalpeshwar = hair (open all year).
+22. All **Panch Badri** seats are in **Chamoli**: Vishal Badri (Badrinath), Yogdhyan Badri, Bhavishya Badri, Vridha Badri, Adi Badri.
+23. Kali major junctions include Gori Ganga at **Jauljibi** and Saryu at **Pancheshwar**; Gori Ganga is the eastern Pithoragarh trunk in west→east lists.
+24. Glacier-fed Himalayan rivers and steep gradients shape both drainage and hydropower potential of the state.
+25. High-altitude lakes and glacial tarns (Sahasratal on the Khatling ridge; Roopkund; Hemkund) sit on pilgrimage and adventure circuits.
+26. Do not swap Gangotri (largest in UK) with Milam (largest in Kumaon).
+27. Do not swap Vishnuprayag (Alaknanda + Western Dhauliganga) with Devprayag (Alaknanda + Bhagirathi).
+28. Do not swap Tungnath (highest Shiva temple / arms) with Kedarnath (supreme Jyotirlinga / hump).
+
+---
+
+## Confused Pairs & Common Traps
+
+| Confused Pair | Critical Distinction |
+| :--- | :--- |
+| **Longest River vs Deepest River** | Longest river = **Kali (252 km)**; River with greatest water volume = **Alaknanda**. |
+| **Gangotri Glacier vs Milam Glacier** | Gangotri = **Largest in Uttarakhand** (Uttarkashi, 30 km); Milam = **Largest in Kumaon** (Pithoragarh, 16 km). |
+| **Vishnuprayag vs Devprayag** | Vishnuprayag = Alaknanda + **Western Dhauliganga**; Devprayag = Alaknanda + **Bhagirathi** (creates the Ganga). |
+| **Roopkund vs Dodital** | Roopkund = **Skeleton lake** (Chamoli, 5,029 m); Dodital = **6-cornered lake of Ganesha** (Uttarkashi). |
+| **Tungnath vs Kedarnath** | Tungnath = **Highest Shiva Temple** (3,680 m, arms); Kedarnath = **Supreme Jyotirlinga Dham** (hump). |
 
 ---
 
@@ -101,18 +121,6 @@
 | **Dodital** | **Uttarkashi** (उत्तरकाशी) (3,024 m) | **6-cornered lake**; mythologically associated with the birth of Lord Ganesha; origin of the Asiganga river; famous for Himalayan Golden Trout. |
 | **Sahasratal** | **Tehri Garhwal** | Group of hundreds of glacial tarns situated on the northern ridge of Khatling glacier; largest tal in Garhwal. |
 | **Deoria Tal** | **Rudraprayag** (रुद्रप्रयाग) (2,438 m) | Famous for crystal-clear reflection of the **Chaukhamba (चौखंबा) peaks**; mythologically identified with the Yaksha-Yudhisthira dialogue. |
-
----
-
-## Confused Pairs & Common Traps
-
-| Confused Pair | Critical Distinction |
-| :--- | :--- |
-| **Longest River vs Deepest River** | Longest river = **Kali (252 km)**; River with greatest water volume = **Alaknanda**. |
-| **Gangotri Glacier vs Milam Glacier** | Gangotri = **Largest in Uttarakhand** (Uttarkashi, 30 km); Milam = **Largest in Kumaon** (Pithoragarh, 16 km). |
-| **Vishnuprayag vs Devprayag** | Vishnuprayag = Alaknanda + **Western Dhauliganga**; Devprayag = Alaknanda + **Bhagirathi** (creates the Ganga). |
-| **Roopkund vs Dodital** | Roopkund = **Skeleton lake** (Chamoli, 5,029 m); Dodital = **6-cornered lake of Ganesha** (Uttarkashi). |
-| **Tungnath vs Kedarnath** | Tungnath = **Highest Shiva Temple** (3,680 m, arms); Kedarnath = **Supreme Jyotirlinga Dham** (hump). |
 
 ---
 

@@ -56,7 +56,7 @@ D. Chilka, Michigan, Superior, Victoria
 ---
 
 
-## Consolidated — 40 Must-Score Facts
+## Consolidated — 42 Must-Score Facts
 
 1. First classify a lake as lagoon, inland saline, freshwater, crater, glacial, oxbow, or artificial. Origin pairs: **Wular** tectonic, **Chilika** lagoon, **Lonar** crater, **Sambhar** wind / playa, **Kabartal** oxbow.
 2. **Chilika** is the largest **east-coast lagoon** (Odisha / Northern Circars). If a question says “largest saline” and omits “inland,” Chilika is often the intended answer.
@@ -98,6 +98,10 @@ D. Chilka, Michigan, Superior, Victoria
 38. Oldest hydro = **Sidrapong (Darjeeling, 1897)**; second = **Shivasamudram (Cauvery, 1902)**. Cauvery dispute parties = **TN–KA–KL–Puducherry**.
 39. Chambal chain = **Gandhi Sagar (MP) + Rana Pratap (प्रताप) Sagar + Jawahar Sagar (RJ)**. **Telugu Ganga** = Krishna water to **Chennai**. Nehru (नेहरू) = **“temples of modern India.”**
 40. **Narmada Bachao (नर्मदा बचाओ) Andolan** (नर्मदा बचाओ) / **Medha Patkar** (मेधा पाटकर) opposed SSP height. Narmada plan scale ≈ **30 major / 135 medium / 3000 small**.
+
+---
+41. Multipurpose project logic = flood control + irrigation + power (+ navigation / recreation). **DVC (1948)** is the first multipurpose valley project of independent India.
+42. West-coast kayals / lagoons (Vembanad) are not the same class as inland playa lakes (Sambhar) or tectonic freshwater basins (Wular).
 
 ---
 
@@ -150,8 +154,6 @@ D. Chilka, Michigan, Superior, Victoria
 | Dam vs barrage | Dam **stores**; barrage **diverts** (Farakka ~**40,000 cusec** to Hooghly) | Call Farakka a storage dam | बांध जलाशय; बैराज मोड़ |
 | Garland vs Visvesvaraya | Garland = **Dastur**; first linking idea often **Visvesvaraya**; later **K.L. Rao** | Tag Garland to Rao alone | गारलैंड = दस्तूर |
 | Jawai Project | **Rajasthan** (Luni tributary) | Tamil Nadu | जवाई = राजस्थान |
-
----
 
 ---
 

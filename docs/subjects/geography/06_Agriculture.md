@@ -31,7 +31,7 @@
 ---
 
 
-## Consolidated — 34 Must-Score Facts
+## Consolidated — 36 Must-Score Facts
 
 1. **Net sown area (NSA)** is land sown at least once a year. **Gross cropped area (GCA)** counts every sowing. **Cropping intensity** = **GCA / NSA × 100** (about **111%** in 1950–51 to about **156%** now). About **86%** of holdings are small or marginal, and about half of NSA is still rainfed.
 2. Groundwater covers about **64%** of irrigated area (**2018–19**: tubewell ~**48.5%**; canals ~**23%**; tanks ~**2.3%**). Canals suit clayey plains; tube wells dominate north-west and western Uttar Pradesh (उत्तर प्रदेश); tanks suit the peninsula; drip suits horticulture. Minor projects (CCA ≤ **2,000 ha**) create ~**62%** of irrigation potential.
@@ -67,6 +67,10 @@
 32. Green manure N% fact: **cowpea highest** among common options; sunhemp often max kg N/ha. Fertigation avoids rock / super phosphate. Conservation agri = min till + residue + rotation.
 33. Cane points: Sugar Bowl **UP**; breeding **Coimbatore**; first mill **Pratappur 1903**; SSI = WWF (डब्ल्यूडब्ल्यूएफ)–ICRISAT **2009**. Rice Bowl of India = **Krishna (कृष्णा)–Godavari (गोदावरी) delta (डेल्टा)**.
 34. Board HQ: Coffee **Bengaluru**, Tea **Kolkata**, Rubber **Kottayam**, Tobacco **Guntur**. History (इतिहास) of Indian Agriculture = **M.S. Randhawa**.
+
+---
+35. Horticulture / plantation boards: Coffee Board **Bengaluru**, Tea Board **Kolkata**, Rubber Board **Kottayam**, Tobacco Board **Guntur** — keep HQ matches straight.
+36. Animal husbandry flash: India usually leads world **milk** volume; White Revolution / Operation Flood pairs with **Verghese Kurien** and **NDDB Anand**.
 
 ---
 
@@ -112,8 +116,6 @@
 | Coimbatore cane | Sugarcane Breeding Institute | Lucknow only | कोयंबटूर |
 | Pratappur mill | First sugar mill **1903** | Mawana / Balrampur first | प्रतापपुर |
 | Contract farming | Pioneer **Punjab** | Pick Haryana / TN | पंजाब अनुबंध |
-
----
 
 ---
 

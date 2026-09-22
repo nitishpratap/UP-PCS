@@ -33,13 +33,30 @@
 
 ---
 
-## Must-Score Facts
+## Consolidated — 22 Must-Score Facts
 
-1. Forest richness explained by topography + climate (A/R both true, R explains A).
-2. Nanda Devi BR: WHS + snow leopard / musk deer / blue sheep.
-3. Askot–Pithoragarh; Binsar–Almora; Govind–Uttarkashi; Nandhaur–Nainital.
-4. Corbett 1936; Rajaji 1983; Gangotri 1989; Govind **1990**.
-5. Chipko (चिपको) / FSI–FRI–WII stay on Topic 1.
+1. Uttarakhand sits in the **Himalaya** biogeographic zone with high endemism and steep altitudinal habitat belts from Tarai–Bhabar (भाबर) to alpine meadows.
+2. Forest and biodiversity richness is explained primarily by **topography and climate** packing many climatic zones into a short horizontal distance (A/R both true; R explains A).
+3. Habitats run Tarai–Bhabar forests → mid-hill forests → alpine meadows and cold-desert edges — not a single plains biome.
+4. **Corbett National Park (1936)** anchors Tarai tiger conservation and Project Tiger (प्रोजेक्ट टाइगर) memory.
+5. **Rajaji National Park (1983)** covers Shiwalik (शिवालिक)–dun (दून) elephant corridors between Dehradun (देहरादून) and Haridwar (हरिद्वार).
+6. **Gangotri National Park** dates to **1989**. **Govind National Park** dates to **1990** — do **not** date Govind as 1989.
+7. **Nanda Devi** and **Valley of Flowers** (फूलों की घाटी) form one UNESCO World Heritage (विश्व धरोहर) property.
+8. **Nanda Devi Biosphere Reserve** holds **snow leopard**, Himalayan **musk deer**, and **blue sheep (bharal)**.
+9. Biosphere teaching uses **core–buffer–transition** zonation — stricter core, more flexible outer rings — not “just another National Park label.”
+10. Elephant and tiger corridor logic links **Corbett–Rajaji–Terai** (तराई) landscapes with neighbouring UP Terai reserves.
+11. Sanctuary–district pairs: **Askot–Pithoragarh**; **Binsar–Almora**; **Govind–Uttarkashi**; **Nandhaur–Nainital**.
+12. Wildlife Sanctuaries allow regulated human uses that a National Park usually forbids — keep the WPA hierarchy from national Protected Areas notes.
+13. **Asan Conservation Reserve** (संरक्षण आरक्षित क्षेत्र) is UK wetland PA colour and also a **Ramsar** (रामसर) site in national wetland teaching.
+14. National Park ≠ Wildlife Sanctuary ≠ Biosphere Reserve — different legal and management ideas under WPA versus MAB.
+15. Chipko (चिपको), FSI–FRI–WII, and weathering facts stay on Topic 1 (Natural Resources); this card keeps biodiversity–PA focus.
+16. Endemism is high relative (सापेक्ष) to many plains states because altitude stacks many climates in a short distance.
+17. High Garhwal (गढ़वाल) catchments are protected by Gangotri and Govind parks — snow-leopard and musk-deer colour sits here.
+18. Match-list sanctuary stems are decided by district keys, not by alphabetical order of sanctuary names.
+19. Corbett year **1936**, Rajaji **1983**, Gangotri **1989**, Govind **1990** is the core NP chronology spine for UKPCS.
+20. Calling Nanda Devi fauna only “tiger and elephant” is wrong — the BR set is snow leopard / musk deer / blue sheep.
+21. Treating Govind NP as **1989** is the planted chronology trap against Gangotri’s correct **1989**.
+22. Assertion that UK is biodiversity-rich without topography–climate explanation fails the classic A/R pair.
 
 ---
 

@@ -24,7 +24,7 @@ None mandatory — static world-map chapter. No living scheme tag.
 ---
 
 
-## Consolidated — 28 Must-Score Facts
+## Consolidated — 30 Must-Score Facts
 
 1. Area order (largest → smallest): **Asia → Africa → North America → South America → Antarctica → Europe → Australia**. Australia is the **smallest** continent; Africa has the **most countries (~54)**.
 2. Mean elevation leader is **Antarctica** (~2300 m). Europe has the **highest share of plains** in its area. **Guyana** is in **South America**, not Africa.
@@ -54,6 +54,10 @@ None mandatory — static world-map chapter. No living scheme tag.
 26. Temperate grasslands (Prairie, Steppe, Pampas, Veld, Downs) sit on **chernozem**-type wheat soils. Residual and dome mountains are worn or laccolith leftovers, not young fold belts.
 27. **Death Valley** (California) = rift valley, extreme heat, Devil’s Golf Course salt (लवणाध्यक्ष) pan. **Silicon Valley** = California chip belt. **Great Artesian Basin** = Australia. Blind valley / sinkhole = **karst**.
 28. **Arakan Yoma** = Myanmar (India–Myanmar hills: Naga (नागा), Chin, Patkai (पटकाई) / Lushai — not Khasi (खासी) as the boundary trio). **Golan Heights** = Middle East (SW Syria / occupied note). **Black Forest** = Germany (east of Rhine; Vosges west).
+
+---
+29. Plateau types in teaching: intermontane (**Tibet**), piedmont, and volcanic / lava (**Columbia**, Deccan). **Pamir** = “Roof of the world”; **Altiplano** = Bolivia–Peru.
+30. Valley tags: rift valleys (East Africa, Rhine), glacial U-valleys, and structural vales. **Death Valley** = rift / extreme heat; do not confuse with Silicon Valley.
 
 ---
 
@@ -99,8 +103,6 @@ None mandatory — static world-map chapter. No living scheme tag.
 | Galápagos | **Ecuador** | Peru | गैलापागोस |
 | Socotra | **Yemen** | Oman | सोकोत्रा |
 | Majuli | **Brahmaputra** river island | Amazon | माजुली |
-
----
 
 ---
 

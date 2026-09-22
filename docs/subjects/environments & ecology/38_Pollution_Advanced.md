@@ -21,7 +21,7 @@ Air Pollution (Sources | Air Quality | AQI | NCAP (राष्ट्रीय �
 
 ---
 
-## Consolidated — 36 Must-Score Facts
+## Consolidated — 38 Must-Score Facts
 
 1. **Primary** air pollutants are emitted directly (SO₂, PM, CO, NOx, lead). **Secondary** pollutants form in air (O₃, PAN, photochemical smog, acid mist).
 2. **Lichens** are pollution indicators and do **not** grow well in badly polluted air.
@@ -59,6 +59,8 @@ Air Pollution (Sources | Air Quality | AQI | NCAP (राष्ट्रीय �
 34. **H-CNG** reduces CO/HC/CO₂ vs CNG but does **not eliminate** CO; up to ~**1/5** H₂ by volume; not cheaper than CNG.
 35. Geoengineering (भू-इंजीनियरिंग) teaching: **cirrus thinning** and **sulphate aerosol** injection aim at cooling / offsetting warming — not cyclone control.
 36. Steel industry emits **CO, CO₂, SOx, and NOx**. **Aflatoxins** = mould toxins on poorly stored grains.
+37. Excess **nitrogen and phosphorus** fertilisers drive **eutrophication**, raise nitrate in groundwater, and link to **N₂O** climate forcing — Indo-Gangetic wheat–rice systems are high-input geography.
+38. Fertiliser pollution is mostly **nutrient overload**, not heavy-metal tanning chemistry.
 
 ---
 

@@ -71,7 +71,7 @@ D. Hispar
 ---
 
 
-## Consolidated — 32 Must-Score Facts
+## Consolidated — 34 Must-Score Facts
 
 1. India has **six** relief divisions for map questions: Northern Mountains, Northern Plains, Peninsular Plateau, Indian Desert (Thar (थार)), Coastal Plains, and Islands. The Thar is a **Pleistocene and recent** sand sheet, not an older Tertiary desert.
 2. From north to south the Himalayan belts are **Trans-Himalaya → Himadri (Greater) → Himachal (Lesser) → Shiwalik**. Himadri (हिमाद्रि) is crystalline and **fossil-less**. Himachal (हिमाचल) carries **marine fossils**. Shiwalik (शिवालिक) is the outermost belt and holds **human remains**.
@@ -105,6 +105,10 @@ D. Hispar
 30. **Annamalai** and **Sirumalai** are **Tamil Nadu peninsular** hills. They are **not** Himalayan peaks and must not sit in a Himalayan match list.
 31. The Deccan Plateau is the **southern** tableland of the old peninsular block. The Central Highlands (Malwa, Bundelkhand, Baghelkhand) are the **northern** part of the same block. The plateau slopes **high in the west and low in the east**.
 32. The Aravalli runs about **800 km** from Palanpur (Gujarat) toward Delhi. It is a **relict** Archaean fold belt and helps cast the rain shadow (छाया) that feeds the Thar.
+
+---
+33. The **Northern Plains** are built by Indus–Ganga–Brahmaputra alluvium and include Bhabar, Terai, Bhangar and Khadar belts in the standard ladder.
+34. Island groups: **Andaman & Nicobar** (Bay of Bengal, volcanic / tectonic) vs **Lakshadweep** (Arabian Sea, coral). Do not swap the two origin tags.
 
 ---
 

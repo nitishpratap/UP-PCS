@@ -26,16 +26,32 @@
 
 ---
 
-## Must-Score Facts (High-Yield UKPCS)
+## Consolidated — 24 Must-Score Facts
 
-1. **Lakhudiyar ("One Lakh Caves"):** Located at Barechhina in Almora district along the **Suyal River**. Depicts humans dancing with locked hands (*interlocking finger chain*), animals (fox, lizard-like quadrupeds), and geometric waves in three colors: **red (ochre), black (charcoal), and white (lime)**.
-2. **Hudli's Blue Colour:** The only prehistoric site in Uttarakhand featuring **blue-pigment paintings** (located in Uttarkashi district).
-3. **Malari Village Discoveries (Chamoli):**
-   - First reported by **Dr. Shiv Prasad Dabral 'Charan'** in 1956.
-   - Excavations by HNB Garhwal University team led by Dr. B. M. Khanduri (1983 and 2001).
-   - Uncovered a **5.2 kg gold funerary mask**, a complete *Bos indicus/Zebu* bull skeleton, bronze chalices, and fine grey pottery identical to the 2nd millennium BCE **Swat Valley (Pakistan)** grave culture.
-4. **Bankot Anthropomorphs (Pithoragarh):** In 1989, 8 flat humanoid copper figures weighing several kilograms were found at Bankot; related to the all-India Gangetic Copper Hoard Culture.
-5. **Kalsi Ashokan Rock Edict:** Located on the confluence of the **Yamuna and Tons rivers** in Dehradun; inscribed in **Prakrit language** and **Brahmi script** (257 BCE). Proves the central Himalayan foothills were integrated into the Mauryan Empire.
+1. Uttarakhand rock art cluster: **Lakhudiyar** (Almora, Suyal), **Gwarkha Udyar** (Chamoli, Alaknanda), **Hudli** (Uttarkashi — **blue** pigment), **Kimni** (Chamoli — light white weapons/cattle), **Luethap** and **Falsima** (Almora), **Phadkanauli / Petshal** (Almora, Yashodhar Mathpal).
+2. **Lakhudiyar** (“One Lakh Caves”) at Barechhina, Almora, on the **Suyal** was found by **M. P. Joshi** in **1968**. Motifs use **red, black, and white**; interlocking-hand dance figures are the signature.
+3. **Hudli** on the Kamal river in **Uttarkashi** is the only UK prehistoric site famous for **blue-colour** rock paintings.
+4. **Gwarkha Udyar** at Dungri, Chamoli, on the **Alaknanda**, found by Rakesh Bhatt, shows vivid red animal depictions.
+5. **Kimni** (Pindar valley, Chamoli) uses **light white** pigment for weapons and cattle. **Luethap** (Almora) shows blood-red group dancing. **Falsima** shows yogic / dancing postures and cup-marks (*Okhal*).
+6. **Phadkanauli** and **Petshal** (Almora) were recorded by **Yashodhar Mathpal** (1989–90) with ochre dance motifs.
+7. **Malari** (Chamoli) was first reported by **Shiv Prasad Dabral** in **1956** and excavated by HNB Garhwal University (**B. M. Khanduri**, 1983 and 2001).
+8. Malari master finds: **5.2 kg gold funerary mask**, complete Himalayan **Zebu** bull skeleton, bronze chalices, and fine grey pottery linked to **Swat Valley** grave culture of the 2nd millennium BCE.
+9. **Bankot** (Pithoragarh, 1989) yielded **8 copper anthropomorphs** of the Gangetic **Copper Hoard** family — not a Harappan dockyard find.
+10. **Bahadrabad** (Haridwar) was excavated **1951–53** by **Y. D. Sharma** and yields Copper Hoards with **OCP**.
+11. **Naula Jainal** (Almora) has megalithic **cist-burials** recorded by M. P. Joshi.
+12. **Kalsi** Ashokan Rock Edict sits at the **Yamuna–Tons** confluence in **Dehradun**, in **Prakrit** language and **Brahmi** script (**257 BCE**). It proves Mauryan reach into the central Himalayan foothills.
+13. Protohistoric UK memory is **rock art → copper hoards / OCP → megalithic cists → Mauryan Kalsi**. Do not collapse all of these into one “Stone Age only” label.
+14. Malari’s Swat-style pottery points to Himalayan–NW cultural contact. It is **not** a Mature Harappan grid-city.
+15. Bankot anthropomorphs belong with doab **Copper Hoard** culture, not with Kuninda silver coins.
+16. Lakhudiyar is Almora / Suyal — not Uttarkashi. Hudli’s blue pigment is the Uttarkashi trap key.
+17. Gwarkha is Chamoli / Alaknanda — do not move it to Almora.
+18. Kalsi is an **Ashokan** rock edict, not a Gupta or Katyuri copper plate.
+19. Malari gold mask weight (**5.2 kg**) and Zebu skeleton are the two high-yield Malari tags.
+20. Bahadrabad = Haridwar Copper Hoard / OCP; Bankot = Pithoragarh anthropomorphs — keep district and find type separate.
+21. Cup-marks (*Okhal*) at Falsima are a rock-art / ritual surface fact, not a burial inventory.
+22. Mathpal’s Almora survey sites (Phadkanauli, Petshal) sit beside Joshi’s Lakhudiyar discovery — two different discovery tags.
+23. National Stone Age facts (Bhimbetka, Belan) are **not** UK substitutes; UKPCS pulls the local site–district–pigment matrix.
+24. After Kalsi, the next historic UK layers are tribes → Kuninda / Yaudheya → Brahmapura / Taleshwar → Kartikepur (Katyuri).
 
 ---
 

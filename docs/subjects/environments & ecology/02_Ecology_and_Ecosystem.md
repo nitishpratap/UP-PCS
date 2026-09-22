@@ -21,7 +21,7 @@ Ecology – Meaning | Ecosystem | Types of Ecosystems | Terrestrial Ecosystem | 
 
 ---
 
-## Consolidated — 36 Must-Score Facts
+## Consolidated — 39 Must-Score Facts
 
 1. **Ecology** is the **study** of organism–environment (पर्यावरण) interactions. **Haeckel (1866)** coined the term. **Ramdeo Misra** is called the father of Indian ecology. **Bionomics** (बायोनॉमिक्स) is synonymous with ecology; it does **not** mean “management of life.”
 2. An **ecosystem** (पारिस्थितिकी तंत्र) is a **functional unit** of biotic and abiotic interaction with energy flow and nutrient cycling. **Tansley (1935)** coined the word.
@@ -59,6 +59,9 @@ Ecology – Meaning | Ecosystem | Types of Ecosystems | Terrestrial Ecosystem | 
 34. UP lotic examples include the **Ganga (गंगा), Yamuna (यमुना), and Gomti**. Terai (तराई) forest and Vindhyan scrub are terrestrial examples.
 35. UP wetland examples include **Sur Sarovar (Agra)** and **Nawabganj (Unnao)**. Western UP sugarcane belts are classic agro-ecosystems.
 36. Odum is linked to modern ecosystem ecology; keep him separate from Haeckel (term ecology) and Tansley (term ecosystem). **Deep ecology** was coined by **Arne Næss (1973)**. **Ecological Transition** was used by **John W. Bennett**.
+37. **Allen’s Rule:** colder climates → smaller appendages (less heat loss). **Bergmann’s Rule:** colder climates → larger body size (heat conservation). Do not swap the pair.
+38. **Gloger’s Rule:** darker pigmentation is more common in warm, humid regions.
+39. **Limiting similarity** means coexisting species differ enough in niche use that they do not compete for exactly the same resource at the same time.
 
 ---
 

@@ -5,7 +5,7 @@
 
 ---
 
-## Consolidated — 30 Must-Score Facts
+## Consolidated — 32 Must-Score Facts
 
 1. **Wheat Ranks:** Top Producer States: **Uttar Pradesh (उत्तर प्रदेश) (#1)** > Madhya Pradesh (#2) > Punjab (#3). Highest productivity/yield (kg/ha): **Punjab** and **Haryana**. UP produces over **32%** of India's wheat.
 2. **Rice Ranks:** Top Producer States: **West Bengal (#1)** > Uttar Pradesh (#2) > Punjab (#3). Highest productivity/yield: **Punjab**. Rice is India's principal kharif (खरीफ) crop and largest cultivated area.
@@ -37,6 +37,10 @@
 28. **Nuclear Minerals:** Uranium: **Andhra Pradesh (Tummalapalle)** has the largest reserve; **Jharkhand (Jaduguda in East Singhbhum)** is the oldest operating mine. Thorium: **Kerala and Tamil Nadu** monazite coastal beach placer sands.
 29. **Global Agricultural Leaders:** Wheat & Rice: **China (#1)** > India (#2). Sugarcane: **Brazil (#1)** > India (#2). Cotton: **China (#1)** > India (#2) > USA (#3). Tea: **China (#1)** > India (#2). Coffee: **Brazil (#1)** > Vietnam (#2) > Colombia (#3). Milk: **India (#1)** > USA (#2).
 30. **Global Mineral Leaders:** Coal: **China (#1, >50% of world)** > India (#2) > USA (#3). Iron Ore: **Australia (#1)** > Brazil (#2) > China (#3) > India (#4). Crude Petroleum: **USA (#1)** > Saudi Arabia (#2) > Russia (#3). Copper: **Chile (#1)** > Peru (#2) > DR Congo (#3). Bauxite: **Australia (#1)** > Guinea (#2) > China (#3). Gold: **China (#1)** > Australia (#2) > Russia (#3). Uranium: **Kazakhstan (#1, >43%)** > Canada (#2) > Namibia (#3).
+
+---
+31. Horticulture board / crop HQ reminders for ranks: potato / mango / guava leadership often **Uttar Pradesh**; banana / eggs / inland fish often **Andhra Pradesh**; marine fish often **Gujarat**.
+32. Keep **reserves vs production** traps alive for coal (Jharkhand reserves vs Chhattisgarh production) and copper (Rajasthan reserves vs Madhya Pradesh production).
 
 ---
 

@@ -5,28 +5,43 @@
 
 ---
 
-## Consolidated — 20 Must-Score Facts (UP Special)
+## Consolidated — 34 Must-Score Facts (UP Special)
 
 1. **Sex Ratio Extremes (Census 2011):** Highest sex ratio is **Jaunpur (जौनपुर) (1024)**, followed by Azamgarh (1019) and Deoria (1017). Lowest sex ratio is **Gautam Buddha (बुद्ध) Nagar (851)**.
 2. **Density Extremes:** Highest population (जनसंख्या) density is **Ghaziabad (3971 per sq. km)**; lowest is **Lalitpur (242 per sq. km)**. State average is **829**.
-3. **Literacy Extremes:** Highest literacy is **Gautam Buddha Nagar (80.1%)**; lowest literacy (overall, male, and female) is **Shrawasti (46.7% overall; 34.8% female)**.
-4. **SC & ST Population:** Highest percentage of SC is in **Kaushambi (कौशांबी) (34.7%)**; highest absolute (निरपेक्ष) SC population is in **Sitapur** (नैमिषारण्य). Highest ST population (both absolute and percentage) is in **Sonbhadra (सोनभद्र) (20.7%)**; lowest/negligible ST population is in **Baghpat and Jalaun**.
-5. **Charkula (चरकुला) Folk (लोक) Dance:** Iconic (साकार) folk dance of the **Braj (ब्रज) region (Mathura (मथुरा))** wherein women balance a multi-tiered wooden pyramid (पिरामिड) holding **108 lit oil lamps** on their heads.
-6. **Karma (कर्म) Folk Dance:** Performed in **Sonbhadra and Mirzapur (मिर्ज़ापुर)** by tribal (आदिवासी) communities (Kharwar, Kol, and Baiga) as an offering to Karma devta for agricultural prosperity.
-7. **Rai (राई) Folk Dance:** Traditional peacock dance of **Bundelkhand** performed by women of the Beriya community on auspicious occasions like Janmashtami (जन्माष्टमी).
-8. **Heroic Ballad 'Alha (आल्हा)':** Celebrated heroic folk song (सोंग) of **Bundelkhand** composed in *Banaffari* (बनफरी) dialect narrating the 52 battles of warrior brothers Alha and Udal.
-9. **Monsoon Song 'Kajri (कजरी)':** Centred in **Mirzapur and Varanasi (वाराणसी)**; sung by women during the rainy season (*Shravan*) expressing longing and separation.
-10. **Bateshwar (बटेश्वर) Fair (बटेश्वर मेला):** Held at **Bateshwar (Agra)** on the banks of Yamuna (यमुना); ancient cattle/camel and animal trade (पण्याध्यक्ष) fair.
-11. **Nauchandi (नौचंदी) Fair (नौचंदी मेला):** Held at **Meerut** (मेरठ) on the second Sunday after Holi (होली); historic (ऐतिहासिक) symbol of Hindu-Muslim communal harmony (Chandi Devi temple and Bale Miyan dargah).
-12. **Dewa Sharif (देवा शरीफ) Fair:** Held at **Barabanki** during Kartik month at the shrine of Sufi (सूफी) saint **Haji Waris Ali Shah** (हाजी वारिस अली शाह).
-13. **Syed Salar Masood Ghazi (सैयद सालार मसूद गाजी) Fair:** Held at **Bahraich** at the dargah of Ghazi Miyan (गाजी मियाँ).
-14. **Dadri (ददरी) Cattle Fair:** Celebrated at **Ballia** on Kartik Purnima (कार्तिक पूर्णिमा) in honour of sage Bhrigu; second largest cattle fair in India after Sonepur.
-15. **Hathras (हाथरस) vs Kanpur (कानपुर) Nautanki (नौटंकी):** Hathras school is classical, poetic, and music-oriented; Kanpur school is theatrical, prose-dialogue, and performance-oriented.
-16. **Kathak (कथक) Titans of Lucknow (लखनऊ):** Founded by Ishwari Prasad; carried forward by Kalka-Bindadin Maharaj, Achhan Maharaj, Shambhu Maharaj, Lachhu Maharaj, and **Pandit Birju Maharaj (बिरजू)**.
-17. **Kirana (किराना) Gharana (घराना):** Founded by **Ustad Abdul Karim Khan** and **Abdul Wahid Khan** in Kirana (Shamli/Muzaffarnagar); celebrated by **Pandit Bhimsen Joshi** (Bharat Ratna (भारत रत्न) 2008) and Gangubai Hangal.
-18. **IVRI vs IIPR vs IISR:** IVRI = **Bareilly (Izatnagar)**; IIPR = **Kanpur**; IISR = **Lucknow**; IIVR = **Varanasi** (वाराणसी).
-19. **IGFRI Jhansi:** Indian Grassland and Fodder Research Institute is located at **Jhansi** (झांसी) (established 1962).
-20. **First Agricultural University:** **GBPUAT Pantnagar** (1960) was established in UP before Uttarakhand (उत्तराखंड) state was carved out in 2000. Within current UP borders, **CSAUAT Kanpur** was established in 1975.
+3. **Literacy Extremes:** Highest literacy is **Gautam Buddha Nagar (80.1%)**; lowest literacy (overall, male, and female) is **Shrawasti (46.7% overall; 34.8% female)**. Highest female literacy district is **Kanpur Nagar (75.1%)**.
+4. **SC & ST Population:** Highest percentage of SC is in **Kaushambi (कौशांबी) (34.7%)**; highest absolute (निरपेक्ष) SC population is in **Sitapur**. Highest ST population (both absolute and percentage) is in **Sonbhadra (सोनभद्र) (20.7%)**; lowest/negligible ST population is in **Baghpat and Jalaun**.
+5. Child sex ratio extremes: highest **Balrampur (950)**; lowest **Baghpat (841)**. Most populous district is **Prayagraj (प्रयागराज)**; least is **Mahoba**.
+6. **Charkula (चरकुला) Folk (लोक) Dance:** Iconic (साकार) folk dance of the **Braj (ब्रज) region (Mathura (मथुरा))** wherein women balance a multi-tiered wooden pyramid (पिरामिड) holding **108 lit oil lamps** on their heads.
+7. **Karma (कर्म) Folk Dance:** Performed in **Sonbhadra and Mirzapur (मिर्ज़ापुर)** by tribal (आदिवासी) communities (Kharwar, Kol, and Baiga) as an offering to Karma devta for agricultural prosperity.
+8. **Rai (राई) Folk Dance:** Traditional peacock dance of **Bundelkhand** performed by women of the Beriya community on auspicious occasions like Janmashtami (जन्माष्टमी).
+9. **Heroic Ballad 'Alha (आल्हा)':** Celebrated heroic folk song (सोंग) of **Bundelkhand** composed in *Banaffari* (बनफरी) dialect narrating the 52 battles of warrior brothers Alha and Udal.
+10. **Monsoon Song 'Kajri (कजरी)':** Centred in **Mirzapur and Varanasi (वाराणसी)**; sung by women during the rainy season (*Shravan*) expressing longing and separation. **Birha** is Purvanchal (पूर्वांचल) Yadav narrative song, not Alha.
+11. **Bateshwar (बटेश्वर) Fair (बटेश्वर मेला):** Held at **Bateshwar (Agra)** on the banks of Yamuna (यमुना); ancient cattle/camel and animal trade (पण्याध्यक्ष) fair.
+12. **Nauchandi (नौचंदी) Fair (नौचंदी मेला):** Held at **Meerut** (मेरठ) on the second Sunday after Holi (होली); historic (ऐतिहासिक) symbol of Hindu-Muslim communal harmony (Chandi Devi temple and Bale Miyan dargah).
+13. **Dewa Sharif (देवा शरीफ) Fair:** Held at **Barabanki** during Kartik month at the shrine of Sufi (सूफी) saint **Haji Waris Ali Shah** (हाजी वारिस अली शाह).
+14. **Syed Salar Masood Ghazi (सैयद सालार मसूद गाजी) Fair:** Held at **Bahraich** at the dargah of Ghazi Miyan (गाजी मियाँ).
+15. **Dadri (ददरी) Cattle Fair:** Celebrated at **Ballia** on Kartik Purnima (कार्तिक पूर्णिमा) in honour of sage Bhrigu; second largest cattle fair in India after Sonepur.
+16. **Hathras (हाथरस) vs Kanpur (कानपुर) Nautanki (नौटंकी):** Hathras school is classical, poetic, and music-oriented; Kanpur school is theatrical, prose-dialogue, and performance-oriented.
+17. **Kathak (कथक) Titans of Lucknow (लखनऊ):** Founded by Ishwari Prasad; carried forward by Kalka-Bindadin Maharaj, Achhan Maharaj, Shambhu Maharaj, Lachhu Maharaj, and **Pandit Birju Maharaj (बिरजू)**.
+18. **Kirana (किराना) Gharana (घराना):** Founded by **Ustad Abdul Karim Khan** and **Abdul Wahid Khan** in Kirana (Shamli/Muzaffarnagar); celebrated by **Pandit Bhimsen Joshi** (Bharat Ratna (भारत रत्न) 2008) and Gangubai Hangal.
+19. **Agra Gharana** (Rangeela) is linked with **Haji Sujan Khan** and later **Ustad Faiyaz Khan**. **Banaras** is the shehnai–tabla–thumri home of Bismillah Khan, Kishan Maharaj, and Girija Devi.
+20. **Atrauli Gharana** of Aligarh (अलीगढ़) is linked with **Ustad Alladiya Khan** and vakra raga patterns.
+21. Craft–city matches: **Banarasi** brocade (Varanasi), **Chikankari** and **Zardozi** (Lucknow), **Bhadohi** carpets, **Moradabad** brass, **Firozabad** glass, **Khurja** pottery, **Kannauj** (कन्नौज) attar, **Saharanpur** wood, **Nizamabad** black pottery.
+22. Further GI / ODOP tags include **Gulabi Meenakari** and Banarasi paan (Varanasi), **Gorakhpur terracotta**, **Aligarh locks**, **Kalanamak rice** (Siddharthnagar), **Surkha guava** (Prayagraj), and **Mahoba Gaura Patthar**.
+23. **IVRI** = **Bareilly (Izatnagar)**; **IIPR** = **Kanpur**; **IISR** = **Lucknow**; **IIVR** = **Varanasi** (वाराणसी). **NSI** (sugar technology) is **Kanpur**, not Lucknow.
+24. **IGFRI Jhansi:** Indian Grassland and Fodder Research Institute is located at **Jhansi** (झांसी) (established 1962). **CIRG** (goats) is at **Makhdoom, Farah (Mathura)**.
+25. Lucknow science cluster: **CDRI**, **CIMAP**, **NBRI**, **IITR**, **BSIP**, and **NBFGR**. Do not park IIPR or NSI inside Lucknow.
+26. **BHU** (Varanasi) was founded in **1916** by **Madan Mohan Malaviya (मालवीय)**. Sampurnanand Sanskrit Vishwavidyalaya continues the **1791** Jonathan Duncan Sanskrit College line.
+27. First Agricultural University **GBPUAT Pantnagar** (**1960**) was established in undivided UP before Uttarakhand (उत्तराखंड) (**2000**). Within current UP borders, **CSAUAT Kanpur** dates to **1975**.
+28. **Raslila** and **Ramlila** are UP folk theatre of Braj and Ramnagar–Varanasi. Manipuri classical Ras Lila is a separate tradition.
+29. **Mayur** dance is Braj peacock folk. **Chhath** (छठ) is eastern UP–Bihar sun worship, not a dance school.
+30. Bateshwar is Agra cattle fair. Dadri is Ballia cattle fair. Dewa Sharif is Barabanki. Syed Salar is Bahraich. Keep the four pairs separate.
+31. Highest urban share is **Ghaziabad**; highest rural share is **Shrawasti**. State urbanisation is about **22.3%** (Census 2011).
+32. **CARI** (avian) sits with IVRI at Izatnagar. **CIRC** (cattle) is at Meerut. **CPPRI** (paper) is at Saharanpur.
+33. **HRI** (Harish-Chandra Research Institute) is at Jhunsi, Prayagraj. **V. V. Giri National Labour Institute** is at Noida.
+34. UP art–culture stems usually decide on **district + craft/fair/gharana**. Match the place first, then the tradition name.
+
 
 ---
 

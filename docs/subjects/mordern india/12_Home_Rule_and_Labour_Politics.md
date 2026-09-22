@@ -41,9 +41,9 @@ Morley–Minto Reforms (context) | Lucknow (लखनऊ) Pact (लखनऊ प
 22. **Workers and Peasants Party** All-India form is clearer from **December 1928**, not 1927. WPP (डब्ल्यूपीपी) is late-1920s left work inside Congress.
 23. **Kanpur (कानपुर) Conspiracy 1924**: **M.A. Ansari** is **not** in the associated list. CPI’s Kanpur tag is often locked to **1925**.
 24. **Justice Party (जस्टिस पार्टी) (1916, Madras)** was a non-Brahmin regional force, not the all-India Congress. **Self-Respect** (Periyar (पेरियार)) follows after leaving Congress in **1925**.
-25. Home Rule declined after Montagu–Chelmsford hope, Tilak’s time abroad, and the rise of Gandhi’s mass methods.
-26. UP Focus: **BHU** and **Kashi Vidyapith** are Varanasi facts; Besant league (बेसेंट लीग) branches reached UP towns, but Tilak’s HQ stayed Poona.
-27. Extremists read Montagu as proof that Home Rule pressure worked; Moderates read it as proof that constitutional agitation still worked.
+25. Home Rule declined after **Montagu Declaration hope (1917)**, Tilak’s England trip / death (**1920**), and Gandhi’s mass methods from **1919–20**.
+26. UP Focus: **BHU** and **Kashi Vidyapith** are Varanasi facts; Besant league branches reached UP towns, but Tilak’s HQ stayed Poona.
+27. Extremists read Montagu as proof Home Rule pressure worked; Moderates read it as proof constitutional agitation still worked — both claim the **20 Aug 1917** statement.
 28. Baptista is Tilak League (तिलक लीग) **President**. Joshi is the **ILO 1919** labour face — never swap the two names.
 29. **Indian Councils Act, 1909 (Morley–Minto)** introduced **Muslim separate electorates** — not dyarchy (द्वैध शासन). Full Act card: **Topic 3**.
 30. **Rajendra Prasad** tagged **Lord Minto** as **Father of Pakistan** for sowing communal electorates.

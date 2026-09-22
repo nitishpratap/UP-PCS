@@ -17,7 +17,7 @@ Taught in time-order: no coins in IVC → Vedic nishka → punch-marked silver �
 
 ---
 
-## Consolidated — 30 Must-Score Facts
+## Consolidated — 36 Must-Score Facts
 
 1. Economy match ladder: **Indus = Urban**, **Rigvedic = Pastoral**, **Later Vedic = Agrarian**, and the medieval slot is **landlordism**. The Indus uses weights and seals but has **no coins**.
 2. Vedic **nishka** (निष्क) is a gold unit or ornament. It is **not** a minted coin. The first Indian coins are **punch-marked silver** from about the sixth century BCE (**karshapana / pana** / कार्षापण या पण - आहत सिक्के).
@@ -49,6 +49,12 @@ Taught in time-order: no coins in IVC → Vedic nishka → punch-marked silver �
 28. Economy type changes by age: pastoral cattle wealth in the Rigveda, agrarian dues later, then coin-and-town trade from the sixth century BCE onward.
 29. An **amphora** is a tall Roman jar with a long neck and **two handles**, used for wine or oil — a classic Arikamedu find type.
 30. **Tagara** sat on the inland trade route connecting **Kalyan** with **Vengi**.
+31. Land dues begin as Vedic **bali** and **bhaga**. Mauryan *Arthashastra* keeps **bhaga** (often about one-sixth): **Samaharta** collects, **Sannidhata** stores.
+32. Forced labour appears as **vishti**. Gupta copper-plates thicken **brahmadeya** and **agrahara** holdings; feudatory **samanta** tribute sits beside the old share tax.
+33. Under Harsha, agrahara grants continue and the moving royal camp is remembered as **skandhavara**. Land-grant thickening bridges Mauryan salaried collection toward post-Gupta feudal land control.
+34. East-bound maritime memory runs from **Tamralipti** toward **Suvarnabhumi** (Southeast Asia). That eastern door is **not** the Roman pepper circuit of Muziris and Barygaza.
+35. Gupta markets still use **silver and copper** for daily exchange even while gold **dinara** advertise prestige. After the Guptas, imperial gold thins.
+36. UP economy nodes: **Varanasi** (textile / Ganga river-port), **Kaushambi** (Uttarapatha), later **Kannauj** (Harsha-age entrepot). **Alamgirpur** is IVC east fringe — **not** a sea-port.
 
 ---
 

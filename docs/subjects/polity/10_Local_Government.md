@@ -30,7 +30,7 @@
 
 ---
 
-## Consolidated — 30 Must-Score Facts
+## Consolidated — 34 Must-Score Facts
 
 ### 1. The Constitutional Skeleton
 | Feature | Panchayati Raj (Rural) | Urban Local Bodies |
@@ -71,6 +71,12 @@
 - **PESA Act, 1996:** Extends Part IX to **Fifth Schedule** (5वीं अनुसूची) areas (10 States) but NOT to Sixth Schedule (6वीं अनुसूची).
 - **Cooperatives (97th Amd, 2011):** Part IXB (243ZH-243ZT). Art 43B DPSP (राज्य के नीति निदेशक तत्व) and Art 19(1)(c) FR. In 2021, SC struck down its application to State cooperatives.
 - **Cantonment Board:** Set up under Cantonments Act (2006). Falls under **Ministry of Defence**. Station Commander is ex-officio President (not 74th Amd ULB).
+
+### 4. Urban Local Bodies (Part IXA) — decidable spine
+- **Three types (Article 243Q):** **Nagar Panchayat** (transitional area), **Municipal Council** (smaller urban area), and **Municipal Corporation** (larger urban area). The **Governor** classifies; the Constitution does **not** fix one all-India population cut-off.
+- **Mayor vs Municipal Commissioner:** The **Mayor** is the political / ceremonial head; the **Municipal Commissioner** (usually IAS, State-appointed) is the executive. India follows the Commissioner system, not a US strong-mayor model.
+- **Ward Committee (Article 243S):** Mandatory in a municipality with population **≥ 3 lakh**. It is a committee of councillors — **not** an urban Gram Sabha (Part IXA has no urban Gram Sabha).
+- **First municipal corporation:** **Madras, 1688**; Bombay and Calcutta followed in **1726**.
 
 ---
 

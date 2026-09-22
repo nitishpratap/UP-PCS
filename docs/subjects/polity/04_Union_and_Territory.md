@@ -15,7 +15,7 @@ Union and its Territory | Formation of States | State Reorganisation | States Re
 
 ---
 
-## Consolidated — 30 Must-Score Facts
+## Consolidated — 32 Must-Score Facts
 
 1. **Part I (Articles 1–4):** India, that is Bharat, is a **Union of States**. The term "Federation" is nowhere used. Names and territorial extent are in the **First Schedule**.
 2. Territory of India under **Article 1(3)** comprises **States**, **Union Territories**, and such other territories as may be **acquired** (e.g., Puducherry, Goa (गोवा) initially). 
@@ -47,6 +47,8 @@ Union and its Territory | Formation of States | State Reorganisation | States Re
 28. **National Integration Council (NIC, 1961)**: PM is the chairman. It is completely **extra-constitutional** (unlike the Inter-State Council under Art. 263).
 29. **Fundamental Rights (मौलिक अधिकार) (Citizens Only)**: Articles **15, 16, 19, 29, 30**. Non-citizens also get Arts. 14, 20, 21, 22, 25-28.
 30. **Minority / Treaties Trivia**: French enclaves (Puducherry de jure 1962), Portuguese enclaves (Goa/Daman/Diu liberated in 1961 via *Operation Vijay*).
+31. **Article 240** lets the President make **regulations** for peace, progress and good government of listed UTs without a legislature (or when the legislature is dissolved/suspended). Living list includes Andaman & Nicobar, Lakshadweep, Dadra & Nagar Haveli and Daman & Diu, and **Puducherry** when its Assembly is not functioning. **Goa is a State** — not on the Art. 240 list.
+32. **Article 241** enables a High Court for a Union Territory; Parliament may also place a UT under a neighbouring State’s High Court (e.g. Chandigarh with Punjab & Haryana HC).
 
 ---
 

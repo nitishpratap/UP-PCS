@@ -30,7 +30,7 @@ Census of India | Factors of Distribution | Population Density (arithmetic / phy
 ---
 
 
-## Consolidated — 27 Must-Score Facts
+## Consolidated — 32 Must-Score Facts
 
 1. India’s first non-synchronous census was in **1872** (some papers key **1871**). The first **synchronous** all-India census was in **1881**.
 2. **1921** is the **Great Divide** year of Indian census history (इतिहास). **2011** was the **15th** census and the **7th** after Independence.
@@ -59,6 +59,13 @@ Census of India | Factors of Distribution | Population Density (arithmetic / phy
 25. A broad-base population pyramid signals high fertility. Ageing shows earlier in southern States than in the high-fertility northern belt.
 26. Occupational structure is taught as primary / secondary / tertiary. Primary still takes a large share of India’s workforce, with a slow shift toward secondary and tertiary as development proceeds.
 27. Malthus’s **positive** checks raise the death rate (famine, disease, war). **Preventive** checks lower the birth rate (delayed marriage, moral restraint). **Karl Marx** treated surplus population as a product of capitalism, not a natural food-arithmetic law. **Ester Boserup** argued that population growth can push agricultural intensification.
+
+---
+28. **CBR** and **CDR** are expressed **per thousand** of population; **TFR** is children **per woman**. Do not mix the units.
+29. Demographic Transition stages: high birth–high death → falling death (population boom) → falling birth → low birth–low death. Urbanisation acceleration is classically linked to the **second** stage.
+30. Age structure teaching bands are often **0–14**, **15–59** (workers) and **60+**. A broad-base pyramid = high fertility; a top-heavy pyramid = ageing.
+31. Internal migration streams include rural→rural (largest), rural→urban, urban→urban and urban→rural. Inter-state migrants often move from UP–Bihar toward Maharashtra–Delhi–Gujarat.
+32. Literacy in Census 2011 is counted for age **7+**. Effective literacy and crude literacy wordings must not be swapped with school-enrolment rates.
 
 ---
 

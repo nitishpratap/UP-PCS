@@ -17,7 +17,7 @@ Taught in time-order: Vedic → Magadha → Maurya → Post-Mauryan → Gupta �
 
 ---
 
-## Consolidated — 28 Must-Score Facts
+## Consolidated — 36 Must-Score Facts
 
 1. Political time-order for titles and inscriptions runs **Vedic rajan (राजन) → Magadha houses → Maurya → Shunga / Kharavela / Kushan / Satavahana → Gupta → Harsha**.
 2. **Ashoka** on edicts is **Devanampiya Piyadassi** (देवानांप्रिय प्रियदर्शी). His personal name appears at **Maski** (and Gujarra, Nittur, Udegolam). **Bindusara** is **Amitraghata** (अमित्रघात).
@@ -47,6 +47,14 @@ Taught in time-order: Vedic → Magadha → Maurya → Post-Mauryan → Gupta �
 26. **Chandragupta Maurya** (चंद्रगुप्त मौर्य) is Greek **Sandrokottos** (~322 BCE). He is **not** Chandragupta I or Chandragupta II of the Gupta house.
 27. **Rummindei** (रुम्मिनदेई) pillar records Ashoka’s Lumbini visit. **Rabatak** gives Kanishka genealogy. **Haraha** (554 CE) is Maukhari Ishanavarman in Barabanki, UP.
 28. Title inflation grows from Gupta grants onward. **Chakravartin** (चक्रवर्ती) is the ideal wheel-turning monarch, not one king’s exclusive stamp; a feudatory is **samanta / mahasamanta** (सामंत / महासामंत).
+29. Vedic core officers are **purohita** (priest-adviser), **senani** (army), and **gramani** (village head), beside **bhagadugha / sangrahitri / akshavapa**. There is no Samaharta or Uparika in the Vedic list.
+30. Vedic **Vidatha** is the oldest kin-ritual gathering and fades first. **Sabha** becomes more exclusive; **Samiti** remains the broader tribal body in Early Vedic memory.
+31. Mauryan provinces (*pradesha / chakra*) place royal princes (**kumara / aryaputra**) at **Taxila, Ujjain, Suvarnagiri, and Tosali**. Village stack runs empire → province → *ahara/vishaya* → *sthanika / gopa* → village.
+32. Mauryan revenue language: **bhaga** (produce share), **pindakara** (pasture), **sulka** (tolls). **Samaharta** collects; **Sannidhata** stores; ***pautavadhyaksha*** does weights.
+33. Mauryan spies (*gudhapurusha*) include secret agents, wandering ascetics, and household informers — a **centralised** watch. Gupta–Harsha lean on **samanta** ties instead.
+34. Gupta ladder is **Bhukti (uparika) → Vishaya (kumaramatya) → Vithi → Grama**. Land grants thicken as **agrahara / brahmadeya**. Harsha reuses the same titles at **maha-** grade.
+35. Foreign administration witnesses: **Megasthenes** (*Indica*) for Mauryas; **Fa-Hien** for Chandragupta II; **Xuanzang** for Harsha; **I-tsing** after Harsha. Use each for the age it saw.
+36. Harsha’s state is **personal**: **mahasamanta** feudatories and agrahara grants continue, and the machine collapses when he dies in **647**. Post-Gupta north shows clearer lord–vassal land control than Mauryan central pay.
 
 ---
 

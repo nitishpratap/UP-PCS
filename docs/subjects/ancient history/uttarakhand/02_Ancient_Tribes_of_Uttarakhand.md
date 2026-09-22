@@ -25,18 +25,30 @@
 
 ---
 
-## Must-Score Facts (High-Yield UKPCS)
+## Consolidated — 22 Must-Score Facts
 
-1. **Chronological Wave of Ancient Hill Inhabitants:**  
-   $$\text{Kol (Munda)} \longrightarrow \text{Kirat (Kinnar)} \longrightarrow \text{Khas} \longrightarrow \text{Shakas / Kushanas}$$
-2. **Khas Social Practices (High-Yield Ratta):**
-   - *Tekwa Pratha:* Custom where a widow or woman can keep a man in her house without formal wedding.
-   - *Ghar-Javai:* Practice of son-in-law residing permanently in his wife's ancestral home.
-   - *Jethon:* Customary right allocating an extra share of ancestral land to the eldest son.
-   - *Dev-Dasi / Dhol-Chhad:* Dedicating daughters to local shrines.
-3. **The 1967 Scheduled Tribe Benchmark:** In 1967, five distinct communities were accorded ST status: **Tharu, Jaunsari, Bhotia, Buksa, and Raji**.
-4. **Tharu Diwali Tradition:** The Tharus observe Diwali not as a festival of lights, but as **Shok Parva (Mourning Festival)**, offering rice and meat cakes (*Bhat/Putli*) to their departed ancestors.
-5. **Raji Tribe ("Van Rawat" / "Van Raji"):** Inhabit the Askot-Didihat belt of Pithoragarh. Known for living in rock overhangs (*Rauthiyada*) and historically practicing **Silent Trade (Mook Vyapar)**, where wooden bowls (*Theki*) were left at villagers' doorsteps at night in exchange for grain left the next evening.
+1. Ancient ethnic wave order in Uttarakhand: **Kol (Munda) → Kirat (Kinnar) → Khas → Shakas / Kushanas**.
+2. **Kol** are the earliest inhabitants in Dabral’s scheme — Munda affinity, totemism, snake / linga worship.
+3. **Kirat** defeated the Kols; epic memory has Shiva testing Arjuna in Kirat guise at **Bilvakedar**. Direct descendants remembered as **Raji**.
+4. **Khas** entered via Central Asia / Kashmir and are classed as degraded Kshatriyas in Manusmriti memory. They become the dominant ancient hill race.
+5. Khas customary laws: **Ghar-Javai** (son-in-law in wife’s house), **Tekwa** (widow / woman keeps a companion without formal wedding), **Jethon** (extra ancestral share to eldest son), **Dev-Dasi / Dhol-Chhad** (dedicating daughters to shrines).
+6. Shaka / Kushana presence in the hills is read through **Sun temples** — **Katarmal** (Almora), Palothi, Madh.
+7. In **1967**, five communities were notified as Scheduled Tribes of Uttarakhand: **Tharu, Jaunsari, Bhotia, Buksa, and Raji**.
+8. **Tharu** are the largest ST by population (Udham Singh Nagar: Khatima, Sitarganj). They observe Diwali as **Shok Parva** (mourning), offering rice and meat cakes to ancestors.
+9. **Jaunsari** are second-largest (Dehradun: Chakrata, Kalsi, Tyuni). Polyandry tradition and **Mahasu Devta** worship are signature tags.
+10. **Bhotia** are trans-Himalayan traders (Johar, Darma, Byans, Niti, Mana) practising transhumance and Indo-Tibetan barter.
+11. **Raji (Van Rawat / Van Raji)** are the smallest ST, Askot–Didihat belt of Pithoragarh; cave overhangs (*Rauthiyada*) and historic **silent trade** (*Mook Vyapar* with *Theki* bowls).
+12. **Buksa (Bhoksa)** of the Terai (Bazpur, Kashipur, Ramnagar) claim descent from **Mewar Rajputs**.
+13. Do not swap **Kol** (earliest) with **Khas** (dominant later race). Do not swap **Kirat** epic identity with modern **Jaunsari**.
+14. **Raji** silent trade is not the same as **Bhotia** Indo-Tibetan caravan trade.
+15. Tharu **Shok Parva** is mourning Diwali — not a festival-of-lights stem.
+16. Katarmal Sun Temple is an Almora **Shaka-wave** culture tag, not a Katyuri capital fact.
+17. ST notification year **1967** and the five names are a fixed list — do not add Chand or Rajput hill houses into that five.
+18. Jaunsari heartland is Chakrata–Kalsi–Tyuni (Dehradun), not US Nagar Terai.
+19. Bhotia valleys (Johar / Darma / Byans / Niti / Mana) are high-altitude trade corridors, not Terai wet-rice belts.
+20. Kol → Kirat → Khas chronology is the ethnic spine; Shaka / Kushana is the next foreign cultural layer, not a fifth ST.
+21. National tribe lists are not UK substitutes — UKPCS asks the local wave order and the 1967 five.
+22. Pair this chapter with prehistoric rock art and Kuninda coins; do not merge Khas customary law into Katyuri admin titles.
 
 ---
 

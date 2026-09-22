@@ -69,7 +69,7 @@ Newest first. One event, one fact — not a dump of keywords.
 22. **AFSPA 1958** (अफस्पा 1958) applies in a notified **disturbed area** in the north-east. Section **3** notifies; section **4** gives fire/arrest/search powers; section **6** needs Central sanction for prosecution. Jammu & Kashmir uses a **separate 1990** AFSPA statute.
 23. AFSPA was lifted from Tripura (**2015**), Meghalaya (मेघालय), and large parts of Assam (**2022**). It still applies in parts of Nagaland, Manipur, Arunachal Pradesh, and under the J&K Act.
 24. The Jeevan Reddy Committee (**2005**) recommended repeal of AFSPA; that recommendation was **not** enacted. *NPMHR* (**1997**) upheld AFSPA with limits. Fake encounters are not a licence under later rulings.
-25. In April **2024** LWE operations, **Kanker (Chhattisgarh)** is the correct district fact — **not** Gadchiroli.
+25. **Left-Wing Extremism (LWE / Naxal)** is fought mainly by **State police** plus **CRPF / CoBRA**, with State units such as Chhattisgarh’s **DRG** (Maharashtra’s comparable unit is often **C-60**). MHA’s **SAMADHAN (2017)** is the LWE strategy acrostic — not a new CAPF. In April **2024**, the high-yield district fact is **Kanker (Chhattisgarh)**, not Gadchiroli.
 26. The Defence Cyber Agency (**2019**) is under **MoD**. Cyber Swachhta Kendra sits with CERT-In. Keep ministry lines clear when matching institutions.
 27. India’s nuclear and cyber neighbours in this chapter are policy facts: strategic forces under Defence, cyber civilian response under MeitY, cybercrime under MHA, and critical infrastructure under NCIIPC/NTRO.
 28. **TADA** (**1985–95**) lapsed. **POTA** (**2002**) was repealed. The living central terror-trial tool for scheduled offences is **UAPA**, often with **NIA**.

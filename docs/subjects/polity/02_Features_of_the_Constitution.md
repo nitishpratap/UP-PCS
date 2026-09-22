@@ -26,7 +26,7 @@
 
 ---
 
-### Consolidated — 30 Must-Score Facts
+### Consolidated — 32 Must-Score Facts
 
 1. India’s Constitution is the **lengthiest written** Constitution of any sovereign country. It is a **single** Constitution for both the Union and the States (except earlier J&K anomaly).
 2. India’s **type of government** is **Parliamentary** plus a **Democratic Republic**. Its **polity structure** is a **quasi-federal Union** — not a Presidential system and not a pure classical federation.
@@ -58,6 +58,8 @@
 28. In normal times the system works **federally**; in Emergency it becomes **unitary** — a unique flexibility Ambedkar stressed against rigid federations.
 29. Cooperative federalism stresses Centre–State collaboration (Austin’s line); competitive federalism stresses States competing for growth — both appear in current-affairs (GST (वस्तु एवं सेवा कर) Council (जीएसटी परिषद), NITI (नीति) Aayog (नीति आयोग)).
 30. The Ideals of **Justice** in Preamble are inspired by the **Russian Revolution (1917)**, while **Liberty, Equality, Fraternity** are inspired by the **French Revolution (1789)**.
+31. The **National Flag** (Pingali Venkayya; Ashoka Chakra with **24** spokes; ratio **3:2**) was adopted by the Assembly on **22 July 1947**. The **State Emblem** (Sarnath Lion Capital; motto **Satyameva Jayate** from the Mundaka Upanishad) was adopted on **26 January 1950**.
+32. **Jana Gana Mana** (National Anthem) and **Vande Mataram** (National Song) were adopted on **24 January 1950**; full anthem rendition is about **52 seconds**. The **National Calendar** follows the **Saka** era (from **22 March 1957**), not Vikram.
 
 ---
 

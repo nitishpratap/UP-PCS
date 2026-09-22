@@ -28,13 +28,26 @@
 
 ---
 
-## Must-Score Facts
+## Consolidated — 18 Must-Score Facts
 
-1. Animal husbandry is a **supplementary** occupation in Uttarakhand (उत्तराखंड), not the sole primary livelihood for most households.
-2. On cultivated-area / AH stems, often **only the first statement** holds — read both carefully.
-3. Major sugarcane / irrigated plains district rivalry often pits **Haridwar** against **Udham Singh Nagar**.
-4. Plains lead cultivated area; hills lead terrace / horticulture stories.
-5. Tarai = canal–tubewell; hills = springs / guls.
+1. Cropped area concentrates in the southern plains and Tarai where continuous fields are possible on gentler slopes.
+2. **Haridwar** and **Udham Singh Nagar** form the granary / high cultivated-area belt.
+3. Series B for 2025 marks **Haridwar** as the district with the **highest agricultural land**; many notes also name **Udham Singh Nagar** as the Tarai rival — keep both names.
+4. Hill agriculture is fragmented and **terrace-based** on steep slopes.
+5. Mid-hill farms grow cereals, millets, pulses, and oilseeds on small holdings.
+6. Horticulture matters in suitable altitudes — apples, stone fruits, citrus, and off-season vegetables.
+7. Plains and Tarai emphasise **rice**, **wheat**, **sugarcane**, and oilseeds under denser irrigation.
+8. Hills emphasise **mandua (finger millet)** and **jhangora**, with barley and other hardy cereals on terraces.
+9. Pulses and potatoes appear widely as catch or kitchen crops in mid-hills; orchard and vegetable belts add cash income where roads allow.
+10. Crop choice follows altitude, slope, and water availability — the state does not run on a single statewide monoculture.
+11. Animal husbandry is a **supplementary** occupation to agriculture through milk, wool, manure, and household nutrition — not the sole livelihood for most households.
+12. Cattle and buffalo support milk and draught in plains and mid-hills; sheep and goats matter in higher pastures.
+13. In the 2025 multi-statement AH stem, Series B accepts **Only statement 1** (supplementary occupation); the sheep-rearing environmental-degradation claim is not accepted in that key.
+14. **Tarai / plains** irrigation relies on **canals and tubewells** (Haridwar and Udham Singh Nagar type districts).
+15. Mid-hill systems rely more on **springs** and small gravity channels called **guls**; tanks appear in some mid-hill systems.
+16. Steep terrain limits large canal networks in the higher Himalaya, so irrigation intensity falls from Tarai granary districts toward high alpine valleys.
+17. Plains lead cultivated-area stories; hills lead terrace / horticulture stories — do not invert the contrast.
+18. Fresh land-use releases can shuffle absolute Haridwar vs Udham Singh Nagar ranks; prefer the Series B letter when that paper is cited.
 
 ---
 

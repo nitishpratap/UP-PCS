@@ -16,7 +16,7 @@ Governors-General and Their Reforms | Governors-General and Associated Wars | Br
 
 ---
 
-### Consolidated — 30 Must-Score Facts
+## Consolidated — 30 Must-Score Facts
 
 1. The **Regulating Act, 1773** created the **Governor-General (गवर्नर-जनरल) of Bengal**; first holder **Warren Hastings**. The **Supreme Court at Calcutta** began in **1774**.
 2. The **Charter Act, 1833** created the **Governor-General of India**; first holder **William Bentinck**. The Company (कंपनी) stopped **all** trade (पण्याध्यक्ष).

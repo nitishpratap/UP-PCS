@@ -21,7 +21,7 @@ National Parks of Uttar Pradesh (उत्तर प्रदेश) | Wildlife 
 
 ---
 
-## Consolidated — 32 Must-Score Facts
+## Consolidated — 34 Must-Score Facts
 
 1. Uttar Pradesh has **one National Park — Dudhwa (दुधवा)** — in **Lakhimpur Kheri** on the Indo-Nepal Terai (तराई).
 2. Dudhwa moved sanctuary (**1958**) → National Park (**1977**) → core of **Dudhwa Tiger Reserve (1987)** with Kishanpur and Katarniaghat. Rhino rehabilitation began **1984** (later phases including ~**2018**).
@@ -55,6 +55,8 @@ National Parks of Uttar Pradesh (उत्तर प्रदेश) | Wildlife 
 30. **Sathyamangalam TR** links Eastern and Western Ghats. **Nagarjunsagar–Srisailam** holds the largest critical tiger habitat (वास स्थान) among common options.
 31. Bird/butterfly facts: first butterfly park = **Bannerghatta (Karnataka)**; first State butterfly = **Blue Mormon (Maharashtra)**; Great Indian Hornbill (हॉर्नबिल) = **Western Ghats** (पश्चिमी घाट).
 32. World-first versus India-first is a fixed pair: **Yellowstone 1872** versus **Corbett 1936**.
+33. Early world peers: **Royal National Park, Australia (1879)**; **Banff NP, Canada (1885)**.
+34. Continent icons: **Serengeti (Tanzania)**, **Kruger (South Africa)**, **Kakadu (Australia)**, **Galápagos (Ecuador)**, plus USA icons Yosemite / Everglades / Grand Canyon.
 
 ---
 

@@ -15,7 +15,7 @@ Buddhism | Buddha | Buddhist Philosophy | Buddhist Councils | Buddhist Texts | T
 
 ---
 
-## Consolidated — 36 Must-Score Facts
+## Consolidated — 48 Must-Score Facts
 
 1. **Shramana** (श्रमण) renouncer traditions (often **nastika** (नास्तिक) / नास्तिक - non-Vedic) include Buddhism, Jainism, Ajivika, and Charvaka. **Astika** (आस्तिक) schools accept the authority of the Veda.
 2. Buddha’s life geography runs **Lumbini** (birth) → **Bodh Gaya** (enlightenment / सम्बोधि) → **Sarnath** first sermon (**Dharmachakrapravartana** / धर्मचक्रप्रवर्तन - UP) → **Kushinagar** Mahaparinirvana (**Mahaparinirvana** / महापरिनिर्वाण - UP).
@@ -58,6 +58,17 @@ Buddhism | Buddha | Buddhist Philosophy | Buddhist Councils | Buddhist Texts | T
 39. **Triratna** = Buddha, Dhamma, Sangha.
 40. *Light of Asia* is by **Edwin Arnold**, drawn from the *Lalitavistara*.
 41. **Nayaputta** is Mahavira, not Buddha.
+42. **Karle** has the largest western Hinayana **chaitya** hall. **Bhaja, Bedsa, and Kondane** are sister western chaitya sites.
+43. **Ajanta** is famous for Buddhist **paintings** (Phase I aniconic / Hinayana; Phase II Mahayana Padmapani). **Ellora** is multi-religion: Buddhist 1–12, Hindu 13–29, Jain 30–34; Cave **16** Kailasa is **Shaiva**.
+44. Stupa vocabulary: **anda** (dome), **harmika** (square railing), **chhatra** (umbrella), **pradakshina** (clockwise walk). **Ghantasala** is the named **aryaka-pillar** platform site.
+45. **Sanchi** and **Bharhut** are early stupa / railing sites. Sanchi is **not** tied to one Buddha-life episode the way Lumbini, Bodh Gaya, Sarnath, and Kushinagar are.
+46. **Nalanda** carries a Gupta–**Kumaragupta I** foundation tradition. **Vikramashila** is Pala **Dharmapala**. **Odantapuri** is Pala **Gopala**. **Vallabhi** holds Jain council and Hinayana memory.
+47. Jain **Chaturyama** (four vows of Parshva) plus Mahavira’s added **brahmacharya** make the **Pancha Mahavrata**. **Tattvartha Sutra** is accepted by both Digambara and Svetambara.
+48. **First Council** (Rajagriha, Ajatashatru, Mahakassapa) compiles Sutta–Vinaya; **Second** (Vaishali) splits Sthavira / Mahasanghika; **Third** (Pataliputra, Ashoka, Moggaliputta) adds Abhidhamma / missions; **Fourth** (Kundalvana, Kanishka, Vasumitra) seals Mahayana–Hinayana memory.
+
+---
+
+## Council order spines
 
 ```
                The Four Buddhist Councils Chronology

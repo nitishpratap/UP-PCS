@@ -15,36 +15,44 @@ Bhakti Movement | Major Bhakti Saints | Chronology of Bhakti Saints | Indian Sai
 
 ---
 
-## Consolidated — 28 Must-Score Facts
+## Consolidated — 36 Must-Score Facts
 
 1. Southern Bhakti began with **Nayanars (नायनार) (Shiva)** and **Alvars (आलवार) (Vishnu)** in **7th–12th** century Tamil land, before the north Indian sant wave.
 2. The north chain runs roughly **Namdev → Ramananda → Kabir → Nanak → Chaitanya → Surdas → Tulsidas**.
-3. **Saguna** (सगुण) bhakti worships a formed deity such as Rama or Krishna (कृष्णा); **Nirguna** (निर्गुण) worships the formless One (Kabir, Nanak).
-4. Guru–disciple facts: **Kabir** (कबीर) and **Ravidas** under **Ramananda**; **Surdas** under **Vallabhacharya** (शुद्धाद्वैतवाद); **Amir Khusrau** (अमीर खुसरो) under **Nizamuddin Auliya**; **Mardana** (मर्दाना) under **Guru Nanak** (गुरु नानक).
+3. **Saguna** (सगुण) bhakti worships a formed deity such as Rama or Krishna (कृष्ण); **Nirguna** (निर्गुण) worships the formless One (Kabir, Nanak).
+4. Guru–disciple facts: **Kabir** (कबीर) and **Ravidas** under **Ramananda**; **Surdas** under **Vallabhacharya** (शुद्धाद्वैत); **Amir Khusrau** (अमीर खुसरो) under **Nizamuddin Auliya**; **Mardana** (मरदाना) under **Guru Nanak** (गुरु नानक).
 5. Saint chronology: **Namdev** (नामदेव) (~1270–1350) → **Kabir** (15th c.) → **Nanak** (1469–1539) → **Chaitanya** (चैतन्य) (1486–1533).
 6. Later saints: **Surdas** (1478–1581) → **Tulsidas** (तुलसीदास) (1532–1623) → **Dadu Dayal** (1544–1603).
 7. The **Chishti** line runs **Moinuddin → Qutbuddin Bakhtiyar Kaki → Baba Farid → Nizamuddin → Nasiruddin Chiragh**, stressing poverty, **sama** (समा), and ziyarat.
 8. Great Chishti shrines include **Ajmer** (अजमेर), **Delhi (Nizamuddin)**, **Ajodhan (Farid)**, **Nagaur**, and **Pakpattan**.
 9. **Suhrawardi** saints of Multan accepted state wealth; **Naqshbandi** reformers under **Ahmad Sirhindi** opposed syncretism.
-10. **Ramcharitmanas** (रामचरितमानस) is Tulsidas in **Awadhi** (अवधी); **Sursagar** (सूरसागर) is Surdas in **Braj** (ब्रज).
-11. **Fawaid-ul-Fuad** records **Nizamuddin** conversations compiled by **Amir Hasan Sijzi**, not by Amir Khusrau.
-12. Vedanta schools: **Shankara (अद्वैतवाद)–Advaita (अद्वैतवाद)**; **Ramanuja (विशिष्टद्वैतवाद)–Vishishtadvaita (विशिष्टद्वैतवाद)**; **Madhva–Dvaita (द्वैतवाद)**; **Nimbarka (द्वैताद्वैतवाद)–Dvaitadvaita (द्वैताद्वैतवाद)**; **Vallabhacharya–Shuddhadvaita (शुद्धाद्वैतवाद)**.
-13. **Ramananda** (born **Prayag** (प्रयाग), ~1299) taught Rama bhakti in **Hindi** first among north sants; do not confuse with south **Ramanuja** (Vishishtadvaita).
-14. **Basavanna** led Lingayat / Virashaiva reform in Karnataka with **Ishtalinga**, Kayaka, and Anubhava Mantapa.
-15. The **Varkari** tradition centres on **Pandharpur / Vithoba** through **Jnaneshwar** (ज्ञानेश्वर), Namdev, and Tukaram (तुकाराम).
-16. **Jayadeva** wrote **Gita Govinda** (गीत गोविंद) in Odisha; **Shankaradeva** led Assam Vaishnavism (वैष्णव) with **satra** and **kirtana-ghosha**.
-17. UP Kabir facts: **Bijak** (बीजक) (Ramaini/Sabda/Sakhi); dialogues with **Dharamdas** = *Amarmul* (अमरमूल); death at **Maghar** (Sant Kabir Nagar).
-18. **Tulsidas** belongs to Awadhi **UP**; **Surdas** to the **Braj** belt (Mathura (मथुरा)–Vrindavan (वृंदावन)); **Gorakhnath** to **Gorakhpur** (गोरखपुर).
-19. **Mirabai** (मीराबाई) is the Rajasthan Krishna devotee; **Andal** (आंडाल) is the Tamil Alvar (आलवार) woman saint — do not swap them.
-20. **Baba Farid** was the Chishti saint of Ajodhan with verses in the **Adi Granth** (आदि ग्रंथ); he is not Kabir.
-21. **Chishti** orders rejected state wealth; **Suhrawardi** accepted patronage and office.
-22. A **pir** (पीर) is the Sufi spiritual master; a **guru** is the Bhakti preceptor.
-23. **Narsi Mehta** belongs to Gujarat; **Namdev** is an early Vithoba / Varkari saint.
-24. Bhakti was mainly **intra-Hindu** reform against empty ritual (कर्मकाण्ड), not a movement “against Islam,” though it shared social space with Sufism.
-25. **Moinuddin** (disciple of **Usman Haruni**) settled **Ajmer**; order name from **Chisht (Afghanistan)** (चिश्त), not a village in Ajmer. **Bahauddin Zakariya** = **Multan** (Suhrawardi).
-26. **Ravidas** is the Banaras Dalit (दलित) saint in Ramananda’s circle.
-27. Composite culture does not mean every saint mixed doctrines — **Ahmad Sirhindi** and **Kabir** rejected syncretic ritual.
-28. Regional map: **Jayadeva** (Odisha), **Shankaradeva** / Ekasarana (**Kamarupa–Assam**), **Basavanna** (Karnataka). **Prem Vatika** (प्रेम वाटिका) = **Raskhan**; **Barahmasa** = **Malik Muhammad Jayasi** (मलिक मुहम्मद जायसी); **Dewa Sharif** (देवा शरीफ) (Barabanki) = Haji Waris Ali Shah (हाजी वारिस अली शाह).
+10. **Qadiri** order entered India later (famous Multan–Uch and Deccan links); do not merge it with Chishti poverty or Suhrawardi office-holding.
+11. **Ramcharitmanas** (रामचरितमानस) is Tulsidas in **Awadhi** (अवधी); **Sursagar** (सूरसागर) is Surdas in **Braj** (ब्रज).
+12. **Fawaid-ul-Fuad** records **Nizamuddin** conversations compiled by **Amir Hasan Sijzi**, not by Amir Khusrau.
+13. Vedanta schools: **Shankara (शंकराचार्य)–Advaita (अद्वैत)**; **Ramanuja (रामानुजाचार्य)–Vishishtadvaita (विशिष्टाद्वैत)**; **Madhva–Dvaita (द्वैत)**; **Nimbarka (द्वैताद्वैत)–Dvaitadvaita (द्वैताद्वैत)**; **Vallabhacharya–Shuddhadvaita (शुद्धाद्वैत)**.
+14. **Ramananda** (born **Prayag** (प्रयाग), ~1299) taught Rama bhakti in **Hindi** first among north sants; do not confuse with south **Ramanuja** (Vishishtadvaita).
+15. **Basavanna** led Lingayat / Virashaiva reform in Karnataka with **Ishtalinga**, Kayaka, and Anubhava Mantapa.
+16. The **Varkari** tradition centres on **Pandharpur / Vithoba** through **Jnaneshwar** (ज्ञानेश्वरी), Namdev, and Tukaram (तुकाराम).
+17. **Jayadeva** wrote **Gita Govinda** (गीत गोविंद) in Odisha; **Shankaradeva** led Assam Vaishnavism (वैष्णव) with **satra** and **kirtana-ghosha**.
+18. UP Kabir facts: **Bijak** (बीजक) (Ramaini/Sabda/Sakhi); dialogues with **Dharamdas** = *Amarmul* (अमरमूल); death at **Maghar** (Sant Kabir Nagar).
+19. **Tulsidas** belongs to Awadhi **UP**; **Surdas** to the **Braj** belt (Mathura (मथुरा)–Vrindavan (वृंदावन)); **Gorakhnath** to **Gorakhpur** (गोरखपुर).
+20. **Nath / Nathpanthi** yogis under **Gorakhnath** stress Hatha yoga and guru lineage; they are distinct from north nirguna sants and from Chishti Sufis.
+21. **Mirabai** (मीराबाई) is the Rajasthan Krishna devotee; **Andal** (आंडाल) is the Tamil Alvar (आलवार) woman saint — do not swap them.
+22. **Chaitanya** of Bengal taught **Gaudiya Vaishnavism** with **sankirtan** and ecstatic Krishna bhakti; do not merge him with Kabir’s nirguna line.
+23. **Guru Nanak** taught **Ik Onkar**, the householder path, **langar**, and **sangat**; he founded Sikhism, not a Kabirpanth offshoot.
+24. **Baba Farid** was the Chishti saint of Ajodhan with verses in the **Adi Granth** (आदि ग्रंथ); he is not Kabir.
+25. **Chishti** orders rejected state wealth; **Suhrawardi** accepted patronage and office.
+26. A **pir** (पीर) is the Sufi spiritual master; a **guru** is the Bhakti preceptor.
+27. **Narsi Mehta** belongs to Gujarat; **Namdev** is an early Vithoba / Varkari saint.
+28. Bhakti was mainly **intra-Hindu** reform against empty ritual (कर्मकांड), not a movement “against Islam,” though it shared social space with Sufism.
+29. **Moinuddin** (disciple of **Usman Haruni**) settled **Ajmer**; order name from **Chisht (Afghanistan)** (चिश्ती), not a village in Ajmer. **Bahauddin Zakariya** = **Multan** (Suhrawardi).
+30. **Ravidas** is the Banaras Dalit (दलित) saint in Ramananda’s circle.
+31. Composite culture does not mean every saint mixed doctrines — **Ahmad Sirhindi** and **Kabir** rejected syncretic ritual.
+32. Regional map: **Jayadeva** (Odisha), **Shankaradeva** / Ekasarana (**Kamarupa–Assam**), **Basavanna** (Karnataka). **Prem Vatika** (प्रेम वाटिका) = **Raskhan**; **Barahmasa** = **Malik Muhammad Jayasi** (मलिक मुहम्मद जायसी); **Dewa Sharif** (देवा शरीफ) (Barabanki) = Haji Waris Ali Shah (हाजी वारिस अली शाह).
+33. **Ulema** are sharia scholars; a **Shaikh** is the authorised Sufi guide — do not treat every ulema as a silsilah pir.
+34. **Firdausi / Firdausi order** memory in Bihar (Yahya Maneri line) is separate from the Delhi–Ajmer **Chishti** core.
+35. **Dadu Dayal** of Rajasthan taught nirguna devotion after Kabir’s generation; keep him after Surdas–Tulsidas in the later sant list.
+36. **Akka Mahadevi** (Kannada Virashaiva woman saint) pairs with Basavanna’s Karnataka reform, not with Mirabai’s Rajasthan Krishna bhakti.
 
 ---
 

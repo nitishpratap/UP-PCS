@@ -15,7 +15,7 @@ Sharqi Sultanate (Jaunpur (जौनपुर)) | Kashmir under Zain-ul-Abidin (
 
 ---
 
-## Consolidated — 28 Must-Score Facts
+## Consolidated — 36 Must-Score Facts
 
 1. **Firuz Shah** founded the city of **Jaunpur** (जौनपुर) in memory of cousin **Jauna Khan (Muhammad bin Tughlaq (मुहम्मद बिन तुगलक))**; **Malik Sarwar (Khwaja-i-Jahan / Malik-us-Sharq)** made it independent (**~1394**); **Ibrahim (इब्राहिम) Shah** made it **Siraj/Shiraz-i-Hind**.
 2. **Atala Masjid** (अटाला मस्जिद) and **Lal Darwaza Masjid** are classic **Sharqi** (शर्की) monuments at Jaunpur in eastern **UP**.
@@ -23,28 +23,36 @@ Sharqi Sultanate (Jaunpur (जौनपुर)) | Kashmir under Zain-ul-Abidin (
 4. **Malik Muhammad Jaisi** composed **Padmavat** (पद्मावत) in the Jaunpur cultural circle.
 5. **Zain-ul-Abidin** (**1420–1470**), called **Bud Shah**, abolished **jaziya** and cow slaughter and restored temples in Kashmir.
 6. **Sriya Bhatt** was Zain-ul-Abidin’s Hindu minister; **Zaina Lanka** was his island palace on **Wular Lake**.
-7. **Vijayanagara** (विजयनगर) was founded in **1336** by **Harihara I** and **Bukka I** (Sangama) with capital at **Hampi** (हम्पी) on the Tungabhadra (तुंगभद्रा).
-8. Vijayanagara dynasties ran **Sangama → Saluva → Tuluva → Aravidu**.
-9. **Krishnadevaraya** (कृष्णदेवराय) (**1509–1529**, Tuluva) wrote **Amuktamalyada** (अमुक्तमाल्यद) and patronised the **Ashtadiggajas**.
-10. Vijayanagara used the **Nayankara / amara** system and celebrated the **Mahanavami** festival.
-11. **Bahmani** was founded in **1347** by **Hasan Gangu** as **Alauddin Bahman Shah**; the capital moved **Gulbarga → Bidar**.
-12. **Mahmud Gawan** wrote **Riyaz-ul-Insha** (रियाज़-उल-इंशा), organised **eight tarafs**, and was executed in **1481**.
-13. After **1518** Bahmani split into five Deccan Sultanates: **Bijapur (बीजापुर), Golkonda, Ahmadnagar, Bidar, and Berar**.
-14. **Bijapur (Adil Shahi)** holds **Gol Gumbaz (गोल गुम्बद) / Gol Gumbad** (tomb of **Muhammad Adil Shah**; among the world's largest domes); **Ibrahim Adil Shah II** (**Jagatguru / Ablababa**) wrote **Kitab-i-Nauras** (किताब-ए-नौरस), founded **Nauraspur**; **Firishta** (फरिश्ता) worked at his court.
-15. **Golkonda (Qutb (कुतुब) Shahi)** later centred on **Hyderabad** (हैदराबाद); **Abul Hasan Qutb Shah** fell to Aurangzeb (औरंगजेब) in **1687**.
-16. At **Talikota** (**23 Jan 1565**, also Rakkasa-Tangadi) **Rama Raya** (राम राय) was killed; the Deccan alliance sacked **Hampi** and crippled Vijayanagara as a great power.
-17. **Raichur (1520)** was a **Krishnadevaraya** victory — do not confuse it with Talikota **1565**.
-18. **Riyaz-ul-Insha** is Gawan’s letters; **Riyaz-us-Salatin** (रियाज़-उस-सलातीन) is Bengal history (इतिहास) — never swap the two.
-19. **Tin Darwaza** stands at **Bidar Fort**, not Ahmedabad (अहमदाबाद); Ahmedabad’s gate is **Teen Darwaza**. **Lal Darwaza–Jaunpur** is correctly matched.
-20. Among these regional states, only **Sharqi Jaunpur** has its capital in modern **Uttar Pradesh** (उत्तर प्रदेश).
-21. **Ahmadnagar** = Nizam (निजाम) Shahi; **Bidar** = Barid (बरीद-ए-मुमालिक) Shahi; **Berar** = Imad Shahi.
-22. Chronology spine: Vijayanagara **1336** → Bahmani **1347** → Sharqi **1394** → Zain-ul-Abidin **1420–1470** → Gawan executed **1481** → Jaunpur annexed **1484** → Bahmani split **1518** → Talikota **1565**.
-23. **Vitthala Temple** at Hampi is Vijayanagara; **Charminar** (चारमीनार) is Qutb Shahi Hyderabad.
-24. **Nayankara** is Vijayanagara nayaka (नायक) grant practice; do not equate it with Delhi Sultanate (दिल्ली सल्तनत) **iqta** (इक्ता).
+7. **Sikandar Shah** of Kashmir is the temple-destruction contrast (**Butshikan**) to tolerant **Zain-ul-Abidin**.
+8. **Vijayanagara** (विजयनगर) was founded in **1336** by **Harihara I** and **Bukka I** (Sangama) with capital at **Hampi** (हम्पी) on the Tungabhadra (तुंगभद्रा); tradition links guidance to **Vidyaranya**.
+9. Vijayanagara dynasties ran **Sangama → Saluva → Tuluva → Aravidu**.
+10. **Deva Raya I / II** mark Sangama military peak against Bahmani; **Saluva Narasimha** founded the Saluva house; **Krishnadevaraya** (कृष्णदेवराय) (**1509–1529**, Tuluva) wrote **Amuktamalyada** (आमुक्तमाल्यदा) and patronised the **Ashtadiggajas**.
+11. Vijayanagara used the **Nayankara / amara** system and celebrated the **Mahanavami** festival; do not equate Nayankara with Delhi Sultanate (दिल्ली सल्तनत) **iqta** (इक्ता).
+12. **Bahmani** was founded in **1347** by **Hasan Gangu** as **Alauddin Bahman Shah**; the capital moved **Gulbarga → Bidar**.
+13. Bahmani politics pitted **Afaqis (foreigners)** against **Deccanis (locals)**; **Mahmud Gawan** (Afaqi wazir) wrote **Riyaz-ul-Insha** (रियाज-उल-इंशा), organised **eight tarafs**, and was executed in **1481**.
+14. After **1518** Bahmani split into five Deccan Sultanates: **Bijapur (बीजापुर), Golkonda, Ahmadnagar, Bidar, and Berar**.
+15. **Bijapur (Adil Shahi)** holds **Gol Gumbaz (गोल गुम्बद) / Gol Gumbad** (tomb of **Muhammad Adil Shah**; among the world's largest domes); **Ibrahim Adil Shah II** (**Jagatguru / Ablababa**) wrote **Kitab-i-Nauras** (किताब-ए-नौरस), founded **Nauraspur**; **Firishta** (फरिश्ता) worked at his court.
+16. **Golkonda (Qutb (कुतुब) Shahi)** later centred on **Hyderabad** (हैदराबाद); **Abul Hasan Qutb Shah** fell to Aurangzeb (औरंगजेब) in **1687**.
+17. **Ahmadnagar** = Nizam (निजाम) Shahi; **Bidar** = Barid (बरीद-ए-मुमालिक) Shahi; **Berar** = Imad Shahi.
+18. **Talikota (1565)** Cause–Course–Result: Rama Raya (रामा राय)’s Deccan overreach after Krishnadevaraya → Deccan alliance crushed Vijayanagara at Rakkasa-Tangadi (**23 Jan 1565**) → **Hampi** sacked and the empire ceased to be a great power.
+19. **Raichur (1520)** was a **Krishnadevaraya** victory — do not confuse it with Talikota **1565**.
+20. **Riyaz-ul-Insha** is Gawan’s letters; **Riyaz-us-Salatin** (रियाज-उस-सलातीन) is Bengal history (इतिहास) — never swap the two.
+21. **Tin Darwaza** stands at **Bidar Fort**, not Ahmedabad (अहमदाबाद); Ahmedabad’s gate is **Teen Darwaza**. **Lal Darwaza–Jaunpur** is correctly matched.
+22. Among these regional states, only **Sharqi Jaunpur** has its capital in modern **Uttar Pradesh** (उत्तर प्रदेश).
+23. Chronology spine: Vijayanagara **1336** → Bahmani **1347** → Sharqi **1394** → Zain-ul-Abidin **1420–1470** → Gawan executed **1481** → Jaunpur annexed **1484** → Bahmani split **1518** → Talikota **1565**.
+24. **Vitthala Temple** at Hampi is Vijayanagara; **Charminar** (चारमीनार) is Qutb Shahi Hyderabad.
 25. **Kitab-i-Nauras** is Bijapur (Ibrahim Adil Shah II); **Amuktamalyada** is Krishnadevaraya’s Telugu epic.
-26. Sikandar Shah of Kashmir is the temple-destruction contrast to tolerant **Zain-ul-Abidin**.
-27. **Manucharitramu** by **Allasani Peddana** belongs to Krishnadevaraya’s Ashtadiggajas circle.
-28. **Burhan-e-Masir** is an Ahmadnagar chronicle; **Mirat-e-Sikandari** is a Gujarat narrative. **Muzaffar Shah (1407)** founded Gujarat; **Mahmud Begada** took **Champaner** and **Girnar**; **Bahadur Shah** conceded **Diu** to the Portuguese.
+26. **Manucharitramu** by **Allasani Peddana** belongs to Krishnadevaraya’s Ashtadiggajas circle.
+27. **Burhan-e-Masir** is an Ahmadnagar chronicle; **Mirat-e-Sikandari** is a Gujarat narrative.
+28. **Muzaffar Shah (1407)** founded Gujarat; **Mahmud Begada** took **Champaner** and **Girnar**; **Bahadur Shah** conceded **Diu** to the Portuguese.
+29. **Yusuf Adil Shah** founded **Bijapur**; **Malik Ahmad** founded **Ahmadnagar** — do not swap founders.
+30. **Jami Masjid (Jaunpur)** joins Atala and Lal Darwaza in the Sharqi UP monument set.
+31. Vijayanagara–Bahmani rivalry centred on the **Raichur Doab** and Krishna–Tungabhadra frontier long before Talikota.
+32. Deccan Sultanate common pattern used Persianate courts with local Telugu/Marathi/Kannada intermediaries under the five successor houses.
+33. **Abul Hasan Tana Shah** is the last Qutb Shah memory paired with Aurangzeb’s **1687** Golkonda annexation.
+34. **Ibrahim Shah Sharqi**’s cultural peak (**Siraj-i-Hind**) is the UP Sharqi identity line before Lodi annexation.
+35. **Chand Bibi** of Ahmadnagar is the Deccan defence memory against Akbar’s late campaigns — do not place her at Talikota **1565**.
+36. Post-Talikota Aravidu rulers shifted power southward; Hampi ceased to be the imperial capital after the **1565** sack.
 
 ---
 

@@ -21,7 +21,7 @@ World Environment (पर्यावरण) Day (विश्व पर्य�
 
 ---
 
-## Consolidated — 24 Must-Score Facts
+## Consolidated — 28 Must-Score Facts
 
 1. **World Wetlands Day** falls on **2 February** (रामसर) and marks the **Ramsar (रामसर) Convention (1971)** (रामसर कन्वेंशन). It is not 2 March or 3 March.
 2. **World Wildlife Day** falls on **3 March** and marks the adoption of **CITES (साइट्स) (1973)** (साइट्स). It is **not** 22 March.
@@ -50,6 +50,7 @@ World Environment (पर्यावरण) Day (विश्व पर्य�
 25. **World Toilet Day = 19 November** (UN, from 2013). **World No Tobacco Day = 31 May** (not 5 May). **World Habitat (वास स्थान) Day** = first Monday of October (not a fixed 5 October).
 26. **Swachh Bharat Mission** launched **2 October 2014** (Gandhi (गांधी) Jayanti). Sierra Leone observes national cleanliness on the last Saturday of every month.
 27. Earth Day theme teaching: **2024 = Planet vs. Plastics**. WED **2023 = Beat Plastic Pollution**.
+28. **International Tiger Day** falls on **29 July** and marks the **St Petersburg Tiger Summit (2010)**. It is **not** World Wildlife Day (3 March).
 
 ---
 

@@ -24,7 +24,7 @@ Indian Music | Hindustani Classical Music | Carnatic Classical Music | Major Gha
 ---
 
 
-## Consolidated Must-Score Facts
+## Consolidated — 34 Must-Score Facts
 
 1. In Indian tradition, **Sangeet** encompasses the triad of **gita** (vocal music), **vadya** (instrumental music), and **nritya** (नृत्य) (dance). The earliest textual foundation for sacred melodic chanting is the **Samaveda** (सामवेद).
 2. Theory roots are **Natyashastra** (नाट्यशास्त्र) by **Bharata Muni** (भरत मुनि) and the first clear use of the word **raga** in **Matanga**’s *Brihaddeshi* (बृहद्देशी).
@@ -34,22 +34,33 @@ Indian Music | Hindustani Classical Music | Carnatic Classical Music | Major Gha
 6. **Dhrupad** (ध्रुपद) is the oldest surviving classical form and uses **pakhawaj. Khayal** is dominant today and uses **tabla**.
 7. **Thumri** (ठुमरी) is light romantic song of the Awadh–Banaras belt. **Tappa** (टप्पा) has camel-song origin and is linked with **Muhammad Shah**’s court, not Akbar.
 8. **Tarana** (तराना) uses nonsense syllables. **Qawwali** is linked with **Amir Khusrau** (अमीर खुसरो) at Nizamuddin’s circle.
-9. The Carnatic Trinity is **Tyagaraja** (Telugu Rama kritis), **Muthuswami Dikshitar** (मुत्तुस्वामी दीक्षितर) (Sanskrit), and **Syama Sastri** (श्यामा शास्त्री) (Devi kritis). They are not Tansen’s line.
-10. Treatise matchs are **Ragamala–Pundrik Vitthal**, **Rasa Kaumudi–Sri Kantha**, **Raga Vibodh–Somanath**, and **Chaturdandi Prakashika–Venkatamakhin**.
+9. The Carnatic Trinity is **Tyagaraja** (Telugu Rama kritis), **Muthuswami Dikshitar** (मुत्तुस्वामी दीक्षितर्) (Sanskrit), and **Syama Sastri** (श्याम शास्त्री) (Devi kritis). They are not Tansen’s line.
+10. Treatise matches are **Ragamala–Pundrik Vitthal**, **Rasa Kaumudi–Sri Kantha**, **Raga Vibodh–Somanath**, and **Chaturdandi Prakashika–Venkatamakhin**.
 11. **Gwalior** is the oldest khayal gharana. **Agra** (आगरा) gharana is of Agra city in UP. **Kirana** gharana is of Kirana village in the western UP belt.
-12. Celebrated gharana maestros include **Ustad Bade Ghulam Ali Khan** of the **Patiala** Gharana, **Kishori Amonkar** of the **Jaipur–Atrauli** Gharana, and **Ustad Allauddin Khan** of the **Maihar** Gharana (located in **Madhya Pradesh**, not Uttar Pradesh).
-13. **Kirana** is strongly linked with **Bhimsen Joshi**. Do not place Maihar or Tyagaraja Aradhana inside UP.
-14. Instrument families are **tata** (तत्) (plucked string), **vitat** (bowed string), **sushira** (wind), **avanaddha** (अवनद्ध) (membrane), and **ghana** (घन) (solid / idiophone).
-15. **Tabla** pairs with khayal and thumri. **Pakhawaj** pairs with dhrupad. **Mridangam** (मृदंगम्) is the Carnatic primary drum.
-16. **Shehnai** is the Hindustani reed of Banaras. **Nadaswaram** (नादस्वरम्) is the Carnatic temple reed.
-17. **Tansen** (तानसेन) was a dhrupad master of Akbar’s Navaratna, earlier at the court of Raja Ramchandra of Bhata / Rewa. He is not part of the Carnatic Trinity.
-18. Renowned musical legends associated with Uttar Pradesh include **Ustad Bismillah Khan** (shehnai, Varanasi), **Begum Akhtar** (Ghazal and Thumri, Faizabad and Lucknow), and **Girija Devi** (the "Queen of Thumri", Banaras).
-19. Key light-classical traditions of Uttar Pradesh include **Thumri** (nurtured in Lucknow and Banaras), **Kajri** (कजरी) (monsoon songs rooted in Mirzapur and Varanasi), and the Dhrupad legacy of **Swami Haridas** at Vrindavan.
-20. **Sangeet Natak Akademi** was founded in **1952** at New Delhi as the apex body for music, dance, and theatre.
-21. The chronological conferment of the **Bharat Ratna** upon classical musicians is: **M.S. Subbulakshmi (1998)**, **Pt. Ravi Shankar (1999)**, **Ustad Bismillah Khan (2001)**, and **Pt. Bhimsen Joshi (2008)**.
-22. A **raga** is a melody framework. A **tala** (ताल) is a beat-cycle. **Teental** is **16** beats. Carnatic **Adi tala** is **8**.
-23. Vedic chanting is UNESCO ICH **2008**. Manipuri **Sankirtana** is UNESCO ICH **2013**.
-24. The prestigious annual **Tansen Samaroh** is hosted at the tomb of Tansen in **Gwalior, Madhya Pradesh**, not in Uttar Pradesh.
+12. **Rampur–Sahaswan** is an Uttar Pradesh gharana of refined taans; **Ustad Rashid Khan** belongs to this line.
+13. Celebrated gharana maestros include **Ustad Bade Ghulam Ali Khan** of the **Patiala** Gharana, **Kishori Amonkar** of the **Jaipur–Atrauli** Gharana, and **Ustad Allauddin Khan** of the **Maihar** Gharana (located in **Madhya Pradesh**, not Uttar Pradesh).
+14. **Mewati** gharana is bhajan-coloured khayal; **Pandit Jasraj** is its flagship name. **Bhendi Bazar** is a Mumbai gharana known for note-stretching.
+15. **Dagar** bani leads the modern dhrupad revival. Early dhrupad patronage is linked with **Man Singh Tomar** of Gwalior. **Senia** is the **Tansen** instrumental line.
+16. **Kirana** is strongly linked with **Bhimsen Joshi**. Do not place Maihar or Tyagaraja Aradhana inside UP.
+17. Instrument families are **tata** (तत्) (plucked string), **vitat** (bowed string), **sushira** (wind), **avanaddha** (अवनद्ध) (membrane), and **ghana** (घन) (solid / idiophone).
+18. **Sitar** and **sarod** are Tata instruments. **Imdadkhani / Etawah** is a major sitar gharana. **Maihar** disciples include **Ravi Shankar**, **Ali Akbar Khan**, and **Annapurna Devi**.
+19. **Sarangi** is the classic bowed accompaniment of Hindustani vocal music. **Saraswati veena** and **rudra veena / been** are classical string pillars; rudra veena pairs with dhrupad.
+20. **Tabla** pairs with khayal and thumri. **Pakhawaj** pairs with dhrupad. **Mridangam** (मृदंगम्) is the Carnatic primary drum.
+21. **Shehnai** is the Hindustani reed of Banaras. **Nadaswaram** (नादस्वरम्) is the Carnatic temple reed. **Bansuri** (flute) is a sushira solo voice of Hindustani music.
+22. **Tansen** (तानसेन) was a dhrupad master of Akbar’s Navaratna, earlier at the court of Raja Ramchandra of Bhata / Rewa. He is not part of the Carnatic Trinity.
+23. Renowned musical legends associated with Uttar Pradesh include **Ustad Bismillah Khan** (shehnai, Varanasi), **Begum Akhtar** (Ghazal and Thumri, Faizabad and Lucknow), and **Girija Devi** (the "Queen of Thumri", Banaras).
+24. Key light-classical traditions of Uttar Pradesh include **Thumri** (nurtured in Lucknow and Banaras), **Kajri** (कजरी) (monsoon songs rooted in Mirzapur and Varanasi), and the Dhrupad legacy of **Swami Haridas** at Vrindavan.
+25. **Sangeet Natak Akademi** was founded in **1952** at New Delhi as the apex body for music, dance, and theatre.
+26. The chronological conferment of the **Bharat Ratna** upon classical musicians is: **M.S. Subbulakshmi (1998)**, **Pt. Ravi Shankar (1999)**, **Ustad Bismillah Khan (2001)**, and **Pt. Bhimsen Joshi (2008)**.
+27. A **raga** is a melody framework. A **tala** (ताल) is a beat-cycle. **Teental** is **16** beats. Carnatic **Adi tala** is **8**.
+28. Vedic chanting is UNESCO ICH **2008**. Manipuri **Sankirtana** is UNESCO ICH **2013**.
+29. The prestigious annual **Tansen Samaroh** is hosted at the tomb of Tansen in **Gwalior, Madhya Pradesh**, not in Uttar Pradesh.
+30. **Harmonium** is a free-reed keyboard used widely in Hindustani accompaniment; it is not a classical Tata string.
+31. Carnatic composition forms centre on the **kriti**. Hindustani improvisation centres on **alap–jor–jhala** (instrumental) and **vilambit–drut** khayal.
+32. **Indore** and **Delhi** appear as historic gharana place-names beside Gwalior, Agra, and Patiala; learn them as Hindustani houses, not Carnatic schools.
+33. **Banaras** is a major tabla and thumri centre (Kishan Maharaj, Girija Devi). Do not collapse Banaras into only shehnai.
+34. Gharana is a **Hindustani** guru–shishya house. Carnatic lines run by composer and kriti, not by gharana.
+
 
 ---
 

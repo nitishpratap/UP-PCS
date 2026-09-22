@@ -15,7 +15,7 @@ Political Condition of Sixth Century BCE | Sixteen Mahajanapadas | Mahajanapadas
 
 ---
 
-## Consolidated — 30 Must-Score Facts
+## Consolidated — 34 Must-Score Facts
 
 1. The sixth–fourth centuries BCE bring **iron**, **NBPW**, punch-marked silver (**Aahat**), and the **second urbanisation**. This is still **before** the Mauryan empire.
 2. Sources for the sixteen mahajanapadas include the Buddhist **Anguttara Nikaya** and the Jain **Bhagavati Sutra** (different name-set). **Panini’s Ashtadhyayi** names about **22** janapadas and stresses **Magadha, Asmaka, and Kamboja**.
@@ -47,6 +47,10 @@ Political Condition of Sixth Century BCE | Sixteen Mahajanapadas | Mahajanapadas
 28. Keep pottery chronology: **PGW** (Later Vedic) then **NBPW** (mahajanapada / early historic). Mixing them is a frequent trap.
 29. **Udayana–Vasavadatta** (Bhasa’s *Svapnavasavadattam* (स्वप्नवासवदत्तम्)) is tied to **Ujjain** (उज्जैन), not to Kaushambi alone as the love-story setting.
 30. **Kalpi** (ancient **Kalpriya**) sits on the **Yamuna** (यमुना) in Jalaun (UP). Dynasty dates for Magadha houses: Haryanka → Shishunaga → Nanda → Maurya → Shunga.
+31. **Prasenjit** of **Kosala** (Shravasti) is Buddha’s contemporary monarch. **Udayana** of **Vatsa** (Kaushambi) is the other famous middle-Ganga king of the same horizon.
+32. **Ghositarama** at Kaushambi is the famous Buddhist monastery of the Vatsa capital. **Saheth–Maheth** is the twin mound of **Shravasti**.
+33. Magadha’s geographic advantages are **iron**, **elephants**, **Ganga–Son** river trade, and aggressive conquest from **Anga** toward **Vajji** and finally **Avanti**.
+34. Canonical Buddhist sixteen are fixed furniture; Jain **Bhagavati** uses a different name-set. Capitals and UP/non-UP sorting decide most stems.
 
 ---
 

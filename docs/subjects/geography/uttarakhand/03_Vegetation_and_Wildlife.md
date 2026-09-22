@@ -37,18 +37,32 @@
 
 ---
 
-## Must-Score Facts
+## Consolidated — 24 Must-Score Facts
 
-1. Nanda Devi BR: WHS + snow leopard / musk deer / blue sheep.
-2. Askot–Pithoragarh; Binsar–Almora; Govind–Uttarkashi; Nandhaur–Nainital.
-3. Corbett 1936; Rajaji 1983; Gangotri 1989; Govind **1990**.
-4. Forest richness explained by topography and climate (A/R both true, R explains A).
-5. Swapping Askot/Binsar districts loses the match code.
-6. **Birch** = Himalayas (UKPCS 2006).
-7. **Deodar** abundant in western Himalayan temperate zone **1500–2500 m**; highest elevation among deodar / pine / sal / teak.
-8. **Lisa** comes from **pine** (resin → turpentine).
-9. **Khair** = **sub-tropical** forest type (UKPCS 2021); also the katha tree.
-10. **Bugyal** = alpine meadow above the tree-line.
+1. Forest richness of Uttarakhand is explained primarily by **topography and climate** packing many belts into a short horizontal distance.
+2. Altitude stack: foothill **sal** → **chir** → oak–rhododendron → **deodar / fir** → alpine **birch–juniper** → **bugyal**.
+3. Foothill **sal** and mixed deciduous forests occupy Tarai–Bhabar and the lower Shiwalik face.
+4. Sub-tropical **chir** pine commonly sits about **900–2000 m** on outer slopes.
+5. **Deodar** is abundant in the western Himalayan temperate belt at about **1500–2500 m**.
+6. Among deodar / pine / sal / teak options, **deodar** grows at the **highest** elevation from sea level.
+7. **Birch** belongs to Himalayan alpine / moist alpine scrub and has paper-like bark once used for writing.
+8. Above the tree-line, alpine meadows called **bugyals** support seasonal pastures and high-altitude herbs.
+9. Southern Himalayan slopes get more rain and sunlight than the rain-shadow north face, so vegetation is denser on the south.
+10. Tree-line is generally **lower** in the Western Himalaya than in the Eastern Himalaya.
+11. **Lisa** is pine resin; distillation yields turpentine and residual resin used in paint, varnish, and related industries.
+12. **Khair** is a **sub-tropical** forest tree of Shiwalik / western Himalaya scrub and also yields **katha**.
+13. **Burans** is the rhododendron flowering hill shrub — do not confuse it with Lisa or deodar.
+14. **Nanda Devi Biosphere Reserve** is a UNESCO World Heritage property with Valley of Flowers; fauna includes **snow leopard, musk deer, and blue sheep (bharal)**.
+15. **Askot** sanctuary = **Pithoragarh**; **Binsar** sanctuary = **Almora** — classic district swap trap.
+16. **Govind Pashu Vihar / NP** = **Uttarkashi**; **Nandhaur** sanctuary = **Nainital**.
+17. National Park year spine: **Corbett 1936**, **Rajaji 1983**, **Gangotri 1989**, **Govind 1990** (Govind is not 1989).
+18. Corbett carries India’s first national-park tradition; keep year pairs stable across sanctuary–NP match stems.
+19. Forests remain the major natural resource of the western Himalayan region and support rural livelihoods through resin, timber, and NTFP.
+20. Oak–rhododendron and mixed broad-leaved forests mark the temperate mid-hill transition below the deodar–fir belt.
+21. Higher belts carry **fir and spruce** before alpine birch–juniper scrub toward the tree-line.
+22. Keekar and acacia appear with khair in sub-tropical scrub above about **1000 m**.
+23. Swapping Askot and Binsar districts loses sanctuary–district match codes.
+24. Protected-area size crowns and Ramsar detail live mainly in the Environment UK parks chapter; this card keeps vegetation belts, products, and district–sanctuary pairs.
 
 ---
 

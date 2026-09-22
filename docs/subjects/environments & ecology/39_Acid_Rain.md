@@ -21,7 +21,7 @@ Acid Rain | Causes | Effects | Prevention
 
 ---
 
-## Consolidated — 22 Must-Score Facts
+## Consolidated — 28 Must-Score Facts
 
 1. **Acid rain** means acidic deposition with **pH below 5.6**.
 2. Normal rain (सामान्य वर्षा) is already slightly acidic near **pH 5.6** because CO₂ forms weak carbonic acid. It is **not** pH 7.
@@ -32,19 +32,25 @@ Acid Rain | Causes | Effects | Prevention
 7. Reversed statements that call normal rain alkaline or acid rain alkaline are both false.
 8. Lake waters below about **pH 5** can kill fish. Acid soils release toxic **Al³⁺**.
 9. Acid deposition harms conifers and weathers marble and limestone. The Taj marble → **gypsum** story is the classic Indian fact.
-10. Prevention tools include **FGD**, catalytic converters, cleaner fuel norms such as **BS-VI**, and regional protocols.
-11. The **Gothenburg Protocol / CLRTAP** family targets acidifying air pollutants. **Montreal** targets ozone ODS — different problem.
-12. The **Taj Trapezium** is the pollution-control belt designed to protect the Taj Mahal (ताज महल).
-13. SO₂ is denser than air and can travel long distances before deposition.
-14. Acid rain is a **secondary-pollutant** story built from primary SO₂ and NOx emissions.
-15. Coal power and some industries are major SO₂ sources. Vehicles and combustion add NOx.
-16. Liming lakes is an emergency response, not a substitute for cutting emissions at source.
-17. Do not blame acid rain mainly on CO₂ just because normal rain is weakly acidic.
-18. Dry deposition can damage materials even on rainless days.
-19. Acid mist and acid fog are wet forms even when they are not classic rainfall.
-20. Cultural-heritage damage and forest dieback are both valid effect facts alongside aquatic harm.
-21. India’s focus pairs chemistry (SO₂/NOx) with Taj protection geography.
-22. Calling Montreal the acid-rain treaty is a standard distractor.
+10. **Lichens** die in high SO₂ and act as pollution bio-indicators — they indicate pollution but do **not** thrive in polluted air.
+11. Prevention tools include **FGD**, catalytic converters, cleaner fuel norms such as **BS-VI**, and regional protocols.
+12. The **Gothenburg Protocol (1999)** under **CLRTAP (1979)** targets acidifying air pollutants. **Montreal** targets ozone ODS — different problem.
+13. The **Taj Trapezium Zone** covers about **10,400 km²** around the Taj Mahal (ताज महल), with Supreme Court-driven controls from **1996**.
+14. **Mathura (मथुरा) refinery** is a classic SO₂ source in the Taj Trapezium narrative.
+15. The **Singrauli** thermal belt and industrial NCR/Kanpur (कानपुर) airsheds are Indian acidifying-emission hotspots.
+16. SO₂ is denser than air and can travel long distances before deposition.
+17. Acid rain is a **secondary-pollutant** story built from primary SO₂ and NOx emissions.
+18. Coal power and some industries are major SO₂ sources. Vehicles and combustion add NOx.
+19. Liming lakes is an emergency response, not a substitute for cutting emissions at source.
+20. Do not blame acid rain mainly on CO₂ just because normal rain is weakly acidic.
+21. Dry deposition can damage materials even on rainless days.
+22. Acid mist and acid fog are wet forms even when they are not classic rainfall.
+23. Cultural-heritage damage and forest dieback are both valid effect facts alongside aquatic harm.
+24. India’s focus pairs chemistry (SO₂/NOx) with Taj protection geography.
+25. Calling Montreal the acid-rain treaty is a standard distractor.
+26. FGD is flue-gas desulphurisation at power-plant chimneys — mitigation hardware, not a treaty name.
+27. Secondary pollutants H₂SO₄ and HNO₃ form in the atmosphere from primary SO₂ and NOx.
+28. Acid rain is **not** “rain only”; dry deposition counts too.
 
 ---
 

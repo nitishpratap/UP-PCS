@@ -34,7 +34,7 @@ Million-city **population (जनसंख्या) ranks**. Missions and settl
 ---
 
 
-## Consolidated — 26 Must-Score Facts
+## Consolidated — 30 Must-Score Facts
 
 1. Human geography studies the **man–environment (पर्यावरण) relationship** and the spatial patterns of human life, settlements and economy.
 2. **Environmental determinism** (Ratzel / Semple) says nature controls culture. **Possibilism** (Vidal de la Blache) says humans choose among nature’s options. **Neo-determinism** (Griffith Taylor) is stop-and-go determinism.
@@ -62,6 +62,12 @@ Million-city **population (जनसंख्या) ranks**. Missions and settl
 24. **Bhopal** is the classic “not on a major river bank” city trap against Agra, Patna (पटना) or Kolkata.
 25. NCR slice of Uttar Pradesh includes Ghaziabad, Noida, Greater Noida and Meerut in the urban–industrial belt.
 26. Hamleted villages break the main settlement into secondary units (**panna / para / palli / nagla / dhani**); they are a rural pattern, not a separate census-town category.
+
+---
+27. Economic activities: **primary** (farming, mining, fishing), **secondary** (manufacturing), **tertiary** (services), with **quaternary** for knowledge / R&D in advanced teaching.
+28. Rural settlements lean on primary work and lower density; urban places are **statutory towns** or **census towns**. An **outgrowth** (railway colony, campus, cantonment) can sit inside an urban agglomeration.
+29. Functional town tags to keep: administrative, industrial, transport, commercial, mining, garrison, educational, religious and tourist — classed by the **dominant** job.
+30. Planned modern city classic = **Chandigarh** (Le Corbusier). Ancient urban tags include **Varanasi / Prayag / Madurai**; medieval tags include Delhi / Agra / Jaipur / Lucknow.
 
 ---
 

@@ -31,14 +31,26 @@
 
 ---
 
-## Must-Score Facts
+## Consolidated — 18 Must-Score Facts
 
-1. Gorkha entry into Kumaon ≈ **1790**; Garhwal climax ≈ **1804** (Pradyuman Shah at Khurbura); war with Company **1814–16**.
-2. **Amar Singh Thapa** = western Gorkha commander memory; Gillespie dies at **Nalapani**; Balbhadra defends; Ochterlony ≠ Dehradun column.
-3. **Subba** = governor; revenue + **begar** are the harsh-rule memories that later bridge Coolie-Begar.
-4. Sugauli / Segauli → British Kumaon / E. Garhwal + Tehri for Sudarshan Shah.
-5. Judge = **Vichari**; workers = **Sabha**; **Divya** = ordeal.
-6. Do not place Chand Char Aal facts inside Gorkha admin cards.
+1. **Causes (Gorkha entry):** After Shah–Thapa consolidation in Nepal, Gorkha armies pushed west for trade routes, revenue villages, and ridge lines between the **Kali** and the **Yamuna**; fragmented **Chand (Kumaon)** and **Parmar (Garhwal)** polities invited successive campaigns.
+2. **Course — occupation:** Gorkhas take **Kumaon / Almora ≈ 1790**; Garhwal climax ≈ **1804** when **Pradyuman Shah** dies at **Khurbura / Dehradun**; **Amar Singh Thapa** is the western Gorkha commander west of the Kali; peak hill control roughly **1790–1815**.
+3. **Causes (Anglo-Gorkha War):** Border friction with the East India Company along the Tarai and hill frontier after Company rise in the Doab–Rohilkhand opens the **Anglo-Gorkha War (1814–1816)**.
+4. **Course — Nalapani:** In the **Dehradun column (1814)**, **Major General Rollo Gillespie** assaults **Nalapani / Kalanga**; he is killed; **Balbhadra Singh Thapa** defends; the fort falls only after prolonged siege.
+5. **Course — Sutlej / Makwanpur:** **David Ochterlony** presses the **Sutlej** front and later toward **Makwanpur**; do **not** place Ochterlony at Nalapani — that death belongs to Gillespie.
+6. **Results — Sugauli:** The **Treaty of Sugauli / Segauli (1815–16)** ends the war; Nepal cedes tracts west of the **Kali**; **Kumaon** and **eastern Garhwal** pass under the Company; western Garhwal is restored as **Tehri** under **Sudarshan Shah**.
+7. **Admin — Subba:** The provincial / district governor under Gorkha hill rule is the **Subba** (revenue–administrative head, not the court judge).
+8. **Admin — begar:** Heavy revenue plus **begar** (forced unpaid labour) is the harsh-rule memory that later bridges into colonial **Coolie-Begar**.
+9. **Courts — Vichari:** The judge under Gorkha administration is **Vichari / Bichari**.
+10. **Courts — Sabha:** Associated judicial functionaries are remembered as **Sabha**.
+11. **Courts — Divya:** **Divya** means **trial by ordeal**, not an officer’s title for prompt justice (UKPCS 2025 trap).
+12. Do **not** place Chand **Char Aal** facts inside Gorkha administration cards — Chand political end ≈ **1790**; Gorkha hill rule ends with the **1815** settlement.
+13. **Nalapani vs Khalanga:** Same fort memory near Dehradun — **Kalanga / Nalapani**.
+14. **Kumaon 1790 vs Garhwal 1804:** Chand political end ≈ **1790**; Parmar climax at **Khurbura ≈ 1804** — do not merge the two dates.
+15. Full Garhwal did **not** become British: eastern Garhwal to Company; **Tehri** princely nucleus for Sudarshan Shah.
+16. Spelling note: **Sugauli** is the usual modern form; **Segauli** appears in older Company texts — same treaty.
+17. Gorkha cultural and military memory (forts, titles, begar) survives in coaching traps even after political rule ends in **1815–16**.
+18. Hold the 360° map: **Cause** (Nepal expansion + frontier friction) → **Course** (1790 / 1804 occupation → Gillespie–Nalapani → Ochterlony squeeze) → **Result** (Sugauli map + Tehri restoration).
 
 ---
 

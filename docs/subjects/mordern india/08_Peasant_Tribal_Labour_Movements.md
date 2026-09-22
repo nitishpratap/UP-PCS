@@ -22,7 +22,7 @@ Peasant Movements | Peasant Revolts | Leaders | Tribal Revolts | Tribal Leaders 
 
 ## Consolidated — 30 Must-Score Facts
 
-1. Hold three streams: **peasant** (rent, indigo, share), **tribal** (land–forest–*diku* (दिकू) [दिकू - बाहरी शोषक]), and **labour** (unions and wages). Method can overlap; the target of protest does not.
+1. Three streams with distinct targets: **peasant** (rent, indigo, sharecrop), **tribal** (land–forest–*diku*), and **labour** (unions and wages). Method can overlap; the grievance target does not.
 
 2. The **Sanyasi–Fakir** rising (~**1763–1800**) [संन्यासी-फ़क़ीर विद्रोह] in the Bengal–Bihar belt is the early chronology opener. Chronology order often starts here before Indigo and Pabna.
 

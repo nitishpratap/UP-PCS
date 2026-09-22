@@ -25,19 +25,34 @@
 
 ---
 
-## Must-Score Facts (High-Yield UKPCS)
+## Consolidated — 26 Must-Score Facts
 
-1. **Joshimath to Baijnath Shift:** Capital shifted from Joshimath to Kartikeyapura (Baijnath) in the Katyur valley to escape harsh winters, landslides, and Tibetan incursions.
-2. **The 3 Dynastic Families of Kartikeyapur:**
-   - **House of Basantandev:** Basantandev $\rightarrow$ Kharparadeva $\rightarrow$ Kalyanrajadeva $\rightarrow$ Tribhuwanrajadeva.
-   - **House of Nimbar (Shaivite):** Nimbar $\rightarrow$ **Ishtaganadeva** (unifier) $\rightarrow$ **Lalitsuradeva** (greatest builder) $\rightarrow$ Bhuwandev (Bageshwar inscription).
-   - **House of Salonaditya:** Salonaditya $\rightarrow$ Ichhata Deva $\rightarrow$ Deshatadeva $\rightarrow$ Padmata $\rightarrow$ Subhiksharajadeva.
-3. **Ishtaganadeva's Monumental Achievement:** First king who consolidated independent hill chieftains of both Kumaon and Garhwal into a single centralized Himalayan empire; constructed the Durga and Mahishamardini temples at Joshimath.
-4. **Lalitsuradeva’s Pandukeshwar Plates:** Dated to his 21st and 22nd regnal years. Eulogizes him as a champion of Dharma who extracted the submerged earth from the ocean like Lord Varaha.
-5. **Katyuri Epigraphy:**
-   - **Bageshwar Inscription:** Inscribed by King Bhuwandev; gives the unbroken genealogy of the Nimbar dynasty and records land gifts to the Vyaghreswar (Bageshwar) Shiva temple.
-   - **Pandukeshwar Plates (Chamoli):** 4 copper plates (2 of Lalitsuradeva, 1 of Padmata, 1 of Subhiksharajadeva).
-   - **Taleshwar Plates (Almora):** Record Paurava/early Katyuri administrative land grants.
+1. **Kartikepur / Katyuri** is the first historic imperial kingdom of Uttarakhand, about **740–1050 CE**.
+2. First capital is **Joshimath (Kartikeyapura)** in the Alaknanda valley (Garhwal). Second capital is **Baijnath (Katyur Valley)** on the Gomti in Bageshwar (Kumaon).
+3. Capital shift Joshimath → Baijnath is remembered for harsh winters, landslides, and Tibetan pressure — not a Chand conquest story.
+4. Founder tradition is **Basantandev (Basu Dev)** with the title *Parama-bhattaraka Maharajadhiraja*.
+5. Three dynastic houses: **Basantandev House → Nimbar House → Salonaditya House**.
+6. **Ishtaganadeva** (Nimbar house) is the first monarch to politically **unify** Garhwal and Kumaon; he built Durga / Mahishamardini temples at Joshimath.
+7. **Lalitsuradeva** is the most powerful builder-king; Pandukeshwar plates (21st–22nd regnal years) compare him to **Varaha** and **Bhagiratha**.
+8. Primary epigraphy: **Bageshwar stone inscription** of **Bhuwandev** and **four Pandukeshwar copper plates** (two of Lalitsuradeva, one of Padmata, one of Subhiksharajadeva).
+9. Bageshwar inscription gives Nimbar genealogy and land gifts to **Vyaghreswar** (Bageshwar) Shiva.
+10. Tyrannical last king is **Bir Dev (Biram Dev)**, overthrown by local uprising. Post-Katyuri branches: **Askot (Rajbars), Doti (Raiykas), Dwarahat, Baijnath**.
+11. Official language / script: **Sanskrit** with **Kutila / Siddhamatrika**.
+12. Admin titles: **Mahasamanta**, **Kottapala** (forts/passes), **Doshaparadhika** (investigator), **Dandapashika / Dandanayaka** (penal justice), **Bhogika** (revenue), **Saulkika** (tolls), **Tarika / Ghattapala** (ferries), **Khadgika** (bodyguard), **Pratihara**, **Kishorvadhabhikrit** (horses).
+13. **Doshaparadhika** investigates crime; **Dandapashika** enforces punishment — do not swap.
+14. Temple heritage: **Baijnath** complex (Gomti–Garur confluence; green-schist Parvati), **Jageshwar Dham** (124+ temples), **Dwarahat** (“Khajuraho of the Hills”), **Katarmal Sun Temple** (Almora; wood-carved doors in National Museum).
+15. Architectural style: Himalayan **Phamsana / Shikhara** and Nagara ashlar with snow-resistant canopies.
+16. **Kartikeyapura ≠ Brahmapura**. Kartikeyapura = Katyuri capital line; Brahmapura = 6th–7th century Xuanzang / Taleshwar entity.
+17. **Basantandev** = founder; **Ishtaganadeva** = unifier; **Lalitsuradeva** = greatest builder — three different jobs.
+18. Bageshwar = stone inscription of Bhuwandev; Pandukeshwar = copper plates near Joshimath (Chamoli).
+19. **Bir Dev** ends Katyuri power; **Somchand** begins Chand dynasty in Kali Kumaon — keep the succession pair straight.
+20. Taleshwar plates can carry Paurava / early Katyuri land-grant memory — read the stem for which dynasty is asked.
+21. Katarmal Sun Temple is Almora temple heritage (Katarmal Deva, 9th century) — also appears in Shaka-wave tribe notes.
+22. Nimbar house order for ratta: Nimbar → Ishtaganadeva → Lalitsuradeva → Bhuwandev.
+23. Salonaditya house includes Padmata and Subhiksharajadeva of the Pandukeshwar plate set.
+24. Katyuri bureaucracy models Gupta–Harsha titles (*mahasamanta*, *pratihara*) on a Himalayan fort-and-toll landscape.
+25. UKPCS frequently asks Hiuen Tsang’s **Brahmapura** vs Katyuri **Kartikeyapur** — that pair is the capital-name trap of this desk.
+26. After Katyuri fragmentation, full medieval cards live under Medieval India `uttarakhand/` (Kattyuri / Chand).
 
 ---
 

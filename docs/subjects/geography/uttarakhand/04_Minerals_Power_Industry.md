@@ -28,14 +28,26 @@
 
 ---
 
-## Must-Score Facts
+## Consolidated — 18 Must-Score Facts
 
-1. Silica sand ≠ Pauri Garhwal — use Dehradun, Nainital, Tehri Garhwal.
-2. Dolomite — Dehradun, Pithoragarh.
-3. Soapstone — Chamoli, Bageshwar.
-4. Graphite — Almora, Nainital.
-5. Hydropower is the core power narrative; Tehri is the flagship on Bhagirathi.
-6. Industry concentrates in Tarai plains and Dehradun belt.
+1. Uttarakhand has scattered Himalayan–foothill minerals; it does **not** have one giant coal–iron belt.
+2. **Dolomite** pairs with **Dehradun** and **Pithoragarh**.
+3. **Soapstone** pairs with **Chamoli** and **Bageshwar**.
+4. **Graphite** pairs with **Almora** and **Nainital**.
+5. **Silica sand** pairs with **Dehradun, Nainital, and Tehri Garhwal** — **not Pauri Garhwal**.
+6. Pauri Garhwal is the planted wrong match for silica sand in the standard pairing.
+7. Limestone and magnesite appear as minor coaching occurrences; the four named pairs above carry the heaviest recall weight.
+8. Hydropower dominates the power story because of steep gradients and glacier-fed rivers.
+9. Major project belts follow the **Bhagirathi**, **Alaknanda**, and **Yamuna** systems.
+10. The **Tehri** hydropower complex on the Bhagirathi near the Bhilangana confluence is the flagship multipurpose project (power, flood moderation, storage).
+11. Named coaching heads also include run-of-river and storage schemes such as **Vishnuprayag** and **Srinagar** on the Alaknanda belt, plus Yamuna-side projects in western Garhwal.
+12. High alpine sites face glacial and seismic constraints; **thermal coal is not** the core identity of the UK power map.
+13. Industry concentrates in **Tarai / plains** districts and the **Dehradun** dun more than in high alpine tehsils.
+14. **SIIDCUL** anchors planned industrial estates in the plains–dun belt.
+15. Coaching industrial nodes include **Haridwar**, **Pantnagar / Rudrapur** (Udham Singh Nagar), and **Sitarganj**-side Tarai estates.
+16. **Udham Singh Nagar** hosts agro-based and light manufacturing linked to the Tarai farm belt.
+17. **Dehradun** carries administration, education, pharma, IT, and service-industry pockets; forest-based and tourism services matter in mid-hill towns.
+18. Heavy smokestack industry is limited by terrain, ecology, and transport cost — light manufacturing and services dominate instead.
 
 ---
 

@@ -56,7 +56,7 @@ Revolt of 1857 | Causes | Beginning of Revolt | Centres of Revolt | Leaders of R
 37. Among Queen’s Proclamation promises, the one most clearly followed was ending further **annexation** of princely states (adoption allowed again).
 38. Sepoy military grievances also included stoppage of **bhatta/batta** (foreign-service allowance) and fear of **sea voyage** (kalapani) under the **General Service Enlistment Act, 1856**.
 39. **Sahukars (साहूकार) / moneylenders** and many landlords did **not** support the revolt; inefficiency of British officers was **not** a standard sepoy grievance.
-40. Prioritise **Meerut 10 May**, centre↔leader matches, and **1858 Crown** over long historiography debates.
+40. Centre↔leader first: Delhi (Zafar / Bakht Khan), Kanpur (Nana / Tantia), Lucknow (Begum), Jhansi (Lakshmibai), Bareilly (Khan Bahadur Khan), Jagdishpur (Kunwar), Faizabad (Ahmadullah), Allahabad (Liaquat Ali) — then **Meerut 10 May** and **1858 Crown**.
 
 ---
 

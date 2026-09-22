@@ -15,7 +15,7 @@ Post-Gupta Age | Harshavardhana | Administration of Harsha | Policies of Harshav
 
 ---
 
-## Consolidated — 32 Must-Score Facts
+## Consolidated — 34 Must-Score Facts
 
 1. After the imperial Guptas break about **550 CE**, the **Hunas** are led first by **Toramana**, then by **Mihirakula** of **Sakala (Sialkot)**. **Yashodharman** of Malwa boasts the Huna check at **Mandasor** about **532 CE**. **Vasula** is remembered as composer of Yashodharman’s Sondani / Sondhni record.
 2. Regional houses to fact: **Pushyabhutis** at **Thanesar**, **Maukharis** at **Kannauj**, **Later Guptas** in Magadha, **Maitrakas** at **Valabhi** (वलभी), and **Gauda** under **Shashanka** at **Karnasuvarna**.
@@ -49,6 +49,8 @@ Post-Gupta Age | Harshavardhana | Administration of Harsha | Policies of Harshav
 30. **I-tsing** comes by sea after Harsha (~671–695), studies at Nalanda, and returns via Sumatra.
 31. Nalanda’s final medieval destruction is linked to **Bakhtiyar Khalji** (~1193) — Pala–Sena age, not Harsha’s lifetime.
 32. Shankaracharya’s four maths and Chardham traps belong to Bhakti / Vedanta notes — do not merge them into Harsha’s court card.
+33. Harsha’s moving royal camp is remembered as **skandhavara**. Administration reuses Gupta vocabulary; the state dies with the king in **647**.
+34. **Pushyabhuti** house founder-memory is **Pushyabhuti**; Harsha’s Chinese title is **Siladitya**. Do not call Harsha a Gupta emperor.
 
 ---
 

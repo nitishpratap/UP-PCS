@@ -24,36 +24,43 @@
 
 ---
 
-## Consolidated — 28 Must-Score Facts
+## Consolidated — 35 Must-Score Facts
 
 1. The **Regulating Act, 1773** created the **Governor-General (गवर्नर-जनरल) of Bengal** (Warren Hastings (वारेन)) and a Supreme Court at Calcutta in **1774**. It did **not** create the Governor-General of India.
 2. The **Charter Act, 1833** made the Governor-General of Bengal the **Governor-General of India**; William Bentinck (बेंटिंक) was the first holder of that title.
 3. Under **Pitt’s India Act, 1784**, the **Board of Control** handled political affairs and the **Court of Directors** handled commercial affairs. Do not swap the two.
-4. Open competitive examination for the **ICS** was implemented under the **Charter Act, 1853**. The **1833** Act only carried the spirit of open competition.
-5. The **Government of India Act, 1858** ended Company rule. The Crown took over; a **Secretary of State** and a **Viceroy** (वायसराय) replaced Company control. **Lord Canning** was the first Viceroy (कैनिंग).
-6. The **portfolio system** got legal recognition (मान्यता) under the **Indian Councils Act, 1861** (practice had begun around **1859**). Do not fact it to 1858, 1892, or 1909.
-7. **Muslim separate electorates** began with the **Indian Councils Act, 1909** (Morley–Minto). The Communal Award of **1932** was not the first such device.
-8. **S.P. Sinha** was the first Indian member of the Viceroy’s Executive Council under the **1909** reforms.
-9. The **Government of India Act, 1919** introduced **Dyarchy** (द्वैध शासन) in the provinces, a bicameral legislature at the Centre, and the **Chamber of Princes**.
-10. The **Government of India Act, 1935** introduced **Provincial Autonomy**, which **operated**. The proposed **Federation** and **Dyarchy at the Centrenever operated**.
-11. Under the **1935** Act, residuary (अवशिष्ट) powers rested with the **Viceroy / Governor-General**, not with the Federal Legislature.
-12. The **Federal Court** under the 1935 scheme began in **1937**. The **RBI** was created by the **RBI Act, 1934**; the 1935 Act only provided for a central bank.
-13. The **Communal Award** came in **1932** (not 1933). The **Poona Pact** (पूना पैक्ट) replaced separate electorates for Depressed Classes with **reserved seats and a joint electorate**.
-14. Gandhi (गांधी) attended the **Second Round Table Conference**; **Rajendra Prasad** did not go as the Congress (कांग्रेस) delegate.
-15. The Interim Government was **announced on 24 August 1946** and took **office on 2 September 1946**. Do not mix the two dates.
-16. The **Mountbatten Plan** (माउंटबेटन योजना) was announced on **3 June 1947**. The **Indian Independence Act** received assent on **18 July 1947**.
-17. The first clear demand for a Constituent Assembly (संविधान सभा) is linked to **M.N. Roy (1934)** and then the **Congress (1935)**.
-18. The Constituent Assembly’s original strength was **389 (292 + 93 + 4)**, later reduced to **299**. Election was **indirect** by provincial assemblies through **PR-STV**. About **15 women** were members. **Gandhi was not a member**.
-19. The Assembly first met on **9 December 1946**. The **Objectives Resolution** was moved on **13 December 1946** and adopted (अंगीकृत) on **22 January 1947**.
-20. The **Drafting Committee** was set up on **29 August 1947** with **B.R. Ambedkar** (बी.आर. अम्बेडकर) as Chairman. **B.N. Rau** was the **Constitutional Adviser**, not the Drafting Chair.
-21. The **Minorities Sub-Committee** was chaired by **H.C. Mukherjee**. The parent **Advisory Committee** was chaired by **Sardar Patel** (सरदार पटेल).
-22. The Constitution was **adopted on 26 November 1949** (**284** signatures) and **enforced on 26 January 1950**. The last Assembly sitting (बैठक) was on **24 January 1950**. The national Flag was adopted on **22 July 1947**.
-23. **C. Rajagopalachari** was the first Indian Governor-General (**1948–50**). Mountbatten was the last British Governor-General, not the first Indian one.
-24. Borrowed-feature facts: **UK** — parliamentary system; **USA** — Fundamental Rights (मौलिक अधिकार); **Ireland** — DPSP (राज्य के नीति निदेशक तत्व); **Canada** — residuary powers; **Australia** — Concurrent List (समवर्ती सूची); **Germany** — emergency suspension model; **Japan** — procedure (प्रक्रिया) established by law (Art. 21 style); **GOI Act 1935** — structural (संरचनात्मक) skeleton.
-25. The **Simon Commission (1927)** was all-British. The **Nehru Report** followed in **1928**, then the Round Table Conferences, the Award/Poona Pact, and the **1935** Act.
-26. Under **1919**, a path toward a Public Service Commission led to the **Central PSC in 1926**.
-27. Six provinces became bicameral under the 1935 scheme: **Bengal, Bombay, Madras, Bihar, Assam, and the United Provinces**.
-28. Constitution Day is remembered on **26 November** as the adoption anniversary, not as the enforcement date.
+4. The **Act of 1786** let the Governor-General **overrule** his Council on safety/peace grounds; **Lord Cornwallis** was the first Governor-General who was also Commander-in-Chief.
+5. Open competitive examination for the **ICS** was implemented under the **Charter Act, 1853**. The **1833** Act only carried the spirit of open competition.
+6. The **Charter Act, 1813** ended the Company’s trade monopoly except **tea and China trade**, and set aside **₹1 lakh** for education. Territory and revenue stayed with the Company for another **20 years**.
+7. The **Government of India Act, 1858** ended Company rule. The Crown took over; a **Secretary of State** and a **Viceroy** (वायसराय) replaced Company control. **Lord Canning** was the first Viceroy (कैनिंग).
+8. The **portfolio system** got legal recognition (मान्यता) under the **Indian Councils Act, 1861** (practice had begun around **1859**). Do not fact it to 1858, 1892, or 1909.
+9. The **Indian Councils Act, 1892** introduced **indirect elections** and allowed **budget discussion without voting**. Supplementary questions arrived with **1909**, not 1892.
+10. **Muslim separate electorates** began with the **Indian Councils Act, 1909** (Morley–Minto). The Communal Award of **1932** was not the first such device.
+11. **S.P. Sinha** was the first Indian member of the Viceroy’s Executive Council under the **1909** reforms.
+12. The **Government of India Act, 1919** introduced **Dyarchy** (द्वैध शासन) in the provinces, a bicameral legislature at the Centre, and the **Chamber of Princes**.
+13. The **Government of India Act, 1935** introduced **Provincial Autonomy**, which **operated**. The proposed **Federation** and **Dyarchy at the Centre never operated**.
+14. Under the **1935** Act, residuary (अवशिष्ट) powers rested with the **Viceroy / Governor-General**, not with the Federal Legislature.
+15. The **Federal Court** under the 1935 scheme began in **1937**. The **RBI** was created by the **RBI Act, 1934**; the 1935 Act only provided for a central bank.
+16. The **Communal Award** came in **1932** (not 1933). The **Poona Pact** (पूना पैक्ट) replaced separate electorates for Depressed Classes with **reserved seats and a joint electorate**.
+17. Gandhi (गांधी) attended the **Second Round Table Conference**; **Rajendra Prasad** did not go as the Congress (कांग्रेस) delegate.
+18. The **August Offer (1940)** (Viceroy Linlithgow) offered dominion status after the war and accepted in principle the idea of a constitution framed by Indians — the **1935** Act itself did not provide a written Constitution.
+19. The **Cripps Mission (March 1942)** offered a Constituent Assembly after the war and dominion status; Congress rejected it. Chronology: Cripps (**1942**) → Wavell/Shimla (**1945**) → Cabinet Mission (**1946**).
+20. The **Wavell Plan (1945)** proposed equal Hindu–Muslim seats on the Governor-General’s Executive Council (except Defence); the **Shimla Conference** failed to break the deadlock.
+21. The **Cabinet Mission (1946)** (Pethick-Lawrence, Stafford Cripps, A.V. Alexander) rejected a sovereign Pakistan, proposed a **three-tier** Union with **Sections A/B/C**, and framed the path to the Constituent Assembly.
+22. The Interim Government was **announced on 24 August 1946** and took **office on 2 September 1946**. Do not mix the two dates.
+23. The **Mountbatten Plan** (माउंटबेटन योजना) was announced on **3 June 1947**. The **Indian Independence Act** received assent on **18 July 1947**.
+24. The first clear demand for a Constituent Assembly (संविधान सभा) is linked to **M.N. Roy (1934)** and then the **Congress (1935)**.
+25. The Constituent Assembly’s original strength was **389 (292 + 93 + 4)**, later reduced to **299**. Election was **indirect** by provincial assemblies through **PR-STV**. About **15 women** were members. **Gandhi was not a member**.
+26. The Assembly first met on **9 December 1946**. The **Objectives Resolution** was moved on **13 December 1946** and adopted (अंगीकृत) on **22 January 1947**.
+27. The **Drafting Committee** was set up on **29 August 1947** with **B.R. Ambedkar** (बी.आर. अम्बेडकर) as Chairman. **B.N. Rau** was the **Constitutional Adviser**, not the Drafting Chair.
+28. The **Minorities Sub-Committee** was chaired by **H.C. Mukherjee**. The parent **Advisory Committee** was chaired by **Sardar Patel** (सरदार पटेल).
+29. The Constitution was **adopted on 26 November 1949** (**284** signatures) and **enforced on 26 January 1950**. The last Assembly sitting (बैठक) was on **24 January 1950**. The national Flag was adopted on **22 July 1947**.
+30. **C. Rajagopalachari** was the first Indian Governor-General (**1948–50**). Mountbatten was the last British Governor-General, not the first Indian one.
+31. Borrowed-feature facts: **UK** — parliamentary system; **USA** — Fundamental Rights (मौलिक अधिकार); **Ireland** — DPSP (राज्य के नीति निदेशक तत्व); **Canada** — residuary powers; **Australia** — Concurrent List (समवर्ती सूची); **Germany** — emergency suspension model; **Japan** — procedure (प्रक्रिया) established by law (Art. 21 style); **GOI Act 1935** — structural (संरचनात्मक) skeleton.
+32. The **Simon Commission (1927)** was all-British. The **Nehru Report** followed in **1928**, then the Round Table Conferences, the Award/Poona Pact, and the **1935** Act.
+33. Under **1919**, a path toward a Public Service Commission led to the **Central PSC in 1926**.
+34. Six provinces became bicameral under the 1935 scheme: **Bengal, Bombay, Madras, Bihar, Assam, and the United Provinces**.
+35. Constitution Day is remembered on **26 November** as the adoption anniversary, not as the enforcement date.
 
 ```
                Constitutional Development Acts Chronology (1773–1947)
