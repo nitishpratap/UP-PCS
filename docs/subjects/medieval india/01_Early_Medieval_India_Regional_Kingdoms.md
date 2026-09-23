@@ -449,6 +449,8 @@ D. A false, R true
 
 ## 1.6 Chola Empire
 
+![Chola Empire & Maritime Trade Routes](images/chola_empire_trade_routes_map.png)
+
 **Founder:Vijayalaya** took **Thanjavur ~850** | **Span:** c. **850–1279** | **Peak:Rajaraja I (985–1014)** and **Rajendra I (1014–1044)**
 
 - After the Sangam Cholas there is a long interregnum until the medieval Cholas rise under **Vijayalaya**.
@@ -568,6 +570,8 @@ D. A false, R true
 
 ## 1.9 Chola Naval Power
 
+![Chola Maritime Expeditions & Overseas Trade Routes](images/chola_empire_trade_routes_map.png)
+
 **Peak under Rajaraja I and Rajendra I** | **Bay of Bengal nicknamed “Chola Lake”**
 
 | Target | Ruler | Fact |
@@ -616,6 +620,8 @@ D. A false, R true
 
 ## 1.10 Gurjara-Pratihara Dynasty
 
+![Gurjara-Pratihara Empire (c. 900 AD)](images/gurjara_pratihara_empire_map.png)
+
 **Early base:Bhinmal / Ujjain** | **Capital under Mihir Bhoja:Kannauj (Mahodaya / Mahodaya Shri)** | **Span:** 8th–10th c.
 
 - **Pratihara** means “doorkeeper” in Rajput **Agnikula** legend.
@@ -644,6 +650,8 @@ D. A false, R true
 ## 1.11 Tripartite Struggle for Kannauj
 ### Tripartite Struggle — Cause, Course, Result (overview)
 
+![The Tripartite Struggle for Kannauj (Pratiharas, Palas, Rashtrakutas)](images/tripartite_struggle_map.png)
+
 **Actors:Palas** (east), **Gurjara-Pratiharas** (west), **Rashtrakutas** (south) | **Prize:Kannauj** symbolic capital
 
 **Cause:** After Harsha's empire, **Kannauj** became the prestige seat of north Indian kingship. Three regional powers fought to control it and the **doab** (दोआब) trade routes.
@@ -670,6 +678,8 @@ D. A false, R true
 ---
 
 ## 1.12 Pala Dynasty
+
+![Pala Empire & The Tripartite Struggle](images/pala_empire_map.png)
 
 **Region:Bengal + Bihar** | **Founder:Gopala (~750)**, elected by chiefs after anarchy | **Span:** mid-8th to mid-12th c.
 
@@ -702,6 +712,8 @@ D. A false, R true
 ---
 
 ## 1.13 Sena Dynasty
+
+![Sena Dynasty (c. 1201)](images/sena_dynasty_map.png)
 
 **Region:Bengal** (11th–13th c.) | **Founder line:Samanta (सामंत) Sena** | **Capital under Lakshman:Nadia (Navadwip)**
 
@@ -753,6 +765,8 @@ D. 3, 4, 1, 2
 ---
 
 ## 1.14 Paramara Dynasty
+
+![Paramara Dynasty Territory & Core Centres](images/paramara_dynasty_map.png)
 
 **Region:Malwa** | **Capital:Dhara** (earlier **Ujjain**) | **Peak:Bhoja I (c. 1010–1055)**, scholar-king
 
@@ -942,6 +956,8 @@ D. A false, R true
 ---
 
 ## 1.20 Yadava Dynasty
+
+![Regional Kingdoms of India (c. 1201 CE) — Yadavas, Hoysalas, Kakatiyas, Senas, and Cholas](images/india_1201_regional_kingdoms_map.png)
 
 **Capital:Devagiri** (later **Daulatabad**) | **Span:** c. **1187–1317** | **Peak:Singhana** | late ruler **Ramachandra**
 
