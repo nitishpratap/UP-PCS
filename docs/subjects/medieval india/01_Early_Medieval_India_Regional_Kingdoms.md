@@ -354,6 +354,8 @@ D. IV, III, I, II
 
 ## 1.4 Chalukya Dynasty & Western Chalukyas
 
+![Chalukya Empire (c. 957–1189 CE)](images/chalukya_empire_map.png)
+
 **Early Chalukyas:Badami / Vatapi** (c. **543–757**) | **Western / Later Chalukyas:Kalyani** (c. **973–1189**)
 
 | Feature | Early (Badami) | Western (Kalyani) |
@@ -418,6 +420,8 @@ D. A false, R true
 ---
 
 ## 1.5 Rashtrakuta Dynasty
+
+![Rashtrakuta Empire & The Tripartite Struggle](images/rashtrakuta_empire_map.png)
 
 **Capital:Manyakheta (Malkhed)** | **Founder:Dantidurga** (overthrew Early Chalukyas **757**) | **Span:** c. **753–972**
 
