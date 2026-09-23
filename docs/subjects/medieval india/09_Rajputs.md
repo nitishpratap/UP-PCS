@@ -149,16 +149,21 @@ Rajput (राजपूत) Warriors | Maharana Pratap (प्रताप) | Ba
 A. Rana Hamir – Mewar
 B. Rana Chunda – Marwar
 C. Malik Raja Farooqi – Khandesh
-D. Malik Sarwar – Malwa Khwaja Jahan
+D. Malik Sarwar Khwaja Jahan – Malwa
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Rana Chunda is a **Mewar** Sisodia; **Rao Chunda** is the **Marwar** Rathore line.
+**Correct Answer:** **B** (Rana Chunda – Marwar is NOT correctly matched)
 
-**Ans: B.**
+**Detailed Explanation:**
+- **Option B is incorrectly matched (Correct Answer):** **Rana Chunda** (Rawat Chunda, the "Bhishma of Mewar") was the eldest son of Rana Lakha of **Mewar** (Sisodia clan) who renounced his claim to the throne of Chittor in favor of his infant half-brother Mokal. The Rathore ruler of **Marwar** (Jodhpur line) held the title **Rao Chunda** (Rao Chunda Rathore, reigned c. 1383–1424 CE, father of Rao Ranmal and grandfather of Rao Jodha), not *Rana* Chunda.
+- **Option A is correctly matched:** **Rana Hammir** (reigned 1326–1364 CE) was the Sisodia hero who recovered Chittor from the puppet rulers appointed by the Delhi Sultanate after Alauddin Khalji's sack, re-establishing the fortunes of **Mewar** and establishing the Sisodia branch.
+- **Option C is correctly matched:** **Malik Raja Farooqi** was the founder of the independent Farooqi Sultanate of **Khandesh** (in the Tapti valley) in 1382 CE, establishing his capital at Thalner and Burhanpur.
+- **Option D context:** Malik Sarwar (Khwaja Jahan) founded the Sharqi Sultanate of Jaunpur; while Option D also contains a mismatch, in the official UPPCS key for this paper, **Option B** was targeted specifically on the Rajput dynasty/title confusion.
 
-**Trap:** Option D (Malik Sarwar–Malwa) is also false — he founded **Jaunpur** — but the keyed Rajput trap is **B**.
+**Key Exam Takeaway / Trap:**
+- *Title & Clan Distinction:* **Rana Chunda** = Mewar (Sisodia prince who renounced the throne); **Rao Chunda** = Marwar (Rathore founder who captured Mandore in 1395 CE).
 
 </details>
 
@@ -227,14 +232,26 @@ D. Malik Sarwar – Malwa Khwaja Jahan
 3. Warangal
 4. Chittor
 
-A. 1-3-2-4 | B. 3-4-1-2 | C. 2-1-4-3 | D. 4-2-3-1
+Options:
+A. 1-3-2-4
+B. 3-4-1-2
+C. 2-1-4-3
+D. 4-2-3-1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C (2-1-4-3)Order:** Gujarat **1299** → Ranthambore **1301** → Chittor **1303** → Warangal **~1310**.
+**Correct Answer:** **C** (2-1-4-3: Gujarat → Ranthambor → Chittor → Warangal)
 
-**Trap:** Warangal** (Deccan (दक्कन)/Kafur) comes **last**, not first.
+**Detailed Explanation:**
+- **2. Conquest of Gujarat (1299 CE):** Commanded by Ulugh Khan and Nusrat Khan; Rai Karan Vaghela was expelled, Somnath temple was despoiled, and Malik Kafur was acquired at Khambhat.
+- **1. Siege of Ranthambor (1301 CE):** Defeated the Chauhan ruler Rana Hammir Deva after a prolonged siege, witnessing the earliest recorded Persian description of *Jauhar* by Amir Khusrau.
+- **4. Siege of Chittor (1303 CE):** Alauddin captured the capital of Mewar from Guhila ruler Rana Ratan Singh; Rani Padmini committed *Jauhar*; the fort was renamed *Khizrabad* after Prince Khizr Khan.
+- **3. Conquest of Warangal (1309–1310 CE):** Malik Kafur besieged the Kakatiya capital in the Deccan, compelling Prataparudra Deva II to surrender enormous wealth, including the Koh-i-Noor diamond, and pay annual tribute.
+- **Chronological Sequence:** 2 (1299) → 1 (1301) → 4 (1303) → 3 (1310) = **2-1-4-3**.
+
+**Key Exam Takeaway / Trap:**
+- *North vs South Campaign Sequence:* Alauddin first conquered northern Rajput kingdoms (**Gujarat 1299 → Ranthambor 1301 → Chittor 1303 → Malwa 1305**), and only thereafter launched his Deccan campaigns under Malik Kafur (**Devagiri 1307 → Warangal 1310 → Dwarasamudra 1311 → Madurai 1311**).
 
 </details>
 
@@ -245,14 +262,26 @@ A. 1-3-2-4 | B. 3-4-1-2 | C. 2-1-4-3 | D. 4-2-3-1
 3. Warangal
 4. Chittor
 
-A. 1-2-3-4 | B. 2-1-4-3 | C. 2-1-3-4 | D. 1-2-4-3
+Options:
+A. 1-2-3-4
+B. 2-1-4-3
+C. 2-1-3-4
+D. 1-2-4-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B (2-1-4-3)Order:** Jaisalmer → Ranthambore → Chittor → Warangal.
+**Correct Answer:** **B** (2-1-4-3: Jaisalmer → Ranthambore → Chittor → Warangal)
 
-**Trap:** Alauddin's conquest order **Gujarat → Ranthambore → Chittor → Warangal** may map to different option letters across papers.
+**Detailed Explanation:**
+- **2. Siege of Jaisalmer (1299 CE):** Early expedition sent against the Bhati Rajput ruler of Jaisalmer, who had seized imperial tribute horses being transported from Sindh.
+- **1. Conquest of Ranthambore (1301 CE):** Fall of Hammir Deva's Chauhan stronghold.
+- **4. Conquest of Chittor (1303 CE):** Capture of Chittorgarh from Rana Ratan Singh.
+- **3. Conquest of Warangal (1309–1310 CE):** Southern expedition under Malik Kafur subjugating the Kakatiyas.
+- **Chronological Sequence:** 2 (Jaisalmer, 1299) → 1 (Ranthambore, 1301) → 4 (Chittor, 1303) → 3 (Warangal, 1310) = **2-1-4-3**.
+
+**Key Exam Takeaway / Trap:**
+- *Jaisalmer Inclusion:* When Jaisalmer is included in Alauddin's sequence, it comes at the very beginning (1299 CE alongside Gujarat), preceding Ranthambore (1301 CE) and Chittor (1303 CE).
 
 </details>
 
@@ -260,61 +289,86 @@ A. 1-2-3-4 | B. 2-1-4-3 | C. 2-1-3-4 | D. 1-2-4-3
 
 ## Complete PYQ Bank (Topic 9)
 
-
 **Q1. UPPCS Prelims 2021, Q118**
 
-Which is **NOT** correctly matched (Ruler–State)?
+Which of the following pairs is NOT correctly matched (Ruler–State)?
 
 A. Rana Hamir – Mewar
 B. Rana Chunda – Marwar
 C. Malik Raja Farooqi – Khandesh
-D. Malik Sarwar – Malwa Khwaja Jahan
+D. Malik Sarwar Khwaja Jahan – Malwa
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Rana Chunda is a **Mewar** Sisodia; **Rao Chunda** is the **Marwar** Rathore line.
+**Correct Answer:** **B** (Rana Chunda – Marwar is NOT correctly matched)
 
-**Ans: B.**
+**Detailed Explanation:**
+- **Option B is incorrectly matched (Correct Answer):** **Rana Chunda** (Rawat Chunda) was a prince of **Mewar** (Sisodia clan), the eldest son of Rana Lakha, famous for relinquishing his right to the throne of Mewar. The Rathore ruler of **Marwar** was **Rao Chunda** (reigned 1383–1424 CE), grandfather of Rao Jodha who founded Jodhpur.
+- **Option A is correctly matched:** **Rana Hammir** (1326–1364 CE) liberated and restored **Mewar** following the Khalji destruction of Chittor.
+- **Option C is correctly matched:** **Malik Raja Farooqi** founded the independent Sultanate of **Khandesh** in 1382 CE.
+- **Option D context:** Malik Sarwar founded Jaunpur; however, in the official UPPCS key, the intended Rajput distractor was **Option B**.
 
-**Trap:** Option D (Malik Sarwar–Malwa) is also false — he founded **Jaunpur** — but the keyed Rajput trap is **B**.
+**Key Exam Takeaway / Trap:**
+- *Title Distinction:* **Rana** = Mewar (Sisodia/Guhila); **Rao** = Marwar & Bikaner (Rathore).
 
 </details>
-
 
 **Q2. UPPCS Prelims 2022, Q59**
 
-Alauddin conquests: 1.Ranthambor 2.Gujarat 3.Warangal 4.Chittor
+Arrange Alauddin Khalji’s conquests in chronological order:
+1. Ranthambor
+2. Gujarat
+3. Warangal
+4. Chittor
 
-Options: A.1-3-2-4 | B.3-4-1-2 | C.2-1-4-3 | D.4-2-3-1
+Options: A. 1-3-2-4 | B. 3-4-1-2 | C. 2-1-4-3 | D. 4-2-3-1
 
 <details><summary>Show answer</summary>
 
-**Ans: C (2-1-4-3)Order:** Gujarat **1299** → Ranthambore **1301** → Chittor **1303** → Warangal **~1310**.
+**Correct Answer:** **C** (2-1-4-3: Gujarat → Ranthambor → Chittor → Warangal)
 
-**Trap:** Warangal** (Deccan/Kafur) comes **last**, not first.
+**Detailed Explanation:**
+- **2. Gujarat (1299 CE):** Defeat of Rai Karan Vaghela; annexation of northern Gujarat.
+- **1. Ranthambor (1301 CE):** Siege of Hammir Deva's Chauhan fortress.
+- **4. Chittor (1303 CE):** Fall of Chittorgarh and Jauhar of Rani Padmini.
+- **3. Warangal (1309–1310 CE):** Malik Kafur's Deccan expedition against Kakatiya King Prataparudra.
+- **Chronological Sequence:** 2 → 1 → 4 → 3 = **2-1-4-3**.
+
+**Key Exam Takeaway / Trap:**
+- *Deccan Timing:* All northern Rajput conquests (Gujarat 1299, Ranthambor 1301, Chittor 1303) preceded the southern expeditions under Malik Kafur.
 
 </details>
-
 
 **Q3. UPPCS Prelims 2025, Q30**
 
-Alauddin victories: 1.Ranthambore 2.Jaisalmer 3.Warangal 4.Chittor
+Arrange Alauddin Khalji’s victories in chronological order:
+1. Ranthambore
+2. Jaisalmer
+3. Warangal
+4. Chittor
 
-Options: A.1-2-3-4 | B.2-1-4-3 | C.2-1-3-4 | D.1-2-4-3
+Options: A. 1-2-3-4 | B. 2-1-4-3 | C. 2-1-3-4 | D. 1-2-4-3
 
 <details><summary>Show answer</summary>
 
-**Ans: B (2-1-4-3)Order:** Jaisalmer → Ranthambore → Chittor → Warangal.
+**Correct Answer:** **B** (2-1-4-3: Jaisalmer → Ranthambore → Chittor → Warangal)
 
-**Trap:** With **Jaisalmer** prepended, order is **Jaisalmer → Ranthambore → Chittor → Warangal** — verify pairs, not memorised letters.
+**Detailed Explanation:**
+- **2. Jaisalmer (1299 CE):** Bhati Rajput stronghold attacked at the start of Alauddin's reign.
+- **1. Ranthambore (1301 CE):** Chauhan stronghold captured from Hammir Deva.
+- **4. Chittor (1303 CE):** Guhila capital conquered from Rana Ratan Singh.
+- **3. Warangal (1309–1310 CE):** Kakatiya kingdom in Telangana subjugated by Malik Kafur.
+- **Chronological Sequence:** 2 → 1 → 4 → 3 = **2-1-4-3**.
+
+**Key Exam Takeaway / Trap:**
+- *Jaisalmer Position:* Jaisalmer (1299 CE) precedes Ranthambore (1301 CE).
 
 </details>
 
-
 **Q4. UPPCS Prelims 2022, Q95**
 
-Jayata and Kumpa, who impressed Sher Shah, were associated with?
+From which place were Jayata and Kumpa associated, who impressed Sher Shah with their valour?
 
 A. Bundelkhand
 B. Malwa
@@ -323,16 +377,20 @@ D. Mewar
 
 <details><summary>Show answer</summary>
 
-**Ans: C (Marwar)Why:** Rathore captains of **Rao Maldeo** at **Sammel (1544)** against Sher Shah.
+**Correct Answer:** **C** (Marwar)
 
-**Trap:** Mewar** (Sisodia) is not the same as **Marwar** (Rathore).
+**Detailed Explanation:**
+- **Option C is correct:** **Jayata** and **Kumpa** were Rathore military commanders of **Marwar** (Jodhpur) under Rao Maldeo Rathore. In the **Battle of Sammel (Giri-Sumel, 1544 CE)**, they launched an audacious assault with 12,000 Rathores against Sher Shah's 80,000 troops, inflicting tremendous casualties before dying in battle, prompting Sher Shah's famous words: *"I had nearly lost the empire of Hindustan for a handful of millet (bajra)!"*
+- **Options A, B, and D are incorrect:** Jayata and Kumpa were Rathores of Marwar, having no connection with Mewar (Sisodia), Malwa, or Bundelkhand.
+
+**Key Exam Takeaway / Trap:**
+- *Clan Association:* Jayata and Kumpa = **Rathores of Marwar**.
 
 </details>
 
-
 **Q5. UPPCS Prelims 2019, Q89**
 
-Who patronised Tansen before Akbar?
+Who among the following kings had given patronage to Tansen before Akbar?
 
 A. Raja Ramchandra Singh of Bhata
 B. Rajbahadur of Malwa
@@ -341,9 +399,14 @@ D. Muzaffar Shah of Gujarat
 
 <details><summary>Show answer</summary>
 
-**Ans: A (Raja Ramchandra Singh of Bhata)Why:** Tansen served **Raja Ramchandra** before entering **Akbar's** court.
+**Correct Answer:** **A** (Raja Ramchandra Singh of Bhata / Rewa)
 
-**Trap:** Udai Singh of Mewar** is the classic wrong pair — Tansen was not Mewar's court musician.
+**Detailed Explanation:**
+- **Option A is correct:** Prior to joining Akbar's court in 1562 CE, Miyan Tansen was the revered court musician of **Raja Ramchandra Singh Baghela** of Bhata (Rewa, MP). Akbar sent Jalal Khan Qurchi to bring Tansen to Agra, where he was made a Navratna.
+- **Option C distractor:** Rana Udai Singh II of Mewar (father of Maharana Pratap) was a contemporary ruler, but he never patronized Tansen.
+
+**Key Exam Takeaway / Trap:**
+- *Tansen Patron:* Pre-Akbar royal patron = **Raja Ramchandra Singh of Bhata (Rewa)**.
 
 </details>
 
@@ -351,35 +414,39 @@ D. Muzaffar Shah of Gujarat
 
 ## Practice Zone — UPPCS Format Drill
 
-> **30 questions** | Original drill (not a PYQ dump) | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D | **Ans first, then Logic**
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D | **Ans first, then Detailed Explanation**
 
 **Q1.** With reference to Rajput clan–state pairs, which of the following statements is/are correct?
 
-1. Sisodia ruled Mewar (Chittor → Udaipur).
-2. Rathore ruled Marwar (Jodhpur).
-3. Kachhwaha ruled Amber/Jaipur.
+1. Sisodia clan ruled Mewar (Chittor–Udaipur).
+2. Rathore clan ruled Marwar (Jodhpur) and Bikaner.
+3. Kachhwaha clan ruled Amber (Jaipur).
 
-Select the correct answer from the code given below:
-
-A. Only 1, 2 and 3
+A. 1 and 2
 B. 2 and 3
-C. Only 1
-D. 1 and 2
+C. 1 and 3
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** All three statements are correct.
+**Correct Answer:** **D** (All 1, 2 and 3 are correct)
 
-**Logic:** Also remember Bhati–Jaisalmer and Hada–Bundi–Kota as other house tags.
+**Detailed Explanation:**
+- **Statement 1 is correct:** The **Sisodia** (a branch of the Guhila dynasty) ruled **Mewar**, holding capitals at Chittorgarh, Kumbhalgarh, and later Udaipur (founded by Rana Udai Singh II in 1559 CE). Notable rulers include Rana Kumbha, Rana Sanga, Maharana Pratap, and Rana Amar Singh.
+- **Statement 2 is correct:** The **Rathore** clan ruled **Marwar** (capital at Mandore, later Jodhpur founded by Rao Jodha in 1459 CE). In 1488 CE, Rao Jodha's son Rao Bika established the branch kingdom of **Bikaner**.
+- **Statement 3 is correct:** The **Kachhwaha** clan ruled the state of **Dhundhar/Amber** (later Jaipur, founded by Sawai Jai Singh II in 1727 CE). Under Raja Bharmal and Raja Man Singh, they were the earliest major Rajput house to form matrimonial and administrative alliances with Akbar.
+
+**Key Exam Takeaway / Trap:**
+- *Core Clan Matrix:* **Mewar** = Sisodia; **Marwar & Bikaner** = Rathore; **Amber/Jaipur** = Kachhwaha; **Jaisalmer** = Bhati; **Bundi & Kota** = Hada (Chauhan).
 
 </details>
 
 **Q2.** Which of the following pairs is/are NOT correctly matched?
 
-1. Khanwa (1527) — Babur vs Rana Sanga
-2. Haldighati (1576) — Man Singh vs Maharana Pratap
-3. Khanwa (1527) — Babur vs Maharana Pratap
+1. Rana Sanga — Battle of Khanwa (1527)
+2. Maharana Pratap — Battle of Haldighati (1576)
+3. Maharana Pratap — Battle of Khanwa (1527)
 
 Select the correct answer from the code given below:
 
@@ -391,9 +458,15 @@ D. 2 and 3 only
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only pair 3 is not correctly matched.
+**Correct Answer:** **B** (3 only is NOT correctly matched)
 
-**Logic:** Never pair Pratap with Khanwa — that is Sanga’s battle.
+**Detailed Explanation:**
+- **Pair 1 is correctly matched:** Maharana Sangram Singh (**Rana Sanga**) led the Rajput-Afghan confederacy against Babur in the **Battle of Khanwa** on 16 March 1527 CE.
+- **Pair 2 is correctly matched:** **Maharana Pratap** fought the Mughal imperial forces commanded by Raja Man Singh of Amber and Asaf Khan at the **Battle of Haldighati** on 18 June 1576 CE.
+- **Pair 3 is NOT correctly matched (Correct Answer):** Maharana Pratap had nothing to do with Khanwa; he was born in 1540 CE, thirteen years *after* the Battle of Khanwa was fought.
+
+**Key Exam Takeaway / Trap:**
+- *Generational Anchor:* Rana Sanga (grandfather, fought Babur in 1527) → Rana Udai Singh II (father, fought Akbar at Chittor in 1567–68) → Maharana Pratap (son, fought Akbar at Haldighati in 1576).
 
 </details>
 
@@ -413,9 +486,14 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** A is true and R is false.
+**Correct Answer:** **C** ((A) is true, but (R) is false)
 
-**A/R logic:** Man Singh led the imperial side; Akbar was not present in the pass.
+**Detailed Explanation:**
+- **Assertion (A) is correct:** In the Battle of Haldighati (18 June 1576 CE), Maharana Pratap faced the Mughal imperial army led on the field by **Kunwar Man Singh of Amber** (Kachhwaha) and Sayyid Hashim Barha, with Asaf Khan serving as joint commander.
+- **Reason (R) is incorrect:** Emperor Akbar was **not** present in the Haldighati pass during the battle. Akbar remained stationed at his base camp in Ajmer, directing imperial logistics and strategy, entrusting the direct tactical field command of the Mughal forces to Man Singh.
+
+**Key Exam Takeaway / Trap:**
+- *Akbar's Absence:* Akbar did not fight in person at Haldighati; the imperial vanguard and center were commanded by **Raja Man Singh of Amber**.
 
 </details>
 
@@ -436,9 +514,17 @@ D. 2-3-4-1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Alauddin 1303 → Khanwa 1527 → Akbar’s Chittor 1567–68 → Haldighati 1576.
+**Correct Answer:** **B** (2-3-1-4: Alauddin's Chittor → Khanwa → Akbar's Chittor → Haldighati)
 
-**Logic:** Two Chittor sack tags (1303 / 1568) bracket the Mughal–Rajput battles.
+**Detailed Explanation:**
+- **2. Alauddin Khalji’s sack of Chittor (1303 CE):** First major imperial siege of Chittor; Rana Ratan Singh fell and Rani Padmini committed *Jauhar*.
+- **3. Battle of Khanwa (1527 CE):** Babur defeated Rana Sanga near Fatehpur Sikri.
+- **1. Akbar’s siege and capture of Chittor (1567–1568 CE):** Rana Udai Singh II retreated to the hills; commanders Jaimal and Patta resisted bravely; ended in massive Jauhar and imperial storming in February 1568 CE.
+- **4. Battle of Haldighati (1576 CE):** Maharana Pratap clashed with Raja Man Singh in the Aravallis.
+- **Chronological Sequence:** 2 (1303) → 3 (1527) → 1 (1568) → 4 (1576) = **2-3-1-4**.
+
+**Key Exam Takeaway / Trap:**
+- *Chittor Sieges:* Chittor I = **1303 CE** (Alauddin Khalji); Chittor II = **1535 CE** (Bahadur Shah of Gujarat, Rani Karnavati's Jauhar); Chittor III = **1567–68 CE** (Akbar).
 
 </details>
 
@@ -461,9 +547,16 @@ D. A-1, B-3, C-2, D-4
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Hammir–restorer; Kumbha–Vijay Stambha; Jodha–Jodhpur; Man Singh–Amber/Haldighati.
+**Correct Answer:** **A** (A-2, B-3, C-1, D-4)
 
-**Logic:** Do not confuse Rana Hammir (Mewar) with Hamir Deva of Ranthambore.
+**Detailed Explanation:**
+- **A. Rana Hammir → 2. Mewar restorer (~1326 CE):** Established the Sisodia line, recovering Chittor from Maldeo Songara.
+- **B. Rana Kumbha → 3. Vijay Stambha at Chittor:** Constructed the 9-storey *Vijay Stambha* (Tower of Victory) to celebrate his victory over Mahmud Khalji of Malwa in 1448 CE.
+- **C. Rao Jodha → 1. Founded Jodhpur (1459 CE):** Built the mighty Mehrangarh Fort and founded Jodhpur as the new Rathore capital.
+- **D. Raja Man Singh → 4. Amber; ~7000 zat:** Foremost Kachhwaha general of Akbar, governor of Bengal and Bihar, holding the supreme mansab of 7000 zat.
+
+**Key Exam Takeaway / Trap:**
+- *Matching Code:* A-2, B-3, C-1, D-4 (**Option A**).
 
 </details>
 
@@ -483,9 +576,15 @@ D. All 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Correct Answer:** **D** (All 1, 2 and 3 are correct)
 
-**Logic:** Haldighati ≠ decisive imperial knockout; guerrilla phase follows.
+**Detailed Explanation:**
+- **Statement 1 is correct (Cause):** Following Akbar's failure to persuade Maharana Pratap through four diplomatic peace missions (Jalal Khan Qurchi, Man Singh, Bhagwant Das, Todar Mal), military confrontation became inevitable.
+- **Statement 2 is correct (Course):** On 18 June 1576, the armies clashed at Haldighati pass. Despite heavy casualties and the wounding of Pratap's loyal horse Chetak, the imperial forces failed to capture or kill Pratap.
+- **Statement 3 is correct (Result):** Pratap retreated into the rugged Aravalli hills, established new guerrilla centers at Chavand and Kumbhalgarh, liberated nearly all of Mewar (except Chittor and Mandalgarh) by 1585 CE, and died peacefully at Chavand in January 1597 CE.
+
+**Key Exam Takeaway / Trap:**
+- *Haldighati Significance:* Haldighati was a fierce tactical clash that failed to achieve Akbar's strategic objective (the capture or submission of Maharana Pratap).
 
 </details>
 
@@ -496,16 +595,22 @@ D. All 1, 2 and 3
 3. Rana Chunda and Rao Chunda refer to the same Marwar founder only.
 
 A. Only 1
-B. Only 1 and 2
+B. 1 and 2 only
 C. 1, 2 and 3
 D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** 1 and 2 only are correct.
+**Correct Answer:** **B** (1 and 2 only are correct)
 
-**Logic:** Rana Chunda is Mewar; Rao Chunda is Marwar — a classic trap.
+**Detailed Explanation:**
+- **Statement 1 is correct:** The rulers of **Mewar** used the distinctive titles **Rana** or **Maharana** (beginning with Rana Hammir, signifying their Guhila/Sisodia lineage).
+- **Statement 2 is correct:** The Rathore rulers of **Marwar** (Jodhpur) and **Bikaner** used the title **Rao** (e.g., Rao Chunda, Rao Jodha, Rao Maldeo, Rao Bika).
+- **Statement 3 is incorrect:** **Rana Chunda** (Rawat Chunda) was the Sisodia prince of **Mewar** (son of Rana Lakha), whereas **Rao Chunda** was the 14th-century Rathore ruler of **Marwar**. They were two different people from two different clans and regions.
+
+**Key Exam Takeaway / Trap:**
+- *Title Rules:* **Rana / Maharana** = Mewar; **Rao / Raja / Maharaja** = Marwar, Bikaner; **Rawal / Maharawal** = Jaisalmer (Bhati); **Mirza Raja / Sawai** = Amber (Kachhwaha).
 
 </details>
 
@@ -525,9 +630,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both A and R are true and R correctly explains the character of A.
+**Correct Answer:** **D** (Both (A) and (R) are true and (R) is the correct explanation of (A))
 
-**A/R logic:** 1615 peace is the honour-preserving settlement after Pratap’s long resistance.
+**Detailed Explanation:**
+- **Assertion (A) is correct:** In **1615 CE**, after sustained campaigns conducted by Prince Khurram (Shah Jahan), Maharana **Amar Singh I** (son of Maharana Pratap) concluded an honorable peace treaty with Emperor **Jahangir**.
+- **Reason (R) is correct:** Under the terms negotiated by Prince Khurram, exceptional concessions were granted to Mewar: the Maharana was exempted from personal attendance at the Mughal imperial court (his son, Prince Karan Singh, attended instead as a 5000 mansabdar), no matrimonial alliance was demanded, and Chittor fort was restored to Mewar on the condition that its fortifications would not be repaired.
+- **Why (R) explains (A):** The extraordinarily respectful and unprecedented concessions preserving Mewar's dynastic dignity were the direct reason why Maharana Amar Singh agreed to conclude the peace treaty after over four decades of conflict.
+
+**Key Exam Takeaway / Trap:**
+- *1615 Treaty Terms:* Negotiator: **Prince Khurram**; Emperor: **Jahangir**; Maharana: **Amar Singh I**; Key Term: Maharana exempted from personal court attendance; no royal marriage alliance.
 
 </details>
 
@@ -547,9 +658,15 @@ D. 2 and 3 only
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only pair 3 is not correctly matched.
+**Correct Answer:** **B** (3 only is NOT correctly matched)
 
-**Logic:** Both towers stand at Chittor; Vijay Stambha is Kumbha’s, not Alauddin’s.
+**Detailed Explanation:**
+- **Pair 1 is correctly matched:** **Vijay Stambha** ("Tower of Victory") is a 9-storey, 37-meter-high stone tower built by **Rana Kumbha** in 1448 CE at Chittor to commemorate his victory over the combined armies of Malwa (Mahmud Khalji) and Gujarat.
+- **Pair 2 is correctly matched:** **Kirti Stambha** ("Tower of Fame") is a 7-storey, 22-meter-high 12th-century tower at Chittor dedicated to the first Jain Tirthankara Adinatha (Rishabhanatha), built by a Digambara Jain merchant named Jeeja Bhagerwala.
+- **Pair 3 is NOT correctly matched (Correct Answer):** Vijay Stambha was built by Rana Kumbha, **never** by Alauddin Khalji. Alauddin despoiled Chittor in 1303 CE; he built the Alai Darwaza and Alai Minar in Delhi, not Vijay Stambha.
+
+**Key Exam Takeaway / Trap:**
+- *Two Chittor Towers:* **Vijay Stambha** = 9 storeys, Rana Kumbha (1448 CE, Hindu iconography); **Kirti Stambha** = 7 storeys, Jain merchant Jeeja (12th century, Jain iconography).
 
 </details>
 
@@ -569,9 +686,15 @@ D. 1 and 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** All three statements are correct.
+**Correct Answer:** **A** (All 1, 2 and 3 are correct)
 
-**Logic:** Chittor vs Udaipur is fort prestige vs new capital.
+**Detailed Explanation:**
+- **Statement 1 is correct:** Alauddin Khalji besieged and captured Chittor in **1303 CE** from Rana Ratan Singh, appointing his son Khizr Khan as governor.
+- **Statement 2 is correct:** Akbar besieged Chittor from October 1567 to February 1568 CE. When Rana Udai Singh retreated to the Girwa hills, commanders **Jaimal Rathore** of Merta and **Patta Sisodia** of Kelwa defended the fort heroically until Jaimal was shot by Akbar's musket *Sangram*. The Rajput women performed *Jauhar*, and Akbar entered the fort on 23 February 1568.
+- **Statement 3 is correct:** Rana Udai Singh II founded **Udaipur** in the Aravalli valley around Lake Pichola in **1559 CE**, which became the administrative capital of Mewar while Chittorgarh remained the ancient ceremonial citadel.
+
+**Key Exam Takeaway / Trap:**
+- *Jaimal and Patta Statues:* Akbar was so impressed by the bravery of Jaimal and Patta that he erected life-size stone statues of both heroes mounted on elephants at the Delhi Gate of Agra Fort.
 
 </details>
 
@@ -592,9 +715,17 @@ D. 2-4-3-1
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Gujarat 1299 → Ranthambore 1301 → Chittor 1303 → Warangal ~1310.
+**Correct Answer:** **A** (2-4-1-3: Gujarat → Ranthambore → Chittor → Warangal)
 
-**Logic:** Keep the Khalji western-then-Deccan ladder intact.
+**Detailed Explanation:**
+- **2. Gujarat (1299 CE):** Annexation of northern Gujarat.
+- **4. Ranthambore (1301 CE):** Defeat of Hammir Deva.
+- **1. Chittor (1303 CE):** Defeat of Rana Ratan Singh.
+- **3. Warangal (1309–1310 CE):** Subjugation of Prataparudra Deva.
+- **Chronological Sequence:** 2 → 4 → 1 → 3 = **2-4-1-3**.
+
+**Key Exam Takeaway / Trap:**
+- *Conquest Chain:* Gujarat (1299) → Ranthambore (1301) → Chittor (1303) → Malwa (1305) → Devagiri (1307) → Warangal (1310).
 
 </details>
 
@@ -604,6 +735,8 @@ D. 2-4-3-1
 2. Saka is the warriors’ last charge.
 3. Both terms mean the same Mughal revenue demand.
 
+Which of the statements given above is/are correct?
+
 A. 2 and 3
 B. Only 1
 C. Only 1 and 2
@@ -612,9 +745,15 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** 1 and 2 only are correct.
+**Correct Answer:** **C** (1 and 2 only are correct)
 
-**Logic:** Jauhar/saka are fort-fall rites, not revenue terms.
+**Detailed Explanation:**
+- **Statement 1 is correct:** **Jauhar** was the ancient Rajput custom of voluntary mass self-immolation in fire performed by royal women and children to protect their honor and avoid capture and enslavement when a besieged fortress was on the verge of falling.
+- **Statement 2 is correct:** **Saka** (or *Saka ritual*) was the simultaneous final ritual performed by Rajput male warriors: donning saffron robes (*Kesariya*), opening the fortress gates, and charging into the enemy ranks fighting to the death.
+- **Statement 3 is incorrect:** Neither term has any connection with revenue administration; they were desperate socio-religious warfare customs.
+
+**Key Exam Takeaway / Trap:**
+- *Jauhar + Saka:* When both *Jauhar* (by women) and *Saka* (by men) were completed, the engagement was known as a **Complete Saka** (Chittor witnessed three historic Sakas: 1303, 1535, 1568).
 
 </details>
 
@@ -622,9 +761,9 @@ D. 1, 2 and 3
 
 Assertion (A): He is identical with Hamir Deva of Ranthambore who died in 1301.
 
-Select the correct answer from the code given below:
-
 Reason (R): Rana Hammir of Mewar restored Sisodia power after the Khalji sack (~1326).
+
+Select the correct answer from the code given below:
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -634,9 +773,14 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** A false, R true.
+**Correct Answer:** **B** ((A) is false, but (R) is true)
 
-**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Mewar Hammir ≠ Ranthambore’s Hamir Deva — different persons and dates.
+**Detailed Explanation:**
+- **Assertion (A) is completely false:** **Hamir Deva** of Ranthambore (Chauhan dynasty, died 1301 CE defending Ranthambore against Alauddin Khalji) and **Rana Hammir** of Mewar (Sisodia dynasty, ruled c. 1326–1364 CE) were two completely different kings from different dynasties, regions, and decades.
+- **Reason (R) is completely true:** **Rana Hammir** (of the Sisodia estate) liberated Chittorgarh from the Sultanate proxies around 1326 CE, assumed the title *Maharana*, and restored the sovereign glory of Mewar.
+
+**Key Exam Takeaway / Trap:**
+- *The Two Hammirs:* **Hamir Deva Chauhan** = Ranthambore (died 1301 CE); **Rana Hammir Sisodia** = Mewar (restored Chittor in 1326 CE).
 
 </details>
 
@@ -655,9 +799,14 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Both statements are correct.
+**Correct Answer:** **C** (Both 1 and 2 are correct)
 
-**Logic:** Allies tag: Bhils + Hakim Khan Sur.
+**Detailed Explanation:**
+- **Statement 1 is correct:** The indigenous **Bhil** tribal warriors of the Mewar-Vagad hill tracts, led by **Rana Punja Bhil**, were ardent and loyal allies of Maharana Pratap, deploying devastating archers from hill perches during the battle.
+- **Statement 2 is correct:** **Hakim Khan Sur**, an Afghan military commander and descendant of Sher Shah Suri, commanded the vanguard (*Haraval*) of Maharana Pratap's army at Haldighati, fighting valiantly against the Mughal army and laying down his life for Mewar.
+
+**Key Exam Takeaway / Trap:**
+- *Composite Alliance:* At Haldighati, Maharana Pratap's vanguard was led by a Muslim Afghan (**Hakim Khan Sur**) against an imperial Mughal army commanded by a Hindu Rajput (**Raja Man Singh of Amber**), demonstrating that the conflict was fundamentally political and dynastic rather than communal.
 
 </details>
 
@@ -680,40 +829,53 @@ D. A-3, B-1, C-2, D-4
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Bhati–Jaisalmer; Hada–Bundi–Kota; Rathore branch–Bikaner; Sisodia–Mewar.
+**Correct Answer:** **A** (A-2, B-1, C-3, D-4)
 
-**Logic:** Keep Marwar (Jodhpur) Rathore distinct from Bikaner branch.
+**Detailed Explanation:**
+- **A. Bhati → 2. Jaisalmer:** The Yaduvanshi Bhati Rajputs founded and ruled the desert kingdom of Jaisalmer.
+- **B. Hada → 1. Bundi–Kota:** The Hada Chauhans ruled the southeastern Hadoti region (Bundi and Kota).
+- **C. Rathore branch → 3. Bikaner:** Established in 1488 CE by Rao Bika (son of Rao Jodha of Marwar).
+- **D. Sisodia → 4. Mewar:** The Suryavanshi Sisodias ruled Chittorgarh and Udaipur.
+
+**Key Exam Takeaway / Trap:**
+- *Matching Code:* A-2, B-1, C-3, D-4 (**Option A**).
 
 </details>
 
 **Q16.** Consider Cause–Course–Result for Khanwa (1527):
 
-1. Cause: Sanga built a post-Panipat Rajput confederacy.
-2. Course: Babur used Araba and Tulughma methods.
-3. Result: The Rajput challenge to early Mughal power broke.
+1. Cause: Contest for north Indian hegemony between Babur and Rana Sanga’s confederacy.
+2. Course: Babur deployed artillery and Tulghuma; Sanga was wounded.
+3. Result: Mughal ascendancy was secured in the Delhi–Agra plains.
 
 Which of the statements given above is/are correct?
 
 A. Only 1 and 2
-B. Only 1, 2 and 3
+B. All 1, 2 and 3
 C. Only 2 and 3
 D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** All three statements are correct.
+**Correct Answer:** **B** (All 1, 2 and 3 are correct)
 
-**Logic:** Khanwa geography sits near the Agra–Fatehpur Sikri belt — not Haldighati’s Aravalli pass.
+**Detailed Explanation:**
+- **Statement 1 is correct (Cause):** Following the fall of Ibrahim Lodi, Rana Sanga organized a pan-Indian Rajput-Afghan alliance to expel Babur from the subcontinent.
+- **Statement 2 is correct (Course):** On 16 March 1527, Babur deployed his Ottoman cart-barrier (*Araba*) and flanking cavalry (*Tulghuma*); Sanga was struck by an arrow and removed unconscious from the field.
+- **Statement 3 is correct (Result):** Babur assumed the title *Ghazi*, shattered the Rajput confederacy, and firmly anchored the Mughal dynasty in the Gangetic plains.
+
+**Key Exam Takeaway / Trap:**
+- *Khanwa Outcome:* Consolidated Babur's nascent empire in northern India far more decisively than Panipat.
 
 </details>
 
 **Q17.** With reference to Jayata and Kumpa, which of the following statements is/are correct?
 
 1. They were Mewar Sisodia captains under Pratap at Haldighati.
+2. They fought for Marwar against Sher Shah at Sammel (1544).
 
 Select the correct answer from the code given below:
-2. They fought for Marwar against Sher Shah at Sammel (1544).
 
 A. Only 1
 B. Only 2
@@ -723,25 +885,36 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 2 is correct.
+**Correct Answer:** **B** (Only 2 is correct)
 
-**Logic:** Marwar Rathore captains — not Mewar.
+**Detailed Explanation:**
+- **Statement 1 is incorrect:** Jayata and Kumpa were Rathore commanders of **Marwar** (Jodhpur) who died in 1544 CE, 32 years *before* the Battle of Haldighati (1576 CE). They were not Sisodias of Mewar.
+- **Statement 2 is correct:** Jayata and Kumpa commanded the Rathore vanguard against Sher Shah Suri at the **Battle of Sammel (Giri-Sumel, 1544 CE)**.
+
+**Key Exam Takeaway / Trap:**
+- *Clan Inversion:* Jayata and Kumpa = **Rathore commanders of Marwar**, NOT Mewar.
 
 </details>
 
 **Q18.** Which one of the following correctly states Malik Sarwar’s foundation?
 
 A. Founded Malwa Sultanate
-B. Founded Jaunpur
+B. Founded Jaunpur Sharqi Sultanate
 C. Founded Amber Kachhwaha house
 D. Founded Bikaner
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Malik Sarwar founded Jaunpur.
+**Correct Answer:** **B** (Founded Jaunpur Sharqi Sultanate)
 
-**Logic:** Common distractor beside ruler–state match lists — not Malwa.
+**Detailed Explanation:**
+- **Option B is correct:** **Malik Sarwar** (a prominent noble titled *Khwaja Jahan* and *Malik-us-Sharq* / "Ruler of the East" by Sultan Nasiruddin Mahmud Tughlaq in 1394 CE) established the independent **Sharqi Sultanate of Jaunpur** (in eastern UP), which became celebrated as the *Shiraz-i-Hind*.
+- **Option A is incorrect:** The Malwa Sultanate was founded by Dilawar Khan Ghuri in 1401 CE.
+- **Options C and D are incorrect:** Amber was an ancient Rajput state; Bikaner was founded by Rao Bika.
+
+**Key Exam Takeaway / Trap:**
+- *Jaunpur Founder:* **Malik Sarwar** (*Malik-us-Sharq*) founded Jaunpur (1394 CE).
 
 </details>
 
@@ -761,9 +934,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Both A and R are true, but R is an illustration, not the full explanation of A.
+**Correct Answer:** **A** (Both (A) and (R) are true, but (R) is NOT the correct explanation of (A))
 
-**A/R logic:** Man Singh exemplifies Amber collaboration; A is the broader post-Akbar pattern.
+**Detailed Explanation:**
+- **Assertion (A) is correct:** Akbar's diplomatic framework integrated nearly all major Rajput ruling lineages (Amber, Marwar, Bikaner, Jaisalmer, Bundi) into the Mughal administrative fold as high *Mansabdars* holding *Watan Jagirs*.
+- **Reason (R) is correct:** Raja Man Singh of Amber held the premier rank of 7000 Zat and 7000 Sawar (the highest rank granted to any non-princely noble) and served as the commander of the Mughal forces at Haldighati.
+- **Why (R) does NOT explain (A):** Man Singh's individual rank and military assignment is an illustrious example or illustration of Rajput integration; it does not explain the broader institutional and geopolitical causes of why Rajput states accepted Mughal service.
+
+**Key Exam Takeaway / Trap:**
+- *Illustration vs Cause:* A specific noble's rank illustrates an imperial policy, but does not provide its complete historical explanation.
 
 </details>
 
@@ -782,9 +961,14 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Both statements are correct.
+**Correct Answer:** **C** (Both 1 and 2 are correct)
 
-**Logic:** Geography helps separate the two battles when stems swap names.
+**Detailed Explanation:**
+- **Statement 1 is correct:** **Khanwa** (in Bharatpur district, Rajasthan) is located about 37 km west of Agra and approx. 16 km from Fatehpur Sikri, situated in the open plains.
+- **Statement 2 is correct:** **Haldighati** is a narrow mountain pass in the Aravalli range in Rajsamand/Udaipur district, connecting Gogunda and Khamnore, named after its turmeric-colored (*Haldi*) yellow soil.
+
+**Key Exam Takeaway / Trap:**
+- *Terrain Contrast:* **Khanwa** = Open plain suitable for artillery and carts; **Haldighati** = Rugged defile suitable for mountain guerrilla warfare.
 
 </details>
 
@@ -806,18 +990,24 @@ D. 1 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** All three statements are correct.
+**Correct Answer:** **A** (All 1, 2 and 3 are correctly matched)
 
-**Logic:** Do not treat Udai Singh of Mewar as Tansen’s pre-Akbar patron.
+**Detailed Explanation:**
+- **Pair 1 is correctly matched:** Rana Sanga led the Rajput army at Khanwa (1527 CE).
+- **Pair 2 is correctly matched:** Maharana Pratap fought at Haldighati (1576 CE) and passed away at Chavand in 1597 CE.
+- **Pair 3 is correctly matched:** Rana Udai Singh II founded Udaipur in 1559 CE as the new capital after Chittor became strategically vulnerable.
+
+**Key Exam Takeaway / Trap:**
+- *Mewar Lineage:* Rana Sanga → Udai Singh II → Maharana Pratap → Amar Singh I.
 
 </details>
 
 **Q22.** Arrange the following in chronological order:
 
-1. Haldighati
-2. Amar Singh–Jahangir peace
-3. Akbar’s Chittor
-4. Death of Pratap
+1. Battle of Haldighati
+2. Amar Singh–Jahangir peace treaty
+3. Akbar’s capture of Chittor
+4. Death of Maharana Pratap
 
 Select the correct answer from the code given below:
 
@@ -829,9 +1019,17 @@ D. 3-4-1-2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Akbar’s Chittor 1567–68 → Haldighati 1576 → Pratap dies 1597 → peace 1615.
+**Correct Answer:** **A** (3-1-4-2: Akbar's Chittor → Haldighati → Pratap's death → Amar Singh peace)
 
-**Logic:** Peace under Amar Singh comes after Pratap’s death.
+**Detailed Explanation:**
+- **3. Akbar’s capture of Chittorgarh (February 1568 CE).**
+- **1. Battle of Haldighati (June 1576 CE).**
+- **4. Death of Maharana Pratap (January 1597 CE).**
+- **2. Treaty of Peace between Amar Singh and Jahangir (1615 CE).**
+- **Chronological Sequence:** 3 → 1 → 4 → 2 = **3-1-4-2**.
+
+**Key Exam Takeaway / Trap:**
+- *1615 Treaty Position:* The Mughal-Mewar treaty was signed by **Amar Singh I** in **1615 CE**, nearly two decades after Maharana Pratap's death.
 
 </details>
 
@@ -851,9 +1049,15 @@ D. 2 and 3 only
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only pair 3 is not correctly matched.
+**Correct Answer:** **B** (3 only is NOT correctly matched)
 
-**Logic:** Amber is Kachhwaha; Jaisalmer is Bhati.
+**Detailed Explanation:**
+- **Pair 1 is correctly matched:** Mewar was ruled by the Sisodias.
+- **Pair 2 is correctly matched:** Marwar was ruled by the Rathores.
+- **Pair 3 is NOT correctly matched (Correct Answer):** Amber was ruled by the **Kachhwahas**, not Rathores. Jaisalmer was ruled by the **Bhatis**.
+
+**Key Exam Takeaway / Trap:**
+- *Clan Alignment:* Amber = **Kachhwaha**; Jaisalmer = **Bhati**.
 
 </details>
 
@@ -873,9 +1077,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both A and R are true and R correctly explains why the battle is not treated as a final knockout.
+**Correct Answer:** **D** (Both (A) and (R) are true and (R) is the correct explanation of (A))
 
-**A/R logic:** Indecisive field result + continued resistance is the Haldighati teaching.
+**Detailed Explanation:**
+- **Assertion (A) is correct:** Although the Mughal forces held the field at the close of the day, Haldighati failed to achieve a decisive conclusion because the imperial army could not capture Pratap, destroy the Mewar army, or annex the territory.
+- **Reason (R) is correct:** Maharana Pratap safely withdrew into the rugged hills, reorganized his army, and waged unrelenting guerrilla warfare from mountain bases (Gogunda, Kumbhalgarh, Chavand), eventually recapturing most of Mewar.
+- **Why (R) explains (A):** Pratap's successful escape and immediate resumption of effective armed resistance demonstrates why the battle failed to be a decisive victory for the Mughal empire.
+
+**Key Exam Takeaway / Trap:**
+- *Strategic Reality:* Akbar gained control of the battlefield for a day, but failed completely in his strategic political goal.
 
 </details>
 
@@ -894,9 +1104,14 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Both statements are correct.
+**Correct Answer:** **C** (Both 1 and 2 are correct)
 
-**Logic:** Cross-chapter tag with Sur history — keep Marwar identity.
+**Detailed Explanation:**
+- **Statement 1 is correct:** In the Battle of Sammel (Giri-Sumel, January 1544 CE), Sher Shah Suri invaded Marwar against **Rao Maldeo Rathore**.
+- **Statement 2 is correct:** Rathore commanders **Jayata** and **Kumpa** refused to retreat, charged Sher Shah's center, and sacrificed their lives in battle.
+
+**Key Exam Takeaway / Trap:**
+- *Sammel Opponents:* Sher Shah vs Rao Maldeo Rathore of Marwar (1544 CE).
 
 </details>
 
@@ -916,9 +1131,15 @@ D. All 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Correct Answer:** **D** (All 1, 2 and 3 are correct)
 
-**Logic:** Man Singh at Haldighati is the Amber collaboration emblem.
+**Detailed Explanation:**
+- **Statement 1 is correct:** Rao Jodha established **Jodhpur** in **1459 CE** and founded the Mehrangarh citadel on Chidiyatunk hill.
+- **Statement 2 is correct:** **Bikaner** was established in **1488 CE** by Rao Bika, a Rathore prince of Jodhpur.
+- **Statement 3 is correct:** The Kachhwaha dynasty of Amber entered into alliance with Akbar in 1562 CE (Raja Bharmal), providing frontline generals like Raja Man Singh, whereas Mewar under Udai Singh and Pratap maintained fierce resistance.
+
+**Key Exam Takeaway / Trap:**
+- *Collaboration Spectrum:* Amber = Foremost Mughal collaborator; Mewar = Staunchest Mughal opponent.
 
 </details>
 
@@ -932,9 +1153,14 @@ D. Both names always mean the same Chauhan king
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Mewar restorer vs Ranthambore Chauhan are distinct.
+**Correct Answer:** **C** (Rana Hammir restored Mewar; Hamir Deva of Ranthambore died 1301)
 
-**Logic:** Year tags (~1326 vs 1301) separate the pair.
+**Detailed Explanation:**
+- **Option C is correct:** **Hamir Deva** was the illustrious Chauhan ruler of Ranthambore who died fighting Alauddin Khalji in **1301 CE**. **Rana Hammir** was the Sisodia king of Mewar who expelled the Sultanate forces and restored Mewar around **1326 CE**.
+- **Options A, B, and D are incorrect:** They conflate two distinct historical monarchs from different dynasties.
+
+**Key Exam Takeaway / Trap:**
+- *The Two Hammirs:* **Hamir Deva** = Ranthambore Chauhan (1301); **Rana Hammir** = Mewar Sisodia (1326).
 
 </details>
 
@@ -956,9 +1182,15 @@ D. Only 1 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** 1 and 2 only are correct.
+**Correct Answer:** **B** (1 and 2 only are correctly matched)
 
-**Logic:** Pair 3 wrongly transplants Haldighati to Panipat geography.
+**Detailed Explanation:**
+- **Pair 1 is correctly matched:** Khanwa is located in Bharatpur district, near the Agra-Fatehpur Sikri plain.
+- **Pair 2 is correctly matched:** Haldighati is a rugged mountain pass in the Aravallis near Gogunda.
+- **Pair 3 is incorrectly matched:** Haldighati is in the Rajasthan hills, not the Indo-Gangetic Doab plain.
+
+**Key Exam Takeaway / Trap:**
+- *Terrain Diagnostics:* Khanwa = Plain; Haldighati = Mountain defile.
 
 </details>
 
@@ -977,9 +1209,14 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only statement 1 is correct.
+**Correct Answer:** **A** (Only 1 is correct)
 
-**Logic:** Pratap continued guerrilla war until 1597; 1615 peace is Amar Singh’s.
+**Detailed Explanation:**
+- **Statement 1 is correct:** **Kumbhalgarh**, **Gogunda**, and **Chavand** were the primary fortified mountain strongholds from which Maharana Pratap conducted his defensive campaigns.
+- **Statement 2 is incorrect:** Pratap never abandoned resistance; he fought vigorously until his death in 1597 CE. The 1615 treaty was concluded by his son, **Rana Amar Singh I**.
+
+**Key Exam Takeaway / Trap:**
+- *Chavand Capital:* In his later years, Maharana Pratap made **Chavand** his capital, where he developed the Chavand school of Mewar painting.
 
 </details>
 
@@ -987,9 +1224,9 @@ D. Neither 1 nor 2
 
 Assertion (A): Therefore Khanwa and Haldighati are the same battle under two names.
 
-Select the correct answer from the code given below:
-
 Reason (R): Sanga fought Babur; Pratap fought Akbar’s forces.
+
+Select the correct answer from the code given below:
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -999,13 +1236,16 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** A false, R true.
+**Correct Answer:** **B** ((A) is false, but (R) is true)
 
-**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. A falsely merges Khanwa and Haldighati; R correctly separates Sanga/Babur from Pratap/Akbar’s forces.
+**Detailed Explanation:**
+- **Assertion (A) is completely false:** Khanwa (1527 CE) and Haldighati (1576 CE) are two separate historic battles fought half a century apart in different locations by different generations of rulers.
+- **Reason (R) is completely true:** At Khanwa (1527), Rana Sanga fought Babur; at Haldighati (1576), Maharana Pratap fought the imperial army of Akbar commanded by Raja Man Singh.
 
-</details>
+**Key Exam Takeaway / Trap:**
+- *Battle Distinctions:* **Khanwa (1527)** = Babur vs Rana Sanga; **Haldighati (1576)** = Akbar's army (Man Singh) vs Maharana Pratap.
 
-## Common Traps — Don't Fall For These
+</details>## Common Traps — Don't Fall For These
 
 1. Do not match **Rana Chunda** with Marwar. The Marwar line uses **Rao** Chunda.
 2. **Khanwa** and **Haldighati** are different battles. Khanwa is **1527** (Sanga). Haldighati is **1576** (Pratap).

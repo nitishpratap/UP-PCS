@@ -718,11 +718,18 @@ D. Tin Darwaza – Ahmedabad
 
 <details><summary>Show answer</summary>
 
-**Ans: D.**
+**Correct Answer:** **A** (Adina Masjid — Mandu is NOT correctly matched)
 
-**Why wrong:** Tin Darwaza is at **Bidar Fort** (Deccan), not Ahmedabad. Ahmedabad has **Teen Darwaza**.
+**Detailed Explanation:**
+- **Pair A: Adina Masjid — Mandu (INCORRECT):** The **Adina Masjid** was constructed in **Pandua** (Firuzabad, Bengal) around 1373–1375 CE by Sultan **Sikandar Shah** of the Ilyas Shahi dynasty. It was one of the largest mosques in the subcontinent, modeled on the Great Mosque of Damascus. The famous medieval mosque at **Mandu** (Malwa) is the Jami Masjid started by Hoshang Shah and completed by Mahmud Khalji.
+- **Pair B: Lal Darwaza Masjid — Jaunpur (Correct):** Built in **1447 CE** by **Bibi Raji**, queen consort of Sultan Mahmud Shah Sharqi of Jaunpur, dedicated to saint Sayyid Ali Daud.
+- **Pair C: Dakhil Darwaza — Gaur (Correct):** The grand triumphal entrance gateway to the citadel of **Gaur (Bengal)**, constructed around 1474 CE by Sultan Nasiruddin Barbak Shah.
+- **Pair D: Tin Darwaza — Ahmedabad (Correct):** Celebrated triple-arched ceremonial gateway in **Ahmedabad (Gujarat)**, constructed in 1415 CE by Sultan Ahmad Shah I to serve as the royal entrance to the Maidan-i-Shah.
 
-**Trap:** Do not mark **Lal Darwaza–Jaunpur** (B) wrong — it is a famous **Sharqi** monument pair in UP.
+**Key Exam Takeaway / Trap:**
+- *Adina Masjid* = **Pandua (Bengal)**, NOT Mandu.
+- *Tin Darwaza* = **Ahmedabad (Gujarat)**.
+- *Lal Darwaza* & *Atala Masjid* = **Jaunpur (Sharqi dynasty)**.
 
 </details>
 
@@ -737,11 +744,18 @@ D. III, IV, II, I
 
 <details><summary>Show answer</summary>
 
-**Ans: B (IV, II, III, I).**
+**Correct Answer:** **B** (IV, II, III, I / Atala Mosque → Sher Shah's Tomb → Humayun's Tomb → Rabia Daurani's Tomb)
 
-**Order:** IV **Atala Mosque, Jaunpur** (~**15th c.**) → II **Sher Shah's Tomb** (**1545**) → III **Humayun's Tomb** (**1565**) → I **Rabia Daurani's Tomb** (**1678**).
+**Detailed Explanation:**
+The correct ascending chronological sequence of construction is:
+1. **IV. Atala Mosque, Jaunpur (1408 CE):** Founded by Firoz Shah Tughlaq in 1377 and completed by Sharqi Sultan **Ibrahim Shah Sharqi** in 1408 CE; hallmark of Sharqi architecture with its massive slanting propylon screen.
+2. **II. Sher Shah's Tomb, Sasaram (1545 CE):** Magnificent three-tiered octagonal mausoleum standing in the middle of an artificial lake in Bihar, completed by his son Islam Shah immediately following Sher Shah's death in 1545 CE.
+3. **III. Humayun's Tomb, Delhi (1565–1572 CE):** Commissioned by his chief consort **Bega Begum (Haji Begum)** and designed by Persian architect Mirak Mirza Ghiyas; the first monumental double-domed garden tomb (*Charbagh*) of Mughal architecture.
+4. **I. Rabia Daurani's Tomb / Bibi Ka Maqbara, Aurangabad (1678 CE):** Built by Prince Azam Shah in memory of his mother Dilras Banu Begum (posthumously titled Rabia-ud-Daurani), chief consort of **Aurangzeb**; designed by architect Ataullah as an imitation of the Taj Mahal.
 
-**Trap:** Sher Shah (1545)** precedes **Humayun (1565)** by 20 years — never reverse II and III.
+**Key Exam Takeaway / Trap:**
+- Atala Mosque (early 15th c.) → Sher Shah (1545) → Humayun (1565–1572) → Bibi Ka Maqbara (1678).
+- Sher Shah's tomb preceded Humayun's tomb by two decades.
 
 </details>
 
@@ -756,11 +770,16 @@ D. Shayasta Khan
 
 <details><summary>Show answer</summary>
 
-**Ans: A.**
+**Correct Answer:** **A** (Abul Hasan Qutb Shah)
 
-**Why:** Abul Hasan Qutb Shah was the **last Qutb Shahi** ruler when Aurangzeb captured Golkonda in **1687**.
+**Detailed Explanation:**
+- When Mughal Emperor **Aurangzeb** personally laid siege to the fortress of **Golkonda in 1687 CE**, the reigning monarch was **Abul Hasan Qutb Shah** (popularly remembered as **Tana Shah**, reigned 1672–1687 CE), the eighth and final ruler of the Qutb Shahi dynasty.
+- The massive granite fort of Golkonda resisted the imperial Mughal army for **eight months**. Aurangzeb finally breached the fortress in September 1687 through the treachery of an Afghan commander inside, **Abdullah Khan Panni**, who opened the Khirki (gate) for a huge bribe.
+- Abul Hasan was captured and imprisoned for the rest of his life in Daulatabad fort, and the Golkonda Sultanate was formally annexed to the Mughal Empire.
 
-**Trap:** Muhammad Quli Qutb Shah** (Charminar, 1591) and **Ibrahim Qutb Shah** ruled much earlier — the 1687 fact is **Abul Hasan** only.
+**Key Exam Takeaway / Trap:**
+- Last ruler of Bijapur during Aurangzeb's 1686 annexation = **Sikandar Adil Shah**.
+- Last ruler of Golkonda during Aurangzeb's 1687 annexation = **Abul Hasan Qutb Shah (Tana Shah)**.
 
 </details>
 
@@ -775,11 +794,17 @@ D. Akbar II
 
 <details><summary>Show answer</summary>
 
-**Ans: A.**
+**Correct Answer:** **A** (Ibrahim Adil Shah II)
 
-**Why:** Ibrahim Adil Shah II of **Bijapur (Adil Shahi)** authored **Kitab-i-Nauras**, a musical-devotional song collection.
+**Detailed Explanation:**
+- Sultan **Ibrahim Adil Shah II (reigned 1580–1627 CE)** of the **Adil Shahi dynasty of Bijapur** was a celebrated scholar, poet, calligrapher, and lutanist.
+- He authored the famous poetic musical anthology **Kitab-i-Nauras** (*Book of Nine Rasas*) in Dakhani Urdu/Persian. The book comprises 59 songs and 17 couplets set to classical Indian musical ragas, opening with invocations to Hindu deities—Goddess **Saraswati** and Lord **Ganesha**—alongside Prophet Muhammad and Sufi saint Gesudaraz of Gulbarga.
+- Due to his extraordinary religious catholicity and generous patronage of Hindu and Muslim scholars alike, his subjects conferred upon him the reverent titles **Jagat Guru** (World Teacher) and **Abla Baba** (Friend of the Poor).
 
-**Trap:** Amuktamalyada** belongs to **Krishnadevaraya (Vijayanagara)** — do not cross-assign Deccan book facts.
+**Key Exam Takeaway / Trap:**
+- *Kitab-i-Nauras* = **Ibrahim Adil Shah II (Bijapur)**.
+- Founder of new capital Nauraspur = **Ibrahim Adil Shah II**.
+- *Amuktamalyada* = **Krishnadevaraya (Vijayanagara)**.
 
 </details>
 
@@ -803,11 +828,16 @@ D. 4-2-3-1
 
 <details><summary>Show answer</summary>
 
-**Ans: A (4-2-1-3).**
+**Correct Answer:** **A** (4–2–1–3 / A-4, B-2, C-1, D-3)
 
-**Facts:** A→**4** Gujarat victory | B→**2** Ahmadnagar | C→**1** Bengal | D→**3** Gawan's letters
+**Detailed Explanation:**
+- **A. Mirat-e-Sikandari → 4. Gujarat victory / History of Gujarat Sultanate:** Composed in Persian around 1611 CE by Sikandar bin Muhammad Manjhu; provides an exhaustive, authoritative chronicle of the Sultans of Gujarat from Zafar Khan's revolt down to Akbar's Mughal conquest.
+- **B. Burhan-e-Masir → 2. Ahmadnagar:** Composed by court historian Sayyid Ali Tabataba around 1599 CE under the patronage of Burhan Nizam Shah II; provides the most comprehensive history of the **Nizam Shahi dynasty of Ahmadnagar** and the Bahmanis.
+- **C. Riyaz-us-Salatin → 1. Bengal:** Composed in Persian by Ghulam Husain Salim Zaidpuri in 1787–1788 CE at Malda; the first complete indigenous narrative history of the Muslim rulers of **Bengal** from Bakhtiyar Khalji to the Battle of Plassey.
+- **D. Riyaz-ul-Insha → 3. Mahmud Gawan's diplomatic letters:** Master collection of royal and diplomatic letters composed by the eminent Bahmani prime minister and scholar **Khwaja Mahmud Gawan**.
 
-**Trap:** Riyaz-us-Salatin** sounds like **Riyaz-ul-Insha** but means **Bengal history**, not Bahmani ministerial correspondence.
+**Key Exam Takeaway / Trap:**
+- Do not confuse the two *Riyaz* titles: **Riyaz-us-Salatin** = History of Bengal | **Riyaz-ul-Insha** = Mahmud Gawan's Bahmani epistolary collection.
 
 </details>
 
@@ -822,11 +852,20 @@ D. Haider Shah
 
 <details><summary>Show answer</summary>
 
-**Ans: C.**
+**Correct Answer:** **C** (Zain-ul-Abidin)
 
-**Why:** Zain-ul-Abidin (Bud Shah, 1420–1470) abolished **jaziya**, banned **cow slaughter**, and **restored temples** after **Sikandar Shah's** intolerant reign.
+**Detailed Explanation:**
+- Sultan **Zain-ul-Abidin (reigned 1420–1470 CE)**, the eighth Sultan of the Shah Miri dynasty of Kashmir, is celebrated in Indian history as the **"Akbar of Kashmir"**. His devoted Kashmiri subjects affectionately styled him **Bud Shah** (*The Great Sultan*).
+- Reversing the severe persecution and iconoclasm of his father Sikandar Butshikan, Zain-ul-Abidin:
+  1. Immediately **abolished Jizya** and the pilgrimage tax on Hindus.
+  2. Enacted a strict prohibition against **cow slaughter**.
+  3. Granted complete religious freedom, recalled exiled Kashmiri Pandits, granted them land endowments, and rebuilt destroyed Hindu temples.
+  4. Appointed learned Hindus (such as Shriya Bhat as court physician and minister) to high administrative offices.
+  5. Established a royal translation bureau (*Dar-ul-Tarjumah*) where Kalhana's *Rajatarangini* and the *Mahabharata* were translated into Persian, and Persian works into Sanskrit.
 
-**Trap:** Sikandar Shah** enforced the **opposite** policies — he is the pre-Bud Shah destruction phase, not the answer here.
+**Key Exam Takeaway / Trap:**
+- *Akbar of Kashmir* / *Bud Shah* = **Zain-ul-Abidin**.
+- Intolerant predecessor who destroyed Martand Sun Temple = **Sikandar Shah (Butshikan)**.
 
 </details>
 
@@ -834,24 +873,29 @@ D. Haider Shah
 
 ## Ghatnachakra Extra Drill — Provincial Dynasties (UPPCS first, then others)
 
-Teaching for these stems sits in **3.1–3.5**.
+Teaching for these stems sits in **3.1–3.4**. UPPCS keys aligned with Ghatnachakra.
 
 **Q1. UPPCS Prelims 2003 / Mains 2004 / UDA 2002**
 
 The city of Jaunpur was founded in the memory of:
 
-A. Ghiyasuddin Tughluq
-
-B. Muhammad-Bin-Tughluq
-
-C. Firuz Shah Tughluq
-
+A. Ghiyasuddin Tughlaq
+B. Muhammad bin Tughlaq (Jauna Khan)
+C. Firoz Shah Tughlaq
 D. Akbar
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Firuz** founded the city naming it for cousin **Jauna Khan (Muhammad bin Tughlaq)**.
+**Correct Answer:** **B** (Muhammad bin Tughlaq / Jauna Khan)
+
+**Detailed Explanation:**
+- The historic city of **Jaunpur** (in eastern Uttar Pradesh on the banks of the Gomti River) was founded in **1359 CE** by Sultan **Firoz Shah Tughlaq**.
+- Firoz Shah established and named the city in loving memory of his cousin and predecessor, **Fakhruddin Jauna Khan**, who had ruled as Sultan **Muhammad bin Tughlaq** (1325–1351).
+- In 1394, during the decay of the Tughlaq dynasty, the eunuch noble Malik Sarwar founded the independent **Sharqi dynasty** with Jaunpur as its capital.
+
+**Key Exam Takeaway / Trap:**
+- Classic UPPCS trap: Founded **BY** = **Firoz Shah Tughlaq**. Founded **IN MEMORY OF** = **Muhammad bin Tughlaq (Jauna Khan)**.
 
 </details>
 
@@ -859,96 +903,128 @@ D. Akbar
 
 Who had established Jaunpur?
 
-A. Muhammad-Bin-Tughluq
-
-B. Firuz Shah Tughluq
-
+A. Muhammad bin Tughlaq
+B. Firoz Shah Tughlaq
 C. Ibrahim Shah Sharqi
-
 D. Sikandar Lodi
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** City by Firuz; independent Sharqi state later by **Malik Sarwar**.
+**Correct Answer:** **B** (Firoz Shah Tughlaq)
+
+**Detailed Explanation:**
+- **Firoz Shah Tughlaq (1351–1388):** A prolific city founder who established numerous urban centers including Firozabad, Fatehabad, Hissar-Firoza, and **Jaunpur** (founded in 1359 during his Bengal campaign).
+- Later, in 1394, **Malik Sarwar (Khwaja-i-Jahan)** was appointed governor of the eastern provinces (*Sultan-ush-Sharq*) and laid the foundation of the independent Sharqi Sultanate of Jaunpur.
+
+**Key Exam Takeaway / Trap:**
+- City builder = **Firoz Shah Tughlaq**. Sharqi kingdom founder = **Malik Sarwar**.
 
 </details>
 
 **Q3. UPPCS Prelims 2001 / Lower 2004 / Mains 2005**
 
-Which one of the following places was known as ‘Shiraz of East’ (also Siraj-i-Hind) during Sharqi rule?
+Which one of the following places was known as ‘Shiraz-i-Hind’ (Shiraz of the East) during the medieval period?
 
 A. Agra
-
 B. Delhi
-
 C. Jaunpur
-
-D. Varanasi
+D. Lucknow
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Under **Ibrahim Shah Sharqi** — also **Siraj-i-Hind** / Shiraz of India.
+**Correct Answer:** **C** (Jaunpur)
+
+**Detailed Explanation:**
+- During the 15th century under the patronizing rule of the **Sharqi Sultans** (especially **Ibrahim Shah Sharqi**, 1402–1440), Jaunpur emerged as a premier center of Islamic learning, theology, Persian literature, classical music, and architecture.
+- Scholars, poets, theologians, and artisans flocked to Jaunpur from across the Islamic world following the devastation of Delhi by Timur (1398).
+- Because of its extraordinary intellectual and cultural brilliance, Jaunpur was hailed as the **"Shiraz of India" (*Shiraz-i-Hind*)**, comparing it to Shiraz, the renowned cultural and literary capital of Persia.
+- Renowned monuments include the **Atala Mosque** (built 1408), **Jhanjhari Mosque**, and **Lal Darwaza Mosque**.
+
+**Key Exam Takeaway / Trap:**
+- *Shiraz-i-Hind* = **Jaunpur** (specifically under **Ibrahim Shah Sharqi**).
 
 </details>
 
 **Q4. UPPCS Prelims 2017**
 
-Who was the last ruler of 'Jaunpur' state?
+Who was the last ruler of the Sharqi dynasty of Jaunpur?
 
-A. Mohammad Shah
-
-B. Hussain Shah
-
-C. Mubarak Shah
-
-D. Ibrahim Shah
+A. Ibrahim Shah
+B. Hussain Shah Sharqi
+C. Mahmud Shah
+D. Mubarak Shah
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Defeated by **Bahlul Lodi**.
+**Correct Answer:** **B** (Hussain Shah Sharqi)
+
+**Detailed Explanation:**
+- **Hussain Shah Sharqi (1458–1479):** The final independent sovereign of the Sharqi dynasty of Jaunpur. An accomplished patron of Hindustani classical music (credited with inventing the *Khayal* music form and *Jaunpuri Rag*), he engaged in a protracted military conflict with Sultan **Bahlol Lodi** of Delhi.
+- Bahlol Lodi decisively defeated Hussain Shah Sharqi in 1479, captured Jaunpur, annexed the Sharqi realm to the Delhi Sultanate, and placed his son Barbak Shah on the throne of Jaunpur.
+- Hussain Shah fled to Bihar and died in exile in 1500.
+
+**Key Exam Takeaway / Trap:**
+- Last Sharqi ruler = **Hussain Shah Sharqi**. Defeated and annexed by = **Bahlol Lodi (1479)**.
 
 </details>
 
 **Q5. UP R.O./A.R.O. (Pre) 2023**
 
-Assertion (A): Jaunpur is known as Siraj-e-Hind.
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
 
-Reason (R): Jaunpur was a great centre of education during the Sharqi period.
+Assertion (A): Jaunpur is known as Siraj-e-Hind (Shiraz-i-Hind).
+Reason (R): Under the Sharqi rulers, Jaunpur was a great centre of education and Islamic literature.
 
-A. A false, R true
+Select the correct answer from the code given below:
 
-B. Both true, R explains A
-
-C. A true, R false
-
-D. Both true, R not explanation
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
+D. (A) is false, but (R) is true
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Cultural/educational fame under Sharqis (esp. **Ibrahim**) earned the title.
+**Correct Answer:** **A** (Both (A) and (R) are true and (R) is the correct explanation of (A))
+
+**Detailed Explanation:**
+- **Assertion (A) is true:** Jaunpur earned the celebrated title **Siraj-e-Hind** (*Shiraz of India*) throughout the 15th century.
+- **Reason (R) is true:** The Sharqi monarchs, particularly Ibrahim Shah Sharqi, liberally patronized scholars, poets, jurists, and theologians. Madrasas in Jaunpur attracted students from all over northern India (even young Sher Shah Suri received his education in Arabic, Persian, and statecraft in Jaunpur).
+- **Why (R) explains (A):** The profound educational and literary eminence of Jaunpur directly earned it comparison to the Persian intellectual city of Shiraz.
+
+**Key Exam Takeaway / Trap:**
+- Direct causal explanation: Jaunpur was called *Siraj-e-Hind* precisely **because** it was the premier center of Islamic education and literature in northern India.
 
 </details>
 
 **Q6. UPPCS Prelims 2023**
 
-Which among the following ruler of Kashmir abolished Zaziya and Cow Slaughter?
+Which among the following rulers of Kashmir abolished Jizya and cow slaughter, earning the title "Akbar of Kashmir"?
 
-A. Sikandar Shah
-
-B. Shamsuddin Shah
-
-C. Haider Shah
-
+A. Shamsuddin Shah Mir
+B. Sikandar Butshikan
+C. Haidar Shah
 D. Zain-ul-Abidin
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Also **Akbar of Kashmir**; *Mahabharata* / *Rajatarangini* into Persian; **Zaina Lank** in **Wular**.
+**Correct Answer:** **D** (Zain-ul-Abidin)
+
+**Detailed Explanation:**
+- **Sultan Zain-ul-Abidin (1420–1470):** The eighth Sultan of Kashmir belonging to the Shah Mir dynasty, affectionately known to his subjects as **Bud Shah** (The Great King).
+- Renowned for his enlightened religious toleration, he completely reversed the iconoclastic policies of his father Sikandar *Butshikan* (The Idol-Breaker):
+  - Abolished the discriminatory **Jizya** tax on Hindus.
+  - Banned **cow slaughter** and prohibited the killing of birds and fish in holy springs.
+  - Recalled exiled Kashmiri Pandits, restored their confiscated lands, and rebuilt demolished Hindu temples.
+  - Established a royal translation bureau where the *Mahabharata* and Kalhana's *Rajatarangini* were translated into Persian.
+- Because of these benevolent policies, historians hail him as the **"Akbar of Kashmir"**.
+
+**Key Exam Takeaway / Trap:**
+- "Akbar of Kashmir" = **Zain-ul-Abidin (Bud Shah)**. Abolished Jizya over a century before Mughal Emperor Akbar did in 1564.
 
 </details>
 
@@ -956,18 +1032,24 @@ D. Zain-ul-Abidin
 
 Which one of the following is NOT correctly matched?
 
-A. Rana Hamir – Mewar
-
-B. Rana Chunda – Marwar
-
-C. Malik Raja Farooqi – Khandesh
-
-D. Malik Sarwar Khwaja Jahan – Malwa
+A. Baz Bahadur — Malwa
+B. Sultan Muzaffar Shah — Gujarat
+C. Yusuf Adil Shah — Bijapur
+D. Qutbuddin Aibak — Bengal
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** **Malik Sarwar / Khwaja-i-Jahan** founded **Sharqi Jaunpur**, not Malwa.
+**Correct Answer:** **D** (Qutbuddin Aibak — Bengal)
+
+**Detailed Explanation:**
+- **Pair D is NOT correctly matched:** **Qutbuddin Aibak** was the founder of the Delhi Sultanate ruling from **Lahore and Delhi** (1206–1210). Bengal was conquered for the Sultanate by Ikhtiyar-ud-din Muhammad Bakhtiyar Khalji, and later ruled by independent sultans such as Shamsuddin Ilyas Shah.
+- **Pair A is correctly matched:** **Baz Bahadur** was the last independent Sultan of **Malwa** (famous for his romance with Queen Roopmati), defeated by Akbar's army in 1561.
+- **Pair B is correctly matched:** **Muzaffar Shah I (Zafar Khan)** founded the independent Sultanate of **Gujarat** in 1407.
+- **Pair C is correctly matched:** **Yusuf Adil Shah** founded the **Adil Shahi dynasty of Bijapur** in 1489.
+
+**Key Exam Takeaway / Trap:**
+- Provincial dynasty match: Malwa (Baz Bahadur), Gujarat (Muzaffar Shah / Ahmad Shah), Bijapur (Yusuf Adil Shah), Bengal (Ilyas Shahi / Husain Shahi).
 
 </details>
 
@@ -976,17 +1058,23 @@ D. Malik Sarwar Khwaja Jahan – Malwa
 The Bahmani Kingdom was founded in the year:
 
 A. 1336
-
-B. 1338
-
-C. 1347
-
-D. 1361
+B. 1347
+C. 1351
+D. 1526
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** **1347** at **Gulbarga**; founder **Alauddin Hasan Bahman Shah (Hasan Gangu)**.
+**Correct Answer:** **B** (1347)
+
+**Detailed Explanation:**
+- The **Bahmani Kingdom** was founded in **August 1347 CE** by a rebellious Afghan/Turkic noble, **Ismail Mukh**, who voluntarily stepped aside in favor of **Hasan Gangu**.
+- Hasan Gangu ascended the throne at Daulatabad taking the royal title **Alauddin Hasan Bahman Shah** (claiming descent from the legendary Persian king Bahman).
+- He shifted the capital to **Gulbarga (Ahsanabad)** in northern Karnataka.
+- **1336:** Foundation of the rival **Vijayanagara Empire** by Harihara I and Bukka I.
+
+**Key Exam Takeaway / Trap:**
+- Foundation years: **Vijayanagara = 1336**; **Bahmani = 1347**. Both emerged during the reign of Delhi Sultan **Muhammad bin Tughlaq**.
 
 </details>
 
@@ -995,281 +1083,346 @@ D. 1361
 The Bahmani Kingdom was founded in which century?
 
 A. 13th century
-
 B. 14th century
-
 C. 15th century
-
 D. 16th century
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **1347** = **14th century**.
+**Correct Answer:** **B** (14th century)
+
+**Detailed Explanation:**
+- The Bahmani Sultanate was founded in **1347 CE**, which falls directly in the **14th century** (1301–1400 CE).
+
+**Key Exam Takeaway / Trap:**
+- 1347 CE = 14th century.
 
 </details>
 
 **Q9. UPPCS Prelims 2020**
 
-Who among the following was the author of the book 'Kitab-i-Nauras'?
+Who among the following was the author of the book *Kitab-i-Nauras*?
 
 A. Ibrahim Adil Shah II
-
 B. Ali Adil Shah
-
-C. Quli Qutab Shah
-
-D. Akbar II
+C. Quli Qutb Shah
+D. Akbar
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Bijapur; also **Jagatguru**.
+**Correct Answer:** **A** (Ibrahim Adil Shah II)
+
+**Detailed Explanation:**
+- **Ibrahim Adil Shah II (1580–1627):** Renowned Sultan of Bijapur, celebrated as a brilliant poet, lutenist, and secular patron of arts.
+- He authored the famous treatise ***Kitab-i-Nauras*** (Book of Nine Rasas) in Dakhani Urdu, containing 59 songs and 17 couplets set to classical Indian ragas.
+- Remarkably, the book opens with devotional invocations to **Goddess Saraswati**, Lord Ganesha, and Hazrat Gesudaraz of Gulbarga.
+- Because of his secular broadmindedness and immense charity to the poor, his subjects revered him with the honorific titles **Jagatguru** (World Teacher) and **Abla Baba** (Friend of the Poor). He also founded the planned city of **Nauraspur** near Bijapur.
+
+**Key Exam Takeaway / Trap:**
+- Author of *Kitab-i-Nauras* and bearer of titles *Jagatguru* / *Abla Baba* = **Ibrahim Adil Shah II of Bijapur**.
 
 </details>
 
 **Q10. UPPCS Prelims 2004**
 
-Name the pair which is not correctly matched:
+Which of the following pairs of Deccan Sultanates and their founding dynasties is NOT correctly matched?
 
-A. Baz Bahadur – Malwa
-
-B. Qutb Shah – Golconda
-
-C. Sultan Muzaffar Shah – Gujarat
-
-D. Yusuf Adil Shah – Ahmadnagar
+A. Nizam Shahi — Ahmadnagar
+B. Adil Shahi — Bijapur
+C. Qutb Shahi — Golconda
+D. Imad Shahi — Bidar
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** **Yusuf Adil Shah** = **Bijapur**; Ahmadnagar = **Nizam Shahi (Malik Ahmad)**.
+**Correct Answer:** **D** (Imad Shahi — Bidar)
+
+**Detailed Explanation:**
+- **Pair D is NOT correctly matched:** The **Imad Shahi dynasty** ruled **Berar** (founded in 1490 by Fathullah Imad-ul-Mulk, capital Ellichpur). The sultanate of **Bidar** was ruled by the **Barid Shahi dynasty** (founded in 1492 by Qasim Barid).
+- The five successor sultanates that emerged from the disintegration of the Bahmani Kingdom are:
+  1. **Adil Shahi** $\rightarrow$ **Bijapur** (1489, Yusuf Adil Shah)
+  2. **Nizam Shahi** $\rightarrow$ **Ahmadnagar** (1490, Malik Ahmad)
+  3. **Imad Shahi** $\rightarrow$ **Berar** (1490, Fathullah Imad-ul-Mulk)
+  4. **Qutb Shahi** $\rightarrow$ **Golconda** (1512, Sultan Quli Qutb-ul-Mulk)
+  5. **Barid Shahi** $\rightarrow$ **Bidar** (1492, Qasim Barid)
+
+**Key Exam Takeaway / Trap:**
+- Berar = **Imad Shahi**. Bidar = **Barid Shahi**. Do not swap Berar and Bidar!
 
 </details>
-
----
 
 ### Other papers (Ghatnachakra Extra)
 
 **Q-GC1. RAS/RTS 1993**
 
-Ruler of Kashmir who was also known as “Akbar of Kashmir” was:
+The ruler of Kashmir who was known as the “Akbar of Kashmir” was:
 
 A. Shamshuddin Shah
-
 B. Sikandar Butshikan
-
 C. Haidar Shah
-
 D. Zain-ul-Abidin
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Correct Answer:** **D** (Zain-ul-Abidin)
+
+**Detailed Explanation:**
+- **Zain-ul-Abidin (1420–1470):** Known as *Bud Shah* (Great King); celebrated for his enlightened religious toleration, abolition of Jizya, patronization of Sanskrit literature, construction of canals and the Zaina Lank artificial island in Wular Lake.
+
+**Key Exam Takeaway / Trap:**
+- "Akbar of Kashmir" = **Zain-ul-Abidin**.
 
 </details>
 
 **Q-GC2. UK UDA/LDA Mains 2006**
 
-Which among the following ruler abolished Jizya (जज़िया) for first time?
+Which among the following rulers abolished Jizya for the first time in India?
 
 A. Zain-ul-Abidin
-
 B. Muhammad-Bin-Tughluq
-
 C. Hussain Shah Sharqi
-
 D. Akbar
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Coaching key for this stem.
+**Correct Answer:** **A** (Zain-ul-Abidin)
+
+**Detailed Explanation:**
+- **Zain-ul-Abidin of Kashmir** was the first medieval Muslim ruler in the subcontinent to formally abolish the **Jizya** tax on his Hindu subjects during the early 15th century, decades before Mughal Emperor Akbar abolished it in 1564.
+
+**Key Exam Takeaway / Trap:**
+- Earliest abolition of Jizya in India = **Zain-ul-Abidin (Kashmir)**.
 
 </details>
 
 **Q-GC3. UKPCS Prelims 2002 / BPSC / UPPCS 1995**
 
-Bahmani State was established by:
+The Bahmani State was established by:
 
 A. Alauddin Hasan Bahman Shah (Hasan Gangu)
-
 B. Ali Adil Shah
-
 C. Hussain Nizam Shah
-
 D. Mujahid Shah
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** **1347**; first capital **Gulbarga (Ahsanabad)**.
+**Correct Answer:** **A** (Alauddin Hasan Bahman Shah / Hasan Gangu)
+
+**Detailed Explanation:**
+- Established in **1347** at Gulbarga by **Alauddin Hasan Bahman Shah** (Zafar Khan / Hasan Gangu), revolting against Sultan Muhammad bin Tughlaq.
+
+**Key Exam Takeaway / Trap:**
+- Bahmani founder = **Alauddin Hasan Bahman Shah (1347)**.
 
 </details>
 
 **Q-GC4. Chhattisgarh PCS 2014**
 
-Which of the following was the first capital of the Bahamani Kingdom?
+Which of the following was the first capital of the Bahmani Kingdom?
 
-A. Bidar
-
-B. Gulbarga
-
+A. Gulbarga (Ahsanabad)
+B. Bidar
 C. Daulatabad
-
-D. Hussainabad
+D. Golconda
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Later **Bidar**.
+**Correct Answer:** **A** (Gulbarga / Ahsanabad)
+
+**Detailed Explanation:**
+- **Gulbarga (renamed Ahsanabad):** Served as the **first capital** of the Bahmani Kingdom from **1347 to 1424**.
+- In **1424**, Sultan **Ahmad Shah Wali** transferred the capital from Gulbarga to the higher, healthier plateau of **Bidar (renamed Muhammadabad)**.
+
+**Key Exam Takeaway / Trap:**
+- Capital sequence: **Gulbarga (1347–1424)** $\rightarrow$ **Bidar (1424–1527)**.
 
 </details>
 
 **Q-GC5. UKPCS Prelims 2003 / UP Lower 2002**
 
-Match List-I (Dynasty) with List-II (Centre):
+Match List-I (Dynasty) with List-II (Capital/Centre):
 
-| List-I | List-II |
-|--------|---------|
-| A. Adil Shahi | 1. Ahmadnagar |
-| B. Qutb Shahi | 2. Bijapur |
-| C. Nizam Shahi | 3. Golconda (गोलकोंडा) |
-| D. Sharqi | 4. Jaunpur |
+List-I
+A. Adil Shahi
+B. Qutb Shahi
+C. Nizam Shahi
+D. Sharqi Shahi
 
-*Row order in the table is not the answer code.*
+List-II
+1. Ahmadnagar
+2. Bijapur
+3. Golconda
+4. Jaunpur
 
-A. 2 3 1 4
-
-B. 3 2 4 1
-
-C. 1 2 3 4
-
-D. 4 3 2 1
+Code:
+A. A-2, B-3, C-1, D-4
+B. A-1, B-2, C-3, D-4
+C. A-2, B-1, C-3, D-4
+D. A-3, B-2, C-1, D-4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A (2-3-1-4).** Adil Shahi–**Bijapur**; Qutb Shahi–**Golconda** (गोलकोंडा); Nizam Shahi–**Ahmadnagar**; Sharqi–**Jaunpur**.
+**Correct Answer:** **A** (A-2, B-3, C-1, D-4)
 
-**Trap:** **Yusuf Adil Shah** founded **Bijapur**, not Ahmadnagar — swap Adil with Nizam if unsure.
+**Detailed Explanation:**
+- **A. Adil Shahi:** Ruled **Bijapur** (List-II: 2), founded 1489 by Yusuf Adil Shah.
+- **B. Qutb Shahi:** Ruled **Golconda** (List-II: 3), founded 1512 by Sultan Quli Qutb Shah.
+- **C. Nizam Shahi:** Ruled **Ahmadnagar** (List-II: 1), founded 1490 by Malik Ahmad.
+- **D. Sharqi Shahi:** Ruled **Jaunpur** (List-II: 4), founded 1394 by Malik Sarwar.
+
+**Key Exam Takeaway / Trap:**
+- Classic provincial dynasty match: Adil Shahi (Bijapur), Qutb Shahi (Golconda), Nizam Shahi (Ahmadnagar), Sharqi (Jaunpur).
 
 </details>
 
 **Q-GC6. IAS (Pre) 2000**
 
-Which one of the following Muslim rulers was hailed as the ‘Jagadguru’ by his Muslim subjects because of his belief in secularism?
+Which one of the following Muslim rulers was hailed as the "Jagatguru" by his Muslim subjects because of his belief in secularism and broadmindedness?
 
 A. Hussain Shah
-
-B. Zain-ul -Abidin
-
-C. Ibrahim Adil Shah
-
+B. Zain-ul-Abidin
+C. Ibrahim Adil Shah II
 D. Mahmud II
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Bijapur; *Kitab-i-Nauras*; **Nauraspur**.
+**Correct Answer:** **C** (Ibrahim Adil Shah II)
+
+**Detailed Explanation:**
+- **Ibrahim Adil Shah II of Bijapur (1580–1627):** Conferred the honorific title **Jagatguru** (World Teacher) by his subjects for his syncretic cultural outlook, patronage of Hindu scholars, musicians, and temples, and his authorship of the *Kitab-i-Nauras*.
+
+**Key Exam Takeaway / Trap:**
+- *Jagatguru* = **Ibrahim Adil Shah II of Bijapur**.
 
 </details>
 
 **Q-GC7. IAS 1995**
 
-Which one of the following monuments has a dome which is said to be one of the largest in the world?
+Which one of the following monuments has a dome which is claimed to be one of the largest single masonry domes in the world, with a whispering gallery?
 
 A. Tomb of Sher Shah, Sasaram
-
-B. Jama Masjid (जामा मस्जिद), Delhi
-
-C. Tomb of Ghiyasuddin Tughluq, Delhi
-
-D. Gol Gumbad, Bijapur
+B. Jama Masjid, Delhi
+C. Tomb of Ghiyasuddin Tughlaq, Delhi
+D. Gol Gumbaz, Bijapur
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Tomb of **Muhammad Adil Shah**.
+**Correct Answer:** **D** (Gol Gumbaz, Bijapur)
+
+**Detailed Explanation:**
+- **Gol Gumbaz (Bijapur, Karnataka):** The magnificent mausoleum of **Muhammad Adil Shah** (reign: 1627–1656), designed by architect Yaqut of Dabul and completed in 1656.
+- It features a colossal hemispherical dome with an internal diameter of 44 meters (144 feet), constructed entirely of brick masonry without pillars or central supports—one of the largest single domes in the world (second only to St. Peter's Basilica in Rome).
+- It houses the famous **Whispering Gallery** (*Acoustic Chamber*), where the faintest whisper is echoed eleven times across the vast interior.
+
+**Key Exam Takeaway / Trap:**
+- World-famous masonry dome and Whispering Gallery = **Gol Gumbaz (Bijapur)**, tomb of **Muhammad Adil Shah**.
 
 </details>
 
 **Q-GC8. IAS 2023**
 
-Which among the following rulers of medieval Gujarat surrendered Diu to Portuguese?
+Which among the following rulers of medieval Gujarat surrendered Diu to the Portuguese in 1535?
 
 A. Ahmad Shah
-
-B. Mahmud Begarha
-
+B. Mahmud Begada
 C. Bahadur Shah
-
 D. Muhammad Shah
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** **1535** treaty with Nuno da Cunha.
+**Correct Answer:** **C** (Bahadur Shah)
+
+**Detailed Explanation:**
+- In **1535**, facing imminent military defeat and invasion by the Mughal Emperor **Humayun**, Sultan **Bahadur Shah of Gujarat** formed a defensive alliance with the Portuguese Governor **Nuno da Cunha**.
+- Under the **Treaty of Bassein / Diu (1535)**, Bahadur Shah ceded the strategic island fortress of **Diu** to the Portuguese, permitting them to build a factory and naval fortifications in exchange for military assistance against the Mughals.
+- Later, in 1537, when Mughal pressure receded, negotiations soured and Bahadur Shah was drowned in a skirmish aboard a Portuguese ship off the coast of Diu.
+
+**Key Exam Takeaway / Trap:**
+- Ceded Diu to Portuguese in 1535 = **Bahadur Shah of Gujarat**.
 
 </details>
 
 **Q-GC9. MPPCS 2010**
 
-Who built Gujari Mahal (महाल)?
+Who built the Gujari Mahal inside the Gwalior Fort?
 
-A. Suraj Sen
-
-B. Man Singh (मान सिंह)
-
-C. Tej (उष्णकटिबंधीय पूर्वी जेट) Karan
-
+A. Raja Suraj Sen
+B. Raja Man Singh Tomar
+C. Raja Tej Karan
 D. Akbar
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Man Singh Tomar** (~1486–1516); now a museum.
+**Correct Answer:** **B** (Raja Man Singh Tomar)
+
+**Detailed Explanation:**
+- **Raja Man Singh Tomar of Gwalior (reign: 1486–1516):** The great Rajput builder and patron of classical Dhrupad music.
+- He built the magnificent **Gujari Mahal** at the base of the Gwalior Fort for his beloved Gurjar queen, **Mrignayani** (the doe-eyed queen).
+- Today, the palace houses the Central Archaeological Museum of Gwalior, containing famous sculptures including the celebrated *Salabhanjika* (Gyraspur Yakshi).
+
+**Key Exam Takeaway / Trap:**
+- Builder of Gujari Mahal and Man Mandir Palace = **Raja Man Singh Tomar of Gwalior**.
 
 </details>
 
----
-
 **Q-GC10. IAS 2001 / UPPCS Mains 2003 / RO 2014**
 
-Hoysala monuments are chiefly located at:
+The exquisite temples of the Hoysala dynasty are chiefly located at:
 
 A. Hampi and Hospet
-
-B. Halebid and Belur (बेलूर)
-
-C. Mysore (मैसूर) and Bangalore
-
-D. Sringeri and Dharwar
+B. Halebid and Belur
+C. Tanjore and Madurai
+D. Badami and Pattadakal
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Famous **Hoysala** temples at **Halebid** and **Belur**; **Somnathpur** (सोमनाथपुर) is another Hoysala site.
+**Correct Answer:** **B** (Halebid and Belur)
+
+**Detailed Explanation:**
+- **Hoysala Architecture (11th–14th century):** Famous for star-shaped (*stellate*) temple plans, soapstone (*chloritic schist*) construction, and intricate filigree relief carvings.
+- Chief monuments are located at:
+  - **Belur:** **Chennakeshava Temple**, built by King Vishnuvardhana in 1117 to commemorate his victory over the Cholas.
+  - **Halebid (Dwarasamudra):** **Hoysaleshwara Temple**, dedicated to Lord Shiva, renowned for double shrines and miles of continuous narrative friezes.
+  - **Somanathapura:** **Keshava Temple**, built by Somnatha Dandanayaka in 1268.
+- These Hoysala temples were collectively inscribed as a **UNESCO World Heritage Site** in 2023.
+
+**Key Exam Takeaway / Trap:**
+- Primary Hoysala sites = **Halebid (Dwarasamudra)** and **Belur** (Hassan district, Karnataka).
 
 </details>
 
 **Q-GC10b. IAS 2001 / UPPCS Mains 2003 / RO 2014**
 
-The modern name of the Hoysala capital **Dwarasamudra** is:
+The modern name of the ancient Hoysala capital **Dwarasamudra** is:
 
-A. Belur
-
-B. Halebid
-
-C. Sringeri
-
-D. Somnathpur
+A. Hampi
+B. Halebidu (Halebid)
+C. Belur
+D. Badami
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Dwarasamudra** = **Halebidu (हलेबीडु) (Halebid)**.
+**Correct Answer:** **B** (Halebidu / Halebid)
+
+**Detailed Explanation:**
+- **Dwarasamudra** (meaning "gateway of the sea/lake"), the capital of the Hoysala Empire from the 11th to 14th centuries, is today known as **Halebidu (Halebid)** in Hassan district, Karnataka.
+- The city was plundered and devastated by Alauddin Khalji's general **Malik Kafur in 1310** and again by Muhammad bin Tughlaq in 1327, after which it was called *Hale-beedu* (Old City/Ruins).
+
+**Key Exam Takeaway / Trap:**
+- Ancient Dwarasamudra = Modern **Halebidu (Halebid)**.
 
 </details>
 
@@ -1277,118 +1430,145 @@ D. Somnathpur
 
 Match List-I (Dynasty) with List-II (Capital):
 
-| List-I | List-II |
-|--------|---------|
-| A. Pallava (पल्लव) | 1. Devagiri (देवगिरी) |
-| B. Pandya | 2. Kanchi (कांची) |
-| C. Yadava (यादव) | 3. Madura |
-| D. Kakatiya (काकतीय) | 4. Warangal (वारंगल) |
+List-I
+A. Kakatiya
+B. Hoysala
+C. Yadava
+D. Pandya
 
-*Row order in the table is not the answer code.*
+List-II
+1. Dwarasamudra
+2. Warangal
+3. Madurai
+4. Devagiri
 
-A. 2 3 1 4
-
-B. 3 2 4 1
-
-C. 1 2 3 4
-
-D. 4 3 2 1
+Code:
+A. A-2, B-1, C-4, D-3
+B. A-1, B-2, C-4, D-3
+C. A-2, B-4, C-1, D-3
+D. A-4, B-1, C-2, D-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A (2-3-1-4).** Pallava–**Kanchi** (कांची); Pandya–**Madura**; Yadava–**Devagiri**; Kakatiya–**Warangal**.
+**Correct Answer:** **A** (A-2, B-1, C-4, D-3)
 
-**Trap:** **Warangal** is **Kakatiya**, not Yadava — Devagiri belongs to the **Yadava** line.
+**Detailed Explanation:**
+- **A. Kakatiya:** Capital was **Warangal** (Orugallu) in Telangana (List-II: 2).
+- **B. Hoysala:** Capital was **Dwarasamudra** (Halebid) in Karnataka (List-II: 1).
+- **C. Yadava (Seuna):** Capital was **Devagiri** (later Daulatabad) in Maharashtra (List-II: 4).
+- **D. Pandya:** Capital was **Madurai** in Tamil Nadu (List-II: 3).
+
+**Key Exam Takeaway / Trap:**
+- Foundational four Deccan medieval kingdoms raided by Malik Kafur (1309–1311): Kakatiya (Warangal), Hoysala (Dwarasamudra), Yadava (Devagiri), Pandya (Madurai).
 
 </details>
 
 **Q-GC11b. UKPCS Prelims 2021 / UP RO 2023**
 
-Female ruler **Rudrama (रुद्रमा) Devi** belonged to which dynasty?
+The celebrated medieval female monarch **Rudrama Devi** belonged to which dynasty?
 
-A. Eastern Ganga (गंगा)
-
-B. Hoysala
-
-C. Kakatiya
-
-D. Western Chalukya (पश्चिमी चालुक्य)
+A. Hoysala dynasty
+B. Yadava dynasty
+C. Kakatiya dynasty
+D. Chalukya dynasty
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Fourth independent **Kakatiya** ruler; daughter of **Ganapati (गणपतिदेव) Deva**; capital **Warangal**.
+**Correct Answer:** **C** (Kakatiya dynasty)
+
+**Detailed Explanation:**
+- **Rani Rudrama Devi (reign: 1262–1289 CE):** One of the very few ruling queens in Indian history; was the daughter and chosen successor of King Ganapati Deva of the **Kakatiya dynasty of Warangal**.
+- She ruled with great valor, completing the stone fortifications of Warangal Fort, defending her realm against invasions from the Yadavas of Devagiri and the Eastern Gangas.
+- Venetian traveler **Marco Polo**, who visited Motupalli port during her reign in 1289–1293, recorded glowing praise for her just, prudent, and beloved administration.
+
+**Key Exam Takeaway / Trap:**
+- Rani Rudrama Devi = **Kakatiya dynasty of Warangal** (visited by **Marco Polo**).
 
 </details>
-
----
 
 ### UKPCS Complete PYQ Bank
 
-**Q-UK1. UKPCS Prelims 2002**
+**Q1. UKPCS Prelims 2002**
 
-Bahmani State was established by:
+The Bahmani State was established by:
 
-A. Alauddin Hasan
-
-B. Ali Abid Shah
-
-C. Hussain Nizam Shah
-
-D. Mujahid Shah
+A. Alauddin Hasan Bahman Shah (Hasan Gangu)
+B. Mahmud Gawan
+C. Firoz Shah Bahmani
+D. Yusuf Adil Shah
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** **Alauddin Hasan Bahman Shah (Hasan Gangu)**, **1347**, capital **Gulbarga**.
+**Correct Answer:** **A** (Alauddin Hasan Bahman Shah / Hasan Gangu)
+
+**Detailed Explanation:**
+- Founded in **1347 CE** by **Alauddin Hasan Bahman Shah (Hasan Gangu)**, who revolted against the rule of Muhammad bin Tughlaq and established his capital at Gulbarga.
+
+**Key Exam Takeaway / Trap:**
+- Bahmani founder = **Alauddin Hasan Bahman Shah (1347)**.
 
 </details>
 
-**Q-UK2. UKPCS Prelims 2003**
+**Q2. UKPCS Prelims 2003**
 
 Match List-I (Dynasty) with List-II (Centre):
 
-| List-I | List-II |
-|--------|---------|
-| A. Adil Shahi | 1. Ahmadnagar |
-| B. Qutb Shahi | 2. Bijapur |
-| C. Nizam Shahi | 3. Golconda |
-| D. Sharqi Shahi | 4. Jaunpur |
+List-I
+A. Adil Shahi
+B. Qutb Shahi
+C. Nizam Shahi
+D. Sharqi Shahi
 
-*Row order in the table is not the answer code.*
+List-II
+1. Ahmadnagar
+2. Bijapur
+3. Golconda
+4. Jaunpur
 
-A. 2 3 1 4
-
-B. 3 2 4 1
-
-C. 1 2 3 4
-
-D. 4 3 2 1
+Code:
+A. A-2, B-3, C-1, D-4
+B. A-1, B-2, C-3, D-4
+C. A-2, B-1, C-3, D-4
+D. A-3, B-2, C-1, D-4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A (2-3-1-4).** Adil–**Bijapur**; Qutb–**Golconda**; Nizam–**Ahmadnagar**; Sharqi–**Jaunpur**.
+**Correct Answer:** **A** (A-2, B-3, C-1, D-4)
+
+**Detailed Explanation:**
+- Adil Shahi $\rightarrow$ **Bijapur** (1489)
+- Qutb Shahi $\rightarrow$ **Golconda** (1512)
+- Nizam Shahi $\rightarrow$ **Ahmadnagar** (1490)
+- Sharqi Shahi $\rightarrow$ **Jaunpur** (1394)
+
+**Key Exam Takeaway / Trap:**
+- Direct matching: Adil (Bijapur), Qutb (Golconda), Nizam (Ahmadnagar), Sharqi (Jaunpur).
 
 </details>
 
-**Q-UK3. Uttarakhand (उत्तराखंड) UDA/LDA (Mains) 2006**
+**Q3. Uttarakhand UDA/LDA (Mains) 2006**
 
-Which among the following ruler abolished Jizya for first time?
+Which among the following rulers of Kashmir abolished Jizya?
 
 A. Zain-ul-Abidin
-
-B. Muhammad-Bin-Tughluq
-
-C. Hussain Shah Sharqi
-
-D. Akbar
+B. Sikandar
+C. Shamsuddin
+D. Haidar Shah
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** **Zain-ul-Abidin (Bud Shah)** of Kashmir — also called **Akbar of Kashmir**.
+**Correct Answer:** **A** (Zain-ul-Abidin)
+
+**Detailed Explanation:**
+- **Zain-ul-Abidin (1420–1470)** abolished **Jizya** and cow slaughter in Kashmir, earning the historical title **"Akbar of Kashmir"**.
+
+**Key Exam Takeaway / Trap:**
+- Abolished Jizya in Kashmir = **Zain-ul-Abidin**.
 
 </details>
 
@@ -1412,9 +1592,16 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** All three statements are correct.
+**Correct Answer:** **B** (Statements 1, 2 and 3 are all correct)
 
-**Logic:** City foundation vs Sharqi independence are separate facts.
+**Detailed Explanation:**
+- **Statement 1 is correct:** The Sharqi Sultanate was founded in **1394 CE** by the eunuch vizier **Malik Sarwar**, who received the title **Sultan-ush-Sharq** (King of the East) from Sultan Nasiruddin Mahmud Tughlaq during the disintegration of the Delhi Sultanate.
+- **Statement 2 is correct:** Under the patronizing rule of the Sharqi monarchs (especially Ibrahim Shah Sharqi, 1402–1440 CE), Jaunpur became the foremost imperial center of Islamic learning, theology, Persian literature, and Hindustani classical music in northern India, earning the celebrated cultural title **Shiraz-i-Hind** (*The Shiraz of India*).
+- **Statement 3 is correct:** Sharqi architecture developed a distinct regional style marked by massive battered sloping propylon screens flanking the central archway and an **absence of tall minarets**, as exemplified by the **Atala Mosque** (1408 CE), **Jami Masjid**, and **Lal Darwaza Masjid**.
+
+**Key Exam Takeaway / Trap:**
+- *Shiraz-i-Hind* = **Jaunpur**.
+- City founded by **Firoz Shah Tughlaq** (in memory of Jauna Khan) in 1359 CE; independent Sharqi dynasty founded by **Malik Sarwar** in 1394 CE.
 
 </details>
 
@@ -1439,9 +1626,18 @@ D. A-3, B-1, C-2, D-4
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** A-2, B-1, C-3, D-4.
+**Correct Answer:** **B** (A-2, B-1, C-3, D-4)
 
-**Logic:** Do not put Bijapur as Bahmani’s only capital.
+**Detailed Explanation:**
+Following the disintegration of the Bahmani Kingdom around 1489–1527 CE, five independent Deccan Sultanates arose:
+- **A. Adil Shahi → 2. Bijapur:** Founded in 1489 CE by Yusuf Adil Shah; famed for the massive Gol Gumbaz and Ibrahim Rauza.
+- **B. Nizam Shahi → 1. Ahmadnagar:** Founded in 1490 CE by Malik Ahmad Nizam-ul-Mulk Bahri; famed for Chand Bibi's resistance.
+- **C. Qutb Shahi → 3. Golkonda / Hyderabad:** Founded in 1512 CE by Sultan Quli Qutb-ul-Mulk; famed for Charminar and diamond trade.
+- **D. Barid Shahi → 4. Bidar:** Founded in 1492 CE by Qasim Barid; held the former Bahmani capital.
+
+**Key Exam Takeaway / Trap:**
+- The fifth sultanate was **Imad Shahi of Berar** (capital Ellichpur/Gawilgarh, founded 1490).
+- Remember the pairs: Bijapur–Adil Shahi | Ahmadnagar–Nizam Shahi | Golkonda–Qutb Shahi | Bidar–Barid Shahi | Berar–Imad Shahi.
 
 </details>
 
@@ -1459,9 +1655,16 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both (A) and (R) are true and (R) explains (A).
+**Correct Answer:** **D** (Both A and R are true, and R is the correct explanation of A)
 
-**A/R logic:** Cause–course–result: alliance war → Rama Raya’s death → Hampi sack → power collapse.
+**Detailed Explanation:**
+- **Assertion (A) is correct:** The reign of Emperor **Krishnadevaraya (1509–1529 CE)** of the Tuluva dynasty represents the cultural, literary, and military golden age of the **Vijayanagara Empire**.
+- **Reason (R) is correct:** Krishnadevaraya was an accomplished polymath who authored the celebrated Telugu political treatise **Amuktamalyada** and the Sanskrit drama *Jambavati Kalyanam*. His royal assembly (*Bhuvana Vijayam*) patronized the **Ashtadiggajas** (eight supreme Telugu literary titans), led by laureate **Allasani Peddana** (author of *Manucharitam*) and the witty court poet **Tenali Ramakrishna**.
+- **Why (R) explains (A):** The personal literary genius of the sovereign combined with his generous, institutionalized patronage of the *Ashtadiggajas* elevated Telugu literature to its peak classical renaissance, directly defining the cultural brilliance asserted in (A).
+
+**Key Exam Takeaway / Trap:**
+- *Ashtadiggajas* = 8 Telugu poets in **Krishnadevaraya's court (Vijayanagara)**.
+- *Ashtapradhan* = 8-minister administrative council of **Chhatrapati Shivaji Maharaj**. Never interchange them.
 
 </details>
 
@@ -1480,9 +1683,18 @@ D. 2–1–3–4
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** 1336 → 1347 → ~1394 → 1565.
+**Correct Answer:** **A** (1336 → 1347 → 1394 → 1565)
 
-**Logic:** Raichur (1520) is a Krishnadevaraya win — do not swap it with Talikota.
+**Detailed Explanation:**
+The precise chronological sequence is:
+1. **Foundation of Vijayanagara Empire (1336 CE):** Established on the banks of the Tungabhadra by brothers Harihara I and Bukka I during the chaotic reign of Muhammad bin Tughlaq, inspired by sage Vidyaranya.
+2. **Foundation of Bahmani Kingdom (1347 CE):** Established in the Deccan by Alauddin Hasan Bahman Shah (Hasan Gangu) at Gulbarga.
+3. **Foundation of Sharqi Sultanate of Jaunpur (1394 CE):** Founded by Malik Sarwar (Khwaja Jahan) as Tughlaq central control collapsed prior to Timur's invasion.
+4. **Battle of Talikota (1565 CE):** Historic confrontation on 23 January 1565 where the allied Deccan Sultanates defeated Vijayanagara and devastated Hampi.
+
+**Key Exam Takeaway / Trap:**
+- Vijayanagara (1336) was founded **11 years before** the Bahmani Kingdom (1347).
+- Both arose during the reign of Sultan **Muhammad bin Tughlaq**.
 
 </details>
 
@@ -1500,9 +1712,16 @@ D. 1 and 2 only
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only pair 3 is not correctly matched.
+**Correct Answer:** **B** (Only pair 3 is NOT correctly matched)
 
-**Logic:** Never swap Riyaz-us-Salatin (Bengal) with Riyaz-ul-Insha (Gawan).
+**Detailed Explanation:**
+- **Pair 1: Mirat-e-Sikandari — History of Gujarat (Correct):** Written by Sikandar bin Muhammad Manjhu (1611 CE), covering the Gujarat Sultans.
+- **Pair 2: Burhan-e-Masir — History of Ahmadnagar (Correct):** Composed by Sayyid Ali Tabataba (1599 CE) on the Nizam Shahis.
+- **Pair 3: Riyaz-us-Salatin — Mahmud Gawan's letters (INCORRECT):** **Riyaz-us-Salatin** is the history of **Bengal** authored by Ghulam Husain Salim in 1788. Mahmud Gawan's collection of letters and state correspondence is titled **Riyaz-ul-Insha**.
+
+**Key Exam Takeaway / Trap:**
+- *Riyaz-us-Salatin* = Bengal.
+- *Riyaz-ul-Insha* = Mahmud Gawan (Bahmani).
 
 </details>
 
@@ -1520,9 +1739,15 @@ D. Only 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three statements are correct.
+**Correct Answer:** **C** (Statements 1, 2 and 3 are all correct)
 
-**Logic:** He also patronised the Ashtadiggajas; Manucharitramu is Allasani Peddana’s work.
+**Detailed Explanation:**
+- **Statement 1 is correct:** The Vijayanagara state maintained an aggressive royal monopoly over the import of **Arabian and Persian warhorses** through Portuguese Goa and coastal ports (Honnavar, Bhatkal), as documented by Domingo Paes.
+- **Statement 2 is correct:** The capital city of **Hampi / Vijayanagara** was protected by massive concentric rings of stone walls that encircled not only residences and palaces, but also extensive **agricultural fields and irrigation canals**, enabling the city to withstand prolonged sieges.
+- **Statement 3 is correct:** The military-feudal structure was organized under the **Nayankara system**, where military commanders (*Amaranayakas*) were granted revenue tracts (*amaram*) in return for maintaining a fixed quota of foot-soldiers, cavalry, and war elephants.
+
+**Key Exam Takeaway / Trap:**
+- The *Nayankara* system was the Vijayanagara counterpart to the Delhi Sultanate's *Iqta* system.
 
 </details>
 
@@ -1540,9 +1765,16 @@ D. 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three statements are correct.
+**Correct Answer:** **C** (Statements 1, 2 and 3 are all correct)
 
-**Logic:** After 1518 Bahmani split into five Deccan Sultanates.
+**Detailed Explanation:**
+- **Statement 1 is correct:** The Bahmani Kingdom was established in **1347 CE** by **Alauddin Hasan Bahman Shah** (an Afghan officer originally known as Hasan Gangu), who revolted against Muhammad bin Tughlaq.
+- **Statement 2 is correct:** The initial capital was established at **Ahsanabad (Gulbarga)**; it was later shifted to **Muhammadabad (Bidar)** in 1424 CE by Sultan Ahmad Shah Wali due to its better climate and strategic location.
+- **Statement 3 is correct:** The kingdom achieved its administrative and military zenith under prime minister **Mahmud Gawan** (1463–1481 CE), an Iranian merchant-statesman who divided the realm into eight provinces (*tarafs*) and founded the great Madrasa of Bidar.
+
+**Key Exam Takeaway / Trap:**
+- First Bahmani capital = **Gulbarga** (1347–1424 CE).
+- Second Bahmani capital = **Bidar** (1424–1527 CE).
 
 </details>
 
@@ -1560,9 +1792,14 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** (A) is false, but (R) is true.
+**Correct Answer:** **B** (Assertion A is false, but Reason R is true)
 
-**A/R logic:** Opposite outcomes — do not merge the two battles.
+**Detailed Explanation:**
+- **Assertion (A) is false:** The Bahmani Kingdom did **NOT** remain a unified empire down to the 18th century. Following the unjust execution of Mahmud Gawan in 1481 CE and the weakness of later Sultans, the kingdom fragmented between 1489 and 1527 CE into **five independent Deccan Sultanates** (Ahmadnagar, Bijapur, Golkonda, Bidar, Berar).
+- **Reason (R) is true:** Chronic factional warfare raged within the Bahmani nobility between the **Deccanis** (native Indian-born Muslims and local converts) and the **Afaqis / Pardesis** (foreign newcomers from Persia, Turkey, and Central Asia), which fatally undermined imperial unity.
+
+**Key Exam Takeaway / Trap:**
+- The *Deccani* vs. *Afaqi* ethnic factionalism was the direct internal cause of the disintegration of the Bahmani state.
 
 </details>
 
@@ -1587,9 +1824,18 @@ D. A-3, B-1, C-2, D-4
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** A-2, B-1, C-3, D-4.
+**Correct Answer:** **A** (A-2, B-1, C-3, D-4)
 
-**Logic:** Bijapur holds Gol Gumbaz; Firishta worked at Ibrahim Adil Shah II’s court.
+**Detailed Explanation:**
+- **A. Gol Gumbaz → 2. Bijapur:** Mausoleum of Muhammad Adil Shah (1656 CE) at Bijapur, boasting one of the largest unsupported acoustic dome spaces in the world with a famous "whispering gallery".
+- **B. Charminar → 1. Hyderabad:** Grand ceremonial four-minaret monument constructed in 1591 CE by Muhammad Quli Qutb Shah at Hyderabad to commemorate the eradication of a devastating plague.
+- **C. Atala Masjid → 3. Jaunpur:** Completed in 1408 CE by Ibrahim Shah Sharqi at Jaunpur (Uttar Pradesh).
+- **D. Mahmud Gawan Madrasa → 4. Bidar:** Monumental three-storey theological college with minarets and glazed blue tiles built in 1472 CE by Mahmud Gawan at Bidar.
+
+**Key Exam Takeaway / Trap:**
+- Gol Gumbaz = **Bijapur** (Adil Shahi).
+- Charminar = **Hyderabad** (Qutb Shahi).
+- Mahmud Gawan Madrasa = **Bidar** (Bahmani).
 
 </details>
 
@@ -1607,9 +1853,15 @@ D. Only 1 and 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** All three statements are correct.
+**Correct Answer:** **A** (Statements 1, 2 and 3 are all correct)
 
-**Logic:** Contrast with Sikandar Shah’s temple-destruction phase.
+**Detailed Explanation:**
+- **Statement 1 is correct:** Zain-ul-Abidin enacted total religious reconciliation: he abolished Jizya and the cremation tax on Hindus, banned cow slaughter, and restored sacred shrines.
+- **Statement 2 is correct:** He was an engineering visionary who constructed extensive canals (e.g. Kakapur canal) and built the artificial island **Zaina Lank** in **Wular Lake**, upon which he erected a palace and mosque.
+- **Statement 3 is correct:** He patronized the continuation of Kalhana's *Rajatarangini* by commissioning historian **Jonaraja** (Second Rajatarangini) and subsequently **Srivara** (Third Rajatarangini), bringing the historical chronicle down to his reign.
+
+**Key Exam Takeaway / Trap:**
+- Kalhana wrote *Rajatarangini* (12th c.); **Jonaraja** and **Srivara** continued it under **Zain-ul-Abidin (15th c.)**.
 
 </details>
 
@@ -1623,9 +1875,16 @@ D. Lal Darwaza Masjid — Sharqi Jaunpur
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Teen Darwaza is Ahmedabad’s gate; Tin Darwaza is Bidar Fort.
+**Correct Answer:** **B** (Tin Darwaza — Bidar is NOT correctly matched)
 
-**Logic:** Tin vs Teen spelling marks Bidar vs Ahmedabad.
+**Detailed Explanation:**
+- **A. Dakhil Darwaza — Gaur (Correct):** Celebrated gateway in Gaur (Bengal) built by Barbak Shah.
+- **B. Tin Darwaza — Bidar (INCORRECT):** The **Tin Darwaza** (or *Teen Darwaza*) is the famous triple-arched gate in **Ahmedabad (Gujarat)** built by Sultan Ahmad Shah I in 1415 CE. It is not located in Bidar.
+- **C. Lal Darwaza — Jaunpur (Correct):** Mosque and gateway complex built by Bibi Raji in Jaunpur (UP).
+- **D. Alai Darwaza — Delhi (Correct):** Masterpiece gateway built by Alauddin Khalji (1311 CE) at the Qutb complex.
+
+**Key Exam Takeaway / Trap:**
+- *Tin Darwaza* = **Ahmedabad (Gujarat)**.
 
 </details>
 
@@ -1643,9 +1902,16 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Correct Answer:** **D** (Statements 1, 2 and 3 are all correct)
 
-**Logic:** Vitthala Temple is Vijayanagara Hampi — not Qutb Shahi.
+**Detailed Explanation:**
+- **Statement 1 is correct:** The **Vitthala Temple** at Hampi represents the peak of Vijayanagara architectural virtuosity, famous for its magnificent **monolithic stone chariot** (*Garuda shrine*).
+- **Statement 2 is correct:** Its grand *Ranga Mandapa* features **56 musical pillars** (also called *Sa-Re-Ga-Ma pillars*) that emit distinct musical notes when gently tapped.
+- **Statement 3 is correct:** Characteristic features of Vijayanagara temple architecture include monumental soaring entrance gateways called **Raya Gopurams**, elaborately sculpted pillars depicting rearing mythical beasts (*Yalis*), and ornate wedding pavilions called **Kalyana Mandapas**.
+
+**Key Exam Takeaway / Trap:**
+- Musical pillars & Stone Chariot = **Vitthala Temple at Hampi (Vijayanagara)**.
+- *Raya Gopuram* = Monumental temple gateway named after Vijayanagara Rayas.
 
 </details>
 
@@ -1666,9 +1932,16 @@ D. 1 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 3 is correct.
+**Correct Answer:** **C** (Only Statement 3 is correct)
 
-**Logic:** Stmt 1 false: Nayankara is Vijayanagara nayaka grant practice — do not equate with iqta. Stmt 2 remains false for the same trap.
+**Detailed Explanation:**
+- **Statement 1 is incorrect:** The **Nayankara system** was a **provincial military tenure system**, NOT an urban trade guild. The *Nayakas* were military generals assigned revenue tracts called *Amaram*.
+- **Statement 2 is incorrect:** The **Ayagar system** was NOT a judicial council of royal princes; it was an autonomous **village administrative council comprising 12 hereditary functionaries** (headman/Reddi, accountant/Karnam, blacksmith, watchman/Talaiyari, washerman, etc.) who collectively managed village affairs and held tax-free plots (*Manyam*).
+- **Statement 3 is correct:** Amaranayakas were required to maintain a designated contingent of horses, elephants, and foot soldiers for the imperial army and submit an annual tribute to the king at the Mahanavami festival.
+
+**Key Exam Takeaway / Trap:**
+- *Nayankara system* = Provincial military land tenure (*Amaram*).
+- *Ayagar system* = 12 hereditary village functionaries.
 
 </details>
 
@@ -1686,9 +1959,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Both (A) and (R) are true, but (R) does not by itself explain the UP-capital uniqueness claim — it only supports Jaunpur’s Sharqi cultural identity.
+**Correct Answer:** **A** (Both A and R are true, but R is not the correct explanation of A)
 
-**A/R logic:** A is a geography filter; R is architecture evidence, not the full explanation of uniqueness.
+**Detailed Explanation:**
+- **Assertion (A) is correct:** A succession of prominent foreign travelers visited the Vijayanagara Empire across two centuries: Italian merchant **Nicolo Conti** (visited c. 1420 under Devaraya I), Persian ambassador **Abdur Razzaq** (visited c. 1443 under Devaraya II), and Portuguese travelers **Duarte Barbosa**, **Domingo Paes** (under Krishnadevaraya), and **Fernao Nuniz** (under Achyuta Deva Raya).
+- **Reason (R) is correct:** Abdur Razzaq, an envoy of Timurid ruler Shah Rukh of Persia, famously wrote in his travelogue *Matla-us-Sadain*: "The city of Bijanagar is such that eyes have not seen nor ears heard of any place to resemble it upon the whole earth."
+- **Why (R) does NOT explain (A):** Abdur Razzaq's descriptive praise illustrates his personal admiration for Hampi's grandeur, but does not provide the causal explanation for why multiple travelers across Portugal, Italy, and Persia journeyed there (which was motivated by lucrative spice and horse trade, diplomacy, and exploration).
+
+**Key Exam Takeaway / Trap:**
+- Nicolo Conti = Visited under **Devaraya I** (1420 CE).
+- Abdur Razzaq = Visited under **Devaraya II** (1443 CE).
+- Domingo Paes = Visited under **Krishnadevaraya** (c. 1520 CE).
+- Fernao Nuniz = Visited under **Achyuta Deva Raya** (c. 1535 CE).
 
 </details>
 
@@ -1707,9 +1989,18 @@ D. 2–4–3–1
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Sangama → Saluva → Tuluva → Aravidu.
+**Correct Answer:** **A** (Sangama → Saluva → Tuluva → Aravidu)
 
-**Logic:** Krishnadevaraya is Tuluva peak; Rama Raya falls in the later crisis before Aravidu twilight.
+**Detailed Explanation:**
+The Vijayanagara Empire was governed successively by four distinct dynasties:
+1. **Sangama Dynasty (1336–1485 CE):** Founded by Harihara I and Bukka I; peak under Devaraya II (149 years).
+2. **Saluva Dynasty (1485–1505 CE):** Founded through the "First Usurpation" by Saluva Narasimha to counter imperial disintegration (20 years).
+3. **Tuluva Dynasty (1505–1570 CE):** Founded through the "Second Usurpation" by Vira Narasimha; reached its zenith under **Krishnadevaraya (1509–1529 CE)**; suffered defeat at Talikota in 1565 under Rama Raya.
+4. **Aravidu Dynasty (1570–1646 CE):** Founded by Tirumala Raya (brother of Rama Raya); shifted capital to Penukonda and later Chandragiri.
+
+**Key Exam Takeaway / Trap:**
+- Remember the sequence: **Sangama → Saluva → Tuluva → Aravidu**.
+- Krishnadevaraya belonged to the **Tuluva** dynasty, NOT Sangama.
 
 </details>
 
@@ -1727,9 +2018,16 @@ D. Only 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three statements are correct.
+**Correct Answer:** **C** (Statements 1, 2 and 3 are all correct)
 
-**Logic:** Annexation keys are often given as 1479/1484.
+**Detailed Explanation:**
+- **Statement 1 is correct:** The independent Sultanate of Gujarat was founded by **Zafar Khan (Muzaffar Shah I)** in 1407 CE following the paralysis of Delhi after Timur's invasion.
+- **Statement 2 is correct:** His grandson, **Ahmad Shah I (1411–1442 CE)**, founded the capital city of **Ahmedabad** on the Sabarmati river in **1411 CE**, adorning it with the Jami Masjid and Tin Darwaza.
+- **Statement 3 is correct:** The most celebrated ruler of the dynasty, **Sultan Mahmud Begarha (1459–1511 CE)**, earned the epithet *Begarha* (conqueror of two forts) because he captured the impregnable Rajput hill-fortresses of **Girnar (Junagadh)** in Saurashtra and **Champaner** in central Gujarat.
+
+**Key Exam Takeaway / Trap:**
+- *Begarha* title origin = Capture of **Girnar** and **Champaner** (two forts / *Do Garh*).
+- European traveler Ludovico di Varthema left colorful accounts of Mahmud Begarha's massive mustache and legendary appetite.
 
 </details>
 
@@ -1754,9 +2052,18 @@ D. A-3, B-1, C-2, D-4
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** A-2, B-1, C-3, D-4.
+**Correct Answer:** **A** (A-2, B-1, C-3, D-4)
 
-**Logic:** Amuktamalyada is Telugu; Kitab-i-Nauras is Bijapur.
+**Detailed Explanation:**
+- **A. Krishnadevaraya → 2. Amuktamalyada:** Celebrated epic poem composed in classical Telugu on the life and wedding of the Vaishnava Alwar saint Andal (Goda Devi) and Lord Ranganatha.
+- **B. Ibrahim Adil Shah II → 1. Kitab-i-Nauras:** Masterpiece song collection composed in Dakhani Urdu celebrating musical ragas and syncretic deities.
+- **C. Rana Kumbha → 3. Sangitaraja:** Monumental 5-part Sanskrit encyclopedic treatise on music, dance, and dramaturgy authored by Rana Kumbha of Mewar.
+- **D. Zain-ul-Abidin → 4. Rajatarangini Persian translation & Shikwah:** Patron of Kashmiri letters and sponsor of Persian historical translations.
+
+**Key Exam Takeaway / Trap:**
+- *Amuktamalyada* = Telugu (Krishnadevaraya).
+- *Jambavati Kalyanam* = Sanskrit (Krishnadevaraya).
+- *Sangitaraja* = Sanskrit (Rana Kumbha).
 
 </details>
 
@@ -1774,9 +2081,15 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** All three statements are correct.
+**Correct Answer:** **B** (Statements 1, 2 and 3 are all correct)
 
-**Logic:** Keep Gujarat narrative Mirat-e-Sikandari distinct from Ahmadnagar’s Burhan-e-Masir.
+**Detailed Explanation:**
+- **Statement 1 is correct:** To contest Portuguese expansion in the Arabian Sea, Mahmud Begarha formed a naval coalition with the Mamluk Sultan of Egypt and the Zamorin of Calicut, defeating the Portuguese fleet at the **Battle of Chaul (1508 CE)** (where Portuguese viceroy Almeida's son Lourenço was killed).
+- **Statement 2 is correct:** In **1509 CE**, Portuguese Viceroy Francisco de Almeida routed the combined Muslim fleet at the decisive naval **Battle of Diu**, establishing Portuguese naval dominance in the Indian Ocean.
+- **Statement 3 is correct:** Begarha founded the city of **Mustafabad** at the base of Girnar hill and established **Muhammadabad** at Champaner.
+
+**Key Exam Takeaway / Trap:**
+- Naval Battle of Diu (1509) = **Francisco de Almeida** established Portuguese maritime supremacy (*Cartaz* system).
 
 </details>
 
@@ -1790,9 +2103,17 @@ D. Harihara–Bukka — Bahmani founders at Gulbarga
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Harihara–Bukka founded Vijayanagara (1336), not Bahmani.
+**Correct Answer:** **D** (Harihara & Bukka — Bahmani Kingdom is NOT correctly matched)
 
-**Logic:** Yusuf Adil vs Malik Ahmad is the Bijapur / Ahmadnagar founder trap.
+**Detailed Explanation:**
+- **A. Malik Sarwar — Sharqi dynasty of Jaunpur (Correct):** Assumed power in 1394 CE.
+- **B. Zafar Khan — Gujarat Sultanate (Correct):** Assumed title Muzaffar Shah I in 1407 CE.
+- **C. Alauddin Hasan Bahman Shah — Bahmani Kingdom (Correct):** Founded the Bahmani dynasty in 1347 CE at Gulbarga.
+- **D. Harihara & Bukka — Bahmani Kingdom (INCORRECT):** **Harihara I and Bukka I** founded the **Vijayanagara Empire** in **1336 CE**. They were sworn rivals of the Bahmani Kingdom, NOT its founders.
+
+**Key Exam Takeaway / Trap:**
+- Vijayanagara founders = **Harihara & Bukka (1336 CE)**.
+- Bahmani founder = **Alauddin Hasan Bahman Shah / Hasan Gangu (1347 CE)**.
 
 </details>
 
@@ -1810,9 +2131,14 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** A false, R true.
+**Correct Answer:** **B** (Assertion A is false, but Reason R is true)
 
-**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Gawan’s 1481 death weakened Bahmani; the fivefold split is dated 1518.
+**Detailed Explanation:**
+- **Assertion (A) is false:** Vijayanagara and the Bahmani Kingdom were **never peaceful, friendly allies**. On the contrary, from their very foundations in the 14th century down to the 16th century, they fought almost continuous, bitter, and destructive wars across every reign.
+- **Reason (R) is true:** The fundamental geographic and geopolitical bone of contention was control over the **Raichur Doab** (the highly fertile agricultural tract between the Krishna and Tungabhadra rivers) as well as the diamond mines of Golkonda and the rich trading ports of the Krishna–Godavari delta.
+
+**Key Exam Takeaway / Trap:**
+- The contested borderland buffer between Vijayanagara and the Deccan Sultans was the **Krishna–Tungabhadra (Raichur) Doab**.
 
 </details>
 
@@ -1830,9 +2156,16 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** 2 and 3 only are correct.
+**Correct Answer:** **B** (Statements 2 and 3 only are correct)
 
-**Logic:** Charminar is Qutb Shahi Hyderabad.
+**Detailed Explanation:**
+- **Statement 1 is incorrect:** **Gol Gumbaz** is the mausoleum of **Muhammad Adil Shah** (built c. 1656 CE) of the **Adil Shahi dynasty of Bijapur**, NOT the Nizam Shahis of Ahmadnagar.
+- **Statement 2 is correct:** Gol Gumbaz features a gigantic hemispherical dome covering an unbroken single interior hall without central pillar supports, creating an acoustic whispering gallery where even a faint whisper reverberates multiple times.
+- **Statement 3 is correct:** The **Charminar** in Hyderabad was built in **1591 CE** by **Muhammad Quli Qutb Shah** of Golkonda.
+
+**Key Exam Takeaway / Trap:**
+- Gol Gumbaz = **Bijapur** (Adil Shahi).
+- Charminar = **Hyderabad** (Qutb Shahi).
 
 </details>
 
@@ -1852,9 +2185,15 @@ D. Only 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three statements are correct.
+**Correct Answer:** **C** (Statements 1, 2 and 3 are all correct)
 
-**Logic:** Zain-ul-Abidin’s span 1420–1470 sits just before Gawan’s fall.
+**Detailed Explanation:**
+- **Statement 1 is correct:** Sultan **Sikandar Butshikan (1389–1413 CE)** preceded Zain-ul-Abidin; his reign was marked by iconoclasm and religious fanaticism in Kashmir.
+- **Statement 2 is correct:** **Zain-ul-Abidin (1420–1470 CE)** ushered in an era of enlightened religious tolerance, cultural revival, and administrative justice.
+- **Statement 3 is correct:** In **1479 CE**, Sultan **Bahlul Lodi** of Delhi defeated Sultan Husain Shah Sharqi, formally annexed the Sharqi kingdom of Jaunpur, and placed his son Barbak Shah on the throne of Jaunpur as governor.
+
+**Key Exam Takeaway / Trap:**
+- Annexation of Jaunpur into Delhi Sultanate = **Bahlul Lodi (1479 CE)**.
 
 </details>
 
@@ -1872,9 +2211,16 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Correct Answer:** **D** (Statements 1, 2 and 3 are all correct)
 
-**Logic:** Keep his Bijapur culture distinct from Krishnadevaraya’s Telugu court.
+**Detailed Explanation:**
+- **Statement 1 is correct:** The independent Sultanate of Malwa was established in **1401 CE** by **Dilawar Khan Ghori** at Dhar/Mandu following Timur's sack of Delhi.
+- **Statement 2 is correct:** His son **Hoshang Shah (1406–1435 CE)** transferred the permanent capital to **Mandu**, renaming it **Shadiabad** (*The City of Joy*), and constructed the grand fortress city perched on the Vindhyan plateau.
+- **Statement 3 is correct:** Famous architectural marvels of Mandu include the **Jahaz Mahal** (Ship Palace, built between two artificial lakes), the **Hindola Mahal** (Swinging Palace with sloping buttress walls), and **Hoshang Shah's Tomb** (India's first fully white-marble mausoleum, which served as a major architectural inspiration for the Taj Mahal).
+
+**Key Exam Takeaway / Trap:**
+- *Shadiabad* (City of Joy) = **Mandu (Malwa)**.
+- Prototype of marble tomb architecture = **Hoshang Shah's Tomb at Mandu**.
 
 </details>
 
@@ -1899,9 +2245,16 @@ D. A-3, B-1, C-2, D-4
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** A-2, B-1, C-3, D-4.
+**Correct Answer:** **A** (A-2, B-1, C-3, D-4)
 
-**Logic:** Padmavat sits in the Jaunpur cultural circle.
+**Detailed Explanation:**
+- **A. Sharqi dynasty → 2. Jaunpur (Uttar Pradesh):** Founded by Malik Sarwar (1394–1479 CE).
+- **B. Muzaffarid dynasty → 1. Gujarat:** Founded by Zafar Khan / Muzaffar Shah I (1407–1573 CE).
+- **C. Ilyas Shahi dynasty → 3. Bengal:** Founded by Shamsuddin Ilyas Shah (1342–1487 CE).
+- **D. Farooqi dynasty → 4. Khandesh:** Founded by Malik Raja Farooqi in the Tapti valley (capital Thalner / Burhanpur, 1382–1601 CE).
+
+**Key Exam Takeaway / Trap:**
+- Khandesh (capital Burhanpur/Asirgarh fort) was ruled by the **Farooqi dynasty** until annexed by Akbar in 1601 CE.
 
 </details>
 
@@ -1922,9 +2275,16 @@ D. Only 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 2 is correct.
+**Correct Answer:** **D** (Only Statement 2 is correct)
 
-**Logic:** Stmt 1 false: Talikota / Rakkasa-Tangadi is 23 January 1565, not 1526 (Panipat I year trap). Stmt 3 remains false: it was a Deccan land war, not a naval-only action.
+**Detailed Explanation:**
+- **Statement 1 is incorrect:** The Battle of Talikota (also known as the **Battle of Rakkasa-Tangadi** or *Bannihatti*) was fought on **23 January 1565 CE**, NOT 1526 CE (1526 was First Panipat).
+- **Statement 2 is correct:** In this epic clash, an allied confederacy of **four Deccan Sultanates—Bijapur, Ahmadnagar, Golkonda, and Bidar**—united through matrimonial alliances to crush the Vijayanagara Empire.
+- **Statement 3 is incorrect:** **Berar did NOT participate** in the confederacy against Vijayanagara because of its bitter bilateral enmity with neighboring Ahmadnagar.
+
+**Key Exam Takeaway / Trap:**
+- Which Deccan Sultanate stayed away from the anti-Vijayanagara alliance at Talikota? **Berar (Imad Shahi)**.
+- Commander/Regent of Vijayanagara who was captured and executed = **Rama Raya**.
 
 </details>
 
@@ -1942,9 +2302,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both (A) and (R) are true and (R) explains (A).
+**Correct Answer:** **D** (Both A and R are true, and R is the correct explanation of A)
 
-**A/R logic:** Military course plus cultural patronage define the peak — before Talikota’s later collapse.
+**Detailed Explanation:**
+- **Assertion (A) is correct:** The defeat at the Battle of Talikota (1565 CE) marked the catastrophic, permanent collapse of the imperial glory of the city of **Vijayanagara (Hampi)**.
+- **Reason (R) is correct:** Following the complete routing of the Vijayanagara army and the capture and beheading of Rama Raya, the victorious Sultanate armies occupied the undefended capital and subjected Hampi to systematic plundering, pillage, burning, and sledgehammer destruction that lasted uninterrupted for over five months.
+- **Why (R) explains (A):** The unprecedented physical devastation and deliberate demolition carried out by the combined Sultanate forces reduced the grandest metropolis of South India into an abandoned heap of desolate ruins, directly explaining the imperial collapse asserted in (A).
+
+**Key Exam Takeaway / Trap:**
+- Following the destruction of Hampi, Tirumala Raya salvaged the remnants of the court and established the fourth dynasty (**Aravidu**) at **Penukonda** (Andhra Pradesh).
 
 </details>
 
@@ -1962,9 +2328,15 @@ D. Only 1 and 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** All three statements are correct.
+**Correct Answer:** **A** (Statements 1, 2 and 3 are all correct)
 
-**Logic:** Sharqi gateways/arches differ from Delhi’s arch-dome-minaret idiom.
+**Detailed Explanation:**
+- **Statement 1 is correct:** Sultan **Shamsuddin Ilyas Shah (1342–1357 CE)** formally united the three separate administrative divisions of Bengal (Satgaon, Sonargaon, and Lakhnauti) into an independent, sovereign kingdom and assumed the title *Shah-i-Bangalah*.
+- **Statement 2 is correct:** Sultan **Alauddin Husain Shah (1493–1519 CE)**, founder of the Husain Shahi dynasty, was renowned for extraordinary religious tolerance; contemporary Hindus hailed him as an incarnation of Krishna (*Nripati Tilak* and *Jagat Bhushan*). He patronized the early Gaudiya Vaishnava movement of **Chaitanya Mahaprabhu**.
+- **Statement 3 is correct:** Husain Shah enthusiastically patronized the translation of classical Sanskrit epics into the vernacular Bengali language: poet **Kavindra Parameshwar** translated the *Mahabharata* (the *Parameshvari Mahabharata*) under his royal patronage.
+
+**Key Exam Takeaway / Trap:**
+- Great patron of Bengali literature and Chaitanya Mahaprabhu = **Alauddin Husain Shah (Bengal)**.
 
 </details>
 
@@ -1984,9 +2356,15 @@ D. Only 1 and 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** All three statements are correct.
+**Correct Answer:** **A** (Statements 1, 2 and 3 are all correct)
 
-**Logic:** Firuz founds the city; Malik Sarwar founds the independent Sharqi state.
+**Detailed Explanation:**
+- **Statement 1 is correct:** **Maharana Kumbha (reigned 1433–1468 CE)** of Mewar was an extraordinary warrior-monarch who fortified Mewar by constructing 32 of its 84 fortresses, including the formidable **Kumbhalgarh Fort** (with its 36-km-long perimeter wall).
+- **Statement 2 is correct:** To commemorate his resounding military triumph over the combined armies of Mahmud Khalji of Malwa and the Sultan of Gujarat (Battle of Sarangpur, 1437 CE), Rana Kumbha erected the magnificent 9-storey **Vijay Stambha** (Tower of Victory / *Kirti Stambha*) at Chittorgarh between 1440 and 1448 CE (designed by architect Jaita).
+- **Statement 3 is correct:** He was an erudite musicologist who authored foundational musical treatises, including **Sangitaraja**, **Sangitamimamsa**, and a scholarly commentary on Jayadeva's *Gita Govinda* titled *Rasikapriya*.
+
+**Key Exam Takeaway / Trap:**
+- *Vijay Stambha* at Chittor was built to celebrate the victory over **Malwa (Mahmud Khalji)**, NOT the Mughals.
 
 </details>
 
@@ -2000,9 +2378,17 @@ D. Charminar — Gulbarga Bahmani core mosque
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Charminar is Qutb Shahi Hyderabad.
+**Correct Answer:** **D** (Charminar — Adil Shahi is NOT correctly matched)
 
-**Logic:** Gulbarga/Bidar are Bahmani seats — not Charminar’s home.
+**Detailed Explanation:**
+- **A. Gol Gumbaz — Adil Shahi (Correct):** Built at Bijapur by Muhammad Adil Shah.
+- **B. Mahmud Gawan Madrasa — Bahmani (Correct):** Built at Bidar by prime minister Mahmud Gawan.
+- **C. Atala Mosque — Sharqi (Correct):** Built at Jaunpur by Ibrahim Shah Sharqi.
+- **D. Charminar — Adil Shahi (INCORRECT):** The **Charminar** in Hyderabad was constructed in 1591 CE by Muhammad Quli Qutb Shah of the **Qutb Shahi dynasty of Golkonda/Hyderabad**, NOT the Adil Shahis of Bijapur.
+
+**Key Exam Takeaway / Trap:**
+- Charminar & Golkonda Fort = **Qutb Shahi**.
+- Gol Gumbaz & Ibrahim Rauza = **Adil Shahi**.
 
 </details>
 
@@ -2023,9 +2409,16 @@ D. 1 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 is correct.
+**Correct Answer:** **A** (Only Statement 1 is correct)
 
-**Logic:** Stmt 2 false: Burhan-e-Masir is an Ahmadnagar chronicle; Bengal history is Riyaz-us-Salatin. Stmt 3 remains false: Riyaz-ul-Insha is Gawan’s letters.
+**Detailed Explanation:**
+- **Statement 1 is correct:** **Mirat-e-Sikandari** is the definitive Persian history of the Gujarat Sultanate composed by Sikandar bin Muhammad Manjhu in 1611 CE.
+- **Statement 2 is incorrect:** **Burhan-e-Masir** (written by Sayyid Ali Tabataba) is the history of the **Nizam Shahi dynasty of Ahmadnagar** and the Bahmanis; it does NOT chronicle the Bengal Sultanate (the history of Bengal is *Riyaz-us-Salatin*).
+- **Statement 3 is incorrect:** The celebrated chronicle **Tarikh-i-Firishta** (also known as *Gulshan-i-Ibrahimi*), which provides the most comprehensive history of medieval India and regional sultanates, was composed by Muhammad Qasim Hindu Shah **Firishta** at the court of **Ibrahim Adil Shah II of Bijapur**, NOT at Delhi or Jaunpur.
+
+**Key Exam Takeaway / Trap:**
+- *Tarikh-i-Firishta* was dedicated to **Ibrahim Adil Shah II of Bijapur**.
+- *Burhan-e-Masir* = **Ahmadnagar**.
 
 </details>
 

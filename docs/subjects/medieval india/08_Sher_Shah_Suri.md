@@ -147,7 +147,7 @@ Sher Shah Suri | Administration | Revenue Reforms | Road System | Currency Refor
 
 **1. (UPPCS Prelims 2025, Q79)** Arrange the following battles in chronological order:
 
-1. Kannauj
+1. Kannauj (Bilgram)
 2. Daurah
 3. Samugarh
 4. Chausa
@@ -157,9 +157,17 @@ A. 2-4-3-1 | B. 4-2-1-3 | C. 4-2-3-1 | D. 2-4-1-3
 <details>
 <summary>Show answer</summary>
 
-**Ans: D (2-4-1-3)Order:** Daurah **1532** (Humayun vs Afghan chiefs) → Chausa **1539** (Sher Shah defeats Humayun) → Kannauj/Bilgram **1540** (Sher Shah’s decisive win) → Samugarh **1658** (Aurangzeb (औरंगजेब) vs Dara (दारा)).
+**Correct Answer:** **D** (2-4-1-3: Daurah → Chausa → Kannauj → Samugarh)
 
-**Trap:** Daurah (1532)** is not **Dharmat (धर्मत) (1658)**. Do not place Samugarh before Kannauj.
+**Detailed Explanation:**
+- **2. Battle of Daurah (1532 CE):** Humayun defeated the Afghan confederacy led by Mahmud Lodi and Sher Khan (Sher Shah) along the Gomti river in Barabanki district, UP.
+- **4. Battle of Chausa (26 June 1539 CE):** Fought on the banks of the Karmanasa/Ganga near Buxar, Bihar; Sher Shah launched a surprise dawn attack on Humayun's camp, routing the Mughal army and assuming the royal title *Sher Shah*.
+- **1. Battle of Kannauj / Bilgram (17 May 1540 CE):** Sher Shah decisively defeated Humayun, driving him out of Delhi and Agra into 15 years of Persian exile, thereby founding the Second Afghan (Sur) Empire.
+- **3. Battle of Samugarh (29 May 1658 CE):** Fought over a century later near Agra during the Mughal War of Succession, where Aurangzeb defeated Dara Shikoh.
+- **Chronological Sequence:** 2 (1532) → 4 (1539) → 1 (1540) → 3 (1658) = **2-4-1-3**.
+
+**Key Exam Takeaway / Trap:**
+- *Name Distinction:* Do not confuse **Daurah** (1532 CE, Humayun in UP) with **Dharmat** (1658 CE, Aurangzeb in MP) or **Deorai** (1659 CE, Ajmer).
 
 </details>
 
@@ -186,11 +194,16 @@ D. Jarib — A type of tax
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Jarib is Sher Shah’s **measuring rope** used to fix the **bigha**, not a tax. **Dam** = copper coin (मुद्रा) ✓. **Desai** = revenue collector ✓.
+**Correct Answer:** **D** (Jarib — A type of tax is NOT correctly matched)
 
-**Ans: D.**
+**Detailed Explanation:**
+- **Option D is incorrectly matched (Correct Answer):** **Jarib** was **never** a tax. In Sher Shah Suri's administrative and land revenue reforms, the *Jarib* was the standard **measuring chain/rope** (made of hemp rope, later fitted with iron rings by Akbar) used to physically measure cultivable land and determine the standard land unit (**Bigha**). The surveyor's fee charged for measurement was called *Jaribana* (approx. 2.5%), but *Jarib* itself was strictly the measuring apparatus.
+- **Option A is correctly matched:** The **Dam** was the standard copper coin (weighing ~380 grains) introduced by Sher Shah and continued under Akbar.
+- **Option B is correctly matched:** **Desai** (or *Deshmukh*) was the traditional hereditary revenue collector/accountant at the pargana or district level, particularly in western India and the Deccan.
+- **Option C is correctly matched:** The **Diwan** served as the chief financial and provincial revenue officer responsible for land revenue assessments, collections, and treasury disbursements.
 
-**Trap:** Option C reflects Mughal usage; the clearest NOT-matched fact in this topic is **D**.
+**Key Exam Takeaway / Trap:**
+- *Revenue Vocabulary Trap:* **Jarib** = Measuring rope / survey apparatus; **Jaribana** = Surveyor's fee; **Muhasilana** = Tax collection fee; **Rai** = Crop yield schedule per bigha.
 
 </details>
 
@@ -237,13 +250,15 @@ A. Both true and R explains A | B. Both true, R not explanation | C. A true, R f
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** A is true: Akbar continued **Sher Shah’s** regulated silver **rupiya** and copper **dam** system.
+**Correct Answer:** **A** (Both (A) and (R) are true, and (R) is the correct explanation of (A))
 
-**Ans: A (Both true, R explains A).**
+**Detailed Explanation:**
+- **Assertion (A) is correct:** Sher Shah Suri dismantled the chaotic, debased, mixed-alloy currencies of the late Sultanate and introduced a pure tri-metallic monetary system. Akbar adopted Sher Shah's exact monetary framework, standardizing centralized imperial mints under Khwaja Abdus Samad and regulating silver, copper, and gold coinage.
+- **Reason (R) is correct:** Under both Sher Shah and Akbar, the standard, ubiquitous copper coin of daily exchange, market transactions, and fractional revenue accounting was the **Dam** (weighing approx. 380 grains), officially tariffed under Akbar at the unvarying ratio of **40 Dams to 1 silver Rupiya**.
+- **Why (R) explains (A):** The institutional retention and fixed imperial valuation of the copper Dam directly exemplifies the technical continuity and practical regulation of state currency that Akbar inherited from Sher Shah.
 
-**R is true:** The chief **copper coin** under both was the **Dam** (about 1/40 of a rupiya).
-
-**Why R explains A:** Shared **Dam** standard shows continuity of Sher Shah’s currency regulation under Akbar.
+**Key Exam Takeaway / Trap:**
+- *Tri-metallic Standard:* Gold = **Mohur**; Silver = **Rupiya** (178 grains pure silver); Copper = **Dam** (380 grains; 40 Dams = 1 Rupiya).
 
 </details>
 
@@ -271,15 +286,27 @@ A. Both true and R explains A | B. Both true, R not explanation | C. A true, R f
 
 **Q1. UPPCS Prelims 2025, Q79**
 
-Arrange: 1.Kannauj 2.Daurah 3.Samugarh 4.Chausa
+Arrange the following battles in chronological order:
+1. Kannauj
+2. Daurah
+3. Samugarh
+4. Chausa
 
-Options: A.2-4-3-1 | B.4-2-1-3 | C.4-2-3-1 | D.2-4-1-3
+Options: A. 2-4-3-1 | B. 4-2-1-3 | C. 4-2-3-1 | D. 2-4-1-3
 
 <details><summary>Show answer</summary>
 
-**Ans: D (2-4-1-3)Order:** Daurah **1532** → Chausa **26 June 1539** → Kannauj/Bilgram **17 May 1540** → Samugarh **1658**.
+**Correct Answer:** **D** (2-4-1-3: Daurah → Chausa → Kannauj → Samugarh)
 
-**Trap:** Daurah** is Humayun vs Afghan chiefs, **not** Dharmat (1658) or Chausa (1539).
+**Detailed Explanation:**
+- **2. Battle of Daurah (1532 CE):** Humayun defeated Afghan forces under Mahmud Lodi and Sher Khan in Barabanki district, UP.
+- **4. Battle of Chausa (26 June 1539 CE):** Sher Shah surprised and routed Humayun near Buxar, Bihar; Sher Khan formally proclaimed himself *Sher Shah*.
+- **1. Battle of Kannauj / Bilgram (17 May 1540 CE):** Decisive confrontation in Hardoi/Kannauj, UP, in which Sher Shah completely expelled Humayun from India and established the Sur dynasty.
+- **3. Battle of Samugarh (29 May 1658 CE):** Fought over a century later near Agra during the War of Succession, where Aurangzeb defeated Dara Shikoh.
+- **Chronological Sequence:** 2 (1532) → 4 (1539) → 1 (1540) → 3 (1658) = **2-4-1-3**.
+
+**Key Exam Takeaway / Trap:**
+- *Chronology Anchor:* Always distinguish 1532 **Daurah** (Humayun's early victory) from 1539 **Chausa** and 1540 **Kannauj** (Sher Shah's decisive triumphs).
 
 </details>
 
@@ -294,15 +321,22 @@ D. Mewar
 
 <details><summary>Show answer</summary>
 
-**Ans: C (Marwar)Why:** At **Sammel/Giri-Sumel (1544)** against **Rao Maldeo**, Rathore captains **Jayata** and **Kumpa** stayed loyal and died fighting.
+**Correct Answer:** **C** (Marwar)
 
-**Trap:** Mewar** is Sisodia territory — the fact is **Marwar** under Maldeo.
+**Detailed Explanation:**
+- **Option C is correct:** **Jayata** (Jaita) and **Kumpa** were legendary Rathore generals of **Marwar** serving under Rao Maldeo Rathore. In January 1544 CE, at the **Battle of Sammel** (or *Battle of Giri-Sumel*, near Jaitaran in modern Pali district, Rajasthan), Sher Shah used forged letters to create suspicion between Rao Maldeo and his generals. Although Maldeo retreated with the main army, Jayata and Kumpa refused to leave, attacked Sher Shah's 80,000-strong army with only 12,000 desperate Rathore warriors, and fought so ferociously that the Sur army was nearly routed before being saved by fresh reinforcements under Jalal Khan Julwani.
+- **Historical Outcome:** Impressed and shaken by their suicidal valor, Sher Shah famously uttered: *"For a handful of bajra (millet), I had almost lost the empire of Hindustan!"*
+- **Options A, B, and D are incorrect:** Bundelkhand was the Chandel territory of Kalinjar; Malwa was ruled by Qadir Shah; Mewar was ruled by Rana Udai Singh (Sisodia). Jayata and Kumpa were strictly Rathores of Marwar.
+
+**Key Exam Takeaway / Trap:**
+- *Famous Quote Context:* Sher Shah's famous lament about "a handful of millet" was made after the **Battle of Giri-Sumel (1544 CE)** against the **Rathores of Marwar** (Jayata and Kumpa), NOT against Mewar or Malwa.
 
 </details>
 
 **Q3. UPPCS Prelims 2019, Q12**
 
-A(A): Akbar, like Sher Shah, tried to regulate the currency of the state. R(R): As in Sher Shah’s currency, the chief copper coin of Akbar’s time was the Dam.
+Assertion (A): Akbar, like Sher Shah, tried to regulate the currency of the state.
+Reason (R): As in Sher Shah’s currency, the chief copper coin of Akbar’s time was the Dam.
 
 A. Both true, R explains A
 B. Both true, R not explanation
@@ -311,19 +345,25 @@ D. A false, R true
 
 <details><summary>Show answer</summary>
 
-**A/R logic:** A is true: Akbar continued **Sher Shah's** regulated currency.
+**Correct Answer:** **A** (Both (A) and (R) are true, and (R) is the correct explanation of (A))
 
-**Ans: A (Both true, R explains A).**
+**Detailed Explanation:**
+- **Assertion (A) is correct:** Akbar institutionalized and continued Sher Shah Suri's comprehensive currency reforms, replacing debased Sultanate coins with a uniform tri-metallic monetary system.
+- **Reason (R) is correct:** Under both rulers, the standard copper coin of day-to-day trade and revenue calculation was the **Dam** (approx. 380 grains), with Akbar fixing the official exchange rate at 40 Dams to 1 silver Rupiya.
+- **Why (R) explains (A):** The continuation and official tariffing of the copper Dam demonstrates the exact institutional continuity and regulatory mechanism Akbar adopted from Sher Shah.
 
-**R is true:** Chief **copper coin** was the **Dam** under both.
-
-**Why R explains A:** Shared **Dam** standard shows continuity of regulation.
+**Key Exam Takeaway / Trap:**
+- *Tri-metallic Weight Anchor:* Silver **Rupiya** = 178 grains (pure silver); Copper **Dam** = 380 grains (pure copper); 1 Rupiya = 40 Dams.
 
 </details>
 
 **Q4. UPPCS Prelims 2019, Q13**
 
-I Sarnal II Bilgram III Dharmat IV Jajau
+Arrange the following battles in chronological order:
+I. Battle of Sarnal
+II. Battle of Bilgram
+III. Battle of Dharmat
+IV. Battle of Jajau
 
 A. II-I-III-IV
 B. II-III-IV-I
@@ -332,29 +372,50 @@ D. III-I-II-IV
 
 <details><summary>Show answer</summary>
 
-**Ans: A (II-I-III-IV)Order:** Bilgram/Kannauj **1540** → Sarnal **1739** → Dharmat **1658** → Jajau **1707**.
+**Correct Answer:** **A** (II-I-III-IV: Bilgram → Sarnal → Dharmat → Jajau)
 
-**Trap:** Bilgram** is the same battle as **Kannauj 1540** — not a separate later war.
+**Detailed Explanation:**
+- **II. Battle of Bilgram / Kannauj (17 May 1540 CE):** Sher Shah Suri decisively defeated Humayun, establishing the Sur Empire.
+- **I. Battle of Sarnal (December 1572 CE):** Fought during Akbar's conquest of Gujarat, where Akbar defeated the rebellious Mirzas along the Mahi river. *(Note: Do not confuse Sarnal [1572 CE] with Karnal [1739 CE]).*
+- **III. Battle of Dharmat (15 April 1658 CE):** Aurangzeb and Murad defeated Maharaja Jaswant Singh near Ujjain during the Mughal War of Succession.
+- **IV. Battle of Jajau (18 June 1707 CE):** Prince Muazzam (Bahadur Shah I) defeated Prince Muhammad Azam Shah near Agra after Aurangzeb's death.
+- **Chronological Sequence:** II (1540) → I (1572) → III (1658) → IV (1707) = **II-I-III-IV**.
+
+**Key Exam Takeaway / Trap:**
+- *Sarnal vs Karnal:* **Sarnal (1572 CE)** = Akbar's Gujarat battle; **Karnal (1739 CE)** = Nadir Shah vs Muhammad Shah Rangeela.
 
 </details>
 
 **Q5. UPPCS Prelims 2019, Q87**
 
-NOT correctly matched: A. Dam–Copper | B. Desai–Revenue Collector | C. Diwan–Revenue Chief of a province | D. Jarib–A type of tax
+Which of the following is NOT correctly matched?
+A. Dam — Copper
+B. Desai — Revenue Collector
+C. Diwan — Revenue Chief of a province
+D. Jarib — A type of tax
 
 <details><summary>Show answer</summary>
 
-**Logic:** Jarib is Sher Shah's **measuring rope**, not a tax. **Dam** = copper coin ✓. **Desai** = revenue collector ✓.
+**Correct Answer:** **D** (Jarib — A type of tax is NOT correctly matched)
 
-**Ans: D.**
+**Detailed Explanation:**
+- **Option D is incorrectly matched (Correct Answer):** **Jarib** was a **land measuring rope/chain** used to measure cultivable land and determine the standard bigha; it was never a tax.
+- **Option A is correctly matched:** Dam was the standard copper coin introduced by Sher Shah Suri.
+- **Option B is correctly matched:** Desai was the traditional hereditary revenue official at the pargana level.
+- **Option C is correctly matched:** Diwan was the chief provincial finance and revenue officer.
 
-**Trap:** Option C reflects Mughal usage; the clearest NOT-matched fact is **D**.
+**Key Exam Takeaway / Trap:**
+- *Jarib vs Jaribana:* **Jarib** = Measuring rope; **Jaribana** = Surveyor's assessment fee (approx. 2.5%).
 
 </details>
 
 **Q6. UPPCS Prelims 2019, Q91**
 
-I Rabia Daurani’s Tomb Aurangabad II Sher Shah tomb Sasaram III Humayun’s Tomb Delhi IV Atala Mosque Jaunpur
+Arrange the following monuments in chronological order of construction:
+I. Rabia Daurani’s Tomb (Bibi ka Maqbara), Aurangabad
+II. Sher Shah’s Tomb, Sasaram
+III. Humayun’s Tomb, Delhi
+IV. Atala Mosque, Jaunpur
 
 A. I-II-IV-III
 B. IV-II-III-I
@@ -363,15 +424,23 @@ D. III-IV-II-I
 
 <details><summary>Show answer</summary>
 
-**Ans: B (IV-II-III-I)Order:** Atala Jaunpur (~15th c.) → Sher Shah tomb Sasaram (**1545**) → Humayun's Tomb Delhi (**1565**) → Rabia Daurani Aurangabad (**1678**).
+**Correct Answer:** **B** (IV-II-III-I: Atala Mosque → Sher Shah Tomb → Humayun Tomb → Rabia Daurani Tomb)
 
-**Trap:** Sasaram** is birth place **and** tomb — not **Kalinjar** (death site).
+**Detailed Explanation:**
+- **IV. Atala Mosque, Jaunpur (1408 CE):** Built by Sultan Ibrahim Shah Sharqi; masterpiece of Sharqi architecture.
+- **II. Sher Shah’s Tomb, Sasaram (1545 CE):** Monumental octagonal red sandstone mausoleum designed by Aliwal Khan, rising from an artificial lake in Bihar; completed shortly after Sher Shah's death in 1545 CE.
+- **III. Humayun’s Tomb, Delhi (1565–1572 CE):** Commissioned by Bega Begum and designed by Persian architect Mirak Mirza Ghiyath; pioneer of the Charbagh garden tomb style.
+- **I. Rabia Daurani’s Tomb (Bibi ka Maqbara), Aurangabad (1678 CE):** Built by Prince Azam Shah in memory of his mother Dilras Banu Begum (Rabia Daurani).
+- **Chronological Sequence:** IV (1408) → II (1545) → III (1572) → I (1678) = **IV-II-III-I**.
+
+**Key Exam Takeaway / Trap:**
+- *Sasaram Tomb Features:* Built in the middle of a square lake; octagonal design; Indo-Islamic architectural bridge between the Lodi style and Mughal architecture.
 
 </details>
 
-**Q7. UPPCS Prelims 2018, Q94 (Purana Qila overlap)**
+**Q7. UPPCS Prelims 2018, Q94 (Purana Qila Overlap)**
 
-Khayr-ul-Manazil opposite Purana Qila constituted by?
+Khayr-ul-Manazil opposite Purana Qila was constructed by?
 
 A. Hamida Banu
 B. Salima Sultan
@@ -380,15 +449,17 @@ D. Maham Anaga
 
 <details><summary>Show answer</summary>
 
-**Ans: D (Maham Anaga)Why:Khayr-ul-Manazil** opposite **Purana Qila** was built by **Maham Anaga** in **Akbar's** reign. **Purana Qila** itself is **Sher Shah's** Delhi fort.
+**Correct Answer:** **D** (Maham Anaga)
 
-**Trap:** Sher Shah rebuilt Purana Qila, but the mosque opposite is **not** his work.
+**Detailed Explanation:**
+- **Option D is correct:** **Khayr-ul-Manazil** (a mosque and madrasa located directly opposite the Purana Qila in Delhi) was constructed in **1561–62 CE** by **Maham Anaga**, Emperor Akbar's influential foster mother and head of the imperial harem during the "Petticoat Government" period (1560–1562 CE), with the assistance of Shihabuddin Ahmad Khan. In 1564 CE, an assassination attempt on Akbar took place near this mosque.
+- **Options A, B, and C are incorrect:** Hamida Banu was Akbar's mother; Salima Sultan was Bairam Khan's widow (later married by Akbar); Jiji Anga was another foster mother (mother of Mirza Aziz Koka).
+- **Purana Qila Connection:** The citadel itself (*Purana Qila*) was built by Sher Shah Suri (incorporating Humayun's *Dinpanah*), containing Sher Shah's *Qila-i-Kuhna Mosque* and *Sher Mandal*, but the mosque *opposite* the fort (*Khayr-ul-Manazil*) was built by Maham Anaga.
 
-</details>
+**Key Exam Takeaway / Trap:**
+- *Purana Qila Buildings:* Inside Purana Qila = **Qila-i-Kuhna Mosque** & **Sher Mandal** (built by Sher Shah). Opposite Purana Qila = **Khayr-ul-Manazil** (built by Maham Anaga under Akbar).
 
----
-
-## Ghatnachakra Extra Drill — Sher Shah (UPPCS first)
+</details>## Ghatnachakra Extra Drill — Sher Shah (UPPCS first)
 
 Teaching for these stems sits in **8.1–8.6**.
 
@@ -519,7 +590,16 @@ D. Jarib — A type of tax
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** **Jarib** is the **measuring rope**, not a tax. **Dam** = copper coin. **Desai/Amil** = collector.
+**Correct Answer:** **D** (Jarib — A type of tax)
+
+**Detailed Explanation:**
+- **Option D is NOT correctly matched (hence the correct answer):** **Jarib** was a physical **land-measuring standard unit/rope** (made of hemp or bamboo links joined by iron rings) used during land surveys to demarcate bighas, not a tax. The tax levied to cover the surveying expenses was called **Jaribana** (survey fee, usually 2.5% of revenue).
+- **Option A is correctly matched:** **Dam** was the standard copper coin introduced by Sher Shah, weighing around 380 grains (1 silver Rupiya = 64 copper Dams).
+- **Option B is correctly matched:** **Desai** (or *Amil*) was the key local revenue-collecting official in parganas and rural districts.
+- **Option C is correctly matched:** **Diwan** was the chief provincial or imperial finance and revenue officer responsible for state accounts.
+
+**Key Exam Takeaway / Trap:**
+- Watch the linguistic distinction: **Jarib = Survey measuring rope/instrument**. **Jaribana = Survey fee/cess**. **Muhasilana = Tax collection fee**.
 
 </details>
 
@@ -559,7 +639,7 @@ D. Sammel (1544)
 
 ## Practice Zone — UPPCS Format Drill
 
-> **30 questions** | Original drill (not a PYQ dump) | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D | **Ans first, then Logic**
+> **30 questions** | Original drill (not a PYQ dump) | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D | **Ans first, then Detailed Explanation**
 
 **Q1.** With reference to Sher Shah’s rise, which of the following statements is/are correct?
 
@@ -575,9 +655,15 @@ D. Only 1 and 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** 1 and 2 only are correct.
+**Correct Answer:** **D** (1 and 2 only are correct)
 
-**Logic:** Sher Shah used branding and standing forces; hereditary mansabdari is Akbar’s system.
+**Detailed Explanation:**
+- **Statement 1 is correct:** Originally named **Farid Khan** (born at Sasaram, Bihar to Hasan Khan Sur, a jagirdar), he was awarded the title **Sher Khan** by Bahar Khan Lohani (ruler of Bihar) after single-handedly slaying a tiger. Following his decisive victory over Humayun at Kannauj (1540 CE), he assumed the royal imperial style **Sher Shah Sultan-i-Adil**.
+- **Statement 2 is correct:** Although Sher Shah's personal reign was exceptionally brief (1540–1545 CE, five years), his administrative innovations in land revenue, provincial organization, currency, and communication networks served as the direct administrative blueprint adopted and institutionalized by Akbar.
+- **Statement 3 is incorrect:** Sher Shah maintained a direct standing military force using branding of horses (*Dagh*) and descriptive rolls (*Chehra*), modeled on Alauddin Khalji. The elaborate **Mansabdari** system (with its *Zat* and *Sawar* ranks) was formulated decades later by Emperor **Akbar**, and it was strictly **non-hereditary**.
+
+**Key Exam Takeaway / Trap:**
+- *Name Progression:* **Farid Khan** (childhood name) → **Sher Khan** (title in Bihar) → **Sher Shah** (imperial title from 1540 CE).
 
 </details>
 
@@ -587,6 +673,8 @@ D. Only 1 and 2
 2. Course: On 26 June 1539 Sher Shah defeated Humayun; Humayun escaped on a mashak.
 3. Result: Humayun immediately recovered Delhi without further fighting.
 
+Which of the statements given above is/are correct?
+
 A. 1 and 2
 B. All 1, 2 and 3
 C. 2 and 3
@@ -595,9 +683,15 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** 1 and 2 only are correct.
+**Correct Answer:** **A** (1 and 2 only are correct)
 
-**Logic:** Decisive exile followed Kannauj 1540, not immediate recovery after Chausa.
+**Detailed Explanation:**
+- **Statement 1 is correct (Cause):** While Humayun was returning from Bengal, Sher Khan blocked his route along the Ganga, challenging Mughal supremacy over eastern and northern India.
+- **Statement 2 is correct (Course):** On 26 June 1539 CE, Sher Khan launched a surprise night attack on the Mughal camp at Chausa (near Buxar, Bihar). Humayun's army was shattered; Humayun plunged into the Ganga on horseback and was rescued from drowning by a humble water-carrier (*bhishti*) named Nizam using an inflated leather water-skin (*mashak*). (Humayun later rewarded Nizam with a half-day reign on the Mughal throne, during which Nizam issued leather coins).
+- **Statement 3 is incorrect (Result):** Humayun did *not* recover Delhi; on the contrary, Sher Khan assumed the title *Sher Shah*, advanced west, and fought the Battle of Kannauj/Bilgram in 1540 CE, where he decisively expelled Humayun from India.
+
+**Key Exam Takeaway / Trap:**
+- *Battle of Chausa Details:* Date: **26 June 1539 CE**; Site: Near Buxar on Ganga; Savior: **Nizam the Bhishti** (*mashak*); Result: Sher Khan took the title **Sher Shah**.
 
 </details>
 
@@ -617,9 +711,15 @@ D. 2 and 3 only
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only pair 3 is not correctly matched.
+**Correct Answer:** **B** (3 only is NOT correctly matched)
 
-**Logic:** Jarib is the rope (not a tax); Desai/Amil is the collector.
+**Detailed Explanation:**
+- **Pair 1 is correctly matched:** *Jarib* was the standardized measuring rope used by Sher Shah's revenue officers to measure cultivable land and establish the standard *bigha*.
+- **Pair 2 is correctly matched:** *Rai* was the schedule of crop rates per bigha based on land fertility classifications (good, middling, bad).
+- **Pair 3 is NOT correctly matched (Correct Answer):** *Desai* (or *Amil*) was a revenue officer/collector, not a "measuring rope tax". The surveyor's fee charged for measurement was called *Jaribana* (approx. 2.5%), and the tax collector's fee was *Muhasilana* (approx. 5%).
+
+**Key Exam Takeaway / Trap:**
+- *Revenue Officers vs Levies:* **Desai/Amil** = Revenue collector; **Jarib** = Measuring rope; **Jaribana** = Survey fee; **Muhasilana** = Collection fee.
 
 </details>
 
@@ -639,9 +739,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both A and R are true and R correctly explains the consequence of A.
+**Correct Answer:** **D** (Both (A) and (R) are true and (R) is the correct explanation of (A))
 
-**A/R logic:** Kannauj is the decisive Sur victory that opens Humayun’s exile years.
+**Detailed Explanation:**
+- **Assertion (A) is correct:** On 17 May 1540 CE, the Battle of Kannauj (also known as the Battle of Bilgram, in Hardoi district, UP) was fought between Sher Shah and Humayun. Humayun's large but demoralized army was routed without any major artillery engagement due to heavy rains flooding the Mughal camp.
+- **Reason (R) is correct:** The defeat at Kannauj was absolute; Humayun lost Delhi and Agra, wandered through Rajasthan and Sindh, and lived in exile at the Safavid court of Shah Tahmasp in Persia for 15 years, finally recovering Delhi and Agra in 1555 CE after the Sur Empire fragmented.
+- **Why (R) explains (A):** The decisive strategic nature of the Battle of Kannauj is demonstrated precisely by Humayun's complete displacement from India and his fifteen-year political exile.
+
+**Key Exam Takeaway / Trap:**
+- *Bilgram = Kannauj:* Bilgram and Kannauj refer to the exact same battle on **17 May 1540 CE**, which founded the Second Afghan Empire.
 
 </details>
 
@@ -662,20 +768,28 @@ D. 2-1-4-3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Daurah 1532 → Chausa 1539 → Kannauj 1540 → Kalinjar 1545.
+**Correct Answer:** **A** (2-4-1-3: Daurah → Chausa → Kannauj → Kalinjar)
 
-**Logic:** Daurah is Humayun vs Afghans — not Sher Shah’s Chausa.
+**Detailed Explanation:**
+- **2. Battle of Daurah (1532 CE):** Humayun defeated the Afghan chiefs in UP.
+- **4. Battle of Chausa (June 1539 CE):** Sher Shah routed Humayun near Buxar.
+- **1. Battle of Kannauj / Bilgram (May 1540 CE):** Decisive Sur victory expelling Humayun.
+- **3. Death of Sher Shah at Kalinjar (May 1545 CE):** Sher Shah died from an accidental gunpowder explosion during the siege of Kalinjar fort in Bundelkhand.
+- **Chronological Sequence:** 2 (1532) → 4 (1539) → 1 (1540) → 3 (1545) = **2-4-1-3**.
+
+**Key Exam Takeaway / Trap:**
+- *Sher Shah Timeline Spine:* Daurah (1532) → Chausa (1539) → Kannauj (1540) → Kalinjar Siege/Death (1545).
 
 </details>
 
 **Q6.** Match List-I with List-II and select the correct answer from the code given below:
 
-| List-I | List-II |
-|--------|---------|
+| List-I (Term) | List-II (Role / Meaning) |
+|---------------|--------------------------|
 | A. Shiqdar | 1. Accounts at pargana |
 | B. Munshif | 2. Law and order at pargana |
-| C. Amil / Desai | 3. Collection |
-| D. Patta | 4. State document to peasant |
+| C. Amil / Desai | 3. Land revenue collection |
+| D. Patta | 4. State title deed to peasant |
 
 *Row order is not the answer code.*
 
@@ -687,9 +801,16 @@ D. A-3, B-1, C-2, D-4
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Shiqdar–law/order; Munshif–accounts; Amil/Desai–collection; Patta–state document.
+**Correct Answer:** **A** (A-2, B-1, C-3, D-4)
 
-**Logic:** Qabuliat is the peasant’s written acceptance — do not swap with patta.
+**Detailed Explanation:**
+- **A. Shiqdar → 2. Law and order at pargana:** Military executive officer maintaining law, order, and police administration in the pargana.
+- **B. Munshif (or Amin) → 1. Accounts/civil justice at pargana:** Handled judicial matters, assessment records, and civil disputes at the pargana level.
+- **C. Amil / Desai → 3. Land revenue collection:** Responsible for assessing and physically collecting the agrarian taxes from peasants.
+- **D. Patta → 4. State title deed to peasant:** Formal imperial document granted by the state to the cultivator specifying the area of his land and the exact revenue dues demanded.
+
+**Key Exam Takeaway / Trap:**
+- *Pargana Officials:* Each Pargana had a **Shiqdar** (executive/military), an **Amil** (revenue collector), a **Munsif/Amin** (measurement and civil justice), and two **Karkuns** (clerks writing in Persian and Hindi).
 
 </details>
 
@@ -709,16 +830,22 @@ D. 1 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** All three statements are correct.
+**Correct Answer:** **A** (All 1, 2 and 3 are correct)
 
-**Logic:** Rupiya–dam–mohur is the Sur–Mughal continuity tag.
+**Detailed Explanation:**
+- **Statement 1 is correct:** Sher Shah introduced the silver **Rupiya** weighing **178 grains** (with 173 grains of pure silver), which became the precursor to the modern Indian Rupee.
+- **Statement 2 is correct:** He introduced the standard copper coin **Dam** weighing approx. **380 grains**, which circulated at the ratio of **40 Dams to one silver Rupiya**.
+- **Statement 3 is correct:** He minted the gold **Mohur** (approx. 169 grains); Emperor Akbar retained Sher Shah's tri-metallic system and continued the copper Dam as the standard medium of exchange.
+
+**Key Exam Takeaway / Trap:**
+- *Coin Weights:* Silver Rupiya = **178 grains**; Copper Dam = **380 grains**; Gold Mohur = **169 grains**.
 
 </details>
 
 **Q8.** With reference to the Grand Trunk Road under Sher Shah, which of the following statements is/are correct?
 
 1. It ran from Sonargaon in Bengal to Peshawar.
-2. Sarais stood about every 12 kos.
+2. Sarais stood about every 2 kos.
 
 Select the correct answer from the code given below:
 
@@ -730,9 +857,14 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Both statements are correct.
+**Correct Answer:** **C** (Both 1 and 2 are correct)
 
-**Logic:** Sonargaon–Peshawar + sarai spacing is the road must-score.
+**Detailed Explanation:**
+- **Statement 1 is correct:** Sher Shah constructed the historic **Sadak-i-Azam** (known in British times as the **Grand Trunk Road** / GT Road), which spanned approximately 1,500 kos (around 2,500 km) from **Sonargaon** (near modern Dhaka, Bangladesh) via Patna, Varanasi, Allahabad, Agra, Delhi, and Lahore to **Peshawar** (modern Pakistan).
+- **Statement 2 is correct:** Along the highways, Sher Shah constructed approximately **1,700 Sarais** (inns/rest-houses) spaced approximately every **two kos** (about 4 miles / 6 km), providing separate lodgings and free meals for Hindu and Muslim travelers, horse posts for royal couriers (*dak chowki*), and wells with shaded trees.
+
+**Key Exam Takeaway / Trap:**
+- *Four Imperial Roads:* 1. Sonargaon to Peshawar (Sadak-i-Azam / GT Road); 2. Agra to Burhanpur; 3. Agra to Jodhpur and Chittor; 4. Lahore to Multan.
 
 </details>
 
@@ -752,9 +884,14 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** A is false and R is true.
+**Correct Answer:** **B** ((A) is false, but (R) is true)
 
-**A/R logic:** Jarib is the measuring rope, not a tax; R correctly states land class and rai.
+**Detailed Explanation:**
+- **Assertion (A) is completely false:** *Jarib* was **not** a tax; it was the standard **measuring rope** used to survey land. The surveyor's fee was *Jaribana*, but Jarib itself was an instrument of measurement.
+- **Reason (R) is completely true:** For revenue assessment under Sher Shah's *Zabt* system, cultivable land was categorized into three classes: **good** (*uttam*), **middling** (*madhyam*), and **bad** (*kharab*). An average yield was computed, and the state demand (*Rai*) was generally fixed at **one-third (1/3rd)** of the average produce, payable in cash or kind.
+
+**Key Exam Takeaway / Trap:**
+- *Revenue Rate:* Sher Shah generally collected **one-third (33.3%)** of the average gross produce as land revenue.
 
 </details>
 
@@ -764,93 +901,123 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Course: Jayata and Kumpa, loyal Marwar Rathore captains, died fighting.
 3. Result: Jayata–Kumpa are correctly remembered as Mewar Sisodia warriors.
 
-A. 1 and 3
-B. Only 1
-C. Only 1 and 2
-D. Only 3
+Which of the statements given above is/are correct?
+
+A. 1 and 2
+B. Only 2 and 3
+C. All 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** 1 and 2 only are correct.
+**Correct Answer:** **A** (1 and 2 only are correct)
 
-**Logic:** Jayata–Kumpa are Marwar (Rathore), not Mewar — statement 3 is the trap.
+**Detailed Explanation:**
+- **Statement 1 is correct (Cause):** Sher Shah invaded Rajasthan in 1543–44 CE to neutralize the expanding power of Rao Maldeo Rathore, the ambitious ruler of Marwar (Jodhpur).
+- **Statement 2 is correct (Course):** In January 1544 at Giri-Sumel, despite Maldeo withdrawing due to forged letters planted by Sher Shah, Rathore commanders **Jayata** and **Kumpa** launched a ferocious assault that nearly wiped out the Sur army before falling heroically on the battlefield.
+- **Statement 3 is incorrect (Result):** Jayata and Kumpa were **Rathores of Marwar**, **never** Sisodias of Mewar.
+
+**Key Exam Takeaway / Trap:**
+- *Clan Confusion:* Jayata and Kumpa = **Rathores of Marwar** (Jodhpur), not Sisodias of Mewar (Udaipur/Chittor).
 
 </details>
 
 **Q11.** Which of the following pairs is/are NOT correctly matched?
 
-1. Rohtas — Bihar fort against Humayun’s return
-2. Purana Qila — Delhi citadel; Qila-i-Kuhna mosque inside
-3. Khayr-ul-Manazil — built by Sher Shah beside Purana Qila
+1. Qila-i-Kuhna Mosque — Delhi (Purana Qila)
+2. Sher Mandal — Delhi (Purana Qila)
+3. Rohtas Fort (Punjab, Jhelum) — Built to suppress Gakhars
+4. Sher Shah Tomb — Kalinjar
 
 Select the correct answer from the code given below:
 
-A. 1 only
+A. 1 and 2
 B. 3 only
-C. 2 and 3 only
-D. 1 and 2 only
+C. 4 only
+D. 2 and 4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only pair 3 is not correctly matched.
+**Correct Answer:** **C** (4 only is NOT correctly matched)
 
-**Logic:** Khayr-ul-Manazil was built by Maham Anaga in Akbar’s era, not by Sher Shah.
+**Detailed Explanation:**
+- **Pair 4 is NOT correctly matched (Correct Answer):** Sher Shah's majestic tomb is located at **Sasaram** (Rohtas district, Bihar), standing in the middle of a large square artificial lake. **Kalinjar** (Banda district, UP) was the fort where Sher Shah was killed in battle in 1545 CE; his body was carried to Sasaram for burial.
+- **Pair 1 is correctly matched:** *Qila-i-Kuhna Mosque* is an architectural masterpiece of the Sur period located inside the Purana Qila complex in Delhi.
+- **Pair 2 is correctly matched:** *Sher Mandal* is an octagonal two-storey sandstone pavilion inside Purana Qila, later used by Humayun as a library (from whose stairs he tragically fell to his death in 1556 CE).
+- **Pair 3 is correctly matched:** *Rohtas Fort* (near Jhelum in modern Pakistan, a UNESCO World Heritage Site) was constructed by Sher Shah to block the route of Humayun and contain the hostile Gakhar tribes.
+
+**Key Exam Takeaway / Trap:**
+- *Death Site vs Tomb:* Sher Shah **died at Kalinjar** (Bundelkhand, UP); Sher Shah is **buried at Sasaram** (Bihar).
 
 </details>
 
 **Q12.** With reference to Sher Shah’s death and succession, which of the following statements is/are correct?
 
-1. He died in May 1545 at the Kalinjar siege from a gunpowder blast.
-2. His tomb is the lake mausoleum at Sasaram.
-3. Islam Shah (Jalal Khan) ruled about 1545–1553.
+1. Sher Shah died during the siege of Kalinjar in 1545 due to an accidental gunpowder explosion.
+2. He was succeeded by his son Jalal Khan under the title Islam Shah.
+3. Islam Shah codified regulations into formal laws and reigned until c. 1553.
 
 Select the correct answer from the code given below:
 
-A. Only 2 and 3
-B. Only 1
-C. 1 and 2
+A. 1 and 2
+B. 2 and 3
+C. Only 1
 D. All 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Correct Answer:** **D** (All 1, 2 and 3 are correct)
 
-**Logic:** Sasaram = birth + tomb; Kalinjar = death siege.
+**Detailed Explanation:**
+- **Statement 1 is correct:** On 22 May 1545 CE, while besieging the Chandel fort of Kalinjar (Banda district, UP), a rocket/grenade (*huqqa*) rebounded off the fort wall into a stockpile of ammunition, severely burning Sher Shah, who lived just long enough to hear the news that the fort had been stormed.
+- **Statement 2 is correct:** Following his death, his second son Jalal Khan ascended the throne with the title **Islam Shah Suri** (reigned 1545–1553/54 CE).
+- **Statement 3 is correct:** Islam Shah maintained military discipline, curtailed the autonomy of Afghan tribal chiefs, and codified comprehensive civil and military regulations into a written legal code.
+
+**Key Exam Takeaway / Trap:**
+- *Succession Chain:* Sher Shah (1540–1545) → **Islam Shah** (1545–1553) → Muhammad Adil Shah / Sikandar Sur (internal collapse leading to Humayun's return in 1555).
 
 </details>
 
 **Q13.** Match List-I with List-II and select the correct answer from the code given below:
 
-| List-I (Office) | List-II (Charge) |
-|-----------------|------------------|
-| A. Diwan-i-Wazarat | 1. Army |
-| B. Diwan-i-Ariz | 2. Finance |
-| C. Diwan-i-Risalat | 3. Grants |
+| List-I (Ruler/Dynasty) | List-II (Monument) |
+|------------------------|--------------------|
+| A. Ibrahim Shah Sharqi | 1. Atala Mosque, Jaunpur |
+| B. Sher Shah Suri | 2. Sasaram Tomb & Purana Qila |
+| C. Bega Begum / Akbar | 3. Humayun’s Tomb, Delhi |
+| D. Prince Azam Shah | 4. Bibi ka Maqbara, Aurangabad |
 
 *Row order is not the answer code.*
 
-A. A-2, B-1, C-3
-B. A-1, B-2, C-3
-C. A-2, B-3, C-1
-D. A-3, B-1, C-2
+A. A-1, B-2, C-3, D-4
+B. A-2, B-1, C-4, D-3
+C. A-1, B-3, C-2, D-4
+D. A-3, B-2, C-1, D-4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Wazarat–finance; Ariz–army; Risalat–grants.
+**Correct Answer:** **A** (A-1, B-2, C-3, D-4)
 
-**Logic:** Keep centre office tags separate from pargana Shiqdar/Munshif.
+**Detailed Explanation:**
+- **A. Ibrahim Shah Sharqi → 1. Atala Mosque, Jaunpur (1408 CE):** Sharqi architectural gem with iconic pylons.
+- **B. Sher Shah Suri → 2. Sasaram Tomb & Purana Qila (1540–1545 CE):** The lake tomb of Sasaram and the Delhi citadel.
+- **C. Bega Begum / Akbar → 3. Humayun’s Tomb, Delhi (1565–1572 CE):** The first monumental double-domed garden tomb of Mughal India.
+- **D. Prince Azam Shah → 4. Bibi ka Maqbara, Aurangabad (1678 CE):** Built for Dilras Banu Begum (Rabia Daurani).
+
+**Key Exam Takeaway / Trap:**
+- *Matching Code:* A-1, B-2, C-3, D-4 (**Option A**).
 
 </details>
 
 **Q14.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): Todar Mal trained under Sher Shah’s revenue measurement practice.
+Assertion (A): Sher Shah is acclaimed as one of the greatest administrative reformers of medieval India.
 
-Reason (R): That measurement tradition later fed into Akbar’s zabt–dahsala world.
+Reason (R): His land revenue survey, currency standards, and highway infrastructure served as the direct foundation for Akbar’s imperial administration.
 
 Select the correct answer from the code given below:
 
@@ -862,39 +1029,53 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both A and R are true and R correctly explains the link in A.
+**Correct Answer:** **D** (Both (A) and (R) are true and (R) is the correct explanation of (A))
 
-**A/R logic:** Sur revenue training is the bridge into Akbar’s Todar Mal system.
+**Detailed Explanation:**
+- **Assertion (A) is correct:** Historians universally regard Sher Shah Suri as a brilliant administrative genius who transformed medieval governance within a span of just five years.
+- **Reason (R) is correct:** Sher Shah's systems—land measurement (*Zabt*), standardized weights, pure silver Rupiya and copper Dam, and highways connecting eastern and western frontiers—were directly inherited, refined, and institutionalized by Emperor Akbar (aided by Raja Todar Mal, who began his administrative career under Sher Shah).
+- **Why (R) explains (A):** The enduring institutional legacy of Sher Shah's reforms and their adoption by the Mughal Empire as their administrative bedrock is the exact historical justification for his high acclaim.
+
+**Key Exam Takeaway / Trap:**
+- *Todar Mal Connection:* Raja Todar Mal served Sher Shah Suri before becoming Akbar's famous finance minister, providing direct institutional continuity.
 
 </details>
 
 **Q15.** With reference to name titles of Farid, which of the following statements is/are correct?
 
-1. He was educated at Jaunpur (Siraj-i-Hind tradition).
-2. Hazrat-e-Ala belongs to his Bengal-service phase.
-3. The imperial title Sher Shah follows after Chausa (1539) / Padshah from 1540.
+1. Farid Khan was his original birth name.
+2. Bahar Khan Lohani of Bihar bestowed the title Sher Khan upon him.
+3. He assumed the title Sher Shah Sultan-i-Adil after the Battle of Chausa and Kannauj.
 
 Select the correct answer from the code given below:
 
-A. Only 1, 2 and 3
-B. Only 2 and 3
-C. Only 1
-D. Only 1 and 2
+A. Only 1 and 2
+B. 1, 2 and 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** All three statements are correct.
+**Correct Answer:** **B** (All 1, 2 and 3 are correct)
 
-**Logic:** Name ladder: Farid → Sher Khan → Sher Shah; Hazrat-e-Ala ≠ imperial Sher Shah.
+**Detailed Explanation:**
+- **Statement 1 is correct:** His original birth name was **Farid Khan**, born into the Sur clan of the Pashtun (Afghan) tribe.
+- **Statement 2 is correct:** He was conferred the title **Sher Khan** by Sultan Muhammad Shah (Bahar Khan Lohani), the independent Afghan governor of Bihar, after Farid killed a tiger with a single blow of his sword.
+- **Statement 3 is correct:** After crushing Humayun at Chausa (1539 CE) and Kannauj (1540 CE), he held a grand coronation and adopted the imperial title **Farid-ud-din Sher Shah Sultan-i-Adil**, striking coins and reading the *Khutba* in his name.
+
+**Key Exam Takeaway / Trap:**
+- *Farid's Title Stages:* Farid Khan (Childhood/Sasaram) → Sher Khan (Bihar Lohani court) → Sher Shah (Imperial Padshah from 1539/1540 CE).
 
 </details>
 
 **Q16.** Consider the following statements about patta and qabuliat:
 
-1. Both terms mean the same copper coin denomination.
-2. Patta was the state document issued to the peasant.
-3. Qabuliat was the peasant’s written acceptance.
+1. Patta and Qabuliat were gold and silver coins of Sher Shah.
+2. Patta was the state title deed given to the peasant showing land and tax dues.
+3. Qabuliat was the peasant’s written acceptance of the tax obligation.
+
+Which of the statements given above is/are correct?
 
 A. Only 3
 B. Only 2 and 3
@@ -904,18 +1085,24 @@ D. Only 1 and 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** 2 and 3 only are correct.
+**Correct Answer:** **B** (2 and 3 only are correct)
 
-**Logic:** Patta/qabuliat are revenue documents, not coin names.
+**Detailed Explanation:**
+- **Statement 1 is incorrect:** *Patta* and *Qabuliat* were **land revenue contractual documents**, **not** coins.
+- **Statement 2 is correct:** **Patta** was an official written title deed issued by the government to the peasant stating the precise area of cultivated land, its classification, and the exact revenue demand payable to the state.
+- **Statement 3 is correct:** **Qabuliat** was the corresponding deed of agreement executed by the peasant in writing, promising to cultivate the land and pay the specified revenue to the imperial treasury without default.
+
+**Key Exam Takeaway / Trap:**
+- *Contractual Triad:* State gives **Patta** (deed) → Peasant submits **Qabuliat** (acceptance/undertaking). This system protected peasants from arbitrary extortion by corrupt officials.
 
 </details>
 
 **Q17.** Arrange the following events in chronological order:
 
-1. Sammel / Giri-Sumel
-2. Chausa
+1. Battle of Sammel / Giri-Sumel
+2. Battle of Chausa
 3. Humayun’s return to Delhi–Agra
-4. Islam Shah’s reign begins
+4. Accession of Islam Shah Suri
 
 Select the correct answer from the code given below:
 
@@ -927,9 +1114,17 @@ D. 2-1-3-4
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Chausa 1539 → Sammel 1544 → Islam Shah 1545 → Humayun return 1555.
+**Correct Answer:** **A** (2-1-4-3: Chausa → Sammel → Islam Shah → Humayun's return)
 
-**Logic:** Keep Sur battles before Islam Shah and Humayun’s 1555 recovery.
+**Detailed Explanation:**
+- **2. Battle of Chausa (June 1539 CE):** Sher Shah routed Humayun near Buxar.
+- **1. Battle of Sammel / Giri-Sumel (January 1544 CE):** Sher Shah defeated the Rathores of Marwar in Rajasthan.
+- **4. Accession of Islam Shah Suri (May 1545 CE):** Following Sher Shah's death at Kalinjar, Jalal Khan crowned himself as Islam Shah.
+- **3. Humayun's return to Delhi–Agra (July 1555 CE):** Humayun defeated Sikandar Shah Suri at Sirhind and re-entered Delhi.
+- **Chronological Sequence:** 2 (1539) → 1 (1544) → 4 (1545) → 3 (1555) = **2-1-4-3**.
+
+**Key Exam Takeaway / Trap:**
+- *Event Milestones:* Chausa (1539) → Sammel (1544) → Kalinjar/Islam Shah (1545) → Sirhind/Humayun's restoration (1555).
 
 </details>
 
@@ -949,9 +1144,15 @@ D. 1 and 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** All three statements are correct.
+**Correct Answer:** **A** (All 1, 2 and 3 are correct)
 
-**Logic:** Dagh + barid + qazi-outside-revenue are Sur admin tags.
+**Detailed Explanation:**
+- **Statement 1 is correct:** Reviving Alauddin Khalji's military discipline, Sher Shah enforced the compulsory branding of cavalry horses (**Dagh**) and maintenance of descriptive descriptive rolls of every soldier (**Chehra**), personally inspecting soldiers before disbursing cash salaries.
+- **Statement 2 is correct:** An extensive intelligence network of spies and news-reporters (**Barids**) was stationed throughout the provinces to report on corrupt officials, frontier rebellions, and market prices directly to the emperor.
+- **Statement 3 is correct:** Judicial administration was headed by the **Qazi** in towns and parganas, deciding civil and criminal cases according to Sharia independently of the revenue administration.
+
+**Key Exam Takeaway / Trap:**
+- *Military Integrity:* Sher Shah eliminated fraudulent proxy horses and mercenary ghost soldiers via strict enforcement of **Dagh** and **Chehra**.
 
 </details>
 
@@ -965,9 +1166,14 @@ D. Bilgram is Sher Shah’s Kalinjar siege
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Bilgram and Kannauj refer to the same 1540 battle.
+**Correct Answer:** **B** (Bilgram and Kannauj name the same 1540 decisive battle)
 
-**Logic:** Confused pair: Bilgram = Kannauj 1540, not Chausa/Daurah/Kalinjar.
+**Detailed Explanation:**
+- **Option B is correct:** In historical literature and competitive exams, the battle fought on **17 May 1540 CE** between Sher Shah Suri and Emperor Humayun is alternately called the **Battle of Kannauj** or the **Battle of Bilgram** (Bilgram being a town in Hardoi district, UP, directly across the Ganga from Kannauj where the armies camped and clashed). They are two names for the single decisive battle that toppled Humayun.
+- **Options A, C, and D are incorrect:** Chausa was fought in 1539 in Bihar; Daurah was fought in 1532; Kalinjar was besieged in 1545.
+
+**Key Exam Takeaway / Trap:**
+- *Alternative Nomenclature:* **Battle of Kannauj = Battle of Bilgram (17 May 1540 CE)**.
 
 </details>
 
@@ -987,15 +1193,21 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Both A and R are true, but R does not explain the monument-order statement.
+**Correct Answer:** **A** (Both (A) and (R) are true, but (R) is NOT the correct explanation of (A))
 
-**A/R logic:** Birthplace fact is true yet does not by itself explain relative monument chronology teaching.
+**Detailed Explanation:**
+- **Assertion (A) is correct:** In architectural chronology, Atala Mosque in Jaunpur was built in **1408 CE** (15th century Sharqi period); Sher Shah's Tomb in Sasaram was constructed in **1545 CE** (mid-16th century Suri period); and Humayun's Tomb in Delhi was constructed in **1565–1572 CE** (late-16th century Mughal period). Thus, Sasaram sits chronologically between Atala and Humayun's tomb.
+- **Reason (R) is correct:** Sasaram in modern Bihar was indeed the birthplace and ancestral jagir of Farid Khan (Sher Shah).
+- **Why (R) does NOT explain (A):** Being born in Sasaram explains *where* Sher Shah built his tomb, but it does not explain why the architectural construction date of the Sasaram tomb chronologically falls between the Sharqi and Mughal monuments.
+
+**Key Exam Takeaway / Trap:**
+- *Chronological Marker:* Atala Mosque (1408) → Sasaram Tomb (1545) → Humayun's Tomb (1572) → Bibi ka Maqbara (1678).
 
 </details>
 
 **Q21.** With reference to zabt under Sher Shah’s revenue world, which of the following statements is/are correct?
 
-1. Zabt fixed an annual cash demand.
+1. Zabt fixed an annual cash demand based on land measurement.
 2. Jarib measured land to support assessment.
 
 Select the correct answer from the code given below:
@@ -1008,9 +1220,14 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Both statements are correct.
+**Correct Answer:** **C** (Both 1 and 2 are correct)
 
-**Logic:** Measurement (jarib) + cash demand (zabt) work together — jarib ≠ tax name.
+**Detailed Explanation:**
+- **Statement 1 is correct:** Under the **Zabt** system (assessment by measurement), the state assessed land revenue based on actual surveyed crop area rather than rough estimation or crop-sharing, fixing the state demand annually in cash or grain.
+- **Statement 2 is correct:** The **Jarib** (measuring rope) was the physical measuring device used by land surveyors to determine the bigha area of each cultivator's holding, providing the empirical basis for the Zabt tax demand.
+
+**Key Exam Takeaway / Trap:**
+- *Measurement System:* **Zabt** = System of assessment by measurement; **Jarib** = The measuring rope instrument.
 
 </details>
 
@@ -1032,9 +1249,15 @@ D. 1 and 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** All three statements are correct.
+**Correct Answer:** **A** (All 1, 2 and 3 are correctly matched)
 
-**Logic:** Keep Farid / Sher Khan / Sher Shah as a ladder, not synonyms for every phase.
+**Detailed Explanation:**
+- **Pair 1 is correctly matched:** Born as **Farid Khan** at Sasaram (Bihar), managing his father Hasan Khan's pargana jagirs (Sasaram and Khawaspur).
+- **Pair 2 is correctly matched:** Given the title **Sher Khan** by Bahar Khan Lohani after killing a tiger in Bihar.
+- **Pair 3 is correctly matched:** Formally proclaimed himself **Sher Shah Sultan-i-Adil** upon dethroning Humayun in 1540 CE.
+
+**Key Exam Takeaway / Trap:**
+- *The Complete Title Ladder:* Farid Khan → Sher Khan → Sher Shah Sultan-i-Adil.
 
 </details>
 
@@ -1053,9 +1276,14 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Both statements are correct.
+**Correct Answer:** **C** (Both 1 and 2 are correct)
 
-**Logic:** Do not place Jayata–Kumpa under Mewar Sisodia.
+**Detailed Explanation:**
+- **Statement 1 is correct:** The Battle of Sammel (Giri-Sumel, 1544 CE) was fought between Sher Shah Suri and the army of **Rao Maldeo Rathore** of **Marwar** (Jodhpur).
+- **Statement 2 is correct:** **Jayata** and **Kumpa** were the celebrated Rathore military commanders of Marwar whose ferocious counter-attack nearly crushed Sher Shah's invasion.
+
+**Key Exam Takeaway / Trap:**
+- *Region Check:* Marwar = Jodhpur / Rathore dynasty (Maldeo, Jayata, Kumpa); Mewar = Chittor / Udaipur / Sisodia dynasty (Udai Singh, Maharana Pratap).
 
 </details>
 
@@ -1075,9 +1303,15 @@ D. 1 and 2 only
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only pair 3 is not correctly matched.
+**Correct Answer:** **C** (3 only is NOT correctly matched)
 
-**Logic:** Daurah is 1532 Humayun–Afghans — not Chausa.
+**Detailed Explanation:**
+- **Pair 1 is correctly matched:** The Battle of Chausa took place on **26 June 1539 CE**, resulting in Humayun escaping across the Ganga.
+- **Pair 2 is correctly matched:** The Battle of Kannauj took place on **17 May 1540 CE**, inaugurating Humayun's 15-year exile.
+- **Pair 3 is NOT correctly matched (Correct Answer):** **Daurah** was fought in **1532 CE** (in Barabanki district, UP), seven years before Chausa; it was a victory for Humayun against the Afghans, not an alternate name for Chausa.
+
+**Key Exam Takeaway / Trap:**
+- *Chronology Check:* Daurah (1532) ≠ Chausa (1539) ≠ Kannauj (1540).
 
 </details>
 
@@ -1085,9 +1319,9 @@ D. 1 and 2 only
 
 Assertion (A): He nevertheless created Akbar-style hereditary mansabdari as the core Sur system.
 
-Select the correct answer from the code given below:
-
 Reason (R): Sher Shah kept a standing force with registered men.
+
+Select the correct answer from the code given below:
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -1097,9 +1331,14 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** A false, R true.
+**Correct Answer:** **B** ((A) is false, but (R) is true)
 
-**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Standing registered force is true; hereditary mansabdari belongs to Akbar, not Sher Shah.
+**Detailed Explanation:**
+- **Assertion (A) is completely false:** Sher Shah did **not** create a hereditary Mansabdari system. The Mansabdari system was formulated by Emperor **Akbar**, and Mansabdari was strictly **non-hereditary**. Sher Shah's military structure was based on direct central recruitment, cash/jagir salaries, and Dagh-Chehra inspections.
+- **Reason (R) is completely true:** Sher Shah maintained a large, disciplined imperial standing army, personally interviewing every recruit and maintaining detailed descriptive rolls (*Chehra*) of all soldiers.
+
+**Key Exam Takeaway / Trap:**
+- *System Authorship:* **Dagh & Chehra** = Revived by Sher Shah; **Mansabdari** = Instituted by Akbar.
 
 </details>
 
@@ -1109,6 +1348,8 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Rohtas in Bihar is the same fort as Purana Qila under another name.
 3. Qila-i-Kuhna mosque stands inside Purana Qila.
 
+Which of the statements given above is/are correct?
+
 A. Only 1 and 2
 B. Only 3
 C. 1 and 3
@@ -1117,9 +1358,15 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** 1 and 3 only are correct.
+**Correct Answer:** **C** (1 and 3 only are correct)
 
-**Logic:** Rohtas (Bihar) ≠ Purana Qila (Delhi).
+**Detailed Explanation:**
+- **Statement 1 is correct:** Emperor Humayun began constructing the fort city *Dinpanah* on the historic site of Indraprastha in Delhi; after expelling Humayun in 1540 CE, Sher Shah demolished parts of it, rebuilt massive ramparts and monumental gates, and renamed it **Shergarh** (today known as the **Purana Qila**).
+- **Statement 2 is incorrect:** **Rohtas Fort** in Bihar (near Sasaram along the Son river) is a separate hill fortress captured by Sher Shah from a Hindu Raja in 1538 CE. It has nothing to do with Purana Qila in Delhi. (Sher Shah also built a second *Rohtas Fort* in Punjab/Pakistan near Jhelum).
+- **Statement 3 is correct:** The exquisite **Qila-i-Kuhna Mosque** ("Mosque of the Old Fort") was constructed inside Purana Qila by Sher Shah in 1541 CE, representing a transitional milestone between Sultanate pointed arches and Mughal architectural aesthetics.
+
+**Key Exam Takeaway / Trap:**
+- *Fort Locations:* Purana Qila = **Delhi**; Rohtas Fort = **Bihar** (Kaimur plateau) AND **Punjab/Jhelum** (Pakistan).
 
 </details>
 
@@ -1138,9 +1385,14 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Both statements are correct.
+**Correct Answer:** **C** (Both 1 and 2 are correct)
 
-**Logic:** Separate pargana trio from centre diwans.
+**Detailed Explanation:**
+- **Statement 1 is correct:** The provincial administration of Sher Shah was organized into **Sarkars** (districts, headed by a *Shiqdar-i-Shiqdaran* and a *Munsif-i-Munsifan*), subdivided into **Parganas** (tehsils/sub-districts). Each Pargana was administered by a triumvirate: the **Shiqdar** (police and law/order), the **Munsif** (land measurement and civil justice), and the **Amil/Desai** (revenue assessment and collection).
+- **Statement 2 is correct:** At the central government level, Sher Shah supervised four principal ministerial departments: **Diwan-i-Wazarat** (Revenue and Finance, headed by the Wazir), **Diwan-i-Ariz** (Military/Army), **Diwan-i-Risalat** (Foreign Affairs and Religious Endowments), and **Diwan-i-Insha** (Royal Correspondence).
+
+**Key Exam Takeaway / Trap:**
+- *Administrative Hierarchy:* **Centre** (4 Diwans) → **Sarkar** (Shiqdar-i-Shiqdaran & Munsif-i-Munsifan) → **Pargana** (Shiqdar, Munsif, Amil) → **Village** (Muqaddam, Patwari, Chowkidar).
 
 </details>
 
@@ -1161,9 +1413,17 @@ D. 2-4-3-1
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Chausa 1539 → Kalinjar 1545 → Islam Shah ends 1553 → Humayun 1555.
+**Correct Answer:** **A** (2-4-1-3: Chausa → Kalinjar → Islam Shah death → Humayun recovery)
 
-**Logic:** Sur collapse window opens the path to Humayun’s return.
+**Detailed Explanation:**
+- **2. Battle of Chausa (June 1539 CE):** Sher Shah defeated Humayun.
+- **4. Death of Sher Shah at Kalinjar (May 1545 CE):** Accidental blast during Kalinjar siege.
+- **1. Death of Islam Shah Suri (1553/54 CE):** Islam Shah died, leading to dynastic civil wars among Afghan claimants (Adil Shah, Ibrahim Sur, Sikandar Sur).
+- **3. Humayun's recovery of Delhi–Agra (July 1555 CE):** Humayun defeated Sikandar Suri at Machhiwara and Sirhind, reclaiming his throne.
+- **Chronological Sequence:** 2 (1539) → 4 (1545) → 1 (1553) → 3 (1555) = **2-4-1-3**.
+
+**Key Exam Takeaway / Trap:**
+- *Sur Collapse Timeline:* 1539 (Chausa) → 1545 (Sher Shah dies) → 1553 (Islam Shah dies) → 1555 (Humayun returns).
 
 </details>
 
@@ -1177,9 +1437,14 @@ D. Qabuliat — measuring rope
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Patta is state-to-peasant; qabuliat is peasant acceptance.
+**Correct Answer:** **C** (Patta — state document to peasant; qabuliat — peasant acceptance)
 
-**Logic:** Do not confuse with jarib (rope) or mansab grants.
+**Detailed Explanation:**
+- **Option C is correctly matched:** Under Sher Shah's land revenue administration, the **Patta** was the formal title deed issued by the imperial government to the cultivator recording the exact measurement of his landholdings, land classification, and the net revenue assessed. The **Qabuliat** was the deed of acceptance executed in return by the peasant, agreeing to pay the specified revenue dues to the state.
+- **Options A, B, and D are incorrect:** Patta was issued by the state, not the peasant; Qabuliat was a tax acceptance agreement, not a mansab grant; Jarib was the measuring rope.
+
+**Key Exam Takeaway / Trap:**
+- *Patta & Qabuliat:* **Patta** = State to Peasant; **Qabuliat** = Peasant to State.
 
 </details>
 
@@ -1199,13 +1464,17 @@ D. Only 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three statements are correct.
+**Correct Answer:** **C** (All 1, 2 and 3 are correct)
 
-**Logic:** Death at Kalinjar → Islam Shah → path to Humayun’s 1555 return.
+**Detailed Explanation:**
+- **Statement 1 is correct (Cause):** In 1545 CE, Sher Shah besieged the hill fortress of Kalinjar in Bundelkhand (ruled by Chandel king Kirat Singh), whose raja had sheltered fugitive Afghan rebels.
+- **Statement 2 is correct (Course):** While supervising the battery against the fort walls, a grenade/rocket (*huqqa*) struck the rampart, rebounded, and detonated a nearby stockpile of gunpowder, severely injuring Sher Shah, who succumbed to his burns on 22 May 1545 CE.
+- **Statement 3 is correct (Result):** His younger son Jalal Khan succeeded as Islam Shah Suri (1545–1553 CE). Following Islam Shah's death, the Sur dynasty fragmented into rival factions, allowing Humayun to invade from Kabul and restore the Mughal Empire in 1555 CE.
 
-</details>
+**Key Exam Takeaway / Trap:**
+- *Kalinjar Fort Location:* **Kalinjar** is located in Banda district, Bundelkhand, Uttar Pradesh. It was the site of Sher Shah's untimely death in **May 1545 CE**.
 
-## Common Traps — Don't Fall For These
+</details>## Common Traps — Don't Fall For These
 
 1. **Jarib** is a **measuring rope**, not a tax.
 2. **Jayata and Kumpa** impressed Sher Shah in **Marwar** under Rao Maldeo, not in Mewar.

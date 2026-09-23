@@ -651,7 +651,16 @@ D. 1-2-4-3
 <details>
 <summary>Show answer</summary>
 
-**Ans: B (2-1-4-3).** Order: 2 Jaisalmer → 1 Ranthambore → 4 Chittor → 3 Warangal
+**Correct Answer:** **B** (2-1-4-3)
+
+**Detailed Explanation:**
+- **2. Jaisalmer (1299):** Attacked early in Alauddin's reign after the Bhatis seized imperial transport horses.
+- **1. Ranthambore (1301):** Besieged and captured from the Chauhan ruler Hammiradeva after Nusrat Khan was killed and Alauddin personally directed operations.
+- **4. Chittor (1303):** Besieged and captured from Guhila ruler Rana Ratan Singh; renamed Khizrabad after Alauddin's son Khizr Khan.
+- **3. Warangal (1309–1310):** Trans-Vindhyan expedition led by Malik Kafur against Kakatiya King Prataparudra Deva, who surrendered massive indemnity including the Koh-i-Noor diamond.
+
+**Key Exam Takeaway / Trap:**
+- Chronological sequence of Alauddin's campaigns: Northern hill-forts (Jaisalmer 1299 $\rightarrow$ Ranthambore 1301 $\rightarrow$ Chittor 1303 $\rightarrow$ Malwa 1305) always precede Southern trans-Vindhyan raids (Devagiri 1307–08 $\rightarrow$ Warangal 1309–10 $\rightarrow$ Dwarasamudra 1310 $\rightarrow$ Madurai 1311).
 
 </details>
 
@@ -1090,7 +1099,15 @@ D. 670 A.D.
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Born at **Mecca** about **570 CE**; died **632 CE**. **622** is the **Hijra** year trap.
+**Correct Answer:** **A** (570 A.D.)
+
+**Detailed Explanation:**
+- **Historical Context:** Born at **Mecca** about **570 CE**; died **632 CE**. **622** is the **Hijra** year trap.
+- **Key Fact:** The correct option is **A** (570 A.D.).
+- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **570 A.D.** is standard UPPCS testing material.
 
 </details>
 
@@ -1109,7 +1126,15 @@ D. 719 A.D.
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** **Muhammad bin Qasim** took Sindh from **Dahir** in **712 CE** (**Chachnama**). Some scholars prefer **711** (V.D. Mahajan).
+**Correct Answer:** **C** (712 A.D.)
+
+**Detailed Explanation:**
+- **Historical Context:** **Muhammad bin Qasim** took Sindh from **Dahir** in **712 CE** (**Chachnama**). Some scholars prefer **711** (V.D. Mahajan).
+- **Key Fact:** The correct option is **C** (712 A.D.).
+- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **712 A.D.** is standard UPPCS testing material.
 
 </details>
 
@@ -1128,7 +1153,15 @@ D. Muhammad Ghori
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** First **successful** Muslim invader = Arab **Muhammad bin Qasim** (**712**, Sindh). Turks came later.
+**Correct Answer:** **C** (Muhammad-Bin-Qasim)
+
+**Detailed Explanation:**
+- **Historical Context:** First **successful** Muslim invader = Arab **Muhammad bin Qasim** (**712**, Sindh). Turks came later.
+- **Key Fact:** The correct option is **C** (Muhammad-Bin-Qasim).
+- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Muhammad-Bin-Qasim** is standard UPPCS testing material.
 
 </details>
 
@@ -1147,7 +1180,15 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Arabs under **Qasim** in Sindh (**712**). Ghaznavids/Ghurids are later Turkish phases.
+**Correct Answer:** **C** (The Arabs)
+
+**Detailed Explanation:**
+- **Historical Context:** Arabs under **Qasim** in Sindh (**712**). Ghaznavids/Ghurids are later Turkish phases.
+- **Key Fact:** The correct option is **C** (The Arabs).
+- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **The Arabs** is standard UPPCS testing material.
 
 </details>
 
@@ -1166,7 +1207,15 @@ D. Turk-Afghan
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** **Arab** commander (~**695** birth), linked to **al-Hajjaj**, sent under Caliph **al-Walid**.
+**Correct Answer:** **C** (Arab)
+
+**Detailed Explanation:**
+- **Historical Context:** **Arab** commander (~**695** birth), linked to **al-Hajjaj**, sent under Caliph **al-Walid**.
+- **Key Fact:** The correct option is **C** (Arab).
+- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Arab** is standard UPPCS testing material.
 
 </details>
 
@@ -1185,7 +1234,15 @@ D. Ismail
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** **Alptigin** founded the Ghaznavid (**Yamini**) line at **Ghazni**. Mahmud is the famous later raider (**998+**).
+**Correct Answer:** **A** (Alptigin)
+
+**Detailed Explanation:**
+- **Historical Context:** **Alptigin** founded the Ghaznavid (**Yamini**) line at **Ghazni**. Mahmud is the famous later raider (**998+**).
+- **Key Fact:** The correct option is **A** (Alptigin).
+- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Alptigin** is standard UPPCS testing material.
 
 </details>
 
@@ -1206,11 +1263,14 @@ D. (A) false, but (R) true
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Correct Answer:** **C** ((A) true, but (R) false)
 
-**A true:** About **17** raids (**1000–1027**).
+**Detailed Explanation:**
+- **Assertion (A) is correct:** Mohd. Ghazni invaded India seventeen times.
+- **Reason (R) is incorrect:** He wanted to establish permanent Muslim Empire in India.. **A true:** About **17** raids (**1000–1027**).  **R false:** Motive was **plunder**, not a permanent Gangetic empire.
 
-**R false:** Motive was **plunder**, not a permanent Gangetic empire.
+**Key Exam Takeaway / Trap:**
+- Watch for negative stems ('NOT correctly matched') — ensure you identify the singular incorrect pairing rather than confirming the true ones.
 
 </details>
 
@@ -1229,7 +1289,15 @@ D. Danga
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Vidyadhar** successfully resisted Mahmud in **1019–20**. Capitals: Khajuraho then Mahoba.
+**Correct Answer:** **B** (Vidyadhar)
+
+**Detailed Explanation:**
+- **Historical Context:** **Vidyadhar** successfully resisted Mahmud in **1019–20**. Capitals: Khajuraho then Mahoba.
+- **Key Fact:** The correct option is **B** (Vidyadhar).
+- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Watch for negative stems ('NOT correctly matched') — ensure you identify the singular incorrect pairing rather than confirming the true ones.
 
 </details>
 
@@ -1248,7 +1316,15 @@ D. Chand Bardai
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Utbi** wrote **Kitab-ul-Yamini** / **Tarikh-i-Yamini**. **Firdausi** = poet of **Shahnama**; Hasan Nizami is Ghori-era.
+**Correct Answer:** **B** (Utbi)
+
+**Detailed Explanation:**
+- **Historical Context:** **Utbi** wrote **Kitab-ul-Yamini** / **Tarikh-i-Yamini**. **Firdausi** = poet of **Shahnama**; Hasan Nizami is Ghori-era.
+- **Key Fact:** The correct option is **B** (Utbi).
+- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Utbi** is standard UPPCS testing material.
 
 </details>
 
@@ -1267,7 +1343,15 @@ D. Alaptigin
 <details>
 <summary>Show answer</summary>
 
-**Ans: B (treat stem as Firdausi).** **Firdausi** wrote **Shahnama** at **Mahmud’s** court (“Homer of the East”). **Firishta** wrote **Tarikh-i-Firishta** for **Ibrahim Adil Shah II** of Bijapur — different person.
+**Correct Answer:** **B** (Mahmud Ghazanavi)
+
+**Detailed Explanation:**
+- **Historical Context:** **Firdausi** wrote **Shahnama** at **Mahmud’s** court (“Homer of the East”). **Firishta** wrote **Tarikh-i-Firishta** for **Ibrahim Adil Shah II** of Bijapur — different person.
+- **Key Fact:** The correct option is **B** (Mahmud Ghazanavi).
+- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Mahmud Ghazanavi** is standard UPPCS testing material.
 
 </details>
 
@@ -1286,7 +1370,15 @@ D. Dara Shikoh
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** **Al-Biruni** studied Sanskrit/Puranas and wrote **Tahqiq-i-Hind / Kitab-ul-Hind**.
+**Correct Answer:** **C** (Al-Biruni)
+
+**Detailed Explanation:**
+- **Historical Context:** **Al-Biruni** studied Sanskrit/Puranas and wrote **Tahqiq-i-Hind / Kitab-ul-Hind**.
+- **Key Fact:** The correct option is **C** (Al-Biruni).
+- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Al-Biruni** is standard UPPCS testing material.
 
 </details>
 
@@ -1305,7 +1397,15 @@ D. 12th Century A.D.
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Came with **Mahmud** in the **11th century** (born **973**, Khwarizm/Khiva).
+**Correct Answer:** **C** (11th century A.D.)
+
+**Detailed Explanation:**
+- **Historical Context:** Came with **Mahmud** in the **11th century** (born **973**, Khwarizm/Khiva).
+- **Key Fact:** The correct option is **C** (11th century A.D.).
+- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **11th century A.D.** is standard UPPCS testing material.
 
 </details>
 
@@ -1324,7 +1424,15 @@ D. He was an expert of trigonometry
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** He is **not** treated as a secular apologist; he did not write sympathetically about the **Somnath** raid. Other statements fit his profile.
+**Correct Answer:** **A** (He was a secular author)
+
+**Detailed Explanation:**
+- **Historical Context:** He is **not** treated as a secular apologist; he did not write sympathetically about the **Somnath** raid. Other statements fit his profile.
+- **Key Fact:** The correct option is **A** (He was a secular author).
+- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Watch for negative stems ('NOT correctly matched') — ensure you identify the singular incorrect pairing rather than confirming the true ones.
 
 </details>
 
@@ -1343,7 +1451,15 @@ D. Akbar
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Mahmud’s silver: Arabic + Sanskrit (**“Avyaktamekam Muhammad Avatar Nripati Mahmud”**).
+**Correct Answer:** **B** (Mahmud of Ghazni)
+
+**Detailed Explanation:**
+- **Historical Context:** Mahmud’s silver: Arabic + Sanskrit (**“Avyaktamekam Muhammad Avatar Nripati Mahmud”**).
+- **Key Fact:** The correct option is **B** (Mahmud of Ghazni).
+- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Mahmud of Ghazni** is standard UPPCS testing material.
 
 </details>
 
@@ -1362,7 +1478,15 @@ D. Genghis Khan
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** **Second Tarain (1192)** — Ghori defeats Prithviraj and holds Delhi–Ajmer.
+**Correct Answer:** **C** (Shihabuddin Muhammad Ghori)
+
+**Detailed Explanation:**
+- **Historical Context:** **Second Tarain (1192)** — Ghori defeats Prithviraj and holds Delhi–Ajmer.
+- **Key Fact:** The correct option is **C** (Shihabuddin Muhammad Ghori).
+- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Shihabuddin Muhammad Ghori** is standard UPPCS testing material.
 
 </details>
 
@@ -1381,7 +1505,15 @@ D. Prithviraj-II
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** **Naika Devi** (regent for **Mularaja II / Bhimdev II**) defeated Ghori near **Mount Abu (1178)**. Prithviraj’s win is **Tarain 1191** — later.
+**Correct Answer:** **A** (Mularaja- II)
+
+**Detailed Explanation:**
+- **Historical Context:** **Naika Devi** (regent for **Mularaja II / Bhimdev II**) defeated Ghori near **Mount Abu (1178)**. Prithviraj’s win is **Tarain 1191** — later.
+- **Key Fact:** The correct option is **A** (Mularaja- II).
+- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Mularaja- II** is standard UPPCS testing material.
 
 </details>
 
@@ -1400,7 +1532,15 @@ D. Battle of Kannauj (1194 A.D.)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** **Chandawar (1194)** — present **Firozabad** district, **Yamuna**. Kannauj is the kingdom, not the battle name preferred in keys.
+**Correct Answer:** **C** (Battle of Chandawar (1194 A.D.))
+
+**Detailed Explanation:**
+- **Historical Context:** **Chandawar (1194)** — present **Firozabad** district, **Yamuna**. Kannauj is the kingdom, not the battle name preferred in keys.
+- **Key Fact:** The correct option is **C** (Battle of Chandawar (1194 A.D.)).
+- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Battle of Chandawar (1194 A.D.)** is standard UPPCS testing material.
 
 </details>
 
@@ -1419,7 +1559,15 @@ D. Bhima- II
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Jayachandra (Jaichand)** of Kannauj at **Chandawar 1194**.
+**Correct Answer:** **B** (Jayachandra)
+
+**Detailed Explanation:**
+- **Historical Context:** **Jayachandra (Jaichand)** of Kannauj at **Chandawar 1194**.
+- **Key Fact:** The correct option is **B** (Jayachandra).
+- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Jayachandra** is standard UPPCS testing material.
 
 </details>
 
@@ -1438,7 +1586,15 @@ D. Second Battle of Panipat
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Second Tarain (1192)** established lasting Turkish foothold in north India. First Tarain (**1191**) was Prithviraj’s win.
+**Correct Answer:** **B** (Second Battle of Tarain)
+
+**Detailed Explanation:**
+- **Historical Context:** **Second Tarain (1192)** established lasting Turkish foothold in north India. First Tarain (**1191**) was Prithviraj’s win.
+- **Key Fact:** The correct option is **B** (Second Battle of Tarain).
+- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Second Battle of Tarain** is standard UPPCS testing material.
 
 </details>
 
@@ -1465,7 +1621,14 @@ D. 4, 1, 2, 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Mahmud (1000–1027 raids)** → **Ghori (1175–1206)** → **Genghis** pressure (~**1221**, chasing Jalaluddin) → **Timur 1398**.
+**Correct Answer:** **B** (2, 3, 1, 4)
+
+**Detailed Explanation:**
+- **Chronological sequence:** **Mahmud (1000–1027 raids)** → **Ghori (1175–1206)** → **Genghis** pressure (~**1221**, chasing Jalaluddin) → **Timur 1398**.
+- **Correct match code:** Option **B** (2, 3, 1, 4).
+
+**Key Exam Takeaway / Trap:**
+- Pay close attention to relative dates and avoid swapping sequential rulers or campaigns.
 
 </details>
 
@@ -1484,7 +1647,15 @@ D. Yaldauj
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** **Ikhtiyar-ud-din Bakhtiyar Khalji** took **Odantapuri**, destroyed **Nalanda/Vikramshila**, took **Nadia**, capital **Lakhnauti**.
+**Correct Answer:** **C** (Bakhtiyar Khalji)
+
+**Detailed Explanation:**
+- **Historical Context:** **Ikhtiyar-ud-din Bakhtiyar Khalji** took **Odantapuri**, destroyed **Nalanda/Vikramshila**, took **Nadia**, capital **Lakhnauti**.
+- **Key Fact:** The correct option is **C** (Bakhtiyar Khalji).
+- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Bakhtiyar Khalji** is standard UPPCS testing material.
 
 </details>
 
@@ -1505,7 +1676,15 @@ D. A false, R true
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Both true; fragmentation of Rajput states **explains** Turkish success. Repeated in **UPPCS 2024** with the same key.
+**Correct Answer:** **A** (Both true, R correct explanation of A)
+
+**Detailed Explanation:**
+- **Assertion (A) is correct:** Turkish invasions on India were successful.
+- **Reason (R) is correct:** There was no political unity in North India.
+- **Why (R) explains (A):** Both true; fragmentation of Rajput states **explains** Turkish success. Repeated in **UPPCS 2024** with the same key.
+
+**Key Exam Takeaway / Trap:**
+- Watch for negative stems ('NOT correctly matched') — ensure you identify the singular incorrect pairing rather than confirming the true ones.
 
 </details>
 
@@ -1526,7 +1705,15 @@ D. (A) true, but (R) false
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Rajput disunity enabled Ghori and the Sultanate foothold.
+**Correct Answer:** **A** (Both (A) and (R) true, and (R) is the correct explanation of (A))
+
+**Detailed Explanation:**
+- **Assertion (A) is correct:** The Turkish invasion of India was successful.
+- **Reason (R) is correct:** There was no political unity in northern India.
+- **Why (R) explains (A):** Rajput disunity enabled Ghori and the Sultanate foothold.
+
+**Key Exam Takeaway / Trap:**
+- Watch for negative stems ('NOT correctly matched') — ensure you identify the singular incorrect pairing rather than confirming the true ones.
 
 </details>
 
@@ -1551,7 +1738,15 @@ D. Saudi Arabia
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** **Mecca** is in **Saudi Arabia**.
+**Correct Answer:** **D** (Saudi Arabia)
+
+**Detailed Explanation:**
+- **Historical Context:** **Mecca** is in **Saudi Arabia**.
+- **Key Fact:** The correct option is **D** (Saudi Arabia).
+- **Distractor Analysis:** The alternative choices (A, B, C) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Saudi Arabia** is standard UPPCS testing material.
 
 </details>
 
@@ -1570,7 +1765,14 @@ D. The Arabs
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** **Arabs** first used **Hindu** for people of Hind. Iranians → Hindustan; Greeks → India.
+**Correct Answer:** **D** (The Arabs)
+
+**Detailed Explanation:**
+- **Chronological sequence:** **Arabs** first used **Hindu** for people of Hind. Iranians → Hindustan; Greeks → India.
+- **Correct match code:** Option **D** (The Arabs).
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **The Arabs** is standard UPPCS testing material.
 
 </details>
 
@@ -1589,7 +1791,15 @@ D. None of these
 <details>
 <summary>Show answer</summary>
 
-**Ans: D (as keyed).** Successful conquest under Qasim is **712** (some **711**); listed **711** alone is treated as inadequate in this key.
+**Correct Answer:** **D** (None of these)
+
+**Detailed Explanation:**
+- **Historical Context:** Successful conquest under Qasim is **712** (some **711**); listed **711** alone is treated as inadequate in this key.
+- **Key Fact:** The correct option is **D** (None of these).
+- **Distractor Analysis:** The alternative choices (A, B, C) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **None of these** is standard UPPCS testing material.
 
 </details>
 
@@ -1608,7 +1818,15 @@ D. Barmer
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Arod** (near modern Karachi area) in **Chachnama**; Dahir’s line vs Qasim.
+**Correct Answer:** **B** (Arod)
+
+**Detailed Explanation:**
+- **Historical Context:** **Arod** (near modern Karachi area) in **Chachnama**; Dahir’s line vs Qasim.
+- **Key Fact:** The correct option is **B** (Arod).
+- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Arod** is standard UPPCS testing material.
 
 </details>
 
@@ -1627,7 +1845,15 @@ D. More than one of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Persian rendering by **Muhammad Ali bin Abu Bakr Kufi**; English by **Mirza Kalich Beg** (~1900).
+**Correct Answer:** **C** (Muhammad Ali Bin Abu Bakr Kufi)
+
+**Detailed Explanation:**
+- **Historical Context:** Persian rendering by **Muhammad Ali bin Abu Bakr Kufi**; English by **Mirza Kalich Beg** (~1900).
+- **Key Fact:** The correct option is **C** (Muhammad Ali Bin Abu Bakr Kufi).
+- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Muhammad Ali Bin Abu Bakr Kufi** is standard UPPCS testing material.
 
 </details>
 
@@ -1646,7 +1872,15 @@ D. Arunoraja
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** **Vidyadhar**, **1019–20**.
+**Correct Answer:** **C** (Vidyadhar)
+
+**Detailed Explanation:**
+- **Historical Context:** **Vidyadhar**, **1019–20**.
+- **Key Fact:** The correct option is **C** (Vidyadhar).
+- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Vidyadhar** is standard UPPCS testing material.
 
 </details>
 
@@ -1665,7 +1899,15 @@ D. Barani
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Firdausi** — **Shahnama**; Mahmud’s court poet.
+**Correct Answer:** **B** (Firdausi)
+
+**Detailed Explanation:**
+- **Historical Context:** **Firdausi** — **Shahnama**; Mahmud’s court poet.
+- **Key Fact:** The correct option is **B** (Firdausi).
+- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Firdausi** is standard UPPCS testing material.
 
 </details>
 
@@ -1684,7 +1926,15 @@ D. Ferishta
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Al-Biruni** with Mahmud; **Kitab-ul-Hind**.
+**Correct Answer:** **B** (Al-Beruni)
+
+**Detailed Explanation:**
+- **Historical Context:** **Al-Biruni** with Mahmud; **Kitab-ul-Hind**.
+- **Key Fact:** The correct option is **B** (Al-Beruni).
+- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Al-Beruni** is standard UPPCS testing material.
 
 </details>
 
@@ -1703,7 +1953,15 @@ D. Jayasingh Siddhiraj
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Bhimadeva / Bhimdev I** rebuilt after the **1025/26** raid.
+**Correct Answer:** **B** (Bhimdeva)
+
+**Detailed Explanation:**
+- **Historical Context:** **Bhimadeva / Bhimdev I** rebuilt after the **1025/26** raid.
+- **Key Fact:** The correct option is **B** (Bhimdeva).
+- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Bhimdeva** is standard UPPCS testing material.
 
 </details>
 
@@ -1728,7 +1986,15 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements **1** and **2** true. **3** false — **Dr Rajendra Prasad** was present at Pran Pratishtha, not Radhakrishnan.
+**Correct Answer:** **A** (1 and 2 only)
+
+**Detailed Explanation:**
+- **Historical Context:** Statements **1** and **2** true. **3** false — **Dr Rajendra Prasad** was present at Pran Pratishtha, not Radhakrishnan.
+- **Key Fact:** The correct option is **A** (1 and 2 only).
+- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **1 and 2 only** is standard UPPCS testing material.
 
 </details>
 
@@ -1747,7 +2013,15 @@ D. Bhim II
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Jaichand / Jayachandra**, **1194**.
+**Correct Answer:** **B** (Jaichand)
+
+**Detailed Explanation:**
+- **Historical Context:** **Jaichand / Jayachandra**, **1194**.
+- **Key Fact:** The correct option is **B** (Jaichand).
+- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Jaichand** is standard UPPCS testing material.
 
 </details>
 
@@ -1766,7 +2040,15 @@ D. Nazir-ud-din Qubacha
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Qutbuddin Aibak** — **Kuhram** and **Samana** after **1192**.
+**Correct Answer:** **B** (Qutbuddin Aybak)
+
+**Detailed Explanation:**
+- **Historical Context:** **Qutbuddin Aibak** — **Kuhram** and **Samana** after **1192**.
+- **Key Fact:** The correct option is **B** (Qutbuddin Aybak).
+- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Qutbuddin Aybak** is standard UPPCS testing material.
 
 </details>
 
@@ -1787,7 +2069,15 @@ E. None of the above / More than one of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** **Bakhtiyar Khalji** — Odantapuri / Nalanda / Vikramshila.
+**Correct Answer:** **C** (Bakhtiyar Khalji)
+
+**Detailed Explanation:**
+- **Historical Context:** **Bakhtiyar Khalji** — Odantapuri / Nalanda / Vikramshila.
+- **Key Fact:** The correct option is **C** (Bakhtiyar Khalji).
+- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Bakhtiyar Khalji** is standard UPPCS testing material.
 
 </details>
 
@@ -1808,7 +2098,15 @@ E. None of the above / More than one of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Same **Bakhtiyar Khalji** line.
+**Correct Answer:** **B** (Ibn Bakhtiyar Khilji)
+
+**Detailed Explanation:**
+- **Historical Context:** Same **Bakhtiyar Khalji** line.
+- **Key Fact:** The correct option is **B** (Ibn Bakhtiyar Khilji).
+- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Ibn Bakhtiyar Khilji** is standard UPPCS testing material.
 
 </details>
 
@@ -1829,7 +2127,15 @@ E. None of the above / More than one of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** **Bakhtiyar Khalji** destroyed **Nalanda** (and **Vikramshila**).
+**Correct Answer:** **A** (Bakhtiyar Khalji)
+
+**Detailed Explanation:**
+- **Historical Context:** **Bakhtiyar Khalji** destroyed **Nalanda** (and **Vikramshila**).
+- **Key Fact:** The correct option is **A** (Bakhtiyar Khalji).
+- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Bakhtiyar Khalji** is standard UPPCS testing material.
 
 </details>
 
@@ -1852,7 +2158,15 @@ D. Ibn Battuta
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Al-Biruni** accompanied Mahmud; **Tahqiq-i-Hind / Kitab-ul-Hind**; also translated Patanjali (योग) (**Kitab Patanjal**).
+**Correct Answer:** **B** (Al-Beruni)
+
+**Detailed Explanation:**
+- **Historical Context:** **Al-Biruni** accompanied Mahmud; **Tahqiq-i-Hind / Kitab-ul-Hind**; also translated Patanjali (योग) (**Kitab Patanjal**).
+- **Key Fact:** The correct option is **B** (Al-Beruni).
+- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Al-Beruni** is standard UPPCS testing material.
 
 </details>
 
@@ -1871,7 +2185,15 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** **Ghori** — **Lakshmi** on one side, Arabic **Kalma** on the other.
+**Correct Answer:** **A** (Muhammad Ghori)
+
+**Detailed Explanation:**
+- **Historical Context:** **Ghori** — **Lakshmi** on one side, Arabic **Kalma** on the other.
+- **Key Fact:** The correct option is **A** (Muhammad Ghori).
+- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Muhammad Ghori** is standard UPPCS testing material.
 
 </details>
 
@@ -1896,7 +2218,15 @@ D. Qutbuddin Aybak
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** **Qutbuddin Aibak** founded the line in **1206** at **Lahore**.
+**Correct Answer:** **D** (Qutbuddin Aybak)
+
+**Detailed Explanation:**
+- **Historical Context:** **Qutbuddin Aibak** founded the line in **1206** at **Lahore**.
+- **Key Fact:** The correct option is **D** (Qutbuddin Aybak).
+- **Distractor Analysis:** The alternative choices (A, B, C) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Qutbuddin Aybak** is standard UPPCS testing material.
 
 </details>
 
@@ -1915,7 +2245,15 @@ D. Qutbuddin Aybak
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** **Aibak** = **Lakh Baksh**; capital **Lahore**; never took the title Sultan.
+**Correct Answer:** **D** (Qutbuddin Aybak)
+
+**Detailed Explanation:**
+- **Historical Context:** **Aibak** = **Lakh Baksh**; capital **Lahore**; never took the title Sultan.
+- **Key Fact:** The correct option is **D** (Qutbuddin Aybak).
+- **Distractor Analysis:** The alternative choices (A, B, C) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Qutbuddin Aybak** is standard UPPCS testing material.
 
 </details>
 
@@ -1934,7 +2272,15 @@ D. Firuz Shah Tughluq
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Aibak started; Iltutmish completed; Firuz rebuilt 4th and added 5th. **Ghiyasuddin Tughlaq** contributed nothing.
+**Correct Answer:** **C** (Ghiyasuddin Tughluq)
+
+**Detailed Explanation:**
+- **Historical Context:** Aibak started; Iltutmish completed; Firuz rebuilt 4th and added 5th. **Ghiyasuddin Tughlaq** contributed nothing.
+- **Key Fact:** The correct option is **C** (Ghiyasuddin Tughluq).
+- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Watch for negative stems ('NOT correctly matched') — ensure you identify the singular incorrect pairing rather than confirming the true ones.
 
 </details>
 
@@ -1953,7 +2299,15 @@ D. Lakhnauti
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** **Lahore** — he stayed there against Yalduz’s Punjab designs.
+**Correct Answer:** **A** (Lahore)
+
+**Detailed Explanation:**
+- **Historical Context:** **Lahore** — he stayed there against Yalduz’s Punjab designs.
+- **Key Fact:** The correct option is **A** (Lahore).
+- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Lahore** is standard UPPCS testing material.
 
 </details>
 
@@ -1972,7 +2326,15 @@ D. Muizzuddin Ghori
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Iltutmish** shifted lasting capital to **Delhi** (Aibak ruled from Lahore).
+**Correct Answer:** **B** (Iltutmish)
+
+**Detailed Explanation:**
+- **Historical Context:** **Iltutmish** shifted lasting capital to **Delhi** (Aibak ruled from Lahore).
+- **Key Fact:** The correct option is **B** (Iltutmish).
+- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Iltutmish** is standard UPPCS testing material.
 
 </details>
 
@@ -1991,7 +2353,15 @@ D. Balban
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Silver **tanka**, copper **jital**, Delhi capital, Caliph recognition **1229**.
+**Correct Answer:** **B** (Iltutmish)
+
+**Detailed Explanation:**
+- **Historical Context:** Silver **tanka**, copper **jital**, Delhi capital, Caliph recognition **1229**.
+- **Key Fact:** The correct option is **B** (Iltutmish).
+- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Iltutmish** is standard UPPCS testing material.
 
 </details>
 
@@ -2010,7 +2380,15 @@ D. Delhi
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** **Delhi** after the shift from Lahore.
+**Correct Answer:** **D** (Delhi)
+
+**Detailed Explanation:**
+- **Historical Context:** **Delhi** after the shift from Lahore.
+- **Key Fact:** The correct option is **D** (Delhi).
+- **Distractor Analysis:** The alternative choices (A, B, C) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Delhi** is standard UPPCS testing material.
 
 </details>
 
@@ -2029,7 +2407,15 @@ D. Qutbuddin Aybak
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Same fact as Q5–Q7.
+**Correct Answer:** **C** (Iltutmish)
+
+**Detailed Explanation:**
+- **Historical Context:** Same fact as Q5–Q7.
+- **Key Fact:** The correct option is **C** (Iltutmish).
+- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Iltutmish** is standard UPPCS testing material.
 
 </details>
 
@@ -2048,7 +2434,15 @@ D. Balban
 <details>
 <summary>Show answer</summary>
 
-**Ans: B (as keyed).** Stem means first **Caliph-recognised / legally independent** Sultan of Delhi — **Iltutmish** (**Sultan-e-Azam**, **1229**). Aibak ruled from Lahore without the Sultan title.
+**Correct Answer:** **B** (Iltutmish)
+
+**Detailed Explanation:**
+- **Historical Context:** Stem means first **Caliph-recognised / legally independent** Sultan of Delhi — **Iltutmish** (**Sultan-e-Azam**, **1229**). Aibak ruled from Lahore without the Sultan title.
+- **Key Fact:** The correct option is **B** (Iltutmish).
+- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Iltutmish** is standard UPPCS testing material.
 
 </details>
 
@@ -2067,7 +2461,15 @@ D. Iltutmish
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Slave of **Aibak**, who was Ghori’s slave.
+**Correct Answer:** **D** (Iltutmish)
+
+**Detailed Explanation:**
+- **Historical Context:** Slave of **Aibak**, who was Ghori’s slave.
+- **Key Fact:** The correct option is **D** (Iltutmish).
+- **Distractor Analysis:** The alternative choices (A, B, C) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Iltutmish** is standard UPPCS testing material.
 
 </details>
 
@@ -2086,7 +2488,15 @@ D. Noorjahan
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** **Razia (1236–40)** — only woman Sultan of Delhi.
+**Correct Answer:** **A** (Raziyya Sultan)
+
+**Detailed Explanation:**
+- **Historical Context:** **Razia (1236–40)** — only woman Sultan of Delhi.
+- **Key Fact:** The correct option is **A** (Raziyya Sultan).
+- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Raziyya Sultan** is standard UPPCS testing material.
 
 </details>
 
@@ -2105,7 +2515,15 @@ D. Aybak
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Chasing **Jalaluddin Mingburni**; Iltutmish refused asylum.
+**Correct Answer:** **B** (Iltutmish)
+
+**Detailed Explanation:**
+- **Historical Context:** Chasing **Jalaluddin Mingburni**; Iltutmish refused asylum.
+- **Key Fact:** The correct option is **B** (Iltutmish).
+- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Iltutmish** is standard UPPCS testing material.
 
 </details>
 
@@ -2124,7 +2542,15 @@ D. Alauddin Khalji
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Same Indus/Mingburni episode.
+**Correct Answer:** **A** (Iltutmish)
+
+**Detailed Explanation:**
+- **Historical Context:** Same Indus/Mingburni episode.
+- **Key Fact:** The correct option is **A** (Iltutmish).
+- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Iltutmish** is standard UPPCS testing material.
 
 </details>
 
@@ -2143,7 +2569,14 @@ D. Raziyya
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Correct Answer:** **B** (Iltutmish)
+
+**Detailed Explanation:**
+- **Key Fact:** The correct option is **B** (Iltutmish).
+- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Iltutmish** is standard UPPCS testing material.
 
 </details>
 
@@ -2162,7 +2595,15 @@ D. Ogadi
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** **Temujin / Temuchin**.
+**Correct Answer:** **C** (Temuchin (Temujin))
+
+**Detailed Explanation:**
+- **Historical Context:** **Temujin / Temuchin**.
+- **Key Fact:** The correct option is **C** (Temuchin (Temujin)).
+- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Temuchin (Temujin)** is standard UPPCS testing material.
 
 </details>
 
@@ -2181,7 +2622,15 @@ D. Arabs
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Turkish nobles under **Malik Altunia** of **Bhatinda**.
+**Correct Answer:** **C** (Turks)
+
+**Detailed Explanation:**
+- **Historical Context:** Turkish nobles under **Malik Altunia** of **Bhatinda**.
+- **Key Fact:** The correct option is **C** (Turks).
+- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Turks** is standard UPPCS testing material.
 
 </details>
 
@@ -2200,7 +2649,15 @@ D. Firuz Shah Tughluq
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Balban** — divine right + autocracy (**Niyabat-i-Khudai**, **Zil-i-Ilahi**).
+**Correct Answer:** **B** (Balban)
+
+**Detailed Explanation:**
+- **Historical Context:** **Balban** — divine right + autocracy (**Niyabat-i-Khudai**, **Zil-i-Ilahi**).
+- **Key Fact:** The correct option is **B** (Balban).
+- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Balban** is standard UPPCS testing material.
 
 </details>
 
@@ -2221,7 +2678,15 @@ D. A false, R true
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Same substance as **UPPCS 2024** (option letters differ by paper). Centralisation ≠ caused by Mongol frontier alone.
+**Correct Answer:** **B** (Both true, R not correct explanation of A)
+
+**Detailed Explanation:**
+- **Assertion (A) is correct:** Balban made his government firm stable and centralized all authority in his hands.
+- **Reason (R) is correct:** He wanted to protect North-West frontier against Mongol invasions.
+- **Why (R) does not explain (A):** Both statements are historically true, but Reason is not the direct causal explanation of Assertion. Same substance as **UPPCS 2024** (option letters differ by paper). Centralisation ≠ caused by Mongol frontier alone.
+
+**Key Exam Takeaway / Trap:**
+- Watch for negative stems ('NOT correctly matched') — ensure you identify the singular incorrect pairing rather than confirming the true ones.
 
 </details>
 
@@ -2242,7 +2707,14 @@ D. A true, R false
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Correct Answer:** **C** (Both true, R not correct explanation of A)
+
+**Detailed Explanation:**
+- **Assertion (A) is correct:** Balban made his government firm and centralized all authority in his hands.
+- **Reason (R) is incorrect:** He wanted to secure the northwestern border from Mongol invasions.. 
+
+**Key Exam Takeaway / Trap:**
+- Watch for negative stems ('NOT correctly matched') — ensure you identify the singular incorrect pairing rather than confirming the true ones.
 
 </details>
 
@@ -2261,7 +2733,15 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** **Balban** at **Garhmukteshwar**.
+**Correct Answer:** **A** (Balban)
+
+**Detailed Explanation:**
+- **Historical Context:** **Balban** at **Garhmukteshwar**.
+- **Key Fact:** The correct option is **A** (Balban).
+- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Balban** is standard UPPCS testing material.
 
 </details>
 
@@ -2284,7 +2764,15 @@ D. Balban
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **1206–1210**, capital **Lahore**.
+**Correct Answer:** **B** (Qutbuddin Aybak)
+
+**Detailed Explanation:**
+- **Historical Context:** **1206–1210**, capital **Lahore**.
+- **Key Fact:** The correct option is **B** (Qutbuddin Aybak).
+- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Qutbuddin Aybak** is standard UPPCS testing material.
 
 </details>
 
@@ -2303,7 +2791,15 @@ D. Tower
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Mosque at **Ajmer** (Aibak).
+**Correct Answer:** **A** (Mosque)
+
+**Detailed Explanation:**
+- **Historical Context:** Mosque at **Ajmer** (Aibak).
+- **Key Fact:** The correct option is **A** (Mosque).
+- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Mosque** is standard UPPCS testing material.
 
 </details>
 
@@ -2322,7 +2818,14 @@ D. Lahore and Ajmer
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Correct Answer:** **A** (Delhi and Ajmer)
+
+**Detailed Explanation:**
+- **Key Fact:** The correct option is **A** (Delhi and Ajmer).
+- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Delhi and Ajmer** is standard UPPCS testing material.
 
 </details>
 
@@ -2343,7 +2846,14 @@ E. None / More than one
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Correct Answer:** **A** (Iltutmish)
+
+**Detailed Explanation:**
+- **Key Fact:** The correct option is **A** (Iltutmish).
+- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Iltutmish** is standard UPPCS testing material.
 
 </details>
 
@@ -2362,7 +2872,15 @@ D. Fell from his horse while playing Chaugan
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Buried at **Lahore**.
+**Correct Answer:** **D** (Fell from his horse while playing Chaugan)
+
+**Detailed Explanation:**
+- **Historical Context:** Buried at **Lahore**.
+- **Key Fact:** The correct option is **D** (Fell from his horse while playing Chaugan).
+- **Distractor Analysis:** The alternative choices (A, B, C) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Fell from his horse while playing Chaugan** is standard UPPCS testing material.
 
 </details>
 
@@ -2383,7 +2901,15 @@ E. None / More than one
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Caliph **khilat 1229**.
+**Correct Answer:** **C** (Iltutmish)
+
+**Detailed Explanation:**
+- **Historical Context:** Caliph **khilat 1229**.
+- **Key Fact:** The correct option is **C** (Iltutmish).
+- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Iltutmish** is standard UPPCS testing material.
 
 </details>
 
@@ -2402,7 +2928,15 @@ D. Malik Altunia
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** **Altunia** is Razia-era (**Bhatinda**). Rivals of Iltutmish = Yalduz, Qabacha, Ali Mardan.
+**Correct Answer:** **D** (Malik Altunia)
+
+**Detailed Explanation:**
+- **Historical Context:** **Altunia** is Razia-era (**Bhatinda**). Rivals of Iltutmish = Yalduz, Qabacha, Ali Mardan.
+- **Key Fact:** The correct option is **D** (Malik Altunia).
+- **Distractor Analysis:** The alternative choices (A, B, C) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Watch for negative stems ('NOT correctly matched') — ensure you identify the singular incorrect pairing rather than confirming the true ones.
 
 </details>
 
@@ -2421,7 +2955,14 @@ D. Muhammad-Bin-Tughluq
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Correct Answer:** **C** (Iltutmish)
+
+**Detailed Explanation:**
+- **Key Fact:** The correct option is **C** (Iltutmish).
+- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Iltutmish** is standard UPPCS testing material.
 
 </details>
 
@@ -2448,7 +2989,15 @@ D. 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only statement **1** is correct. Timur is later than MbT; Vasco (**1498**) is not Deva Raya II’s moment as keyed.
+**Correct Answer:** **A** (1 only)
+
+**Detailed Explanation:**
+- **Historical Context:** Only statement **1** is correct. Timur is later than MbT; Vasco (**1498**) is not Deva Raya II’s moment as keyed.
+- **Key Fact:** The correct option is **A** (1 only).
+- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **1 only** is standard UPPCS testing material.
 
 </details>
 
@@ -2467,7 +3016,15 @@ D. Malik-Jani
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** After defeating **Hisamuddin Awaz** near Rajmahal/Teliagarhi.
+**Correct Answer:** **D** (Malik-Jani)
+
+**Detailed Explanation:**
+- **Historical Context:** After defeating **Hisamuddin Awaz** near Rajmahal/Teliagarhi.
+- **Key Fact:** The correct option is **D** (Malik-Jani).
+- **Distractor Analysis:** The alternative choices (A, B, C) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Malik-Jani** is standard UPPCS testing material.
 
 </details>
 
@@ -2486,7 +3043,15 @@ D. Qutbuddin
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** **Ghiyasuddin Balban** / **Ulugh Khan**.
+**Correct Answer:** **C** (Ghiyasuddin)
+
+**Detailed Explanation:**
+- **Historical Context:** **Ghiyasuddin Balban** / **Ulugh Khan**.
+- **Key Fact:** The correct option is **C** (Ghiyasuddin).
+- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Ghiyasuddin** is standard UPPCS testing material.
 
 </details>
 
@@ -2507,7 +3072,14 @@ E. None / More than one
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Correct Answer:** **B** (Balban)
+
+**Detailed Explanation:**
+- **Key Fact:** The correct option is **B** (Balban).
+- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Balban** is standard UPPCS testing material.
 
 </details>
 
@@ -2526,7 +3098,15 @@ D. Din-e-Ilahi
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Shadow of God; also **Niyabat-i-Khudai**.
+**Correct Answer:** **C** (Zil-e-Ilahi)
+
+**Detailed Explanation:**
+- **Historical Context:** Shadow of God; also **Niyabat-i-Khudai**.
+- **Key Fact:** The correct option is **C** (Zil-e-Ilahi).
+- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Zil-e-Ilahi** is standard UPPCS testing material.
 
 </details>
 
@@ -2547,7 +3127,14 @@ E. None / More than one
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Correct Answer:** **C** (Balban)
+
+**Detailed Explanation:**
+- **Key Fact:** The correct option is **C** (Balban).
+- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Balban** is standard UPPCS testing material.
 
 </details>
 
@@ -2566,7 +3153,15 @@ D. Alauddin Khalji
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Along with **Sijda** and **Paibos**.
+**Correct Answer:** **A** (Balban)
+
+**Detailed Explanation:**
+- **Historical Context:** Along with **Sijda** and **Paibos**.
+- **Key Fact:** The correct option is **A** (Balban).
+- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Balban** is standard UPPCS testing material.
 
 </details>
 
@@ -2585,7 +3180,15 @@ D. He quelled down the revolt of Bengal.
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Iqta** is linked to **Iltutmish**, not Balban. Bengal revolt = **Tughril Khan**.
+**Correct Answer:** **B** (He introduced the Iqtadari System.)
+
+**Detailed Explanation:**
+- **Historical Context:** **Iqta** is linked to **Iltutmish**, not Balban. Bengal revolt = **Tughril Khan**.
+- **Key Fact:** The correct option is **B** (He introduced the Iqtadari System.).
+- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Watch for negative stems ('NOT correctly matched') — ensure you identify the singular incorrect pairing rather than confirming the true ones.
 
 </details>
 
@@ -2604,7 +3207,14 @@ D. Iltutmish
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Correct Answer:** **C** (Balban)
+
+**Detailed Explanation:**
+- **Key Fact:** The correct option is **C** (Balban).
+- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Balban** is standard UPPCS testing material.
 
 </details>
 
@@ -2625,7 +3235,15 @@ E. None / More than one
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Bengal (~**1279**).
+**Correct Answer:** **A** (Balban)
+
+**Detailed Explanation:**
+- **Historical Context:** Bengal (~**1279**).
+- **Key Fact:** The correct option is **A** (Balban).
+- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Balban** is standard UPPCS testing material.
 
 </details>
 
@@ -2648,7 +3266,15 @@ D. Malik Altunia
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** **Altunia** belongs to **Razia’s** overthrow, not Iltutmish’s early rivals.
+**Correct Answer:** **D** (Malik Altunia)
+
+**Detailed Explanation:**
+- **Historical Context:** **Altunia** belongs to **Razia’s** overthrow, not Iltutmish’s early rivals.
+- **Key Fact:** The correct option is **D** (Malik Altunia).
+- **Distractor Analysis:** The alternative choices (A, B, C) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Watch for negative stems ('NOT correctly matched') — ensure you identify the singular incorrect pairing rather than confirming the true ones.
 
 </details>
 
@@ -2673,7 +3299,15 @@ D. Sikandar Lodi
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Sikandar-i-Sani** on coins.
+**Correct Answer:** **B** (Alauddin Khalji)
+
+**Detailed Explanation:**
+- **Historical Context:** **Sikandar-i-Sani** on coins.
+- **Key Fact:** The correct option is **B** (Alauddin Khalji).
+- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Alauddin Khalji** is standard UPPCS testing material.
 
 </details>
 
@@ -2694,7 +3328,14 @@ D. A false, R true
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Plunder/tribute true; permanent annexation of the south was **not** the main aim.
+**Correct Answer:** **C** (A true, R false)
+
+**Detailed Explanation:**
+- **Assertion (A) is correct:** Alauddin’s Deccan expeditions were financial ventures.
+- **Reason (R) is incorrect:** He wanted to annex the Deccan States.. Plunder/tribute true; permanent annexation of the south was **not** the main aim.
+
+**Key Exam Takeaway / Trap:**
+- Watch for negative stems ('NOT correctly matched') — ensure you identify the singular incorrect pairing rather than confirming the true ones.
 
 </details>
 
@@ -2722,7 +3363,14 @@ D. 3-4-2-1
 <details>
 <summary>Show answer</summary>
 
-**Ans: D (3-4-2-1).** A–3 Hamirdeva | B–4 Ratan Singh | C–2 Ramchandra | D–1 Karnadeva
+**Correct Answer:** **D** (3-4-2-1)
+
+**Detailed Explanation:**
+- **Matching analysis:** A–3 Hamirdeva | B–4 Ratan Singh | C–2 Ramchandra | D–1 Karnadeva
+- **Correct combination:** Option **D** (3-4-2-1).
+
+**Key Exam Takeaway / Trap:**
+- Watch for negative stems ('NOT correctly matched') — ensure you identify the singular incorrect pairing rather than confirming the true ones.
 
 </details>
 
@@ -2743,7 +3391,14 @@ D. 2-1-4-3
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** **1299 → 1301 → 1303 → ~1310**.
+**Correct Answer:** **D** (2-1-4-3)
+
+**Detailed Explanation:**
+- **Chronological sequence:** **1299 → 1301 → 1303 → ~1310**.
+- **Correct match code:** Option **D** (2-1-4-3).
+
+**Key Exam Takeaway / Trap:**
+- Pay close attention to relative dates and avoid swapping sequential rulers or campaigns.
 
 </details>
 
@@ -2764,7 +3419,14 @@ D. A false, R true
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Market control funded the **standing army** vs Mongols (Barani), not palace artisan wages.
+**Correct Answer:** **C** (A true, R false)
+
+**Detailed Explanation:**
+- **Assertion (A) is correct:** Alauddin Khalji introduced price control in Delhi.
+- **Reason (R) is incorrect:** He wanted to pay lower wages to the artisans building his palaces in Delhi.. Market control funded the **standing army** vs Mongols (Barani), not palace artisan wages.
+
+**Key Exam Takeaway / Trap:**
+- Watch for negative stems ('NOT correctly matched') — ensure you identify the singular incorrect pairing rather than confirming the true ones.
 
 </details>
 
@@ -2783,7 +3445,15 @@ D. Sher Shah Suri
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** **Shahna-i-Mandi** system.
+**Correct Answer:** **A** (Alauddin Khalji)
+
+**Detailed Explanation:**
+- **Historical Context:** **Shahna-i-Mandi** system.
+- **Key Fact:** The correct option is **A** (Alauddin Khalji).
+- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Alauddin Khalji** is standard UPPCS testing material.
 
 </details>
 
@@ -2802,7 +3472,15 @@ D. alienated ruler from masses
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Coaching/Ghatnachakra key.
+**Correct Answer:** **C** (was highly successful)
+
+**Detailed Explanation:**
+- **Historical Context:** Coaching/Ghatnachakra key.
+- **Key Fact:** The correct option is **C** (was highly successful).
+- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **was highly successful** is standard UPPCS testing material.
 
 </details>
 
@@ -2821,7 +3499,14 @@ D. Muhammad-Bin-Tughluq
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Correct Answer:** **A** (Alauddin Khalji)
+
+**Detailed Explanation:**
+- **Key Fact:** The correct option is **A** (Alauddin Khalji).
+- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Alauddin Khalji** is standard UPPCS testing material.
 
 </details>
 
@@ -2840,7 +3525,15 @@ D. Firuz Shah Tughluq
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Also **Charai** (grazing) on milch animals.
+**Correct Answer:** **B** (Alauddin Khalji)
+
+**Detailed Explanation:**
+- **Historical Context:** Also **Charai** (grazing) on milch animals.
+- **Key Fact:** The correct option is **B** (Alauddin Khalji).
+- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Alauddin Khalji** is standard UPPCS testing material.
 
 </details>
 
@@ -2859,7 +3552,15 @@ D. Sutlej
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Ravi**.
+**Correct Answer:** **B** (Ravi)
+
+**Detailed Explanation:**
+- **Historical Context:** **Ravi**.
+- **Key Fact:** The correct option is **B** (Ravi).
+- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Ravi** is standard UPPCS testing material.
 
 </details>
 
@@ -2878,7 +3579,15 @@ D. Madura — Veer Pandya
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Warangal = Prataparudra**; **Ramachandra** ruled **Devgiri**. Shankar Dev was Ramachandra’s son at Devgiri.
+**Correct Answer:** **B** (Warangal — Ramchandra Dev)
+
+**Detailed Explanation:**
+- **Historical Context:** **Warangal = Prataparudra**; **Ramachandra** ruled **Devgiri**. Shankar Dev was Ramachandra’s son at Devgiri.
+- **Key Fact:** The correct option is **B** (Warangal — Ramchandra Dev).
+- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Watch for negative stems ('NOT correctly matched') — ensure you identify the singular incorrect pairing rather than confirming the true ones.
 
 </details>
 
@@ -2897,7 +3606,15 @@ D. Muhammad bin Tuglaq
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Titles **Al-Imam / Khalifatullah**.
+**Correct Answer:** **C** (Mubarak Khilji)
+
+**Detailed Explanation:**
+- **Historical Context:** Titles **Al-Imam / Khalifatullah**.
+- **Key Fact:** The correct option is **C** (Mubarak Khilji).
+- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Mubarak Khilji** is standard UPPCS testing material.
 
 </details>
 
@@ -2916,7 +3633,15 @@ D. of Muhammad Tughluq
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** First Warangal attempt failed; later success under **Malik Kafur**.
+**Correct Answer:** **C** (of Alauddin Khalji)
+
+**Detailed Explanation:**
+- **Historical Context:** First Warangal attempt failed; later success under **Malik Kafur**.
+- **Key Fact:** The correct option is **C** (of Alauddin Khalji).
+- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **of Alauddin Khalji** is standard UPPCS testing material.
 
 </details>
 
@@ -2941,7 +3666,15 @@ D. I, II and III
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Measurement true (**Diwan-i-Mustakharaj**) but mainly around Delhi/Doab — not the whole empire as keyed. Privileges of **Khut/Muqaddam** crushed.
+**Correct Answer:** **C** (I and III)
+
+**Detailed Explanation:**
+- **Historical Context:** Measurement true (**Diwan-i-Mustakharaj**) but mainly around Delhi/Doab — not the whole empire as keyed. Privileges of **Khut/Muqaddam** crushed.
+- **Key Fact:** The correct option is **C** (I and III).
+- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **I and III** is standard UPPCS testing material.
 
 </details>
 
@@ -2964,7 +3697,15 @@ D. Iltutmish
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Dropped on advice of Kotwal **Ala-ul-Mulk**.
+**Correct Answer:** **B** (Alauddin)
+
+**Detailed Explanation:**
+- **Historical Context:** Dropped on advice of Kotwal **Ala-ul-Mulk**.
+- **Key Fact:** The correct option is **B** (Alauddin).
+- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Alauddin** is standard UPPCS testing material.
 
 </details>
 
@@ -2983,7 +3724,14 @@ D. Mohammad-bin-Tughlaq
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Correct Answer:** **C** (Alauddin Khalji)
+
+**Detailed Explanation:**
+- **Key Fact:** The correct option is **C** (Alauddin Khalji).
+- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Alauddin Khalji** is standard UPPCS testing material.
 
 </details>
 
@@ -3002,7 +3750,15 @@ D. Ulugh Khan
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** **Malik Yusuf Hizabruddin**.
+**Correct Answer:** **A** (Zafar Khan)
+
+**Detailed Explanation:**
+- **Historical Context:** **Malik Yusuf Hizabruddin**.
+- **Key Fact:** The correct option is **A** (Zafar Khan).
+- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Zafar Khan** is standard UPPCS testing material.
 
 </details>
 
@@ -3021,7 +3777,15 @@ D. Rana Ratan Singh
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Literary fame via **Padmavat (1540)**.
+**Correct Answer:** **D** (Rana Ratan Singh)
+
+**Detailed Explanation:**
+- **Historical Context:** Literary fame via **Padmavat (1540)**.
+- **Key Fact:** The correct option is **D** (Rana Ratan Singh).
+- **Distractor Analysis:** The alternative choices (A, B, C) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Rana Ratan Singh** is standard UPPCS testing material.
 
 </details>
 
@@ -3040,7 +3804,15 @@ D. Qutbuddin Aybak
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Seized in Gujarat campaign (**Nusrat Khan** presented him to Alauddin).
+**Correct Answer:** **B** (Malik Kafur)
+
+**Detailed Explanation:**
+- **Historical Context:** Seized in Gujarat campaign (**Nusrat Khan** presented him to Alauddin).
+- **Key Fact:** The correct option is **B** (Malik Kafur).
+- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Malik Kafur** is standard UPPCS testing material.
 
 </details>
 
@@ -3059,7 +3831,15 @@ D. Rana Ratan Singh
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Later titled **Rai Rayan**.
+**Correct Answer:** **A** (Ramachandra Dev)
+
+**Detailed Explanation:**
+- **Historical Context:** Later titled **Rai Rayan**.
+- **Key Fact:** The correct option is **A** (Ramachandra Dev).
+- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Ramachandra Dev** is standard UPPCS testing material.
 
 </details>
 
@@ -3078,7 +3858,15 @@ D. Firuz Shah Tughluq
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Seizure of **Milq** and **Waqf**.
+**Correct Answer:** **B** (Alauddin Khalji)
+
+**Detailed Explanation:**
+- **Historical Context:** Seizure of **Milq** and **Waqf**.
+- **Key Fact:** The correct option is **B** (Alauddin Khalji).
+- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Alauddin Khalji** is standard UPPCS testing material.
 
 </details>
 
@@ -3097,7 +3885,15 @@ D. Firuz Tughluq
 <details>
 <summary>Show answer</summary>
 
-**Ans: B (primary).** Measurement-based **50%** under Alauddin. Some papers also key MbT Doab demand — know both, prefer Alauddin for “measurement” stems.
+**Correct Answer:** **B** (Alauddin Khalji)
+
+**Detailed Explanation:**
+- **Historical Context:** Measurement-based **50%** under Alauddin. Some papers also key MbT Doab demand — know both, prefer Alauddin for “measurement” stems.
+- **Key Fact:** The correct option is **B** (Alauddin Khalji).
+- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Alauddin Khalji** is standard UPPCS testing material.
 
 </details>
 
@@ -3116,7 +3912,14 @@ D. Balban
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Correct Answer:** **B** (Alauddin Khalji)
+
+**Detailed Explanation:**
+- **Key Fact:** The correct option is **B** (Alauddin Khalji).
+- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Alauddin Khalji** is standard UPPCS testing material.
 
 </details>
 
@@ -3137,7 +3940,14 @@ E. None / More than one
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Correct Answer:** **A** (Ala-ud-din Khalji)
+
+**Detailed Explanation:**
+- **Key Fact:** The correct option is **A** (Ala-ud-din Khalji).
+- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Ala-ud-din Khalji** is standard UPPCS testing material.
 
 </details>
 
@@ -3164,7 +3974,15 @@ D. 3 only
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** First Mongol pressure is **Iltutmish/Genghis** era, not Jalaluddin. Statement **2** true (**Qutlugh Khwaja** etc.).
+**Correct Answer:** **B** (2 only)
+
+**Detailed Explanation:**
+- **Historical Context:** First Mongol pressure is **Iltutmish/Genghis** era, not Jalaluddin. Statement **2** true (**Qutlugh Khwaja** etc.).
+- **Key Fact:** The correct option is **B** (2 only).
+- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **2 only** is standard UPPCS testing material.
 
 </details>
 
@@ -3187,7 +4005,15 @@ D. Qutbuddin Aybak
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Gujarat captive under Alauddin; Deccan commander.
+**Correct Answer:** **B** (Malik Kafur)
+
+**Detailed Explanation:**
+- **Historical Context:** Gujarat captive under Alauddin; Deccan commander.
+- **Key Fact:** The correct option is **B** (Malik Kafur).
+- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Malik Kafur** is standard UPPCS testing material.
 
 </details>
 
@@ -3206,7 +4032,15 @@ D. Balban
 <details>
 <summary>Show answer</summary>
 
-**Ans: A & B appear in keys across papers.** Prefer **Alauddin** when the stem stresses **measurement**; **MbT** when it stresses **Doab estimate hike**. Know both.
+**Correct Answer:** **A** (Muhammad-bin-Tughluq)
+
+**Detailed Explanation:**
+- **Historical Context:** & B appear in keys across papers.** Prefer **Alauddin** when the stem stresses **measurement**; **MbT** when it stresses **Doab estimate hike**. Know both.
+- **Key Fact:** The correct option is **A** (Muhammad-bin-Tughluq).
+- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Muhammad-bin-Tughluq** is standard UPPCS testing material.
 
 </details>
 
@@ -3231,7 +4065,15 @@ D. Ubigh Khan
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** **Ghazi Malik / Ghiyasuddin Tughlaq** defeated **Khusrau** (**1320**).
+**Correct Answer:** **A** (Ghazi Malik)
+
+**Detailed Explanation:**
+- **Historical Context:** **Ghazi Malik / Ghiyasuddin Tughlaq** defeated **Khusrau** (**1320**).
+- **Key Fact:** The correct option is **A** (Ghazi Malik).
+- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Ghazi Malik** is standard UPPCS testing material.
 
 </details>
 
@@ -3250,7 +4092,15 @@ D. Raziyya Begum
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Early canal/farmer relief under **Ghiyasuddin**; later Firoz built the biggest network.
+**Correct Answer:** **C** (Ghiyasuddin Tughluq)
+
+**Detailed Explanation:**
+- **Historical Context:** Early canal/farmer relief under **Ghiyasuddin**; later Firoz built the biggest network.
+- **Key Fact:** The correct option is **C** (Ghiyasuddin Tughluq).
+- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Ghiyasuddin Tughluq** is standard UPPCS testing material.
 
 </details>
 
@@ -3269,7 +4119,15 @@ D. Tughluq dynasty
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Tughlaq **1320–1412/14** outlasts Slave, Khalji, Lodi spans.
+**Correct Answer:** **D** (Tughluq dynasty)
+
+**Detailed Explanation:**
+- **Historical Context:** Tughlaq **1320–1412/14** outlasts Slave, Khalji, Lodi spans.
+- **Key Fact:** The correct option is **D** (Tughluq dynasty).
+- **Distractor Analysis:** The alternative choices (A, B, C) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Tughluq dynasty** is standard UPPCS testing material.
 
 </details>
 
@@ -3288,7 +4146,14 @@ D. Sikandar Lodi
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Correct Answer:** **C** (Muhammad-Bin-Tughluq)
+
+**Detailed Explanation:**
+- **Key Fact:** The correct option is **C** (Muhammad-Bin-Tughluq).
+- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Muhammad-Bin-Tughluq** is standard UPPCS testing material.
 
 </details>
 
@@ -3307,7 +4172,15 @@ D. Sikandar Lodi
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** **Diwan-i-Amir-i-Kohi** for agriculture (~60 sq miles experiment).
+**Correct Answer:** **C** (Muhammad-Bin-Tughluq)
+
+**Detailed Explanation:**
+- **Historical Context:** **Diwan-i-Amir-i-Kohi** for agriculture (~60 sq miles experiment).
+- **Key Fact:** The correct option is **C** (Muhammad-Bin-Tughluq).
+- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Muhammad-Bin-Tughluq** is standard UPPCS testing material.
 
 </details>
 
@@ -3326,7 +4199,14 @@ D. Muhammad-Bin-Tughluq
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Correct Answer:** **D** (Muhammad-Bin-Tughluq)
+
+**Detailed Explanation:**
+- **Key Fact:** The correct option is **D** (Muhammad-Bin-Tughluq).
+- **Distractor Analysis:** The alternative choices (A, B, C) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Muhammad-Bin-Tughluq** is standard UPPCS testing material.
 
 </details>
 
@@ -3345,7 +4225,14 @@ D. Lahore
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** **Devgiri → Daulatabad**.
+**Correct Answer:** **A** (Daulatabad)
+
+**Detailed Explanation:**
+- **Chronological sequence:** **Devgiri → Daulatabad**.
+- **Correct match code:** Option **A** (Daulatabad).
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Daulatabad** is standard UPPCS testing material.
 
 </details>
 
@@ -3364,7 +4251,15 @@ D. Muhammad-Bin-Tughluq
 <details>
 <summary>Show answer</summary>
 
-**Ans: Muhammad-Bin-Tughluq.** Copper/bronze tokens; failed for lack of mint control.
+**Correct Answer:** **A** (Akbar / Iltutmish / Bahlul Lodi (variants))
+
+**Detailed Explanation:**
+- **Historical Context:** **Ans: Muhammad-Bin-Tughluq.** Copper/bronze tokens; failed for lack of mint control.
+- **Key Fact:** The correct option is **A** (Akbar / Iltutmish / Bahlul Lodi (variants)).
+- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Akbar / Iltutmish / Bahlul Lodi (variants)** is standard UPPCS testing material.
 
 </details>
 
@@ -3385,7 +4280,15 @@ D. A false, R true
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Forgery and weak mint control wrecked face-value tokens.
+**Correct Answer:** **A** (Both true, R explains A)
+
+**Detailed Explanation:**
+- **Assertion (A) is correct:** The scheme of the token currency of Muhammad Tughluq proved unsuccessful.
+- **Reason (R) is correct:** Muhammad Tughluq did not have the proper control over currency issue.
+- **Why (R) explains (A):** Forgery and weak mint control wrecked face-value tokens.
+
+**Key Exam Takeaway / Trap:**
+- Watch for negative stems ('NOT correctly matched') — ensure you identify the singular incorrect pairing rather than confirming the true ones.
 
 </details>
 
@@ -3404,7 +4307,15 @@ D. Muhammad-Bin-Tughluq / Ibn Battuta
 <details>
 <summary>Show answer</summary>
 
-**Ans: Muhammad-Bin-Tughluq; postal detail = Ibn Battuta (*Rihla*). Moroccan; Qazi of Delhi; envoy to China **1342**.
+**Correct Answer:** **A** (Bahlul Lodi / Amir Khusrau)
+
+**Detailed Explanation:**
+- **Historical Context:** **Ans: Muhammad-Bin-Tughluq; postal detail = Ibn Battuta (*Rihla*). Moroccan; Qazi of Delhi; envoy to China **1342**.
+- **Key Fact:** The correct option is **A** (Bahlul Lodi / Amir Khusrau).
+- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Bahlul Lodi / Amir Khusrau** is standard UPPCS testing material.
 
 </details>
 
@@ -3423,7 +4334,14 @@ D. Ibrahim Lodi
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Correct Answer:** **B** (Muhammad-Bin-Tughluq)
+
+**Detailed Explanation:**
+- **Key Fact:** The correct option is **B** (Muhammad-Bin-Tughluq).
+- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Muhammad-Bin-Tughluq** is standard UPPCS testing material.
 
 </details>
 
@@ -3442,7 +4360,15 @@ D. Muhammad-Bin-Tughluq
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Died **1351** near Thatta.
+**Correct Answer:** **D** (Muhammad-Bin-Tughluq)
+
+**Detailed Explanation:**
+- **Historical Context:** Died **1351** near Thatta.
+- **Key Fact:** The correct option is **D** (Muhammad-Bin-Tughluq).
+- **Distractor Analysis:** The alternative choices (A, B, C) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Muhammad-Bin-Tughluq** is standard UPPCS testing material.
 
 </details>
 
@@ -3461,7 +4387,14 @@ D. Firuz Shah Tughluq
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Correct Answer:** **D** (Firuz Shah Tughluq)
+
+**Detailed Explanation:**
+- **Key Fact:** The correct option is **D** (Firuz Shah Tughluq).
+- **Distractor Analysis:** The alternative choices (A, B, C) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Firuz Shah Tughluq** is standard UPPCS testing material.
 
 </details>
 
@@ -3480,7 +4413,15 @@ D. Bahlul Lodi
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Poor Muslims, orphans, widows; marriages of poor girls.
+**Correct Answer:** **B** (Firuz Tughluq)
+
+**Detailed Explanation:**
+- **Historical Context:** Poor Muslims, orphans, widows; marriages of poor girls.
+- **Key Fact:** The correct option is **B** (Firuz Tughluq).
+- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Firuz Tughluq** is standard UPPCS testing material.
 
 </details>
 
@@ -3499,7 +4440,15 @@ D. Firuz Shah Tughluq
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Cities, canals, Malik Ghazi Shahana.
+**Correct Answer:** **D** (Firuz Shah Tughluq)
+
+**Detailed Explanation:**
+- **Historical Context:** Cities, canals, Malik Ghazi Shahana.
+- **Key Fact:** The correct option is **D** (Firuz Shah Tughluq).
+- **Distractor Analysis:** The alternative choices (A, B, C) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Firuz Shah Tughluq** is standard UPPCS testing material.
 
 </details>
 
@@ -3518,7 +4467,15 @@ D. Firuz Tughluq
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** ~**1/10** produce from royal canals.
+**Correct Answer:** **D** (Firuz Tughluq)
+
+**Detailed Explanation:**
+- **Historical Context:** ~**1/10** produce from royal canals.
+- **Key Fact:** The correct option is **D** (Firuz Tughluq).
+- **Distractor Analysis:** The alternative choices (A, B, C) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Firuz Tughluq** is standard UPPCS testing material.
 
 </details>
 
@@ -3537,7 +4494,14 @@ D. Muhammad-Bin-Tughluq
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Correct Answer:** **B** (Firuz Tughluq)
+
+**Detailed Explanation:**
+- **Key Fact:** The correct option is **B** (Firuz Tughluq).
+- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Firuz Tughluq** is standard UPPCS testing material.
 
 </details>
 
@@ -3556,7 +4520,14 @@ D. Sikandar Lodhi
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Topra → Firozabad; Meerut → near Bada Hindu Rao.
+**Correct Answer:** **B** (Firuz Shah Tughluq)
+
+**Detailed Explanation:**
+- **Chronological sequence:** Topra → Firozabad; Meerut → near Bada Hindu Rao.
+- **Correct match code:** Option **B** (Firuz Shah Tughluq).
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Firuz Shah Tughluq** is standard UPPCS testing material.
 
 </details>
 
@@ -3575,7 +4546,14 @@ D. Sikandar Lodi
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Sanskrit → Persian translations.
+**Correct Answer:** **B** (Firuz Tughluq)
+
+**Detailed Explanation:**
+- **Chronological sequence:** Sanskrit → Persian translations.
+- **Correct match code:** Option **B** (Firuz Tughluq).
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Firuz Tughluq** is standard UPPCS testing material.
 
 </details>
 
@@ -3594,7 +4572,14 @@ D. Azizuddin Khan
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Correct Answer:** **D** (Azizuddin Khan)
+
+**Detailed Explanation:**
+- **Key Fact:** The correct option is **D** (Azizuddin Khan).
+- **Distractor Analysis:** The alternative choices (A, B, C) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Azizuddin Khan** is standard UPPCS testing material.
 
 </details>
 
@@ -3613,7 +4598,15 @@ D. A guest house for pilgrims
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Charitable hospital with hakims.
+**Correct Answer:** **B** (A free hospital)
+
+**Detailed Explanation:**
+- **Historical Context:** Charitable hospital with hakims.
+- **Key Fact:** The correct option is **B** (A free hospital).
+- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **A free hospital** is standard UPPCS testing material.
 
 </details>
 
@@ -3632,7 +4625,15 @@ D. Nusrat Shah
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Timur **1398** in his reign; dynasty ends **1412**.
+**Correct Answer:** **C** (Nasiruddin Mahmud Shah)
+
+**Detailed Explanation:**
+- **Historical Context:** Timur **1398** in his reign; dynasty ends **1412**.
+- **Key Fact:** The correct option is **C** (Nasiruddin Mahmud Shah).
+- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Nasiruddin Mahmud Shah** is standard UPPCS testing material.
 
 </details>
 
@@ -3651,7 +4652,14 @@ D. 2-1-3-4
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** **1236 → 1316–20 → 1351–88 → 1445–51**.
+**Correct Answer:** **C** (1-2-3-4)
+
+**Detailed Explanation:**
+- **Chronological sequence:** **1236 → 1316–20 → 1351–88 → 1445–51**.
+- **Correct match code:** Option **C** (1-2-3-4).
+
+**Key Exam Takeaway / Trap:**
+- Pay close attention to relative dates and avoid swapping sequential rulers or campaigns.
 
 </details>
 
@@ -3674,7 +4682,14 @@ D. Lodi
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Correct Answer:** **A** (Tughluq)
+
+**Detailed Explanation:**
+- **Key Fact:** The correct option is **A** (Tughluq).
+- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Tughluq** is standard UPPCS testing material.
 
 </details>
 
@@ -3695,7 +4710,14 @@ D. A false, R true
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Token experiment was copper/bronze, not gold trade tokens.
+**Correct Answer:** **C** (A true, R false)
+
+**Detailed Explanation:**
+- **Assertion (A) is correct:** Muhammad-Bin-Tughluq issued a new gold coin which was called Dinar by Ibn Battuta.
+- **Reason (R) is incorrect:** He wanted to issue token currency in gold coins to promote trade with West Asian and North African countries.. Token experiment was copper/bronze, not gold trade tokens.
+
+**Key Exam Takeaway / Trap:**
+- Watch for negative stems ('NOT correctly matched') — ensure you identify the singular incorrect pairing rather than confirming the true ones.
 
 </details>
 
@@ -3714,7 +4736,14 @@ D. Afghanistan
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Correct Answer:** **B** (Morocco)
+
+**Detailed Explanation:**
+- **Key Fact:** The correct option is **B** (Morocco).
+- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Morocco** is standard UPPCS testing material.
 
 </details>
 
@@ -3733,7 +4762,15 @@ D. Firuz Tughluq
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** ~**1.8 lakh**; **Diwan-i-Bandagan**.
+**Correct Answer:** **D** (Firuz Tughluq)
+
+**Detailed Explanation:**
+- **Historical Context:** ~**1.8 lakh**; **Diwan-i-Bandagan**.
+- **Key Fact:** The correct option is **D** (Firuz Tughluq).
+- **Distractor Analysis:** The alternative choices (A, B, C) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Firuz Tughluq** is standard UPPCS testing material.
 
 </details>
 
@@ -3752,7 +4789,14 @@ D. Sikandar Lodi
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Correct Answer:** **C** (Firuz Shah Tughluq)
+
+**Detailed Explanation:**
+- **Key Fact:** The correct option is **C** (Firuz Shah Tughluq).
+- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Firuz Shah Tughluq** is standard UPPCS testing material.
 
 </details>
 
@@ -3771,7 +4815,15 @@ D. Sher Shah Suri
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** ~1200 new orchards; restored Alauddin gardens.
+**Correct Answer:** **B** (Firuz Tughluq)
+
+**Detailed Explanation:**
+- **Historical Context:** ~1200 new orchards; restored Alauddin gardens.
+- **Key Fact:** The correct option is **B** (Firuz Tughluq).
+- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Firuz Tughluq** is standard UPPCS testing material.
 
 </details>
 
@@ -3790,7 +4842,14 @@ D. Aurangzeb
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Correct Answer:** **B** (Firuz Tughluq)
+
+**Detailed Explanation:**
+- **Key Fact:** The correct option is **B** (Firuz Tughluq).
+- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Firuz Tughluq** is standard UPPCS testing material.
 
 </details>
 
@@ -3809,7 +4868,15 @@ D. Khalji dynasty
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Khizr Khan 1414**.
+**Correct Answer:** **B** (Sayyid dynasty)
+
+**Detailed Explanation:**
+- **Historical Context:** **Khizr Khan 1414**.
+- **Key Fact:** The correct option is **B** (Sayyid dynasty).
+- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Sayyid dynasty** is standard UPPCS testing material.
 
 </details>
 
@@ -3828,7 +4895,15 @@ D. 1526 A.D.
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Under **Nasiruddin Mahmud**.
+**Correct Answer:** **B** (1398 A.D.)
+
+**Detailed Explanation:**
+- **Historical Context:** Under **Nasiruddin Mahmud**.
+- **Key Fact:** The correct option is **B** (1398 A.D.).
+- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **1398 A.D.** is standard UPPCS testing material.
 
 </details>
 
@@ -3851,7 +4926,15 @@ D. Ziyauddin Barani
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** From *Rihla* under **Muhammad bin Tughlaq**.
+**Correct Answer:** **B** (Ibn Battuta)
+
+**Detailed Explanation:**
+- **Historical Context:** From *Rihla* under **Muhammad bin Tughlaq**.
+- **Key Fact:** The correct option is **B** (Ibn Battuta).
+- **Distractor Analysis:** The alternative choices (A, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Ibn Battuta** is standard UPPCS testing material.
 
 </details>
 
@@ -3876,7 +4959,15 @@ D. Lodi
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Last Delhi Sultanate house (**1451–1526**).
+**Correct Answer:** **D** (Lodi)
+
+**Detailed Explanation:**
+- **Historical Context:** Last Delhi Sultanate house (**1451–1526**).
+- **Key Fact:** The correct option is **D** (Lodi).
+- **Distractor Analysis:** The alternative choices (A, B, C) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Lodi** is standard UPPCS testing material.
 
 </details>
 
@@ -3895,7 +4986,15 @@ D. Sikandar Lodi
 <details>
 <summary>Show answer</summary>
 
-**Ans: Sikandar Lodi (1504)** — capital on the Yamuna.
+**Correct Answer:** **A** (Muhammad-Bin-Tughluq / Balban / Firuz)
+
+**Detailed Explanation:**
+- **Historical Context:** **Ans: Sikandar Lodi (1504)** — capital on the Yamuna.
+- **Key Fact:** The correct option is **A** (Muhammad-Bin-Tughluq / Balban / Firuz).
+- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Muhammad-Bin-Tughluq / Balban / Firuz** is standard UPPCS testing material.
 
 </details>
 
@@ -3914,7 +5013,14 @@ D. Ibrahim Lodi
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Correct Answer:** **C** (Sikandar Lodi)
+
+**Detailed Explanation:**
+- **Key Fact:** The correct option is **C** (Sikandar Lodi).
+- **Distractor Analysis:** The alternative choices (A, B, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Sikandar Lodi** is standard UPPCS testing material.
 
 </details>
 
@@ -3933,7 +5039,15 @@ D. Sikandar Lodi
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Also **Gaj-i-Sikandari** measure.
+**Correct Answer:** **D** (Sikandar Lodi)
+
+**Detailed Explanation:**
+- **Historical Context:** Also **Gaj-i-Sikandari** measure.
+- **Key Fact:** The correct option is **D** (Sikandar Lodi).
+- **Distractor Analysis:** The alternative choices (A, B, C) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Sikandar Lodi** is standard UPPCS testing material.
 
 </details>
 
@@ -3952,7 +5066,14 @@ D. 4-1-3-2
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Slave → Khalji → Sayyid → Lodi (Tughlaq omitted from list).
+**Correct Answer:** **D** (4-1-3-2)
+
+**Detailed Explanation:**
+- **Chronological sequence:** Slave → Khalji → Sayyid → Lodi (Tughlaq omitted from list).
+- **Correct match code:** Option **D** (4-1-3-2).
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **4-1-3-2** is standard UPPCS testing material.
 
 </details>
 
@@ -3975,7 +5096,14 @@ D. Bahlul–Ibrahim–Sikandar
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Correct Answer:** **C** (Bahlul–Sikandar–Ibrahim)
+
+**Detailed Explanation:**
+- **Chronological sequence:** The events follow the historical sequence identified in the options.
+- **Correct match code:** Option **C** (Bahlul–Sikandar–Ibrahim).
+
+**Key Exam Takeaway / Trap:**
+- Pay close attention to relative dates and avoid swapping sequential rulers or campaigns.
 
 </details>
 
@@ -3994,7 +5122,15 @@ D. Ibrahim Lodi, Aligarh
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Jaunpur = **Shiraz-i-Hind**.
+**Correct Answer:** **A** (Bahlul Lodi, Jaunpur)
+
+**Detailed Explanation:**
+- **Historical Context:** Jaunpur = **Shiraz-i-Hind**.
+- **Key Fact:** The correct option is **A** (Bahlul Lodi, Jaunpur).
+- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Bahlul Lodi, Jaunpur** is standard UPPCS testing material.
 
 </details>
 
@@ -4013,7 +5149,15 @@ D. Battle of Khanua
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** **1518** (Khanwa is Babur vs Sanga **1527**).
+**Correct Answer:** **A** (Battle of Khatoli)
+
+**Detailed Explanation:**
+- **Historical Context:** **1518** (Khanwa is Babur vs Sanga **1527**).
+- **Key Fact:** The correct option is **A** (Battle of Khatoli).
+- **Distractor Analysis:** The alternative choices (B, C, D) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Remember the core factual anchor: **Battle of Khatoli** is standard UPPCS testing material.
 
 </details>
 
@@ -4032,7 +5176,15 @@ D. Ibrahim Lodi
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Lodi dynasty.
+**Correct Answer:** **D** (Ibrahim Lodi)
+
+**Detailed Explanation:**
+- **Historical Context:** Lodi dynasty.
+- **Key Fact:** The correct option is **D** (Ibrahim Lodi).
+- **Distractor Analysis:** The alternative choices (A, B, C) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Watch for negative stems ('NOT correctly matched') — ensure you identify the singular incorrect pairing rather than confirming the true ones.
 
 </details>
 
@@ -4055,7 +5207,14 @@ D. Ibrahim Lodi
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Correct Answer:** **D** (Ibrahim Lodi)
+
+**Detailed Explanation:**
+- **Key Fact:** The correct option is **D** (Ibrahim Lodi).
+- **Distractor Analysis:** The alternative choices (A, B, C) refer to distinct historical figures, events, or dynasties.
+
+**Key Exam Takeaway / Trap:**
+- Watch for negative stems ('NOT correctly matched') — ensure you identify the singular incorrect pairing rather than confirming the true ones.
 
 </details>
 
@@ -4084,9 +5243,17 @@ D. 1, 2, 4, 3
 
 <details><summary>Show answer</summary>
 
-**Ans: B (2-1-4-3)Order:** 2 Jaisalmer → 1 Ranthambore → 4 Chittor → 3 Warangal
+**Correct Answer:** **B** (2–1–4–3 / Jaisalmer → Ranthambore → Chittor → Warangal)
 
-**Trap:** Warangal last** — Malik Kafur's southern campaigns followed Rajasthan forts.
+**Detailed Explanation:**
+The correct chronological order of military expeditions undertaken during the reign of Alauddin Khalji is:
+1. **2. Jaisalmer (1299 CE):** Early in his reign, an expedition led by Ulugh Khan and Zafar Khan subjugated Jaisalmer after Rajput Bhatis seized imperial horses.
+2. **1. Ranthambore (1301 CE):** Besieged and captured from Chauhan king Hammiradeva after a prolonged resistance; marked by the first historical *Jauhar* described by Amir Khusrau.
+3. **4. Chittor (1303 CE):** Besieged and conquered from Guhila ruler Rawal Ratan Singh; renamed *Khizrabad* after prince Khizr Khan.
+4. **3. Warangal (1309–1310 CE):** Southern campaign led by general Malik Kafur against Kakatiya ruler Prataparudra II, who surrendered vast treasures including the Koh-i-Noor diamond.
+
+**Key Exam Takeaway / Trap:**
+- Rajasthan forts (**Ranthambore 1301 → Chittor 1303**) preceded the deep peninsular Deccan campaigns (**Warangal 1309–1310, Dvarasamudra 1311, Madurai 1311**).
 
 </details>
 
@@ -4107,13 +5274,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details><summary>Show answer</summary>
 
-**A/R logic:** A is true: Khalsa = crown land; **Jagir/Iqta** = assigned land.
+**Correct Answer:** **C** (Assertion A is true, but Reason R is false)
 
-**Ans: C (A true, R false).**
+**Detailed Explanation:**
+- **Assertion (A) is correct:** Under the Delhi Sultanate agrarian and fiscal framework, crown-controlled territory was divided broadly into two primary categories: **Khalsa** (lands managed directly by the central revenue ministry, whose collections flowed straight into the royal treasury) and **Iqtas / Jagirs** (tracts assigned to military commanders and nobles in lieu of cash salaries).
+- **Reason (R) is false:** **Jagirs / Iqtas were NOT under the direct administrative control of the State.** Instead, they were assigned to *Muqtis* or *Iqtadars*, who collected land revenue locally, maintained mandatory military contingents from these proceeds, deducted their own maintenance expenses, and remitted only the surplus balance (*Fawazil*) to the Sultan. It was **Khalsa** land that was kept under the direct management and revenue collection of the central state.
 
-**R is false:Jagirs** were **not** under direct state control; that describes **Khalsa**.
-
-**If the stem changed:** If R said "Khalsa was under direct Sultan control," both would be true and R would explain A → **D**.
+**Key Exam Takeaway / Trap:**
+- *Khalsa* = Crown land under direct royal supervision.
+- *Iqta / Jagir* = Assigned revenue land granted for military service and maintenance.
 
 </details>
 
@@ -4134,13 +5303,15 @@ D. (A) is true, but (R) is false.
 
 <details><summary>Show answer</summary>
 
-**A/R logic:** A is true: Balban centralised by crushing **Chahalgani** and enforcing **Sijda/Paibos**.
+**Correct Answer:** **C** (Both A and R are true, but R is not the correct explanation of A)
 
-**Ans: C (Both true, R not explanation).**
+**Detailed Explanation:**
+- **Assertion (A) is correct:** Ghiyasuddin Balban (reigned 1266–1287 CE) systematically centralized absolute despotic authority in his own hands. He neutralized the powerful Turkish oligarchy (*Chahalgani* or the Corps of Forty), established a pervasive intelligence and spy network (*Barids*), elevated royal majesty through Persian ceremonial rituals (*Sijda* and *Paibos*), and articulated the doctrine of divine kingship (*Niyabat-i-Khudai* and *Zill-i-Ilahi*).
+- **Reason (R) is correct:** Balban recognized the recurring menace of Mongol invasions and took aggressive defense measures along the northwest frontier. He constructed a chain of frontier fortresses at Bhatinda, Sunam, and Samana, deployed veteran commanders, and appointed his capable sons (Prince Muhammad and Bughra Khan) to ward off the Mongols.
+- **Why (R) does NOT explain (A):** The threat of Mongol invasions necessitated frontier military readiness, but Balban's intense internal centralization and ruthless suppression of the nobility was primarily motivated by domestic political survival—namely, crushing noble factionalism, restoring the fallen prestige of the Crown after decades of weak puppet Sultans, and preventing rebellions. Both statements are historically true, but (R) is an external defense measure, not the primary causal explanation of his internal centralizing policy.
 
-**R is true:** He fortified the **northwest** (Tabarhinda, Samana, Sunam) against **Mongols**.
-
-**If the stem changed:** If R said "he destroyed the Chahalgani to end factionalism," answer would be **A** (R explains A).
+**Key Exam Takeaway / Trap:**
+- Balban's internal absolutism answered domestic noble factionalism (*Chahalgani*), while his frontier fortifications answered external Mongol raids.
 
 </details>
 
@@ -4155,11 +5326,16 @@ D. Gulbadan Begum — Daughter of Babur
 
 <details><summary>Show answer</summary>
 
-**Ans: C.**
+**Correct Answer:** **C** (Hamida Banu Begum — Wife of Alauddin Khilji is NOT correctly matched)
 
-**Why wrong:** Hamida Banu Begum was **Humayun's** wife and **Akbar's** mother — Mughal, not Khalji.
+**Detailed Explanation:**
+- **Pair A: Iltutmish — Father of Razia (Correct):** Sultan Shamsuddin Iltutmish explicitly nominated his capable daughter Razia Sultan as his successor to the throne of Delhi.
+- **Pair B: Shah Turkan — Wife of Iltutmish (Correct):** Shah Turkan was a prominent, ambitious queen consort of Iltutmish and mother of Ruknuddin Firuz.
+- **Pair C: Hamida Banu Begum — Wife of Alauddin Khilji (INCORRECT):** **Hamida Banu Begum (Maryam Makani)** was the wife of the second Mughal Emperor **Humayun** and the mother of **Akbar the Great**. She belongs to the 16th-century Mughal dynasty, not the 13th/14th-century Khalji dynasty.
+- **Pair D: Gulbadan Begum — Daughter of Babur (Correct):** Gulbadan Begum was Babur's daughter, Humayun's sister, and author of the historical memoir *Humayun-nama*.
 
-**Trap:** Begum names without dynasty check — **Iltutmish–Razia** and **Gulbadan–Babur** pairs in the same stem are correct distractors.
+**Key Exam Takeaway / Trap:**
+- UPPCS regularly mixes prominent medieval royal women across dynasties: Hamida Banu and Gulbadan are **Mughal**, whereas Shah Turkan and Razia are **Mamluk/Slave Dynasty**.
 
 </details>
 
@@ -4174,9 +5350,16 @@ D. Azizuddin Khan
 
 <details><summary>Show answer</summary>
 
-**Ans: D.** **Azizuddin Khan** translated the Nagarkot/Jwalamukhi Sanskrit collection into Persian.
+**Correct Answer:** **D** (Azizuddin Khan)
 
-**Trap:** **Mulla Abdul Baqi** is a distractor; **Barani/Khusrau** are wrong authorship traps in other stems.
+**Detailed Explanation:**
+- During the campaign against **Nagarkot (Kangra)** in **1365 CE**, Sultan **Firoz Shah Tughlaq** captured the historic Jwalamukhi temple library containing approximately 1,300 Sanskrit manuscripts on philosophy, astrology, divination, and music.
+- Firoz Shah, who patronized translation from indigenous languages, commissioned the eminent court scholar **Azzuddin Khalid Khani (Azizuddin Khan)** to translate selected texts (around 300 volumes on astronomy, music, and omens) into Persian verse.
+- The resulting famous Persian compilation was titled **Dalail-i-Firoz Shahi** (*Arguments / Proofs of Firoz Shah*).
+
+**Key Exam Takeaway / Trap:**
+- The Nagarkot Sanskrit translation (*Dalail-i-Firoz Shahi*) was authored by **Azizuddin Khan**.
+- Do not confuse him with 17th-century Mughal translators or Persian chroniclers like Ziauddin Barani and Shams-i Siraj Afif.
 
 </details>
 
@@ -4197,9 +5380,17 @@ D. 1, 2, 3, 4
 
 <details><summary>Show answer</summary>
 
-**Ans: B (2-1-4-3)Order:** 2 Gujarat (**1299**) → 1 Ranthambor (**1301**) → 4 Chittor (**1303**) → 3 Warangal (**~1309–1311**)
+**Correct Answer:** **B** (2–1–4–3 / Gujarat → Ranthambor → Chittor → Warangal)
 
-**Trap:** Gujarat first** — Malik Kafur captured at Cambay before Rajasthan sieges.
+**Detailed Explanation:**
+The precise chronological order of Alauddin Khalji's military conquests is:
+1. **2. Gujarat (1299 CE):** Led by Nusrat Khan and Ulugh Khan; Rai Karan Baghela was defeated; Surat and Somnath were plundered, and the slave-general Malik Kafur was acquired at Cambay.
+2. **1. Ranthambor (1301 CE):** Captured after a protracted siege; Hammiradeva died fighting.
+3. **4. Chittor (1303 CE):** Captured from Rana Ratan Singh; legendary for Rani Padmini's *Jauhar*.
+4. **3. Warangal (1309–1310 CE):** Southern Deccan campaign conducted by Malik Kafur against Kakatiya king Prataparudra.
+
+**Key Exam Takeaway / Trap:**
+- The conquest of Gujarat (**1299**) took place **before** the sieges of Ranthambor (**1301**) and Chittor (**1303**).
 
 </details>
 
@@ -4223,9 +5414,17 @@ D. 4, 3, 2, 1
 
 <details><summary>Show answer</summary>
 
-**Ans: A (3-4-1-2)Facts:** A–3 Sultan Garhi–Iltutmish | B–4 Red Palace–Balban | C–1 Jamat Khana–Alauddin | D–2 Dhai Din Ka Jhopra–Aibak
+**Correct Answer:** **A** (3–4–1–2 / A-3, B-4, C-1, D-2)
 
-**Trap:** Dhai Din Ka Jhopra** is at **Ajmer** (Aibak), not Delhi Qutb complex.
+**Detailed Explanation:**
+- **A. Sultan Garhi → 3. Iltutmish:** Built in 1231 CE in Delhi for his eldest son Nasiruddin Mahmud; celebrated as the earliest monumental Islamic mausoleum (tomb) built in India.
+- **B. Red Palace (Lal Mahal) → 4. Balban:** Fortified royal residence constructed by Ghiyasuddin Balban in Delhi, where he held court and enforced *Sijda* and *Paibos*.
+- **C. Jamat Khana Masjid → 1. Alauddin Khalji:** Oldest intact congregational mosque in Delhi constructed entirely in Islamic architectural style (true arch and dome), located at Nizamuddin.
+- **D. Dhai Din Ka Jhopra → 2. Qutbuddin Aibak:** Early mosque built at **Ajmer** (Rajasthan) in 1192–1199 CE on the orders of Aibak, converting a Sanskrit college into a mosque with pillared cloisters.
+
+**Key Exam Takeaway / Trap:**
+- Sultan Garhi (First tomb) = **Iltutmish**.
+- Dhai Din Ka Jhopra is located at **Ajmer**, built by **Qutbuddin Aibak** (not Delhi).
 
 </details>
 
@@ -4237,11 +5436,17 @@ Options include: **B. 3-4-1-2** (Diwan-i-Tan→Jagirs/salaries; Mustarfi→audit
 
 <details><summary>Show answer</summary>
 
-**Ans: B (3-4-1-2).**
+**Correct Answer:** **B** (3–4–1–2 / A-3, B-4, C-1, D-2)
 
-**Facts:** A–3 Diwan-i-Tan–salaries/jagirs | B–4 Mustarfi–audit | C–1 Mushrif–records | D–2 Vakianvis–firmans
+**Detailed Explanation:**
+- **A. Diwan-i-Tan → 3. Looked after salaries / Jagirs:** Department responsible for managing cash salaries (*naqd*) and assigning revenue estates (*jagirs/iqtas*) to state servants.
+- **B. Mustarfi → 4. Auditor General:** Imperial auditor responsible for scrutinizing and auditing income and expenditure accounts across the provinces and central ministries.
+- **C. Mushrif → 1. Looked after accounts / records:** Imperial accountant general and keeper of revenue ledgers and financial registers.
+- **D. Vakianvis → 2. Maintained list of imperial firmans / news-writer:** Royal court intelligencer and official recorder who documented Sultan's decrees (*firmans*) and court proceedings.
 
-**Trap:** Khareetadar** despatches decrees — do not confuse with Vakianvis (firmans list).
+**Key Exam Takeaway / Trap:**
+- Distinguish the financial duo: **Mushrif** = Accountant / ledger keeper vs. **Mustarfi** = Auditor.
+- *Khareetadar* dispatched royal letters/diplomatic bags, distinct from *Vakianvis* who recorded daily decrees.
 
 </details>
 
@@ -4256,11 +5461,17 @@ D. Muqti was supported to maintain troops out of the revenue collected from Iqta
 
 <details><summary>Show answer</summary>
 
-**Ans: C.**
+**Correct Answer:** **C** (Revenue from Iqta was directly deposited in Sultan's account is NOT a characteristic)
 
-**Why wrong:** Iqta revenue was collected by the **Muqti** for troops and administration — **not** deposited directly in the Sultan's account.
+**Detailed Explanation:**
+- **Statement A is correct:** The *Iqta* system was primarily a grant of the right to collect land revenue from a designated territory in return for administrative and military services.
+- **Statement B is correct:** Nizam-ul-Mulk Tusi's 11th-century treatise **Siyasatnama** provides the foundational theoretical rules governing the obligations, tenure, and supervision of *Iqtadars*.
+- **Statement C is INCORRECT (Hence the answer):** Revenue from an *Iqta* was **never directly deposited into the Sultan's treasury**. Instead, the assignee (*Muqti* or *Iqtadar*) collected the local revenue, deducted his own salary and the costs of maintaining his required army corps, and only the surplus balance, called **Fawazil**, was sent to the imperial treasury.
+- **Statement D is correct:** Maintaining troops out of the proceeds of the assigned *Iqta* was the fundamental military obligation of every *Muqti*.
 
-**Trap:** Direct deposit = **Khalsa** logic, not **Iqta/Jagir**.
+**Key Exam Takeaway / Trap:**
+- Direct revenue deposit into the royal treasury was the defining feature of **Khalsa** lands, NOT *Iqtas*.
+- The surplus sent to the central treasury from an *Iqta* is termed **Fawazil**.
 
 </details>
 
@@ -4275,11 +5486,18 @@ D. Humayunnama — Gulbadan Begam
 
 <details><summary>Show answer</summary>
 
-**Ans: C.**
+**Correct Answer:** **C** (Tughlaqnama — Ibn Battuta is NOT correctly matched)
 
-**Why wrong:** Tughlaqnama = **Ziauddin Barani**; **Ibn Battuta** wrote **Rihla**.
+**Detailed Explanation:**
+- **Pair A: Tabaqat-i-Nasiri — Minhaj-us-Siraj-Juzjani (Correct):** Invaluable 13th-century chronicle dedicated to Sultan Nasiruddin Mahmud, detailing the Turkish conquest from Ghori down to 1260 CE.
+- **Pair B: Tarikh-i-Firozshahi — Shams-i-Siraj Afif (Correct):** Dedicated history of Firoz Shah Tughlaq's reign, continuing from where Ziauddin Barani's chronicle stopped.
+- **Pair C: Tughlaqnama — Ibn Battuta (INCORRECT):** The **Tughlaqnama** was composed by the great poet **Amir Khusrau** (commemorating the rise of Ghiyasuddin Tughlaq and the defeat of Khusrau Khan in 1320 CE). **Ibn Battuta** authored the celebrated travelogue **Kitab-ur-Rihla** (*The Travels*).
+- **Pair D: Humayunnama — Gulbadan Begam (Correct):** Written by Babur's daughter and Humayun's sister at Akbar's request.
 
-**Trap:** Court presence ≠ authorship — Barani not Battuta.
+**Key Exam Takeaway / Trap:**
+- *Tughlaqnama* = **Amir Khusrau**.
+- *Rihla* = **Ibn Battuta**.
+- *Tarikh-i-Firozshahi* was authored independently by **Ziauddin Barani** and **Shams-i-Siraj Afif**.
 
 </details>
 
@@ -4300,11 +5518,15 @@ D. (A) is false, but (R) is true
 
 <details><summary>Show answer</summary>
 
-**Logic:** ** chakla was a Sultanate territorial unit **between Subah and Pargana** — distinct from the Mughal **Sarkar**.
+**Correct Answer:** **A** (Both A and R are true, and R is the correct explanation of A)
 
-**Ans: A.**
+**Detailed Explanation:**
+- **Assertion (A) is correct:** The Turkish invasions of India under Mahmud of Ghazni and subsequently under Muhammad Ghori and his generals (Qutbuddin Aibak, Bakhtiyar Khalji) achieved sweeping military breakthroughs across northern India in the late 12th and early 13th centuries, ultimately establishing the Delhi Sultanate in 1206 CE.
+- **Reason (R) is correct:** Post-Harsha and post-Pratihara northern India was severely fragmented into numerous mutually hostile Rajput principalities (Chauhans of Ajmer, Gahadavalas of Kannauj, Chandelas of Bundelkhand, Chalukyas/Solankis of Gujarat, and Senas of Bengal). They lacked a supreme sovereign coordinating authority, failed to form an enduring pan-Indian military coalition, and routinely celebrated the defeat of rival neighbors by foreign invaders.
+- **Why (R) explains (A):** The chronic absence of political unity, collective defense diplomacy, and strategic coordination enabled Turkish forces with superior mobility and unified command to isolate, attack, and defeat Indian kingdoms one by one. Thus, (R) directly explains the success asserted in (A).
 
-**Trap:** Equating Sultanate **chakla** with Mughal **Sarkar** or **Pargana** — different administrative layers.
+**Key Exam Takeaway / Trap:**
+- Rajput society possessed unmatched individual martial valor, but suffered from chronic political fragmentation and tactical rigidity (reliance on sluggish elephant corps vs. Turkish horse-archery mobility).
 
 </details>
 
@@ -4319,10 +5541,22 @@ B. Muhammad Tughlaq
 C. Firoz Tughlaq
 D. Sher Shah Suri
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Ans: B (Series B provisional key).** Muhammad bin Tughlaq created Diwan-i-Amir-i-Kohi for agrarian improvement. Firoz is the canal/works distractor; Alauddin is the market-control distractor.
+**Correct Answer:** **B** (Muhammad bin Tughlaq)
+
+**Detailed Explanation:**
+- Sultan **Muhammad bin Tughlaq (reigned 1325–1351 CE)** created a specialized, innovative agricultural department called **Diwan-i-Amir-i-Kohi** (or *Diwan-i-Kohi*).
+- **Objectives:**
+  1. Bring uncultivated wasteland under intensive state-supervised agriculture.
+  2. Upgrade cropping patterns from inferior crops to superior staples (e.g. from barley/wheat to sugarcane, grapes, and cotton).
+  3. Extend direct state agricultural loans (*Sondhar / Taccavi*) to impoverished peasants and dig community irrigation wells.
+- Though well-conceived, the project faltered due to official corruption, selection of unsuitable soil, and administrative impatience.
+
+**Key Exam Takeaway / Trap:**
+- *Diwan-i-Amir-i-Kohi* (Agriculture) = **Muhammad bin Tughlaq**.
+- *Diwan-i-Mustakharaj* (Revenue arrears) = **Alauddin Khalji**.
+- *Diwan-i-Khairat* (Charity) & *Diwan-i-Bandagan* (Slaves) = **Firoz Shah Tughlaq**.
 
 </details>
 
@@ -4349,9 +5583,17 @@ D. Only 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 2 is correct.
+**Correct Answer:** **D** (Only Statement 2 is correct)
 
-**Logic:** Stmt 3 false: Chachnama’s Sindh capital tradition is Arod (Aror), not Delhi. Stmt 1 remains false: Qasim’s foothold was Sindh, not Gangetic Delhi.
+**Detailed Explanation:**
+- **Statement 1 is incorrect:** The early Arab conquest under Muhammad bin Qasim (712 CE) established an isolated provincial foothold in **Sindh and Multan**; it did NOT penetrate the Gangetic valley or establish an imperial capital at Delhi (Delhi did not become the capital until Iltutmish in the 13th century).
+- **Statement 2 is correct:** **Muhammad bin Qasim** defeated Raja Dahir at the Battle of Rawar in **712 CE**, annexing Sindh to the Umayyad Caliphate.
+- **Statement 3 is incorrect:** The **Chachnama** (originally written in Arabic and translated into Persian by Ali Kufi) records the history of the Chach dynasty and the Arab conquest of Sindh with its capital at **Aror (Al-Ror)**, completely independent of Delhi.
+
+**Key Exam Takeaway / Trap:**
+- Arab capital of early Sindh was **Aror / Mansurah**, NOT Delhi.
+- First Muslim invader of India = **Muhammad bin Qasim (712 CE)**.
+- First Turkish invader of India = **Sabuktigin (977 CE)**.
 
 </details>
 
@@ -4376,9 +5618,16 @@ D. A-1, B-3, C-2, D-4
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** A-2, B-3, C-1, D-4.
+**Correct Answer:** **B** (A-2, B-3, C-1, D-4)
 
-**Logic:** Naika Devi 1178 → Tarain I 1191 → Tarain II 1192 → Chandawar 1194.
+**Detailed Explanation:**
+- **A. Mount Abu (Battle of Kayadara) → 2. 1178; Ghori's first India defeat:** Solanki/Chaulukya regent queen **Naika Devi** (mother of Mularaja II) decisively routed Muhammad Ghori at the foot of Mount Abu.
+- **B. First Battle of Tarain → 3. 1191; Prithviraj wins:** Prithviraj Chauhan routed Ghori's army; Ghori was wounded and rescued by a Khalji horseman.
+- **C. Second Battle of Tarain → 1. 1192; Ghori wins:** Decisive battle where Ghori used superior cavalry tactics to defeat and capture Prithviraj, laying the foundation of Turkish rule in north India.
+- **D. Battle of Chandawar → 4. 1194; Jay Chandra killed:** Muhammad Ghori defeated Gahadavala king **Jayachandra** of Kannauj/Banaras near modern Firozabad/Etawah.
+
+**Key Exam Takeaway / Trap:**
+- Ghori's first defeat in India was NOT at Tarain (1191), but at **Kayadara/Mount Abu in 1178** by **Naika Devi / Solankis of Gujarat**.
 
 </details>
 
@@ -4396,9 +5645,16 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A).
+**Correct Answer:** **D** (Both A and R are true, and R is the correct explanation of A)
 
-**A/R logic:** Ghaznavid raid-and-return vs Ghurid conquer-and-stay is the first invasion trap.
+**Detailed Explanation:**
+- **Assertion (A) is correct:** The historical objectives and imperial consequences of Muhammad Ghori's invasions differed radically from those of Mahmud of Ghazni.
+- **Reason (R) is correct:** **Mahmud of Ghazni** conducted seventeen destructive military campaigns (1000–1026 CE) essentially designed to plunder wealth, demolish iconic temples (e.g. Somnath), and finance his Central Asian empire, returning to Ghazni after each raid. In contrast, **Muhammad Ghori** aimed at permanent territorial empire-building in India; he appointed resident viceroys (like Qutbuddin Aibak), established permanent garrisons, created *Iqtas*, and issued local coinage.
+- **Why (R) explains (A):** The contrasting institutional models—plunder-and-retreat versus conquest-and-colonize—directly explains why Ghori founded an enduring Muslim empire in India while Ghazni left only an isolated province in Punjab.
+
+**Key Exam Takeaway / Trap:**
+- Mahmud of Ghazni = Plunder and return.
+- Muhammad Ghori = Territorial conquest and founding of state structures.
 
 </details>
 
@@ -4418,9 +5674,20 @@ D. 2–1–5–4–3
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Slave → Khalji → Tughlaq → Sayyid → Lodi.
+**Correct Answer:** **B** (2–1–4–5–3 / Slave → Khalji → Tughlaq → Sayyid → Lodi)
 
-**Logic:** Spans: 1206–1290 → 1290–1320 → 1320–1414 → 1414–1451 → 1451–1526.
+**Detailed Explanation:**
+The Delhi Sultanate comprises five successive dynasties:
+1. **2. Slave / Mamluk Dynasty (1206–1290 CE):** Founded by Qutbuddin Aibak (84 years).
+2. **1. Khalji Dynasty (1290–1320 CE):** Founded by Jalaluddin Khalji; peak under Alauddin (30 years — shortest ruling dynasty).
+3. **4. Tughlaq Dynasty (1320–1414 CE):** Founded by Ghiyasuddin Tughlaq; peak under Muhammad and Firoz (94 years — longest ruling dynasty).
+4. **5. Sayyid Dynasty (1414–1451 CE):** Founded by Khizr Khan (37 years).
+5. **3. Lodi Dynasty (1451–1526 CE):** Founded by Bahlul Lodi; ended at First Panipat (75 years — first Afghan dynasty).
+
+**Key Exam Takeaway / Trap:**
+- Longest reigning dynasty = **Tughlaq** (94 years).
+- Shortest reigning dynasty = **Khalji** (30 years).
+- First Afghan dynasty = **Lodi**.
 
 </details>
 
@@ -4438,9 +5705,16 @@ D. 1 and 2 only
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only pair 3 is not correctly matched.
+**Correct Answer:** **B** (Only pair 3 is NOT correctly matched)
 
-**Logic:** Aibak ruled as Malik/Sipahsalar (Lakh Baksh), not styled Sultan in the same way as later rulers.
+**Detailed Explanation:**
+- **Pair 1: Qutb-ud-din Aibak — capital at Lahore (Correct):** Aibak administered the infant Sultanate primarily from Lahore, where he died in 1210 CE playing Chaugan (polo).
+- **Pair 2: Iltutmish — first lasting Delhi capital (Correct):** Shamsuddin Iltutmish permanently shifted the capital from Lahore to **Delhi**, making it the enduring imperial seat.
+- **Pair 3: Aibak — title "Sultan" as regular style (INCORRECT):** Aibak never assumed sovereign regalia: he never had the *Khutba* read in his name, did not strike coins in his name, and styled himself modestly as **Malik** and **Sipahsalar** (commander) under Ghorid overlordship. It was **Iltutmish** who obtained formal recognition (*Manshur*) from the Abbasid Caliph of Baghdad in 1229 CE and took the sovereign title of *Sultan*.
+
+**Key Exam Takeaway / Trap:**
+- First de facto ruler = **Qutbuddin Aibak** (ruled as *Malik/Sipahsalar* from Lahore; known as *Lakh Baksh*).
+- First real sovereign Sultan of Delhi = **Iltutmish** (capital Delhi; Caliphal investiture 1229).
 
 </details>
 
@@ -4458,9 +5732,17 @@ D. Only 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three statements are correct.
+**Correct Answer:** **C** (Statements 1, 2 and 3 are all correct)
 
-**Logic:** These checks fought fake musters; do not swap Dagh with Chehra.
+**Detailed Explanation:**
+- **Statement 1 is correct:** Alauddin Khalji was the first Sultan of Delhi to establish a massive, centrally recruited, permanent standing army paid **entirely in cash** (*naqd*) from the royal treasury (234 tankas annually for a horseman, with 78 additional tankas for a two-horse soldier/*do-aspa*).
+- **Statement 2 is correct:** He introduced the system of **Dagh** (branding of horses with the royal emblem) to prevent corrupt soldiers from presenting hired or substandard packhorses during military inspections.
+- **Statement 3 is correct:** He introduced **Chehra / Huliya** (detailed physical descriptive muster rolls of every recruit) to prevent fraudulent proxy substitutions on the battlefield.
+
+**Key Exam Takeaway / Trap:**
+- Dagh = Branding of warhorses.
+- Chehra / Huliya = Descriptive identity rolls of soldiers.
+- Both reforms were later revived on a grand scale by **Sher Shah Suri** and **Akbar**.
 
 </details>
 
@@ -4481,9 +5763,16 @@ D. 1 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 is correct.
+**Correct Answer:** **A** (Only Statement 1 is correct)
 
-**Logic:** Stmt 3 false: Amir-i-Kohi is Muhammad bin Tughlaq’s agriculture department; Shahna-i-Mandi is Alauddin’s market control. Stmt 2 remains false for the same swap.
+**Detailed Explanation:**
+- **Statement 1 is correct:** Muhammad bin Tughlaq (1325–1351 CE) is famous for ambitious state experiments: transferring the capital to **Daulatabad (Devagiri)** in 1327 to govern the Deccan, introducing a **token currency** of bronze/copper (1329–30), and creating the agriculture department **Diwan-i-Amir-i-Kohi**.
+- **Statement 2 is incorrect:** **Shahna-i-Mandi** was the supreme market superintendent under **Alauddin Khalji's** market regulations, NOT an officer of Muhammad bin Tughlaq.
+- **Statement 3 is incorrect:** **Amir-i-Kohi** was the director of the agricultural development department under **Muhammad bin Tughlaq**, NOT Alauddin's market controller.
+
+**Key Exam Takeaway / Trap:**
+- *Shahna-i-Mandi* = **Alauddin Khalji** (Market inspector).
+- *Amir-i-Kohi* = **Muhammad bin Tughlaq** (Agricultural department head).
 
 </details>
 
@@ -4501,9 +5790,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both (A) and (R) are true and (R) explains (A).
+**Correct Answer:** **D** (Both A and R are true, and R is the correct explanation of A)
 
-**A/R logic:** Court rituals and Diwan-i-Arz backed Balban’s theory of kingship.
+**Detailed Explanation:**
+- **Assertion (A) is correct:** Balban formulated an uncompromising, exalted doctrine of monarchy, governed by the policy of **"Blood and Iron"** (*Khoon aur Loha*). He maintained that only an awe-inspiring, unapproachable monarch could inspire obedience in subjects and subdue unruly nobles.
+- **Reason (R) is correct:** To elevate royal prestige above the nobility, Balban claimed descent from the mythical Turanian hero **Afrasiyab**, proclaimed the Sultan to be the "Shadow of God on Earth" (**Zill-i-Ilahi**) and the "Viceregent of God" (**Niyabat-i-Khudai**), and enforced strict Persian court etiquette, requiring all nobles to perform **Sijda** (prostration) and **Paibos** (kissing the Sultan's feet).
+- **Why (R) explains (A):** The institutionalization of divine titles and humiliating prostration ceremonies was the deliberate psychological instrument through which Balban visually and symbolically elevated the monarchy, directly implementing his "Blood and Iron" prestige policy.
+
+**Key Exam Takeaway / Trap:**
+- Persian rituals **Sijda**, **Paibos**, and the spring festival **Nauroz** were introduced to Delhi by **Balban**.
 
 </details>
 
@@ -4528,9 +5823,18 @@ D. A-3, B-1, C-2, D-4
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** A-2, B-1, C-3, D-4.
+**Correct Answer:** **A** (A-2, B-1, C-3, D-4)
 
-**Logic:** Firdausi ≠ Firishta; Rihla ≠ Tughlaqnama (Amir Khusrau).
+**Detailed Explanation:**
+- **A. Kitab-ul-Yamini → 2. Utbi:** Authored by Abu Nasr Utbi, court historian of Mahmud of Ghazni, detailing the Yamini dynasty's campaigns up to 1020 CE.
+- **B. Shahnama → 1. Firdausi:** Immortal Persian epic poem composed by Firdausi (the "Homer of the East"), commissioned by Mahmud of Ghazni.
+- **C. Kitab-ul-Hind → 3. Al-Biruni:** Masterpiece of Indology (*Tahqiq-i-Hind*) written in Arabic by Abu Rayhan Al-Biruni, who accompanied Mahmud to India and studied Sanskrit, astronomy, philosophy, and Hindu customs.
+- **D. Rihla → 4. Ibn Battuta:** Moroccan traveler Ibn Battuta's vibrant travelogue detailing his eight years as Qazi of Delhi under Muhammad bin Tughlaq.
+
+**Key Exam Takeaway / Trap:**
+- *Kitab-ul-Hind* = **Al-Biruni** (written in Arabic).
+- *Shahnama* = **Firdausi** (written in Persian).
+- *Kitab-ul-Yamini* = **Utbi**.
 
 </details>
 
@@ -4548,9 +5852,16 @@ D. Only 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three statements are correct.
+**Correct Answer:** **C** (Statements 1, 2 and 3 are all correct)
 
-**Logic:** Siyasatnama is the classical Muqti-duties source; Firoz later made iqta hereditary.
+**Detailed Explanation:**
+- **Statement 1 is correct:** Although the concept of *Iqta* originated in the wider Islamic world, **Iltutmish** was the institutional architect who established it as the backbone of imperial administration and military organization in India.
+- **Statement 2 is correct:** The revenue of an *Iqta* was collected by the *Muqti* (assignee) locally for maintaining troops and personal establishment; only the balance (*Fawazil*) was remitted to the Sultan, unlike Khalsa revenues.
+- **Statement 3 is correct:** **Khalsa** designated crown lands administered directly by central revenue officers (*Amils*), whose revenues went straight to the imperial treasury.
+
+**Key Exam Takeaway / Trap:**
+- Early Sultanate: Iqtas were transferable and non-hereditary.
+- Under **Firoz Shah Tughlaq**, Iqtas were made hereditary, weakening state finances.
 
 </details>
 
@@ -4569,9 +5880,17 @@ D. 2–4–3–1
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Jaisalmer → Ranthambor → Chittor → Warangal.
+**Correct Answer:** **A** (2–4–1–3 / Jaisalmer → Ranthambor → Chittor → Warangal)
 
-**Logic:** Gujarat fell in 1299; Malik Kafur rose from Cambay.
+**Detailed Explanation:**
+The correct chronological order of campaigns is:
+1. **2. Jaisalmer (1299 CE):** Secured western flank on the road to Gujarat.
+2. **4. Ranthambor (1301 CE):** Fallen to siege after death of Nusrat Khan and Hammiradeva's sacrifice.
+3. **1. Chittor (1303 CE):** Conquered from Guhila Rana Ratan Singh; renamed Khizrabad.
+4. **3. Warangal (1309–1310 CE):** South Indian campaign led by Malik Kafur; Kakatiya ruler Prataparudra submitted.
+
+**Key Exam Takeaway / Trap:**
+- Notice the geographic shift: North Indian territorial annexations (**1299–1305**) preceded Deccan tributary campaigns (**1307–1312**).
 
 </details>
 
@@ -4585,9 +5904,16 @@ D. Malik Kafur — Hazar-Dinari
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Ibrahim is the last Sultan (Panipat 1526); Firuz repaired/added Qutub storeys.
+**Correct Answer:** **B** (Ibrahim Lodi — repaired Qutub Minar is NOT correctly matched)
 
-**Logic:** Sikandar vs Ibrahim and Firuz vs Ghiyasuddin on Qutub are classic traps.
+**Detailed Explanation:**
+- **A. Razia — only woman Sultan of Delhi (Correct):** Ruled 1236–1240 CE; appointed Jamal-ud-Din Yaqut as *Amir-i-Akhur*.
+- **B. Ibrahim Lodi — repaired Qutub Minar (INCORRECT):** In 1369 CE, lightning damaged the fourth storey of Qutub Minar; it was **Firoz Shah Tughlaq** who repaired it, replacing the damaged single storey with two smaller storeys (raising it to 5 storeys). (Later, Sikandar Lodi also carried out minor repairs in 1503, but **Ibrahim Lodi** had no connection with its repairs).
+- **C. Sikandar Lodi — builder of Agra (Correct):** Founded the city of **Agra** in **1504 CE** to control the trade routes of the Yamuna and check Rajput chieftains.
+- **D. Malik Kafur — Hazar-Dinari (Correct):** Purchased as a military slave at Cambay for 1,000 dinars during the 1299 Gujarat campaign.
+
+**Key Exam Takeaway / Trap:**
+- Qutub Minar construction: Started by **Aibak** → Completed to 4 storeys by **Iltutmish** → 4th storey repaired & 5th added by **Firoz Shah Tughlaq**.
 
 </details>
 
@@ -4605,9 +5931,16 @@ D. 1 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** All three statements are correct.
+**Correct Answer:** **A** (Statements 1, 2 and 3 are all correct)
 
-**Logic:** Also: Diwan-i-Khairat / Bandagan, Dar-ul-Shafa, and Ashoka pillars from Topra/Meerut.
+**Detailed Explanation:**
+- **Statement 1 is correct:** Firoz Shah Tughlaq constructed an extensive canal network (Yamuna to Hissar, Sutlej to Ghaggar) and levied a separate **water tax** called **Haqq-i-Sharb** (or *Hasil-i-Sharb*) at the rate of 10% (1/10th) of the produce on irrigated lands.
+- **Statement 2 is correct:** Guided by orthodox Islamic theologians (*Ulema*), Firoz Shah was the first Sultan of Delhi to impose **Jizya on Brahmanas**, who had previously enjoyed customary exemption.
+- **Statement 3 is correct:** To conciliate the nobility and army, Firoz Shah abolished the branding of horses (*Dagh*) and made military appointments and **Iqtas completely hereditary**, allowing aging soldiers to send their sons or sons-in-law in their place.
+
+**Key Exam Takeaway / Trap:**
+- First imposition of Jizya on Brahmanas = **Firoz Shah Tughlaq**.
+- *Haqq-i-Sharb* = 10% irrigation tax introduced by **Firoz Shah Tughlaq**.
 
 </details>
 
@@ -4625,9 +5958,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both (A) and (R) are true and (R) helps explain the post-battle consolidation of (A).
+**Correct Answer:** **D** (Both A and R are true, and R is the correct explanation of A)
 
-**A/R logic:** Cause–course–result: Rajput defeat → Ghurid win → iqta footholds → Slave Sultanate path.
+**Detailed Explanation:**
+- **Assertion (A) is correct:** The **Second Battle of Tarain (1192 CE)** was the true watershed and turning point in medieval Indian history, decisively breaking the backbone of Rajput military power in the doab and permanently inaugurating Muslim rule in the Indian subcontinent.
+- **Reason (R) is correct:** Immediately following his victory at Tarain, Muhammad Ghori did not evacuate north India; instead, he placed key strategic outposts—such as **Kuhram, Samana, and Meerut**—under the military charge of his trusted general **Qutbuddin Aibak**, creating permanent administrative footholds that evolved directly into the Delhi Sultanate in 1206 CE.
+- **Why (R) explains (A):** The deliberate institutionalization of permanent garrison commands and governorships (*Iqtas*) under Aibak ensured that the military victory at Tarain was translated into irreversible, enduring territorial sovereignty.
+
+**Key Exam Takeaway / Trap:**
+- Tarain I (1191) was an episodic victory for Prithviraj; Tarain II (1192) was the decisive strategic transformation of northern India.
 
 </details>
 
@@ -4645,9 +5984,16 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** All three statements are correct.
+**Correct Answer:** **B** (Statements 1, 2 and 3 are all correct)
 
-**Logic:** Also: Sultan Garhi–Iltutmish; Red Palace–Balban; Jamat Khana–Alauddin.
+**Detailed Explanation:**
+- **Statement 1 is correct:** The **Qutub Minar** in Delhi was dedicated to the Sufi saint Khwaja Qutbuddin Bakhtiyar Kaki; its construction was commenced by Qutbuddin Aibak (basement level) and completed by Shamsuddin Iltutmish (who added three storeys).
+- **Statement 2 is correct:** The **Alai Darwaza**, built in **1311 CE** by Alauddin Khalji as the southern gateway to the Quwwat-ul-Islam mosque, is celebrated as the earliest monument in India to successfully utilize the **true pointed horseshoe arch** and pure dome.
+- **Statement 3 is correct:** **Dhai Din Ka Jhopra** at Ajmer was constructed by Qutbuddin Aibak around 1192–1199 CE.
+
+**Key Exam Takeaway / Trap:**
+- Earliest true arch in India = **Tomb of Balban** (Delhi).
+- Earliest true horseshoe arch & dome gateway = **Alai Darwaza** (Alauddin Khalji, 1311 CE).
 
 </details>
 
@@ -4665,9 +6011,16 @@ D. All 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Correct Answer:** **D** (Statements 1, 2 and 3 are all correct)
 
-**Logic:** Lakshmana Sena fled to East Bengal after the Nadia shock.
+**Detailed Explanation:**
+- **Statement 1 is correct:** Ikhtiyar-ud-Din Muhammad Bakhtiyar Khalji led lightning raids into Bihar around 1197–1200 CE, capturing the fort-monastery of **Odantapuri** and destroying the world-renowned Buddhist universities of **Nalanda** and **Vikramashila**.
+- **Statement 2 is correct:** Around **1204 CE**, disguised with a vanguard of just 18 horsemen posing as horse traders, Bakhtiyar took the Sena capital of **Nadia (Navadvipa)** by total surprise, causing King Lakshmana Sena to flee to East Bengal.
+- **Statement 3 is correct:** He established his administrative headquarters and capital at **Lakhnauti** (Gaur) in western Bengal before his disastrous expedition into Kamarupa (Assam), where he was subsequently murdered by his lieutenant Ali Mardan Khalji.
+
+**Key Exam Takeaway / Trap:**
+- Destroyer of Nalanda & Vikramashila = **Bakhtiyar Khalji**.
+- Sena king during the Nadia invasion = **Lakshman Sen (1204 CE)**.
 
 </details>
 
@@ -4692,9 +6045,19 @@ D. A-3, B-1, C-2, D-4
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** A-2, B-1, C-3, D-4.
+**Correct Answer:** **A** (A-2, B-1, C-3, D-4)
 
-**Logic:** Jizya is the tax on non-Muslims — keep it distinct from khams.
+**Detailed Explanation:**
+- **A. Diwan-i-Tan → 2. Salaries / Jagir assignment:** Managed the payroll, military compensation, and assignment of revenue estates.
+- **B. Mushrif → 1. Accounts / Record keeper:** Accountant responsible for revenue entries, ledgers, and audit verifications.
+- **C. Mustarfi → 3. Audit:** Auditor general of the imperial financial administration.
+- **D. Khams → 4. One-fifth of war booty:** Under Islamic Sharia, 1/5th of battlefield plunder belonged to the state and 4/5th to soldiers. (Alauddin Khalji and Muhammad bin Tughlaq reversed this, taking 4/5th for the state and giving 1/5th to soldiers).
+
+**Key Exam Takeaway / Trap:**
+- *Kharaj* = Agricultural land tax (typically 1/3rd to 1/2).
+- *Jizya* = Poll tax on non-Muslim subjects (*zimmis*).
+- *Zakat* = Religious charity tax paid by Muslims (2.5%).
+- *Khams* = Tax on spoils of war (state share traditionally 1/5th).
 
 </details>
 
@@ -4712,9 +6075,15 @@ D. Only 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** 2 and 3 only are correct.
+**Correct Answer:** **D** (Statements 2 and 3 only are correct)
 
-**Logic:** Mahmud raided and withdrew; Ghori conquered and stayed.
+**Detailed Explanation:**
+- **Statement 1 is incorrect:** Mahmud's pattern was **never** permanent annexation of the Gangetic plain or making Kannauj his capital. He attacked Kannauj in 1018 CE (forcing Pratihara Rajyapala to flee), ransacked its wealth, and promptly withdrew to his capital at **Ghazni** in Afghanistan.
+- **Statement 2 is correct:** The Ghaznavid kingdom was founded at Ghazni in 962 CE by the Turkish slave commander **Alptigin**; his son-in-law **Sabuktigin** began raids on India.
+- **Statement 3 is correct:** Mahmud led seventeen raids into India between 1000 and 1026 CE. In his sixteenth expedition (**1025–1026 CE**), he sacked the wealthy Shiva temple of **Somnath** on the Kathiawar coast of Gujarat during the reign of Chaulukya/Solanki king **Bhimdev I**.
+
+**Key Exam Takeaway / Trap:**
+- Mahmud annexed only **Punjab** (to secure his logistical base); he never established permanent government in the Indian interior.
 
 </details>
 
@@ -4728,9 +6097,17 @@ D. Rihla — Barani
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Rihla is Ibn Battuta’s travel book.
+**Correct Answer:** **D** (Rihla — Barani is NOT correctly matched)
 
-**Logic:** Barani vs Ibn Battuta and Khusrau’s Tughlaqnama are standard author traps.
+**Detailed Explanation:**
+- **A. Tarikh-i-Firoz Shahi — Barani & Afif (Correct):** Ziauddin Barani wrote up to the sixth year of Firoz Shah's reign; Shams-i-Siraj Afif continued the account.
+- **B. Tughlaqnama — Amir Khusrau (Correct):** Khusrau's final historical masnavi recounting Ghiyasuddin Tughlaq's accession.
+- **C. Tabaqat-i-Nasiri — Minhaj (Correct):** Primary source for early Mamluk history by Minhaj-us-Siraj.
+- **D. Rihla — Barani (INCORRECT):** The **Kitab-ur-Rihla** was composed in Arabic by the Moroccan globe-trotter **Ibn Battuta**, recounting his 14th-century travels and residence at Muhammad bin Tughlaq's court.
+
+**Key Exam Takeaway / Trap:**
+- *Rihla* = **Ibn Battuta**.
+- *Fatwa-i-Jahandari* & *Tarikh-i-Firozshahi* = **Ziauddin Barani**.
 
 </details>
 
@@ -4748,9 +6125,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** (A) is false, but (R) is true.
+**Correct Answer:** **B** (Assertion A is false, but Reason R is true)
 
-**A/R logic:** Token currency belongs to Muhammad bin Tughlaq, not Firoz.
+**Detailed Explanation:**
+- **Assertion (A) is false:** The **token currency** experiment was introduced by **Muhammad bin Tughlaq (1329–1330 CE)**, NOT Firoz Shah Tughlaq. Firoz Shah was a conservative ruler who reformed taxation according to the Quran and repaired existing institutions, but introduced no monetary innovations.
+- **Reason (R) is true:** Inspired by the successful paper currency (*Chao*) in Kublai Khan's China and silver shortages across Eurasia, Muhammad bin Tughlaq issued copper and bronze coins (*Jittal*) decreed to have the same purchasing value as silver *tankas*.
+
+**Key Exam Takeaway / Trap:**
+- Sultan remembered as the "Prince of Moneyers" = **Muhammad bin Tughlaq**.
+- Failure of token currency: The state failed to monopolize the minting process, resulting in widespread counterfeiting ("every Hindu house became a mint," remarked Barani).
 
 </details>
 
@@ -4768,9 +6151,16 @@ D. Only 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Correct Answer:** **D** (Statements 1, 2 and 3 are all correct)
 
-**Logic:** Alauddin died in 1316; Malik Kafur is Hazar-Dinari.
+**Detailed Explanation:**
+- **Statement 1 is correct:** Alauddin instituted land assessment by actual measurement (**Masaht**) based on standard yield per *Biswa*, fixing state demand at a steep **50% of the gross produce** in the fertile doab, collected ruthlessly by the **Diwan-i-Mustakharaj**.
+- **Statement 2 is correct:** He introduced two direct novel imposts: **Ghari** (house tax) and **Charai** (grazing tax on milch cattle).
+- **Statement 3 is correct:** He built the fortified second city of Delhi called **Siri** (around 1303 CE, with the *Hazar Situn* or Palace of Thousand Pillars) to withstand Mongol sieges, and took the arrogant title **Sikandar-i-Sani** (*Alexander the Second*), which appeared on his coins.
+
+**Key Exam Takeaway / Trap:**
+- *Ghari* (house tax) and *Charai* (grazing tax) = **Alauddin Khalji**.
+- Title *Sikandar-i-Sani* = **Alauddin Khalji**.
 
 </details>
 
@@ -4788,9 +6178,16 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** All three statements are correct.
+**Correct Answer:** **B** (Statements 1, 2 and 3 are all correct)
 
-**Logic:** Do not confuse Panipat 1526 with Tarain 1192 or Chandawar 1194.
+**Detailed Explanation:**
+- **Statement 1 is correct:** On **21 April 1526**, Zahir-ud-din Muhammad **Babur** crushed the numerically superior army of Sultan **Ibrahim Lodi** at Panipat using superior gunpowder artillery and the Ottoman flanking maneuver (**Tulughma** with chained gun carts / *Araba*).
+- **Statement 2 is correct:** **Ibrahim Lodi** was killed on the battlefield, becoming the **only Delhi Sultan to die fighting in battle**.
+- **Statement 3 is correct:** Panipat (1526) brought the 320-year-old Delhi Sultanate (1206–1526 CE) to an official close and established the **Mughal Empire** in India.
+
+**Key Exam Takeaway / Trap:**
+- Only Sultan of Delhi to die on the battlefield = **Ibrahim Lodi**.
+- Babur's artillery commanders at Panipat = **Ustad Ali** and **Mustafa**.
 
 </details>
 
@@ -4811,9 +6208,15 @@ D. 1 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 is correct.
+**Correct Answer:** **B** (Only Statement 1 is correct)
 
-**Logic:** Stmt 3 false: Altunia/Yaqut ended Razia’s rule; they did not begin it. Stmt 2 remains false: tanka/jital and Delhi capital tags belong to Iltutmish.
+**Detailed Explanation:**
+- **Statement 1 is correct:** **Razia Sultan (1236–1240 CE)** was the first and only Muslim woman sovereign to sit on the throne of Delhi.
+- **Statement 2 is incorrect:** Introducing silver *tanka* / copper *jital* and establishing Delhi as the capital were achievements of her father **Shamsuddin Iltutmish**, NOT Razia.
+- **Statement 3 is incorrect:** Malik Altunia (governor of Tabarhinda/Bhatinda) and the Turkish nobles rebelled **against** Razia (provoked by her favoritism toward the Abyssinian officer Jamal-ud-din Yaqut), leading to her capture, marriage to Altunia, and subsequent defeat and death near Kaithal in 1240 CE. This conflict **ended** her reign; it did not begin it.
+
+**Key Exam Takeaway / Trap:**
+- Contemporary chronicler Minhaj-us-Siraj remarked that Razia possessed all monarchical virtues, but "her gender was considered her fatal defect" by the Turkish grandees (*Chahalgani*).
 
 </details>
 
@@ -4838,9 +6241,17 @@ D. A-3, B-1, C-2, D-4
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** A-2, B-1, C-3, D-4.
+**Correct Answer:** **A** (A-2, B-1, C-3, D-4)
 
-**Logic:** Do not swap Alauddin’s Ghari/Charai with Firoz’s Haqq-i-Sharb.
+**Detailed Explanation:**
+- **A. Ghari / Charai → 2. Alauddin house & grazing taxes:** Novel levies imposed on property and cattle.
+- **B. Haqq-i-Sharb → 1. Firoz Shah's irrigation tax:** 10% levy on lands watered by imperial canals.
+- **C. Gulrukhi → 3. Sikandar Lodi's pen-name:** Sikandar Lodi composed Persian verses under the poetic nom de plume *Gulrukhi*.
+- **D. Lakh Baksh → 4. Aibak's generosity title:** Qutbuddin Aibak was hailed as *Lakh Baksh* (giver of lakhs) due to his lavish charity.
+
+**Key Exam Takeaway / Trap:**
+- Pen-name *Gulrukhi* = **Sikandar Lodi**.
+- Measurement yard *Gaj-i-Sikandari* (39 digits/32 inches) = **Sikandar Lodi**.
 
 </details>
 
@@ -4858,9 +6269,16 @@ D. Only 1 and 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** 1 and 2 only are correct.
+**Correct Answer:** **D** (Statements 1 and 2 only are correct)
 
-**Logic:** Sayyid follows Tughlaq (1414–1451); Slave is the first dynasty.
+**Detailed Explanation:**
+- **Statement 1 is correct:** The Central Asian conqueror **Timur (Tamerlane)** invaded northern India and sacked Delhi in December **1398 CE**, slaughtering thousands and carrying away vast plunder and master artisans.
+- **Statement 2 is correct:** The invasion occurred during the reign of the weak Tughlaq ruler **Nasiruddin Mahmud Shah Tughlaq** ("The empire of the Lord of the World extends from Delhi to Palam," ran the contemporary satire).
+- **Statement 3 is incorrect:** The **Sayyid dynasty (1414–1451 CE)** was founded by Timur's appointed deputy, Khizr Khan, **after** the Tughlaqs; it did NOT precede the Slave dynasty (which ruled earlier in 1206–1290 CE).
+
+**Key Exam Takeaway / Trap:**
+- Sultan during Timur's 1398 invasion = **Nasiruddin Mahmud Tughlaq**.
+- Founder of Sayyid dynasty following Timur's invasion = **Khizr Khan (1414 CE)**.
 
 </details>
 
@@ -4878,9 +6296,14 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** A false, R true.
+**Correct Answer:** **B** (Assertion A is false, but Reason R is true)
 
-**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. They usually fought separately; Vidyadhar alone notably held Mahmud in 1019–20.
+**Detailed Explanation:**
+- **Assertion (A) is false:** North Indian Rajput dynasties (Chauhans, Gahadavalas, Chandelas, Paramaras) **never formed a unified, coordinated confederacy against every Ghaznavid raid**. On the contrary, they fought largely in isolation. While Chandela ruler **Vidyadhara** notably formed a brief coalition to punish the Pratihara king Rajyapala for cowardly surrendering Kannauj to Mahmud in 1018, most Rajput states fought or were raided individually.
+- **Reason (R) is true:** Turkish invaders repeatedly exploited the endemic political disunity, clan rivalries, and absence of a pan-Indian sovereign power following the decline of the Gurjara-Pratihara Empire.
+
+**Key Exam Takeaway / Trap:**
+- Most formidable Rajput king who resisted Mahmud of Ghazni = Chandela monarch **Vidyadhara** (1019 and 1022 CE).
 
 </details>
 
@@ -4898,9 +6321,17 @@ D. Only 1 and 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** All three statements are correct.
+**Correct Answer:** **A** (Statements 1, 2 and 3 are all correct)
 
-**Logic:** Iltutmish also took the Caliph’s khilat in 1229.
+**Detailed Explanation:**
+- **Statement 1 is correct:** In a fascinating syncretic accommodation, **Muhammad Ghori** issued gold coins in northern India featuring an image of the Hindu goddess **Lakshmi** on the obverse and his name in Nagari script (*Shri Muhammad bin Sam*) on the reverse.
+- **Statement 2 is correct:** At his mint at Lahore, **Mahmud of Ghazni** struck unique silver dirhams featuring a bilingual legend: the Arabic Kalima on one side, and an accurate Sanskrit translation in Devanagari script on the other: *"Avyaktam ekam Muhammad avatarah nripati Mahmud"* ("The Invisible is One, Muhammad is His incarnation, King Mahmud").
+- **Statement 3 is correct:** **Iltutmish** revolutionized Delhi Sultanate currency by introducing the purely Arabic-styled silver **Tanka** (175 grains) and copper **Jital**, which remained standard medieval denominations.
+
+**Key Exam Takeaway / Trap:**
+- Gold coins depicting Goddess Lakshmi = **Muhammad Ghori**.
+- Sanskrit legend silver dirhams = **Mahmud of Ghazni**.
+- Silver Tanka & Copper Jital = **Iltutmish**.
 
 </details>
 
@@ -4920,9 +6351,16 @@ D. Only 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three statements are correct.
+**Correct Answer:** **C** (Statements 1, 2 and 3 are all correct)
 
-**Logic:** Jaunpur city foundation is Firuz; Sharqi independence comes later under Malik Sarwar.
+**Detailed Explanation:**
+- **Statement 1 is correct:** **Ramachandra** was the reigning monarch of the Yadava dynasty of **Devagiri** who submitted to Alauddin Khalji in 1296 CE.
+- **Statement 2 is correct:** **Prataparudra II** was the Kakatiya king of **Warangal** besieged by Malik Kafur in 1309–1310 CE.
+- **Statement 3 is correct:** The historical city of **Jaunpur** in eastern Uttar Pradesh was founded around 1359 CE by **Firoz Shah Tughlaq** in affectionate memory of his cousin and patron, Sultan Muhammad bin Tughlaq (whose personal name was **Jauna Khan**).
+
+**Key Exam Takeaway / Trap:**
+- Jaunpur city founder = **Firoz Shah Tughlaq** (commemorating Jauna Khan).
+- Jaunpur independent Sharqi dynasty founder = **Malik Sarwar / Khwaja Jahan (1394 CE)**.
 
 </details>
 
@@ -4936,9 +6374,17 @@ D. Diwan-i-Mustakharaj — Firoz Shah’s canal board
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Diwan-i-Mustakharaj is Alauddin’s revenue/measurement machinery.
+**Correct Answer:** **D** (Diwan-i-Mustakharaj — Firoz Shah's canal board is NOT correctly matched)
 
-**Logic:** Swap traps between Alauddin and Muhammad/Firoz offices are frequent.
+**Detailed Explanation:**
+- **A. Diwan-i-Arz — Balban's military department (Correct):** Reorganized under minister Imad-ul-Mulk to maintain military musters independent of the Wazir.
+- **B. Amir-i-Kohi — Muhammad bin Tughlaq's agriculture dept (Correct):** Dedicated to wasteland reclamation and agricultural credit.
+- **C. Shahna-i-Mandi — Alauddin's market controller (Correct):** Executive officer overseeing grain markets under market control regulations.
+- **D. Diwan-i-Mustakharaj — Firoz Shah's canal board (INCORRECT):** **Diwan-i-Mustakharaj** was established by **Alauddin Khalji** to investigate and recover outstanding tax arrears (*mustakharaj*) from corrupt collectors and village revenue intermediaries (*Khuts, Muqaddams, Chaudhuris*). Firoz Shah Tughlaq's canal works were managed under the *Diwan-i-Wazarat* and public works (*Imarat*).
+
+**Key Exam Takeaway / Trap:**
+- *Diwan-i-Mustakharaj* (Arrears recovery) = **Alauddin Khalji**.
+- *Diwan-i-Khairat* (Charity) & *Diwan-i-Insha* (Royal correspondence).
 
 </details>
 
@@ -4956,9 +6402,15 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** 1 and 2 only are correct.
+**Correct Answer:** **C** (Statements 1 and 2 only are correct)
 
-**Logic:** Ibrahim Lodi is centuries later; Khalji follows Slave, not Lodi.
+**Detailed Explanation:**
+- **Statement 1 is correct:** The Mamluk/Slave dynasty disintegrated following the death of Balban; his grandson Muizuddin **Kaiqubad** suffered a stroke and was deposed, and Kaiqubad's infant son **Shamsuddin Kayumars** ruled nominally for a few months in 1290 CE.
+- **Statement 2 is correct:** In June **1290 CE**, the elderly army minister Malik Firuz executed a coup, assassinated Kayumars, and ascended the throne as Sultan **Jalaluddin Khalji**, ending 84 years of Ilbari Turkish monopoly (historically termed the **"Khalji Revolution"**).
+- **Statement 3 is incorrect:** Balban ruled 1266–1287 CE; **Ibrahim Lodi ruled 1517–1526 CE** (more than two centuries later). Balban was followed by Kaiqubad, NOT Ibrahim Lodi.
+
+**Key Exam Takeaway / Trap:**
+- The overthrow of the Slave dynasty by the Khaljis in 1290 CE is called the **"Khalji Revolution"** because it broke the racial monopoly of the Ilbari Turks and opened high offices to non-Turks and Indian Muslims.
 
 </details>
 
