@@ -88,6 +88,20 @@ The Subhash Chandra Bose Aapda Prabandhan Puraskar 2026 is explained under [Awar
 
 ## February 2026
 
+### International Workshop on Heatwaves 2026 | 11–12 February 2026 | New Delhi
+
+**What happened**
+The **National Disaster Management Authority (NDMA)** hosted the **International Workshop on Heatwaves 2026** (preparedness, resilience, risk governance) on **11–12 February 2026** at **Sushma Swaraj Bhawan**, New Delhi (CoDRR series coverage).
+
+**Core facts**
+
+- Dates: **11–12 February 2026** (not 7–8 Jan, 30–31 Jan, or 20–21 Feb).
+- Organiser: **NDMA**.
+- Timing logic: before the March–June heat season so Heat Action Plans can be firmed up.
+
+!!! trap
+Month–week traps are common. Lock **11–12 February 2026**.
+
 ### World Wetlands Day | 2 February 2026
 
 **What happened**

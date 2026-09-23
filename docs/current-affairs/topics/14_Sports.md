@@ -305,12 +305,17 @@ The clay-court Grand Slam concluded at Stade Roland-Garros in Paris.
 
 - **Champions:** **East Bengal FC** won their **maiden ISL championship title**, defeating traditional arch-rivals Mohun Bagan Super Giant in the final.
 
-### ICC Women’s T20 World Cup 2026 | soft start fact
+### ICC Women’s T20 World Cup 2026 | hosts + dates
 
 - Edition: **10th**.
-- Host: **England and Wales** (12 June – 5 July 2026).
+- Hosts: **England and Wales** (not India–Sri Lanka / Australia–South Africa / New Zealand–West Indies).
+- Window: **12 June – 5 July 2026**.
 - Teams: **12**.
-- Defending champions: **New Zealand**.
+- Final venue memory: **Lord’s**.
+- Defending champions entering the tournament: **New Zealand**.
+
+!!! trap
+Host pair = **England and Wales**. Final winner card is separate (July).
 
 ---
 

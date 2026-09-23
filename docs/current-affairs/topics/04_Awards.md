@@ -188,7 +188,7 @@ On the eve of Republic Day, the Government announced the **Padma Awards 2026**. 
 
 - **Mammootty** — Art — Kerala.
 - **Alka Yagnik** — Art — Maharashtra.
-- **Uday Kotak** — Trade and Industry — Maharashtra.
+- **Uday Kotak** — Trade and Industry — Maharashtra (finance / banking identity for “financial sector” stems; founder of Kotak Mahindra Bank). Trap: not Ajay Piramal / Deepak Parekh (older Padma) / Raghuram Rajan for the **2026** Bhushan finance key.
 - **Vijay Amritraj** — Sports — United States of America.
 - **Shibu Soren** — Public Affairs — Jharkhand — Posthumous.
 - **Piyush Pandey** — Art — Maharashtra — Posthumous.
@@ -201,6 +201,10 @@ Sports examples:
 - **Rohit Sharma** — Sports — Maharashtra.
 - **Harmanpreet Kaur Bhullar** — Sports — Punjab.
 - **Savita Punia** — Sports — Haryana.
+
+Other 2026 Shri name traps:
+
+- **Mohan Nagar** — **Social Work** — Madhya Pradesh (water / environment conservation identity in news; official field is **Social Work**, not Sports / Politics / Industry).
 
 UP-linked Padma Shri names to keep: Anil Kumar Rastogi, Ashok Kumar Singh, Buddha Rashmi Mani, Chiranji Lal Yadav, Kewal Krishan Thakral, Mangala Kapoor, Praveen Kumar, Raghupat Singh (posthumous), Rajendra Prasad, and Shyam Sundar.
 

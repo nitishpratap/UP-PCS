@@ -83,6 +83,21 @@ These were visiting leaders, not new Indian appointments, but names are still as
 
 Award winners from January are listed under [Awards](04_Awards.md).
 
+### Sergio Gor | U.S. Ambassador to India | credentials 14 January 2026
+
+**What happened**
+**Sergio Gor** presented credentials to President **Droupadi Murmu** at Rashtrapati Bhavan on **14 January 2026** and formally became the **27th** United States Ambassador to India.
+
+**Core facts**
+
+- Arrival / took charge at the U.S. Embassy, New Delhi: **12 January 2026**.
+- Credentials ceremony: **14 January 2026**.
+- Succeeds the earlier vacancy after **Eric Garcetti**.
+- Country for stems: **United States of America** (not Italy / France / Germany).
+
+!!! trap
+Date trap: charge **12 Jan** vs credentials **14 Jan**. Country trap: USA only.
+
 ### Regulatory & Statutory Appointments
 - **Atomic Energy Regulatory Board (AERB):** **A. K. Balasubrahmanian** assumed office as Chairperson (1 January 2026).
 

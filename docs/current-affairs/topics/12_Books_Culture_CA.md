@@ -51,6 +51,20 @@ Culture-linked Padma names such as Dharmendra, Mammootty, Alka Yagnik, and N Raj
 
 ## March 2026
 
+### Sahityotsav / Festival of Letters 2026 | 30 March – 4 April 2026 | New Delhi
+
+**What happened**
+Sahitya Akademi’s annual literature festival — **Sahityotsav / Festival of Letters 2026** — ran from **30 March to 4 April 2026** at the **Rabindra Bhavan** complex, New Delhi (Ministry of Culture / Sahitya Akademi).
+
+**Core facts**
+
+- English identity of the festival: **Festival of Letters** (not “Festival of poetry / story / folklore” as the sole label).
+- Dates: **30 March – 4 April 2026**.
+- Venue memory: Rabindra Bhavan, New Delhi.
+
+!!! trap
+Theme distractors (poetry / story / folklore) lose to **Festival of Letters**.
+
 ### Book prize
 
 - **William Dalrymple** won the Mark Lynton History Prize for **The Golden Road: How Ancient India Transformed the World**.
