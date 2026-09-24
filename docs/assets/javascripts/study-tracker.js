@@ -1348,22 +1348,107 @@
         saveLocalDailyPlanner(dateStr, localPlanner);
       }
 
-      // Sync to MongoDB backend if online
-      if (getStoredAuthToken()) {
-        authFetch(`${API_BASE}/daily-planner/study-time`, {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({
-            date: dateStr,
-            subject: String(subject).toLowerCase().trim(),
-            topic: String(topicSlug).trim(),
-            title: title || topicSlug,
-            seconds: finalSec
-          })
-        }).catch(() => {});
-      }
+      // Sync to MongoDB backend
+      const token = getStoredAuthToken();
+      fetch(`${API_BASE}/daily-planner/study-time`, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          ...(token ? { 'Authorization': `Basic ${token}` } : {})
+        },
+        body: JSON.stringify({
+          date: dateStr,
+          subject: String(subject).toLowerCase().trim(),
+          topic: String(topicSlug).trim(),
+          title: title || topicSlug,
+          seconds: finalSec
+        })
+      }).catch(() => {});
     } catch (err) {
       console.warn('Error saving study time:', err);
+    }
+  }
+
+  // Cross-device sync with MongoDB Atlas (merges phone + PC reading sessions)
+  async function syncDailyStudyTimeWithServer(dateStr = getTodayISODate()) {
+    try {
+      const token = getStoredAuthToken();
+      const headers = token ? { 'Authorization': `Basic ${token}` } : {};
+      const res = await fetch(`${API_BASE}/daily-planner/study-time?date=${encodeURIComponent(dateStr)}`, { headers });
+      if (!res.ok) return getDailyStudyTimeRecord(dateStr);
+
+      const data = await res.json();
+      if (!data || !data.chapters) return getDailyStudyTimeRecord(dateStr);
+
+      const raw = localStorage.getItem(LOCAL_DAILY_TIME_KEY);
+      const all = raw ? JSON.parse(raw) : {};
+      if (!all[dateStr]) {
+        all[dateStr] = { date: dateStr, chapters: {}, totalSeconds: 0 };
+      }
+
+      const localChaps = all[dateStr].chapters || {};
+      const pushQueue = [];
+
+      // Merge server records into local
+      Object.keys(data.chapters).forEach(key => {
+        const s = data.chapters[key];
+        const l = localChaps[key];
+        const sSec = s.seconds || 0;
+        const lSec = l ? (l.seconds || 0) : 0;
+
+        if (sSec >= lSec) {
+          localChaps[key] = {
+            subject: s.subject,
+            topic: s.topic,
+            title: s.title || s.topic,
+            seconds: sSec,
+            lastActive: s.lastActive || Date.now()
+          };
+        } else if (l && lSec > sSec) {
+          pushQueue.push(l);
+        }
+      });
+
+      // Also check local chapters that server might not have yet
+      Object.keys(localChaps).forEach(key => {
+        if (!data.chapters[key]) {
+          pushQueue.push(localChaps[key]);
+        }
+      });
+
+      // Recalculate total seconds
+      let sum = 0;
+      Object.values(localChaps).forEach(c => {
+        sum += (c.seconds || 0);
+      });
+      all[dateStr].chapters = localChaps;
+      all[dateStr].totalSeconds = sum;
+      localStorage.setItem(LOCAL_DAILY_TIME_KEY, JSON.stringify(all));
+
+      // Push any chapters where local was ahead to server so other devices get it
+      if (pushQueue.length > 0) {
+        pushQueue.forEach(c => {
+          fetch(`${API_BASE}/daily-planner/study-time`, {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json',
+              ...(token ? { 'Authorization': `Basic ${token}` } : {})
+            },
+            body: JSON.stringify({
+              date: dateStr,
+              subject: c.subject,
+              topic: c.topic,
+              title: c.title,
+              seconds: c.seconds
+            })
+          }).catch(() => {});
+        });
+      }
+
+      return all[dateStr];
+    } catch (e) {
+      console.warn('Study time cross-device sync deferred:', e);
+      return getDailyStudyTimeRecord(dateStr);
     }
   }
 
@@ -1430,6 +1515,22 @@
     readingClockSeconds = getTodayChapterStudySeconds(topicInfo.subject, topicInfo.topic, todayStr);
     isReadingClockIdle = false;
 
+    // Cross-device sync: pull latest study time from MongoDB Atlas (e.g. if read on mobile)
+    syncDailyStudyTimeWithServer(todayStr).then(rec => {
+      if (readingClockTopic && rec && rec.chapters) {
+        const key = `${String(readingClockTopic.subject).toLowerCase().trim()}__${String(readingClockTopic.topic).trim()}`;
+        if (rec.chapters[key] && rec.chapters[key].seconds > readingClockSeconds) {
+          readingClockSeconds = rec.chapters[key].seconds;
+          updateClockDisplay();
+        }
+        const curDayTot = rec.totalSeconds || 0;
+        const dayPill = widget.querySelector('#st-clock-day-pill');
+        if (dayPill) dayPill.textContent = 'Day: ' + formatDurationDisplay(curDayTot);
+        const dayTimeEl = widget.querySelector('#st-hud-day-time');
+        if (dayTimeEl) dayTimeEl.textContent = formatDurationDisplay(curDayTot);
+      }
+    }).catch(() => {});
+
     function formatClockTime(sec) {
       const h = Math.floor(sec / 3600);
       const m = Math.floor((sec % 3600) / 60);
@@ -1484,13 +1585,13 @@
           <button type="button" class="st-hud-close" id="st-hud-close-btn">&times;</button>
         </div>
         <div class="st-hud-stats-grid">
-          <div class="st-hud-stat-box">
+          <div class="st-hud-stat-box" title="Active time spent reading THIS chapter today (accumulates till 11:59 PM)">
             <span class="st-hud-stat-num" id="st-hud-chap-time">${formatDurationDisplay(readingClockSeconds)}</span>
-            <span class="st-hud-stat-lbl">Chapter Today</span>
+            <span class="st-hud-stat-lbl">This Chapter</span>
           </div>
-          <div class="st-hud-stat-box">
+          <div class="st-hud-stat-box" title="Combined reading time spent across ALL chapters & notes today">
             <span class="st-hud-stat-num" id="st-hud-day-time">${formatDurationDisplay(todayTotalStudySec)}</span>
-            <span class="st-hud-stat-lbl">Total Today</span>
+            <span class="st-hud-stat-lbl">All Chapters Today</span>
           </div>
           <div class="st-hud-stat-box">
             <span class="st-hud-stat-num" id="st-hud-targets-count">${todayAchievedCount}/${todayPlannedCount}</span>
@@ -4194,7 +4295,8 @@
         authFetch(`${API_BASE}/revisions/due`).catch(() => null),
         authFetch(`${API_BASE}/weak-topics`).catch(() => null),
         authFetch(`${API_BASE}/daily-planner?date=${encodeURIComponent(activePlannerDate)}`).catch(() => null),
-        authFetch(`${API_BASE}/daily-planner/overall-backlog`).catch(() => null)
+        authFetch(`${API_BASE}/daily-planner/overall-backlog`).catch(() => null),
+        syncDailyStudyTimeWithServer(activePlannerDate).catch(() => null)
       ]);
 
       if (sumRes && sumRes.ok) summary = await sumRes.json();

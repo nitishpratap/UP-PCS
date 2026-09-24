@@ -1467,6 +1467,38 @@ app.post('/api/daily-planner/study-time', checkDb, async (req, res) => {
   }
 });
 
+// Fetch study times recorded for date across all devices
+app.get('/api/daily-planner/study-time', checkDb, async (req, res) => {
+  try {
+    const targetDate = req.query.date || getTodayStr();
+    const records = await db.collection('daily_study_time').find({ date: targetDate }).toArray();
+
+    const chapters = {};
+    let totalSeconds = 0;
+    records.forEach(r => {
+      const key = `${String(r.subject).toLowerCase().trim()}__${String(r.topic).trim()}`;
+      const sec = parseInt(r.seconds, 10) || 0;
+      chapters[key] = {
+        subject: r.subject,
+        topic: r.topic,
+        title: r.title || r.topic,
+        seconds: sec,
+        lastActive: r.updated_at ? new Date(r.updated_at).getTime() : Date.now()
+      };
+      totalSeconds += sec;
+    });
+
+    res.json({
+      success: true,
+      date: targetDate,
+      chapters,
+      totalSeconds
+    });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
 // Update reading topic (status, slot, notes)
 app.patch('/api/daily-planner/topic/:id', checkDb, async (req, res) => {
   try {
