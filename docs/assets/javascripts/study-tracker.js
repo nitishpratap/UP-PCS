@@ -45,6 +45,7 @@
   const LOCAL_STORAGE_KEY = 'uppcs_study_logs_v1';
   const LOCAL_TESTS_KEY = 'uppcs_chapter_tests_v1';
   const AUTH_STORAGE_KEY = 'uppcs_vault_auth_token_v1';
+  const LOCAL_PLANNER_KEY = 'uppcs_daily_planner_v1';
 
   // -------------------------------------------------------------
   // CHAPTER PRIORITY TRACKER & TARGET ACCURACY SYSTEM
@@ -444,6 +445,297 @@
     const logs = getLocalLogs();
     const key = `${subject.toLowerCase().trim()}:::${topic.trim()}`;
     return logs[key] || null;
+  }
+
+  // -------------------------------------------------------------
+  // DAILY TARGET PLANNER & TASKS HELPERS
+  // -------------------------------------------------------------
+  function getTodayISODate() {
+    const now = new Date();
+    const y = now.getFullYear();
+    const m = String(now.getMonth() + 1).padStart(2, '0');
+    const d = String(now.getDate()).padStart(2, '0');
+    return `${y}-${m}-${d}`;
+  }
+
+  let activePlannerDate = getTodayISODate();
+  let activePlannerFilter = 'all';
+
+  function formatPlannerDateDisplay(isoDateStr) {
+    if (!isoDateStr) return '';
+    try {
+      const parts = isoDateStr.split('-');
+      const d = new Date(Number(parts[0]), Number(parts[1]) - 1, Number(parts[2]));
+      const today = getTodayISODate();
+      const isToday = isoDateStr === today;
+      const formatted = d.toLocaleDateString('en-IN', { weekday: 'short', day: 'numeric', month: 'short', year: 'numeric' });
+      return isToday ? `Today (${formatted})` : formatted;
+    } catch {
+      return isoDateStr;
+    }
+  }
+
+  function getLocalDailyPlanner(date) {
+    const targetDate = date || activePlannerDate;
+    try {
+      const raw = localStorage.getItem(LOCAL_PLANNER_KEY);
+      const all = raw ? JSON.parse(raw) : {};
+      if (!all[targetDate]) {
+        all[targetDate] = { date: targetDate, reading_topics: [], daily_tasks: [] };
+      }
+      return all[targetDate];
+    } catch {
+      return { date: targetDate, reading_topics: [], daily_tasks: [] };
+    }
+  }
+
+  function saveLocalDailyPlanner(date, plannerData) {
+    const targetDate = date || activePlannerDate;
+    try {
+      const raw = localStorage.getItem(LOCAL_PLANNER_KEY);
+      const all = raw ? JSON.parse(raw) : {};
+      all[targetDate] = {
+        date: targetDate,
+        reading_topics: plannerData.reading_topics || [],
+        daily_tasks: plannerData.daily_tasks || []
+      };
+      localStorage.setItem(LOCAL_PLANNER_KEY, JSON.stringify(all));
+    } catch (e) {
+      console.warn('LocalStorage error saving planner:', e);
+    }
+  }
+
+  async function fetchPlannerData(date) {
+    const targetDate = date || activePlannerDate;
+    try {
+      const res = await authFetch(`${API_BASE}/daily-planner?date=${encodeURIComponent(targetDate)}`);
+      if (res && res.ok) {
+        const data = await res.json();
+        saveLocalDailyPlanner(targetDate, data);
+        return data;
+      }
+    } catch (e) {
+      // offline fallback
+    }
+    return getLocalDailyPlanner(targetDate);
+  }
+
+  async function apiAddPlannerTopic(date, subject, topic, slot, notes) {
+    const targetDate = date || activePlannerDate;
+    const local = getLocalDailyPlanner(targetDate);
+    const newTopic = {
+      id: 'topic_' + Date.now() + '_' + Math.random().toString(36).substr(2, 5),
+      subject: subject.toLowerCase().trim(),
+      topic: topic.trim(),
+      slot: slot || 'morning_12pm',
+      notes: (notes || '').trim(),
+      status: 'pending',
+      achieved_by_12pm: false,
+      missed_12pm: false,
+      created_at: new Date().toISOString(),
+      achieved_at: null
+    };
+    if (!local.reading_topics) local.reading_topics = [];
+    local.reading_topics.push(newTopic);
+    saveLocalDailyPlanner(targetDate, local);
+
+    try {
+      await authFetch(`${API_BASE}/daily-planner/topic`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ date: targetDate, subject, topic, slot, notes })
+      });
+    } catch (e) {
+      console.warn('Backend sync failed, saved locally:', e);
+    }
+    return newTopic;
+  }
+
+  async function apiUpdatePlannerTopic(date, id, updates) {
+    const targetDate = date || activePlannerDate;
+    const local = getLocalDailyPlanner(targetDate);
+    const t = (local.reading_topics || []).find(item => item.id === id);
+    if (t) {
+      Object.assign(t, updates);
+      if (updates.status === 'achieved') {
+        t.achieved_at = new Date().toISOString();
+      }
+      saveLocalDailyPlanner(targetDate, local);
+    }
+
+    try {
+      await authFetch(`${API_BASE}/daily-planner/topic/${encodeURIComponent(id)}`, {
+        method: 'PATCH',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ date: targetDate, ...updates })
+      });
+    } catch (e) {
+      console.warn('Backend sync failed, saved locally:', e);
+    }
+  }
+
+  async function apiDeletePlannerTopic(date, id) {
+    const targetDate = date || activePlannerDate;
+    const local = getLocalDailyPlanner(targetDate);
+    local.reading_topics = (local.reading_topics || []).filter(item => item.id !== id);
+    saveLocalDailyPlanner(targetDate, local);
+
+    try {
+      await authFetch(`${API_BASE}/daily-planner/topic/${encodeURIComponent(id)}?date=${encodeURIComponent(targetDate)}`, {
+        method: 'DELETE'
+      });
+    } catch (e) {
+      console.warn('Backend sync failed, saved locally:', e);
+    }
+  }
+
+  async function apiAddPlannerTask(date, text, priority, time_est) {
+    const targetDate = date || activePlannerDate;
+    const local = getLocalDailyPlanner(targetDate);
+    const newTask = {
+      id: 'task_' + Date.now() + '_' + Math.random().toString(36).substr(2, 5),
+      text: text.trim(),
+      priority: priority || 'normal',
+      time_est: (time_est || '').trim(),
+      completed: false,
+      created_at: new Date().toISOString(),
+      completed_at: null
+    };
+    if (!local.daily_tasks) local.daily_tasks = [];
+    local.daily_tasks.push(newTask);
+    saveLocalDailyPlanner(targetDate, local);
+
+    try {
+      await authFetch(`${API_BASE}/daily-planner/task`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ date: targetDate, text, priority, time_est })
+      });
+    } catch (e) {
+      console.warn('Backend sync failed, saved locally:', e);
+    }
+    return newTask;
+  }
+
+  async function apiUpdatePlannerTask(date, id, updates) {
+    const targetDate = date || activePlannerDate;
+    const local = getLocalDailyPlanner(targetDate);
+    const task = (local.daily_tasks || []).find(item => item.id === id);
+    if (task) {
+      Object.assign(task, updates);
+      if (updates.completed !== undefined) {
+        task.completed_at = updates.completed ? new Date().toISOString() : null;
+      }
+      saveLocalDailyPlanner(targetDate, local);
+    }
+
+    try {
+      await authFetch(`${API_BASE}/daily-planner/task/${encodeURIComponent(id)}`, {
+        method: 'PATCH',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ date: targetDate, ...updates })
+      });
+    } catch (e) {
+      console.warn('Backend sync failed, saved locally:', e);
+    }
+  }
+
+  async function apiDeletePlannerTask(date, id) {
+    const targetDate = date || activePlannerDate;
+    const local = getLocalDailyPlanner(targetDate);
+    local.daily_tasks = (local.daily_tasks || []).filter(item => item.id !== id);
+    saveLocalDailyPlanner(targetDate, local);
+
+    try {
+      await authFetch(`${API_BASE}/daily-planner/task/${encodeURIComponent(id)}?date=${encodeURIComponent(targetDate)}`, {
+        method: 'DELETE'
+      });
+    } catch (e) {
+      console.warn('Backend sync failed, saved locally:', e);
+    }
+  }
+
+  async function apiEvaluate12pmPlanner(date) {
+    const targetDate = date || activePlannerDate;
+    const local = getLocalDailyPlanner(targetDate);
+    let count = 0;
+    (local.reading_topics || []).forEach(t => {
+      if (t.slot === 'morning_12pm' && t.status !== 'achieved') {
+        t.missed_12pm = true;
+        count++;
+      }
+    });
+    saveLocalDailyPlanner(targetDate, local);
+
+    try {
+      await authFetch(`${API_BASE}/daily-planner/evaluate-12pm`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ date: targetDate })
+      });
+    } catch (e) {
+      console.warn('Backend sync failed:', e);
+    }
+    return count;
+  }
+
+  async function apiRolloverPlanner(fromDate, toDate) {
+    let sourceDate = fromDate;
+    if (!sourceDate) {
+      const yesterday = new Date();
+      yesterday.setDate(yesterday.getDate() - 1);
+      const y = yesterday.getFullYear();
+      const m = String(yesterday.getMonth() + 1).padStart(2, '0');
+      const d = String(yesterday.getDate()).padStart(2, '0');
+      sourceDate = `${y}-${m}-${d}`;
+    }
+    const targetDate = toDate || activePlannerDate;
+    const source = getLocalDailyPlanner(sourceDate);
+    const target = getLocalDailyPlanner(targetDate);
+
+    const pendingTopics = (source.reading_topics || [])
+      .filter(t => t.status !== 'achieved')
+      .map(t => ({
+        id: 'topic_' + Date.now() + '_' + Math.random().toString(36).substr(2, 5),
+        subject: t.subject,
+        topic: t.topic,
+        slot: 'morning_12pm',
+        notes: (t.notes ? t.notes + ' ' : '') + `(Rolled from ${sourceDate})`,
+        status: 'pending',
+        achieved_by_12pm: false,
+        missed_12pm: false,
+        created_at: new Date().toISOString(),
+        achieved_at: null
+      }));
+
+    const incompleteTasks = (source.daily_tasks || [])
+      .filter(t => !t.completed)
+      .map(t => ({
+        id: 'task_' + Date.now() + '_' + Math.random().toString(36).substr(2, 5),
+        text: t.text,
+        priority: t.priority || 'normal',
+        time_est: t.time_est || '',
+        completed: false,
+        created_at: new Date().toISOString(),
+        completed_at: null
+      }));
+
+    if (!target.reading_topics) target.reading_topics = [];
+    if (!target.daily_tasks) target.daily_tasks = [];
+    target.reading_topics.push(...pendingTopics);
+    target.daily_tasks.push(...incompleteTasks);
+    saveLocalDailyPlanner(targetDate, target);
+
+    try {
+      await authFetch(`${API_BASE}/daily-planner/rollover`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ from_date: sourceDate, to_date: targetDate })
+      });
+    } catch (e) {
+      console.warn('Backend sync failed:', e);
+    }
+    return { topics: pendingTopics.length, tasks: incompleteTasks.length };
   }
 
   // -------------------------------------------------------------
@@ -3048,19 +3340,73 @@
     let summary = null;
     let dueRevisions = [];
     let weakTopics = [];
+    let planner = null;
 
     try {
-      const [sumRes, dueRes, weakRes] = await Promise.all([
+      const [sumRes, dueRes, weakRes, planRes] = await Promise.all([
         authFetch(`${API_BASE}/dashboard/summary`).catch(() => null),
         authFetch(`${API_BASE}/revisions/due`).catch(() => null),
-        authFetch(`${API_BASE}/weak-topics`).catch(() => null)
+        authFetch(`${API_BASE}/weak-topics`).catch(() => null),
+        authFetch(`${API_BASE}/daily-planner?date=${encodeURIComponent(activePlannerDate)}`).catch(() => null)
       ]);
 
       if (sumRes && sumRes.ok) summary = await sumRes.json();
       if (dueRes && dueRes.ok) dueRevisions = await dueRes.json();
       if (weakRes && weakRes.ok) weakTopics = await weakRes.json();
+      if (planRes && planRes.ok) {
+        planner = await planRes.json();
+        saveLocalDailyPlanner(activePlannerDate, planner);
+      }
     } catch (e) {
       console.warn('Dashboard fetch error:', e);
+    }
+
+    if (!planner) {
+      planner = getLocalDailyPlanner(activePlannerDate);
+    }
+
+    // Daily Planner & Tasks computation
+    const now = new Date();
+    const isCurrentDateToday = activePlannerDate === getTodayISODate();
+    const isPast12PM = isCurrentDateToday && (now.getHours() >= 12);
+
+    const readingTopics = planner.reading_topics || [];
+    // Morning targets not achieved and not overdue
+    const morningTargets = readingTopics.filter(t => t.slot === 'morning_12pm' && t.status !== 'achieved' && !t.missed_12pm && (!isPast12PM || !isCurrentDateToday));
+    // Evening / Afternoon targets
+    const eveningTargets = readingTopics.filter(t => t.slot !== 'morning_12pm' && t.status !== 'achieved' && !t.missed_12pm);
+    // Achieved today
+    const achievedTopics = readingTopics.filter(t => t.status === 'achieved');
+    // Pending backlog (missed 12 PM, marked pending, or overdue morning targets)
+    const pendingTopics = readingTopics.filter(t => {
+      if (t.status === 'achieved') return false;
+      if (t.missed_12pm) return true;
+      if (t.slot === 'pending') return true;
+      if (isPast12PM && isCurrentDateToday && t.slot === 'morning_12pm') return true;
+      return false;
+    });
+
+    const allDailyTasks = planner.daily_tasks || [];
+    const completedTasksCount = allDailyTasks.filter(t => t.completed).length;
+    const totalTasksCount = allDailyTasks.length;
+    const taskCompletionPct = totalTasksCount > 0 ? Math.round((completedTasksCount / totalTasksCount) * 100) : 0;
+
+    const filteredDailyTasks = allDailyTasks.filter(t => {
+      if (activePlannerFilter === 'completed') return t.completed;
+      if (activePlannerFilter === 'pending') return !t.completed;
+      return true;
+    });
+
+    // Helper for subject pill style
+    function getSubjectPillClass(sub) {
+      const s = (sub || '').toLowerCase();
+      if (s.includes('polity')) return 'polity';
+      if (s.includes('geography')) return 'geography';
+      if (s.includes('histor') || s.includes('india')) return 'history';
+      if (s.includes('econom')) return 'economy';
+      if (s.includes('scien')) return 'science';
+      if (s.includes('ecolog') || s.includes('environ')) return 'environment';
+      return '';
     }
 
     // Fallback if server is not responding
@@ -3122,6 +3468,355 @@
             <div class="st-kpi-label">📚 Question Bank Practiced</div>
             <div class="st-kpi-val">${totalPyqs} <small>questions</small></div>
             <div class="st-kpi-sub">Overall PYQ Accuracy: <strong>${pyqAccuracy}%</strong></div>
+          </div>
+        </div>
+
+        <!-- DAILY TARGET PLANNER & EXECUTION HUB (Placed just below KPI cards) -->
+        <div class="st-planner-section" id="st-planner-root">
+          <div class="st-planner-header">
+            <div class="st-planner-title-group">
+              <h3>🎯 Today's Study Plan & Execution Hub</h3>
+              <p>Plan your subjects & topics, track what you achieve by 12:00 PM, manage your pending backlog, and check off daily study tasks.</p>
+            </div>
+            <div class="st-planner-actions-bar">
+              <!-- 12 PM Checkpoint Badge -->
+              <span class="st-planner-12pm-badge ${isPast12PM ? 'is-post-12pm' : 'is-morning'}">
+                ${isPast12PM ? '☀️ Afternoon / Evening Session (12:00 PM Checkpoint Completed)' : '🌅 Morning Slot Active (Target Checkpoint: 12:00 PM)'}
+              </span>
+              <!-- Date Switcher -->
+              <div style="display:inline-flex; align-items:center; gap:0.25rem;">
+                <button type="button" class="st-act-btn" id="st-plan-date-prev" title="Previous Day">◀</button>
+                <span style="font-size:0.8rem; font-weight:700; padding:0.25rem 0.6rem; border-radius:0.35rem; background:var(--study-hairline, #e2e8f0);">
+                  📅 ${formatPlannerDateDisplay(activePlannerDate)}
+                </span>
+                <button type="button" class="st-act-btn" id="st-plan-date-next" title="Next Day">▶</button>
+                ${!isCurrentDateToday ? `<button type="button" class="st-act-btn" id="st-plan-date-today" style="font-weight:700; color:var(--md-primary-fg-color, #273c75);">Today</button>` : ''}
+              </div>
+              <!-- Checkpoint & Rollover Controls -->
+              <button type="button" class="st-act-btn is-warning" id="st-btn-evaluate-12pm" title="Run 12 PM audit to move incomplete morning topics to Pending">
+                ⚡ 12 PM Audit
+              </button>
+              <button type="button" class="st-act-btn" id="st-btn-rollover-yesterday" title="Rollover pending topics and incomplete tasks from yesterday">
+                🔄 Rollover Pending
+              </button>
+            </div>
+          </div>
+
+          <div class="st-planner-grid">
+            <!-- LEFT COLUMN: Subject & Topic Reading Plan -->
+            <div class="st-planner-col">
+              <div class="st-planner-col-head">
+                <h4>📖 Subject & Topic Reading Plan</h4>
+                <span class="st-planner-col-badge">
+                  ${readingTopics.length} Planned | ${achievedTopics.length} Achieved | ${pendingTopics.length} Pending
+                </span>
+              </div>
+
+              <!-- Quick Add Topic Form -->
+              <form class="st-planner-quick-form" id="st-form-add-topic">
+                <div class="st-form-row">
+                  <div style="flex: 1.1; min-width: 130px;">
+                    <select id="st-topic-subject" class="st-planner-input" style="width: 100%;" required>
+                      <option value="polity">Polity</option>
+                      <option value="geography">Geography</option>
+                      <option value="mordern india">Modern India</option>
+                      <option value="ancient history">Ancient History</option>
+                      <option value="medieval india">Medieval India</option>
+                      <option value="environments & ecology">Environment & Ecology</option>
+                      <option value="economy">Economy</option>
+                      <option value="science and technology">Science & Tech</option>
+                      <option value="art and culture">Art & Culture</option>
+                      <option value="up special">UP Special</option>
+                      <option value="current affairs">Current Affairs</option>
+                      <option value="csat">CSAT</option>
+                    </select>
+                  </div>
+                  <div style="flex: 2; min-width: 180px;">
+                    <input type="text" id="st-topic-name" class="st-planner-input" style="width: 100%;" placeholder="Topic name (e.g. Fundamental Rights, Monsoon, Mughal Decline...)" required />
+                  </div>
+                </div>
+                <div class="st-form-row">
+                  <div style="flex: 1.2; min-width: 155px;">
+                    <select id="st-topic-slot" class="st-planner-input" style="width: 100%;">
+                      <option value="morning_12pm">☀️ Morning Slot (Till 12:00 PM)</option>
+                      <option value="evening">⛅ Afternoon / Evening Slot</option>
+                      <option value="all_day">🎯 All-Day Target</option>
+                    </select>
+                  </div>
+                  <div style="flex: 1.6; min-width: 140px;">
+                    <input type="text" id="st-topic-notes" class="st-planner-input" style="width: 100%;" placeholder="Target notes (e.g. 20 pages + 30 PYQs)" />
+                  </div>
+                  <button type="submit" class="st-btn st-btn-primary" style="padding: 0.45rem 0.85rem; font-size: 0.82rem; white-space: nowrap;">
+                    ➕ Add Target
+                  </button>
+                </div>
+              </form>
+
+              <!-- Topic Slot Containers -->
+              <div class="st-slot-container">
+                <!-- 1. Morning Slot (Till 12:00 PM) -->
+                <div class="st-slot-box is-morning-slot">
+                  <div class="st-slot-box-head">
+                    <span>☀️ Morning Slot (Till 12:00 PM)</span>
+                    <span class="st-slot-badge-tag st-tag-morning">${morningTargets.length} Planned</span>
+                  </div>
+                  ${morningTargets.length === 0 ? `
+                    <div class="st-empty-hint" style="padding: 0.65rem;">
+                      ${isPast12PM && isCurrentDateToday ? 'Morning session concluded. Any unfinished goals have moved to Pending below!' : 'No morning targets scheduled yet. Add what you plan to read till 12 PM!'}
+                    </div>
+                  ` : `
+                    <div class="st-topic-items-list">
+                      ${morningTargets.map(t => `
+                        <div class="st-topic-item" id="topic-item-${t.id}">
+                          <div class="st-topic-info-main">
+                            <div class="st-topic-name-row">
+                              <span class="st-sub-pill ${getSubjectPillClass(t.subject)}">${t.subject}</span>
+                              <span>${escapeHtml(t.topic)}</span>
+                            </div>
+                            ${t.notes ? `<div class="st-topic-note-text">📝 ${escapeHtml(t.notes)}</div>` : ''}
+                          </div>
+                          <div class="st-topic-btns">
+                            <button type="button" class="st-act-btn is-success st-topic-achieve-12pm-btn" data-id="${t.id}" title="Achieved by 12 PM!">
+                              ⭐ Achieved (12 PM)
+                            </button>
+                            <button type="button" class="st-act-btn is-warning st-topic-to-pending-btn" data-id="${t.id}" title="Move to Pending Backlog">
+                              ⏳ Pending
+                            </button>
+                            <button type="button" class="st-act-btn is-danger st-topic-del-btn" data-id="${t.id}" title="Delete">
+                              🗑️
+                            </button>
+                          </div>
+                        </div>
+                      `).join('')}
+                    </div>
+                  `}
+                </div>
+
+                <!-- 2. Afternoon / Evening Slot (if any) -->
+                ${eveningTargets.length > 0 ? `
+                  <div class="st-slot-box">
+                    <div class="st-slot-box-head">
+                      <span>⛅ Afternoon / Evening Slot</span>
+                      <span class="st-slot-badge-tag" style="background:#e0e7ff; color:#3730a3;">${eveningTargets.length} Planned</span>
+                    </div>
+                    <div class="st-topic-items-list">
+                      ${eveningTargets.map(t => `
+                        <div class="st-topic-item" id="topic-item-${t.id}">
+                          <div class="st-topic-info-main">
+                            <div class="st-topic-name-row">
+                              <span class="st-sub-pill ${getSubjectPillClass(t.subject)}">${t.subject}</span>
+                              <span>${escapeHtml(t.topic)}</span>
+                            </div>
+                            ${t.notes ? `<div class="st-topic-note-text">📝 ${escapeHtml(t.notes)}</div>` : ''}
+                          </div>
+                          <div class="st-topic-btns">
+                            <button type="button" class="st-act-btn is-success st-topic-achieve-btn" data-id="${t.id}" title="Mark as Achieved">
+                              ✅ Achieved
+                            </button>
+                            <button type="button" class="st-act-btn is-warning st-topic-to-pending-btn" data-id="${t.id}" title="Move to Pending Backlog">
+                              ⏳ Pending
+                            </button>
+                            <button type="button" class="st-act-btn is-danger st-topic-del-btn" data-id="${t.id}" title="Delete">
+                              🗑️
+                            </button>
+                          </div>
+                        </div>
+                      `).join('')}
+                    </div>
+                  </div>
+                ` : ''}
+
+                <!-- 3. Achieved Today Section -->
+                <div class="st-slot-box is-achieved-slot">
+                  <div class="st-slot-box-head">
+                    <span>🏆 Achieved Today (${achievedTopics.length})</span>
+                    <span class="st-slot-badge-tag st-tag-achieved">Done</span>
+                  </div>
+                  ${achievedTopics.length === 0 ? `
+                    <div class="st-empty-hint" style="padding: 0.65rem;">
+                      No reading targets marked achieved yet. Smash your 12 PM goals!
+                    </div>
+                  ` : `
+                    <div class="st-topic-items-list">
+                      ${achievedTopics.map(t => `
+                        <div class="st-topic-item" id="topic-item-${t.id}" style="background: rgba(16, 185, 129, 0.08); border-color: rgba(16, 185, 129, 0.3);">
+                          <div class="st-topic-info-main">
+                            <div class="st-topic-name-row">
+                              <span class="st-sub-pill ${getSubjectPillClass(t.subject)}">${t.subject}</span>
+                              <span style="text-decoration: line-through; opacity: 0.85;">${escapeHtml(t.topic)}</span>
+                              <span class="st-slot-badge-tag st-tag-achieved" style="font-size:0.65rem;">
+                                ${t.achieved_by_12pm ? '⭐ Achieved by 12 PM' : '✅ Completed'}
+                              </span>
+                            </div>
+                            ${t.notes ? `<div class="st-topic-note-text">📝 ${escapeHtml(t.notes)}</div>` : ''}
+                          </div>
+                          <div class="st-topic-btns">
+                            <button type="button" class="st-act-btn st-topic-undo-btn" data-id="${t.id}" title="Revert to Pending">
+                              ↩ Undo
+                            </button>
+                            <button type="button" class="st-act-btn is-danger st-topic-del-btn" data-id="${t.id}" title="Delete">
+                              🗑️
+                            </button>
+                          </div>
+                        </div>
+                      `).join('')}
+                    </div>
+                  `}
+                </div>
+
+                <!-- 4. PENDING / BACKLOG SECTION -->
+                <div class="st-slot-box is-pending-backlog">
+                  <div class="st-slot-box-head" style="color: #b91c1c;">
+                    <span>⚠️ Pending / Rollover Backlog (${pendingTopics.length})</span>
+                    <span class="st-slot-badge-tag st-tag-pending">${pendingTopics.length} Pending</span>
+                  </div>
+                  ${pendingTopics.length === 0 ? `
+                    <div style="font-size: 0.82rem; color: #059669; font-weight: 600; padding: 0.3rem 0;">
+                      🎉 Zero pending backlog! All targets scheduled till 12 PM have been accomplished.
+                    </div>
+                  ` : `
+                    <p style="font-size: 0.76rem; color: #b91c1c; margin: 0 0 0.5rem 0;">
+                      These topics missed the 12:00 PM milestone or are marked pending. Complete them now or rollover to tomorrow!
+                    </p>
+                    <div class="st-topic-items-list">
+                      ${pendingTopics.map(t => `
+                        <div class="st-topic-item" id="topic-item-${t.id}" style="background: rgba(239, 68, 68, 0.05); border-color: rgba(239, 68, 68, 0.35);">
+                          <div class="st-topic-info-main">
+                            <div class="st-topic-name-row">
+                              <span class="st-sub-pill ${getSubjectPillClass(t.subject)}">${t.subject}</span>
+                              <span style="font-weight: 700; color: #b91c1c;">${escapeHtml(t.topic)}</span>
+                              <span class="st-slot-badge-tag st-tag-pending" style="font-size:0.65rem;">
+                                ${(t.missed_12pm || (isPast12PM && isCurrentDateToday && t.slot === 'morning_12pm')) ? '⏰ Missed 12 PM Target' : '⚠️ Pending'}
+                              </span>
+                            </div>
+                            ${t.notes ? `<div class="st-topic-note-text" style="color:#b91c1c;">📝 ${escapeHtml(t.notes)}</div>` : ''}
+                          </div>
+                          <div class="st-topic-btns">
+                            <button type="button" class="st-act-btn is-success st-topic-achieve-now-btn" data-id="${t.id}" title="Mark as Achieved Now">
+                              ✅ Done Now
+                            </button>
+                            <button type="button" class="st-act-btn st-topic-to-evening-btn" data-id="${t.id}" title="Shift to Afternoon/Evening Slot">
+                              ⛅ To Evening
+                            </button>
+                            <button type="button" class="st-act-btn st-topic-to-tomorrow-btn" data-id="${t.id}" title="Push to Tomorrow">
+                              📅 Tomorrow
+                            </button>
+                            <button type="button" class="st-act-btn is-danger st-topic-del-btn" data-id="${t.id}" title="Delete">
+                              🗑️
+                            </button>
+                          </div>
+                        </div>
+                      `).join('')}
+                    </div>
+                  `}
+                </div>
+              </div>
+            </div>
+
+            <!-- RIGHT COLUMN: Daily Tasks & Habits Section -->
+            <div class="st-planner-col">
+              <div class="st-planner-col-head">
+                <h4>📋 Daily Tasks & Routine Checklist</h4>
+                <span class="st-planner-col-badge">
+                  ${completedTasksCount}/${totalTasksCount} Done (${taskCompletionPct}%)
+                </span>
+              </div>
+
+              <!-- Task Progress Bar -->
+              <div class="st-task-progress-wrap">
+                <div class="st-task-progress-labels">
+                  <span>Today's Task Completion</span>
+                  <span><strong>${completedTasksCount}</strong> of ${totalTasksCount} done (${taskCompletionPct}%)</span>
+                </div>
+                <div class="st-task-progress-bar">
+                  <div class="st-task-progress-fill" style="width: ${taskCompletionPct}%;"></div>
+                </div>
+              </div>
+
+              <!-- Quick Preset Task Chips -->
+              <div class="st-task-preset-chips">
+                <span class="st-preset-chip" data-task="📰 Daily Current Affairs (45m)" data-time="45m" data-priority="high">+ 📰 Current Affairs</span>
+                <span class="st-preset-chip" data-task="🎯 Solve 50 Ghatnachakra PYQs" data-time="1h" data-priority="high">+ 🎯 50 PYQs</span>
+                <span class="st-preset-chip" data-task="📝 1 Mains Answer Writing Drill" data-time="30m" data-priority="normal">+ 📝 Mains Answer</span>
+                <span class="st-preset-chip" data-task="🔁 Revise Weak Topics Flashcards" data-time="30m" data-priority="normal">+ 🔁 Revise Notes</span>
+                <span class="st-preset-chip" data-task="🧮 CSAT Practice (30m)" data-time="30m" data-priority="normal">+ 🧮 CSAT Practice</span>
+              </div>
+
+              <!-- Quick Add Task Form -->
+              <form class="st-planner-quick-form" id="st-form-add-task">
+                <div class="st-form-row">
+                  <div style="flex: 2; min-width: 170px;">
+                    <input type="text" id="st-task-text" class="st-planner-input" style="width: 100%;" placeholder="Task name (e.g. Read Drishti Current Affairs, Revise Polity...)" required />
+                  </div>
+                  <div style="flex: 0.9; min-width: 90px;">
+                    <select id="st-task-priority" class="st-planner-input" style="width: 100%;">
+                      <option value="normal">Normal</option>
+                      <option value="high">High 🔥</option>
+                      <option value="urgent">Urgent 🚨</option>
+                    </select>
+                  </div>
+                  <div style="flex: 0.8; min-width: 75px;">
+                    <select id="st-task-time" class="st-planner-input" style="width: 100%;">
+                      <option value="">Time</option>
+                      <option value="15m">15m</option>
+                      <option value="30m">30m</option>
+                      <option value="45m">45m</option>
+                      <option value="1h">1h</option>
+                      <option value="2h">2h</option>
+                    </select>
+                  </div>
+                  <button type="submit" class="st-btn st-btn-primary" style="padding: 0.45rem 0.85rem; font-size: 0.82rem; white-space: nowrap;">
+                    ➕ Add
+                  </button>
+                </div>
+              </form>
+
+              <!-- Task Filters -->
+              <div class="st-task-filters">
+                <button type="button" class="st-task-filter-btn ${activePlannerFilter === 'all' ? 'is-active' : ''}" data-filter="all">
+                  All (${totalTasksCount})
+                </button>
+                <button type="button" class="st-task-filter-btn ${activePlannerFilter === 'pending' ? 'is-active' : ''}" data-filter="pending">
+                  Pending (${totalTasksCount - completedTasksCount})
+                </button>
+                <button type="button" class="st-task-filter-btn ${activePlannerFilter === 'completed' ? 'is-active' : ''}" data-filter="completed">
+                  Completed (${completedTasksCount})
+                </button>
+              </div>
+
+              <!-- Task List Items -->
+              <div class="st-tasks-list">
+                ${filteredDailyTasks.length === 0 ? `
+                  <div class="st-empty-hint">No tasks in this list. Click a preset chip above or add a task!</div>
+                ` : `
+                  ${filteredDailyTasks.map(task => `
+                    <div class="st-task-item ${task.completed ? 'is-done' : ''}" id="task-item-${task.id}">
+                      <div class="st-task-left">
+                        <input type="checkbox" class="st-task-checkbox" data-id="${task.id}" ${task.completed ? 'checked' : ''} />
+                        <span class="st-task-text">${escapeHtml(task.text)}</span>
+                      </div>
+                      <div style="display:flex; align-items:center; gap:0.4rem;">
+                        <span class="st-priority-badge ${task.priority || 'normal'}">${task.priority || 'normal'}</span>
+                        ${task.time_est ? `<span class="st-task-time-pill">⏱️ ${task.time_est}</span>` : ''}
+                        <button type="button" class="st-act-btn is-danger st-task-del-btn" data-id="${task.id}" title="Delete task" style="padding:0.15rem 0.35rem; font-size:0.68rem;">
+                          ✖
+                        </button>
+                      </div>
+                    </div>
+                  `).join('')}
+                `}
+              </div>
+
+              <!-- Task Action Footer -->
+              <div style="display:flex; justify-content:space-between; align-items:center; margin-top:0.85rem; padding-top:0.75rem; border-top:1px solid var(--study-hairline, rgba(39,60,117,0.08));">
+                <button type="button" class="st-act-btn" id="st-btn-clear-completed-tasks">
+                  🧹 Clear Completed
+                </button>
+                <button type="button" class="st-act-btn" id="st-btn-rollover-tasks-tomorrow">
+                  📅 Rollover Pending to Tomorrow
+                </button>
+              </div>
+            </div>
           </div>
         </div>
 
@@ -3345,6 +4040,256 @@
 
     // Refresh button
     document.getElementById('st-dash-refresh')?.addEventListener('click', renderPrepDashboard);
+
+    // -------------------------------------------------------------
+    // DAILY PLANNER & TASKS EVENT HANDLERS
+    // -------------------------------------------------------------
+    // Date Navigation
+    document.getElementById('st-plan-date-prev')?.addEventListener('click', () => {
+      const d = new Date(activePlannerDate);
+      d.setDate(d.getDate() - 1);
+      const y = d.getFullYear();
+      const m = String(d.getMonth() + 1).padStart(2, '0');
+      const day = String(d.getDate()).padStart(2, '0');
+      activePlannerDate = `${y}-${m}-${day}`;
+      renderPrepDashboard();
+    });
+
+    document.getElementById('st-plan-date-next')?.addEventListener('click', () => {
+      const d = new Date(activePlannerDate);
+      d.setDate(d.getDate() + 1);
+      const y = d.getFullYear();
+      const m = String(d.getMonth() + 1).padStart(2, '0');
+      const day = String(d.getDate()).padStart(2, '0');
+      activePlannerDate = `${y}-${m}-${day}`;
+      renderPrepDashboard();
+    });
+
+    document.getElementById('st-plan-date-today')?.addEventListener('click', () => {
+      activePlannerDate = getTodayISODate();
+      renderPrepDashboard();
+    });
+
+    // 12 PM Audit Checkpoint
+    document.getElementById('st-btn-evaluate-12pm')?.addEventListener('click', async () => {
+      const count = await apiEvaluate12pmPlanner(activePlannerDate);
+      alert(`⚡ 12 PM Audit Complete! ${count} incomplete morning reading target(s) moved to Pending.`);
+      renderPrepDashboard();
+    });
+
+    // Rollover Pending from Yesterday
+    document.getElementById('st-btn-rollover-yesterday')?.addEventListener('click', async () => {
+      const res = await apiRolloverPlanner(null, activePlannerDate);
+      alert(`🔄 Rollover Complete: Transferred ${res.topics} pending reading topic(s) and ${res.tasks} pending task(s) to ${activePlannerDate}.`);
+      renderPrepDashboard();
+    });
+
+    // Add Topic Form Submit
+    document.getElementById('st-form-add-topic')?.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const sub = document.getElementById('st-topic-subject').value;
+      const topic = document.getElementById('st-topic-name').value.trim();
+      const slot = document.getElementById('st-topic-slot').value;
+      const notes = document.getElementById('st-topic-notes').value.trim();
+      if (!sub || !topic) return;
+
+      await apiAddPlannerTopic(activePlannerDate, sub, topic, slot, notes);
+      renderPrepDashboard();
+    });
+
+    // Topic Action: Mark Achieved by 12 PM
+    document.querySelectorAll('.st-topic-achieve-12pm-btn').forEach(btn => {
+      btn.addEventListener('click', async () => {
+        const id = btn.dataset.id;
+        await apiUpdatePlannerTopic(activePlannerDate, id, {
+          status: 'achieved',
+          achieved_by_12pm: true,
+          missed_12pm: false
+        });
+        renderPrepDashboard();
+      });
+    });
+
+    // Topic Action: Mark Achieved (General / Afternoon)
+    document.querySelectorAll('.st-topic-achieve-btn').forEach(btn => {
+      btn.addEventListener('click', async () => {
+        const id = btn.dataset.id;
+        await apiUpdatePlannerTopic(activePlannerDate, id, {
+          status: 'achieved',
+          achieved_by_12pm: false,
+          missed_12pm: false
+        });
+        renderPrepDashboard();
+      });
+    });
+
+    // Topic Action: Mark Achieved Now (From Pending list)
+    document.querySelectorAll('.st-topic-achieve-now-btn').forEach(btn => {
+      btn.addEventListener('click', async () => {
+        const id = btn.dataset.id;
+        await apiUpdatePlannerTopic(activePlannerDate, id, {
+          status: 'achieved',
+          achieved_by_12pm: false,
+          missed_12pm: false
+        });
+        renderPrepDashboard();
+      });
+    });
+
+    // Topic Action: Move to Pending Backlog
+    document.querySelectorAll('.st-topic-to-pending-btn').forEach(btn => {
+      btn.addEventListener('click', async () => {
+        const id = btn.dataset.id;
+        await apiUpdatePlannerTopic(activePlannerDate, id, {
+          missed_12pm: true,
+          status: 'pending'
+        });
+        renderPrepDashboard();
+      });
+    });
+
+    // Topic Action: Shift to Evening Slot
+    document.querySelectorAll('.st-topic-to-evening-btn').forEach(btn => {
+      btn.addEventListener('click', async () => {
+        const id = btn.dataset.id;
+        await apiUpdatePlannerTopic(activePlannerDate, id, {
+          slot: 'evening',
+          missed_12pm: false
+        });
+        renderPrepDashboard();
+      });
+    });
+
+    // Topic Action: Push to Tomorrow
+    document.querySelectorAll('.st-topic-to-tomorrow-btn').forEach(btn => {
+      btn.addEventListener('click', async () => {
+        const id = btn.dataset.id;
+        const d = new Date(activePlannerDate);
+        d.setDate(d.getDate() + 1);
+        const y = d.getFullYear();
+        const m = String(d.getMonth() + 1).padStart(2, '0');
+        const day = String(d.getDate()).padStart(2, '0');
+        const tomorrowStr = `${y}-${m}-${day}`;
+
+        const local = getLocalDailyPlanner(activePlannerDate);
+        const t = (local.reading_topics || []).find(item => item.id === id);
+        if (t) {
+          await apiAddPlannerTopic(tomorrowStr, t.subject, t.topic, 'morning_12pm', (t.notes ? t.notes + ' ' : '') + `(Moved from ${activePlannerDate})`);
+          await apiDeletePlannerTopic(activePlannerDate, id);
+          alert(`📅 Scheduled "${t.topic}" for tomorrow morning (${tomorrowStr})!`);
+          renderPrepDashboard();
+        }
+      });
+    });
+
+    // Topic Action: Undo Achieved
+    document.querySelectorAll('.st-topic-undo-btn').forEach(btn => {
+      btn.addEventListener('click', async () => {
+        const id = btn.dataset.id;
+        await apiUpdatePlannerTopic(activePlannerDate, id, {
+          status: 'pending',
+          achieved_by_12pm: false
+        });
+        renderPrepDashboard();
+      });
+    });
+
+    // Topic Action: Delete Topic
+    document.querySelectorAll('.st-topic-del-btn').forEach(btn => {
+      btn.addEventListener('click', async () => {
+        const id = btn.dataset.id;
+        await apiDeletePlannerTopic(activePlannerDate, id);
+        renderPrepDashboard();
+      });
+    });
+
+    // Add Task Form Submit
+    document.getElementById('st-form-add-task')?.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const text = document.getElementById('st-task-text').value.trim();
+      const priority = document.getElementById('st-task-priority').value;
+      const timeEst = document.getElementById('st-task-time').value;
+      if (!text) return;
+
+      await apiAddPlannerTask(activePlannerDate, text, priority, timeEst);
+      renderPrepDashboard();
+    });
+
+    // Preset Task Chips 1-Click Addition
+    document.querySelectorAll('.st-preset-chip').forEach(chip => {
+      chip.addEventListener('click', async () => {
+        const taskText = chip.dataset.task;
+        const timeEst = chip.dataset.time || '';
+        const priority = chip.dataset.priority || 'normal';
+        if (!taskText) return;
+
+        await apiAddPlannerTask(activePlannerDate, taskText, priority, timeEst);
+        renderPrepDashboard();
+      });
+    });
+
+    // Task Checkbox Toggle
+    document.querySelectorAll('.st-task-checkbox').forEach(cb => {
+      cb.addEventListener('change', async () => {
+        const id = cb.dataset.id;
+        await apiUpdatePlannerTask(activePlannerDate, id, { completed: cb.checked });
+        renderPrepDashboard();
+      });
+    });
+
+    // Task Delete
+    document.querySelectorAll('.st-task-del-btn').forEach(btn => {
+      btn.addEventListener('click', async () => {
+        const id = btn.dataset.id;
+        await apiDeletePlannerTask(activePlannerDate, id);
+        renderPrepDashboard();
+      });
+    });
+
+    // Task Filter Tabs
+    document.querySelectorAll('.st-task-filter-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        activePlannerFilter = btn.dataset.filter || 'all';
+        renderPrepDashboard();
+      });
+    });
+
+    // Clear Completed Tasks
+    document.getElementById('st-btn-clear-completed-tasks')?.addEventListener('click', async () => {
+      const local = getLocalDailyPlanner(activePlannerDate);
+      const completed = (local.daily_tasks || []).filter(t => t.completed);
+      if (completed.length === 0) {
+        alert('No completed tasks to clear.');
+        return;
+      }
+      for (const t of completed) {
+        await apiDeletePlannerTask(activePlannerDate, t.id);
+      }
+      renderPrepDashboard();
+    });
+
+    // Rollover Pending Tasks to Tomorrow
+    document.getElementById('st-btn-rollover-tasks-tomorrow')?.addEventListener('click', async () => {
+      const d = new Date(activePlannerDate);
+      d.setDate(d.getDate() + 1);
+      const y = d.getFullYear();
+      const m = String(d.getMonth() + 1).padStart(2, '0');
+      const day = String(d.getDate()).padStart(2, '0');
+      const tomorrowStr = `${y}-${m}-${day}`;
+
+      const local = getLocalDailyPlanner(activePlannerDate);
+      const pending = (local.daily_tasks || []).filter(t => !t.completed);
+      if (pending.length === 0) {
+        alert('No pending tasks to rollover.');
+        return;
+      }
+      for (const t of pending) {
+        await apiAddPlannerTask(tomorrowStr, t.text, t.priority, t.time_est);
+        await apiDeletePlannerTask(activePlannerDate, t.id);
+      }
+      alert(`📋 Rolled over ${pending.length} pending task(s) to tomorrow (${tomorrowStr})!`);
+      renderPrepDashboard();
+    });
 
     // Form to map new weak topic
     document.getElementById('st-form-map-weak')?.addEventListener('submit', async (e) => {
