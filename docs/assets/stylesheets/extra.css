@@ -1945,6 +1945,14 @@ body.fact-lock-page .fact-lock-sheet .study-mcq {
   background: #fee2e2;
   color: #b91c1c;
 }
+.st-cal-day-indicator.is-planned {
+  background: #ede9fe;
+  color: #5b21b6;
+}
+[data-md-color-scheme="slate"] .st-cal-day-indicator.is-planned {
+  background: rgba(139, 92, 246, 0.25);
+  color: #ddd6fe;
+}
 .st-cal-day-indicator.is-none {
   color: var(--md-default-fg-color--light, #94a3b8);
   font-weight: 500;
@@ -5759,11 +5767,6 @@ body.st-vault-locked .md-header {
   color: #f1f5f9;
 }
 
-.st-reading-clock-widget.is-paused {
-  border-color: rgba(245, 158, 11, 0.55);
-  opacity: 0.88;
-}
-
 .st-clock-icon-wrap {
   width: 32px;
   height: 32px;
@@ -5777,7 +5780,7 @@ body.st-vault-locked .md-header {
   flex-shrink: 0;
   box-shadow: 0 2px 8px rgba(79, 70, 229, 0.35);
   position: relative;
-  cursor: pointer;
+  cursor: default;
 }
 
 .st-clock-pulse-dot {
@@ -5790,11 +5793,6 @@ body.st-vault-locked .md-header {
   background: #10b981;
   border: 1.5px solid #ffffff;
   animation: st-clock-pulse 1.8s infinite;
-}
-
-.st-reading-clock-widget.is-paused .st-clock-pulse-dot {
-  background: #f59e0b;
-  animation: none;
 }
 
 @keyframes st-clock-pulse {
@@ -5866,8 +5864,7 @@ body.st-vault-locked .md-header {
   gap: 0.4rem;
 }
 
-.st-reading-clock-widget.is-minimized .st-clock-info .st-clock-label,
-.st-reading-clock-widget.is-minimized .st-clock-actions .st-btn-reset {
+.st-reading-clock-widget.is-minimized .st-clock-info .st-clock-label {
   display: none;
 }
 

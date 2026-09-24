@@ -552,17 +552,20 @@
       const dayName = d.toLocaleDateString('en-IN', { weekday: 'short' }).toUpperCase();
       const dayNum = d.toLocaleDateString('en-IN', { day: 'numeric', month: 'short' });
 
+      const isPast = dateStr < todayStr;
       const dayData = allData[dateStr] || { reading_topics: [] };
       const topics = dayData.reading_topics || [];
       const plannedCount = topics.length;
       const achievedCount = topics.filter(t => t.status === 'achieved').length;
-      const backlogCount = topics.filter(t => t.status !== 'achieved').length;
+      // Only past days have backlogs for incomplete topics! Today is actively in progress.
+      const backlogCount = isPast ? topics.filter(t => t.status !== 'achieved').length : 0;
 
       days.push({
         dateStr,
         dayName: dateStr === todayStr ? 'TODAY' : dayName,
         dayNum,
         isToday: dateStr === todayStr,
+        isPast,
         isActive: dateStr === activeDate,
         plannedCount,
         achievedCount,
@@ -572,7 +575,7 @@
     return days;
   }
 
-  // Cumulative overall backlog scanner across all stored dates
+  // Cumulative overall backlog scanner across all stored dates (past dates or explicitly flagged pending)
   function getOverallBacklogFromLocal() {
     const todayStr = getTodayISODate();
     const raw = localStorage.getItem(LOCAL_PLANNER_KEY);
@@ -581,10 +584,15 @@
       const all = JSON.parse(raw);
       const backlog = [];
       Object.keys(all).forEach(d => {
+        const isPastDate = d < todayStr;
         const dayData = all[d];
         if (dayData && Array.isArray(dayData.reading_topics)) {
           dayData.reading_topics.forEach(t => {
-            if (t.status !== 'achieved') {
+            // An item is backlog IF:
+            // 1. It was planned on a past date (d < todayStr) and is not achieved
+            // OR 2. It was explicitly moved to pending backlog (t.slot === 'pending' || t.missed_midnight || t.missed_12pm)
+            const isBacklog = (isPastDate && t.status !== 'achieved') || (!isPastDate && t.status !== 'achieved' && (t.slot === 'pending' || t.missed_midnight || t.missed_12pm));
+            if (isBacklog) {
               let daysOverdue = 0;
               try {
                 const d1 = new Date(d);
@@ -907,8 +915,9 @@
     const local = getLocalDailyPlanner(targetDate);
     let count = 0;
     (local.reading_topics || []).forEach(t => {
-      if ((t.slot === 'midnight_slot' || t.slot === 'morning_12pm' || !t.slot) && t.status !== 'achieved') {
+      if (t.status !== 'achieved') {
         t.missed_12pm = true;
+        t.missed_midnight = true;
         count++;
       }
     });
@@ -1231,7 +1240,6 @@
   // -------------------------------------------------------------
   let readingClockInterval = null;
   let readingClockSeconds = 0;
-  let isReadingClockPaused = false;
 
   function initChapterReadingClock(topicInfo) {
     if (!topicInfo) return;
@@ -1250,7 +1258,6 @@
       saved = parseInt(sessionStorage.getItem(storageKey) || '0', 10);
     } catch {}
     readingClockSeconds = isNaN(saved) ? 0 : saved;
-    isReadingClockPaused = false;
 
     function formatClockTime(sec) {
       const h = Math.floor(sec / 3600);
@@ -1267,7 +1274,7 @@
     widget.id = 'st-reading-clock-widget';
     widget.title = `Reading stopwatch for ${topicInfo.title || topicInfo.topic}`;
     widget.innerHTML = `
-      <div class="st-clock-icon-wrap" id="st-clock-icon-btn" title="Click to Pause / Resume">
+      <div class="st-clock-icon-wrap" id="st-clock-icon-btn" title="Reading Stopwatch">
         <span>⏱️</span>
         <span class="st-clock-pulse-dot" id="st-clock-pulse"></span>
       </div>
@@ -1276,8 +1283,6 @@
         <span class="st-clock-time-val" id="st-clock-time-val">${formatClockTime(readingClockSeconds)}</span>
       </div>
       <div class="st-clock-actions">
-        <button type="button" class="st-clock-btn" id="st-clock-play-btn" title="Pause Timer">⏸️</button>
-        <button type="button" class="st-clock-btn st-btn-reset" id="st-clock-reset-btn" title="Reset Timer">🔄</button>
         <button type="button" class="st-clock-btn" id="st-clock-min-btn" title="Minimize / Expand">🗕</button>
       </div>
     `;
@@ -1285,47 +1290,18 @@
     document.body.appendChild(widget);
 
     const timeValEl = widget.querySelector('#st-clock-time-val');
-    const playBtn = widget.querySelector('#st-clock-play-btn');
-    const resetBtn = widget.querySelector('#st-clock-reset-btn');
     const minBtn = widget.querySelector('#st-clock-min-btn');
-    const labelEl = widget.querySelector('#st-clock-label');
-    const iconBtn = widget.querySelector('#st-clock-icon-btn');
 
-    // Ticking interval
+    // Continuous ticking interval
     readingClockInterval = setInterval(() => {
-      if (!isReadingClockPaused) {
-        readingClockSeconds++;
-        if (timeValEl) timeValEl.textContent = formatClockTime(readingClockSeconds);
-        if (readingClockSeconds % 5 === 0) {
-          try {
-            sessionStorage.setItem(storageKey, String(readingClockSeconds));
-          } catch {}
-        }
+      readingClockSeconds++;
+      if (timeValEl) timeValEl.textContent = formatClockTime(readingClockSeconds);
+      if (readingClockSeconds % 5 === 0) {
+        try {
+          sessionStorage.setItem(storageKey, String(readingClockSeconds));
+        } catch {}
       }
     }, 1000);
-
-    function togglePause() {
-      isReadingClockPaused = !isReadingClockPaused;
-      widget.classList.toggle('is-paused', isReadingClockPaused);
-      if (isReadingClockPaused) {
-        if (playBtn) { playBtn.textContent = '▶️'; playBtn.title = 'Resume Timer'; }
-        if (labelEl) labelEl.textContent = 'Paused';
-      } else {
-        if (playBtn) { playBtn.textContent = '⏸️'; playBtn.title = 'Pause Timer'; }
-        if (labelEl) labelEl.textContent = 'Reading Notes';
-      }
-    }
-
-    playBtn?.addEventListener('click', togglePause);
-    iconBtn?.addEventListener('click', togglePause);
-
-    resetBtn?.addEventListener('click', () => {
-      readingClockSeconds = 0;
-      if (timeValEl) timeValEl.textContent = '00:00';
-      try {
-        sessionStorage.setItem(storageKey, '0');
-      } catch {}
-    });
 
     let isMinimized = false;
     minBtn?.addEventListener('click', () => {
@@ -3792,14 +3768,16 @@
     const isCurrentDateToday = activePlannerDate === getTodayISODate();
     const readingTopics = planner.reading_topics || [];
 
-    // Midnight targets for active date
-    const midnightTargets = readingTopics.filter(t => (t.slot === 'midnight_slot' || t.slot === 'morning_12pm' || !t.slot) && t.status !== 'achieved');
+    const isPastDate = activePlannerDate < getTodayISODate();
+
+    // Active targets for active date (active during today/future; on past dates they move to Backlog)
+    const midnightTargets = readingTopics.filter(t => (t.slot === 'midnight_slot' || t.slot === 'all_day' || t.slot === 'morning_12pm' || !t.slot) && t.status !== 'achieved' && !isPastDate);
     // Evening / Afternoon targets
-    const eveningTargets = readingTopics.filter(t => t.slot === 'evening' && t.status !== 'achieved');
+    const eveningTargets = readingTopics.filter(t => t.slot === 'evening' && t.status !== 'achieved' && !isPastDate);
     // Achieved on this date
     const achievedTopics = readingTopics.filter(t => t.status === 'achieved');
-    // Backlog on this date (uncompleted items)
-    const dateBacklogTopics = readingTopics.filter(t => t.status !== 'achieved' && (t.missed_12pm || t.slot === 'pending' || activePlannerDate < getTodayISODate()));
+    // Backlog on this date (uncompleted items from any slot after 11:59 PM or marked pending)
+    const dateBacklogTopics = readingTopics.filter(t => t.status !== 'achieved' && (t.missed_12pm || t.missed_midnight || t.slot === 'pending' || isPastDate));
 
     // Overall Cumulative Backlog (all past unachieved topics)
     const rawOverallBacklog = (serverBacklog && Array.isArray(serverBacklog.backlog))
@@ -3954,8 +3932,22 @@
               <button type="button" class="st-cal-day-btn ${cd.isActive ? 'is-active' : ''}" data-date="${cd.dateStr}" title="View plan and backlog for ${cd.dateStr}">
                 <span class="st-cal-day-name">${cd.dayName}</span>
                 <span class="st-cal-day-num">${cd.dayNum}</span>
-                <span class="st-cal-day-indicator ${cd.backlogCount > 0 ? 'has-backlog' : (cd.plannedCount > 0 && cd.achievedCount === cd.plannedCount ? 'is-done' : 'is-none')}">
-                  ${cd.backlogCount > 0 ? `⚠️ ${cd.backlogCount} bl` : (cd.achievedCount > 0 ? `✅ ${cd.achievedCount} ok` : '—')}
+                <span class="st-cal-day-indicator ${
+                  cd.backlogCount > 0
+                    ? 'has-backlog'
+                    : (cd.plannedCount > 0 && cd.achievedCount === cd.plannedCount
+                        ? 'is-done'
+                        : (cd.plannedCount > 0 ? 'is-planned' : 'is-none'))
+                }">
+                  ${
+                    cd.backlogCount > 0
+                      ? `⚠️ ${cd.backlogCount} bl`
+                      : (cd.plannedCount > 0 && cd.achievedCount === cd.plannedCount
+                          ? `✅ ${cd.achievedCount} ok`
+                          : (cd.plannedCount > 0
+                              ? (cd.achievedCount > 0 ? `🎯 ${cd.achievedCount}/${cd.plannedCount}` : `🎯 ${cd.plannedCount} plan`)
+                              : '—'))
+                  }
                 </span>
               </button>
             `).join('')}

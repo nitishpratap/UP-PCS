@@ -1597,7 +1597,7 @@ app.delete('/api/daily-planner/task/:id', checkDb, async (req, res) => {
   }
 });
 
-// Overall Cumulative Backlog: All incomplete reading topics across all dates
+// Overall Cumulative Backlog: All incomplete reading topics from past dates (or explicitly flagged pending)
 app.get('/api/daily-planner/overall-backlog', checkDb, async (req, res) => {
   try {
     const todayStr = getTodayStr();
@@ -1608,8 +1608,11 @@ app.get('/api/daily-planner/overall-backlog', checkDb, async (req, res) => {
     const overallBacklog = [];
     docs.forEach(doc => {
       const docDate = doc.date;
+      const isPast = docDate < todayStr;
       (doc.reading_topics || []).forEach(t => {
-        if (t.status !== 'achieved') {
+        // Only count as backlog if it's from a past date OR explicitly marked pending/missed
+        const isBacklog = (isPast && t.status !== 'achieved') || (!isPast && t.status !== 'achieved' && (t.slot === 'pending' || t.missed_midnight || t.missed_12pm));
+        if (isBacklog) {
           let daysOverdue = 0;
           try {
             const d1 = new Date(docDate);
