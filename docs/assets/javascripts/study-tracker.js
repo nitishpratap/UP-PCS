@@ -460,6 +460,21 @@
 
   let activePlannerDate = getTodayISODate();
   let activePlannerFilter = 'all';
+  let activePlannerSubject = 'polity';
+
+  // COMPLETE CHAPTER CATALOG FOR MULTI-SELECT PICKER
+  const CHAPTER_CATALOG = {"ancient history":[{"slug":"01_Stone_Age","title":"Stone Age (Prehistoric India)"},{"slug":"02_Indus_Valley_Civilization","title":"Indus Valley Civilization (Harappan Civilization)"},{"slug":"03_Vedic_Civilization","title":"Vedic Civilization"},{"slug":"04_Religious_Movements","title":"Religious Movements"},{"slug":"05_Sixth_Century_BCE","title":"Sixth Century BCE"},{"slug":"06_Foreign_Invasions","title":"Foreign Invasions"},{"slug":"07_Mauryan_Empire","title":"Mauryan Empire"},{"slug":"08_Post_Mauryan_India","title":"Post-Mauryan India"},{"slug":"09_Gupta_Age","title":"Gupta Age"},{"slug":"10_Post_Gupta_Period","title":"Post-Gupta Period"},{"slug":"11_Ancient_Indian_Administration","title":"Ancient Indian Administration"},{"slug":"12_Ancient_Indian_Economy","title":"Ancient Indian Economy"},{"slug":"13_Archaeology","title":"Archaeology"},{"slug":"14_Ancient_India_Miscellaneous","title":"Ancient India Miscellaneous"},{"slug":"uttarakhand/01_Prehistoric_and_Protohistoric_Uttarakhand","title":"Prehistoric & Protohistoric UK"},{"slug":"uttarakhand/02_Ancient_Tribes_of_Uttarakhand","title":"Ancient Tribes"},{"slug":"uttarakhand/03_Kuninda_and_Yaudheya","title":"Kuninda & Yaudheya"},{"slug":"uttarakhand/04_Kartikepur_Dynasty","title":"Kartikepur Dynasty"},{"slug":"00_Chronology_Year_Wise_Events","title":"Chronology Year Wise Events"},{"slug":"00_Daily_Revision_Facts","title":"Daily Revision Facts"},{"slug":"00_Prelims_Analysis","title":"Prelims Analysis"},{"slug":"00_Syllabus","title":"Syllabus"},{"slug":"uttarakhand/00_Syllabus","title":"Syllabus"},{"slug":"uttarakhand/00_UKPCS_PYQ_Bank_Ancient","title":"UKPCS PYQ Bank Ancient"}],"medieval india":[{"slug":"01_Early_Medieval_India_Regional_Kingdoms","title":"Early Medieval India (Regional Kingdoms)"},{"slug":"02_Turkish_Invasions_Delhi_Sultanate","title":"Turkish Invasions & Delhi Sultanate"},{"slug":"03_Regional_Kingdoms","title":"Regional Kingdoms (Sharqi, Kashmir, Vijayanagara, Bahmani & Deccan)"},{"slug":"04_Bhakti_Sufi_Movements","title":"Bhakti & Sufi Movements"},{"slug":"05_Medieval_Literature","title":"Medieval Literature"},{"slug":"07_Mughal_Empire","title":"Mughal Empire"},{"slug":"08_Sher_Shah_Suri","title":"Sher Shah Suri"},{"slug":"09_Rajputs","title":"Rajputs"},{"slug":"10_Sikhism","title":"Sikhism"},{"slug":"11_Marathas","title":"Marathas"},{"slug":"12_Later_Medieval_India","title":"Later Medieval India"},{"slug":"uttarakhand/01_Kattyuri_Dynasty","title":"Kattyuri Dynasty"},{"slug":"uttarakhand/02_Parmar_Dynasty_of_Garhwal","title":"Parmar Dynasty of Garhwal"},{"slug":"uttarakhand/03_Chand_Dynasty_of_Kumaon","title":"Chand Dynasty of Kumaon"},{"slug":"00_Chronology_Year_Wise_Events","title":"Chronology Year Wise Events"},{"slug":"00_Daily_Revision_Facts","title":"Daily Revision Facts"},{"slug":"00_Prelims_Analysis","title":"Prelims Analysis"},{"slug":"00_Syllabus","title":"Syllabus"},{"slug":"06_Medieval_Music_Culture","title":"Medieval Music Culture"},{"slug":"uttarakhand/00_Syllabus","title":"Syllabus"},{"slug":"uttarakhand/00_UKPCS_PYQ_Bank_Medieval","title":"UKPCS PYQ Bank Medieval"}],"mordern india":[{"slug":"01_Advent_of_Europeans","title":"Advent of Europeans"},{"slug":"02_East_India_Company_Expansion","title":"East India Company Expansion"},{"slug":"03_Governors_General_and_Viceroys","title":"Governors-General & Viceroys"},{"slug":"04_British_Administration_and_Economy","title":"British Administration & Economy"},{"slug":"05_Revolt_of_1857","title":"Revolt of 1857"},{"slug":"06_Socio_Religious_Reform_Movements","title":"Socio-Religious Reform Movements"},{"slug":"07_Education_and_Press","title":"Education & Press"},{"slug":"08_Peasant_Tribal_Labour_Movements","title":"Peasant, Tribal & Labour Movements"},{"slug":"09_Rise_of_Nationalism","title":"Rise of Nationalism"},{"slug":"10_Books_and_Authors","title":"Books & Authors"},{"slug":"11_Swadeshi_and_Revolutionary_Movement","title":"Swadeshi & Revolutionary Movement"},{"slug":"12_Home_Rule_and_Labour_Politics","title":"Home Rule & Labour Politics"},{"slug":"13_Gandhian_Era","title":"Gandhian Era (1915–1948)"},{"slug":"14_Final_Phase_of_Freedom_Struggle","title":"Final Phase of Freedom Struggle"},{"slug":"15_Post_Independence_India","title":"Post-Independence India"},{"slug":"16_Miscellaneous_UPPCS_Frequently_Asked","title":"Miscellaneous (Frequently Asked by UPPCS)"},{"slug":"uttar pradesh/17_UP_History_and_Freedom_Struggle","title":"UP History & Freedom Struggle"},{"slug":"uttarakhand/01_Gorkha_Invasion_and_Rule","title":"Gorkha Invasion & Rule"},{"slug":"uttarakhand/02_British_Rule_in_Uttarakhand","title":"British Rule in UK"},{"slug":"uttarakhand/03_Tehri_Estate","title":"Tehri Estate"},{"slug":"uttarakhand/04_Freedom_Movement_in_Uttarakhand","title":"Freedom Movement in UK"},{"slug":"uttarakhand/05_Peoples_Movements_of_Uttarakhand","title":"People's Movements of UK"},{"slug":"00_Chronology_Year_Wise_Events","title":"Chronology Year Wise Events"},{"slug":"00_Daily_Revision_Facts","title":"Daily Revision Facts"},{"slug":"00_Prelims_Analysis","title":"Prelims Analysis"},{"slug":"00_Syllabus","title":"Syllabus"},{"slug":"uttarakhand/00_Syllabus","title":"Syllabus"},{"slug":"uttarakhand/00_UKPCS_PYQ_Bank_Modern","title":"UKPCS PYQ Bank Modern"}],"art and culture":[{"slug":"01_Institutions_Related_to_Indian_Culture","title":"Institutions Related to Indian Culture"},{"slug":"02_Religious_and_Philosophical_Traditions","title":"Religious and Philosophical Traditions"},{"slug":"03_Indian_Architecture","title":"Indian Architecture"},{"slug":"04_Indian_Painting","title":"Indian Painting"},{"slug":"05_Indian_Music","title":"Indian Music"},{"slug":"06_Indian_Dance","title":"Indian Dance"},{"slug":"07_Indian_Theatre_and_Performing_Arts","title":"Indian Theatre & Performing Arts"},{"slug":"08_Indian_Languages_and_Literature","title":"Indian Languages & Literature"},{"slug":"09_Indian_Festivals_and_Fairs","title":"Indian Festivals & Fairs"},{"slug":"10_Ancient_Indian_History_Related_to_Culture","title":"Ancient Indian History Related to Culture"},{"slug":"11_Medieval_Indian_Cultural_History","title":"Medieval Indian Cultural History"},{"slug":"12_Sculpture","title":"Sculpture"},{"slug":"13_Folk_Culture","title":"Folk Culture"},{"slug":"14_Cultural_Heritage","title":"Cultural Heritage"},{"slug":"15_Archaeology","title":"Archaeology"},{"slug":"16_Awards_Personalities_GI","title":"Awards, Personalities & GI Tags"},{"slug":"uttar pradesh/17_UP_Art_Culture_Demographics","title":"UP Art, Culture & Demographics"},{"slug":"uttarakhand/01_Folk_Culture_of_Uttarakhand","title":"Folk Culture of UK"},{"slug":"uttarakhand/02_Dances_Music_and_Fairs","title":"Dances, Music & Fairs"},{"slug":"uttarakhand/03_Heritage_and_Cultural_Institutes","title":"Heritage & Cultural Institutes"},{"slug":"uttarakhand/04_Personalities_Literature_and_Press","title":"Personalities, Literature & Press"},{"slug":"00_Daily_Revision_Facts","title":"Daily Revision Facts"},{"slug":"00_Prelims_Analysis","title":"Prelims Analysis"},{"slug":"00_Syllabus","title":"Syllabus"},{"slug":"uttarakhand/00_Syllabus","title":"Syllabus"},{"slug":"uttarakhand/00_UKPCS_PYQ_Bank_Art_Culture","title":"UKPCS PYQ Bank Art Culture"}],"geography":[{"slug":"01_Indian_Physical_Geography_Mountains_Hills","title":"Indian Physical Geography: Mountains & Hills"},{"slug":"02_Climate_of_India","title":"Climate of India"},{"slug":"03_Drainage_System","title":"Drainage System"},{"slug":"04_Lakes_Waterfalls_Water_Resources","title":"Lakes, Waterfalls & Water Resources"},{"slug":"05_Soils","title":"Soils"},{"slug":"06_Agriculture","title":"Agriculture"},{"slug":"07_Natural_Vegetation_Biodiversity","title":"Natural Vegetation & Biodiversity Geography"},{"slug":"08_Minerals_Energy_Industry","title":"Minerals, Energy & Industry"},{"slug":"09_Transport_Communication","title":"Transport & Communication"},{"slug":"10_Tribes_Institutions","title":"Tribes & Institutions"},{"slug":"11_Population_Geography","title":"Population Geography"},{"slug":"12_Human_Geography","title":"Human Geography (Settlements)"},{"slug":"13_Disaster_Geography","title":"Disaster Geography"},{"slug":"14_Earth_and_Universe","title":"Earth & Universe"},{"slug":"15_Geomorphology_and_Landform_Processes","title":"Geomorphology & Landform Processes"},{"slug":"16_Oceans","title":"Oceans"},{"slug":"17_World_Rivers_and_Lakes","title":"World Rivers & Lakes"},{"slug":"18_World_Landforms","title":"World Landforms"},{"slug":"19_World_Regional_Geography","title":"World Regional Geography"},{"slug":"20_World_Agriculture","title":"World Agriculture"},{"slug":"21_World_Minerals_Energy","title":"World Minerals & Energy"},{"slug":"22_World_Industries","title":"World Industries"},{"slug":"23_Political_Map_Geography","title":"Political & Map-Based Geography"},{"slug":"uttar pradesh/24_Geography_of_Uttar_Pradesh","title":"Geography of Uttar Pradesh"},{"slug":"uttarakhand/01_Location_Relief_Structure","title":"Location, Relief & Structure"},{"slug":"uttarakhand/02_Climate_and_Drainage","title":"Climate & Drainage"},{"slug":"uttarakhand/03_Vegetation_and_Wildlife","title":"Vegetation & Wildlife"},{"slug":"uttarakhand/04_Minerals_Power_Industry","title":"Minerals, Power & Industry"},{"slug":"uttarakhand/05_Agriculture_Animal_Husbandry_Irrigation","title":"Agri, AH & Irrigation"},{"slug":"uttarakhand/06_Population_SC_ST_Settlements","title":"Population, SC/ST & Settlements"},{"slug":"uttarakhand/07_Transport_Tourism_Natural_Hazards","title":"Transport, Tourism & Hazards"},{"slug":"00_Daily_Revision_Facts","title":"Daily Revision Facts"},{"slug":"00_Prelims_Analysis","title":"Prelims Analysis"},{"slug":"00_Syllabus","title":"Syllabus"},{"slug":"25_Census_and_Demographics","title":"Census and Demographics"},{"slug":"26_Agriculture_Minerals_Ranks","title":"Agriculture Minerals Ranks"},{"slug":"uttarakhand/00_Syllabus","title":"Syllabus"},{"slug":"uttarakhand/00_UKPCS_PYQ_Bank_Geography","title":"UKPCS PYQ Bank Geography"}],"environments & ecology":[{"slug":"01_Environment_Basics","title":"Environment Basics"},{"slug":"02_Ecology_and_Ecosystem","title":"Ecology & Ecosystem"},{"slug":"03_Food_Chain_and_Energy_Flow","title":"Food Chain & Energy Flow"},{"slug":"04_Biodiversity","title":"Biodiversity"},{"slug":"05_Habitat_Flora_and_Fauna","title":"Habitat, Flora & Fauna"},{"slug":"06_Protected_Areas_and_Conservation","title":"Protected Areas & Conservation"},{"slug":"07_Wildlife_Conservation","title":"Wildlife Conservation"},{"slug":"08_Forests_and_Forest_Management","title":"Forests & Forest Management"},{"slug":"09_Pollution_and_Waste_Management","title":"Pollution & Waste Management"},{"slug":"10_Climate_Change","title":"Climate Change"},{"slug":"11_Ozone_Layer","title":"Ozone Layer"},{"slug":"12_Acid_Rain","title":"Acid Rain"},{"slug":"13_Desertification_and_Land_Degradation","title":"Desertification & Land Degradation"},{"slug":"14_Environmental_Impact_Assessment","title":"Environmental Impact Assessment"},{"slug":"15_Sustainable_Development_and_Environmental_Governance","title":"Sustainable Development & Environmental Governance"},{"slug":"16_Environmental_Organizations_India","title":"Environmental Organizations (India)"},{"slug":"17_Environmental_Laws_and_Policies","title":"Environmental Laws & Policies"},{"slug":"18_International_Environmental_Agreements_and_Conferences","title":"International Environmental Agreements & Conferences"},{"slug":"19_Climate_and_Environmental_Institutions","title":"Climate & Environmental Institutions"},{"slug":"20_Biodiversity_Conservation_Methods","title":"Biodiversity Conservation Methods"},{"slug":"21_Species_and_Ecology","title":"Species & Ecology"},{"slug":"22_Renewable_Energy","title":"Renewable Energy"},{"slug":"23_Disaster_and_Environment","title":"Disaster & Environment"},{"slug":"24_Current_Environmental_Issues","title":"Current Environmental Issues"},{"slug":"25_Global_Environmental_Geography","title":"Global Environmental Geography"},{"slug":"26_Water_Resources_and_Water_Conservation","title":"Water Resources & Water Conservation"},{"slug":"27_Renewable_and_Non_Renewable_Energy","title":"Renewable & Non-Renewable Energy"},{"slug":"28_Environmental_Research_and_Institutions","title":"Environmental Research & Institutions"},{"slug":"29_Indian_Environmental_Movements","title":"Indian Environmental Movements"},{"slug":"30_Environmental_Literature_and_Awareness","title":"Environmental Literature & Awareness"},{"slug":"31_Environmental_Days","title":"Environmental Days"},{"slug":"32_National_Parks_and_Protected_Areas_Advanced","title":"National Parks & Protected Areas (Advanced)"},{"slug":"33_Biosphere_Reserves","title":"Biosphere Reserves"},{"slug":"34_Climate_Change_Advanced","title":"Climate Change (Advanced)"},{"slug":"35_Atmosphere","title":"Atmosphere"},{"slug":"36_Ozone_Layer","title":"Ozone Layer"},{"slug":"37_Greenhouse_Gases","title":"Greenhouse Gases"},{"slug":"38_Pollution_Advanced","title":"Pollution (Advanced)"},{"slug":"39_Acid_Rain","title":"Acid Rain"},{"slug":"40_Desertification","title":"Desertification"},{"slug":"41_Environmental_Monitoring","title":"Environmental Monitoring"},{"slug":"42_International_Environmental_Organizations","title":"International Environmental Organizations"},{"slug":"43_International_Environmental_Agreements","title":"International Environmental Agreements"},{"slug":"44_Current_Environmental_Issues","title":"Current Environmental Issues"},{"slug":"uttarakhand/01_Natural_Resources_and_Climate_Contribution","title":"01 — Natural Resources & Climate Contribution"},{"slug":"uttarakhand/02_Biodiversity_and_Protected_Areas","title":"02 — Biodiversity & Protected Areas"},{"slug":"uttarakhand/03_Climate_Vulnerability_and_Governance","title":"03 — Climate Vulnerability & Governance"},{"slug":"00_Daily_Revision_Facts","title":"Daily Revision Facts"},{"slug":"00_Prelims_Analysis","title":"Prelims Analysis"},{"slug":"00_Syllabus","title":"Syllabus"},{"slug":"45_Environment_PYQ_Trend_Analysis","title":"Environment PYQ Trend Analysis"},{"slug":"uttarakhand/00_Syllabus","title":"Syllabus"},{"slug":"uttarakhand/00_UKPCS_PYQ_Bank_Environment","title":"UKPCS PYQ Bank Environment"},{"slug":"uttarakhand/04_National_Parks_Sanctuaries","title":"National Parks Sanctuaries"}],"polity":[{"slug":"01_Constitutional_Development","title":"Constitutional Development"},{"slug":"02_Features_of_the_Constitution","title":"Features of the Constitution"},{"slug":"03_Parts_Articles_and_Schedules","title":"Parts, Articles & Schedules"},{"slug":"04_Union_and_Territory","title":"Union & Territory"},{"slug":"05_Fundamental_Rights_and_Duties","title":"Fundamental Rights & Duties"},{"slug":"06_Union_Executive","title":"Union Executive"},{"slug":"07_Parliament","title":"Parliament"},{"slug":"08_State_Government","title":"State Government"},{"slug":"09_Judiciary","title":"Judiciary"},{"slug":"10_Local_Government","title":"Local Government"},{"slug":"11_Centre_State_Relations","title":"Centre–State Relations"},{"slug":"12_Constitutional_Bodies","title":"Constitutional Bodies"},{"slug":"13_Statutory_and_Non_Constitutional_Bodies","title":"Statutory & Non-Constitutional Bodies"},{"slug":"14_Elections","title":"Elections"},{"slug":"15_Emergency_Provisions","title":"Emergency Provisions"},{"slug":"16_Constitutional_Amendments","title":"Constitutional Amendments"},{"slug":"17_Language_and_Special_Provisions","title":"Language & Special Provisions"},{"slug":"18_Political_Parties_and_Pressure_Groups","title":"Political Parties & Pressure Groups"},{"slug":"19_Acts_and_Governance","title":"Acts & Governance"},{"slug":"20_Internal_Security","title":"Internal Security"},{"slug":"21_International_Relations","title":"International Relations"},{"slug":"22_Constitutional_Philosophy","title":"Constitutional Philosophy"},{"slug":"23_Constitutional_and_Legal_Offices","title":"Constitutional & Legal Offices"},{"slug":"24_Important_Supreme_Court_Judgments","title":"Important Supreme Court Judgments"},{"slug":"25_UP_Special","title":"UP Special"},{"slug":"26_One_Liner_Revision","title":"One-Liner Revision"},{"slug":"uttarakhand/01_Constitutional_Framework_of_Uttarakhand","title":"Constitutional Framework"},{"slug":"uttarakhand/02_Public_Services_PSC_Auditing","title":"Public Services, PSC & Auditing"},{"slug":"uttarakhand/03_High_Court_and_Jurisdiction","title":"High Court & Jurisdiction"},{"slug":"uttarakhand/04_SC_ST_Minorities_Official_Language","title":"SC/ST, Minorities & Language"},{"slug":"uttarakhand/05_Funds_Parties_Elections","title":"Funds, Parties & Elections"},{"slug":"uttarakhand/06_Local_Government_Panchayati_Raj","title":"Local Government & PR"},{"slug":"uttarakhand/07_Governance_and_Rights_Schemes","title":"Governance & Rights Schemes"},{"slug":"00_Daily_Revision_Facts","title":"Daily Revision Facts"},{"slug":"00_Prelims_Analysis","title":"Prelims Analysis"},{"slug":"00_Syllabus","title":"Syllabus"},{"slug":"27_Committees_and_Commissions","title":"Committees and Commissions"},{"slug":"uttarakhand/00_Syllabus","title":"Syllabus"},{"slug":"uttarakhand/00_UKPCS_PYQ_Bank_Polity","title":"UKPCS PYQ Bank Polity"}],"economy":[{"slug":"00_Syllabus","title":"Syllabus"},{"slug":"uttarakhand/00_Syllabus","title":"Syllabus"}],"science and technology":[{"slug":"00_Syllabus","title":"Syllabus"},{"slug":"uttarakhand/00_Syllabus","title":"Syllabus"}],"up special":[{"slug":"01_UP_History_and_Culture","title":"UP History & Culture"},{"slug":"02_UP_Geography_and_Rivers","title":"UP Geography, Rivers & Climate"},{"slug":"03_UP_Economy_Budget_and_Agriculture","title":"UP Economy, Budget & Agriculture"},{"slug":"04_UP_Polity_and_Administration","title":"UP Polity & Administration"},{"slug":"05_UP_Census_and_Demographics","title":"UP Census & Demographics"},{"slug":"06_UP_Schemes_and_Welfare_Policies","title":"UP Government Schemes & Welfare"},{"slug":"07_UP_Tourism_and_Heritage_Sites","title":"UP Tourism & Heritage Sites"}],"current affairs":[{"slug":"01_National_Current_Affairs","title":"National Current Affairs & Events"},{"slug":"02_International_Relations_and_Summits","title":"International Summits & Treaties"},{"slug":"03_UP_Current_Affairs_and_Schemes","title":"UP State Current Affairs"},{"slug":"04_Economic_Survey_and_Budget","title":"Union & State Budget / Economic Survey"},{"slug":"05_Science_Tech_Defense_and_Space","title":"Defense, Space & S&T Updates"},{"slug":"06_Environment_Ecology_Current_Affairs","title":"Environment & COP Summits"},{"slug":"07_Awards_Sports_Persons_in_News","title":"Awards, Sports & Appointments"},{"slug":"08_Indices_and_Reports","title":"Global & National Indices / Reports"}],"csat":[{"slug":"01_Interpersonal_Skills_and_Communication","title":"Interpersonal Skills & Communication"},{"slug":"02_Logical_Reasoning_and_Analytical_Ability","title":"Logical Reasoning & Analytical Ability"},{"slug":"03_Decision_Making_and_Problem_Solving","title":"Decision Making & Problem Solving"},{"slug":"04_General_Mental_Ability","title":"General Mental Ability"},{"slug":"05_Basic_Numeracy_and_Data_Interpretation","title":"Basic Numeracy & Data Interpretation"},{"slug":"06_General_Hindi_Grammar","title":"General Hindi Grammar (Class X Level)"},{"slug":"07_General_English_Comprehension","title":"General English Comprehension"}]};
+
+  function getMidnightRemainingStr() {
+    const now = new Date();
+    const midnight = new Date();
+    midnight.setHours(23, 59, 59, 999);
+    const diffMs = midnight - now;
+    if (diffMs <= 0) return 'Midnight checkpoint reached';
+    const hours = Math.floor(diffMs / (1000 * 60 * 60));
+    const mins = Math.floor((diffMs % (1000 * 60 * 60)) / (1000 * 60));
+    return `${hours}h ${mins}m left till Midnight Checkpoint`;
+  }
 
   function formatPlannerDateDisplay(isoDateStr) {
     if (!isoDateStr) return '';
@@ -520,6 +535,195 @@
     return getLocalDailyPlanner(targetDate);
   }
 
+  // 9-Day Calendar Strip generator (7 past days, today, tomorrow)
+  function getCalendarDaysList(activeDate) {
+    const todayStr = getTodayISODate();
+    const raw = localStorage.getItem(LOCAL_PLANNER_KEY);
+    const allData = raw ? (JSON.parse(raw) || {}) : {};
+    const days = [];
+    for (let offset = -7; offset <= 1; offset++) {
+      const d = new Date();
+      d.setDate(d.getDate() + offset);
+      const y = d.getFullYear();
+      const m = String(d.getMonth() + 1).padStart(2, '0');
+      const day = String(d.getDate()).padStart(2, '0');
+      const dateStr = `${y}-${m}-${day}`;
+
+      const dayName = d.toLocaleDateString('en-IN', { weekday: 'short' }).toUpperCase();
+      const dayNum = d.toLocaleDateString('en-IN', { day: 'numeric', month: 'short' });
+
+      const dayData = allData[dateStr] || { reading_topics: [] };
+      const topics = dayData.reading_topics || [];
+      const plannedCount = topics.length;
+      const achievedCount = topics.filter(t => t.status === 'achieved').length;
+      const backlogCount = topics.filter(t => t.status !== 'achieved').length;
+
+      days.push({
+        dateStr,
+        dayName: dateStr === todayStr ? 'TODAY' : dayName,
+        dayNum,
+        isToday: dateStr === todayStr,
+        isActive: dateStr === activeDate,
+        plannedCount,
+        achievedCount,
+        backlogCount
+      });
+    }
+    return days;
+  }
+
+  // Cumulative overall backlog scanner across all stored dates
+  function getOverallBacklogFromLocal() {
+    const todayStr = getTodayISODate();
+    const raw = localStorage.getItem(LOCAL_PLANNER_KEY);
+    if (!raw) return [];
+    try {
+      const all = JSON.parse(raw);
+      const backlog = [];
+      Object.keys(all).forEach(d => {
+        const dayData = all[d];
+        if (dayData && Array.isArray(dayData.reading_topics)) {
+          dayData.reading_topics.forEach(t => {
+            if (t.status !== 'achieved') {
+              let daysOverdue = 0;
+              try {
+                const d1 = new Date(d);
+                const d2 = new Date(todayStr);
+                daysOverdue = Math.max(0, Math.round((d2 - d1) / (1000 * 60 * 60 * 24)));
+              } catch {}
+              backlog.push({
+                ...t,
+                planned_date: d,
+                days_overdue: daysOverdue,
+                is_today: d === todayStr
+              });
+            }
+          });
+        }
+      });
+      backlog.sort((a, b) => (a.planned_date > b.planned_date ? 1 : -1));
+      return backlog;
+    } catch (e) {
+      return [];
+    }
+  }
+
+  // Resolve matching topic in localStorage across all dates and on backend
+  async function apiResolveTopicEverywhere(subject, topic) {
+    if (!subject || !topic) return;
+    const normSub = (subject || '').toLowerCase().trim();
+    const normTopic = (topic || '').toLowerCase().trim();
+
+    try {
+      const raw = localStorage.getItem(LOCAL_PLANNER_KEY);
+      if (raw) {
+        const all = JSON.parse(raw);
+        let changed = false;
+        Object.keys(all).forEach(d => {
+          const dayData = all[d];
+          if (dayData && Array.isArray(dayData.reading_topics)) {
+            dayData.reading_topics.forEach(t => {
+              const tSub = (t.subject || '').toLowerCase().trim();
+              const tName = (t.topic || '').toLowerCase().trim();
+              const match = (tSub === normSub || normSub.includes(tSub) || tSub.includes(normSub)) && (
+                tName === normTopic || tName.includes(normTopic) || normTopic.includes(tName) ||
+                tName.replace(/[^a-z0-9]/g, '') === normTopic.replace(/[^a-z0-9]/g, '')
+              );
+              if (match && t.status !== 'achieved') {
+                t.status = 'achieved';
+                t.achieved_at = new Date().toISOString();
+                t.cleared_by = 'read_marker';
+                changed = true;
+              }
+            });
+          }
+        });
+        if (changed) {
+          localStorage.setItem(LOCAL_PLANNER_KEY, JSON.stringify(all));
+        }
+      }
+    } catch (e) {
+      console.warn('Error resolving topic locally:', e);
+    }
+
+    try {
+      await authFetch(`${API_BASE}/daily-planner/resolve-by-topic`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ subject: normSub, topic: normTopic })
+      });
+    } catch (e) {
+      console.warn('Backend resolve deferred:', e);
+    }
+  }
+
+  // Detect whether a chapter is on Today's reading list or in Backlog
+  function getChapterReadingPlanStatus(subject, topicSlug) {
+    if (!subject || !topicSlug) return null;
+    const normSub = subject.toLowerCase().trim();
+    const normTopic = topicSlug.toLowerCase().trim();
+    const todayStr = getTodayISODate();
+
+    const raw = localStorage.getItem(LOCAL_PLANNER_KEY);
+    if (!raw) return null;
+    try {
+      const all = JSON.parse(raw);
+      // 1. Check today
+      const todayData = all[todayStr];
+      if (todayData && Array.isArray(todayData.reading_topics)) {
+        const match = todayData.reading_topics.find(t => {
+          const tSub = (t.subject || '').toLowerCase().trim();
+          const tName = (t.topic || '').toLowerCase().trim();
+          return (tSub === normSub || normSub.includes(tSub) || tSub.includes(normSub)) && (
+            tName === normTopic || tName.includes(normTopic) || normTopic.includes(tName) ||
+            tName.replace(/[^a-z0-9]/g, '') === normTopic.replace(/[^a-z0-9]/g, '')
+          );
+        });
+        if (match) {
+          return {
+            status: 'today',
+            isAchieved: match.status === 'achieved',
+            plannedDate: todayStr,
+            slot: match.slot,
+            topicItem: match
+          };
+        }
+      }
+
+      // 2. Check past dates for backlog
+      const pastDates = Object.keys(all).sort().reverse();
+      for (const d of pastDates) {
+        if (d >= todayStr) continue;
+        const dayData = all[d];
+        if (dayData && Array.isArray(dayData.reading_topics)) {
+          const match = dayData.reading_topics.find(t => {
+            const tSub = (t.subject || '').toLowerCase().trim();
+            const tName = (t.topic || '').toLowerCase().trim();
+            return (tSub === normSub || normSub.includes(tSub) || tSub.includes(normSub)) && (
+              tName === normTopic || tName.includes(normTopic) || normTopic.includes(tName) ||
+              tName.replace(/[^a-z0-9]/g, '') === normTopic.replace(/[^a-z0-9]/g, '')
+            );
+          });
+          if (match && match.status !== 'achieved') {
+            const d1 = new Date(d);
+            const d2 = new Date(todayStr);
+            const daysOverdue = Math.max(0, Math.round((d2 - d1) / (1000 * 60 * 60 * 24)));
+            return {
+              status: 'backlog',
+              isAchieved: false,
+              plannedDate: d,
+              daysOverdue,
+              topicItem: match
+            };
+          }
+        }
+      }
+    } catch (e) {
+      return null;
+    }
+    return null;
+  }
+
   async function apiAddPlannerTopic(date, subject, topic, slot, notes) {
     const targetDate = date || activePlannerDate;
     const local = getLocalDailyPlanner(targetDate);
@@ -527,7 +731,7 @@
       id: 'topic_' + Date.now() + '_' + Math.random().toString(36).substr(2, 5),
       subject: subject.toLowerCase().trim(),
       topic: topic.trim(),
-      slot: slot || 'morning_12pm',
+      slot: slot || 'midnight_slot',
       notes: (notes || '').trim(),
       status: 'pending',
       achieved_by_12pm: false,
@@ -549,6 +753,42 @@
       console.warn('Backend sync failed, saved locally:', e);
     }
     return newTopic;
+  }
+
+  // Batch add multiple selected chapters
+  async function apiAddPlannerTopicsBatch(date, subject, topicsList, slot, notes) {
+    const targetDate = date || activePlannerDate;
+    const local = getLocalDailyPlanner(targetDate);
+    if (!local.reading_topics) local.reading_topics = [];
+
+    const created = [];
+    for (const tName of topicsList) {
+      if (!tName || !tName.trim()) continue;
+      const newTopic = {
+        id: 'topic_' + Date.now() + '_' + Math.random().toString(36).substr(2, 5),
+        subject: subject.toLowerCase().trim(),
+        topic: tName.trim(),
+        slot: slot || 'midnight_slot',
+        notes: (notes || '').trim(),
+        status: 'pending',
+        achieved_by_12pm: false,
+        missed_12pm: false,
+        created_at: new Date().toISOString(),
+        achieved_at: null
+      };
+      local.reading_topics.push(newTopic);
+      created.push(newTopic);
+
+      // Async push to server
+      authFetch(`${API_BASE}/daily-planner/topic`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ date: targetDate, subject, topic: tName.trim(), slot, notes })
+      }).catch(err => console.warn('Topic batch sync error:', err));
+    }
+
+    saveLocalDailyPlanner(targetDate, local);
+    return created;
   }
 
   async function apiUpdatePlannerTopic(date, id, updates) {
@@ -574,6 +814,7 @@
     }
   }
 
+  // Safe DELETE for reading topic: sends both query param and JSON body
   async function apiDeletePlannerTopic(date, id) {
     const targetDate = date || activePlannerDate;
     const local = getLocalDailyPlanner(targetDate);
@@ -582,7 +823,9 @@
 
     try {
       await authFetch(`${API_BASE}/daily-planner/topic/${encodeURIComponent(id)}?date=${encodeURIComponent(targetDate)}`, {
-        method: 'DELETE'
+        method: 'DELETE',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ date: targetDate })
       });
     } catch (e) {
       console.warn('Backend sync failed, saved locally:', e);
@@ -640,6 +883,7 @@
     }
   }
 
+  // Safe DELETE for daily task: sends both query param and JSON body to eliminate 500 error
   async function apiDeletePlannerTask(date, id) {
     const targetDate = date || activePlannerDate;
     const local = getLocalDailyPlanner(targetDate);
@@ -648,19 +892,22 @@
 
     try {
       await authFetch(`${API_BASE}/daily-planner/task/${encodeURIComponent(id)}?date=${encodeURIComponent(targetDate)}`, {
-        method: 'DELETE'
+        method: 'DELETE',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ date: targetDate })
       });
     } catch (e) {
       console.warn('Backend sync failed, saved locally:', e);
     }
   }
 
-  async function apiEvaluate12pmPlanner(date) {
+  // Midnight / End-of-Day Audit Checkpoint
+  async function apiEvaluateMidnightPlanner(date) {
     const targetDate = date || activePlannerDate;
     const local = getLocalDailyPlanner(targetDate);
     let count = 0;
     (local.reading_topics || []).forEach(t => {
-      if (t.slot === 'morning_12pm' && t.status !== 'achieved') {
+      if ((t.slot === 'midnight_slot' || t.slot === 'morning_12pm' || !t.slot) && t.status !== 'achieved') {
         t.missed_12pm = true;
         count++;
       }
@@ -668,7 +915,7 @@
     saveLocalDailyPlanner(targetDate, local);
 
     try {
-      await authFetch(`${API_BASE}/daily-planner/evaluate-12pm`, {
+      await authFetch(`${API_BASE}/daily-planner/evaluate-midnight`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ date: targetDate })
@@ -677,6 +924,10 @@
       console.warn('Backend sync failed:', e);
     }
     return count;
+  }
+
+  async function apiEvaluate12pmPlanner(date) {
+    return apiEvaluateMidnightPlanner(date);
   }
 
   async function apiRolloverPlanner(fromDate, toDate) {
@@ -699,7 +950,7 @@
         id: 'topic_' + Date.now() + '_' + Math.random().toString(36).substr(2, 5),
         subject: t.subject,
         topic: t.topic,
-        slot: 'morning_12pm',
+        slot: 'midnight_slot',
         notes: (t.notes ? t.notes + ' ' : '') + `(Rolled from ${sourceDate})`,
         status: 'pending',
         achieved_by_12pm: false,
@@ -737,6 +988,7 @@
     }
     return { topics: pendingTopics.length, tasks: incompleteTasks.length };
   }
+
 
   // -------------------------------------------------------------
   // URL & PATH HELPERS
@@ -975,11 +1227,126 @@
   }
 
   // -------------------------------------------------------------
-  // 1. INJECT IN-CHAPTER TRACKER BAR & QUICK CONTROLS
+  // FLOATING IN-CHAPTER READING CLOCK & STOPWATCH
   // -------------------------------------------------------------
+  let readingClockInterval = null;
+  let readingClockSeconds = 0;
+  let isReadingClockPaused = false;
+
+  function initChapterReadingClock(topicInfo) {
+    if (!topicInfo) return;
+
+    // Remove existing widget if re-rendered or navigated
+    const existing = document.getElementById('st-reading-clock-widget');
+    if (existing) existing.remove();
+    if (readingClockInterval) {
+      clearInterval(readingClockInterval);
+      readingClockInterval = null;
+    }
+
+    const storageKey = `uppcs_reading_timer_${topicInfo.subject}_${topicInfo.topic}`;
+    let saved = 0;
+    try {
+      saved = parseInt(sessionStorage.getItem(storageKey) || '0', 10);
+    } catch {}
+    readingClockSeconds = isNaN(saved) ? 0 : saved;
+    isReadingClockPaused = false;
+
+    function formatClockTime(sec) {
+      const h = Math.floor(sec / 3600);
+      const m = Math.floor((sec % 3600) / 60);
+      const s = sec % 60;
+      if (h > 0) {
+        return `${String(h).padStart(2, '0')}:${String(m).padStart(2, '0')}:${String(s).padStart(2, '0')}`;
+      }
+      return `${String(m).padStart(2, '0')}:${String(s).padStart(2, '0')}`;
+    }
+
+    const widget = document.createElement('div');
+    widget.className = 'st-reading-clock-widget';
+    widget.id = 'st-reading-clock-widget';
+    widget.title = `Reading stopwatch for ${topicInfo.title || topicInfo.topic}`;
+    widget.innerHTML = `
+      <div class="st-clock-icon-wrap" id="st-clock-icon-btn" title="Click to Pause / Resume">
+        <span>⏱️</span>
+        <span class="st-clock-pulse-dot" id="st-clock-pulse"></span>
+      </div>
+      <div class="st-clock-info">
+        <span class="st-clock-label" id="st-clock-label">Reading Notes</span>
+        <span class="st-clock-time-val" id="st-clock-time-val">${formatClockTime(readingClockSeconds)}</span>
+      </div>
+      <div class="st-clock-actions">
+        <button type="button" class="st-clock-btn" id="st-clock-play-btn" title="Pause Timer">⏸️</button>
+        <button type="button" class="st-clock-btn st-btn-reset" id="st-clock-reset-btn" title="Reset Timer">🔄</button>
+        <button type="button" class="st-clock-btn" id="st-clock-min-btn" title="Minimize / Expand">🗕</button>
+      </div>
+    `;
+
+    document.body.appendChild(widget);
+
+    const timeValEl = widget.querySelector('#st-clock-time-val');
+    const playBtn = widget.querySelector('#st-clock-play-btn');
+    const resetBtn = widget.querySelector('#st-clock-reset-btn');
+    const minBtn = widget.querySelector('#st-clock-min-btn');
+    const labelEl = widget.querySelector('#st-clock-label');
+    const iconBtn = widget.querySelector('#st-clock-icon-btn');
+
+    // Ticking interval
+    readingClockInterval = setInterval(() => {
+      if (!isReadingClockPaused) {
+        readingClockSeconds++;
+        if (timeValEl) timeValEl.textContent = formatClockTime(readingClockSeconds);
+        if (readingClockSeconds % 5 === 0) {
+          try {
+            sessionStorage.setItem(storageKey, String(readingClockSeconds));
+          } catch {}
+        }
+      }
+    }, 1000);
+
+    function togglePause() {
+      isReadingClockPaused = !isReadingClockPaused;
+      widget.classList.toggle('is-paused', isReadingClockPaused);
+      if (isReadingClockPaused) {
+        if (playBtn) { playBtn.textContent = '▶️'; playBtn.title = 'Resume Timer'; }
+        if (labelEl) labelEl.textContent = 'Paused';
+      } else {
+        if (playBtn) { playBtn.textContent = '⏸️'; playBtn.title = 'Pause Timer'; }
+        if (labelEl) labelEl.textContent = 'Reading Notes';
+      }
+    }
+
+    playBtn?.addEventListener('click', togglePause);
+    iconBtn?.addEventListener('click', togglePause);
+
+    resetBtn?.addEventListener('click', () => {
+      readingClockSeconds = 0;
+      if (timeValEl) timeValEl.textContent = '00:00';
+      try {
+        sessionStorage.setItem(storageKey, '0');
+      } catch {}
+    });
+
+    let isMinimized = false;
+    minBtn?.addEventListener('click', () => {
+      isMinimized = !isMinimized;
+      widget.classList.toggle('is-minimized', isMinimized);
+      if (minBtn) {
+        minBtn.textContent = isMinimized ? '🗖' : '🗕';
+        minBtn.title = isMinimized ? 'Expand Timer' : 'Minimize Timer';
+      }
+    });
+  }
+
+  // -------------------------------------------------------------
+  // 1. INJECT IN-CHAPTER TRACKER BAR & QUICK CONTROLS
+  // ---------------------------------------------------------------
   async function injectSubjectNoteWidget() {
     const topicInfo = getCurrentTopicInfo();
     if (!topicInfo) return;
+
+    // Initialize floating in-chapter reading clock stopwatch
+    initChapterReadingClock(topicInfo);
 
     const priorityInfo = getChapterPriority(topicInfo.subject, topicInfo.topic);
 
@@ -1091,6 +1458,42 @@
         </div>
       </div>
     `;
+
+    // Check if this chapter is scheduled on today's reading plan or in the backlog
+    const planStatus = getChapterReadingPlanStatus(topicInfo.subject, topicInfo.topic);
+    if (planStatus) {
+      const banner = document.createElement('div');
+      banner.id = 'st-chapter-plan-banner';
+      if (planStatus.status === 'today') {
+        if (planStatus.isAchieved) {
+          banner.className = 'st-chapter-plan-banner is-cleared';
+          banner.innerHTML = `
+            <span>✅ <strong>Completed in Today's Reading Plan</strong> (${formatPlannerDateDisplay(planStatus.plannedDate)})</span>
+          `;
+        } else {
+          banner.className = 'st-chapter-plan-banner is-today';
+          banner.innerHTML = `
+            <span>🎯 <strong>Scheduled in Today's Reading Plan</strong> &bull; Target: Till Midnight 11:59 PM</span>
+            <button type="button" class="st-act-btn is-success" id="st-banner-mark-read" style="padding:0.25rem 0.65rem; font-size:0.75rem;">
+              Mark Read Now (+1)
+            </button>
+          `;
+        }
+      } else if (planStatus.status === 'backlog') {
+        banner.className = 'st-chapter-plan-banner is-backlog';
+        banner.innerHTML = `
+          <span>⚠️ <strong>In Your Study Backlog</strong> &bull; Planned on ${planStatus.plannedDate} (${planStatus.daysOverdue} day${planStatus.daysOverdue === 1 ? '' : 's'} overdue)</span>
+          <button type="button" class="st-act-btn is-success" id="st-banner-mark-read" style="padding:0.25rem 0.65rem; font-size:0.75rem;">
+            Clear from Backlog (+1 Read)
+          </button>
+        `;
+      }
+      h1.insertAdjacentElement('afterend', banner);
+      banner.querySelector('#st-banner-mark-read')?.addEventListener('click', () => {
+        const plusOneBtn = document.getElementById('st-btn-plus-one');
+        if (plusOneBtn) plusOneBtn.click();
+      });
+    }
 
     h1.insertAdjacentElement('afterend', deck);
 
@@ -1313,13 +1716,16 @@
       btn.textContent = 'Saving...';
     }
 
-    // 1. Update local cache immediately
+    // 1. Update local cache immediately with time spent
+    const timeSpentMsg = readingClockSeconds > 0 ? ` (⏱️ Read time: ${Math.max(1, Math.round(readingClockSeconds / 60))}m)` : '';
     saveLocalLog(topicInfo.subject, topicInfo.topic, {
       topic_title: topicInfo.title,
       stage: 'Revision',
       confidence: 4,
-      notes: `Quick read marked (+1) on ${formatDate(new Date())}`
+      notes: `Quick read marked (+1) on ${formatDate(new Date())}${timeSpentMsg}`
     });
+    const clockLbl = document.getElementById('st-clock-label');
+    if (clockLbl) clockLbl.textContent = '🎉 Read Recorded';
 
     // 2. Call backend MongoDB API
     try {
@@ -1334,6 +1740,18 @@
       });
     } catch (e) {
       console.warn('Backend sync deferred:', e);
+    }
+
+    // 3. Auto-clear from Today's Reading Plan and Backlog
+    try {
+      await apiResolveTopicEverywhere(topicInfo.subject, topicInfo.topic);
+      const banner = document.getElementById('st-chapter-plan-banner');
+      if (banner) {
+        banner.className = 'st-chapter-plan-banner is-cleared';
+        banner.innerHTML = `<span>🎉 <strong>Smashed!</strong> Cleared from today's plan & overall backlog.</span>`;
+      }
+    } catch (e) {
+      console.warn('Planner resolve deferred:', e);
     }
 
     // Refresh UI
@@ -3341,13 +3759,15 @@
     let dueRevisions = [];
     let weakTopics = [];
     let planner = null;
+    let serverBacklog = null;
 
     try {
-      const [sumRes, dueRes, weakRes, planRes] = await Promise.all([
+      const [sumRes, dueRes, weakRes, planRes, backlogRes] = await Promise.all([
         authFetch(`${API_BASE}/dashboard/summary`).catch(() => null),
         authFetch(`${API_BASE}/revisions/due`).catch(() => null),
         authFetch(`${API_BASE}/weak-topics`).catch(() => null),
-        authFetch(`${API_BASE}/daily-planner?date=${encodeURIComponent(activePlannerDate)}`).catch(() => null)
+        authFetch(`${API_BASE}/daily-planner?date=${encodeURIComponent(activePlannerDate)}`).catch(() => null),
+        authFetch(`${API_BASE}/daily-planner/overall-backlog`).catch(() => null)
       ]);
 
       if (sumRes && sumRes.ok) summary = await sumRes.json();
@@ -3356,6 +3776,9 @@
       if (planRes && planRes.ok) {
         planner = await planRes.json();
         saveLocalDailyPlanner(activePlannerDate, planner);
+      }
+      if (backlogRes && backlogRes.ok) {
+        serverBacklog = await backlogRes.json();
       }
     } catch (e) {
       console.warn('Dashboard fetch error:', e);
@@ -3366,25 +3789,27 @@
     }
 
     // Daily Planner & Tasks computation
-    const now = new Date();
     const isCurrentDateToday = activePlannerDate === getTodayISODate();
-    const isPast12PM = isCurrentDateToday && (now.getHours() >= 12);
-
     const readingTopics = planner.reading_topics || [];
-    // Morning targets not achieved and not overdue
-    const morningTargets = readingTopics.filter(t => t.slot === 'morning_12pm' && t.status !== 'achieved' && !t.missed_12pm && (!isPast12PM || !isCurrentDateToday));
+
+    // Midnight targets for active date
+    const midnightTargets = readingTopics.filter(t => (t.slot === 'midnight_slot' || t.slot === 'morning_12pm' || !t.slot) && t.status !== 'achieved');
     // Evening / Afternoon targets
-    const eveningTargets = readingTopics.filter(t => t.slot !== 'morning_12pm' && t.status !== 'achieved' && !t.missed_12pm);
-    // Achieved today
+    const eveningTargets = readingTopics.filter(t => t.slot === 'evening' && t.status !== 'achieved');
+    // Achieved on this date
     const achievedTopics = readingTopics.filter(t => t.status === 'achieved');
-    // Pending backlog (missed 12 PM, marked pending, or overdue morning targets)
-    const pendingTopics = readingTopics.filter(t => {
-      if (t.status === 'achieved') return false;
-      if (t.missed_12pm) return true;
-      if (t.slot === 'pending') return true;
-      if (isPast12PM && isCurrentDateToday && t.slot === 'morning_12pm') return true;
-      return false;
-    });
+    // Backlog on this date (uncompleted items)
+    const dateBacklogTopics = readingTopics.filter(t => t.status !== 'achieved' && (t.missed_12pm || t.slot === 'pending' || activePlannerDate < getTodayISODate()));
+
+    // Overall Cumulative Backlog (all past unachieved topics)
+    const rawOverallBacklog = (serverBacklog && Array.isArray(serverBacklog.backlog))
+      ? serverBacklog.backlog
+      : getOverallBacklogFromLocal();
+    const overallBacklog = rawOverallBacklog.filter(t => t.status !== 'achieved');
+
+    // 9-Day Calendar navigation strip
+    const calendarDays = getCalendarDaysList(activePlannerDate);
+    const midnightCountdownStr = getMidnightRemainingStr();
 
     const allDailyTasks = planner.daily_tasks || [];
     const completedTasksCount = allDailyTasks.filter(t => t.completed).length;
@@ -3409,7 +3834,28 @@
       return '';
     }
 
-    // Fallback if server is not responding
+    // Helper to render chapter checkboxes for selected subject
+    function renderChapterChecklistHtml(selectedSub, searchFilter = '') {
+      const chapters = CHAPTER_CATALOG[selectedSub] || [];
+      const filter = searchFilter.toLowerCase().trim();
+      const filtered = chapters.filter(c => {
+        if (!filter) return true;
+        return c.title.toLowerCase().includes(filter) || c.slug.toLowerCase().includes(filter);
+      });
+
+      if (filtered.length === 0) {
+        return `<div class="st-empty-hint" style="padding:0.5rem; grid-column: 1 / -1;">No matching chapters found in this subject. Enter a custom topic name below!</div>`;
+      }
+
+      return filtered.map(c => `
+        <label class="st-chapter-chk-label" title="${escapeHtml(c.title)}">
+          <input type="checkbox" class="st-chapter-select-chk" data-slug="${escapeHtml(c.slug)}" data-title="${escapeHtml(c.title)}" value="${escapeHtml(c.title)}" />
+          <span style="overflow:hidden; text-overflow:ellipsis; white-space:nowrap;">${escapeHtml(c.title)}</span>
+        </label>
+      `).join('');
+    }
+
+    // Fallback stats
     const isOnline = !!summary;
     const localLogs = getLocalLogs();
     const localTests = getLocalTests();
@@ -3471,17 +3917,17 @@
           </div>
         </div>
 
-        <!-- DAILY TARGET PLANNER & EXECUTION HUB (Placed just below KPI cards) -->
+        <!-- DAILY TARGET PLANNER & MIDNIGHT EXECUTION HUB -->
         <div class="st-planner-section" id="st-planner-root">
           <div class="st-planner-header">
             <div class="st-planner-title-group">
-              <h3>🎯 Today's Study Plan & Execution Hub</h3>
-              <p>Plan your subjects & topics, track what you achieve by 12:00 PM, manage your pending backlog, and check off daily study tasks.</p>
+              <h3>🎯 Daily Study Plan & Midnight Execution Hub</h3>
+              <p>Plan your subjects & chapters, conquer targets before midnight (11:59 PM), track daily date-wise backlog, and maintain your cumulative backlog.</p>
             </div>
             <div class="st-planner-actions-bar">
-              <!-- 12 PM Checkpoint Badge -->
-              <span class="st-planner-12pm-badge ${isPast12PM ? 'is-post-12pm' : 'is-morning'}">
-                ${isPast12PM ? '☀️ Afternoon / Evening Session (12:00 PM Checkpoint Completed)' : '🌅 Morning Slot Active (Target Checkpoint: 12:00 PM)'}
+              <!-- Midnight Deadline Checkpoint Badge -->
+              <span class="st-planner-midnight-badge" title="Daily study milestone deadline">
+                🌙 Time Slot Till Midnight Active &bull; ${midnightCountdownStr}
               </span>
               <!-- Date Switcher -->
               <div style="display:inline-flex; align-items:center; gap:0.25rem;">
@@ -3493,94 +3939,169 @@
                 ${!isCurrentDateToday ? `<button type="button" class="st-act-btn" id="st-plan-date-today" style="font-weight:700; color:var(--md-primary-fg-color, #273c75);">Today</button>` : ''}
               </div>
               <!-- Checkpoint & Rollover Controls -->
-              <button type="button" class="st-act-btn is-warning" id="st-btn-evaluate-12pm" title="Run 12 PM audit to move incomplete morning topics to Pending">
-                ⚡ 12 PM Audit
+              <button type="button" class="st-act-btn is-warning" id="st-btn-evaluate-midnight" title="Run Midnight audit to flag incomplete targets as Backlog">
+                ⚡ Midnight Audit
               </button>
-              <button type="button" class="st-act-btn" id="st-btn-rollover-yesterday" title="Rollover pending topics and incomplete tasks from yesterday">
+              <button type="button" class="st-act-btn" id="st-btn-rollover-yesterday" title="Rollover pending topics and incomplete tasks into today">
                 🔄 Rollover Pending
               </button>
             </div>
           </div>
 
+          <!-- Date / Calendar Strip for Date-wise Backlog & Achieved Inspection -->
+          <div class="st-planner-calendar-strip" id="st-cal-strip">
+            ${calendarDays.map(cd => `
+              <button type="button" class="st-cal-day-btn ${cd.isActive ? 'is-active' : ''}" data-date="${cd.dateStr}" title="View plan and backlog for ${cd.dateStr}">
+                <span class="st-cal-day-name">${cd.dayName}</span>
+                <span class="st-cal-day-num">${cd.dayNum}</span>
+                <span class="st-cal-day-indicator ${cd.backlogCount > 0 ? 'has-backlog' : (cd.plannedCount > 0 && cd.achievedCount === cd.plannedCount ? 'is-done' : 'is-none')}">
+                  ${cd.backlogCount > 0 ? `⚠️ ${cd.backlogCount} bl` : (cd.achievedCount > 0 ? `✅ ${cd.achievedCount} ok` : '—')}
+                </span>
+              </button>
+            `).join('')}
+          </div>
+
+          <!-- Overall Cumulative Backlog Card (Across all past dates) -->
+          <div class="st-overall-backlog-card" id="st-overall-backlog-root">
+            <div class="st-overall-backlog-header">
+              <h4>
+                <span>⚠️ Overall Active Backlog (Cumulative)</span>
+                <span class="st-backlog-pill-badge">${overallBacklog.length} Chapters Overdue</span>
+              </h4>
+              <span style="font-size:0.75rem; color:var(--md-default-fg-color--light);">
+                Chapters planned in previous days that were not marked achieved
+              </span>
+            </div>
+            ${overallBacklog.length === 0 ? `
+              <div style="font-size: 0.85rem; color: #059669; font-weight: 600; padding: 0.35rem 0;">
+                🎉 Zero cumulative backlog! All planned chapters across all days are fully completed.
+              </div>
+            ` : `
+              <div class="st-overall-backlog-list">
+                ${overallBacklog.map(item => `
+                  <div class="st-overall-backlog-item" id="backlog-item-${item.id}">
+                    <div style="display:flex; flex-direction:column; gap:0.25rem;">
+                      <div style="display:flex; align-items:center; gap:0.5rem; flex-wrap:wrap;">
+                        <span class="st-sub-pill ${getSubjectPillClass(item.subject)}">${item.subject}</span>
+                        <strong style="font-size:0.92rem; color:var(--md-default-fg-color);">${escapeHtml(item.topic)}</strong>
+                        <span class="st-backlog-meta-tag">
+                          📅 Planned: ${item.planned_date || 'Past'} &bull; ⚠️ ${item.days_overdue || 0} day${(item.days_overdue || 0) === 1 ? '' : 's'} overdue
+                        </span>
+                      </div>
+                      ${item.notes ? `<div style="font-size:0.75rem; color:var(--md-default-fg-color--light); font-style:italic;">📝 ${escapeHtml(item.notes)}</div>` : ''}
+                    </div>
+                    <div style="display:flex; align-items:center; gap:0.4rem; flex-shrink:0;">
+                      <button type="button" class="st-act-btn is-success st-backlog-achieve-btn" data-id="${item.id}" data-subject="${item.subject}" data-topic="${item.topic}" data-date="${item.planned_date}" title="Mark read and clear from backlog">
+                        ✅ Mark Read Now
+                      </button>
+                      <button type="button" class="st-act-btn st-backlog-to-today-btn" data-id="${item.id}" data-date="${item.planned_date}" title="Shift into today's active midnight reading plan">
+                        📅 Move to Today
+                      </button>
+                      <button type="button" class="st-act-btn is-danger st-backlog-del-btn" data-id="${item.id}" data-date="${item.planned_date}" title="Remove from backlog">
+                        🗑️
+                      </button>
+                    </div>
+                  </div>
+                `).join('')}
+              </div>
+            `}
+          </div>
+
           <div class="st-planner-grid">
-            <!-- LEFT COLUMN: Subject & Topic Reading Plan -->
+            <!-- LEFT COLUMN: Subject & Topic Reading Plan for Active Date -->
             <div class="st-planner-col">
               <div class="st-planner-col-head">
-                <h4>📖 Subject & Topic Reading Plan</h4>
+                <h4>📖 Subject & Topic Reading Plan (${formatPlannerDateDisplay(activePlannerDate)})</h4>
                 <span class="st-planner-col-badge">
-                  ${readingTopics.length} Planned | ${achievedTopics.length} Achieved | ${pendingTopics.length} Pending
+                  ${readingTopics.length} Planned | ${achievedTopics.length} Achieved | ${dateBacklogTopics.length} Backlog
                 </span>
               </div>
 
-              <!-- Quick Add Topic Form -->
+              <!-- Quick Add Topic Form with Subject & Multi-Select Chapter Checklist -->
               <form class="st-planner-quick-form" id="st-form-add-topic">
                 <div class="st-form-row">
-                  <div style="flex: 1.1; min-width: 130px;">
-                    <select id="st-topic-subject" class="st-planner-input" style="width: 100%;" required>
-                      <option value="polity">Polity</option>
-                      <option value="geography">Geography</option>
-                      <option value="mordern india">Modern India</option>
-                      <option value="ancient history">Ancient History</option>
-                      <option value="medieval india">Medieval India</option>
-                      <option value="environments & ecology">Environment & Ecology</option>
-                      <option value="economy">Economy</option>
-                      <option value="science and technology">Science & Tech</option>
-                      <option value="art and culture">Art & Culture</option>
-                      <option value="up special">UP Special</option>
-                      <option value="current affairs">Current Affairs</option>
-                      <option value="csat">CSAT</option>
+                  <div style="flex: 1.1; min-width: 140px;">
+                    <label style="font-size:0.75rem; font-weight:700; margin-bottom:0.2rem; display:block;">Select Subject</label>
+                    <select id="st-topic-subject" class="st-planner-input" style="width: 100%; font-weight:700;" required>
+                      <option value="polity" ${activePlannerSubject === 'polity' ? 'selected' : ''}>Polity</option>
+                      <option value="geography" ${activePlannerSubject === 'geography' ? 'selected' : ''}>Geography</option>
+                      <option value="mordern india" ${activePlannerSubject === 'mordern india' ? 'selected' : ''}>Modern India</option>
+                      <option value="ancient history" ${activePlannerSubject === 'ancient history' ? 'selected' : ''}>Ancient History</option>
+                      <option value="medieval india" ${activePlannerSubject === 'medieval india' ? 'selected' : ''}>Medieval India</option>
+                      <option value="environments & ecology" ${activePlannerSubject === 'environments & ecology' ? 'selected' : ''}>Environment & Ecology</option>
+                      <option value="economy" ${activePlannerSubject === 'economy' ? 'selected' : ''}>Economy</option>
+                      <option value="science and technology" ${activePlannerSubject === 'science and technology' ? 'selected' : ''}>Science & Tech</option>
+                      <option value="art and culture" ${activePlannerSubject === 'art and culture' ? 'selected' : ''}>Art & Culture</option>
+                      <option value="up special" ${activePlannerSubject === 'up special' ? 'selected' : ''}>UP Special</option>
+                      <option value="current affairs" ${activePlannerSubject === 'current affairs' ? 'selected' : ''}>Current Affairs</option>
+                      <option value="csat" ${activePlannerSubject === 'csat' ? 'selected' : ''}>CSAT</option>
                     </select>
                   </div>
-                  <div style="flex: 2; min-width: 180px;">
-                    <input type="text" id="st-topic-name" class="st-planner-input" style="width: 100%;" placeholder="Topic name (e.g. Fundamental Rights, Monsoon, Mughal Decline...)" required />
+                  <div style="flex: 1.4; min-width: 160px;">
+                    <label style="font-size:0.75rem; font-weight:700; margin-bottom:0.2rem; display:block;">Target Time Slot</label>
+                    <select id="st-topic-slot" class="st-planner-input" style="width: 100%;">
+                      <option value="midnight_slot" selected>🌙 Time Slot (Till Midnight 11:59 PM)</option>
+                      <option value="evening">⛅ Afternoon / Evening Slot</option>
+                      <option value="all_day">🎯 All-Day Milestone</option>
+                    </select>
                   </div>
                 </div>
+
+                <!-- Dynamic Multi-Select Chapter Checklist Picker -->
+                <div class="st-chapter-multiselect-wrap">
+                  <div class="st-multiselect-controls">
+                    <input type="text" id="st-multiselect-search" class="st-multiselect-search" placeholder="🔍 Search chapters in this subject..." />
+                    <button type="button" class="st-act-btn" id="st-btn-chk-all">Select All</button>
+                    <button type="button" class="st-act-btn" id="st-btn-chk-none">Clear</button>
+                    <span id="st-multiselect-count" style="font-size:0.78rem; font-weight:700; color:var(--md-primary-fg-color, #273c75); margin-left:auto;">0 selected</span>
+                  </div>
+                  <div class="st-chapter-checklist-scroll" id="st-chapter-checklist-container">
+                    ${renderChapterChecklistHtml(activePlannerSubject)}
+                  </div>
+                </div>
+
                 <div class="st-form-row">
-                  <div style="flex: 1.2; min-width: 155px;">
-                    <select id="st-topic-slot" class="st-planner-input" style="width: 100%;">
-                      <option value="morning_12pm">☀️ Morning Slot (Till 12:00 PM)</option>
-                      <option value="evening">⛅ Afternoon / Evening Slot</option>
-                      <option value="all_day">🎯 All-Day Target</option>
-                    </select>
+                  <div style="flex: 1.8; min-width: 180px;">
+                    <input type="text" id="st-topic-custom" class="st-planner-input" style="width: 100%;" placeholder="Or type custom chapter / subtopic name (optional)..." />
                   </div>
-                  <div style="flex: 1.6; min-width: 140px;">
-                    <input type="text" id="st-topic-notes" class="st-planner-input" style="width: 100%;" placeholder="Target notes (e.g. 20 pages + 30 PYQs)" />
+                  <div style="flex: 1.4; min-width: 140px;">
+                    <input type="text" id="st-topic-notes" class="st-planner-input" style="width: 100%;" placeholder="Target notes (e.g. 20 pgs + 30 PYQs)" />
                   </div>
-                  <button type="submit" class="st-btn st-btn-primary" style="padding: 0.45rem 0.85rem; font-size: 0.82rem; white-space: nowrap;">
-                    ➕ Add Target
+                  <button type="submit" class="st-btn st-btn-primary" style="padding: 0.45rem 1rem; font-size: 0.82rem; white-space: nowrap;">
+                    ➕ Add Target(s)
                   </button>
                 </div>
               </form>
 
-              <!-- Topic Slot Containers -->
+              <!-- Topic Slot Containers for Active Date -->
               <div class="st-slot-container">
-                <!-- 1. Morning Slot (Till 12:00 PM) -->
+                <!-- 1. Time Slot (Till Midnight 11:59 PM) -->
                 <div class="st-slot-box is-morning-slot">
                   <div class="st-slot-box-head">
-                    <span>☀️ Morning Slot (Till 12:00 PM)</span>
-                    <span class="st-slot-badge-tag st-tag-morning">${morningTargets.length} Planned</span>
+                    <span>🌙 Time Slot (Till Midnight 11:59 PM)</span>
+                    <span class="st-slot-badge-tag st-tag-morning">${midnightTargets.length} Planned</span>
                   </div>
-                  ${morningTargets.length === 0 ? `
+                  ${midnightTargets.length === 0 ? `
                     <div class="st-empty-hint" style="padding: 0.65rem;">
-                      ${isPast12PM && isCurrentDateToday ? 'Morning session concluded. Any unfinished goals have moved to Pending below!' : 'No morning targets scheduled yet. Add what you plan to read till 12 PM!'}
+                      No midnight targets scheduled for this date. Select chapters above to add to your plan!
                     </div>
                   ` : `
                     <div class="st-topic-items-list">
-                      ${morningTargets.map(t => `
+                      ${midnightTargets.map(t => `
                         <div class="st-topic-item" id="topic-item-${t.id}">
                           <div class="st-topic-info-main">
                             <div class="st-topic-name-row">
                               <span class="st-sub-pill ${getSubjectPillClass(t.subject)}">${t.subject}</span>
-                              <span>${escapeHtml(t.topic)}</span>
+                              <strong style="font-size:0.9rem;">${escapeHtml(t.topic)}</strong>
                             </div>
                             ${t.notes ? `<div class="st-topic-note-text">📝 ${escapeHtml(t.notes)}</div>` : ''}
                           </div>
                           <div class="st-topic-btns">
-                            <button type="button" class="st-act-btn is-success st-topic-achieve-12pm-btn" data-id="${t.id}" title="Achieved by 12 PM!">
-                              ⭐ Achieved (12 PM)
+                            <button type="button" class="st-act-btn is-success st-topic-achieve-midnight-btn" data-id="${t.id}" title="Conquered before midnight!">
+                              ⭐ Achieved (Midnight)
                             </button>
                             <button type="button" class="st-act-btn is-warning st-topic-to-pending-btn" data-id="${t.id}" title="Move to Pending Backlog">
-                              ⏳ Pending
+                              ⏳ Backlog
                             </button>
                             <button type="button" class="st-act-btn is-danger st-topic-del-btn" data-id="${t.id}" title="Delete">
                               🗑️
@@ -3605,7 +4126,7 @@
                           <div class="st-topic-info-main">
                             <div class="st-topic-name-row">
                               <span class="st-sub-pill ${getSubjectPillClass(t.subject)}">${t.subject}</span>
-                              <span>${escapeHtml(t.topic)}</span>
+                              <strong style="font-size:0.9rem;">${escapeHtml(t.topic)}</strong>
                             </div>
                             ${t.notes ? `<div class="st-topic-note-text">📝 ${escapeHtml(t.notes)}</div>` : ''}
                           </div>
@@ -3614,7 +4135,7 @@
                               ✅ Achieved
                             </button>
                             <button type="button" class="st-act-btn is-warning st-topic-to-pending-btn" data-id="${t.id}" title="Move to Pending Backlog">
-                              ⏳ Pending
+                              ⏳ Backlog
                             </button>
                             <button type="button" class="st-act-btn is-danger st-topic-del-btn" data-id="${t.id}" title="Delete">
                               🗑️
@@ -3626,15 +4147,15 @@
                   </div>
                 ` : ''}
 
-                <!-- 3. Achieved Today Section -->
+                <!-- 3. Achieved on This Date Section -->
                 <div class="st-slot-box is-achieved-slot">
                   <div class="st-slot-box-head">
-                    <span>🏆 Achieved Today (${achievedTopics.length})</span>
+                    <span>🏆 Achieved on this Day (${achievedTopics.length})</span>
                     <span class="st-slot-badge-tag st-tag-achieved">Done</span>
                   </div>
                   ${achievedTopics.length === 0 ? `
                     <div class="st-empty-hint" style="padding: 0.65rem;">
-                      No reading targets marked achieved yet. Smash your 12 PM goals!
+                      No reading targets marked achieved yet for this date.
                     </div>
                   ` : `
                     <div class="st-topic-items-list">
@@ -3645,7 +4166,7 @@
                               <span class="st-sub-pill ${getSubjectPillClass(t.subject)}">${t.subject}</span>
                               <span style="text-decoration: line-through; opacity: 0.85;">${escapeHtml(t.topic)}</span>
                               <span class="st-slot-badge-tag st-tag-achieved" style="font-size:0.65rem;">
-                                ${t.achieved_by_12pm ? '⭐ Achieved by 12 PM' : '✅ Completed'}
+                                ${t.cleared_by === 'read_marker' ? '📖 Marked via Chapter Note' : '✅ Completed'}
                               </span>
                             </div>
                             ${t.notes ? `<div class="st-topic-note-text">📝 ${escapeHtml(t.notes)}</div>` : ''}
@@ -3664,29 +4185,29 @@
                   `}
                 </div>
 
-                <!-- 4. PENDING / BACKLOG SECTION -->
+                <!-- 4. Date-wise Backlog Section for this Date -->
                 <div class="st-slot-box is-pending-backlog">
                   <div class="st-slot-box-head" style="color: #b91c1c;">
-                    <span>⚠️ Pending / Rollover Backlog (${pendingTopics.length})</span>
-                    <span class="st-slot-badge-tag st-tag-pending">${pendingTopics.length} Pending</span>
+                    <span>⚠️ Backlog for this Day (${dateBacklogTopics.length})</span>
+                    <span class="st-slot-badge-tag st-tag-pending">${dateBacklogTopics.length} Incomplete</span>
                   </div>
-                  ${pendingTopics.length === 0 ? `
+                  ${dateBacklogTopics.length === 0 ? `
                     <div style="font-size: 0.82rem; color: #059669; font-weight: 600; padding: 0.3rem 0;">
-                      🎉 Zero pending backlog! All targets scheduled till 12 PM have been accomplished.
+                      🎉 Zero pending backlog for this date! All targets were accomplished.
                     </div>
                   ` : `
                     <p style="font-size: 0.76rem; color: #b91c1c; margin: 0 0 0.5rem 0;">
-                      These topics missed the 12:00 PM milestone or are marked pending. Complete them now or rollover to tomorrow!
+                      These chapters were scheduled on this date and not completed before midnight.
                     </p>
                     <div class="st-topic-items-list">
-                      ${pendingTopics.map(t => `
+                      ${dateBacklogTopics.map(t => `
                         <div class="st-topic-item" id="topic-item-${t.id}" style="background: rgba(239, 68, 68, 0.05); border-color: rgba(239, 68, 68, 0.35);">
                           <div class="st-topic-info-main">
                             <div class="st-topic-name-row">
                               <span class="st-sub-pill ${getSubjectPillClass(t.subject)}">${t.subject}</span>
-                              <span style="font-weight: 700; color: #b91c1c;">${escapeHtml(t.topic)}</span>
+                              <strong style="color: #b91c1c;">${escapeHtml(t.topic)}</strong>
                               <span class="st-slot-badge-tag st-tag-pending" style="font-size:0.65rem;">
-                                ${(t.missed_12pm || (isPast12PM && isCurrentDateToday && t.slot === 'morning_12pm')) ? '⏰ Missed 12 PM Target' : '⚠️ Pending'}
+                                ⚠️ Backlog
                               </span>
                             </div>
                             ${t.notes ? `<div class="st-topic-note-text" style="color:#b91c1c;">📝 ${escapeHtml(t.notes)}</div>` : ''}
@@ -3695,12 +4216,15 @@
                             <button type="button" class="st-act-btn is-success st-topic-achieve-now-btn" data-id="${t.id}" title="Mark as Achieved Now">
                               ✅ Done Now
                             </button>
-                            <button type="button" class="st-act-btn st-topic-to-evening-btn" data-id="${t.id}" title="Shift to Afternoon/Evening Slot">
-                              ⛅ To Evening
-                            </button>
-                            <button type="button" class="st-act-btn st-topic-to-tomorrow-btn" data-id="${t.id}" title="Push to Tomorrow">
-                              📅 Tomorrow
-                            </button>
+                            ${!isCurrentDateToday ? `
+                              <button type="button" class="st-act-btn st-topic-to-today-btn" data-id="${t.id}" title="Move to Today's Plan">
+                                📅 To Today
+                              </button>
+                            ` : `
+                              <button type="button" class="st-act-btn st-topic-to-tomorrow-btn" data-id="${t.id}" title="Push to Tomorrow">
+                                📅 Tomorrow
+                              </button>
+                            `}
                             <button type="button" class="st-act-btn is-danger st-topic-del-btn" data-id="${t.id}" title="Delete">
                               🗑️
                             </button>
@@ -3725,7 +4249,7 @@
               <!-- Task Progress Bar -->
               <div class="st-task-progress-wrap">
                 <div class="st-task-progress-labels">
-                  <span>Today's Task Completion</span>
+                  <span>Task Completion for ${formatPlannerDateDisplay(activePlannerDate)}</span>
                   <span><strong>${completedTasksCount}</strong> of ${totalTasksCount} done (${taskCompletionPct}%)</span>
                 </div>
                 <div class="st-task-progress-bar">
@@ -4042,9 +4566,17 @@
     document.getElementById('st-dash-refresh')?.addEventListener('click', renderPrepDashboard);
 
     // -------------------------------------------------------------
-    // DAILY PLANNER & TASKS EVENT HANDLERS
+    // DAILY PLANNER, CALENDAR STRIP & OVERALL BACKLOG HANDLERS
     // -------------------------------------------------------------
-    // Date Navigation
+    // Calendar Day buttons click
+    document.querySelectorAll('#st-cal-strip .st-cal-day-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        activePlannerDate = btn.dataset.date;
+        renderPrepDashboard();
+      });
+    });
+
+    // Prev / Next Date Navigation
     document.getElementById('st-plan-date-prev')?.addEventListener('click', () => {
       const d = new Date(activePlannerDate);
       d.setDate(d.getDate() - 1);
@@ -4070,35 +4602,148 @@
       renderPrepDashboard();
     });
 
-    // 12 PM Audit Checkpoint
-    document.getElementById('st-btn-evaluate-12pm')?.addEventListener('click', async () => {
-      const count = await apiEvaluate12pmPlanner(activePlannerDate);
-      alert(`⚡ 12 PM Audit Complete! ${count} incomplete morning reading target(s) moved to Pending.`);
+    // Midnight Audit Checkpoint
+    document.getElementById('st-btn-evaluate-midnight')?.addEventListener('click', async () => {
+      const count = await apiEvaluateMidnightPlanner(activePlannerDate);
+      alert(`⚡ Midnight Audit Complete! ${count} unachieved target(s) moved to Backlog.`);
       renderPrepDashboard();
     });
 
-    // Rollover Pending from Yesterday
+    // Rollover Pending
     document.getElementById('st-btn-rollover-yesterday')?.addEventListener('click', async () => {
       const res = await apiRolloverPlanner(null, activePlannerDate);
-      alert(`🔄 Rollover Complete: Transferred ${res.topics} pending reading topic(s) and ${res.tasks} pending task(s) to ${activePlannerDate}.`);
+      alert(`🔄 Rollover Complete: Transferred ${res.topics} pending topic(s) and ${res.tasks} pending task(s) to ${activePlannerDate}.`);
       renderPrepDashboard();
     });
 
-    // Add Topic Form Submit
+    // Helper to update counter of selected chapters
+    function updateSelectedCount() {
+      const count = document.querySelectorAll('#st-chapter-checklist-container .st-chapter-select-chk:checked').length;
+      const countEl = document.getElementById('st-multiselect-count');
+      if (countEl) {
+        countEl.textContent = `${count} selected`;
+      }
+    }
+
+    function bindChecklistEvents() {
+      document.querySelectorAll('#st-chapter-checklist-container .st-chapter-select-chk').forEach(chk => {
+        chk.addEventListener('change', updateSelectedCount);
+      });
+      updateSelectedCount();
+    }
+    bindChecklistEvents();
+
+    // Subject Dropdown Change -> Re-populate Chapter Multi-select Checklist
+    const subSelect = document.getElementById('st-topic-subject');
+    subSelect?.addEventListener('change', () => {
+      activePlannerSubject = subSelect.value;
+      const container = document.getElementById('st-chapter-checklist-container');
+      const searchBox = document.getElementById('st-multiselect-search');
+      if (searchBox) searchBox.value = '';
+      if (container) {
+        container.innerHTML = renderChapterChecklistHtml(activePlannerSubject);
+        bindChecklistEvents();
+      }
+    });
+
+    // Multi-select Chapter Live Search
+    const searchBox = document.getElementById('st-multiselect-search');
+    searchBox?.addEventListener('input', () => {
+      const q = searchBox.value.toLowerCase().trim();
+      document.querySelectorAll('#st-chapter-checklist-container .st-chapter-chk-label').forEach(lbl => {
+        const txt = lbl.textContent.toLowerCase();
+        lbl.style.display = txt.includes(q) ? 'flex' : 'none';
+      });
+    });
+
+    // Select All / Clear Selection
+    document.getElementById('st-btn-chk-all')?.addEventListener('click', () => {
+      document.querySelectorAll('#st-chapter-checklist-container .st-chapter-chk-label').forEach(lbl => {
+        if (lbl.style.display !== 'none') {
+          const chk = lbl.querySelector('.st-chapter-select-chk');
+          if (chk) chk.checked = true;
+        }
+      });
+      updateSelectedCount();
+    });
+
+    document.getElementById('st-btn-chk-none')?.addEventListener('click', () => {
+      document.querySelectorAll('#st-chapter-checklist-container .st-chapter-select-chk').forEach(chk => {
+        chk.checked = false;
+      });
+      updateSelectedCount();
+    });
+
+    // Add Topic Form Submit -> Batch Adds Checked Chapters
     document.getElementById('st-form-add-topic')?.addEventListener('submit', async (e) => {
       e.preventDefault();
       const sub = document.getElementById('st-topic-subject').value;
-      const topic = document.getElementById('st-topic-name').value.trim();
       const slot = document.getElementById('st-topic-slot').value;
       const notes = document.getElementById('st-topic-notes').value.trim();
-      if (!sub || !topic) return;
+      const customTopic = document.getElementById('st-topic-custom')?.value.trim();
 
-      await apiAddPlannerTopic(activePlannerDate, sub, topic, slot, notes);
+      const selectedChapters = [];
+      document.querySelectorAll('#st-chapter-checklist-container .st-chapter-select-chk:checked').forEach(chk => {
+        selectedChapters.push(chk.value || chk.dataset.title || chk.dataset.slug);
+      });
+
+      if (customTopic) {
+        selectedChapters.push(customTopic);
+      }
+
+      if (selectedChapters.length === 0) {
+        alert('Please select at least one chapter from the checklist or type a custom topic name.');
+        return;
+      }
+
+      await apiAddPlannerTopicsBatch(activePlannerDate, sub, selectedChapters, slot, notes);
       renderPrepDashboard();
     });
 
-    // Topic Action: Mark Achieved by 12 PM
-    document.querySelectorAll('.st-topic-achieve-12pm-btn').forEach(btn => {
+    // Overall Backlog Item Actions
+    document.querySelectorAll('.st-backlog-achieve-btn').forEach(btn => {
+      btn.addEventListener('click', async () => {
+        const sub = btn.dataset.subject;
+        const topic = btn.dataset.topic;
+        const id = btn.dataset.id;
+        const date = btn.dataset.date;
+        await apiResolveTopicEverywhere(sub, topic);
+        if (date) {
+          await apiUpdatePlannerTopic(date, id, { status: 'achieved', achieved_by_12pm: false });
+        }
+        alert(`🎉 Mark read! Cleared "${topic}" from backlog.`);
+        renderPrepDashboard();
+      });
+    });
+
+    document.querySelectorAll('.st-backlog-to-today-btn').forEach(btn => {
+      btn.addEventListener('click', async () => {
+        const id = btn.dataset.id;
+        const fromDate = btn.dataset.date;
+        const today = getTodayISODate();
+        const local = getLocalDailyPlanner(fromDate);
+        const t = (local.reading_topics || []).find(item => item.id === id);
+        if (t) {
+          await apiAddPlannerTopic(today, t.subject, t.topic, 'midnight_slot', (t.notes ? t.notes + ' ' : '') + `(Rolled from ${fromDate})`);
+          await apiDeletePlannerTopic(fromDate, id);
+          alert(`📅 Shifted "${t.topic}" into Today's Midnight Reading Plan!`);
+          activePlannerDate = today;
+          renderPrepDashboard();
+        }
+      });
+    });
+
+    document.querySelectorAll('.st-backlog-del-btn').forEach(btn => {
+      btn.addEventListener('click', async () => {
+        const id = btn.dataset.id;
+        const date = btn.dataset.date;
+        await apiDeletePlannerTopic(date, id);
+        renderPrepDashboard();
+      });
+    });
+
+    // Active Date Topic Actions
+    document.querySelectorAll('.st-topic-achieve-midnight-btn, .st-topic-achieve-12pm-btn, .st-topic-achieve-btn, .st-topic-achieve-now-btn').forEach(btn => {
       btn.addEventListener('click', async () => {
         const id = btn.dataset.id;
         await apiUpdatePlannerTopic(activePlannerDate, id, {
@@ -4110,33 +4755,6 @@
       });
     });
 
-    // Topic Action: Mark Achieved (General / Afternoon)
-    document.querySelectorAll('.st-topic-achieve-btn').forEach(btn => {
-      btn.addEventListener('click', async () => {
-        const id = btn.dataset.id;
-        await apiUpdatePlannerTopic(activePlannerDate, id, {
-          status: 'achieved',
-          achieved_by_12pm: false,
-          missed_12pm: false
-        });
-        renderPrepDashboard();
-      });
-    });
-
-    // Topic Action: Mark Achieved Now (From Pending list)
-    document.querySelectorAll('.st-topic-achieve-now-btn').forEach(btn => {
-      btn.addEventListener('click', async () => {
-        const id = btn.dataset.id;
-        await apiUpdatePlannerTopic(activePlannerDate, id, {
-          status: 'achieved',
-          achieved_by_12pm: false,
-          missed_12pm: false
-        });
-        renderPrepDashboard();
-      });
-    });
-
-    // Topic Action: Move to Pending Backlog
     document.querySelectorAll('.st-topic-to-pending-btn').forEach(btn => {
       btn.addEventListener('click', async () => {
         const id = btn.dataset.id;
@@ -4148,19 +4766,21 @@
       });
     });
 
-    // Topic Action: Shift to Evening Slot
-    document.querySelectorAll('.st-topic-to-evening-btn').forEach(btn => {
+    document.querySelectorAll('.st-topic-to-today-btn').forEach(btn => {
       btn.addEventListener('click', async () => {
         const id = btn.dataset.id;
-        await apiUpdatePlannerTopic(activePlannerDate, id, {
-          slot: 'evening',
-          missed_12pm: false
-        });
-        renderPrepDashboard();
+        const todayStr = getTodayISODate();
+        const local = getLocalDailyPlanner(activePlannerDate);
+        const t = (local.reading_topics || []).find(item => item.id === id);
+        if (t) {
+          await apiAddPlannerTopic(todayStr, t.subject, t.topic, 'midnight_slot', (t.notes ? t.notes + ' ' : '') + `(Moved from ${activePlannerDate})`);
+          await apiDeletePlannerTopic(activePlannerDate, id);
+          activePlannerDate = todayStr;
+          renderPrepDashboard();
+        }
       });
     });
 
-    // Topic Action: Push to Tomorrow
     document.querySelectorAll('.st-topic-to-tomorrow-btn').forEach(btn => {
       btn.addEventListener('click', async () => {
         const id = btn.dataset.id;
@@ -4174,15 +4794,14 @@
         const local = getLocalDailyPlanner(activePlannerDate);
         const t = (local.reading_topics || []).find(item => item.id === id);
         if (t) {
-          await apiAddPlannerTopic(tomorrowStr, t.subject, t.topic, 'morning_12pm', (t.notes ? t.notes + ' ' : '') + `(Moved from ${activePlannerDate})`);
+          await apiAddPlannerTopic(tomorrowStr, t.subject, t.topic, 'midnight_slot', (t.notes ? t.notes + ' ' : '') + `(Moved from ${activePlannerDate})`);
           await apiDeletePlannerTopic(activePlannerDate, id);
-          alert(`📅 Scheduled "${t.topic}" for tomorrow morning (${tomorrowStr})!`);
+          alert(`📅 Scheduled "${t.topic}" for tomorrow (${tomorrowStr})!`);
           renderPrepDashboard();
         }
       });
     });
 
-    // Topic Action: Undo Achieved
     document.querySelectorAll('.st-topic-undo-btn').forEach(btn => {
       btn.addEventListener('click', async () => {
         const id = btn.dataset.id;
@@ -4194,7 +4813,6 @@
       });
     });
 
-    // Topic Action: Delete Topic
     document.querySelectorAll('.st-topic-del-btn').forEach(btn => {
       btn.addEventListener('click', async () => {
         const id = btn.dataset.id;
@@ -4237,7 +4855,7 @@
       });
     });
 
-    // Task Delete
+    // Task Delete (safe delete with date)
     document.querySelectorAll('.st-task-del-btn').forEach(btn => {
       btn.addEventListener('click', async () => {
         const id = btn.dataset.id;
@@ -4249,7 +4867,7 @@
     // Task Filter Tabs
     document.querySelectorAll('.st-task-filter-btn').forEach(btn => {
       btn.addEventListener('click', () => {
-        activePlannerFilter = btn.dataset.filter || 'all';
+        activePlannerFilter = btn.dataset.filter;
         renderPrepDashboard();
       });
     });
@@ -4257,12 +4875,8 @@
     // Clear Completed Tasks
     document.getElementById('st-btn-clear-completed-tasks')?.addEventListener('click', async () => {
       const local = getLocalDailyPlanner(activePlannerDate);
-      const completed = (local.daily_tasks || []).filter(t => t.completed);
-      if (completed.length === 0) {
-        alert('No completed tasks to clear.');
-        return;
-      }
-      for (const t of completed) {
+      const toDelete = (local.daily_tasks || []).filter(t => t.completed);
+      for (const t of toDelete) {
         await apiDeletePlannerTask(activePlannerDate, t.id);
       }
       renderPrepDashboard();
@@ -4278,20 +4892,16 @@
       const tomorrowStr = `${y}-${m}-${day}`;
 
       const local = getLocalDailyPlanner(activePlannerDate);
-      const pending = (local.daily_tasks || []).filter(t => !t.completed);
-      if (pending.length === 0) {
-        alert('No pending tasks to rollover.');
-        return;
+      const incomplete = (local.daily_tasks || []).filter(t => !t.completed);
+      for (const task of incomplete) {
+        await apiAddPlannerTask(tomorrowStr, task.text, task.priority, task.time_est);
+        await apiDeletePlannerTask(activePlannerDate, task.id);
       }
-      for (const t of pending) {
-        await apiAddPlannerTask(tomorrowStr, t.text, t.priority, t.time_est);
-        await apiDeletePlannerTask(activePlannerDate, t.id);
-      }
-      alert(`📋 Rolled over ${pending.length} pending task(s) to tomorrow (${tomorrowStr})!`);
+      alert(`📅 Rolled over ${incomplete.length} pending task(s) to tomorrow (${tomorrowStr})!`);
       renderPrepDashboard();
     });
 
-    // Form to map new weak topic
+    // Map Weak Topic Form
     document.getElementById('st-form-map-weak')?.addEventListener('submit', async (e) => {
       e.preventDefault();
       const sub = document.getElementById('st-map-subject').value;

@@ -1463,18 +1463,32 @@ app.patch('/api/daily-planner/topic/:id', checkDb, async (req, res) => {
 app.delete('/api/daily-planner/topic/:id', checkDb, async (req, res) => {
   try {
     const { id } = req.params;
-    const targetDate = req.body.date || req.query.date || getTodayStr();
+    const targetDate = req.query?.date || (req.body && req.body.date);
 
-    await db.collection('daily_planner').updateOne(
-      { date: targetDate },
-      {
-        $pull: { reading_topics: { id: id } },
-        $set: { updated_at: new Date() }
-      }
-    );
+    // If targetDate provided, try that first; otherwise remove from any date containing id
+    let result = null;
+    if (targetDate) {
+      result = await db.collection('daily_planner').updateOne(
+        { date: targetDate },
+        {
+          $pull: { reading_topics: { id: id } },
+          $set: { updated_at: new Date() }
+        }
+      );
+    }
+    if (!result || result.modifiedCount === 0) {
+      result = await db.collection('daily_planner').updateMany(
+        { 'reading_topics.id': id },
+        {
+          $pull: { reading_topics: { id: id } },
+          $set: { updated_at: new Date() }
+        }
+      );
+    }
 
     res.json({ success: true, message: 'Reading target deleted' });
   } catch (err) {
+    console.error('[Delete Topic Error]', err);
     res.status(500).json({ error: err.message });
   }
 });
@@ -1482,16 +1496,16 @@ app.delete('/api/daily-planner/topic/:id', checkDb, async (req, res) => {
 // Add daily task
 app.post('/api/daily-planner/task', checkDb, async (req, res) => {
   try {
-    const { date, text, priority = 'normal', time_est = '' } = req.body;
+    const { date, text, priority = 'normal', time_est = '' } = req.body || {};
     if (!text || !text.trim()) {
       return res.status(400).json({ error: 'Task text is required' });
     }
-    const targetDate = date || getTodayStr();
+    const targetDate = date || req.query?.date || getTodayStr();
     const newTask = {
       id: 'task_' + Date.now() + '_' + Math.random().toString(36).substr(2, 5),
       text: text.trim(),
       priority: priority, // 'normal' | 'high' | 'urgent'
-      time_est: time_est.trim(),
+      time_est: (time_est || '').trim(),
       completed: false,
       created_at: new Date(),
       completed_at: null
@@ -1508,6 +1522,7 @@ app.post('/api/daily-planner/task', checkDb, async (req, res) => {
 
     res.json({ success: true, task: newTask });
   } catch (err) {
+    console.error('[Add Task Error]', err);
     res.status(500).json({ error: err.message });
   }
 });
@@ -1516,8 +1531,8 @@ app.post('/api/daily-planner/task', checkDb, async (req, res) => {
 app.patch('/api/daily-planner/task/:id', checkDb, async (req, res) => {
   try {
     const { id } = req.params;
-    const targetDate = req.body.date || req.query.date || getTodayStr();
-    const { completed, text, priority, time_est } = req.body;
+    const targetDate = (req.body && req.body.date) || req.query?.date;
+    const { completed, text, priority, time_est } = req.body || {};
 
     const setFields = { 'daily_tasks.$.updated_at': new Date() };
     if (completed !== undefined) {
@@ -1528,45 +1543,205 @@ app.patch('/api/daily-planner/task/:id', checkDb, async (req, res) => {
     if (priority !== undefined) setFields['daily_tasks.$.priority'] = priority;
     if (time_est !== undefined) setFields['daily_tasks.$.time_est'] = time_est;
 
-    const result = await db.collection('daily_planner').updateOne(
-      { date: targetDate, 'daily_tasks.id': id },
-      { $set: setFields }
-    );
-
-    if (result.matchedCount === 0) {
-      return res.status(404).json({ error: 'Task not found' });
+    let result = null;
+    if (targetDate) {
+      result = await db.collection('daily_planner').updateOne(
+        { date: targetDate, 'daily_tasks.id': id },
+        { $set: setFields }
+      );
+    }
+    if (!result || result.matchedCount === 0) {
+      result = await db.collection('daily_planner').updateOne(
+        { 'daily_tasks.id': id },
+        { $set: setFields }
+      );
     }
 
     res.json({ success: true, message: 'Task updated' });
   } catch (err) {
+    console.error('[Update Task Error]', err);
     res.status(500).json({ error: err.message });
   }
 });
 
-// Delete daily task
+// Delete daily task (safe from undefined body and cross-date deletion)
 app.delete('/api/daily-planner/task/:id', checkDb, async (req, res) => {
   try {
     const { id } = req.params;
-    const targetDate = req.body.date || req.query.date || getTodayStr();
+    const targetDate = req.query?.date || (req.body && req.body.date);
 
-    await db.collection('daily_planner').updateOne(
-      { date: targetDate },
-      {
-        $pull: { daily_tasks: { id: id } },
-        $set: { updated_at: new Date() }
-      }
-    );
+    let result = null;
+    if (targetDate) {
+      result = await db.collection('daily_planner').updateOne(
+        { date: targetDate },
+        {
+          $pull: { daily_tasks: { id: id } },
+          $set: { updated_at: new Date() }
+        }
+      );
+    }
+    if (!result || result.modifiedCount === 0) {
+      result = await db.collection('daily_planner').updateMany(
+        { 'daily_tasks.id': id },
+        {
+          $pull: { daily_tasks: { id: id } },
+          $set: { updated_at: new Date() }
+        }
+      );
+    }
 
     res.json({ success: true, message: 'Task removed' });
+  } catch (err) {
+    console.error('[Delete Task Error]', err);
+    res.status(500).json({ error: err.message });
+  }
+});
+
+// Overall Cumulative Backlog: All incomplete reading topics across all dates
+app.get('/api/daily-planner/overall-backlog', checkDb, async (req, res) => {
+  try {
+    const todayStr = getTodayStr();
+    const docs = await db.collection('daily_planner')
+      .find({ 'reading_topics.status': { $ne: 'achieved' } })
+      .toArray();
+
+    const overallBacklog = [];
+    docs.forEach(doc => {
+      const docDate = doc.date;
+      (doc.reading_topics || []).forEach(t => {
+        if (t.status !== 'achieved') {
+          let daysOverdue = 0;
+          try {
+            const d1 = new Date(docDate);
+            const d2 = new Date(todayStr);
+            daysOverdue = Math.max(0, Math.round((d2 - d1) / (1000 * 60 * 60 * 24)));
+          } catch {}
+
+          overallBacklog.push({
+            ...t,
+            planned_date: docDate,
+            days_overdue: daysOverdue,
+            is_today: docDate === todayStr
+          });
+        }
+      });
+    });
+
+    overallBacklog.sort((a, b) => (a.planned_date > b.planned_date ? 1 : -1));
+
+    res.json({
+      success: true,
+      count: overallBacklog.length,
+      backlog: overallBacklog
+    });
+  } catch (err) {
+    console.error('[Overall Backlog Error]', err);
+    res.status(500).json({ error: err.message });
+  }
+});
+
+// Resolve a reading topic by subject & topic slug across today and all backlog days
+app.post('/api/daily-planner/resolve-by-topic', checkDb, async (req, res) => {
+  try {
+    const { subject, topic } = req.body || {};
+    if (!subject || !topic) {
+      return res.status(400).json({ error: 'subject and topic required' });
+    }
+
+    const normSub = subject.toLowerCase().trim();
+    const normTopic = topic.toLowerCase().trim();
+
+    const docs = await db.collection('daily_planner').find({
+      'reading_topics.status': { $ne: 'achieved' }
+    }).toArray();
+
+    let resolvedCount = 0;
+    for (const doc of docs) {
+      let docModified = false;
+      const updatedTopics = (doc.reading_topics || []).map(t => {
+        const tSub = (t.subject || '').toLowerCase().trim();
+        const tName = (t.topic || '').toLowerCase().trim();
+        const match = (tSub === normSub || normSub.includes(tSub) || tSub.includes(normSub)) && (
+          tName === normTopic ||
+          tName.includes(normTopic) ||
+          normTopic.includes(tName) ||
+          tName.replace(/[^a-z0-9]/g, '') === normTopic.replace(/[^a-z0-9]/g, '')
+        );
+
+        if (match && t.status !== 'achieved') {
+          docModified = true;
+          resolvedCount++;
+          return {
+            ...t,
+            status: 'achieved',
+            achieved_at: new Date(),
+            cleared_by: 'read_marker',
+            updated_at: new Date()
+          };
+        }
+        return t;
+      });
+
+      if (docModified) {
+        await db.collection('daily_planner').updateOne(
+          { date: doc.date },
+          { $set: { reading_topics: updatedTopics, updated_at: new Date() } }
+        );
+      }
+    }
+
+    res.json({
+      success: true,
+      message: `Resolved ${resolvedCount} reading targets matching ${topic}`,
+      resolvedCount
+    });
+  } catch (err) {
+    console.error('[Resolve By Topic Error]', err);
+    res.status(500).json({ error: err.message });
+  }
+});
+
+// Complete Subject & Chapters Catalog for multi-select dropdowns
+app.get('/api/subjects-catalog', (req, res) => {
+  try {
+    const subjectsDir = path.resolve(__dirname, '../docs/subjects');
+    const catalog = {};
+
+    if (fs.existsSync(subjectsDir)) {
+      const dirs = fs.readdirSync(subjectsDir);
+      for (const d of dirs) {
+        const fullDir = path.join(subjectsDir, d);
+        if (!fs.statSync(fullDir).isDirectory() || d === '_build') continue;
+        const subKey = d.toLowerCase().trim();
+        if (!catalog[subKey]) catalog[subKey] = [];
+
+        function walk(dir, relPrefix = '') {
+          const files = fs.readdirSync(dir);
+          for (const f of files) {
+            const fp = path.join(dir, f);
+            if (fs.statSync(fp).isDirectory() && f !== '_build') {
+              walk(fp, relPrefix ? relPrefix + '/' + f : f);
+            } else if (f.endsWith('.md') && f !== 'index.md' && f !== 'prompt.md') {
+              const slug = relPrefix ? relPrefix + '/' + f.replace('.md', '') : f.replace('.md', '');
+              const cleanTitle = f.replace('.md', '').replace(/^[0-9]+[_-]/, '').replace(/_/g, ' ');
+              catalog[subKey].push({ slug, title: cleanTitle });
+            }
+          }
+        }
+        walk(fullDir);
+      }
+    }
+
+    res.json({ success: true, catalog });
   } catch (err) {
     res.status(500).json({ error: err.message });
   }
 });
 
-// 12 PM Audit Checkpoint: Flags incomplete morning targets to pending with missed_12pm: true
-app.post('/api/daily-planner/evaluate-12pm', checkDb, async (req, res) => {
+// Midnight / End-of-Day Audit Checkpoint: Flags incomplete targets to pending
+app.post('/api/daily-planner/evaluate-midnight', checkDb, async (req, res) => {
   try {
-    const targetDate = req.body.date || getTodayStr();
+    const targetDate = (req.body && req.body.date) || req.query?.date || getTodayStr();
     const doc = await db.collection('daily_planner').findOne({ date: targetDate });
     if (!doc || !doc.reading_topics) {
       return res.json({ success: true, count: 0 });
@@ -1574,9 +1749,9 @@ app.post('/api/daily-planner/evaluate-12pm', checkDb, async (req, res) => {
 
     let modifiedCount = 0;
     const updatedTopics = doc.reading_topics.map(t => {
-      if (t.slot === 'morning_12pm' && t.status !== 'achieved') {
+      if (t.status !== 'achieved') {
         modifiedCount++;
-        return { ...t, missed_12pm: true, updated_at: new Date() };
+        return { ...t, missed_midnight: true, updated_at: new Date() };
       }
       return t;
     });
@@ -1586,7 +1761,36 @@ app.post('/api/daily-planner/evaluate-12pm', checkDb, async (req, res) => {
       { $set: { reading_topics: updatedTopics, updated_at: new Date() } }
     );
 
-    res.json({ success: true, flagged_count: modifiedCount, message: `12 PM checkpoint evaluated: ${modifiedCount} pending morning targets flagged.` });
+    res.json({ success: true, flagged_count: modifiedCount, message: `Midnight evaluation complete: ${modifiedCount} pending targets flagged.` });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+// Backward-compatible evaluate-12pm endpoint
+app.post('/api/daily-planner/evaluate-12pm', checkDb, async (req, res) => {
+  try {
+    const targetDate = (req.body && req.body.date) || req.query?.date || getTodayStr();
+    const doc = await db.collection('daily_planner').findOne({ date: targetDate });
+    if (!doc || !doc.reading_topics) {
+      return res.json({ success: true, count: 0 });
+    }
+
+    let modifiedCount = 0;
+    const updatedTopics = doc.reading_topics.map(t => {
+      if (t.status !== 'achieved') {
+        modifiedCount++;
+        return { ...t, missed_midnight: true, updated_at: new Date() };
+      }
+      return t;
+    });
+
+    await db.collection('daily_planner').updateOne(
+      { date: targetDate },
+      { $set: { reading_topics: updatedTopics, updated_at: new Date() } }
+    );
+
+    res.json({ success: true, flagged_count: modifiedCount, message: `Evaluation complete: ${modifiedCount} pending targets flagged.` });
   } catch (err) {
     res.status(500).json({ error: err.message });
   }
@@ -1595,7 +1799,7 @@ app.post('/api/daily-planner/evaluate-12pm', checkDb, async (req, res) => {
 // Rollover pending reading topics and tasks from another date
 app.post('/api/daily-planner/rollover', checkDb, async (req, res) => {
   try {
-    const { from_date, to_date = getTodayStr() } = req.body;
+    const { from_date, to_date = getTodayStr() } = req.body || {};
     let sourceDate = from_date;
     if (!sourceDate) {
       const yesterday = new Date();
@@ -1615,11 +1819,11 @@ app.post('/api/daily-planner/rollover', checkDb, async (req, res) => {
         id: 'topic_' + Date.now() + '_' + Math.random().toString(36).substr(2, 5),
         subject: t.subject,
         topic: t.topic,
-        slot: 'morning_12pm',
+        slot: 'midnight',
         notes: (t.notes ? t.notes + ' ' : '') + `(Rolled over from ${sourceDate})`,
         status: 'pending',
-        achieved_by_12pm: false,
-        missed_12pm: false,
+        achieved_by_midnight: false,
+        missed_midnight: true,
         created_at: new Date(),
         achieved_at: null
       }));

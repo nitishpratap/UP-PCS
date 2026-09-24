@@ -1836,6 +1836,7 @@ body.fact-lock-page .fact-lock-sheet .study-mcq {
   gap: 0.5rem;
 }
 
+.st-planner-midnight-badge,
 .st-planner-12pm-badge {
   display: inline-flex;
   align-items: center;
@@ -1845,30 +1846,327 @@ body.fact-lock-page .fact-lock-sheet .study-mcq {
   font-size: 0.78rem;
   font-weight: 700;
   letter-spacing: 0.02em;
+  background: #ede9fe;
+  color: #5b21b6;
+  border: 1px solid #ddd6fe;
 }
 
-.st-planner-12pm-badge.is-morning {
-  background: #fef3c7;
-  color: #92400e;
-  border: 1px solid #fde68a;
+[data-md-color-scheme="slate"] .st-planner-midnight-badge,
+[data-md-color-scheme="slate"] .st-planner-12pm-badge {
+  background: rgba(139, 92, 246, 0.2);
+  color: #c4b5fd;
+  border-color: rgba(139, 92, 246, 0.35);
 }
 
-.st-planner-12pm-badge.is-post-12pm {
-  background: #e0e7ff;
-  color: #3730a3;
-  border: 1px solid #c7d2fe;
+/* ==========================================================================
+   Date / Calendar View Strip (Date-wise Backlog & Achieved Tracker)
+   ========================================================================== */
+.st-planner-calendar-strip {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  overflow-x: auto;
+  padding: 0.25rem 0 0.75rem 0;
+  margin-bottom: 1rem;
+  scrollbar-width: thin;
 }
 
-[data-md-color-scheme="slate"] .st-planner-12pm-badge.is-morning {
-  background: rgba(245, 158, 11, 0.15);
-  color: #fcd34d;
-  border-color: rgba(245, 158, 11, 0.3);
+.st-cal-day-btn {
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0.45rem 0.75rem;
+  min-width: 68px;
+  border-radius: 0.65rem;
+  background: var(--study-surface, #ffffff);
+  border: 1.5px solid var(--study-hairline, #cbd5e1);
+  color: inherit;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  position: relative;
 }
 
-[data-md-color-scheme="slate"] .st-planner-12pm-badge.is-post-12pm {
-  background: rgba(99, 102, 241, 0.15);
-  color: #a5b4fc;
-  border-color: rgba(99, 102, 241, 0.3);
+[data-md-color-scheme="slate"] .st-cal-day-btn {
+  background: #0f172a;
+  border-color: #334155;
+  color: #e2e8f0;
+}
+
+.st-cal-day-btn:hover {
+  border-color: var(--md-primary-fg-color, #273c75);
+  transform: translateY(-1px);
+}
+
+.st-cal-day-btn.is-active {
+  background: var(--md-primary-fg-color, #273c75);
+  border-color: var(--md-primary-fg-color, #273c75);
+  color: #ffffff !important;
+  box-shadow: 0 4px 12px rgba(39, 60, 117, 0.3);
+}
+
+[data-md-color-scheme="slate"] .st-cal-day-btn.is-active {
+  background: #6366f1;
+  border-color: #6366f1;
+  color: #ffffff !important;
+  box-shadow: 0 4px 14px rgba(99, 102, 241, 0.4);
+}
+
+.st-cal-day-name {
+  font-size: 0.68rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  opacity: 0.8;
+}
+
+.st-cal-day-num {
+  font-size: 0.95rem;
+  font-weight: 800;
+  line-height: 1.1;
+  margin: 0.1rem 0;
+}
+
+.st-cal-day-indicator {
+  font-size: 0.65rem;
+  font-weight: 700;
+  margin-top: 0.15rem;
+  padding: 0.05rem 0.35rem;
+  border-radius: 9999px;
+  line-height: 1.2;
+}
+
+.st-cal-day-indicator.is-done {
+  background: #d1fae5;
+  color: #065f46;
+}
+.st-cal-day-indicator.has-backlog {
+  background: #fee2e2;
+  color: #b91c1c;
+}
+.st-cal-day-indicator.is-none {
+  color: var(--md-default-fg-color--light, #94a3b8);
+  font-weight: 500;
+}
+
+.st-cal-day-btn.is-active .st-cal-day-indicator {
+  background: rgba(255, 255, 255, 0.25);
+  color: #ffffff;
+}
+
+/* ==========================================================================
+   Overall Active Backlog Section (Cumulative across all days)
+   ========================================================================== */
+.st-overall-backlog-card {
+  background: #fff8f8;
+  border: 1.5px solid #f87171;
+  border-left: 6px solid #ef4444;
+  border-radius: 0.75rem;
+  padding: 1rem;
+  margin-bottom: 1.25rem;
+  box-shadow: 0 2px 10px rgba(239, 68, 68, 0.06);
+}
+
+[data-md-color-scheme="slate"] .st-overall-backlog-card {
+  background: rgba(239, 68, 68, 0.08);
+  border-color: rgba(239, 68, 68, 0.35);
+  border-left-color: #ef4444;
+}
+
+.st-overall-backlog-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.st-overall-backlog-header h4 {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 800;
+  color: #b91c1c;
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+}
+
+[data-md-color-scheme="slate"] .st-overall-backlog-header h4 {
+  color: #fca5a5;
+}
+
+.st-backlog-pill-badge {
+  background: #ef4444;
+  color: #ffffff;
+  font-size: 0.72rem;
+  font-weight: 800;
+  padding: 0.2rem 0.6rem;
+  border-radius: 9999px;
+}
+
+.st-overall-backlog-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  max-height: 380px;
+  overflow-y: auto;
+  padding-right: 0.25rem;
+}
+
+.st-overall-backlog-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  padding: 0.6rem 0.85rem;
+  border-radius: 0.55rem;
+  background: var(--study-surface, #ffffff);
+  border: 1px solid rgba(239, 68, 68, 0.25);
+  transition: all 0.15s ease;
+}
+
+[data-md-color-scheme="slate"] .st-overall-backlog-item {
+  background: #1e293b;
+  border-color: rgba(239, 68, 68, 0.3);
+}
+
+.st-backlog-meta-tag {
+  font-size: 0.7rem;
+  color: #b91c1c;
+  font-weight: 700;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+[data-md-color-scheme="slate"] .st-backlog-meta-tag {
+  color: #fca5a5;
+}
+
+/* ==========================================================================
+   Multi-select Chapter Picker Component
+   ========================================================================== */
+.st-chapter-multiselect-wrap {
+  border: 1px solid var(--study-hairline, #cbd5e1);
+  border-radius: 0.55rem;
+  padding: 0.75rem;
+  background: var(--study-surface, #ffffff);
+  margin-bottom: 0.75rem;
+}
+
+[data-md-color-scheme="slate"] .st-chapter-multiselect-wrap {
+  background: #0f172a;
+  border-color: #334155;
+}
+
+.st-multiselect-controls {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.6rem;
+  flex-wrap: wrap;
+}
+
+.st-multiselect-search {
+  flex: 1;
+  min-width: 160px;
+  padding: 0.4rem 0.6rem;
+  font-size: 0.82rem;
+  border-radius: 0.4rem;
+  border: 1px solid var(--study-hairline, #cbd5e1);
+  background: inherit;
+  color: inherit;
+  outline: none;
+}
+
+.st-chapter-checklist-scroll {
+  max-height: 180px;
+  overflow-y: auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 0.35rem;
+  padding-right: 0.25rem;
+}
+
+.st-chapter-chk-label {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.35rem 0.55rem;
+  border-radius: 0.4rem;
+  background: rgba(241, 245, 249, 0.6);
+  font-size: 0.8rem;
+  cursor: pointer;
+  transition: all 0.12s ease;
+  user-select: none;
+}
+
+[data-md-color-scheme="slate"] .st-chapter-chk-label {
+  background: #1e293b;
+}
+
+.st-chapter-chk-label:hover {
+  background: rgba(99, 102, 241, 0.1);
+}
+
+.st-chapter-chk-label input[type="checkbox"] {
+  cursor: pointer;
+  accent-color: #6366f1;
+}
+
+/* ==========================================================================
+   Chapter Page Status Banner (Shows on every chapter page if planned/backlog)
+   ========================================================================== */
+.st-chapter-plan-banner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  padding: 0.65rem 1rem;
+  border-radius: 0.55rem;
+  font-size: 0.85rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  animation: st-appear 0.2s ease;
+}
+
+.st-chapter-plan-banner.is-today {
+  background: #ede9fe;
+  color: #5b21b6;
+  border: 1.5px solid #c4b5fd;
+}
+
+[data-md-color-scheme="slate"] .st-chapter-plan-banner.is-today {
+  background: rgba(139, 92, 246, 0.2);
+  color: #ddd6fe;
+  border-color: rgba(139, 92, 246, 0.4);
+}
+
+.st-chapter-plan-banner.is-backlog {
+  background: #fee2e2;
+  color: #991b1b;
+  border: 1.5px solid #fca5a5;
+}
+
+[data-md-color-scheme="slate"] .st-chapter-plan-banner.is-backlog {
+  background: rgba(239, 68, 68, 0.2);
+  color: #fca5a5;
+  border-color: rgba(239, 68, 68, 0.4);
+}
+
+.st-chapter-plan-banner.is-cleared {
+  background: #d1fae5;
+  color: #065f46;
+  border: 1.5px solid #6ee7b7;
+}
+
+[data-md-color-scheme="slate"] .st-chapter-plan-banner.is-cleared {
+  background: rgba(16, 185, 129, 0.2);
+  color: #a7f3d0;
+  border-color: rgba(16, 185, 129, 0.4);
 }
 
 .st-planner-grid {
@@ -5427,6 +5725,169 @@ body.st-vault-locked .md-header {
   background: rgba(148, 163, 184, 0.18);
   color: #cbd5e1;
 }
+
+/* ==========================================================================
+   Floating In-Chapter Reading Clock & Stopwatch Widget
+   ========================================================================== */
+.st-reading-clock-widget {
+  position: fixed;
+  bottom: 1.5rem;
+  right: 1.5rem;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  background: rgba(255, 255, 255, 0.92);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1.5px solid rgba(99, 102, 241, 0.35);
+  border-radius: 9999px;
+  padding: 0.45rem 0.85rem 0.45rem 0.65rem;
+  box-shadow: 0 10px 30px rgba(15, 23, 42, 0.16), 0 2px 8px rgba(99, 102, 241, 0.18);
+  color: var(--md-default-fg-color, #1e293b);
+  font-family: inherit;
+  font-size: 0.82rem;
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+  user-select: none;
+  animation: st-appear 0.25s ease;
+}
+
+[data-md-color-scheme="slate"] .st-reading-clock-widget {
+  background: rgba(15, 23, 42, 0.88);
+  border-color: rgba(129, 140, 248, 0.38);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.45), 0 2px 8px rgba(99, 102, 241, 0.25);
+  color: #f1f5f9;
+}
+
+.st-reading-clock-widget.is-paused {
+  border-color: rgba(245, 158, 11, 0.55);
+  opacity: 0.88;
+}
+
+.st-clock-icon-wrap {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #6366f1 0%, #4f46e5 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+  font-size: 1rem;
+  flex-shrink: 0;
+  box-shadow: 0 2px 8px rgba(79, 70, 229, 0.35);
+  position: relative;
+  cursor: pointer;
+}
+
+.st-clock-pulse-dot {
+  position: absolute;
+  top: -1px;
+  right: -1px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #10b981;
+  border: 1.5px solid #ffffff;
+  animation: st-clock-pulse 1.8s infinite;
+}
+
+.st-reading-clock-widget.is-paused .st-clock-pulse-dot {
+  background: #f59e0b;
+  animation: none;
+}
+
+@keyframes st-clock-pulse {
+  0% { transform: scale(0.95); opacity: 0.9; box-shadow: 0 0 0 0 rgba(16, 185, 129, 0.7); }
+  70% { transform: scale(1.1); opacity: 1; box-shadow: 0 0 0 6px rgba(16, 185, 129, 0); }
+  100% { transform: scale(0.95); opacity: 0.9; box-shadow: 0 0 0 0 rgba(16, 185, 129, 0); }
+}
+
+.st-clock-info {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.15;
+}
+
+.st-clock-label {
+  font-size: 0.62rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--md-default-fg-color--light, #64748b);
+}
+
+.st-clock-time-val {
+  font-family: 'SF Mono', Consolas, Monaco, monospace;
+  font-size: 0.95rem;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+  color: var(--md-primary-fg-color, #273c75);
+}
+
+[data-md-color-scheme="slate"] .st-clock-time-val {
+  color: #818cf8;
+}
+
+.st-clock-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  margin-left: 0.25rem;
+}
+
+.st-clock-btn {
+  background: rgba(0, 0, 0, 0.06);
+  border: none;
+  border-radius: 50%;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-size: 0.75rem;
+  color: inherit;
+  transition: all 0.15s ease;
+}
+
+[data-md-color-scheme="slate"] .st-clock-btn {
+  background: rgba(255, 255, 255, 0.12);
+}
+
+.st-clock-btn:hover {
+  background: rgba(99, 102, 241, 0.25);
+  transform: scale(1.1);
+}
+
+/* Minimized State */
+.st-reading-clock-widget.is-minimized {
+  padding: 0.35rem 0.6rem 0.35rem 0.4rem;
+  gap: 0.4rem;
+}
+
+.st-reading-clock-widget.is-minimized .st-clock-info .st-clock-label,
+.st-reading-clock-widget.is-minimized .st-clock-actions .st-btn-reset {
+  display: none;
+}
+
+.st-reading-clock-widget.is-minimized .st-clock-icon-wrap {
+  width: 26px;
+  height: 26px;
+  font-size: 0.85rem;
+}
+
+.st-reading-clock-widget.is-minimized .st-clock-time-val {
+  font-size: 0.85rem;
+}
+
+@media screen and (max-width: 768px) {
+  .st-reading-clock-widget {
+    bottom: 4.5rem;
+    right: 1rem;
+  }
+}
+
 
 
 
