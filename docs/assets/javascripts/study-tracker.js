@@ -2567,25 +2567,22 @@
     const html = `
       <div class="st-trap-modal-card">
         <div class="st-trap-header-bar">
-          <div style="display:flex; align-items:center; gap:0.6rem; flex-wrap:wrap;">
+          <div class="st-trap-header-left">
             <span class="st-trap-summary-pill">
-              ⚠️ ${trapQuestions.length} Recurring Trap Area${trapQuestions.length > 1 ? 's' : ''} Identified
+              ${trapQuestions.length} recurring trap${trapQuestions.length > 1 ? 's' : ''}
             </span>
-            <span class="st-kpi-badge ${priorityInfo.badgeClass}" style="font-size:0.78rem;">
-              🎯 Target: ${priorityInfo.targetAccuracy}% (${priorityInfo.label})
+            <span class="st-kpi-badge ${priorityInfo.badgeClass}" style="font-size:0.76rem;">
+              Target: ${priorityInfo.targetAccuracy}% (${priorityInfo.label})
             </span>
           </div>
-          <div style="display:flex; align-items:center; gap:0.5rem;">
-            <button type="button" class="st-trap-drill-all-btn" id="st-btn-drill-all-traps" title="Launch CBT Practice Quiz on these exact trap questions">
-              ⚡ Drill All ${trapQuestions.length} Traps (CBT Mode)
-            </button>
-          </div>
+          <button type="button" class="st-trap-drill-all-btn" id="st-btn-drill-all-traps" title="Launch practice drill on these trap questions">
+            Drill All ${trapQuestions.length}
+          </button>
         </div>
 
-        <div style="padding: 0.75rem 1.25rem 0.25rem; display:flex; align-items:center; justify-content:space-between; gap:1rem; border-bottom: 1px solid var(--md-default-fg-color--lightest);">
-          <input type="text" id="st-trap-search-input" placeholder="🔍 Filter trap questions by keyword, subtopic or question stem..." 
-            style="flex:1; padding:0.45rem 0.75rem; border:1px solid var(--md-default-fg-color--lighter); border-radius:0.45rem; font-size:0.85rem; background:var(--md-default-bg-color); color:var(--md-default-fg-color);" />
-          <small style="color:var(--md-default-fg-color--light); white-space:nowrap;">Showing <strong id="st-trap-visible-count">${trapQuestions.length}</strong> traps</small>
+        <div class="st-trap-toolbar">
+          <input type="search" class="st-trap-search" id="st-trap-search-input" placeholder="Filter by keyword, subtopic, or stem…" autocomplete="off" />
+          <span class="st-trap-count-label">Showing <strong id="st-trap-visible-count">${trapQuestions.length}</strong></span>
         </div>
 
         <div class="st-trap-list" id="st-trap-cards-container">
@@ -2593,21 +2590,22 @@
             const hasOptionsObj = q.options && typeof q.options === 'object' && Object.keys(q.options).length > 0;
             const userPick = (q.user_answer || '').toUpperCase().trim();
             const correctAns = (q.correct_answer || '').toUpperCase().trim();
+            const missCount = q.times_missed || 1;
 
             return `
-              <div class="st-trap-card" data-stem="${escapeHtml((q.stem || '') + ' ' + (q.section_title || '')).toLowerCase()}">
+              <div class="st-trap-card" data-stem="${escapeHtml((q.stem || '') + ' ' + (q.section_title || '') + ' ' + (q.q_header || '')).toLowerCase()}">
                 <div class="st-trap-card-meta">
                   <div class="st-trap-meta-left">
-                    <span class="st-trap-tag-num">Trap #${idx + 1}</span>
+                    <span class="st-trap-tag-num">#${idx + 1}</span>
                     ${q.section_title ? `
-                      <span class="st-trap-tag-subtopic" data-section="${escapeHtml(q.section_title)}" title="Click to jump directly to this heading in the notes">
-                        📂 ${escapeHtml(q.section_title)} ↗
+                      <span class="st-trap-tag-subtopic" data-section="${escapeHtml(q.section_title)}" title="Jump to this heading in the notes">
+                        ${escapeHtml(q.section_title)}
                       </span>
                     ` : ''}
-                    ${q.q_header ? `<small style="color:var(--md-default-fg-color--light);">${escapeHtml(q.q_header)}</small>` : ''}
+                    ${q.q_header ? `<small>${escapeHtml(q.q_header)}</small>` : ''}
                   </div>
-                  <span class="st-trap-miss-pill">
-                    ❌ Missed in ${q.times_missed || 1} test${q.times_missed > 1 ? 's' : ''}
+                  <span class="st-trap-miss-pill" title="Missed in ${missCount} test attempt${missCount > 1 ? 's' : ''}">
+                    Missed ×${missCount}
                   </span>
                 </div>
 
@@ -2623,16 +2621,16 @@
                       let badge = '';
                       if (isUserWrong) {
                         optClass = 'st-trap-opt-is-user-wrong';
-                        badge = '<strong style="margin-left:auto; font-size:0.75rem; color:#dc2626;">❌ Your Selection</strong>';
+                        badge = '<span class="st-trap-opt-badge is-wrong">Your pick</span>';
                       } else if (isCorrect) {
                         optClass = 'st-trap-opt-is-correct';
-                        badge = '<strong style="margin-left:auto; font-size:0.75rem; color:#059669;">✔️ Correct Answer</strong>';
+                        badge = '<span class="st-trap-opt-badge is-correct">Correct</span>';
                       }
 
                       return `
                         <div class="st-trap-option-item ${optClass}">
                           <div class="st-trap-opt-letter">${k}</div>
-                          <div style="flex:1;">${escapeHtml(optVal)}</div>
+                          <div class="st-trap-opt-text">${escapeHtml(optVal)}</div>
                           ${badge}
                         </div>
                       `;
@@ -2640,26 +2638,28 @@
                   </div>
                 ` : `
                   <div class="st-detail-answer-bar" style="margin-bottom:0.85rem;">
-                    <span style="color:#ef4444;">Your Attempt: <strong>${escapeHtml(userPick || 'None')}</strong> ❌</span>
-                    <span style="color:#10b981;">Correct Answer: <strong>Option ${escapeHtml(correctAns)}</strong> ✅</span>
+                    <span style="color:#ef4444;">Your attempt: <strong>${escapeHtml(userPick || 'None')}</strong></span>
+                    <span style="color:#10b981;">Correct: <strong>Option ${escapeHtml(correctAns)}</strong></span>
                   </div>
                 `}
 
                 ${q.explanation ? `
-                  <div class="st-trap-expl-card">
-                    <strong>💡 Concept & Trap Breakdown:</strong><br/>
-                    ${escapeHtml(q.explanation).replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')}
-                  </div>
+                  <details class="st-trap-expl-details">
+                    <summary>Show explanation</summary>
+                    <div class="st-trap-expl-card">
+                      ${escapeHtml(q.explanation).replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')}
+                    </div>
+                  </details>
                 ` : ''}
 
                 <div class="st-trap-actions">
                   ${q.section_title ? `
                     <button type="button" class="st-trap-action-btn st-jump-btn" data-section="${escapeHtml(q.section_title)}">
-                      📖 Jump to Note Section
+                      Jump to notes
                     </button>
                   ` : ''}
                   <button type="button" class="st-trap-action-btn st-drill-single-btn" data-idx="${idx}" style="color:var(--md-primary-fg-color, #273c75); font-weight:700;">
-                    ⚡ Practice This Trap
+                    Practice this
                   </button>
                 </div>
               </div>
@@ -2667,16 +2667,18 @@
           }).join('')}
         </div>
 
-        <div class="st-form-actions" style="padding:0.75rem 1.25rem; border-top:1px solid var(--md-default-fg-color--lightest); margin:0;">
+        <div class="st-trap-footer">
           <button type="button" class="st-btn st-btn-outline" id="st-trap-modal-close">Close</button>
           <button type="button" class="st-btn st-btn-primary" id="st-trap-modal-drill-bottom">
-            ⚡ Drill All ${trapQuestions.length} Traps Now
+            Drill All ${trapQuestions.length}
           </button>
         </div>
       </div>
     `;
 
-    showModal(`⚠️ Trap Radar & Mistake Vault: ${topicInfo.title}`, html);
+    showModal(`Trap Radar — ${topicInfo.title}`, html);
+
+    if (modalBox) modalBox.classList.add('st-modal-wide');
 
     // Wire up events
     document.getElementById('st-trap-modal-close')?.addEventListener('click', closeModal);

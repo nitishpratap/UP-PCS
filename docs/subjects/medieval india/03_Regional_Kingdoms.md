@@ -275,6 +275,8 @@ D. Haider Shah
 
 **Founded 1336** | **Founders Harihara I and Bukka I** (Sangama) | **Capital Hampi** on the Tungabhadra
 
+![Vijayanagara Empire in the mid-15th century AD](images/vijayanagara_empire_map.png)
+
 | Dynasty | Key rulers | Period |
 |---------|------------|--------|
 | **Sangama** | Harihara I, Bukka I, Deva Raya II | 1336–1485 |
