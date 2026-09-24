@@ -1485,21 +1485,9 @@
             <span class="st-hud-stat-lbl">Total Today</span>
           </div>
         </div>
-        <div class="st-hud-progress-wrap">
-          <div style="display:flex; justify-content:space-between; font-size:0.7rem; font-weight:700; margin-bottom:0.25rem;">
-            <span>Target Milestone (30m)</span>
-            <span id="st-hud-prog-pct">${Math.min(100, Math.round((readingClockSeconds / 1800) * 100))}%</span>
-          </div>
-          <div class="st-hud-progress-bar">
-            <div class="st-hud-progress-fill" id="st-hud-prog-fill" style="width: ${Math.min(100, Math.round((readingClockSeconds / 1800) * 100))}%;"></div>
-          </div>
-        </div>
-        <div class="st-hud-actions-row">
-          <button type="button" class="st-hud-action-btn is-primary" id="st-hud-mark-read-btn">
-            📖 Mark +1 Read
-          </button>
-          <a href="${getSiteBasePath()}tracker-dashboard/" class="st-hud-action-btn is-ghost" id="st-hud-open-dash">
-            📊 Open Tracker
+        <div class="st-hud-actions-row" style="margin-top:0.4rem;">
+          <a href="${getSiteBasePath()}tracker-dashboard/" class="st-hud-action-btn is-ghost" id="st-hud-open-dash" style="width:100%; text-align:center; padding:0.45rem;">
+            📊 Open Prep Tracker Dashboard
           </a>
         </div>
       </div>
@@ -1725,15 +1713,7 @@
     });
 
     // Mark +1 Read right from HUD popover
-    hudMarkReadBtn?.addEventListener('click', async () => {
-      const btn = document.getElementById('st-btn-plus-one');
-      if (btn) {
-        btn.click();
-      } else {
-        await handleQuickReadIncrement(topicInfo, null);
-      }
-      if (hudPopover) hudPopover.style.display = 'none';
-    });
+    
   }
 
   // -------------------------------------------------------------
@@ -4191,6 +4171,7 @@
     }
 
     // Daily Planner & Tasks computation
+    const readingTopics = (planner && Array.isArray(planner.reading_topics)) ? planner.reading_topics : [];
     const isCurrentDateToday = activePlannerDate === getTodayISODate();
     const dailyStudyRecord = getDailyStudyTimeRecord(activePlannerDate);
     const totalDayStudySeconds = dailyStudyRecord.totalSeconds || 0;
@@ -4254,7 +4235,6 @@
         `;
       }).join('');
     }
-    const readingTopics = planner.reading_topics || [];
 
     const isPastDate = activePlannerDate < getTodayISODate();
 
