@@ -11,7 +11,26 @@
  * 4. Central Dashboard & Chapter Priority Tracker Integration.
  */
 (() => {
-  const API_BASE = 'http://localhost:5000/api';
+  function resolveApiBase() {
+    try {
+      const custom = localStorage.getItem('uppcs_api_base');
+      if (custom) return custom;
+      if (typeof window !== 'undefined' && window.location) {
+        const hostname = window.location.hostname;
+        const proto = window.location.protocol === 'https:' ? 'https:' : 'http:';
+        // If loaded directly from port 5000
+        if (window.location.port === '5000') {
+          return `${proto}//${window.location.host}/api`;
+        }
+        // If accessed via Wi-Fi IP or any LAN hostname
+        if (hostname && hostname !== 'localhost' && hostname !== '127.0.0.1') {
+          return `${proto}//${hostname}:5000/api`;
+        }
+      }
+    } catch {}
+    return 'http://localhost:5000/api';
+  }
+  const API_BASE = resolveApiBase();
   const LOCAL_STORAGE_KEY = 'uppcs_study_logs_v1';
   const LOCAL_TESTS_KEY = 'uppcs_chapter_tests_v1';
   const AUTH_STORAGE_KEY = 'uppcs_vault_auth_token_v1';
@@ -330,32 +349,58 @@
       let combinedHtml = questionBlocks.map(el => el.outerHTML).join('');
       let rawText = questionBlocks.map(el => el.textContent).join('\n');
 
-      // Parse options A, B, C, D
+      // Parse options A, B, C, D and question stem
       const options = { A: '', B: '', C: '', D: '' };
-      const lines = rawText.split('\n').map(l => l.trim()).filter(Boolean);
-      
-      lines.forEach(line => {
-        const optMatch = line.match(/^([A-D])\.\s*(.+)$/i);
-        if (optMatch) {
-          options[optMatch[1].toUpperCase()] = optMatch[2].trim();
-        }
-      });
+      const normalizedBlock = rawText.replace(/\r?\n\s*\(([A-D])\)\s+/gi, '\n$1. ');
 
-      // If options were not found via line splits, look in combined text
+      let stemPart = normalizedBlock;
+      let optionsPart = '';
+
+      const codeMatch = normalizedBlock.match(/\r?\n\s*(?:Code|Codes)\s*:\s*\r?\n/i);
+      if (codeMatch) {
+        const codeIdx = codeMatch.index;
+        stemPart = normalizedBlock.substring(0, codeIdx).trim();
+        optionsPart = normalizedBlock.substring(codeIdx + codeMatch[0].length).trim();
+      } else {
+        const allA = [...normalizedBlock.matchAll(/\r?\n\s*(?:\(?A[\.\)]|\bA\.)\s+/gi)];
+        if (allA.length > 0) {
+          for (let i = allA.length - 1; i >= 0; i--) {
+            const cand = allA[i];
+            const afterCand = normalizedBlock.substring(cand.index);
+            if (/\r?\n\s*(?:\(?B[\.\)]|\bB\.)\s+/i.test(afterCand) &&
+                /\r?\n\s*(?:\(?C[\.\)]|\bC\.)\s+/i.test(afterCand) &&
+                /\r?\n\s*(?:\(?D[\.\)]|\bD\.)\s+/i.test(afterCand)) {
+              stemPart = normalizedBlock.substring(0, cand.index).trim();
+              optionsPart = normalizedBlock.substring(cand.index).trim();
+              break;
+            }
+          }
+        }
+      }
+
+      if (optionsPart) {
+        const optSplit = ('\n' + optionsPart).split(/\r?\n\s*([A-D])[\.\)]\s+/);
+        for (let i = 1; i < optSplit.length; i += 2) {
+          const letter = (optSplit[i] || '').toUpperCase();
+          const text = optSplit[i + 1] ? optSplit[i + 1].trim() : '';
+          if (['A', 'B', 'C', 'D'].includes(letter)) {
+            options[letter] = text;
+          }
+        }
+      }
+
+      // Fallback
       if (!options.A || !options.B) {
-        const regexOpt = /([A-D])\.\s*([^A-D\n]+)/g;
-        let m;
-        while ((m = regexOpt.exec(rawText)) !== null) {
-          options[m[1].toUpperCase()] = m[2].trim();
-        }
+        const lines = rawText.split('\n').map(l => l.trim()).filter(Boolean);
+        lines.forEach(line => {
+          const optMatch = line.match(/^([A-D])\.\s*(.+)$/i);
+          if (optMatch) {
+            options[optMatch[1].toUpperCase()] = optMatch[2].trim();
+          }
+        });
       }
 
-      // Extract stem: everything before option A
-      let stem = rawText;
-      const optAIndex = stem.search(/\bA\.\s+/);
-      if (optAIndex > 0) {
-        stem = stem.substring(0, optAIndex).trim();
-      }
+      let stem = stemPart.trim();
 
       // Find preceding section heading (H2/H3/H4)
       let secHeading = '';
@@ -496,12 +541,29 @@
           <button type="button" class="st-kpi-btn st-kpi-btn-ghost" id="st-btn-view-mistakes" title="Review questions answered wrong">
             ⚠️ Trap Radar
           </button>
+          <button type="button" class="st-kpi-btn st-kpi-btn-outline" id="st-btn-toggle-weak" title="Map or unmap this chapter as a Weak Topic">
+            📌 Flag Weak
+          </button>
           <span class="st-mongo-status is-connected" id="st-mongo-status" title="MongoDB Connection Status" style="margin-left:auto;">● Atlas</span>
         </div>
       </div>
     `;
 
     h1.insertAdjacentElement('afterend', deck);
+
+    // Automatic Chapter Subtopics Ribbon (populated dynamically from live test performance)
+    const subtopicsBar = document.createElement('div');
+    subtopicsBar.className = 'st-subtopics-bar';
+    subtopicsBar.id = 'st-chapter-subtopics-bar';
+    subtopicsBar.style.display = 'none';
+    subtopicsBar.innerHTML = `
+      <div class="st-subtopics-bar-label">
+        <span>🎯 Auto-Mapped Weak Subtopics (Action Areas):</span>
+        <small>Identified from your live test errors. Click any subtopic to jump directly to section in notes.</small>
+      </div>
+      <div class="st-subtopics-chips" id="st-chapter-subtopics-chips"></div>
+    `;
+    deck.insertAdjacentElement('afterend', subtopicsBar);
 
     // Event listeners
     document.getElementById('st-btn-plus-one')?.addEventListener('click', () => handleQuickPlusOne(topicInfo));
@@ -511,6 +573,87 @@
     document.getElementById('st-btn-quick-10')?.addEventListener('click', () => openTestEngineModal(topicInfo, { autoStartCount: 10 }));
     document.getElementById('st-btn-view-scores')?.addEventListener('click', () => openPastScoresModal(topicInfo));
     document.getElementById('st-btn-view-mistakes')?.addEventListener('click', () => openPastScoresModal(topicInfo));
+
+    // Make MongoDB status pill tap-configurable for mobile devices
+    const mongoStatusEl = document.getElementById('st-mongo-status');
+    mongoStatusEl?.addEventListener('click', () => {
+      const current = localStorage.getItem('uppcs_api_base') || API_BASE;
+      const custom = prompt(`📡 Study Tracker API URL:\nCurrent: ${current}\n\nTo point to your PC from your phone, enter your PC IP (e.g. http://192.168.0.101:5000/api):`, current);
+      if (custom && custom.trim() && custom !== current) {
+        localStorage.setItem('uppcs_api_base', custom.trim());
+        location.reload();
+      }
+    });
+
+    // Weak Topic Toggle Listener
+    const weakBtn = document.getElementById('st-btn-toggle-weak');
+    const accBadge = document.getElementById('st-kpi-acc-badge');
+
+    // Check if this chapter is already a weak topic
+    authFetch(`${API_BASE}/weak-topics`)
+      .then(r => r.ok ? r.json() : [])
+      .then(list => {
+        const item = list.find(w => w.subject === topicInfo.subject && w.topic === topicInfo.topic);
+        if (item && weakBtn) {
+          weakBtn.textContent = item.auto_flagged ? '⚠️ Weak Area (Auto-Flagged)' : '⚠️ Weak Area (Mapped)';
+          weakBtn.classList.add('is-active');
+          if (accBadge) {
+            accBadge.textContent = item.auto_flagged ? '⚠️ Focus Area (Test Misses)' : '⚠️ Focus Area';
+            accBadge.style.background = 'rgba(239, 68, 68, 0.15)';
+            accBadge.style.color = '#ef4444';
+          }
+        }
+      }).catch(() => {});
+
+    weakBtn?.addEventListener('click', async () => {
+      const isCurrentlyWeak = weakBtn.classList.contains('is-active');
+      weakBtn.disabled = true;
+      if (isCurrentlyWeak) {
+        // Unmap / resolve
+        try {
+          await authFetch(`${API_BASE}/weak-topics`, {
+            method: 'DELETE',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ subject: topicInfo.subject, topic: topicInfo.topic })
+          });
+          weakBtn.textContent = '📌 Flag Weak';
+          weakBtn.classList.remove('is-active');
+          if (accBadge) {
+            accBadge.textContent = 'Target: 80%+';
+            accBadge.style.background = '';
+            accBadge.style.color = '';
+          }
+          alert(`✅ Removed "${topicInfo.title}" from Weak Topics (marked mastered).`);
+        } catch (e) {
+          alert('Failed to update weak topic status.');
+        }
+      } else {
+        // Map as weak
+        try {
+          await authFetch(`${API_BASE}/weak-topics`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+              subject: topicInfo.subject,
+              topic: topicInfo.topic,
+              topic_title: topicInfo.title,
+              reason: 'Manually flagged as focus / weak area'
+            })
+          });
+          weakBtn.textContent = '⚠️ Weak Area (Mapped)';
+          weakBtn.classList.add('is-active');
+          if (accBadge) {
+            accBadge.textContent = '⚠️ Focus Area';
+            accBadge.style.background = 'rgba(239, 68, 68, 0.15)';
+            accBadge.style.color = '#ef4444';
+          }
+          alert(`⚠️ Mapped "${topicInfo.title}" to your Weak Topics & Focus Radar.`);
+        } catch (e) {
+          alert('Failed to save weak topic status.');
+        }
+      }
+      weakBtn.disabled = false;
+    });
 
     // Sync DB button listener
     document.getElementById('st-btn-sync-questions')?.addEventListener('click', async (e) => {
@@ -735,9 +878,117 @@
           }
 
           window.__TOPIC_PAST_TESTS__ = data;
+
+          // Render Automatic Weak Subtopics Bar & In-Note Annotations
+          const weakList = data.summary?.weak_subtopics || [];
+          renderChapterWeakSubtopicsBar(weakList);
+          annotateNoteHeadingsWithWeakness(weakList);
         }
       }
     } catch {}
+
+    // Fallback if offline or only local test attempts exist
+    if ((!attempts || attempts.length === 0) && localTests.length > 0) {
+      const subMistakes = {};
+      localTests.forEach(t => {
+        (t.wrong_questions || []).forEach(w => {
+          const sec = w.section_title || 'General Notes';
+          subMistakes[sec] = (subMistakes[sec] || 0) + 1;
+        });
+      });
+      const localWeak = Object.entries(subMistakes)
+        .map(([subtopic, total_mistakes]) => ({ subtopic, total_mistakes }))
+        .sort((a, b) => b.total_mistakes - a.total_mistakes);
+      renderChapterWeakSubtopicsBar(localWeak);
+      annotateNoteHeadingsWithWeakness(localWeak);
+    }
+  }
+
+  // Smooth scroll to chapter heading matching subtopic name
+  function scrollToSubtopicHeading(subtopicName) {
+    if (!subtopicName) return;
+    const cleanTarget = subtopicName.toLowerCase().replace(/^[0-9\.\s\-\:]+/, '').trim();
+    const headings = document.querySelectorAll('.md-content__inner h2, .md-content__inner h3, .md-content__inner h4, article h2, article h3, article h4');
+    
+    for (const h of headings) {
+      const hText = h.textContent.replace(/¶/g, '').trim().toLowerCase();
+      if (hText.includes(cleanTarget) || cleanTarget.includes(hText)) {
+        h.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        h.classList.add('st-highlight-flash');
+        setTimeout(() => h.classList.remove('st-highlight-flash'), 2500);
+        return;
+      }
+    }
+  }
+
+  // Annotate in-note H2/H3/H4 headings with automatic weakness indicators
+  function annotateNoteHeadingsWithWeakness(weakSubtopics) {
+    if (!weakSubtopics || !Array.isArray(weakSubtopics)) return;
+    const headings = document.querySelectorAll('.md-content__inner h2, .md-content__inner h3, .md-content__inner h4, article h2, article h3, article h4');
+    
+    headings.forEach(h => {
+      const oldBadge = h.querySelector('.st-subtopic-in-note-badge');
+      if (oldBadge) oldBadge.remove();
+      h.classList.remove('st-weak-section-heading');
+
+      const hText = h.textContent.replace(/¶/g, '').trim().toLowerCase();
+      
+      const match = weakSubtopics.find(ws => {
+        const count = ws.total_mistakes !== undefined ? ws.total_mistakes : (ws.mistakes || 0);
+        if (count <= 0 || !ws.subtopic) return false;
+        const cleanSub = ws.subtopic.toLowerCase().replace(/^[0-9\.\s\-\:]+/, '').trim();
+        return cleanSub.length > 2 && (hText.includes(cleanSub) || cleanSub.includes(hText));
+      });
+
+      if (match) {
+        const mistakesCount = match.total_mistakes !== undefined ? match.total_mistakes : match.mistakes;
+        const badge = document.createElement('span');
+        badge.className = 'st-subtopic-in-note-badge';
+        badge.title = `Automatic Weak Area: You made ${mistakesCount} mistake(s) here in recent tests. Prioritize active recall!`;
+        badge.innerHTML = `⚠️ Focus Area (${mistakesCount} Mistake${mistakesCount > 1 ? 's' : ''})`;
+        h.appendChild(badge);
+        h.classList.add('st-weak-section-heading');
+      }
+    });
+  }
+
+  // Update the Weak Subtopics Chips Bar in the chapter deck
+  function renderChapterWeakSubtopicsBar(weakSubtopics) {
+    const bar = document.getElementById('st-chapter-subtopics-bar');
+    const chipsContainer = document.getElementById('st-chapter-subtopics-chips');
+    if (!bar || !chipsContainer) return;
+
+    if (!weakSubtopics || !Array.isArray(weakSubtopics) || weakSubtopics.length === 0) {
+      bar.style.display = 'none';
+      return;
+    }
+
+    const activeWeak = weakSubtopics.filter(ws => {
+      const count = ws.total_mistakes !== undefined ? ws.total_mistakes : (ws.mistakes || 0);
+      return count > 0;
+    }).slice(0, 6);
+
+    if (activeWeak.length === 0) {
+      bar.style.display = 'none';
+      return;
+    }
+
+    bar.style.display = 'flex';
+    chipsContainer.innerHTML = activeWeak.map(ws => {
+      const count = ws.total_mistakes !== undefined ? ws.total_mistakes : (ws.mistakes || 0);
+      return `
+        <button type="button" class="st-subtopic-tag" data-subtopic="${encodeURIComponent(ws.subtopic)}" title="Click to jump to this subtopic section in notes">
+          ⚠️ ${escapeHtml(ws.subtopic)} <strong>(${count} Miss${count > 1 ? 'es' : ''})</strong> ➔
+        </button>
+      `;
+    }).join('');
+
+    chipsContainer.querySelectorAll('.st-subtopic-tag').forEach(tag => {
+      tag.addEventListener('click', (e) => {
+        const sub = decodeURIComponent(e.currentTarget.getAttribute('data-subtopic') || '');
+        scrollToSubtopicHeading(sub);
+      });
+    });
   }
 
   // -------------------------------------------------------------
@@ -1342,6 +1593,31 @@
       saveLocalTestAttempt(topicInfo.subject, topicInfo.topic, sc);
       refreshPastScoresBadge(topicInfo);
 
+      // Automatically update the Flag Weak button on Card 4 based on test result
+      const weakBtn = document.getElementById('st-btn-toggle-weak');
+      const accBadge = document.getElementById('st-kpi-acc-badge');
+      if (evaluationData.auto_flagged || sc.auto_flagged || (sc.accuracy_pct < 75 && sc.attempted > 0)) {
+        if (weakBtn) {
+          weakBtn.textContent = '⚠️ Weak Area (Auto-Flagged)';
+          weakBtn.classList.add('is-active');
+        }
+        if (accBadge) {
+          accBadge.textContent = '⚠️ Focus Area';
+          accBadge.style.background = 'rgba(239, 68, 68, 0.15)';
+          accBadge.style.color = '#ef4444';
+        }
+      } else if (evaluationData.cleared_mastery || sc.cleared_mastery || (sc.accuracy_pct >= 85 && sc.attempted >= 5)) {
+        if (weakBtn) {
+          weakBtn.textContent = '📌 Flag Weak';
+          weakBtn.classList.remove('is-active');
+        }
+        if (accBadge) {
+          accBadge.textContent = 'Mastered';
+          accBadge.style.background = 'rgba(16, 185, 129, 0.15)';
+          accBadge.style.color = '#10b981';
+        }
+      }
+
       const wrongList = sc.wrong_questions || [];
       const detailedReview = evaluationData.detailed_review || [];
 
@@ -1359,6 +1635,22 @@
             <div class="st-score-label">Net Score (1/3rd Negative Marking: +1.33 Correct, -0.44 Wrong)</div>
             <div class="st-score-acc">Accuracy: <strong>${sc.accuracy_pct}%</strong> (${sc.correct} Correct, ${sc.incorrect} Incorrect)</div>
           </div>
+
+          ${(sc.auto_flagged || evaluationData.auto_flagged || (sc.accuracy_pct < 75 && sc.attempted > 0)) ? `
+            <div class="st-alert-auto-weak" style="margin-top: 1rem; padding: 0.85rem 1.15rem; background: rgba(239, 68, 68, 0.08); border: 1.5px solid rgba(239, 68, 68, 0.35); border-radius: 0.65rem; display: flex; align-items: center; gap: 0.75rem; color: #dc2626; font-size: 0.86rem; line-height: 1.4;">
+              <span style="font-size: 1.4rem;">🚩</span>
+              <div>
+                <strong>Auto-Flagged as Weak Topic:</strong> Based on this test's accuracy (${sc.accuracy_pct}%), this chapter has been <strong>automatically added to your Focus Radar</strong> in MongoDB Atlas!
+              </div>
+            </div>
+          ` : ((sc.cleared_mastery || evaluationData.cleared_mastery || (sc.accuracy_pct >= 85 && sc.attempted >= 5)) ? `
+            <div class="st-alert-auto-clean" style="margin-top: 1rem; padding: 0.85rem 1.15rem; background: rgba(16, 185, 129, 0.08); border: 1.5px solid rgba(16, 185, 129, 0.35); border-radius: 0.65rem; display: flex; align-items: center; gap: 0.75rem; color: #059669; font-size: 0.86rem; line-height: 1.4;">
+              <span style="font-size: 1.4rem;">🏆</span>
+              <div>
+                <strong>Mastery Cleared (${sc.accuracy_pct}% Accuracy):</strong> High accuracy achieved! This chapter has been marked mastered and cleared from your Weak Areas list.
+              </div>
+            </div>
+          ` : '')}
 
           <!-- Detailed Stats Grid -->
           <div class="st-score-grid">
@@ -1388,6 +1680,31 @@
             </div>
           </div>
 
+          ${(sc.weak_subtopics && sc.weak_subtopics.length > 0) ? `
+            <div class="st-subtopics-diagnostic-card">
+              <h4>🎯 Subtopic Diagnostic (Auto-Mapped)</h4>
+              <p class="st-subtopics-diagnostic-sub">Real-time analysis of questions answered in this test:</p>
+              <div class="st-subtopics-diag-list">
+                ${sc.weak_subtopics.map(ws => `
+                  <div class="st-subtopic-diag-item ${ws.mistakes > 0 ? 'is-weak' : 'is-clean'}">
+                    <div class="st-subtopic-diag-title">
+                      <span>${ws.mistakes > 0 ? '⚠️' : '✅'}</span>
+                      <strong>${escapeHtml(ws.subtopic)}</strong>
+                    </div>
+                    <div class="st-subtopic-diag-meta">
+                      ${ws.mistakes > 0 ? `
+                        <span class="st-diag-badge is-mistakes">${ws.mistakes} Mistake${ws.mistakes > 1 ? 's' : ''}</span>
+                        <span class="st-diag-badge is-pct">${ws.accuracy_pct}% Accuracy</span>
+                      ` : `
+                        <span class="st-diag-badge is-perfect">100% Correct</span>
+                      `}
+                    </div>
+                  </div>
+                `).join('')}
+              </div>
+            </div>
+          ` : ''}
+
           <!-- Tabs for Mistakes vs Full Review -->
           <div class="st-subtabs">
             <button type="button" class="st-subtab is-active" id="st-tab-btn-mistakes">
@@ -1408,7 +1725,7 @@
               <div class="st-wrong-list">
                 ${wrongList.map(w => `
                   <div class="st-wrong-item">
-                    <div class="st-wi-stem"><strong>Q${w.q_num}:</strong> ${w.stem}</div>
+                    <div class="st-wi-stem"><strong>Q${w.q_num} ${w.section_title ? `[${escapeHtml(w.section_title)}]` : ''}:</strong> ${w.stem}</div>
                     <div class="st-wi-choices">
                       <span class="st-choice-wrong">Your Choice: <strong>${w.user_answer}</strong> ❌</span>
                       <span class="st-choice-correct">Correct Answer: <strong>${w.correct_answer}</strong> ✅</span>
@@ -1822,7 +2139,382 @@
   }
 
   // -------------------------------------------------------------
-  // 7. MkDocs Material Life-Cycle Bootstrapper
+  // 7. PREP TRACKER & ANALYTICS DASHBOARD (/tracker-dashboard/)
+  // -------------------------------------------------------------
+  async function renderPrepDashboard() {
+    const dashApp = document.getElementById('study-dashboard-app');
+    if (!dashApp) return;
+
+    dashApp.innerHTML = `
+      <div class="st-loading-state" style="padding: 3rem 1rem; text-align: center;">
+        <div class="st-spinner" style="margin: 0 auto 1rem;"></div>
+        <p style="font-weight: 700; font-size: 1.1rem; color: var(--md-primary-fg-color, #273c75);">
+          📊 Syncing your preparation stats with MongoDB Atlas...
+        </p>
+        <small style="color: var(--md-default-fg-color--light);">Fetching revisions, live tests, weak areas, and accuracy metrics</small>
+      </div>
+    `;
+
+    let summary = null;
+    let dueRevisions = [];
+    let weakTopics = [];
+
+    try {
+      const [sumRes, dueRes, weakRes] = await Promise.all([
+        authFetch(`${API_BASE}/dashboard/summary`).catch(() => null),
+        authFetch(`${API_BASE}/revisions/due`).catch(() => null),
+        authFetch(`${API_BASE}/weak-topics`).catch(() => null)
+      ]);
+
+      if (sumRes && sumRes.ok) summary = await sumRes.json();
+      if (dueRes && dueRes.ok) dueRevisions = await dueRes.json();
+      if (weakRes && weakRes.ok) weakTopics = await weakRes.json();
+    } catch (e) {
+      console.warn('Dashboard fetch error:', e);
+    }
+
+    // Fallback if server is not responding
+    const isOnline = !!summary;
+    const localLogs = getLocalLogs();
+    const localTests = getLocalTests();
+    const allLocalTests = Object.values(localTests).flat();
+
+    const totalRevs = summary ? summary.total_revisions : Object.values(localLogs).reduce((a, b) => a + (b.read_count || 0), 0);
+    const dueCount = summary ? summary.revisions_due_today : 0;
+    const totalTests = summary ? summary.total_tests : allLocalTests.length;
+    const avgTestScore = summary ? summary.avg_test_score : (totalTests > 0 ? (allLocalTests.reduce((a, b) => a + (b.net_marks || 0), 0) / totalTests).toFixed(2) : 0);
+    const avgTestAccuracy = summary ? summary.avg_test_accuracy : (totalTests > 0 ? (allLocalTests.reduce((a, b) => a + (Number(b.accuracy_pct) || 0), 0) / totalTests).toFixed(1) : 0);
+    const totalPyqs = summary ? summary.total_pyqs_practiced : 0;
+    const pyqAccuracy = summary ? summary.overall_pyq_accuracy : 0;
+    const recentTests = summary?.recent_tests || allLocalTests.slice(0, 10);
+    const subjects = summary?.subject_breakdown || [];
+
+    const html = `
+      <div class="st-dash-root">
+        <!-- Banner -->
+        <div class="st-dash-banner">
+          <div class="st-dash-banner-left">
+            <span class="st-server-pill ${isOnline ? 'is-online' : 'is-offline'}">
+              ${isOnline ? '🟢 Connected to MongoDB Atlas' : '🔴 Server Offline (Local Storage Mode)'}
+            </span>
+            <span style="font-size: 0.8rem; color: var(--md-default-fg-color--light); margin-left: 0.5rem;">
+              Database: <strong>uppcs_study_tracker</strong>
+            </span>
+          </div>
+          <div class="st-dash-banner-right" style="display:flex; gap:0.5rem;">
+            <button type="button" class="st-btn st-btn-outline" id="st-dash-refresh" style="padding: 0.4rem 0.85rem; font-size: 0.8rem;">
+              🔄 Refresh Stats
+            </button>
+          </div>
+        </div>
+
+        <!-- KPI Cards Grid -->
+        <div class="st-dash-kpis">
+          <div class="st-kpi-card">
+            <div class="st-kpi-label">📖 Total Chapter Revisions</div>
+            <div class="st-kpi-val">${totalRevs} <small>logs</small></div>
+            <div class="st-kpi-sub">Spaced repetition tracking active</div>
+          </div>
+
+          <div class="st-kpi-card ${dueCount > 0 ? 'st-kpi-highlight' : ''}">
+            <div class="st-kpi-label">⏰ Due Today</div>
+            <div class="st-kpi-val" style="${dueCount > 0 ? 'color: #ef4444;' : ''}">${dueCount} <small>chapters</small></div>
+            <div class="st-kpi-sub">${dueCount > 0 ? '⚠️ Revisions waiting in queue' : '✅ All caught up today!'}</div>
+          </div>
+
+          <div class="st-kpi-card">
+            <div class="st-kpi-label">🎯 Tests Given & Accuracy</div>
+            <div class="st-kpi-val">${totalTests} <small>tests</small></div>
+            <div class="st-kpi-sub">Avg Marks: <strong>${avgTestScore}</strong> | Acc: <strong>${avgTestAccuracy}%</strong></div>
+          </div>
+
+          <div class="st-kpi-card">
+            <div class="st-kpi-label">📚 Question Bank Practiced</div>
+            <div class="st-kpi-val">${totalPyqs} <small>questions</small></div>
+            <div class="st-kpi-sub">Overall PYQ Accuracy: <strong>${pyqAccuracy}%</strong></div>
+          </div>
+        </div>
+
+        <!-- Dashboard Tabs -->
+        <div class="st-dash-tabs" id="st-dash-tab-nav">
+          <button type="button" class="st-dash-tab is-active" data-tab="tab-weak">
+            ⚠️ Weak Topics & Mistake Radar (${weakTopics.length})
+          </button>
+          <button type="button" class="st-dash-tab" data-tab="tab-due">
+            ⏱️ Due Revisions (${dueRevisions.length})
+          </button>
+          <button type="button" class="st-dash-tab" data-tab="tab-tests">
+            🎯 Recent Live Tests (${recentTests.length})
+          </button>
+          <button type="button" class="st-dash-tab" data-tab="tab-subjects">
+            📚 Subject Breakdown (${subjects.length})
+          </button>
+        </div>
+
+        <!-- Tab 1: Weak Topics & Mistake Radar -->
+        <div class="st-tab-content is-active" id="tab-weak">
+          <div class="st-section-head">
+            <h3>⚠️ Weak Topics & Focus Radar</h3>
+            <p>Topics flagged here have lower test accuracy (&lt;60%), low confidence logs, or have been manually added by you for intensive drills.</p>
+          </div>
+
+          <!-- Quick Map New Weak Topic Form -->
+          <div class="st-quick-post-card" style="margin-bottom: 1.5rem;">
+            <div class="st-qp-header">
+              <h4>📌 Map a New Weak Topic / Focus Area</h4>
+              <span class="st-qp-sub">Add any topic or chapter you want to actively drill until mastered.</span>
+            </div>
+            <form id="st-form-map-weak" style="display:flex; flex-wrap:wrap; gap:0.65rem; align-items:flex-end;">
+              <div style="flex: 1; min-width: 150px;">
+                <label style="font-size:0.75rem; font-weight:700; display:block; margin-bottom:0.25rem;">Subject</label>
+                <select id="st-map-subject" class="st-input" style="padding:0.45rem 0.65rem; font-size:0.85rem;" required>
+                  <option value="polity">Polity</option>
+                  <option value="geography">Geography</option>
+                  <option value="ancient history">Ancient History</option>
+                  <option value="medieval india">Medieval India</option>
+                  <option value="mordern india">Modern India</option>
+                  <option value="environments & ecology">Environments & Ecology</option>
+                  <option value="economy">Economy</option>
+                  <option value="science and technology">Science & Tech</option>
+                  <option value="art and culture">Art & Culture</option>
+                </select>
+              </div>
+
+              <div style="flex: 2; min-width: 200px;">
+                <label style="font-size:0.75rem; font-weight:700; display:block; margin-bottom:0.25rem;">Topic / Chapter Name</label>
+                <input type="text" id="st-map-topic" class="st-input" placeholder="e.g. 03_Regional_Kingdoms or Sharqi & Deccan" style="padding:0.45rem 0.65rem; font-size:0.85rem;" required />
+              </div>
+
+              <div style="flex: 2; min-width: 200px;">
+                <label style="font-size:0.75rem; font-weight:700; display:block; margin-bottom:0.25rem;">Weak Area Note (Optional)</label>
+                <input type="text" id="st-map-notes" class="st-input" placeholder="e.g. Confused in match capitals & monuments" style="padding:0.45rem 0.65rem; font-size:0.85rem;" />
+              </div>
+
+              <button type="submit" class="st-btn st-btn-primary" style="padding: 0.48rem 1rem; font-size: 0.85rem;">
+                📌 Add to Radar
+              </button>
+            </form>
+          </div>
+
+          <!-- List of Weak Topics -->
+          ${weakTopics.length === 0 ? `
+            <div class="st-empty-state">
+              🌟 <strong>All Clear!</strong> You currently have 0 weak areas flagged.<br/>
+              When you score &lt;60% on live tests or rate a reading low confidence, it will automatically appear here!
+            </div>
+          ` : `
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem;">
+              ${weakTopics.map(w => `
+                <div class="st-test-card" style="border-left: 4px solid #ef4444;">
+                  <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 0.5rem;">
+                    <span class="st-pill-provider" style="background: rgba(239, 68, 68, 0.12); color: #ef4444; font-weight: 700;">
+                      ${w.subject.toUpperCase()}
+                    </span>
+                    <span style="font-size: 0.72rem; color: var(--md-default-fg-color--light);">
+                      ${timeAgo(w.date)}
+                    </span>
+                  </div>
+                  <h4 style="margin: 0 0 0.35rem 0; font-size: 0.98rem; font-weight: 700;">
+                    ${w.topic_title || w.topic}
+                  </h4>
+                  <div class="st-weak-pill" style="margin-bottom: 0.65rem;">
+                    ⚠️ ${w.reason}
+                  </div>
+                  ${w.notes ? `<div style="font-size:0.8rem; font-style:italic; color:var(--md-default-fg-color--light); margin-bottom:0.75rem;">"${w.notes}"</div>` : ''}
+                  <div style="display: flex; gap: 0.5rem; margin-top: auto; padding-top: 0.5rem; border-top: 1px solid var(--study-hairline, #e2e8f0);">
+                    <button type="button" class="st-btn st-btn-outline st-dash-test-btn" data-subject="${w.subject}" data-topic="${w.topic}" data-title="${w.topic_title || w.topic}" style="padding: 0.35rem 0.75rem; font-size: 0.78rem;">
+                      🚀 Practice Drill
+                    </button>
+                    <button type="button" class="st-btn st-btn-outline st-dash-resolve-btn" data-subject="${w.subject}" data-topic="${w.topic}" style="padding: 0.35rem 0.75rem; font-size: 0.78rem; margin-left: auto;">
+                      ✅ Mastered
+                    </button>
+                  </div>
+                </div>
+              `).join('')}
+            </div>
+          `}
+        </div>
+
+        <!-- Tab 2: Due Revisions -->
+        <div class="st-tab-content" id="tab-due">
+          <div class="st-section-head">
+            <h3>⏱️ Due Revisions (Spaced Repetition)</h3>
+            <p>Based on your optimal forgetting curve intervals (Day 1, 3, 7, 14, 30).</p>
+          </div>
+          ${dueRevisions.length === 0 ? `
+            <div class="st-empty-state">
+              🎉 <strong>No revisions due today!</strong> Your memory retention cycle is on track.
+            </div>
+          ` : `
+            <div class="st-due-list">
+              ${dueRevisions.map(d => `
+                <div class="st-due-row">
+                  <div class="st-due-info">
+                    <span class="st-pill-subject">${d.subject.toUpperCase()}</span>
+                    <strong style="font-size: 0.95rem;">${d.topic_title || d.topic}</strong>
+                    <span class="st-due-meta">Stage: <strong>Rev #${d.revision_number}</strong> | Confidence: ${'★'.repeat(d.confidence || 3)}</span>
+                  </div>
+                  <div style="display: flex; gap: 0.5rem; align-items: center;">
+                    <a href="${getSiteBasePath()}subjects/${encodeURIComponent(d.subject)}/${encodeURIComponent(d.topic)}/" class="st-btn st-btn-outline" style="padding: 0.4rem 0.8rem; font-size: 0.8rem; text-decoration: none;">
+                      📖 Study
+                    </a>
+                  </div>
+                </div>
+              `).join('')}
+            </div>
+          `}
+        </div>
+
+        <!-- Tab 3: Recent Live Tests -->
+        <div class="st-tab-content" id="tab-tests">
+          <div class="st-section-head">
+            <h3>🎯 Recent Live Tests & Scorecards</h3>
+            <p>All evaluated CBT and Practice Drill test sessions with official UPPCS scoring (+1.33 / -0.44).</p>
+          </div>
+          ${recentTests.length === 0 ? `
+            <div class="st-empty-state">
+              🎯 No live test sessions recorded yet. Launch a test from any chapter!
+            </div>
+          ` : `
+            <div class="st-tests-list">
+              ${recentTests.map(t => `
+                <div class="st-test-card">
+                  <div class="st-test-header">
+                    <div>
+                      <span class="st-pill-provider">${(t.subject || 'All Subjects').toUpperCase()}</span>
+                      <strong class="st-test-name">${t.topic_title || t.title || t.topic || 'Practice Drill'}</strong>
+                      <span class="st-test-type">${t.test_mode || t.provider || 'CBT Mode'}</span>
+                    </div>
+                    <span class="st-test-date">${formatDate(t.date)}</span>
+                  </div>
+                  <div class="st-test-body">
+                    <div>
+                      <span class="st-t-label">Net Marks</span>
+                      <span class="st-t-val st-score">${t.net_marks > 0 ? '+' : ''}${t.net_marks}</span>
+                    </div>
+                    <div>
+                      <span class="st-t-label">Accuracy</span>
+                      <span class="st-t-val">${t.accuracy_pct}%</span>
+                    </div>
+                    <div>
+                      <span class="st-t-label">Score</span>
+                      <span class="st-t-val">${t.correct}✔ / ${t.incorrect}✖</span>
+                    </div>
+                  </div>
+                </div>
+              `).join('')}
+            </div>
+          `}
+        </div>
+
+        <!-- Tab 4: Subject Breakdown -->
+        <div class="st-tab-content" id="tab-subjects">
+          <div class="st-section-head">
+            <h3>📚 Subject Mastery Breakdown</h3>
+            <p>Consolidated view of question practice and revision frequency per subject.</p>
+          </div>
+          <div class="st-subjects-grid">
+            ${subjects.map(s => `
+              <div class="st-subject-card">
+                <h4>${s.subject.toUpperCase()}</h4>
+                <div class="st-sub-row">
+                  <span>Revisions Logged:</span>
+                  <strong>${s.revisions}</strong>
+                </div>
+                <div class="st-sub-row">
+                  <span>PYQs Attempted:</span>
+                  <strong>${s.pyqsAttempted}</strong>
+                </div>
+                <div class="st-sub-row">
+                  <span>Accuracy Rate:</span>
+                  <strong style="color: ${s.accuracy >= 70 ? '#10b981' : (s.accuracy >= 50 ? '#f59e0b' : '#ef4444')};">${s.accuracy}%</strong>
+                </div>
+                <div class="st-progress-bar-bg">
+                  <div class="st-progress-bar-fill" style="width: ${Math.min(100, s.accuracy)}%;"></div>
+                </div>
+              </div>
+            `).join('')}
+          </div>
+        </div>
+      </div>
+    `;
+
+    dashApp.innerHTML = html;
+
+    // Tab switching
+    document.querySelectorAll('#st-dash-tab-nav .st-dash-tab').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('#st-dash-tab-nav .st-dash-tab').forEach(b => b.classList.remove('is-active'));
+        document.querySelectorAll('.st-dash-root .st-tab-content').forEach(c => c.classList.remove('is-active'));
+        btn.classList.add('is-active');
+        const tabTarget = btn.dataset.tab;
+        const targetEl = document.getElementById(tabTarget);
+        if (targetEl) targetEl.classList.add('is-active');
+      });
+    });
+
+    // Refresh button
+    document.getElementById('st-dash-refresh')?.addEventListener('click', renderPrepDashboard);
+
+    // Form to map new weak topic
+    document.getElementById('st-form-map-weak')?.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const sub = document.getElementById('st-map-subject').value;
+      const topic = document.getElementById('st-map-topic').value.trim();
+      const notes = document.getElementById('st-map-notes').value.trim();
+      if (!sub || !topic) return;
+
+      try {
+        await authFetch(`${API_BASE}/weak-topics`, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            subject: sub,
+            topic: topic,
+            topic_title: topic.replace(/_/g, ' '),
+            reason: 'Manually mapped focus area',
+            notes: notes
+          })
+        });
+        alert(`✅ Mapped "${topic}" to your Weak Topics Radar!`);
+        renderPrepDashboard();
+      } catch (err) {
+        alert('Failed to map weak topic: ' + err.message);
+      }
+    });
+
+    // Resolve / Mastered buttons
+    document.querySelectorAll('.st-dash-resolve-btn').forEach(btn => {
+      btn.addEventListener('click', async () => {
+        const sub = btn.dataset.subject;
+        const topic = btn.dataset.topic;
+        try {
+          await authFetch(`${API_BASE}/weak-topics`, {
+            method: 'DELETE',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ subject: sub, topic: topic })
+          });
+          alert(`✅ Marked "${topic}" as mastered!`);
+          renderPrepDashboard();
+        } catch (err) {
+          alert('Failed to update status.');
+        }
+      });
+    });
+
+    // Test drill buttons from dashboard
+    document.querySelectorAll('.st-dash-test-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const sub = btn.dataset.subject;
+        const topic = btn.dataset.topic;
+        const title = btn.dataset.title;
+        openTestEngineModal({ subject: sub, topic: topic, title: title });
+      });
+    });
+  }
+
+  // -------------------------------------------------------------
+  // 8. MkDocs Material Life-Cycle Bootstrapper
   // -------------------------------------------------------------
   const boot = () => {
     injectHeaderLockBtn();
@@ -1833,6 +2525,7 @@
     document.body.classList.remove('st-vault-locked');
     injectSubjectNoteWidget();
     enhanceChapterPriorityTracker();
+    renderPrepDashboard();
   };
 
   if (typeof document$ !== 'undefined') {
