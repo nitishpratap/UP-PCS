@@ -400,6 +400,8 @@ D. Haider Shah
 
 **Founded: 1347** | **Founder: Hasan Gangu** (throne name **Alauddin Hasan Bahman Shah**) | **Capitals: Gulbarga (Ahsanabad)**, then **Bidar**
 
+![Bahmani Kingdom (Bahmanis) — Deccan extent with Gulbarga, Bidar, Daulatabad](images/bahmani_kingdom_map.jpg)
+
 - Bahmani rose during **Muhammad bin Tughlaq**'s Deccan turmoil after the **Amiran-e-Sadah** rebellions.
 - **Zafar Khan / Hasan Gangu** declared independence at **Gulbarga** in **1347**, took the title **Alauddin Hasan Bahman Shah**, and named the capital **Ahsanabad**.
 - Early rule divided the realm into four (चातुर्याम) provinces: **Gulbarga, Daulatabad, Berar, and Bidar**.
@@ -557,6 +559,8 @@ D. 4-2-3-1
 ## 3.5 Deccan Sultanates
 
 **Five successor states (from ~1518)** | All used **Persianate** central administration modelled on the Bahmani system
+
+![The Deccan Sultanates and Vijayanagara Kingdom in the sixteenth century](images/deccan_sultanates_vijayanagara_map.png)
 
 | Sultanate | Dynasty | Founder | Capital | Period |
 |-----------|---------|---------|---------|--------|
