@@ -898,9 +898,9 @@
             </div>
           </div>
 
-          <div class="st-form-actions">
-            <button type="button" class="st-btn-outline" id="st-cancel-test-launch">Cancel</button>
-            <button type="button" class="st-btn-primary" id="st-btn-begin-test">
+          <div class="st-form-actions st-launcher-actions">
+            <button type="button" class="st-btn st-btn-outline" id="st-cancel-test-launch">Cancel</button>
+            <button type="button" class="st-btn st-btn-primary" id="st-btn-begin-test">
               🚀 Start Live Test
             </button>
           </div>
