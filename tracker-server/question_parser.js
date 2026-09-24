@@ -25,8 +25,13 @@ function parseQuestionsFromMarkdown(filePath, subject, chapterSlug) {
     sections.push({ title: hMatch[1].trim(), index: hMatch.index });
   }
 
-  // Extract numbered subtopics (e.g. 3.1 Sharqi Sultanate (Jaunpur), 11.2 Shivaji)
-  const numberedSubtopics = sections.filter(s => /^[0-9]+\.[0-9]+\s+/i.test(s.title));
+  // Extract syllabus subtopics (e.g. 3.1 Sharqi Sultanate, N.1 Company rule, N.9 Constituent Assembly, etc.)
+  const numberedSubtopics = sections.filter(s => {
+    const t = s.title.toLowerCase();
+    const isDrill = t.includes('practice zone') || t.includes('ghatnachakra') || t.includes('pyq bank') || t.includes('complete pyq') || t.includes('common traps') || t.includes('revision sheet') || t.includes('confused pairs');
+    if (isDrill) return false;
+    return /^(?:[0-9]+(?:\.[0-9]+)?|[a-z]\.[0-9]+)\s+/i.test(s.title);
+  });
 
   function getSectionInfoForPos(pos) {
     let curTitle = 'Chapter Notes';
@@ -51,7 +56,7 @@ function parseQuestionsFromMarkdown(filePath, subject, chapterSlug) {
     let directNumbered = null;
     for (const s of sections) {
       if (s.index > pos) break;
-      if (/^[0-9]+\.[0-9]+\s+/i.test(s.title)) {
+      if (/^(?:[0-9]+(?:\.[0-9]+)?|[a-z]\.[0-9]+)\s+/i.test(s.title)) {
         directNumbered = s.title;
       }
     }
@@ -72,7 +77,7 @@ function parseQuestionsFromMarkdown(filePath, subject, chapterSlug) {
     for (const sub of numberedSubtopics) {
       const cleanWords = sub.title
         .toLowerCase()
-        .replace(/^[0-9\.]+\s+/, '')
+        .replace(/^(?:[0-9\.]+|[a-z]\.[0-9]+)\s+/i, '')
         .replace(/[\(\)\[\]\,\:\—\-\/\&]/g, ' ')
         .split(/\s+/)
         .filter(w => w.length > 3 && !['under', 'with', 'from', 'than', 'into', 'format', 'drill', 'notes', 'facts'].includes(w));
@@ -84,7 +89,7 @@ function parseQuestionsFromMarkdown(filePath, subject, chapterSlug) {
         }
       }
 
-      // Specific historical entity boosts (including phonetic variants like sharqi / shirqui)
+      // Specific entity boosts: Medieval
       if (sub.title.toLowerCase().includes('sharqi')) {
         if (combinedText.includes('sharqi') || combinedText.includes('shirqui') || combinedText.includes('jaunpur') || combinedText.includes('atala') || combinedText.includes('lal darwaza') || combinedText.includes('malik sarwar') || combinedText.includes('siraj-e-hind') || combinedText.includes('shiraz')) {
           score += 6;
@@ -118,6 +123,44 @@ function parseQuestionsFromMarkdown(filePath, subject, chapterSlug) {
       if (sub.title.toLowerCase().includes('deccan') || sub.title.toLowerCase().includes('bijapur')) {
         if (combinedText.includes('bijapur') || combinedText.includes('adil shahi') || combinedText.includes('gol gumbaz') || combinedText.includes('golkonda') || combinedText.includes('qutb shahi') || combinedText.includes('ahmadnagar') || combinedText.includes('nizam shahi')) {
           score += 6;
+        }
+      }
+
+      // Specific entity boosts: Polity & Constitutional Development
+      const subLower = sub.title.toLowerCase();
+      if (subLower.includes('constituent assembly') || subLower.includes('drafting committee')) {
+        if (combinedText.includes('constituent assembly') || combinedText.includes('drafting committee') || combinedText.includes('rajendra prasad') || combinedText.includes('ambedkar') || combinedText.includes('b.n. rau') || combinedText.includes('objectives resolution') || combinedText.includes('sessions') || combinedText.includes('sittings') || combinedText.includes('advisory committee')) {
+          score += 8;
+        }
+      }
+      if (subLower.includes('sources') || subLower.includes('borrowed')) {
+        if (combinedText.includes('borrowed') || combinedText.includes('concurrent list') || combinedText.includes('australia') || combinedText.includes('ireland') || combinedText.includes('dpsp') || combinedText.includes('canada') || combinedText.includes('residuary') || combinedText.includes('fundamental rights') || combinedText.includes('weimar')) {
+          score += 8;
+        }
+      }
+      if (subLower.includes('1919')) {
+        if (combinedText.includes('1919') || combinedText.includes('montagu') || combinedText.includes('chelmsford') || combinedText.includes('dyarchy') || combinedText.includes('transferred') || combinedText.includes('reserved subjects') || combinedText.includes('chamber of princes')) {
+          score += 8;
+        }
+      }
+      if (subLower.includes('1935')) {
+        if (combinedText.includes('1935') || combinedText.includes('provincial autonomy') || combinedText.includes('federal court') || combinedText.includes('federation')) {
+          score += 8;
+        }
+      }
+      if (subLower.includes('wavell') || subLower.includes('cabinet mission') || subLower.includes('august offer') || subLower.includes('cripps')) {
+        if (combinedText.includes('wavell') || combinedText.includes('shimla') || combinedText.includes('cabinet mission') || combinedText.includes('cripps') || combinedText.includes('linlithgow') || combinedText.includes('august offer')) {
+          score += 8;
+        }
+      }
+      if (subLower.includes('company rule') || subLower.includes('regulating') || subLower.includes('pitt') || subLower.includes('charter')) {
+        if (combinedText.includes('1773') || combinedText.includes('1784') || combinedText.includes('1813') || combinedText.includes('1833') || combinedText.includes('1853') || combinedText.includes('regulating act') || combinedText.includes('pitt') || combinedText.includes('charter act') || combinedText.includes('board of control')) {
+          score += 8;
+        }
+      }
+      if (subLower.includes('crown rule') || subLower.includes('1858') || subLower.includes('1861') || subLower.includes('1892') || subLower.includes('1909')) {
+        if (combinedText.includes('1858') || combinedText.includes('1861') || combinedText.includes('1892') || combinedText.includes('1909') || combinedText.includes('morley') || combinedText.includes('minto') || combinedText.includes('portfolio') || combinedText.includes('separate electorate')) {
+          score += 8;
         }
       }
 

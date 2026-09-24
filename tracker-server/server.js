@@ -826,6 +826,7 @@ app.post('/api/chapter-test/evaluate', checkDb, async (req, res) => {
       time_spent_seconds: Number(time_spent_seconds) || 0,
       wrong_questions: wrongQuestions,
       weak_subtopics: weakSubtopics,
+      detailed_review: detailedReview,
       date: new Date(),
       created_at: new Date()
     };

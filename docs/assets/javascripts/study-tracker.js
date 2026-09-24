@@ -294,10 +294,61 @@
     return '/';
   }
 
+  function escapeHtml(str) {
+    if (!str) return '';
+    return String(str)
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;')
+      .replace(/'/g, '&#039;');
+  }
+
   function formatDate(d) {
     if (!d) return '—';
     const date = new Date(d);
     return date.toLocaleDateString('en-IN', { day: 'numeric', month: 'short', year: 'numeric' });
+  }
+
+  function formatDateTime(d) {
+    if (!d) return '—';
+    const date = new Date(d);
+    return date.toLocaleDateString('en-IN', {
+      day: 'numeric',
+      month: 'short',
+      year: 'numeric',
+      hour: '2-digit',
+      minute: '2-digit',
+      hour12: true
+    });
+  }
+
+  function formatDuration(sec) {
+    if (!sec || sec <= 0) return '—';
+    const m = Math.floor(sec / 60);
+    const s = sec % 60;
+    if (m === 0) return `${s}s`;
+    return `${m}m ${s}s`;
+  }
+
+  function showToast(message, type = 'info', duration = 3500) {
+    let container = document.getElementById('st-toast-container');
+    if (!container) {
+      container = document.createElement('div');
+      container.id = 'st-toast-container';
+      container.className = 'st-toast-container';
+      document.body.appendChild(container);
+    }
+    const toast = document.createElement('div');
+    toast.className = `st-toast st-toast-${type}`;
+    const icon = type === 'success' ? '✅' : (type === 'error' ? '❌' : (type === 'warning' ? '⚠️' : 'ℹ️'));
+    toast.innerHTML = `<span class="st-toast-icon">${icon}</span><span class="st-toast-msg">${escapeHtml(message)}</span>`;
+    container.appendChild(toast);
+    requestAnimationFrame(() => toast.classList.add('is-visible'));
+    setTimeout(() => {
+      toast.classList.remove('is-visible');
+      setTimeout(() => toast.remove(), 300);
+    }, duration);
   }
 
   function timeAgo(d) {
@@ -588,6 +639,7 @@
     // Weak Topic Toggle Listener
     const weakBtn = document.getElementById('st-btn-toggle-weak');
     const accBadge = document.getElementById('st-kpi-acc-badge');
+    let currentWeakItem = null;
 
     // Check if this chapter is already a weak topic
     authFetch(`${API_BASE}/weak-topics`)
@@ -595,6 +647,7 @@
       .then(list => {
         const item = list.find(w => w.subject === topicInfo.subject && w.topic === topicInfo.topic);
         if (item && weakBtn) {
+          currentWeakItem = item;
           weakBtn.textContent = item.auto_flagged ? '⚠️ Weak Area (Auto-Flagged)' : '⚠️ Weak Area (Mapped)';
           weakBtn.classList.add('is-active');
           if (accBadge) {
@@ -605,17 +658,61 @@
         }
       }).catch(() => {});
 
-    weakBtn?.addEventListener('click', async () => {
-      const isCurrentlyWeak = weakBtn.classList.contains('is-active');
-      weakBtn.disabled = true;
-      if (isCurrentlyWeak) {
-        // Unmap / resolve
+    function openWeakAreaDialog(topicInfo, weakItem) {
+      const isAuto = weakItem?.auto_flagged;
+      const reason = weakItem?.reason || 'Identified for high-priority revision';
+      const acc = weakItem?.accuracy_pct !== undefined ? `${weakItem.accuracy_pct}%` : 'Below 75%';
+      const mistakes = weakItem?.mistakes_count !== undefined ? `${weakItem.mistakes_count} misses` : 'Multiple errors detected';
+
+      const dialogHtml = `
+        <div class="st-weak-dialog-content">
+          <div class="st-weak-meta-card" style="padding: 1rem 1.15rem; background: rgba(239, 68, 68, 0.08); border: 1.5px solid rgba(239, 68, 68, 0.35); border-radius: 0.75rem; margin-bottom: 1.25rem;">
+            <div style="display:flex; align-items:center; gap:0.6rem; font-size:1rem; font-weight:700; color:#dc2626; margin-bottom:0.4rem;">
+              <span>${isAuto ? '🚩 Auto-Flagged Weak Topic' : '📌 Manually Mapped Focus Area'}</span>
+            </div>
+            <div style="font-size:0.86rem; color:var(--md-default-fg-color); line-height:1.45;">
+              ${escapeHtml(reason)}
+            </div>
+            <div style="display:flex; gap:1.25rem; margin-top:0.65rem; font-size:0.82rem; color:var(--md-default-fg-color--light);">
+              <span>Recent Test Accuracy: <strong style="color:#ef4444;">${acc}</strong></span>
+              <span>Errors Recorded: <strong style="color:#ef4444;">${mistakes}</strong></span>
+            </div>
+          </div>
+
+          <div style="display: flex; flex-direction: column; gap: 0.65rem;">
+            <button type="button" class="st-btn st-btn-primary" id="st-weak-action-practice" style="justify-content: center;">
+              🎯 Practice 10 Drill Questions on this Chapter
+            </button>
+            <button type="button" class="st-btn st-btn-outline" id="st-weak-action-history" style="justify-content: center;">
+              📜 Review Past Test Mistakes & Question Details
+            </button>
+            <button type="button" class="st-btn st-btn-ghost" id="st-weak-action-unmap" style="justify-content: center; color: #10b981; border: 1px solid rgba(16, 185, 129, 0.35); margin-top: 0.5rem;">
+              ✅ Mark as Mastered (Remove from Weak Topics)
+            </button>
+          </div>
+        </div>
+      `;
+
+      showModal(`Chapter Focus Radar: ${topicInfo.title}`, dialogHtml);
+
+      document.getElementById('st-weak-action-practice')?.addEventListener('click', () => {
+        closeModal();
+        openTestEngineModal(topicInfo, { autoStartCount: 10 });
+      });
+
+      document.getElementById('st-weak-action-history')?.addEventListener('click', () => {
+        closeModal();
+        openPastScoresModal(topicInfo);
+      });
+
+      document.getElementById('st-weak-action-unmap')?.addEventListener('click', async () => {
         try {
           await authFetch(`${API_BASE}/weak-topics`, {
             method: 'DELETE',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({ subject: topicInfo.subject, topic: topicInfo.topic })
           });
+          currentWeakItem = null;
           weakBtn.textContent = '📌 Flag Weak';
           weakBtn.classList.remove('is-active');
           if (accBadge) {
@@ -623,12 +720,22 @@
             accBadge.style.background = '';
             accBadge.style.color = '';
           }
-          alert(`✅ Removed "${topicInfo.title}" from Weak Topics (marked mastered).`);
-        } catch (e) {
-          alert('Failed to update weak topic status.');
+          closeModal();
+          showToast(`✅ Marked "${topicInfo.title}" as Mastered and cleared from Focus Radar!`, 'success');
+        } catch (err) {
+          showToast('Failed to update status: ' + err.message, 'error');
         }
+      });
+    }
+
+    weakBtn?.addEventListener('click', async () => {
+      const isCurrentlyWeak = weakBtn.classList.contains('is-active');
+      if (isCurrentlyWeak) {
+        // Open interactive focus dialog instead of jarring alert
+        openWeakAreaDialog(topicInfo, currentWeakItem);
       } else {
-        // Map as weak
+        // Map as weak topic
+        weakBtn.disabled = true;
         try {
           await authFetch(`${API_BASE}/weak-topics`, {
             method: 'POST',
@@ -640,6 +747,13 @@
               reason: 'Manually flagged as focus / weak area'
             })
           });
+          currentWeakItem = {
+            subject: topicInfo.subject,
+            topic: topicInfo.topic,
+            topic_title: topicInfo.title,
+            reason: 'Manually flagged as focus / weak area',
+            auto_flagged: false
+          };
           weakBtn.textContent = '⚠️ Weak Area (Mapped)';
           weakBtn.classList.add('is-active');
           if (accBadge) {
@@ -647,12 +761,12 @@
             accBadge.style.background = 'rgba(239, 68, 68, 0.15)';
             accBadge.style.color = '#ef4444';
           }
-          alert(`⚠️ Mapped "${topicInfo.title}" to your Weak Topics & Focus Radar.`);
+          showToast(`⚠️ Mapped "${topicInfo.title}" to Focus Radar & Weak Topics!`, 'warning');
         } catch (e) {
-          alert('Failed to save weak topic status.');
+          showToast('Failed to save weak topic status.', 'error');
         }
+        weakBtn.disabled = false;
       }
-      weakBtn.disabled = false;
     });
 
     // Sync DB button listener
@@ -958,37 +1072,44 @@
     const chipsContainer = document.getElementById('st-chapter-subtopics-chips');
     if (!bar || !chipsContainer) return;
 
-    if (!weakSubtopics || !Array.isArray(weakSubtopics) || weakSubtopics.length === 0) {
-      bar.style.display = 'none';
-      return;
-    }
+    try {
+      if (!weakSubtopics || !Array.isArray(weakSubtopics) || weakSubtopics.length === 0) {
+        bar.style.display = 'none';
+        return;
+      }
 
-    const activeWeak = weakSubtopics.filter(ws => {
-      const count = ws.total_mistakes !== undefined ? ws.total_mistakes : (ws.mistakes || 0);
-      return count > 0;
-    }).slice(0, 6);
+      const activeWeak = weakSubtopics.filter(ws => {
+        const count = ws.total_mistakes !== undefined ? ws.total_mistakes : (ws.mistakes || 0);
+        return count > 0;
+      }).slice(0, 6);
 
-    if (activeWeak.length === 0) {
-      bar.style.display = 'none';
-      return;
-    }
+      if (activeWeak.length === 0) {
+        bar.style.display = 'none';
+        return;
+      }
 
-    bar.style.display = 'flex';
-    chipsContainer.innerHTML = activeWeak.map(ws => {
-      const count = ws.total_mistakes !== undefined ? ws.total_mistakes : (ws.mistakes || 0);
-      return `
-        <button type="button" class="st-subtopic-tag" data-subtopic="${encodeURIComponent(ws.subtopic)}" title="Click to jump to this subtopic section in notes">
-          ⚠️ ${escapeHtml(ws.subtopic)} <strong>(${count} Miss${count > 1 ? 'es' : ''})</strong> ➔
-        </button>
-      `;
-    }).join('');
+      chipsContainer.innerHTML = activeWeak.map(ws => {
+        const count = ws.total_mistakes !== undefined ? ws.total_mistakes : (ws.mistakes || 0);
+        const displayName = (ws.subtopic || 'General Notes').replace(/^Ghatnachakra Extra Drill\s*[-–—]\s*/i, 'Drill: ');
+        return `
+          <button type="button" class="st-subtopic-tag" data-subtopic="${encodeURIComponent(ws.subtopic)}" title="Click to jump to this subtopic section in notes">
+            ⚠️ ${escapeHtml(displayName)} <strong>(${count} Miss${count > 1 ? 'es' : ''})</strong> ➔
+          </button>
+        `;
+      }).join('');
 
-    chipsContainer.querySelectorAll('.st-subtopic-tag').forEach(tag => {
-      tag.addEventListener('click', (e) => {
-        const sub = decodeURIComponent(e.currentTarget.getAttribute('data-subtopic') || '');
-        scrollToSubtopicHeading(sub);
+      chipsContainer.querySelectorAll('.st-subtopic-tag').forEach(tag => {
+        tag.addEventListener('click', (e) => {
+          const sub = decodeURIComponent(e.currentTarget.getAttribute('data-subtopic') || '');
+          scrollToSubtopicHeading(sub);
+        });
       });
-    });
+
+      bar.style.display = 'flex';
+    } catch (err) {
+      console.warn('renderChapterWeakSubtopicsBar error:', err);
+      bar.style.display = 'none';
+    }
   }
 
   // -------------------------------------------------------------
@@ -1590,6 +1711,9 @@
       }
 
       const sc = evaluationData.scorecard;
+      if (evaluationData.detailed_review && evaluationData.detailed_review.length > 0) {
+        sc.detailed_review = evaluationData.detailed_review;
+      }
       saveLocalTestAttempt(topicInfo.subject, topicInfo.topic, sc);
       refreshPastScoresBadge(topicInfo);
 
@@ -1817,63 +1941,265 @@
       }
     } catch {}
 
-    const html = `
-      <div class="st-past-scores-content">
-        <div class="st-modal-summary-card">
-          <div class="st-summary-item">
-            <span class="st-sum-lbl">Tests Given:</span>
-            <span class="st-sum-val">${attempts.length} attempts</span>
+    function renderAttemptsList() {
+      const html = `
+        <div class="st-past-scores-content">
+          <div class="st-modal-summary-card">
+            <div class="st-summary-item">
+              <span class="st-sum-lbl">Tests Given:</span>
+              <span class="st-sum-val">${attempts.length} attempts</span>
+            </div>
+            <div class="st-summary-item">
+              <span class="st-sum-lbl">Latest Score:</span>
+              <span class="st-sum-val">${attempts[0] ? (attempts[0].net_marks > 0 ? '+' : '') + attempts[0].net_marks : '—'}</span>
+            </div>
+            <div class="st-summary-item">
+              <span class="st-sum-lbl">Avg Accuracy:</span>
+              <span class="st-sum-val">${attempts.length ? (attempts.reduce((a, b) => a + (Number(b.accuracy_pct) || 0), 0) / attempts.length).toFixed(1) : 0}%</span>
+            </div>
           </div>
-          <div class="st-summary-item">
-            <span class="st-sum-lbl">Latest Score:</span>
-            <span class="st-sum-val">${attempts[0] ? (attempts[0].net_marks > 0 ? '+' : '') + attempts[0].net_marks : '—'}</span>
-          </div>
-          <div class="st-summary-item">
-            <span class="st-sum-lbl">Avg Accuracy:</span>
-            <span class="st-sum-val">${attempts.length ? (attempts.reduce((a, b) => a + (Number(b.accuracy_pct) || 0), 0) / attempts.length).toFixed(1) : 0}%</span>
-          </div>
-        </div>
 
-        ${attempts.length === 0 ? `
-          <div class="st-empty-state">
-            🎯 You haven't taken any tests for this chapter yet.<br/>
-            Click <strong>🎯 Live Practice Test</strong> at the top of the chapter to take your first test!
-          </div>
-        ` : `
-          <!-- Attempt History List -->
-          <div class="st-test-history-list">
-            <h4>Past Scorecard History</h4>
-            ${attempts.map((att, idx) => `
-              <div class="st-test-history-row">
-                <div class="st-thr-left">
-                  <strong>Attempt #${attempts.length - idx}</strong>
-                  <span class="st-thr-date">${formatDate(att.date)} (${timeAgo(att.date)})</span>
-                </div>
-                <div class="st-thr-stats">
-                  <span class="st-thr-score">Marks: <strong>${att.net_marks > 0 ? '+' : ''}${att.net_marks}</strong></span>
-                  <span class="st-thr-acc">Accuracy: <strong>${att.accuracy_pct}%</strong></span>
-                  <span class="st-thr-breakdown">${att.correct} ✔ / ${att.incorrect} ✖ (${att.unattempted} left)</span>
-                </div>
+          ${attempts.length === 0 ? `
+            <div class="st-empty-state">
+              🎯 You haven't taken any tests for this chapter yet.<br/>
+              Click <strong>🎯 Live Practice Test</strong> at the top of the chapter to take your first test!
+            </div>
+          ` : `
+            <!-- Attempt History List -->
+            <div class="st-test-history-list">
+              <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom: 0.5rem;">
+                <h4 style="margin:0;">Past Scorecard History</h4>
+                <small style="color:var(--md-default-fg-color--light);">Click any attempt to inspect question-by-question review</small>
               </div>
-            `).join('')}
+              ${attempts.map((att, idx) => `
+                <div class="st-test-history-row" data-idx="${idx}" style="cursor: pointer;" title="Click to view question review and answers for Attempt #${attempts.length - idx}">
+                  <div class="st-thr-left">
+                    <strong>Attempt #${attempts.length - idx}</strong>
+                    <span class="st-thr-date">${formatDateTime(att.date)} (${timeAgo(att.date)})</span>
+                    ${att.test_mode ? `<span style="font-size:0.72rem; color:var(--md-default-fg-color--light);">${escapeHtml(att.test_mode)} · ${formatDuration(att.time_spent_seconds)}</span>` : ''}
+                  </div>
+                  <div class="st-thr-stats">
+                    <span class="st-thr-score">Marks: <strong>${att.net_marks > 0 ? '+' : ''}${att.net_marks}</strong></span>
+                    <span class="st-thr-acc">Accuracy: <strong>${att.accuracy_pct}%</strong></span>
+                    <span class="st-thr-breakdown">${att.correct} ✔ / ${att.incorrect} ✖ (${att.unattempted} left)</span>
+                    <button type="button" class="st-btn st-btn-sm st-btn-outline st-thr-review-btn" data-idx="${idx}">
+                      🔍 Review Details ➔
+                    </button>
+                  </div>
+                </div>
+              `).join('')}
+            </div>
+          `}
+
+          <div class="st-form-actions" style="margin-top: 1.5rem;">
+            <button type="button" class="st-btn st-btn-outline" id="st-close-past-scores">Close</button>
+            <button type="button" class="st-btn st-btn-primary" id="st-btn-new-test-from-scores">
+              🚀 Take Another Test
+            </button>
           </div>
-        `}
-
-        <div class="st-form-actions" style="margin-top: 1.5rem;">
-          <button type="button" class="st-btn st-btn-outline" id="st-close-past-scores">Close</button>
-          <button type="button" class="st-btn st-btn-primary" id="st-btn-new-test-from-scores">
-            🚀 Take Another Test
-          </button>
         </div>
-      </div>
-    `;
+      `;
 
-    showModal(`Past Test History: ${topicInfo.title}`, html);
+      showModal(`Past Test History: ${topicInfo.title}`, html);
 
-    document.getElementById('st-close-past-scores')?.addEventListener('click', closeModal);
-    document.getElementById('st-btn-new-test-from-scores')?.addEventListener('click', () => {
-      openTestEngineModal(topicInfo);
-    });
+      document.getElementById('st-close-past-scores')?.addEventListener('click', closeModal);
+      document.getElementById('st-btn-new-test-from-scores')?.addEventListener('click', () => {
+        openTestEngineModal(topicInfo);
+      });
+
+      document.querySelectorAll('.st-test-history-row, .st-thr-review-btn').forEach(el => {
+        el.addEventListener('click', (e) => {
+          e.stopPropagation();
+          const idx = Number(el.getAttribute('data-idx'));
+          if (!isNaN(idx) && attempts[idx]) {
+            renderAttemptDetail(attempts[idx], attempts.length - idx);
+          }
+        });
+      });
+    }
+
+    function renderAttemptDetail(att, attemptNum) {
+      const hasDetailedReview = Array.isArray(att.detailed_review) && att.detailed_review.length > 0;
+      const wrongList = att.wrong_questions || [];
+      const totalQ = att.total_questions || (hasDetailedReview ? att.detailed_review.length : (att.correct + att.incorrect + (att.unattempted || 0)));
+
+      const reviewHtml = `
+        <div class="st-past-attempt-detail">
+          <button type="button" class="st-review-back-btn" id="st-back-to-list-top">
+            ← Back to All Past Attempts
+          </button>
+
+          <div class="st-modal-summary-card" style="margin-bottom: 0.85rem;">
+            <div class="st-summary-item">
+              <span class="st-sum-lbl">Attempt:</span>
+              <span class="st-sum-val">#${attemptNum}</span>
+            </div>
+            <div class="st-summary-item">
+              <span class="st-sum-lbl">Date & Time:</span>
+              <span class="st-sum-val" style="font-size:0.85rem;">${formatDateTime(att.date)}</span>
+            </div>
+            <div class="st-summary-item">
+              <span class="st-sum-lbl">Net Score:</span>
+              <span class="st-sum-val" style="color:${att.net_marks > 0 ? '#10b981' : '#ef4444'};">
+                ${att.net_marks > 0 ? '+' : ''}${att.net_marks} <small style="font-size:0.75rem; font-weight:normal; color:var(--md-default-fg-color--light);">/ ${att.max_marks || (totalQ * 1.33).toFixed(2)}</small>
+              </span>
+            </div>
+            <div class="st-summary-item">
+              <span class="st-sum-lbl">Accuracy:</span>
+              <span class="st-sum-val" style="color:${att.accuracy_pct >= 75 ? '#10b981' : (att.accuracy_pct >= 50 ? '#f59e0b' : '#ef4444')};">
+                ${att.accuracy_pct}%
+              </span>
+            </div>
+            <div class="st-summary-item">
+              <span class="st-sum-lbl">Time Spent:</span>
+              <span class="st-sum-val">${formatDuration(att.time_spent_seconds)}</span>
+            </div>
+          </div>
+
+          <!-- Filter Pills -->
+          <div class="st-filter-pills" id="st-detail-filter-pills">
+            <button type="button" class="st-filter-pill is-active" data-filter="all">All (${hasDetailedReview ? att.detailed_review.length : totalQ})</button>
+            <button type="button" class="st-filter-pill" data-filter="wrong">❌ Mistakes (${att.incorrect})</button>
+            <button type="button" class="st-filter-pill" data-filter="correct">✅ Correct (${att.correct})</button>
+            ${att.unattempted > 0 ? `<button type="button" class="st-filter-pill" data-filter="unattempted">⚪ Skipped (${att.unattempted})</button>` : ''}
+          </div>
+
+          <!-- Questions List -->
+          <div class="st-detail-questions-container" id="st-detail-questions-list">
+            ${hasDetailedReview ? att.detailed_review.map((q, idx) => {
+              const uAns = q.user_answer;
+              const isCor = q.is_correct || (uAns && (uAns === q.correct_answer || (q.all_correct_answers && q.all_correct_answers.includes(uAns))));
+              const isWrong = uAns && !isCor;
+              const isUnatt = !uAns;
+              const statusClass = isCor ? 'is-correct' : (isWrong ? 'is-wrong' : 'is-unattempted');
+              const filterType = isCor ? 'correct' : (isWrong ? 'wrong' : 'unattempted');
+
+              return `
+                <div class="st-detail-qcard ${statusClass}" data-qtype="${filterType}">
+                  <div class="st-detail-qheader">
+                    <div>
+                      <strong>Question ${q.q_num || idx + 1}</strong>
+                      ${q.section_title ? `<span class="st-qsec-badge">${escapeHtml(q.section_title)}</span>` : ''}
+                      ${q.q_header ? `<small style="margin-left:0.5rem; color:var(--md-default-fg-color--light);">${escapeHtml(q.q_header)}</small>` : ''}
+                    </div>
+                    <span class="st-qstatus-badge ${statusClass}">
+                      ${isCor ? '✅ Correct (+1.33)' : (isWrong ? '❌ Incorrect (-0.44)' : '⚪ Skipped (0.00)')}
+                    </span>
+                  </div>
+
+                  <div class="st-detail-qstem">${escapeHtml(q.stem)}</div>
+
+                  ${q.options && q.options.length > 0 ? `
+                    <div class="st-detail-options-list">
+                      ${q.options.map(opt => {
+                        const optKey = (opt.key || '').toUpperCase();
+                        const isUserChoice = uAns && uAns.toUpperCase() === optKey;
+                        const isCorrectKey = (q.correct_answer || '').toUpperCase() === optKey || (q.all_correct_answers && q.all_correct_answers.map(k=>k.toUpperCase()).includes(optKey));
+                        let optClass = '';
+                        if (isUserChoice && isCorrectKey) optClass = 'is-user-correct';
+                        else if (isUserChoice && !isCorrectKey) optClass = 'is-user-wrong';
+                        else if (isCorrectKey) optClass = 'is-correct-target';
+
+                        return `
+                          <div class="st-detail-option-item ${optClass}">
+                            <strong>${optKey})</strong>
+                            <span style="flex:1;">${escapeHtml(opt.text)}</span>
+                            ${isUserChoice ? `<span style="font-size:0.75rem;">${isCorrectKey ? '✅ Your Choice' : '❌ Your Choice'}</span>` : ''}
+                            ${!isUserChoice && isCorrectKey ? `<span style="font-size:0.75rem; color:#10b981;">Correct Answer</span>` : ''}
+                          </div>
+                        `;
+                      }).join('')}
+                    </div>
+                  ` : `
+                    <div class="st-detail-answer-bar">
+                      <span>Your Choice: <strong>${uAns || 'Unattempted'}</strong> ${isCor ? '✅' : (uAns ? '❌' : '⚪')}</span>
+                      <span style="color:#10b981;">Correct Answer: <strong>${escapeHtml(q.correct_answer)}</strong> ✅</span>
+                    </div>
+                  `}
+
+                  ${q.explanation ? `
+                    <div class="st-detail-expl-box">
+                      <strong>💡 Logic & Explanation:</strong><br/>
+                      ${escapeHtml(q.explanation).replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')}
+                    </div>
+                  ` : ''}
+                </div>
+              `;
+            }).join('') : `
+              <!-- Fallback for historical tests with wrong_questions list -->
+              <div style="margin-bottom:1rem; padding:0.65rem 0.85rem; background:rgba(99,102,241,0.06); border-radius:0.5rem; font-size:0.84rem; color:var(--md-default-fg-color);">
+                ℹ️ <strong>Test Breakdown:</strong> ${att.correct} Correct, ${att.incorrect} Incorrect, ${att.unattempted || 0} Skipped.<br/>
+                <small style="color:var(--md-default-fg-color--light);">Detailed question review with all options is saved for this and future tests. Review of your recorded mistake traps for Attempt #${attemptNum} is displayed below:</small>
+              </div>
+
+              ${wrongList.length === 0 ? `
+                <div class="st-empty-state" style="padding:1.5rem; color:#10b981;">
+                  🎉 <strong>100% Accuracy in this attempt!</strong> No incorrect questions were recorded.
+                </div>
+              ` : wrongList.map((w, idx) => `
+                <div class="st-detail-qcard is-wrong" data-qtype="wrong">
+                  <div class="st-detail-qheader">
+                    <div>
+                      <strong>Question ${w.q_num || idx + 1}</strong>
+                      ${w.section_title ? `<span class="st-qsec-badge">${escapeHtml(w.section_title)}</span>` : ''}
+                      ${w.q_header ? `<small style="margin-left:0.5rem; color:var(--md-default-fg-color--light);">${escapeHtml(w.q_header)}</small>` : ''}
+                    </div>
+                    <span class="st-qstatus-badge is-wrong">❌ Incorrect (-0.44)</span>
+                  </div>
+
+                  <div class="st-detail-qstem">${escapeHtml(w.stem)}</div>
+
+                  <div class="st-detail-answer-bar">
+                    <span style="color:#ef4444;">Your Choice: <strong>${escapeHtml(w.user_answer || 'None')}</strong> ❌</span>
+                    <span style="color:#10b981;">Correct Answer: <strong>${escapeHtml(w.correct_answer)}</strong> ✅</span>
+                  </div>
+
+                  ${w.explanation ? `
+                    <div class="st-detail-expl-box">
+                      <strong>💡 Logic & Solution:</strong><br/>
+                      ${escapeHtml(w.explanation).replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')}
+                    </div>
+                  ` : ''}
+                </div>
+              `).join('')}
+            `}
+          </div>
+
+          <div class="st-form-actions" style="margin-top: 1.5rem;">
+            <button type="button" class="st-btn st-btn-outline" id="st-back-to-list-bottom">← Back to All Attempts</button>
+            <button type="button" class="st-btn st-btn-primary" id="st-retake-from-detail">🚀 Retake Test</button>
+          </div>
+        </div>
+      `;
+
+      showModal(`Attempt #${attemptNum} Review: ${topicInfo.title}`, reviewHtml);
+
+      document.getElementById('st-back-to-list-top')?.addEventListener('click', renderAttemptsList);
+      document.getElementById('st-back-to-list-bottom')?.addEventListener('click', renderAttemptsList);
+      document.getElementById('st-retake-from-detail')?.addEventListener('click', () => {
+        openTestEngineModal(topicInfo);
+      });
+
+      // Filter pills logic
+      document.querySelectorAll('#st-detail-filter-pills .st-filter-pill').forEach(pill => {
+        pill.addEventListener('click', () => {
+          document.querySelectorAll('#st-detail-filter-pills .st-filter-pill').forEach(p => p.classList.remove('is-active'));
+          pill.classList.add('is-active');
+          const filter = pill.getAttribute('data-filter');
+
+          document.querySelectorAll('#st-detail-questions-list .st-detail-qcard').forEach(card => {
+            const type = card.getAttribute('data-qtype');
+            if (filter === 'all' || type === filter) {
+              card.style.display = 'flex';
+            } else {
+              card.style.display = 'none';
+            }
+          });
+        });
+      });
+    }
+
+    renderAttemptsList();
   }
 
   // -------------------------------------------------------------

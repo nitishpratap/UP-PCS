@@ -20,7 +20,10 @@
 !/.github/**
 !/docs/
 !/docs/**
+!/tracker-server/
+!/tracker-server/**
 
 node_modules/
 .env
+
 
