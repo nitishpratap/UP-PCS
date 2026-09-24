@@ -357,13 +357,33 @@
         stem = stem.substring(0, optAIndex).trim();
       }
 
-      // Clean up stem question number
-      const qNumMatch = stem.match(/Q(?:uestion)?\s*(\d+)/i);
-      const qNum = qNumMatch ? qNumMatch[1] : (index + 1);
+      // Find preceding section heading (H2/H3/H4)
+      let secHeading = '';
+      let walk = details.previousElementSibling;
+      while (walk) {
+        if (/^H[1-4]$/i.test(walk.tagName)) {
+          secHeading = walk.textContent.replace(/¶/g, '').trim();
+          break;
+        }
+        walk = walk.previousElementSibling;
+      }
+
+      let category = 'pyqs';
+      const secLower = secHeading.toLowerCase();
+      if (secLower.includes('practice zone') || secLower.includes('format drill') || secLower.includes('practice drill')) {
+        category = 'practice';
+      } else if (secLower.includes('ghatnachakra') || secLower.includes('purvavlokan')) {
+        category = 'ghatnachakra';
+      } else if (secLower.includes('pyq') || secLower.includes('prelims')) {
+        category = 'pyqs';
+      }
 
       questions.push({
         id: `q_${index + 1}`,
         q_num: qNum,
+        q_header: category === 'practice' ? `Practice Zone — Q${qNum}` : (category === 'ghatnachakra' ? `Ghatnachakra — Q${qNum}` : `Question ${qNum}`),
+        section_title: secHeading,
+        category: category,
         stem: stem,
         options: options,
         correct_answer: correctLetter,
@@ -752,7 +772,9 @@
         loadedQuestions = domQuestions.map((q, idx) => ({
           q_id: `${topicInfo.subject}_${topicInfo.topic}_${idx + 1}`.replace(/[^a-z0-9_]/gi, '_').toLowerCase(),
           q_num: idx + 1,
-          q_header: `Question ${idx + 1}`,
+          q_header: q.q_header || `Question ${idx + 1}`,
+          category: q.category || 'practice',
+          section_title: q.section_title || '',
           stem: q.stem,
           options: q.options,
           correct_answer: q.correct_answer,
@@ -786,22 +808,24 @@
 
     // Question Categorization Helper
     function categorizeQuestion(q) {
+      if (q.category) return q.category;
       const header = (q.q_header || '').toLowerCase();
       const stem = (q.stem || '').toLowerCase();
+      const sec = (q.section_title || '').toLowerCase();
 
       // Practice Zone / in-note drills
-      if (header.includes('practice') || stem.includes('practice zone') || header.includes('drill') || header.includes('exercise')) {
+      if (sec.includes('practice') || header.includes('practice') || stem.includes('practice zone') || header.includes('drill') || header.includes('exercise')) {
         return 'practice';
       }
       // Official UPPCS & State PSC past year questions
-      if (header.includes('inline pyq') || header.includes('uppcs') || header.includes('ukpcs') || header.includes('ro/aro') || (header.includes('pyq') && !header.includes('gc'))) {
+      if ((sec.includes('pyq') && !sec.includes('ghatnachakra')) || header.includes('inline pyq') || header.includes('uppcs') || header.includes('ukpcs') || header.includes('ro/aro') || (header.includes('pyq') && !header.includes('gc'))) {
         return 'pyqs';
       }
       // Ghatnachakra question bank & all state PSCs
-      if (header.includes('gc') || header.includes('ghatna') || header.match(/\bq\s*[-–—]?\s*\d+/i) || header.match(/(ias|bpsc|mppcs|cgpcs|ras|jpsc|upsc)/i)) {
+      if (sec.includes('ghatnachakra') || header.includes('gc') || header.includes('ghatna') || header.match(/\bq\s*[-–—]?\s*(?:gc)?\s*\d+/i) || header.match(/(ias|bpsc|mppcs|cgpcs|ras|jpsc|upsc)/i)) {
         return 'ghatnachakra';
       }
-      return 'other';
+      return 'practice';
     }
 
     // Launcher Screen
