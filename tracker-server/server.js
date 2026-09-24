@@ -1,3 +1,8 @@
+const dns = require('dns');
+try {
+  dns.setServers(['8.8.8.8', '1.1.1.1']);
+} catch (dnsErr) {}
+
 const express = require('express');
 const cors = require('cors');
 const path = require('path');
@@ -751,6 +756,7 @@ app.post('/api/chapter-test/evaluate', checkDb, async (req, res) => {
             q_header: q.q_header,
             section_title: q.section_title || 'General Notes',
             stem: q.stem,
+            options: q.options,
             user_answer: userAns,
             correct_answer: q.correct_answer,
             explanation: q.explanation
@@ -935,18 +941,71 @@ app.get('/api/chapter-tests', checkDb, async (req, res) => {
     let avgScore = 0;
     let avgAccuracy = 0;
     let frequentWrongQuestions = {};
+    let trapQuestionsList = [];
     let aggregatedWeakSubtopics = [];
 
     if (totalTests > 0) {
       avgScore = Number((items.reduce((acc, t) => acc + (t.net_marks || 0), 0) / totalTests).toFixed(2));
       avgAccuracy = Number((items.reduce((acc, t) => acc + (t.accuracy_pct || 0), 0) / totalTests).toFixed(1));
 
+      const trapMap = new Map();
       items.forEach(t => {
         (t.wrong_questions || []).forEach(w => {
-          const key = `Q${w.q_num} [${w.section_title || 'General'}]: ${w.stem?.substring(0, 75) || ''}`;
+          const key = w.q_id || (w.stem ? w.stem.substring(0, 100) : `q_${w.q_num}`);
           frequentWrongQuestions[key] = (frequentWrongQuestions[key] || 0) + 1;
+
+          if (trapMap.has(key)) {
+            const existing = trapMap.get(key);
+            existing.times_missed += 1;
+            if (!existing.explanation && w.explanation) existing.explanation = w.explanation;
+            if (!existing.options && w.options) existing.options = w.options;
+            if (w.user_answer) existing.user_answer = w.user_answer;
+          } else {
+            trapMap.set(key, {
+              q_id: w.q_id || key,
+              q_num: w.q_num,
+              q_header: w.q_header || `Trap Question ${w.q_num || ''}`,
+              section_title: w.section_title || 'General Notes',
+              stem: w.stem,
+              options: w.options || null,
+              user_answer: w.user_answer,
+              correct_answer: w.correct_answer,
+              explanation: w.explanation,
+              times_missed: 1,
+              test_date: t.date
+            });
+          }
         });
       });
+
+      // Enrich trap questions missing options from questions collection
+      const missingOptionIds = Array.from(trapMap.values())
+        .filter(t => (!t.options || !t.explanation) && t.q_id && !t.q_id.startsWith('q_'))
+        .map(t => t.q_id);
+
+      if (missingOptionIds.length > 0) {
+        try {
+          const enrichQs = await db.collection('questions')
+            .find({ q_id: { $in: missingOptionIds } })
+            .project({ q_id: 1, options: 1, explanation: 1, stem: 1, correct_answer: 1, q_header: 1 })
+            .toArray();
+          const enrichMap = new Map(enrichQs.map(q => [q.q_id, q]));
+          for (const item of trapMap.values()) {
+            if (enrichMap.has(item.q_id)) {
+              const fullQ = enrichMap.get(item.q_id);
+              if (!item.options) item.options = fullQ.options;
+              if (!item.explanation && fullQ.explanation) item.explanation = fullQ.explanation;
+              if (!item.correct_answer && fullQ.correct_answer) item.correct_answer = fullQ.correct_answer;
+              if (!item.stem && fullQ.stem) item.stem = fullQ.stem;
+            }
+          }
+        } catch (enrichErr) {
+          console.warn('Trap questions enrichment error:', enrichErr.message);
+        }
+      }
+
+      trapQuestionsList = Array.from(trapMap.values())
+        .sort((a, b) => b.times_missed - a.times_missed);
 
       // Aggregate subtopic weakness across all past tests
       const subtopicMistakesAgg = {};
@@ -980,6 +1039,7 @@ app.get('/api/chapter-tests', checkDb, async (req, res) => {
         avg_score: avgScore,
         avg_accuracy: avgAccuracy,
         frequent_wrong_questions: frequentWrongQuestions,
+        trap_questions: trapQuestionsList || [],
         weak_subtopics: aggregatedWeakSubtopics
       }
     });

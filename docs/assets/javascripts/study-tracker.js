@@ -47,6 +47,186 @@
   const AUTH_STORAGE_KEY = 'uppcs_vault_auth_token_v1';
 
   // -------------------------------------------------------------
+  // CHAPTER PRIORITY TRACKER & TARGET ACCURACY SYSTEM
+  // Synced from /chapter-tracker/#chapter-priority-tracker
+  // Highly Important -> 100% Target | Medium -> 90% Target | Least -> 80% Target
+  // -------------------------------------------------------------
+  const HIGH_PRIORITY_CHAPTERS = new Set([
+    "ancient history:::04_Religious_Movements",
+    "ancient history:::07_Mauryan_Empire",
+    "ancient history:::02_Indus_Valley_Civilization",
+    "ancient history:::03_Vedic_Civilization",
+    "ancient history:::08_Post_Mauryan_India",
+    "ancient history:::13_Archaeology",
+    "ancient history:::uttarakhand/03_Kuninda_and_Yaudheya",
+    "ancient history:::uttarakhand/04_Kartikepur_Dynasty",
+    "medieval india:::02_Turkish_Invasions_Delhi_Sultanate",
+    "medieval india:::12_Later_Medieval_India",
+    "medieval india:::04_Bhakti_Sufi_Movements",
+    "medieval india:::03_Regional_Kingdoms",
+    "medieval india:::07_Mughal_Empire",
+    "medieval india:::05_Medieval_Literature",
+    "medieval india:::08_Sher_Shah_Suri",
+    "medieval india:::uttarakhand/02_Parmar_Dynasty_of_Garhwal",
+    "mordern india:::10_Books_and_Authors",
+    "mordern india:::02_East_India_Company_Expansion",
+    "mordern india:::03_Governors_General_and_Viceroys",
+    "mordern india:::15_Post_Independence_India",
+    "mordern india:::13_Gandhian_Era",
+    "mordern india:::08_Peasant_Tribal_Labour_Movements",
+    "mordern india:::14_Final_Phase_of_Freedom_Struggle",
+    "mordern india:::11_Swadeshi_and_Revolutionary_Movement",
+    "mordern india:::05_Revolt_of_1857",
+    "mordern india:::09_Rise_of_Nationalism",
+    "mordern india:::uttarakhand/04_Freedom_Movement_in_Uttarakhand",
+    "mordern india:::uttarakhand/01_Gorkha_Invasion_and_Rule",
+    "mordern india:::01_Gorkha_Invasion_and_Rule",
+    "mordern india:::uttarakhand/02_British_Rule_in_Uttarakhand",
+    "art and culture:::03_Indian_Architecture",
+    "art and culture:::08_Indian_Languages_and_Literature",
+    "art and culture:::11_Medieval_Indian_Cultural_History",
+    "art and culture:::02_Religious_and_Philosophical_Traditions",
+    "art and culture:::10_Ancient_Indian_History_Related_to_Culture",
+    "art and culture:::15_Archaeology",
+    "art and culture:::05_Indian_Music",
+    "art and culture:::uttarakhand/03_Heritage_and_Cultural_Institutes",
+    "art and culture:::uttarakhand/02_Dances_Music_and_Fairs",
+    "geography:::23_Political_Map_Geography",
+    "geography:::04_Lakes_Waterfalls_Water_Resources",
+    "geography:::18_World_Landforms",
+    "geography:::14_Earth_and_Universe",
+    "geography:::16_Oceans",
+    "geography:::07_Natural_Vegetation_Biodiversity",
+    "geography:::08_Minerals_Energy_Industry",
+    "geography:::21_World_Minerals_Energy",
+    "geography:::17_World_Rivers_and_Lakes",
+    "geography:::03_Drainage_System",
+    "geography:::02_Climate_of_India",
+    "geography:::01_Indian_Physical_Geography_Mountains_Hills",
+    "geography:::19_World_Regional_Geography",
+    "geography:::uttarakhand/07_Transport_Tourism_Natural_Hazards",
+    "geography:::uttarakhand/03_Vegetation_and_Wildlife",
+    "geography:::03_Vegetation_and_Wildlife",
+    "environments & ecology:::01_Environment_Basics",
+    "environments & ecology:::02_Ecology_and_Ecosystem",
+    "environments & ecology:::22_Renewable_Energy",
+    "environments & ecology:::38_Pollution_Advanced",
+    "environments & ecology:::06_Protected_Areas_and_Conservation",
+    "environments & ecology:::32_National_Parks_and_Protected_Areas_Advanced",
+    "environments & ecology:::36_Ozone_Layer",
+    "environments & ecology:::37_Greenhouse_Gases",
+    "environments & ecology:::18_International_Environmental_Agreements_and_Conferences",
+    "environments & ecology:::21_Species_and_Ecology",
+    "environments & ecology:::04_Biodiversity",
+    "environments & ecology:::15_Sustainable_Development_and_Environmental_Governance",
+    "environments & ecology:::25_Global_Environmental_Geography",
+    "environments & ecology:::27_Renewable_and_Non_Renewable_Energy",
+    "environments & ecology:::08_Forests_and_Forest_Management",
+    "environments & ecology:::09_Pollution_and_Waste_Management",
+    "environments & ecology:::34_Climate_Change_Advanced",
+    "environments & ecology:::07_Wildlife_Conservation",
+    "environments & ecology:::10_Climate_Change",
+    "environments & ecology:::uttarakhand/02_Biodiversity_and_Protected_Areas",
+    "environments & ecology:::02_Biodiversity_and_Protected_Areas",
+    "polity:::05_Fundamental_Rights_and_Duties",
+    "polity:::10_Local_Government",
+    "polity:::02_Features_of_the_Constitution",
+    "polity:::09_Judiciary",
+    "polity:::06_Union_Executive",
+    "polity:::01_Constitutional_Development",
+    "polity:::07_Parliament",
+    "polity:::13_Statutory_and_Non_Constitutional_Bodies",
+    "polity:::12_Constitutional_Bodies",
+    "polity:::uttarakhand/01_Constitutional_Framework_of_Uttarakhand",
+    "polity:::uttarakhand/06_Local_Government_Panchayati_Raj"
+  ]);
+
+  const MEDIUM_PRIORITY_CHAPTERS = new Set([
+    "ancient history:::01_Stone_Age",
+    "ancient history:::05_Sixth_Century_BCE",
+    "ancient history:::14_Ancient_India_Miscellaneous",
+    "ancient history:::06_Foreign_Invasions",
+    "ancient history:::09_Gupta_Age",
+    "medieval india:::11_Marathas",
+    "medieval india:::10_Sikhism",
+    "medieval india:::09_Rajputs",
+    "medieval india:::uttarakhand/03_Chand_Dynasty_of_Kumaon",
+    "mordern india:::04_British_Administration_and_Economy",
+    "mordern india:::06_Socio_Religious_Reform_Movements",
+    "art and culture:::01_Institutions_Related_to_Indian_Culture",
+    "art and culture:::16_Awards_Personalities_GI",
+    "art and culture:::14_Cultural_Heritage",
+    "art and culture:::04_Indian_Painting",
+    "geography:::20_World_Agriculture",
+    "geography:::uttar pradesh/24_Geography_of_Uttar_Pradesh",
+    "geography:::15_Geomorphology_and_Landform_Processes",
+    "geography:::06_Agriculture",
+    "geography:::09_Transport_Communication",
+    "geography:::05_Soils",
+    "geography:::uttarakhand/01_Location_Relief_Structure",
+    "geography:::01_Location_Relief_Structure",
+    "geography:::uttarakhand/05_Agriculture_Animal_Husbandry_Irrigation",
+    "geography:::05_Agriculture_Animal_Husbandry_Irrigation",
+    "geography:::uttarakhand/06_Population_SC_ST_Settlements",
+    "environments & ecology:::26_Water_Resources_and_Water_Conservation",
+    "environments & ecology:::35_Atmosphere",
+    "environments & ecology:::23_Disaster_and_Environment",
+    "environments & ecology:::42_International_Environmental_Organizations",
+    "environments & ecology:::05_Habitat_Flora_and_Fauna",
+    "environments & ecology:::11_Ozone_Layer",
+    "environments & ecology:::24_Current_Environmental_Issues",
+    "environments & ecology:::33_Biosphere_Reserves",
+    "environments & ecology:::41_Environmental_Monitoring",
+    "environments & ecology:::44_Current_Environmental_Issues",
+    "environments & ecology:::uttarakhand/03_Climate_Vulnerability_and_Governance",
+    "environments & ecology:::03_Climate_Vulnerability_and_Governance",
+    "polity:::16_Constitutional_Amendments",
+    "polity:::03_Parts_Articles_and_Schedules",
+    "polity:::14_Elections",
+    "polity:::04_Union_and_Territory",
+    "polity:::19_Acts_and_Governance",
+    "polity:::17_Language_and_Special_Provisions",
+    "polity:::11_Centre_State_Relations",
+    "polity:::08_State_Government",
+    "polity:::25_UP_Special",
+    "polity:::uttarakhand/03_High_Court_and_Jurisdiction",
+    "polity:::03_High_Court_and_Jurisdiction",
+    "polity:::uttarakhand/04_SC_ST_Minorities_Official_Language",
+    "polity:::04_SC_ST_Minorities_Official_Language",
+    "polity:::uttarakhand/07_Governance_and_Rights_Schemes"
+  ]);
+
+  function getChapterPriority(subject, topic) {
+    if (!subject || !topic) {
+      return { group: 'least', targetAccuracy: 80, label: 'Baseline Priority', badgeText: 'Target: 80% (Baseline)', badgeClass: 'st-badge-target-least' };
+    }
+    const s = subject.toLowerCase().trim();
+    const t = topic.trim();
+    const key = `${s}:::${t}`;
+
+    if (HIGH_PRIORITY_CHAPTERS.has(key)) {
+      return { group: 'high', targetAccuracy: 100, label: 'Highly Important', badgeText: 'Target: 100% (High Priority)', badgeClass: 'st-badge-target-high' };
+    }
+    if (MEDIUM_PRIORITY_CHAPTERS.has(key)) {
+      return { group: 'medium', targetAccuracy: 90, label: 'Medium Priority', badgeText: 'Target: 90% (Medium Priority)', badgeClass: 'st-badge-target-medium' };
+    }
+
+    // Try fuzzy match on topic slug
+    for (const h of HIGH_PRIORITY_CHAPTERS) {
+      if (h.startsWith(s + ':::') && (h.includes(t) || t.includes(h.split(':::')[1]))) {
+        return { group: 'high', targetAccuracy: 100, label: 'Highly Important', badgeText: 'Target: 100% (High Priority)', badgeClass: 'st-badge-target-high' };
+      }
+    }
+    for (const m of MEDIUM_PRIORITY_CHAPTERS) {
+      if (m.startsWith(s + ':::') && (m.includes(t) || t.includes(m.split(':::')[1]))) {
+        return { group: 'medium', targetAccuracy: 90, label: 'Medium Priority', badgeText: 'Target: 90% (Medium Priority)', badgeClass: 'st-badge-target-medium' };
+      }
+    }
+
+    return { group: 'least', targetAccuracy: 80, label: 'Least Important', badgeText: 'Target: 80% (Least Priority)', badgeClass: 'st-badge-target-least' };
+  }
+
+  // -------------------------------------------------------------
   // BASIC AUTH & SECURITY VAULT CONTROLLER
   // -------------------------------------------------------------
   function getStoredAuthToken() {
@@ -509,6 +689,8 @@
     const topicInfo = getCurrentTopicInfo();
     if (!topicInfo) return;
 
+    const priorityInfo = getChapterPriority(topicInfo.subject, topicInfo.topic);
+
     if (document.getElementById('study-topic-read-button-bar')) return;
 
     const contentInner = document.querySelector('.md-content__inner');
@@ -588,25 +770,30 @@
         </div>
       </div>
 
-      <!-- KPI Card 4: Accuracy & Trap Radar -->
-      <div class="st-kpi-card" id="st-kpi-radar">
+      <!-- KPI Card 4: Accuracy & Trap Radar (Expanded Hero Card) -->
+      <div class="st-kpi-card st-kpi-card-radar-hero" id="st-kpi-radar">
         <div class="st-kpi-header">
           <div class="st-kpi-title-wrap">
             <span class="st-kpi-icon">🧠</span>
-            <span class="st-kpi-label">Accuracy & Traps</span>
+            <span class="st-kpi-label" style="font-weight:700;">Accuracy & Traps</span>
           </div>
-          <span class="st-kpi-badge st-badge-indigo" id="st-kpi-acc-badge">Target: 80%+</span>
+          <span class="st-kpi-badge ${priorityInfo.badgeClass}" id="st-kpi-acc-badge" title="Target accuracy set based on UPPCS Chapter Priority Tracker">${priorityInfo.badgeText}</span>
         </div>
-        <div class="st-kpi-val" id="st-kpi-acc-val">—%</div>
-        <div class="st-kpi-sub" id="st-kpi-acc-sub">1/3rd Negative Marking Evaluated</div>
+        <div class="st-kpi-hero-val-wrap">
+          <div class="st-kpi-val" id="st-kpi-acc-val">—%</div>
+          <div class="st-kpi-target-indicator" id="st-kpi-target-gap">🎯 Target: ${priorityInfo.targetAccuracy}%</div>
+        </div>
+        <div class="st-kpi-sub st-kpi-sub-interactive" id="st-kpi-acc-sub" title="Click to view all detected recurring trap questions and explanations">
+          1/3rd Negative Marking Evaluated
+        </div>
         <div class="st-kpi-actions">
-          <button type="button" class="st-kpi-btn st-kpi-btn-ghost" id="st-btn-view-mistakes" title="Review questions answered wrong">
-            ⚠️ Trap Radar
+          <button type="button" class="st-kpi-btn st-btn-trap-radar" id="st-btn-view-mistakes" title="Inspect recurring trap areas & wrong questions">
+            ⚠️ Trap Radar <span class="st-trap-counter-badge" id="st-trap-counter" style="display:none;">0</span>
           </button>
           <button type="button" class="st-kpi-btn st-kpi-btn-outline" id="st-btn-toggle-weak" title="Map or unmap this chapter as a Weak Topic">
             📌 Flag Weak
           </button>
-          <span class="st-mongo-status is-connected" id="st-mongo-status" title="MongoDB Connection Status" style="margin-left:auto;">● Atlas</span>
+          <span class="st-mongo-status is-connected" id="st-mongo-status" title="MongoDB Connection Status" style="margin-left:auto;">● Atlas Live</span>
         </div>
       </div>
     `;
@@ -634,7 +821,8 @@
     document.getElementById('st-btn-all-questions')?.addEventListener('click', () => openTestEngineModal(topicInfo));
     document.getElementById('st-btn-quick-10')?.addEventListener('click', () => openTestEngineModal(topicInfo, { autoStartCount: 10 }));
     document.getElementById('st-btn-view-scores')?.addEventListener('click', () => openPastScoresModal(topicInfo));
-    document.getElementById('st-btn-view-mistakes')?.addEventListener('click', () => openPastScoresModal(topicInfo));
+    document.getElementById('st-btn-view-mistakes')?.addEventListener('click', () => openTrapRadarModal(topicInfo));
+    document.getElementById('st-kpi-acc-sub')?.addEventListener('click', () => openTrapRadarModal(topicInfo));
 
     // Weak Topic Toggle Listener
     const weakBtn = document.getElementById('st-btn-toggle-weak');
@@ -938,6 +1126,10 @@
     const accVal = document.getElementById('st-kpi-acc-val');
     const accSub = document.getElementById('st-kpi-acc-sub');
     const accBadge = document.getElementById('st-kpi-acc-badge');
+    const targetGapEl = document.getElementById('st-kpi-target-gap');
+    const trapBadge = document.getElementById('st-trap-counter');
+
+    const priorityInfo = getChapterPriority(topicInfo.subject, topicInfo.topic);
 
     // Check local tests
     const localTests = getLocalTopicTests(topicInfo.subject, topicInfo.topic);
@@ -959,7 +1151,25 @@
       }
       avgAccuracy = Number((localTests.reduce((acc, t) => acc + (Number(t.accuracy_pct) || 0), 0) / localTests.length).toFixed(1));
       if (accVal) accVal.textContent = `${avgAccuracy}%`;
-      if (accBadge) accBadge.textContent = avgAccuracy >= 80 ? 'Mastered' : 'Progressing';
+
+      if (avgAccuracy >= priorityInfo.targetAccuracy) {
+        if (accBadge) {
+          accBadge.textContent = `🎯 Target Met (${avgAccuracy}%)`;
+          accBadge.className = 'st-kpi-badge st-badge-green';
+        }
+        if (targetGapEl) {
+          targetGapEl.innerHTML = `<span style="color:#10b981;font-weight:700;">✔ Target Met (${avgAccuracy}% / ${priorityInfo.targetAccuracy}%)</span>`;
+        }
+      } else {
+        const gap = (priorityInfo.targetAccuracy - avgAccuracy).toFixed(1);
+        if (accBadge) {
+          accBadge.textContent = `⚠️ Focus Area (${avgAccuracy}%)`;
+          accBadge.className = `st-kpi-badge ${priorityInfo.badgeClass}`;
+        }
+        if (targetGapEl) {
+          targetGapEl.innerHTML = `<span style="color:#ef4444;font-weight:600;">-${gap}% to ${priorityInfo.targetAccuracy}% Target</span>`;
+        }
+      }
     }
 
     // Check MongoDB API
@@ -981,14 +1191,45 @@
             scoreSub.textContent = `Accuracy: ${latest.accuracy_pct}% (${latest.correct}✔ / ${latest.incorrect}✖)`;
           }
 
-          avgAccuracy = data.summary?.avg_accuracy || (attempts.reduce((acc, t) => acc + (t.accuracy_pct || 0), 0) / attempts.length).toFixed(1);
+          avgAccuracy = Number(data.summary?.avg_accuracy || (attempts.reduce((acc, t) => acc + (t.accuracy_pct || 0), 0) / attempts.length).toFixed(1));
           if (accVal) accVal.textContent = `${avgAccuracy}%`;
-          if (accBadge) accBadge.textContent = avgAccuracy >= 80 ? 'Mastered' : (avgAccuracy >= 60 ? 'Strong' : 'Focus Needed');
 
-          const wrongKeys = Object.keys(data.summary?.frequent_wrong_questions || {});
-          frequentWrongCount = wrongKeys.length;
+          // Evaluate against priority target accuracy (100% High, 90% Medium, 80% Least)
+          if (avgAccuracy >= priorityInfo.targetAccuracy) {
+            if (accBadge) {
+              accBadge.textContent = `🎯 Target Met (${avgAccuracy}%)`;
+              accBadge.className = 'st-kpi-badge st-badge-green';
+            }
+            if (targetGapEl) {
+              targetGapEl.innerHTML = `<span style="color:#10b981;font-weight:700;">✔ Target Met (${avgAccuracy}% / ${priorityInfo.targetAccuracy}%)</span>`;
+            }
+          } else {
+            const gap = (priorityInfo.targetAccuracy - avgAccuracy).toFixed(1);
+            if (accBadge) {
+              accBadge.textContent = `⚠️ Focus Area (${avgAccuracy}%)`;
+              accBadge.className = `st-kpi-badge ${priorityInfo.badgeClass}`;
+            }
+            if (targetGapEl) {
+              targetGapEl.innerHTML = `<span style="color:#ef4444;font-weight:600;">-${gap}% to ${priorityInfo.targetAccuracy}% Target</span>`;
+            }
+          }
+
+          const trapList = data.summary?.trap_questions || [];
+          frequentWrongCount = trapList.length || Object.keys(data.summary?.frequent_wrong_questions || {}).length;
+
           if (accSub) {
-            accSub.textContent = frequentWrongCount > 0 ? `${frequentWrongCount} recurring trap area${frequentWrongCount > 1 ? 's' : ''} detected` : 'No recurring mistakes';
+            accSub.innerHTML = frequentWrongCount > 0
+              ? `⚠️ <strong>${frequentWrongCount} recurring trap area${frequentWrongCount > 1 ? 's' : ''} detected</strong> <span style="font-size:0.75rem;opacity:0.85;">(Click to inspect & drill)</span>`
+              : 'No recurring trap areas detected';
+          }
+
+          if (trapBadge) {
+            if (frequentWrongCount > 0) {
+              trapBadge.textContent = frequentWrongCount.toString();
+              trapBadge.style.display = 'inline-block';
+            } else {
+              trapBadge.style.display = 'none';
+            }
           }
 
           window.__TOPIC_PAST_TESTS__ = data;
@@ -1125,33 +1366,42 @@
     `);
 
     let loadedQuestions = [];
-    try {
-      const res = await authFetch(`${API_BASE}/chapter-questions?subject=${encodeURIComponent(topicInfo.subject)}&topic=${encodeURIComponent(topicInfo.topic)}&shuffle=true`);
-      if (res.ok) {
-        const data = await res.json();
-        if (data.questions && data.questions.length > 0) {
-          loadedQuestions = data.questions;
+    if (testOptions.customQuestions && testOptions.customQuestions.length > 0) {
+      loadedQuestions = testOptions.customQuestions.map((q, idx) => ({
+        ...q,
+        q_num: idx + 1,
+        display_num: idx + 1,
+        options: (q.options && typeof q.options === 'object') ? q.options : { A: 'Option A', B: 'Option B', C: 'Option C', D: 'Option D' }
+      }));
+    } else {
+      try {
+        const res = await authFetch(`${API_BASE}/chapter-questions?subject=${encodeURIComponent(topicInfo.subject)}&topic=${encodeURIComponent(topicInfo.topic)}&shuffle=true`);
+        if (res.ok) {
+          const data = await res.json();
+          if (data.questions && data.questions.length > 0) {
+            loadedQuestions = data.questions;
+          }
         }
+      } catch (e) {
+        console.warn('Backend questions fetch failed:', e);
       }
-    } catch (e) {
-      console.warn('Backend questions fetch failed:', e);
-    }
 
-    // Fallback to DOM questions if database returned 0
-    if (loadedQuestions.length === 0) {
-      const domQuestions = extractChapterQuestions();
-      if (domQuestions.length > 0) {
-        loadedQuestions = domQuestions.map((q, idx) => ({
-          q_id: `${topicInfo.subject}_${topicInfo.topic}_${idx + 1}`.replace(/[^a-z0-9_]/gi, '_').toLowerCase(),
-          q_num: idx + 1,
-          q_header: q.q_header || `Question ${idx + 1}`,
-          category: q.category || 'practice',
-          section_title: q.section_title || '',
-          stem: q.stem,
-          options: q.options,
-          correct_answer: q.correct_answer,
-          explanation: q.explanation_html
-        }));
+      // Fallback to DOM questions if database returned 0
+      if (loadedQuestions.length === 0) {
+        const domQuestions = extractChapterQuestions();
+        if (domQuestions.length > 0) {
+          loadedQuestions = domQuestions.map((q, idx) => ({
+            q_id: `${topicInfo.subject}_${topicInfo.topic}_${idx + 1}`.replace(/[^a-z0-9_]/gi, '_').toLowerCase(),
+            q_num: idx + 1,
+            q_header: q.q_header || `Question ${idx + 1}`,
+            category: q.category || 'practice',
+            section_title: q.section_title || '',
+            stem: q.stem,
+            options: q.options,
+            correct_answer: q.correct_answer,
+            explanation: q.explanation_html
+          }));
+        }
       }
     }
 
@@ -1173,10 +1423,18 @@
     let selectedAnswers = {};   // { [q_id]: 'A' | 'B' | 'C' | 'D' }
     let flaggedQuestions = {};  // { [q_id]: true }
     let visitedQuestions = {};  // { [q_id]: true }
-    let testMode = 'exam';      // 'exam' or 'practice'
+    let testMode = testOptions.testMode || 'exam'; // 'exam' or 'practice'
     let questionSubset = [...loadedQuestions];
     let testStartTime = Date.now();
     let timerInterval = null;
+
+    // Direct launch if custom trap questions drill
+    if (testOptions.customQuestions && testOptions.customQuestions.length > 0) {
+      questionSubset = loadedQuestions;
+      testMode = 'practice';
+      startActiveQuiz();
+      return;
+    }
 
     // Question Categorization Helper
     function categorizeQuestion(q) {
@@ -2203,6 +2461,296 @@
   }
 
   // -------------------------------------------------------------
+  // 3b. IN-CHAPTER TRAP RADAR & MISTAKE VAULT MODAL
+  // -------------------------------------------------------------
+  async function openTrapRadarModal(topicInfo, testData) {
+    const priorityInfo = getChapterPriority(topicInfo.subject, topicInfo.topic);
+
+    showModal(`⚠️ Trap Radar & Mistake Vault: ${topicInfo.title}`, `
+      <div class="st-loading-spinner" style="padding: 2.5rem 1rem;">
+        <div class="st-spinner"></div>
+        <p style="margin-top:0.75rem;"><strong>Scanning recurring trap questions...</strong></p>
+        <small style="color: var(--md-default-fg-color--light);">Cross-referencing your test attempts in MongoDB Atlas</small>
+      </div>
+    `);
+
+    let data = testData || window.__TOPIC_PAST_TESTS__;
+    if (!data) {
+      try {
+        const res = await authFetch(`${API_BASE}/chapter-tests?subject=${encodeURIComponent(topicInfo.subject)}&topic=${encodeURIComponent(topicInfo.topic)}`);
+        if (res.ok) {
+          data = await res.json();
+          window.__TOPIC_PAST_TESTS__ = data;
+        }
+      } catch (err) {
+        console.warn('Failed to load past test traps:', err);
+      }
+    }
+
+    const localTests = getLocalTopicTests(topicInfo.subject, topicInfo.topic);
+    let trapQuestions = data?.summary?.trap_questions || [];
+
+    // Fallback if summary.trap_questions is empty: aggregate from attempts or local tests
+    if (trapQuestions.length === 0) {
+      const trapMap = new Map();
+      const allAttempts = (data?.attempts && data.attempts.length > 0) ? data.attempts : localTests;
+      allAttempts.forEach(t => {
+        (t.wrong_questions || []).forEach(w => {
+          const key = w.q_id || (w.stem ? w.stem.substring(0, 100) : `q_${w.q_num}`);
+          if (trapMap.has(key)) {
+            const existing = trapMap.get(key);
+            existing.times_missed += 1;
+            if (!existing.options && w.options) existing.options = w.options;
+            if (!existing.explanation && w.explanation) existing.explanation = w.explanation;
+          } else {
+            trapMap.set(key, {
+              q_id: w.q_id || key,
+              q_num: w.q_num,
+              q_header: w.q_header || `Trap Question ${w.q_num || ''}`,
+              section_title: w.section_title || 'General Notes',
+              stem: w.stem,
+              options: w.options || null,
+              user_answer: w.user_answer,
+              correct_answer: w.correct_answer,
+              explanation: w.explanation,
+              times_missed: 1,
+              test_date: t.date
+            });
+          }
+        });
+      });
+      trapQuestions = Array.from(trapMap.values()).sort((a, b) => b.times_missed - a.times_missed);
+    }
+
+    // Auto-enrich any trap questions that lack options by fetching full question bank
+    const missingOptionTraps = trapQuestions.filter(t => !t.options && t.q_id);
+    if (missingOptionTraps.length > 0) {
+      try {
+        const qRes = await authFetch(`${API_BASE}/chapter-questions?subject=${encodeURIComponent(topicInfo.subject)}&topic=${encodeURIComponent(topicInfo.topic)}`);
+        if (qRes.ok) {
+          const qData = await qRes.json();
+          if (qData.questions && qData.questions.length > 0) {
+            const qMap = new Map(qData.questions.map(q => [q.q_id, q]));
+            trapQuestions.forEach(t => {
+              if (qMap.has(t.q_id)) {
+                const fullQ = qMap.get(t.q_id);
+                if (!t.options) t.options = fullQ.options;
+                if (!t.explanation && fullQ.explanation) t.explanation = fullQ.explanation;
+                if (!t.correct_answer && fullQ.correct_answer) t.correct_answer = fullQ.correct_answer;
+                if (!t.stem && fullQ.stem) t.stem = fullQ.stem;
+              }
+            });
+          }
+        }
+      } catch (err) {}
+    }
+
+    const modalBox = document.getElementById('st-modal-box');
+    if (modalBox) modalBox.classList.add('st-modal-wide');
+
+    if (trapQuestions.length === 0) {
+      const emptyHtml = `
+        <div class="st-empty-state" style="padding: 2.5rem 1.5rem; text-align: center;">
+          <div style="font-size: 2.5rem; margin-bottom: 0.5rem;">🎯</div>
+          <h3 style="margin-bottom: 0.5rem;">No Recurring Traps Detected Yet!</h3>
+          <p style="color: var(--md-default-fg-color--light); max-width: 500px; margin: 0 auto 1.5rem; line-height: 1.5;">
+            You haven't recorded recurring mistakes on <strong>${escapeHtml(topicInfo.title)}</strong> yet.<br/>
+            Target Accuracy for this chapter is <strong>${priorityInfo.targetAccuracy}% (${priorityInfo.label})</strong>.
+          </p>
+          <div style="display: flex; gap: 0.75rem; justify-content: center;">
+            <button type="button" class="st-btn st-btn-primary" id="st-btn-trap-start-test">
+              🚀 Launch Practice Test Drill
+            </button>
+            <button type="button" class="st-btn st-btn-outline" id="st-btn-trap-close">
+              Close
+            </button>
+          </div>
+        </div>
+      `;
+      showModal(`⚠️ Trap Radar: ${topicInfo.title}`, emptyHtml);
+      document.getElementById('st-btn-trap-close')?.addEventListener('click', closeModal);
+      document.getElementById('st-btn-trap-start-test')?.addEventListener('click', () => {
+        closeModal();
+        openTestEngineModal(topicInfo);
+      });
+      return;
+    }
+
+    // Build the Trap Radar UI
+    const html = `
+      <div class="st-trap-modal-card">
+        <div class="st-trap-header-bar">
+          <div style="display:flex; align-items:center; gap:0.6rem; flex-wrap:wrap;">
+            <span class="st-trap-summary-pill">
+              ⚠️ ${trapQuestions.length} Recurring Trap Area${trapQuestions.length > 1 ? 's' : ''} Identified
+            </span>
+            <span class="st-kpi-badge ${priorityInfo.badgeClass}" style="font-size:0.78rem;">
+              🎯 Target: ${priorityInfo.targetAccuracy}% (${priorityInfo.label})
+            </span>
+          </div>
+          <div style="display:flex; align-items:center; gap:0.5rem;">
+            <button type="button" class="st-trap-drill-all-btn" id="st-btn-drill-all-traps" title="Launch CBT Practice Quiz on these exact trap questions">
+              ⚡ Drill All ${trapQuestions.length} Traps (CBT Mode)
+            </button>
+          </div>
+        </div>
+
+        <div style="padding: 0.75rem 1.25rem 0.25rem; display:flex; align-items:center; justify-content:space-between; gap:1rem; border-bottom: 1px solid var(--md-default-fg-color--lightest);">
+          <input type="text" id="st-trap-search-input" placeholder="🔍 Filter trap questions by keyword, subtopic or question stem..." 
+            style="flex:1; padding:0.45rem 0.75rem; border:1px solid var(--md-default-fg-color--lighter); border-radius:0.45rem; font-size:0.85rem; background:var(--md-default-bg-color); color:var(--md-default-fg-color);" />
+          <small style="color:var(--md-default-fg-color--light); white-space:nowrap;">Showing <strong id="st-trap-visible-count">${trapQuestions.length}</strong> traps</small>
+        </div>
+
+        <div class="st-trap-list" id="st-trap-cards-container">
+          ${trapQuestions.map((q, idx) => {
+            const hasOptionsObj = q.options && typeof q.options === 'object' && Object.keys(q.options).length > 0;
+            const userPick = (q.user_answer || '').toUpperCase().trim();
+            const correctAns = (q.correct_answer || '').toUpperCase().trim();
+
+            return `
+              <div class="st-trap-card" data-stem="${escapeHtml((q.stem || '') + ' ' + (q.section_title || '')).toLowerCase()}">
+                <div class="st-trap-card-meta">
+                  <div class="st-trap-meta-left">
+                    <span class="st-trap-tag-num">Trap #${idx + 1}</span>
+                    ${q.section_title ? `
+                      <span class="st-trap-tag-subtopic" data-section="${escapeHtml(q.section_title)}" title="Click to jump directly to this heading in the notes">
+                        📂 ${escapeHtml(q.section_title)} ↗
+                      </span>
+                    ` : ''}
+                    ${q.q_header ? `<small style="color:var(--md-default-fg-color--light);">${escapeHtml(q.q_header)}</small>` : ''}
+                  </div>
+                  <span class="st-trap-miss-pill">
+                    ❌ Missed in ${q.times_missed || 1} test${q.times_missed > 1 ? 's' : ''}
+                  </span>
+                </div>
+
+                <div class="st-trap-stem">${escapeHtml(q.stem || 'Question content')}</div>
+
+                ${hasOptionsObj ? `
+                  <div class="st-trap-options-grid">
+                    ${Object.entries(q.options).map(([optKey, optVal]) => {
+                      const k = optKey.toUpperCase();
+                      const isUserWrong = (k === userPick && userPick !== correctAns);
+                      const isCorrect = (k === correctAns);
+                      let optClass = '';
+                      let badge = '';
+                      if (isUserWrong) {
+                        optClass = 'st-trap-opt-is-user-wrong';
+                        badge = '<strong style="margin-left:auto; font-size:0.75rem; color:#dc2626;">❌ Your Selection</strong>';
+                      } else if (isCorrect) {
+                        optClass = 'st-trap-opt-is-correct';
+                        badge = '<strong style="margin-left:auto; font-size:0.75rem; color:#059669;">✔️ Correct Answer</strong>';
+                      }
+
+                      return `
+                        <div class="st-trap-option-item ${optClass}">
+                          <div class="st-trap-opt-letter">${k}</div>
+                          <div style="flex:1;">${escapeHtml(optVal)}</div>
+                          ${badge}
+                        </div>
+                      `;
+                    }).join('')}
+                  </div>
+                ` : `
+                  <div class="st-detail-answer-bar" style="margin-bottom:0.85rem;">
+                    <span style="color:#ef4444;">Your Attempt: <strong>${escapeHtml(userPick || 'None')}</strong> ❌</span>
+                    <span style="color:#10b981;">Correct Answer: <strong>Option ${escapeHtml(correctAns)}</strong> ✅</span>
+                  </div>
+                `}
+
+                ${q.explanation ? `
+                  <div class="st-trap-expl-card">
+                    <strong>💡 Concept & Trap Breakdown:</strong><br/>
+                    ${escapeHtml(q.explanation).replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')}
+                  </div>
+                ` : ''}
+
+                <div class="st-trap-actions">
+                  ${q.section_title ? `
+                    <button type="button" class="st-trap-action-btn st-jump-btn" data-section="${escapeHtml(q.section_title)}">
+                      📖 Jump to Note Section
+                    </button>
+                  ` : ''}
+                  <button type="button" class="st-trap-action-btn st-drill-single-btn" data-idx="${idx}" style="color:var(--md-primary-fg-color, #273c75); font-weight:700;">
+                    ⚡ Practice This Trap
+                  </button>
+                </div>
+              </div>
+            `;
+          }).join('')}
+        </div>
+
+        <div class="st-form-actions" style="padding:0.75rem 1.25rem; border-top:1px solid var(--md-default-fg-color--lightest); margin:0;">
+          <button type="button" class="st-btn st-btn-outline" id="st-trap-modal-close">Close</button>
+          <button type="button" class="st-btn st-btn-primary" id="st-trap-modal-drill-bottom">
+            ⚡ Drill All ${trapQuestions.length} Traps Now
+          </button>
+        </div>
+      </div>
+    `;
+
+    showModal(`⚠️ Trap Radar & Mistake Vault: ${topicInfo.title}`, html);
+
+    // Wire up events
+    document.getElementById('st-trap-modal-close')?.addEventListener('click', closeModal);
+
+    const startDrillAll = () => {
+      closeModal();
+      openTestEngineModal(topicInfo, {
+        customQuestions: trapQuestions,
+        testMode: 'practice'
+      });
+    };
+
+    document.getElementById('st-btn-drill-all-traps')?.addEventListener('click', startDrillAll);
+    document.getElementById('st-trap-modal-drill-bottom')?.addEventListener('click', startDrillAll);
+
+    // Single trap drill
+    document.querySelectorAll('.st-drill-single-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const idx = Number(btn.getAttribute('data-idx'));
+        const singleQ = trapQuestions[idx];
+        if (singleQ) {
+          closeModal();
+          openTestEngineModal(topicInfo, {
+            customQuestions: [singleQ],
+            testMode: 'practice'
+          });
+        }
+      });
+    });
+
+    // Jump to section in notes
+    document.querySelectorAll('.st-jump-btn, .st-trap-tag-subtopic').forEach(el => {
+      el.addEventListener('click', () => {
+        const sec = el.getAttribute('data-section');
+        if (sec) {
+          closeModal();
+          scrollToSubtopicHeading(sec);
+        }
+      });
+    });
+
+    // Search filter
+    const searchInput = document.getElementById('st-trap-search-input');
+    const counterEl = document.getElementById('st-trap-visible-count');
+    searchInput?.addEventListener('input', (e) => {
+      const q = e.target.value.toLowerCase().trim();
+      let visible = 0;
+      document.querySelectorAll('#st-trap-cards-container .st-trap-card').forEach(card => {
+        const text = card.getAttribute('data-stem') || '';
+        if (!q || text.includes(q)) {
+          card.style.display = 'block';
+          visible++;
+        } else {
+          card.style.display = 'none';
+        }
+      });
+      if (counterEl) counterEl.textContent = visible.toString();
+    });
+  }
+
+  // -------------------------------------------------------------
   // 4. CHAPTER LOGS & UPDATE MODAL
   // -------------------------------------------------------------
   function openChapterLogsModal(topicInfo) {
@@ -2425,9 +2973,37 @@
     const rows = document.querySelectorAll('.ct-row');
     if (!rows.length) return;
 
+    // Enhance group titles with target accuracy
+    document.querySelectorAll('.ct-group-title').forEach(title => {
+      if (title.getAttribute('data-target-enhanced')) return;
+      title.setAttribute('data-target-enhanced', 'true');
+      const text = title.textContent.trim().toLowerCase();
+      if (text.includes('highly')) {
+        title.innerHTML = `Highly Important <span class="ct-target-pill ct-target-high">🎯 Target Accuracy: 100%</span>`;
+      } else if (text.includes('medium')) {
+        title.innerHTML = `Medium Priority <span class="ct-target-pill ct-target-medium">🎯 Target Accuracy: 90%</span>`;
+      } else if (text.includes('least')) {
+        title.innerHTML = `Least Priority <span class="ct-target-pill ct-target-least">🎯 Target Accuracy: 80%</span>`;
+      }
+    });
+
     const localLogs = getLocalLogs();
 
     rows.forEach((row) => {
+      // 1. Inject Target Accuracy Badge if not present
+      if (!row.querySelector('.ct-target-pill')) {
+        const group = row.getAttribute('data-group') || (row.closest('.ct-list--high') ? 'high' : (row.closest('.ct-list--medium') ? 'medium' : 'least'));
+        const targetPct = group === 'high' ? 100 : (group === 'medium' ? 90 : 80);
+        const pillsWrap = row.querySelector('.ct-pills');
+        if (pillsWrap) {
+          const targetBadge = document.createElement('span');
+          targetBadge.className = `ct-target-pill ct-target-${group}`;
+          targetBadge.innerHTML = `🎯 Target: ${targetPct}%`;
+          targetBadge.title = `UPPCS Target Accuracy: ${targetPct}% (${group === 'high' ? 'Highly Important' : (group === 'medium' ? 'Medium Priority' : 'Least Important')})`;
+          pillsWrap.insertAdjacentElement('afterend', targetBadge);
+        }
+      }
+
       if (row.querySelector('.ct-read-badge-inline')) return;
 
       const titleEl = row.querySelector('.ct-title');
