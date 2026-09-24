@@ -20,3 +20,7 @@
 !/.github/**
 !/docs/
 !/docs/**
+
+node_modules/
+.env
+

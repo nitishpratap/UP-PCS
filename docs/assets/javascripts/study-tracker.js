@@ -11,20 +11,31 @@
  * 4. Central Dashboard & Chapter Priority Tracker Integration.
  */
 (() => {
+  // Put your Render URL here once deployed (e.g. 'https://uppcs-tracker.onrender.com/api')
+  const PROD_API_URL = '';
+
   function resolveApiBase() {
     try {
       const custom = localStorage.getItem('uppcs_api_base');
       if (custom) return custom;
       if (typeof window !== 'undefined' && window.location) {
         const hostname = window.location.hostname;
-        const proto = window.location.protocol === 'https:' ? 'https:' : 'http:';
-        // If loaded directly from port 5000
-        if (window.location.port === '5000') {
-          return `${proto}//${window.location.host}/api`;
+        // If on GitHub Pages and PROD_API_URL is configured
+        if (hostname.endsWith('github.io') && PROD_API_URL) {
+          return PROD_API_URL;
         }
-        // If accessed via Wi-Fi IP or any LAN hostname
-        if (hostname && hostname !== 'localhost' && hostname !== '127.0.0.1') {
-          return `${proto}//${hostname}:5000/api`;
+        // If running directly on port 5000 (local dev)
+        if (window.location.port === '5000') {
+          return `${window.location.protocol}//${window.location.host}/api`;
+        }
+        // Only if accessed via private Wi-Fi / LAN IP (e.g. 192.168.x.x)
+        const isLan = /^(192\.168\.|10\.|172\.(1[6-9]|2[0-9]|3[0-1])\.)/.test(hostname);
+        if (isLan) {
+          return `http://${hostname}:5000/api`;
+        }
+        // If PROD_API_URL is set, use it on any other domain
+        if (PROD_API_URL) {
+          return PROD_API_URL;
         }
       }
     } catch {}
@@ -573,17 +584,6 @@
     document.getElementById('st-btn-quick-10')?.addEventListener('click', () => openTestEngineModal(topicInfo, { autoStartCount: 10 }));
     document.getElementById('st-btn-view-scores')?.addEventListener('click', () => openPastScoresModal(topicInfo));
     document.getElementById('st-btn-view-mistakes')?.addEventListener('click', () => openPastScoresModal(topicInfo));
-
-    // Make MongoDB status pill tap-configurable for mobile devices
-    const mongoStatusEl = document.getElementById('st-mongo-status');
-    mongoStatusEl?.addEventListener('click', () => {
-      const current = localStorage.getItem('uppcs_api_base') || API_BASE;
-      const custom = prompt(`📡 Study Tracker API URL:\nCurrent: ${current}\n\nTo point to your PC from your phone, enter your PC IP (e.g. http://192.168.0.101:5000/api):`, current);
-      if (custom && custom.trim() && custom !== current) {
-        localStorage.setItem('uppcs_api_base', custom.trim());
-        location.reload();
-      }
-    });
 
     // Weak Topic Toggle Listener
     const weakBtn = document.getElementById('st-btn-toggle-weak');
