@@ -11,8 +11,8 @@
  * 4. Central Dashboard & Chapter Priority Tracker Integration.
  */
 (() => {
-  // Put your Render URL here once deployed (e.g. 'https://uppcs-tracker.onrender.com/api')
-  const PROD_API_URL = '';
+  // Live Render production server URL
+  const PROD_API_URL = 'https://up-pcs.onrender.com/api';
 
   function resolveApiBase() {
     try {
