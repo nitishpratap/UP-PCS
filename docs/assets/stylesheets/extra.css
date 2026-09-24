@@ -6388,7 +6388,7 @@ body.st-vault-locked .md-header {
   position: absolute;
   bottom: calc(100% + 0.65rem);
   right: 0;
-  width: 290px;
+  width: 310px;
   background: rgba(255, 255, 255, 0.96);
   backdrop-filter: blur(20px);
   -webkit-backdrop-filter: blur(20px);
@@ -6555,4 +6555,50 @@ body.st-zen-focus-active .md-content {
 
 body.st-zen-focus-active .st-reading-clock-widget {
   box-shadow: 0 0 0 3px rgba(16, 185, 129, 0.4), 0 12px 35px rgba(0, 0, 0, 0.45);
+}
+
+.st-hud-plan-banner {
+  margin: 0.6rem 0;
+  padding: 0.55rem 0.7rem;
+  border-radius: 0.55rem;
+  background: rgba(237, 233, 254, 0.6);
+  border: 1px solid rgba(139, 92, 246, 0.25);
+}
+
+[data-md-color-scheme="slate"] .st-hud-plan-banner {
+  background: rgba(139, 92, 246, 0.15);
+  border-color: rgba(139, 92, 246, 0.35);
+}
+
+.st-hud-plan-title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: #5b21b6;
+}
+
+[data-md-color-scheme="slate"] .st-hud-plan-title {
+  color: #c4b5fd;
+}
+
+.st-hud-plan-badge {
+  font-size: 0.65rem;
+  font-weight: 800;
+  padding: 0.1rem 0.4rem;
+  border-radius: 9999px;
+  background: rgba(245, 158, 11, 0.18);
+  color: #b45309;
+}
+
+[data-md-color-scheme="slate"] .st-hud-plan-badge {
+  background: rgba(245, 158, 11, 0.25);
+  color: #fde68a;
+}
+
+.st-hud-plan-sub {
+  font-size: 0.68rem;
+  color: var(--md-default-fg-color--light);
+  margin-top: 0.2rem;
 }

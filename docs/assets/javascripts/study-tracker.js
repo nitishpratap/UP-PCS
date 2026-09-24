@@ -1445,6 +1445,14 @@
     widget.id = 'st-reading-clock-widget';
     widget.title = `Today's reading time for ${topicInfo.title || topicInfo.topic}. Accumulates till midnight.`;
     const todayTotalStudySec = getDailyStudyTimeRecord(todayStr).totalSeconds || 0;
+    const initialPlan = getLocalDailyPlanner(todayStr);
+    const initialTopics = initialPlan.reading_topics || [];
+    const todayPlannedCount = initialTopics.length;
+    const todayAchievedCount = initialTopics.filter(t => t.status === 'achieved').length;
+    const todayPendingCount = initialTopics.filter(t => t.status !== 'achieved').length;
+    const initialTasks = initialPlan.daily_tasks || [];
+    const todayTasksCount = initialTasks.length;
+    const todayTasksDone = initialTasks.filter(t => t.completed).length;
     widget.innerHTML = `
       <div class="st-clock-icon-wrap" id="st-clock-icon-btn" title="Click for Focus & Time Radar HUD">
         <span>⏱️</span>
@@ -1484,7 +1492,27 @@
             <span class="st-hud-stat-num" id="st-hud-day-time">${formatDurationDisplay(todayTotalStudySec)}</span>
             <span class="st-hud-stat-lbl">Total Today</span>
           </div>
+          <div class="st-hud-stat-box">
+            <span class="st-hud-stat-num" id="st-hud-targets-count">${todayAchievedCount}/${todayPlannedCount}</span>
+            <span class="st-hud-stat-lbl">Targets Conquered</span>
+          </div>
+          <div class="st-hud-stat-box">
+            <span class="st-hud-stat-num" id="st-hud-tasks-count">${todayTasksDone}/${todayTasksCount}</span>
+            <span class="st-hud-stat-lbl">Tasks Done</span>
+          </div>
         </div>
+
+        <!-- Today's Plan Summary -->
+        <div class="st-hud-plan-banner">
+          <div class="st-hud-plan-title">
+            <span>🎯 Today's Study Plan</span>
+            <span class="st-hud-plan-badge" id="st-hud-plan-badge">${todayPendingCount} Remaining</span>
+          </div>
+          <div class="st-hud-plan-sub" id="st-hud-plan-summary">
+            ${todayPlannedCount} Chapters Planned &bull; ${todayPendingCount} Pending till 11:59 PM
+          </div>
+        </div>
+
         <div class="st-hud-actions-row" style="margin-top:0.4rem;">
           <a href="${getSiteBasePath()}tracker-dashboard/" class="st-hud-action-btn is-ghost" id="st-hud-open-dash" style="width:100%; text-align:center; padding:0.45rem;">
             📊 Open Prep Tracker Dashboard
@@ -1696,13 +1724,30 @@
         const totSec = (getDailyStudyTimeRecord(todayStr).totalSeconds || 0);
         const chapTimeEl = widget.querySelector('#st-hud-chap-time');
         const dayTimeEl = widget.querySelector('#st-hud-day-time');
-        const progPctEl = widget.querySelector('#st-hud-prog-pct');
-        const progFillEl = widget.querySelector('#st-hud-prog-fill');
         if (chapTimeEl) chapTimeEl.textContent = formatDurationDisplay(curSec);
         if (dayTimeEl) dayTimeEl.textContent = formatDurationDisplay(totSec);
-        const pct = Math.min(100, Math.round((curSec / 1800) * 100));
-        if (progPctEl) progPctEl.textContent = pct + '%';
-        if (progFillEl) progFillEl.style.width = pct + '%';
+
+        // Refresh plan counts on HUD open
+        const freshPlan = getLocalDailyPlanner(todayStr);
+        const freshTopics = freshPlan.reading_topics || [];
+        const freshPlannedCount = freshTopics.length;
+        const freshAchievedCount = freshTopics.filter(t => t.status === 'achieved').length;
+        const freshPendingCount = freshTopics.filter(t => t.status !== 'achieved').length;
+        const freshTasks = freshPlan.daily_tasks || [];
+        const freshTasksCount = freshTasks.length;
+        const freshTasksDone = freshTasks.filter(t => t.completed).length;
+
+        const targetsCountEl = widget.querySelector('#st-hud-targets-count');
+        const tasksCountEl = widget.querySelector('#st-hud-tasks-count');
+        const planBadgeEl = widget.querySelector('#st-hud-plan-badge');
+        const planSummaryEl = widget.querySelector('#st-hud-plan-summary');
+
+        if (targetsCountEl) targetsCountEl.textContent = `${freshAchievedCount}/${freshPlannedCount}`;
+        if (tasksCountEl) tasksCountEl.textContent = `${freshTasksDone}/${freshTasksCount}`;
+        if (planBadgeEl) planBadgeEl.textContent = `${freshPendingCount} Remaining`;
+        if (planSummaryEl) {
+          planSummaryEl.textContent = `${freshPlannedCount} Chapters Planned • ${freshPendingCount} Pending till 11:59 PM`;
+        }
       }
     }
 
