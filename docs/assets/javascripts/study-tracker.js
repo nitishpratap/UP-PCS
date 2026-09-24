@@ -717,10 +717,10 @@
         <div class="st-kpi-sub" id="st-kpi-read-sub">Not yet read</div>
         <div class="st-kpi-actions">
           <button type="button" class="st-kpi-btn st-kpi-btn-primary" id="st-btn-plus-one" title="Click to increment reading count by 1!">
-            ➕ Mark +1 Read
+            Mark +1 Read
           </button>
           <button type="button" class="st-kpi-btn st-kpi-btn-ghost" id="st-btn-quick-update" title="View all logs & notes">
-            📜 Logs
+            Logs
           </button>
         </div>
       </div>
@@ -732,16 +732,16 @@
             <span class="st-kpi-icon">🎯</span>
             <span class="st-kpi-label">Live Test Score</span>
           </div>
-          <span class="st-kpi-badge st-badge-neutral" id="st-kpi-attempts-badge">0 Tests</span>
+          <span class="st-kpi-badge st-badge-neutral" id="st-kpi-attempts-badge">0 Attempts</span>
         </div>
         <div class="st-kpi-val" id="st-kpi-score-val">—</div>
-        <div class="st-kpi-sub" id="st-kpi-score-sub">Take first live test</div>
+        <div class="st-kpi-sub" id="st-kpi-score-sub">Latest attempt · take first live test</div>
         <div class="st-kpi-actions">
           <button type="button" class="st-kpi-btn st-kpi-btn-accent" id="st-btn-start-test">
-            🚀 Live Test
+            Live Test
           </button>
           <button type="button" class="st-kpi-btn st-kpi-btn-ghost" id="st-btn-view-scores" title="View past scores history">
-            📊 Past Scores <span class="st-score-pill" id="st-scores-badge">0</span>
+            Past Scores <span class="st-score-pill" id="st-scores-badge">0</span>
           </button>
         </div>
       </div>
@@ -755,17 +755,17 @@
           </div>
           <span class="st-kpi-badge st-badge-green" id="st-kpi-bank-status">MongoDB Live</span>
         </div>
-        <div class="st-kpi-val" id="st-kpi-bank-val">... Qs</div>
-        <div class="st-kpi-sub" id="st-kpi-bank-sub">Mapped PYQs & Ghatnachakra</div>
+        <div class="st-kpi-val" id="st-kpi-bank-val">… Qs</div>
+        <div class="st-kpi-sub" id="st-kpi-bank-sub">Mapped PYQs &amp; Ghatnachakra</div>
         <div class="st-kpi-actions">
-          <button type="button" class="st-kpi-btn st-kpi-btn-outline" id="st-btn-quick-10" title="Launch a quick 10 questions test drill">
-            ⚡ Quick 10 Drill
+          <button type="button" class="st-kpi-btn st-kpi-btn-outline" id="st-btn-quick-10" title="Launch a quick 10-question drill">
+            Quick 10
           </button>
-          <button type="button" class="st-kpi-btn st-kpi-btn-ghost" id="st-btn-all-questions" title="Launch full chapter practice">
+          <button type="button" class="st-kpi-btn st-kpi-btn-ghost" id="st-btn-all-questions" title="Start full chapter exam (all questions)">
             Full Exam
           </button>
-          <button type="button" class="st-kpi-btn st-kpi-btn-ghost" id="st-btn-sync-questions" title="Sync newly added questions from this chapter note to MongoDB Atlas">
-            🔄 Sync DB
+          <button type="button" class="st-kpi-btn st-kpi-btn-ghost st-kpi-btn-compact" id="st-btn-sync-questions" title="Sync newly added questions from this chapter note to MongoDB Atlas">
+            Sync
           </button>
         </div>
       </div>
@@ -775,25 +775,27 @@
         <div class="st-kpi-header">
           <div class="st-kpi-title-wrap">
             <span class="st-kpi-icon">🧠</span>
-            <span class="st-kpi-label" style="font-weight:700;">Accuracy & Traps</span>
+            <span class="st-kpi-label" style="font-weight:700;">Avg Accuracy</span>
           </div>
-          <span class="st-kpi-badge ${priorityInfo.badgeClass}" id="st-kpi-acc-badge" title="Target accuracy set based on UPPCS Chapter Priority Tracker">${priorityInfo.badgeText}</span>
+          <div class="st-kpi-header-right">
+            <span class="st-kpi-badge ${priorityInfo.badgeClass}" id="st-kpi-acc-badge" title="Target accuracy set based on UPPCS Chapter Priority Tracker">${priorityInfo.badgeText}</span>
+            <span class="st-mongo-status is-connected" id="st-mongo-status" title="MongoDB Connection Status">● Atlas</span>
+          </div>
         </div>
         <div class="st-kpi-hero-val-wrap">
           <div class="st-kpi-val" id="st-kpi-acc-val">—%</div>
-          <div class="st-kpi-target-indicator" id="st-kpi-target-gap">🎯 Target: ${priorityInfo.targetAccuracy}%</div>
+          <div class="st-kpi-target-indicator" id="st-kpi-target-gap">Target: ${priorityInfo.targetAccuracy}%</div>
         </div>
         <div class="st-kpi-sub st-kpi-sub-interactive" id="st-kpi-acc-sub" title="Click to view all detected recurring trap questions and explanations">
-          1/3rd Negative Marking Evaluated
+          +1.33 / −0.44 marking · open Trap Radar
         </div>
         <div class="st-kpi-actions">
           <button type="button" class="st-kpi-btn st-btn-trap-radar" id="st-btn-view-mistakes" title="Inspect recurring trap areas & wrong questions">
-            ⚠️ Trap Radar <span class="st-trap-counter-badge" id="st-trap-counter" style="display:none;">0</span>
+            Trap Radar <span class="st-trap-counter-badge" id="st-trap-counter" style="display:none;">0</span>
           </button>
           <button type="button" class="st-kpi-btn st-kpi-btn-outline" id="st-btn-toggle-weak" title="Map or unmap this chapter as a Weak Topic">
-            📌 Flag Weak
+            Flag Weak
           </button>
-          <span class="st-mongo-status is-connected" id="st-mongo-status" title="MongoDB Connection Status" style="margin-left:auto;">● Atlas Live</span>
         </div>
       </div>
     `;
@@ -818,7 +820,7 @@
     document.getElementById('st-btn-plus-one')?.addEventListener('click', () => handleQuickPlusOne(topicInfo));
     document.getElementById('st-btn-quick-update')?.addEventListener('click', () => openChapterLogsModal(topicInfo));
     document.getElementById('st-btn-start-test')?.addEventListener('click', () => openTestEngineModal(topicInfo));
-    document.getElementById('st-btn-all-questions')?.addEventListener('click', () => openTestEngineModal(topicInfo));
+    document.getElementById('st-btn-all-questions')?.addEventListener('click', () => openTestEngineModal(topicInfo, { autoStartCount: 'all', testMode: 'exam' }));
     document.getElementById('st-btn-quick-10')?.addEventListener('click', () => openTestEngineModal(topicInfo, { autoStartCount: 10 }));
     document.getElementById('st-btn-view-scores')?.addEventListener('click', () => openPastScoresModal(topicInfo));
     document.getElementById('st-btn-view-mistakes')?.addEventListener('click', () => openTrapRadarModal(topicInfo));
@@ -836,13 +838,9 @@
         const item = list.find(w => w.subject === topicInfo.subject && w.topic === topicInfo.topic);
         if (item && weakBtn) {
           currentWeakItem = item;
-          weakBtn.textContent = item.auto_flagged ? '⚠️ Weak Area (Auto-Flagged)' : '⚠️ Weak Area (Mapped)';
+          weakBtn.textContent = item.auto_flagged ? 'Weak (Auto)' : 'Weak (Mapped)';
           weakBtn.classList.add('is-active');
-          if (accBadge) {
-            accBadge.textContent = item.auto_flagged ? '⚠️ Focus Area (Test Misses)' : '⚠️ Focus Area';
-            accBadge.style.background = 'rgba(239, 68, 68, 0.15)';
-            accBadge.style.color = '#ef4444';
-          }
+          // Keep priority target badge intact — weak state lives on the button only
         }
       }).catch(() => {});
 
@@ -901,15 +899,17 @@
             body: JSON.stringify({ subject: topicInfo.subject, topic: topicInfo.topic })
           });
           currentWeakItem = null;
-          weakBtn.textContent = '📌 Flag Weak';
+          weakBtn.textContent = 'Flag Weak';
           weakBtn.classList.remove('is-active');
           if (accBadge) {
-            accBadge.textContent = 'Target: 80%+';
+            // Restore chapter priority target — never hardcode 80%
+            accBadge.textContent = priorityInfo.badgeText;
+            accBadge.className = `st-kpi-badge ${priorityInfo.badgeClass}`;
             accBadge.style.background = '';
             accBadge.style.color = '';
           }
           closeModal();
-          showToast(`✅ Marked "${topicInfo.title}" as Mastered and cleared from Focus Radar!`, 'success');
+          showToast(`Marked "${topicInfo.title}" as Mastered and cleared from Focus Radar.`, 'success');
         } catch (err) {
           showToast('Failed to update status: ' + err.message, 'error');
         }
@@ -942,14 +942,9 @@
             reason: 'Manually flagged as focus / weak area',
             auto_flagged: false
           };
-          weakBtn.textContent = '⚠️ Weak Area (Mapped)';
+          weakBtn.textContent = 'Weak (Mapped)';
           weakBtn.classList.add('is-active');
-          if (accBadge) {
-            accBadge.textContent = '⚠️ Focus Area';
-            accBadge.style.background = 'rgba(239, 68, 68, 0.15)';
-            accBadge.style.color = '#ef4444';
-          }
-          showToast(`⚠️ Mapped "${topicInfo.title}" to Focus Radar & Weak Topics!`, 'warning');
+          showToast(`Mapped "${topicInfo.title}" to Focus Radar & Weak Topics.`, 'warning');
         } catch (e) {
           showToast('Failed to save weak topic status.', 'error');
         }
@@ -962,7 +957,7 @@
       const btn = e.currentTarget;
       const originalHtml = btn.innerHTML;
       btn.disabled = true;
-      btn.innerHTML = '🔄 Syncing...';
+      btn.innerHTML = 'Syncing…';
       try {
         const res = await authFetch(`${API_BASE}/sync-questions`, {
           method: 'POST',
@@ -971,10 +966,10 @@
         });
         const data = await res.json();
         if (res.ok) {
-          alert(`✅ Synced! ${data.count || 0} questions saved to MongoDB Atlas for ${topicInfo.title}`);
+          alert(`Synced! ${data.count || 0} questions saved to MongoDB Atlas for ${topicInfo.title}`);
           refreshChapterQuestionCount(topicInfo);
         } else {
-          alert(`⚠️ Sync notice: ${data.error || 'Failed to sync'}`);
+          alert(`Sync notice: ${data.error || 'Failed to sync'}`);
         }
       } catch (err) {
         alert(`Sync error: ${err.message}`);
@@ -1053,9 +1048,9 @@
     refreshTopicReadData(topicInfo);
     if (btn) {
       btn.disabled = false;
-      btn.textContent = '✅ Read Marked!';
+      btn.textContent = 'Read Marked';
       setTimeout(() => {
-        btn.textContent = '➕ Mark +1 Read';
+        btn.textContent = 'Mark +1 Read';
       }, 1800);
     }
   }
@@ -1117,6 +1112,45 @@
     }
   }
 
+  // Format latest net marks for KPI (UPPCS +1.33 / −0.44)
+  function formatNetMarksHtml(latest) {
+    const net = Number(latest.net_marks);
+    const max = Number(latest.max_marks || (latest.total_questions || 0) * 1.33);
+    const netStr = Number.isFinite(net) ? (net > 0 ? `+${net.toFixed(2)}` : net.toFixed(2)) : '—';
+    const maxStr = Number.isFinite(max) ? max.toFixed(2) : '—';
+    const tone = !Number.isFinite(net) ? '' : (net > 0 ? 'is-pos' : (net < 0 ? 'is-neg' : 'is-zero'));
+    return `<span class="st-net-marks ${tone}">${netStr}</span> <small class="st-net-max">/ ${maxStr}</small>`;
+  }
+
+  // Apply priority / target-gap state without clobbering weak-button UX
+  function applyAccuracyTargetUi(avgAccuracy, priorityInfo) {
+    const accBadge = document.getElementById('st-kpi-acc-badge');
+    const targetGapEl = document.getElementById('st-kpi-target-gap');
+    if (!Number.isFinite(avgAccuracy)) return;
+
+    if (avgAccuracy >= priorityInfo.targetAccuracy) {
+      if (accBadge) {
+        accBadge.textContent = `Target Met`;
+        accBadge.className = 'st-kpi-badge st-badge-green';
+        accBadge.title = `${avgAccuracy}% ≥ ${priorityInfo.targetAccuracy}% (${priorityInfo.label})`;
+      }
+      if (targetGapEl) {
+        targetGapEl.innerHTML = `<span class="st-gap-met">${avgAccuracy}% / ${priorityInfo.targetAccuracy}%</span>`;
+      }
+    } else {
+      const gap = (priorityInfo.targetAccuracy - avgAccuracy).toFixed(1);
+      if (accBadge) {
+        // Keep syllabus priority visible — gap lives beside the % value
+        accBadge.textContent = priorityInfo.badgeText;
+        accBadge.className = `st-kpi-badge ${priorityInfo.badgeClass}`;
+        accBadge.title = `${avgAccuracy}% avg · need ${priorityInfo.targetAccuracy}% (${priorityInfo.label})`;
+      }
+      if (targetGapEl) {
+        targetGapEl.innerHTML = `<span class="st-gap-miss">−${gap}% to ${priorityInfo.targetAccuracy}%</span>`;
+      }
+    }
+  }
+
   // Refresh past scores & accuracy KPI card
   async function refreshPastScoresBadge(topicInfo) {
     const badge = document.getElementById('st-scores-badge');
@@ -1125,8 +1159,6 @@
     const scoreSub = document.getElementById('st-kpi-score-sub');
     const accVal = document.getElementById('st-kpi-acc-val');
     const accSub = document.getElementById('st-kpi-acc-sub');
-    const accBadge = document.getElementById('st-kpi-acc-badge');
-    const targetGapEl = document.getElementById('st-kpi-target-gap');
     const trapBadge = document.getElementById('st-trap-counter');
 
     const priorityInfo = getChapterPriority(topicInfo.subject, topicInfo.topic);
@@ -1143,33 +1175,13 @@
 
     if (localTests.length > 0) {
       const latest = localTests[0];
-      if (scoreVal) {
-        scoreVal.innerHTML = `${latest.net_marks > 0 ? '+' : ''}${latest.net_marks} <small style="font-size:0.85rem;color:var(--md-default-fg-color--light);">/ ${latest.max_marks || latest.total_questions * 1.33}</small>`;
-      }
+      if (scoreVal) scoreVal.innerHTML = formatNetMarksHtml(latest);
       if (scoreSub) {
-        scoreSub.textContent = `Accuracy: ${latest.accuracy_pct}% (${latest.correct}✔ / ${latest.incorrect}✖)`;
+        scoreSub.textContent = `Latest · ${latest.accuracy_pct}% (${latest.correct}✔ / ${latest.incorrect}✖)`;
       }
       avgAccuracy = Number((localTests.reduce((acc, t) => acc + (Number(t.accuracy_pct) || 0), 0) / localTests.length).toFixed(1));
       if (accVal) accVal.textContent = `${avgAccuracy}%`;
-
-      if (avgAccuracy >= priorityInfo.targetAccuracy) {
-        if (accBadge) {
-          accBadge.textContent = `🎯 Target Met (${avgAccuracy}%)`;
-          accBadge.className = 'st-kpi-badge st-badge-green';
-        }
-        if (targetGapEl) {
-          targetGapEl.innerHTML = `<span style="color:#10b981;font-weight:700;">✔ Target Met (${avgAccuracy}% / ${priorityInfo.targetAccuracy}%)</span>`;
-        }
-      } else {
-        const gap = (priorityInfo.targetAccuracy - avgAccuracy).toFixed(1);
-        if (accBadge) {
-          accBadge.textContent = `⚠️ Focus Area (${avgAccuracy}%)`;
-          accBadge.className = `st-kpi-badge ${priorityInfo.badgeClass}`;
-        }
-        if (targetGapEl) {
-          targetGapEl.innerHTML = `<span style="color:#ef4444;font-weight:600;">-${gap}% to ${priorityInfo.targetAccuracy}% Target</span>`;
-        }
-      }
+      applyAccuracyTargetUi(avgAccuracy, priorityInfo);
     }
 
     // Check MongoDB API
@@ -1184,43 +1196,22 @@
           if (attemptsBadge) attemptsBadge.textContent = `${totalAttempts} Attempt${totalAttempts === 1 ? '' : 's'}`;
 
           const latest = attempts[0];
-          if (scoreVal) {
-            scoreVal.innerHTML = `${latest.net_marks > 0 ? '+' : ''}${latest.net_marks} <small style="font-size:0.85rem;color:var(--md-default-fg-color--light);">/ ${latest.max_marks || latest.total_questions * 1.33}</small>`;
-          }
+          if (scoreVal) scoreVal.innerHTML = formatNetMarksHtml(latest);
           if (scoreSub) {
-            scoreSub.textContent = `Accuracy: ${latest.accuracy_pct}% (${latest.correct}✔ / ${latest.incorrect}✖)`;
+            scoreSub.textContent = `Latest · ${latest.accuracy_pct}% (${latest.correct}✔ / ${latest.incorrect}✖)`;
           }
 
           avgAccuracy = Number(data.summary?.avg_accuracy || (attempts.reduce((acc, t) => acc + (t.accuracy_pct || 0), 0) / attempts.length).toFixed(1));
           if (accVal) accVal.textContent = `${avgAccuracy}%`;
-
-          // Evaluate against priority target accuracy (100% High, 90% Medium, 80% Least)
-          if (avgAccuracy >= priorityInfo.targetAccuracy) {
-            if (accBadge) {
-              accBadge.textContent = `🎯 Target Met (${avgAccuracy}%)`;
-              accBadge.className = 'st-kpi-badge st-badge-green';
-            }
-            if (targetGapEl) {
-              targetGapEl.innerHTML = `<span style="color:#10b981;font-weight:700;">✔ Target Met (${avgAccuracy}% / ${priorityInfo.targetAccuracy}%)</span>`;
-            }
-          } else {
-            const gap = (priorityInfo.targetAccuracy - avgAccuracy).toFixed(1);
-            if (accBadge) {
-              accBadge.textContent = `⚠️ Focus Area (${avgAccuracy}%)`;
-              accBadge.className = `st-kpi-badge ${priorityInfo.badgeClass}`;
-            }
-            if (targetGapEl) {
-              targetGapEl.innerHTML = `<span style="color:#ef4444;font-weight:600;">-${gap}% to ${priorityInfo.targetAccuracy}% Target</span>`;
-            }
-          }
+          applyAccuracyTargetUi(avgAccuracy, priorityInfo);
 
           const trapList = data.summary?.trap_questions || [];
           frequentWrongCount = trapList.length || Object.keys(data.summary?.frequent_wrong_questions || {}).length;
 
           if (accSub) {
             accSub.innerHTML = frequentWrongCount > 0
-              ? `⚠️ <strong>${frequentWrongCount} recurring trap area${frequentWrongCount > 1 ? 's' : ''} detected</strong> <span style="font-size:0.75rem;opacity:0.85;">(Click to inspect & drill)</span>`
-              : 'No recurring trap areas detected';
+              ? `<strong>${frequentWrongCount} recurring trap${frequentWrongCount > 1 ? 's' : ''}</strong> · click to drill`
+              : 'No recurring traps · +1.33 / −0.44 marking';
           }
 
           if (trapBadge) {
@@ -1976,27 +1967,17 @@
       refreshPastScoresBadge(topicInfo);
 
       // Automatically update the Flag Weak button on Card 4 based on test result
+      // (priority/target badge is owned by refreshPastScoresBadge — do not clobber it here)
       const weakBtn = document.getElementById('st-btn-toggle-weak');
-      const accBadge = document.getElementById('st-kpi-acc-badge');
       if (evaluationData.auto_flagged || sc.auto_flagged || (sc.accuracy_pct < 75 && sc.attempted > 0)) {
         if (weakBtn) {
-          weakBtn.textContent = '⚠️ Weak Area (Auto-Flagged)';
+          weakBtn.textContent = 'Weak (Auto)';
           weakBtn.classList.add('is-active');
-        }
-        if (accBadge) {
-          accBadge.textContent = '⚠️ Focus Area';
-          accBadge.style.background = 'rgba(239, 68, 68, 0.15)';
-          accBadge.style.color = '#ef4444';
         }
       } else if (evaluationData.cleared_mastery || sc.cleared_mastery || (sc.accuracy_pct >= 85 && sc.attempted >= 5)) {
         if (weakBtn) {
-          weakBtn.textContent = '📌 Flag Weak';
+          weakBtn.textContent = 'Flag Weak';
           weakBtn.classList.remove('is-active');
-        }
-        if (accBadge) {
-          accBadge.textContent = 'Mastered';
-          accBadge.style.background = 'rgba(16, 185, 129, 0.15)';
-          accBadge.style.color = '#10b981';
         }
       }
 
@@ -2173,7 +2154,13 @@
     }
 
     if (testOptions && testOptions.autoStartCount) {
-      questionSubset = loadedQuestions.slice(0, Number(testOptions.autoStartCount));
+      const n = loadedQuestions.length;
+      const countOpt = testOptions.autoStartCount;
+      const take = (countOpt === 'all' || countOpt === 'ALL')
+        ? n
+        : Math.min(n, Number(countOpt) || n);
+      questionSubset = loadedQuestions.slice(0, take);
+      if (testOptions.testMode) testMode = testOptions.testMode;
       startActiveQuiz();
     } else {
       renderLauncher();
