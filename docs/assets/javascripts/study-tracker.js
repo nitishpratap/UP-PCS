@@ -1236,28 +1236,199 @@
   }
 
   // -------------------------------------------------------------
+  // DAILY READING TIME TRACKER & MULTI-TAB SESSION SYNC
+  // -------------------------------------------------------------
+  const LOCAL_DAILY_TIME_KEY = 'uppcs_daily_study_time';
+  const ACTIVE_TAB_KEY = 'uppcs_active_study_tab';
+  const CURRENT_TAB_ID = 'tab_' + Date.now() + '_' + Math.random().toString(36).substr(2, 6);
+
+  // Claim active study tab leadership (only the tab user is actively reading ticks)
+  function claimActiveTabFocus(topic) {
+    if (document.hidden) return;
+    try {
+      const payload = {
+        tabId: CURRENT_TAB_ID,
+        subject: topic?.subject || '',
+        topic: topic?.topic || '',
+        lastHeartbeat: Date.now()
+      };
+      localStorage.setItem(ACTIVE_TAB_KEY, JSON.stringify(payload));
+    } catch {}
+  }
+
+  // Check if this tab is the active tab leader or if another tab has focus
+  function isThisTabActiveLeader() {
+    if (document.hidden) return false;
+    try {
+      const raw = localStorage.getItem(ACTIVE_TAB_KEY);
+      if (!raw) return true;
+      const info = JSON.parse(raw);
+      // If another tab claimed leadership in the last 4 seconds and has a different tab ID:
+      if (info && info.tabId && info.tabId !== CURRENT_TAB_ID && (Date.now() - info.lastHeartbeat < 4500)) {
+        return false;
+      }
+      return true;
+    } catch {
+      return true;
+    }
+  }
+
+  // Read study record for a date from localStorage
+  function getDailyStudyTimeRecord(dateStr = getTodayISODate()) {
+    try {
+      const raw = localStorage.getItem(LOCAL_DAILY_TIME_KEY);
+      const all = raw ? JSON.parse(raw) : {};
+      if (!all[dateStr]) {
+        all[dateStr] = { date: dateStr, chapters: {}, totalSeconds: 0 };
+      }
+      return all[dateStr];
+    } catch {
+      return { date: dateStr, chapters: {}, totalSeconds: 0 };
+    }
+  }
+
+  // Get cumulative seconds read today for this chapter
+  function getTodayChapterStudySeconds(subject, topicSlug, dateStr = getTodayISODate()) {
+    if (!subject || !topicSlug) return 0;
+    const rec = getDailyStudyTimeRecord(dateStr);
+    const key = `${String(subject).toLowerCase().trim()}__${String(topicSlug).trim()}`;
+    return (rec.chapters && rec.chapters[key] && rec.chapters[key].seconds) ? rec.chapters[key].seconds : 0;
+  }
+
+  // Format seconds into human duration (e.g. 45m or 1h 20m)
+  function formatDurationDisplay(sec) {
+    if (!sec || sec < 60) return sec > 0 ? `${sec}s` : '0m';
+    const hrs = Math.floor(sec / 3600);
+    const mins = Math.floor((sec % 3600) / 60);
+    if (hrs > 0) {
+      return `${hrs}h ${mins}m`;
+    }
+    return `${mins}m`;
+  }
+
+  // Save/accumulate chapter study seconds for today
+  function saveTodayChapterStudySeconds(subject, topicSlug, title, seconds, dateStr = getTodayISODate()) {
+    if (!subject || !topicSlug) return;
+    try {
+      const raw = localStorage.getItem(LOCAL_DAILY_TIME_KEY);
+      const all = raw ? JSON.parse(raw) : {};
+      if (!all[dateStr]) {
+        all[dateStr] = { date: dateStr, chapters: {}, totalSeconds: 0 };
+      }
+      const key = `${String(subject).toLowerCase().trim()}__${String(topicSlug).trim()}`;
+      const prev = (all[dateStr].chapters[key] && all[dateStr].chapters[key].seconds) || 0;
+      const finalSec = Math.max(prev, seconds);
+
+      all[dateStr].chapters[key] = {
+        subject: String(subject).toLowerCase().trim(),
+        topic: String(topicSlug).trim(),
+        title: title || topicSlug,
+        seconds: finalSec,
+        lastActive: Date.now()
+      };
+
+      let sum = 0;
+      Object.values(all[dateStr].chapters).forEach(c => {
+        sum += (c.seconds || 0);
+      });
+      all[dateStr].totalSeconds = sum;
+
+      localStorage.setItem(LOCAL_DAILY_TIME_KEY, JSON.stringify(all));
+
+      // Also sync to local daily planner topic item if present for this date
+      const localPlanner = getLocalDailyPlanner(dateStr);
+      let updatedPlanner = false;
+      (localPlanner.reading_topics || []).forEach(t => {
+        if (t.subject?.toLowerCase().trim() === String(subject).toLowerCase().trim() && t.topic?.trim() === String(topicSlug).trim()) {
+          t.study_seconds = Math.max(t.study_seconds || 0, finalSec);
+          updatedPlanner = true;
+        }
+      });
+      if (updatedPlanner) {
+        saveLocalDailyPlanner(dateStr, localPlanner);
+      }
+
+      // Sync to MongoDB backend if online
+      if (getStoredAuthToken()) {
+        authFetch(`${API_BASE}/daily-planner/study-time`, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            date: dateStr,
+            subject: String(subject).toLowerCase().trim(),
+            topic: String(topicSlug).trim(),
+            title: title || topicSlug,
+            seconds: finalSec
+          })
+        }).catch(() => {});
+      }
+    } catch (err) {
+      console.warn('Error saving study time:', err);
+    }
+  }
+
+  // -------------------------------------------------------------
   // FLOATING IN-CHAPTER READING CLOCK & STOPWATCH
   // -------------------------------------------------------------
   let readingClockInterval = null;
   let readingClockSeconds = 0;
+  let readingClockTopic = null;
+  let readingClockIdleTimer = null;
+  let isReadingClockIdle = false;
+  let readingClockHandlersAttached = false;
+  const IDLE_TIMEOUT_MS = 180000; // 3 minutes without mouse/keyboard/scroll pauses timer to avoid counting lost/idle time
 
-  function initChapterReadingClock(topicInfo) {
-    if (!topicInfo) return;
-
-    // Remove existing widget if re-rendered or navigated
-    const existing = document.getElementById('st-reading-clock-widget');
-    if (existing) existing.remove();
+  // Cleanup reading clock completely (used when leaving chapter notes or navigating to dashboard)
+  function cleanupChapterReadingClock() {
+    try {
+      const raw = localStorage.getItem(ACTIVE_TAB_KEY);
+      if (raw) {
+        const info = JSON.parse(raw);
+        if (info.tabId === CURRENT_TAB_ID) {
+          localStorage.removeItem(ACTIVE_TAB_KEY);
+        }
+      }
+    } catch {}
     if (readingClockInterval) {
       clearInterval(readingClockInterval);
       readingClockInterval = null;
     }
+    if (readingClockIdleTimer) {
+      clearTimeout(readingClockIdleTimer);
+      readingClockIdleTimer = null;
+    }
+    if (readingClockTopic && readingClockSeconds > 0) {
+      saveTodayChapterStudySeconds(
+        readingClockTopic.subject,
+        readingClockTopic.topic,
+        readingClockTopic.title,
+        readingClockSeconds
+      );
+    }
+    const existing = document.getElementById('st-reading-clock-widget');
+    if (existing) {
+      existing.remove();
+    }
+    readingClockTopic = null;
+    readingClockSeconds = 0;
+    isReadingClockIdle = false;
+  }
 
-    const storageKey = `uppcs_reading_timer_${topicInfo.subject}_${topicInfo.topic}`;
-    let saved = 0;
-    try {
-      saved = parseInt(sessionStorage.getItem(storageKey) || '0', 10);
-    } catch {}
-    readingClockSeconds = isNaN(saved) ? 0 : saved;
+  function initChapterReadingClock(topicInfo) {
+    if (!topicInfo) {
+      cleanupChapterReadingClock();
+      return;
+    }
+
+    // Clean up any previous session before binding current chapter
+    cleanupChapterReadingClock();
+
+    readingClockTopic = topicInfo;
+    const todayStr = getTodayISODate();
+
+    // 1. Resume from previous time spent TODAY on this chapter (accumulates across reloads, closes, new tabs till 11:59:59 PM)
+    readingClockSeconds = getTodayChapterStudySeconds(topicInfo.subject, topicInfo.topic, todayStr);
+    isReadingClockIdle = false;
 
     function formatClockTime(sec) {
       const h = Math.floor(sec / 3600);
@@ -1272,34 +1443,218 @@
     const widget = document.createElement('div');
     widget.className = 'st-reading-clock-widget';
     widget.id = 'st-reading-clock-widget';
-    widget.title = `Reading stopwatch for ${topicInfo.title || topicInfo.topic}`;
+    widget.title = `Today's reading time for ${topicInfo.title || topicInfo.topic}. Accumulates till midnight.`;
+    const todayTotalStudySec = getDailyStudyTimeRecord(todayStr).totalSeconds || 0;
     widget.innerHTML = `
-      <div class="st-clock-icon-wrap" id="st-clock-icon-btn" title="Reading Stopwatch">
+      <div class="st-clock-icon-wrap" id="st-clock-icon-btn" title="Click for Focus & Time Radar HUD">
         <span>⏱️</span>
         <span class="st-clock-pulse-dot" id="st-clock-pulse"></span>
       </div>
       <div class="st-clock-info">
+        <div class="st-clock-topic-tag" title="${escapeHtml(topicInfo.title || topicInfo.topic)}">
+          ${escapeHtml(topicInfo.title || topicInfo.topic)}
+        </div>
+        <div class="st-clock-digits-row">
+          <span class="st-clock-time-val" id="st-clock-time-val">${formatClockTime(readingClockSeconds)}</span>
+          <span class="st-clock-day-pill" id="st-clock-day-pill" title="Total active reading tracked across all notes today">Day: ${formatDurationDisplay(todayTotalStudySec)}</span>
+        </div>
         <span class="st-clock-label" id="st-clock-label">Reading Notes</span>
-        <span class="st-clock-time-val" id="st-clock-time-val">${formatClockTime(readingClockSeconds)}</span>
       </div>
       <div class="st-clock-actions">
+        <button type="button" class="st-clock-btn st-clock-zen-btn" id="st-clock-zen-btn" title="Toggle Zen / Focus Mode (Distraction-free reading)">🧘</button>
+        <button type="button" class="st-clock-btn st-clock-hud-btn" id="st-clock-hud-btn" title="Open Time & Focus Analytics HUD">📊</button>
         <button type="button" class="st-clock-btn" id="st-clock-min-btn" title="Minimize / Expand">🗕</button>
+      </div>
+
+      <!-- Attached Mini Focus HUD Popover -->
+      <div class="st-clock-hud-popover" id="st-clock-hud-popover" style="display:none;">
+        <div class="st-hud-head">
+          <div>
+            <div class="st-hud-title">⚡ Focus & Time Radar</div>
+            <div class="st-hud-sub">${escapeHtml(topicInfo.subject)} &bull; ${escapeHtml(topicInfo.title || topicInfo.topic)}</div>
+          </div>
+          <button type="button" class="st-hud-close" id="st-hud-close-btn">&times;</button>
+        </div>
+        <div class="st-hud-stats-grid">
+          <div class="st-hud-stat-box">
+            <span class="st-hud-stat-num" id="st-hud-chap-time">${formatDurationDisplay(readingClockSeconds)}</span>
+            <span class="st-hud-stat-lbl">Chapter Today</span>
+          </div>
+          <div class="st-hud-stat-box">
+            <span class="st-hud-stat-num" id="st-hud-day-time">${formatDurationDisplay(todayTotalStudySec)}</span>
+            <span class="st-hud-stat-lbl">Total Today</span>
+          </div>
+        </div>
+        <div class="st-hud-progress-wrap">
+          <div style="display:flex; justify-content:space-between; font-size:0.7rem; font-weight:700; margin-bottom:0.25rem;">
+            <span>Target Milestone (30m)</span>
+            <span id="st-hud-prog-pct">${Math.min(100, Math.round((readingClockSeconds / 1800) * 100))}%</span>
+          </div>
+          <div class="st-hud-progress-bar">
+            <div class="st-hud-progress-fill" id="st-hud-prog-fill" style="width: ${Math.min(100, Math.round((readingClockSeconds / 1800) * 100))}%;"></div>
+          </div>
+        </div>
+        <div class="st-hud-actions-row">
+          <button type="button" class="st-hud-action-btn is-primary" id="st-hud-mark-read-btn">
+            📖 Mark +1 Read
+          </button>
+          <a href="${getSiteBasePath()}tracker-dashboard/" class="st-hud-action-btn is-ghost" id="st-hud-open-dash">
+            📊 Open Tracker
+          </a>
+        </div>
       </div>
     `;
 
     document.body.appendChild(widget);
 
     const timeValEl = widget.querySelector('#st-clock-time-val');
+    const labelEl = widget.querySelector('#st-clock-label');
     const minBtn = widget.querySelector('#st-clock-min-btn');
 
-    // Continuous ticking interval
-    readingClockInterval = setInterval(() => {
-      readingClockSeconds++;
+    function updateClockDisplay() {
       if (timeValEl) timeValEl.textContent = formatClockTime(readingClockSeconds);
-      if (readingClockSeconds % 5 === 0) {
-        try {
-          sessionStorage.setItem(storageKey, String(readingClockSeconds));
-        } catch {}
+      if (labelEl) {
+        if (isReadingClockIdle) {
+          labelEl.textContent = '💤 Inactive (Paused)';
+        } else if (document.hidden) {
+          labelEl.textContent = 'Tab Hidden';
+        } else {
+          const mins = Math.floor(readingClockSeconds / 60);
+          labelEl.textContent = mins > 0 ? `Reading Notes • ${mins}m` : 'Reading Notes';
+          if (dayPillEl) {
+            const curDayTot = (getDailyStudyTimeRecord(todayStr).totalSeconds || 0);
+            dayPillEl.textContent = 'Day: ' + formatDurationDisplay(curDayTot);
+          }
+        }
+      }
+    }
+
+    // Idle Detection: stops clock when user walks away or leaves page inactive
+    function resetIdleTimer() {
+      if (isReadingClockIdle) {
+        isReadingClockIdle = false;
+        widget.classList.remove('is-idle');
+        updateClockDisplay();
+      }
+      if (readingClockIdleTimer) clearTimeout(readingClockIdleTimer);
+      readingClockIdleTimer = setTimeout(() => {
+        isReadingClockIdle = true;
+        widget.classList.add('is-idle');
+        updateClockDisplay();
+        if (readingClockTopic && readingClockSeconds > 0) {
+          saveTodayChapterStudySeconds(
+            readingClockTopic.subject,
+            readingClockTopic.topic,
+            readingClockTopic.title,
+            readingClockSeconds
+          );
+        }
+      }, IDLE_TIMEOUT_MS);
+    }
+
+    resetIdleTimer();
+
+    // Attach global window listeners only once
+    if (!readingClockHandlersAttached) {
+      readingClockHandlersAttached = true;
+
+      ['mousemove', 'scroll', 'keydown', 'touchstart'].forEach(evt => {
+        window.addEventListener(evt, () => {
+          if (readingClockTopic) {
+            claimActiveTabFocus(readingClockTopic);
+            resetIdleTimer();
+          }
+        }, { passive: true });
+      });
+
+      // Claim leadership on tab focus or direct interaction
+      window.addEventListener('focus', () => {
+        if (readingClockTopic) {
+          claimActiveTabFocus(readingClockTopic);
+          const latestSec = getTodayChapterStudySeconds(readingClockTopic.subject, readingClockTopic.topic);
+          if (latestSec > readingClockSeconds) {
+            readingClockSeconds = latestSec;
+          }
+          resetIdleTimer();
+          updateClockDisplay();
+        }
+      });
+
+      // Multi-tab synchronization: when another tab updates study time or claims focus
+      window.addEventListener('storage', (e) => {
+        if (e.key === LOCAL_DAILY_TIME_KEY && readingClockTopic) {
+          const latestSec = getTodayChapterStudySeconds(readingClockTopic.subject, readingClockTopic.topic);
+          if (latestSec > readingClockSeconds) {
+            readingClockSeconds = latestSec;
+          }
+          updateClockDisplay();
+        } else if (e.key === ACTIVE_TAB_KEY) {
+          updateClockDisplay();
+        }
+      });
+
+      // Tab visibility: pauses timer when tab is hidden to not falsely count background time
+      document.addEventListener('visibilitychange', () => {
+        if (document.hidden) {
+          if (readingClockTopic && readingClockSeconds > 0) {
+            saveTodayChapterStudySeconds(
+              readingClockTopic.subject,
+              readingClockTopic.topic,
+              readingClockTopic.title,
+              readingClockSeconds
+            );
+          }
+          updateClockDisplay();
+        } else {
+          if (readingClockTopic) {
+            const latestSec = getTodayChapterStudySeconds(readingClockTopic.subject, readingClockTopic.topic);
+            if (latestSec > readingClockSeconds) {
+              readingClockSeconds = latestSec;
+            }
+            resetIdleTimer();
+            updateClockDisplay();
+          }
+        }
+      });
+
+      window.addEventListener('pagehide', () => {
+        if (readingClockTopic && readingClockSeconds > 0) {
+          saveTodayChapterStudySeconds(
+            readingClockTopic.subject,
+            readingClockTopic.topic,
+            readingClockTopic.title,
+            readingClockSeconds
+          );
+        }
+      });
+    }
+
+    // Ticking interval: strictly prevents double counting when multiple tabs are open simultaneously
+    readingClockInterval = setInterval(() => {
+      const isLeader = isThisTabActiveLeader();
+      if (!document.hidden && !isReadingClockIdle && isLeader) {
+        readingClockSeconds++;
+        updateClockDisplay();
+
+        // Heartbeat every 2 seconds to maintain active tab leadership
+        if (readingClockSeconds % 2 === 0) {
+          claimActiveTabFocus(topicInfo);
+        }
+
+        // Periodically persist every 4 seconds to localStorage (atomic write)
+        if (readingClockSeconds % 4 === 0) {
+          saveTodayChapterStudySeconds(
+            topicInfo.subject,
+            topicInfo.topic,
+            topicInfo.title,
+            readingClockSeconds
+          );
+        }
+      } else if (!isLeader && !document.hidden && !isReadingClockIdle) {
+        // Tab is visible but another tab is currently active
+        if (labelEl) {
+          labelEl.textContent = 'Active in another tab';
+        }
       }
     }, 1000);
 
@@ -1311,6 +1666,73 @@
         minBtn.textContent = isMinimized ? '🗖' : '🗕';
         minBtn.title = isMinimized ? 'Expand Timer' : 'Minimize Timer';
       }
+      if (isMinimized && hudPopover) {
+        hudPopover.style.display = 'none';
+      }
+    });
+
+    const zenBtn = widget.querySelector('#st-clock-zen-btn');
+    const hudBtn = widget.querySelector('#st-clock-hud-btn');
+    const iconBtn = widget.querySelector('#st-clock-icon-btn');
+    const hudPopover = widget.querySelector('#st-clock-hud-popover');
+    const hudCloseBtn = widget.querySelector('#st-hud-close-btn');
+    const hudMarkReadBtn = widget.querySelector('#st-hud-mark-read-btn');
+    const dayPillEl = widget.querySelector('#st-clock-day-pill');
+
+    // Zen Mode Toggle (distraction-free notes reading)
+    function toggleZenMode() {
+      const active = document.body.classList.toggle('st-zen-focus-active');
+      if (zenBtn) {
+        zenBtn.textContent = active ? '✨' : '🧘';
+        zenBtn.title = active ? 'Exit Zen Mode (ESC)' : 'Toggle Zen / Focus Mode';
+      }
+    }
+
+    zenBtn?.addEventListener('click', toggleZenMode);
+
+    // ESC key to exit Zen Mode
+    window.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape' && document.body.classList.contains('st-zen-focus-active')) {
+        toggleZenMode();
+      }
+    });
+
+    // Toggle HUD Popover
+    function toggleHud() {
+      if (!hudPopover) return;
+      const isVisible = hudPopover.style.display === 'block';
+      hudPopover.style.display = isVisible ? 'none' : 'block';
+      if (!isVisible) {
+        // Refresh numbers in popover
+        const curSec = readingClockSeconds;
+        const totSec = (getDailyStudyTimeRecord(todayStr).totalSeconds || 0);
+        const chapTimeEl = widget.querySelector('#st-hud-chap-time');
+        const dayTimeEl = widget.querySelector('#st-hud-day-time');
+        const progPctEl = widget.querySelector('#st-hud-prog-pct');
+        const progFillEl = widget.querySelector('#st-hud-prog-fill');
+        if (chapTimeEl) chapTimeEl.textContent = formatDurationDisplay(curSec);
+        if (dayTimeEl) dayTimeEl.textContent = formatDurationDisplay(totSec);
+        const pct = Math.min(100, Math.round((curSec / 1800) * 100));
+        if (progPctEl) progPctEl.textContent = pct + '%';
+        if (progFillEl) progFillEl.style.width = pct + '%';
+      }
+    }
+
+    hudBtn?.addEventListener('click', toggleHud);
+    iconBtn?.addEventListener('click', toggleHud);
+    hudCloseBtn?.addEventListener('click', () => {
+      if (hudPopover) hudPopover.style.display = 'none';
+    });
+
+    // Mark +1 Read right from HUD popover
+    hudMarkReadBtn?.addEventListener('click', async () => {
+      const btn = document.getElementById('st-btn-plus-one');
+      if (btn) {
+        btn.click();
+      } else {
+        await handleQuickReadIncrement(topicInfo, null);
+      }
+      if (hudPopover) hudPopover.style.display = 'none';
     });
   }
 
@@ -1319,7 +1741,11 @@
   // ---------------------------------------------------------------
   async function injectSubjectNoteWidget() {
     const topicInfo = getCurrentTopicInfo();
-    if (!topicInfo) return;
+    if (!topicInfo) {
+      // Clean up clock widget and stop timers immediately when navigating to non-note routes (like tracker-dashboard/)
+      cleanupChapterReadingClock();
+      return;
+    }
 
     // Initialize floating in-chapter reading clock stopwatch
     initChapterReadingClock(topicInfo);
@@ -3766,6 +4192,68 @@
 
     // Daily Planner & Tasks computation
     const isCurrentDateToday = activePlannerDate === getTodayISODate();
+    const dailyStudyRecord = getDailyStudyTimeRecord(activePlannerDate);
+    const totalDayStudySeconds = dailyStudyRecord.totalSeconds || 0;
+
+    // Focus Studio Analytics computation
+    const dailyStudyChapters = dailyStudyRecord.chapters || {};
+    const studiedChaptersList = Object.values(dailyStudyChapters).sort((a, b) => (b.seconds || 0) - (a.seconds || 0));
+    const deepWorkChapters = studiedChaptersList.filter(c => (c.seconds || 0) >= 1500); // >= 25 mins
+
+    // Time leakage diagnostics: planned chapters for this date with < 60s read
+    const unopenedPlannedTargets = readingTopics.filter(t => {
+      const sec = getTodayChapterStudySeconds(t.subject, t.topic, activePlannerDate);
+      return sec < 60;
+    });
+
+    // Subject focus distribution map
+    const subjectDistribution = {};
+    studiedChaptersList.forEach(c => {
+      const sub = (c.subject || 'other').toLowerCase();
+      subjectDistribution[sub] = (subjectDistribution[sub] || 0) + (c.seconds || 0);
+    });
+
+    const subColorPalette = {
+      'polity': '#3b82f6',
+      'geography': '#10b981',
+      'ancient history': '#d97706',
+      'medieval india': '#b45309',
+      'mordern india': '#ea580c',
+      'environments & ecology': '#059669',
+      'economy': '#8b5cf6',
+      'science and technology': '#06b6d4',
+      'art and culture': '#ec4899',
+      'up special': '#6366f1',
+      'current affairs': '#e11d48',
+      'csat': '#64748b'
+    };
+
+    function renderSubjectDistSegmentsHtml(distMap, totalSec) {
+      if (!totalSec || totalSec <= 0) return '';
+      return Object.keys(distMap).map(sub => {
+        const sec = distMap[sub];
+        const pct = Math.max(1, Math.round((sec / totalSec) * 100));
+        const color = subColorPalette[sub.toLowerCase()] || '#6366f1';
+        return `<div class="st-focus-dist-segment" style="width:${pct}%; background:${color};" title="${escapeHtml(sub)}: ${formatDurationDisplay(sec)} (${pct}%)"></div>`;
+      }).join('');
+    }
+
+    function renderSubjectDistLegendHtml(distMap, totalSec) {
+      if (!totalSec || totalSec <= 0) return '';
+      return Object.keys(distMap).map(sub => {
+        const sec = distMap[sub];
+        const pct = Math.max(1, Math.round((sec / totalSec) * 100));
+        const color = subColorPalette[sub.toLowerCase()] || '#6366f1';
+        return `
+          <div class="st-dist-legend-item">
+            <span class="st-dist-dot" style="background:${color};"></span>
+            <span style="text-transform:capitalize;">${escapeHtml(sub)}</span>
+            <strong style="color:var(--md-primary-fg-color, #273c75);">${formatDurationDisplay(sec)}</strong>
+            <span style="color:var(--md-default-fg-color--light); font-size:0.68rem;">(${pct}%)</span>
+          </div>
+        `;
+      }).join('');
+    }
     const readingTopics = planner.reading_topics || [];
 
     const isPastDate = activePlannerDate < getTodayISODate();
@@ -3895,6 +4383,159 @@
           </div>
         </div>
 
+        <!-- ============================================================= -->
+        <!-- EXECUTIVE STUDY TIME MONITORING & FOCUS RADAR STUDIO -->
+        <!-- ============================================================= -->
+        <div class="st-focus-studio-card">
+          <div class="st-focus-studio-header">
+            <div class="st-focus-title-group">
+              <div style="display:flex; align-items:center; gap:0.5rem;">
+                <span class="st-focus-icon-pill">⏱️</span>
+                <h3 style="margin:0; font-size:1.15rem; font-weight:800;">Study Time & Focus Analytics Studio</h3>
+                <span class="st-focus-live-pill">⚡ Live Session Radar</span>
+              </div>
+              <p style="margin:0.25rem 0 0; font-size:0.8rem; color:var(--md-default-fg-color--light);">
+                Active stopwatch focus analytics for <strong>${formatPlannerDateDisplay(activePlannerDate)}</strong>. Monitors deep work chapters, pace velocity, and time leakage.
+              </p>
+            </div>
+            <div class="st-focus-header-meta">
+              <span class="st-focus-goal-badge">
+                🎯 Daily Target: 4h 00m &bull; ${Math.min(100, Math.round((totalDayStudySeconds / 14400) * 100))}% Reached
+              </span>
+            </div>
+          </div>
+
+          <!-- 4 Executive Focus KPI Cards -->
+          <div class="st-focus-kpi-deck">
+            <!-- Card 1: Total Study Time -->
+            <div class="st-focus-kpi-item">
+              <div class="st-fkpi-top">
+                <span class="st-fkpi-icon" style="background: rgba(99, 102, 241, 0.15); color: #6366f1;">⏱️</span>
+                <span class="st-fkpi-label">Focused Study Today</span>
+              </div>
+              <div class="st-fkpi-val">${formatDurationDisplay(totalDayStudySeconds)}</div>
+              <div class="st-fkpi-sub">
+                <div class="st-fkpi-prog-track">
+                  <div class="st-fkpi-prog-fill" style="width: ${Math.min(100, Math.round((totalDayStudySeconds / 14400) * 100))}%;"></div>
+                </div>
+                <span>${totalDayStudySeconds > 0 ? `${Math.round(totalDayStudySeconds / 60)} mins active reading` : 'No reading sessions logged yet'}</span>
+              </div>
+            </div>
+
+            <!-- Card 2: Deep Work Chapters -->
+            <div class="st-focus-kpi-item">
+              <div class="st-fkpi-top">
+                <span class="st-fkpi-icon" style="background: rgba(16, 185, 129, 0.15); color: #10b981;">⚡</span>
+                <span class="st-fkpi-label">Deep Work Chapters</span>
+              </div>
+              <div class="st-fkpi-val">${deepWorkChapters.length} <small>chapters</small></div>
+              <div class="st-fkpi-sub">
+                ${deepWorkChapters.length > 0 ? `🔥 &ge;25m intensive reading` : 'Aim for 25m+ deep reading sessions'}
+              </div>
+            </div>
+
+            <!-- Card 3: Active Chapters Read -->
+            <div class="st-focus-kpi-item">
+              <div class="st-fkpi-top">
+                <span class="st-fkpi-icon" style="background: rgba(14, 165, 233, 0.15); color: #0ea5e9;">📖</span>
+                <span class="st-fkpi-label">Chapters Studied</span>
+              </div>
+              <div class="st-fkpi-val">${studiedChaptersList.length} <small>/ ${readingTopics.length} planned</small></div>
+              <div class="st-fkpi-sub">
+                ${readingTopics.length > 0 ? `${Math.round((studiedChaptersList.length / Math.max(1, readingTopics.length)) * 100)}% coverage of planned targets` : 'Add chapters to your daily plan'}
+              </div>
+            </div>
+
+            <!-- Card 4: Time Leakage & Backlog Radar -->
+            <div class="st-focus-kpi-item ${unopenedPlannedTargets.length > 0 ? 'is-warning' : ''}">
+              <div class="st-fkpi-top">
+                <span class="st-fkpi-icon" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b;">🛡️</span>
+                <span class="st-fkpi-label">Time Leakage Radar</span>
+              </div>
+              <div class="st-fkpi-val" style="${unopenedPlannedTargets.length > 0 ? 'color:#f59e0b;' : ''}">
+                ${unopenedPlannedTargets.length} <small>unopened</small>
+              </div>
+              <div class="st-fkpi-sub">
+                ${unopenedPlannedTargets.length > 0 ? `⚠️ ${unopenedPlannedTargets.length} planned chapters have 0m study logged!` : '✅ Zero leakage! All planned targets opened.'}
+              </div>
+            </div>
+          </div>
+
+          <!-- Subject Distribution Segmented Bar (if any study recorded) -->
+          ${studiedChaptersList.length > 0 ? `
+            <div class="st-focus-distribution-wrap">
+              <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:0.4rem;">
+                <span style="font-size:0.75rem; font-weight:700; text-transform:uppercase; letter-spacing:0.04em; color:var(--md-default-fg-color--light);">
+                  Subject Focus Distribution
+                </span>
+                <span style="font-size:0.75rem; color:var(--md-default-fg-color--light);">
+                  ${Object.keys(subjectDistribution).length} active subjects
+                </span>
+              </div>
+              <div class="st-focus-dist-bar">
+                ${renderSubjectDistSegmentsHtml(subjectDistribution, totalDayStudySeconds)}
+              </div>
+              <div class="st-focus-dist-legend">
+                ${renderSubjectDistLegendHtml(subjectDistribution, totalDayStudySeconds)}
+              </div>
+            </div>
+          ` : ''}
+
+          <!-- Chapter Focus Log & Velocity Table / Cards -->
+          <div class="st-focus-chapters-panel">
+            <div class="st-focus-panel-head">
+              <span style="font-size:0.85rem; font-weight:700;">📖 Chapter Reading Velocity & Time Log</span>
+              <span style="font-size:0.75rem; color:var(--md-default-fg-color--light);">${studiedChaptersList.length} chapters logged</span>
+            </div>
+            ${studiedChaptersList.length === 0 ? `
+              <div class="st-empty-focus-state">
+                <span style="font-size:2rem; display:block; margin-bottom:0.35rem;">⏱️</span>
+                <strong>No reading sessions logged yet for this date</strong>
+                <p>Open any chapter notes in the library — your active focus stopwatch starts automatically and accumulates till 11:59 PM!</p>
+              </div>
+            ` : `
+              <div class="st-focus-chapters-grid">
+                ${studiedChaptersList.map(ch => `
+                  <div class="st-fchap-card">
+                    <div class="st-fchap-top">
+                      <span class="st-sub-pill ${getSubjectPillClass(ch.subject)}">${ch.subject}</span>
+                      <span class="st-fchap-velocity ${ch.seconds >= 1800 ? 'is-deep' : (ch.seconds >= 600 ? 'is-active' : 'is-quick')}">
+                        ${ch.seconds >= 1800 ? '⚡ Deep Dive (>30m)' : (ch.seconds >= 600 ? '📖 Active Study' : '⚡ Quick Scan')}
+                      </span>
+                    </div>
+                    <div class="st-fchap-title">${escapeHtml(ch.title || ch.topic)}</div>
+                    <div class="st-fchap-footer">
+                      <div class="st-fchap-time">
+                        <span class="st-fchap-clock-icon">⏱️</span>
+                        <strong>${formatDurationDisplay(ch.seconds)}</strong>
+                        <span class="st-fchap-pct">(${totalDayStudySeconds > 0 ? Math.round((ch.seconds / totalDayStudySeconds) * 100) : 0}%)</span>
+                      </div>
+                      <a href="${getSiteBasePath()}subjects/${encodeURIComponent(ch.subject)}/${encodeURIComponent(ch.topic)}/" class="st-act-btn is-primary" style="font-size:0.75rem; padding:0.25rem 0.6rem; text-decoration:none;">
+                        📖 Open Notes
+                      </a>
+                    </div>
+                  </div>
+                `).join('')}
+              </div>
+            `}
+          </div>
+
+          <!-- Time Leak Diagnostics Warning (if unopened targets exist) -->
+          ${unopenedPlannedTargets.length > 0 ? `
+            <div class="st-focus-leak-box">
+              <div class="st-leak-icon">⚠️</div>
+              <div class="st-leak-content">
+                <strong>Attention: Time Leakage Detected on ${unopenedPlannedTargets.length} Planned Chapters</strong>
+                <p>
+                  You scheduled these chapters for today, but have not opened them yet:
+                  <strong>${unopenedPlannedTargets.map(t => escapeHtml(t.topic)).slice(0, 4).join(', ')}${unopenedPlannedTargets.length > 4 ? ` and ${unopenedPlannedTargets.length - 4} more` : ''}</strong>.
+                  Conquer them before 11:59 PM to prevent them from moving into your Cumulative Overdue Backlog!
+                </p>
+              </div>
+            </div>
+          ` : ''}
+        </div>
+
         <!-- DAILY TARGET PLANNER & MIDNIGHT EXECUTION HUB -->
         <div class="st-planner-section" id="st-planner-root">
           <div class="st-planner-header">
@@ -3904,6 +4545,7 @@
             </div>
             <div class="st-planner-actions-bar">
               <!-- Midnight Deadline Checkpoint Badge -->
+              <span class="st-planner-studytime-badge" title="Total active reading time tracked on this date across chapters">⏱️ Studied: ${formatDurationDisplay(totalDayStudySeconds)}</span>
               <span class="st-planner-midnight-badge" title="Daily study milestone deadline">
                 🌙 Time Slot Till Midnight Active &bull; ${midnightCountdownStr}
               </span>
@@ -4079,12 +4721,15 @@
                     </div>
                   ` : `
                     <div class="st-topic-items-list">
-                      ${midnightTargets.map(t => `
+                      ${midnightTargets.map(t => {
+                        const topicStudySec = getTodayChapterStudySeconds(t.subject, t.topic, activePlannerDate);
+                        return `
                         <div class="st-topic-item" id="topic-item-${t.id}">
                           <div class="st-topic-info-main">
                             <div class="st-topic-name-row">
                               <span class="st-sub-pill ${getSubjectPillClass(t.subject)}">${t.subject}</span>
                               <strong style="font-size:0.9rem;">${escapeHtml(t.topic)}</strong>
+                              <span class="st-topic-time-badge ${topicStudySec > 0 ? '' : 'is-zero'}" title="Active time spent reading this chapter on ${activePlannerDate}">⏱️ ${topicStudySec > 0 ? formatDurationDisplay(topicStudySec) : '0m'}</span>
                             </div>
                             ${t.notes ? `<div class="st-topic-note-text">📝 ${escapeHtml(t.notes)}</div>` : ''}
                           </div>
@@ -4100,7 +4745,8 @@
                             </button>
                           </div>
                         </div>
-                      `).join('')}
+                      `;
+                      }).join('')}
                     </div>
                   `}
                 </div>
@@ -4113,12 +4759,15 @@
                       <span class="st-slot-badge-tag" style="background:#e0e7ff; color:#3730a3;">${eveningTargets.length} Planned</span>
                     </div>
                     <div class="st-topic-items-list">
-                      ${eveningTargets.map(t => `
+                      ${eveningTargets.map(t => {
+                        const topicStudySec = getTodayChapterStudySeconds(t.subject, t.topic, activePlannerDate);
+                        return `
                         <div class="st-topic-item" id="topic-item-${t.id}">
                           <div class="st-topic-info-main">
                             <div class="st-topic-name-row">
                               <span class="st-sub-pill ${getSubjectPillClass(t.subject)}">${t.subject}</span>
                               <strong style="font-size:0.9rem;">${escapeHtml(t.topic)}</strong>
+                              <span class="st-topic-time-badge ${topicStudySec > 0 ? '' : 'is-zero'}" title="Active time spent reading this chapter on ${activePlannerDate}">⏱️ ${topicStudySec > 0 ? formatDurationDisplay(topicStudySec) : '0m'}</span>
                             </div>
                             ${t.notes ? `<div class="st-topic-note-text">📝 ${escapeHtml(t.notes)}</div>` : ''}
                           </div>
@@ -4134,7 +4783,8 @@
                             </button>
                           </div>
                         </div>
-                      `).join('')}
+                      `;
+                      }).join('')}
                     </div>
                   </div>
                 ` : ''}
@@ -4151,12 +4801,15 @@
                     </div>
                   ` : `
                     <div class="st-topic-items-list">
-                      ${achievedTopics.map(t => `
+                      ${achievedTopics.map(t => {
+                        const topicStudySec = getTodayChapterStudySeconds(t.subject, t.topic, activePlannerDate);
+                        return `
                         <div class="st-topic-item" id="topic-item-${t.id}" style="background: rgba(16, 185, 129, 0.08); border-color: rgba(16, 185, 129, 0.3);">
                           <div class="st-topic-info-main">
                             <div class="st-topic-name-row">
                               <span class="st-sub-pill ${getSubjectPillClass(t.subject)}">${t.subject}</span>
                               <span style="text-decoration: line-through; opacity: 0.85;">${escapeHtml(t.topic)}</span>
+                              <span class="st-topic-time-badge ${topicStudySec > 0 ? '' : 'is-zero'}" title="Active time spent reading this chapter on ${activePlannerDate}">⏱️ ${topicStudySec > 0 ? formatDurationDisplay(topicStudySec) : '0m'}</span>
                               <span class="st-slot-badge-tag st-tag-achieved" style="font-size:0.65rem;">
                                 ${t.cleared_by === 'read_marker' ? '📖 Marked via Chapter Note' : '✅ Completed'}
                               </span>
@@ -4172,7 +4825,8 @@
                             </button>
                           </div>
                         </div>
-                      `).join('')}
+                      `;
+                      }).join('')}
                     </div>
                   `}
                 </div>
@@ -4192,12 +4846,15 @@
                       These chapters were scheduled on this date and not completed before midnight.
                     </p>
                     <div class="st-topic-items-list">
-                      ${dateBacklogTopics.map(t => `
+                      ${dateBacklogTopics.map(t => {
+                        const topicStudySec = getTodayChapterStudySeconds(t.subject, t.topic, activePlannerDate);
+                        return `
                         <div class="st-topic-item" id="topic-item-${t.id}" style="background: rgba(239, 68, 68, 0.05); border-color: rgba(239, 68, 68, 0.35);">
                           <div class="st-topic-info-main">
                             <div class="st-topic-name-row">
                               <span class="st-sub-pill ${getSubjectPillClass(t.subject)}">${t.subject}</span>
                               <strong style="color: #b91c1c;">${escapeHtml(t.topic)}</strong>
+                              <span class="st-topic-time-badge ${topicStudySec > 0 ? '' : 'is-zero'}" title="Active time spent reading this chapter on ${activePlannerDate}">⏱️ ${topicStudySec > 0 ? formatDurationDisplay(topicStudySec) : '0m'}</span>
                               <span class="st-slot-badge-tag st-tag-pending" style="font-size:0.65rem;">
                                 ⚠️ Backlog
                               </span>
@@ -4222,7 +4879,8 @@
                             </button>
                           </div>
                         </div>
-                      `).join('')}
+                      `;
+                      }).join('')}
                     </div>
                   `}
                 </div>

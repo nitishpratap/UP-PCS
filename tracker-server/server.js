@@ -1423,6 +1423,50 @@ app.post('/api/daily-planner/topic', checkDb, async (req, res) => {
   }
 });
 
+// Record and sync chapter study time for date
+app.post('/api/daily-planner/study-time', checkDb, async (req, res) => {
+  try {
+    const { date, subject, topic, seconds, title } = req.body;
+    if (!subject || !topic || seconds === undefined) {
+      return res.status(400).json({ error: 'Subject, topic, and seconds are required' });
+    }
+    const targetDate = date || getTodayStr();
+    const cleanSub = String(subject).toLowerCase().trim();
+    const cleanTop = String(topic).trim();
+    const secNum = parseInt(seconds, 10) || 0;
+
+    // 1. Update daily_planner doc's reading_topics if the topic is present
+    await db.collection('daily_planner').updateOne(
+      { date: targetDate, 'reading_topics.subject': cleanSub, 'reading_topics.topic': cleanTop },
+      {
+        $set: {
+          'reading_topics.$.study_seconds': secNum,
+          'reading_topics.$.last_read_at': new Date(),
+          updated_at: new Date()
+        }
+      }
+    );
+
+    // 2. Also record in daily_study_time for permanent analytics
+    await db.collection('daily_study_time').updateOne(
+      { date: targetDate, subject: cleanSub, topic: cleanTop },
+      {
+        $set: {
+          title: title || cleanTop,
+          seconds: secNum,
+          updated_at: new Date()
+        },
+        $setOnInsert: { created_at: new Date() }
+      },
+      { upsert: true }
+    );
+
+    res.json({ success: true, date: targetDate, seconds: secNum });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
 // Update reading topic (status, slot, notes)
 app.patch('/api/daily-planner/topic/:id', checkDb, async (req, res) => {
   try {
