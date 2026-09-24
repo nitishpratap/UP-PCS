@@ -1603,6 +1603,10 @@
           </div>
         </div>
 
+        <div style="font-size:0.7rem; color:var(--md-default-fg-color--light); background:rgba(39,60,117,0.04); border-radius:6px; padding:0.3rem 0.5rem; margin-top:0.35rem; text-align:center;">
+          💡 Chapters are logged in the <strong>Velocity Log</strong> once read for at least <strong>5 minutes</strong>.
+        </div>
+
         <!-- Today's Plan Summary -->
         <div class="st-hud-plan-banner">
           <div class="st-hud-plan-title">
@@ -4324,8 +4328,11 @@
     const totalDayStudySeconds = dailyStudyRecord.totalSeconds || 0;
 
     // Focus Studio Analytics computation
+    const MIN_CHAPTER_LOG_SECONDS = 300; // Log chapter read only if opened for >= 5 minutes (300s)
     const dailyStudyChapters = dailyStudyRecord.chapters || {};
-    const studiedChaptersList = Object.values(dailyStudyChapters).sort((a, b) => (b.seconds || 0) - (a.seconds || 0));
+    const allStudiedChapters = Object.values(dailyStudyChapters).sort((a, b) => (b.seconds || 0) - (a.seconds || 0));
+    const studiedChaptersList = allStudiedChapters.filter(c => (c.seconds || 0) >= MIN_CHAPTER_LOG_SECONDS);
+    const sub5mChaptersList = allStudiedChapters.filter(c => (c.seconds || 0) > 0 && (c.seconds || 0) < MIN_CHAPTER_LOG_SECONDS);
     const deepWorkChapters = studiedChaptersList.filter(c => (c.seconds || 0) >= 1500); // >= 25 mins
 
     // Time leakage diagnostics: planned chapters for this date with < 60s read
@@ -4334,9 +4341,9 @@
       return sec < 60;
     });
 
-    // Subject focus distribution map
+    // Subject focus distribution map (uses all active seconds so pie/bar matches totalDayStudySeconds)
     const subjectDistribution = {};
-    studiedChaptersList.forEach(c => {
+    allStudiedChapters.forEach(c => {
       const sub = (c.subject || 'other').toLowerCase();
       subjectDistribution[sub] = (subjectDistribution[sub] || 0) + (c.seconds || 0);
     });
@@ -4611,14 +4618,24 @@
           <!-- Chapter Focus Log & Velocity Table / Cards -->
           <div class="st-focus-chapters-panel">
             <div class="st-focus-panel-head">
-              <span style="font-size:0.85rem; font-weight:700;">📖 Chapter Reading Velocity & Time Log</span>
-              <span style="font-size:0.75rem; color:var(--md-default-fg-color--light);">${studiedChaptersList.length} chapters logged</span>
+              <div>
+                <span style="font-size:0.85rem; font-weight:700;">📖 Chapter Reading Velocity & Time Log</span>
+                <div style="font-size:0.75rem; color:var(--md-default-fg-color--light); margin-top:2px;">
+                  💡 A chapter is logged as read only if opened for at least <strong>5 minutes</strong>.
+                </div>
+              </div>
+              <span style="font-size:0.75rem; color:var(--md-default-fg-color--light); font-weight:600;">${studiedChaptersList.length} chapter${studiedChaptersList.length === 1 ? '' : 's'} logged</span>
             </div>
             ${studiedChaptersList.length === 0 ? `
               <div class="st-empty-focus-state">
                 <span style="font-size:2rem; display:block; margin-bottom:0.35rem;">⏱️</span>
-                <strong>No reading sessions logged yet for this date</strong>
-                <p>Open any chapter notes in the library — your active focus stopwatch starts automatically and accumulates till 11:59 PM!</p>
+                <strong>No chapters logged yet for this date (&ge;5 min read)</strong>
+                <p>A chapter is logged as read once you study it for at least <strong>5 minutes</strong>. Quick glimpses under 5m are excluded to maintain high-quality focus metrics.</p>
+                ${sub5mChaptersList.length > 0 ? `
+                  <div style="margin-top:0.75rem; font-size:0.75rem; color:var(--md-default-fg-color--light); background:rgba(39,60,117,0.04); padding:0.45rem 0.7rem; border-radius:6px; display:inline-block;">
+                    ⏳ <strong>Reading in progress (&lt;5m):</strong> ${sub5mChaptersList.map(c => `${escapeHtml(c.title || c.topic)} (<em>${formatDurationDisplay(c.seconds)}</em>)`).join(' &bull; ')}
+                  </div>
+                ` : ''}
               </div>
             ` : `
               <div class="st-focus-chapters-grid">
@@ -4627,7 +4644,7 @@
                     <div class="st-fchap-top">
                       <span class="st-sub-pill ${getSubjectPillClass(ch.subject)}">${ch.subject}</span>
                       <span class="st-fchap-velocity ${ch.seconds >= 1800 ? 'is-deep' : (ch.seconds >= 600 ? 'is-active' : 'is-quick')}">
-                        ${ch.seconds >= 1800 ? '⚡ Deep Dive (>30m)' : (ch.seconds >= 600 ? '📖 Active Study' : '⚡ Quick Scan')}
+                        ${ch.seconds >= 1800 ? '⚡ Deep Dive (>30m)' : (ch.seconds >= 600 ? '📖 Active Study (>10m)' : '⚡ Read (≥5m)')}
                       </span>
                     </div>
                     <div class="st-fchap-title">${escapeHtml(ch.title || ch.topic)}</div>
@@ -4644,6 +4661,12 @@
                   </div>
                 `).join('')}
               </div>
+              ${sub5mChaptersList.length > 0 ? `
+                <div style="margin-top:0.75rem; padding:0.45rem 0.75rem; background:rgba(99,102,241,0.04); border-radius:8px; border:1px dashed rgba(99,102,241,0.25); font-size:0.75rem; color:var(--md-default-fg-color--light); display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:0.5rem;">
+                  <span>⏳ <strong>Reading in progress (&lt;5 min):</strong> ${sub5mChaptersList.map(c => `${escapeHtml(c.title || c.topic)} (<em>${formatDurationDisplay(c.seconds)}</em>)`).join(' &bull; ')}</span>
+                  <span style="font-size:0.7rem; color:var(--md-default-fg-color--light);">Logs automatically upon reaching 5m</span>
+                </div>
+              ` : ''}
             `}
           </div>
 
