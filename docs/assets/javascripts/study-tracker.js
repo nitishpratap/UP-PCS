@@ -2532,9 +2532,6 @@
       } catch (err) {}
     }
 
-    const modalBox = document.getElementById('st-modal-box');
-    if (modalBox) modalBox.classList.add('st-modal-wide');
-
     if (trapQuestions.length === 0) {
       const emptyHtml = `
         <div class="st-empty-state" style="padding: 2.5rem 1.5rem; text-align: center;">
@@ -2563,18 +2560,25 @@
       return;
     }
 
-    // Build the Trap Radar UI — clean expandable list
+    // Build the Trap Radar UI — clean card list
     const html = `
       <div class="st-trap-modal-card">
-        <div class="st-trap-toolbar">
-          <div class="st-trap-toolbar-meta">
-            <span class="st-trap-summary-pill">${trapQuestions.length} traps</span>
+        <div class="st-trap-header-bar">
+          <div class="st-trap-header-left">
+            <span class="st-trap-summary-pill">⚠️ ${trapQuestions.length} traps</span>
             <span class="st-kpi-badge ${priorityInfo.badgeClass}" style="font-size:0.74rem;">
               Target ${priorityInfo.targetAccuracy}%
             </span>
             <span class="st-trap-topic-chip" title="${escapeHtml(topicInfo.title)}">${escapeHtml(topicInfo.title)}</span>
           </div>
-          <input type="search" class="st-trap-search" id="st-trap-search-input" placeholder="Filter traps…" autocomplete="off" />
+          <button type="button" class="st-trap-drill-all-btn" id="st-btn-drill-all-traps">
+            ⚡ Drill all ${trapQuestions.length}
+          </button>
+        </div>
+
+        <div class="st-trap-search-bar">
+          <input type="search" class="st-trap-search" id="st-trap-search-input" placeholder="Filter traps by keyword or subtopic…" autocomplete="off" />
+          <span class="st-trap-count-label">Showing <strong id="st-trap-visible-count">${trapQuestions.length}</strong> / ${trapQuestions.length}</span>
         </div>
 
         <div class="st-trap-list" id="st-trap-cards-container">
@@ -2586,7 +2590,6 @@
             const stemText = (q.stem && String(q.stem).trim())
               || (q.q_header && String(q.q_header).trim())
               || 'Stem not saved for this trap — open Practice to reload.';
-            const isOpen = idx === 0 ? ' is-open' : '';
 
             let optionsHtml = '';
             if (hasOptionsObj) {
@@ -2598,10 +2601,10 @@
                 let badge = '';
                 if (isUserWrong) {
                   optClass = 'st-trap-opt-is-user-wrong';
-                  badge = '<span class="st-trap-opt-badge is-wrong">Your pick</span>';
+                  badge = '<span class="st-trap-opt-badge is-wrong">Your pick ❌</span>';
                 } else if (isCorrect) {
                   optClass = 'st-trap-opt-is-correct';
-                  badge = '<span class="st-trap-opt-badge is-correct">Correct</span>';
+                  badge = '<span class="st-trap-opt-badge is-correct">Correct ✔️</span>';
                 }
                 return '<div class="st-trap-option-item ' + optClass + '">'
                   + '<div class="st-trap-opt-letter">' + k + '</div>'
@@ -2617,59 +2620,57 @@
             }
 
             const explHtml = q.explanation
-              ? ('<details class="st-trap-expl-details"><summary>Explanation</summary><div class="st-trap-expl-card">'
-                + escapeHtml(q.explanation).replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
-                + '</div></details>')
+              ? ('<div class="st-trap-expl-card">'
+                + '<div style="font-weight:700;font-size:0.78rem;text-transform:uppercase;letter-spacing:0.04em;color:#6366f1;margin-bottom:0.35rem;">💡 Explanation</div>'
+                + '<div>' + escapeHtml(q.explanation).replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>') + '</div>'
+                + '</div>')
               : '';
 
             const jumpBtn = q.section_title
-              ? ('<button type="button" class="st-trap-action-btn st-jump-btn" data-section="' + escapeHtml(q.section_title) + '">Jump to notes</button>')
+              ? ('<button type="button" class="st-trap-action-btn st-jump-btn" data-section="' + escapeHtml(q.section_title) + '">📖 Jump to notes</button>')
               : '';
 
             const subtopicChip = q.section_title
-              ? ('<span class="st-trap-tag-subtopic" data-section="' + escapeHtml(q.section_title) + '">' + escapeHtml(q.section_title) + '</span>')
+              ? ('<span class="st-trap-tag-subtopic" data-section="' + escapeHtml(q.section_title) + '" title="Jump to note section">📂 ' + escapeHtml(q.section_title) + ' ↗</span>')
               : '';
             const srcChip = q.q_header
-              ? ('<span class="st-trap-src">' + escapeHtml(q.q_header) + '</span>')
+              ? ('<span class="st-trap-src" title="' + escapeHtml(q.q_header) + '">' + escapeHtml(q.q_header) + '</span>')
               : '';
 
             return `
-              <article class="st-trap-card${isOpen}" data-stem="${escapeHtml((stemText + ' ' + (q.section_title || '') + ' ' + (q.q_header || '')).toLowerCase())}">
-                <button type="button" class="st-trap-card-head" aria-expanded="${idx === 0 ? 'true' : 'false'}">
-                  <span class="st-trap-tag-num">#${idx + 1}</span>
-                  <span class="st-trap-head-main">
-                    <span class="st-trap-stem-preview">${escapeHtml(stemText)}</span>
-                    <span class="st-trap-head-sub">
-                      ${subtopicChip}
-                      ${srcChip}
-                    </span>
-                  </span>
-                  <span class="st-trap-miss-pill" title="Missed in ${missCount} attempt${missCount > 1 ? 's' : ''}">×${missCount}</span>
-                  <span class="st-trap-chevron" aria-hidden="true"></span>
-                </button>
-
-                <div class="st-trap-card-body">
-                  <p class="st-trap-stem">${escapeHtml(stemText)}</p>
-                  ${optionsHtml}
-                  ${explHtml}
-                  <div class="st-trap-actions">
-                    ${jumpBtn}
-                    <button type="button" class="st-trap-action-btn st-drill-single-btn is-primary" data-idx="${idx}">
-                      Practice this
-                    </button>
+              <div class="st-trap-card" data-stem="${escapeHtml((stemText + ' ' + (q.section_title || '') + ' ' + (q.q_header || '')).toLowerCase())}">
+                <div class="st-trap-card-meta">
+                  <div class="st-trap-meta-left">
+                    <span class="st-trap-tag-num">Trap #${idx + 1}</span>
+                    ${subtopicChip}
+                    ${srcChip}
                   </div>
+                  <span class="st-trap-miss-pill">❌ Missed ×${missCount}</span>
                 </div>
-              </article>
+
+                <div class="st-trap-stem">${escapeHtml(stemText)}</div>
+
+                ${optionsHtml}
+
+                ${explHtml}
+
+                <div class="st-trap-actions">
+                  ${jumpBtn}
+                  <button type="button" class="st-trap-action-btn st-drill-single-btn is-primary" data-idx="${idx}">
+                    ⚡ Practice this trap
+                  </button>
+                </div>
+              </div>
             `;
           }).join('')}
         </div>
 
         <div class="st-trap-footer">
-          <span class="st-trap-count-label">Showing <strong id="st-trap-visible-count">${trapQuestions.length}</strong> / ${trapQuestions.length}</span>
-          <div class="st-trap-footer-actions">
+          <span class="st-trap-count-label">Total traps: <strong>${trapQuestions.length}</strong></span>
+          <div class="st-trap-footer-actions" style="display:flex;gap:0.6rem;">
             <button type="button" class="st-btn st-btn-outline" id="st-trap-modal-close">Close</button>
             <button type="button" class="st-btn st-btn-primary" id="st-trap-modal-drill-bottom">
-              Drill all ${trapQuestions.length}
+              ⚡ Drill all ${trapQuestions.length}
             </button>
           </div>
         </div>
@@ -2678,24 +2679,8 @@
 
     showModal('Trap Radar', html);
 
+    const modalBox = document.getElementById('st-modal-box');
     if (modalBox) modalBox.classList.add('st-modal-wide');
-
-    document.querySelectorAll('#st-trap-cards-container .st-trap-card-head').forEach(head => {
-      head.addEventListener('click', (e) => {
-        if (e.target.closest('.st-trap-tag-subtopic')) return;
-        const card = head.closest('.st-trap-card');
-        if (!card) return;
-        const willOpen = !card.classList.contains('is-open');
-        document.querySelectorAll('#st-trap-cards-container .st-trap-card.is-open').forEach(c => {
-          c.classList.remove('is-open');
-          c.querySelector('.st-trap-card-head')?.setAttribute('aria-expanded', 'false');
-        });
-        if (willOpen) {
-          card.classList.add('is-open');
-          head.setAttribute('aria-expanded', 'true');
-        }
-      });
-    });
 
     document.getElementById('st-trap-modal-close')?.addEventListener('click', closeModal);
 
@@ -2707,6 +2692,7 @@
       });
     };
 
+    document.getElementById('st-btn-drill-all-traps')?.addEventListener('click', startDrillAll);
     document.getElementById('st-trap-modal-drill-bottom')?.addEventListener('click', startDrillAll);
 
     document.querySelectorAll('.st-drill-single-btn').forEach(btn => {
