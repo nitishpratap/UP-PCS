@@ -1,5 +1,6 @@
 nav:
   - Home: index.md
+  - Prep Tracker: tracker-dashboard.md
   - Error Tracker: error-tracker.md
   - Chapter Tracker: chapter-tracker.md
   - Subject Notes: subjects

@@ -72,6 +72,7 @@ extra_css:
 extra_javascript:
   - assets/javascripts/reading-mode.js
   - assets/javascripts/chapter-tracker.js
+  - assets/javascripts/study-tracker.js
 
 markdown_extensions:
   - admonition
