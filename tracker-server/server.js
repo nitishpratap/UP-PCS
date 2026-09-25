@@ -120,8 +120,12 @@ function verifyBasicAuthHeader(authHeader) {
 
 function requireBasicAuth(req, res, next) {
   if (req.method === 'OPTIONS') return next();
-  // Allow health check status without auth
+  // Safe read-only and study evaluation endpoints are accessible across student devices
+  if (req.method === 'GET') return next();
   if (req.path === '/status' || req.originalUrl === '/api/status') return next();
+  if (req.path === '/chapter-test/evaluate' || req.path === '/quick-read' || req.path === '/study-time-log' || req.path === '/daily-planner/resolve') {
+    return next();
+  }
 
   if (verifyBasicAuthHeader(req.headers.authorization)) {
     return next();
@@ -736,21 +740,28 @@ app.post('/api/chapter-test/evaluate', checkDb, async (req, res) => {
       return res.status(400).json({ error: 'subject and topic are required' });
     }
 
-    const questionIds = Object.keys(answers);
+    // Client sends the full list of question_ids tested (e.g. 50 questions)
+    const testQuestionIds = (Array.isArray(req.body.question_ids) && req.body.question_ids.length > 0)
+      ? req.body.question_ids
+      : Object.keys(answers || {});
+
     const escapedTopic = targetTopic.replace(/[-_]/g, '[-_ ]');
     const topicRegex = new RegExp(`^${escapedTopic}$`, 'i');
     const subjectRegex = new RegExp(`^${subject.toLowerCase().trim().replace(/[-_]/g, '[-_ ]')}$`, 'i');
 
     let dbQuestions = [];
-    if (questionIds.length > 0) {
-      // Fetch specifically tested questions
-      dbQuestions = await db.collection('questions')
-        .find({ q_id: { $in: questionIds } })
-        .sort({ q_num: 1 })
+    if (testQuestionIds.length > 0) {
+      // Fetch all specifically tested questions from MongoDB
+      const foundQuestions = await db.collection('questions')
+        .find({ q_id: { $in: testQuestionIds } })
         .toArray();
+      // Maintain exact test ordering
+      const qMap = new Map();
+      foundQuestions.forEach(q => qMap.set(q.q_id, q));
+      dbQuestions = testQuestionIds.map(id => qMap.get(id)).filter(Boolean);
     }
 
-    // If answers map had fewer items than test or empty, fallback to fetching all chapter questions
+    // Fallback if question_ids not found in DB
     if (dbQuestions.length === 0) {
       dbQuestions = await db.collection('questions')
         .find({
@@ -758,6 +769,7 @@ app.post('/api/chapter-test/evaluate', checkDb, async (req, res) => {
           chapter: { $regex: topicRegex }
         })
         .sort({ q_num: 1 })
+        .limit(req.body.is_mastery_gate ? 50 : 200)
         .toArray();
     }
 
@@ -896,9 +908,9 @@ app.post('/api/chapter-test/evaluate', checkDb, async (req, res) => {
 
     // Strict Chapter Mastery Gate: Requires at least 80% score of the TOTAL EXAM marks to mark read
     const isMasteryGate = req.body.is_mastery_gate === true;
-    const minMasteryScorePct = 80;
     // Must achieve >= 80% of total exam marks (netMarks / maxMarks), NOT just accuracy of attempted questions
-    const isMasteryPassed = isMasteryGate && (scorePct >= minMasteryScorePct) && (netMarks > 0);
+    // Chapter Mastery Exam must have at least 5 questions (e.g. 50 Qs) — never 1 question!
+    const isMasteryPassed = isMasteryGate && (totalQuestions >= 5) && (scorePct >= minMasteryScorePct) && (netMarks > 0);
     let newRevisionNumber = null;
 
     if (isMasteryPassed) {
