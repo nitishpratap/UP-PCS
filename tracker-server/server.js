@@ -149,6 +149,16 @@ async function findAndSyncChapterFile(dbInstance, subject, targetTopic) {
   const targetDir = path.join(subjectsDir, subjectDirName);
   if (!fs.existsSync(targetDir)) return null;
 
+  function cleanString(str) {
+    return (str || '')
+      .toLowerCase()
+      .replace(/^topic\s*\d+\s*[-–—:]*\s*/i, '')
+      .replace(/^[0-9\.\s\-_]+/, '')
+      .replace(/[-_ ]/g, '');
+  }
+
+  const cleanTarget = cleanString(targetTopic);
+
   function searchFile(dir) {
     const entries = fs.readdirSync(dir);
     for (const entry of entries) {
@@ -156,22 +166,35 @@ async function findAndSyncChapterFile(dbInstance, subject, targetTopic) {
       if (fs.statSync(full).isDirectory()) {
         const found = searchFile(full);
         if (found) return found;
-      } else if (entry.endsWith('.md')) {
+      } else if (entry.endsWith('.md') && !entry.endsWith('index.md') && !entry.endsWith('prompt.md')) {
         const slug = entry.replace(/\.md$/, '');
-        const normSlug = slug.toLowerCase().replace(/[-_ ]/g, '');
-        const normTarget = targetTopic.toLowerCase().replace(/[-_ ]/g, '');
-        if (normSlug === normTarget) {
-          return full;
+        const cleanSlug = cleanString(slug);
+        const relPath = path.relative(targetDir, full).replace(/\\/g, '/').replace(/\.md$/, '');
+        const cleanRel = cleanString(relPath);
+
+        if (cleanSlug === cleanTarget || cleanRel === cleanTarget || (cleanTarget.length >= 4 && cleanSlug.includes(cleanTarget)) || (cleanSlug.length >= 4 && cleanTarget.includes(cleanSlug))) {
+          return { full, relSlug: relPath };
         }
+
+        try {
+          const head = fs.readFileSync(full, 'utf8').substring(0, 600);
+          const h1Match = head.match(/^#\s+(.+)$/m);
+          if (h1Match) {
+            const cleanH1 = cleanString(h1Match[1]);
+            if (cleanH1 === cleanTarget || (cleanTarget.length >= 4 && cleanH1.includes(cleanTarget)) || (cleanH1.length >= 4 && cleanTarget.includes(cleanH1))) {
+              return { full, relSlug: relPath };
+            }
+          }
+        } catch (e) {}
       }
     }
     return null;
   }
 
-  const foundPath = searchFile(targetDir);
-  if (foundPath) {
-    const res = await syncChapterQuestions(dbInstance, foundPath, subject, targetTopic);
-    console.log(`[On-Demand Sync] Found file "${foundPath}" -> Ingested ${res.count} questions for [${subject} / ${targetTopic}]`);
+  const found = searchFile(targetDir);
+  if (found) {
+    const res = await syncChapterQuestions(dbInstance, found.full, subject, found.relSlug);
+    console.log(`[On-Demand Sync] Found file "${found.full}" -> Ingested ${res.count} questions for [${subject} / ${found.relSlug}]`);
     return res;
   }
   return null;
@@ -608,30 +631,48 @@ app.get('/api/chapter-questions', checkDb, async (req, res) => {
     }
 
     const normSubject = subject.toLowerCase().trim();
-    // Case-insensitive flexible regex for chapter
-    const escapedTopic = targetTopic.replace(/[-_]/g, '[-_ ]');
-    const topicRegex = new RegExp(`^${escapedTopic}$`, 'i');
     const subjectRegex = new RegExp(`^${normSubject.replace(/[-_]/g, '[-_ ]')}$`, 'i');
 
-    const query = {
-      subject: { $regex: subjectRegex },
-      chapter: { $regex: topicRegex }
+    const cleanTopicStr = targetTopic
+      .replace(/^topic\s*\d+\s*[-–—:]*\s*/i, '')
+      .replace(/^[0-9\.\s\-_]+/, '')
+      .replace(/[\(\)\[\]]/g, '')
+      .trim();
+
+    const cleanRegex = new RegExp(cleanTopicStr.replace(/[-_]/g, '[-_ ]'), 'i');
+    const topicRegex = new RegExp(targetTopic.replace(/[-_]/g, '[-_ ]'), 'i');
+
+    function buildQuery() {
+      return {
+        subject: { $regex: subjectRegex },
+        $or: [
+          { chapter: { $regex: topicRegex } },
+          { chapter: { $regex: cleanRegex } },
+          { chapter_title: { $regex: topicRegex } },
+          { chapter_title: { $regex: cleanRegex } }
+        ]
+      };
+    }
+
+    const questionProjection = {
+      q_id: 1,
+      subject: 1,
+      chapter: 1,
+      chapter_title: 1,
+      q_num: 1,
+      q_header: 1,
+      stem: 1,
+      options: 1,
+      category: 1,
+      section_title: 1,
+      correct_answer: 1,
+      all_correct_answers: 1,
+      explanation: 1
     };
 
     let questions = await db.collection('questions')
-      .find(query)
-      .project({
-        q_id: 1,
-        subject: 1,
-        chapter: 1,
-        chapter_title: 1,
-        q_num: 1,
-        q_header: 1,
-        stem: 1,
-        options: 1,
-        category: 1,
-        section_title: 1
-      })
+      .find(buildQuery())
+      .project(questionProjection)
       .sort({ q_num: 1 })
       .toArray();
 
@@ -639,19 +680,8 @@ app.get('/api/chapter-questions', checkDb, async (req, res) => {
     if (questions.length === 0) {
       await findAndSyncChapterFile(db, subject, targetTopic);
       questions = await db.collection('questions')
-        .find(query)
-        .project({
-          q_id: 1,
-          subject: 1,
-          chapter: 1,
-          chapter_title: 1,
-          q_num: 1,
-          q_header: 1,
-          stem: 1,
-          options: 1,
-          category: 1,
-          section_title: 1
-        })
+        .find(buildQuery())
+        .project(questionProjection)
         .sort({ q_num: 1 })
         .toArray();
     }

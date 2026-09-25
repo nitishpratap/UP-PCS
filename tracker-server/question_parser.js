@@ -341,6 +341,72 @@ function parseQuestionsFromMarkdown(filePath, subject, chapterSlug) {
     lastIndex = match.index + match[0].length;
   }
 
+  // 2. Parse Inline Questions (e.g. **Q1...** with options A-D and *Answer:* **C**)
+  const seenStems = new Set(questions.map(q => q.stem.substring(0, 40).toLowerCase().replace(/[^a-z0-9]/g, '')));
+  const inlineRegex = /\*\*(Q\s*[-–—]?\s*(?:GC)?\s*\d+|Q\s*[\.:\)]|Q\d+|PYQ\b|Inline PYQ\b|Practice Q\b|Question\s*\d+)[^\*]*?\*\*([\s\S]*?)(?:\*Answer:\*|\*\*Answer:\*\*|\*Ans:\*|\*\*Ans:\*\*|Answer:)\s*\*?\*?([A-D])\*?\*?([^\n\r]*)/gi;
+  let inM;
+  while ((inM = inlineRegex.exec(content)) !== null) {
+    const qHeader = inM[1].trim();
+    const body = inM[2].trim();
+    const correctAns = inM[3].toUpperCase();
+    const restExplanation = inM[4].trim();
+
+    const options = { A: '', B: '', C: '', D: '' };
+    const optRegex = /(?:^|\n)\s*([A-D])[\.\)]\s+([^\n\r]+)/g;
+    let optM;
+    let firstOptIdx = -1;
+    while ((optM = optRegex.exec(body)) !== null) {
+      if (firstOptIdx === -1) firstOptIdx = optM.index;
+      options[optM[1].toUpperCase()] = optM[2].trim();
+    }
+
+    let stem = body;
+    if (firstOptIdx !== -1) {
+      stem = body.substring(0, firstOptIdx).trim();
+    }
+
+    const normStemKey = stem.substring(0, 40).toLowerCase().replace(/[^a-z0-9]/g, '');
+    if (normStemKey && seenStems.has(normStemKey)) continue; // skip if already captured
+    if (normStemKey) seenStems.add(normStemKey);
+
+    const qIndex = questions.length + 1;
+    const qId = `${subject}_${chapterSlug}_${qIndex}`.replace(/[^a-z0-9_]/gi, '_').toLowerCase();
+
+    const sec = getSectionInfoForPos(inM.index);
+    let finalCategory = sec.category;
+    const headerLower = qHeader.toLowerCase();
+    if (headerLower.includes('practice') || headerLower.includes('drill')) {
+      finalCategory = 'practice';
+    } else if (headerLower.includes('gc') || headerLower.includes('ghatnachakra')) {
+      finalCategory = 'ghatnachakra';
+    } else if (headerLower.includes('inline pyq') || headerLower.includes('uppcs') || headerLower.includes('ukpcs') || headerLower.includes('ro/aro')) {
+      finalCategory = 'pyqs';
+    }
+
+    let displayHeader = qHeader;
+    if (finalCategory === 'practice' && !displayHeader.toLowerCase().includes('practice')) {
+      displayHeader = `Practice Zone — ${displayHeader}`;
+    }
+
+    const subtopic = resolveSubtopicForQuestion(inM.index, stem, restExplanation, sec.sectionTitle);
+
+    questions.push({
+      q_id: qId,
+      subject: subject.toLowerCase().trim(),
+      chapter: chapterSlug,
+      chapter_title: chapterTitle,
+      q_num: qIndex,
+      q_header: displayHeader,
+      section_title: subtopic,
+      category: finalCategory,
+      stem,
+      options,
+      correct_answer: correctAns,
+      all_correct_answers: [correctAns],
+      explanation: restExplanation.replace(/^[\(\[\s]+|[\)\]\s]+$/g, '')
+    });
+  }
+
   return { chapterTitle, questions };
 }
 

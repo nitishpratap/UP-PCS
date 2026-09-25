@@ -1239,6 +1239,46 @@
       });
     });
 
+    if (questions.length === 0) {
+      // Fallback: Parse inline questions from content text (e.g. Q1... A. B. C. D. Answer: C)
+      const fullText = container.innerText || '';
+      const inlineRegex = /(?:^|\n)\s*(?:\*\*)?(?:Q|Question)\s*(\d+)[^\n]*\n([\s\S]*?)(?:\*Answer:\*|\*\*Answer:\*\*|\*Ans:\*|\*\*Ans:\*\*|Answer:|Ans:)\s*\*?\*?([A-D])\*?\*?([^\n]*)/gi;
+      let inM;
+      while ((inM = inlineRegex.exec(fullText)) !== null) {
+        const qNum = inM[1];
+        const body = inM[2].trim();
+        const correctAns = inM[3].toUpperCase();
+        const expl = inM[4].trim();
+
+        const options = { A: '', B: '', C: '', D: '' };
+        const optRegex = /(?:^|\n)\s*([A-D])[\.\)]\s+([^\n\r]+)/g;
+        let optM;
+        let firstOptIdx = -1;
+        while ((optM = optRegex.exec(body)) !== null) {
+          if (firstOptIdx === -1) firstOptIdx = optM.index;
+          options[optM[1].toUpperCase()] = optM[2].trim();
+        }
+
+        let stem = body;
+        if (firstOptIdx !== -1) {
+          stem = body.substring(0, firstOptIdx).trim();
+        }
+
+        questions.push({
+          id: `q_${questions.length + 1}`,
+          q_num: Number(qNum) || (questions.length + 1),
+          q_header: `Question ${qNum}`,
+          section_title: 'Practice Questions',
+          category: 'practice',
+          stem: stem,
+          options: options,
+          correct_answer: correctAns,
+          explanation_html: expl ? `<p>${expl}</p>` : `Correct Answer: ${correctAns}`,
+          raw_html: ''
+        });
+      }
+    }
+
     return questions;
   }
 
@@ -2278,10 +2318,19 @@
     const normSub = (subject || '').toLowerCase().trim();
     const cat = CHAPTER_CATALOG[normSub] || [];
     const cleanTopic = (topic || '').trim();
-    const found = cat.find(c => c.slug === cleanTopic || c.title === cleanTopic || c.slug.toLowerCase() === cleanTopic.toLowerCase());
+    const normClean = cleanTopic.toLowerCase().replace(/^topics*d+s*[-–—:]*s*/i, '').replace(/^[0-9.s-_]+/, '').replace(/[-_ ]/g, '');
+    const found = cat.find(c => {
+      if (c.slug === cleanTopic || c.title === cleanTopic) return true;
+      if (c.slug.toLowerCase() === cleanTopic.toLowerCase()) return true;
+      if (c.title && c.title.toLowerCase() === cleanTopic.toLowerCase()) return true;
+      const cNormSlug = c.slug.toLowerCase().replace(/^[0-9.s-_]+/, '').replace(/[-_ ]/g, '');
+      const cNormTitle = (c.title || '').toLowerCase().replace(/^topics*d+s*[-–—:]*s*/i, '').replace(/^[0-9.s-_]+/, '').replace(/[-_ ]/g, '');
+      return (normClean && (cNormSlug === normClean || cNormTitle === normClean || c.slug.toLowerCase().endsWith(normClean)));
+    });
     return {
       subject: normSub,
-      topic: cleanTopic,
+      topic: found ? found.slug : cleanTopic,
+      slug: found ? found.slug : cleanTopic,
       title: found ? found.title : cleanTopic
     };
   }
@@ -2779,7 +2828,14 @@
       }));
     } else {
       try {
-        const res = await authFetch(`${API_BASE}/chapter-questions?subject=${encodeURIComponent(topicInfo.subject)}&topic=${encodeURIComponent(topicInfo.topic)}&shuffle=true`);
+        const queryParams = new URLSearchParams({
+          subject: topicInfo.subject,
+          topic: topicInfo.topic,
+          chapter: topicInfo.slug || topicInfo.topic,
+          title: topicInfo.title || '',
+          shuffle: 'true'
+        });
+        const res = await authFetch(`${API_BASE}/chapter-questions?${queryParams.toString()}`);
         if (res.ok) {
           const data = await res.json();
           if (data.questions && data.questions.length > 0) {
