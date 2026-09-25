@@ -357,8 +357,8 @@ app.get('/api/topic-status', checkDb, async (req, res) => {
         accuracy_pct: pyqAccuracy,
         sessions_count: pyqs.length
       },
-      recent_revisions: revisions.slice(0, 3),
-      recent_pyqs: pyqs.slice(0, 3)
+      recent_revisions: revisions,
+      recent_pyqs: pyqs.slice(0, 10)
     });
   } catch (err) {
     res.status(500).json({ error: err.message });
@@ -894,10 +894,11 @@ app.post('/api/chapter-test/evaluate', checkDb, async (req, res) => {
     let isClearedMastery = false;
     const topWeakSecs = weakSubtopics.filter(ws => ws.mistakes > 0).map(ws => ws.subtopic).slice(0, 3).join(', ');
 
-    // Strict Chapter Mastery Gate: Requires at least 80% accuracy/score to mark read
+    // Strict Chapter Mastery Gate: Requires at least 80% score of the TOTAL EXAM marks to mark read
     const isMasteryGate = req.body.is_mastery_gate === true;
-    const minMasteryAccuracy = 80;
-    const isMasteryPassed = isMasteryGate && (accuracy >= minMasteryAccuracy || scorePct >= minMasteryAccuracy) && attempted >= Math.min(5, totalQuestions);
+    const minMasteryScorePct = 80;
+    // Must achieve >= 80% of total exam marks (netMarks / maxMarks), NOT just accuracy of attempted questions
+    const isMasteryPassed = isMasteryGate && (scorePct >= minMasteryScorePct) && (netMarks > 0);
     let newRevisionNumber = null;
 
     if (isMasteryPassed) {
@@ -914,7 +915,18 @@ app.post('/api/chapter-test/evaluate', checkDb, async (req, res) => {
         topic_title: evaluationDoc.topic_title,
         revision_number: newRevisionNumber,
         confidence: 5,
-        notes: `Chapter Mastery Exam Passed (${accuracy}% Accuracy, Net: ${netMarks}/${maxMarks} marks on ${totalQuestions} Qs)`,
+        stage: '🏆 Chapter Mastery Exam Passed',
+        notes: `🏆 Chapter Mastery Exam Passed • Total Score: ${scorePct}% (${netMarks > 0 ? '+' : ''}${netMarks}/${maxMarks} marks) • Accuracy: ${accuracy}% (${correct}/${totalQuestions} Correct, ${incorrect} Incorrect, ${unattempted} Unattempted)`,
+        score_pct: scorePct,
+        net_marks: netMarks,
+        max_marks: maxMarks,
+        accuracy_pct: accuracy,
+        total_questions: totalQuestions,
+        correct: correct,
+        incorrect: incorrect,
+        unattempted: unattempted,
+        time_spent_seconds: time_spent_seconds,
+        test_id: insertRes.insertedId,
         date: logDate,
         next_revision_due: calculateNextDueDate(logDate, newRevisionNumber),
         created_at: new Date()
@@ -1136,7 +1148,24 @@ app.get('/api/chapter-tests', checkDb, async (req, res) => {
 // 5c. Quick +1 Read Count Increment
 app.post('/api/quick-read', checkDb, async (req, res) => {
   try {
-    const { subject, topic, topic_title, notes = '', confidence = 3 } = req.body;
+    const {
+      subject,
+      topic,
+      topic_title,
+      notes = '',
+      confidence = 3,
+      stage = '',
+      score_pct = null,
+      net_marks = null,
+      max_marks = null,
+      accuracy_pct = null,
+      total_questions = null,
+      correct = null,
+      incorrect = null,
+      unattempted = null,
+      time_spent_seconds = null,
+      test_id = null
+    } = req.body;
     if (!subject || !topic) {
       return res.status(400).json({ error: 'subject and topic are required' });
     }
@@ -1158,7 +1187,18 @@ app.post('/api/quick-read', checkDb, async (req, res) => {
       topic_title: topic_title || normTopic,
       revision_number: revNum,
       confidence: Number(confidence) || 3,
+      stage: stage || `Revision #${revNum}`,
       notes: notes || `Read #${revNum} marked`,
+      score_pct: score_pct != null ? Number(score_pct) : null,
+      net_marks: net_marks != null ? Number(net_marks) : null,
+      max_marks: max_marks != null ? Number(max_marks) : null,
+      accuracy_pct: accuracy_pct != null ? Number(accuracy_pct) : null,
+      total_questions: total_questions != null ? Number(total_questions) : null,
+      correct: correct != null ? Number(correct) : null,
+      incorrect: incorrect != null ? Number(incorrect) : null,
+      unattempted: unattempted != null ? Number(unattempted) : null,
+      time_spent_seconds: time_spent_seconds != null ? Number(time_spent_seconds) : null,
+      test_id: test_id || null,
       date: logDate,
       next_revision_due: nextDue,
       created_at: new Date()

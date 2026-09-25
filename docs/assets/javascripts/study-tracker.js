@@ -2338,16 +2338,34 @@
   // Officially conquer chapter upon passing the 80% Mastery Exam
   async function officiallyConquerChapter(topicInfo, scorecard) {
     const accuracy = scorecard?.accuracy_pct || 80;
+    const scorePct = scorecard?.score_pct != null ? scorecard.score_pct : (scorecard?.max_marks > 0 ? Number(((scorecard.net_marks / scorecard.max_marks) * 100).toFixed(1)) : 80);
     const netMarks = scorecard?.net_marks || 0;
     const maxMarks = scorecard?.max_marks || 0;
-    const timeSpentMsg = readingClockSeconds > 0 ? ` (⏱️ Active read time: ${Math.max(1, Math.round(readingClockSeconds / 60))}m)` : '';
+    const totalQs = scorecard?.total_questions || 50;
+    const correct = scorecard?.correct || 0;
+    const incorrect = scorecard?.incorrect || 0;
+    const unattempted = scorecard?.unattempted ?? Math.max(0, totalQs - (correct + incorrect));
+    const timeSpentSec = scorecard?.time_spent_seconds || readingClockSeconds || 0;
+    const timeSpentMsg = timeSpentSec > 0 ? ` (⏱️ ${Math.floor(timeSpentSec / 60)}m ${timeSpentSec % 60}s)` : '';
 
-    // 1. Update local cache
+    const detailedNotes = `🏆 Chapter Mastery Exam Passed • Total Score: ${scorePct}% (${netMarks > 0 ? '+' : ''}${netMarks}/${maxMarks} marks) • Accuracy: ${accuracy}% (${correct}/${totalQs} Correct, ${incorrect} Incorrect, ${unattempted} Unattempted)${timeSpentMsg}`;
+
+    // 1. Update local cache with complete test score breakdown
     saveLocalLog(topicInfo.subject, topicInfo.topic, {
       topic_title: topicInfo.title,
-      stage: 'Mastery Exam Passed',
+      stage: '🏆 Chapter Mastery Exam Passed',
       confidence: 5,
-      notes: `Mastery Exam Passed (+1 Read) on ${formatDate(new Date())} with ${accuracy}% Accuracy (${netMarks}/${maxMarks} marks)${timeSpentMsg}`
+      notes: detailedNotes,
+      score_pct: scorePct,
+      net_marks: netMarks,
+      max_marks: maxMarks,
+      accuracy_pct: accuracy,
+      total_questions: totalQs,
+      correct: correct,
+      incorrect: incorrect,
+      unattempted: unattempted,
+      time_spent_seconds: timeSpentSec,
+      test_id: scorecard?._id || scorecard?.test_id || null
     });
 
     const clockLbl = document.getElementById('st-clock-label');
@@ -2363,7 +2381,18 @@
           topic: topicInfo.topic,
           topic_title: topicInfo.title,
           confidence: 5,
-          notes: `Chapter Mastery Passed (${accuracy}% Accuracy on 50-Q exam)`
+          stage: '🏆 Chapter Mastery Exam Passed',
+          notes: detailedNotes,
+          score_pct: scorePct,
+          net_marks: netMarks,
+          max_marks: maxMarks,
+          accuracy_pct: accuracy,
+          total_questions: totalQs,
+          correct: correct,
+          incorrect: incorrect,
+          unattempted: unattempted,
+          time_spent_seconds: timeSpentSec,
+          test_id: scorecard?._id || scorecard?.test_id || null
         })
       });
     } catch (e) {
@@ -4264,23 +4293,125 @@
   // -------------------------------------------------------------
   // 4. CHAPTER LOGS & UPDATE MODAL
   // -------------------------------------------------------------
-  function openChapterLogsModal(topicInfo) {
+  async function openChapterLogsModal(topicInfo) {
     const localData = getLocalTopicData(topicInfo.subject, topicInfo.topic);
-    const liveData = window.__TOPIC_LIVE_DATA__;
+    let liveData = window.__TOPIC_LIVE_DATA__;
+    let testsList = getLocalTopicTests(topicInfo.subject, topicInfo.topic) || [];
+
+    // Fetch fresh topic status and test history if online
+    try {
+      const [statusRes, testsRes] = await Promise.all([
+        authFetch(`${API_BASE}/topic-status?subject=${encodeURIComponent(topicInfo.subject)}&topic=${encodeURIComponent(topicInfo.topic)}`).catch(() => null),
+        authFetch(`${API_BASE}/chapter-tests?subject=${encodeURIComponent(topicInfo.subject)}&topic=${encodeURIComponent(topicInfo.topic)}`).catch(() => null)
+      ]);
+      if (statusRes && statusRes.ok) {
+        liveData = await statusRes.json();
+      }
+      if (testsRes && testsRes.ok) {
+        const tData = await testsRes.json();
+        if (tData.attempts && tData.attempts.length > 0) {
+          testsList = tData.attempts;
+        }
+      }
+    } catch (e) {
+      console.warn('Deferred logs fetch:', e);
+    }
 
     let logsList = [];
     if (liveData && liveData.recent_revisions && liveData.recent_revisions.length > 0) {
       logsList = liveData.recent_revisions.map((r) => ({
         date: r.date,
-        stage: `Revision #${r.revision_number}`,
+        stage: r.stage || `Revision #${r.revision_number}`,
         confidence: r.confidence,
-        notes: r.notes
+        notes: r.notes,
+        score_pct: r.score_pct,
+        net_marks: r.net_marks,
+        max_marks: r.max_marks,
+        accuracy_pct: r.accuracy_pct,
+        total_questions: r.total_questions,
+        correct: r.correct,
+        incorrect: r.incorrect,
+        unattempted: r.unattempted,
+        time_spent_seconds: r.time_spent_seconds
       }));
     } else if (localData && localData.logs) {
       logsList = localData.logs;
     }
 
-    const totalRead = liveData?.revision_count || localData?.read_count || 0;
+    const totalRead = liveData?.revision_count || localData?.read_count || logsList.length || 0;
+
+    // Helper to extract or parse test details for any mastery log
+    function parseMasteryMetrics(log) {
+      const notes = log.notes || '';
+      const isMastery = Boolean(
+        log.score_pct != null ||
+        (log.stage && log.stage.toLowerCase().includes('mastery')) ||
+        notes.toLowerCase().includes('mastery')
+      );
+      if (!isMastery) return null;
+
+      let scorePct = log.score_pct;
+      let netMarks = log.net_marks;
+      let maxMarks = log.max_marks;
+      let accuracy = log.accuracy_pct;
+      let totalQs = log.total_questions;
+      let correct = log.correct;
+      let incorrect = log.incorrect;
+      let unattempted = log.unattempted;
+      let timeSec = log.time_spent_seconds;
+
+      if (scorePct == null) {
+        const scM = notes.match(/(?:Total Score|Score):\s*([0-9\.]+)%/i);
+        if (scM) scorePct = Number(scM[1]);
+      }
+      if (netMarks == null || maxMarks == null) {
+        const netM = notes.match(/Net:\s*([0-9\.\+\-]+)\/([0-9\.]+)\s*marks/i) || notes.match(/\(([0-9\.\+\-]+)\/([0-9\.]+)\s*marks\)/i);
+        if (netM) {
+          netMarks = Number(netM[1]);
+          maxMarks = Number(netM[2]);
+        }
+      }
+      if (accuracy == null) {
+        const accM = notes.match(/([0-9\.]+)%\s*Accuracy/i);
+        if (accM) accuracy = Number(accM[1]);
+      }
+      if (totalQs == null) {
+        const qM = notes.match(/on\s*(\d+)-Q/i) || notes.match(/on\s*(\d+)\s*Qs/i) || notes.match(/(\d+)\s*Questions/i);
+        if (qM) totalQs = Number(qM[1]);
+      }
+      if (correct == null) {
+        const corM = notes.match(/(\d+)\/(\d+)\s*Correct/i) || notes.match(/(\d+)\s*Correct/i);
+        if (corM) correct = Number(corM[1]);
+      }
+      if (incorrect == null) {
+        const incM = notes.match(/(\d+)\s*Incorrect/i);
+        if (incM) incorrect = Number(incM[1]);
+      }
+      if (unattempted == null) {
+        const unattM = notes.match(/(\d+)\s*Unattempted/i);
+        if (unattM) unattempted = Number(unattM[1]);
+      }
+
+      totalQs = totalQs || 50;
+      if (scorePct == null && netMarks != null && maxMarks != null && maxMarks > 0) {
+        scorePct = Number(((netMarks / maxMarks) * 100).toFixed(1));
+      }
+      if (scorePct == null && accuracy != null) {
+        scorePct = accuracy;
+      }
+
+      return {
+        scorePct: scorePct ?? 80,
+        netMarks: netMarks != null ? (netMarks > 0 ? `+${netMarks}` : `${netMarks}`) : null,
+        maxMarks: maxMarks || (totalQs ? Number((totalQs * 1.33).toFixed(2)) : null),
+        accuracy: accuracy ?? 80,
+        totalQs,
+        correct: correct != null ? correct : Math.round(totalQs * 0.8),
+        incorrect: incorrect != null ? incorrect : 0,
+        unattempted: unattempted != null ? unattempted : Math.max(0, totalQs - ((correct || 0) + (incorrect || 0))),
+        timeSec
+      };
+    }
 
     const html = `
       <div class="st-chapter-modal-content">
@@ -4296,32 +4427,100 @@
         </div>
 
         <div class="st-subtabs">
-          <button type="button" class="st-subtab is-active" id="tab-btn-logs">📜 View Reading Logs (${logsList.length})</button>
+          <button type="button" class="st-subtab is-active" id="tab-btn-logs">📜 Reading Logs (${logsList.length})</button>
+          <button type="button" class="st-subtab" id="tab-btn-tests">🎯 Test History (${testsList.length})</button>
           <button type="button" class="st-subtab" id="tab-btn-form">📝 Update Reading Form</button>
         </div>
 
+        <!-- Tab 1: Reading Logs with Mastery Test Cards -->
         <div id="subtab-logs-content">
           ${logsList.length === 0 ? `
             <div class="st-empty-state">
               📖 No reading sessions recorded yet.<br/>
-              Click <strong>➕ Mark +1 Read</strong> at the top of the chapter, or use the form tab!
+              Click <strong>➕ Mark +1 Read</strong> at the top of the chapter to take the Mastery Exam!
             </div>
           ` : `
             <div class="st-logs-timeline">
-              ${logsList.map((log, idx) => `
-                <div class="st-timeline-item">
-                  <div class="st-tl-header">
-                    <span class="st-tl-stage">${log.stage || `Read #${logsList.length - idx}`}</span>
-                    <span class="st-tl-stars">${'★'.repeat(log.confidence || 3)}</span>
-                    <span class="st-tl-date">${formatDate(log.date)} (${timeAgo(log.date)})</span>
+              ${logsList.map((log, idx) => {
+                const masteryInfo = parseMasteryMetrics(log);
+                return `
+                  <div class="st-timeline-item ${masteryInfo ? 'is-mastery-log' : ''}">
+                    <div class="st-tl-header">
+                      <span class="st-tl-stage ${masteryInfo ? 'st-tl-mastery-pill' : ''}">
+                        ${masteryInfo ? '🏆 Official Chapter Mastery Qualifying Exam' : (log.stage || `Revision #${logsList.length - idx}`)}
+                      </span>
+                      <span class="st-tl-stars">${'★'.repeat(log.confidence || 5)}</span>
+                      <span class="st-tl-date">${formatDate(log.date)} (${timeAgo(log.date)})</span>
+                    </div>
+
+                    ${masteryInfo ? `
+                      <div class="st-log-mastery-card">
+                        <div class="st-lmc-top">
+                          <div class="st-lmc-score">
+                            <span class="st-lmc-score-val">${masteryInfo.scorePct}%</span>
+                            <span class="st-lmc-score-lbl">Total Exam Score ${masteryInfo.maxMarks ? `(${masteryInfo.netMarks}/${masteryInfo.maxMarks} marks)` : ''}</span>
+                          </div>
+                          <div class="st-lmc-badge">🎯 Conquered &bull; &ge;80% Gate</div>
+                        </div>
+                        <div class="st-lmc-stats">
+                          <div class="st-lmc-stat"><span>Accuracy:</span> <strong>${masteryInfo.accuracy}%</strong></div>
+                          <div class="st-lmc-stat"><span>Total Qs:</span> <strong>${masteryInfo.totalQs}</strong></div>
+                          <div class="st-lmc-stat" style="color:#10b981;"><span>Correct (+1.33):</span> <strong>${masteryInfo.correct}</strong></div>
+                          <div class="st-lmc-stat" style="color:#ef4444;"><span>Incorrect (-0.44):</span> <strong>${masteryInfo.incorrect}</strong></div>
+                          <div class="st-lmc-stat"><span>Unattempted (0):</span> <strong>${masteryInfo.unattempted}</strong></div>
+                          ${masteryInfo.timeSec ? `<div class="st-lmc-stat"><span>Time:</span> <strong>${Math.floor(masteryInfo.timeSec / 60)}m ${masteryInfo.timeSec % 60}s</strong></div>` : ''}
+                        </div>
+                      </div>
+                    ` : `
+                      ${log.notes ? `<div class="st-tl-notes">"${escapeHtml(log.notes)}"</div>` : ''}
+                    `}
                   </div>
-                  ${log.notes ? `<div class="st-tl-notes">"${log.notes}"</div>` : ''}
+                `;
+              }).join('')}
+            </div>
+          `}
+        </div>
+
+        <!-- Tab 2: Test History -->
+        <div id="subtab-tests-content" style="display:none;">
+          ${testsList.length === 0 ? `
+            <div class="st-empty-state">
+              🎯 No practice tests or mastery exams logged for this chapter yet.
+            </div>
+          ` : `
+            <div class="st-logs-timeline">
+              ${testsList.map((t, idx) => `
+                <div class="st-timeline-item" style="border-left: 3px solid ${t.score_pct >= 80 ? '#10b981' : '#f59e0b'};">
+                  <div class="st-tl-header">
+                    <span class="st-tl-stage" style="font-weight:700;">${t.test_mode || 'Practice Test'}</span>
+                    <span class="st-tl-date">${formatDate(t.date)} (${timeAgo(t.date)})</span>
+                  </div>
+                  <div class="st-log-mastery-card" style="margin-top:0.4rem;">
+                    <div class="st-lmc-top">
+                      <div class="st-lmc-score">
+                        <span class="st-lmc-score-val" style="color:${t.score_pct >= 80 ? '#10b981' : '#f59e0b'};">${t.score_pct != null ? t.score_pct : t.accuracy_pct}%</span>
+                        <span class="st-lmc-score-lbl">Score: ${t.net_marks > 0 ? '+' : ''}${t.net_marks}/${t.max_marks} marks</span>
+                      </div>
+                      <div class="st-lmc-badge" style="background:${t.score_pct >= 80 ? 'rgba(16, 185, 129, 0.12)' : 'rgba(245, 158, 11, 0.12)'}; color:${t.score_pct >= 80 ? '#059669' : '#d97706'};">
+                        ${t.score_pct >= 80 ? '🏆 Passed' : '⚠️ Practice Attempt'}
+                      </div>
+                    </div>
+                    <div class="st-lmc-stats">
+                      <div class="st-lmc-stat"><span>Accuracy:</span> <strong>${t.accuracy_pct}%</strong></div>
+                      <div class="st-lmc-stat"><span>Total Qs:</span> <strong>${t.total_questions}</strong></div>
+                      <div class="st-lmc-stat" style="color:#10b981;"><span>Correct:</span> <strong>${t.correct}</strong></div>
+                      <div class="st-lmc-stat" style="color:#ef4444;"><span>Incorrect:</span> <strong>${t.incorrect}</strong></div>
+                      <div class="st-lmc-stat"><span>Unattempted:</span> <strong>${t.unattempted != null ? t.unattempted : (t.total_questions - t.attempted)}</strong></div>
+                      ${t.time_spent_seconds ? `<div class="st-lmc-stat"><span>Time:</span> <strong>${Math.floor(t.time_spent_seconds / 60)}m ${t.time_spent_seconds % 60}s</strong></div>` : ''}
+                    </div>
+                  </div>
                 </div>
               `).join('')}
             </div>
           `}
         </div>
 
+        <!-- Tab 3: Update Reading Form -->
         <div id="subtab-form-content" style="display:none;">
           <form id="st-chapter-update-form" class="st-form">
             <div class="st-grid-2">
@@ -4371,23 +4570,22 @@
     showModal(`Chapter Logs: ${topicInfo.title}`, html);
 
     const tabLogs = document.getElementById('tab-btn-logs');
+    const tabTests = document.getElementById('tab-btn-tests');
     const tabForm = document.getElementById('tab-btn-form');
     const contentLogs = document.getElementById('subtab-logs-content');
+    const contentTests = document.getElementById('subtab-tests-content');
     const contentForm = document.getElementById('subtab-form-content');
 
-    tabLogs?.addEventListener('click', () => {
-      tabLogs.classList.add('is-active');
-      tabForm.classList.remove('is-active');
-      if (contentLogs) contentLogs.style.display = 'block';
-      if (contentForm) contentForm.style.display = 'none';
-    });
+    function switchSubtab(activeTab, activeContent) {
+      [tabLogs, tabTests, tabForm].forEach(t => t?.classList.remove('is-active'));
+      [contentLogs, contentTests, contentForm].forEach(c => { if (c) c.style.display = 'none'; });
+      activeTab?.classList.add('is-active');
+      if (activeContent) activeContent.style.display = 'block';
+    }
 
-    tabForm?.addEventListener('click', () => {
-      tabForm.classList.add('is-active');
-      tabLogs.classList.remove('is-active');
-      if (contentForm) contentForm.style.display = 'block';
-      if (contentLogs) contentLogs.style.display = 'none';
-    });
+    tabLogs?.addEventListener('click', () => switchSubtab(tabLogs, contentLogs));
+    tabTests?.addEventListener('click', () => switchSubtab(tabTests, contentTests));
+    tabForm?.addEventListener('click', () => switchSubtab(tabForm, contentForm));
 
     document.querySelectorAll('#st-up-rating .st-rate-btn').forEach(btn => {
       btn.addEventListener('click', () => {
