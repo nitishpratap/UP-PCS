@@ -1773,6 +1773,29 @@ app.get('/api/daily-planner/overall-backlog', checkDb, async (req, res) => {
   }
 });
 
+// Topic normalization and fuzzy matching helpers
+function normalizeTopicName(str) {
+  if (!str) return '';
+  return String(str)
+    .toLowerCase()
+    .trim()
+    .replace(/&/g, 'and')
+    .replace(/^topic\s*\d+\s*[-–—:]*\s*/i, '')
+    .replace(/^[0-9\.\s\-_]+/, '')
+    .replace(/[^a-z0-9]/g, '');
+}
+
+function isTopicMatch(sub1, top1, sub2, top2) {
+  if (!sub1 || !sub2 || !top1 || !top2) return false;
+  const s1 = String(sub1).toLowerCase().trim();
+  const s2 = String(sub2).toLowerCase().trim();
+  const subMatch = (s1 === s2 || s1.includes(s2) || s2.includes(s1));
+  if (!subMatch) return false;
+  const clean1 = normalizeTopicName(top1);
+  const clean2 = normalizeTopicName(top2);
+  return clean1 === clean2 || clean1.includes(clean2) || clean2.includes(clean1);
+}
+
 // Resolve a reading topic by subject & topic slug across today and all backlog days
 app.post('/api/daily-planner/resolve-by-topic', checkDb, async (req, res) => {
   try {
@@ -1782,7 +1805,7 @@ app.post('/api/daily-planner/resolve-by-topic', checkDb, async (req, res) => {
     }
 
     const normSub = subject.toLowerCase().trim();
-    const normTopic = topic.toLowerCase().trim();
+    const normTopic = topic.trim();
 
     const docs = await db.collection('daily_planner').find({
       'reading_topics.status': { $ne: 'achieved' }
@@ -1792,14 +1815,7 @@ app.post('/api/daily-planner/resolve-by-topic', checkDb, async (req, res) => {
     for (const doc of docs) {
       let docModified = false;
       const updatedTopics = (doc.reading_topics || []).map(t => {
-        const tSub = (t.subject || '').toLowerCase().trim();
-        const tName = (t.topic || '').toLowerCase().trim();
-        const match = (tSub === normSub || normSub.includes(tSub) || tSub.includes(normSub)) && (
-          tName === normTopic ||
-          tName.includes(normTopic) ||
-          normTopic.includes(tName) ||
-          tName.replace(/[^a-z0-9]/g, '') === normTopic.replace(/[^a-z0-9]/g, '')
-        );
+        const match = isTopicMatch(t.subject, t.topic, normSub, normTopic);
 
         if (match && t.status !== 'achieved') {
           docModified = true;
@@ -1808,7 +1824,7 @@ app.post('/api/daily-planner/resolve-by-topic', checkDb, async (req, res) => {
             ...t,
             status: 'achieved',
             achieved_at: new Date(),
-            cleared_by: 'read_marker',
+            cleared_by: 'mastery_exam',
             updated_at: new Date()
           };
         }

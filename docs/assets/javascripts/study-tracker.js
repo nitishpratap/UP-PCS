@@ -616,11 +616,37 @@
     }
   }
 
+  // Fuzzy topic normalization & matching helpers
+  function normalizeTopicName(str) {
+    if (!str) return '';
+    return String(str)
+      .toLowerCase()
+      .trim()
+      .replace(/&/g, 'and')
+      .replace(/^topic\s*\d+\s*[-–—:]*\s*/i, '')
+      .replace(/^[0-9\.\s\-_]+/, '')
+      .replace(/[^a-z0-9]/g, '');
+  }
+
+  function isTopicMatch(sub1, top1, sub2, top2) {
+    if (!sub1 || !sub2 || !top1 || !top2) return false;
+    const s1 = String(sub1).toLowerCase().trim();
+    const s2 = String(sub2).toLowerCase().trim();
+    const subMatch = (s1 === s2 || s1.includes(s2) || s2.includes(s1));
+    if (!subMatch) return false;
+
+    const clean1 = normalizeTopicName(top1);
+    const clean2 = normalizeTopicName(top2);
+    if (!clean1 || !clean2) return false;
+
+    return clean1 === clean2 || clean1.includes(clean2) || clean2.includes(clean1);
+  }
+
   // Resolve matching topic in localStorage across all dates and on backend
   async function apiResolveTopicEverywhere(subject, topic) {
     if (!subject || !topic) return;
     const normSub = (subject || '').toLowerCase().trim();
-    const normTopic = (topic || '').toLowerCase().trim();
+    const normTopic = (topic || '').trim();
 
     try {
       const raw = localStorage.getItem(LOCAL_PLANNER_KEY);
@@ -631,16 +657,11 @@
           const dayData = all[d];
           if (dayData && Array.isArray(dayData.reading_topics)) {
             dayData.reading_topics.forEach(t => {
-              const tSub = (t.subject || '').toLowerCase().trim();
-              const tName = (t.topic || '').toLowerCase().trim();
-              const match = (tSub === normSub || normSub.includes(tSub) || tSub.includes(normSub)) && (
-                tName === normTopic || tName.includes(normTopic) || normTopic.includes(tName) ||
-                tName.replace(/[^a-z0-9]/g, '') === normTopic.replace(/[^a-z0-9]/g, '')
-              );
+              const match = isTopicMatch(t.subject, t.topic, normSub, normTopic);
               if (match && t.status !== 'achieved') {
                 t.status = 'achieved';
                 t.achieved_at = new Date().toISOString();
-                t.cleared_by = 'read_marker';
+                t.cleared_by = 'mastery_exam';
                 changed = true;
               }
             });
@@ -669,7 +690,7 @@
   function getChapterReadingPlanStatus(subject, topicSlug) {
     if (!subject || !topicSlug) return null;
     const normSub = subject.toLowerCase().trim();
-    const normTopic = topicSlug.toLowerCase().trim();
+    const normTopic = topicSlug.trim();
     const todayStr = getTodayISODate();
 
     const raw = localStorage.getItem(LOCAL_PLANNER_KEY);
@@ -679,14 +700,7 @@
       // 1. Check today
       const todayData = all[todayStr];
       if (todayData && Array.isArray(todayData.reading_topics)) {
-        const match = todayData.reading_topics.find(t => {
-          const tSub = (t.subject || '').toLowerCase().trim();
-          const tName = (t.topic || '').toLowerCase().trim();
-          return (tSub === normSub || normSub.includes(tSub) || tSub.includes(normSub)) && (
-            tName === normTopic || tName.includes(normTopic) || normTopic.includes(tName) ||
-            tName.replace(/[^a-z0-9]/g, '') === normTopic.replace(/[^a-z0-9]/g, '')
-          );
-        });
+        const match = todayData.reading_topics.find(t => isTopicMatch(t.subject, t.topic, normSub, normTopic));
         if (match) {
           return {
             status: 'today',
@@ -704,14 +718,7 @@
         if (d >= todayStr) continue;
         const dayData = all[d];
         if (dayData && Array.isArray(dayData.reading_topics)) {
-          const match = dayData.reading_topics.find(t => {
-            const tSub = (t.subject || '').toLowerCase().trim();
-            const tName = (t.topic || '').toLowerCase().trim();
-            return (tSub === normSub || normSub.includes(tSub) || tSub.includes(normSub)) && (
-              tName === normTopic || tName.includes(normTopic) || normTopic.includes(tName) ||
-              tName.replace(/[^a-z0-9]/g, '') === normTopic.replace(/[^a-z0-9]/g, '')
-            );
-          });
+          const match = dayData.reading_topics.find(t => isTopicMatch(t.subject, t.topic, normSub, normTopic));
           if (match && match.status !== 'achieved') {
             const d1 = new Date(d);
             const d2 = new Date(todayStr);
@@ -1991,41 +1998,67 @@
       </div>
     `;
 
-    // Check if this chapter is scheduled on today's reading plan or in the backlog
-    const planStatus = getChapterReadingPlanStatus(topicInfo.subject, topicInfo.topic);
-    if (planStatus) {
-      const banner = document.createElement('div');
-      banner.id = 'st-chapter-plan-banner';
+    // Dynamic Chapter Study Plan / Backlog Banner
+    function updateChapterPlanBanner() {
+      let banner = document.getElementById('st-chapter-plan-banner');
+      const planStatus = getChapterReadingPlanStatus(topicInfo.subject, topicInfo.topic);
+
+      if (!planStatus) {
+        if (banner) banner.remove();
+        return;
+      }
+
+      if (!banner) {
+        banner = document.createElement('div');
+        banner.id = 'st-chapter-plan-banner';
+        h1.insertAdjacentElement('afterend', banner);
+      }
+
       if (planStatus.status === 'today') {
         if (planStatus.isAchieved) {
           banner.className = 'st-chapter-plan-banner is-cleared';
           banner.innerHTML = `
-            <span>✅ <strong>Completed in Today's Reading Plan</strong> (${formatPlannerDateDisplay(planStatus.plannedDate)})</span>
+            <div style="display:flex; align-items:center; justify-content:space-between; width:100%; flex-wrap:wrap; gap:0.5rem;">
+              <span>🏆 <strong>Completed in Today's Study Plan</strong> (${formatPlannerDateDisplay(planStatus.plannedDate)}) &bull; Certified +1 Read</span>
+              <span style="background:#10b981; color:#fff; font-size:0.72rem; font-weight:700; padding:0.2rem 0.55rem; border-radius:9999px;">Achieved</span>
+            </div>
           `;
         } else {
           banner.className = 'st-chapter-plan-banner is-today';
           banner.innerHTML = `
-            <span>🎯 <strong>Scheduled in Today's Reading Plan</strong> &bull; Target: Till Midnight 11:59 PM</span>
-            <button type="button" class="st-act-btn is-success" id="st-banner-mark-read" style="padding:0.25rem 0.65rem; font-size:0.75rem;">
-              Mark Read Now (+1)
-            </button>
+            <div style="display:flex; align-items:center; justify-content:space-between; width:100%; flex-wrap:wrap; gap:0.5rem;">
+              <span>🎯 <strong>Scheduled in Today's Reading Plan</strong> &bull; Target: Till Midnight 11:59 PM (Requires 50-Q Test &ge;80% to Finish)</span>
+              <button type="button" class="st-act-btn is-success" id="st-banner-mark-read" style="padding:0.35rem 0.75rem; font-size:0.78rem; font-weight:700;">
+                ⚔️ Qualify Target &amp; Mark +1 Read (50-Q Exam)
+              </button>
+            </div>
           `;
         }
       } else if (planStatus.status === 'backlog') {
         banner.className = 'st-chapter-plan-banner is-backlog';
         banner.innerHTML = `
-          <span>⚠️ <strong>In Your Study Backlog</strong> &bull; Planned on ${planStatus.plannedDate} (${planStatus.daysOverdue} day${planStatus.daysOverdue === 1 ? '' : 's'} overdue)</span>
-          <button type="button" class="st-act-btn is-success" id="st-banner-mark-read" style="padding:0.25rem 0.65rem; font-size:0.75rem;">
-            Clear from Backlog (+1 Read)
-          </button>
+          <div style="display:flex; align-items:center; justify-content:space-between; width:100%; flex-wrap:wrap; gap:0.5rem;">
+            <span>⚠️ <strong>In Your Overdue Study Backlog</strong> &bull; Planned on ${planStatus.plannedDate} (${planStatus.daysOverdue} day${planStatus.daysOverdue === 1 ? '' : 's'} overdue)</span>
+            <button type="button" class="st-act-btn is-success" id="st-banner-mark-read" style="padding:0.35rem 0.75rem; font-size:0.78rem; font-weight:700;">
+              ⚔️ Clear from Backlog &amp; Mark +1 Read (50-Q Exam)
+            </button>
+          </div>
         `;
       }
-      h1.insertAdjacentElement('afterend', banner);
-      banner.querySelector('#st-banner-mark-read')?.addEventListener('click', () => {
-        const plusOneBtn = document.getElementById('st-btn-plus-one');
-        if (plusOneBtn) plusOneBtn.click();
+
+      banner.querySelector('#st-banner-mark-read')?.addEventListener('click', (e) => {
+        e.preventDefault();
+        promptChapterMasteryGate(topicInfo, () => {
+          updateChapterPlanBanner();
+        });
       });
     }
+
+    updateChapterPlanBanner();
+    // Asynchronously pull latest planner from MongoDB to ensure cross-device consistency
+    fetchPlannerData(getTodayISODate()).then(() => {
+      updateChapterPlanBanner();
+    }).catch(() => {});
 
     h1.insertAdjacentElement('afterend', deck);
 
@@ -5079,7 +5112,7 @@
                             ${t.notes ? `<div class="st-topic-note-text">📝 ${escapeHtml(t.notes)}</div>` : ''}
                           </div>
                           <div class="st-topic-btns">
-                            <button type="button" class="st-act-btn is-success st-topic-achieve-midnight-btn" data-id="${t.id}" title="Conquered before midnight!">
+                            <button type="button" class="st-act-btn is-success st-topic-achieve-midnight-btn" data-id="${t.id}" data-subject="${escapeHtml(t.subject)}" data-topic="${escapeHtml(t.topic)}" title="Take 50-Q Test (≥80%) to Conquered!">
                               ⭐ Achieved (Midnight)
                             </button>
                             <button type="button" class="st-act-btn is-warning st-topic-to-pending-btn" data-id="${t.id}" title="Move to Pending Backlog">
@@ -5117,7 +5150,7 @@
                             ${t.notes ? `<div class="st-topic-note-text">📝 ${escapeHtml(t.notes)}</div>` : ''}
                           </div>
                           <div class="st-topic-btns">
-                            <button type="button" class="st-act-btn is-success st-topic-achieve-btn" data-id="${t.id}" title="Mark as Achieved">
+                            <button type="button" class="st-act-btn is-success st-topic-achieve-btn" data-id="${t.id}" data-subject="${escapeHtml(t.subject)}" data-topic="${escapeHtml(t.topic)}" title="Take 50-Q Test (≥80%) to Achieve!">
                               ✅ Achieved
                             </button>
                             <button type="button" class="st-act-btn is-warning st-topic-to-pending-btn" data-id="${t.id}" title="Move to Pending Backlog">
@@ -5207,7 +5240,7 @@
                             ${t.notes ? `<div class="st-topic-note-text" style="color:#b91c1c;">📝 ${escapeHtml(t.notes)}</div>` : ''}
                           </div>
                           <div class="st-topic-btns">
-                            <button type="button" class="st-act-btn is-success st-topic-achieve-now-btn" data-id="${t.id}" title="Mark as Achieved Now">
+                            <button type="button" class="st-act-btn is-success st-topic-achieve-now-btn" data-id="${t.id}" data-subject="${escapeHtml(t.subject)}" data-topic="${escapeHtml(t.topic)}" title="Take 50-Q Test (≥80%) to Conquer Now!">
                               ✅ Done Now
                             </button>
                             ${!isCurrentDateToday ? `
@@ -5740,18 +5773,22 @@
 
     // Active Date Topic Actions — Enforces Chapter Mastery Gate
     document.querySelectorAll('.st-topic-achieve-midnight-btn, .st-topic-achieve-12pm-btn, .st-topic-achieve-btn, .st-topic-achieve-now-btn').forEach(btn => {
-      btn.addEventListener('click', () => {
+      btn.addEventListener('click', (e) => {
+        e.preventDefault();
+        e.stopPropagation();
         const id = btn.dataset.id;
-        const planner = getLocalDailyPlanner(activePlannerDate);
-        const topicItem = (planner.reading_topics || []).find(t => t.id === id);
-        if (!topicItem) return;
-        const topicInfo = resolveTopicInfo(topicItem.subject, topicItem.topic);
+        const sub = btn.dataset.subject;
+        const topic = btn.dataset.topic;
+        const topicInfo = resolveTopicInfo(sub, topic);
         promptChapterMasteryGate(topicInfo, async () => {
-          await apiUpdatePlannerTopic(activePlannerDate, id, {
-            status: 'achieved',
-            achieved_by_12pm: true,
-            missed_12pm: false
-          });
+          if (id) {
+            await apiUpdatePlannerTopic(activePlannerDate, id, {
+              status: 'achieved',
+              achieved_by_12pm: true,
+              missed_12pm: false
+            });
+          }
+          await apiResolveTopicEverywhere(sub, topic);
           renderPrepDashboard();
         });
       });
