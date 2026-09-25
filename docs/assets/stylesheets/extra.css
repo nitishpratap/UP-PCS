@@ -6602,3 +6602,151 @@ body.st-zen-focus-active .st-reading-clock-widget {
   color: var(--md-default-fg-color--light);
   margin-top: 0.2rem;
 }
+
+/* -------------------------------------------------- */
+/* CHAPTER MASTERY GATE & QUALIFYING EXAM (>=80%) */
+/* -------------------------------------------------- */
+.st-mastery-gate-modal {
+  padding: 0.5rem 0.25rem;
+}
+.st-mastery-hero {
+  text-align: center;
+  margin-bottom: 1.25rem;
+}
+.st-mastery-icon-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 56px;
+  height: 56px;
+  font-size: 1.8rem;
+  background: linear-gradient(135deg, rgba(37, 99, 235, 0.12), rgba(124, 58, 237, 0.15));
+  border: 1.5px solid rgba(124, 58, 237, 0.3);
+  border-radius: 50%;
+  margin-bottom: 0.5rem;
+}
+.st-mastery-rules-card {
+  background: var(--study-surface-subtle, rgba(39, 60, 117, 0.04));
+  border: 1px solid var(--study-hairline, rgba(39, 60, 117, 0.12));
+  border-radius: 12px;
+  padding: 1rem 1.25rem;
+  margin-bottom: 1.25rem;
+}
+[data-md-color-scheme="slate"] .st-mastery-rules-card {
+  background: rgba(30, 41, 59, 0.6);
+  border-color: rgba(148, 163, 184, 0.15);
+}
+.st-mrule-title {
+  font-size: 0.92rem;
+  font-weight: 800;
+  color: var(--md-primary-fg-color, #273c75);
+}
+.st-mrules-list {
+  margin: 0;
+  padding-left: 1.25rem;
+  font-size: 0.84rem;
+  line-height: 1.6;
+}
+.st-mrules-list li {
+  margin-bottom: 0.35rem;
+}
+.st-mastery-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  padding-top: 0.75rem;
+  border-top: 1px solid var(--study-hairline, rgba(39, 60, 117, 0.08));
+}
+.st-mastery-test-strip {
+  background: linear-gradient(90deg, #1e3a8a, #4338ca);
+  color: #ffffff;
+  padding: 0.45rem 0.85rem;
+  border-radius: 8px;
+  font-size: 0.82rem;
+  margin-bottom: 0.75rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 8px rgba(30, 58, 138, 0.2);
+}
+.st-mastery-pass-card {
+  margin-top: 1.25rem;
+  background: linear-gradient(135deg, rgba(16, 185, 129, 0.12), rgba(5, 150, 105, 0.06));
+  border: 2px solid #10b981;
+  border-radius: 12px;
+  padding: 1.25rem;
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+.st-mpass-icon {
+  font-size: 2.4rem;
+  flex-shrink: 0;
+}
+.st-mpass-body h4 {
+  margin: 0 0 0.25rem;
+  color: #065f46;
+  font-size: 1.05rem;
+  font-weight: 800;
+}
+[data-md-color-scheme="slate"] .st-mpass-body h4 {
+  color: #34d399;
+}
+.st-mpass-body p {
+  margin: 0 0 0.5rem;
+  font-size: 0.86rem;
+  color: var(--md-default-fg-color);
+}
+.st-mpass-tag {
+  display: inline-block;
+  background: #10b981;
+  color: #ffffff;
+  font-size: 0.76rem;
+  font-weight: 700;
+  padding: 0.25rem 0.65rem;
+  border-radius: 9999px;
+}
+.st-mastery-fail-card {
+  margin-top: 1.25rem;
+  background: linear-gradient(135deg, rgba(239, 68, 68, 0.12), rgba(185, 28, 28, 0.06));
+  border: 2px solid #ef4444;
+  border-radius: 12px;
+  padding: 1.25rem;
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+.st-mfail-icon {
+  font-size: 2.4rem;
+  flex-shrink: 0;
+}
+.st-mfail-body h4 {
+  margin: 0 0 0.25rem;
+  color: #991b1b;
+  font-size: 1.05rem;
+  font-weight: 800;
+}
+[data-md-color-scheme="slate"] .st-mfail-body h4 {
+  color: #f87171;
+}
+.st-mfail-body p {
+  margin: 0 0 0.4rem;
+  font-size: 0.86rem;
+  color: var(--md-default-fg-color);
+}
+.st-mfail-tag {
+  display: inline-block;
+  background: #ef4444;
+  color: #ffffff;
+  font-size: 0.76rem;
+  font-weight: 700;
+  padding: 0.25rem 0.65rem;
+  border-radius: 9999px;
+  margin-bottom: 0.35rem;
+}
+.st-mfail-sub {
+  font-size: 0.78rem !important;
+  color: var(--md-default-fg-color--light) !important;
+  margin: 0 !important;
+}

@@ -2240,8 +2240,146 @@
     }
   }
 
-  // Quick 1-click +1 Read handler
+  // Helper to resolve topic slug or title to catalog topic info
+  function resolveTopicInfo(subject, topic) {
+    const normSub = (subject || '').toLowerCase().trim();
+    const cat = CHAPTER_CATALOG[normSub] || [];
+    const cleanTopic = (topic || '').trim();
+    const found = cat.find(c => c.slug === cleanTopic || c.title === cleanTopic || c.slug.toLowerCase() === cleanTopic.toLowerCase());
+    return {
+      subject: normSub,
+      topic: cleanTopic,
+      title: found ? found.title : cleanTopic
+    };
+  }
+
+  // Officially conquer chapter upon passing the 80% Mastery Exam
+  async function officiallyConquerChapter(topicInfo, scorecard) {
+    const accuracy = scorecard?.accuracy_pct || 80;
+    const netMarks = scorecard?.net_marks || 0;
+    const maxMarks = scorecard?.max_marks || 0;
+    const timeSpentMsg = readingClockSeconds > 0 ? ` (⏱️ Active read time: ${Math.max(1, Math.round(readingClockSeconds / 60))}m)` : '';
+
+    // 1. Update local cache
+    saveLocalLog(topicInfo.subject, topicInfo.topic, {
+      topic_title: topicInfo.title,
+      stage: 'Mastery Exam Passed',
+      confidence: 5,
+      notes: `Mastery Exam Passed (+1 Read) on ${formatDate(new Date())} with ${accuracy}% Accuracy (${netMarks}/${maxMarks} marks)${timeSpentMsg}`
+    });
+
+    const clockLbl = document.getElementById('st-clock-label');
+    if (clockLbl) clockLbl.textContent = '🏆 Chapter Conquered';
+
+    // 2. Call backend MongoDB API if online
+    try {
+      await authFetch(`${API_BASE}/quick-read`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          subject: topicInfo.subject,
+          topic: topicInfo.topic,
+          topic_title: topicInfo.title,
+          confidence: 5,
+          notes: `Chapter Mastery Passed (${accuracy}% Accuracy on 50-Q exam)`
+        })
+      });
+    } catch (e) {
+      console.warn('Backend sync deferred:', e);
+    }
+
+    // 3. Auto-clear from Today's Reading Plan and Backlog
+    try {
+      await apiResolveTopicEverywhere(topicInfo.subject, topicInfo.topic);
+      const banner = document.getElementById('st-chapter-plan-banner');
+      if (banner) {
+        banner.className = 'st-chapter-plan-banner is-cleared';
+        banner.innerHTML = `<span>🏆 <strong>Mastered & Conquered!</strong> Cleared from today's plan & overall backlog (${accuracy}% score).</span>`;
+      }
+    } catch (e) {
+      console.warn('Planner resolve deferred:', e);
+    }
+
+    // 4. Refresh UI
+    refreshTopicReadData(topicInfo);
+    const plusBtn = document.getElementById('st-btn-plus-one');
+    if (plusBtn) {
+      plusBtn.textContent = '🏆 Mastered (+1 Read)';
+      plusBtn.classList.add('is-mastered');
+    }
+  }
+
+  // Chapter Mastery Gate: Prompts a 50-question qualifying exam requiring >=80% score to mark read
+  function promptChapterMasteryGate(topicInfo, onPassedCallback) {
+    if (!topicInfo || !topicInfo.subject || !topicInfo.topic) return;
+    const cleanInfo = resolveTopicInfo(topicInfo.subject, topicInfo.topic);
+    const title = cleanInfo.title || cleanInfo.topic;
+    const sub = cleanInfo.subject.toUpperCase();
+
+    const modalHtml = `
+      <div class="st-mastery-gate-modal">
+        <div class="st-mastery-hero">
+          <div class="st-mastery-icon-badge">⚔️</div>
+          <h3 style="margin:0.25rem 0 0.5rem; font-size:1.3rem; font-weight:800; color:var(--md-primary-fg-color, #273c75);">
+            Chapter Mastery Qualifying Exam
+          </h3>
+          <p style="margin:0; font-size:0.9rem; color:var(--md-default-fg-color--light);">
+            Target: <strong>${escapeHtml(title)}</strong> &bull; <span style="text-transform:uppercase; font-weight:700;">${escapeHtml(sub)}</span>
+          </p>
+        </div>
+
+        <div class="st-mastery-rules-card">
+          <div class="st-mrule-title">🛡️ Strict Preparation Rule Enforced:</div>
+          <p style="margin:0.35rem 0 0.75rem; font-size:0.83rem; line-height:1.45; color:var(--md-default-fg-color);">
+            You cannot say a chapter is read or finished without proving genuine examination recall.
+          </p>
+          <ul class="st-mrules-list">
+            <li><strong>50 Randomized Questions:</strong> A rigorous 50-question mock test pulled at random from UPPCS PYQs, Ghatnachakra, and chapter drills (or all available if &lt;50).</li>
+            <li><strong>80% Qualifying Score:</strong> You must score <strong>at least 80% accuracy/marks</strong> to officially unlock "+1 Read" status and clear the chapter from your daily plan/backlog.</li>
+            <li><strong>Official Negative Marking:</strong> Real exam conditions: <strong>+1.33</strong> per correct answer, <strong>-0.44</strong> (1/3rd) penalty for incorrect answers.</li>
+            <li><strong>Zero Shortcuts:</strong> Scoring under 80% means the chapter remains <strong>Pending / Not Read</strong> until you revise your weak areas and re-test.</li>
+          </ul>
+        </div>
+
+        <div class="st-mastery-actions">
+          <button type="button" class="st-btn st-btn-outline" id="st-btn-mastery-cancel" style="padding:0.6rem 1.2rem;">
+            📖 Keep Reading (Not Ready Yet)
+          </button>
+          <button type="button" class="st-btn st-btn-primary" id="st-btn-mastery-start" style="padding:0.6rem 1.4rem; font-weight:700; background:linear-gradient(135deg, #2563eb, #7c3aed); border:none; color:#fff;">
+            🚀 Start 50-Q Mastery Exam
+          </button>
+        </div>
+      </div>
+    `;
+
+    showModal('⚔️ Chapter Mastery Gate', modalHtml);
+    const box = document.getElementById('st-modal-box');
+    if (box) box.classList.add('st-modal-wide');
+
+    document.getElementById('st-btn-mastery-cancel')?.addEventListener('click', closeModal);
+    document.getElementById('st-btn-mastery-start')?.addEventListener('click', () => {
+      closeModal();
+      openTestEngineModal(cleanInfo, {
+        isMasteryGate: true,
+        targetAccuracy: 80,
+        questionCount: 50,
+        testMode: 'exam',
+        onMasteryPassed: async (sc) => {
+          await officiallyConquerChapter(cleanInfo, sc);
+          if (typeof onPassedCallback === 'function') {
+            await onPassedCallback(sc);
+          }
+        }
+      });
+    });
+  }
+
+  // Quick +1 Read handler — Enforces Chapter Mastery Gate
   async function handleQuickPlusOne(topicInfo) {
+    promptChapterMasteryGate(topicInfo);
+  }
+
+  async function handleLegacyQuickPlusOne(topicInfo) {
     const btn = document.getElementById('st-btn-plus-one');
     if (btn) {
       btn.disabled = true;
@@ -2661,6 +2799,18 @@
     let testStartTime = Date.now();
     let timerInterval = null;
 
+    const isMasteryGate = !!testOptions.isMasteryGate;
+
+    // Direct launch if Mastery Gate Qualifying Exam (50 questions, exam mode)
+    if (isMasteryGate) {
+      const shuffled = [...loadedQuestions].sort(() => 0.5 - Math.random());
+      const targetCount = Math.min(50, shuffled.length);
+      questionSubset = shuffled.slice(0, targetCount);
+      testMode = 'exam';
+      startActiveQuiz();
+      return;
+    }
+
     // Direct launch if custom trap questions drill
     if (testOptions.customQuestions && testOptions.customQuestions.length > 0) {
       questionSubset = loadedQuestions;
@@ -2919,6 +3069,11 @@
 
       const html = `
         <div class="st-quiz-container">
+          ${isMasteryGate ? `
+            <div class="st-mastery-test-strip">
+              <span>⚔️ <strong>Chapter Mastery Qualifying Exam:</strong> ${total} Questions &bull; <strong>Must Score &ge;80% to Mark Chapter as Read</strong></span>
+            </div>
+          ` : ''}
           <!-- Quiz Top Bar -->
           <div class="st-quiz-topbar">
             <div class="st-quiz-progress-text">
@@ -3138,8 +3293,9 @@
             topic: topicInfo.topic,
             topic_title: topicInfo.title,
             time_spent_seconds: totalTimeSec,
-            test_mode: testMode === 'exam' ? 'Live Exam CBT' : 'Practice Drill',
-            answers: selectedAnswers
+            test_mode: isMasteryGate ? 'Chapter Mastery Exam' : (testMode === 'exam' ? 'Live Exam CBT' : 'Practice Drill'),
+            answers: selectedAnswers,
+            is_mastery_gate: isMasteryGate
           })
         });
 
@@ -3208,6 +3364,19 @@
       saveLocalTestAttempt(topicInfo.subject, topicInfo.topic, sc);
       refreshPastScoresBadge(topicInfo);
 
+      if (isMasteryGate) {
+        const passedMastery = (sc.accuracy_pct >= 80 || sc.score_pct >= 80 || evaluationData.mastery_passed);
+        if (passedMastery) {
+          if (typeof testOptions.onMasteryPassed === 'function') {
+            testOptions.onMasteryPassed(sc);
+          }
+        } else {
+          if (typeof testOptions.onMasteryFailed === 'function') {
+            testOptions.onMasteryFailed(sc);
+          }
+        }
+      }
+
       // Automatically update the Flag Weak button on Card 4 based on test result
       // (priority/target badge is owned by refreshPastScoresBadge — do not clobber it here)
       const weakBtn = document.getElementById('st-btn-toggle-weak');
@@ -3240,6 +3409,29 @@
             <div class="st-score-label">Net Score (1/3rd Negative Marking: +1.33 Correct, -0.44 Wrong)</div>
             <div class="st-score-acc">Accuracy: <strong>${sc.accuracy_pct}%</strong> (${sc.correct} Correct, ${sc.incorrect} Incorrect)</div>
           </div>
+
+          ${isMasteryGate ? (
+            (sc.accuracy_pct >= 80 || sc.score_pct >= 80 || evaluationData.mastery_passed) ? `
+              <div class="st-mastery-pass-card">
+                <div class="st-mpass-icon">🏆</div>
+                <div class="st-mpass-body">
+                  <h4>CHAPTER OFFICIALLY CONQUERED & FINISHED!</h4>
+                  <p>You scored <strong>${sc.accuracy_pct}% Accuracy</strong> (${sc.correct}/${sc.attempted} correct, Net: <strong>${sc.net_marks}/${sc.max_marks}</strong> marks), meeting the strict 80% Mastery Requirement!</p>
+                  <div class="st-mpass-tag">✅ +1 Read Recorded &bull; Cleared from Daily Plan &amp; Backlog</div>
+                </div>
+              </div>
+            ` : `
+              <div class="st-mastery-fail-card">
+                <div class="st-mfail-icon">🛑</div>
+                <div class="st-mfail-body">
+                  <h4>MASTERY NOT ACHIEVED (${sc.accuracy_pct}% &lt; 80% Required)</h4>
+                  <p>You scored <strong>${sc.accuracy_pct}% Accuracy</strong> (${sc.correct}/${sc.attempted} correct, Net: <strong>${sc.net_marks}/${sc.max_marks}</strong> marks). Under your preparation rules, you need <strong>at least 80%</strong> to finish this chapter.</p>
+                  <div class="st-mfail-tag">⚠️ Chapter Remains PENDING &bull; NOT Marked as Read</div>
+                  <p class="st-mfail-sub">Review your wrong questions below, revise your notes, and re-attempt the Mastery Exam when ready!</p>
+                </div>
+              </div>
+            `
+          ) : ''}
 
           ${(sc.auto_flagged || evaluationData.auto_flagged || (sc.accuracy_pct < 75 && sc.attempted > 0)) ? `
             <div class="st-alert-auto-weak" style="margin-top: 1rem; padding: 0.85rem 1.15rem; background: rgba(239, 68, 68, 0.08); border: 1.5px solid rgba(239, 68, 68, 0.35); border-radius: 0.65rem; display: flex; align-items: center; gap: 0.75rem; color: #dc2626; font-size: 0.86rem; line-height: 1.4;">
@@ -4259,10 +4451,13 @@
       badge.addEventListener('click', (e) => {
         e.stopPropagation();
         e.preventDefault();
-        openChapterLogsModal({
+        const topicInfo = {
           subject: subject,
           topic: topic,
           title: titleEl.textContent.trim()
+        };
+        promptChapterMasteryGate(topicInfo, () => {
+          enhanceChapterPriorityTracker();
         });
       });
 
@@ -5500,19 +5695,20 @@
       renderPrepDashboard();
     });
 
-    // Overall Backlog Item Actions
+    // Overall Backlog Item Actions — Enforces Chapter Mastery Gate
     document.querySelectorAll('.st-backlog-achieve-btn').forEach(btn => {
-      btn.addEventListener('click', async () => {
+      btn.addEventListener('click', () => {
         const sub = btn.dataset.subject;
         const topic = btn.dataset.topic;
         const id = btn.dataset.id;
         const date = btn.dataset.date;
-        await apiResolveTopicEverywhere(sub, topic);
-        if (date) {
-          await apiUpdatePlannerTopic(date, id, { status: 'achieved', achieved_by_12pm: false });
-        }
-        alert(`🎉 Mark read! Cleared "${topic}" from backlog.`);
-        renderPrepDashboard();
+        const topicInfo = resolveTopicInfo(sub, topic);
+        promptChapterMasteryGate(topicInfo, async () => {
+          if (date) {
+            await apiUpdatePlannerTopic(date, id, { status: 'achieved', achieved_by_12pm: false });
+          }
+          renderPrepDashboard();
+        });
       });
     });
 
@@ -5542,16 +5738,22 @@
       });
     });
 
-    // Active Date Topic Actions
+    // Active Date Topic Actions — Enforces Chapter Mastery Gate
     document.querySelectorAll('.st-topic-achieve-midnight-btn, .st-topic-achieve-12pm-btn, .st-topic-achieve-btn, .st-topic-achieve-now-btn').forEach(btn => {
-      btn.addEventListener('click', async () => {
+      btn.addEventListener('click', () => {
         const id = btn.dataset.id;
-        await apiUpdatePlannerTopic(activePlannerDate, id, {
-          status: 'achieved',
-          achieved_by_12pm: true,
-          missed_12pm: false
+        const planner = getLocalDailyPlanner(activePlannerDate);
+        const topicItem = (planner.reading_topics || []).find(t => t.id === id);
+        if (!topicItem) return;
+        const topicInfo = resolveTopicInfo(topicItem.subject, topicItem.topic);
+        promptChapterMasteryGate(topicInfo, async () => {
+          await apiUpdatePlannerTopic(activePlannerDate, id, {
+            status: 'achieved',
+            achieved_by_12pm: true,
+            missed_12pm: false
+          });
+          renderPrepDashboard();
         });
-        renderPrepDashboard();
       });
     });
 

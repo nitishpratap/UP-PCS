@@ -864,7 +864,55 @@ app.post('/api/chapter-test/evaluate', checkDb, async (req, res) => {
     let isClearedMastery = false;
     const topWeakSecs = weakSubtopics.filter(ws => ws.mistakes > 0).map(ws => ws.subtopic).slice(0, 3).join(', ');
 
-    if ((accuracy < 75 || incorrect >= 2) && attempted > 0) {
+    // Strict Chapter Mastery Gate: Requires at least 80% accuracy/score to mark read
+    const isMasteryGate = req.body.is_mastery_gate === true;
+    const minMasteryAccuracy = 80;
+    const isMasteryPassed = isMasteryGate && (accuracy >= minMasteryAccuracy || scorePct >= minMasteryAccuracy) && attempted >= Math.min(5, totalQuestions);
+    let newRevisionNumber = null;
+
+    if (isMasteryPassed) {
+      // 1. Record officially certified +1 Read in revisions collection
+      const count = await db.collection('revisions').countDocuments({
+        subject: evaluationDoc.subject,
+        topic: targetTopic
+      });
+      newRevisionNumber = count + 1;
+      const logDate = new Date();
+      await db.collection('revisions').insertOne({
+        subject: evaluationDoc.subject,
+        topic: targetTopic,
+        topic_title: evaluationDoc.topic_title,
+        revision_number: newRevisionNumber,
+        confidence: 5,
+        notes: `Chapter Mastery Exam Passed (${accuracy}% Accuracy, Net: ${netMarks}/${maxMarks} marks on ${totalQuestions} Qs)`,
+        date: logDate,
+        next_revision_due: calculateNextDueDate(logDate, newRevisionNumber),
+        created_at: new Date()
+      });
+
+      // 2. Automatically resolve topic in daily_planner collections for any date & backlog
+      await db.collection('daily_planner').updateMany(
+        { 'reading_topics.subject': evaluationDoc.subject, 'reading_topics.topic': targetTopic },
+        {
+          $set: {
+            'reading_topics.$[elem].status': 'achieved',
+            'reading_topics.$[elem].achieved_at': new Date(),
+            'reading_topics.$[elem].cleared_by': 'mastery_exam',
+            updated_at: new Date()
+          }
+        },
+        {
+          arrayFilters: [{ 'elem.subject': evaluationDoc.subject, 'elem.topic': targetTopic }]
+        }
+      );
+
+      // 3. Clear from weak topics
+      await db.collection('weak_topics').deleteOne({
+        subject: evaluationDoc.subject,
+        topic: targetTopic
+      });
+      isClearedMastery = true;
+    } else if ((accuracy < 75 || incorrect >= 2) && attempted > 0) {
       isAutoFlagged = true;
       await db.collection('weak_topics').updateOne(
         { subject: evaluationDoc.subject, topic: targetTopic },
@@ -911,10 +959,16 @@ app.post('/api/chapter-test/evaluate', checkDb, async (req, res) => {
       test_id: insertRes.insertedId,
       auto_flagged: isAutoFlagged,
       cleared_mastery: isClearedMastery,
+      mastery_gate: isMasteryGate,
+      mastery_passed: isMasteryPassed,
+      new_read_count: newRevisionNumber,
       scorecard: {
         ...evaluationDoc,
         auto_flagged: isAutoFlagged,
         cleared_mastery: isClearedMastery,
+        mastery_gate: isMasteryGate,
+        mastery_passed: isMasteryPassed,
+        new_read_count: newRevisionNumber,
         _id: insertRes.insertedId
       },
       detailed_review: detailedReview
