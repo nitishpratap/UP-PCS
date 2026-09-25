@@ -3264,7 +3264,7 @@
               ${testMode === 'practice' && userChoice ? `
                 <div class="st-practice-explanation">
                   <h4>${userChoice === q.correct_answer ? '🟢 Correct Answer!' : '🔴 Incorrect!'}</h4>
-                  <div>${q.explanation || 'Answer: ' + q.correct_answer}</div>
+                  <div class="st-practice-expl-content">${typeof window.formatStudyExplanation === 'function' ? window.formatStudyExplanation(q.explanation || ('Correct Answer: ' + q.correct_answer)) : (q.explanation || ('Answer: ' + q.correct_answer))}</div>
                 </div>
               ` : ''}
 
@@ -3671,7 +3671,7 @@
                       <span class="st-choice-wrong">Your Choice: <strong>${w.user_answer}</strong> ❌</span>
                       <span class="st-choice-correct">Correct Answer: <strong>${w.correct_answer}</strong> ✅</span>
                     </div>
-                    ${w.explanation ? `<div class="st-wi-expl">${w.explanation}</div>` : ''}
+                    ${w.explanation ? `<div class="st-wi-expl">${typeof window.formatStudyExplanation === 'function' ? window.formatStudyExplanation(w.explanation) : w.explanation}</div>` : ''}
                   </div>
                 `).join('')}
               </div>
@@ -3691,7 +3691,7 @@
                       <span>Your Choice: <strong>${uAns || 'Unattempted'}</strong> ${isCor ? '✅' : (uAns ? '❌' : '⚪')}</span>
                       <span class="st-choice-correct">Correct Answer: <strong>${q.correct_answer}</strong> ✅</span>
                     </div>
-                    ${q.explanation ? `<div class="st-wi-expl">${q.explanation}</div>` : ''}
+                    ${q.explanation ? `<div class="st-wi-expl">${typeof window.formatStudyExplanation === 'function' ? window.formatStudyExplanation(q.explanation) : q.explanation}</div>` : ''}
                   </div>
                 `;
               }).join('')}
@@ -3942,8 +3942,7 @@
 
                   ${q.explanation ? `
                     <div class="st-detail-expl-box">
-                      <strong>💡 Logic & Explanation:</strong><br/>
-                      ${escapeHtml(q.explanation).replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')}
+                      ${typeof window.formatStudyExplanation === 'function' ? window.formatStudyExplanation(q.explanation) : ('<strong>💡 Logic & Explanation:</strong><br/>' + escapeHtml(q.explanation).replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>'))}
                     </div>
                   ` : ''}
                 </div>
@@ -3979,8 +3978,7 @@
 
                   ${w.explanation ? `
                     <div class="st-detail-expl-box">
-                      <strong>💡 Logic & Solution:</strong><br/>
-                      ${escapeHtml(w.explanation).replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')}
+                      ${typeof window.formatStudyExplanation === 'function' ? window.formatStudyExplanation(w.explanation) : ('<strong>💡 Logic & Solution:</strong><br/>' + escapeHtml(w.explanation).replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>'))}
                     </div>
                   ` : ''}
                 </div>
@@ -4199,8 +4197,7 @@
 
             const explHtml = q.explanation
               ? ('<div class="st-trap-expl-card">'
-                + '<div style="font-weight:700;font-size:0.78rem;text-transform:uppercase;letter-spacing:0.04em;color:#6366f1;margin-bottom:0.35rem;">💡 Explanation</div>'
-                + '<div>' + escapeHtml(q.explanation).replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>') + '</div>'
+                + (typeof window.formatStudyExplanation === 'function' ? window.formatStudyExplanation(q.explanation) : ('<div style="font-weight:700;font-size:0.78rem;text-transform:uppercase;letter-spacing:0.04em;color:#6366f1;margin-bottom:0.35rem;">💡 Explanation</div><div>' + escapeHtml(q.explanation).replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>') + '</div>'))
                 + '</div>')
               : '';
 

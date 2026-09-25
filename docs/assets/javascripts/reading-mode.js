@@ -210,6 +210,7 @@
   // Q12. / Q0b. / Q1a. — letter suffixes are used when one year has multiple bank items.
   const QUESTION_ID_RE = /^Q\d+[a-z]?\./i;
   const QUESTION_ID_ONLY_RE = /^Q\d+[a-z]?\.?$/i;
+  const QUESTION_PREFIX_RE = /^(?:Q\d+[a-z]?\.?|Q\s*[-–—]?\s*(?:GC)?\s*\d+|\d+\.\s*(?:\([A-Z]|Assertion|\w)|PYQ\b|Practice\b|Inline PYQ\b)/i;
 
   function isQuestionStart(el) {
     if (!el || el.nodeType !== 1) return false;
@@ -218,12 +219,11 @@
       return false;
     }
     const text = (el.textContent || "").replace(/\s+/g, " ").trim();
-    if (QUESTION_ID_RE.test(text)) return true;
-    if (/^PYQ\b/i.test(text)) return true;
+    if (QUESTION_ID_RE.test(text) || QUESTION_PREFIX_RE.test(text)) return true;
     const strong = el.querySelector(":scope > strong");
     if (strong) {
       const label = (strong.textContent || "").trim();
-      if (QUESTION_ID_ONLY_RE.test(label) || QUESTION_ID_RE.test(label) || /^PYQ\b/i.test(label)) {
+      if (QUESTION_ID_ONLY_RE.test(label) || QUESTION_ID_RE.test(label) || QUESTION_PREFIX_RE.test(label)) {
         return true;
       }
     }
@@ -859,21 +859,249 @@
     });
   }
 
+  function renderInlineMd(text) {
+    if (!text) return "";
+    let s = text;
+    if (!/<(?:strong|em|span|div|code|a|p)\b/i.test(s)) {
+      s = s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+    }
+    s = s.replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>");
+    s = s.replace(/(?<!\*)\*(?!\*)(.+?)(?<!\*)\*(?!\*)/g, "<em>$1</em>");
+    s = s.replace(/(?<!_)_(?!_)(.+?)(?<!_)_(?!_)/g, "<em>$1</em>");
+    s = s.replace(/`([^`]+)`/g, "<code>$1</code>");
+    return s;
+  }
+
+  function cleanExplanationText(raw) {
+    if (!raw) return "";
+    let t = String(raw).trim();
+    t = t.replace(/<summary[\s\S]*?<\/summary>/gi, "");
+    t = t.replace(/<br\s*\/?>/gi, "\n");
+    t = t.replace(/<\/(?:p|div|li|h[1-6]|details)>/gi, "\n");
+    t = t.replace(/<[^>]+>/g, " ");
+    t = t.replace(/&nbsp;/gi, " ")
+         .replace(/&#39;/g, "'")
+         .replace(/&quot;/g, '"')
+         .replace(/&amp;/g, "&");
+    t = t.replace(/\r\n/g, "\n");
+    t = t.replace(/\n{3,}/g, "\n\n");
+    return t.trim();
+  }
+
+  function formatStudyExplanation(raw) {
+    if (!raw || !String(raw).trim()) return "";
+    const rawStr = String(raw).trim();
+    if (rawStr.includes('class="study-expl-card"')) return rawStr;
+
+    const clean = cleanExplanationText(rawStr);
+    if (!clean) return "";
+
+    const lines = clean.split("\n");
+    const firstLine = lines[0].trim();
+    const restLines = lines.slice(1);
+
+    let answerHtml = "";
+    let restText = clean;
+
+    const ansMatch = firstLine.match(/^\s*(?:\*\*)?(?:Correct Answer|Answer|Ans)\s*:\s*(.*)$/i);
+    if (ansMatch) {
+      const ansRaw = ansMatch[1].trim();
+      const letterMatch = ansRaw.match(/(?:\*\*)?([A-D](?:\s+and\s+[A-D])?)\b(?:\*\*)?/i);
+      const cleanLetter = letterMatch ? letterMatch[1].toUpperCase() : "";
+
+      let ansDesc = ansRaw;
+      if (cleanLetter) {
+        ansDesc = ansDesc.replace(new RegExp("(\\*\\*)?" + cleanLetter.replace(/\s+/g, "\\s+") + "(\\*\\*)?", "i"), "").trim();
+      }
+      ansDesc = ansDesc.replace(/^\*+|\*+$/g, "").trim();
+      if (ansDesc.startsWith("(") && ansDesc.endsWith(")")) {
+        ansDesc = ansDesc.slice(1, -1).trim();
+      }
+
+      const badgeLetter = cleanLetter ? `<span class="study-expl__badge-val">${cleanLetter}</span>` : "";
+      const descHtml = ansDesc ? `<div class="study-expl__badge-desc">${renderInlineMd(ansDesc)}</div>` : "";
+
+      answerHtml = `
+        <div class="study-expl__answer-banner">
+          <div class="study-expl__badge">
+            <svg class="study-expl__badge-icon" viewBox="0 0 20 20" fill="currentColor">
+              <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/>
+            </svg>
+            <span class="study-expl__badge-label">Correct Answer:</span>
+            ${badgeLetter}
+          </div>
+          ${descHtml}
+        </div>
+      `;
+      restText = restLines.join("\n").trim();
+    }
+
+    const sectionSplitRe = /(?:\n\s*|^)\s*(?:\*\*)?(Detailed Explanation|Explanation|Solution|Rationale|Key Exam Takeaway\s*\/\s*Trap|Exam Trap|Exam Takeaway|Key Takeaway|Trap Alert|Memory Trick\s*\/\s*Core Takeaway|Memory Trick|Core Takeaway|Exam Weight\s*\/\s*Trend|UPSC Relevance|Prelims Relevance)\s*:\s*(?:\*\*)?/i;
+
+    const parts = restText.split(sectionSplitRe);
+    const sectionsHtml = [];
+
+    if (parts.length === 1) {
+      const body = parts[0].trim();
+      if (body) sectionsHtml.push(formatSectionBody("", body));
+    } else {
+      if (parts[0].trim()) {
+        sectionsHtml.push(formatSectionBody("", parts[0].trim()));
+      }
+      for (let i = 1; i < parts.length; i += 2) {
+        const secTitle = parts[i].trim();
+        const secContent = parts[i + 1] ? parts[i + 1].trim() : "";
+        sectionsHtml.push(formatSectionBody(secTitle, secContent));
+      }
+    }
+
+    return `
+      <div class="study-expl-card">
+        ${answerHtml}
+        ${sectionsHtml.join("")}
+      </div>
+    `;
+  }
+
+  function formatSectionBody(title, content) {
+    if (!content) return "";
+    const isTrap = /trap|takeaway|mnemonic|memory|alert/i.test(title);
+
+    const lines = content.split("\n");
+    const items = [];
+    let currentItem = [];
+
+    lines.forEach((line) => {
+      const stripped = line.trim();
+      if (!stripped) return;
+      const bulletMatch = stripped.match(/^(?:[-*•]|\d+\.)\s+(.*)$/);
+      if (bulletMatch) {
+        if (currentItem.length) {
+          items.push(currentItem.join(" "));
+          currentItem = [];
+        }
+        currentItem.push(bulletMatch[1]);
+      } else {
+        if (currentItem.length) {
+          currentItem.push(stripped);
+        } else {
+          items.push(stripped);
+        }
+      }
+    });
+
+    if (currentItem.length) {
+      items.push(currentItem.join(" "));
+    }
+
+    const renderedItems = items.map((item) => {
+      const topicMatch = item.match(/^(?:\*\*|\*)([^\*\:]+)(?:\*\*|\*)\s*:\s*(.*)$/);
+      if (topicMatch) {
+        const topic = topicMatch[1].trim();
+        const body = topicMatch[2].trim();
+        return `
+          <li class="study-expl__item">
+            <span class="study-expl__item-bullet"></span>
+            <div class="study-expl__item-content">
+              <strong class="study-expl__item-label">${renderInlineMd(topic)}:</strong>
+              <span class="study-expl__item-body">${renderInlineMd(body)}</span>
+            </div>
+          </li>
+        `;
+      }
+      return `
+        <li class="study-expl__item">
+          <span class="study-expl__item-bullet"></span>
+          <div class="study-expl__item-content">
+            <span class="study-expl__item-body">${renderInlineMd(item)}</span>
+          </div>
+        </li>
+      `;
+    });
+
+    const listHtml = `<ul class="${isTrap ? 'study-expl__trap-list' : 'study-expl__list'}">${renderedItems.join("")}</ul>`;
+
+    if (isTrap) {
+      return `
+        <div class="study-expl__trap-card">
+          <div class="study-expl__trap-header">
+            <svg class="study-expl__trap-icon" viewBox="0 0 20 20" fill="currentColor">
+              <path fill-rule="evenodd" d="M8.257 3.099c.765-1.36 2.722-1.36 3.486 0l5.58 9.92c.75 1.334-.213 2.98-1.742 2.98H4.42c-1.53 0-2.493-1.646-1.743-2.98l5.58-9.92zM11 13a1 1 0 11-2 0 1 1 0 012 0zm-1-8a1 1 0 00-1 1v3a1 1 0 002 0V6a1 1 0 00-1-1z" clip-rule="evenodd"/>
+            </svg>
+            <span class="study-expl__trap-title">${title}</span>
+          </div>
+          <div class="study-expl__trap-body">${listHtml}</div>
+        </div>
+      `;
+    }
+
+    const headHtml = title ? `
+      <div class="study-expl__section-head">
+        <svg class="study-expl__section-icon" viewBox="0 0 20 20" fill="currentColor">
+          <path d="M9 4.804A7.968 7.968 0 005.5 4c-1.255 0-2.443.29-3.5.804v10A7.969 7.969 0 015.5 14c1.669 0 3.218.51 4.5 1.385A7.962 7.962 0 0114.5 14c1.255 0 2.443.29 3.5.804v-10A7.968 7.968 0 0014.5 4c-1.255 0-2.443.29-3.5.804V12a1 1 0 11-2 0V4.804z"/>
+        </svg>
+        <span>${title}</span>
+      </div>
+    ` : "";
+
+    return `
+      <div class="study-expl__section">
+        ${headHtml}
+        ${listHtml}
+      </div>
+    `;
+  }
+
+  // Expose globally for study-tracker.js and any other modules
+  window.formatStudyExplanation = formatStudyExplanation;
+
   function formatAnswerDetails(card) {
-    card.querySelectorAll("details.study-mcq__answer").forEach((details) => {
+    if (!card) return;
+    formatAllAnswerDetails(card);
+  }
+
+  function formatAllAnswerDetails(root) {
+    if (!root) return;
+    const detailsList = root.querySelectorAll("details");
+    detailsList.forEach((details) => {
       const summary = details.querySelector("summary");
+      const summaryText = summary ? summary.textContent.trim() : "";
+      if (!/show answer|answer|solution|view logic|^ans\b/i.test(summaryText)) return;
+
+      details.classList.add("study-mcq__answer", "study-expl-details");
+      if (summary && !summary.textContent.trim()) summary.textContent = "Show answer";
+
+      // If already enhanced with card, don't redo
+      if (details.querySelector(".study-expl-card")) return;
+
+      // Extract raw text from children except summary
+      let rawContent = details.getAttribute("data-raw-expl");
+      if (!rawContent) {
+        const textParts = [];
+        [...details.childNodes].forEach((node) => {
+          if (node === summary) return;
+          textParts.push(node.textContent || "");
+        });
+        rawContent = textParts.join("\n").trim();
+        details.setAttribute("data-raw-expl", rawContent);
+      }
+
+      if (!rawContent) return;
+
+      const formattedHtml = formatStudyExplanation(rawContent);
+      if (!formattedHtml) return;
+
+      // Remove existing non-summary child nodes
       [...details.childNodes].forEach((node) => {
         if (node === summary) return;
-        if (node.nodeType === Node.TEXT_NODE) {
-          const text = node.textContent.trim();
-          if (!text) return;
-          const p = document.createElement("p");
-          setRichText(p, text);
-          details.replaceChild(p, node);
-        } else if (node.nodeType === Node.ELEMENT_NODE && node.tagName === "P") {
-          setRichText(node, node.textContent || "");
-        }
+        node.remove();
       });
+
+      // Insert formatted container
+      const container = document.createElement("div");
+      container.className = "study-expl-wrapper";
+      container.innerHTML = formattedHtml;
+      details.appendChild(container);
     });
   }
 
@@ -1014,6 +1242,9 @@
     root.querySelectorAll(".fact-lock-sheet, .fact-lock-section").forEach((container) => {
       enhanceMcqCardsInContainer(container);
     });
+
+    // Ensure all question answer details (whether in cards or standalone) are beautifully formatted
+    formatAllAnswerDetails(root);
   }
 
   function insertSplitBefore(leftNodes, rightNodes) {
