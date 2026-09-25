@@ -1107,6 +1107,196 @@
   // CHAPTER MCQ & PYQ PARSER
   // Automatically extracts practice questions from the note page!
   // -------------------------------------------------------------
+  // -------------------------------------------------------------
+  // MULTI-FORMAT STEM & OPTIONS EXTRACTOR
+  // Handles standard multi-line, inline pipe, codes, and match formats
+  // -------------------------------------------------------------
+  function extractStemAndOptions(rawBlock) {
+    let text = (rawBlock || '').replace(/\r/g, '').trim();
+    let stem = text;
+    let options = { A: '', B: '', C: '', D: '' };
+
+    // 1. Explicit Options / Codes label
+    const labelMatch = text.match(/\n?\s*(?:Options|Codes|Code)\s*:\s*([\s\S]+)$/i);
+    if (labelMatch) {
+      const candidateStem = text.substring(0, labelMatch.index).trim();
+      const optChunk = labelMatch[1].trim();
+      const delim = /(?:^|[\s\|\n]+)(?:\(?([A-D])[\.\)]|\b([A-D])[\.\)])\s*/gi;
+      let matches = [...optChunk.matchAll(delim)];
+      if (matches.length >= 4) {
+        for (let i = 0; i < matches.length; i++) {
+          const letter = (matches[i][1] || matches[i][2]).toUpperCase();
+          const start = matches[i].index + matches[i][0].length;
+          const end = i + 1 < matches.length ? matches[i+1].index : optChunk.length;
+          const val = optChunk.substring(start, end).replace(/^[\|\s]+|[\|\s]+$/g, '').trim();
+          if (['A','B','C','D'].includes(letter)) options[letter] = val;
+        }
+        if (options.A && options.B && options.C && options.D) {
+          return { stem: candidateStem, options };
+        }
+      }
+    }
+
+    // 2. Sequential A, B, C, D search (multi-line, inline pipe, space or parentheses)
+    const delim = /(?:^|\n\s*|\s*\|\s*|(?<=[\?\.\:\!])\s+|\s{2,}|\s+)(?:\(([A-D])\)|([A-D])[\.\)])\s+/gi;
+    const allMatches = [...text.matchAll(delim)];
+    const aMatches = allMatches.filter(m => (m[1]||m[2]).toUpperCase() === 'A');
+
+    for (let a of aMatches) {
+      const afterA = text.substring(a.index);
+      const subMatches = [...afterA.matchAll(delim)];
+      const seq = subMatches.map(m => (m[1]||m[2]).toUpperCase());
+      const aIdx = seq.indexOf('A');
+      const bIdx = seq.indexOf('B', aIdx + 1);
+      const cIdx = seq.indexOf('C', bIdx + 1);
+      const dIdx = seq.indexOf('D', cIdx + 1);
+
+      if (aIdx !== -1 && bIdx !== -1 && cIdx !== -1 && dIdx !== -1) {
+        const mA = subMatches[aIdx];
+        const mB = subMatches[bIdx];
+        const mC = subMatches[cIdx];
+        const mD = subMatches[dIdx];
+
+        const candidateStem = text.substring(0, a.index + mA.index).replace(/\n?\s*(?:Options|Codes|Code)\s*:?\s*$/i, '').trim();
+        
+        const posA = a.index + mA.index + mA[0].length;
+        const posB = a.index + mB.index;
+        const posC = a.index + mC.index;
+        const posD = a.index + mD.index;
+        const endD = text.length;
+
+        const optA = text.substring(posA, posB).replace(/^[\|\s]+|[\|\s]+$/g, '').trim();
+        const optB = text.substring(posB + mB[0].length, posC).replace(/^[\|\s]+|[\|\s]+$/g, '').trim();
+        const optC = text.substring(posC + mC[0].length, posD).replace(/^[\|\s]+|[\|\s]+$/g, '').trim();
+        const optD = text.substring(posD + mD[0].length, endD).replace(/^[\|\s]+|[\|\s]+$/g, '').trim();
+
+        if (optA && optB && optC && optD) {
+          return {
+            stem: candidateStem,
+            options: { A: optA, B: optB, C: optC, D: optD }
+          };
+        }
+      }
+    }
+
+    // 3. Fallback: line-by-line check
+    const lines = text.split('\n').map(l => l.trim()).filter(Boolean);
+    lines.forEach(line => {
+      const m = line.match(/^([A-D])\.\s*(.+)$/i);
+      if (m) {
+        options[m[1].toUpperCase()] = m[2].trim();
+      }
+    });
+
+    return { stem, options };
+  }
+
+  function renderInlineMd(text) {
+    if (!text) return '';
+    let s = String(text);
+    if (!/<(?:strong|em|span|div|code|a|p|table)\b/i.test(s)) {
+      s = s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+    }
+    s = s.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+    s = s.replace(/(?<!\*)\*(?!\*)(.+?)(?<!\*)\*(?!\*)/g, '<em>$1</em>');
+    s = s.replace(/(?<!_)_(?!_)(.+?)(?<!_)_(?!_)/g, '<em>$1</em>');
+    s = s.replace(/`([^`]+)`/g, '<code>$1</code>');
+    return s;
+  }
+
+  function renderStemToHtml(rawStem) {
+    if (!rawStem) return '';
+    let text = String(rawStem).trim();
+
+    // 1. Markdown tables to styled HTML table
+    const tableRegex = /(?:^|\n)(\|[^\n]+\|\r?\n\|[-:\s\|]+\|\r?\n(?:\|[^\n]+\|\r?\n?)+)/g;
+    text = text.replace(tableRegex, (match, tableBlock) => {
+      const lines = tableBlock.trim().split(/\r?\n/).map(l => l.trim());
+      if (lines.length < 3) return match;
+
+      const parseRow = line => line.replace(/^\|/, '').replace(/\|$/, '').split('|').map(c => c.trim());
+      const headers = parseRow(lines[0]);
+      const rows = lines.slice(2).map(parseRow);
+
+      let html = '<div class="st-match-table-card"><table class="st-match-table">';
+      if (headers.length > 0) {
+        html += '<thead><tr>' + headers.map(h => '<th>' + renderInlineMd(h) + '</th>').join('') + '</tr></thead>';
+      }
+      html += '<tbody>';
+      rows.forEach(r => {
+        html += '<tr>' + r.map(c => {
+          let cell = renderInlineMd(c);
+          cell = cell.replace(/^([A-D])[\.\)]\s*/i, '<span class="st-match-chip-letter">$1</span> ');
+          cell = cell.replace(/^(\d+)[\.\)]\s*/i, '<span class="st-match-chip-num">$1</span> ');
+          return '<td>' + cell + '</td>';
+        }).join('') + '</tr>';
+      });
+      html += '</tbody></table></div>';
+      return '\n\n' + html + '\n\n';
+    });
+
+    // 2. Condensed inline Match questions (e.g. Match: A. ... B. ... with 1. ... 2. ...)
+    const inlineMatchRe = /(Match(?:\s+List-[I1V]+(?:\s*\([^)]*\))?\s+with\s+List-[I1V]+(?:\s*\([^)]*\))?|:)\s*:?)\s*A\.\s*([^B]+)\s+B\.\s*([^C]+)\s+C\.\s*([^D]+)\s+D\.\s*([^w]+)\s+with\s+1\.\s*([^2]+)\s+2\.\s*([^3]+)\s+3\.\s*([^4]+)\s+4\.\s*([\s\S]+?)(?=\s*(?:\n\s*(?:Options|Codes|Code):|$))/i;
+    const mMatch = text.match(inlineMatchRe);
+    if (mMatch) {
+      const intro = mMatch[1].replace(/:+$/, '').trim() || 'Match List-I with List-II';
+      const listI = [mMatch[2].trim(), mMatch[3].trim(), mMatch[4].trim(), mMatch[5].trim()];
+      const listII = [mMatch[6].trim(), mMatch[7].trim(), mMatch[8].trim(), mMatch[9].trim()];
+      const letters = ['A', 'B', 'C', 'D'];
+
+      let tableHtml = '<div class="st-stem-intro">' + renderInlineMd(intro) + ':</div>';
+      tableHtml += '<div class="st-match-table-card"><table class="st-match-table"><thead><tr><th>List-I</th><th>List-II</th></tr></thead><tbody>';
+      for (let i = 0; i < 4; i++) {
+        tableHtml += '<tr><td><span class="st-match-chip-letter">' + letters[i] + '</span> ' + renderInlineMd(listI[i]) + '</td><td><span class="st-match-chip-num">' + (i+1) + '</span> ' + renderInlineMd(listII[i]) + '</td></tr>';
+      }
+      tableHtml += '</tbody></table></div>';
+      text = text.replace(mMatch[0], tableHtml);
+    }
+
+    // 3. Condensed inline Arrange questions
+    const arrangeRe = /(Arrange[^\:]*:\s*)1\.\s*([^2]+)\s+2\.\s*([^3]+)\s+3\.\s*([^4]+)\s+4\.\s*([\s\S]+?)(?=\s*(?:\n\s*(?:Options|Codes|Code):|$))/i;
+    const aMatch = text.match(arrangeRe);
+    if (aMatch) {
+      const intro = aMatch[1].replace(/:+$/, '').trim() || 'Arrange in order';
+      const items = [aMatch[2].trim(), aMatch[3].trim(), aMatch[4].trim(), aMatch[5].trim()];
+      let listHtml = '<div class="st-stem-intro">' + renderInlineMd(intro) + ':</div><div class="st-arrange-card"><ol class="st-arrange-list">';
+      items.forEach((it, idx) => {
+        listHtml += '<li><span class="st-arrange-badge">' + (idx + 1) + '</span><span class="st-arrange-text">' + renderInlineMd(it) + '</span></li>';
+      });
+      listHtml += '</ol></div>';
+      text = text.replace(aMatch[0], listHtml);
+    }
+
+    // Format paragraphs and line breaks
+    const blocks = text.split(/\n{2,}/);
+    return blocks.map(b => {
+      b = b.trim();
+      if (!b) return '';
+      if (b.startsWith('<div class="st-match-table-card"') || b.startsWith('<div class="st-arrange-card"') || b.startsWith('<div class="st-stem-intro"')) {
+        return b;
+      }
+      if (/^\d+\.\s+/.test(b)) {
+        const items = b.split(/\n(?=\d+\.\s+)/);
+        return '<ol class="st-stem-numbered-list">' + items.map(it => '<li>' + renderInlineMd(it.replace(/^\d+\.\s*/, '')) + '</li>').join('') + '</ol>';
+      }
+      return '<p class="st-stem-para">' + renderInlineMd(b).replace(/\n/g, '<br/>') + '</p>';
+    }).filter(Boolean).join('');
+  }
+
+  function formatQuizOptionText(optText) {
+    if (!optText) return '';
+    const trimmed = String(optText).trim();
+    if (/^\d\s*[-–—\s]\s*\d\s*[-–—\s]\s*\d\s*[-–—\s]\s*\d$/.test(trimmed)) {
+      const nums = trimmed.split(/[-–—\s]+/).filter(Boolean);
+      return `<span class="st-match-code-wrap">${nums.map(n => `<span class="st-match-code-num">${n}</span>`).join('<span class="st-match-code-sep">—</span>')}</span>`;
+    }
+    if (/^[A-D]\s*[-–—:]\s*\d/.test(trimmed)) {
+      const pairs = trimmed.split(/[,\s]+/).filter(Boolean);
+      return `<span class="st-match-pairs-wrap">${pairs.map(p => `<span class="st-match-pair-chip">${p}</span>`).join(' ')}</span>`;
+    }
+    return renderInlineMd(trimmed);
+  }
+
   function extractChapterQuestions() {
     const container = document.querySelector('.md-content__inner');
     if (!container) return [];
@@ -1153,58 +1343,10 @@
       let combinedHtml = questionBlocks.map(el => el.outerHTML).join('');
       let rawText = questionBlocks.map(el => el.textContent).join('\n');
 
-      // Parse options A, B, C, D and question stem
-      const options = { A: '', B: '', C: '', D: '' };
-      const normalizedBlock = rawText.replace(/\r?\n\s*\(([A-D])\)\s+/gi, '\n$1. ');
-
-      let stemPart = normalizedBlock;
-      let optionsPart = '';
-
-      const codeMatch = normalizedBlock.match(/\r?\n\s*(?:Code|Codes)\s*:\s*\r?\n/i);
-      if (codeMatch) {
-        const codeIdx = codeMatch.index;
-        stemPart = normalizedBlock.substring(0, codeIdx).trim();
-        optionsPart = normalizedBlock.substring(codeIdx + codeMatch[0].length).trim();
-      } else {
-        const allA = [...normalizedBlock.matchAll(/\r?\n\s*(?:\(?A[\.\)]|\bA\.)\s+/gi)];
-        if (allA.length > 0) {
-          for (let i = allA.length - 1; i >= 0; i--) {
-            const cand = allA[i];
-            const afterCand = normalizedBlock.substring(cand.index);
-            if (/\r?\n\s*(?:\(?B[\.\)]|\bB\.)\s+/i.test(afterCand) &&
-                /\r?\n\s*(?:\(?C[\.\)]|\bC\.)\s+/i.test(afterCand) &&
-                /\r?\n\s*(?:\(?D[\.\)]|\bD\.)\s+/i.test(afterCand)) {
-              stemPart = normalizedBlock.substring(0, cand.index).trim();
-              optionsPart = normalizedBlock.substring(cand.index).trim();
-              break;
-            }
-          }
-        }
-      }
-
-      if (optionsPart) {
-        const optSplit = ('\n' + optionsPart).split(/\r?\n\s*([A-D])[\.\)]\s+/);
-        for (let i = 1; i < optSplit.length; i += 2) {
-          const letter = (optSplit[i] || '').toUpperCase();
-          const text = optSplit[i + 1] ? optSplit[i + 1].trim() : '';
-          if (['A', 'B', 'C', 'D'].includes(letter)) {
-            options[letter] = text;
-          }
-        }
-      }
-
-      // Fallback
-      if (!options.A || !options.B) {
-        const lines = rawText.split('\n').map(l => l.trim()).filter(Boolean);
-        lines.forEach(line => {
-          const optMatch = line.match(/^([A-D])\.\s*(.+)$/i);
-          if (optMatch) {
-            options[optMatch[1].toUpperCase()] = optMatch[2].trim();
-          }
-        });
-      }
-
-      let stem = stemPart.trim();
+      // Parse options A, B, C, D and question stem robustly
+      const parsedData = extractStemAndOptions(rawText);
+      const options = parsedData.options;
+      let stem = parsedData.stem;
 
       // Find preceding section heading (H2/H3/H4)
       let secHeading = '';
@@ -2896,6 +3038,39 @@
       }
     }
 
+    // Question Normalizer: guarantees all questions have valid options and clean stems
+    loadedQuestions = loadedQuestions.map((q, idx) => {
+      let options = q.options;
+      let stem = q.stem || '';
+
+      const hasValidOptions = options && typeof options === 'object' &&
+        options.A && String(options.A).trim() &&
+        options.B && String(options.B).trim();
+
+      if (!hasValidOptions || /Options\s*:\s*[A-D]\./i.test(stem) || /A\.[^\|\n]+\|\s*B\./i.test(stem)) {
+        const parsed = extractStemAndOptions(stem);
+        if (parsed.options.A && parsed.options.B) {
+          options = parsed.options;
+          stem = parsed.stem;
+        }
+      }
+
+      if (!options || typeof options !== 'object' || !options.A || !options.B) {
+        options = {
+          A: (options && options.A) || 'Option A',
+          B: (options && options.B) || 'Option B',
+          C: (options && options.C) || 'Option C',
+          D: (options && options.D) || 'Option D'
+        };
+      }
+
+      return {
+        ...q,
+        stem,
+        options
+      };
+    });
+
     if (loadedQuestions.length === 0) {
       showModal(`Live Test: ${topicInfo.title}`, `
         <div class="st-empty-state" style="padding: 2rem 1rem;">
@@ -2921,8 +3096,34 @@
 
     const isMasteryGate = !!testOptions.isMasteryGate;
 
+    // Check if an uncompleted test session backup exists for this chapter
+    const sessionBackup = getQuizSessionBackup();
+    const hasValidBackup = sessionBackup &&
+      sessionBackup.subject === topicInfo.subject &&
+      sessionBackup.topic === (topicInfo.slug || topicInfo.topic) &&
+      Array.isArray(sessionBackup.questionSubset) &&
+      sessionBackup.questionSubset.length > 0;
+
     // Direct launch if Mastery Gate Qualifying Exam (50 questions, exam mode)
     if (isMasteryGate) {
+      if (hasValidBackup && sessionBackup.isMasteryGate) {
+        const savedAnsCount = Object.keys(sessionBackup.selectedAnswers || {}).length;
+        const savedTotal = sessionBackup.questionSubset.length;
+        if (confirm(`🔄 In-Progress Qualifying Exam Found!\n\nYou answered ${savedAnsCount} of ${savedTotal} questions earlier.\n\nDo you want to RESUME from Question ${(sessionBackup.currentQuestionIndex || 0) + 1}?`)) {
+          questionSubset = sessionBackup.questionSubset;
+          currentQuestionIndex = Math.min(sessionBackup.currentQuestionIndex || 0, questionSubset.length - 1);
+          selectedAnswers = sessionBackup.selectedAnswers || {};
+          flaggedQuestions = sessionBackup.flaggedQuestions || {};
+          visitedQuestions = sessionBackup.visitedQuestions || {};
+          testMode = sessionBackup.testMode || 'exam';
+          testStartTime = sessionBackup.testStartTime || Date.now();
+          startActiveQuiz(true);
+          return;
+        } else {
+          clearQuizSessionBackup();
+        }
+      }
+
       if (loadedQuestions.length < 5) {
         showModal(`⚔️ Mastery Gate: ${topicInfo.title}`, `
           <div class="st-empty-state" style="padding: 2rem 1rem; text-align: center;">
@@ -2995,6 +3196,13 @@
       let activeCategory = 'all';
       let activePool = [...loadedQuestions];
 
+      const existingBackup = getQuizSessionBackup();
+      const canResume = existingBackup &&
+        existingBackup.subject === topicInfo.subject &&
+        existingBackup.topic === (topicInfo.slug || topicInfo.topic) &&
+        Array.isArray(existingBackup.questionSubset) &&
+        existingBackup.questionSubset.length > 0;
+
       const html = `
         <div class="st-test-launcher">
           <div class="st-launcher-hero">
@@ -3005,6 +3213,23 @@
               <span>⚖️ <strong>+1.33</strong> Correct / <strong>-0.44</strong> (1/3rd Negative)</span>
             </div>
           </div>
+
+          ${canResume ? `
+            <div class="st-resume-test-banner" id="st-resume-test-banner">
+              <div class="st-resume-info">
+                <span class="st-resume-badge">🔄 In-Progress Test Detected</span>
+                <p>You have an unfinished test with <strong>${Object.keys(existingBackup.selectedAnswers || {}).length} answered</strong> out of <strong>${existingBackup.questionSubset.length} questions</strong> from this session.</p>
+              </div>
+              <div class="st-resume-actions">
+                <button type="button" class="st-btn st-btn-primary st-btn-sm" id="st-btn-resume-quiz">
+                  ⏩ Resume from Question ${(existingBackup.currentQuestionIndex || 0) + 1}
+                </button>
+                <button type="button" class="st-btn st-btn-outline st-btn-sm" id="st-btn-discard-quiz">
+                  🗑️ Discard &amp; Start Fresh
+                </button>
+              </div>
+            </div>
+          ` : ''}
 
           <!-- Dropdown: Select Question Source -->
           <div class="st-form-group">
@@ -3057,6 +3282,24 @@
       `;
 
       showModal(`Live Test: ${topicInfo.title}`, html);
+
+      if (canResume) {
+        document.getElementById('st-btn-resume-quiz')?.addEventListener('click', () => {
+          questionSubset = existingBackup.questionSubset;
+          currentQuestionIndex = Math.min(existingBackup.currentQuestionIndex || 0, questionSubset.length - 1);
+          selectedAnswers = existingBackup.selectedAnswers || {};
+          flaggedQuestions = existingBackup.flaggedQuestions || {};
+          visitedQuestions = existingBackup.visitedQuestions || {};
+          testMode = existingBackup.testMode || testMode;
+          testStartTime = existingBackup.testStartTime || Date.now();
+          startActiveQuiz(true);
+        });
+
+        document.getElementById('st-btn-discard-quiz')?.addEventListener('click', () => {
+          clearQuizSessionBackup();
+          document.getElementById('st-resume-test-banner')?.remove();
+        });
+      }
 
       // Helper to update count pills based on active pool
       function refreshCountPills(pool) {
@@ -3163,12 +3406,54 @@
     }
 
     // Active Quiz Screen
-    function startActiveQuiz() {
-      testStartTime = Date.now();
-      currentQuestionIndex = 0;
-      selectedAnswers = {};
-      flaggedQuestions = {};
-      visitedQuestions = {};
+    function persistCurrentQuizState() {
+      if (!activeQuizSession || !activeQuizSession.isActive) return;
+      setQuizSessionBackup({
+        subject: topicInfo.subject,
+        topic: topicInfo.slug || topicInfo.topic,
+        topicTitle: topicInfo.title,
+        questionSubset,
+        currentQuestionIndex,
+        selectedAnswers,
+        flaggedQuestions,
+        visitedQuestions,
+        testMode,
+        isMasteryGate,
+        testStartTime
+      });
+    }
+
+    function startActiveQuiz(isResuming = false) {
+      if (!isResuming) {
+        testStartTime = Date.now();
+        currentQuestionIndex = 0;
+        selectedAnswers = {};
+        flaggedQuestions = {};
+        visitedQuestions = {};
+      }
+
+      activeQuizSession = {
+        isActive: true,
+        topicInfo,
+        questionSubset,
+        get currentQuestionIndex() { return currentQuestionIndex; },
+        get selectedAnswers() { return selectedAnswers; },
+        get flaggedQuestions() { return flaggedQuestions; },
+        get visitedQuestions() { return visitedQuestions; },
+        testMode,
+        isMasteryGate,
+        testStartTime,
+        timerInterval,
+        abortQuiz: () => {
+          if (timerInterval) clearInterval(timerInterval);
+          activeQuizSession.isActive = false;
+          activeQuizSession = null;
+          clearQuizSessionBackup();
+          closeModal(true);
+        }
+      };
+
+      persistCurrentQuizState();
 
       const modalBox = document.getElementById('st-modal-box');
       if (modalBox) modalBox.classList.add('st-modal-wide');
@@ -3233,7 +3518,7 @@
               <div class="st-quiz-stem-card">
                 ${q.q_header ? `<div class="st-q-source-tag">${q.q_header}</div>` : ''}
                 <div class="st-q-number-tag">Question ${currentQuestionIndex + 1} of ${total}</div>
-                <div class="st-q-stem-text">${q.stem}</div>
+                <div class="st-q-stem-text">${renderStemToHtml(q.stem)}</div>
               </div>
 
               <!-- Options -->
@@ -3254,7 +3539,7 @@
                   return `
                     <button type="button" class="st-quiz-opt-btn ${extraClass}" data-opt="${opt}">
                       <span class="st-opt-letter">${opt}</span>
-                      <span class="st-opt-text">${optText}</span>
+                      <span class="st-opt-text">${formatQuizOptionText(optText)}</span>
                     </button>
                   `;
                 }).join('')}
@@ -3345,6 +3630,7 @@
         btn.addEventListener('click', () => {
           const opt = btn.dataset.opt;
           selectedAnswers[q.q_id] = opt;
+          persistCurrentQuizState();
           renderQuestionView();
         });
       });
@@ -3352,6 +3638,7 @@
       // Clear Choice
       document.getElementById('st-btn-clear-choice')?.addEventListener('click', () => {
         delete selectedAnswers[q.q_id];
+        persistCurrentQuizState();
         renderQuestionView();
       });
 
@@ -3362,6 +3649,7 @@
         } else {
           flaggedQuestions[q.q_id] = true;
         }
+        persistCurrentQuizState();
         renderQuestionView();
       });
 
@@ -3369,6 +3657,7 @@
       document.querySelectorAll('.st-palette-item').forEach(btn => {
         btn.addEventListener('click', () => {
           currentQuestionIndex = Number(btn.dataset.idx);
+          persistCurrentQuizState();
           renderQuestionView();
         });
       });
@@ -3377,6 +3666,7 @@
       document.getElementById('st-quiz-prev')?.addEventListener('click', () => {
         if (currentQuestionIndex > 0) {
           currentQuestionIndex--;
+          persistCurrentQuizState();
           renderQuestionView();
         }
       });
@@ -3384,6 +3674,7 @@
       document.getElementById('st-quiz-next')?.addEventListener('click', () => {
         if (currentQuestionIndex < total - 1) {
           currentQuestionIndex++;
+          persistCurrentQuizState();
           renderQuestionView();
         }
       });
@@ -3408,6 +3699,12 @@
     // Official Evaluation with Backend API
     async function finishAndEvaluateTest() {
       if (timerInterval) clearInterval(timerInterval);
+      if (activeQuizSession) {
+        activeQuizSession.isActive = false;
+        activeQuizSession = null;
+      }
+      clearQuizSessionBackup();
+
       const totalTimeSec = Math.floor((Date.now() - testStartTime) / 1000);
 
       showModal(`Evaluating Test...`, `
@@ -3666,7 +3963,7 @@
               <div class="st-wrong-list">
                 ${wrongList.map(w => `
                   <div class="st-wrong-item">
-                    <div class="st-wi-stem"><strong>Q${w.q_num} ${w.section_title ? `[${escapeHtml(w.section_title)}]` : ''}:</strong> ${w.stem}</div>
+                    <div class="st-wi-stem"><strong>Q${w.q_num} ${w.section_title ? `[${escapeHtml(w.section_title)}]` : ''}:</strong> ${renderStemToHtml(w.stem)}</div>
                     <div class="st-wi-choices">
                       <span class="st-choice-wrong">Your Choice: <strong>${w.user_answer}</strong> ❌</span>
                       <span class="st-choice-correct">Correct Answer: <strong>${w.correct_answer}</strong> ✅</span>
@@ -3686,7 +3983,7 @@
                 const isCor = uAns && (uAns === q.correct_answer || (q.all_correct_answers && q.all_correct_answers.includes(uAns)));
                 return `
                   <div class="st-wrong-item" style="border-left-color: ${isCor ? '#10b981' : (uAns ? '#ef4444' : '#cbd5e1')}">
-                    <div class="st-wi-stem"><strong>Q${idx + 1}:</strong> ${q.stem}</div>
+                    <div class="st-wi-stem"><strong>Q${idx + 1}:</strong> ${renderStemToHtml(q.stem)}</div>
                     <div class="st-wi-choices">
                       <span>Your Choice: <strong>${uAns || 'Unattempted'}</strong> ${isCor ? '✅' : (uAns ? '❌' : '⚪')}</span>
                       <span class="st-choice-correct">Correct Answer: <strong>${q.correct_answer}</strong> ✅</span>
@@ -3910,7 +4207,7 @@
                     </span>
                   </div>
 
-                  <div class="st-detail-qstem">${escapeHtml(q.stem)}</div>
+                  <div class="st-detail-qstem">${renderStemToHtml(q.stem)}</div>
 
                   ${q.options && q.options.length > 0 ? `
                     <div class="st-detail-options-list">
@@ -3969,7 +4266,7 @@
                     <span class="st-qstatus-badge is-wrong">❌ Incorrect (-0.44)</span>
                   </div>
 
-                  <div class="st-detail-qstem">${escapeHtml(w.stem)}</div>
+                  <div class="st-detail-qstem">${renderStemToHtml(w.stem)}</div>
 
                   <div class="st-detail-answer-bar">
                     <span style="color:#ef4444;">Your Choice: <strong>${escapeHtml(w.user_answer || 'None')}</strong> ❌</span>
@@ -4657,8 +4954,78 @@
   }
 
   // -------------------------------------------------------------
-  // 5. MODAL SYSTEM
+  // 5. MODAL SYSTEM & ACTIVE QUIZ DISMISSAL PROTECTION
   // -------------------------------------------------------------
+  let activeQuizSession = null;
+
+  function setQuizSessionBackup(data) {
+    try {
+      sessionStorage.setItem('uppcs_active_quiz_backup', JSON.stringify({
+        ...data,
+        savedAt: Date.now()
+      }));
+    } catch (e) {
+      console.warn('Failed to save quiz backup', e);
+    }
+  }
+
+  function getQuizSessionBackup() {
+    try {
+      const raw = sessionStorage.getItem('uppcs_active_quiz_backup');
+      if (!raw) return null;
+      const parsed = JSON.parse(raw);
+      if (Date.now() - (parsed.savedAt || 0) > 24 * 60 * 60 * 1000) {
+        sessionStorage.removeItem('uppcs_active_quiz_backup');
+        return null;
+      }
+      return parsed;
+    } catch (e) {
+      return null;
+    }
+  }
+
+  function clearQuizSessionBackup() {
+    try {
+      sessionStorage.removeItem('uppcs_active_quiz_backup');
+    } catch (e) {}
+  }
+
+  function handleModalDismissRequest(source) {
+    if (activeQuizSession && activeQuizSession.isActive) {
+      if (source === 'backdrop') {
+        // Prevent accidental closing on backdrop click: pulse modal and show toast notice
+        const box = document.getElementById('st-modal-box');
+        if (box) {
+          box.classList.remove('st-modal-pulse');
+          void box.offsetWidth; // re-trigger animation
+          box.classList.add('st-modal-pulse');
+          setTimeout(() => box.classList.remove('st-modal-pulse'), 400);
+        }
+        showToast('⚠️ Exam in progress! Submit test or click [×] to exit.', 'warning', 2500);
+        return;
+      }
+
+      // Explicit close button [×] or Escape key request
+      const answeredCount = Object.keys(activeQuizSession.selectedAnswers || {}).length;
+      const totalCount = activeQuizSession.questionSubset ? activeQuizSession.questionSubset.length : 0;
+      const confirmMsg = `⚠️ Test in Progress!\n\nYou have answered ${answeredCount} of ${totalCount} question(s).\n\nAre you sure you want to abandon this test?\n(Unsaved exam progress will be lost)`;
+
+      if (window.confirm(confirmMsg)) {
+        if (typeof activeQuizSession.abortQuiz === 'function') {
+          activeQuizSession.abortQuiz();
+        } else {
+          activeQuizSession.isActive = false;
+          activeQuizSession = null;
+          clearQuizSessionBackup();
+          closeModal(true);
+        }
+      }
+      return;
+    }
+
+    closeModal(true);
+  }
+
   function getOrCreateModal() {
     let overlay = document.getElementById('st-modal-overlay');
     if (!overlay) {
@@ -4677,18 +5044,49 @@
       document.body.appendChild(overlay);
 
       overlay.addEventListener('click', (e) => {
-        if (e.target === overlay) closeModal();
+        if (e.target === overlay) {
+          handleModalDismissRequest('backdrop');
+        }
       });
-      document.getElementById('st-modal-close')?.addEventListener('click', closeModal);
+      document.getElementById('st-modal-close')?.addEventListener('click', () => {
+        handleModalDismissRequest('close_button');
+      });
+
+      window.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape' && overlay.style.display !== 'none') {
+          handleModalDismissRequest('escape_key');
+        }
+      });
+
+      window.addEventListener('beforeunload', (e) => {
+        if (activeQuizSession && activeQuizSession.isActive) {
+          e.preventDefault();
+          e.returnValue = 'An exam is currently in progress. Your test progress will be lost if you leave now.';
+          return e.returnValue;
+        }
+      });
     }
     return overlay;
   }
 
-  function closeModal() {
+  function closeModal(force = false) {
+    if (!force && activeQuizSession && activeQuizSession.isActive) {
+      handleModalDismissRequest('programmatic');
+      return false;
+    }
+    if (activeQuizSession && force) {
+      if (activeQuizSession.timerInterval) clearInterval(activeQuizSession.timerInterval);
+      activeQuizSession.isActive = false;
+      activeQuizSession = null;
+    }
     const overlay = document.getElementById('st-modal-overlay');
     if (overlay) overlay.style.display = 'none';
     const box = document.getElementById('st-modal-box');
-    if (box) box.classList.remove('st-modal-wide');
+    if (box) {
+      box.classList.remove('st-modal-wide');
+      box.classList.remove('st-modal-pulse');
+    }
+    return true;
   }
 
   function showModal(title, contentHtml) {

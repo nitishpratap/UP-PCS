@@ -8,6 +8,90 @@ function extractChapterTitle(content, defaultName) {
 }
 
 /**
+ * Robustly extracts question stem and options A, B, C, D from any question block.
+ * Handles multi-line, pipe-delimited, inline, Codes: and Options: structures.
+ */
+function extractStemAndOptions(questionBlock) {
+  let text = (questionBlock || '').replace(/\r/g, '').trim();
+  let stem = text;
+  let options = { A: '', B: '', C: '', D: '' };
+
+  // 1. Explicit Options / Codes label
+  const labelMatch = text.match(/\n?\s*(?:Options|Codes|Code)\s*:\s*([\s\S]+)$/i);
+  if (labelMatch) {
+    const candidateStem = text.substring(0, labelMatch.index).trim();
+    const optChunk = labelMatch[1].trim();
+    const delim = /(?:^|[\s\|\n]+)(?:\(?([A-D])[\.\)]|\b([A-D])[\.\)])\s*/gi;
+    let matches = [...optChunk.matchAll(delim)];
+    if (matches.length >= 4) {
+      for (let i = 0; i < matches.length; i++) {
+        const letter = (matches[i][1] || matches[i][2]).toUpperCase();
+        const start = matches[i].index + matches[i][0].length;
+        const end = i + 1 < matches.length ? matches[i+1].index : optChunk.length;
+        const val = optChunk.substring(start, end).replace(/^[\|\s]+|[\|\s]+$/g, '').trim();
+        if (['A','B','C','D'].includes(letter)) options[letter] = val;
+      }
+      if (options.A && options.B && options.C && options.D) {
+        return { stem: candidateStem, options };
+      }
+    }
+  }
+
+  // 2. Sequential A, B, C, D search (multi-line, inline pipe, space or parentheses)
+  const delim = /(?:^|\n\s*|\s*\|\s*|(?<=[\?\.\:\!])\s+|\s{2,}|\s+)(?:\(([A-D])\)|([A-D])[\.\)])\s+/gi;
+  const allMatches = [...text.matchAll(delim)];
+  const aMatches = allMatches.filter(m => (m[1]||m[2]).toUpperCase() === 'A');
+
+  for (let a of aMatches) {
+    const afterA = text.substring(a.index);
+    const subMatches = [...afterA.matchAll(delim)];
+    const seq = subMatches.map(m => (m[1]||m[2]).toUpperCase());
+    const aIdx = seq.indexOf('A');
+    const bIdx = seq.indexOf('B', aIdx + 1);
+    const cIdx = seq.indexOf('C', bIdx + 1);
+    const dIdx = seq.indexOf('D', cIdx + 1);
+
+    if (aIdx !== -1 && bIdx !== -1 && cIdx !== -1 && dIdx !== -1) {
+      const mA = subMatches[aIdx];
+      const mB = subMatches[bIdx];
+      const mC = subMatches[cIdx];
+      const mD = subMatches[dIdx];
+
+      const candidateStem = text.substring(0, a.index + mA.index).replace(/\n?\s*(?:Options|Codes|Code)\s*:?\s*$/i, '').trim();
+      
+      const posA = a.index + mA.index + mA[0].length;
+      const posB = a.index + mB.index;
+      const posC = a.index + mC.index;
+      const posD = a.index + mD.index;
+      const endD = text.length;
+
+      const optA = text.substring(posA, posB).replace(/^[\|\s]+|[\|\s]+$/g, '').trim();
+      const optB = text.substring(posB + mB[0].length, posC).replace(/^[\|\s]+|[\|\s]+$/g, '').trim();
+      const optC = text.substring(posC + mC[0].length, posD).replace(/^[\|\s]+|[\|\s]+$/g, '').trim();
+      const optD = text.substring(posD + mD[0].length, endD).replace(/^[\|\s]+|[\|\s]+$/g, '').trim();
+
+      if (optA && optB && optC && optD) {
+        return {
+          stem: candidateStem,
+          options: { A: optA, B: optB, C: optC, D: optD }
+        };
+      }
+    }
+  }
+
+  // 3. Fallback: line-by-line check
+  const lines = text.split('\n').map(l => l.trim()).filter(Boolean);
+  lines.forEach(line => {
+    const m = line.match(/^([A-D])\.\s*(.+)$/i);
+    if (m) {
+      options[m[1].toUpperCase()] = m[2].trim();
+    }
+  });
+
+  return { stem, options };
+}
+
+/**
  * Robustly parses multiple-choice questions from a subject markdown file.
  */
 function parseQuestionsFromMarkdown(filePath, subject, chapterSlug) {
@@ -227,61 +311,10 @@ function parseQuestionsFromMarkdown(filePath, subject, chapterSlug) {
       continue;
     }
 
-    // Parse options A, B, C, D
-    const options = { A: '', B: '', C: '', D: '' };
-    const normalizedBlock = questionBlock.replace(/\r?\n\s*\(([A-D])\)\s+/gi, '\n$1. ');
-
-    let stemPart = normalizedBlock;
-    let optionsPart = '';
-
-    // Check if there is an explicit "Code:" or "Codes:" block
-    const codeMatch = normalizedBlock.match(/\r?\n\s*(?:Code|Codes)\s*:\s*\r?\n/i);
-    if (codeMatch) {
-      const codeIdx = codeMatch.index;
-      stemPart = normalizedBlock.substring(0, codeIdx).trim();
-      optionsPart = normalizedBlock.substring(codeIdx + codeMatch[0].length).trim();
-    } else {
-      // Find the LAST occurrence of "\nA." or "\n(A)" in the block where B, C, D follow
-      const allA = [...normalizedBlock.matchAll(/\r?\n\s*(?:\(?A[\.\)]|\bA\.)\s+/gi)];
-      if (allA.length > 0) {
-        for (let i = allA.length - 1; i >= 0; i--) {
-          const cand = allA[i];
-          const afterCand = normalizedBlock.substring(cand.index);
-          if (/\r?\n\s*(?:\(?B[\.\)]|\bB\.)\s+/i.test(afterCand) &&
-              /\r?\n\s*(?:\(?C[\.\)]|\bC\.)\s+/i.test(afterCand) &&
-              /\r?\n\s*(?:\(?D[\.\)]|\bD\.)\s+/i.test(afterCand)) {
-            stemPart = normalizedBlock.substring(0, cand.index).trim();
-            optionsPart = normalizedBlock.substring(cand.index).trim();
-            break;
-          }
-        }
-      }
-    }
-
-    if (optionsPart) {
-      const optSplit = ('\n' + optionsPart).split(/\r?\n\s*([A-D])[\.\)]\s+/);
-      for (let i = 1; i < optSplit.length; i += 2) {
-        const letter = (optSplit[i] || '').toUpperCase();
-        const text = optSplit[i + 1] ? optSplit[i + 1].trim() : '';
-        if (['A', 'B', 'C', 'D'].includes(letter)) {
-          options[letter] = text;
-        }
-      }
-    }
-
-    // Fallback if optionsPart failed
-    if (!options.A || !options.B) {
-      const optSplit = normalizedBlock.split(/\r?\n\s*([A-D])[\.\)]\s+/);
-      if (optSplit.length >= 7) {
-        for (let i = 1; i < optSplit.length; i += 2) {
-          const letter = (optSplit[i] || '').toUpperCase();
-          const text = optSplit[i + 1] ? optSplit[i + 1].trim() : '';
-          if (['A', 'B', 'C', 'D'].includes(letter)) {
-            options[letter] = text;
-          }
-        }
-      }
-    }
+    // Parse options A, B, C, D and question stem robustly
+    const parsedData = extractStemAndOptions(questionBlock);
+    const options = parsedData.options;
+    let stemPart = parsedData.stem;
 
     let rawStem = stemPart.trim();
     let stem = rawStem.replace(/^\*\*(?:Q\s*[-–—]?\s*(?:GC)?\s*\d+|Q\s*[\.:\)]|Q\d+|PYQ\b|Inline PYQ\b|Practice Q\b|Question\s*\d+)[^\*]*?\*\*/i, '').trim();
@@ -514,6 +547,7 @@ async function syncAllQuestions(db, subjectsDir) {
 
 module.exports = {
   extractChapterTitle,
+  extractStemAndOptions,
   parseQuestionsFromMarkdown,
   syncChapterQuestions,
   syncAllQuestions
