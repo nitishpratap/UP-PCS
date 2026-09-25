@@ -2318,14 +2318,14 @@
     const normSub = (subject || '').toLowerCase().trim();
     const cat = CHAPTER_CATALOG[normSub] || [];
     const cleanTopic = (topic || '').trim();
-    const normClean = cleanTopic.toLowerCase().replace(/^topics*d+s*[-–—:]*s*/i, '').replace(/^[0-9.s-_]+/, '').replace(/[-_ ]/g, '');
+    const normClean = cleanTopic.toLowerCase().replace(/^topic\s*\d+\s*[-–—:]*\s*/i, '').replace(/^[0-9\s._-]+/, '').replace(/[-_ ]/g, '');
     const found = cat.find(c => {
       if (c.slug === cleanTopic || c.title === cleanTopic) return true;
       if (c.slug.toLowerCase() === cleanTopic.toLowerCase()) return true;
       if (c.title && c.title.toLowerCase() === cleanTopic.toLowerCase()) return true;
-      const cNormSlug = c.slug.toLowerCase().replace(/^[0-9.s-_]+/, '').replace(/[-_ ]/g, '');
-      const cNormTitle = (c.title || '').toLowerCase().replace(/^topics*d+s*[-–—:]*s*/i, '').replace(/^[0-9.s-_]+/, '').replace(/[-_ ]/g, '');
-      return (normClean && (cNormSlug === normClean || cNormTitle === normClean || c.slug.toLowerCase().endsWith(normClean)));
+      const cNormSlug = c.slug.toLowerCase().replace(/^[0-9\s._-]+/, '').replace(/[-_ ]/g, '');
+      const cNormTitle = (c.title || '').toLowerCase().replace(/^topic\s*\d+\s*[-–—:]*\s*/i, '').replace(/^[0-9\s._-]+/, '').replace(/[-_ ]/g, '');
+      return Boolean(normClean && (cNormSlug === normClean || cNormTitle === normClean || c.slug.toLowerCase().endsWith(normClean)));
     });
     return {
       subject: normSub,
