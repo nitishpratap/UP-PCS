@@ -3492,10 +3492,315 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
   <summary>
     <span class="ct-subject-title">Economy</span>
     <span class="ct-progress" data-ct-subject="economy"></span>
-    <span class="ct-subject-count">0 chapters</span>
+    <span class="ct-subject-count">12 chapters</span>
   </summary>
   <div class="ct-subject-body">
-<p class="ct-empty-note">National Economy topic files are not split yet. Revise from the <a href="../subjects/economy/00_Syllabus/">Economy syllabus</a> and the <a href="../subjects/economy/uttarakhand/00_Syllabus/">Uttarakhand Economy map</a>. UKPCS 2025 carried about <strong>10</strong> Economy questions.</p>
+<h3 class="ct-group-title">Highly Important</h3>
+<div class="ct-list ct-list--high">
+<details class="ct-row" data-ct-id="economy-01-Indian-Economy-Basics-Planning-md" data-group="high" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="economy-01-Indian-Economy-Basics-Planning-md" aria-label="Mark Economy Topic 1 — Indian Economy Basics, Evolution and Planning done">
+    <span class="ct-title">Topic 1 — Indian Economy: Basics, Evolution and Planning</span>
+    <span class="ct-pills">10 Qs · UPPCS 5 · UKPCS 5</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/economy/01_Indian_Economy_Basics_Planning/#complete-pyq-bank-uppcs">UPPCS bank — mixed economy, development A/R, NITI VC, 12th Plan, AIM</a> — 5 questions (UPPCS 5)</li>
+      <li><a href="../subjects/economy/01_Indian_Economy_Basics_Planning/#complete-pyq-bank-ukpcs">UKPCS bank — NITI statements, 11th Plan, Governing Council, NI problems, liberalisation phase</a> — 5 questions (UKPCS 5)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/economy/01_Indian_Economy_Basics_Planning/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="economy-02-Public-Finance-Budget-Taxation-md" data-group="high" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="economy-02-Public-Finance-Budget-Taxation-md" aria-label="Mark Economy Topic 2 — Public Finance, Budget, Taxation and Fiscal Policy done">
+    <span class="ct-title">Topic 2 — Public Finance, Budget, Taxation and Fiscal Policy</span>
+    <span class="ct-pills">15 Qs · UPPCS 10 · UKPCS 5</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/economy/02_Public_Finance_Budget_Taxation/#complete-pyq-bank-uppcs">UPPCS bank — FC composition/report, GST 101st, CFI match, DTC, Contingency Fund, FC chairmen</a> — 10 questions (UPPCS 10)</li>
+      <li><a href="../subjects/economy/02_Public_Finance_Budget_Taxation/#complete-pyq-bank-ukpcs">UKPCS bank — 14th FC 42%, degressive tax, Tobin tax, VAT under GST, 101st GST</a> — 5 questions (UKPCS 5)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/economy/02_Public_Finance_Budget_Taxation/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="economy-03-Money-Banking-RBI-Financial-System-md" data-group="high" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="economy-03-Money-Banking-RBI-Financial-System-md" aria-label="Mark Economy Topic 3 — Money, Banking, RBI and Financial System done">
+    <span class="ct-title">Topic 3 — Money, Banking, RBI and Financial System</span>
+    <span class="ct-pills">7 Qs · UPPCS 4 · UKPCS 3</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/economy/03_Money_Banking_RBI_Financial_System/#complete-pyq-bank-uppcs">UPPCS bank — RBI note issue, financial inclusion steps, Lead Banking Scheme, RRB–NABARD–SHG–KCC chronology</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/economy/03_Money_Banking_RBI_Financial_System/#complete-pyq-bank-ukpcs">UKPCS bank — NABARD refinance, currency appreciation, RRB merger 26</a> — 3 questions (UKPCS 3)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/economy/03_Money_Banking_RBI_Financial_System/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="economy-04-Inflation-Prices-Savings-Investment-Markets-md" data-group="high" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="economy-04-Inflation-Prices-Savings-Investment-Markets-md" aria-label="Mark Economy Topic 4 — Inflation, Prices, Savings, Investment and Markets done">
+    <span class="ct-title">Topic 4 — Inflation, Prices, Savings, Investment and Markets</span>
+    <span class="ct-pills">6 Qs · UPPCS 4 · UKPCS 2</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/economy/04_Inflation_Prices_Savings_Investment_Markets/#complete-pyq-bank-uppcs">UPPCS bank — retail CPI, WPI ministry, Combined CPI headline, bottleneck inflation A/R</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/economy/04_Inflation_Prices_Savings_Investment_Markets/#complete-pyq-bank-ukpcs">UKPCS bank — debtors benefit, headline vs core</a> — 2 questions (UKPCS 2)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/economy/04_Inflation_Prices_Savings_Investment_Markets/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="economy-05-Agriculture-Indian-Agricultural-Economy-md" data-group="high" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="economy-05-Agriculture-Indian-Agricultural-Economy-md" aria-label="Mark Economy Topic 5 — Agriculture and Indian Agricultural Economy done">
+    <span class="ct-title">Topic 5 — Agriculture and Indian Agricultural Economy</span>
+    <span class="ct-pills">4 Qs · UPPCS 3 · UKPCS 1</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/economy/05_Agriculture_Indian_Agricultural_Economy/#complete-pyq-bank-uppcs">UPPCS bank — plantation tea, CACP recommends MSP, farm subsidy types</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/economy/05_Agriculture_Indian_Agricultural_Economy/#complete-pyq-bank-ukpcs">UKPCS bank — Punjab irrigation percent</a> — 1 question (UKPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/economy/05_Agriculture_Indian_Agricultural_Economy/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="economy-06-Agricultural-Policies-Schemes-MSP-Revolutions-md" data-group="high" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="economy-06-Agricultural-Policies-Schemes-MSP-Revolutions-md" aria-label="Mark Economy Topic 6 — Agricultural Policies, Schemes, MSP and Revolutions done">
+    <span class="ct-title">Topic 6 — Agricultural Policies, Schemes, MSP and Revolutions</span>
+    <span class="ct-pills">9 Qs · UPPCS 6 · UKPCS 3</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/economy/06_Agricultural_Policies_Schemes_MSP_Revolutions/#complete-pyq-bank-uppcs">UPPCS bank — NFSA, tenancy reforms, Swaminathan match, food-security dimensions, CACP</a> — 6 questions (UPPCS 6)</li>
+      <li><a href="../subjects/economy/06_Agricultural_Policies_Schemes_MSP_Revolutions/#complete-pyq-bank-ukpcs">UKPCS bank — PM-KISAN date, NFSM year, NFSM commodities</a> — 3 questions (UKPCS 3)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/economy/06_Agricultural_Policies_Schemes_MSP_Revolutions/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="economy-07-Industry-MSME-Infrastructure-md" data-group="high" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="economy-07-Industry-MSME-Infrastructure-md" aria-label="Mark Economy Topic 7 — Industry, MSME and Infrastructure done">
+    <span class="ct-title">Topic 7 — Industry, MSME and Infrastructure</span>
+    <span class="ct-pills">6 Qs · UPPCS 4 · UKPCS 2</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/economy/07_Industry_MSME_Infrastructure/#complete-pyq-bank-uppcs">UPPCS bank — Make in India, Gati Shakti, SSI committees, Singapore FDI A/R</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/economy/07_Industry_MSME_Infrastructure/#complete-pyq-bank-ukpcs">UKPCS bank — MSME 2020 classification, FDI services sector</a> — 2 questions (UKPCS 2)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/economy/07_Industry_MSME_Infrastructure/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="economy-08-Employment-Poverty-Human-Capital-md" data-group="high" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="economy-08-Employment-Poverty-Human-Capital-md" aria-label="Mark Economy Topic 8 — Employment, Poverty, Human Capital and Social Economy done">
+    <span class="ct-title">Topic 8 — Employment, Poverty, Human Capital and Social Economy</span>
+    <span class="ct-pills">10 Qs · UPPCS 9 · UKPCS 1</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/economy/08_Employment_Poverty_Human_Capital/#complete-pyq-bank-uppcs">UPPCS bank — Alagh, MPI/HPI, HDI indicators, demographic dividend, social indicators</a> — 9 questions (UPPCS 9)</li>
+      <li><a href="../subjects/economy/08_Employment_Poverty_Human_Capital/#complete-pyq-bank-ukpcs">UKPCS bank — Naoroji jail cost of living</a> — 1 question (UKPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/economy/08_Employment_Poverty_Human_Capital/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="economy-09-External-Sector-Foreign-Trade-md" data-group="high" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="economy-09-External-Sector-Foreign-Trade-md" aria-label="Mark Economy Topic 9 — External Sector, Foreign Trade and Global Economy done">
+    <span class="ct-title">Topic 9 — External Sector, Foreign Trade and Global Economy</span>
+    <span class="ct-pills">10 Qs · UPPCS 4 · UKPCS 6</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/economy/09_External_Sector_Foreign_Trade/#complete-pyq-bank-uppcs">UPPCS bank — BoP current account, flexible exchange A/R, remittances 2022, Singapore FDI A/R</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/economy/09_External_Sector_Foreign_Trade/#complete-pyq-bank-ukpcs">UKPCS bank — FEMA 1999 / 1 June 2000, appreciation, WTO criticism except, MC-13 Abu Dhabi, FDI services</a> — 6 questions (UKPCS 6)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/economy/09_External_Sector_Foreign_Trade/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="economy-10-International-Institutions-Groupings-md" data-group="high" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="economy-10-International-Institutions-Groupings-md" aria-label="Mark Economy Topic 10 — International Institutions, Groupings and Summits done">
+    <span class="ct-title">Topic 10 — International Institutions, Groupings and Summits</span>
+    <span class="ct-pills">16 Qs · UPPCS 6 · UKPCS 10</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/economy/10_International_Institutions_Groupings/#complete-pyq-bank-uppcs">UPPCS bank — Bretton Woods twins, BIMSTEC membership/summit, G20 logo &amp; UP venues, BRICS 2018</a> — 6 questions (UPPCS 6)</li>
+      <li><a href="../subjects/economy/10_International_Institutions_Groupings/#complete-pyq-bank-ukpcs">UKPCS bank — IMF members, O’Neill/BRICS year, SAARC 1986, ASEAN/BIMSTEC secretariats, WEF GCI, BRICS expansion</a> — 10 questions (UKPCS 10)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/economy/10_International_Institutions_Groupings/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="economy-11-Services-Cooperatives-Regulators-md" data-group="high" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="economy-11-Services-Cooperatives-Regulators-md" aria-label="Mark Economy Topic 11 — Services, Cooperatives, Companies and Regulators done">
+    <span class="ct-title">Topic 11 — Services, Cooperatives, Companies and Regulators</span>
+    <span class="ct-pills">4 Qs · UPPCS 3 · UKPCS 1</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/economy/11_Services_Cooperatives_Regulators/#complete-pyq-bank-uppcs">UPPCS bank — CSR 2013/2%, ECOMARC, MRP ceiling A/R</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/economy/11_Services_Cooperatives_Regulators/#complete-pyq-bank-ukpcs">UKPCS neighbour — services FDI sector (cross Topic 7)</a> — 1 question (UKPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/economy/11_Services_Cooperatives_Regulators/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="economy-12-Economic-Laws-Reports-Rankings-Misc-md" data-group="high" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="economy-12-Economic-Laws-Reports-Rankings-Misc-md" aria-label="Mark Economy Topic 12 — Economic Laws, Reports, Rankings and Misc done">
+    <span class="ct-title">Topic 12 — Economic Laws, Reports, Rankings and Misc</span>
+    <span class="ct-pills">13 Qs · UPPCS 8 · UKPCS 5</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/economy/12_Economic_Laws_Reports_Rankings_Misc/#complete-pyq-bank-uppcs">UPPCS bank — Economic Survey, HDR slip, Happiness/GPI/GHI/EoDB ranks, PQLI</a> — 8 questions (UPPCS 8)</li>
+      <li><a href="../subjects/economy/12_Economic_Laws_Reports_Rankings_Misc/#complete-pyq-bank-ukpcs">UKPCS bank — PMLA, GII 2010, HDI 2020 rank, WEF GCI, SDG India Index</a> — 5 questions (UKPCS 5)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/economy/12_Economic_Laws_Reports_Rankings_Misc/">Open chapter</a>
+  </div>
+</details>
+</div>
+<p class="ct-empty-note">All 12 national Economy chapters are written. UK state notes stay under <a href="../subjects/economy/uttarakhand/00_Syllabus/">Uttarakhand Economy</a>. Census / demography / urbanisation depth → <a href="../subjects/census%20and%20urbanisation/">Census and Urbanisation</a>.</p>
+  </div>
+</details>
+
+<details class="ct-subject" id="census-and-urbanisation" data-ct-subject="census-and-urbanisation" name="ct-subject">
+  <summary>
+    <span class="ct-subject-title">Census and Urbanisation</span>
+    <span class="ct-progress" data-ct-subject="census-and-urbanisation"></span>
+    <span class="ct-subject-count">7 chapters</span>
+  </summary>
+  <div class="ct-subject-body">
+<h3 class="ct-group-title">Highly Important</h3>
+<div class="ct-list ct-list--high">
+<details class="ct-row" data-ct-id="census-and-urbanisation-01-Census-and-Population-Data-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="census-and-urbanisation-01-Census-and-Population-Data-md" aria-label="Mark Census Topic 1 — Census and Population Data done">
+    <span class="ct-title">Topic 1 — Census and Population Data</span>
+    <span class="ct-pills">Written</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/census%20and%20urbanisation/01_Census_and_Population_Data/#complete-pyq-bank-uppcs">UPPCS / standard — Union List, 1881, Great Divide, density 382, UP population, Bihar density, agency</a></li>
+      <li><a href="../subjects/census%20and%20urbanisation/01_Census_and_Population_Data/#complete-pyq-bank-ukpcs">UKPCS — UK 2011 statements (2025), density/growth districts, SRS</a></li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/census%20and%20urbanisation/01_Census_and_Population_Data/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="census-and-urbanisation-02-Population-Growth-Demographic-Transition-Theories-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="census-and-urbanisation-02-Population-Growth-Demographic-Transition-Theories-md" aria-label="Mark Census Topic 2 — Population Growth, Demographic Transition and Theories done">
+    <span class="ct-title">Topic 2 — Population Growth, Demographic Transition and Theories</span>
+    <span class="ct-pills">Written</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/census%20and%20urbanisation/02_Population_Growth_Demographic_Transition_Theories/#complete-pyq-bank-uppcs">UPPCS — theory match (2023), Malthus geometric/arithmetic (2024), DTT stages, Cannan, Great Divide, explosion phase</a></li>
+      <li><a href="../subjects/census%20and%20urbanisation/02_Population_Growth_Demographic_Transition_Theories/#complete-pyq-bank-ukpcs">UKPCS / standard — Thompson, Neo-Malthusian, Boserup, 2011 growth rate</a></li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/census%20and%20urbanisation/02_Population_Growth_Demographic_Transition_Theories/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="census-and-urbanisation-03-Population-Composition-Demographic-Characteristics-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="census-and-urbanisation-03-Population-Composition-Demographic-Characteristics-md" aria-label="Mark Census Topic 3 — Population Composition and Demographic Characteristics done">
+    <span class="ct-title">Topic 3 — Population Composition and Demographic Characteristics</span>
+    <span class="ct-pills">Written</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/census%20and%20urbanisation/03_Population_Composition_Demographic_Characteristics/#complete-pyq-bank-uppcs">UPPCS — dividend 15–59, Shrawasti female literacy, SR/CSR, SC/ST absolute vs %</a></li>
+      <li><a href="../subjects/census%20and%20urbanisation/03_Population_Composition_Demographic_Characteristics/#complete-pyq-bank-ukpcs">UKPCS — Haryana lowest SR, Almora sex-ratio order, UK 963, literacy trough</a></li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/census%20and%20urbanisation/03_Population_Composition_Demographic_Characteristics/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="census-and-urbanisation-04-Fertility-Mortality-Health-Population-Policies-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="census-and-urbanisation-04-Fertility-Mortality-Health-Population-Policies-md" aria-label="Mark Census Topic 4 — Fertility, Mortality, Health and Population Policies done">
+    <span class="ct-title">Topic 4 — Fertility, Mortality, Health and Population Policies</span>
+    <span class="ct-pills">Written</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/census%20and%20urbanisation/04_Fertility_Mortality_Health_Population_Policies/#complete-pyq-bank-uppcs">UPPCS — natural growth, TFR 2.1, UP Bill unit trap, NPP 2000, IMR, UNFPA / 11 July</a></li>
+      <li><a href="../subjects/census%20and%20urbanisation/04_Fertility_Mortality_Health_Population_Policies/#complete-pyq-bank-ukpcs">UKPCS / standard — natural increase, IMR vs MMR, NPP, SRS</a></li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/census%20and%20urbanisation/04_Fertility_Mortality_Health_Population_Policies/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="census-and-urbanisation-05-Migration-and-Population-Distribution-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="census-and-urbanisation-05-Migration-and-Population-Distribution-md" aria-label="Mark Census Topic 5 — Migration and Population Distribution done">
+    <span class="ct-title">Topic 5 — Migration and Population Distribution</span>
+    <span class="ct-pills">Written</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/census%20and%20urbanisation/05_Migration_and_Population_Distribution/#complete-pyq-bank-uppcs">UPPCS — Arunachal density, state population order, density types, rural→rural stream, push–pull</a></li>
+      <li><a href="../subjects/census%20and%20urbanisation/05_Migration_and_Population_Distribution/#complete-pyq-bank-ukpcs">UKPCS / standard — immigration/emigration, arithmetic density, reverse migration, sparse belts</a></li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/census%20and%20urbanisation/05_Migration_and_Population_Distribution/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="census-and-urbanisation-06-Urbanisation-and-Urban-Development-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="census-and-urbanisation-06-Urbanisation-and-Urban-Development-md" aria-label="Mark Census Topic 6 — Urbanisation and Urban Development done">
+    <span class="ct-title">Topic 6 — Urbanisation and Urban Development</span>
+    <span class="ct-pills">Written</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/census%20and%20urbanisation/06_Urbanisation_and_Urban_Development/#complete-pyq-bank-uppcs">UPPCS — acceleration stage, Jains urban, census town, Smart Cities, 74th, Kanpur 1971</a></li>
+      <li><a href="../subjects/census%20and%20urbanisation/06_Urbanisation_and_Urban_Development/#complete-pyq-bank-ukpcs">UKPCS / standard — statutory town, 12th Schedule, AMRUT, UA, Cantonment</a></li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/census%20and%20urbanisation/06_Urbanisation_and_Urban_Development/">Open chapter</a>
+  </div>
+</details>
+</div>
+<h3 class="ct-group-title">Medium Important</h3>
+<div class="ct-list ct-list--medium">
+<details class="ct-row" data-ct-id="census-and-urbanisation-07-World-Population-and-Demographic-Misc-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="census-and-urbanisation-07-World-Population-and-Demographic-Misc-md" aria-label="Mark Census Topic 7 — World Population and Demographic Misc done">
+    <span class="ct-title">Topic 7 — World Population and Demographic Misc</span>
+    <span class="ct-pills">Written</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/census%20and%20urbanisation/07_World_Population_and_Demographic_Misc/#complete-pyq-bank-uppcs">UPPCS — World Population Day 11 July, UNFPA World Population Report, wrong-pair IMF trap</a></li>
+      <li><a href="../subjects/census%20and%20urbanisation/07_World_Population_and_Demographic_Misc/#complete-pyq-bank-ukpcs">UKPCS / standard — WPP/DESA, UNFPA vs UNDP, density vs size, Ehrlich</a></li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/census%20and%20urbanisation/07_World_Population_and_Demographic_Misc/">Open chapter</a>
+  </div>
+</details>
+</div>
+<p class="ct-empty-note">All 7 Census &amp; Urbanisation topics written. Map: <a href="../subjects/census%20and%20urbanisation/01_Census_Urbanisation_Syllabus/">chapter map</a>.</p>
   </div>
 </details>
 
@@ -3503,10 +3808,386 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
   <summary>
     <span class="ct-subject-title">Science and Technology</span>
     <span class="ct-progress" data-ct-subject="science-and-technology"></span>
-    <span class="ct-subject-count">0 chapters</span>
+    <span class="ct-subject-count">26 chapters</span>
   </summary>
   <div class="ct-subject-body">
-<p class="ct-empty-note">National Science &amp; Technology topic files are not split yet. Revise from the <a href="../subjects/science%20and%20technology/00_Syllabus/">S&amp;T syllabus</a> and the <a href="../subjects/science%20and%20technology/uttarakhand/00_Syllabus/">Uttarakhand S&amp;T map</a>. UKPCS 2025 carried about <strong>27</strong> Science / Environment / Computer questions — treat this subject as <strong>highly important</strong> for UKPCS until chapters exist.</p>
+<h3 class="ct-group-title">Highly Important</h3>
+<div class="ct-list ct-list--high">
+<details class="ct-row" data-ct-id="science-01-Cell-Genetics-and-Biotechnology-md" data-group="high" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="science-01-Cell-Genetics-and-Biotechnology-md" aria-label="Mark Topic 1 — Living World, Cell, Genetics and Biotechnology done">
+    <span class="ct-title">Topic 1 — Living World, Cell, Genetics and Biotechnology</span>
+    <span class="ct-pills">10 Qs · UPPCS 5 · UKPCS 5</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/science%20and%20technology/01_Cell_Genetics_and_Biotechnology/#complete-pyq-bank-uppcs">UPPCS bank — DNA, mutation, nitrogen</a> — 5 questions (UPPCS 5)</li>
+      <li><a href="../subjects/science%20and%20technology/01_Cell_Genetics_and_Biotechnology/#complete-pyq-bank-ukpcs">UKPCS bank — Mendel, recombinant insulin, CRISPR</a> — 5 questions (UKPCS 5)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/01_Cell_Genetics_and_Biotechnology/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="science-02-Animal-Biology-and-Husbandry-md" data-group="high" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="science-02-Animal-Biology-and-Husbandry-md" aria-label="Mark Topic 2 — Animal Biology and Husbandry done">
+    <span class="ct-title">Topic 2 — Animal Biology and Husbandry</span>
+    <span class="ct-pills">12 Qs · UPPCS 11 · UKPCS 1</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/science%20and%20technology/02_Animal_Biology_and_Husbandry/#complete-pyq-bank-uppcs">UPPCS bank — earthworm, silk, mammals, vultures</a> — 11 questions (UPPCS 11)</li>
+      <li><a href="../subjects/science%20and%20technology/02_Animal_Biology_and_Husbandry/#complete-pyq-bank-ukpcs">UKPCS bank — cattle semen storage</a> — 1 question (UKPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/02_Animal_Biology_and_Husbandry/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="science-03-Nutrition-Diseases-and-Medicine-md" data-group="high" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="science-03-Nutrition-Diseases-and-Medicine-md" aria-label="Mark Topic 3 — Nutrition, Vitamins, Diseases and Medicine done">
+    <span class="ct-title">Topic 3 — Nutrition, Vitamins, Diseases and Medicine</span>
+    <span class="ct-pills">16 Qs · UPPCS 15 · UKPCS 1</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/science%20and%20technology/03_Nutrition_Diseases_and_Medicine/#complete-pyq-bank-uppcs">UPPCS bank — vitamins, Nipah, COVID-19 vaccines, insulin</a> — 15 questions (UPPCS 15)</li>
+      <li><a href="../subjects/science%20and%20technology/03_Nutrition_Diseases_and_Medicine/#complete-pyq-bank-ukpcs">UKPCS bank — scurvy</a> — 1 question (UKPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/03_Nutrition_Diseases_and_Medicine/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="science-04-Digestion-Respiration-and-Excretion-md" data-group="high" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="science-04-Digestion-Respiration-and-Excretion-md" aria-label="Mark Topic 4 — Digestion, Respiration and Excretion done">
+    <span class="ct-title">Topic 4 — Digestion, Respiration and Excretion</span>
+    <span class="ct-pills">3 Qs · UPPCS 2 · UKPCS 1</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/science%20and%20technology/04_Digestion_Respiration_and_Excretion/#complete-pyq-bank-uppcs">UPPCS bank — protein digestion, pepsin</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/science%20and%20technology/04_Digestion_Respiration_and_Excretion/#complete-pyq-bank-ukpcs">UKPCS bank — kidney transplant immunosuppressor</a> — 1 question (UKPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/04_Digestion_Respiration_and_Excretion/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="science-05-Blood-Heart-and-Circulation-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="science-05-Blood-Heart-and-Circulation-md" aria-label="Mark Topic 5 — Blood, Heart, Circulation and Lymph done">
+    <span class="ct-title">Topic 5 — Blood, Heart, Circulation and Lymph</span>
+    <span class="ct-pills">7 Qs · UPPCS 7 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/science%20and%20technology/05_Blood_Heart_and_Circulation/#complete-pyq-bank-uppcs">UPPCS bank — blood, pulmonary vein, chambers, heart transplant</a> — 7 questions (UPPCS 7)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/05_Blood_Heart_and_Circulation/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="science-06-Control-Reproduction-and-Support-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="science-06-Control-Reproduction-and-Support-md" aria-label="Mark Topic 6 — Nervous System, Hormones, Reproduction and Support done">
+    <span class="ct-title">Topic 6 — Nervous System, Hormones, Reproduction and Support</span>
+    <span class="ct-pills">2 Qs · UPPCS 2 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/science%20and%20technology/06_Control_Reproduction_and_Support/#complete-pyq-bank-uppcs">UPPCS bank — pancreas as mixed gland, calcium phosphate in bone</a> — 2 questions (UPPCS 2)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/06_Control_Reproduction_and_Support/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="science-07-Plants-Agriculture-and-Diseases-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="science-07-Plants-Agriculture-and-Diseases-md" aria-label="Mark Topic 7 — Plants, Agriculture and Plant Diseases done">
+    <span class="ct-title">Topic 7 — Plants, Agriculture and Plant Diseases</span>
+    <span class="ct-pills">10 Qs · UPPCS 10 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/science%20and%20technology/07_Plants_Agriculture_and_Diseases/#complete-pyq-bank-uppcs">UPPCS bank — xylem, diseases, clove, nitrogen, herbicide</a> — 10 questions (UPPCS 10)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/07_Plants_Agriculture_and_Diseases/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="science-08-Microbiology-Environment-and-Applied-md" data-group="high" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="science-08-Microbiology-Environment-and-Applied-md" aria-label="Mark Topic 8 — Microbiology, Environment and Applied Science done">
+    <span class="ct-title">Topic 8 — Microbiology, Environment and Applied Science</span>
+    <span class="ct-pills">6 Qs · UPPCS 4 · UKPCS 2</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/science%20and%20technology/08_Microbiology_Environment_and_Applied/#complete-pyq-bank-uppcs">UPPCS bank — Haemophilus, wool, DDT, pesticide</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/science%20and%20technology/08_Microbiology_Environment_and_Applied/#complete-pyq-bank-ukpcs">UKPCS bank — curd, penicillin</a> — 2 questions (UKPCS 2)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/08_Microbiology_Environment_and_Applied/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="science-09-Physics-Fundamentals-and-Measurement-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="science-09-Physics-Fundamentals-and-Measurement-md" aria-label="Mark Physics Topic 1 — Fundamentals, Measurement and Instruments done">
+    <span class="ct-title">Physics Topic 1 — Fundamentals, Measurement and Instruments</span>
+    <span class="ct-pills">3 Qs · UPPCS 3 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/science%20and%20technology/09_Physics_Fundamentals_and_Measurement/#complete-pyq-bank-uppcs">UPPCS bank — ampere, Fahrenheit conversion, becquerel vs curie</a> — 3 questions (UPPCS 3)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/09_Physics_Fundamentals_and_Measurement/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="science-10-Mechanics-and-Properties-of-Matter-md" data-group="high" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="science-10-Mechanics-and-Properties-of-Matter-md" aria-label="Mark Physics Topic 2 — Mechanics and Properties of Matter done">
+    <span class="ct-title">Physics Topic 2 — Mechanics and Properties of Matter</span>
+    <span class="ct-pills">1 Q · UPPCS 0 · UKPCS 1</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/science%20and%20technology/10_Mechanics_and_Properties_of_Matter/#complete-pyq-bank-ukpcs">UKPCS bank — liquid viscosity vs temperature</a> — 1 question (UKPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/10_Mechanics_and_Properties_of_Matter/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="science-11-Energy-Heat-and-Thermal-md" data-group="high" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="science-11-Energy-Heat-and-Thermal-md" aria-label="Mark Physics Topic 3 — Energy, Heat and Thermal Science done">
+    <span class="ct-title">Physics Topic 3 — Energy, Heat and Thermal Science</span>
+    <span class="ct-pills">8 Qs · UPPCS 7 · UKPCS 1</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/science%20and%20technology/11_Energy_Heat_and_Thermal/#complete-pyq-bank-uppcs">UPPCS bank — thermos, petroleum, nuclear vs solar, non-conventional</a> — 7 questions (UPPCS 7)</li>
+      <li><a href="../subjects/science%20and%20technology/11_Energy_Heat_and_Thermal/#complete-pyq-bank-ukpcs">UKPCS bank — expansion coefficients dimension</a> — 1 question (UKPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/11_Energy_Heat_and_Thermal/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="science-12-Light-Optics-and-Laser-md" data-group="high" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="science-12-Light-Optics-and-Laser-md" aria-label="Mark Physics Topic 4 — Light, Optics and Laser Technology done">
+    <span class="ct-title">Physics Topic 4 — Light, Optics and Laser Technology</span>
+    <span class="ct-pills">3 Qs · UPPCS 2 · UKPCS 1</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/science%20and%20technology/12_Light_Optics_and_Laser/#complete-pyq-bank-uppcs">UPPCS bank — optical fibre TIR, atmospheric dust diffusion</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/science%20and%20technology/12_Light_Optics_and_Laser/#complete-pyq-bank-ukpcs">UKPCS bank — speed of light vs refractive index</a> — 1 question (UKPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/12_Light_Optics_and_Laser/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="science-13-Sound-and-Wave-Motion-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="science-13-Sound-and-Wave-Motion-md" aria-label="Mark Physics Topic 5 — Sound and Wave Motion done">
+    <span class="ct-title">Physics Topic 5 — Sound and Wave Motion</span>
+    <span class="ct-pills">4 Qs · UPPCS 4 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/science%20and%20technology/13_Sound_and_Wave_Motion/#complete-pyq-bank-uppcs">UPPCS bank — speed in steel, 20 dB leaves, Moradabad, noise limits</a> — 4 questions (UPPCS 4)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/13_Sound_and_Wave_Motion/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="science-14-Electricity-and-Magnetism-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="science-14-Electricity-and-Magnetism-md" aria-label="Mark Physics Topic 6 — Electricity, Magnetism and Electromagnetism done">
+    <span class="ct-title">Physics Topic 6 — Electricity, Magnetism and Electromagnetism</span>
+    <span class="ct-pills">3 Qs · UPPCS 3 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/science%20and%20technology/14_Electricity_and_Magnetism/#complete-pyq-bank-uppcs">UPPCS bank — soap bubble, electric potential, fuse alloy A/R</a> — 3 questions (UPPCS 3)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/14_Electricity_and_Magnetism/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="science-15-Electronics-Semiconductors-and-Computers-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="science-15-Electronics-Semiconductors-and-Computers-md" aria-label="Mark Physics Topic 7 — Electronics, Semiconductors and Computers done">
+    <span class="ct-title">Physics Topic 7 — Electronics, Semiconductors and Computers</span>
+    <span class="ct-pills">3 Qs · UPPCS 3 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/science%20and%20technology/15_Electronics_Semiconductors_and_Computers/#complete-pyq-bank-uppcs">UPPCS bank — silicon semiconductor, input devices, ROM non-volatile</a> — 3 questions (UPPCS 3)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/15_Electronics_Semiconductors_and_Computers/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="science-16-Nuclear-and-Atomic-Physics-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="science-16-Nuclear-and-Atomic-Physics-md" aria-label="Mark Physics Topic 8 — Nuclear and Atomic Physics done">
+    <span class="ct-title">Physics Topic 8 — Nuclear and Atomic Physics</span>
+    <span class="ct-pills">4 Qs · UPPCS 4 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/science%20and%20technology/16_Nuclear_and_Atomic_Physics/#complete-pyq-bank-uppcs">UPPCS bank — neutrino, radioactivity vs H-bomb, isotopes, plant–state match</a> — 4 questions (UPPCS 4)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/16_Nuclear_and_Atomic_Physics/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="science-17-Scientists-Discoveries-and-Applications-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="science-17-Scientists-Discoveries-and-Applications-md" aria-label="Mark Physics Topic 9 — Scientists, Discoveries and Applications done">
+    <span class="ct-title">Physics Topic 9 — Scientists, Discoveries and Applications</span>
+    <span class="ct-pills">3 Qs · UPPCS 3 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/science%20and%20technology/17_Scientists_Discoveries_and_Applications/#complete-pyq-bank-uppcs">UPPCS bank — Roentgen X-ray, Einstein photoelectric Nobel, Hawking book</a> — 3 questions (UPPCS 3)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/17_Scientists_Discoveries_and_Applications/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="science-18-Atomic-Structure-and-Periodic-Table-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="science-18-Atomic-Structure-and-Periodic-Table-md" aria-label="Mark Chemistry Topic 1 — Atomic Structure and Periodic Table done">
+    <span class="ct-title">Chemistry Topic 1 — Atomic Structure and Periodic Table</span>
+    <span class="ct-pills">83 Qs · UPPCS 15 · UKPCS 1 · Other 41 · Drill 26</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/science%20and%20technology/18_Atomic_Structure_and_Periodic_Table/#complete-pyq-bank-uppcs">UPPCS bank — noble gas Actinium, isotopes, body Cu–Fe–Na–K order</a> — 3 questions (UPPCS 3)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/18_Atomic_Structure_and_Periodic_Table/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="science-19-Matter-Solutions-and-Purification-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="science-19-Matter-Solutions-and-Purification-md" aria-label="Mark Chemistry Topic 2 — Matter, Solutions and Purification done">
+    <span class="ct-title">Chemistry Topic 2 — Matter, Solutions and Purification</span>
+    <span class="ct-pills">64 Qs · UPPCS 12 · UKPCS 0 · Other 26 · Drill 26</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/science%20and%20technology/19_Matter_Solutions_and_Purification/#complete-pyq-bank-uppcs">UPPCS bank — sublimation, salt-water homogeneous A/R, milk emulsion</a> — 3 questions (UPPCS 3)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/19_Matter_Solutions_and_Purification/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="science-20-Metals-and-Chemical-Reactions-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="science-20-Metals-and-Chemical-Reactions-md" aria-label="Mark Chemistry Topic 3 — Metals and Chemical Reactions done">
+    <span class="ct-title">Chemistry Topic 3 — Metals and Chemical Reactions</span>
+    <span class="ct-pills">143 Qs · UPPCS 41 · UKPCS 7 · Other 69 · Drill 26</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/science%20and%20technology/20_Metals_and_Chemical_Reactions/#complete-pyq-bank-uppcs">UPPCS bank — Na/Hg/Ag/Pb properties, graphite stability</a> — 2 questions (UPPCS 2)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/20_Metals_and_Chemical_Reactions/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="science-21-Acids-Bases-Salts-and-Sucrose-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="science-21-Acids-Bases-Salts-and-Sucrose-md" aria-label="Mark Chemistry Topic 4 — Acids, Bases, Salts and Sucrose done">
+    <span class="ct-title">Chemistry Topic 4 — Acids, Bases, Salts and Sucrose</span>
+    <span class="ct-pills">6 Qs · UPPCS 6 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/science%20and%20technology/21_Acids_Bases_Salts_and_Sucrose/#complete-pyq-bank-uppcs">UPPCS bank — litmus, baking soda, pH, acid–source pairs</a> — 6 questions (UPPCS 6)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/21_Acids_Bases_Salts_and_Sucrose/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="science-22-Carbon-Organic-and-Polymers-md" data-group="high" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="science-22-Carbon-Organic-and-Polymers-md" aria-label="Mark Chemistry Topic 5 — Carbon, Organic Chemistry and Polymers done">
+    <span class="ct-title">Chemistry Topic 5 — Carbon, Organic Chemistry and Polymers</span>
+    <span class="ct-pills">67 Qs · UPPCS 25 · UKPCS 1 · Other 15 · Drill 26</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/science%20and%20technology/22_Carbon_Organic_and_Polymers/#complete-pyq-bank-uppcs">UPPCS bank — thermoplastic, fibroin, rayon, Kevlar, graphene chronology</a> — 7 questions (UPPCS 7)</li>
+      <li><a href="../subjects/science%20and%20technology/22_Carbon_Organic_and_Polymers/#complete-pyq-bank-ukpcs">UKPCS bank — Teflon / PTFE</a> — 1 question (UKPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/22_Carbon_Organic_and_Polymers/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="science-23-Gases-Fuels-and-Energy-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="science-23-Gases-Fuels-and-Energy-md" aria-label="Mark Chemistry Topic 6 — Gases, Fuels and Energy done">
+    <span class="ct-title">Chemistry Topic 6 — Gases, Fuels and Energy</span>
+    <span class="ct-pills">95 Qs · UPPCS 27 · UKPCS 5 · Other 37 · Drill 26</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/science%20and%20technology/23_Gases_Fuels_and_Energy/#complete-pyq-bank-uppcs">UPPCS bank — LPG, CNG, natural gas, biogas, petroleum / biomass</a> — 7 questions (UPPCS 7)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/23_Gases_Fuels_and_Energy/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="science-24-Chemistry-Daily-Life-and-Agriculture-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="science-24-Chemistry-Daily-Life-and-Agriculture-md" aria-label="Mark Chemistry Topic 7 — Chemistry in Daily Life, Industry and Agriculture done">
+    <span class="ct-title">Chemistry Topic 7 — Chemistry in Daily Life, Industry and Agriculture</span>
+    <span class="ct-pills">5 Qs · UPPCS 5 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/science%20and%20technology/24_Chemistry_Daily_Life_and_Agriculture/#complete-pyq-bank-uppcs">UPPCS bank — AgBr, herbicide, Crookes glass, DDT, pesticide</a> — 5 questions (UPPCS 5)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/24_Chemistry_Daily_Life_and_Agriculture/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="science-25-Radiation-Nuclear-and-Environment-Chem-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="science-25-Radiation-Nuclear-and-Environment-Chem-md" aria-label="Mark Chemistry Topic 8 — Radiation, Nuclear Chemistry, Explosives and Environmental Chemistry done">
+    <span class="ct-title">Chemistry Topic 8 — Radiation, Nuclear Chemistry, Explosives and Environmental Chemistry</span>
+    <span class="ct-pills">5 Qs · UPPCS 5 · UKPCS 0</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/science%20and%20technology/25_Radiation_Nuclear_and_Environment_Chem/#complete-pyq-bank-uppcs">UPPCS bank — radioactivity, acid rain, ozone, argon GHG, photochemical smog</a> — 5 questions (UPPCS 5)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/25_Radiation_Nuclear_and_Environment_Chem/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="science-26-Chemistry-Discoveries-and-Miscellaneous-md" data-group="high" data-uk="1">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="science-26-Chemistry-Discoveries-and-Miscellaneous-md" aria-label="Mark Chemistry Topic 9 — Discoveries, Discoverers and Miscellaneous Chemistry done">
+    <span class="ct-title">Chemistry Topic 9 — Discoveries, Discoverers and Miscellaneous Chemistry</span>
+    <span class="ct-pills">6 Qs · UPPCS 4 · UKPCS 2</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/science%20and%20technology/26_Chemistry_Discoveries_and_Miscellaneous/#complete-pyq-bank-uppcs">UPPCS bank — blue vitriol match, laughing gas, actinium, gypsum</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/science%20and%20technology/26_Chemistry_Discoveries_and_Miscellaneous/#complete-pyq-bank-ukpcs">UKPCS bank — heavy water moderator, 2021 Chemistry Nobel</a> — 2 questions (UKPCS 2)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/science%20and%20technology/26_Chemistry_Discoveries_and_Miscellaneous/">Open chapter</a>
+  </div>
+</details>
+</div>
+<p class="ct-empty-note">Part 1 Biology, Part 2 Physics and Part 3 Chemistry are fully written. Wider Unit 5 (IT, space, organisations) still opens from the <a href="../subjects/science%20and%20technology/00_Syllabus/">S&amp;T syllabus</a>.</p>
   </div>
 </details>
 

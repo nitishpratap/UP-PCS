@@ -21,4 +21,4 @@
 
 ## Status
 
-Topic teaching chapters not added yet — structure only.
+**12 national Economy chapters** are mapped under the parent [Economics syllabus](../01_Economics_Syllabus.md). UK-only teaching chapters are not added yet — structure only. Do not merge UK budgets / tourism / herbs into national Topics 1–12.

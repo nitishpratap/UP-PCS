@@ -2,4 +2,17 @@ title: Economy
 nav:
   - Overview: index.md
   - "Economy (UPPCS + UKPCS Knowledge Base)": 00_Syllabus.md
+  - "12 master chapters (chapter map)": 01_Economics_Syllabus.md
+  - "Topic 1 — Indian Economy: Basics, Evolution and Planning": 01_Indian_Economy_Basics_Planning.md
+  - "Topic 2 — Public Finance, Budget, Taxation and Fiscal Policy": 02_Public_Finance_Budget_Taxation.md
+  - "Topic 3 — Money, Banking, RBI and Financial System": 03_Money_Banking_RBI_Financial_System.md
+  - "Topic 4 — Inflation, Prices, Savings, Investment and Markets": 04_Inflation_Prices_Savings_Investment_Markets.md
+  - "Topic 5 — Agriculture and Indian Agricultural Economy": 05_Agriculture_Indian_Agricultural_Economy.md
+  - "Topic 6 — Agricultural Policies, Schemes, MSP and Revolutions": 06_Agricultural_Policies_Schemes_MSP_Revolutions.md
+  - "Topic 7 — Industry, MSME and Infrastructure": 07_Industry_MSME_Infrastructure.md
+  - "Topic 8 — Employment, Poverty, Human Capital and Social Economy": 08_Employment_Poverty_Human_Capital.md
+  - "Topic 9 — External Sector, Foreign Trade and Global Economy": 09_External_Sector_Foreign_Trade.md
+  - "Topic 10 — International Institutions, Groupings and Summits": 10_International_Institutions_Groupings.md
+  - "Topic 11 — Services, Cooperatives, Companies and Regulators": 11_Services_Cooperatives_Regulators.md
+  - "Topic 12 — Economic Laws, Reports, Rankings and Misc": 12_Economic_Laws_Reports_Rankings_Misc.md
   - Uttarakhand: uttarakhand

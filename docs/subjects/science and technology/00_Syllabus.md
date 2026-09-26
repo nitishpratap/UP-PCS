@@ -1,7 +1,10 @@
 # Science & Technology (UPPCS + UKPCS Knowledge Base)
 
 **Desk:** [UKPCS Syllabus — Unit 5](../../ukpcs/00_Syllabus.md) 
-**Ecology depth:** [Environment & Ecology](../environments%20&%20ecology/00_Syllabus.md)
+**Ecology depth:** [Environment & Ecology](../environments%20&%20ecology/00_Syllabus.md) 
+**Part 1 — Biology (8 chapters written):** [Biology syllabus](01_Biology_Syllabus.md) 
+**Part 2 — Physics (all 9 topics written):** [Physics syllabus](02_Physics_Syllabus.md) 
+**Part 3 — Chemistry (all 9 topics written):** [Chemistry syllabus](03_Chemistry_Syllabus.md)
 
 ## Core heads (national)
 

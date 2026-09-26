@@ -2,4 +2,33 @@ title: Science and Technology
 nav:
   - Overview: index.md
   - "Science & Technology (UPPCS + UKPCS Knowledge Base)": 00_Syllabus.md
+  - "Part 1 — Biology (chapter map)": 01_Biology_Syllabus.md
+  - "Part 2 — Physics (chapter map)": 02_Physics_Syllabus.md
+  - "Part 3 — Chemistry (chapter map)": 03_Chemistry_Syllabus.md
+  - "Topic 1 — Living World, Cell, Genetics and Biotechnology": 01_Cell_Genetics_and_Biotechnology.md
+  - "Topic 2 — Animal Biology and Husbandry": 02_Animal_Biology_and_Husbandry.md
+  - "Topic 3 — Nutrition, Vitamins, Diseases and Medicine": 03_Nutrition_Diseases_and_Medicine.md
+  - "Topic 4 — Digestion, Respiration and Excretion": 04_Digestion_Respiration_and_Excretion.md
+  - "Topic 5 — Blood, Heart, Circulation and Lymph": 05_Blood_Heart_and_Circulation.md
+  - "Topic 6 — Nervous System, Hormones, Reproduction and Support": 06_Control_Reproduction_and_Support.md
+  - "Topic 7 — Plants, Agriculture and Plant Diseases": 07_Plants_Agriculture_and_Diseases.md
+  - "Topic 8 — Microbiology, Environment and Applied Science": 08_Microbiology_Environment_and_Applied.md
+  - "Physics Topic 1 — Fundamentals, Measurement and Instruments": 09_Physics_Fundamentals_and_Measurement.md
+  - "Physics Topic 2 — Mechanics and Properties of Matter": 10_Mechanics_and_Properties_of_Matter.md
+  - "Physics Topic 3 — Energy, Heat and Thermal Science": 11_Energy_Heat_and_Thermal.md
+  - "Physics Topic 4 — Light, Optics and Laser Technology": 12_Light_Optics_and_Laser.md
+  - "Physics Topic 5 — Sound and Wave Motion": 13_Sound_and_Wave_Motion.md
+  - "Physics Topic 6 — Electricity, Magnetism and Electromagnetism": 14_Electricity_and_Magnetism.md
+  - "Physics Topic 7 — Electronics, Semiconductors and Computers": 15_Electronics_Semiconductors_and_Computers.md
+  - "Physics Topic 8 — Nuclear and Atomic Physics": 16_Nuclear_and_Atomic_Physics.md
+  - "Physics Topic 9 — Scientists, Discoveries, Space, Defence & Applied Science": 17_Scientists_Discoveries_and_Applications.md
+  - "Chemistry Topic 1 — Atomic Structure and Periodic Table": 18_Atomic_Structure_and_Periodic_Table.md
+  - "Chemistry Topic 2 — Matter, Solutions and Purification": 19_Matter_Solutions_and_Purification.md
+  - "Chemistry Topic 3 — Metals and Chemical Reactions": 20_Metals_and_Chemical_Reactions.md
+  - "Chemistry Topic 4 — Acids, Bases, Salts and Sucrose": 21_Acids_Bases_Salts_and_Sucrose.md
+  - "Chemistry Topic 5 — Carbon, Organic Chemistry and Polymers": 22_Carbon_Organic_and_Polymers.md
+  - "Chemistry Topic 6 — Gases, Fuels and Energy": 23_Gases_Fuels_and_Energy.md
+  - "Chemistry Topic 7 — Chemistry in Daily Life, Industry and Agriculture": 24_Chemistry_Daily_Life_and_Agriculture.md
+  - "Chemistry Topic 8 — Radiation, Nuclear Chemistry, Explosives and Environmental Chemistry": 25_Radiation_Nuclear_and_Environment_Chem.md
+  - "Chemistry Topic 9 — Discoveries, Discoverers and Miscellaneous Chemistry": 26_Chemistry_Discoveries_and_Miscellaneous.md
   - Uttarakhand: uttarakhand

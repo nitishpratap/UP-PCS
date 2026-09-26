@@ -35,9 +35,12 @@ For UPPCS 2018–2025 question weight and study order, open **[Prelims Analysis]
 <span>Prelims analysis · syllabus · topics · UP Special + Uttarakhand</span>](polity/00_Prelims_Analysis.md){.study-card }
 
 [**Economy**
-<span>Scaffold · UKPCS Unit 4 · Uttarakhand economy</span>](economy/index.md){.study-card }
+<span>12 chapters written · UKPCS Unit 4 · Uttarakhand</span>](economy/index.md){.study-card }
+
+[**Census and Urbanisation**
+<span>7 topics written · जनगणना · demography · नगरीकरण</span>](census and urbanisation/index.md){.study-card }
 
 [**Science and Technology**
-<span>Scaffold · UKPCS Unit 5 · Uttarakhand resources</span>](science and technology/index.md){.study-card }
+<span>Biology + Physics + Chemistry written · UKPCS Unit 5</span>](science and technology/index.md){.study-card }
 
 </div>

@@ -1,0 +1,12 @@
+title: Census and Urbanisation
+nav:
+  - Overview: index.md
+  - "Census and Urbanisation (UPPCS + UKPCS Knowledge Base)": 00_Syllabus.md
+  - "7 master chapters (chapter map)": 01_Census_Urbanisation_Syllabus.md
+  - "Topic 1 — Census and Population Data": 01_Census_and_Population_Data.md
+  - "Topic 2 — Population Growth, Demographic Transition and Theories": 02_Population_Growth_Demographic_Transition_Theories.md
+  - "Topic 3 — Population Composition and Demographic Characteristics": 03_Population_Composition_Demographic_Characteristics.md
+  - "Topic 4 — Fertility, Mortality, Health and Population Policies": 04_Fertility_Mortality_Health_Population_Policies.md
+  - "Topic 5 — Migration and Population Distribution": 05_Migration_and_Population_Distribution.md
+  - "Topic 6 — Urbanisation and Urban Development": 06_Urbanisation_and_Urban_Development.md
+  - "Topic 7 — World Population and Demographic Misc": 07_World_Population_and_Demographic_Misc.md
