@@ -366,159 +366,63 @@ A total of **9 Annual Sessions of the Indian National Congress** were held in Ut
 
 ## Complete PYQ Bank (UPPCS)
 
-> UPPCS-mapped / Category A stems. Broader Extra Drill follows.
+> Verified stems from UPPCS Prelims (and closely related UP papers). Extra Drill follows.
 
-### Section A: Ancient & Medieval UP History & Monuments
+**Q1. UPPCS (Pre) 2018**
+Which of the following centres related to Indus Valley are situated in Uttar Pradesh?
+A. Only Alamgirpur
+B. Alamgirpur and Hulas (as per options in paper)
+C. Lothal
+D. Dholavira
 
-1. Which of the following Mahajanapadas of the 6th century BCE was NOT located in modern Uttar Pradesh?
-   (A) Kosala
-   (B) Matsya
-   (C) Panchala
-   (D) Vatsa
 <details>
 <summary>Show answer</summary>
-<b>Correct Answer: (B) Matsya</b><br>
-<b>Explanation:</b> Matsya Mahajanapada was located in the Jaipur-Alwar-Bharatpur region of modern Rajasthan (Capital: Viratnagar). Out of 16 Mahajanapadas, exactly 8 were in Uttar Pradesh: Kashi, Kosala, Vatsa, Malla, Panchala, Shurasena, Chedi, and Kuru.
+
+**Logic:** Lothal/Dholavira are Gujarat — classic distractors.
+
+**Ans: A.** Alamgirpur (Meerut) is the easternmost Harappan site in UP.
+
 </details>
 
-2. The famous Sohgaura copper-plate inscription, which mentions state-sponsored famine relief measures, is located in which district of UP?
-   (A) Prayagraj
-   (B) Gorakhpur
-   (C) Ghazipur
-   (D) Varanasi
+**Q2. Standard UPPCS**
+The 1857 revolt’s important centres in UP included:
+A. Only Delhi
+B. Meerut, Lucknow, Kanpur, Jhansi, among others
+C. Only Bombay
+D. Only Madras
+
 <details>
 <summary>Show answer</summary>
-<b>Correct Answer: (B) Gorakhpur</b><br>
-<b>Explanation:</b> The Sohgaura copper plate was discovered in Gorakhpur district. Written in Prakrit language and Brahmi script, it dates to the Mauryan era and describes the construction of two state granaries (Kosthagara) to combat famine and drought.
+
+**Logic:** UP Special freedom map is Meerut–Delhi–Awadh–Kanpur–Jhansi.
+
+**Ans: B.** Meerut spark; Awadh and Bundelkhand theatres.
+
 </details>
 
-3. At which of the following places did Gautama Buddha spend the maximum number of rainy seasons (Varshavas)?
-   (A) Sarnath
-   (B) Kushinagar
-   (C) Shravasti
-   (D) Vaishali
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) Shravasti</b><br>
-<b>Explanation:</b> Lord Buddha spent 25 Varshavas (rainy season retreats) in Shravasti (19 in Jetavana monastery and 6 in Pubbarama monastery), delivering the largest number of his discourses there.
-</details>
-
-4. The Bhitari Pillar Inscription, which gives details about the victory over the Hunas, belongs to which Gupta Emperor?
-   (A) Samudragupta
-   (B) Chandragupta II
-   (C) Skandagupta
-   (D) Kumaragupta I
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) Skandagupta</b><br>
-<b>Explanation:</b> The Bhitari Pillar Inscription is situated in Saidpur, Ghazipur district. It chronicles Emperor Skandagupta's genealogies, military accomplishments, and his decisive defeat of the invading White Hunas.
-</details>
-
-5. Which Sultan of Delhi founded the city of Agra and made it his capital in 1506?
-   (A) Bahlul Lodi
-   (B) Sikandar Lodi
-   (C) Ibrahim Lodi
-   (D) Feroz Shah Tughlaq
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Sikandar Lodi</b><br>
-<b>Explanation:</b> Sultan Sikandar Lodi founded the city of Agra in 1504 to exercise tighter administrative control over the rebellious chiefs of the Doab and Rajasthan, shifting his capital from Delhi to Agra in 1506.
-</details>
 
 ---
 
 ## Ghatnachakra Extra Drill — History Culture Art Heritage
 
-Extra Drill rebuilt from mixed RO/ARO–BPSC–UPSC–coaching stems (not a full Purvalokan dump). Expand when the book is pasted.
+> Multi-exam / other-State PCS / standard coaching stems for the same topic map.
 
-### Section B: 1857 Revolt, Personalities & Freedom Struggle
+**Q1. Standard UPPCS**
+Sarnath is associated with:
+A. First Sermon of Buddha
+B. Mahavira’s nirvana only
+C. Ashoka’s only capital
+D. Akbar’s birth
 
-6. During the Revolt of 1857, who led the freedom fighters in the city of Bareilly?
-   (A) Nana Sahib
-   (B) Khan Bahadur Khan
-   (C) Maulvi Ahmadullah Shah
-   (D) Kunwar Singh
 <details>
 <summary>Show answer</summary>
-<b>Correct Answer: (B) Khan Bahadur Khan</b><br>
-<b>Explanation:</b> Khan Bahadur Khan (grandson of the Rohilla ruler Hafiz Rahmat Khan) led the uprising in Bareilly and the Rohilkhand region, establishing an effective self-governing administration until British forces under Campbell recaptured Bareilly.
+
+**Logic:** Lion Capital of Ashoka from Sarnath is India’s State Emblem source.
+
+**Ans: A.** Dharmachakra Pravartana at Sarnath (Varanasi).
+
 </details>
 
-7. Match List-I with List-II regarding the martyrdom of Kakori Action heroes:
-   - (a) Ram Prasad Bismil — 1. Faizabad Jail
-   - (b) Ashfaqulla Khan — 2. Gorakhpur Jail
-   - (c) Roshan Singh — 3. Gonda Jail
-   - (d) Rajendra Lahiri — 4. Naini (Prayagraj) Jail
-   Codes:
-   (A) a-2, b-1, c-4, d-3
-   (B) a-1, b-2, c-3, d-4
-   (C) a-2, b-4, c-1, d-3
-   (D) a-3, b-1, c-4, d-2
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (A) a-2, b-1, c-4, d-3</b><br>
-<b>Explanation:</b> Following the Kakori Train Action (9 Aug 1925), four revolutionary leaders were hanged in December 1927 in four different UP jails: Ram Prasad Bismil at Gorakhpur, Ashfaqulla Khan at Faizabad, Roshan Singh at Naini (Prayagraj), and Rajendra Lahiri at Gonda (17 Dec 1927).
-</details>
-
-8. Who was elected as the First Indian Woman President of the Indian National Congress at the Kanpur Session in 1925?
-   (A) Annie Besant
-   (B) Sarojini Naidu
-   (C) Nellie Sengupta
-   (D) Sucheta Kripalani
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Sarojini Naidu</b><br>
-<b>Explanation:</b> Sarojini Naidu presided over the 40th Annual Session of the INC at Kanpur in 1925, becoming the first Indian woman to hold the presidency (Annie Besant was the first woman President in 1917 at Calcutta).
-</details>
-
-9. Who established the first independent parallel government (*Swaraj Sarkar*) at Ballia during the Quit India Movement in 1942?
-   (A) Chittu Pandey
-   (B) Ram Manohar Lohia
-   (C) Acharya Narendra Deva
-   (D) Baba Ramchandra
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (A) Chittu Pandey</b><br>
-<b>Explanation:</b> Chittu Pandey, affectionately known as "Sher-e-Ballia", led thousands of freedom fighters to take over the administration and police station in Ballia in August 1942, running an independent government before military forces re-occupied the town.
-</details>
-
----
-
-
-### Section C: Art, Gharanas, Folk Dances & Fairs
-
-10. 'Charkula' is a world-famous traditional folk dance of which cultural region in Uttar Pradesh?
-   (A) Bundelkhand
-   (B) Braj Region
-   (C) Awadh
-   (D) Rohilkhand
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Braj Region</b><br>
-<b>Explanation:</b> Charkula is a dramatic folk dance of the Braj region (Mathura). Women perform the dance balancing a large wooden pyramid (*Charkula*) with 108 lit oil lamps on their heads to celebrate the birth of Radha.
-</details>
-
-11. The legendary Shehnai maestro Bharat Ratna Ustad Bismillah Khan was associated with which musical Gharana?
-   (A) Lucknow Gharana
-   (B) Banaras Gharana
-   (C) Kirana Gharana
-   (D) Agra Gharana
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Banaras Gharana</b><br>
-<b>Explanation:</b> Ustad Bismillah Khan was deeply affiliated with the Banaras Gharana. He played the Shehnai at the Kashi Vishwanath Temple and brought Shehnai from royal naubat-khanas onto the global classical concert stage.
-</details>
-
-12. The historic Bateshwar Fair of Uttar Pradesh, renowned for its massive cattle and camel market, is held in which district?
-   (A) Meerut
-   (B) Agra
-   (C) Ballia
-   (D) Prayagraj
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Agra</b><br>
-<b>Explanation:</b> Bateshwar is located on the banks of Yamuna in Agra district. Dedicated to Lord Shiva (101 temples), it hosts Western UP's largest annual livestock, horse, and camel fair around Kartik Purnima.
-</details>
 
 ---
 

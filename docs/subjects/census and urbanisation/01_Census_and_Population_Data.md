@@ -213,238 +213,260 @@ UP district extremes also → [UP Special Topic 6](../up%20special/06_Society_Po
 
 ## Complete PYQ Bank (UPPCS)
 
-> UPPCS-mapped / Category A stems. Broader Extra Drill follows.
+> Verified stems from UPPCS Prelims (and closely related UP papers). Extra Drill follows.
 
-### Category A: Census History, Laws & Institutional Machinery
+**Q1. UPPCS (Pre) 2023**
+When was the Census work done for the first time in India?
+A. 1850
+B. 1861
+C. 1871
+D. 1881
 
-1. In the Indian Constitution, the subject 'Census' is listed in which list of the Seventh Schedule?
-A. Union List  
-B. State List  
-C. Concurrent List  
-D. Residuary Powers  
 <details>
 <summary>Show answer</summary>
 
-**Ans: A. Union List**  
-**Logic:** Census is enumerated under Entry 69 of the Union List (List I) of the Seventh Schedule to the Constitution of India, making it an exclusive Union subject.
+**Logic:** Official key marks 1871 for the first (non-synchronous) census of 1871–72 under Lord Mayo. 1881 is the first synchronous decennial census under Lord Ripon — the classic trap.
+
+**Ans: C.** 1871.
+
 </details>
 
-2. The first synchronous decennial population census in India was conducted in the year:
-A. 1872  
-B. 1881  
-C. 1891  
-D. 1901  
+**Q2. UPPCS (Pre) 2024**
+Write in descending order the following States on the basis of their population as per Census, 2011:
+1. Bihar
+2. Andhra Pradesh
+3. Uttar Pradesh
+4. West Bengal
+Choose the correct answer:
+A. 3, 4, 1, 2
+B. 1, 3, 2, 4
+C. 1, 3, 4, 2
+D. 3, 1, 4, 2
+
 <details>
 <summary>Show answer</summary>
 
-**Ans: B. 1881**  
-**Logic:** The first synchronous decennial census covering the entire country was conducted in 1881 under Viceroy Lord Ripon. The 1872 census under Lord Mayo was non-synchronous.
+**Logic:** Census 2011 population order: Uttar Pradesh (~19.98 Cr), Bihar (~10.41 Cr), West Bengal (~9.13 Cr), Andhra Pradesh (~8.47 Cr, undivided).
+
+**Ans: D.** 3, 1, 4, 2 — UP > Bihar > West Bengal > Andhra Pradesh.
+
 </details>
 
-3. Which year in the demographic history of India is famously known as the "Year of the Great Divide"?
-A. 1911  
-B. 1921  
-C. 1931  
-D. 1951  
+**Q3. UPPCS (Pre) 2021**
+As per the Census, 2011 estimates, which one of the following is the most populous State in India?
+A. Bihar
+B. Madhya Pradesh
+C. Maharashtra
+D. Uttar Pradesh
+
 <details>
 <summary>Show answer</summary>
 
-**Ans: B. 1921**  
-**Logic:** 1921 is known as the "Great Divide" because the 1911–1921 decade was the only period in India's census history with negative population growth (-0.31%), after which population grew continuously.
+**Logic:** UP remained India’s most populous State in Census 2011 (~19.98 crore), ahead of Maharashtra and Bihar.
+
+**Ans: D.** Uttar Pradesh.
+
 </details>
 
-4. The Census Act, 1948 was enacted under the guidance of which eminent national leader?
-A. Jawaharlal Nehru  
-B. Dr. B. R. Ambedkar  
-C. Sardar Vallabhbhai Patel  
-D. C. Rajagopalachari  
+**Q4. UPPCS (Pre) 2021**
+Which of the following State has the lowest density of population as per the Census of 2011?
+A. Himachal Pradesh
+B. Arunachal Pradesh
+C. West Bengal
+D. Mizoram
+
 <details>
 <summary>Show answer</summary>
 
-**Ans: C. Sardar Vallabhbhai Patel**  
-**Logic:** As India's first Home Minister, Sardar Vallabhbhai Patel piloted the Census Bill, 1948 in the Constituent Assembly to establish a permanent statutory framework for decennial census operations.
+**Logic:** Arunachal Pradesh had the lowest State density (~17 persons/km²). Bihar had the highest State density.
+
+**Ans: B.** Arunachal Pradesh.
+
 </details>
 
-5. Census 2011 was which census of India since 1872 and which census after Independence?
-A. 14th Census and 6th after Independence  
-B. 15th Census and 7th after Independence  
-C. 16th Census and 8th after Independence  
-D. 15th Census and 8th after Independence  
+**Q5. UPPCS (Pre) 2018**
+According to 2011 census, which of the following states has the largest rural population?
+A. Madhya Pradesh
+B. Maharashtra
+C. Punjab
+D. Uttar Pradesh
+
 <details>
 <summary>Show answer</summary>
 
-**Ans: B. 15th Census and 7th after Independence**  
-**Logic:** Census 2011 was the 15th National Census of India starting from 1872, and the 7th Census conducted after Independence (1951, 1961, 1971, 1981, 1991, 2001, 2011).
+**Logic:** Absolute rural population is highest in UP even though some States have a higher rural percentage.
+
+**Ans: D.** Uttar Pradesh.
+
 </details>
+
+**Q6. UPPCS (Pre) 2019**
+Which of the following is NOT correctly matched?
+A. Public Health and Sanitation — State List
+B. Census — Union List
+C. Allocation of seats in the Council of States — Second Schedule
+D. Anti-Defection — Tenth Schedule
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Census is correctly Entry 69 Union List. Second Schedule deals with emoluments of high offices; Fourth Schedule allocates Rajya Sabha seats.
+
+**Ans: C.** Allocation of Rajya Sabha seats is in the Fourth Schedule, not the Second.
+
+</details>
+
+**Q7. UPPCS (Pre) 2018**
+World Population Day is observed on
+A. 11 July
+B. 8 May
+C. 5 June
+D. 16 October
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** World Population Day (UN) is 11 July; 5 June is World Environment Day; 16 October is World Food Day.
+
+**Ans: A.** 11 July.
+
+</details>
+
 
 ---
 
 ## Ghatnachakra Extra Drill — Census and Population Data
 
-Extra Drill rebuilt from mixed RO/ARO–BPSC–UPSC–coaching stems (not a full Purvalokan dump). Expand when the book is pasted.
+> Multi-exam / other-State PCS / standard coaching stems for the same topic map.
 
-### Category B: Census 2011 National Indicators & State Rankings
+**Q1. MPPSC (Pre) 2021**
+According to Census 2011, what was the level of urbanisation (in per cent) in India’s total population of about 1.21 billion?
+A. 33.15%
+B. 32.15%
+C. 30.15%
+D. 31.15%
 
-6. As per Census 2011, what was the decadal population growth rate of India during 2001–2011?
-A. 21.54%  
-B. 17.70%  
-C. 19.20%  
-D. 16.40%  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B. 17.70%**  
-**Logic:** India's population decadal growth rate during 2001–2011 was 17.70% (Rural: 12.30%, Urban: 31.80%), dropping from 21.54% recorded during 1991–2001.
+**Logic:** Urban share rose from ~27.8% (2001) to ~31.16% (2011). Absolute urban increase exceeded rural increase for the first time.
+
+**Ans: D.** About 31.15% (commonly cited as 31.16%).
+
 </details>
 
-7. According to Census 2011, what is the overall population density of India?
-A. 325 persons / sq km  
-B. 382 persons / sq km  
-C. 412 persons / sq km  
-D. 829 persons / sq km  
+**Q2. BPSC-type / Standard State PCS**
+As per Census 2011, which State has the highest population density among Indian States?
+A. West Bengal
+B. Kerala
+C. Bihar
+D. Uttar Pradesh
+
 <details>
 <summary>Show answer</summary>
 
-**Ans: B. 382 persons / sq km**  
-**Logic:** India's population density in Census 2011 was 382 persons per square kilometer, up from 325 in Census 2001.
+**Logic:** Bihar ranks 1st among States in density; West Bengal and Kerala follow; UP is lower than these three.
+
+**Ans: C.** Bihar (~1,102–1,106 persons/km²).
+
 </details>
 
-8. Which Indian State recorded a negative decadal population growth rate in Census 2011?
-A. Kerala  
-B. Goa  
-C. Nagaland  
-D. Sikkim  
+**Q3. Standard multi-PSC**
+According to Census 2011, India’s total population was approximately:
+A. 100 crore
+B. 110 crore
+C. 121 crore
+D. 130 crore
+
 <details>
 <summary>Show answer</summary>
 
-**Ans: C. Nagaland**  
-**Logic:** Nagaland was the only State to record negative population growth of -0.58% during the 2001–2011 decade.
+**Logic:** Provisional/final totals centre on 1,210 million; decadal growth 2001–11 was ~17.7%.
+
+**Ans: C.** About 121 crore (1.21 billion).
+
 </details>
 
-9. According to Census 2011, which Indian State has the highest population density?
-A. West Bengal  
-B. Bihar  
-C. Uttar Pradesh  
-D. Kerala  
+**Q4. Standard multi-PSC**
+Which State recorded the highest sex ratio in Census 2011?
+A. Tamil Nadu
+B. Kerala
+C. Andhra Pradesh
+D. Chhattisgarh
+
 <details>
 <summary>Show answer</summary>
 
-**Ans: B. Bihar**  
-**Logic:** Bihar has the highest population density among States with 1,106 persons per sq km, surpassing West Bengal (1,028 persons / sq km).
+**Logic:** Haryana had the lowest State sex ratio; national sex ratio improved to 943 (often listed 940 in provisional sheets).
+
+**Ans: B.** Kerala (1,084 females per 1,000 males).
+
 </details>
 
-10. What is the Child Sex Ratio (0–6 years) of India as per Census 2011?
-A. 943  
-B. 933  
-C. 927  
-D. 919  
+**Q5. Standard multi-PSC**
+Which State had the lowest literacy rate in Census 2011?
+A. Rajasthan
+B. Bihar
+C. Uttar Pradesh
+D. Jharkhand
+
 <details>
 <summary>Show answer</summary>
 
-**Ans: D. 919**  
-**Logic:** India's Child Sex Ratio (0–6 years) dropped from 927 in 2001 to 919 in 2011, indicating persistent gender discrimination and female foeticide.
+**Logic:** Kerala leads literacy; Bihar is the durable low-literacy trap in State PCS papers.
+
+**Ans: B.** Bihar (~63.8% / 61.8% in some older tables — lowest among States).
+
 </details>
 
-11. Which Indian State has the highest overall sex ratio according to Census 2011?
-A. Tamil Nadu  
-B. Andhra Pradesh  
-C. Kerala  
-D. Karnataka  
+**Q6. Standard multi-PSC**
+The Census of India is conducted every:
+A. 5 years
+B. 10 years
+C. 15 years
+D. 20 years
+
 <details>
 <summary>Show answer</summary>
 
-**Ans: C. Kerala**  
-**Logic:** Kerala recorded the highest sex ratio among all Indian States at 1,084 females per 1,000 males.
+**Logic:** Statutory decennial series since 1881; Census 2021 was deferred.
+
+**Ans: B.** 10 years (decennial).
+
 </details>
 
-12. In which of the following States is there NO notified Scheduled Tribe (ST) population according to Census 2011?
-A. Punjab and Haryana  
-B. Odisha and Jharkhand  
-C. Madhya Pradesh and Rajasthan  
-D. Gujarat and Maharashtra  
+**Q7. UP RO/ARO / coaching bank**
+Census is a subject of which List of the Seventh Schedule?
+A. Union List
+B. State List
+C. Concurrent List
+D. Residuary
+
 <details>
 <summary>Show answer</summary>
 
-**Ans: A. Punjab and Haryana**  
-**Logic:** No Scheduled Tribe communities are notified in Punjab, Haryana, Chandigarh, Delhi, and Puducherry.
+**Logic:** Conducted by the Registrar General & Census Commissioner under the Census Act, 1948.
+
+**Ans: A.** Union List (Entry 69).
+
 </details>
 
----
+**Q8. Standard multi-PSC**
+Which State had the lowest sex ratio in Census 2011?
+A. Punjab
+B. Haryana
+C. Rajasthan
+D. Uttar Pradesh
 
-
-### Category C: Uttar Pradesh & Uttarakhand Demographics (Census 2011)
-
-13. According to Census 2011, what is the total population of Uttar Pradesh and its percentage share in India's total population?
-A. 16.61 Crore (13.5%)  
-B. 19.98 Crore (16.51%)  
-C. 21.50 Crore (18.2%)  
-D. 18.25 Crore (15.1%)  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B. 19.98 Crore (16.51%)**  
-**Logic:** Uttar Pradesh's population in 2011 was 199,812,341 (approx. 19.98 Crore), constituting 16.51% of India's total population.
+**Logic:** Haryana also posted the lowest child sex ratio — a recurring twin trap with adult sex ratio.
+
+**Ans: B.** Haryana.
+
 </details>
 
-14. What is the population density of Uttar Pradesh as per Census 2011?
-A. 690 persons / sq km  
-B. 829 persons / sq km  
-C. 912 persons / sq km  
-D. 1,028 persons / sq km  
-<details>
-<summary>Show answer</summary>
-
-**Ans: B. 829 persons / sq km**  
-**Logic:** The population density of Uttar Pradesh is 829 persons per square kilometer (4th highest among Indian States).
-</details>
-
-15. Which district of Uttar Pradesh has the highest sex ratio as per Census 2011?
-A. Azamgarh  
-B. Deoria  
-C. Jaunpur  
-D. Pratapgarh  
-<details>
-<summary>Show answer</summary>
-
-**Ans: C. Jaunpur**  
-**Logic:** Jaunpur district has the highest sex ratio in UP with 1,024 females per 1,000 males, followed by Azamgarh (1,019) and Deoria (1,017).
-</details>
-
-16. Which district of Uttar Pradesh has the highest overall literacy rate as per Census 2011?
-A. Kanpur Nagar  
-B. Auraiya  
-C. Gautam Buddha Nagar  
-D. Ghaziabad  
-<details>
-<summary>Show answer</summary>
-
-**Ans: C. Gautam Buddha Nagar**  
-**Logic:** Gautam Buddha Nagar has the highest overall literacy rate in UP (80.12%), followed by Kanpur Nagar (79.65%) and Auraiya (78.95%).
-</details>
-
-17. Which district in Uttar Pradesh recorded the highest population density in Census 2011?
-A. Lucknow  
-B. Varanasi  
-C. Kanpur Nagar  
-D. Ghaziabad  
-<details>
-<summary>Show answer</summary>
-
-**Ans: D. Ghaziabad**  
-**Logic:** Ghaziabad is the most densely populated district in UP with 3,971 persons per square kilometer.
-</details>
-
-18. In Uttarakhand, which two hill districts recorded negative decadal population growth during 2001–2011?
-A. Chamoli and Rudraprayag  
-B. Almora and Pauri Garhwal  
-C. Tehri Garhwal and Bageshwar  
-D. Pithoragarh and Uttarkashi  
-<details>
-<summary>Show answer</summary>
-
-**Ans: B. Almora and Pauri Garhwal**  
-**Logic:** Almora (-1.28%) and Pauri Garhwal (-1.41%) registered negative decadal growth due to out-migration ("ghost villages").
-</details>
 
 ---
 

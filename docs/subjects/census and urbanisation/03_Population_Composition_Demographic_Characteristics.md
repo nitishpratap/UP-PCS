@@ -197,195 +197,111 @@ $$	ext{Effective Literacy Rate (\%)} = rac{	ext{Total Literate Population Aged 
 
 ## Complete PYQ Bank (UPPCS)
 
-> UPPCS-mapped / Category A stems. Broader Extra Drill follows.
+> Verified stems from UPPCS Prelims (and closely related UP papers). Extra Drill follows.
 
-### Category A: Sex Ratio & Child Sex Ratio
+**Q1. UPPCS (Pre) 2018**
+According to 2011 census, which of the following states has the lowest child sex-ratio both in Rural and Urban areas?
+A. Uttar Pradesh
+B. Kerala
+C. Haryana
+D. Jammu & Kashmir
 
-1. According to Census 2011, which Indian State recorded the highest Sex Ratio?
-A. Tamil Nadu  
-B. Andhra Pradesh  
-C. Kerala  
-D. Manipur  
 <details>
 <summary>Show answer</summary>
 
-**Ans: C. Kerala**  
-**Logic:** Kerala recorded the highest sex ratio in India at 1,084 females per 1,000 males, followed by Tamil Nadu (996) and Andhra Pradesh (993).
+**Logic:** Haryana posted the lowest child sex ratio (0–6) in both rural and urban categories — Son preference trap.
+
+**Ans: C.** Haryana.
+
 </details>
 
-2. What is the Child Sex Ratio (0–6 years) in India as per Census 2011?
-A. 943  
-B. 933  
-C. 927  
-D. 919  
+**Q2. UPPCS (Pre) 2018**
+Which of the following States is ranked economically at the top but the lowest on the basis of sex-ratio?
+A. Madhya Pradesh
+B. Maharashtra
+C. West Bengal
+D. Haryana
+
 <details>
 <summary>Show answer</summary>
 
-**Ans: D. 919**  
-**Logic:** The Child Sex Ratio in the age group 0–6 years dropped from 927 in Census 2001 to 919 in Census 2011.
+**Logic:** HighPCI/industrial image vs worst sex ratio among major States — a favourite confused pair.
+
+**Ans: D.** Haryana.
+
 </details>
 
-3. Which of the following States has the lowest Child Sex Ratio (0–6 years) in Census 2011?
-A. Punjab  
-B. Haryana  
-C. Rajasthan  
-D. Uttar Pradesh  
+**Q3. UPPCS (Pre) 2018**
+Which of the following districts of Uttar Pradesh has the lowest female literacy rate as per 2011 census?
+A. Rampur
+B. Balrampur
+C. Shrawasti
+D. Bahraich
+
 <details>
 <summary>Show answer</summary>
 
-**Ans: B. Haryana**  
-**Logic:** Haryana recorded the lowest Child Sex Ratio among all Indian States at 834 females per 1,000 males (Punjab was 846).
+**Logic:** Shravasti/Shrawasti is the floor for female literacy in UP; Balrampur and Bahraich are also weak but higher.
+
+**Ans: C.** Shrawasti (~34.8% female literacy).
+
 </details>
 
-4. Which district in Uttar Pradesh recorded the highest sex ratio in Census 2011?
-A. Azamgarh  
-B. Jaunpur  
-C. Deoria  
-D. Ghazipur  
-<details>
-<summary>Show answer</summary>
-
-**Ans: B. Jaunpur**  
-**Logic:** Jaunpur district has the highest sex ratio in UP with 1,024 females per 1,000 males.
-</details>
 
 ---
 
 ## Ghatnachakra Extra Drill — Population Composition Demographic Characteristics
 
-Extra Drill rebuilt from mixed RO/ARO–BPSC–UPSC–coaching stems (not a full Purvalokan dump). Expand when the book is pasted.
+> Multi-exam / other-State PCS / standard coaching stems for the same topic map.
 
-### Category B: Literacy Rates & Gender Disparity
+**Q1. Standard multi-PSC**
+As per Census 2011, India’s overall literacy rate was approximately:
+A. 64.8%
+B. 74.04%
+C. 82.1%
+D. 65.5%
 
-5. In Census 2011, the literacy rate of India was recorded as:
-A. 64.8%  
-B. 73.0%  
-C. 74.04%  
-D. 80.9%  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B. 73.0%**  
-**Logic:** The effective literacy rate of India in Census 2011 was 73.0% (provisional was 74.04%; final data confirmed 73.0%: Male 80.9%, Female 64.6%).
+**Logic:** Male ~82.14%, female ~65.46%; gender gap narrowed vs 2001.
+
+**Ans: B.** 74.04% (7+ age).
+
 </details>
 
-6. Which Indian State has the lowest female literacy rate as per Census 2011?
-A. Bihar  
-B. Jharkhand  
-C. Rajasthan  
-D. Uttar Pradesh  
+**Q2. Standard multi-PSC**
+A person who worked less than 183 days in the reference year is classified in Census as:
+A. Main worker
+B. Marginal worker
+C. Non-worker
+D. Cultivator only
+
 <details>
 <summary>Show answer</summary>
 
-**Ans: C. Rajasthan**  
-**Logic:** Rajasthan recorded the lowest female literacy rate among all States at 52.1% (Bihar female literacy was 51.5% in provisional, but revised to 51.5% while Rajasthan rural/overall stood at 52.1% with the widest gender gap of 27.1%).
+**Logic:** Main worker ≥183 days; marginal <183 days.
+
+**Ans: B.** Marginal worker.
+
 </details>
 
-7. Which State in India has the lowest gap between male and female literacy rates according to Census 2011?
-A. Kerala  
-B. Mizoram  
-C. Meghalaya  
-D. Goa  
+**Q3. BPSC-type**
+As per Census 2011, Bihar’s sex ratio was approximately:
+A. 879
+B. 918
+C. 943
+D. 1084
+
 <details>
 <summary>Show answer</summary>
 
-**Ans: C. Meghalaya**  
-**Logic:** Meghalaya has the lowest gender gap in literacy at only 3.1 percentage points (Male: 76.0%, Female: 72.9%), followed by Kerala (4.0%).
+**Logic:** Below national average; BPSC repeatedly tests this figure.
+
+**Ans: B.** About 918 females per 1,000 males.
+
 </details>
 
----
-
-
-### Category C: Scheduled Castes (SC) and Scheduled Tribes (ST)
-
-8. According to Census 2011, which Indian State has the highest percentage of Scheduled Castes (SC) relative to its total population?
-A. Uttar Pradesh  
-B. West Bengal  
-C. Punjab  
-D. Himachal Pradesh  
-<details>
-<summary>Show answer</summary>
-
-**Ans: C. Punjab**  
-**Logic:** Punjab has the highest proportion of Scheduled Castes at 31.9% of its total state population.
-</details>
-
-9. Which State in India has the largest absolute population of Scheduled Tribes (ST)?
-A. Odisha  
-B. Madhya Pradesh  
-C. Maharashtra  
-D. Jharkhand  
-<details>
-<summary>Show answer</summary>
-
-**Ans: B. Madhya Pradesh**  
-**Logic:** Madhya Pradesh has the highest absolute ST population in India with 1.53 Crore tribal inhabitants (14.7% of India's total ST population).
-</details>
-
-10. In which of the following States is there NO notified Scheduled Caste (SC) population?
-A. Punjab  
-B. Nagaland  
-C. Odisha  
-D. Kerala  
-<details>
-<summary>Show answer</summary>
-
-**Ans: B. Nagaland**  
-**Logic:** Nagaland, Mizoram, Meghalaya, Lakshadweep, and Andaman & Nicobar Islands have no notified Scheduled Caste populations.
-</details>
-
-11. How many Particularly Vulnerable Tribal Groups (PVTGs) are officially recognized in India?
-A. 50  
-B. 65  
-C. 75  
-D. 90  
-<details>
-<summary>Show answer</summary>
-
-**Ans: C. 75**  
-**Logic:** There are 75 recognized Particularly Vulnerable Tribal Groups (PVTGs) spread across 18 States and the Union Territory of Andaman & Nicobar Islands (Odisha has the highest number: 13 PVTGs).
-</details>
-
----
-
-
-### Category D: Religious & Linguistic Composition
-
-12. Which religious community in India has the highest literacy rate as per Census 2011?
-A. Christians  
-B. Jains  
-C. Buddhists  
-D. Sikhs  
-<details>
-<summary>Show answer</summary>
-
-**Ans: B. Jains**  
-**Logic:** Jains have the highest literacy rate in India at 94.9% (Male: 97.4%, Female: 92.5%), followed by Christians (84.5%) and Buddhists (81.3%).
-</details>
-
-13. According to Census 2011, which is the second most spoken language in India after Hindi?
-A. Telugu  
-B. Bengali  
-C. Marathi  
-D. Tamil  
-<details>
-<summary>Show answer</summary>
-
-**Ans: B. Bengali**  
-**Logic:** Bengali is the second most spoken language in India, spoken by 8.03% (9.72 Crore) of the population, followed by Marathi (6.86%) and Telugu (6.70%).
-</details>
-
-14. Which major religious community in India recorded the highest sex ratio in Census 2011?
-A. Hindus  
-B. Muslims  
-C. Christians  
-D. Buddhists  
-<details>
-<summary>Show answer</summary>
-
-**Ans: C. Christians**  
-**Logic:** Christians recorded the highest sex ratio among all major religious communities in India at 1,023 females per 1,000 males.
-</details>
 
 ---
 

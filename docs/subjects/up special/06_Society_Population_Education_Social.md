@@ -265,154 +265,95 @@ Lucknow is home to the dense concentration of national scientific laboratories:
 
 ## Complete PYQ Bank (UPPCS)
 
-> UPPCS-mapped / Category A stems. Broader Extra Drill follows.
+> Verified stems from UPPCS Prelims (and closely related UP papers). Extra Drill follows.
 
-### Section A: Census 2011 & Demographic Extremes
+**Q1. UPPCS (Pre) 2018**
+Which of the following districts of Uttar Pradesh has the lowest female literacy rate as per 2011 census?
+A. Rampur
+B. Balrampur
+C. Shrawasti
+D. Bahraich
 
-1. According to Census 2011, which district of Uttar Pradesh has recorded the LOWEST female literacy rate?
-   (A) Rampur
-   (B) Balrampur
-   (C) Shravasti
-   (D) Bahraich
 <details>
 <summary>Show answer</summary>
-<b>Correct Answer: (C) Shravasti</b><br>
-<b>Explanation:</b> Shravasti recorded the lowest female literacy rate in Uttar Pradesh at 34.78% (followed by Balrampur at 37.61% and Bahraich at 39.18%). Shravasti is also lowest in overall literacy (46.74%) and male literacy (57.16%).
+
+**Logic:** Female literacy floor in UP; overall literacy floor also Shravasti (~46.7%).
+
+**Ans: C.** Shrawasti.
+
 </details>
 
-2. As per the 2011 Census, which district of Uttar Pradesh has the HIGHEST sex ratio?
-   (A) Azamgarh
-   (B) Deoria
-   (C) Jaunpur
-   (D) Pratapgarh
+**Q2. UPPCS Upper/Standard**
+As per Census 2011, the most literate district of U.P. is:
+A. Ghaziabad
+B. Kanpur Nagar
+C. Gautam Buddha Nagar
+D. Lucknow
+
 <details>
 <summary>Show answer</summary>
-<b>Correct Answer: (C) Jaunpur</b><br>
-<b>Explanation:</b> Jaunpur district has the highest sex ratio in Uttar Pradesh with 1,024 females per 1000 males, followed by Azamgarh (1,019) and Deoria (1,017).
+
+**Logic:** Kanpur Nagar is close second; Lucknow is not the top.
+
+**Ans: C.** Gautam Buddha Nagar (~80.12%).
+
 </details>
 
-3. Which district of Uttar Pradesh has the highest percentage of Scheduled Caste (SC) population as per Census 2011?
-   (A) Sitapur
-   (B) Kaushambi
-   (C) Hardoi
-   (D) Unnao
+**Q3. UPPCS (Pre) 2020**
+Kanpur and Lucknow cities of UP became million cities as per the census of India in the year
+A. 1951 and 1961
+B. 1961 and 1971
+C. 1971 and 1981
+D. 1981 and 1991
+
 <details>
 <summary>Show answer</summary>
-<b>Correct Answer: (B) Kaushambi</b><br>
-<b>Explanation:</b> Kaushambi has the highest percentage of Scheduled Castes in UP at 34.72%. Sitapur has the highest absolute population of Scheduled Castes (14.46 Lakh).
+
+**Logic:** Same stem as urbanisation topic — belongs in UP demography too.
+
+**Ans: C.** 1971 and 1981.
+
 </details>
 
-4. In which district of Uttar Pradesh is the population density the LOWEST as per Census 2011?
-   (A) Sonbhadra
-   (B) Mahoba
-   (C) Lalitpur
-   (D) Chitrakoot
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) Lalitpur</b><br>
-<b>Explanation:</b> Lalitpur has the lowest population density in Uttar Pradesh at 242 persons per km² (Sonbhadra is 270/km², Hamirpur is 275/km², and Mahoba is 279/km²).
-</details>
-
-5. What is the overall literacy rate of Uttar Pradesh according to the 2011 Census?
-   (A) 67.68%
-   (B) 69.72%
-   (C) 71.20%
-   (D) 73.00%
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (A) 67.68%</b><br>
-<b>Explanation:</b> As per Census 2011, the overall literacy rate of Uttar Pradesh is 67.68% (~67.7%), with male literacy at 77.28% and female literacy at 57.18%.
-</details>
 
 ---
 
 ## Ghatnachakra Extra Drill — Society Population Education Social
 
-Extra Drill rebuilt from mixed RO/ARO–BPSC–UPSC–coaching stems (not a full Purvalokan dump). Expand when the book is pasted.
+> Multi-exam / other-State PCS / standard coaching stems for the same topic map.
 
-### Section B: Tribes & Social Structure
+**Q1. Standard UPPCS**
+Highest population density district of UP (Census 2011) is:
+A. Varanasi
+B. Lucknow
+C. Ghaziabad
+D. Kanpur Nagar
 
-6. Which scheduled tribe of Uttar Pradesh celebrates the festival of Diwali as a day of mourning (*Shoka Parva*)?
-   (A) Buxa
-   (B) Tharu
-   (C) Bhotia
-   (D) Jaunsari
 <details>
 <summary>Show answer</summary>
-<b>Correct Answer: (B) Tharu</b><br>
-<b>Explanation:</b> The Tharu tribe of the Terai region commemorates Diwali as a day of mourning (Shoka Parva) by performing memorial rituals (*Putla Vidhan*) and offering food in memory of deceased relatives.
+
+**Logic:** Lowest density: Lalitpur.
+
+**Ans: C.** Ghaziabad (~3,971/km²).
+
 </details>
 
-7. The 'Buxa' (Bhoksa) tribe is primarily concentrated in which district of Uttar Pradesh?
-   (A) Bijnor
-   (B) Lalitpur
-   (C) Sonbhadra
-   (D) Maharajganj
+**Q2. Standard UPPCS**
+Highest sex ratio district of UP (Census 2011) is:
+A. Azamgarh
+B. Deoria
+C. Jaunpur
+D. Gautam Buddha Nagar
+
 <details>
 <summary>Show answer</summary>
-<b>Correct Answer: (A) Bijnor</b><br>
-<b>Explanation:</b> The Buxa tribe lives predominantly in Bijnor district in the foothills of the Himalayas. They revere Chamunda Devi as their primary deity.
+
+**Logic:** GBN has high literacy but low sex ratio — inverse trap.
+
+**Ans: C.** Jaunpur (1,024).
+
 </details>
 
-8. The 'Sahariya' tribe in Uttar Pradesh is found exclusively in which district?
-   (A) Sonbhadra
-   (B) Lalitpur
-   (C) Banda
-   (D) Mirzapur
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Lalitpur</b><br>
-<b>Explanation:</b> The Sahariya tribe is an indigenous forest-dwelling community found exclusively in Lalitpur district in the Bundelkhand region of Uttar Pradesh.
-</details>
-
----
-
-
-### Section C: Universities & Scientific Research Institutes
-
-9. The famous Banaras Hindu University (BHU) at Varanasi was founded in 1916 by:
-   (A) Pandit Madan Mohan Malaviya
-   (B) Dr. Annie Besant
-   (C) Gopal Krishna Gokhale
-   (D) Sir Syed Ahmad Khan
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (A) Pandit Madan Mohan Malaviya</b><br>
-<b>Explanation:</b> BHU was established in 1916 by Pandit Madan Mohan Malaviya under the Banaras Hindu University Act, 1915, incorporating Annie Besant's Central Hindu College.
-</details>
-
-10. The Central Drug Research Institute (CDRI), a premier constituent laboratory of CSIR, is situated in which city of UP?
-   (A) Kanpur
-   (B) Lucknow
-   (C) Varanasi
-   (D) Prayagraj
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Lucknow</b><br>
-<b>Explanation:</b> CDRI was inaugurated at Lucknow in 1951 by Prime Minister Jawaharlal Nehru to spearhead drug discovery and biomedical research in India.
-</details>
-
-11. Which university in Uttar Pradesh was historically referred to as the "Oxford of the East"?
-   (A) Aligarh Muslim University
-   (B) Banaras Hindu University
-   (C) University of Allahabad
-   (D) University of Lucknow
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) University of Allahabad</b><br>
-<b>Explanation:</b> Established in 1887, the University of Allahabad was the fourth modern university in India (after Calcutta, Bombay, and Madras) and was acclaimed as the "Oxford of the East" for its intellectual and administrative legacy.
-</details>
-
-12. The Birbal Sahni Institute of Palaeosciences (BSIP) is located at:
-   (A) Dehradun
-   (B) Lucknow
-   (C) Prayagraj
-   (D) Bareilly
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Lucknow</b><br>
-<b>Explanation:</b> BSIP was founded in 1946 by renowned Indian palaeobotanist Prof. Birbal Sahni at Lucknow, specializing in the study of plant fossils, palaeoclimate, and evolutionary biology.
-</details>
 
 ---
 

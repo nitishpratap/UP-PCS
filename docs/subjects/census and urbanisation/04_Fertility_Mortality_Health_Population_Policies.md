@@ -196,178 +196,129 @@ The Total Fertility Rate is the most standard, cross-nationally comparable measu
 
 ## Complete PYQ Bank (UPPCS)
 
-> UPPCS-mapped / Category A stems. Broader Extra Drill follows.
+> Verified stems from UPPCS Prelims (and closely related UP papers). Extra Drill follows.
 
-### Category A: Fertility Metrics & Total Fertility Rate (TFR)
+**Q1. UPPCS (Pre) 2020**
+What should be Total Fertility Rate (TFR) of a population in order to reach at the replacement level of fertility?
+A. 1.0
+B. 1.6
+C. 2.1
+D. 2.3
 
-1. The Total Fertility Rate (TFR) required for population replacement level is:
-A. 1.8  
-B. 2.0  
-C. 2.1  
-D. 2.3  
 <details>
 <summary>Show answer</summary>
 
-**Ans: C. 2.1**  
-**Logic:** A Total Fertility Rate of 2.1 children per woman is globally recognized as the replacement level fertility under normal sex ratio at birth and standard mortality conditions.
+**Logic:** Replacement-level TFR ≈ 2.1 children per woman in low-mortality settings.
+
+**Ans: C.** About 2.1.
+
 </details>
 
-2. According to the National Family Health Survey-5 (NFHS-5), what is the Total Fertility Rate (TFR) of India?
-A. 2.4  
-B. 2.2  
-C. 2.0  
-D. 1.8  
+**Q2. UPPCS (Pre) 2018**
+What is the current Total Fertility Rate (TFR) of India according to NFHS (2015-16)?
+A. 2.2
+B. 2.4
+C. 3.2
+D. 3.4
+
 <details>
 <summary>Show answer</summary>
 
-**Ans: C. 2.0**  
-**Logic:** NFHS-5 (2019-21) recorded India's national TFR at 2.0, below the replacement level of 2.1.
+**Logic:** NFHS-4 (2015–16) TFR was 2.2; later NFHS-5 fell further toward/below replacement nationally.
+
+**Ans: A.** 2.2 (NFHS-4).
+
 </details>
 
-3. Which Indian State recorded the lowest Total Fertility Rate (TFR) in NFHS-5?
-A. Kerala  
-B. Tamil Nadu  
-C. Sikkim  
-D. Goa  
+**Q3. UPPCS (Pre) 2021**
+With reference to ‘birth rate’ which statement(s) is/are correct?
+1. Urbanization helps in reducing the birth rate.
+2. High literacy rate is directly related to low birth rate.
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
 <details>
 <summary>Show answer</summary>
 
-**Ans: C. Sikkim**  
-**Logic:** Sikkim recorded the lowest TFR in India at 1.1 children per woman in NFHS-5.
+**Logic:** Urbanisation and female literacy are standard inverse correlates of fertility in Indian demography stems.
+
+**Ans: C.** Both 1 and 2.
+
 </details>
 
-4. The average number of daughters that would be born to a woman if she survives to the end of her reproductive period and bears children according to prevailing age-specific fertility rates is known as:
-A. Total Fertility Rate  
-B. Gross Reproduction Rate (GRR)  
-C. Net Reproduction Rate (NRR)  
-D. General Fertility Rate  
+**Q4. UPPCS (Pre) 2023**
+By which year has India fixed the target of achieving population stability?
+A. 2045
+B. 2070
+C. 2047
+D. 2050
+
 <details>
 <summary>Show answer</summary>
 
-**Ans: B. Gross Reproduction Rate (GRR)**  
-**Logic:** Gross Reproduction Rate (GRR) measures the average number of female daughters a woman would produce, assuming no female mortality before the end of the reproductive span.
+**Logic:** Trap is 2045 from NPP 2000’s older long-term wording (also UPSC 2008). UPPCS 2023 keyed 2070.
+
+**Ans: B.** 2070 (UPPCS 2023 official key).
+
 </details>
+
 
 ---
 
 ## Ghatnachakra Extra Drill — Fertility Mortality Health Population Policies
 
-Extra Drill rebuilt from mixed RO/ARO–BPSC–UPSC–coaching stems (not a full Purvalokan dump). Expand when the book is pasted.
+> Multi-exam / other-State PCS / standard coaching stems for the same topic map.
 
-### Category B: Mortality Indicators (IMR, MMR, CDR) & Life Expectancy
+**Q1. Standard multi-PSC**
+National Population Policy 2000 aimed to achieve replacement-level fertility by:
+A. 2005
+B. 2010
+C. 2020
+D. 2025
 
-5. Maternal Mortality Ratio (MMR) is expressed as the number of maternal deaths per:
-A. 1,000 Live Births  
-B. 10,000 Live Births  
-C. 100,000 (1 Lakh) Live Births  
-D. 1,000,000 Live Births  
 <details>
 <summary>Show answer</summary>
 
-**Ans: C. 100,000 (1 Lakh) Live Births**  
-**Logic:** Maternal Mortality Ratio is standardly calculated as maternal deaths per 100,000 (1 Lakh) live births during the reference period.
+**Logic:** Also targeted IMR <30 and MMR <100 — timelines slipped, but the stated NPP year is 2010.
+
+**Ans: B.** 2010 (TFR 2.1).
+
 </details>
 
-6. In India, which State has the lowest Infant Mortality Rate (IMR) according to Sample Registration System (SRS) data?
-A. Goa  
-B. Tamil Nadu  
-C. Kerala  
-D. Maharashtra  
+**Q2. UPSC (Pre) 2008**
+As per India’s National Population Policy, 2000, the long-term objective of population stabilisation was set for:
+A. 2025
+B. 2035
+C. 2045
+D. 2055
+
 <details>
 <summary>Show answer</summary>
 
-**Ans: C. Kerala**  
-**Logic:** Kerala consistently records the lowest Infant Mortality Rate in India (approx. 6 deaths per 1,000 live births).
+**Logic:** NPP 2000 long-term stabilisation year — distinct from UPPCS 2023’s 2070 framing.
+
+**Ans: C.** 2045.
+
 </details>
 
-7. Neonatal Mortality Rate (NMR) refers to the death of an infant within how many days of birth?
-A. 7 days  
-B. 14 days  
-C. 28 days  
-D. 365 days  
+**Q3. Standard multi-PSC**
+IMR is defined as deaths of children under age one per:
+A. 100 live births
+B. 1,000 live births
+C. 1,000 mid-year population
+D. 100,000 live births
+
 <details>
 <summary>Show answer</summary>
 
-**Ans: C. 28 days**  
-**Logic:** Neonatal mortality refers to deaths of newborn infants occurring during the first 28 completed days of life per 1,000 live births.
+**Logic:** MMR uses 1,00,000 live births — common unit trap.
+
+**Ans: B.** 1,000 live births.
+
 </details>
 
-8. What is the target for Maternal Mortality Ratio (MMR) set under Target 3.1 of the UN Sustainable Development Goals (SDG) to be achieved by 2030?
-A. Less than 100 per 1 Lakh Live Births  
-B. Less than 70 per 1 Lakh Live Births  
-C. Less than 50 per 1 Lakh Live Births  
-D. Less than 25 per 1 Lakh Live Births  
-<details>
-<summary>Show answer</summary>
-
-**Ans: B. Less than 70 per 1 Lakh Live Births**  
-**Logic:** SDG Target 3.1 mandates reducing the global maternal mortality ratio to less than 70 per 100,000 live births by 2030.
-</details>
-
----
-
-
-### Category C: Population Policies & Government Health Missions
-
-9. Which was the first country in the world to launch an official National Family Planning Programme?
-A. China  
-B. United States  
-C. India  
-D. Sweden  
-<details>
-<summary>Show answer</summary>
-
-**Ans: C. India**  
-**Logic:** India launched its National Family Planning Programme in 1952 during the First Five-Year Plan, becoming the first country globally to adopt an official population policy.
-</details>
-
-10. The National Population Policy (NPP) 2000 set the long-term objective of achieving a stable population in India by the year:
-A. 2010  
-B. 2025  
-C. 2045  
-D. 2070  
-<details>
-<summary>Show answer</summary>
-
-**Ans: C. 2045**  
-**Logic:** NPP 2000 laid down the long-term objective of stabilizing the national population by 2045 (with TFR 2.1 by 2010).
-</details>
-
-11. Who is the *ex-officio* Chairman of the National Commission on Population (NCP) in India?
-A. Union Minister of Health and Family Welfare  
-B. Prime Minister of India  
-C. Vice-Chairman of NITI Aayog  
-D. Registrar General of India  
-<details>
-<summary>Show answer</summary>
-
-**Ans: B. Prime Minister of India**  
-**Logic:** The National Commission on Population, constituted in May 2000, is chaired by the Prime Minister of India.
-</details>
-
-12. Under the National Rural Health Mission (NRHM), an ASHA (Accredited Social Health Activist) worker is generally deployed for a rural population of:
-A. 500 population  
-B. 1,000 population  
-C. 2,000 population  
-D. 5,000 population  
-<details>
-<summary>Show answer</summary>
-
-**Ans: B. 1,000 population**  
-**Logic:** One ASHA worker is selected for every village / 1,000 population in rural areas (or 1 per 500–600 in tribal and hilly areas).
-</details>
-
-13. Janani Suraksha Yojana (JSY) was launched primarily to promote:
-A. Female literacy in rural areas  
-B. Institutional deliveries among poor pregnant women  
-C. Free distribution of sanitary napkins  
-D. Immunization against Japanese Encephalitis  
-<details>
-<summary>Show answer</summary>
-
-**Ans: B. Institutional deliveries among poor pregnant women**  
-**Logic:** JSY was launched on 12 April 2005 under NRHM to provide cash assistance to pregnant women belonging to BPL families to encourage institutional deliveries.
-</details>
 
 ---
 

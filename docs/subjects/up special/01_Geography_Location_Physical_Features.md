@@ -212,166 +212,97 @@
 
 ## Complete PYQ Bank (UPPCS)
 
-> UPPCS-mapped / Category A stems. Broader Extra Drill follows.
+> Verified stems from UPPCS Prelims (and closely related UP papers). Extra Drill follows.
 
-### Category A: Location, Area, Boundaries & District Geometry
+**Q1. UPPCS (Pre) 2023**
+Which of the following statements is correct?
+1. Ramganga joins the Ganga at Kannauj.
+2. River Betwa joins the Yamuna near Prayagraj.
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-1. What is the total geographical area of Uttar Pradesh and its percentage share in India's total area?
-A. 342,239 km² (10.4%)  
-B. 240,928 km² (7.33%)  
-C. 308,245 km² (9.38%)  
-D. 199,812 km² (6.07%)  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B. 240,928 km² (7.33%)**  
-**Logic:** The total area of Uttar Pradesh is 240,928 square kilometers, accounting for 7.33% of the total geographical area of India.
+**Logic:** Ramganga meets Ganga near Kannauj. Betwa joins Yamuna near Hamirpur (not Prayagraj) — statement 2 is the trap.
+
+**Ans: A.** Only 1.
+
 </details>
 
-2. Which district of Uttar Pradesh shares its border with four different States of India?
-A. Saharanpur  
-B. Sonbhadra  
-C. Lalitpur  
-D. Mirzapur  
+**Q2. UPPCS-type / Drishti UP GK bank**
+Which river forms a significant western boundary segment of Uttar Pradesh with Haryana?
+A. Ganga
+B. Yamuna
+C. Ghaghara
+D. Gomati
+
 <details>
 <summary>Show answer</summary>
 
-**Ans: B. Sonbhadra**  
-**Logic:** Sonbhadra is the only district in India that borders four states: Madhya Pradesh, Chhattisgarh, Jharkhand, and Bihar.
+**Logic:** Yamuna marks much of the UP–Haryana/Delhi western flank.
+
+**Ans: B.** Yamuna.
+
 </details>
 
-3. How many districts of Uttar Pradesh share an international border with Nepal?
-A. 5 districts  
-B. 6 districts  
-C. 7 districts  
-D. 8 districts  
+**Q3. Standard UPPCS**
+Dudhwa National Park lies in which district?
+A. Pilibhit
+B. Lakhimpur Kheri
+C. Bahraich
+D. Sharavasti
+
 <details>
 <summary>Show answer</summary>
 
-**Ans: C. 7 districts**  
-**Logic:** Seven districts border Nepal: Pilibhit, Lakhimpur Kheri, Bahraich, Shravasti, Balrampur, Siddharthnagar, and Maharajganj.
+**Logic:** Only National Park of UP; Terai–Nepal border. Pilibhit is a separate Tiger Reserve.
+
+**Ans: B.** Lakhimpur Kheri.
+
 </details>
 
-4. Which is the smallest district of Uttar Pradesh in terms of geographical area?
-A. Bhadohi (Sant Ravidas Nagar)  
-B. Shamli  
-C. Hapur  
-D. Ghaziabad  
-<details>
-<summary>Show answer</summary>
-
-**Ans: C. Hapur**  
-**Logic:** Hapur is the smallest district in UP with an area of only 660 square kilometers.
-</details>
-
-5. Which district of Uttar Pradesh is surrounded by Madhya Pradesh on three sides?
-A. Jhansi  
-B. Banda  
-C. Lalitpur  
-D. Mahoba  
-<details>
-<summary>Show answer</summary>
-
-**Ans: C. Lalitpur**  
-**Logic:** Lalitpur district forms a southern protrusion that is surrounded on its western, southern, and eastern borders by Madhya Pradesh.
-</details>
 
 ---
 
 ## Ghatnachakra Extra Drill — Geography Location Physical Features
 
-Extra Drill rebuilt from mixed RO/ARO–BPSC–UPSC–coaching stems (not a full Purvalokan dump). Expand when the book is pasted.
+> Multi-exam / other-State PCS / standard coaching stems for the same topic map.
 
-### Category B: Physical Divisions, Soils & Climate
+**Q1. Standard multi-PSC UP**
+How many districts of UP border Uttarakhand?
+A. 5
+B. 6
+C. 7
+D. 9
 
-6. In which physical region of Uttar Pradesh do rivers disappear underground into porous gravel beds?
-A. Terai Region  
-B. Bhabhar Region  
-C. Bangar Plain  
-D. Bundelkhand Plateau  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B. Bhabhar Region**  
-**Logic:** The Bhabhar tract consists of coarse pebbles and boulders brought down from the Siwaliks, creating high porosity that causes small streams to sink underground.
+**Logic:** Saharanpur, Muzaffarnagar, Bijnor, Moradabad, Rampur, Bareilly, Pilibhit.
+
+**Ans: C.** Seven.
+
 </details>
 
-7. Which district in Uttar Pradesh records the highest annual rainfall?
-A. Deoria  
-B. Gorakhpur  
-C. Varanasi  
-D. Pilibhit  
+**Q2. Standard UPPCS**
+Which physiographic belt of UP includes tarai–bhabar?
+A. Southern Plateau only
+B. Northern mountain–tarai fringe
+C. Pure Bangar only
+D. Trans-Yamuna arid only
+
 <details>
 <summary>Show answer</summary>
 
-**Ans: B. Gorakhpur**  
-**Logic:** Gorakhpur in eastern UP receives the highest average annual rainfall in the state (184.7 cm).
+**Logic:** Bhabar–Tarai–Plain–Vindhyan south is the relief ladder.
+
+**Ans: B.** Northern fringe adjoining Siwaliks/Nepal.
+
 </details>
 
-8. Which district in Uttar Pradesh receives the lowest annual rainfall?
-A. Agra  
-B. Jhansi  
-C. Mathura  
-D. Aligarh  
-<details>
-<summary>Show answer</summary>
-
-**Ans: C. Mathura**  
-**Logic:** Mathura in south-western UP receives the lowest annual rainfall in the state (approx. 54.4 cm).
-</details>
-
-9. 'Mar' and 'Kabar' soils found in Uttar Pradesh are local varieties of which major soil group?
-A. Alluvial Soil  
-B. Black Soil (Regur)  
-C. Red Soil  
-D. Laterite Soil  
-<details>
-<summary>Show answer</summary>
-
-**Ans: B. Black Soil (Regur)**  
-**Logic:** Mar and Kabar are clayey black soils found in the Bundelkhand plateau region, possessing high moisture retention akin to Deccan Black Cotton soil.
-</details>
-
----
-
-
-### Category C: Drainage System, Rivers & Lakes
-
-10. The Ganga River enters the territory of Uttar Pradesh in which district?
-A. Saharanpur  
-B. Bijnor  
-C. Meerut  
-D. Moradabad  
-<details>
-<summary>Show answer</summary>
-
-**Ans: B. Bijnor**  
-**Logic:** The Ganga flows down from Haridwar (Uttarakhand) and enters Uttar Pradesh in Bijnor district.
-</details>
-
-11. The Gomti River, on whose banks the capital city Lucknow is situated, originates from:
-A. Gangotri Glacier  
-B. Dudhatoli Hills  
-C. Gomat Taal (Fulhar Jheel) in Pilibhit  
-D. Kaimur Hills  
-<details>
-<summary>Show answer</summary>
-
-**Ans: C. Gomat Taal (Fulhar Jheel) in Pilibhit**  
-**Logic:** Unlike most Himalayan rivers, the Gomti is a plain-fed river originating from Fulhar Jheel (Gomat Taal) in Pilibhit district.
-</details>
-
-12. Keetham Lake (Sur Sarovar), designated as a Ramsar Wetland Site, is situated in which district of UP?
-A. Mathura  
-B. Agra  
-C. Aligarh  
-D. Firozabad  
-<details>
-<summary>Show answer</summary>
-
-**Ans: B. Agra**  
-**Logic:** Keetham Lake (Sur Sarovar Wildlife Sanctuary) is located along the Delhi-Agra highway in Agra district.
-</details>
 
 ---
 

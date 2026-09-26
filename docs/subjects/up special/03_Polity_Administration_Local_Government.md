@@ -277,154 +277,68 @@ Uttar Pradesh is organized administratively into **18 Divisions (Mandals)**, com
 
 ## Complete PYQ Bank (UPPCS)
 
-> UPPCS-mapped / Category A stems. Broader Extra Drill follows.
+> Verified stems from UPPCS Prelims (and closely related UP papers). Extra Drill follows.
 
-### Section A: State Legislature, Executive & Constitutional Setup
+**Q1. UPPCS (Pre) 2023**
+With reference to the composition of the Legislative Council in a State:
+1. Council may not have more than one-third members of the Assembly.
+2. Council must have at least forty members.
+Select the correct answer:
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither
 
-1. What is the total number of members in the Uttar Pradesh Legislative Assembly (Vidhan Sabha)?
-   (A) 400
-   (B) 402
-   (C) 403
-   (D) 405
 <details>
 <summary>Show answer</summary>
-<b>Correct Answer: (C) 403</b><br>
-<b>Explanation:</b> The Uttar Pradesh Legislative Assembly consists of 403 directly elected members. Prior to the reorganization of the state in November 2000, the strength was 425.
+
+**Logic:** UP Vidhan Parishad strength is 100; Assembly 403 — within the 1/3 ceiling and above the 40 floor.
+
+**Ans: C.** Both (Art. 171).
+
 </details>
 
-2. How many seats are reserved for Scheduled Castes (SC) in the Uttar Pradesh Legislative Assembly?
-   (A) 80
-   (B) 84
-   (C) 86
-   (D) 89
+**Q2. UPPCS (Pre) 2023**
+Which statements are correct?
+1. Uttar Pradesh has 31 seats allotted for Rajya Sabha.
+2. Eighty members of the Lok Sabha are elected from Uttar Pradesh.
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither
+
 <details>
 <summary>Show answer</summary>
-<b>Correct Answer: (B) 84</b><br>
-<b>Explanation:</b> Out of 403 seats in the UP Legislative Assembly, 84 seats are reserved for Scheduled Castes (SC) and 2 seats (Obra and Duddhi in Sonbhadra) are reserved for Scheduled Tribes (ST), making a total of 86 reserved seats.
+
+**Logic:** UP: 80 Lok Sabha + 31 Rajya Sabha — highest among States.
+
+**Ans: C.** Both.
+
 </details>
 
-3. Who was the First Woman Chief Minister of Uttar Pradesh?
-   (A) Sarojini Naidu
-   (B) Sucheta Kripalani
-   (C) Mayawati
-   (D) Rajkumari Amrit Kaur
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Sucheta Kripalani</b><br>
-<b>Explanation:</b> Sucheta Kripalani served as the Chief Minister of Uttar Pradesh from October 1963 to March 1967, becoming the first woman Chief Minister of an Indian State. Sarojini Naidu was the first woman Governor.
-</details>
-
-4. Under Article 164(1A) of the Constitution (91st Amendment Act, 2003), what is the maximum number of ministers, including the Chief Minister, permissible in Uttar Pradesh?
-   (A) 50
-   (B) 55
-   (C) 60
-   (D) 65
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) 60</b><br>
-<b>Explanation:</b> Article 164(1A) limits the Council of Ministers in a State to 15% of the total assembly strength. For UP, 15% of 403 is 60.45, capping the ministry at a maximum of 60 ministers.
-</details>
-
-5. How many members represent Uttar Pradesh in the Rajya Sabha?
-   (A) 31
-   (B) 34
-   (C) 36
-   (D) 80
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (A) 31</b><br>
-<b>Explanation:</b> Uttar Pradesh has 31 seats in the Rajya Sabha, the highest among all states. Prior to the separation of Uttarakhand (which took 3 seats), UP had 34 Rajya Sabha seats.
-</details>
 
 ---
 
 ## Ghatnachakra Extra Drill — Polity Administration Local Government
 
-Extra Drill rebuilt from mixed RO/ARO–BPSC–UPSC–coaching stems (not a full Purvalokan dump). Expand when the book is pasted.
+> Multi-exam / other-State PCS / standard coaching stems for the same topic map.
 
-### Section B: Judiciary, Commissions & Administrative Hierarchy
+**Q1. Standard UPPCS**
+Total seats in UP Legislative Assembly are:
+A. 400
+B. 403
+C. 404
+D. 425
 
-6. The High Court of Judicature for the North-Western Provinces was initially established at which city in 1866 before moving to Allahabad?
-   (A) Meerut
-   (B) Agra
-   (C) Lucknow
-   (D) Kanpur
 <details>
 <summary>Show answer</summary>
-<b>Correct Answer: (B) Agra</b><br>
-<b>Explanation:</b> The High Court was established at Agra on 17 March 1866 under the High Courts Act of 1861, with Sir Walter Morgan as its first Chief Justice. It was shifted to Allahabad in 1869.
+
+**Logic:** Including one Anglo-Indian nomination historically — present strength taught as 403 elected.
+
+**Ans: B.** 403.
+
 </details>
 
-7. Who has the constitutional power to extend the functions of the Uttar Pradesh Public Service Commission (UPPSC)?
-   (A) Governor of Uttar Pradesh
-   (B) President of India
-   (C) State Legislature of Uttar Pradesh
-   (D) Union Public Service Commission
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) State Legislature of Uttar Pradesh</b><br>
-<b>Explanation:</b> Under Article 321 of the Constitution of India, an Act made by the State Legislature may provide for the exercise of additional functions by the State Public Service Commission.
-</details>
-
-8. The headquarters of Devipatan Administrative Division is located at:
-   (A) Balrampur
-   (B) Gonda
-   (C) Bahraich
-   (D) Shravasti
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Gonda</b><br>
-<b>Explanation:</b> Devipatan Division comprises 4 districts: Gonda, Bahraich, Shravasti, and Balrampur. Its divisional headquarters is located at Gonda.
-</details>
-
-9. In which year was Urdu declared as the second official language of Uttar Pradesh?
-   (A) 1951
-   (B) 1968
-   (C) 1989
-   (D) 2000
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) 1989</b><br>
-<b>Explanation:</b> Urdu was declared the second official language of Uttar Pradesh in 1989 through the Uttar Pradesh Official Language (Amendment) Act, 1989. Hindi in Devanagari script is the primary official language (enacted 1951).
-</details>
-
----
-
-
-### Section C: Local Government & Municipal Administration
-
-10. Elections to Panchayati Raj Institutions and Urban Local Bodies in Uttar Pradesh are conducted by:
-   (A) Election Commission of India
-   (B) State Election Commission, Uttar Pradesh
-   (C) Panchayati Raj Directorate, Lucknow
-   (D) District Magistrate of each district
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) State Election Commission, Uttar Pradesh</b><br>
-<b>Explanation:</b> Under Articles 243K and 243ZA of the Constitution, the superintendence, direction, and control of the preparation of electoral rolls and conduct of all elections to Panchayats and Municipalities are vested in the State Election Commission.
-</details>
-
-11. What is the intermediate tier of the 3-tier Panchayati Raj system called in Uttar Pradesh?
-   (A) Panchayat Samiti
-   (B) Kshetra Panchayat
-   (C) Mandal Panchayat
-   (D) Janpad Panchayat
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Kshetra Panchayat</b><br>
-<b>Explanation:</b> In Uttar Pradesh, under the UP Kshettra Panchayats and Zila Panchayats Act, 1961, the intermediate (block) tier is officially called 'Kshetra Panchayat', headed by the Block Pramukh.
-</details>
-
-12. How many Nagar Nigams (Municipal Corporations) currently exist in Uttar Pradesh?
-   (A) 14
-   (B) 16
-   (C) 17
-   (D) 18
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) 17</b><br>
-<b>Explanation:</b> Uttar Pradesh currently has 17 Nagar Nigams. Shahjahanpur was upgraded as the 17th Municipal Corporation in 2018.
-</details>
 
 ---
 

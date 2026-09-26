@@ -316,127 +316,80 @@ Under the Central Government's Smart Cities Mission, **10 cities** of Uttar Prad
 
 ## Complete PYQ Bank (UPPCS)
 
-> UPPCS-mapped / Category A stems. Broader Extra Drill follows.
+> Verified stems from UPPCS Prelims (and closely related UP papers). Extra Drill follows.
 
-### Section A: Industries, Industrial Towns & ODOP
+**Q1. UPPCS (Pre) 2025**
+As per the ODOP scheme of Uttar Pradesh, Moonj products are associated with which districts?
+1. Amethi  2. Sultanpur  3. Sant Kabir Nagar
+A. 1 and 3
+B. 2 and 3
+C. Only 3
+D. 1 and 2
 
-1. In which district of Uttar Pradesh was India's first modern sugar mill established in 1903?
-   (A) Meerut
-   (B) Gorakhpur
-   (C) Deoria
-   (D) Muzaffarnagar
 <details>
 <summary>Show answer</summary>
-<b>Correct Answer: (C) Deoria</b><br>
-<b>Explanation:</b> India's first modern sugar mill was established in 1903 at Pratappur in Deoria district of Uttar Pradesh.
+
+**Logic:** Sant Kabir Nagar’s ODOP is brassware, not moonj — trap option.
+
+**Ans: D.** Amethi and Sultanpur.
+
 </details>
 
-2. Which of the following pairs is NOT correctly matched under the 'One District One Product' (ODOP) scheme of Uttar Pradesh?
-   (A) Amroha — Musical Instruments (Dholak)
-   (B) Baghpat — Wooden Toys
-   (C) Bhadohi — Handmade Carpets
-   (D) Kannauj — Attar (Perfume)
+**Q2. Standard UPPCS**
+One District One Product (ODOP) in UP was launched on:
+A. 1 May 2017
+B. 24 January 2018
+C. 15 August 2018
+D. 26 January 2019
+
 <details>
 <summary>Show answer</summary>
-<b>Correct Answer: (B) Baghpat — Wooden Toys</b><br>
-<b>Explanation:</b> Baghpat's designated ODOP product is 'Home Furnishings' (handloom bedsheets and fabrics). Wooden toys are the designated ODOP product for Chitrakoot and Varanasi.
+
+**Logic:** Covers all districts; Centre later echoed the district-product logic.
+
+**Ans: B.** 24 January 2018 (UP Diwas).
+
 </details>
 
-3. Which city of Uttar Pradesh is known worldwide as the "Leather City of the World" and was historically called the "Manchester of the East"?
-   (A) Agra
-   (B) Kanpur
-   (C) Meerut
-   (D) Varanasi
+**Q3. Standard UPPCS**
+Bundelkhand Expressway connects which of the following corridors?
+A. Meerut to Prayagraj
+B. Lucknow to Ghazipur
+C. Chitrakoot to Etawah (Agra–Lucknow Expressway junction)
+D. Greater Noida to Agra only
+
 <details>
 <summary>Show answer</summary>
-<b>Correct Answer: (B) Kanpur</b><br>
-<b>Explanation:</b> Kanpur earned the title "Manchester of the East" due to its British-era textile mills and "Leather City of the World" for its vast tanning, saddlery, and leather manufacturing industries.
+
+**Logic:** Ganga Expressway = Meerut–Prayagraj; Purvanchal = Lucknow–Ghazipur; Bundelkhand = Chitrakoot–Etawah.
+
+**Ans: C.** Chitrakoot to Etawah.
+
 </details>
 
-4. Under the ODOP scheme, 'Moonj products' are the designated flagship specialty of which pair of districts?
-   (A) Amethi and Sultanpur
-   (B) Sant Kabir Nagar and Basti
-   (C) Bareilly and Badaun
-   (D) Moradabad and Sambhal
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (A) Amethi and Sultanpur</b><br>
-<b>Explanation:</b> Moonj grass handicrafts (mats, baskets, containers) are the designated ODOP specialty of Amethi, Sultanpur, and Prayagraj districts.
-</details>
-
-5. The famous 'Indian Institute of Carpet Technology' (IICT) is situated in which district of Uttar Pradesh?
-   (A) Mirzapur
-   (B) Bhadohi
-   (C) Varanasi
-   (D) Sonbhadra
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Bhadohi</b><br>
-<b>Explanation:</b> The Indian Institute of Carpet Technology (IICT) was established by the Ministry of Textiles, Government of India, in 2001 at Bhadohi (Sant Ravidas Nagar) to provide technical support and human resources to the Indian carpet industry.
-</details>
 
 ---
 
 ## Ghatnachakra Extra Drill — Economy Industry Infrastructure
 
-Extra Drill rebuilt from mixed RO/ARO–BPSC–UPSC–coaching stems (not a full Purvalokan dump). Expand when the book is pasted.
+> Multi-exam / other-State PCS / standard coaching stems for the same topic map.
 
-### Section B: Minerals, Energy & Infrastructure
+**Q1. Standard UPPCS**
+Least industrially developed region of UP among the following is generally:
+A. Western UP
+B. Bundelkhand
+C. NCR fringe
+D. Meerut–Ghaziabad belt
 
-6. Which is the ONLY district in Uttar Pradesh where traces of Uranium deposits have been found?
-   (A) Sonbhadra
-   (B) Mirzapur
-   (C) Lalitpur
-   (D) Banda
 <details>
 <summary>Show answer</summary>
-<b>Correct Answer: (C) Lalitpur</b><br>
-<b>Explanation:</b> Lalitpur district in the Bundelkhand region is the only district in Uttar Pradesh where minor occurrences/traces of Uranium minerals and copper (Sonrai area) have been reported.
+
+**Logic:** Western UP/NCR is the industrial lead; Bundelkhand is the lagging trap.
+
+**Ans: B.** Bundelkhand.
+
 </details>
 
-7. The HINDALCO integrated aluminium smelting plant is located at Renukoot in which district of UP?
-   (A) Mirzapur
-   (B) Sonbhadra
-   (C) Chandauli
-   (D) Prayagraj
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Sonbhadra</b><br>
-<b>Explanation:</b> HINDALCO (Hindustan Aluminium Corporation) was set up at Renukoot in Sonbhadra district in 1962, taking advantage of cheap hydroelectric power from the nearby Rihand Dam and bauxite supplies.
-</details>
-
-8. The only operational nuclear power generating station in Uttar Pradesh is located at:
-   (A) Obra
-   (B) Panki
-   (C) Narora
-   (D) Parichha
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) Narora</b><br>
-<b>Explanation:</b> Narora Atomic Power Station (NAPS) is situated at Narora in Bulandshahr district on the banks of Ganga, operating two 220 MW Pressurized Heavy Water Reactors.
-</details>
-
-9. Which of the following cities of Uttar Pradesh is NOT among the 6 designated nodes of the UP Defence Industrial Corridor (UPDIC)?
-   (A) Aligarh
-   (B) Jhansi
-   (C) Meerut
-   (D) Chitrakoot
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) Meerut</b><br>
-<b>Explanation:</b> The 6 nodes of the UP Defence Industrial Corridor are: Aligarh, Agra, Kanpur, Chitrakoot, Jhansi, and Lucknow. Meerut is not one of the designated nodes.
-</details>
-
-10. The 340.8 km long Purvanchal Expressway does NOT pass through which of the following districts?
-   (A) Sultanpur
-   (B) Azamgarh
-   (C) Basti
-   (D) Mau
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) Basti</b><br>
-<b>Explanation:</b> The Purvanchal Expressway passes through 9 districts: Lucknow, Barabanki, Amethi, Sultanpur, Ayodhya, Ambedkar Nagar, Azamgarh, Mau, and Ghazipur. It does not pass through Basti or Gorakhpur.
-</details>
 
 ---
 

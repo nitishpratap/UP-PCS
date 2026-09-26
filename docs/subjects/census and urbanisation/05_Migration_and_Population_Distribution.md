@@ -179,142 +179,113 @@ UP district extremes also → [UP Special Topic 6](../up%20special/06_Society_Po
 
 ## Complete PYQ Bank (UPPCS)
 
-> UPPCS-mapped / Category A stems. Broader Extra Drill follows.
+> Verified stems from UPPCS Prelims (and closely related UP papers). Extra Drill follows.
 
-### Category A: Migration Streams, Causes & Gender Dynamics
+**Q1. UPPCS (Pre) 2018**
+Natural growth of population is the outcome of which of the following?
+A. Crude Birth Rate  B. Crude Death Rate  C. Migration  D. Marriages
+Select the correct answer from the codes:
+A. A and B
+B. B and C
+C. A, B and C
+D. A, B, C and D
 
-1. Which internal migration stream accounts for the largest proportion of total internal migrants in India?
-A. Rural to Urban  
-B. Urban to Urban  
-C. Rural to Rural  
-D. Urban to Rural  
 <details>
 <summary>Show answer</summary>
 
-**Ans: C. Rural to Rural**  
-**Logic:** Rural to Rural migration is the largest stream in India, accounting for over 53% of all internal migration, primarily driven by female marriage migration.
+**Logic:** Natural growth excludes migration. Marriage is not a vital rate in this sense.
+
+**Ans: A.** CBR and CDR only.
+
 </details>
 
-2. According to Census 2011, what is the single largest reason for female migration in India?
-A. Employment and Business  
-B. Education  
-C. Marriage  
-D. Housing and Relocation  
+**Q2. Standard UPPCS / demography**
+Which State is the largest source of inter-State out-migrants in India in Census analyses?
+A. Maharashtra
+B. Uttar Pradesh
+C. Kerala
+D. Goa
+
 <details>
 <summary>Show answer</summary>
 
-**Ans: C. Marriage**  
-**Logic:** Marriage accounts for 66.7% (two-thirds) of all female migration in India due to the traditional social practice of patrilocal village exogamy.
+**Logic:** Destination magnets: Maharashtra, Delhi, Gujarat — source belt: UP–Bihar.
+
+**Ans: B.** Uttar Pradesh (with Bihar).
+
 </details>
 
-3. Which Indian State is the largest recipient of inter-state in-migrants according to Census 2011?
-A. Uttar Pradesh  
-B. Maharashtra  
-C. Gujarat  
-D. Karnataka  
-<details>
-<summary>Show answer</summary>
-
-**Ans: B. Maharashtra**  
-**Logic:** Maharashtra attracts the largest number of inter-state migrants in India (approx. 20% of all inter-state migrants), drawn to the Mumbai Metropolitan Region, Pune, and Thane.
-</details>
-
-4. Which State in India is the largest source of net out-migrants to other States?
-A. Bihar  
-B. Uttar Pradesh  
-C. Rajasthan  
-D. West Bengal  
-<details>
-<summary>Show answer</summary>
-
-**Ans: B. Uttar Pradesh**  
-**Logic:** Uttar Pradesh has the largest absolute volume of net out-migrants in India, followed closely by Bihar.
-</details>
 
 ---
 
 ## Ghatnachakra Extra Drill — Migration and Population Distribution
 
-Extra Drill rebuilt from mixed RO/ARO–BPSC–UPSC–coaching stems (not a full Purvalokan dump). Expand when the book is pasted.
+> Multi-exam / other-State PCS / standard coaching stems for the same topic map.
 
-### Category B: Migration Theories & Geographic Principles
+**Q1. Standard multi-PSC**
+‘Push and pull factors’ in migration refer to:
+A. Only government policies
+B. Forces driving people from origin and attracting them to destination
+C. Only international migration
+D. Only economic factors
 
-5. Who propounded the seminal "Laws of Migration" in 1885?
-A. Everett S. Lee  
-B. E. G. Ravenstein  
-C. Wilbur Zelinsky  
-D. Thomas Malthus  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B. E. G. Ravenstein**  
-**Logic:** British cartographer and demographer E. G. Ravenstein formulated the foundational "Laws of Migration" in papers presented in 1885 and 1889.
+**Logic:** Poverty/drought push; jobs/education pull — Ravenstein/Lee framework.
+
+**Ans: B.** Push at origin + pull at destination.
+
 </details>
 
-6. The Push-Pull theory of migration was formulated by:
-A. E. G. Ravenstein  
-B. Everett S. Lee  
-C. Michael P. Todaro  
-D. David Ricardo  
+**Q2. Standard multi-PSC**
+According to Ravenstein, which group predominates in short-distance migration?
+A. Adult males
+B. Females
+C. Elderly
+D. Children under 15
+
 <details>
 <summary>Show answer</summary>
 
-**Ans: B. Everett S. Lee**  
-**Logic:** Everett S. Lee published *A Theory of Migration* in 1966, formalizing migration dynamics into push factors, pull factors, intervening obstacles, and personal factors.
+**Logic:** Long-distance streams historically more male-dominated — classic law pair.
+
+**Ans: B.** Females (marriage migration) in many short-distance streams.
+
 </details>
 
-7. The "Mobility Transition Model" linking patterns of spatial mobility with stages of demographic transition was developed by:
-A. Wilbur Zelinsky  
-B. Warren Thompson  
-C. Frank Notestein  
-D. Gunnar Myrdal  
+**Q3. Standard multi-PSC**
+In Census of India, the largest internal migration stream by volume is typically:
+A. Rural to Rural
+B. Urban to Urban
+C. Rural to Urban
+D. Urban to Rural
+
 <details>
 <summary>Show answer</summary>
 
-**Ans: A. Wilbur Zelinsky**  
-**Logic:** Wilbur Zelinsky introduced the Mobility Transition Model in 1971, demonstrating how human migration patterns evolve systematically as societies transition through demographic stages.
+**Logic:** R–U is more visible in media but R–R dominates absolute counts.
+
+**Ans: A.** Rural–Rural (especially marriage migration).
+
 </details>
 
----
+**Q4. UPPCS (Pre) 2024**
+Which of the following is the correct sequence of phases of Biotic succession?
+A. Ecesis – Migration – Reaction – Stabilisation
+B. Ecesis – Migration – Stabilisation – Reaction
+C. Migration – Reaction – Stabilisation – Ecesis
+D. Migration – Ecesis – Reaction – Stabilisation
 
-
-### Category C: Population Density Types & Spatial Distribution
-
-8. What is the formula for calculating Physiological Population Density?
-A. $rac{	ext{Total Population}}{	ext{Total Geographical Area}}$  
-B. $rac{	ext{Total Population}}{	ext{Net Cultivated / Arable Land Area}}$  
-C. $rac{	ext{Agricultural Workers}}{	ext{Total Cultivated Area}}$  
-D. $rac{	ext{Urban Population}}{	ext{Total Urban Area}}$  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B. $rac{	ext{Total Population}}{	ext{Net Cultivated / Arable Land Area}}$**  
-**Logic:** Physiological density (also called nutritional density) is the ratio of total population to net arable/cultivated land, measuring true population pressure on food supply.
+**Logic:** Ecological succession (species migration), not human migration — keep the word trap clear.
+
+**Ans: D.** Migration → Ecesis → Reaction → Stabilisation.
+
 </details>
 
-9. Which Indian State recorded the highest arithmetic population density in Census 2011?
-A. West Bengal  
-B. Kerala  
-C. Bihar  
-D. Uttar Pradesh  
-<details>
-<summary>Show answer</summary>
-
-**Ans: C. Bihar**  
-**Logic:** Bihar has the highest population density among Indian States with 1,106 persons per sq km, surpassing West Bengal (1,028 persons / sq km).
-</details>
-
-10. In Uttarakhand, which two districts recorded negative decadal population growth in Census 2011 due to severe out-migration?
-A. Almora and Pauri Garhwal  
-B. Chamoli and Rudraprayag  
-C. Tehri and Uttarkashi  
-D. Pithoragarh and Bageshwar  
-<details>
-<summary>Show answer</summary>
-
-**Ans: A. Almora and Pauri Garhwal**  
-**Logic:** Almora (-1.28%) and Pauri Garhwal (-1.41%) were the two hill districts in Uttarakhand that recorded negative decadal growth due to acute out-migration.
-</details>
 
 ---
 

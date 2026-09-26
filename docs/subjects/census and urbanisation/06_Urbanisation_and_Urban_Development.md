@@ -186,154 +186,111 @@ Under the Census of India, an Urban Area is defined through a two-fold classific
 
 ## Complete PYQ Bank (UPPCS)
 
-> UPPCS-mapped / Category A stems. Broader Extra Drill follows.
+> Verified stems from UPPCS Prelims (and closely related UP papers). Extra Drill follows.
 
-### Category A: Urbanisation Levels, Ranks & Disparities
+**Q1. UPPCS (Pre) 2020**
+Kanpur and Lucknow cities of UP became million cities as per the census of India in the year
+A. 1951 and 1961 respectively
+B. 1961 and 1971 respectively
+C. 1971 and 1981 respectively
+D. 1981 and 1991 respectively
 
-1. According to Census 2011, what is the percentage of urban population in India?
-A. 27.8%  
-B. 31.16% (approx. 31.2%)  
-C. 34.5%  
-D. 37.7%  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B. 31.16% (approx. 31.2%)**  
-**Logic:** As per Census 2011, 31.16% (37.71 Crore) of India's population lived in urban areas, while 68.84% lived in rural areas.
+**Logic:** Kanpur’s industrial growth crossed 10 lakh first; Lucknow followed a decade later.
+
+**Ans: C.** Kanpur 1971; Lucknow 1981.
+
 </details>
 
-2. Which is the most urbanised State in India according to Census 2011 in terms of percentage of urban population?
-A. Maharashtra  
-B. Tamil Nadu  
-C. Goa  
-D. Gujarat  
+**Q2. UPPCS (Pre) 2021**
+Which one of the following is known as acceleration stage in the urbanization curve?
+A. First stage
+B. Second stage
+C. Third stage
+D. Fourth stage
+
 <details>
 <summary>Show answer</summary>
 
-**Ans: C. Goa**  
-**Logic:** Goa is the most urbanised State with 62.2% of its population residing in urban areas, followed by Mizoram (52.1%) and Tamil Nadu (48.4%).
+**Logic:** Urbanisation curve: slow start → acceleration → saturation; acceleration = third stage in the standard PCS diagram.
+
+**Ans: C.** Third stage.
+
 </details>
 
-3. Which Indian State has the lowest percentage of urban population according to Census 2011?
-A. Bihar  
-B. Assam  
-C. Himachal Pradesh  
-D. Odisha  
+**Q3. UPPCS (Pre) 2022**
+The idea of ‘Rurbanization’ was elaborated by which one of the following sociologists?
+A. M. N. Srinivas
+B. Yogendra Singh
+C. G. S. Ghurye
+D. H. Spencer
+
 <details>
 <summary>Show answer</summary>
 
-**Ans: C. Himachal Pradesh**  
-**Logic:** Himachal Pradesh has the lowest percentage of urban population at only 10.0%, followed by Bihar (11.3%).
+**Logic:** Srinivas is the trap (Sanskritisation/village studies). Ghurye elaborated the Indian rurban continuum.
+
+**Ans: C.** G. S. Ghurye (Anatomy of a Rururban Community, 1963).
+
 </details>
 
-4. Which State in India has the largest absolute urban population?
-A. Uttar Pradesh  
-B. Maharashtra  
-C. Tamil Nadu  
-D. West Bengal  
-<details>
-<summary>Show answer</summary>
-
-**Ans: B. Maharashtra**  
-**Logic:** Maharashtra has the largest urban population in India in absolute terms with 5.08 Crore urban residents, followed by Uttar Pradesh (4.45 Crore).
-</details>
 
 ---
 
 ## Ghatnachakra Extra Drill — Urbanisation and Urban Development
 
-Extra Drill rebuilt from mixed RO/ARO–BPSC–UPSC–coaching stems (not a full Purvalokan dump). Expand when the book is pasted.
+> Multi-exam / other-State PCS / standard coaching stems for the same topic map.
 
-### Category B: Census Town Criteria & Town Classification
+**Q1. MPPSC (Pre) 2021**
+According to Census 2011, urbanisation level of India was about:
+A. 25%
+B. 28%
+C. 31%
+D. 35%
 
-5. Which of the following is NOT one of the three criteria required to classify a settlement as a 'Census Town' in India?
-A. Minimum population of 5,000  
-B. At least 75% of the male main working population engaged in non-agricultural pursuits  
-C. Density of population of at least 400 persons per square kilometer  
-D. Presence of a Municipal Corporation established by State law  
 <details>
 <summary>Show answer</summary>
 
-**Ans: D. Presence of a Municipal Corporation established by State law**  
-**Logic:** Presence of a municipality makes a town a 'Statutory Town'. A 'Census Town' is a non-statutory settlement satisfying: (1) Pop $\ge 5,000$, (2) $\ge 75\%$ male non-agri workers, and (3) Density $\ge 400/	ext{km}²$.
+**Logic:** 31.16% urban; Goa/Mizoram/TN high; Himachal/Bihar low among major States.
+
+**Ans: C.** ~31%.
+
 </details>
 
-6. In Census terminology, a 'Class I Town' (City) must have a minimum population of:
-A. 50,000  
-B. 100,000 (1 Lakh)  
-C. 500,000 (5 Lakh)  
-D. 1,000,000 (10 Lakh)  
+**Q2. Standard multi-PSC**
+A Census Town must satisfy which set?
+A. Only population ≥5,000
+B. Population ≥5,000; density ≥400/km²; ≥75% male main workers in non-agricultural pursuits
+C. Only a municipality
+D. Only density ≥400
+
 <details>
 <summary>Show answer</summary>
 
-**Ans: B. 100,000 (1 Lakh)**  
-**Logic:** Towns with a population of 100,000 (1 Lakh) and above are classified as Class I Towns or Cities.
+**Logic:** Statutory towns vs census towns is a permanent confused pair.
+
+**Ans: B.** All three statutory Census Town criteria.
+
 </details>
 
-7. How many Million-Plus Urban Agglomerations / Cities were recorded in India in Census 2011?
-A. 35  
-B. 45  
-C. 53  
-D. 65  
+**Q3. Standard multi-PSC**
+Largest urban agglomeration in Census 2011 was:
+A. Delhi
+B. Mumbai
+C. Kolkata
+D. Chennai
+
 <details>
 <summary>Show answer</summary>
 
-**Ans: C. 53**  
-**Logic:** There were 53 Million-Plus Cities/UAs in India in Census 2011, an increase from 35 recorded in Census 2001.
+**Logic:** Delhi NCT/UA ranking debates appear later; 2011 UA table tops with Mumbai.
+
+**Ans: B.** Greater Mumbai UA.
+
 </details>
 
-8. How many Million-Plus cities are located in the State of Uttar Pradesh as per Census 2011?
-A. 5  
-B. 7  
-C. 9  
-D. 12  
-<details>
-<summary>Show answer</summary>
-
-**Ans: B. 7**  
-**Logic:** Uttar Pradesh has 7 Million-Plus cities: Kanpur, Lucknow, Ghaziabad, Agra, Varanasi, Meerut, and Prayagraj (Allahabad).
-</details>
-
----
-
-
-### Category C: Constitutional Governance (74th Amendment) & Schemes
-
-9. The 74th Constitutional Amendment Act, 1992 added which Schedule to the Constitution of India?
-A. Tenth Schedule  
-B. Eleventh Schedule  
-C. Twelfth Schedule  
-D. Ninth Schedule  
-<details>
-<summary>Show answer</summary>
-
-**Ans: C. Twelfth Schedule**  
-**Logic:** The 74th Amendment Act added the Twelfth Schedule containing 18 functional items for Municipalities (the 73rd Amendment added the Eleventh Schedule with 29 items for Panchayats).
-</details>
-
-10. Under Article 243S of the Constitution, the establishment of Wards Committees is mandatory in municipalities having a population of:
-A. 1 Lakh or more  
-B. 3 Lakh or more  
-C. 5 Lakh or more  
-D. 10 Lakh or more  
-<details>
-<summary>Show answer</summary>
-
-**Ans: B. 3 Lakh or more**  
-**Logic:** Article 243S provides for the constitution and composition of Wards Committees in all municipalities having a population of three lakh or more.
-</details>
-
-11. Under Article 243ZD of the Constitution, what proportion of members of a District Planning Committee (DPC) must be elected by and from the elected members of the district panchayat and municipalities?
-A. Two-thirds (66.7%)  
-B. Three-fourths (75%)  
-C. Four-fifths (80%)  
-D. Half (50%)  
-<details>
-<summary>Show answer</summary>
-
-**Ans: C. Four-fifths (80%)**  
-**Logic:** Article 243ZD(2)(b) mandates that not less than four-fifths (80%) of the total number of members of the DPC shall be elected by the elected members of the Zila Panchayat and Municipalities.
-</details>
 
 ---
 

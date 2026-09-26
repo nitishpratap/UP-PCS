@@ -201,166 +201,129 @@ Developed by British economist **Edwin Cannan** (1924) in *Wealth*, the Optimum 
 
 ## Complete PYQ Bank (UPPCS)
 
-> UPPCS-mapped / Category A stems. Broader Extra Drill follows.
+> Verified stems from UPPCS Prelims (and closely related UP papers). Extra Drill follows.
 
-### Category A: Malthusian Population Theory & Critics
+**Q1. UPPCS (Pre) 2024**
+Malthus argued that population grows in a ______ progression, while food supply grows in a ______ progression.
+A. Linear, Exponential
+B. Exponential, Linear
+C. Arithmetic, Geometric
+D. Geometric, Arithmetic
 
-1. According to the Malthusian Theory of Population, food production increases in:
-A. Geometric Progression  
-B. Arithmetic Progression  
-C. Exponential Progression  
-D. Harmonic Progression  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B. Arithmetic Progression**  
-**Logic:** Thomas Robert Malthus stated in 1798 that while human population increases in geometric progression ($1, 2, 4, 8, 16...$), food production can only increase in arithmetic progression ($1, 2, 3, 4, 5...$).
+**Logic:** Classic Malthus: population geometric; food arithmetic — leading to positive/preventive checks.
+
+**Ans: D.** Geometric (population) and Arithmetic (food).
+
 </details>
 
-2. Which of the following is categorized as a "Positive Check" in Malthusian population theory?
-A. Moral restraint  
-B. Celibacy  
-C. Epidemics and Famines  
-D. Late marriage  
+**Q2. UPPCS (Pre) 2022**
+T. Malthus propounded ‘The Malthusian Theory’, which is related to—
+A. Economy
+B. Population
+C. Unemployment
+D. Poverty
+
 <details>
 <summary>Show answer</summary>
 
-**Ans: C. Epidemics and Famines**  
-**Logic:** In Malthus's terminology, positive checks are factors that increase the mortality rate naturally (famines, diseases, plagues, wars), while preventive checks are voluntary actions that reduce birth rates (moral restraint, celibacy, delayed marriage).
+**Logic:** Essay on the Principle of Population (1798) is the population-theory staple in PCS papers.
+
+**Ans: B.** Population.
+
 </details>
 
-3. Who authored the famous classical work *An Essay on the Principle of Population* published in 1798?
-A. David Ricardo  
-B. Adam Smith  
-C. Thomas Robert Malthus  
-D. Karl Marx  
+**Q3. UPPCS (Pre) 2022**
+The demographic dividend is—
+A. Working population of above 60 years
+B. Working population of 14 to 50 years
+C. 0–6 years population
+D. Working population of 15 to 59 years
+
 <details>
 <summary>Show answer</summary>
 
-**Ans: C. Thomas Robert Malthus**  
-**Logic:** Thomas Robert Malthus, an English political economist and clergyman, published the landmark essay anonymously in 1798.
+**Logic:** Dividend arises when working-age share rises relative to dependents — not the child or elderly share alone.
+
+**Ans: D.** Working-age share roughly 15–59 years.
+
 </details>
 
-4. Which demographic scholar propounded that population growth stimulates agricultural innovation and technological change?
-A. Thomas Malthus  
-B. Ester Boserup  
-C. Paul Ehrlich  
-D. Frank Notestein  
+**Q4. UPPCS (Pre) 2018**
+Natural growth of population is the outcome of which of the following?
+A. Crude Birth Rate  B. Crude Death Rate  C. Migration  D. Marriages
+Select the correct answer from the codes:
+A. A and B
+B. B and C
+C. A, B and C
+D. A, B, C and D
+
 <details>
 <summary>Show answer</summary>
 
-**Ans: B. Ester Boserup**  
-**Logic:** Danish economist Ester Boserup in *The Conditions of Agricultural Growth* (1965) proposed that population pressure forces societies to innovate and intensify agricultural techniques, rejecting Malthusian doom.
+**Logic:** Natural growth = births − deaths. Migration changes population size but is not natural increase.
+
+**Ans: A.** CBR and CDR (natural increase); migration is not ‘natural’ growth.
+
 </details>
+
 
 ---
 
 ## Ghatnachakra Extra Drill — Population Growth Demographic Transition Theories
 
-Extra Drill rebuilt from mixed RO/ARO–BPSC–UPSC–coaching stems (not a full Purvalokan dump). Expand when the book is pasted.
+> Multi-exam / other-State PCS / standard coaching stems for the same topic map.
 
-### Category B: Demographic Transition Theory (DTT)
+**Q1. Standard multi-PSC**
+In Demographic Transition Theory, Stage 2 is characterised by:
+A. High birth rate, high death rate
+B. High birth rate, falling death rate
+C. Falling birth rate, low death rate
+D. Low birth and death rates
 
-5. The Demographic Transition Theory was originally formulated by:
-A. Warren S. Thompson  
-B. Frank W. Notestein  
-C. Thomas Malthus  
-D. Edwin Cannan  
 <details>
 <summary>Show answer</summary>
 
-**Ans: A. Warren S. Thompson**  
-**Logic:** Warren S. Thompson first put forward the concept of demographic transition in 1929 based on mortality and fertility trends in industrialized countries. It was later expanded by Frank W. Notestein in 1945.
+**Logic:** Stage 1 both high; Stage 3 fertility falls; Stage 4 both low.
+
+**Ans: B.** High fertility with declining mortality → rapid growth.
+
 </details>
 
-6. In which stage of the Demographic Transition does a "Population Explosion" occur?
-A. Stage 1 (High Stationary)  
-B. Stage 2 (Early Expanding)  
-C. Stage 3 (Late Expanding)  
-D. Stage 4 (Low Stationary)  
+**Q2. Standard multi-PSC**
+Who is associated with the Optimum Population Theory?
+A. Malthus
+B. Edwin Cannan / Carr-Saunders (optimum school)
+C. Marx
+D. Ricardo only
+
 <details>
 <summary>Show answer</summary>
 
-**Ans: B. Stage 2 (Early Expanding)**  
-**Logic:** Population explosion occurs in Stage 2 when death rates drop dramatically due to modern medicine, sanitation, and disease control, while birth rates remain stubbornly high.
+**Logic:** Optimum theory maximises per-capita income at a population size — distinct from Malthusian checks.
+
+**Ans: B.** Optimum population school (Cannan et al.).
+
 </details>
 
-7. At present, India is passing through which stage of the Demographic Transition?
-A. Stage 1: High birth rate and high death rate  
-B. Stage 2: High birth rate and rapidly falling death rate  
-C. Stage 3: Rapidly declining birth rate and low death rate  
-D. Stage 4: Low birth rate and low death rate  
+**Q3. Standard multi-PSC**
+Karl Marx’s critique of Malthus mainly argued that:
+A. Food grows faster than population
+B. Poverty is due to capitalist relations, not natural population law
+C. Population should be stationary always
+D. Migration alone explains poverty
+
 <details>
 <summary>Show answer</summary>
 
-**Ans: C. Stage 3: Rapidly declining birth rate and low death rate**  
-**Logic:** India has transitioned into Stage 3 (Late Expanding Phase), characterized by rapidly falling birth rates (TFR has fallen to 2.0) and low stable death rates (~7 per 1000).
+**Logic:** Marx rejected a universal natural ‘population law’ independent of production relations.
+
+**Ans: B.** Poverty is socially produced under capitalism.
+
 </details>
 
-8. A country with low birth rate and low death rate leading to zero or near-zero population growth is in which stage of demographic transition?
-A. Stage 1  
-B. Stage 2  
-C. Stage 3  
-D. Stage 4  
-<details>
-<summary>Show answer</summary>
-
-**Ans: D. Stage 4**  
-**Logic:** Stage 4 (Low Stationary) is characterized by low birth rates matching low death rates, resulting in a stable population (common in mature developed economies).
-</details>
-
----
-
-
-### Category C: Optimum Population Theory & Demographic Phases in India
-
-9. The Optimum Theory of Population was propounded by:
-A. Thomas Malthus  
-B. Edwin Cannan  
-C. Karl Marx  
-D. Julian Simon  
-<details>
-<summary>Show answer</summary>
-
-**Ans: B. Edwin Cannan**  
-**Logic:** Edwin Cannan introduced the Optimum Theory of Population in his book *Wealth* (1924), defining optimum population as that size which maximizes real per capita income.
-</details>
-
-10. In Hugh Dalton's formula for population maladjustment $M = (A - O) / O$, what does $M > 0$ indicate?
-A. Underpopulation  
-B. Overpopulation  
-C. Optimum population  
-D. Zero population growth  
-<details>
-<summary>Show answer</summary>
-
-**Ans: B. Overpopulation**  
-**Logic:** When Actual Population ($A$) is greater than Optimum Population ($O$), $M$ is positive ($M > 0$), signifying that the country is overpopulated.
-</details>
-
-11. Why is the year 1921 called the "Year of the Great Divide" in Indian demographic history?
-A. India's population crossed 500 million  
-B. Birth rate fell below death rate for the first and only time, showing negative growth  
-C. Urban population surpassed rural population  
-D. First decennial census was conducted  
-<details>
-<summary>Show answer</summary>
-
-**Ans: B. Birth rate fell below death rate for the first and only time, showing negative growth**  
-**Logic:** In the 1911–1921 decade, India recorded negative population growth (-0.31%) due to the 1918 Spanish Flu pandemic and famines. After 1921, India's population grew continuously.
-</details>
-
-12. In which decade did India record its highest decadal population growth rate in census history?
-A. 1951–1961  
-B. 1961–1971  
-C. 1971–1981  
-D. 1981–1991  
-<details>
-<summary>Show answer</summary>
-
-**Ans: B. 1961–1971**  
-**Logic:** India's decadal population growth rate reached its historical peak of 24.80% during the decade 1961–1971.
-</details>
 
 ---
 

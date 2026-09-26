@@ -243,132 +243,63 @@ Launched to incentivize girl child birth, prevent female feticide, ensure 100% i
 
 ## Complete PYQ Bank (UPPCS)
 
-> UPPCS-mapped / Category A stems. Broader Extra Drill follows.
+> Verified stems from UPPCS Prelims (and closely related UP papers). Extra Drill follows.
 
-### Section A: State Symbols, Emblem & Statehood
+**Q1. UPPCS (Pre) 2025**
+As per ODOP of Uttar Pradesh, Moonj products are associated with:
+A. Amethi & Sultanpur
+B. Only Sant Kabir Nagar
+C. Only Varanasi
+D. Only Meerut
 
-1. The official State Seal (Emblem) of Uttar Pradesh contains which of the following symbols?
-   (A) Bow-Arrow, Pair of Fish, Three Flowing Waves
-   (B) Elephant, Lion, Ashoka Chakra
-   (C) Tiger, Sun, Ganga River
-   (D) Bull, Lotus, Trident
 <details>
 <summary>Show answer</summary>
-<b>Correct Answer: (A) Bow-Arrow, Pair of Fish, Three Flowing Waves</b><br>
-<b>Explanation:</b> The State Emblem of UP (adopted in 1938) features a Bow and Arrow (representing Lord Rama), a Pair of Fish (representing the Awadh Nawabs), and three wave lines (representing the Triveni Sangam of Ganga, Yamuna, and Saraswati).
+
+**Logic:** Launch date 24 Jan 2018 — pair with scheme CA.
+
+**Ans: A.** Amethi and Sultanpur.
+
 </details>
 
-2. Which of the following is the official State Bird of Uttar Pradesh?
-   (A) Great Indian Bustard
-   (B) Sarus Crane
-   (C) House Sparrow
-   (D) Indian Roller
+**Q2. Standard UPPCS**
+State Emblem of Uttar Pradesh features:
+A. Only Ashoka Chakra
+B. Pair of fishes (matsya) with bow–arrow motif from Awadh legacy
+C. Only tiger
+D. Only lotus
+
 <details>
 <summary>Show answer</summary>
-<b>Correct Answer: (B) Sarus Crane</b><br>
-<b>Explanation:</b> The Sarus Crane (*Antigone antigone*) is the official State Bird of Uttar Pradesh. UP hosts over 70% of India's total Sarus crane population, heavily concentrated in the wetlands of Mainpuri and Etawah.
+
+**Logic:** Don’t confuse with national Lion Capital.
+
+**Ans: B.** Twin fish emblem from Awadh heraldry.
+
 </details>
 
-3. The official 'Uttar Pradesh Diwas' (UP Day) is celebrated annually on which date?
-   (A) 1 November
-   (B) 24 January
-   (C) 26 January
-   (D) 15 August
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) 24 January</b><br>
-<b>Explanation:</b> UP Diwas is celebrated on 24 January because on 24 January 1950, the Governor-General of India issued the United Provinces (Alteration of Name) Order, 1950, renaming United Provinces as 'Uttar Pradesh'.
-</details>
-
-4. In which year was 'Palash' (*Butea monosperma*) officially declared as the State Flower of Uttar Pradesh?
-   (A) 2000
-   (B) 2005
-   (C) 2011
-   (D) 2018
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) 2011</b><br>
-<b>Explanation:</b> Palash (also called Dhak, Tesu, or Flame of the Forest) was declared the State Flower of Uttar Pradesh on 4 January 2011, replacing Brahmakamal.
-</details>
 
 ---
 
 ## Ghatnachakra Extra Drill — Current Affairs Schemes Miscellaneous
 
-Extra Drill rebuilt from mixed RO/ARO–BPSC–UPSC–coaching stems (not a full Purvalokan dump). Expand when the book is pasted.
+> Multi-exam / other-State PCS / standard coaching stems for the same topic map.
 
-### Section B: Government Schemes & Welfare Missions
+**Q1. Standard UPPCS**
+National Milk Day (26 Nov) commemorates:
+A. C.V. Raman
+B. Verghese Kurien
+C. M.S. Swaminathan
+D. Homi Bhabha
 
-5. Under the 'Mukhyamantri Kanya Sumangala Yojana', financial assistance to eligible girl children is disbursed across how many distinct stages?
-   (A) 4 Stages
-   (B) 5 Stages
-   (C) 6 Stages
-   (D) 8 Stages
 <details>
 <summary>Show answer</summary>
-<b>Correct Answer: (C) 6 Stages</b><br>
-<b>Explanation:</b> Kanya Sumangala Yojana disburses financial assistance in 6 stages: (1) at birth, (2) after complete vaccination, (3) admission to Class 1, (4) admission to Class 6, (5) admission to Class 9, and (6) on enrollment in undergraduate degree/diploma (total support enhanced to ₹25,000).
+
+**Logic:** Also Constitution Day — twin observance trap.
+
+**Ans: B.** Verghese Kurien (White Revolution).
+
 </details>
 
-6. The 'Mukhyamantri Abhyudaya Yojana' was launched by the Government of Uttar Pradesh to provide:
-   (A) Free housing for slum dwellers
-   (B) Free competitive examination coaching for underprivileged students
-   (C) Subsidized solar water pumps for small farmers
-   (D) Free medical insurance for senior citizens
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Free competitive examination coaching for underprivileged students</b><br>
-<b>Explanation:</b> Mukhyamantri Abhyudaya Yojana was launched in February 2021 by the Social Welfare Department to provide free coaching, study materials, and tablet computers to students preparing for UPSC, UPPSC, NEET, JEE, and other competitive examinations.
-</details>
-
-7. Which of the following is NOT a component scheme under the 'Nand Baba Milk Mission' launched in 2023?
-   (A) Nandini Krishak Samriddhi Yojana
-   (B) Mukhyamantri Swadeshi Gau-Samvardhan Yojana
-   (C) Kamdhenu Dairy Yojana
-   (D) Mukhyamantri Pragatisheel Pashupalak Protsahan Yojana
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) Kamdhenu Dairy Yojana</b><br>
-<b>Explanation:</b> The Nand Baba Milk Mission includes Nandini Krishak Samriddhi Yojana, Mukhyamantri Swadeshi Gau-Samvardhan Yojana, and Mukhyamantri Pragatisheel Pashupalak Protsahan Yojana. Kamdhenu Dairy Yojana is an older standalone scheme.
-</details>
-
-8. The 'Vishwakarma Shram Samman Yojana' in Uttar Pradesh is targeted at providing training and toolkits to:
-   (A) Software Engineers
-   (B) Traditional rural and urban artisans and craftsmen
-   (C) Primary school teachers
-   (D) Civil service aspirants
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Traditional rural and urban artisans and craftsmen</b><br>
-<b>Explanation:</b> Vishwakarma Shram Samman Yojana provides 6-day skill upgradation training, free modern toolkits, and bank credit linkages to traditional artisans like carpenters, blacksmiths, barbers, cobblers, tailors, and potters.
-</details>
-
----
-
-
-### Section C: Honors, Firsts & District Epithets
-
-9. The highest literary award conferred by the Uttar Pradesh Hindi Sansthan is:
-   (A) Yash Bharti
-   (B) Bharat Bharti Puraskar
-   (C) Saraswati Samman
-   (D) Jnanpith Award
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Bharat Bharti Puraskar</b><br>
-<b>Explanation:</b> Bharat Bharti Puraskar is the highest literary honor conferred by the UP Hindi Sansthan (Lucknow), carrying a cash prize of ₹8 Lakh. Mahadevi Varma was its first recipient in 1982.
-</details>
-
-10. Which city in Uttar Pradesh is known internationally as the "Grasse of the East" and "Attar Nagari"?
-   (A) Kannauj
-   (B) Bareilly
-   (C) Moradabad
-   (D) Firozabad
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (A) Kannauj</b><br>
-<b>Explanation:</b> Kannauj is famous worldwide for traditional steam-distilled natural perfumes (*Attar*), earning it the moniker "Attar Nagari" and the "Grasse of the East" (after the perfume capital Grasse in France).
-</details>
 
 ---
 

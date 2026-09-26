@@ -184,142 +184,96 @@ UP district extremes also → [UP Special Topic 6](../up%20special/06_Society_Po
 
 ## Complete PYQ Bank (UPPCS)
 
-> UPPCS-mapped / Category A stems. Broader Extra Drill follows.
+> Verified stems from UPPCS Prelims (and closely related UP papers). Extra Drill follows.
 
-### Category A: Global Population Ranks, Density & Distribution
+**Q1. UPPCS (Pre) 2021**
+Which among the following organisations released the World Population Report, 2021?
+A. International Monetary Fund
+B. United Nations Population Fund
+C. World Health Organisation
+D. United Nations Development Programme
 
-1. World Population Day is observed every year on:
-A. 11 July  
-B. 5 June  
-C. 1 December  
-D. 10 December  
 <details>
 <summary>Show answer</summary>
 
-**Ans: A. 11 July**  
-**Logic:** World Population Day is observed on 11 July every year to focus attention on the urgency and importance of population issues (established in 1989 to mark the Day of 5 Billion on 11 July 1987).
+**Logic:** State of World Population is UNFPA’s flagship — not UNDP HDR or WHO.
+
+**Ans: B.** UNFPA.
+
 </details>
 
-2. According to United Nations demographic estimates, on which date did the global population cross the 8 Billion milestone?
-A. 31 October 2011  
-B. 11 July 2020  
-C. 15 November 2022  
-D. 1 January 2024  
+**Q2. UPPCS (Pre) 2018**
+World Population Day is observed on
+A. 11 July
+B. 8 May
+C. 5 June
+D. 16 October
+
 <details>
 <summary>Show answer</summary>
 
-**Ans: C. 15 November 2022**  
-**Logic:** The United Nations designated 15 November 2022 as the "Day of Eight Billion", marking the official milestone when human population crossed 8,000,000,000.
+**Logic:** Commemorates the Day of Five Billion (1987).
+
+**Ans: A.** 11 July.
+
 </details>
 
-3. Which continent accounts for approximately 60% of the total human population on Earth?
-A. Africa  
-B. Asia  
-C. Europe  
-D. North America  
+**Q3. UPPCS (Pre) 2025**
+Assertion (A): India’s success is critical for the global success of Sustainable Development Goals.
+Reason (R): India accounts for nearly one-sixth of the total world population.
+A. Both A and R true; R not correct explanation of A
+B. A false, R true
+C. A true, R false
+D. Both true and R explains A
+
 <details>
 <summary>Show answer</summary>
 
-**Ans: B. Asia**  
-**Logic:** Asia is home to over 4.8 Billion people, representing roughly 60% of the global population.
+**Logic:** India’s demographic weight makes SDG averages globally sensitive to Indian outcomes.
+
+**Ans: D.** Both true and R explains A (large population share).
+
 </details>
 
-4. Which is the least densely populated sovereign nation in the world?
-A. Australia  
-B. Canada  
-C. Mongolia  
-D. Iceland  
-<details>
-<summary>Show answer</summary>
-
-**Ans: C. Mongolia**  
-**Logic:** Mongolia has an average population density of only ~2.1 persons per square kilometer, making it the least densely populated sovereign country.
-</details>
 
 ---
 
 ## Ghatnachakra Extra Drill — World Population and Demographic Misc
 
-Extra Drill rebuilt from mixed RO/ARO–BPSC–UPSC–coaching stems (not a full Purvalokan dump). Expand when the book is pasted.
+> Multi-exam / other-State PCS / standard coaching stems for the same topic map.
 
-### Category B: UN Conferences & Declarations
+**Q1. Standard multi-PSC**
+Which continent has the highest population?
+A. Africa
+B. Europe
+C. Asia
+D. North America
 
-5. The famous statement "Development is the best contraceptive" was voiced by the Indian delegation at which World Population Conference?
-A. Rome Conference, 1954  
-B. Belgrade Conference, 1965  
-C. Bucharest Conference, 1974  
-D. Cairo Conference, 1994  
 <details>
 <summary>Show answer</summary>
 
-**Ans: C. Bucharest Conference, 1974**  
-**Logic:** Dr. Karan Singh, heading the Indian delegation at the 1974 UN World Population Conference in Bucharest, Romania, coined this phrase to emphasize that economic development inherently leads to lower fertility.
+**Logic:** Asia holds ~60% of world population; Africa has fastest growth.
+
+**Ans: C.** Asia.
+
 </details>
 
-6. The landmark International Conference on Population and Development (ICPD) which established reproductive rights and women's empowerment as central to population policy was held in 1994 at:
-A. Mexico City  
-B. Cairo  
-C. Beijing  
-D. Copenhagen  
+**Q2. Standard multi-PSC**
+The statement ‘Development is the best contraceptive’ is associated with which conference spirit?
+A. Bucharest 1974 debates / later Cairo ICPD framing
+B. Bretton Woods
+C. Kyoto only
+D. Antarctic Treaty
+
 <details>
 <summary>Show answer</summary>
 
-**Ans: B. Cairo**  
-**Logic:** The ICPD was convened by the UN in Cairo, Egypt, in September 1994, resulting in the Cairo Programme of Action.
+**Logic:** ICPD Cairo 1994 shifted to reproductive rights and development approach.
+
+**Ans: A.** Population–development linkage from 1970s–90s UN population conferences.
+
 </details>
 
----
-
-
-### Category C: Reports, Publishers & Milestone Days
-
-7. The *State of World Population* report is released annually by which organization?
-A. World Bank  
-B. United Nations Population Fund (UNFPA)  
-C. World Health Organization (WHO)  
-D. United Nations Development Programme (UNDP)  
-<details>
-<summary>Show answer</summary>
-
-**Ans: B. United Nations Population Fund (UNFPA)**  
-**Logic:** The *State of World Population* (SWOP) report is the annual flagship publication of the United Nations Population Fund (UNFPA).
-</details>
-
-8. The International Institute for Population Sciences (IIPS) is located in:
-A. New Delhi  
-B. Mumbai  
-C. Kolkata  
-D. Chennai  
-<details>
-<summary>Show answer</summary>
-
-**Ans: B. Mumbai**  
-**Logic:** IIPS is located in Deonar, Mumbai (established in 1956) as the premier regional institute for demographic research and training.
-</details>
-
-9. When is 'World Health Day' celebrated across the globe?
-A. 15 March  
-B. 7 April  
-C. 22 April  
-D. 5 June  
-<details>
-<summary>Show answer</summary>
-
-**Ans: B. 7 April**  
-**Logic:** World Health Day is celebrated every year on 7 April to mark the anniversary of the founding of the World Health Organization (WHO) in 1948.
-</details>
-
-10. Which country in the world recorded the lowest Total Fertility Rate (TFR) in recent years (dropping to 0.72)?
-A. Japan  
-B. Singapore  
-C. South Korea  
-D. Italy  
-<details>
-<summary>Show answer</summary>
-
-**Ans: C. South Korea**  
-**Logic:** South Korea has the lowest TFR in the world, plummeting to an unprecedented 0.72 children per woman in 2023.
-</details>
 
 ---
 

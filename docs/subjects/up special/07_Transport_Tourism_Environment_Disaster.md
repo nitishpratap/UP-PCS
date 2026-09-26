@@ -265,132 +265,63 @@ The Uttar Pradesh Tourism Policy structures state tourism promotion into special
 
 ## Complete PYQ Bank (UPPCS)
 
-> UPPCS-mapped / Category A stems. Broader Extra Drill follows.
+> Verified stems from UPPCS Prelims (and closely related UP papers). Extra Drill follows.
 
-### Section A: National Parks, Sanctuaries & Forests
+**Q1. UPPCS (Pre) 2022**
+Dudhwa National Park is situated in which of the following districts of Uttar Pradesh?
+A. Lakhimpur Kheri
+B. Pilibhit
+C. Bahraich
+D. Sharavasti
 
-1. Which is the ONLY National Park situated in the state of Uttar Pradesh?
-   (A) Jim Corbett National Park
-   (B) Dudhwa National Park
-   (C) Rajaji National Park
-   (D) Valmiki National Park
 <details>
 <summary>Show answer</summary>
-<b>Correct Answer: (B) Dudhwa National Park</b><br>
-<b>Explanation:</b> Dudhwa National Park in Lakhimpur Kheri district is the only National Park in UP (declared in 1977). Corbett and Rajaji are in Uttarakhand; Valmiki is in Bihar.
+
+**Logic:** Only NP in UP; Tiger Reserve later includes Kishanpur & Katarniaghat units.
+
+**Ans: A.** Lakhimpur Kheri.
+
 </details>
 
-2. The oldest wildlife sanctuary in Uttar Pradesh, established in 1957, is:
-   (A) Hastinapur Wildlife Sanctuary
-   (B) Chandraprabha Wildlife Sanctuary
-   (C) Katarniaghat Wildlife Sanctuary
-   (D) Kishanpur Wildlife Sanctuary
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Chandraprabha Wildlife Sanctuary</b><br>
-<b>Explanation:</b> Chandraprabha Wildlife Sanctuary in Chandauli district was established in 1957, making it the oldest wildlife sanctuary in Uttar Pradesh.
-</details>
-
-3. In which district of Uttar Pradesh is the 'Katarniaghat Wildlife Sanctuary' situated?
-   (A) Lakhimpur Kheri
-   (B) Pilibhit
-   (C) Bahraich
-   (D) Gonda
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) Bahraich</b><br>
-<b>Explanation:</b> Katarniaghat Wildlife Sanctuary is located in Bahraich district in the Terai belt along the Girwa River, established in 1975 and covering 400 km².
-</details>
-
-4. According to the India State of Forest Report (ISFR), which district of Uttar Pradesh has the HIGHEST percentage of forest cover?
-   (A) Chandauli
-   (B) Mirzapur
-   (C) Sonbhadra
-   (D) Chitrakoot
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) Sonbhadra</b><br>
-<b>Explanation:</b> Sonbhadra district has the highest forest cover in Uttar Pradesh with 2,528 km² under forest, accounting for 35.29% of its geographical area, followed by Chandauli (21.78%).
-</details>
-
-5. Which district of Uttar Pradesh has the LOWEST forest cover percentage?
-   (A) Bhadohi (Sant Ravidas Nagar)
-   (B) Mainpuri
-   (C) Deoria
-   (D) Mau
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (A) Bhadohi (Sant Ravidas Nagar)</b><br>
-<b>Explanation:</b> Bhadohi has the lowest forest cover in UP at just 3.71 km² (0.37% of its total area).
-</details>
 
 ---
 
 ## Ghatnachakra Extra Drill — Transport Tourism Environment Disaster
 
-Extra Drill rebuilt from mixed RO/ARO–BPSC–UPSC–coaching stems (not a full Purvalokan dump). Expand when the book is pasted.
+> Multi-exam / other-State PCS / standard coaching stems for the same topic map.
 
-### Section B: Wetlands & Ramsar Sites
+**Q1. Standard UPPCS**
+Bakhira Bird Sanctuary (Ramsar) is in:
+A. Ballia
+B. Sant Kabir Nagar
+C. Gonda
+D. Hardoi
 
-6. Which of the following Ramsar wetland sites is NOT located in Uttar Pradesh?
-   (A) Sarsai Nawar
-   (B) Samaspur Bird Sanctuary
-   (C) Surinsar-Mansar Lakes
-   (D) Sur Sarovar
 <details>
 <summary>Show answer</summary>
-<b>Correct Answer: (C) Surinsar-Mansar Lakes</b><br>
-<b>Explanation:</b> Surinsar-Mansar Lakes is a Ramsar site situated in Jammu and Kashmir. Sarsai Nawar (Etawah), Samaspur (Rae Bareli), and Sur Sarovar (Agra) are located in Uttar Pradesh.
+
+**Logic:** Parvati Arga is Gonda — don’t swap Ramsar wetlands.
+
+**Ans: B.** Sant Kabir Nagar.
+
 </details>
 
-7. 'Sur Sarovar' (Keetham Lake), declared a Ramsar wetland site in 2020, is situated in which district of UP?
-   (A) Mathura
-   (B) Agra
-   (C) Firozabad
-   (D) Aligarh
+**Q2. Standard UPPCS**
+Purvanchal Expressway roughly connects:
+A. Meerut to Prayagraj
+B. Lucknow region to Ghazipur
+C. Chitrakoot to Etawah
+D. Agra to Lucknow only
+
 <details>
 <summary>Show answer</summary>
-<b>Correct Answer: (B) Agra</b><br>
-<b>Explanation:</b> Sur Sarovar (Keetham Lake) is a scenic freshwater reservoir located along the Delhi-Agra highway in Agra district.
+
+**Logic:** Ganga Expressway = Meerut–Prayagraj; Bundelkhand = Chitrakoot–Etawah.
+
+**Ans: B.** Lucknow (Chand Sarai) to Ghazipur.
+
 </details>
 
-8. 'Bakhira Bird Sanctuary', declared as a Ramsar Wetland of International Importance on World Wetlands Day 2022, is situated in:
-   (A) Basti
-   (B) Sant Kabir Nagar
-   (C) Gorakhpur
-   (D) Siddharthnagar
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Sant Kabir Nagar</b><br>
-<b>Explanation:</b> Bakhira Bird Sanctuary is located in Sant Kabir Nagar district, representing the largest natural floodplain lake in Eastern UP.
-</details>
-
----
-
-
-### Section C: Transport & Disaster Management
-
-9. The headquarters of the North Eastern Railway (NER) zone is situated at which city?
-   (A) Prayagraj
-   (B) Gorakhpur
-   (C) Lucknow
-   (D) Varanasi
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Gorakhpur</b><br>
-<b>Explanation:</b> The North Eastern Railway (NER) is headquartered at Gorakhpur. The North Central Railway (NCR) is headquartered at Prayagraj.
-</details>
-
-10. National Waterway 1 (NW-1) on the Ganga River operates between which two terminal cities?
-   (A) Prayagraj to Haldia
-   (B) Varanasi to Kolkata
-   (C) Patna to Haldia
-   (D) Haridwar to Prayagraj
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (A) Prayagraj to Haldia</b><br>
-<b>Explanation:</b> National Waterway 1 (NW-1) spans a length of 1,620 km along the Ganga-Bhagirathi-Hooghly river system connecting Prayagraj (UP) to Haldia (West Bengal).
-</details>
 
 ---
 

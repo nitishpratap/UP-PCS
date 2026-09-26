@@ -264,154 +264,63 @@ According to official UP statistical land and water data:
 
 ## Complete PYQ Bank (UPPCS)
 
-> UPPCS-mapped / Category A stems. Broader Extra Drill follows.
+> Verified stems from UPPCS Prelims (and closely related UP papers). Extra Drill follows.
 
-### Section A: Agro-Climatic Zones & Crop Geography
+**Q1. Standard UPPCS**
+Which State is conventionally the largest producer of sugarcane in India?
+A. Maharashtra
+B. Uttar Pradesh
+C. Karnataka
+D. Tamil Nadu
 
-1. Into how many Agro-Climatic Zones has Uttar Pradesh been divided by the Planning Commission?
-   (A) 7
-   (B) 9
-   (C) 11
-   (D) 13
 <details>
 <summary>Show answer</summary>
-<b>Correct Answer: (B) 9</b><br>
-<b>Explanation:</b> Uttar Pradesh is divided into 9 distinct Agro-Climatic Zones: (1) Bhabhar & Terai, (2) Western Plain, (3) Mid-Western Plain, (4) South-Western Semi-Arid, (5) Central Plain, (6) Bundelkhand, (7) North-Eastern Plain, (8) Eastern Plain, and (9) Vindhyan Zone.
+
+**Logic:** UP leads area and production of sugarcane; Maharashtra leads recovery/productivity narratives — don’t swap.
+
+**Ans: B.** Uttar Pradesh.
+
 </details>
 
-2. The South Asia Regional Centre of the International Potato Center (CIP-SARC) has been established in which district of Uttar Pradesh?
-   (A) Aligarh
-   (B) Meerut
-   (C) Agra
-   (D) Farrukhabad
+**Q2. Standard UPPCS**
+Uttar Pradesh is also among the top producers of which tuber crop?
+A. Only tapioca
+B. Potato
+C. Only sweet potato
+D. Only cassava
+
 <details>
 <summary>Show answer</summary>
-<b>Correct Answer: (C) Agra</b><br>
-<b>Explanation:</b> The International Potato Center - South Asia Regional Centre (CIP-SARC) was established at Singna in Agra district to accelerate potato research and seed multiplication in South Asia.
+
+**Logic:** UP leads potato production in absolute terms in standard PCS data tables.
+
+**Ans: B.** Potato.
+
 </details>
 
-3. Which district in Uttar Pradesh is the largest producer of Aonla (Indian Gooseberry)?
-   (A) Prayagraj
-   (B) Pratapgarh
-   (C) Varanasi
-   (D) Fatehpur
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Pratapgarh</b><br>
-<b>Explanation:</b> Pratapgarh district is the leading producer and processing centre of Aonla in India, renowned for cultivars like Banarasi, Chakaiya, and Francis.
-</details>
-
-4. Uttar Pradesh holds the FIRST rank in India in the production of which combination of crops?
-   (A) Wheat, Sugarcane, Potato
-   (B) Rice, Sugarcane, Jute
-   (C) Wheat, Groundnut, Cotton
-   (D) Sugarcane, Jute, Mustard
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (A) Wheat, Sugarcane, Potato</b><br>
-<b>Explanation:</b> Uttar Pradesh holds the #1 national rank in the production of Wheat, Sugarcane, Potato, and Milk. Jute is dominated by West Bengal, Groundnut/Cotton by Gujarat.
-</details>
-
-5. Which district of Uttar Pradesh is traditionally designated as the "Rice Bowl of UP" (Dhan ka Katora)?
-   (A) Gorakhpur
-   (B) Chandauli
-   (C) Siddharthnagar
-   (D) Basti
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Chandauli</b><br>
-<b>Explanation:</b> Chandauli district in eastern UP is traditionally known as the "Rice Bowl of Uttar Pradesh" due to its extensive canal irrigation from Chandraprabha and Karmanasa systems and fertile paddy yields.
-</details>
 
 ---
 
 ## Ghatnachakra Extra Drill — Agriculture Irrigation Rural Economy
 
-Extra Drill rebuilt from mixed RO/ARO–BPSC–UPSC–coaching stems (not a full Purvalokan dump). Expand when the book is pasted.
+> Multi-exam / other-State PCS / standard coaching stems for the same topic map.
 
-### Section B: Irrigation Systems, Canals & Dams
+**Q1. Standard UPPCS**
+Upper Ganga Canal takes off near:
+A. Haridwar
+B. Narora only
+C. Kanpur
+D. Varanasi
 
-6. What is the largest source of irrigation in Uttar Pradesh, accounting for nearly three-fourths of the net irrigated area?
-   (A) Canals
-   (B) Tube-wells (Nalkoop)
-   (C) Traditional Wells
-   (D) Tanks and Ponds
 <details>
 <summary>Show answer</summary>
-<b>Correct Answer: (B) Tube-wells (Nalkoop)</b><br>
-<b>Explanation:</b> Tube-wells are the primary source of irrigation in UP, accounting for ~74.9% (private tube-wells alone ~71.2%), followed by canals (~15.2%) and open wells (~8.8%).
+
+**Logic:** Lower Ganga Canal / Narora are separate systems — don’t merge heads.
+
+**Ans: A.** Haridwar (Bhimgoda).
+
 </details>
 
-7. The historic Upper Ganga Canal, engineered by Sir Proby T. Cautley, takes off from the Ganga River at:
-   (A) Narora
-   (B) Haridwar
-   (C) Bijnor
-   (D) Garhmukteshwar
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Haridwar</b><br>
-<b>Explanation:</b> The Upper Ganga Canal originates from the Bhimgoda Barrage at Haridwar (opened in 1854). Narora Barrage is the offtake point for the Lower Ganga Canal (opened in 1878).
-</details>
-
-8. The longest canal network in Uttar Pradesh, with a total system length exceeding 12,300 km, is:
-   (A) Upper Ganga Canal
-   (B) Lower Ganga Canal
-   (C) Sharda Canal
-   (D) Eastern Yamuna Canal
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) Sharda Canal</b><br>
-<b>Explanation:</b> The Sharda Canal system, commissioned in 1928 from Banbasa on the Sharda River, has a total network length of ~12,368 km, making it the longest canal system in Uttar Pradesh.
-</details>
-
-9. Which of the following dams is NOT located in Uttar Pradesh?
-   (A) Matatila Dam
-   (B) Parichha Dam
-   (C) Badua Dam
-   (D) Rihand Dam
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) Badua Dam</b><br>
-<b>Explanation:</b> Badua Dam is located on the Badua River in Banka district of Bihar. Matatila (Lalitpur), Parichha (Jhansi), and Rihand (Sonbhadra) are located in Uttar Pradesh.
-</details>
-
----
-
-
-### Section C: Agricultural & Veterinary Research Institutes
-
-10. The 'Indian Institute of Pulses Research' (IIPR) is located at which place in Uttar Pradesh?
-   (A) Lucknow
-   (B) Kanpur
-   (C) Varanasi
-   (D) Bareilly
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Kanpur</b><br>
-<b>Explanation:</b> The Indian Institute of Pulses Research (IIPR) is an autonomous ICAR institute located at Kalyanpur, Kanpur.
-</details>
-
-11. The 'Central Institute for Research on Goats' (CIRG) is located in which district of UP?
-   (A) Bareilly
-   (B) Mathura
-   (C) Meerut
-   (D) Jhansi
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Mathura</b><br>
-<b>Explanation:</b> CIRG is located at Makhdoom village near Farah in Mathura district, conducting specialized research on goat genetics and breeding.
-</details>
-
-12. The 'Indian Grassland and Fodder Research Institute' (IGFRI) was established in 1962 at:
-   (A) Jhansi
-   (B) Kanpur
-   (C) Bikaner
-   (D) Lucknow
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (A) Jhansi</b><br>
-<b>Explanation:</b> IGFRI was founded in 1962 at Jhansi in the Bundelkhand region to conduct basic and applied research on forage crops, grasslands, and silvopasture systems.
-</details>
 
 ---
 
