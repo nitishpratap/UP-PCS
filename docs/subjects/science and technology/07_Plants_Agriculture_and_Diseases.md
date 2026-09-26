@@ -3039,235 +3039,11 @@ D. Langra
 - The spongy tissue, a ripening disorder is often described as soft
 - centre white corky tissue or internal breakdown in Alphonso
 - mangoes. This disorder is peculiar to South India only.
-- </USER_REQUEST>
-- <ADDITIONAL_METADATA>
-- The current local time is: 2026-09-26T03:27:55+05:30.
-- The user's current state is as follows:
-- Active Document: c:\Users\Axeno\Desktop\UP-PCS\docs\subjects\science and technology\08_Microbiology_Environment_and_Applied.md (LANGUAGE_MARKDOWN)
-- Cursor is on line: 1
-- Other open documents:
-- - c:\Users\Axeno\Desktop\UP-PCS\docs\subjects\science and technology\08_Microbiology_Environment_and_Applied.md (LANGUAGE_MARKDOWN)
-- </ADDITIONAL_METADATA>
 </details>
 
+## Ghatnachakra Extra Drill
 
-## Complete PYQ Bank — UKPCS
-
-**Q1. (Uttarakhand PCS Pre 2025)** Correct hierarchy of classification of plants is:  
-A. Class – Order – Family – Genus – Species  
-B. Family – Order – Class – Genus – Species  
-C. Order – Class – Genus – Family – Species  
-D. Genus – Family – Class – Order – Species  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Class – Order – Family – Genus – Species)  
-**Detailed Explanation:**
-- Within plant classification, the hierarchical order is: Kingdom $\rightarrow$ Phylum/Division $\rightarrow$ **Class $\rightarrow$ Order $\rightarrow$ Family $\rightarrow$ Genus $\rightarrow$ Species**.
-</details>
-
-**Q2. (Uttarakhand PCS Pre 2010)** The study related to the plants being used as vegetable is called:  
-A. Floriculture  
-B. Pomology  
-C. Horticulture  
-D. Olericulture  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Olericulture)  
-**Detailed Explanation:**
-- **Olericulture** is the scientific branch of horticulture dealing with the production, storage, and processing of non-woody (herbaceous) vegetable crops.
-</details>
-
-**Q3. (Uttarakhand Lower Sub. Pre 2010)** Silkworm grows on:  
-A. Reetha leaves  
-B. Ficus leaves  
-C. Peach leaves  
-D. Mulberry leaves  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Mulberry leaves)  
-**Detailed Explanation:**
-- The domesticated mulberry silkworm (*Bombyx mori*) feeds exclusively on the fresh foliage of the White Mulberry (*Morus alba*) tree.
-</details>
-
----
-
-
-**Q4. (Uttarakhand P.C.S. (Mains) 2002)** Which of the following is a biofertilizer ?  
-A. Urea  
-B. 2, 4 - D  
-C. Streptocycline  
-D. Azolla  
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Azolla)  
-**Detailed Explanation:**
-- See the explanation of above question.
-</details>
-
-**Q5. (Uttarakhand P.C.S. (Pre) 2007)** Azolla gives a good biofertilizer when mixed with –  
-A. Blue-green algae  
-B. Bone meal  
-C. Cow dung  
-D. Urea  
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Blue-green algae)  
-**Detailed Explanation:**
-- Azolla is an aquatic fern. It gives a good biofertilizer when mixed with blue-green algae (BGA) or cyanobacteria and contributes in supplying nitrogen to rice fields.
-- In addition, they also bring about directly or indirectly a number of changes in the physical, chemical and biological properties of the soil and soil-water interface in rice fields.
-</details>
-
-**Q6. (Uttarakhand P.C.S. (Pre) 2021)** Which among the following animal is called as–
-'Ploughers of the soil'?  
-A. Earthworm  
-B. Snake  
-C. Frog  
-D. None of these  
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Earthworm)  
-**Detailed Explanation:**
-- The earthworms are called the 'Ploughers of the soil'. The earthworms act like ploughs by naturally ploughing our soil and aerating it as well as letting in the necessary supply of air and water, helping plants to grow.
-- They even help by breaking down organic matter, like leaves and grass by converting them into things that plants can use.
-</details>
-
-**Q7. (Uttarakhand P.C.S. (Pre) 2002)** Which one of the following gases is used by plants in
-photosynthesis ?  
-A. Ammonia  
-B. Carbon dioxide  
-C. Chlorine  
-D. Sulphur dioxide  
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b) — Carbon dioxide
-
-- See the explanation of above question.
-</details>
-
-
-**Q8. (Uttarakhand P.C.S. (Pre) 2010)** What rays of sunlight are mostly utilized by chlorophyll
-in photosynthesis ?  
-A. Red  
-B. Yellow  
-C. Green  
-D. Blue  
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (a) — Red
-
-- See the explanation of above question.
-</details>
-
-
-**Q9. (Uttarakhand P.C.S. (Pre) 2007)** Light energy changes into the chemical energy by
-which of the following process :  
-A. Electrolysis  
-B. By photosynthesis  
-C. By respiration  
-D. By spewing  
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b) — By photosynthesis
-
-- See the explanation of above question.
-</details>
-
-
-**Q10. (Uttarakhand P.C.S. (Mains) 2006)** Which of the following is not the work of roots?  
-A. Photosynthesis  
-B. Water absorption  
-C. Absorption nutrients  
-D. To help the plants  
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (a) — Photosynthesis
-
-- Photosynthesis takes place in leaves which prepare food
-- for the plants by absorbing light, CO2
-- and water. Generally,
-- root cells do not contain chloroplasts; so there is no chance
-- of photosynthesis.
-</details>
-
-
-**Q11. (Uttarakhand P.C.S. (Pre) 2005)** Which of the following elements is not essential for
-plant growth?  
-A. Sodium  
-B. Potassium  
-C. Calcium  
-D. Magnesium  
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (a) — Sodium
-
-- Essential elements are classified into following two categories:
-- (i) Macroelements (Major elements) – These are required
-- by the plant in larger quantities e.g. Carbon (C), Hydrogen
-- (H), Oxygen (O), Nitrogen (N), Phosphorus (P), Potassium
-- (K), Magnesium (Mg), Calcium (Ca) and Sulphur (S).
-- (ii) Microelements (Minor elements or Trace elements) –
-- These are required by the plant in low quantities. Examples
-- are Boron (B), Zinc (Zn), Manganese (Mn), Copper (Cu),
-- Molybdenum (Mo), Chlorine (Cl), Iron (Fe) and Nickel (Ni).
-</details>
-
-
-**Q12. (Uttarakhand P.C.S. (Pre) 2025)** Which pair is not correctly matched ?  
-A. Fertilization – Gametes  
-B. Triple Fusion – Double fertilization  
-C. Plumule – Root tip  
-D. Embryo sac – Female gametophyte  
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (c) — Plumule – Root tip
-
-- Among the given pairs, pair of option (c) is not correctly
-- matched. The plumule and radicle (not root tip) are the two
-- essential parts of a plant embryo within a seed. The radicle
-- is the embryonic root that emerges first during germination
-- to grow downwards and absorb nutrients, while the plumule
-- is the embryonic shoot that emerges subsequently, growing
-- upwards to form the stem and leaves. Fertilization in plants
-- is the fusion of haploid male gametes (sperm) and female
-- gametes (egg) to form a diploid zygote, which developes
-- into a new plant. Triple fusion is an integral part of double
-- fertilization in angiosperms (flowering plants). The embryo
-- sac is indeed the female gametophyte in angiosperms,
-- developing within the ovule to facilitate fertilization.
-</details>
-
-
-**Q13. (Uttarakhand P.C.S. (Pre) 2002)** Molasses is an excellent raw material for :  
-A. Acetic acid  
-B. Glycerine  
-C. Power alcohol  
-D. Urea  
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (c) — Power alcohol
-
-- Molasses is an excellent raw material for power alcohol.
-- These molasses are prepared by sugarcane's juice.
-</details>
-
-
-## Complete PYQ Bank — BPSC, RAS, MPPCS, CGPCS & IAS (Plant Biology & Agriculture)
+> BPSC, RAS, MPPCS, CGPCS & IAS plant / agriculture stems (older + other-state bank).
 
 **Q1. (71st BPSC Pre 2025)** The part which we eat in Mango is:  
 A. Epicarp  
@@ -5784,6 +5560,220 @@ D. 1, 2 , 3 and 4
 - water, birds and humans.
 </details>
 
+## Complete PYQ Bank — UKPCS
+
+**Q1. (Uttarakhand PCS Pre 2025)** Correct hierarchy of classification of plants is:  
+A. Class – Order – Family – Genus – Species  
+B. Family – Order – Class – Genus – Species  
+C. Order – Class – Genus – Family – Species  
+D. Genus – Family – Class – Order – Species  
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **A** (Class – Order – Family – Genus – Species)  
+**Detailed Explanation:**
+- Within plant classification, the hierarchical order is: Kingdom $\rightarrow$ Phylum/Division $\rightarrow$ **Class $\rightarrow$ Order $\rightarrow$ Family $\rightarrow$ Genus $\rightarrow$ Species**.
+</details>
+
+**Q2. (Uttarakhand PCS Pre 2010)** The study related to the plants being used as vegetable is called:  
+A. Floriculture  
+B. Pomology  
+C. Horticulture  
+D. Olericulture  
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **D** (Olericulture)  
+**Detailed Explanation:**
+- **Olericulture** is the scientific branch of horticulture dealing with the production, storage, and processing of non-woody (herbaceous) vegetable crops.
+</details>
+
+**Q3. (Uttarakhand Lower Sub. Pre 2010)** Silkworm grows on:  
+A. Reetha leaves  
+B. Ficus leaves  
+C. Peach leaves  
+D. Mulberry leaves  
+
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **D** (Mulberry leaves)  
+**Detailed Explanation:**
+- The domesticated mulberry silkworm (*Bombyx mori*) feeds exclusively on the fresh foliage of the White Mulberry (*Morus alba*) tree.
+</details>
+
+---
+
+
+**Q4. (Uttarakhand P.C.S. (Mains) 2002)** Which of the following is a biofertilizer ?  
+A. Urea  
+B. 2, 4 - D  
+C. Streptocycline  
+D. Azolla  
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **D** (Azolla)  
+**Detailed Explanation:**
+- See the explanation of above question.
+</details>
+
+**Q5. (Uttarakhand P.C.S. (Pre) 2007)** Azolla gives a good biofertilizer when mixed with –  
+A. Blue-green algae  
+B. Bone meal  
+C. Cow dung  
+D. Urea  
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **A** (Blue-green algae)  
+**Detailed Explanation:**
+- Azolla is an aquatic fern. It gives a good biofertilizer when mixed with blue-green algae (BGA) or cyanobacteria and contributes in supplying nitrogen to rice fields.
+- In addition, they also bring about directly or indirectly a number of changes in the physical, chemical and biological properties of the soil and soil-water interface in rice fields.
+</details>
+
+**Q6. (Uttarakhand P.C.S. (Pre) 2021)** Which among the following animal is called as–
+'Ploughers of the soil'?  
+A. Earthworm  
+B. Snake  
+C. Frog  
+D. None of these  
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** **A** (Earthworm)  
+**Detailed Explanation:**
+- The earthworms are called the 'Ploughers of the soil'. The earthworms act like ploughs by naturally ploughing our soil and aerating it as well as letting in the necessary supply of air and water, helping plants to grow.
+- They even help by breaking down organic matter, like leaves and grass by converting them into things that plants can use.
+</details>
+
+**Q7. (Uttarakhand P.C.S. (Pre) 2002)** Which one of the following gases is used by plants in
+photosynthesis ?  
+A. Ammonia  
+B. Carbon dioxide  
+C. Chlorine  
+D. Sulphur dioxide  
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** (b) — Carbon dioxide
+
+- See the explanation of above question.
+</details>
+
+
+**Q8. (Uttarakhand P.C.S. (Pre) 2010)** What rays of sunlight are mostly utilized by chlorophyll
+in photosynthesis ?  
+A. Red  
+B. Yellow  
+C. Green  
+D. Blue  
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** (a) — Red
+
+- See the explanation of above question.
+</details>
+
+
+**Q9. (Uttarakhand P.C.S. (Pre) 2007)** Light energy changes into the chemical energy by
+which of the following process :  
+A. Electrolysis  
+B. By photosynthesis  
+C. By respiration  
+D. By spewing  
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** (b) — By photosynthesis
+
+- See the explanation of above question.
+</details>
+
+
+**Q10. (Uttarakhand P.C.S. (Mains) 2006)** Which of the following is not the work of roots?  
+A. Photosynthesis  
+B. Water absorption  
+C. Absorption nutrients  
+D. To help the plants  
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** (a) — Photosynthesis
+
+- Photosynthesis takes place in leaves which prepare food
+- for the plants by absorbing light, CO2
+- and water. Generally,
+- root cells do not contain chloroplasts; so there is no chance
+- of photosynthesis.
+</details>
+
+
+**Q11. (Uttarakhand P.C.S. (Pre) 2005)** Which of the following elements is not essential for
+plant growth?  
+A. Sodium  
+B. Potassium  
+C. Calcium  
+D. Magnesium  
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** (a) — Sodium
+
+- Essential elements are classified into following two categories:
+- (i) Macroelements (Major elements) – These are required
+- by the plant in larger quantities e.g. Carbon (C), Hydrogen
+- (H), Oxygen (O), Nitrogen (N), Phosphorus (P), Potassium
+- (K), Magnesium (Mg), Calcium (Ca) and Sulphur (S).
+- (ii) Microelements (Minor elements or Trace elements) –
+- These are required by the plant in low quantities. Examples
+- are Boron (B), Zinc (Zn), Manganese (Mn), Copper (Cu),
+- Molybdenum (Mo), Chlorine (Cl), Iron (Fe) and Nickel (Ni).
+</details>
+
+
+**Q12. (Uttarakhand P.C.S. (Pre) 2025)** Which pair is not correctly matched ?  
+A. Fertilization – Gametes  
+B. Triple Fusion – Double fertilization  
+C. Plumule – Root tip  
+D. Embryo sac – Female gametophyte  
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** (c) — Plumule – Root tip
+
+- Among the given pairs, pair of option (c) is not correctly
+- matched. The plumule and radicle (not root tip) are the two
+- essential parts of a plant embryo within a seed. The radicle
+- is the embryonic root that emerges first during germination
+- to grow downwards and absorb nutrients, while the plumule
+- is the embryonic shoot that emerges subsequently, growing
+- upwards to form the stem and leaves. Fertilization in plants
+- is the fusion of haploid male gametes (sperm) and female
+- gametes (egg) to form a diploid zygote, which developes
+- into a new plant. Triple fusion is an integral part of double
+- fertilization in angiosperms (flowering plants). The embryo
+- sac is indeed the female gametophyte in angiosperms,
+- developing within the ovule to facilitate fertilization.
+</details>
+
+
+**Q13. (Uttarakhand P.C.S. (Pre) 2002)** Molasses is an excellent raw material for :  
+A. Acetic acid  
+B. Glycerine  
+C. Power alcohol  
+D. Urea  
+<details>
+<summary>Show answer</summary>
+
+**Correct Answer:** (c) — Power alcohol
+
+- Molasses is an excellent raw material for power alcohol.
+- These molasses are prepared by sugarcane's juice.
+</details>
 
 ## Practice Zone — UPPCS Format Drill
 
