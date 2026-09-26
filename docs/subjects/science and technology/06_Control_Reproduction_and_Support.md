@@ -1,5 +1,5 @@
 # Topic 6 — Nervous System, Hormones, Reproduction and Support
-### ★ UPPCS Revision Sheet — Lucent / PW Coaching Style (Dense Locks · Zero Fluff · Practice ≥25)
+### ★ UPPCS Revision Sheet — Lucent / PW Coaching Style (Lucent / PW style · Practice ≥25)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -14,9 +14,9 @@ Nervous System Anatomy: Neuron, Synapse, Neurotransmitters, Meninges (Duramater,
 
 ---
 
-## Current Affairs & Exam Locks
+## Current Affairs
 
-| Year | Event / Fact | High-Yield Exam Lock |
+| Year | Event / Fact | Must-Score Fact |
 |------|-------------|----------------------|
 | **25 May** | **World Thyroid Day** observed annually on **25 May** to promote awareness of thyroid health, iodine deficiency goitre, and Hashimoto's thyroiditis. | Thyroid hormones ($T_3$ and $T_4$) regulate basal metabolic rate (BMR); require iodine for synthesis. |
 | **Still Current** | **Saheli (Centchroman / Ormeloxifene)**: The world's first **non-steroidal, non-hormonal, once-a-week oral contraceptive pill**. | Developed by Indian scientists at **Central Drug Research Institute (CDRI), Lucknow**; incorporated into the National Family Planning Programme as 'Chhaya'. |
@@ -172,7 +172,7 @@ Nervous System Anatomy: Neuron, Synapse, Neurotransmitters, Meninges (Duramater,
 
 ## Confused Pairs
 
-| Concept A | Concept B | Core Distinguishing Exam Fact | Hindi Key |
+| Concept A | Concept B | Core Distinguishing Fact | Hindi Key |
 |-----------|-----------|-------------------------------|-----------|
 | **Myopia** | **Hypermetropia** | Image falls in front of retina, near vision clear, corrected by concave lens vs image behind retina, far vision clear, convex lens | निकट दृष्टि / दूर दृष्टि दोष |
 | **Cataract** | **Glaucoma** | Opacity/clouding of crystalline lens vs pathological elevation of intraocular pressure ($>21\text{ mm Hg}$) damaging optic nerve | मोतियाबिंद / काला मोतिया (ग्लूकोमा) |
@@ -232,7 +232,7 @@ Nervous System Anatomy: Neuron, Synapse, Neurotransmitters, Meninges (Duramater,
 - **The Neuron (Structural & Functional Unit)**:
   - Longest specialized cells in the animal kingdom; generate and propagate electrochemical nerve impulses. Composed of **Soma (cell body)**, **Dendrites** (receptive inputs), and a single **Axon** (conductive output terminating in synaptic boutons).
   - Neurons communicate across intercellular gaps called **Synapses** via chemical neurotransmitters (**Acetylcholine, Norepinephrine, Dopamine, Serotonin**).
-  - **Phylogenetic Distribution Lock**: All multicellular animals possess neurons **except Sponges (Porifera)** and Placozoans. Plants completely lack neurons.
+  - **Phylogenetic Distribution Fact**: All multicellular animals possess neurons **except Sponges (Porifera)** and Placozoans. Plants completely lack neurons.
 - **Peripheral Nerve Geography**:
   - **Cranial Nerves**: **12 pairs** originating directly from the ventral base of the brain and brainstem, innervating structures of the head, neck, and viscera (e.g. Vagus nerve X).
   - **Spinal Nerves**: **31 pairs** of mixed nerves emerging bilaterally from the spinal cord segments:
@@ -275,11 +275,11 @@ Nervous System Anatomy: Neuron, Synapse, Neurotransmitters, Meninges (Duramater,
 | **Adrenal Cortex** | **Aldosterone** (Mineralocorticoid)<br>**Cortisol** (Glucocorticoid)<br>**Androgens** | Kidneys ($Na^+$ retention, $K^+$ loss), liver (gluconeogenesis), systemic stress response | **Cushing's Syndrome** (hyperglycemia, central obesity, "moon face"); **Adrenal Virilism** (facial hirsutism/male traits in females) | **Addison's Disease** (adrenal insufficiency: severe dehydration, hyponatremia, skin hyperpigmentation, fatal hypotension) |
 | **Adrenal Medulla** | **Adrenaline (Epinephrine)**<br>**Noradrenaline** | Heart, systemic vasculature, bronchioles, hepatic glycogen stores (**"Fight or Flight" emergency hormone**) | Persistent tachycardia, malignant hypertension, hyper-excitement | Impaired sympathetic alarm reaction |
 | **Thymus Gland** | **Thymosin**, Thymopoietin | T-lymphocyte precursors (cell-mediated adaptive immunity; active in childhood, undergoes involution after puberty) | Thymic hyperplasia / Myasthenia gravis | Severe combined immunodeficiency, loss of cell-mediated defense |
-| **Pancreas (Islets of Langerhans)** | **Insulin** ($eta$-cells)<br>**Glucagon** ($lpha$-cells)<br>**Somatostatin** ($\delta$-cells) | Liver, skeletal muscle, adipose tissue (promotes glucose absorption and glycogenesis) | Severe hypoglycemia, hyperinsulinemic shock | **Diabetes Mellitus** (chronic hyperglycemia, glucosuria, polydipsia, polyuria, polyphagia; Type 1 = autoimmune $eta$-cell destruction; Type 2 = insulin resistance) |
+| **Pancreas (Islets of Langerhans)** | **Insulin** ($\beta$-cells)<br>**Glucagon** ($\alpha$-cells)<br>**Somatostatin** ($\delta$-cells) | Liver, skeletal muscle, adipose tissue (promotes glucose absorption and glycogenesis) | Severe hypoglycemia, hyperinsulinemic shock | **Diabetes Mellitus** (chronic hyperglycemia, glucosuria, polydipsia, polyuria, polyphagia; Type 1 = autoimmune $\beta$-cell destruction; Type 2 = insulin resistance) |
 | **Testes (Male Gonads)** | **Testosterone / Androgens** (secreted by **Leydig cells**) | Male reproductive tract, secondary sexual characteristics, seminiferous tubules (spermatogenesis) | Precocious sexual maturity | Male sterility, eunuchoidism, failure of secondary sex traits |
 | **Ovaries (Female Gonads)** | **Estrogen** (follicles/corpus luteum)<br>**Progesterone** (corpus luteum)<br>**Relaxin** | Uterus, mammary glands, secondary sexual traits, pelvic ligaments | Endometrial hyperplasia, irregular bleeding | Amenorrhea, failure of pregnancy implantation, early miscarriage |
 
-### High-Yield Exam Traps & Landmark Biochemistry Locks
+### High-Yield Common Traps & Landmark Biochemistry Facts
 - **Insulin Chemical Architecture**: A 51-amino acid anabolic peptide consisting of two polypeptide chains linked by disulfide bridges; contains a coordinated **Zinc ($Zn$)** ion. Extracted botanically from the tuberous roots of **Dahlia** or produced via recombinant DNA technology (*Humulin*).
 - **Oxytocin ("Love / Cuddle / Parturition Hormone")**:
   - Stimulates forceful rhythmic contractions of the myometrium during childbirth via positive feedback loops.
@@ -292,7 +292,7 @@ Nervous System Anatomy: Neuron, Synapse, Neurotransmitters, Meninges (Duramater,
 
 ## 6.3 Human Reproduction, Gametogenesis & Embryonic Development
 
-### Master Physiological Locks & Reproductive Biology
+### Master Physiological Facts & Reproductive Biology
 - **Forms of Reproduction**:
   - **Asexual Reproduction**: Offspring produced from a single organism without gametic fusion; produces genetically identical clones.
   - **Sexual Reproduction**: Fusion of two haploid gametes ($n = 23$) formed via **meiosis** (spermatogenesis in male, oogenesis in female) to form a single diploid zygote ($2n = 46$).
@@ -320,7 +320,7 @@ Nervous System Anatomy: Neuron, Synapse, Neurotransmitters, Meninges (Duramater,
 
 ### Fertilization, Cleavage & Extraembryonic Membranes
 
-| Stage / Structure | Timing / Duration | Landmark Biological Events | Exam Traps & High-Yield Facts |
+| Stage / Structure | Timing / Duration | Landmark Biological Events | Common Traps & High-Yield Facts |
 |-------------------|-------------------|----------------------------|-------------------------------|
 | **Gamete Lifespan** | Sperm: 48–72 hrs; Ovum: 12–24 hrs | Capacitated sperm retain fertilizing capacity for **~48 hours (1–2 days)**; ovulated egg viable for **12–24 hours**. | Sperm survival in female tract up to 72 hrs, but fertilizing potency peaks within 48 hrs. |
 | **Fertilization** | Day 0 | Haploid sperm ($n=23$) penetrates secondary oocyte in **Fallopian tube / oviduct**; activates completion of Meiosis II; forms diploid zygote ($2n=46$). | Cortical granule reaction hardens **zona pellucida** around egg, creating impenetrable barrier blocking polyspermy. |
@@ -375,7 +375,7 @@ Nervous System Anatomy: Neuron, Synapse, Neurotransmitters, Meninges (Duramater,
   - **Osteoblasts**: Bone-forming cells that secrete osteoid (unmineralized collagen matrix) and promote calcium phosphate crystallization.
   - **Osteoclasts**: Multinucleated giant cells derived from monocyte-macrophage lineage; secrete acid and lysosomal enzymes to resorb and break down calcified bone matrix. Essential for constant skeletal remodeling, blood calcium homeostasis, and fracture repair.
 
-### Axial & Appendicular Skeleton Master Locks
+### Axial & Appendicular Skeleton Master Facts
 - **Total Adult Bones**: **206** (Infant skeleton contains ~300 bones, which fuse during development).
   - **Axial Skeleton (80 bones)**:
     - **Skull (28 or 29 bones)**: 8 cranial (protects brain), 14 facial (mandible is the only movable skull bone), 6 auditory ossicles (**Malleus / hammer (2), Incus / anvil (2), Stapes / stirrup (2 — smallest bone in human body, located in middle ear)**), and 1 **Hyoid bone** (isolated U-shaped bone in the throat).
@@ -396,7 +396,7 @@ Nervous System Anatomy: Neuron, Synapse, Neurotransmitters, Meninges (Duramater,
     - **Lower Limbs (60)**: **Femur / Thigh bone (2 — longest, heaviest, and strongest bone in human body)**, Patella / Kneecap (2), Tibia & Fibula / Shank (4), Tarsals / Ankle (14: 7 per ankle), Metatarsals / Foot (10), Phalanges / Toes (28: 14 per foot).
 
 ### Exoskeleton, Keratin & Nails Physiology
-- **Exoskeleton Structures**: Mammalian hair, nails, horns, hooves, and claws are composed of fibrous **$lpha$-keratin**. Reptilian scales and bird feathers contain **$eta$-keratin**.
+- **Exoskeleton Structures**: Mammalian hair, nails, horns, hooves, and claws are composed of fibrous **$\alpha$-keratin**. Reptilian scales and bird feathers contain **$\beta$-keratin**.
 - **Painless Nail & Hair Cutting**: Nails and outer hair shafts consist of densely compacted dead keratinized epithelial cells entirely devoid of blood vessels and nerve endings; hence, cutting them causes zero pain.
 
 ### Clinical Pathology of Joints & Orthopedic Surgery
@@ -420,7 +420,7 @@ Nervous System Anatomy: Neuron, Synapse, Neurotransmitters, Meninges (Duramater,
     5. **Calcium (Ca)**: **1.5%** (Most abundant mineral; primary cation in bone mineral)
     6. **Phosphorus (P)**: **1.0%** (Nucleic acids, ATP, calcium phosphate)
   - Remaining Macro-elements (1.2%): Potassium ($K$: 0.4%), Sulphur ($S$: 0.3%), Sodium ($Na$: 0.2%), Chlorine ($Cl$: 0.2%), Magnesium ($Mg$: 0.1%).
-  - **Total Body Content Ranking of Metals**: $	ext{Copper } (Cu) < 	ext{Iron } (Fe) < 	ext{Sodium } (Na) < 	ext{Potassium } (K)$.
+  - **Total Body Content Ranking of Metals**: $\text{Copper } (Cu) < \text{Iron } (Fe) < \text{Sodium } (Na) < \text{Potassium } (K)$.
 
 ### Human Dentition & Teeth Mineralization
 - **Diphyodont Dentition**: Humans develop two successive sets of teeth:
@@ -2509,3 +2509,16 @@ D. Thalamus
 **Detailed Explanation:**
 - The medulla oblongata houses vital reflex centres regulating heart rate, blood pressure, and breathing.
 </details>
+
+## Common Traps & Negative-Marking Eliminators
+
+1. **Myopia correction**: **Concave** lens; hypermetropia = **convex** lens.
+2. **Thyroxine element**: Needs **iodine** — deficiency → goitre.
+3. **Insulin source**: **Beta cells** of islets of Langerhans — alpha cells make glucagon.
+4. **Adrenaline**: Emergency hormone from adrenal **medulla**; cortex makes steroids.
+5. **Neuron impulse**: Travels axon terminal via synapse with neurotransmitters — not continuous cytoplasm jump in chemical synapses.
+6. **Male vs female gamete**: Sperm is motile and tiny; ovum is larger and non-motile.
+7. **Fertilisation site**: Usually **fallopian tube** (ampulla), not uterus.
+8. **Bone vs cartilage**: Bone is hard with osteocytes; cartilage is flexible with chondrocytes — ear pinna is cartilage.
+9. **Ball-and-socket vs hinge**: Shoulder/hip = ball-and-socket; elbow/knee = hinge.
+10. **Reflex arc**: Sensory → interneuron (often) → motor — brain is not required for simple spinal reflexes.

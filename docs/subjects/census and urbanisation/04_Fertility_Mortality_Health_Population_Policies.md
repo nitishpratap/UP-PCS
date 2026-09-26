@@ -1,931 +1,688 @@
 # Census and Urbanisation Topic 4 — Fertility, Mortality, Health and Population Policies
-### ★ UPPCS Revision Sheet — Lucent-style (no repetition · Practice ≥24)
 
-<details>
-<summary><strong>Covers syllabus</strong> (click to expand)</summary>
-
-CBR / fertility / TFR / replacement level | Factors affecting fertility | CDR / IMR / child & maternal mortality | Life expectancy | Causes of mortality | Family planning / welfare | National Population Policy 2000 | Stabilisation | RH / MCH | Mission Parivar Vikas neighbour
-
-</details>
-
-> **Sources baked in:** SRS / NFHS vital-rate desks, NPP 2000 primer, Geography Topic 11 rate vocabulary, UPPCS Prelims (natural growth, TFR 2.1, UP Population Bill unit trap), UKPCS Prelims
-> **Weight:** ★★★★ High — CBR vs TFR units, replacement 2.1, NPP 2000 / 2045, and IMR vs MMR decide stems
-> **Last verified:** September 2026
-
-**Growth phases / explosion theory** → **Topic 2**. **Age structure / dividend composition** → **Topic 3**. **World Population Day / UNFPA report** also → **Topic 7**. Vital **rates and policy** live here.
+### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · Practice ≥26)
 
 ---
 
 ## Current Affairs
 
 | Year | Fact | Why it matters |
-|------|------|----------------|
-| **NFHS-5 (2019–21)** | National **TFR ~2.0** — at / near replacement teaching. | High-TFR pockets remain (Bihar, UP, MP). |
-| **NFHS-4** | National TFR **2.2** — figure used in older papers (e.g. 2018 context). | Read the survey year in the stem. |
-| **NPP 2000** | Stable population goal keyed to **2045**; replacement TFR **2.1**. | Policy year + horizon trap. |
-| **Mission Parivar Vikas** | Intensified RH outreach in high-fertility districts (146 teaching). | Programme ≠ NPP document. |
-| **SRS Bulletins** | ORGI annual vital rates (CBR, CDR, IMR) between Censuses. | Sample system — Topic 1 neighbour. |
+|---|---|---|
+| Rolling | Refresh edition-bound figures from latest Census / Survey / State CA desks. | Do not invent interim totals. |
 
----
+UP district extremes also → [UP Special Topic 6](../up%20special/06_Society_Population_Education_Social.md). This chapter owns the national Census / demography desk.
 
-## Consolidated — 44 Must-Score Facts
+## Consolidated — 50 Must-Score Facts
 
-1. **Crude Birth Rate (CBR)** = live births per **1,000** mid-year population in a year.
-2. **Crude Death Rate (CDR)** = deaths per **1,000** mid-year population in a year.
-3. **Natural growth** = **CBR − CDR** — migration and marriages are **not** part of natural growth.
-4. **Total Fertility Rate (TFR)** = average number of children a woman would have over her reproductive life — unit is **per woman**, not per thousand.
-5. **Replacement-level TFR** is about **2.1** children per woman in standard teaching.
-6. Saying “TFR 2.1 per thousand” is wrong — that unit belongs to CBR/CDR.
-7. NFHS-4 national TFR ~**2.2**; NFHS-5 national TFR ~**2.0** — edition-bound.
-8. High-fertility State pockets teaching: **Bihar, Uttar Pradesh, Madhya Pradesh**; low-fertility / earlier ageing: **Kerala, Tamil Nadu** band.
-9. Factors raising fertility: early marriage, son preference, unmet contraception need, poverty-as-insurance, low female education / agency.
-10. Factors lowering fertility: girls’ education, women’s work, urbanisation, child survival, quality RH services, delayed marriage.
-11. **Infant Mortality Rate (IMR)** = infant deaths (under age 1) per **1,000 live births** in a year.
-12. **Child mortality** (under-5) is a related but broader under-five measure — do not swap labels casually.
-13. **Maternal Mortality Ratio (MMR)** = maternal deaths per **100,000 live births** in teaching (ratio form).
-14. IMR ≠ MMR — infants vs mothers; different denominators.
-15. **Life expectancy** is the average years a person is expected to live at birth (or at a stated age) under current mortality.
-16. Falling IMR/MMR and rising life expectancy mark the mortality side of demographic transition (Topic 2).
-17. Causes of mortality teaching: communicable disease historically; rising non-communicable disease and injuries in later transition; maternal–neonatal causes where RH is weak.
-18. India launched family planning early (1950s programme teaching); the **Emergency (1975–77)** coercive sterilisation legacy damaged trust.
-19. **National Population Policy (NPP) 2000** is the landmark voluntary, target-free, decentralised policy document.
-20. NPP long-term aim: replacement fertility (**TFR 2.1**) and **population stabilisation by 2045**.
-21. NPP immediate objectives teaching: universal immunisation, high institutional deliveries, full civil registration of births/deaths/marriage/pregnancy band.
-22. NPP stresses informed contraceptive choice, quality of care, girls’ education, women’s economic role and adolescent health.
-23. NPP is **not** a two-child coercive quota law — coercion is the Emergency anti-model.
-24. **Family welfare** programmes deliver contraception, spacing, MCH and RH services under MoHFW.
-25. **Reproductive health (RH)** and **maternal & child health (MCH)** are the service core of stabilisation — not sterilisation camps alone.
-26. ASHA / ANM outreach carries last-mile RH and immunisation in rural teaching.
-27. **Mission Parivar Vikas** targets high-fertility districts with intensified family-planning services.
-28. Civil registration of births and deaths supports vital statistics alongside SRS and NFHS.
-29. SRS (ORGI) estimates annual CBR/CDR/IMR from sample sites — not a full Census.
-30. NFHS (MoHFW / IIPS) estimates TFR, contraception, anaemia and related health indicators from household samples.
-31. Population stabilisation = births and deaths converge so growth slows sharply; absolute numbers may still rise for years (**momentum**).
-32. UPPCS 2021 UP Population Control Bill stem failed both statements because **2.1 / 2.7 “per thousand”** mislabels TFR as CBR units.
-33. World Population Day = **11 July** (UN); World Population Report = **UNFPA** (Topic 7 depth).
-34. First Family Planning programme teaching tags India among early adopters after Independence.
-35. Spacing methods and limiting methods both matter; informed choice is the NPP ethic.
-36. Child marriage raises fertility by lengthening the reproductive span — legal and social enforcement matters.
-37. Better child survival paradoxically can lower desired family size over time (fewer “insurance” births).
-38. Urban living and higher living costs correlate with lower TFR in State patterns.
-39. MMR and IMR falls are necessary for welfare; they also feed Stage-2 growth if fertility stays high (Topic 2).
-40. State two-child incentive / disincentive proposals are **not** the same as NPP 2000’s national voluntary frame.
-41. SDG 3 (health) neighbours maternal, neonatal and reproductive health targets.
-42. Topic border: **rates + NPP + RH** here; explosion **causes as theory** in Topic 2; sex ratio / literacy in Topic 3.
-43. Life expectancy rises with falling mortality — do not treat LE as a fertility measure.
-44. Always read whether the stem says **birth rate**, **fertility rate**, or **TFR** before picking a number.
+1. India was the **first country in the world** to launch an official National Family Planning Programme in **1952**.
+2. **Total Fertility Rate (TFR)** is the average number of children a woman would bear in her lifetime given current age-specific fertility rates.
+3. The demographic **Replacement Level TFR** is **2.1 children per woman**.
+4. As per the **National Family Health Survey-5 (NFHS-5, 2019–21)**, India's national TFR declined to **2.0**, dropping below replacement level.
+5. In NFHS-5, the rural TFR in India stood at **2.1**, while urban TFR was **1.6**.
+6. Among Indian States in NFHS-5, **Sikkim** has the lowest TFR (**1.1**), while **Bihar** has the highest TFR (**3.0**).
+7. The Total Fertility Rate of **Uttar Pradesh** in NFHS-5 stood at **2.4** (down from 2.7 in NFHS-4 and 3.8 in NFHS-3).
+8. **Crude Birth Rate (CBR)** is calculated per **1,000 mid-year total population**.
+9. **Crude Death Rate (CDR)** of India in recent SRS estimates is approximately **6.0 deaths per 1,000 population**.
+10. **Infant Mortality Rate (IMR)** is defined as the number of deaths of children under 1 year of age per **1,000 live births**.
+11. India's national IMR as per SRS 2020 dropped to **28 per 1,000 live births** (Rural: 31, Urban: 19).
+12. **Kerala** has the lowest IMR among Indian States at **6 per 1,000 live births**, while **Madhya Pradesh** has the highest at **43**.
+13. The Infant Mortality Rate of **Uttar Pradesh** in SRS 2020 was **38 per 1,000 live births**.
+14. **Neonatal Mortality Rate (NMR)** measures deaths of infants occurring within the first **28 days of life** per 1,000 live births.
+15. **Early Neonatal Mortality** refers to infant deaths within the first **7 days of life**.
+16. **Maternal Mortality Ratio (MMR)** is defined as maternal deaths per **100,000 (1 Lakh) live births**.
+17. India's national MMR as per SRS 2018–20 dropped to **97 per Lakh live births** (down from 130 in 2014–16).
+18. **Kerala** has the lowest MMR in India at **19 per Lakh live births**, while **Assam** has the highest at **195**.
+19. The Maternal Mortality Ratio of **Uttar Pradesh** in SRS 2018–20 stood at **167 per Lakh live births**.
+20. Target 3.1 of the UN **Sustainable Development Goals (SDG)** aims to reduce global MMR to **less than 70 per 100,000 live births by 2030**.
+21. Eight Indian States (Kerala, Maharashtra, Telangana, Andhra Pradesh, Tamil Nadu, Jharkhand, Gujarat, Karnataka) have already achieved the SDG target of MMR $< 70$.
+22. **Life Expectancy at Birth ($e_0$)** in India is currently estimated at **70.8 years** (Females: 72.2 years, Males: 69.5 years).
+23. In India, female life expectancy at birth is approximately **2.7 years higher** than male life expectancy.
+24. **Kerala** has the highest life expectancy at birth in India (**75.3 years**), while **Uttar Pradesh and Chhattisgarh** have among the lowest (~65.6 years).
+25. **Gross Reproduction Rate (GRR)** measures the average number of **female daughters** born to a woman during her lifetime, ignoring mortality.
+26. **Net Reproduction Rate (NRR)** measures the number of surviving daughters who will replace their mothers, accounting for female mortality.
+27. **NRR = 1.0** indicates that the population has achieved the exact demographic replacement level.
+28. The **Child Marriage Restraint (Amendment) Act, 1978** raised the minimum legal age of marriage from 15 to **18 years for females** and 18 to **21 years for males**.
+29. The **Prohibition of Child Marriage Act (PCMA)** was enacted in **2006**, replacing the 1929 Act.
+30. The **Jaya Jaitly Task Force (2020)** recommended increasing the legal age of marriage for females from **18 to 21 years**.
+31. The **National Population Policy (NPP) 2000** was announced in **February 2000** under Prime Minister Atal Bihari Vajpayee.
+32. The long-term objective of NPP 2000 was to achieve **population stabilization by the year 2045**.
+33. The **National Commission on Population (NCP)** was constituted in May 2000 and is chaired by the **Prime Minister of India**.
+34. The **National Rural Health Mission (NRHM)** was launched on **12 April 2005** by Prime Minister Dr. Manmohan Singh.
+35. An **ASHA (Accredited Social Health Activist)** is an honorary female community health volunteer deployed at the rate of **1 per 1,000 population** in rural areas.
+36. **Janani Suraksha Yojana (JSY)** was launched in April 2005 under NRHM to promote **institutional deliveries** among BPL and SC/ST pregnant women.
+37. Under JSY in Low Performing States (like UP), a rural mother receives a cash assistance of **Rs 1,400**, and the ASHA receives **Rs 600**.
+38. **Janani Shishu Suraksha Karyakram (JSSK)** was launched on **1 June 2011** to provide completely free, cashless delivery and newborn care.
+39. **Mission Indradhanush** was launched on **25 December 2014 (Good Governance Day)** to achieve full immunization coverage against 12 vaccine-preventable diseases.
+40. **Pradhan Mantri Matru Vandana Yojana (PMMVY)** was launched on **1 January 2017** under Section 4 of the National Food Security Act, 2013.
+41. Under PMMVY, pregnant women receive a direct cash incentive of **Rs 5,000 in DBT installments** for the first living child (and Rs 6,000 for a second girl child).
+42. **Pradhan Mantri Surakshit Matritva Abhiyan (PMSMA)** provides fixed-day free comprehensive antenatal check-ups on the **9th of every month**.
+43. As per NFHS-5, the proportion of **Institutional Deliveries in India** rose to **88.6%** (up from 78.9% in NFHS-4 and 38.7% in NFHS-3).
+44. Institutional deliveries in **Uttar Pradesh** reached **83.4%** in NFHS-5 (up from 67.8% in NFHS-4).
+45. The modern **Contraceptive Prevalence Rate (CPR)** among married women aged 15–49 in India is **67%** in NFHS-5.
+46. Female sterilization accounts for the overwhelming majority (**38%**) of all modern contraceptive methods used in India.
+47. **Ayushman Bharat - PM-JAY** provides health insurance coverage of **Rs 5 Lakh per family per year** for secondary and tertiary care.
+48. In September 2024, the Union Cabinet approved the expansion of Ayushman Bharat PM-JAY to provide **free health coverage to all senior citizens aged 70 and above**, irrespective of income.
+49. The **National Health Policy (NHP) 2017** set the target of raising government public health spending to **2.5% of GDP by 2025**.
+50. **Sample Registration System (SRS)** under the Registrar General of India publishes the official annual data for CBR, CDR, IMR, TFR, and MMR in India.
 
 ---
 
 ## Confused Pairs
 
-| A | B | Distinguishing fact |
-|---|---|---|
-| **CBR (per 1000)** | **TFR (per woman)** | Crude rate vs synthetic cohort fertility |
-| **Replacement TFR 2.1** | **CBR 2.1** | Different measures — never merge units |
-| **Natural growth** | **Actual growth** | CBR−CDR only vs ± migration |
-| **IMR** | **MMR** | Infant deaths / 1000 live births vs maternal deaths / 100,000 |
-| **NFHS-4 TFR 2.2** | **NFHS-5 TFR ~2.0** | Edition-bound survey figures |
-| **NPP 2000** | **Mission Parivar Vikas** | Policy document vs high-fertility district programme |
-| **Voluntary NPP** | **Emergency sterilisation targets** | Rights-based vs coercive legacy |
-| **Stabilisation** | **Immediate zero absolute growth** | Momentum can keep headcount rising |
-| **World Population Report** | **HDR / WEO** | **UNFPA** vs UNDP / IMF |
-
-## Must-score drill — rate units
-
-| Measure | Unit / meaning |
-|---|---|
-| CBR / CDR | Per **1,000** population |
-| TFR | Children **per woman** |
-| Replacement TFR | **~2.1** |
-| IMR | Infant deaths per **1,000 live births** |
-| MMR | Maternal deaths per **100,000 live births** (ratio teaching) |
-| Natural growth | **CBR − CDR** |
+| Confused Pair / Concept A | Confused Pair / Concept B | Trap / Crucial Difference Tested in UPPSC |
+| :--- | :--- | :--- |
+| **Infant Mortality Rate (IMR)**: Deaths under 1 year per **1,000 Live Births** | **Maternal Mortality Ratio (MMR)**: Maternal deaths per **100,000 (1 Lakh) Live Births** | **Trap**: The most common unit trap in competitive exams! IMR denominator is 1,000; MMR denominator is strictly 100,000 (1 Lakh). |
+| **Gross Reproduction Rate (GRR)**: Daughters born ignoring mortality | **Net Reproduction Rate (NRR)**: Daughters surviving to adulthood accounting for mortality | **Trap**: NRR is always less than or equal to GRR because NRR discounts for female child mortality. NRR = 1.0 means exact replacement. |
+| **Crude Birth Rate (CBR)**: Total births per 1,000 total population | **General Fertility Rate (GFR)**: Total births per 1,000 women aged 15–49 | **Trap**: CBR denominator is the entire population (including men and children); GFR denominator is strictly women in reproductive age. |
+| **NPP 2000 Medium-Term Goal**: TFR 2.1 by **2010** | **NPP 2000 Long-Term Goal**: Population stabilization by **2045** | **Trap**: Do not mix up the milestone years: 2010 was for TFR 2.1; 2045 was for total population stabilization. |
+| **National Commission on Population**: Chaired by the **Prime Minister** | **State Population Commission**: Chaired by the **Chief Minister** | **Trap**: NCP is chaired by the Prime Minister (not the Union Health Minister). |
+| **Janani Suraksha Yojana (JSY, 2005)**: Cash assistance for institutional delivery | **Janani Shishu Suraksha Karyakram (JSSK, 2011)**: 100% cashless, zero-expense deliveries | **Trap**: JSY provides cash incentives (Rs 1,400 rural); JSSK eliminates all out-of-pocket expenses (free drugs, tests, transport, c-section). |
+| **Neonatal Mortality (NMR)**: Deaths within **first 28 days of life** | **Infant Mortality (IMR)**: Deaths within **first 1 year (365 days) of life** | **Trap**: NMR is a subset of IMR. Neonatal deaths account for over 70% of all infant deaths in India. |
+| **National Health Mission (NHM)**: Integrates NRHM (2005) + NUHM (2013) | **Ayushman Bharat (2018)**: Integrates HWCs + PM-JAY | **Trap**: NHM is the overarching health system architecture; Ayushman Bharat is the flagship assurance & wellness scheme. |
+| **Lowest TFR State**: **Sikkim (1.1)** | **Highest TFR State**: **Bihar (3.0)** | **Trap**: Sikkim has the lowest TFR in India (1.1), far below replacement. Bihar is the highest (3.0). |
+| **SDG Target 3.1 for MMR**: Less than **70 per 100,000 live births by 2030** | **Current India MMR (SRS 2018–20)**: **97 per 100,000 live births** | **Trap**: India has reduced MMR from 130 to 97, and is on track to achieve the SDG target of $< 70$ by 2030. |
 
 ---
 
-## 4.1 Fertility — rates, trends and factors
+## Must-score drill — master tables
 
-**Fertility** measures how many births occur in a population.
+### Table 1: Master Matrix of Demographic Vital Rates & Mathematical Formulas
 
-### Key rates
-
-- **CBR** counts live births per thousand people — a crude, age-structure-sensitive rate.
-- **TFR** summarises lifetime fertility per woman — better for comparing fertility levels across places.
-- **Replacement-level TFR (~2.1)** is the fertility needed for a generation to replace itself under low mortality (small buffer above 2.0 for child mortality).
-- Age-specific fertility rates feed the TFR calculation in demographic teaching.
-
-### India’s fertility trend
-
-- National TFR has fallen over decades toward replacement.
-- NFHS-5 ~**2.0** signals national near-replacement; NFHS-4 **2.2** appears in older keys.
-- Bihar / UP / MP pockets stay above replacement; southern States fell earlier.
-- Absolute population can still rise after TFR hits 2.1 because of **population momentum**.
-
-### Factors affecting fertility
-
-- **Raise fertility:** early marriage, son preference, unmet need for contraception, poverty insurance motive, low female schooling.
-- **Lower fertility:** secondary education for girls, women’s paid work, urbanisation, falling IMR (fewer replacement births), accessible RH and spacing methods.
-- Cultural and regional patterns matter — one national average hides State divergence.
-
-**UPPCS (Pre) 2020**
-
-Replacement level Total Fertility Rate (TFR) is:
-
-A. 1.5
-B. 1.8
-C. 2.1
-D. 2.5
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard replacement teaching is 2.1 children per woman.
-
-**Ans: C.** 2.1.
-
-</details>
-
-**UPPCS (Pre) 2018**
-
-Natural growth of population is the outcome of which of the following?
-
-1. Crude Birth Rate
-2. Crude Death Rate
-3. Migration
-4. Marriages
-
-Select the correct answer from the code given below:
-
-A. Only 1
-B. Only 3
-C. 2 and 4
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Natural growth = CBR − CDR. Migration is induced change; marriages are not a vital-rate component of natural growth.
-
-**Ans: D.** 1 and 2.
-
-</details>
+| Vital Rate / Indicator | Standard Mathematical Formula | Units / Denominator | National Benchmark (SRS / NFHS-5) | Key Exam Concept & Significance |
+| :--- | :--- | :--- | :--- | :--- |
+| **Crude Birth Rate (CBR)** | $rac{	ext{Total Live Births in a year}}{	ext{Mid-Year Total Population}} 	imes 1,000$ | **Per 1,000 Total Population** | **19.5 per 1000** (Rural: 21.1, Urban: 16.1) | Crude measure because denominator includes children, males, and elderly who do not give birth. |
+| **General Fertility Rate (GFR)** | $rac{	ext{Total Live Births in a year}}{	ext{Total Women in Reproductive Age (15–49)}} 	imes 1,000$ | **Per 1,000 Women Aged 15–49** | **68.7 per 1000** | Refines CBR by restricting the denominator strictly to women of childbearing age. |
+| **Age-Specific Fertility Rate (ASFR)** | $rac{	ext{Live Births to Women in Age Group } x}{	ext{Total Women in Age Group } x} 	imes 1,000$ | **Per 1,000 Women in Age Group** | Peak fertility in India occurs in age group **20–24 years**. | Measures fertility behavior across 5-year reproductive age cohorts (15–19, 20–24, 25–29... 45–49). |
+| **Total Fertility Rate (TFR)** | $5 	imes \sum 	ext{ASFR} / 1,000$ | **Average Children per Woman** | **2.0** (NFHS-5: Rural 2.1, Urban 1.6) | Synthetic measure of lifetime completed family size. **Replacement Level TFR is 2.1**. |
+| **Gross Reproduction Rate (GRR)** | $	ext{TFR} 	imes \left(rac{	ext{Female Births}}{	ext{Total Births}}
+ight)$ | **Average Daughters per Woman** | $pprox \mathbf{0.95 - 1.0}$ | Average number of female children a woman would bear, ignoring female child mortality. |
+| **Net Reproduction Rate (NRR)** | $\sum \left[	ext{ASFR}_{	ext{Female}} 	imes 	ext{Female Survival Probability } (L_x)
+ight]$ | **Surviving Daughters per Woman** | **NRR = 1.0** represents exact demographic replacement. | Measures the extent to which a generation of newborn daughters replaces their mothers, accounting for mortality. |
+| **Crude Death Rate (CDR)** | $rac{	ext{Total Deaths in a year}}{	ext{Mid-Year Total Population}} 	imes 1,000$ | **Per 1,000 Total Population** | **6.0 per 1000** (SRS 2020) | Overall mortality rate; sensitive to age composition of population. |
+| **Infant Mortality Rate (IMR)** | $rac{	ext{Deaths of Infants under 1 Year of age}}{	ext{Total Live Births in that year}} 	imes 1,000$ | **Per 1,000 Live Births** | **28 per 1000** (Rural: 31, Urban: 19) | Premier indicator of socio-economic development, maternal nutrition, and primary healthcare quality. |
+| **Under-Five Mortality Rate (U5MR)** | $rac{	ext{Deaths of Children under 5 Years of age}}{	ext{Total Live Births in that year}} 	imes 1,000$ | **Per 1,000 Live Births** | **32 per 1000** (SRS) / 41.9 (NFHS-5) | Probability of dying before reaching exactly five years of age. |
+| **Maternal Mortality Ratio (MMR)** | $rac{	ext{Maternal Deaths from pregnancy-related causes}}{	ext{Total Live Births in that year}} 	imes \mathbf{100,000}$ | **Per 100,000 Live Births (Lakh)** | **97 per Lakh Live Births** (SRS 2018–20) | **CRITICAL EXAM TRAP**: Denominator is **100,000 Live Births**, NOT 1,000! SDG 3.1 target is MMR $< 70$. |
+| **Life Expectancy at Birth ($e_0$)** | Derived from demographic Life Tables | **Years of Life Expected** | **70.8 Years** (Females: 72.2 yrs, Males: 69.5 yrs) | Average number of years a newborn infant would live if prevailing mortality patterns at birth remain constant. |
 
 ---
 
-## 4.2 Mortality, life expectancy and health
+### Table 2: Chronological Evolution of India's Population & Health Policies
 
-**Mortality** measures deaths; health systems drive how fast death rates fall.
-
-### Rates
-
-- **CDR** = deaths per 1,000 population.
-- **IMR** = deaths of infants under one year per 1,000 live births — a sensitive development indicator.
-- **Under-five / child mortality** widens the age window beyond infancy.
-- **MMR** tracks maternal deaths related to pregnancy and childbirth (per 100,000 live births in ratio teaching).
-- **Life expectancy at birth** rises as mortality falls across ages.
-
-### Causes and transition
-
-- Early transition: infectious disease, poor sanitation, high maternal–neonatal deaths.
-- Later transition: non-communicable disease, injuries and ageing-related causes rise in share.
-- Public health (immunisation, ORS, safe delivery, nutrition) cut IMR/MMR after Independence — feeding Stage-2 growth when fertility stayed high (Topic 2).
-
-### Data sources
-
-- **SRS** for annual vital rates; **NFHS** for survey fertility/health; **CRS** for registered births/deaths; Census for snapshot structure (Topic 1).
+| Policy / Mission | Year Initiated | Key Leadership / Commission | Core Objectives & Milestones | Strategic Interventions & Key Outcomes |
+| :--- | :--- | :--- | :--- | :--- |
+| **First National Family Planning Programme** | **1952** (1st Five-Year Plan) | Planning Commission (Jawaharlal Nehru) | **India was the first country in the world** to launch an official government-sponsored national family planning programme. | Clinical approach; opened family planning clinics and distributed barrier contraceptives. |
+| **National Population Policy (NPP) 1976** | **April 1976** | Dr. Karan Singh (Union Health Minister) | Addressed rapid population growth; recommended raising legal age of marriage and monetary incentives for sterilization. | Led to the **Child Marriage Restraint (Amendment) Act, 1978** which raised minimum marriage age to **18 years for females and 21 years for males**. |
+| **M. S. Swaminathan Committee Report** | **1993–94** | Expert Group headed by Dr. M. S. Swaminathan | Drafted a national population policy shifting focus from coercive targets to reproductive health and gender empowerment. | Foundation for NPP 2000; advocated linking population goals with Panchayati Raj and female education. |
+| **National Population Policy (NPP) 2000** | **February 2000** | Union Cabinet (Atal Bihari Vajpayee) | 1. **Immediate**: Address unmet need for contraception and basic health infrastructure.<br>2. **Medium-Term**: Bring **TFR to Replacement Level (2.1) by 2010**.<br>3. **Long-Term**: Achieve **Stable Population by 2045** (subsequently pushed to 2070). | Established the **National Commission on Population (NCP)** chaired by the **Prime Minister**. Target: 100% institutional deliveries and universal immunization. |
+| **National Rural Health Mission (NRHM)** | **12 April 2005** | Ministry of Health & Family Welfare | Provide accessible, affordable, and quality healthcare to rural populations across 18 high-focus States. | Created the cadre of **ASHA (Accredited Social Health Activist)** — female community health volunteer (1 per 1,000 rural population). Launched **Janani Suraksha Yojana (JSY)** for institutional delivery. |
+| **National Health Mission (NHM)** | **2013** | Integrates NRHM (2005) and National Urban Health Mission (**NUHM 2013**) | Universal healthcare across rural and urban poor. Focus on RMNCH+A (Reproductive, Maternal, Newborn, Child plus Adolescent Health). | Free drugs and diagnostics service initiative; expansion of emergency ambulance networks (108 / 102). |
+| **National Health Policy (NHP) 2017** | **March 2017** | MoHFW | Shift from curative care to **wellness and preventive care**; increase public health expenditure to **2.5% of GDP** by 2025. | Target: Increase life expectancy to 70 years by 2025; reduce IMR to 28 by 2019 and U5MR to 23 by 2025; reduce TFR to 2.1. |
+| **Ayushman Bharat (PM-JAY & HWCs)** | **September 2018** | National Health Authority (NHA) / MoHFW | Two pillars:<br>1. **Ayushman Arogya Mandirs (1.5 Lakh HWCs)** for Comprehensive Primary Health Care.<br>2. **PM-JAY**: Cashless health cover of **Rs 5 Lakh per family per year** for secondary/tertiary hospitalisation. | World's largest government-funded health assurance scheme, covering bottom 40% vulnerable population (expanded in 2024 to all citizens aged 70+). |
 
 ---
 
-## 4.3 Population policy and family welfare
+### Table 3: State-Wise Health & Demographic Disparities in India
 
-**Population policy** sets goals and ethics for fertility, RH and stabilisation.
+| Demographic Metric | Top Performing States (Best) | Bottom Performing States (Worst / High Burden) | Uttar Pradesh Position |
+| :--- | :--- | :--- | :--- |
+| **Total Fertility Rate (TFR — NFHS-5)** | **1. Sikkim (1.1)**<br>2. Goa & Ladakh (1.3)<br>3. West Bengal & Kerala (1.5)<br>4. Tamil Nadu & Punjab (1.6) | **1. Bihar (3.0)**<br>2. Meghalaya (2.9)<br>3. Uttar Pradesh (2.4)<br>4. Jharkhand (2.3)<br>5. Manipur (2.2) | **TFR: 2.4** (Down from 2.7 in NFHS-4 and 3.8 in NFHS-3). Still above replacement level (2.1). |
+| **Infant Mortality Rate (IMR per 1000)** | **1. Kerala (6)**<br>2. Mizoram (12)<br>3. Goa (13)<br>4. Tamil Nadu (13) | **1. Madhya Pradesh (43)**<br>2. Uttar Pradesh (38)<br>3. Assam (36)<br>4. Chhattisgarh (35)<br>5. Odisha (34) | **IMR: 38 per 1000** (Substantially improved from 67 in 2008, but 2nd highest in India). |
+| **Maternal Mortality Ratio (MMR per 1 Lakh)** | **1. Kerala (19)**<br>2. Maharashtra (33)<br>3. Telangana (43)<br>4. Andhra Pradesh (45)<br>5. Tamil Nadu (54) | **1. Assam (195)**<br>2. Madhya Pradesh (173)<br>3. Uttar Pradesh (167)<br>4. Chhattisgarh (137)<br>5. Odisha (119) | **MMR: 167 per Lakh Live Births** (Down from 359 in 2007–09; high-priority intervention state). |
+| **Institutional Deliveries (%)** | **1. Kerala (99.8%)**<br>2. Tamil Nadu (99.5%)<br>3. Goa (99.5%) | **1. Nagaland (45.7%)**<br>2. Meghalaya (58.1%)<br>3. Bihar (76.2%) | **Institutional Deliveries: 83.4%** in NFHS-5 (up from 67.8% in NFHS-4 and 20.6% in NFHS-3). |
 
-### From targets to NPP 2000
+---
 
-- India began official family planning early after Independence.
-- **Emergency-era** coercive sterilisation damaged legitimacy.
-- **NPP 2000** reset the frame: **voluntary**, **target-free**, **decentralised**, community need-based, rights-based RH.
+## Teaching cards
 
-### NPP 2000 — must-score aims
+### 2.1 Fertility Analytics: Replacement Level & Component Rates
 
-- Medium / long-term: bring TFR to replacement (**2.1**) and move toward **stabilisation by 2045**.
-- Immediate service goals: immunisation, institutional delivery, civil registration completeness.
-- Cross-cutting: girls’ education, women’s economic role, adolescent health, nutrition, quality contraceptive choice.
+#### A. Total Fertility Rate (TFR) Mechanics
+The Total Fertility Rate is the most standard, cross-nationally comparable measure of fertility.
+- **Definition**: The average number of children that would be born alive to a woman during her lifetime if she were to pass through her childbearing years (15–49) conforming to the age-specific fertility rates of a given year.
+- **Replacement Level Fertility ($TFR = 2.1$)**:
+  - The level of fertility at which a population exactly replaces itself from one generation to the next without migration.
+  - Why **2.1** and not 2.0? Because slightly more males are born than females (natural Sex Ratio at Birth is ~105 boys per 100 girls), and some female children die before reaching their reproductive age (15 years). In high-mortality developing countries, replacement TFR can be as high as 2.3 to 2.5.
+- **Determinants of Falling Fertility in India**:
+  1. Female education and secondary school completion.
+  2. Increase in mean female age at marriage.
+  3. Contraceptive Prevalence Rate (CPR — reached **67%** in NFHS-5).
+  4. Urbanisation and nuclearisation of families.
+  5. Reduction in Infant Mortality Rate (lower child loss reduces the desire for "insurance births").
 
-### Family welfare and programmes
+```
+                      MORTALITY INDICATORS HIERARCHY
+  ┌─────────────────────────────────────────────────────────────────────────────┐
+  │                           UNDER-5 MORTALITY (U5MR)                          │
+  │                     (Deaths between Birth and Age 5)                        │
+  │  ┌───────────────────────────────────────────────────────────────────────┐  │
+  │  │                     INFANT MORTALITY RATE (IMR)                       │  │
+  │  │                  (Deaths between Birth and 1 Year)                    │  │
+  │  │  ┌─────────────────────────────────────────────────────────────────┐  │  │
+  │  │  │                  NEONATAL MORTALITY RATE (NMR)                  │  │  │
+  │  │  │                (Deaths between Birth and 28 Days)               │  │  │
+  │  │  │  ┌───────────────────────────┐ ┌─────────────────────────────┐  │  │  │
+  │  │  │  │ Early Neonatal (0–7 Days) │ │ Late Neonatal (7–28 Days)   │  │  │  │
+  │  │  │  └───────────────────────────┘ └─────────────────────────────┘  │  │  │
+  │  │  └─────────────────────────────────────────────────────────────────┘  │  │
+  │  │  ┌─────────────────────────────────────────────────────────────────┐  │  │
+  │  │  │            Post-Neonatal Mortality (28 Days to 1 Year)          │  │  │
+  │  │  └─────────────────────────────────────────────────────────────────┘  │  │
+  │  └───────────────────────────────────────────────────────────────────────┘  │
+  │  ┌───────────────────────────────────────────────────────────────────────┐  │
+  │  │                Child Mortality (Between Age 1 and Age 5)              │  │
+  │  └───────────────────────────────────────────────────────────────────────┘  │
+  └─────────────────────────────────────────────────────────────────────────────┘
+```
 
-- Contraceptive services, spacing, safe motherhood, child health and counselling sit under family welfare / NHM teaching.
-- **Mission Parivar Vikas** intensifies services in high-fertility districts.
-- Stabilisation tools: delay marriage, educate girls, expand RH access, reduce poverty’s insurance fertility — **not** quota camps.
+---
 
-### Unit trap (UP 2021 Bill stem)
+### 2.2 Maternal Health & Key Government Schemes
 
-- Replacement **2.1** and State TFR figures are **not** “per thousand population”.
-- Stems that attach CBR units to fertility/TFR statements are false.
-
-**UPPCS (Pre) 2021**
-
-With reference to the Uttar Pradesh Population Control Bill 2021, which of the following statements is/are correct?
-
-1. This Bill aims to bring the birth rate down to 2.1 per thousands population by 2026.
-2. At present, the fertility rate in the State is 2.7 per thousand.
-
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Both statements misuse “per thousand” for fertility/replacement figures that belong to TFR (per woman), not CBR.
-
-**Ans: D.** Neither 1 nor 2.
-
-</details>
+1. **Janani Suraksha Yojana (JSY, April 2005)**:
+   - Safe motherhood intervention under the National Health Mission to reduce maternal and neonatal mortality by promoting **institutional delivery** among poor pregnant women.
+   - **Cash Assistance in Low Performing States (LPS like UP, Bihar, MP, Rajasthan)**:
+     - Rural Mothers: **Rs 1,400** (+ Rs 600 ASHA incentive).
+     - Urban Mothers: **Rs 1,000** (+ Rs 400 ASHA incentive).
+2. **Janani Shishu Suraksha Karyakram (JSSK, June 2011)**:
+   - Entitles all pregnant women delivering in public health institutions to **absolutely free and zero expense deliveries**, including free caesarean sections, free drugs, free diagnostics, free diet during hospital stay, and free transport from home to hospital and back.
+   - Extends identical free entitlements to all sick neonates up to 1 year of age.
+3. **Pradhan Mantri Surakshit Matritva Abhiyan (PMSMA)**:
+   - Provides assured, comprehensive, and quality antenatal care (ANC) on the **9th day of every month** free of cost to all pregnant women in their 2nd and 3rd trimesters by specialist doctors.
+4. **Mission Indradhanush (Launched 25 December 2014)**:
+   - Immunization drive to achieve $> 90\%$ full immunization coverage for children up to 2 years of age and pregnant women.
+   - Protects against **12 Vaccine-Preventable Diseases**: Diphtheria, Pertussis, Tetanus, Polio, Measles, Rubella, severe childhood Tuberculosis, Hepatitis B, Meningitis and Pneumonia caused by *Haemophilus influenzae* type B (HiB), Rotavirus, Pneumococcal Conjugate (PCV), and Japanese Encephalitis (JE in endemic districts).
 
 ---
 
 ## Complete PYQ Bank (UPPCS)
 
-**Q1. UPPCS (Pre) 2018** — Natural growth
+> UPPCS-mapped / Category A stems. Broader Extra Drill follows.
 
-Natural growth of population is the outcome of which of the following?
+### Category A: Fertility Metrics & Total Fertility Rate (TFR)
 
-1. Crude Birth Rate
-2. Crude Death Rate
-3. Migration
-4. Marriages
-
-A. Only 1
-B. Only 3
-C. 2 and 4
-D. 1 and 2
-
+1. The Total Fertility Rate (TFR) required for population replacement level is:
+A. 1.8  
+B. 2.0  
+C. 2.1  
+D. 2.3  
 <details>
 <summary>Show answer</summary>
 
-**Logic:** CBR and CDR only.
-
-**Ans: D.** 1 and 2.
-
+**Ans: C. 2.1**  
+**Logic:** A Total Fertility Rate of 2.1 children per woman is globally recognized as the replacement level fertility under normal sex ratio at birth and standard mortality conditions.
 </details>
 
-**Q2. UPPCS (Pre) 2020** — Replacement TFR
-
-Replacement level Total Fertility Rate (TFR) is:
-
-A. 1.5
-B. 1.8
-C. 2.1
-D. 2.5
-
+2. According to the National Family Health Survey-5 (NFHS-5), what is the Total Fertility Rate (TFR) of India?
+A. 2.4  
+B. 2.2  
+C. 2.0  
+D. 1.8  
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 2.1 per woman.
-
-**Ans: C.** 2.1.
-
+**Ans: C. 2.0**  
+**Logic:** NFHS-5 (2019-21) recorded India's national TFR at 2.0, below the replacement level of 2.1.
 </details>
 
-**Q3. UPPCS (Pre) 2021** — UP Bill units
-
-With reference to the Uttar Pradesh Population Control Bill 2021, which of the following statements is/are correct?
-
-1. This Bill aims to bring the birth rate down to 2.1 per thousands population by 2026.
-2. At present, the fertility rate in the State is 2.7 per thousand.
-
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
+3. Which Indian State recorded the lowest Total Fertility Rate (TFR) in NFHS-5?
+A. Kerala  
+B. Tamil Nadu  
+C. Sikkim  
+D. Goa  
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Per-thousand unit fails for TFR/replacement wording.
-
-**Ans: D.** Neither 1 nor 2.
-
+**Ans: C. Sikkim**  
+**Logic:** Sikkim recorded the lowest TFR in India at 1.1 children per woman in NFHS-5.
 </details>
 
-**Q4. Standard** — NPP year / horizon
-
-National Population Policy aiming at stabilisation around 2045 was announced in
-
-A. 1952
-B. 1976
-C. 2000
-D. 2015
-
+4. The average number of daughters that would be born to a woman if she survives to the end of her reproductive period and bears children according to prevailing age-specific fertility rates is known as:
+A. Total Fertility Rate  
+B. Gross Reproduction Rate (GRR)  
+C. Net Reproduction Rate (NRR)  
+D. General Fertility Rate  
 <details>
 <summary>Show answer</summary>
 
-**Logic:** NPP **2000**; 2045 is the long-term stabilisation horizon in teaching.
-
-**Ans: C.** 2000.
-
-</details>
-
-**Q5. Standard** — IMR definition
-
-Infant Mortality Rate is
-
-A. Deaths of persons above 60 per 1000 population
-B. Infant deaths under age 1 per 1000 live births
-C. Maternal deaths per 1000 population
-D. Child deaths aged 5–14 per 1000 women
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Under-1 deaths per 1000 live births.
-
-**Ans: B.**
-
-</details>
-
-**Q6. Standard** — TFR unit
-
-Total Fertility Rate is expressed as
-
-A. Births per 1000 population
-B. Children per woman
-C. Deaths per 1000 live births
-D. Couples per square kilometre
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Per woman — never per thousand population.
-
-**Ans: B.**
-
-</details>
-
-**Q7. Standard** — World Population Day
-
-World Population Day is observed on
-
-A. 5 June
-B. 11 July
-C. 16 September
-D. 1 December
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** 11 July (UN).
-
-**Ans: B.** 11 July.
-
-</details>
-
-**Q8. Standard** — UNFPA report
-
-World Population Report is associated with
-
-A. IMF
-B. WHO
-C. UNDP
-D. UNFPA
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** UNFPA; UNDP → HDR; IMF → WEO.
-
-**Ans: D.** UNFPA.
-
-</details>
-
-**Q9. Standard** — NPP character
-
-Which best describes NPP 2000?
-
-A. Coercive sterilisation quotas as the core tool
-B. Voluntary, target-free, decentralised, rights-based RH
-C. A Census methodology manual
-D. A World Bank loan agreement only
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Post-Emergency voluntary frame.
-
-**Ans: B.**
-
-</details>
-
-**Q10. Standard** — NFHS-5 TFR
-
-NFHS-5 national TFR is about
-
-A. 3.5
-B. 2.0
-C. 4.0
-D. 1.0 exactly in every State
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** ~2.0 nationally; not uniform across States.
-
-**Ans: B.** 2.0.
-
+**Ans: B. Gross Reproduction Rate (GRR)**  
+**Logic:** Gross Reproduction Rate (GRR) measures the average number of female daughters a woman would produce, assuming no female mortality before the end of the reproductive span.
 </details>
 
 ---
 
-## Complete PYQ Bank (UKPCS)
+## Ghatnachakra Extra Drill — Fertility Mortality Health Population Policies
 
-**Q1. Standard**
+Extra Drill rebuilt from mixed RO/ARO–BPSC–UPSC–coaching stems (not a full Purvalokan dump). Expand when the book is pasted.
 
-Natural increase of population depends on
+### Category B: Mortality Indicators (IMR, MMR, CDR) & Life Expectancy
 
-A. Births and deaths
-B. Only migration
-C. Only literacy
-D. Only density
-
+5. Maternal Mortality Ratio (MMR) is expressed as the number of maternal deaths per:
+A. 1,000 Live Births  
+B. 10,000 Live Births  
+C. 100,000 (1 Lakh) Live Births  
+D. 1,000,000 Live Births  
 <details>
 <summary>Show answer</summary>
 
-**Logic:** CBR − CDR.
-
-**Ans: A.** Births and deaths.
-
+**Ans: C. 100,000 (1 Lakh) Live Births**  
+**Logic:** Maternal Mortality Ratio is standardly calculated as maternal deaths per 100,000 (1 Lakh) live births during the reference period.
 </details>
 
-**Q2. Standard**
-
-IMR differs from MMR because
-
-A. Both use the same denominator always
-B. IMR is infant deaths; MMR is maternal deaths
-C. MMR counts only male infants
-D. IMR is per woman
-
+6. In India, which State has the lowest Infant Mortality Rate (IMR) according to Sample Registration System (SRS) data?
+A. Goa  
+B. Tamil Nadu  
+C. Kerala  
+D. Maharashtra  
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Different events and usual denominators.
-
-**Ans: B.**
-
+**Ans: C. Kerala**  
+**Logic:** Kerala consistently records the lowest Infant Mortality Rate in India (approx. 6 deaths per 1,000 live births).
 </details>
 
-**Q3. Standard**
-
-Population stabilisation by 2045 is a keyed aim of
-
-A. Census Act 1948 alone
-B. NPP 2000
-C. Bretton Woods twins
-D. SEBI Act
-
+7. Neonatal Mortality Rate (NMR) refers to the death of an infant within how many days of birth?
+A. 7 days  
+B. 14 days  
+C. 28 days  
+D. 365 days  
 <details>
 <summary>Show answer</summary>
 
-**Logic:** NPP 2000 long-term horizon.
-
-**Ans: B.** NPP 2000.
-
+**Ans: C. 28 days**  
+**Logic:** Neonatal mortality refers to deaths of newborn infants occurring during the first 28 completed days of life per 1,000 live births.
 </details>
 
-**Q4. Standard**
-
-Which factor typically **lowers** fertility over time?
-
-A. Early marriage
-B. Girls’ secondary education
-C. Son preference
-D. Unmet contraception need
-
+8. What is the target for Maternal Mortality Ratio (MMR) set under Target 3.1 of the UN Sustainable Development Goals (SDG) to be achieved by 2030?
+A. Less than 100 per 1 Lakh Live Births  
+B. Less than 70 per 1 Lakh Live Births  
+C. Less than 50 per 1 Lakh Live Births  
+D. Less than 25 per 1 Lakh Live Births  
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Female education is a classic fertility-depressing factor.
-
-**Ans: B.**
-
+**Ans: B. Less than 70 per 1 Lakh Live Births**  
+**Logic:** SDG Target 3.1 mandates reducing the global maternal mortality ratio to less than 70 per 100,000 live births by 2030.
 </details>
 
-**Q5. Standard**
+---
 
-SRS is mainly used to estimate
 
-A. Complete Census headcount each year
-B. Vital rates such as birth and death rates
-C. Only GST collections
-D. Only urban agglomeration limits
+### Category C: Population Policies & Government Health Missions
 
+9. Which was the first country in the world to launch an official National Family Planning Programme?
+A. China  
+B. United States  
+C. India  
+D. Sweden  
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Sample vital registration system under ORGI.
+**Ans: C. India**  
+**Logic:** India launched its National Family Planning Programme in 1952 during the First Five-Year Plan, becoming the first country globally to adopt an official population policy.
+</details>
 
-**Ans: B.**
+10. The National Population Policy (NPP) 2000 set the long-term objective of achieving a stable population in India by the year:
+A. 2010  
+B. 2025  
+C. 2045  
+D. 2070  
+<details>
+<summary>Show answer</summary>
 
+**Ans: C. 2045**  
+**Logic:** NPP 2000 laid down the long-term objective of stabilizing the national population by 2045 (with TFR 2.1 by 2010).
+</details>
+
+11. Who is the *ex-officio* Chairman of the National Commission on Population (NCP) in India?
+A. Union Minister of Health and Family Welfare  
+B. Prime Minister of India  
+C. Vice-Chairman of NITI Aayog  
+D. Registrar General of India  
+<details>
+<summary>Show answer</summary>
+
+**Ans: B. Prime Minister of India**  
+**Logic:** The National Commission on Population, constituted in May 2000, is chaired by the Prime Minister of India.
+</details>
+
+12. Under the National Rural Health Mission (NRHM), an ASHA (Accredited Social Health Activist) worker is generally deployed for a rural population of:
+A. 500 population  
+B. 1,000 population  
+C. 2,000 population  
+D. 5,000 population  
+<details>
+<summary>Show answer</summary>
+
+**Ans: B. 1,000 population**  
+**Logic:** One ASHA worker is selected for every village / 1,000 population in rural areas (or 1 per 500–600 in tribal and hilly areas).
+</details>
+
+13. Janani Suraksha Yojana (JSY) was launched primarily to promote:
+A. Female literacy in rural areas  
+B. Institutional deliveries among poor pregnant women  
+C. Free distribution of sanitary napkins  
+D. Immunization against Japanese Encephalitis  
+<details>
+<summary>Show answer</summary>
+
+**Ans: B. Institutional deliveries among poor pregnant women**  
+**Logic:** JSY was launched on 12 April 2005 under NRHM to provide cash assistance to pregnant women belonging to BPL families to encourage institutional deliveries.
 </details>
 
 ---
 
 ## Practice Zone
 
-**Q1.** CBR is measured per
-
-A. Woman
-B. 1000 population
-C. 1000 live births only
-D. Square kilometre
-
+1. General Fertility Rate (GFR) is defined as the number of live births in a year per:
+A. 1,000 total population  
+B. 1,000 married women of all ages  
+C. 1,000 women in the reproductive age group (15–49 years)  
+D. 1,000 total births  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** 1000 population.
-
-**Logic:** Crude rate definition.
-
+**Ans: C. 1,000 women in the reproductive age group (15–49 years)**  
+**Logic:** GFR is $rac{	ext{Live Births}}{	ext{Women Aged 15–49}} 	imes 1,000$.
 </details>
 
-**Q2.** Which is **not** part of natural growth?
-
-A. CBR
-B. CDR
-C. Net migration
-D. Difference of CBR and CDR
-
+2. When the Net Reproduction Rate (NRR) of a country reaches exactly 1.0, it indicates that:
+A. Population will double in 10 years  
+B. Each generation of mothers is exactly replacing itself with one surviving daughter  
+C. Birth rate equals 50 per 1000  
+D. Child sex ratio is 1000  
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Net migration.
-
-**Logic:** Induced / actual growth channel.
-
+**Ans: B. Each generation of mothers is exactly replacing itself with one surviving daughter**  
+**Logic:** NRR = 1.0 indicates that a cohort of newborn females will bear just enough daughters over their lifetime to replace themselves, leading to demographic replacement.
 </details>
 
-**Q3.** Assertion (A): Replacement TFR is 2.1.  
-Reason (R): TFR is expressed per thousand population like CBR.
-
-A. Both true; R explains A
-B. Both true; R does not explain A
-C. A true, R false
-D. A false, R true
-
+3. In India, peak Age-Specific Fertility (ASFR) is observed in which female age group?
+A. 15–19 years  
+B. 20–24 years  
+C. 30–34 years  
+D. 35–39 years  
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** A true, R false.
-
-**A/R logic:** 2.1 is correct; unit in R is wrong.
-
+**Ans: B. 20–24 years**  
+**Logic:** In India, age-specific fertility reaches its biological and social peak in the 20–24 age bracket, followed closely by the 25–29 age bracket.
 </details>
 
-**Q4.** IMR denominator is
-
-A. Mid-year population
-B. Live births
-C. Married women only
-D. Workers aged 15–59
-
+4. Under-Five Mortality Rate (U5MR) measures child deaths occurring between:
+A. Birth and 28 days  
+B. Birth and 1 year  
+C. Birth and exact age of 5 years  
+D. 1 year and 5 years  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Live births.
-
-**Logic:** Per 1000 live births.
-
+**Ans: C. Birth and exact age of 5 years**  
+**Logic:** U5MR is the probability of a child dying before completing five years of age per 1,000 live births.
 </details>
 
-**Q5.** Life expectancy measures
-
-A. TFR
-B. Average expected years of life under current mortality
-C. Only IMR
-D. Only migration
-
+5. What is the Maternal Mortality Ratio (MMR) of Uttar Pradesh as per the latest SRS (2018–20) report?
+A. 97 per Lakh Live Births  
+B. 130 per Lakh Live Births  
+C. 167 per Lakh Live Births  
+D. 215 per Lakh Live Births  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** Mortality summary, not fertility.
-
+**Ans: C. 167 per Lakh Live Births**  
+**Logic:** UP's MMR stands at 167 per Lakh live births (down from 359 in 2007–09 and 216 in 2015–17).
 </details>
 
-**Q6.** NPP 2000 is best paired with
-
-A. 1976 sterilisation camp quotas as its model
-B. Voluntary informed choice and TFR 2.1 / stabilisation 2045
-C. Abolition of Census
-D. Mandatory two-child law for all States
-
+6. The Child Marriage Restraint (Amendment) Act, 1978 raised the minimum legal age of marriage in India to:
+A. 16 for females and 18 for males  
+B. 18 for females and 21 for males  
+C. 21 for both females and males  
+D. 18 for both females and males  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** Rights-based policy document.
-
+**Ans: B. 18 for females and 21 for males**  
+**Logic:** The 1978 amendment to the Sharda Act (Child Marriage Restraint Act 1929) established 18 years for females and 21 years for males.
 </details>
 
-**Q7.** Mission Parivar Vikas mainly targets
-
-A. Only metro Smart Cities
-B. High-fertility districts for intensified FP/RH
-C. Only stock markets
-D. Only World Bank projects
-
+7. The Jaya Jaitly Task Force constituted in 2020 by the Ministry of Women and Child Development examined:
+A. Protection of women from domestic violence  
+B. Increasing the legal minimum age of marriage for females to 21 years  
+C. Mandatory maternity leave in informal sectors  
+D. Reservation of women in Parliament  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** Programme neighbour to NPP — not a substitute label for NPP itself.
-
+**Ans: B. Increasing the legal minimum age of marriage for females to 21 years**  
+**Logic:** The Jaya Jaitly committee recommended raising the female age of marriage from 18 to 21 years to improve maternal nutrition and female higher education attainment.
 </details>
 
-**Q8.** Match List
-
-| List-I | List-II |
-|---|---|
-| A. CBR | 1. Per 1000 population |
-| B. TFR | 2. Per woman |
-| C. IMR | 3. Per 1000 live births |
-| D. Replacement fertility | 4. About 2.1 |
-
-A. A-1, B-2, C-3, D-4
-B. A-2, B-1, C-4, D-3
-C. A-1, B-3, C-2, D-4
-D. A-4, B-2, C-1, D-3
-
+8. Janani Shishu Suraksha Karyakram (JSSK), launched in June 2011, provides free entitlements to sick infants up to what age?
+A. Up to 28 days  
+B. Up to 6 months  
+C. Up to 1 year of age  
+D. Up to 5 years of age  
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
-
-**Logic:** Unit spine for this chapter.
-
+**Ans: C. Up to 1 year of age**  
+**Logic:** JSSK guarantees completely free treatment, diagnostics, drugs, and transport for sick neonates and infants up to 1 year of age in all public health facilities.
 </details>
 
-**Q9.** High TFR is more likely where
-
-A. Female secondary schooling is universal and early marriage is rare
-B. Early marriage and son preference persist with weak RH access
-C. Only Stage 5 ageing exists
-D. Only zero population growth exists
-
+9. Under the Pradhan Mantri Surakshit Matritva Abhiyan (PMSMA), free antenatal health check-ups are conducted on which day of every month?
+A. 1st day  
+B. 9th day  
+C. 15th day  
+D. Last Sunday  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** Factor map.
-
+**Ans: B. 9th day**  
+**Logic:** PMSMA guarantees free, quality antenatal care to pregnant women in their 2nd/3rd trimesters on the 9th day of every month at public health clinics.
 </details>
 
-**Q10.** Population momentum means
-
-A. TFR 2.1 stops absolute growth instantly
-B. Absolute numbers can keep rising after fertility falls
-C. CDR always exceeds CBR in Stage 2
-D. Migration becomes illegal
-
+10. Mission Indradhanush, launched in December 2014, was designed to achieve:
+A. Universal secondary school education  
+B. Over 90% full immunization coverage against vaccine-preventable diseases  
+C. Direct cash transfers to small farmers  
+D. Electrification of all rural villages  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** Young cohort still enters childbearing ages.
-
+**Ans: B. Over 90% full immunization coverage against vaccine-preventable diseases**  
+**Logic:** Mission Indradhanush targets unvaccinated and partially vaccinated children and pregnant women to achieve $> 90\%$ full immunization coverage against 12 diseases.
 </details>
 
-**Q11.** Emergency legacy for population policy taught that
-
-A. Coercion builds lasting trust
-B. Target-driven sterilisation camps damaged legitimacy
-C. NPP 2000 copied Emergency quotas
-D. Census was abolished in 1975
-
+11. Under the Pradhan Mantri Matru Vandana Yojana (PMMVY), what is the total cash incentive provided to eligible pregnant and lactating mothers for their first child?
+A. Rs 2,000  
+B. Rs 5,000  
+C. Rs 6,000  
+D. Rs 10,000  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** Why NPP stressed voluntary choice.
-
+**Ans: B. Rs 5,000**  
+**Logic:** PMMVY provides Rs 5,000 in DBT installments for the first child (the remaining Rs 1,000 is provided under JSY after institutional delivery, making total benefit Rs 6,000).
 </details>
 
-**Q12.** Which pair is correct?
-
-A. World Population Report — UNFPA
-B. World Population Report — IMF
-C. World Population Day — 5 June
-D. NPP — 2014 only
-
+12. In the National Health Policy 2017, what is the targeted level of public health expenditure as a percentage of GDP to be achieved by 2025?
+A. 1.5% of GDP  
+B. 2.0% of GDP  
+C. 2.5% of GDP  
+D. 4.0% of GDP  
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
-
-**Logic:** UNFPA; Day = 11 July; NPP = 2000.
-
+**Ans: C. 2.5% of GDP**  
+**Logic:** NHP 2017 targets progressively increasing government health spending to 2.5% of GDP by 2025.
 </details>
 
-**Q13.** MMR concerns deaths of
-
-A. Infants only
-B. Mothers related to pregnancy/childbirth
-C. Only males above 60
-D. Only migrants
-
+13. What is the current Life Expectancy at Birth ($e_0$) in India according to recent demographic estimates?
+A. 62.5 years  
+B. 65.4 years  
+C. 70.8 years  
+D. 76.2 years  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** Maternal mortality.
-
+**Ans: C. 70.8 years**  
+**Logic:** India's average life expectancy at birth has risen to 70.8 years (Females: 72.2 years, Males: 69.5 years).
 </details>
 
-**Q14.** NFHS is run mainly under
-
-A. RBI
-B. MoHFW / IIPS survey system
-C. SEBI
-D. Election Commission
-
+14. Which Indian State has the highest life expectancy at birth?
+A. Himachal Pradesh  
+B. Goa  
+C. Kerala  
+D. Punjab  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** Health ministry survey lane.
-
+**Ans: C. Kerala**  
+**Logic:** Kerala leads the country with a life expectancy at birth of 75.3 years.
 </details>
 
-**Q15.** Which statement is correct?
-
-A. Falling IMR always raises TFR forever
-B. Falling IMR can later support lower desired family size
-C. IMR equals TFR
-D. IMR is per woman
-
+15. What is the difference between Maternal Mortality Ratio (MMR) and Maternal Mortality Rate?
+A. Ratio uses 100,000 live births; Rate uses 100,000 women of reproductive age (15–49)  
+B. Ratio uses 1,000 live births; Rate uses 10,000 live births  
+C. Both are identical terms  
+D. Rate is calculated only for urban areas  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** Insurance-birth logic eases as child survival rises.
-
+**Ans: A. Ratio uses 100,000 live births; Rate uses 100,000 women of reproductive age (15–49)**  
+**Logic:** Maternal Mortality Ratio (MMR) = $rac{	ext{Maternal Deaths}}{	ext{Live Births}} 	imes 100,000$. Maternal Mortality Rate = $rac{	ext{Maternal Deaths}}{	ext{Women Aged 15–49}} 	imes 100,000$.
 </details>
 
-**Q16.** Immediate NPP-style service goals include
-
-A. Only stock-market listing of hospitals
-B. Immunisation, institutional delivery, civil registration completeness
-C. Ending all migration
-D. Raising CDR deliberately
-
+16. In India, what percentage of deliveries were conducted in healthcare institutions according to NFHS-5 (2019–21)?
+A. 67.8%  
+B. 78.9%  
+C. 88.6%  
+D. 95.4%  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** Service package teaching.
-
+**Ans: C. 88.6%**  
+**Logic:** Institutional deliveries in India rose to 88.6% in NFHS-5 (from 78.9% in NFHS-4 and 38.7% in NFHS-3).
 </details>
 
-**Q17.** TFR above replacement in a State means
-
-A. Guaranteed Stage 5 decline next year
-B. Fertility still high enough that, with low mortality, population tends to grow
-C. CBR must be exactly 2.1 per thousand
-D. Literacy must be zero
-
+17. Which contraceptive method accounts for the largest share of modern contraceptive usage in India?
+A. Male Condoms  
+B. Oral Contraceptive Pills  
+C. Intrauterine Devices (IUDs)  
+D. Female Sterilization  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** Replacement concept.
-
+**Ans: D. Female Sterilization**  
+**Logic:** Female sterilization remains the dominant modern contraceptive method in India, accounting for ~38% of all contraceptive practice among married women.
 </details>
 
-**Q18.** Family welfare is mainly about
-
-A. Only corporate CSR
-B. RH, contraception, MCH services
-C. Only railway budgets
-D. Only agriculture MSP
-
+18. What is the target year set by the National Health Policy 2017 to eliminate Kala-Azar and Lymphatic Filariasis in India?
+A. 2017  
+B. 2020  
+C. 2025  
+D. 2030  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** MoHFW programme lane.
-
+**Ans: A. 2017**  
+**Logic:** NHP 2017 set targets to eliminate Kala-Azar and Lymphatic Filariasis by 2017, Leprosy by 2018, and Tuberculosis by 2025.
 </details>
 
-**Q19.** Which is a **mortality** indicator?
-
-A. TFR
-B. CBR
-C. IMR
-D. Sex ratio
-
+19. In Uttar Pradesh, what was the Infant Mortality Rate (IMR) as per SRS 2020?
+A. 28 per 1000  
+B. 38 per 1000  
+C. 43 per 1000  
+D. 50 per 1000  
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** IMR.
-
-**Logic:** Sex ratio is composition (Topic 3); CBR/TFR are fertility.
-
+**Ans: B. 38 per 1000**  
+**Logic:** UP's IMR in SRS 2020 was 38 deaths per 1,000 live births (National average: 28).
 </details>
 
-**Q20.** Assertion (A): NPP 2000 rejected coercive targets.  
-Reason (R): Emergency sterilisation camps had undermined public trust in family planning.
-
-A. Both true; R explains A
-B. Both true; R does not explain A
-C. A true, R false
-D. A false, R true
-
+20. The 'Ayushman Arogya Mandir' (formerly Ayushman Bharat Health and Wellness Centres) are designed to provide:
+A. Tertiary multi-speciality organ transplants  
+B. Comprehensive Primary Health Care (CPHC) including NCD screening and free essential drugs  
+C. Ayush corporate hospitals only  
+D. Private dental surgery  
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
-
-**A/R logic:** Policy design reacts to the coercive legacy.
-
+**Ans: B. Comprehensive Primary Health Care (CPHC) including NCD screening and free essential drugs**  
+**Logic:** Ayushman Arogya Mandirs transform primary health sub-centres and PHCs to deliver comprehensive primary care, maternal-child health, and free diagnostic/drug services.
 </details>
 
-**Q21.** CDR falling while CBR stays high produces
-
-A. Natural decrease only
-B. Rapid natural increase (explosion mechanism)
-C. Zero IMR by definition
-D. Immediate Stage 5
-
+21. What is the primary cause of neonatal deaths within the first 28 days of life in India?
+A. Congenital malaria  
+B. Prematurity / Low birth weight and neonatal asphyxia/infections  
+C. Accidental injuries  
+D. Malnutrition during adolescence  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** Topic 2 Stage-2 bridge.
-
+**Ans: B. Prematurity / Low birth weight and neonatal asphyxia/infections**  
+**Logic:** Preterm birth complications, low birth weight, birth asphyxia, and neonatal sepsis account for > 80% of all neonatal deaths.
 </details>
 
-**Q22.** Stabilisation policy that is **social**
-
-A. Girls’ education and delayed marriage
-B. Only printing more currency
-C. Only raising repo rate
-D. Only delimitation freeze
-
+22. The term 'Unmet Need for Family Planning' in demographic surveys refers to:
+A. Women who want to stop or delay childbearing but are not using any contraceptive method  
+B. Shortage of contraceptives in government warehouses  
+C. Men who refuse to undergo vasectomy  
+D. Total sterilizations conducted below target  
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
-
-**Logic:** Social determinants of fertility.
-
+**Ans: A. Women who want to stop or delay childbearing but are not using any contraceptive method**  
+**Logic:** Unmet need represents fecund women who are sexually active and express a desire to space their next birth (for spacing) or avoid further childbearing (for limiting), but are not using any method of contraception.
 </details>
 
-**Q23.** Which wording is **wrong**?
-
-A. TFR 2.1 children per woman
-B. CBR 20 per thousand population
-C. Replacement fertility 2.1 per thousand population
-D. IMR 30 per thousand live births
-
+23. Under the expanded Ayushman Bharat PM-JAY approved in 2024, what is the age cutoff for senior citizens to receive universal free health coverage of Rs 5 Lakh per year?
+A. 60 years and above  
+B. 65 years and above  
+C. 70 years and above  
+D. 75 years and above  
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
-
-**Logic:** Same UPPCS 2021 unit trap.
-
+**Ans: C. 70 years and above**  
+**Logic:** The Union Cabinet approved universal health cover under PM-JAY to all senior citizens aged 70 years and above, irrespective of their socio-economic status.
 </details>
 
-**Q24.** Bridge to Topic 7: World Population Day is
-
-A. 11 July
-B. 15 August
-C. 26 January
-D. 2 October
-
+24. Which Indian State recorded a Total Fertility Rate of 3.0 in NFHS-5, the highest among all States?
+A. Uttar Pradesh  
+B. Bihar  
+C. Meghalaya  
+D. Jharkhand  
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** 11 July.
+**Ans: B. Bihar**  
+**Logic:** Bihar recorded the highest TFR among Indian States at 3.0 children per woman in NFHS-5.
+</details>
 
-**Logic:** UN day; full misc shelf in Topic 7.
+25. The acronym 'RMNCH+A' used in the National Health Mission stands for:
+A. Rural Maternal Newborn Child and Adolescent Health  
+B. Reproductive, Maternal, Newborn, Child plus Adolescent Health  
+C. Regional Medical Network for Child and Adult Health  
+D. Reproductive Medicine and Neonatal Clinical Health  
+<details>
+<summary>Show answer</summary>
 
+**Ans: B. Reproductive, Maternal, Newborn, Child plus Adolescent Health**  
+**Logic:** RMNCH+A is the comprehensive strategic continuum-of-care framework under the National Health Mission.
+</details>
+
+26. Which of the following vaccines is NOT part of the Universal Immunization Programme (UIP) in India?
+A. BCG (Bacillus Calmette-Guerin)  
+B. OPV (Oral Polio Vaccine)  
+C. Rotavirus Vaccine  
+D. Yellow Fever Vaccine (except for international travel)  
+<details>
+<summary>Show answer</summary>
+
+**Ans: D. Yellow Fever Vaccine (except for international travel)**  
+**Logic:** Yellow fever is not endemic in India; vaccination is mandatory only for travellers arriving from endemic African and South American nations. BCG, OPV, Rotavirus, Measles-Rubella, and Pentavalent are standard in India's UIP.
 </details>
 
 ---
@@ -934,13 +691,4 @@ D. 2 October
 
 | Trap | Correct |
 |---|---|
-| TFR “per thousand” | TFR = **per woman**; per thousand = CBR/CDR |
-| Natural growth includes migration | Natural = **CBR − CDR** only |
-| IMR = MMR | Infants vs mothers; different measures |
-| NPP 2000 = Emergency quotas | NPP = **voluntary / target-free** |
-| Stabilisation = population stops rising overnight | **Momentum** can continue absolute growth |
-| NFHS-4 and NFHS-5 same TFR | **2.2** vs ~**2.0** — read the round |
-| World Population Report = UNDP/IMF | **UNFPA** |
-| Mission Parivar Vikas = NPP text | Programme vs **2000 policy document** |
-| Replacement 2.1 = Stage 1 forever | Replacement is a **fertility** benchmark |
-| Mixing Topic 2 explosion narrative without rates | Theories in 2; **measure + policy** here |
+| Mixing Absolute vs % ranks | Match the stem metric first |

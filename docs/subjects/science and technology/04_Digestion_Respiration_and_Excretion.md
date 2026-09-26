@@ -1,5 +1,5 @@
 # Topic 4 — Digestion, Respiration and Excretion
-### ★ UPPCS Revision Sheet — Lucent / PW Coaching Style (Dense Locks · Zero Fluff · Practice ≥25)
+### ★ UPPCS Revision Sheet — Lucent / PW Coaching Style (Lucent / PW style · Practice ≥25)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -14,13 +14,13 @@ Digestive System Anatomy (Mouth, Teeth, Salivary Glands, Stomach, Liver, Gall Bl
 
 ---
 
-## Current Affairs & Exam Locks
+## Current Affairs
 
-| Year | Event / Fact | High-Yield Exam Lock |
+| Year | Event / Fact | Must-Score Fact |
 |------|-------------|----------------------|
 | **2024** | UKPCS tested agent class utilized as an **immunosuppressor in kidney transplantation**. | Keyed answer: **Monoclonal antibodies** (e.g. Basiliximab / Daclizumab) and calcineurin inhibitors (Cyclosporine A), preventing allograft organ rejection; antibiotics do not prevent graft rejection. |
-| **Still Current** | **Kidney stone composition in India**: Over **80% of urinary calculi** are composed of insoluble **Calcium Oxalate ($CaC_2O_4$) crystals**, followed by calcium phosphate and uric acid. | Dietary locks: Foods rich in oxalates (tomatoes, spinach, beetroot, chocolate) accelerate stone formation in genetically prone individuals. |
-| **Still Current** | Medical device lock: **Haemodialysis machine ("Artificial Kidney")** operates on the physical principle of **Dialysis across a semi-permeable cellophane membrane**. | Patient's blood is drawn from an artery, mixed with anticoagulant **Heparin**, filtered against dialyzing fluid, rewarmed, and reinfused with **Anti-heparin** into a vein. |
+| **Still Current** | **Kidney stone composition in India**: Over **80% of urinary calculi** are composed of insoluble **Calcium Oxalate ($CaC_2O_4$) crystals**, followed by calcium phosphate and uric acid. | Dietary facts: Foods rich in oxalates (tomatoes, spinach, beetroot, chocolate) accelerate stone formation in genetically prone individuals. |
+| **Still Current** | Medical device fact: **Haemodialysis machine ("Artificial Kidney")** operates on the physical principle of **Dialysis across a semi-permeable cellophane membrane**. | Patient's blood is drawn from an artery, mixed with anticoagulant **Heparin**, filtered against dialyzing fluid, rewarmed, and reinfused with **Anti-heparin** into a vein. |
 
 ---
 
@@ -85,7 +85,7 @@ Digestive System Anatomy (Mouth, Teeth, Salivary Glands, Stomach, Liver, Gall Bl
 
 ## Confused Pairs
 
-| Concept A | Concept B | Core Distinguishing Exam Fact | Hindi Key |
+| Concept A | Concept B | Core Distinguishing Fact | Hindi Key |
 |-----------|-----------|-------------------------------|-----------|
 | **Pepsin** | **Trypsin** | Secreted by gastric chief cells, active in acidic pH (1.5–2.0) vs secreted by pancreas, active in alkaline duodenal pH (7.5–8.5) | पेप्सिन / ट्रिप्सिन |
 | **Bile** | **Pancreatic Juice** | Contains NO enzymes, emulsifies fats, neutralises acid chyme vs "complete digestive juice", contains amylase, trypsin, lipase | पित्त / अग्न्याशयी रस |
@@ -185,186 +185,6 @@ Digestive System Anatomy (Mouth, Teeth, Salivary Glands, Stomach, Liver, Gall Bl
   - Long-chain fatty acids and fat-soluble vitamins cannot enter blood capillaries directly; packaged into protein-jacketed **Chylomicrons**, absorbed into central lymphatic **Lacteals**, and drained via the **Thoracic Lymphatic Duct** into the left subclavian vein.
 
 ---
-
-### Ghatnachakra Master Locks: Digestion Anatomy, Juices & Hormones
-- **Alimentary Canal Architecture**: Total length in an adult human is approximately **30 feet (9 metres)** from oesophagus to anus.
-  - Digestion begins in the **mouth (buccal cavity)** with the mechanical mastication of food and salivary hydrolysis of starches.
-  - **Saliva Dynamics**: Daily secretion is **0.75 to 1.5 litres**; composed of 99.5% water, electrolytes, mucus, and:
-    1. **Salivary Amylase (Ptyalin)**: Hydrolyzes starch into maltose and $lpha$-dextrins at an optimum pH of 6.8.
-    2. **Lysozyme**: Antibacterial enzyme that destroys bacteria by hydrolyzing the peptidoglycan wall.
-    3. **Secretory IgA**: Mucosal immune antibody.
-- **Tongue Papillae & Taste Topography**:
-  - Detects 5 primary modalities: Sweet, Bitter, Salty, Sour, and Umami.
-  - **Bitterness Sensitivity**: The **posterior (back) region of the tongue** is maximally sensitive to bitter compounds—an evolutionary protective mechanism triggering nausea or spitting to avoid poisonous alkaloids.
-  - **Pungency / "Spiciness" Trap**: Spicy sensation from chillies is **not a taste detected by taste buds**; it is a pain/heat sensation caused by **capsaicin** stimulating polymodal nociceptors and thermal receptors via the trigeminal nerve!
-- **Gastric Secretions & Stomach Physiology**:
-  - **Hydrochloric Acid (HCl)**: Synthesized and secreted by **parietal (oxyntic) cells** in gastric glands. Functions: converts inactive pepsinogen into active **pepsin**, creates an acidic bactericidal environment (pH 1.5–2.0), denatures proteins, and dissolves particulate matter.
-  - **Pepsin**: Secreted by **chief (peptic) cells**; digests proteins into proteoses and peptones.
-  - **Rennin (Chymosin)**: Curdles milk protein; converts casein into insoluble calcium paracaseinate in infants.
-  - **Gastric Mucin**: Secreted by goblet and mucous neck cells; forms a protective barrier preventing autodigestion of the stomach wall by HCl.
-- **The Liver, Gallbladder & Bile Physiology**:
-  - **Liver**: Largest internal gland in the body (~1.5 kg, 2 lobes); produces **Bile (800–1000 ml/day)**.
-  - **Bile Composition**: 97% water, bile salts (sodium glycocholate and sodium taurocholate), bile pigments (bilirubin and biliverdin), cholesterol, and lecithin.
-  - **Crucial Exam Lock**: **Bile contains NO digestive enzymes!** Its crucial role in digestion is **emulsification of fats** (reducing lipid surface tension to form microscopic micelles) and activating pancreatic lipase.
-  - **Gallbladder**: Pear-shaped reservoir (~8 cm long) that stores and concentrates hepatic bile up to 10-fold.
-  - **Cholelithiasis (Gallstones)**: Cholesterol or pigment stones that obstruct the cystic/bile duct, directly impairing **fat digestion and absorption**.
-  - **Metabolic Phases during Prolonged Starvation / Fasting (>10 Days)**:
-    1. Hepatic glycogen reserves are exhausted within 24–48 hours; glucose levels in liver diminish.
-    2. Adipose tissue lipolysis releases glycerol (converted to glucose via gluconeogenesis) and free fatty acids.
-    3. The liver shifts to synthesizing **ketone bodies** (acetoacetate, $eta$-hydroxybutyrate) as fuel for the central nervous system.
-    4. Systemic protein breakdown releases amino acids for renal and hepatic gluconeogenesis.
-- **The Pancreas & "Complete Digestive Juice"**:
-  - Second largest gland of the body; dual **endocrine** (islets of Langerhans: insulin, glucagon, somatostatin) and **exocrine** gland.
-  - Pancreatic juice is alkaline ($pH pprox 7.8–8.4$, rich in $HCO_3^-$) and is termed the **Complete Digestive Juice** because it contains all essential enzyme classes:
-    - **Proteases**: Trypsinogen, Chymotrypsinogen, Procarboxypeptidase (activated in duodenum by enterokinase).
-    - **Amylase (Amylopsin)**: Completes starch hydrolysis to maltose.
-    - **Lipase (Steapsin)**: Principal fat-digesting enzyme; splits triglycerides into fatty acids and glycerol.
-    - **Nucleases**: Deoxyribonuclease and ribonuclease.
-- **Small Intestine Segments & Absorption**:
-  - Total length: **6.7 to 7.6 metres (22–25 feet)**. Decreasing length order: **Ileum (~3.5 m) > Jejunum (~2.5 m) > Duodenum (~20–25 cm)**.
-  - **Duodenum**: C-shaped loop surrounding the head of the pancreas; receives acidic chyme, bile, and pancreatic juice; Brunner's glands secrete alkaline mucus.
-  - **Jejunum**: Highly folded with plicae circulares and villi; major site of nutrient absorption including **magnesium**.
-  - **Ileum**: Longest segment; secretes **Succus Entericus**; **the entire process of digestion is completed in the ileum**; absorbed nutrients pass into portal vein or lacteals (lymphatics for fats).
-- **Gastrointestinal Regulatory Hormones**:
-  - **Gastrin**: Secreted by stomach G-cells; stimulates HCl secretion and gastric motility.
-  - **Secretin**: First hormone discovered (Bayliss & Starling, 1902); secreted by duodenal S-cells in response to acidic chyme (HCl); stimulates pancreatic secretion of bicarbonate-rich alkaline fluid.
-  - **Enterogastrone**: Secreted by duodenal mucosa in response to fatty acids; inhibits gastric secretion and motility, delaying gastric emptying.
-  - **Cholecystokinin (CCK)**: Stimulates gallbladder contraction to release bile and triggers pancreatic enzyme release.
-- **Caecum & Vermiform Appendix**:
-  - In humans, the vermiform appendix (attached to the caecum at the junction of small and large intestine) is a **vestigial organ**.
-  - In herbivores, the caecum and appendix are hypertrophied and harbor cellulolytic bacteria to digest **cellulose**. Humans cannot digest cellulose because our digestive system produces no cellulase enzyme.
-- **Carbohydrate End-Product**: Starches and disaccharides are completely broken down to **monosaccharides (glucose, fructose, galactose)**. Unutilized glucose is converted into glycogen via **glycogenesis** and stored in the liver and skeletal muscles.
-
-
-## 4.2 Respiratory Mechanics & Gas Transport Dynamics
-
-- **The Respiratory Pathway Anatomy**:
-  - External nostrils $\rightarrow$ Nasal cavity (lined by vascular pseudostratified ciliated columnar epithelium and olfactory Schneiderian membrane) $\rightarrow$ Pharynx (common passage for food and air) $\rightarrow$ Larynx (guarded by the elastic cartilaginous Epiglottis) $\rightarrow$ Trachea (C-shaped cartilage rings) $\rightarrow$ Primary Bronchi $\rightarrow$ Secondary/Tertiary Bronchi $\rightarrow$ Terminal Bronchioles $\rightarrow$ Respiratory Bronchioles $\rightarrow$ Alveolar Ducts $\rightarrow$ **Alveoli**.
-  - **The Alveolar Respiratory Membrane**:
-    - Ultra-thin diffusion barrier ($<0.5\text{ microns}$ thick) composed of: (a) Alveolar type-I squamous epithelium, (b) Epithelial basement membrane, (c) Capillary basement membrane, and (d) Capillary endothelial wall.
-    - Alveolar type-II cells secrete **Pulmonary Surfactant (Dipalmitoyl lecithin)**; lowers surface tension of alveolar fluid, preventing lung collapse during expiration; premature neonates lacking surfactant develop fatal **Infant Respiratory Distress Syndrome (IRDS)**.
-- **Physical Chemistry of Gas Transport**:
-  - **Oxygen ($O_2$) Exchange**:
-    - Alveolar partial pressure of oxygen ($pO_2$) is high (~$104\text{ mm Hg}$), while deoxygenated venous capillary $pO_2$ is low (~$40\text{ mm Hg}$); $O_2$ diffuses rapidly into blood.
-    - Haemoglobin consists of globin protein and 4 haem iron groups; binds oxygen cooperatively, producing a characteristic **Sigmoidal Oxyhaemoglobin Dissociation Curve**.
-    - **Right Shift of Dissociation Curve (Facilitates $O_2$ Release at Tissues)**: Caused by elevated $pCO_2$, elevated temperature, elevated 2,3-diphosphoglycerate (2,3-DPG), and decreased blood pH / acidosis (**The Bohr Effect**).
-    - **Left Shift of Dissociation Curve (Increases $O_2$ Affinity)**: Caused by low $pCO_2$, high pH (alkalosis), and lower temperature (as seen in alveolar capillaries).
-  - **Carbon Dioxide ($CO_2$) Exchange**:
-    - Tissue $pCO_2$ is high (~$45\text{ mm Hg}$); diffuses into blood capillaries where $pO_2$ is lower (~$40\text{ mm Hg}$).
-    - **Bicarbonate Mechanism ($70\%$)**:
-      $$CO_2 + H_2O \xrightleftharpoons[\text{Anhydrase}]{\text{Carbonic}} H_2CO_3 \rightleftharpoons H^+ + HCO_3^-$$
-      - As $HCO_3^-$ ions accumulate inside erythrocytes, they diffuse down their concentration gradient into blood plasma; to preserve electrical neutrality, chloride ions ($Cl^-$) diffuse from plasma into the erythrocyte — this phenomenon is the **Chloride Shift / Hamburger Phenomenon**.
-- **Cellular Respiration Pathways & Energetics**:
-  - **Phase 1: Glycolysis (EMP Pathway)**:
-    - Occurs in the **cytoplasm**; anaerobic (does not require $O_2$); common to both aerobic and anaerobic organisms.
-    - Converts 1 molecule of Glucose ($6C$) into 2 molecules of Pyruvate ($3C$); yields net **2 ATP** (substrate-level phosphorylation) and **2 NADH**.
-  - **Phase 2: Link Reaction (Oxidative Decarboxylation)**:
-    - Pyruvate enters the **mitochondrial matrix**; converted to Acetyl-CoA by Pyruvate Dehydrogenase, releasing $CO_2$ and yielding 2 NADH.
-  - **Phase 3: Krebs Cycle (Citric Acid / TCA Cycle)**:
-    - Occurs in the **mitochondrial matrix**; discovered by Sir Hans Krebs (Nobel 1953).
-    - Acetyl-CoA ($2C$) combines with Oxaloacetate ($4C$) to form Citrate ($6C$); cyclic oxidation releases $CO_2$, yielding **2 ATP / GTP**, **6 NADH**, and **2 FADH2**.
-  - **Phase 4: Oxidative Phosphorylation (ETS)**:
-    - Inner mitochondrial membrane cristae; electrons from NADH and FADH2 pass through cytochromes to molecular oxygen (terminal electron acceptor, forming $H_2O$); drives proton gradient pumping through $F_0-F_1$ complexes to generate ATP.
-    - Total net yield: **36 to 38 ATP per molecule of glucose**.
-
----
-
-### Ghatnachakra Master Locks: Respiratory Dynamics, Gas Transport & Energetics
-- **Respiratory Tract & Lung Anatomy**:
-  - Right lung is larger with **3 lobes**; Left lung has **2 lobes** to accommodate the cardiac notch (heart).
-  - **Epiglottis**: Elastic cartilaginous flap guarding the superior opening of the larynx (glottis), preventing food bolus from entering the trachea during swallowing.
-  - Alveoli: **Approx. 15 crore (150 million) alveoli per lung** (total ~300 million); site of gas exchange across the thin respiratory membrane into pulmonary capillaries.
-  - **Pleura**: Double-layered serous membrane (visceral pleura covering lungs, parietal pleura lining chest wall); pleural fluid eliminates friction during breathing.
-  - **Breathing Biomechanics**:
-    - **Inspiration**: Active process; contraction of the diaphragm (flattens inferiorly) and external intercostal muscles expands thoracic cavity, drawing air in.
-    - **Expiration**: Passive process during quiet breathing; elastic recoil of lungs and relaxation of diaphragm (returns to dome shape) and internal intercostals expels air.
-    - **Gender Differences in Breathing**: In adult females, ribs and costal muscles play a dominant role in breathing over the diaphragm to prevent pressure injury to the gravid uterus during pregnancy!
-  - **Respiratory Rate**: Adult: **15–25 breaths/min** (resting ~12–16); newborn infants: **~35 breaths/min**.
-  - **Lung Volumes & Capacities (Spirometry)**:
-    - **Tidal Volume (TV)**: Normal quiet breath volume = **~500 ml**.
-    - **Vital Capacity (VC)**: Maximal forced expiration after maximal forced inspiration = **3.5 to 4.5 Litres** ($VC = TV + IRV + ERV$). Higher in athletes and high-altitude mountain dwellers; reduced in smokers, elderly, and females.
-    - **Residual Volume (RV)**: Volume remaining in lungs even after maximal forced expiration = **~1200 ml** (cannot be measured by simple spirometer; prevents alveolar collapse).
-    - **Dead Space Volume**: Volume of air in conducting airways not participating in gas exchange = **~150 ml**.
-    - **Total Lung Capacity (TLC)**: **~5.5 to 6.0 Litres** ($TLC = VC + RV$).
-- **Gas Transport & Affinity Dynamics**:
-  - **Oxygen Transport**: **97%** bound to haemoglobin ($Hb_4O_8$ oxyhaemoglobin) inside RBCs; **3%** dissolved in plasma.
-  - **Carbon Dioxide Transport**: **70%** transported as Bicarbonate ions ($HCO_3^-$) in plasma; **20–25%** bound to haemoglobin (carbaminohaemoglobin); **7%** dissolved physically in plasma.
-  - **Nitrogen Stability Lock**: The proportion of elemental nitrogen ($N_2$) inhaled (~78%) and exhaled (~78%) remains completely constant during respiration because human tissues cannot metabolize or fix nitrogen gas.
-  - **Carbon Monoxide (CO) Poisoning**: CO binds to the exact same iron ($Fe^{2+}$) binding site of haemoglobin as $O_2$, but with **~250 times greater affinity**, forming exceptionally stable **Carboxyhaemoglobin (HbCO)**. This blocks oxygen binding and delivery, causing rapid, fatal tissue hypoxia and inhibiting mitochondrial cytochrome oxidase.
-  - **Hypoxemia** (low blood $PaO_2$) triggers peripheral chemoreceptors in carotid and aortic bodies, causing the **rate of breathing to increase**.
-  - **Thermoregulation via Lungs**: Evaporation of water vapour through the alveolar surface during expiration dissipates internal metabolic heat, assisting in bodily temperature regulation.
-- **Cellular Respiration Pathways & RQ**:
-  - **Glycolysis (EMP Pathway)**: Occurs in **cytoplasm** without oxygen; 1 glucose $ightarrow$ 2 Pyruvate ($CH_3COCOO^-$: a 3-carbon molecule) + net **2 ATP** (4 generated minus 2 invested).
-  - **Krebs Citric Acid Cycle**: Occurs in mitochondrial matrix in presence of $O_2$; complete oxidation of 2 pyruvates yields $CO_2, H_2O$, and **36 ATP**. Total aerobic net yield = **38 ATP**.
-  - **Anaerobic Respiration / Fermentation**: Produces ethanol + $CO_2$ (yeast) or **lactic acid** (fatigued skeletal muscle cells).
-  - **High-Energy Biotransformation**: Maximum usable cellular energy is liberated by the hydrolysis of **$ATP ightarrow ADP + P_i$**.
-  - **Respiratory Quotient (RQ)**: Ratio of $CO_2$ evolved to $O_2$ consumed, measured via **Ganong's respirometer**:
-    - Carbohydrates: **1.0** | Proteins: **0.8** | Fats / Lipids: **0.7**
-
-
-## 4.3 Renal Excretion, Nephron Mechanics & Water Balance
-
-- **Gross Anatomy of the Human Urinary System**:
-  - Pair of bean-shaped reddish-brown kidneys located retroperitoneally between T12 and L3 vertebrae; right kidney is positioned slightly lower than left due to the massive liver above it.
-  - External notch called the **Hilum** admits renal artery, renal vein, nerves, and the **Ureter**.
-  - Internally divided into an outer pale **Cortex** and inner dark **Medulla** consisting of 8–18 conical **Renal Pyramids** projecting into minor and major calyces, opening into the funnel-shaped **Renal Pelvis**.
-- **Ultrastructure of the Nephron**:
-  - Two primary anatomical divisions:
-    1. **Renal Corpuscle (Malpighian Body)**: Located in the cortex. Composed of the **Glomerulus** (a high-pressure tuft of non-anastomosing capillaries supplied by a wide **Afferent Arteriole** and drained by a narrower **Efferent Arteriole**) enclosed within **Bowman's Capsule**.
-       - Inner visceral wall of Bowman's capsule is lined by specialized epithelial cells called **Podocytes**, whose pedicels interdigitate to leave narrow **Filtration Slits (Slit Pores)** (~$25\text{ nm}$ wide).
-    2. **Renal Tubule**:
-       - **Proximal Convoluted Tubule (PCT)**: Located in cortex; brush-border microvilli.
-       - **Loop of Henle**: Hairpin loop dipping into the medulla (long in juxtamedullary nephrons).
-       - **Distal Convoluted Tubule (DCT)**: Located in cortex.
-       - **Collecting Duct**: Drains multiple DCTs; descends through medullary pyramids to the duct of Bellini.
-- **The Three Stages of Urine Formation**:
-  1. **Glomerular Ultrafiltration**:
-     - Driven by **Net Filtration Pressure (NFP)**:
-       $$\text{NFP} = \text{Glomerular Hydrostatic Pressure (GHP $\sim 60$)} - [\text{Colloid Osmotic Pressure (BCOP $\sim 32$)} + \text{Capsular Hydrostatic Pressure (CHP $\sim 18$)}] \approx \mathbf{10\text{ mm Hg}}$$
-     - Produces **180 litres of protein-free glomerular filtrate per day** (GFR = $125\text{ mL/min}$).
-  2. **Selective Tubular Reabsorption**:
-     - Over **$99\%$ of the 180-litre filtrate is reabsorbed** back into peritubular capillaries, leaving only **$\sim 1.5\text{ litres}$ of urine** per day.
-     - Glucose, amino acids, and $Na^+$ are reabsorbed via high-affinity active transport; water follows passively via osmosis.
-  3. **Tubular Secretion**:
-     - Active transport of waste ions ($H^+, K^+, NH_4^+$), creatinine, and drugs (penicillin, sulphonamides) from peritubular capillaries directly into the tubular lumen; vital for maintaining blood pH ($7.35–7.45$) and electrolyte balance.
-- **Counter-Current Multiplier & Concentrator**:
-  - The parallel counter-directional flow of tubular fluid in the descending and ascending limbs of Henle's loop, combined with counter-current blood flow in the **Vasa Recta** capillaries, establishes a steep hyperosmotic interstitial gradient in the renal medulla (from $300\text{ mOsm/L}$ in cortex to $\mathbf{1200\text{ mOsm/L}}$ in deep renal papilla).
-  - Enables humans to concentrate urine up to **4 times higher** than normal blood plasma osmolarity (~$1200\text{ mOsm/L}$), conserving critical body water.
-- **Hormonal Feedback Loops Governing Excretion**:
-  - **Renin-Angiotensin-Aldosterone System (RAAS)**:
-    - Trigger: Drop in GFR, renal blood flow, or arterial pressure.
-    - **Juxtaglomerular Cells (JG Cells)** of afferent arterioles secrete the proteolytic enzyme **Renin**.
-    - Renin cleaves plasma **Angiotensinogen** (made by liver) $\rightarrow$ **Angiotensin-I**.
-    - **Angiotensin Converting Enzyme (ACE)** in lung capillaries converts Angiotensin-I $\rightarrow$ **Angiotensin-II**.
-    - Angiotensin-II is a potent arterial vasoconstrictor that elevates blood pressure and stimulates the adrenal cortex to secrete **Aldosterone**.
-    - Aldosterone stimulates active $Na^+$ and water reabsorption in the DCT and collecting duct, restoring blood volume.
-  - **Antidiuretic Hormone (ADH / Vasopressin)**:
-    - Trigger: Hypothalamic osmoreceptors detect dehydration (blood osmolarity $>300\text{ mOsm/L}$).
-    - Synthesised in hypothalamus, released from posterior pituitary; acts on collecting ducts to promote rapid water reabsorption.
-  - **Atrial Natriuretic Factor (ANF)**:
-    - Secreted by myocardial cells of cardiac atria when blood pressure is excessively elevated; acts as a powerful vasodilator and stimulates excretion of sodium ($Na^+$) and water, directly opposing RAAS.
-
----
-
-### Ghatnachakra Master Locks: Nitrogenous Waste Types, Renal Filtration & Dialysis
-- **Nitrogenous Excretion Taxonomy**:
-  - **Ammonotelic**: Ammonia ($NH_3$: highly toxic, requires huge volume of water for dilution) e.g., aquatic protozoans, polychaetes, crustaceans, fresh-water bony fishes, amphibian tadpoles, crocodiles.
-  - **Ureotelic**: Urea ($NH_2CONH_2$: moderately toxic, synthesized in liver via Ornithine cycle) e.g., adult amphibians, mammals, marine elasmobranchs (sharks).
-  - **Uricotelic**: Uric acid ($C_5H_4N_4O_3$: least toxic, practically insoluble in water, excreted as pasty solid pellets) e.g., terrestrial insects, land snails, lizards, snakes, birds.
-- **Kidney Functional Mechanics & Nephron Architecture**:
-  - Bilateral bean-shaped retroperitoneal organs; supplied with waste-laden blood by **renal artery**; purified blood leaves via **renal vein**.
-  - **Renal Blood Flow**: Approximately **1200 ml/min** (20–25% of resting cardiac output); kidneys filter ~1500 litres of blood daily to produce **~1.5 litres of urine** per 24 hours (normal range 800–2000 ml).
-  - **Urine Composition**: Water (91–96%), Urea (~2.6%), Unnecessary mineral ions/salts (~2%), Creatinine (~0.3%), trace uric acid. Normal urine is slightly acidic (**pH ~6.0**).
-  - **Urochrome (Urobilin)**: Endogenous pigment responsible for the characteristic yellow color of urine, derived from the metabolic breakdown and recycling of haemoglobin from senescent erythrocytes in the reticuloendothelial system.
-  - **Renal Endocrine Secretions**: Secretes **Erythropoietin (EPO)** (stimulates erythropoiesis in bone marrow), **Calcitriol** (biologically active $1,25	ext{-(OH)}_2	ext{D}_3$), and **Renin** (regulates blood pressure via angiotensin-aldosterone axis).
-- **Renal Pathology, Stones & Clinical Treatments**:
-  - **Kidney Stones (Renal Calculi)**: Hard mineral deposits forming in renal pelvis/calyces; the overwhelming majority consist of **Calcium Oxalate crystals** (formed when calcium binds to dietary oxalates in concentrated urine). Treated via **Extracorporeal Shock Wave Lithotripsy (ESWL)** or surgery.
-  - **Renal Failure & Dialysis**: When nephrons fail, nitrogenous toxins (urea, creatinine, potassium) accumulate in the blood (uraemia). A **Dialyzer (Artificial Kidney)** uses a semipermeable hollow-fiber membrane to purify blood against a sterile dialysate solution via concentration gradients.
-  - **Kidney Transplant Immunosuppression**: Rejection is suppressed using **Monoclonal antibodies (mAbs)** targeting T-lymphocytes or interleukin-2 (IL-2) receptors.
-- **Accessory Excretory Organs**:
-  - **Liver**: Premier organ of detoxification; **alcohol dehydrogenase** oxidizes ethanol into acetaldehyde, which is rapidly converted to acetate by aldehyde dehydrogenase; also synthesizes urea from ammonia.
-  - **Skin**: Eccrine sweat glands secrete water, salts ($NaCl$), and small amounts of urea and trace metals ($Fe, Zn, Mg$).
-
 
 ## Complete PYQ Bank — UPPCS
 
@@ -833,6 +653,186 @@ D. Sodium benzoate
 - See the explanation of above question.
 </details>
 
+
+## Ghatnachakra Extra Drill: Digestion Anatomy, Juices & Hormones
+- **Alimentary Canal Architecture**: Total length in an adult human is approximately **30 feet (9 metres)** from oesophagus to anus.
+  - Digestion begins in the **mouth (buccal cavity)** with the mechanical mastication of food and salivary hydrolysis of starches.
+  - **Saliva Dynamics**: Daily secretion is **0.75 to 1.5 litres**; composed of 99.5% water, electrolytes, mucus, and:
+    1. **Salivary Amylase (Ptyalin)**: Hydrolyzes starch into maltose and $\alpha$-dextrins at an optimum pH of 6.8.
+    2. **Lysozyme**: Antibacterial enzyme that destroys bacteria by hydrolyzing the peptidoglycan wall.
+    3. **Secretory IgA**: Mucosal immune antibody.
+- **Tongue Papillae & Taste Topography**:
+  - Detects 5 primary modalities: Sweet, Bitter, Salty, Sour, and Umami.
+  - **Bitterness Sensitivity**: The **posterior (back) region of the tongue** is maximally sensitive to bitter compounds—an evolutionary protective mechanism triggering nausea or spitting to avoid poisonous alkaloids.
+  - **Pungency / "Spiciness" Trap**: Spicy sensation from chillies is **not a taste detected by taste buds**; it is a pain/heat sensation caused by **capsaicin** stimulating polymodal nociceptors and thermal receptors via the trigeminal nerve!
+- **Gastric Secretions & Stomach Physiology**:
+  - **Hydrochloric Acid (HCl)**: Synthesized and secreted by **parietal (oxyntic) cells** in gastric glands. Functions: converts inactive pepsinogen into active **pepsin**, creates an acidic bactericidal environment (pH 1.5–2.0), denatures proteins, and dissolves particulate matter.
+  - **Pepsin**: Secreted by **chief (peptic) cells**; digests proteins into proteoses and peptones.
+  - **Rennin (Chymosin)**: Curdles milk protein; converts casein into insoluble calcium paracaseinate in infants.
+  - **Gastric Mucin**: Secreted by goblet and mucous neck cells; forms a protective barrier preventing autodigestion of the stomach wall by HCl.
+- **The Liver, Gallbladder & Bile Physiology**:
+  - **Liver**: Largest internal gland in the body (~1.5 kg, 2 lobes); produces **Bile (800–1000 ml/day)**.
+  - **Bile Composition**: 97% water, bile salts (sodium glycocholate and sodium taurocholate), bile pigments (bilirubin and biliverdin), cholesterol, and lecithin.
+  - **Must-Score Fact**: **Bile contains NO digestive enzymes!** Its crucial role in digestion is **emulsification of fats** (reducing lipid surface tension to form microscopic micelles) and activating pancreatic lipase.
+  - **Gallbladder**: Pear-shaped reservoir (~8 cm long) that stores and concentrates hepatic bile up to 10-fold.
+  - **Cholelithiasis (Gallstones)**: Cholesterol or pigment stones that obstruct the cystic/bile duct, directly impairing **fat digestion and absorption**.
+  - **Metabolic Phases during Prolonged Starvation / Fasting (>10 Days)**:
+    1. Hepatic glycogen reserves are exhausted within 24–48 hours; glucose levels in liver diminish.
+    2. Adipose tissue lipolysis releases glycerol (converted to glucose via gluconeogenesis) and free fatty acids.
+    3. The liver shifts to synthesizing **ketone bodies** (acetoacetate, $\beta$-hydroxybutyrate) as fuel for the central nervous system.
+    4. Systemic protein breakdown releases amino acids for renal and hepatic gluconeogenesis.
+- **The Pancreas & "Complete Digestive Juice"**:
+  - Second largest gland of the body; dual **endocrine** (islets of Langerhans: insulin, glucagon, somatostatin) and **exocrine** gland.
+  - Pancreatic juice is alkaline ($pH \approx 7.8–8.4$, rich in $HCO_3^-$) and is termed the **Complete Digestive Juice** because it contains all essential enzyme classes:
+    - **Proteases**: Trypsinogen, Chymotrypsinogen, Procarboxypeptidase (activated in duodenum by enterokinase).
+    - **Amylase (Amylopsin)**: Completes starch hydrolysis to maltose.
+    - **Lipase (Steapsin)**: Principal fat-digesting enzyme; splits triglycerides into fatty acids and glycerol.
+    - **Nucleases**: Deoxyribonuclease and ribonuclease.
+- **Small Intestine Segments & Absorption**:
+  - Total length: **6.7 to 7.6 metres (22–25 feet)**. Decreasing length order: **Ileum (~3.5 m) > Jejunum (~2.5 m) > Duodenum (~20–25 cm)**.
+  - **Duodenum**: C-shaped loop surrounding the head of the pancreas; receives acidic chyme, bile, and pancreatic juice; Brunner's glands secrete alkaline mucus.
+  - **Jejunum**: Highly folded with plicae circulares and villi; major site of nutrient absorption including **magnesium**.
+  - **Ileum**: Longest segment; secretes **Succus Entericus**; **the entire process of digestion is completed in the ileum**; absorbed nutrients pass into portal vein or lacteals (lymphatics for fats).
+- **Gastrointestinal Regulatory Hormones**:
+  - **Gastrin**: Secreted by stomach G-cells; stimulates HCl secretion and gastric motility.
+  - **Secretin**: First hormone discovered (Bayliss & Starling, 1902); secreted by duodenal S-cells in response to acidic chyme (HCl); stimulates pancreatic secretion of bicarbonate-rich alkaline fluid.
+  - **Enterogastrone**: Secreted by duodenal mucosa in response to fatty acids; inhibits gastric secretion and motility, delaying gastric emptying.
+  - **Cholecystokinin (CCK)**: Stimulates gallbladder contraction to release bile and triggers pancreatic enzyme release.
+- **Caecum & Vermiform Appendix**:
+  - In humans, the vermiform appendix (attached to the caecum at the junction of small and large intestine) is a **vestigial organ**.
+  - In herbivores, the caecum and appendix are hypertrophied and harbor cellulolytic bacteria to digest **cellulose**. Humans cannot digest cellulose because our digestive system produces no cellulase enzyme.
+- **Carbohydrate End-Product**: Starches and disaccharides are completely broken down to **monosaccharides (glucose, fructose, galactose)**. Unutilized glucose is converted into glycogen via **glycogenesis** and stored in the liver and skeletal muscles.
+
+
+## 4.2 Respiratory Mechanics & Gas Transport Dynamics
+
+- **The Respiratory Pathway Anatomy**:
+  - External nostrils $\rightarrow$ Nasal cavity (lined by vascular pseudostratified ciliated columnar epithelium and olfactory Schneiderian membrane) $\rightarrow$ Pharynx (common passage for food and air) $\rightarrow$ Larynx (guarded by the elastic cartilaginous Epiglottis) $\rightarrow$ Trachea (C-shaped cartilage rings) $\rightarrow$ Primary Bronchi $\rightarrow$ Secondary/Tertiary Bronchi $\rightarrow$ Terminal Bronchioles $\rightarrow$ Respiratory Bronchioles $\rightarrow$ Alveolar Ducts $\rightarrow$ **Alveoli**.
+  - **The Alveolar Respiratory Membrane**:
+    - Ultra-thin diffusion barrier ($<0.5\text{ microns}$ thick) composed of: (a) Alveolar type-I squamous epithelium, (b) Epithelial basement membrane, (c) Capillary basement membrane, and (d) Capillary endothelial wall.
+    - Alveolar type-II cells secrete **Pulmonary Surfactant (Dipalmitoyl lecithin)**; lowers surface tension of alveolar fluid, preventing lung collapse during expiration; premature neonates lacking surfactant develop fatal **Infant Respiratory Distress Syndrome (IRDS)**.
+- **Physical Chemistry of Gas Transport**:
+  - **Oxygen ($O_2$) Exchange**:
+    - Alveolar partial pressure of oxygen ($pO_2$) is high (~$104\text{ mm Hg}$), while deoxygenated venous capillary $pO_2$ is low (~$40\text{ mm Hg}$); $O_2$ diffuses rapidly into blood.
+    - Haemoglobin consists of globin protein and 4 haem iron groups; binds oxygen cooperatively, producing a characteristic **Sigmoidal Oxyhaemoglobin Dissociation Curve**.
+    - **Right Shift of Dissociation Curve (Facilitates $O_2$ Release at Tissues)**: Caused by elevated $pCO_2$, elevated temperature, elevated 2,3-diphosphoglycerate (2,3-DPG), and decreased blood pH / acidosis (**The Bohr Effect**).
+    - **Left Shift of Dissociation Curve (Increases $O_2$ Affinity)**: Caused by low $pCO_2$, high pH (alkalosis), and lower temperature (as seen in alveolar capillaries).
+  - **Carbon Dioxide ($CO_2$) Exchange**:
+    - Tissue $pCO_2$ is high (~$45\text{ mm Hg}$); diffuses into blood capillaries where $pO_2$ is lower (~$40\text{ mm Hg}$).
+    - **Bicarbonate Mechanism ($70\%$)**:
+      $$CO_2 + H_2O \xrightleftharpoons[\text{Anhydrase}]{\text{Carbonic}} H_2CO_3 \rightleftharpoons H^+ + HCO_3^-$$
+      - As $HCO_3^-$ ions accumulate inside erythrocytes, they diffuse down their concentration gradient into blood plasma; to preserve electrical neutrality, chloride ions ($Cl^-$) diffuse from plasma into the erythrocyte — this phenomenon is the **Chloride Shift / Hamburger Phenomenon**.
+- **Cellular Respiration Pathways & Energetics**:
+  - **Phase 1: Glycolysis (EMP Pathway)**:
+    - Occurs in the **cytoplasm**; anaerobic (does not require $O_2$); common to both aerobic and anaerobic organisms.
+    - Converts 1 molecule of Glucose ($6C$) into 2 molecules of Pyruvate ($3C$); yields net **2 ATP** (substrate-level phosphorylation) and **2 NADH**.
+  - **Phase 2: Link Reaction (Oxidative Decarboxylation)**:
+    - Pyruvate enters the **mitochondrial matrix**; converted to Acetyl-CoA by Pyruvate Dehydrogenase, releasing $CO_2$ and yielding 2 NADH.
+  - **Phase 3: Krebs Cycle (Citric Acid / TCA Cycle)**:
+    - Occurs in the **mitochondrial matrix**; discovered by Sir Hans Krebs (Nobel 1953).
+    - Acetyl-CoA ($2C$) combines with Oxaloacetate ($4C$) to form Citrate ($6C$); cyclic oxidation releases $CO_2$, yielding **2 ATP / GTP**, **6 NADH**, and **2 FADH2**.
+  - **Phase 4: Oxidative Phosphorylation (ETS)**:
+    - Inner mitochondrial membrane cristae; electrons from NADH and FADH2 pass through cytochromes to molecular oxygen (terminal electron acceptor, forming $H_2O$); drives proton gradient pumping through $F_0-F_1$ complexes to generate ATP.
+    - Total net yield: **36 to 38 ATP per molecule of glucose**.
+
+---
+
+## Ghatnachakra Extra Drill: Respiratory Dynamics, Gas Transport & Energetics
+- **Respiratory Tract & Lung Anatomy**:
+  - Right lung is larger with **3 lobes**; Left lung has **2 lobes** to accommodate the cardiac notch (heart).
+  - **Epiglottis**: Elastic cartilaginous flap guarding the superior opening of the larynx (glottis), preventing food bolus from entering the trachea during swallowing.
+  - Alveoli: **Approx. 15 crore (150 million) alveoli per lung** (total ~300 million); site of gas exchange across the thin respiratory membrane into pulmonary capillaries.
+  - **Pleura**: Double-layered serous membrane (visceral pleura covering lungs, parietal pleura lining chest wall); pleural fluid eliminates friction during breathing.
+  - **Breathing Biomechanics**:
+    - **Inspiration**: Active process; contraction of the diaphragm (flattens inferiorly) and external intercostal muscles expands thoracic cavity, drawing air in.
+    - **Expiration**: Passive process during quiet breathing; elastic recoil of lungs and relaxation of diaphragm (returns to dome shape) and internal intercostals expels air.
+    - **Gender Differences in Breathing**: In adult females, ribs and costal muscles play a dominant role in breathing over the diaphragm to prevent pressure injury to the gravid uterus during pregnancy!
+  - **Respiratory Rate**: Adult: **15–25 breaths/min** (resting ~12–16); newborn infants: **~35 breaths/min**.
+  - **Lung Volumes & Capacities (Spirometry)**:
+    - **Tidal Volume (TV)**: Normal quiet breath volume = **~500 ml**.
+    - **Vital Capacity (VC)**: Maximal forced expiration after maximal forced inspiration = **3.5 to 4.5 Litres** ($VC = TV + IRV + ERV$). Higher in athletes and high-altitude mountain dwellers; reduced in smokers, elderly, and females.
+    - **Residual Volume (RV)**: Volume remaining in lungs even after maximal forced expiration = **~1200 ml** (cannot be measured by simple spirometer; prevents alveolar collapse).
+    - **Dead Space Volume**: Volume of air in conducting airways not participating in gas exchange = **~150 ml**.
+    - **Total Lung Capacity (TLC)**: **~5.5 to 6.0 Litres** ($TLC = VC + RV$).
+- **Gas Transport & Affinity Dynamics**:
+  - **Oxygen Transport**: **97%** bound to haemoglobin ($Hb_4O_8$ oxyhaemoglobin) inside RBCs; **3%** dissolved in plasma.
+  - **Carbon Dioxide Transport**: **70%** transported as Bicarbonate ions ($HCO_3^-$) in plasma; **20–25%** bound to haemoglobin (carbaminohaemoglobin); **7%** dissolved physically in plasma.
+  - **Nitrogen Stability Fact**: The proportion of elemental nitrogen ($N_2$) inhaled (~78%) and exhaled (~78%) remains completely constant during respiration because human tissues cannot metabolize or fix nitrogen gas.
+  - **Carbon Monoxide (CO) Poisoning**: CO binds to the exact same iron ($Fe^{2+}$) binding site of haemoglobin as $O_2$, but with **~250 times greater affinity**, forming exceptionally stable **Carboxyhaemoglobin (HbCO)**. This blocks oxygen binding and delivery, causing rapid, fatal tissue hypoxia and inhibiting mitochondrial cytochrome oxidase.
+  - **Hypoxemia** (low blood $PaO_2$) triggers peripheral chemoreceptors in carotid and aortic bodies, causing the **rate of breathing to increase**.
+  - **Thermoregulation via Lungs**: Evaporation of water vapour through the alveolar surface during expiration dissipates internal metabolic heat, assisting in bodily temperature regulation.
+- **Cellular Respiration Pathways & RQ**:
+  - **Glycolysis (EMP Pathway)**: Occurs in **cytoplasm** without oxygen; 1 glucose $ \rightarrow$ 2 Pyruvate ($CH_3COCOO^-$: a 3-carbon molecule) + net **2 ATP** (4 generated minus 2 invested).
+  - **Krebs Citric Acid Cycle**: Occurs in mitochondrial matrix in presence of $O_2$; complete oxidation of 2 pyruvates yields $CO_2, H_2O$, and **36 ATP**. Total aerobic net yield = **38 ATP**.
+  - **Anaerobic Respiration / Fermentation**: Produces ethanol + $CO_2$ (yeast) or **lactic acid** (fatigued skeletal muscle cells).
+  - **High-Energy Biotransformation**: Maximum usable cellular energy is liberated by the hydrolysis of **$ATP  \rightarrow ADP + P_i$**.
+  - **Respiratory Quotient (RQ)**: Ratio of $CO_2$ evolved to $O_2$ consumed, measured via **Ganong's respirometer**:
+    - Carbohydrates: **1.0** | Proteins: **0.8** | Fats / Lipids: **0.7**
+
+
+## 4.3 Renal Excretion, Nephron Mechanics & Water Balance
+
+- **Gross Anatomy of the Human Urinary System**:
+  - Pair of bean-shaped reddish-brown kidneys located retroperitoneally between T12 and L3 vertebrae; right kidney is positioned slightly lower than left due to the massive liver above it.
+  - External notch called the **Hilum** admits renal artery, renal vein, nerves, and the **Ureter**.
+  - Internally divided into an outer pale **Cortex** and inner dark **Medulla** consisting of 8–18 conical **Renal Pyramids** projecting into minor and major calyces, opening into the funnel-shaped **Renal Pelvis**.
+- **Ultrastructure of the Nephron**:
+  - Two primary anatomical divisions:
+    1. **Renal Corpuscle (Malpighian Body)**: Located in the cortex. Composed of the **Glomerulus** (a high-pressure tuft of non-anastomosing capillaries supplied by a wide **Afferent Arteriole** and drained by a narrower **Efferent Arteriole**) enclosed within **Bowman's Capsule**.
+       - Inner visceral wall of Bowman's capsule is lined by specialized epithelial cells called **Podocytes**, whose pedicels interdigitate to leave narrow **Filtration Slits (Slit Pores)** (~$25\text{ nm}$ wide).
+    2. **Renal Tubule**:
+       - **Proximal Convoluted Tubule (PCT)**: Located in cortex; brush-border microvilli.
+       - **Loop of Henle**: Hairpin loop dipping into the medulla (long in juxtamedullary nephrons).
+       - **Distal Convoluted Tubule (DCT)**: Located in cortex.
+       - **Collecting Duct**: Drains multiple DCTs; descends through medullary pyramids to the duct of Bellini.
+- **The Three Stages of Urine Formation**:
+  1. **Glomerular Ultrafiltration**:
+     - Driven by **Net Filtration Pressure (NFP)**:
+       $$\text{NFP} = \text{Glomerular Hydrostatic Pressure (GHP $\sim 60$)} - [\text{Colloid Osmotic Pressure (BCOP $\sim 32$)} + \text{Capsular Hydrostatic Pressure (CHP $\sim 18$)}] \approx \mathbf{10\text{ mm Hg}}$$
+     - Produces **180 litres of protein-free glomerular filtrate per day** (GFR = $125\text{ mL/min}$).
+  2. **Selective Tubular Reabsorption**:
+     - Over **$99\%$ of the 180-litre filtrate is reabsorbed** back into peritubular capillaries, leaving only **$\sim 1.5\text{ litres}$ of urine** per day.
+     - Glucose, amino acids, and $Na^+$ are reabsorbed via high-affinity active transport; water follows passively via osmosis.
+  3. **Tubular Secretion**:
+     - Active transport of waste ions ($H^+, K^+, NH_4^+$), creatinine, and drugs (penicillin, sulphonamides) from peritubular capillaries directly into the tubular lumen; vital for maintaining blood pH ($7.35–7.45$) and electrolyte balance.
+- **Counter-Current Multiplier & Concentrator**:
+  - The parallel counter-directional flow of tubular fluid in the descending and ascending limbs of Henle's loop, combined with counter-current blood flow in the **Vasa Recta** capillaries, establishes a steep hyperosmotic interstitial gradient in the renal medulla (from $300\text{ mOsm/L}$ in cortex to $\mathbf{1200\text{ mOsm/L}}$ in deep renal papilla).
+  - Enables humans to concentrate urine up to **4 times higher** than normal blood plasma osmolarity (~$1200\text{ mOsm/L}$), conserving critical body water.
+- **Hormonal Feedback Loops Governing Excretion**:
+  - **Renin-Angiotensin-Aldosterone System (RAAS)**:
+    - Trigger: Drop in GFR, renal blood flow, or arterial pressure.
+    - **Juxtaglomerular Cells (JG Cells)** of afferent arterioles secrete the proteolytic enzyme **Renin**.
+    - Renin cleaves plasma **Angiotensinogen** (made by liver) $\rightarrow$ **Angiotensin-I**.
+    - **Angiotensin Converting Enzyme (ACE)** in lung capillaries converts Angiotensin-I $\rightarrow$ **Angiotensin-II**.
+    - Angiotensin-II is a potent arterial vasoconstrictor that elevates blood pressure and stimulates the adrenal cortex to secrete **Aldosterone**.
+    - Aldosterone stimulates active $Na^+$ and water reabsorption in the DCT and collecting duct, restoring blood volume.
+  - **Antidiuretic Hormone (ADH / Vasopressin)**:
+    - Trigger: Hypothalamic osmoreceptors detect dehydration (blood osmolarity $>300\text{ mOsm/L}$).
+    - Synthesised in hypothalamus, released from posterior pituitary; acts on collecting ducts to promote rapid water reabsorption.
+  - **Atrial Natriuretic Factor (ANF)**:
+    - Secreted by myocardial cells of cardiac atria when blood pressure is excessively elevated; acts as a powerful vasodilator and stimulates excretion of sodium ($Na^+$) and water, directly opposing RAAS.
+
+---
+
+## Ghatnachakra Extra Drill: Nitrogenous Waste Types, Renal Filtration & Dialysis
+- **Nitrogenous Excretion Taxonomy**:
+  - **Ammonotelic**: Ammonia ($NH_3$: highly toxic, requires huge volume of water for dilution) e.g., aquatic protozoans, polychaetes, crustaceans, fresh-water bony fishes, amphibian tadpoles, crocodiles.
+  - **Ureotelic**: Urea ($NH_2CONH_2$: moderately toxic, synthesized in liver via Ornithine cycle) e.g., adult amphibians, mammals, marine elasmobranchs (sharks).
+  - **Uricotelic**: Uric acid ($C_5H_4N_4O_3$: least toxic, practically insoluble in water, excreted as pasty solid pellets) e.g., terrestrial insects, land snails, lizards, snakes, birds.
+- **Kidney Functional Mechanics & Nephron Architecture**:
+  - Bilateral bean-shaped retroperitoneal organs; supplied with waste-laden blood by **renal artery**; purified blood leaves via **renal vein**.
+  - **Renal Blood Flow**: Approximately **1200 ml/min** (20–25% of resting cardiac output); kidneys filter ~1500 litres of blood daily to produce **~1.5 litres of urine** per 24 hours (normal range 800–2000 ml).
+  - **Urine Composition**: Water (91–96%), Urea (~2.6%), Unnecessary mineral ions/salts (~2%), Creatinine (~0.3%), trace uric acid. Normal urine is slightly acidic (**pH ~6.0**).
+  - **Urochrome (Urobilin)**: Endogenous pigment responsible for the characteristic yellow color of urine, derived from the metabolic breakdown and recycling of haemoglobin from senescent erythrocytes in the reticuloendothelial system.
+  - **Renal Endocrine Secretions**: Secretes **Erythropoietin (EPO)** (stimulates erythropoiesis in bone marrow), **Calcitriol** (biologically active $1,25\text{-(OH)}_2\text{D}_3$), and **Renin** (regulates blood pressure via angiotensin-aldosterone axis).
+- **Renal Pathology, Stones & Clinical Treatments**:
+  - **Kidney Stones (Renal Calculi)**: Hard mineral deposits forming in renal pelvis/calyces; the overwhelming majority consist of **Calcium Oxalate crystals** (formed when calcium binds to dietary oxalates in concentrated urine). Treated via **Extracorporeal Shock Wave Lithotripsy (ESWL)** or surgery.
+  - **Renal Failure & Dialysis**: When nephrons fail, nitrogenous toxins (urea, creatinine, potassium) accumulate in the blood (uraemia). A **Dialyzer (Artificial Kidney)** uses a semipermeable hollow-fiber membrane to purify blood against a sterile dialysate solution via concentration gradients.
+  - **Kidney Transplant Immunosuppression**: Rejection is suppressed using **Monoclonal antibodies (mAbs)** targeting T-lymphocytes or interleukin-2 (IL-2) receptors.
+- **Accessory Excretory Organs**:
+  - **Liver**: Premier organ of detoxification; **alcohol dehydrogenase** oxidizes ethanol into acetaldehyde, which is rapidly converted to acetate by aldehyde dehydrogenase; also synthesizes urea from ammonia.
+  - **Skin**: Eccrine sweat glands secrete water, salts ($NaCl$), and small amounts of urea and trace metals ($Fe, Zn, Mg$).
+
 ## Complete PYQ Bank — UKPCS
 
 **Q1. (UKPCS Pre 2024)** Which of the following agent classes is primarily used as an immunosuppressor in kidney transplantation to prevent allograft rejection?  
@@ -865,7 +865,6 @@ D. Virus
 - Enzymes are biological molecules (proteins) that act as biocatalysts and helps complex reactions occur in the body. These are basically proteins which accelerate chemical reactions in living systems.
 - Almost all metabolic processes in the cell need enzymes catalysis in order to occur at rates fast enough to sustain life.
 </details>
-
 
 
 **Q3. (Uttarakhand P.C.S. (Pre) 2007)** When kidneys fail to function, there is accumulation of–  
@@ -1350,7 +1349,6 @@ D. Neither 1 nor 2
 - Its primary function is to neutralize the pH in the duodenum, allowing digestive enzymes from the pancreas to function optimally. Enterogastrone is a hormone secreted by the mucosa of the duodenum (first section of the small intestine) in the lower gastrointestinal tract when fatty acids are in the stomach or small intestine.
 - It inhibits the caudal (forward, analward) motion of the contents of chyme.
 </details>
-
 
 
 **Q30. (M.P. P.C.S. (Pre) 2016)** Mammals respire by :  
@@ -1939,3 +1937,16 @@ D. Thrombin
 **Detailed Explanation:**
 - The anticoagulant heparin is infused into the arterial blood line to prevent clotting within the artificial kidney cellophane tubing.
 </details>
+
+## Common Traps & Negative-Marking Eliminators
+
+1. **Pepsin vs trypsin**: Pepsin works in **acidic** stomach; trypsin in **alkaline** duodenum.
+2. **Bile**: Emulsifies fats — it is **not** an enzyme.
+3. **Largest digestive gland**: **Liver**; pancreas is mixed exo/endocrine.
+4. **Oxygen transport**: Most O2 travels as **oxyhaemoglobin**; most CO2 as **bicarbonate**.
+5. **Inspiration vs expiration**: Inspiration is active (diaphragm contracts); quiet expiration is largely passive.
+6. **Urea vs uric acid vs ammonia**: Mammals = urea; birds/reptiles = uric acid; many aquatic animals = ammonia.
+7. **Nephron filtrate**: Ultrafiltration at **glomerulus**; major reabsorption in **proximal tubule**.
+8. **Dialysis**: Artificial kidney removes urea — it does **not** replace hormone functions of the kidney.
+9. **Salivary enzyme**: Ptyalin (salivary amylase) digests **starch**, not protein.
+10. **HCl role**: Activates pepsinogen and kills microbes — protein digestion enzyme is pepsin, not HCl itself.

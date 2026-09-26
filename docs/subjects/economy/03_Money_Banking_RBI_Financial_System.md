@@ -8,7 +8,7 @@ Money and monetary aggregates | Banking structure | PSBs, RRBs, cooperatives | P
 
 </details>
 
-> **Sources baked in:** NCERT Class 12 Macroeconomics (money and banking), RBI monetary-policy framework notes, standard banking coaching maps, UPPCS Prelims PYQs, UKPCS Prelims
+> **Sources baked in:** NCERT Class 12 Macroeconomics (money and banking), RBI monetary-policy framework notes, standard banking coaching maps, UPPCS Prelims PYQs, UKPCS Prelims; Extra Drill rebuilt from mixed RO/ARO–coaching stems (paste full Ghatnachakra Purvalokan later to expand)
 > **Weight:** ★★★ High — RBI issue function, financial-inclusion steps, Lead Bank Scheme, and rural-credit chronology decide stems
 > **Last verified:** September 2026
 
@@ -28,7 +28,7 @@ Budget / tax / FC stay in Economy Topic 2. CPI / WPI inflation depth and capital
 
 ---
 
-## Consolidated — 44 Must-Score Facts
+## Consolidated — 72 Must-Score Facts
 
 1. **Money** is anything generally accepted as a medium of exchange, a unit of account, a store of value and a standard of deferred payment.
 2. **Fiat money** has value by legal tender / trust, not by intrinsic metal content. **Commodity money** and **representative money** are older teaching types.
@@ -74,6 +74,34 @@ Budget / tax / FC stay in Economy Topic 2. CPI / WPI inflation depth and capital
 42. **Appreciation** of a currency is a rise in its value relative to another; **depreciation** is a fall — external-sector depth stays in Topic 9, but the word pair appears in money / forex stems.
 43. **Scheduled banks** are listed in the RBI Act’s Second Schedule and enjoy certain facilities (e.g. LAF access teaching).
 44. **Lender of last resort**: RBI provides emergency liquidity to solvent banks facing temporary stress — a bankers’ bank function.
+45. **M0 (Reserve Money)** = currency in circulation + bankers’ deposits with RBI + other deposits with RBI (teaching identity).
+46. **M1** = currency with public + demand deposits + other deposits with RBI (narrow money teaching).
+47. **M3** is broad money — the most-watched aggregate in Indian policy teaching (M1 + time deposits of banks).
+48. **Money multiplier** ≈ M3 / M0; it links reserve money to broad money.
+49. RBI was established on **1 April 1935**; nationalised in **1949**.
+50. RBI’s central board is headed by the **Governor**; Deputy Governors assist functional wings.
+51. **Repo rate** is the rate at which RBI lends to banks against collateral; **reverse repo** is the absorption rate teaching pair.
+52. **CRR** is the cash share of NDTL parked with RBI (earns no interest in the classic teaching).
+53. **SLR** is the share of NDTL held in approved securities / cash / gold.
+54. **Bank Rate** is the long-standing penal / signalling refinance rate; LAF repo is the day-to-day policy workhorse.
+55. **Open Market Operations** buy/sell G-Secs to inject or suck liquidity.
+56. **MSF** lets banks borrow overnight at a penal rate above repo against SLR securities within a margin.
+57. **PCA framework** constrains weak banks on capital, asset quality and profitability triggers.
+58. **NPA** is an advance where interest/principal is overdue beyond 90 days (standard teaching).
+59. **SMA-0 / SMA-1 / SMA-2** are special mention accounts tracking early stress before NPA classification.
+60. **IBC 2016** is the insolvency resolution code for corporate distress.
+61. **SBI** was created by nationalising the Imperial Bank (1955 teaching).
+62. Major bank nationalisation waves: **1969** (14 banks) and **1980** (6 banks).
+63. **Payment Banks** cannot give loans; **Small Finance Banks** can lend with a priority-sector focus.
+64. **Lead Bank Scheme (1969)** assigned district leadership for credit planning.
+65. **RRBs** began in **1975** (Prathama Bank teaching) for rural credit reach.
+66. **NABARD (12 July 1982)** refinances rural credit on the Sivaraman Committee line.
+67. **SHG–Bank Linkage** (NABARD, 1992 teaching) scaled group-based microcredit.
+68. **KCC (1998)** followed the R.V. Gupta Committee for flexible farm credit.
+69. **Priority Sector Lending** forces banks to lend fixed shares to agriculture, MSME, weaker sections, etc.
+70. **Base Rate / MCLR / external benchmark** are successive loan-pricing regimes in teaching chronology.
+71. **DICGC** insures bank deposits up to the notified ceiling per depositor per bank.
+72. **Monetary Policy Committee (MPC)** sets the policy repo rate under the inflation-targeting framework.
 
 ---
 
@@ -391,308 +419,9 @@ D. 4, 3, 2, 1
 
 ---
 
-## Complete PYQ Bank (UKPCS)
+## Ghatnachakra Extra Drill — Money, Banking, RBI and Financial System
 
-**Q1. UKPCS (Pre) 2016** — Apex bank for agricultural refinance
-
-A. RBI
-B. NABARD
-C. LDB
-D. SBI
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** NABARD is the apex refinance institution.
-
-**Ans: B.**
-
-</details>
-
-**Q2. UKPCS (Pre) 2021** — Rise in value of one currency relative to another
-
-A. A weakening of a currency
-B. A depreciation of a currency
-C. An appreciation of a currency
-D. A debasement of a currency
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Appreciation = rise; depreciation = fall. Topic 9 deepens exchange-rate regimes.
-
-**Ans: C.**
-
-</details>
-
-**Q3. UKPCS (Pre) 2025** — RRB mergers under one-State-one-RRB
-
-A. 16
-B. 21
-C. 26
-D. 30
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Announced merger count keyed at 26.
-
-**Ans: C.**
-
-</details>
-
----
-
-## Practice Zone
-
-**Q1.** With reference to money, which of the following statements is/are correct?
-
-1. Medium of exchange is a core function.
-2. Store of value is a core function.
-3. Money supply is identical to the fiscal deficit formula.
-
-Select the correct answer from the code given below:
-
-A. Only 3
-B. 1 and 2
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Statements 1 and 2 are correct.
-
-**Logic:** Fiscal deficit is Topic 2. Statement 3 is false.
-
-</details>
-
-**Q2.** Broad money (M3) in Indian teaching mainly adds which of the following to the narrow base?
-
-A. Only gold reserves of households
-B. Time deposits with banks
-C. Only equity shares
-D. Only GST collections
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Time deposits with banks.
-
-**Logic:** M3 = broad money aggregate.
-
-</details>
-
-**Q3.** Which pair is **not** correctly matched?
-
-A. Repo — RBI lends to banks against collateral
-B. CRR — cash reserve with RBI
-C. SLR — liquid assets held by banks
-D. Payments Bank — free to give large unsecured business loans like a universal bank
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Payments Banks cannot give ordinary loans in the classic licence.
-
-**Logic:** A–C are standard.
-
-</details>
-
-**Q4.** With reference to the MPC, which of the following statements is/are correct?
-
-1. It decides the RBI’s benchmark policy rate stance.
-2. It has six members.
-3. It is chaired by the Union Finance Minister.
-
-Select the correct answer from the code given below:
-
-A. Only 3
-B. 1 and 2
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Statements 1 and 2 are correct.
-
-**Logic:** Governor chairs the MPC. Statement 3 is false.
-
-</details>
-
-**Q5.** Flexible inflation targeting in India centres on
-
-A. WPI at exactly 0% forever
-B. Headline CPI at 4% with a ±2% band
-C. Only gold prices
-D. Only fiscal deficit at 10%
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** CPI 4% ± 2%.
-
-**Logic:** FIT framework; WPI depth is Topic 4.
-
-</details>
-
-**Q6.** Match List-I with List-II.
-
-| List-I | List-II |
-|---|---|
-| A. Repo | 1. Cash with RBI |
-| B. Reverse repo / SDF | 2. RBI lends to banks |
-| C. CRR | 3. RBI absorbs liquidity |
-| D. OMO | 4. Buy / sell G-Secs |
-
-Select the correct answer from the code given below:
-
-A. 2 3 1 4
-B. 3 2 1 4
-C. 2 1 3 4
-D. 4 3 1 2
-
-*Row order is not the answer code.*
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Lend; absorb; CRR; securities operations.
-
-**Logic:** Direction of liquidity is the trap.
-
-</details>
-
-**Q7.** Raising the CRR, other things equal, tends to
-
-A. Expand banks’ free lendable resources
-B. Contract banks’ free lendable resources
-C. Abolish NABARD
-D. Replace GST
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Contracts lendable resources.
-
-**Logic:** More cash locked with RBI.
-
-</details>
-
-**Q8.** Bank nationalisation of 1969 covered how many major banks in the first round?
-
-A. 6
-B. 14
-C. 20
-D. 28
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** 14 banks in 1969; 6 more in 1980.
-
-**Logic:** Two-round spine.
-
-</details>
-
-**Q9.** With reference to NABARD, which of the following statements is/are correct?
-
-1. It is the apex institution for agricultural refinance / rural development banking.
-2. It was established in 1982.
-3. It replaced the Finance Commission under Article 280.
-
-Select the correct answer from the code given below:
-
-A. Only 3
-B. 1 and 2
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Statements 1 and 2 are correct.
-
-**Logic:** FC is Topic 2. Statement 3 is false.
-
-</details>
-
-**Q10.** Which chronology is correct?
-
-A. NABARD → RRBs → KCC → SHG linkage
-B. RRBs → NABARD → SHG–Bank Linkage → KCC
-C. KCC → RRBs → NABARD → SHG linkage
-D. SHG linkage → KCC → RRBs → NABARD
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** 1975 → 1982 → 1992 → 1998.
-
-**Logic:** UPPCS 2020 spine.
-
-</details>
-
-**Q11.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Payments Banks support financial inclusion on the payments and deposit side.
-
-Reason (R): Payments Banks are barred from giving ordinary loans in the classic licence design.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Both true; the loan bar explains the product limit, not why deposits/payments themselves include people — inclusion comes from access to accounts and payments, while R states a separate licence constraint.
-
-**A/R logic:** Do not force R as the cause of A’s inclusion claim.
-
-</details>
-
-**Q12.** Which of the following pairs is **not** correctly matched?
-
-A. Lead Bank Scheme — district lead bank
-B. RRB — 1975
-C. NABARD — 1982
-D. MPC Chair — Union Finance Minister
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** RBI Governor chairs the MPC.
-
-**Logic:** A–C are standard.
-
-</details>
-
-**Q13.** With reference to NPAs, which of the following statements is/are correct?
-
-1. An NPA is a loan with prolonged overdue of interest / principal beyond norms.
-2. High NPAs weaken bank balance sheets.
-3. NPA means the bank has abolished CRR forever.
-
-Select the correct answer from the code given below:
-
-A. Only 3
-B. 1 and 2
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Statements 1 and 2 are correct.
-
-**Logic:** Statement 3 is false.
-
-</details>
+Extra Drill rebuilt from coaching / mock stems (not a full Purvalokan dump). Expand when Ghatnachakra Economy MCQs are pasted.
 
 **Q14.** UPI is best described as
 
@@ -993,6 +722,308 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 </details>
 
 ---
+
+## UKPCS Prelims Bank
+**Q1. UKPCS (Pre) 2016** — Apex bank for agricultural refinance
+
+A. RBI
+B. NABARD
+C. LDB
+D. SBI
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** NABARD is the apex refinance institution.
+
+**Ans: B.**
+
+</details>
+
+**Q2. UKPCS (Pre) 2021** — Rise in value of one currency relative to another
+
+A. A weakening of a currency
+B. A depreciation of a currency
+C. An appreciation of a currency
+D. A debasement of a currency
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Appreciation = rise; depreciation = fall. Topic 9 deepens exchange-rate regimes.
+
+**Ans: C.**
+
+</details>
+
+**Q3. UKPCS (Pre) 2025** — RRB mergers under one-State-one-RRB
+
+A. 16
+B. 21
+C. 26
+D. 30
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Announced merger count keyed at 26.
+
+**Ans: C.**
+
+</details>
+
+---
+
+## Practice Zone
+
+**Q1.** With reference to money, which of the following statements is/are correct?
+
+1. Medium of exchange is a core function.
+2. Store of value is a core function.
+3. Money supply is identical to the fiscal deficit formula.
+
+Select the correct answer from the code given below:
+
+A. Only 3
+B. 1 and 2
+C. 2 and 3
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Statements 1 and 2 are correct.
+
+**Logic:** Fiscal deficit is Topic 2. Statement 3 is false.
+
+</details>
+
+**Q2.** Broad money (M3) in Indian teaching mainly adds which of the following to the narrow base?
+
+A. Only gold reserves of households
+B. Time deposits with banks
+C. Only equity shares
+D. Only GST collections
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Time deposits with banks.
+
+**Logic:** M3 = broad money aggregate.
+
+</details>
+
+**Q3.** Which pair is **not** correctly matched?
+
+A. Repo — RBI lends to banks against collateral
+B. CRR — cash reserve with RBI
+C. SLR — liquid assets held by banks
+D. Payments Bank — free to give large unsecured business loans like a universal bank
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Payments Banks cannot give ordinary loans in the classic licence.
+
+**Logic:** A–C are standard.
+
+</details>
+
+**Q4.** With reference to the MPC, which of the following statements is/are correct?
+
+1. It decides the RBI’s benchmark policy rate stance.
+2. It has six members.
+3. It is chaired by the Union Finance Minister.
+
+Select the correct answer from the code given below:
+
+A. Only 3
+B. 1 and 2
+C. 2 and 3
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Statements 1 and 2 are correct.
+
+**Logic:** Governor chairs the MPC. Statement 3 is false.
+
+</details>
+
+**Q5.** Flexible inflation targeting in India centres on
+
+A. WPI at exactly 0% forever
+B. Headline CPI at 4% with a ±2% band
+C. Only gold prices
+D. Only fiscal deficit at 10%
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** CPI 4% ± 2%.
+
+**Logic:** FIT framework; WPI depth is Topic 4.
+
+</details>
+
+**Q6.** Match List-I with List-II.
+
+| List-I | List-II |
+|---|---|
+| A. Repo | 1. Cash with RBI |
+| B. Reverse repo / SDF | 2. RBI lends to banks |
+| C. CRR | 3. RBI absorbs liquidity |
+| D. OMO | 4. Buy / sell G-Secs |
+
+Select the correct answer from the code given below:
+
+A. 2 3 1 4
+B. 3 2 1 4
+C. 2 1 3 4
+D. 4 3 1 2
+
+*Row order is not the answer code.*
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Lend; absorb; CRR; securities operations.
+
+**Logic:** Direction of liquidity is the trap.
+
+</details>
+
+**Q7.** Raising the CRR, other things equal, tends to
+
+A. Expand banks’ free lendable resources
+B. Contract banks’ free lendable resources
+C. Abolish NABARD
+D. Replace GST
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Contracts lendable resources.
+
+**Logic:** More cash locked with RBI.
+
+</details>
+
+**Q8.** Bank nationalisation of 1969 covered how many major banks in the first round?
+
+A. 6
+B. 14
+C. 20
+D. 28
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** 14 banks in 1969; 6 more in 1980.
+
+**Logic:** Two-round spine.
+
+</details>
+
+**Q9.** With reference to NABARD, which of the following statements is/are correct?
+
+1. It is the apex institution for agricultural refinance / rural development banking.
+2. It was established in 1982.
+3. It replaced the Finance Commission under Article 280.
+
+Select the correct answer from the code given below:
+
+A. Only 3
+B. 1 and 2
+C. 2 and 3
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Statements 1 and 2 are correct.
+
+**Logic:** FC is Topic 2. Statement 3 is false.
+
+</details>
+
+**Q10.** Which chronology is correct?
+
+A. NABARD → RRBs → KCC → SHG linkage
+B. RRBs → NABARD → SHG–Bank Linkage → KCC
+C. KCC → RRBs → NABARD → SHG linkage
+D. SHG linkage → KCC → RRBs → NABARD
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** 1975 → 1982 → 1992 → 1998.
+
+**Logic:** UPPCS 2020 spine.
+
+</details>
+
+**Q11.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Payments Banks support financial inclusion on the payments and deposit side.
+
+Reason (R): Payments Banks are barred from giving ordinary loans in the classic licence design.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; the loan bar explains the product limit, not why deposits/payments themselves include people — inclusion comes from access to accounts and payments, while R states a separate licence constraint.
+
+**A/R logic:** Do not force R as the cause of A’s inclusion claim.
+
+</details>
+
+**Q12.** Which of the following pairs is **not** correctly matched?
+
+A. Lead Bank Scheme — district lead bank
+B. RRB — 1975
+C. NABARD — 1982
+D. MPC Chair — Union Finance Minister
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** RBI Governor chairs the MPC.
+
+**Logic:** A–C are standard.
+
+</details>
+
+**Q13.** With reference to NPAs, which of the following statements is/are correct?
+
+1. An NPA is a loan with prolonged overdue of interest / principal beyond norms.
+2. High NPAs weaken bank balance sheets.
+3. NPA means the bank has abolished CRR forever.
+
+Select the correct answer from the code given below:
+
+A. Only 3
+B. 1 and 2
+C. 2 and 3
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Statements 1 and 2 are correct.
+
+**Logic:** Statement 3 is false.
+
+</details>
 
 ## Common Traps
 

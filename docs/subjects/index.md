@@ -40,6 +40,9 @@ For UPPCS 2018–2025 question weight and study order, open **[Prelims Analysis]
 [**Census and Urbanisation**
 <span>7 topics written · जनगणना · demography · नगरीकरण</span>](census and urbanisation/index.md){.study-card }
 
+[**UP Special**
+<span>All 8 topics written · Topic 8 dynamic · उत्तर प्रदेश</span>](up special/index.md){.study-card }
+
 [**Science and Technology**
 <span>Biology + Physics + Chemistry written · UKPCS Unit 5</span>](science and technology/index.md){.study-card }
 

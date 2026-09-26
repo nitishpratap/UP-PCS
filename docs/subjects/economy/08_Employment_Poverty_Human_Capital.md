@@ -10,13 +10,14 @@ Poverty line and MPI | Poverty programmes | Unemployment types | LFPR / informal
 
 > **Sources baked in:** NCERT Class 11 Indian Economic Development (poverty, human capital), UNDP HDI/MPI notes, PLFS labour concepts, UPPCS Prelims PYQs, UKPCS Prelims
 > **Weight:** ★★★ High — HDI trio, MPI 2010, Alagh nutrition line, demographic dividend 15–59, and “size of house” trap decide stems
-> **Last verified:** September 2026
+> **Last verified:** September 2026 — Lucent remodel (History/Polity section order); Extra Drill rebuilt from mixed stems
 
 Banking-side financial inclusion stays in **Topic 3**. This chapter owns poverty measurement, labour, human capital, HDI/MPI and inclusive-growth teaching.
 
 ---
 
 ## Current Affairs
+
 
 | Year | Fact | Why it matters |
 |------|------|----------------|
@@ -31,6 +32,7 @@ Banking-side financial inclusion stays in **Topic 3**. This chapter owns poverty
 ---
 
 ## Consolidated — 42 Must-Score Facts
+
 
 1. **Poverty** is the inability to meet a minimum standard of living — measured by income/consumption lines or by multidimensional deprivations.
 2. India’s official poverty estimation has mainly used **household consumption** surveys, not per capita income alone.
@@ -79,6 +81,7 @@ Banking-side financial inclusion stays in **Topic 3**. This chapter owns poverty
 
 ## Confused Pairs
 
+
 | A | B | Distinguishing fact |
 |---|---|---|
 | **Income / consumption poverty** | **MPI** | Money line vs deprivation score |
@@ -93,6 +96,7 @@ Banking-side financial inclusion stays in **Topic 3**. This chapter owns poverty
 | **Human capital** | **Physical capital** | Skills/health in people vs machines/buildings |
 
 ## Must-score drill — HDI, MPI, labour
+
 
 | Item | Tag |
 |---|---|
@@ -109,6 +113,7 @@ Banking-side financial inclusion stays in **Topic 3**. This chapter owns poverty
 ---
 
 ## 8.1 Poverty — lines, MPI, indicators
+
 
 **Poverty** is the inability to meet a minimum accepted standard of living.
 
@@ -213,9 +218,9 @@ D. Only 1
 
 Multidimensional poverty index includes:
 
-i. Health  
-ii. Education  
-iii. Living Standard  
+i. Health
+ii. Education
+iii. Living Standard
 
 Select correct answer from the codes given below:
 
@@ -280,6 +285,7 @@ D. Vallabh Bhai Patel
 
 ## 8.2 Employment and labour
 
+
 **Unemployment** means willing workers cannot find work at the going wage and conditions.
 
 ### Types of unemployment
@@ -335,6 +341,7 @@ D. Working population of 14 to 50 years
 ---
 
 ## 8.3 Human capital, HDI and inclusive growth
+
 
 **Human capital** is the stock of skills, knowledge and health embodied in people.
 
@@ -437,7 +444,10 @@ D. Only 1
 
 ## Complete PYQ Bank (UPPCS)
 
+
 **Q1. UPPCS (Pre) 2020** — Nutrition-exclusive poverty line committee
+
+Which of the following Committees recommended a poverty line based on nutritional requirements exclusively?
 
 A. Alagh
 B. Lakdawala
@@ -455,6 +465,8 @@ D. Rangarajan
 
 **Q2. UPPCS (Pre) 2020** — HPI replaced by MPI in
 
+Human Development Report 1997 introduced the concept of Human Poverty Index (HPI) but Human Development Report replaced it with Multidimensional Poverty Index (MPI) in the year
+
 A. 1999
 B. 2005
 C. 2010
@@ -470,6 +482,13 @@ D. 2015
 </details>
 
 **Q3. UPPCS (Pre) 2025** — MPI statements (2010 / $1 day)
+
+With reference to the Multidimensional Poverty Index (MPI), which of the following statements is/are correct?
+
+1. It was developed and introduced in 2010.
+2. It measures extreme poverty and includes people living on less than one dollar per day.
+
+Select the correct answer from the code given below:
 
 A. Only 2
 B. Neither
@@ -487,6 +506,15 @@ D. Only 1
 
 **Q4. UPPCS (Pre) 2025** — NOT a social indicator of poverty
 
+Which of the following is NOT a social indicator of poverty?
+
+1. Illiteracy
+2. Safe drinking water
+3. Employment opportunities
+4. Size of house
+
+Select the correct answer from the code given below:
+
 A. 1 and 2
 B. 3 and 4
 C. Only 4
@@ -502,6 +530,15 @@ D. Only 1
 </details>
 
 **Q5. UPPCS (Pre) 2024** — HDI indicators
+
+Which indicators are used in Human Development Index (HDI)?
+
+1. Income level
+2. Education
+3. Condition of environment
+4. Life expectancy
+
+Select the correct answer from the codes given below:
 
 A. 1, 2 and 3
 B. 1 and 4
@@ -519,6 +556,14 @@ D. 1 and 2
 
 **Q6. UPPCS (Pre) 2025** — Human capital A/R
 
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Investment in human capital yields returns in the future.
+
+Reason (R): Education and health make people more productive.
+
+Select the correct answer from the code given below:
+
 A. Both true, R does not explain
 B. A false, R true
 C. A true, R false
@@ -534,6 +579,13 @@ D. Both true and R explains
 </details>
 
 **Q7. UPPCS (Pre) 2025** — HDI 1990 / Haq–Priesner
+
+With reference to the Multidimensional Poverty Index (MPI), which of the following statements is/are correct?
+
+1. It was developed and introduced in 2010.
+2. It measures extreme poverty and includes people living on less than one dollar per day.
+
+Select the correct answer from the code given below:
 
 A. Only 2
 B. Neither
@@ -551,6 +603,8 @@ D. Only 1
 
 **Q8. UPPCS (Pre) 2022** — Demographic dividend
 
+The demographic dividend is—
+
 A. Above 60 years
 B. 15 to 59 years
 C. 0–6 years
@@ -566,6 +620,14 @@ D. 14 to 50 years
 </details>
 
 **Q9. UPPCS (Pre) 2019** — MPI dimensions
+
+Multidimensional poverty index includes:
+
+i. Health
+ii. Education
+iii. Living Standard
+
+Select correct answer from the codes given below:
 
 A. Only health
 B. Only education and living standard
@@ -583,9 +645,18 @@ D. Health, education and living standard
 
 ---
 
-## Complete PYQ Bank (UKPCS)
+## Ghatnachakra Extra Drill — Employment, Poverty and Human Capital
+
+> Extra Drill rebuilt from mixed RO/ARO–coaching stems (paste full Ghatnachakra Purvalokan later to expand).
+
+UPPCS-tagged stems live in **Complete PYQ Bank (UPPCS)** above. UKPCS-tagged stems live in **UKPCS** below. Use Practice Zone for fresh multi-statement drills.
+
+## UKPCS
+
 
 **Q1. UKPCS (Pre) 2025** — Jail cost of living poverty estimate
+
+Who used the 'jail cost of living' to estimate the poverty line in India?
 
 A. Dadabhai Naoroji
 B. Mahatma Gandhi
@@ -604,6 +675,7 @@ D. Vallabh Bhai Patel
 ---
 
 ## Practice Zone
+
 
 **Q1.** With reference to disguised unemployment, which of the following statements is/are correct?
 
@@ -1155,6 +1227,7 @@ D. Only Tobin tax
 ---
 
 ## Common Traps
+
 
 * MPI **2010** ≠ $1/day line; HPI **1997** → MPI **2010**.
 * HDI = **life + education + income** — not environment.

@@ -1,7 +1,7 @@
 # Topic 17 – UP Art, Culture, Demographics & Master Institute Directory (UPPCS Special)
 
 > **Priority S** | Core state paper module heavily tested in UPPCS (8–12 direct questions on UP static facts, art, fairs, census, institutes, and GI tags).  
-> **Pair with:** [Geography of UP](../../geography/uttar%20pradesh/24_Geography_of_Uttar_Pradesh.md) · [UP Special Polity](../../polity/25_UP_Special.md) · [National Art & Culture](../01_Visual_Arts.md)
+> **Pair with:** [Geography of UP](../../geography/uttar%20pradesh/24_Geography_of_Uttar_Pradesh.md) · [UP Special Polity](../../polity/25_UP_Special.md) · [National Art & Culture](../01_Visual_Arts.md) · **Consolidated:** [UP Special Topic 2](../../up%20special/02_History_Culture_Art_Heritage.md) · [Topic 6](../../up%20special/06_Society_Population_Education_Social.md)
 
 ---
 

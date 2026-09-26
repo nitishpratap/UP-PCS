@@ -10,13 +10,14 @@ Foreign trade / BoT / BoP | Current vs capital account | CAD / trade deficit | F
 
 > **Sources baked in:** NCERT Class 12 Macroeconomics (open economy / BoP), RBI BoP press notes teaching, WTO overview, UPPCS Prelims PYQs, UKPCS Prelims
 > **Weight:** ★★★ High — current-account vs capital, flexible-rate A/R, remittance ranks, FEMA 1999 / 1 June 2000, and FDI≠FPI decide stems
-> **Last verified:** September 2026
+> **Last verified:** September 2026 — Lucent remodel (History/Polity section order); Extra Drill rebuilt from mixed stems
 
 Industry-policy FDI source/sector tags stay in **Topic 7**. IMF / World Bank / G20 depth stays in **Topic 10**. This chapter owns BoP accounts, forex, exchange-rate regimes, capital flows as external finance, trade barriers and the WTO **trade** desk.
 
 ---
 
 ## Current Affairs
+
 
 | Year | Fact | Why it matters |
 |------|------|----------------|
@@ -31,6 +32,7 @@ Industry-policy FDI source/sector tags stay in **Topic 7**. IMF / World Bank / G
 ---
 
 ## Consolidated — 44 Must-Score Facts
+
 
 1. **Foreign trade** is the exchange of goods and services across national borders — exports earn foreign exchange; imports spend it.
 2. **Balance of Trade (BoT)** is merchandise exports minus merchandise imports (goods only in the classic teaching).
@@ -81,6 +83,7 @@ Industry-policy FDI source/sector tags stay in **Topic 7**. IMF / World Bank / G
 
 ## Confused Pairs
 
+
 | A | B | Distinguishing fact |
 |---|---|---|
 | **Balance of Trade** | **Balance of Payments** | Goods gap vs full external transactions record |
@@ -98,6 +101,7 @@ Industry-policy FDI source/sector tags stay in **Topic 7**. IMF / World Bank / G
 
 ## Must-score drill — BoP, forex, FEMA
 
+
 | Item | Tag |
 |---|---|
 | Current account example | Export–import of goods |
@@ -114,6 +118,7 @@ Industry-policy FDI source/sector tags stay in **Topic 7**. IMF / World Bank / G
 ---
 
 ## 9.1 Trade, BoT and Balance of Payments
+
 
 **Foreign trade** is the exchange of goods and services across national borders.
 
@@ -186,6 +191,7 @@ D. IMF loans
 ---
 
 ## 9.2 Forex reserves, exchange rates and convertibility
+
 
 **Foreign exchange reserves** are the official stock of usable external assets held mainly by the Reserve Bank of India.
 
@@ -274,6 +280,7 @@ D. A debasement of a currency
 
 ## 9.3 Capital flows — FDI, FPI, remittances, debt
 
+
 **Capital flows** finance the current-account gap and fund investment from abroad.
 
 ### FDI and FPI
@@ -336,6 +343,7 @@ D. 1 2 3 4
 ---
 
 ## 9.4 Trade barriers, WTO desk, globalisation and partners
+
 
 **Trade barriers** restrict free cross-border exchange of goods and services.
 
@@ -409,6 +417,7 @@ D. Bali
 
 ## 9.5 FEMA, FERA and the external legal frame
 
+
 **FERA and FEMA** are the two successive statutes that governed foreign-exchange dealings in India.
 
 ### FERA, 1973
@@ -473,6 +482,7 @@ D. (1) is false, (2) is true
 ---
 
 ## Complete PYQ Bank (UPPCS)
+
 
 **Q1. UPPCS (Pre) 2024** — Current account item
 
@@ -559,7 +569,14 @@ D. (A) is true, but (R) is false.
 
 ---
 
-## Complete PYQ Bank (UKPCS)
+## Ghatnachakra Extra Drill — External Sector and Foreign Trade
+
+> Extra Drill rebuilt from mixed RO/ARO–coaching stems (paste full Ghatnachakra Purvalokan later to expand).
+
+UPPCS-tagged stems live in **Complete PYQ Bank (UPPCS)** above. UKPCS-tagged stems live in **UKPCS** below. Use Practice Zone for fresh multi-statement drills.
+
+## UKPCS
+
 
 **Q1. UKPCS (Pre) 2024** — FEMA existence year
 
@@ -673,6 +690,7 @@ D. Chemicals other than fertilisers
 ---
 
 ## Practice Zone
+
 
 **Q1.** Balance of Trade mainly records
 
@@ -1177,6 +1195,7 @@ D. Only CPI food group
 ---
 
 ## Common Traps
+
 
 * Current account = goods / services / income / transfers — **not** FDI, ECB or IMF loans.
 * Trade deficit ≠ CAD (CAD is broader).

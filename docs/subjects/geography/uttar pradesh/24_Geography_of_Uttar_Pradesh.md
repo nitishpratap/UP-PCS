@@ -21,6 +21,7 @@
 > **Weight:** ★★★★ — Dudhwa district, Ramsar NOT-in-UP, Devipatan, Lalitpur, potato, soils Mar/Kabar; teach full UP physical–human map
 > **Last verified:** August 2026 — gap-pass (district extremes, rain Gorakhpur/Mathura, tubewell dark zones, Saryu Canal)
 > **Current Affairs:** UP Ramsar **13** (Surha Tal / JP Narayan BS, Ballia = India’s 100th, 5 Jun 2026); CIP potato centre = **Agra (Singna)**, not Aligarh
+> **Consolidated UP Special desk:** [UP Special](../../up%20special/index.md) — Topics 1 / 5 / 7 for geography–agri–transport–environment depth
 
 ---
 

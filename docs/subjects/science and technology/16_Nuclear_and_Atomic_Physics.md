@@ -2,33 +2,33 @@
 
 ### ★ UPPCS Revision Sheet — Lucent & Physics Wallah Advanced Notes (Zero Gaps · High-Yield Focus)
 
-> **MANDATORY EXAM SCOPE:** Covers all dimensions of Nuclear Structure, Binding Energy, Radioactivity ($\alpha, \beta, \gamma$ decay), Half-Life and Radioactive Dating, Nuclear Fission (Chain Reactions, Critical Mass, Energy Yields, Fissile vs Fertile Fuels), Nuclear Reactor Components (Fuel, Moderator, Control Rods, Coolant, Shielding), Nuclear Fusion (Solar/Stellar Energy, Thermonuclear Weapons, Hydrogen Bomb, Tokamak Confinement), India's Three-Stage Nuclear Power Programme (PHWR, PFBR/FBR, AHWR), Nuclear Fuel Reserves in India (Monazite, Thorium vs Uranium Deposits, LEU vs HEU), Radiation Applications and Detection Instruments (Scintillation Counter, Cyclotron), and International Treaties (NPT, CTBT). Fully synchronized with Ghatna Chakra Physics, NCERT Class 12, and latest 2021–2025 State PCS exam papers.
+> **MANDATORY SYLLABUS SCOPE:** Covers all dimensions of Nuclear Structure, Binding Energy, Radioactivity ($\alpha, \beta, \gamma$ decay), Half-Life and Radioactive Dating, Nuclear Fission (Chain Reactions, Critical Mass, Energy Yields, Fissile vs Fertile Fuels), Nuclear Reactor Components (Fuel, Moderator, Control Rods, Coolant, Shielding), Nuclear Fusion (Solar/Stellar Energy, Thermonuclear Weapons, Hydrogen Bomb, Tokamak Confinement), India's Three-Stage Nuclear Power Programme (PHWR, PFBR/FBR, AHWR), Nuclear Fuel Reserves in India (Monazite, Thorium vs Uranium Deposits, LEU vs HEU), Radiation Applications and Detection Instruments (Scintillation Counter, Cyclotron), and International Treaties (NPT, CTBT). Fully synchronized with Ghatna Chakra Physics, NCERT Class 12, and latest 2021–2025 State PCS PSC papers.
 
 ---
 
-## Current Affairs & Exam Locks (2024–2026 Focus)
+## Current Affairs (2024–2026 Focus)
 
-1. **India's Three-Stage Nuclear Programme & Kalpakkam PFBR (High-Yield Science Lock):**
+1. **India's Three-Stage Nuclear Programme & Kalpakkam PFBR (High-Yield Science Fact):**
    - India's nuclear doctrine, drafted by **Dr. Homi Jehangir Bhabha**, is designed to exploit India's vast **Thorium** reserves:
      - **Stage 1:** Pressurized Heavy Water Reactors (PHWR) fuelled by **Natural Uranium ($\text{U-238} + 0.7\%\text{ U-235}$)**, producing electricity and byproduct **Plutonium-239 ($\text{Pu-239}$)**.
      - **Stage 2:** Fast Breeder Reactors (FBR) fuelled by **Plutonium-239** with a Thorium-232 blanket, breeding fissile **Uranium-233 ($\text{U-233}$)**. Core loading commenced at the **$500\text{ MWe}$ Prototype Fast Breeder Reactor (PFBR) at Kalpakkam, Tamil Nadu**.
      - **Stage 3:** Advanced Heavy Water Reactors (AHWR) fuelled by **Thorium-232 / Uranium-233**, unlocking energy independence.
 
-2. **Monazite Placer Sands & Legal Monopoly in India (IAS Pre 2022 Lock):**
+2. **Monazite Placer Sands & Legal Monopoly in India (IAS Pre 2022 Fact):**
    - **Monazite** is a complex reddish-brown phosphate mineral of Thorium and rare-earth elements $[(\text{Ce, La, Nd, Th, Y})\text{PO}_4]$.
    - Coastal beach placers occur in **Kerala, Tamil Nadu, Odisha, Andhra Pradesh, Maharashtra, and Gujarat** (estimated at **$13.15\text{ million tonnes}$** by AMD).
-   - **Legal Lock:** Monazite is a prescribed strategic substance under the Atomic Energy Act, 1962. **Private entities are strictly prohibited from processing or exporting monazite**. Only government undertakings—**IREL (Indian Rare Earths Limited)** under DAE and **KMML (Kerala Minerals and Metals Ltd)**—are legally authorized to mine, process, and extract thorium compounds.
+   - **Legal Fact:** Monazite is a prescribed strategic substance under the Atomic Energy Act, 1962. **Private entities are strictly prohibited from processing or exporting monazite**. Only government undertakings—**IREL (Indian Rare Earths Limited)** under DAE and **KMML (Kerala Minerals and Metals Ltd)**—are legally authorized to mine, process, and extract thorium compounds.
 
-3. **Uranium Enrichment Levels for Civil vs Military Use (IAS Pre 2023 Lock):**
+3. **Uranium Enrichment Levels for Civil vs Military Use (IAS Pre 2023 Fact):**
    - **Natural Uranium:** Contains only **$0.7\%$ U-235**; the remaining $99.3\%$ is non-fissile U-238.
    - **Low Enriched Uranium (LEU):** Enriched up to **$3\% - 5\%$ U-235**, which is standard for commercial civil nuclear power reactors.
    - **Highly Enriched Uranium (HEU):** Enriched to $> 20\%$ U-235. **Weapons-grade uranium requires $\ge 90\%$ U-235** to achieve compact critical mass.
-   - **Exam Trap Lock:** Commercial electricity DOES NOT require $60\%$ enriched uranium (IAS Pre 2023 statement debunked). India derives $43.5\%$ of its electrical power from coal, not uranium.
+   - **Common Trap Fact:** Commercial electricity DOES NOT require $60\%$ enriched uranium (IAS Pre 2023 statement debunked). India derives $43.5\%$ of its electrical power from coal, not uranium.
 
-4. **Narora Atomic Power Station (NAPS, Uttar Pradesh Lock):**
+4. **Narora Atomic Power Station (NAPS, Uttar Pradesh Fact):**
    - Located in **Narora, Bulandshahr district, Uttar Pradesh** on the banks of the Ganga River. Operates two indigenous PHWR units of **$220\text{ MWe}$ each** using natural uranium and heavy water.
 
-5. **International Non-Proliferation Treaties (NPT & CTBT Exam Locks):**
+5. **International Non-Proliferation Treaties (NPT & CTBT Must-Score):**
    - **NPT (Non-Proliferation Treaty):** Opened for signature in 1968, in force 1970, extended indefinitely in 1995 ($191\text{ parties}$). Recognizes 5 Nuclear-Weapon States (tested before 1 Jan 1967: US, Russia, UK, France, China). **India, Pakistan, Israel, and South Sudan have never signed**. North Korea announced withdrawal in 2003.
    - **CTBT (Comprehensive Nuclear-Test-Ban Treaty):** Adopted 1996; requires ratification by all 44 Annex-2 states. Not in force because India, Pakistan, and North Korea have not signed, and US, China, Egypt, Iran, and Israel have not ratified. Russia revoked ratification in 2023.
 
@@ -78,7 +78,7 @@
     - Yields more energy per unit mass of mined ore.
     - Operates in thermal breeder cycles without generating long-lived transuranic actinides (like Plutonium, Americium, Curium).
     - Highly proliferation-resistant (produces no weapon-usable plutonium).
-39. Non-nuclear fuel elements commonly tested in exams: **Cadmium (absorber), Chromium, Calcium, Lead, Helium (inert gas)**. None of these can be used as nuclear fuels.
+39. Non-nuclear fuel elements commonly tested in PSCs: **Cadmium (absorber), Chromium, Calcium, Lead, Helium (inert gas)**. None of these can be used as nuclear fuels.
 40. **Enriched Uranium** refers to natural uranium that has undergone isotopic separation (via gas centrifuges or gaseous diffusion) to artificially elevate the concentration of fissile U-235 above its natural $0.7\%$.
 41. Nuclear power reactors operating in India: **Tarapur (Maharashtra), Rawatbhata (Rajasthan), Kalpakkam (Tamil Nadu), Narora (Uttar Pradesh), Kakrapar (Gujarat), Kaiga (Karnataka), Kudankulam (Tamil Nadu)**.
 42. **Kudankulam Nuclear Power Plant** utilizes Russian-designed **VVER-1000** light-water pressurized water reactors (PWRs), using enriched uranium and light water.
@@ -95,7 +95,7 @@
 
 ## Confused Pairs
 
-| Concept A | Concept B | Core Distinction & Exam Trap |
+| Concept A | Concept B | Core Distinction & Common Trap |
 | :--- | :--- | :--- |
 | **Nuclear Fission** | **Nuclear Fusion** | Fission splits heavy nuclei (U-235) into smaller fragments (commercial reactors, A-bomb). Fusion combines light nuclei (deuterium/tritium) at extreme temperature (Sun, H-bomb). |
 | **Moderator** | **Control Rods** | Moderator **slows down fast neutrons** without absorbing them (heavy water, graphite). Control rods **absorb neutrons** to regulate/stop the reaction (Cadmium, Boron). |
@@ -110,7 +110,7 @@
 
 ### Table 1: Operating Nuclear Power Stations in India
 
-| Power Station | Location & State | Reactor Type | Installed Capacity / Units | Critical Exam Notes |
+| Power Station | Location & State | Reactor Type | Installed Capacity / Units | Critical Must-Score Notes |
 | :--- | :--- | :--- | :--- | :--- |
 | **Narora (NAPS)** | Bulandshahr, **Uttar Pradesh** | PHWR | $2 \times 220\text{ MWe} = 440\text{ MWe}$ | **Only commercial nuclear plant in UP**; banks of Ganga |
 | **Tarapur (TAPS)** | Palghar, **Maharashtra** | BWR & PHWR | $2 \times 160 + 2 \times 540 = 1,400\text{ MWe}$| **Oldest nuclear power plant in India** (1969; US collaboration) |
@@ -123,7 +123,7 @@
 
 ### Table 2: Nuclear Discoveries & Pioneers Matrix
 
-| Phenomenon / Particle | Discoverer / Theorist | Year | High-Yield Civil Exam Significance |
+| Phenomenon / Particle | Discoverer / Theorist | Year | High-Yield Civil Must-Score Significance |
 | :--- | :--- | :---: | :--- |
 | **Radioactivity** | Henri Becquerel | 1896 | Spontaneous emission of rays from uranium salts |
 | **Polonium and Radium** | Marie Curie & Pierre Curie | 1898 | Isolated highly radioactive elements from pitchblende |
@@ -193,275 +193,394 @@
 
 ## Complete PYQ Bank — UPPCS
 
-**Q1. (U.P. U.D.A./L.D.A. (Pre) 2002 / U.P. P.C.S. (Pre) 2001, 2003)** Which one of the following pairs is not correctly
-matched :
-(a) Discovery of Meson – Hideki Yukawa
-(b) Discovery of – C.D. Anderson
-Positron and U.F. Hess
-(c) Theory of energy – H.A. Bethe
-production in the
-sun and stars
-(d) Synthesis of – Enrico Fermi
+**Q1. (U.P. U.D.A./L.D.A. (Pre) 2002 / U.P. P.C.S. (Pre) 2001, 2003)** Which one of the following pairs is not correctly
+
+matched :
+
+(a) Discovery of Meson – Hideki Yukawa
+
+(b) Discovery of – C.D. Anderson
+
+Positron and U.F. Hess
+
+(c) Theory of energy – H.A. Bethe
+
+production in the
+
+sun and stars
+
+(d) Synthesis of – Enrico Fermi
+
 transuranic elements
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `Ans. (d)`
-- **Exam Lock & Core Concepts:**
-  In 1935 Meson particles were discovered by Japanese
-physicist Hideki Yukawa. Positron, the antiparticle or the
-antimatter counterpart of the electron was discovered by C.D.
-Anderson and U.F. Hess in 1932. In 1938, Hans Albrecht
-Bethe described the nuclear reactions that power the sun
-and other stars. In synthesis of transuranic elements, Glenn
-T. Seaborg played an important role instead of Enrico Fermi.
-The fact is that he attempted to prepare a transuranic element
+- **Logic:**
+  In 1935 Meson particles were discovered by Japanese
+
+physicist Hideki Yukawa. Positron, the antiparticle or the
+
+antimatter counterpart of the electron was discovered by C.D.
+
+Anderson and U.F. Hess in 1932. In 1938, Hans Albrecht
+
+Bethe described the nuclear reactions that power the sun
+
+and other stars. In synthesis of transuranic elements, Glenn
+
+T. Seaborg played an important role instead of Enrico Fermi.
+
+The fact is that he attempted to prepare a transuranic element
+
 in 1934 in Rome but failed to do so.
 
 </details>
 
-**Q2. (U.P.P.C.S. (Pre) 1999)** Which one of the following is not correct :
-(a) Theory of evolution was propounded by Charles Darwin.
-(b) The breaking apart of the nucleus of an atom is called
-fusion.
-(c) ‘Dry ice’ is nothing but solid carbon dioxide.
+**Q2. (U.P.P.C.S. (Pre) 1999)** Which one of the following is not correct :
+
+(a) Theory of evolution was propounded by Charles Darwin.
+
+(b) The breaking apart of the nucleus of an atom is called
+
+fusion.
+
+(c) ‘Dry ice’ is nothing but solid carbon dioxide.
+
 (d) Telephone was invented by Graham Bell.
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `Ans. (b)`
-- **Exam Lock & Core Concepts:**
-  Among the given options, option (b) is not correct. It is
-because the breaking apart of the nucleus of an atom is called
-fission not fusion. Fission is a process in which the nucleus
+- **Logic:**
+  Among the given options, option (b) is not correct. It is
+
+because the breaking apart of the nucleus of an atom is called
+
+fission not fusion. Fission is a process in which the nucleus
+
 of an atom splits into smaller parts.
 
 </details>
 
-**Q3. (U.P. P.C.S. (Pre) 1994)** Read the following statements–
-Statement (A): Ernest Rutherford said in Royal Society
-that a man will never be able to get
-nuclear energy.
-Reason (R) : He was confident that the Law of
-Einstein will fail and the volume will
-not be converted to energy.
-Select your answer in the code given below :
-(a) Both (A) and (R) are true and (A) is the correct
-explanation of (A).
-(b) Both (A) and (R) are true but (R) is not the correct
-explanation of (A).
-(c) (A) is correct but (R) is not correct.
+**Q3. (U.P. P.C.S. (Pre) 1994)** Read the following statements–
+
+Statement (A): Ernest Rutherford said in Royal Society
+
+that a man will never be able to get
+
+nuclear energy.
+
+Reason (R) : He was confident that the Law of
+
+Einstein will fail and the volume will
+
+not be converted to energy.
+
+Select your answer in the code given below :
+
+(a) Both (A) and (R) are true and (A) is the correct
+
+explanation of (A).
+
+(b) Both (A) and (R) are true but (R) is not the correct
+
+explanation of (A).
+
+(c) (A) is correct but (R) is not correct.
+
 (d) (R) is correct but (A) is not correct.
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `Ans. (a)`
-- **Exam Lock & Core Concepts:**
-  Both given statement and reason are correct and reason (R)
+- **Logic:**
+  Both given statement and reason are correct and reason (R)
+
 is the correct explanation of statement (A).
 
 </details>
 
-**Q4. (U.P.P.C.S. (Pre) 2009)** One of these particles is claimed to have invented which
-rebut the Einstein's theory of relativity :
-(a) Microwave photon (b) Neutrino
+**Q4. (U.P.P.C.S. (Pre) 2009)** One of these particles is claimed to have invented which
+
+rebut the Einstein's theory of relativity :
+
+(a) Microwave photon (b) Neutrino
+
 (c) Liquid crystal (d) Light emitting diode
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `Ans. (a)`
-- **Exam Lock & Core Concepts:**
-  The two physicists Gunter Nimtz and Alfons Stahlhofen
-of the University of Koblenz, Germany claimed that they
-had propelled microwave photons faster than the speed of
-light. This would be the direct violation of a key content of
-Einstein's special theory of relativity that states that nothing
+- **Logic:**
+  The two physicists Gunter Nimtz and Alfons Stahlhofen
+
+of the University of Koblenz, Germany claimed that they
+
+had propelled microwave photons faster than the speed of
+
+light. This would be the direct violation of a key content of
+
+Einstein's special theory of relativity that states that nothing
+
 under any circumstance can exceed the speed of light.
 
 </details>
 
-**Q5. (U.P.P.C.S. (Pre) 1997)** Cyclotrons are used to accelerate :
-(a) Neutrons (b) Protons
+**Q5. (U.P.P.C.S. (Pre) 1997)** Cyclotrons are used to accelerate :
+
+(a) Neutrons (b) Protons
+
 (c) Atoms (d) Ions
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `Ans. (b)`
-- **Exam Lock & Core Concepts:**
-  Cyclotron is a machine used to accelerate charged particle
-such as alpha particles, deuteron, proton etc. up to a very
+- **Logic:**
+  Cyclotron is a machine used to accelerate charged particle
+
+such as alpha particles, deuteron, proton etc. up to a very
+
 high speed.
 
 </details>
 
-**Q6. (U.P.P.C.S. (Pre) 2009)** Which one of the following is the source of renewable
-energy in stars?
-(a) Hydrogen changes into helium
-(b) Helium changes into hydrogen
-(c) Decay of radioactive material
-(d) Excess of oxygen which is helpful in burning and
+**Q6. (U.P.P.C.S. (Pre) 2009)** Which one of the following is the source of renewable
+
+energy in stars?
+
+(a) Hydrogen changes into helium
+
+(b) Helium changes into hydrogen
+
+(c) Decay of radioactive material
+
+(d) Excess of oxygen which is helpful in burning and
+
 generate energy.
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `Ans. (a)`
-- **Exam Lock & Core Concepts:**
+- **Logic:**
   See the explanation of above question.
 
 </details>
 
-**Q7. (U.P.P.C.S. (Pre) 1992)** What is a Nuclear Reactor?
-(a) Place where atomic bomb is built
-(b) Heavy water pond
-(c) The emitter of U238
+**Q7. (U.P.P.C.S. (Pre) 1992)** What is a Nuclear Reactor?
+
+(a) Place where atomic bomb is built
+
+(b) Heavy water pond
+
+(c) The emitter of U238
+
 (d) Molecular furnace
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `Ans. (d)`
-- **Exam Lock & Core Concepts:**
+- **Logic:**
   See the explanation of above question.
 
 </details>
 
-**Q8. (U.P. R.O./A.R.O. (Pre) 2016)** Consider the following statements about nuclear fusion
-reactors :
-i. They work on the principle of fission of heavy nuclei.
-ii. They usually have Tokamak design.
-iii. They operate at very high temperature.
-Of these
-(a) Only i and iii are correct
-(b) Only i and ii are correct
-(c) Only ii and iii are correct
+**Q8. (U.P. R.O./A.R.O. (Pre) 2016)** Consider the following statements about nuclear fusion
+
+reactors :
+
+i. They work on the principle of fission of heavy nuclei.
+
+ii. They usually have Tokamak design.
+
+iii. They operate at very high temperature.
+
+Of these
+
+(a) Only i and iii are correct
+
+(b) Only i and ii are correct
+
+(c) Only ii and iii are correct
+
 (d) All the three i, ii and iii are correct
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `Ans. (c)`
-- **Exam Lock & Core Concepts:**
-  Nuclear fusion reactors work on the principle of fusion of
-two light nuclei. So, statement (i) is incorrect. Nuclear fusion
-reactions are also called ‘Thermonuclear reactions’ because
-they operate at very high temperature. Usually, nuclear fusion
+- **Logic:**
+  Nuclear fusion reactors work on the principle of fusion of
+
+two light nuclei. So, statement (i) is incorrect. Nuclear fusion
+
+reactions are also called ‘Thermonuclear reactions’ because
+
+they operate at very high temperature. Usually, nuclear fusion
+
 reactors have Tokamak design.
 
 </details>
 
-**Q9. (U.P.P.C.S. (Pre) 1999 / I.A.S. (Pre) 1995)** The difference between nuclear reactor and atom bomb
-is that :
-(a) There is no chain reaction in nuclear reactor whereas
-this happens in atom bomb.
-(b) The chain reaction in nuclear reactor is controlled.
-(c) The chain reaction in nuclear reactor is not controlled.
-(d) Atom bomb is based on nuclear fusion whereas in
+**Q9. (U.P.P.C.S. (Pre) 1999 / I.A.S. (Pre) 1995)** The difference between nuclear reactor and atom bomb
+
+is that :
+
+(a) There is no chain reaction in nuclear reactor whereas
+
+this happens in atom bomb.
+
+(b) The chain reaction in nuclear reactor is controlled.
+
+(c) The chain reaction in nuclear reactor is not controlled.
+
+(d) Atom bomb is based on nuclear fusion whereas in
+
 nuclear reactor, nuclear fission occurs.
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `Ans. (b)`
-- **Exam Lock & Core Concepts:**
-  The chain reaction process used in nuclear reactors and atom
-bombs both release vast amount of energy, but the manner
-in which the energy is controlled and utilized is different in
-both the cases. In nuclear reactors, the reaction is moderated
-and controlled for peaceful purpose, while in nuclear bombs
+- **Logic:**
+  The chain reaction process used in nuclear reactors and atom
+
+bombs both release vast amount of energy, but the manner
+
+in which the energy is controlled and utilized is different in
+
+both the cases. In nuclear reactors, the reaction is moderated
+
+and controlled for peaceful purpose, while in nuclear bombs
+
 the reaction is uncontrolled.
 
 </details>
 
-**Q10. (U.P. Lower Sub. (Pre) 2003 / R.A.S./R.T.S. (Pre) 1992)** The important nuclear fuel available in India in
-abundance is :
-(a) Uranium (b) Thorium
+**Q10. (U.P. Lower Sub. (Pre) 2003 / R.A.S./R.T.S. (Pre) 1992)** The important nuclear fuel available in India in
+
+abundance is :
+
+(a) Uranium (b) Thorium
+
 (c) Iridium (d) Plutonium
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `Ans. (b)`
-- **Exam Lock & Core Concepts:**
-  India is one country that has an abundance of an important
-nuclear fuel thorium. According to the Department of Atomic
-Energy (DAE), the resource estimates of monazite (principal
+- **Logic:**
+  India is one country that has an abundance of an important
+
+nuclear fuel thorium. According to the Department of Atomic
+
+Energy (DAE), the resource estimates of monazite (principal
+
 source of thorium in India) are at 13.15 million tonnes.
 
 </details>
 
-**Q11. (U.P.P.C.S. (Mains) 2014)** Which one of the following can not be used as a nuclear
-fuel?
-(a) Uranium (b) Thorium
+**Q11. (U.P.P.C.S. (Mains) 2014)** Which one of the following can not be used as a nuclear
+
+fuel?
+
+(a) Uranium (b) Thorium
+
 (c) Calcium (d) Plutonium
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `Ans. (c)`
-- **Exam Lock & Core Concepts:**
-  The most common fissile nuclear fuels are uranium-235 and
-plutonium-239. Thorium is more abundant in nature than
-uranium. Thorium can be used as a nuclear fuel through
-breeding to uranium-233 (U-233). Calcium is not used as
+- **Logic:**
+  The most common fissile nuclear fuels are uranium-235 and
+
+plutonium-239. Thorium is more abundant in nature than
+
+uranium. Thorium can be used as a nuclear fuel through
+
+breeding to uranium-233 (U-233). Calcium is not used as
+
 a nuclear fuel.
 
 </details>
 
-**Q12. (U.P.P.C.S. (Pre) 1994)** The working principle of atom bomb is nuclear fission
-of uranium and the working principle of hydrogen
-bomb is –
-(a) nuclear fusion of deuterium.
-(b) nuclear fission of thorium.
-(c) explosion of bomb involving hydrogen gas
+**Q12. (U.P.P.C.S. (Pre) 1994)** The working principle of atom bomb is nuclear fission
+
+of uranium and the working principle of hydrogen
+
+bomb is –
+
+(a) nuclear fusion of deuterium.
+
+(b) nuclear fission of thorium.
+
+(c) explosion of bomb involving hydrogen gas
+
 (d) explosion involving dynamite and T.N.T.
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `Ans. (a)`
-- **Exam Lock & Core Concepts:**
-  Hydrogen bomb's enormous explosive power results from
-an uncontrolled, self-sustaining chain reaction in which
-isotopes of hydrogen (deuterium and tritium) combined under
-extremely high temperature and pressure to form helium in
+- **Logic:**
+  Hydrogen bomb's enormous explosive power results from
+
+an uncontrolled, self-sustaining chain reaction in which
+
+isotopes of hydrogen (deuterium and tritium) combined under
+
+extremely high temperature and pressure to form helium in
+
 a process known as nuclear fusion.
 
 </details>
 
-**Q13. (U.P.P.C.S (Pre) 2010 / 67th B.P.S.C. (Pre) 2022)** Hydrogen bomb is based on the principle of –
-(a) Controlled fusion reaction
-(b) Uncontrolled fusion reaction
-(c) Controlled fission reaction
+**Q13. (U.P.P.C.S (Pre) 2010 / 67th B.P.S.C. (Pre) 2022)** Hydrogen bomb is based on the principle of –
+
+(a) Controlled fusion reaction
+
+(b) Uncontrolled fusion reaction
+
+(c) Controlled fission reaction
+
 (d) Uncontrolled fission reaction
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `Ans. (b)`
-- **Exam Lock & Core Concepts:**
+- **Logic:**
   See the explanation of above question.
 
 </details>
 
-**Q14. (U.P.P.C.S. (Mains) 2015)** Hydrogen bomb was developed by :
-(a) Edward Teller (b) Bernor Bon Bron
+**Q14. (U.P.P.C.S. (Mains) 2015)** Hydrogen bomb was developed by :
+
+(a) Edward Teller (b) Bernor Bon Bron
+
 (c) J.Robert Oppenheimer (d) Samual Cohen
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `Ans. (a)`
-- **Exam Lock & Core Concepts:**
-  Edward Teller, one of the most famous scientists of 20th
-century was known as “father of hydrogen bomb”. He was
-born in January, 1908 in Hungary. In November, 1952 the
-United States conducted its first nuclear test of a fusion bomb
+- **Logic:**
+  Edward Teller, one of the most famous scientists of 20th
+
+century was known as “father of hydrogen bomb”. He was
+
+born in January, 1908 in Hungary. In November, 1952 the
+
+United States conducted its first nuclear test of a fusion bomb
+
 or 'hydrogen bomb' at Eniwetok in Marshall Island.
 
 </details>
@@ -473,10 +592,10 @@ or 'hydrogen bomb' at Eniwetok in Marshall Island.
 - (D) Panki
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `(B) Narora`
-- **Exam Lock & Core Concepts:**
+- **Logic:**
   
 
 </details>
@@ -488,10 +607,10 @@ or 'hydrogen bomb' at Eniwetok in Marshall Island.
 - (D) Control rod
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `(C) Moderator`
-- **Exam Lock & Core Concepts:**
+- **Logic:**
   
 
 </details>
@@ -503,10 +622,10 @@ or 'hydrogen bomb' at Eniwetok in Marshall Island.
 - (D) Ernest Rutherford
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `(C) Henri Becquerel`
-- **Exam Lock & Core Concepts:**
+- **Logic:**
   
 
 </details>
@@ -518,10 +637,10 @@ or 'hydrogen bomb' at Eniwetok in Marshall Island.
 - (D) Lead
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `(A) Cadmium or Boron`
-- **Exam Lock & Core Concepts:**
+- **Logic:**
   
 
 </details>
@@ -533,10 +652,10 @@ or 'hydrogen bomb' at Eniwetok in Marshall Island.
 - (D) Combustion of hydrogen gas
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `(B) Nuclear fusion`
-- **Exam Lock & Core Concepts:**
+- **Logic:**
   
 
 </details>
@@ -548,25 +667,25 @@ or 'hydrogen bomb' at Eniwetok in Marshall Island.
 - (D) Sodium-24
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `(B) Iodine-131`
-- **Exam Lock & Core Concepts:**
+- **Logic:**
   
 
 </details>
 
 **Q21. (UPPCS Pre 2016)** Which of the following nuclear radiations has the highest penetrating power?
-- (A) Alpha ($lpha$) rays
-- (B) Beta ($eta$) rays
+- (A) Alpha ($\alpha$) rays
+- (B) Beta ($\beta$) rays
 - (C) Gamma ($\gamma$) rays
 - (D) X-rays
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `(C) Gamma ($\gamma$) rays`
-- **Exam Lock & Core Concepts:**
+- **Logic:**
   
 
 </details>
@@ -578,10 +697,10 @@ or 'hydrogen bomb' at Eniwetok in Marshall Island.
 - (D) Niels Bohr
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `(C) James Chadwick`
-- **Exam Lock & Core Concepts:**
+- **Logic:**
   
 
 </details>
@@ -593,10 +712,10 @@ or 'hydrogen bomb' at Eniwetok in Marshall Island.
 - (D) Strontium Dating
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `(B) Carbon-14 Dating`
-- **Exam Lock & Core Concepts:**
+- **Logic:**
   
 
 </details>
@@ -608,25 +727,25 @@ or 'hydrogen bomb' at Eniwetok in Marshall Island.
 - (D) Trombay
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `(C) Kalpakkam`
-- **Exam Lock & Core Concepts:**
+- **Logic:**
   
 
 </details>
 
 **Q25. (UPPCS Pre 2012)** What is the half-life of Carbon-14?
-- (A) $1600	ext{ years}$
-- (B) $5730	ext{ years}$
-- (C) $10,000	ext{ years}$
-- (D) $4.5	ext{ billion years}$
+- (A) $1600\text{ years}$
+- (B) $5730\text{ years}$
+- (C) $10,000\text{ years}$
+- (D) $4.5\text{ billion years}$
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
-- **Correct Answer:** `(B) $5730	ext{ years}$`
-- **Exam Lock & Core Concepts:**
+- **Correct Answer:** `(B) $5730\text{ years}$`
+- **Logic:**
   
 
 </details>
@@ -638,10 +757,10 @@ or 'hydrogen bomb' at Eniwetok in Marshall Island.
 - (D) Deuterium
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `(B) Uranium-235`
-- **Exam Lock & Core Concepts:**
+- **Logic:**
   
 
 </details>
@@ -653,10 +772,10 @@ or 'hydrogen bomb' at Eniwetok in Marshall Island.
 - (D) X-rays
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `(C) Gamma rays`
-- **Exam Lock & Core Concepts:**
+- **Logic:**
   
 
 </details>
@@ -668,10 +787,10 @@ or 'hydrogen bomb' at Eniwetok in Marshall Island.
 - (D) Helium-4
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `(C) Iron-56`
-- **Exam Lock & Core Concepts:**
+- **Logic:**
   
 
 </details>
@@ -683,10 +802,10 @@ or 'hydrogen bomb' at Eniwetok in Marshall Island.
 - (D) Platinum
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `(B) Thorium`
-- **Exam Lock & Core Concepts:**
+- **Logic:**
   
 
 </details>
@@ -698,10 +817,10 @@ or 'hydrogen bomb' at Eniwetok in Marshall Island.
 - (D) Neutron
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `(B) Doubly ionized Helium nucleus`
-- **Exam Lock & Core Concepts:**
+- **Logic:**
   
 
 </details>
@@ -713,10 +832,10 @@ or 'hydrogen bomb' at Eniwetok in Marshall Island.
 - (D) Roentgen
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `(C) Becquerel`
-- **Exam Lock & Core Concepts:**
+- **Logic:**
   
 
 </details>
@@ -728,10 +847,10 @@ or 'hydrogen bomb' at Eniwetok in Marshall Island.
 - (D) Canada
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `(B) Russia`
-- **Exam Lock & Core Concepts:**
+- **Logic:**
   
 
 </details>
@@ -743,10 +862,10 @@ or 'hydrogen bomb' at Eniwetok in Marshall Island.
 - (D) Uncontrolled nuclear fusion
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `(D) Uncontrolled nuclear fusion`
-- **Exam Lock & Core Concepts:**
+- **Logic:**
   
 
 </details>
@@ -758,10 +877,10 @@ or 'hydrogen bomb' at Eniwetok in Marshall Island.
 - (D) Dr. Homi Bhabha
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `(A) Harold Urey`
-- **Exam Lock & Core Concepts:**
+- **Logic:**
   
 
 </details>
@@ -771,53 +890,71 @@ or 'hydrogen bomb' at Eniwetok in Marshall Island.
 
 ## Complete PYQ Bank — UKPCS
 
-**Q1. (Uttarakhand P.C.S. (Pre) 2006)** The stars receive their energy from which of the
-following?
-(a) Nuclear fusion (b) Nuclear fission
+**Q1. (Uttarakhand P.C.S. (Pre) 2006)** The stars receive their energy from which of the
+
+following?
+
+(a) Nuclear fusion (b) Nuclear fission
+
 (c) Chemical reaction (d) Gravitational pull
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `Ans. (a)`
-- **Exam Lock & Core Concepts:**
+- **Logic:**
   See the explanation of above question.
 
 </details>
 
-**Q2. (Uttarakhand P.C.S. (Pre) 2016)** Which statement is not associated with nuclear fission:
-(a) Neutron-induced nuclear reaction.
-(b) Energy generation in stars.
-(c) Source of energy in nuclear reactor that produces
-electricity.
+**Q2. (Uttarakhand P.C.S. (Pre) 2016)** Which statement is not associated with nuclear fission:
+
+(a) Neutron-induced nuclear reaction.
+
+(b) Energy generation in stars.
+
+(c) Source of energy in nuclear reactor that produces
+
+electricity.
+
 (d) Enormous energy is released in an atom bomb.
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `Ans. (b)`
-- **Exam Lock & Core Concepts:**
-  Nuclear fission is a type of reaction in which a heavy atomic
-nucleus splits into fragments of roughly equal mass releasing
-huge amount of energy. In contrast, nuclear fusion occurs
-when two or more smaller atoms fuse together to form a heavier
-atom releasing large amount of energy. Neutron induced
-nuclear reaction, nuclear reactors producing electricity and
-atom bomb are based on the nuclear fission reactions whereas
+- **Logic:**
+  Nuclear fission is a type of reaction in which a heavy atomic
+
+nucleus splits into fragments of roughly equal mass releasing
+
+huge amount of energy. In contrast, nuclear fusion occurs
+
+when two or more smaller atoms fuse together to form a heavier
+
+atom releasing large amount of energy. Neutron induced
+
+nuclear reaction, nuclear reactors producing electricity and
+
+atom bomb are based on the nuclear fission reactions whereas
+
 energy generation in stars is due to nuclear fusion.
 
 </details>
 
-**Q3. (Uttarakhand P.C.S. (Pre) 2006)** Radioactive element which has been found to have
-large reserves in India is :
-(a) Plutonium (b) Radium
+**Q3. (Uttarakhand P.C.S. (Pre) 2006)** Radioactive element which has been found to have
+
+large reserves in India is :
+
+(a) Plutonium (b) Radium
+
 (c) Thorium (d) Uranium
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `Ans. (c)`
-- **Exam Lock & Core Concepts:**
+- **Logic:**
   See the explanation of above question.
 
 </details>
@@ -829,10 +966,10 @@ large reserves in India is :
 - (D) Photon
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `(D) Photon`
-- **Exam Lock & Core Concepts:**
+- **Logic:**
   
 
 </details>
@@ -844,10 +981,10 @@ large reserves in India is :
 - (D) Uranium
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `(C) Heavy Water`
-- **Exam Lock & Core Concepts:**
+- **Logic:**
   
 
 </details>
@@ -859,10 +996,10 @@ large reserves in India is :
 - (D) Operation Meghdoot
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `(B) Operation Smiling Buddha`
-- **Exam Lock & Core Concepts:**
+- **Logic:**
   
 
 </details>
@@ -874,10 +1011,10 @@ large reserves in India is :
 - (D) Total number of electrons and protons
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `(C) Total number of protons and neutrons in the nucleus`
-- **Exam Lock & Core Concepts:**
+- **Logic:**
   
 
 </details>
@@ -887,43 +1024,62 @@ large reserves in India is :
 
 ## Complete PYQ Bank — BPSC, IAS & Other State PCS (Ghatnachakra Focus)
 
-**Q1. (I.A.S. (Pre) 1995)** Which one of the following can be used to confirm
-whether drinking water contains a gamma emitting
-isotope or not?
-(a) Microscope (b) Lead plate
+**Q1. (I.A.S. (Pre) 1995)** Which one of the following can be used to confirm
+
+whether drinking water contains a gamma emitting
+
+isotope or not?
+
+(a) Microscope (b) Lead plate
+
 (c) Scintillation counter (d) Spectrophotometer
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `Ans. (c)`
-- **Exam Lock & Core Concepts:**
-  Scintillation counter is an instrument for detecting and
-measuring ionizing radiation by using the excitation effect
-of incident radiation on a scintillator material, and detecting
-the resultant light pulses. Hence, scintillation counter can
-be used for detecting gamma emitting isotopes in drinking
+- **Logic:**
+  Scintillation counter is an instrument for detecting and
+
+measuring ionizing radiation by using the excitation effect
+
+of incident radiation on a scintillator material, and detecting
+
+the resultant light pulses. Hence, scintillation counter can
+
+be used for detecting gamma emitting isotopes in drinking
+
 water.
 
 </details>
 
-**Q2. (42nd B.P.S.C. (Pre) 1997 / R.A.S./R.T.S. (Pre) 1993)** The energy of Sun is released due to :
-(a) Nuclear Fission
-(b) Nuclear Fusion
-(c) Oxidation Reactions
+**Q2. (42nd B.P.S.C. (Pre) 1997 / R.A.S./R.T.S. (Pre) 1993)** The energy of Sun is released due to :
+
+(a) Nuclear Fission
+
+(b) Nuclear Fusion
+
+(c) Oxidation Reactions
+
 (d) Reduction Reactions
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `Ans. (b)`
-- **Exam Lock & Core Concepts:**
-  The Sun produces energy by the nuclear fusion in its core.
-Since there is a huge amount of hydrogen in the core, these
-atoms stick together and fuse into a helium atom. This energy
-is then radiated out from the core and moves across the solar
-system. This is the main source of energy for the Sun and
-stars. Besides that the gravitational contraction in stars is also
+- **Logic:**
+  The Sun produces energy by the nuclear fusion in its core.
+
+Since there is a huge amount of hydrogen in the core, these
+
+atoms stick together and fuse into a helium atom. This energy
+
+is then radiated out from the core and moves across the solar
+
+system. This is the main source of energy for the Sun and
+
+stars. Besides that the gravitational contraction in stars is also
+
 the source of their energy.
 
 </details>
@@ -931,37 +1087,42 @@ the source of their energy.
 **Q3. (Civil Services Examination)** Stars obtain their energy from :
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `Ans. (*)`
-- **Exam Lock & Core Concepts:**
+- **Logic:**
   Refer to the high-yield notes above.
 
 </details>
 
-**Q4. (Uttrakhand U.D.A./L.D.A. (Mains) 2006)** Source of Energy from the Sun is :
-(a) Nuclear fission (b) Nuclear fusion
+**Q4. (Uttrakhand U.D.A./L.D.A. (Mains) 2006)** Source of Energy from the Sun is :
+
+(a) Nuclear fission (b) Nuclear fusion
+
 (c) Photoelectric effect (d) Cherenkov effect
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `Ans. (b)`
-- **Exam Lock & Core Concepts:**
-  See the explanation of the above question.
+- **Logic:**
+  See the explanation of the above question.
+
 G–147 General Studies General Science
 
 </details>
 
-**Q5. (Civil Services Examination)** Consider the following statements :
-In a nuclear reactor, self-sustained chain reaction is
+**Q5. (Civil Services Examination)** Consider the following statements :
+
+In a nuclear reactor, self-sustained chain reaction is
+
 possible, because :
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `Ans. (*)`
-- **Exam Lock & Core Concepts:**
+- **Logic:**
   Refer to the high-yield notes above.
 
 </details>
@@ -969,202 +1130,281 @@ possible, because :
 **Q6. (Civil Services Examination)** With reference to the radioactivity, which of the following statements is/are correct ?
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `Ans. (*)`
-- **Exam Lock & Core Concepts:**
+- **Logic:**
   Refer to the high-yield notes above.
 
 </details>
 
-**Q7. (Civil Services Examination)** With reference to India, consider the following
+**Q7. (Civil Services Examination)** With reference to India, consider the following
+
 statements :
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `Ans. (*)`
-- **Exam Lock & Core Concepts:**
+- **Logic:**
   Refer to the high-yield notes above.
 
 </details>
 
-**Q8. (Civil Services Examination)** To meet its rapidly growing energy demand some opine
-that India should pursue research and development
-on thorium as the future fuel of nuclear energy. In
-this context, what advantage does thorium hold over
+**Q8. (Civil Services Examination)** To meet its rapidly growing energy demand some opine
+
+that India should pursue research and development
+
+on thorium as the future fuel of nuclear energy. In
+
+this context, what advantage does thorium hold over
+
 uranium?
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `Ans. (*)`
-- **Exam Lock & Core Concepts:**
+- **Logic:**
   Refer to the high-yield notes above.
 
 </details>
 
-**Q9. (I.A.S. (Pre) 2023)** Consider the following statements :
-Statement-I : India, despite having uranium deposits,
-depends on coal for most of its electricity production.
-Statement-II : Uranium, enriched to the extent of at
-least 60%, is required for the production of electricity.
-Which one of the following is correct in respect of the
-above statements?
-(a) Both Statement-I and Statement-II are correct and
-Statement-II is the correct explanation for Statement-I
- (b) Both Statement-I and Statement-II are correct
-and Statement-II is not the correct explanation for
-Statement-I
-(c) Statement-I is correct but Statement-II is incorrect
+**Q9. (I.A.S. (Pre) 2023)** Consider the following statements :
+
+Statement-I : India, despite having uranium deposits,
+
+depends on coal for most of its electricity production.
+
+Statement-II : Uranium, enriched to the extent of at
+
+least 60%, is required for the production of electricity.
+
+Which one of the following is correct in respect of the
+
+above statements?
+
+(a) Both Statement-I and Statement-II are correct and
+
+Statement-II is the correct explanation for Statement-I
+
+ (b) Both Statement-I and Statement-II are correct
+
+and Statement-II is not the correct explanation for
+
+Statement-I
+
+(c) Statement-I is correct but Statement-II is incorrect
+
  (d) Statement-I is incorrect but Statement-II is correct
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `Ans. (c)`
-- **Exam Lock & Core Concepts:**
-  Across the country, the Atomic Minerals Directorate for
-Exploration and Research (AMD), a constituent unit of the
-Department of Atomic Energy (DAE), has established a
-total of about 4,36,700 tonnes in situ U3
-O8
- (under indicated
-and inferred categories) in 47 uranium deposits in Andhra
-Pradesh, Telangana, Jharkhand, Meghalaya, Rajasthan,
-Karnataka, Chhattisgarh, Uttar Pradesh, Uttarakhand,
-Himachal Pradesh and Maharashtra, as of December, 2025.
-However, in India major production of electricity is achieved
-through coal and lignite based thermal power plants, which is
-43.5% of the total installed power generation capacity, as per
-the data of February-end, 2026. Hence, Statement-I is correct.
-Uranium enriched to concentrations above 0.7% but less
-than 20% uranium-235 is defined as low enriched uranium
-(LEU). Most civil and commercial nuclear reactors use
-LEU that is about 3-5% uranium-235 for the production of
-electricity. Uranium enriched to more than 20% uranium-235
-is defined as highly enriched uranium (HEU), which can be
-used in nuclear weapons. All HEU is weapons-usable, but
-the lower the enrichment level the greater the amount of
-material required to achieve a critical mass – the amount
-of material required to build a bomb. States with nuclear
-weapons typically use so-called weapons-grade HEU, which
-is typically defined as 90% HEU or above, to minimize
+- **Logic:**
+  Across the country, the Atomic Minerals Directorate for
+
+Exploration and Research (AMD), a constituent unit of the
+
+Department of Atomic Energy (DAE), has established a
+
+total of about 4,36,700 tonnes in situ U3
+
+O8
+
+ (under indicated
+
+and inferred categories) in 47 uranium deposits in Andhra
+
+Pradesh, Telangana, Jharkhand, Meghalaya, Rajasthan,
+
+Karnataka, Chhattisgarh, Uttar Pradesh, Uttarakhand,
+
+Himachal Pradesh and Maharashtra, as of December, 2025.
+
+However, in India major production of electricity is achieved
+
+through coal and lignite based thermal power plants, which is
+
+43.5% of the total installed power generation capacity, as per
+
+the data of February-end, 2026. Hence, Statement-I is correct.
+
+Uranium enriched to concentrations above 0.7% but less
+
+than 20% uranium-235 is defined as low enriched uranium
+
+(LEU). Most civil and commercial nuclear reactors use
+
+LEU that is about 3-5% uranium-235 for the production of
+
+electricity. Uranium enriched to more than 20% uranium-235
+
+is defined as highly enriched uranium (HEU), which can be
+
+used in nuclear weapons. All HEU is weapons-usable, but
+
+the lower the enrichment level the greater the amount of
+
+material required to achieve a critical mass – the amount
+
+of material required to build a bomb. States with nuclear
+
+weapons typically use so-called weapons-grade HEU, which
+
+is typically defined as 90% HEU or above, to minimize
+
 weapons' size. Hence, Statement-II is incorrect.
 
 </details>
 
-**Q10. (R.A.S./R.T.S. (Pre) 1993)** Which of the following element is not included as a
-nuclear fuel–
-(a) Cadmium (b) Thorium
+**Q10. (R.A.S./R.T.S. (Pre) 1993)** Which of the following element is not included as a
+
+nuclear fuel–
+
+(a) Cadmium (b) Thorium
+
 (c) Plutonium (d) Uranium
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `Ans. (a)`
-- **Exam Lock & Core Concepts:**
-  Thorium, plutonium and uranium are radioactive elements
-which are used as a nuclear fuel. Cadmium is not a radioactive
-element. Cadmium rods are used as a neutron absorber in
+- **Logic:**
+  Thorium, plutonium and uranium are radioactive elements
+
+which are used as a nuclear fuel. Cadmium is not a radioactive
+
+element. Cadmium rods are used as a neutron absorber in
+
 nuclear reactor control rods and shields.
 
 </details>
 
-**Q11. (Chhattisgarh P.C.S. (Pre) 2003)** Identify the mineral not associated with atomic power –
-(a) Monazite (b) Thorium
+**Q11. (Chhattisgarh P.C.S. (Pre) 2003)** Identify the mineral not associated with atomic power –
+
+(a) Monazite (b) Thorium
+
 (c) Beryllium (d) Chromium
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `Ans. (d)`
-- **Exam Lock & Core Concepts:**
-  Chromium is not associated with atomic power. Monazite is
-a primary ore of thorium which can be used as nuclear fuel.
+- **Logic:**
+  Chromium is not associated with atomic power. Monazite is
+
+a primary ore of thorium which can be used as nuclear fuel.
+
 Beryllium oxide is used as moderator in nuclear reactor.
 
 </details>
 
-**Q12. (M.P.P.C.S. (Pre) 1997)** Which of the following is not a fuel element?
-(a) Uranium (b) Thorium
+**Q12. (M.P.P.C.S. (Pre) 1997)** Which of the following is not a fuel element?
+
+(a) Uranium (b) Thorium
+
 (c) Radium (d) Helium
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `Ans. (d)`
-- **Exam Lock & Core Concepts:**
-  All the radioactive elements can be used as the nuclear fuel.
-Helium is an inert gas. It does not form compounds or react
+- **Logic:**
+  All the radioactive elements can be used as the nuclear fuel.
+
+Helium is an inert gas. It does not form compounds or react
+
 with any other element.
 
 </details>
 
-**Q13. (Chhattisgarh P.C.S. (Pre) 2014)** Which is not used as Atomic fuel?
-(a) Uranium (b) Thorium
-(c) Plutonium (d) Lead
+**Q13. (Chhattisgarh P.C.S. (Pre) 2014)** Which is not used as Atomic fuel?
+
+(a) Uranium (b) Thorium
+
+(c) Plutonium (d) Lead
+
 (e) None of these
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `Ans. (d)`
-- **Exam Lock & Core Concepts:**
+- **Logic:**
   See the explanation of above question.
 
 </details>
 
-**Q14. (39th B.P.S.C. (Pre) 1994)** The principle of atomic bomb is based on –
-(a) Nuclear fusion (b) Nuclear Fission
+**Q14. (39th B.P.S.C. (Pre) 1994)** The principle of atomic bomb is based on –
+
+(a) Nuclear fusion (b) Nuclear Fission
+
 (c) Above both (d) Above none
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `Ans. (b)`
-- **Exam Lock & Core Concepts:**
-  Nuclear weapon, a device designed to release energy in an
-explosive manner which is result of nuclear fission, nuclear
-fusion or a combination of the both processes. The principle
-of atomic bomb is based on nuclear fission while fusion
-weapons are referred as thermonuclear bombs or hydrogen
-bomb. Enriched uranium or plutonium is used as fissile
+- **Logic:**
+  Nuclear weapon, a device designed to release energy in an
+
+explosive manner which is result of nuclear fission, nuclear
+
+fusion or a combination of the both processes. The principle
+
+of atomic bomb is based on nuclear fission while fusion
+
+weapons are referred as thermonuclear bombs or hydrogen
+
+bomb. Enriched uranium or plutonium is used as fissile
+
 material in atomic bomb.
 
 </details>
 
-**Q15. (M.P.P.C.S. (Pre) 2014)** Which of the following is used in the preparation of
-Nuclear bombs ?
-(a) Zirconium (b) Uranium
+**Q15. (M.P.P.C.S. (Pre) 2014)** Which of the following is used in the preparation of
+
+Nuclear bombs ?
+
+(a) Zirconium (b) Uranium
+
 (c) Molybdenum (d) Vanadium
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `Ans. (b)`
-- **Exam Lock & Core Concepts:**
+- **Logic:**
   See the explanation of above question.
 
 </details>
 
-**Q16. (Civil Services Examination)** Enriched Uranium is –
-(a) Uranium sticks laid in particular shell.
-(b) Natural uranium in which radioactive U235 isotope is
-increased artificially.
-(c) mixture of natural uranium and thorium.
-(d) chromium coated uranium sticks.
-U.P.P.C.S. (Pre) 2009
+**Q16. (Civil Services Examination)** Enriched Uranium is –
+
+(a) Uranium sticks laid in particular shell.
+
+(b) Natural uranium in which radioactive U235 isotope is
+
+increased artificially.
+
+(c) mixture of natural uranium and thorium.
+
+(d) chromium coated uranium sticks.
+
+U.P.P.C.S. (Pre) 2009
+
 67th B.P.S.C. (Pr
 <truncated 43370 bytes>
 
 NOTE: The output was truncated because it was too long. Use a more targeted query or a smaller range to get the information you need.
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `Ans. (*)`
-- **Exam Lock & Core Concepts:**
+- **Logic:**
   Refer to the high-yield notes above.
 
 </details>
@@ -1181,10 +1421,10 @@ Which of the statements given above are correct?
 - (D) 1, 2 and 3
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `(D) 1, 2 and 3`
-- **Exam Lock & Core Concepts:**
+- **Logic:**
   
 
 </details>
@@ -1196,25 +1436,25 @@ Which of the statements given above are correct?
 - (D) Thorium alone
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `(C) Mixed Oxide (MOX) fuel of Plutonium and Uranium`
-- **Exam Lock & Core Concepts:**
+- **Logic:**
   
 
 </details>
 
-**Q19. (RAS/RTS Pre 2021)** During radioactive Beta-minus ($eta^-$) decay, which change occurs in the nucleus?
+**Q19. (RAS/RTS Pre 2021)** During radioactive Beta-minus ($\beta^-$) decay, which change occurs in the nucleus?
 - (A) Atomic number increases by 1, mass number remains unchanged
 - (B) Atomic number decreases by 2, mass number decreases by 4
 - (C) Mass number increases by 1, atomic number remains unchanged
 - (D) Both atomic number and mass number remain unchanged
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `(A) Atomic number increases by 1, mass number remains unchanged`
-- **Exam Lock & Core Concepts:**
+- **Logic:**
   
 
 </details>
@@ -1226,10 +1466,10 @@ Which of the statements given above are correct?
 - (D) Treat bone fractures
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `(B) Track blood circulation and identify vascular clots`
-- **Exam Lock & Core Concepts:**
+- **Logic:**
   
 
 </details>
@@ -1241,10 +1481,10 @@ Which of the statements given above are correct?
 - (D) Rawatbhata
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `(C) Kaiga`
-- **Exam Lock & Core Concepts:**
+- **Logic:**
   
 
 </details>
@@ -1256,10 +1496,10 @@ Which of the statements given above are correct?
 - (D) An atomic bomb requires a moderator
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `(B) The chain reaction in a nuclear reactor is controlled, whereas in an atomic bomb it is uncontrolled`
-- **Exam Lock & Core Concepts:**
+- **Logic:**
   
 
 </details>
@@ -1271,10 +1511,10 @@ Which of the statements given above are correct?
 - (D) Becquerel
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `(C) Sievert`
-- **Exam Lock & Core Concepts:**
+- **Logic:**
   
 
 </details>
@@ -1286,10 +1526,10 @@ Which of the statements given above are correct?
 - (D) Karnataka
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `(B) Gujarat`
-- **Exam Lock & Core Concepts:**
+- **Logic:**
   
 
 </details>
@@ -1301,10 +1541,10 @@ Which of the statements given above are correct?
 - (D) Water absorbs too many alpha rays
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `(A) Water moderates (slows down) fast neutrons, which would destroy the fast fission process`
-- **Exam Lock & Core Concepts:**
+- **Logic:**
   
 
 </details>
@@ -1316,10 +1556,10 @@ Which of the statements given above are correct?
 - (D) $1/16$
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** `(C) $1/8$`
-- **Exam Lock & Core Concepts:**
+- **Logic:**
   
 
 </details>
@@ -1336,10 +1576,10 @@ Which of the statements given above are correct?
 - (D) Graphite
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** (C) Cadmium
-- **Exam Lock:** Cadmium absorbs neutrons and is used exclusively for **control rods**, not as a moderator. Light water, heavy water, and graphite are moderators that slow down neutrons without absorbing them.
+- **Logic:** Cadmium absorbs neutrons and is used exclusively for **control rods**, not as a moderator. Light water, heavy water, and graphite are moderators that slow down neutrons without absorbing them.
 </details>
 
 **Q2.** The Prototype Fast Breeder Reactor (PFBR) with a capacity of $500\text{ MWe}$ in India is situated at:
@@ -1349,10 +1589,10 @@ Which of the statements given above are correct?
 - (D) Kaiga, Karnataka
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** (C) Kalpakkam, Tamil Nadu
-- **Exam Lock:** The $500\text{ MWe}$ PFBR is located at Kalpakkam, Tamil Nadu, forming Stage 2 of India's Three-Stage Nuclear Power Programme.
+- **Logic:** The $500\text{ MWe}$ PFBR is located at Kalpakkam, Tamil Nadu, forming Stage 2 of India's Three-Stage Nuclear Power Programme.
 </details>
 
 **Q3.** An instrument used to detect the presence of gamma-emitting radioactive isotopes in drinking water is:
@@ -1362,10 +1602,10 @@ Which of the statements given above are correct?
 - (D) Barometer
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** (B) Scintillation Counter
-- **Exam Lock:** Scintillation counters detect ionizing radiation by measuring the light flashes produced in scintillator crystals upon gamma-ray absorption.
+- **Logic:** Scintillation counters detect ionizing radiation by measuring the light flashes produced in scintillator crystals upon gamma-ray absorption.
 </details>
 
 **Q4.** Natural uranium contains what percentage of the fissile isotope Uranium-235?
@@ -1375,10 +1615,10 @@ Which of the statements given above are correct?
 - (D) Approximately $90\%$
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** (A) Approximately $0.7\%$
-- **Exam Lock:** Natural uranium consists of $99.3\%$ U-238 and only $0.7\%$ fissile U-235.
+- **Logic:** Natural uranium consists of $99.3\%$ U-238 and only $0.7\%$ fissile U-235.
 </details>
 
 **Q5.** In India, which entity possesses exclusive statutory authorization to process monazite sand and extract thorium?
@@ -1388,10 +1628,10 @@ Which of the statements given above are correct?
 - (D) Minerals and Metals Trading Corporation (MMTC)
 
 <details>
-<summary><b>Show Answer & Explanation</b></summary>
+<summary>Show answer</summary>
 
 - **Correct Answer:** (B) Indian Rare Earths Limited (IREL)
-- **Exam Lock:** Under the Atomic Energy Act, 1962, monazite is a prescribed strategic substance; only government undertakings like IREL (under DAE) and KMML can process monazite.
+- **Logic:** Under the Atomic Energy Act, 1962, monazite is a prescribed strategic substance; only government undertakings like IREL (under DAE) and KMML can process monazite.
 </details>
 
 ---

@@ -8,7 +8,7 @@ Features of Indian economy | Growth vs development | National income (GDP family
 
 </details>
 
-> **Sources baked in:** NCERT Class 11–12 Indian Economic Development / Macroeconomics basics, standard coaching planning notes, UPPCS Prelims PYQs, UKPCS Prelims
+> **Sources baked in:** NCERT Class 11–12 Indian Economic Development / Macroeconomics basics, standard coaching planning notes, UPPCS Prelims PYQs, UKPCS Prelims; Extra Drill rebuilt from mixed RO/ARO–coaching stems (paste full Ghatnachakra Purvalokan later to expand)
 > **Weight:** ★★★ High — mixed economy, NITI identity, plan themes, and growth≠development decide stems
 > **Last verified:** September 2026
 
@@ -27,7 +27,7 @@ Budget / tax deepens in Economy Topic 2. Inflation indices deepen in Topic 4. Po
 
 ---
 
-## Consolidated — 40 Must-Score Facts
+## Consolidated — 68 Must-Score Facts
 
 1. India is a **mixed economy** — public and private sectors coexist. The balance shifted toward markets after **1991**, but public enterprise did not vanish.
 2. Standard school texts still call India an **underdeveloped / developing** economy on structural grounds (low per capita income historically, large agri workforce share, poverty / underemployment, technology gaps) even while absolute GDP size is large.
@@ -69,6 +69,34 @@ Budget / tax deepens in Economy Topic 2. Inflation indices deepen in Topic 4. Po
 38. **NDC (National Development Council)** linked States to Plan approval in the Planning Commission era.
 39. Business / trade cycle phases in school lists: expansion, peak, contraction / recession, trough / recovery.
 40. Rolling plan teaching (Janata period) interrupted the fixed five-year rhythm — remember as a break, not a permanent system.
+41. Transfer payments (pensions, scholarships, gifts) are **excluded** from GDP because they involve no productive contribution.
+42. **Visvesvaraya Plan (1934)** was an early systematic planning proposal aiming to double national income in about ten years.
+43. **National Planning Committee (1938)** was set up under Congress President Subhash Chandra Bose with **Jawaharlal Nehru** as chairman.
+44. **Bombay Plan (1944)** was drafted by leading industrialists and favoured state-led heavy industrialisation.
+45. **Gandhian Plan (1944)** by S.N. Agarwal stressed decentralisation and cottage industries.
+46. **People's Plan (1945)** was associated with **M.N. Roy** and labour/agrarian priorities.
+47. **Sarvodaya Plan (1950)** is linked with **Jayaprakash Narayan**.
+48. **NDC** (National Development Council, 1952 teaching) coordinated Centre–State plan approval in the Planning Commission era.
+49. **Plan Holiday (1966–69)** meant three Annual Plans after war, drought and forex stress — not a Five-Year Plan.
+50. **Rolling Plan (1978–80)** under the Janata government revised targets yearly (Myrdal / Lakdawala teaching).
+51. Steel plants of the Second Plan teaching set: **Bhilai** (USSR), **Durgapur** (UK), **Rourkela** (West Germany).
+52. **IPR 1956** is often called the ‘Economic Constitution’ teaching tag for the public-sector industrial map.
+53. 1991 crisis teaching: forex plunged to roughly **two weeks of imports**; gold was pledged abroad for emergency support.
+54. **Counter-cyclical** fiscal policy expands spending / cuts taxes in a downturn; **pro-cyclical** moves with the boom.
+55. NITI first CEO teaching tag: **Sindhushree Khullar**; first VC: **Arvind Panagariya**.
+56. NITI flagship indices teaching desk includes **SDG India Index**, **CWMI**, and Aspirational Districts.
+57. **Market price = Factor cost + Net Indirect Taxes** (indirect taxes − subsidies).
+58. **GVA** measures output minus intermediate consumption; it is the building block of GDP by production.
+59. Fisher–Clark structural shift teaching: primary → secondary → tertiary; India jumped toward **services** in GDP share.
+60. Planning Commission was created on **15 March 1950** by executive resolution (Neogy Advisory Planning Board teaching).
+61. Fifth Plan teaching twin goals: **Garibi Hatao** and self-reliance; it was terminated early by the Janata government.
+62. Eighth Plan sits in the **post-1991** structural-adjustment window (Rao–Manmohan teaching).
+63. NITI is **neither constitutional nor statutory**; it cannot allocate old Plan grants like the Planning Commission.
+64. Business-cycle trough / depression teaching marks the lowest output and highest unemployment phase before recovery.
+65. **Green GDP** subtracts environmental degradation / resource depletion costs from conventional GDP.
+66. Double-counting trap: never add intermediate goods into GDP if final goods (or value added) are already counted.
+67. NITI Governing Council trap: **State Governors are not members**; CMs and Lt Governors are.
+68. 12th Plan is the **last** Five-Year Plan (2012–17) before the NITI vision–strategy–action style.
 
 ---
 
@@ -391,7 +419,7 @@ D. H. D. Deve Gowda
 
 ---
 
-## Complete PYQ Bank — UPPCS
+## Complete PYQ Bank (UPPCS)
 
 **Q1. UPPCS (Pre) 2024**
 
@@ -495,8 +523,292 @@ D. Ministry of Science and Technology
 
 </details>
 
-## Complete PYQ Bank — UKPCS
+## Ghatnachakra Extra Drill — Indian Economy Basics and Planning
 
+Extra Drill rebuilt from coaching / mock stems (not a full Purvalokan dump). Expand when Ghatnachakra Economy MCQs are pasted.
+
+**Q14.** With reference to the business cycle, which of the following statements is/are correct?
+
+1. Expansion and peak are boom-side phases in school lists.
+2. Contraction / recession and trough sit on the down side.
+3. Business cycles replace long-run growth completely so GDP never rises over decades.
+
+Select the correct answer from the code given below:
+
+A. Only 3
+B. 1 and 2
+C. 2 and 3
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Statements 1 and 2 are correct.
+
+**Logic:** Cycles fluctuate around growth. Statement 3 is false.
+
+</details>
+
+**Q15.** Which of the following pairs is **not** correctly matched?
+
+A. NFIA — links GDP and GNP
+B. Depreciation — links gross and net aggregates
+C. Factor cost — related to national income teaching
+D. Intermediate goods — always added fully into GDP twice
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Intermediates are not double-counted by design.
+
+**Logic:** A–C are standard.
+
+</details>
+
+**Q16.** With reference to Planning Commission versus NITI, which of the following statements is/are correct?
+
+1. Planning Commission allocated plan funds in the old regime.
+2. NITI is mainly a think tank / policy forum.
+3. NITI is the Finance Commission under Article 280.
+
+Select the correct answer from the code given below:
+
+A. Only 3
+B. 1 and 2
+C. 2 and 3
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Statements 1 and 2 are correct.
+
+**Logic:** Art. 280 is FC (Topic 2). Statement 3 is false.
+
+</details>
+
+**Q17.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): The Twelfth Plan emphasised sustainable growth along with inclusiveness.
+
+Reason (R): The Eleventh Plan’s headline tag was inclusive growth.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true plan tags; R does not cause the Twelfth’s sustainable wording.
+
+**A/R logic:** 11th vs 12th slogans.
+
+</details>
+
+**Q18.** With reference to structural change, which of the following statements is/are correct?
+
+1. Services dominate India’s GDP share in recent decades.
+2. Agriculture still employs a large share of the workforce relative to its GDP share.
+3. Structural change means GDP deflator becomes zero forever.
+
+Select the correct answer from the code given below:
+
+A. Only 3
+B. 1 and 2
+C. 2 and 3
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Statements 1 and 2 are correct.
+
+**Logic:** Statement 3 is false.
+
+</details>
+
+**Q19.** With reference to Rajiv Gandhi and 1991, which of the following statements is/are correct?
+
+1. Mid-1980s reforms are often called an early liberalisation phase.
+2. 1991 marks the systemic LPG reform package.
+3. 1991 reforms were carried out by the Planning Commission as a constitutional body.
+
+Select the correct answer from the code given below:
+
+A. Only 3
+B. 1 and 2
+C. 2 and 3
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Statements 1 and 2 are correct.
+
+**Logic:** Planning Commission was never constitutional. Statement 3 is false.
+
+</details>
+
+**Q20.** Match List-I with List-II.
+
+| List-I | List-II |
+|---|---|
+| A. Adam Smith | 1. First NITI Vice-Chairperson |
+| B. Keynes | 2. Father of Economics (usual tag) |
+| C. Panagariya | 3. Modern macroeconomics landmark |
+| D. Mahalanobis | 4. Second Plan industry model |
+
+Select the correct answer from the code given below:
+
+A. 2 3 1 4
+B. 3 2 1 4
+C. 2 1 3 4
+D. 4 3 1 2
+
+*Row order is not the answer code.*
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Smith; Keynes; Panagariya; Mahalanobis.
+
+**Logic:** Keep titles distinct.
+
+</details>
+
+**Q21.** With reference to NNP and national income, which of the following statements is/are correct?
+
+1. NNP is GNP minus depreciation.
+2. Older Indian keys often treat national income as NNP at factor cost.
+3. NNP is always identical to CPI.
+
+Select the correct answer from the code given below:
+
+A. Only 3
+B. 1 and 2
+C. 2 and 3
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Statements 1 and 2 are correct.
+
+**Logic:** Statement 3 is false.
+
+</details>
+
+**Q22.** Which of the following pairs is **not** correctly matched?
+
+A. Second Plan — heavy industry emphasis
+B. First Plan — agriculture / irrigation emphasis
+C. AIM — NITI Aayog
+D. Twelfth Plan — only exclusive focus on heavy industry like the Second Plan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Twelfth is inclusive + sustainable growth tag, not Second-Plan industry clone.
+
+**Logic:** A–C are standard.
+
+</details>
+
+**Q23.** With reference to non-monetised consumption, which of the following statements is/are correct?
+
+1. It complicates national-income measurement in India.
+2. A large informal sector also complicates measurement.
+3. Non-monetised consumption makes GDP deflator illegal.
+
+Select the correct answer from the code given below:
+
+A. Only 3
+B. 1 and 2
+C. 2 and 3
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Statements 1 and 2 are correct.
+
+**Logic:** UKPCS NI-problem stem. Statement 3 is false.
+
+</details>
+
+**Q24.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): NITI Aayog does not replace the Finance Commission.
+
+Reason (R): The Finance Commission is a constitutional body under Article 280.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true; constitutional FC status is why NITI cannot replace it.
+
+**A/R logic:** NITI vs FC trap (Topic 2 border).
+
+</details>
+
+**Q25.** With reference to public versus private sector, which of the following statements is/are correct?
+
+1. Mixed economy uses both.
+2. Disinvestment / privatisation after reforms reduced some public stakes.
+3. Mixed economy means only household production counts in GDP.
+
+Select the correct answer from the code given below:
+
+A. Only 3
+B. 1 and 2
+C. 2 and 3
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Statements 1 and 2 are correct.
+
+**Logic:** Statement 3 is false.
+
+</details>
+
+**Q26.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Real GDP is better than nominal GDP for comparing output across years when prices change.
+
+Reason (R): Real GDP holds prices at a base year so volume changes stand out.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true, and constant-price construction explains why real GDP is preferred for volume comparison.
+
+**A/R logic:** Core real vs nominal teaching.
+
+</details>
+
+---
+
+## UKPCS Prelims Bank
 **Q1. UKPCS (Pre) 2025**
 
 With reference to NITI Aayog, consider the following statements:
@@ -593,7 +905,7 @@ D. H. D. Deve Gowda
 
 ---
 
-## Practice Zone — UPPCS Format Drill
+## Practice Zone
 
 **Q1.** With reference to mixed economy, which of the following statements is/are correct?
 
@@ -878,287 +1190,6 @@ D. 1, 2 and 3
 **Logic:** They should reconcile in theory.
 
 </details>
-
-**Q14.** With reference to the business cycle, which of the following statements is/are correct?
-
-1. Expansion and peak are boom-side phases in school lists.
-2. Contraction / recession and trough sit on the down side.
-3. Business cycles replace long-run growth completely so GDP never rises over decades.
-
-Select the correct answer from the code given below:
-
-A. Only 3
-B. 1 and 2
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Statements 1 and 2 are correct.
-
-**Logic:** Cycles fluctuate around growth. Statement 3 is false.
-
-</details>
-
-**Q15.** Which of the following pairs is **not** correctly matched?
-
-A. NFIA — links GDP and GNP
-B. Depreciation — links gross and net aggregates
-C. Factor cost — related to national income teaching
-D. Intermediate goods — always added fully into GDP twice
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Intermediates are not double-counted by design.
-
-**Logic:** A–C are standard.
-
-</details>
-
-**Q16.** With reference to Planning Commission versus NITI, which of the following statements is/are correct?
-
-1. Planning Commission allocated plan funds in the old regime.
-2. NITI is mainly a think tank / policy forum.
-3. NITI is the Finance Commission under Article 280.
-
-Select the correct answer from the code given below:
-
-A. Only 3
-B. 1 and 2
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Statements 1 and 2 are correct.
-
-**Logic:** Art. 280 is FC (Topic 2). Statement 3 is false.
-
-</details>
-
-**Q17.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): The Twelfth Plan emphasised sustainable growth along with inclusiveness.
-
-Reason (R): The Eleventh Plan’s headline tag was inclusive growth.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Both true plan tags; R does not cause the Twelfth’s sustainable wording.
-
-**A/R logic:** 11th vs 12th slogans.
-
-</details>
-
-**Q18.** With reference to structural change, which of the following statements is/are correct?
-
-1. Services dominate India’s GDP share in recent decades.
-2. Agriculture still employs a large share of the workforce relative to its GDP share.
-3. Structural change means GDP deflator becomes zero forever.
-
-Select the correct answer from the code given below:
-
-A. Only 3
-B. 1 and 2
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Statements 1 and 2 are correct.
-
-**Logic:** Statement 3 is false.
-
-</details>
-
-**Q19.** With reference to Rajiv Gandhi and 1991, which of the following statements is/are correct?
-
-1. Mid-1980s reforms are often called an early liberalisation phase.
-2. 1991 marks the systemic LPG reform package.
-3. 1991 reforms were carried out by the Planning Commission as a constitutional body.
-
-Select the correct answer from the code given below:
-
-A. Only 3
-B. 1 and 2
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Statements 1 and 2 are correct.
-
-**Logic:** Planning Commission was never constitutional. Statement 3 is false.
-
-</details>
-
-**Q20.** Match List-I with List-II.
-
-| List-I | List-II |
-|---|---|
-| A. Adam Smith | 1. First NITI Vice-Chairperson |
-| B. Keynes | 2. Father of Economics (usual tag) |
-| C. Panagariya | 3. Modern macroeconomics landmark |
-| D. Mahalanobis | 4. Second Plan industry model |
-
-Select the correct answer from the code given below:
-
-A. 2 3 1 4
-B. 3 2 1 4
-C. 2 1 3 4
-D. 4 3 1 2
-
-*Row order is not the answer code.*
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Smith; Keynes; Panagariya; Mahalanobis.
-
-**Logic:** Keep titles distinct.
-
-</details>
-
-**Q21.** With reference to NNP and national income, which of the following statements is/are correct?
-
-1. NNP is GNP minus depreciation.
-2. Older Indian keys often treat national income as NNP at factor cost.
-3. NNP is always identical to CPI.
-
-Select the correct answer from the code given below:
-
-A. Only 3
-B. 1 and 2
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Statements 1 and 2 are correct.
-
-**Logic:** Statement 3 is false.
-
-</details>
-
-**Q22.** Which of the following pairs is **not** correctly matched?
-
-A. Second Plan — heavy industry emphasis
-B. First Plan — agriculture / irrigation emphasis
-C. AIM — NITI Aayog
-D. Twelfth Plan — only exclusive focus on heavy industry like the Second Plan
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Twelfth is inclusive + sustainable growth tag, not Second-Plan industry clone.
-
-**Logic:** A–C are standard.
-
-</details>
-
-**Q23.** With reference to non-monetised consumption, which of the following statements is/are correct?
-
-1. It complicates national-income measurement in India.
-2. A large informal sector also complicates measurement.
-3. Non-monetised consumption makes GDP deflator illegal.
-
-Select the correct answer from the code given below:
-
-A. Only 3
-B. 1 and 2
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Statements 1 and 2 are correct.
-
-**Logic:** UKPCS NI-problem stem. Statement 3 is false.
-
-</details>
-
-**Q24.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): NITI Aayog does not replace the Finance Commission.
-
-Reason (R): The Finance Commission is a constitutional body under Article 280.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Both true; constitutional FC status is why NITI cannot replace it.
-
-**A/R logic:** NITI vs FC trap (Topic 2 border).
-
-</details>
-
-**Q25.** With reference to public versus private sector, which of the following statements is/are correct?
-
-1. Mixed economy uses both.
-2. Disinvestment / privatisation after reforms reduced some public stakes.
-3. Mixed economy means only household production counts in GDP.
-
-Select the correct answer from the code given below:
-
-A. Only 3
-B. 1 and 2
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Statements 1 and 2 are correct.
-
-**Logic:** Statement 3 is false.
-
-</details>
-
-**Q26.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Real GDP is better than nominal GDP for comparing output across years when prices change.
-
-Reason (R): Real GDP holds prices at a base year so volume changes stand out.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Both true, and constant-price construction explains why real GDP is preferred for volume comparison.
-
-**A/R logic:** Core real vs nominal teaching.
-
-</details>
-
----
 
 ## Common Traps
 

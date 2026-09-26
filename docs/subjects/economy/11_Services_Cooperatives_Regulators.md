@@ -10,13 +10,14 @@ Tertiary / services map | IT–ITeS, tourism, transport, education, health, e-co
 
 > **Sources baked in:** NCERT Class 11 Indian Economic Development (structural change / services), Companies Act CSR notes, regulator factsheets, UPPCS Prelims PYQs, UKPCS Prelims
 > **Weight:** ★★ High — CSR Act year + 2% trap, MRP ceiling A/R, ECOMARC, and regulator–sector match lists decide stems
-> **Last verified:** September 2026
+> **Last verified:** September 2026 — Lucent remodel (History/Polity section order); Extra Drill rebuilt from mixed stems
 
 Banking depth stays in **Topic 3**; SEBI / mutual-fund / NPS **market** depth stays in **Topic 4**. This chapter owns the **services map**, **cooperatives / companies / CSR**, the **regulator name-list**, standards bodies and consumer-protection economics.
 
 ---
 
 ## Current Affairs
+
 
 | Year | Fact | Why it matters |
 |------|------|----------------|
@@ -30,6 +31,7 @@ Banking depth stays in **Topic 3**; SEBI / mutual-fund / NPS **market** depth st
 ---
 
 ## Consolidated — 44 Must-Score Facts
+
 
 1. The **tertiary (services) sector** covers trade, transport, communication, finance, real estate, public administration, education, health, IT and related activities.
 2. In India’s structural change story, **services dominate GDP share** while agriculture still employs a large workforce share.
@@ -80,6 +82,7 @@ Banking depth stays in **Topic 3**; SEBI / mutual-fund / NPS **market** depth st
 
 ## Confused Pairs
 
+
 | A | B | Distinguishing fact |
 |---|---|---|
 | **Companies Act, 2013** | **CSR Rules, 2014** | Parent Act vs notified rules / force date |
@@ -96,6 +99,7 @@ Banking depth stays in **Topic 3**; SEBI / mutual-fund / NPS **market** depth st
 | **Ministry of Cooperation** | **Ministry of Agriculture alone** | Dedicated 2021 desk vs older combined tags |
 
 ## Must-score drill — CSR, MRP, regulators
+
 
 | Item | Tag |
 |---|---|
@@ -115,6 +119,7 @@ Banking depth stays in **Topic 3**; SEBI / mutual-fund / NPS **market** depth st
 
 ## 11.1 Service sector — tertiary map
 
+
 **The tertiary (services) sector** covers trade, transport, communication, finance, real estate, public administration, education, health, IT and related activities.
 
 - In India’s structural-change story, **services dominate GDP share** while agriculture still employs a large workforce share.
@@ -133,6 +138,7 @@ Banking depth stays in **Topic 3**; SEBI / mutual-fund / NPS **market** depth st
 
 ## 11.2 Cooperatives
 
+
 **A cooperative** is a member-owned enterprise organised on voluntary membership, democratic control and mutual benefit.
 
 - Cooperatives organise producers or consumers for credit, dairy, marketing, housing and multi-State activity.
@@ -147,6 +153,7 @@ Banking depth stays in **Topic 3**; SEBI / mutual-fund / NPS **market** depth st
 ---
 
 ## 11.3 Companies, CSR and corporate governance
+
 
 **The Companies Act, 2013** is the principal company-law statute in India.
 
@@ -199,6 +206,7 @@ D. Neither I nor 2
 
 ## 11.4 Regulatory institutions — match desk
 
+
 **Regulators** are mostly **statutory** bodies created by Parliament — distinct from constitutional bodies such as the Election Commission or UPSC.
 
 | Regulator | Sector / mandate | Teaching tag |
@@ -224,6 +232,7 @@ D. Neither I nor 2
 ---
 
 ## 11.5 Standards, quality marks and consumer protection
+
 
 **Quality marks and standards** reduce information asymmetry between producers and buyers.
 
@@ -293,6 +302,7 @@ Consumer Protection Act, 2019 strengthens rights, product liability and e-commer
 
 ## Complete PYQ Bank (UPPCS)
 
+
 **Q1. UPPCS (Pre) 2019** — CSR statements
 
 1. Companies Act 2014, introduces mandatory CSR.
@@ -352,7 +362,14 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 ---
 
-## Complete PYQ Bank (UKPCS)
+## Ghatnachakra Extra Drill — Services, Cooperatives and Regulators
+
+> Extra Drill rebuilt from mixed RO/ARO–coaching stems (paste full Ghatnachakra Purvalokan later to expand).
+
+UPPCS-tagged stems live in **Complete PYQ Bank (UPPCS)** above. UKPCS-tagged stems live in **UKPCS** below. Use Practice Zone for fresh multi-statement drills.
+
+## UKPCS
+
 
 *(Sparse direct hits — regulator and services stems often sit inside banking / industry papers. Core UKPCS neighbours: appreciation / FEMA / FDI services already banked in Topics 3, 7, 9.)*
 
@@ -377,6 +394,7 @@ D. Chemicals other than fertilisers
 ---
 
 ## Practice Zone
+
 
 **Q1.** Tertiary sector mainly refers to
 
@@ -881,6 +899,7 @@ D. Compile only CPI
 ---
 
 ## Common Traps
+
 
 * CSR = **Companies Act, 2013** + **≥2%** of 3-year average profits — not Act 2014, not 1%.
 * MRP = **ceiling** (bargain below OK; charge above unlawful) — not a must-charge price (read booklet Reason carefully).

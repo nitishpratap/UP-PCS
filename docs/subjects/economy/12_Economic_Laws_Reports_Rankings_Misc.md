@@ -10,13 +10,14 @@ Major economic Acts / codes (IBC, RERA, labour codes, PMLA, FEMA list) | Economi
 
 > **Sources baked in:** Economic Survey chapters, UNDP / World Bank / IEP / GHI publishers, NITI SDG Index, UPPCS Prelims PYQs, UKPCS Prelims
 > **Weight:** ★★★ High — year-tagged ranks, Survey “NOT correct” traps, PQLI author, and Act short-titles decide stems
-> **Last verified:** September 2026
+> **Last verified:** September 2026 — Lucent remodel (History/Polity section order); Extra Drill rebuilt from mixed stems
 
 Depth already owned elsewhere stays linked: HDI pillars → Topic 8; FEMA force date → Topic 9; CSR / Competition Act / Consumer Act → Topic 11; FRBM / Budget → Topic 2. This chapter is the **Acts short-list**, **Survey / report desk**, and **index–publisher–rank** armoury.
 
 ---
 
 ## Current Affairs
+
 
 | Year | Fact | Why it matters |
 |------|------|----------------|
@@ -32,6 +33,7 @@ Depth already owned elsewhere stays linked: HDI pillars → Topic 8; FEMA force 
 ---
 
 ## Consolidated — 48 Must-Score Facts
+
 
 1. The **Economic Survey** is tabled by the Finance Ministry (CEA wing) usually a day before the Union Budget — a review of the economy and policy narrative.
 2. Survey questions are **edition-specific** — match the year in the stem before picking a number or phrase.
@@ -86,6 +88,7 @@ Depth already owned elsewhere stays linked: HDI pillars → Topic 8; FEMA force 
 
 ## Confused Pairs
 
+
 | A | B | Distinguishing fact |
 |---|---|---|
 | **Economic Survey** | **Union Budget** | Review / narrative day-before vs Annual Financial Statement |
@@ -102,6 +105,7 @@ Depth already owned elsewhere stays linked: HDI pillars → Topic 8; FEMA force 
 | **GII 2010** | **HDI 1990** | Gender index entry vs first HDR |
 
 ## Must-score drill — Acts, Survey, ranks
+
 
 | Item | Tag |
 |---|---|
@@ -121,6 +125,7 @@ Depth already owned elsewhere stays linked: HDI pillars → Topic 8; FEMA force 
 ---
 
 ## 12.1 Economic laws and codes — short desk
+
 
 **Major economic Acts** set the statutory frame for markets, finance, labour and consumer protection.
 
@@ -183,6 +188,7 @@ D. The Director of Money Laundering is not given power to call for records maint
 ---
 
 ## 12.2 Economic Survey and report desk
+
 
 **The Economic Survey** is the Finance Ministry’s annual review of the economy, usually tabled a day before the Union Budget.
 
@@ -253,6 +259,7 @@ Other recurring report names: RBI Annual Report / Monetary Policy Report, Financ
 ---
 
 ## 12.3 Indices and rankings — publisher + year
+
 
 **Global and national indices** compress complex performance into ranks — always tie the number to the **report year** in the stem.
 
@@ -444,6 +451,7 @@ D. 131
 
 ## 12.4 Thinkers, books, days — misc shelf
 
+
 **This shelf** catches named thinkers, one-line books and calendar tags that do not need a full chapter of their own.
 
 ### Thinkers and index faces
@@ -471,6 +479,7 @@ Do not dump a second copy of Topics 1–11 here; use this shelf for leftovers an
 
 ## Complete PYQ Bank (UPPCS)
 
+
 **Q1. UPPCS (Pre) 2024** — Survey fiscal response
 
 1. Decreasing food and fertiliser subsidies
@@ -492,6 +501,8 @@ D. None of the above
 </details>
 
 **Q2. UPPCS (Pre) 2023** — Survey services NOT correct
+
+According to the Economic Survey 2023, which of the following statements regarding the Services Sector is **not** correct?
 
 A. Credit growth to services has been above 16% since July 2022.
 B. 75 Digital Banking Units were announced.
@@ -528,6 +539,8 @@ D. Neither 1 nor 2
 
 **Q4. UPPCS (Pre) 2022** — World Happiness 2022
 
+According to the World Happiness Index 2022, what is the rank of India?
+
 A. 136th
 B. 110th
 C. 140th
@@ -563,6 +576,8 @@ D. Neither 1 nor 2
 
 **Q6. UPPCS (Pre) 2019** — PQLI
 
+Physical Quality of Life Index (PQLI) is developed by
+
 A. Morris D. Morris
 B. UNDP
 C. Mehbub-ul-Haq
@@ -578,6 +593,8 @@ D. None of the above
 </details>
 
 **Q7. UPPCS (Pre) 2019** — GHI 2017
+
+What is the India's rank in the Global Hunger Index (GHI) in 2017?
 
 A. 100th
 B. 101th
@@ -595,6 +612,8 @@ D. 105th
 
 **Q8. UPPCS (Pre) 2018** — GPI 2018
 
+What is the rank of India in the world as per Global Peace Index (GPI), 2018?
+
 A. 136th
 B. 137th
 C. 138th
@@ -611,9 +630,18 @@ D. 134th
 
 ---
 
-## Complete PYQ Bank (UKPCS)
+## Ghatnachakra Extra Drill — Economic Laws, Reports and Rankings
+
+> Extra Drill rebuilt from mixed RO/ARO–coaching stems (paste full Ghatnachakra Purvalokan later to expand).
+
+UPPCS-tagged stems live in **Complete PYQ Bank (UPPCS)** above. UKPCS-tagged stems live in **UKPCS** below. Use Practice Zone for fresh multi-statement drills.
+
+## UKPCS
+
 
 **Q1. UKPCS (Pre) 2024** — PMLA NOT true
+
+Which of the following statements related to the Prevention of Money Laundering Act (PMLA) is NOT true?
 
 A. It includes all major offences which help in generation of black money.
 B. Tax evasion and smuggling have been kept out of the definition of money laundering.
@@ -631,6 +659,8 @@ D. The Director of Money Laundering is not given power to call for records maint
 
 **Q2. UKPCS (Pre) 2021** — GII year
 
+Gender Inequality Index (GII) was introduced in which Human Development Report (HDR) of UNDP?
+
 A. HDR 2007
 B. HDR 2008
 C. HDR 2009
@@ -646,6 +676,8 @@ D. HDR 2010
 </details>
 
 **Q3. UKPCS (Pre) 2021** — HDI rank HDR 2020
+
+What is the Human Development Index (HDI) rank of India in the Human Development Report 2020 of UNDP?
 
 A. 128
 B. 129
@@ -703,6 +735,7 @@ D. 3 and 4
 ---
 
 ## Practice Zone
+
 
 **Q1.** Economic Survey is usually presented
 
@@ -1195,6 +1228,7 @@ D. Only Article 370
 ---
 
 ## Common Traps
+
 
 * Survey ≠ Budget; read the **edition year** before picking Survey facts.
 * E-commerce “two-thirds” = **~2027 / next four years**, not **2030**.

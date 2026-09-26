@@ -14,12 +14,12 @@ Metals & Non-Metals Physical & Chemical Tags | Allotropes of Carbon (Graphite, D
 
 ---
 
-## Current Affairs & Exam Locks (2024–2026)
+## Current Affairs (2024–2026)
 
-| Year | Exam / Event | Core Concept & Exam Significance |
+| Year | Event | Core Concept & Must-Score Significance |
 |------|--------------|-----------------------------------|
 | **2025–2026** | **Critical Minerals Mission & Lithium Reserves** | Geological Survey of India (GSI) exploration of **Lithium** reserves in Reasi (Jammu & Kashmir) and Degana (Rajasthan). Lithium ($Li$, $Z=3$) is the lightest metal and lowest-density solid element ($0.534\text{ g/cm}^3$), with the highest negative standard reduction potential ($-3.04\text{ V}$), making it the bedrock of EV lithium-ion batteries. |
-| **2024** | **UPPCS Prelims 2024** | Question on **German Silver composition**: Highlighted the recurring exam trap that German Silver contains **$0\%\text{ Silver}$** ($Cu \approx 50\%, Zn \approx 30\%, Ni \approx 20\%$). Named solely for its silvery-white metallic luster. |
+| **2024** | **UPPCS Prelims 2024** | Question on **German Silver composition**: Highlighted the recurring trap that German Silver contains **$0\%\text{ Silver}$** ($Cu \approx 50\%, Zn \approx 30\%, Ni \approx 20\%$). Named solely for its silvery-white metallic luster. |
 | **2023** | **Noble Prize in Chemistry & Carbon Materials** | Advancements in **Graphene** (single atomic layer of $sp^2$ carbon) and Carbon Nanotubes (CNTs) for supercapacitors and aerospace composites: Graphene exhibits ballistic electrical conductivity and tensile strength $>100$ times higher than structural steel. |
 | **2022** | **UPPCS Prelims 2022** | Core thermodynamic trap: **Graphite** is the thermodynamically most stable allotropic form of carbon at standard temperature and pressure ($298.15\text{ K}, 1\text{ bar}$), with standard enthalpy of formation $\Delta_f H^\circ = 0\text{ kJ/mol}$ (Diamond has $\Delta_f H^\circ = +1.9\text{ kJ/mol}$). |
 | **2020** | **UPPCS Prelims 2020** | Characteristic matching of metals: Sodium (soft, cut with a knife), Mercury (liquid metal), Silver (highest electrical conductivity), and Lead (poorest thermal conductor among common commercial metals). |
@@ -47,7 +47,7 @@ Metals & Non-Metals Physical & Chemical Tags | Allotropes of Carbon (Graphite, D
 17. **Fullerenes ($C_{60}$, Buckminsterfullerene)** consist of 60 carbon atoms arranged in a truncated icosahedron containing 20 hexagons and 12 pentagons, resembling a hollow soccer ball ("buckyball").
 18. **Graphene** is a single two-dimensional planar sheet of carbon atoms packed in a honeycomb crystal lattice; it is nearly transparent, conducts electricity with zero effective mass electrons, and is $>100$ times stronger than structural steel.
 19. Most metal oxides are **basic** (e.g., $Na_2O, CaO, MgO$), forming hydroxides with water. Most non-metal oxides are **acidic** (e.g., $SO_2, SO_3, CO_2, P_4O_{10}$), forming oxyacids with water.
-20. **Amphoteric Oxides** react with both acids and strong bases to yield salt and water. The two classic exam examples are **Aluminium oxide ($Al_2O_3$)** and **Zinc oxide ($ZnO$)**:
+20. **Amphoteric Oxides** react with both acids and strong bases to yield salt and water. The two classic examples are **Aluminium oxide ($Al_2O_3$)** and **Zinc oxide ($ZnO$)**:
     $$ZnO + 2HCl \to ZnCl_2 + H_2O, \quad ZnO + 2NaOH \to Na_2ZnO_2\text{ (Sodium zincate)} + H_2O$$
 21. **Neutral Oxides** exhibit neither acidic nor basic properties: Nitrous oxide ($N_2O$, laughing gas), Nitric oxide ($NO$), Carbon monoxide ($CO$), and Water ($H_2O$).
 22. **The Reactivity Series of Metals** in descending order:
@@ -123,7 +123,7 @@ Metals & Non-Metals Physical & Chemical Tags | Allotropes of Carbon (Graphite, D
 
 
 ### Table 1B: Complete Ghatna Chakra Master Matrix of Minerals, Ores & Chemical Formulas
-| Metal | Major Minerals & Ores | Chemical Composition / Formula | High-Yield Exam Takeaway |
+| Metal | Major Minerals & Ores | Chemical Composition / Formula | Must-Score Takeaway |
 | :--- | :--- | :--- | :--- |
 | **Sodium ($Na$)** | Rock Salt<br>Chilli Saltpetre<br>Trona<br>Borax<br>Glauber's Salt | $NaCl$<br>$NaNO_3$<br>$Na_3H(CO_3)_2 \cdot 2H_2O$<br>$Na_2B_4O_7 \cdot 10H_2O$<br>$Na_2SO_4 \cdot 10H_2O$ | Stored under kerosene; burns with brilliant golden yellow flame in street lamps; highly vigorous exothermic reaction with cold water. |
 | **Potassium ($K$)** | Sylvine<br>Carnallite<br>Schoenite (Picromerite) | $KCl$<br>$KCl \cdot MgCl_2 \cdot 6H_2O$<br>$K_2Mg(SO_4)_2 \cdot 6H_2O$ | Most reactive metal in standard series; lower ionization energy than sodium; reacts violently with cold water. |
@@ -162,7 +162,7 @@ Metals & Non-Metals Physical & Chemical Tags | Allotropes of Carbon (Graphite, D
 
 ### Table 3: Types of Chemical Reactions & Everyday Manifestations
 
-| Reaction Category | Defining Equation / Archetype | Mechanistic Description | Everyday / Exam Example |
+| Reaction Category | Defining Equation / Archetype | Mechanistic Description | Everyday / Must-Score Example |
 |---|---|---|---|
 | **Combination (Synthesis)** | $A + B \to AB$ | Two or more reactants combine to form a single product. Exothermic. | Slaking of quicklime: $CaO + H_2O \to Ca(OH)_2 + \text{heat}$. Burning of coal: $C + O_2 \to CO_2$. |
 | **Decomposition (Thermal)** | $AB \xrightarrow{\Delta} A + B$ | A single compound breaks into multiple simpler substances via heat. | Heating limestone: $CaCO_3 \xrightarrow{\Delta} CaO + CO_2 \uparrow$. Decomposition of $FeSO_4 \cdot 7H_2O$. |
@@ -337,7 +337,7 @@ Rusting of iron is not a simple chemical combination, but an **electrochemical c
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Among all natural materials, diamond is the hardest (which
   - is non-metal) whereas, among the metals, Tungsten is the
   - hardest.
@@ -356,7 +356,7 @@ substance on the Earth?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Diamond is the hardest naturally occurring substance present
   - on the Earth. However, wurtzite boron nitride is believed
   - to be harder than diamond. It has a similar structure to
@@ -383,7 +383,7 @@ substance on the Earth?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Uranium is the heaviest naturally occurring element with an
   - atomic no. of 92. It is a pure form of silver-coloured heavy
   - metal. Its most common isotope Uranium-238 has a nucleus
@@ -403,7 +403,7 @@ substance on the Earth?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (*)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - The material, there discovery and approx. cost per gram (as
   - per the question period) in US$ are given below–
   - Material Discovery
@@ -446,7 +446,7 @@ Kerosene oil?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -463,7 +463,7 @@ light. Which one of the following is used in these lamps :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - There are 2 types of street light lamps which are used by
   - municipalities. They are sodium vapor and mercury vapor
   - lamps. The mercury vapor lamps have usually a white
@@ -488,7 +488,7 @@ through water droplets.
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - A sodium-vapor lamp is a gas-discharge lamp that uses
   - sodium in an excited state to produce light. Low-pressure
   - sodium lamps only give monochromatic yellow light and so
@@ -510,7 +510,7 @@ native state ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Among the given metals, gold is the least reactive, so this
   - was accessed in the native (free) state. Only metals like
   - gold, silver, and platinum etc. occur in native state in nature
@@ -528,7 +528,7 @@ native state ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Limestone is a sedimentary rock composed largely of the
   - minerals Calcite and Aragonite which are different crystal
   - forms of Calcium Carbonate (CaCO3
@@ -549,7 +549,7 @@ which is popularly known as –
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -564,7 +564,7 @@ which is popularly known as –
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Gypsum is a soft sulfate mineral which contains calcium. It
   - is composed of calcium sulphate dihydrate, with the chemical
   - formula CaSO4
@@ -587,7 +587,7 @@ raw material –
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -604,7 +604,7 @@ conductor of heat?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Mercury is a chemical element with the symbol (Hg).
   - Mercury is used in thermometers due to its special properties.
   - It can measure a wide range of temperatures from -40 to
@@ -633,7 +633,7 @@ temperature?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Mercury is the only common metal which is liquid at ordinary
   - (room) temperature. Mercury is sometimes called quicksilver.
 </details>
@@ -651,7 +651,7 @@ because its especiality is –
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Mercury is easily the best liquid to use in thermometers, five
   - important reasons are –
   - (1) It is very reflective, so it's easy to see and to read
@@ -677,7 +677,7 @@ because its especiality is –
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Due to rust, the weight of iron increases as iron is converted
   - into iron oxide after chemical reaction with oxygen, in
   - presence of humidity.
@@ -720,7 +720,7 @@ explanation of
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Statement (A) is correct but statement (R) is wrong because
   - rust is iron oxide (not tannin), a usually red oxide formed
   - by the redox reaction of iron and oxygen in the presence of
@@ -755,7 +755,7 @@ classification of
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Galvanization is the process of applying a protective zinc
   - coating on steel or iron to prevent them from rusting and
   - oxidation. The zinc forms a barrier between atmospheric
@@ -779,7 +779,7 @@ iron metal?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Oxygen and moisture are essential in corrosion of iron metal.
   - Iron corrosion is generally characterized by the formation
   - of rust due to an electrochemical process in the presence of
@@ -812,7 +812,7 @@ Code:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Silver articles turn black in open air due to corrosion,
   - specifically tarnishing. The silver reacts with Sulfur
   - compounds (like hydrogen sulfide – H2
@@ -862,7 +862,7 @@ A B C D
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - The correctly matched lists are as follows :
   - List-I List-II
   - (Metal) (Property)
@@ -905,7 +905,7 @@ A B C D
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - The correctly matched lists are as follows :
   - Best conductor of heat and electricity – Silver
   - Metal found in highest amount – Aluminium
@@ -926,7 +926,7 @@ electrical conductivity ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -941,7 +941,7 @@ electrical conductivity ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -956,7 +956,7 @@ electrical conductivity ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -971,7 +971,7 @@ electrical conductivity ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -1006,7 +1006,7 @@ A B C D
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Diamond is a metastable allotrope of carbon where the carbon
   - atoms are arranged in a variation of the face-centered cubic crystal
   - structure called a diamond lattice. Marble is a metamorphic rock
@@ -1032,7 +1032,7 @@ matched?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - The correctly matched lists are as follows :
   - Aluminium – Bauxite
   - Copper – Cuprite
@@ -1053,7 +1053,7 @@ matched?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - An amalgam is a substance formed by the reaction of
   - Mercury with another metal.
 </details>
@@ -1069,7 +1069,7 @@ matched?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - The common composition of solder is around 32% Tin and
   - 68% Lead. This combination has a low melting point and is
   - useful for soldering components that are sensitive to heat.
@@ -1086,7 +1086,7 @@ matched?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Bronze is an alloy made up of Copper and another metal Tin.
   - Compositions may vary but most modern bronze is around
   - 88% Copper and 12% Tin.
@@ -1103,7 +1103,7 @@ matched?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -1118,7 +1118,7 @@ matched?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -1135,7 +1135,7 @@ percentage of Copper ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Brass consists about 68-71% Copper and rest is Zinc. Bronze
   - consists about 88% Copper and 12% Tin. German silver has
   - almost 50% Copper. Gunmetal consists about 85% Copper,
@@ -1155,7 +1155,7 @@ Bronze and German Silver?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -1170,7 +1170,7 @@ Bronze and German Silver?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -1203,7 +1203,7 @@ Code :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Statement (i) and (iii) are correct but statement (ii) and (iv)
   - are wrong because Magnetite (Fe3
   - O4
@@ -1226,7 +1226,7 @@ not used for this purpose ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Stainless steel (stain-free iron) is an alloy whose constituent
   - elements generally are approximately as follows :
   - Iron – 89.4%
@@ -1251,7 +1251,7 @@ stainless steel, is :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -1268,7 +1268,7 @@ along with iron:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -1285,7 +1285,7 @@ stainless steel?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -1302,7 +1302,7 @@ stainless steel?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - In the given options, according to the reactivity series,
   - Potassium (K) is the most reactive metal. It reacts vigorously
   - with air and water, producing a large amount of heat. The
@@ -1346,7 +1346,7 @@ stainless steel?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Zinc (Zn) is a more reactive metal than tin (Sn). This means
   - that zinc is more likely to react with other substances,
   - including the organic acids present in food. If zinc were used
@@ -1369,7 +1369,7 @@ stainless steel?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - The chemical composition of pearl is about 82 – 86%
   - Calcium Carbonate (Aragonite), 10–14% Conchiolin and
   - 2–4% of water (CaCO3
@@ -1389,7 +1389,7 @@ stainless steel?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Water has a defined density (1 gram per cubic centimetre) while
   - the lightest metals are lighter than water. They are Lithium
   - 0.53 gm/cm3
@@ -1412,7 +1412,7 @@ stainless steel?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -1429,7 +1429,7 @@ stainless steel non-magnetic ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Stainless steel becomes non-magnetic by combining the
   - alloy with Nickel, while extra Carbon is mixed to gain more
   - hardness.
@@ -1446,7 +1446,7 @@ stainless steel non-magnetic ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -1466,7 +1466,7 @@ in a fused state is called :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Metal is obtained at high temperature by the reduction of ore
   - in the process of smelting. The metal is obtained in a fused
   - state in this process.
@@ -1485,7 +1485,7 @@ a metallic element?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Calcium is a dull, grey, solid element with a silver appearance
   - which exists in the solid state. It has a high melting point
   - (1115k) and boiling point (1757 K). All these features make
@@ -1512,7 +1512,7 @@ a metallic element?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Na+
   - (Sodium ion) is not considered a true electrophile. While
   - Na+
@@ -1540,7 +1540,7 @@ a metallic element?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Paramagnetism is a form of magnetism in which some
   - material is weakly attracted by an externally applied
   - magnetic field and creates an internal, induced magnetic
@@ -1564,7 +1564,7 @@ O and Fe
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Paramagnetism, ferromagnetism and diamagnetism refer
   - to different magnetic properties of matter. Ferromagnetic
   - substances are completely attracted towards a magnetic
@@ -1599,7 +1599,7 @@ the lightest metal and the heaviest metal, respectively?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - The atomic weight and density of given metals are as followsMetals Atomic No. Atomic Weight
   - (amu)
   - Density
@@ -1637,7 +1637,7 @@ the lightest metal and the heaviest metal, respectively?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Diamond is the hardest, least compressible and best thermal
   - conductor among all natural materials.
 </details>
@@ -1655,7 +1655,7 @@ very ductile ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Nichrome (NiCr, nickel-chrome, chrome-nickel, etc.)
   - generally refers to any alloy of Nickel, Chromium and often
   - Iron and/or other elements or substances. Nichrome is very
@@ -1677,7 +1677,7 @@ very ductile ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -1693,7 +1693,7 @@ very ductile ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Among the given options, platinum is the heaviest metal with
   - a density of 21.09 g/cm3
   - .
@@ -1710,7 +1710,7 @@ very ductile ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -1725,7 +1725,7 @@ very ductile ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -1740,7 +1740,7 @@ very ductile ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Aluminium Oxide is a chemical compound of Aluminium
   - and Oxygen with the chemical formula Al2
   - O3
@@ -1769,7 +1769,7 @@ O
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - The chemical formula of sapphire (Ruby) is Al2
   - O3
   - (Aluminium Oxide). It is a precious gemstone, a variety of
@@ -1799,7 +1799,7 @@ explanation of
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Sodium is kept in kerosene to prevent it from coming in
   - contact with oxygen present in the air. If this happens, it
   - will react with the oxygen and form sodium oxide. This is a
@@ -1827,7 +1827,7 @@ Which of the above statements is/are correct?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - A noble metal is ordinarily regarded as a metallic chemical
   - element that is generally resistant to corrosion and is usually
   - found in nature in its raw form. Gold, platinum, and the other
@@ -1850,7 +1850,7 @@ Which of the above statements is/are correct?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (*)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Gold is unaffected in air, water, alkali halogen and all acids
   - except Aqua regia (a mixture of hydrochloric acid and nitric
   - Acid in a 3:1 ratio). The name Aqua-regia was coined by
@@ -1870,7 +1870,7 @@ Which of the above statements is/are correct?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - It is an extension of the older carat (Karat in American
   - spelling) system of denoting the purity of gold by fractions
   - of 24, such as '18 carat' for an alloy with 75% (18 parts
@@ -1897,7 +1897,7 @@ metal?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (E)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - In its most basic form, white metal is an alloy of lead and
   - lithium, or other metals like cadmium, bismuth, and zinc.
   - The term 'white metals' is generally used to describe a series
@@ -1919,7 +1919,7 @@ metal?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - According to Geologists, minerals are naturally occurring
   - inorganic substances with a definite and predictable chemical
   - composition and physical properties.
@@ -1939,7 +1939,7 @@ coastline, is a mineral of :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Ilmenite is a titanium-iron oxide mineral with the idealized
   - formula FeTiO3
   - . It is a weakly magnetic black or steel-gray
@@ -1964,7 +1964,7 @@ coastline, is a mineral of :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Talc is a mineral which is composed of hydrated Magnesium
   - silicate with formula Mg3
   - Si4
@@ -1989,7 +1989,7 @@ coastline, is a mineral of :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Calcium oxide (CaO), commonly known as quicklime or
   - burnt lime, is a widely used chemical compound. It is a white,
   - caustic, alkaline, crystalline solid at room temperature.
@@ -2009,7 +2009,7 @@ cement?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (E)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Cement is made with limestone, silica clay, and marl as the
   - main raw materials. Lime is the main ingredient of cement,
   - accounting for about 60 – 65% of total cement weight. Silica is
@@ -2064,7 +2064,7 @@ that explains Statement I.
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - According to United Nations regional reports and recent
   - scientific studies, the cement sector contributes about 5%-8%
   - of global anthropogenic CO2
@@ -2105,7 +2105,7 @@ that explains Statement I.
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Plaster of Paris is a white powdery slightly hydrated calcium
   - sulfate (CaSO4
   - .1/2 H2
@@ -2126,7 +2126,7 @@ that explains Statement I.
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -2141,7 +2141,7 @@ that explains Statement I.
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -2168,7 +2168,7 @@ O
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -2183,7 +2183,7 @@ O
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Monazite is an important ore for Thorium, Lanthanum
   - and Cerium. India, Madagascar and South Africa have
   - large deposits of monazite sands. The deposits in India are
@@ -2208,7 +2208,7 @@ electricity
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - (1) Good conductors of electricity are : Aluminum, Brass,
   - Copper, Iron, Steel (2) Bad conductors of electricity are :
   - Acrylic, China clay, Glass, Mica, Paper, Plastic & Wood.
@@ -2228,7 +2228,7 @@ electricity
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - All metals are conductors of heat but lead and mercury are
   - poor conductors of heat compared to other metals. Thermal
   - conductivity of lead is about 34.7 w/mK while thermal
@@ -2249,7 +2249,7 @@ temperature?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - There are two elements Bromine and Mercury that are liquid
   - at the room temperature (298 K or 25o
   - C). There are four
@@ -2270,7 +2270,7 @@ temperature?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Metals like potassium and sodium react violently with cold
   - water. The reaction of calcium with water is less violent.
   - Magnesium does not react with cold water but it reacts
@@ -2292,7 +2292,7 @@ temperature?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -2307,7 +2307,7 @@ temperature?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Iron ores are rocks and minerals from which metallic iron can
   - be economically extracted. The ores are usually rich in iron
   - oxides and the iron is usually found in the form of magnetite
@@ -2330,7 +2330,7 @@ temperature?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Bailadila range of mines is perched on the southern tip of
   - Chhattisgarh in Dantewada district. Very high grade iron ore
   - haematite is mined at Bailadila. The association of very rich
@@ -2352,7 +2352,7 @@ temperature?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -2368,7 +2368,7 @@ temperature?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -2385,7 +2385,7 @@ rust because the existence of –
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -2400,7 +2400,7 @@ rust because the existence of –
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -2415,7 +2415,7 @@ rust because the existence of –
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Galvanized iron is iron coated with a layer of zinc (Zn) to
   - protect it from rusting. The zinc layer reacts with free fatty
   - acids and moisture present in oil and can form toxic zinc
@@ -2443,7 +2443,7 @@ utensils to prevent copper contamination?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - The coating of tin on brass utensils prevents copper contamination. Tin is a soft and white metal like silver. Its symbol
   - is Sn with atomic no. 50.
 </details>
@@ -2461,7 +2461,7 @@ the deposition of a layer of –
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Anodizing is an electrochemical process by which the surface
   - of a metal is made durable and rust resistant. In this process,
   - a layer of aluminium oxide is deposited on aluminium.
@@ -2482,7 +2482,7 @@ power of these metals would be :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - The more negative standard electrode potential of a metal,
   - the greater its tendency to be oxidised (lose electrons) and
   - act as a stronger reducing agent.
@@ -2506,7 +2506,7 @@ production of Aluminium?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Bauxite is an ore of aluminium, which is found in the form
   - of hydrated aluminium oxides. It is used as a principal
   - raw material in aluminium industry. It consists mostly of
@@ -2529,7 +2529,7 @@ production of Aluminium?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -2546,7 +2546,7 @@ principal raw material?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -2563,7 +2563,7 @@ important ores ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Bauxite (Al2
   - O3
   - .2H2
@@ -2593,7 +2593,7 @@ lime
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - The precipitated calcium carbonates (PCCs) and ground
   - calcium carbonates (GCCs) are used for general purpose
   - toothpaste specially dentifrices and other oral care products.
@@ -2640,7 +2640,7 @@ A B C D
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Cracking – Petroleum
   - Smelting – Copper
   - Hydrogenation – Edible Fats
@@ -2662,7 +2662,7 @@ densities?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Substance Density (gram/cm3
   - )
   - Gold
@@ -2688,7 +2688,7 @@ densities?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Melting point of Boron – 2453 K, Iron – 1808 K, Silicon –
   - 1693 K and Aluminium – 933 K. Hence, among the given
   - options, Boron has highest melting point.
@@ -2705,7 +2705,7 @@ densities?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Copper is a metal, however steel, brass and bronze are alloys.
 </details>
 
@@ -2722,7 +2722,7 @@ parts of the compartment of the train?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Low density and strength make aluminium ideal for
   - construction of aircraft, lightweight vehicles and ladders.An
   - alloy of aluminium called Duralumin is often used instead
@@ -2742,7 +2742,7 @@ parts of the compartment of the train?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - An amalgam is a substance formed by the reaction of
   - mercury with another metal. Almost all metals can form
   - amalgams with mercury, the notable exception being iron.
@@ -2759,7 +2759,7 @@ parts of the compartment of the train?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -2790,7 +2790,7 @@ A B C D
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - German Silver or Nickel silver is an alloy consisting of Copper (around 60%), Zinc (around 20%) and Nickel (around
   - 20%). It doesn't have Silver. Solder of Tin and Lead is known
   - as soft solder. The chemical name of bleaching powder is
@@ -2812,7 +2812,7 @@ Silver?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -2829,7 +2829,7 @@ the German Silver?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -2844,7 +2844,7 @@ the German Silver?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -2860,7 +2860,7 @@ the German Silver?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -2875,7 +2875,7 @@ the German Silver?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Hydrogen Sulphide is responsible for fading of Brass.
 </details>
 
@@ -2890,7 +2890,7 @@ the German Silver?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Steels are alloys of Iron and other elements primarily Carbon
   - and are widely used in construction and other area. Carbon
   - mixed in Iron as a hardening agent which strengthens Iron
@@ -2917,7 +2917,7 @@ Select the correct answer using the code given below:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Steel slag is an unavoidable by-product in iron and steel
   - production. Steel slags are produced at steel melting shop
   - during steel manufacturing. In steel slags, total iron content
@@ -2957,7 +2957,7 @@ high hardness and abrasion resistance ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Stainless steel is a steel alloy with Chromium content. The
   - presence of Chromium protects steel from corrosion, rust
   - and make it high-temperature resistant.
@@ -2974,7 +2974,7 @@ high hardness and abrasion resistance ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -2990,7 +2990,7 @@ high hardness and abrasion resistance ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (E)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -3005,7 +3005,7 @@ high hardness and abrasion resistance ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Steel is an alloy of iron and carbon containing upto 2%
   - carbon. Hence, among the given options, option (a) is the
   - correct answer.
@@ -3464,7 +3464,7 @@ high hardness and abrasion resistance ?
 
 ## Common Traps & High-Yield Pitfalls
 
-| Trap Area | What Students Confuse | Accurate Exam Fact |
+| Trap Area | What Students Confuse | Correct Fact |
 |---|---|---|
 | **German Silver Silver Content** | Believing German Silver contains a low percentage of silver (e.g., 2–5%). | German Silver contains **$0\%\text{ Silver}$** ($Cu + Zn + Ni$). It is named solely for its silvery appearance. |
 | **Allotrope Stability** | Assuming diamond is the most stable form of carbon because it is the hardest. | **Graphite is thermodynamically most stable** at STP ($\Delta_f H^\circ = 0$). Diamond is metastable ($\Delta_f H^\circ = +1.9\text{ kJ/mol}$). |

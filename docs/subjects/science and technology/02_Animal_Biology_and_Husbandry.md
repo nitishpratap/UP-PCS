@@ -1,5 +1,5 @@
 # Topic 2 — Animal Biology and Husbandry
-### ★ UPPCS Revision Sheet — Lucent / PW Coaching Style (Dense Locks · Zero Fluff · Practice ≥25)
+### ★ UPPCS Revision Sheet — Lucent / PW Coaching Style (Lucent / PW style · Practice ≥25)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -14,9 +14,9 @@ Animal Body Structure & Physiology | Herbivore, Carnivore & Omnivore Digestion (
 
 ---
 
-## Current Affairs & Exam Locks
+## Current Affairs
 
-| Year | Event / Fact | High-Yield Exam Lock |
+| Year | Event / Fact | Must-Score Fact |
 |------|-------------|----------------------|
 | **2024–25** | **21st Livestock Census** field enumeration conducted from **October 2024 to February 2025** by Ministry of Fisheries, Animal Husbandry & Dairying. | Livestock census in India started in **1919** and is conducted every **5 years**; 20th census was in 2019 (India #1 in total livestock and buffalo population). |
 | **2025** | Asiatic Lion Population Estimation (Gujarat Forest Department, May 2025) counted **891 lions**, up from **674 in 2020** (+32% growth). | Asiatic lion (*Panthera leo persica*) survives in the wild **only in the Greater Gir landscape** of Gujarat; listed as Endangered on IUCN Red List. |
@@ -52,7 +52,7 @@ Animal Body Structure & Physiology | Herbivore, Carnivore & Omnivore Digestion (
 19. **Ant Biology**: Ants inject **Formic acid** ($HCOOH$, simple carboxylic acid) when they bite. Ants have the **largest brain relative to body size** in the animal kingdom. Leafcutter ants (*Attini*) actively **cultivate fungi** for food.
 20. **Mollusca** is the second largest animal phylum; soft-bodied, unsegmented animals usually enclosed in a calcareous shell ($CaCO_3$); possess a sensory rasping tongue-like feeding organ called **Radula** and a fleshy muscular foot; true pearls are harvested from the marine pearl oyster (***Pinctada vulgaris***, class Bivalvia/Pelecypoda).
 21. **Cephalopods**: **Octopus (Devilfish)** has 8 arms with suckers, camera eyes, and no external shell. **Colossal Squid (*Mesonychoteuthis hamiltoni*)** and **Giant Squid (*Architeuthis dux*)** are the largest living invertebrates.
-22. **False Fish vs True Fish (Crucial Exam Lock)**:
+22. **False Fish vs True Fish (Must-Score Fact)**:
     - **NOT true fishes**: Jellyfish (Cnidaria), Starfish (Echinodermata), Silverfish (Insecta), Cuttlefish (Mollusca), Hagfish (Jawless cyclostome chordate), Devilfish / Octopus (Mollusca), Crayfish (Crustacea).
     - **TRUE fishes**: **Seahorse (*Hippocampus*)** (bony fish, male carries eggs in brood pouch), **Dogfish / Scoliodon** (cartilaginous shark, **0 bones** in skeleton!), **Catfish** (ray-finned bony fish with sensory barbels), **Golden Mahseer (*Tor putitora*)** (Himalayan cyprinid fish, NOT a bird!), Sawfish, Pipefish, Guitarfish, Flying fish (*Exocoetus*).
 23. **Fishes in Frozen Lakes**: Lakes freeze only at the surface; because water reaches maximum density at $4^\circ\text{C}$, the bottom water remains liquid ($>0^\circ\text{C}$), allowing fish and aquatic life to survive under the ice shield. Fish die outside water because gills collapse and cannot absorb gaseous oxygen.
@@ -109,7 +109,7 @@ Animal Body Structure & Physiology | Herbivore, Carnivore & Omnivore Digestion (
 
 ## Confused Pairs
 
-| Concept A | Concept B | Core Distinguishing Exam Fact | Hindi Key |
+| Concept A | Concept B | Core Distinguishing Fact | Hindi Key |
 |-----------|-----------|-------------------------------|-----------|
 | **Insect (Hexapoda)** | **Arachnid (Spider/Scorpion)** | 3 pairs of legs (6 legs), 3 body segments, antennae, wings vs **4 pairs of legs (8 legs)**, 2 body segments, no wings, no antennae | कीट (6 पैर) / अष्टपाद (8 पैर) |
 | **Cockroach Blood (Haemolymph)** | **Earthworm Blood** | Colourless/white, lacks haemoglobin vs red, haemoglobin dissolved in plasma (no RBCs) | तिलचट्टा रक्त / केंचुआ रक्त |
@@ -138,7 +138,7 @@ Animal Body Structure & Physiology | Herbivore, Carnivore & Omnivore Digestion (
 
 ### Major Invertebrate & Vertebrate Phyla
 
-| Phylum / Class | Diagnostic Anatomical Feature | Classic Exam Representative |
+| Phylum / Class | Diagnostic Anatomical Feature | Classic Classic Representative |
 |----------------|------------------------------|-----------------------------|
 | **Porifera** | Cellular level, ostia, osculum, collar cells (choanocytes) | *Sycon*, *Spongilla* (freshwater), *Euspongia* (bath sponge) |
 | **Cnidaria** | Cnidoblasts, radial symmetry, metagenesis (polyp & medusa) | *Hydra*, *Aurelia* (jellyfish), *Metridium* (sea anemone) |
@@ -308,7 +308,7 @@ Animal Body Structure & Physiology | Herbivore, Carnivore & Omnivore Digestion (
 - **Phylum Echinodermata (Spiny-Skinned Animals / शूलचर्मी जन्तु)**:
   - Exclusively marine deuterostomes; adults show **pentamerous radial symmetry**, larvae are bilateral; possess a calcareous endoskeleton of ossicles/spines.
   - **Water Vascular (Ambulacral) System**: Hydraulic network operating suction-cup **Tube Feet (Podia)** for locomotion and food capture.
-  - *Exam lock*: **All echinoderms are NOT viviparous — they are typically oviparous with external fertilisation and indirect development with free-swimming larvae.**
+  - **Logic:** **All echinoderms are NOT viviparous — they are typically oviparous with external fertilisation and indirect development with free-swimming larvae.**
   - Examples: *Asterias* (Starfish), *Echinus* (Sea urchin), *Holothuria* (Sea cucumber), *Ophiura* (Brittle star).
 - **Feeding Strategies — Detritivores vs Filter Feeders**:
   - **Detritivores**: Heterotrophs that feed on dead and decaying organic matter (detritus), aiding remineralisation: **Earthworms, Millipedes, Woodlice, Dung flies, Slugs**. (Seahorses and Jellyfish are secondary consumers/predators, NOT detritivores).
@@ -359,7 +359,7 @@ Animal Body Structure & Physiology | Herbivore, Carnivore & Omnivore Digestion (
 | **Rat Flea (*Xenopsylla cheopis*)** | *Yersinia pestis* (Pasteurella) | **Bubonic Plague (Black Death)** | Bacterium |
 | **Body Louse (*Pediculus humanus*)**| *Rickettsia prowazekii* | **Epidemic Typhus** | Bacterium (Rickettsia) |
 
-> **Exam note:** UPPCS 2018 tested: Silk, honey, and lac are obtained from insects; **Pearl** is obtained from a mollusc (pearl oyster), **not** an insect.
+> **Note:** UPPCS 2018 tested: Silk, honey, and lac are obtained from insects; **Pearl** is obtained from a mollusc (pearl oyster), **not** an insect.
 
 ---
 
@@ -371,9 +371,9 @@ Animal Body Structure & Physiology | Herbivore, Carnivore & Omnivore Digestion (
   - **Bony Fish (Osteichthyes)**: Skeleton of bone; terminal mouth; cycloid scales; 4 pairs of gills covered by a bony **Operculum**; possess an **Air Bladder / Swim Bladder** regulating buoyancy:
     - *Hippocampus* (**Seahorse** — bony fish, vertical swimming, male carries fertilised eggs in brood pouch).
     - *Clarias* (**Catfish** — order Siluriformes, prominent whisker-like sensory barbels).
-    - ***Tor putitora* (Golden Mahseer)**: Endangered cyprinid **fish** of rapid Himalayan rivers (frequently confused in exams as a bird; it is a true fish!).
+    - ***Tor putitora* (Golden Mahseer)**: Endangered cyprinid **fish** of rapid Himalayan rivers (frequently confused in PSCs as a bird; it is a true fish!).
     - *Exocoetus* (Flying fish), Pipefish, Paddlefish, Guitarfish, Globefish.
-  - **Master Lock — Animals Named "Fish" That Are NOT True Fish**:
+  - **Master Fact — Animals Named "Fish" That Are NOT True Fish**:
     - **Starfish (*Asterias*)**: Phylum Echinodermata (no gills, fins, or scales).
     - **Jellyfish (*Aurelia*)**: Phylum Cnidaria / Coelenterata (diploblastic medusa).
     - **Silverfish (*Lepisma*)**: Phylum Arthropoda, Class Insecta (wingless nocturnal insect).
@@ -427,7 +427,7 @@ Animal Body Structure & Physiology | Herbivore, Carnivore & Omnivore Digestion (
   - **Absence of Gallbladder**: Animals lacking a gallbladder include: all members of the **deer family (except musk deer)**, **equines (horses, zebras)**, camels, giraffes, elephants, rhinoceroses, whales, doves, and rats.
   - **Hooves vs Claws**: Horses, cattle, deer have hooves; **Jackal (*Canis aureus*)** belongs to Canidae and has **padded feet with claws, NO hooves**.
   - **Nilgai (*Boselaphus tragocamelus*)**: Largest Asian **antelope** (family Bovidae, hollow permanent horns); NOT a cow.
-  - **Big Cat Wildlife Locks**:
+  - **Big Cat Wildlife Facts**:
     - Scientific names: Leopard (***Panthera pardus***), Lion (*Panthera leo*), Tiger (*Panthera tigris*), Snow Leopard (*Panthera uncia*), Jaguar (*Panthera onca*).
     - Lions have **no specific breeding season** (breed year-round in captivity, every 2 years in wild).
     - **Cheetahs do NOT roar** (they growl, chirp, purr, and meow).
@@ -467,7 +467,7 @@ Animal Body Structure & Physiology | Herbivore, Carnivore & Omnivore Digestion (
 - **Chemical Nature of Natural Silk**:
   - **Fibroin (75–80%)**: Insoluble crystalline core structural protein composed predominantly of the amino acids **Glycine, Alanine, and Serine** in anti-parallel $\beta$-pleated sheets; gives silk its exceptional tensile strength and softness.
   - **Sericin (20–25%)**: Amorphous, water-soluble globular sticky gelatinous protein that coats and cements the two fibroin filaments together.
-  - *Exam lock*: Natural silk is a pure protein and therefore **always contains Nitrogen** (~17%); cotton contains zero nitrogen because it is pure plant carbohydrate (cellulose). Spider dragline silk is also an exceptionally strong protein.
+  - **Logic:** Natural silk is a pure protein and therefore **always contains Nitrogen** (~17%); cotton contains zero nitrogen because it is pure plant carbohydrate (cellulose). Spider dragline silk is also an exceptionally strong protein.
 - **The Four Commercial Silks of India**:
   - **Mulberry Silk**: Reared on cultivated White Mulberry (*Morus alba*); softest, finest, white or creamy yellow; accounts for **~70% of total Indian silk production**; **Karnataka is #1** (Mysuru, Mandya, Ramanagara), followed by Andhra Pradesh and West Bengal. Central Silk Board headquarters is located at **Bengaluru**.
   - **Tasar Silk (Tussar)**: Wild forest vanya silk obtained from ***Antheraea mylitta***; caterpillars feed on leaves of Arjun (*Terminalia arjuna*) and Asan (*Terminalia tomentosa*); coarse, copper-brown, porous; **Jharkhand is #1** (encapsulating Santhal Parganas and Chaibasa), followed by Chhattisgarh and Odisha.
@@ -1954,3 +1954,16 @@ D. Kaziranga National Park
 **Detailed Explanation:**
 - The Asiatic lion lives exclusively in the Gir forest and surrounding districts of the Saurashtra peninsula in Gujarat.
 </details>
+
+## Common Traps & Negative-Marking Eliminators
+
+1. **Pearl source**: Pearl comes from a **mollusc** (oyster), not an insect — silk, honey, and lac are insect products.
+2. **Animals named fish that are not fish**: Jellyfish, starfish, cuttlefish, crayfish, shellfish — none are true fishes.
+3. **Cold-blooded vs warm-blooded**: Amphibians and reptiles are **poikilotherms**; birds and mammals are **homeotherms**.
+4. **Marsupial vs placental**: Kangaroo is marsupial; whale and bat are placental mammals.
+5. **Natural silk**: Pure protein, so it **contains nitrogen**; cotton has none.
+6. **Honey bee caste**: Queen and workers are female; drones are male — drones develop from **unfertilised eggs** (parthenogenesis).
+7. **Lac insect**: *Kerria lacca* on host trees; lac is a **resinous secretion**, not a plant gum.
+8. **Snake locomotion**: Snakes have no limbs; movement uses **ribs and ventral scales**, not "legs that folded away" as a living trait.
+9. **Bird bones**: Pneumatic (air-filled) bones reduce weight — do not mark them as "solid heavy bones".
+10. **Ruminant stomach**: Four chambers — rumen, reticulum, omasum, abomasum; **abomasum** is the true glandular stomach.

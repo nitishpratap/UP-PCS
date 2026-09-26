@@ -1,24 +1,24 @@
 # Topic 2 — Mechanics, Gravitation and Physical Properties of Matter
-### ★ UPPCS Revision Sheet — Lucent / PW Coaching Style (Dense Locks · Zero Fluff · Practice ≥25)
+### ★ UPPCS Revision Sheet — Lucent / PW Coaching Style (Lucent / PW style · Practice ≥25)
 > **Direct Syllabus Mapping**: General Science — Mechanics (Mass, Weight, Kinematics, Newton's Laws of Motion, Momentum, Work, Power, Energy, Friction, Circular Motion), Gravitation (Kepler's Laws, Universal Gravitation, Acceleration due to Gravity $g$, Satellites, Escape Velocity), Oscillations (Simple Harmonic Motion, Pendulums), and Physical Properties of Matter (Elasticity, Plasticity, Hooke's Law, Moduli of Elasticity, Surface Tension, Cohesion & Adhesion, Capillarity, Viscosity, Hydrostatic Pressure, Torricelli's Law, Archimedes' Principle, Laws of Floatation, Relative Density).  
-> **Key Exam Focus**: Marginal friction numericals (71st BPSC 2025), Force on truck & work done by oxen (71st BPSC 2025), Bulk Modulus of rigid body = $\infty$ (UKPCS 2025), Thermal expansion dimensions $K^{-1}$ (UKPCS 2025), Stretching of spring coil determined by Shear Modulus (UP RO/ARO 2023), Gas liquefaction conditions (70th BPSC 2024), Moon lack of atmosphere ($V_e < v_{\text{rms}}$), Elevator apparent weight, Iceberg floating ratios, Water density anomalies at $4^\circ\text{C}$ ($277\text{ K}$), Surface tension phenomena (soap bubble excess pressure, rain droplets, oil on water, needle floating), Capillarity examples, Viscosity trends with temperature, and Pendulum seasonal/altitude variations.
+> **Key Must-Score Focus**: Marginal friction numericals (71st BPSC 2025), Force on truck & work done by oxen (71st BPSC 2025), Bulk Modulus of rigid body = $\infty$ (UKPCS 2025), Thermal expansion dimensions $K^{-1}$ (UKPCS 2025), Stretching of spring coil determined by Shear Modulus (UP RO/ARO 2023), Gas liquefaction conditions (70th BPSC 2024), Moon lack of atmosphere ($V_e < v_{\text{rms}}$), Elevator apparent weight, Iceberg floating ratios, Water density anomalies at $4^\circ\text{C}$ ($277\text{ K}$), Surface tension phenomena (soap bubble excess pressure, rain droplets, oil on water, needle floating), Capillarity examples, Viscosity trends with temperature, and Pendulum seasonal/altitude variations.
 
 ---
 
-## Current Affairs & Exam Locks
+## Current Affairs
 - **Confirmed Moons Count in Solar System (2026 IAU Data)**:
   - **Saturn**: Maximum number of confirmed satellites in the solar system = **285 moons** (leading the solar system).
   - **Jupiter**: **101 confirmed moons** (Ganymede, Callisto, Io, Europa).
   - **Uranus**: 29 moons; **Neptune**: 16 moons; **Mars**: 2 moons (Phobos & Deimos); **Earth**: 1 moon; **Mercury & Venus**: 0 moons; Dwarf planet **Pluto**: 5 moons.
-- **71st BPSC (Pre 2025) Mechanics & Fluid Locks**:
+- **71st BPSC (Pre 2025) Mechanics & Fluid Facts**:
   - *Marginal Kinetic Friction*: Pushing a wooden box with $200\text{ N}$ force at constant velocity ($a = 0$) $\implies$ Marginal frictional force = **$200\text{ N}$** (net force is zero).
   - *Truck Force*: A 7-ton truck ($7,000\text{ kg}$) covers $400\text{ m}$ from rest in $20\text{ s} \implies a = 2\text{ m/s}^2 \implies F = ma =$ **$14,000\text{ N}$**.
   - *Oxen Work*: A pair of oxen exerts $140\text{ N}$ over a $15\text{ m}$ field $\implies W = 140 \times 15 =$ **$2100\text{ Joules}$**.
   - *Energy Conservation in Free Fall*: Potential energy decreases while kinetic energy increases; total mechanical energy is strictly conserved.
-- **UKPCS (Pre 2025) Elasticity & Thermal Locks**:
+- **UKPCS (Pre 2025) Elasticity & Thermal Facts**:
   - *Bulk Modulus for Perfectly Rigid Body*: **Infinite ($\infty$)**. Since volumetric strain is zero ($\Delta V = 0$), $K = -\Delta P / (\Delta V / V) = \infty$.
   - *Coefficients of Thermal Expansion*: Linear ($\alpha$), Superficial ($\beta$), and Volumetric ($\gamma$) expansion coefficients all have dimensions **$K^{-1}$ ($[M^0 L^0 T^0 K^{-1}]$)**.
-- **UP RO/ARO (Pre 2023) Moduli of Elasticity Locks**:
+- **UP RO/ARO (Pre 2023) Moduli of Elasticity Facts**:
   - *Young's Modulus*: Steel has a **higher Young's Modulus than rubber** (Steel is more elastic than rubber).
   - *Stretching of a Helical Coil*: Governed by **Shear Modulus (Modulus of Rigidity)** because pulling a coil alters the shape of the wire without changing its length or volume.
 - **70th BPSC (Pre 2024) Gas Liquefaction Condition**:
@@ -98,18 +98,119 @@
 | **Viscosity of Liquid vs Gas** | With increasing temperature, liquid viscosity **decreases**, but gas viscosity **increases** due to greater molecular momentum exchange. |
 | **Capillary Rise vs Depression** | Water wets glass (acute angle) $\implies$ **capillary rise** with concave meniscus. Mercury does not wet glass (obtuse angle) $\implies$ **capillary depression** with convex meniscus. |
 | **Excess Pressure: Drop vs Bubble** | Liquid drop (one surface): $\Delta P = \frac{2T}{R}$. Soap bubble (two surfaces, inner & outer): $\Delta P = \frac{4T}{R}$. |
-| **Iron Ball in Water vs Mercury** | Iron ball sinks in water ($	ext{density } 7.8 > 1.0\text{ g/cm}^3$) but floats in mercury ($	ext{density } 7.8 < 13.6\text{ g/cm}^3$). |
+| **Iron Ball in Water vs Mercury** | Iron ball sinks in water ($\text{density } 7.8 > 1.0\text{ g/cm}^3$) but floats in mercury ($\text{density } 7.8 < 13.6\text{ g/cm}^3$). |
 | **Iceberg in Freshwater vs Seawater** | In freshwater, $1/10\text{th}$ is above surface ($90\%$ submerged). In denser seawater, $\approx 1/9\text{th}$ is above surface. |
 | **Straw vs Blotting Paper** | Blotting paper absorbs ink by **capillarity**. Drinking through a straw operates by **atmospheric pressure difference** created by mouth suction, NOT capillarity. |
 
 ---
+
+## Teaching Cards — Mechanics and Properties of Matter
+
+## 2.1 Motion — Distance, Speed and Acceleration
+
+**Kinematics** describes motion using distance, displacement, speed, velocity and acceleration without naming the force that causes it.
+
+- **Distance** is the actual path length; it is a scalar and is never negative.
+- **Displacement** is the shortest straight-line change of position; it is a vector and can be zero after a round trip.
+- **Speed** is distance per unit time; **velocity** is displacement per unit time and has direction.
+- For equal distance halves at speeds $v_1$ and $v_2$, average speed is the harmonic mean $\dfrac{2v_1 v_2}{v_1+v_2}$.
+- Under constant acceleration, $v = u + at$, $s = ut + \tfrac{1}{2}at^2$, and $v^2 = u^2 + 2as$.
+- In free fall from rest (neglecting air), $v = \sqrt{2gh}$ and all masses fall with the same $g$ in vacuum.
+
+## 2.2 Newton’s Laws and Momentum
+
+**Newton’s laws** link force to the change of motion of a body.
+
+- The first law is inertia: a body keeps its state of rest or uniform motion unless a net force acts.
+- A passenger leans back when a bus starts and leans forward on sudden braking because of inertia.
+- The second law is $F = \dfrac{dp}{dt} = ma$; impulse $F\Delta t$ equals change of momentum.
+- A goalkeeper pulls the hands back while catching to increase $\Delta t$ and reduce impact force.
+- The third law says action and reaction are equal, opposite, and act on **two different bodies**.
+- On frictionless ice, blowing air forward produces a backward reaction that moves the body.
+
+## 2.3 Friction and Circular Motion
+
+**Friction** opposes relative motion at contact; circular motion needs a centre-seeking force.
+
+- Hierarchy: **static friction $>$ kinetic friction $>$ rolling friction**.
+- A loaded cart is harder to start than to keep moving because limiting static friction is larger.
+- Ball bearings convert sliding friction into rolling friction by reducing contact area.
+- At constant velocity, net force is zero, so applied force equals kinetic friction.
+- **Centripetal force** $mv^2/r$ is real and inward; **centrifugal force** is the outward inertial force in a rotating frame.
+- On an unbanked curve, excess speed makes the vehicle skid outward and can overturn about the outer wheels.
+
+## 2.4 Work, Power and Energy
+
+**Work** transfers energy by a force acting through a displacement.
+
+- $W = Fs\cos\theta$; work is zero when force is perpendicular to displacement.
+- Power is $P = W/t = Fv$; $1\text{ hp} = 746\text{ W}$.
+- Kinetic energy is $\tfrac{1}{2}mv^2$; gravitational potential energy near Earth is $mgh$.
+- Mechanical energy is conserved when non-conservative work (like friction heat loss) is absent.
+- Simple machines let you use a smaller effort for the same work; they do not create energy.
+
+## 2.5 Gravitation, Satellites and Escape
+
+**Gravitation** is the mutual attraction between masses, governed by Newton’s inverse-square law.
+
+- Kepler’s first law: planets move in ellipses with the Sun at one focus.
+- Kepler’s second law: areal velocity is constant — fastest at perihelion, slowest at aphelion.
+- Kepler’s third law: $T^2 \propto a^3$.
+- $g = GM/R^2$ is independent of the falling object’s mass; it is larger at poles than at the equator.
+- Orbital speed near Earth is about $7.92\text{ km/s}$; escape speed is about $11.2\text{ km/s} = \sqrt{2}\,V_o$.
+- The Moon lacks a lasting atmosphere because lunar escape speed is lower than the typical thermal speed of light gases.
+- In an elevator, apparent weight is $m(g+a)$ when accelerating up and $m(g-a)$ when accelerating down; free fall gives weightlessness.
+
+## 2.6 Pendulum and Simple Harmonic Motion
+
+**A simple pendulum** approximates SHM for small angles.
+
+- Period $T = 2\pi\sqrt{l/g}$ does **not** depend on bob mass.
+- Longer length or smaller $g$ increases period.
+- In summer a metal rod expands, $l$ rises, clocks with pendulums **lose** time; in winter they **gain** time.
+- A seconds pendulum has $T = 2\text{ s}$ and length about $1\text{ m}$ on Earth.
+
+## 2.7 Elasticity and Moduli
+
+**Elasticity** is the ability to regain original shape after the deforming force is removed.
+
+- Hooke’s law: within the proportional limit, stress is proportional to strain.
+- Stress $= F/A$ (pascal); strain $= \Delta L/L$ is dimensionless.
+- **Steel is more elastic than rubber** because steel has a much higher Young’s modulus.
+- Bulk modulus of a perfectly rigid body is **infinite** because volumetric strain is zero.
+- Stretching a helical spring coil is governed mainly by the **shear modulus**.
+
+## 2.8 Surface Tension and Capillarity
+
+**Surface tension** makes a liquid surface behave like a stretched membrane.
+
+- Drops and bubbles become spherical to minimise surface area.
+- Surface tension falls with rising temperature and is zero at the critical temperature.
+- Excess pressure for a liquid drop is $2T/R$; for a soap bubble (two surfaces) it is $4T/R$.
+- When two soap bubbles connect, air flows from the smaller (higher pressure) to the larger.
+- **Cohesion** is like-with-like attraction; **adhesion** is unlike-with-unlike attraction.
+- Water rises in a clean glass capillary; mercury shows capillary depression.
+- Oil on water spreads because water’s surface tension is higher; a straw drink works by suction, **not** capillarity.
+
+## 2.9 Viscosity and Fluid Statics
+
+**Viscosity** is internal friction between fluid layers; fluid statics covers pressure and buoyancy.
+
+- In streamlined pipe flow, speed is zero at the wall and maximum on the axis.
+- Liquid viscosity **decreases** with temperature; gas viscosity **increases** with temperature.
+- Relative viscosity order: honey $>$ glycerine $>$ blood $>$ water $>$ air.
+- Pascal’s law: pressure in a confined liquid transmits undiminished — basis of hydraulic brakes and presses.
+- Torricelli’s law: efflux speed at depth $h$ is $\sqrt{2gh}$.
+- Archimedes’ principle: upthrust equals weight of fluid displaced.
+- A floating ice cube melting in water leaves the water level **unchanged**.
+- A ship rising from river to sea floats slightly higher because seawater is denser.
 
 ---
 
 ## Master Tables & Core Formulations
 
 ### Table 1: Master Formula Matrix for Kinematics & Mechanics
-| Concept / Law | Formula / Relationship | Exam Key Points |
+| Concept / Law | Formula / Relationship | Key Points |
 |---|---|---|
 | **Kinematic Equations (Uniform Acceleration)** | $v = u + at$ <br> $s = ut + \frac{1}{2}at^2$ <br> $v^2 = u^2 + 2as$ | For free fall under gravity from rest ($u=0$): $v = gt$, $h = \frac{1}{2}gt^2$, $v = \sqrt{2gh}$. |
 | **Displacement in $n^{\text{th}}$ second** | $s_n = u + \frac{a}{2}(2n - 1)$ | Ratio of distances in successive seconds from rest: $1 : 3 : 5 : 7 : \dots$ (Galileo's odd-number rule). |
@@ -161,7 +262,7 @@
 ---
 
 ### Table 4: Mechanical Properties of Solids & Fluids Master Formulations
-| Quantity / Law | Mathematical Expression | SI Unit / Dimensions | Exam Core Lock |
+| Quantity / Law | Mathematical Expression | SI Unit / Dimensions | Must-Score Core Fact |
 |---|---|---|---|
 | **Hooke's Law** | $\text{Stress} = E \times \text{Strain}$ | $N/m^2$ or $Pa$ | Valid within proportional elastic limit. |
 | **Young's Modulus ($Y$)** | $Y = \frac{F/A}{\Delta L/L} = \frac{F L}{A \Delta L}$ | $N/m^2$ ($[M^1 L^{-1} T^{-2}]$) | Longitudinal elasticity; $Y_{\text{steel}} > Y_{\text{rubber}}$. |
@@ -180,7 +281,7 @@
 ---
 
 ### Table 5: Buoyancy, Density & Floatation Phenomena Master Matrix
-| Phenomenon / System | Underlying Physical Mechanism | Exam Consequence & Rule |
+| Phenomenon / System | Underlying Physical Mechanism | Must-Score Consequence & Rule |
 |---|---|---|
 | **Iron nail sinks, iron ship floats** | Ship hull encloses vast air volume, lowering overall average density below water; displaced water weight equals ship weight. | Archimedes' Principle; solid iron density ($7.8\text{ g/cm}^3$) $>$ water ($1.0\text{ g/cm}^3$). |
 | **Iron ball on Mercury vs Water** | Density hierarchy: $\rho_{\text{water}} (1.0) < \rho_{\text{iron}} (7.8) < \rho_{\text{mercury}} (13.6)$. | Iron sinks in water but floats on mercury. |
@@ -1211,184 +1312,384 @@ Increasing container volume allows gas molecules to disperse over greater space.
 ---
 
 ## Practice Zone — UPPCS Format Drill
-1. **Why does an iron needle float horizontally on water when placed carefully, but sink when pushed under?**  
+**Q1.** **Why does an iron needle float horizontally on water when placed carefully, but sink when pushed under?**  
    A. Archimedes buoyant force  
    B. Surface tension of the water surface film  
    C. Viscous upthrust  
-   D. Atmospheric downward pressure  
-   *Answer*: **B** (Surface tension forms an elastic skin; once submerged, density $7.8 > 1.0$ causes sinking).
+   D. Atmospheric downward pressure
 
-2. **The Bulk Modulus of an ideal incompressible fluid is:**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** (Surface tension forms an elastic skin; once submerged, density $7.8 > 1.0$ causes sinking).
+
+**Logic:** (Surface tension forms an elastic skin; once submerged, density $7.8 > 1.0$ causes sinking).
+
+</details>
+
+**Q2.** **The Bulk Modulus of an ideal incompressible fluid is:**  
    A. Zero  
    B. Unity  
    C. Infinite ($\infty$)  
-   D. Negative  
-   *Answer*: **C** (Incompressible $\implies \Delta V = 0 \implies K = \infty$).
+   D. Negative
 
-3. **When a drop of oil is placed on clean water, it spreads into a thin film because:**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **C** (Incompressible $\implies \Delta V = 0 \implies K = \infty$).
+
+**Logic:** (Incompressible $\implies \Delta V = 0 \implies K = \infty$).
+
+</details>
+
+**Q3.** **When a drop of oil is placed on clean water, it spreads into a thin film because:**  
    A. Oil has higher surface tension than water  
    B. Water has higher surface tension than oil  
    C. Oil is denser than water  
-   D. Viscosity of oil is lower than water  
-   *Answer*: **B** (Water's higher surface tension pulls the oil film outward).
+   D. Viscosity of oil is lower than water
 
-4. **In a capillary tube of radius $r$, water rises to height $h$. If the tube radius is halved, water rises to:**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** (Water's higher surface tension pulls the oil film outward).
+
+**Logic:** (Water's higher surface tension pulls the oil film outward).
+
+</details>
+
+**Q4.** **In a capillary tube of radius $r$, water rises to height $h$. If the tube radius is halved, water rises to:**  
    A. $h/2$  
    B. $h$  
    C. $2h$  
-   D. $4h$  
-   *Answer*: **C** (Jurin's Law: $h \propto 1/r$).
+   D. $4h$
 
-5. **Which property of a solid determines the extension and behavior of a helical spring under load?**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **C** (Jurin's Law: $h \propto 1/r$).
+
+**Logic:** (Jurin's Law: $h \propto 1/r$).
+
+</details>
+
+**Q5.** **Which property of a solid determines the extension and behavior of a helical spring under load?**  
    A. Young's Modulus  
    B. Bulk Modulus  
    C. Shear Modulus (Modulus of Rigidity)  
-   D. Poisson's Ratio  
-   *Answer*: **C**.
+   D. Poisson's Ratio
 
-6. **The excess pressure inside a liquid drop of radius $R$ and surface tension $T$ is:**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **C**.
+
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+</details>
+
+**Q6.** **The excess pressure inside a liquid drop of radius $R$ and surface tension $T$ is:**  
    A. $T/R$  
    B. $2T/R$  
    C. $4T/R$  
-   D. $8T/R$  
-   *Answer*: **B** (A liquid drop has only one surface, so $\Delta P = 2T/R$; a soap bubble has two surfaces, so $\Delta P = 4T/R$).
+   D. $8T/R$
 
-7. **As temperature increases, what happens to the viscosity of water and air respectively?**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** (A liquid drop has only one surface, so $\Delta P = 2T/R$; a soap bubble has two surfaces, so $\Delta P = 4T/R$).
+
+**Logic:** (A liquid drop has only one surface, so $\Delta P = 2T/R$; a soap bubble has two surfaces, so $\Delta P = 4T/R$).
+
+</details>
+
+**Q7.** **As temperature increases, what happens to the viscosity of water and air respectively?**  
    A. Both increase  
    B. Both decrease  
    C. Water viscosity decreases, air viscosity increases  
-   D. Water viscosity increases, air viscosity decreases  
-   *Answer*: **C**.
+   D. Water viscosity increases, air viscosity decreases
 
-8. **A piece of pure ice floats in a glass of water. When the ice melts completely, the water level:**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **C**.
+
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+</details>
+
+**Q8.** **A piece of pure ice floats in a glass of water. When the ice melts completely, the water level:**  
    A. Rises  
    B. Falls  
    C. Remains unchanged  
-   D. First falls then rises  
-   *Answer*: **C**.
+   D. First falls then rises
 
-9. **The dimension of the coefficient of linear expansion ($\alpha$) is:**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **C**.
+
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+</details>
+
+**Q9.** **The dimension of the coefficient of linear expansion ($\alpha$) is:**  
    A. $[M^0 L^1 T^0 K^{-1}]$  
    B. $[M^0 L^0 T^0 K^{-1}]$  
    C. $[M^1 L^0 T^0 K^{-1}]$  
-   D. $[M^0 L^0 T^{-1} K^0]$  
-   *Answer*: **B** ($K^{-1}$).
+   D. $[M^0 L^0 T^{-1} K^0]$
 
-10. **A ship floats higher when it travels from a freshwater river into the sea because:**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** ($K^{-1}$).
+
+**Logic:** ($K^{-1}$).
+
+</details>
+
+**Q10.** **A ship floats higher when it travels from a freshwater river into the sea because:**  
     A. Sea water is colder  
     B. Sea water is deeper  
     C. Sea water is denser due to dissolved salts  
-    D. River water exerts greater viscous drag  
-    *Answer*: **C**.
+    D. River water exerts greater viscous drag
 
-11. **At what temperature is the surface tension of a liquid reduced to zero?**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **C**.
+
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+</details>
+
+**Q11.** **At what temperature is the surface tension of a liquid reduced to zero?**  
     A. Freezing point  
     B. Boiling point  
     C. Absolute zero  
-    D. Critical temperature  
-    *Answer*: **D**.
+    D. Critical temperature
 
-12. **When positive charge is placed on a soap bubble, its radius:**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **D**.
+
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+</details>
+
+**Q12.** **When positive charge is placed on a soap bubble, its radius:**  
     A. Decreases  
     B. Increases  
     C. Remains identical  
-    D. Flattens into a disc  
-    *Answer*: **B** (Electrostatic repulsion expands the surface).
+    D. Flattens into a disc
 
-13. **Torricelli's law states that the velocity of efflux from a tank orifice is proportional to:**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** (Electrostatic repulsion expands the surface).
+
+**Logic:** (Electrostatic repulsion expands the surface).
+
+</details>
+
+**Q13.** **Torricelli's law states that the velocity of efflux from a tank orifice is proportional to:**  
     A. Depth $h$  
     B. Square root of depth $\sqrt{h}$  
     C. $h^2$  
-    D. Independent of $h$  
-    *Answer*: **B** ($v = \sqrt{2gh}$).
+    D. Independent of $h$
 
-14. **Which of the following is NOT an application of capillarity?**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** ($v = \sqrt{2gh}$).
+
+**Logic:** ($v = \sqrt{2gh}$).
+
+</details>
+
+**Q14.** **Which of the following is NOT an application of capillarity?**  
     A. Kerosene rising in a lamp wick  
     B. Blotting paper absorbing ink  
     C. Drinking coconut water through a straw  
-    D. Towel soaking water droplets from the skin  
-    *Answer*: **C** (Drinking through a straw requires mouth suction pressure reduction).
+    D. Towel soaking water droplets from the skin
 
-15. **The spreading parameter $S$ for liquid A on liquid B is positive ($S > 0$). This implies:**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **C** (Drinking through a straw requires mouth suction pressure reduction).
+
+**Logic:** (Drinking through a straw requires mouth suction pressure reduction).
+
+</details>
+
+**Q15.** **The spreading parameter $S$ for liquid A on liquid B is positive ($S > 0$). This implies:**  
     A. Liquid A beads into droplets  
     B. Liquid A spreads completely over liquid B  
     C. Liquid A sinks to the bottom  
-    D. Both liquids boil instantly  
-    *Answer*: **B**.
+    D. Both liquids boil instantly
 
-16. **Why does an iron ball float on mercury but sink in water?**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B**.
+
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+</details>
+
+**Q16.** **Why does an iron ball float on mercury but sink in water?**  
     A. Density of mercury $>$ Iron $>$ Water  
     B. Surface tension of mercury is lower than water  
     C. Iron has chemical affinity for water  
-    D. Water has greater viscosity than mercury  
-    *Answer*: **A**.
+    D. Water has greater viscosity than mercury
 
-17. **If four wires of the same material are pulled by equal forces, the maximum extension occurs in the wire with:**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **A**.
+
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+</details>
+
+**Q17.** **If four wires of the same material are pulled by equal forces, the maximum extension occurs in the wire with:**  
     A. Longest length and largest diameter  
     B. Shortest length and smallest diameter  
     C. Greatest ratio of length to diameter squared ($L/d^2$)  
-    D. Smallest ratio of $L/d^2$  
-    *Answer*: **C**.
+    D. Smallest ratio of $L/d^2$
 
-18. **An air bubble rising from the bed of a lake to the surface expands because:**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **C**.
+
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+</details>
+
+**Q18.** **An air bubble rising from the bed of a lake to the surface expands because:**  
     A. Water temperature drops near surface  
     B. Hydrostatic pressure decreases near surface  
     C. Surface tension increases  
-    D. Atmospheric pressure increases  
-    *Answer*: **B** ($P = P_0 + \rho gh$; decreasing $P$ causes volume expansion).
+    D. Atmospheric pressure increases
 
-19. **Gases are most readily converted to liquids under:**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** ($P = P_0 + \rho gh$; decreasing $P$ causes volume expansion).
+
+**Logic:** ($P = P_0 + \rho gh$; decreasing $P$ causes volume expansion).
+
+</details>
+
+**Q19.** **Gases are most readily converted to liquids under:**  
     A. High temperature and low pressure  
     B. Low temperature and high pressure  
     C. High temperature and high pressure  
-    D. Low temperature and low pressure  
-    *Answer*: **B**.
+    D. Low temperature and low pressure
 
-20. **Clouds remain suspended and float in the atmosphere primarily because of:**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B**.
+
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+</details>
+
+**Q20.** **Clouds remain suspended and float in the atmosphere primarily because of:**  
     A. High temperature  
     B. Low density and atmospheric upthrust  
     C. High velocity  
-    D. Zero gravity  
-    *Answer*: **B**.
+    D. Zero gravity
 
-21. **The SI unit of dynamic viscosity is:**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B**.
+
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+</details>
+
+**Q21.** **The SI unit of dynamic viscosity is:**  
     A. Poise  
     B. Stokes  
     C. Pascal-second ($Pa\cdot s$)  
-    D. Newton per metre  
-    *Answer*: **C** ($1\text{ Pa}\cdot s = 10\text{ Poise}$).
+    D. Newton per metre
 
-22. **What fraction of a pure ice block floats above the surface of pure water?**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **C** ($1\text{ Pa}\cdot s = 10\text{ Poise}$).
+
+**Logic:** ($1\text{ Pa}\cdot s = 10\text{ Poise}$).
+
+</details>
+
+**Q22.** **What fraction of a pure ice block floats above the surface of pure water?**  
     A. $1/2$  
     B. $1/4$  
     C. $1/10$  
-    D. $1/9$  
-    *Answer*: **C** (In pure water, $9/10$ is submerged and $1/10$ is above).
+    D. $1/9$
 
-23. **Hydraulic lifts and hydraulic automotive brakes are practical embodiments of:**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **C** (In pure water, $9/10$ is submerged and $1/10$ is above).
+
+**Logic:** (In pure water, $9/10$ is submerged and $1/10$ is above).
+
+</details>
+
+**Q23.** **Hydraulic lifts and hydraulic automotive brakes are practical embodiments of:**  
     A. Bernoulli's Principle  
     B. Pascal's Law  
     C. Archimedes' Principle  
-    D. Hooke's Law  
-    *Answer*: **B**.
+    D. Hooke's Law
 
-24. **In streamlined flow through a horizontal pipe, where is the fluid speed maximum?**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B**.
+
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+</details>
+
+**Q24.** **In streamlined flow through a horizontal pipe, where is the fluid speed maximum?**  
     A. In contact with the upper pipe wall  
     B. In contact with the lower pipe wall  
     C. Along the central longitudinal axis  
-    D. Speed is uniform everywhere  
-    *Answer*: **C**.
+    D. Speed is uniform everywhere
 
-25. **When two soap bubbles of different radii are placed in contact, what occurs?**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **C**.
+
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+</details>
+
+**Q25.** **When two soap bubbles of different radii are placed in contact, what occurs?**  
     A. Air moves from large to small bubble  
     B. Air moves from small to large bubble  
     C. Both bubbles equalize in volume  
-    D. Pressure inside both bubbles is equal  
-    *Answer*: **B** (Smaller bubble has higher pressure $\Delta P = 4T/R$).
+    D. Pressure inside both bubbles is equal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** (Smaller bubble has higher pressure $\Delta P = 4T/R$).
+
+**Logic:** (Smaller bubble has higher pressure $\Delta P = 4T/R$).
 
 ---
 
 ---
+
+</details>
 
 ## Common Traps & Negative-Marking Eliminators
 1. **Steel vs Rubber Trap**: Steel is **more elastic** than rubber ($Y_{\text{steel}} \gg Y_{\text{rubber}}$). Do not confuse everyday stretchiness with physical elasticity (restoring stress per unit strain).

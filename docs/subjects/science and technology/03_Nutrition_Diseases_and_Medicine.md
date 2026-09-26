@@ -1,5 +1,5 @@
 # Topic 3 — Nutrition, Vitamins, Diseases and Medicine
-### ★ UPPCS Revision Sheet — Lucent / PW Coaching Style (Dense Locks · Zero Fluff · Practice ≥25)
+### ★ UPPCS Revision Sheet — Lucent / PW Coaching Style (Lucent / PW style · Practice ≥25)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -14,14 +14,14 @@ Human Body Composition & Major Elements | Nutrition & Balanced Diet (Macronutrie
 
 ---
 
-## Current Affairs & Exam Locks
+## Current Affairs
 
-| Year | Event / Fact | High-Yield Exam Lock |
+| Year | Event / Fact | Must-Score Fact |
 |------|-------------|----------------------|
 | **2024–25** | WHO documented recurring **Nipah virus** cases in Kerala, localized to **Malappuram and Palakkad** districts. | Nipah virus is a zoonotic Henipavirus transmitted by fruit bats (genus ***Pteropus***); causes fatal acute encephalitis; **not** mosquito-borne. |
 | **2025** | Global malaria eradication push: WHO prequalified the second malaria vaccine **R21/Matrix-M** (developed by University of Oxford & Serum Institute of India). | Follows RTS,S/AS01 (Mosquirix); both target the circumsporozoite protein of *Plasmodium falciparum*. |
 | **Still Current** | **Sickle Cell Anaemia Elimination Mission** launched by Prime Minister from Shahdol, Madhya Pradesh, targeting elimination by **2047**. | Focuses on tribal populations; point mutation on chromosome 11 substituting Glutamic acid with Valine ($GAG \rightarrow GUG$). |
-| **COVID Platform Locks** | Diverse COVID-19 vaccine platforms: **Covaxin** = Inactivated whole virus; **Covishield** = Non-replicating chimpanzee adenovirus vector; **Moderna / Pfizer** = mRNA nanoparticle; **Corbevax** = Protein subunit; **ZyCoV-D** = Plasmid DNA (world's first needle-free DNA vaccine, Zydus Cadila). | Frequently tested matching pair in state PSCs (UPPCS 2022 tested Sinovac = inactivated whole virus). |
+| **COVID Platform Facts** | Diverse COVID-19 vaccine platforms: **Covaxin** = Inactivated whole virus; **Covishield** = Non-replicating chimpanzee adenovirus vector; **Moderna / Pfizer** = mRNA nanoparticle; **Corbevax** = Protein subunit; **ZyCoV-D** = Plasmid DNA (world's first needle-free DNA vaccine, Zydus Cadila). | Frequently tested matching pair in state PSCs (UPPCS 2022 tested Sinovac = inactivated whole virus). |
 
 ---
 
@@ -47,7 +47,7 @@ Human Body Composition & Major Elements | Nutrition & Balanced Diet (Macronutrie
 18. **Vitamin B2 (Riboflavin)**: Precursor of coenzymes FMN and FAD; imparts characteristic yellow colour to cow milk and whey; deficiency causes **Ariboflavinosis**: **Cheilosis** (painful cracks at the corners of the mouth), **Glossitis** (magenta-red inflamed tongue), and keratitis.
 19. **Vitamin B3 (Niacin / Nicotinic Acid)**: Precursor of NAD and NADP; synthesised in small quantities from the essential amino acid **Tryptophan**; deficiency causes **Pellagra**, classically remembered by the **"4 Ds"**: **Dermatitis** (Casal's necklace pattern on sun-exposed skin), **Diarrhoea**, **Dementia**, and **Death**; prevalent in populations relying exclusively on maize / corn diets (maize is deficient in tryptophan and contains bound niacytin).
 20. **Vitamin B5 (Pantothenic Acid)**: Essential constituent of **Coenzyme-A (CoA)**; deficiency causes "Burning Feet Syndrome" (*Gopalan's syndrome*).
-21. **Vitamin B6 (Pyridoxine)**: Coenzyme for amino acid transamination and decarboxylation; required for synthesis of haemoglobin, serotonin, and GABA; deficiency causes peripheral neuropathy, microcytic anaemia, and convulsions in infants; *Lucent lock*: **Vitamin B6 helps in remembering dreams**.
+21. **Vitamin B6 (Pyridoxine)**: Coenzyme for amino acid transamination and decarboxylation; required for synthesis of haemoglobin, serotonin, and GABA; deficiency causes peripheral neuropathy, microcytic anaemia, and convulsions in infants; *Lucent note*: **Vitamin B6 helps in remembering dreams**.
 22. **Vitamin B7 (Biotin / Vitamin H)**: Sulfur-containing coenzyme for carboxylation reactions; raw egg white contains the protein **Avidin**, which binds biotin tightly and blocks absorption, causing induced biotin deficiency.
 23. **Vitamin B9 (Folic Acid / Folate)**: Required for DNA synthesis and purine/thymidylate production; deficiency causes **Megaloblastic Anaemia**; maternal folate deficiency in periconceptional period causes fatal **Neural Tube Defects (Spina Bifida and Anencephaly)** in newborns.
 24. **Vitamin B12 (Cyanocobalamin)**: The only vitamin containing a metallic trace element (**Cobalt**); absent in ordinary plant foods; synthesized exclusively by microorganisms; absorbs in the terminal ileum mediated by **Castle's Intrinsic Factor** secreted by gastric parietal cells; deficiency causes **Pernicious Anaemia** (megaloblastic anaemia + irreversible subacute combined degeneration of the spinal cord).
@@ -126,7 +126,7 @@ Human Body Composition & Major Elements | Nutrition & Balanced Diet (Macronutrie
 
 ## Confused Pairs
 
-| Concept A | Concept B | Core Distinguishing Exam Fact | Hindi Key |
+| Concept A | Concept B | Core Distinguishing Fact | Hindi Key |
 |-----------|-----------|-------------------------------|-----------|
 | **Kwashiorkor** | **Marasmus** | Pure protein deficiency in children $>1$ yr with pitting oedema vs protein + calorie starvation in infants $<1$ yr without oedema | क्वाशिओरकोर / मरास्मस |
 | **Fat-Soluble Vitamins** | **Water-Soluble Vitamins** | Vitamins A, D, E, K stored in liver/adipose tissue vs B-complex & C excreted in urine (require daily intake) | वसा-घुलनशील / जल-घुलनशील विटामिन |
@@ -165,7 +165,7 @@ Human Body Composition & Major Elements | Nutrition & Balanced Diet (Macronutrie
 
 ### Infectious Diseases & Causative Pathogens Master Table
 
-| Disease | Pathogen Class | Specific Pathogen Name | Primary Transmission Vector / Vehicle | Key Clinical Feature / Diagnostic Lock |
+| Disease | Pathogen Class | Specific Pathogen Name | Primary Transmission Vector / Vehicle | Key Clinical Feature / Diagnostic Fact |
 |---------|---------------|------------------------|---------------------------------------|-----------------------------------------|
 | **Tuberculosis** | Bacterium | *Mycobacterium tuberculosis* | Airborne droplets | Mantoux test; BCG vaccine; DOTS therapy |
 | **Typhoid** | Bacterium | *Salmonella typhi* | Contaminated food and water | Widal test; step-ladder fever; rose spots |
@@ -209,447 +209,6 @@ Human Body Composition & Major Elements | Nutrition & Balanced Diet (Macronutrie
   - **Marasmus (Greek: "withering / wasting")**:
     - Cause: **Combined severe deficiency of both proteins AND total caloric energy**; commonly seen in infants under **1 year of age** when mother's milk is replaced too early by watery, nutritionally deficient foods.
     - Symptoms: Extreme emaciation, complete disappearance of subcutaneous fat; ribs become prominent; skin becomes loose, thin, and dry, giving the infant the shrivelled appearance of a **"little old man"** or "monkey face"; **oedema is strictly absent**.
-
----
-
-### Ghatnachakra Master Locks: Macronutrient Dynamics, Fats & Proteins
-- **Macronutrient Fuel Energetics**:
-  - **Carbohydrates**: Provide **55–75%** of daily bodily energy needs; complete oxidation yields **4.5 kcal/gram**.
-  - **Lipids / Fats**: Concentrated energy store; complete combustion yields **9.0 to 9.3 kcal/gram**; constitutes ~7% of body weight in a lean adult.
-  - **Proteins**: Primary tissue-building block; when catabolized as fuel, yields **4.0 kcal/gram**.
-  - **Water**: Zero calories! Consuming water yields **0 kcal**.
-  - **Daily Work Energy Requirements**: A laborer performing hard manual labor requires **3500–4000 kcal/day**.
-  - **Daily Protein Requirements**: Adult sedentary female: 45–46 g/day; **Nursing (lactating) mother: at least 65 g/day**.
-- **Lipid Classifications & Essential Fatty Acids**:
-  - **Saturated Fatty Acids**: Single covalent C-C bonds; solid at room temperature; elevate plasma LDL ("bad") cholesterol; synthesized endogenously (non-essential); Examples: Butyric (butter), Lauric (coconut oil), Myristic (cow milk), Palmitic (palm oil, meat), Stearic (cocoa butter).
-  - **Unsaturated Fatty Acids (PUFA / MUFA)**: Contain one or more double/triple bonds; lower melting point (liquid at room temp); lower serum cholesterol; protect cardiovascular health.
-    - **Essential Fatty Acids (EFA)**: Cannot be synthesized by humans:
-      - **$lpha$-Linolenic Acid (ALA — Omega-3)**: Prevents intravascular thrombosis and plaque build-up. **Richest oilseed source = Linseed (Flaxseed) oil**.
-      - **Linoleic Acid (LA — Omega-6)**: Found in peanut, olive, sunflower oil.
-      - **Arachidonic Acid (Omega-6)**: Found in liver, brain, and glandular lipids; direct biosynthetic precursor to prostaglandins, thromboxanes, and leukotrienes.
-  - **Hydrogenation & Trans-Fats**: Catalytic bubbling of hydrogen gas through liquid vegetable oil at 30°–40°C in the presence of a Nickel (Ni) catalyst converts unsaturated oils into solid saturated fat (vanaspati). Produces harmful **Trans Fats**, which simultaneously elevate LDL and depress HDL, sharply increasing the risk of coronary heart disease and stroke.
-- **Proteins & Amino Acid Dynamics**:
-  - 20 standard amino acids: **10 Essential** (must be obtained from diet: Phenylalanine, Valine, Threonine, Tryptophan, Isoleucine, Methionine, Histidine, Arginine, Leucine, Lysine; Arginine & Histidine are semi-essential/juvenile) + **10 Non-Essential** (synthesized endogenously).
-  - **Tyrosine**: Non-essential aromatic amino acid synthesized from phenylalanine; precursor to critical catecholamine neurotransmitters in the brain (**Adrenaline, Noradrenaline, Dopamine**).
-  - **Storage Trap**: Unlike fats (adipose) and glucose (glycogen), **amino acids are NOT stored in the human body** and must be ingested on a continuous daily basis.
-  - **Gluten**: Protein composite in wheat endosperm providing viscoelasticity to dough, enabling leavened bread to expand and retain its shape.
-  - **Top Protein Food Sources**:
-    - **Soybean**: **~40% protein content** (highest among foodgrains and pulses; also contains 20% fat and 30% carbohydrate).
-    - **Groundnut (Peanut)**: Outstanding dual source: **25.3% protein + 48.1% fat**.
-- **Milk & Carbohydrate Chemistry**:
-  - Milk is approximately 87% water, containing fats, casein protein, calcium, and **Lactose (milk sugar, a disaccharide of glucose + galactose)**, which imparts sweetness.
-  - Sour milk / curd formation: **Lactobacillus bacteria** ferment lactose into lactic acid, dropping pH and coagulating casein.
-  - **Cow's Milk Yellow Hue**: Imparted by fat-soluble **Carotene** pigments ($C_{40}H_{56}$ hydrocarbon family).
-  - Basmati Rice Cooking Elongation: Due to a uniquely high percentage of straight-chain **Amylose** starch (which resists gelatinization and keeps grains long, firm, and separate) compared to highly branched, sticky Amylopectin.
-- **Antioxidants & Free Radical Quenching**:
-  - Metabolic oxidation produces toxic, highly reactive free radicals (superoxide, hydroxyl) that initiate cellular chain reactions damaging DNA, lipids, and proteins.
-  - **Antioxidants** (Vitamin C, Vitamin E, polyphenols, selenium) terminate these chain reactions by safely donating electrons and being oxidized themselves. Fresh fruits and vegetables (especially apples, rich in potassium and flavonoids) are prime dietary sources.
-- **Trace Elements & Micro-Minerals**:
-  - Micro-minerals (<0.01% of body weight): Iron, Zinc, Copper, Iodine, Fluorine, Selenium, Manganese, Molybdenum, Cobalt.
-  - Total mass order in human body: $	ext{Copper } < 	ext{Iron } < 	ext{Sodium } < 	ext{Potassium}$.
-  - **Karonda (*Carissa carandas*)**: An exceptionally rich botanical fruit source of bioavailable **Iron**, used clinically in treating nutritional anaemia.
-  - **Muscle Contraction Minerals**: Requires **Calcium ($Ca^{2+}$)**, **Sodium ($Na^+$)**, **Potassium ($K^+$)**, and **Iron** (in myoglobin for oxygen delivery).
-
-
-## 3.2 Sugars, Carbohydrate Classes & Enzymes
-
-- **Classification of Carbohydrates**:
-  - **Monosaccharides (Simple Sugars, $C_n H_{2n} O_n$)**:
-    - **Glucose (Dextrose / Grape Sugar / Blood Sugar)**: Immediate cellular fuel; normal fasting physiological concentration is **$70–100\text{ mg/dL}$**; transported in bloodstream.
-    - **Fructose (Levulose / Fruit Sugar)**: Ketohexose found in fruits and honey; **sweetest natural sugar**; unique fuel utilized by human spermatozoa (secreted by seminal vesicles).
-    - **Galactose (Brain Sugar)**: Hydrolysed from milk lactose; converted to glucose in the liver.
-  - **Oligosaccharides (Disaccharides, $C_{12} H_{22} O_{11}$)**:
-    - **Sucrose (Table Sugar / Cane Sugar / Invert Sugar)**: Non-reducing sugar composed of **$\alpha$-D-Glucose + $\beta$-D-Fructose** linked by $\alpha\text{-1,2-glycosidic bond}$; hydrolysed by invertase/sucrase.
-    - **Lactose (Milk Sugar)**: Reducing sugar composed of **$\beta$-D-Galactose + $\beta$-D-Glucose** linked by $\beta\text{-1,4-glycosidic bond}$; least sweet natural sugar; deficiency of intestinal lactase causes **lactose intolerance** (bloating, cramps, osmotic diarrhoea).
-    - **Maltose (Malt Sugar)**: Reducing sugar composed of two **$\alpha$-D-Glucose** molecules linked by $\alpha\text{-1,4-glycosidic bond}$; product of starch hydrolysis by salivary and pancreatic amylase.
-  - **Polysaccharides (Complex Polymers, $(C_6 H_{10} O_5)_n$)**:
-    - **Starch**: Storage carbohydrate of plants; composed of unbranched water-soluble **Amylose** ($\alpha\text{-1,4}$ bonds) and branched insoluble **Amylopectin** ($\alpha\text{-1,4}$ and $\alpha\text{-1,6}$ bonds); stains deep **blue-black with iodine**.
-    - **Glycogen (Animal Starch)**: Storage carbohydrate of animals and fungi; highly branched polymer of glucose; stains **red-violet with iodine**; stored primarily in liver and skeletal muscles.
-    - **Cellulose**: Structural unbranched polysaccharide of plant cell walls composed of $\beta$-D-glucose linked by **$\beta\text{-1,4-glycosidic bonds}$**; provides dietary bulk and stimulates intestinal peristalsis; completely undigested by human enzymes.
-- **Enzymes as Biological Catalysts**:
-  - Almost all enzymes are globular proteins (ribozymes like 23S rRNA are RNA exceptions); accelerate chemical reaction rates by several million-fold by **lowering the activation energy barrier** without undergoing permanent chemical alteration.
-  - Show exquisite substrate specificity (Lock and Key hypothesis of Emil Fischer; Induced Fit theory of Daniel Koshland).
-  - Many enzymes require non-protein chemical components called **Cofactors**: inorganic metal ions ($Zn^{2+}$ for carbonic anhydrase, $Fe^{2+}$ for catalase, $Mg^{2+}$ for hexokinase) or organic **Coenzymes** (derived predominantly from B-complex vitamins, e.g. TPP from B1, FAD from B2, NAD from B3, CoA from B5).
-
----
-
-## 3.3 The Vitamin Spectrum: Fat-Soluble vs Water-Soluble
-
-- **Vitamins: General Principles**:
-  - Vital organic micronutrients required in trace quantities for physiological regulation; do not yield direct metabolic energy.
-  - Term "Vitamine" coined by Polish biochemist **Casimir Funk (1912)** (originally believed to be "vital amines").
-  - The human body **cannot synthesise most vitamins** (must be obtained from diet); exceptions: **Vitamin D** (made in sunlit skin), **Vitamin K and B12** (synthesised by intestinal microflora in colon), and small amounts of **Niacin** (from tryptophan).
-- **Fat-Soluble Vitamins (A, D, E, K)**:
-  - **Vitamin A (Retinol)**:
-    - Converted from dietary provitamin carotenoids ($\beta$-carotene) in the intestinal mucosa and liver.
-    - Forms **Rhodopsin (visual purple)** in retinal rod cells, essential for scotopic dim-light vision.
-    - Deficiency cascade: **Nyctalopia (Night Blindness)** $\rightarrow$ **Xerophthalmia** (conjunctival dryness, Bitot's triangular foamy spots on sclera) $\rightarrow$ **Keratomalacia** (corneal softening, ulceration, permanent blindness) and hyperkeratosis of skin (*toad skin*).
-  - **Vitamin D (Calciferol)**:
-    - Precursor 7-dehydrocholesterol in skin is converted to Cholecalciferol ($D_3$) by UV-B sunlight; converted in liver to 25-hydroxycalciferol, and activated in kidney by 1-$\alpha$-hydroxylase to **1,25-dihydroxycholecalciferol (Calcitriol)**.
-    - Stimulates active intestinal absorption of $Ca^{2+}$ and phosphate, maintaining bone mineralization.
-    - Deficiency in children: **Rickets** (failure of bone calcification, bow legs / genu varum, knock knees, rickety rosary on ribs, delayed closure of fontanelles).
-    - Deficiency in adults: **Osteomalacia** (softening and demineralization of adult bones, severe bone pain and fractures).
-  - **Vitamin E (Tocopherol)**:
-    - Group of tocopherols and tocotrienols ($\alpha$-tocopherol is most biologically active).
-    - Major lipid-soluble antioxidant in biological membranes; scavenges reactive oxygen species (ROS) and terminates lipid peroxidation chain reactions; protects RBC membranes from fragility.
-    - Richest sources: Wheat-germ oil, sunflower oil, safflower oil, nuts, and green vegetables.
-  - **Vitamin K (Phylloquinone / Menaquinone)**:
-    - Post-translational cofactor for $\gamma$-glutamyl carboxylase in the liver, enabling calcium-binding activation of blood clotting factors **II (Prothrombin), VII, IX, and X**, as well as bone osteocalcin.
-    - Deficiency: Defective blood coagulation, prolonged prothrombin time, excessive subcutaneous bruising, and uncontrollable haemorrhage.
-    - Haemorrhagic disease of the newborn occurs because neonates have a sterile gut lacking bacterial flora and breast milk is low in Vitamin K (routine intramuscular Vitamin K injection given at birth).
-- **Water-Soluble Vitamins (B-Complex & C)**:
-  - **Vitamin B1 (Thiamine)**:
-    - Coenzyme TPP decarboxylates pyruvate to acetyl-CoA; critical for nervous system glucose oxidation.
-    - Deficiency: **Beriberi**:
-      - **Dry Beriberi**: Severe peripheral polyneuropathy, symmetrical foot-drop and wrist-drop, muscle wasting.
-      - **Wet Beriberi**: Cardiovascular involvement, high-output congestive heart failure, peripheral pitting oedema.
-      - **Wernicke-Korsakoff Syndrome**: Encephalopathy, ataxia, confusion, and memory loss in chronic alcoholics.
-      - *Exam lock*: **Polished rice diets strip thiamine, causing beriberi (UPPCS 2019).**
-  - **Vitamin B2 (Riboflavin)**:
-    - Essential for FMN and FAD coenzymes in cellular respiration.
-    - Deficiency: Ariboflavinosis causing **Cheilosis** (cracking at lips), **Angular Stomatitis** (fissures at angles of mouth), and **Glossitis** (swollen magenta tongue).
-  - **Vitamin B3 (Niacin / Nicotinic Acid)**:
-    - Precursor of NAD and NADP; deficiency causes **Pellagra** (characterised by 4 Ds: Dermatitis, Diarrhoea, Dementia, Death).
-    - Casal's necklace is a pathognomonic broad dermatitis collar around the neck in pellagra patients exposed to sunlight.
-  - **Vitamin B6 (Pyridoxine)**:
-    - Coenzyme for transaminases and amino acid metabolism; deficiency causes peripheral neuritis and microcytic anaemia. Drug **Isoniazid (INH)** used in TB therapy forms a complex with pyridoxine, requiring co-administration of Vitamin B6.
-  - **Vitamin B9 (Folic Acid)**:
-    - Transfers one-carbon units in DNA synthesis; deficiency causes **Megaloblastic Anaemia** and fetal **Neural Tube Defects (Spina bifida)**.
-  - **Vitamin B12 (Cyanocobalamin)**:
-    - Possesses a corrin ring coordinated to a central **Cobalt** atom; essential for normal erythropoiesis and myelin sheath maintenance.
-    - Requires **Castle's Intrinsic Factor** (secreted by gastric parietal/oxyntic cells) for absorption in the ileum.
-    - Deficiency: **Pernicious Anaemia** (autoimmune destruction of parietal cells, giant megaloblasts) and subacute combined degeneration of the spinal cord (tingling, ataxia).
-  - **Vitamin C (Ascorbic Acid)**:
-    - Powerful water-soluble antioxidant; keeps prolyl and lysyl hydroxylase enzymes in reduced state for **collagen triple-helix cross-linking**; promotes intestinal non-haem iron absorption by reducing $Fe^{3+} \rightarrow Fe^{2+}$.
-    - Deficiency: **Scurvy** (breakdown of capillaries, bleeding swollen spongy gums, loss of teeth, petechiae, delayed wound healing, anaemia).
-    - Extremely thermolabile: destroyed by heating, boiling, and prolonged drying. Amla is the richest Indian food source.
-
----
-
-## 3.4 Mineral Dynamics, Toxic Heavy Metals & Environmental Poisonings
-
-- **Macro-minerals & Micro-minerals**:
-  - **Macro-minerals ($>100\text{ mg/day}$)**: Calcium, Phosphorus, Potassium, Sulfur, Sodium, Chloride, Magnesium.
-  - **Micro-minerals / Trace Elements ($<100\text{ mg/day}$)**: Iron, Zinc, Copper, Iodine, Fluoride, Manganese, Selenium, Molybdenum, Chromium, Cobalt.
-  - **Iron ($Fe$)**: Core functional component of **Haemoglobin** in blood and **Myoglobin** in muscle; deficiency causes **Microcytic Hypochromic Anaemia** (fatigue, pallor, spoon-shaped nails / **Koilonychia**); rich sources: Jaggery (gur), spinach, liver, red meat, legumes.
-  - **Iodine ($I$)**: Essential constituent of thyroid hormones **Thyroxine ($T_4$) and Triiodothyronine ($T_3$)**; deficiency causes simple endemic **Goitre** (thyroid enlargement), **Cretinism** in infants (stunted growth, mental retardation, deaf-mutism), and **Myxedema** in adults; prevented by iodized salt (fortified with potassium iodate $KIO_3$).
-  - **Zinc ($Zn$)**: Component of $>300$ enzymes (carbonic anhydrase, alcohol dehydrogenase, DNA/RNA polymerases); essential for insulin storage, taste acuity (**Hypogeusia**), spermatogenesis, and wound healing; deficiency causes growth retardation, delayed sexual maturation, and **Acrodermatitis enteropathica**.
-- **Environmental Toxic Heavy Metal Poisonings (Direct PSC Exam Traps)**:
-
-| Toxic Agent / Contaminant | Environmental Source | Disease / Clinical Syndrome | Pathological Manifestation |
-|---------------------------|----------------------|-----------------------------|----------------------------|
-| **Methyl Mercury ($Hg$)** | Industrial effluent in fish/shellfish | **Minamata Disease** | Severe neurotoxicity, sensory ataxia, constriction of visual fields, hearing loss, convulsions |
-| **Cadmium ($Cd$)** | Mining runoff in river irrigation | **Itai-Itai Disease ("Ouch-Ouch")** | Painful osteomalacia, multiple pseudofractures, renal tubular proteinuria |
-| **Lead ($Pb$)** | Leaded petrol, old paints, pipes | **Plumbism / Saturnism** | Microcytic anaemia, basophilic stippling of RBCs, **Burtonian Blue Line** on gums, wrist drop, encephalopathy |
-| **Nitrate ($NO_3^-$)** | Fertilizer runoff in well drinking water | **Blue Baby Syndrome (Methemoglobinemia)** | Nitrate reduced to nitrite; forms methemoglobin; severe cyanosis, asphyxia, blue-tinged skin |
-| **Arsenic ($As$)** | Groundwater in alluvial aquifers | **Blackfoot Disease**, Hyperkeratosis | Peripheral vascular gangrene of feet/toes, cutaneous hyperkeratosis, bladder/lung cancer |
-| **Excess Fluoride ($F^-$)** | Geogenic groundwater $>1.5–2\text{ ppm}$ | **Dental & Skeletal Fluorosis** | Brown mottled dental enamel; bone deformities, stiff joints, **Knock-knee syndrome (Genu valgum)** |
-| **Asbestos Fibres** | Asbestos mining, roofing, insulation | **Asbestosis & Mesothelioma** | Diffuse pulmonary fibrosis; malignant cancer of the pleura/peritoneum |
-| **Silica Dust ($SiO_2$)** | Stone quarrying, sandblasting, pottery | **Silicosis** | Chronic fibrotic nodular lung disease; pre-disposes to active pulmonary tuberculosis |
-| **Coal Dust** | Underground coal mining | **Anthracosis ("Black Lung")** | Carbon accumulation in pulmonary macrophages, progressive massive fibrosis |
-| **Cotton Dust** | Textile mill spinning and carding | **Byssinosis ("Brown Lung")** | Monday chest tightness, bronchospasm, chronic bronchitis |
-| **Sugar Cane Bagasse** | Sugar and paper manufacture | **Bagassosis** | Hypersensitivity pneumonitis from thermophilic actinomycetes |
-
----
-
-## 3.5 Infectious, Communicable & Vector-Borne Diseases
-
-- **Modes of Transmission & Disease Terminology**:
-  - **Infectious / Communicable**: Diseases caused by biological pathogens capable of being transmitted from an infected host to a susceptible individual via air, water, food, vector, or direct physical contact.
-  - **Vector**: A living organism (usually an arthropod) that transfers an infectious agent from one host to another (e.g. mosquito, tick, sandfly, flea).
-  - **Vehicle**: A non-living contaminated intermediate substance transmitting pathogens (e.g. water, milk, food, surgical instruments).
-  - **Endemic**: Constant presence of a disease within a geographic area (e.g. goitre in sub-Himalayan belt).
-  - **Epidemic**: Sudden outbreak of disease attacking many people simultaneously in a community.
-  - **Pandemic**: Worldwide epidemic spreading across continents (e.g. Spanish Flu 1918, COVID-19 2020).
-- **Major Bacterial Diseases of Public Health Significance**:
-  - **Tuberculosis**: Sputum smear microscopy (Ziehl-Neelsen acid-fast staining), GeneXpert (rapid molecular testing), Mantoux test ($>10\text{ mm}$ induration = positive). DOTS uses daily fixed-dose combination therapy.
-  - **Typhoid Fever**: Widal test measures agglutinating antibody titres against $O$ (somatic) and $H$ (flagellar) antigens of *Salmonella typhi*.
-  - **Cholera**: Massive fluid loss ($10–20\text{ litres/day}$); death results from hypovolemic circulatory shock; treatment of choice is immediate aggressive hydration with WHO-formulated ORS (contains NaCl, KCl, Trisodium citrate, and anhydrous Glucose).
-  - **Diphtheria, Pertussis, Tetanus**: Covered by trivalent **DPT / Pentavalent Vaccine** administered under the Universal Immunisation Programme (UIP).
-- **Major Viral Diseases of Public Health Significance**:
-  - **Dengue Fever**: Caused by Flavivirus; transmitted by female *Aedes aegypti* (breeds in clean domestic stagnant water; day-biter). Tourniquet test indicates capillary leakage; marked by precipitous decline in platelet counts ($<100,000/\mu\text{L}$); critical management requires fluid monitoring, avoiding NSAIDs like aspirin/ibuprofen (which exacerbate bleeding).
-  - **Chikungunya & Zika**: Also transmitted by *Aedes aegypti*; Zika virus infection in pregnant women causes severe congenital fetal **Microcephaly** (abnormally small head/brain).
-  - **Nipah Virus (NiV)**: Enveloped negative-sense single-stranded RNA Henipavirus (family Paramyxoviridae); natural reservoir host is the **Fruit Bat / Flying Fox (genus *Pteropus*)**; transmission occurs via consumption of raw date palm sap or fruits bitten by infected bats, contact with intermediate infected domestic pigs, or direct human-to-human droplet contact; clinical hallmark: acute encephalitis, fever, headache, altered consciousness, and rapid progression to coma ($40–75\%$ case fatality rate); Kerala outbreaks: Kozhikode (2018), Malappuram (2024), Palakkad (2025).
-  - **COVID-19 (SARS-CoV-2)**: Single-stranded positive-sense enveloped RNA coronavirus; binds to **ACE2 (Angiotensin-Converting Enzyme 2) receptors** via its trimeric surface **Spike (S) glycoprotein**; diagnosed by **RT-PCR** (gold standard detecting viral $E$, $N$, and $RdRp$ genes) or Rapid Antigen Test (RAT).
-- **Major Protozoan & Helminthic Diseases**:
-  - **Malaria**: Four species of *Plasmodium*: *P. vivax* (benign tertian, 48-hr cycle), *P. falciparum* (malignant tertian, irregular/48-hr cycle, cerebral malaria), *P. malariae* (quartan, 72-hr cycle), *P. ovale* (ovale tertian). Asexual erythrocytic schizogony causes synchronous bursting of RBCs, dumping **haemozoin** toxin into plasma which triggers cyclic chills and fever. Biological control: Gambusia fish (*Gambusia affinis*), guppy fish, and dragonfly nymphs feed voraciously on mosquito larvae in ponds.
-  - **Filariasis (Elephantiasis)**: Caused by *Wuchereria bancrofti* and *Brugia malayi*; transmitted by nocturnal female *Culex* mosquitoes; adult worms lodge in human **inguinal and scrotal lymphatics**, causing chronic lymphangitis, gross obstruction, and elephantine lymphedema of legs and scrotum (**Hydrocele**); treated with Diethylcarbamazine (DEC) and Albendazole.
-
----
-
-
-### Master Bacterial Pathogens, Clinical Manifestations & Antibiotics
-
-| Bacterial Disease | Pathogen / Morphology | Primary Affected Organs | Transmission & Hallmarks | Treatment & Vaccines |
-|-------------------|-----------------------|-------------------------|--------------------------|----------------------|
-| **Cholera** | *Vibrio cholerae* (Gram-negative comma-shaped bacillus) | Small intestine | Contaminated water & food; severe watery "rice-water" diarrhoea, acute dehydration | Oral Rehydration Solution (ORS), Azithromycin, Tetracycline |
-| **Plague ("Black Death")** | *Yersinia pestis* (*Pasteurella pestis*) (Gram-negative rod) | Lymphatic nodes (buboes in groin, neck, axilla) | Vector: **Rat flea (*Xenopsylla cheopis*)** from wild rodents; bubonic, septicemic, and pneumonic (fatal within 24 hrs) | Streptomycin, Gentamicin, Doxycycline |
-| **Tuberculosis (TB)** | *Mycobacterium tuberculosis* (Acid-fast rod) | Lungs primarily; pleura, lymph nodes, spine (Pott's disease) | Airborne droplets; fever, night sweats, hemoptysis, chronic cough; **#1 infectious killer worldwide (~1.25M annual deaths)** | **BCG vaccine** at birth; **Mantoux Tuberculin Skin Test (TST)**; DOTS (Isoniazid, Rifampicin, Pyrazinamide, Ethambutol, PAS) |
-| **Leprosy (Hansen's Disease)** | *Mycobacterium leprae* & *M. lepromatosis* (Acid-fast bacilli) | Skin, peripheral nerves, upper respiratory mucosa | Nasal droplets; skin hypo-pigmented patches, sensory loss, nerve thickening, deformities | Multi-Drug Therapy (MDT: Dapsone, Rifampicin, Clofazimine, PAS) |
-| **Pneumonia** | *Streptococcus pneumoniae* & *Haemophilus influenzae* | Alveolar air sacs of lungs | Droplets; alveoli fill with fluid/exudate, chest pain, dyspnea, fever | **Pneumococcal Conjugate Vaccine (PCV)**; Penicillin, Ceftriaxone |
-| **Typhoid (Enteric Fever)** | *Salmonella typhi* & *S. paratyphi* (Gram-negative flagellated bacillus) | Small intestine (Peyer's patches), bloodstream | Fecal-oral route via food/water; sustained high stepped fever, headache, "pea-soup" diarrhoea, intestinal perforation | **Widal Agglutination Test**; Ceftriaxone, Ciprofloxacin, Chloramphenicol |
-| **Diphtheria** | *Corynebacterium diphtheriae* (Gram-positive rod) | Throat, upper respiratory tract | Droplet infection; gray fibrous pseudomembrane covering tonsils/pharynx, suffocating airway obstruction | **DPT Vaccine (Toxoid)**; Diphtheria antitoxin + Erythromycin |
-| **Pertussis (Whooping Cough)** | *Bordetella pertussis* (*Haemophilus pertussis*) | Tracheobronchial respiratory mucosa | Airborne droplets; paroxysmal violent hacking cough spells ending in high-pitched inspiratory "whoop" | **DPT Vaccine**; Azithromycin |
-| **Tetanus ("Lockjaw")** | *Clostridium tetani* (Anaerobic gram-positive spore-forming rod) | Central nervous system motor pathways | Spores enter via deep contaminated wounds/burns; releases **tetanospasmin** neurotoxin causing severe involuntary muscle spasms, trismus (jaw lock), opisthotonos | **DPT / Tetanus Toxoid (TT) / ATS (Anti-Tetanus Serum)**; Muscle relaxants |
-| **Syphilis** | *Treponema pallidum* (Spirochaete bacterium) | Genital tract, skin, cardiovascular & CNS | Direct sexual contact, transplacental; primary painless hard ulcer (**chancre**), secondary rash, tertiary gummas | **Penicillin G**; VDRL / RPR serological tests |
-| **Gonorrhoea** | *Neisseria gonorrhoeae* (Gram-negative diplococcus) | Genitourinary mucous membranes | Sexual transmission; painful micturition, purulent urethral discharge; can cause pelvic inflammatory disease (PID) | Ceftriaxone + Azithromycin |
-| **Anthrax ("Splenic Fever")** | *Bacillus anthracis* (Spore-forming Gram-positive rod) | Spleen (marked splenomegaly), skin, lungs, intestines | Zoonotic: contact with infected livestock, hides, wool ("wool-sorter's disease"); weapon of bioterrorism | Ciprofloxacin, Doxycycline |
-| **Botulism (Food Intoxication)** | *Clostridium botulinum* (Anaerobic spore-forming bacterium) | Peripheral neuromuscular junctions | **Food-borne intoxication**: Ingestion of preformed lethal neurotoxin in improperly canned/stored alkaline foods (low oxygen); blocks acetylcholine release $\rightarrow$ flaccid paralysis, respiratory failure | Polyvalent botulinum antitoxin; mechanical ventilation |
-
-- **Antimicrobial Pharmacology & Landmark Discoveries**:
-  - **Selman Waksman (1942)**: Coined the term **"Antibiotic"** to designate biochemical substances produced by microorganisms that inhibit or destroy competing microbes. Discovered **Streptomycin** from *Streptomyces griseus* (effective against TB; Nobel Prize 1952).
-  - **Alexander Fleming (1928)**: Discovered **Penicillin**, the first natural antibiotic, from the green mould *Penicillium notatum*, revolutionizing bacterial therapeutics.
-  - **Sulpha Drugs (Sulphonamides)**: First synthetic chemical antibacterial agents containing the sulphanilamide nucleus. **Prontosil** discovered by German physician **Gerhard Domagk (1932)** (Nobel Prize 1939). Synthetic sulpha derivatives include **Cibazole, Sulphadiazine, Sulphaguanidine**.
-  - **Broad-Spectrum vs Narrow-Spectrum Antibiotics**: Broad-spectrum agents act against a wide variety of both Gram-positive and Gram-negative bacteria (e.g. **Ampicillin, Chloramphenicol / Chloronitromycin, Tetracyclines**). Chloramphenicol is used for bacterial meningitis, typhoid, plague, and ocular conjunctivitis ointments.
-  - **Antimicrobial Resistance (AMR)**: Multi-drug resistance (MDR) in pathogenic bacteria is driven primarily by excessive and incorrect dosing of antibiotics, over-the-counter self-medication, non-therapeutic antibiotic growth promoters in commercial poultry/livestock feeds, and pharmaceutical wastewater discharge into river basins.
-
-### Master Fungal Pathogens & Clinical Mycology
-- **Mycology Fundamentals**: Fungi are eukaryotic, heterotrophic (saprophytic or parasitic) organisms possessing a cell wall made of **Chitin** (polymer of N-acetylglucosamine). Vegetative body consists of filamentous **hyphae** forming an interwoven **mycelium**.
-- **Landmark Fungal Infections & Mycotoxicoses**:
-  - **Aflatoxins**: Potent hepatotoxic, mutagenic, and carcinogenic mycotoxins synthesized by moulds **Aspergillus flavus** and *Aspergillus parasiticus* infesting poorly stored agricultural commodities (peanuts, groundnuts, maize, cottonseed). Aflatoxin $B_1$ induces DNA mutations leading directly to **hepatocellular carcinoma (liver cancer)**.
-  - **Ergotism ("Saint Anthony's Fire" / Ergotoxicosis)**: Toxicosis caused by ingestion of alkaloids (ergotamine) produced by **Claviceps purpurea** infecting rye, barley, and cereal grains. Induces severe peripheral vasoconstriction resulting in burning sensations, gangrene of fingers and toes, hallucinations, and convulsions.
-  - **Athlete's Foot (Tinea pedis)**: Contagious superficial fungal infection of the interdigital skin of the toes; caused by dermatophyte fungi **Trichophyton, Epidermophyton, and Microsporum**. Symptoms include erythema, severe pruritus, skin maceration, and painful fissures.
-  - **Mucormycosis ("Black Fungus")**: Life-threatening opportunistic infection caused by *Mucormycetes* moulds (e.g. *Rhizopus, Mucor*). Prevalent in immunocompromised patients, particularly poorly controlled diabetics and post-COVID-19 patients treated with heavy systemic corticosteroids. Affects the rhino-orbito-cerebral tracts causing facial swelling, ptosis, proptosis, black necrotic eschar, blindness, and fatal cerebral invasion. Treated via intravenous **Amphotericin B** and surgical debridement.
-  - **Fungal Alopecia & Dermatitis**: Dermatophytic tinea capitis causing patch baldness; Seborrheic dermatitis (inflammatory scaling of scalp) caused by *Malassezia* yeasts.
-  - **Mycetism (Poisonous Mushrooms)**: Ingestion of wild toxic mushrooms such as the Death Cap (*Amanita phalloides*); contains the fatal cyclic octapeptide **$\alpha$-amanitin**, which irreversibly inhibits RNA polymerase II, precipitating fulminant hepatic and renal failure (causes 95% of fatal mushroom poisonings worldwide).
-
-### Master Parasitic & Helminthic Pathogens (Protozoa, Flatworms & Roundworms)
-
-| Parasitic Disease | Causative Parasite & Taxonomy | Intermediate / Biological Vector | Clinical Pathology & Cardinal Symptoms |
-|-------------------|-------------------------------|----------------------------------|---------------------------------------|
-| **Malaria** | *Plasmodium* (*P. vivax, P. falciparum, P. malariae, P. ovale*) (Protozoa, Sporozoa) | Female **Anopheles mosquito** (Definitive Host); Humans are Intermediate Host | Erythrocytic schizogony causes synchronous rupture of RBCs every 48–72 hours, releasing pyrogenic **hemozoin** toxin provoking shaking chills, spiking fever, drenching sweats, severe anemia, and **splenomegaly (enlarged spleen)**.<br>- *P. vivax*: Accounts for ~65% of Indian cases.<br>- *P. falciparum*: Causes lethal **Malignant / Cerebral Malaria** with microvascular plugging in brain capillaries. |
-| **Kala-azar (Visceral Leishmaniasis / "Black Fever")** | *Leishmania donovani* (Flagellated Protozoa) | Female **Sandfly (*Phlebotomus argentipes*)** | Parasite invades reticuloendothelial system; marked hepatosplenomegaly, cachexia, pancytopenia (anemia, leukopenia, thrombocytopenia), and dark **greyish-black hyperpigmentation** of facial and extremity skin. Second largest parasitic killer after malaria. |
-| **African Sleeping Sickness (Trypanosomiasis)** | *Trypanosoma brucei gambiense* & *T. b. rhodesiense* (Protozoa) | **Tse-tse fly (*Glossina* species)** | Painful chancre at bite site; parasite penetrates blood-brain barrier into CSF, inducing chronic meningoencephalitis, daytime somnolence, nocturnal insomnia, progressive coma, and death. |
-| **Amoebiasis (Amoebic Dysentery)** | *Entamoeba histolytica* (Protozoa, Sarcodina) | Fecal-oral route via cysts in contaminated water/food | Trophozoites ulcerate colon mucosa (flask-shaped ulcers), causing severe abdominal cramping and bloody mucoid diarrhea; can metastasize to liver forming amoebic liver abscesses. |
-| **Schistosomiasis ("Snail Fever" / Bilharzia)** | *Schistosoma haematobium, S. mansoni* (Trematode / Flatworm) | Freshwater aquatic snails; free-swimming cercariae penetrate human skin | Worms dwell in mesenteric or vesical venous plexuses; hematuria (blood in urine), bladder calcification, chronic liver fibrosis. |
-| **Fascioliasis (Liver Rot)** | *Fasciola hepatica* & *F. gigantica* (Liver Flukes, Trematodes) | Primary host: Sheep & cattle; Intermediate host: Snails; Vector: raw watercress | Adult flukes obstruct biliary ducts; jaundice, right upper quadrant pain, hepatomegaly. |
-| **Taeniasis & Neurocysticercosis (NCC)** | *Taenia solium* (Pork Tapeworm, Cestode / Flatworm) | Ingestion of undercooked "measly" pork containing cysticerci or fecal-oral ingestion of tapeworm eggs | Ingested eggs hatch into oncospheres that burrow through intestinal wall and encyst in muscles, eyes, and the **brain (Neurocysticercosis)**; **leading cause of acquired adult-onset epilepsy and seizures in developing nations** (as famously suffered by tennis star Leander Paes). |
-| **Lymphatic Filariasis (Elephantiasis)** | *Wuchereria bancrofti* & *Brugia malayi* (Nematodes / Roundworms) | Female **Culex mosquito** (*Culex quinquefasciatus*) | Adult filarial nematodes lodge in lymphatic vessels and nodes, provoking chronic obstructive inflammation and massive irreversible lymphedema, hypertrophy of lower limbs (**elephantiasis**), and scrotal swelling (**hydrocele**). |
-| **Ascariasis** | *Ascaris lumbricoides* (Giant Intestinal Roundworm, Nematode) | Fecal-oral ingestion of embryonated eggs from contaminated soil/food | Larval pulmonary migration (Loeffler's syndrome with eosinophilia and cough); adult worms in small intestine provoke malnutrition, colicky abdominal pain, and intestinal lumen obstruction. Treated with Albendazole/Mebendazole. |
-
-- **Sir Ronald Ross (1897)**: British IMS physician working in Secunderabad, India; discovered *Plasmodium* oocysts in the stomach wall of female *Anopheles* mosquitoes, confirming the mosquito vector of malaria. Awarded the Nobel Prize in Physiology or Medicine in 1902.
-- **Malaria Chemoprophylaxis & Control**:
-  - Traditional natural drug: **Quinine** extracted from *Cinchona* bark.
-  - Synthetic antimalarials: **Chloroquine, Primaquine, Mefloquine, Atovaquone**.
-  - Modern frontline artemisinin-based therapies (ACT): **Artemisinin, Arteether** (derived from *Artemisia annua*).
-  - Biological Vector Control: Introduction of larvivorous surface-feeding fish **Gambusia affinis** (Mosquitofish) and ducks into freshwater ponds to devour mosquito larvae.
-  - Landmark Malaria Vaccines: **RTS,S/AS01 (Mosquirix)** (recombinant circumsporozoite protein vaccine) and **R21/Matrix-M** (developed by Oxford University and manufactured at scale by **Serum Institute of India, Pune**; received WHO recommendation in October 2023 for pediatric immunization in endemic regions).
-  - **World Malaria Day**: Observed annually worldwide on **25 April**.
-
-
-### Ghatnachakra Master Locks: Clinical Virology, Viral Pathogens & Global Epidemics
-- **Biological Nature & Architecture of Viruses**:
-  - Ultramicroscopic infectious nucleoprotein particles ($20\text{--}300\text{ nm}$ in diameter); contain either **DNA or RNA** core genome (never both simultaneously!) enclosed in a protective protein coat called a **Capsid** (composed of individual protein subunits called **Capsomeres**).
-  - An intact, active infectious viral particle outside the host is termed a **Virion**.
-  - **Living vs Non-Living Threshold**: Viruses lack metabolic machinery, ribosomes, and ATP-generating enzyme complexes; outside living host cells, they behave as inert, non-living crystalline chemical matter (**cannot be cultured on artificial/synthetic cell-free nutrient media**). Inside susceptible host cells, they hijack host transcriptional and translational machinery to replicate, fundamentally altering host cellular transcription.
-- **Milestones in Virology**:
-  - **Dmitri Ivanovsky (1892)**: Discovered that Tobacco Mosaic Disease was transmissible via an agent passing through porcelain Chamberland filters capable of holding back all bacteria.
-  - **Martinus Beijerinck (1898)**: Replicated Ivanovsky's findings, proved the infectious agent reproduced inside living plant cells, coined the term **"Virus"**, and designated it *Contagium vivum fluidum* (contagious living fluid).
-  - **Wendell Meredith Stanley (1935)**: First scientist to successfully isolate and **crystallize Tobacco Mosaic Virus (TMV)**, demonstrating that crystalline viruses retain full infectious capability.
-- **Bacteriophages & Phage Therapy**:
-  - Viruses that specifically infect, replicate within, and lyse bacterial cells. Possess a polyhedral head enclosing DNA and a contractile protein tail.
-  - **Self-Cleansing Prowess of River Ganga**: Ganga water contains high natural titers of indigenous **bacteriophages** that systematically prey upon and destroy pathogenic bacterial colonies (e.g. *Vibrio cholerae*), preventing putrefaction.
-  - **Phage Therapy**: Clinical utilization of targeted bacteriophages as therapeutic antibacterial agents to treat multidrug-resistant bacterial infections.
-- **Landmark Eradication Milestones**:
-  - **Smallpox (*Variola virus*)**: Eradicated worldwide following a global vaccination campaign led by WHO; **India declared completely free from Smallpox in 1977** (global eradication certified in 1980).
-  - **Guinea Worm Disease (Dracunculiasis)**: Parasitic infection caused by the nematode *Dracunculus medinensis*, transmitted by drinking unboiled water containing infected **water fleas (*Cyclops*)**; **India certified Guinea Worm-free by WHO in February 2000**.
-- **Poliomyelitis (Polio)**:
-  - Enterovirus (single-stranded positive-sense RNA); transmitted predominantly via the **fecal-oral route** through contaminated food or water.
-  - **Pathology**: Infects gastrointestinal mucosa, enters bloodstream (viremia), and invades the central nervous system, selectively destroying the **motor neurons in the anterior horn of the spinal cord**, causing acute flaccid paralysis (infantile paralysis).
-  - **Vaccine Milestones**:
-    - **Jonas Salk (1952)**: Developed the first inactivated (killed) injectable polio vaccine (**IPV**), entering widespread use in 1955.
-    - **Albert Sabin (1961)**: Developed the live-attenuated oral polio vaccine (**OPV**), administered orally via drops.
-    - **India Certified Polio-Free**: On **27 March 2014**, the South-East Asia Regional Certification Commission of WHO presented India with official Polio-Free certification.
-    - **Global Eradication of Type 2**: In September 2015, WHO declared wild poliovirus Type 2 globally eradicated; in April 2016, India and global health agencies switched from Trivalent OPV (types 1, 2, 3) to **Bivalent OPV (types 1 and 3)**.
-
-### Arboviruses: Vectors, Transmission & Clinical Manifestations
-
-| Disease | Pathogen Class | Primary Mosquito Vector | Landmark Clinical Manifestations & Diagnostic Hallmarks |
-|---------|----------------|-------------------------|---------------------------------------------------------|
-| **Dengue Fever ("Breakbone Fever")** | Dengue virus (DENV 1–4, Flaviviridae, ssRNA) | **Aedes aegypti** and **Aedes albopictus (Tiger mosquito)** | Sudden high fever, excruciating retro-orbital headache, severe arthralgia/myalgia, maculopapular rash; **induces severe bone marrow suppression causing acute Thrombocytopenia (plummeting platelet count)**, risking lethal Dengue Hemorrhagic Fever (DHF) and shock. |
-| **Chikungunya** | Chikungunya virus (CHIKV, Togaviridae, ssRNA) | **Aedes aegypti** and **Aedes albopictus (Tiger mosquito)** | High fever, severe crippling joint pain (polyarthralgia persisting for months), rash, fatigue; non-contagious from human to human directly. |
-| **Zika Fever** | Zika virus (ZIKV, Flaviviridae, ssRNA) | **Aedes aegypti** and **Aedes albopictus** | Mild fever, maculopapular rash, conjunctivitis; can be transmitted sexually and transplacentally; maternal infection in pregnancy causes severe fetal congenital **Microcephaly**. |
-| **Yellow Fever** | Yellow fever virus (Flaviviridae, ssRNA) | **Aedes aegypti** | Acute viral hemorrhagic fever, jaundice (yellowing of skin/sclera due to hepatic necrosis), vomiting black hematemesis; prevented via highly efficacious live 17D vaccine. |
-| **Japanese Encephalitis (JE)** | Japanese Encephalitis Virus (JEV, Flaviviridae) | **Culex mosquitoes (chiefly Culex tritaeniorhynchus)** (*NOT Aedes / Tiger mosquito!*) | Viral neuro-infection of brain parenchyma; fever, headache, altered consciousness, seizures; reservoirs in domestic pigs and ardeid wading birds. |
-
-- **The 'Wolbachia Method'**: Revolutionary biological vector-control innovation wherein *Aedes aegypti* mosquitoes are infected in laboratories with the symbiotic bacterium **Wolbachia pipientis**. *Wolbachia* acts as a viral inhibitor, preventing Dengue, Chikungunya, and Zika viruses from replicating in mosquito tissues, dramatically reducing mosquito-to-human transmission rates without insecticides.
-
-### COVID-19 Immunology, Vaccine Platforms & Modern Therapeutics
-- **SARS-CoV-2 Pathobiology**: Severe Acute Respiratory Syndrome Coronavirus 2 (positive-sense single-stranded enveloped RNA virus); spike glycoprotein ($S$) binds with high affinity to human **ACE2 (Angiotensin-Converting Enzyme 2)** receptors, acting as the primary cellular gateway into alveolar type-II epithelial cells, endothelial cells, myocardium, and renal tubules. Downregulation of ACE2 provokes endothelial injury, cytokine storms, and acute respiratory distress syndrome (ARDS).
-- **Major COVID-19 Vaccine Platforms**:
-  - **Non-Replicating Viral Vector Vaccines**:
-    - **Covishield**: Developed by Oxford University and AstraZeneca, manufactured in India by **Serum Institute of India (SII), Pune**; employs a modified, non-replicating **chimpanzee adenovirus vector (ChAdOx1)** carrying genetic sequence for SARS-CoV-2 spike protein. Administered in two intramuscular doses of **$0.5\text{ ml}$** each (12–16 week interval).
-    - **Sputnik V**: Developed by Gamaleya Research Institute (Russia); utilizes a dual human adenovirus platform (**rAd26** for dose 1, **rAd5** for dose 2); manufactured in India under license by Dr. Reddy's Laboratories.
-  - **Inactivated Whole Virion Vaccines**:
-    - **Covaxin (BBV152)**: Developed by **Bharat Biotech** in collaborative partnership with the Indian Council of Medical Research (ICMR) and National Institute of Virology (NIV), Pune; uses chemically inactivated (beta-propiolactone) whole virion SARS-CoV-2 along with an Algel-IMDG adjuvant.
-    - **Sinovac (CoronaVac)** & **Sinopharm (BBIBP-CorV)**: Inactivated whole-virus platforms manufactured in China.
-  - **mRNA Platform Vaccines**:
-    - **Moderna (Spikevax / mRNA-1273)** & **Pfizer-BioNTech (Comirnaty / BNT162b2)**: Composed of nucleoside-modified synthetic messenger RNA (modRNA) encoding the stabilized prefusion spike protein, encapsulated within protective **lipid nanoparticles (LNPs)**; host ribosomes directly translate the mRNA into spike antigens to trigger humoral and cellular immunity.
-  - **DNA Plasmid Vaccines**:
-    - **ZyCoV-D**: Manufactured by **Zydus Cadila** (India); world's first human plasmid DNA-based COVID-19 vaccine; administered intradermally using a needle-free applicator (*Tropis*).
-- **Monoclonal Antibodies (mAbs)**: Laboratory-engineered recombinant proteins that mimic natural neutralizing antibodies; bind with high specificity to target viral surface epitopes (e.g. m102.4 developed against **Nipah virus**, Bebtelovimab/Casirivimab against SARS-CoV-2 variants).
-
-### Lethal Zoonotic Viral Encephalitis & Hemorrhagic Fevers
-- **Rabies (Hydrophobia)**:
-  - Caused by **Rabies lyssavirus** (bullet-shaped ssRNA virus, family Rhabdoviridae).
-  - Transmitted through the saliva of infected mammals (dogs, cats, monkeys, jackals, bats) via bites or scratches.
-  - Neurotropic virus migrates centripetally via peripheral motor nerves to the central nervous system; provokes furious excitement, violent pharyngeal spasms triggered by attempts to swallow liquid (**Hydrophobia**), autonomic dysregulation, coma, and **almost 100% case fatality once symptoms appear**. Preventable by prompt wound washing and post-exposure prophylaxis (PEP: anti-rabies vaccine + rabies immunoglobulin).
-- **Human Immunodeficiency Virus (HIV) & AIDS**:
-  - Retrovirus possessing single-stranded RNA and the enzyme **Reverse Transcriptase**; selectively attacks and depletes **$CD4^+$ Helper T-lymphocytes**, collapsing cell-mediated adaptive immunity and predisposing the host to opportunistic infections and malignancies (Kaposi sarcoma).
-  - Transmitted through unprotected sexual contact, infected blood transfusions, shared needles, and vertical mother-to-child transmission; not transmitted by casual touch or air.
-  - Diagnostics: Screening via **ELISA**; Confirmatory testing via **Western Blot** assay or viral load RT-PCR.
-  - **World AIDS Day**: Commemorated globally every year on **1 December**.
-- **Ebola Virus Disease (EVD)**:
-  - Filovirus (ssRNA) first identified in 1976 in simultaneous outbreaks in Nzara (South Sudan) and Yambuku (DR Congo, near the Ebola River).
-  - Natural reservoir: Fruit bats (*Pteropodidae* family); transmitted through direct contact with bodily fluids of infected humans or primates.
-  - Causes severe systemic endothelial damage, cytokine storm, microvascular leakage, coagulopathy, and severe external/internal bleeding; case fatality rates range between **25% and 90%**.
-- **Nipah Virus (NiV)**:
-  - Henipavirus (paramyxovirus, negative-sense ssRNA); first isolated in 1998 in Kampung Sungai Nipah, Malaysia (with domestic pigs as intermediate amplification hosts).
-  - Natural reservoir: *Pteropus* fruit bats; transmission occurs through consuming fruits or **raw date palm sap (toddy)** contaminated by bat urine or saliva, or through direct human-to-human contact.
-  - Landmark Indian outbreaks in **Kerala** (2018, 2021, 2024); clinical spectrum ranges from acute respiratory distress to fatal fulminant encephalitis; managed via intensive supportive care and monoclonal antibodies.
-
-
-## 3.6 Non-Communicable Diseases, Oncology & Metabolic Disorders
-
-- **Classification of Non-Communicable Diseases (NCDs)**:
-  - Account for $>60\%$ of total adult deaths in India; driven by four major behavioural risk factors: tobacco use, unhealthy diet, physical inactivity, and harmful alcohol consumption.
-  - Four major categories: Cardiovascular Diseases, Cancers, Chronic Respiratory Diseases (COPD, Asthma), and Diabetes.
-- **Cancer Pathogenesis & Clinical Oncology**:
-  - Normal cells show **Contact Inhibition** (inhibition of cell division upon physical contact with neighbouring cells); cancer cells lose this property, dividing relentlessly into abnormal masses called **Neoplasms / Tumours**.
-  - **Benign Tumours**: Remain localized to original site; encapsulated; do not invade surrounding tissues or spread to distant sites.
-  - **Malignant Tumours**: Non-capsulated; invade and destroy surrounding tissues; shed neoplastic cells into blood/lymph channels (**Metastasis** — the most dreaded hallmark of cancer).
-  - **Carcinogens**: Agents that induce cancer:
-    - Physical: UV rays, X-rays, gamma rays.
-    - Chemical: Tobacco smoke (contains benzo[a]pyrene, causing lung and oral cancer), coal tar, asbestos, aniline dyes (bladder cancer).
-    - Biological: Oncogenic viruses (HPV $\rightarrow$ cervical cancer; Hepatitis B & C $\rightarrow$ liver cancer; Epstein-Barr Virus / EBV $\rightarrow$ Burkitt's lymphoma).
-  - **Diagnostic Biomarkers & Techniques**:
-    - **Biopsy**: Microscopic histopathological examination of excised tissue section.
-    - **Pap Smear (Papanicolaou Test)**: Cytological screening test for cervical dysplasia and cancer.
-    - **PSA (Prostate-Specific Antigen)**: Serum protein biomarker elevated in prostate adenocarcinoma.
-    - **CA-125**: Serum biomarker for ovarian cancer.
-    - **Alpha-Fetoprotein (AFP)**: Biomarker for hepatocellular carcinoma.
-- **Diabetes Mellitus: Etiology & Clinical Management**:
-  - Endocrine disorder arising from defects in insulin secretion, insulin action, or both:
-  - **Physiological Action of Insulin**: Secreted by $\beta$-cells of pancreatic islets of Langerhans; promotes glucose uptake into skeletal muscle and adipose cells via GLUT-4 transporters; stimulates **Glycogenesis** (glucose $\rightarrow$ glycogen) in liver; inhibits **Glycogenolysis** and **Gluconeogenesis**; promotes lipogenesis and protein synthesis.
-  - **Glucagon**: Secreted by $\alpha$-cells; acts antagonistically to insulin to elevate blood glucose levels by triggering rapid glycogenolysis.
-  - **Clinical Triad of Diabetes**: **Polyuria** (frequent urination), **Polydipsia** (increased fluid intake), and **Polyphagia** (voracious appetite).
-  - **Long-term Microvascular Complications**: Diabetic Retinopathy (blindness), Diabetic Nephropathy (renal glomerulosclerosis), and Diabetic Neuropathy (loss of peripheral sensation $\rightarrow$ diabetic foot ulcers).
-  - **Glycated Haemoglobin (HbA1c)**: Glucose binds non-enzymatically to the N-terminal valine of haemoglobin $\beta$-chains; reflects ambient average blood glucose concentration over the **past 90–120 days** (erythrocyte lifespan); unaffected by day-to-day dietary fluctuations:
-    - Normal: $<5.7\%$
-    - Pre-diabetes: $5.7\%–6.4\%$
-    - **Diabetes**: $\mathbf{\ge 6.5\%}$
-
----
-
-
-### Master Human Genetic Disorders: Chromosomal Aberrations & Mendelian Inheritances
-
-| Genetic Disorder | Inheritance Pattern / Genetic Cause | Primary Biochemical / Cellular Defect | Cardinal Clinical Manifestations & High-Yield Exam Locks |
-|------------------|------------------------------------|---------------------------------------|----------------------------------------------------------|
-| **Haemophilia ("Royal Disease / Bleeder's Disease")** | **X-Linked Recessive**; carried by asymptomatic heterozygous females ($X^H X^h$), manifests clinically in hemizygous males ($X^h Y$) | Deficiency of clotting Factor VIII (Haemophilia A) or Factor IX (Haemophilia B, Christmas disease) | Prolonged coagulation time; minor cuts cause persistent, life-threatening internal/external hemorrhage; passed down European royal houses from Queen Victoria. |
-| **Color Blindness (Daltonism)** | **X-Linked Recessive**; gene located on X-chromosome | Genetic defect in red- or green-sensitive retinal cone photopigments | Inability to distinguish red from green hues; affected males pass mutated X exclusively to daughters (making them obligate carriers); sons inherit Y from father and thus cannot inherit trait from father. Screened via **Ishihara 38-Plate Test**. |
-| **Phenylketonuria (PKU)** | **Autosomal Recessive**; inborn error of amino acid metabolism | Inherited deficiency of hepatic enzyme **Phenylalanine Hydroxylase** | Inability to convert phenylalanine to tyrosine leads to toxic accumulation of phenylalanine and phenylpyruvic acid in cerebrospinal fluid and blood; causes **severe progressive mental retardation / idiocy**, microcephaly, and hypopigmentation. |
-| **Alkaptonuria (AKU)** | **Autosomal Recessive**; mutation in HGD gene | Defective homogentisate 1,2-dioxygenase in tyrosine metabolism pathway | Accumulation of homogentisic acid (alkapton); **urine turns dark black upon standing on exposure to air**; ochronosis (bluish-black pigmentation of cartilages and sclera) and early severe degenerative arthritis. |
-| **Albinism** | **Autosomal Recessive**; enzyme mutation | Total congenital absence or defect of the copper-containing enzyme **Tyrosinase** | Complete failure to synthesize **Melanin** pigment; snowy white hair, milky pinkish-white skin, translucent pink irises; extreme photophobia, sunburn, and high risk of cutaneous carcinoma. |
-| **Severe Combined Immunodeficiency (SCID / "Bubble Baby Disease")** | Autosomal recessive (ADA deficiency) or X-linked | Adenosine deaminase mutation or IL-2R $\gamma$-chain defect halting T and B cell maturation | Complete absence of adaptive cell-mediated and humoral immunity; infants die of minor infections unless isolated in sterile plastic isolator bubbles; curable via allogeneic bone marrow transplantation or retroviral ex-vivo gene therapy. |
-| **Sickle Cell Anaemia (SCD)** | **Autosomal Recessive / Codominant**; point mutation in $HBB$ gene on chromosome 11 | Single nucleotide substitution ($GAG \rightarrow GTG$) replacing glutamic acid with valine at codon 6 of $\beta$-globin chain | Deoxygenated mutant hemoglobin ($HbS$) polymerizes into rigid fibers, twisting RBCs into rigid crescent/sickle shapes; microvascular occlusion, painful vaso-occlusive bone crises, splenic infarction, chronic hemolytic anemia. **National Sickle Cell Elimination Mission** launched July 2023 in Shahdol (MP) to eliminate transmission by **2047**. |
-| **Thalassemia** | **Autosomal Recessive** blood disorder | Quantitative deficiency in synthesis of $\alpha$-globin ($\alpha$-thalassemia) or $\beta$-globin ($\beta$-thalassemia) chains | Imbalanced globin chain synthesis leads to erythrocyte hemolysis, microcytic hypochromic anemia, skeletal deformities (iron overload from frequent blood transfusions), and hepatosplenomegaly. |
-| **Duchenne Muscular Dystrophy (DMD)** | **X-Linked Recessive** | Mutation in the *dystrophin* gene on X-chromosome | Progressive necrosis and degeneration of skeletal muscle fibers; early childhood onset of proximal muscle weakness, calf pseudohypertrophy, wheelchair dependence by adolescence. |
-| **Down Syndrome (Trisomy 21 / "Mongolian Idiocy")** | **Aneuploidy: Trisomy of Chromosome 21** ($2n+1 = 47\text{ chromosomes}$, $45A + XX/XY$) | Primary non-disjunction of chromosome 21 pair during maternal gametogenesis | Flat facial profile, epicanthic eye folds, protruding furrowed tongue, transverse single palmar crease (simian crease), congenital endocardial cushion heart defects, and mild-to-moderate intellectual disability. |
-| **Turner Syndrome** | **Sex Chromosomal Monosomy** ($2n-1 = 45\text{ chromosomes}$, $44A + XO$) | Loss of one paternal or maternal X-chromosome in females | Phenotypically female; short stature, webbed neck (pterygium colli), shield-shaped chest, coarctation of aorta, **rudimentary streak ovaries causing absolute sterility (amenorrhea)**. |
-| **Klinefelter Syndrome** | **Sex Chromosomal Trisomy in Males** ($2n+1 = 47\text{ chromosomes}$, $44A + XXY$) | Meiotic non-disjunction contributing extra X-chromosome to male zygote | Phenotypically male; tall eunuchoid body proportions, sparse facial/body hair, high-pitched voice, **gynecomastia (enlarged male breast tissue)**, micro-orchidism with azoospermia (sterility). |
-
-### Oncology, Modern Radiation Medicine, Environmental Poisonings & Metabolic Pathology
-
-- **Mechanisms of Carcinogenesis & Metastasis**:
-  - Cancer involves uncontrolled mitotic proliferation of transformed neoplastic cells, evasion of apoptosis, and induction of neo-angiogenesis.
-  - **Metastasis Hierarchy**: Primary tumour cells invade local tissue $\rightarrow$ intravasate into blood and lymphatic vessels $\rightarrow$ travel via circulation $\rightarrow$ arrest and extravasate across capillary endothelium into distant organs $\rightarrow$ form micrometastases.
-  - **Oncogenes**: Mutated, hyper-activated cellular proto-oncogenes encoding oncoproteins that drive continuous mitotic signaling. First discovered retroviral oncogene was the *src* gene of **Rous Sarcoma Virus** (causes connective tissue sarcomas in fowl).
-  - **Carcinogens**: Physical (UV radiation, ionizing gamma/X-rays), chemical (tobacco benzopyrenes, asbestos, arsenic, aromatic amines, aflatoxins), and biological oncoviruses (HPV, HBV, EBV).
-- **Radioisotopes & Advanced Radiation Modalities in Oncology**:
-  - **Cobalt-60 ($^{60}\text{Co}$)**: Synthetic radioisotope that emits high-energy penetrating **Gamma ($\gamma$) rays**; used in external beam teletherapy for deep solid tumours.
-  - **Phosphorus-32 ($^{32}\text{P}$)**: Pure $\beta$-emitter; incorporates into rapidly dividing bone marrow cells; used to treat **Leukaemia (blood cancer)** and Polycythemia vera.
-  - **Iodine-131 ($^{131}\text{I}$)**: Concentrated selectively by sodium-iodide symporters in thyroid follicle cells; used in diagnostic thyroid scans and treatment of thyroid carcinoma and thyrotoxicosis.
-  - **Arsenic-74 ($^{74}\text{As}$)**: Positron/gamma emitting radiotracer used in locating deep brain **tumours** with pinpoint precision.
-  - **Sodium-24 ($^{24}\text{Na}$)**: Injected as sodium chloride solution to monitor vascular blood circulation velocity and detect thrombosis or occlusions.
-  - **Gold-198 ($^{198}\text{Au}$)**: Colloidal radioisotope used in intracavitary brachytherapy of neoplastic effusions.
-  - **Platinum Chemotherapy**: **Cisplatin and Carboplatin** crosslink DNA strands, forming the cornerstone chemotherapy for carcinomas (ovarian, testicular, lung, bladder).
-  - **Intensity Modulated Radiotherapy (IMRT)**: Computer-controlled linear accelerators manipulate beam intensity to sculpt radiation conformally around irregularly shaped solid tumours, sparing adjacent vital organs.
-
-- **Landmark Heavy Metal Poisonings & Environmental Pathologies**:
-  - **Minamata Disease (Methylmercury Poisoning)**: First documented in Minamata Bay, Kumamoto Prefecture, Japan (1956). Chemical factory effluent discharged methylmercury into coastal waters, which bioaccumulated through aquatic food chains into fish and shellfish. Human consumption provoked severe neurological devastation: sensory ataxia, peripheral numbness, tunnel vision, dysarthria, and severe spasticity.
-  - **Itai-Itai Disease ("Ouch-Ouch Disease" / Cadmium Poisoning)**: Mass cadmium poisoning along the Jinzu River basin in Toyama Prefecture, Japan (1912). Mining companies dumped cadmium into river irrigation channels for paddy fields. Cadmium accumulation triggered **severe osteomalacia, multiple pseudofractures, excruciating joint/lumbar pain**, and progressive renal tubular damage.
-  - **Blue Baby Syndrome (Infantile Methemoglobinemia)**: Consumption of groundwater contaminated with agricultural **Nitrates ($\text{NO}_3^-$)**. Gut microbes in infants reduce nitrates into nitrites, which enter circulation and oxidize the ferrous iron ($\text{Fe}^{2+}$) of hemoglobin into ferric iron ($\text{Fe}^{3+}$), forming **Methemoglobin**. Methemoglobin cannot bind oxygen, producing acute cellular hypoxia and slate-blue skin discoloration (cyanosis).
-  - **Fluorosis & Knock-Knee Syndrome (Genu valgum)**: Chronic consumption of groundwater with fluoride levels $>1.5\text{ mg/L}$ causes dental fluorosis (chalky enamel, yellow-brown mottling) and crippling skeletal fluorosis with **Genu valgum** (inward angling of knee joints causing knees to knock together during walking).
-  - **Epidemic Dropsy (Argemone Oil Poisoning)**: Ingestion of mustard cooking oil adulterated with the oil of **Argemone mexicana (Mexican prickly poppy)**. Contains toxic isoquinoline alkaloids **Sanguinarine** and dihydrosanguinarine, which uncouple oxidative phosphorylation, cause extensive capillary dilation and hyper-permeability, leading to massive albuminuria, severe pitting peripheral edema (dropsy), glaucoma, and cardiac failure.
-  - **Silicosis & Pneumoconiosis**:
-    - *Silicosis*: Occupational lung fibrosis caused by chronic inhalation of respirable crystalline free silica ($\text{SiO}_2$) dust in stone quarrying, quartz grinding, foundry, and tunnel excavation workers.
-    - *Pneumoconiosis ("Black Lung")*: Progressive coal-macule fibrosis caused by chronic coal dust inhalation in coal miners.
-  - **Lathyrism (Neurolathyrism)**: Irreversible spastic paraplegia of the lower limbs caused by habitual, excessive dietary consumption of **Khesari dal (*Lathyrus sativus*)**; mediated by the neurotoxin **$\beta$-ODAP** ($\beta$-N-oxalyl-$\alpha$,$\beta$-diaminopropionic acid).
-
-- **Metabolic, Cardiovascular, Neurological & Sensory Pathology**:
-  - **Diabetes Mellitus**:
-    - *Pathology*: Relative or absolute deficiency of insulin secreted by $\beta$-cells of pancreatic islets of Langerhans, causing chronic hyperglycemia, glycosuria, polyuria, polydipsia, and polyphagia.
-    - *Type 1 (IDDM / Juvenile-onset)*: Autoimmune destruction of pancreatic $\beta$-cells.
-    - *Type 2 (NIDDM / Adult-onset)*: Peripheral tissue insulin resistance combined with progressive secretory defect.
-    - *Management*: Long-term glycemic monitoring via **Glycosylated Hemoglobin (HbA1c)** (reflects preceding 8–12 week mean blood glucose); discovery of insulin by **Banting and Best (1921)**; dietary supplements: **Fenugreek (Methi) seeds** (contain trigonelline and 4-hydroxyisoleucine) and Curry leaves.
-  - **Diabetes Insipidus ("Water Diabetes")**: Hypothalamic or neurohypophyseal failure to produce or secrete **Antidiuretic Hormone (ADH / Vasopressin)**; distal renal tubules fail to concentrate urine, leading to massive dilute polyuria (up to 15–20 L/day) and relentless unquenchable thirst (polydipsia).
-  - **Cardiovascular Dynamics & "Golden Hour"**:
-    - *Heart Attack (Myocardial Infarction)*: Coronary artery thrombosis following atherosclerotic plaque rupture. **"Golden Hour"** denotes the critical first 60 minutes post-symptom onset during which reperfusion therapy (thrombolysis or primary PCI) rescues maximum ischemic myocardium.
-    - *CABG Surgery*: Uses autologous vascular grafts: **Great Saphenous Vein** from leg, **Internal Mammary (Thoracic) Artery** from chest wall, or **Radial Artery** from forearm.
-    - *Cath Lab*: Advanced fluoroscopic angiographic operating theater located within the hospital's **Cardiology Department**.
-    - *Cardiopulmonary Resuscitation (CPR)*: Emergency life-saving maneuver combining chest compressions (100–120/min) and rescue breathing to maintain coronary and cerebral perfusion during cardiac arrest.
-    - *Aspirin*: Acetylsalicylic acid; non-narcotic anti-inflammatory and irreversible inhibitor of platelet cyclooxygenase-1 (COX-1), preventing arterial thrombosis.
-  - **Neurodegenerative Disorders**:
-    - *Alzheimer's Disease*: Progressive cortical dementia marked by cerebral deposition of insoluble **$\beta$-amyloid precursor protein plaques** and intracellular hyperphosphorylated **tau neurofibrillary tangles**; first isolated by Alois Alzheimer.
-    - *Parkinson's Disease*: Hypokinetic movement disorder caused by selective degeneration of dopaminergic neurons in the substantia nigra; characterized by resting tremor, rigidity, bradykinesia, and postural instability. **Arvid Carlsson** won the 2000 Nobel Prize for discovering dopamine's neurotransmitter function and establishing L-dopa replacement therapy.
-  - **Ophthalmic Refractive Errors & Topography**:
-    - *Myopia (Near-Sightedness)*: Eyeball anteroposterior diameter elongated; image focuses in front of retina; distant objects blurred; corrected using **Concave (diverging) spherical lenses**.
-    - *Hypermetropia (Far-Sightedness)*: Eyeball shortened; image focuses behind retina; near objects blurred; corrected using **Convex (converging) spherical lenses**.
-    - *Astigmatism*: Asymmetric meridian curvature of cornea or crystalline lens; light refracted unevenly at different planes; corrected using **Cylindrical lenses**.
-    - *Cataract*: Senile denaturation and aggregation of lens crystallin proteins creating a milky cloudy opacity; surgically managed by phacoemulsification and **Intraocular Lens (IOL)** implantation.
-    - *Retinal Landmarks*: **Fovea Centralis (Yellow Spot / Macula lutea)** possesses exclusive packing of cone photoreceptors, providing highest visual resolving power (sharpest acuity); **Optic Disc (Blind Spot)** is completely devoid of photoreceptors at the exit site of the optic nerve.
-    - *Mydriatic Alkaloid*: Ophthalmic drops of **Atropine** (extracted from *Atropa belladonna*) block pupillary constrictor muscarinic receptors, causing sustained pupil dilation.
-  - **Other Clinical Disorders**:
-    - *Oral Submucous Fibrosis (OSF)*: Pre-malignant chronic fibrotic scarring and blanching of the oral submucosa; caused by regular chewing of **Areca nut / Gutkha** containing arecoline alkaloid; leads to progressive lockjaw (inability to open mouth).
-    - *Lukoskin*: Dual polyherbal formulation (liquid + ointment) developed by DRDO's **Defence Institute of Bio-Energy Research (DIBER), Haldwani** for the therapeutic management of Vitiligo (Leucoderma).
-    - *Cerebral Palsy*: Non-progressive congenital movement and postural neuro-disorder caused by hypoxic/ischemic brain damage during perinatal encephalic development in young children.
-    - *Bulimia Nervosa*: Eating disorder characterized by episodes of uncontrolled binge eating followed by self-induced vomiting or laxative purging.
-    - *Sleep Apnea*: Repetitive cessation of respiration during sleep caused by upper pharyngeal airway collapse; hallmark symptom is heavy loud snoring.
-    - *Anosmia*: Total or partial loss of the olfactory sense (smell); common in chronic rhinitis, post-viral trauma, and cribriform plate head injuries.
-
-
-## 3.7 Vaccines, Diagnostic Tests & Clinical Instruments
-
-- **Immunology Foundations: Active vs Passive Immunity**:
-  - **Active Immunity**: Host's own immune system is stimulated to produce antibodies and memory lymphocytes following natural infection or vaccination; slow onset, long-lasting / lifelong protection.
-  - **Passive Immunity**: Ready-made pre-formed antibodies are directly introduced into the body; produces instantaneous protection but confers short-lived immunity with no immunological memory:
-    - Natural passive: Maternal **IgG** crossing the placenta to the fetus; secretory **IgA** delivered to newborns via maternal **Colostrum** (initial yellowish breast milk).
-    - Artificial passive: Anti-tetanus serum (ATS), Anti-rabies serum, Anti-snake venom (ASV).
-- **The Global COVID-19 Vaccine Arsenal**:
-
-| Vaccine Trade Name | Developing Manufacturer / Country | Vaccine Technology Platform | Antigen Used |
-|--------------------|-----------------------------------|-----------------------------|--------------|
-| **Covaxin (BBV152)** | Bharat Biotech & ICMR (India) | **Inactivated Whole Virus** | Chemically killed whole SARS-CoV-2 virion |
-| **Sinovac (CoronaVac)**| Sinovac Biotech (China) | **Inactivated Whole Virus** | Chemically killed whole SARS-CoV-2 virion |
-| **Covishield** | Serum Institute of India / AstraZeneca | **Non-Replicating Viral Vector** | Modified Chimpanzee Adenovirus (ChAdOx1) carrying S-gene |
-| **Sputnik V** | Gamaleya Research Institute (Russia) | **Heterologous Viral Vector** | Recombinant Human Adenoviruses (Ad26 & Ad5) |
-| **Moderna (mRNA-1273)**| Moderna (USA) | **Synthetic mRNA in LNPs** | mRNA encoding stabilized Spike glycoprotein |
-| **Pfizer-BioNTech** | Pfizer & BioNTech (USA/Germany) | **Synthetic mRNA in LNPs** | mRNA encoding full-length Spike glycoprotein |
-| **Corbevax** | Biological E. Limited (India) | **Protein Subunit** | Recombinant Spike protein receptor-binding domain |
-| **ZyCoV-D** | Zydus Cadila (India) | **Plasmid DNA (Needle-free)** | Plasmid DNA expressing spike protein; Tropis applicator |
-
-- **Comprehensive Medical Diagnostic Tests & Instruments**:
-  - **Widal Test**: Tube/slide agglutination test for **Typhoid Fever** (*Salmonella typhi*).
-  - **Mantoux Test**: Intradermal injection of 5 TU Purified Protein Derivative (PPD); read at 48–72 hours for **Tuberculosis**.
-  - **Schick Test**: Intradermal toxin test assessing susceptibility to **Diphtheria**.
-  - **VDRL / RPR / Wassermann Test**: Screening serological tests for **Syphilis** (*Treponema pallidum*).
-  - **ELISA (Enzyme-Linked Immunosorbent Assay)**: Rapid enzyme-substrate screening assay for **HIV/AIDS**, Hepatitis B, and hormones.
-  - **Western Blotting**: Confirmatory antibody-protein detection test for **HIV/AIDS**.
-  - **RT-PCR (Reverse Transcription Polymerase Chain Reaction)**: Molecular detection of viral RNA in **COVID-19, Swine Flu (H1N1), and Hepatitis C**.
-  - **ECG (Electrocardiogram)**: Records cardiac electrical conduction: **P Wave** (atrial depolarization), **QRS Complex** (ventricular depolarization), **T Wave** (ventricular repolarization). (Willem Einthoven).
-  - **EEG (Electroencephalogram)**: Records brain wave frequencies: Alpha (awake relaxed), Beta (active alert), Theta, Delta (deep sleep). (Hans Berger).
-  - **Endoscope**: Flexible fiber-optic tube used for direct visual examination of hollow internal viscera (stomach, duodenum, colon); functions entirely on the physical principle of **Total Internal Reflection (TIR)**.
 
 ---
 
@@ -2273,19 +1832,19 @@ D. 48 days
 **Q105. (U.P.P.C.S. (Spl.) (Mains) 2008)** The disease ‘Tetanus’ is also known as :  
 A. Gangrene  
 B. Shingles  
-C. Lock jaw  
+C. Fact jaw  
 D. Whooping cough  
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** (c) — Lock jaw
+**Correct Answer:** (c) — Fact jaw
 
 - Tetanus is a bacterial disease caused by the bacteriaClostridium
 - tetani. When the tetanus bacteria invade the body through a
 - wound, they produce a toxin or poison, that causes muscles
 - to become tight, which is very painful. Tetanus mainly affects
-- the neck and abdomen. It is also known as ‘lock jaw’ because
-- it often causes a person’s neck and jaw muscles to lock,
+- the neck and abdomen. It is also known as ‘fact jaw’ because
+- it often causes a person’s neck and jaw muscles to fact,
 - making it hard to open the mouth or swallow.
 </details>
 
@@ -4279,6 +3838,446 @@ D. Gelatine
 </details>
 
 
+## Ghatnachakra Extra Drill: Macronutrient Dynamics, Fats & Proteins
+- **Macronutrient Fuel Energetics**:
+  - **Carbohydrates**: Provide **55–75%** of daily bodily energy needs; complete oxidation yields **4.5 kcal/gram**.
+  - **Lipids / Fats**: Concentrated energy store; complete combustion yields **9.0 to 9.3 kcal/gram**; constitutes ~7% of body weight in a lean adult.
+  - **Proteins**: Primary tissue-building block; when catabolized as fuel, yields **4.0 kcal/gram**.
+  - **Water**: Zero calories! Consuming water yields **0 kcal**.
+  - **Daily Work Energy Requirements**: A laborer performing hard manual labor requires **3500–4000 kcal/day**.
+  - **Daily Protein Requirements**: Adult sedentary female: 45–46 g/day; **Nursing (lactating) mother: at least 65 g/day**.
+- **Lipid Classifications & Essential Fatty Acids**:
+  - **Saturated Fatty Acids**: Single covalent C-C bonds; solid at room temperature; elevate plasma LDL ("bad") cholesterol; synthesized endogenously (non-essential); Examples: Butyric (butter), Lauric (coconut oil), Myristic (cow milk), Palmitic (palm oil, meat), Stearic (cocoa butter).
+  - **Unsaturated Fatty Acids (PUFA / MUFA)**: Contain one or more double/triple bonds; lower melting point (liquid at room temp); lower serum cholesterol; protect cardiovascular health.
+    - **Essential Fatty Acids (EFA)**: Cannot be synthesized by humans:
+      - **$\alpha$\alpha$-Linolenic Acid (ALA — Omega-3)**: Prevents intravascular thrombosis and plaque build-up. **Richest oilseed source = Linseed (Flaxseed) oil**.
+      - **Linoleic Acid (LA — Omega-6)**: Found in peanut, olive, sunflower oil.
+      - **Arachidonic Acid (Omega-6)**: Found in liver, brain, and glandular lipids; direct biosynthetic precursor to prostaglandins, thromboxanes, and leukotrienes.
+  - **Hydrogenation & Trans-Fats**: Catalytic bubbling of hydrogen gas through liquid vegetable oil at 30°–40°C in the presence of a Nickel (Ni) catalyst converts unsaturated oils into solid saturated fat (vanaspati). Produces harmful **Trans Fats**, which simultaneously elevate LDL and depress HDL, sharply increasing the risk of coronary heart disease and stroke.
+- **Proteins & Amino Acid Dynamics**:
+  - 20 standard amino acids: **10 Essential** (must be obtained from diet: Phenylalanine, Valine, Threonine, Tryptophan, Isoleucine, Methionine, Histidine, Arginine, Leucine, Lysine; Arginine & Histidine are semi-essential/juvenile) + **10 Non-Essential** (synthesized endogenously).
+  - **Tyrosine**: Non-essential aromatic amino acid synthesized from phenylalanine; precursor to critical catecholamine neurotransmitters in the brain (**Adrenaline, Noradrenaline, Dopamine**).
+  - **Storage Trap**: Unlike fats (adipose) and glucose (glycogen), **amino acids are NOT stored in the human body** and must be ingested on a continuous daily basis.
+  - **Gluten**: Protein composite in wheat endosperm providing viscoelasticity to dough, enabling leavened bread to expand and retain its shape.
+  - **Top Protein Food Sources**:
+    - **Soybean**: **~40% protein content** (highest among foodgrains and pulses; also contains 20% fat and 30% carbohydrate).
+    - **Groundnut (Peanut)**: Outstanding dual source: **25.3% protein + 48.1% fat**.
+- **Milk & Carbohydrate Chemistry**:
+  - Milk is approximately 87% water, containing fats, casein protein, calcium, and **Lactose (milk sugar, a disaccharide of glucose + galactose)**, which imparts sweetness.
+  - Sour milk / curd formation: **Lactobacillus bacteria** ferment lactose into lactic acid, dropping pH and coagulating casein.
+  - **Cow's Milk Yellow Hue**: Imparted by fat-soluble **Carotene** pigments ($C_{40}H_{56}$ hydrocarbon family).
+  - Basmati Rice Cooking Elongation: Due to a uniquely high percentage of straight-chain **Amylose** starch (which resists gelatinization and keeps grains long, firm, and separate) compared to highly branched, sticky Amylopectin.
+- **Antioxidants & Free Radical Quenching**:
+  - Metabolic oxidation produces toxic, highly reactive free radicals (superoxide, hydroxyl) that initiate cellular chain reactions damaging DNA, lipids, and proteins.
+  - **Antioxidants** (Vitamin C, Vitamin E, polyphenols, selenium) terminate these chain reactions by safely donating electrons and being oxidized themselves. Fresh fruits and vegetables (especially apples, rich in potassium and flavonoids) are prime dietary sources.
+- **Trace Elements & Micro-Minerals**:
+  - Micro-minerals (<0.01% of body weight): Iron, Zinc, Copper, Iodine, Fluorine, Selenium, Manganese, Molybdenum, Cobalt.
+  - Total mass order in human body: $\text{Copper } < \text{Iron } < \text{Sodium } < \text{Potassium}$.
+  - **Karonda (*Carissa carandas*)**: An exceptionally rich botanical fruit source of bioavailable **Iron**, used clinically in treating nutritional anaemia.
+  - **Muscle Contraction Minerals**: Requires **Calcium ($Ca^{2+}$)**, **Sodium ($Na^+$)**, **Potassium ($K^+$)**, and **Iron** (in myoglobin for oxygen delivery).
+
+
+## 3.2 Sugars, Carbohydrate Classes & Enzymes
+
+- **Classification of Carbohydrates**:
+  - **Monosaccharides (Simple Sugars, $C_n H_{2n} O_n$)**:
+    - **Glucose (Dextrose / Grape Sugar / Blood Sugar)**: Immediate cellular fuel; normal fasting physiological concentration is **$70–100\text{ mg/dL}$**; transported in bloodstream.
+    - **Fructose (Levulose / Fruit Sugar)**: Ketohexose found in fruits and honey; **sweetest natural sugar**; unique fuel utilized by human spermatozoa (secreted by seminal vesicles).
+    - **Galactose (Brain Sugar)**: Hydrolysed from milk lactose; converted to glucose in the liver.
+  - **Oligosaccharides (Disaccharides, $C_{12} H_{22} O_{11}$)**:
+    - **Sucrose (Table Sugar / Cane Sugar / Invert Sugar)**: Non-reducing sugar composed of **$\alpha$-D-Glucose + $\beta$-D-Fructose** linked by $\alpha\text{-1,2-glycosidic bond}$; hydrolysed by invertase/sucrase.
+    - **Lactose (Milk Sugar)**: Reducing sugar composed of **$\beta$-D-Galactose + $\beta$-D-Glucose** linked by $\beta\text{-1,4-glycosidic bond}$; least sweet natural sugar; deficiency of intestinal lactase causes **lactose intolerance** (bloating, cramps, osmotic diarrhoea).
+    - **Maltose (Malt Sugar)**: Reducing sugar composed of two **$\alpha$-D-Glucose** molecules linked by $\alpha\text{-1,4-glycosidic bond}$; product of starch hydrolysis by salivary and pancreatic amylase.
+  - **Polysaccharides (Complex Polymers, $(C_6 H_{10} O_5)_n$)**:
+    - **Starch**: Storage carbohydrate of plants; composed of unbranched water-soluble **Amylose** ($\alpha\text{-1,4}$ bonds) and branched insoluble **Amylopectin** ($\alpha\text{-1,4}$ and $\alpha\text{-1,6}$ bonds); stains deep **blue-black with iodine**.
+    - **Glycogen (Animal Starch)**: Storage carbohydrate of animals and fungi; highly branched polymer of glucose; stains **red-violet with iodine**; stored primarily in liver and skeletal muscles.
+    - **Cellulose**: Structural unbranched polysaccharide of plant cell walls composed of $\beta$-D-glucose linked by **$\beta\text{-1,4-glycosidic bonds}$**; provides dietary bulk and stimulates intestinal peristalsis; completely undigested by human enzymes.
+- **Enzymes as Biological Catalysts**:
+  - Almost all enzymes are globular proteins (ribozymes like 23S rRNA are RNA exceptions); accelerate chemical reaction rates by several million-fold by **lowering the activation energy barrier** without undergoing permanent chemical alteration.
+  - Show exquisite substrate specificity (Fact and Key hypothesis of Emil Fischer; Induced Fit theory of Daniel Koshland).
+  - Many enzymes require non-protein chemical components called **Cofactors**: inorganic metal ions ($Zn^{2+}$ for carbonic anhydrase, $Fe^{2+}$ for catalase, $Mg^{2+}$ for hexokinase) or organic **Coenzymes** (derived predominantly from B-complex vitamins, e.g. TPP from B1, FAD from B2, NAD from B3, CoA from B5).
+
+---
+
+## 3.3 The Vitamin Spectrum: Fat-Soluble vs Water-Soluble
+
+- **Vitamins: General Principles**:
+  - Vital organic micronutrients required in trace quantities for physiological regulation; do not yield direct metabolic energy.
+  - Term "Vitamine" coined by Polish biochemist **Casimir Funk (1912)** (originally believed to be "vital amines").
+  - The human body **cannot synthesise most vitamins** (must be obtained from diet); exceptions: **Vitamin D** (made in sunlit skin), **Vitamin K and B12** (synthesised by intestinal microflora in colon), and small amounts of **Niacin** (from tryptophan).
+- **Fat-Soluble Vitamins (A, D, E, K)**:
+  - **Vitamin A (Retinol)**:
+    - Converted from dietary provitamin carotenoids ($\beta$-carotene) in the intestinal mucosa and liver.
+    - Forms **Rhodopsin (visual purple)** in retinal rod cells, essential for scotopic dim-light vision.
+    - Deficiency cascade: **Nyctalopia (Night Blindness)** $\rightarrow$ **Xerophthalmia** (conjunctival dryness, Bitot's triangular foamy spots on sclera) $\rightarrow$ **Keratomalacia** (corneal softening, ulceration, permanent blindness) and hyperkeratosis of skin (*toad skin*).
+  - **Vitamin D (Calciferol)**:
+    - Precursor 7-dehydrocholesterol in skin is converted to Cholecalciferol ($D_3$) by UV-B sunlight; converted in liver to 25-hydroxycalciferol, and activated in kidney by 1-$\alpha$-hydroxylase to **1,25-dihydroxycholecalciferol (Calcitriol)**.
+    - Stimulates active intestinal absorption of $Ca^{2+}$ and phosphate, maintaining bone mineralization.
+    - Deficiency in children: **Rickets** (failure of bone calcification, bow legs / genu varum, knock knees, rickety rosary on ribs, delayed closure of fontanelles).
+    - Deficiency in adults: **Osteomalacia** (softening and demineralization of adult bones, severe bone pain and fractures).
+  - **Vitamin E (Tocopherol)**:
+    - Group of tocopherols and tocotrienols ($\alpha$-tocopherol is most biologically active).
+    - Major lipid-soluble antioxidant in biological membranes; scavenges reactive oxygen species (ROS) and terminates lipid peroxidation chain reactions; protects RBC membranes from fragility.
+    - Richest sources: Wheat-germ oil, sunflower oil, safflower oil, nuts, and green vegetables.
+  - **Vitamin K (Phylloquinone / Menaquinone)**:
+    - Post-translational cofactor for $\gamma$-glutamyl carboxylase in the liver, enabling calcium-binding activation of blood clotting factors **II (Prothrombin), VII, IX, and X**, as well as bone osteocalcin.
+    - Deficiency: Defective blood coagulation, prolonged prothrombin time, excessive subcutaneous bruising, and uncontrollable haemorrhage.
+    - Haemorrhagic disease of the newborn occurs because neonates have a sterile gut lacking bacterial flora and breast milk is low in Vitamin K (routine intramuscular Vitamin K injection given at birth).
+- **Water-Soluble Vitamins (B-Complex & C)**:
+  - **Vitamin B1 (Thiamine)**:
+    - Coenzyme TPP decarboxylates pyruvate to acetyl-CoA; critical for nervous system glucose oxidation.
+    - Deficiency: **Beriberi**:
+      - **Dry Beriberi**: Severe peripheral polyneuropathy, symmetrical foot-drop and wrist-drop, muscle wasting.
+      - **Wet Beriberi**: Cardiovascular involvement, high-output congestive heart failure, peripheral pitting oedema.
+      - **Wernicke-Korsakoff Syndrome**: Encephalopathy, ataxia, confusion, and memory loss in chronic alcoholics.
+      - **Logic:** **Polished rice diets strip thiamine, causing beriberi (UPPCS 2019).**
+  - **Vitamin B2 (Riboflavin)**:
+    - Essential for FMN and FAD coenzymes in cellular respiration.
+    - Deficiency: Ariboflavinosis causing **Cheilosis** (cracking at lips), **Angular Stomatitis** (fissures at angles of mouth), and **Glossitis** (swollen magenta tongue).
+  - **Vitamin B3 (Niacin / Nicotinic Acid)**:
+    - Precursor of NAD and NADP; deficiency causes **Pellagra** (characterised by 4 Ds: Dermatitis, Diarrhoea, Dementia, Death).
+    - Casal's necklace is a pathognomonic broad dermatitis collar around the neck in pellagra patients exposed to sunlight.
+  - **Vitamin B6 (Pyridoxine)**:
+    - Coenzyme for transaminases and amino acid metabolism; deficiency causes peripheral neuritis and microcytic anaemia. Drug **Isoniazid (INH)** used in TB therapy forms a complex with pyridoxine, requiring co-administration of Vitamin B6.
+  - **Vitamin B9 (Folic Acid)**:
+    - Transfers one-carbon units in DNA synthesis; deficiency causes **Megaloblastic Anaemia** and fetal **Neural Tube Defects (Spina bifida)**.
+  - **Vitamin B12 (Cyanocobalamin)**:
+    - Possesses a corrin ring coordinated to a central **Cobalt** atom; essential for normal erythropoiesis and myelin sheath maintenance.
+    - Requires **Castle's Intrinsic Factor** (secreted by gastric parietal/oxyntic cells) for absorption in the ileum.
+    - Deficiency: **Pernicious Anaemia** (autoimmune destruction of parietal cells, giant megaloblasts) and subacute combined degeneration of the spinal cord (tingling, ataxia).
+  - **Vitamin C (Ascorbic Acid)**:
+    - Powerful water-soluble antioxidant; keeps prolyl and lysyl hydroxylase enzymes in reduced state for **collagen triple-helix cross-linking**; promotes intestinal non-haem iron absorption by reducing $Fe^{3+} \rightarrow Fe^{2+}$.
+    - Deficiency: **Scurvy** (breakdown of capillaries, bleeding swollen spongy gums, loss of teeth, petechiae, delayed wound healing, anaemia).
+    - Extremely thermolabile: destroyed by heating, boiling, and prolonged drying. Amla is the richest Indian food source.
+
+---
+
+## 3.4 Mineral Dynamics, Toxic Heavy Metals & Environmental Poisonings
+
+- **Macro-minerals & Micro-minerals**:
+  - **Macro-minerals ($>100\text{ mg/day}$)**: Calcium, Phosphorus, Potassium, Sulfur, Sodium, Chloride, Magnesium.
+  - **Micro-minerals / Trace Elements ($<100\text{ mg/day}$)**: Iron, Zinc, Copper, Iodine, Fluoride, Manganese, Selenium, Molybdenum, Chromium, Cobalt.
+  - **Iron ($Fe$)**: Core functional component of **Haemoglobin** in blood and **Myoglobin** in muscle; deficiency causes **Microcytic Hypochromic Anaemia** (fatigue, pallor, spoon-shaped nails / **Koilonychia**); rich sources: Jaggery (gur), spinach, liver, red meat, legumes.
+  - **Iodine ($I$)**: Essential constituent of thyroid hormones **Thyroxine ($T_4$) and Triiodothyronine ($T_3$)**; deficiency causes simple endemic **Goitre** (thyroid enlargement), **Cretinism** in infants (stunted growth, mental retardation, deaf-mutism), and **Myxedema** in adults; prevented by iodized salt (fortified with potassium iodate $KIO_3$).
+  - **Zinc ($Zn$)**: Component of $>300$ enzymes (carbonic anhydrase, alcohol dehydrogenase, DNA/RNA polymerases); essential for insulin storage, taste acuity (**Hypogeusia**), spermatogenesis, and wound healing; deficiency causes growth retardation, delayed sexual maturation, and **Acrodermatitis enteropathica**.
+- **Environmental Toxic Heavy Metal Poisonings (Direct PSC Common Traps)**:
+
+| Toxic Agent / Contaminant | Environmental Source | Disease / Clinical Syndrome | Pathological Manifestation |
+|---------------------------|----------------------|-----------------------------|----------------------------|
+| **Methyl Mercury ($Hg$)** | Industrial effluent in fish/shellfish | **Minamata Disease** | Severe neurotoxicity, sensory ataxia, constriction of visual fields, hearing loss, convulsions |
+| **Cadmium ($Cd$)** | Mining runoff in river irrigation | **Itai-Itai Disease ("Ouch-Ouch")** | Painful osteomalacia, multiple pseudofractures, renal tubular proteinuria |
+| **Lead ($Pb$)** | Leaded petrol, old paints, pipes | **Plumbism / Saturnism** | Microcytic anaemia, basophilic stippling of RBCs, **Burtonian Blue Line** on gums, wrist drop, encephalopathy |
+| **Nitrate ($NO_3^-$)** | Fertilizer runoff in well drinking water | **Blue Baby Syndrome (Methemoglobinemia)** | Nitrate reduced to nitrite; forms methemoglobin; severe cyanosis, asphyxia, blue-tinged skin |
+| **Arsenic ($As$)** | Groundwater in alluvial aquifers | **Blackfoot Disease**, Hyperkeratosis | Peripheral vascular gangrene of feet/toes, cutaneous hyperkeratosis, bladder/lung cancer |
+| **Excess Fluoride ($F^-$)** | Geogenic groundwater $>1.5–2\text{ ppm}$ | **Dental & Skeletal Fluorosis** | Brown mottled dental enamel; bone deformities, stiff joints, **Knock-knee syndrome (Genu valgum)** |
+| **Asbestos Fibres** | Asbestos mining, roofing, insulation | **Asbestosis & Mesothelioma** | Diffuse pulmonary fibrosis; malignant cancer of the pleura/peritoneum |
+| **Silica Dust ($SiO_2$)** | Stone quarrying, sandblasting, pottery | **Silicosis** | Chronic fibrotic nodular lung disease; pre-disposes to active pulmonary tuberculosis |
+| **Coal Dust** | Underground coal mining | **Anthracosis ("Black Lung")** | Carbon accumulation in pulmonary macrophages, progressive massive fibrosis |
+| **Cotton Dust** | Textile mill spinning and carding | **Byssinosis ("Brown Lung")** | Monday chest tightness, bronchospasm, chronic bronchitis |
+| **Sugar Cane Bagasse** | Sugar and paper manufacture | **Bagassosis** | Hypersensitivity pneumonitis from thermophilic actinomycetes |
+
+---
+
+## 3.5 Infectious, Communicable & Vector-Borne Diseases
+
+- **Modes of Transmission & Disease Terminology**:
+  - **Infectious / Communicable**: Diseases caused by biological pathogens capable of being transmitted from an infected host to a susceptible individual via air, water, food, vector, or direct physical contact.
+  - **Vector**: A living organism (usually an arthropod) that transfers an infectious agent from one host to another (e.g. mosquito, tick, sandfly, flea).
+  - **Vehicle**: A non-living contaminated intermediate substance transmitting pathogens (e.g. water, milk, food, surgical instruments).
+  - **Endemic**: Constant presence of a disease within a geographic area (e.g. goitre in sub-Himalayan belt).
+  - **Epidemic**: Sudden outbreak of disease attacking many people simultaneously in a community.
+  - **Pandemic**: Worldwide epidemic spreading across continents (e.g. Spanish Flu 1918, COVID-19 2020).
+- **Major Bacterial Diseases of Public Health Significance**:
+  - **Tuberculosis**: Sputum smear microscopy (Ziehl-Neelsen acid-fast staining), GeneXpert (rapid molecular testing), Mantoux test ($>10\text{ mm}$ induration = positive). DOTS uses daily fixed-dose combination therapy.
+  - **Typhoid Fever**: Widal test measures agglutinating antibody titres against $O$ (somatic) and $H$ (flagellar) antigens of *Salmonella typhi*.
+  - **Cholera**: Massive fluid loss ($10–20\text{ litres/day}$); death results from hypovolemic circulatory shock; treatment of choice is immediate aggressive hydration with WHO-formulated ORS (contains NaCl, KCl, Trisodium citrate, and anhydrous Glucose).
+  - **Diphtheria, Pertussis, Tetanus**: Covered by trivalent **DPT / Pentavalent Vaccine** administered under the Universal Immunisation Programme (UIP).
+- **Major Viral Diseases of Public Health Significance**:
+  - **Dengue Fever**: Caused by Flavivirus; transmitted by female *Aedes aegypti* (breeds in clean domestic stagnant water; day-biter). Tourniquet test indicates capillary leakage; marked by precipitous decline in platelet counts ($<100,000/\mu\text{L}$); critical management requires fluid monitoring, avoiding NSAIDs like aspirin/ibuprofen (which exacerbate bleeding).
+  - **Chikungunya & Zika**: Also transmitted by *Aedes aegypti*; Zika virus infection in pregnant women causes severe congenital fetal **Microcephaly** (abnormally small head/brain).
+  - **Nipah Virus (NiV)**: Enveloped negative-sense single-stranded RNA Henipavirus (family Paramyxoviridae); natural reservoir host is the **Fruit Bat / Flying Fox (genus *Pteropus*)**; transmission occurs via consumption of raw date palm sap or fruits bitten by infected bats, contact with intermediate infected domestic pigs, or direct human-to-human droplet contact; clinical hallmark: acute encephalitis, fever, headache, altered consciousness, and rapid progression to coma ($40–75\%$ case fatality rate); Kerala outbreaks: Kozhikode (2018), Malappuram (2024), Palakkad (2025).
+  - **COVID-19 (SARS-CoV-2)**: Single-stranded positive-sense enveloped RNA coronavirus; binds to **ACE2 (Angiotensin-Converting Enzyme 2) receptors** via its trimeric surface **Spike (S) glycoprotein**; diagnosed by **RT-PCR** (gold standard detecting viral $E$, $N$, and $RdRp$ genes) or Rapid Antigen Test (RAT).
+- **Major Protozoan & Helminthic Diseases**:
+  - **Malaria**: Four species of *Plasmodium*: *P. vivax* (benign tertian, 48-hr cycle), *P. falciparum* (malignant tertian, irregular/48-hr cycle, cerebral malaria), *P. malariae* (quartan, 72-hr cycle), *P. ovale* (ovale tertian). Asexual erythrocytic schizogony causes synchronous bursting of RBCs, dumping **haemozoin** toxin into plasma which triggers cyclic chills and fever. Biological control: Gambusia fish (*Gambusia affinis*), guppy fish, and dragonfly nymphs feed voraciously on mosquito larvae in ponds.
+  - **Filariasis (Elephantiasis)**: Caused by *Wuchereria bancrofti* and *Brugia malayi*; transmitted by nocturnal female *Culex* mosquitoes; adult worms lodge in human **inguinal and scrotal lymphatics**, causing chronic lymphangitis, gross obstruction, and elephantine lymphedema of legs and scrotum (**Hydrocele**); treated with Diethylcarbamazine (DEC) and Albendazole.
+
+---
+
+
+### Master Bacterial Pathogens, Clinical Manifestations & Antibiotics
+
+| Bacterial Disease | Pathogen / Morphology | Primary Affected Organs | Transmission & Hallmarks | Treatment & Vaccines |
+|-------------------|-----------------------|-------------------------|--------------------------|----------------------|
+| **Cholera** | *Vibrio cholerae* (Gram-negative comma-shaped bacillus) | Small intestine | Contaminated water & food; severe watery "rice-water" diarrhoea, acute dehydration | Oral Rehydration Solution (ORS), Azithromycin, Tetracycline |
+| **Plague ("Black Death")** | *Yersinia pestis* (*Pasteurella pestis*) (Gram-negative rod) | Lymphatic nodes (buboes in groin, neck, axilla) | Vector: **Rat flea (*Xenopsylla cheopis*)** from wild rodents; bubonic, septicemic, and pneumonic (fatal within 24 hrs) | Streptomycin, Gentamicin, Doxycycline |
+| **Tuberculosis (TB)** | *Mycobacterium tuberculosis* (Acid-fast rod) | Lungs primarily; pleura, lymph nodes, spine (Pott's disease) | Airborne droplets; fever, night sweats, hemoptysis, chronic cough; **#1 infectious killer worldwide (~1.25M annual deaths)** | **BCG vaccine** at birth; **Mantoux Tuberculin Skin Test (TST)**; DOTS (Isoniazid, Rifampicin, Pyrazinamide, Ethambutol, PAS) |
+| **Leprosy (Hansen's Disease)** | *Mycobacterium leprae* & *M. lepromatosis* (Acid-fast bacilli) | Skin, peripheral nerves, upper respiratory mucosa | Nasal droplets; skin hypo-pigmented patches, sensory loss, nerve thickening, deformities | Multi-Drug Therapy (MDT: Dapsone, Rifampicin, Clofazimine, PAS) |
+| **Pneumonia** | *Streptococcus pneumoniae* & *Haemophilus influenzae* | Alveolar air sacs of lungs | Droplets; alveoli fill with fluid/exudate, chest pain, dyspnea, fever | **Pneumococcal Conjugate Vaccine (PCV)**; Penicillin, Ceftriaxone |
+| **Typhoid (Enteric Fever)** | *Salmonella typhi* & *S. paratyphi* (Gram-negative flagellated bacillus) | Small intestine (Peyer's patches), bloodstream | Fecal-oral route via food/water; sustained high stepped fever, headache, "pea-soup" diarrhoea, intestinal perforation | **Widal Agglutination Test**; Ceftriaxone, Ciprofloxacin, Chloramphenicol |
+| **Diphtheria** | *Corynebacterium diphtheriae* (Gram-positive rod) | Throat, upper respiratory tract | Droplet infection; gray fibrous pseudomembrane covering tonsils/pharynx, suffocating airway obstruction | **DPT Vaccine (Toxoid)**; Diphtheria antitoxin + Erythromycin |
+| **Pertussis (Whooping Cough)** | *Bordetella pertussis* (*Haemophilus pertussis*) | Tracheobronchial respiratory mucosa | Airborne droplets; paroxysmal violent hacking cough spells ending in high-pitched inspiratory "whoop" | **DPT Vaccine**; Azithromycin |
+| **Tetanus ("Lockjaw")** | *Clostridium tetani* (Anaerobic gram-positive spore-forming rod) | Central nervous system motor pathways | Spores enter via deep contaminated wounds/burns; releases **tetanospasmin** neurotoxin causing severe involuntary muscle spasms, trismus (jaw fact), opisthotonos | **DPT / Tetanus Toxoid (TT) / ATS (Anti-Tetanus Serum)**; Muscle relaxants |
+| **Syphilis** | *Treponema pallidum* (Spirochaete bacterium) | Genital tract, skin, cardiovascular & CNS | Direct sexual contact, transplacental; primary painless hard ulcer (**chancre**), secondary rash, tertiary gummas | **Penicillin G**; VDRL / RPR serological tests |
+| **Gonorrhoea** | *Neisseria gonorrhoeae* (Gram-negative diplococcus) | Genitourinary mucous membranes | Sexual transmission; painful micturition, purulent urethral discharge; can cause pelvic inflammatory disease (PID) | Ceftriaxone + Azithromycin |
+| **Anthrax ("Splenic Fever")** | *Bacillus anthracis* (Spore-forming Gram-positive rod) | Spleen (marked splenomegaly), skin, lungs, intestines | Zoonotic: contact with infected livestock, hides, wool ("wool-sorter's disease"); weapon of bioterrorism | Ciprofloxacin, Doxycycline |
+| **Botulism (Food Intoxication)** | *Clostridium botulinum* (Anaerobic spore-forming bacterium) | Peripheral neuromuscular junctions | **Food-borne intoxication**: Ingestion of preformed lethal neurotoxin in improperly canned/stored alkaline foods (low oxygen); blocks acetylcholine release $\rightarrow$ flaccid paralysis, respiratory failure | Polyvalent botulinum antitoxin; mechanical ventilation |
+
+- **Antimicrobial Pharmacology & Landmark Discoveries**:
+  - **Selman Waksman (1942)**: Coined the term **"Antibiotic"** to designate biochemical substances produced by microorganisms that inhibit or destroy competing microbes. Discovered **Streptomycin** from *Streptomyces griseus* (effective against TB; Nobel Prize 1952).
+  - **Alexander Fleming (1928)**: Discovered **Penicillin**, the first natural antibiotic, from the green mould *Penicillium notatum*, revolutionizing bacterial therapeutics.
+  - **Sulpha Drugs (Sulphonamides)**: First synthetic chemical antibacterial agents containing the sulphanilamide nucleus. **Prontosil** discovered by German physician **Gerhard Domagk (1932)** (Nobel Prize 1939). Synthetic sulpha derivatives include **Cibazole, Sulphadiazine, Sulphaguanidine**.
+  - **Broad-Spectrum vs Narrow-Spectrum Antibiotics**: Broad-spectrum agents act against a wide variety of both Gram-positive and Gram-negative bacteria (e.g. **Ampicillin, Chloramphenicol / Chloronitromycin, Tetracyclines**). Chloramphenicol is used for bacterial meningitis, typhoid, plague, and ocular conjunctivitis ointments.
+  - **Antimicrobial Resistance (AMR)**: Multi-drug resistance (MDR) in pathogenic bacteria is driven primarily by excessive and incorrect dosing of antibiotics, over-the-counter self-medication, non-therapeutic antibiotic growth promoters in commercial poultry/livestock feeds, and pharmaceutical wastewater discharge into river basins.
+
+### Master Fungal Pathogens & Clinical Mycology
+- **Mycology Fundamentals**: Fungi are eukaryotic, heterotrophic (saprophytic or parasitic) organisms possessing a cell wall made of **Chitin** (polymer of N-acetylglucosamine). Vegetative body consists of filamentous **hyphae** forming an interwoven **mycelium**.
+- **Landmark Fungal Infections & Mycotoxicoses**:
+  - **Aflatoxins**: Potent hepatotoxic, mutagenic, and carcinogenic mycotoxins synthesized by moulds **Aspergillus flavus** and *Aspergillus parasiticus* infesting poorly stored agricultural commodities (peanuts, groundnuts, maize, cottonseed). Aflatoxin $B_1$ induces DNA mutations leading directly to **hepatocellular carcinoma (liver cancer)**.
+  - **Ergotism ("Saint Anthony's Fire" / Ergotoxicosis)**: Toxicosis caused by ingestion of alkaloids (ergotamine) produced by **Claviceps purpurea** infecting rye, barley, and cereal grains. Induces severe peripheral vasoconstriction resulting in burning sensations, gangrene of fingers and toes, hallucinations, and convulsions.
+  - **Athlete's Foot (Tinea pedis)**: Contagious superficial fungal infection of the interdigital skin of the toes; caused by dermatophyte fungi **Trichophyton, Epidermophyton, and Microsporum**. Symptoms include erythema, severe pruritus, skin maceration, and painful fissures.
+  - **Mucormycosis ("Black Fungus")**: Life-threatening opportunistic infection caused by *Mucormycetes* moulds (e.g. *Rhizopus, Mucor*). Prevalent in immunocompromised patients, particularly poorly controlled diabetics and post-COVID-19 patients treated with heavy systemic corticosteroids. Affects the rhino-orbito-cerebral tracts causing facial swelling, ptosis, proptosis, black necrotic eschar, blindness, and fatal cerebral invasion. Treated via intravenous **Amphotericin B** and surgical debridement.
+  - **Fungal Alopecia & Dermatitis**: Dermatophytic tinea capitis causing patch baldness; Seborrheic dermatitis (inflammatory scaling of scalp) caused by *Malassezia* yeasts.
+  - **Mycetism (Poisonous Mushrooms)**: Ingestion of wild toxic mushrooms such as the Death Cap (*Amanita phalloides*); contains the fatal cyclic octapeptide **$\alpha$-amanitin**, which irreversibly inhibits RNA polymerase II, precipitating fulminant hepatic and renal failure (causes 95% of fatal mushroom poisonings worldwide).
+
+### Master Parasitic & Helminthic Pathogens (Protozoa, Flatworms & Roundworms)
+
+| Parasitic Disease | Causative Parasite & Taxonomy | Intermediate / Biological Vector | Clinical Pathology & Cardinal Symptoms |
+|-------------------|-------------------------------|----------------------------------|---------------------------------------|
+| **Malaria** | *Plasmodium* (*P. vivax, P. falciparum, P. malariae, P. ovale*) (Protozoa, Sporozoa) | Female **Anopheles mosquito** (Definitive Host); Humans are Intermediate Host | Erythrocytic schizogony causes synchronous rupture of RBCs every 48–72 hours, releasing pyrogenic **hemozoin** toxin provoking shaking chills, spiking fever, drenching sweats, severe anemia, and **splenomegaly (enlarged spleen)**.<br>- *P. vivax*: Accounts for ~65% of Indian cases.<br>- *P. falciparum*: Causes lethal **Malignant / Cerebral Malaria** with microvascular plugging in brain capillaries. |
+| **Kala-azar (Visceral Leishmaniasis / "Black Fever")** | *Leishmania donovani* (Flagellated Protozoa) | Female **Sandfly (*Phlebotomus argentipes*)** | Parasite invades reticuloendothelial system; marked hepatosplenomegaly, cachexia, pancytopenia (anemia, leukopenia, thrombocytopenia), and dark **greyish-black hyperpigmentation** of facial and extremity skin. Second largest parasitic killer after malaria. |
+| **African Sleeping Sickness (Trypanosomiasis)** | *Trypanosoma brucei gambiense* & *T. b. rhodesiense* (Protozoa) | **Tse-tse fly (*Glossina* species)** | Painful chancre at bite site; parasite penetrates blood-brain barrier into CSF, inducing chronic meningoencephalitis, daytime somnolence, nocturnal insomnia, progressive coma, and death. |
+| **Amoebiasis (Amoebic Dysentery)** | *Entamoeba histolytica* (Protozoa, Sarcodina) | Fecal-oral route via cysts in contaminated water/food | Trophozoites ulcerate colon mucosa (flask-shaped ulcers), causing severe abdominal cramping and bloody mucoid diarrhea; can metastasize to liver forming amoebic liver abscesses. |
+| **Schistosomiasis ("Snail Fever" / Bilharzia)** | *Schistosoma haematobium, S. mansoni* (Trematode / Flatworm) | Freshwater aquatic snails; free-swimming cercariae penetrate human skin | Worms dwell in mesenteric or vesical venous plexuses; hematuria (blood in urine), bladder calcification, chronic liver fibrosis. |
+| **Fascioliasis (Liver Rot)** | *Fasciola hepatica* & *F. gigantica* (Liver Flukes, Trematodes) | Primary host: Sheep & cattle; Intermediate host: Snails; Vector: raw watercress | Adult flukes obstruct biliary ducts; jaundice, right upper quadrant pain, hepatomegaly. |
+| **Taeniasis & Neurocysticercosis (NCC)** | *Taenia solium* (Pork Tapeworm, Cestode / Flatworm) | Ingestion of undercooked "measly" pork containing cysticerci or fecal-oral ingestion of tapeworm eggs | Ingested eggs hatch into oncospheres that burrow through intestinal wall and encyst in muscles, eyes, and the **brain (Neurocysticercosis)**; **leading cause of acquired adult-onset epilepsy and seizures in developing nations** (as famously suffered by tennis star Leander Paes). |
+| **Lymphatic Filariasis (Elephantiasis)** | *Wuchereria bancrofti* & *Brugia malayi* (Nematodes / Roundworms) | Female **Culex mosquito** (*Culex quinquefasciatus*) | Adult filarial nematodes lodge in lymphatic vessels and nodes, provoking chronic obstructive inflammation and massive irreversible lymphedema, hypertrophy of lower limbs (**elephantiasis**), and scrotal swelling (**hydrocele**). |
+| **Ascariasis** | *Ascaris lumbricoides* (Giant Intestinal Roundworm, Nematode) | Fecal-oral ingestion of embryonated eggs from contaminated soil/food | Larval pulmonary migration (Loeffler's syndrome with eosinophilia and cough); adult worms in small intestine provoke malnutrition, colicky abdominal pain, and intestinal lumen obstruction. Treated with Albendazole/Mebendazole. |
+
+- **Sir Ronald Ross (1897)**: British IMS physician working in Secunderabad, India; discovered *Plasmodium* oocysts in the stomach wall of female *Anopheles* mosquitoes, confirming the mosquito vector of malaria. Awarded the Nobel Prize in Physiology or Medicine in 1902.
+- **Malaria Chemoprophylaxis & Control**:
+  - Traditional natural drug: **Quinine** extracted from *Cinchona* bark.
+  - Synthetic antimalarials: **Chloroquine, Primaquine, Mefloquine, Atovaquone**.
+  - Modern frontline artemisinin-based therapies (ACT): **Artemisinin, Arteether** (derived from *Artemisia annua*).
+  - Biological Vector Control: Introduction of larvivorous surface-feeding fish **Gambusia affinis** (Mosquitofish) and ducks into freshwater ponds to devour mosquito larvae.
+  - Landmark Malaria Vaccines: **RTS,S/AS01 (Mosquirix)** (recombinant circumsporozoite protein vaccine) and **R21/Matrix-M** (developed by Oxford University and manufactured at scale by **Serum Institute of India, Pune**; received WHO recommendation in October 2023 for pediatric immunization in endemic regions).
+  - **World Malaria Day**: Observed annually worldwide on **25 April**.
+
+## Ghatnachakra Extra Drill: Clinical Virology, Viral Pathogens & Global Epidemics
+- **Biological Nature & Architecture of Viruses**:
+  - Ultramicroscopic infectious nucleoprotein particles ($20\text{--}300\text{ nm}$ in diameter); contain either **DNA or RNA** core genome (never both simultaneously!) enclosed in a protective protein coat called a **Capsid** (composed of individual protein subunits called **Capsomeres**).
+  - An intact, active infectious viral particle outside the host is termed a **Virion**.
+  - **Living vs Non-Living Threshold**: Viruses lack metabolic machinery, ribosomes, and ATP-generating enzyme complexes; outside living host cells, they behave as inert, non-living crystalline chemical matter (**cannot be cultured on artificial/synthetic cell-free nutrient media**). Inside susceptible host cells, they hijack host transcriptional and translational machinery to replicate, fundamentally altering host cellular transcription.
+- **Milestones in Virology**:
+  - **Dmitri Ivanovsky (1892)**: Discovered that Tobacco Mosaic Disease was transmissible via an agent passing through porcelain Chamberland filters capable of holding back all bacteria.
+  - **Martinus Beijerinck (1898)**: Replicated Ivanovsky's findings, proved the infectious agent reproduced inside living plant cells, coined the term **"Virus"**, and designated it *Contagium vivum fluidum* (contagious living fluid).
+  - **Wendell Meredith Stanley (1935)**: First scientist to successfully isolate and **crystallize Tobacco Mosaic Virus (TMV)**, demonstrating that crystalline viruses retain full infectious capability.
+- **Bacteriophages & Phage Therapy**:
+  - Viruses that specifically infect, replicate within, and lyse bacterial cells. Possess a polyhedral head enclosing DNA and a contractile protein tail.
+  - **Self-Cleansing Prowess of River Ganga**: Ganga water contains high natural titers of indigenous **bacteriophages** that systematically prey upon and destroy pathogenic bacterial colonies (e.g. *Vibrio cholerae*), preventing putrefaction.
+  - **Phage Therapy**: Clinical utilization of targeted bacteriophages as therapeutic antibacterial agents to treat multidrug-resistant bacterial infections.
+- **Landmark Eradication Milestones**:
+  - **Smallpox (*Variola virus*)**: Eradicated worldwide following a global vaccination campaign led by WHO; **India declared completely free from Smallpox in 1977** (global eradication certified in 1980).
+  - **Guinea Worm Disease (Dracunculiasis)**: Parasitic infection caused by the nematode *Dracunculus medinensis*, transmitted by drinking unboiled water containing infected **water fleas (*Cyclops*)**; **India certified Guinea Worm-free by WHO in February 2000**.
+- **Poliomyelitis (Polio)**:
+  - Enterovirus (single-stranded positive-sense RNA); transmitted predominantly via the **fecal-oral route** through contaminated food or water.
+  - **Pathology**: Infects gastrointestinal mucosa, enters bloodstream (viremia), and invades the central nervous system, selectively destroying the **motor neurons in the anterior horn of the spinal cord**, causing acute flaccid paralysis (infantile paralysis).
+  - **Vaccine Milestones**:
+    - **Jonas Salk (1952)**: Developed the first inactivated (killed) injectable polio vaccine (**IPV**), entering widespread use in 1955.
+    - **Albert Sabin (1961)**: Developed the live-attenuated oral polio vaccine (**OPV**), administered orally via drops.
+    - **India Certified Polio-Free**: On **27 March 2014**, the South-East Asia Regional Certification Commission of WHO presented India with official Polio-Free certification.
+    - **Global Eradication of Type 2**: In September 2015, WHO declared wild poliovirus Type 2 globally eradicated; in April 2016, India and global health agencies switched from Trivalent OPV (types 1, 2, 3) to **Bivalent OPV (types 1 and 3)**.
+
+### Arboviruses: Vectors, Transmission & Clinical Manifestations
+
+| Disease | Pathogen Class | Primary Mosquito Vector | Landmark Clinical Manifestations & Diagnostic Hallmarks |
+|---------|----------------|-------------------------|---------------------------------------------------------|
+| **Dengue Fever ("Breakbone Fever")** | Dengue virus (DENV 1–4, Flaviviridae, ssRNA) | **Aedes aegypti** and **Aedes albopictus (Tiger mosquito)** | Sudden high fever, excruciating retro-orbital headache, severe arthralgia/myalgia, maculopapular rash; **induces severe bone marrow suppression causing acute Thrombocytopenia (plummeting platelet count)**, risking lethal Dengue Hemorrhagic Fever (DHF) and shock. |
+| **Chikungunya** | Chikungunya virus (CHIKV, Togaviridae, ssRNA) | **Aedes aegypti** and **Aedes albopictus (Tiger mosquito)** | High fever, severe crippling joint pain (polyarthralgia persisting for months), rash, fatigue; non-contagious from human to human directly. |
+| **Zika Fever** | Zika virus (ZIKV, Flaviviridae, ssRNA) | **Aedes aegypti** and **Aedes albopictus** | Mild fever, maculopapular rash, conjunctivitis; can be transmitted sexually and transplacentally; maternal infection in pregnancy causes severe fetal congenital **Microcephaly**. |
+| **Yellow Fever** | Yellow fever virus (Flaviviridae, ssRNA) | **Aedes aegypti** | Acute viral hemorrhagic fever, jaundice (yellowing of skin/sclera due to hepatic necrosis), vomiting black hematemesis; prevented via highly efficacious live 17D vaccine. |
+| **Japanese Encephalitis (JE)** | Japanese Encephalitis Virus (JEV, Flaviviridae) | **Culex mosquitoes (chiefly Culex tritaeniorhynchus)** (*NOT Aedes / Tiger mosquito!*) | Viral neuro-infection of brain parenchyma; fever, headache, altered consciousness, seizures; reservoirs in domestic pigs and ardeid wading birds. |
+
+- **The 'Wolbachia Method'**: Revolutionary biological vector-control innovation wherein *Aedes aegypti* mosquitoes are infected in laboratories with the symbiotic bacterium **Wolbachia pipientis**. *Wolbachia* acts as a viral inhibitor, preventing Dengue, Chikungunya, and Zika viruses from replicating in mosquito tissues, dramatically reducing mosquito-to-human transmission rates without insecticides.
+
+### COVID-19 Immunology, Vaccine Platforms & Modern Therapeutics
+- **SARS-CoV-2 Pathobiology**: Severe Acute Respiratory Syndrome Coronavirus 2 (positive-sense single-stranded enveloped RNA virus); spike glycoprotein ($S$) binds with high affinity to human **ACE2 (Angiotensin-Converting Enzyme 2)** receptors, acting as the primary cellular gateway into alveolar type-II epithelial cells, endothelial cells, myocardium, and renal tubules. Downregulation of ACE2 provokes endothelial injury, cytokine storms, and acute respiratory distress syndrome (ARDS).
+- **Major COVID-19 Vaccine Platforms**:
+  - **Non-Replicating Viral Vector Vaccines**:
+    - **Covishield**: Developed by Oxford University and AstraZeneca, manufactured in India by **Serum Institute of India (SII), Pune**; employs a modified, non-replicating **chimpanzee adenovirus vector (ChAdOx1)** carrying genetic sequence for SARS-CoV-2 spike protein. Administered in two intramuscular doses of **$0.5\text{ ml}$** each (12–16 week interval).
+    - **Sputnik V**: Developed by Gamaleya Research Institute (Russia); utilizes a dual human adenovirus platform (**rAd26** for dose 1, **rAd5** for dose 2); manufactured in India under license by Dr. Reddy's Laboratories.
+  - **Inactivated Whole Virion Vaccines**:
+    - **Covaxin (BBV152)**: Developed by **Bharat Biotech** in collaborative partnership with the Indian Council of Medical Research (ICMR) and National Institute of Virology (NIV), Pune; uses chemically inactivated (beta-propiolactone) whole virion SARS-CoV-2 along with an Algel-IMDG adjuvant.
+    - **Sinovac (CoronaVac)** & **Sinopharm (BBIBP-CorV)**: Inactivated whole-virus platforms manufactured in China.
+  - **mRNA Platform Vaccines**:
+    - **Moderna (Spikevax / mRNA-1273)** & **Pfizer-BioNTech (Comirnaty / BNT162b2)**: Composed of nucleoside-modified synthetic messenger RNA (modRNA) encoding the stabilized prefusion spike protein, encapsulated within protective **lipid nanoparticles (LNPs)**; host ribosomes directly translate the mRNA into spike antigens to trigger humoral and cellular immunity.
+  - **DNA Plasmid Vaccines**:
+    - **ZyCoV-D**: Manufactured by **Zydus Cadila** (India); world's first human plasmid DNA-based COVID-19 vaccine; administered intradermally using a needle-free applicator (*Tropis*).
+- **Monoclonal Antibodies (mAbs)**: Laboratory-engineered recombinant proteins that mimic natural neutralizing antibodies; bind with high specificity to target viral surface epitopes (e.g. m102.4 developed against **Nipah virus**, Bebtelovimab/Casirivimab against SARS-CoV-2 variants).
+
+### Lethal Zoonotic Viral Encephalitis & Hemorrhagic Fevers
+- **Rabies (Hydrophobia)**:
+  - Caused by **Rabies lyssavirus** (bullet-shaped ssRNA virus, family Rhabdoviridae).
+  - Transmitted through the saliva of infected mammals (dogs, cats, monkeys, jackals, bats) via bites or scratches.
+  - Neurotropic virus migrates centripetally via peripheral motor nerves to the central nervous system; provokes furious excitement, violent pharyngeal spasms triggered by attempts to swallow liquid (**Hydrophobia**), autonomic dysregulation, coma, and **almost 100% case fatality once symptoms appear**. Preventable by prompt wound washing and post-exposure prophylaxis (PEP: anti-rabies vaccine + rabies immunoglobulin).
+- **Human Immunodeficiency Virus (HIV) & AIDS**:
+  - Retrovirus possessing single-stranded RNA and the enzyme **Reverse Transcriptase**; selectively attacks and depletes **$CD4^+$ Helper T-lymphocytes**, collapsing cell-mediated adaptive immunity and predisposing the host to opportunistic infections and malignancies (Kaposi sarcoma).
+  - Transmitted through unprotected sexual contact, infected blood transfusions, shared needles, and vertical mother-to-child transmission; not transmitted by casual touch or air.
+  - Diagnostics: Screening via **ELISA**; Confirmatory testing via **Western Blot** assay or viral load RT-PCR.
+  - **World AIDS Day**: Commemorated globally every year on **1 December**.
+- **Ebola Virus Disease (EVD)**:
+  - Filovirus (ssRNA) first identified in 1976 in simultaneous outbreaks in Nzara (South Sudan) and Yambuku (DR Congo, near the Ebola River).
+  - Natural reservoir: Fruit bats (*Pteropodidae* family); transmitted through direct contact with bodily fluids of infected humans or primates.
+  - Causes severe systemic endothelial damage, cytokine storm, microvascular leakage, coagulopathy, and severe external/internal bleeding; case fatality rates range between **25% and 90%**.
+- **Nipah Virus (NiV)**:
+  - Henipavirus (paramyxovirus, negative-sense ssRNA); first isolated in 1998 in Kampung Sungai Nipah, Malaysia (with domestic pigs as intermediate amplification hosts).
+  - Natural reservoir: *Pteropus* fruit bats; transmission occurs through consuming fruits or **raw date palm sap (toddy)** contaminated by bat urine or saliva, or through direct human-to-human contact.
+  - Landmark Indian outbreaks in **Kerala** (2018, 2021, 2024); clinical spectrum ranges from acute respiratory distress to fatal fulminant encephalitis; managed via intensive supportive care and monoclonal antibodies.
+
+
+## 3.6 Non-Communicable Diseases, Oncology & Metabolic Disorders
+
+- **Classification of Non-Communicable Diseases (NCDs)**:
+  - Account for $>60\%$ of total adult deaths in India; driven by four major behavioural risk factors: tobacco use, unhealthy diet, physical inactivity, and harmful alcohol consumption.
+  - Four major categories: Cardiovascular Diseases, Cancers, Chronic Respiratory Diseases (COPD, Asthma), and Diabetes.
+- **Cancer Pathogenesis & Clinical Oncology**:
+  - Normal cells show **Contact Inhibition** (inhibition of cell division upon physical contact with neighbouring cells); cancer cells lose this property, dividing relentlessly into abnormal masses called **Neoplasms / Tumours**.
+  - **Benign Tumours**: Remain localized to original site; encapsulated; do not invade surrounding tissues or spread to distant sites.
+  - **Malignant Tumours**: Non-capsulated; invade and destroy surrounding tissues; shed neoplastic cells into blood/lymph channels (**Metastasis** — the most dreaded hallmark of cancer).
+  - **Carcinogens**: Agents that induce cancer:
+    - Physical: UV rays, X-rays, gamma rays.
+    - Chemical: Tobacco smoke (contains benzo[a]pyrene, causing lung and oral cancer), coal tar, asbestos, aniline dyes (bladder cancer).
+    - Biological: Oncogenic viruses (HPV $\rightarrow$ cervical cancer; Hepatitis B & C $\rightarrow$ liver cancer; Epstein-Barr Virus / EBV $\rightarrow$ Burkitt's lymphoma).
+  - **Diagnostic Biomarkers & Techniques**:
+    - **Biopsy**: Microscopic histopathological examination of excised tissue section.
+    - **Pap Smear (Papanicolaou Test)**: Cytological screening test for cervical dysplasia and cancer.
+    - **PSA (Prostate-Specific Antigen)**: Serum protein biomarker elevated in prostate adenocarcinoma.
+    - **CA-125**: Serum biomarker for ovarian cancer.
+    - **Alpha-Fetoprotein (AFP)**: Biomarker for hepatocellular carcinoma.
+- **Diabetes Mellitus: Etiology & Clinical Management**:
+  - Endocrine disorder arising from defects in insulin secretion, insulin action, or both:
+  - **Physiological Action of Insulin**: Secreted by $\beta$-cells of pancreatic islets of Langerhans; promotes glucose uptake into skeletal muscle and adipose cells via GLUT-4 transporters; stimulates **Glycogenesis** (glucose $\rightarrow$ glycogen) in liver; inhibits **Glycogenolysis** and **Gluconeogenesis**; promotes lipogenesis and protein synthesis.
+  - **Glucagon**: Secreted by $\alpha$-cells; acts antagonistically to insulin to elevate blood glucose levels by triggering rapid glycogenolysis.
+  - **Clinical Triad of Diabetes**: **Polyuria** (frequent urination), **Polydipsia** (increased fluid intake), and **Polyphagia** (voracious appetite).
+  - **Long-term Microvascular Complications**: Diabetic Retinopathy (blindness), Diabetic Nephropathy (renal glomerulosclerosis), and Diabetic Neuropathy (loss of peripheral sensation $\rightarrow$ diabetic foot ulcers).
+  - **Glycated Haemoglobin (HbA1c)**: Glucose binds non-enzymatically to the N-terminal valine of haemoglobin $\beta$-chains; reflects ambient average blood glucose concentration over the **past 90–120 days** (erythrocyte lifespan); unaffected by day-to-day dietary fluctuations:
+    - Normal: $<5.7\%$
+    - Pre-diabetes: $5.7\%–6.4\%$
+    - **Diabetes**: $\mathbf{\ge 6.5\%}$
+
+---
+
+
+### Master Human Genetic Disorders: Chromosomal Aberrations & Mendelian Inheritances
+
+| Genetic Disorder | Inheritance Pattern / Genetic Cause | Primary Biochemical / Cellular Defect | Cardinal Clinical Manifestations & Must-Score Facts |
+|------------------|------------------------------------|---------------------------------------|----------------------------------------------------------|
+| **Haemophilia ("Royal Disease / Bleeder's Disease")** | **X-Linked Recessive**; carried by asymptomatic heterozygous females ($X^H X^h$), manifests clinically in hemizygous males ($X^h Y$) | Deficiency of clotting Factor VIII (Haemophilia A) or Factor IX (Haemophilia B, Christmas disease) | Prolonged coagulation time; minor cuts cause persistent, life-threatening internal/external hemorrhage; passed down European royal houses from Queen Victoria. |
+| **Color Blindness (Daltonism)** | **X-Linked Recessive**; gene located on X-chromosome | Genetic defect in red- or green-sensitive retinal cone photopigments | Inability to distinguish red from green hues; affected males pass mutated X exclusively to daughters (making them obligate carriers); sons inherit Y from father and thus cannot inherit trait from father. Screened via **Ishihara 38-Plate Test**. |
+| **Phenylketonuria (PKU)** | **Autosomal Recessive**; inborn error of amino acid metabolism | Inherited deficiency of hepatic enzyme **Phenylalanine Hydroxylase** | Inability to convert phenylalanine to tyrosine leads to toxic accumulation of phenylalanine and phenylpyruvic acid in cerebrospinal fluid and blood; causes **severe progressive mental retardation / idiocy**, microcephaly, and hypopigmentation. |
+| **Alkaptonuria (AKU)** | **Autosomal Recessive**; mutation in HGD gene | Defective homogentisate 1,2-dioxygenase in tyrosine metabolism pathway | Accumulation of homogentisic acid (alkapton); **urine turns dark black upon standing on exposure to air**; ochronosis (bluish-black pigmentation of cartilages and sclera) and early severe degenerative arthritis. |
+| **Albinism** | **Autosomal Recessive**; enzyme mutation | Total congenital absence or defect of the copper-containing enzyme **Tyrosinase** | Complete failure to synthesize **Melanin** pigment; snowy white hair, milky pinkish-white skin, translucent pink irises; extreme photophobia, sunburn, and high risk of cutaneous carcinoma. |
+| **Severe Combined Immunodeficiency (SCID / "Bubble Baby Disease")** | Autosomal recessive (ADA deficiency) or X-linked | Adenosine deaminase mutation or IL-2R $\gamma$-chain defect halting T and B cell maturation | Complete absence of adaptive cell-mediated and humoral immunity; infants die of minor infections unless isolated in sterile plastic isolator bubbles; curable via allogeneic bone marrow transplantation or retroviral ex-vivo gene therapy. |
+| **Sickle Cell Anaemia (SCD)** | **Autosomal Recessive / Codominant**; point mutation in $HBB$ gene on chromosome 11 | Single nucleotide substitution ($GAG \rightarrow GTG$) replacing glutamic acid with valine at codon 6 of $\beta$-globin chain | Deoxygenated mutant hemoglobin ($HbS$) polymerizes into rigid fibers, twisting RBCs into rigid crescent/sickle shapes; microvascular occlusion, painful vaso-occlusive bone crises, splenic infarction, chronic hemolytic anemia. **National Sickle Cell Elimination Mission** launched July 2023 in Shahdol (MP) to eliminate transmission by **2047**. |
+| **Thalassemia** | **Autosomal Recessive** blood disorder | Quantitative deficiency in synthesis of $\alpha$-globin ($\alpha$-thalassemia) or $\beta$-globin ($\beta$-thalassemia) chains | Imbalanced globin chain synthesis leads to erythrocyte hemolysis, microcytic hypochromic anemia, skeletal deformities (iron overload from frequent blood transfusions), and hepatosplenomegaly. |
+| **Duchenne Muscular Dystrophy (DMD)** | **X-Linked Recessive** | Mutation in the *dystrophin* gene on X-chromosome | Progressive necrosis and degeneration of skeletal muscle fibers; early childhood onset of proximal muscle weakness, calf pseudohypertrophy, wheelchair dependence by adolescence. |
+| **Down Syndrome (Trisomy 21 / "Mongolian Idiocy")** | **Aneuploidy: Trisomy of Chromosome 21** ($2n+1 = 47\text{ chromosomes}$, $45A + XX/XY$) | Primary non-disjunction of chromosome 21 pair during maternal gametogenesis | Flat facial profile, epicanthic eye folds, protruding furrowed tongue, transverse single palmar crease (simian crease), congenital endocardial cushion heart defects, and mild-to-moderate intellectual disability. |
+| **Turner Syndrome** | **Sex Chromosomal Monosomy** ($2n-1 = 45\text{ chromosomes}$, $44A + XO$) | Loss of one paternal or maternal X-chromosome in females | Phenotypically female; short stature, webbed neck (pterygium colli), shield-shaped chest, coarctation of aorta, **rudimentary streak ovaries causing absolute sterility (amenorrhea)**. |
+| **Klinefelter Syndrome** | **Sex Chromosomal Trisomy in Males** ($2n+1 = 47\text{ chromosomes}$, $44A + XXY$) | Meiotic non-disjunction contributing extra X-chromosome to male zygote | Phenotypically male; tall eunuchoid body proportions, sparse facial/body hair, high-pitched voice, **gynecomastia (enlarged male breast tissue)**, micro-orchidism with azoospermia (sterility). |
+
+### Oncology, Modern Radiation Medicine, Environmental Poisonings & Metabolic Pathology
+
+- **Mechanisms of Carcinogenesis & Metastasis**:
+  - Cancer involves uncontrolled mitotic proliferation of transformed neoplastic cells, evasion of apoptosis, and induction of neo-angiogenesis.
+  - **Metastasis Hierarchy**: Primary tumour cells invade local tissue $\rightarrow$ intravasate into blood and lymphatic vessels $\rightarrow$ travel via circulation $\rightarrow$ arrest and extravasate across capillary endothelium into distant organs $\rightarrow$ form micrometastases.
+  - **Oncogenes**: Mutated, hyper-activated cellular proto-oncogenes encoding oncoproteins that drive continuous mitotic signaling. First discovered retroviral oncogene was the *src* gene of **Rous Sarcoma Virus** (causes connective tissue sarcomas in fowl).
+  - **Carcinogens**: Physical (UV radiation, ionizing gamma/X-rays), chemical (tobacco benzopyrenes, asbestos, arsenic, aromatic amines, aflatoxins), and biological oncoviruses (HPV, HBV, EBV).
+- **Radioisotopes & Advanced Radiation Modalities in Oncology**:
+  - **Cobalt-60 ($^{60}\text{Co}$)**: Synthetic radioisotope that emits high-energy penetrating **Gamma ($\gamma$) rays**; used in external beam teletherapy for deep solid tumours.
+  - **Phosphorus-32 ($^{32}\text{P}$)**: Pure $\beta$-emitter; incorporates into rapidly dividing bone marrow cells; used to treat **Leukaemia (blood cancer)** and Polycythemia vera.
+  - **Iodine-131 ($^{131}\text{I}$)**: Concentrated selectively by sodium-iodide symporters in thyroid follicle cells; used in diagnostic thyroid scans and treatment of thyroid carcinoma and thyrotoxicosis.
+  - **Arsenic-74 ($^{74}\text{As}$)**: Positron/gamma emitting radiotracer used in locating deep brain **tumours** with pinpoint precision.
+  - **Sodium-24 ($^{24}\text{Na}$)**: Injected as sodium chloride solution to monitor vascular blood circulation velocity and detect thrombosis or occlusions.
+  - **Gold-198 ($^{198}\text{Au}$)**: Colloidal radioisotope used in intracavitary brachytherapy of neoplastic effusions.
+  - **Platinum Chemotherapy**: **Cisplatin and Carboplatin** crosslink DNA strands, forming the cornerstone chemotherapy for carcinomas (ovarian, testicular, lung, bladder).
+  - **Intensity Modulated Radiotherapy (IMRT)**: Computer-controlled linear accelerators manipulate beam intensity to sculpt radiation conformally around irregularly shaped solid tumours, sparing adjacent vital organs.
+
+- **Landmark Heavy Metal Poisonings & Environmental Pathologies**:
+  - **Minamata Disease (Methylmercury Poisoning)**: First documented in Minamata Bay, Kumamoto Prefecture, Japan (1956). Chemical factory effluent discharged methylmercury into coastal waters, which bioaccumulated through aquatic food chains into fish and shellfish. Human consumption provoked severe neurological devastation: sensory ataxia, peripheral numbness, tunnel vision, dysarthria, and severe spasticity.
+  - **Itai-Itai Disease ("Ouch-Ouch Disease" / Cadmium Poisoning)**: Mass cadmium poisoning along the Jinzu River basin in Toyama Prefecture, Japan (1912). Mining companies dumped cadmium into river irrigation channels for paddy fields. Cadmium accumulation triggered **severe osteomalacia, multiple pseudofractures, excruciating joint/lumbar pain**, and progressive renal tubular damage.
+  - **Blue Baby Syndrome (Infantile Methemoglobinemia)**: Consumption of groundwater contaminated with agricultural **Nitrates ($\text{NO}_3^-$)**. Gut microbes in infants reduce nitrates into nitrites, which enter circulation and oxidize the ferrous iron ($\text{Fe}^{2+}$) of hemoglobin into ferric iron ($\text{Fe}^{3+}$), forming **Methemoglobin**. Methemoglobin cannot bind oxygen, producing acute cellular hypoxia and slate-blue skin discoloration (cyanosis).
+  - **Fluorosis & Knock-Knee Syndrome (Genu valgum)**: Chronic consumption of groundwater with fluoride levels $>1.5\text{ mg/L}$ causes dental fluorosis (chalky enamel, yellow-brown mottling) and crippling skeletal fluorosis with **Genu valgum** (inward angling of knee joints causing knees to knock together during walking).
+  - **Epidemic Dropsy (Argemone Oil Poisoning)**: Ingestion of mustard cooking oil adulterated with the oil of **Argemone mexicana (Mexican prickly poppy)**. Contains toxic isoquinoline alkaloids **Sanguinarine** and dihydrosanguinarine, which uncouple oxidative phosphorylation, cause extensive capillary dilation and hyper-permeability, leading to massive albuminuria, severe pitting peripheral edema (dropsy), glaucoma, and cardiac failure.
+  - **Silicosis & Pneumoconiosis**:
+    - *Silicosis*: Occupational lung fibrosis caused by chronic inhalation of respirable crystalline free silica ($\text{SiO}_2$) dust in stone quarrying, quartz grinding, foundry, and tunnel excavation workers.
+    - *Pneumoconiosis ("Black Lung")*: Progressive coal-macule fibrosis caused by chronic coal dust inhalation in coal miners.
+  - **Lathyrism (Neurolathyrism)**: Irreversible spastic paraplegia of the lower limbs caused by habitual, excessive dietary consumption of **Khesari dal (*Lathyrus sativus*)**; mediated by the neurotoxin **$\beta$-ODAP** ($\beta$-N-oxalyl-$\alpha$,$\beta$-diaminopropionic acid).
+
+- **Metabolic, Cardiovascular, Neurological & Sensory Pathology**:
+  - **Diabetes Mellitus**:
+    - *Pathology*: Relative or absolute deficiency of insulin secreted by $\beta$-cells of pancreatic islets of Langerhans, causing chronic hyperglycemia, glycosuria, polyuria, polydipsia, and polyphagia.
+    - *Type 1 (IDDM / Juvenile-onset)*: Autoimmune destruction of pancreatic $\beta$-cells.
+    - *Type 2 (NIDDM / Adult-onset)*: Peripheral tissue insulin resistance combined with progressive secretory defect.
+    - *Management*: Long-term glycemic monitoring via **Glycosylated Hemoglobin (HbA1c)** (reflects preceding 8–12 week mean blood glucose); discovery of insulin by **Banting and Best (1921)**; dietary supplements: **Fenugreek (Methi) seeds** (contain trigonelline and 4-hydroxyisoleucine) and Curry leaves.
+  - **Diabetes Insipidus ("Water Diabetes")**: Hypothalamic or neurohypophyseal failure to produce or secrete **Antidiuretic Hormone (ADH / Vasopressin)**; distal renal tubules fail to concentrate urine, leading to massive dilute polyuria (up to 15–20 L/day) and relentless unquenchable thirst (polydipsia).
+  - **Cardiovascular Dynamics & "Golden Hour"**:
+    - *Heart Attack (Myocardial Infarction)*: Coronary artery thrombosis following atherosclerotic plaque rupture. **"Golden Hour"** denotes the critical first 60 minutes post-symptom onset during which reperfusion therapy (thrombolysis or primary PCI) rescues maximum ischemic myocardium.
+    - *CABG Surgery*: Uses autologous vascular grafts: **Great Saphenous Vein** from leg, **Internal Mammary (Thoracic) Artery** from chest wall, or **Radial Artery** from forearm.
+    - *Cath Lab*: Advanced fluoroscopic angiographic operating theater located within the hospital's **Cardiology Department**.
+    - *Cardiopulmonary Resuscitation (CPR)*: Emergency life-saving maneuver combining chest compressions (100–120/min) and rescue breathing to maintain coronary and cerebral perfusion during cardiac arrest.
+    - *Aspirin*: Acetylsalicylic acid; non-narcotic anti-inflammatory and irreversible inhibitor of platelet cyclooxygenase-1 (COX-1), preventing arterial thrombosis.
+  - **Neurodegenerative Disorders**:
+    - *Alzheimer's Disease*: Progressive cortical dementia marked by cerebral deposition of insoluble **$\beta$-amyloid precursor protein plaques** and intracellular hyperphosphorylated **tau neurofibrillary tangles**; first isolated by Alois Alzheimer.
+    - *Parkinson's Disease*: Hypokinetic movement disorder caused by selective degeneration of dopaminergic neurons in the substantia nigra; characterized by resting tremor, rigidity, bradykinesia, and postural instability. **Arvid Carlsson** won the 2000 Nobel Prize for discovering dopamine's neurotransmitter function and establishing L-dopa replacement therapy.
+  - **Ophthalmic Refractive Errors & Topography**:
+    - *Myopia (Near-Sightedness)*: Eyeball anteroposterior diameter elongated; image focuses in front of retina; distant objects blurred; corrected using **Concave (diverging) spherical lenses**.
+    - *Hypermetropia (Far-Sightedness)*: Eyeball shortened; image focuses behind retina; near objects blurred; corrected using **Convex (converging) spherical lenses**.
+    - *Astigmatism*: Asymmetric meridian curvature of cornea or crystalline lens; light refracted unevenly at different planes; corrected using **Cylindrical lenses**.
+    - *Cataract*: Senile denaturation and aggregation of lens crystallin proteins creating a milky cloudy opacity; surgically managed by phacoemulsification and **Intraocular Lens (IOL)** implantation.
+    - *Retinal Landmarks*: **Fovea Centralis (Yellow Spot / Macula lutea)** possesses exclusive packing of cone photoreceptors, providing highest visual resolving power (sharpest acuity); **Optic Disc (Blind Spot)** is completely devoid of photoreceptors at the exit site of the optic nerve.
+    - *Mydriatic Alkaloid*: Ophthalmic drops of **Atropine** (extracted from *Atropa belladonna*) block pupillary constrictor muscarinic receptors, causing sustained pupil dilation.
+  - **Other Clinical Disorders**:
+    - *Oral Submucous Fibrosis (OSF)*: Pre-malignant chronic fibrotic scarring and blanching of the oral submucosa; caused by regular chewing of **Areca nut / Gutkha** containing arecoline alkaloid; leads to progressive lockjaw (inability to open mouth).
+    - *Lukoskin*: Dual polyherbal formulation (liquid + ointment) developed by DRDO's **Defence Institute of Bio-Energy Research (DIBER), Haldwani** for the therapeutic management of Vitiligo (Leucoderma).
+    - *Cerebral Palsy*: Non-progressive congenital movement and postural neuro-disorder caused by hypoxic/ischemic brain damage during perinatal encephalic development in young children.
+    - *Bulimia Nervosa*: Eating disorder characterized by episodes of uncontrolled binge eating followed by self-induced vomiting or laxative purging.
+    - *Sleep Apnea*: Repetitive cessation of respiration during sleep caused by upper pharyngeal airway collapse; hallmark symptom is heavy loud snoring.
+    - *Anosmia*: Total or partial loss of the olfactory sense (smell); common in chronic rhinitis, post-viral trauma, and cribriform plate head injuries.
+
+
+## 3.7 Vaccines, Diagnostic Tests & Clinical Instruments
+
+- **Immunology Foundations: Active vs Passive Immunity**:
+  - **Active Immunity**: Host's own immune system is stimulated to produce antibodies and memory lymphocytes following natural infection or vaccination; slow onset, long-lasting / lifelong protection.
+  - **Passive Immunity**: Ready-made pre-formed antibodies are directly introduced into the body; produces instantaneous protection but confers short-lived immunity with no immunological memory:
+    - Natural passive: Maternal **IgG** crossing the placenta to the fetus; secretory **IgA** delivered to newborns via maternal **Colostrum** (initial yellowish breast milk).
+    - Artificial passive: Anti-tetanus serum (ATS), Anti-rabies serum, Anti-snake venom (ASV).
+- **The Global COVID-19 Vaccine Arsenal**:
+
+| Vaccine Trade Name | Developing Manufacturer / Country | Vaccine Technology Platform | Antigen Used |
+|--------------------|-----------------------------------|-----------------------------|--------------|
+| **Covaxin (BBV152)** | Bharat Biotech & ICMR (India) | **Inactivated Whole Virus** | Chemically killed whole SARS-CoV-2 virion |
+| **Sinovac (CoronaVac)**| Sinovac Biotech (China) | **Inactivated Whole Virus** | Chemically killed whole SARS-CoV-2 virion |
+| **Covishield** | Serum Institute of India / AstraZeneca | **Non-Replicating Viral Vector** | Modified Chimpanzee Adenovirus (ChAdOx1) carrying S-gene |
+| **Sputnik V** | Gamaleya Research Institute (Russia) | **Heterologous Viral Vector** | Recombinant Human Adenoviruses (Ad26 & Ad5) |
+| **Moderna (mRNA-1273)**| Moderna (USA) | **Synthetic mRNA in LNPs** | mRNA encoding stabilized Spike glycoprotein |
+| **Pfizer-BioNTech** | Pfizer & BioNTech (USA/Germany) | **Synthetic mRNA in LNPs** | mRNA encoding full-length Spike glycoprotein |
+| **Corbevax** | Biological E. Limited (India) | **Protein Subunit** | Recombinant Spike protein receptor-binding domain |
+| **ZyCoV-D** | Zydus Cadila (India) | **Plasmid DNA (Needle-free)** | Plasmid DNA expressing spike protein; Tropis applicator |
+
+- **Comprehensive Medical Diagnostic Tests & Instruments**:
+  - **Widal Test**: Tube/slide agglutination test for **Typhoid Fever** (*Salmonella typhi*).
+  - **Mantoux Test**: Intradermal injection of 5 TU Purified Protein Derivative (PPD); read at 48–72 hours for **Tuberculosis**.
+  - **Schick Test**: Intradermal toxin test assessing susceptibility to **Diphtheria**.
+  - **VDRL / RPR / Wassermann Test**: Screening serological tests for **Syphilis** (*Treponema pallidum*).
+  - **ELISA (Enzyme-Linked Immunosorbent Assay)**: Rapid enzyme-substrate screening assay for **HIV/AIDS**, Hepatitis B, and hormones.
+  - **Western Blotting**: Confirmatory antibody-protein detection test for **HIV/AIDS**.
+  - **RT-PCR (Reverse Transcription Polymerase Chain Reaction)**: Molecular detection of viral RNA in **COVID-19, Swine Flu (H1N1), and Hepatitis C**.
+  - **ECG (Electrocardiogram)**: Records cardiac electrical conduction: **P Wave** (atrial depolarization), **QRS Complex** (ventricular depolarization), **T Wave** (ventricular repolarization). (Willem Einthoven).
+  - **EEG (Electroencephalogram)**: Records brain wave frequencies: Alpha (awake relaxed), Beta (active alert), Theta, Delta (deep sleep). (Hans Berger).
+  - **Endoscope**: Flexible fiber-optic tube used for direct visual examination of hollow internal viscera (stomach, duodenum, colon); functions entirely on the physical principle of **Total Internal Reflection (TIR)**.
+
+---
+
 ## Complete PYQ Bank — UKPCS
 
 **Q1. (UKPCS Pre 2021)** Scurvy disease is caused by the deficiency of which vitamin?  
@@ -5179,7 +5178,7 @@ D. spread of viral diseases
 - cells for some coronaviruses, including HCoV-NL63, SARSCoV, and SARS-CoV-2. The SARS-CoV-2 spike protein itself
 - is known to damage the endothelium via downregulation of
 - ACE2. Using the spike-like protein on its surface, the SARSCoV-2 virus binds to ACE2 – like a key being inserted into
-- a lock – prior to entry and infection of cells. Hence, ACE2
+- a fact – prior to entry and infection of cells. Hence, ACE2
 - acts as a cellular doorway – a receptor – for the virus that
 - causes COVID-19.
 </details>
@@ -7772,3 +7771,18 @@ D. Diabetes
 **Detailed Explanation:**
 - Pellagra is defined by the 4 Ds: Dermatitis, Diarrhoea, Dementia, and Death. Diabetes is an unrelated metabolic disorder.
 </details>
+
+## Common Traps & Negative-Marking Eliminators
+
+1. **Kwashiorkor vs marasmus**: Kwashiorkor = protein lack with **oedema**; marasmus = protein-energy lack with **no oedema** and extreme wasting.
+2. **Fat-soluble vitamins**: **A, D, E, K** only — B and C are water-soluble (B12 is stored in liver anyway).
+3. **Night blindness**: Vitamin **A** deficiency — not Vitamin D.
+4. **Rickets vs scurvy**: Rickets/osteomalacia = **D**; scurvy = **C**.
+5. **Beriberi vs pellagra**: Beriberi = **B1**; pellagra = **B3** (4 Ds).
+6. **Minamata vs Itai-Itai**: Minamata = **methyl mercury**; Itai-Itai = **cadmium**.
+7. **Blue baby syndrome**: Excess **nitrates** in water → methemoglobin — not fluoride.
+8. **Malaria vector**: Female *Anopheles* — dengue/chikungunya use *Aedes*.
+9. **Typhoid test**: **Widal** test — not Mantoux (Mantoux is TB).
+10. **Diabetes mellitus vs insipidus**: Mellitus = insulin/glucose; insipidus = **ADH** / water balance.
+11. **Vaccine platforms**: Covaxin = inactivated; Covishield = adenovirus vector; Moderna/Pfizer = **mRNA**.
+12. **Vitamin B12**: Contains **cobalt**; absent in ordinary plant foods.

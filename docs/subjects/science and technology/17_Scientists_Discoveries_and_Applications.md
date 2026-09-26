@@ -4,9 +4,9 @@
 
 ---
 
-## Current Affairs & Exam Locks (2024–2026 Focus)
+## Current Affairs (2024–2026 Focus)
 
-### Defence Technology Locks
+### Defence Technology Facts
 - **Mission Divyastra (Agni-V MIRV Test, 11 March 2024):**
   - DRDO successfully conducted the maiden flight test of the indigenously developed **Agni-V missile equipped with Multiple Independently Targetable Re-entry Vehicle (MIRV) technology** from Dr. APJ Abdul Kalam Island, Odisha.
   - A single missile can deliver multiple nuclear warheads to independent designated targets hundreds of kilometers apart, defeating advanced ballistic missile defence (BMD) radars.
@@ -37,14 +37,14 @@
   - **HCoC (Hague Code of Conduct):** Reached **145 subscribing states** in 2024 with the entry of **Qatar** (India joined on 1 June 2016).
   - **Australia Group (43 members, India joined 2018)** and **Wassenaar Arrangement (42 states, India joined 2017)** export controls remain foundational.
 
-### Space & Science Locks
+### Space & Science Facts
 - **SpaDeX Mission (Jan–April 2025):** Autonomous space docking executed on **16 January 2025** (India 4th nation after US, Russia, China), undocked 13 March, redocked 20 April, electrical power transfer 21 April 2025. **POEM-4** safely de-orbited into the Indian Ocean on **4 April 2025** (Debris Free Space Mission - DFSM).
 - **Chandrayaan-4 (Cabinet Approval Sep 2024):** Rs. 2,104.06 cr lunar sample return mission (two LVM3 launches, lunar orbit docking, 36 months execution).
 - **Chandrayaan-5 / LUPEX (March 10, 2025):** ISRO Lander + JAXA Rover (Mitsubishi) exploring South Pole PSR water-ice deposits via H3-24L launch.
 - **Bharatiya Antariksh Station (BAS):** BAS-1 module launch by **2028**; operational station by **2035**; Indian crewed lunar landing by **2040**.
 - **NISAR:** Dual-frequency (L-band & S-band) SweepSAR radar launch on GSLV-F16 (**30 July 2025**).
 - **Aditya-L1:** Continuous solar observation from Halo orbit at Sun-Earth L1 (1.5M km); captured X6.3-class solar flare (Feb 2024); released 1st & 2nd global datasets (Jan & Feb 2025).
-- **MACE Cherenkov Telescope (Hanle, Ladakh):** Inaugurated **4 October 2024** by AEC Chairman Dr. Ajit Kumar Mohanty; world's highest ($4,270	ext{ m}$) and Asia's largest imaging Cherenkov observatory, built by BARC with ECIL.
+- **MACE Cherenkov Telescope (Hanle, Ladakh):** Inaugurated **4 October 2024** by AEC Chairman Dr. Ajit Kumar Mohanty; world's highest ($4,270\text{ m}$) and Asia's largest imaging Cherenkov observatory, built by BARC with ECIL.
 - **Nobel Prizes in Physics (2023–2025):**
   - **2023:** Pierre Agostini, Ferenc Krausz, and Anne L’Huillier (attosecond light pulses).
   - **2024:** John J. Hopfield and Geoffrey E. Hinton (Artificial neural networks using statistical mechanics and spin-glass physics).
@@ -53,7 +53,7 @@
 
 ---
 
-### Polar, Deep Ocean & Applied Science Locks
+### Polar, Deep Ocean & Applied Science Facts
 - **Deep Ocean Mission & Samudrayaan Project (2024–2026):**
   - Spearheaded by the Ministry of Earth Sciences (MoES) and National Institute of Ocean Technology (NIOT), Chennai.
   - Developing **MATSYA 6000**, an indigenous self-propelled 4th-generation manned submersible capable of transporting **3 individuals to a depth of 6,000 meters** beneath the ocean surface for deep-sea exploration and polymetallic nodule harvesting (deep-sea trials scheduled by end of 2026).
@@ -144,7 +144,7 @@
    - *Iron Dome (Israel):* Short-range (4–70 km) all-weather rocket and mortar interception system.
    - *THAAD (USA):* Terminal High Altitude Area Defense; kinetic 'hit-to-kill' anti-ballistic missile system.
 25. **Multilateral Export Regimes:**
-   - **MTCR (Missile Technology Control Regime):** 35 members; controls delivery systems for $\ge 500	ext{ kg}$ payload over $\ge 300	ext{ km}$. India joined on **27 June 2016**.
+   - **MTCR (Missile Technology Control Regime):** 35 members; controls delivery systems for $\ge 500\text{ kg}$ payload over $\ge 300\text{ km}$. India joined on **27 June 2016**.
    - **HCoC (Hague Code of Conduct):** 145 subscribing states; transparency against ballistic missile proliferation. India joined on **1 June 2016**.
    - **Australia Group:** 43 members; chemical and biological export controls. India joined on **19 January 2018**.
    - **Wassenaar Arrangement:** 42 participating states; conventional arms and dual-use technologies. India joined on **8 December 2017**.
@@ -162,7 +162,7 @@
    - *National Science Day:* **February 28** (Raman Effect discovery).
    - *National Technology Day:* **May 11** (Pokhran-II nuclear tests, 1998).
    - *National Space Day:* **August 23** (Chandrayaan-3 soft landing, 2023).
-34. **Acharya J.C. Bose:** Generated millimeter microwaves ($60	ext{ GHz}$) in 1895; invented the **Crescograph** measuring plant physiological responses to stimuli.
+34. **Acharya J.C. Bose:** Generated millimeter microwaves ($60\text{ GHz}$) in 1895; invented the **Crescograph** measuring plant physiological responses to stimuli.
 35. **Satyendra Nath Bose:** Formulated **Bose-Einstein Statistics** (1924) for integer-spin particles (**Bosons**, named by Dirac); predicted the **Bose-Einstein Condensate (BEC)**.
 36. **Meghnad Saha:** Formulated the **Saha Ionization Equation** (1920) linking stellar spectra to temperature and pressure; chaired Calendar Reform Committee (1952) establishing the Saka National Calendar.
 37. **Subrahmanyan Chandrasekhar:** Formulated the **Chandrasekhar Limit ($1.44 M_\odot$)** in 1930; white dwarf stars exceeding $1.44 M_\odot$ collapse into neutron stars or black holes. 1983 Nobel Prize in Physics.
@@ -181,7 +181,7 @@
    - *Laser:* Theodore Maiman (1960).
    - *Penicillin:* Sir Alexander Fleming (1928, Nobel 1945).
    - *Machine Gun:* James Puckle (1718, 'Defence Gun').
-43. **Black Hole Physics:** Celestial body with escape velocity exceeding light ($v_{	ext{esc}} > c$). Boundary is the **Event Horizon**; central density is the **Singularity**.
+43. **Black Hole Physics:** Celestial body with escape velocity exceeding light ($v_{\text{esc}} > c$). Boundary is the **Event Horizon**; central density is the **Singularity**.
 44. **Gravitational Waves:** Spacetime ripples predicted by Einstein (1916); first directly observed by **LIGO on 14 September 2015** from a binary black hole merger.
 45. **Rocket Propulsion Dynamics:** Governed by **Newton's Third Law** and the **Law of Conservation of Linear Momentum** ($m \Delta v = -v_e \Delta m$).
 46. **Indian Launch Vehicle Fleet:**
@@ -190,9 +190,9 @@
    - *GSLV Mk II:* 3-stage with Cryogenic Upper Stage (CUS).
    - *LVM3 (GSLV Mk III):* Heavy-lift (S200 solid + L110 liquid + C25 cryogenic).
    - *SSLV:* 3 solid stages + liquid VTM module (500 kg to LEO).
-47. **Cryogenics Chemistry:** Involves temperatures below **$-150^\circ	ext{C}$ ($120	ext{ K}$)**. Rocket propellant combination: **Liquid Hydrogen ($LH_2$, fuel, boiling point $-252.9^\circ	ext{C}$)** and **Liquid Oxygen ($LOX$, oxidizer, boiling point $-183.0^\circ	ext{C}$)**.
+47. **Cryogenics Chemistry:** Involves temperatures below **$-150^\circ\text{C}$ ($120\text{ K}$)**. Rocket propellant combination: **Liquid Hydrogen ($LH_2$, fuel, boiling point $-252.9^\circ\text{C}$)** and **Liquid Oxygen ($LOX$, oxidizer, boiling point $-183.0^\circ\text{C}$)**.
 48. **Ramjet vs Scramjet:** Ramjet slows airflow to **subsonic** speeds inside the burner (Mach 2–5). Scramjet maintains **supersonic** airflow throughout the combustor (velocities **> Mach 6**).
-49. **Geostationary vs Geosynchronous Orbits:** Both have a 24-hour orbital period at **$35,786	ext{ km}$ ($22,236	ext{ miles}$)**. Geostationary is circular and strictly on the equatorial plane (stationary relative to Earth). Geosynchronous is inclined (figure-8 path).
+49. **Geostationary vs Geosynchronous Orbits:** Both have a 24-hour orbital period at **$35,786\text{ km}$ ($22,236\text{ miles}$)**. Geostationary is circular and strictly on the equatorial plane (stationary relative to Earth). Geosynchronous is inclined (figure-8 path).
 50. **NavIC (IRNSS):** Regional navigation satellite constellation covering India and **1,500 km** beyond its borders, using **7 satellites** (3 in Geostationary Orbit + 4 in Geosynchronous Orbit).
 
 ---
@@ -232,12 +232,12 @@
 
 ## Confused Pairs
 
-| Concept A | Concept B | Razor-Sharp Distinguishing Criteria & Exam Traps |
+| Concept A | Concept B | Razor-Sharp Distinguishing Criteria & Common Traps |
 | :--- | :--- | :--- |
 | **Ballistic Missile** | **Cruise Missile** | Ballistic missiles (e.g., Prithvi, Agni) are rocket-powered during initial boost phase only, leave the atmosphere, and follow an unpowered arcing gravitational trajectory. Cruise missiles (e.g., BrahMos, Nirbhay) are jet-propelled continuously throughout flight, remain within the atmosphere, and fly at low altitudes following terrain contours. |
 | **BrahMos** | **Nirbhay** | BrahMos is a **supersonic** cruise missile (Mach 2.8–3.0, range 290–500 km) using a liquid ramjet engine. Nirbhay is a **subsonic** cruise missile (Mach 0.7, range 1,000 km) using a turbofan engine. |
 | **Endo-atmospheric** | **Exo-atmospheric** | Endo-atmospheric refers to interceptions occurring **inside Earth's atmosphere** (altitude < 30 km, e.g., AAD / Ashwin). Exo-atmospheric refers to interceptions occurring **outside the sensible atmosphere** in space (altitude > 50 km, e.g., PAD / Prithvi Air Defence). |
-| **MTCR** | **HCoC** | MTCR (1987, 35 partners) is an informal export control cartel targeting delivery systems carrying $\ge 500	ext{ kg}$ payload over $\ge 300	ext{ km}$. HCoC (2002, 145 states) is a multilateral transparency code requiring pre-launch notifications of ballistic missiles and space rockets. |
+| **MTCR** | **HCoC** | MTCR (1987, 35 partners) is an informal export control cartel targeting delivery systems carrying $\ge 500\text{ kg}$ payload over $\ge 300\text{ km}$. HCoC (2002, 145 states) is a multilateral transparency code requiring pre-launch notifications of ballistic missiles and space rockets. |
 | **Australia Group** | **Wassenaar Arrangement** | Australia Group (1985, 43 members) controls exports of **chemical and biological agents** and dual-use equipment. Wassenaar Arrangement (1996, 42 states) controls exports of **conventional arms and dual-use technologies**. |
 | **Homi Bhabha** | **Vikram Sarabhai** | Dr. Homi J. Bhabha = Father of the **Indian Nuclear Program** (TIFR, BARC). Dr. Vikram Sarabhai = Father of the **Indian Space Program** (PRL, TERLS, ISRO). |
 | **A.P.J. Abdul Kalam** | **Satish Dhawan** | Kalam = Project Director of **SLV-3**; Chief Architect of **IGMDP** (Prithvi, Agni, Trishul, Akash, Nag); 11th President. Dhawan = Longest-serving ISRO Chairman; built satellite communications; spaceport **SDSC SHAR** named in his honor. |
@@ -255,7 +255,7 @@
 | **Quantum Well vs Wire vs Dot** | Well = 1D nano-confined (2D free); Wire = 2D nano-confined (1D free); Dot = 3D nano-confined (0D free, 1.5–10 nm). | Dots are zero-dimensional quantum structures with completely discrete, atom-like energy levels. |
 | **PUMA vs Manav vs Optimus** | PUMA = Industrial manipulation arm (Victor Scheinman, Unimation); Manav = India's 1st 3D-printed humanoid robot (A-SET, 2014); Optimus = Tesla humanoid robot (2022). | PUMA is an assembly robot arm; Manav and Optimus are bipedal humanoid robots. |
 | **Cybernetics vs Horology vs Tribology vs Geodesy** | Cybernetics = Control & communication in animals/machines; Horology = Time measurement; Tribology = Friction & lubrication; Geodesy = Earth's shape, gravity, & orientation. | Coined by Norbert Wiener in 1948, Cybernetics unites engineering, biology, and computation. |
-| **National Science Day (28 Feb) vs Raman Birthday (7 Nov)** | 28 Feb commemorates discovery of Raman Effect (1928); 7 Nov 1888 is Raman's birth date. | Exam traps frequently ask if National Science Day is Raman's birthday (False!). |
+| **National Science Day (28 Feb) vs Raman Birthday (7 Nov)** | 28 Feb commemorates discovery of Raman Effect (1928); 7 Nov 1888 is Raman's birth date. | Must-Score traps frequently ask if National Science Day is Raman's birthday (False!). |
 | **Hiroshima Bomb ("Little Boy") vs Nagasaki Bomb ("Fat Man")** | Little Boy (6 Aug 1945) used **Uranium-235**; Fat Man (9 Aug 1945) used **Plutonium-239**. | Both bombs relied on nuclear fission discovered by Otto Hahn and Fritz Strassmann in 1939. |
 | **ICSSR vs CSIR / DST / DAE** | ICSSR = Indian Council of Social Science Research; CSIR / DST / DAE = Core Science & Technology departments. | ICSSR is strictly a social science funding agency, not related to natural science and technology. |
 
@@ -288,9 +288,9 @@
 
 ### Table 2: Multilateral Export Control Regimes & Disarmament Treaties
 
-| Regime / Treaty | Established | Core Mandate & Control Focus | Total Members | India's Status & Crucial Exam Points |
+| Regime / Treaty | Established | Core Mandate & Control Focus | Total Members | India's Status & Crucial Key Points |
 | :--- | :--- | :--- | :--- | :--- |
-| **MTCR (Missile Technology Control Regime)** | 1987 (by G-7) | Non-proliferation of delivery systems for WMD carrying $\ge 500	ext{ kg}$ payload over $\ge 300	ext{ km}$. | 35 partners | **India joined on 27 June 2016** as 35th partner, enabling BrahMos range extension and predator drone imports. |
+| **MTCR (Missile Technology Control Regime)** | 1987 (by G-7) | Non-proliferation of delivery systems for WMD carrying $\ge 500\text{ kg}$ payload over $\ge 300\text{ km}$. | 35 partners | **India joined on 27 June 2016** as 35th partner, enabling BrahMos range extension and predator drone imports. |
 | **HCoC (Hague Code of Conduct)** | 2002 | Multilateral transparency code against ballistic missile proliferation; pre-launch notification. | 145 subscribing states | **India joined on 1 June 2016**. Qatar became 145th member in 2024. |
 | **Australia Group** | 1985 | Harmonisation of export controls to prevent proliferation of **chemical and biological weapons**. | 43 members | **India joined on 19 January 2018** as 43rd member. |
 | **Wassenaar Arrangement** | 1996 | Transparency and export controls on **conventional arms and dual-use goods/technologies**. | 42 participating states | **India joined on 8 December 2017** as 42nd participating state. |
@@ -304,7 +304,7 @@
 
 ### Table 3: Landmark Bilateral & Multilateral Military Exercises
 
-| Exercise Name | Partner Nation(s) | Service Branch | Typical Locations & Exam Significance |
+| Exercise Name | Partner Nation(s) | Service Branch | Typical Locations & Must-Score Significance |
 | :--- | :--- | :--- | :--- |
 | **Surya Kiran** | **India – Nepal** | Army | Alternates between **Pithoragarh (Uttarakhand)** and Saljhandi (Nepal); counter-insurgency and jungle warfare. |
 | **Yudh Abhyas** | **India – USA** | Army | Alternates; conducted at high-altitude training area in **Auli (Chamoli, Uttarakhand)** and Alaska/Washington. |
@@ -324,7 +324,7 @@
 
 ### Table 4: Key Inventions, Inventors, Years & Operating Principles
 
-| Invention | Inventor(s) | Year / Origin | Underlying Scientific Principle / Operating Law | Key Exam Angle |
+| Invention | Inventor(s) | Year / Origin | Underlying Scientific Principle / Operating Law | Key Must-Score Angle |
 | :--- | :--- | :--- | :--- | :--- |
 | **X-Ray Machine** | Wilhelm Conrad Röntgen | 1895 (Germany) | Deceleration of high-energy electrons colliding with a heavy metal target (Bremsstrahlung) | First-ever Nobel Prize in Physics (1901). |
 | **Radio / Wireless Telegraph**| Guglielmo Marconi | 1901 (Italy/UK) | Propagation and reception of electromagnetic radio waves | Shared 1909 Nobel Prize with Karl Ferdinand Braun. |
@@ -332,13 +332,13 @@
 | **Electric Incandescent Lamp**| Thomas Alva Edison | 1879 (USA) | Joule heating ($H = I^2Rt$) of carbonized/tungsten filament in an evacuated glass bulb | First commercial electric lighting system (1882). |
 | **Steam Engine** | James Watt | 1769 (Scotland) | Transformation of heat energy into mechanical work (First Law of Thermodynamics) | Significant improvements over Newcomen/Savery engines. |
 | **Television (Mechanical)** | John Logie Baird | 1926 (UK) | Mechanical scanning of optical images using Nipkow discs | First working television system. |
-| **Laser** | Theodore H. Maiman | 1960 (USA) | Stimulated emission of radiation inside an optically pumped ruby crystal rod | Emitted coherent red light at $\lambda = 694.3	ext{ nm}$. |
+| **Laser** | Theodore H. Maiman | 1960 (USA) | Stimulated emission of radiation inside an optically pumped ruby crystal rod | Emitted coherent red light at $\lambda = 694.3\text{ nm}$. |
 | **Penicillin** | Sir Alexander Fleming | 1928 (Scotland) | Biosynthesis of antibacterial metabolite by fungus *Penicillium notatum* | Discovered accidentally; 1945 Nobel Prize in Medicine. |
 | **Dynamite** | Alfred Nobel | 1867 (Sweden) | Stabilization of liquid nitroglycerin absorbed into porous diatomaceous earth (kieselguhr) | Founded the Nobel Foundation in his will (1900). |
 | **Transistor** | Bardeen, Brattain, Shockley | 1947 (USA) | Electronic amplification and switching across semiconductor p-n junctions | 1956 Nobel Prize in Physics; replaced vacuum tubes. |
 | **Integrated Circuit (Microchip)**| Jack Kilby & Robert Noyce | 1958/59 (USA) | Fabrication of entire circuits (transistors, resistors, capacitors) on a single silicon substrate | Kilby won 2000 Nobel Prize in Physics. |
 | **Diode Valve** | John Ambrose Fleming | 1904 (UK) | Thermionic emission of electrons from heated cathode to anode in a vacuum tube | First vacuum-tube electronic detector. |
-| **Crescograph** | Acharya J.C. Bose | Early 1900s (India)| Electromechanical clockwork gear train magnifying plant tissue movements $10,000	imes$ | Proved plants respond to electrical, chemical stimuli. |
+| **Crescograph** | Acharya J.C. Bose | Early 1900s (India)| Electromechanical clockwork gear train magnifying plant tissue movements $10,000\times$ | Proved plants respond to electrical, chemical stimuli. |
 | **Machine Gun (Puckle Gun)** | James Puckle | 1718 (England) | Manually rotated cylinder mechanism firing multiple rounds ('Defence Gun') | First patented mechanical machine gun. |
 | **Radar** | Robert Watson-Watt | 1935 (Scotland) | Reflection of radio waves from metal targets measuring range and bearing via Doppler shift | Decisive technology for Royal Air Force in WWII. |
 | **Cyclotron** | Ernest O. Lawrence | 1932 (USA) | Acceleration of charged particles by high-frequency alternating electric field in magnetic spiral| 1939 Nobel Prize in Physics. |
@@ -388,7 +388,7 @@
 
 ### Table 8: Interdisciplinary Scientific Disciplines & Core Principles
 
-| Discipline | Defining Pioneer / Year | Core Subject Matter & Domain | Exam Importance / Real-World Application |
+| Discipline | Defining Pioneer / Year | Core Subject Matter & Domain | Must-Score Importance / Real-World Application |
 | :--- | :--- | :--- | :--- |
 | **Cybernetics** | Norbert Wiener (1948) | Scientific study of control and communication in animals and machines. | Foundation of robotics, automated feedback loops, neural networks. |
 | **Geodesy** | Classical Greek / Modern Geophysics | Measurement of Earth's geometric shape, orientation in space, and gravity field. | Satellite navigation, GPS datum, tectonic deformation monitoring. |
@@ -404,12 +404,11 @@
 ### 9.1 World Physicists & Milestones of Classical & Quantum Mechanics
 - **Classical Dynamics:** Sir Isaac Newton's Three Laws of Motion and Universal Gravitation ($F = Gm_1m_2/r^2$) mathematically established terrestrial and celestial mechanics. Galileo Galilei established kinematics, the law of inertia, isochronism of the pendulum, and telescopic discovery of the moons of Jupiter.
 - **Electromagnetic Unification:** Michael Faraday discovered electromagnetic induction (1831), establishing that a changing magnetic flux induces an electromotive force. James Clerk Maxwell unified electricity, magnetism, and light into Maxwell's Equations (1865), proving light is an electromagnetic wave. Heinrich Hertz verified radio waves in 1887.
-- **Quantum Revolution:** Max Planck solved the ultraviolet catastrophe in 1900 by introducing energy quantization ($E = nh
-u$). Albert Einstein explained the Photoelectric Effect (1905, Nobel 1921), proving light acts as discrete packets of energy (photons). Louis de Broglie established wave-particle duality ($\lambda = h/p$, 1924). Werner Heisenberg formulated the Uncertainty Principle ($\Delta x \Delta p \ge h/4\pi$, 1927). Erwin Schrödinger formulated Wave Mechanics ($i\hbar \partial\psi/\partial t = \hat{H}\psi$, 1926).
+- **Quantum Revolution:** Max Planck solved the ultraviolet catastrophe in 1900 by introducing energy quantization ($E = nh\nu$). Albert Einstein explained the Photoelectric Effect (1905, Nobel 1921), proving light acts as discrete packets of energy (photons). Louis de Broglie established wave-particle duality ($\lambda = h/p$, 1924). Werner Heisenberg formulated the Uncertainty Principle ($\Delta x \Delta p \ge h/4\pi$, 1927). Erwin Schrödinger formulated Wave Mechanics ($i\hbar \partial\psi/\partial t = \hat{H}\psi$, 1926).
 
 ### 9.2 Indian Scientific Architects & Institutional Foundation
 - **Sir C.V. Raman:** Discovered the Raman Effect on **February 28, 1928** (inelastic photon scattering by molecules causing Stokes and Anti-Stokes frequency shifts). Awarded the **1930 Nobel Prize in Physics** (first Asian science Nobel). Founded Raman Research Institute (RRI, Bengaluru, 1948).
-- **Acharya J.C. Bose:** Generated $60	ext{ GHz}$ millimeter microwaves in 1895 (predating Marconi's radio patent), invented the Galena crystal detector, founded the Bose Institute (1917), and invented the **Crescograph** measuring plant physiological responses.
+- **Acharya J.C. Bose:** Generated $60\text{ GHz}$ millimeter microwaves in 1895 (predating Marconi's radio patent), invented the Galena crystal detector, founded the Bose Institute (1917), and invented the **Crescograph** measuring plant physiological responses.
 - **Satyendra Nath Bose:** Formulated Bose-Einstein Statistics (1924) governing integer-spin particles (**Bosons**), leading to the theoretical prediction of the **Bose-Einstein Condensate (BEC)**.
 - **Meghnad Saha:** Formulated the **Saha Ionization Equation** (1920) linking stellar spectral lines to stellar temperatures and pressures. Founded the Saha Institute of Nuclear Physics (SINP) and chaired the Calendar Reform Committee (1952) introducing the Saka National Calendar.
 - **Subrahmanyan Chandrasekhar:** Formulated the **Chandrasekhar Limit** ($M \le 1.44 M_\odot$) in 1930; awarded the 1983 Nobel Prize in Physics. NASA named the Chandra X-ray Observatory in his honor.
@@ -419,9 +418,9 @@ u$). Albert Einstein explained the Photoelectric Effect (1905, Nobel 1921), prov
 
 ### 9.3 Inventions, Discoveries & Underlying Scientific Principles
 - Every landmark technological breakthrough translates a fundamental physical law into an engineered application:
-  - *Electric Motors and Generators:* Direct application of Faraday's Law of Electromagnetic Induction and Lorentz Force ($ec{F} = q(ec{E} + ec{v} 	imes ec{B})$).
+  - *Electric Motors and Generators:* Direct application of Faraday's Law of Electromagnetic Induction and Lorentz Force ($\vec{F} = q(\vec{E} + \vec{v} \times \vec{B})$).
   - *Steam and Internal Combustion Engines:* Conversion of thermal energy into mechanical work governed by the Laws of Thermodynamics.
-  - *Optical Fibers and Endoscopes:* Total Internal Reflection when light travels from denser to rarer media at an incidence angle greater than the critical angle ($i > 	heta_c$).
+  - *Optical Fibers and Endoscopes:* Total Internal Reflection when light travels from denser to rarer media at an incidence angle greater than the critical angle ($i > \theta_c$).
   - *Lasers:* Stimulated emission of photons from atoms inverted to a higher energy state (population inversion).
   - *Electron Microscope:* Utilizes the wave properties of high-speed electrons ($\lambda = h/mv$), achieving resolving powers thousand times greater than optical light.
 
@@ -431,7 +430,7 @@ u$). Albert Einstein explained the Photoelectric Effect (1905, Nobel 1921), prov
   - *Solid Propellants:* HTPB mixed with ammonium perchlorate oxidizer; allows long-term storage in sealed canisters and instant firing (Agni-I, II, III, IV, V, Agni P, Pralay).
   - *Liquid Propellants:* Hypergolic combinations (UDMH + $N_2O_4$) used in Prithvi; provides throttle control but requires pre-launch fueling.
   - *Ramjets:* Used in Akash and BrahMos; relies on forward vehicle velocity to ram and compress atmospheric air, saving weight by eliminating internal air compressors and oxidizer tanks.
-- **Multi-Tiered BMD Architecture:** Designed to neutralize hostile nuclear-tipped ballistic missiles. Exo-atmospheric interception (PAD/AD-1) occurs outside the atmosphere ($>50	ext{ km}$), whereas endo-atmospheric interception (AAD) engages targets inside the atmosphere ($15–30	ext{ km}$).
+- **Multi-Tiered BMD Architecture:** Designed to neutralize hostile nuclear-tipped ballistic missiles. Exo-atmospheric interception (PAD/AD-1) occurs outside the atmosphere ($>50\text{ km}$), whereas endo-atmospheric interception (AAD) engages targets inside the atmosphere ($15–30\text{ km}$).
 - **Naval and Aerial Platforms:** INS Arihant provides secure underwater second-strike nuclear deterrence using K-15/K-4 SLBMs. LCA Tejas provides indigenous air superiority with delta-wing agility and composite materials.
 
 ### 9.5 Global Disarmament, Arms Control & Military Alliances
@@ -443,14 +442,14 @@ u$). Albert Einstein explained the Photoelectric Effect (1905, Nobel 1921), prov
 - **ISRO Launch Vehicle Hierarchy:**
   - *SLV-3:* 4-stage all-solid experimental rocket.
   - *PSLV:* 4-stage (Solid-Liquid-Solid-Liquid) workhorse for Sun-synchronous Earth observation satellites.
-  - *GSLV Mk II:* 3-stage vehicle featuring an indigenous Cryogenic Upper Stage ($LH_2 + LOX$ below $-150^\circ	ext{C}$).
+  - *GSLV Mk II:* 3-stage vehicle featuring an indigenous Cryogenic Upper Stage ($LH_2 + LOX$ below $-150^\circ\text{C}$).
   - *LVM3 (Fatboy):* Heavy-lift vehicle capable of launching 4 tonnes to GTO and 8 tonnes to LEO.
   - *SSLV:* Quick-turnaround 3-stage solid launcher for small satellite commercial launches.
-- **Orbital Classes:** Geostationary orbits ($35,786	ext{ km}$, 24 hr period, zero inclination) maintain a stationary footprint over Earth's equator. Sun-synchronous polar orbits (600–800 km, ~98° inclination) allow daily Earth imaging at consistent solar illumination.
+- **Orbital Classes:** Geostationary orbits ($35,786\text{ km}$, 24 hr period, zero inclination) maintain a stationary footprint over Earth's equator. Sun-synchronous polar orbits (600–800 km, ~98° inclination) allow daily Earth imaging at consistent solar illumination.
 
 ### 9.7 Lunar, Solar, Planetary Exploration & Deep Space Observatories
 - **Lunar Missions:** Chandrayaan-1 confirmed lunar water. Chandrayaan-3 achieved the historic first soft landing near the lunar South Pole on 23 August 2023 (*Shiv Shakti Point*). Chandrayaan-4 will perform lunar sample return; Chandrayaan-5 (LUPEX) will explore water ice in permanently shadowed craters.
-- **Interplanetary & Solar Observatories:** Mangalyaan reached Mars on its maiden attempt. Aditya-L1 monitors solar flares from Sun-Earth L1. XPoSat measures X-ray polarization. Ground-based astronomical research is spearheaded by MACE at Hanle, Ladakh ($4,270	ext{ m}$).
+- **Interplanetary & Solar Observatories:** Mangalyaan reached Mars on its maiden attempt. Aditya-L1 monitors solar flares from Sun-Earth L1. XPoSat measures X-ray polarization. Ground-based astronomical research is spearheaded by MACE at Hanle, Ladakh ($4,270\text{ m}$).
 
 ---
 
@@ -648,7 +647,7 @@ When the physical dimensions of a semiconductor or conductor approach the de Bro
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (D) All transparent media
-- **Exam Lock & Core Concepts:** 
+- **Logic:** 
 
 </details>
 
@@ -662,7 +661,7 @@ When the physical dimensions of a semiconductor or conductor approach the de Bro
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (B) J.C. Bose
-- **Exam Lock & Core Concepts:** 
+- **Logic:** 
 
 </details>
 
@@ -676,7 +675,7 @@ When the physical dimensions of a semiconductor or conductor approach the de Bro
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (A) February 28
-- **Exam Lock & Core Concepts:** 
+- **Logic:** 
 
 </details>
 
@@ -690,7 +689,7 @@ When the physical dimensions of a semiconductor or conductor approach the de Bro
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (B) Law of Photoelectric Effect
-- **Exam Lock & Core Concepts:** 
+- **Logic:** 
 
 </details>
 
@@ -704,7 +703,7 @@ When the physical dimensions of a semiconductor or conductor approach the de Bro
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (B) Dr. Vikram Sarabhai
-- **Exam Lock & Core Concepts:** 
+- **Logic:** 
 
 </details>
 
@@ -718,7 +717,7 @@ When the physical dimensions of a semiconductor or conductor approach the de Bro
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (B) White dwarf star
-- **Exam Lock & Core Concepts:** 
+- **Logic:** 
 
 </details>
 
@@ -732,7 +731,7 @@ When the physical dimensions of a semiconductor or conductor approach the de Bro
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (B) Homi J. Bhabha
-- **Exam Lock & Core Concepts:** 
+- **Logic:** 
 
 </details>
 
@@ -746,7 +745,7 @@ When the physical dimensions of a semiconductor or conductor approach the de Bro
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (B) Galileo Galilei
-- **Exam Lock & Core Concepts:** 
+- **Logic:** 
 
 </details>
 
@@ -760,7 +759,7 @@ When the physical dimensions of a semiconductor or conductor approach the de Bro
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (B) Meghnad Saha
-- **Exam Lock & Core Concepts:** 
+- **Logic:** 
 
 </details>
 
@@ -774,7 +773,7 @@ When the physical dimensions of a semiconductor or conductor approach the de Bro
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (B) S.N. Bose
-- **Exam Lock & Core Concepts:** 
+- **Logic:** 
 
 </details>
 
@@ -788,7 +787,7 @@ When the physical dimensions of a semiconductor or conductor approach the de Bro
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (B) Sir Isaac Newton
-- **Exam Lock & Core Concepts:** 
+- **Logic:** 
 
 </details>
 
@@ -802,7 +801,7 @@ When the physical dimensions of a semiconductor or conductor approach the de Bro
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (A) Theodore H. Maiman
-- **Exam Lock & Core Concepts:** 
+- **Logic:** 
 
 </details>
 
@@ -816,7 +815,7 @@ When the physical dimensions of a semiconductor or conductor approach the de Bro
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (B) 1975
-- **Exam Lock & Core Concepts:** 
+- **Logic:** 
 
 </details>
 
@@ -830,7 +829,7 @@ When the physical dimensions of a semiconductor or conductor approach the de Bro
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (B) Operation Smiling Buddha
-- **Exam Lock & Core Concepts:** 
+- **Logic:** 
 
 </details>
 
@@ -844,7 +843,7 @@ When the physical dimensions of a semiconductor or conductor approach the de Bro
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (B) Narinder Singh Kapany
-- **Exam Lock & Core Concepts:** 
+- **Logic:** 
 
 </details>
 
@@ -858,7 +857,7 @@ When the physical dimensions of a semiconductor or conductor approach the de Bro
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (B) Wilhelm Conrad Röntgen
-- **Exam Lock & Core Concepts:** 
+- **Logic:** 
 
 </details>
 
@@ -872,7 +871,7 @@ When the physical dimensions of a semiconductor or conductor approach the de Bro
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (B) Science and Technology
-- **Exam Lock & Core Concepts:** 
+- **Logic:** 
 
 </details>
 
@@ -886,7 +885,7 @@ When the physical dimensions of a semiconductor or conductor approach the de Bro
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (B) Pokhran-II nuclear tests in 1998
-- **Exam Lock & Core Concepts:** 
+- **Logic:** 
 
 </details>
 
@@ -900,7 +899,7 @@ When the physical dimensions of a semiconductor or conductor approach the de Bro
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (B) *Ignited Minds*
-- **Exam Lock & Core Concepts:** 
+- **Logic:** 
 
 </details>
 
@@ -914,7 +913,7 @@ When the physical dimensions of a semiconductor or conductor approach the de Bro
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (B) John Bardeen
-- **Exam Lock & Core Concepts:** 
+- **Logic:** 
 
 </details>
 
@@ -928,7 +927,7 @@ When the physical dimensions of a semiconductor or conductor approach the de Bro
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** Aryabhatta was the first satellite launched by India. It was
+- **Logic:** Aryabhatta was the first satellite launched by India. It was
 
 named after the great Indian astronomer of the same name.
 
@@ -950,7 +949,7 @@ satellite 'Aryabhatta' and died recently is :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** Prof. U.R. Rao was the scientist who designed India's first
+- **Logic:** Prof. U.R. Rao was the scientist who designed India's first
 
 space satellite 'Aryabhatta'. Rao undertook the responsibility
 
@@ -984,7 +983,7 @@ G–238 General Studies General Science
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** Laika was a Soviet space dog who became the first animal
+- **Logic:** Laika was a Soviet space dog who became the first animal
 
 into orbit of the Earth in space. Laika, a stray dog from the
 
@@ -1008,7 +1007,7 @@ cosmonaut :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** Russian astronaut Yuri Gagarin was the first male astronaut
+- **Logic:** Russian astronaut Yuri Gagarin was the first male astronaut
 
 in space while Velentina Tereshkova (Russian cosmonaut)
 
@@ -1034,7 +1033,7 @@ Station?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (*)
-- **Exam Lock & Core Concepts:** At present, NASA astronaut Francisco (Frank) Rubio holds
+- **Logic:** At present, NASA astronaut Francisco (Frank) Rubio holds
 
 the longestsingle spaceflight record by anAmerican at 370.9
 
@@ -1066,7 +1065,7 @@ spacecraft named :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** NASA astronauts Sunita Williams and Barry E. ‘Butch’
+- **Logic:** NASA astronauts Sunita Williams and Barry E. ‘Butch’
 
 Wilmore safely splashed down in the SpaceX’s Crew Dragon Freedom capsule in the Gulf of Mexico off the coast of
 
@@ -1098,7 +1097,7 @@ Gorbunov also returned with them.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** Tim Peake is a European Space Agency (ESA) astronaut of
+- **Logic:** Tim Peake is a European Space Agency (ESA) astronaut of
 
 British nationality and a former International Space Station
 
@@ -1144,7 +1143,7 @@ A B C D
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** Curiosity: Curiosity is a car-sized robotic rover exploring
+- **Logic:** Curiosity: Curiosity is a car-sized robotic rover exploring
 
 Gale Crater on Mars as part of NASA's Mars Science
 
@@ -1180,7 +1179,7 @@ Shuttle?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** Atlantis was the last and final space shuttle of NASA. It
+- **Logic:** Atlantis was the last and final space shuttle of NASA. It
 
 was launched on 8 July, 2011 and landed on 21 July, 2011.
 
@@ -1210,7 +1209,7 @@ announced by NASA, are related to :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** G–240 General Studies General Science
+- **Logic:** G–240 General Studies General Science
 
 'VERITAS' and 'DAVINCI' will be NASA's first missionsto
 
@@ -1272,7 +1271,7 @@ asteroids from hitting the Earth.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** In 2009, British scientists announced that they have designed
+- **Logic:** In 2009, British scientists announced that they have designed
 
 a special spacecraft that can save the Earth from a catastrophic
 
@@ -1294,7 +1293,7 @@ Lu and Stanley G. Love.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** The first direct observation of gravitational waves was made
+- **Logic:** The first direct observation of gravitational waves was made
 
 on 14 September, 2015 and was announced by the LIGO
 
@@ -1314,7 +1313,7 @@ on 14 September, 2015 and was announced by the LIGO
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** The concept of expanding universe is based on Doppler
+- **Logic:** The concept of expanding universe is based on Doppler
 
 effect. It was named after Christian Doppler, who first came
 
@@ -1344,7 +1343,7 @@ a red Doppler shift or a red-shift.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** Black hole is actually a collapsed star. Black holes of stellar
+- **Logic:** Black hole is actually a collapsed star. Black holes of stellar
 
 mass are expected to form when very massive stars collapse at
 
@@ -1394,7 +1393,7 @@ explanation of (A).
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** A black hole is an object which is so compact that its
+- **Logic:** A black hole is an object which is so compact that its
 
 gravitational force is strong enough to prevent light or
 
@@ -1414,7 +1413,7 @@ it by telescope.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** Comets are the small celestial objects made of ice, gas, dust,
+- **Logic:** Comets are the small celestial objects made of ice, gas, dust,
 
 and a small amount of organic material that orbit our Sun.
 
@@ -1466,7 +1465,7 @@ explanation of (A).
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** When a spacecraft re-entered in the Earth's atmosphere,
+- **Logic:** When a spacecraft re-entered in the Earth's atmosphere,
 
 it experiences air drag creating friction. This results in an
 
@@ -1502,7 +1501,7 @@ Earth.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** When the object moves around the Earth with the velocity
+- **Logic:** When the object moves around the Earth with the velocity
 
 commensurate with the velocity of the Earth such that it
 
@@ -1526,7 +1525,7 @@ satellites are located ?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** The exosphere is the outer most layer of Earth's atmosphere.
+- **Logic:** The exosphere is the outer most layer of Earth's atmosphere.
 
 Air in the Exosphere is extremely thin in many ways. It is
 
@@ -1546,7 +1545,7 @@ the communication satellites are located.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** The geostationary satellite has a same orbital period as the
+- **Logic:** The geostationary satellite has a same orbital period as the
 
 Earth's rotation period i.e. 24 hours.
 
@@ -1564,7 +1563,7 @@ satellite is :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 </details>
 
@@ -1580,7 +1579,7 @@ named Kepler to find :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** Kepler was a space telescope launched by NASA to discover
+- **Logic:** Kepler was a space telescope launched by NASA to discover
 
 Earth-like planets orbiting other stars. It was launched in
 
@@ -1606,7 +1605,7 @@ places for life to exist.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** The IceCube telescope which was completed in December,
+- **Logic:** The IceCube telescope which was completed in December,
 
 2010 is the biggest neutrino telescope of the world. It was
 
@@ -1628,7 +1627,7 @@ Chairman of the Indian Space Research Organisation
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 </details>
 
@@ -1654,7 +1653,7 @@ explanation of (A).
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** INSAT is a series of multipurpose geostationary satellites
+- **Logic:** INSAT is a series of multipurpose geostationary satellites
 
 launched by ISRO to fulfill the needs in the field of
 
@@ -1678,7 +1677,7 @@ launched from :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** The first Indian Remote-sensing satellite IRS-IA was
+- **Logic:** The first Indian Remote-sensing satellite IRS-IA was
 
 launched on March 17, 1988 from Soviet Union Baikanour
 
@@ -1696,7 +1695,7 @@ Cosmodrome.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** INSAT-3C was launched by the Ariane-4 launch vehicle
+- **Logic:** INSAT-3C was launched by the Ariane-4 launch vehicle
 
 of Arianespace from Kourou, French Guiana in South
 
@@ -1824,7 +1823,7 @@ December 22, 2005 ?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** INSAT-4A, the first one in INSAT-4 satellites series was
+- **Logic:** INSAT-4A, the first one in INSAT-4 satellites series was
 
 successfully launched by ISRO on December 22, 2005 from
 
@@ -1864,7 +1863,7 @@ A B C D
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** Chandrayaan-3: India’s third lunar mission Chandrayaan-3
+- **Logic:** Chandrayaan-3: India’s third lunar mission Chandrayaan-3
 
 was launched by the LVM3-M4 rocket on 14 July, 2023.
 
@@ -1904,7 +1903,7 @@ Code :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** SITE – Satellite Instructional Television Experiment project
+- **Logic:** SITE – Satellite Instructional Television Experiment project
 
 launched in 1975, jointly designed by NASA and ISRO.
 
@@ -1930,7 +1929,7 @@ which was launched by DRDO in 1983.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** INSAT-1D was launched on June 12, 1990. INSAT-1D was a
+- **Logic:** INSAT-1D was launched on June 12, 1990. INSAT-1D was a
 
 multifunctional satellite that provides telephone, television,
 
@@ -1952,7 +1951,7 @@ go into orbit recently weighted ?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** On July 10, 2006 the Geosynchronous Satellite Launch
+- **Logic:** On July 10, 2006 the Geosynchronous Satellite Launch
 
 Vehicle (GSLV) carrying the INSAT-4C communication
 
@@ -1992,7 +1991,7 @@ SDSC, SHAR, Sriharikota.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** GPS means Global Positioning System, is a space-based
+- **Logic:** GPS means Global Positioning System, is a space-based
 
 navigation system. It was developed by the U.S. Department
 
@@ -2024,7 +2023,7 @@ Code :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** The correct chronological order of development of above
+- **Logic:** The correct chronological order of development of above
 
 satellite launch vehicles is as follows :
 
@@ -2052,7 +2051,7 @@ located in :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** The Master Control Facility (MCF) is a facility set up by the
+- **Logic:** The Master Control Facility (MCF) is a facility set up by the
 
 ISRO in Karnataka. It was established in 1982 for monitoring
 
@@ -2096,7 +2095,7 @@ A B C D
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** Vikram Sarabhai Space Centre is located in Thiruvananthapuram, Kerala. ISRO's headquarter is located in
+- **Logic:** Vikram Sarabhai Space Centre is located in Thiruvananthapuram, Kerala. ISRO's headquarter is located in
 
 Bengaluru, Karnataka. IUAC (Inter-University Acclerator
 
@@ -2130,7 +2129,7 @@ Centre
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** The ISRO Satellite Centre (Renamed as 'UR Rao Satellite
+- **Logic:** The ISRO Satellite Centre (Renamed as 'UR Rao Satellite
 
 Centre : URSC' in 2018) was established originally in 1972
 
@@ -2156,7 +2155,7 @@ pairs are correctly matched.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** Space Applications Centre is located in Ahmedabad. While
+- **Logic:** Space Applications Centre is located in Ahmedabad. While
 
 ISRO Satellite centre (now URSC) is located in Bengaluru,
 
@@ -2178,7 +2177,7 @@ situated at :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 G–256 General Studies General Science
 
@@ -2210,7 +2209,7 @@ Code :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** The Vikram Sarabhai Space Centre at Trivandrum
+- **Logic:** The Vikram Sarabhai Space Centre at Trivandrum
 
 (Thiruvananthapuram) is mainly concerned with the research
 
@@ -2250,7 +2249,7 @@ Select the correct answer using the codes given below:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** PraVaHa is a Computational Fluid Dynamics (CFD) software
+- **Logic:** PraVaHa is a Computational Fluid Dynamics (CFD) software
 
 developed by ISRO (Indian Space Research Organisation)
 
@@ -2304,7 +2303,7 @@ in :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** Thumba Equatorial Rocket Launch Station (TERLS) was
+- **Logic:** Thumba Equatorial Rocket Launch Station (TERLS) was
 
 established in 1962 at Thiruvananthapuram, Kerala.
 
@@ -2320,7 +2319,7 @@ established in 1962 at Thiruvananthapuram, Kerala.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** Sriharikota is a barrier island in the Andhra Pradesh. It is most
+- **Logic:** Sriharikota is a barrier island in the Andhra Pradesh. It is most
 
 famous as the home of India's only satellite launch centre.
 
@@ -2360,7 +2359,7 @@ A B C D
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** G–257 General Studies General Science
+- **Logic:** G–257 General Studies General Science
 
 The correctly matched lists are as follows :
 
@@ -2412,7 +2411,7 @@ explanation of (A).
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** The upper surface of the wings of an aeroplane is made
+- **Logic:** The upper surface of the wings of an aeroplane is made
 
 convex and built concave at lower surface. Such design of
 
@@ -2436,7 +2435,7 @@ of the plane.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** The black boxes are actually painted with a heat-resistant
+- **Logic:** The black boxes are actually painted with a heat-resistant
 
 bright orange colour in order to make them easier to find
 
@@ -2460,7 +2459,7 @@ of an air crash.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** G–258 General Studies General Science
+- **Logic:** G–258 General Studies General Science
 
 Chandrayaan-2 was an ISRO mission aimed at placing
 
@@ -2496,7 +2495,7 @@ used by ISRO to launch Chandrayaan-2 spacecraft?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** Geosynchronous Satellite Launch Vehicle GSLV-MkIII
+- **Logic:** Geosynchronous Satellite Launch Vehicle GSLV-MkIII
 
 (LVM3)-M1 was used by ISRO to launch Chandrayaan-2
 
@@ -2528,7 +2527,7 @@ moon, making India the _________ country to do so.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 </details>
 
@@ -2548,7 +2547,7 @@ and rocks around the lunar landing site?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** Chandrayaan-3 rover 'Pragyan' has two payloads : Alpha
+- **Logic:** Chandrayaan-3 rover 'Pragyan' has two payloads : Alpha
 
 Particle X-ray Spectrometer (APXS) and Laser Induced
 
@@ -2594,7 +2593,7 @@ Select the correct answer using the codes given below:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** The Chandrayaan-5/Lunar Polar Exploration (LUPEX)
+- **Logic:** The Chandrayaan-5/Lunar Polar Exploration (LUPEX)
 
 Mission, a collaborative effort between India's Indian
 
@@ -2680,7 +2679,7 @@ explanation of (A).
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** Luna-25 was a failed Russian lunar lander mission by Russian
+- **Logic:** Luna-25 was a failed Russian lunar lander mission by Russian
 
 space agency Roscosmos in August, 2023 that planned to land
 
@@ -2736,7 +2735,7 @@ Code :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** The Mars Orbiter Mission (MOM), or Mangalyaan was a
+- **Logic:** The Mars Orbiter Mission (MOM), or Mangalyaan was a
 
 space probe orbiting Mars since 24 September, 2014. It was
 
@@ -2776,7 +2775,7 @@ a spacewalk.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** China had launched its third manned spacecraft Shenzhou-7
+- **Logic:** China had launched its third manned spacecraft Shenzhou-7
 
 on September 25, 2008 with three astronauts on board to
 
@@ -2812,7 +2811,7 @@ G–262 General Studies General Science
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** The world’s first quantum communications satellite
+- **Logic:** The world’s first quantum communications satellite
 
 (Quantum Experiments at Space Scale : QUESS) or Micius
 
@@ -2840,7 +2839,7 @@ the following organizations?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** NISAR (NASA-ISRO Synthetic Aperture Radar) satellite
+- **Logic:** NISAR (NASA-ISRO Synthetic Aperture Radar) satellite
 
 is a joint Earth-observing mission between NASA and the
 
@@ -2884,7 +2883,7 @@ of water on the Moon?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** In a breakthrough discovery, the US space agency NASA
+- **Logic:** In a breakthrough discovery, the US space agency NASA
 
 confirmed in October 2020, the presence of water on
 
@@ -2920,7 +2919,7 @@ life on Mars found till today include –
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** NASA's Spirit and Opportunity mission on Mars have found
+- **Logic:** NASA's Spirit and Opportunity mission on Mars have found
 
 the evidence of sulfate which clearly indicated the presence
 
@@ -2946,7 +2945,7 @@ detected on which planet?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** As per report released by U.S. Journal 'SCIENCE' in July,
+- **Logic:** As per report released by U.S. Journal 'SCIENCE' in July,
 
 2018, astronomers have found a massive underground lake
 
@@ -2966,7 +2965,7 @@ km beneath the planet's southern polar ice cap.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** & (d)
+- **Logic:** & (d)
 
 The first evidence of methane in the atmosphere of Mars was
 
@@ -2994,7 +2993,7 @@ following gas in large quantity?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** Saturn is the sixth planet from the Sun and the second-largest
+- **Logic:** Saturn is the sixth planet from the Sun and the second-largest
 
 planet in our Solar System. Saturn contains approximately
 
@@ -3026,7 +3025,7 @@ helium
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** The Space Shuttle is a reusable spacecraft that takes off
+- **Logic:** The Space Shuttle is a reusable spacecraft that takes off
 
 like rocket, orbits the earth like a satellite and then lands
 
@@ -3050,7 +3049,7 @@ but all of these are retired.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (*)
-- **Exam Lock & Core Concepts:** G–265 General Studies General Science
+- **Logic:** G–265 General Studies General Science
 
 Apollo-8 was the first mission to take humans to the moon
 
@@ -3082,7 +3081,7 @@ Which of the statements given above is/are correct?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** Jet engines and rockets work on the same principle. They
+- **Logic:** Jet engines and rockets work on the same principle. They
 
 produce thrust through an internal pressure difference and
 
@@ -3124,7 +3123,7 @@ Which of the statements given above is/are correct?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** Jet aircrafts efficiently manage fuel combustion at low
+- **Logic:** Jet aircrafts efficiently manage fuel combustion at low
 
 temperature in the stratosphere. The type of turbulence
 
@@ -3148,7 +3147,7 @@ not occur in the stratosphere. There are no clouds or watervapour and also no ve
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** Nearly all modern airplanes use jet propulsion to fly. Jet
+- **Logic:** Nearly all modern airplanes use jet propulsion to fly. Jet
 
 engines and rockets work on the principle of conservation
 
@@ -3170,7 +3169,7 @@ of linear momentum.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** An electric rocket engine is a jet engine in which material
+- **Logic:** An electric rocket engine is a jet engine in which material
 
 ejected backward (ionized gas in general) causes a forward
 
@@ -3198,7 +3197,7 @@ p = mv].
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** Stratellite is the high altitude airship positioned in the stratosphere and carries one or more repeaters to create wireless
+- **Logic:** Stratellite is the high altitude airship positioned in the stratosphere and carries one or more repeaters to create wireless
 
 communication networks. A stratellite is similar to a satellite,
 
@@ -3220,7 +3219,7 @@ but is stationed in the stratosphere rather than in the orbit.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** The word Cryogenics was originated from the Greek word
+- **Logic:** The word Cryogenics was originated from the Greek word
 
 'Kryos' meaning 'frost' and 'genic' to produce. Usually,
 
@@ -3262,7 +3261,7 @@ hydrogen as the fuel.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** The cryogenic engine generally uses liquid oxygen as the
+- **Logic:** The cryogenic engine generally uses liquid oxygen as the
 
 oxidizer and liquid hydrogen as the fuel, that require for
 
@@ -3284,7 +3283,7 @@ space shuttles.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 </details>
 
@@ -3298,7 +3297,7 @@ space shuttles.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (*)
-- **Exam Lock & Core Concepts:** Among the given options, all are used as rocket propellant.
+- **Logic:** Among the given options, all are used as rocket propellant.
 
 Liquid hydrogen, liquid hydrazine and kerosene oil are used
 
@@ -3340,7 +3339,7 @@ Code :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** RISAT-2 or Radar Imaging Satellite-2 is an Indian radar
+- **Logic:** RISAT-2 or Radar Imaging Satellite-2 is an Indian radar
 
 reconnaissance satellite. It was successfully launched by
 
@@ -3370,7 +3369,7 @@ the Earth by using :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** An artificial satellite can be tracked very precisely from the
+- **Logic:** An artificial satellite can be tracked very precisely from the
 
 Earth by using Doppler effect. It is done with the help of
 
@@ -3390,7 +3389,7 @@ tracking is possible.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** G–268 General Studies General Science
+- **Logic:** G–268 General Studies General Science
 
 Rohini is a series of satellites launched by the Indian Space
 
@@ -3428,7 +3427,7 @@ orbit is-
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (*)
-- **Exam Lock & Core Concepts:** GSLV is India's indigenous satellite launch vehicle. It was
+- **Logic:** GSLV is India's indigenous satellite launch vehicle. It was
 
 primarily developed to launch INSAT class of satellites into
 
@@ -3452,7 +3451,7 @@ satellite launched ?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 </details>
 
@@ -3466,7 +3465,7 @@ satellite launched ?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 </details>
 
@@ -3480,7 +3479,7 @@ satellite launched ?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 </details>
 
@@ -3496,7 +3495,7 @@ launched on May 21, 2011 from :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** India's advanced communication satellite GSAT-8 was
+- **Logic:** India's advanced communication satellite GSAT-8 was
 
 successfully launched on 21 May, 2011 by the Ariane-V
 
@@ -3524,7 +3523,7 @@ launched by India on 29 September, 2012 ?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** On 29 September, 2012 India successfully launched the
+- **Logic:** On 29 September, 2012 India successfully launched the
 
 telecommunication satellite GSAT-10 by the Ariane-5 rocket
 
@@ -3552,7 +3551,7 @@ education in India.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** Bhuvan is a software application developed by ISRO,
+- **Logic:** Bhuvan is a software application developed by ISRO,
 
 which allows users to explore a 2D/3D representation of
 
@@ -3591,7 +3590,7 @@ Select the correct answer using the codes given below:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** The RudraM-II is an indigenously developed, solid-propelled,
+- **Logic:** The RudraM-II is an indigenously developed, solid-propelled,
 
 air-to-surface anti-radiation missile system developed
 
@@ -3627,7 +3626,7 @@ missile system. Hence, both statements are incorrect.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 </details>
 
@@ -3643,7 +3642,7 @@ defence missile –
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** Prithvi is India's surface to surface defence missile while
+- **Logic:** Prithvi is India's surface to surface defence missile while
 
 Akash is a medium-range mobile surface to air missile
 
@@ -3677,7 +3676,7 @@ Select the correct answer from the codes given below :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** On 7th November, 2017 Defence Research and Development
+- **Logic:** On 7th November, 2017 Defence Research and Development
 
 Organisation (DRDO) successfully test-fired its first
 
@@ -3721,7 +3720,7 @@ distance of 90 km.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** Astra is an active radar homing Beyond-Visual-Range
+- **Logic:** Astra is an active radar homing Beyond-Visual-Range
 
 Air-to-Air Missile (BVRAAM) developed by the DRDO.
 
@@ -3743,7 +3742,7 @@ from the integrated test range at Chandipur on 20 May, 2011.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 </details>
 
@@ -3759,7 +3758,7 @@ Balasore, in May 2003 is :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** Astra is an active radar homing beyond-visual-range airto-air missile developed by DRDO. The missile was first
+- **Logic:** Astra is an active radar homing beyond-visual-range airto-air missile developed by DRDO. The missile was first
 
 successfully tested on 9 May, 2003.
 
@@ -3775,7 +3774,7 @@ successfully tested on 9 May, 2003.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** Nag missile has the lowest-range in the given options. It's
+- **Logic:** Nag missile has the lowest-range in the given options. It's
 
 land based version has a range of maximum 4 km. Prithvi-I
 
@@ -3805,7 +3804,7 @@ G–280 General Studies General Science
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** INFACT-82 is Indian Naval's Fast Attack Craft which was
+- **Logic:** INFACT-82 is Indian Naval's Fast Attack Craft which was
 
 inducted in Indian Navy on 29 October, 2003. It was built
 
@@ -3831,7 +3830,7 @@ from the above statements option (b) is incorrect.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** BMP-II is an amphibiousinfantry fighting vehicle introduced
+- **Logic:** BMP-II is an amphibiousinfantry fighting vehicle introduced
 
 in the 1980s in the Soviet Union. The Indian version of BMPII is known as Sarath.
 
@@ -3853,7 +3852,7 @@ in the 1980s in the Soviet Union. The Indian version of BMPII is known as Sarath
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** Agni-I is a surface to the surface short-range ballistic missile.
+- **Logic:** Agni-I is a surface to the surface short-range ballistic missile.
 
 It has an effective range of 700-1250 km.
 
@@ -3873,7 +3872,7 @@ of 700 km was successfully tested by India in March,
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** A nuclear capable surface-to-surface Agni-I ballistic missile
+- **Logic:** A nuclear capable surface-to-surface Agni-I ballistic missile
 
 with a range of 700 km was successfully tested from the
 
@@ -3897,7 +3896,7 @@ successfully by India in March, 2010 ?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** Dhanush missile is the naval version of Prithvi missile. It
+- **Logic:** Dhanush missile is the naval version of Prithvi missile. It
 
 has a range of 350 Km.
 
@@ -3915,7 +3914,7 @@ more than 2000 km, is given the name :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** India has developed a series of AGNI missiles under the
+- **Logic:** India has developed a series of AGNI missiles under the
 
 Integrated Guided Missile Development Programme
 
@@ -3941,7 +3940,7 @@ effective range of 2000-2500 km.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** Hansa is a general aviation airplane for flight training,
+- **Logic:** Hansa is a general aviation airplane for flight training,
 
 designed by the National Aerospace Laboratories (NAL) of
 
@@ -3965,7 +3964,7 @@ Hansa-2, Hansa-2RE, Hansa-3, Hansa-S and Hansa-UAV.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** G–283 General Studies General Science
+- **Logic:** G–283 General Studies General Science
 
 See the explanation of above question.
 
@@ -3985,7 +3984,7 @@ countries?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** Barak-8 (the Hebrew word for Lightning) is an IndianIsraeli surface-to-air missile (SAM), designed to defend
+- **Logic:** Barak-8 (the Hebrew word for Lightning) is an IndianIsraeli surface-to-air missile (SAM), designed to defend
 
 against any type of airborne threat including aircraft,
 
@@ -4009,7 +4008,7 @@ Indian Navy ?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** The unmanned helicopter is jointly developed by Hindustan
+- **Logic:** The unmanned helicopter is jointly developed by Hindustan
 
 Aeronautics and Israel Aircraft Industries.
 
@@ -4043,7 +4042,7 @@ a solid propellant rocket motor.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (*)
-- **Exam Lock & Core Concepts:** Agni-II is a medium range ballistic missile with an effective
+- **Logic:** Agni-II is a medium range ballistic missile with an effective
 
 range of 2000-2500 km. These missiles use solid propellant
 
@@ -4073,7 +4072,7 @@ a solid-fuel first stage missile with an effective range of
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** G–284 General Studies General Science
+- **Logic:** G–284 General Studies General Science
 
 Agni-II, a surface-to-surface medium-range ballistic missile
 
@@ -4103,7 +4102,7 @@ is not correct ?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** The Agni-V missile, having a range of over 5,000 km is a
+- **Logic:** The Agni-V missile, having a range of over 5,000 km is a
 
 fully indigenous missile. Therefore option (d) is incorrect.
 
@@ -4125,7 +4124,7 @@ nuclear warhead of more than one ton.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** INDRA is a series of 2D radars meant for Army and Air Force.
+- **Logic:** INDRA is a series of 2D radars meant for Army and Air Force.
 
 This was the first high power radar developed by DRDO.
 
@@ -4145,7 +4144,7 @@ personnel on 27.1.96 at Chandipur :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** Prithvi-II was first test-fired on 27 January, 1996. Successful
+- **Logic:** Prithvi-II was first test-fired on 27 January, 1996. Successful
 
 night test-fire of Prithvi-II was conducted on 6 October, 2018.
 
@@ -4173,7 +4172,7 @@ November 12, 2008, is a –
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** Shaurya is a short-range canister-launched hypersonic
+- **Logic:** Shaurya is a short-range canister-launched hypersonic
 
 surface to surface tactical ballistic missile being developed
 
@@ -4203,7 +4202,7 @@ about ‘Shaurya’ ?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 </details>
 
@@ -4217,7 +4216,7 @@ about ‘Shaurya’ ?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** Indigenously developed LCA Tejas is a 4.5th generation
+- **Logic:** Indigenously developed LCA Tejas is a 4.5th generation
 
 multi-role light combat aircraft. It was named by former
 
@@ -4237,7 +4236,7 @@ light combat aircraft ?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 </details>
 
@@ -4255,7 +4254,7 @@ light combat aircraft ?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** Admiral Gorshkov is a Russian Naval aircraft carrier ship.
+- **Logic:** Admiral Gorshkov is a Russian Naval aircraft carrier ship.
 
 This giant ship of Soviet Union served the Russian Navy
 
@@ -4283,7 +4282,7 @@ commissioned into Indian Navy in January, 2023?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** Indian Navy's fifth stealth Scorpene class Submarine INS
+- **Logic:** Indian Navy's fifth stealth Scorpene class Submarine INS
 
 Vagir was commissioned into the Indian Navy on 23 January,
 
@@ -4313,7 +4312,7 @@ following?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** 'Sarthak' is an offshore patrol vessel (OPV) for the Indian
+- **Logic:** 'Sarthak' is an offshore patrol vessel (OPV) for the Indian
 
 Coast Guard, which was launched on 13th August 2020.
 
@@ -4343,7 +4342,7 @@ included into the Coast Guard group. Its name is –
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** 'Vishwast', the first of the new class of offshore patrol vessel
+- **Logic:** 'Vishwast', the first of the new class of offshore patrol vessel
 
 indigenously designed and built by Goa Shipyard Ltd. was
 
@@ -4361,7 +4360,7 @@ inducted into Indian Coast Guard on 17 March, 2010.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (*)
-- **Exam Lock & Core Concepts:** INS-SHAKTI is the second fleet tanker built by the Italian
+- **Logic:** INS-SHAKTI is the second fleet tanker built by the Italian
 
 yard for the Indian Navy. It was launched on 11 October,
 
@@ -4383,7 +4382,7 @@ Trieste, not by India.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** A supersonic cruise missile 'BrahMos' is a joint venture
+- **Logic:** A supersonic cruise missile 'BrahMos' is a joint venture
 
 between the Russian Federation's NPO Mashinostroyenia
 
@@ -4419,7 +4418,7 @@ by India is jointly developed by?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 </details>
 
@@ -4435,7 +4434,7 @@ which of the following?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 </details>
 
@@ -4455,7 +4454,7 @@ which of the following missiles?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** The Naval version of BrahMos, the supersonic cruise missile
+- **Logic:** The Naval version of BrahMos, the supersonic cruise missile
 
 was successfully test-fired on 18th October 2020 from Indian
 
@@ -4493,7 +4492,7 @@ is not correct ?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** & (d)
+- **Logic:** & (d)
 
 BrahMos is a supersonic cruise missile which has been built
 
@@ -4521,7 +4520,7 @@ the missile with a new range of 450/500 km. Thus, option
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** BrahMossupersonic missile with a range of 290 km was first
+- **Logic:** BrahMossupersonic missile with a range of 290 km was first
 
 tested in January, 2009 from Pokhran test range, Rajasthan.
 
@@ -4569,7 +4568,7 @@ explanation of (A).
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** India delivered the first batch of BrahMos supersonic cruise
+- **Logic:** India delivered the first batch of BrahMos supersonic cruise
 
 missiles to the Philippines in April 2024. In January 2022,
 
@@ -4631,7 +4630,7 @@ to 300 metres high.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** DRDO has developed an Unmanned Aerial Vehicle
+- **Logic:** DRDO has developed an Unmanned Aerial Vehicle
 
 (UAV) especially for Anti-terrorist and counter-insurgency
 
@@ -4657,7 +4656,7 @@ Indian female to fly solo 'MIG-21 Bison'?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** Flying officerAvani Chaturvedi created history by becoming
+- **Logic:** Flying officerAvani Chaturvedi created history by becoming
 
 first Indian woman pilot of Indian Airforce (IAF) to complete a solo flight in MIG-21 Bison fighter aircraft on 20th
 
@@ -4683,7 +4682,7 @@ company.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** F-18 Super Hornet is an American fighter plane, which is
+- **Logic:** F-18 Super Hornet is an American fighter plane, which is
 
 built by Boeing (a U.S. aerospace company). Indian company
 
@@ -4719,7 +4718,7 @@ Code :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** Iron Dome is basically part of the lower layer of Israel’s
+- **Logic:** Iron Dome is basically part of the lower layer of Israel’s
 
 multi-layer air defence system. This mobile all-weather air
 
@@ -4749,7 +4748,7 @@ range rockets and artillery shells.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** Operation Pawan was the code name assigned to the operation
+- **Logic:** Operation Pawan was the code name assigned to the operation
 
 by the Indian Peace Keeping Force (IPKF) to take control of
 
@@ -4781,7 +4780,7 @@ and USA in the Malabar naval exercise held in July
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** Between 10 to 17 July, 2017 the navies of India, Japan and
+- **Logic:** Between 10 to 17 July, 2017 the navies of India, Japan and
 
 United States of America kicked off 2017 Malabar naval
 
@@ -4815,7 +4814,7 @@ invitation to participate in Naval Exercise 'Milan -
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** Milan is the Indian Navy's premier multilateral maritime
+- **Logic:** Milan is the Indian Navy's premier multilateral maritime
 
 exercise. The 10th edition of Milan concluded with Milan
 
@@ -4847,7 +4846,7 @@ of over 70 nations.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** SLINEX-II was the joint fleet exercise between the Indian
+- **Logic:** SLINEX-II was the joint fleet exercise between the Indian
 
 and Sri Lankan navies, conducted in Trincomalee, Sri Lanka
 
@@ -4887,7 +4886,7 @@ G–295 General Studies General Science
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** ‘Khanjar-XII’ was a bilateral joint special forces exercise
+- **Logic:** ‘Khanjar-XII’ was a bilateral joint special forces exercise
 
 held from 10-23 March, 2025 in Kyrgyzstan, between India
 
@@ -4909,7 +4908,7 @@ from 4-17 February, 2026 in Missamari, Assam.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** In 1718 an Englishman named James Puckle (1667-1724)
+- **Logic:** In 1718 an Englishman named James Puckle (1667-1724)
 
 invented defence gun what proved to be one of the keys steps
 
@@ -4939,7 +4938,7 @@ that time.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** Telescope was invented by Galileo in 1609.
+- **Logic:** Telescope was invented by Galileo in 1609.
 
 </details>
 
@@ -4953,7 +4952,7 @@ that time.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 </details>
 
@@ -4967,7 +4966,7 @@ that time.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** G–299 General Studies General Science
+- **Logic:** G–299 General Studies General Science
 
 Diesel engine was developed by Rudolph Diesel in 1895. Gas
 
@@ -5001,7 +5000,7 @@ A B C D
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** Radium was discovered by Pierre Curie and Madam Curie
+- **Logic:** Radium was discovered by Pierre Curie and Madam Curie
 
 in 1898. Penicillin was discovered by Alexander-Fleming in
 
@@ -5037,7 +5036,7 @@ Code :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** The transistor was invented in 1947 by American physicists
+- **Logic:** The transistor was invented in 1947 by American physicists
 
 John Bardeen and Walter Brattain while working under
 
@@ -5069,7 +5068,7 @@ chronological order is given in option (c).
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** Indian American astrophysicist Subrahmanyan Chandrasekhar was best known for rendering the theory of 'Chandrasekhar Limit'. For this, he used Albert Einstein's special
+- **Logic:** Indian American astrophysicist Subrahmanyan Chandrasekhar was best known for rendering the theory of 'Chandrasekhar Limit'. For this, he used Albert Einstein's special
 
 theory of relativity and the principle of quantum physics.
 
@@ -5103,7 +5102,7 @@ A. Fowler.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** Photoelectric effect is a phenomenon in which electrically
+- **Logic:** Photoelectric effect is a phenomenon in which electrically
 
 charged particles are released from or within a material
 
@@ -5129,7 +5128,7 @@ known as Hertz effect.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 </details>
 
@@ -5147,7 +5146,7 @@ known as Hertz effect.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 </details>
 
@@ -5167,7 +5166,7 @@ theories?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 </details>
 
@@ -5187,7 +5186,7 @@ every year to commemorate :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 </details>
 
@@ -5201,7 +5200,7 @@ every year to commemorate :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 </details>
 
@@ -5215,7 +5214,7 @@ every year to commemorate :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 </details>
 
@@ -5235,7 +5234,7 @@ every year to commemorate :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** G–303 General Studies General Science
+- **Logic:** G–303 General Studies General Science
 
 Charles Darwin (February 12, 1809 - April 19, 1882)
 
@@ -5265,7 +5264,7 @@ New Theory of Relativity?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** J.V. Narlikar propounded the ‘New Theory of Relativity’.
+- **Logic:** J.V. Narlikar propounded the ‘New Theory of Relativity’.
 
 In collaboration with a senior scientist Fred Hoyle, he
 
@@ -5287,7 +5286,7 @@ so far NOT been considered as a science?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** According to Indian astrophysicist Jayant Vishnu (J.V.)
+- **Logic:** According to Indian astrophysicist Jayant Vishnu (J.V.)
 
 Narlikar, astrology is not a science.
 
@@ -5305,7 +5304,7 @@ in the field of –
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** Homi Jehangir Bhabha is known as the father of nuclear
+- **Logic:** Homi Jehangir Bhabha is known as the father of nuclear
 
 energy programme in India. So in his memory, the 'Homi
 
@@ -5327,7 +5326,7 @@ researches both in the field of biology and physics?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** Jagdish Chandra Bose was an eminent Indian scientist who
+- **Logic:** Jagdish Chandra Bose was an eminent Indian scientist who
 
 carried out researches both in the field of biology and physics.
 
@@ -5353,7 +5352,7 @@ contribution of :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** The theory of Thermal Ionization of gases was first given by
+- **Logic:** The theory of Thermal Ionization of gases was first given by
 
 Meghnad Saha in a series of papers ( 1920 a, 1920 b, 1921 )
 
@@ -5377,7 +5376,7 @@ Atomic Bomb :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** Indian physicist Dr. Raja Ramanna contributed a lot to the
+- **Logic:** Indian physicist Dr. Raja Ramanna contributed a lot to the
 
 development of India's Atomic Bomb. Under his supervision,
 
@@ -5407,7 +5406,7 @@ scientists ?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** Dr. Har Gobind Khorana was awarded Nobel Prize in
+- **Logic:** Dr. Har Gobind Khorana was awarded Nobel Prize in
 
 Physiology or medicine in 1968. Sir Chandrasekhara Venkata
 
@@ -5432,7 +5431,7 @@ Chandra Bose is not a Noble Prize winner.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock & Core Concepts:** National Physical Laboratory is situated in New Delhi.
+- **Logic:** National Physical Laboratory is situated in New Delhi.
 </details>
 
 **Q174. National Chemical Laboratory is situated at :**
@@ -5445,7 +5444,7 @@ Chandra Bose is not a Noble Prize winner.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock & Core Concepts:** The National Chemical Laboratory (CSIR-NCL) Pune was established in 1950 is a constituent laboratory of the Council of Scientific and Industrial Research (CSIR). CSIR-NCL is a science and knowledge-based research, development and consulting organization.
+- **Logic:** The National Chemical Laboratory (CSIR-NCL) Pune was established in 1950 is a constituent laboratory of the Council of Scientific and Industrial Research (CSIR). CSIR-NCL is a science and knowledge-based research, development and consulting organization.
 </details>
 
 **Q175. Laser is a device for producing –**
@@ -5458,7 +5457,7 @@ Chandra Bose is not a Noble Prize winner.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 </details>
 
 **Q176. With reference to the first-man made Ruby Laser,**
@@ -5475,7 +5474,7 @@ Chandra Bose is not a Noble Prize winner.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock & Core Concepts:** A ruby laser is a solid-state laser that uses a synthetic ruby crystal asits gain medium. The first working laser was a ruby laser made by Theodore H. Maiman at Hughes Research Laboratories (California, USA) in 1960. Ruby lasers produce pulses of coherent visible light at a wavelength of 694.3 nm, which is a deep red colour.
+- **Logic:** A ruby laser is a solid-state laser that uses a synthetic ruby crystal asits gain medium. The first working laser was a ruby laser made by Theodore H. Maiman at Hughes Research Laboratories (California, USA) in 1960. Ruby lasers produce pulses of coherent visible light at a wavelength of 694.3 nm, which is a deep red colour.
 </details>
 
 **Q177. Who is the author of 'Nuclear Reactor Time Bomb' :**
@@ -5488,7 +5487,7 @@ Chandra Bose is not a Noble Prize winner.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock & Core Concepts:** Takashi Hirose is the author of the Book 'Nuclear Reactor Time Bomb' which he wrote in 2010.
+- **Logic:** Takashi Hirose is the author of the Book 'Nuclear Reactor Time Bomb' which he wrote in 2010.
 </details>
 
 **Q178. Match List-I with List-II and select the correct answer**
@@ -5509,7 +5508,7 @@ Chandra Bose is not a Noble Prize winner.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock & Core Concepts:** The correctly matched lists are as follows : Revolver – Samuel Colt Dynamite – Alfred Nobel Law of Cooling – Newton Law of Pressure – Pascal
+- **Logic:** The correctly matched lists are as follows : Revolver – Samuel Colt Dynamite – Alfred Nobel Law of Cooling – Newton Law of Pressure – Pascal
 </details>
 
 **Q179. Which of the following pair is used to form the terminals of normal torch cell?**
@@ -5522,7 +5521,7 @@ Chandra Bose is not a Noble Prize winner.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock & Core Concepts:** Generally, dry cells are used in the torch, whose anode is made up of zinc while the cathode is made up of carbon.
+- **Logic:** Generally, dry cells are used in the torch, whose anode is made up of zinc while the cathode is made up of carbon.
 </details>
 
 **Q180. A.T.M. means –**
@@ -5535,7 +5534,7 @@ Chandra Bose is not a Noble Prize winner.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock & Core Concepts:** ATM is short for Automated Teller Machine. Basically, the ATM is used to perform banking transactions like withdrawal of money and to view bank statement.
+- **Logic:** ATM is short for Automated Teller Machine. Basically, the ATM is used to perform banking transactions like withdrawal of money and to view bank statement.
 </details>
 
 **Q181. Which technology of the 21st century can do wonders in device miniaturization ?**
@@ -5548,7 +5547,7 @@ Chandra Bose is not a Noble Prize winner.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock & Core Concepts:** Nanotechnology is science, engineering, and technology conducted at the nanoscale which is about 1 to 100 nanometres. 1 nanometre = 10-9 metre. With the help of nanotechnology, we can easily make micro- accessories and equipments.
+- **Logic:** Nanotechnology is science, engineering, and technology conducted at the nanoscale which is about 1 to 100 nanometres. 1 nanometre = 10-9 metre. With the help of nanotechnology, we can easily make micro- accessories and equipments.
 </details>
 
 **Q182. 'Nano plug' refers to :**
@@ -5561,7 +5560,7 @@ Chandra Bose is not a Noble Prize winner.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock & Core Concepts:** 'Nano plug' refers to a small hearing aid. It is so tiny that it is almost undetectable. Nano plug is comprised of microcomponents and a nano-battery. It can be programmed by using software running on a computer, the result of which can be downloaded directly to the device via a cable.
+- **Logic:** 'Nano plug' refers to a small hearing aid. It is so tiny that it is almost undetectable. Nano plug is comprised of microcomponents and a nano-battery. It can be programmed by using software running on a computer, the result of which can be downloaded directly to the device via a cable.
 </details>
 
 **Q183. The ‘Nano hummingbird’ is –**
@@ -5574,7 +5573,7 @@ Chandra Bose is not a Noble Prize winner.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock & Core Concepts:** The Nano Hummingbird or Nano Air Vehicle (NAV) is a tiny, remote controlled aircraft built to resemble and fly like a hummingbird, developed in the United States by AeroVironment Inc.
+- **Logic:** The Nano Hummingbird or Nano Air Vehicle (NAV) is a tiny, remote controlled aircraft built to resemble and fly like a hummingbird, developed in the United States by AeroVironment Inc.
 </details>
 
 **Q184. Padma Bhushan 2025 awardee for Science and Engineering, Vinod Dham is known for his role in the development of:**
@@ -5587,7 +5586,7 @@ Chandra Bose is not a Noble Prize winner.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock & Core Concepts:** Indian-American engineer and entrepreneur Vinod Dham is known in Silicon Valley as the ‘Father of the Pentium Chip,’ because he led the development of Intel’s famous Pentium microprocessor. The Government of India awarded him the Padma Bhushan 2025 (Science and Engineering) for this historic contribution.
+- **Logic:** Indian-American engineer and entrepreneur Vinod Dham is known in Silicon Valley as the ‘Father of the Pentium Chip,’ because he led the development of Intel’s famous Pentium microprocessor. The Government of India awarded him the Padma Bhushan 2025 (Science and Engineering) for this historic contribution.
 </details>
 
 **Q185. Which one of the following organizations is not related to science and technology?**
@@ -5600,7 +5599,7 @@ Chandra Bose is not a Noble Prize winner.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock & Core Concepts:** DST – Department of Science and Technology, Government of India CSIR – Council of Scientific and Industrial Research ICSSR – Indian Council of Social Science Research DAE – Department of Atomic Energy, Government of India Thus, ICSSR is not related to Science and Technology.
+- **Logic:** DST – Department of Science and Technology, Government of India CSIR – Council of Scientific and Industrial Research ICSSR – Indian Council of Social Science Research DAE – Department of Atomic Energy, Government of India Thus, ICSSR is not related to Science and Technology.
 </details>
 
 **Q186. First Indian Station set up for Antarctic research is called :**
@@ -5613,7 +5612,7 @@ Chandra Bose is not a Noble Prize winner.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 </details>
 
 **Q187. The recent research station set up in the Antarctica is called :**
@@ -5626,7 +5625,7 @@ Chandra Bose is not a Noble Prize winner.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 </details>
 
 **Q188. The name of the new research station being set up in Antarctica by India is :**
@@ -5639,7 +5638,7 @@ Chandra Bose is not a Noble Prize winner.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 </details>
 
 **Q189. India’s first manned deep ocean mission is named:**
@@ -5652,7 +5651,7 @@ Chandra Bose is not a Noble Prize winner.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock & Core Concepts:** India's first manned deep ocean mission ‘Samudrayaan’ into a 6,000-metre depth using the manned submersible vehicle ‘MATSYA 6000’ is expected to be launched by the end of 2026. India started the ‘Samudrayaan’ Project–under the umbrella of Deep Ocean Mission, to work on its first component of deep-sea exploration through a manned submersible. ‘MATSYA 6000’, a self-propelled, advanced fourth-generation manned submersible capable of transporting three individuals to depths of up to 6,000 meters beneath the ocean surface is being developed under this project. Equipped with a comprehensive array of scientific instruments and exploration tools, this advanced vehicle will enable extensive deep-sea research.
+- **Logic:** India's first manned deep ocean mission ‘Samudrayaan’ into a 6,000-metre depth using the manned submersible vehicle ‘MATSYA 6000’ is expected to be launched by the end of 2026. India started the ‘Samudrayaan’ Project–under the umbrella of Deep Ocean Mission, to work on its first component of deep-sea exploration through a manned submersible. ‘MATSYA 6000’, a self-propelled, advanced fourth-generation manned submersible capable of transporting three individuals to depths of up to 6,000 meters beneath the ocean surface is being developed under this project. Equipped with a comprehensive array of scientific instruments and exploration tools, this advanced vehicle will enable extensive deep-sea research.
 </details>
 
 **Q190. Which of the following is not correctly matched –**
@@ -5665,7 +5664,7 @@ Chandra Bose is not a Noble Prize winner.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock & Core Concepts:** Isohaline is a line drawn on a map or chart to indicate connecting points of equal salinity in the ocean. Isobar is a line connecting points of equal atmospheric pressure. Isoheight is a line of constant height above a certain reference point, while Isobath line connects points of equal underwater depth.
+- **Logic:** Isohaline is a line drawn on a map or chart to indicate connecting points of equal salinity in the ocean. Isobar is a line connecting points of equal atmospheric pressure. Isoheight is a line of constant height above a certain reference point, while Isobath line connects points of equal underwater depth.
 </details>
 
 **Q191. Which one of the following is correctly matched?**
@@ -5678,7 +5677,7 @@ Chandra Bose is not a Noble Prize winner.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock & Core Concepts:** Ecocline : It is a zone of gradual but continuous change from one ecosystem to another when there is no sharp boundary between the two in terms of species composition. Thermocline : It is a layer in the ocean where there's a rapid change in temperature with depth. It separates the warmer, less dense surface water from the colder, denser deep water. Halocline : It is a layer in the ocean where salinity changes rapidly with depth. It's often found below the well-mixed, uniformly saline surface water layer. Pycnocline : It is a layer in the ocean where density changes rapidly with depth. Density is primarily determined by temperature and salinity, so the pycnocline often coincides with the thermocline and halocline. Hence, pair of option (b) is correctly matched.
+- **Logic:** Ecocline : It is a zone of gradual but continuous change from one ecosystem to another when there is no sharp boundary between the two in terms of species composition. Thermocline : It is a layer in the ocean where there's a rapid change in temperature with depth. It separates the warmer, less dense surface water from the colder, denser deep water. Halocline : It is a layer in the ocean where salinity changes rapidly with depth. It's often found below the well-mixed, uniformly saline surface water layer. Pycnocline : It is a layer in the ocean where density changes rapidly with depth. Density is primarily determined by temperature and salinity, so the pycnocline often coincides with the thermocline and halocline. Hence, pair of option (b) is correctly matched.
 </details>
 
 **Q192. Which one of the following shows density gradient in the body of water?**
@@ -5691,7 +5690,7 @@ Chandra Bose is not a Noble Prize winner.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock & Core Concepts:** Pycnocline is the cline or layer which shows density gradient in the body of water. Halocline shows salinity gradient within a body of water whereas the Thermocline is a transition layer between deep and surface water (or mixed layer).
+- **Logic:** Pycnocline is the cline or layer which shows density gradient in the body of water. Halocline shows salinity gradient within a body of water whereas the Thermocline is a transition layer between deep and surface water (or mixed layer).
 </details>
 
 **Q193. “I am a citizen of milky way.” The above statement is attributed by –**
@@ -5704,7 +5703,7 @@ Chandra Bose is not a Noble Prize winner.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock & Core Concepts:** 'Kalpana Chawala' was an astronaut and space shuttle mission specialist of STS-107 (Columbia), who was killed when the craft disintegrated after re-entry into Earth's atmosphere. "I am the citizen of milky way", this statement has been credited to Kalpana Chawala.
+- **Logic:** 'Kalpana Chawala' was an astronaut and space shuttle mission specialist of STS-107 (Columbia), who was killed when the craft disintegrated after re-entry into Earth's atmosphere. "I am the citizen of milky way", this statement has been credited to Kalpana Chawala.
 </details>
 
 **Q194. The first heavy water plant was established in –**
@@ -5717,7 +5716,7 @@ Chandra Bose is not a Noble Prize winner.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock & Core Concepts:** The Department of Atomic Energy (DAE) of Indian government commissioned the first heavy water plant at Nangal, Punjab in the premises of National Fertilisers Limited in 1962.
+- **Logic:** The Department of Atomic Energy (DAE) of Indian government commissioned the first heavy water plant at Nangal, Punjab in the premises of National Fertilisers Limited in 1962.
 </details>
 
 **Q195. Which one of the following metal is not attracted by a magnet :**
@@ -5730,7 +5729,7 @@ Chandra Bose is not a Noble Prize winner.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock & Core Concepts:** Iron, Nickel, and Cobalt are ferromagnetic elements and quickly attracted towards the magnet. Aluminium is a paramagnetic element as its outermost electron is unpaired, so the induced magnetic field in Aluminium is low.
+- **Logic:** Iron, Nickel, and Cobalt are ferromagnetic elements and quickly attracted towards the magnet. Aluminium is a paramagnetic element as its outermost electron is unpaired, so the induced magnetic field in Aluminium is low.
 </details>
 
 **Q196. Which of the following is non-electromagnetic element –**
@@ -5743,7 +5742,7 @@ Chandra Bose is not a Noble Prize winner.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock & Core Concepts:** Among the given options, only Copper is a non-electromagnetic element.
+- **Logic:** Among the given options, only Copper is a non-electromagnetic element.
 </details>
 
 **Q197. With which of the following is the tape of the tape recorder coated?**
@@ -5756,7 +5755,7 @@ Chandra Bose is not a Noble Prize winner.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock & Core Concepts:** The tape of a tape recorder consists of a plastic backing coated with a thin layer of tiny particles of ferromagnetic powder. The ferromagnetic powder is made up of small particles of iron. At the time of recording, they acquire magnetism through the particle.
+- **Logic:** The tape of a tape recorder consists of a plastic backing coated with a thin layer of tiny particles of ferromagnetic powder. The ferromagnetic powder is made up of small particles of iron. At the time of recording, they acquire magnetism through the particle.
 </details>
 
 **Q198. The World’s most accurate clock that loses just a second every 300 million years uses –**
@@ -5769,7 +5768,7 @@ Chandra Bose is not a Noble Prize winner.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock & Core Concepts:** The world’s most accurate atomic clock that loses just a second every 300 million years uses Strontium atoms. This clock is based on neutral atoms and has been demonstrated by physicists at JILA (Joint Institute of Laboratory of Astrophysics) a Joint Physics Institute of the National Institute of Standards and Technology (NIST) and the University of Colorado of USA. But recently the JILA has also developed a new atomic clock that will not lose or gain a second in 15 billion years. The scientists claim that it is the most accurate clock ever built.
+- **Logic:** The world’s most accurate atomic clock that loses just a second every 300 million years uses Strontium atoms. This clock is based on neutral atoms and has been demonstrated by physicists at JILA (Joint Institute of Laboratory of Astrophysics) a Joint Physics Institute of the National Institute of Standards and Technology (NIST) and the University of Colorado of USA. But recently the JILA has also developed a new atomic clock that will not lose or gain a second in 15 billion years. The scientists claim that it is the most accurate clock ever built.
 </details>
 
 **Q199. In automatic wrist watches energy is provided by –**
@@ -5782,7 +5781,7 @@ Chandra Bose is not a Noble Prize winner.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock & Core Concepts:** The automatic watches do not require batteries for power to run. They obtained their energy from the movement of the wearer's hand. If these watches will not be worn for 2 to 3 days by a person, they will stop.
+- **Logic:** The automatic watches do not require batteries for power to run. They obtained their energy from the movement of the wearer's hand. If these watches will not be worn for 2 to 3 days by a person, they will stop.
 </details>
 
 **Q200. Which one of the following is not suitably matched ?**
@@ -5795,7 +5794,7 @@ Chandra Bose is not a Noble Prize winner.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock & Core Concepts:** The National Centre for Antarctic and Ocean Research(NCAOR) is an Indian Research and Development Institution, situated at Vasco de Gama, Goa not in Bengaluru. Rest are correctly matched.
+- **Logic:** The National Centre for Antarctic and Ocean Research(NCAOR) is an Indian Research and Development Institution, situated at Vasco de Gama, Goa not in Bengaluru. Rest are correctly matched.
 </details>
 
 **Q201. 'Indian Institute of Naturopathy and Yogic Science' is located at :**
@@ -5808,7 +5807,7 @@ Chandra Bose is not a Noble Prize winner.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock & Core Concepts:** Indian Institute of Naturopathy and Yogic Science is located at Bangaluru (Karnataka).
+- **Logic:** Indian Institute of Naturopathy and Yogic Science is located at Bangaluru (Karnataka).
 </details>
 
 **Q202. Match List- I with List- II and select the correct answer**
@@ -5829,7 +5828,7 @@ Chandra Bose is not a Noble Prize winner.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock & Core Concepts:** The correctly matched lists are as follows : Central Drug Research – Lucknow Institute Rocket launching Centre – Thumba (Thiruvananthapuram) Science City – Calcutta Hi-Tec city – Hyderabad
+- **Logic:** The correctly matched lists are as follows : Central Drug Research – Lucknow Institute Rocket launching Centre – Thumba (Thiruvananthapuram) Science City – Calcutta Hi-Tec city – Hyderabad
 </details>
 
 **Q203. A carbon microphone is best used in –**
@@ -5842,7 +5841,7 @@ Chandra Bose is not a Noble Prize winner.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock & Core Concepts:** A microphone is acoustic to electric transducer or sensor that converts sound into an electrical signal. The carbon microphone was used in early telephone repeaters, making long distance phone calls possible in the era before vacuum tube amplifiers. Carbon microphones can be used as amplifiers.
+- **Logic:** A microphone is acoustic to electric transducer or sensor that converts sound into an electrical signal. The carbon microphone was used in early telephone repeaters, making long distance phone calls possible in the era before vacuum tube amplifiers. Carbon microphones can be used as amplifiers.
 </details>
 
 **Q204. The laws of planetary motion were enunciated by –**
@@ -5855,7 +5854,7 @@ Chandra Bose is not a Noble Prize winner.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock & Core Concepts:** The three laws of planetary motions were proposed by Johannes Kepler in early 1600s. Kepler made it clear that every planet revolves around the Sun in an elliptical orbit.
+- **Logic:** The three laws of planetary motions were proposed by Johannes Kepler in early 1600s. Kepler made it clear that every planet revolves around the Sun in an elliptical orbit.
 </details>
 
 **Q205. Soleckshaw is a –**
@@ -5868,7 +5867,7 @@ Chandra Bose is not a Noble Prize winner.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock & Core Concepts:** Soleckshaw is an eco-friendly tricycle. It is driven partly by pedal and partly by electric power, supplied by a battery that is charged from solar energy. It has been developed by a team of scientists at CSIR national laboratory.
+- **Logic:** Soleckshaw is an eco-friendly tricycle. It is driven partly by pedal and partly by electric power, supplied by a battery that is charged from solar energy. It has been developed by a team of scientists at CSIR national laboratory.
 </details>
 
 **Q206. Bibliometry is :**
@@ -5881,7 +5880,7 @@ Chandra Bose is not a Noble Prize winner.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock & Core Concepts:** Bibliometry is an Information Management Tool. Bibliometry is a quantitative statistical technique to measure levels of production and dissemination of knowledge, as well as a useful tool to track the development of an scientific area.
+- **Logic:** Bibliometry is an Information Management Tool. Bibliometry is a quantitative statistical technique to measure levels of production and dissemination of knowledge, as well as a useful tool to track the development of an scientific area.
 </details>
 
 **Q207. Cytotron is the device by which is produced :**
@@ -5894,7 +5893,7 @@ Chandra Bose is not a Noble Prize winner.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock & Core Concepts:** Cytotron isthe device by which artificial climate is produced. Cytotron is also the trade name given to a device that uses rotational field quantum nuclear magnetic resonance (RFQMR) which has been developed by the Centre for Advanced Research and Development (CARD), a division of Scalene Cybernetics in Bengaluru. It is a new device used in regenerative and degenerative tissue engineering and repairing. The cytotron is now being used for treating diseases like osteoarthritis and cancer.
+- **Logic:** Cytotron isthe device by which artificial climate is produced. Cytotron is also the trade name given to a device that uses rotational field quantum nuclear magnetic resonance (RFQMR) which has been developed by the Centre for Advanced Research and Development (CARD), a division of Scalene Cybernetics in Bengaluru. It is a new device used in regenerative and degenerative tissue engineering and repairing. The cytotron is now being used for treating diseases like osteoarthritis and cancer.
 </details>
 
 **Q208. Water Jet Technology finds application in –**
@@ -5907,7 +5906,7 @@ Chandra Bose is not a Noble Prize winner.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock & Core Concepts:** A Water Jet Technology is capable of cutting a wide variety of materials using a very high-pressure jet of water or a mixture of water and an abrasive substance. This technology is mostly used in the drilling of mines and in aeronautics.
+- **Logic:** A Water Jet Technology is capable of cutting a wide variety of materials using a very high-pressure jet of water or a mixture of water and an abrasive substance. This technology is mostly used in the drilling of mines and in aeronautics.
 </details>
 
 **Q209. The laser beam is used for :**
@@ -5920,7 +5919,7 @@ Chandra Bose is not a Noble Prize winner.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (*)
-- **Exam Lock & Core Concepts:** The laser beam is used for the treatment of many diseases. This technology offers surgeon the ability to work precisely. Laser therapy is used in many procedures such as to shrink or destroy tumors, polyps or precancerous growths, relieve symptoms of cancer, remove part of the prostate, removing of kidney stones, repair a detached retina, improve vision etc.
+- **Logic:** The laser beam is used for the treatment of many diseases. This technology offers surgeon the ability to work precisely. Laser therapy is used in many procedures such as to shrink or destroy tumors, polyps or precancerous growths, relieve symptoms of cancer, remove part of the prostate, removing of kidney stones, repair a detached retina, improve vision etc.
 </details>
 
 **Q210. Match List-I with List-II and select the correct answer**
@@ -5942,7 +5941,7 @@ Chandra Bose is not a Noble Prize winner.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock & Core Concepts:** Dry Ice, sometimes referred to as 'Cardice', is basically the solid form of carbon dioxide. Cobalt-60 is used for treatment of cancer. Cryonics is the procedure of freezing bodies of animals and humans with the hope that healing and resuscitation may be possible in the future. Gene therapy is an experimental technique that uses genes to treat or prevent disease.
+- **Logic:** Dry Ice, sometimes referred to as 'Cardice', is basically the solid form of carbon dioxide. Cobalt-60 is used for treatment of cancer. Cryonics is the procedure of freezing bodies of animals and humans with the hope that healing and resuscitation may be possible in the future. Gene therapy is an experimental technique that uses genes to treat or prevent disease.
 </details>
 
 **Q211. The principle of atom bomb is based on –**
@@ -5955,7 +5954,7 @@ Chandra Bose is not a Noble Prize winner.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 </details>
 
 **Q212. Consider the following statements :**
@@ -5977,7 +5976,7 @@ Chandra Bose is not a Noble Prize winner.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock & Core Concepts:** A Liquid Crystal Display (LCD) is a flat panel display which is used to display the text, images, video etc. by the electronic method. A modem modulates outgoing digital device to analog signals for a conventional copper twisted pair telephone line and demodulates the incoming analog signal and converts it to a digital signal for the digital device. It is a device that is connected to a computer and to a phone line. The headquarter of National Institute of Oceanography is located in Goa while Regional centres are in Kochi, Mumbai and Visakhapatnam. Virginis-70 is a yellow dwarf star approximately 59 light-years away in the constellation Virgo.
+- **Logic:** A Liquid Crystal Display (LCD) is a flat panel display which is used to display the text, images, video etc. by the electronic method. A modem modulates outgoing digital device to analog signals for a conventional copper twisted pair telephone line and demodulates the incoming analog signal and converts it to a digital signal for the digital device. It is a device that is connected to a computer and to a phone line. The headquarter of National Institute of Oceanography is located in Goa while Regional centres are in Kochi, Mumbai and Visakhapatnam. Virginis-70 is a yellow dwarf star approximately 59 light-years away in the constellation Virgo.
 </details>
 
 **Q213. Liquid crystals are used in :**
@@ -5990,7 +5989,7 @@ Chandra Bose is not a Noble Prize winner.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock & Core Concepts:** Liquid crystals are used in wrist watches, display devices, pocket calculators and in many portable computers.
+- **Logic:** Liquid crystals are used in wrist watches, display devices, pocket calculators and in many portable computers.
 </details>
 
 **Q214. Which one of the following devices is used to cool the engine of the vehicles?**
@@ -6003,7 +6002,7 @@ Chandra Bose is not a Noble Prize winner.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock & Core Concepts:** Radiators are heat exchangers used for cooling internal combustion engines mainly in automobiles but also in pistonengine aircraft, railway locomotives, motorcycles, stationary generating plant or any similar use of such an engine.
+- **Logic:** Radiators are heat exchangers used for cooling internal combustion engines mainly in automobiles but also in pistonengine aircraft, railway locomotives, motorcycles, stationary generating plant or any similar use of such an engine.
 </details>
 
 **Q215. Mobiles and Automobiles have brought about a**
@@ -6022,7 +6021,7 @@ Chandra Bose is not a Noble Prize winner.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock & Core Concepts:** Mobiles and Automobiles have brought about a great revolution in the social life of Indians, where mobiles help to connect the people and automobile help in mobilizing of the people.
+- **Logic:** Mobiles and Automobiles have brought about a great revolution in the social life of Indians, where mobiles help to connect the people and automobile help in mobilizing of the people.
 </details>
 
 ## Complete PYQ Bank — UKPCS
@@ -6037,7 +6036,7 @@ Chandra Bose is not a Noble Prize winner.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (A) Inelastic scattering of light
-- **Exam Lock & Core Concepts:** 
+- **Logic:** 
 
 </details>
 
@@ -6051,7 +6050,7 @@ Chandra Bose is not a Noble Prize winner.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (B) 1930
-- **Exam Lock & Core Concepts:** 
+- **Logic:** 
 
 </details>
 
@@ -6065,7 +6064,7 @@ Chandra Bose is not a Noble Prize winner.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (B) Johannes Kepler
-- **Exam Lock & Core Concepts:** 
+- **Logic:** 
 
 </details>
 
@@ -6079,7 +6078,7 @@ Chandra Bose is not a Noble Prize winner.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (A) Dr. Homi J. Bhabha
-- **Exam Lock & Core Concepts:** 
+- **Logic:** 
 
 </details>
 
@@ -6097,7 +6096,7 @@ belongs to :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** Oleg Kononenko is a Russian cosmonaut. Kolonenko has
+- **Logic:** Oleg Kononenko is a Russian cosmonaut. Kolonenko has
 
 accumulated 1110.6 days, in space over the course of five
 
@@ -6123,7 +6122,7 @@ planet?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 </details>
 
@@ -6141,7 +6140,7 @@ planet?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** Black Hole absorbs all radiations that fall on it due to its
+- **Logic:** Black Hole absorbs all radiations that fall on it due to its
 
 high gravity.
 
@@ -6157,7 +6156,7 @@ high gravity.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** The bright outer layer of the Sun is known as the photosphere.
+- **Logic:** The bright outer layer of the Sun is known as the photosphere.
 
 The word photosphere means 'light sphere' – which is apt
 
@@ -6183,7 +6182,7 @@ are, the chromosphere, and the corona.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** The highly dense stars are called Neutron stars.
+- **Logic:** The highly dense stars are called Neutron stars.
 
 </details>
 
@@ -6197,7 +6196,7 @@ are, the chromosphere, and the corona.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 </details>
 
@@ -6217,7 +6216,7 @@ following?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** Television transmission is an example of simplex communication. Simplex is a one-way only communication in which
+- **Logic:** Television transmission is an example of simplex communication. Simplex is a one-way only communication in which
 
 broadcasted information travel in one direction only.
 
@@ -6235,7 +6234,7 @@ module.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** ISRO’s PSLV Orbital Experimental Module (POEM-4) reentered the Earth’s atmosphere on 4 April, 2025 and impacted
+- **Logic:** ISRO’s PSLV Orbital Experimental Module (POEM-4) reentered the Earth’s atmosphere on 4 April, 2025 and impacted
 
 the Indian Ocean. ISRO described this as a successfully
 
@@ -6269,7 +6268,7 @@ Space Mission (DFSM).
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** Apple Satellite was launched on June 19, 1981 by Ariane
+- **Logic:** Apple Satellite was launched on June 19, 1981 by Ariane
 
 launch vehicle from Kourou in French Guiana. It was India's
 
@@ -6289,7 +6288,7 @@ was launched from :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** ISRO’s Polar Satellite Launch Vehicle PSLV-C22 successfully
+- **Logic:** ISRO’s Polar Satellite Launch Vehicle PSLV-C22 successfully
 
 launched IRNSS-1A, the firstsatellite in the Indian Regional
 
@@ -6311,7 +6310,7 @@ spaceport of India ?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 </details>
 
@@ -6327,7 +6326,7 @@ Centre at :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** In February, 2004, a blast occurred at a plant making solid
+- **Logic:** In February, 2004, a blast occurred at a plant making solid
 
 propellant at the Satish Dhawan Space Centre, Sriharikota.
 
@@ -6343,7 +6342,7 @@ propellant at the Satish Dhawan Space Centre, Sriharikota.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** The Moon is Earth's only naturalsatellite. It isthe fifth largest
+- **Logic:** The Moon is Earth's only naturalsatellite. It isthe fifth largest
 
 satellite in our solar system.
 
@@ -6359,7 +6358,7 @@ satellite in our solar system.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** NASA's Jet Propulsion Laboratory (JPL) is located in
+- **Logic:** NASA's Jet Propulsion Laboratory (JPL) is located in
 
 Pasadena, California, United States.
 
@@ -6377,7 +6376,7 @@ Pasadena, California, United States.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** Spirit, also known as MER-A (Mars Exploration Rover-A),
+- **Logic:** Spirit, also known as MER-A (Mars Exploration Rover-A),
 
 is a robotic rover on Mars active from 2004 to 2010. It was
 
@@ -6413,7 +6412,7 @@ on July 30, 2020 as part of NASA's Mars 2020 mission.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** Mission Divyastra, the first flight test of indigenously
+- **Logic:** Mission Divyastra, the first flight test of indigenously
 
 developed Agni-V missile with Multiple Independently
 
@@ -6449,7 +6448,7 @@ Chandipur is a :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 </details>
 
@@ -6465,7 +6464,7 @@ has been named :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** The first indigenously assembled T-90S battle tank has been
+- **Logic:** The first indigenously assembled T-90S battle tank has been
 
 named 'Bhishma'.
 
@@ -6481,7 +6480,7 @@ named 'Bhishma'.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 </details>
 
@@ -6499,7 +6498,7 @@ named 'Bhishma'.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** Treaties of 'START-I' and 'START-II' were signed between
+- **Logic:** Treaties of 'START-I' and 'START-II' were signed between
 
 USA and USSR.
 
@@ -6523,7 +6522,7 @@ FMCT.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** India signed the Convention on Certain Conventional
+- **Logic:** India signed the Convention on Certain Conventional
 
 Weapons (CCW) in 1981 and ratified it in 1984. As a
 
@@ -6589,7 +6588,7 @@ G–291 General Studies General Science
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** The creation of steam engine began in late 17th century. In
+- **Logic:** The creation of steam engine began in late 17th century. In
 
 1698, Thomas Savery an English inventor, patented a device
 
@@ -6619,7 +6618,7 @@ reason he is regarded as the inventor of the steam engine.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** Theodore Maiman was the inventor of Laser (Light
+- **Logic:** Theodore Maiman was the inventor of Laser (Light
 
 Amplification by the Stimulated Emission of Radiation).
 
@@ -6641,7 +6640,7 @@ in Malibu.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 G–300 General Studies General Science
 
@@ -6657,7 +6656,7 @@ G–300 General Studies General Science
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 </details>
 
@@ -6673,7 +6672,7 @@ G–300 General Studies General Science
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** Einstein equation shows that mass is equivalent to energy,
+- **Logic:** Einstein equation shows that mass is equivalent to energy,
 
 whether it might be in any form. According to Einstein's
 
@@ -6699,7 +6698,7 @@ instrument ?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** Albert Einstein was proficient in playing violin and piano.
+- **Logic:** Albert Einstein was proficient in playing violin and piano.
 
 </details>
 
@@ -6713,7 +6712,7 @@ instrument ?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** The fourth dimension can refer to time as another dimension,
+- **Logic:** The fourth dimension can refer to time as another dimension,
 
 along with length, width, and depth. This idea of time as
 
@@ -6733,7 +6732,7 @@ Nobel Prize for his work in the year :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 </details>
 
@@ -6747,7 +6746,7 @@ Nobel Prize for his work in the year :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** Homi Jehangir Bhabha was an Indian nuclear physicist. He
+- **Logic:** Homi Jehangir Bhabha was an Indian nuclear physicist. He
 
 played significant role in development of nuclear energy
 
@@ -6768,7 +6767,7 @@ nuclear programme.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 </details>
 
 **Q36. Who among the following gave the term 'Nanotechnology' and when?**
@@ -6781,7 +6780,7 @@ nuclear programme.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock & Core Concepts:** Norio Taniguchi was a professor at Tokyo University. He used the term 'Nanotechnology' for the first time in his research paper published in 1974.
+- **Logic:** Norio Taniguchi was a professor at Tokyo University. He used the term 'Nanotechnology' for the first time in his research paper published in 1974.
 </details>
 
 **Q37. Which one of the following is incorrect about Uttarakhand’s first nano-fabrication facility for semiconductor research setup by I.I.T. Roorkee ?**
@@ -6794,7 +6793,7 @@ nuclear programme.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock & Core Concepts:** Uttarakhand’s first nanofabrication facility for semiconductor research, established by IIT Roorkee, complements key government initiatives such as the Semiconductor Mission, Nano Mission, and Quantum Mission. It is designed to accelerate India's semiconductor manufacturing and quantum research ambitions. Its objective is to undertake semiconductor and nanotechnology research, and it is not related to the Samudrayaan Mission, as Samudrayaan is a human deep-sea (deep-ocean exploration) mission rather than a semiconductor/nanofabrication research initiative.
+- **Logic:** Uttarakhand’s first nanofabrication facility for semiconductor research, established by IIT Roorkee, complements key government initiatives such as the Semiconductor Mission, Nano Mission, and Quantum Mission. It is designed to accelerate India's semiconductor manufacturing and quantum research ambitions. Its objective is to undertake semiconductor and nanotechnology research, and it is not related to the Samudrayaan Mission, as Samudrayaan is a human deep-sea (deep-ocean exploration) mission rather than a semiconductor/nanofabrication research initiative.
 </details>
 
 **Q38. At which place in Uttarakhand did the Indian Meteorological Department install a Doppler Weather Radar?**
@@ -6807,7 +6806,7 @@ nuclear programme.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock & Core Concepts:** Uttarakhand's first Doppler Weather Radar (DWR), a device which can read the intensity of precipitation in the air to predict severe weather conditions like storms and heavy rainfall, was inaugurated in Mukteshwar, Nainital district, in January, 2021. The radar has been installed under the Integrated Himalayan Meteorological Project (IHMP) of the Ministry of Earth Sciences.
+- **Logic:** Uttarakhand's first Doppler Weather Radar (DWR), a device which can read the intensity of precipitation in the air to predict severe weather conditions like storms and heavy rainfall, was inaugurated in Mukteshwar, Nainital district, in January, 2021. The radar has been installed under the Integrated Himalayan Meteorological Project (IHMP) of the Ministry of Earth Sciences.
 </details>
 
 **Q39. Where was the 1st Engineering College of Asia established ?**
@@ -6820,7 +6819,7 @@ nuclear programme.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock & Core Concepts:** The Roorkee College was established in 1847AD asthe first engineering college in the British Empire. The College was established in former Uttar Pradesh and now Uttarakhand. The college was renamed as Thomson College of Civil Engineering in 1854. It was given the status of University by Act No. IX of 1948 of the United Province (Uttar Pradesh) in recognition of its performance and its potential and keeping in view the needs of post-independent India.
+- **Logic:** The Roorkee College was established in 1847AD asthe first engineering college in the British Empire. The College was established in former Uttar Pradesh and now Uttarakhand. The college was renamed as Thomson College of Civil Engineering in 1854. It was given the status of University by Act No. IX of 1948 of the United Province (Uttar Pradesh) in recognition of its performance and its potential and keeping in view the needs of post-independent India.
 </details>
 
 **Q40. A tachyon stands for –**
@@ -6833,7 +6832,7 @@ nuclear programme.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock & Core Concepts:** Tachyon is a Greek word which means rapid. Tachyon is a hypothetical particle that travels faster than light.
+- **Logic:** Tachyon is a Greek word which means rapid. Tachyon is a hypothetical particle that travels faster than light.
 </details>
 
 **Q41. Which one of the following is not correctly matched ?**
@@ -6846,7 +6845,7 @@ nuclear programme.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock & Core Concepts:** 'Adobe System' is an American multinational computer software company mainly focused on the creation of multimedia and software products. Thus it is clear that option (d) is not correctly matched.
+- **Logic:** 'Adobe System' is an American multinational computer software company mainly focused on the creation of multimedia and software products. Thus it is clear that option (d) is not correctly matched.
 </details>
 
 **Q42. Otto Hahn discovered atom bomb by the principle of –**
@@ -6859,7 +6858,7 @@ nuclear programme.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock & Core Concepts:** Otto Hahn discovered atom bomb by the principle of Nuclear Fission. In 1939, the German scientists Otto Hahn and F. Strassmann determined that if the slow moving neutrons are bombarded on Uranium-235, then the nucleus of 235 breaks into two equal parts and releases lots of energy. This process is called nuclear fission.
+- **Logic:** Otto Hahn discovered atom bomb by the principle of Nuclear Fission. In 1939, the German scientists Otto Hahn and F. Strassmann determined that if the slow moving neutrons are bombarded on Uranium-235, then the nucleus of 235 breaks into two equal parts and releases lots of energy. This process is called nuclear fission.
 </details>
 
 ## Complete PYQ Bank — BPSC, IAS & Other State PCS (Ghatnachakra Focus)
@@ -6879,7 +6878,7 @@ Which of the statements given above are correct?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (D) 1, 2 and 3
-- **Exam Lock & Core Concepts:** 
+- **Logic:** 
 
 </details>
 
@@ -6893,7 +6892,7 @@ Which of the statements given above are correct?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (B) $1.44\ M_\odot$
-- **Exam Lock & Core Concepts:** 
+- **Logic:** 
 
 </details>
 
@@ -6907,7 +6906,7 @@ Which of the statements given above are correct?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (B) J.C. Bose
-- **Exam Lock & Core Concepts:** 
+- **Logic:** 
 
 </details>
 
@@ -6921,7 +6920,7 @@ Which of the statements given above are correct?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (B) Alexander Graham Bell
-- **Exam Lock & Core Concepts:** 
+- **Logic:** 
 
 </details>
 
@@ -6935,7 +6934,7 @@ Which of the statements given above are correct?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (A) Stephen Hawking
-- **Exam Lock & Core Concepts:** 
+- **Logic:** 
 
 </details>
 
@@ -6949,7 +6948,7 @@ Which of the statements given above are correct?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (B) S.N. Bose
-- **Exam Lock & Core Concepts:** 
+- **Logic:** 
 
 </details>
 
@@ -6963,7 +6962,7 @@ Which of the statements given above are correct?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (C) Dr. A.P.J. Abdul Kalam
-- **Exam Lock & Core Concepts:** 
+- **Logic:** 
 
 </details>
 
@@ -6977,7 +6976,7 @@ Which of the statements given above are correct?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (B) 1969
-- **Exam Lock & Core Concepts:** 
+- **Logic:** 
 
 </details>
 
@@ -6991,7 +6990,7 @@ Which of the statements given above are correct?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (B) Stephen Hawking
-- **Exam Lock & Core Concepts:** 
+- **Logic:** 
 
 </details>
 
@@ -7005,7 +7004,7 @@ Which of the statements given above are correct?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (C) 1954
-- **Exam Lock & Core Concepts:** 
+- **Logic:** 
 
 </details>
 
@@ -7023,7 +7022,7 @@ Which of the statements given above are correct?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** Dr. Vikram Ambalal Sarabhai was an Indian physicists and
+- **Logic:** Dr. Vikram Ambalal Sarabhai was an Indian physicists and
 
 astronomer who initiated space research in India. He is
 
@@ -7043,7 +7042,7 @@ India's space programme?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 </details>
 
@@ -7057,7 +7056,7 @@ India's space programme?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 </details>
 
@@ -7067,7 +7066,7 @@ India's space programme?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 </details>
 
@@ -7083,7 +7082,7 @@ space on November 3rd, 1957?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** On November 3rd, 1957 a dog, named 'Laika' was sent
+- **Logic:** On November 3rd, 1957 a dog, named 'Laika' was sent
 
 to space through Sputnik-2 spacecraft. On 28 May, 1959
 
@@ -7107,7 +7106,7 @@ a monkey into space by Pisgaman rocket.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** On 12 April, 1961 astronaut Yuri Gagarin became the first
+- **Logic:** On 12 April, 1961 astronaut Yuri Gagarin became the first
 
 human in space by Vostok-1 Russian spacecraft. Astronaut
 
@@ -7129,7 +7128,7 @@ a month later.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** Apollo-11 was the spaceflight that landed the lunar module
+- **Logic:** Apollo-11 was the spaceflight that landed the lunar module
 
 'Eagle' with two people on the Moon on 20th July, 1969. The
 
@@ -7161,7 +7160,7 @@ Explorer (COBE)
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** Columbia, Challenger, Discovery and Atlantis–operations
+- **Logic:** Columbia, Challenger, Discovery and Atlantis–operations
 
 of all these space shuttles have now been closed by NASA.
 
@@ -7221,7 +7220,7 @@ Select the correct answer using the codes given below.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** Cassini-Huygens was a space research mission by NASA,
+- **Logic:** Cassini-Huygens was a space research mission by NASA,
 
 ESA and ISA to send space probe to study the planet Saturn
 
@@ -7275,7 +7274,7 @@ below.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** Cassini-Huygens was an unmanned spacecraft sent to the
+- **Logic:** Cassini-Huygens was an unmanned spacecraft sent to the
 
 planet Saturn. So, pair 1 is not correctly matched. Messenger
 
@@ -7303,7 +7302,7 @@ Solar System. These space probes were launched by NASA in
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** Cassini was a spacecraft developed by NASA to study
+- **Logic:** Cassini was a spacecraft developed by NASA to study
 
 ringed planet (Saturn) and its domain. TechSar is an Israeli
 
@@ -7333,7 +7332,7 @@ refers to :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** G–241 General Studies General Science
+- **Logic:** G–241 General Studies General Science
 
 The experiment in question refers to evolved Laser
 
@@ -7387,7 +7386,7 @@ systems
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 </details>
 
@@ -7411,7 +7410,7 @@ is the significance of this observation?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** Recently, scientists observed that billions of light years
+- **Logic:** Recently, scientists observed that billions of light years
 
 away, two black holes have collided to create a larger onethe biggest black hole merger yet detected. It has a mass
 
@@ -7461,7 +7460,7 @@ Select the correct answer using the codes given below:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** G–242 General Studies General Science
+- **Logic:** G–242 General Studies General Science
 
 Detection of microwaves in space and observation of redshift
 
@@ -7515,7 +7514,7 @@ discussed in media?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** When light travels near a huge celestial body like neutron
+- **Logic:** When light travels near a huge celestial body like neutron
 
 star or black hole it bends towards the celestial body. Hence,
 
@@ -7553,7 +7552,7 @@ the news in the context of :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** The terms 'Event Horizon', 'Singularity', 'String Theory'
+- **Logic:** The terms 'Event Horizon', 'Singularity', 'String Theory'
 
 and 'Standard Model' are sometimes seen in the news in the
 
@@ -7619,7 +7618,7 @@ orbit ?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** Comets are known for their highly elongated, elliptical orbits
+- **Logic:** Comets are known for their highly elongated, elliptical orbits
 
 around the Sun, meaning they spend a significant amount of
 
@@ -7661,7 +7660,7 @@ asteroid belt between Mars and Jupiter.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** Most neutron stars are observed as pulsars. Pulsars are
+- **Logic:** Most neutron stars are observed as pulsars. Pulsars are
 
 rotating neutron stars observed to have pulses of radiation at
 
@@ -7703,7 +7702,7 @@ How many of the above pairs are correctly matched?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** Cepheids, also called Cepheid Variables, are stars which
+- **Logic:** Cepheids, also called Cepheid Variables, are stars which
 
 brighten and dim periodically. This behaviour allows them to
 
@@ -7763,7 +7762,7 @@ Statement-II does not explain Statement-I
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** Giant stars have masses from eight times to as much as
+- **Logic:** Giant stars have masses from eight times to as much as
 
 100 times that of the mass of our sun. These massive stars
 
@@ -7837,7 +7836,7 @@ correct.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** Electrically charged particles from space travelling at speed
+- **Logic:** Electrically charged particles from space travelling at speed
 
 of several hundred km/sec cannot reach the surface of the
 
@@ -7889,7 +7888,7 @@ Select the correct answer using the code given below:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** Solar flares are brief and powerful eruptions of high-energy
+- **Logic:** Solar flares are brief and powerful eruptions of high-energy
 
 radiation from the Sun's surface, associated with sunspots.
 
@@ -7967,7 +7966,7 @@ Which of the statements given above is/are correct ?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** Geostationary or communication satellite is located in space
+- **Logic:** Geostationary or communication satellite is located in space
 
 about 36,000 km above the equator. A single geostationary
 
@@ -8021,7 +8020,7 @@ Select the correct answer using the codes given below
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** G–246 General Studies General Science
+- **Logic:** G–246 General Studies General Science
 
 A geostationary orbit is a circular orbit, about 35,786
 
@@ -8049,7 +8048,7 @@ It is also referred as a geosynchronous equatorial orbit (GEO).
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 </details>
 
@@ -8065,7 +8064,7 @@ accurate path of geostationary satellite in space?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** Geostationary satellite has a circular path. Therefore option
+- **Logic:** Geostationary satellite has a circular path. Therefore option
 
 (a) represents the most accurate path of geostationary satellite
 
@@ -8089,7 +8088,7 @@ X-ray telescope' has been named –
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** Chandra X-ray telescope is a space observatory launched by
+- **Logic:** Chandra X-ray telescope is a space observatory launched by
 
 Columbia Space Shuttle on 23 July, 1999. The telescope is
 
@@ -8125,7 +8124,7 @@ Select the correct answer using the code given below :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** Astrosat is India's first dedicated multiwavelength space
+- **Logic:** Astrosat is India's first dedicated multiwavelength space
 
 observatory. It was launched on a PSLV-XL on 28 September 2015. This scientific satellite mission endeavours for
 
@@ -8161,7 +8160,7 @@ is located at :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (*)
-- **Exam Lock & Core Concepts:** Presently, 'The University of Tokyo Atacama Observatory'
+- **Logic:** Presently, 'The University of Tokyo Atacama Observatory'
 
 is the highest telescope observatory in the world which is
 
@@ -8213,7 +8212,7 @@ below:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** Dr. Ajit Kumar Mohanty, Secretary DAE & Chairman of
+- **Logic:** Dr. Ajit Kumar Mohanty, Secretary DAE & Chairman of
 
 the Atomic Energy Commission, inaugurated the Major
 
@@ -8251,7 +8250,7 @@ statement II is incorrect.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** Indian Space Research Organisation (ISRO) is the space
+- **Logic:** Indian Space Research Organisation (ISRO) is the space
 
 agency of India. The organisation is involved in science,
 
@@ -8287,7 +8286,7 @@ when INSAT-3B was launched ?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** Dr. K. Kasturirangan headed the ISRO from 1994 to 2003.
+- **Logic:** Dr. K. Kasturirangan headed the ISRO from 1994 to 2003.
 
 During his tenure, India launched INSAT-3B satellite with the
 
@@ -8313,7 +8312,7 @@ is :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (*)
-- **Exam Lock & Core Concepts:** During the period, when the question has been asked, Dr. G.
+- **Logic:** During the period, when the question has been asked, Dr. G.
 
 Madhavan Nair was the Chairman of ISRO. At present Dr. V.
 
@@ -8335,7 +8334,7 @@ on 13th January, 2025.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (e)
-- **Exam Lock & Core Concepts:** A.S. Kiran Kumar was the Chairman of ISRO from
+- **Logic:** A.S. Kiran Kumar was the Chairman of ISRO from
 
 January, 2015 to January, 2018. The 10th ISRO Chairman was Dr.S. Somanath whose tenure was from
 
@@ -8361,7 +8360,7 @@ Research Organisation (ISRO)?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (*)
-- **Exam Lock & Core Concepts:** The current Chairman of the Indian Space Research
+- **Logic:** The current Chairman of the Indian Space Research
 
 Organisation (ISRO) is Dr. V. Narayanan. He assumed the
 
@@ -8389,7 +8388,7 @@ January, 2022 to January, 2025.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 G–249 General Studies General Science
 
@@ -8501,7 +8500,7 @@ INSAT/GSAT satellite communication?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** The major frequency bands used for satellite communication
+- **Logic:** The major frequency bands used for satellite communication
 
 in India are S-band, C-band, Upper Extended C band, Ku
 
@@ -8517,7 +8516,7 @@ transponders in these bands.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (*)
-- **Exam Lock & Core Concepts:** Refer to the high-yield notes above.
+- **Logic:** Refer to the high-yield notes above.
 
 </details>
 
@@ -8547,7 +8546,7 @@ Select the correct answer using the code given below.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** For the measurement/estimation of chlorophyll content in the
+- **Logic:** For the measurement/estimation of chlorophyll content in the
 
 vegetation of a specific location (through hyper-spectral and
 
@@ -8575,7 +8574,7 @@ PSLV-C37 in a single flight on 15 February, 2017?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** In its 39th flight (PSLV-C37), ISRO's Polar Satellite Launch
+- **Logic:** In its 39th flight (PSLV-C37), ISRO's Polar Satellite Launch
 
 Vehicle successfully launched the 714 kg Cartosat-2 series
 
@@ -8609,7 +8608,7 @@ successfully launched 104 satellites in a single flight?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 </details>
 
@@ -8625,7 +8624,7 @@ was launched in 2022?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** The last PSLV mission by ISRO in 2022 was PSLV-C54/
+- **Logic:** The last PSLV mission by ISRO in 2022 was PSLV-C54/
 
 EOS-06, which was launched from Satish Dhawan Space
 
@@ -8667,7 +8666,7 @@ April 23 from Sriharikota by the launcher :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** The PSLV-C55 was the 57th mission of Indian Space Research
+- **Logic:** The PSLV-C55 was the 57th mission of Indian Space Research
 
 Organisation's Polar Satellite Launch Vehicle (PSLV). PSLV -
 
@@ -8715,7 +8714,7 @@ Which of the statement/s given above is/are true?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** ISRO's PSLV-C58 has launched XPoSat Satellite on 1
+- **Logic:** ISRO's PSLV-C58 has launched XPoSat Satellite on 1
 
 January, 2024. XPoSat (X-ray Polarimeter Satellite) is India's
 
@@ -8747,7 +8746,7 @@ launched on :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 </details>
 
@@ -8757,7 +8756,7 @@ launched on :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** INSAT-2A was India's first indigenously built satellite. This
+- **Logic:** INSAT-2A was India's first indigenously built satellite. This
 
 satellite was launched on July 10, 1992 from Kourou, French
 
@@ -8793,7 +8792,7 @@ Which of the statements given above is/are correct?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** The Indian Regional Navigation Satellite System
+- **Logic:** The Indian Regional Navigation Satellite System
 
 (IRNSS) named by P.M. Modi as NavIC (Navigation with Indian Constellation), is a regional satellite
 
@@ -8827,7 +8826,7 @@ it throughout the world. Thus, only statement 1 is correct.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 </details>
 
@@ -8845,7 +8844,7 @@ it throughout the world. Thus, only statement 1 is correct.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** The GSLV-F15/NVS-02 mission was a successful space
+- **Logic:** The GSLV-F15/NVS-02 mission was a successful space
 
 launch by ISRO on January 29, 2025, which injected the
 
@@ -8897,7 +8896,7 @@ Satellite Navigation System?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** Currently, there are four global Satellite Navigation Systems
+- **Logic:** Currently, there are four global Satellite Navigation Systems
 
 viz., GPS from USA, GLONASS from Russia, Galileo from
 
@@ -8933,7 +8932,7 @@ by the European Union
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** Galileo is Europe's own global multi-satellite navigation
+- **Logic:** Galileo is Europe's own global multi-satellite navigation
 
 system (which went live in 2016), providing a highly
 
@@ -8969,7 +8968,7 @@ Select the correct answer using the codes given below:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** The Global Positioning System (GPS) is a satellite-based
+- **Logic:** The Global Positioning System (GPS) is a satellite-based
 
 radio navigation system that provides geo-location and time
 
@@ -9017,7 +9016,7 @@ Select the correct answer using the code given below.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** GAGAN is India’s satellite-based augmentation system
+- **Logic:** GAGAN is India’s satellite-based augmentation system
 
 (SBAS), jointly developed by ISRO and the Airports
 
@@ -9087,7 +9086,7 @@ Code :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** SLV-3 was successfully launched on July 18, 1980 when
+- **Logic:** SLV-3 was successfully launched on July 18, 1980 when
 
 Rohini satellite, RS-1 was placed in the orbit, thereby making
 
@@ -9159,7 +9158,7 @@ A B C D
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** IIRS–Indian Institute of Remote Sensing, Dehradun
+- **Logic:** IIRS–Indian Institute of Remote Sensing, Dehradun
 
 (Uttrakhand)
 
@@ -9209,7 +9208,7 @@ Which of the above pairs are correctly matched?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** The Vikram Sarabhai Space Centre is situated at Trivandrum
+- **Logic:** The Vikram Sarabhai Space Centre is situated at Trivandrum
 
 (Kerala) and UR Rao Satellite Centre is situated at Bengaluru
 
@@ -9233,7 +9232,7 @@ only A and B pairs are correctly matched.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** Chandrayaan-1, India's first mission to the Moon was
+- **Logic:** Chandrayaan-1, India's first mission to the Moon was
 
 launched successfully on October 22, 2008 from Satish
 
@@ -9263,7 +9262,7 @@ it entered lunar orbit on 5 August, 2023.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** & (b)
+- **Logic:** & (b)
 
 See the explanation of above question.
 
@@ -9279,7 +9278,7 @@ See the explanation of above question.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 </details>
 
@@ -9299,7 +9298,7 @@ exploration
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** Chandrayaan-2 Mission was originally approved in 2008 in
+- **Logic:** Chandrayaan-2 Mission was originally approved in 2008 in
 
 a meeting of the Union Cabinet, chaired by the then Prime
 
@@ -9333,7 +9332,7 @@ launched from which Indian State?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** Chandrayaan-2 is the second lunar exploration mission
+- **Logic:** Chandrayaan-2 is the second lunar exploration mission
 
 developed by the Indian Space Research Organisation
 
@@ -9381,7 +9380,7 @@ landing and roving on the lunar surface.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** Chandrayaan-3 is the third mission in the Chandrayaan
+- **Logic:** Chandrayaan-3 is the third mission in the Chandrayaan
 
 programme, a series of lunar-exploration missions developed
 
@@ -9431,7 +9430,7 @@ to go on the moon?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** Moon Express is the world's first private flight plan to
+- **Logic:** Moon Express is the world's first private flight plan to
 
 go to the moon. Implemented from 2017 this plan was
 
@@ -9453,7 +9452,7 @@ dark side of the moon in June 2024 ?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** In June 2024, China's Chang'e 6 mission became the first
+- **Logic:** In June 2024, China's Chang'e 6 mission became the first
 
 lunar mission to bring soil from the far side (dark side) of
 
@@ -9489,7 +9488,7 @@ of ISRO for comprehensive study of the Sun?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** On 2 September, 2023, the Polar Satellite Launch Vehicle
+- **Logic:** On 2 September, 2023, the Polar Satellite Launch Vehicle
 
 (PSLV-C57) successfully launched the Aditya-L1 spacecraft,
 
@@ -9533,7 +9532,7 @@ mission for systematic study of Sun is :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** Aditya-L1 carries seven payloads on-board to observe the
+- **Logic:** Aditya-L1 carries seven payloads on-board to observe the
 
 photosphere, chromosphere and the outermost layers of the
 
@@ -9573,7 +9572,7 @@ to planet Mars launched successfully?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 G–261 General Studies General Science
 
@@ -9605,7 +9604,7 @@ Which of the statements given above is/are correct?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** Marking India's first venture into the interplanetary space,
+- **Logic:** Marking India's first venture into the interplanetary space,
 
 MOM (Mars Orbiter Mission) or Mangalyaan explored and
 
@@ -9647,7 +9646,7 @@ and support microgravity research?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** Microgravity is a condition found in Low Earth Orbit (LEO)
+- **Logic:** Microgravity is a condition found in Low Earth Orbit (LEO)
 
 on a spacecraft/space station, where the effect of gravity
 
@@ -9693,7 +9692,7 @@ China's Tiangong Space Station?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** Tiangong space station is a permanently crewed space
+- **Logic:** Tiangong space station is a permanently crewed space
 
 station constructed by China and operated by China Manned
 
@@ -9731,7 +9730,7 @@ The first, Wentian ("Quest for the Heavens"), launched on
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** Tianwen-1 (TW-1) is an interplanetary mission by the China
+- **Logic:** Tianwen-1 (TW-1) is an interplanetary mission by the China
 
 National Space Administration (CNSA) to send a robotic
 
@@ -9767,7 +9766,7 @@ a space agency of which country?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** CNES (National Centre for Space Studies; French : Centre
+- **Logic:** CNES (National Centre for Space Studies; French : Centre
 
 National d'etudes spatiales) is the government space agency
 
@@ -9791,7 +9790,7 @@ to monitor the climate of the Arctic?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** Russia launched its space satellite Arktika-M on 28
+- **Logic:** Russia launched its space satellite Arktika-M on 28
 
 February, 2021 on a mission to monitor the climate and
 
@@ -9827,7 +9826,7 @@ spacecraft?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** In November 2022, Japan's space agency JAXA has
+- **Logic:** In November 2022, Japan's space agency JAXA has
 
 announced that it successfully used steam to propel its
 
@@ -9867,7 +9866,7 @@ world's smallest satellite-carrying rocket?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** In February, 2018, 'JAXA' – Japan Aerospace Exploration
+- **Logic:** In February, 2018, 'JAXA' – Japan Aerospace Exploration
 
 Agency has successfully launched the smallest-ever rocket
 
@@ -9893,7 +9892,7 @@ the news?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** NASA has developed and successfully flight tested a
+- **Logic:** NASA has developed and successfully flight tested a
 
 battery-powered plane with 10 engines that take off and
 
@@ -9927,7 +9926,7 @@ Trailblazer mission?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** NASA’s Lunar Trailblazer was a small satellite mission
+- **Logic:** NASA’s Lunar Trailblazer was a small satellite mission
 
 designed to detect and map water on the Moon’s surface
 
@@ -9961,7 +9960,7 @@ take detailed pictures of which comet nucleus ?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** NASA's Deep Impact Mission was launched from Cape
+- **Logic:** NASA's Deep Impact Mission was launched from Cape
 
 Canaveral Air force station on January 12, 2005. It was
 
@@ -9993,7 +9992,7 @@ the first to extract material from a comet's surface.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** Phoenix was a robotic spacecraft on a space exploration
+- **Logic:** Phoenix was a robotic spacecraft on a space exploration
 
 mission on Mars under the NASA's Mars Scout Program.
 
@@ -10013,7 +10012,7 @@ The Phoenix lander descended on Mars on 25 May, 2008.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** Saturn has the least average density among all planets of
+- **Logic:** Saturn has the least average density among all planets of
 
 our Solar system.
 
@@ -10067,7 +10066,7 @@ one of the following?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** Selene-1 was Japan’s lunar orbiter, which was launched on
+- **Logic:** Selene-1 was Japan’s lunar orbiter, which was launched on
 
 September 14, 2007. The orbiter’s nickname Kaguya was
 
@@ -10093,7 +10092,7 @@ C
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** G–266 General Studies General Science
+- **Logic:** G–266 General Studies General Science
 
 In physics, cryogenics deal with the production of very low
 
@@ -10123,7 +10122,7 @@ considered below about –153°C.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** Low temperature (cryogenics) applications are used in space
+- **Logic:** Low temperature (cryogenics) applications are used in space
 
 travel, magnetic levitation and telemetry.
 
@@ -10141,7 +10140,7 @@ ISRO to develop :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** Among the given options, Bharat Electronics Ltd. (BEL) is
+- **Logic:** Among the given options, Bharat Electronics Ltd. (BEL) is
 
 collaborating with ISRO to develop GaAs (Gallium Arsenide)
 
@@ -10175,7 +10174,7 @@ Which of the statements given above is/are correct?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** India has become the sixth member of the exclusive club
+- **Logic:** India has become the sixth member of the exclusive club
 
 to have developed a cryogenic stage in rocketry with USA,
 
@@ -10219,7 +10218,7 @@ Which of these statements are correct?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** GSLV is a three-stage launcher, whose third stage used an
+- **Logic:** GSLV is a three-stage launcher, whose third stage used an
 
 indigenous-built cryogenic engines. This indigenous engine
 
@@ -10277,7 +10276,7 @@ Which of the statements given above is/are correct?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** PSLV (Polar Satellite Launch Vehicle) is an indigenously
+- **Logic:** PSLV (Polar Satellite Launch Vehicle) is an indigenously
 
 developed expendable launch system of the ISRO. It comes
 
@@ -10331,7 +10330,7 @@ Which of the above statement is correct
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** Vigyan Rail is a science exhibition on the wheels organized
+- **Logic:** Vigyan Rail is a science exhibition on the wheels organized
 
 jointly by Ministry of Railway and the Vigyan Prasar under
 
@@ -10383,7 +10382,7 @@ Which of these statements is/are correct?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** India's first full-fledged meteorological satellite 'METSAT'
+- **Logic:** India's first full-fledged meteorological satellite 'METSAT'
 
 was launched on 12 September, 2002. This was the first
 
@@ -10407,7 +10406,7 @@ honour the late Indian-born astronaut Kalpana Chawla.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** G–269 General Studies General Science
+- **Logic:** G–269 General Studies General Science
 
 Sathyabamasat is a micro experimental satellite developed
 
@@ -10435,7 +10434,7 @@ with the Cartosat-2C satellite atop PSLV-C34 on 22 June,
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** GSAT-7 or INSAT-4F is a multi-band communication satellite
+- **Logic:** GSAT-7 or INSAT-4F is a multi-band communication satellite
 
 developed by ISRO. It is also known as 'RUKMINI'. The
 
@@ -10475,7 +10474,7 @@ Code :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** GSAT-4 was an experimental communication satellite
+- **Logic:** GSAT-4 was an experimental communication satellite
 
 launched by ISRO in April, 2010 which failed to reach to
 
@@ -10509,7 +10508,7 @@ which rocket vehicle?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** GSAT-6A is a high power S-band communication satellite of
+- **Logic:** GSAT-6A is a high power S-band communication satellite of
 
 ISRO, which was launched by GSLV-F08 on 29 March, 2018
 
@@ -10533,7 +10532,7 @@ Organisation is :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** The Defence Research and Development Organisation
+- **Logic:** The Defence Research and Development Organisation
 
 (DRDO) is the premier agency under the Department of
 
@@ -10571,7 +10570,7 @@ Laboratory in Madhya Pradesh in 2021?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** Indian armed forces are doing dedicated investment in
+- **Logic:** Indian armed forces are doing dedicated investment in
 
 quantum technologies for some time now. During 2021,
 
@@ -10609,7 +10608,7 @@ threats?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** The Very Short-Range Air Defence System, or VSHORADS,
+- **Logic:** The Very Short-Range Air Defence System, or VSHORADS,
 
 is a 4th Generation, technically-advanced miniaturized, manportable air-defence system (MANPADS) developed by
 
@@ -10655,7 +10654,7 @@ proactive retaliation
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** Akashteer is the 'core' command-and-control mechanism of
+- **Logic:** Akashteer is the 'core' command-and-control mechanism of
 
 the Army’s air-defence system, through which various airdefence units, radars, and weapon systems are connected as
 
@@ -10699,7 +10698,7 @@ supported by the Make in India initiative?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** F-35 Lightning II is a U.S. multi-role stealth fighter aircraft.
+- **Logic:** F-35 Lightning II is a U.S. multi-role stealth fighter aircraft.
 
 Both MBT (Main Battle Tank) Arjun and ATAGS (Advanced
 
@@ -10729,7 +10728,7 @@ missile is :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** A New Generation Anti-Radiation Missile (NGARM),
+- **Logic:** A New Generation Anti-Radiation Missile (NGARM),
 
 RudraM-I, was successfully flight-tested on 9th October,
 
@@ -10759,7 +10758,7 @@ Radio Frequency (RF) emitting targets.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** 'Nag' is a "Fire and Forget" anti tank missile developed in
+- **Logic:** 'Nag' is a "Fire and Forget" anti tank missile developed in
 
 India. Land based Nag Missile has a range of 500 m to 4
 
@@ -10787,7 +10786,7 @@ G–278 General Studies General Science
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 </details>
 
@@ -10801,7 +10800,7 @@ G–278 General Studies General Science
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** Trishul is a short range surface to air missile developed by
+- **Logic:** Trishul is a short range surface to air missile developed by
 
 India as a part of the Integrated Guided Missile Development
 
@@ -10841,7 +10840,7 @@ A B C D
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** Akash is a medium range surface-to-air missile. Kashiram
+- **Logic:** Akash is a medium range surface-to-air missile. Kashiram
 
 was the founder of Bahujan Samaj Party. Prithvi is a surface
 
@@ -10865,7 +10864,7 @@ Research & Development Organization (DRDO) is :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** Astra is an all-weather beyond visual range air-to-air missile
+- **Logic:** Astra is an all-weather beyond visual range air-to-air missile
 
 (BVRAAM) developed by the Defence Research and
 
@@ -10897,7 +10896,7 @@ successfully test fired ASTRA missile, this missile is :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** Light Combat Aircraft (LCA) Tejas, Limited Series
+- **Logic:** Light Combat Aircraft (LCA) Tejas, Limited Series
 
 Production-7 (LSP-7) successfully test fired the ASTRA
 
@@ -10925,7 +10924,7 @@ DRDO?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** Trishul, a supersonic missile programme, has been shelved
+- **Logic:** Trishul, a supersonic missile programme, has been shelved
 
 by DRDO in 2008 due to some technical flaws.
 
@@ -10945,7 +10944,7 @@ by DRDO in 2008 due to some technical flaws.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** In 1980's the Integrated Guided Missile Development
+- **Logic:** In 1980's the Integrated Guided Missile Development
 
 Programme (IGMDP) was conceived by renowned scientist
 
@@ -10983,7 +10982,7 @@ to Surface missiles.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** Statement of option (c) is incorrect. Trishul was a short range
+- **Logic:** Statement of option (c) is incorrect. Trishul was a short range
 
 surface-to-air missile developed by India as a part of IGMD
 
@@ -11015,7 +11014,7 @@ Which of the statements given above is/are correct?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** Prithvi-II is a single-stage liquid fuelled missile having a
+- **Logic:** Prithvi-II is a single-stage liquid fuelled missile having a
 
 maximum warhead mounting capability of 500 kg with a
 
@@ -11055,7 +11054,7 @@ fighter aircraft?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** Fifth generation fighter aircrafts include major technologies
+- **Logic:** Fifth generation fighter aircrafts include major technologies
 
 developed during the first part of the 21st century. As of
 
@@ -11117,7 +11116,7 @@ lifter being used by Indian Air Force. These air lifters
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** C-130J Super Hercules is world's most advanced air lifter
+- **Logic:** C-130J Super Hercules is world's most advanced air lifter
 
 being used by Indian Air Force. IAF had signed a deal for
 
@@ -11141,7 +11140,7 @@ of the Indian Air Force?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** The Ilyushin IL-78 is a Soviet four-engined aerial refuelling
+- **Logic:** The Ilyushin IL-78 is a Soviet four-engined aerial refuelling
 
 tanker. The Indian Air Force refers to the aircraft as 'MARS'
 
@@ -11177,7 +11176,7 @@ matched?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** The Indian Navy’s version of the Dornier 228 is used as a
+- **Logic:** The Indian Navy’s version of the Dornier 228 is used as a
 
 maritime patrol/maritime surveillance aircraft; therefore, Pair
 
@@ -11211,7 +11210,7 @@ submarine of Indian Navy?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** INS Chakra is an 8,140 ton Akula class, nuclear-powered
+- **Logic:** INS Chakra is an 8,140 ton Akula class, nuclear-powered
 
 submarine. It was commissioned on 4th April, 2012.
 
@@ -11227,7 +11226,7 @@ submarine. It was commissioned on 4th April, 2012.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** G–282 General Studies General Science
+- **Logic:** G–282 General Studies General Science
 
 INS Sindhurakshak was a Russian-made diesel-electric submarine of the Indian Navy. The submarine suffered a minor
 
@@ -11247,7 +11246,7 @@ which resulted in its sinking at Mumbai’s naval dockyard.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** Admiral Sunil Lamba formally inducted India's first
+- **Logic:** Admiral Sunil Lamba formally inducted India's first
 
 indigenously built nuclear submarine INS Arihant in Indian
 
@@ -11281,7 +11280,7 @@ Aircraft
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** The Phalcon is an Israel manufactured Airborne Early
+- **Logic:** The Phalcon is an Israel manufactured Airborne Early
 
 Warning Command and Control (AEWC&C) system. It
 
@@ -11309,7 +11308,7 @@ Barak anti-missile defence systems?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** India bought the Barak anti-missile defence system from
+- **Logic:** India bought the Barak anti-missile defence system from
 
 Israel. The Barak missiles were firstly deployed on India's
 
@@ -11331,7 +11330,7 @@ India?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** French company Dassault Aviation supplied Rafale fighter
+- **Logic:** French company Dassault Aviation supplied Rafale fighter
 
 jets to India. They delivered 36 'Rafale' fighter jets to the
 
@@ -11353,7 +11352,7 @@ in 2016.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** Arjun is an extremely subversive modern main battle
+- **Logic:** Arjun is an extremely subversive modern main battle
 
 tank developed by DRDO with the help of Bharat Heavy
 
@@ -11373,7 +11372,7 @@ Vehicles Factory (Tamil Nadu).
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 </details>
 
@@ -11397,7 +11396,7 @@ Select the correct answer using the code given below.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** Agni-IV is the fourth in the Agni series of missiles which was
+- **Logic:** Agni-IV is the fourth in the Agni series of missiles which was
 
 earlier known as Agni-II Prime. It is to be noted that Agni
 
@@ -11427,7 +11426,7 @@ former President Abdul Kalam ?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** On 8 June 2006, Sukhoi-30 MKI fighter aircraft was flown
+- **Logic:** On 8 June 2006, Sukhoi-30 MKI fighter aircraft was flown
 
 by former President Abdul Kalam. His co-pilot was wing
 
@@ -11455,7 +11454,7 @@ missile technology control Regime –
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** On May, 1992 America imposed a ban on ISRO under missile
+- **Logic:** On May, 1992 America imposed a ban on ISRO under missile
 
 technology control regime.
 
@@ -11473,7 +11472,7 @@ indigenous Indian missile programme?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** G–285 General Studies General Science
+- **Logic:** G–285 General Studies General Science
 
 Avul Pakir Jainulabdeen Abdul Kalam was an Indian Scientist
 
@@ -11517,7 +11516,7 @@ Which of the statement given above is/are correct?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** Shaurya missile has a maximum speed of 7.5 Mach & it
+- **Logic:** Shaurya missile has a maximum speed of 7.5 Mach & it
 
 has a range of 700 km along with 1000 kg of payload. It is
 
@@ -11537,7 +11536,7 @@ are incorrect.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 </details>
 
@@ -11555,7 +11554,7 @@ is :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** Tejas is the first indigenous fighter plane of Indian Air
+- **Logic:** Tejas is the first indigenous fighter plane of Indian Air
 
 Force. India's Light Combat Aircraft (LCA) together with
 
@@ -11583,7 +11582,7 @@ BEL, CSIR, DGAQA, IAF and IN.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 G–286 General Studies General Science
 
@@ -11605,7 +11604,7 @@ G–286 General Studies General Science
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** Indian Navy's first totally indigenously designed and built
+- **Logic:** Indian Navy's first totally indigenously designed and built
 
 torpedo launch and recovery vessel INS Astradharini was
 
@@ -11645,7 +11644,7 @@ Which of the statements given above is/are correct?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** G–287 General Studies General Science
+- **Logic:** G–287 General Studies General Science
 
 Cruise missiles are jet-propelled at subsonic, supersonic or
 
@@ -11677,7 +11676,7 @@ Research Organization (DRDO) is –
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** Lakshya is the first unmanned aircraft developed by India. It
+- **Logic:** Lakshya is the first unmanned aircraft developed by India. It
 
 was developed by Aeronautical Development Establishment
 
@@ -11707,7 +11706,7 @@ How many of the statements given above are correct?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** UAVs (Unmanned Aerial Vehicles) are mainly classified into
+- **Logic:** UAVs (Unmanned Aerial Vehicles) are mainly classified into
 
 four types based on their design and flight mechanics: Multirotor such as quadcopters, hexacopters, and octocopters
 
@@ -11779,7 +11778,7 @@ aircraft.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** Active Electronically Scanned Array (AESA) radar is a
+- **Logic:** Active Electronically Scanned Array (AESA) radar is a
 
 multimode, solid-state active phased array fire control radar
 
@@ -11829,7 +11828,7 @@ Korea
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** Terminal High Altitude Area Defense (THAAD) is an
+- **Logic:** Terminal High Altitude Area Defense (THAAD) is an
 
 American anti-ballistic missile defence system designed to
 
@@ -11885,7 +11884,7 @@ and places a probe on its surface.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** The idea behind Fractional Orbital Bombardment System
+- **Logic:** The idea behind Fractional Orbital Bombardment System
 
 (FOBS) is, a warhead delivery system (missile) is put into a
 
@@ -11937,7 +11936,7 @@ BRICS countries for the promotion of trade.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** The 'New START' (START : Strategic Arms Reduction
+- **Logic:** The 'New START' (START : Strategic Arms Reduction
 
 Treaty) is the treaty between the United States of America and
 
@@ -11983,7 +11982,7 @@ to prevent ballistic missile proliferation?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** On 1 June 2016, India joined the Hague code of conduct
+- **Logic:** On 1 June 2016, India joined the Hague code of conduct
 
 (HCoC) against ballistic missile proliferation by notifying the
 
@@ -12035,7 +12034,7 @@ Which of the statements given above is/are correct?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** The Australia Group in an informal group of countries
+- **Logic:** The Australia Group in an informal group of countries
 
 established in 1985 (after the use of chemical weapons by
 
@@ -12107,7 +12106,7 @@ Select the correct answer from the options given below:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** The North Atlantic Treaty Organization (NATO), also
+- **Logic:** The North Atlantic Treaty Organization (NATO), also
 
 called the North Atlantic Alliance, is an intergovernmental
 
@@ -12159,7 +12158,7 @@ NATO in March 2024 ?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** G–292 General Studies General Science
+- **Logic:** G–292 General Studies General Science
 
 Sweden had maintained a policy of neutrality in military
 
@@ -12195,7 +12194,7 @@ the 31st member of NATO.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** DefExpo is India's flagship biennial event showcase Land,
+- **Logic:** DefExpo is India's flagship biennial event showcase Land,
 
 Naval and Homeland Security System. The first edition of
 
@@ -12243,7 +12242,7 @@ Which of the above statements is/are correct?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** The IONS (Indian Ocean Naval Symposium) is a regional
+- **Logic:** The IONS (Indian Ocean Naval Symposium) is a regional
 
 forum of Indian Ocean littoral States launched by Indian
 
@@ -12295,7 +12294,7 @@ and Kazakhstan
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** Friendship (Druzhba)-2016 was a joint military exercise by
+- **Logic:** Friendship (Druzhba)-2016 was a joint military exercise by
 
 the soldiers of Russia and Pakistan. The joint military exercise
 
@@ -12347,7 +12346,7 @@ countries?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** The 2016 joint military exercise 'Maitree' was conducted
+- **Logic:** The 2016 joint military exercise 'Maitree' was conducted
 
 between 15 to 29 July, 2016 by India and Thailand in Krabi,
 
@@ -12375,7 +12374,7 @@ country?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** The bilateral joint military exercise ‘Harimau Shakti 2018’
+- **Logic:** The bilateral joint military exercise ‘Harimau Shakti 2018’
 
 between India and Malaysia was conducted from 30 April
 
@@ -12403,7 +12402,7 @@ Africa-India Field Training Exercise' AFINDEX-2023?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** The 2nd edition of joint military exercise 'The Africa-India
+- **Logic:** The 2nd edition of joint military exercise 'The Africa-India
 
 Field Training Exercise (AFINDEX-2023)' was held from
 
@@ -12445,7 +12444,7 @@ Select the answer using the code given below:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** The Ninth edition of Joint Military Exercise between
+- **Logic:** The Ninth edition of Joint Military Exercise between
 
 India and Sri Lanka 'Exercise MITRA SHAKTI-2023' was
 
@@ -12523,7 +12522,7 @@ Exercise (JIMEX-24) held this year ?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** The Eighth edition of the bilateral Japan-India Maritime
+- **Logic:** The Eighth edition of the bilateral Japan-India Maritime
 
 Exercise 2024 (JIMEX-24) took place in Yokosuka, Japan
 
@@ -12569,7 +12568,7 @@ was held at :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** The 1st edition of Joint Table Top Exercise, CINBAX,
+- **Logic:** The 1st edition of Joint Table Top Exercise, CINBAX,
 
 between the Indian Army and the Cambodian Army was
 
@@ -12607,7 +12606,7 @@ military exercise conducted with India is incorrect?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** The correctly matched pairs are as follows :
+- **Logic:** The correctly matched pairs are as follows :
 
 Joint Military Exercise Participating Nations
 
@@ -12635,7 +12634,7 @@ Hence, pair of option (c) is incorrect
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** Thermometer or thermoscope was discovered by famous
+- **Logic:** Thermometer or thermoscope was discovered by famous
 
 Italian physicist Galileo in 1609.
 
@@ -12661,7 +12660,7 @@ G–298 General Studies General Science
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** A microscope is an equipment that helps in watching micro
+- **Logic:** A microscope is an equipment that helps in watching micro
 
 and nearby objects which cannot be seen by naked eyes.
 
@@ -12693,7 +12692,7 @@ A B C D
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** The typewriter was invented by Sholes in 1867. X-ray was
+- **Logic:** The typewriter was invented by Sholes in 1867. X-ray was
 
 invented by Wilhelm Rontgen in 1895, Radio was invented
 
@@ -12715,7 +12714,7 @@ Prize in physics with his son ?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** British physicist and chemist Sir William Henry Bragg
+- **Logic:** British physicist and chemist Sir William Henry Bragg
 
 shared Nobel Prize in physics with his son William Lawrence
 
@@ -12757,7 +12756,7 @@ A B C D
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** The correctly matched list is given below :
+- **Logic:** The correctly matched list is given below :
 
 John Guttenberg – Printing Press
 
@@ -12779,7 +12778,7 @@ Alexander Graham Bell – Telephone
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** Telephone was invented by Alexander Graham Bell in 1876.
+- **Logic:** Telephone was invented by Alexander Graham Bell in 1876.
 
 </details>
 
@@ -12793,7 +12792,7 @@ Alexander Graham Bell – Telephone
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** American scientist Thomas Alva Edison is the inventor of
+- **Logic:** American scientist Thomas Alva Edison is the inventor of
 
 the electric bulb.
 
@@ -12809,7 +12808,7 @@ the electric bulb.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** Lewis Edson Waterman invented fountain pen in 1883 in New
+- **Logic:** Lewis Edson Waterman invented fountain pen in 1883 in New
 
 York. He patented the first practical fountain pen in 1884.
 
@@ -12825,7 +12824,7 @@ York. He patented the first practical fountain pen in 1884.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** Scottish physicist Robert Alexander Watson was a pioneer
+- **Logic:** Scottish physicist Robert Alexander Watson was a pioneer
 
 and significant contributor to the development of Radar
 
@@ -12847,7 +12846,7 @@ Force of Britain in World War II.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** Swedish scientist Alfred Nobel invented dynamite. The
+- **Logic:** Swedish scientist Alfred Nobel invented dynamite. The
 
 famous Nobel Foundation was established on the basis of
 
@@ -12865,7 +12864,7 @@ his will in 1900.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** Television was invented by J.L. Baird in 1926 in Britain.
+- **Logic:** Television was invented by J.L. Baird in 1926 in Britain.
 
 Galileo invented the Telescope.
 
@@ -12883,7 +12882,7 @@ associated with?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 </details>
 
@@ -12901,7 +12900,7 @@ associated with?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 </details>
 
@@ -12915,7 +12914,7 @@ associated with?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 </details>
 
@@ -12929,7 +12928,7 @@ associated with?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 </details>
 
@@ -12955,7 +12954,7 @@ G–301 General Studies General Science
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** See the explanation of above question.
+- **Logic:** See the explanation of above question.
 
 </details>
 
@@ -12973,7 +12972,7 @@ up as White Dwarfs when they die?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** S. Chandrasekhar proved that the stars with mass less than
+- **Logic:** S. Chandrasekhar proved that the stars with mass less than
 
 1.44 times the mass of the sun ends up as white dwarfs when
 
@@ -12997,7 +12996,7 @@ exceed 1.44 times that of the sun.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** Scientist Albert Einstein is famous for giving the simple
+- **Logic:** Scientist Albert Einstein is famous for giving the simple
 
 and factual explanation of Photoelectric effect on the basis
 
@@ -13027,7 +13026,7 @@ effect.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (d)
-- **Exam Lock & Core Concepts:** See the explanation of the above question.
+- **Logic:** See the explanation of the above question.
 
 </details>
 
@@ -13045,7 +13044,7 @@ scientist?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** The 'theory of relativity' usually encompasses two
+- **Logic:** The 'theory of relativity' usually encompasses two
 
 interrelated theories by Albert Einstein : special relativity
 
@@ -13079,7 +13078,7 @@ year :
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (b)
-- **Exam Lock & Core Concepts:** In 1930,C.V.Raman wasthe first non-white,Asian and Indian
+- **Logic:** In 1930,C.V.Raman wasthe first non-white,Asian and Indian
 
 to receive the Nobel Prize in Physics for the work on scattering
 
@@ -13107,7 +13106,7 @@ Science Day'?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (*)
-- **Exam Lock & Core Concepts:** Famous scientist C.V. Raman was born on November 7, 1888
+- **Logic:** Famous scientist C.V. Raman was born on November 7, 1888
 
 and 'National Science Day' is celebrated on 28th February,
 
@@ -13129,7 +13128,7 @@ based on the biography of
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** The Man Who Knew Infinity is a 2015 British biographical
+- **Logic:** The Man Who Knew Infinity is a 2015 British biographical
 
 drama film based on the 1991 book of the same name
 
@@ -13153,7 +13152,7 @@ where he becomes a pioneer in Mathematical theories.
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** Stephen William Hawking (8 January, 1942 - 14 March,
+- **Logic:** Stephen William Hawking (8 January, 1942 - 14 March,
 
 2018) was a world famous British theoretical physicist,
 
@@ -13217,7 +13216,7 @@ A B C D
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** Dr. Raja Ramanna was an Indian physicist who is best
+- **Logic:** Dr. Raja Ramanna was an Indian physicist who is best
 
 known for his role in India's nuclear programme. Dr. M.S.
 
@@ -13257,7 +13256,7 @@ variability and reliably predicting global warming
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (a)
-- **Exam Lock & Core Concepts:** The Nobel Prize in Physics, 2023 was awarded to Pierre
+- **Logic:** The Nobel Prize in Physics, 2023 was awarded to Pierre
 
 Agostini, Ferenc Krausz and Anne L'Huillier "for experimental
 
@@ -13305,7 +13304,7 @@ Statistics equivalent to the Nobel Prize in Mathematics?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** Ans. (c)
-- **Exam Lock & Core Concepts:** The 2023 International Prize in Statistics, often considered
+- **Logic:** The 2023 International Prize in Statistics, often considered
 
 the 'Nobel Prize' of statistics, was awarded to Calyampudi
 
@@ -13359,7 +13358,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock & Core Concepts:** Quantum Mechanics is the branch of physics that deals with the motion of very small particles.
+- **Logic:** Quantum Mechanics is the branch of physics that deals with the motion of very small particles.
 </details>
 
 **Q191. Geodesy is the science that deals with :**
@@ -13373,7 +13372,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (e)
-- **Exam Lock & Core Concepts:** Geodesy is the science of accurately measuring and understanding three fundamental properties of the Earth: its geometric shape, its orientation in space, and its gravity field – as well as the changes of these properties with time.
+- **Logic:** Geodesy is the science of accurately measuring and understanding three fundamental properties of the Earth: its geometric shape, its orientation in space, and its gravity field – as well as the changes of these properties with time.
 </details>
 
 **Q192. The field of science which studies automation and communication between human and machine is called-**
@@ -13386,7 +13385,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock & Core Concepts:** Cybernetics is relevant to study of systems, such as mechanical, physical, biological, cognitive and social systems. Cybernetics is applicable, where action by the system generates some change in its environment and that change is reflected in that system. Norbert Wiener defined Cybernetics in 1948 as "the scientific study of control and communication in the animal and machine".
+- **Logic:** Cybernetics is relevant to study of systems, such as mechanical, physical, biological, cognitive and social systems. Cybernetics is applicable, where action by the system generates some change in its environment and that change is reflected in that system. Norbert Wiener defined Cybernetics in 1948 as "the scientific study of control and communication in the animal and machine".
 </details>
 
 **Q193. Science of time measurement is :**
@@ -13399,7 +13398,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock & Core Concepts:** Horology is the art or science of measuring time.
+- **Logic:** Horology is the art or science of measuring time.
 </details>
 
 **Q194. The study of friction and lubrication is –**
@@ -13412,7 +13411,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock & Core Concepts:** Tribology is a branch of Mechanical Engineering and Material Science. It includes the study and application of the principles of friction and lubrication.
+- **Logic:** Tribology is a branch of Mechanical Engineering and Material Science. It includes the study and application of the principles of friction and lubrication.
 </details>
 
 **Q195. What are true about plasma state?**
@@ -13428,7 +13427,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock & Core Concepts:** Plasma is often called 'the fourth state of matter', along with solid, liquid and gas, characterized by the presence of a significant portion of charged particles in any combination of ions or electrons. It is a state of matter that is created when a gas is heated to extremely high temperatures. Hence, statement (i) is true. It is the most abundant form of ordinary matter in the universe, mostly in stars (including the Sun). Hence, statement (iii) is also true. Statement (ii) is incorrect as light in the LED bulb is not related to plasma state.
+- **Logic:** Plasma is often called 'the fourth state of matter', along with solid, liquid and gas, characterized by the presence of a significant portion of charged particles in any combination of ions or electrons. It is a state of matter that is created when a gas is heated to extremely high temperatures. Hence, statement (i) is true. It is the most abundant form of ordinary matter in the universe, mostly in stars (including the Sun). Hence, statement (iii) is also true. Statement (ii) is incorrect as light in the LED bulb is not related to plasma state.
 </details>
 
 **Q196. Inwhichfieldofscience,wewilllearnaboutWhiteDwarf?**
@@ -13441,7 +13440,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock & Core Concepts:** 'White Dwarf' is related to astronomy. It is also known as Degenerate Dwarf.
+- **Logic:** 'White Dwarf' is related to astronomy. It is also known as Degenerate Dwarf.
 </details>
 
 **Q197. Which one of the following statements is incorrect?**
@@ -13454,7 +13453,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock & Core Concepts:** The violet waves scattered more than blue waves of light. The main cause of sky appearing blue is the highest scattering of violet, indigo and blue colours. Rest options are correct.
+- **Logic:** The violet waves scattered more than blue waves of light. The main cause of sky appearing blue is the highest scattering of violet, indigo and blue colours. Rest options are correct.
 </details>
 
 **Q198. Tata Institute of Fundamental research is located in :**
@@ -13467,7 +13466,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock & Core Concepts:** "It is the duty of people like us to stay in our own country and build up outstanding schools of research such as some other countries are fortunate to process." This was the vision that guided the Tata Institute of Fundamental Research which Homi Bhabha founded on 1st June, 1945 with the support from the Sir Dorabji Tata. It is located in Mumbai.
+- **Logic:** "It is the duty of people like us to stay in our own country and build up outstanding schools of research such as some other countries are fortunate to process." This was the vision that guided the Tata Institute of Fundamental Research which Homi Bhabha founded on 1st June, 1945 with the support from the Sir Dorabji Tata. It is located in Mumbai.
 </details>
 
 **Q199. Full form of LASER is –**
@@ -13480,7 +13479,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock & Core Concepts:** The full form of LASER is "Light Amplification by Stimulated Emission of Radiation". A laser is a device that emits light through a process of optical amplification based on the stimulated emission of electromagnetic radiation. The first LASER was built in 1960 by the Russian scientist N.S. Basov and A.M. Prokhorov. The theoretical base came from C.H. Towres in 1965. These three physicians got the Nobel Prize for their works.
+- **Logic:** The full form of LASER is "Light Amplification by Stimulated Emission of Radiation". A laser is a device that emits light through a process of optical amplification based on the stimulated emission of electromagnetic radiation. The first LASER was built in 1960 by the Russian scientist N.S. Basov and A.M. Prokhorov. The theoretical base came from C.H. Towres in 1965. These three physicians got the Nobel Prize for their works.
 </details>
 
 **Q200. Which one of the following links all the ATMs in India?**
@@ -13493,7 +13492,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock & Core Concepts:** National Financial Switch (NFS) is the largest network of shared Automated Teller Machines (ATMs) in India. It was designed, developed and deployed by the Institute for Development and Research in Banking Technology (IDRBT) in 2004, with the goal of interconnecting the ATMs in the country and facilitating convenience banking. It is run by the National Payments Corporation of India (NPCI). NPCI taken over the operations of National Financial Switch (NFS) from the IDRBT in 2009.
+- **Logic:** National Financial Switch (NFS) is the largest network of shared Automated Teller Machines (ATMs) in India. It was designed, developed and deployed by the Institute for Development and Research in Banking Technology (IDRBT) in 2004, with the goal of interconnecting the ATMs in the country and facilitating convenience banking. It is run by the National Payments Corporation of India (NPCI). NPCI taken over the operations of National Financial Switch (NFS) from the IDRBT in 2009.
 </details>
 
 **Q201. A particle having at least one dimension less than 10–7 metre, is known as**
@@ -13506,7 +13505,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock & Core Concepts:** Among the above options, nanoparticles are particles having at least one dimension less than 10–7 metre. According to the definition, a nano-object have one of its characteristic dimensions to be in the range 1-100 nm (10–9 – 10–7m) to be classified as a nanoparticle.
+- **Logic:** Among the above options, nanoparticles are particles having at least one dimension less than 10–7 metre. According to the definition, a nano-object have one of its characteristic dimensions to be in the range 1-100 nm (10–9 – 10–7m) to be classified as a nanoparticle.
 </details>
 
 **Q202. Consider the following statements :**
@@ -13526,7 +13525,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock & Core Concepts:** Nanoparticles (NPs) are tiny materials having size ranging from 1 to 100 nm. Many of these are made by humans but they are also naturally produced by many cosmological, geological, meteorological, and biological processes. A significant fraction (by number, if not by mass) of interplanetary dust, that is still falling on the Earth at the rate of thousands of tonnes per year, is in the nanoparticle range; and the same is true of atmospheric dust particles. Many viruses also have diameters in the nanoparticle range. Hence, statement 1 is incorrect. Metal oxides in nanoparticle form such as zinc oxide and titanium dioxide now appear on the ingredient lists of household products as common and diverse as cosmetics, sunscreens, toothpastes, and medicines. Hence, statement 2 is correct. NPs of some commercial products which enter the environment are unsafe for humans. Inhaling certain nanosized particles may result in local lung inflammation, allergic responses or harmful effects on genes. Some particles may enter the bloodstream and accumulate in organs like the liver and spleen. Nanoparticulate matter is able to enter cells, which might in turn lead to direct and indirect genotoxic effects. Hence, statement 3 is correct.
+- **Logic:** Nanoparticles (NPs) are tiny materials having size ranging from 1 to 100 nm. Many of these are made by humans but they are also naturally produced by many cosmological, geological, meteorological, and biological processes. A significant fraction (by number, if not by mass) of interplanetary dust, that is still falling on the Earth at the rate of thousands of tonnes per year, is in the nanoparticle range; and the same is true of atmospheric dust particles. Many viruses also have diameters in the nanoparticle range. Hence, statement 1 is incorrect. Metal oxides in nanoparticle form such as zinc oxide and titanium dioxide now appear on the ingredient lists of household products as common and diverse as cosmetics, sunscreens, toothpastes, and medicines. Hence, statement 2 is correct. NPs of some commercial products which enter the environment are unsafe for humans. Inhaling certain nanosized particles may result in local lung inflammation, allergic responses or harmful effects on genes. Some particles may enter the bloodstream and accumulate in organs like the liver and spleen. Nanoparticulate matter is able to enter cells, which might in turn lead to direct and indirect genotoxic effects. Hence, statement 3 is correct.
 </details>
 
 **Q203. Which one of the following statements is correct?**
@@ -13539,7 +13538,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock & Core Concepts:** In 2012, the scientists of Munich University, Germany developed the first-ever 'nanoear' capable of detecting sound on microscopic length scale with an estimated sensitivity that is six orders of magnitude below the threshold of human hearing. The device is based on an optically trapped gold nanoparticle and it can detect sound/vibration levels as low as –60dB.
+- **Logic:** In 2012, the scientists of Munich University, Germany developed the first-ever 'nanoear' capable of detecting sound on microscopic length scale with an estimated sensitivity that is six orders of magnitude below the threshold of human hearing. The device is based on an optically trapped gold nanoparticle and it can detect sound/vibration levels as low as –60dB.
 </details>
 
 **Q204. With reference to carbon nanotubes, consider the**
@@ -13560,7 +13559,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock & Core Concepts:** Carbon nanotubes (CNTs) are allotropes of carbon made of graphite and constructed in cylindrical tubes with nanometre in diameter. CNTs have been successfully applied in pharmacy and medicine due to their high surface area that is capable of absorbing or conjugating with a wide variety of therapeutic and diagnostic agents (drugs, genes, vaccines, antibodies, biosensors, etc.). They have been first proven to be an excellent vehicle for drug delivery directly into cells without metabolism by the body. Hence, statement 1 is correct. NASA has successfully demonstrated biochemical sensors using carbon nanotube arrays. As per a September 2019 report of 'The Hindu', the Delhi - based researchers have fabricated a highly sensitive carbon nanotube-based sensor capable of detecting multidrug-resistant myeloid leukaemia cells. Thus, statement 3 is correct. Statement 4 is also correct as multiple types of microbes and enzymes have the ability to biodegrade carbon nanotubes, graphene and their derivatives and in the future, more species with this ability will be found. As per a research paper published in Science Daily in 2015, non-functionalised carbon nanotubes both soluble and surface-bound are not blood-compatible as scientists found that carbon nanotubes stimulate blood platelet activation, subsequently leading to serious and devastating blood clotting. Scientists are researching on carbon nanotubes and 3D bioprinting to create artificial blood vessels, but it is yet to be fully realized. So, statement 2 is incorrect in the present context.
+- **Logic:** Carbon nanotubes (CNTs) are allotropes of carbon made of graphite and constructed in cylindrical tubes with nanometre in diameter. CNTs have been successfully applied in pharmacy and medicine due to their high surface area that is capable of absorbing or conjugating with a wide variety of therapeutic and diagnostic agents (drugs, genes, vaccines, antibodies, biosensors, etc.). They have been first proven to be an excellent vehicle for drug delivery directly into cells without metabolism by the body. Hence, statement 1 is correct. NASA has successfully demonstrated biochemical sensors using carbon nanotube arrays. As per a September 2019 report of 'The Hindu', the Delhi - based researchers have fabricated a highly sensitive carbon nanotube-based sensor capable of detecting multidrug-resistant myeloid leukaemia cells. Thus, statement 3 is correct. Statement 4 is also correct as multiple types of microbes and enzymes have the ability to biodegrade carbon nanotubes, graphene and their derivatives and in the future, more species with this ability will be found. As per a research paper published in Science Daily in 2015, non-functionalised carbon nanotubes both soluble and surface-bound are not blood-compatible as scientists found that carbon nanotubes stimulate blood platelet activation, subsequently leading to serious and devastating blood clotting. Scientists are researching on carbon nanotubes and 3D bioprinting to create artificial blood vessels, but it is yet to be fully realized. So, statement 2 is incorrect in the present context.
 </details>
 
 **Q205. With reference to the use of nanotechnology in health**
@@ -13579,7 +13578,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock & Core Concepts:** Nanotechnology is a rapidly expanding area of research with huge potential in many sectors ranging from healthcare to construction and electronics. In medicine, it promises to revolutionize drug delivery, gene therapy, diagnostics and many areas of research, development and clinical application. Discovery of nanomedicine has given rise to nanoparticles through which better target specific drug and gene delivery is possible. Nanotechnology enables us to deliver the drug in the form of dendrimers, liposomes, nanoshells, emulsions, nanotubes, quantum dots etc. for the manipulation of various diseases and their metabolic pathway. It is of great importance in treatment and diagnosis of cancer. Hence, both given statements are correct.
+- **Logic:** Nanotechnology is a rapidly expanding area of research with huge potential in many sectors ranging from healthcare to construction and electronics. In medicine, it promises to revolutionize drug delivery, gene therapy, diagnostics and many areas of research, development and clinical application. Discovery of nanomedicine has given rise to nanoparticles through which better target specific drug and gene delivery is possible. Nanotechnology enables us to deliver the drug in the form of dendrimers, liposomes, nanoshells, emulsions, nanotubes, quantum dots etc. for the manipulation of various diseases and their metabolic pathway. It is of great importance in treatment and diagnosis of cancer. Hence, both given statements are correct.
 </details>
 
 **Q206. India's first nano-cellulose plant developed by ICARCIRCOT, Mumbai is related to :**
@@ -13592,7 +13591,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock & Core Concepts:** India's first nano-cellulose plant developed by ICARCIRCOT, Mumbai is related to cotton. This is first plant of its kind in India and unique in the world that can use cotton linters and cotton wastes as the raw material for preparation of nano-cellulose. The objective of nano-cellulose plant is to demonstrate ICAR-CIRCOT's technology to various stakeholders, product development, technology incubation and licensing.
+- **Logic:** India's first nano-cellulose plant developed by ICARCIRCOT, Mumbai is related to cotton. This is first plant of its kind in India and unique in the world that can use cotton linters and cotton wastes as the raw material for preparation of nano-cellulose. The objective of nano-cellulose plant is to demonstrate ICAR-CIRCOT's technology to various stakeholders, product development, technology incubation and licensing.
 </details>
 
 **Q207. The most important property of nanomaterials is –**
@@ -13605,7 +13604,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock & Core Concepts:** Friction is the most important property of nanomaterials.
+- **Logic:** Friction is the most important property of nanomaterials.
 </details>
 
 **Q208. If in a material one dimension is reduced to the Nano range while the other two dimensions remain large, the structure so obtained is known as :**
@@ -13618,7 +13617,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock & Core Concepts:** If one dimension is reduced to the nano range while the other dimensions remain large, them we obtain a structure known as quantum well. If two dimensions are so reduced and one remains large, the resulting structure is referred to as a quantum wire. The extreme case of this process of size reduction in which all three dimensions reach the low nanometer range is called a quantum dot.
+- **Logic:** If one dimension is reduced to the nano range while the other dimensions remain large, them we obtain a structure known as quantum well. If two dimensions are so reduced and one remains large, the resulting structure is referred to as a quantum wire. The extreme case of this process of size reduction in which all three dimensions reach the low nanometer range is called a quantum dot.
 </details>
 
 **Q209. A quantum dot is :**
@@ -13631,7 +13630,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock & Core Concepts:** Quantum dots (QDs) are semiconductor nanostructures which exhibit size and composition-dependent optical and electronic (optoelectronic) properties. QDs are ultrasmall, typically falling in the size range between 1.5 and 10.0 nm. Recently, QD nanotechnology has successfully entered numerous electronic and biomedical industries. QDs have been demonstrated successfully due to their unique properties including superior photostability, size-dependent optical properties, high extinction coefficient and brightness, and large Stokes shift.
+- **Logic:** Quantum dots (QDs) are semiconductor nanostructures which exhibit size and composition-dependent optical and electronic (optoelectronic) properties. QDs are ultrasmall, typically falling in the size range between 1.5 and 10.0 nm. Recently, QD nanotechnology has successfully entered numerous electronic and biomedical industries. QDs have been demonstrated successfully due to their unique properties including superior photostability, size-dependent optical properties, high extinction coefficient and brightness, and large Stokes shift.
 </details>
 
 **Q210. Arrange the following products/examples of nanotechnology in ascending order of the four generations**
@@ -13651,7 +13650,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock & Core Concepts:** The ascending order of the products/examples of four generations of Nanotechnology – (I) 	 Products of first 	 – 	 Aerosols, Colloids, generation Polymers, Ceramics (II) Products of second – Targeted drugs, 3-D generation	 	 transistors, Amplifiers (III) Products of Third – Robotics, 3-D Networking generation (IV) Products of Fourth – Molecular manufacturing generation From the above description it is clear that option (d) is the correct answer.
+- **Logic:** The ascending order of the products/examples of four generations of Nanotechnology – (I) 	 Products of first 	 – 	 Aerosols, Colloids, generation Polymers, Ceramics (II) Products of second – Targeted drugs, 3-D generation	 	 transistors, Amplifiers (III) Products of Third – Robotics, 3-D Networking generation (IV) Products of Fourth – Molecular manufacturing generation From the above description it is clear that option (d) is the correct answer.
 </details>
 
 **Q211. The first successful attempt to tap underground heat was made in :**
@@ -13664,7 +13663,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock & Core Concepts:** The first successful attempt (1890) to tap the underground heat was made in the city of Boise, Idaho (U.S.A.), where a hot water pipe network was built to give heat to the surrounding buildings. This plant is still working.
+- **Logic:** The first successful attempt (1890) to tap the underground heat was made in the city of Boise, Idaho (U.S.A.), where a hot water pipe network was built to give heat to the surrounding buildings. This plant is still working.
 </details>
 
 **Q212. What is the location of the Enron Power Project?**
@@ -13677,7 +13676,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock & Core Concepts:** A The Dabhol Power Company (DPC) was formed to manage Dabhol Power Plant. It was built through the combined effort of Enron, GE and Bechtel. It is located at Dabhol Guhagar Taluka, Ratnagiri district (Maharashtra). At present, it is owned by Ratnagiri Gas and Power Pvt. Ltd., a subsidiary of NTPC Ltd.
+- **Logic:** A The Dabhol Power Company (DPC) was formed to manage Dabhol Power Plant. It was built through the combined effort of Enron, GE and Bechtel. It is located at Dabhol Guhagar Taluka, Ratnagiri district (Maharashtra). At present, it is owned by Ratnagiri Gas and Power Pvt. Ltd., a subsidiary of NTPC Ltd.
 </details>
 
 **Q213. Which of the following thermal power stations is situated at Chachai of Anuppur district?**
@@ -13690,7 +13689,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock & Core Concepts:** Amarkantak thermal power station is situated at Chachai of Anuppur district, Madhya Pradesh. It is one of the coal-fired power station of M.P. Power Generation Company Limited (MPPGCL).
+- **Logic:** Amarkantak thermal power station is situated at Chachai of Anuppur district, Madhya Pradesh. It is one of the coal-fired power station of M.P. Power Generation Company Limited (MPPGCL).
 </details>
 
 **Q214. The theme of Indian Science Congress 2001 was :**
@@ -13703,7 +13702,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock & Core Concepts:** The 88th Indian Science Congress (ISC) conference was held between 3 to 7 January, 2001 in New Delhi. The Main theme of this conference was 'Food, Nutrition, and Environmental Security'. In January 2023, 108th ISC was held at R.T.M. Nagpur University with the focal theme of 'Science and Technology for Sustainable Development with Women Empowerment'.
+- **Logic:** The 88th Indian Science Congress (ISC) conference was held between 3 to 7 January, 2001 in New Delhi. The Main theme of this conference was 'Food, Nutrition, and Environmental Security'. In January 2023, 108th ISC was held at R.T.M. Nagpur University with the focal theme of 'Science and Technology for Sustainable Development with Women Empowerment'.
 </details>
 
 **Q215. Which of the following was NOT the outcome of Science, Technology and Innovation Policy 2020?**
@@ -13716,7 +13715,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock & Core Concepts:** Among the given options, ‘One Nation, One Subscription’ and the ‘Research and Innovation Excellence Framework’ (RIEF) were initiatives proposed in the Science, Technology and Innovation Policy 2020, whereas the Atal Innovation Mission was launched in 2016.
+- **Logic:** Among the given options, ‘One Nation, One Subscription’ and the ‘Research and Innovation Excellence Framework’ (RIEF) were initiatives proposed in the Science, Technology and Innovation Policy 2020, whereas the Atal Innovation Mission was launched in 2016.
 </details>
 
 **Q216. Which one of the following organizations won the CSIR Award for Science and Technology (S&T) Innovations for Rural Development, 2006 ?**
@@ -13729,7 +13728,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock & Core Concepts:** On September 26, 2006 the then Prime Minister Dr. Manmohan Singh gave away the CSIR award for S&T Innovations for Rural Development to Central Leather Research Institute (CLRI), Chennai at Vigyan Bhawan, New Delhi.
+- **Logic:** On September 26, 2006 the then Prime Minister Dr. Manmohan Singh gave away the CSIR award for S&T Innovations for Rural Development to Central Leather Research Institute (CLRI), Chennai at Vigyan Bhawan, New Delhi.
 </details>
 
 **Q217. Who among the following was awarded Padma Vibhushan- 2023 inthefieldof Science andEngineering?**
@@ -13742,7 +13741,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock & Core Concepts:** Padma Vibushan-2023 in the field of Science and Engineering was awarded to Shri S.R. Srinivasa Varadhan of U.S.A. He is an Indian-American mathematician. He is known for his fundamental contributions to probability theory and in particular for creating a unified theory of large deviations. In the year 2007, he became the first Asian to win the Abel Prize.
+- **Logic:** Padma Vibushan-2023 in the field of Science and Engineering was awarded to Shri S.R. Srinivasa Varadhan of U.S.A. He is an Indian-American mathematician. He is known for his fundamental contributions to probability theory and in particular for creating a unified theory of large deviations. In the year 2007, he became the first Asian to win the Abel Prize.
 </details>
 
 **Q218. Which of the following statements is/ are correct**
@@ -13765,7 +13764,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock & Core Concepts:** National Innovation Foundation–India (NIF) is an autonomous body of the Department of Science and Technology, Government of India. It started functioning in March, 2000 as India’s national initiative to strengthen the grassroots technological innovations and outstanding traditional knowledge. Its mission is to help India become a creative and knowledge-based society by expanding policy and institutional space for grassroots technological innovators. Hence, only statement 1 is correct.
+- **Logic:** National Innovation Foundation–India (NIF) is an autonomous body of the Department of Science and Technology, Government of India. It started functioning in March, 2000 as India’s national initiative to strengthen the grassroots technological innovations and outstanding traditional knowledge. Its mission is to help India become a creative and knowledge-based society by expanding policy and institutional space for grassroots technological innovators. Hence, only statement 1 is correct.
 </details>
 
 **Q219. Match list-I with List-II and select the correct answer**
@@ -13786,7 +13785,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock & Core Concepts:** Chevron Corporation is an American multinational energy corporation. It is headquartered in San Roman, California and active in more than 180 countries. Chevron is engaged in every aspect of the oil, natural gas, and geothermal energy industries. AT&T is an American multinational telecommunications corporation headquartered at Whitacre Tower in Dallas, Texas. AMD (Advanced Micro Device) Inc. is an American multinational fabless semiconductor company based in Santa Clara, California, United States. AMD designs, develops and sells computer processors and related technologies for business and consumer markets. ENERCON GmbH is a German multinational wind turbine manufacturer company. It was established in 1984 by Aloys Wobben.
+- **Logic:** Chevron Corporation is an American multinational energy corporation. It is headquartered in San Roman, California and active in more than 180 countries. Chevron is engaged in every aspect of the oil, natural gas, and geothermal energy industries. AT&T is an American multinational telecommunications corporation headquartered at Whitacre Tower in Dallas, Texas. AMD (Advanced Micro Device) Inc. is an American multinational fabless semiconductor company based in Santa Clara, California, United States. AMD designs, develops and sells computer processors and related technologies for business and consumer markets. ENERCON GmbH is a German multinational wind turbine manufacturer company. It was established in 1984 by Aloys Wobben.
 </details>
 
 **Q220. 'Dakshin Gangotri' is located in –**
@@ -13799,7 +13798,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock & Core Concepts:** Dakshin Gangotri, the first permanent research station of India was established in Antarctica. It was built up in 1984 and buried in 1990. MAITRI, India's second permanent research base in Antarctica was built and finished in 1989. BHARATI, India's third and newest permanent research base which is situated on a rocky promontory fringing the Prydz Bay between Storns and Broknes Peninsula in the Larsemann Hill area. It was commissioned on 18 March, 2012.
+- **Logic:** Dakshin Gangotri, the first permanent research station of India was established in Antarctica. It was built up in 1984 and buried in 1990. MAITRI, India's second permanent research base in Antarctica was built and finished in 1989. BHARATI, India's third and newest permanent research base which is situated on a rocky promontory fringing the Prydz Bay between Storns and Broknes Peninsula in the Larsemann Hill area. It was commissioned on 18 March, 2012.
 </details>
 
 **Q221. The term ‘IndARC’, sometimes seen in the news, is the name of :**
@@ -13812,7 +13811,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock & Core Concepts:** India’s first multi-sensor underwater moored observatory 'IndARC' was successfully deployed in Kongsfjorden of the Arctic roughly halfway between the North Pole and Norway on July 23, 2014.
+- **Logic:** India’s first multi-sensor underwater moored observatory 'IndARC' was successfully deployed in Kongsfjorden of the Arctic roughly halfway between the North Pole and Norway on July 23, 2014.
 </details>
 
 **Q222. When was the undersea cable-based Chennai Andaman and Nicobar (CANI) Project inaugurated and dedicated to the nation by Prime Minister Shri Narendra Modi ?**
@@ -13825,7 +13824,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock & Core Concepts:** Prime Minister Shri Narendra Modi on 10 August, 2020 launched and dedicated to the nation, the Chennai-Andaman & Nicobar Islands (CANI) submarine Optical Fibre Cable (OFC) connecting Andaman & Nicobar Islands to the mainland (Chennai) through video conferencing. The foundation stone for this project was laid by the PM on 30 December, 2018 at Port Blair. Earlier, A&N Islands were connected to the mainland through Satellite link with limited bandwidth capacity with high latency. Hence, the Government of India decided to install Submarine Optical link from the Mainland (Chennai) to A&N Islands to provide high speed internet connectivity.
+- **Logic:** Prime Minister Shri Narendra Modi on 10 August, 2020 launched and dedicated to the nation, the Chennai-Andaman & Nicobar Islands (CANI) submarine Optical Fibre Cable (OFC) connecting Andaman & Nicobar Islands to the mainland (Chennai) through video conferencing. The foundation stone for this project was laid by the PM on 30 December, 2018 at Port Blair. Earlier, A&N Islands were connected to the mainland through Satellite link with limited bandwidth capacity with high latency. Hence, the Government of India decided to install Submarine Optical link from the Mainland (Chennai) to A&N Islands to provide high speed internet connectivity.
 </details>
 
 **Q223. What is the name of the deep-sea submersible that imploded during an underwater voyage to the Titanic wreckage?**
@@ -13838,7 +13837,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock & Core Concepts:** On 18 June 2023, Titan, a deep-sea submersible operated by the American tourism and expeditions company OceanGate, imploded during an expedition to view the wreck of the Titanic in the North Atlantic Ocean off the coast of New Foundland, Canada.
+- **Logic:** On 18 June 2023, Titan, a deep-sea submersible operated by the American tourism and expeditions company OceanGate, imploded during an expedition to view the wreck of the Titanic in the North Atlantic Ocean off the coast of New Foundland, Canada.
 </details>
 
 **Q224. Which one of the following statements best describes the 'Polar Code'?**
@@ -13851,7 +13850,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock & Core Concepts:** International Maritime Organization (IMO)'s International Code for Ships Operating in Polar Waters (Polar Code) is mandatory under both the International Convention for the Safety of Life at Sea (SOLAS) and the International Convention for the Prevention of Pollution from Ships (MARPOL). The Polar Code covers the full range of design, construction, equipment, operational, training, search and rescue and environmental protection matters relevant to ships operating in the inhospitable waters surrounding the two poles. The Polar Code entered into force on 1 January, 2017.
+- **Logic:** International Maritime Organization (IMO)'s International Code for Ships Operating in Polar Waters (Polar Code) is mandatory under both the International Convention for the Safety of Life at Sea (SOLAS) and the International Convention for the Prevention of Pollution from Ships (MARPOL). The Polar Code covers the full range of design, construction, equipment, operational, training, search and rescue and environmental protection matters relevant to ships operating in the inhospitable waters surrounding the two poles. The Polar Code entered into force on 1 January, 2017.
 </details>
 
 **Q225. Which one of the following is paramagnetic in nature?**
@@ -13864,7 +13863,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock & Core Concepts:** Paramagnetism is a form of magnetism whereby certain materials are attracted by an externally applied magnetic field and form internal, induced magnetic fields in the direction of the applied magnetic field. Oxygen, Platinum, Sodium, Aluminium, Manganese, Potassium and Chromium are paramagnetic in nature.
+- **Logic:** Paramagnetism is a form of magnetism whereby certain materials are attracted by an externally applied magnetic field and form internal, induced magnetic fields in the direction of the applied magnetic field. Oxygen, Platinum, Sodium, Aluminium, Manganese, Potassium and Chromium are paramagnetic in nature.
 </details>
 
 **Q226. The magnetic needle points to –**
@@ -13877,7 +13876,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock & Core Concepts:** The magnetic needle points to north. All magnets have two poles, north pole and south pole. The north pole of one magnet is attracted to the south pole of the another magnet. The earth is a magnet that can interact with other magnets in this way. So the north end of a compass magnet is drawn to align with the earth's magnetic field. Because the earth's magnetic north pole attracts the 'north' ends of other magnets, it is technically the 'south pole' of our planet's magnetic field.
+- **Logic:** The magnetic needle points to north. All magnets have two poles, north pole and south pole. The north pole of one magnet is attracted to the south pole of the another magnet. The earth is a magnet that can interact with other magnets in this way. So the north end of a compass magnet is drawn to align with the earth's magnetic field. Because the earth's magnetic north pole attracts the 'north' ends of other magnets, it is technically the 'south pole' of our planet's magnetic field.
 </details>
 
 **Q227. In an electronic watch, the component corresponding to pendulum of a pendulum clock is a :**
@@ -13890,7 +13889,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock & Core Concepts:** In an electronic watch 'Crystal Oscillator' is used as its timekeeping element, while the pendulum clock uses a pendulum that is a swinging weight as its timekeeping element. A crystal oscillator uses the inverse piezoelectric effect to convert vibrations into stable oscillations. It works by applying an alternating voltage to a crystal, causing it to vibrate at its natural frequency.
+- **Logic:** In an electronic watch 'Crystal Oscillator' is used as its timekeeping element, while the pendulum clock uses a pendulum that is a swinging weight as its timekeeping element. A crystal oscillator uses the inverse piezoelectric effect to convert vibrations into stable oscillations. It works by applying an alternating voltage to a crystal, causing it to vibrate at its natural frequency.
 </details>
 
 **Q228. The working of the quartz crystal in the watch is based on the :**
@@ -13903,7 +13902,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock & Core Concepts:** The working of the quartz crystal in watch is based on piezoelectric effect. The piezoelectric effect is the ability of certain materials to generate an electric charge in response to applied mechanical stress.
+- **Logic:** The working of the quartz crystal in watch is based on piezoelectric effect. The piezoelectric effect is the ability of certain materials to generate an electric charge in response to applied mechanical stress.
 </details>
 
 **Q229. Full form of MOEMS is :**
@@ -13916,7 +13915,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock & Core Concepts:** Full form of MOEMS is 'Micro-Opto-Electro-MechanicalSystems'. MOEMS, also known as optical MEMs, are integrations of mechanical, optical, and electrical systems that involves sensing or manipulating optical signals at a very small size. MOEMS includes a wide variety of devices (e.g. optical switch, microbolometers, tunable VCSEL etc.), which are usually fabricated using micro-optics and standard micromatching technologies using materials like silicon, silicon dioxide and gallium arsenide.
+- **Logic:** Full form of MOEMS is 'Micro-Opto-Electro-MechanicalSystems'. MOEMS, also known as optical MEMs, are integrations of mechanical, optical, and electrical systems that involves sensing or manipulating optical signals at a very small size. MOEMS includes a wide variety of devices (e.g. optical switch, microbolometers, tunable VCSEL etc.), which are usually fabricated using micro-optics and standard micromatching technologies using materials like silicon, silicon dioxide and gallium arsenide.
 </details>
 
 **Q230. What does 'PUMA' stands in context of Robotics?**
@@ -13929,7 +13928,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock & Core Concepts:** Programmable Universal Machine for Assembly (PUMA) or Programmable Universal Manipulation Arm (PUMA) is an industrial robot arm developed by Victor Scheinman at the pioneering robot company Unimation. Initially developed for General Motors, the PUMA was based on earlier designs Scheinman invented while at Stanford University, USA.
+- **Logic:** Programmable Universal Machine for Assembly (PUMA) or Programmable Universal Manipulation Arm (PUMA) is an industrial robot arm developed by Victor Scheinman at the pioneering robot company Unimation. Initially developed for General Motors, the PUMA was based on earlier designs Scheinman invented while at Stanford University, USA.
 </details>
 
 **Q231. Consider the following activities:**
@@ -13948,7 +13947,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock & Core Concepts:** Radar, or radio detection and ranging, uses radio waves to detect and locate objects by transmitting pulses and analyzing the reflected signals. Radars today are used to detect and track aircraft, spacecraft, and ships at sea as well as insects and birds in the atmosphere; measure the speed of automobiles; map the surface of the Earth from space; and measure properties of the atmosphere and oceans. Weather radar, also called weather surveillance radar (WSR) and Doppler weather radar, is a type of radar used to locate precipitation, calculate its motion, and estimate its type (rain, snow, hail etc.). Hence, point 2 is correct. Radar can be used to track the migration of animals such as birds, bats, and insects. The NEXRAD Doppler system is one type of radar that can determine the speed and direction of migrating animals, whether they are moving towards or away from the radar. Hence, point 3 is correct. Radar is not used for identification of narcotics on passengers at airports or in aircraft. Trace detectors for narcotics are handheld electronic devices that use spectroscopic methods of detection to identify a range of illegal drugs. Hence, point 1 is incorrect. Thus, option (b) is the correct answer.
+- **Logic:** Radar, or radio detection and ranging, uses radio waves to detect and locate objects by transmitting pulses and analyzing the reflected signals. Radars today are used to detect and track aircraft, spacecraft, and ships at sea as well as insects and birds in the atmosphere; measure the speed of automobiles; map the surface of the Earth from space; and measure properties of the atmosphere and oceans. Weather radar, also called weather surveillance radar (WSR) and Doppler weather radar, is a type of radar used to locate precipitation, calculate its motion, and estimate its type (rain, snow, hail etc.). Hence, point 2 is correct. Radar can be used to track the migration of animals such as birds, bats, and insects. The NEXRAD Doppler system is one type of radar that can determine the speed and direction of migrating animals, whether they are moving towards or away from the radar. Hence, point 3 is correct. Radar is not used for identification of narcotics on passengers at airports or in aircraft. Trace detectors for narcotics are handheld electronic devices that use spectroscopic methods of detection to identify a range of illegal drugs. Hence, point 1 is incorrect. Thus, option (b) is the correct answer.
 </details>
 
 **Q232. Consider the following activities :**
@@ -13968,7 +13967,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock & Core Concepts:** At the present level of technology, drones can be used for spraying pesticides on a crop field, for inspecting the craters of active volcanoes and also for collecting breath samples from spouting whales for DNA analysis. As per an article of December, 2019 farmers of Khammam district (Telangana) are hiring drones to spray pesticides in their fields. Drones can capture images of erupting volcano craters that would be impossible to get otherwise. Researchers are already using drones at volcanoes in Indonesia and Guatemala, etc. In 2017, for the first time, scientists successfully used drone to gather samples of the fluids exhaled by spouting humpback whales for DNA analysis and tracking their health.
+- **Logic:** At the present level of technology, drones can be used for spraying pesticides on a crop field, for inspecting the craters of active volcanoes and also for collecting breath samples from spouting whales for DNA analysis. As per an article of December, 2019 farmers of Khammam district (Telangana) are hiring drones to spray pesticides in their fields. Drones can capture images of erupting volcano craters that would be impossible to get otherwise. Researchers are already using drones at volcanoes in Indonesia and Guatemala, etc. In 2017, for the first time, scientists successfully used drone to gather samples of the fluids exhaled by spouting humpback whales for DNA analysis and tracking their health.
 </details>
 
 **Q233. When and where was the Central Electrochemical Research Institute established with the efforts of Alagappa Chettiar, Dr. Shanti Swaroop Bhatnagar and Pt. Jawahar Lal Nehru?**
@@ -13981,7 +13980,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock & Core Concepts:** Central Electrochemical Research Institute (CECRI), founded in 1948, has its roots in the patriotic fervor of Dr. R.M. Alagappa Chettiar, Pandit Jawaharlal Nehru and Dr. Shanthi Swarup Bhatnagar. On January 14, 1953 CECRI became a physical reality when Dr. S. Radhakrishnan dedicated CECRI in Karaikudi (Tamil Nadu), the twelfth national laboratory under the CSIR, to the nation. CECRI represents the largest research establishment for electrochemistry in South Asia, Headquartered at Karaikudi, CECRI has extension centers in Chennai, Mandapam and Tuticorin.
+- **Logic:** Central Electrochemical Research Institute (CECRI), founded in 1948, has its roots in the patriotic fervor of Dr. R.M. Alagappa Chettiar, Pandit Jawaharlal Nehru and Dr. Shanthi Swarup Bhatnagar. On January 14, 1953 CECRI became a physical reality when Dr. S. Radhakrishnan dedicated CECRI in Karaikudi (Tamil Nadu), the twelfth national laboratory under the CSIR, to the nation. CECRI represents the largest research establishment for electrochemistry in South Asia, Headquartered at Karaikudi, CECRI has extension centers in Chennai, Mandapam and Tuticorin.
 </details>
 
 **Q234. When and with whose efforts was Indian Institute of Science established in Bangalore?**
@@ -13994,7 +13993,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock & Core Concepts:** The Indian Institute of Science (IISc) is a public, deemed, research university for higher education and research in science, engineering, design, and management. It is located in Bengaluru, in the Indian state of Karnataka. The institute was established in 1909 with active support from Jamshedji Tata.
+- **Logic:** The Indian Institute of Science (IISc) is a public, deemed, research university for higher education and research in science, engineering, design, and management. It is located in Bengaluru, in the Indian state of Karnataka. The institute was established in 1909 with active support from Jamshedji Tata.
 </details>
 
 **Q235. Which of these companies is established by Government of Rajasthan with the aim to regulate developing needs of Information Technology skills in 21st century?**
@@ -14007,7 +14006,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock & Core Concepts:** The RKCL – Rajasthan Knowledge Corporation Limited is a Public Limited Company established by the Government of Rajasthan. The main objective of company is to develop a new educational framework which can plan, implement, supervise and regulate the developing needs for IT skills in the 21st century in the State of Rajasthan.
+- **Logic:** The RKCL – Rajasthan Knowledge Corporation Limited is a Public Limited Company established by the Government of Rajasthan. The main objective of company is to develop a new educational framework which can plan, implement, supervise and regulate the developing needs for IT skills in the 21st century in the State of Rajasthan.
 </details>
 
 **Q236. The National Centre for Earth Science Studies (NCESS) is situated in which State?**
@@ -14020,7 +14019,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock & Core Concepts:** The National Centre for Earth Science Studies (NCESS) is an autonomous research centre to promote scientific and technological research and development studies in the earth sciences. NCESS pursues problems related to land, sea and atmosphere. It was instituted by the government of Kerala as CESS in 1978, at Thiruvananthapuram, Kerala. CESS was the earliest institute in the country to embrace the concept of Earth System Science (ESS). At present, it is an autonomous institute under the Earth System Science Organization (ESSO) of Ministry of Earth Sciences, Government of India.
+- **Logic:** The National Centre for Earth Science Studies (NCESS) is an autonomous research centre to promote scientific and technological research and development studies in the earth sciences. NCESS pursues problems related to land, sea and atmosphere. It was instituted by the government of Kerala as CESS in 1978, at Thiruvananthapuram, Kerala. CESS was the earliest institute in the country to embrace the concept of Earth System Science (ESS). At present, it is an autonomous institute under the Earth System Science Organization (ESSO) of Ministry of Earth Sciences, Government of India.
 </details>
 
 **Q237. Which of the following is not correctly matched?**
@@ -14033,7 +14032,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock & Core Concepts:** The Central Institute of Indian Languages is an Indian research and teaching institute based in Mysuru, not in Mumbai. Other given pairs are correctly matched.
+- **Logic:** The Central Institute of Indian Languages is an Indian research and teaching institute based in Mysuru, not in Mumbai. Other given pairs are correctly matched.
 </details>
 
 **Q238. Match List-I with List-II and select the correct answer**
@@ -14058,7 +14057,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock & Core Concepts:** Central Institute of Higher Tibetan Studies – Varanasi Indira Gandhi Institute of Development Research – Mumbai National Institute of Mental Health and Neuro Sciences – Bengaluru Central Institute of English and Foreign Languages (Present name : The English and Foreign Languages University) – Hyderabad
+- **Logic:** Central Institute of Higher Tibetan Studies – Varanasi Indira Gandhi Institute of Development Research – Mumbai National Institute of Mental Health and Neuro Sciences – Bengaluru Central Institute of English and Foreign Languages (Present name : The English and Foreign Languages University) – Hyderabad
 </details>
 
 **Q239. When the metric system was introduced in India –**
@@ -14071,7 +14070,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock & Core Concepts:** The metric system (decimal system) in India was introduced on April 1, 1957. The coins minted between 1957 to 1964 called 'Naya Paisa' (New Paisa).
+- **Logic:** The metric system (decimal system) in India was introduced on April 1, 1957. The coins minted between 1957 to 1964 called 'Naya Paisa' (New Paisa).
 </details>
 
 **Q240. Match List-I with List-II and select the correct answer**
@@ -14094,7 +14093,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock & Core Concepts:** John C. Mather is a senior astrophysicist in the Observational Cosmology Laboratory located at NASA, Greenbelt. He was awarded 2006 Nobel Prize for physics, jointly with George F. Smoot. Michael Griffin served as administrator of NASA from April 13, 2005 to January 20, 2009. Paul G. Allen was the co-founder of Microsoft. He associated with Bill Gates in 1975. Piers J. Sellers was selected as an astronaut candidate by NASA in April 1996. He had logged a total of 34 days, 23 hours, 03 minutes and 56 seconds in space including almost 4 EVA hours in six space walks.
+- **Logic:** John C. Mather is a senior astrophysicist in the Observational Cosmology Laboratory located at NASA, Greenbelt. He was awarded 2006 Nobel Prize for physics, jointly with George F. Smoot. Michael Griffin served as administrator of NASA from April 13, 2005 to January 20, 2009. Paul G. Allen was the co-founder of Microsoft. He associated with Bill Gates in 1975. Piers J. Sellers was selected as an astronaut candidate by NASA in April 1996. He had logged a total of 34 days, 23 hours, 03 minutes and 56 seconds in space including almost 4 EVA hours in six space walks.
 </details>
 
 **Q241. Consider the followings about Raja Ramanna :**
@@ -14115,7 +14114,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock & Core Concepts:** Raja Ramanna was a multifaceted personality. An eminent nuclear physicist, a highly accomplished technologist, an able administrator and a gifted musician. He had directed the team of scientists which carried out the India’s first peaceful nuclear experiment in Rajasthan. He was awarded Padma Vibhusana Award in 1975. He also served as the Minister of State for Defence in the Union Cabinet (January to November 1990). The book 'The structure of music in Raga and Western System' (1993) was written by him.
+- **Logic:** Raja Ramanna was a multifaceted personality. An eminent nuclear physicist, a highly accomplished technologist, an able administrator and a gifted musician. He had directed the team of scientists which carried out the India’s first peaceful nuclear experiment in Rajasthan. He was awarded Padma Vibhusana Award in 1975. He also served as the Minister of State for Defence in the Union Cabinet (January to November 1990). The book 'The structure of music in Raga and Western System' (1993) was written by him.
 </details>
 
 **Q242. Which of the following statements is true?**
@@ -14128,7 +14127,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock & Core Concepts:** Johns Hopkins was born on May 19, 1795 in Maryland. He was the founder of 'John Hopkins University' and John Hopkins Hospital. Dr. Samuel Hahnemann was the actual founder of Homeopathy. Charles Darwin, who was born in Shrewsbury, Shrophire, England, on 12 February 1809, propounded the 'Theory of Evolution'. Carbon monoxide is not absorbed by the plants. Hence, it creates more air pollution. Vasco-de-Gama was a Portuguese explorer. He was the first European to reach India by sea, while America was discovered by Christopher Columbus.
+- **Logic:** Johns Hopkins was born on May 19, 1795 in Maryland. He was the founder of 'John Hopkins University' and John Hopkins Hospital. Dr. Samuel Hahnemann was the actual founder of Homeopathy. Charles Darwin, who was born in Shrewsbury, Shrophire, England, on 12 February 1809, propounded the 'Theory of Evolution'. Carbon monoxide is not absorbed by the plants. Hence, it creates more air pollution. Vasco-de-Gama was a Portuguese explorer. He was the first European to reach India by sea, while America was discovered by Christopher Columbus.
 </details>
 
 **Q243. What was the fissionable material used in the bombs dropped at Nagasaki (Japan) in the year 1945 ?**
@@ -14141,7 +14140,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock & Core Concepts:** 'Fat Man' was the code name for the type of bomb which was dropped on the Japanese city of Nagasaki on 9 August, 1945 by the United States of America. Plutonium was used as fissionable material in this bomb. On the other hand ‘Little Boy’ which was dropped on the Japanese city of Hiroshima on 6 August, 1945 used Uranium as fissionable material.
+- **Logic:** 'Fat Man' was the code name for the type of bomb which was dropped on the Japanese city of Nagasaki on 9 August, 1945 by the United States of America. Plutonium was used as fissionable material in this bomb. On the other hand ‘Little Boy’ which was dropped on the Japanese city of Hiroshima on 6 August, 1945 used Uranium as fissionable material.
 </details>
 
 **Q244. Which country has test-launched first 3D television broadcast?**
@@ -14154,7 +14153,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock & Core Concepts:** On April 29, 1953, Los Angeles television station KECA broadcasted an episode of the sci-fi program Space Patrol in 3D. The event was a technology demonstration for the 31st Annual National Television and Radio Broadcasters Convention, which was held in Los Angeles that week. Viewers were required to wear special 3D glasses created by Polaroid; otherwise, the show appeared as an indistinct blur. It was the first 3D television broadcast in the world.
+- **Logic:** On April 29, 1953, Los Angeles television station KECA broadcasted an episode of the sci-fi program Space Patrol in 3D. The event was a technology demonstration for the 31st Annual National Television and Radio Broadcasters Convention, which was held in Los Angeles that week. Viewers were required to wear special 3D glasses created by Polaroid; otherwise, the show appeared as an indistinct blur. It was the first 3D television broadcast in the world.
 </details>
 
 **Q245. Consider the following statements : Statement I : Some rare earth elements are used in the manufacture of flat television screens and computer monitors. Statement II : Some rare earth elements have phosphorescent properties. Which one of the following is correct in respect of the above statements?**
@@ -14167,7 +14166,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock & Core Concepts:** Rare Earth Elements (REEs) such as Europium (Eu), Terbium (Tb), Yttrium (Y), etc., are very important in modern electronic devices. REEs are used in smartphones, flat-screen televisions, computer monitors, and other electronic displays. To produce colours on TV and monitor screens, REE-based phosphors are used, which have phosphorescent properties. Due to their phosphorescent/luminescent properties, they are suitable for generating light and colour. Thus, both statements are correct, and Statement II also explains Statement I.
+- **Logic:** Rare Earth Elements (REEs) such as Europium (Eu), Terbium (Tb), Yttrium (Y), etc., are very important in modern electronic devices. REEs are used in smartphones, flat-screen televisions, computer monitors, and other electronic displays. To produce colours on TV and monitor screens, REE-based phosphors are used, which have phosphorescent properties. Due to their phosphorescent/luminescent properties, they are suitable for generating light and colour. Thus, both statements are correct, and Statement II also explains Statement I.
 </details>
 
 **Q246. Organic Light Emitting Diodes (OLEDs) are used to**
@@ -14189,7 +14188,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock & Core Concepts:** An organic light-emitting diode (OLED) is a light-emitting diode (LED) in which the emissive electroluminescent layer is a film of organic compound that emits light in response to an electric current. OLED displays can be fabricated on flexible plastic substrates.Thusstatement 1 is correct. Roll-up displays embedded in clothing can be made using OLEDs. Transparent displays are also possible using OLEDs. Hence, statement 2 and 3 are also correct.
+- **Logic:** An organic light-emitting diode (OLED) is a light-emitting diode (LED) in which the emissive electroluminescent layer is a film of organic compound that emits light in response to an electric current. OLED displays can be fabricated on flexible plastic substrates.Thusstatement 1 is correct. Roll-up displays embedded in clothing can be made using OLEDs. Transparent displays are also possible using OLEDs. Hence, statement 2 and 3 are also correct.
 </details>
 
 **Q247. With a 16 : 9 picture aspect ratio, display resolution 1080p means :**
@@ -14202,7 +14201,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock & Core Concepts:** With a 16 : 9 picture aspect ratio, display resolution 1080p means 1920 × 1080 pixels. It is usually known as FHD or 'Full HD' resolution. 1080p is a set of HDTV high-definition video modes characterized by 1920 pixels displayed across the screen horizontally and 1080 pixels down the screen vertically.
+- **Logic:** With a 16 : 9 picture aspect ratio, display resolution 1080p means 1920 × 1080 pixels. It is usually known as FHD or 'Full HD' resolution. 1080p is a set of HDTV high-definition video modes characterized by 1920 pixels displayed across the screen horizontally and 1080 pixels down the screen vertically.
 </details>
 
 **Q248. Name of first 3d printed humanoid robot in India is:**
@@ -14215,7 +14214,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock & Core Concepts:** ‘Manav’ is a humanoid robot developed in the laboratory of A-SET Training and Research Institutes by Diwakar Vaish (Head of Robotics and Research, A-SET Training and Research Institutes) in late December 2014. It debuted at the IIT-Bombay Techfest 2014-2015 in Mumbai. It's a 2-foot tall, 2-kilogram robot designed for research purposes. Manav has vision and sound processing capabilities and can perform tasks like walking, talking and even dancing. It is built with 21 sensors, two cameras in its eye sockets and two mikes on either side of its head.
+- **Logic:** ‘Manav’ is a humanoid robot developed in the laboratory of A-SET Training and Research Institutes by Diwakar Vaish (Head of Robotics and Research, A-SET Training and Research Institutes) in late December 2014. It debuted at the IIT-Bombay Techfest 2014-2015 in Mumbai. It's a 2-foot tall, 2-kilogram robot designed for research purposes. Manav has vision and sound processing capabilities and can perform tasks like walking, talking and even dancing. It is built with 21 sensors, two cameras in its eye sockets and two mikes on either side of its head.
 </details>
 
 **Q249. What is the name of Tesla's humanoid robot launched in October, 2022?**
@@ -14228,7 +14227,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock & Core Concepts:** Tesla CEO Elon Musk revealed the prototype of its humanoid robot 'Optimus' in October, 2022. It was said that Optimus shares some Al software and sensors with its Tesla cars' Autopilot driver assistance features. Optimus has the ability to self-calibrate its arms and legs and can locate its limbs in space using vision and joint position encoders.
+- **Logic:** Tesla CEO Elon Musk revealed the prototype of its humanoid robot 'Optimus' in October, 2022. It was said that Optimus shares some Al software and sensors with its Tesla cars' Autopilot driver assistance features. Optimus has the ability to self-calibrate its arms and legs and can locate its limbs in space using vision and joint position encoders.
 </details>
 
 **Q250. Which of the following is not an advantage of Robots?**
@@ -14241,7 +14240,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock & Core Concepts:** One of the most significant disadvantages of robots, is that the use of robots can lead to job losses for human workers, particularly those in low-skill, repetitive jobs. Thus, this is not an advantage of robots. Other three given statements are the advantages of robots.
+- **Logic:** One of the most significant disadvantages of robots, is that the use of robots can lead to job losses for human workers, particularly those in low-skill, repetitive jobs. Thus, this is not an advantage of robots. Other three given statements are the advantages of robots.
 </details>
 
 **Q251. Which one of the following not-for-profit organization is the apex body for setting up standards in Robotics and Automation in India?**
@@ -14254,7 +14253,7 @@ Other open documents:
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock & Core Concepts:** All India Council for Robotics & Automation (AICRA), a not-for-profit organization, is the apex body for setting up standards in Robotics and Automation in India. Established in 2014 and ever since, AICRA's relentless pursuit has been to constantly support the Robotics & Automation industry, providing support systems to institutions such as quality assurance, information systems and train-the-trainer (TTT) academies either directly or through partnerships. AICRA is focused on building the architecture integral to the development of the automation sector through policy advocacy, and help in setting up the strategic direction for the sector to unleash its potential and dominate newer frontiers.
+- **Logic:** All India Council for Robotics & Automation (AICRA), a not-for-profit organization, is the apex body for setting up standards in Robotics and Automation in India. Established in 2014 and ever since, AICRA's relentless pursuit has been to constantly support the Robotics & Automation industry, providing support systems to institutions such as quality assurance, information systems and train-the-trainer (TTT) academies either directly or through partnerships. AICRA is focused on building the architecture integral to the development of the automation sector through policy advocacy, and help in setting up the strategic direction for the sector to unleash its potential and dominate newer frontiers.
 </details>
 
 ## Practice Zone — UPPCS Format Drill
@@ -14272,7 +14271,7 @@ Which of the statements given above are correct?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (D) 1, 2 and 3
-- **Exam Lock & Core Concepts:** Mission Divyastra on 11 March 2024 marked India's successful maiden flight test of the indigenously developed Agni-V missile with MIRV capability, placing India among an elite group of nations possessing this strategic capability.
+- **Logic:** Mission Divyastra on 11 March 2024 marked India's successful maiden flight test of the indigenously developed Agni-V missile with MIRV capability, placing India among an elite group of nations possessing this strategic capability.
 </details>
 
 **Q2. With reference to the 'Pralay' missile, consider the following statements:**
@@ -14288,7 +14287,7 @@ Which of the statements given above is/are correct?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (D) 1, 2 and 3
-- **Exam Lock & Core Concepts:** Pralay is a canisterised, solid-fuel tactical quasi-ballistic missile developed by DRDO. It has a range of 150–500 km and the ability to maneuver in mid-flight to evade interceptors. The salvo launch took place on 31 December 2025.
+- **Logic:** Pralay is a canisterised, solid-fuel tactical quasi-ballistic missile developed by DRDO. It has a range of 150–500 km and the ability to maneuver in mid-flight to evade interceptors. The salvo launch took place on 31 December 2025.
 </details>
 
 **Q3. Which of the following statements about the BrahMos supersonic cruise missile is NOT correct?**
@@ -14300,7 +14299,7 @@ Which of the statements given above is/are correct?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (C) In April 2024, India delivered the first export batch of BrahMos missiles to Vietnam.
-- **Exam Lock & Core Concepts:** Statement (C) is incorrect because the first export customer for BrahMos was the **Philippines** (under a $375-million contract signed in 2022). Deliveries occurred in April 2024, April 2025, and March 2026.
+- **Logic:** Statement (C) is incorrect because the first export customer for BrahMos was the **Philippines** (under a $375-million contract signed in 2022). Deliveries occurred in April 2024, April 2025, and March 2026.
 </details>
 
 **Q4. With reference to the Missile Technology Control Regime (MTCR), consider the following statements:**
@@ -14316,7 +14315,7 @@ Which of the statements given above are correct?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (D) 1, 2 and 3
-- **Exam Lock & Core Concepts:** MTCR was formed in 1987 by the G-7. India was formally inducted as the 35th partner on 27 June 2016. Its benchmark parameter is $\ge 500	ext{ kg}$ payload over $\ge 300	ext{ km}$.
+- **Logic:** MTCR was formed in 1987 by the G-7. India was formally inducted as the 35th partner on 27 June 2016. Its benchmark parameter is $\ge 500\text{ kg}$ payload over $\ge 300\text{ km}$.
 </details>
 
 **Q5. Consider the following pairs of joint military exercises and partner countries:**
@@ -14333,7 +14332,7 @@ Which of the pairs given above are correctly matched?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (A) 1, 2 and 3 only
-- **Exam Lock & Core Concepts:** Pair 4 is incorrectly matched because **Mitra Shakti** is conducted between **India and Sri Lanka**. The bilateral exercise between India and Bangladesh is **SAMPRITI**.
+- **Logic:** Pair 4 is incorrectly matched because **Mitra Shakti** is conducted between **India and Sri Lanka**. The bilateral exercise between India and Bangladesh is **SAMPRITI**.
 </details>
 
 **Q6. Which country officially became the 32nd member of the North Atlantic Treaty Organization (NATO) in March 2024?**
@@ -14345,7 +14344,7 @@ Which of the pairs given above are correctly matched?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (B) Sweden
-- **Exam Lock & Core Concepts:** Sweden ended over two centuries of military neutrality and formally joined NATO as its 32nd member on 7 March 2024. Finland joined earlier in April 2023 as the 31st member.
+- **Logic:** Sweden ended over two centuries of military neutrality and formally joined NATO as its 32nd member on 7 March 2024. Finland joined earlier in April 2023 as the 31st member.
 </details>
 
 **Q7. The 'New START' bilateral nuclear arms reduction treaty, which officially expired in February 2026, was signed between which two countries?**
@@ -14357,7 +14356,7 @@ Which of the pairs given above are correctly matched?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (B) USA and Russia
-- **Exam Lock & Core Concepts:** The New START treaty was signed in Prague in April 2010 by President Barack Obama and President Dmitry Medvedev, capping deployed strategic nuclear warheads at 1,550. It officially expired on 5 February 2026.
+- **Logic:** The New START treaty was signed in Prague in April 2010 by President Barack Obama and President Dmitry Medvedev, capping deployed strategic nuclear warheads at 1,550. It officially expired on 5 February 2026.
 </details>
 
 **Q8. Who among the following won the 1921 Nobel Prize in Physics for the discovery of the Law of the Photoelectric Effect?**
@@ -14369,7 +14368,7 @@ Which of the pairs given above are correctly matched?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (C) Albert Einstein
-- **Exam Lock & Core Concepts:** Albert Einstein was awarded the 1921 Nobel Prize in Physics specifically for his discovery of the law of the photoelectric effect, not for the theory of relativity.
+- **Logic:** Albert Einstein was awarded the 1921 Nobel Prize in Physics specifically for his discovery of the law of the photoelectric effect, not for the theory of relativity.
 </details>
 
 **Q9. Which Indian physicist formulated the theoretical limit establishing that white dwarf stars with mass exceeding 1.44 times the solar mass must collapse into neutron stars or black holes?**
@@ -14381,7 +14380,7 @@ Which of the pairs given above are correctly matched?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (C) Subrahmanyan Chandrasekhar
-- **Exam Lock & Core Concepts:** S. Chandrasekhar calculated the Chandrasekhar Limit ($1.44 M_\odot$) in 1930, demonstrating the upper mass boundary for stable white dwarf stars, for which he received the 1983 Nobel Prize in Physics.
+- **Logic:** S. Chandrasekhar calculated the Chandrasekhar Limit ($1.44 M_\odot$) in 1930, demonstrating the upper mass boundary for stable white dwarf stars, for which he received the 1983 Nobel Prize in Physics.
 </details>
 
 **Q10. The Major Atmospheric Cherenkov Experiment (MACE) Observatory, inaugurated in October 2024, is located at:**
@@ -14393,22 +14392,21 @@ Which of the pairs given above are correctly matched?
 <summary><b>View Answer & High-Yield Explanation</b></summary>
 
 - **Correct Answer:** (B) Hanle, Ladakh
-- **Exam Lock & Core Concepts:** MACE is located at Hanle, Ladakh at an altitude of $4,270	ext{ m}$. It is Asia's largest and the world's highest imaging Cherenkov telescope, built by BARC with ECIL.
+- **Logic:** MACE is located at Hanle, Ladakh at an altitude of $4,270\text{ m}$. It is Asia's largest and the world's highest imaging Cherenkov telescope, built by BARC with ECIL.
 </details>
 
 ---
 
 ## Common Traps
 
-| Trap Topic | Common Student Confusion / Mistake | Accurate Exam Reality & Razor-Sharp Rule |
+| Trap Topic | Common Student Confusion / Mistake | Accurate Must-Score Reality & Razor-Sharp Rule |
 | :--- | :--- | :--- |
-| **Einstein's Nobel Prize** | Believing Einstein received the Nobel Prize for the Theory of Relativity. | Einstein was awarded the 1921 Nobel Prize **strictly for the Law of the Photoelectric Effect** ($E_k = h
-u - \phi$). Relativity was omitted due to contemporary committee debates. |
+| **Einstein's Nobel Prize** | Believing Einstein received the Nobel Prize for the Theory of Relativity. | Einstein was awarded the 1921 Nobel Prize **strictly for the Law of the Photoelectric Effect** ($E_k = h\nu - \phi$). Relativity was omitted due to contemporary committee debates. |
 | **BrahMos Range & Category**| Calling BrahMos a ballistic missile or assuming its range was always 500 km. | BrahMos is a **supersonic cruise missile** (Mach 2.8–3.0). Its range was originally capped at **290 km** under MTCR guidelines, and only extended to **450–500 km** after India's MTCR entry in 2016. |
 | **Agni-V MIRV Test** | Confusing Agni-V's first launch with Mission Divyastra. | Agni-V was first test-fired in 2012. **Mission Divyastra (11 March 2024)** was specifically the maiden test of Agni-V equipped with **Multiple Independently Targetable Re-entry Vehicles (MIRV)**. |
 | **Pralay vs Prithvi** | Confusing Pralay with the older Prithvi missile. | Prithvi is a liquid-fueled ballistic missile developed in the 1980s under IGMDP. Pralay is a modern, solid-fueled **quasi-ballistic battlefield missile** (150–500 km) capable of evasive mid-course maneuvers. |
 | **Mitra Shakti vs Sampriti** | Confusing Mitra Shakti (Sri Lanka) with Sampriti (Bangladesh). | **Mitra Shakti** is strictly with **Sri Lanka**. **Sampriti** is with **Bangladesh**. **Maitree** is with **Thailand**. |
-| **Geostationary Altitude** | Confusing 35,786 km with 22,236 km. | The altitude is **$35,786	ext{ km}$**, which equals **$22,236	ext{ miles}$**. Exam stems deliberately swap units to trap candidates! |
+| **Geostationary Altitude** | Confusing 35,786 km with 22,236 km. | The altitude is **$35,786\text{ km}$**, which equals **$22,236\text{ miles}$**. Must-Score stems deliberately swap units to trap candidates! |
 | **NavIC Orbit Breakdown** | Believing all 7 NavIC satellites are in geostationary orbits. | NavIC comprises **3 in Geostationary Orbit (GEO)** and **4 in inclined Geosynchronous Orbit (GSO)**. |
 | **First Indian Satellite** | Confusing Aryabhata with Rohini or APPLE. | **Aryabhata (1975)** was India's 1st artificial satellite (launched from USSR). **Rohini RS-1 (1980)** was India's 1st satellite launched by an indigenous Indian rocket (SLV-3). **APPLE (1981)** was India's 1st experimental geostationary communication satellite. |
 | **New START Expiry** | Believing New START is still active or valid until 2030. | New START **officially expired on 5 February 2026** without renewal. Russia suspended participation in February 2023. |

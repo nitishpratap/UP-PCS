@@ -14,9 +14,9 @@ Foundational Chemists & Historical Discoveries (Lavoisier, Dalton, Priestley, Ca
 
 ---
 
-## Current Affairs & Exam Locks (2024–2026)
+## Current Affairs (2024–2026)
 
-| Year | Exam / Event | Core Concept & Exam Significance |
+| Year | Event | Core Concept & Must-Score Significance |
 |------|--------------|-----------------------------------|
 | **2024–2025** | **Nobel Prize in Chemistry (2024)** | Awarded to **David Baker** (computational protein design) and **Demis Hassabis & John M. Jumper** (AI protein structure prediction via AlphaFold2), decoding the 3D structures of virtually all 200 million identified biological proteins. |
 | **2024** | **Election Chemistry — Voter's Indelible Ink** | In the 2024 Indian General Elections, Mysore Paints & Varnish Ltd. supplied indelible voter ink containing **Silver Nitrate ($AgNO_3$, Lunar Caustic)**. When applied to the fingernail, $AgNO_3$ reacts with skin proteins and ambient sunlight to photochemically precipitate insoluble black metallic silver ($Ag$), which cannot be washed off with soap or organic solvents. |
@@ -151,7 +151,7 @@ Foundational Chemists & Historical Discoveries (Lavoisier, Dalton, Priestley, Ca
 
 ### Table 1: Master Dictionary of Chemical Common / Trade Names
 
-| Trade / Common Name | Systematic IUPAC Chemical Name | Precise Chemical Formula | Primary Real-World Application / Exam Signature |
+| Trade / Common Name | Systematic IUPAC Chemical Name | Precise Chemical Formula | Primary Real-World Application / Must-Score Signature |
 |---|---|---|---|
 | **Lunar Caustic** | Silver Nitrate | **$AgNO_3$** | Indelible voting mark ink; cauterizing warts |
 | **Sindoor / Minium / Red Lead**| Trilead Tetroxide | **$Pb_3O_4$** | Traditional cosmetic vermilion; anti-rust primer |
@@ -1341,7 +1341,7 @@ Who among the following scientists won the Nobel Prize twice in two different sc
 
 ## Common Traps & High-Yield Pitfalls
 
-| Trap Area | What Students Confuse | Accurate Exam Fact |
+| Trap Area | What Students Confuse | Correct Fact |
 |---|---|---|
 | **Voting Ink Compound** | Answering silver chloride or silver iodide for election ink. | Election ink contains **Silver Nitrate ($AgNO_3$, Lunar Caustic)**. |
 | **Heavy Water Identity** | Confusing heavy water with mineral-rich hard water. | Heavy water is **Deuterium Oxide ($D_2O$)**; hard water is $H_2O$ containing dissolved $Ca^{2+}/Mg^{2+}$. |

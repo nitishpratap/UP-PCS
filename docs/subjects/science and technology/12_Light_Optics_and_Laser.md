@@ -1,24 +1,24 @@
 # Topic 4 — Light, Optics and Laser Technology
-### ★ UPPCS Revision Sheet — Lucent / PW Coaching Style (Dense Locks · Zero Fluff · Practice ≥25)
+### ★ UPPCS Revision Sheet — Lucent / PW Coaching Style (Lucent / PW style · Practice ≥25)
 > **Direct Syllabus Mapping**: General Science — Optics (Nature of Light, Wave-Particle Duality, Speed in Different Media, Rectilinear Propagation, Reflection, Refraction, Snell's Law, Total Internal Reflection & Applications, Optical Fibers, Endoscopes, Dispersion, Prisms, Rainbow Formation, Scattering, Rayleigh's Law, Mirrors, Lenses, Lens Power in Dioptres, Human Eye Anatomy & Defects, Astigmatism, Presbyopia, Double-slit Interference, Polarization, Primary & Secondary Colors, Color TV, Laser Technology).  
-> **Key Exam Focus**: Plane mirror focal length = $\infty$ (71st BPSC 2025), Rectilinear propagation forming shadows (70th BPSC Re-Exam 2024), Telescope objective diameter & resolution (70th BPSC Re-Exam 2024), Young's double-slit fringe width $\beta = 0.5\text{ mm}$ (UKPCS 2024), Non-luminous Moon (UP RO/ARO 2023), Concave mirror forming same size image at $C$ (69th BPSC 2023), Thin black strips on lens reducing brightness (68th BPSC 2022), Soap film interference (67th BPSC 2022), Twinkling of stars via atmospheric refraction (67th BPSC 2022), Eye sensitivity to yellowish-green $555\text{ nm}$ (UP RO/ARO 2021), Albedo of fresh snow $80-85\%$ (UPPCS 2021), Critical angle of diamond $24.4^\circ$, Air bubble in water behaving as concave/divergent lens, Minimum plane mirror height $= H/2$, and Color mixing matrices (RGB vs CMY).
+> **Key Must-Score Focus**: Plane mirror focal length = $\infty$ (71st BPSC 2025), Rectilinear propagation forming shadows (70th BPSC Re-Exam 2024), Telescope objective diameter & resolution (70th BPSC Re-Exam 2024), Young's double-slit fringe width $\beta = 0.5\text{ mm}$ (UKPCS 2024), Non-luminous Moon (UP RO/ARO 2023), Concave mirror forming same size image at $C$ (69th BPSC 2023), Thin black strips on lens reducing brightness (68th BPSC 2022), Soap film interference (67th BPSC 2022), Twinkling of stars via atmospheric refraction (67th BPSC 2022), Eye sensitivity to yellowish-green $555\text{ nm}$ (UP RO/ARO 2021), Albedo of fresh snow $80-85\%$ (UPPCS 2021), Critical angle of diamond $24.4^\circ$, Air bubble in water behaving as concave/divergent lens, Minimum plane mirror height $= H/2$, and Color mixing matrices (RGB vs CMY).
 
 ---
 
-## Current Affairs & Exam Locks
-- **71st BPSC (Pre 2025) Optics Lock**:
+## Current Affairs
+- **71st BPSC (Pre 2025) Optics Fact**:
   - *Focal Length of Plane Mirror*: Treated as the limiting case of a spherical mirror with an infinite radius of curvature ($R = \infty$) $\implies$ **Focal length $f = R/2 = \mathbf{\infty}$ (Infinity)**. Its optical power is $P = 1/f = 0\text{ Dioptre}$.
-- **70th BPSC (Pre Re-Exam 2024) Dual Locks**:
+- **70th BPSC (Pre Re-Exam 2024) Dual Facts**:
   - *Shadow Formation*: Shadows are produced directly due to the **rectilinear propagation of light** (light travels in straight lines and cannot bend around macroscopic opaque objects).
   - *Telescope Objective Diameter & Resolution*: As the aperture diameter ($D$) of a telescope's objective lens increases, diffraction decreases and light-gathering power increases $\implies$ **Resolving power / resolution increases** (Rayleigh criterion $\theta = 1.22 \lambda / D$).
 - **UKPCS (Pre 2024) Young's Double-Slit Numerical**:
   - Wavelength $\lambda = 500\text{ nm} = 5 \times 10^{-7}\text{ m}$, screen distance $D = 1\text{ m}$, slit separation $d = 1\text{ mm} = 10^{-3}\text{ m}$.
   - Fringe separation (fringe width): **$\beta = \frac{\lambda D}{d} = \frac{5 \times 10^{-7} \times 1}{10^{-3}} = 5 \times 10^{-4}\text{ m} = \mathbf{0.5\text{ mm}}$**.
-- **69th BPSC (Pre 2023) Colour Combination Lock**:
+- **69th BPSC (Pre 2023) Colour Combination Fact**:
   - Primary pigments & complementary colors: **Magenta = Red + Blue**; **Cyan = Green + Blue**; **Teal = Blue + Green + White**; **Mauve = Blue + Red + White**.
-- **68th BPSC (Pre 2022) Lens Intensity Lock**:
+- **68th BPSC (Pre 2022) Lens Intensity Fact**:
   - If thin strips of black paint are drawn on a convex lens catching the image of a white horse, it produces an **image of a horse with reduced brightness** (the strips block a fraction of incident rays without casting localized shadows).
-- **Human Eye Physiological Response (UP RO/ARO 2021 Lock)**:
+- **Human Eye Physiological Response (UP RO/ARO 2021 Fact)**:
   - The human eye is most sensitive to **yellowish-green light of wavelength $\approx 555\text{ nm}$ ($5550\text{ \AA}$)** under photopic (daylight) conditions.
   - Human ear sensitivity peaks between **$1000\text{ Hz}$ and $5000\text{ Hz}$**.
   - **Persistence of Vision** is **$1/16\text{th}$ of a second**; **Persistence of Hearing** is **$1/10\text{th}$ of a second**.
@@ -114,7 +114,7 @@
 62. **Astronomical Optical Illusions**: The enlarged apparent size of the Sun at dusk, the crimson color of the Sun at dawn, and the twinkling of stars are **optical illusions** caused by atmospheric refraction and scattering. (The Moon or Polestar being visible are physical facts, NOT illusions).
 
 ## Confused Pairs
-| Quantities / Optical Concepts | Critical Distinction & Exam Trap Alert |
+| Quantities / Optical Concepts | Critical Distinction & Common Trap Alert |
 |---|---|
 | **Concave vs Convex Mirror Uses** | **Concave mirror**: Shaving, dentist, car headlight (produces magnified erect image up close, parallel beam at focus). **Convex mirror**: Automobile rear-view mirror (erect, diminished, wide field of view). |
 | **Myopia vs Hypermetropia** | **Myopia (Near-sightedness)**: Can see near, cannot see far; image formed *in front of retina*; corrected by **Concave lens**. **Hypermetropia (Far-sightedness)**: Can see far, cannot see near; image formed *behind retina*; corrected by **Convex lens**. |
@@ -122,6 +122,167 @@
 | **Additive vs Subtractive Colors** | **Additive (Light)**: Red + Green + Blue = **White**. **Subtractive (Pigments/Paint)**: Cyan + Magenta + Yellow = **Black**. |
 | **Rayleigh Scattering vs Dispersion** | **Scattering**: Redirection of light in all directions by particles smaller than $\lambda$ ($I \propto 1/\lambda^4$; makes sky blue). **Dispersion**: Splitting of white light into constituent wavelengths by refraction in a prism or raindrop. |
 | **Rainbow at Noon** | Rainbow is formed directly opposite the Sun. At 12:00 noon, the Sun is directly overhead; therefore, a natural rainbow **cannot be seen**. |
+
+---
+
+## Teaching Cards — Light, Optics and Laser
+
+## 4.1 Nature of Light
+
+**Light** is electromagnetic radiation that the human eye can detect, roughly from **$380\text{ nm}$ to $750\text{ nm}$**.
+
+- In everyday optics, light is treated as travelling in straight **rays** in a homogeneous medium.
+- **Rectilinear propagation** means light travels in straight lines and forms sharp shadows behind opaque objects.
+- The **wave model** explains interference, diffraction, and polarisation.
+- The **particle (photon) model** explains the photoelectric effect and discrete energy exchange.
+- Light shows **wave–particle duality**: different phenomena need the ray, wave, or photon picture.
+- In vacuum, the speed of light is maximum: $c = 3.0 \times 10^8\text{ m/s}$.
+- Frequency of light does **not** change when light enters a new medium.
+- Speed and wavelength both change in a new medium according to $v = f\lambda$.
+- Speed of light is smaller in denser optical media: vacuum $>$ water $>$ glass $>$ diamond.
+- A **luminous** body emits its own light.
+- The **Moon** is non-luminous and is seen only by reflected sunlight.
+- **Albedo** is the fraction of incident radiation that a surface reflects.
+- Fresh snow has a very high albedo of about **$80\%$ to $85\%$**.
+
+## 4.2 Reflection of Light
+
+**Reflection** is the return of light into the same medium after striking a surface.
+
+- The **incident ray**, the **reflected ray**, and the **normal** at the point of incidence all lie in one plane.
+- The **angle of incidence** equals the **angle of reflection** ($i = r$).
+- A **plane mirror** forms a virtual, erect, laterally inverted image of the same size as the object.
+- The image in a plane mirror lies as far behind the mirror as the object lies in front.
+- Focal length of a plane mirror is treated as **infinity**, so its power is **zero**.
+- If a plane mirror rotates by angle $\theta$, the reflected ray rotates by **$2\theta$**.
+- The minimum vertical height of a plane mirror to see one’s full standing height $H$ is **$H/2$**.
+- Two parallel plane mirrors form an **infinite** number of images of an object between them.
+- For two mirrors inclined at angle $\theta$, the number of images is $n = \frac{360^\circ}{\theta} - 1$ when $360/\theta$ is even.
+- A **concave mirror** has its reflecting surface curved inward and acts as a converging mirror.
+- A concave mirror can form real inverted images for objects beyond the focus.
+- When the object is between the pole and the focus of a concave mirror, the image is **virtual, erect, and magnified**.
+- When the object is at the centre of curvature $C$ of a concave mirror, the image is at $C$, real, inverted, and of the **same size**.
+- Concave mirrors are used in shaving mirrors, dentist mirrors, car headlights, searchlights, and solar furnaces.
+- In a car headlight, the bulb is placed at the focus so reflected rays leave as a nearly **parallel beam**.
+- A **convex mirror** has its reflecting surface curved outward and always acts as a diverging mirror.
+- A convex mirror always forms a **virtual, erect, and diminished** image behind the mirror.
+- Vehicle **rear-view and side mirrors** use convex mirrors because they give a wide field of view.
+
+## 4.3 Refraction of Light
+
+**Refraction** is the bending of light when it crosses the boundary between two media of different optical density.
+
+- Light slows down and bends **towards the normal** when it enters an optically denser medium.
+- Light speeds up and bends **away from the normal** when it enters an optically rarer medium.
+- **Snell’s law** states that $\mu_1 \sin i = \mu_2 \sin r$, or $\frac{\sin i}{\sin r} = {}_1\mu_2$.
+- Absolute refractive index of a medium is $\mu = \frac{c}{v}$, where $v$ is the speed of light in that medium.
+- Absolute refractive index of water is about **$4/3 \approx 1.33$**.
+- Absolute refractive index of diamond is about **$2.42$**, the highest among common transparent solids.
+- Apparent depth of a pool is less than real depth because rays from the bottom bend away from the normal on leaving water.
+- Real depth and apparent depth are related by $\text{real depth} = \mu \times \text{apparent depth}$.
+- A stick partly immersed in water appears bent at the water surface due to refraction.
+- A coin in a bucket of water appears raised due to refraction.
+- An underwater diver looking upward sees aerial objects at a **higher** apparent level than their true height.
+- **Twinkling of stars** is caused by continuous atmospheric refraction through moving air layers of changing density.
+- Atmospheric refraction makes the Sun visible about **$2$ minutes** before geometric sunrise and about **$2$ minutes** after geometric sunset.
+- Near the horizon, unequal refraction across the disc makes the Sun or Moon look **elliptical**.
+
+## 4.4 Total Internal Reflection (TIR)
+
+**Total internal reflection** is complete reflection of light at a denser–rarer boundary when the angle of incidence exceeds the critical angle.
+
+- For TIR, light must travel from an optically **denser** medium toward a **rarer** medium.
+- The angle of incidence must be greater than the **critical angle** $i_c$.
+- Critical angle satisfies $\sin i_c = \frac{1}{\mu}$ for a denser medium against air.
+- Critical angle for water–air is about **$48.75^\circ$**.
+- Critical angle for glass–air is about **$41^\circ$**.
+- Critical angle for diamond–air is about **$24.4^\circ$**, which is unusually small.
+- A cut diamond sparkles because repeated TIR traps and redirects light inside the gem.
+- An **optical fibre** has a core of higher refractive index surrounded by cladding of lower refractive index.
+- Light travels along an optical fibre by repeated total internal reflection with very small loss.
+- Optical fibres are used in high-speed telecommunication because they resist electromagnetic interference.
+- An **endoscope** uses flexible fibre bundles and TIR to view internal organs.
+- A desert **mirage** forms when light from the sky undergoes TIR in hot, optically rarer air near the ground.
+- Tiny glass beads on road signs and number plates return headlight beams by TIR and refraction.
+
+## 4.5 Lenses, Power and the Human Eye
+
+**A lens** is a transparent refracting device with two curved surfaces that converges or diverges light.
+
+- A **convex (converging) lens** is thicker at the centre than at the edges and has positive focal length.
+- A **concave (diverging) lens** is thinner at the centre than at the edges and has negative focal length.
+- Lens power is $P = \frac{1}{f}$, with $f$ in metres, and the unit is the **dioptre (D)**.
+- A lens of power $+2\text{ D}$ has focal length $f = 0.50\text{ m} = 50\text{ cm}$.
+- Convex lenses are used as magnifying glasses, in cameras, microscopes, and telescopes.
+- When an object lies between the optical centre and the focus of a convex lens, the image is virtual, erect, and magnified.
+- A concave lens always forms a virtual, erect, and diminished image.
+- An **air bubble in water** has convex shape but behaves as a **concave (diverging) lens**.
+- If a convex lens and a concave lens of equal focal length are placed in contact, net power is zero and the pair acts like a plane glass sheet.
+- The least distance of distinct vision for a normal adult eye is **$25\text{ cm}$**.
+- The eye lens changes curvature by action of the **ciliary muscles** during accommodation.
+- The image on the retina is real, inverted, and diminished.
+- **Myopia (near-sightedness)** forms the image of a distant object **in front of** the retina.
+- Myopia is corrected by a **concave (diverging) lens**.
+- **Hypermetropia (far-sightedness)** forms the image of a near object **behind** the retina.
+- Hypermetropia is corrected by a **convex (converging) lens**.
+- **Presbyopia** is age-related loss of near focusing and is corrected by a bifocal or progressive lens.
+- **Astigmatism** comes from uneven corneal or lens curvature and is corrected by a **cylindrical lens**.
+- **Cataract** is clouding of the crystalline lens and is treated by surgical replacement with an intraocular lens.
+- The human eye under daylight vision is most sensitive near **yellowish-green light of about $555\text{ nm}$**.
+
+## 4.6 Prism, Dispersion and Rainbow
+
+**Dispersion** is the splitting of white light into its constituent colours because refractive index depends on wavelength.
+
+- A glass prism refracts white light twice and spreads it into the VIBGYOR spectrum.
+- **Violet** has the shortest visible wavelength, highest frequency in glass, highest refractive index, and the **largest** deviation.
+- **Red** has the longest visible wavelength, lowest frequency in glass, lowest refractive index, and the **smallest** deviation.
+- Primary rainbow colours appear with **red outside** and **violet inside**.
+- Green lies in the middle of the primary rainbow band.
+- A primary rainbow forms by **two refractions and one total internal reflection** inside a raindrop, together with dispersion.
+- The observer sees a rainbow in the direction **opposite** to the Sun.
+- A natural rainbow cannot be seen at **local noon** when the Sun is nearly overhead.
+- Shimmering colours on a soap film or oil slick are due to **interference**, not prism dispersion.
+- Rainbow colours on a CD in sunlight come from **reflection and diffraction** at the track grating.
+
+## 4.7 Scattering of Light
+
+**Scattering** is the redirection of light by particles or molecules that are small compared with the wavelength.
+
+- **Rayleigh’s law** states that scattered intensity varies as $I \propto \frac{1}{\lambda^4}$.
+- Shorter wavelengths such as blue and violet scatter much more than red.
+- The clear daytime sky looks **blue** because air molecules scatter short-wavelength blue light toward the observer.
+- At sunrise and sunset, sunlight travels a longer atmospheric path, so blue light is scattered away and the disc looks **red or orange**.
+- At very high altitude or in space with almost no atmosphere, the sky looks **black**.
+- Danger and stop signals use **red** light because red suffers the least atmospheric scattering and travels farthest through fog and smoke.
+- Green leaves look green because chlorophyll **reflects** green wavelengths and absorbs much of the rest of the visible band.
+- The **Raman effect** is inelastic scattering of photons in a transparent medium and was discovered by C.V. Raman.
+
+## 4.8 Laser
+
+**LASER** means Light Amplification by Stimulated Emission of Radiation.
+
+- Laser light is highly **monochromatic**, meaning it has a very narrow wavelength spread.
+- Laser light is **coherent**, meaning the waves stay in a fixed phase relationship.
+- Laser light is highly **directional (unidirectional)** and spreads far less than ordinary lamp light.
+- Laser beams can carry high intensity in a narrow cone and are used for cutting, welding, and drilling.
+- Semiconductor lasers read microscopic pits on CDs, DVDs, and Blu-ray discs.
+- Medical uses of lasers include eye surgery, tissue cutting, and precise coagulation.
+- Holography records and reconstructs a true three-dimensional image using coherent laser interference.
+- Ordinary white light is broadband, incoherent, and spreads in many directions, unlike laser light.
+
+## 4.9 Photoelectric Effect and Photovoltaic Conversion
+
+**Photoelectric and photovoltaic effects** convert light energy into electrical energy or free electrons.
+
+- In the **photoelectric effect**, photons eject electrons from a metal surface when their energy exceeds the work function.
+- Photon energy is $E = h\nu = \frac{hc}{\lambda}$, so shorter wavelength light carries more energy per photon.
+- Below a threshold frequency, increasing intensity alone does **not** start electron emission.
+- Above threshold, the number of emitted electrons rises with light intensity, while maximum kinetic energy depends on frequency.
+- A **photovoltaic (solar) cell** uses a semiconductor junction to convert sunlight directly into electric current.
+- Solar panels generate DC electricity by the photovoltaic effect in silicon or related semiconductors.
+- Photocells, light meters, and automatic street-light sensors use photoelectric or related light-to-electric conversion.
+- Photosynthesis also stores light energy chemically, but photovoltaic cells produce usable electrical power directly.
 
 ---
 
@@ -827,182 +988,382 @@ Raman scattering involves inelastic scattering of light photons through all tran
 
 ## Practice Zone — UPPCS Format Drill
 
-1. **What is the focal length of a flat plane mirror?**  
+**Q1.** **What is the focal length of a flat plane mirror?**  
    A. Zero  
    B. $+1\text{ metre}$  
    C. $-1\text{ metre}$  
-   D. Infinite ($\infty$)  
-   *Answer*: **D**.
+   D. Infinite ($\infty$)
 
-2. **An air bubble trapped inside clear water behaves optically as a:**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **D**.
+
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+</details>
+
+**Q2.** **An air bubble trapped inside clear water behaves optically as a:**  
    A. Concave mirror  
    B. Convex lens  
    C. Concave (divergent) lens  
-   D. Cylindrical lens  
-   *Answer*: **C** ($\mu_{	ext{water}} > \mu_{	ext{air}}$).
+   D. Cylindrical lens
 
-3. **A person standing $2\text{ metres}$ in front of a plane mirror moves $0.5\text{ metres}$ closer to it. The distance between the person and their image is:**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **C** ($\mu_{\text{water}} > \mu_{\text{air}}$).
+
+**Logic:** ($\mu_{\text{water}} > \mu_{\text{air}}$).
+
+</details>
+
+**Q3.** **A person standing $2\text{ metres}$ in front of a plane mirror moves $0.5\text{ metres}$ closer to it. The distance between the person and their image is:**  
    A. $1.5\text{ m}$  
    B. $3.0\text{ m}$  
    C. $4.0\text{ m}$  
-   D. $1.0\text{ m}$  
-   *Answer*: **B** (Object distance = $1.5\text{ m}$; image distance = $1.5\text{ m}$; total distance = $3.0\text{ m}$).
+   D. $1.0\text{ m}$
 
-4. **Which physical phenomenon is primarily responsible for the formation of shadows?**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** (Object distance = $1.5\text{ m}$; image distance = $1.5\text{ m}$; total distance = $3.0\text{ m}$).
+
+**Logic:** (Object distance = $1.5\text{ m}$; image distance = $1.5\text{ m}$; total distance = $3.0\text{ m}$).
+
+</details>
+
+**Q4.** **Which physical phenomenon is primarily responsible for the formation of shadows?**  
    A. Refraction of light  
    B. Rectilinear propagation of light  
    C. Diffraction of light  
-   D. Polarisation of light  
-   *Answer*: **B**.
+   D. Polarisation of light
 
-5. **In a color television screen, pixels emit which primary colors?**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B**.
+
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+</details>
+
+**Q5.** **In a color television screen, pixels emit which primary colors?**  
    A. Red, Yellow, Blue  
    B. Red, Green, Blue  
    C. Cyan, Magenta, Yellow  
-   D. Red, Green, Yellow  
-   *Answer*: **B** (Additive RGB phosphors).
+   D. Red, Green, Yellow
 
-6. **The power of a reading glass lens with a focal length of $+25\text{ cm}$ is:**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** (Additive RGB phosphors).
+
+**Logic:** (Additive RGB phosphors).
+
+</details>
+
+**Q6.** **The power of a reading glass lens with a focal length of $+25\text{ cm}$ is:**  
    A. $+1.0\text{ D}$  
    B. $+2.5\text{ D}$  
    C. $+4.0\text{ D}$  
-   D. $+0.25\text{ D}$  
-   *Answer*: **C** ($P = 100/25 = +4.0\text{ Dioptres}$).
+   D. $+0.25\text{ D}$
 
-7. **The sky appears blue from Earth, but to an astronaut on the International Space Station, it appears:**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **C** ($P = 100/25 = +4.0\text{ Dioptres}$).
+
+**Logic:** ($P = 100/25 = +4.0\text{ Dioptres}$).
+
+</details>
+
+**Q7.** **The sky appears blue from Earth, but to an astronaut on the International Space Station, it appears:**  
    A. White  
    B. Blue  
    C. Black  
-   D. Violet  
-   *Answer*: **C** (Absence of atmospheric scattering).
+   D. Violet
 
-8. **A doctor examining a patient's throat or teeth uses a:**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **C** (Absence of atmospheric scattering).
+
+**Logic:** (Absence of atmospheric scattering).
+
+</details>
+
+**Q8.** **A doctor examining a patient's throat or teeth uses a:**  
    A. Convex lens  
    B. Convex mirror  
    C. Concave mirror  
-   D. Cylindrical mirror  
-   *Answer*: **C** (Produces erect magnified virtual image up close).
+   D. Cylindrical mirror
 
-9. **If a plane mirror is turned through an angle of $15^\circ$, the reflected light beam turns through:**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **C** (Produces erect magnified virtual image up close).
+
+**Logic:** (Produces erect magnified virtual image up close).
+
+</details>
+
+**Q9.** **If a plane mirror is turned through an angle of $15^\circ$, the reflected light beam turns through:**  
    A. $15^\circ$  
    B. $30^\circ$  
    C. $45^\circ$  
-   D. $0^\circ$  
-   *Answer*: **B** ($2\theta = 2 \times 15^\circ = 30^\circ$).
+   D. $0^\circ$
 
-10. **A rainbow is never visible in the sky at:**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** ($2\theta = 2 \times 15^\circ = 30^\circ$).
+
+**Logic:** ($2\theta = 2 \times 15^\circ = 30^\circ$).
+
+</details>
+
+**Q10.** **A rainbow is never visible in the sky at:**  
     A. 08:00 AM  
     B. 12:00 Noon  
     C. 04:00 PM  
-    D. 06:00 PM  
-    *Answer*: **B** (Sun is overhead; rainbow forms opposite the Sun).
+    D. 06:00 PM
 
-11. **The image formed on the retina of the human eye is:**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** (Sun is overhead; rainbow forms opposite the Sun).
+
+**Logic:** (Sun is overhead; rainbow forms opposite the Sun).
+
+</details>
+
+**Q11.** **The image formed on the retina of the human eye is:**  
     A. Real, inverted, and magnified  
     B. Virtual, erect, and magnified  
     C. Real, inverted, and diminished  
-    D. Virtual, erect, and diminished  
-    *Answer*: **C**.
+    D. Virtual, erect, and diminished
 
-12. **In optical fibers, light is transmitted along the glass core via:**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **C**.
+
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+</details>
+
+**Q12.** **In optical fibers, light is transmitted along the glass core via:**  
     A. Refraction  
     B. Total internal reflection  
     C. Light scattering  
-    D. Diffraction  
-    *Answer*: **B**.
+    D. Diffraction
 
-13. **Which color of light experiences the maximum deviation when white light passes through a glass prism?**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B**.
+
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+</details>
+
+**Q13.** **Which color of light experiences the maximum deviation when white light passes through a glass prism?**  
     A. Red  
     B. Yellow  
     C. Green  
-    D. Violet  
-    *Answer*: **D**.
+    D. Violet
 
-14. **The minimum height of a vertical plane mirror in which a $1.8\text{ m}$ tall person can view their entire reflection is:**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **D**.
+
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+</details>
+
+**Q14.** **The minimum height of a vertical plane mirror in which a $1.8\text{ m}$ tall person can view their entire reflection is:**  
     A. $0.6\text{ m}$  
     B. $0.9\text{ m}$  
     C. $1.8\text{ m}$  
-    D. $3.6\text{ m}$  
-    *Answer*: **B** ($1.8 / 2 = 0.9\text{ m}$).
+    D. $3.6\text{ m}$
 
-15. **A cut diamond sparkles brilliantly because of its:**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** ($1.8 / 2 = 0.9\text{ m}$).
+
+**Logic:** ($1.8 / 2 = 0.9\text{ m}$).
+
+</details>
+
+**Q15.** **A cut diamond sparkles brilliantly because of its:**  
     A. Large critical angle  
     B. High electrical conductivity  
     C. Very small critical angle and total internal reflection  
-    D. Absorption of infrared rays  
-    *Answer*: **C** ($i_c \approx 24.4^\circ$).
+    D. Absorption of infrared rays
 
-16. **Myopia (near-sightedness) is corrected using a:**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **C** ($i_c \approx 24.4^\circ$).
+
+**Logic:** ($i_c \approx 24.4^\circ$).
+
+</details>
+
+**Q16.** **Myopia (near-sightedness) is corrected using a:**  
     A. Cylindrical lens  
     B. Convex lens  
     C. Concave lens  
-    D. Bifocal lens  
-    *Answer*: **C**.
+    D. Bifocal lens
 
-17. **What happens to the wavelength and frequency of light as it enters glass from air?**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **C**.
+
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+</details>
+
+**Q17.** **What happens to the wavelength and frequency of light as it enters glass from air?**  
     A. Wavelength decreases, frequency remains constant  
     B. Both wavelength and frequency decrease  
     C. Wavelength increases, frequency decreases  
-    D. Both remain unchanged  
-    *Answer*: **A** ($v = f \lambda$; $\mu > 1 \implies \lambda = \lambda_0 / \mu$).
+    D. Both remain unchanged
 
-18. **The phenomenon that produces iridescent colours on a compact disc (CD) in sunlight is:**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **A** ($v = f \lambda$; $\mu > 1 \implies \lambda = \lambda_0 / \mu$).
+
+**Logic:** ($v = f \lambda$; $\mu > 1 \implies \lambda = \lambda_0 / \mu$).
+
+</details>
+
+**Q18.** **The phenomenon that produces iridescent colours on a compact disc (CD) in sunlight is:**  
     A. Dispersion and polarisation  
     B. Reflection and diffraction  
     C. Refraction and total internal reflection  
-    D. Scattering and absorption  
-    *Answer*: **B**.
+    D. Scattering and absorption
 
-19. **For normal vision, the least distance of distinct vision is:**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B**.
+
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+</details>
+
+**Q19.** **For normal vision, the least distance of distinct vision is:**  
     A. $10\text{ cm}$  
     B. $15\text{ cm}$  
     C. $25\text{ cm}$  
-    D. $50\text{ cm}$  
-    *Answer*: **C**.
+    D. $50\text{ cm}$
 
-20. **Under daylight conditions, the human eye is most sensitive to which wavelength?**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **C**.
+
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+</details>
+
+**Q20.** **Under daylight conditions, the human eye is most sensitive to which wavelength?**  
     A. $4500\text{ \AA}$  
     B. $5550\text{ \AA}$ ($555\text{ nm}$, yellowish-green)  
     C. $6500\text{ \AA}$  
-    D. $7500\text{ \AA}$  
-    *Answer*: **B**.
+    D. $7500\text{ \AA}$
 
-21. **If two parallel plane mirrors face each other, how many images of a candle between them are formed?**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B**.
+
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+</details>
+
+**Q21.** **If two parallel plane mirrors face each other, how many images of a candle between them are formed?**  
     A. 2  
     B. 4  
     C. 8  
-    D. Infinite  
-    *Answer*: **D**.
+    D. Infinite
 
-22. **The color of a distant star is a direct indicator of its:**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **D**.
+
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+</details>
+
+**Q22.** **The color of a distant star is a direct indicator of its:**  
     A. Mass  
     B. Distance from Earth  
     C. Surface temperature  
-    D. Radial velocity  
-    *Answer*: **C**.
+    D. Radial velocity
 
-23. **An object placed at the centre of curvature of a concave mirror produces an image that is:**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **C**.
+
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+</details>
+
+**Q23.** **An object placed at the centre of curvature of a concave mirror produces an image that is:**  
     A. Virtual, erect, and larger  
     B. Real, inverted, and of the same size  
     C. Real, inverted, and smaller  
-    D. Formed at focus  
-    *Answer*: **B**.
+    D. Formed at focus
 
-24. **Why are danger signal lights painted red?**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B**.
+
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+</details>
+
+**Q24.** **Why are danger signal lights painted red?**  
     A. Red light stimulates rhodopsin  
     B. Red light has the longest wavelength and is scattered the least  
     C. Red light has the highest energy  
-    D. Red light is absorbed least by water  
-    *Answer*: **B**.
+    D. Red light is absorbed least by water
 
-25. **When a convex lens and a concave lens of equal focal lengths are cemented together, the combination functions as a:**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B**.
+
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+</details>
+
+**Q25.** **When a convex lens and a concave lens of equal focal lengths are cemented together, the combination functions as a:**  
     A. Convergent lens  
     B. Divergent lens  
     C. Plane glass plate  
-    D. Reflecting mirror  
-    *Answer*: **C** ($1/F = 1/f - 1/f = 0 \implies F = \infty$).
+    D. Reflecting mirror
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **C** ($1/F = 1/f - 1/f = 0 \implies F = \infty$).
+
+**Logic:** ($1/F = 1/f - 1/f = 0 \implies F = \infty$).
 
 ---
+
+</details>
 
 ## Common Traps & Negative-Marking Eliminators
 1. **Focal Length of Plane Mirror**: Plane mirror focal length is **Infinite ($\infty$)**, NOT zero! Its optical power is zero.

@@ -1,926 +1,635 @@
 # Census and Urbanisation Topic 5 — Migration and Population Distribution
-### ★ UPPCS Revision Sheet — Lucent-style (no repetition · Practice ≥24)
 
-<details>
-<summary><strong>Covers syllabus</strong> (click to expand)</summary>
-
-Internal / international migration | Four streams | Interstate / interdistrict | Push–pull | Causes / consequences | Reverse migration | Immigration / emigration | Arithmetic / physiological / agricultural density | Distribution factors | Crowded vs sparse belts | India population geography
-
-</details>
-
-> **Sources baked in:** NCERT Class 12 population distribution & migration, Census migration tables, Geography Topic 11 desk, UPPCS Prelims (density types, Arunachal density, rural→rural stream, state population order), UKPCS Prelims
-> **Weight:** ★★★★ High — three density types, largest stream = rural→rural, push–pull, and UP–Bihar out-migration decide stems
-> **Last verified:** September 2026
-
-**Census density snapshot (382 / Bihar / Arunachal)** also in **Topic 1**. **Urbanisation process / census towns / UA** → **Topic 6**. **World country densities** → **Topic 7**.
+### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · Practice ≥26)
 
 ---
 
 ## Current Affairs
 
 | Year | Fact | Why it matters |
-|------|------|----------------|
-| **2020** | COVID lockdown **reverse migration** — workers returned from metros to origin States (UP/Bihar heavy). | Crisis-triggered return; remittance shock + MGNREGS spike. |
-| **Portability** | **One Nation One Ration Card** helps migrant food entitlement across States. | Welfare follow migrants — Economy neighbour. |
-| **e-Shram** | National database of unorganised workers includes many migrants. | Visibility of informal migrant labour. |
-| **Census 2011** | Still the frozen migration / density table set until Census 2027. | Lifetime migrant share ~**45%** teaching. |
+|---|---|---|
+| Rolling | Refresh edition-bound figures from latest Census / Survey / State CA desks. | Do not invent interim totals. |
 
----
+UP district extremes also → [UP Special Topic 6](../up%20special/06_Society_Population_Education_Social.md). This chapter owns the national Census / demography desk.
 
-## Consolidated — 42 Must-Score Facts
+## Consolidated — 50 Must-Score Facts
 
-1. **Migration** is a change of usual residence across a defined boundary for a stated duration.
-2. Migration changes **size** and **composition** at both origin and destination.
-3. **Internal migration** stays inside national borders; **international migration** crosses them.
-4. **Immigration** = movement **into** a place; **emigration** = movement **out** of a place.
-5. Four internal streams: **rural→rural**, **rural→urban**, **urban→urban**, **urban→rural**.
-6. India’s **largest** internal stream in Census teaching is **rural→rural**.
-7. Female migration is classically linked with **marriage**; male migration with **work / employment**.
-8. **Push factors** expel people from the origin (poverty, unemployment, drought, flood, conflict, weak services).
-9. **Pull factors** attract people to the destination (jobs, wages, education, urban amenities, industrial hubs).
-10. Classic **out-migration** sources: **Uttar Pradesh, Bihar** (also Jharkhand belt teaching).
-11. Classic **in-migration** destinations: **Maharashtra, Delhi, Gujarat** (also southern IT/industrial hubs).
-12. Interstate migration crosses State borders; interdistrict stays inside a State.
-13. Seasonal / circular migration returns workers to the village in lean or festival cycles.
-14. **Reverse migration** = return from destination to origin — often crisis-triggered (COVID lockdown teaching).
-15. Consequences (+): remittances, urban labour supply, skill exposure, some women’s agency.
-16. Consequences (−): slums, urban infrastructure stress, left-behind children/elderly, village labour gaps, epidemic pathways.
-17. Chain / network migration lowers risk when kin already live at the destination.
-18. Article **19** freedom to move and reside anywhere in India frames internal migration as a right (polity neighbour).
-19. **Population distribution** is the uneven spread of people across space.
-20. Crowded belts: **Indo-Gangetic plain** and many **coastal** plains.
-21. Sparse belts: **Himalaya**, North-East hills, **Thar**, dry / rugged interior pockets.
-22. Distribution factors: terrain, climate, soil, water, minerals, industry, transport, history, urban jobs.
-23. About half of India’s population concentrates in a few large States led by **UP, Maharashtra, Bihar, West Bengal, Andhra Pradesh** (2011 undivided AP frame).
-24. **Arithmetic density** = total population ÷ **total area** (India 2011 = **382**/km²).
-25. **Physiological density** = total population ÷ **net sown area** (pressure on cultivated land).
-26. **Agricultural density** = **agricultural population** ÷ **net sown area** (farm-worker pressure on cultivated land).
-27. Do not swap physiological (total people / net sown) with agricultural (farm people / net sown).
-28. Highest density **state**: **Bihar**; lowest density **state**: **Arunachal Pradesh**.
-29. Delhi is a very dense **UT** — not the “lowest density state” answer.
-30. UP density **829** — well above India’s 382 (Topic 1 neighbour).
-31. Induced population change = **migration**; natural change = CBR − CDR (Topic 4).
-32. Rural→urban migration feeds city growth and urbanisation (Topic 6 process).
-33. Not all migration is distress — education and aspirational job moves also matter.
-34. Marriage migration redistributes women across districts without a pure labour-market logic.
-35. Environmental push: drought (Bundelkhand), floods, cyclones, landslides, salinity.
-36. Conflict / security push appears in some plateau and NE contexts in teaching.
-37. Remittances support origin households but can mask missing local employment.
-38. COVID reverse migration showed weak portability of wages, shelter and welfare before ONORC / e-Shram deepening.
-39. Inter-State Migrant Workmen Act **1979** is the classic labour-protection statute tag (enforcement historically weak).
-40. World distribution ranks (most populous countries) → Topic 7; India unevenness stays here.
-41. Census town triple test uses density ≥400 — definition depth → Topic 6.
-42. Topic border: **streams + density types + distribution factors** here; town/UA/schemes → Topic 6.
+1. As per Census 2011, **45.36 Crore people (37.5% of India's population)** are internal migrants by place of last residence.
+2. **Rural to Rural (R $	o$ R)** is the **largest internal migration stream** in India, accounting for over 53% of all internal migrants.
+3. The Rural to Rural migration stream is **overwhelmingly dominated by females** due to marriage.
+4. **Marriage** is the single largest reason for female migration in India, accounting for **66.7% (two-thirds)** of all female migrants.
+5. **Work / Employment** is the single largest reason for male internal migration in India, accounting for approximately **38%** of male migrants.
+6. The **Rural to Urban (R $	o$ U)** migration stream in India is **predominantly male-dominated**.
+7. **Urban to Rural (U $	o$ R)** is the smallest migration stream in India, representing return migration post-retirement or economic crisis.
+8. **Intra-district migration** accounts for the largest share (**62%**) of internal migration in India.
+9. **Inter-state migration** constitutes approximately **12%** (5.4 Crore migrants) of total internal migrants in India.
+10. **Uttar Pradesh** is the **largest net source State** of out-migrants in India, followed by **Bihar**.
+11. **Maharashtra** is the **largest destination State** for inter-state in-migrants in India, followed by the **NCT of Delhi**.
+12. **E. G. Ravenstein** published the foundational **"Laws of Migration"** in **1885 / 1889**.
+13. According to Ravenstein's laws, **females predominate in short-distance migration**, while **males dominate in long-distance migration**.
+14. The **Push-Pull Theory of Migration** was propounded by American demographer **Everett S. Lee in 1966**.
+15. **Push Factors** are adverse conditions that compel people to leave their place of origin (unemployment, poverty, drought, crop failure).
+16. **Pull Factors** are attractive conditions that draw migrants to a destination (better employment, higher wages, modern healthcare, urban amenities).
+17. The **Mobility Transition Model** connecting spatial mobility with the Demographic Transition Model was formulated by **Wilbur Zelinsky in 1971**.
+18. The **Todaro Migration Model** (Michael P. Todaro, 1969) demonstrates that rural-urban migration is driven by **expected urban-rural income differentials**.
+19. **Arithmetic Population Density** is calculated as: **Total Population divided by Total Geographical Land Area**.
+20. India's arithmetic population density in Census 2011 was **382 persons per square kilometer**.
+21. The population density of **Uttar Pradesh** in Census 2011 was **829 persons per square kilometer**.
+22. **Physiological / Nutritional Density** is calculated as: **Total Population divided by Net Cultivated / Arable Land Area**.
+23. Physiological density is a much more accurate measure of population pressure on agricultural food-producing capacity than arithmetic density.
+24. **Agricultural Density** is calculated as: **Total Agricultural Population divided by Net Cultivated Land Area**.
+25. High agricultural density in developing countries is a direct indicator of **disguised unemployment** in the primary sector.
+26. **Bihar** has the highest arithmetic population density among Indian States (**1,106 persons / sq km**).
+27. **West Bengal** ranks second in population density among States (**1,028 persons / sq km**).
+28. **Arunachal Pradesh** has the lowest population density in India (**17 persons / sq km**).
+29. Among Union Territories, **Delhi** has the highest population density (**11,320 persons / sq km**).
+30. Among Union Territories, **Andaman & Nicobar Islands** has the lowest population density (**46 persons / sq km**).
+31. In Uttar Pradesh, **Ghaziabad** has the highest population density (**3,971 persons / sq km**).
+32. In Uttar Pradesh, **Lalitpur** has the lowest population density (**242 persons / sq km**).
+33. In Uttarakhand, **Haridwar** has the highest density (**801 / km²**), while **Uttarkashi** has the lowest (**41 / km²**).
+34. The term **"Ghost Villages"** (*Bhootia Gaon*) in Uttarakhand refers to hill villages completely depopulated due to acute out-migration.
+35. The two hill districts in Uttarakhand that recorded **negative decadal population growth** in Census 2011 are **Almora (-1.28%)** and **Pauri Garhwal (-1.41%)**.
+36. The **Uttarakhand Rural Development and Migration Commission** was established in **2017** with headquarters at **Pauri** to study reverse migration.
+37. **Step Migration** refers to a spatial process where a migrant moves in stages (e.g. from a small village to a local town, then to a regional city, and finally to a metropolis).
+38. **Circular / Seasonal Migration** refers to temporary, recurring movements of rural labourers who travel for seasonal farm or construction work and return home.
+39. The **Inter-State Migrant Workmen (Regulation of Employment and Conditions of Service) Act** was passed in **1979** (now subsumed under the OSH Code, 2020).
+40. The **e-Shram Portal** was launched in **August 2021** by the Ministry of Labour and Employment to register unorganized and migrant workers.
+41. The **One Nation One Ration Card (ONORC)** scheme enables nationwide portability of food rations for migrant workers under NFSA, 2013.
+42. **Feminization of Agriculture** refers to the increasing proportion of agricultural work performed by rural women due to male out-migration to urban industrial centers.
+43. As per Census 2011, approximately **83.3% of total internal migrants in India moved within their home state (intra-state)**.
+44. **Brain Drain** refers to the cross-border international migration of highly skilled and educated professionals (doctors, engineers, scientists) from developing to developed countries.
+45. India has the **largest diaspora in the world**, with over **18 million non-resident Indians** living abroad.
+46. India is the **world's top recipient of inward foreign remittances**, receiving over **$100 Billion annually**.
+47. The **Pravasi Bharatiya Divas (PBD)** is celebrated in India every two years on **9 January** to mark Mahatma Gandhi's return from South Africa in 1915.
+48. The term **"Gravity Model of Migration"** (adapted from Newton's Law of Gravitation) posits that migration volume between two cities is directly proportional to their populations and inversely proportional to the square of the distance between them.
+49. **Ecological / Climate Migrants** are individuals forced to migrate due to environmental degradation, rising sea levels, desertification, or natural disasters.
+50. In the Northern Plains of India, the high concentration of population is primarily driven by **flat fertile alluvial terrain, perennial Himalayan rivers, and favourable agricultural climate**.
 
 ---
 
 ## Confused Pairs
 
-| A | B | Distinguishing fact |
-|---|---|---|
-| **Immigration** | **Emigration** | In vs out |
-| **Rural→rural (largest)** | **Rural→urban (most visible)** | Largest stream ≠ only media image |
-| **Push** | **Pull** | Origin expels vs destination attracts |
-| **Arithmetic density** | **Physiological density** | Total area vs net sown area |
-| **Physiological density** | **Agricultural density** | Total population vs agricultural population on net sown |
-| **Natural growth** | **Induced (migration) growth** | Births−deaths vs net migration |
-| **Migration** | **Urbanisation** | Movement of people vs rising urban share / towns |
-| **Out-migration States (UP/Bihar)** | **In-migration hubs (MH/Delhi/Gujarat)** | Source vs destination |
-| **Reverse migration** | **Ordinary return visits** | Crisis/return-to-origin wave vs routine circular trips |
-| **Highest density state (Bihar)** | **Densest UT (Delhi)** | State vs UT answer |
-
-## Must-score drill — density types
-
-| Type | Formula |
-|---|---|
-| Arithmetic | Population ÷ **total area** |
-| Physiological | Population ÷ **net sown area** |
-| Agricultural | **Agricultural population** ÷ **net sown area** |
-
-| Stream | Classic tag |
-|---|---|
-| Rural → rural | **Largest** internal stream |
-| Rural → urban | City growth / urbanisation driver |
-| Female | Often **marriage** |
-| Male | Often **work** |
+| Confused Pair / Concept A | Confused Pair / Concept B | Trap / Crucial Difference Tested in UPPSC |
+| :--- | :--- | :--- |
+| **Arithmetic Density**: $rac{	ext{Total Population}}{	ext{Total Land Area}}$ | **Physiological Density**: $rac{	ext{Total Population}}{	ext{Net Cultivated Arable Land Area}}$ | **Trap**: Arithmetic density uses *total* geographical area; physiological density uses only *arable / cultivated* land area. Physiological density is always much higher than arithmetic density. |
+| **Highest Out-Migration State**: **Uttar Pradesh** (Origin) | **Highest In-Migration State**: **Maharashtra** (Destination) | **Trap**: UP is the #1 state where migrants *leave from*; Maharashtra (Mumbai/Pune) is the #1 state where migrants *arrive at*. |
+| **Largest Migration Stream (Overall)**: **Rural to Rural** (Female dominated) | **Largest Migration Stream for Economic Jobs**: **Rural to Urban** (Male dominated) | **Trap**: Overall migration is dominated by Rural $	o$ Rural (due to marriage). Employment-seeking migration is dominated by Rural $	o$ Urban. |
+| **Primary Reason for Female Migration**: **Marriage (66.7%)** | **Primary Reason for Male Migration**: **Work / Employment (38%)** | **Trap**: Two-thirds of women migrate due to marriage; over one-third of men migrate for employment. |
+| **Ravenstein's Law of Migration (1885)**: Empirical rules of distance & gender | **Everett Lee's Model of Migration (1966)**: Push-Pull factors & intervening obstacles | **Trap**: Ravenstein discovered migration laws (short distance, female short-distance dominance); Everett Lee formalized Push-Pull factors. |
+| **Highest Density State in 2001**: **West Bengal (903 / km²)** | **Highest Density State in 2011**: **Bihar (1,106 / km²)** | **Trap**: Bihar surpassed West Bengal in Census 2011 to take the 1st rank in density among States. |
+| **Ghost Villages (Almora & Pauri Garhwal)**: Mountainous out-migration | **Urban Congestion (Ghaziabad & Delhi)**: Destination in-migration pressure | **Trap**: Almora and Pauri Garhwal in Uttarakhand recorded *negative* decadal growth due to extreme out-migration. |
+| **Intra-District Migration**: Within the same district (62% of migrants) | **Inter-State Migration**: Across different States (12% of migrants) | **Trap**: The vast majority of migration in India is local and intra-district, not inter-state. |
+| **Agricultural Density**: $rac{	ext{Agricultural Workers}}{	ext{Net Cultivated Area}}$ | **Agricultural Population Density**: Total farm household members on arable land | **Trap**: Agricultural density measures the ratio of farm workers to farm land; high agricultural density indicates agricultural overcrowding and low labour productivity. |
+| **One Nation One Ration Card (ONORC)**: Domestic food ration portability | **e-Shram Portal**: National database of unorganized & migrant labour | **Trap**: ONORC provides food grain portability across PDS ration shops; e-Shram is a digital registry issuing 12-digit UAN numbers. |
 
 ---
 
-## 5.1 Migration — types, causes, consequences
+## Must-score drill — master tables
 
-**Migration** is the permanent or semi-permanent change of residence.
+### Table 1: Four Streams of Internal Migration in India (Census 2011 Matrix)
 
-### Types and streams
-
-- **Internal** vs **international**; **immigration** (in) vs **emigration** (out).
-- Four internal streams: R→R, R→U, U→U, U→R.
-- **Rural→rural** is India’s largest stream in Census teaching — often marriage and rural labour.
-- **Rural→urban** drives city growth and is the most discussed distress/aspiration stream.
-- Permanent, seasonal and **circular** migrations differ by duration and return pattern.
-- Interstate moves cross State borders; interdistrict stays inside one State.
-
-### Push and pull
-
-- **Push:** unemployment, land fragmentation, agrarian distress, drought/flood, conflict, poor services.
-- **Pull:** higher wages, factory/service jobs, education hubs, urban amenities, kin networks.
-- UP–Bihar → Maharashtra–Delhi–Gujarat is the classic Hindi-heartland corridor teaching.
-
-### Consequences
-
-- Origin: remittances and exposure; also labour loss and left-behind dependents.
-- Destination: labour supply for construction, manufacturing, services; also slums and service stress.
-- Demographic change: age–sex structure shifts (male-selective urban inflows skew sex ratios — Topic 3 neighbour).
-- **Reverse migration** (COVID): sudden return, remittance collapse, village labour surplus, quarantine and stigma pressures, later local-employment / MGNREGS response.
-
-**UPPCS-style A/R**
-
-Assertion (A): The largest internal migration stream in India is rural → rural.  
-Reason (R): Female migration is often for marriage, while male migration is often for work.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**A/R logic:** Both statements are true teaching facts, but marriage/work motives do not by themselves prove why rural→rural is the largest stream.
-
-**Ans: A.** Both true; R does not explain A.
-
-</details>
+| Migration Stream | Magnitude / Share in Total Migrants | Gender Dominance & Demographic Profile | Primary Underlying Reasons & Drivers | Key Geographic & Economic Corridors |
+| :--- | :--- | :--- | :--- | :--- |
+| **1. Rural to Rural (R $	o$ R)** | **Largest Stream** (~53% to 55% of all internal migration) | **Overwhelmingly Female (approx. 70%–75% female)** | **Marriage Migration (Patrilocal exogamy)** is the primary cause for women. Seasonal agricultural harvesting labour for men. | Intra-district and inter-district movements in agrarian plains (UP, Bihar, MP, Rajasthan, West Bengal). |
+| **2. Rural to Urban (R $	o$ U)** | **Second Largest Stream** (~20% to 22%) | **Predominantly Male (Male selective)** | **Economic / Employment Search**: Rural distress, agricultural underemployment, higher urban wage differentials, modern education. | UP/Bihar $	o$ Delhi-NCR, Mumbai, Surat, Ahmedabad, Bengaluru, Chennai, Kolkata. |
+| **3. Urban to Urban (U $	o$ U)** | **Third Stream** (~14% to 16%) | **Balanced Male and Female** | Career progression, administrative transfers, higher specialized education, business expansion, step-migration to megacities. | Tier-2/Tier-3 cities $	o$ Tier-1 Metropolises (e.g., Lucknow/Patna $	o$ Delhi/Noida; Pune/Nagpur $	o$ Mumbai). |
+| **4. Urban to Rural (U $	o$ R)** | **Smallest Stream** (~5% to 6%) | Balanced | Return migration post-retirement, economic shocks/job loss in cities, reverse distress migration during crises (e.g. COVID-19 lockdowns). | Industrial hubs $	o$ Native rural villages across Eastern UP, Bihar, Jharkhand, Odisha. |
 
 ---
 
-## 5.2 Population distribution and density
+### Table 2: Mathematical Formulations of Population Density Types
 
-**Distribution** answers where people live; **density** answers how many per unit of land.
-
-### Uneven India
-
-- Crowded: Ganga plain and many coasts — flat land, water, fertile soil, long settlement history.
-- Sparse: Himalaya, NE hills, Thar, dry interiors — relief, cold, aridity, forest, weak infrastructure.
-- Minerals and industry pull people to belts such as Chotanagpur and coastal hubs.
-- Transport corridors thicken settlement; metros concentrate migrants.
-
-### Three densities
-
-- **Arithmetic** — everyday persons per km² (India **382** in 2011).
-- **Physiological** — people per unit of **net sown** land (food-land pressure).
-- **Agricultural** — **farm population** per unit of net sown land (labour intensity on farms).
-- Bihar leads state arithmetic density; Arunachal Pradesh is the sparse-state floor.
-- Delhi’s extreme density is a **UT** fact — do not use it as “lowest/highest density state” wrongly.
-
-**UPPCS (Pre) 2021**
-
-Which of the following State has the lowest density of population as per the Census of 2011?
-
-A. Himachal Pradesh
-B. Arunachal Pradesh
-C. West Bengal
-D. Assam
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Arunachal (~17) is the lowest density state; Himachal is low but not the floor.
-
-**Ans: B.** Arunachal Pradesh.
-
-</details>
-
-**Standard — density types**
-
-Which of the pairs given above is/are correctly matched?
-
-1. Arithmetic density — Population / total area  
-2. Physiological density — Population / net sown area  
-3. Agricultural density — Agricultural population / net sown area  
-
-A. Only 1, 2 and 3
-B. 2 and 3
-C. Only 1
-D. Only 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** All three formulas are correct; the trap is swapping physiological with agricultural.
-
-**Ans: A.** Only 1, 2 and 3.
-
-</details>
+| Density Type | Exact Mathematical Formula | Numerator | Denominator | Real-World Economic & Analytical Purpose |
+| :--- | :--- | :--- | :--- | :--- |
+| **Arithmetic Population Density** | $rac{	ext{Total Population}}{	ext{Total Geographical Area}}$ | Total headcount of people in the territory | Total land area (including barren, forest, urban, and arable land) in km² | Crude, universally reported standard density. (India 2011 = **382 persons / km²**; UP = **829 / km²**). |
+| **Physiological Density (Nutritional Density)** | $rac{	ext{Total Population}}{	ext{Net Cultivated / Arable Land Area}}$ | Total population of the country | Only the net arable / cultivated agricultural land area | Measures true population pressure on food-producing arable land. Crucial for assessing carrying capacity. |
+| **Agricultural Density** | $rac{	ext{Total Agricultural Population}}{	ext{Net Cultivated / Arable Land Area}}$ | Farmers + Cultivators + Agricultural Labourers | Only the net cultivated land area | Measures land-man ratio among farming workers. High agricultural density indicates severe disguised unemployment. |
+| **Economic Density** | $rac{	ext{Total Population}}{	ext{Total Economic Resources / Wealth Index}}$ | Total population | Monetary index of total productive capital and natural resource capacity | Reflects standard of living and resource adequacy relative to population. |
 
 ---
 
-## 5.3 Population geography desk
+### Table 3: Major Migration Theories & Conceptual Frameworks
 
-**Population geography** links numbers to space, resources and movement.
+| Migration Model / Theory | Propounder / Theorist | Year & Publication | Central Postulates & Core Laws | Key Examination Takeaways |
+| :--- | :--- | :--- | :--- | :--- |
+| **Laws of Migration** | **E. G. Ravenstein** (English Cartographer & Demographer) | *The Laws of Migration* (**1885 / 1889**) | 1. Most migrants travel **short distances**.<br>2. Long-distance migrants prefer **large commercial centres**.<br>3. Migration proceeds **step-by-step** (Village $	o$ Town $	o$ City $	o$ Metropolis).<br>4. Each main migration current generates a **counter-current**.<br>5. **Females predominate in short-distance migration**, whereas males dominate in long-distance migration.<br>6. **Economic motives** are the primary cause of migration. | Foundational empirical framework for spatial demographic mobility studies. |
+| **Push-Pull Model of Migration** | **Everett S. Lee** | *A Theory of Migration* (**1966**) | Migration is governed by 4 sets of factors:<br>1. **Factors associated with the area of origin** (Push factors).<br>2. **Factors associated with the area of destination** (Pull factors).<br>3. **Intervening Obstacles** (Distance, travel cost, physical barriers, immigration laws).<br>4. **Personal Factors** (Age, gender, education, risk appetite). | Classifies migration into Push factors (negative forces driving out) and Pull factors (positive attractions drawing in). |
+| **Mobility Transition Model** | **Wilbur Zelinsky** | *The Hypothesis of the Mobility Transition* (**1971**) | Spatial mobility transitions through sequential stages parallel to the **Demographic Transition Model (DTT)**:<br>• Phase 1 (Pre-modern): Little circulation.<br>• Phase 2 (Early transition): Massive rural-to-urban and international migration.<br>• Phase 3 (Late transition): Urban-to-urban dominates.<br>• Phase 4 (Advanced): Inter-urban and intra-urban circulation dominates. | Connects industrialisation and demographic transition with patterns of human migration. |
+| **Todaro Migration Model** | **Michael P. Todaro** | *A Model of Labor Migration and Urban Unemployment* (**1969**) | Rural-urban migration is driven by **expected urban-rural income differentials** rather than actual wage differentials, accounting for urban unemployment probability. | Explains why rural migration to cities continues even in the presence of high urban unemployment. |
 
-- It asks why plains crowd and hills thin, why corridors pull migrants, and how density types reveal different pressures.
-- Population–resource balance at a place depends on technique and institutions (Topic 2 optimum neighbour) as well as crude density.
-- Rural–urban distribution shares sit in Topic 3; **why** people move and **where** they concentrate deepen here.
-- India vs world: India is dense and uneven internally; country-rank tables stay in Topic 7.
+---
 
-**UPPCS (Pre) 2024**
+## Teaching cards
 
-Write in descending order the following States on the basis of their population as per Census, 2011:
+### 2.1 Spatial Distribution & Migration Dynamics in India
 
-1. Bihar
-2. Andhra Pradesh
-3. Uttar Pradesh
-4. West Bengal
+#### A. Internal Migration Magnitude in India (Census 2011)
+- As per Census 2011, **45.36 Crore Indians (37.5% of the total population)** were classified as internal migrants by place of last residence (up from 31.45 Crore in 2001).
+- **Categorisation by Movement Scale**:
+  1. **Intra-District Migrants**: Movement within the same district (**62%** of all migrants — predominantly female marriage migration).
+  2. **Inter-District Migrants**: Movement across districts within the same State (**26%**).
+  3. **Inter-State Migrants**: Movement across State boundaries (**12%**, approx. 5.4 Crore migrants).
 
-A. 3, 4, 1, 2
-B. 1, 3, 2, 4
-C. 1, 3, 4, 2
-D. 3, 1, 4, 2
+#### B. Reasons for Migration (Gender Asymmetry in Census 2011)
+- **Female Migration Drivers**:
+  - **Marriage accounts for 66.7%** (two-thirds) of all female migration in India due to traditional patrilocal village exogamy.
+  - Movement with household / parents accounts for ~15%.
+  - Employment / work accounts for only ~3%.
+- **Male Migration Drivers**:
+  - **Work / Employment / Business is the primary driver (approx. 38%–40%)** for male internal migration.
+  - Movement with household accounts for ~25%.
+  - Education accounts for ~6%.
+  - Marriage accounts for only ~2% to 4% of male migration.
 
-<details>
-<summary>Show answer</summary>
+```
+                    INTERNAL MIGRATION REASONS IN INDIA (CENSUS 2011)
+            FEMALE MIGRATION                                MALE MIGRATION
+  ┌─────────────────────────────────┐             ┌─────────────────────────────────┐
+  │ Marriage:               ~66.7%  │             │ Employment / Work:      ~38.0%  │
+  │ Moved with Household:   ~15.2%  │             │ Moved with Household:   ~25.1%  │
+  │ Work / Business:         ~3.0%  │             │ Education:               ~6.2%  │
+  │ Education:               ~1.5%  │             │ Marriage:                ~3.2%  │
+  │ Other Reasons:          ~13.6%  │             │ Other Reasons:          ~27.5%  │
+  └─────────────────────────────────┘             └─────────────────────────────────┘
+```
 
-**Logic:** UP > Bihar > WB > AP (2011 undivided Andhra frame).
+---
 
-**Ans: D.** 3, 1, 4, 2.
+### 2.2 Major Migration Corridors & Socio-Economic Impact
 
-</details>
+#### A. Inter-State Migration Corridors
+1. **Out-Migration Origins (Net Source States)**:
+   - **Uttar Pradesh** is the single largest source of out-migrants in India, followed closely by **Bihar**, Rajasthan, and Madhya Pradesh.
+   - Characterized by high agrarian demographic pressure, small landholdings, low industrial base, and wage differentials.
+2. **In-Migration Destinations (Net Inflow States)**:
+   - **Maharashtra** is the top destination state in India (attracting ~20% of all inter-state migrants, primarily in the Mumbai Metropolitan Region and Pune).
+   - **National Capital Territory of Delhi (NCT)** is the second largest destination.
+   - Other major in-migration hubs: **Gujarat** (Surat diamond/textile hub, Ahmedabad), **Haryana** (Gurugram, Faridabad), **Karnataka** (Bengaluru tech hub), **Tamil Nadu**, and **Punjab** (seasonal farm labour).
+
+#### B. Socio-Economic Consequences of Migration
+- **Positive Impacts**:
+  - **Remittance Inflows (Money Order Economy)**: Substantial financial support for rural families in Eastern UP and Bihar, financing education, health, and debt redemption.
+  - Efficient spatial reallocation of labour from surplus agricultural regions to labour-deficit industrial and service corridors.
+- **Negative Impacts**:
+  - **Brain Drain and Rural Depopulation**: Skewed rural demographic structure leaving behind aging elderly and women (feminization of agriculture).
+  - Emergence of **"Ghost Villages"** (*Bhootia Gaon*) in the middle-altitude hill districts of Uttarakhand (e.g., Almora, Pauri Garhwal).
+  - Severe civic and infrastructural strain on recipient urban metropolises: rapid expansion of unplanned **slums**, shortage of drinking water, sanitation deficits, and traffic congestion.
 
 ---
 
 ## Complete PYQ Bank (UPPCS)
 
-**Q1. UPPCS (Pre) 2021** — Lowest density state
+> UPPCS-mapped / Category A stems. Broader Extra Drill follows.
 
-Which of the following State has the lowest density of population as per the Census of 2011?
+### Category A: Migration Streams, Causes & Gender Dynamics
 
-A. Himachal Pradesh
-B. Arunachal Pradesh
-C. West Bengal
-D. Assam
-
+1. Which internal migration stream accounts for the largest proportion of total internal migrants in India?
+A. Rural to Urban  
+B. Urban to Urban  
+C. Rural to Rural  
+D. Urban to Rural  
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Arunachal floor among states.
-
-**Ans: B.** Arunachal Pradesh.
-
+**Ans: C. Rural to Rural**  
+**Logic:** Rural to Rural migration is the largest stream in India, accounting for over 53% of all internal migration, primarily driven by female marriage migration.
 </details>
 
-**Q2. UPPCS (Pre) 2024** — State population order
-
-Write in descending order: Bihar, Andhra Pradesh, Uttar Pradesh, West Bengal (Census 2011).
-
-A. 3, 4, 1, 2
-B. 1, 3, 2, 4
-C. 1, 3, 4, 2
-D. 3, 1, 4, 2
-
+2. According to Census 2011, what is the single largest reason for female migration in India?
+A. Employment and Business  
+B. Education  
+C. Marriage  
+D. Housing and Relocation  
 <details>
 <summary>Show answer</summary>
 
-**Logic:** UP > Bihar > WB > AP.
-
-**Ans: D.**
-
+**Ans: C. Marriage**  
+**Logic:** Marriage accounts for 66.7% (two-thirds) of all female migration in India due to the traditional social practice of patrilocal village exogamy.
 </details>
 
-**Q3. Standard** — Density match
-
-1. Arithmetic density — Population / total area  
-2. Physiological density — Population / net sown area  
-3. Agricultural density — Agricultural population / net sown area  
-
-A. Only 1, 2 and 3
-B. 2 and 3
-C. Only 1
-D. Only 1 and 2
-
+3. Which Indian State is the largest recipient of inter-state in-migrants according to Census 2011?
+A. Uttar Pradesh  
+B. Maharashtra  
+C. Gujarat  
+D. Karnataka  
 <details>
 <summary>Show answer</summary>
 
-**Logic:** All three correct.
-
-**Ans: A.**
-
+**Ans: B. Maharashtra**  
+**Logic:** Maharashtra attracts the largest number of inter-state migrants in India (approx. 20% of all inter-state migrants), drawn to the Mumbai Metropolitan Region, Pune, and Thane.
 </details>
 
-**Q4. Standard** — Largest stream
-
-The largest internal migration stream in India is
-
-A. Rural → urban
-B. Urban → rural
-C. Rural → rural
-D. Urban → urban
-
+4. Which State in India is the largest source of net out-migrants to other States?
+A. Bihar  
+B. Uttar Pradesh  
+C. Rajasthan  
+D. West Bengal  
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Rural→rural leads Census stream teaching.
-
-**Ans: C.** Rural → rural.
-
-</details>
-
-**Q5. Standard** — Immigration
-
-Immigration means
-
-A. Movement out of a country/place
-B. Movement into a country/place
-C. Only rural→rural moves
-D. Only seasonal farm work
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** In = immigration; out = emigration.
-
-**Ans: B.**
-
-</details>
-
-**Q6. Standard** — Push factor
-
-Which is a push factor?
-
-A. Higher wages at destination
-B. Better schools at destination
-C. Drought and unemployment at origin
-D. Metro amenities at destination
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Push = origin hardships.
-
-**Ans: C.**
-
-</details>
-
-**Q7. Standard** — Physiological vs agricultural
-
-Physiological density uses
-
-A. Agricultural population / total area
-B. Total population / net sown area
-C. Agricultural population / total area
-D. Total population / total area
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Total people on cultivated land; agricultural density uses farm population.
-
-**Ans: B.**
-
-</details>
-
-**Q8. Standard** — Out-migration
-
-Which pair is a classic out-migration source belt?
-
-A. Maharashtra and Gujarat
-B. Uttar Pradesh and Bihar
-C. Delhi and Chandigarh
-D. Goa and Sikkim only
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Hindi heartland sources → western/metro destinations.
-
-**Ans: B.**
-
-</details>
-
-**Q9. Standard** — Female migration
-
-Female internal migration in India is classically linked mainly with
-
-A. Only international asylum
-B. Marriage
-C. Only IT jobs
-D. Only military posting
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Marriage migration teaching tag.
-
-**Ans: B.** Marriage.
-
-</details>
-
-**Q10. Standard** — Induced growth
-
-Induced change in population comes from
-
-A. CBR only
-B. CDR only
-C. Migration
-D. Literacy only
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Migration = induced; natural = CBR−CDR.
-
-**Ans: C.** Migration.
-
+**Ans: B. Uttar Pradesh**  
+**Logic:** Uttar Pradesh has the largest absolute volume of net out-migrants in India, followed closely by Bihar.
 </details>
 
 ---
 
-## Complete PYQ Bank (UKPCS)
+## Ghatnachakra Extra Drill — Migration and Population Distribution
 
-**Q1. Standard**
+Extra Drill rebuilt from mixed RO/ARO–BPSC–UPSC–coaching stems (not a full Purvalokan dump). Expand when the book is pasted.
 
-Emigration means
+### Category B: Migration Theories & Geographic Principles
 
-A. Coming into a place
-B. Going out of a place
-C. Only urban→urban moves
-D. Only census enumeration
-
+5. Who propounded the seminal "Laws of Migration" in 1885?
+A. Everett S. Lee  
+B. E. G. Ravenstein  
+C. Wilbur Zelinsky  
+D. Thomas Malthus  
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Out-movement.
-
-**Ans: B.**
-
+**Ans: B. E. G. Ravenstein**  
+**Logic:** British cartographer and demographer E. G. Ravenstein formulated the foundational "Laws of Migration" in papers presented in 1885 and 1889.
 </details>
 
-**Q2. Standard**
-
-Which density is “persons per sq km” in ordinary Census tables?
-
-A. Agricultural density
-B. Physiological density
-C. Arithmetic density
-D. Nutritional density
-
+6. The Push-Pull theory of migration was formulated by:
+A. E. G. Ravenstein  
+B. Everett S. Lee  
+C. Michael P. Todaro  
+D. David Ricardo  
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Arithmetic = population / total area (382 for India 2011).
-
-**Ans: C.** Arithmetic density.
-
+**Ans: B. Everett S. Lee**  
+**Logic:** Everett S. Lee published *A Theory of Migration* in 1966, formalizing migration dynamics into push factors, pull factors, intervening obstacles, and personal factors.
 </details>
 
-**Q3. Standard**
-
-Sparse population belts in India include
-
-A. Indo-Gangetic plain
-B. Himalaya and Thar
-C. All coastal deltas only
-D. Only NCT Delhi
-
+7. The "Mobility Transition Model" linking patterns of spatial mobility with stages of demographic transition was developed by:
+A. Wilbur Zelinsky  
+B. Warren Thompson  
+C. Frank Notestein  
+D. Gunnar Myrdal  
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Relief and aridity thin settlement.
-
-**Ans: B.**
-
+**Ans: A. Wilbur Zelinsky**  
+**Logic:** Wilbur Zelinsky introduced the Mobility Transition Model in 1971, demonstrating how human migration patterns evolve systematically as societies transition through demographic stages.
 </details>
 
-**Q4. Standard**
+---
 
-Reverse migration during COVID lockdown mainly meant
 
-A. First-time move to metros
-B. Return of workers from destinations to origin areas
-C. Only international tourism
-D. Only Census house-listing
+### Category C: Population Density Types & Spatial Distribution
 
+8. What is the formula for calculating Physiological Population Density?
+A. $rac{	ext{Total Population}}{	ext{Total Geographical Area}}$  
+B. $rac{	ext{Total Population}}{	ext{Net Cultivated / Arable Land Area}}$  
+C. $rac{	ext{Agricultural Workers}}{	ext{Total Cultivated Area}}$  
+D. $rac{	ext{Urban Population}}{	ext{Total Urban Area}}$  
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Crisis return wave.
-
-**Ans: B.**
-
+**Ans: B. $rac{	ext{Total Population}}{	ext{Net Cultivated / Arable Land Area}}$**  
+**Logic:** Physiological density (also called nutritional density) is the ratio of total population to net arable/cultivated land, measuring true population pressure on food supply.
 </details>
 
-**Q5. Standard**
-
-Pull factor example
-
-A. Flood destroying village assets
-B. Factory jobs and higher wages in a metro
-C. Local drought alone
-D. Conflict at origin alone
-
+9. Which Indian State recorded the highest arithmetic population density in Census 2011?
+A. West Bengal  
+B. Kerala  
+C. Bihar  
+D. Uttar Pradesh  
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Destination attractions = pull.
+**Ans: C. Bihar**  
+**Logic:** Bihar has the highest population density among Indian States with 1,106 persons per sq km, surpassing West Bengal (1,028 persons / sq km).
+</details>
 
-**Ans: B.**
+10. In Uttarakhand, which two districts recorded negative decadal population growth in Census 2011 due to severe out-migration?
+A. Almora and Pauri Garhwal  
+B. Chamoli and Rudraprayag  
+C. Tehri and Uttarkashi  
+D. Pithoragarh and Bageshwar  
+<details>
+<summary>Show answer</summary>
 
+**Ans: A. Almora and Pauri Garhwal**  
+**Logic:** Almora (-1.28%) and Pauri Garhwal (-1.41%) were the two hill districts in Uttarakhand that recorded negative decadal growth due to acute out-migration.
 </details>
 
 ---
 
 ## Practice Zone
 
-**Q1.** Four internal streams do **not** include
-
-A. Rural → rural
-B. Rural → urban
-C. Capital → capital only as a fifth Census stream
-D. Urban → rural
-
+1. According to Ravenstein's Laws of Migration, which demographic group predominates in short-distance migration?
+A. Adult Males  
+B. Females  
+C. Elderly Persons  
+D. Children under 15  
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
-
-**Logic:** Classic four streams only.
-
+**Ans: B. Females**  
+**Logic:** Ravenstein established that females are more migratory than males over short distances (predominantly marriage-related), whereas males dominate over long distances.
 </details>
 
-**Q2.** Highest density state (2011)
-
-A. Kerala
-B. Bihar
-C. Uttar Pradesh
-D. West Bengal
-
+2. What is Agricultural Density in demographic geography?
+A. $rac{	ext{Total Rural Population}}{	ext{Total Forest Area}}$  
+B. $rac{	ext{Total Agricultural Population (Cultivators + Labourers)}}{	ext{Net Cultivated Land Area}}$  
+C. $rac{	ext{Total Food Grain Output}}{	ext{Total Population}}$  
+D. $rac{	ext{Number of Tractors}}{	ext{Total Cropped Area}}$  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Bihar.
-
-**Logic:** ~1106.
-
+**Ans: B. $rac{	ext{Total Agricultural Population (Cultivators + Labourers)}}{	ext{Net Cultivated Land Area}}$**  
+**Logic:** Agricultural density measures the ratio of actual farm workers to net cultivated land, reflecting agricultural crowding and mechanisation levels.
 </details>
 
-**Q3.** Assertion (A): Physiological density uses net sown area in the denominator.  
-Reason (R): Agricultural density uses total area in the denominator.
-
-A. Both true; R explains A
-B. Both true; R does not explain A
-C. A true, R false
-D. A false, R true
-
+3. Which of the following is categorized as a 'Push Factor' for rural-to-urban migration?
+A. Availability of modern hospitals in cities  
+B. Higher industrial wages  
+C. Recurrent droughts, soil degradation, and lack of local employment  
+D. Access to prestigious universities  
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** A true, R false.
-
-**A/R logic:** Agricultural density also uses **net sown** area; numerator is agricultural population.
-
+**Ans: C. Recurrent droughts, soil degradation, and lack of local employment**  
+**Logic:** Push factors are adverse conditions at the place of origin that force individuals to leave. Better healthcare, higher wages, and universities are pull factors.
 </details>
 
-**Q4.** Crowded belt
-
-A. Thar Desert core
-B. High Himalaya
-C. Ganga plain
-D. Cold desert Ladakh only
-
+4. In the Todaro Migration Model, rural-urban migration continues to occur despite high urban unemployment because:
+A. Migrants enjoy travelling long distances  
+B. Decisions are based on expected urban-rural income differentials rather than current actual wage rates  
+C. Urban housing is completely free  
+D. Government mandates urban relocation  
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Ganga plain.
-
-**Logic:** Fertile alluvium + water + history.
-
+**Ans: B. Decisions are based on expected urban-rural income differentials rather than current actual wage rates**  
+**Logic:** Michael Todaro showed that migrants weigh the expected urban wage (factoring in the probability of finding a job) against low rural earnings.
 </details>
 
-**Q5.** Male migration is often for
-
-A. Only marriage
-B. Work / employment
-C. Only retirement
-D. Only CSR audits
-
+5. The phenomenon where rural out-migration leaves women to manage agricultural plots and farming decisions is known as:
+A. Feminization of Agriculture  
+B. Agrarian Deindustrialization  
+C. Gender Demographic Shift  
+D. Rural Empowerment Quota  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** Gendered motive tags.
-
+**Ans: A. Feminization of Agriculture**  
+**Logic:** As male workers migrate to urban industrial sectors, rural agriculture increasingly relies on female family members, a phenomenon known as the feminization of agriculture.
 </details>
 
-**Q6.** Which is **incorrect**?
-
-A. Immigration = in
-B. Emigration = out
-C. Rural→rural = largest stream
-D. Delhi = lowest density state
-
+6. What percentage of total internal migrants in India moved across state borders (Inter-State Migration) in Census 2011?
+A. 12%  
+B. 26%  
+C. 53%  
+D. 62%  
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Delhi is a dense UT.
-
-**Logic:** Arunachal = lowest density state.
-
+**Ans: A. 12%**  
+**Logic:** Inter-state migration accounts for approx. 12% (5.4 Crore) of all internal migrants. Intra-district migration accounts for 62%, and inter-district migration accounts for 26%.
 </details>
 
-**Q7.** Chain migration means
-
-A. Only one person ever migrates
-B. Later migrants follow kin/networks already at destination
-C. Only government-forced relocation
-D. Only international treaties
-
+7. Which Union Territory in India has the highest population density?
+A. Chandigarh  
+B. Puducherry  
+C. NCT of Delhi  
+D. Daman and Diu  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** Network lowers cost/risk.
-
+**Ans: C. NCT of Delhi**  
+**Logic:** The National Capital Territory of Delhi recorded the highest density in India at 11,320 persons per square kilometer in Census 2011.
 </details>
 
-**Q8.** Remittances mainly benefit
-
-A. Only destination metros’ budgets
-B. Origin households (with caveats)
-C. Only foreign tourists
-D. Only stock exchanges
-
+8. What is the population density of Ghaziabad district in Uttar Pradesh (Census 2011)?
+A. 1,816 persons / sq km  
+B. 2,395 persons / sq km  
+C. 3,971 persons / sq km  
+D. 4,512 persons / sq km  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** Positive consequence at origin.
-
+**Ans: C. 3,971 persons / sq km**  
+**Logic:** Ghaziabad is the most densely populated district in UP with a density of 3,971 persons per square kilometer.
 </details>
 
-**Q9.** Match List
-
-| List-I | List-II |
-|---|---|
-| A. Push | 1. Metro wages |
-| B. Pull | 2. Agrarian distress |
-| C. Out-migration source | 3. UP–Bihar |
-| D. In-migration hub | 4. Maharashtra–Delhi–Gujarat |
-
-A. A-2, B-1, C-3, D-4
-B. A-1, B-2, C-4, D-3
-C. A-2, B-1, C-4, D-3
-D. A-3, B-4, C-1, D-2
-
+9. The term 'Step Migration' describes:
+A. Moving down from hill villages to river valleys  
+B. Gradual movement in stages from village to small town, then city, and finally metropolis  
+C. Moving across international borders by foot  
+D. Migration caused strictly by political elections  
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
-
-**Logic:** Corridor spine.
-
+**Ans: B. Gradual movement in stages from village to small town, then city, and finally metropolis**  
+**Logic:** Step migration is the progressive spatial transition of migrants moving up the urban hierarchy from smaller settlements to larger cities.
 </details>
 
-**Q10.** India arithmetic density 2011
-
-A. 325
-B. 382
-C. 829
-D. 1106
-
+10. Pravasi Bharatiya Divas (PBD) is celebrated in India on 9 January to commemorate:
+A. The enactment of the Citizenship Act, 1955  
+B. Mahatma Gandhi's return to India from South Africa in 1915  
+C. The first Indian satellite launch  
+D. The establishment of the Ministry of External Affairs  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** 382.
-
-**Logic:** 325 = 2001; 829 = UP; 1106 = Bihar.
-
+**Ans: B. Mahatma Gandhi's return to India from South Africa in 1915**  
+**Logic:** Pravasi Bharatiya Divas is celebrated on 9 January to mark the return of Mahatma Gandhi from South Africa to Mumbai on 9 January 1915.
 </details>
 
-**Q11.** Seasonal migration is
-
-A. Always permanent settlement
-B. Often timed to farm lean seasons / work cycles
-C. Only international
-D. Identical to CSR
-
+11. What is the total estimated strength of the Indian Diaspora living across the globe?
+A. Over 5 Million  
+B. Over 10 Million  
+C. Over 18 Million  
+D. Over 35 Million  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** Duration/return pattern.
-
+**Ans: C. Over 18 Million**  
+**Logic:** According to UN World Migration Reports, India possesses the world's largest diaspora, with more than 18 million non-resident Indians residing abroad.
 </details>
 
-**Q12.** Distribution factor that is **physical**
-
-A. Software parks only
-B. Terrain and climate
-C. Only cinema industry
-D. Only GST rates
-
+12. Which district in Uttar Pradesh has the lowest population density as per Census 2011?
+A. Sonbhadra  
+B. Hamirpur  
+C. Lalitpur  
+D. Mahoba  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** Physical vs socio-economic factors.
-
+**Ans: C. Lalitpur**  
+**Logic:** Lalitpur has the lowest density in UP at 242 persons per sq km, followed by Sonbhadra (270 / km²).
 </details>
 
-**Q13.** Urban sex-ratio skew links to
-
-A. Only TFR definitions
-B. Male-selective in-migration to cities
-C. Only NPP 2000
-D. Only World Population Day
-
+13. The One Nation One Ration Card (ONORC) scheme in India was introduced primarily to assist:
+A. Software exporters  
+B. Migrant workers and daily wage labourers access subsidized food grains across any fair price shop nationwide  
+C. Foreign tourists  
+D. Large commercial dairy owners  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** Topic 3 neighbour — urban SR often lower.
-
+**Ans: B. Migrant workers and daily wage labourers access subsidized food grains across any fair price shop nationwide**  
+**Logic:** ONORC enables inter-state and intra-state portability of ration cards under the National Food Security Act (NFSA), 2013, ensuring migrant workers can buy subsidized food grains anywhere in India.
 </details>
 
-**Q14.** Which pair is correctly matched?
-
-A. Physiological density — farmers / total area
-B. Agricultural density — agricultural population / net sown area
-C. Arithmetic density — population / net sown area
-D. Agricultural density — population / total area
-
+14. The 'Gravity Model' applied to human migration was derived from which physical law?
+A. Boyle's Law of Gases  
+B. Newton's Law of Universal Gravitation  
+C. Einstein's Theory of Relativity  
+D. Ohm's Law of Resistance  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** Keep the three formulas straight.
-
+**Ans: B. Newton's Law of Universal Gravitation**  
+**Logic:** The Gravity Model of migration ($M_{ij} = k \cdot rac{P_i P_j}{D_{ij}^2}$) posits that the interaction/migration between two population centres is proportional to the product of their populations and inversely proportional to the square of the distance between them.
 </details>
 
-**Q15.** COVID reverse migration exposed gaps in
-
-A. Only space research
-B. Portable wages, shelter and welfare for interstate workers
-C. Only Census 1872 history
-D. Only SEBI listing rules
-
+15. What was the primary driver of the large-scale reverse migration observed in India during March–May 2020?
+A. Permanent rural industrialisation  
+B. Sudden economic cessation, loss of daily wages, and nationwide COVID-19 pandemic lockdowns  
+C. Free distribution of agricultural land in villages  
+D. Mandatory national service laws  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** ONORC / e-Shram policy response lane.
-
+**Ans: B. Sudden economic cessation, loss of daily wages, and nationwide COVID-19 pandemic lockdowns**  
+**Logic:** The sudden suspension of commercial and industrial activities during the 2020 COVID-19 lockdown deprived informal migrant labourers of wages and housing, triggering mass reverse migration back to native villages.
 </details>
 
-**Q16.** Sparse NE hills are sparse mainly because of
-
-A. Flat alluvium everywhere
-B. Rugged terrain, forest, accessibility limits
-C. Being the densest Ganga plain
-D. Zero rainfall always
-
+16. In which State of India is the Rural Development and Migration Commission headquartered at Pauri?
+A. Himachal Pradesh  
+B. Uttarakhand  
+C. Sikkim  
+D. Arunachal Pradesh  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** Physical distribution factors.
-
+**Ans: B. Uttarakhand**  
+**Logic:** The Government of Uttarakhand established the Rural Development and Migration Commission in 2017 with its headquarters in Pauri to formulate policy solutions for arresting rural hill depopulation.
 </details>
 
-**Q17.** Assertion (A): Migration changes population composition at destination.  
-Reason (R): Migrants often differ in age and sex from non-migrants.
-
-A. Both true; R explains A
-B. Both true; R does not explain A
-C. A true, R false
-D. A false, R true
-
+17. Which of the following is NOT an intervening obstacle in Everett Lee's migration model?
+A. High cost of travel and transport  
+B. Physical distance and geographical barriers  
+C. Immigration checkpoints and restrictive visa laws  
+D. High wages at the destination city  
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
-
-**A/R logic:** Selective migration alters age–sex structure.
-
+**Ans: D. High wages at the destination city**  
+**Logic:** High wages at the destination are a **pull factor**, not an intervening obstacle. Distance, travel cost, and legal restrictions are classic intervening obstacles.
 </details>
 
-**Q18.** Interdistrict migration
-
-A. Always crosses international borders
-B. Stays within a State’s districts
-C. Is identical to emigration from India
-D. Is banned by Article 19
-
+18. What proportion of male migrants in India migrated due to 'Marriage' in Census 2011?
+A. Less than 4%  
+B. Approx. 25%  
+C. Approx. 50%  
+D. Over 65%  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** Scale of move.
-
+**Ans: A. Less than 4%**  
+**Logic:** Marriage accounts for only 3.2% of male migration in India, in stark contrast to 66.7% for females.
 </details>
 
-**Q19.** Which is a **negative** destination consequence?
-
-A. Remittances to villages
-B. Pressure on housing and slums
-C. Labour for construction
-D. Skill learning for some workers
-
+19. Which state in India receives the highest share of remittances from the Gulf diaspora?
+A. Uttar Pradesh  
+B. Bihar  
+C. Kerala  
+D. Punjab  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** Urban stress side.
-
+**Ans: C. Kerala**  
+**Logic:** Kerala has historically received the highest share of international remittances from the Gulf Cooperation Council (GCC) countries.
 </details>
 
-**Q20.** Population geography asks
-
-A. Only chemical bonding
-B. How people are arranged in space and why they move
-C. Only GST slabs
-D. Only company law
-
+20. What is the population density of Uttarakhand as per Census 2011?
+A. 125 persons / sq km  
+B. 189 persons / sq km  
+C. 382 persons / sq km  
+D. 829 persons / sq km  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** Spatial demography.
-
+**Ans: B. 189 persons / sq km**  
+**Logic:** Uttarakhand's population density in Census 2011 was 189 persons per square kilometer (Haridwar highest at 801, Uttarkashi lowest at 41).
 </details>
 
-**Q21.** Trap: “Delhi has the lowest density among Indian states”
-
-A. True
-B. False — Delhi is a dense UT; Arunachal is lowest density state
-C. True only in 1872
-D. True only for CSR
-
+21. In India, intra-state migration accounts for what percentage of total internal migration?
+A. 50.0%  
+B. 65.2%  
+C. 83.3%  
+D. 95.0%  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** State vs UT.
-
+**Ans: C. 83.3%**  
+**Logic:** The vast majority (83.3%) of all internal migrants in India move within the boundaries of their home state (intra-district + inter-district).
 </details>
 
-**Q22.** Minerals/industry affect distribution by
-
-A. Repelling all settlement forever
-B. Pulling workers to mining–industrial belts
-C. Ending all agriculture
-D. Cancelling Census
-
+22. What is an 'Ecological Migrant'?
+A. A person moving to a city to work in a solar panel plant  
+B. A person forced to leave their traditional habitat due to sudden or progressive environmental changes (floods, desertification, sea level rise)  
+C. An organic farmer visiting agricultural exhibitions  
+D. A wildlife researcher tracking tiger movements  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** Socio-economic pull.
-
+**Ans: B. A person forced to leave their traditional habitat due to sudden or progressive environmental changes (floods, desertification, sea level rise)**  
+**Logic:** Ecological/environmental migrants are persons displaced from their habitual residence primarily due to climate shocks or environmental degradation.
 </details>
 
-**Q23.** Bridge to Topic 6: rural→urban migration
-
-A. Has no link to urbanisation
-B. Is a major driver of urban population growth
-C. Is identical to NPP 2000
-D. Is only about World Population Day
-
+23. Which Indian city is the largest individual urban destination for rural-to-urban migrants in India?
+A. Bengaluru  
+B. Greater Mumbai Metropolitan Region  
+C. Chennai  
+D. Hyderabad  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** Movement feeds urban share; town definitions in Topic 6.
-
+**Ans: B. Greater Mumbai Metropolitan Region**  
+**Logic:** Greater Mumbai is the single largest metropolitan magnet for domestic inter-state and intra-state migrants in India.
 </details>
 
-**Q24.** Which statement is correct?
-
-A. All migration is distress
-B. Migration includes distress and aspirational moves
-C. Only international migration exists in India
-D. Rural→rural never happens
-
+24. In Wilbur Zelinsky's Mobility Transition Model, Phase 2 (Early Transition) is characterized by:
+A. Little to no spatial circulation  
+B. Massive rural-to-urban migration and substantial international emigration  
+C. Dominance of urban-to-urban commuting only  
+D. Negative population growth and counter-urbanization  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Ans: B. Massive rural-to-urban migration and substantial international emigration**  
+**Logic:** Phase 2 of mobility transition corresponds to Stage 2 of DTT (industrial revolution/population explosion), witnessing massive rural-to-urban flows and colonization/emigration.
+</details>
 
-**Logic:** Avoid mono-causal “only distress” trap.
+25. The e-Shram portal launched by the Ministry of Labour and Employment registers unorganized migrant workers with a unique:
+A. 10-digit PAN number  
+B. 12-digit Universal Account Number (UAN)  
+C. 16-digit IFSC code  
+D. 8-digit Voter ID  
+<details>
+<summary>Show answer</summary>
 
+**Ans: B. 12-digit Universal Account Number (UAN)**  
+**Logic:** Registered workers on e-Shram receive an e-Shram card with a 12-digit Universal Account Number (UAN) valid for national social security portability.
+</details>
+
+26. Which geographical factor is the primary reason for the dense population in the Ganga-Brahmaputra Plains of India?
+A. Extreme winter temperatures  
+B. Abundant flat fertile alluvial soil, perennial water supply, and favourable agricultural climate  
+C. Abundant reserves of uranium and gold  
+D. Dense equatorial rainforests  
+<details>
+<summary>Show answer</summary>
+
+**Ans: B. Abundant flat fertile alluvial soil, perennial water supply, and favourable agricultural climate**  
+**Logic:** The Great Northern Plains offer rich deep alluvium, flat topography facilitating road/rail construction, and perennial Himalayan water resources, supporting immense population densities.
 </details>
 
 ---
@@ -929,13 +638,4 @@ D. Rural→rural never happens
 
 | Trap | Correct |
 |---|---|
-| Largest stream = rural→urban | **Rural→rural** is largest |
-| Immigration = out | **In** = immigration; **out** = emigration |
-| Physiological = farmers / net sown | Physiological = **total population** / net sown |
-| Agricultural = total population / net sown | Agricultural = **agricultural population** / net sown |
-| Delhi = lowest density state | **Arunachal** = lowest density **state**; Delhi = dense **UT** |
-| Natural growth includes migration | Migration = **induced** change |
-| Push = metro wages | Metro wages = **pull** |
-| All migration = permanent | Seasonal / circular / reverse also matter |
-| Distribution = only density number | Distribution = spatial pattern + factors |
-| Census town full card belongs only here | Triple test depth → **Topic 6** |
+| Mixing Absolute vs % ranks | Match the stem metric first |

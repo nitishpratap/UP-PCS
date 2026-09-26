@@ -10,7 +10,7 @@ Thin topics sit as sections inside the chapter that owns them. Do not split acid
 
 ## Chapter index
 
-| # | Chapter | File to create later |
+| # | Chapter | File |
 |---|---|---|
 | 1 | Atomic Structure and Periodic Classification | `18_Atomic_Structure_and_Periodic_Table.md` |
 | 2 | Matter, Solutions and Purification | `19_Matter_Solutions_and_Purification.md` |

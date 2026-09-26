@@ -10,13 +10,14 @@ IMF / World Bank Group (IBRD, IDA, IFC) | ADB / AIIB / NDB | Bretton Woods syste
 
 > **Sources baked in:** Bretton Woods / World Bank Group primers, MEA grouping factsheets, UPPCS Prelims PYQs, UKPCS Prelims
 > **Weight:** ★★★ High — Bretton Woods twins both in Washington (not NY), BIMSTEC membership, G20 logo petals, and BRICS / Jim O’Neill tags decide stems
-> **Last verified:** September 2026
+> **Last verified:** September 2026 — Lucent remodel (History/Polity section order); Extra Drill rebuilt from mixed stems
 
 BoP / FEMA / tariff depth stays in **Topic 9**. WTO **trade rules** angle also lives there; this chapter owns the **organisation / summit / HQ** desk. WEF indices deepen further in Topic 12 rankings.
 
 ---
 
 ## Current Affairs
+
 
 | Year | Fact | Why it matters |
 |------|------|----------------|
@@ -31,6 +32,7 @@ BoP / FEMA / tariff depth stays in **Topic 9**. WTO **trade rules** angle also l
 ---
 
 ## Consolidated — 46 Must-Score Facts
+
 
 1. The **Bretton Woods Conference (1944)** created the **IMF** and the **IBRD** (core of today’s World Bank) — popularly the **Bretton Woods twins**.
 2. **IMF** headquarters: **Washington D.C.**
@@ -83,6 +85,7 @@ BoP / FEMA / tariff depth stays in **Topic 9**. WTO **trade rules** angle also l
 
 ## Confused Pairs
 
+
 | A | B | Distinguishing fact |
 |---|---|---|
 | **IMF** | **World Bank** | Monetary / BoP stability vs development lending |
@@ -100,6 +103,7 @@ BoP / FEMA / tariff depth stays in **Topic 9**. WTO **trade rules** angle also l
 | **G20 lotus 7 petals** | **G20 member count** | Continents motif ≠ “20 petals” |
 
 ## Must-score drill — twins, groupings, HQs
+
 
 | Item | Tag |
 |---|---|
@@ -120,6 +124,7 @@ BoP / FEMA / tariff depth stays in **Topic 9**. WTO **trade rules** angle also l
 ---
 
 ## 10.1 Bretton Woods twins — IMF and World Bank Group
+
 
 **Bretton Woods (July 1944)** was the United Nations Monetary and Financial Conference that designed the post-war monetary and development order.
 
@@ -197,6 +202,7 @@ D. It grants loan to the Central Bank of a country.
 
 ## 10.2 Regional and plurilateral development banks
 
+
 **Multilateral development banks** finance infrastructure and long-horizon development beyond short-term IMF BoP support.
 
 - The **Asian Development Bank (ADB)** is the long-standing Asian MDB; headquarters **Manila**.
@@ -211,6 +217,7 @@ D. It grants loan to the Central Bank of a country.
 ---
 
 ## 10.3 BRICS
+
 
 **BRICS** is a plurilateral grouping of major emerging economies that coordinate on finance, development and global governance reform.
 
@@ -299,6 +306,7 @@ D. The first BRICS Summit was held in 2009 in Russia.
 
 ## 10.4 G20 and G7
 
+
 **G20** is the premier forum for economic cooperation among major systemic economies.
 
 - Membership teaching: 19 countries + the European Union; the **African Union** joined as a permanent member under India’s **2023** Presidency.
@@ -356,6 +364,7 @@ D. Greater Noida
 ---
 
 ## 10.5 ASEAN, SAARC, BIMSTEC, SCO
+
 
 **Regional groupings** organise neighbourhood trade, connectivity and political coordination.
 
@@ -478,6 +487,7 @@ D. Kathmandu
 
 ## 10.6 OECD, WTO organisation desk, WEF
 
+
 **Policy clubs and private forums** sit beside the Bretton Woods twins and regional groupings.
 
 ### OECD
@@ -547,6 +557,7 @@ D. Hanoi
 ---
 
 ## Complete PYQ Bank (UPPCS)
+
 
 **Q1. UPPCS (Pre) 2025** — Bretton Woods twins
 
@@ -668,7 +679,14 @@ D. China
 
 ---
 
-## Complete PYQ Bank (UKPCS)
+## Ghatnachakra Extra Drill — International Institutions and Groupings
+
+> Extra Drill rebuilt from mixed RO/ARO–coaching stems (paste full Ghatnachakra Purvalokan later to expand).
+
+UPPCS-tagged stems live in **Complete PYQ Bank (UPPCS)** above. UKPCS-tagged stems live in **UKPCS** below. Use Practice Zone for fresh multi-statement drills.
+
+## UKPCS
+
 
 **Q1. UKPCS (Pre) 2021** — IMF lending
 
@@ -859,6 +877,7 @@ D. 1, 2, 3, 4 and 5
 ---
 
 ## Practice Zone
+
 
 **Q1.** Bretton Woods twins are
 
@@ -1357,6 +1376,7 @@ D. Jakarta
 ---
 
 ## Common Traps
+
 
 * Bretton Woods twins = IMF + World Bank; **both** HQ **Washington D.C.** — not New York.
 * IBRD ≠ IDA ≠ IFC; IFC ≠ IMF.

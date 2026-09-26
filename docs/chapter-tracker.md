@@ -3804,6 +3804,135 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
   </div>
 </details>
 
+<details class="ct-subject" id="up-special" data-ct-subject="up-special" name="ct-subject">
+  <summary>
+    <span class="ct-subject-title">UP Special</span>
+    <span class="ct-progress" data-ct-subject="up-special"></span>
+    <span class="ct-subject-count">8 chapters</span>
+  </summary>
+  <div class="ct-subject-body">
+<h3 class="ct-group-title">Highly Important</h3>
+<div class="ct-list ct-list--high">
+<details class="ct-row" data-ct-id="up-special-01-Geography-Location-Physical-Features-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="up-special-01-Geography-Location-Physical-Features-md" aria-label="Mark UP Special Topic 1 — Geography, Location and Physical Features done">
+    <span class="ct-title">Topic 1 — Geography, Location and Physical Features</span>
+    <span class="ct-pills">Written</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/up%20special/01_Geography_Location_Physical_Features/#complete-pyq-bank-uppcs">UPPCS — ISFR &gt;20% forest, Devipatan, Lalitpur neighbour, forest %, Yamuna order, soils, Nepal-7</a></li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/up%20special/01_Geography_Location_Physical_Features/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="up-special-02-History-Culture-Art-Heritage-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="up-special-02-History-Culture-Art-Heritage-md" aria-label="Mark UP Special Topic 2 — History, Culture, Art and Heritage done">
+    <span class="ct-title">Topic 2 — History, Culture, Art and Heritage</span>
+    <span class="ct-pills">Written</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/up%20special/02_History_Culture_Art_Heritage/#complete-pyq-bank-uppcs">UPPCS / standard — Charkula, fairs, crafts, Buddhist triad, 1857, Kakori, Nautanki, Awadh 1856</a></li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/up%20special/02_History_Culture_Art_Heritage/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="up-special-03-Polity-Administration-Local-Government-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="up-special-03-Polity-Administration-Local-Government-md" aria-label="Mark UP Special Topic 3 — Polity, Administration and Local Government done">
+    <span class="ct-title">Topic 3 — Polity, Administration and Local Government</span>
+    <span class="ct-pills">Written</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/up%20special/03_Polity_Administration_Local_Government/#complete-pyq-bank-uppcs">UPPCS — LA 403 vs Manipur 60, LS 80/RS 31, SEC polls, UPPSC Art. 321, Council abolish, Noida 243Q</a></li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/up%20special/03_Polity_Administration_Local_Government/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="up-special-04-Economy-Industry-Infrastructure-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="up-special-04-Economy-Industry-Infrastructure-md" aria-label="Mark UP Special Topic 4 — Economy, Industry and Infrastructure done">
+    <span class="ct-title">Topic 4 — Economy, Industry and Infrastructure</span>
+    <span class="ct-pills">Written</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/up%20special/04_Economy_Industry_Infrastructure/#complete-pyq-bank-uppcs">UPPCS — ODOP Moonj, Baghpat toys NOT, HINDALCO, sugar qty vs productivity, Smart Cities-10, expressways</a></li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/up%20special/04_Economy_Industry_Infrastructure/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="up-special-05-Agriculture-Irrigation-Rural-Economy-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="up-special-05-Agriculture-Irrigation-Rural-Economy-md" aria-label="Mark UP Special Topic 5 — Agriculture, Irrigation and Rural Economy done">
+    <span class="ct-title">Topic 5 — Agriculture, Irrigation and Rural Economy</span>
+    <span class="ct-pills">Written</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/up%20special/05_Agriculture_Irrigation_Rural_Economy/#complete-pyq-bank-uppcs">UPPCS — CIP Agra not Aligarh, tubewell share, canal offtakes, institutes, Badua trap, Ken–Betwa</a></li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/up%20special/05_Agriculture_Irrigation_Rural_Economy/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="up-special-06-Society-Population-Education-Social-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="up-special-06-Society-Population-Education-Social-md" aria-label="Mark UP Special Topic 6 — Society, Population, Education and Social Development done">
+    <span class="ct-title">Topic 6 — Society, Population, Education and Social Development</span>
+    <span class="ct-pills">Written</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/up%20special/06_Society_Population_Education_Social/#complete-pyq-bank-uppcs">UPPCS — Shrawasti literacy, SC % vs absolute, ST Sonbhadra, Census extremes, BHU 1916</a></li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/up%20special/06_Society_Population_Education_Social/">Open chapter</a>
+  </div>
+</details>
+<details class="ct-row" data-ct-id="up-special-07-Transport-Tourism-Environment-Disaster-md" data-group="high" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="up-special-07-Transport-Tourism-Environment-Disaster-md" aria-label="Mark UP Special Topic 7 — Transport, Tourism, Environment and Disaster Management done">
+    <span class="ct-title">Topic 7 — Transport, Tourism, Environment and Disaster Management</span>
+    <span class="ct-pills">Written</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/up%20special/07_Transport_Tourism_Environment_Disaster/#complete-pyq-bank-uppcs">UPPCS — Dudhwa, Ramsar NOT-in-UP, Katarniaghat 1975, Chandraprabha, forest cover, Smart City-10, Purvanchal/Mau</a></li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/up%20special/07_Transport_Tourism_Environment_Disaster/">Open chapter</a>
+  </div>
+</details>
+</div>
+<h3 class="ct-group-title">Medium Important</h3>
+<div class="ct-list ct-list--medium">
+<details class="ct-row" data-ct-id="up-special-08-Current-Affairs-Schemes-Miscellaneous-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="up-special-08-Current-Affairs-Schemes-Miscellaneous-md" aria-label="Mark UP Special Topic 8 — Current Affairs, Schemes and Miscellaneous done">
+    <span class="ct-title">Topic 8 — Current Affairs, Schemes and Miscellaneous</span>
+    <span class="ct-pills">Written · Dynamic</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/up%20special/08_Current_Affairs_Schemes_Miscellaneous/#complete-pyq-bank-uppcs">UPPCS — ODOP Moonj, Baghpat toys NOT, State symbols, Nand Baba, GI pairs; sync CA Topic 08</a></li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/up%20special/08_Current_Affairs_Schemes_Miscellaneous/">Open chapter</a>
+  </div>
+</details>
+</div>
+<p class="ct-empty-note">All 8 topics written. Topic 8 is dynamic — refresh from <a href="../current-affairs/topics/08_UP_Special/">CA Topic 08</a>. Map: <a href="../subjects/up%20special/01_UP_Special_Syllabus/">chapter map</a>. UK state notes stay under each subject’s <code>uttarakhand/</code> folder.</p>
+  </div>
+</details>
+
 <details class="ct-subject" id="science-and-technology" data-ct-subject="science-and-technology" name="ct-subject">
   <summary>
     <span class="ct-subject-title">Science and Technology</span>

@@ -14,9 +14,9 @@ Radioactivity & Radiations (Alpha, Beta, Gamma Properties & Soddy-Fajans Displac
 
 ---
 
-## Current Affairs & Exam Locks (2024–2026)
+## Current Affairs (2024–2026)
 
-| Year | Exam / Event | Core Concept & Exam Significance |
+| Year | Event | Core Concept & Must-Score Significance |
 |------|--------------|-----------------------------------|
 | **2025–2026** | **Global Carbon & Methane Pledges** | Enhanced monitoring of non-$CO_2$ greenhouse gases under COP agreements. Methane ($CH_4$) possesses a **Global Warming Potential (GWP) $\approx 28–36\text{ times}$ greater than $CO_2$** over a 100-year timescale, primarily emanating from flooded paddy cultivation, livestock rumination, and coalbed degassing. |
 | **2025** | **UPPCS Prelims 2025** | Direct question on **Stratospheric Ozone Layer & CFCs**: Both statements confirmed correct—the ozone layer shields the biosphere from lethal solar UV-B rays, and chlorofluorocarbons (CFCs) trigger catalytic ozone destruction via free chlorine radicals ($Cl^\bullet$). |
@@ -79,7 +79,7 @@ Radioactivity & Radiations (Alpha, Beta, Gamma Properties & Soddy-Fajans Displac
 16. **Hydrogen Bomb (Thermonuclear Bomb)**:
     - Operates primarily on **uncontrolled Nuclear Fusion**.
     - Conceived by American physicists **Edward Teller and Stanislaw Ulam** (first detonated in 1952, "Ivy Mike").
-    - *Crucial Exam Fact*: Because thermonuclear fusion requires stellar ignition temperatures, **a hydrogen bomb incorporates an internal atomic (fission) bomb as its primary trigger**. The fission detonation generates the extreme heat ($>10^7\text{ K}$) and radiation pressure needed to ignite the secondary fusion fuel (lithium deuteride).
+    - *Must-Score Fact*: Because thermonuclear fusion requires stellar ignition temperatures, **a hydrogen bomb incorporates an internal atomic (fission) bomb as its primary trigger**. The fission detonation generates the extreme heat ($>10^7\text{ K}$) and radiation pressure needed to ignite the secondary fusion fuel (lithium deuteride).
     - Yields are measured in **Megatons of TNT** (thousands of times more destructive than atomic fission bombs) and produce less long-lived direct radioactive fission fallout per megaton.
 17. **Dynamite**:
     - Invented and patented in **1867 by Swedish chemist Alfred Nobel**.
@@ -222,7 +222,7 @@ Radioactivity & Radiations (Alpha, Beta, Gamma Properties & Soddy-Fajans Displac
 
 ### Table 1: Master Classification of High Chemical Explosives
 
-| Explosive Name / Acronym | Systematic Chemical Identity & Formula | Key Raw Materials / Synthesis | Detonation Characteristics | Core Applications & Exam Signatures |
+| Explosive Name / Acronym | Systematic Chemical Identity & Formula | Key Raw Materials / Synthesis | Detonation Characteristics | Core Applications & Must-Score Signatures |
 |---|---|---|---|---|
 | **Dynamite** | **Nitroglycerin (GTN)** absorbed in Kieselguhr / wood pulp | Glycerol treated with concentrated $HNO_3 + H_2SO_4$ | Shock-insensitive, stable | Invented by **Alfred Nobel (1867)**; civil mining and railway tunneling. |
 | **TNT** | **2,4,6-Trinitrotoluene** ($C_6H_2(CH_3)(NO_2)_3$) | Nitration of toluene with mixed nitric-sulphuric acid | Detonation velocity $\approx 6900\text{ m/s}$ | Military artillery shells; standard reference benchmark for nuclear weapon yields. |
@@ -235,7 +235,7 @@ Radioactivity & Radiations (Alpha, Beta, Gamma Properties & Soddy-Fajans Displac
 
 ### Table 2: Heavy Metal Water & Soil Toxicity Diseases
 
-| Disease / Syndrome Name | Causative Toxic Chemical / Metal | Environmental Source / Route of Exposure | Target Organs Affected | Diagnostic Clinical Symptoms & Exam Locks |
+| Disease / Syndrome Name | Causative Toxic Chemical / Metal | Environmental Source / Route of Exposure | Target Organs Affected | Diagnostic Clinical Symptoms & Must-Score |
 |---|---|---|---|---|
 | **Minamata Disease** | **Methylmercury ($CH_3Hg^+$)** | Ingestion of contaminated fish from industrial bay | Central Nervous System, brain cortex | Severe ataxia, numbness in limbs, tunnel vision, deafness, death (Japan, 1956). |
 | **Itai-Itai Disease** | **Cadmium ($Cd$)** | River water contaminated by zinc/lead mines irrigating rice | Skeletal bones, kidney renal tubules | **Osteomalacia**, bone softening, multiple painful fractures, kidney failure. |
@@ -1167,7 +1167,7 @@ See the explanation of above question.
 
 ## Common Traps & High-Yield Pitfalls
 
-| Trap Area | What Students Confuse | Accurate Exam Fact |
+| Trap Area | What Students Confuse | Correct Fact |
 |---|---|---|
 | **Hydrogen Bomb Principle** | Believing the hydrogen bomb is a fission weapon. | The hydrogen bomb operates on **Nuclear Fusion**; fission is used only as an ignition trigger. |
 | **Radioactivity Nature** | Confusing radioactivity with chemical valence reactions. | Radioactivity is strictly a **nuclear property**, unaffected by chemical bonds, temperature, or pressure. |

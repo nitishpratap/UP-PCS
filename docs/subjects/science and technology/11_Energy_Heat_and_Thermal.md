@@ -4,18 +4,18 @@
 
 ---
 
-## Current Affairs & Exam Locks (2024–2026 Focus)
-- **70th BPSC (Pre 2024) Heat Transfer Without Medium Lock**:
+## Current Affairs (2024–2026 Focus)
+- **70th BPSC (Pre 2024) Heat Transfer Without Medium Fact**:
   - **Thermal Radiation** is the only mode of heat transfer that does **NOT require any material medium** (propagates via electromagnetic waves across vacuum, e.g. solar energy reaching Earth). Conduction and convection strictly require material media.
-- **70th BPSC (Pre Re-Exam 2024) Steam Burn Severity Lock**:
+- **70th BPSC (Pre Re-Exam 2024) Steam Burn Severity Fact**:
   - Burns caused by steam at $100^\circ\text{C}$ are far more severe and dangerous than burns from boiling water or air at $100^\circ\text{C}$ due to the **high latent heat of vaporization ($540\text{ cal/g} = 22.6 \times 10^5\text{ J/kg}$)** released during condensation on the skin.
-- **MP PCS (Pre 2023) Ecosystem Energy Degradation Lock**:
+- **MP PCS (Pre 2023) Ecosystem Energy Degradation Fact**:
   - The progressive decline of energy as it passes from lower to higher trophic levels (only $\approx 10\%$ passed; Lindeman's Rule) is fundamentally governed by the **Second Law of Thermodynamics** (spontaneous processes increase entropy, accompanied by dissipation of metabolic heat).
 - **69th BPSC (Pre 2023) Official Heat Wave Temperature Criteria**:
   - IMD declares a Heat Wave when the maximum temperature reaches at least **$40^\circ\text{C}$ or more for Plains** and at least **$30^\circ\text{C}$ or more for Hilly Regions**.
-- **67th BPSC (Pre 2022) Triple Point of Water Lock**:
+- **67th BPSC (Pre 2022) Triple Point of Water Fact**:
   - The unique thermodynamic state where solid, liquid, and gaseous water coexist in simultaneous equilibrium is the **Triple Point of Water**: **$273.16\text{ K} = 0.01^\circ\text{C} = 32.018^\circ\text{F}$** at a partial vapor pressure of **$611.657\text{ Pa} = 6.11657\text{ mbar} \approx 0.0060366\text{ atm}$**.
-- **UPPCS (Pre 2025) Sweating & Humidity Lock**:
+- **UPPCS (Pre 2025) Sweating & Humidity Fact**:
   - Evaporation of sweat from human skin is an **endothermic physical process** that absorbs latent heat from subcutaneous blood, dissipating body heat. High ambient relative humidity decreases the skin-air vapor pressure gradient, suppressing evaporation and causing acute discomfort.
 - **UPPCS (Pre 2024) Humidity & Temperature Interdependence**:
   - **Relative humidity decreases** as air temperature rises (warm air has greater moisture-holding capacity). **Absolute humidity increases** with increasing surface evaporation.
@@ -35,7 +35,7 @@
 
 1. **Work Formula & Sign:** Work done $W = \vec{F} \cdot \vec{d} = F d \cos\theta$. If force and displacement are perpendicular ($\theta = 90^\circ$, such as a porter carrying a load horizontally or centripetal force on a satellite), work done by that force is **identically zero**.
 2. **Kinetic Energy & Momentum Relation:** $KE = \frac{p^2}{2m}$. If the momentum $p$ of a body is doubled, its kinetic energy becomes **4 times**. If $p$ increases by $100\%$, $KE$ increases by $300\%$. If $p$ increases by $50\%$, $KE$ increases by $125\%$.
-3. **Calorific Value Leader:** **Hydrogen** has the highest calorific value ($pprox 150\text{ kJ/g}$), followed by LPG ($pprox 50\text{ kJ/g}$), CNG/Methane ($pprox 50\text{ kJ/g}$), Petrol/Diesel ($pprox 45\text{ kJ/g}$), Coal ($25\text{--}33\text{ kJ/g}$), Dry wood ($17\text{ kJ/g}$), and Cow-dung cake ($6\text{--}8\text{ kJ/g}$).
+3. **Calorific Value Leader:** **Hydrogen** has the highest calorific value ($\approx 150\text{ kJ/g}$), followed by LPG ($\approx 50\text{ kJ/g}$), CNG/Methane ($\approx 50\text{ kJ/g}$), Petrol/Diesel ($\approx 45\text{ kJ/g}$), Coal ($25\text{--}33\text{ kJ/g}$), Dry wood ($17\text{ kJ/g}$), and Cow-dung cake ($6\text{--}8\text{ kJ/g}$).
 4. **Mechanical Equivalent of Heat ($J$):** First determined by James Prescott Joule: $W = J \cdot Q$, where $J = 4.184\text{ J/cal} \approx 4.2\text{ J/cal}$. $1\text{ calorie}$ is the heat required to raise the temperature of $1\text{ g}$ of pure water from $14.5^\circ\text{C}$ to $15.5^\circ\text{C}$ at standard atmospheric pressure.
 5. **Commercial Unit of Electrical Energy:** $1\text{ Board of Trade Unit (B.O.T.U.)} = 1\text{ kilowatt-hour (kWh)} = 1000\text{ W} \times 3600\text{ s} = 3.6 \times 10^6\text{ J} = 3.6\text{ MJ}$.
 6. **Zeroth Law of Thermodynamics:** Formulated by Ralph H. Fowler (1931). States that if bodies A and B are each in thermal equilibrium with body C, then A and B are in thermal equilibrium with each other. This law introduces and **defines the concept of Temperature**.
@@ -51,7 +51,7 @@
 16. **Why Water is Used as an Engine Coolant & in Radiators:** Because of water's high specific heat capacity, circulating water extracts massive heat energy from engine blocks without boiling rapidly.
 17. **Why Water is Used in Hot Water Fermentation Bags:** Water holds thermal energy longer than any other common liquid due to its high specific heat capacity, providing prolonged, steady warmth.
 18. **Maritime Climate Moderation:** Coastal areas (Mumbai, Chennai) experience mild winters and moderate summers because the adjoining sea acts as a giant thermal buffer due to water's high specific heat capacity. Conversely, continental interiors (Delhi, Nagpur) have extreme climates.
-19. **Desert Temperature Extremes:** Dry silica sand has a very low specific heat capacity ($pprox 800\text{ J/kg}\cdot\text{K}$) and high solar absorptivity. It heats up rapidly under daytime sun and radiates heat away rapidly at night, producing dramatic diurnal temperature swings ($45^\circ\text{C}$ day down to $10^\circ\text{C}$ night).
+19. **Desert Temperature Extremes:** Dry silica sand has a very low specific heat capacity ($\approx 800\text{ J/kg}\cdot\text{K}$) and high solar absorptivity. It heats up rapidly under daytime sun and radiates heat away rapidly at night, producing dramatic diurnal temperature swings ($45^\circ\text{C}$ day down to $10^\circ\text{C}$ night).
 20. **Latent Heat of Fusion of Ice:** $L_f = 80\text{ cal/g} = 3.34 \times 10^5\text{ J/kg} = 334\text{ kJ/kg}$. Heat absorbed to convert $1\text{ g}$ of ice at $0^\circ\text{C}$ to $1\text{ g}$ of water at $0^\circ\text{C}$ without any temperature change.
 21. **Latent Heat of Vaporization of Steam:** $L_v = 540\text{ cal/g} = 2.26 \times 10^6\text{ J/kg} = 2260\text{ kJ/kg}$. Heat absorbed to convert $1\text{ g}$ of water at $100^\circ\text{C}$ into steam at $100^\circ\text{C}$.
 22. **Why Steam Burns are More Severe Than Boiling Water Burns:** Both are at $100^\circ\text{C}$, but each gram of steam carries an extra **$540\text{ calories}$ ($2260\text{ J}$)** of hidden latent heat of vaporization, which is released directly onto the skin tissues during condensation.
@@ -118,7 +118,7 @@
 
 ## Confused Pairs
 
-| Concept A | Concept B | Razor-Sharp Distinguishing Criteria & Exam Traps |
+| Concept A | Concept B | Razor-Sharp Distinguishing Criteria & Common Traps |
 | :--- | :--- | :--- |
 | **Heat** | **Temperature** | Heat is the total thermal energy in transit between bodies due to a temperature gradient (measured in Joules or Calories; extensive property). Temperature is the measure of the average kinetic energy of molecules, dictating the *direction* of heat flow (measured in Kelvin, $^\circ\text{C}$; intensive property). A bucket of warm water holds more heat than a boiling test-tube, yet the test-tube has a higher temperature. |
 | **Specific Heat Capacity ($c$)** | **Heat Capacity / Thermal Capacity ($C$)** | Specific heat capacity ($c$) is the heat required to raise the temperature of **unit mass ($1\text{ kg}$)** of a substance by $1\text{ K}$ ($c = Q / m\Delta T$, unit: $\text{J/kg}\cdot\text{K}$, intensive property). Heat capacity ($C$) is the heat needed for an entire given body of mass $m$ ($C = mc = Q / \Delta T$, unit: $\text{J/K}$, extensive property). |
@@ -188,7 +188,7 @@
 
 ### Table 4: Everyday Thermal Phenomena & Scientific Rationale
 
-| Phenomenon | Direct Scientific Cause & Mechanism | High-Yield Exam Trap |
+| Phenomenon | Direct Scientific Cause & Mechanism | High-Yield Common Trap |
 | :--- | :--- | :--- |
 | **Pressure Cooker Fast Cooking** | High steam pressure elevates boiling point to $120^\circ\text{C}$; food cooks at higher temperature. | Cooking speed depends on **temperature of boiling water**, not boiling rate. |
 | **Mountain Cooking Difficulty** | Low atmospheric pressure lowers boiling point to $85^\circ\text{C}$; water evaporates before cooking food. | Water boils earlier, but at a **lower temperature**, undercooking pulses. |
@@ -220,7 +220,7 @@
 - **Kinetic Energy ($KE$):** Energy possessed by a body by virtue of its motion: $KE = \frac{1}{2}mv^2$.
   - Expressed in terms of linear momentum ($p = mv$):
     $$KE = \frac{p^2}{2m} \implies p = \sqrt{2m \cdot KE}$$
-  - **Exam Calculation Locks:**
+  - **Must-Score Calculation Facts:**
     - If momentum is doubled ($p' = 2p$), kinetic energy becomes **4 times** ($KE' = 4 KE$, a $300\%$ increase).
     - If momentum increases by $50\%$, $KE$ increases by $(1.5)^2 - 1 = 2.25 - 1 = 125\%$.
     - If kinetic energy is increased by $300\%$, momentum increases by $\sqrt{4} - 1 = 100\%$.
@@ -281,7 +281,7 @@ $$\frac{C - 0}{100} = \frac{F - 32}{180} = \frac{K - 273.15}{100} = \frac{R - 0}
 Simplifying:
 $$\frac{C}{5} = \frac{F - 32}{9} = \frac{K - 273.15}{5}$$
 
-- **Critical Exam Checkpoints:**
+- **Critical Must-Score Checkpoints:**
   - **$-40^\circ$ Point:** Celsius and Fahrenheit scales read the exact same numerical value:
     $$\frac{C}{5} = \frac{C - 32}{9} \implies 9C = 5C - 160 \implies 4C = -160 \implies C = -40^\circ$$
     Hence, **$-40^\circ\text{C} = -40^\circ\text{F}$**.
@@ -334,7 +334,7 @@ $$\frac{C}{5} = \frac{F - 32}{9} = \frac{K - 273.15}{5}$$
 - **Master Ratio for Isotropic Solids:**
   $$\alpha : \beta : \gamma = 1 : 2 : 3$$
 
-### Practical Manifestations & Exam Engineering Locks
+### Practical Manifestations & Must-Score Engineering Facts
 - **Railway Track Expansion Gaps:** Rails expand in summer. Without deliberate gaps, compressive thermal stress ($\sigma = Y \alpha \Delta T$) buckles the tracks.
 - **Bimetallic Strips:** Made of brass ($\alpha = 19 \times 10^{-6}\text{ K}^{-1}$) and iron/invar ($\alpha = 12 \times 10^{-6}\text{ K}^{-1}$). Heating causes the strip to curve with brass on the outside, breaking electric circuits in iron thermostats.
 - **Fitting Iron Rims on Wooden Cart Wheels:** The iron rim is made slightly smaller in diameter than the wooden wheel. It is heated until it expands, slipped onto the wheel, and rapidly quenched with cold water. On contracting, it grips the wheel firmly.
@@ -404,7 +404,7 @@ $$\frac{C}{5} = \frac{F - 32}{9} = \frac{K - 273.15}{5}$$
 2. **Kirchhoff's Law of Radiation:**
    $$\frac{e_\lambda}{a_\lambda} = E_{\text{black}}$$
    At any temperature, the ratio of emissive power to absorptive power for a given wavelength is constant for all bodies and equal to the emissive power of an ideal black body.
-   - **Exam Corollary:** **Good absorbers are good emitters.** A black body absorbs all incident radiation without reflection or transmission; when heated, it radiates maximum energy.
+   - **Must-Score Corollary:** **Good absorbers are good emitters.** A black body absorbs all incident radiation without reflection or transmission; when heated, it radiates maximum energy.
    - **Solar Fraunhofer Lines:** Dark absorption lines in the solar spectrum arise because cooler gases in the solar atmosphere absorb specific wavelengths that they emit when heated.
 3. **Stefan-Boltzmann Law:**
    $$E = \sigma T^4$$
@@ -412,7 +412,7 @@ $$\frac{C}{5} = \frac{F - 32}{9} = \frac{K - 273.15}{5}$$
    - Constant $\sigma = 5.670 \times 10^{-8}\text{ W/m}^2\cdot\text{K}^4$.
    - For a non-black body with emissivity $e$ ($0 < e < 1$): $E = e\sigma T^4$.
    - Net radiant loss to surroundings at temperature $T_0$: $E_{\text{net}} = e\sigma(T^4 - T_0^4)$.
-   - *Exam Problem:* If the temperature of a hot filament increases from $200\text{ K}$ to $400\text{ K}$ (doubles), its rate of energy emission multiplies by $2^4 = 16\text{ times}$.
+   - *Must-Score Problem:* If the temperature of a hot filament increases from $200\text{ K}$ to $400\text{ K}$ (doubles), its rate of energy emission multiplies by $2^4 = 16\text{ times}$.
 4. **Wien's Displacement Law:**
    $$\lambda_{\max} \cdot T = b$$
    where $b = 2.898 \times 10^{-3}\text{ m}\cdot\text{K}$ (Wien's constant).
@@ -477,7 +477,7 @@ $$\frac{C}{5} = \frac{F - 32}{9} = \frac{K - 273.15}{5}$$
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C) Both (A) and (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - A thermos (Dewar) flask halts all three modes of thermal heat transfer:
     - **Conduction and Convection:** Prevented by creating a high vacuum in the double-walled glass casing and sealing the top with an insulating cork/plastic stopper.
     - **Radiation:** Prevented by coating the facing surfaces of the inner glass walls with a brilliant silver mirror coating, which reflects radiant heat waves back into the interior.
@@ -493,7 +493,7 @@ $$\frac{C}{5} = \frac{F - 32}{9} = \frac{K - 273.15}{5}$$
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B) Petroleum
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Petroleum (crude oil) is a fossil fuel formed over millions of years by the geological burial of marine biomass under high heat and pressure. Its reserves are finite and deplete permanently upon extraction.
   - Solar, wind, and biogas are renewable sources replenished naturally within human timescales.
 </details>
@@ -508,7 +508,7 @@ $$\frac{C}{5} = \frac{F - 32}{9} = \frac{K - 273.15}{5}$$
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A) Nuclear energy
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Nuclear energy is released by splitting (fission) or combining (fusion) atomic nuclei, fundamentally rooted in the strong nuclear force and mass-energy conversion ($E = mc^2$) of primordial elements like Uranium-235, synthesized during ancient stellar supernovas before the formation of our Solar System.
   - Wind energy (differential atmospheric heating by solar flux) and biomass energy (photosynthesis) are directly driven by solar energy. Geothermal energy originates partly from primordial planetary accretion and partly from radioactive decay within the Earth's mantle.
 </details>
@@ -523,7 +523,7 @@ $$\frac{C}{5} = \frac{F - 32}{9} = \frac{K - 273.15}{5}$$
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B) Renewable
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Conventional energy sources are traditional fossil fuels (coal, crude oil, natural gas) and large hydro projects.
   - Non-conventional energy sources represent modern clean alternatives developed in recent decades (solar, wind, tidal, geothermal, biomass), which are predominantly renewable and eco-friendly.
 </details>
@@ -538,7 +538,7 @@ $$\frac{C}{5} = \frac{F - 32}{9} = \frac{K - 273.15}{5}$$
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B) Cochin
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - In August 2015, **Cochin International Airport (CIAL)** in Kerala became the world's first fully solar-powered airport, operating entirely on a $12\text{ MWp}$ solar power plant installed on site.
   - In 2018, CIAL was conferred the prestigious United Nations 'Champions of the Earth' award for its environmental leadership.
 </details>
@@ -553,7 +553,7 @@ $$\frac{C}{5} = \frac{F - 32}{9} = \frac{K - 273.15}{5}$$
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B) Clouds reflect terrestrial radiation back toward the Earth
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - The Earth absorbs solar shortwave radiation during the daytime and cools at night by emitting longwave infrared radiation back into space.
   - When the sky is cloudy, water droplets and vapor in clouds absorb and reflect this outgoing terrestrial infrared radiation back to the surface, functioning like an insulating blanket.
   - On clear nights, radiant heat escapes unimpeded into outer space, causing severe radiational surface cooling.
@@ -569,7 +569,7 @@ $$\frac{C}{5} = \frac{F - 32}{9} = \frac{K - 273.15}{5}$$
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B) Low atmospheric humidity and high temperature
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Cooling in an earthen pot occurs via the continuous evaporation of water seeping through microscopic pores in the clay walls.
   - Each gram of evaporating water absorbs $540\text{ calories}$ of latent heat of vaporization from the internal water reservoir.
   - Evaporation rate is inversely proportional to relative humidity. In dry, hot summer weather, evaporation is rapid and cooling is maximum; in humid monsoon weather, evaporation halts and cooling is negligible.
@@ -585,7 +585,7 @@ $$\frac{C}{5} = \frac{F - 32}{9} = \frac{K - 273.15}{5}$$
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C) Remains unchanged
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - By the principle of floatation (Archimedes' Principle), a floating body displaces a volume of liquid whose weight exactly equals the total weight of the floating body.
   - The ice cube displaces water having mass equal to the mass of the ice cube.
   - When the ice melts completely, it turns into water of precisely that same mass and volume, exactly occupying the submerged cavity it previously displaced.
@@ -601,7 +601,7 @@ $$\frac{C}{5} = \frac{F - 32}{9} = \frac{K - 273.15}{5}$$
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B) Steam contains latent heat of vaporization
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - $1\text{ gram}$ of water at $100^\circ\text{C}$ releasing heat cools directly.
   - $1\text{ gram}$ of steam at $100^\circ\text{C}$ must first condense into liquid water at $100^\circ\text{C}$, releasing **$540\text{ calories}$ ($2260\text{ J}$)** of latent heat of vaporization directly onto the skin tissue before further cooling begins.
   - This hidden latent heat causes deep thermal necrosis and severe blistering.
@@ -617,7 +617,7 @@ $$\frac{C}{5} = \frac{F - 32}{9} = \frac{K - 273.15}{5}$$
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B) Increase
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - A refrigerator functions as a heat pump operating on the second law of thermodynamics.
   - Heat rejected into the room air at the external rear condenser coils equals the heat absorbed from the interior food compartment plus the electrical work performed by the compressor motor ($Q_{\text{hot}} = Q_{\text{cold}} + W_{\text{electric}}$).
   - Since work $W$ is converted into additional thermal dissipation, the net heat discharged into the room exceeds the cooling effect, causing the room temperature to steadily climb.
@@ -633,7 +633,7 @@ $$\frac{C}{5} = \frac{F - 32}{9} = \frac{K - 273.15}{5}$$
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A) Boiling point of water increases due to high pressure
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - In an open pan at sea level, water boils at $100^\circ\text{C}$ ($1\text{ atm}$ pressure) and its temperature cannot rise further regardless of flame intensity.
   - In a sealed pressure cooker, trapped steam raises the internal pressure to approximately $2\text{ atmospheres}$, pushing the boiling point of water up to **$120^\circ\text{C}\text{--}125^\circ\text{C}$**.
   - Cooking is a chemical process whose rate increases exponentially with temperature; cooking at $120^\circ\text{C}$ cuts cooking duration by over $60\%$.
@@ -649,7 +649,7 @@ $$\frac{C}{5} = \frac{F - 32}{9} = \frac{K - 273.15}{5}$$
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B) To allow space for linear thermal expansion during hot summer
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Steel has a positive coefficient of linear thermal expansion ($\alpha \approx 1.2 \times 10^{-5}\text{ K}^{-1}$).
   - During hot summers, rails expand linearly according to $\Delta L = L_0 \alpha \Delta T$.
   - If rails were laid end-to-end without gaps, immense longitudinal compressive thermal stress would develop, resulting in catastrophic track buckling and train derailments.
@@ -665,7 +665,7 @@ $$\frac{C}{5} = \frac{F - 32}{9} = \frac{K - 273.15}{5}$$
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C) Continuous evaporation of water seeping through porous clay walls
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Clay pots are permeable due to millions of micro-capillaries.
   - Water slowly permeates to the outer surface and evaporates into surrounding air, absorbing its latent heat of vaporization ($540\text{ cal/g}$) from the pitcher and the water inside.
 </details>
@@ -680,7 +680,7 @@ $$\frac{C}{5} = \frac{F - 32}{9} = \frac{K - 273.15}{5}$$
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B) $-40^\circ$
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Using the scale conversion formula: $\frac{C}{5} = \frac{F - 32}{9}$.
   - Setting $C = F = x$:
     $$\frac{x}{5} = \frac{x - 32}{9} \implies 9x = 5x - 160 \implies 4x = -160 \implies x = -40^\circ$$
@@ -697,7 +697,7 @@ $$\frac{C}{5} = \frac{F - 32}{9} = \frac{K - 273.15}{5}$$
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C) Hydrogen
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Combustion of hydrogen produces only water vapor ($2H_2 + O_2 \to 2H_2O$), releasing zero carbon monoxide, zero carbon dioxide, zero particulate matter, and zero unburnt hydrocarbons.
   - Hydrogen also possesses the highest energy density by mass (calorific value $\approx 150\text{ kJ/g}$).
 </details>
@@ -712,7 +712,7 @@ $$\frac{C}{5} = \frac{F - 32}{9} = \frac{K - 273.15}{5}$$
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B) A layer of air trapped between the two blankets acts as an insulator
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Air is an exceptionally poor conductor of heat ($k_{\text{air}} \approx 0.026\text{ W/m}\cdot\text{K}$).
   - The layer of still, dead air trapped between two blankets eliminates conductive and convective heat transfer from the body to the cold bedroom atmosphere.
 </details>
@@ -727,7 +727,7 @@ $$\frac{C}{5} = \frac{F - 32}{9} = \frac{K - 273.15}{5}$$
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B) $4^\circ\text{C}$
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Due to anomalous expansion of water, heating water from $0^\circ\text{C}$ causes hydrogen-bonded hexagonal cages to collapse, shrinking volume until density peaks at **$3.98^\circ\text{C} \approx 4^\circ\text{C}$** ($1.000\text{ g/cm}^3$).
   - Beyond $4^\circ\text{C}$, thermal expansion takes over and density steadily decreases.
 </details>
@@ -742,7 +742,7 @@ $$\frac{C}{5} = \frac{F - 32}{9} = \frac{K - 273.15}{5}$$
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C) Air circulation accelerates the evaporation of sweat from our body
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - An electric ceiling fan does not decrease room temperature; the motor actually dissipates a small amount of heat into the room.
   - The sensation of cooling arises because the breeze constantly displaces the moisture-laden boundary air layer adjoining our skin, accelerating sweat evaporation and removing $540\text{ cal/g}$ of latent heat.
 </details>
@@ -757,9 +757,9 @@ $$\frac{C}{5} = \frac{F - 32}{9} = \frac{K - 273.15}{5}$$
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B) Metal is a much better conductor of heat than wood
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Both the metal latch and wooden door have been in the same room for hours and are in thermal equilibrium at the exact same ambient temperature.
-  - Skin temperature is higher ($pprox 37^\circ\text{C}$). Because metal has high thermal conductivity, it draws heat out of your finger rapidly, signaling intense cold to nerve endings. Wood conducts heat poorly, so the skin contact area quickly warms up.
+  - Skin temperature is higher ($\approx 37^\circ\text{C}$). Because metal has high thermal conductivity, it draws heat out of your finger rapidly, signaling intense cold to nerve endings. Wood conducts heat poorly, so the skin contact area quickly warms up.
 </details>
 
 **Q20. (UPPCS Pre 2002)** Why does water in an open container on high mountains boil below $100^\circ\text{C}$?
@@ -772,7 +772,7 @@ $$\frac{C}{5} = \frac{F - 32}{9} = \frac{K - 273.15}{5}$$
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C) Atmospheric pressure decreases with altitude, lowering the boiling point
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - A liquid boils when its saturated vapor pressure equals prevailing ambient atmospheric pressure.
   - Barometric pressure falls with increasing altitude. At an elevation of $3,000\text{ meters}$, water boils at only $\approx 90^\circ\text{C}$, lengthening cooking time significantly.
 </details>
@@ -791,7 +791,7 @@ $$\frac{C}{5} = \frac{F - 32}{9} = \frac{K - 273.15}{5}$$
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D) Coal
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Coal is a carbonaceous sedimentary rock derived from fossilized swamp vegetation subjected to geological heat and pressure over hundreds of millions of years. Once mined and burnt, it cannot be regenerated on a human timescale.
   - Solar, wind, and biomass replenish constantly through natural processes.
 </details>
@@ -806,7 +806,7 @@ $$\frac{C}{5} = \frac{F - 32}{9} = \frac{K - 273.15}{5}$$
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A) $-273.15^\circ\text{C}$
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Absolute zero ($0\text{ K}$) is the fundamental lower boundary of thermodynamic temperature where ideal gas pressure drops to zero and molecular kinetic motion reaches minimum possible ground state: $0\text{ K} = -273.15^\circ\text{C}$.
 </details>
 
@@ -820,7 +820,7 @@ $$\frac{C}{5} = \frac{F - 32}{9} = \frac{K - 273.15}{5}$$
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B) $4^\circ\text{C}$
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Pure water reaches its maximum density of $1.000\text{ g/cm}^3$ ($1000\text{ kg/m}^3$) at **$3.98^\circ\text{C} \approx 4^\circ\text{C}$** ($277.15\text{ K}$).
   - At $0^\circ\text{C}$ (liquid), density is $0.9998\text{ g/cm}^3$, and ice at $0^\circ\text{C}$ has a density of $0.917\text{ g/cm}^3$.
 </details>
@@ -835,7 +835,7 @@ $$\frac{C}{5} = \frac{F - 32}{9} = \frac{K - 273.15}{5}$$
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B) Light in vacuum ($3 \times 10^8\text{ m/s}$)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Thermal radiation is mediated by electromagnetic waves (chiefly infrared photons). All electromagnetic radiation propagates across vacuum at the fundamental speed of light: $c \approx 3 \times 10^8\text{ m/s}$.
 </details>
 
@@ -857,7 +857,7 @@ Which of the statements given above is/are correct?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A) 1 only
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Statement 1 is correct: The Second Law of Thermodynamics dictates that for any spontaneous, irreversible process in an isolated system, total entropy increases ($\Delta S > 0$).
   - Statement 2 is incorrect: According to the Kelvin-Planck statement of the Second Law, no heat engine operating in a closed cycle can convert $100\%$ of absorbed heat into mechanical work; a portion must be rejected to a low-temperature sink.
 </details>
@@ -872,7 +872,7 @@ Which of the statements given above is/are correct?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A) Evaporative cooling
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - In a desert cooler, an electric fan draws warm, dry ambient air through water-saturated wood-wool pads.
   - The water absorbs its latent heat of vaporization ($540\text{ cal/g}$) from the passing air stream to evaporate, cooling the air output.
 </details>
@@ -887,7 +887,7 @@ Which of the statements given above is/are correct?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D) 16
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - By the Stefan-Boltzmann Law, total emissive power is proportional to the fourth power of absolute temperature ($E = \sigma T^4$).
   - If $T' = 2T$, then $E' = \sigma (2T)^4 = 16 \sigma T^4 = 16E$.
 </details>
@@ -902,7 +902,7 @@ Which of the statements given above is/are correct?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B) Ice absorbs latent heat of fusion ($80\text{ cal/g}$) to melt into water at $0^\circ\text{C}$
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Water at $0^\circ\text{C}$ can only cool the drink by absorbing sensible heat ($Q = mc\Delta T$), warming up immediately.
   - Ice at $0^\circ\text{C}$ must first absorb **$80\text{ calories}$ per gram** ($334\text{ kJ/kg}$) merely to convert into water at $0^\circ\text{C}$, extracting substantially more thermal energy from the drink.
 </details>
@@ -917,7 +917,7 @@ Which of the statements given above is/are correct?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C) Water
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Water has an exceptionally high specific heat capacity of $1.0\text{ cal/g}\cdot^\circ\text{C} = 4184\text{ J/kg}\cdot\text{K}$.
   - In comparison: Alcohol $\approx 2400\text{ J/kg}\cdot\text{K}$, Kerosene $\approx 2100\text{ J/kg}\cdot\text{K}$, and Mercury $\approx 140\text{ J/kg}\cdot\text{K}$.
 </details>
@@ -932,7 +932,7 @@ Which of the statements given above is/are correct?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B) Work done during adiabatic compression of air heats the gas
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Vigorously pumping air is a rapid thermodynamic process with negligible time for heat to escape, approximating an **adiabatic compression** ($Q \approx 0$).
   - By the First Law: $W = -\Delta U$. Mechanical work done in compressing air molecules increases the internal kinetic energy and temperature of the air, which conducts heat into the metal pump barrel.
 </details>
@@ -947,7 +947,7 @@ Which of the statements given above is/are correct?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A) $1 : 2 : 3$
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - For an isotropic solid: $\beta = 2\alpha$ and $\gamma = 3\alpha$.
   - Therefore, the ratio $\alpha : \beta : \gamma = 1 : 2 : 3$.
 </details>
@@ -962,7 +962,7 @@ Which of the statements given above is/are correct?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B) Liquid phase
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Sublimation is the direct transition from solid to gaseous state without passing through the intermediate liquid phase.
   - Examples: Dry ice ($CO_2$), Camphor, Naphthalene, Ammonium chloride ($NH_4Cl$), and Iodine.
 </details>
@@ -977,7 +977,7 @@ Which of the statements given above is/are correct?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B) Decrease dramatically
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - The natural greenhouse effect of the atmosphere traps outgoing terrestrial infrared radiation, maintaining Earth's mean surface temperature at $+15^\circ\text{C}$.
   - Without an atmosphere, all radiated heat would escape into space unimpeded, plunging Earth's global average temperature to approximately **$-18^\circ\text{C}$** ($33^\circ\text{C}$ colder), encasing the globe in permanent ice.
 </details>
@@ -992,7 +992,7 @@ Which of the statements given above is/are correct?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B) Boiling water inside an orbiting space station
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Natural convection relies entirely on buoyant forces arising from density differences under gravity ($F_b = V \Delta\rho \cdot g$).
   - In an orbiting space station, effective gravity is zero ($g = 0$), so warm, less dense water cannot rise. Heat can transfer through the water only by conduction.
 </details>
@@ -1187,7 +1187,7 @@ Select the correct answer using the code given below:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A) 1 and 2 only
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Statement 1 is correct: Convection requires fluid mobility and occurs in liquids and gases.
   - Statement 2 is correct: Conduction and convection require material atoms/molecules. Radiation consists of electromagnetic waves and travels freely through vacuum.
   - Statement 3 is incorrect: Conduction occurs via interatomic vibrations and electron collisions *without* any macroscopic translation of the medium. Bulk physical displacement defines convection.
@@ -1207,7 +1207,7 @@ Select the correct answer:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - As ambient air drops toward freezing, lake water cools to $4^\circ\text{C}$, reaches maximum density ($1.000\text{ g/cm}^3$), and sinks to the bottom.
   - Further cooling of surface water below $4^\circ\text{C}$ causes it to expand, become lighter, and remain at the surface where it freezes into ice ($0^\circ\text{C}$).
   - Because ice is an insulator and floats, water below remains liquid at $+4^\circ\text{C}$, protecting aquatic life.
@@ -1232,7 +1232,7 @@ Select the correct code:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A) A-2, B-1, C-4, D-3
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Zeroth Law $\to$ Defines Temperature.
   - First Law $\to$ Conservation of energy ($\Delta Q = \Delta U + W$).
   - Second Law $\to$ Direction of heat flow and universal increase of entropy.
@@ -1254,7 +1254,7 @@ Select the correct answer using the code given below:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A) 1 and 2 only
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Statements 1 and 2 are correct: Water has an exceptionally high specific heat ($4184\text{ J/kg}\cdot\text{K}$), allowing it to absorb enormous amounts of heat with minimal temperature rise.
   - Statement 3 is incorrect: Liquid water's specific heat is $1.0\text{ cal/g}\cdot^\circ\text{C}$, whereas ice's specific heat is only $0.5\text{ cal/g}\cdot^\circ\text{C}$ (half of liquid water).
 </details>
@@ -1269,8 +1269,8 @@ Select the correct answer using the code given below:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C) Pressure cooker — Decreases boiling point of water
-- **Exam Lock Points:**
-  - Pressure cookers **increase** the boiling point of water to $120^\circ\text{C}\text{--}125^\circ\text{C}$ by trapping steam at elevated pressure ($pprox 2\text{ atm}$), cutting cooking time.
+- **Must-Score Points:**
+  - Pressure cookers **increase** the boiling point of water to $120^\circ\text{C}\text{--}125^\circ\text{C}$ by trapping steam at elevated pressure ($\approx 2\text{ atm}$), cutting cooking time.
 </details>
 
 **Q6.** Arrange the following substances in descending order of their thermal conductivities:
@@ -1289,7 +1289,7 @@ Select the correct code:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A) $1 > 4 > 3 > 2$
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Thermal conductivities ($k$ in $\text{W/m}\cdot\text{K}$):
     - Silver: $\approx 429$
     - Copper: $\approx 401$
@@ -1312,7 +1312,7 @@ Select the correct answer using the code given below:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A) 1 and 2 only
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Statements 1 and 2 are standard constants.
   - Statement 3 is incorrect: Latent heat is absorbed or released strictly at **constant temperature** during phase transitions (solid to liquid or liquid to gas).
 </details>
@@ -1331,7 +1331,7 @@ Select the correct answer:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Period of a simple pendulum is $T = 2\pi \sqrt{L/g}$.
   - In summer, temperature rise expands the rod ($\Delta L > 0$), lengthening the period $T$. Each swing takes longer, so the clock registers fewer seconds per day and loses time (runs slow).
 </details>
@@ -1351,7 +1351,7 @@ Select the correct answer using the code given below:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A) 2 only
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Statement 1 is incorrect: Stefan-Boltzmann Law states $E \propto T^4$ (fourth power, not square).
   - Statement 2 is correct: Wien's Law ($\lambda_{\max} T = b$) shows peak wavelength is inversely proportional to temperature. Hot blue stars have shorter peak wavelengths than cooler red stars.
   - Statement 3 is incorrect: Kirchhoff's Law dictates that good absorbers are **good emitters** ($e = a$).
@@ -1367,7 +1367,7 @@ Select the correct answer using the code given below:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D) Heavy overcast cloud cover
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Dew requires terrestrial radiation to escape rapidly into outer space so that surface vegetation cools down below the dew point.
   - Overcast cloud cover absorbs and re-radiates heat back to the ground, keeping surfaces warm and preventing condensation of dew.
 </details>
@@ -1391,7 +1391,7 @@ Select the correct code:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A) A-2, B-1, C-4, D-3
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Earthen pot cooling $\to$ Evaporation drawing latent heat ($540\text{ cal/g}$).
   - Thick glass cracking $\to$ Thermal shock (inner surface expands, outer remains cold).
   - Bimetallic strip $\to$ Differential expansion of brass vs iron.
@@ -1408,7 +1408,7 @@ Select the correct code:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C) Efficiency of a Carnot engine depends solely on source and sink temperatures
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Carnot efficiency $\eta = 1 - T_2/T_1 = (T_1 - T_2)/T_1$.
   - It depends exclusively on source ($T_1$) and sink ($T_2$) absolute temperatures, and is independent of the working fluid.
   - $\eta = 100\%$ is impossible because $T_2$ cannot reach absolute zero ($0\text{ K}$).
@@ -1430,7 +1430,7 @@ Select the correct answer using the code given below:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A) 2 and 3 only
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Statement 1 is incorrect: Between $0^\circ\text{C}$ and $4^\circ\text{C}$, water **contracts** (its volume decreases).
   - Statements 2 and 3 are correct: At $4^\circ\text{C}$, volume is minimum and density is maximum ($1.000\text{ g/cm}^3$); above $4^\circ\text{C}$, it expands normally.
 </details>
@@ -1449,7 +1449,7 @@ Select the correct answer:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - $Q_H = Q_C + W$. Since the motor converts electrical energy into net added heat $W$, total thermal energy dumped into the room exceeds cooling, raising room temperature.
 </details>
 
@@ -1469,7 +1469,7 @@ Select the correct answer using the code given below:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A) 1, 2 and 3 only
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Kilowatt-hour ($1\text{ kWh} = 3.6 \times 10^6\text{ J}$), Electron-volt ($1\text{ eV} = 1.602 \times 10^{-19}\text{ J}$), and Joule are units of **energy**.
   - Watt is the unit of **power** ($1\text{ W} = 1\text{ J/s}$).
 </details>
@@ -1488,7 +1488,7 @@ Select the correct answer using the code given below:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C) Both 1 and 2
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Both solar and nuclear power are non-conventional (developed extensively only in the 20th century).
   - Solar energy is endlessly replenished (renewable).
   - Nuclear energy depends on finite subterranean deposits of fissile minerals like Uranium-235, making it non-renewable.
@@ -1504,7 +1504,7 @@ Select the correct answer using the code given below:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B) The copper wire gauze conducts heat away, keeping temperature outside the lamp below the ignition point of flammable methane
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Invented by Sir Humphry Davy. Copper wire gauze has high thermal conductivity, dissipating the flame's heat so rapidly that the explosive air-methane mixture outside cannot reach its ignition temperature.
 </details>
 
@@ -1524,8 +1524,8 @@ Select the correct code:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A) $4 < 1 < 3 < 2$
-- **Exam Lock Points:**
-  - Cow-dung cake ($pprox 7\text{ kJ/g}$) < Dry Wood ($pprox 17\text{ kJ/g}$) < Petrol ($pprox 45\text{ kJ/g}$) < Hydrogen ($pprox 150\text{ kJ/g}$).
+- **Must-Score Points:**
+  - Cow-dung cake ($\approx 7\text{ kJ/g}$) < Dry Wood ($\approx 17\text{ kJ/g}$) < Petrol ($\approx 45\text{ kJ/g}$) < Hydrogen ($\approx 150\text{ kJ/g}$).
 </details>
 
 **Q19.** With reference to coastal breezes, which of the following statements is/are correct?
@@ -1543,7 +1543,7 @@ Select the correct answer using the code given below:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A) 1 and 2 only
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Statements 1 and 2 are correct.
   - Statement 3 is incorrect: Coastal breezes are driven by **convection currents** caused by the differential specific heat capacity of land and water.
 </details>
@@ -1562,8 +1562,8 @@ Select the correct answer:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
-- **Exam Lock Points:**
-  - Boiling occurs when vapor pressure equals external pressure. Higher confining steam pressure requires water molecules to attain higher kinetic energy (higher temperature, $pprox 120^\circ\text{C}$) before boiling.
+- **Must-Score Points:**
+  - Boiling occurs when vapor pressure equals external pressure. Higher confining steam pressure requires water molecules to attain higher kinetic energy (higher temperature, $\approx 120^\circ\text{C}$) before boiling.
 </details>
 
 **Q21.** With reference to biomass and biogas, which of the following statements is/are correct?
@@ -1580,7 +1580,7 @@ Select the correct answer using the code given below:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A) 1 only
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Statement 1 is correct: Biogas consists of $50\text{--}75\%$ methane ($CH_4$) and $25\text{--}50\%$ carbon dioxide ($CO_2$).
   - Statement 2 is incorrect: Biogas burns cleanly with a smokeless blue flame, producing no particulate soot or ash residue.
 </details>
@@ -1595,7 +1595,7 @@ Select the correct answer using the code given below:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B) Silvered internal glass walls
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Highly reflective silver mirror surfaces reflect infrared thermal radiation back into the flask.
   - Vacuum blocks conduction and convection. Stopper blocks convective air escape.
 </details>
@@ -1610,7 +1610,7 @@ Select the correct answer using the code given below:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C) Isochoric process — Pressure remains constant ($\Delta P = 0$)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - An isochoric (isometric) process is one where **volume remains constant ($\Delta V = 0$)**, doing zero boundary work ($W = 0$). An isobaric process is where pressure remains constant.
 </details>
 
@@ -1624,8 +1624,8 @@ Select the correct answer using the code given below:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C) $20^\circ\text{C}$
-- **Exam Lock Points:**
-  - OTEC systems require a minimum temperature gradient of **$20^\circ\text{C}$ ($36^\circ\text{F}$)** between warm tropical surface water ($pprox 25^\circ\text{C}$) and cold deep ocean water at $1,000\text{ m}$ depth ($pprox 5^\circ\text{C}$) to vaporize and condense low-boiling fluids like ammonia.
+- **Must-Score Points:**
+  - OTEC systems require a minimum temperature gradient of **$20^\circ\text{C}$ ($36^\circ\text{F}$)** between warm tropical surface water ($\approx 25^\circ\text{C}$) and cold deep ocean water at $1,000\text{ m}$ depth ($\approx 5^\circ\text{C}$) to vaporize and condense low-boiling fluids like ammonia.
 </details>
 
 **Q25.** If the linear momentum of a body is increased by $100\%$, its kinetic energy increases by:
@@ -1638,7 +1638,7 @@ Select the correct answer using the code given below:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C) $300\%$
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - $KE = \frac{p^2}{2m}$.
   - If momentum increases by $100\%$, new momentum is $p' = 2p$.
   - New kinetic energy $KE' = \frac{(2p)^2}{2m} = 4 \times \frac{p^2}{2m} = 4 KE$.
@@ -1659,7 +1659,7 @@ Select the correct answer:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - On Earth, gravity drives convection: hot combustion gases rise, pulling in fresh oxygen from below to give a candle its teardrop flame.
   - In microgravity ($g \approx 0$), buoyancy is absent. Without convection, oxygen reaches the wick only by slow diffusion, causing the flame to become a faint blue sphere that quickly suffocates in its own carbon dioxide.
 </details>

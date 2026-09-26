@@ -14,14 +14,14 @@ Acid-Base Theories (Arrhenius, Brønsted-Lowry, Lewis) | pH Scale & Mathematical
 
 ---
 
-## Current Affairs & Exam Locks (2024–2026)
+## Current Affairs (2024–2026)
 
-| Year | Exam / Event | Core Concept & Exam Significance |
+| Year | Event | Core Concept & Must-Score Significance |
 |------|--------------|-----------------------------------|
 | **2025–2026** | **Global Ocean Acidification Monitoring** | Ocean absorption of anthropogenic $CO_2$ produces carbonic acid ($CO_2 + H_2O \rightleftharpoons H_2CO_3 \rightleftharpoons H^+ + HCO_3^-$), dropping surface ocean pH from pre-industrial $8.25$ to $\approx 8.14$. Even this $0.1$ unit drop represents a $\approx 30\%$ increase in $[H^+]$ activity, severely impairing calcium carbonate ($CaCO_3$) calcification by coral reefs and molluscs. |
 | **2025** | **UPPCS Prelims 2025** | Direct question on **pH Scale Inversion & Acid-Base Identification**: Keyed that statements claiming "Acids have pH > 7" or "Bases have pH < 7" are unequivocally false. Re-tested baking soda ($NaHCO_3$) decomposition in soda-acid fire extinguishers ($2NaHCO_3 + H_2SO_4 \to Na_2SO_4 + 2H_2O + 2CO_2 \uparrow$). |
 | **2024** | **UPPCS Prelims 2024** | Question on **Litmus Paper Response**: Acid turns blue litmus paper red; base turns red litmus blue. Litmus is derived naturally from **Lichens** (symbiotic association of fungus and alga). |
-| **2024** | **UPPCS / UKPCS Trends** | Formula Lock: **Baking Soda is $NaHCO_3$** (Sodium hydrogen carbonate); **Washing Soda is $Na_2CO_3 \cdot 10H_2O$** (Sodium carbonate decahydrate); **Plaster of Paris is $CaSO_4 \cdot \frac{1}{2}H_2O$**; **Gypsum is $CaSO_4 \cdot 2H_2O$**. |
+| **2024** | **UPPCS / UKPCS Trends** | Formula: **Baking Soda is $NaHCO_3$** (Sodium hydrogen carbonate); **Washing Soda is $Na_2CO_3 \cdot 10H_2O$** (Sodium carbonate decahydrate); **Plaster of Paris is $CaSO_4 \cdot \frac{1}{2}H_2O$**; **Gypsum is $CaSO_4 \cdot 2H_2O$**. |
 | **2023** | **Biomolecules & Sweeteners** | Testing of **Relative Sweetness Index**: **Fructose** is the sweetest naturally occurring sugar ($1.7\times$ sweeter than sucrose). Cane sugar (**Sucrose**) is a non-reducing disaccharide composed of $\alpha\text{-D-glucose} + \beta\text{-D-fructose}$, hydrolyzing to yield optically inverted **Invert Sugar**. |
 
 ---
@@ -177,9 +177,9 @@ Acid-Base Theories (Arrhenius, Brønsted-Lowry, Lewis) | pH Scale & Mathematical
 
 ## Master Reference Tables
 
-### Table 1: Master pH Spectrum of Common Substances (UPPCS Exam Hierarchy)
+### Table 1: Master pH Spectrum of Common Substances (UPPCS Hierarchy)
 
-| Substance / Biological Fluid | Exact pH Value / Typical Range | Acidic / Neutral / Basic | Exam Key & Physiological Significance |
+| Substance / Biological Fluid | Exact pH Value / Typical Range | Acidic / Neutral / Basic | Key Point & Physiological Significance |
 |---|---|---|---|
 | **Concentrated Battery Acid ($H_2SO_4$)** | $< 1.0$ ($\sim 0.5$) | Strongly Acidic | Electrolyte in automotive lead-acid storage batteries |
 | **Human Gastric Juice ($HCl$)** | **$1.0–1.5$** | Strongly Acidic | Activates pepsinogen; destroys ingested microorganisms |
@@ -206,7 +206,7 @@ Acid-Base Theories (Arrhenius, Brønsted-Lowry, Lewis) | pH Scale & Mathematical
 
 ### Table 2: Natural Organic Acids & Their Diagnostic Occurrence
 
-| Organic Acid | Systematic Chemical Formula | Diagnostic Natural / Household Sources | Special Exam Facts & Applications |
+| Organic Acid | Systematic Chemical Formula | Diagnostic Natural / Household Sources | Special Facts & Applications |
 |---|---|---|---|
 | **Acetic Acid** (Ethanoic) | $CH_3COOH$ | **Vinegar** ($4–8\%$ solution) | Food preservative, pickling; $100\%$ anhydrous form is "Glacial Acetic Acid" (freezes at $16.6^\circ\text{C}$). |
 | **Formic Acid** (Methanoic) | $HCOOH$ | **Ant stings**, bee stings, stinging nettle hairs | Simplest carboxylic acid; neutralized on skin by applying mild alkaline baking soda or calamine ($ZnCO_3$). |
@@ -223,7 +223,7 @@ Acid-Base Theories (Arrhenius, Brønsted-Lowry, Lewis) | pH Scale & Mathematical
 
 ### Table 3: Master Classification of Industrial & Medicinal Salts
 
-| Commercial Name | Systematic Chemical Name | Exact Chemical Formula | Industrial Preparation Method | Primary Uses & Exam Locks |
+| Commercial Name | Systematic Chemical Name | Exact Chemical Formula | Industrial Preparation Method | Primary Uses & Must-Score |
 |---|---|---|---|---|
 | **Baking Soda** | Sodium Hydrogen Carbonate | **$NaHCO_3$** | Solvay Process ($NaCl + H_2O + NH_3 + CO_2 \to NaHCO_3 + NH_4Cl$) | Antacid, baking powder ingredient, soda-acid fire extinguishers. |
 | **Washing Soda** | Sodium Carbonate Decahydrate | **$Na_2CO_3 \cdot 10H_2O$** | Recrystallization of Solvay soda ash | Laundry detergent, glass/paper mills, removes permanent water hardness. |
@@ -2855,7 +2855,7 @@ of electricity because absence of free electrons.
 
 ## Common Traps & High-Yield Pitfalls
 
-| Trap Area | What Students Confuse | Accurate Exam Fact |
+| Trap Area | What Students Confuse | Correct Fact |
 |---|---|---|
 | **Baking vs. Washing Soda** | Mixing up $NaHCO_3$ and $Na_2CO_3 \cdot 10H_2O$. | **Baking Soda is $NaHCO_3$** (contains Hydrogen). **Washing Soda is $Na_2CO_3 \cdot 10H_2O$** (10 waters). |
 | **Plaster of Paris Water Count** | Forgetting whether PoP has $\frac{1}{2}$ or $2$ water molecules. | **Plaster of Paris has $\frac{1}{2}\text{ H}_2\text{O}$** ($CaSO_4 \cdot \frac{1}{2}H_2O$). **Gypsum has $2\text{ H}_2\text{O}$** ($CaSO_4 \cdot 2H_2O$). |

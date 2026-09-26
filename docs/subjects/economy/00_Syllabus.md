@@ -2,7 +2,8 @@
 
 **Desk:** [UKPCS Syllabus — Unit 4](../../ukpcs/00_Syllabus.md)  
 **12-chapter map (national):** [Economics syllabus](01_Economics_Syllabus.md) — **Topic 1 written**; Topics 2–12 mapped  
-**UKPCS-only state:** [Uttarakhand Economy](uttarakhand/00_Syllabus.md)
+**UKPCS-only state:** [Uttarakhand Economy](uttarakhand/00_Syllabus.md)  
+**UP state economy depth:** [UP Special Topics 4–5](../up%20special/index.md) (industry / agri) — national Economy stays India-wide
 
 ## Core heads (national)
 

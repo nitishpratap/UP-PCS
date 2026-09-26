@@ -1,5 +1,5 @@
 # Topic 1 — Living World, Cell, Genetics and Biotechnology
-### ★ UPPCS Revision Sheet — Lucent / PW Coaching Style (Dense Locks · Zero Fluff · Practice ≥25)
+### ★ UPPCS Revision Sheet — Lucent / PW Coaching Style (Lucent / PW style · Practice ≥25)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -14,9 +14,9 @@ Introduction to Biology | Subdivisions & Branches of Biology | Biological Cultur
 
 ---
 
-## Current Affairs & Exam Locks
+## Current Affairs
 
-| Year | Event / Fact | High-Yield Exam Lock |
+| Year | Event / Fact | Must-Score Fact |
 |------|-------------|----------------------|
 | **2024** | Nobel Prize in Physiology or Medicine awarded to **Victor Ambros** and **Gary Ruvkun**. | Discovered **microRNA (miRNA)** and its role in post-transcriptional gene regulation; miRNA silences mRNA after transcription. |
 | **2025** | Nobel Prize in Physiology or Medicine awarded to **Mary E. Brunkow**, **Fred Ramsdell**, and **Shimon Sakaguchi**. | Discovered mechanisms of **peripheral immune tolerance** mediated by regulatory T cells ($T_{reg}$), preventing autoimmune attack. |
@@ -64,11 +64,11 @@ Introduction to Biology | Subdivisions & Branches of Biology | Biological Cultur
    - Early oceanic water containing dissolved gases formed a rich soup of organic chemicals termed by Haldane as the **"hot dilute soup"** or **"primordial soup"**, condensing into proto-cellular droplets called **coacervates**.
 7. **The Primitive Earth Atmosphere**:
    - Primitive Earth had a strongly **reducing atmosphere** consisting of **$CH_4$, $NH_3$, $H_2$, $H_2O$ vapour, $CO_2$, $N_2$, and $HCN$**.
-   - **Crucial Exam Lock:** **Free molecular Oxygen ($O_2$) was completely ABSENT** in primitive Earth's atmosphere! Oxygen accumulated hundreds of millions of years later through the photosynthetic activity of cyanobacteria (blue-green algae).
+   - **Must-Score Fact:** **Free molecular Oxygen ($O_2$) was completely ABSENT** in primitive Earth's atmosphere! Oxygen accumulated hundreds of millions of years later through the photosynthetic activity of cyanobacteria (blue-green algae).
 8. **The Miller-Urey Experiment (1953)**:
    - Conducted by **Stanley Miller** and **Harold Urey** at the University of Chicago to experimentally test prebiotic synthesis in a reducing atmosphere.
    - Circulated a mixture of four gases: **Methane ($CH_4$), Ammonia ($NH_3$), Hydrogen ($H_2$), and boiling water vapour ($H_2O$)** in an airtight closed glass apparatus.
-   - **Gaseous Ratio Lock:** **Methane : Ammonia : Hydrogen = $2 : 2 : 1$**.
+   - **Gaseous Ratio:** **Methane : Ammonia : Hydrogen = $2 : 2 : 1$**.
    - Passed continuous high-voltage electrical spark discharges through tungsten electrodes for **one full week**.
    - Analysis of the condensed fluid revealed complex organic molecules, including amino acids like **Glycine, Alanine, and Aspartic acid**.
 9. **Geological Chronology of Cenozoic Epochs (Oldest to Most Recent)**:
@@ -106,7 +106,7 @@ Introduction to Biology | Subdivisions & Branches of Biology | Biological Cultur
 20. **Antony van Leeuwenhoek (1632–1723)** is the Father of Microbiology; discovered bacteria ("animalcules") using single high-power lenses; bacteria are 0.5–5.0 $\mu m$ in size and visible under a compound microscope.
 21. The smallest known living cell capable of autonomous growth and reproduction is ***Mycoplasma gallisepticum*** (0.1–0.3 $\mu m$, lacks a cell wall, naturally insensitive to penicillin and beta-lactam antibiotics); the largest single cell is an **Ostrich egg**; the longest human cell is the **Neuron**.
 22. **Prokaryotes** (bacteria, cyanobacteria) have naked circular DNA in a **nucleoid**, lack membrane-bound organelles, and possess **70S ribosomes** (50S + 30S); **Eukaryotes** have membrane-bound nuclei, linear DNA with histones, and cytoplasmic **80S ribosomes** (60S + 40S).
-23. **Cell Wall** chemical locks: Plants = **Cellulose + Hemicellulose + Pectin**; Fungi = **Chitin** (polymer of N-acetylglucosamine); Bacteria = **Peptidoglycan / Murein**; Algae = **Cellulose + Galactans + Mannans + $CaCO_3$**.
+23. **Cell Wall** chemical facts: Plants = **Cellulose + Hemicellulose + Pectin**; Fungi = **Chitin** (polymer of N-acetylglucosamine); Bacteria = **Peptidoglycan / Murein**; Algae = **Cellulose + Galactans + Mannans + $CaCO_3$**.
 24. **Singer and Nicolson (1972)** proposed the **Fluid Mosaic Model** of the plasma membrane: a quasi-fluid bilayer of phospholipids with protein "icebergs floating in a lipid sea"; selectively permeable.
 25. **Mitochondria** (Kolliker 1857, Benda 1898) are the powerhouses of the cell (ATP generation via oxidative phosphorylation on inner membrane cristae); contain circular DNA and 70S ribosomes (semi-autonomous); inherited maternally.
 26. **Plastids** (Schimper): **Chloroplasts** (photosynthesis, contain chlorophyll and circular DNA); **Chromoplasts** (pigment storage: Lycopene in tomato, Capsanthin in red chilli, Carotene in carrot, Betanin in beetroot); **Leucoplasts** (storage: Amyloplasts = starch, Elaioplasts = oils/fats, Aleuroplasts = proteins).
@@ -144,7 +144,7 @@ Introduction to Biology | Subdivisions & Branches of Biology | Biological Cultur
 
 ## Confused Pairs
 
-| Concept A | Concept B | Core Distinguishing Exam Fact | Hindi Key |
+| Concept A | Concept B | Core Distinguishing Fact | Hindi Key |
 |-----------|-----------|-------------------------------|-----------|
 | **Pedology** | **Edaphology** | Study of soil origin, morphology & pedogenesis vs study of soil's influence on living plants and crops | मृदा विज्ञान / एडाफोलॉजी |
 | **Bionics** | **Bionomics** | Applying biological systems to engineering & technology vs study of organism in its natural habitat (ecology) | बायोनिक्स / बायोनोमिक्स |
@@ -172,7 +172,7 @@ Introduction to Biology | Subdivisions & Branches of Biology | Biological Cultur
 
 ### Key Biological Scientists & Landmark Milestones
 
-| Scientist | Milestone / Contribution | Direct Exam Lock |
+| Scientist | Milestone / Contribution | Direct Must-Score |
 |-----------|--------------------------|------------------|
 | **Aristotle** | Father of Biology & Zoology | First classified animals into *Anaima* (no red blood) and *Enaima* (red blood) |
 | **Theophrastus** | Father of Botany | Wrote *Historia Plantarum*, classified 480 plants |
@@ -209,7 +209,7 @@ Introduction to Biology | Subdivisions & Branches of Biology | Biological Cultur
 
 ### Master Table: Subdivisions & Specialized Branches of Biology
 
-| Branch | Exact Scope & Definition | Key Exam Lock / Pioneer |
+| Branch | Exact Scope & Definition | Key Must-Score / Pioneer |
 |--------|--------------------------|-------------------------|
 | **Agrostology / Graminology** | Scientific study of **true grasses** (family Poaceae / Gramineae) | Direct stem in Jharkhand PCS & UPPCS |
 | **Algology / Phycology** | Scientific study of algae and seaweeds | Photosynthetic thallophytes |
@@ -269,7 +269,7 @@ Introduction to Biology | Subdivisions & Branches of Biology | Biological Cultur
 
 ### Master Table: Agricultural, Biological & Culture Terminologies
 
-| Terminology / Culture | Target Organism / Commodity | Practical Scope, Key Products & Exam Highlights |
+| Terminology / Culture | Target Organism / Commodity | Practical Scope, Key Products & Key Highlights |
 |-----------------------|-----------------------------|-------------------------------------------------|
 | **Aeroculture** | Soilless plants | Growing plants suspended above continuous liquid sprays that moisten roots with nutrient water |
 | **Aeroponics** | Soilless plants | High-tech plant cultivation without soil; roots hang suspended in air misted periodically with nutrient solution |
@@ -309,7 +309,7 @@ Introduction to Biology | Subdivisions & Branches of Biology | Biological Cultur
   - **Prions**: Proteinaceous infectious particles devoid of nucleic acid; highly resistant to heat, radiation, and enzymes. Cause **Bovine Spongiform Encephalopathy (BSE / Mad Cow Disease)** in cattle and **Creutzfeldt-Jakob Disease (CJD)** in humans.
   - **Lichens**: Symbiotic association between an alga (**Phycobiont**, autotrophic) and a fungus (**Mycobiont**, heterotrophic); excellent bio-indicators of **$SO_2$ air pollution** (do not grow in polluted industrial areas).
 
-> **Exam note:** UPPCS 2021 tested: Nitrogen is an essential constituent of DNA, RNA, and chlorophyll, but is **absent** in simple carbohydrates.
+> **Note:** UPPCS 2021 tested: Nitrogen is an essential constituent of DNA, RNA, and chlorophyll, but is **absent** in simple carbohydrates.
 
 ---
 
@@ -321,7 +321,7 @@ Introduction to Biology | Subdivisions & Branches of Biology | Biological Cultur
   - Lighter atoms (Hydrogen, Helium, Nitrogen, Oxygen, Carbon) escaped or formed the primordial atmosphere.
 - **The Primitive Atmosphere — Strongly Reducing (NO Free Oxygen)**:
   - The primitive atmosphere was **strictly reducing**; it contained **Methane ($CH_4$), Ammonia ($NH_3$), Hydrogen ($H_2$), Water Vapour ($H_2O$), Carbon Dioxide ($CO_2$), Nitrogen ($N_2$), Carbon Monoxide ($CO$), and Hydrogen Cyanide ($HCN$)**.
-  - **Absolute High-Yield Lock:** **Free molecular gaseous Oxygen ($\mathbf{O_2}$) was completely ABSENT** on primitive Earth!
+  - **Absolute High-Yield Fact:** **Free molecular gaseous Oxygen ($\mathbf{O_2}$) was completely ABSENT** on primitive Earth!
   - There was **no protective ozone ($O_3$) shield**; intense ultraviolet (UV) radiation, cosmic rays, volcanic heat, and lightning discharges directly irradiated the prebiotic Earth.
 - **The Oparin-Haldane Hypothesis (Chemogeny / Prebiotic Evolution)**:
   - Formulated independently by Russian biochemist **Aleksandr I. Oparin (1924, book *Origin of Life* 1936)** and British biologist **J. B. S. Haldane (1929)**.
@@ -334,7 +334,7 @@ Introduction to Biology | Subdivisions & Branches of Biology | Biological Cultur
   - **Experimental Design**:
     - Built a closed, airtight, sterilised borosilicate glass apparatus.
     - Circulated four continuous gases: **Methane ($\mathbf{CH_4}$), Ammonia ($\mathbf{NH_3}$), Hydrogen ($\mathbf{H_2}$)** along with boiling water vapour ($\mathbf{H_2O}$).
-    - **Exact Gaseous Ratio Lock:** **$\mathbf{CH_4 : NH_3 : H_2 = 2 : 2 : 1}$**.
+    - **Exact Gaseous Ratio:** **$\mathbf{CH_4 : NH_3 : H_2 = 2 : 2 : 1}$**.
     - Passed continuous electric spark discharges (using tungsten electrodes at $60,000\text{ volts}$ simulating lightning) at ~$\sim 800^\circ\text{C}$.
     - Circulated the gaseous mixture continuously for **one full week**, then condensed and cooled the fluid.
   - **Landmark Result**:
@@ -345,7 +345,7 @@ Introduction to Biology | Subdivisions & Branches of Biology | Biological Cultur
   - **Eukaryotic cells** with true membrane-bound nuclei evolved approximately **$1.7\text{ to }1.9\text{ billion years ago}$**.
 - **Geological Chronology of Cenozoic Epochs (Oldest to Most Recent)**:
   $$\mathbf{Paleocene \rightarrow Eocene \rightarrow Oligocene \rightarrow Miocene \rightarrow Pliocene \rightarrow Pleistocene \rightarrow Holocene\text{ (Current)}}$$
-  *(Exam Lock: Tested in Chhattisgarh PCS Pre 2021 — Eocene precedes Miocene, Pliocene, Pleistocene, and Holocene).*
+  *(Must-Score: Tested in Chhattisgarh PCS Pre 2021 — Eocene precedes Miocene, Pliocene, Pleistocene, and Holocene).*
 - **Earth's Magnetic Field Reversals**:
   - Earth's geomagnetic field has inverted polarity periodically every few hundred thousand years (over 20 times in the last 5 million years; the last major reversal was the Brunhes-Matuyama reversal ~780,000 years ago).
 
@@ -386,7 +386,7 @@ Introduction to Biology | Subdivisions & Branches of Biology | Biological Cultur
      - *Environmental struggle*: Against adverse physical forces (droughts, floods, volcanic eruptions, tsunamis, earthquakes).
   4. **Universal Variations**: No two individuals in a sexually reproducing population are identical; individuals vary in morphological and physiological traits.
   5. **Natural Selection ("Survival of the Fittest")**: Individuals possessing favorable heritable variations that aid survival reproduce more successfully, leaving more offspring (**differential reproduction**). Unfavorable variations are progressively eliminated.
-  - *Exam Lock:* The famous phrase **"Survival of the Fittest"** was coined by philosopher **Herbert Spencer** in his *Principles of Biology* (1864) and adopted by Darwin in his 5th edition (1869).
+  - *Must-Score:* The famous phrase **"Survival of the Fittest"** was coined by philosopher **Herbert Spencer** in his *Principles of Biology* (1864) and adopted by Darwin in his 5th edition (1869).
 
 ### 3. Neo-Darwinism & The Modern Synthetic Theory
 - **August Weismann's Germplasm Theory (1892)**: Decisively disproved Lamarckian inheritance of acquired characters by cutting off the tails of mice for 22 successive generations; offspring were always born with normal long tails. Proved that only changes in the **germplasm** (germ cells / gametes) are heritable, whereas changes in **somatoplasm** (body somatic tissues) perish with the individual.
@@ -445,10 +445,10 @@ Introduction to Biology | Subdivisions & Branches of Biology | Biological Cultur
 - **Cro-Magnon Man (Early Modern *Homo sapiens*)**:
   - First discovered in **1868** by French palaeontologist **Louis Lartet** in the Cro-Magnon rock shelter at Les Eyzies, Dordogne, southwestern France.
   - Remains radiocarbon dated to **30,000–45,000 years ago**; regarded as the **last direct ancestor of modern humans**.
-  - **Anatomical Locks**: Robust muscular build (height 1.7–1.8 m); high, straight vertical forehead; short, wide face with a **prominent modern chin**; large cranial capacity averaging **$\mathbf{1,600\text{ cc}}$** (slightly larger than modern average humans ~1,350 cc).
+  - **Anatomical Facts**: Robust muscular build (height 1.7–1.8 m); high, straight vertical forehead; short, wide face with a **prominent modern chin**; large cranial capacity averaging **$\mathbf{1,600\text{ cc}}$** (slightly larger than modern average humans ~1,350 cc).
 - **Vertebrate Evolutionary Sequence**:
   $$\mathbf{Salamander\text{ (tailed amphibian, }\sim 360\text{ mya)} \rightarrow Python\text{ (squamate reptile, }\sim 300\text{ mya)} \rightarrow Kangaroo\text{ (marsupial mammal, }\sim 145\text{ mya)}}$$
-  *(Exam Lock: Tested in IAS Pre 2009).*
+  *(Must-Score: Tested in IAS Pre 2009).*
 
 ---
 
@@ -456,7 +456,7 @@ Introduction to Biology | Subdivisions & Branches of Biology | Biological Cultur
 
 - **Concept & Pioneers of Taxonomy**:
   - **Taxonomy** is the science and practice of identification, nomenclature, and classification of living and extinct organisms into hierarchical groups.
-  - **Augustin Pyramus de Candolle (A. P. de Candolle)**: Swiss botanist who **first coined the term 'Taxonomy'** in 1813 (from Greek *taxis* = arrangement and *nomos* = law) and was the **first to use the characteristics of vascular tissues in the classification of plants**, categorising plants into *Vasculares* (with vascular bundles) and *Cellulares* (without vascular bundles). *(Exam Lock: 71st BPSC Pre 2025)*.
+  - **Augustin Pyramus de Candolle (A. P. de Candolle)**: Swiss botanist who **first coined the term 'Taxonomy'** in 1813 (from Greek *taxis* = arrangement and *nomos* = law) and was the **first to use the characteristics of vascular tissues in the classification of plants**, categorising plants into *Vasculares* (with vascular bundles) and *Cellulares* (without vascular bundles). *(Must-Score: 71st BPSC Pre 2025)*.
   - **Carolus Linnaeus** (1707–1778): Swedish physician and botanist widely revered as the **Father of Modern Taxonomy**; formalised **Binomial Nomenclature** and established the Linnaean taxonomic hierarchy.
 - **Binomial Nomenclature (Linnaeus System)**:
   - Introduced by **Carolus Linnaeus** in *Systema Naturae* (1758) and *Species Plantarum* (1753).
@@ -464,7 +464,7 @@ Introduction to Biology | Subdivisions & Branches of Biology | Biological Cultur
   - Rules: Genus begins with a capital letter; species begins with a lowercase letter; both are printed in *italics* or underlined separately when handwritten (e.g., *Homo sapiens*, *Mangifera indica*).
 - **Taxonomic Hierarchy (Linnaean Hierarchy)**:
   - Obligate categories from broadest to most specific: **Kingdom → Phylum (Animals) / Division (Plants) → Class → Order → Family → Genus → Species**.
-  - In descending hierarchy: **Plant Kingdom → Phylum / Division → Class → Order → Family → Genus → Species** *(Exam Lock: UPPCS Pre 2024, Uttarakhand PCS Pre 2025)*.
+  - In descending hierarchy: **Plant Kingdom → Phylum / Division → Class → Order → Family → Genus → Species** *(Must-Score: UPPCS Pre 2024, Uttarakhand PCS Pre 2025)*.
   - As we move from Species to Kingdom, the number of shared common characteristics **decreases**, while the difficulty of determining phylogenetic relationship increases.
   - **Species** is the lowest, basic, real and fundamental unit of classification: defined as a group of individual organisms with fundamental similarities capable of naturally interbreeding and producing fertile offspring *(Chhattisgarh PCS Pre 2024)*.
 - **Evolution of Classification Systems**:
@@ -492,13 +492,13 @@ Introduction to Biology | Subdivisions & Branches of Biology | Biological Cultur
 
 ## 1.5 Cell Structure: Prokaryote vs Eukaryote & Cell Theory
 
-- **Ghatnachakra High-Yield Locks & Cell Facts**:
-  - **Total Cell Count**: A standard adult human of 70 kg contains approximately **30 trillion ($3 	imes 10^{13}$)** cells.
+- **Ghatnachakra High-Yield Facts & Cell Facts**:
+  - **Total Cell Count**: A standard adult human of 70 kg contains approximately **30 trillion ($3 \times 10^{13}$)** cells.
   - **Cell Dimensions**: Most plant and animal cells measure between **1 to 100 micrometres ($\mu m$)** and are visible only under a light/electron microscope.
   - **Evolutionary Emergence**: The first cellular life emerged on Earth approximately **3.5 to 3.8 billion years ago** in the form of anaerobic, heterotrophic prokaryotes.
 
-- **Ghatnachakra High-Yield Locks & Cell Facts**:
-  - **Total Cell Count**: A standard adult human of 70 kg contains approximately **30 trillion ($3 	imes 10^{13}$)** cells.
+- **Ghatnachakra High-Yield Facts & Cell Facts**:
+  - **Total Cell Count**: A standard adult human of 70 kg contains approximately **30 trillion ($3 \times 10^{13}$)** cells.
   - **Cell Dimensions**: Most plant and animal cells measure between **1 to 100 micrometres ($\mu m$)** and are visible only under a light/electron microscope.
   - **Evolutionary Emergence**: The first cellular life emerged on Earth approximately **3.5 to 3.8 billion years ago** in the form of anaerobic, heterotrophic prokaryotes.
 
@@ -530,29 +530,29 @@ Introduction to Biology | Subdivisions & Branches of Biology | Biological Cultur
 | **Cell Wall** | Complex peptidoglycan (murein) | Cellulose (plants), Chitin (fungi), Absent (animals) |
 | **Cell Division** | Binary fission, budding (amitosis; no spindle formation) | Mitosis and Meiosis (spindle apparatus forms) |
 
-> **Exam note:** UPPCS 2024 tested: Chromosomes are made of DNA and protein (histones); the nucleus **does** play an active role in cellular reproduction.
+> **Note:** UPPCS 2024 tested: Chromosomes are made of DNA and protein (histones); the nucleus **does** play an active role in cellular reproduction.
 
 ---
 
 ## 1.6 Detailed Organelles & Cellular Machinery
 
-- **Ghatnachakra High-Yield Organelle Locks**:
+- **Ghatnachakra High-Yield Organelle Facts**:
   - **Sarcoplasmic Reticulum (SR)**: A modified smooth endoplasmic reticulum (SER) present *exclusively in muscle cells (myocytes)*; functions to sequester, store, and pump calcium ions ($Ca^{2+}$) for muscle contraction and relaxation.
   - **Mitochondrial ATP Respiration Breakdown**: While cellular respiration theoretically generates 30–38 ATP per glucose molecule, the **terminal oxidation process / oxidative phosphorylation** (electron transport chain linked to ATP synthase in inner mitochondrial membrane) produces the vast majority—**approx. 27–34 ATP**!
   - **Golgi Apparatus**: First observed in 1897 and officially reported in April 1898 by Italian physician **Camillo Golgi**; composed of stacks of membrane-bound flattened sacs called **cisternae** responsible for modifying, sorting, and packaging proteins and lipids.
   - **Lysosomes ("Suicide Bags")**: Discovered by Christian de Duve; vesicular organelles packed with acid hydrolases (proteases, lipases, nucleases, carbohydrases) that function optimally in an **acidic medium (pH ~4.5–5.0)**. Functions in autophagy (digesting obsolete organelles), autolysis (cell self-destruction upon rupture), and bactericidal killing.
-  - **Centrosome**: The primary microtubule organizing centre (MTOC) of animal cells; contains two centrioles surrounded by pericentriolar material; organizes the spindle apparatus during mitosis. **Crucial Exam Lock:** Plants and most fungi lack centrosomes!
+  - **Centrosome**: The primary microtubule organizing centre (MTOC) of animal cells; contains two centrioles surrounded by pericentriolar material; organizes the spindle apparatus during mitosis. **Must-Score Fact:** Plants and most fungi lack centrosomes!
   - **Lysosome vs Vacuole Taxonomic Convention**: In scientific convention, the term *lysosome* is strictly applied to animal vesicular digestive organelles, whereas in plants, fungi, and algae, these functions are performed by the large central **vacuole**.
-  - **Programmed Cell Death (PCD) / Apoptosis ("Cellular Suicide")**: Regulated intracellular suicide pathway crucial during embryogenesis and tissue homeostasis. Classic exam example: the separation and formation of distinct digits (fingers and toes) in the human embryo occurs via apoptosis of the interdigital webbing cells!
+  - **Programmed Cell Death (PCD) / Apoptosis ("Cellular Suicide")**: Regulated intracellular suicide pathway crucial during embryogenesis and tissue homeostasis. Classic example: the separation and formation of distinct digits (fingers and toes) in the human embryo occurs via apoptosis of the interdigital webbing cells!
 
-- **Ghatnachakra High-Yield Organelle Locks**:
+- **Ghatnachakra High-Yield Organelle Facts**:
   - **Sarcoplasmic Reticulum (SR)**: A modified smooth endoplasmic reticulum (SER) present *exclusively in muscle cells (myocytes)*; functions to sequester, store, and pump calcium ions ($Ca^{2+}$) for muscle contraction and relaxation.
   - **Mitochondrial ATP Respiration Breakdown**: While cellular respiration theoretically generates 30–38 ATP per glucose molecule, the **terminal oxidation process / oxidative phosphorylation** (electron transport chain linked to ATP synthase in inner mitochondrial membrane) produces the vast majority—**approx. 27–34 ATP**!
   - **Golgi Apparatus**: First observed in 1897 and officially reported in April 1898 by Italian physician **Camillo Golgi**; composed of stacks of membrane-bound flattened sacs called **cisternae** responsible for modifying, sorting, and packaging proteins and lipids.
   - **Lysosomes ("Suicide Bags")**: Discovered by Christian de Duve; vesicular organelles packed with acid hydrolases (proteases, lipases, nucleases, carbohydrases) that function optimally in an **acidic medium (pH ~4.5–5.0)**. Functions in autophagy (digesting obsolete organelles), autolysis (cell self-destruction upon rupture), and bactericidal killing.
-  - **Centrosome**: The primary microtubule organizing centre (MTOC) of animal cells; contains two centrioles surrounded by pericentriolar material; organizes the spindle apparatus during mitosis. **Crucial Exam Lock:** Plants and most fungi lack centrosomes!
+  - **Centrosome**: The primary microtubule organizing centre (MTOC) of animal cells; contains two centrioles surrounded by pericentriolar material; organizes the spindle apparatus during mitosis. **Must-Score Fact:** Plants and most fungi lack centrosomes!
   - **Lysosome vs Vacuole Taxonomic Convention**: In scientific convention, the term *lysosome* is strictly applied to animal vesicular digestive organelles, whereas in plants, fungi, and algae, these functions are performed by the large central **vacuole**.
-  - **Programmed Cell Death (PCD) / Apoptosis ("Cellular Suicide")**: Regulated intracellular suicide pathway crucial during embryogenesis and tissue homeostasis. Classic exam example: the separation and formation of distinct digits (fingers and toes) in the human embryo occurs via apoptosis of the interdigital webbing cells!
+  - **Programmed Cell Death (PCD) / Apoptosis ("Cellular Suicide")**: Regulated intracellular suicide pathway crucial during embryogenesis and tissue homeostasis. Classic example: the separation and formation of distinct digits (fingers and toes) in the human embryo occurs via apoptosis of the interdigital webbing cells!
 
 - **Plasma Membrane (Cell Membrane)**:
   - **Fluid Mosaic Model (Singer & Nicolson, 1972)**: Phospholipid bilayer arranged with hydrophilic polar heads facing outward and hydrophobic non-polar fatty acid tails facing inward. Intrinsic (integral) proteins span the bilayer; extrinsic (peripheral) proteins rest on the surfaces.
@@ -708,9 +708,9 @@ Introduction to Biology | Subdivisions & Branches of Biology | Biological Cultur
   - **Karyokinesis (Nuclear Division Stages)**:
     1. **Prophase**: Chromatin condenses into distinct chromosomes; nucleolus and nuclear membrane disintegrate; centrosomes move to opposite poles.
     2. **Metaphase**: Nuclear envelope completely disappears; chromosomes are shortest and thickest; align at the equatorial plane (**Metaphase plate**); spindle fibers attach to the **kinetochores** of centromeres.
-       - *Exam lock*: **Metaphase is the best stage to study chromosome morphology, size, and count.**
+       - **Logic:** **Metaphase is the best stage to study chromosome morphology, size, and count.**
     3. **Anaphase**: Centromeres split simultaneously; sister chromatids separate into individual daughter chromosomes and migrate toward opposite poles pulled by spindle shortening.
-       - *Exam lock*: **Anaphase is the best stage to study chromosome shapes (V, L, J, I).**
+       - **Logic:** **Anaphase is the best stage to study chromosome shapes (V, L, J, I).**
     4. **Telophase**: Chromosomes decondense back into chromatin at poles; nuclear membrane and nucleoli reform; spindle apparatus disassembles.
   - **Cytokinesis (Cytoplasmic Division)**:
     - Animal cells: **Cleavage furrow** method (plasma membrane constricts from outside inward, centripetal).
@@ -735,7 +735,7 @@ Leptotene ──► Zygotene ──────────► Pachytene ──�
   - **Detailed Sub-stages of Prophase-I (Longest and Most Complex Phase)**:
     1. **Leptotene (लेप्टोटीन)**: Chromatin condenses into long, slender visible threads; chromosomes show a "bouquet stage" as telomeres converge toward the centrosome.
     2. **Zygotene (जाइगोटीन)**: Homologous chromosomes find each other and pair up gene-for-gene — this pairing process is called **Synapsis**; a tripartite protein ladder structure called the **Synaptonemal Complex** forms between them; paired unit is called a **Bivalent** or **Tetrad**.
-    3. **Pachytene (पैकाइटीन — CRITICAL EXAM STAGE)**:
+    3. **Pachytene (पैकाइटीन — CRITICAL STAGE)**:
        - Non-sister chromatids of homologous bivalents exchange corresponding genetic segments — this phenomenon is called **Crossing Over**.
        - Catalysed by the multi-enzyme complex **Recombinase** (endonuclease + ligase).
        - Generates **new genetic recombinations**, providing the raw material for organic evolution.
@@ -750,14 +750,14 @@ Leptotene ──► Zygotene ──────────► Pachytene ──�
 
 ## 1.9 Heredity & Mendelian Genetics
 
-- **Ghatnachakra Genetics & Chromosome Locks**:
+- **Ghatnachakra Genetics & Chromosome Facts**:
   - **Gregor Johann Mendel**: Augustinian cleric who conducted hybridization experiments on garden pea (*Pisum sativum*) at the St. Thomas's Abbey monastery in Brünn (now Brno, Czech Republic). Mendel established that inheritance occurs exclusively via **sexual reproduction** and equal biparental genetic contribution.
   - **Chromosomal Theory of Inheritance**: Proposed independently by **Walter Sutton and Theodor Boveri (1902–1903)**, noting the exact parallelism between Mendelian factor segregation and homologous chromosome separation during meiosis. Later confirmed experimentally in *Drosophila* by **Thomas Hunt Morgan (1915)**.
   - **Human Chromosomal Karyotype**: 23 pairs (46 total chromosomes) = 22 pairs of autosomes (44) + 1 pair of allosomes/sex chromosomes (XX female, XY male). The male parent's sperm (contributing either X or Y) solely determines the sex of the offspring.
   - **Reptilian Sex Chromosome Exception**: Many species of lizards (such as the genus *Sceloporus*) lack morphologically recognizable sex chromosomes; sex in many reptiles is determined environmentally by incubation temperature (Temperature-dependent Sex Determination / TSD).
   - **Occupational Radiation Risk**: **X-ray technicians** and medical imaging professionals face the highest occupational hazard of cumulative ionizing radiation causing double-strand breaks and permanent mutagenic alterations in cellular DNA.
 
-- **Ghatnachakra Genetics & Chromosome Locks**:
+- **Ghatnachakra Genetics & Chromosome Facts**:
   - **Gregor Johann Mendel**: Augustinian cleric who conducted hybridization experiments on garden pea (*Pisum sativum*) at the St. Thomas's Abbey monastery in Brünn (now Brno, Czech Republic). Mendel established that inheritance occurs exclusively via **sexual reproduction** and equal biparental genetic contribution.
   - **Chromosomal Theory of Inheritance**: Proposed independently by **Walter Sutton and Theodor Boveri (1902–1903)**, noting the exact parallelism between Mendelian factor segregation and homologous chromosome separation during meiosis. Later confirmed experimentally in *Drosophila* by **Thomas Hunt Morgan (1915)**.
   - **Human Chromosomal Karyotype**: 23 pairs (46 total chromosomes) = 22 pairs of autosomes (44) + 1 pair of allosomes/sex chromosomes (XX female, XY male). The male parent's sperm (contributing either X or Y) solely determines the sex of the offspring.
@@ -785,10 +785,10 @@ Leptotene ──► Zygotene ──────────► Pachytene ──�
   1. **Principle of Paired Factors**: Characters are controlled by discrete units called factors (now called **Genes**, term coined by **Wilhelm Johannsen, 1909**); genes occur in pairs called **Alleles** (alternative forms of the same gene occupying identical loci on homologous chromosomes).
   2. **Law of Dominance (प्रभाविता का नियम)**: In a monohybrid cross between two pure contrasting parents, only one ancestral trait appears in the $F_1$ generation (the **Dominant** trait); the hidden trait that fails to express is the **Recessive** trait.
   3. **Law of Segregation (विपृथक्करण का नियम / Law of Purity of Gametes)**: The two alleles of a gene do not blend in a hybrid, but separate and segregate from each other during gamete formation so that each gamete receives only one allele with equal probability.
-     - *Exam lock*: **This law is universal without any exceptions.**
+     - **Logic:** **This law is universal without any exceptions.**
   4. **Law of Independent Assortment (स्वतंत्र अपव्यूहन का नियम)**: In a dihybrid cross, the segregation of alleles of one gene pair is completely independent of the segregation of alleles of another gene pair during gamete formation.
-     - *Exam lock*: **Applies only to genes situated on different chromosomes or situated far apart on the same chromosome; violated by Linkage.**
-- **Key Genetic Ratios for Competitive Exams**:
+     - **Logic:** **Applies only to genes situated on different chromosomes or situated far apart on the same chromosome; violated by Linkage.**
+- **Key Genetic Ratios for Competitive Prelims**:
   - **Monohybrid Cross ($Tt \times Tt$)**:
     - Phenotypic ratio = **$3:1$** (3 Tall : 1 Dwarf).
     - Genotypic ratio = **$1:2:1$** ($1\ TT : 2\ Tt : 1\ tt$).
@@ -1542,7 +1542,7 @@ engineered organism by human?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - See the explanation of above question.
 </details>
 
@@ -1557,7 +1557,7 @@ cloned animal?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - See the explanation of above question.
 </details>
 
@@ -1571,7 +1571,7 @@ cloned animal?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - The team of scientists of NDRI situated in Karnal got success to develop a clone of buffalo, named as Garima II on 22Aug, 2010. Clone buffalo Garima II gave birth a healthy female calf Mahima in NDRI on 25 January, 2013.
 </details>
 
@@ -1586,7 +1586,7 @@ glowing pigs that are all green from inside out?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - The research group of National Taiwan University produced first transgenic glowing pig in 2006. Three male transgenic pigs were born by introducing glowing green protein in the embryo of pig.
 </details>
 
@@ -1600,7 +1600,7 @@ glowing pigs that are all green from inside out?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - World’s first female cloned camel named asInjaz developed in Camel Reproduction Centre, Dubai, UnitedArab Emirates.
 </details>
 
@@ -1615,7 +1615,7 @@ related with –
 <summary>Show answer</summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - World level programme ‘Human Genome Project’is related to identification and mapping of human genes and its sequences.
 </details>
 
@@ -1631,7 +1631,7 @@ focus of research of several serious diseases are –
 <summary>Show answer</summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Stem cells are unique as they have the potential to develop into many different cell types in the body, including brain cells, but they also retain the ability to produce more stem cells, a process termed as self–renewal. There are multiple types of stem cells such as embryonic stem cells, induced pluripotent stem cells and adult or somatic stem cells.
 </details>
 
@@ -1646,7 +1646,7 @@ to the highly controversial embryonic stem cells?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Stem cells are undifferentiated biological cells that can differentiate into specialized cells and can divide (through mitosis) to produce more stem cells.
   - They are found in multicellular organisms.
   - There are three known accessible sources of autologous adult stem cells in humans : Bone marrow, which requires extraction by harvesting that is drilling into bone (typically the femur or iliac crest).
@@ -1665,7 +1665,7 @@ to the highly controversial embryonic stem cells?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - The Plant Field Gene Bank at Banthara will secure the endangered plants, prevent the piracy of biological diversity and also recognise the economically important plants.
 </details>
 
@@ -1680,7 +1680,7 @@ production of Bt cotton is a
 <summary>Show answer</summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - See the explanation of above question.
 </details>
 
@@ -1695,7 +1695,7 @@ developed nations seeks to provide :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - See the explanation of above question.
 </details>
 
@@ -1710,7 +1710,7 @@ the following that is/are generated by it ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - See the explanation of above question.
 </details>
 
@@ -1724,7 +1724,7 @@ the following that is/are generated by it ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Golden rice is a transgenic plant.
   - It is a variety of rice (Oryza sativa) produced through genetic engineering to biosynthesize beta-carotene, a precursor of vitamin A, in the edible parts of rice.
   - The research was conducted with the goal of producing a fortified food to be grown and consumed in areas with a shortage of dietary vitaminA, a deficiency which is the world’s leading cause of blindness among children.
@@ -1748,7 +1748,7 @@ Code :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - See the explanation of above question.
 </details>
 
@@ -1765,7 +1765,7 @@ in the richness of its kernel in –
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - See the explanation of above question.
 </details>
 
@@ -1779,7 +1779,7 @@ in the richness of its kernel in –
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - See the explanation of above question.
 </details>
 
@@ -1793,7 +1793,7 @@ in the richness of its kernel in –
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - See the explanation of above question.
 </details>
 
@@ -1807,7 +1807,7 @@ in the richness of its kernel in –
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - See the explanation of above question.
 </details>
 
@@ -1821,7 +1821,7 @@ in the richness of its kernel in –
 <summary>Show answer</summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - The ozone layer or ozone shield is a region of Earth’s stratosphere, not trophosphere, that absorbs most of the Sun’s ultraviolet radiation.
   - Renneting is the action or process of curding milk by the addition of rennet.
   - Plasmid (found in bacteria) is a genetic tool used in gene engineering.
@@ -1838,7 +1838,7 @@ in the richness of its kernel in –
 <summary>Show answer</summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Super rice was developed by Gurdev Singh Khush, a chief breeder at Philippines-based International Rice Research Institute (IRRI).
   - The research for super high-yielding rice started in 1989.
   - Gurdev Singh Khush is an agronomist and geneticist who along with mentor Henry Beachell, received the 1996 World Food Prize for his achievementsin enlarging and improving the global supply of rice during a time of exponential population growth.
@@ -1854,7 +1854,7 @@ in the richness of its kernel in –
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Amniocentesis (also referred to as amniotic fluid test or AFT) is a medical procedure used in prenatal diagnosis of chromosomal abnormalities and fetal infections.
   - It is also used for sex determination.
   - In amniocentesis, a small amount of amniotic fluid, which containsfetal tissuesissampled from the amniotic sac surrounding a developing fetus and the fetal DNA is examined for genetic abnormalities.
@@ -1870,7 +1870,7 @@ in the richness of its kernel in –
 <summary>Show answer</summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - The biochip is a microchip designed or intended to function in a biological environment specially inside a living organism.
   - These are likely to have an increasing impact on genetic diagnostics, drug discovery and basic research applications.
   - In addition to DNA and RNA based chips, protein chips are also being developed with increasing frequency.
@@ -1886,7 +1886,7 @@ in the richness of its kernel in –
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Genico Technology is a technique for pre-information regarding genetic diseases such as prenatal investigation regarding the diseases in the fetus.
 </details>
 
@@ -1900,7 +1900,7 @@ in the richness of its kernel in –
 <summary>Show answer</summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Bacteria may posses extranuclear genetic materials consisting of DNA.
   - These extranuclear cytoplasmic carriers of genetic information between cells of the same species and even between differentspecies and genera, are termed as plasmids.
   - These are used in genetic engineering.
@@ -1921,7 +1921,7 @@ Codes :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - A bacteriophage is a virus that infects and replicates within bacteria and is used as a tool or vector in genetic engineering for transferring DNA fragment of one organism to another organism.
 </details>
 
@@ -1940,7 +1940,7 @@ can be –
 <summary>Show answer</summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Forensic DNA profiling (also called DNA testing) is a technique employed by forensic scientists to identify individuals by characteristics of their DNA.
   - DNAprofiling is generally used in paternity testing and criminal investigation.
   - Samples taken for DNA testing in a criminal investigation can be blood cells, bone cells, hair strands, semen, and saliva etc.
@@ -1957,7 +1957,7 @@ establish the paternity of a child ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - See the explanation of above question.
 </details>
 
@@ -1971,7 +1971,7 @@ establish the paternity of a child ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - See the explanation of above question.
 </details>
 
@@ -1985,7 +1985,7 @@ establish the paternity of a child ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - See the explanation of above question.
 </details>
 
@@ -2000,7 +2000,7 @@ technique was in England in the year–
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - DNAfingerprinting was first used forensically in the solving of the murder of two teenagers who had been raped and murdered in 1983 and 1986 in England.
 </details>
 
@@ -2015,7 +2015,7 @@ multi-coloured surface is –
 <summary>Show answer</summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - A new class of organic base fluorescent powders can be used for developing fingerprints on nonporous surfaces (e.g. plastics, polybags, glass, metals, etc.) and multicoloured glossy surfaces.
 </details>
 
@@ -2030,7 +2030,7 @@ transgenics?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - In biology, cloning is the process of producing similar populations of genetically identical individuals that occur in nature when organisms such as bacteria, insects or plants reproduce asexually.Transgenesis is the process of introducing an exogenous gene – called a transgene – into a living organism so that the organism will exhibit a new property and transmit that property to its offspring.Transgenic bacteria are used to produce antibiotics on an industrial scale, new protein drugs and to metabolize petroleum products or plastics for cleaning up the environment. Transgenic animals are useful in basic research for determining gene function.
 </details>
 
@@ -2044,7 +2044,7 @@ transgenics?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - A gene mutation is a permanent alteration in the DNA sequence that makes up a gene, such that the sequence differs from what is found in most people. Mutation ranges in size, they can affect anywhere from a single DNA building block (base pair) to a large segment of a chromosome that includes multiple genes.
 </details>
 
@@ -2059,7 +2059,7 @@ gene :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (*)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Gene therapy is a technique for correcting defective genes responsible for disease development.
   - Gene therapy is designed to introduce genetic material into cells to compensate for abnormal genes or to make beneficial protein.
   - If a mutated gene causes a necessary protein to be faulty or missing, gene therapy may be able to introduce a normal copy of the gene to restore the function of the protein.
@@ -2300,7 +2300,7 @@ D. 24
 <summary>Show answer</summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - See the explanation of above question.
 </details>
 
@@ -2314,7 +2314,7 @@ D. 24
 <summary>Show answer</summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Bacillusthuringiensis(orBt)is a Gram-positive,soil-dwelling bacterium, commonly used as a biological pesticide.
 </details>
 
@@ -2330,7 +2330,7 @@ Engineering ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Recently evolved technology in genetic engineering is Gene Mapping.
   - It is a method used for determining the location of gene and relative distances between genes on a chromosome.
   - The essence of all genome mapping is to place a collection of molecular markers onto their respective positions on the genome.
@@ -3255,7 +3255,7 @@ of the following?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Microsatellite, as related to genomics, refers to a short segment of DNA, usually one to six or more base pairs in length, that is repeated multiple times in succession at a particular genomic location.
   - These DNA sequences are typically non-coding.
   - The number of repeated segments within a microsatellite sequence often varies among people, which makes them useful as polymorphic markers for studying inheritance patterns in families or for studying the evolutionary relationships among various species of fauna.
@@ -3275,7 +3275,7 @@ which one of the following statements is not correct?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Among the given statements, statement of option (a) is not correct, because functional chromosomes cannot be created by joining segments of DNA taken from cells of different species(through recombinant DNAtechnique only functional DNA can be created).
   - Other three statements are correct.
   - Statement of option (b) in context of artificial DNAsynthesis, statement of option (c) in context of cloning and statement of option (d) in context of tissue culture are correct.
@@ -3297,7 +3297,7 @@ Which of the statements given above is/are correct?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Live recombinant vector vaccines are made of a live attenuated viral or bacterial strain used as a vector to carry the gene or genes encoding the desired vaccine antigens.
   - In these vaccines live viral or bacterial vector is genetically engineered to express a variety of exogenous antigens in the cytoplasm of targeted T cells.
   - Live recombinant vector vaccines have a number of attractive features, including the ability to stimulate both humoral and cell-mediated immunity.
@@ -3319,7 +3319,7 @@ Select the correct answer using the codes given below:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Recombinant DNA Technology is used to cut a known DNA sequence from one organism and introduce it into another organism thereby altering the genotype of the recipient.
   - Foreign DNA sequences can be introduced into bacteria, yeast, viruses, plant and animal cells.
   - Thus, genetic engineering (orrecombinant DNAtechnology) allows selected individual gene sequences to be transferred from an organism into other and also between non-related species.
@@ -3346,7 +3346,7 @@ The correct sequence of steps is :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Steps in producing recombination DNA : → Identification and isolation of genetic material → Fragmenting the obtained DNA → Isolation of desired DNA fragments → Amplification of gene of interest → Ligation of DNA fragmentation into the vector → Transfer of recombinant DNA into the host cell/organism → Obtaining the foreign gene product → Downstream processing.
 </details>
 
@@ -3366,7 +3366,7 @@ Code :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Restriction endonucleases are enzymes that cut a DNA molecule at a particular place.
   - By dividing DNA in small pieces with the genetic engineering (through restriction endonucleases), these pieces can be rejoined by DNA ligase enzyme.
   - The Nobel Prize in Physiology or Medicine, 1978 was awarded jointly to Werner Arber, Daniel Nathans and Hamilton O.
@@ -3383,7 +3383,7 @@ Code :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Ligases, work as molecular stitchers are the class of enzymes that catalyze the formation of covalent bonds and are important in the synthesis of biological molecules such as DNA etc. Ligase also activates the process of repair in the break up biological molecules by catalysing the formation of bonds (covalent bonds) between the broken up fragments.Therefore ligases can be given the name of molecular stitchers.
 </details>
 
@@ -3397,7 +3397,7 @@ Code :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Cas9 protein (CRISPR associated protein 9) is actually a molecular scissors used in targeted gene editing.
   - Its main function is to cut DNA and therefore it can alter a cell’s genome.
   - In CRISPR-Cas9 gene editing technique, the ‘CRISPR’ stands for ‘clustered regularly interspaced short palindromic repeats’, which are specialized stretches of DNA, while the ‘Cas9’is an enzyme that acts like a pair of molecular scissors capable of cutting strands of DNA.
@@ -3424,7 +3424,7 @@ Select the correct answer using the code given below:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - RNA interference (RNAi) is a biological process in which RNA molecules inhibit gene expression or translation, by neutralizing targeted mRNA (messenger RNA) molecules.
   - Hence, it is used in developing gene silencing therapies.
   - RNAi is being explored as a form of treatment for a variety of diseases, including HIV/AIDS, hepatitis, Huntington disease and cancer.
@@ -3446,7 +3446,7 @@ pandemic?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - 'mRNA' stands for messenger ribonucleic acid.
   - They are single-stranded molecules that carry genetic code from DNA in a cell's nucleus to ribosomes, which make proteins in the cells.
   - These molecules are called messenger RNA because they carry instructions for producing proteins from one part of the cell to another.
@@ -3465,7 +3465,7 @@ technology, ‘Pronuclear Transfer’ is used for :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - 'Pronuclear Transfer' is a human reproductive technology, which is used for creating a 'three-parent baby' for the prevention of mitochondrial diseases in offspring.
   - The technique involves intervening in the fertilization process to remove faulty mitochondria which can cause fatal heart problems, liver failure, brain disorders, blindness, muscular dystrophy etc.
   - The treatment is known as 'three-parent' IVF because the babies born from genetically modified embryos, would have DNA from a mother, a father and from a woman donor.
@@ -3489,7 +3489,7 @@ Which of the statements given above is/are correct?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Mitochondrial Replacement Therapy (MRT), sometimes called mitochondrial donation, is the replacement of mitochondria in one or more cells to prevent or ameliorate disease.
   - MRT originated as a special form of in vitro fertilisation in which some or all of the future baby's mitochondrial DNA (mt DNA) comesfrom a third party.
   - Thistechnique is used in cases when mothers carry genes for mitochondrial diseases.
@@ -3519,7 +3519,7 @@ fertilization.
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Dolly was born in Roslin Institute of Scotland on July 5, 1996 by the efforts of Ian Wilmut, Keith Campbell and their colleagues.
   - She was the first mammal in the world, cloned from adult somatic cell successfully.
   - Dolly was developed by conventional cloning technique, not by in vitro fertilization.
@@ -3537,7 +3537,7 @@ cloned from an adult somatic cell is not correct?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Dolly was a female domestic sheep, and the first mammal cloned from an adult somatic cell.
   - She was cloned at University of Edinburgh, Scotland.
   - She was born on 5 July, 1996 and died on 14 February, 2003 from a progressive lung disease 5 months before her seventh birthday.
@@ -3553,7 +3553,7 @@ cloned from an adult somatic cell is not correct?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - See the explanation of above question.
 </details>
 
@@ -3568,7 +3568,7 @@ the second clone of which on the following animals ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - The world’s first cloned buffalo calf ‘Samrupa’ through the ‘Hand guided Cloning Technique’ was born on 6 February, 2009 at NDRI, Karnal and subsequently, the second cloned calf ‘Garima’was born on 6 June, 2009 with the birth weight of 43 kg.
 </details>
 
@@ -3583,7 +3583,7 @@ belongs to which breed?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - The Karnal-based National Dairy Research Institute (NDRI) has cloned, for the first ever in India, a female calf of the indigenous cow breed Gir that was capable of producing over 15 litres of milk per day.
   - India's first cloned Gir female calf is named 'Ganga'.
   - She was born on 16 March, 2023 weighing 32 kg.
@@ -3600,7 +3600,7 @@ an organism is correct?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Any organism whose genetic information is identical to that of a parent organism is known as a clone.
   - They have produced asexually and are identical to parent in all Any organischaracters.
   - The process to obtain clone is called as cloning.
@@ -3617,7 +3617,7 @@ an organism is correct?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Females, who are not able to conceive a natural pregnancy, their eggs are artificially fertilized.
   - The child born by IVF technique is known as ‘Test-tube baby’.
   - Sperm-egg fertilization, which happens naturally in female fallopian tubes, takes place in Petri dishes artificially outside of mother’s body.
@@ -3642,7 +3642,7 @@ Which of the statements given above is/are correct ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Treatment of different genetic diseases e.g.Alzheimer, cystic fibrosis, myotonic dystrophy etc.
   - can be possible with the help of D.N.A.
   - sequencing but this cannot help to understand the causes of all human diseases.
@@ -3661,7 +3661,7 @@ was done in 1996. That organism was :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - The genome of the budding yeast Saccharomyces cerevisiae was first completely sequenced from a eukaryote. It was released in 1996 asthe work of a worldwide effort of hundreds of researchers.
 </details>
 
@@ -3680,7 +3680,7 @@ Select the correct answer using the codes given below:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Stem cells are undifferentiated biological cells that can differentiate into specialized cells and can divide (through mitosis) to produce more stem cells.
   - They are found in multi– cellular organisms.
   - In mammals, there are two broad types of stem cells : embryonic stem cells, which are isolated from the inner cell mass of blastocysts and adult stem cells, which are found in various tissues.
@@ -3709,7 +3709,7 @@ Which of these statements are correct ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Based on the cell type/tissue of origin,stem cells are classified as‘Somatic Stem Cells’(SSCs) and ‘Embryonic Stem Cells’ (ESCs).
   - SSCs could be obtained from different sources, for example the fetus, umbilical cord, placenta, infant, child or adult; and from different organs/tissues while ESCs are derived from pre-implantation embryos (blastocysts).
   - The derivation of human embryonic stem cells currently requires the destruction of ex-utero embryos.
@@ -3730,7 +3730,7 @@ animals?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - See the explanation of above question.
 </details>
 
@@ -3745,7 +3745,7 @@ Transfer Technology?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Somatic cell nuclear transfer (SCNT) can be used in embryonic stem cell research, or in regenerative medicine where it is sometimes referred to as ‘therapeutic cloning’.
   - It can also be used asthe firststep in the process ofreproductive cloning.
   - The nucleus of the somatic cell is inserted into the enucleated (after removal of nucleus) egg cell.
@@ -3762,7 +3762,7 @@ approach for commercial production of :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Hybridoma technology is a technology of forming hybrid cell lines (called hybridomas) by fusing an antibody– producing B cell with a myeloma (B cell cancer) cell that is selected for its ability to grow in tissue culture and for an absence of antibody chain synthesis.
   - The antibodies produced by the hybridoma are all of a single specificity and are therefore monoclonal antibodies (in contrast to polyclonal antibodies).The production of monoclonal antibodies through hybridoma technology was invented by Cesar Milstein and Georges J.
   - F.
@@ -3781,7 +3781,7 @@ engineered by inserting a gene from a/an :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Insect-resistant cotton plants have been genetically engineered by inserting a gene from a bacteria (Bacillus thuringiensis).
   - Strains of Bacillus thuringiensis produces different toxins which are harmful to different insects.
   - Such variety of cotton is commonly known as Bt cotton.
@@ -3802,7 +3802,7 @@ transferred to this transgenic cotton ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - See the explanation of above question.
 </details>
 
@@ -3819,7 +3819,7 @@ Code :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - See the explanation of above question.
 </details>
 
@@ -3834,7 +3834,7 @@ in the context of :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Bollgard I Bt cotton (single-gene technology) is India's first biotech crop technology approved for commercialization in India in 2002, followed by Bollgard II– double-gene technology in mid-2006, by the Genetic Engineering Approval Committee (GEAC), the Indian regulatory body for biotech crops.
   - Bollgard I cotton provides in-built protection for cotton against destructive American Bollworm Heliothis Armigera infestations, and contains an insecticidal protein from a naturally occurring soil microorganism, Bacillus thuringiensis (Bt).
   - Bollgard II technology contains a superior doublegene technology– Cry 1 Ac and Cry 2 Ab which provides protection against bollworms and Spodoptera caterpillar, leading to better boll retention, maximum yield, lower pesticides costs, and protection against insect resistance.
@@ -3853,7 +3853,7 @@ this is:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Bt brinjal is a transgenic brinjal created by inserting a gene ‘Cry 1 Ac’ from the soil bacterium ‘Bacillus thuringiensis’ into brinjal.
   - Bt brinjal has been developed to give resistance against lepidopteran insects like the brinjal shoot-borer Leucinodes orbonalis and fruit-borer Helicoverpa armigera.
   - Bt brinjal has generated much debate in India.
@@ -3874,7 +3874,7 @@ this is:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - See the explanation of above question.
 </details>
 
@@ -3899,7 +3899,7 @@ Select the correct answer using the codes given below:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - See the explanation of above question.
 </details>
 
@@ -3923,7 +3923,7 @@ Which of the statements given above is/are correct?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - GM mustard developed in India, also known as Dhara Mustard Hybrid-11 (DMH-11), is a genetically modified hybrid variety of the mustard species Brassica juncea.
   - It was developed by Prof.
   - Deepak Pental (University of Delhi) with the aim of reducing India’s demand for edible oil imports.
@@ -3951,7 +3951,7 @@ Select the correct answer using the code given below:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Genetically modified crops (GMCs, GM crops, or biotech crops) are plants used in agriculture, the DNA of which has been modified using genetic engineering techniques.
   - In most cases, the aim is to introduce a new trait to the plant which does not occur naturally in the species.
   - Examples of such traits in food crops include resistance to certain pests, diseases or environmental conditions, reduction of spoilage or resistance to chemical treatments (e.g.
@@ -3979,7 +3979,7 @@ Select the correct answer using the code given below
 <summary>Show answer</summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Genome sequencing plays an important role in the agriculture sector.
   - It can be used to identify genetic indicators, which is essential for developing properties such as disease resistance and drought tolerance in crops.
   - Genome sequencing can help in reducing the time required to develop new varieties of crops.
@@ -3996,7 +3996,7 @@ Select the correct answer using the code given below
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Bacillus thuringiensis (Bt) is a Gram-positive, soil-dwelling bacterium which naturally produces a toxin that is fatal to certain herbivorous insects.
   - The toxin produced by B.
   - thuringiensis has been used as an insecticide spray since 1920 and is commonly used in organic farming.
@@ -4016,7 +4016,7 @@ produced by this technology are expected to :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Indian farmers are not happy with Terminator Seed Technology because it increases the chances to grow such plants, which are not capable of producing germinable seeds.
   - This technology works after insertion of a tri-gene.
   - The first gene ends the germination ability of embryo.
@@ -4035,7 +4035,7 @@ produced by this technology are expected to :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - See the explanation of above question.
 </details>
 
@@ -4050,7 +4050,7 @@ produced by this technology are expected to :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - See the explanation of above question.
 </details>
 
@@ -4065,7 +4065,7 @@ comes from –
 <summary>Show answer</summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Golden Rice isthe achievement in the field of biotechnology by Prof.
   - Ingo Potrikus and Dr.
   - Peter Beyer.
@@ -4087,7 +4087,7 @@ refers to :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Transcriptome refers to the sum total of all the messenger RNA (mRNA) molecules expressed from the genes of an organism. Unlike the genome, which is roughly fixed for a given line (excluding mutations), the transcriptome can vary with external environmental conditions.
 </details>
 
@@ -4101,7 +4101,7 @@ refers to :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Arthur kornberg synthesized the DNA in vitro. He won the 1959 Nobel prize in Physiology or Medicine for his discovery of the mechanisms in the biological synthesis of DNA.
 </details>
 
@@ -4116,7 +4116,7 @@ following situations?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Metagenomics is the study of the structure and function of entire nucleotide sequences isolated and analyzed from all the organisms (typically microbes) in a bulk sample.
   - Metagenomics is often used to study a specific community of microorganisms, such as those residing on human skin, in the soil or in a water sample.
   - Aerial metagenomics typically refersto the study of genetic material (such as DNAor RNA) collected from the air, usually in the form of airborne particles or aerosols.
@@ -4134,7 +4134,7 @@ the category of Biotechnology ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Industrial use of living organisms, substances obtained from them or their biological processes is known as Biotechnology. For example use of yeast cells for liquor production comes under Biotechnology.
 </details>
 
@@ -4156,7 +4156,7 @@ How many of the statements given above are correct?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Recirculating Aquaculture Systems (RAS) are unique engineered ecosystems that minimize environmental perturbation by reducing nutrient pollution discharge.
   - A biofilter system purify the water and remove or detoxify harmful waste products and uneaten feed.
   - Biofilters use microorganisms, which are capable of degrading many compounds.
@@ -4182,7 +4182,7 @@ involved is called –
 <summary>Show answer</summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Such a process/technique is known as genetic engineering.By this method, not only the size of a creature can be changed or the traits can be changed but also a completely new organism can be formed.
 </details>
 
@@ -4203,7 +4203,7 @@ Code :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - DNAfingerprinting also called DNAtyping, DNAprofiling, genetic fingerprinting, genotyping or identity testing in genetics, is a method of isolating and identifying variable elements within the base-pair sequence of DNA (deoxyribonucleic acid).
   - The technique was developed by British geneticist Alec Jeffreys after he noticed that certain sequences of highly variable DNA (known as minisatellites), which do not contribute to the functions of genes are repeated within genes.
   - Jeffreys recognized that each individual has a unique pattern of mini-satellites (the only exceptions being multiple individuals from a single zygote, such as identical twins).
@@ -4220,7 +4220,7 @@ Code :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - DNA fingerprinting is a form of identification based on sequencing specific non-coding portions of DNA that are known to have a high degree of variability from person to person.
   - Most of our DNA is identical to each other, but there are inherited regions of our DNA that can vary from person to person.
   - These variations are termed as polymorphisms and this forms the basis of DNA fingerprinting.
@@ -4240,7 +4240,7 @@ is–
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - See the explanation of above question.
 </details>
 
@@ -4260,7 +4260,7 @@ Select the correct answer using the code given below :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Biometrics identifiers are the distinctive, measurable characteristics used to label and describe individuals.
   - Examples include fingerprint, face recognition, DNA, palm print, hand geometry, iris recognition, retinal recognition, gait, voice recognition etc.
   - Thus iris scanning, retinal scanning and voice recognition all three can be used in the biometric identification of a person.
@@ -4277,7 +4277,7 @@ characters simultaneously, the phenomenon is called :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Pleiotropy occurs when one gene influences multiple, seemingly unrelated phenotypic traits, an example being phenylketonuria, which is a human disease that affectsmultiple systems but is caused by one gene defect.
   - Consequently, a mutation in a pleiotropic gene may have an effect on several traits simultaneously.
   - Other well-known examples of pleiotropy include albinism and sickle cell anaemia.
@@ -4703,3 +4703,16 @@ D. *Agrobacterium tumefaciens*
 **Detailed Explanation:**
 - Dr. Ananda Mohan Chakrabarty engineered a multi-plasmid strain of ***Pseudomonas putida*** capable of degrading octane, hexane, xylene, and naphthalene in crude oil spills.
 </details>
+
+## Common Traps & Negative-Marking Eliminators
+
+1. **Prokaryote vs eukaryote nucleus**: Bacteria have **no true nucleus**; DNA lies in the nucleoid. Do not mark a nuclear membrane for prokaryotes.
+2. **Ribosome numbers**: Prokaryotes = **70S**; eukaryotes = **80S** (mitochondria/chloroplasts still have 70S — that is the endosymbiont trap).
+3. **Mitochondria vs chloroplast DNA**: Both have circular DNA and 70S ribosomes; only **chloroplasts** do photosynthesis.
+4. **Mitosis stage for counting chromosomes**: **Metaphase** is best for morphology and count; **Anaphase** is best for chromosome shape (V, L, J, I).
+5. **DNA vs RNA sugar**: DNA has **deoxyribose**; RNA has **ribose**. Thymine is in DNA; uracil replaces it in RNA.
+6. **Transcription vs translation**: Transcription makes **RNA** in the nucleus (eukaryotes); translation makes **protein** on ribosomes.
+7. **Miller–Urey gases**: Classic mix is **CH4 : NH3 : H2 = 2 : 2 : 1**; free **O2 was absent**.
+8. **Cell wall chemistry**: Plants = cellulose; fungi = **chitin**; bacteria = peptidoglycan — do not swap.
+9. **Crossing over**: Occurs in **pachytene of prophase I** of meiosis, not in mitosis.
+10. **Clone vs transgenic**: A clone is a genetic copy; a transgenic organism carries a **foreign inserted gene**.

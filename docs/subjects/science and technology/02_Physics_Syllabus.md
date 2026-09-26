@@ -10,7 +10,7 @@ Thin topics sit as sections inside the chapter that owns them. Do not split surf
 
 ## Chapter index
 
-| # | Chapter | File to create later |
+| # | Chapter | File |
 |---|---|---|
 | 1 | Physics Fundamentals, Measurement and Instruments | `09_Physics_Fundamentals_and_Measurement.md` |
 | 2 | Mechanics and Properties of Matter | `10_Mechanics_and_Properties_of_Matter.md` |
@@ -18,9 +18,9 @@ Thin topics sit as sections inside the chapter that owns them. Do not split surf
 | 4 | Light, Optics and Laser Technology | `12_Light_Optics_and_Laser.md` |
 | 5 | Sound and Wave Motion | `13_Sound_and_Wave_Motion.md` |
 | 6 | Electricity, Magnetism and Electromagnetism | `14_Electricity_and_Magnetism.md` |
-| 7 | Electronics, Semiconductors and Computer Technology | `15_Electronics_and_Computer.md` |
+| 7 | Electronics, Semiconductors and Computer Technology | `15_Electronics_Semiconductors_and_Computers.md` |
 | 8 | Nuclear and Atomic Physics | `16_Nuclear_and_Atomic_Physics.md` |
-| 9 | Scientists, Discoveries and Applications of Physics | `17_Physics_Scientists_and_Applications.md` |
+| 9 | Scientists, Discoveries and Applications of Physics | `17_Scientists_Discoveries_and_Applications.md` |
 
 ## Where a repeated head lives
 

@@ -1,932 +1,640 @@
 # Census and Urbanisation Topic 7 — World Population and Demographic Miscellaneous
-### ★ UPPCS Revision Sheet — Lucent-style (no repetition · Practice ≥26)
 
-<details>
-<summary><strong>Covers syllabus</strong> (click to expand)</summary>
-
-World population | Milestones | Most / least populated countries | Country densities | Regional growth | UN estimates / projections | World / National Population Day | Books / authors | Organisations | Reports / indices (leftovers)
-
-</details>
-
-> **Sources baked in:** NCERT Class 12 *The World Population*, UN Population Division / WPP primers, UNFPA World Population Report desk, Environment literature neighbours, UPPCS Prelims (World Population Day, UNFPA), UKPCS / standard coaching misc shelves
-> **Weight:** ★★ Medium — ranks and days are factual; edition year in the stem decides the key
-> **Last verified:** September 2026
-
-**India Census tables** → **Topic 1**. **India distribution / density types** → **Topic 5**. **Malthus / DTT theory depth** → **Topic 2**. **HDI / GHI publisher depth** → Economy 8 / 12. This chapter owns **world ranks, UN desks, days, books and leftover orgs**.
+### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · Practice ≥26)
 
 ---
 
 ## Current Affairs
 
 | Year | Fact | Why it matters |
-|------|------|----------------|
-| **15 Nov 2022** | UN marks **Day of Eight Billion** — world population ~**8 billion**. | Milestone date vs July Day trap. |
-| **~2023** | UN estimates: **India** becomes the world’s **most populous** country (ahead of China). | CA rank — does **not** rewrite Census 2011 China>India tables. |
-| **WPP 2022 / 2024** | UN *World Population Prospects* editions revise medium-variant paths (peak size / timing move with fertility assumptions). | Always read the **edition year** in the stem. |
-| **11 July** | **World Population Day** (UN); India runs population-awareness programmes on the same date (coaching tag: National Population Day). | Not 5 June (World Environment Day). |
+|---|---|---|
+| Rolling | Refresh edition-bound figures from latest Census / Survey / State CA desks. | Do not invent interim totals. |
 
----
+UP district extremes also → [UP Special Topic 6](../up%20special/06_Society_Population_Education_Social.md). This chapter owns the national Census / demography desk.
 
-## Consolidated — 42 Must-Score Facts
+## Consolidated — 50 Must-Score Facts
 
-1. Roughly **90%** of the world’s people live on about **10%** of the land area.
-2. Four classic **population clusters**: **East Asia**, **South Asia**, **Southeast Asia**, and **Europe**.
-3. Dense belts also include **north-eastern USA** and **Western Europe** teaching bands.
-4. Sparse belts: polar ice, hot deserts, dense tropical forests, high mountains.
-5. Water, fertile plains, moderate climate and transport corridors pull people; extremes push them away.
-6. Coaching top-10 band (edition-bound): **China / India**, **USA**, **Indonesia**, **Pakistan**, **Nigeria**, **Brazil**, and other large States — **six of the ten** usually lie in **Asia**.
-7. Until ~**2022**, standard tables kept **China first** and **India second**.
-8. From ~**2023**, UN estimates place **India first** and **China second** — use only when the stem cites UN / recent estimates.
-9. Census **2011** still treated India as second globally in frozen Prelims tables until Census **2027** replaces them.
-10. Among large countries, **Bangladesh** is a classic high-density teaching case; microstates such as **Monaco** / **Singapore** top many density lists.
-11. Very low density teaching: **Mongolia**, **Australia**, polar / desert sparsities (Greenland territory neighbour).
-12. **Africa** shows the **highest** regional population growth rate in standard desks.
-13. **Europe** shows very low / near-zero natural growth in many countries; some face ageing and decline.
-14. Asia still holds the largest **absolute** population share.
-15. Future growth to mid-century concentrates heavily in **sub-Saharan Africa** plus a short list of large States (India, Nigeria, Pakistan, DRC, Ethiopia, Egypt, Tanzania, Philippines teaching set).
-16. Milestone spine (standard): ~**1 billion** (~**1830** NCERT band) → **2b (1930)** → **3b (1960)** → **4b (~1974/75)** → **5b (11 July 1987)** → **6b (1999)** → **7b (31 Oct 2011)** → **8b (15 Nov 2022)**.
-17. Doubling time has shortened historically as modern growth accelerated — developed countries now have longer doubling times.
-18. **UN Population Division (DESA)** publishes ***World Population Prospects*** (estimates and projections).
-19. **UNFPA** releases the ***State of World Population* / World Population Report** desk — not IMF, WHO or UNDP.
-20. **UNDP** → **Human Development Report**; **IMF** → **World Economic Outlook**; do not glue those to population reports.
-21. **World Population Day** = **11 July**.
-22. Origin story: **Day of Five Billion** on **11 July 1987** → UNDP Governing Council (**1989**) → first wide observance **1990**; UNGA continued the day (**1990** resolution teaching).
-23. India’s population-awareness day in coaching notes is the **same 11 July** — never swap to **5 June**.
-24. **5 June** = **World Environment Day** (Stockholm 1972 neighbour) — common distractor.
-25. **31 October** = **World Cities Day** neighbour — not Population Day.
-26. **ICPD (Cairo, 1994)** is the landmark international population–development conference frame.
-27. **SDG 3** (health) and reproductive-health goals sit beside population policy desks (Topic 4 neighbour).
-28. Book one-liner: **Malthus**, *Essay on the Principle of Population* (**1798**) — theory depth in Topic 2.
-29. Book one-liner: **Paul Ehrlich**, *The Population Bomb* (**1968**) — neo-Malthusian alarm classic.
-30. Book neighbour: ***Limits to Growth*** (**1972**, **Club of Rome**) — Environment chapter owns depth; not UNFPA.
-31. Book neighbour: **Henry George**, *Progress and Poverty* — social mal-adjustment (Topic 2).
-32. **WHO** health statistics ≠ World Population Report.
-33. **Population Reference Bureau (PRB)** and similar agencies issue data sheets — secondary to UNFPA / UN DESA in UPPCS keys.
-34. World urban megacity ranks are edition-bound (Tokyo / Delhi / Shanghai bands) — read the year; India urban process stays in Topic 6.
-35. If UP were a country, classic teaching places it around the **5th** most populous globally (after India, China, USA, Indonesia band in 2011-era desks).
-36. India ~**17.5%** of world population on ~**2.4%** of world land (Census 2011 teaching) — Topic 1 neighbour fact reused here for world share.
-37. Replacement fertility globally is still the **2.1** TFR idea (Topic 4); many African countries remain well above it.
-38. Ageing East Asia / Europe vs youthful Africa is the big world age-structure contrast.
-39. Topic border: do **not** dump India State sex-ratio / literacy tables here — those live in Topics 1 and 3.
-40. Topic border: migration streams and India density types → Topic 5; Smart Cities / ULBs → Topic 6.
-41. Always ask: does the stem cite **Census 2011**, **NFHS**, or **UN / UNFPA / WPP year**?
-42. Wrong-year UN rank into a Census stem is a classic fail — keep editions separate.
+1. Global human population officially surpassed **8 Billion** on **15 November 2022** (designated by the UN as the "Day of 8 Billion").
+2. **India** officially surpassed China to become the **most populous country in the world** in **April 2023** according to UN DESA estimates.
+3. The top 5 most populous countries in the world are: (1) **India**, (2) **China**, (3) **USA**, (4) **Indonesia**, and (5) **Pakistan**.
+4. **Asia** is the most populous continent, containing approximately **60% of the total world population**.
+5. **Africa** is the second most populous continent (**~18%**) and possesses the highest population growth rate and highest fertility rate (TFR ~4.2).
+6. **World Population Day** is observed globally every year on **11 July**.
+7. World Population Day was instituted by the Governing Council of UNDP in **1989** to commemorate the "Day of Five Billion" (**11 July 1987**).
+8. **Monaco** is the most densely populated sovereign nation in the world (approx. **26,000 persons / sq km**).
+9. **Bangladesh** is the most densely populated major country (population $> 10	ext{ Million}$) in the world (approx. **1,160 persons / sq km**).
+10. **Mongolia** is the least densely populated sovereign country in the world (approx. **2.1 persons / sq km**).
+11. World population reached its first **1 Billion** milestone in the year **1804**.
+12. It took **123 years** for the world population to double from 1 Billion to **2 Billion (1927)**.
+13. It took only **11 years** for the world population to grow from 7 Billion (2011) to **8 Billion (2022)**.
+14. According to UN *World Population Prospects 2024*, the global human population is projected to peak in the **2080s at approximately 10.3 Billion** and then stabilize/decline.
+15. The famous phrase **"Development is the best contraceptive"** was coined by Indian Health Minister **Dr. Karan Singh** at the **1974 Bucharest World Population Conference**.
+16. The **International Conference on Population and Development (ICPD)** held in **Cairo in September 1994** marked a historic paradigm shift to human rights, reproductive health, and women's empowerment.
+17. The **State of World Population** report is published annually by the **United Nations Population Fund (UNFPA)**.
+18. The **World Population Prospects (WPP)** is published biennially by the **UN Population Division (UN DESA)**.
+19. The **International Institute for Population Sciences (IIPS)** is located in **Deonar, Mumbai** (established 1956).
+20. IIPS Mumbai functions as the national nodal agency for executing the **National Family Health Surveys (NFHS)**.
+21. **International Women's Day** is celebrated annually on **8 March**.
+22. **World Health Day** is observed globally on **7 April** (commemorating the founding of the World Health Organization in 1948).
+23. **World Habitat Day** is celebrated every year on the **First Monday of October** (designated by the UN General Assembly).
+24. **World Cities Day** is celebrated annually on **31 October**.
+25. **International Youth Day** is observed on **12 August** (National Youth Day in India is on **12 January**, Swami Vivekananda's birthday).
+26. **International Day of Older Persons** is celebrated globally on **1 October**.
+27. **Universal Health Coverage (UHC) Day** is commemorated annually on **12 December**.
+28. **National Consumer Rights Day** is celebrated in India on **24 December**, while **World Consumer Rights Day** is on **15 March**.
+29. The **Global Gender Gap Report** is published annually by the **World Economic Forum (WEF)**.
+30. The **Human Development Report (HDR)** containing the Human Development Index (HDI) is published annually by the **UNDP**.
+31. The world's lowest national Total Fertility Rate (TFR) is recorded in **South Korea** (TFR approx. **0.72** in 2023).
+32. The world's highest national Total Fertility Rate (TFR) is recorded in **Niger** (TFR approx. **6.7** children per woman).
+33. **Japan** has the highest proportion of elderly citizens (aged 65+) in the world (> 29% of its population).
+34. The **Tokyo Metropolitan Area (Japan)** is the world's most populous urban agglomeration with approximately **37 Million inhabitants**.
+35. The **Delhi National Capital Region (India)** is the second most populous metropolitan area in the world (~33 Million), followed by Shanghai (~29 Million).
+36. **Zero Population Growth (ZPG)** is achieved when the Crude Birth Rate equals the Crude Death Rate in the absence of net migration.
+37. The **Demographic Winter** refers to the long-term socio-economic crisis resulting from sustained below-replacement fertility, leading to a shrinking, aging workforce.
+38. **Sex Ratio at Birth (SRB)** biologically averages approximately **105 male births per 100 female births** globally (or ~952 females per 1000 males).
+39. The **United Nations Population Fund (UNFPA)** was established in **1969** and is headquartered in **New York, USA**.
+40. The term **"Ecumene"** refers to the permanently inhabited and settled portion of the Earth's surface.
+41. The term **"Non-Ecumene"** refers to uninhabited or very sparsely settled areas of the Earth (polar ice caps, hyper-arid deserts, extreme high altitudes).
+42. More than **90% of the world's population** lives in the **Northern Hemisphere**.
+43. Approximately **80% of the world's population** lives at elevations **below 500 meters above sea level**.
+44. Approximately **60% of the world's population** lives within **400 kilometers of a sea coast**.
+45. The **Equator-to-Pole population gradient** shows that the temperate mid-latitude zone (20°N to 40°N) contains the highest concentration of human population on Earth.
+46. The **World Health Organization (WHO)** was established on **7 April 1948** and is headquartered in **Geneva, Switzerland**.
+47. The **United Nations Human Settlements Programme (UN-Habitat)** is headquartered in **Nairobi, Kenya**.
+48. The **United Nations Children's Fund (UNICEF)** is headquartered in **New York, USA** (founded 1946).
+49. The **United Nations Development Programme (UNDP)** was formed in **1965** and is headquartered in **New York, USA**.
+50. **Sustainable Development Goal 3 (SDG 3)** is dedicated to ensuring **"Good Health and Well-Being for All at All Ages"** by 2030.
 
 ---
 
 ## Confused Pairs
 
-| A | B | Distinguishing fact |
-|---|---|---|
-| **Most populous country** | **Highest density country** | India/China totals vs Monaco / Singapore / Bangladesh density |
-| **China first (pre-~2023 tables)** | **India first (UN ~2023+)** | Edition / source decides |
-| **World Population Day (11 July)** | **World Environment Day (5 June)** | Population vs environment day |
-| **World Population Day** | **National Population Day (India coaching)** | Same **11 July** — UN label vs India observance tag |
-| **UNFPA World Population Report** | **UNDP HDR** | Population report vs human development report |
-| **UN Population Division / WPP** | **UNFPA report** | Prospects estimates vs State of World Population narrative |
-| **Day of Eight Billion (15 Nov 2022)** | **World Population Day (11 July)** | Milestone date vs annual observance |
-| **Day of Five Billion (11 July 1987)** | **World Population Day start (1989/1990)** | Milestone day vs UN observance decision |
-| ***Population Bomb* (Ehrlich 1968)** | ***Limits to Growth* (Club of Rome 1972)** | Book vs systems study |
-| **Africa (fastest growth)** | **Asia (largest absolute stock)** | Rate vs stock |
-
-## Must-score drill — days and publishers
-
-| Tag | One-line |
-|---|---|
-| World Population Day | **11 July** |
-| Day of Five Billion | **11 July 1987** |
-| Day of Eight Billion | **15 Nov 2022** |
-| World Population Report | **UNFPA** |
-| World Population Prospects | **UN Population Division (DESA)** |
-| HDR | **UNDP** |
-| WEO | **IMF** |
+| Confused Pair / Concept A | Confused Pair / Concept B | Trap / Crucial Difference Tested in UPPSC |
+| :--- | :--- | :--- |
+| **World Population Day**: **11 July** (Commemorates 5 Billion in 1987) | **World Health Day**: **7 April** (Commemorates WHO founding 1948) | **Trap**: Highly tested date pair. 11 July is Population Day; 7 April is Health Day. |
+| **National Youth Day (India)**: **12 January** (Swami Vivekananda) | **International Youth Day**: **12 August** (United Nations) | **Trap**: Note the difference: 12 January is National; 12 August is International. |
+| **National Consumer Day (India)**: **24 December** (Presidential assent to CPA 1986) | **World Consumer Rights Day**: **15 March** (JFK historic address) | **Trap**: 24 December is National Consumer Day; 15 March is World Consumer Rights Day. |
+| **1974 Bucharest Conference**: "Development is the best contraceptive" | **1994 Cairo Conference (ICPD)**: Rights-based reproductive health & gender equality | **Trap**: Bucharest 1974 focused on macro development; Cairo 1994 transformed policy into individual reproductive rights. |
+| **UNFPA**: Publishes *State of World Population (SWOP)* report | **UN Population Division (UN DESA)**: Publishes *World Population Prospects (WPP)* | **Trap**: SWOP = UNFPA; WPP = UN DESA Population Division. |
+| **Most Populous Country**: **India (~1.435 Billion)** | **Second Most Populous Country**: **China (~1.419 Billion)** | **Trap**: India officially overtook China in 2023. Any outdated question listing China as #1 is obsolete. |
+| **Most Densely Populated Sovereign State**: **Monaco (~26,000 / km²)** | **Most Densely Populated Major Country (>10M)**: **Bangladesh (~1,160 / km²)** | **Trap**: Monaco is a city-state; Bangladesh is the most densely populated large nation. |
+| **Least Densely Populated Country**: **Mongolia (~2.1 / km²)** | **Least Densely Populated Island Territory**: **Greenland (0.03 / km²)** | **Trap**: Mongolia is the least dense sovereign country; Greenland is an autonomous territory. |
+| **IIPS (International Institute for Population Sciences)**: **Mumbai** | **NIMS (National Institute of Medical Statistics)**: **New Delhi** | **Trap**: IIPS is located in Deonar, Mumbai; NIMS (ICMR) is in New Delhi. |
+| **UN-Habitat Headquarters**: **Nairobi, Kenya** | **UNFPA Headquarters**: **New York, USA** | **Trap**: UN-Habitat is in Nairobi (along with UNEP); UNFPA and UNICEF are in New York. |
 
 ---
 
-## Quick Revision Spine
+## Must-score drill — master tables
 
-| Tag | One-line |
-|---|---|
-| Clusters | East / South / SE Asia + Europe |
-| 90/10 | People vs land |
-| Growth leader | **Africa** |
-| India most populous | UN ~**2023** |
-| 8 billion | **15 Nov 2022** |
-| UNFPA | World Population Report |
-| WPP | UN DESA Population Division |
-| Day | **11 July** |
+### Table 1: Top 10 Most Populous Countries in the World (UN DESA / WPP Matrix)
 
----
-
-## 7.1 World population — ranks, density and regional trends
-
-**World population geography** asks where people live, which countries are largest, and which regions grow fastest.
-
-### Distribution and clusters
-
-- People cluster on fertile plains, river valleys and moderate coasts.
-- Classic four clusters: East Asia, South Asia, Southeast Asia, Europe.
-- About **90%** of people occupy about **10%** of land — unevenness is the first world fact.
-- Polar ice, Sahara-type deserts, Amazon forests and high mountains stay sparse.
-
-### Country ranks (edition-bound)
-
-- Totals change with every UN revision — never memorise one rank as eternal.
-- Pre-~2023 classroom tables: **China > India > USA** band.
-- UN estimates from ~**2023**: **India** overtakes **China**.
-- Six of the usual top ten countries sit in **Asia**.
-- Absolute size ≠ density: Bangladesh / Monaco density keys differ from China/India totals.
-
-### Density extremes
-
-- High density teaching: **Monaco**, **Singapore**, and among large States **Bangladesh**.
-- Low density teaching: **Mongolia**, **Australia**, polar / desert sparsities.
-- Density uses persons per km² — physiological and agricultural density stay India Topic 5 tools.
-
-### Regional growth
-
-- **Africa** leads growth rates; youthful age structure + higher fertility drive the rate.
-- Europe is late-transition / ageing — low growth or decline in pockets.
-- Asia’s share of world stock remains huge even as China’s growth slows.
-- Mid-century increase concentrates in a short list of high-fertility / large States, especially in sub-Saharan Africa.
-
-**UPPCS (Pre) 2018** — World Population Day (pattern)
-
-World Population Day is observed on
-
-A. 5 June
-B. 11 July
-C. 16 September
-D. 1 December
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** UN Population Day = 11 July; 5 June is World Environment Day.
-
-**Ans: B.** 11 July.
-
-</details>
+| Global Rank | Country | Estimated Population (2024 / WPP) | Share of World Population (%) | Continent / Region | Capital City | Key Demographic Characteristic |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **1st** | **India** | **~1.435 Billion** (143.5 Cr) | **~17.8%** | South Asia | New Delhi | Officially surpassed China in April 2023; TFR at 2.0 (below replacement). |
+| **2nd** | **China** | **~1.419 Billion** (141.9 Cr) | **~17.6%** | East Asia | Beijing | Population entered natural decline in 2022; rapid aging; sub-replacement TFR (~1.0–1.2). |
+| **3rd** | **United States of America** | **~340 Million** (34.0 Cr) | **~4.2%** | North America | Washington, D.C. | Most populous developed country; steady population growth maintained via net immigration. |
+| **4th** | **Indonesia** | **~279 Million** (27.9 Cr) | **~3.5%** | Southeast Asia | Jakarta (shifting to Nusantara) | World's most populous island nation and most populous Muslim-majority country. |
+| **5th** | **Pakistan** | **~245 Million** (24.5 Cr) | **~3.0%** | South Asia | Islamabad | Highest TFR (~3.4) and growth rate among top 10 Asian nations. |
+| **6th** | **Nigeria** | **~229 Million** (22.9 Cr) | **~2.8%** | West Africa | Abuja | Most populous country in Africa; projected to surpass the USA by 2050. |
+| **7th** | **Brazil** | **~216 Million** (21.6 Cr) | **~2.7%** | South America | Brasilia | Most populous country in Latin America; TFR has declined to ~1.6. |
+| **8th** | **Bangladesh** | **~173 Million** (17.3 Cr) | **~2.1%** | South Asia | Dhaka | Most densely populated major nation (> 10 Million pop) in the world (~1,160 / km²). |
+| **9th** | **Russia** | **~144 Million** (14.4 Cr) | **~1.8%** | Eurasia (Europe/Asia) | Moscow | Largest geographical territory; suffering from prolonged natural population decline. |
+| **10th** | **Ethiopia** | **~129 Million** (12.9 Cr) | **~1.6%** | East Africa (Horn of Africa) | Addis Ababa | Second most populous nation in Africa (surpassed Mexico in 2024). |
 
 ---
 
-## 7.2 Milestones, UN estimates and projections
+### Table 2: Chronology of Global Population "Billion Milestones" (1804 to 2080 Peak)
 
-**Milestones and UN desks** are year-sensitive.
-
-### Billion milestones
-
-- NCERT-style spine: ~**1 billion (~1830)** → **2 billion (1930)** → **3 billion (1960)** → **4 billion (~1975)** → **5 billion (11 July 1987)** → **6 billion (1999)** → **7 billion (31 October 2011)** → **8 billion (15 November 2022)**.
-- The **Day of Five Billion** on **11 July 1987** is why Population Day sits in July.
-- The **Day of Eight Billion** is **15 November 2022** — not July.
-
-### UN Population Division / WPP
-
-- The **UN Population Division** under DESA issues ***World Population Prospects*** — the main official estimate/projection series.
-- Medium-variant paths give mid-century and peak-size teaching numbers; later editions revise them.
-- Stems that say “as per UN World Population Prospects, year X” want that edition’s figure — not Census 2011.
-
-### UNFPA report
-
-- **UNFPA** (*United Nations Population Fund*) publishes the annual ***State of World Population*** (World Population Report desk in papers).
-- UNDP / IMF / WHO are wrong publishers for that report title.
-
-### India vs China in CA
-
-- UN ~**2023** India-first is Current Affairs armour.
-- It does **not** rewrite frozen Census 2011 “India second” tables used in older stems.
-
-**UPPCS (Pre) 2021** — World Population Report
-
-Which among the following organisations released the World Population Report, 2021?
-
-A. IMF
-B. UNFPA
-C. WHO
-D. UNDP
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** World Population Report / State of World Population → UNFPA. UNDP → HDR; IMF → WEO; WHO → health stats.
-
-**Ans: B.** UNFPA.
-
-</details>
+| Population Milestone | Year Reached | Time Taken to Add 1 Billion | Historical & Technological Era | Key Global Drivers & Demographic Context |
+| :--- | :--- | :--- | :--- | :--- |
+| **1 Billion** | **1804** | All of human history (~300,000 years) | Dawn of the Industrial Revolution | Agricultural improvements in Europe, initial urban sanitation. |
+| **2 Billion** | **1927** | **123 Years** (1804–1927) | Inter-war period | Control of major epidemics, clean piped water, early vaccination. |
+| **3 Billion** | **1960** | **33 Years** (1927–1960) | Post-WWII era | Global deployment of antibiotics (Penicillin), DDT, and modern primary health systems. |
+| **4 Billion** | **1974** | **14 Years** (1960–1974) | Green Revolution period | Dramatic mortality reduction across Asia and Latin America. |
+| **5 Billion** | **11 July 1987** | **13 Years** (1974–1987) | Late 20th Century | **Triggered the creation of World Population Day (11 July)**. |
+| **6 Billion** | **12 October 1999** | **12 Years** (1987–1999) | Turn of the Millennium | Designated as the "Day of 6 Billion" by the United Nations. |
+| **7 Billion** | **31 October 2011** | **12 Years** (1999–2011) | 21st Century expansion | Designated as the "Day of 7 Billion" by the UN. |
+| **8 Billion** | **15 November 2022** | **11 Years** (2011–2022) | Contemporary Era | Designated as the **"Day of 8 Billion"** by UN DESA. |
+| **9 Billion (Projected)** | **~2037** | Projected **15 Years** | Slowdown phase | Global fertility decline taking effect (Global TFR ~2.3 in 2024). |
+| **10 Billion (Projected)** | **~2058** | Projected **21 Years** | Mature phase | Sub-Saharan Africa will drive > 50% of global growth. |
+| **Peak Population** | **~2080s (~10.3 Billion)** | Peak & plateau | Global contraction phase | Projected by UN WPP 2024 to peak at ~10.3 Billion and then gradually decline. |
 
 ---
 
-## 7.3 Days, books, authors and organisations
+### Table 3: Major UN World Population Conferences & Epochal Declarations
 
-**Misc shelf** for days, classic books and leftover organisations.
+| International Conference | Year & Host City | Key Leadership / Sponsor | Landmark Theme / Doctrinal Shift | Historical Significance & Outcomes |
+| :--- | :--- | :--- | :--- | :--- |
+| **World Population Conference (Rome)** | **1954** (Rome, Italy) | United Nations | Scientific exchange of demographic data | First global meeting of demographic experts to analyze post-war population trends. |
+| **World Population Conference (Belgrade)** | **1965** (Belgrade, Yugoslavia) | United Nations | Fertility analysis and family planning | Focused on fertility determinants in developing countries. |
+| **World Population Conference (Bucharest)** | **1974** (Bucharest, Romania) | United Nations (136 Governments) | **"Development is the Best Contraceptive"** | First inter-governmental conference. Indian delegation led by **Dr. Karan Singh** propounded that socio-economic development automatically lowers fertility. Adopted **World Population Plan of Action**. |
+| **International Conference on Population (Mexico City)** | **1984** (Mexico City, Mexico) | United Nations (148 Governments) | Integration of population in development planning | Reaffirmed Bucharest goals; focused on primary healthcare, maternal health, and urban growth. |
+| **International Conference on Population and Development (ICPD)** | **September 1994** (Cairo, Egypt) | United Nations / UNFPA (179 Governments) | **Paradigm Shift: Human Rights & Reproductive Choice** | **Revolutionary Watershed**: Abandoned coercive demographic targets. Placed **women's empowerment, gender equality, and universal reproductive rights** at the centre of population policies. Adopted the 20-year **ICPD Programme of Action (Cairo Consensus)**. |
 
-### Days
+---
 
-- **World Population Day** = **11 July** every year.
-- UNDP Governing Council (**1989**) recommended the day after interest in the **Day of Five Billion** (**11 July 1987**); wide first observance **1990**.
-- India observes population-awareness programmes on the **same 11 July** (coaching label: National Population Day) — date does **not** change.
-- Distractors: **5 June** (Environment Day), **7 April** (World Health Day), **31 October** (World Cities Day).
+## Teaching cards
 
-### Books and authors (one-liners)
+### 2.1 Continental and Regional Distribution of Global Population
 
-- **Thomas Malthus** — *Essay on the Principle of Population* (**1798**); geometric population vs arithmetic food (Topic 2 depth).
-- **Paul Ehrlich** — *The Population Bomb* (**1968**); neo-Malthusian resource-alarm classic.
-- ***The Limits to Growth*** (**1972**) — **Club of Rome** systems study (Environment neighbour; not Brundtland).
-- **Henry George** — *Progress and Poverty*; social mal-adjustment (Topic 2).
-- **Edwin Cannan** — optimum population propounder tag (Topic 2).
+#### A. Continental Population Shares (2024)
+- **Asia**: Contains approximately **60% of the world's population (~4.8 Billion)**. Home to the two population giants: India and China. High density in South Asia, East Asia, and Southeast Asia.
+- **Africa**: Accounts for approximately **18% of the world's population (~1.5 Billion)**. Fastest growing continent globally (TFR ~4.2). Projected to account for more than half of global population growth between now and 2050.
+- **Europe**: Accounts for approximately **9.5% of the world's population (~745 Million)**. Experiencing negative natural growth, sub-replacement fertility, and acute population aging.
+- **North America**: Accounts for approximately **7.5% (~600 Million including Central America/Caribbean; Northern America alone is ~380 Million)**.
+- **South America**: Accounts for approximately **5.5% (~440 Million)**.
+- **Oceania**: Accounts for approximately **0.5% (~45 Million)**.
 
-### Organisations and conferences
+```
+                         GLOBAL POPULATION SHARE BY CONTINENT
+  ┌─────────────────────────────────────────────────────────────────────────────┐
+  │ Asia: ~60%           │ Africa: ~18% │ Europe: ~9.5% │ N.Am: 7.5%│S.Am:5.5%│Ocn│
+  └─────────────────────────────────────────────────────────────────────────────┘
+```
 
-- **UNFPA** — World Population Report / RH and population advocacy desk.
-- **UN Population Division (DESA)** — WPP estimates and projections.
-- **ICPD, Cairo 1994** — rights-based population and development programme of action frame.
-- **WHO** — health / mortality statistics neighbour, not the World Population Report publisher.
-- Keep **ORGI / Census of India** for Indian tables (Topic 1) — not a UN publisher.
+#### B. Global Density Extremes
+- **Highest Density Territories / Micro-States**:
+  1. **Monaco**: **~26,000 persons / km²** (World's most densely populated sovereign state).
+  2. **Singapore**: **~8,300 persons / km²**.
+  3. **Bahrain**: ~1,850 persons / km².
+  4. **Maldives**: ~1,750 persons / km².
+  5. **Bangladesh**: **~1,160 persons / km²** (*Most densely populated large country with population $> 10	ext{ Million}$*).
+- **Lowest Density Sovereign Countries**:
+  1. **Greenland (Autonomous Denmark)**: **0.03 persons / km²** (Lowest overall territory).
+  2. **Mongolia**: **~2.1 persons / km²** (World's least densely populated sovereign nation).
+  3. **Namibia**: ~3.1 persons / km².
+  4. **Australia**: **~3.3 persons / km²**.
+  5. **Canada**: **~4.0 persons / km²**.
+  6. **Iceland**: ~3.7 persons / km².
 
-### Leftover indices (one-line only)
+---
 
-- **HDI** → UNDP (Economy 8 / 12).
-- **GHI** → publisher desk in Economy / Environment neighbours — not UNFPA.
-- Do not invent a “World Population Index” as a stand-alone UNDP product.
+### 2.2 Flagship Demographic Institutions & Publications
 
-**Standard** — Day of Five Billion link
-
-World Population Day (11 July) is historically linked to which milestone?
-
-A. Day of Eight Billion (15 Nov 2022) only
-B. Day of Five Billion on 11 July 1987
-C. Rio Earth Summit 1992
-D. Census of India 2011 date
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Public interest in Five Billion Day (11 July 1987) led UNDP to recommend the annual day.
-
-**Ans: B.** Day of Five Billion, 11 July 1987.
-
-</details>
+1. **United Nations Population Division (UN DESA)**:
+   - Publishes the biennial flagship report **World Population Prospects (WPP)**, the official global benchmark for demographic estimates, life tables, and population projections.
+2. **United Nations Population Fund (UNFPA)**:
+   - Established in **1969** (originally UN Fund for Population Activities), headquartered in **New York**.
+   - Publishes the annual **State of World Population (SWOP)** report.
+3. **International Institute for Population Sciences (IIPS)**:
+   - Established in **1956** in **Mumbai**, India, as an autonomous regional centre for training and research in population studies.
+   - Designated as the nodal agency by MoHFW for conducting all rounds of the **National Family Health Survey (NFHS)** and the Longitudinal Ageing Study in India (LASI).
 
 ---
 
 ## Complete PYQ Bank (UPPCS)
 
-**Q1. UPPCS (Pre) 2018** — World Population Day
+> UPPCS-mapped / Category A stems. Broader Extra Drill follows.
 
-World Population Day is observed on
+### Category A: Global Population Ranks, Density & Distribution
 
-A. 5 June
-B. 11 July
-C. 16 September
-D. 1 December
-
+1. World Population Day is observed every year on:
+A. 11 July  
+B. 5 June  
+C. 1 December  
+D. 10 December  
 <details>
 <summary>Show answer</summary>
 
-**Logic:** UN observance = 11 July; 5 June = World Environment Day distractor.
-
-**Ans: B.** 11 July.
-
+**Ans: A. 11 July**  
+**Logic:** World Population Day is observed on 11 July every year to focus attention on the urgency and importance of population issues (established in 1989 to mark the Day of 5 Billion on 11 July 1987).
 </details>
 
-**Q2. UPPCS (Pre) 2021** — World Population Report
-
-Which among the following organisations released the World Population Report, 2021?
-
-A. IMF
-B. UNFPA
-C. WHO
-D. UNDP
-
+2. According to United Nations demographic estimates, on which date did the global population cross the 8 Billion milestone?
+A. 31 October 2011  
+B. 11 July 2020  
+C. 15 November 2022  
+D. 1 January 2024  
 <details>
 <summary>Show answer</summary>
 
-**Logic:** UNFPA owns the World Population Report desk; UNDP = HDR; IMF = WEO; WHO = health.
-
-**Ans: B.** UNFPA.
-
+**Ans: C. 15 November 2022**  
+**Logic:** The United Nations designated 15 November 2022 as the "Day of Eight Billion", marking the official milestone when human population crossed 8,000,000,000.
 </details>
 
-**Q3. UPPCS pattern** — Wrong pair
-
-Which of the following is **not** correctly matched?
-
-A. World Population Day — 11 July
-B. World Population Report — UNFPA
-C. World Environment Day — 5 June
-D. World Population Report — IMF
-
+3. Which continent accounts for approximately 60% of the total human population on Earth?
+A. Africa  
+B. Asia  
+C. Europe  
+D. North America  
 <details>
 <summary>Show answer</summary>
 
-**Logic:** D wrongly assigns the population report to IMF.
-
-**Ans: D.** World Population Report is UNFPA, not IMF.
-
+**Ans: B. Asia**  
+**Logic:** Asia is home to over 4.8 Billion people, representing roughly 60% of the global population.
 </details>
 
-**Q4. Standard / CA bridge** — Most populous (UN)
-
-As per recent UN estimates around 2023, which country became the world’s most populous?
-
-A. China
-B. India
-C. USA
-D. Indonesia
-
+4. Which is the least densely populated sovereign nation in the world?
+A. Australia  
+B. Canada  
+C. Mongolia  
+D. Iceland  
 <details>
 <summary>Show answer</summary>
 
-**Logic:** UN ~2023 India overtakes China; Census 2011 tables are a separate frozen desk.
-
-**Ans: B.** India.
-
-</details>
-
-**Q5. Standard** — Eight billion
-
-The UN marked the world population reaching about 8 billion on
-
-A. 11 July 1987
-B. 31 October 2011
-C. 15 November 2022
-D. 1 January 2000
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Day of Eight Billion = 15 Nov 2022; 1987 = 5 billion; 2011 = 7 billion.
-
-**Ans: C.** 15 November 2022.
-
-</details>
-
-**Q6. Standard** — Regional growth
-
-Which region has the highest population growth rate in standard world desks?
-
-A. Europe
-B. Africa
-C. North America
-D. East Asia only
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Africa leads regional growth rates; Asia leads absolute stock.
-
-**Ans: B.** Africa.
-
-</details>
-
-**Q7. Standard** — 90/10
-
-With reference to world population distribution, which statement is correct?
-
-A. Population is evenly spread on all continents
-B. About 90% of people live on about 10% of land
-C. Antarctica holds 40% of world population
-D. Deserts are the densest regions
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Classic unevenness fact — 90% on 10%.
-
-**Ans: B.**
-
-</details>
-
-**Q8. Standard** — Clusters
-
-Which of the following is **not** one of the four classic major world population clusters?
-
-A. East Asia
-B. South Asia
-C. Southeast Asia
-D. Sahara Desert belt
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Fourth classic cluster is Europe; Sahara is sparse.
-
-**Ans: D.**
-
+**Ans: C. Mongolia**  
+**Logic:** Mongolia has an average population density of only ~2.1 persons per square kilometer, making it the least densely populated sovereign country.
 </details>
 
 ---
 
-## Complete PYQ Bank (UKPCS)
+## Ghatnachakra Extra Drill — World Population and Demographic Misc
 
-**Q1. Standard / UKPCS-style** — UNFPA vs UNDP
+Extra Drill rebuilt from mixed RO/ARO–BPSC–UPSC–coaching stems (not a full Purvalokan dump). Expand when the book is pasted.
 
-Match the report with the organisation:
+### Category B: UN Conferences & Declarations
 
-| List I | List II |
-|---|---|
-| A. World Population Report | 1. UNDP |
-| B. Human Development Report | 2. IMF |
-| C. World Economic Outlook | 3. UNFPA |
-
-*Row order is not the answer code.*
-
-A. A-3, B-1, C-2
-B. A-1, B-3, C-2
-C. A-2, B-1, C-3
-D. A-3, B-2, C-1
-
+5. The famous statement "Development is the best contraceptive" was voiced by the Indian delegation at which World Population Conference?
+A. Rome Conference, 1954  
+B. Belgrade Conference, 1965  
+C. Bucharest Conference, 1974  
+D. Cairo Conference, 1994  
 <details>
 <summary>Show answer</summary>
 
-**Logic:** UNFPA / UNDP / IMF publisher spine.
-
-**Ans: A.** A-3, B-1, C-2.
-
+**Ans: C. Bucharest Conference, 1974**  
+**Logic:** Dr. Karan Singh, heading the Indian delegation at the 1974 UN World Population Conference in Bucharest, Romania, coined this phrase to emphasize that economic development inherently leads to lower fertility.
 </details>
 
-**Q2. Standard** — World Population Prospects
-
-*World Population Prospects* is primarily associated with
-
-A. UN Population Division (DESA)
-B. WTO
-C. ILO only
-D. World Bank Board of Governors only
-
+6. The landmark International Conference on Population and Development (ICPD) which established reproductive rights and women's empowerment as central to population policy was held in 1994 at:
+A. Mexico City  
+B. Cairo  
+C. Beijing  
+D. Copenhagen  
 <details>
 <summary>Show answer</summary>
 
-**Logic:** WPP = UN DESA Population Division series.
-
-**Ans: A.**
-
+**Ans: B. Cairo**  
+**Logic:** The ICPD was convened by the UN in Cairo, Egypt, in September 1994, resulting in the Cairo Programme of Action.
 </details>
 
-**Q3. Standard** — Density vs size
+---
 
-Which statement is correct?
 
-A. The most populous country is always the densest
-B. Highest total population and highest density are different questions
-C. Monaco has the world’s largest absolute population
-D. Density equals TFR
+### Category C: Reports, Publishers & Milestone Days
 
+7. The *State of World Population* report is released annually by which organization?
+A. World Bank  
+B. United Nations Population Fund (UNFPA)  
+C. World Health Organization (WHO)  
+D. United Nations Development Programme (UNDP)  
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Totals vs persons/km² — never collapse the two.
-
-**Ans: B.**
-
+**Ans: B. United Nations Population Fund (UNFPA)**  
+**Logic:** The *State of World Population* (SWOP) report is the annual flagship publication of the United Nations Population Fund (UNFPA).
 </details>
 
-**Q4. Standard** — Ehrlich
-
-*The Population Bomb* (1968) is associated with
-
-A. Rachel Carson
-B. Paul Ehrlich
-C. Brundtland Commission
-D. Club of Rome only
-
+8. The International Institute for Population Sciences (IIPS) is located in:
+A. New Delhi  
+B. Mumbai  
+C. Kolkata  
+D. Chennai  
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Ehrlich 1968; Carson = Silent Spring; Club of Rome = Limits to Growth 1972.
+**Ans: B. Mumbai**  
+**Logic:** IIPS is located in Deonar, Mumbai (established in 1956) as the premier regional institute for demographic research and training.
+</details>
 
-**Ans: B.** Paul Ehrlich.
+9. When is 'World Health Day' celebrated across the globe?
+A. 15 March  
+B. 7 April  
+C. 22 April  
+D. 5 June  
+<details>
+<summary>Show answer</summary>
 
+**Ans: B. 7 April**  
+**Logic:** World Health Day is celebrated every year on 7 April to mark the anniversary of the founding of the World Health Organization (WHO) in 1948.
+</details>
+
+10. Which country in the world recorded the lowest Total Fertility Rate (TFR) in recent years (dropping to 0.72)?
+A. Japan  
+B. Singapore  
+C. South Korea  
+D. Italy  
+<details>
+<summary>Show answer</summary>
+
+**Ans: C. South Korea**  
+**Logic:** South Korea has the lowest TFR in the world, plummeting to an unprecedented 0.72 children per woman in 2023.
 </details>
 
 ---
 
 ## Practice Zone
 
-**Q1.** World Population Day falls on
-
-A. 5 June
-B. 11 July
-C. 31 October
-D. 7 April
-
+1. According to the United Nations *World Population Prospects 2024*, the global human population is projected to peak at approximately what size in the 2080s?
+A. 9.2 Billion  
+B. 10.3 Billion  
+C. 12.5 Billion  
+D. 15.0 Billion  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** 11 July.
-
-**Logic:** Not Environment Day / Cities Day / Health Day.
-
+**Ans: B. 10.3 Billion**  
+**Logic:** UN WPP 2024 projects that the world population will peak in the mid-2080s at around 10.3 Billion people, after which it will enter a gradual decline.
 </details>
 
-**Q2.** World Population Report is released by
-
-A. IMF
-B. WHO
-C. UNDP
-D. UNFPA
-
+2. In which year did the global population reach the 5 Billion mark, prompting the creation of World Population Day?
+A. 1974  
+B. 1987  
+C. 1999  
+D. 2011  
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** UNFPA.
-
-**Logic:** Publisher trap set.
-
+**Ans: B. 1987**  
+**Logic:** The world population reached 5 Billion on 11 July 1987, which led to the institutionalization of 11 July as World Population Day.
 </details>
 
-**Q3.** Day of Five Billion was observed on
-
-A. 15 November 2022
-B. 11 July 1987
-C. 31 October 2011
-D. 12 October 1492
-
+3. Which is the most populous nation in Africa?
+A. Egypt  
+B. South Africa  
+C. Nigeria  
+D. Ethiopia  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** 11 July 1987.
-
-**Logic:** Origin of July Population Day.
-
+**Ans: C. Nigeria**  
+**Logic:** Nigeria is the most populous country in Africa with over 225 Million people (ranking 6th globally), followed by Ethiopia.
 </details>
 
-**Q4.** Day of Eight Billion was marked on
-
-A. 11 July 1987
-B. 15 November 2022
-C. 26 January 1950
-D. 1 April 2001
-
+4. Which island nation is the most populous in the world?
+A. Great Britain  
+B. Japan  
+C. Indonesia  
+D. Philippines  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** 15 November 2022.
-
-**Logic:** Milestone ≠ annual Population Day.
-
+**Ans: C. Indonesia**  
+**Logic:** Indonesia is an archipelago nation of over 17,000 islands with a population of approx. 279 Million (ranking 4th globally).
 </details>
 
-**Q5.** As per UN estimates around 2023, the most populous country is
-
-A. China
-B. India
-C. USA
-D. Russia
-
+5. What is the approximate natural biological Sex Ratio at Birth (SRB) across human populations?
+A. 900 boys per 1000 girls  
+B. 952 boys per 1000 girls  
+C. 105 boys per 100 girls (approx. 952 girls per 1000 boys)  
+D. Exactly 1000 boys per 1000 girls  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** India.
-
-**Logic:** CA rank; Census 2011 separate.
-
+**Ans: C. 105 boys per 100 girls (approx. 952 girls per 1000 boys)**  
+**Logic:** Biologically, about 105 male infants are born for every 100 female infants across the world, compensating for higher male mortality across the life cycle.
 </details>
 
-**Q6.** Which region has the highest population growth rate?
-
-A. Europe
-B. Africa
-C. Japan only
-D. Antarctica
-
+6. The headquarters of the United Nations Population Fund (UNFPA) is located in:
+A. Geneva, Switzerland  
+B. Paris, France  
+C. New York, USA  
+D. Rome, Italy  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Africa.
-
-**Logic:** Rate vs Asia’s stock.
-
+**Ans: C. New York, USA**  
+**Logic:** UNFPA is headquartered in New York City, USA.
 </details>
 
-**Q7.** About what share of world population lives on about 10% of land?
-
-A. 10%
-B. 50%
-C. 90%
-D. 2.4%
-
+7. The term 'Ecumene' in population geography refers to:
+A. The permanently inhabited zone of the earth  
+B. The uninhabited polar ice caps  
+C. The ocean depths below 2,000 meters  
+D. Exclusive military training zones  
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** 90%.
-
-**Logic:** 90/10 unevenness; 2.4% is India’s land share neighbour.
-
+**Ans: A. The permanently inhabited zone of the earth**  
+**Logic:** Ecumene is a Greek term used in geography to denote the inhabited and economically utilized parts of the Earth's surface.
 </details>
 
-**Q8.** Which is a classic major population cluster?
-
-A. Central Sahara
-B. East Asia
-C. Greenland ice sheet
-D. Empty Quarter only
-
+8. Which country has the highest proportion of citizens aged 65 and older in the world?
+A. Germany  
+B. Italy  
+C. Japan  
+D. Sweden  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** East Asia.
-
-**Logic:** Cluster vs sparse belt.
-
+**Ans: C. Japan**  
+**Logic:** Japan has the world's oldest population, with over 29% of its total population aged 65 years or older.
 </details>
 
-**Q9.** *World Population Prospects* is issued by
-
-A. UN Population Division
-B. UNFPA only as a newspaper
-C. SEBI
-D. Election Commission of India
-
+9. What is the most populous metropolitan urban agglomeration in the world?
+A. Tokyo Metropolitan Area, Japan  
+B. New York City, USA  
+C. London, UK  
+D. Sao Paulo, Brazil  
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** UN Population Division (DESA).
-
-**Logic:** WPP ≠ UNFPA narrative report.
-
+**Ans: A. Tokyo Metropolitan Area, Japan**  
+**Logic:** The Greater Tokyo Area in Japan is the world's most populous metropolitan area with approximately 37 Million residents.
 </details>
 
-**Q10.** UNDP is correctly linked with
-
-A. World Population Report
-B. Human Development Report
-C. World Economic Outlook
-D. Census of India 2011 house-listing
-
+10. World Cities Day is celebrated globally every year on:
+A. 11 July  
+B. 2 October  
+C. 24 October  
+D. 31 October  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** HDR.
-
-**Logic:** Publisher spine.
-
+**Ans: D. 31 October**  
+**Logic:** World Cities Day was established by the UN General Assembly and is observed on 31 October annually to promote global sustainable urbanization.
 </details>
 
-**Q11.** Which pair is wrong?
-
-A. Malthus — 1798 Essay
-B. Ehrlich — Population Bomb 1968
-C. Limits to Growth — Club of Rome 1972
-D. World Population Report — IMF 2021
-
+11. What is meant by the demographic term 'Demographic Winter'?
+A. A prolonged cold winter season that raises elderly mortality  
+B. A state of sustained, acute sub-replacement fertility leading to long-term population decline and rapid demographic aging  
+C. The winter migration of birds across continents  
+D. The seasonal decrease in agricultural births  
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Report → UNFPA.
-
-**Logic:** Book spine vs publisher fail.
-
+**Ans: B. A state of sustained, acute sub-replacement fertility leading to long-term population decline and rapid demographic aging**  
+**Logic:** Demographic winter describes the economic and social crisis when birth rates stay far below 2.1 for generations, causing population contraction and severe labour shortages.
 </details>
 
-**Q12.** ICPD (1994) is associated with
-
-A. Bretton Woods only
-B. Cairo population–development conference
-C. Kyoto Protocol
-D. GATT founding year
-
+12. The United Nations Human Settlements Programme (UN-Habitat) is headquartered at:
+A. Geneva, Switzerland  
+B. Nairobi, Kenya  
+C. Vienna, Austria  
+D. Washington, D.C.  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Cairo 1994.
-
-**Logic:** International Conference on Population and Development.
-
+**Ans: B. Nairobi, Kenya**  
+**Logic:** UN-Habitat is headquartered at the United Nations Office in Nairobi, Kenya.
 </details>
 
-**Q13.** Among large countries, which is a classic high-density teaching case?
-
-A. Australia
-B. Bangladesh
-C. Mongolia
-D. Canada
-
+13. Which continent is projected to contribute more than half of all global population growth between 2024 and 2050?
+A. Asia  
+B. Africa  
+C. Latin America  
+D. North America  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Bangladesh.
-
-**Logic:** Density ≠ empty interiors of Australia/Canada.
-
+**Ans: B. Africa**  
+**Logic:** Due to high fertility and a very young age structure, Sub-Saharan Africa will account for more than 50% of global population growth over the next three decades.
 </details>
 
-**Q14.** Six of the usual top-ten most populous countries lie in
-
-A. Africa only
-B. Asia
-C. Europe only
-D. Latin America only
-
+14. What percentage of the world's human population lives in the Northern Hemisphere?
+A. Approx. 50%  
+B. Approx. 65%  
+C. Over 90%  
+D. Approx. 75%  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Asia.
-
-**Logic:** NCERT top-ten Asia share.
-
+**Ans: C. Over 90%**  
+**Logic:** Because the vast majority of the Earth's landmass (Eurasia, North America, North Africa) is located in the Northern Hemisphere, over 90% of humanity lives north of the Equator.
 </details>
 
-**Q15.** World Environment Day is
-
-A. 11 July
-B. 5 June
-C. 15 November
-D. 31 October
-
+15. International Day of Older Persons is celebrated on:
+A. 1 October  
+B. 15 October  
+C. 14 November  
+D. 1 December  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** 5 June.
-
-**Logic:** Distractor for Population Day stems.
-
+**Ans: A. 1 October**  
+**Logic:** The UN General Assembly designated 1 October as the International Day of Older Persons in 1990.
 </details>
 
-**Q16.** Assertion (A): UN estimates around 2023 place India as the most populous country.
-
-Reason (R): Census 2011 tables already showed India first and China second.
-
-A. Both A and R true; R explains A
-B. Both A and R true; R does not explain A
-C. A true; R false
-D. A false; R true
-
+16. Which of the following countries is NOT among the top 10 most populous countries in the world?
+A. Indonesia  
+B. Pakistan  
+C. Germany  
+D. Nigeria  
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** A true; R false — 2011 kept China first / India second in frozen tables.
-
-**A/R logic:** A tests CA UN rank; R wrongly rewrites Census 2011 order.
-
+**Ans: C. Germany**  
+**Logic:** Germany has a population of approx. 84 Million (ranking ~19th globally). Indonesia (4th), Pakistan (5th), and Nigeria (6th) are all in the top 10.
 </details>
 
-**Q17.** Match List I with List II
-
-| List I | List II |
-|---|---|
-| A. Day of Five Billion | 1. 15 Nov 2022 |
-| B. Day of Seven Billion | 2. 11 July 1987 |
-| C. Day of Eight Billion | 3. 31 Oct 2011 |
-
-*Row order is not the answer code.*
-
-A. A-2, B-3, C-1
-B. A-1, B-2, C-3
-C. A-3, B-1, C-2
-D. A-2, B-1, C-3
-
+17. Which African country has the highest Total Fertility Rate (TFR) in the world (approx. 6.7)?
+A. Egypt  
+B. Niger  
+C. Kenya  
+D. South Africa  
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** A-2, B-3, C-1.
-
-**Logic:** Milestone calendar spine.
-
+**Ans: B. Niger**  
+**Logic:** Niger has the highest fertility rate in the world at approximately 6.7 children per woman.
 </details>
 
-**Q18.** Which statement about National Population Day (India coaching tag) is correct?
-
-A. It falls on 5 June every year
-B. It is observed on 11 July, same date as World Population Day
-C. It replaces Census day in February forever
-D. It is only a State holiday in Goa
-
+18. What is the primary focus of Sustainable Development Goal 3 (SDG 3)?
+A. Zero Hunger  
+B. Quality Education  
+C. Good Health and Well-Being  
+D. Clean Water and Sanitation  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Same 11 July.
-
-**Logic:** UN vs India label — not a different calendar date.
-
+**Ans: C. Good Health and Well-Being**  
+**Logic:** SDG 3 aims to "Ensure healthy lives and promote well-being for all at all ages" (includes targets for MMR, IMR, universal health coverage, and communicable disease eradication).
 </details>
 
-**Q19.** Future mid-century world population increase is expected to concentrate especially in
-
-A. Only Japan and Germany
-B. Sub-Saharan Africa and a short list of large growing States
-C. Only Antarctica research stations
-D. Only city-states of Europe
-
+19. World Habitat Day is commemorated annually on:
+A. First Monday of October  
+B. 5 June  
+C. 22 April  
+D. 11 July  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** UN projection geography of growth.
-
+**Ans: A. First Monday of October**  
+**Logic:** The UN designated the first Monday of October of every year as World Habitat Day to reflect on the state of human settlements and the right to adequate shelter.
 </details>
 
-**Q20.** *The Population Bomb* author is
-
-A. Malthus
-B. Paul Ehrlich
-C. Amartya Sen
-D. Brundtland
-
+20. Who was the President of the World Population Conference held in Bucharest in 1974?
+A. Kurt Waldheim  
+B. George Macovescu  
+C. Dr. Karan Singh  
+D. U Thant  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Paul Ehrlich.
-
-**Logic:** 1968 neo-Malthusian classic.
-
+**Ans: B. George Macovescu**  
+**Logic:** Romanian Foreign Minister George Macovescu presided over the 1974 Bucharest conference, where India's Dr. Karan Singh delivered the historic keynote on development and fertility.
 </details>
 
-**Q21.** Which is correct about Asia vs Africa?
-
-A. Africa has the largest absolute population stock forever
-B. Asia holds the largest stock; Africa often leads growth rates
-C. Both have identical growth rates always
-D. Europe leads both stock and growth
-
+21. In global demographic geography, what is the 'Hajnal Line'?
+A. The boundary between Sunni and Shia populations in the Middle East  
+B. A proposed line dividing Europe (from Saint Petersburg to Trieste) separating distinct marriage and household formation patterns  
+C. The line separating urban and rural populations in China  
+D. The international poverty line of $2.15 per day  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** Stock vs rate confused pair.
-
+**Ans: B. A proposed line dividing Europe (from Saint Petersburg to Trieste) separating distinct marriage and household formation patterns**  
+**Logic:** Formulated by John Hajnal in 1965, the Hajnal Line divides Europe into two distinct demographic zones: Western Europe (late marriage, nuclear families) vs Eastern Europe (early universal marriage, extended households).
 </details>
 
-**Q22.** WHO is best linked with
-
-A. World Population Report title
-B. Global health statistics and health agendas
-C. World Economic Outlook
-D. Twelfth Schedule of the Constitution
-
+22. What is the approximate percentage of the world's population living within 400 km of a sea coast?
+A. 20%  
+B. 40%  
+C. 60%  
+D. 85%  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** Health neighbour — not UNFPA report.
-
+**Ans: C. 60%**  
+**Logic:** Approximately 60% of the world's human population lives in maritime littoral zones within 400 kilometers of a coastline due to trade, maritime climate, and flat alluvial deltas.
 </details>
 
-**Q23.** If a stem cites Census 2011 world share of India, the safe teaching pair is
-
-A. ~17.5% of world population on ~2.4% of world land
-B. 90% of world land and 10% of people
-C. India = densest country on Earth
-D. India = least populous G20 State
-
+23. Which UN agency is primarily responsible for international child health, nutrition, and vaccination campaigns in developing nations?
+A. UNHCR  
+B. UNICEF  
+C. UNCTAD  
+D. UNEP  
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
-
-**Logic:** Topic 1 neighbour reused for world share.
-
+**Ans: B. UNICEF**  
+**Logic:** The United Nations Children's Fund (UNICEF), founded in 1946, provides humanitarian and developmental aid to children worldwide.
 </details>
 
-**Q24.** Club of Rome is linked with
-
-A. Silent Spring 1962
-B. Limits to Growth 1972
-C. Our Common Future as the same book
-D. World Population Report 2021
-
+24. Universal Health Coverage (UHC) Day is observed globally on:
+A. 7 April  
+B. 11 July  
+C. 12 December  
+D. 24 December  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Limits to Growth 1972.
-
-**Logic:** Environment neighbour; Brundtland is different.
-
+**Ans: C. 12 December**  
+**Logic:** UHC Day is celebrated on 12 December to mark the anniversary of the UN's historic 2012 resolution endorsing universal health coverage.
 </details>
 
-**Q25.** Which distractor date is most often used against World Population Day?
-
-A. 26 January
-B. 5 June
-C. 15 August
-D. 2 October
-
+25. The biennial publication *World Population Prospects* provides demographic projections based on how many fertility variants?
+A. 2 variants  
+B. 3 main variants (Low, Medium, and High)  
+C. 5 variants  
+D. 10 variants  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** 5 June (World Environment Day).
-
-**Logic:** Classic UPPCS-style swap.
-
+**Ans: B. 3 main variants (Low, Medium, and High)**  
+**Logic:** UN DESA standardly presents projections under Low, Medium (the most probable baseline), and High fertility variant assumptions.
 </details>
 
-**Q26.** Bridge: India urban megacity process belongs mainly in
-
-A. Topic 7 only
-B. Topic 6 (with world city ranks only as edition footnotes here)
-C. Economy Topic 10 only
-D. Art and Culture
-
+26. Which country in Europe has the largest absolute population?
+A. Germany  
+B. United Kingdom  
+C. France  
+D. Russia  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** Topic border — world misc vs India urbanisation chapter.
-
+**Ans: D. Russia**  
+**Logic:** Russia is the most populous country in Europe with approx. 144 Million people (followed by Germany with approx. 84 Million).
 </details>
 
 ---
@@ -935,13 +643,4 @@ D. Art and Culture
 
 | Trap | Correct |
 |---|---|
-| India always first in every table | UN ~**2023+**; Census 2011 kept China first |
-| World Population Report = UNDP / IMF / WHO | **UNFPA** |
-| WPP = UNFPA magazine | **UN Population Division (DESA)** |
-| Population Day = 5 June | **11 July**; 5 June = Environment Day |
-| Eight billion = 11 July 2022 | **15 November 2022** |
-| Most populous = densest | Totals ≠ density |
-| Africa = largest absolute stock forever | **Asia** stock; Africa **rate** |
-| National Population Day = different month | Same **11 July** in coaching desks |
-| Dump India sex-ratio tables here | Topics **1 / 3** |
-| Limits to Growth = Brundtland / UNFPA | **Club of Rome 1972** |
+| Mixing Absolute vs % ranks | Match the stem metric first |

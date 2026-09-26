@@ -1,5 +1,5 @@
 # Topic 8 — Microbiology, Environment and Applied Science
-### ★ UPPCS Revision Sheet — Lucent / PW Coaching Style (Dense Locks · Zero Fluff · Practice ≥50)
+### ★ UPPCS Revision Sheet — Lucent / PW Coaching Style (Lucent / PW style · Practice ≥50)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -14,9 +14,9 @@ Microbiology: Major Groups (Bacteria, Viruses, Fungi, Protozoa) | Discovery of B
 
 ---
 
-## Current Affairs & Exam Locks
+## Current Affairs
 
-| Year / Date | Event / Discovery | High-Yield Exam Lock |
+| Year / Date | Event / Discovery | Must-Score Fact |
 |-------------|-------------------|----------------------|
 | **28 February** | **National Science Day** observed nationwide across India. | Celebrated to commemorate the landmark discovery of the **Raman Effect (inelastic scattering of light)** by **Sir C. V. Raman on 28 February 1928** (awarded Nobel Prize in Physics in 1930). It does **not** mark Raman's birthday, Fleming's penicillin, or World Environment Day. |
 | **26 November** | **National Milk Day** observed annually in India. | Commemorates the birth anniversary of **Dr. Verghese Kurien**, the "Father of the White Revolution" in India and mastermind of **Operation Flood** (launched in 1970 by NDDB, Anand). Coincides with Constitution Day (*Samvidhan Diwas*). |
@@ -116,7 +116,7 @@ Microbiology: Major Groups (Bacteria, Viruses, Fungi, Protozoa) | Discovery of B
 15. **Waste Management: Biodegradable vs Non-Biodegradable Pollutants**:
     - **Biodegradable Pollutants**: Organic substances broken down and decomposed by microbial enzymatic action (bacteria and fungi) into simple inorganic minerals, $CO_2$, and water; e.g., domestic kitchen waste, livestock dung, human urine and faeces, wood, paper, and natural protein/cellulose fibres (**Wool, Cotton, Jute, Silk, Leather**).
     - **Non-Biodegradable Pollutants**: Synthetic or inorganic substances that resist microbial enzymatic degradation and persist indefinitely in the biosphere; e.g., **Plastics (polyethylene, PVC, polystyrene), glass, aluminium foil, tin cans, synthetic pesticides (DDT, BHC / Lindane, Endosulfan), and heavy metals (Mercury, Lead, Cadmium, Arsenic)**.
-    - *Exam Lock*: **Recyclable is NOT the same as Biodegradable**. Glass bottles and aluminium cans are 100% recyclable (can be remelted and refabricated indefinitely), but are totally **non-biodegradable** (will never rot or turn into compost).
+    - *Must-Score*: **Recyclable is NOT the same as Biodegradable**. Glass bottles and aluminium cans are 100% recyclable (can be remelted and refabricated indefinitely), but are totally **non-biodegradable** (will never rot or turn into compost).
 16. **Biomagnification vs Bioaccumulation**:
     - **Bioaccumulation**: Gradual increase in the concentration of a persistent, lipid-soluble chemical inside an individual organism's fatty tissues over time, because the rate of intake exceeds the organism's metabolic excretion rate.
     - **Biomagnification (Biological Amplification)**: Progressive increase in the concentration of a non-biodegradable, lipid-soluble toxicant at successive trophic levels of a food chain.
@@ -328,7 +328,7 @@ Microbiology: Major Groups (Bacteria, Viruses, Fungi, Protozoa) | Discovery of B
 
 ### 4. Master Matrix of Biological Interactions & Symbiosis
 
-| Interaction Type | Species A | Species B | Biological Mechanism | Classic Exam Examples |
+| Interaction Type | Species A | Species B | Biological Mechanism | Classic Must-Score Examples |
 |------------------|:---------:|:---------:|----------------------|-----------------------|
 | **Mutualism** | **$+$** | **$+$** | Both species derive obligate or facultative reciprocal survival/nutritional benefits. | • **Lichens**: Fungus (mycobiont) absorbs water/minerals & protects; Alga/Cyanobacterium (phycobiont) photosynthesizes sugars.<br>• **Mycorrhiza**: Fungi colonize higher plant roots, increasing **Phosphorus/Nitrogen absorption** & pathogen protection in exchange for sugars.<br>• **Fig & Fig Wasp**: Obligate one-to-one co-evolution; wasp pollinates fig inflorescence while laying eggs; fig seeds nourish larvae.<br>• **Coral Reefs**: Scleractinian cnidarians provide shelter and $CO_2$ to symbiotic intracellular dinoflagellate algae (*Symbiodinium*).<br>• **Root Nodules**: *Rhizobium* diazotrophs fix atmospheric $N_2$ inside leguminous root nodules. |
 | **Commensalism** | **$+$** | **$0$** | One species benefits (commensal) while the host is neither harmed nor helped. | • **Barnacles on Whales**: Filter-feeding crustaceans get free ocean transport and access to plankton (*Phoresy*).<br>• **Remora (Suckerfish) & Sharks**: Remora attaches to shark underside via dorsal sucker, feeding on leftover food scraps.<br>• **Cattle Egrets & Grazing Mammals**: Egrets feed on grasshoppers/insects flushed out by grazing cattle.<br>• **Epiphytic Orchids**: Grow perched on tall tree bark strictly for mechanical sunlight support, taking water/nutrients from air/rain. |
@@ -338,7 +338,7 @@ Microbiology: Major Groups (Bacteria, Viruses, Fungi, Protozoa) | Discovery of B
 
 ### 5. Master Matrix of Fungi, Lichens & Microbial Ecological Roles
 
-| Entity / Group | Kingdom / Phylum | Key Biochemical & Cellular Features | Ecological / Economic Significance & Exam Traps |
+| Entity / Group | Kingdom / Phylum | Key Biochemical & Cellular Features | Ecological / Economic Significance & Common Traps |
 |----------------|------------------|-------------------------------------|--------------------------------------------------|
 | **Yeasts** | Fungi (Ascomycota / Basidiomycota) | Unicellular; cell wall of **chitin**; reproduce asexually by asymmetric **budding**; lack chlorophyll; store food as **glycogen**. | *Saccharomyces cerevisiae* (Baker's and Brewer's yeast); carries out anaerobic alcoholic fermentation. |
 | **Moulds** | Fungi (Zygomycota / Ascomycota) | Filamentous multicellular networks of microscopic tubular **hyphae** forming cottony mycelia. | *Penicillium notatum* (penicillin source), *Aspergillus niger* (citric acid), *Rhizopus* (black bread mould). |
@@ -385,13 +385,13 @@ Microbiology is the branch of biological science dealing with microscopic organi
   - **Gram-Positive**: Single thick peptidoglycan wall (20–80 nm) containing **Teichoic Acids**; retains the crystal violet-iodine complex; appears **Purple/Violet** under light microscopy (e.g., *Staphylococcus*, *Streptococcus*, *Bacillus*, *Clostridium*).
   - **Gram-Negative**: Thin peptidoglycan layer (8–10 nm) covered by an outer lipid-rich membrane composed of **Lipopolysaccharides (LPS)**; alcohol dissolves outer lipid layer, eluting crystal violet; cells take up safranin counterstain, appearing **Pink/Red** (e.g., *E. coli*, *Salmonella*, *Vibrio cholerae*, *Pseudomonas*); outer membrane acts as a protective barrier against penicillin and lysozyme.
 
-> **Exam note:** *Bacterial Endospores* are not reproductive units; they are extremely resistant survival structures formed under adverse environmental conditions by genera like *Bacillus* and *Clostridium*. High resistance to heat and radiation is mediated by **Calcium dipicolinate** in the spore cortex.
+> **Note:** *Bacterial Endospores* are not reproductive units; they are extremely resistant survival structures formed under adverse environmental conditions by genera like *Bacillus* and *Clostridium*. High resistance to heat and radiation is mediated by **Calcium dipicolinate** in the spore cortex.
 
 ### Mycoplasma: The Smallest Autonomous Cells
 - **Mycoplasmas (PPLO — Pleuropneumonia-Like Organisms)**:
   - The **smallest known living organisms capable of autonomous growth and reproduction** ($0.1–0.3\ \mu m$).
   - Characterized by the **complete lack of a cell wall**, enclosed only by a triple-layered flexible lipoprotein plasma membrane.
-  - *Antibiotic Lock*: Because they lack a peptidoglycan cell wall, **mycoplasmas are naturally resistant to Penicillin and Beta-Lactam antibiotics** (which function by blocking bacterial cell wall synthesis).
+  - *Antibiotic Fact*: Because they lack a peptidoglycan cell wall, **mycoplasmas are naturally resistant to Penicillin and Beta-Lactam antibiotics** (which function by blocking bacterial cell wall synthesis).
   - Many mycoplasmas are pathogenic; *Mycoplasma pneumoniae* causes primary atypical walking pneumonia in humans.
 
 ### Synthetic Medium Culturing vs Viral Host Cell Obligation
@@ -401,7 +401,7 @@ Microbiology is the branch of biological science dealing with microscopic organi
 ### Reproduction & Spore Formation
 - Unicellular organisms reproduce primarily by asexual processes (binary fission in bacteria and *Amoeba*, budding in yeast).
 - **Spore Formation**: A widespread mode of asexual reproduction where specialized resistant or dispersive reproductive units (spores) develop and germinate into new individuals without gametic fusion.
-- *Exam Lock*: Spore formation occurs across **Bacteria, Fungi, Algae, and lower non-flowering plants like Mosses (Bryophytes) and Ferns (Pteridophytes)**.
+- *Must-Score*: Spore formation occurs across **Bacteria, Fungi, Algae, and lower non-flowering plants like Mosses (Bryophytes) and Ferns (Pteridophytes)**.
 
 ### Archaebacteria vs Eubacteria
 - Archaebacteria represent the most primitive surviving prokaryotes; differ from true bacteria (*Eubacteria*) by having a cell wall lacking peptidoglycan (composed of pseudomurein) and possessing unique **branched-chain ether-linked membrane lipids** providing resistance to extreme temperatures, salinity, and pH:
@@ -575,7 +575,7 @@ D. Pneumonia
   - Marine ecosystems cover ~71% of Earth's surface and contribute nearly half of global net primary production.
   - **Diatoms**: Microscopic unicellular algae with ornate silica cell walls (frustules); **contribute ~45% of total oceanic primary organic production**.
   - **Cyanobacteria**: Photosynthetic blue-green prokaryotes (e.g., *Prochlorococcus*, *Synechococcus*) performing oxygenic photosynthesis.
-  - *Exam Traps*:
+  - *Common Traps*:
     - **Copepods**: Microscopic crustaceans that are **primary consumers / secondary producers** (feed on diatoms).
     - **Foraminifera**: Heterotrophic amoeboid protists possessing calcium carbonate shells (*tests*); they consume bacteria and micro-detritus, acting as consumers.
 
@@ -669,7 +669,7 @@ D. Pesticide
 
 </details>
 
-> **Exam note:** *Recyclable vs Biodegradable*: Glass and aluminium are 100% recyclable because they can be melted, purified, and reshaped without degradation of properties. However, they are **0% biodegradable**; microbes cannot metabolize them into soil humus.
+> **Note:** *Recyclable vs Biodegradable*: Glass and aluminium are 100% recyclable because they can be melted, purified, and reshaped without degradation of properties. However, they are **0% biodegradable**; microbes cannot metabolize them into soil humus.
 
 ### Biomagnification & Environmental Toxicology
 - **Biomagnification (Biological Magnification)**:
@@ -707,7 +707,7 @@ D. Pesticide
     - **Fish Mortality Rule**: Normal dissolved oxygen in clean surface water is $8–10\text{ mg/L}$. If sewage discharge drives DO below **$4\text{ mg/L}$**, fish and aquatic invertebrates suffocate and die en masse.
 - **Chemical Oxygen Demand (COD)**:
   - Definition: The amount of oxygen required to chemically oxidize all organic compounds (both biodegradable and recalcitrant/non-biodegradable synthetic chemicals) in a water sample using a powerful boiling chemical oxidizer, **acidified Potassium Dichromate ($\mathbf{K_2Cr_2O_7}$)**.
-  - *Exam Lock*: In any polluted water sample, **COD is always significantly higher than BOD** ($\text{COD} > \text{BOD}$), because COD measures the chemical oxidation of *all* organic matter, whereas BOD measures only biologically degradable organics.
+  - *Must-Score*: In any polluted water sample, **COD is always significantly higher than BOD** ($\text{COD} > \text{BOD}$), because COD measures the chemical oxidation of *all* organic matter, whereas BOD measures only biologically degradable organics.
 
 ### Drinking Water Purification & Potability Standards
 - **Municipal Water Treatment Steps**:
@@ -740,31 +740,15 @@ D. Pesticide
 
 ### Premier Research Institutions of India (High-Yield Match-Pairs)
 
-```
-┌────────────────────────────────────────────────────────────────────────┐
-│                  UTTAR PRADESH SCIENTIFIC HUBS                         │
-├───────────────────┬────────────────────────────────────────────────────┤
-│ Lucknow Cluster   │ • CDRI — Central Drug Research Institute           │
-│                   │ • CIMAP — Central Inst. of Medicinal & Aromatic    │
-│                   │ • NBRI — National Botanical Research Institute     │
-│                   │ • IITR — Indian Inst. of Toxicology Research       │
-│                   │ • BSIP — Birbal Sahni Inst. of Palaeosciences      │
-│                   │ • IISR — Indian Inst. of Sugarcane Research        │
-├───────────────────┼────────────────────────────────────────────────────┤
-│ Bareilly          │ • IVRI — Indian Veterinary Research Inst., Izatnagar│
-│                   │ • CARI — Central Avian Research Inst., Izatnagar   │
-├───────────────────┼────────────────────────────────────────────────────┤
-│ Varanasi          │ • IIVR — Indian Inst. of Vegetable Research        │
-├───────────────────┼────────────────────────────────────────────────────┤
-│ Jhansi            │ • IGFRI — Indian Grassland & Fodder Research Inst. │
-├───────────────────┼────────────────────────────────────────────────────┤
-│ Mathura           │ • CIRG — Central Inst. for Research on Goats       │
-├───────────────────┼────────────────────────────────────────────────────┤
-│ Kanpur            │ • NSI — National Sugar Institute                   │
-├───────────────────┼────────────────────────────────────────────────────┤
-│ Saharanpur        │ • CPPRI — Central Pulp & Paper Research Institute  │
-└───────────────────┴────────────────────────────────────────────────────┘
-```
+| UP hub | Institutes |
+|---|---|
+| **Lucknow cluster** | **CDRI** (drugs); **CIMAP** (medicinal & aromatic plants); **NBRI** (botany); **IITR** (toxicology); **BSIP** (palaeosciences); **IISR** (sugarcane) |
+| **Bareilly (Izatnagar)** | **IVRI** (veterinary); **CARI** (avian) |
+| **Varanasi** | **IIVR** (vegetable research) |
+| **Jhansi** | **IGFRI** (grassland & fodder) |
+| **Mathura** | **CIRG** (goats) |
+| **Kanpur** | **NSI** (National Sugar Institute) |
+| **Saharanpur** | **CPPRI** (pulp & paper) |
 
 #### National Apex Centers & Specialized Laboratories
 - **ICAR (Indian Council of Agricultural Research)**: New Delhi — apex national coordinating body for agricultural research and education.
@@ -823,14 +807,14 @@ D. Pesticide
 ### The Six Traditional Indian Seasons (*Shad Ritus*)
 The traditional Vedic and classical calendar divides the astronomical solar year into six distinct seasons (*Ritus*), each spanning approximately two lunar months:
 
-```
-Vasanta (Spring)  ──►  Grishma (Summer)  ──►  Varsha (Monsoon)
-  (Mid-Feb–Mid-Apr)      (Mid-Apr–Mid-Jun)      (Mid-Jun–Mid-Aug)
-         ▲                                              │
-         │                                              ▼
-Shishira (Winter)  ◄──  Hemanta (Pre-Winter) ◄──  Sharad (Autumn)
-  (Mid-Dec–Mid-Feb)      (Mid-Oct–Mid-Dec)      (Mid-Aug–Mid-Oct)
-```
+| Order | Season (*Ritu*) | Approx. window |
+|---|---|---|
+| 1 | **Vasanta** (Spring) | Mid-Feb – Mid-Apr |
+| 2 | **Grishma** (Summer) | Mid-Apr – Mid-Jun |
+| 3 | **Varsha** (Monsoon) | Mid-Jun – Mid-Aug |
+| 4 | **Sharad** (Autumn) | Mid-Aug – Mid-Oct |
+| 5 | **Hemanta** (Pre-winter) | Mid-Oct – Mid-Dec |
+| 6 | **Shishira** (Winter) | Mid-Dec – Mid-Feb |
 
 1. **Vasanta (Spring — वसन्त)**:
    - *Period*: Chaitra – Vaishakha (approx. mid-February to mid-April).
@@ -867,7 +851,7 @@ Shishira (Winter)  ◄──  Hemanta (Pre-Winter) ◄──  Sharad (Autumn)
 ---
 ### 18. Comprehensive Directory of National & International Science, Agricultural & Medical Institutes
 
-| Institute Name | Hindi / Acronym | Exact Location | Administrative Jurisdiction & High-Frequency Exam Focus |
+| Institute Name | Hindi / Acronym | Exact Location | Administrative Jurisdiction & High-Frequency Must-Score Focus |
 | :--- | :--- | :--- | :--- |
 | **Indian Veterinary Research Institute** | IVRI / भारतीय पशु चिकित्सा अनुसंधान संस्थान | **Izatnagar (Bareilly), UP** | Premier national veterinary medicine & animal health research institute under ICAR. |
 | **Central Avian Research Institute** | CARI / केंद्रीय पक्षी अनुसंधान संस्थान | **Izatnagar (Bareilly), UP** | Advanced poultry science and avian research under ICAR. |
@@ -916,7 +900,7 @@ Shishira (Winter)  ◄──  Hemanta (Pre-Winter) ◄──  Sharad (Autumn)
 
 ### 19. Medical Diagnostic Devices, Clinical Instrumentation & Biomedical Technologies
 
-| Diagnostic Tool / Instrument | Operational Physics & Physiological Principle | Primary Clinical Application & Diagnostic Utility | High-Yield UP-PCS Exam Locks |
+| Diagnostic Tool / Instrument | Operational Physics & Physiological Principle | Primary Clinical Application & Diagnostic Utility | High-Yield UP-PCS Must-Score |
 | :--- | :--- | :--- | :--- |
 | **Stethoscope** | Acoustic transmission and amplification of sound via mechanical chestpiece (diaphragm/bell). | Listening to internal physiological sounds: heartbeats (valvular sounds $S_1, S_2$), lung breath sounds, bowel motility. | Invented by **René Laennec** in 1816; operates on the principle of **multiple reflection of sound waves**. |
 | **Sphygmomanometer** | Inflatable occluding cuff measuring counter-pressure against arterial pulsation (auscultation of Korotkoff sounds). | Quantitative measurement of arterial blood pressure ($mmHg$); normal resting adult value: **$120/80\text{ mmHg}$**. | Contains **Mercury ($\mathbf{Hg}$)**; measures systolic (ventricular contraction) over diastolic (ventricular relaxation) pressure. |
@@ -931,7 +915,7 @@ Shishira (Winter)  ◄──  Hemanta (Pre-Winter) ◄──  Sharad (Autumn)
 | **Endoscope** | Slender, flexible tubular probe utilizing bundles of optical glass fibres to transmit light and return images to an external monitor. | Non-surgical direct visualization and biopsy of internal luminal tracts (digestive tract: gastroscopy, colonoscopy; respiratory: bronchoscopy). | Operates strictly on the optical principle of **Total Internal Reflection (TIR)**; cannot be categorized merely as a standard camera or telescope. |
 | **Cardiograph** | Mechanical or electronic transducer registering heart motion curves. | Graphically registers mechanical movements and volume changes of the contracting heart. | Instrument that draws cardiac displacement curves. |
 | **Crescograph** | Mechanical/optical magnification mechanism to record minute macroscopic plant growth increments. | Measuring precise instantaneous elongation and growth responses in living plants under toxic or stimulatory agents. | Invented in the early 20th century by legendary Indian scientist **Sir Jagdish Chandra Bose (J.C. Bose)**. |
-| **Bone Mineral Density (BMD) Test** | Dual-energy X-ray Absorptiometry (DEXA) measuring bone mineral mass per square centimeter. | Diagnosing **Osteoporosis** (brittle bone disease marked by microstructure deterioration and low bone density) and assessing fracture risk. | High-frequency exam repeat: BMD is exclusively performed for **Osteoporosis**, evaluating bone calcium/mineral concentration. |
+| **Bone Mineral Density (BMD) Test** | Dual-energy X-ray Absorptiometry (DEXA) measuring bone mineral mass per square centimeter. | Diagnosing **Osteoporosis** (brittle bone disease marked by microstructure deterioration and low bone density) and assessing fracture risk. | High-frequency PSC repeat: BMD is exclusively performed for **Osteoporosis**, evaluating bone calcium/mineral concentration. |
 | **Lithotripsy (ESWL)** | Focused high-energy acoustic **extracorporeal shockwaves (ultrasound shockwaves)** pulverize solid mineral deposits into sand-sized fragments. | Non-invasive disintegration of renal calculi (**kidney stones**), ureteral stones, and bladder stones, passing fragments painlessly through urine. | From Greek *lithos* = stone, *tripsis* = crushing; eliminates need for surgical open nephrolithotomy. |
 | **Electron Beam Therapy (EBT)** | Linear accelerator emits high-energy beams of electrons directed externally to superficial tissue targets. | Radiation therapy used to treat superficial cancers such as **cutaneous T-cell lymphoma (mycosis fungoides)** and skin carcinomas without deep tissue toxicity. | Electrons have a finite, steep depth dose fall-off, shielding underlying visceral organs from radiation damage. |
 | **Barium Meal X-Ray** | Patient ingests radio-opaque **Barium Sulfate ($\mathbf{BaSO_4}$)** suspension before gastrointestinal X-ray fluoroscopy. | Diagnosing ulcers, esophageal strictures, hiatal hernias, and gastrointestinal tumors. | Barium has a high atomic number ($Z=56$); acts as an **excellent absorber of X-rays**, creating sharp white radiographic contrast. |
@@ -995,12 +979,12 @@ Shishira (Winter)  ◄──  Hemanta (Pre-Winter) ◄──  Sharad (Autumn)
 
 - **Bovine Artificial Insemination & Cryopreservation**:
   - Elite bull semen for artificial insemination is stored cryogenically in **Liquid Nitrogen at $-196^\circ\text{C}$ ($-320^\circ\text{F}$)** inside vacuum-insulated containers.
-  - *Exam Lock*: Cryopreservation in liquid nitrogen preserves semen viability and motility indefinitely with **zero fertility deterioration over decades**; storage in dry ice/alcohol ($-100^\circ\text{F}$) leads to gradual fertility loss.
+  - *Must-Score*: Cryopreservation in liquid nitrogen preserves semen viability and motility indefinitely with **zero fertility deterioration over decades**; storage in dry ice/alcohol ($-100^\circ\text{F}$) leads to gradual fertility loss.
 - **Indigenous Cattle & Breed Identification**:
   - **Rashtriya Gokul Mission**: Launched by the Union Government under the National Programme for Bovine Breeding and Dairy Development; dedicated to **conserving, improving, and propagating indigenous cow breeds** (e.g. Gir, Sahiwal, Red Sindhi, Tharparkar) in a scientific manner.
   - **Gir Breed Cloned Cow 'Ganga'**: Born on 16 March 2023 at NDRI Karnal, India's first cloned calf of the indigenous Gir breed, capable of producing $>15\text{ litres}$ of milk per day.
   - **Highest Milk-Yielding Dairy Cow**: **Holstein-Friesian** (native to Netherlands and northern Germany), yielding an average of over $11,000\text{ kg}$ of milk per lactation cycle.
-  - **Breed Classification Lock**:
+  - **Breed Classification Fact**:
     - **Cow Breeds**: Gir, Sahiwal, Red Sindhi, Tharparkar, Nagauri, Kankrej, Rathi.
     - **Buffalo Breeds**: Murrah, Bhadawari, Jaffarabadi, Surti, Mehsana, Nili-Ravi.
     - **Goat Breeds**: Jamunapari, Barbari, Beetal, Black Bengal.
@@ -1186,7 +1170,7 @@ D. Neither 1 nor 2
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - ‘Red Ribbon Express’ is a visual and moving medium to create and increase awareness about the means of transmission, prevention and perception of risk associated with HIV/AIDS.
 </details>
 
@@ -1200,7 +1184,7 @@ D. Neither 1 nor 2
 <summary>Show answer</summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - AIDS program, Sanraksha (Bengaluru) was started as an HIV counselling service in 1993 and today offers a continuum of services that range from HIV testing to hospice care.
 </details>
 
@@ -1214,7 +1198,7 @@ D. Neither 1 nor 2
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - The National AIDS Control Organisation (NACO), established in 1992, is a division of India’s Ministry of Health and Family Welfare that provides leadership to HIV/AIDS control programme in India through HIV/AIDS Prevention and Control Societies and is “the nodal organisation for formulation of policy and implementation of programs for prevention and control of HIV/AIDS in India”.
 </details>
 
@@ -1229,7 +1213,7 @@ related to –
 <summary>Show answer</summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Mission Indradhanush was launched by Ministry of Health and Family Welfare (MOHFW), Government of India on 25th December, 2014.
   - The objective of this mission is to ensure that all children under the age of two years as well as a pregnant woman are fully immunized against the seven vaccine preventable diseases.
   - The mission Indradhanush, depicting seven colours of the rainbow targets to immunize all children against seven vaccines preventable disease, namely : Diphtheria, Pertussis, Tetanus, Tuberculosis, Polio, Hepatitis-B and Measles.
@@ -1246,7 +1230,7 @@ of India is in connection with :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - See the explanation of above question.
 </details>
 
@@ -1261,7 +1245,7 @@ with –
 <summary>Show answer</summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - See the explanation of above question.
 </details>
 
@@ -1288,7 +1272,7 @@ A B C D
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - The correct match of List-I with List-II is as follows : Programme Launch Year National Programme for Control of – 1976 Blindness Integrated Child Development Scheme – 1975 National Leprosy Eradication Programme – 1983 National Rural Health Mission – 2005
 </details>
 
@@ -1303,7 +1287,7 @@ include
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - National Family Health Survey (NFHS)-5 did not include HIV test.
   - Pre-school education, registration of deaths and prevalence of diseases like high blood-pressure, diabetes etc.
   - were included in it.
@@ -1328,7 +1312,7 @@ A B C D
 <summary>Show answer</summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - The correctly matched lists are as follows : Compounds present in bones – Calcium phosphate Acid present in vinegar – Acetic acid Souring of milk – Lactic acid Ripening of fruits – Ethylene
 </details>
 
@@ -1350,7 +1334,7 @@ A B C D
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - The correctly matched lists are as follows : Lactobacillus – Preparation of curd Rhizobium – Nitrogen Fixation Yeast – Alcohol production Aspergillus – Citric acid formation
 </details>
 
@@ -1364,7 +1348,7 @@ A B C D
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Saccharomyces is a genus of fungi that include many species of yeasts. It is used in fermentation of toddy (a type of raw alcoholic beverage).
 </details>
 
@@ -1379,7 +1363,7 @@ ethanol?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Many yeasts such as the commonly used baker’s yeast Saccharomyces cerevisiae prefer fermentation to respiration. These yeasts will produce ethanol under aerobic conditions if they are provided with right kind of nutrition.
 </details>
 
@@ -1394,7 +1378,7 @@ in wine industry is a :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Yeasts have two main uses in food production : 1.
   - baking, 2.
   - making alcoholic beverages.
@@ -1417,7 +1401,7 @@ Code :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Herbicides, also commonly known as weedkillers are used to kill unwanted plants.
   - Herbicides are absorbed in different rates by weed and crop plants.
   - Selective herbicides kill specific targets while leaving the desired crop relatively unharmed.
@@ -1434,7 +1418,7 @@ Code :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Generally, Orobanche weed is found in a tobacco field.
   - Orobanche weed is a parasitic weed which is also found in tomato and potato fields.
   - It’s 150 species are spread over much of the world’s temperate and subtropical regions.
@@ -1451,7 +1435,7 @@ passed in the year ________.
 <summary>Show answer</summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - The Destructive Insects and Pests Act, 1914 (Hindi title: Nashak Keet aur Nashak Jeev Adhiniyam, 1914) was passed in 1914. Its purpose is to prevent the entry of destructive pests and diseases harmful to crops into India and to prevent their inter-state spread.
 </details>
 
@@ -1469,7 +1453,7 @@ Select the correct answer from the codes given below:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - World Health Day – 7 April National Maritime Day (India) – 5 April World Athletics Day – 7 May World Red Cross Day – 8 May Hence, the correct chronological order is 2, 1, 3, 4.
 </details>
 
@@ -1489,7 +1473,7 @@ A B C D
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - The correctly matched lists are as follows : 5 June – World Environment Day 1 December – World AIDS Day 5 September – Teachers Day 16 October – World Food Day
 </details>
 
@@ -1511,7 +1495,7 @@ A B C D
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - World T.B. Day – March 24 World AIDS Day – December 1 Anti Leprosy Day – Last Sunday of January (31 January, 1999 was Sunday) International Ozone Day – September 16
 </details>
 
@@ -1525,7 +1509,7 @@ A B C D
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - See the explanation of above question.
 </details>
 
@@ -1545,7 +1529,7 @@ international days are observed in a calendar year ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Anti Leprosy day  –  last sunday of January World TB day – 24 March World Alzheimer’s day – 21 September World AIDS day – 1 December
 </details>
 
@@ -1560,7 +1544,7 @@ List-I List-II
 <summary>Show answer</summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - & (c) The World Water Day is celebrated on 22 March every year and World Leprosy Day is observed on the last Sunday of January each year. Thus, option (b) and (c) both are not correctly matched.
 </details>
 
@@ -1581,7 +1565,7 @@ A B C D
 <summary>Show answer</summary>
 
 - **Correct Answer:** (*)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - World Minority Rights Day – December 18 World AIDS Day – December 1 World Animal Day – October 4 World Food Day – October 16
 </details>
 
@@ -1595,7 +1579,7 @@ A B C D
 <summary>Show answer</summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Biomass is biological material derived from living organisms.
   - It most often refers to plants or plant-based materials which are specifically called lignocelluloses biomass.
   - As an energy source, biomass can either be used directly via combustion to produce heat or indirectly after converting it to various forms of biofuel.
@@ -1614,7 +1598,7 @@ through :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Endoscopy is a nonsurgical procedure used to examine a person’s digestive tract.
   - Using an endoscope, a flexible tube with a light and camera attached to it, the doctor can view a picture of digestive tract on a T.V.
   - monitor.
@@ -1630,7 +1614,7 @@ through :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - An endoscope is a medical device consisting of a long, thin, flexible (or rigid) tube which has a light source and a video camera.
   - Images of the inside of the patient’s body can be seen on a screen.
   - It is not suitable to categorize endoscope as a type of camera.
@@ -1646,7 +1630,7 @@ through :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - See the explanation of above question.
 </details>
 
@@ -1660,7 +1644,7 @@ through :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - See the explanation of above question.
 </details>
 
@@ -1675,7 +1659,7 @@ the phenomenon of –
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - MRI is a non-invasive medical test that physicians use to diagnose and treat medical conditions.
   - It uses a powerful magnetic field, radio frequency pulses, and a computer to produce detailed pictures of organs, soft tissues, bone and all other internal body structures visually.
   - The Magnetic Resonance Imaging (MRI) is based on the phenomenon of nuclear magnetic resonance.
@@ -1691,7 +1675,7 @@ the phenomenon of –
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Magnetic resonance imaging (MRI) is a test that uses magnetic field and pulses of radio wave energy to make pictures of organs and structures inside the body.
 </details>
 
@@ -1705,7 +1689,7 @@ the phenomenon of –
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - See the explanation of above question.
 </details>
 
@@ -1719,7 +1703,7 @@ the phenomenon of –
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - BMD (Bone Mineral Density) test is used for the diagnosis of osteoporosis.
   - It is a disease of bones in which the chancesof fracture increases.
   - In this disease, the bone mineral density decreases and bone microstructure is destroyed.
@@ -1736,7 +1720,7 @@ the phenomenon of –
 <summary>Show answer</summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - See the explanation of above question.
 </details>
 
@@ -1750,7 +1734,7 @@ the phenomenon of –
 <summary>Show answer</summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - See the explanation of above question.
 </details>
 
@@ -1765,7 +1749,7 @@ in treat –
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Electron beam radiation therapy is used to treat lymphoma– a form of cancer in the skin. There are 2 types of electron beam radiation therapy, these are (1) spot treatment and (2) total skin electron beam therapy.
 </details>
 
@@ -1781,7 +1765,7 @@ paralysis of –
 <summary>Show answer</summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - The term tetraplegia refers to a condition that causes total or partial paralysis in both hands and both legs.
   - It is caused by accident or diseases.
   - It is also called quadriplegia.
@@ -1797,7 +1781,7 @@ paralysis of –
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Silk fibre, hairs, nails and claw are made with keratin proteins.
 </details>
 
@@ -1812,7 +1796,7 @@ is stored in :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - See the explanation of above question.
 </details>
 
@@ -1834,7 +1818,7 @@ A B C D
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - The correctly matched lists are as follows : Myoglobin – Muscle cell Sarpgandha – Tranquilizer Carcinoma – Radiotherapy Haemoglobin – Oxygen transport
 </details>
 
@@ -1852,7 +1836,7 @@ Code :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Anaesthetic substances are mainly used for decreasing the sensation or awareness.
   - William Mortan has used it for the first time in 1846 in the form of di-ethyl ether.
   - In 1847, Jams Sampson used chloroform as an anaesthetic.
@@ -1870,7 +1854,7 @@ Code :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - See the explanation of above question.
 </details>
 
@@ -1893,7 +1877,7 @@ A B C D
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Specialist Body Part Cardiologist – Heart Nephrologist – Kidney Urologist – Urinary tract Oculist – Eye
 </details>
 
@@ -1908,7 +1892,7 @@ performance enhancing substance by the athletes :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Colostrum has been marked as a safe dietary supplement by the International Olympic Committee and it can be used as performance enhancing substance by the athletes. The other options are banned for use by the athletes.
 </details>
 
@@ -1923,7 +1907,7 @@ pills has been developed by CDRI, Lucknow?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Central Drug Research Institute (CDRI), Lucknow has developed the molecule centchroman (ormeloxifene) which is marketed by HLL under the brand name Saheli.
   - Introduced in 1991, Saheli had the unique distinction of being the world’s first non-steroidal oral contraceptive pill.
   - It is also unique since it is an indigenously developed drug.
@@ -1941,7 +1925,7 @@ growth is :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Ultrasonics is a technique for monitoring foetal growth.
   - It is the application of ultrasound.
   - Ultrasound can be used for medical imaging, detection and measurement.
@@ -1958,7 +1942,7 @@ growth is :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - CDRI (Central Drug Research Institute) is located at Lucknow.
 </details>
 
@@ -1972,7 +1956,7 @@ growth is :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Central Electrochemical Research Institute is one of a chain of forty national laboratories under the aegis of the Council of Scientific and Industrial Research (CSIR).
   - It is situated at Karaikudi in Tamil Nadu.
   - Other pairs are correctly matched.
@@ -1989,7 +1973,7 @@ is located in India ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - High Security Animal Disease Laboratory is located at Bhopal, Madhya Pradesh.
 </details>
 
@@ -2004,7 +1988,7 @@ identify the non C.S.I.R. Institute :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - The Birbal Sahni Institute of Palaeobotany (BSIP; now renamed as Birbal Sahni Institute of Palaeosciences) is an autonomous institute or a non-C.S.I.R.
   - Institute constituted under the Department of Science and Technology, Government of India.
   - This Institute is located at Lucknow, Uttar Pradesh and is a place of higher learning in the field of plant fossil research.
@@ -2021,7 +2005,7 @@ identify the non C.S.I.R. Institute :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Indian Institute of Vegetable Research is situated at Varanasi. Other given Institutes and their locations are correctly matched.
 </details>
 
@@ -2036,7 +2020,7 @@ is situated at –
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - The National Institute for the Mentally Handicapped is situated at Secunderabad (District-Hyderabad). It is now renamed as National Institute for the Empowerment of Persons with Intellectual Disabilities.
 </details>
 
@@ -2062,7 +2046,7 @@ A B C D
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - The correctly matched order is : Central Drug Research Institute – Lucknow National JALMA Institute for – Agra Leprosy and Other Mycobacterial Diseases (Central Leprosy Institute) Motilal Nehru National Institute – Allahabad of Technology Indian Institute of Sugar – Kanpur Technology (National Sugar Institute)
 </details>
 
@@ -2077,7 +2061,7 @@ Research Institute situated?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Indian Vegetable Research Institute (IVRI) is situated at Varanasi. It is a field unit of Indian Council of Agricultural Research (ICAR).
 </details>
 
@@ -2091,7 +2075,7 @@ Research Institute situated?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Head Office of Artificial Limbs Manufacturing Corporation of India (ALMICO) is situated in Kanpur, Uttar Pradesh. It was incorporated in 1972 and started manufacturing artificial aids and appliances in 1976.
 </details>
 
@@ -2106,7 +2090,7 @@ situated in :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - The International Potato Centre (CIP) was founded in 1971 as a research-for-development organization with a focus on potato, sweetpotato and Andean roots and tubers.
   - It delivers innovative science-based solutions to enhance access to affordable nutritious food, foster inclusive sustainable business and employment growth, and drive the climate resilience of root and tuber agri-food systems.
   - Headquartered in Lima, Peru, CIP has a research presence in more than 20 countries in Africa, Asia and Latin America.
@@ -2122,7 +2106,7 @@ situated in :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - The National Botanical Research Institute (NBRI) is a research institute of CSIR in Lucknow.
   - It is engaged in the field of taxonomy and modern biology.
   - Remaining options are correctly matched.
@@ -2139,7 +2123,7 @@ at–
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - The National Bureau of Plant Genetic Resources (NBPGR) has its headquarters at New Delhi.
 </details>
 
@@ -2161,7 +2145,7 @@ A B C D
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - The correctly matched lists are as follows : Anthrax – A toxin used in biowarfare Thalassemia – Disease due to a defective gene Surrogacy – Womb-renting Transgenics – A science of altering genomes
 </details>
 
@@ -2175,7 +2159,7 @@ A B C D
 <summary>Show answer</summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Quinine is a white crystalline alkaloid matter.
   - It is used to treat malaria, fever, chills, body aches and swelling.
   - It is not an antibiotic.
@@ -2193,7 +2177,7 @@ opened ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - The first dianosauriam has been opened in Hyderabad. This dianosauriam has been opened in B.M Birla science center in Hyderabad.
 </details>
 
@@ -2208,7 +2192,7 @@ of landmines :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - The honey bee is a social insect which is useful in the detection of landmines. A honey bee is a member of the genus Apis, primarily distinguished by the production and storage of honey and the construction of perennial, colonial nests from wax.
 </details>
 
@@ -2223,7 +2207,7 @@ by the body is :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Dehydration is a condition of excessive loss of body fluids. Dehydration is the loss of water and salts (mainly sodium chloride) essential for normal body function.
 </details>
 
@@ -2237,7 +2221,7 @@ by the body is :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Except for sea water, any of the liquid can be used to overcome the lack of water in dehydrated person.
   - The caffeine presented in tea or coffee is diuretic and its consumption causes loss to water in the human body but it is quite low in comparison of water <truncated 33393 bytes> NOTE: The output was truncated because it was too long.
   - Use a more targeted query or a smaller range to get the information you need.
@@ -2321,7 +2305,7 @@ are the three major aspects of :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Nutrition, respiration and synthesis are the three major aspects of metabolism.
   - Metabolism is a term that is used to describe all chemical reactions involved in maintaining the living state of the cells and the organism.
   - Metabolism can be conveniently divided into two categories: (I) Catabolism- the breakdown of molecules to obtain energy.
@@ -2339,7 +2323,7 @@ Union Government aims at :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Rashtriya Gokul Mission is a focused project under national programme for bovine breeding and dairy development, with an outlay of Rs 500 crore during the 12th five year plan. The ‘Rashtriya Gokul Mission’ aims to conserve and develop indigenous breeds of cows in a focused and scientific manner.
 </details>
 
@@ -2354,7 +2338,7 @@ following international conventions / commissions ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - India is a party to CITES (Convention on International Trade in Endangered Species of Wild Fauna and Flora), having ratified the treaty in 1976.
   - India is a party to the UNESCO World Heritage Convention, having ratified the Convention Concerning the Protection of the World Cultural and Natural Heritage on November 14, 1977.
   - India has been a member of the International Whaling Commission since 1981 and has maintained a consistent stand on whale conservation.
@@ -2374,7 +2358,7 @@ following international conventions / commissions ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - The headquarter of Survey of India is located in Dehradun.
 </details>
 
@@ -2618,45 +2602,7 @@ D. Lizards, Crocodiles, and Snakes
 
 ---
 
-## Common Traps & Exam Mistakes
-
-* **Bacterium vs Virus**: Bacteria are living prokaryotes with peptidoglycan walls and ribosomes, killed by antibiotics. Viruses are acellular nucleoproteins (DNA or RNA inside a protein capsid) with no metabolic machinery; **antibiotics are completely ineffective against viruses**.
-* **Synthetic Medium Culturing vs Viruses**: Bacteria and fungi can be cultured on cell-free artificial nutrient media (agar/broth). Viruses cannot be cultured on synthetic media; they require living host cells.
-* **Mycoplasma Trap**: *Mycoplasma* is the smallest organism capable of autonomous growth; it lacks a cell wall and is naturally resistant to penicillin.
-* **The *Haemophilus influenzae* Trap**: Despite its historic name, *Haemophilus influenzae* is a **bacterium** causing purulent pediatric meningitis, acute epiglottitis, and pneumonia (prevented by the Hib vaccine); it does **not** cause Influenza (which is caused by the Influenza virus). Whooping cough is caused by ***Bordetella pertussis***.
-* **Fungi & Mushrooms**: Fungi lack chlorophyll and vascular bundles, possessing chitin walls and glycogen stores. Yeasts, moulds, and mushrooms are fungi. Gucchi (*Morchella*) is a wild, non-cultivable edible Ascomycete fungus of Himalayan conifer forests. Death cap (*Amanita phalloides*) is a lethal poisonous mushroom.
-* **Biological Interactions**:
-  * **Mutualism (+/+)**: Lichens (alga + fungus), Mycorrhiza (fungus + higher plant roots), Fig & Fig wasp (obligate pollination co-evolution), Corals (*Symbiodinium*).
-  * **Commensalism (+/0)**: Barnacles on whales, remora on sharks, cattle egrets with cattle, epiphytic orchids on trees.
-  * **Hyperparasitism**: Parasite of a parasite (Apocrita wasps, Diptera).
-* **Lichens as Bio-indicators**: Lichens do NOT grow in polluted areas; exquisitely sensitive to $SO_2$.
-* **Ecosystem Energetics**: Producers (Trophic Level-I) act as the intermediary between abiotic and biotic components. Primary productivity is measured in $g/m^2/\text{year}$. Chief oceanic primary producers are Diatoms (~45%) and Cyanobacteria; Copepods are primary consumers.
-* **Human Species**: Chinese, American, Indian, and Black African populations all belong to the exact same species: ***Homo sapiens***.
-* **Curd vs Vinegar**: Curd's sour taste is due to **Lactic Acid** fermented by *Lactobacillus*. Vinegar's sour taste is due to **Acetic Acid** fermented by *Acetobacter aceti*.
-* **Biodegradable vs Recyclable**: Wool is a natural protein fibre that decomposes in soil (**biodegradable**). Plastic, glass, and aluminium foil are **non-biodegradable**. Glass and aluminium can be melted down and reformed (**recyclable**), but they will never decompose into organic humus.
-* **DDT & Pesticides**: DDT, BHC (Lindane), and Endosulfan are non-biodegradable chlorinated hydrocarbons that accumulate in body fat and undergo **biomagnification** across trophic levels.
-* **BOD vs COD**: High BOD means high organic pollution and low Dissolved Oxygen ($DO < 4\text{ mg/L}$ kills fish). **COD is always greater than BOD** because COD measures total chemical oxidation of all organics, while BOD measures only biological degradation.
-* **Biogas Components**: Methane ($\mathbf{CH_4}$, **50–70%**) is the primary combustible component, followed by Carbon Dioxide ($\mathbf{CO_2}$, **30–40%**).
-* **Research Institutes Locations**:
-  * CDRI, CIMAP, NBRI, IITR, BSIP, and IISR are all located in **Lucknow**.
-  * IVRI and CARI are at **Izatnagar, Bareilly**.
-  * IIVR is in **Varanasi**; IGFRI is in **Jhansi**; CIRG is in **Mathura**; NSI is in **Kanpur**.
-  * NIV is in **Pune**; NDRI is in **Karnal**; CFTRI is in **Mysuru**; NEERI is in **Nagpur**.
-  * WHO is in **Geneva**; FAO is in **Rome**; UNEP is in **Nairobi**.
-* **Key Science Days**:
-  * **28 February**: National Science Day (Raman Effect discovery in 1928, not Raman's birthday).
-  * **24 March**: World TB Day (Koch's discovery of TB bacillus in 1882).
-  * **7 April**: World Health Day (WHO established in 1948).
-  * **5 June**: World Environment Day (1972 Stockholm Conference).
-  * **26 November**: National Milk Day (Verghese Kurien's birthday).
-  * **1 December**: World AIDS Day.
-* **The Six Seasons (*Shad Ritus*) Order**:
-  1. **Vasanta** (Spring: mid-Feb to mid-Apr, Chaitra–Vaishakha)
-  2. **Grishma** (Summer: mid-Apr to mid-Jun, Jyeshtha–Ashadha; *Zaid* crops)
-  3. **Varsha** (Rains: mid-Jun to mid-Aug, Shravana–Bhadrapada; *Kharif* sowing, mosquitoes)
-  4. **Sharad** (Autumn: mid-Aug to mid-Oct, Ashwina–Kartika; monsoon retreat, "October heat")
-  5. **Hemanta** (Pre-Winter: mid-Oct to mid-Dec, Margashirsha–Pausha; *Rabi* sowing)
-  6. **Shishira** (Winter: mid-Dec to mid-Feb, Magha–Phalguna; peak cold, frost, *Mahawat* winter rains for wheat)
+## Ghatnachakra Extra Drill
 
 **Q17. (M.P. P.C.S. (Pre) 2022)** AYUSH is an acronym for :
 - (A) Ayurveda, Yoga and Naturopathy, Unani, Siddha and Homeopathy
@@ -2668,7 +2614,7 @@ D. Lizards, Crocodiles, and Snakes
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - AYUSH is an acronym for Ayurveda, Yoga and Naturopathy, Unani, Siddha and Homeopathy and are the six Indian systems of medicine prevalent and practiced in India and some of the neighboring Asian countries with very few exceptions in some of the developed countries.
   - Earlier, the Department of Indian System of Medicine and Homoeopathy (ISM & H) formed in 1995, was responsible for the development of these systems.
   - It was then renamed as the Department of Ayurveda, Yoga, and Naturopathy, Unani, Siddha and Homoeopathy (Ayush) in November, 2003 with focused attention towards education and research in Ayurveda, Yoga and Naturopathy, Unani, Siddha and Homoeopathy.
@@ -2686,7 +2632,7 @@ Gates Foundation’, is engaged in the prevention of –
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Avahan is an initiative sponsored by the Bill & Melinda Gates Foundation to reduce the spread of HIV in India. It began in 2003.
 </details>
 
@@ -2713,7 +2659,7 @@ How many of the statements given above are correct?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Under Anaemia Mukt Bharat (AMB) strategy, the interventions for tackling the problem of anaemia in all the States and UTs include : (i) Prophylactic Iron and Folic Acid Supplementation in all six target age groups (including pre-school children, adolescents and pregnant women).
   - (ii) Intensified year-round Behaviour Change Communication (BCC) Campaign for : (a) improving compliance to Iron Folic Acid supplementation and deworming, (b) enhancing appropriate infant and young child feeding practices, (c) encouraging increase in intake of iron-rich food through diet diversity/quantity/frequency and/or fortified foods with focus on harnessing locally available resources, and (d) ensuring delayed cord clamping after delivery (by 3 minutes) in health facilities.
   - (iii) Testing and treatment of anaemia, using digital methods and point of care treatment, with special focus on pregnant women and school-going adolescents.
@@ -2733,7 +2679,7 @@ cell anaemia from India?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - National Sickle Cell Anaemia Elimination Mission (NSCEM) was launched by PM Narendra Modi on 1st July, 2023 in Shahdol, Madhya Pradesh.
   - This mission focuses on addressing the significant health challenges posed by sickle cell disease, particularly among tribal populations of the country.
   - Sickle cell disease (SCD) is a chronic single gene disorder causing a debilitating systemic syndrome characterized by chronic anaemia, acute painful episodes, organ infarction and chronic organ damage and by a significant reduction in life expectancy.
@@ -2752,7 +2698,7 @@ useful substance with the help of :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Biodegradation is nature's way of recycling wastes, or breaking down organic matter into nutrients that can be used and reused by other organisms.
   - Biodegradable wastes include any organic matter in waste which can be broken down into carbon dioxide, water, methane, compost, humus, simple organic molecules by micro-organisms (comprising mainly bacteria, yeast and fungi) and other living things by composting, aerobic digestion, anaerobic digestion or similar processes.
   - Hence, Biodegradable wastes can usually be converted into useful substance with the help of bacteria.
@@ -2769,7 +2715,7 @@ pollutant?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Among the given options, insecticides are non-biodegradable, while paper, food and plant waste, wood and cellulose are biodegradable materials.
 </details>
 
@@ -2784,7 +2730,7 @@ most widely used in industries ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Bacteria, fungi and microalgae, all three are widely used in industries.
   - Today bacteria is used in manufacturing curd, cheese, butter, vinegar and in making of various antibiotic medicines.
   - Diatoms are a small group of algae.
@@ -2805,7 +2751,7 @@ most widely used in industries ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Methanogens (a group of archaebacteria) are microorganisms that produce methane as a metabolic by-product in hypoxic conditions. They are prokaryotic and belong to the domain of archaea.
 </details>
 
@@ -2826,7 +2772,7 @@ How many of the above statements are correct?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Organisms that grow at optimum temperatures of 50°C to a maximum of 80°C are called thermophiles (heat loving).
   - Higher up on the extreme temperature scale we find the hyperthermophiles, which are characterized by growth ranges from 80°C to a maximum of 110°C, with some extreme examples that survive temperatures above 121°C.
   - Some bacteria grow at the bottom of the ocean in sea vents, where temperatures can reach upto around 700°F.
@@ -2848,7 +2794,7 @@ How many of the above statements are correct?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Biomagnification, also known as bio-amplification or biological magnification, is the increasing concentration of a substance, such as a toxic chemical (e.g. pesticides), in the tissues of tolerant organisms at successively higher levels in a food chain.
 </details>
 
@@ -2862,7 +2808,7 @@ How many of the above statements are correct?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - A herbarium is a collection of preserved plants stored, catalogued and arranged systematically for study by professionals and amateurs from many walks of life. A collection like this is a vital reference when you need to identify a plant and also serves to fix forever the identity of thousands of plant names.
 </details>
 
@@ -2876,7 +2822,7 @@ How many of the above statements are correct?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - The Indian Council of Agricultural Research (ICAR) celebrates its foundation day every year on 16th July.
   - ICAR was established on 16 July, 1929 as a registered society under the Societies Registration Act, 1860 in pursuance of the report of the Royal Commission on Agriculture.
   - From 2023 it has been decided to observe this day as the 'Foundation and Technology Day' of ICAR.
@@ -2894,7 +2840,7 @@ How many of the above statements are correct?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - World Ozone Day, or the International Day for the Preservation of the Ozone Layer, is observed every year on 16 September.
   - It is noteworthy that the Montreal Protocol related to ozone layer protection was adopted on 16 September, 1987.
   - It is also noteworthy that in 1994, the United Nations General Assembly declared this day to be observed.
@@ -2911,7 +2857,7 @@ AIDS is organized in the world ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - The International AIDS Conference was held in Bangkok, the capital city of Thailand on 16 July, 2004.
   - The main aim of the conference was to publish new guidelines underlining the effectiveness of anti-retroviral drugs to prevent the transmission of HIV from seropositive mothers to their child.
   - 1st December is celebrated every year as ‘World AIDS Day’.
@@ -2927,7 +2873,7 @@ AIDS is organized in the world ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - See the explanation of above question.
 </details>
 
@@ -2941,7 +2887,7 @@ AIDS is organized in the world ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - World Diabetes Day (WDD) is celebrated every year on November 14.
 </details>
 
@@ -2958,7 +2904,7 @@ India?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - In October, 2022 Government of Tamil Nadu launched the State-Level Committee for Vulture Conservation (SLCVC) for coordination between various wings of the government to implement the Action Plan for Vulture Conservation (APVC) 2020-2025.
 </details>
 
@@ -2975,7 +2921,7 @@ of India?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Ten captive-bred Asian Giant Tortoises (Manouria emys), one of the largest tortoise species in mainland Asia, were released in December, 2022 into a protected area of Ntangki National Park of Nagaland.
 </details>
 
@@ -2991,7 +2937,7 @@ Which of these is/are endangered species ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - According to the Red List of International Union for Conservation of Nature (IUCN), among the crocodile species found in India, gharial (Gavialis gangeticus) is in critically endangered category while Indian elephant is in endangered category.
 </details>
 
@@ -3006,7 +2952,7 @@ became extinct in India?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Cheetah also known as the ‘hunting leopard’, became extinct in India.
   - Government of India initiated a programme to reintroduce cheetahs to India after they became locally extinct more than 70 years ago.
   - From 2022, as a part of ‘Project Cheetah’, cheetahs flown in from Namibia, South Africa and most recenty (in February, 2026) from Botswana were introduced to Kuno National Park in India.
@@ -3024,7 +2970,7 @@ discussion of
 <summary>Show answer</summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - During the past 500 million years, there were five ‘mass extinctions’ during which many species rapidly died.
   - Now scientists warn that the sixth mass extinction of life on Earth is unfolding more quickly than feared and humans are the primary cause, who are pursuing a ‘biological annihilation’ that is coming faster than feared.
   - According to a study published in journal ‘Science’ in July, 2017 the planet is on the verge of witnessing sixth mass extinction phase.
@@ -3044,7 +2990,7 @@ structure of human body ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - An X-ray computed tomography (X-ray CT) or computerized axial tomography scan (CAT scan), makes use of computerprocessed combinations of many X-ray images taken from different angles to produce cross-sectional (tomographic) images (virtual ‘slices’) of specific areas of a scanned object, allowing the user to see inside the object without cutting.
 </details>
 
@@ -3059,7 +3005,7 @@ before an X-ray examination of the stomach, because
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Barium is a good absorber of X-rays and this helps the stomach to appear clearly in contrast with the other regions in the picture.
   - So its suitable form is administered to patients before an X-ray examination of the stomach.
   - It is used to diagnose abnormalities of the gastrointestinal tract, such as tumours, ulcers, etc.
@@ -3077,7 +3023,7 @@ used. Which is not used in MRI?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (e)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Magnetic resonance imaging (MRI) is a medical imaging technique used in radiology to form pictures of the anatomy and the physiological processes of the body.
   - MRI scanners use strong magnetic fields, magnetic field gradients, and radio waves to generate images of the organs in the body.
   - MRI technique does not involve use of ionizing radiation (Gamma rays, X-rays and the higher ultraviolet part of the electromagnetic spectrum), which distinguishes it from CT and PET scans.
@@ -3093,7 +3039,7 @@ used. Which is not used in MRI?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Lithotripsy is a medical treatment in which ultrasound shockwaves is used to break up the stones in the kidney, bladder or ureter. After the procedure, the tiny pieces of stones pass out from the body through urine.
 </details>
 
@@ -3107,7 +3053,7 @@ used. Which is not used in MRI?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Artificial silk is a synthetic fibre which is also known as rayon. Rayon is a manufactured fibre made from natural sources such as wood and agricultural products that are regenerated as cellulose fibre.
 </details>
 
@@ -3121,7 +3067,7 @@ used. Which is not used in MRI?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Kadaknath, also called Kali Masi ("fowl having black flesh"), is an Indian breed of chicken.
   - They originated from Dhar and Jhabua, Madhya Pradesh.
   - These birds are mostly bred by the rural poor and tribals.
@@ -3139,7 +3085,7 @@ used. Which is not used in MRI?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Common oral contraceptive pills and emergency contraceptive pills are mainly based on a synthetic progestogen. The most commonly used compound among them is levonorgestrel.
 </details>
 
@@ -3153,7 +3099,7 @@ used. Which is not used in MRI?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - The correctly matched lists are as follows : Dr.
   - Verghese Kurien – Co-operative Movement Dr.
   - Malcom Adiseshiah – Development Economics Dr.
@@ -3173,7 +3119,7 @@ one of the following organizations?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - The Global Invasive Species Database (GISD) is a free, online searchable source of information about alien and invasive species that negatively impact biodiversity.
   - GISD is managed by the Invasive Species Specialist Group (ISSG) and it was developed between 1998 and 2000 as part of the global initiative on invasive species led by the erstwhile Global Invasive Species Programme (GISP).
   - The Invasive Species Specialist Group (ISSG) is a global network of scientific and policy experts on invasive species, organized under the auspices of the Species Survival Commission (SSC) of the International Union for Conservation of Nature (IUCN).
@@ -3189,7 +3135,7 @@ one of the following organizations?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - The Survey of India is India’s National Mapping Agency (NMA) in charge of mapping and surveying.
   - It was set up in 1767 and has evolved rich traditions over the years.
   - Survey of India functions under the Ministry of Science and Technology.
@@ -3218,7 +3164,7 @@ A B C D
 <summary>Show answer</summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Central Institute of Medicinal and Aromatic Plants – Lucknow Centre for DNA Fingerprinting and Diagnostics – Hyderabad Institute of Microbial Technology – Chandigarh National Institute of Immunology – New Delhi.
 </details>
 
@@ -3232,7 +3178,7 @@ A B C D
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - The National Institute of Virology is situated in Pune, Maharashtra.
   - It is part of the Indian Council of Medical Research (ICMR).
   - It was previously known as 'Virus Research Centre' and was founded in collaboration with the Rockefeller Foundation.
@@ -3249,7 +3195,7 @@ A B C D
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - The International Rice Genebank is situated at the International Rice Research Institute (IRRI), which is headquartered in Los Banos, Philippines.
   - The genebank is the biggest collection of rice genetic diversity in the world.
   - It conserves the largest and most diverse collection of rice germplasm.
@@ -3268,7 +3214,7 @@ at :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Rajiv Gandhi Centre for Biotechnology is a research institute, exclusive devoted to research in Molecular Biology and Biotechnology. It is located at Thiruvananthapuram, the capital city of the state of Kerala.
 </details>
 
@@ -3283,7 +3229,7 @@ Camelids?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - United Nations has designated 2024 as the International Year of Camelids, recognizing their pivotal role in the livelihoods of millions, especially among pastoralists in arid and mountainous regions.
 </details>
 
@@ -3298,7 +3244,7 @@ founded?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - The first Dental College of the country was founded in 1920 in Kolkata.
   - Its name was R.
   - Ahmed Dental College.
@@ -3320,7 +3266,7 @@ referred to above is :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (b)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Linus Carl Pauling contributed to the research work in the field of cancer & ascorbic acid (Vitamin C).
   - He has done a huge research in the field of physics, chemistry and biology.
   - In 1954 he was awarded the Nobel Prize in chemistry.
@@ -3337,7 +3283,7 @@ referred to above is :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (d)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Bees are the member of genus Apis.
   - They fly on the average speed of about 15 miles/hour (21 kmph) while their speed in returning with food is approx.
   - 12 miles/hour (17 kmph).
@@ -3354,7 +3300,7 @@ referred to above is :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (a)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - The members of honey-bee hive recognise each other by smell.
   - The honey bee hive has a special odour which helps each other members in identification.
   - Bees communicate the location of food sources to each other through the complex circle and waggle dances.
@@ -3372,7 +3318,7 @@ and the distance to a source of their food?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Waggle dance is a term used in beekeeping and ethology for a particular figure-eight dance of the honey bee.
   - By performing this dance, successful foragers can share information about the direction and distance to a good source of food i.e.
   - patches of flowers yielding nectar and pollen, to water sources, or to new nest-site locations with other members of the colony.
@@ -3388,7 +3334,7 @@ and the distance to a source of their food?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Alcohol, marijuana and opium are depressant substances, while cigarette smoke acts as a stimulant.
 </details>
 
@@ -3404,7 +3350,7 @@ of silica gel :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Silica gel is most commonly encountered in everyday life as beads in a small (typically 2 x 3 cm) paper packet.
   - In this form, it is used as a desiccant to control local humidity to avoid spoilage or degradation of packed goods.
   - Because silica gel can have added chemical indicators and absorbs moisture very well, silica gel packets usually bear warnings for the user not to eat the contents.
@@ -3423,7 +3369,7 @@ given?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - Shanti Swarup Bhatnagar was a well-known Indian scientist, a professor of chemistry and scientific administrator.
   - He was the Founder Director and later the first Director-General of Council of Scientific and Industrial Research (CSIR), and he is revered as the ‘father of research laboratories’.
   - He was also the first Chairman of the University Grants Commission (UGC).To honour his name and achievements, CSIR instituted an award Shanti Swarup Bhatnagar Prize for Science and Technology, since 1958 for outstanding scientists who made significant contributions in various branches of science.
@@ -3440,7 +3386,7 @@ donors eyes is utilized?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (c)
-- **Exam Lock Points & Explanation:**
+- **Must-Score Points & Explanation:**
   - The cornea is the clear, transparent layer in front of the ‘black portion’ of the eye.
   - This part of the eye is used in an eye donation and transplant.
   - It is also the main focusing surface, which converges light rays as they enter the eye to focus on the retina.
@@ -3964,3 +3910,43 @@ D. (A) is false, but (R) is true
 </details>
 
 ---
+
+## Common Traps & Negative-Marking Eliminators
+
+* **Bacterium vs Virus**: Bacteria are living prokaryotes with peptidoglycan walls and ribosomes, killed by antibiotics. Viruses are acellular nucleoproteins (DNA or RNA inside a protein capsid) with no metabolic machinery; **antibiotics are completely ineffective against viruses**.
+* **Synthetic Medium Culturing vs Viruses**: Bacteria and fungi can be cultured on cell-free artificial nutrient media (agar/broth). Viruses cannot be cultured on synthetic media; they require living host cells.
+* **Mycoplasma Trap**: *Mycoplasma* is the smallest organism capable of autonomous growth; it lacks a cell wall and is naturally resistant to penicillin.
+* **The *Haemophilus influenzae* Trap**: Despite its historic name, *Haemophilus influenzae* is a **bacterium** causing purulent pediatric meningitis, acute epiglottitis, and pneumonia (prevented by the Hib vaccine); it does **not** cause Influenza (which is caused by the Influenza virus). Whooping cough is caused by ***Bordetella pertussis***.
+* **Fungi & Mushrooms**: Fungi lack chlorophyll and vascular bundles, possessing chitin walls and glycogen stores. Yeasts, moulds, and mushrooms are fungi. Gucchi (*Morchella*) is a wild, non-cultivable edible Ascomycete fungus of Himalayan conifer forests. Death cap (*Amanita phalloides*) is a lethal poisonous mushroom.
+* **Biological Interactions**:
+  * **Mutualism (+/+)**: Lichens (alga + fungus), Mycorrhiza (fungus + higher plant roots), Fig & Fig wasp (obligate pollination co-evolution), Corals (*Symbiodinium*).
+  * **Commensalism (+/0)**: Barnacles on whales, remora on sharks, cattle egrets with cattle, epiphytic orchids on trees.
+  * **Hyperparasitism**: Parasite of a parasite (Apocrita wasps, Diptera).
+* **Lichens as Bio-indicators**: Lichens do NOT grow in polluted areas; exquisitely sensitive to $SO_2$.
+* **Ecosystem Energetics**: Producers (Trophic Level-I) act as the intermediary between abiotic and biotic components. Primary productivity is measured in $g/m^2/\text{year}$. Chief oceanic primary producers are Diatoms (~45%) and Cyanobacteria; Copepods are primary consumers.
+* **Human Species**: Chinese, American, Indian, and Black African populations all belong to the exact same species: ***Homo sapiens***.
+* **Curd vs Vinegar**: Curd's sour taste is due to **Lactic Acid** fermented by *Lactobacillus*. Vinegar's sour taste is due to **Acetic Acid** fermented by *Acetobacter aceti*.
+* **Biodegradable vs Recyclable**: Wool is a natural protein fibre that decomposes in soil (**biodegradable**). Plastic, glass, and aluminium foil are **non-biodegradable**. Glass and aluminium can be melted down and reformed (**recyclable**), but they will never decompose into organic humus.
+* **DDT & Pesticides**: DDT, BHC (Lindane), and Endosulfan are non-biodegradable chlorinated hydrocarbons that accumulate in body fat and undergo **biomagnification** across trophic levels.
+* **BOD vs COD**: High BOD means high organic pollution and low Dissolved Oxygen ($DO < 4\text{ mg/L}$ kills fish). **COD is always greater than BOD** because COD measures total chemical oxidation of all organics, while BOD measures only biological degradation.
+* **Biogas Components**: Methane ($\mathbf{CH_4}$, **50–70%**) is the primary combustible component, followed by Carbon Dioxide ($\mathbf{CO_2}$, **30–40%**).
+* **Research Institutes Locations**:
+  * CDRI, CIMAP, NBRI, IITR, BSIP, and IISR are all located in **Lucknow**.
+  * IVRI and CARI are at **Izatnagar, Bareilly**.
+  * IIVR is in **Varanasi**; IGFRI is in **Jhansi**; CIRG is in **Mathura**; NSI is in **Kanpur**.
+  * NIV is in **Pune**; NDRI is in **Karnal**; CFTRI is in **Mysuru**; NEERI is in **Nagpur**.
+  * WHO is in **Geneva**; FAO is in **Rome**; UNEP is in **Nairobi**.
+* **Key Science Days**:
+  * **28 February**: National Science Day (Raman Effect discovery in 1928, not Raman's birthday).
+  * **24 March**: World TB Day (Koch's discovery of TB bacillus in 1882).
+  * **7 April**: World Health Day (WHO established in 1948).
+  * **5 June**: World Environment Day (1972 Stockholm Conference).
+  * **26 November**: National Milk Day (Verghese Kurien's birthday).
+  * **1 December**: World AIDS Day.
+* **The Six Seasons (*Shad Ritus*) Order**:
+  1. **Vasanta** (Spring: mid-Feb to mid-Apr, Chaitra–Vaishakha)
+  2. **Grishma** (Summer: mid-Apr to mid-Jun, Jyeshtha–Ashadha; *Zaid* crops)
+  3. **Varsha** (Rains: mid-Jun to mid-Aug, Shravana–Bhadrapada; *Kharif* sowing, mosquitoes)
+  4. **Sharad** (Autumn: mid-Aug to mid-Oct, Ashwina–Kartika; monsoon retreat, "October heat")
+  5. **Hemanta** (Pre-Winter: mid-Oct to mid-Dec, Margashirsha–Pausha; *Rabi* sowing)
+  6. **Shishira** (Winter: mid-Dec to mid-Feb, Magha–Phalguna; peak cold, frost, *Mahawat* winter rains for wheat)

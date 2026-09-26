@@ -14,9 +14,9 @@ Fuel Taxonomy (Solid, Liquid, Gaseous) | Calorific Value Hierarchy (Hydrogen Hig
 
 ---
 
-## Current Affairs & Exam Locks (2024–2026)
+## Current Affairs (2024–2026)
 
-| Year | Exam / Event | Core Concept & Exam Significance |
+| Year | Event | Core Concept & Must-Score Significance |
 |------|--------------|-----------------------------------|
 | **2025–2026** | **National Green Hydrogen Mission** | Targeted green hydrogen production capacity of $5\text{ MMT}$ per annum by 2030. Hydrogen ($H_2$) possesses the **highest gravimetric calorific value of all fuels ($150,000\text{ kJ/kg}$)** and burns to produce pure water ($2H_2 + O_2 \to 2H_2O$) with zero greenhouse gas emissions. |
 | **2025** | **UPPCS Prelims 2025** | Direct question on **Biogas Major Constituents**: Keyed strictly as **Methane ($CH_4$, $55–70\%$) + Carbon Dioxide ($CO_2$, $30–45\%$)**. Distractors like Butane (LPG) and Carbon Monoxide (Water/Producer gas) were eliminated. |
@@ -178,7 +178,7 @@ Fuel Taxonomy (Solid, Liquid, Gaseous) | Calorific Value Hierarchy (Hydrogen Hig
 
 ### Table 1: Master Matrix of Gaseous Fuels (NCERT / Lucent Standard)
 
-| Fuel Gas Name | Principal Chemical Constituents (% by volume) | Manufacturing / Extraction Method | Typical Calorific Value | Key Real-World Applications & Exam Traps |
+| Fuel Gas Name | Principal Chemical Constituents (% by volume) | Manufacturing / Extraction Method | Typical Calorific Value | Key Real-World Applications & Common Traps |
 |---|---|---|---|---|
 | **LPG** | **n-Butane + Isobutane ($\approx 60\%$), Propane ($\approx 40\%$)** | Fractional distillation of crude oil & gas cracking | $\approx 50,000\text{ kJ/kg}$ | Domestic cooking gas cylinders; foul odor given by **ethyl mercaptan ($C_2H_5SH$)**. |
 | **Natural Gas** | **Methane ($CH_4, 85–95\%$)**, Ethane ($C_2H_6, 2–7\%$) | Extracted from deep underground geological wells | $\approx 55,000\text{ kJ/kg}$ | Piped natural gas (PNG) for kitchens, fertilizer plant feedstock, power plants. |
@@ -2965,7 +2965,7 @@ cleaner air in cities.
 
 ## Common Traps & High-Yield Pitfalls
 
-| Trap Area | What Students Confuse | Accurate Exam Fact |
+| Trap Area | What Students Confuse | Correct Fact |
 |---|---|---|
 | **LPG vs. CNG Main Molecule** | Mixing up whether LPG or CNG contains Methane. | **CNG is Methane ($CH_4$)**. **LPG is Butane + Propane**. |
 | **LPG Smell Source** | Believing LPG naturally smells bad. | Pure LPG is **completely odorless**; the foul smell is added **Ethyl Mercaptan ($C_2H_5SH$)**. |

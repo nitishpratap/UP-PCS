@@ -12,6 +12,7 @@ Governor of Uttar Pradesh (उत्तर प्रदेश) | UP Legislative 
 > **Weight:** ★★★ — Panchayat polls = **SEC not ECI** (2023); no “Panchayati Raj Commission of India”; UPPSC functions extended by **UP Legislature** (2021); HQ **Prayagraj**; intermediate tier = **Kshetra Panchayat**
 > **Last verified:** August 2026
 > **Current Affairs:** Women in UP PRIs/ULBs = **50% by State law** (Constitution’s floor is still 1/3). Nagar Nigam count **moves** — mark the **three types**, not a frozen headcount. **Noida / Greater Noida / YEIDA** remain industrial townships, not Nigams
+> **Consolidated UP Special desk:** [UP Special Topic 3 — Polity, Administration & Local Government](../up%20special/03_Polity_Administration_Local_Government.md) (8-chapter UP Special subject)
 
 ---
 

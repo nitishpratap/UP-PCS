@@ -14,9 +14,9 @@ States of Matter (Solid, Liquid, Gas, Plasma, Bose-Einstein Condensate) | Phase 
 
 ---
 
-## Current Affairs & Exam Locks (2024–2026)
+## Current Affairs (2024–2026)
 
-| Year | Exam / Event | Core Concept & Exam Significance |
+| Year | Event | Core Concept & Must-Score Significance |
 |------|--------------|-----------------------------------|
 | **2025–2026** | **Global Desalination & RO Tech** | Mega RO desalination plants in coastal India (Gujarat, Tamil Nadu) utilize **Reverse Osmosis** through thin-film composite polyamide semi-permeable membranes applying hydrostatic pressure $> \Pi$ (osmotic pressure, ~27–30 atm for seawater). |
 | **2024** | **UPPCS Prelims 2024** | Direct question on **Colloidal Classification of Milk**: Identified strictly as an **emulsion** (liquid butterfat droplets dispersed in aqueous liquid phase stabilized by casein protein). Foams, sols, and aerosols were incorrect distractors. |
@@ -131,7 +131,7 @@ States of Matter (Solid, Liquid, Gas, Plasma, Bose-Einstein Condensate) | Phase 
 
 ### Table 2: Industrial & Laboratory Separation Techniques
 
-| Separation Method | Fundamental Operating Principle | Real-World & Industrial Applications | Exam Traps & Key Details |
+| Separation Method | Fundamental Operating Principle | Real-World & Industrial Applications | Common Traps & Key Details |
 |---|---|---|---|
 | **Sublimation** | One component sublimes (solid $\to$ gas) upon gentle heating; other non-volatile residue remains. | Separating camphor, anthracene, naphthalene, iodine, or ammonium chloride ($NH_4Cl$) from salt ($NaCl$) or sand. | Solid crystals condense directly on the cold inverted funnel walls as a "sublimate". |
 | **Simple Distillation** | Difference in boiling points ($\Delta T > 25^\circ\text{C}$) of two stable, non-decomposing miscible liquids. | Separation of acetone (b.p. $56^\circ\text{C}$) from water (b.p. $100^\circ\text{C}$); production of distilled water. | Uses a Liebig condenser; volatile component distills over first. |
@@ -148,7 +148,7 @@ States of Matter (Solid, Liquid, Gas, Plasma, Bose-Einstein Condensate) | Phase 
 
 ### Table 3: Solution Concentration Units & Formulas
 
-| Concentration Parameter | Mathematical Formula | Physical Units | Temperature Dependent? | State Exam Locking Fact |
+| Concentration Parameter | Mathematical Formula | Physical Units | Temperature Dependent? | State Must-Score Fact |
 |---|---|---|---|---|
 | **Molarity ($M$)** | $M = \frac{\text{Moles of solute } (n)}{\text{Volume of solution in Liters } (V)}$ | $\text{mol}\cdot\text{L}^{-1}$ or $\text{M}$ | **YES** (Volume expands with $\uparrow T$) | Molarity decreases as solution temperature rises. |
 | **Molality ($m$)** | $m = \frac{\text{Moles of solute } (n)}{\text{Mass of solvent in kg } (W_{solvent})}$ | $\text{mol}\cdot\text{kg}^{-1}$ or $\text{m}$ | **NO** (Mass is invariant with $\Delta T$) | Preferred for colligative calculations ($\Delta T_b, \Delta T_f$) across thermal gradients. |
@@ -160,7 +160,7 @@ States of Matter (Solid, Liquid, Gas, Plasma, Bose-Einstein Condensate) | Phase 
 
 
 ### Table 3B: Master Classification of True Solution Systems (Solute & Solvent States)
-| Solution Category | Solute State | Solvent State | Real-World & Exam Tested Examples | Key Physical Mechanism |
+| Solution Category | Solute State | Solvent State | Real-World & High-Yield Examples | Key Physical Mechanism |
 | :--- | :--- | :--- | :--- | :--- |
 | **Gaseous Solution** | Gas | Gas | Atmospheric air ($O_2, Ar, CO_2$ dissolved in $N_2$ solvent) | Ideal kinetic gas diffusion |
 | **Gaseous Solution** | Liquid | Gas | Water vapour in air, chloroform vapour in nitrogen | Evaporative vapor equilibrium |
@@ -203,7 +203,7 @@ Matter is characterized by two competing influences: **intermolecular attractive
 #### 4. Latent Heat & Phase Transition Thermodynamics
 - **Latent Heat of Fusion ($L_f$)**: The quantity of heat energy required to convert $1\text{ kg}$ of a solid into a liquid at its melting point under $1\text{ atm}$ of pressure without any increase in temperature. For ice, $L_f \approx 3.34 \times 10^5\text{ J/kg}$ ($80\text{ cal/g}$).
 - **Latent Heat of Vaporization ($L_v$)**: The quantity of heat required to convert $1\text{ kg}$ of a liquid into vapor at its boiling point under $1\text{ atm}$ pressure without any temperature change. For water, $L_v \approx 2.26 \times 10^6\text{ J/kg}$ ($540\text{ cal/g}$).
-- **Exam Lock**: Steam at $100^\circ\text{C}$ causes much more severe burns than boiling water at $100^\circ\text{C}$ because each gram of steam contains an additional **$540\text{ calories}$ ($2260\text{ J}$) of latent heat of vaporization**, which is released directly onto the skin upon condensation.
+- **Must-Score**: Steam at $100^\circ\text{C}$ causes much more severe burns than boiling water at $100^\circ\text{C}$ because each gram of steam contains an additional **$540\text{ calories}$ ($2260\text{ J}$) of latent heat of vaporization**, which is released directly onto the skin upon condensation.
 
 #### 5. Triple Point and Critical Point
 - **Triple Point**: The unique thermodynamic invariant where solid, liquid, and gaseous phases coexist in dynamic equilibrium. For pure water:
@@ -225,7 +225,7 @@ Changes in Matter ───────┤   (e.g., Melting of ice, glowing of b
 - **Physical Changes**: Involve alterations in physical properties (state of matter, density, color appearance, shape) while leaving the intrinsic chemical formula and molecular structure unaltered. Intermolecular forces are broken or formed, but intramolecular covalent/ionic bonds remain intact. Generally reversible by reversing thermodynamic conditions.
 - **Chemical Changes**: Involve the rupture of existing chemical bonds and the formation of new chemical bonds, resulting in new chemical species with distinct electronic configurations, chemical properties, and stoichiometry. Generally irreversible by simple physical manipulation.
 
-#### 2. Key Exam-Tested Phenomena Analyzed
+#### 2. Key High-Yield Phenomena Analyzed
 1. **Rusting of Iron**:
    $$4Fe + 3O_2 + 2xH_2O \to 2Fe_2O_3 \cdot xH_2O\text{ (Hydrated Ferric Oxide)}$$
    - **Nature**: Pure chemical change (electrochemical redox reaction).
@@ -345,7 +345,7 @@ Colligative Properties ───────┤
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Change of water into the vapour is a physical change.
 </details>
 
@@ -360,7 +360,7 @@ Colligative Properties ───────┤
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Pasteurization is the partial sterilization of a product, such as
   - milk, wine or fruit juices to make it safe for consumption and
   - improve its keeping quality. Pasteurization was developed
@@ -401,7 +401,7 @@ explanation of
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - When some impurities are mixed with any liquid, its boiling
   - point increases. On the other hand, the freezing point
   - generally gets lowered below 0o
@@ -421,7 +421,7 @@ explanation of
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - An emulsion is a colloid of two or more immiscible liquids
   - where one liquid contains a dispersion of the other liquids.
   - Milk is an example of an emulsion. It is an example of an
@@ -470,7 +470,7 @@ explanation of
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -485,7 +485,7 @@ explanation of
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Among the given options, honey is not a colloid. At room
   - temperature, honey is a supercooled liquid, in which the
   - glucose precipitates into solid granules. This forms a
@@ -529,7 +529,7 @@ explanation of
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Homogeneous solutions have the same composition and
   - properties throughout the solution. None of the components
   - involved in the homogeneous solution can be detected or
@@ -556,7 +556,7 @@ the following physical quantities will not change?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - If an unsaturated sugar solution is prepared by mixing 100
   - grams of sugar with half liter of water then volume of the
   - solution remain constant.
@@ -575,7 +575,7 @@ comes out due to :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Osmosis is the process when water (or solvent) molecules
   - move from a region (solution) of low concentration to a
   - region (solution) of higher concentration through a semipermeable membrane. When salt is applied to cucumber
@@ -613,7 +613,7 @@ Select the correct answer using the code given below :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - If the semipermeable membrane is placed between the solvent
   - and solution, the solvent molecules will flow through the
   - membrane from pure solvent (lower concentration) to the
@@ -635,7 +635,7 @@ purification of solid impurities?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Distillation is the action of purifying a liquid by a process
   - of heating and cooling. Distillation is generally used for
   - purification of liquid impurities while sublimation and
@@ -657,7 +657,7 @@ naphthalene or dry ice. This phenomenon is called :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Sublimation is the transition of a substance directly from the
   - solid to the gas phase, without passing through the intermediate
   - liquid phase. Substances like camphor, naphthalene or dry ice
@@ -677,7 +677,7 @@ naphthalene or dry ice. This phenomenon is called :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Physical changes usually affect the form of a chemical
   - substance, but not its chemical composition. This fact
   - contrasts with the concept of chemical change in which
@@ -703,7 +703,7 @@ when passed through a prism
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - A change which alters the specific properties of a material
   - by bringing about a change in its molecular composition,
   - followed by a change in state, is called a chemical change.
@@ -733,7 +733,7 @@ Select the correct answer using the code given below.
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - A chemical change is a change in which something new is
   - formed (usually irreversible). The starting materials change
   - into an entirely different substance or substances. This new
@@ -757,7 +757,7 @@ Select the correct answer using the code given below.
 <summary>Show answer</summary>
 
 - **Correct Answer:** (E)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Ripening of fruits, setting of cement and burning of coal-all
   - of these are chemical changes and all are also exothermic. So
   - there is no difference. Hence, option (e) is the correct answer.
@@ -790,7 +790,7 @@ explanation of
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - A chemical reaction generally becomes faster at a higher
   - temperature because at higher temperature, molecular motion
   - becomes more rapid and the molecules have higher kinetic
@@ -814,7 +814,7 @@ of water?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Hydrolysis is the chemical reaction in which ions of a salt
   - dissolved in water, mutually combines with a water molecule
   - to form an acidic or basic solution and the energy produced
@@ -836,7 +836,7 @@ suddenly within specified time
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - In order to pasteurize milk, first, the milk is heated up to a
   - longer time and then cooled suddenly within specified time.
   - Pasteurization is a process invented by French scientist Louis
@@ -859,7 +859,7 @@ suddenly within specified time
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - The Pasteurization is a process that kills microbes (mainly
   - bacteria) in food and drinks such as milk and facilitates its
   - preservation and safety. In this process, the milk is heated
@@ -885,7 +885,7 @@ suddenly within specified time
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Phosphatase test is commonly used for the analysis of milk
   - and dairy products. The alkaline phosphatase (ALP) is an
   - enzyme normally present in raw milk and it is inactivated in
@@ -923,7 +923,7 @@ suddenly within specified time
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - An ideal solution is a homogeneous mixture where the
   - interactions between solute and solvent molecules are
   - identical to those between the pure components. This means
@@ -960,7 +960,7 @@ Chemistry.
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - The amount of solute present per unit volume or per unit mass
   - of the solution/solvent is called 'Concentration of Solution'.
   - The concentration of a solution is the measure of how much
@@ -980,7 +980,7 @@ Chemistry.
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - **Official Answer:** (C)
 </details>
 
@@ -1008,7 +1008,7 @@ Which of the above statements is/are correct?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - When salt is dissolved in pure water, it increases the boiling
   - point and decreases the freezing point of water. While when
   - methyl alcohol is added to water, it decreases the boiling point
@@ -1026,7 +1026,7 @@ Which of the above statements is/are correct?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - The conductivity of a strong electrolyte generally decreases
   - slightly on dilution. Conductivity of an electrolyte solution
   - is directly related to the concentration and mobility of ions
@@ -1054,7 +1054,7 @@ Which of the above statements is/are correct?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - When the water vapour in the air condensed to form small
   - droplets of water, the fog is formed. When the temperature
   - of air during winter season reaches near to dew point, the
@@ -1077,7 +1077,7 @@ process called :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - The plants absorb water from the soil with the help of root
   - hairs through osmosis. The diffusion of water molecules
   - through a semi-permeable membrane is called osmosis.
@@ -1110,7 +1110,7 @@ Which of the statements given above is/are correct?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - In the process of osmosis, the solvent moves through a
   - semi-permeable membrane into a region of higher solute
   - concentration from lower concentration that tends to
@@ -1133,7 +1133,7 @@ Which of the statements given above is/are correct?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Chromatography is a separation technique used to separate
   - the different components in a liquid mixture. The separation
   - is based on differential partitioning between the mobile and
@@ -1154,7 +1154,7 @@ Which of the statements given above is/are correct?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Solid camphor directly changes into camphor vapour and
   - this process is called sublimation. The sublimation is the
   - process in which some substances upon heating directly
@@ -1174,7 +1174,7 @@ Which of the statements given above is/are correct?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -1192,7 +1192,7 @@ by :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Catalytic promoter or accelerators are those substances used
   - to increase the activity of catalysts positively. Reactions that
   - are facilitated by catalysts can be divided into two major
@@ -1234,7 +1234,7 @@ A B C D
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - The oxidation number of any compound is always zero. This
   - means that sum of the oxidation number of all the elements
   - present in the compound is zero. By this rule, we can now
@@ -1275,7 +1275,7 @@ A B C D
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   • Examples of triads of elements are as follows –
   - Element Atomic Weight
   - (Approx.)
@@ -1357,7 +1357,7 @@ SO4
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Exothermic reactions or processes release heat. When
   - quicklime (CaO) reacts with water, it forms calcium
   - hydroxide [Ca(OH)2
@@ -1391,7 +1391,7 @@ solution and aluminium metal
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - A chemical reaction in which a more reactive metal displaces
   - a less reactive metal is called displacement reaction. Copper is
   - more reactive than silver, meaning it has a stronger tendency
@@ -1414,7 +1414,7 @@ solution and aluminium metal
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Gradual decay of metals by air or chemical substances is
   - called corrosion. Rusting on iron i.e. brown coating on iron,
   - green coating on copper and black coating on silver, all these
@@ -1899,7 +1899,7 @@ solution and aluminium metal
 
 ## Common Traps & High-Yield Pitfalls
 
-| Trap Area | What Students Confuse | Accurate Exam Fact |
+| Trap Area | What Students Confuse | Correct Fact |
 |---|---|---|
 | **Milk's Colloid Type** | Confusing milk with a Sol or Foam. | Milk is strictly an **Emulsion** (liquid butterfat droplets dispersed in aqueous liquid phase, stabilized by casein protein). |
 | **Rusting Mass Change** | Thinking an iron nail loses weight because rust flakes off. | Rusting is an oxidation process ($4Fe + 3O_2 + 2xH_2O \to 2Fe_2O_3 \cdot xH_2O$); the total weight of the nail **increases** due to added oxygen and water. |

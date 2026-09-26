@@ -14,15 +14,15 @@ Saponification & Detergent Chemistry (Micelle Dynamics, Hard Water Scum vs Synth
 
 ---
 
-## Current Affairs & Exam Locks (2024–2026)
+## Current Affairs (2024–2026)
 
-| Year | Exam / Event | Core Concept & Exam Significance |
+| Year | Event | Core Concept & Must-Score Significance |
 |------|--------------|-----------------------------------|
 | **2025–2026** | **Nano Urea & Nano DAP Expansion** | IFFCO commercialization of **Nano Urea** ($4\%\text{ N}$ w/v liquid nanoparticles, $20–50\text{ nm}$) and **Nano DAP**: Provides $>80\%$ nutrient uptake efficiency via foliar stomatal absorption, eliminating massive nitrogen leaching into groundwater and cutting conventional bagged urea consumption. |
-| **2024** | **UPPCS Prelims 2024** | Question on **Photography Salt vs Artificial Rain**: Highlighted the recurring exam pair: **Silver Bromide ($AgBr$)** is the light-sensitive photographic emulsion salt, whereas **Silver Iodide ($AgI$)** is the cloud-seeding agent for artificial rain. |
+| **2024** | **UPPCS Prelims 2024** | Question on **Photography Salt vs Artificial Rain**: Highlighted the recurring pair: **Silver Bromide ($AgBr$)** is the light-sensitive photographic emulsion salt, whereas **Silver Iodide ($AgI$)** is the cloud-seeding agent for artificial rain. |
 | **2023** | **UPPCS / UKPCS Trends** | Persistent testing of **DDT (Dichlorodiphenyltrichloroethane)**: Identified strictly as a **non-biodegradable organochlorine pollutant** that undergoes severe trophic biomagnification in food chains (thinning avian eggshells). |
 | **2022** | **UPPCS Prelims 2022** | Re-tested **Crookes Glass**: Keyed as the specialty glass containing Cerium oxide ($CeO_2$) that sharply cuts off and **absorbs ultraviolet (UV) radiation** in sunglasses. Pyrex/Borosilicate was an incorrect distractor. |
-| **2021** | **UPPCS Prelims 2021** | Agricultural Herbicide Lock: Keyed **Sodium Chlorate ($NaClO_3$)** and **2,4-D** as non-selective and selective weedicides/herbicides, respectively. |
+| **2021** | **UPPCS Prelims 2021** | Agricultural Herbicide: Keyed **Sodium Chlorate ($NaClO_3$)** and **2,4-D** as non-selective and selective weedicides/herbicides, respectively. |
 
 ---
 
@@ -140,7 +140,7 @@ Saponification & Detergent Chemistry (Micelle Dynamics, Hard Water Scum vs Synth
 | Confused Pair | Concept A | Concept B | Razor-Sharp Distinguishing Line |
 |---|---|---|---|
 | **Antiseptic vs. Disinfectant** | **Antiseptic**: Applied safely to **living animal/human tissue** (wounds, cuts, skin). Non-toxic to host cells (Dettol, Tincture of Iodine). | **Disinfectant**: Applied exclusively to **inanimate surfaces** (floors, toilets, instruments). Toxic and corrosive to living tissue. | **Living vs. Non-Living Surface**: $0.2\%$ Phenol is an antiseptic for skin; $1.0\%$ Phenol is a disinfectant for hospital floors. |
-| **Silver Bromide vs. Silver Iodide** | **Silver Bromide ($AgBr$)**: Light-sensitive halide used in **traditional photographic film emulsions**. Fixed by hypo. | **Silver Iodide ($AgI$)**: Hexagonal nucleating crystal used in **cloud seeding for artificial rain**. | **Exam Application**: Photography = **Silver Bromide** ($AgBr$); Artificial Rain / Cloud Seeding = **Silver Iodide** ($AgI$). |
+| **Silver Bromide vs. Silver Iodide** | **Silver Bromide ($AgBr$)**: Light-sensitive halide used in **traditional photographic film emulsions**. Fixed by hypo. | **Silver Iodide ($AgI$)**: Hexagonal nucleating crystal used in **cloud seeding for artificial rain**. | **Application**: Photography = **Silver Bromide** ($AgBr$); Artificial Rain / Cloud Seeding = **Silver Iodide** ($AgI$). |
 | **Crookes Glass vs. Pyrex Glass** | **Crookes Glass**: Contains **Cerium Oxide ($CeO_2$)**; designed specifically to **cut off ultraviolet (UV) radiation** in sunglasses. | **Pyrex Glass**: Contains **Boron Trioxide ($B_2O_3$)**; designed for **low thermal expansion and high thermal shock resistance**. | **Functional Objective**: Crookes is for UV protection; Pyrex is for thermal shock and laboratory heat resistance. |
 | **Soap vs. Synthetic Detergent** | **Soap**: Sodium/potassium salt of **fatty acids**. Precipitates insoluble scum in hard water ($Ca^{2+}, Mg^{2+}$). Biodegradable. | **Detergent**: Sodium salt of **alkylbenzene sulphonates**. Forms soluble calcium salts; cleans effectively in **hard water**. | **Hard Water Performance**: Soaps fail and waste away in hard water; Detergents lather and clean effectively in both hard and soft water. |
 | **Urea vs. DAP** | **Urea ($NH_2CONH_2$)**: Pure nitrogenous fertilizer containing **$46\%\text{ Nitrogen (N)}$** and $0\%\text{ P}$. | **DAP (Diammonium Phosphate)**: Complex fertilizer containing **$18\%\text{ Nitrogen (N)}$ and $46\%\text{ Phosphorus (P}_2\text{O}_5\text{)}$**. | **Nutrient Content**: Urea supplies solely Nitrogen ($46\%$); DAP supplies both Nitrogen ($18\%$) and high Phosphorus ($46\%$). |
@@ -154,7 +154,7 @@ Saponification & Detergent Chemistry (Micelle Dynamics, Hard Water Scum vs Synth
 
 ### Table 1: Master Classification of Industrial Glasses & Optical Formulations
 
-| Glass Variety Name | Fundamental Chemical Composition | Distinctive Physical / Optical Property | Primary Real-World & Exam Applications |
+| Glass Variety Name | Fundamental Chemical Composition | Distinctive Physical / Optical Property | Primary Real-World & Applications |
 |---|---|---|---|
 | **Soda-Lime Glass (Soft Glass)** | $Na_2O \cdot CaO \cdot 6SiO_2$ ($\approx 75\% SiO_2, 15\% Na_2O, 10\% CaO$) | Low melting point, easily blown and molded | Domestic window panes, beverage bottles, glass tumblers, tableware |
 | **Potash Glass (Hard Glass)** | $K_2O \cdot CaO \cdot 6SiO_2$ | High softening temperature, chemical resistance | Laboratory combustion tubes, chemical reaction vessels |
@@ -168,7 +168,7 @@ Saponification & Detergent Chemistry (Micelle Dynamics, Hard Water Scum vs Synth
 
 ### Table 2: Master Commercial Fertilizer Matrix (NCERT / ICAR Standard)
 
-| Fertilizer Name | Primary Chemical Formula | Nutrient Content (% by weight) | Chemical Reaction in Soil | Special Agronomic Locks & Notes |
+| Fertilizer Name | Primary Chemical Formula | Nutrient Content (% by weight) | Chemical Reaction in Soil | Special Agronomic Facts & Notes |
 |---|---|---|---|---|
 | **Urea** | **$NH_2CONH_2$** | **$46\%\text{ Nitrogen (N)}$** | Slightly acidic over long periods | Most widely used fertilizer in India; 100% produced as **Neem-Coated Urea**. |
 | **Ammonium Sulphate** | $(NH_4)_2SO_4$ | $21\%\text{ N}, 24\%\text{ S}$ | Strongly Acidic | Ideal for waterlogged paddy (rice) crops; supplies essential sulphur. |
@@ -1793,7 +1793,7 @@ nothing is added to the milk.
 
 ## Common Traps & High-Yield Pitfalls
 
-| Trap Area | What Students Confuse | Accurate Exam Fact |
+| Trap Area | What Students Confuse | Correct Fact |
 |---|---|---|
 | **Photography vs. Artificial Rain** | Mixing up Silver Bromide and Silver Iodide. | **Silver Bromide ($AgBr$) = Photography**. **Silver Iodide ($AgI$) = Cloud Seeding / Artificial Rain**. |
 | **Urea Nitrogen Percentage** | Guessing 20% or 60% for urea. | Urea contains strictly **$46\%\text{ Nitrogen (N)}$** (highest of all solid fertilizers). |

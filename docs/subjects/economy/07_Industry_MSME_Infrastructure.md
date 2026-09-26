@@ -10,13 +10,14 @@ Industrialisation and industrial policy | MSME / cottage / SSI | Make in India, 
 
 > **Sources baked in:** NCERT Class 11–12 industry / infrastructure basics, MSME Gazette 2020, Make in India / Gati Shakti notes, UPPCS Prelims PYQs, UKPCS Prelims
 > **Weight:** ★★★ High — Make in India 2014, Gati Shakti date vs seven engines, MSME 2020 classification, and SSI committee order decide stems
-> **Last verified:** September 2026
+> **Last verified:** September 2026 — Lucent remodel (History/Polity section order); Extra Drill rebuilt from mixed stems
 
 Full BoP / FPI depth stays in **Topic 9**. Regulator name-lists deepen in **Topic 11**. This chapter owns manufacturing policy, MSME, PSUs / disinvestment, major industries and economic infrastructure.
 
 ---
 
 ## Current Affairs
+
 
 | Year | Fact | Why it matters |
 |------|------|----------------|
@@ -29,6 +30,7 @@ Full BoP / FPI depth stays in **Topic 9**. Regulator name-lists deepen in **Topi
 ---
 
 ## Consolidated — 42 Must-Score Facts
+
 
 1. The **secondary sector** covers manufacturing, electricity, gas, water and construction in national-accounts teaching.
 2. **Industrialisation** raises manufacturing’s share of output and employment and deepens capital goods capacity.
@@ -77,6 +79,7 @@ Full BoP / FPI depth stays in **Topic 9**. Regulator name-lists deepen in **Topi
 
 ## Confused Pairs
 
+
 | A | B | Distinguishing fact |
 |---|---|---|
 | **Make in India 2014** | **Gati Shakti 2021** | Manufacturing mission vs infra master plan |
@@ -91,6 +94,7 @@ Full BoP / FPI depth stays in **Topic 9**. Regulator name-lists deepen in **Topi
 | **Seven engines** | **Sixteen ministries on GIS** | Engine list vs portal integration count |
 
 ## Must-score drill — missions and MSME
+
 
 | Item | Tag |
 |---|---|
@@ -107,6 +111,7 @@ Full BoP / FPI depth stays in **Topic 9**. Regulator name-lists deepen in **Topi
 ---
 
 ## 7.1 Industrial structure and MSME
+
 
 **Industry** covers mining, manufacturing and electricity in the secondary-sector teaching map; manufacturing is the core policy focus of industrialisation.
 
@@ -146,10 +151,10 @@ D. 2020
 
 Arrange the following Committees formed for small scale sector in a chronological order and select the correct answer from the codes given below.
 
-I. Nayak Committee  
-II. Abid Hussain Committee  
-III. S.S. Kohli Committee  
-IV. Karve Committee  
+I. Nayak Committee
+II. Abid Hussain Committee
+III. S.S. Kohli Committee
+IV. Karve Committee
 
 A. I, II, IV, III
 B. III, II, I, IV
@@ -168,6 +173,7 @@ D. I, II, III, IV
 ---
 
 ## 7.2 Industrial policy — Make in India, startups, corridors
+
 
 **Industrial policy** steers manufacturing capacity, investment climate and spatial clusters.
 
@@ -214,6 +220,7 @@ D. Only 2
 ---
 
 ## 7.3 PSU, disinvestment and FDI (industry angle)
+
 
 **Public Sector Undertakings (PSUs)** are government-owned enterprises in strategic and commercial sectors.
 
@@ -273,6 +280,7 @@ D. Automobile sector
 
 ## 7.4 Infrastructure and PM Gati Shakti
 
+
 **Economic infrastructure** connects production and markets — transport, energy, logistics, digital and social infrastructure.
 
 - Roads, railways, ports, airports, inland waterways and warehousing form the logistics spine.
@@ -315,7 +323,15 @@ D. Neither 1 nor 2
 
 ## Complete PYQ Bank (UPPCS)
 
+
 **Q1. UPPCS (Pre) 2022** — Make in India
+
+Which of the following statement(s) is/are correct about the 'Make in India' Programme?
+
+1. The 'Make in India' Programme was launched in the year 2014.
+2. It aims at encouraging companies for manufacturing in India and facilitating investment.
+
+Select the correct answer from the codes given below:
 
 A. Both 1 and 2
 B. Only 1
@@ -333,6 +349,13 @@ D. Only 2
 
 **Q2. UPPCS (Pre) 2023** — PM Gati Shakti
 
+With reference to PM Gati Shakti Scheme, which of the following statements is/are correct?
+
+1. PM Gati Shakti National Master Plan was launched in 2022.
+2. It integrates seven engines including roads, railways, airports, ports, mass transport, waterways and logistics infrastructure.
+
+Select the correct answer from the codes given below:
+
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -348,6 +371,13 @@ D. Neither 1 nor 2
 </details>
 
 **Q3. UPPCS (Pre) 2019** — SSI committees chronology
+
+Arrange the following Committees formed for small scale sector in a chronological order and select the correct answer from the codes given below.
+
+I. Nayak Committee
+II. Abid Hussain Committee
+III. S.S. Kohli Committee
+IV. Karve Committee
 
 A. I, II, IV, III
 B. III, II, I, IV
@@ -365,6 +395,14 @@ D. I, II, III, IV
 
 **Q4. UPPCS (Pre) 2024** — Singapore FDI A/R
 
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): During 2023-24, Singapore emerged as the largest source of FDI to India.
+
+Reason (R): The India-Mauritius Tax Treaty amendment has brought a major shift in countries as major sources of FDI to India.
+
+Select the correct answer from the codes given below:
+
 A. Both true, R does not explain A
 B. A false, R true
 C. Both true and R explains A
@@ -381,9 +419,18 @@ D. A true, R false
 
 ---
 
-## Complete PYQ Bank (UKPCS)
+## Ghatnachakra Extra Drill — Industry, MSME and Infrastructure
+
+> Extra Drill rebuilt from mixed RO/ARO–coaching stems (paste full Ghatnachakra Purvalokan later to expand).
+
+UPPCS-tagged stems live in **Complete PYQ Bank (UPPCS)** above. UKPCS-tagged stems live in **UKPCS** below. Use Practice Zone for fresh multi-statement drills.
+
+## UKPCS
+
 
 **Q1. UKPCS (Pre) 2021** — Latest MSME classification year
+
+In which of the following year, the latest classification of MSME was done?
 
 A. 2012
 B. 2014
@@ -400,6 +447,8 @@ D. 2020
 </details>
 
 **Q2. UKPCS (Pre) 2016** — Highest FDI equity sector
+
+Which sector in India attracts the highest FDI equity flow?
 
 A. Construction
 B. Energy
@@ -418,6 +467,7 @@ D. Automobile
 ---
 
 ## Practice Zone
+
 
 **Q1.** With reference to MSME (2020 definition), which of the following statements is/are correct?
 
@@ -969,6 +1019,7 @@ D. Only CPI Combined compilation
 ---
 
 ## Common Traps
+
 
 * **Make in India = 2014**; **Gati Shakti = 2021** (not 2022) + **seven engines**.
 * MSME new definition **2020** — investment **and** turnover; mfg = services.

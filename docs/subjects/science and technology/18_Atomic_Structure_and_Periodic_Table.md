@@ -4,7 +4,7 @@
 
 ---
 
-## Current Affairs & Exam Locks (2024–2026 Focus)
+## Current Affairs (2024–2026 Focus)
 
 - **IUPAC Superheavy Elements & Island of Stability:** Synthesizing superheavy transactinide elements in the 7th period: **Nihonium ($Z=113$, Nh)**, **Moscovium ($Z=115$, Mc)**, **Tennessine ($Z=117$, Ts)**, and **Oganesson ($Z=118$, Og)**. Research targeting $Z=119$ (Ununennium) and $Z=120$ in the hypothetical 8th period to confirm Glenn Seaborg's predicted 'Island of Stability' ($Z=114, N=184$).
 - **Rare Earth Elements (REEs) & Critical Minerals Mission:** India's Ministry of Mines identified **30 critical minerals** (including Lithium, Cobalt, Nickel, and the 17 Rare Earth Elements: 15 Lanthanides + Scandium + Yttrium). IREL operating monazite processing facilities in Odisha and Kerala; geological discoveries of Lithium reserves in Reasi (Jammu & Kashmir) and Degana (Nagaur, Rajasthan).
@@ -160,7 +160,7 @@
 
 ## Confused Pairs
 
-| Concept A | Concept B | Razor-Sharp Distinguishing Criteria & Exam Traps |
+| Concept A | Concept B | Razor-Sharp Distinguishing Criteria & Common Traps |
 | :--- | :--- | :--- |
 | **Electron Affinity** | **Electronegativity** | Electron affinity is an **absolute thermodynamic energy released** when an electron is added to an isolated neutral gaseous atom ($X + e^- \\to X^-$; unit: $\\text{kJ/mol}$). Electronegativity is a **relative qualitative tendency** of a bonded atom to attract shared electron pairs in a chemical bond (dimensionless Pauling scale). Highest EA = **Chlorine**; Highest EN = **Fluorine**. |
 | **Atomic Number ($Z$)** | **Mass Number ($A$)** | Atomic number ($Z$) equals the **number of protons** in the nucleus (defines the element; integer without units). Mass number ($A$) equals total count of nucleons (**protons + neutrons**). Atoms with same $Z$ and different $A$ are **Isotopes**; atoms with same $A$ and different $Z$ are **Isobars**. |
@@ -205,16 +205,16 @@
 ---
 
 
-### Table 2B: Alpha ($lpha$), Beta ($eta$) and Gamma ($\gamma$) Radiation Master Comparison
-| Parameter / Property | $lpha$-Particles | $eta$-Particles | $\gamma$-Rays |
+### Table 2B: Alpha ($\alpha$), Beta ($\beta$) and Gamma ($\gamma$) Radiation Master Comparison
+| Parameter / Property | $\alpha$-Particles | $\beta$-Particles | $\gamma$-Rays |
 | :--- | :--- | :--- | :--- |
-| **Nature** | Helium nuclei ($^4_2He^{2+}$, $lpha^{2+}$) | High-speed electrons ($eta^-$) or positrons ($eta^+$) | High-energy electromagnetic photons |
-| **Charge** | $+2$ units ($+3.204 \times 10^{-19}\text{ C}$) | $-1$ unit (for $eta^-$) or $+1$ unit (for $eta^+$) | Neutral ($0$ charge) |
+| **Nature** | Helium nuclei ($^4_2He^{2+}$, $\alpha^{2+}$) | High-speed electrons ($\beta^-$) or positrons ($\beta^+$) | High-energy electromagnetic photons |
+| **Charge** | $+2$ units ($+3.204 \times 10^{-19}\text{ C}$) | $-1$ unit (for $\beta^-$) or $+1$ unit (for $\beta^+$) | Neutral ($0$ charge) |
 | **Rest Mass** | $\approx 4\text{ amu}$ ($6.64 \times 10^{-27}\text{ kg}$) | $0.0005486\text{ amu}$ ($9.11 \times 10^{-31}\text{ kg}$) | Zero rest mass ($m_0 = 0$) |
 | **Velocity** | $\approx 1/10\text{th}$ velocity of light ($c/10$) | Up to $\approx 99\%$ velocity of light ($\sim c$) | Exactly velocity of light ($c = 3 \times 10^8\text{ m/s}$) |
 | **Penetrating Power** | Very low (stopped by $0.002\text{ cm}$ Al or sheet of paper) | Moderate (can penetrate $\approx 0.5\text{ cm}$ Al sheet) | Extremely high (penetrates $> 5\text{ cm}$ lead or Al sheet) |
-| **Ionizing Power** | Extremely high (maximum ionization) | Moderate ($100\times$ less than $lpha$-rays) | Very weak ($100\times$ less than $eta$, $10,000\times$ less than $lpha$) |
-| **Deflection in Fields** | Deflected towards negative electric plate & in magnetic field | Deflected towards positive plate ($eta^-$) & in magnetic field | Completely undeflected in electric & magnetic fields |
+| **Ionizing Power** | Extremely high (maximum ionization) | Moderate ($100\times$ less than $\alpha$-rays) | Very weak ($100\times$ less than $\beta$, $10,000\times$ less than $\alpha$) |
+| **Deflection in Fields** | Deflected towards negative electric plate & in magnetic field | Deflected towards positive plate ($\beta^-$) & in magnetic field | Completely undeflected in electric & magnetic fields |
 | **Detection Method** | Geiger-Müller counter, Wilson cloud chamber | Geiger counter, scintillation counter | Scintillation counter, GM counter, semiconductor detector |
 
 > [!IMPORTANT]
@@ -261,7 +261,7 @@
 
 ### Table 4: Elemental Abundance in Earth's Crust vs Human Body
 
-| Rank | Earth's Crust Element | Crust Percentage | Human Body Element | Body Percentage | High-Yield Exam Takeaway |
+| Rank | Earth's Crust Element | Crust Percentage | Human Body Element | Body Percentage | Must-Score Takeaway |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **1** | **Oxygen (O)** | **$46.6\\%$** | **Oxygen (O)** | **$65.0\\%$** | **Most abundant element in both Crust and Body**. |
 | **2** | **Silicon (Si)** | **$27.7\\%$** | **Carbon (C)** | **$18.5\\%$** | Silicon dominates mineral crust; Carbon dominates organic life. |
@@ -372,7 +372,7 @@ See the explanation of above question.
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - The constituents of an atom are protons, neutrons and
   - electrons. The protons and neutrons (nucleons) are found in
   - the nucleus of atoms. The nucleus of an atom is surrounded
@@ -406,7 +406,7 @@ Code :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - (I) Discovery of pi meson – 1947 (by Cecil Powell)
   - (II) Discovery of neutron – 1932 (by James Chadwick)
   - (III) Discovery of electron – 1897 (by J.J. Thomson)
@@ -431,7 +431,7 @@ Code :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Neutron is a neutral particle which has no electrical charge.
   - It was discovered by Chadwick in 1932. He discovered that
   - when Beryllium (Be) or other atoms are bombarded with high
@@ -451,7 +451,7 @@ Code :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - The particles that are smaller than the atoms are called subatomic particles. The three main sub-atomic particles that
   - form an atom are protons, neutrons and electrons. Deuteron
   - contains a proton and a neutron.
@@ -468,7 +468,7 @@ Code :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - The positron or antielectron is the antiparticle or the
   - antimatter counterpart of the electron. The positron has an
   - positive electric charge and has the same mass as an electron.
@@ -485,7 +485,7 @@ Code :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - In particle physics, an elementary particle or fundamental
   - particle is a subatomic particle with no sub-structure, thus not
   - composed of other particles. Particles currently thought to be
@@ -504,7 +504,7 @@ Code :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - The Higgs Boson is an elementary particle in the standard
   - model of particle physics. The hypothesis of its existence
   - was given in 1964 but practically it was proved on March
@@ -525,7 +525,7 @@ Code :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - A neutrino is a subatomic particle that is very similar to an
   - electron, but has no electrical charge and a very small mass,
   - which might even be zero. Neutrinos are one of the most
@@ -547,7 +547,7 @@ the number of neutrons is different, are known as –
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - The Isotopes are a set of nuclides/atoms having the same
   - number of protons, but a different number of neutrons. In
   - other words, the same atomic number (Z) but having different
@@ -581,7 +581,7 @@ Code :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Statement 1 is correct. Atoms of the same element having
   - the same atomic number (number of protons) but different
   - mass number (due to different number of neutrons) are called
@@ -611,7 +611,7 @@ Code :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -626,7 +626,7 @@ Code :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - The Geiger–Muller Counter also called a Geiger Counter, is
   - an instrument used for detection and measurement of ionizing
   - radiation. It detects radiation such as alpha particles, beta
@@ -645,7 +645,7 @@ Code :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Radioactivity was discovered in 1896 by the French Scientist
   - Henri Becquerel when he was working with phosphorescent
   - materials.
@@ -664,7 +664,7 @@ the Universe?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - The most abundant element in the Universe is Hydrogen,
   - which makes up about 3/4 of all matter. Helium makes up
   - most of the remaining 1/4. Thus, it is clear that hydrogen is
@@ -684,7 +684,7 @@ the Universe?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Chemically diamond is the purest form of Carbon (crystal
   - structure). Hence, it is a fundamental element. Sand is
   - basically made up of Silicon and Oxygen, Marble is made
@@ -705,7 +705,7 @@ the Universe?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -723,7 +723,7 @@ the Universe?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - French nobleman and chemist Antoine Lavoisier is regarded
   - as the 'Father of Modern Chemistry'. Lavoisier is most noted
   - for his discovery of the role oxygen plays in combustion. He
@@ -751,7 +751,7 @@ the Universe?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - John Dalton's atomic theory states that all matter is made of
   - atoms, which are indivisible particles. Dalton's theory was
   - based on experiments and observations of gases. Postulates
@@ -784,7 +784,7 @@ structure of an atom ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - J.J. Thomson was the first scientist to propose a model for
   - the structure of an atom, suggesting a positively charged
   - sphere with negatively charged electrons embedded within
@@ -816,7 +816,7 @@ is called as :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - The positively charged part at the centre of an atom is called
   - as nucleus. The atomic nucleus is the small, dense region
   - consisting of proton and neutron at the centre of an atom.
@@ -834,7 +834,7 @@ is called as :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -858,7 +858,7 @@ in carbon dating, etc.
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - An atom consists of a positively charged nucleus, surrounded
   - by one or more negatively charged particles called electrons.
   - The atomic nucleus consists of protons and neutrons while
@@ -887,7 +887,7 @@ revolve around the nucleus.
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - **Official Answer:** (C)
 </details>
 
@@ -902,7 +902,7 @@ revolve around the nucleus.
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Proton, electron and neutron are part of an atom, but the
   - photon is associated with light energy and also known as
   - energy packet of light.
@@ -919,7 +919,7 @@ revolve around the nucleus.
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Native element is a material that consists of a single type
   - of atom, while a compound consists of two or more types
   - of atoms.
@@ -936,7 +936,7 @@ revolve around the nucleus.
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - The nucleus is a very dense region consisting of protons and
   - neutrons at the centre of an atom. It was discovered in 1911
   - as a result of Ernest Rutherford’s interpretation of the 1909
@@ -971,7 +971,7 @@ A B C D
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - The positron has a positive electric charge (+1e) and
   - has the same mass and a spin of 1/2 as an electron.
   - Neutrinos are sub-atomic particles produced by the decay
@@ -1000,7 +1000,7 @@ A B C D
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - The Higgs Boson is the fundamental force-carrying particle
   - associated with the Higgs field, a field that gives mass to other
   - fundamental particles such as eletrons and quarks. In the
@@ -1022,7 +1022,7 @@ A B C D
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -1061,7 +1061,7 @@ Select the corrent answer using the codes given below:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - The Higgs boson is the fundamental force-carrying particle
   - of the Higgs field, which is responsible for granting other
   - particles their mass. The study of this field is important
@@ -1082,7 +1082,7 @@ Select the corrent answer using the codes given below:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Among the given particles neutron is free of charge. α (alpha)
   - particle (+2ve) and proton (+ve) are positive charged particles
   - while electron (–ve) carries negative charge.
@@ -1103,7 +1103,7 @@ positive charge
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - An alpha particle is a fast moving particle containing two
   - protons and two neutrons (a helium nucleus). Its mass is equal
   - to that of helium atom's nucleus. Alpha particles carry a charge
@@ -1121,7 +1121,7 @@ positive charge
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -1139,7 +1139,7 @@ neutrons?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - The atomic no. of Hydrogen is 1. The Protium (1
   - H1
   - ) isotope
@@ -1162,7 +1162,7 @@ neutrons?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Alpha rays or Alpha particles (α) are the positively charged
   - particles. Beta particles (β) are highly energetic electrons or
   - positrons which are released from inner part of a nucleus.
@@ -1189,7 +1189,7 @@ particle emitted by a radioactive element?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Alpha rays or Alpha particles (α) are the positively charged
   - particles emitted by a radioactive element. These are nuclei
   - of helium (2
@@ -1210,7 +1210,7 @@ governed by –
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - The Aufbau principle is used to determine the electron
   - configuration of an atom, molecule or ion. The principle
   - postulates a hypothetical process in which an atom is 'built
@@ -1235,7 +1235,7 @@ magnetic quantum number refers to –
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - In atomic physics, the magnetic quantum number is the
   - third set of quantum numbers (principal quantum number,
   - azimuthal quantum number, magnetic quantum number
@@ -1265,7 +1265,7 @@ is 18 and 20 respectively. Its mass number is
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Given that,
   - number of neutrons = 20
   - & number of electrons = 18
@@ -1287,7 +1287,7 @@ contains two protons, two neutrons and two electrons?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - The mass number of an element is the sum of a total number
   - of protons and neutrons inside in its nucleus and represents by
   - A. Therefore, mass number A= number of protons + number
@@ -1306,7 +1306,7 @@ contains two protons, two neutrons and two electrons?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -1324,7 +1324,7 @@ nuclide (94Pu242) is :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - The number of neutrons in the nucleus of plutonium nuclide
   - (94Pu242) is 242 – 94 = 148. Because in 94Pu242,
   - Number of protons = 94, and
@@ -1343,7 +1343,7 @@ nuclide (94Pu242) is :
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -1362,7 +1362,7 @@ different
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -1405,7 +1405,7 @@ O16
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Two nuclides are isoneutronic (isotones) if they have the
   - very same neutron number N, but different proton number Z.
   - For example, Boron-12 and Carbon-13 nuclei both contain
@@ -1435,7 +1435,7 @@ Elements to celebrate its completion of how many years?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - UNESCO inaugurated the celebration of 2019 as the
   - International Year of the Periodic Table of Chemical Elements
   - to celebrate its completion of 150 years. The year 2019
@@ -1473,7 +1473,7 @@ the correct explanation of
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - In the periodic table of chemical elements, the electron
   - affinity decreases down the group but increases up for the
   - group and from left to right across periods of a periodic table
@@ -1514,7 +1514,7 @@ Which of these statement (s) is/are correct ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - The ionization energies are dependent upon the atomic radius.
   - Since going from left to right across a period in the periodic
   - table, the atomic radius decreases and the ionization potential
@@ -1539,7 +1539,7 @@ Which of these statement (s) is/are correct ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - The usual property of oxides of Group 3 and 4 of the periodic
   - table are basic and acidic. These oxides are amphoteric (able
   - to react both as a base and as an acid).
@@ -1570,7 +1570,7 @@ A B C D
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - The correctly matched lists are as follows :
   - Elements Valency
   - Silicon – 4
@@ -1591,7 +1591,7 @@ A B C D
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - The element found the maximum in the soil layer or Earth's
   - crust as mass percentage (about) is Oxygen 46.60% followed
   - by Silicon 27.72%, Aluminium 8.13%, Iron 5.00% , Calcium
@@ -1611,7 +1611,7 @@ amount in terms of percent by mass in the Earth's crust?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -1626,7 +1626,7 @@ amount in terms of percent by mass in the Earth's crust?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - The most abundant element on Earth's surface after Oxygen
   - is Silicon. It was discovered by J.J. Berzelius in 1824. The
   - word 'Silicon' was taken from the Latin word silex. Silicon
@@ -1646,7 +1646,7 @@ exist on the Earth?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (*)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - A chemical element is a substance which consists of atoms
   - having the same number of protons in their atomic nuclei.
   - There are 118 elements that have been identified till date.
@@ -1672,7 +1672,7 @@ exist on the Earth?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Elements of the periodic table are grouped as metals,
   - metalloids (or semimetals) and nonmetals. Some Gases
   - (hydrogen, helium, nitrogen, oxygen, fluorine, neon, chlorine,
@@ -1693,7 +1693,7 @@ artificially?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Technetium (Tc) is a chemical element with atomic number
   - 43. It is a radioactive, silvery-gray transition metal. It is the
   - first artificially created element.Technetium was isolated by
@@ -1713,7 +1713,7 @@ element ?
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - See the explanation of above question.
 </details>
 
@@ -1735,7 +1735,7 @@ Select the correct answer using the code given below:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A) 1 and 2 only
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Statements 1 and 2 are correct.
   - Statement 3 is incorrect: The nucleus ($10^{-15}\text{ m}$) occupies only $\approx 10^{-15}$ of the atomic volume ($10^{-10}\text{ m}$); the vast majority of an atom is empty space.
 </details>
@@ -1754,7 +1754,7 @@ Select the correct answer:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Chlorine's larger $3p$ orbital accommodates an extra electron with minimal repulsion, releasing more energy ($-349\text{ kJ/mol}$) than Fluorine ($-328\text{ kJ/mol}$).
 </details>
 
@@ -1777,7 +1777,7 @@ Select the correct code:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A) A-2, B-3, C-1, D-4
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Newlands $\to$ Octaves; Moseley $\to$ Modern Law ($Z$); Rutherford $\to$ Nucleus; Heisenberg $\to$ Uncertainty.
 </details>
 
@@ -1796,7 +1796,7 @@ Select the correct answer using the code given below:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A) 1 and 2 only
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Statements 1 and 2 are correct.
   - Statement 3 is incorrect: Metallic character **decreases** across a period as elements transition from electropositive metals to electronegative non-metals.
 </details>
@@ -1811,7 +1811,7 @@ Select the correct answer using the code given below:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D) Gallium — Gas at room temperature
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Gallium is a solid metal at room temperature with a low melting point ($29.7^\circ\text{C}$), melting in the palm of a hand into liquid. It is not a gas.
 </details>
 
@@ -1831,7 +1831,7 @@ Select the correct code:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A) $2 > 3 > 4 > 1$
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Oxygen ($46.6\%$) > Silicon ($27.7\%$) > Aluminum ($8.1\%$) > Iron ($5.0\%$).
 </details>
 
@@ -1845,7 +1845,7 @@ Select the correct code:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (D) Group 18
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Group 18 contains the Noble Gases ($He, Ne, Ar, Kr, Xe, Rn, Og$).
 </details>
 
@@ -1863,7 +1863,7 @@ Select the correct answer:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Nitrogen's stable $2p^3$ half-filled subshell requires more energy ($1402\text{ kJ/mol}$) than Oxygen's $2p^4$ configuration ($1314\text{ kJ/mol}$).
 </details>
 
@@ -1877,7 +1877,7 @@ Select the correct answer:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C) 10
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - A $d$-subshell has $l = 2$, yielding $2l + 1 = 5$ degenerate orbitals. Each holds 2 electrons, for a maximum of **10 electrons**.
 </details>
 
@@ -1891,7 +1891,7 @@ Select the correct answer:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C) Oxygen
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Oxygen accounts for $\approx 65\%$ of body mass, followed by Carbon ($18.5\%$) and Hydrogen ($9.5\%$).
 </details>
 
@@ -1914,7 +1914,7 @@ Select the correct code:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A) A-2, B-3, C-1, D-4
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Alkali metal $\to$ Sodium; Halogen $\to$ Chlorine; Metalloid $\to$ Silicon; Noble gas $\to$ Argon.
 </details>
 
@@ -1928,7 +1928,7 @@ Select the correct code:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C) Highest electron affinity — Fluorine
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - **Chlorine** has the highest electron affinity ($-349\text{ kJ/mol}$), not Fluorine.
 </details>
 
@@ -1942,7 +1942,7 @@ Select the correct code:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B) The main energy level and size of the orbital
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Principal quantum number $n$ defines the primary energy shell and orbital radius.
 </details>
 
@@ -1960,7 +1960,7 @@ Select the correct answer:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Poor shielding by intervening $4f$ electrons draws the $5d$ valence electrons inward, equalizing $Zr$ ($1.60\text{ \AA}$) and $Hf$ ($1.59\text{ \AA}$).
 </details>
 
@@ -1974,7 +1974,7 @@ Select the correct answer:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B) Lithium and Magnesium
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Lithium and Magnesium exhibit diagonal similarity due to comparable charge-to-radius ratios.
 </details>
 
@@ -1988,7 +1988,7 @@ Select the correct answer:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C) 7
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Halogens possess the valence shell configuration $ns^2 np^5$, totaling **7 valence electrons**.
 </details>
 
@@ -2002,7 +2002,7 @@ Select the correct answer:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B) Nitrogen
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Nitrogen constitutes $\approx 78.08\%$ of the atmosphere by volume.
 </details>
 
@@ -2016,7 +2016,7 @@ Select the correct answer:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B) Copper
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Copper ($Z=29$) has an anomalous fully filled $3d^{10} 4s^1$ configuration for extra stability.
 </details>
 
@@ -2030,7 +2030,7 @@ Select the correct answer:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B) $+1$
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Alkali metals readily lose their single $ns^1$ valence electron to attain noble gas configurations, exhibiting an invariant oxidation state of **$+1$**.
 </details>
 
@@ -2048,7 +2048,7 @@ Select the correct answer:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Zero thermal agitation at $0\text{ K}$ means zero free electron-hole carrier pairs, making conductivity strictly zero.
 </details>
 
@@ -2062,7 +2062,7 @@ Select the correct answer:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C) Cesium
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Electropositivity increases down Group 1. Cesium ($Cs$) has the lowest ionization enthalpy ($376\text{ kJ/mol}$) and highest electropositivity among stable elements.
 </details>
 
@@ -2076,7 +2076,7 @@ Select the correct answer:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B) Graphite
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Standard enthalpy of formation $\Delta H_f^\circ$ of **Graphite is defined as zero**; it is the most thermodynamically stable carbon allotrope. Diamond is metastable at standard conditions.
 </details>
 
@@ -2090,7 +2090,7 @@ Select the correct answer:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C) Group 16 — Halogens
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Group 16 elements are **Chalcogens** (oxygen family). Group 17 elements are Halogens.
 </details>
 
@@ -2104,7 +2104,7 @@ Select the correct answer:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (B) Periods
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Horizontal rows are **Periods** (7 total); vertical columns are **Groups** (18 total).
 </details>
 
@@ -2118,7 +2118,7 @@ Select the correct answer:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (C) Proton
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Protons carry $+1.602 \times 10^{-19}\text{ C}$; electrons carry negative charge; neutrons and photons carry zero charge.
 </details>
 
@@ -2136,7 +2136,7 @@ Select the correct answer:
 <summary>Show answer</summary>
 
 - **Correct Answer:** (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
-- **Exam Lock Points:**
+- **Must-Score Points:**
   - Pouring water on burning sodium causes violent hydrogen explosions; dry sand or Class D metal powder extinguishers must be used.
 </details>
 

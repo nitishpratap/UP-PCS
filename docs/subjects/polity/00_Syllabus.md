@@ -825,6 +825,8 @@
 
 ## 25. UP Special (Very Important)
 
+**Consolidated 8-chapter UP Special subject:** [UP Special](../up%20special/index.md) — Topic 3 owns governance depth going forward; this Polity Topic 25 remains the existing Lucent neighbour.
+
 * Governor of Uttar Pradesh
 * Uttar Pradesh Legislative Assembly
 * Strength of UP Legislative Assembly

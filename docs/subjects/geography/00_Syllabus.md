@@ -640,6 +640,8 @@
 
 ## 24. Geography of Uttar Pradesh
 
+**Consolidated UP Special subject:** [UP Special Topic 1](../up%20special/01_Geography_Location_Physical_Features.md) (physical) · [Topic 5](../up%20special/05_Agriculture_Irrigation_Rural_Economy.md) (agri/irrigation) · [Topic 7](../up%20special/07_Transport_Tourism_Environment_Disaster.md) (transport/PA). Geography Topic 24 remains the existing Lucent neighbour.
+
 ### Physical Setting
 
 * Physiographic Regions of UP

@@ -8,7 +8,7 @@ Public finance | Revenue and expenditure | Public debt | Subsidies | Budget and 
 
 </details>
 
-> **Sources baked in:** NCERT Class 12 Macroeconomics (government budget), standard public-finance coaching notes, Constitution Part XII finance articles, UPPCS Prelims PYQs, UKPCS Prelims
+> **Sources baked in:** NCERT Class 12 Macroeconomics (government budget), standard public-finance coaching notes, Constitution Part XII finance articles, UPPCS Prelims PYQs, UKPCS Prelims; Extra Drill rebuilt from mixed RO/ARO–coaching stems (paste full Ghatnachakra Purvalokan later to expand)
 > **Weight:** ★★★ High — FC composition / report path, GST 101st, deficit formulas, and fund articles decide stems
 > **Last verified:** September 2026
 
@@ -29,7 +29,7 @@ National income and planning stay in Economy Topic 1. Money and RBI deepen in To
 
 ---
 
-## Consolidated — 42 Must-Score Facts
+## Consolidated — 71 Must-Score Facts
 
 1. **Public finance** studies how government raises revenue, spends, borrows and manages debt for public purposes.
 2. **Revenue receipts** are regular, non-debt receipts — tax and non-tax — that do not create a liability or reduce assets.
@@ -73,6 +73,35 @@ National income and planning stay in Economy Topic 1. Money and RBI deepen in To
 40. Vertical devolution landmarks: **14th FC (Y.V. Reddy)** raised States’ share of the divisible pool to **42%**; **15th FC (N.K. Singh)** worked with **41%** after the J&K reorganisation adjustment teaching.
 41. FC chairmen spine: **11th A.M. Khusro** · **12th C. Rangarajan** · **13th Vijay Kelkar** · **14th Y.V. Reddy** · **15th N.K. Singh**.
 42. **State Finance Commissions** (Arts. **243-I / 243-Y**) review Panchayat / Municipality finances; Union FC uses their recommendations when suggesting local-body resource support.
+43. **Article 112** mandates the Annual Financial Statement (Union Budget) laid before Parliament each financial year.
+44. **Consolidated Fund of India (Art. 266(1))** holds all revenues, loans raised and repayments; withdrawals need appropriation.
+45. **Public Account (Art. 266(2))** holds provident funds, deposits and remittances — not subject to parliamentary appropriation like CFI.
+46. **Contingency Fund (Art. 267)** is an imprest for unforeseen expenditure, later recouped from the Consolidated Fund.
+47. **Revenue deficit** = revenue expenditure − revenue receipts; it shows living beyond current income.
+48. **Primary deficit** = fiscal deficit − interest payments; it shows the deficit excluding past debt-service burden.
+49. **Effective Revenue Deficit** adjusts revenue deficit for grants used for capital-asset creation.
+50. **FRBM Act 2003** sets fiscal-responsibility targets; **N.K. Singh Committee** reviewed the FRBM framework.
+51. **Finance Commission (Art. 280)** recommends tax devolution and grants; it is a constitutional body.
+52. GST rests on the **101st Constitutional Amendment**; GST Council is the federal rate/decision forum.
+53. **CGST / SGST** apply on intra-state supplies; **IGST** on inter-state supplies.
+54. **Direct taxes** (income, corporation) cannot be shifted easily; **indirect taxes** are shifted via prices.
+55. **Progressive tax** rises with ability to pay; **regressive** burdens lower incomes relatively more.
+56. **Laffer Curve** teaching: beyond a point, higher tax rates can reduce collections.
+57. **Pigovian tax** corrects negative externalities by taxing the harmful activity.
+58. **Zero-based budgeting** builds each year’s budget from a zero base rather than incremental last-year marks.
+59. **Vote on Account** authorises limited expenditure when the full budget cannot be passed before year-start.
+60. **Guillotine** teaching: remaining demands are put to vote without full discussion at the session’s end.
+61. **Charged expenditure** (e.g. Judges’ salaries, debt charges) is not voted but can be discussed.
+62. **Cess** is earmarked for a stated purpose; **surcharge** is an additional levy on tax, usually without the same earmark logic.
+63. **Input Tax Credit (ITC)** under GST prevents tax-on-tax by crediting tax paid on inputs.
+64. Fiscal federalism teaching: States depend on tax devolution + grants; GST compensation was a transition bridge.
+65. **Budget Estimates / Revised Estimates / Actuals** are the three classic budget-figure generations.
+66. **Capital receipts** include borrowings and recoveries of loans; they create liability or reduce assets.
+67. **Revenue receipts** are tax and non-tax receipts that do not create liability or reduce assets.
+68. **Subsidies** are fiscal transfers that lower prices or support incomes; they raise revenue expenditure.
+69. **Public debt** comprises internal and external liabilities of the government.
+70. FRBM escape clauses allow temporary deviation in exceptional circumstances (war, calamity, structural reforms teaching).
+71. **Tax buoyancy** measures responsiveness of tax revenue to GDP growth.
 
 ---
 
@@ -700,8 +729,323 @@ D. 1 3 2 4
 
 ---
 
-## Complete PYQ Bank (UKPCS)
+## Ghatnachakra Extra Drill — Public Finance, Budget and Taxation
 
+Extra Drill rebuilt from coaching / mock stems (not a full Purvalokan dump). Expand when Ghatnachakra Economy MCQs are pasted.
+
+**Q14.** Article 112 relates to the
+
+A. Contingency Fund
+B. Annual Financial Statement of the Union
+C. GST Council
+D. State Finance Commission
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Union Annual Financial Statement (Budget).
+
+**Logic:** State parallel is Art. 202.
+
+</details>
+
+**Q15.** Which tax was **not** abolished / subsumed by GST in the standard list?
+
+A. State VAT
+B. Service tax
+C. Income tax
+D. Entry tax / octroi (teaching lane)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Income tax remained a direct tax.
+
+**Logic:** GST is the indirect-tax subsumption story.
+
+</details>
+
+**Q16.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Fiscal deficit is a better measure of borrowing need than the older budget-deficit slogan alone.
+
+Reason (R): Fiscal deficit subtracts non-debt capital receipts and focuses on how much must be borrowed.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true; the construction explains the preference.
+
+**A/R logic:** FD identity.
+
+</details>
+
+**Q17.** With reference to charged expenditure, which of the following statements is/are correct?
+
+1. Some expenditures are charged on the Consolidated Fund.
+2. Charged items are not subjected to the same item-wise vote as ordinary demands in teaching.
+3. Charged expenditure means the Contingency Fund vanishes.
+
+Select the correct answer from the code given below:
+
+A. Only 3
+B. 1 and 2
+C. 2 and 3
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Statements 1 and 2 are correct.
+
+**Logic:** Statement 3 is false.
+
+</details>
+
+**Q18.** Match List-I with List-II.
+
+| List-I | List-II |
+|---|---|
+| A. Progressive tax | 1. Same rate at all incomes |
+| B. Proportional tax | 2. Rate rises with base |
+| C. Regressive tax | 3. Lower incomes hit harder as share |
+| D. Tobin tax | 4. Proposed forex-transaction levy |
+
+Select the correct answer from the code given below:
+
+A. 2 1 3 4
+B. 1 2 3 4
+C. 2 3 1 4
+D. 4 1 2 3
+
+*Row order is not the answer code.*
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Progressive; proportional; regressive; Tobin.
+
+**Logic:** Keep India “degressive” label separate from pure progressive.
+
+</details>
+
+**Q19.** Public Account of India mainly holds
+
+A. Only income-tax collections of the year
+B. Moneys where government acts as banker / trustee (PF, deposits teaching)
+C. Only RBI’s foreign exchange reserves
+D. Only GST compensation cess forever outside accounts
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Trustee / banker-style moneys under Art. 266 Public Account lane.
+
+**Logic:** Distinct from Consolidated Fund revenues.
+
+</details>
+
+**Q20.** Which of the following pairs is **not** correctly matched?
+
+A. DTC — Income Tax
+B. Tobin tax — Forex transactions
+C. GST rollout — 1 July 2017
+D. Contingency Fund — Article 266
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Contingency Fund is Article 267.
+
+**Logic:** A–C are standard.
+
+</details>
+
+**Q21.** With reference to grants-in-aid, which of the following statements is/are correct?
+
+1. Finance Commission recommends principles for grants-in-aid to States.
+2. Article 275 is the classic grants-in-aid lane in teaching.
+3. Grants-in-aid are prepared only by NITI as a constitutional duty.
+
+Select the correct answer from the code given below:
+
+A. Only 3
+B. 1 and 2
+C. 2 and 3
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Statements 1 and 2 are correct.
+
+**Logic:** Statement 3 is false.
+
+</details>
+
+**Q22.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): The 14th Finance Commission sharply raised States’ share in the divisible pool.
+
+Reason (R): It recommended a 42% share for States in net proceeds of shareable Central taxes.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true; 42% is the content of the rise.
+
+**A/R logic:** UKPCS 2016 stem spine.
+
+</details>
+
+**Q23.** With reference to subsidies, which of the following statements is/are correct?
+
+1. Subsidies are a major revenue-expenditure head in teaching.
+2. Rationalisation aims at better targeting and less leakage.
+3. Rationalisation means every subsidy must rise without limit.
+
+Select the correct answer from the code given below:
+
+A. Only 3
+B. 1 and 2
+C. 2 and 3
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Statements 1 and 2 are correct.
+
+**Logic:** Statement 3 is false.
+
+</details>
+
+**Q24.** Which body audits government accounts and reports on appropriations in the constitutional design?
+
+A. Finance Commission alone
+B. GST Council alone
+C. Comptroller and Auditor General of India
+D. NITI Aayog alone
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** CAG (Article 148).
+
+**Logic:** Financial accountability companion to budget / funds.
+
+</details>
+
+**Q25.** With reference to Vote on Account, which of the following statements is/are correct?
+
+1. It can authorise interim spending before the full budget is passed.
+2. It replaces the Finance Commission for five years.
+3. It is part of parliamentary control over the purse.
+
+Select the correct answer from the code given below:
+
+A. Only 2
+B. 1 and 3
+C. 2 and 3
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Statements 1 and 3 are correct.
+
+**Logic:** Statement 2 is false.
+
+</details>
+
+**Q26.** Match List-I with List-II.
+
+| List-I | List-II |
+|---|---|
+| A. 11th FC | 1. Y.V. Reddy |
+| B. 12th FC | 2. Vijay Kelkar |
+| C. 13th FC | 3. A.M. Khusro |
+| D. 14th FC | 4. C. Rangarajan |
+
+Select the correct answer from the code given below:
+
+A. 3 4 2 1
+B. 4 3 2 1
+C. 3 2 4 1
+D. 1 4 2 3
+
+*Row order is not the answer code.*
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Khusro; Rangarajan; Kelkar; Reddy.
+
+**Logic:** Same spine as UPPCS 2025; list numbering differs from the paper’s List-II order.
+
+</details>
+
+**Q27.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Effective revenue deficit adjusts the revenue deficit for grants used to create capital assets.
+
+Reason (R): Some grants classified under revenue spending actually build capital assets.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true; the capital-grant logic explains the adjustment.
+
+**A/R logic:** Budget-document refinement.
+
+</details>
+
+**Q28.** Which of the following statements about GST is/are correct?
+
+1. It is destination-based.
+2. Intra-State supply generally attracts CGST + SGST.
+3. Property tax of local bodies was the main tax GST was designed to replace.
+
+Select the correct answer from the code given below:
+
+A. Only 3
+B. 1 and 2
+C. 2 and 3
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Statements 1 and 2 are correct.
+
+**Logic:** Property tax stayed outside. Statement 3 is false.
+
+</details>
+
+---
+
+## UKPCS Prelims Bank
 **Q1. UKPCS (Pre) 2016** — 14th Finance Commission States’ share
 
 A. 32%
@@ -1034,318 +1378,6 @@ D. Only 1
 **Logic:** Income tax is revenue (tax) receipt. Statement 3 is false.
 
 </details>
-
-**Q14.** Article 112 relates to the
-
-A. Contingency Fund
-B. Annual Financial Statement of the Union
-C. GST Council
-D. State Finance Commission
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Union Annual Financial Statement (Budget).
-
-**Logic:** State parallel is Art. 202.
-
-</details>
-
-**Q15.** Which tax was **not** abolished / subsumed by GST in the standard list?
-
-A. State VAT
-B. Service tax
-C. Income tax
-D. Entry tax / octroi (teaching lane)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Income tax remained a direct tax.
-
-**Logic:** GST is the indirect-tax subsumption story.
-
-</details>
-
-**Q16.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Fiscal deficit is a better measure of borrowing need than the older budget-deficit slogan alone.
-
-Reason (R): Fiscal deficit subtracts non-debt capital receipts and focuses on how much must be borrowed.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Both true; the construction explains the preference.
-
-**A/R logic:** FD identity.
-
-</details>
-
-**Q17.** With reference to charged expenditure, which of the following statements is/are correct?
-
-1. Some expenditures are charged on the Consolidated Fund.
-2. Charged items are not subjected to the same item-wise vote as ordinary demands in teaching.
-3. Charged expenditure means the Contingency Fund vanishes.
-
-Select the correct answer from the code given below:
-
-A. Only 3
-B. 1 and 2
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Statements 1 and 2 are correct.
-
-**Logic:** Statement 3 is false.
-
-</details>
-
-**Q18.** Match List-I with List-II.
-
-| List-I | List-II |
-|---|---|
-| A. Progressive tax | 1. Same rate at all incomes |
-| B. Proportional tax | 2. Rate rises with base |
-| C. Regressive tax | 3. Lower incomes hit harder as share |
-| D. Tobin tax | 4. Proposed forex-transaction levy |
-
-Select the correct answer from the code given below:
-
-A. 2 1 3 4
-B. 1 2 3 4
-C. 2 3 1 4
-D. 4 1 2 3
-
-*Row order is not the answer code.*
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Progressive; proportional; regressive; Tobin.
-
-**Logic:** Keep India “degressive” label separate from pure progressive.
-
-</details>
-
-**Q19.** Public Account of India mainly holds
-
-A. Only income-tax collections of the year
-B. Moneys where government acts as banker / trustee (PF, deposits teaching)
-C. Only RBI’s foreign exchange reserves
-D. Only GST compensation cess forever outside accounts
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Trustee / banker-style moneys under Art. 266 Public Account lane.
-
-**Logic:** Distinct from Consolidated Fund revenues.
-
-</details>
-
-**Q20.** Which of the following pairs is **not** correctly matched?
-
-A. DTC — Income Tax
-B. Tobin tax — Forex transactions
-C. GST rollout — 1 July 2017
-D. Contingency Fund — Article 266
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Contingency Fund is Article 267.
-
-**Logic:** A–C are standard.
-
-</details>
-
-**Q21.** With reference to grants-in-aid, which of the following statements is/are correct?
-
-1. Finance Commission recommends principles for grants-in-aid to States.
-2. Article 275 is the classic grants-in-aid lane in teaching.
-3. Grants-in-aid are prepared only by NITI as a constitutional duty.
-
-Select the correct answer from the code given below:
-
-A. Only 3
-B. 1 and 2
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Statements 1 and 2 are correct.
-
-**Logic:** Statement 3 is false.
-
-</details>
-
-**Q22.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): The 14th Finance Commission sharply raised States’ share in the divisible pool.
-
-Reason (R): It recommended a 42% share for States in net proceeds of shareable Central taxes.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Both true; 42% is the content of the rise.
-
-**A/R logic:** UKPCS 2016 stem spine.
-
-</details>
-
-**Q23.** With reference to subsidies, which of the following statements is/are correct?
-
-1. Subsidies are a major revenue-expenditure head in teaching.
-2. Rationalisation aims at better targeting and less leakage.
-3. Rationalisation means every subsidy must rise without limit.
-
-Select the correct answer from the code given below:
-
-A. Only 3
-B. 1 and 2
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Statements 1 and 2 are correct.
-
-**Logic:** Statement 3 is false.
-
-</details>
-
-**Q24.** Which body audits government accounts and reports on appropriations in the constitutional design?
-
-A. Finance Commission alone
-B. GST Council alone
-C. Comptroller and Auditor General of India
-D. NITI Aayog alone
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** CAG (Article 148).
-
-**Logic:** Financial accountability companion to budget / funds.
-
-</details>
-
-**Q25.** With reference to Vote on Account, which of the following statements is/are correct?
-
-1. It can authorise interim spending before the full budget is passed.
-2. It replaces the Finance Commission for five years.
-3. It is part of parliamentary control over the purse.
-
-Select the correct answer from the code given below:
-
-A. Only 2
-B. 1 and 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Statements 1 and 3 are correct.
-
-**Logic:** Statement 2 is false.
-
-</details>
-
-**Q26.** Match List-I with List-II.
-
-| List-I | List-II |
-|---|---|
-| A. 11th FC | 1. Y.V. Reddy |
-| B. 12th FC | 2. Vijay Kelkar |
-| C. 13th FC | 3. A.M. Khusro |
-| D. 14th FC | 4. C. Rangarajan |
-
-Select the correct answer from the code given below:
-
-A. 3 4 2 1
-B. 4 3 2 1
-C. 3 2 4 1
-D. 1 4 2 3
-
-*Row order is not the answer code.*
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Khusro; Rangarajan; Kelkar; Reddy.
-
-**Logic:** Same spine as UPPCS 2025; list numbering differs from the paper’s List-II order.
-
-</details>
-
-**Q27.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Effective revenue deficit adjusts the revenue deficit for grants used to create capital assets.
-
-Reason (R): Some grants classified under revenue spending actually build capital assets.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Both true; the capital-grant logic explains the adjustment.
-
-**A/R logic:** Budget-document refinement.
-
-</details>
-
-**Q28.** Which of the following statements about GST is/are correct?
-
-1. It is destination-based.
-2. Intra-State supply generally attracts CGST + SGST.
-3. Property tax of local bodies was the main tax GST was designed to replace.
-
-Select the correct answer from the code given below:
-
-A. Only 3
-B. 1 and 2
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Statements 1 and 2 are correct.
-
-**Logic:** Property tax stayed outside. Statement 3 is false.
-
-</details>
-
----
 
 ## Common Traps
 

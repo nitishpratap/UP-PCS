@@ -2,6 +2,7 @@
 
 > **Priority S for UPPCS**
 > National magazines often under-count UP. In the real paper, UP news comes through Ramsar, Budget, ODOP, ranks, and big projects.
+> **Subject notes home:** [UP Special Topic 8 — Schemes & Miscellaneous](../../subjects/up%20special/08_Current_Affairs_Schemes_Miscellaneous.md) · full map [UP Special](../../subjects/up%20special/index.md)
 
 ## What to note every time
 

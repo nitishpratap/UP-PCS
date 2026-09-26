@@ -1,5 +1,5 @@
 # Topic 7 — Plants, Agriculture and Plant Diseases
-### ★ UPPCS Revision Sheet — Lucent / PW Coaching Style (Dense Locks · Zero Fluff · Practice ≥25)
+### ★ UPPCS Revision Sheet — Lucent / PW Coaching Style (Lucent / PW style · Practice ≥25)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -14,9 +14,9 @@ Plant Taxonomy & Hierarchy (Kingdom to Species, A.P. de Candolle *Vasculares/Cel
 
 ---
 
-## Current Affairs & Exam Locks
+## Current Affairs
 
-| Year | Event / Fact | High-Yield Exam Lock |
+| Year | Event / Fact | Must-Score Fact |
 |------|-------------|----------------------|
 | **10 February** | **World Pulses Day** observed annually on **10 February** by the UN FAO. | Pulses belong to **Fabaceae (Pea family)**; host symbiotic *Rhizobium* in root nodules to fix atmospheric nitrogen and enrich soil. |
 | **Discovery** | ***Musa indandamanensis*** discovered in Little Andaman Island by BSI scientists. | Wild banana attaining **11 metres height** with unique green flowers and orange-coloured fruit pulp thrice the size of regular banana species. |
@@ -62,7 +62,7 @@ Plant Taxonomy & Hierarchy (Kingdom to Species, A.P. de Candolle *Vasculares/Cel
     - **Nut**: Indehiscent fruit with a woody pericarp enclosing a single seed: **Cashew nut**, ***Trapa* (Singhara)** (edible part is the **seed**).
     - **Pepo**: Fleshy berry with a hard rind and many seeds: **Melon, Watermelon, Squash, Cucumber**.
     - **Sorosis**: Multiple fleshy fruit derived from catkin/spike inflorescence: **Mulberry (*Morus*)**, Pineapple, Jackfruit.
-14. **Plant Pigments Master Lock**:
+14. **Plant Pigments Master Fact**:
     - **Red colour of Tomato**: Due to the carotenoid **Lycopene** ($C_{40}H_{56}$).
     - **Red colour of Apple skin**: Due to water-soluble flavonoid pigment **Anthocyanin**.
     - **Yellow colour of Papaya**: Due to xanthophyll pigment **Caricaxanthin**; rich in provitamin A carotene; contains proteolytic enzyme **Papain** (digests proteins).
@@ -128,7 +128,7 @@ Plant Taxonomy & Hierarchy (Kingdom to Species, A.P. de Candolle *Vasculares/Cel
 
 ## Confused Pairs
 
-| Concept A | Concept B | Core Distinguishing Exam Fact | Hindi Key |
+| Concept A | Concept B | Core Distinguishing Fact | Hindi Key |
 |-----------|-----------|-------------------------------|-----------|
 | **Rhizome (Ginger/Turmeric)** | **Tuber (Potato)** | Underground stem growing horizontally with nodes/internodes vs swollen stem tip with axillary eyes | प्रकंद / स्तंभ कंद |
 | **Stem Storage (Potato/Ginger)**| **Root Storage (Sweet Potato/Carrot)** | Derived from shoot/stem, has nodes/buds vs derived from radicle/root, lacks nodes and buds | तना संचय / जड़ संचय |
@@ -179,7 +179,7 @@ Plant Taxonomy & Hierarchy (Kingdom to Species, A.P. de Candolle *Vasculares/Cel
 
 ### Master Plant Underground Modifications: Stems vs Roots
 
-| Botanical Classification | Specialized Structure | Distinctive Anatomical Signature | Commercial Plant Examples | High-Yield Exam Lock |
+| Botanical Classification | Specialized Structure | Distinctive Anatomical Signature | Commercial Plant Examples | Must-Score Fact |
 |--------------------------|----------------------|-----------------------------------|---------------------------|----------------------|
 | **Modified Stem** | **Rhizome** | Prostrate, horizontal fleshy axis; bears distinct nodes, internodes, terminal buds, and scaly leaves | **Ginger** (*Zingiber officinale*), **Turmeric** (*Curcuma longa*), Lotus | Possesses nodes & internodes (unlike roots) |
 | **Modified Stem** | **Tuber** | Swollen distal tip of underground branch; bears spirally arranged axillary buds ("eyes") at nodes | **Potato** (*Solanum tuberosum*) | Member of Solanaceae; eyes are vegetative buds |
@@ -192,7 +192,7 @@ Plant Taxonomy & Hierarchy (Kingdom to Species, A.P. de Candolle *Vasculares/Cel
 
 ### Botanical Classification of Fruits: True vs False & Structural Types
 
-| Fruit Category | Botanical Definition | Morphological Fruit Type | Key Plant Examples | Edible Part / Exam Lock |
+| Fruit Category | Botanical Definition | Morphological Fruit Type | Key Plant Examples | Edible Part / Must-Score |
 |----------------|----------------------|--------------------------|---------------------|-------------------------|
 | **True Fruit** | Derived exclusively from fertilized ovary | **Drupe (Stone Fruit)** | **Mango** (*Mangifera indica*), Peach, Plum | Edible **Mesocarp**; stony endocarp protects seed |
 | **True Fruit** | Derived exclusively from fertilized ovary | **Berry** | **Grape, Tomato, Date, Banana** | Entire pericarp and placenta edible |
@@ -204,7 +204,7 @@ Plant Taxonomy & Hierarchy (Kingdom to Species, A.P. de Candolle *Vasculares/Cel
 
 ### Master Plant Pigments, Flavours & Volatile Chemistry
 
-| Commercial Crop / Organ | Visual Colour / Sensory Trait | Active Chemical / Pigment Responsible | Chemical Class / Mechanism | High-Yield Exam Lock |
+| Commercial Crop / Organ | Visual Colour / Sensory Trait | Active Chemical / Pigment Responsible | Chemical Class / Mechanism | Must-Score Fact |
 |-------------------------|------------------------------|--------------------------------------|-----------------------------|----------------------|
 | **Tomato** | Deep vibrant red | **Lycopene** ($C_{40}H_{56}$) | Carotenoid tetraterpene | Antioxidant; does not convert to Vitamin A |
 | **Apple Skin** | Crimson red blush | **Anthocyanin** | Water-soluble flavonoid glycoside | Formed in peel cells exposed to autumn sun |
@@ -220,7 +220,7 @@ Plant Taxonomy & Hierarchy (Kingdom to Species, A.P. de Candolle *Vasculares/Cel
 
 ### Ecological Plant Groups & Specialized Morphological Adaptations
 
-| Ecological Class | Primary Habitat / Environmental Stress | Diagnostic Morphological / Anatomical Adaptation | Classical Plant Representatives | Distinctive Exam Lock |
+| Ecological Class | Primary Habitat / Environmental Stress | Diagnostic Morphological / Anatomical Adaptation | Classical Plant Representatives | Distinctive Must-Score |
 |------------------|----------------------------------------|--------------------------------------------------|---------------------------------|-----------------------|
 | **Xerophytes** | Arid deserts, extreme water deficit | Sunken stomata, thick waxy cuticle, reduced leaves (spines), succulent water storage | Cactus, *Opuntia*, *Aloe*, *Calotropis*, Pineapple | Stems perform photosynthesis (**Cladode**) |
 | **Phreatophytes** | Hyper-arid desert plains | **Extremely long taproots ($20–30\text{ metres}$ / $65–100\text{ ft}$)** reaching deep groundwater | Mesquite (*Prosopis*), Desert Tamarisk | Independent of seasonal topsoil rain |
@@ -244,10 +244,10 @@ Plant Taxonomy & Hierarchy (Kingdom to Species, A.P. de Candolle *Vasculares/Cel
 
 ### Master Reference: Biofertilizers, Nitrogen Fixation & Microbial Agricultural Inputs
 
-| Biofertilizer Category | Specific Microorganism / Vector | Target Crops & Target Soil Ecosystem | Biological Mechanism & Exam Locks |
+| Biofertilizer Category | Specific Microorganism / Vector | Target Crops & Target Soil Ecosystem | Biological Mechanism & Must-Score |
 |------------------------|---------------------------------|--------------------------------------|-----------------------------------|
 | **Symbiotic $N_2$ Bacteria** | ***Rhizobium leguminosarum***, ***Rhizobium japonicum*** | **Legumes (Fabaceae)**: Chickpea, Gram, Pea, Soybean, Alfalfa, Clover, Lentil, Pigeon pea | Colonizes root hairs, induces root nodule formation; synthesizes **Leg-haemoglobin** (pink/red heme pigment) to buffer $O_2$ and protect oxygen-sensitive **Nitrogenase** enzyme. *R. japonicum* is specialized for **Soybean**. |
-| **Free-Living Aerobic $N_2$ Bacteria** | ***Azotobacter chroococcum*** | Non-legumes: **Wheat, Cotton, Mustard, Maize** | Fixes free atmospheric nitrogen non-symbiotically in the rhizosphere. **Exam Trap:** Not a bioinsecticide! |
+| **Free-Living Aerobic $N_2$ Bacteria** | ***Azotobacter chroococcum*** | Non-legumes: **Wheat, Cotton, Mustard, Maize** | Fixes free atmospheric nitrogen non-symbiotically in the rhizosphere. **Common Trap:** Not a bioinsecticide! |
 | **Associative $N_2$ Bacteria** | ***Azospirillum brasilense*** | **Sugarcane, Sorghum, Maize, Millets, Wheat** | Colonizes root cortical intercellular spaces; fixes $N_2$ and secretes growth-promoting gibberellins/auxins. |
 | **Cyanobacteria (Blue-Green Algae)** | ***Nostoc*, *Anabaena*, *Oscillatoria*** | **Paddy (Water-logged Rice fields)** | Photosynthetic prokaryotes; fix nitrogen under oxic light conditions in specialized thick-walled cells called **Heterocysts** (which lack Photosystem II to maintain anoxia). |
 | **Aquatic Fern Symbiosis** | ***Azolla pinnata*** + ***Anabaena azollae*** | **Flooded Rice Fields & Bovine Cattle Feed** | *Azolla* is a floating **aquatic pteridophyte (fern)** harboring endophytic cyanobacterium *Anabaena* in dorsal leaf cavities. Supplies 30–40 kg N/ha; also utilized as **supplementary high-protein feed for milking cows/buffaloes** to boost milk yield. |
@@ -256,7 +256,7 @@ Plant Taxonomy & Hierarchy (Kingdom to Species, A.P. de Candolle *Vasculares/Cel
 | **Soil Conditioner & Microbial Habitat** | **Biochar** | Vertical farming, dryland agriculture | Stable, porous carbonaceous charcoal synthesized via **Pyrolysis** (high-temperature biomass heating under oxygen deprivation). Retains moisture/nutrients, provides microhabitat for BNF microorganisms. |
 | **Biological Soil Aerator** | **Earthworms (*Pheretima posthuma*)** | Vermicomposting & Organic farming | Termed **"Ploughers of the soil"**; burrows aerate soil and accelerate pit decomposition of agricultural waste (livestock excreta, crop straw) into nutrient-dense vermicompost. |
 
-- **Agronomic Management Locks for Nitrogen Use Efficiency (NUE)**:
+- **Agronomic Management Facts for Nitrogen Use Efficiency (NUE)**:
   - NUE can be significantly maximized through:
     1. **Split application** of nitrogenous fertilizers matching crop physiological demand stages.
     2. Incorporating **Nitrification inhibitors** (e.g. nitrapyrin, dicyandiamide) to prevent rapid conversion of ammonium to leachable nitrates.
@@ -312,7 +312,7 @@ Plant Taxonomy & Hierarchy (Kingdom to Species, A.P. de Candolle *Vasculares/Cel
 
 ### Master Physiological Roles & Deficiency Pathology
 
-| Element | Uptake Chemical Form | Physiological Functions | Deficiency Symptoms & Exam Pathology |
+| Element | Uptake Chemical Form | Physiological Functions | Deficiency Symptoms & Must-Score Pathology |
 |---------|----------------------|-------------------------|---------------------------------------|
 | **Nitrogen ($\text{N}$)** | Nitrate ($\text{NO}_3^-$) predominantly; Ammonium ($\text{NH}_4^+$) in acidic boreal soils | Constituent of amino acids, proteins, chlorophyll, nucleic acids | Severe stunted growth, chlorosis of older leaves |
 | **Phosphorus ($\text{P}$)** | Dihydrogen phosphate ($\text{H}_2\text{PO}_4^-$) | Nucleic acids, phospholipids, ATP; **stimulates early root system establishment**, fibrous branching, tillering, and early crop maturity | Dark green or purplish/reddish bronze pigmentation on foliage |
@@ -6158,3 +6158,16 @@ D. Phosphorus for nucleic acids
 **Detailed Explanation:**
 - Carnivorous plants grow in nitrogen-deficient bogs and digest insects with proteases to acquire essential nitrogen.
 </details>
+
+## Common Traps & Negative-Marking Eliminators
+
+1. **Photosynthesis site**: Light reaction in **thylakoid**; Calvin cycle in **stroma**.
+2. **C3 vs C4**: Maize/sugarcane are C4; wheat/rice are typically C3 — photorespiration is high in C3.
+3. **Xylem vs phloem**: Xylem = water/minerals upward; phloem = food translocation.
+4. **Nitrogen fixation**: Root nodules of legumes with *Rhizobium* — not ordinary free soil N2 use by wheat.
+5. **Transpiration pull**: Main ascent of sap in tall trees — capillarity alone is not enough.
+6. **Plant disease examples**: Rust of wheat is fungal; citrus canker is bacterial; tobacco mosaic is viral — do not swap.
+7. **Growth regulators**: Auxin → apical dominance/rooting; gibberellin → stem elongation; cytokinin → cell division; ethylene → ripening; ABA → stress/dormancy.
+8. **Hydroponics**: Soil-less mineral solution culture — soil microbes are not required by definition.
+9. **Chlorophyll centre**: Magnesium is central in chlorophyll — not iron (iron is for haemoglobin analogy trap).
+10. **Photoperiodism**: Flowering depends on day/night length — short-day and long-day plants differ.

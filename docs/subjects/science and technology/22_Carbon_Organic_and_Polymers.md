@@ -14,9 +14,9 @@ Unique Bonding of Carbon (Catenation, Tetravalency, Hybridization) | Saturated &
 
 ---
 
-## Current Affairs & Exam Locks (2024–2026)
+## Current Affairs (2024–2026)
 
-| Year | Exam / Event | Core Concept & Exam Significance |
+| Year | Event | Core Concept & Must-Score Significance |
 |------|--------------|-----------------------------------|
 | **2025–2026** | **Biodegradable Plastics & Biopolymers** | Mandatory phase-out of single-use petroleum-based plastics in India under Plastic Waste Management Rules. Accelerated adoption of **PLA (Polylactic Acid)** derived from fermented corn starch and **PHBV (Poly-$\beta$-hydroxybutyrate-co-$\beta$-hydroxyvalerate)**, which degrade into natural bio-assimilable $CO_2$ and $H_2O$ via bacterial action within 180 days. |
 | **2024** | **UPPCS Prelims 2024** | Direct question on **Rayon Origin**: Keyed that Rayon is a **regenerated cellulose fibre** obtained by chemically treating natural wood pulp or cotton linters. The option "modified starch" is an established distractor. |
@@ -40,7 +40,7 @@ Unique Bonding of Carbon (Catenation, Tetravalency, Hybridization) | Saturated &
 7. **Ethylene / Ethene ($C_2H_4$)**: The only gaseous **plant hormone** that naturally promotes fruit ripening and leaf abscission; also serves as the chemical monomer for manufacturing polyethylene/polythene.
 8. **Alkynes** ($C_n H_{2n-2}$): Unsaturated hydrocarbons containing at least one carbon-carbon triple bond ($C \equiv C$).
 9. **Acetylene / Ethyne ($C_2H_2$)**: Burns in pure oxygen to produce an intensely hot **Oxy-acetylene flame ($\approx 3200^\circ\text{C}$)** used for industrial cutting and welding of steel.
-10. **Artificial Fruit Ripening**: Industrial ripening often uses **Calcium Carbide ($CaC_2$)**, which reacts with atmospheric moisture to release acetylene gas ($CaC_2 + 2H_2O \to Ca(OH)_2 + C_2H_2 \uparrow$). *Exam Lock*: Commercial calcium carbide typically contains toxic trace impurities of arsenic hydride (arsine, $AsH_3$) and phosphorus hydride (phosphine, $PH_3$), leading FSSAI to ban its use in food trade.
+10. **Artificial Fruit Ripening**: Industrial ripening often uses **Calcium Carbide ($CaC_2$)**, which reacts with atmospheric moisture to release acetylene gas ($CaC_2 + 2H_2O \to Ca(OH)_2 + C_2H_2 \uparrow$). *Must-Score*: Commercial calcium carbide typically contains toxic trace impurities of arsenic hydride (arsine, $AsH_3$) and phosphorus hydride (phosphine, $PH_3$), leading FSSAI to ban its use in food trade.
 11. **Benzene ($C_6H_6$)**: The archetypal aromatic hydrocarbon. Proposed by August Kekulé in 1865 as a planar hexagonal ring of 6 $sp^2$ carbon atoms with alternating double bonds. Thermodynamically stabilized by resonance with a delocalized cloud of $6\pi$ electrons complying with **Hückel's Rule ($4n+2$ $\pi$-electrons, where $n=1$)**.
 12. **Allotropes of Carbon**: Pure elemental carbon exists as crystalline allotropes (**Diamond, Graphite, Fullerenes, Carbon Nanotubes, Graphene**) and amorphous forms (Coal, Charcoal, Lampblack/Carbon Black, Coke).
 13. **Diamond**: Each carbon is $sp^3$ hybridized and bonded tetrahedrally to 4 other carbons in a rigid 3D framework ($C-C$ bond length $1.54\text{ \AA}$). It is the hardest known natural substance (Mohs 10), an electrical insulator, but an exceptional thermal conductor.
@@ -148,7 +148,7 @@ Unique Bonding of Carbon (Catenation, Tetravalency, Hybridization) | Saturated &
 
 ### Table 1: Master Commercial Polymer Classification (NCERT / Lucent Standard)
 
-| Polymer Trade Name | Monomer Name(s) & Chemical Formula | Polymerization Type & Linkage | Mechanical / Thermal Class | Core Real-World & Exam Applications |
+| Polymer Trade Name | Monomer Name(s) & Chemical Formula | Polymerization Type & Linkage | Mechanical / Thermal Class | Core Real-World & Applications |
 |---|---|---|---|---|
 | **Low-Density Polyethene (LDPE)** | Ethylene ($CH_2=CH_2$) | Free-radical Addition; branched | Thermoplastic | Squeeze squeeze-bottles, packaging film, plastic bags, cable insulation |
 | **High-Density Polyethene (HDPE)** | Ethylene ($CH_2=CH_2$) | Ziegler-Natta Addition; linear | Thermoplastic | Rigid buckets, dustbins, industrial chemical drums, underground water pipes |
@@ -186,7 +186,7 @@ Unique Bonding of Carbon (Catenation, Tetravalency, Hybridization) | Saturated &
 
 
 ### Table 2B: Coal Classification & Carbon Allotrope Hardness Hierarchy
-| Coal / Carbon Variety | Carbon Content (% by wt) | Calorific Value / Specific Properties | Primary Uses / Exam Insights |
+| Coal / Carbon Variety | Carbon Content (% by wt) | Calorific Value / Specific Properties | Primary Uses / Key Insights |
 | :--- | :---: | :--- | :--- |
 | **Peat** | $< 40\%$ | Lowest grade; high moisture; smoky flame | Precursor to coal formation; soil conditioner |
 | **Lignite** (Brown Coal) | $25\% - 35\%$ | High moisture ($\sim 35\%$); low heating value | Thermal power generation (Neyveli, Tamil Nadu) |
@@ -196,11 +196,11 @@ Unique Bonding of Carbon (Catenation, Tetravalency, Hybridization) | Saturated &
 
 > [!TIP]
 > **Carbon Allotrope Highlights & Lab-Grown Diamonds:**
-> - **Thermodynamic Stability:** **Graphite** is thermodynamically the most stable allotrope of carbon at standard temperature and pressure ($\Delta H_f^\circ = 0	ext{ kJ/mol}$).
+> - **Thermodynamic Stability:** **Graphite** is thermodynamically the most stable allotrope of carbon at standard temperature and pressure ($\Delta H_f^\circ = 0\text{ kJ/mol}$).
 > - **Diamond Hardness:** Hardness $= 10$ on Mohs scale; highest thermal conductivity of any natural material; cut by laser or etched by **Hydrofluoric acid (HF)**.
 > - **Lab-Grown Diamonds (LGDs):** Synthesized via **High Pressure High Temperature (HPHT)** or **Chemical Vapour Deposition (CVD)** using **graphite or small diamond fragments as seeds**.
-> - **Bond Order of CO Group:** Carbon monoxide has 10 valence electrons; Molecular orbital configuration yields $	ext{Bond Order} = rac{1}{2}(N_b - N_a) = rac{1}{2}(8 - 2) = \mathbf{3}$.
-> - **Dry Ice:** Solid carbon dioxide ($CO_2$) sublimes at $-78.5^\circ	ext{C}$ without liquid transition; non-toxic cooling agent.
+> - **Bond Order of CO Group:** Carbon monoxide has 10 valence electrons; Molecular orbital configuration yields $\text{Bond Order} = \frac{1}{2}(N_b - N_a) = \frac{1}{2}(8 - 2) = \mathbf{3}$.
+> - **Dry Ice:** Solid carbon dioxide ($CO_2$) sublimes at $-78.5^\circ\text{C}$ without liquid transition; non-toxic cooling agent.
 
 
 ## Detailed Theory Notes
@@ -3771,7 +3771,7 @@ group.
 
 ## Common Traps & High-Yield Pitfalls
 
-| Trap Area | What Students Confuse | Accurate Exam Fact |
+| Trap Area | What Students Confuse | Correct Fact |
 |---|---|---|
 | **Rayon Origin** | Thinking Rayon is a modified starch or fully synthetic polymer. | Rayon is **regenerated cellulose** (derived from natural wood pulp treated with $NaOH$ and $CS_2$). |
 | **Neoprene Category** | Classifying Neoprene as a thermoplastic. | Neoprene is an **elastomer** (synthetic rubber), not a thermoplastic. |

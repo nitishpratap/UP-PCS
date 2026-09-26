@@ -7547,3 +7547,15 @@ body.st-zen-focus-active .st-reading-clock-widget {
   flex-wrap: wrap;
   margin-top: 0.2rem;
 }
+
+/* MathJax / arithmatex — keep formulas readable in notes */
+.arithmatex,
+mjx-container {
+  font-size: 1.05em;
+  overflow-x: auto;
+  overflow-y: hidden;
+  max-width: 100%;
+}
+mjx-container[jax='CHTML'][display='true'] {
+  margin: 0.75em 0;
+}

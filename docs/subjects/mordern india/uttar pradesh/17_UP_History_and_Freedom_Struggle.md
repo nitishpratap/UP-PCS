@@ -1,7 +1,7 @@
 # Topic 17 — History (इतिहास) & Freedom Struggle of Uttar Pradesh (उत्तर प्रदेश) (UPPCS Special)
 
 > **Priority S** | Core state paper module heavily tested in UPPCS (6–10 direct questions on UP ancient sites, medieval dynasties, 1857 revolt centres, peasant uprisings, Kakori martyrs, and national movement landmarks).  
-> **Pair with:** [UP Art, Culture & Demographics](../../art%20and%20culture/uttar%20pradesh/17_UP_Art_Culture_Demographics.md) · [Geography of UP](../../geography/uttar%20pradesh/24_Geography_of_Uttar_Pradesh.md) · [Revolt of 1857](../05_Revolt_of_1857.md) · [Gandhian Era](../13_Gandhian_Era.md)
+> **Pair with:** [UP Art, Culture & Demographics](../../art%20and%20culture/uttar%20pradesh/17_UP_Art_Culture_Demographics.md) · [Geography of UP](../../geography/uttar%20pradesh/24_Geography_of_Uttar_Pradesh.md) · [Revolt of 1857](../05_Revolt_of_1857.md) · [Gandhian Era](../13_Gandhian_Era.md) · **Consolidated:** [UP Special Topic 2](../../up%20special/02_History_Culture_Art_Heritage.md)
 
 ---
 

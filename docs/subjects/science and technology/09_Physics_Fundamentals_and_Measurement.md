@@ -1,11 +1,11 @@
 # Topic 1 — Physics Fundamentals, Measurement and Instruments
-### ★ UPPCS Revision Sheet — Lucent / PW Coaching Style (Dense Locks · Zero Fluff · Practice ≥25)
+### ★ UPPCS Revision Sheet — Lucent / PW Coaching Style (Lucent / PW style · Practice ≥25)
 > **Direct Syllabus Mapping**: General Science — Physical Quantities, Units, Measurement Systems, Dimensions, Standards, Practical & Astronomical Units, Scientific Measuring Instruments and Apparatus.  
-> **Key Exam Focus**: SI base units (2019 BIPM definitions via fundamental physical constants), 22 coherent derived units with special names, Astronomical Units (Parsec, Light-Year, AU), Pressure conversions (Bar, Pascal, Torr, psi, kgf/cm²), Specialized units (Dobson, Cusec, NTU, Barrel of oil, Horsepower), and Exhaustive Scientific Instruments Directory (Pyrometer, Pyrheliometer, Anemometer, Tachometer, Fathometer, SONAR, RADAR, Polygraph, Accelerometer, Ringelmann Scale, etc.).
+> **Key Must-Score Focus**: SI base units (2019 BIPM definitions via fundamental physical constants), 22 coherent derived units with special names, Astronomical Units (Parsec, Light-Year, AU), Pressure conversions (Bar, Pascal, Torr, psi, kgf/cm²), Specialized units (Dobson, Cusec, NTU, Barrel of oil, Horsepower), and Exhaustive Scientific Instruments Directory (Pyrometer, Pyrheliometer, Anemometer, Tachometer, Fathometer, SONAR, RADAR, Polygraph, Accelerometer, Ringelmann Scale, etc.).
 
 ---
 
-## Current Affairs & Exam Locks
+## Current Affairs
 - **BIPM 2019 SI Redefinition (Effective May 20, 2019)**: All 7 base units are now anchored to fixed numerical values of fundamental physical constants:
   - Kilogram ($kg$) is locked to Planck constant $h = 6.62607015 \times 10^{-34}\text{ J}\cdot\text{s}$ ($kg\cdot m^2\cdot s^{-1}$), terminating the physical Platinum-Iridium prototype cylinder (*Le Grand K*) kept at BIPM Sèvres (near Paris).
   - Second ($s$) is anchored to caesium frequency $\Delta \nu_{\text{Cs}} = 9,192,631,770\text{ Hz}$ (unperturbed ground-state hyperfine transition of Cs-133).
@@ -18,7 +18,7 @@
   - Large: **Ronna** ($R = 10^{27}$), **Quetta** ($Q = 10^{30}$). Mass of Earth $\approx 6\text{ ronnagrams}$ ($6 \times 10^{24}\text{ kg} = 6 \times 10^{27}\text{ g}$).
   - Small: **Ronto** ($r = 10^{-27}$), **Quecto** ($q = 10^{-30}$). Mass of electron $\approx 1\text{ rontogram}$.
 - **Solar Constant & TSIS-1 (NASA Consensus)**: Total Solar Irradiance (TSI) received at $1\text{ AU}$ outside Earth's atmosphere is standardized at **$1361.6 \pm 0.3\text{ W/m}^2 \approx 1.4\text{ kW/m}^2$** (measured by TSIS-1 / SORCE; varies by $\sim 0.1\%$ over the 11-year solar sunspot cycle).
-- **MEMS Accelerometers in Modern Tech (IAS 2023 Lock)**: Accelerometers sense dynamic acceleration and tilt. Crucial for: (1) Airbag deployment via instant deceleration detection, (2) Free-fall sensor (FFS) in laptops parking HDD heads to prevent drive crash, (3) Display auto-rotation between portrait and landscape in smartphones.
+- **MEMS Accelerometers in Modern Tech (IAS 2023 Fact)**: Accelerometers sense dynamic acceleration and tilt. Crucial for: (1) Airbag deployment via instant deceleration detection, (2) Free-fall sensor (FFS) in laptops parking HDD heads to prevent drive crash, (3) Display auto-rotation between portrait and landscape in smartphones.
 
 ---
 
@@ -164,11 +164,11 @@
 ---
 
 ### 2. Astronomical, Nuclear & Practical Measurement Units
-| Category / Unit | Symbol | Equivalence in SI / Practical Value | Core Application & Exam Trap |
+| Category / Unit | Symbol | Equivalence in SI / Practical Value | Core Application & Common Trap |
 |---|---|---|---|
 | **Parsec** | $pc$ | $3.0857 \times 10^{16}\text{ m} = 3.262\text{ ly} = 206,265\text{ AU} = \frac{648,000}{\pi}\text{ AU}$ | Distance at which Earth\'s orbit ($1\text{ AU}$) subtends 1 arcsecond. Coined by H. H. Turner (1913). |
 | **Light-Year** | $ly$ | $9.46073 \times 10^{15}\text{ m} \approx 9.461 \times 10^{15}\text{ m} \approx 9.46 \times 10^{12}\text{ km}$ | Distance light travels in vacuum in 1 Julian year ($365.25\text{ days}$). Unit of distance, NEVER time. |
-| **Astronomical Unit** | $AU$ | $1.495978707 \times 10^{11}\text{ m} \approx 1.496 \times 10^{11}\text{ m}$ | Average distance between Earth and Sun ($pprox 149.6\text{ million km}$). |
+| **Astronomical Unit** | $AU$ | $1.495978707 \times 10^{11}\text{ m} \approx 1.496 \times 10^{11}\text{ m}$ | Average distance between Earth and Sun ($\approx 149.6\text{ million km}$). |
 | **Angstrom** | $\text{\AA}$ | $10^{-10}\text{ m} = 0.1\text{ nm} = 10^{-8}\text{ cm}$ | Measuring light wavelength, atomic and crystal lattices. |
 | **Nanometre** | $nm$ | $10^{-9}\text{ m} = 10^{-7}\text{ cm} = 10\text{ \AA}$. ($1\text{ m} = 10^9\text{ nm}$) | Semiconductor gate lengths, CPU transistors, molecular sizes. |
 | **Micron (Micrometre)** | $\mu m$ | $10^{-6}\text{ m} = 10^{-4}\text{ cm} = 10^{-3}\text{ mm} = 1/1000\text{ mm}$ | Biological cells, bacteria size, atmospheric particulate matter ($PM_{2.5}, PM_{10}$). |
@@ -1058,189 +1058,397 @@ A theodolite is a precision optical instrument used in surveying to measure hori
 
 ## Practice Zone — UPPCS Format Drill
 
-1. **Which of the following physical quantities is correctly paired with its defining 2019 SI fundamental constant?**  
+**Q1.** **Which of the following physical quantities is correctly paired with its defining 2019 SI fundamental constant?**  
    A. Kilogram — Speed of light ($c$)  
    B. Second — Hyperfine caesium-133 frequency ($\Delta \nu_{\text{Cs}}$)  
    C. Kelvin — Planck constant ($h$)  
-   D. Ampere — Boltzmann constant ($k$)  
-   *Answer*: **B** (Kg is locked to $h$, Kelvin to $k$, Ampere to $e$).
+   D. Ampere — Boltzmann constant ($k$)
 
-2. **$1\text{ Parsec}$ is mathematically equivalent to how many Astronomical Units ($AU$)?**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** (Kg is locked to $h$, Kelvin to $k$, Ampere to $e$).
+
+**Logic:** (Kg is locked to $h$, Kelvin to $k$, Ampere to $e$).
+
+</details>
+
+**Q2.** **$1\text{ Parsec}$ is mathematically equivalent to how many Astronomical Units ($AU$)?**  
    A. $206,265\text{ AU} = \frac{648,000}{\pi}\text{ AU}$  
    B. $149,597,871\text{ AU}$  
    C. $9.46 \times 10^{12}\text{ AU}$  
-   D. $3.262\text{ AU}$  
-   *Answer*: **A** ($1\text{ Parsec} = \frac{1\text{ AU}}{\tan(1'') } \approx \frac{648,000}{\pi}\text{ AU} \approx 206,265\text{ AU}$).
+   D. $3.262\text{ AU}$
 
-3. **In the measurement of petroleum, 1 standard barrel equals:**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **A** ($1\text{ Parsec} = \frac{1\text{ AU}}{\tan(1'') } \approx \frac{648,000}{\pi}\text{ AU} \approx 206,265\text{ AU}$).
+
+**Logic:** ($1\text{ Parsec} = \frac{1\text{ AU}}{\tan(1'') } \approx \frac{648,000}{\pi}\text{ AU} \approx 206,265\text{ AU}$).
+
+</details>
+
+**Q3.** **In the measurement of petroleum, 1 standard barrel equals:**  
    A. $142\text{ litres}$  
    B. $159\text{ litres}$  
    C. $183\text{ litres}$  
-   D. $200\text{ litres}$  
-   *Answer*: **B** ($158.987\text{ L} \approx 159\text{ L} = 42\text{ US gallons}$).
+   D. $200\text{ litres}$
 
-4. **A sudden, steep drop in the barometric mercury column indicates:**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** ($158.987\text{ L} \approx 159\text{ L} = 42\text{ US gallons}$).
+
+**Logic:** ($158.987\text{ L} \approx 159\text{ L} = 42\text{ US gallons}$).
+
+</details>
+
+**Q4.** **A sudden, steep drop in the barometric mercury column indicates:**  
    A. Immediate clear and dry weather  
    B. Severe storm or thunderstorm  
    C. Snowfall  
-   D. Persistent drizzle  
-   *Answer*: **B** (Sudden drop indicates rapid atmospheric pressure deficit / incoming storm).
+   D. Persistent drizzle
 
-5. **Which device is specifically used to measure the growth of plants?**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** (Sudden drop indicates rapid atmospheric pressure deficit / incoming storm).
+
+**Logic:** (Sudden drop indicates rapid atmospheric pressure deficit / incoming storm).
+
+</details>
+
+**Q5.** **Which device is specifically used to measure the growth of plants?**  
    A. Bolometer  
    B. Crescograph  
    C. Cathetometer  
-   D. Kymograph  
-   *Answer*: **B** (Invented by J.C. Bose).
+   D. Kymograph
 
-6. **The catalytic activity of an enzyme is officially expressed in which SI unit?**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** (Invented by J.C. Bose).
+
+**Logic:** (Invented by J.C. Bose).
+
+</details>
+
+**Q6.** **The catalytic activity of an enzyme is officially expressed in which SI unit?**  
    A. Gray  
    B. Sievert  
    C. Katal  
-   D. Candela  
-   *Answer*: **C** ($1\text{ katal} = 1\text{ mole/second}$).
+   D. Candela
 
-7. **Which instrument operates on the principle of thermal change in electrical resistance to measure incident radiation power?**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **C** ($1\text{ katal} = 1\text{ mole/second}$).
+
+**Logic:** ($1\text{ katal} = 1\text{ mole/second}$).
+
+</details>
+
+**Q7.** **Which instrument operates on the principle of thermal change in electrical resistance to measure incident radiation power?**  
    A. Bolometer  
    B. Pycnometer  
    C. Pyrheliometer  
-   D. Nephoscope  
-   *Answer*: **A** (Bolometer).
+   D. Nephoscope
 
-8. **A person six feet tall has a height of $1.83\text{ m}$. In nanometres, this is:**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **A** (Bolometer).
+
+**Logic:** (Bolometer).
+
+</details>
+
+**Q8.** **A person six feet tall has a height of $1.83\text{ m}$. In nanometres, this is:**  
    A. $1.83 \times 10^7\text{ nm}$  
    B. $1.83 \times 10^9\text{ nm} = 183 \times 10^7\text{ nm}$  
    C. $1.83 \times 10^6\text{ nm}$  
-   D. $18.3 \times 10^6\text{ nm}$  
-   *Answer*: **B** ($1.83\text{ m} \times 10^9\text{ nm/m} = 183 \times 10^7\text{ nm}$).
+   D. $18.3 \times 10^6\text{ nm}$
 
-9. **What physical property does a Ringelmann Chart quantify?**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** ($1.83\text{ m} \times 10^9\text{ nm/m} = 183 \times 10^7\text{ nm}$).
+
+**Logic:** ($1.83\text{ m} \times 10^9\text{ nm/m} = 183 \times 10^7\text{ nm}$).
+
+</details>
+
+**Q9.** **What physical property does a Ringelmann Chart quantify?**  
    A. Ocean water salinity  
    B. Smoke opacity and density  
    C. Soil moisture tension  
-   D. Wind gust turbulence  
-   *Answer*: **B** (Smoke emissions).
+   D. Wind gust turbulence
 
-10. **The unit of dynamic viscosity in the CGS system is:**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** (Smoke emissions).
+
+**Logic:** (Smoke emissions).
+
+</details>
+
+**Q10.** **The unit of dynamic viscosity in the CGS system is:**  
     A. Pascal-second  
     B. Poise  
     C. Stokes  
-    D. Poiseuille  
-    *Answer*: **B** ($1\text{ Pa}\cdot s = 10\text{ Poise}$. Stokes is kinematic viscosity).
+    D. Poiseuille
 
-11. **One astronomical unit ($AU$) is approximately equal to:**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** ($1\text{ Pa}\cdot s = 10\text{ Poise}$. Stokes is kinematic viscosity).
+
+**Logic:** ($1\text{ Pa}\cdot s = 10\text{ Poise}$. Stokes is kinematic viscosity).
+
+</details>
+
+**Q11.** **One astronomical unit ($AU$) is approximately equal to:**  
     A. $9.46 \times 10^{15}\text{ m}$  
     B. $1.496 \times 10^{11}\text{ m}$  
     C. $3.08 \times 10^{16}\text{ m}$  
-    D. $3.84 \times 10^8\text{ m}$  
-    *Answer*: **B** ($149.6\text{ million km}$).
+    D. $3.84 \times 10^8\text{ m}$
 
-12. **The SI unit of magnetic field strength ($H$) is:**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** ($149.6\text{ million km}$).
+
+**Logic:** ($149.6\text{ million km}$).
+
+</details>
+
+**Q12.** **The SI unit of magnetic field strength ($H$) is:**  
     A. Tesla  
     B. Weber  
     C. Ampere per metre  
-    D. Henry  
-    *Answer*: **C** ($A/m$. Tesla is flux density $B$).
+    D. Henry
 
-13. **Which instrument is used to determine the angle of dip of Earth's magnetic field?**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **C** ($A/m$. Tesla is flux density $B$).
+
+**Logic:** ($A/m$. Tesla is flux density $B$).
+
+</details>
+
+**Q13.** **Which instrument is used to determine the angle of dip of Earth's magnetic field?**  
     A. Sextant  
     B. Dip Circle  
     C. Spherometer  
-    D. Theodolite  
-    *Answer*: **B** (Dip Circle).
+    D. Theodolite
 
-14. **In the human body, the electrical recording of brain activity is denoted by:**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** (Dip Circle).
+
+**Logic:** (Dip Circle).
+
+</details>
+
+**Q14.** **In the human body, the electrical recording of brain activity is denoted by:**  
     A. ECG  
     B. EEG  
     C. EMG  
-    D. ERG  
-    *Answer*: **B** (Electroencephalogram).
+    D. ERG
 
-15. **A pressure of $1\text{ bar}$ in CGS units is:**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** (Electroencephalogram).
+
+**Logic:** (Electroencephalogram).
+
+</details>
+
+**Q15.** **A pressure of $1\text{ bar}$ in CGS units is:**  
     A. $10^5\text{ dyne/cm}^2$  
     B. $10^6\text{ dyne/cm}^2$  
     C. $10^7\text{ dyne/cm}^2$  
-    D. $10^3\text{ dyne/cm}^2$  
-    *Answer*: **B** ($1\text{ bar} = 10^5\text{ N/m}^2 = 10^5 \times 10^5\text{ dyne} / 10^4\text{ cm}^2 = 10^6\text{ dyne/cm}^2$).
+    D. $10^3\text{ dyne/cm}^2$
 
-16. **Which of the following is NOT a unit of energy?**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** ($1\text{ bar} = 10^5\text{ N/m}^2 = 10^5 \times 10^5\text{ dyne} / 10^4\text{ cm}^2 = 10^6\text{ dyne/cm}^2$).
+
+**Logic:** ($1\text{ bar} = 10^5\text{ N/m}^2 = 10^5 \times 10^5\text{ dyne} / 10^4\text{ cm}^2 = 10^6\text{ dyne/cm}^2$).
+
+</details>
+
+**Q16.** **Which of the following is NOT a unit of energy?**  
     A. Erg  
     B. Calorie  
     C. Kilowatt-hour  
-    D. Megawatt  
-    *Answer*: **D** (Megawatt is a unit of power).
+    D. Megawatt
 
-17. **A fathometer measures ocean depth in fathoms. One fathom equals:**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **D** (Megawatt is a unit of power).
+
+**Logic:** (Megawatt is a unit of power).
+
+</details>
+
+**Q17.** **A fathometer measures ocean depth in fathoms. One fathom equals:**  
     A. $4\text{ feet}$  
     B. $6\text{ feet} = 1.8288\text{ m}$  
     C. $10\text{ feet}$  
-    D. $12\text{ feet}$  
-    *Answer*: **B**.
+    D. $12\text{ feet}$
 
-18. **The SI derived unit 'lux' is equivalent to:**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B**.
+
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+</details>
+
+**Q18.** **The SI derived unit 'lux' is equivalent to:**  
     A. $cd\cdot sr$  
     B. $lm/m^2 = cd\cdot sr\cdot m^{-2}$  
     C. $W/m^2$  
-    D. $J/s$  
-    *Answer*: **B**.
+    D. $J/s$
 
-19. **Water turbidity caused by suspended insoluble colloidal particles is measured in:**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B**.
+
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+</details>
+
+**Q19.** **Water turbidity caused by suspended insoluble colloidal particles is measured in:**  
     A. Cusec  
     B. Dobson  
     C. NTU  
-    D. Poise  
-    *Answer*: **C** (Nephelometric Turbidity Units).
+    D. Poise
 
-20. **Which device is utilized by navigators at sea to determine longitude with high precision?**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **C** (Nephelometric Turbidity Units).
+
+**Logic:** (Nephelometric Turbidity Units).
+
+</details>
+
+**Q20.** **Which device is utilized by navigators at sea to determine longitude with high precision?**  
     A. Sextant  
     B. Chronometer  
     C. Gyroscope  
-    D. Anemometer  
-    *Answer*: **B** (Marine chronometer).
+    D. Anemometer
 
-21. **Which of the following units represents the maximum distance?**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** (Marine chronometer).
+
+**Logic:** (Marine chronometer).
+
+</details>
+
+**Q21.** **Which of the following units represents the maximum distance?**  
     A. Light-year  
     B. Astronomical Unit  
     C. Parsec  
-    D. Mile  
-    *Answer*: **C** ($1\text{ Parsec} = 3.262\text{ ly} > 1\text{ ly} > 1\text{ AU}$).
+    D. Mile
 
-22. **The unit of electrical conductance, Siemens, is the reciprocal of:**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **C** ($1\text{ Parsec} = 3.262\text{ ly} > 1\text{ ly} > 1\text{ AU}$).
+
+**Logic:** ($1\text{ Parsec} = 3.262\text{ ly} > 1\text{ ly} > 1\text{ AU}$).
+
+</details>
+
+**Q22.** **The unit of electrical conductance, Siemens, is the reciprocal of:**  
     A. Volt  
     B. Ampere  
     C. Ohm  
-    D. Farad  
-    *Answer*: **C** ($S = \Omega^{-1} = \text{mho}$).
+    D. Farad
 
-23. **Which instrument measures actual evapotranspiration from a vegetated field?**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **C** ($S = \Omega^{-1} = \text{mho}$).
+
+**Logic:** ($S = \Omega^{-1} = \text{mho}$).
+
+</details>
+
+**Q23.** **Which instrument measures actual evapotranspiration from a vegetated field?**  
     A. Atmometer  
     B. Lysimeter  
     C. Psychrometer  
-    D. Hypsometer  
-    *Answer*: **B** (Lysimeter).
+    D. Hypsometer
 
-24. **In air pollution monitoring, PM2.5 indicates particulate matter with diameter up to:**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** (Lysimeter).
+
+**Logic:** (Lysimeter).
+
+</details>
+
+**Q24.** **In air pollution monitoring, PM2.5 indicates particulate matter with diameter up to:**  
     A. $2.5\text{ millimetres}$  
     B. $2.5\text{ nanometres}$  
     C. $2.5\text{ micrometres (microns)}$  
-    D. $2.5\text{ picometres}$  
-    *Answer*: **C**.
+    D. $2.5\text{ picometres}$
 
-25. **One horsepower ($hp$) in SI units is precisely:**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **C**.
+
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+</details>
+
+**Q25.** **One horsepower ($hp$) in SI units is precisely:**  
     A. $735.5\text{ W}$  
     B. $746\text{ W}$  
     C. $750\text{ W}$  
-    D. $1000\text{ W}$  
-    *Answer*: **B** ($746\text{ W}$).
+    D. $1000\text{ W}$
 
-26. **Which remote sensor measures direct normal solar irradiance?**  
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** ($746\text{ W}$).
+
+**Logic:** ($746\text{ W}$).
+
+</details>
+
+**Q26.** **Which remote sensor measures direct normal solar irradiance?**  
     A. Pyrheliometer  
     B. Pyranometer  
     C. Pycnometer  
-    D. Photometer  
-    *Answer*: **A**.
+    D. Photometer
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **A**.
+
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
 
 ---
+
+</details>
 
 ## Common Traps & Negative-Marking Eliminators
 1. **Light-Year Trap**: Do NOT mark light-year as a unit of time. It is astronomical distance ($9.461 \times 10^{15}\text{ m}$).

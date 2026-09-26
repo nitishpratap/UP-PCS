@@ -1,999 +1,681 @@
 # Census and Urbanisation Topic 2 — Population Growth, Demographic Transition and Theories
-### ★ UPPCS Revision Sheet — Lucent-style (no repetition · Practice ≥24)
 
-<details>
-<summary><strong>Covers syllabus</strong> (click to expand)</summary>
-
-Population growth / rate / decadal / natural growth | India’s growth phases | Population explosion | Causes and consequences | Malthus / Neo-Malthusian | Demographic Transition Theory | Optimum population | Henry George | Population–resource | Population and economic development | Population and environment | Stabilisation | Future trends
-
-</details>
-
-> **Sources baked in:** NCERT Class 12 population growth phases, Malthus / DTT / Cannan coaching map, Geography Topic 11 theory desk, UPPCS Prelims (incl. 2023–2024 theory stems), UKPCS Prelims
-> **Weight:** ★★★★ High — geometric vs arithmetic, theory–propounder match, Stage-2 explosion, and India’s 1951–81 phase decide stems
-> **Last verified:** September 2026
-
-**Census size / density tables** → **Topic 1**. **Fertility / mortality rates and NPP detail** → **Topic 4**. **Age structure / demographic dividend composition** → **Topic 3** / Economy 8. **Migration** → **Topic 5**.
+### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · Practice ≥26)
 
 ---
 
 ## Current Affairs
 
 | Year | Fact | Why it matters |
-|------|------|----------------|
-| **~2023** | UN estimates: India becomes the world’s **most populous** country (ahead of China). | CA only — does **not** rewrite Census 2011 tables (Topic 1). |
-| **NFHS-5** | National **TFR ~2.0** (near / at replacement teaching). | Stabilisation signal; high-TFR pockets remain (UP / Bihar / MP). Rate depth → Topic 4. |
-| **NPP 2000** | Long-term stability goal keyed to **2045**. | Policy year tag; full NPP card → Topic 4. |
-| **Growth rate** | Census 2011 decadal growth ~**17.7%** — first clear post-Independence slowdown vs 1991–2001. | Lower **rate**, still large absolute addition. |
+|---|---|---|
+| Rolling | Refresh edition-bound figures from latest Census / Survey / State CA desks. | Do not invent interim totals. |
 
----
+UP district extremes also → [UP Special Topic 6](../up%20special/06_Society_Population_Education_Social.md). This chapter owns the national Census / demography desk.
 
-## Consolidated — 46 Must-Score Facts
+## Consolidated — 50 Must-Score Facts
 
-1. **Population growth** is the change in population size over a period — absolute change or percentage rate.
-2. **Absolute growth** = P₂ − P₁. **Growth rate** = percentage change over the period (decadal rate in Census teaching).
-3. **Natural growth** = **CBR − CDR** (births and deaths only).
-4. **Actual / overall growth** = natural growth **± net migration** (induced change).
-5. Do not treat growth rate as the same thing as the birth rate alone.
-6. India’s modern census growth story turns at **1921** — the **Year of the Great Divide** (negative / declining growth decade; Topic 1 neighbour).
-7. NCERT-style phases: **1901–1921** stagnant / low → **1921–1951** steady → **1951–1981** rapid / **explosion** → **1981–2011** high growth with a **declining rate**.
-8. The peak explosion teaching window is **1951–1981**; highest decadal rate band often keys **1961–1971** (~**24.8%**).
-9. **Population explosion** means rapid net growth when **death rates fall first** while **birth rates stay high** — classic DTT Stage 2.
-10. India’s explosion causes: public-health / mortality fall, high fertility norms, early marriage, son preference, poverty-as-insurance, unmet contraception need.
-11. Consequences of rapid growth: pressure on food, land, water, jobs, housing, schools, health and environment; delayed per-capita gains if output does not keep pace.
-12. Stabilisation means births and deaths converge toward low levels so growth slows sharply — India is nationally late-transition but **uneven by State**.
-13. **Thomas Malthus** (1798, *Essay on the Principle of Population*) is the population–food theorist.
-14. Malthus: population grows **geometrically** (1, 2, 4, 8…); food grows **arithmetically** (1, 2, 3, 4…).
-15. Swap trap: **do not** write population arithmetic / food geometric.
-16. Malthusian Theory is a theory of **population** — not labelled as a theory of poverty, unemployment or “the economy” in the keyed match.
-17. **Positive checks** raise the **death** rate (famine, disease, war).
-18. **Preventive checks** lower the **birth** rate (delayed marriage, moral restraint, celibacy teaching).
-19. **Neo-Malthusians** keep resource-pressure worry but stress **birth control / contraception** as the main check.
-20. **Karl Marx** rejected natural-law overpopulation; surplus population is a product of **capitalism** / unequal distribution.
-21. **Ester Boserup** argued population growth can **intensify agriculture** (labour, shorter fallow, technique) rather than only cause famine.
-22. **Optimum population** propounder in the usual key: **Edwin Cannan**.
-23. Optimum = population size at which, with given resources and technique, **income per head is maximum**.
-24. Below optimum → **underpopulated**; above optimum → **overpopulated** (per-head income below the peak).
-25. Robbins, Dalton and Carr-Saunders **restated** optimum ideas — first name for “who propounded” remains **Cannan**.
-26. Dalton’s **maladjustment** formula **M = (A − O) / O** measures gap from optimum — **not** Henry George’s theory.
-27. **Social mal-adjustment** theory: **Henry George** (*Progress and Poverty*) — poverty from unequal land/wealth, not Malthusian food arithmetic.
-28. **Demographic Transition Theory** propounder in match lists: **Warren Thompson** (**Frank Notestein** populariser).
-29. Classic DTT stages: (1) high birth–high death → (2) high birth–falling death = **boom** → (3) falling birth–low death → (4) low birth–low death.
-30. Stage names teaching: high stationary → early expanding → late expanding → low stationary.
-31. **C.P. Blacker** adds a **fifth declining** stage (very low births; possible natural decrease / ageing).
-32. Urbanisation **acceleration** in the classic curve is linked to DTT **Stage 2**.
-33. India is framed in **later expanding / declining-growth** transition — not stuck forever in Stage 1 or pure explosion.
-34. Southern States aged / stabilised earlier; northern high-fertility belt lagged — regional unevenness is the standing trap.
-35. Population and **economic development** are two-way: growth can dilute capital per worker; development (education, women’s work, urbanisation) tends to lower fertility.
-36. Poverty ↔ fertility can run both ways — more children under insecurity; larger families can deepen poverty (avoid mono-causal answers).
-37. Population and **environment**: rapid growth raises demand for land, water, fuel and waste sinks; technology and institutions mediate the damage.
-38. Population–resource relationship asks whether numbers fit the resource–technology base (links to optimum / overpopulation teaching).
-39. Future trends teaching: national TFR near replacement, but absolute population still rises for years because of **population momentum** (large young cohorts).
-40. **Arsène Dumont** — social capillarity (status rise → fewer children); do not swap with Henry George.
-41. Sadler / Doubleday / Spencer appear as fringe fertility theories in options — not the four core match names.
-42. World Population Day **11 July**; UNFPA World Population Report — Topic 7 neighbour.
-43. Theory match spine: Cannan–optimum · George–social mal-adjustment · Thompson–DTT · Malthus–population–food.
-44. Great Divide (**1921**) ≠ explosion peak (**1951–81**) — different century stories.
-45. Topic 4 owns CBR/CDR/TFR definitions and NPP 2000 full card; this chapter owns **why growth surged then slowed**.
-46. Demographic **dividend** needs jobs, skills and health — age-structure depth in Topic 3 / Economy 8.
+1. **Thomas Robert Malthus** published his seminal work *An Essay on the Principle of Population* in **1798**.
+2. Malthus postulated that population increases in **Geometric Progression** ($1, 2, 4, 8, 16...$) while food production increases in **Arithmetic Progression** ($1, 2, 3, 4, 5...$).
+3. According to Malthus, unchecked population has the biological tendency to **double every 25 years**.
+4. Malthusian checks are classified into two categories: **Preventive Checks** (man-made, moral restraint) and **Positive Checks** (nature-induced, famines/wars/diseases).
+5. The **Demographic Transition Theory (DTT)** was originally formulated by **Warren S. Thompson (1929)** and developed by **Frank W. Notestein (1945)**.
+6. The Demographic Transition Theory explains the transition from high birth and death rates to low birth and death rates as an economy modernizes.
+7. **Stage 1 (High Stationary)** of DTT is characterized by high birth rates, high death rates, and a stable, low population.
+8. **Stage 2 (Early Expanding)** of DTT is characterized by high birth rates and rapidly falling death rates, leading to a **Population Explosion**.
+9. **Stage 3 (Late Expanding)** of DTT is characterized by rapidly falling birth rates and low death rates, with population growth slowing down.
+10. **Stage 4 (Low Stationary)** of DTT is characterized by low birth rates, low death rates, and a stable, mature population.
+11. **India is currently in Stage 3 (Late Expanding Phase)** of the Demographic Transition.
+12. **India prior to 1921** was in **Stage 1 (High Stationary Phase)** of the Demographic Transition.
+13. The **Optimum Population Theory** was propounded by English economist **Edwin Cannan** in his 1924 book *Wealth*.
+14. Optimum population is defined as that population size which yields the **maximum output / real income per capita**.
+15. **Hugh Dalton** formulated the degree of maladjustment equation: **$M = (A - O) / O$**, where $A$ is Actual Population and $O$ is Optimum Population.
+16. If $M > 0$ in Dalton's formula, the country is suffering from **Overpopulation**; if $M < 0$, it is **Underpopulated**.
+17. **Karl Marx** rejected Malthusian population theory, arguing that overpopulation and poverty are products of **capitalist exploitation**, not natural laws.
+18. Marx introduced the concept of the **"Industrial Reserve Army of Labour"**, created by machinery displacing human workers.
+19. **Ester Boserup (1965)** propounded that population pressure acts as an engine of agricultural innovation and intensification.
+20. In Indian demographic history, **Phase I (1901–1921)** was the period of **stagnant / stationary population**.
+21. The **Year 1921** is universally termed **"The Year of the Great Divide"** because population registered a negative growth of **-0.31%**.
+22. The 1918 **Influenza (Spanish Flu) Pandemic** killed an estimated 14 million people (approx. 5% of India's population), causing negative growth in 1911–1921.
+23. **Phase II (1921–1951)** in India was characterized by **steady, moderate population growth**.
+24. **Phase III (1951–1981)** in India was characterized by **rapid high growth / Population Explosion**.
+25. India's decadal population growth rate peaked historically during the decade **1961–1971 at 24.80%**.
+26. **Phase IV (1981–2011+)** in India is characterized by **high growth with clear signs of slowing down**.
+27. India's decadal population growth rate dropped from **21.54%** (1991–2001) to **17.70%** (2001–2011).
+28. India's annual exponential population growth rate in Census 2011 was **1.64%** (down from 1.97% in 2001).
+29. **Natural Increase of Population** is calculated as: **Crude Birth Rate (CBR) minus Crude Death Rate (CDR)**.
+30. According to the **Rule of 70**, population doubling time is approximately **70 divided by the annual percentage growth rate**.
+31. At an annual growth rate of 1.64%, India's population doubling time is approximately **42.7 years**.
+32. The concept of **Demographic Dividend** refers to the economic growth advantage when the share of the working-age population (**15–59 years**) exceeds the dependent population.
+33. India entered its demographic dividend window around **2005–06**, which is expected to last until roughly **2055–56**.
+34. The **Dependency Ratio** is calculated as: $[(	ext{Population } 0-14 + 	ext{Population } 60+) / 	ext{Working-Age Population } 15-59] 	imes 100$.
+35. The **Total Fertility Rate (TFR)** required for population stabilization (Replacement Level) is **2.1 children per woman**.
+36. As per the **National Family Health Survey-5 (NFHS-5, 2019-21)**, India's national TFR declined to **2.0**, dropping below the replacement level of 2.1.
+37. **Henry George** in *Progress and Poverty* (1879) argued that poverty arises from land monopoly and landlord rent extraction, not overpopulation.
+38. **Paul R. Ehrlich** published the Neo-Malthusian bestseller *The Population Bomb* in **1968**.
+39. The **Club of Rome** published the influential environmental report *The Limits to Growth* in **1972**, warning of resource exhaustion from exponential growth.
+40. The **Simon-Ehrlich Wager (1980)** between Julian Simon (cornucopian economist) and Paul Ehrlich proved Ehrlich wrong when prices of 5 raw metals fell over 10 years.
+41. **Julian Simon** in *The Ultimate Resource* (1981) argued that human intellect and labour are the ultimate economic resource.
+42. A **Population Pyramid** with a broad base and sharply tapering top indicates a **young population with high birth and high mortality rates** (Stage 1 or 2).
+43. A **Stationary / Bell-shaped Population Pyramid** with nearly equal base and middle indicates **low birth and death rates** (Stage 3 or 4).
+44. An **Inverted / Urn-shaped Population Pyramid** with a narrow base and broad top indicates an **aging population with sub-replacement fertility** (Stage 5).
+45. In India, **Kerala and Tamil Nadu** were the first major States to achieve below-replacement level fertility (TFR $< 2.1$).
+46. Among large Indian States, **Bihar (TFR ~3.0)** and **Uttar Pradesh (TFR ~2.4 in NFHS-5)** still retain fertility above replacement level.
+47. India was the **first country in the world** to launch a National Family Planning Programme in **1952**.
+48. The **National Population Policy (NPP) 2000** aimed to achieve population stabilization in India by the year **2045** (subsequently revised to 2070).
+49. The **J-Curve of Population Growth** represents exponential / unrestricted population growth under ideal environmental conditions.
+50. The **S-Curve (Logistic Growth Curve)** represents population growth that stabilizes at the environment's **Carrying Capacity ($K$)**.
 
 ---
 
 ## Confused Pairs
 
-| A | B | Distinguishing fact |
-|---|---|---|
-| **Natural growth** | **Actual growth** | CBR−CDR only vs ± net migration |
-| **Geometric (population)** | **Arithmetic (food)** | Malthus pair — never swap |
-| **Positive checks** | **Preventive checks** | Raise deaths vs lower births |
-| **Malthus** | **Marx / Boserup** | Natural food limit vs capitalism / intensification critics |
-| **Cannan (optimum)** | **Dalton maladjustment formula** | Propounder vs later gap measure |
-| **Henry George** | **Dalton “maladjustment”** | Social theory vs optimum maths |
-| **Thompson (DTT)** | **Malthus** | Stage model of CBR/CDR vs food–population law |
-| **DTT Stage 2** | **DTT Stage 4** | Explosion vs low stationary |
-| **Great Divide 1921** | **Explosion 1951–81** | Negative/decline decade vs rapid growth phase |
-| **Lower growth rate** | **Falling population** | Rate can fall while absolute numbers still rise |
-| **Neo-Malthusian** | **Classical Malthus** | Birth control emphasis vs moral restraint / positive checks core |
-
-## Must-score drill — theory → person
-
-| Theory | Propounder |
-|---|---|
-| Optimum Population | **Edwin Cannan** |
-| Social Mal-adjustment | **Henry George** |
-| Demographic Transition | **Thompson** (Notestein) |
-| Population–Food | **Malthus** |
-
-| India’s growth phase | Character |
-|---|---|
-| 1901–1921 | Stagnant / low (ends at Great Divide) |
-| 1921–1951 | Steady growth |
-| 1951–1981 | Rapid / explosion |
-| 1981–2011 | High growth, declining rate |
+| Confused Pair / Concept A | Confused Pair / Concept B | Trap / Crucial Difference Tested in UPPSC |
+| :--- | :--- | :--- |
+| **Malthusian Theory (1798)**: Subsistence-based, biological food vs population ratio | **Optimum Population Theory (1924)**: Wealth-based, maximum per capita income ratio | **Trap**: Malthus focused on biological survival (food starvation); Edwin Cannan focused on *economic efficiency and highest per capita output*. |
+| **Stage 2 of DTT (Early Expanding)**: High Birth Rate + Plummeting Death Rate | **Stage 3 of DTT (Late Expanding)**: Plummeting Birth Rate + Low Death Rate | **Trap**: Population explosion happens in **Stage 2** (India 1951–81). India is currently in **Stage 3** (birth rates falling, growth decelerating). |
+| **Preventive Checks (Malthus)**: Voluntary human actions (late marriage, celibacy) | **Positive Checks (Malthus)**: Involuntary natural disasters (famines, plagues, wars) | **Trap**: Positive does NOT mean good; in Malthusian terminology, positive checks are nature's painful interventions that increase the death rate. |
+| **Boserup's Hypothesis**: Population pressure causes technological progress | **Malthus's Hypothesis**: Population growth causes inevitable poverty and collapse | **Trap**: Boserup is the exact antithesis of Malthus (Boserup: population drives agricultural intensification; Malthus: population causes starvation). |
+| **Dalton's Formula: $M = (A - O) / O$** (Overpopulation if $M > 0$) | **Dalton's Formula: $M < 0$** (Underpopulation) | **Trap**: If actual population ($A$) > optimum ($O$), $M$ is positive (Overpopulation). If $A < O$, $M$ is negative (Underpopulation). |
+| **1921: Year of the Great Divide** (Negative growth: -0.31%) | **1971: Peak Population Growth Decade** (Highest growth: 24.80%) | **Trap**: 1921 is the Great Divide (shift from stagnant to growing population); 1971 is the historical peak of the population explosion. |
+| **Neo-Malthusians (Paul Ehrlich)**: Advocate modern contraception & abortion | **Classical Malthus (1798)**: Rejected artificial birth control; advocated only moral restraint | **Trap**: Thomas Malthus was a clergyman who opposed artificial contraception; Neo-Malthusians actively promote technological birth control. |
+| **Replacement Level Fertility (TFR = 2.1)** | **Current India TFR (NFHS-5: 2.0)** | **Trap**: India's TFR has already dropped below replacement level (2.0) nationally, though population will continue growing due to *demographic momentum*. |
+| **Exponential (J-shaped) Growth**: Unchecked growth with constant birth/death rates | **Logistic (S-shaped) Growth**: Growth slowed by carrying capacity ($K$) | **Trap**: Real populations in nature follow the S-shaped logistic curve due to environmental resistance. |
+| **Demographic Dividend**: High ratio of working-age (15–59) to dependents | **Demographic Disaster / Drag**: High working-age population without jobs/skills | **Trap**: Dividend is only potential; if uneducated and unemployed, the dividend turns into a demographic liability/drag. |
 
 ---
 
-## 2.1 Population growth — measures and India’s phases
+## Must-score drill — master tables
 
-**Population growth** is how a population’s size changes over time.
+### Table 1: Four Distinct Phases of India's Demographic Growth (1901 to Present)
 
-### Vocabulary
-
-- **Absolute growth** counts the extra people (P₂ − P₁).
-- **Growth rate** expresses that change as a percentage of the starting population (Census uses **decadal** rates).
-- **Natural growth** depends only on births and deaths: **CBR − CDR**.
-- **Migration** adds or removes people — so actual change can differ from natural growth.
-- A falling growth **rate** can still mean a rising headcount if the base is already huge (**population momentum**).
-
-### India’s twentieth-century phases
-
-- **1901–1921:** stagnant or very low growth; ends with the **1921 Great Divide**.
-- **1921–1951:** steady positive growth as mortality begins to ease.
-- **1951–1981:** **population explosion** — death rates fall faster than birth rates.
-- **1981–2011:** growth remains high in absolute terms, but the **decadal rate declines** (2011 ~**17.7%** vs 1991–2001 ~**21.5%**).
-- Highest rate band in teaching often keys the **1961–1971** decade (~**24.8%**).
-- Census 2011 size and density stay in **Topic 1**; this section owns the **phase story**.
-
-### Population explosion — meaning
-
-- Explosion is **rapid net increase**, not a one-year spike.
-- Mechanism: **mortality revolution** (vaccines, sanitation, food security, maternal–child care) while fertility norms stay high.
-- India felt this most strongly from the **1950s through the 1980s**.
-- Today’s national slowdown does **not** erase regional high-fertility pockets.
-
-### Causes (India teaching map)
-
-- Fall in IMR / CDR from public health and food systems.
-- Early marriage and longer reproductive span.
-- Son preference and desire for large families.
-- Poverty and agrarian labour demand treating children as security.
-- Limited contraception access / unmet need in weaker districts.
-- Cultural and educational lags in female schooling (links to Topic 3 / 4).
-
-### Consequences
-
-- Strain on land, water, housing, schools, hospitals and jobs.
-- Harder rise in **per capita** income if GDP gains are diluted.
-- Environmental pressure (Topic 2.4) and urban overcrowding (Topic 6).
-- Opportunity side: a large working-age bulge can become a **demographic dividend** if skilled and employed (Topic 3 / Economy 8).
-
-### Stabilisation and future trends
-
-- Stabilisation = low fertility and low mortality with slow growth.
-- National TFR near replacement (NFHS-5 ~**2.0**) is a stabilisation signal — not uniform across States.
-- Absolute population can keep rising for decades after TFR falls because of young age structure.
-- Policy instruments (NPP, family welfare) deepen in **Topic 4**.
+| Demographic Phase | Period / Years | Birth Rate & Death Rate Behavior | Decadal Growth & Characteristics | Underlying Socio-Economic & Health Drivers |
+| :--- | :--- | :--- | :--- | :--- |
+| **Phase I: Period of Stagnant / Stationary Population** | **1901–1921** | • **High Birth Rate** (~48.1 per 1000)<br>• **High Death Rate** (~47.2 per 1000) | Net growth was negligible (**5.4%** in 1901–11, **-0.31%** in 1911–21). Population increased by only 13 million over 20 years. | • Severe recurring famines (1896, 1899).<br>• Epidemics of plague, cholera, malaria.<br>• **1918 Influenza (Spanish Flu) pandemic** killed ~14 million Indians (~5% of population).<br>• Widespread malnutrition and absence of modern healthcare. |
+| **Phase II: Period of Steady / Moderate Growth** | **1921–1951** | • **High Birth Rate** (~40 per 1000)<br>• **Declining Death Rate** (~27 per 1000) | Moderate, steady expansion (**11.0%** in 1921–31, **14.2%** in 1931–41, **13.3%** in 1941–51). Total population grew by 110 million. | • Famine prevention and better transport/grain distribution.<br>• Improved sanitation and public health measures.<br>• Introduction of vaccines and sulpha drugs curbing major epidemics.<br>• **1921 is "The Year of the Great Divide"**. |
+| **Phase III: Period of Rapid High Growth (Population Explosion)** | **1951–1981** | • **High / Slow-declining Birth Rate** (~37 per 1000)<br>• **Rapidly Plummeting Death Rate** (~15 per 1000) | **Population Explosion**: Decadal growth surged to **21.5%** (1951–61), **24.8%** (1961–71 — historical peak), and **24.7%** (1971–81). Population nearly doubled from 361 million to 683 million. | • Massive post-independence health interventions (eradication of smallpox, control of malaria with DDT).<br>• Introduction of broad-spectrum antibiotics (Penicillin).<br>• Expansion of hospital infrastructure and maternal care.<br>• Traditional pro-natalist social attitudes and early universal marriage persisted. |
+| **Phase IV: Period of High Growth with Definite Signs of Slowing Down** | **1981–2011+** | • **Rapidly Declining Birth Rate** (from 34 to ~20 per 1000)<br>• **Low Stable Death Rate** (~7 per 1000) | Decadal growth decelerated to **23.9%** (1981–91), **21.5%** (1991–2001), and **17.7%** (2001–2011). Annual exponential growth rate dropped to **1.64%**. | • Rise in female literacy and female age at marriage.<br>• Expansion of family planning and modern contraception.<br>• Urbanisation, nuclear family preferences, and rising cost of child rearing.<br>• TFR reached **2.0** (below replacement level 2.1 in NFHS-5). |
 
 ---
 
-## 2.2 Malthusian and Neo-Malthusian ideas
+### Table 2: Comparative Matrix of Classical & Modern Demographic Theories
 
-**Thomas Robert Malthus** set the classical population–food limit story in 1798.
-
-### Core claim
-
-- Population tends to grow in **geometric** progression.
-- Food supply tends to grow in **arithmetic** progression.
-- When population outruns subsistence, misery returns.
-
-### Checks
-
-- **Positive checks** increase mortality: famine, epidemic, war.
-- **Preventive checks** reduce fertility: delayed marriage, moral restraint.
-- Do not swap positive (deaths up) with preventive (births down).
-
-### How stems classify Malthus
-
-- Match lists call it the **population–food supply** relationship theory.
-- It is keyed as a theory of **population**, not of “unemployment theory” or “poverty theory” as the primary label.
-
-### Neo-Malthusians and critics
-
-- **Neo-Malthusians** accept resource pressure but push **contraception / family planning** as the practical check.
-- **Marx** denied a natural overpopulation law; surplus labour is produced by capitalist relations.
-- **Boserup** flipped the pressure story: more people can force **agricultural intensification**.
-- Ricardo’s diminishing returns on land is often taught **beside** Malthus; the geometric/arithmetic pair remains Malthus’s signature.
-
-**UPPCS (Pre) 2024**
-
-Malthus argued that the population grows in a ______ progression, while agricultural production/food supply grows in a ______ progression.
-
-A. Linear, Exponential
-B. Exponential, Linear
-C. Arithmetic, Geometric
-D. Geometric, Arithmetic
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard Malthus wording is geometric population, arithmetic food. Option C swaps them; linear/exponential is paraphrase bait.
-
-**Ans: D.** Geometric, Arithmetic.
-
-</details>
+| Demographic Theory | Propounder / Key Scholars | Publication & Year | Central Hypothesis & Core Doctrine | Primary Mechanisms & Solutions |
+| :--- | :--- | :--- | :--- | :--- |
+| **Malthusian Theory of Population** | **Thomas Robert Malthus** (English Economist & Clergyman) | *An Essay on the Principle of Population* (**1798**) | • Population increases in **Geometric Progression** ($1, 2, 4, 8, 16, 32...$), doubling every 25 years.<br>• Food production increases in **Arithmetic Progression** ($1, 2, 3, 4, 5, 6...$) due to diminishing returns to land.<br>• Population growth inevitably outstrips food supply, causing widespread starvation (**Malthusian Trap**). | Two checks to restore balance:<br>1. **Preventive Checks** (Man-made): Moral restraint, celibacy, delayed marriage.<br>2. **Positive Checks** (Nature's cruel intervention): Famines, pestilence, epidemics, wars. |
+| **Demographic Transition Theory (DTT)** | **Warren S. Thompson** (1929), **Frank W. Notestein** (1945), **C. P. Blacker** (1947) | *Plenty of People* (Notestein, 1945) | Population growth passes through sequential stages driven by economic development and industrialization:<br>• Stage 1: High Birth & Death Rates $\implies$ Low Growth.<br>• Stage 2: High Birth & Falling Death Rates $\implies$ Population Explosion.<br>• Stage 3: Falling Birth & Low Death Rates $\implies$ Slowing Growth.<br>• Stage 4: Low Birth & Low Death Rates $\implies$ Stationary Population. | Transition occurs naturally as agrarian traditional societies industrialise, urbanise, educate women, and adopt modern healthcare. |
+| **Optimum Population Theory** | **Edwin Cannan** (1924); refined by **Alexander Carr-Saunders**, **Hugh Dalton**, **Lionel Robbins** | *Wealth* (Edwin Cannan, 1924) | **Optimum Population** is that specific size of population which, given natural resources, capital stock, and state of technology, yields the **Maximum Per Capita Output / Maximum Real Income per Head**. | **Dalton's Maladjustment Formula**:<br>$$M = rac{A - O}{O}$$<br>• $M > 0$: Overpopulation.<br>• $M < 0$: Underpopulation.<br>• $M = 0$: Perfect Optimum. |
+| **Marxian Theory of Population** | **Karl Marx** (German Philosopher & Economist) | *Das Kapital* (**1867**) | Rejected Malthus completely. Held that **there is no universal, eternal law of population**. Overpopulation and poverty are inherent structural evils created by the **capitalist mode of production** and unequal distribution of wealth. | Capitalists accumulate machinery, displacing workers to create an **"Industrial Reserve Army of Labour"** to depress wages. Solution: Socialist restructuring and equitable distribution. |
+| **Boserupian Agricultural Intensification Hypothesis** | **Ester Boserup** (Danish Economist) | *The Conditions of Agricultural Growth* (**1965**) | **Population pressure acts as a stimulus** to technological innovation and agricultural intensification ("Necessity is the mother of invention"), reversing Malthusian fatalism. | Population growth forces shift from fallowing/shifting cultivation to multi-cropping, irrigation, fertilizers, and modern mechanization. |
 
 ---
 
-## 2.3 Demographic Transition Theory and optimum population
+### Table 3: Detailed Stages of Demographic Transition Theory (DTT)
 
-### Demographic Transition Theory (DTT)
-
-**Warren Thompson** is the usual propounder; **Frank Notestein** restated and popularised the model; **C.P. Blacker** added a fifth declining stage in some notes.
-
-| Stage | Births | Deaths | Growth pattern |
-|---|---|---|---|
-| 1 High stationary | High | High | Slow / near balance |
-| 2 Early expanding | High | Fall first | **Rapid (explosion)** |
-| 3 Late expanding | Fall | Low | Growth slows |
-| 4 Low stationary | Low | Low | Stable / very slow |
-| 5 Declining (Blacker) | Very low | Low (may exceed births) | Shrink / age |
-
-- Stage 1 reflects pre-modern disease and food insecurity.
-- Stage 2 is where **death falls first** — the explosion stage; classic notes also link **urbanisation acceleration** here.
-- Stage 3 is fertility decline through education, urban living and contraception.
-- Stage 4 is the mature low–low balance.
-- Stage 5 (when used) fits some European / East Asian ageing societies.
-- India is taught as **past pure Stage 2**, moving through late transition with State-level unevenness.
-
-### Optimum population — Edwin Cannan
-
-- **Optimum population** is the size that maximises **income per head** for given resources and technique.
-- Underpopulation and overpopulation are defined relative to that peak — not by a single magic density number.
-- Robbins / Dalton / Carr-Saunders restate the idea; **Cannan** remains the propounder in UPPCS match keys.
-- Dalton’s **M = (A − O) / O** measures departure from optimum — separate from Henry George.
-
-### Social mal-adjustment — Henry George
-
-- Poverty is a **social** failure of land and wealth distribution.
-- It is **not** Malthus’s natural food-arithmetic doom.
-- Do not credit Dalton or Malthus as the social mal-adjustment propounder.
-
-### Other names in options
-
-- **Dumont** — social capillarity.
-- Sadler, Doubleday, Spencer — older fertility hypotheses.
-- Keep the **four-name spine** for match lists: Cannan, George, Thompson, Malthus.
-
-**UPPCS (Pre) 2023**
-
-Match List-I with List-II and select the correct answer from the code given below.
-
-| List-I (Theory) | List-II (Propounder) |
-|---|---|
-| A. Optimum Population Theory | 1. Thompson |
-| B. Social Mal-adjustment Theory | 2. Malthus |
-| C. Demographic Transition Theory | 3. Edwin Cannan |
-| D. Population–Food Supply Relationship Theory | 4. Henry George |
-
-*Row order is not the answer code.*
-
-A. A-3, B-4, C-1, D-2
-B. A-2, B-3, C-4, D-1
-C. A-1, B-2, C-3, D-4
-D. A-4, B-3, C-1, D-2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Cannan = optimum; George = social mal-adjustment; Thompson = DTT; Malthus = population–food. Dalton’s formula is not George.
-
-**Ans: A.** A-3, B-4, C-1, D-2.
-
-</details>
+| Stage of Transition | Stage Name & Economic Character | Birth Rate (CBR) | Death Rate (CDR) | Natural Growth Rate | Age Structure & Population Pyramid | Global & Indian Examples |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Stage 1** | **High Stationary** (Pre-Industrial / Agrarian) | **Very High** (35–45 per 1000) | **Very High & Fluctuating** (30–40 per 1000) | **Negligible / Zero** ($pprox 0\%$) | High infant mortality; concave wide-base, very narrow-top pyramid (low life expectancy ~30 years). | Remote indigenous tribes; Britain before 1750; **India prior to 1921**. |
+| **Stage 2** | **Early Expanding (Population Explosion)** | **Very High** (30–40 per 1000) | **Plummeting Rapidly** (10–20 per 1000) | **Extremely High** (2.0% to 3.5% annually) | Broad-base, expanding triangular pyramid; high child dependency ratio. | Sub-Saharan African countries (Niger, Chad, Mali); **India during 1951–1981**. |
+| **Stage 3** | **Late Expanding (Slowing Growth)** | **Declining Rapidly** (15–25 per 1000) | **Low & Stabilized** (6–10 per 1000) | **Moderate to Low** (1.0% to 1.5%) | Bulging middle age group; demographic dividend phase; bell-shaped pyramid. | **India currently (Census 2011 to present)**, Brazil, South Africa, Mexico. |
+| **Stage 4** | **Low Stationary (Stabilized)** | **Low** (10–14 per 1000) | **Low** (8–12 per 1000) | **Near Zero / Stable** ($\le 0.5\%$) | Barrel / urn-shaped pyramid; high median age; aging population. | United States, Canada, United Kingdom, Australia, China. |
+| **Stage 5** | **Declining / Contracting (Negative Growth)** | **Extremely Low** (below CDR, $< 9$ per 1000) | **Rising slightly due to old age** (10–12 per 1000) | **Negative Natural Growth** ($< 0\%$) | Inverted pyramid; shrinking youth population; acute elderly dependency. | Japan, Germany, Italy, South Korea, Russia. |
 
 ---
 
-## 2.4 Population, development and environment
+## Teaching cards
 
-**Population does not act alone** — development level and environment shape outcomes.
+### 2.1 Demographic Measures & Growth Mechanics
 
-### Population and economic development
+#### A. Basic Demographic Rates & Formulas
+1. **Natural Growth Rate of Population**:
+   $$	ext{Natural Growth Rate} = 	ext{Crude Birth Rate (CBR)} - 	ext{Crude Death Rate (CDR)}$$
+   *(Note: Does not account for international migration. Overall Population Growth = Natural Growth + Net Migration).*
+2. **Decadal Growth Rate**:
+   $$	ext{Decadal Growth Rate (\%)} = \left(rac{P_t - P_0}{P_0}
+ight) 	imes 100$$
+   Where $P_t = 	ext{Population at current census}$ and $P_0 = 	ext{Population at preceding census 10 years ago}$.
+3. **Annual Exponential Growth Rate ($r$)**:
+   Calculated using the compound continuous growth formula $P_t = P_0 \cdot e^{rt}$.
+   - India's annual exponential growth rate dropped from **1.97%** (1991–2001) to **1.64%** (2001–2011).
+4. **Population Doubling Time (Rule of 70)**:
+   $$	ext{Doubling Time (Years)} pprox rac{70}{	ext{Annual Growth Rate (\%)}}$$
+   *(Example: If growth rate is 1.64%, doubling time is $70 / 1.64 pprox 42.7	ext{ years}$).*
 
-- Rapid growth can dilute capital, land and infrastructure **per person**.
-- Development that raises female education, urban jobs and child survival usually **lowers fertility** with a lag.
-- Growing population is not always the sole cause of poverty; poverty can also sustain high fertility — both directions appear in analysis stems.
-- A youthful age structure is an asset only with employment and skills (dividend vs burden).
+```
+                    ┌─────────────────────────────────────────────────────────┐
+                    │               DEMOGRAPHIC TRANSITION MODEL              │
+                    └─────────────────────────────────────────────────────────┘
+  Birth / Death
+  Rate (per 1000)
+       50 ┌─────────────────────────────────────────────────────────────────┐
+          │   STAGE 1      │    STAGE 2     │    STAGE 3    │    STAGE 4    │
+       40 │   Birth Rate ───\───────────────\               │               │
+          │                  \               \─── Birth ────\               │
+       30 │   Death Rate ─────\  POPULATION   \    Rate       \─── Birth ───│
+          │                    \  EXPLOSION    \               \    Rate    │
+       20 │                     \ GAP           \               \───────────│
+          │                      \────── Death ──\──────── Death ── Death ──│
+       10 │                               Rate    \        Rate     Rate    │
+          │                                        \────────────────────────│
+        0 └────────────────┴────────────────┴───────────┴───────────────────┘
+            High Stationary  Early Expanding  Late Expanding  Low Stationary
+```
 
-### Population and environment
+---
 
-- More people raise demand for food, water, fuel, housing and waste disposal.
-- Fragile regions (hills, drylands, coasts) feel pressure sooner through deforestation, groundwater stress and pollution.
-- Technology, prices and governance can ease or worsen the load — numbers alone do not decide every environmental outcome.
-- Population–resource teaching asks whether technique and institutions keep pace with numbers (links back to optimum / overpopulation).
+### 2.2 In-Depth Critique of the Malthusian Model
 
-### Stabilisation path (bridge to Topic 4)
+#### A. Why Malthus Failed to Foresee 19th & 20th Century Reality
+Thomas Malthus published his pessimistic treatise in 1798 on the eve of the Industrial Revolution. While his mathematical formulation became a classical benchmark, his predictions failed in Western Europe and the Americas due to fundamental technological and social oversights:
+1. **The Agricultural Revolution & Technological Innovations**:
+   - Malthus failed to foresee mechanisation (tractors, combine harvesters), chemical fertilizers (Haber-Bosch nitrogen fixation), synthetic pesticides, tube-well irrigation, and biotechnology (Green Revolution / HYV hybrid seeds) which expanded food production exponentially rather than arithmetically.
+2. **Transportation & Global Food Supply Chains**:
+   - Development of steamships, railways, and refrigerated maritime shipping enabled mass transport of grain from agricultural frontiers (Americas, Australia, Ukraine) to densely populated European industrial centres, averting regional famines.
+3. **Voluntary Birth Control & Rising Living Standards**:
+   - Malthus believed humans would perpetually reproduce up to the subsistence limit. He failed to anticipate the demographic transition, where rising education, urbanisation, female workforce participation, and modern contraception caused birth rates to decline voluntarily with rising per capita income.
+4. **Distinction between Biological Capability and Human Workforce**:
+   - Malthus viewed a newborn baby solely as "another mouth to feed", ignoring that each person is also equipped with "two hands to work" and a brain to innovate capital and technology.
 
-- Girls’ education, reproductive health, delayed marriage and voluntary family planning slow growth.
-- Coercion is not the modern NPP frame (post-Emergency teaching).
-- Full **National Population Policy 2000** aims and programmes sit in **Topic 4**.
+---
+
+### 2.3 Optimum Population Theory & Dalton's Formulation
+
+#### A. The Mechanics of Optimum Population
+Developed by British economist **Edwin Cannan** (1924) in *Wealth*, the Optimum Population Theory moves away from Malthusian biological subsistence toward **per capita economic productivity and living standards**.
+- **Underpopulation**: When the population of a country is too small relative to its natural resources and capital stock. In this state, the full benefits of division of labour, economies of scale, and infrastructure utilization cannot be realized. An increase in population leads to **increasing returns and rising per capita income**.
+- **Optimum Population Point ($O$)**: That precise population size where the Law of Diminishing Returns is exactly balanced by the economies of large-scale production, resulting in the **highest possible output per head**.
+- **Overpopulation**: When population exceeds the optimum point. The pressure of population on fixed natural resources and capital causes the Law of Diminishing Marginal Returns to dominate, resulting in **declining per capita income and falling living standards**.
+
+```
+  Per Capita Income
+     ▲
+     │                     OPTIMUM POINT (O)
+     │                       (Max Income)
+     │                            ┌───┐
+     │                           /          │                          /            │                         /              │                        /                │                       /                  │                      /                    │       UNDERPOPULATION                 OVERPOPULATION
+     │     (Increasing Returns)            (Diminishing Returns)
+     └─────────────────────┴─────────────────┴────────────────►
+     0                                                 Population Size
+```
 
 ---
 
 ## Complete PYQ Bank (UPPCS)
 
-**Q1. UPPCS (Pre) 2023** — Theory match
+> UPPCS-mapped / Category A stems. Broader Extra Drill follows.
 
-Match List-I with List-II:
+### Category A: Malthusian Population Theory & Critics
 
-| List-I (Theory) | List-II (Propounder) |
-|---|---|
-| A. Optimum Population Theory | 1. Thompson |
-| B. Social Mal-adjustment Theory | 2. Malthus |
-| C. Demographic Transition Theory | 3. Edwin Cannan |
-| D. Population–Food Supply Relationship Theory | 4. Henry George |
-
-A. A-3, B-4, C-1, D-2
-B. A-2, B-3, C-4, D-1
-C. A-1, B-2, C-3, D-4
-D. A-4, B-3, C-1, D-2
-
+1. According to the Malthusian Theory of Population, food production increases in:
+A. Geometric Progression  
+B. Arithmetic Progression  
+C. Exponential Progression  
+D. Harmonic Progression  
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Four-name spine — Cannan, George, Thompson, Malthus.
-
-**Ans: A.** A-3, B-4, C-1, D-2.
-
+**Ans: B. Arithmetic Progression**  
+**Logic:** Thomas Robert Malthus stated in 1798 that while human population increases in geometric progression ($1, 2, 4, 8, 16...$), food production can only increase in arithmetic progression ($1, 2, 3, 4, 5...$).
 </details>
 
-**Q2. UPPCS (Pre) 2024** — Malthus progressions
-
-Malthus argued that the population grows in a ______ progression, while agricultural production/food supply grows in a ______ progression.
-
-A. Linear, Exponential
-B. Exponential, Linear
-C. Arithmetic, Geometric
-D. Geometric, Arithmetic
-
+2. Which of the following is categorized as a "Positive Check" in Malthusian population theory?
+A. Moral restraint  
+B. Celibacy  
+C. Epidemics and Famines  
+D. Late marriage  
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Geometric population; arithmetic food.
-
-**Ans: D.** Geometric, Arithmetic.
-
+**Ans: C. Epidemics and Famines**  
+**Logic:** In Malthus's terminology, positive checks are factors that increase the mortality rate naturally (famines, diseases, plagues, wars), while preventive checks are voluntary actions that reduce birth rates (moral restraint, celibacy, delayed marriage).
 </details>
 
-**Q3. Standard**
-
-Natural growth of population is
-
-A. Births + deaths
-B. CBR − CDR
-C. CBR + net migration
-D. CDR − CBR
-
+3. Who authored the famous classical work *An Essay on the Principle of Population* published in 1798?
+A. David Ricardo  
+B. Adam Smith  
+C. Thomas Robert Malthus  
+D. Karl Marx  
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Natural = births minus deaths measured as rates; migration is separate.
-
-**Ans: B.** CBR − CDR.
-
+**Ans: C. Thomas Robert Malthus**  
+**Logic:** Thomas Robert Malthus, an English political economist and clergyman, published the landmark essay anonymously in 1798.
 </details>
 
-**Q4. Standard**
-
-The Year of the Great Divide in India’s demographic history is
-
-A. 1911
-B. 1921
-C. 1951
-D. 1981
-
+4. Which demographic scholar propounded that population growth stimulates agricultural innovation and technological change?
+A. Thomas Malthus  
+B. Ester Boserup  
+C. Paul Ehrlich  
+D. Frank Notestein  
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 1921 marks the modern-census growth turning point / negative decade teaching.
-
-**Ans: B.** 1921.
-
-</details>
-
-**Q5. Standard**
-
-Population explosion in India is most closely associated with which phase?
-
-A. 1901–1921
-B. 1921–1951
-C. 1951–1981
-D. 2001–2011
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** NCERT rapid-growth / explosion phase is 1951–1981.
-
-**Ans: C.** 1951–1981.
-
-</details>
-
-**Q6. Standard**
-
-In Demographic Transition Theory, rapid population growth typically occurs in
-
-A. Stage 1
-B. Stage 2
-C. Stage 4
-D. Only Stage 5
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Stage 2 — deaths fall first while births stay high.
-
-**Ans: B.** Stage 2.
-
-</details>
-
-**Q7. Standard**
-
-Optimum Population Theory is associated with
-
-A. Malthus
-B. Thompson
-C. Edwin Cannan
-D. Henry George
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Cannan; Robbins/Dalton are restaters.
-
-**Ans: C.** Edwin Cannan.
-
-</details>
-
-**Q8. Standard**
-
-Positive checks in Malthusian theory
-
-A. Lower the birth rate
-B. Raise the death rate
-C. Raise only migration
-D. Raise only literacy
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Famine/disease/war raise mortality; preventive checks cut births.
-
-**Ans: B.** Raise the death rate.
-
-</details>
-
-**Q9. Standard**
-
-Who among the following is associated with Social Mal-adjustment Theory?
-
-A. Dalton
-B. Henry George
-C. Notestein
-D. Boserup
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Henry George; Dalton’s “maladjustment” is an optimum-gap formula, not George’s theory.
-
-**Ans: B.** Henry George.
-
-</details>
-
-**Q10. Standard**
-
-Urbanisation acceleration in the classic DTT curve is linked mainly to
-
-A. Stage 1
-B. Stage 2
-C. Stage 4
-D. Stage 5 only
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Early expanding / Stage 2 teaching tag.
-
-**Ans: B.** Stage 2.
-
+**Ans: B. Ester Boserup**  
+**Logic:** Danish economist Ester Boserup in *The Conditions of Agricultural Growth* (1965) proposed that population pressure forces societies to innovate and intensify agricultural techniques, rejecting Malthusian doom.
 </details>
 
 ---
 
-## Complete PYQ Bank (UKPCS)
+## Ghatnachakra Extra Drill — Population Growth Demographic Transition Theories
 
-**Q1. Standard / UKPCS neighbour**
+Extra Drill rebuilt from mixed RO/ARO–BPSC–UPSC–coaching stems (not a full Purvalokan dump). Expand when the book is pasted.
 
-Demographic Transition Theory is primarily associated with
+### Category B: Demographic Transition Theory (DTT)
 
-A. Malthus
-B. Cannan
-C. Thompson
-D. Ricardo
-
+5. The Demographic Transition Theory was originally formulated by:
+A. Warren S. Thompson  
+B. Frank W. Notestein  
+C. Thomas Malthus  
+D. Edwin Cannan  
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Thompson (Notestein populariser); Malthus is food–population.
-
-**Ans: C.** Thompson.
-
+**Ans: A. Warren S. Thompson**  
+**Logic:** Warren S. Thompson first put forward the concept of demographic transition in 1929 based on mortality and fertility trends in industrialized countries. It was later expanded by Frank W. Notestein in 1945.
 </details>
 
-**Q2. Standard**
-
-Which statement about India’s post-1951 population growth is correct?
-
-A. Death rates rose while birth rates fell throughout 1951–81
-B. Death rates fell faster than birth rates in the explosion phase
-C. Population declined continuously after 1951
-D. Growth rate never fell after 1981
-
+6. In which stage of the Demographic Transition does a "Population Explosion" occur?
+A. Stage 1 (High Stationary)  
+B. Stage 2 (Early Expanding)  
+C. Stage 3 (Late Expanding)  
+D. Stage 4 (Low Stationary)  
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Mortality revolution ahead of fertility decline = explosion; later decades show declining rates.
-
-**Ans: B.**
-
+**Ans: B. Stage 2 (Early Expanding)**  
+**Logic:** Population explosion occurs in Stage 2 when death rates drop dramatically due to modern medicine, sanitation, and disease control, while birth rates remain stubbornly high.
 </details>
 
-**Q3. Standard**
-
-Neo-Malthusian thought emphasises
-
-A. Only war as a check
-B. Birth control / contraception as a major check
-C. Abolition of private property as the only solution
-D. That food always grows geometrically
-
+7. At present, India is passing through which stage of the Demographic Transition?
+A. Stage 1: High birth rate and high death rate  
+B. Stage 2: High birth rate and rapidly falling death rate  
+C. Stage 3: Rapidly declining birth rate and low death rate  
+D. Stage 4: Low birth rate and low death rate  
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Neo-Malthusians keep pressure worry but stress contraception.
-
-**Ans: B.**
-
+**Ans: C. Stage 3: Rapidly declining birth rate and low death rate**  
+**Logic:** India has transitioned into Stage 3 (Late Expanding Phase), characterized by rapidly falling birth rates (TFR has fallen to 2.0) and low stable death rates (~7 per 1000).
 </details>
 
-**Q4. Standard**
-
-Ester Boserup’s argument implies that
-
-A. Population growth must always cause famine
-B. Population growth can stimulate agricultural intensification
-C. Food always grows geometrically
-D. Optimum population is impossible
-
+8. A country with low birth rate and low death rate leading to zero or near-zero population growth is in which stage of demographic transition?
+A. Stage 1  
+B. Stage 2  
+C. Stage 3  
+D. Stage 4  
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Intensification counter to classical Malthus doom.
-
-**Ans: B.**
-
+**Ans: D. Stage 4**  
+**Logic:** Stage 4 (Low Stationary) is characterized by low birth rates matching low death rates, resulting in a stable population (common in mature developed economies).
 </details>
 
-**Q5. Standard**
+---
 
-Census 2011 decadal growth rate of India was about
 
-A. 21.54%
-B. 17.64% / 17.7%
-C. 24.80%
-D. −0.31%
+### Category C: Optimum Population Theory & Demographic Phases in India
 
+9. The Optimum Theory of Population was propounded by:
+A. Thomas Malthus  
+B. Edwin Cannan  
+C. Karl Marx  
+D. Julian Simon  
 <details>
 <summary>Show answer</summary>
 
-**Logic:** ~17.7% for 2001–11; 21.54% is 1991–2001; 24.8% peak-band teaching; −0.31% is 1921 Great Divide.
+**Ans: B. Edwin Cannan**  
+**Logic:** Edwin Cannan introduced the Optimum Theory of Population in his book *Wealth* (1924), defining optimum population as that size which maximizes real per capita income.
+</details>
 
-**Ans: B.**
+10. In Hugh Dalton's formula for population maladjustment $M = (A - O) / O$, what does $M > 0$ indicate?
+A. Underpopulation  
+B. Overpopulation  
+C. Optimum population  
+D. Zero population growth  
+<details>
+<summary>Show answer</summary>
 
+**Ans: B. Overpopulation**  
+**Logic:** When Actual Population ($A$) is greater than Optimum Population ($O$), $M$ is positive ($M > 0$), signifying that the country is overpopulated.
+</details>
+
+11. Why is the year 1921 called the "Year of the Great Divide" in Indian demographic history?
+A. India's population crossed 500 million  
+B. Birth rate fell below death rate for the first and only time, showing negative growth  
+C. Urban population surpassed rural population  
+D. First decennial census was conducted  
+<details>
+<summary>Show answer</summary>
+
+**Ans: B. Birth rate fell below death rate for the first and only time, showing negative growth**  
+**Logic:** In the 1911–1921 decade, India recorded negative population growth (-0.31%) due to the 1918 Spanish Flu pandemic and famines. After 1921, India's population grew continuously.
+</details>
+
+12. In which decade did India record its highest decadal population growth rate in census history?
+A. 1951–1961  
+B. 1961–1971  
+C. 1971–1981  
+D. 1981–1991  
+<details>
+<summary>Show answer</summary>
+
+**Ans: B. 1961–1971**  
+**Logic:** India's decadal population growth rate reached its historical peak of 24.80% during the decade 1961–1971.
 </details>
 
 ---
 
 ## Practice Zone
 
-**Q1.** Actual population growth equals
-
-A. CBR only
-B. Natural growth ± net migration
-C. CDR only
-D. Literacy − density
-
+1. According to Malthus, unchecked population tends to double itself every:
+A. 10 years  
+B. 25 years  
+C. 50 years  
+D. 100 years  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Natural growth ± net migration.
-
-**Logic:** Three components — births, deaths, migration.
-
+**Ans: B. 25 years**  
+**Logic:** Malthus calculated that if unchecked by shortages or moral restraint, human population has the biological potential to double every 25 years in geometric progression.
 </details>
 
-**Q2.** Geometric vs arithmetic — correct Malthus pair
-
-A. Food geometric; population arithmetic
-B. Population geometric; food arithmetic
-C. Both geometric
-D. Both arithmetic
-
+2. The publication *The Population Bomb* (1968), which popularized Neo-Malthusian concerns, was written by:
+A. Paul R. Ehrlich  
+B. Rachel Carson  
+C. Donella Meadows  
+D. Garrett Hardin  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** Highest-frequency Malthus trap is the swap.
-
+**Ans: A. Paul R. Ehrlich**  
+**Logic:** Biologist Paul R. Ehrlich authored the bestseller *The Population Bomb* in 1968, predicting massive global famines in the 1970s and 1980s due to overpopulation.
 </details>
 
-**Q3.** Preventive check example
-
-A. Famine
-B. Epidemic
-C. Delayed marriage
-D. War
-
+3. Which of the following equations correctly defines the Natural Growth Rate of population?
+A. $	ext{Birth Rate} + 	ext{Death Rate}$  
+B. $	ext{Crude Birth Rate} - 	ext{Crude Death Rate}$  
+C. $	ext{Total Fertility Rate} 	imes 	ext{Net Migration}$  
+D. $	ext{Infant Mortality Rate} - 	ext{Maternal Mortality Ratio}$  
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Delayed marriage.
-
-**Logic:** Preventive → births down; A/B/D are positive checks.
-
+**Ans: B. $	ext{Crude Birth Rate} - 	ext{Crude Death Rate}$**  
+**Logic:** The natural increase/growth of a population is the surplus of births over deaths in a given population over a given period, excluding migration.
 </details>
 
-**Q4.** Match: Phase → character
-
-| Phase | Character |
-|---|---|
-| 1901–1921 | Stagnant / low |
-| 1951–1981 | Explosion |
-| 1981–2011 | Declining rate |
-
-Which phase is missing if someone skips “steady growth”?
-
-A. 1921–1951
-B. 2001–2011 only
-C. 1872–1881
-D. 2011–2021 Census tables
-
+4. In a population pyramid, a broad base and rapidly tapering top signifies:
+A. High birth rate and high mortality rate  
+B. Low birth rate and high life expectancy  
+C. Declining elderly population with sub-replacement fertility  
+D. High proportion of working-age population  
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** 1921–1951 steady growth.
-
-**Logic:** Four-phase NCERT spine.
-
+**Ans: A. High birth rate and high mortality rate**  
+**Logic:** A wide base reflects high birth rates (large child cohorts), while a sharply narrowing apex reflects high mortality across older age cohorts, typical of Stage 1 and Stage 2 populations.
 </details>
 
-**Q5.** Assertion (A): Stage 2 of DTT shows rapid population growth.  
-Reason (R): In Stage 2, death rates fall while birth rates remain high.
-
-A. Both true; R explains A
-B. Both true; R does not explain A
-C. A true, R false
-D. A false, R true
-
+5. What is the Replacement Level Total Fertility Rate (TFR) required for long-term population stabilization in a society?
+A. 1.8 children per woman  
+B. 2.0 children per woman  
+C. 2.1 children per woman  
+D. 2.5 children per woman  
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
-
-**A/R logic:** Mechanism of Stage 2 is exactly R.
-
+**Ans: C. 2.1 children per woman**  
+**Logic:** A TFR of 2.1 children per woman is considered the replacement level because it accounts for infant/child mortality and sex ratio at birth, ensuring a 1:1 replacement of parents.
 </details>
 
-**Q6.** Who popularised / restated DTT alongside Thompson?
-
-A. Cannan
-B. Notestein
-C. Mayo
-D. Ripon
-
+6. The famous environmental report *The Limits to Growth* (1972) was commissioned by which international organization?
+A. United Nations Environment Programme (UNEP)  
+B. The Club of Rome  
+C. World Wildlife Fund (WWF)  
+D. World Economic Forum (WEF)  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Notestein.
-
-**Logic:** Propounder key still Thompson in match lists.
-
+**Ans: B. The Club of Rome**  
+**Logic:** *The Limits to Growth* was a computer simulation study by MIT researchers commissioned by the Club of Rome, modelling exponential economic and population growth against finite resource limits.
 </details>
 
-**Q7.** Underpopulation in optimum theory means
-
-A. Density always below 100
-B. Actual population below the income-per-head maximum size
-C. Negative natural growth only
-D. Zero migration
-
+7. If a country's annual population growth rate is 2.0%, according to the Rule of 70, in how many years will its population double?
+A. 25 years  
+B. 35 years  
+C. 50 years  
+D. 70 years  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** Relative to Cannan’s optimum, not a fixed density.
-
+**Ans: B. 35 years**  
+**Logic:** $	ext{Doubling Time} = 70 / 	ext{Annual Growth Rate} = 70 / 2.0 = 35	ext{ years}$.
 </details>
 
-**Q8.** Henry George blamed poverty mainly on
-
-A. Geometric births alone
-B. Unequal land and wealth distribution
-C. Lack of Stage 5 transition
-D. Excess SRS sample size
-
+8. Which demographic phase in India witnessed the largest absolute increase in population and is termed the "Phase of Population Explosion"?
+A. 1901–1921  
+B. 1921–1951  
+C. 1951–1981  
+D. 1981–2011  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** Social mal-adjustment vs Malthus natural law.
-
+**Ans: C. 1951–1981**  
+**Logic:** The period 1951–1981 was the phase of population explosion in India, where mortality collapsed due to public health interventions while birth rates remained very high.
 </details>
 
-**Q9.** Which is **not** a classic cause of India’s population explosion?
-
-A. Fall in death rates from public health
-B. Persistently high birth rates
-C. Immediate national TFR of 1.0 in 1951
-D. Early marriage and son preference
-
+9. The concept of "Industrial Reserve Army of Labour" in population theory was propounded by:
+A. Thomas Malthus  
+B. Karl Marx  
+C. David Ricardo  
+D. Adam Smith  
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
-
-**Logic:** TFR was not at ultra-low levels in the explosion decades.
-
+**Ans: B. Karl Marx**  
+**Logic:** Karl Marx argued that capitalism inherently produces a surplus unemployed working population (the Industrial Reserve Army) through mechanisation to keep wages down.
 </details>
 
-**Q10.** Population momentum means
-
-A. Population falls the year TFR hits 2.1
-B. Absolute numbers can keep rising after fertility declines because of a large young cohort
-C. Migration stops automatically
-D. Density becomes zero
-
+10. Which of the following is considered an example of an 'Urn-shaped' or contracting population pyramid?
+A. Nigeria  
+B. India  
+C. Japan  
+D. Bangladesh  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** Age-structure lag after fertility fall.
-
+**Ans: C. Japan**  
+**Logic:** Japan has an urn-shaped/inverted pyramid with a narrow base (low fertility) and a large top (high proportion of elderly citizens), reflecting natural population decline.
 </details>
 
-**Q11.** Marx’s view of surplus population
-
-A. Identical to Malthus
-B. Product of capitalist production relations
-C. Purely a Stage 4 DTT fact
-D. Caused only by geometric food growth
-
+11. The term 'Demographic Dividend' began to be realized in India primarily because of:
+A. Sharp increase in infant mortality  
+B. Swelling of the working-age population cohort (15–59 years) relative to dependents  
+C. Rapid increase in agricultural land area  
+D. Out-migration of elderly populations  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** Critique of Malthus natural-law overpopulation.
-
+**Ans: B. Swelling of the working-age population cohort (15–59 years) relative to dependents**  
+**Logic:** Demographic dividend occurs when past declines in fertility reduce the proportion of child dependents, leading to a bulge in the productive working-age population.
 </details>
 
-**Q12.** Blacker’s fifth stage emphasises
-
-A. High stationary forever
-B. Possible population decline / ageing
-C. Maximum geometric food growth
-D. First Census of India
-
+12. According to the National Family Health Survey-5 (NFHS-5, 2019–21), what was India's Total Fertility Rate (TFR)?
+A. 2.4  
+B. 2.2  
+C. 2.0  
+D. 1.8  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** Declining stage beyond low stationary.
-
+**Ans: C. 2.0**  
+**Logic:** NFHS-5 recorded India's national TFR at 2.0 (Rural: 2.1, Urban: 1.6), indicating that India has reached below-replacement fertility overall.
 </details>
 
-**Q13.** Highest growth-rate decade teaching (~24.8%) is often keyed to
-
-A. 1901–1911
-B. 1961–1971
-C. 2001–2011
-D. 1921–1931
-
+13. Which book authored by Julian Simon challenged Neo-Malthusian catastrophic predictions?
+A. *The Population Bomb*  
+B. *The Ultimate Resource*  
+C. *Silent Spring*  
+D. *Small is Beautiful*  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** 1961–1971.
-
-**Logic:** Peak inside the explosion phase.
-
+**Ans: B. *The Ultimate Resource***  
+**Logic:** Julian Simon published *The Ultimate Resource* in 1981, arguing that human beings and their capacity for technological innovation are the ultimate boundless resource.
 </details>
 
-**Q14.** Dumont’s social capillarity links
-
-A. Higher status aspirations with fewer children
-B. War with geometric food
-C. Census 1872 with Ripon
-D. SRS with Agriculture Census
-
+14. The term 'Carrying Capacity' in demographic and environmental studies refers to:
+A. The maximum weight a transport system can haul  
+B. The maximum population size that an environment can sustain indefinitely without degradation  
+C. The total calorie consumption of an agricultural worker  
+D. The minimum density required for urban status  
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
-
-**Logic:** Do not swap Dumont with Henry George.
-
+**Ans: B. The maximum population size that an environment can sustain indefinitely without degradation**  
+**Logic:** Carrying capacity ($K$) is the maximum number of individuals of a species that an ecosystem can support based on available food, water, habitat, and resource renewal.
 </details>
 
-**Q15.** Which statement is correct?
-
-A. Falling decadal growth rate always means population is falling
-B. India 2001–11 growth rate fell vs 1991–2001 while population still rose
-C. Natural growth includes emigration only
-D. Stage 1 is the explosion stage
-
+15. What is the status of natural population growth in Stage 5 of the Demographic Transition Model?
+A. High positive growth  
+B. Moderate positive growth  
+C. Zero growth  
+D. Negative natural growth (Deaths exceed Births)  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** Rate vs absolute level trap.
-
+**Ans: D. Negative natural growth (Deaths exceed Births)**  
+**Logic:** In Stage 5, birth rates plunge below death rates, leading to natural decrease and shrinking population (e.g. Japan, Italy, Germany).
 </details>
 
-**Q16.** Match List
-
-| List-I | List-II |
-|---|---|
-| A. Positive check | 1. Delayed marriage |
-| B. Preventive check | 2. Famine |
-| C. Neo-Malthusian tool | 3. Contraception |
-| D. Boserup response | 4. Agricultural intensification |
-
-A. A-2, B-1, C-3, D-4
-B. A-1, B-2, C-4, D-3
-C. A-2, B-3, C-1, D-4
-D. A-4, B-1, C-2, D-3
-
+16. Who among the following economists refined Edwin Cannan's Optimum Theory of Population and proposed the maladjustment formula?
+A. Hugh Dalton  
+B. J. M. Keynes  
+C. Alfred Marshall  
+D. A. C. Pigou  
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** A-2, B-1, C-3, D-4.
-
-**Logic:** Checks and critics in one spine.
-
+**Ans: A. Hugh Dalton**  
+**Logic:** British economist Hugh Dalton popularized and systematized Cannan's optimum theory, giving the formula $M = (A - O) / O$.
 </details>
 
-**Q17.** Population–environment pressure is highest when
-
-A. Growth is rapid and resource governance is weak
-B. TFR is exactly 2.1 everywhere
-C. Only Stage 4 countries exist
-D. Census is postponed
-
+17. India's annual exponential growth rate of population during 2001–2011 was:
+A. 2.14%  
+B. 1.97%  
+C. 1.64%  
+D. 1.32%  
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
-
-**Logic:** Numbers × institutions / technology mediate impact.
-
+**Ans: C. 1.64%**  
+**Logic:** As per Census 2011, India's annual exponential growth rate was 1.64% per annum, down from 1.97% per annum during 1991–2001.
 </details>
 
-**Q18.** India’s national position in DTT teaching today is best described as
-
-A. Pure Stage 1 forever
-B. Late transition with regional unevenness
-C. Permanent Stage 5 decline since 1951
-D. No transition at all
-
+18. What was the primary cause of the negative population growth recorded in India during 1911–1921?
+A. First World War battle casualties  
+B. 1918 Spanish Influenza Pandemic combined with plague and cholera epidemics  
+C. Massive emigration to South Africa  
+D. Widespread use of artificial contraceptives  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** South earlier; north high-fertility pockets remain.
-
+**Ans: B. 1918 Spanish Influenza Pandemic combined with plague and cholera epidemics**  
+**Logic:** The deadly Spanish Influenza epidemic of 1918-19 swept across India, killing roughly 14 million people and causing mortality to surpass births during the 1911–1921 decade.
 </details>
 
-**Q19.** Optimum population maximises
-
-A. Only total population
-B. Income per head (given resources/technique)
-C. Only crude birth rate
-D. Only migration
-
+19. In which stage of demographic transition was Western Europe prior to the Industrial Revolution (before 1750)?
+A. Stage 1 (High Stationary)  
+B. Stage 2 (Early Expanding)  
+C. Stage 3 (Late Expanding)  
+D. Stage 4 (Low Stationary)  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** Cannan’s definition.
-
+**Ans: A. Stage 1 (High Stationary)**  
+**Logic:** Pre-industrial Western Europe had high crude birth rates (~40/1000) and high, erratic crude death rates due to famines and black death/epidemics, characterizing Stage 1.
 </details>
 
-**Q20.** Which pairing is **wrong**?
-
-A. Malthus — geometric population
-B. Thompson — DTT
-C. Cannan — optimum population
-D. Henry George — population–food arithmetic law
-
+20. What is 'Demographic Momentum'?
+A. The tendency for a population to continue growing despite fertility falling to replacement level due to a large young age structure  
+B. The rapid out-migration of people during a civil war  
+C. The speed of urbanization in developing countries  
+D. The rate at which senior citizens enter retirement  
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** George = social mal-adjustment; food arithmetic = Malthus.
-
-**Logic:** Classic match-list poison option.
-
+**Ans: A. The tendency for a population to continue growing despite fertility falling to replacement level due to a large young age structure**  
+**Logic:** Even when TFR drops to 2.1, a population continues growing for several decades because the large cohort of young people born during earlier high-fertility decades enter their reproductive years.
 </details>
 
-**Q21.** Consequence of explosion that is **economic**
-
-A. Dilution of capital and infrastructure per person if output lags
-B. Change of Earth’s axial tilt
-C. Automatic rise of Stage 5 in 1951
-D. Cancellation of Census Act
-
+21. In Dalton's formula $M = (A - O) / O$, if the actual population is 100 million and the optimum population is 80 million, what is the degree of maladjustment?
+A. $+0.25$ (Overpopulated)  
+B. $-0.25$ (Underpopulated)  
+C. $+0.20$ (Overpopulated)  
+D. $0.00$ (Optimum)  
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
-
-**Logic:** Per-capita strain channel.
-
+**Ans: A. $+0.25$ (Overpopulated)**  
+**Logic:** $M = (100 - 80) / 80 = 20 / 80 = +0.25$. The positive value of +0.25 indicates 25% overpopulation.
 </details>
 
-**Q22.** Stabilisation policy bridge (preview Topic 4)
-
-A. Only forced sterilisation as NPP 2000 core
-B. Girls’ education, RH services, delayed marriage, voluntary family planning
-C. Banning all migration
-D. Raising CDR deliberately
-
+22. The National Population Policy (NPP) 2000 of India set the long-term objective of achieving a stable population by:
+A. 2020  
+B. 2030  
+C. 2045  
+D. 2070  
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** Modern voluntary / development path; coercion is not the NPP frame.
-
+**Ans: C. 2045**  
+**Logic:** NPP 2000 outlined 3 objectives: immediate (contraceptive access), medium-term (TFR 2.1 by 2010), and long-term (stable population by 2045).
 </details>
 
-**Q23.** Assertion (A): 1921 is called the Great Divide.  
-Reason (R): 1921–1951 was India’s peak population-explosion phase.
-
-A. Both true; R explains A
-B. Both true; R does not explain A
-C. A true, R false
-D. A false, R true
-
+23. Henry George in *Progress and Poverty* (1879) argued that poverty and distress in modern societies are caused by:
+A. Natural overpopulation beyond food limits  
+B. Private monopolisation of land and unearned economic rent  
+C. Free trade across international borders  
+D. Too many women entering the workforce  
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** A true, R false.
-
-**A/R logic:** Great Divide is real; explosion phase is **1951–1981**, not 1921–1951.
-
+**Ans: B. Private monopolisation of land and unearned economic rent**  
+**Logic:** Henry George asserted that land monopolisation by private landlords captures the gains of economic progress as unearned rent, driving wages down and causing poverty, not Malthusian population growth.
 </details>
 
-**Q24.** Theory of population (Malthus) is **not** primarily labelled as
-
-A. Population–food relationship
-B. Geometric vs arithmetic growth
-C. A complete theory of India’s GST design
-D. Positive and preventive checks
-
+24. A population growth curve that displays rapid exponential growth followed by a crash when the carrying capacity is exceeded is known as:
+A. Logistic (S-curve)  
+B. Boom and Bust (J-curve with overshoot)  
+C. Bell-shaped curve  
+D. Lorenz curve  
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Ans: B. Boom and Bust (J-curve with overshoot)**  
+**Logic:** A J-shaped exponential curve with resource overshoot leads to a 'boom-and-bust' cycle where the population overshoots carrying capacity and experiences a severe die-off.
+</details>
 
-**Logic:** Keep Malthus inside demography, not random fiscal tags.
+25. Which Indian State became the first to announce a State Population Policy with specific incentives and disincentives for family size?
+A. Kerala  
+B. Maharashtra  
+C. Rajasthan  
+D. Uttar Pradesh  
+<details>
+<summary>Show answer</summary>
 
+**Ans: C. Rajasthan**  
+**Logic:** Rajasthan was the first Indian State to formulate a State Population Policy (in 1999) restricting candidates with more than two children from contesting panchayat elections.
+</details>
+
+26. Frank W. Notestein's classification of demographic transition stages categorized countries with declining birth rates and low death rates as:
+A. High growth potential  
+B. Transitional growth  
+C. Incipient decline  
+D. Primitive stationary  
+<details>
+<summary>Show answer</summary>
+
+**Ans: B. Transitional growth**  
+**Logic:** Notestein (1945) classified nations into three types: (1) High Growth Potential (Stage 1), (2) Transitional Growth (Stages 2 & 3), and (3) Incipient Decline (Stage 4).
 </details>
 
 ---
@@ -1002,13 +684,4 @@ D. Positive and preventive checks
 
 | Trap | Correct |
 |---|---|
-| Population arithmetic; food geometric | **Opposite** — population geometric; food arithmetic |
-| Positive check = lower births | Positive = **raise deaths**; preventive = lower births |
-| Dalton = Social Mal-adjustment | **Henry George**; Dalton = optimum gap formula |
-| Cannan = DTT | **Thompson** = DTT; Cannan = optimum |
-| Explosion = 1921 | **1921 = Great Divide**; explosion ≈ **1951–81** |
-| Stage 4 = rapid boom | Boom = **Stage 2** |
-| Falling growth rate = falling population | Absolute numbers can still rise |
-| Neo-Malthusian = reject all birth control | They **stress** contraception |
-| India uniform Stage 4 since 1951 | Late transition + **regional unevenness** |
-| NPP / TFR full card belongs only here | **Topic 4** owns rates and policy detail |
+| Mixing Absolute vs % ranks | Match the stem metric first |
