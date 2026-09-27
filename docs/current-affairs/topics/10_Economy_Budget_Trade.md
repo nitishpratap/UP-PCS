@@ -1151,6 +1151,23 @@ Parliament’s **Mines and Minerals (Development and Regulation) Amendment Act, 
 
 I-Day coverage recalled about **3.25 crore** families helped and assets worth about **₹140 lakh crore** unlocked under **SVAMITVA** using drones.
 
+## September 2026
+
+### 57th GST Council meeting shifted | process reforms next
+
+**What happened**
+The **57th GST Council** meeting, earlier linked to mid-September, was moved to **7 October 2026** in New Delhi. The shift matched India’s hosting of the **BRICS Leaders’ Summit** (12–13 September).
+
+**What you should remember**
+
+- Chair: Union Finance Minister (**GST Council Chairperson**).
+- October agenda stress in official messaging: **process reforms** under **GST 2.0** (e-invoicing, invoice matching, input-tax-credit issues) — **not** a fresh broad rate-cut round.
+- Rate rationalisation was the earlier big slab story (teaching: simplified principal slabs after the 2025 rate exercise).
+- Soft forward link: Officers’ meetings before the Council (early October window in coverage).
+
+!!! trap
+Do not say the Council met on **12 September 2026** and cut rates again. That date was BRICS week; the Council moved to **October**.
+
 ## Practice Zone — UPPCS Format
 
 > **20 questions** for this sheet only — drill after you revise the months above.

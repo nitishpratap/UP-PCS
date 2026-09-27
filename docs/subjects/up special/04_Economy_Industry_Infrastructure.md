@@ -314,417 +314,6 @@ Under the Central Government's Smart Cities Mission, **10 cities** of Uttar Prad
 
 ---
 
-## Complete PYQ Bank (UPPCS)
-
-> Verified stems from UPPCS Prelims (and closely related UP papers). Extra Drill follows.
-
-**Q1. UPPCS (Pre) 2025**
-As per the ODOP scheme of Uttar Pradesh, Moonj products are associated with which districts?
-1. Amethi  2. Sultanpur  3. Sant Kabir Nagar
-A. 1 and 3
-B. 2 and 3
-C. Only 3
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Sant Kabir Nagar’s ODOP is brassware, not moonj — trap option.
-
-**Ans: D.** Amethi and Sultanpur.
-
-</details>
-
-**Q2. Standard UPPCS**
-One District One Product (ODOP) in UP was launched on:
-A. 1 May 2017
-B. 24 January 2018
-C. 15 August 2018
-D. 26 January 2019
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Covers all districts; Centre later echoed the district-product logic.
-
-**Ans: B.** 24 January 2018 (UP Diwas).
-
-</details>
-
-**Q3. Standard UPPCS**
-Bundelkhand Expressway connects which of the following corridors?
-A. Meerut to Prayagraj
-B. Lucknow to Ghazipur
-C. Chitrakoot to Etawah (Agra–Lucknow Expressway junction)
-D. Greater Noida to Agra only
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Ganga Expressway = Meerut–Prayagraj; Purvanchal = Lucknow–Ghazipur; Bundelkhand = Chitrakoot–Etawah.
-
-**Ans: C.** Chitrakoot to Etawah.
-
-</details>
-
-
----
-
-## Ghatnachakra Extra Drill — Economy Industry Infrastructure
-
-> Multi-exam / other-State PCS / standard coaching stems for the same topic map.
-
-**Q1. Standard UPPCS**
-Least industrially developed region of UP among the following is generally:
-A. Western UP
-B. Bundelkhand
-C. NCR fringe
-D. Meerut–Ghaziabad belt
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Western UP/NCR is the industrial lead; Bundelkhand is the lagging trap.
-
-**Ans: B.** Bundelkhand.
-
-</details>
-
-
----
-
-
-### Other Papers — BPSC / MPPSC / RAS / UKPCS / UPSC / WBCS
-
-**Q2. RPSC RAS (Pre) 2021**
-According to Census 2011, what was the work participation rate in India and Rajasthan respectively?
-A. 43.6% and 41.8%
-B. 39.8% and 43.6%
-C. 42.4% and 41.8%
-D. 39.8% and 36.4%
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Labour participation comparative for economy Extra Drill.
-
-**Ans: B.** 39.8% (India), 43.6% (Rajasthan).
-
-</details>
-
-**Q3. UPSC (CSE) Prelims 2013**
-To obtain full benefits of demographic dividend, what should India do?
-A. Promoting skill development
-B. Introducing more social security schemes
-C. Reducing infant mortality rate
-D. Privatization of higher education
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Economy lever that converts age-structure into growth.
-
-**Ans: A.** Promoting skill development.
-
-</details>
-
-## Practice Zone
-
-1. The flagship 'One District One Product' (ODOP) scheme was officially inaugurated by the Government of Uttar Pradesh on which date?
-   (A) 1 May 2017
-   (B) 24 January 2018
-   (C) 15 August 2018
-   (D) 2 October 2019
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) 24 January 2018</b><br>
-<b>Explanation:</b> The ODOP scheme was launched by the UP Government on 24 January 2018 (celebrated as the first official Uttar Pradesh Diwas) to promote local indigenous manufacturing clusters.
-</details>
-
-2. The traditional brass wire inlay work in Sheesham wood, known as 'Tarkashi Art', is the ODOP specialty of which district?
-   (A) Mainpuri
-   (B) Saharanpur
-   (C) Moradabad
-   (D) Bijnor
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (A) Mainpuri</b><br>
-<b>Explanation:</b> Tarkashi is a traditional craft of Mainpuri district where delicate brass, copper, or silver wires are hammered into carved wooden surfaces to create geometric and floral patterns.
-</details>
-
-3. Which district of Uttar Pradesh is famous under the ODOP scheme for its soft white 'Gaura Stone Craft' (Pyrophyllite stone carving)?
-   (A) Banda
-   (B) Mahoba
-   (C) Chitrakoot
-   (D) Hamirpur
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Mahoba</b><br>
-<b>Explanation:</b> Mahoba is renowned for its GI-tagged Gaura Stone Craft, utilizing local soft white pyrophyllite stone to carve artistic idols, plates, and decorative artefacts.
-</details>
-
-4. 'Shajar Stone Craft', in which natural dendritic moss-like patterns appear within agate stones, is the GI-tagged ODOP specialty of:
-   (A) Banda
-   (B) Lalitpur
-   (C) Mirzapur
-   (D) Sonbhadra
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (A) Banda</b><br>
-<b>Explanation:</b> Shajar Stone is a rare dendritic moss agate stone found in the Ken River bed in Banda district, fashioned into jewellery and artefacts.
-</details>
-
-5. Under the ODOP scheme, 'Kalanamak Rice' (famed as Buddha's aromatic gift) is the designated product of:
-   (A) Siddharthnagar
-   (B) Deoria
-   (C) Gorakhpur
-   (D) Maharajganj
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (A) Siddharthnagar</b><br>
-<b>Explanation:</b> Kalanamak rice, featuring a distinctive black husk and strong aroma, is cultivated in the Terai belt of Eastern UP and is the ODOP product of Siddharthnagar.
-</details>
-
-6. Which town in Uttar Pradesh is popularly referred to as the "Ceramic City" of India due to its extensive glazed pottery and tile units?
-   (A) Nizamabad
-   (B) Khurja
-   (C) Chunar
-   (D) Chinhat
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Khurja</b><br>
-<b>Explanation:</b> Khurja in Bulandshahr district is known as the "Ceramic City", housing over 500 ceramic and pottery kilns producing tableware, sanitaryware, and electrical insulators.
-</details>
-
-7. The 'Center for Development of Glass Industry' (CDGI) is established in which city of Uttar Pradesh?
-   (A) Firozabad
-   (B) Kanpur
-   (C) Agra
-   (D) Prayagraj
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (A) Firozabad</b><br>
-<b>Explanation:</b> CDGI was set up at Firozabad in 1991 as a joint project between the Government of India, UNDP, UNIDO, and UP Government to upgrade technology in the glass industry.
-</details>
-
-8. The Fragrance and Flavour Development Centre (FFDC), an autonomous body under the Ministry of MSME, is located at:
-   (A) Lucknow
-   (B) Kannauj
-   (C) Bareilly
-   (D) Ghazipur
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Kannauj</b><br>
-<b>Explanation:</b> FFDC was established in 1991 by the Government of India with UNDP/UNIDO assistance at Kannauj to serve and modernize the essential oil, aroma, and perfume industry.
-</details>
-
-9. Which city in Uttar Pradesh is the primary manufacturing hub for cricket bats, balls, and athletic equipment, holding a major share in India's sports goods exports?
-   (A) Jalandhar
-   (B) Meerut
-   (C) Moradabad
-   (D) Agra
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Meerut</b><br>
-<b>Explanation:</b> Meerut is India's leading sports goods manufacturing hub, famous for English and Kashmir willow cricket bats, leather balls, and sports gear.
-</details>
-
-10. What is the designated ODOP product of Pratapgarh district in Uttar Pradesh?
-   (A) Guava Food Processing
-   (B) Aonla (Indian Gooseberry) Products
-   (C) Mango Pulp Processing
-   (D) Tomato Ketchup
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Aonla (Indian Gooseberry) Products</b><br>
-<b>Explanation:</b> Pratapgarh is the largest producer of Aonla (Indian Gooseberry) in India, and its ODOP specialty covers aonla candy, murabba, juice, and herbal extracts.
-</details>
-
-11. The Singrauli Coalfield, which supplies non-coking coal to multiple pithead thermal power stations, is situated in which district of Uttar Pradesh?
-   (A) Sonbhadra
-   (B) Mirzapur
-   (C) Chandauli
-   (D) Prayagraj
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (A) Sonbhadra</b><br>
-<b>Explanation:</b> The Singrauli Coalfield spans across the border of MP (Sidhi/Singrauli) and UP (Sonbhadra district), operated by Northern Coalfields Limited (NCL).
-</details>
-
-12. High-grade silica sand (glass sand) used in the glass factories of Firozabad is extensively quarried from which area of Uttar Pradesh?
-   (A) Shankargarh (Prayagraj)
-   (B) Renukoot (Sonbhadra)
-   (C) Deogarh (Lalitpur)
-   (D) Chunar (Mirzapur)
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (A) Shankargarh (Prayagraj)</b><br>
-<b>Explanation:</b> Shankargarh and Lohgara in Prayagraj district (along with parts of Chitrakoot) are the primary sources of high-purity glass sand derived from Vindhyan sandstones.
-</details>
-
-13. Uttar Pradesh is the leading state in India in the production of which pair of refractory minerals?
-   (A) Gypsum and Asbestos
-   (B) Diaspore and Pyrophyllite
-   (C) Chromite and Magnesite
-   (D) Kyanite and Sillimanite
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Diaspore and Pyrophyllite</b><br>
-<b>Explanation:</b> Uttar Pradesh accounts for the largest share of India's total output of Diaspore and Pyrophyllite, mined in Jhansi, Lalitpur, Mahoba, and Hamirpur districts.
-</details>
-
-14. The oldest operational thermal power plant of the Uttar Pradesh Rajya Vidyut Utpadan Nigam (UPRVUNL), set up in 1942, is:
-   (A) Panki Thermal Power Station
-   (B) Obra Thermal Power Station
-   (C) Harduaganj Thermal Power Station
-   (D) Parichha Thermal Power Station
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) Harduaganj Thermal Power Station</b><br>
-<b>Explanation:</b> Harduaganj Thermal Power Station at Qasimpur in Aligarh district was originally commissioned in 1942, making it the oldest thermal power station in UP.
-</details>
-
-15. What type of nuclear reactors are installed at the Narora Atomic Power Station (NAPS) in Bulandshahr district?
-   (A) Boiling Water Reactors (BWR)
-   (B) Pressurized Heavy Water Reactors (PHWR)
-   (C) Fast Breeder Reactors (FBR)
-   (D) Gas Cooled Reactors (GCR)
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Pressurized Heavy Water Reactors (PHWR)</b><br>
-<b>Explanation:</b> Narora Atomic Power Station operates two indigenous 220 MWe Pressurized Heavy Water Reactors (PHWR) using natural uranium as fuel and heavy water ($D_2O$) as moderator and coolant.
-</details>
-
-16. The Mathura Oil Refinery of the Indian Oil Corporation Limited (IOCL) was commissioned in which year?
-   (A) 1974
-   (B) 1982
-   (C) 1991
-   (D) 1998
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) 1982</b><br>
-<b>Explanation:</b> The Mathura Refinery was commissioned in 1982 with an initial capacity of 6.0 MMTPA (later expanded to 8.0 MMTPA) to meet the demand for petroleum products in North-Western India.
-</details>
-
-17. The BrahMos Aerospace supersonic cruise missile integration and manufacturing facility is being set up in which node of the UP Defence Industrial Corridor?
-   (A) Kanpur Node
-   (B) Lucknow Node
-   (C) Jhansi Node
-   (D) Aligarh Node
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Lucknow Node</b><br>
-<b>Explanation:</b> A dedicated 200-acre facility for manufacturing the next-generation BrahMos-NG cruise missiles is established at the Lucknow node of the UP Defence Industrial Corridor (UPDIC).
-</details>
-
-18. What is the total length of the 6-lane access-controlled Yamuna Expressway connecting Greater Noida to Agra?
-   (A) 135 km
-   (B) 165 km
-   (C) 205 km
-   (D) 302 km
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) 165 km</b><br>
-<b>Explanation:</b> The Yamuna Expressway is 165 km long, connecting Greater Noida with Agra across Gautam Buddha Nagar, Aligarh, Mathura, and Agra districts.
-</details>
-
-19. The 296-km long Bundelkhand Expressway connects which two terminating points in Uttar Pradesh?
-   (A) Chitrakoot (Bharatkoop) to Etawah (Kudrail)
-   (B) Jhansi to Agra
-   (C) Banda to Kanpur
-   (D) Lalitpur to Lucknow
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (A) Chitrakoot (Bharatkoop) to Etawah (Kudrail)</b><br>
-<b>Explanation:</b> The Bundelkhand Expressway starts near Bharatkoop in Chitrakoot district and terminates at Kudrail village in Etawah district, where it merges into the Agra-Lucknow Expressway.
-</details>
-
-20. The under-construction 594-km long Ganga Expressway, the longest expressway in Uttar Pradesh, connects:
-   (A) Meerut to Prayagraj
-   (B) Noida to Varanasi
-   (C) Ghaziabad to Ballia
-   (D) Saharanpur to Gorakhpur
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (A) Meerut to Prayagraj</b><br>
-<b>Explanation:</b> The Ganga Expressway (594 km) originates at Bijauli village in Meerut district and terminates at Judapur Dandu village in Prayagraj district, passing through 12 districts.
-</details>
-
-21. Which greenfield international airport in Uttar Pradesh is being developed at Jewar in Gautam Buddha Nagar district?
-   (A) Maryada Purushottam Shri Ram International Airport
-   (B) Noida International Airport
-   (C) Lal Bahadur Shastri International Airport
-   (D) Chaudhary Charan Singh International Airport
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Noida International Airport</b><br>
-<b>Explanation:</b> Noida International Airport at Jewar is being developed as a multi-runway international aviation and multimodal logistics hub in Gautam Buddha Nagar.
-</details>
-
-22. Which of the following cities of Uttar Pradesh was NOT included in the original list of 10 cities selected under the Central Smart Cities Mission?
-   (A) Saharanpur
-   (B) Ghaziabad
-   (C) Bareilly
-   (D) Moradabad
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Ghaziabad</b><br>
-<b>Explanation:</b> The 10 cities selected from UP under the Central Smart Cities Mission were: Lucknow, Varanasi, Prayagraj, Agra, Kanpur, Aligarh, Jhansi, Moradabad, Bareilly, and Saharanpur. Ghaziabad was excluded from the Central-10 list.
-</details>
-
-23. Under the National Heritage City Development and Augmentation Yojana (HRIDAY), which two cities from Uttar Pradesh were selected?
-   (A) Ayodhya and Varanasi
-   (B) Varanasi and Mathura
-   (C) Prayagraj and Mathura
-   (D) Agra and Varanasi
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Varanasi and Mathura</b><br>
-<b>Explanation:</b> Out of 12 heritage cities selected across India under the HRIDAY scheme, exactly two cities were from Uttar Pradesh: Varanasi and Mathura.
-</details>
-
-24. The Mega Leather Park in Uttar Pradesh, established under the Mega Leather, Footwear and Accessories Development Programme, is located at:
-   (A) Ramaipur (Kanpur)
-   (B) Sikandra (Agra)
-   (C) Dadasiba (Unnao)
-   (D) Naini (Prayagraj)
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (A) Ramaipur (Kanpur)</b><br>
-<b>Explanation:</b> A 268-acre Mega Leather Cluster is developed at Ramaipur in Kanpur Nagar district, equipped with modern Common Effluent Treatment Plants (CETP).
-</details>
-
-25. The Bharat Heavy Electricals Limited (BHEL) transformer manufacturing manufacturing unit in Uttar Pradesh is situated in which district?
-   (A) Varanasi
-   (B) Jhansi
-   (C) Bareilly
-   (D) Meerut
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Jhansi</b><br>
-<b>Explanation:</b> BHEL established its major power transformer and freight locomotive manufacturing facility at Khailar in Jhansi district in 1976.
-</details>
-
-26. Which of the following industrial development authorities in Uttar Pradesh operates as an 'Industrial Township' under Article 243Q proviso, exempting it from an elected Municipal Corporation?
-   (A) NOIDA
-   (B) Greater Noida
-   (C) YEIDA
-   (D) All of the above
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (D) All of the above</b><br>
-<b>Explanation:</b> NOIDA, Greater Noida, and YEIDA are statutory industrial development authorities constituted under the UP Industrial Area Development Act, 1976. Under Article 243Q(1) proviso, they function as Industrial Townships providing municipal services, without an elected Nagar Nigam.
-</details>
-
-## Common Traps
-
-| Trap | Correct |
-|---|---|
-| Mixing Absolute vs % ranks | Match the stem metric first |
-
-
----
-
 ## Bilingual Terminology -- UP Economy
 
 | English | Hindi | Key Anchor |
@@ -803,6 +392,117 @@ D. Privatization of higher education
 
 ---
 
+## Complete PYQ Bank (UPPCS)
+
+> Verified stems from UPPCS Prelims (and closely related UP papers). Extra Drill follows.
+
+**Q1. UPPCS (Pre) 2025**
+As per the ODOP scheme of Uttar Pradesh, Moonj products are associated with which districts?
+1. Amethi  2. Sultanpur  3. Sant Kabir Nagar
+A. 1 and 3
+B. 2 and 3
+C. Only 3
+D. 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Sant Kabir Nagar’s ODOP is brassware, not moonj — trap option.
+
+**Ans: D.** Amethi and Sultanpur.
+
+</details>
+
+**Q2. Standard UPPCS**
+One District One Product (ODOP) in UP was launched on:
+A. 1 May 2017
+B. 24 January 2018
+C. 15 August 2018
+D. 26 January 2019
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Covers all districts; Centre later echoed the district-product logic.
+
+**Ans: B.** 24 January 2018 (UP Diwas).
+
+</details>
+
+**Q3. Standard UPPCS**
+Bundelkhand Expressway connects which of the following corridors?
+A. Meerut to Prayagraj
+B. Lucknow to Ghazipur
+C. Chitrakoot to Etawah (Agra–Lucknow Expressway junction)
+D. Greater Noida to Agra only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Ganga Expressway = Meerut–Prayagraj; Purvanchal = Lucknow–Ghazipur; Bundelkhand = Chitrakoot–Etawah.
+
+**Ans: C.** Chitrakoot to Etawah.
+
+</details>
+
+---
+
+## Ghatnachakra Extra Drill — Economy Industry Infrastructure
+
+> Multi-exam / other-State PCS / standard coaching stems for the same topic map.
+
+**Q1. Standard UPPCS**
+Least industrially developed region of UP among the following is generally:
+A. Western UP
+B. Bundelkhand
+C. NCR fringe
+D. Meerut–Ghaziabad belt
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Western UP/NCR is the industrial lead; Bundelkhand is the lagging trap.
+
+**Ans: B.** Bundelkhand.
+
+</details>
+
+---
+
+### Other Papers — BPSC / MPPSC / RAS / UKPCS / UPSC / WBCS
+
+**Q2. RPSC RAS (Pre) 2021**
+According to Census 2011, what was the work participation rate in India and Rajasthan respectively?
+A. 43.6% and 41.8%
+B. 39.8% and 43.6%
+C. 42.4% and 41.8%
+D. 39.8% and 36.4%
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Labour participation comparative for economy Extra Drill.
+
+**Ans: B.** 39.8% (India), 43.6% (Rajasthan).
+
+</details>
+
+**Q3. UPSC (CSE) Prelims 2013**
+To obtain full benefits of demographic dividend, what should India do?
+A. Promoting skill development
+B. Introducing more social security schemes
+C. Reducing infant mortality rate
+D. Privatization of higher education
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Economy lever that converts age-structure into growth.
+
+**Ans: A.** Promoting skill development.
+
+</details>
+
 ## UKPCS / BPSC / MPPSC Extra Drill -- UP Economy
 
 **Q1. UKPCS (Pre) 2022**
@@ -815,10 +515,9 @@ D. 2020
 <details>
 <summary>Show answer</summary>
 
-**Logic:** The **ODOP scheme was launched by the UP government in January 2018** to promote traditional industries and crafts of each of the 75 districts, boost rural employment and exports.
+**Logic:** Standard key matches 2018.
 
-**Ans: C.** 2018.
-
+**Ans: C.** 2018
 </details>
 
 **Q2. MPPSC (Pre) 2021**
@@ -831,7 +530,7 @@ D. Kanpur
 <details>
 <summary>Show answer</summary>
 
-**Logic:** **Moradabad** is known as "Peetal Nagari" and is the world's largest exporter of brass handicrafts. It accounts for over 40% of India's total handicraft exports.
+**Logic:** **Moradabad** is known as "Peetal Nagari" and is the world's largest exporter of brass handicrafts.
 
 **Ans: C.** Moradabad.
 
@@ -847,7 +546,7 @@ D. Silk sarees
 <details>
 <summary>Show answer</summary>
 
-**Logic:** **Firozabad** is nicknamed "Suhag Nagari" for its glass bangle industry. It produces over 80% of India's glass bangles. Aligarh = locks; Bhadohi = carpets; Varanasi = silk.
+**Logic:** **Firozabad** is nicknamed "Suhag Nagari" for its glass bangle industry.
 
 **Ans: C.** Glass bangles.
 
@@ -874,4 +573,352 @@ D. Silk sarees
 | 13 | Noida = IT/Electronics corridor; part of NCR |
 | 14 | Lucknow = Chikankari (GI tag) + Zardozi embroidery |
 | 15 | Kannauj = **Ittar (perfume) city** of India |
+
+## Practice Zone
+
+1. The flagship 'One District One Product' (ODOP) scheme was officially inaugurated by the Government of Uttar Pradesh on which date?
+   (A) 1 May 2017
+   (B) 24 January 2018
+   (C) 15 August 2018
+   (D) 2 October 2019
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Covers all districts; Centre later echoed the district-product logic.
+
+**Ans: B.** 24 January 2018
+</details>
+
+2. The traditional brass wire inlay work in Sheesham wood, known as 'Tarkashi Art', is the ODOP specialty of which district?
+   (A) Mainpuri
+   (B) Saharanpur
+   (C) Moradabad
+   (D) Bijnor
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Tarkashi is a traditional craft of Mainpuri district where delicate brass, copper, or silver wires are hammered into carved wooden surfaces to create geometric and floral patterns.
+
+**Ans: A.** Mainpuri
+</details>
+
+3. Which district of Uttar Pradesh is famous under the ODOP scheme for its soft white 'Gaura Stone Craft' (Pyrophyllite stone carving)?
+   (A) Banda
+   (B) Mahoba
+   (C) Chitrakoot
+   (D) Hamirpur
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Mahoba is renowned for its GI-tagged Gaura Stone Craft, utilizing local soft white pyrophyllite stone to carve artistic idols, plates, and decorative artefacts.
+
+**Ans: B.** Mahoba
+</details>
+
+4. 'Shajar Stone Craft', in which natural dendritic moss-like patterns appear within agate stones, is the GI-tagged ODOP specialty of:
+   (A) Banda
+   (B) Lalitpur
+   (C) Mirzapur
+   (D) Sonbhadra
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Shajar Stone is a rare dendritic moss agate stone found in the Ken River bed in Banda district, fashioned into jewellery and artefacts.
+
+**Ans: A.** Banda
+</details>
+
+5. Under the ODOP scheme, 'Kalanamak Rice' (famed as Buddha's aromatic gift) is the designated product of:
+   (A) Siddharthnagar
+   (B) Deoria
+   (C) Gorakhpur
+   (D) Maharajganj
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Kalanamak rice, featuring a distinctive black husk and strong aroma, is cultivated in the Terai belt of Eastern UP and is the ODOP product of Siddharthnagar.
+
+**Ans: A.** Siddharthnagar
+</details>
+
+6. Which town in Uttar Pradesh is popularly referred to as the "Ceramic City" of India due to its extensive glazed pottery and tile units?
+   (A) Nizamabad
+   (B) Khurja
+   (C) Chunar
+   (D) Chinhat
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Khurja in Bulandshahr district is known as the "Ceramic City", housing over 500 ceramic and pottery kilns producing tableware, sanitaryware, and electrical insulators.
+
+**Ans: B.** Khurja
+</details>
+
+7. The 'Center for Development of Glass Industry' (CDGI) is established in which city of Uttar Pradesh?
+   (A) Firozabad
+   (B) Kanpur
+   (C) Agra
+   (D) Prayagraj
+<details>
+<summary>Show answer</summary>
+
+**Logic:** CDGI was set up at Firozabad in 1991 as a joint project between the Government of India, UNDP, UNIDO, and UP Government to upgrade technology in the glass industry.
+
+**Ans: A.** Firozabad
+</details>
+
+8. The Fragrance and Flavour Development Centre (FFDC), an autonomous body under the Ministry of MSME, is located at:
+   (A) Lucknow
+   (B) Kannauj
+   (C) Bareilly
+   (D) Ghazipur
+<details>
+<summary>Show answer</summary>
+
+**Logic:** FFDC was established in 1991 by the Government of India with UNDP/UNIDO assistance at Kannauj to serve and modernize the essential oil, aroma, and perfume industry.
+
+**Ans: B.** Kannauj
+</details>
+
+9. Which city in Uttar Pradesh is the primary manufacturing hub for cricket bats, balls, and athletic equipment, holding a major share in India's sports goods exports?
+   (A) Jalandhar
+   (B) Meerut
+   (C) Moradabad
+   (D) Agra
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Meerut is India's leading sports goods manufacturing hub, famous for English and Kashmir willow cricket bats, leather balls, and sports gear.
+
+**Ans: B.** Meerut
+</details>
+
+10. What is the designated ODOP product of Pratapgarh district in Uttar Pradesh?
+   (A) Guava Food Processing
+   (B) Aonla (Indian Gooseberry) Products
+   (C) Mango Pulp Processing
+   (D) Tomato Ketchup
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Pratapgarh is the largest producer of Aonla (Indian Gooseberry) in India, and its ODOP specialty covers aonla candy, murabba, juice, and herbal extracts.
+
+**Ans: B.** Aonla (Indian Gooseberry) Products
+</details>
+
+11. The Singrauli Coalfield, which supplies non-coking coal to multiple pithead thermal power stations, is situated in which district of Uttar Pradesh?
+   (A) Sonbhadra
+   (B) Mirzapur
+   (C) Chandauli
+   (D) Prayagraj
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Singrauli Coalfield spans across the border of MP (Sidhi/Singrauli) and UP (Sonbhadra district), operated by Northern Coalfields Limited (NCL).
+
+**Ans: A.** Sonbhadra
+</details>
+
+12. High-grade silica sand (glass sand) used in the glass factories of Firozabad is extensively quarried from which area of Uttar Pradesh?
+   (A) Shankargarh (Prayagraj)
+   (B) Renukoot (Sonbhadra)
+   (C) Deogarh (Lalitpur)
+   (D) Chunar (Mirzapur)
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Shankargarh and Lohgara in Prayagraj district (along with parts of Chitrakoot) are the primary sources of high-purity glass sand derived from Vindhyan sandstones.
+
+**Ans: A.** Shankargarh (Prayagraj)
+</details>
+
+13. Uttar Pradesh is the leading state in India in the production of which pair of refractory minerals?
+   (A) Gypsum and Asbestos
+   (B) Diaspore and Pyrophyllite
+   (C) Chromite and Magnesite
+   (D) Kyanite and Sillimanite
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Uttar Pradesh accounts for the largest share of India's total output of Diaspore and Pyrophyllite, mined in Jhansi, Lalitpur, Mahoba, and Hamirpur districts.
+
+**Ans: B.** Diaspore and Pyrophyllite
+</details>
+
+14. The oldest operational thermal power plant of the Uttar Pradesh Rajya Vidyut Utpadan Nigam (UPRVUNL), set up in 1942, is:
+   (A) Panki Thermal Power Station
+   (B) Obra Thermal Power Station
+   (C) Harduaganj Thermal Power Station
+   (D) Parichha Thermal Power Station
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Harduaganj Thermal Power Station at Qasimpur in Aligarh district was originally commissioned in 1942, making it the oldest thermal power station in UP.
+
+**Ans: C.** Harduaganj Thermal Power Station
+</details>
+
+15. What type of nuclear reactors are installed at the Narora Atomic Power Station (NAPS) in Bulandshahr district?
+   (A) Boiling Water Reactors (BWR)
+   (B) Pressurized Heavy Water Reactors (PHWR)
+   (C) Fast Breeder Reactors (FBR)
+   (D) Gas Cooled Reactors (GCR)
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Narora Atomic Power Station operates two indigenous 220 MWe Pressurized Heavy Water Reactors (PHWR) using natural uranium as fuel and heavy water ($D2O$) as moderator and coolant.
+
+**Ans: B.** Pressurized Heavy Water Reactors (PHWR)
+</details>
+
+16. The Mathura Oil Refinery of the Indian Oil Corporation Limited (IOCL) was commissioned in which year?
+   (A) 1974
+   (B) 1982
+   (C) 1991
+   (D) 1998
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Mathura Refinery was commissioned in 1982 with an initial capacity of 6.0 MMTPA (later expanded to 8.0 MMTPA) to meet the demand for petroleum products in North-Western India.
+
+**Ans: B.** 1982
+</details>
+
+17. The BrahMos Aerospace supersonic cruise missile integration and manufacturing facility is being set up in which node of the UP Defence Industrial Corridor?
+   (A) Kanpur Node
+   (B) Lucknow Node
+   (C) Jhansi Node
+   (D) Aligarh Node
+<details>
+<summary>Show answer</summary>
+
+**Logic:** A dedicated 200-acre facility for manufacturing the next-generation BrahMos-NG cruise missiles is established at the Lucknow node of the UP Defence Industrial Corridor (UPDIC).
+
+**Ans: B.** Lucknow Node
+</details>
+
+18. What is the total length of the 6-lane access-controlled Yamuna Expressway connecting Greater Noida to Agra?
+   (A) 135 km
+   (B) 165 km
+   (C) 205 km
+   (D) 302 km
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Yamuna Expressway is 165 km long, connecting Greater Noida with Agra across Gautam Buddha Nagar, Aligarh, Mathura, and Agra districts.
+
+**Ans: B.** 165 km
+</details>
+
+19. The 296-km long Bundelkhand Expressway connects which two terminating points in Uttar Pradesh?
+   (A) Chitrakoot (Bharatkoop) to Etawah (Kudrail)
+   (B) Jhansi to Agra
+   (C) Banda to Kanpur
+   (D) Lalitpur to Lucknow
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Ganga Expressway = Meerut–Prayagraj; Purvanchal = Lucknow–Ghazipur; Bundelkhand = Chitrakoot–Etawah.
+
+**Ans: A.** Chitrakoot (Bharatkoop) to Etawah (Kudrail)
+</details>
+
+20. The under-construction 594-km long Ganga Expressway, the longest expressway in Uttar Pradesh, connects:
+   (A) Meerut to Prayagraj
+   (B) Noida to Varanasi
+   (C) Ghaziabad to Ballia
+   (D) Saharanpur to Gorakhpur
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Ganga Expressway (594 km) originates at Bijauli village in Meerut district and terminates at Judapur Dandu village in Prayagraj district, passing through 12 districts.
+
+**Ans: A.** Meerut to Prayagraj
+</details>
+
+21. Which greenfield international airport in Uttar Pradesh is being developed at Jewar in Gautam Buddha Nagar district?
+   (A) Maryada Purushottam Shri Ram International Airport
+   (B) Noida International Airport
+   (C) Lal Bahadur Shastri International Airport
+   (D) Chaudhary Charan Singh International Airport
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Noida International Airport at Jewar is being developed as a multi-runway international aviation and multimodal logistics hub in Gautam Buddha Nagar.
+
+**Ans: B.** Noida International Airport
+</details>
+
+22. Which of the following cities of Uttar Pradesh was NOT included in the original list of 10 cities selected under the Central Smart Cities Mission?
+   (A) Saharanpur
+   (B) Ghaziabad
+   (C) Bareilly
+   (D) Moradabad
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 10 cities selected from UP under the Central Smart Cities Mission were: Lucknow, Varanasi, Prayagraj, Agra, Kanpur, Aligarh, Jhansi, Moradabad, Bareilly, and Saharanpur.
+
+**Ans: B.** Ghaziabad
+</details>
+
+23. Under the National Heritage City Development and Augmentation Yojana (HRIDAY), which two cities from Uttar Pradesh were selected?
+   (A) Ayodhya and Varanasi
+   (B) Varanasi and Mathura
+   (C) Prayagraj and Mathura
+   (D) Agra and Varanasi
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Out of 12 heritage cities selected across India under the HRIDAY scheme, exactly two cities were from Uttar Pradesh: Varanasi and Mathura.
+
+**Ans: B.** Varanasi and Mathura
+</details>
+
+24. The Mega Leather Park in Uttar Pradesh, established under the Mega Leather, Footwear and Accessories Development Programme, is located at:
+   (A) Ramaipur (Kanpur)
+   (B) Sikandra (Agra)
+   (C) Dadasiba (Unnao)
+   (D) Naini (Prayagraj)
+<details>
+<summary>Show answer</summary>
+
+**Logic:** A 268-acre Mega Leather Cluster is developed at Ramaipur in Kanpur Nagar district, equipped with modern Common Effluent Treatment Plants (CETP).
+
+**Ans: A.** Ramaipur (Kanpur)
+</details>
+
+25. The Bharat Heavy Electricals Limited (BHEL) transformer manufacturing manufacturing unit in Uttar Pradesh is situated in which district?
+   (A) Varanasi
+   (B) Jhansi
+   (C) Bareilly
+   (D) Meerut
+<details>
+<summary>Show answer</summary>
+
+**Logic:** BHEL established its major power transformer and freight locomotive manufacturing facility at Khailar in Jhansi district in 1976.
+
+**Ans: B.** Jhansi
+</details>
+
+26. Which of the following industrial development authorities in Uttar Pradesh operates as an 'Industrial Township' under Article 243Q proviso, exempting it from an elected Municipal Corporation?
+   (A) NOIDA
+   (B) Greater Noida
+   (C) YEIDA
+   (D) All of the above
+<details>
+<summary>Show answer</summary>
+
+**Logic:** NOIDA, Greater Noida, and YEIDA are statutory industrial development authorities constituted under the UP Industrial Area Development Act, 1976.
+
+**Ans: D.** All of the above
+</details>
+
+## Common Traps
+
+| Trap | Correct |
+|---|---|
+| Mixing Absolute vs % ranks | Match the stem metric first |
+
+---
 

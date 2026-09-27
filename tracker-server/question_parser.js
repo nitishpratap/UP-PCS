@@ -1,6 +1,22 @@
 const fs = require('fs');
 const path = require('path');
 
+/**
+ * Bold question-header core: Q1 / Q-GC19 / Q-ST22 / Q-EC1 / Q-CU3 / Q-UP5 / Practice Q / Inline PYQ
+ * Keep letter prefixes optional so Geography GC and Science/Economy/Census/UP tags all match.
+ */
+const Q_HEADER_CORE =
+  String.raw`(?:Q\s*[-–—]?\s*(?:[A-Za-z]{1,4})?\s*\d+[A-Za-z]?|Q\s*[\.:\)]|Q\d+|PYQ\b|Inline PYQ\b|Practice Q\b|Question\s*\d+)`;
+const Q_HEADER_BOLD_RE = new RegExp(String.raw`\*\*((?:${Q_HEADER_CORE})[^\*]*?)\*\*`, 'gi');
+const Q_HEADER_STRIP_RE = new RegExp(
+  String.raw`^\*\*(?:${Q_HEADER_CORE})[^\*]*?\*\*`,
+  'i'
+);
+const Q_HEADER_INLINE_RE = new RegExp(
+  String.raw`\*\*((?:${Q_HEADER_CORE})[^\*]*?)\*\*([\s\S]*?)(?:\*Answer:\*|\*\*Answer:\*\*|\*Ans:\*|\*\*Ans:\*\*|Answer:)\s*\*?\*?([A-D])\*?\*?([^\n\r]*)`,
+  'gi'
+);
+
 function extractChapterTitle(content, defaultName) {
   const h1Match = content.match(/^#\s+(.+)$/m);
   if (h1Match) return h1Match[1].replace(/¶/g, '').trim();
@@ -269,9 +285,9 @@ function parseQuestionsFromMarkdown(filePath, subject, chapterSlug) {
     // Look backward up to 4000 characters before <details> to capture question stem & options
     const lookbackChunk = content.substring(Math.max(lastIndex, detailsStart - 4000), detailsStart);
     
-    // Question header patterns (handles both short headers and full stems inside bold)
-    const qHeaderPattern = /\*\*((?:Q\s*[-–—]?\s*(?:GC)?\s*\d+|Q\s*[\.:\)]|Q\d+|PYQ\b|Inline PYQ\b|Practice Q\b|Question\s*\d+)[^\*]*?)\*\*/gi;
-    const qStarts = [...lookbackChunk.matchAll(qHeaderPattern)];
+    // Question header patterns (Q1, Q-GC19, Q-ST22, Q-EC1, Q-CU, Q-UP, Practice Q, …)
+    Q_HEADER_BOLD_RE.lastIndex = 0;
+    const qStarts = [...lookbackChunk.matchAll(Q_HEADER_BOLD_RE)];
     let lastQPos = -1;
     let lastQHeader = '';
 
@@ -279,6 +295,19 @@ function parseQuestionsFromMarkdown(filePath, subject, chapterSlug) {
       const best = qStarts[qStarts.length - 1];
       lastQPos = best.index;
       lastQHeader = best[1].trim();
+    }
+
+    // Practice Zone numbered stems without bold Q-tags: "1. Latitudinal span…"
+    if (lastQPos === -1) {
+      const secEarly = getSectionInfoForPos(detailsStart);
+      if (secEarly.category === 'practice') {
+        const numMatches = [...lookbackChunk.matchAll(/(?:^|\n)(\d{1,3})\.\s+/g)];
+        if (numMatches.length > 0) {
+          const best = numMatches[numMatches.length - 1];
+          lastQPos = best.index + (best[0].startsWith('\n') ? 1 : 0);
+          lastQHeader = `Practice Q${best[1]}.`;
+        }
+      }
     }
 
     if (lastQPos === -1) {
@@ -294,6 +323,7 @@ function parseQuestionsFromMarkdown(filePath, subject, chapterSlug) {
     const ansMatch2 = detailsContent.match(/\*\*Ans:\s*([A-D])\.\*\*/i);
     const ansMatch3 = detailsContent.match(/\*\*Ans:\s*([A-D])\b/i);
     const ansMatch4 = detailsContent.match(/(?:Ans|Answer|Option):\s*([A-D])\b/i);
+    const ansMatch5 = detailsContent.match(/\*\*Ans:\*\*\s*\*\*([A-D])\b/i);
 
     if (ansMatch1) {
       const letters = ansMatch1[1].match(/[A-D]/gi);
@@ -302,6 +332,8 @@ function parseQuestionsFromMarkdown(filePath, subject, chapterSlug) {
       correctLetters = [ansMatch2[1].toUpperCase()];
     } else if (ansMatch3) {
       correctLetters = [ansMatch3[1].toUpperCase()];
+    } else if (ansMatch5) {
+      correctLetters = [ansMatch5[1].toUpperCase()];
     } else if (ansMatch4) {
       correctLetters = [ansMatch4[1].toUpperCase()];
     }
@@ -317,10 +349,16 @@ function parseQuestionsFromMarkdown(filePath, subject, chapterSlug) {
     let stemPart = parsedData.stem;
 
     let rawStem = stemPart.trim();
-    let stem = rawStem.replace(/^\*\*(?:Q\s*[-–—]?\s*(?:GC)?\s*\d+|Q\s*[\.:\)]|Q\d+|PYQ\b|Inline PYQ\b|Practice Q\b|Question\s*\d+)[^\*]*?\*\*/i, '').trim();
+    let stem = rawStem.replace(Q_HEADER_STRIP_RE, '').trim();
+    // Numbered practice: strip leading "12. "
+    stem = stem.replace(/^\d{1,3}\.\s+/, '').trim();
     if (!stem) {
       // If the entire question stem was enclosed in bold, strip asterisks and prefix
-      stem = rawStem.replace(/^\*\*|\*\*$/g, '').replace(/^(?:Q\s*[-–—]?\s*(?:GC)?\s*\d+|Q\s*[\.:\)]|Q\d+|PYQ\b|Inline PYQ\b|Practice Q\b|Question\s*\d+)[\.:\s\-]*/i, '').trim();
+      stem = rawStem
+        .replace(/^\*\*|\*\*$/g, '')
+        .replace(new RegExp(String.raw`^(?:${Q_HEADER_CORE})[\.:\s\-]*`, 'i'), '')
+        .replace(/^\d{1,3}\.\s+/, '')
+        .trim();
     }
 
       // Clean explanation
@@ -376,9 +414,9 @@ function parseQuestionsFromMarkdown(filePath, subject, chapterSlug) {
 
   // 2. Parse Inline Questions (e.g. **Q1...** with options A-D and *Answer:* **C**)
   const seenStems = new Set(questions.map(q => q.stem.substring(0, 40).toLowerCase().replace(/[^a-z0-9]/g, '')));
-  const inlineRegex = /\*\*(Q\s*[-–—]?\s*(?:GC)?\s*\d+|Q\s*[\.:\)]|Q\d+|PYQ\b|Inline PYQ\b|Practice Q\b|Question\s*\d+)[^\*]*?\*\*([\s\S]*?)(?:\*Answer:\*|\*\*Answer:\*\*|\*Ans:\*|\*\*Ans:\*\*|Answer:)\s*\*?\*?([A-D])\*?\*?([^\n\r]*)/gi;
+  Q_HEADER_INLINE_RE.lastIndex = 0;
   let inM;
-  while ((inM = inlineRegex.exec(content)) !== null) {
+  while ((inM = Q_HEADER_INLINE_RE.exec(content)) !== null) {
     const qHeader = inM[1].trim();
     const body = inM[2].trim();
     const correctAns = inM[3].toUpperCase();

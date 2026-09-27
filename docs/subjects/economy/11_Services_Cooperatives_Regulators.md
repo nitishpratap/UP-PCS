@@ -18,7 +18,6 @@ Banking depth stays in **Topic 3**; SEBI / mutual-fund / NPS **market** depth st
 
 ## Current Affairs
 
-
 | Year | Fact | Why it matters |
 |------|------|----------------|
 | **2025–26 (S.A.E.)** | Services ≈ **54.35%** of GVA at current prices; Industry ≈ **27.8%**; Agriculture & allied ≈ **17.9%**. | Services > Industry > Agriculture. |
@@ -87,7 +86,6 @@ Banking depth stays in **Topic 3**; SEBI / mutual-fund / NPS **market** depth st
 ---
 ## Confused Pairs
 
-
 | A | B | Distinguishing fact |
 |---|---|---|
 | **Tertiary / services** | **Primary (forestry, fishing, mining)** | Services vs resource extraction |
@@ -109,7 +107,6 @@ Banking depth stays in **Topic 3**; SEBI / mutual-fund / NPS **market** depth st
 | **Ministry of Cooperation** | **Ministry of Agriculture alone** | Dedicated 2021 desk vs older combined tags |
 
 ## Must-score drill — tertiary map, CSR, MRP, regulators
-
 
 | Item | Tag |
 |---|---|
@@ -134,7 +131,6 @@ Banking depth stays in **Topic 3**; SEBI / mutual-fund / NPS **market** depth st
 ---
 
 ## 11.1 Service sector — tertiary map
-
 
 **The tertiary (services) sector** covers industries that provide services — trade, hotels, transport, communication, banking and finance, insurance, real estate, public administration and defence, education, entertainment and tourism.
 
@@ -178,7 +174,6 @@ Banking depth stays in **Topic 3**; SEBI / mutual-fund / NPS **market** depth st
 
 ## 11.2 Cooperatives
 
-
 **A cooperative** is a member-owned enterprise organised on voluntary membership, democratic control and mutual benefit.
 
 - Cooperatives organise producers or consumers for credit, dairy, marketing, housing and multi-State activity.
@@ -193,7 +188,6 @@ Banking depth stays in **Topic 3**; SEBI / mutual-fund / NPS **market** depth st
 ---
 
 ## 11.3 Companies, CSR and corporate governance
-
 
 **The Companies Act, 2013** is the principal company-law statute in India.
 
@@ -223,7 +217,7 @@ Banking depth stays in **Topic 3**; SEBI / mutual-fund / NPS **market** depth st
 - The aim is to align managers with accountability and protect shareholders and stakeholders.
 - **Uday Kotak Committee** (SEBI, **2017**) on corporate governance: minimum board strength, woman independent director, at least half independent directors at listed companies, and **separation of Chair and MD** (Chair as non-executive) — a stem saying Chair and MD “must remain the same” is the **incorrect** statement.
 
-**UPPCS (Pre) 2019**
+**Q-EC1. UPPCS (Pre) 2019**
 
 With reference to the Corporate Social Responsibility (CSR), which of the statements is/are correct?
 
@@ -240,16 +234,15 @@ D. Neither I nor 2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Mandatory CSR comes from the **Companies Act, 2013** (Section 135), not a 2014 Act. The floor is **2%** of the average net profits of the three preceding financial years — not 1% of annual net profit. Rules of 2014 are machinery, not the Act’s short title.
+**Logic:** The floor is **2%** of the average net profits of the three preceding financial years — not 1% of annual net profit.
 
-**Ans: D.** Neither 1 nor 2.
+**Ans: D.** Mandatory CSR comes from the **Companies Act, 2013** (Section 135), not a 2014 Act.
 
 </details>
 
 ---
 
 ## 11.4 Regulatory institutions — match desk
-
 
 **Regulators** are mostly **statutory** bodies created by Parliament — distinct from constitutional bodies such as the Election Commission or UPSC.
 
@@ -283,7 +276,6 @@ D. Neither I nor 2
 
 ## 11.5 Standards, quality marks and consumer protection
 
-
 **Quality marks and standards** reduce information asymmetry between producers and buyers.
 
 - **BIS (Bureau of Indian Standards)** is the national standards body; ISI / standards marks certify product conformity.
@@ -305,7 +297,7 @@ D. Neither I nor 2
 - The **Consumer Protection Act, 2019** strengthens rights, product liability and e-commerce duties.
 - District, State and National commissions hear complaints; polity Acts notes may carry forum hierarchy depth.
 
-**UPPCS (Pre) 2021**
+**Q-EC2. UPPCS (Pre) 2021**
 
 The symbol 'ECOMARC' is related to which of the following?
 
@@ -317,13 +309,13 @@ D. Imported goods
 <details>
 <summary>Show answer</summary>
 
-**Logic:** ECOMARC is India’s eco-mark for environmentally friendly products — not a generic “best quality,” export, or import tag.
+**Logic:** Safe goods for environment.
 
-**Ans: B.** Safe goods for environment.
+**Ans: B.** ECOMARC is India’s eco-mark for environmentally friendly products — not a generic “best quality,” export, or import tag.
 
 </details>
 
-**UPPCS (Pre) 2025**
+**Q-EC3. UPPCS (Pre) 2025**
 
 Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
 
@@ -341,10 +333,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** (A) is true — bargaining / selling below MRP is allowed. (R) correctly states the ceiling rule (cannot charge *above* MRP). That ceiling logic is why bargaining below is lawful — R explains A.
+**A/R logic:** Decide from the stem options; keyed answer is Both (A) and (R) are true and (R) is the correct explanation of (A).
 
-**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A).
-
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)
 </details>
 
 > **Note:** Some booklet series rephrase Reason as “MRP is a price a seller **must** charge.” That wording is **false**; with that variant, key **A true / R false**. Always read the printed Reason before picking the code.
@@ -355,8 +346,7 @@ Consumer Protection Act, 2019 strengthens rights, product liability and e-commer
 
 ## Complete PYQ Bank (UPPCS)
 
-
-**Q1. UPPCS (Pre) 2019** — CSR statements
+**Q1. UPPCS (Pre) 2019**
 
 1. Companies Act 2014, introduces mandatory CSR.
 2. Companies covered under this will have to spend atleast one percent of their annual net-profit in the activities under CSR.
@@ -369,13 +359,13 @@ D. Neither I nor 2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Act is **2013**; spend floor is **2%** of three-year average profits — both statements false.
+**Logic:** Neither 1 nor 2.
 
-**Ans: D.** Neither 1 nor 2.
+**Ans: D.** Act is **2013**; spend floor is **2%** of three-year average profits — both statements false.
 
 </details>
 
-**Q2. UPPCS (Pre) 2021** — ECOMARC
+**Q2. UPPCS (Pre) 2021**
 
 The symbol 'ECOMARC' is related to which of the following?
 
@@ -387,13 +377,13 @@ D. Imported goods
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Eco-label for environment-friendly products.
+**Logic:** Safe goods for environment.
 
-**Ans: B.** Safe goods for environment.
+**Ans: B.** Eco-label for environment-friendly products.
 
 </details>
 
-**Q3. UPPCS (Pre) 2025** — MRP A/R
+**Q3. UPPCS (Pre) 2025**
 
 Assertion (A): Consumers can bargain below the Maximum Retail Price (MRP).
 
@@ -407,16 +397,14 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** Ceiling definition explains why bargaining below is allowed.
+**A/R logic:** Decide from the stem options; keyed answer is Both (A) and (R) are true and (R) is the correct explanation of (A).
 
-**Ans: D.** Both true; R explains A.
-
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)
 </details>
 
 ---
 
-
-**Q4. U.P.P.C.S. (Pre) 2003 / Mains 2004**
+**Q4. UPPCS (Pre) 2003 / Mains 2004**
 Tertiary Sector includes Trade and Transport; Finance and Real Estate; Forestry and Fishing — correct code?
 A. 1 only
 B. 1 and 2 only
@@ -426,13 +414,13 @@ D. 3 only
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Forestry/fishing = primary.
+**Logic:** 1 and 2 only.
 
-**Ans: B.** 1 and 2 only.
+**Ans: B.** Forestry/fishing = primary.
 
 </details>
 
-**Q5. U.P.P.C.S. (Mains) 2004**
+**Q5. UPPCS (Mains) 2004**
 Service Sector includes Mining; Transport & Communication; Hotels; Forestry & Fishing — correct?
 A. Only I and II
 B. Only II and III
@@ -442,13 +430,13 @@ D. Only I and IV
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Mining and forestry/fishing excluded.
+**Logic:** Only II and III.
 
-**Ans: B.** Only II and III.
+**Ans: B.** Mining and forestry/fishing excluded.
 
 </details>
 
-**Q6. U.P.P.C.S. (Pre) (Re-Exam) 2015**
+**Q6. UPPCS (Pre) (Re-Exam) 2015**
 Primary sector of Indian economy is:
 A. Agriculture
 B. Industry
@@ -458,13 +446,13 @@ D. None
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Primary identity.
+**Logic:** Agriculture.
 
-**Ans: A.** Agriculture.
+**Ans: A.** Primary identity.
 
 </details>
 
-**Q7. U.P. R.O./A.R.O. (Mains) 2017**
+**Q7. UP RO/ARO (Mains) 2017**
 Transport, Communication, Commerce come under:
 A. Primary
 B. Secondary
@@ -474,13 +462,12 @@ D. Rural
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Services activities.
+**Logic:** Services activities — Tertiary
 
-**Ans: C.** Tertiary.
-
+**Ans: C.** Tertiary
 </details>
 
-**Q8. U.P. R.O./A.R.O. (Pre) 2021**
+**Q8. UP RO/ARO (Pre) 2021**
 Largest source of National Income in India is:
 A. Service Sector
 B. Agriculture
@@ -490,13 +477,13 @@ D. Trade Sector
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Services dominate GVA.
+**Logic:** Service Sector.
 
-**Ans: A.** Service Sector.
+**Ans: A.** Services dominate GVA.
 
 </details>
 
-**Q9. U.P.P.C.S. (Pre) 2012**
+**Q9. UPPCS (Pre) 2012**
 Largest share of GDP in India comes from:
 A. Agriculture and allied
 B. Manufacturing, construction, electricity and gas
@@ -506,13 +493,13 @@ D. Defence and public administration
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Services lead.
+**Logic:** Services sector.
 
-**Ans: C.** Services sector.
+**Ans: C.** Services lead.
 
 </details>
 
-**Q10. U.P.P.C.S. (Mains) 2017**
+**Q10. UPPCS (Mains) 2017**
 Decreasing order of sector contributions to GDP:
 A. Services > Agriculture > Industry
 B. Industry > Services > Agriculture
@@ -522,13 +509,13 @@ D. Services > Industry > Agriculture
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Modern share order.
+**Logic:** Services > Industry > Agriculture.
 
-**Ans: D.** Services > Industry > Agriculture.
+**Ans: D.** Modern share order.
 
 </details>
 
-**Q11. U.P.P.C.S. (Pre) 2010**
+**Q11. UPPCS (Pre) 2010**
 Which is not true: services sector share in India’s GDP is only 25%?
 A. Population/land near-correct statements
 B. Services share only 25%
@@ -538,13 +525,13 @@ D. 2.4% of world area
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Services ≈ half+ of GDP/GVA.
+**Logic:** The 25% claim is false.
 
-**Ans: B.** The 25% claim is false.
+**Ans: B.** Services ≈ half+ of GDP/GVA.
 
 </details>
 
-**Q12. U.P.P.C.S. (Mains) 2006**
+**Q12. UPPCS (Mains) 2006**
 As the economy develops, tertiary share in GDP:
 A. Decreases
 B. Decreases then increases
@@ -554,13 +541,12 @@ D. Remains constant
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Structural shift.
+**Logic:** Structural shift — Increases
 
-**Ans: C.** Increases.
-
+**Ans: C.** Increases
 </details>
 
-**Q13. U.P.P.C.S. (Mains) 2007**
+**Q13. UPPCS (Mains) 2007**
 Between 2001–2005, which sector’s growth rate consistently increased?
 A. Agriculture
 B. Industry
@@ -570,13 +556,12 @@ D. None
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Services consistency window.
+**Logic:** Services consistency window — Services
 
-**Ans: C.** Services.
-
+**Ans: C.** Services
 </details>
 
-**Q14. U.P.P.C.S. (Pre) 2010**
+**Q14. UPPCS (Pre) 2010**
 
 ‘Project Arrow’ is concerned with the modernization of which of the following?
 
@@ -588,13 +573,12 @@ D. Railways
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Project Arrow (2008) modernises India Post.
+**Logic:** Project Arrow (2008) modernises India Post — Post Offices
 
-**Ans: B.**
-
+**Ans: B.** Post Offices
 </details>
 
-**Q15. U.P.P.C.S. (Mains) 2009**
+**Q15. UPPCS (Mains) 2009**
 
 Project ARROW is related with:
 
@@ -606,13 +590,12 @@ D. giving a new identity to post offices
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Project Arrow gives a modern identity / quality upgrade to post offices.
+**Logic:** Project Arrow gives a modern identity / quality upgrade to post offices — giving a new identity to post offices
 
-**Ans: D.**
-
+**Ans: D.** giving a new identity to post offices
 </details>
 
-**Q16. U.P.P.C.S. (Mains) 2003**
+**Q16. UPPCS (Mains) 2003**
 
 Universal Service Obligation Fund is concerned with:
 
@@ -624,13 +607,12 @@ D. the aid in the time of natural disasters
 <details>
 <summary>Show answer</summary>
 
-**Logic:** USOF subsidises rural/remote telegraph–telecom services via telecom USO contributions.
+**Logic:** USOF subsidises rural/remote telegraph–telecom services via telecom USO contributions — adjustment of liabilities of telecom companies
 
-**Ans: A.**
-
+**Ans: A.** adjustment of liabilities of telecom companies
 </details>
 
-**Q17. U.P.P.C.S. (Mains) 2004**
+**Q17. UPPCS (Mains) 2004**
 
 AGMARK is a:
 
@@ -642,13 +624,12 @@ D. A seal of quality guarantee
 <details>
 <summary>Show answer</summary>
 
-**Logic:** AGMARK is a quality-guarantee seal for graded agri produce.
+**Logic:** AGMARK is a quality-guarantee seal for graded agri produce — A seal of quality guarantee
 
-**Ans: D.**
-
+**Ans: D.** A seal of quality guarantee
 </details>
 
-**Q18. U.P.P.C.S. (Pre) 1999**
+**Q18. UPPCS (Pre) 1999**
 
 ISO 14001 is:
 
@@ -660,10 +641,9 @@ D. a certificate issued by the Government regarding the quality of a product
 <details>
 <summary>Show answer</summary>
 
-**Logic:** ISO 14001 = environmental management / pollution-control system certificate.
+**Logic:** ISO 14001 = environmental management / pollution-control system certificate — an international certificate issued to industrial units for having established Pollution Control System
 
-**Ans: C.**
-
+**Ans: C.** an international certificate issued to industrial units for having established Pollution Control System
 </details>
 
 **Q19. U.P. P.C.S. (Pre) 2022**
@@ -678,10 +658,9 @@ D. Environment friendly
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Eco mark = environment-friendly product label.
+**Logic:** Eco mark = environment-friendly product label — Environment friendly
 
-**Ans: D.**
-
+**Ans: D.** Environment friendly
 </details>
 
 ---
@@ -690,9 +669,7 @@ D. Environment friendly
 
 > Extra Drill filled from Ghatnachakra *Industrial Sector* (CSR/Kotak) and *Tertiary Sector* Purvalokan.
 
-
 UPPCS-tagged stems live in **Complete PYQ Bank (UPPCS)** above. UKPCS-tagged stems live in **UKPCS** below. Use Practice Zone for fresh multi-statement drills.
-
 
 ### Ghatnachakra Purvalokan — Industrial Sector
 
@@ -708,10 +685,9 @@ D. Neither
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Minimum spend is 2% under Section 135 — statement 2 is false.
+**Logic:** Only 1 — keyed as 1 only.
 
-**Ans: A.** Only 1.
-
+**Ans: A.** Minimum spend is 2% under Section 135 — statement 2 is false.
 </details>
 
 **Q2. Chhattisgarh P.C.S. (Pre) 2015**
@@ -725,13 +701,12 @@ E. None of these
 <details>
 <summary>Show answer</summary>
 
-**Logic:** First country with mandatory CSR under Companies Act 2013.
+**Logic:** First country with mandatory CSR under Companies Act 2013 — India
 
-**Ans: D.** India.
-
+**Ans: D.** India
 </details>
 
-**Q3. U.P.P.C.S. (Mains) 2017**
+**Q3. UPPCS (Mains) 2017**
 Which statement is incorrect about Uday Kotak Committee?
 A. Instituted by SEBI
 B. Relates to Corporate Governance
@@ -741,16 +716,15 @@ D. Recommends that the post of chairman and managing director must remain the sa
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Kotak: separate Chair (non-executive) and MD.
+**Logic:** D is incorrect — Chair and MD should be separated.
 
-**Ans: D.** D is incorrect — Chair and MD should be separated.
+**Ans: D.** Kotak: separate Chair (non-executive) and MD.
 
 </details>
 
-
 ### Ghatnachakra Purvalokan — Tertiary Sector
 
-**Q4. U.P. U.D.A./L.D.A. (Pre) 2002 / U.P.P.C.S. (Pre) 2003**
+**Q4. U.P. U.D.A./L.D.A. (Pre) 2002 / UPPCS (Pre) 2003**
 In India, Tertiary Sector includes:
 1. Trade and Transport
 2. Finance and Real Estate
@@ -763,13 +737,13 @@ D. 3 only
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Forestry and fishing are primary — not tertiary.
+**Logic:** 1 and 2 only.
 
-**Ans: B.** 1 and 2 only.
+**Ans: B.** Forestry and fishing are primary — not tertiary.
 
 </details>
 
-**Q5. U.P.P.C.S. (Mains) 2004**
+**Q5. UPPCS (Mains) 2004**
 In India, Service Sector includes:
 I. Mining and Quarrying
 II. Transport and Communication
@@ -783,13 +757,13 @@ D. Only I and IV
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Mining and forestry/fishing are primary.
+**Logic:** Only II and III.
 
-**Ans: B.** Only II and III.
+**Ans: B.** Mining and forestry/fishing are primary.
 
 </details>
 
-**Q6. U.P. Lower Sub. (Pre) 2008**
+**Q6. UP Lower Sub (Pre) 2008**
 Which one of the following is a tertiary activity?
 A. Forestry
 B. Manufacturing
@@ -799,13 +773,12 @@ D. Marketing
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Forestry/farming = primary; manufacturing = secondary.
+**Logic:** Forestry/farming = primary; manufacturing = secondary — Marketing
 
-**Ans: D.** Marketing.
-
+**Ans: D.** Marketing
 </details>
 
-**Q7. U.P.P.C.S. (Pre) (Re-Exam) 2015**
+**Q7. UPPCS (Pre) (Re-Exam) 2015**
 Which among the following is the primary sector of Indian economy?
 A. Agriculture
 B. Industry
@@ -815,9 +788,9 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Primary = agri and related resource extraction.
+**Logic:** Agriculture.
 
-**Ans: A.** Agriculture.
+**Ans: A.** Primary = agri and related resource extraction.
 
 </details>
 
@@ -836,13 +809,13 @@ D. All four
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Storage is tertiary (not secondary); mineral exploration is primary-side mining support (not tertiary).
+**Logic:** Only two (dairy primary; weaving secondary).
 
-**Ans: B.** Only two (dairy primary; weaving secondary).
+**Ans: B.** Storage is tertiary (not secondary); mineral exploration is primary-side mining support (not tertiary).
 
 </details>
 
-**Q9. U.P. R.O./A.R.O. (Mains) 2017**
+**Q9. UP RO/ARO (Mains) 2017**
 Transport, Communication, Commerce come under the:
 A. Primary activities
 B. Secondary activities
@@ -852,13 +825,13 @@ D. Rural activities
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Classic services trio.
+**Logic:** Tertiary activities.
 
-**Ans: C.** Tertiary activities.
+**Ans: C.** Classic services trio.
 
 </details>
 
-**Q10. U.P. R.O./A.R.O. (Pre) 2021**
+**Q10. UP RO/ARO (Pre) 2021**
 The largest source of National Income in India is:
 A. Service Sector
 B. Agriculture Sector
@@ -868,9 +841,9 @@ D. Trade Sector
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Services dominate GVA/national income share.
+**Logic:** Service Sector.
 
-**Ans: A.** Service Sector.
+**Ans: A.** Services dominate GVA/national income share.
 
 </details>
 
@@ -884,13 +857,13 @@ D. 16.7%, 26.6% and 56.7%
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Services lead; agri smallest among the three.
+**Logic:** 17.7%, 27.6% and 54.7%.
 
-**Ans: A.** 17.7%, 27.6% and 54.7%.
+**Ans: A.** Services lead; agri smallest among the three.
 
 </details>
 
-**Q12. U.P.P.C.S. (Pre) 2012**
+**Q12. UPPCS (Pre) 2012**
 The largest share of Gross Domestic Product (GDP) in India comes from:
 A. Agriculture and allied sectors
 B. Manufacturing, construction, electricity and gas
@@ -900,13 +873,13 @@ D. Defence and public administration
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Services > industry > agri in modern map.
+**Logic:** Services sector.
 
-**Ans: C.** Services sector.
+**Ans: C.** Services > industry > agri in modern map.
 
 </details>
 
-**Q13. U.P.P.C.S. (Mains) 2017 / U.P.P.C.S. (Pre) 2005**
+**Q13. UPPCS (Mains) 2017 / UPPCS (Pre) 2005**
 Correct sequence in decreasing order of contributions of sectors to GDP of India:
 A. Services > Agriculture > Industry
 B. Industry > Services > Agriculture
@@ -916,9 +889,9 @@ D. Services > Industry > Agriculture
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Current GVA share order.
+**Logic:** Services > Industry > Agriculture.
 
-**Ans: D.** Services > Industry > Agriculture.
+**Ans: D.** Current GVA share order.
 
 </details>
 
@@ -932,13 +905,13 @@ D. All three contribute equally
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Services dominate.
+**Logic:** Tertiary sector.
 
-**Ans: C.** Tertiary sector.
+**Ans: C.** Services dominate.
 
 </details>
 
-**Q15. U.P.P.C.S. (Mains) 2004**
+**Q15. UPPCS (Mains) 2004**
 Which one of the following contributes highest share in India’s domestic production?
 A. Agriculture and allied activities
 B. Manufacturing industries
@@ -948,10 +921,9 @@ D. Services
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Same services-lead card.
+**Logic:** Same services-lead card — Services
 
-**Ans: D.** Services.
-
+**Ans: D.** Services
 </details>
 
 **Q16. U.P. P.C.S. (Mains) 2014**
@@ -964,13 +936,13 @@ D. 55% and 45%
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Services share of GVA ≫ employment share.
+**Logic:** About 57% and 28%.
 
-**Ans: B.** About 57% and 28%.
+**Ans: B.** Services share of GVA ≫ employment share.
 
 </details>
 
-**Q17. U.P.P.C.S. (Pre) 2010**
+**Q17. UPPCS (Pre) 2010**
 Which statement is not true about the Indian Economy?
 (b-option style) The share of services sector in India’s GDP is only 25%.
 A. World population/land share statements (near-correct for period)
@@ -981,9 +953,9 @@ D. India occupies about 2.4% of world geographical area
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Services have long been ~half or more of GDP/GVA.
+**Logic:** Services-only-25% is false.
 
-**Ans: B.** Services-only-25% is false.
+**Ans: B.** Services have long been ~half or more of GDP/GVA.
 
 </details>
 
@@ -997,13 +969,13 @@ D. been fluctuating
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Structural shift toward services.
+**Logic:** Increasing trend.
 
-**Ans: A.** Increasing trend.
+**Ans: A.** Structural shift toward services.
 
 </details>
 
-**Q19. U.P.P.C.S. (Mains) 2007**
+**Q19. UPPCS (Mains) 2007**
 In India, between 2001 to 2005, growth rate of which sector has consistently increased?
 A. Agriculture
 B. Industry
@@ -1013,13 +985,12 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Services growth consistency card for that window.
+**Logic:** Services growth consistency card for that window — Services
 
-**Ans: C.** Services.
-
+**Ans: C.** Services
 </details>
 
-**Q20. U.P.P.C.S. (Mains) 2006**
+**Q20. UPPCS (Mains) 2006**
 As the economy develops, the share of the tertiary sector in the GDP:
 A. Decreases
 B. Decreases then increases
@@ -1029,10 +1000,9 @@ D. Remains constant
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Development → rising services share.
+**Logic:** Development → rising services share — Increases
 
-**Ans: C.** Increases.
-
+**Ans: C.** Increases
 </details>
 
 **Q21. Chhattisgarh P.C.S. (Pre) 2014**
@@ -1046,13 +1016,13 @@ E. Fifth
 <details>
 <summary>Show answer</summary>
 
-**Logic:** CAGR ~9% India vs ~10.9% China for 2001–12.
+**Logic:** Second (after China in Survey 2013–14 teaching).
 
-**Ans: B.** Second (after China in Survey 2013–14 teaching).
+**Ans: B.** CAGR ~9% India vs ~10.9% China for 2001–12.
 
 </details>
 
-**Q22. U.P.P.C.S. (Mains) 2010**
+**Q22. UPPCS (Mains) 2010**
 During 2006–2010, which service sector registered fastest growth in India?
 A. Banking and Insurance
 B. Construction
@@ -1062,13 +1032,13 @@ D. Communication
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Construction is industry — not a services sub-sector in this stem.
+**Logic:** Communication.
 
-**Ans: D.** Communication.
+**Ans: D.** Construction is industry — not a services sub-sector in this stem.
 
 </details>
 
-**Q23. U.P.P.C.S. (Pre) 2008**
+**Q23. UPPCS (Pre) 2008**
 Among the services sector, which had the highest share in India’s GDP in 2006?
 A. Trade, Hotels, Transport and Communication
 B. Finance, Insurance, Real Estate and Business Services
@@ -1078,16 +1048,15 @@ D. Construction of buildings
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Later years often flip to finance–real estate as largest — year matters. Construction ≠ services.
+**Logic:** Construction ≠ services.
 
-**Ans: A.** Trade, Hotels, Transport and Communication (2006 key).
+**Ans: A.** Later years often flip to finance–real estate as largest — year matters.
 
 </details>
 
-
 ### Ghatnachakra Purvalokan — TRAI, posts and quality marks
 
-**Q24. U.P. R.O./A.R.O. (Pre) 2017**
+**Q24. UP RO/ARO (Pre) 2017**
 
 ‘TRAI’ is a regulatory body associated with which of the following sectors?
 
@@ -1099,10 +1068,9 @@ D. Telecom
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** TRAI = Telecom Regulatory Authority of India — Telecom
 
-**Logic:** TRAI = Telecom Regulatory Authority of India.
-
+**Ans: D.** Telecom
 </details>
 
 **Q25. Jharkhand P.C.S. (Pre) 2023**
@@ -1117,10 +1085,9 @@ D. All of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** HQ is New Delhi — IV fails; I–III correct — Only I, II and III
 
-**Logic:** HQ is New Delhi — IV fails; I–III correct.
-
+**Ans: B.** Only I, II and III
 </details>
 
 **Q26. I.A.S. (Pre) 2005**
@@ -1135,10 +1102,9 @@ D. 3 only
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Post offices >1.5 lakh true; BSNL ≈2000 not 1997; TRAI =1997 not 2000 — 1 only
 
-**Logic:** Post offices >1.5 lakh true; BSNL ≈2000 not 1997; TRAI =1997 not 2000.
-
+**Ans: C.** 1 only
 </details>
 
 **Q27. M.P. P.C.S. (Pre) 2022**
@@ -1153,13 +1119,12 @@ D. HALLMARK
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** FPO mark is mandatory for processed fruit products under FSS lineage — FPO
 
-**Logic:** FPO mark is mandatory for processed fruit products under FSS lineage.
-
+**Ans: A.** FPO
 </details>
 
-**Q28. U.P. Lower Sub. (Pre) 2013**
+**Q28. UP Lower Sub (Pre) 2013**
 
 ‘AGMARK’ is related with:
 
@@ -1171,13 +1136,12 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** AGMARK is an agricultural produce quality / grade certification mark — Quality
 
-**Logic:** AGMARK is an agricultural produce quality / grade certification mark.
-
+**Ans: B.** Quality
 </details>
 
-**Q29. U.P. R.O./A.R.O. (Pre) 2023**
+**Q29. UP RO/ARO (Pre) 2023**
 
 With reference to ‘AGMARK’, which of the following statement/s is/are correct? 1. ‘AGMARK’ is the sign of quality of agricultural products. 2. Certificate of ‘AGMARK’ is issued by Food Corporation of India.
 
@@ -1189,10 +1153,9 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** AGMARK = agri quality mark via DMI — not FCI — Only 1
 
-**Logic:** AGMARK = agri quality mark via DMI — not FCI.
-
+**Ans: D.** Only 1
 </details>
 
 **Q30. I.A.S. (Pre) 2017**
@@ -1207,13 +1170,12 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** BIS mark mandatory for tyres/tubes; AGMARK is Indian DMI — not FAO — 1 only
 
-**Logic:** BIS mark mandatory for tyres/tubes; AGMARK is Indian DMI — not FAO.
-
+**Ans: A.** 1 only
 </details>
 
-**Q31. U.P. R.O./A.R.O. (Pre) 2021**
+**Q31. UP RO/ARO (Pre) 2021**
 
 ‘Geographical Indication Tag’ for black pottery is associated with which of the following place in Uttar Pradesh?
 
@@ -1225,10 +1187,9 @@ D. Kasganj
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Nizamabad (Azamgarh) black clay pottery has GI tag — Nizamabad
 
-**Logic:** Nizamabad (Azamgarh) black clay pottery has GI tag.
-
+**Ans: C.** Nizamabad
 </details>
 
 **Q32. I.A.S. (Pre) 1998**
@@ -1243,20 +1204,18 @@ D. economically viable
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Eco mark / ECOMARC labels environment-friendly products — environment friendly
 
-**Logic:** Eco mark / ECOMARC labels environment-friendly products.
-
+**Ans: C.** environment friendly
 </details>
 
 ---
 
 ## UKPCS
 
-
 *(Sparse direct hits — regulator and services stems often sit inside banking / industry papers. Core UKPCS neighbours: appreciation / FEMA / FDI services already banked in Topics 3, 7, 9.)*
 
-**Q1. Practice-banked UKPCS neighbour — Services FDI**
+**Q1. Practice-banked UKPCS neighbour**
 
 Which sector in India attracts the highest FDI equity flow? (classic teaching)
 
@@ -1268,9 +1227,9 @@ D. Chemicals other than fertilisers
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Services lead the classic cumulative FDI equity-flow ranking (full stem in Topic 7).
+**Logic:** Service sector.
 
-**Ans: A.** Service sector.
+**Ans: A.** Services lead the classic cumulative FDI equity-flow ranking (full stem in Topic 7).
 
 </details>
 
@@ -1288,18 +1247,18 @@ D. 8
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Eight PIN zones for States/UTs (ninth for Army/FPO in fuller teaching).
+**Logic:** Eight PIN zones for States/UTs (ninth for Army/FPO in fuller teaching) — 8
 
-**Ans: D.**
-
+**Ans: D.** 8
 </details>
 
 ---
 
 ## Practice Zone
 
+**Q1.**
 
-**Q1.** Tertiary sector mainly refers to
+The tertiary sector mainly includes
 
 A. Only mining and quarrying
 B. Services such as trade, transport, finance, IT and public administration
@@ -1309,13 +1268,14 @@ D. Only steel melting
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Services map.
+**Logic:** Primary–secondary–tertiary card — Services such as trade, transport, finance, IT and public administration
 
-**Logic:** Primary–secondary–tertiary card.
-
+**Ans: B.** Services such as trade, transport, finance, IT and public administration
 </details>
 
-**Q2.** India’s GDP share teaching typically shows
+**Q2.**
+
+India’s GDP composition in recent decades is characterised by
 
 A. Services as the largest sectoral share in recent decades
 B. Only agriculture forever above 80% of GDP
@@ -1325,13 +1285,14 @@ D. Only CRR as a GDP component
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Structural change toward services.
+**Logic:** Topic 1 neighbour — Services as the largest sectoral share in recent decades
 
-**Logic:** Topic 1 neighbour.
-
+**Ans: A.** Services as the largest sectoral share in recent decades
 </details>
 
-**Q3.** With reference to CSR, which of the following statements is/are correct?
+**Q3.**
+
+With reference to CSR, which of the following statements is/are correct?
 
 1. Mandatory CSR is under the Companies Act, 2013.
 2. Eligible companies must spend at least 2% of the average net profits of the three preceding financial years.
@@ -1347,13 +1308,14 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Logic:** Statement 3 is the 2019 PYQ trap — 1 and 2
 
-**Logic:** Statement 3 is the 2019 PYQ trap.
-
+**Ans: B.** 1 and 2
 </details>
 
-**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+**Q4.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 Assertion (A): Charging above the printed MRP on a packaged good is unlawful.
 
@@ -1369,13 +1331,14 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Ceiling rule explains the offence of overcharging.
+**A/R logic:** Ceiling rule explains the offence of overcharging.
 
-**A/R logic:** 2025 MRP neighbour.
-
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)
 </details>
 
-**Q5.** ECOMARC is best matched with
+**Q5.**
+
+ECOMARC is best matched with
 
 A. Only imported luxury cars
 B. Environment-friendly products
@@ -1385,13 +1348,14 @@ D. Only FEMA notifications
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Eco-label.
+**Logic:** Standard key: Environment-friendly products.
 
-**Logic:** UPPCS 2021.
-
+**Ans: B.** Environment-friendly products
 </details>
 
-**Q6.** Match List-I with List-II.
+**Q6.**
+
+Match List-I with List-II.
 
 | List-I | List-II |
 |---|---|
@@ -1412,13 +1376,14 @@ D. 3 1 4 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Insurance; securities; pensions; competition.
+**Logic:** Regulator match desk — 2 1 4 3
 
-**Logic:** Regulator match desk.
-
+**Ans: A.** 2 1 4 3
 </details>
 
-**Q7.** IFSCA primarily regulates
+**Q7.**
+
+IFSCA mainly regulates
 
 A. Only village panchayat taxes
 B. Financial services in International Financial Services Centres such as GIFT IFSC
@@ -1428,13 +1393,14 @@ D. Only forest cover
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** IFSC unified regulator.
+**Logic:** Standard key: Financial services in International Financial Services Centres such as GIFT IFSC.
 
-**Logic:** GIFT City card.
-
+**Ans: B.** Financial services in International Financial Services Centres such as GIFT IFSC
 </details>
 
-**Q8.** FSSAI is associated with
+**Q8.**
+
+FSSAI is associated with
 
 A. Only stock-exchange listing
 B. Food safety and standards
@@ -1444,13 +1410,14 @@ D. Only BIMSTEC summits
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Food Safety Act lane.
+**Logic:** Standard key: Food safety and standards.
 
-**Logic:** Standards desk.
-
+**Ans: B.** Food safety and standards
 </details>
 
-**Q9.** TRAI regulates mainly
+**Q9.**
+
+TRAI’s mandate centres on
 
 A. Only dairy cooperatives
 B. Telecom and related tariff / interconnection matters
@@ -1460,13 +1427,14 @@ D. Only HDI pillars
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Telecom regulator.
+**Logic:** Standard key: Telecom and related tariff / interconnection matters.
 
-**Logic:** TRAI ≠ CCI.
-
+**Ans: B.** Telecom and related tariff / interconnection matters
 </details>
 
-**Q10.** Ministry of Cooperation at the Centre was created in
+**Q10.**
+
+Ministry of Cooperation at the Centre was created in
 
 A. 1950
 B. 1991
@@ -1476,13 +1444,14 @@ D. 1944
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** 2021.
+**Logic:** Dedicated cooperative desk — 2021
 
-**Logic:** Dedicated cooperative desk.
-
+**Ans: C.** 2021
 </details>
 
-**Q11.** Article 43B in the Directive Principles concerns
+**Q11.**
+
+Article 43B in the Directive Principles relates to
 
 A. Only Uniform Civil Code
 B. Promotion of cooperative societies
@@ -1492,13 +1461,14 @@ D. Only Finance Commission
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Cooperatives DPSP.
+**Logic:** 97th Amendment neighbour — Promotion of cooperative societies
 
-**Logic:** 97th Amendment neighbour.
-
+**Ans: B.** Promotion of cooperative societies
 </details>
 
-**Q12.** IRDAI headquarters teaching city is
+**Q12.**
+
+IRDAI headquarters teaching city is
 
 A. Mumbai only forever
 B. Hyderabad
@@ -1508,13 +1478,14 @@ D. Kathmandu
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Hyderabad.
+**Logic:** HQ trap vs Mumbai finance cluster — Hyderabad
 
-**Logic:** HQ trap vs Mumbai finance cluster.
-
+**Ans: B.** Hyderabad
 </details>
 
-**Q13.** Competition Commission of India draws power mainly from
+**Q13.**
+
+The Competition Commission of India draws power mainly from
 
 A. Only the RBI Act, 1934
 B. The Competition Act, 2002
@@ -1524,13 +1495,14 @@ D. Only the IRDA Act, 1999
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Competition Act 2002.
+**Logic:** Standard key: The Competition Act, 2002.
 
-**Logic:** CCI card.
-
+**Ans: B.** The Competition Act, 2002
 </details>
 
-**Q14.** Which pairing is correct?
+**Q14.**
+
+Which pairing is correct?
 
 A. SEBI — insurance alone
 B. PFRDA — NPS / pension regulation
@@ -1540,13 +1512,14 @@ D. BIS — only foreign exchange
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** PFRDA–NPS.
+**Logic:** Regulator match — PFRDA — NPS / pension regulation
 
-**Logic:** Regulator match.
-
+**Ans: B.** PFRDA — NPS / pension regulation
 </details>
 
-**Q15.** IT–ITeS exports matter for India mainly because they
+**Q15.**
+
+IT / BPM services exports help India chiefly to
 
 A. Abolish agriculture
 B. Earn foreign exchange and high-skill services income
@@ -1556,13 +1529,14 @@ D. Compile only WPI
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Tradable services.
+**Logic:** Services + BoP neighbour — Earn foreign exchange and high-skill services income
 
-**Logic:** Services + BoP neighbour.
-
+**Ans: B.** Earn foreign exchange and high-skill services income
 </details>
 
-**Q16.** With reference to cooperatives, which of the following statements is/are correct?
+**Q16.**
+
+With reference to cooperatives, which of the following statements is/are correct?
 
 1. Cooperatives are organised around member ownership and mutual benefit.
 2. Dairy cooperatives are linked to India’s White Revolution teaching.
@@ -1578,13 +1552,14 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Logic:** Statement 3 confuses forms — 1 and 2
 
-**Logic:** Statement 3 confuses forms.
-
+**Ans: B.** 1 and 2
 </details>
 
-**Q17.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+**Q17.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 Assertion (A): SEBI and RBI are different regulators.
 
@@ -1600,13 +1575,14 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Mandate difference explains why they are distinct.
+**A/R logic:** Mandate difference explains why they are distinct.
 
-**A/R logic:** List-desk neighbour.
-
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)
 </details>
 
-**Q18.** BIS is best known for
+**Q18.**
+
+BIS is best known for
 
 A. Only IMF quotas
 B. National standards and product certification marks
@@ -1616,13 +1592,14 @@ D. Only Alagh poverty line
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Standards body.
+**Logic:** ISI / standards card — National standards and product certification marks
 
-**Logic:** ISI / standards card.
-
+**Ans: B.** National standards and product certification marks
 </details>
 
-**Q19.** Match List-I with List-II.
+**Q19.**
+
+Match List-I with List-II.
 
 | List-I | List-II |
 |---|---|
@@ -1643,13 +1620,14 @@ D. 4 1 2 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Eco-mark; FSSAI; IFSCA; AGMARK.
+**Logic:** Marks vs regulators — 2 1 3 4
 
-**Logic:** Marks vs regulators.
-
+**Ans: A.** 2 1 3 4
 </details>
 
-**Q20.** CSR Schedule VII activities typically include themes such as
+**Q20.**
+
+Corporate Social Responsibility (CSR) spending is directed toward
 
 A. Only setting the repo rate
 B. Education, health, environment and related notified social purposes
@@ -1659,13 +1637,14 @@ D. Only declaring MSP
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Schedule VII social spend heads.
+**Logic:** CSR purpose card — Education, health, environment and related notified social purposes
 
-**Logic:** CSR purpose card.
-
+**Ans: B.** Education, health, environment and related notified social purposes
 </details>
 
-**Q21.** E-commerce consumer issues are addressed mainly through
+**Q21.**
+
+E-commerce consumer issues are addressed mainly through
 
 A. Only Bretton Woods twins
 B. Consumer protection law plus sector regulators (competition, IT, payments)
@@ -1675,13 +1654,14 @@ D. Only forest rights title
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Multi-regulator consumer map.
+**Logic:** Digital services card — Consumer protection law plus sector regulators (competition, IT, payments)
 
-**Logic:** Digital services card.
-
+**Ans: B.** Consumer protection law plus sector regulators (competition, IT, payments)
 </details>
 
-**Q22.** Which statement about MRP is correct?
+**Q22.**
+
+Which statement about MRP is correct?
 
 A. Seller may freely charge any amount above MRP
 B. MRP is a ceiling; sale below MRP is allowed
@@ -1691,13 +1671,14 @@ D. MRP is identical to MSP for all crops
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Ceiling rule.
+**Logic:** 2025 MRP neighbour — MRP is a ceiling; sale below MRP is allowed
 
-**Logic:** 2025 MRP neighbour.
-
+**Ans: B.** MRP is a ceiling; sale below MRP is allowed
 </details>
 
-**Q23.** Public company vs private company teaching turns on
+**Q23.**
+
+A key distinction of a public company versus a private company is the
 
 A. Only climate zones
 B. Ability to invite public subscription / share-transfer restrictions
@@ -1707,13 +1688,14 @@ D. Only calorie poverty lines
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Company-form differences.
+**Logic:** Standard key: Ability to invite public subscription / share-transfer restrictions.
 
-**Logic:** Companies desk.
-
+**Ans: B.** Ability to invite public subscription / share-transfer restrictions
 </details>
 
-**Q24.** Tourism as a service sector activity mainly sells
+**Q24.**
+
+Tourism as a services activity mainly sells
 
 A. Only steel billets
 B. Experiences, hospitality and related travel services
@@ -1723,13 +1705,14 @@ D. Only CRR balances
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Hospitality / travel services.
+**Logic:** Standard key: Experiences, hospitality and related travel services.
 
-**Logic:** Services map.
-
+**Ans: B.** Experiences, hospitality and related travel services
 </details>
 
-**Q25.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+**Q25.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 Assertion (A): IRDAI protects policyholder interests in the insurance market.
 
@@ -1745,13 +1728,14 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Regulatory mandate explains the protection role.
+**A/R logic:** Regulatory mandate explains the protection role.
 
-**A/R logic:** IRDAI card.
-
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)
 </details>
 
-**Q26.** Which of the following is a statutory regulator match?
+**Q26.**
+
+Which of the following is a statutory regulator match?
 
 A. CCI — Competition Act, 2002
 B. FSSAI — SEBI Act, 1992
@@ -1761,13 +1745,14 @@ D. BIS — IRDA Act, 1999
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** CCI–Competition Act.
+**Logic:** Statute match drill — CCI — Competition Act, 2002
 
-**Logic:** Statute match drill.
-
+**Ans: A.** CCI — Competition Act, 2002
 </details>
 
-**Q27.** Services can dominate GDP yet agriculture can still dominate employment because
+**Q27.**
+
+Employment and GDP shares differ across sectors mainly because
 
 A. Productivity and prices differ across sectors
 B. GDP ignores all production
@@ -1777,13 +1762,14 @@ D. RBI bans services jobs
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Structural dualism teaching.
+**Logic:** Topic 1 / 8 neighbour — Productivity and prices differ across sectors
 
-**Logic:** Topic 1 / 8 neighbour.
-
+**Ans: A.** Productivity and prices differ across sectors
 </details>
 
-**Q28.** Corporate governance primarily aims to
+**Q28.**
+
+Corporate governance norms are mainly meant to
 
 A. Replace all cooperatives with one company forever
 B. Align management with accountability, disclosure and stakeholder protection
@@ -1793,16 +1779,14 @@ D. Compile only CPI
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Governance purpose.
+**Logic:** Companies desk close — Align management with accountability, disclosure and stakeholder protection
 
-**Logic:** Companies desk close.
-
+**Ans: B.** Align management with accountability, disclosure and stakeholder protection
 </details>
 
 ---
 
 ## Common Traps
-
 
 * Tertiary = services; **forestry / fishing / mining ≠ tertiary**; **construction ≠ services** in GVA.
 * **Storage of agri produce** and **marketing** = tertiary; **weaving** = secondary; **dairy farm** = primary.

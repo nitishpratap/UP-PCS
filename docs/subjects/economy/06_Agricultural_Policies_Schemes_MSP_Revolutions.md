@@ -308,7 +308,6 @@ C₂          = A₂ + FL + owned-land rent + interest on fixed capital
 
 ---
 
-
 ## Teaching expansion — additional theory (beyond Consolidated spine)
 
 These points sit in teaching theory (not the Consolidated spine).
@@ -336,9 +335,9 @@ D. Indian Council of Agricultural Research (ICAR)
 <details>
 <summary>Show answer</summary>
 
-**Logic:** CACP is the advisory recommender; CCEA gives final approval. FCI procures; ICAR does research; NITI Aayog is not the MSP recommender.
+**Logic:** FCI procures; ICAR does research; NITI Aayog is not the MSP recommender.
 
-**Ans: A.** CACP recommends MSP; CCEA chaired by the PM gives final approval.
+**Ans: A.** CACP is the advisory recommender; CCEA gives final approval.
 
 </details>
 
@@ -353,9 +352,9 @@ D. 2009
 <details>
 <summary>Show answer</summary>
 
-**Logic:** NFSA enactment date is 10 September 2013 (deemed effective 5 July 2013). Do not confuse with TPDS 1997 or AAY 2000.
+**Logic:** Do not confuse with TPDS 1997 or AAY 2000.
 
-**Ans: A.** NFSA was enacted in 2013.
+**Ans: A.** NFSA enactment date is 10 September 2013 (deemed effective 5 July 2013).
 
 </details>
 
@@ -370,9 +369,9 @@ D. Dr. Hiralal Chaudhuri
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Kurien = White / Operation Flood. Swaminathan = Green (India). Borlaug = Green (world). Chaudhuri = Blue/fisheries pioneer.
+**Logic:** Swaminathan = Green (India).
 
-**Ans: A.** Dr. Verghese Kurien led Operation Flood and the Amul/NDDB dairy cooperative model.
+**Ans: A.** Kurien = White / Operation Flood.
 
 </details>
 
@@ -382,7 +381,9 @@ D. Dr. Hiralal Chaudhuri
 
 > Extra Drill rebuilt from existing stems + teaching (not a claim of complete Ghatnachakra book integration). Includes RO/ARO-style, multi-source coaching, and untagged high-yield stems. **Logic:** then **Ans:** inside details.
 
-**Q1.** For how many mandated crops does CACP recommend Minimum Support Price (excluding sugarcane)?
+**Q1.**
+
+For how many mandated crops does CACP recommend Minimum Support Price (excluding sugarcane)?
 
 A. 22 crops
 B. 24 crops
@@ -392,13 +393,15 @@ D. 26 crops
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Count is fixed as 7+5+7+3 = 22; sugarcane is FRP, not an MSP crop.
+**Logic:** CACP recommends MSP for 22 mandated crops plus FRP for sugarcane.
 
-**Ans: A.** CACP recommends MSP for 22 mandated crops plus FRP for sugarcane.
+**Ans: A.** Count is fixed as 7+5+7+3 = 22; sugarcane is FRP, not an MSP crop.
 
 </details>
 
-**Q2.** Match the Agricultural Revolution with its associated commodity:
+**Q2.**
+
+Match the Agricultural Revolution with its associated commodity:
 
 | Revolution | Commodity |
 |---|---|
@@ -417,13 +420,15 @@ D. A-4, B-2, C-3, D-1
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Yellow→oilseeds; Blue→fish; Golden→fruits/honey; Grey→fertilizers. Swap traps usually mix Golden with Yellow.
+**Logic:** Swap traps usually mix Golden with Yellow.
 
-**Ans: A.** A-1, B-2, C-3, D-4.
+**Ans: A.** Yellow→oilseeds; Blue→fish; Golden→fruits/honey; Grey→fertilizers.
 
 </details>
 
-**Q3.** Under PMFBY, what is the maximum farmer premium for annual commercial and horticultural crops?
+**Q3.**
+
+Under PMFBY, what is the maximum farmer premium for annual commercial and horticultural crops?
 
 A. 5.0% of Sum Insured
 B. 2.0% of Sum Insured
@@ -433,13 +438,15 @@ D. 10.0% of Sum Insured
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Caps are 2% Kharif, 1.5% Rabi, 5% commercial/horticultural — do not park 5% on Kharif.
+**Logic:** Commercial/horticultural farmer premium is 5.0% of Sum Insured.
 
-**Ans: A.** Commercial/horticultural farmer premium is 5.0% of Sum Insured.
+**Ans: A.** Caps are 2% Kharif, 1.5% Rabi, 5% commercial/horticultural — do not park 5% on Kharif.
 
 </details>
 
-**Q4.** Annual financial assistance under PM-KISAN is:
+**Q4.**
+
+Annual financial assistance under PM-KISAN is:
 
 A. ₹6,000 in three equal instalments of ₹2,000
 B. ₹10,000 in two equal instalments of ₹5,000
@@ -449,13 +456,15 @@ D. ₹12,000 in monthly instalments of ₹1,000
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Fixed ₹6,000/year via three DBT instalments of ₹2,000 every four months.
+**Logic:** ₹6,000 in three instalments of ₹2,000.
 
-**Ans: A.** ₹6,000 in three instalments of ₹2,000.
+**Ans: A.** Fixed ₹6,000/year via three DBT instalments of ₹2,000 every four months.
 
 </details>
 
-**Q5.** Lead implementing agency for the e-NAM portal is:
+**Q5.**
+
+Lead implementing agency for the e-NAM portal is:
 
 A. Small Farmers' Agribusiness Consortium (SFAC)
 B. NAFED
@@ -465,13 +474,15 @@ D. APEDA
 <details>
 <summary>Show answer</summary>
 
-**Logic:** SFAC runs e-NAM for the Agriculture Ministry; FCI is foodgrain logistics; APEDA is export promotion.
+**Logic:** SFAC is the lead agency for e-NAM.
 
-**Ans: A.** SFAC is the lead agency for e-NAM.
+**Ans: A.** SFAC runs e-NAM for the Agriculture Ministry; FCI is foodgrain logistics; APEDA is export promotion.
 
 </details>
 
-**Q6.** Under NFSA 2013, monthly foodgrain entitlement for Priority Households is:
+**Q6.**
+
+Under NFSA 2013, monthly foodgrain entitlement for Priority Households is:
 
 A. 5 kg per person per month
 B. 35 kg per person per month
@@ -481,13 +492,15 @@ D. 25 kg per family per month
 <details>
 <summary>Show answer</summary>
 
-**Logic:** PHH = 5 kg/person; AAY = 35 kg/household — never swap person vs household units.
+**Logic:** Priority Households get 5 kg per person per month.
 
-**Ans: A.** Priority Households get 5 kg per person per month.
+**Ans: A.** PHH = 5 kg/person; AAY = 35 kg/household — never swap person vs household units.
 
 </details>
 
-**Q7.** Operation Greens was originally launched to stabilize supply and prices of:
+**Q7.**
+
+Operation Greens was originally launched to stabilize supply and prices of:
 
 A. TOP crops (Tomato, Onion, Potato)
 B. Green leafy vegetables only
@@ -497,13 +510,15 @@ D. Organic dairy products
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Budget 2018–19 TOP focus on the lines of Operation Flood; later expansion does not change the original TOP launch fact.
+**Logic:** Originally Tomato, Onion, and Potato (TOP).
 
-**Ans: A.** Originally Tomato, Onion, and Potato (TOP).
+**Ans: A.** Budget 2018–19 TOP focus on the lines of Operation Flood; later expansion does not change the original TOP launch fact.
 
 </details>
 
-**Q8.** Food Corporation of India (FCI) was established in:
+**Q8.**
+
+Food Corporation of India (FCI) was established in:
 
 A. 1965
 B. 1950
@@ -513,13 +528,15 @@ D. 1982
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Act 1964; operations from 14 January 1965. Do not confuse with CACP (also 1965) or NABARD (1982).
+**Logic:** Do not confuse with CACP (also 1965) or NABARD (1982).
 
-**Ans: A.** FCI commenced in 1965.
+**Ans: A.** Act 1964; operations from 14 January 1965.
 
 </details>
 
-**Q9.** Pricing of sugarcane in India is governed by:
+**Q9.**
+
+Pricing of sugarcane in India is governed by:
 
 A. Fair and Remunerative Price (FRP) under Sugarcane (Control) Order, 1966
 B. Minimum Support Price (MSP) under the Essential Commodities Act alone
@@ -529,13 +546,15 @@ D. NAFED Floor Price
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Sugarcane is FRP (statutory), not one of the 22 MSP crops.
+**Logic:** FRP under the Sugarcane (Control) Order, 1966.
 
-**Ans: A.** FRP under the Sugarcane (Control) Order, 1966.
+**Ans: A.** Sugarcane is FRP (statutory), not one of the 22 MSP crops.
 
 </details>
 
-**Q10.** Which is NOT a component of FCI’s economic cost of foodgrains?
+**Q10.**
+
+Which is NOT a component of FCI’s economic cost of foodgrains?
 
 A. Corporate Income Tax paid by private traders
 B. Minimum Support Price (acquisition cost)
@@ -545,13 +564,15 @@ D. Distribution Cost
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Economic cost = acquisition + incidentals + distribution. Private traders’ income tax is unrelated.
+**Logic:** Private traders’ income tax is unrelated.
 
-**Ans: A.** Corporate Income Tax of private traders is not part of FCI economic cost.
+**Ans: A.** Economic cost = acquisition + incidentals + distribution.
 
 </details>
 
-**Q11.** Silver Fibre Revolution is associated with:
+**Q11.**
+
+Silver Fibre Revolution is associated with:
 
 A. Cotton
 B. Jute
@@ -561,13 +582,12 @@ D. Wool
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Silver Fibre = cotton; Golden Fibre = jute; Silver (alone) = eggs/poultry.
+**Logic:** Silver Fibre = cotton; Golden Fibre = jute; Silver (alone) = eggs/poultry — Cotton
 
-**Ans: A.** Cotton.
-
+**Ans: A.** Cotton
 </details>
 
-**Q12.** Pink Revolution in India refers to:
+**Q12.**
 
 A. Onion, Prawn, and Pharmaceutical production
 B. Rose flower floriculture only
@@ -577,13 +597,15 @@ D. Cotton processing
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Pink = onion + pharma + prawn/meat exports (Durgesh Patel), not floriculture.
+**Logic:** Onion, prawn, and pharmaceuticals.
 
-**Ans: A.** Onion, prawn, and pharmaceuticals.
+**Ans: A.** Pink = onion + pharma + prawn/meat exports (Durgesh Patel), not floriculture.
 
 </details>
 
-**Q13.** Primary function of the Price Stabilization Fund (PSF) is:
+**Q13.**
+
+Primary function of the Price Stabilization Fund (PSF) is:
 
 A. Regulating extreme price volatility of essential agri-horticultural commodities through strategic buffer interventions
 B. Subsidizing tractor exports
@@ -593,13 +615,15 @@ D. Providing pensions to retired agricultural scientists
 <details>
 <summary>Show answer</summary>
 
-**Logic:** PSF (Department of Consumer Affairs) finances onion/potato/pulses buffers to cool spikes.
+**Logic:** Market buffer interventions for volatile essential agri-horticultural commodities.
 
-**Ans: A.** Market buffer interventions for volatile essential agri-horticultural commodities.
+**Ans: A.** PSF (Department of Consumer Affairs) finances onion/potato/pulses buffers to cool spikes.
 
 </details>
 
-**Q14.** Under NFSA, Head of the Household for ration cards is:
+**Q14.**
+
+Under NFSA, Head of the Household for ration cards is:
 
 A. The eldest woman of the household aged 18 years or above
 B. The eldest male earning member
@@ -609,13 +633,15 @@ D. Any registered voter in the family
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Woman-headed ration-card rule is a standard NFSA empowerment fact.
+**Logic:** Eldest woman aged 18 or above.
 
-**Ans: A.** Eldest woman aged 18 or above.
+**Ans: A.** Woman-headed ration-card rule is a standard NFSA empowerment fact.
 
 </details>
 
-**Q15.** Primary driver of the Green Revolution during 1966–1970 was:
+**Q15.**
+
+Primary driver of the Green Revolution during 1966–1970 was:
 
 A. Mexican semi-dwarf Wheat
 B. Basmati Rice alone
@@ -625,13 +651,15 @@ D. Bt Cotton
 <details>
 <summary>Show answer</summary>
 
-**Logic:** First wave = Mexican dwarf wheat (Lerma Rojo / Sonora and Indian derivatives); Bt cotton is much later.
+**Logic:** Mexican semi-dwarf wheat.
 
-**Ans: A.** Mexican semi-dwarf wheat.
+**Ans: A.** First wave = Mexican dwarf wheat (Lerma Rojo / Sonora and Indian derivatives); Bt cotton is much later.
 
 </details>
 
-**Q16.** PM Matsya Sampada Yojana (PMMSY) is a flagship scheme for:
+**Q16.**
+
+PM Matsya Sampada Yojana (PMMSY) is a flagship scheme for:
 
 A. Fisheries and Aquaculture
 B. Honey and Beekeeping
@@ -641,13 +669,15 @@ D. Dairy processing
 <details>
 <summary>Show answer</summary>
 
-**Logic:** PMMSY = Blue Revolution fisheries; honey is Sweet Revolution / Honey Mission.
+**Logic:** Fisheries and aquaculture.
 
-**Ans: A.** Fisheries and aquaculture.
+**Ans: A.** PMMSY = Blue Revolution fisheries; honey is Sweet Revolution / Honey Mission.
 
 </details>
 
-**Q17.** Corpus of the Agriculture Infrastructure Fund (AIF) is:
+**Q17.**
+
+Corpus of the Agriculture Infrastructure Fund (AIF) is:
 
 A. ₹1 Lakh Crore
 B. ₹50,000 Crore
@@ -657,13 +687,15 @@ D. ₹2 Lakh Crore
 <details>
 <summary>Show answer</summary>
 
-**Logic:** AIF = ₹1 lakh crore (2020–2032) with 3% interest subvention — not ₹50,000 Cr or ₹2 lakh Cr.
+**Logic:** ₹1 Lakh Crore.
 
-**Ans: A.** ₹1 Lakh Crore.
+**Ans: A.** AIF = ₹1 lakh crore (2020–2032) with 3% interest subvention — not ₹50,000 Cr or ₹2 lakh Cr.
 
 </details>
 
-**Q18.** First Kisan Rail (August 2020) was flagged off between:
+**Q18.**
+
+First Kisan Rail (August 2020) was flagged off between:
 
 A. Devlali (Maharashtra) to Danapur (Bihar)
 B. Anand (Gujarat) to New Delhi
@@ -673,13 +705,15 @@ D. Nagpur (Maharashtra) to Adarsh Nagar (Delhi)
 <details>
 <summary>Show answer</summary>
 
-**Logic:** First refrigerated Kisan Rail: Devlali (Nashik) → Danapur (Patna), 7 August 2020.
+**Logic:** Devlali to Danapur.
 
-**Ans: A.** Devlali to Danapur.
+**Ans: A.** First refrigerated Kisan Rail: Devlali (Nashik) → Danapur (Patna), 7 August 2020.
 
 </details>
 
-**Q19.** Sweet Revolution is associated with:
+**Q19.**
+
+Sweet Revolution is associated with:
 
 A. Beekeeping and Honey production
 B. Sugarcane yield expansion
@@ -689,13 +723,15 @@ D. Stevia cultivation
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Sweet = honey/apiculture; sugarcane pricing is FRP/SAP — classic swap trap.
+**Logic:** Beekeeping and honey production.
 
-**Ans: A.** Beekeeping and honey production.
+**Ans: A.** Sweet = honey/apiculture; sugarcane pricing is FRP/SAP — classic swap trap.
 
 </details>
 
-**Q20.** Which oilseed is NOT among the 22 mandated MSP crops?
+**Q20.**
+
+Which oilseed is NOT among the 22 mandated MSP crops?
 
 A. Palm Oil
 B. Groundnut
@@ -705,13 +741,12 @@ D. Sunflower Seed
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Palm oil uses Viability Price under NMEO-OP; the seven MSP oilseeds do not include palm.
+**Logic:** Palm oil uses Viability Price under NMEO-OP; the seven MSP oilseeds do not include palm — Palm Oil
 
-**Ans: A.** Palm Oil.
-
+**Ans: A.** Palm Oil
 </details>
 
-**Q21.** Red Revolution in India refers to rapid growth of:
+**Q21.**
 
 A. Tomato and Meat production
 B. Apple and Strawberry farming
@@ -721,13 +756,13 @@ D. Copper ore mining
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Red = meat + tomato (Vishal Tewari); chilli is not the standard Red tag.
+**Logic:** Tomato and meat production.
 
-**Ans: A.** Tomato and meat production.
+**Ans: A.** Red = meat + tomato (Vishal Tewari); chilli is not the standard Red tag.
 
 </details>
 
-**Q22.** Under PM-KUSUM, Component-B supports:
+**Q22.**
 
 A. Installation of individual standalone solar-powered agriculture pumps
 B. Setting up 10,000 MW grid-connected renewable power plants
@@ -737,13 +772,15 @@ D. Free distribution of diesel generator sets
 <details>
 <summary>Show answer</summary>
 
-**Logic:** A = grid plants on barren land; B = standalone pumps; C = grid-pump solarization.
+**Logic:** Standalone solar agriculture pumps.
 
-**Ans: A.** Standalone solar agriculture pumps.
+**Ans: A.** A = grid plants on barren land; B = standalone pumps; C = grid-pump solarization.
 
 </details>
 
-**Q23.** Formation and Promotion of 10,000 FPOs is a:
+**Q23.**
+
+Formation and Promotion of 10,000 FPOs is a:
 
 A. Central Sector Scheme
 B. Centrally Sponsored Scheme (50:50)
@@ -753,13 +790,15 @@ D. World Bank funded project only
 <details>
 <summary>Show answer</summary>
 
-**Logic:** It is 100% Central Sector through SFAC/NABARD/NCDC channels.
+**Logic:** Central Sector Scheme.
 
-**Ans: A.** Central Sector Scheme.
+**Ans: A.** It is 100% Central Sector through SFAC/NABARD/NCDC channels.
 
 </details>
 
-**Q24.** Which organisation declared 2023 as the International Year of Millets following India’s proposal?
+**Q24.**
+
+Which organisation declared 2023 as the International Year of Millets following India’s proposal?
 
 A. United Nations General Assembly (UNGA)
 B. World Trade Organization (WTO)
@@ -769,13 +808,15 @@ D. International Monetary Fund (IMF)
 <details>
 <summary>Show answer</summary>
 
-**Logic:** UNGA resolution; India branded millets as Shree Anna.
+**Logic:** United Nations General Assembly.
 
-**Ans: A.** United Nations General Assembly.
+**Ans: A.** UNGA resolution; India branded millets as Shree Anna.
 
 </details>
 
-**Q25.** Central Issue Price (CIP) means:
+**Q25.**
+
+Central Issue Price (CIP) means:
 
 A. The subsidised price at which the Centre supplies foodgrains from the central pool to States for Fair Price Shop distribution
 B. The price at which FCI purchases grain from farmers at mandis
@@ -785,13 +826,15 @@ D. The export price of Indian basmati rice
 <details>
 <summary>Show answer</summary>
 
-**Logic:** CIP = issue price to States; MSP = purchase from farmers; economic cost sits above CIP.
+**Logic:** Subsidised central issue price to States for FPS distribution.
 
-**Ans: A.** Subsidised central issue price to States for FPS distribution.
+**Ans: A.** CIP = issue price to States; MSP = purchase from farmers; economic cost sits above CIP.
 
 </details>
 
-**Q26.** Under NFSA, pregnant and lactating mothers are entitled to cash maternity benefit of not less than:
+**Q26.**
+
+Under NFSA, pregnant and lactating mothers are entitled to cash maternity benefit of not less than:
 
 A. ₹6,000
 B. ₹10,000
@@ -801,13 +844,14 @@ D. ₹15,000
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Statutory floor is ₹6,000 (PMMVY delivery channel).
+**Logic:** Statutory floor is ₹6,000 (PMMVY delivery channel) — ₹6,000
 
-**Ans: A.** ₹6,000.
-
+**Ans: A.** ₹6,000
 </details>
 
-**Q27.** Which of the following statements about PM-AASHA is/are correct?
+**Q27.**
+
+Which of the following statements about PM-AASHA is/are correct?
 1. PSS is implemented mainly by NAFED/NCCF for pulses and oilseeds.
 2. PDPS pays the MSP–market price gap without always requiring physical procurement.
 3. PM-AASHA has only two components.
@@ -820,13 +864,14 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Three components — PSS, PDPS, PPSS. Statement 3 is false.
+**Logic:** Three components — PSS, PDPS, PPSS.
 
-**Ans: A.** 1 and 2 only.
-
+**Ans: A.** 1 and 2 only
 </details>
 
-**Q28.** Arrange chronologically:
+**Q28.**
+
+Arrange chronologically:
 1. Establishment of FCI
 2. Launch of Operation Flood
 3. Launch of e-NAM
@@ -840,9 +885,9 @@ D. 1 – 2 – 4 – 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** FCI 1965 → Operation Flood 1970 → e-NAM 2016 → PM-KISAN 2018.
+**Logic:** 1 – 2 – 3 – 4.
 
-**Ans: A.** 1 – 2 – 3 – 4.
+**Ans: A.** FCI 1965 → Operation Flood 1970 → e-NAM 2016 → PM-KISAN 2018.
 
 </details>
 
@@ -861,9 +906,9 @@ D. Rainwater harvesting
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Operation Flood (1970) is the dairy cooperative programme — name trap with literal “flood”.
+**Logic:** Dairy production and milk supply.
 
-**Ans: A.** Dairy production and milk supply.
+**Ans: A.** Operation Flood (1970) is the dairy cooperative programme — name trap with literal “flood”.
 
 </details>
 
@@ -878,9 +923,9 @@ D. Equal to the international export parity price
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Swaminathan = C₂ + 50%. Current government benchmark is 1.5 × (A₂ + FL), which is a different stem.
+**Logic:** Current government benchmark is 1.5 × (A₂ + FL), which is a different stem.
 
-**Ans: A.** At least C₂ + 50%.
+**Ans: A.** Swaminathan = C₂ + 50%.
 
 </details>
 
@@ -890,7 +935,9 @@ D. Equal to the international export parity price
 
 > **Answers hidden.** **28 questions** in UPPCS 2024–25 format. ≥60% multi-statement/application. Includes A/R, Match List, chronology/arrange, and NOT-matched. Original stems from Consolidated / Confused Pairs / teaching — not verbatim past papers.
 
-**Q1.** With reference to agricultural revolutions, consider the following statements:
+**Q1.**
+
+With reference to agricultural revolutions, consider the following statements:
 1. The Yellow Revolution is associated with oilseeds.
 2. The Golden Fibre Revolution is associated with cotton.
 3. The Round Revolution is associated with potato.
@@ -903,13 +950,15 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** 1 and 3 are correct.
+**Logic:** Round = potato.
 
-**Logic:** Golden Fibre = jute, not cotton (Silver Fibre). Round = potato.
+**Ans: C.** Golden Fibre = jute, not cotton (Silver Fibre).
 
 </details>
 
-**Q2.** Which of the following pairs is NOT correctly matched?
+**Q2.**
+
+Which of the following pairs is NOT correctly matched?
 
 A. White Revolution — Dr. Verghese Kurien
 B. Green Revolution (India) — Dr. M.S. Swaminathan
@@ -919,13 +968,14 @@ D. Yellow Revolution — Sam Pitroda
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Blue Revolution pioneers are Hiralal Chaudhuri / Arun Krishnan; Borlaug is Green (world).
+**Logic:** Classic pioneer swap between Green and Blue — Blue Revolution — Dr
 
-**Logic:** Classic pioneer swap between Green and Blue.
-
+**Ans: C.** Blue Revolution — Dr.
 </details>
 
-**Q3.** Match List-I with List-II and select the correct answer:
+**Q3.**
+
+Match List-I with List-II and select the correct answer:
 
 **List-I (Revolution)**
 
@@ -955,13 +1005,14 @@ D. A-2, B-4, C-1, D-3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** A-3, B-4, C-1, D-2.
+**Logic:** Pink≠Red; Sweet≠sugarcane; Grey=fertilizers — A-3, B-4, C-1, D-2
 
-**Logic:** Pink≠Red; Sweet≠sugarcane; Grey=fertilizers.
-
+**Ans: A.** A-3, B-4, C-1, D-2
 </details>
 
-**Q4.** With reference to CACP and MSP, which of the following is/are correct?
+**Q4.**
+
+With reference to CACP and MSP, which of the following is/are correct?
 1. CACP recommends MSP for 22 mandated crops.
 2. CACP has the final authority to notify MSP.
 3. Sugarcane receives FRP, not MSP.
@@ -974,13 +1025,14 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** 1 and 3 are correct.
+**Logic:** Final approval is CCEA, not CACP — 1 and 3
 
-**Logic:** Final approval is CCEA, not CACP.
-
+**Ans: B.** 1 and 3
 </details>
 
-**Q5.** Consider the following statements regarding cost concepts:
+**Q5.**
+
+Consider the following statements regarding cost concepts:
 1. Cost A₂ includes unpaid family labour.
 2. Cost C₂ includes imputed rent of owned land.
 3. Current government MSP benchmark is stated as at least 1.5 × (A₂ + FL).
@@ -993,13 +1045,14 @@ D. Only 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** 2 and 3 are correct.
+**Logic:** Family labour enters at A₂+FL, not inside A₂ alone — 2 and 3
 
-**Logic:** Family labour enters at A₂+FL, not inside A₂ alone.
-
+**Ans: C.** 2 and 3
 </details>
 
-**Q6.** Consider the following Assertion and Reason:
+**Q6.**
+
+Consider the following Assertion and Reason:
 
 Assertion (A): The Swaminathan Commission recommended MSP at least 50% above Cost C₂.
 
@@ -1013,13 +1066,14 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true, but (R) is false.
+**A/R logic:** Decide from the stem options; keyed answer is (A) is true, but (R) is false.
 
-**A/R logic:** Recommendation is C₂+50%; current fixing rhetoric is 1.5×(A₂+FL).
-
+**Ans: C.** (A) is true, but (R) is false
 </details>
 
-**Q7.** Arrange the following in chronological order of launch/establishment:
+**Q7.**
+
+Arrange the following in chronological order of launch/establishment:
 1. NDDB establishment
 2. Operation Flood launch
 3. TPDS introduction
@@ -1033,13 +1087,14 @@ D. 1 – 2 – 4 – 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** 1 – 2 – 3 – 4.
+**Logic:** NDDB 1965 → Flood 1970 → TPDS 1997 → NFSA 2013 — 1 – 2 – 3 – 4
 
-**Logic:** NDDB 1965 → Flood 1970 → TPDS 1997 → NFSA 2013.
-
+**Ans: A.** 1 – 2 – 3 – 4
 </details>
 
-**Q8.** With reference to NFSA entitlements, consider the following statements:
+**Q8.**
+
+With reference to NFSA entitlements, consider the following statements:
 1. Priority Households receive 5 kg of foodgrains per person per month.
 2. AAY households receive 35 kg of foodgrains per person per month.
 3. The eldest woman aged 18 years or above is Head of the Household for ration cards.
@@ -1052,13 +1107,14 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** 1 and 3 are correct.
+**Logic:** AAY is 35 kg per household, not per person — 1 and 3
 
-**Logic:** AAY is 35 kg per **household**, not per person.
-
+**Ans: B.** 1 and 3
 </details>
 
-**Q9.** Which of the following is/are correct regarding PMGKAY and ONORC?
+**Q9.**
+
+Which of the following is/are correct regarding PMGKAY and ONORC?
 1. Under PMGKAY integration, NFSA foodgrains have been made free of cost for covered beneficiaries through December 2028.
 2. ONORC enables portability of ration entitlement across Fair Price Shops in the country.
 3. ONORC abolishes the need for any biometric authentication.
@@ -1071,13 +1127,14 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** 1 and 2 are correct.
+**Logic:** ONORC still uses biometric-enabled cards; it does not abolish authentication — 1 and 2
 
-**Logic:** ONORC still uses biometric-enabled cards; it does not abolish authentication.
-
+**Ans: A.** 1 and 2
 </details>
 
-**Q10.** With reference to FCI, which of the following statements is/are correct?
+**Q10.**
+
+With reference to FCI, which of the following statements is/are correct?
 1. FCI was established in 1965 under the Food Corporations Act, 1964.
 2. Economic cost includes MSP acquisition, procurement incidentals, and distribution cost.
 3. OMSS is a scheme for exporting basmati rice only.
@@ -1090,13 +1147,14 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** 1 and 2 are correct.
+**Logic:** OMSS is domestic open-market sale of surplus wheat/rice, not a basmati export scheme — 1 and 2
 
-**Logic:** OMSS is domestic open-market sale of surplus wheat/rice, not a basmati export scheme.
-
+**Ans: A.** 1 and 2
 </details>
 
-**Q11.** Consider the following statements about PM-KISAN:
+**Q11.**
+
+Consider the following statements about PM-KISAN:
 1. It provides ₹6,000 per year in three instalments of ₹2,000.
 2. Since June 2019 it is limited only to farmers holding less than 2 hectares.
 3. Transfer is through Direct Benefit Transfer.
@@ -1109,13 +1167,14 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** 1 and 3 are correct.
+**Logic:** June 2019 expansion covered all landholding farmer families (with exclusions), not only <2 ha — 1 and 3
 
-**Logic:** June 2019 expansion covered all landholding farmer families (with exclusions), not only <2 ha.
-
+**Ans: B.** 1 and 3
 </details>
 
-**Q12.** With reference to PMFBY, which of the following is/are correct?
+**Q12.**
+
+With reference to PMFBY, which of the following is/are correct?
 1. Farmer premium for Kharif food and oilseed crops is 2% of Sum Insured.
 2. Farmer premium for Rabi food and oilseed crops is 5% of Sum Insured.
 3. From Kharif 2020, enrolment is voluntary for all farmers.
@@ -1128,13 +1187,14 @@ D. Only 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** 1 and 3 are correct.
+**Logic:** Rabi food/oilseed premium is 1.5%; 5% is for commercial/horticultural crops — 1 and 3
 
-**Logic:** Rabi food/oilseed premium is 1.5%; 5% is for commercial/horticultural crops.
-
+**Ans: B.** 1 and 3
 </details>
 
-**Q13.** Which of the following pairs is NOT correctly matched?
+**Q13.**
+
+Which of the following pairs is NOT correctly matched?
 
 A. AIF — ₹1 lakh crore financing facility
 B. PMMSY — fisheries and aquaculture
@@ -1144,13 +1204,14 @@ D. e-NAM — implemented solely by FCI
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** e-NAM’s lead agency is SFAC, not FCI.
+**Logic:** FCI is foodgrain logistics; SFAC runs e-NAM — e-NAM — implemented solely by FCI
 
-**Logic:** FCI is foodgrain logistics; SFAC runs e-NAM.
-
+**Ans: D.** e-NAM — implemented solely by FCI
 </details>
 
-**Q14.** Consider the following Assertion and Reason:
+**Q14.**
+
+Consider the following Assertion and Reason:
 
 Assertion (A): Fair and Remunerative Price is the statutory price applicable to sugarcane.
 
@@ -1164,13 +1225,14 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true, but (R) is false.
+**A/R logic:** Decide from the stem options; keyed answer is (A) is true, but (R) is false.
 
-**A/R logic:** Sugarcane is FRP under the 1966 Control Order, outside the 22 MSP crops.
-
+**Ans: C.** (A) is true, but (R) is false
 </details>
 
-**Q15.** With reference to PM-KUSUM components, consider the following statements:
+**Q15.**
+
+With reference to PM-KUSUM components, consider the following statements:
 1. Component A targets grid-connected solar plants on barren/fallow land.
 2. Component B supports standalone solar agriculture pumps.
 3. Component C solarises grid-connected agriculture pumps.
@@ -1183,13 +1245,14 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Logic:** A/B/C map is standard: plants / standalone pumps / grid-pump solarization — 1, 2 and 3
 
-**Logic:** A/B/C map is standard: plants / standalone pumps / grid-pump solarization.
-
+**Ans: D.** 1, 2 and 3
 </details>
 
-**Q16.** Match List-I with List-II:
+**Q16.**
+
+Match List-I with List-II:
 
 **List-I**
 
@@ -1219,13 +1282,14 @@ D. A-3, B-1, C-4, D-2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** A-2, B-1, C-4, D-3.
+**Logic:** TPDS 1997; AAY 2000; NFSA 2013; e-NAM 2016 — A-2, B-1, C-4, D-3
 
-**Logic:** TPDS 1997; AAY 2000; NFSA 2013; e-NAM 2016.
-
+**Ans: A.** A-2, B-1, C-4, D-3
 </details>
 
-**Q17.** Which of the following statements about APMC reforms and e-NAM is/are correct?
+**Q17.**
+
+Which of the following statements about APMC reforms and e-NAM is/are correct?
 1. e-NAM creates a pan-India electronic trading portal networking existing mandis.
 2. e-NAM completely abolishes physical APMC mandis.
 3. The three farm laws of 2020 were repealed in 2021.
@@ -1238,13 +1302,14 @@ D. Only 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** 1 and 3 are correct.
+**Logic:** e-NAM networks mandis; it does not abolish them — 1 and 3
 
-**Logic:** e-NAM networks mandis; it does not abolish them.
-
+**Ans: C.** 1 and 3
 </details>
 
-**Q18.** With reference to Price Stabilization Fund and Market Intervention Scheme, consider the following:
+**Q18.**
+
+With reference to Price Stabilization Fund and Market Intervention Scheme, consider the following:
 1. PSF is maintained by the Department of Consumer Affairs.
 2. MIS is mainly for perishable commodities not covered under regular MSP when prices crash sharply.
 3. PSF is the same as FCI’s quarterly wheat–rice buffer norm mechanism.
@@ -1257,13 +1322,14 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** 1 and 2 are correct.
+**Logic:** PSF is a Consumer Affairs market-intervention fund; FCI buffer norms are a separate foodgrain logistics tool — 1 and 2
 
-**Logic:** PSF is a Consumer Affairs market-intervention fund; FCI buffer norms are a separate foodgrain logistics tool.
-
+**Ans: B.** 1 and 2
 </details>
 
-**Q19.** Consider the following statements regarding millets / Shree Anna:
+**Q19.**
+
+Consider the following statements regarding millets / Shree Anna:
 1. India proposed the International Year of Millets, declared by UNGA for 2023.
 2. Jowar, Bajra and Ragi are among the seven MSP cereals.
 3. Palm oil is one of the seven MSP oilseeds.
@@ -1276,13 +1342,14 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** 1 and 2 are correct.
+**Logic:** Palm oil is outside the 22 MSP crops / seven oilseeds — 1 and 2
 
-**Logic:** Palm oil is outside the 22 MSP crops / seven oilseeds.
-
+**Ans: A.** 1 and 2
 </details>
 
-**Q20.** Which of the following is/are correct about rural credit tools?
+**Q20.**
+
+Which of the following is/are correct about rural credit tools?
 1. KCC was recommended in the late 1990s and provides revolving crop credit.
 2. With interest subvention and prompt repayment, effective farmer interest can fall to about 4%.
 3. Agriculture Priority Sector Lending target is 25% of ANBC.
@@ -1295,13 +1362,14 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** 1 and 2 are correct.
+**Logic:** Agriculture PSL is 18% of ANBC, not 25% — 1 and 2
 
-**Logic:** Agriculture PSL is 18% of ANBC, not 25%.
-
+**Ans: A.** 1 and 2
 </details>
 
-**Q21.** Consider the following Assertion and Reason:
+**Q21.**
+
+Consider the following Assertion and Reason:
 
 Assertion (A): NDDB was established in 1965 at Anand.
 
@@ -1315,13 +1383,14 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true, but (R) is false.
+**A/R logic:** Decide from the stem options; keyed answer is (A) is true, but (R) is false.
 
-**A/R logic:** Flood launched in 1970, five years after NDDB.
-
+**Ans: C.** (A) is true, but (R) is false
 </details>
 
-**Q22.** With reference to FPO promotion, which of the following is/are correct?
+**Q22.**
+
+With reference to FPO promotion, which of the following is/are correct?
 1. The 10,000 FPO scheme is a Central Sector scheme.
 2. Implementing agencies include SFAC, NABARD and NCDC.
 3. FPOs mainly help large corporate farms rather than small holders.
@@ -1334,13 +1403,14 @@ D. Only 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** 1 and 2 are correct.
+**Logic:** FPOs are designed to raise bargaining power of small/marginal holders — 1 and 2
 
-**Logic:** FPOs are designed to raise bargaining power of small/marginal holders.
-
+**Ans: B.** 1 and 2
 </details>
 
-**Q23.** Which of the following pairs is NOT correctly matched?
+**Q23.**
+
+Which of the following pairs is NOT correctly matched?
 
 A. Golden Revolution — Horticulture, honey, fruits
 B. Silver Fibre Revolution — Cotton
@@ -1350,13 +1420,14 @@ D. Rainbow Revolution — Only dairy cooperatives
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Rainbow is holistic agri integration, not dairy alone (White/Flood is dairy).
+**Logic:** Rainbow ≠ White — Rainbow Revolution — Only dairy cooperatives
 
-**Logic:** Rainbow ≠ White.
-
+**Ans: D.** Rainbow Revolution — Only dairy cooperatives
 </details>
 
-**Q24.** Consider the following statements about PM-AASHA:
+**Q24.**
+
+Consider the following statements about PM-AASHA:
 1. PSS involves physical procurement of notified oilseeds/pulses/copra at MSP.
 2. PDPS can compensate the MSP–market gap without physical procurement.
 3. PPSS is a pilot involving private procurement and stockists.
@@ -1369,13 +1440,14 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Logic:** PSS / PDPS / PPSS are the three arms — 1, 2 and 3
 
-**Logic:** PSS / PDPS / PPSS are the three arms.
-
+**Ans: D.** 1, 2 and 3
 </details>
 
-**Q25.** With reference to SAP and FRP, which of the following is/are correct?
+**Q25.**
+
+With reference to SAP and FRP, which of the following is/are correct?
 1. FRP is announced under the Sugarcane (Control) Order, 1966.
 2. SAP is typically lower than FRP in major cane States.
 3. Uttar Pradesh is among India’s largest sugarcane producers.
@@ -1388,13 +1460,14 @@ D. Only 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** 1 and 3 are correct.
+**Logic:** SAP is typically higher than FRP, not lower — 1 and 3
 
-**Logic:** SAP is typically **higher** than FRP, not lower.
-
+**Ans: B.** 1 and 3
 </details>
 
-**Q26.** Arrange the following schemes/events chronologically:
+**Q26.**
+
+Arrange the following schemes/events chronologically:
 1. Launch of PMFBY
 2. Launch of e-NAM
 3. Launch of PM-KISAN
@@ -1408,13 +1481,14 @@ D. 1 – 3 – 2 – 4
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** 2 – 1 – 3 – 4.
+**Logic:** e-NAM April 2016; PMFBY Kharif 2016; PM-KISAN Dec 2018; AIF 2020 — 2 – 1 – 3 – 4
 
-**Logic:** e-NAM April 2016; PMFBY Kharif 2016; PM-KISAN Dec 2018; AIF 2020.
-
+**Ans: B.** 2 – 1 – 3 – 4
 </details>
 
-**Q27.** Consider the following statements:
+**Q27.**
+
+Consider the following statements:
 1. Central Potato Research Institute is located at Kufri, Shimla.
 2. Round Revolution is associated with potato.
 3. Grey Revolution is associated with jute.
@@ -1427,13 +1501,15 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** 1 and 2 are correct.
+**Logic:** CPRI is Kufri, not Agra.
 
-**Logic:** Grey = fertilizers; jute = Golden Fibre. CPRI is Kufri, not Agra.
+**Ans: A.** Grey = fertilizers; jute = Golden Fibre.
 
 </details>
 
-**Q28.** Consider the following Assertion and Reason:
+**Q28.**
+
+Consider the following Assertion and Reason:
 
 Assertion (A): Under NFSA, Priority Households are entitled to 5 kg of foodgrains per person per month.
 
@@ -1447,10 +1523,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Both true, but (R) does not explain (A).
+**A/R logic:** Both true, but (R) does not explain (A).
 
-**A/R logic:** Both entitlements are correct NFSA facts, but AAY’s household quantum does not explain why PHH is per-person 5 kg.
-
+**Ans: A.** Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 </details>
 
 ---

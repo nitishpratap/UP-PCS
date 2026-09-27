@@ -329,11 +329,35 @@ Because the levorotation of fructose exceeds the dextrorotation of glucose, the 
 
 ---
 
+## Bilingual Terminology -- Acids, Bases, Salts and Sucrose
+
+| English Term | Hindi Term | Key Anchor |
+|---|---|---|
+| **Acid** (अम्ल) | अम्ल | Donates H+ (proton); pH < 7; sour taste; turns blue litmus red |
+| **Base** (क्षार) | क्षार | Accepts H+ (proton); pH > 7; bitter taste, soapy feel; turns red litmus blue |
+| **Alkali** (क्षारक) | क्षारक | Water-soluble base; NaOH, KOH, Ca(OH)2 |
+| **pH** (पीएच) | pH / पीएच | Negative log of H+ concentration; 0-14 scale; 7 = neutral |
+| **Neutralisation** (उदासीनीकरण) | उदासीनीकरण | Acid + Base -> Salt + Water; exothermic |
+| **Salt** (लवण) | लवण | Product of acid-base reaction; e.g., NaCl, CaCO3, CuSO4 |
+| **Indicator** (सूचक) | सूचक | Substance that changes colour with pH; litmus, phenolphthalein, methyl orange |
+| **Buffer** (बफर) | बफर | Resists change in pH; e.g., blood pH 7.4 maintained by H2CO3/HCO3- |
+| **Bleaching Powder** (विरंजक चूर्ण) | विरंजक चूर्ण / ब्लीचिंग पाउडर | Ca(OCl)Cl; used for bleaching, disinfecting water |
+| **Plaster of Paris** (प्लास्टर ऑफ पेरिस) | पेरिस प्लास्टर | CaSO4.1/2H2O; sets hard by absorbing water; used in fractures, moulds |
+| **Washing Soda** (धावन सोडा) | धावन सोडा | Na2CO3.10H2O; removes permanent hardness; used in glass, soap making |
+| **Baking Soda** (बेकिंग सोडा) | मीठा सोडा / खाने का सोडा | NaHCO3; releases CO2 on heating; used in baking, antacids |
+| **Caustic Soda** (दाहक सोडा) | दाहक सोडा / कास्टिक सोडा | NaOH; strong base; soap/paper making; drain cleaner |
+| **Vinegar** (सिरका) | सिरका | Acetic acid solution (4-8% CH3COOH); sour taste |
+| **Hydrochloric Acid** (हाइड्रोक्लोरिक अम्ल) | हाइड्रोक्लोरिक अम्ल | HCl; "muriatic acid"; in gastric juice; strong acid |
+| **Sulphuric Acid** (सल्फ्यूरिक अम्ल) | गंधक का तेजाब | H2SO4; "king of chemicals"; strong acid; highly corrosive |
+
+---
+
 ## Complete PYQ Bank — State PCS (65 Questions)
 
 ### UPPCS & UP RO/ARO Prelims/Mains (19 Questions)
 
-#### Q2 [U.P.P.C.S. (Mains) 2014]
+**Q-ST2. UPPCS (Mains) 2014**
+
 Goldsmiths uses aqua regia, which is prepared by
 
 mixing –
@@ -347,30 +371,15 @@ mixing –
 (d) Citric acid and Benzoic acid
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Aqua regia (Latin : royal water) is a highly powerful acidic, corrosive and oxidizing mixture of usually three parts concentrated hydrochloric acid (HCl) and one part concentrated nitric acid (HNO3 ).
 
-**High-Yield Explanation:**
-Aqua regia (Latin : royal water) is a highly powerful
-
-acidic, corrosive and oxidizing mixture of usually three
-
-parts concentrated hydrochloric acid (HCl) and one
-
-part concentrated nitric acid (HNO3
-
-). It is called aqua
-
-regia because it is one of the few acid mixtures that can
-
-dissolve the 'noble' (chemically generally inert) metals like
-
-Gold (Au), Platinum (Pt) and Palladium (Pd).
+**Ans: B.** Nitric acid and Hydrochloric acid
 </details>
 
+**Q-ST3. UP RO/ARO (Pre) (Re. Exam) 2023**
 
-#### Q3 [U.P. R.O./A.R.O. (Pre) (Re. Exam) 2023]
 ‘Aqua Regia’ is a mixture of which of the following?
 
 (a) HCl and HF
@@ -384,16 +393,15 @@ Gold (Au), Platinum (Pt) and Palladium (Pd).
 SO4
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Same teaching key as the linked stem above; answer is Concentrated HCI and Concentrated HNO3.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: B.** Concentrated HCI and Concentrated HNO3
 </details>
 
+**Q-ST6. UPPCS (Pre) 2025**
 
-#### Q6 [U.P. P.C.S. (Pre) 2025]
 With reference to 'acid and bases', which of the
 
 following statements is/are correct?
@@ -411,22 +419,15 @@ Code :
 (c) Both 1 and 2 (d) Only 1
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** On the pH scale (at 25°C), pure water is neutral with pH 7.
 
-**High-Yield Explanation:**
-On the pH scale (at 25°C), pure water is neutral with pH 7.
-
-An acidic solution has pH less than 7, whereas a basic
-
-(alkaline) solution has pH greater than 7.
-
-Therefore, both the given statements are incorrect.
+**Ans: B.** Neither 1 nor 2
 </details>
 
+**Q-ST28. UPPCS (Pre) 2024**
 
-#### Q28 [U.P.P.C.S. (Pre) 2024]
 The formula of baking soda is :
 
 (a) KHCO3 (b) Na2
@@ -440,34 +441,15 @@ CO3
 (d) NaHCO3
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** Standard key matches NaHCO3.
 
-**High-Yield Explanation:**
-Sodium bicarbonate (sodium hydrogen carbonate),
-
-commonly known as baking soda, is a chemical compound
-
-with the formula NaHCO3
-
-. Sodium bicarbonate is a white
-
-solid that is crystalline but often appears as a fine powder.
-
-In cooking, baking soda is primarily used in baking as a
-
-leavening agent. When it reacts with acid or is heated, carbon
-
-dioxide is released, which causes expansion of the batter and
-
-forms the characteristic texture and grain in cakes, quick
-
-breads, soda bread, and other baked and fried foods.
+**Ans: D.** NaHCO3
 </details>
 
+**Q-ST29. UPPCS (Pre) 2025**
 
-#### Q29 [U.P. P.C.S. (Pre) 2025]
 With reference to Baking Soda, which of the following
 
 statements is/are correct?
@@ -485,26 +467,15 @@ Code :
 (c) Both 1 and 2 (d) Only 1
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Sodium hydrogen carbonate (sodium bicarbonate – NaHCO3 ) is a white crystalline solid.
 
-**High-Yield Explanation:**
-Sodium hydrogen carbonate (sodium bicarbonate – NaHCO3
-
-)
-
-is a white crystalline solid. It is commonly known as baking
-
-soda. It is used in baking as a leavening agent; on heating/
-
-when reacted with an acid, it releases carbon dioxide, which
-
-helps cakes/bread rise. Baking soda is also used in soda-acid fire extinguishers.
+**Ans: C.** Both 1 and 2
 </details>
 
+**Q-ST30. UP RO/ARO (Mains) 2016**
 
-#### Q30 [U.P. R.O./A.R.O. (Mains) 2016]
 Match List-I with List-II and select the correct answer
 
 from the code given below the lists.
@@ -534,42 +505,15 @@ A B C D
 (d) 4 3 1 2
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** The correctly matched lists are as follows : List-I List-II Bleaching powder – Calcium hypochlorite/oxychloride [Ca(OCl)2 /CaOCl2 ] Baking soda – Sodium bicarbonate (NaHCO3 ) Washing powder – Sodium carbonate (Na2 CO3 )…
 
-**High-Yield Explanation:**
-The correctly matched lists are as follows :
-
-List-I List-II
-
-Bleaching powder – Calcium hypochlorite/oxychloride [Ca(OCl)2
-
-/CaOCl2
-
-]
-
-Baking soda – Sodium bicarbonate (NaHCO3
-
-)
-
-Washing powder – Sodium carbonate (Na2
-
-CO3
-
-)
-
-Plaster of Paris – Calcium sulphate hemihydrate
-
-(CaSO4
-
-.½H2
-
-O)
+**Ans: C.** Washing powder 3.
 </details>
 
+**Q-ST31. UP RO/ARO (Mains) 2021**
 
-#### Q31 [U.P. R.O./A.R.O. (Mains) 2021]
 Which one of the following pairs is not correctly
 
 matched?
@@ -583,16 +527,15 @@ matched?
 (d) Baking Soda – Sodium bicarbonate
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Same teaching key as the linked stem above; answer is Plaster of Paris – Calcium bicarbonate.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: B.** Plaster of Paris – Calcium bicarbonate
 </details>
 
+**Q-ST35. UP Lower Sub (Pre) 2002**
 
-#### Q35 [U.P. Lower Sub. (Pre) 2002]
 Match the following lists by using codes given below.
 
 Select the correct answer?
@@ -620,22 +563,15 @@ A B C D
 (d) 3 2 1 4
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Washing soda – Sodium Carbonate Caustic soda – Sodium Hydroxide Hypo – Sodium Thiosulphate Neela thotha – Copper Sulphate
 
-**High-Yield Explanation:**
-Washing soda – Sodium Carbonate
-
-Caustic soda – Sodium Hydroxide
-
-Hypo – Sodium Thiosulphate
-
-Neela thotha – Copper Sulphate
+**Ans: B.** Caustic soda 2.
 </details>
 
+**Q-ST44. UPPCS (Mains) 2017**
 
-#### Q44 [U.P. P.C.S. (Mains) 2017]
 Match List-I with List-II and select the correct answer
 
 using the codes given below the Lists :
@@ -665,22 +601,15 @@ A B C D
 (d) 2 1 4 3
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Ethylene is used in artificial fruit ripening, carbon dioxide is used in soft drinks, baking soda is the commercial name of sodium bicarbonate and quartz is used for producing sodium silicate.
 
-**High-Yield Explanation:**
-Ethylene is used in artificial fruit ripening, carbon dioxide
-
-is used in soft drinks, baking soda is the commercial name
-
-of sodium bicarbonate and quartz is used for producing
-
-sodium silicate.
+**Ans: B.** Baking Soda 2.
 </details>
 
+**Q-ST46. Uttarakhand U.D.A./L.D.A. (Pre) 2003**
 
-#### Q46 [Uttarakhand U.D.A./L.D.A. (Pre) 2003]
 Which one of the following salt predominant in the
 
 ocean?
@@ -690,22 +619,15 @@ ocean?
 (c) Potassium Chloride (d) Magnesium Sulphate
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Sodium chloride (NaCl) is known as common salt or table salt.
 
-**High-Yield Explanation:**
-Sodium chloride (NaCl) is known as common salt or table
-
-salt. It is found in ocean water (Salt water) and salt lakes.
-
-It is predominant salt in the ocean water. It is prepared by
-
-evaporating salt water.
+**Ans: B.** Sodium Chloride
 </details>
 
+**Q-ST48. UP RO/ARO (Pre) 2014**
 
-#### Q48 [U.P. R.O./A.R.O. (Pre) 2014]
 Which one of the following salts should not be used as
 
 dining table salt?
@@ -715,26 +637,15 @@ dining table salt?
 (c) Rock salt (d) Processed common salt
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(*)**
+**Logic:** All the four given salts can be used as table salt.
 
-**High-Yield Explanation:**
-All the four given salts can be used as table salt. Sea salt,
-
-rock salt and table salt contain around 100% sodium chloride
-
-which means that too much of any of them will have a
-
-negative effect on your health. However, rock salt and sea
-
-salt are often marketed as being a healthier or tastier option
-
-than table salt and can be considerably more expensive.
+**Ans:** All the four given salts can be used as table salt.
 </details>
 
+**Q-ST52. U.P.U.D.A./L.D.A. (Spl.) (Mains) 2010**
 
-#### Q52 [U.P.U.D.A./L.D.A. (Spl.) (Mains) 2010]
 Which chemical compound is present in Bleaching
 
 Powder?
@@ -744,16 +655,15 @@ Powder?
 (c) Calcium Carbonate (d) Ammonium Chloride
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Same teaching key as the linked stem above; answer is Calcium Oxychloride.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: B.** Calcium Oxychloride
 </details>
 
+**Q-ST55. UPPCS (Mains) 2010**
 
-#### Q55 [U.P.P.C.S. (Mains) 2010]
 Which one of the following substances is used in
 
 photography and also as an antichlor ?
@@ -763,22 +673,15 @@ photography and also as an antichlor ?
 (c) Hydrogen peroxide (d) Calomel
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Sodium thiosulphate (Hypo) is a colourless crystalline substance.
 
-**High-Yield Explanation:**
-Sodium thiosulphate (Hypo) is a colourless crystalline
-
-substance. It is used in photography and also as an antichlor.
-
-An antichlor is a substance used to decompose residual
-
-hypochlorite or chlorine after chlorine-based bleaching.
+**Ans: B.** Sodium thiosulphate
 </details>
 
+**Q-ST57. UP RO/ARO (Pre) 2014**
 
-#### Q57 [U.P.R.O./A.R.O. (Pre) 2014]
 The chemical used as fixer in the photography is –
 
 (a) Sodium thiosulphate (b) Borax
@@ -786,16 +689,15 @@ The chemical used as fixer in the photography is –
 (c) Sodium tetrathionate (d) Ammonium molybdate
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** Same teaching key as the linked stem above; answer is Sodium thiosulphate.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: A.** Sodium thiosulphate
 </details>
 
+**Q-ST58. UPPCS (Pre) 2010**
 
-#### Q58 [U.P.P.C.S. (Pre) 2010]
 The hypo solution used in photography is an aqueous
 
 solution of –
@@ -805,16 +707,15 @@ solution of –
 (c) Sodium sulphate (d) Ammonium per sulphate
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** Same teaching key as the linked stem above; answer is Sodium thiosulphate.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: A.** Sodium thiosulphate
 </details>
 
+**Q-ST59. UPPCS (Pre) 1992**
 
-#### Q59 [U.P.P.C.S. (Pre) 1992]
 The useful element in photography is –
 
 (a) Silver Nitrate (b) Silver Bromide
@@ -822,18 +723,15 @@ The useful element in photography is –
 (c) Sulfuric Acid (d) Citric Acid
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** To develop the photographic plate, the plate is kept in the solution of silver bromide until all the silver bromide is dissolved.
 
-**High-Yield Explanation:**
-To develop the photographic plate, the plate is kept in the
-
-solution of silver bromide until all the silver bromide is dissolved.
+**Ans: B.** Silver Bromide
 </details>
 
+**Q-ST60. UPPCS (Mains) 2015**
 
-#### Q60 [U.P.P.C.S. (Mains) 2015]
 Which one of the following is coated on the photographic
 
 plate?
@@ -843,18 +741,15 @@ plate?
 (c) Silver chloride (d) Silver iodide
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** High resolution photographic plates have a coating of exceedingly fine-grained photosensitive emulsions with submicroscopic crystals of silver bromide in gelatin.
 
-**High-Yield Explanation:**
-High resolution photographic plates have a coating of
-
-exceedingly fine-grained photosensitive emulsions with submicroscopic crystals of silver bromide in gelatin.
+**Ans: B.** Silver bromide
 </details>
 
+**Q-ST63. UPPCS (Mains) 2015**
 
-#### Q63 [U.P.P.C.S. (Mains) 2015]
 Which one of the following substances is used in glazing
 
 the pottery?
@@ -864,20 +759,15 @@ the pottery?
 (c) Zinc chloride (d) Zinc oxide
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** Zinc oxide is used in glazing the pottery.
 
-**High-Yield Explanation:**
-Zinc oxide is used in glazing the pottery. Here are some more
-
-oxides which are used in glazing– silicon dioxide, aluminium
-
-oxide, barium oxide, sodium oxide etc.
+**Ans: D.** Zinc oxide
 </details>
 
+**Q-ST64. UP RO/ARO (Mains) 2017**
 
-#### Q64 [U.P. R.O./A.R.O. (Mains) 2017]
 Which of the following imparts deep blue colour to
 
 glass?
@@ -887,24 +777,17 @@ glass?
 (c) Ferric oxide (d) Nickel oxide
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** The coloured glass can be obtained by the addition of colouring ions.
 
-**High-Yield Explanation:**
-The coloured glass can be obtained by the addition of
-
-colouring ions. Cobalt oxide imparts deep blue colour to
-
-the glass. While cupric oxide and nickel oxide imparts black
-
-colour and ferric oxide imparts bluish-green glass.
+**Ans: A.** Cobalt oxide
 </details>
-
 
 ### UKPCS Prelims (1 Questions)
 
-#### Q18 [Uttarakhand P.C.S. (Pre) 2025]
+**Q-ST18. Uttarakhand P.C.S. (Pre) 2025**
+
 The marble of Taj Mahal is getting discoloured and
 
 lustureless due to :
@@ -914,36 +797,17 @@ lustureless due to :
 (c) Methane (d) Fog
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** The main reason behind the Taj Mahal’s marble losing its colour and lustre is acid rain.
 
-**High-Yield Explanation:**
-The main reason behind the Taj Mahal’s marble losing its
-
-colour and lustre is acid rain. Acid rain involves gases such
-
-as Sulfur Dioxide (SO2
-
-) and Nitrogen Oxides (NOx
-
-), such
-
-as NO2
-
-), which combine with water vapour to form Sulfuric
-
-Acid and Nitric Acid. These acids react with the surface of
-
-the marble and reduce its lustre, making the Taj Mahal’s
-
-marble look pale and dull.
+**Ans: A.** Acid rain (b) Ozone layer
 </details>
-
 
 ### BPSC, IAS, RAS & Other State PCS (45 Questions)
 
-#### Q1 [Chhattisgarh P.C.S. (Pre) 2016]
+**Q-ST1. Chhattisgarh P.C.S. (Pre) 2016**
+
 Antacids are –
 
 (a) Base (b) Acid
@@ -953,20 +817,15 @@ Antacids are –
 (e) None of these
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** Antacids are bases.
 
-**High-Yield Explanation:**
-Antacids are bases. They are formed by aluminum hydroxide,
-
-magnesium hydroxide, magnesium carbonate, magnesium trisilicate, calcium carbonate etc. It is used as a medicine to reduce
-
-excessive acid formed in stomach or prevent it from forming.
+**Ans: A.** Base (b) Acid
 </details>
 
+**Q-ST4. M.P.P.C.S. (Pre) 1996**
 
-#### Q4 [M.P.P.C.S. (Pre) 1996]
 pH value shows the Numeric value of –
 
 (a) Quality of chemical used for developing photographic
@@ -980,26 +839,15 @@ negatives
 (d) Analysing for checking purity of milk
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** The pH scale measures the acidity or basicity of a solution.
 
-**High-Yield Explanation:**
-The pH scale measures the acidity or basicity of a solution.
-
-At 25°C temperature, the solution with a pH less than 7 is said
-
-to be acidic while the solution with the pH greater than 7 is
-
-basic or alkaline. The pure water has a pH value 7 (at 25°C).
-
-The logarithm of the reciprocal of hydrogen ion concentration
-
-in moles per litre is measured by pH scale from 0 to 14.
+**Ans: B.** Analysing the acidic or basic nature of a solution
 </details>
 
+**Q-ST5. 66th B.P.S.C. (Pre) 2020**
 
-#### Q5 [66th B.P.S.C. (Pre) 2020]
 The pH of a solution changes from 3 to 6. The H+
 
 ion
@@ -1017,40 +865,15 @@ concentration will :
 (e) None of the above / More than one of the above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** pH is a logarithmic scale used to specify the acidity or basicity (alkalinity) of an aqueous solution.
 
-**High-Yield Explanation:**
-pH is a logarithmic scale used to specify the acidity or basicity
-
-(alkalinity) of an aqueous solution. It inversely indicates
-
-the concentration of hydrogen ions (H+
-
-) in the solution as it
-
-approximates the negative of the base 10 logarithm of the
-
-molar concentration of hydrogen ions (H+
-
-) in a solution. Each
-
-number represents a 10-fold change in the acidity/basicity of
-
-the solution. If the pH number is increased by 1, it means H+
-
-ion concentration is decreased by 10 times. Hence, if the pH
-
-of a solution changes from 3 to 6, the H+
-
-ion concentration
-
-will decrease 1000 times, and it will become less acidic.
+**Ans: D.** decrease 1000 times
 </details>
 
+**Q-ST7. 64th B.P.S.C. (Pre) 2018**
 
-#### Q7 [64th B.P.S.C. (Pre) 2018]
 Which of the following has pH value 7?
 
 (a) Pure Water (b) Neutral solution
@@ -1060,22 +883,15 @@ Which of the following has pH value 7?
 (e) None of the above/More than one of the above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(E)**
+**Logic:** The pH value of pure water and neutral solution is 7 (at 25°C).
 
-**High-Yield Explanation:**
-The pH value of pure water and neutral solution is 7 (at
-
-25°C). In general, water with pH lower than 7 is considered
-
-acidic and greater than 7 is considered basic. Pure water is
-
-considered neutral.
+**Ans: E.** None of the above/More than one of the above
 </details>
 
+**Q-ST8. 67th B.P.S.C. (Pre) 2022**
 
-#### Q8 [67th B.P.S.C. (Pre) 2022]
 Which among the following solutions has pH value
 
 more than 7?
@@ -1087,16 +903,15 @@ more than 7?
 (e) None of the above/More than one of the above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Same teaching key as the linked stem above; answer is Basic solution.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: B.** Basic solution
 </details>
 
+**Q-ST9. Chhattisgarh P.C.S. (Pre) 2014**
 
-#### Q9 [Chhattisgarh P.C.S. (Pre) 2014]
 A solution turns red litmus blue. The pH of solution is :
 
 (a) 7 (b) 1
@@ -1106,32 +921,15 @@ A solution turns red litmus blue. The pH of solution is :
 (e) None of the above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(E)**
+**Logic:** When a red litmus paper is immersed in a base or alkaline, the red litmus paper turns blue indicating the given solution as alkaline/base.
 
-**High-Yield Explanation:**
-When a red litmus paper is immersed in a base or alkaline,
-
-the red litmus paper turns blue indicating the given solution
-
-as alkaline/base. When a blue litmus paper is immersed in an
-
-acid, the litmus paper turns red from blue indicating acid. At
-
-25°C temperature, the solution having pH value less than 7 is
-
-acidic and the solution having pH value more than 7 would be
-
-basic. According to the question, the red litmus paper turns
-
-blue which shows alkaline/basic nature of the solution. Thus,
-
-it has the pH value more than 7.
+**Ans: E.** None of the above
 </details>
 
+**Q-ST10. 68th B.P.S.C. (Pre) 2022**
 
-#### Q10 [68th B.P.S.C. (Pre) 2022]
 You have been provided with three test tubes. One of
 
 them contains distilled water and the other two contain
@@ -1151,16 +949,15 @@ Which of them will turn red litmus to blue?
 (e) None of the above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Standard key matches Base.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: C.** Base
 </details>
 
+**Q-ST11. 68th B.P.S.C. (Pre) 2022**
 
-#### Q11 [68th B.P.S.C. (Pre) 2022]
 Why does dry HCl gas not change the colour of dry
 
 litmus paper?
@@ -1188,50 +985,15 @@ ions.
 (e) None of the above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Standard key matches No H3.
 
-**High-Yield Explanation:**
-All acidic aqueous solutions contain protonated water,
-
-known commonly as the hydronium ion (H3
-
-O+). Dry HCl
-
-gas does not change the colour of dry litmus paper, because
-
-in the absence of water no hydronium (H3
-
-O+) ions are
-
-formed. As HCl is not in aqueous form nor is the litmus
-
-paper wet and thus the lack of presence of hydrogen (H+)
-
-or hydronium (H3
-
-O+) ions leads to the litmus paper not
-
-changing its colour. However, it is to be noted that blue
-
-litmus paper becomes red due to higher concentration of H+
-
-/
-
-H3
-
-O+ ions (i.e. in the case of acids), while red litmus paper
-
-becomes blue due to higher concentration of OH–
-
-ions (i.e.
-
-in the case of bases).
+**Ans: C.** No H3
 </details>
 
+**Q-ST12. Chhattisgarh P.C.S. (Pre) 2018**
 
-#### Q12 [Chhattisgarh P.C.S. (Pre) 2018]
 Which of the following may be a possible pH value of
 
 an acidic solution?
@@ -1241,30 +1003,15 @@ an acidic solution?
 (c) 8 (d) 9
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** Standard key matches 6 (b) 7.
 
-**High-Yield Explanation:**
-At 25°C temperature, if the pH of a solution is less than 7,
-
-the solution is called acidic, if the pH is about 7 the solution
-
-is neutral and if the pH is greater than 7, the solution is called
-
-basic. In an acidic solution, the concentration of hydrogen
-
-ions (H+
-
-) is greater than the concentration of hydroxide ions
-
-(OH–
-
-).
+**Ans: A.** 6 (b) 7
 </details>
 
+**Q-ST13. 71st B.P.S.C. (Pre) 2025**
 
-#### Q13 [71st B.P.S.C. (Pre) 2025]
 pH value of 0.1N HCl solution is approximately:
 
 (a) 1.0 (b) 11.0
@@ -1272,30 +1019,15 @@ pH value of 0.1N HCl solution is approximately:
 (c) 10 (d) 2.0
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** The pH of an aqueous solution is calculated by: pH = – log10 [H+ ] For 0.1 N HCl solution: [H+ ] = 0.1 mol L–1 dpH = – log10 (0.1) = – log10 (10–1) = – (–1) = 1 Therefore, the pH of 0.1 N HCl is 1.0.
 
-**High-Yield Explanation:**
-The pH of an aqueous solution is calculated by:
-
-pH = – log10 [H+
-
-]
-
-For 0.1 N HCl solution:
-
-[H+
-
-] = 0.1 mol L–1
-
-`dpH = – log10 (0.1) = – log10 (10–1) = – (–1) = 1
-
-Therefore, the pH of 0.1 N HCl is 1.0.
+**Ans: A.** 1.0 (b) 11.0
 </details>
 
+**Q-ST14. 43rd B.P.S.C. (Pre) 1999**
 
-#### Q14 [43rd B.P.S.C. (Pre) 1999]
 Which acid is considered as a basic chemical in
 
 Industry?
@@ -1309,28 +1041,15 @@ CO3 (b) HNO3
 SO4 (d) HCL
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Standard key matches H2.
 
-**High-Yield Explanation:**
-In the chemical industry, the Sulfuric acid (H2
-
-SO4
-
-) is
-
-considered as basic chemical. Sulfuric acid is mainly used in
-
-petrochemical industries. It is used to refine metals, reduce
-
-corrosion of steel, refine oil and manufacture fertilizers. It is
-
-also used for cleaning purposes in the laboratory.
+**Ans: C.** H2
 </details>
 
+**Q-ST15. 60th to 62nd B.P.S.C. (Pre) 2016**
 
-#### Q15 [60th to 62nd B.P.S.C. (Pre) 2016]
 Which of the following is present in maximum amount
 
 in acid rain?
@@ -1346,40 +1065,15 @@ CO3
 (e) None of the above/More than one of the above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Standard key matches H2.
 
-**High-Yield Explanation:**
-The Sulfur dioxide and nitrous oxide emitted from
-
-atmospheric pollution, industrial effusions and other activities
-
-occuring in the nature reach the atmosphere and react with
-
-oxygen and cloud water and fall on earth as Sulfuric acid
-
-(H2
-
-SO4
-
-) and nitric acid (HNO3
-
-) respectively. This is called
-
-Acid rain. The amount of Sulfuric Acid (H2
-
-SO4
-
-) in the
-
-acid rain is about 70-75% and it is the primary acid rain
-
-component.
+**Ans: C.** H2
 </details>
 
+**Q-ST16. 66th B.P.S.C. (Pre) (Re. Exam) 2020**
 
-#### Q16 [66th B.P.S.C. (Pre) (Re. Exam) 2020]
 The component(s) of acid rain is/are :
 
 (a) HNO3 (b) H2
@@ -1391,16 +1085,15 @@ SO4
 (e) None of the above/More than one of the above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** Same teaching key as the linked stem above; answer is Both.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: D.** Both
 </details>
 
+**Q-ST17. Chhattisgarh P.C.S. (Pre) 2017**
 
-#### Q17 [Chhattisgarh P.C.S. (Pre) 2017]
 Which acid is present in Acid Rain?
 
 (a) Benzoic acid (b) Acetic acid
@@ -1410,16 +1103,15 @@ Which acid is present in Acid Rain?
 (d) None of the above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Same teaching key as the linked stem above; answer is Nitric acid.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: C.** Nitric acid (d) Oxalic acid
 </details>
 
+**Q-ST19. I.A.S. (Pre) 2001**
 
-#### Q19 [I.A.S. (Pre) 2001]
 An aqueous solution of copper sulphate is acidic in
 
 nature because the salt undergoes –
@@ -1429,36 +1121,15 @@ nature because the salt undergoes –
 (c) hydrolysis (d) photolysis
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Copper sulphate reacts with water which produces strong acid H2 SO4 and weak base Cu(OH)2 as there is a process of hydrolysis.
 
-**High-Yield Explanation:**
-Copper sulphate reacts with water which produces strong
-
-acid H2
-
-SO4
-
-and weak base Cu(OH)2
-
-as there is a process of
-
-hydrolysis. So its aqueous solution is acidic in nature.
-
-CuSO4
-
-+ 2H2
-
-O → H2
-
-SO4
-
-+ Cu(OH)2
+**Ans: C.** hydrolysis (d) photolysis
 </details>
 
+**Q-ST20. Jharkhand P.C.S. (Pre) 2013**
 
-#### Q20 [Jharkhand P.C.S. (Pre) 2013]
 Which is not a Lewis acid?
 
 (a) AlCl3 (b) BF3
@@ -1466,34 +1137,15 @@ Which is not a Lewis acid?
 (c) NH3 (d) FeCl3
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** The Lewis acids are lone pair acceptors.
 
-**High-Yield Explanation:**
-The Lewis acids are lone pair acceptors. The Lewis bases are
-
-lone pair donors. Nitrogen in NH3
-
-has 5 electrons in which 3
-
-of them are involved in bonding. That leaves one lone pair.
-
-This lone pair is available for bonding. Therefore, NH3
-
-is a
-
-Lewis base. AlCl3
-
-, BF3
-
-and FeCl3
-
-are Lewis acids.
+**Ans: C.** NH3 (d) FeCl3
 </details>
 
+**Q-ST21. I.A.S. (Pre) 1999**
 
-#### Q21 [I.A.S. (Pre) 1999]
 Assertion (A) : To dilute Sulfuric acid, acid is added
 
 to water and not water to acid.
@@ -1513,32 +1165,15 @@ explanation of (A).
 (d) (A) is false, but (R) is true.
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** In order to dilute Sulfuric acid, acid is being added into water, which produces heat and energy.
 
-**High-Yield Explanation:**
-In order to dilute Sulfuric acid, acid is being added into
-
-water, which produces heat and energy. Water has a higher
-
-specific heat (heat capacity) than the acid, and so a vessel of
-
-cold water will absorb heat as acid is added. If water is added
-
-into acid then suddenly more heat would be generated and
-
-solution may boil very violently, splashing concentrated acid
-
-out of the vessel. So, acid is added to water to dilute Sulfuric
-
-acid. Hence, both (A) and (R) are true and (R) is the correct
-
-explanation of (A).
+**Ans: A.** Both (A) and (R) are true, and (R) is the correct
 </details>
 
+**Q-ST22. 68th B.P.S.C. (Pre) 2022**
 
-#### Q22 [68th B.P.S.C. (Pre) 2022]
 Some metal oxides react with acid as well as base to
 
 produce salt and water. They are known as amphoteric
@@ -1560,40 +1195,15 @@ and CuO (d) More than one of the above
 (e) None of the above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Amphoteric oxides have both acidic and basic properties.
 
-**High-Yield Explanation:**
-Amphoteric oxides have both acidic and basic properties.
-
-The oxides of aluminum (Al2
-
-O3
-
-) and zinc (ZnO) are good
-
-examples. Other common examples of amphoteric oxides
-
-include BeO, MnO2
-
-, Cr2
-
-O3
-
-, SnO and PbO. They react with
-
-acids and alkalis to form salts and water. The metals become
-
-cations in the former case and oxoanions in the latter. On
-
-the other hand, CuO is basic in nature, it is not amphoteric.
-
-Hence, option (b) is the correct answer.
+**Ans: B.** Al2 O3 and ZnO
 </details>
 
+**Q-ST23. 68th B.P.S.C. (Pre) 2022**
 
-#### Q23 [68th B.P.S.C. (Pre) 2022]
 Acids react with metal carbonates to liberate ____ gas.
 
 (a) H2
@@ -1605,46 +1215,15 @@ Acids react with metal carbonates to liberate ____ gas.
 (e) None of the above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Standard key matches CO2.
 
-**High-Yield Explanation:**
-Acids react with metal carbonates to liberate carbon dioxide
-
-(CO2
-
-) gas. When an acid reacts with a metal carbonate, salt,
-
-water, and carbon dioxide are produced. Examples :
-
-ZnCO3
-
-+ 2HCl → ZnCl2
-
-+ H2
-
-O + CO2 ↑
-
-Na2
-
-CO3
-
-+ 2HCl → 2NaCl + H2
-
-O + CO2 ↑
-
-FeCO3 + H2
-
-SO4 → FeSO4
-
-+ H2
-
-O + CO2 ↑
+**Ans: B.** CO2
 </details>
 
+**Q-ST24. 66th B.P.S.C. (Pre) 2020**
 
-#### Q24 [66th B.P.S.C. (Pre) 2020]
 Limewater is turned milky by:
 
 (a) CO (b) CO2
@@ -1654,34 +1233,15 @@ Limewater is turned milky by:
 (e) None of the above / More than one of the above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Carbon dioxide (CO2 ) reacts with calcium hydroxide to produce a white precipitate of calcium carbonate.
 
-**High-Yield Explanation:**
-Carbon dioxide (CO2
-
-) reacts with calcium hydroxide to
-
-produce a white precipitate of calcium carbonate. Limewater
-
-is a solution of calcium hydroxide. So, if carbon dioxide is
-
-passed through limewater, the limewater will turn milky or
-
-cloudy white.
-
-Ca(OH)2
-
-+ CO2 → CaCO3
-
-+ H2
-
-O
+**Ans: B.** CO2
 </details>
 
+**Q-ST25. RAS/RTS (Pre) 1999**
 
-#### Q25 [R.A.S./R.T.S. (Pre) 1999]
 Sodawater obtained by passing carbon dioxide in
 
 water is :
@@ -1691,36 +1251,15 @@ water is :
 (c) Acidic in nature (d) A reducing agent
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** The carbon dioxide (CO2 ) gas dissolved in water can cause water to become acidic.
 
-**High-Yield Explanation:**
-The carbon dioxide (CO2
-
-) gas dissolved in water can cause
-
-water to become acidic. The acidity of water from dissolved
-
-CO2
-
-can be reduced by a base such as baking soda (Sodium
-
-bicarbonate). When carbon dioxide is dissolved in the water,
-
-it forms carbonic acid (H2
-
-CO3
-
-) by reacting with water (H2
-
-O)
-
-and remains in dissolved state at high pressure. So, the sodawater becomes acidic in nature.
+**Ans: C.** Acidic in nature
 </details>
 
+**Q-ST26. RAS/RTS (Pre) 1992**
 
-#### Q26 [R.A.S./R.T.S. (Pre) 1992]
 Which of the following acid do not contain oxygen –
 
 (a) Nitric Acid (b) Sulfuric Acid
@@ -1728,18 +1267,15 @@ Which of the following acid do not contain oxygen –
 (c) Hydrochloric Acid (d) All of above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Hydrochloric Acid (HCl) does not contain oxygen, as it is a compound of hydrogen and chlorine.
 
-**High-Yield Explanation:**
-Hydrochloric Acid (HCl) does not contain oxygen, as it is a
-
-compound of hydrogen and chlorine.
+**Ans: C.** Hydrochloric Acid
 </details>
 
+**Q-ST27. RAS/RTS (Pre) 1994**
 
-#### Q27 [R.A.S./R.T.S. (Pre) 1994]
 An unknown gas quickly dissolves in water. This
 
 gaseous aqueous solution turns red litmus into the blue.
@@ -1753,22 +1289,15 @@ This unknown gas is –
 (c) Ammonia (d) Carbon monoxide
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** The aqueous solution of ammonia is basic due to forming of ammonium hydroxide which changes the colour of red litmus into blue.
 
-**High-Yield Explanation:**
-The aqueous solution of ammonia is basic due to forming
-
-of ammonium hydroxide which changes the colour of red
-
-litmus into blue. Ammonia produces a white flame when it
-
-reacts with hydrochloric acid.
+**Ans: C.** Ammonia (d) Carbon monoxide
 </details>
 
+**Q-ST32. M.P.P.C.S. (Pre) 1990**
 
-#### Q32 [M.P.P.C.S. (Pre) 1990]
 What is Neela thotha?
 
 (a) Copper Sulphate (b) Calcium Sulphate
@@ -1776,22 +1305,15 @@ What is Neela thotha?
 (c) Iron Sulphate (d) Sodium Sulphate
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** Neela thotha (blue vitriol) is a compound of copper and sulphate.
 
-**High-Yield Explanation:**
-Neela thotha (blue vitriol) is a compound of copper and
-
-sulphate. Its chemical formula is CuSO4
-
-.5H2
-
-O.
+**Ans: A.** Copper Sulphate
 </details>
 
+**Q-ST33. 66th B.P.S.C. (Pre) (Re. Exam) 2020**
 
-#### Q33 [66th B.P.S.C. (Pre) (Re. Exam) 2020]
 The chemical used for destroying fungi in water tank is :
 
 (a) Nitric acid (b) Zinc sulphate
@@ -1801,20 +1323,15 @@ The chemical used for destroying fungi in water tank is :
 (e) None of the above/More than one of the above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** Copper sulphate (blue vitriol or neela thotha) is used for destroying fungi in water tank.
 
-**High-Yield Explanation:**
-Copper sulphate (blue vitriol or neela thotha) is used for
-
-destroying fungi in water tank. It is also used as a fungicide
-
-to protect field crops.
+**Ans: D.** Copper Sulphate
 </details>
 
+**Q-ST34. 63rd B.P.S.C. (Pre) 2017**
 
-#### Q34 [63rd B.P.S.C. (Pre) 2017]
 Blue vitriol is chemically :
 
 (a) Sodium sulfate (b) Nickel sulfate
@@ -1824,16 +1341,15 @@ Blue vitriol is chemically :
 (e) None of the above/More than one of the above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Same teaching key as the linked stem above; answer is Copper sulfate.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: C.** Copper sulfate
 </details>
 
+**Q-ST36. I.A.S.. (Pre) 1998**
 
-#### Q36 [I.A.S.. (Pre) 1998]
 Match the following lists by using codes given below.
 
 Select the correct answer?
@@ -1861,22 +1377,15 @@ A B C D
 (d) 4 3 1 2
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** Neela thotha – Copper Sulphate Epsom salt – Magnesium Sulphate Baking soda – Sodium Bicarbonate Caustic soda – Sodium Hydroxide
 
-**High-Yield Explanation:**
-Neela thotha – Copper Sulphate
-
-Epsom salt – Magnesium Sulphate
-
-Baking soda – Sodium Bicarbonate
-
-Caustic soda – Sodium Hydroxide
+**Ans: D.** Caustic soda 4.
 </details>
 
+**Q-ST37. RAS/RTS (Pre) 1993**
 
-#### Q37 [R.A.S./R.T.S. (Pre) 1993]
 Baking soda is –
 
 (a) Sodium Chloride (b) Sodium Bicarbonate
@@ -1884,20 +1393,15 @@ Baking soda is –
 (c) Sodium Sulphate (d) Sodium Hydroxide
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Sodium bicarbonate is also known as Baking Soda.
 
-**High-Yield Explanation:**
-Sodium bicarbonate is also known as Baking Soda. The
-
-chemical formula of Sodium bicarbonate is NaHCO3
-
-.
+**Ans: B.** Sodium Bicarbonate
 </details>
 
+**Q-ST38. Chhattisgarh P.C.S. (Pre) 2016**
 
-#### Q38 [Chhattisgarh P.C.S. (Pre) 2016]
 Baking Soda is –
 
 (a) Sodium Hydrogen Carbonate
@@ -1911,16 +1415,15 @@ Baking Soda is –
 (e) None of these
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** Same teaching key as the linked stem above; answer is Sodium Hydrogen Carbonate.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: A.** Sodium Hydrogen Carbonate
 </details>
 
+**Q-ST39. RAS/RTS (Pre) 2016**
 
-#### Q39 [R.A.S./R.T.S. (Pre) 2016]
 The chemical formula of baking soda is :
 
 (a) Ca(OH)2 (b) NaHCO3
@@ -1930,16 +1433,15 @@ The chemical formula of baking soda is :
 CO3
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Same teaching key as the linked stem above; answer is NaHCO3.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: B.** NaHCO3
 </details>
 
+**Q-ST40. Chhattisgarh P.C.S. (Pre) 2018**
 
-#### Q40 [Chhattisgarh P.C.S. (Pre) 2018]
 Baking soda is –
 
 (a) Na2
@@ -1955,16 +1457,15 @@ O
 O
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Same teaching key as the linked stem above; answer is NaHCO3.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: C.** NaHCO3 (d) NaCO3 10H2
 </details>
 
+**Q-ST41. 43rd B.P.S.C. (Pre) 1994**
 
-#### Q41 [43rd B.P.S.C. (Pre) 1994]
 The chemical formula of washing soda is :
 
 (a) NaOH (b) Na2
@@ -1974,22 +1475,15 @@ CO3
 (c) NaHCO3 (d) Ca(OH)2
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Sodium carbonate is known as washing soda.
 
-**High-Yield Explanation:**
-Sodium carbonate is known as washing soda. It is used as
-
-detergent. Its formula is Na2
-
-CO3
-
-.
+**Ans: B.** Na2 CO3
 </details>
 
+**Q-ST42. Chhattisgarh P.C.S. (Pre) 2023**
 
-#### Q42 [Chhattisgarh P.C.S. (Pre) 2023]
 What is the chemical name of Washing Soda?
 
 (a) Sodium carbonate (b) Sodium bisulphite
@@ -1997,16 +1491,15 @@ What is the chemical name of Washing Soda?
 (c) Sodium bi carbonate (d) None of the above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** Same teaching key as the linked stem above; answer is Sodium carbonate.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: A.** Sodium carbonate
 </details>
 
+**Q-ST43. I.A.S. (Pre) 2005**
 
-#### Q43 [I.A.S. (Pre) 2005]
 Consider the following statements –
 
 1. Anhydrous sodium carbonate is commonly known
@@ -2026,32 +1519,15 @@ Which of these statements is right :
 (c) 3 only (d) 1 and 2
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Sodium bicarbonate (NaHCO3 ), also known as baking soda is used in bakery products, while anhydrous sodium carbonate (Na2 CO3 ) is used as washing soda in soaps.
 
-**High-Yield Explanation:**
-Sodium bicarbonate (NaHCO3
-
-), also known as baking soda is
-
-used in bakery products, while anhydrous sodium carbonate
-
-(Na2
-
-CO3
-
-) is used as washing soda in soaps. Bleaching powder
-
-is prepared in Hasenclever plant or Backmann plant. Baking
-
-soda is also used as fire extinguisher equipment. Hence,
-
-statements 2 and 3 are correct.
+**Ans: B.** 2 and 3
 </details>
 
+**Q-ST45. 63rd B.P.S.C. (Pre) 2017**
 
-#### Q45 [63rd B.P.S.C. (Pre) 2017]
 Quartz crystals used in clocks are :
 
 (a) Sodium silicate (b) Silicon dioxide
@@ -2061,28 +1537,15 @@ Quartz crystals used in clocks are :
 (e) None of the above/More than one of the above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Quartz crystals used in clocks are composed of silicon and oxygen atoms.
 
-**High-Yield Explanation:**
-Quartz crystals used in clocks are composed of silicon
-
-and oxygen atoms. The atoms are linked in a continuous
-
-framework of SiO4
-
-(silicon-oxygen tetrahedra), with each
-
-oxygen being shared between two tetrahedra, giving an
-
-overall chemical formula of SiO2
-
-(silicon dioxide).
+**Ans: B.** Silicon dioxide
 </details>
 
+**Q-ST47. 53rd to 55th B.P.S.C. (Pre) 2011**
 
-#### Q47 [53rd to 55th B.P.S.C. (Pre) 2011]
 Table salt (NaCl) is a product of –
 
 (a) Weak acid and weak base
@@ -2094,22 +1557,15 @@ Table salt (NaCl) is a product of –
 (d) Strong acid and weak basic
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** The compounds formed after reaction between the strong base and strong acid are known as neutral salt.
 
-**High-Yield Explanation:**
-The compounds formed after reaction between the strong
-
-base and strong acid are known as neutral salt. Sodium
-
-chloride (NaCl) is an example of neutral salt which is also
-
-known as Table Salt.
+**Ans: B.** Strong acid and strong base
 </details>
 
+**Q-ST49. 60th to 62nd B.P.S.C. (Pre) 2016**
 
-#### Q49 [60th to 62nd B.P.S.C. (Pre) 2016]
 Iodised salt contains :
 
 (a) Free iodine (b) Calcium iodide
@@ -2119,22 +1575,15 @@ Iodised salt contains :
 (e) None of the above/More than one of the above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** Potassium iodide(KI) is similar to food salt in the structure and physical properties.
 
-**High-Yield Explanation:**
-Potassium iodide(KI) is similar to food salt in the structure
-
-and physical properties. This is commonly used in making
-
-iodised salt. In addition to potassium iodide, sodium iodide
-
-and sodiun iodate are also used in making iodised salt.
+**Ans: D.** Potassium iodide
 </details>
 
+**Q-ST50. I.A.S. (Pre) 2003**
 
-#### Q50 [I.A.S. (Pre) 2003]
 Which one of the following statements is not correct ?
 
 (a) The presence of NaCl increases the rate of setting of
@@ -2150,26 +1599,15 @@ of setting
 (d) Barium and Strontium are found free in nature
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** Barium (Ba) and Strontium (Sr) are not found in nature as free element.
 
-**High-Yield Explanation:**
-Barium (Ba) and Strontium (Sr) are not found in nature as
-
-free element. These two belong to Group 2 of the periodic
-
-table. The metals of this particular group are highly reactive.
-
-As a result of which, when they come into contact with the
-
-atmosphere, they form compounds. Other three statements
-
-are correct.
+**Ans: D.** Barium and Strontium are found free in nature
 </details>
 
+**Q-ST51. 39th B.P.S.C. (Pre) 1994**
 
-#### Q51 [39th B.P.S.C. (Pre) 1994]
 What is untrue for bleaching powder?
 
 (a) It is more soluble in water
@@ -2181,32 +1619,15 @@ What is untrue for bleaching powder?
 (d) It releases chlorine after reaction with dilute acid
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** Calcium Hypochlorite/Calcium Oxychloride is an inorganic compound which is the main ingredient compound of bleaching powder.
 
-**High-Yield Explanation:**
-Calcium Hypochlorite/Calcium Oxychloride is an inorganic
-
-compound which is the main ingredient compound of
-
-bleaching powder. Its chemical formula is Ca(OCl)2 /
-
-CaOCl2
-
-. It is a white solid, although commercial samples
-
-appear yellow. It is an oxidizing agent and releases chlorine
-
-after reaction with dilute acid. Bleaching powder is used for
-
-water treatment and acts as a bleaching agent. It is not highly
-
-soluble in water.
+**Ans: A.** It is more soluble in water
 </details>
 
+**Q-ST53. RAS/RTS (Pre) 1999**
 
-#### Q53 [R.A.S./R.T.S. (Pre) 1999]
 When eno salt is poured into the water, bubbles forms,
 
 which is due to –
@@ -2222,18 +1643,15 @@ gas
 gas
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** When eno salt is dissolved in water, the carbon dioxide gas is produced which produces gas bubbles.
 
-**High-Yield Explanation:**
-When eno salt is dissolved in water, the carbon dioxide gas
-
-is produced which produces gas bubbles.
+**Ans: B.** CO2 gas
 </details>
 
+**Q-ST54. RAS/RTS (Pre) 1994**
 
-#### Q54 [R.A.S./R.T.S. (Pre) 1994]
 To develop photographic plates –
 
 (a) Sodium thiosulphate is used as oxidising agent.
@@ -2247,24 +1665,15 @@ To develop photographic plates –
 is not dissolved.
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** Sodium thiosulphate is used in photographic processing as a fixer in photography.
 
-**High-Yield Explanation:**
-Sodium thiosulphate is used in photographic processing
-
-as a fixer in photography. Sodium thiosulphate removes
-
-silver bromide as a soluble compound from the negative
-
-plate or film which is obtained at the end of photographic
-
-development. It is used as oxidising agent.
+**Ans: A.** Sodium thiosulphate is used as oxidising agent
 </details>
 
+**Q-ST56. I.A.S. (Pre) 1995**
 
-#### Q56 [I.A.S. (Pre) 1995]
 The chemical used as a 'fixer' in photography is –
 
 (a) Sodium sulphate (b) Sodium thiosulphate
@@ -2272,20 +1681,15 @@ The chemical used as a 'fixer' in photography is –
 (c) Ammonium persulphate (d) Borax
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Sodium thiosulphate (Hypo) is used in photography as a fixer of positive and negative.
 
-**High-Yield Explanation:**
-Sodium thiosulphate (Hypo) is used in photography as a fixer
-
-of positive and negative. It is also used in the extraction of
-
-Gold and Silver.
+**Ans: B.** Sodium thiosulphate
 </details>
 
+**Q-ST61. 71st B.P.S.C. (Pre) 2025**
 
-#### Q61 [71st B.P.S.C. (Pre) 2025]
 Which Material is used for smart film?
 
 (a) Indium tin oxide (b) Calcium carbonate
@@ -2293,42 +1697,15 @@ Which Material is used for smart film?
 (c) Zinc chloride (d) Silica
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** 'Smart film' or 'switchable smart film' is generally a PDLC (Polymer Dispersed Liquid Crystal) film.
 
-**High-Yield Explanation:**
-'Smart film' or 'switchable smart film' is generally a PDLC
-
-(Polymer Dispersed Liquid Crystal) film. It is an innovative,
-
-self-adhesive, and retrofit-ready window technology that
-
-switches glass from clear to frosted with a simple tap, offering
-
-on-demand privacy, high UV protection, and heat reduction.
-
-For the transparent conductive layer of smart film, Indium
-
-Tin Oxide (ITO) coated PET or glass is commonly used.
-
-Calcium carbonate (CaCO2
-
-) is mainly used in cement/lime
-
-manufacturing and as a filler; zinc chloride (ZnCl2
-
-) is used
-
-in chemical reactions, dry cells, flux, etc.; and silica (SiO2
-
-)
-
-is used as a structural material in ordinary glass, etc.
+**Ans: A.** Indium tin oxide
 </details>
 
+**Q-ST62. 71st B.P.S.C. (Pre) 2025**
 
-#### Q62 [71st B.P.S.C. (Pre) 2025]
 Which Compound is known as night glowing pigment
 
 from below?
@@ -2342,26 +1719,15 @@ from below?
 (d) Boron oxide dopped copper sulphate
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** 'Glow-in-the-dark pigments' are substances that first absorb light energy and then, in darkness, continue to emit light slowly for a long time.
 
-**High-Yield Explanation:**
-'Glow-in-the-dark pigments' are substances that first absorb
-
-light energy and then, in darkness, continue to emit light
-
-slowly for a long time. Among the given options, europiumdoped strontium aluminate is well-known and widely used as
-
-a night glowing (phosphorescent) pigment. It is commonly
-
-used in safety signage, emergency exists, glow-in-the-dark
-
-paints, and decorative items.
+**Ans: A.** Europium dopped strontium aluminate
 </details>
 
+**Q-ST65. I.A.S. (Pre) 2003**
 
-#### Q65 [I.A.S. (Pre) 2003]
 With reference to ionic compounds, consider the
 
 following statements :
@@ -2379,520 +1745,12 @@ Which of these statements is/are correct?
 (c) Both 1 and 2 (d) Neither 1 nor 2
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
-
-**Correct Answer:** **(A)**
-
-**High-Yield Explanation:**
-The ionic compounds are the forms of negative and positive
-
-ions so they are very stable. Ionic compounds are generally
-
-insoluble in organic solvents (like alcohol). Non-polar
-
-organic solvents cannot effectively interact with the ions
-
-and break the ionic bonds. Alcohol has very low dielectric
-
-constant due to which it would not able to weaken the force
-
-of attraction between the ions of ionic compounds. So ionic
-
-compounds are insoluble in alcohol. For example– NaCl,
-
-KCl. Ionic compounds in the solid state are bad conductors
-
-of electricity because absence of free electrons.
-</details>
-
-
-## Practice Zone — High-Yield Mock Drills (26 Questions)
-
-**Q1.** What is the mathematical definition of pH?  
-(a) $\text{pH} = \log_{10}[H^+]$  
-(b) $\text{pH} = -\log_{10}[H^+]$  
-(c) $\text{pH} = \ln[H^+]$  
-(d) $\text{pH} = -\log_{e}[OH^-]$  
-
-<details>
 <summary>Show answer</summary>
 
-**Correct Answer:** (b)
+**Logic:** The ionic compounds are the forms of negative and positive ions so they are very stable.
 
-- **Detailed Explanation:**
-  - $\text{pH} = -\log_{10}[H^+] = \log_{10}\left(\frac{1}{[H^+]}\right)$, measuring hydronium ion concentration on an inverse logarithmic scale.
+**Ans: A.** Only 1 (b) Only 2
 </details>
-
----
-
-**Q2.** If the pH of an aqueous solution changes from 4 to 2, the concentration of hydrogen ions $[H^+]$:  
-(a) Decreases by a factor of 2  
-(b) Increases by a factor of 2  
-(c) Increases by 100 times  
-(d) Decreases by 100 times  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (c)
-
-- **Detailed Explanation:**
-  - $[H^+] = 10^{-\text{pH}}$. At pH 4, $[H^+] = 10^{-4}\text{ M}$; at pH 2, $[H^+] = 10^{-2}\text{ M}$.
-  - Ratio: $10^{-2} / 10^{-4} = 10^2 = 100\times$ increase.
-</details>
-
----
-
-**Q3.** What is the color of phenolphthalein in a dilute aqueous solution of sodium hydroxide?  
-(a) Colorless  
-(b) Deep pink / magenta  
-(c) Yellow  
-(d) Dark blue  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Phenolphthalein is an acid-base indicator that remains colorless in acidic and neutral solutions (pH $< 8.2$) and turns bright pink/magenta in alkaline solutions like $NaOH$ (pH $> 10.0$).
-</details>
-
----
-
-**Q4.** Why is tartaric acid mixed with sodium hydrogen carbonate to make commercial baking powder?  
-(a) To accelerate the release of oxygen gas  
-(b) To neutralize the alkaline sodium carbonate formed on heating, preventing a bitter taste  
-(c) To impart an artificial fruit flavor  
-(d) To act as a preservative against mold  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - When baking soda ($NaHCO_3$) is heated, it decomposes into $Na_2CO_3$, $H_2O$, and $CO_2$. Sodium carbonate imparts an unpleasant alkaline taste.
-  - Adding tartaric acid reacts with $Na_2CO_3$ to form palatable sodium tartrate, eliminating the bitter flavor.
-</details>
-
----
-
-**Q5.** Which of the following substances contains water of crystallization?  
-(a) Baking Soda ($NaHCO_3$)  
-(b) Washing Soda ($Na_2CO_3 \cdot 10H_2O$)  
-(c) Common Salt ($NaCl$)  
-(d) Slaked Lime ($Ca(OH)_2$)  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Washing soda contains 10 molecules of water of crystallization ($Na_2CO_3 \cdot 10H_2O$).
-  - Pure $NaHCO_3$, $NaCl$, and $Ca(OH)_2$ do not contain water of crystallization in their standard formulas.
-</details>
-
----
-
-**Q6.** What is formed when gypsum is heated above $200^\circ\text{C}$ ($473\text{ K}$)?  
-(a) Plaster of Paris  
-(b) Quicklime  
-(c) Dead burnt plaster (anhydrous $CaSO_4$)  
-(d) Slaked lime  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (c)
-
-- **Detailed Explanation:**
-  - Heating gypsum above $200^\circ\text{C}$ drives off all water of crystallization, leaving anhydrous calcium sulphate ($CaSO_4$), commonly termed "dead burnt plaster", which loses its hydraulic setting properties.
-</details>
-
----
-
-**Q7.** Which of the following acids is present in stinging nettle leaves and ant bites?  
-(a) Methanoic acid (formic acid)  
-(b) Ethanoic acid (acetic acid)  
-(c) Oxalic acid  
-(d) Citric acid  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (a)
-
-- **Detailed Explanation:**
-  - Stinging hairs of nettles and venom sacs of red ants inject methanoic acid ($HCOOH$), causing local inflammation and a burning sensation.
-</details>
-
----
-
-**Q8.** A solution turns red litmus paper blue. Its pH is most likely:  
-(a) 1  
-(b) 4  
-(c) 5  
-(d) 10  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (d)
-
-- **Detailed Explanation:**
-  - Turning red litmus blue indicates an alkaline (basic) solution, which corresponds to a $\text{pH} > 7$. Among the given options, only 10 is basic.
-</details>
-
----
-
-**Q9.** Which of the following compounds is a double salt?  
-(a) Potassium chloride  
-(b) Potash alum ($K_2SO_4 \cdot Al_2(SO_4)_3 \cdot 24H_2O$)  
-(c) Bleaching powder  
-(d) Copper sulphate  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Potash alum is an equimolar double salt composed of potassium sulphate and aluminium sulphate crystallized with 24 water molecules.
-</details>
-
----
-
-**Q10.** The primary acid present in vinegar is:  
-(a) Acetic acid ($CH_3COOH$)  
-(b) Formic acid ($HCOOH$)  
-(c) Butyric acid  
-(d) Propionic acid  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (a)
-
-- **Detailed Explanation:**
-  - Vinegar is an aqueous solution containing $4–8\%$ acetic acid (ethanoic acid).
-</details>
-
----
-
-**Q11.** Which of the following is classified as a non-reducing sugar?  
-(a) Maltose  
-(b) Lactose  
-(c) Sucrose  
-(d) Glucose  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (c)
-
-- **Detailed Explanation:**
-  - Sucrose is a non-reducing disaccharide because its anomeric carbons are linked via an $\alpha-1,\beta-2$ glycosidic bond, leaving no free functional groups to reduce Tollens' or Fehling's reagents.
-</details>
-
----
-
-**Q12.** What is the artificial sweetener that is approximately $550\text{ times}$ sweeter than cane sugar and excreted unchanged in human urine?  
-(a) Aspartame  
-(b) Saccharin  
-(c) Sucralose  
-(d) Alitame  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Saccharin (o-sulphobenzimide) was the first synthetic artificial sweetener ($\sim 550\times$ sucrose), passes un-metabolized through the renal system, and provides zero calories.
-</details>
-
----
-
-**Q13.** Which of the following salts produces an alkaline (basic) solution when dissolved in pure water?  
-(a) Ammonium chloride ($NH_4Cl$)  
-(b) Sodium acetate ($CH_3COONa$)  
-(c) Sodium chloride ($NaCl$)  
-(d) Copper sulphate ($CuSO_4$)  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Sodium acetate is the salt of a weak acid ($CH_3COOH$) and a strong base ($NaOH$). Anionic hydrolysis of acetate generates excess $OH^-$ ions, making the solution basic ($\text{pH} > 7$).
-</details>
-
----
-
-**Q14.** In the human body, the carbonic acid-bicarbonate buffer system operates to maintain the pH of:  
-(a) Gastric juice  
-(b) Blood plasma  
-(c) Bile juice  
-(d) Pancreatic juice  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - The $H_2CO_3 / HCO_3^-$ buffer system maintains systemic blood plasma pH within the critical $7.35–7.45$ range.
-</details>
-
----
-
-**Q15.** What is the chemical formula of "Green Vitriol"?  
-(a) $CuSO_4 \cdot 5H_2O$  
-(b) $FeSO_4 \cdot 7H_2O$  
-(c) $ZnSO_4 \cdot 7H_2O$  
-(d) $MgSO_4 \cdot 7H_2O$  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Green Vitriol is ferrous sulphate heptahydrate ($FeSO_4 \cdot 7H_2O$).
-</details>
-
----
-
-**Q16.** Methyl orange indicator displays which of the following colors in an acidic solution?  
-(a) Yellow  
-(b) Red / pink  
-(c) Deep blue  
-(d) Colorless  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Methyl orange is red/pink in acidic solutions (pH $< 3.1$) and yellow in neutral/basic solutions (pH $> 4.4$).
-</details>
-
----
-
-**Q17.** Bordeaux mixture, a widely used agricultural fungicide, consists of an aqueous mixture of:  
-(a) Copper sulphate and slaked lime  
-(b) Iron sulphate and caustic soda  
-(c) Zinc sulphate and sodium carbonate  
-(d) Lead nitrate and lime  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (a)
-
-- **Detailed Explanation:**
-  - Bordeaux mixture was discovered in France by P.M.A. Millardet (1882) and consists of copper sulphate ($CuSO_4$) neutralized with slaked lime ($Ca(OH)_2$) in water.
-</details>
-
----
-
-**Q18.** Hydrolysis of cane sugar (sucrose) yields:  
-(a) Two molecules of glucose  
-(b) One molecule of glucose and one molecule of fructose  
-(c) One molecule of glucose and one molecule of galactose  
-(d) Two molecules of fructose  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Enzymatic or acid hydrolysis breaks the $\alpha-1,\beta-2$ glycosidic linkage in sucrose to yield one molecule of D-glucose and one molecule of D-fructose.
-</details>
-
----
-
-**Q19.** Which of the following is a symptom of dental caries triggered by oral acidity?  
-(a) Enamel dissolving below oral pH 5.5  
-(b) Enamel hardening above oral pH 8.0  
-(c) Conversion of teeth to calcium chloride  
-(d) Salivary glands shutting down  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (a)
-
-- **Detailed Explanation:**
-  - Acid produced by bacterial fermentation of carbohydrates dissolves calcium hydroxyapatite enamel when oral pH drops below 5.5.
-</details>
-
----
-
-**Q20.** What type of indicator are onion juice and vanilla essence?  
-(a) Synthetic azo indicators  
-(b) Olfactory indicators  
-(c) Universal indicators  
-(d) Fluorescent indicators  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Olfactory indicators change their scent in acidic vs basic conditions. Vanilla and onion lose their characteristic smell in alkaline media.
-</details>
-
----
-
-**Q21.** Why does pure water at $50^\circ\text{C}$ have a pH of $\approx 6.63$ while remaining strictly neutral?  
-(a) Because it contains dissolved carbonic acid  
-(b) Because self-ionization of water is endothermic, increasing $[H^+]$ and $[OH^-]$ equally  
-(c) Because hot water absorbs atmospheric nitrogen  
-(d) Because thermometer calibrations fail at $50^\circ\text{C}$  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - $H_2O \rightleftharpoons H^+ + OH^-$ is endothermic. Higher temperature increases $K_w$, raising $[H^+]$ to $10^{-6.63}\text{ M}$. Because $[OH^-]$ also equals $10^{-6.63}\text{ M}$, the water remains neutral despite $\text{pH} < 7$.
-</details>
-
----
-
-**Q22.** Which of the following compounds is commonly known as "Caustic Potash"?  
-(a) $NaOH$  
-(b) $KOH$  
-(c) $Ca(OH)_2$  
-(d) $Mg(OH)_2$  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Potassium hydroxide ($KOH$) is caustic potash; sodium hydroxide ($NaOH$) is caustic soda.
-</details>
-
----
-
-**Q23.** An acid that contains three replaceable hydrogen ions per molecule (tribasic acid) is:  
-(a) Hydrochloric acid ($HCl$)  
-(b) Sulphuric acid ($H_2SO_4$)  
-(c) Phosphoric acid ($H_3PO_4$)  
-(d) Nitric acid ($HNO_3$)  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (c)
-
-- **Detailed Explanation:**
-  - Phosphoric acid ($H_3PO_4$) has three ionizable hydroxyl protons attached to phosphorus, making it a tribasic acid.
-</details>
-
----
-
-**Q24.** Which of the following artificial sweeteners has the highest relative sweetness rating?  
-(a) Aspartame  
-(b) Saccharin  
-(c) Alitame  
-(d) Sucralose  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (c)
-
-- **Detailed Explanation:**
-  - Alitame has a relative sweetness rating of approximately **$2000$** times sucrose, making it the sweetest among common artificial sweeteners.
-</details>
-
----
-
-**Q25.** The loss of water of crystallization by hydrated crystals upon exposure to dry air is termed:  
-(a) Deliquescence  
-(b) Efflorescence  
-(c) Hygroscopy  
-(d) Sublimation  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Efflorescence is the spontaneous loss of water of crystallization to dry air (e.g., washing soda $Na_2CO_3 \cdot 10H_2O$ efflorescing to $Na_2CO_3 \cdot H_2O$).
-</details>
-
----
-
-**Q26.** What is the chemical formula of "White Vitriol"?  
-(a) $CuSO_4 \cdot 5H_2O$  
-(b) $FeSO_4 \cdot 7H_2O$  
-(c) $ZnSO_4 \cdot 7H_2O$  
-(d) $Na_2SO_4 \cdot 10H_2O$  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (c)
-
-- **Detailed Explanation:**
-  - White Vitriol is zinc sulphate heptahydrate ($ZnSO_4 \cdot 7H_2O$).
-</details>
-
----
-
-## Common Traps & High-Yield Pitfalls
-
-| Trap Area | What Students Confuse | Correct Fact |
-|---|---|---|
-| **Baking vs. Washing Soda** | Mixing up $NaHCO_3$ and $Na_2CO_3 \cdot 10H_2O$. | **Baking Soda is $NaHCO_3$** (contains Hydrogen). **Washing Soda is $Na_2CO_3 \cdot 10H_2O$** (10 waters). |
-| **Plaster of Paris Water Count** | Forgetting whether PoP has $\frac{1}{2}$ or $2$ water molecules. | **Plaster of Paris has $\frac{1}{2}\text{ H}_2\text{O}$** ($CaSO_4 \cdot \frac{1}{2}H_2O$). **Gypsum has $2\text{ H}_2\text{O}$** ($CaSO_4 \cdot 2H_2O$). |
-| **pH Direction Rules** | Reading fast and accepting "Acids have pH > 7". | **Acids have pH < 7**. **Bases have pH > 7**. pH 7 is neutral at $25^\circ\text{C}$. |
-| **Hot Water Neutrality** | Assuming water at $50^\circ\text{C}$ with pH 6.63 is acidic. | It is **strictly neutral** because $[H^+] = [OH^-]$. Neutrality means equal concentrations, not rigidly pH 7.0. |
-| **Sucrose Reducing Ability** | Assuming all sweet sugars are reducing sugars. | **Sucrose is a NON-REDUCING sugar**. Both anomeric carbons are locked in the glycosidic bond. |
-| **Sweetest Natural Sugar** | Believing glucose or sucrose is the sweetest sugar. | **Fructose is the sweetest natural sugar** ($\sim 170$ vs sucrose 100). |
-| **Ant Sting Acid** | Answering acetic acid for ant bites. | Ant stings inject **Methanoic acid (Formic acid, $HCOOH$)**, not acetic acid. |
-| **Kidney Stone Composition** | Assuming kidney stones are made of uric acid or calcium carbonate. | $\approx 80\%$ of kidney stones are composed of insoluble **Calcium Oxalate ($CaC_2O_4$)**. |
-| **Aspartame Cooking Trap** | Thinking aspartame can be used in baked goods. | Aspartame **decomposes at cooking temperatures**; only sucralose and saccharin are heat-stable. |
-| **Turmeric Color in Base** | Expecting turmeric to turn blue or green in base. | Turmeric turns **reddish-brown in basic solutions** (like soap), and stays yellow in acids. |
-
-
----
-
-## Bilingual Terminology -- Acids, Bases, Salts and Sucrose
-
-| English Term | Hindi Term | Key Anchor |
-|---|---|---|
-| **Acid** (अम्ल) | अम्ल | Donates H+ (proton); pH < 7; sour taste; turns blue litmus red |
-| **Base** (क्षार) | क्षार | Accepts H+ (proton); pH > 7; bitter taste, soapy feel; turns red litmus blue |
-| **Alkali** (क्षारक) | क्षारक | Water-soluble base; NaOH, KOH, Ca(OH)2 |
-| **pH** (पीएच) | pH / पीएच | Negative log of H+ concentration; 0-14 scale; 7 = neutral |
-| **Neutralisation** (उदासीनीकरण) | उदासीनीकरण | Acid + Base -> Salt + Water; exothermic |
-| **Salt** (लवण) | लवण | Product of acid-base reaction; e.g., NaCl, CaCO3, CuSO4 |
-| **Indicator** (सूचक) | सूचक | Substance that changes colour with pH; litmus, phenolphthalein, methyl orange |
-| **Buffer** (बफर) | बफर | Resists change in pH; e.g., blood pH 7.4 maintained by H2CO3/HCO3- |
-| **Bleaching Powder** (विरंजक चूर्ण) | विरंजक चूर्ण / ब्लीचिंग पाउडर | Ca(OCl)Cl; used for bleaching, disinfecting water |
-| **Plaster of Paris** (प्लास्टर ऑफ पेरिस) | पेरिस प्लास्टर | CaSO4.1/2H2O; sets hard by absorbing water; used in fractures, moulds |
-| **Washing Soda** (धावन सोडा) | धावन सोडा | Na2CO3.10H2O; removes permanent hardness; used in glass, soap making |
-| **Baking Soda** (बेकिंग सोडा) | मीठा सोडा / खाने का सोडा | NaHCO3; releases CO2 on heating; used in baking, antacids |
-| **Caustic Soda** (दाहक सोडा) | दाहक सोडा / कास्टिक सोडा | NaOH; strong base; soap/paper making; drain cleaner |
-| **Vinegar** (सिरका) | सिरका | Acetic acid solution (4-8% CH3COOH); sour taste |
-| **Hydrochloric Acid** (हाइड्रोक्लोरिक अम्ल) | हाइड्रोक्लोरिक अम्ल | HCl; "muriatic acid"; in gastric juice; strong acid |
-| **Sulphuric Acid** (सल्फ्यूरिक अम्ल) | गंधक का तेजाब | H2SO4; "king of chemicals"; strong acid; highly corrosive |
-
----
 
 ## One-Liner Revision -- Acids, Bases, Salts
 
@@ -2928,4 +1786,491 @@ of electricity because absence of free electrons.
 | 28 | Glucose = C6H12O6; dextrose; simplest monosaccharide; brain's primary fuel |
 | 29 | Fructose = fruit sugar; sweetest naturally occurring sugar |
 | 30 | Lactose = milk sugar; disaccharide (glucose + galactose); lactose intolerance = deficiency of lactase |
+
+## Practice Zone — High-Yield Mock Drills (26 Questions)
+
+**Q-ST1.**
+
+What is the mathematical definition of pH?
+(a) $\text{pH} = \log_{10}[H^+]$  
+(b) $\text{pH} = -\log_{10}[H^+]$  
+(c) $\text{pH} = \ln[H^+]$  
+(d) $\text{pH} = -\log_{e}[OH^-]$  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** $\text{pH} = -\log{10}[H^+] = \log{10}\left(\frac{1}{[H^+]}\right)$, measuring hydronium ion concentration on an inverse logarithmic scale.
+
+**Ans: B.** $\text{pH} = -\log{10}[H^+]$
+</details>
+
+---
+
+**Q-ST2.**
+
+If the pH of an aqueous solution changes from 4 to 2, the concentration of hydrogen ions $[H^+]$:
+(a) Decreases by a factor of 2  
+(b) Increases by a factor of 2  
+(c) Increases by 100 times  
+(d) Decreases by 100 times  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** $[H^+] = 10^{-\text{pH}}$.
+
+**Ans: C.** Increases by 100 times
+</details>
+
+---
+
+**Q-ST3.**
+
+What is the color of phenolphthalein in a dilute aqueous solution of sodium hydroxide?
+(a) Colorless  
+(b) Deep pink / magenta  
+(c) Yellow  
+(d) Dark blue  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Phenolphthalein is an acid-base indicator that remains colorless in acidic and neutral solutions (pH $ 10.0$).
+
+**Ans: B.** Deep pink / magenta
+</details>
+
+---
+
+**Q-ST4.**
+
+Why is tartaric acid mixed with sodium hydrogen carbonate to make commercial baking powder?
+(a) To accelerate the release of oxygen gas  
+(b) To neutralize the alkaline sodium carbonate formed on heating, preventing a bitter taste  
+(c) To impart an artificial fruit flavor  
+(d) To act as a preservative against mold  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** When baking soda ($NaHCO3$) is heated, it decomposes into $Na2CO3$, $H2O$, and $CO2$.
+
+**Ans: B.** To neutralize the alkaline sodium carbonate formed on heating, preventing a bitter taste
+</details>
+
+---
+
+**Q-ST5.**
+
+Which of the following substances contains water of crystallization?
+(a) Baking Soda ($NaHCO_3$)  
+(b) Washing Soda ($Na_2CO_3 \cdot 10H_2O$)  
+(c) Common Salt ($NaCl$)  
+(d) Slaked Lime ($Ca(OH)_2$)  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Washing soda contains 10 molecules of water of crystallization ($Na2CO3 \cdot 10H2O$).
+
+**Ans: B.** Washing Soda ($Na2CO3 \cdot 10H2O$)
+</details>
+
+---
+
+**Q-ST6.**
+
+What is formed when gypsum is heated above $200^\circ\text{C}$ ($473\text{ K}$)?
+(a) Plaster of Paris  
+(b) Quicklime  
+(c) Dead burnt plaster (anhydrous $CaSO_4$)  
+(d) Slaked lime  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Heating gypsum above $200^\circ\text{C}$ drives off all water of crystallization, leaving anhydrous calcium sulphate ($CaSO4$), commonly termed "dead burnt plaster", which loses its hydraulic setting properties.
+
+**Ans: C.** Dead burnt plaster (anhydrous $CaSO4$)
+</details>
+
+---
+
+**Q-ST7.**
+
+Which of the following acids is present in stinging nettle leaves and ant bites?
+(a) Methanoic acid (formic acid)  
+(b) Ethanoic acid (acetic acid)  
+(c) Oxalic acid  
+(d) Citric acid  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Stinging hairs of nettles and venom sacs of red ants inject methanoic acid ($HCOOH$), causing local inflammation and a burning sensation.
+
+**Ans: A.** Methanoic acid (formic acid)
+</details>
+
+---
+
+**Q-ST8.**
+
+A solution turns red litmus paper blue. Its pH is most likely:
+(a) 1  
+(b) 4  
+(c) 5  
+(d) 10  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches 10.
+
+**Ans: D.** 10
+</details>
+
+---
+
+**Q-ST9.**
+
+Which of the following compounds is a double salt?
+(a) Potassium chloride  
+(b) Potash alum ($K_2SO_4 \cdot Al_2(SO_4)_3 \cdot 24H_2O$)  
+(c) Bleaching powder  
+(d) Copper sulphate  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Potash alum is an equimolar double salt composed of potassium sulphate and aluminium sulphate crystallized with 24 water molecules.
+
+**Ans: B.** Potash alum ($K2SO4 \cdot Al2(SO4)3 \cdot 24H2O$)
+</details>
+
+---
+
+**Q-ST10.**
+
+The primary acid present in vinegar is:
+(a) Acetic acid ($CH_3COOH$)  
+(b) Formic acid ($HCOOH$)  
+(c) Butyric acid  
+(d) Propionic acid  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Vinegar is an aqueous solution containing $4–8\%$ acetic acid (ethanoic acid).
+
+**Ans: A.** Acetic acid ($CH3COOH$)
+</details>
+
+---
+
+**Q-ST11.**
+
+Which of the following is classified as a non-reducing sugar?
+(a) Maltose  
+(b) Lactose  
+(c) Sucrose  
+(d) Glucose  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Sucrose.
+
+**Ans: C.** Sucrose
+</details>
+
+---
+
+**Q-ST12.**
+
+What is the artificial sweetener that is approximately $550\text{ times}$ sweeter than cane sugar and excreted unchanged in human urine?
+(a) Aspartame  
+(b) Saccharin  
+(c) Sucralose  
+(d) Alitame  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Saccharin (o-sulphobenzimide) was the first synthetic artificial sweetener ($\sim 550\times$ sucrose), passes un-metabolized through the renal system, and provides zero calories.
+
+**Ans: B.** Saccharin
+</details>
+
+---
+
+**Q-ST13.**
+
+Which of the following salts produces an alkaline (basic) solution when dissolved in pure water?
+(a) Ammonium chloride ($NH_4Cl$)  
+(b) Sodium acetate ($CH_3COONa$)  
+(c) Sodium chloride ($NaCl$)  
+(d) Copper sulphate ($CuSO_4$)  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Sodium acetate is the salt of a weak acid ($CH3COOH$) and a strong base ($NaOH$).
+
+**Ans: B.** Sodium acetate ($CH3COONa$)
+</details>
+
+---
+
+**Q-ST14.**
+
+In the human body, the carbonic acid-bicarbonate buffer system operates to maintain the pH of:
+(a) Gastric juice  
+(b) Blood plasma  
+(c) Bile juice  
+(d) Pancreatic juice  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The $H2CO3 / HCO3^-$ buffer system maintains systemic blood plasma pH within the critical $7.35–7.45$ range.
+
+**Ans: B.** Blood plasma
+</details>
+
+---
+
+**Q-ST15.**
+
+What is the chemical formula of "Green Vitriol"?
+(a) $CuSO_4 \cdot 5H_2O$  
+(b) $FeSO_4 \cdot 7H_2O$  
+(c) $ZnSO_4 \cdot 7H_2O$  
+(d) $MgSO_4 \cdot 7H_2O$  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Green Vitriol is ferrous sulphate heptahydrate ($FeSO4 \cdot 7H2O$).
+
+**Ans: B.** $FeSO4 \cdot 7H2O$
+</details>
+
+---
+
+**Q-ST16.**
+
+Methyl orange indicator displays which of the following colors in an acidic solution?
+(a) Yellow  
+(b) Red / pink  
+(c) Deep blue  
+(d) Colorless  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Methyl orange is red/pink in acidic solutions (pH $ 4.4$).
+
+**Ans: B.** Red / pink
+</details>
+
+---
+
+**Q-ST17.**
+
+Bordeaux mixture, a widely used agricultural fungicide, consists of an aqueous mixture of:
+(a) Copper sulphate and slaked lime  
+(b) Iron sulphate and caustic soda  
+(c) Zinc sulphate and sodium carbonate  
+(d) Lead nitrate and lime  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Bordeaux mixture was discovered in France by P.M.A.
+
+**Ans: A.** Copper sulphate and slaked lime
+</details>
+
+---
+
+**Q-ST18.**
+
+Hydrolysis of cane sugar (sucrose) yields:
+(a) Two molecules of glucose  
+(b) One molecule of glucose and one molecule of fructose  
+(c) One molecule of glucose and one molecule of galactose  
+(d) Two molecules of fructose  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Enzymatic or acid hydrolysis breaks the $\alpha-1,\beta-2$ glycosidic linkage in sucrose to yield one molecule of D-glucose and one molecule of D-fructose.
+
+**Ans: B.** One molecule of glucose and one molecule of fructose
+</details>
+
+---
+
+**Q-ST19.**
+
+Which of the following is a symptom of dental caries triggered by oral acidity?
+(a) Enamel dissolving below oral pH 5.5  
+(b) Enamel hardening above oral pH 8.0  
+(c) Conversion of teeth to calcium chloride  
+(d) Salivary glands shutting down  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Acid produced by bacterial fermentation of carbohydrates dissolves calcium hydroxyapatite enamel when oral pH drops below 5.5.
+
+**Ans: A.** Enamel dissolving below oral pH 5.5
+</details>
+
+---
+
+**Q-ST20.**
+
+What type of indicator are onion juice and vanilla essence?
+(a) Synthetic azo indicators  
+(b) Olfactory indicators  
+(c) Universal indicators  
+(d) Fluorescent indicators  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Olfactory indicators change their scent in acidic vs basic conditions.
+
+**Ans: B.** Olfactory indicators
+</details>
+
+---
+
+**Q-ST21.**
+
+Why does pure water at $50^\circ\text{C}$ have a pH of $\approx 6.63$ while remaining strictly neutral?
+(a) Because it contains dissolved carbonic acid  
+(b) Because self-ionization of water is endothermic, increasing $[H^+]$ and $[OH^-]$ equally  
+(c) Because hot water absorbs atmospheric nitrogen  
+(d) Because thermometer calibrations fail at $50^\circ\text{C}$  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** $H2O \rightleftharpoons H^+ + OH^-$ is endothermic.
+
+**Ans: B.** Because self-ionization of water is endothermic, increasing $[H^+]$ and $[OH^-]$ equally
+</details>
+
+---
+
+**Q-ST22.**
+
+Which of the following compounds is commonly known as "Caustic Potash"?
+(a) $NaOH$  
+(b) $KOH$  
+(c) $Ca(OH)_2$  
+(d) $Mg(OH)_2$  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches $KOH$.
+
+**Ans: B.** $KOH$
+</details>
+
+---
+
+**Q-ST23.**
+
+An acid that contains three replaceable hydrogen ions per molecule (tribasic acid) is:
+(a) Hydrochloric acid ($HCl$)  
+(b) Sulphuric acid ($H_2SO_4$)  
+(c) Phosphoric acid ($H_3PO_4$)  
+(d) Nitric acid ($HNO_3$)  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Phosphoric acid ($H3PO4$) has three ionizable hydroxyl protons attached to phosphorus, making it a tribasic acid.
+
+**Ans: C.** Phosphoric acid ($H3PO4$)
+</details>
+
+---
+
+**Q-ST24.**
+
+Which of the following artificial sweeteners has the highest relative sweetness rating?
+(a) Aspartame  
+(b) Saccharin  
+(c) Alitame  
+(d) Sucralose  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Alitame.
+
+**Ans: C.** Alitame
+</details>
+
+---
+
+**Q-ST25.**
+
+The loss of water of crystallization by hydrated crystals upon exposure to dry air is termed:
+(a) Deliquescence  
+(b) Efflorescence  
+(c) Hygroscopy  
+(d) Sublimation  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Efflorescence is the spontaneous loss of water of crystallization to dry air (e.g., washing soda $Na2CO3 \cdot 10H2O$ efflorescing to $Na2CO3 \cdot H2O$).
+
+**Ans: B.** Efflorescence
+</details>
+
+---
+
+**Q-ST26.**
+
+What is the chemical formula of "White Vitriol"?
+(a) $CuSO_4 \cdot 5H_2O$  
+(b) $FeSO_4 \cdot 7H_2O$  
+(c) $ZnSO_4 \cdot 7H_2O$  
+(d) $Na_2SO_4 \cdot 10H_2O$  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** White Vitriol is zinc sulphate heptahydrate ($ZnSO4 \cdot 7H2O$).
+
+**Ans: C.** $ZnSO4 \cdot 7H2O$
+</details>
+
+---
+
+## Common Traps & High-Yield Pitfalls
+
+| Trap Area | What Students Confuse | Correct Fact |
+|---|---|---|
+| **Baking vs. Washing Soda** | Mixing up $NaHCO_3$ and $Na_2CO_3 \cdot 10H_2O$. | **Baking Soda is $NaHCO_3$** (contains Hydrogen). **Washing Soda is $Na_2CO_3 \cdot 10H_2O$** (10 waters). |
+| **Plaster of Paris Water Count** | Forgetting whether PoP has $\frac{1}{2}$ or $2$ water molecules. | **Plaster of Paris has $\frac{1}{2}\text{ H}_2\text{O}$** ($CaSO_4 \cdot \frac{1}{2}H_2O$). **Gypsum has $2\text{ H}_2\text{O}$** ($CaSO_4 \cdot 2H_2O$). |
+| **pH Direction Rules** | Reading fast and accepting "Acids have pH > 7". | **Acids have pH < 7**. **Bases have pH > 7**. pH 7 is neutral at $25^\circ\text{C}$. |
+| **Hot Water Neutrality** | Assuming water at $50^\circ\text{C}$ with pH 6.63 is acidic. | It is **strictly neutral** because $[H^+] = [OH^-]$. Neutrality means equal concentrations, not rigidly pH 7.0. |
+| **Sucrose Reducing Ability** | Assuming all sweet sugars are reducing sugars. | **Sucrose is a NON-REDUCING sugar**. Both anomeric carbons are locked in the glycosidic bond. |
+| **Sweetest Natural Sugar** | Believing glucose or sucrose is the sweetest sugar. | **Fructose is the sweetest natural sugar** ($\sim 170$ vs sucrose 100). |
+| **Ant Sting Acid** | Answering acetic acid for ant bites. | Ant stings inject **Methanoic acid (Formic acid, $HCOOH$)**, not acetic acid. |
+| **Kidney Stone Composition** | Assuming kidney stones are made of uric acid or calcium carbonate. | $\approx 80\%$ of kidney stones are composed of insoluble **Calcium Oxalate ($CaC_2O_4$)**. |
+| **Aspartame Cooking Trap** | Thinking aspartame can be used in baked goods. | Aspartame **decomposes at cooking temperatures**; only sucralose and saccharin are heat-stable. |
+| **Turmeric Color in Base** | Expecting turmeric to turn blue or green in base. | Turmeric turns **reddish-brown in basic solutions** (like soap), and stays yellow in acids. |
+
+---
 

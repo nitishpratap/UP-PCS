@@ -241,384 +241,6 @@ Launched to incentivize girl child birth, prevent female feticide, ensure 100% i
 
 ---
 
-## Complete PYQ Bank (UPPCS)
-
-> Verified stems from UPPCS Prelims (and closely related UP papers). Extra Drill follows.
-
-**Q1. UPPCS (Pre) 2025**
-As per ODOP of Uttar Pradesh, Moonj products are associated with:
-A. Amethi & Sultanpur
-B. Only Sant Kabir Nagar
-C. Only Varanasi
-D. Only Meerut
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Launch date 24 Jan 2018 — pair with scheme CA.
-
-**Ans: A.** Amethi and Sultanpur.
-
-</details>
-
-**Q2. Standard UPPCS**
-State Emblem of Uttar Pradesh features:
-A. Only Ashoka Chakra
-B. Pair of fishes (matsya) with bow–arrow motif from Awadh legacy
-C. Only tiger
-D. Only lotus
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Don’t confuse with national Lion Capital.
-
-**Ans: B.** Twin fish emblem from Awadh heraldry.
-
-</details>
-
-
----
-
-## Ghatnachakra Extra Drill — Current Affairs Schemes Miscellaneous
-
-> Multi-exam / other-State PCS / standard coaching stems for the same topic map.
-
-**Q1. Standard UPPCS**
-National Milk Day (26 Nov) commemorates:
-A. C.V. Raman
-B. Verghese Kurien
-C. M.S. Swaminathan
-D. Homi Bhabha
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Also Constitution Day — twin observance trap.
-
-**Ans: B.** Verghese Kurien (White Revolution).
-
-</details>
-
-
----
-
-
-### Other Papers — BPSC / MPPSC / RAS / UKPCS / UPSC / WBCS
-
-**Q2. UPSC (CSE) Prelims 2013**
-To obtain full benefits of demographic dividend, what should India do?
-A. Promoting skill development
-B. Introducing more social security schemes
-C. Reducing infant mortality rate
-D. Privatization of higher education
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Scheme–skilling link for miscellaneous Extra Drill.
-
-**Ans: A.** Promoting skill development.
-
-</details>
-
-## Practice Zone
-
-1. The pair of fish (*Matsya*) incorporated into the official State Emblem of Uttar Pradesh is historically derived from the royal insignia of:
-   (A) Chandela Kings of Mahoba
-   (B) Nawabs of Awadh
-   (C) Sharqi Sultans of Jaunpur
-   (D) Bundela Kings of Orchha
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Nawabs of Awadh</b><br>
-<b>Explanation:</b> The twin fish (*Matsya*) symbol on the UP State Seal was adapted directly from the royal coat of arms of the Nawabs of Awadh (Faizabad/Lucknow), who used the *Mahi-o-Maratib* fish insignia.
-</details>
-
-2. The three wave lines in the official State Emblem of Uttar Pradesh symbolize:
-   (A) Ganga, Yamuna and Saraswati
-   (B) Ganga, Yamuna and Gomti
-   (C) Ganga, Saryu and Rapti
-   (D) Ganga, Ramganga and Betwa
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (A) Ganga, Yamuna and Saraswati</b><br>
-<b>Explanation:</b> The three flowing wavy lines in the center of the UP State Seal represent the holy confluence (*Triveni Sangam*) of the rivers Ganga, Yamuna, and the mythical subterranean Saraswati at Prayagraj.
-</details>
-
-3. What is the scientific Latin name of the State Animal of Uttar Pradesh (Swamp Deer)?
-   (A) *Panthera tigris*
-   (B) *Rucervus duvaucelii*
-   (C) *Antigone antigone*
-   (D) *Platanista gangetica*
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) *Rucervus duvaucelii*</b><br>
-<b>Explanation:</b> The scientific name of the Swamp Deer (Barasingha), the official State Animal of Uttar Pradesh, is *Rucervus duvaucelii*.
-</details>
-
-4. What is the scientific Latin name of the State Flower of Uttar Pradesh (Palash)?
-   (A) *Nelumbo nucifera*
-   (B) *Saraca asoca*
-   (C) *Butea monosperma*
-   (D) *Michelia champaca*
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) *Butea monosperma*</b><br>
-<b>Explanation:</b> The scientific name of Palash (Dhak/Tesu), the official State Flower of UP, is *Butea monosperma*.
-</details>
-
-5. What is the maximum annual family income limit prescribed for eligibility under the Mukhyamantri Kanya Sumangala Yojana?
-   (A) ₹1.5 Lakh
-   (B) ₹2.0 Lakh
-   (C) ₹3.0 Lakh
-   (D) ₹5.0 Lakh
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) ₹3.0 Lakh</b><br>
-<b>Explanation:</b> To be eligible for the Mukhyamantri Kanya Sumangala Yojana, the total annual income of the girl child's family must not exceed ₹3,00,000 (₹3 Lakh).
-</details>
-
-6. In which year was the 'Nivesh Mitra' single-window digital portal launched by the Government of Uttar Pradesh?
-   (A) 2014
-   (B) 2018
-   (C) 2020
-   (D) 2022
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) 2018</b><br>
-<b>Explanation:</b> Nivesh Mitra was launched in February 2018 at the UP Investors Summit as a comprehensive single-window online portal to streamline statutory clearances for industrial investors.
-</details>
-
-7. The 'UP Gaurav Samman', which replaced the Yash Bharti awards, carries a cash prize of:
-   (A) ₹5 Lakh
-   (B) ₹8 Lakh
-   (C) ₹11 Lakh
-   (D) ₹15 Lakh
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) ₹11 Lakh</b><br>
-<b>Explanation:</b> The UP Gaurav Samman carries a cash reward of ₹11 Lakh, a shawl, and a citation, presented to individuals who have brought national or international recognition to Uttar Pradesh.
-</details>
-
-8. Who was the first recipient of the 'Bharat Bharti Puraskar' from the Uttar Pradesh Hindi Sansthan in 1982?
-   (A) Mahadevi Varma
-   (B) Ramdhari Singh Dinkar
-   (C) Harivansh Rai Bachchan
-   (D) Sachchidananda Vatsyayan 'Agyeya'
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (A) Mahadevi Varma</b><br>
-<b>Explanation:</b> Smt. Mahadevi Varma, the renowned Chhayavadi poetess and writer from Prayagraj, was honored with the inaugural Bharat Bharti Puraskar in 1982.
-</details>
-
-9. The 'Laxman Award' and 'Rani Lakshmibai Award' are the highest state awards in Uttar Pradesh conferred in which field?
-   (A) Classical Music and Dance
-   (B) Sports and Athletics
-   (C) Scientific Research
-   (D) Journalism and Media
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Sports and Athletics</b><br>
-<b>Explanation:</b> The Laxman Award (for male athletes) and Rani Lakshmibai Award (for female athletes) are the highest state sports honors conferred by the Sports Department of Uttar Pradesh.
-</details>
-
-10. Who was the first Chief Justice of the High Court of Judicature at Allahabad after India attained independence in 1947?
-   (A) Justice Bidhu Bhushan Malik
-   (B) Justice Walter Morgan
-   (C) Justice Shah Muhammad Sulaiman
-   (D) Justice Kamala Kant Verma
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (A) Justice Bidhu Bhushan Malik</b><br>
-<b>Explanation:</b> Justice Bidhu Bhushan Malik was the first Indian Chief Justice of the Allahabad High Court post-independence, serving from 1947 to 1955.
-</details>
-
-11. The world's longest luxury river cruise, 'MV Ganga Vilas', which traveled from Varanasi to Dibrugarh (3,200 km), was flagged off in:
-   (A) January 2021
-   (B) January 2022
-   (C) January 2023
-   (D) January 2024
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) January 2023</b><br>
-<b>Explanation:</b> MV Ganga Vilas was flagged off from Varanasi on 13 January 2023 by Prime Minister Narendra Modi, covering 3,200 km across 27 river systems in India and Bangladesh.
-</details>
-
-12. Which city in Uttar Pradesh was designated as the first-ever 'Tourism and Cultural Capital' of the Shanghai Cooperation Organisation (SCO) for the year 2022–2023?
-   (A) Lucknow
-   (B) Ayodhya
-   (C) Varanasi
-   (D) Agra
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) Varanasi</b><br>
-<b>Explanation:</b> Varanasi was officially nominated as the first SCO Tourism and Cultural Capital during the Samarkand SCO Summit for the year 2022–2023.
-</details>
-
-13. Under the 'One District One Cuisine' (ODOC) initiative launched on UP Diwas 2026, the state government aims to:
-   (A) Distribute free mid-day meals in rural schools
-   (B) Brand and promote traditional culinary dishes from each of the 75 districts
-   (C) Open subsidized community kitchens in urban slum clusters
-   (D) Ban processed junk food in educational institutions
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Brand and promote traditional culinary dishes from each of the 75 districts</b><br>
-<b>Explanation:</b> Modeled on the successful ODOP scheme, ODOC promotes indigenous traditional gastronomic specialties (e.g., Agra Petha, Mathura Peda, Jaunpur Imarti, Sandila Laddu, Moradabad Dal) across all 75 districts.
-</details>
-
-14. Which city in Uttar Pradesh is known as "Shiraz-e-Hind" due to its medieval architectural and educational heritage?
-   (A) Lucknow
-   (B) Jaunpur
-   (C) Kannauj
-   (D) Varanasi
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Jaunpur</b><br>
-<b>Explanation:</b> Jaunpur was called "Shiraz-e-Hind" during the reign of Ibrahim Shah Sharqi because of its glorious patronage of Islamic learning, theology, Persian literature, and architecture.
-</details>
-
-15. Which district of Uttar Pradesh is known as the "Scissor City" (Kainchi Nagari) and "Kranti Nagar"?
-   (A) Aligarh
-   (B) Meerut
-   (C) Moradabad
-   (D) Saharanpur
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Meerut</b><br>
-<b>Explanation:</b> Meerut is nicknamed "Kainchi Nagari" for its handcrafted forged scissors and "Kranti Nagar" as the starting epicenter of the 1857 First War of Independence.
-</details>
-
-16. Which district of Uttar Pradesh is nicknamed "Aonla Nagari" (Indian Gooseberry Capital)?
-   (A) Prayagraj
-   (B) Pratapgarh
-   (C) Kaushambi
-   (D) Fatehpur
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Pratapgarh</b><br>
-<b>Explanation:</b> Pratapgarh is known as "Aonla Nagari" because it produces the largest crop of Aonla in India and houses processing industries for aonla murabba and candies.
-</details>
-
-17. North India's first hyperscale data centre park, 'Yotta D1', was inaugurated in which city of Uttar Pradesh?
-   (A) Lucknow
-   (B) Kanpur
-   (C) Greater Noida
-   (D) Varanasi
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) Greater Noida</b><br>
-<b>Explanation:</b> Yotta D1, North India's first 6-storey hyperscale data center built by the Hiranandani Group, was inaugurated at Knowledge Park, Greater Noida in October 2022.
-</details>
-
-18. In which year was the 'Mukhyamantri Yuva Swarojgar Yojana' launched to provide margin money subsidies for self-employment in UP?
-   (A) 2017
-   (B) 2018
-   (C) 2020
-   (D) 2022
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) 2018</b><br>
-<b>Explanation:</b> Mukhyamantri Yuva Swarojgar Yojana was launched in 2018 to provide 25% margin money subsidies for youth setting up micro industrial and service enterprises.
-</details>
-
-19. The 'Mission Shakti' campaign for women's safety, dignity, and self-reliance in Uttar Pradesh functions under which triple motto?
-   (A) Shiksha, Seva, Samarpan
-   (B) Suraksha, Samman, Swavalamban
-   (C) Shakti, Samriddhi, Shanti
-   (D) Nyay, Vikas, Vishwas
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Suraksha, Samman, Swavalamban</b><br>
-<b>Explanation:</b> Mission Shakti operates under the core philosophy of *Suraksha* (Security), *Samman* (Dignity), and *Swavalamban* (Self-reliance) for all women and girls in Uttar Pradesh.
-</details>
-
-20. The 'Mukhyamantri Khet Talab Yojana' was implemented primarily to combat agricultural drought in which region of Uttar Pradesh?
-   (A) Rohilkhand
-   (B) Terai
-   (C) Bundelkhand
-   (D) Purvanchal
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) Bundelkhand</b><br>
-<b>Explanation:</b> Mukhyamantri Khet Talab Yojana was launched in the 7 districts of Bundelkhand to provide a 50% subsidy to farmers for excavating on-farm rainwater harvesting ponds.
-</details>
-
-21. What compensation amount is provided to the nominee family under the 'UP Krishak Durghatna Kalyan Yojana' in case of accidental death of a registered farmer?
-   (A) ₹2 Lakh
-   (B) ₹3 Lakh
-   (C) ₹5 Lakh
-   (D) ₹10 Lakh
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) ₹5 Lakh</b><br>
-<b>Explanation:</b> Under the UP Krishak Durghatna Kalyan Yojana, a financial compensation of ₹5,00,000 (₹5 Lakh) is provided to the family upon the accidental death or permanent disability of an agriculturalist.
-</details>
-
-22. Which city in Uttar Pradesh is known as "Peetal Nagari" (Brass City) and accounts for over 40% of India's metal handicraft exports?
-   (A) Aligarh
-   (B) Moradabad
-   (C) Hathras
-   (D) Firozabad
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Moradabad</b><br>
-<b>Explanation:</b> Moradabad is world-renowned as "Peetal Nagari" for its extensive cottage and export-oriented brass casting, etching, and metalware industries.
-</details>
-
-23. Which district of Uttar Pradesh is famously known as the "Carpet City" (Kaleen Nagari)?
-   (A) Bhadohi (Sant Ravidas Nagar)
-   (B) Mirzapur
-   (C) Sonbhadra
-   (D) Varanasi
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (A) Bhadohi (Sant Ravidas Nagar)</b><br>
-<b>Explanation:</b> Bhadohi is officially recognized worldwide as the "Carpet City" (Kaleen Nagari), producing the finest hand-knotted Persian and oriental woollen carpets.
-</details>
-
-24. The famous 'Nandini Krishak Samriddhi Yojana' provides capital subsidy up to what percentage for establishing high-yielding indigenous dairy units?
-   (A) 25%
-   (B) 33%
-   (C) 50%
-   (D) 75%
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) 50%</b><br>
-<b>Explanation:</b> Nandini Krishak Samriddhi Yojana provides up to a 50% subsidy (up to ₹31.25 Lakh on a total project cost of ₹62.5 Lakh) for setting up 25-cow dairy farms of indigenous breeds (Gir, Sahiwal, Tharparkar).
-</details>
-
-25. The 'Nivesh Sarathi' portal of the Government of Uttar Pradesh is designed specifically for:
-   (A) Applying for driving licenses
-   (B) End-to-end monitoring and implementation of Investment MoUs signed during Investors Summits
-   (C) Tracking crop loss compensation
-   (D) Digital land mutation
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) End-to-end monitoring and implementation of Investment MoUs signed during Investors Summits</b><br>
-<b>Explanation:</b> Nivesh Sarathi was launched by Invest UP to track, monitor, and resolve inter-departmental hurdles in converting investment MoUs into operational industrial projects on the ground.
-</details>
-
-26. Which town in Lucknow district is world-renowned as the "Mango City" (Aam Nagari) for its GI-tagged Dasheri mangoes?
-   (A) Mohanlalganj
-   (B) Malihabad
-   (C) Kakori
-   (D) Bakshi Ka Talab
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Malihabad</b><br>
-<b>Explanation:</b> Malihabad is famous across the globe as the "Mango City", home to century-old orchards producing the celebrated GI-tagged Dasheri mango variety.
-</details>
-
-## Common Traps
-
-| Trap | Correct |
-|---|---|
-| Mixing Absolute vs % ranks | Match the stem metric first |
-
-
----
-
 ## Bilingual Terminology -- UP Schemes and Current Affairs
 
 | English | Hindi | Key Anchor |
@@ -678,6 +300,84 @@ D. Privatization of higher education
 
 ---
 
+## Complete PYQ Bank (UPPCS)
+
+> Verified stems from UPPCS Prelims (and closely related UP papers). Extra Drill follows.
+
+**Q1. UPPCS (Pre) 2025**
+As per ODOP of Uttar Pradesh, Moonj products are associated with:
+A. Amethi & Sultanpur
+B. Only Sant Kabir Nagar
+C. Only Varanasi
+D. Only Meerut
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Launch date 24 Jan 2018 — pair with scheme CA.
+
+**Ans: A.** Amethi and Sultanpur.
+
+</details>
+
+**Q2. Standard UPPCS**
+State Emblem of Uttar Pradesh features:
+A. Only Ashoka Chakra
+B. Pair of fishes (matsya) with bow–arrow motif from Awadh legacy
+C. Only tiger
+D. Only lotus
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Don’t confuse with national Lion Capital.
+
+**Ans: B.** Twin fish emblem from Awadh heraldry.
+
+</details>
+
+---
+
+## Ghatnachakra Extra Drill — Current Affairs Schemes Miscellaneous
+
+> Multi-exam / other-State PCS / standard coaching stems for the same topic map.
+
+**Q1. Standard UPPCS**
+National Milk Day (26 Nov) commemorates:
+A. C.V. Raman
+B. Verghese Kurien
+C. M.S. Swaminathan
+D. Homi Bhabha
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Also Constitution Day — twin observance trap.
+
+**Ans: B.** Verghese Kurien (White Revolution).
+
+</details>
+
+---
+
+### Other Papers — BPSC / MPPSC / RAS / UKPCS / UPSC / WBCS
+
+**Q2. UPSC (CSE) Prelims 2013**
+To obtain full benefits of demographic dividend, what should India do?
+A. Promoting skill development
+B. Introducing more social security schemes
+C. Reducing infant mortality rate
+D. Privatization of higher education
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Scheme–skilling link for miscellaneous Extra Drill.
+
+**Ans: A.** Promoting skill development.
+
+</details>
+
 ## UKPCS / BPSC / MPPSC Extra Drill -- UP Schemes
 
 **Q1. UKPCS (Pre) 2022**
@@ -690,10 +390,9 @@ D. 2022
 <details>
 <summary>Show answer</summary>
 
-**Logic:** The **Kashi Vishwanath Corridor** was inaugurated by PM Narendra Modi on **13 December 2021**. It created a 5 lakh sq ft walkway connecting Kashi Vishwanath temple to the Ganges ghats.
+**Logic:** Standard key matches 2021.
 
-**Ans: C.** 2021.
-
+**Ans: C.** 2021
 </details>
 
 **Q2. MPPSC (Pre) 2022**
@@ -706,7 +405,7 @@ D. Mathura-Aligarh and Jhansi-Kanpur
 <details>
 <summary>Show answer</summary>
 
-**Logic:** The UP Defence Corridor runs along two sub-corridors: **(1) Lucknow-Agra** (via Unnao, Kanpur) and **(2) Jhansi-Aligarh** (via Agra, Mathura). Target: Rs 20,000 crore investment by 2025.
+**Logic:** The UP Defence Corridor runs along two sub-corridors: **(1) Lucknow-Agra** (via Unnao, Kanpur) and **(2) Jhansi-Aligarh** (via Agra, Mathura).
 
 **Ans: A.** Lucknow-Agra and Jhansi-Aligarh.
 
@@ -722,7 +421,7 @@ D. Meerut
 <details>
 <summary>Show answer</summary>
 
-**Logic:** **Jewar Airport** (officially Noida International Airport) is being developed at Jewar in **Gautam Buddha Nagar** district. It is expected to be the largest airport in India by passenger capacity when complete.
+**Logic:** **Jewar Airport** (officially Noida International Airport) is being developed at Jewar in **Gautam Buddha Nagar** district.
 
 **Ans: B.** Gautam Buddha Nagar.
 
@@ -765,4 +464,352 @@ D. Rs 50 lakh crore
 | 13 | Bundelkhand Expressway inaugurated = **July 2022** |
 | 14 | Mission Shakti (UP) = women safety and empowerment (2020) |
 | 15 | UP CM Abhyudaya Yojana = free coaching for **IAS, NEET, JEE** |
+
+## Practice Zone
+
+1. The pair of fish (*Matsya*) incorporated into the official State Emblem of Uttar Pradesh is historically derived from the royal insignia of:
+   (A) Chandela Kings of Mahoba
+   (B) Nawabs of Awadh
+   (C) Sharqi Sultans of Jaunpur
+   (D) Bundela Kings of Orchha
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The twin fish (Matsya) symbol on the UP State Seal was adapted directly from the royal coat of arms of the Nawabs of Awadh (Faizabad/Lucknow), who used the Mahi-o-Maratib fish insignia.
+
+**Ans: B.** Nawabs of Awadh
+</details>
+
+2. The three wave lines in the official State Emblem of Uttar Pradesh symbolize:
+   (A) Ganga, Yamuna and Saraswati
+   (B) Ganga, Yamuna and Gomti
+   (C) Ganga, Saryu and Rapti
+   (D) Ganga, Ramganga and Betwa
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Don’t confuse with national Lion Capital.
+
+**Ans: A.** Ganga, Yamuna and Saraswati
+</details>
+
+3. What is the scientific Latin name of the State Animal of Uttar Pradesh (Swamp Deer)?
+   (A) *Panthera tigris*
+   (B) *Rucervus duvaucelii*
+   (C) *Antigone antigone*
+   (D) *Platanista gangetica*
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The scientific name of the Swamp Deer (Barasingha), the official State Animal of Uttar Pradesh, is Rucervus duvaucelii.
+
+**Ans: B.** Rucervus duvaucelii
+</details>
+
+4. What is the scientific Latin name of the State Flower of Uttar Pradesh (Palash)?
+   (A) *Nelumbo nucifera*
+   (B) *Saraca asoca*
+   (C) *Butea monosperma*
+   (D) *Michelia champaca*
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The scientific name of the Swamp Deer (Barasingha), the official State Animal of Uttar Pradesh, is Rucervus duvaucelii.
+
+**Ans: B.** Saraca asoca
+</details>
+
+5. What is the maximum annual family income limit prescribed for eligibility under the Mukhyamantri Kanya Sumangala Yojana?
+   (A) ₹1.5 Lakh
+   (B) ₹2.0 Lakh
+   (C) ₹3.0 Lakh
+   (D) ₹5.0 Lakh
+<details>
+<summary>Show answer</summary>
+
+**Logic:** To be eligible for the Mukhyamantri Kanya Sumangala Yojana, the total annual income of the girl child's family must not exceed ₹3,00,000 (₹3 Lakh).
+
+**Ans: C.** ₹3.0 Lakh
+</details>
+
+6. In which year was the 'Nivesh Mitra' single-window digital portal launched by the Government of Uttar Pradesh?
+   (A) 2014
+   (B) 2018
+   (C) 2020
+   (D) 2022
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Nivesh Mitra was launched in February 2018 at the UP Investors Summit as a comprehensive single-window online portal to streamline statutory clearances for industrial investors.
+
+**Ans: B.** 2018
+</details>
+
+7. The 'UP Gaurav Samman', which replaced the Yash Bharti awards, carries a cash prize of:
+   (A) ₹5 Lakh
+   (B) ₹8 Lakh
+   (C) ₹11 Lakh
+   (D) ₹15 Lakh
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The UP Gaurav Samman carries a cash reward of ₹11 Lakh, a shawl, and a citation, presented to individuals who have brought national or international recognition to Uttar Pradesh.
+
+**Ans: C.** ₹11 Lakh
+</details>
+
+8. Who was the first recipient of the 'Bharat Bharti Puraskar' from the Uttar Pradesh Hindi Sansthan in 1982?
+   (A) Mahadevi Varma
+   (B) Ramdhari Singh Dinkar
+   (C) Harivansh Rai Bachchan
+   (D) Sachchidananda Vatsyayan 'Agyeya'
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Smt.
+
+**Ans: A.** Mahadevi Varma
+</details>
+
+9. The 'Laxman Award' and 'Rani Lakshmibai Award' are the highest state awards in Uttar Pradesh conferred in which field?
+   (A) Classical Music and Dance
+   (B) Sports and Athletics
+   (C) Scientific Research
+   (D) Journalism and Media
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Laxman Award (for male athletes) and Rani Lakshmibai Award (for female athletes) are the highest state sports honors conferred by the Sports Department of Uttar Pradesh.
+
+**Ans: B.** Sports and Athletics
+</details>
+
+10. Who was the first Chief Justice of the High Court of Judicature at Allahabad after India attained independence in 1947?
+   (A) Justice Bidhu Bhushan Malik
+   (B) Justice Walter Morgan
+   (C) Justice Shah Muhammad Sulaiman
+   (D) Justice Kamala Kant Verma
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Justice Bidhu Bhushan Malik was the first Indian Chief Justice of the Allahabad High Court post-independence, serving from 1947 to 1955.
+
+**Ans: A.** Justice Bidhu Bhushan Malik
+</details>
+
+11. The world's longest luxury river cruise, 'MV Ganga Vilas', which traveled from Varanasi to Dibrugarh (3,200 km), was flagged off in:
+   (A) January 2021
+   (B) January 2022
+   (C) January 2023
+   (D) January 2024
+<details>
+<summary>Show answer</summary>
+
+**Logic:** MV Ganga Vilas was flagged off from Varanasi on 13 January 2023 by Prime Minister Narendra Modi, covering 3,200 km across 27 river systems in India and Bangladesh.
+
+**Ans: C.** January 2023
+</details>
+
+12. Which city in Uttar Pradesh was designated as the first-ever 'Tourism and Cultural Capital' of the Shanghai Cooperation Organisation (SCO) for the year 2022–2023?
+   (A) Lucknow
+   (B) Ayodhya
+   (C) Varanasi
+   (D) Agra
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Varanasi was officially nominated as the first SCO Tourism and Cultural Capital during the Samarkand SCO Summit for the year 2022–2023.
+
+**Ans: C.** Varanasi
+</details>
+
+13. Under the 'One District One Cuisine' (ODOC) initiative launched on UP Diwas 2026, the state government aims to:
+   (A) Distribute free mid-day meals in rural schools
+   (B) Brand and promote traditional culinary dishes from each of the 75 districts
+   (C) Open subsidized community kitchens in urban slum clusters
+   (D) Ban processed junk food in educational institutions
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Modeled on the successful ODOP scheme, ODOC promotes indigenous traditional gastronomic specialties (e.g., Agra Petha, Mathura Peda, Jaunpur Imarti, Sandila Laddu, Moradabad Dal) across all 75 districts.
+
+**Ans: B.** Brand and promote traditional culinary dishes from each of the 75 districts
+</details>
+
+14. Which city in Uttar Pradesh is known as "Shiraz-e-Hind" due to its medieval architectural and educational heritage?
+   (A) Lucknow
+   (B) Jaunpur
+   (C) Kannauj
+   (D) Varanasi
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Jaunpur was called "Shiraz-e-Hind" during the reign of Ibrahim Shah Sharqi because of its glorious patronage of Islamic learning, theology, Persian literature, and architecture.
+
+**Ans: B.** Jaunpur
+</details>
+
+15. Which district of Uttar Pradesh is known as the "Scissor City" (Kainchi Nagari) and "Kranti Nagar"?
+   (A) Aligarh
+   (B) Meerut
+   (C) Moradabad
+   (D) Saharanpur
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Meerut is nicknamed "Kainchi Nagari" for its handcrafted forged scissors and "Kranti Nagar" as the starting epicenter of the 1857 First War of Independence.
+
+**Ans: B.** Meerut
+</details>
+
+16. Which district of Uttar Pradesh is nicknamed "Aonla Nagari" (Indian Gooseberry Capital)?
+   (A) Prayagraj
+   (B) Pratapgarh
+   (C) Kaushambi
+   (D) Fatehpur
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Meerut is nicknamed "Kainchi Nagari" for its handcrafted forged scissors and "Kranti Nagar" as the starting epicenter of the 1857 First War of Independence.
+
+**Ans: B.** Pratapgarh
+</details>
+
+17. North India's first hyperscale data centre park, 'Yotta D1', was inaugurated in which city of Uttar Pradesh?
+   (A) Lucknow
+   (B) Kanpur
+   (C) Greater Noida
+   (D) Varanasi
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Yotta D1, North India's first 6-storey hyperscale data center built by the Hiranandani Group, was inaugurated at Knowledge Park, Greater Noida in October 2022.
+
+**Ans: C.** Greater Noida
+</details>
+
+18. In which year was the 'Mukhyamantri Yuva Swarojgar Yojana' launched to provide margin money subsidies for self-employment in UP?
+   (A) 2017
+   (B) 2018
+   (C) 2020
+   (D) 2022
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Mukhyamantri Yuva Swarojgar Yojana was launched in 2018 to provide 25% margin money subsidies for youth setting up micro industrial and service enterprises.
+
+**Ans: B.** 2018
+</details>
+
+19. The 'Mission Shakti' campaign for women's safety, dignity, and self-reliance in Uttar Pradesh functions under which triple motto?
+   (A) Shiksha, Seva, Samarpan
+   (B) Suraksha, Samman, Swavalamban
+   (C) Shakti, Samriddhi, Shanti
+   (D) Nyay, Vikas, Vishwas
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Mission Shakti operates under the core philosophy of Suraksha (Security), Samman (Dignity), and Swavalamban (Self-reliance) for all women and girls in Uttar Pradesh.
+
+**Ans: B.** Suraksha, Samman, Swavalamban
+</details>
+
+20. The 'Mukhyamantri Khet Talab Yojana' was implemented primarily to combat agricultural drought in which region of Uttar Pradesh?
+   (A) Rohilkhand
+   (B) Terai
+   (C) Bundelkhand
+   (D) Purvanchal
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Mukhyamantri Khet Talab Yojana was launched in the 7 districts of Bundelkhand to provide a 50% subsidy to farmers for excavating on-farm rainwater harvesting ponds.
+
+**Ans: C.** Bundelkhand
+</details>
+
+21. What compensation amount is provided to the nominee family under the 'UP Krishak Durghatna Kalyan Yojana' in case of accidental death of a registered farmer?
+   (A) ₹2 Lakh
+   (B) ₹3 Lakh
+   (C) ₹5 Lakh
+   (D) ₹10 Lakh
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Under the UP Krishak Durghatna Kalyan Yojana, a financial compensation of ₹5,00,000 (₹5 Lakh) is provided to the family upon the accidental death or permanent disability of an agriculturalist.
+
+**Ans: C.** ₹5 Lakh
+</details>
+
+22. Which city in Uttar Pradesh is known as "Peetal Nagari" (Brass City) and accounts for over 40% of India's metal handicraft exports?
+   (A) Aligarh
+   (B) Moradabad
+   (C) Hathras
+   (D) Firozabad
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Jaunpur was called "Shiraz-e-Hind" during the reign of Ibrahim Shah Sharqi because of its glorious patronage of Islamic learning, theology, Persian literature, and architecture.
+
+**Ans: B.** Moradabad
+</details>
+
+23. Which district of Uttar Pradesh is famously known as the "Carpet City" (Kaleen Nagari)?
+   (A) Bhadohi (Sant Ravidas Nagar)
+   (B) Mirzapur
+   (C) Sonbhadra
+   (D) Varanasi
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Meerut is nicknamed "Kainchi Nagari" for its handcrafted forged scissors and "Kranti Nagar" as the starting epicenter of the 1857 First War of Independence.
+
+**Ans: B.** Mirzapur
+</details>
+
+24. The famous 'Nandini Krishak Samriddhi Yojana' provides capital subsidy up to what percentage for establishing high-yielding indigenous dairy units?
+   (A) 25%
+   (B) 33%
+   (C) 50%
+   (D) 75%
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Nandini Krishak Samriddhi Yojana provides up to a 50% subsidy (up to ₹31.25 Lakh on a total project cost of ₹62.5 Lakh) for setting up 25-cow dairy farms of indigenous breeds (Gir, Sahiwal, Tharparkar).
+
+**Ans: C.** 50%
+</details>
+
+25. The 'Nivesh Sarathi' portal of the Government of Uttar Pradesh is designed specifically for:
+   (A) Applying for driving licenses
+   (B) End-to-end monitoring and implementation of Investment MoUs signed during Investors Summits
+   (C) Tracking crop loss compensation
+   (D) Digital land mutation
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Nivesh Sarathi was launched by Invest UP to track, monitor, and resolve inter-departmental hurdles in converting investment MoUs into operational industrial projects on the ground.
+
+**Ans: B.** End-to-end monitoring and implementation of Investment MoUs signed during Investors Summits
+</details>
+
+26. Which town in Lucknow district is world-renowned as the "Mango City" (Aam Nagari) for its GI-tagged Dasheri mangoes?
+   (A) Mohanlalganj
+   (B) Malihabad
+   (C) Kakori
+   (D) Bakshi Ka Talab
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Malihabad is famous across the globe as the "Mango City", home to century-old orchards producing the celebrated GI-tagged Dasheri mango variety.
+
+**Ans: B.** Malihabad
+</details>
+
+## Common Traps
+
+| Trap | Correct |
+|---|---|
+| Mixing Absolute vs % ranks | Match the stem metric first |
+
+---
 

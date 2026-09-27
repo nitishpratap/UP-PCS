@@ -18,7 +18,6 @@ Full BoP / FPI depth stays in **Topic 9**. Regulator name-lists deepen in **Topi
 
 ## Current Affairs
 
-
 | Year | Fact | Why it matters |
 |------|------|----------------|
 | **2024** | **Singapore** as top FDI source in 2023–24 teaching; **India–Mauritius tax treaty** change shifted routing away from Mauritius. | A true + R explains A. |
@@ -32,7 +31,6 @@ Full BoP / FPI depth stays in **Topic 9**. Regulator name-lists deepen in **Topi
 ---
 
 ## Consolidated — 47 Must-Score Facts
-
 
 1. The **secondary sector** covers manufacturing, electricity, gas, water and construction in national-accounts teaching.
 2. **Industrialisation** raises manufacturing’s share of output and employment and deepens capital goods capacity.
@@ -86,7 +84,6 @@ Full BoP / FPI depth stays in **Topic 9**. Regulator name-lists deepen in **Topi
 
 ## Confused Pairs
 
-
 | A | B | Distinguishing fact |
 |---|---|---|
 | **Make in India 2014** | **Gati Shakti 2021** | Manufacturing mission vs infra master plan |
@@ -111,7 +108,6 @@ Full BoP / FPI depth stays in **Topic 9**. Regulator name-lists deepen in **Topi
 
 ## Must-score drill — missions and MSME
 
-
 | Item | Tag |
 |---|---|
 | Make in India | 25 Sep 2014; lion logo; manufacture + investment |
@@ -135,7 +131,6 @@ Full BoP / FPI depth stays in **Topic 9**. Regulator name-lists deepen in **Topi
 ---
 
 ## 7.1 Industrial structure and MSME
-
 
 **Industry** covers mining, manufacturing and electricity in the secondary-sector teaching map; manufacturing is the core policy focus of industrialisation.
 
@@ -170,7 +165,7 @@ Full BoP / FPI depth stays in **Topic 9**. Regulator name-lists deepen in **Topi
 - **Chemicals** and **textiles** are not in the eight-core list.
 - Heaviest Core weight overall is **refinery products**; among common three-way options, **electricity** often carries the highest weight.
 
-**UKPCS (Pre) 2021**
+**Q-EC1. UKPCS (Pre) 2021**
 
 In which of the following year, the latest classification of MSME was done?
 
@@ -182,13 +177,12 @@ D. 2020
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Revised composite MSME definition took effect from 1 July 2020.
+**Logic:** Revised composite MSME definition took effect from 1 July 2020 — 2020
 
-**Ans: D.** 2020.
-
+**Ans: D.** 2020
 </details>
 
-**UPPCS (Pre) 2019**
+**Q-EC2. UPPCS (Pre) 2019**
 
 Arrange the following Committees formed for small scale sector in a chronological order and select the correct answer from the codes given below.
 
@@ -205,16 +199,15 @@ D. I, II, III, IV
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Official key marks **IV, II, I, III** — Karve first, Kohli last. Some date lists put Nayak before Abid Hussain; for this stem follow the keyed code and remember Karve (1955) as the earliest anchor.
+**Logic:** Some date lists put Nayak before Abid Hussain; for this stem follow the keyed code and remember Karve (1955) as the earliest anchor.
 
-**Ans: C.** IV, II, I, III.
+**Ans: C.** Official key marks **IV, II, I, III** — Karve first, Kohli last.
 
 </details>
 
 ---
 
 ## 7.2 Industrial policy — Make in India, startups, corridors
-
 
 **Industrial policy** steers manufacturing capacity, investment climate and spatial clusters.
 
@@ -246,7 +239,7 @@ D. I, II, III, IV
 
 > **Logic:** Make in India ≠ Digital India. NMP 2011 ≠ Make in India 2014. PLI numbers are tranche-specific.
 
-**UPPCS (Pre) 2022**
+**Q-EC3. UPPCS (Pre) 2022**
 
 Which of the following statement(s) is/are correct about the 'Make in India' Programme?
 
@@ -263,16 +256,15 @@ D. Only 2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Both statements are true — launched September 2014; manufacturing + investment facilitation is the programme purpose. (Official 2022 booklet places “Both” as option A.)
+**Logic:** (Official 2022 booklet places “Both” as option A.)
 
-**Ans: A.** Both 1 and 2.
+**Ans: A.** Both statements are true — launched September 2014; manufacturing + investment facilitation is the programme purpose.
 
 </details>
 
 ---
 
 ## 7.3 PSU, disinvestment and FDI (industry angle)
-
 
 **Public Sector Undertakings (PSUs)** are government-owned enterprises in strategic and commercial sectors.
 
@@ -303,7 +295,7 @@ D. Only 2
 - Cement plants cluster near limestone; India is the world’s **second-largest** cement producer after China.
 - Fertiliser plants often use **natural gas** feedstock (e.g. Hazira KRIBHCO teaching); India is not fully self-reliant in chemicals/potash.
 
-**UPPCS (Pre) 2024**
+**Q-EC4. UPPCS (Pre) 2024**
 
 Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
 
@@ -321,13 +313,12 @@ D. (A) is true, but (R) is false.
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** Singapore leading as source is true for the cited year teaching; the Mauritius treaty change helps explain why routing and source-country ranks shifted.
+**A/R logic:** Decide from the stem options; keyed answer is Both (A) and (R) are true and (R) is the correct explanation of (A).
 
-**Ans: C.** Both (A) and (R) are true and (R) is the correct explanation of (A).
-
+**Ans: C.** Both (A) and (R) are true and (R) is the correct explanation of (A)
 </details>
 
-**UKPCS (Pre) 2016**
+**Q-EC5. UKPCS (Pre) 2016**
 
 Which sector in India attracts the highest FDI equity flow?
 
@@ -339,16 +330,15 @@ D. Automobile sector
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Services lead the cumulative / classic FDI equity-flow ranking in Indian teaching.
+**Logic:** Service sector.
 
-**Ans: C.** Service sector.
+**Ans: C.** Services lead the cumulative / classic FDI equity-flow ranking in Indian teaching.
 
 </details>
 
 ---
 
 ## 7.4 Infrastructure and PM Gati Shakti
-
 
 **Economic infrastructure** connects production and markets — transport, energy, logistics, digital and social infrastructure.
 
@@ -371,7 +361,7 @@ D. Automobile sector
 - **Nashik Metro Neo** teaching: India’s first rubber-tyred metro clearance story.
 - Sagarmala, Bharatmala and dedicated freight corridors are neighbouring logistics programmes in teaching.
 
-**UPPCS (Pre) 2023**
+**Q-EC6. UPPCS (Pre) 2023**
 
 With reference to PM Gati Shakti Scheme, which of the following statements is/are correct?
 
@@ -388,9 +378,9 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Seven engines statement is correct. Launch year is **2021** (13 October), not 2022 — so only statement 2 stands.
+**Logic:** Launch year is **2021** (13 October), not 2022 — so only statement 2 stands.
 
-**Ans: B.** Only 2.
+**Ans: B.** Seven engines statement is correct.
 
 </details>
 
@@ -398,8 +388,7 @@ D. Neither 1 nor 2
 
 ## Complete PYQ Bank (UPPCS)
 
-
-**Q1. UPPCS (Pre) 2022** — Make in India
+**Q1. UPPCS (Pre) 2022**
 
 Which of the following statement(s) is/are correct about the 'Make in India' Programme?
 
@@ -416,13 +405,12 @@ D. Only 2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 2014 launch + manufacturing/investment aim.
+**Logic:** 2014 launch + manufacturing/investment aim — Both 1 and 2
 
-**Ans: A.**
-
+**Ans: A.** Both 1 and 2
 </details>
 
-**Q2. UPPCS (Pre) 2023** — PM Gati Shakti
+**Q2. UPPCS (Pre) 2023**
 
 With reference to PM Gati Shakti Scheme, which of the following statements is/are correct?
 
@@ -439,13 +427,12 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Seven engines true; 2022 launch false.
+**Logic:** Seven engines true; 2022 launch false — Only 2
 
-**Ans: B.**
-
+**Ans: B.** Only 2
 </details>
 
-**Q3. UPPCS (Pre) 2019** — SSI committees chronology
+**Q3. UPPCS (Pre) 2019**
 
 Arrange the following Committees formed for small scale sector in a chronological order and select the correct answer from the codes given below.
 
@@ -462,13 +449,12 @@ D. I, II, III, IV
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Keyed Karve → Abid Hussain → Nayak → Kohli.
+**Logic:** Keyed Karve → Abid Hussain → Nayak → Kohli — IV, II, I, III
 
-**Ans: C.**
-
+**Ans: C.** IV, II, I, III
 </details>
 
-**Q4. UPPCS (Pre) 2024** — Singapore FDI A/R
+**Q4. UPPCS (Pre) 2024**
 
 Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
 
@@ -486,14 +472,12 @@ D. A true, R false
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** Source-country shift after Mauritius treaty.
+**Logic:** Standard key: Both true and R explains A.
 
-**Ans: C.**
-
+**Ans: C.** Both true and R explains A
 </details>
 
 ---
-
 
 **Q5. U.P. P.C.S. (Pre) 2020**
 Assertion (A): Government launched NIP for 2020–30.
@@ -506,10 +490,9 @@ D. A false R true
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** NIP horizon ≈ FY 2019–25.
+**Logic:** Standard key matches A false R true.
 
-**Ans: D.** A false; R true.
-
+**Ans: D.** A false R true
 </details>
 
 **Q6. U.P. P.C.S. (Pre) 2023**
@@ -522,13 +505,13 @@ D. Both
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Launch year is 2021, not 2022.
+**Logic:** Only seven-engines statement.
 
-**Ans: A.** Only seven-engines statement.
+**Ans: A.** Launch year is 2021, not 2022.
 
 </details>
 
-**Q7. U.P.P.C.S. (Pre) 2022**
+**Q7. UPPCS (Pre) 2022**
 Make in India launched 2014; aims to encourage manufacturing and facilitate investment — correct?
 A. Both 1 and 2
 B. Only 1
@@ -538,13 +521,12 @@ D. Only 2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Already standard key.
+**Logic:** Already standard key — Both 1 and 2
 
-**Ans: A.** Both.
-
+**Ans: A.** Both 1 and 2
 </details>
 
-**Q8. U.P.P.C.S. (Pre) 2024**
+**Q8. UPPCS (Pre) 2024**
 Match States with infrastructure expenditure rank 2019–23: Maharashtra, UP, Tamil Nadu, Karnataka.
 A. 1 2 3 4
 B. 2 1 3 4
@@ -554,9 +536,9 @@ D. 2 3 4 1
 <details>
 <summary>Show answer</summary>
 
-**Logic:** UP topped that expenditure ranking.
+**Logic:** UP 1st, Maharashtra 2nd, TN 3rd, Karnataka 4th.
 
-**Ans: B.** UP 1st, Maharashtra 2nd, TN 3rd, Karnataka 4th.
+**Ans: B.** UP topped that expenditure ranking.
 
 </details>
 
@@ -571,10 +553,9 @@ D. Both true and R explains
 <details>
 <summary>Show answer</summary>
 
-**Logic:** True
+**Logic:** Standard key matches A false R true.
 
-**Ans: B.** A false; R true.
-
+**Ans: B.** A false R true
 </details>
 
 **Q10. U.P. P.C.S. (Pre) 2025**
@@ -587,13 +568,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Not Corporate Affairs / Rural Development.
+**Logic:** Only Finance (DFS).
 
-**Ans: B.** Only Finance (DFS).
+**Ans: B.** Not Corporate Affairs / Rural Development.
 
 </details>
 
-**Q11. U.P.P.C.S. (Mains) 2017**
+**Q11. UPPCS (Mains) 2017**
 Minimum Wages Act, Industries (D&R) Act, MRTP, FERA — correct chronological order?
 A. 2,3,4,1
 B. 2,3,1,4
@@ -603,13 +584,13 @@ D. 4,2,3,1
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Code 4-2-1-3.
+**Logic:** 1948 → 1951 → 1969 → 1973.
 
-**Ans: C.** 1948 → 1951 → 1969 → 1973.
+**Ans: C.** Code 4-2-1-3.
 
 </details>
 
-**Q12. U.P.P.C.S. (Mains) 2016**
+**Q12. UPPCS (Mains) 2016**
 Which is not included in IIP?
 A. Manufacturing
 B. Mining
@@ -619,13 +600,13 @@ D. Construction
 <details>
 <summary>Show answer</summary>
 
-**Logic:** IIP trio only.
+**Logic:** Construction.
 
-**Ans: D.** Construction.
+**Ans: D.** IIP trio only.
 
 </details>
 
-**Q13. U.P.P.C.S. (Pre) 2017**
+**Q13. UPPCS (Pre) 2017**
 Start-up finance through angel / VC / crowdfunding?
 A. Angel only
 B. VC only
@@ -635,13 +616,12 @@ D. All the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** New-age financing.
+**Logic:** New-age financing — All the above
 
-**Ans: D.** All.
-
+**Ans: D.** All the above
 </details>
 
-**Q14. U.P. R.O./A.R.O. (Mains) 2021**
+**Q14. UP RO/ARO (Mains) 2021**
 Stand-up India scheme is related to:
 A. Minorities
 B. OBC
@@ -651,9 +631,9 @@ D. Women, SC and ST
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Greenfield entrepreneurship.
+**Logic:** Women, SC and ST.
 
-**Ans: D.** Women, SC and ST.
+**Ans: D.** Greenfield entrepreneurship.
 
 </details>
 
@@ -661,9 +641,7 @@ D. Women, SC and ST
 
 > Extra Drill filled from Ghatnachakra *Industrial Sector* Purvalokan.
 
-
 UPPCS-tagged stems live in **Complete PYQ Bank (UPPCS)** above. UKPCS-tagged stems live in **UKPCS** below. Use Practice Zone for fresh multi-statement drills.
-
 
 ### Ghatnachakra Purvalokan — Industrial Sector
 
@@ -677,9 +655,9 @@ D. Reliance Industries Ltd.
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 2006 Global 500 teaching — RIL first Indian private entrant.
+**Logic:** Reliance Industries Ltd.
 
-**Ans: D.** Reliance Industries Ltd.
+**Ans: D.** 2006 Global 500 teaching — RIL first Indian private entrant.
 
 </details>
 
@@ -693,9 +671,9 @@ D. State Bank of India
 <details>
 <summary>Show answer</summary>
 
-**Logic:** RIL topped Fortune India 500 in 2019 and subsequent recent years.
+**Logic:** Reliance Industries Ltd.
 
-**Ans: C.** Reliance Industries Ltd.
+**Ans: C.** RIL topped Fortune India 500 in 2019 and subsequent recent years.
 
 </details>
 
@@ -709,9 +687,9 @@ D. Reliance Industries
 <details>
 <summary>Show answer</summary>
 
-**Logic:** TCS later crossed briefly; RIL sustained above USD 200 bn in later teaching.
+**Logic:** Reliance Industries (Sep 2020 teaching).
 
-**Ans: D.** Reliance Industries (Sep 2020 teaching).
+**Ans: D.** TCS later crossed briefly; RIL sustained above USD 200 bn in later teaching.
 
 </details>
 
@@ -728,9 +706,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** PNGRB (2006) is not India’s first regulator; appeals use Electricity Appellate Tribunal.
+**Logic:** 2 and 3 only.
 
-**Ans: B.** 2 and 3 only.
+**Ans: B.** PNGRB (2006) is not India’s first regulator; appeals use Electricity Appellate Tribunal.
 
 </details>
 
@@ -744,13 +722,13 @@ D. Public Council of Research Association
 <details>
 <summary>Show answer</summary>
 
-**Logic:** MoPNG aegis energy-efficiency body.
+**Logic:** Petroleum Conservation Research Association.
 
-**Ans: C.** Petroleum Conservation Research Association.
+**Ans: C.** MoPNG aegis energy-efficiency body.
 
 </details>
 
-**Q6. U.P. R.O./A.R.O. (Pre) 2021**
+**Q6. UP RO/ARO (Pre) 2021**
 With reference to Indian Railways, which is/are correct?
 1. Achieving 100 percent electrification by 2023.
 2. A net zero carbon emission network by 2030.
@@ -762,13 +740,13 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Electrification mission + net-zero 2030 green-railway target.
+**Logic:** Both (as per the keyed mission statements).
 
-**Ans: C.** Both (as per the keyed mission statements).
+**Ans: C.** Electrification mission + net-zero 2030 green-railway target.
 
 </details>
 
-**Q7. U.P. R.O./A.R.O. (Pre) 2021**
+**Q7. UP RO/ARO (Pre) 2021**
 Where in India is the first rubber-based tyre Metro being built?
 A. Ahmednagar
 B. Surat
@@ -778,9 +756,9 @@ D. Nashik
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Rubber-tyred rapid transit teaching.
+**Logic:** Nashik (Metro Neo).
 
-**Ans: D.** Nashik (Metro Neo).
+**Ans: D.** Rubber-tyred rapid transit teaching.
 
 </details>
 
@@ -795,13 +773,13 @@ E. None of the above/More than one of the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Later stores in other metros — first was Hyderabad.
+**Logic:** Hyderabad (9 Aug 2018).
 
-**Ans: B.** Hyderabad (9 Aug 2018).
+**Ans: B.** Later stores in other metros — first was Hyderabad.
 
 </details>
 
-**Q9. U.P.P.C.S. (Mains) 2017**
+**Q9. UPPCS (Mains) 2017**
 Who was the chairman of the committee on revisiting and revitalizing the PPP model of infrastructure development?
 A. Rakesh Mohan
 B. V. Kelkar
@@ -811,9 +789,9 @@ D. Bibek Debroy
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Budget 2015–16 announcement → Kelkar PPP committee.
+**Logic:** Vijay Kelkar.
 
-**Ans: B.** Vijay Kelkar.
+**Ans: B.** Budget 2015–16 announcement → Kelkar PPP committee.
 
 </details>
 
@@ -828,9 +806,9 @@ E. None of the above / More than one of the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Bharatmala = highways/roads; Sagarmala = ports.
+**Logic:** Road infrastructure.
 
-**Ans: C.** Road infrastructure.
+**Ans: C.** Bharatmala = highways/roads; Sagarmala = ports.
 
 </details>
 
@@ -845,10 +823,9 @@ D. A false but R true
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** Do not memorise NIP as 2020–30.
+**Logic:** Standard key: A false but R true.
 
-**Ans: D.** A false (horizon ≈ FY 2019–25); R true.
-
+**Ans: D.** A false but R true
 </details>
 
 **Q12. 65th B.P.S.C. (Pre) 2019**
@@ -862,9 +839,9 @@ E. None of the above/More than one of the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Japan MoU 2006 teaching; Japan also assists CBIC.
+**Logic:** Delhi–Mumbai Industrial Corridor (DMIC).
 
-**Ans: C.** Delhi–Mumbai Industrial Corridor (DMIC).
+**Ans: C.** Japan MoU 2006 teaching; Japan also assists CBIC.
 
 </details>
 
@@ -878,9 +855,9 @@ D. Measures to reduce fiscal deficit
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Finance Ministry committee, Dec 2006.
+**Logic:** Financing infrastructure development.
 
-**Ans: B.** Financing infrastructure development.
+**Ans: B.** Finance Ministry committee, Dec 2006.
 
 </details>
 
@@ -895,9 +872,9 @@ E. None of the above/More than one of the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 2017 ICA teaching; retained in later years.
+**Logic:** Second (after China).
 
-**Ans: B.** Second (after China).
+**Ans: B.** 2017 ICA teaching; retained in later years.
 
 </details>
 
@@ -912,10 +889,9 @@ D. Both true and R explains A
 <details>
 <summary>Show answer</summary>
 
-**Logic:** True
+**Logic:** Standard key matches A false, R true.
 
-**Ans: B.** A false (downloads vs revenue framing); R true (~950m+ users).
-
+**Ans: B.** A false, R true
 </details>
 
 **Q16. I.A.S. (Pre) 2017**
@@ -930,9 +906,9 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** NIIF = Finance Ministry infra fund.
+**Logic:** Neither — not NITI; proposed corpus ≈ ₹40,000 crore teaching.
 
-**Ans: D.** Neither — not NITI; proposed corpus ≈ ₹40,000 crore teaching.
+**Ans: D.** NIIF = Finance Ministry infra fund.
 
 </details>
 
@@ -946,9 +922,9 @@ D. 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Do not mix Large Electronics and IT Hardware 2.0 numbers.
+**Logic:** Statements 2 and 3 incorrect (categories/rate–period mix).
 
-**Ans: D.** Statements 2 and 3 incorrect (categories/rate–period mix).
+**Ans: D.** Do not mix Large Electronics and IT Hardware 2.0 numbers.
 
 </details>
 
@@ -963,9 +939,9 @@ E. 25 November 2011
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 25% GDP / 100 million jobs / 12–14% growth objectives.
+**Logic:** 4 November 2011.
 
-**Ans: D.** 4 November 2011.
+**Ans: D.** 25% GDP / 100 million jobs / 12–14% growth objectives.
 
 </details>
 
@@ -982,9 +958,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** NMP toolkit.
+**Logic:** All three under NMP.
 
-**Ans: D.** All three under NMP.
+**Ans: D.** NMP toolkit.
 
 </details>
 
@@ -998,9 +974,9 @@ D. Uttar Pradesh
 <details>
 <summary>Show answer</summary>
 
-**Logic:** NIMZ under NMP 2011.
+**Logic:** Andhra Pradesh (Prakasam teaching).
 
-**Ans: A.** Andhra Pradesh (Prakasam teaching).
+**Ans: A.** NIMZ under NMP 2011.
 
 </details>
 
@@ -1015,13 +991,13 @@ E. None of the above/More than one of the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Digital society mission ≠ industrial facilitation package.
+**Logic:** Digital India.
 
-**Ans: D.** Digital India.
+**Ans: D.** Digital society mission ≠ industrial facilitation package.
 
 </details>
 
-**Q22. U.P.P.C.S. (Pre) 2017**
+**Q22. UPPCS (Pre) 2017**
 Specific requirements of start-ups can be fulfilled through:
 A. Angel Investors
 B. Venture capital
@@ -1031,9 +1007,9 @@ D. All the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** New-age financing alternatives.
+**Logic:** All the above.
 
-**Ans: D.** All the above.
+**Ans: D.** New-age financing alternatives.
 
 </details>
 
@@ -1049,10 +1025,9 @@ D. Neither
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Greenfield loans ₹10 lakh–₹1 crore teaching.
+**Logic:** Greenfield loans ₹10 lakh–₹1 crore teaching — Both 1 and 2
 
-**Ans: C.** Both.
-
+**Ans: C.** Both 1 and 2
 </details>
 
 **Q24. I.A.S. (Pre) 2016**
@@ -1065,9 +1040,9 @@ D. Funding voluntary organisations for skill development
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Shishu/Kishore/Tarun (+ Tarun Plus to ₹20 lakh).
+**Logic:** Formal credit for non-corporate micro enterprises.
 
-**Ans: A.** Formal credit for non-corporate micro enterprises.
+**Ans: A.** Shishu/Kishore/Tarun (+ Tarun Plus to ₹20 lakh).
 
 </details>
 
@@ -1084,9 +1059,9 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Not Corporate Affairs / Rural Development.
+**Logic:** Only Ministry of Finance (DFS).
 
-**Ans: B.** Only Ministry of Finance (DFS).
+**Ans: B.** Not Corporate Affairs / Rural Development.
 
 </details>
 
@@ -1102,13 +1077,12 @@ D. Neither
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Cabinet decision 1996 / society 1997 teaching.
+**Logic:** Cabinet decision 1996 / society 1997 teaching — Both 1 and 2
 
-**Ans: C.** Both.
-
+**Ans: C.** Both 1 and 2
 </details>
 
-**Q27. U.P.P.C.S. (Mains) 2017**
+**Q27. UPPCS (Mains) 2017**
 Correct chronological sequence of enactments:
 1. MRTP Act
 2. Industries (Development and Regulation) Act
@@ -1122,9 +1096,9 @@ D. 4, 2, 3, 1
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Code 4-2-1-3.
+**Logic:** Min Wages 1948 → IDR 1951 → MRTP 1969 → FERA 1973.
 
-**Ans: C.** Min Wages 1948 → IDR 1951 → MRTP 1969 → FERA 1973.
+**Ans: C.** Code 4-2-1-3.
 
 </details>
 
@@ -1138,13 +1112,13 @@ D. National Technical Manpower Information System
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Monthly voluntary returns from State labour departments.
+**Logic:** Labour Bureau.
 
-**Ans: C.** Labour Bureau.
+**Ans: C.** Monthly voluntary returns from State labour departments.
 
 </details>
 
-**Q29. U.P.P.C.S. (Mains) 2016**
+**Q29. UPPCS (Mains) 2016**
 Which activity has not been included in the Industrial Production Index of India?
 A. Manufacturing
 B. Mining
@@ -1154,9 +1128,9 @@ D. Construction
 <details>
 <summary>Show answer</summary>
 
-**Logic:** IIP = mining + manufacturing + electricity.
+**Logic:** Construction.
 
-**Ans: D.** Construction.
+**Ans: D.** IIP = mining + manufacturing + electricity.
 
 </details>
 
@@ -1171,9 +1145,9 @@ D. 1, 2, 3, 4 and 5
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Eight Core list excludes textiles.
+**Logic:** 1–4; textiles not a Core Industry.
 
-**Ans: C.** 1–4; textiles not a Core Industry.
+**Ans: C.** Eight Core list excludes textiles.
 
 </details>
 
@@ -1187,9 +1161,9 @@ D. Steel production
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Overall heaviest Core weight is refinery products — not listed here.
+**Logic:** Electricity (among these options).
 
-**Ans: B.** Electricity (among these options).
+**Ans: B.** Overall heaviest Core weight is refinery products — not listed here.
 
 </details>
 
@@ -1206,10 +1180,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Allocation is auction-based; India still imports coal.
+**Logic:** Only 1 — keyed as 1 only.
 
-**Ans: A.** Only 1.
-
+**Ans: A.** Allocation is auction-based; India still imports coal.
 </details>
 
 **Q33. I.A.S. (Pre) 2023**
@@ -1222,9 +1195,9 @@ D. Neither
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Medium ceilings changed in 2020/2025 — 15–25 crore is wrong.
+**Logic:** Only PSL statement.
 
-**Ans: B.** Only PSL statement.
+**Ans: B.** Medium ceilings changed in 2020/2025 — 15–25 crore is wrong.
 
 </details>
 
@@ -1238,9 +1211,9 @@ D. Credit Guarantee Fund Trust for Micro and Small Enterprises
 <details>
 <summary>Show answer</summary>
 
-**Logic:** GoI + SIDBI credit guarantee.
+**Logic:** Credit Guarantee Fund Trust for Micro and Small Enterprises.
 
-**Ans: D.** Credit Guarantee Fund Trust for Micro and Small Enterprises.
+**Ans: D.** GoI + SIDBI credit guarantee.
 
 </details>
 
@@ -1254,9 +1227,9 @@ D. Rakesh Mohan Committee
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Expert Committee on Small Enterprises, mid-1990s.
+**Logic:** Abid Hussain Committee.
 
-**Ans: A.** Abid Hussain Committee.
+**Ans: A.** Expert Committee on Small Enterprises, mid-1990s.
 
 </details>
 
@@ -1270,9 +1243,9 @@ D. All four
 <details>
 <summary>Show answer</summary>
 
-**Logic:** PNGRB does not regulate production.
+**Logic:** Only refining/storage/distribution and marketing/sale.
 
-**Ans: B.** Only refining/storage/distribution and marketing/sale.
+**Ans: B.** PNGRB does not regulate production.
 
 </details>
 
@@ -1286,13 +1259,13 @@ D. Bokaro–USA
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Bokaro–Soviet collaboration.
+**Logic:** Bokaro was with USSR, not USA.
 
-**Ans: D.** Bokaro was with USSR, not USA.
+**Ans: D.** Bokaro–Soviet collaboration.
 
 </details>
 
-**Q38. U.P. R.O./A.R.O. (Pre) 2021**
+**Q38. UP RO/ARO (Pre) 2021**
 Which Iron and Steel Plant is not located on a riverside?
 A. Bhilai
 B. Bokaro
@@ -1302,16 +1275,14 @@ D. Bhadravati
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Bhilai sits on rail/highway corridor west of Raipur — not a riverside plant key.
+**Logic:** Bhilai sits on rail/highway corridor west of Raipur — not a riverside plant key — Bhilai
 
-**Ans: A.** Bhilai.
-
+**Ans: A.** Bhilai
 </details>
 
 ## UKPCS
 
-
-**Q1. UKPCS (Pre) 2021** — Latest MSME classification year
+**Q1. UKPCS (Pre) 2021**
 
 In which of the following year, the latest classification of MSME was done?
 
@@ -1323,13 +1294,12 @@ D. 2020
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 2020 revision.
+**Logic:** Standard key matches 2020.
 
-**Ans: D.**
-
+**Ans: D.** 2020
 </details>
 
-**Q2. UKPCS (Pre) 2016** — Highest FDI equity sector
+**Q2. UKPCS (Pre) 2016**
 
 Which sector in India attracts the highest FDI equity flow?
 
@@ -1341,18 +1311,18 @@ D. Automobile
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Services lead.
+**Logic:** Standard key matches Service.
 
-**Ans: C.**
-
+**Ans: C.** Service
 </details>
 
 ---
 
 ## Practice Zone
 
+**Q1.**
 
-**Q1.** With reference to MSME (2020 definition), which of the following statements is/are correct?
+With reference to MSME (2020 definition), which of the following statements is/are correct?
 
 1. Micro, small and medium use investment and turnover together.
 2. Manufacturing and services share the same thresholds.
@@ -1368,13 +1338,14 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Logic:** Medium goes to ₹50 crore investment / ₹250 crore turnover teaching.
 
-**Logic:** Medium goes to ₹50 crore investment / ₹250 crore turnover teaching. Statement 3 is false.
-
+**Ans: B.** 1 and 2
 </details>
 
-**Q2.** Which pair is **not** correctly matched?
+**Q2.**
+
+Which pair is **not** correctly matched?
 
 A. Make in India — 2014
 B. Gati Shakti — 2021
@@ -1384,13 +1355,14 @@ D. Gati Shakti — launched 2022 as the only correct year
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Launch is 2021.
+**Logic:** A–C are standard — Gati Shakti — launched 2022 as the only correct year
 
-**Logic:** A–C are standard.
-
+**Ans: D.** Gati Shakti — launched 2022 as the only correct year
 </details>
 
-**Q3.** Disinvestment means
+**Q3.**
+
+Disinvestment means
 
 A. Printing new currency for PSUs
 B. Government sale of equity in public enterprises
@@ -1400,13 +1372,14 @@ D. Only compiling CPI
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Sale of government equity.
+**Logic:** Distinct from full strategic privatisation when control passes — Government sale of equity in public enterprises
 
-**Logic:** Distinct from full strategic privatisation when control passes.
-
+**Ans: B.** Government sale of equity in public enterprises
 </details>
 
-**Q4.** With reference to Gati Shakti’s seven engines, which of the following is/are included?
+**Q4.**
+
+With reference to Gati Shakti’s seven engines, which of the following is/are included?
 
 1. Roads and railways
 2. Ports and airports
@@ -1422,13 +1395,14 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Logic:** Also mass transport, waterways, logistics.
 
-**Logic:** Also mass transport, waterways, logistics. Statement 3 is false.
-
+**Ans: B.** 1 and 2
 </details>
 
-**Q5.** SIDBI is best tagged as
+**Q5.**
+
+SIDBI is best tagged as
 
 A. The Finance Commission under Article 280
 B. The apex development finance institution for MSME
@@ -1438,13 +1412,14 @@ D. The GST Council chair alone
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** MSME DFI apex.
+**Logic:** Industrial finance card — The apex development finance institution for MSME
 
-**Logic:** Industrial finance card.
-
+**Ans: B.** The apex development finance institution for MSME
 </details>
 
-**Q6.** Match List-I with List-II.
+**Q6.**
+
+Match List-I with List-II.
 
 | List-I | List-II |
 |---|---|
@@ -1465,13 +1440,14 @@ D. 4 2 1 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Cottage; Navratna; IIP; SEZ.
+**Logic:** Standard key matches 1 2 3 4.
 
-**Logic:** Keep IIP ≠ CPI.
-
+**Ans: A.** 1 2 3 4
 </details>
 
-**Q7.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+**Q7.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 Assertion (A): Make in India tries to raise India’s manufacturing footprint.
 
@@ -1487,13 +1463,14 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both true; facilitation explains the manufacturing aim.
+**A/R logic:** Both true; facilitation explains the manufacturing aim.
 
-**A/R logic:** 2022 Make in India spine.
-
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)
 </details>
 
-**Q8.** PLI schemes mainly
+**Q8.**
+
+Production Linked Incentive (PLI) schemes are mainly designed to
 
 A. Abolish all factories
 B. Incentivise incremental domestic production in notified sectors
@@ -1503,13 +1480,14 @@ D. Compile M3 only
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Production-linked incentives.
+**Logic:** Manufacturing CA tag — Incentivise incremental domestic production in notified sectors
 
-**Logic:** Manufacturing CA tag.
-
+**Ans: B.** Incentivise incremental domestic production in notified sectors
 </details>
 
-**Q9.** With reference to infrastructure, which of the following statements is/are correct?
+**Q9.**
+
+With reference to infrastructure, which of the following statements is/are correct?
 
 1. Ports and airports are Gati Shakti engines.
 2. Power and telecom support industrial growth.
@@ -1525,13 +1503,14 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Logic:** Statement 3 is false — 1 and 2
 
-**Logic:** Statement 3 is false.
-
+**Ans: B.** 1 and 2
 </details>
 
-**Q10.** Which of the following pairs is **not** correctly matched?
+**Q10.**
+
+Which of the following pairs is **not** correctly matched?
 
 A. Textiles — major traditional industry
 B. Pharmaceuticals — high-value manufacturing strength
@@ -1541,13 +1520,14 @@ D. IIP — measures retail CPI inflation
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** IIP is production volume, not CPI.
+**Logic:** A–C are standard — IIP — measures retail CPI inflation
 
-**Logic:** A–C are standard.
-
+**Ans: D.** IIP — measures retail CPI inflation
 </details>
 
-**Q11.** Startup India mainly supports
+**Q11.**
+
+Startup India is mainly aimed at supporting
 
 A. Only zamindari restoration
 B. Innovative new firms through easier compliance and ecosystem support
@@ -1557,13 +1537,14 @@ D. Only Finance Commission awards
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Startup ecosystem mission.
+**Logic:** Industry–innovation card — Innovative new firms through easier compliance and ecosystem support
 
-**Logic:** Industry–innovation card.
-
+**Ans: B.** Innovative new firms through easier compliance and ecosystem support
 </details>
 
-**Q12.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+**Q12.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 Assertion (A): Gati Shakti uses a common GIS planning platform across ministries.
 
@@ -1579,13 +1560,14 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both true; silo problems explain why a common platform was built.
+**A/R logic:** Both true; silo problems explain why a common platform was built.
 
-**A/R logic:** Gati Shakti purpose.
-
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)
 </details>
 
-**Q13.** Strategic disinvestment / privatisation differs from minority stake sale mainly because
+**Q13.**
+
+Strategic disinvestment / privatisation differs from minority stake sale mainly because
 
 A. Control of the enterprise can change hands
 B. Only CRR changes
@@ -1595,13 +1577,14 @@ D. Only CPI is revised
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Control transfer vs mere equity dilution.
+**Logic:** PSU reform vocabulary — Control of the enterprise can change hands
 
-**Logic:** PSU reform vocabulary.
-
+**Ans: A.** Control of the enterprise can change hands
 </details>
 
-**Q14.** With reference to industrial corridors, which of the following statements is/are correct?
+**Q14.**
+
+With reference to industrial corridors, which of the following statements is/are correct?
 
 1. They cluster infrastructure along growth axes.
 2. They aim to attract manufacturing investment.
@@ -1617,13 +1600,14 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Logic:** Statement 3 is false — 1 and 2
 
-**Logic:** Statement 3 is false.
-
+**Ans: B.** 1 and 2
 </details>
 
-**Q15.** Match List-I with List-II.
+**Q15.**
+
+Match List-I with List-II.
 
 | List-I | List-II |
 |---|---|
@@ -1644,13 +1628,14 @@ D. 4 3 2 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Micro; Small; Medium; Karve.
+**Logic:** 2020 thresholds — 2 3 1 4
 
-**Logic:** 2020 thresholds.
-
+**Ans: A.** 2 3 1 4
 </details>
 
-**Q16.** Food-processing industry links
+**Q16.**
+
+Food processing industry primarily converts
 
 A. Only stock exchanges to CRR
 B. Farm produce to packaged / value-added goods
@@ -1660,13 +1645,14 @@ D. Only Tobin tax to GST
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Agri–industry value chain.
+**Logic:** Topic 5/6 border — Farm produce to packaged / value-added goods
 
-**Logic:** Topic 5/6 border.
-
+**Ans: B.** Farm produce to packaged / value-added goods
 </details>
 
-**Q17.** With reference to FDI vs FPI, which of the following statements is/are correct?
+**Q17.**
+
+With reference to FDI vs FPI, which of the following statements is/are correct?
 
 1. FDI implies lasting interest / control in an enterprise.
 2. FPI is typically portfolio investment in securities.
@@ -1682,13 +1668,14 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Logic:** Statement 3 is false — 1 and 2
 
-**Logic:** Statement 3 is false.
-
+**Ans: B.** 1 and 2
 </details>
 
-**Q18.** Which engine is **not** among Gati Shakti’s seven?
+**Q18.**
+
+Which engine is **not** among Gati Shakti’s seven?
 
 A. Logistics infrastructure
 B. Waterways
@@ -1698,13 +1685,14 @@ D. Mass transport
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Tax slabs are not a Gati Shakti engine.
+**Logic:** Roads, rail, airports, ports, mass transport, waterways, logistics — Income-tax assessment slabs as a transport engine
 
-**Logic:** Roads, rail, airports, ports, mass transport, waterways, logistics.
-
+**Ans: C.** Income-tax assessment slabs as a transport engine
 </details>
 
-**Q19.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+**Q19.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 Assertion (A): MSMEs matter for employment in India.
 
@@ -1720,13 +1708,14 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both true; employment share explains why they matter.
+**A/R logic:** Both true; employment share explains why they matter.
 
-**A/R logic:** MSME weight.
-
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)
 </details>
 
-**Q20.** Railway electrification mainly helps by
+**Q20.**
+
+Railway electrification is best tagged as
 
 A. Raising diesel dependence forever
 B. Cutting fossil traction dependence and supporting cleaner, often cheaper haulage
@@ -1736,13 +1725,14 @@ D. Compiling WPI weekly only
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Cleaner / efficient traction.
+**Logic:** Infra efficiency card — Cutting fossil traction dependence and supporting cleaner, often cheaper haulage
 
-**Logic:** Infra efficiency card.
-
+**Ans: B.** Cutting fossil traction dependence and supporting cleaner, often cheaper haulage
 </details>
 
-**Q21.** Which of the following pairs is **not** correctly matched?
+**Q21.**
+
+Which of the following pairs is **not** correctly matched?
 
 A. Singapore — recent top FDI source teaching
 B. Services — classic top FDI sector
@@ -1752,13 +1742,14 @@ D. FDI — always identical to FPI
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** FDI ≠ FPI.
+**Logic:** A–C are standard — FDI — always identical to FPI
 
-**Logic:** A–C are standard.
-
+**Ans: D.** FDI — always identical to FPI
 </details>
 
-**Q22.** Joint sector industry means
+**Q22.**
+
+Joint sector industry means
 
 A. Only 100% household cottage with no capital
 B. Public and private equity / participation together
@@ -1768,13 +1759,14 @@ D. Only forest surveys
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Mixed public–private participation.
+**Logic:** Standard key: Public and private equity / participation together.
 
-**Logic:** Ownership map.
-
+**Ans: B.** Public and private equity / participation together
 </details>
 
-**Q23.** With reference to defence manufacturing, which of the following statements is/are correct?
+**Q23.**
+
+With reference to defence manufacturing, which of the following statements is/are correct?
 
 1. It is a strategic industrial priority in recent policy.
 2. It links security needs with domestic industrial capacity.
@@ -1790,13 +1782,14 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Logic:** Statement 3 is false — 1 and 2
 
-**Logic:** Statement 3 is false.
-
+**Ans: B.** 1 and 2
 </details>
 
-**Q24.** Match List-I with List-II.
+**Q24.**
+
+Match List-I with List-II.
 
 | List-I | List-II |
 |---|---|
@@ -1817,13 +1810,14 @@ D. 4 1 2 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Roads; ports; pipeline; Maharatna.
+**Logic:** Programme hygiene — 2 1 3 4
 
-**Logic:** Programme hygiene.
-
+**Ans: A.** 2 1 3 4
 </details>
 
-**Q25.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+**Q25.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 Assertion (A): Lower logistics costs help manufacturing competitiveness.
 
@@ -1839,13 +1833,14 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both true; cost pass-through explains the competitiveness link.
+**A/R logic:** Both true; cost pass-through explains the competitiveness link.
 
-**A/R logic:** Gati Shakti / NIP goal.
-
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)
 </details>
 
-**Q26.** Cottage industries are characterised mainly by
+**Q26.**
+
+Cottage industries are characterised mainly by
 
 A. Only multinational boardrooms
 B. Household / artisan scale with limited capital separation
@@ -1855,13 +1850,14 @@ D. Only Gati Shakti GIS servers
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Household artisan character.
+**Logic:** Distinct from factory MSME — Household / artisan scale with limited capital separation
 
-**Logic:** Distinct from factory MSME.
-
+**Ans: B.** Household / artisan scale with limited capital separation
 </details>
 
-**Q27.** With reference to electronics and automobile industries, which of the following statements is/are correct?
+**Q27.**
+
+With reference to electronics and automobile industries, which of the following statements is/are correct?
 
 1. Both are Make in India priority lanes in teaching.
 2. Both link to global supply chains and domestic demand.
@@ -1877,13 +1873,14 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Logic:** Statement 3 is false — 1 and 2
 
-**Logic:** Statement 3 is false.
-
+**Ans: B.** 1 and 2
 </details>
 
-**Q28.** Industrial finance for MSMEs often flows through
+**Q28.**
+
+MSME credit support in teaching often flows through
 
 A. Only Article 360 alone
 B. Banks and SIDBI-supported channels
@@ -1893,16 +1890,14 @@ D. Only CPI Combined compilation
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Bank + SIDBI ecosystem.
+**Logic:** Credit side of industry — Banks and SIDBI-supported channels
 
-**Logic:** Credit side of industry.
-
+**Ans: B.** Banks and SIDBI-supported channels
 </details>
 
 ---
 
 ## Common Traps
-
 
 * **Make in India = 2014** (lion logo); **Gati Shakti = 2021** (not 2022) + **seven engines**.
 * MSME **2020** composite — then **Apr 2025** ceiling hike; stem year wins.

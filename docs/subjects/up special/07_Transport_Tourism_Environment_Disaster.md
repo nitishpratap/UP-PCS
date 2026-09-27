@@ -263,384 +263,6 @@ The Uttar Pradesh Tourism Policy structures state tourism promotion into special
 
 ---
 
-## Complete PYQ Bank (UPPCS)
-
-> Verified stems from UPPCS Prelims (and closely related UP papers). Extra Drill follows.
-
-**Q1. UPPCS (Pre) 2022**
-Dudhwa National Park is situated in which of the following districts of Uttar Pradesh?
-A. Lakhimpur Kheri
-B. Pilibhit
-C. Bahraich
-D. Sharavasti
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Only NP in UP; Tiger Reserve later includes Kishanpur & Katarniaghat units.
-
-**Ans: A.** Lakhimpur Kheri.
-
-</details>
-
-
----
-
-## Ghatnachakra Extra Drill — Transport Tourism Environment Disaster
-
-> Multi-exam / other-State PCS / standard coaching stems for the same topic map.
-
-**Q1. Standard UPPCS**
-Bakhira Bird Sanctuary (Ramsar) is in:
-A. Ballia
-B. Sant Kabir Nagar
-C. Gonda
-D. Hardoi
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Parvati Arga is Gonda — don’t swap Ramsar wetlands.
-
-**Ans: B.** Sant Kabir Nagar.
-
-</details>
-
-**Q2. Standard UPPCS**
-Purvanchal Expressway roughly connects:
-A. Meerut to Prayagraj
-B. Lucknow region to Ghazipur
-C. Chitrakoot to Etawah
-D. Agra to Lucknow only
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Ganga Expressway = Meerut–Prayagraj; Bundelkhand = Chitrakoot–Etawah.
-
-**Ans: B.** Lucknow (Chand Sarai) to Ghazipur.
-
-</details>
-
-
----
-
-
-### Other Papers — BPSC / MPPSC / RAS / UKPCS / UPSC / WBCS
-
-**Q3. 67th BPSC (Pre) 2022**
-Which river is known as the ‘Sorrow of Bihar’?
-A. Ganga
-B. Kosi
-C. Son
-D. Gandak
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Flood disaster geography shared with eastern UP plain.
-
-**Ans: B.** Kosi.
-
-</details>
-
-## Practice Zone
-
-1. In which year was the 'Ranipur Tiger Reserve' in Chitrakoot district notified as Uttar Pradesh's 4th Tiger Reserve?
-   (A) 2014
-   (B) 2018
-   (C) 2020
-   (D) 2022
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (D) 2022</b><br>
-<b>Explanation:</b> Ranipur Tiger Reserve in Chitrakoot district was officially notified under the Wildlife Protection Act, 1972, in October 2022 as India's 53rd and UP's 4th Tiger Reserve.
-</details>
-
-2. Which Tiger Reserve in Uttar Pradesh received the global 'TX2 International Award' in 2020 for doubling its tiger population ahead of target?
-   (A) Dudhwa Tiger Reserve
-   (B) Pilibhit Tiger Reserve
-   (C) Amangarh Tiger Reserve
-   (D) Ranipur Tiger Reserve
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Pilibhit Tiger Reserve</b><br>
-<b>Explanation:</b> Pilibhit Tiger Reserve won the TX2 Award in 2020, recognized by UNDP, WWF, and Global Tiger Forum for increasing its wild tiger count from 25 in 2014 to 65 in 2018.
-</details>
-
-3. Which Wildlife Sanctuary in Uttar Pradesh is the LARGEST in terms of geographical surface area?
-   (A) Kaimoor Wildlife Sanctuary
-   (B) Hastinapur Wildlife Sanctuary
-   (C) Katarniaghat Wildlife Sanctuary
-   (D) National Chambal Sanctuary
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Hastinapur Wildlife Sanctuary</b><br>
-<b>Explanation:</b> Hastinapur Wildlife Sanctuary spans across 2,073 km² across five districts (Meerut, Muzaffarnagar, Bijnor, Hapur, Amroha), making it the largest sanctuary in UP.
-</details>
-
-4. 'Mahavir Swami Wildlife Sanctuary', the smallest wildlife sanctuary in Uttar Pradesh (5.4 km²), is located in which district?
-   (A) Mahoba
-   (B) Lalitpur
-   (C) Banda
-   (D) Chitrakoot
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Lalitpur</b><br>
-<b>Explanation:</b> Mahavir Swami Wildlife Sanctuary is located at Deogarh in Lalitpur district, covering an area of only 5.4 km².
-</details>
-
-5. What is the official State Tree of Uttar Pradesh?
-   (A) Peepal (*Ficus religiosa*)
-   (B) Banyan (*Ficus benghalensis*)
-   (C) Ashoka (*Saraca asoca*)
-   (D) Neem (*Azadirachta indica*)
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) Ashoka (*Saraca asoca*)</b><br>
-<b>Explanation:</b> The official State Tree of Uttar Pradesh is the Ashoka (Sita Ashoka / *Saraca asoca*).
-</details>
-
-6. The State Flower of Uttar Pradesh is 'Palash' (*Butea monosperma*). In which year was it declared as the state flower?
-   (A) 2000
-   (B) 2005
-   (C) 2011
-   (D) 2015
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) 2011</b><br>
-<b>Explanation:</b> Palash (also known as Tesu, Dhak, or Flame of the Forest) was officially declared as the State Flower of Uttar Pradesh on 4 January 2011 (replacing Brahmakamal after Uttarakhand was carved out).
-</details>
-
-7. What percentage of Uttar Pradesh's total geographical area is covered by actual forests as per the India State of Forest Report (ISFR)?
-   (A) 4.25%
-   (B) 6.15%
-   (C) 8.40%
-   (D) 12.80%
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) 6.15%</b><br>
-<b>Explanation:</b> As per ISFR, the total forest cover in Uttar Pradesh is 14,818 km², which constitutes exactly 6.15% of the state's total geographical area (240,928 km²).
-</details>
-
-8. Which two districts in Uttar Pradesh possess more than 20% forest cover relative to their geographic area?
-   (A) Sonbhadra and Mirzapur
-   (B) Sonbhadra and Chandauli
-   (C) Chitrakoot and Lalitpur
-   (D) Pilibhit and Lakhimpur Kheri
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Sonbhadra and Chandauli</b><br>
-<b>Explanation:</b> Sonbhadra has 35.29% forest cover and Chandauli has 21.78% forest cover. These are the only two districts in UP where forest cover exceeds 20%.
-</details>
-
-9. The famous 'Upper Ganga River' stretch from Brijghat to Narora was designated as UP's first Ramsar site in:
-   (A) 2002
-   (B) 2005
-   (C) 2012
-   (D) 2019
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) 2005</b><br>
-<b>Explanation:</b> The 85-km stretch of the Upper Ganga River from Brijghat (Hapur) to Narora Barrage (Bulandshahr) was inscribed as a Ramsar site on 8 November 2005.
-</details>
-
-10. 'Sarsai Nawar Wetland', an internationally protected Ramsar site known for housing the largest non-breeding population of Sarus Cranes, is in:
-   (A) Mainpuri
-   (B) Etawah
-   (C) Auraiya
-   (D) Hardoi
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Etawah</b><br>
-<b>Explanation:</b> Sarsai Nawar is a natural permanent wetland located in Takha tehsil of Etawah district, inscribed as a Ramsar site in September 2019.
-</details>
-
-11. The 'Samaspur Bird Sanctuary' Ramsar wetland is situated in which district of Uttar Pradesh?
-   (A) Unnao
-   (B) Rae Bareli
-   (C) Hardoi
-   (D) Pratapgarh
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Rae Bareli</b><br>
-<b>Explanation:</b> Samaspur Bird Sanctuary is located in Salon tehsil of Rae Bareli district, covering 799.4 hectares across six interconnected perennial lakes.
-</details>
-
-12. 'Haiderpur Wetland', declared as India's 47th Ramsar site in December 2021, is located within which protected sanctuary?
-   (A) Katarniaghat Wildlife Sanctuary
-   (B) Hastinapur Wildlife Sanctuary
-   (C) Sohagibarwa Wildlife Sanctuary
-   (D) Kaimoor Wildlife Sanctuary
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Hastinapur Wildlife Sanctuary</b><br>
-<b>Explanation:</b> Haiderpur Wetland covers 6,908 hectares within the Hastinapur Wildlife Sanctuary on the border of Muzaffarnagar and Bijnor districts.
-</details>
-
-13. 'Patna Bird Sanctuary', famed for its vast natural water lily beds and migratory waterfowl, is located in:
-   (A) Jalesar, Etah
-   (B) Nawabganj, Unnao
-   (C) Sandi, Hardoi
-   (D) Salon, Rae Bareli
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (A) Jalesar, Etah</b><br>
-<b>Explanation:</b> Patna Bird Sanctuary was established in 1991 at Jalesar in Etah district, serving as a vital winter stopover for migratory birds.
-</details>
-
-14. India's 100th Ramsar Wetland Site, 'Surha Tal' (Jai Prakash Narayan Bird Sanctuary), is situated in which district?
-   (A) Ghazipur
-   (B) Ballia
-   (C) Mau
-   (D) Deoria
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Ballia</b><br>
-<b>Explanation:</b> Surha Tal (Jai Prakash Narayan Bird Sanctuary) is a vast natural oxbow lake located in Ballia district, recognized as India's 100th Ramsar site on 5 June 2026.
-</details>
-
-15. What is the total length of the 6-lane access-controlled Agra-Lucknow Expressway?
-   (A) 165 km
-   (B) 296 km
-   (C) 302 km
-   (D) 341 km
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) 302 km</b><br>
-<b>Explanation:</b> The Agra-Lucknow Expressway is 302 km long, originating at Agra and terminating at Mohan Road, Lucknow.
-</details>
-
-16. The Purvanchal Expressway terminates at which village in Ghazipur district?
-   (A) Chand Saray
-   (B) Haidariya
-   (C) Bharatkoop
-   (D) Kudrail
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Haidariya</b><br>
-<b>Explanation:</b> The Purvanchal Expressway starts at Chand Saray village in Lucknow district and terminates at Haidariya village on NH-31 in Ghazipur district.
-</details>
-
-17. The 296-km long Bundelkhand Expressway originates near which holy location in Chitrakoot district?
-   (A) Ramghat
-   (B) Bharatkoop
-   (C) Gupt Godavari
-   (D) Kamadgiri
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Bharatkoop</b><br>
-<b>Explanation:</b> The Bundelkhand Expressway originates near Gonda village/Bharatkoop in Chitrakoot district and links to the Agra-Lucknow Expressway at Kudrail in Etawah district.
-</details>
-
-18. The under-construction 594-km long Ganga Expressway passes through how many districts of Uttar Pradesh?
-   (A) 9 Districts
-   (B) 10 Districts
-   (C) 12 Districts
-   (D) 15 Districts
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) 12 Districts</b><br>
-<b>Explanation:</b> The Ganga Expressway traverses 12 districts: Meerut, Hapur, Bulandshahr, Amroha, Sambhal, Badaun, Shahjahanpur, Hardoi, Unnao, Rae Bareli, Pratapgarh, and Prayagraj.
-</details>
-
-19. In June 2020, the Union Cabinet declared which airport in Uttar Pradesh as an International Airport to cater to global Buddhist pilgrims?
-   (A) Ayodhya Airport
-   (B) Kushinagar Airport
-   (C) Bareilly Airport
-   (D) Hindon Airport
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Kushinagar Airport</b><br>
-<b>Explanation:</b> Kushinagar Airport was officially declared an International Airport on 24 June 2020 by the Union Cabinet to facilitate international direct connectivity for Buddhist pilgrims from Japan, Thailand, Sri Lanka, etc.
-</details>
-
-20. The 'Noida International Airport' is located at which specific site in Gautam Buddha Nagar district?
-   (A) Jewar
-   (B) Dadri
-   (C) Dankaur
-   (D) Sikandrabad
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (A) Jewar</b><br>
-<b>Explanation:</b> Noida International Airport is developed over 5,000 hectares at Jewar in Gautam Buddha Nagar district as a greenfield multi-runway international aviation hub.
-</details>
-
-21. The country's first inland Multimodal Freight Terminal on National Waterway 1 (NW-1) was constructed on the Ganga at:
-   (A) Ralhupur, Varanasi
-   (B) Sangam, Prayagraj
-   (C) Jajmau, Kanpur
-   (D) Ghazipur Ghat
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (A) Ralhupur, Varanasi</b><br>
-<b>Explanation:</b> India's first inland Multimodal Terminal under the Jal Marg Vikas Project on NW-1 was built at Ralhupur, Varanasi, and inaugurated in November 2018.
-</details>
-
-22. The 'Taj Trapezium Zone' (TTZ), constituted to protect the Taj Mahal from industrial atmospheric pollution, covers an area of:
-   (A) 5,200 km²
-   (B) 7,500 km²
-   (C) 10,400 km²
-   (D) 14,000 km²
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) 10,400 km²</b><br>
-<b>Explanation:</b> The Taj Trapezium Zone (TTZ) encompasses a defined geographical area of 10,400 square kilometers around the Taj Mahal to regulate industrial emissions.
-</details>
-
-23. Who is the ex-officio Chairman of the Uttar Pradesh State Disaster Management Authority (UPSDMA)?
-   (A) Governor of Uttar Pradesh
-   (B) Chief Minister of Uttar Pradesh
-   (C) Chief Secretary of Uttar Pradesh
-   (D) Principal Secretary (Revenue)
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Chief Minister of Uttar Pradesh</b><br>
-<b>Explanation:</b> Under Section 14 of the Disaster Management Act, 2005, the Chief Minister of the State is the ex-officio Chairperson of the State Disaster Management Authority.
-</details>
-
-24. Which river basin in Eastern Uttar Pradesh is notoriously responsible for recurrent catastrophic monsoon flooding?
-   (A) Ken River Basin
-   (B) Ghaghara-Rapti River Basin
-   (C) Betwa River Basin
-   (D) Chambal River Basin
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Ghaghara-Rapti River Basin</b><br>
-<b>Explanation:</b> The Ghaghara, Rapti, and Gandak river systems carry massive snow-melt and torrential monsoon runoff from Nepal Himalayas, causing extensive flooding in Gorakhpur, Basti, Siddharthnagar, and Gonda.
-</details>
-
-25. The 'Namo Bharat' Regional Rapid Transit System (RRTS), India's first semi-high-speed regional rail corridor, connects Delhi to:
-   (A) Agra
-   (B) Meerut
-   (C) Aligarh
-   (D) Kanpur
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Meerut</b><br>
-<b>Explanation:</b> The Namo Bharat Delhi-Ghaziabad-Meerut RRTS corridor operates semi-high-speed commuter trains at design speeds of 180 km/h, reducing Delhi-Meerut travel time to under 60 minutes.
-</details>
-
-26. The famous 'Chuka Beach' eco-tourism spot in Uttar Pradesh is situated on the reservoir of which river?
-   (A) Betwa River
-   (B) Sharda River
-   (C) Ken River
-   (D) Rihand River
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Sharda River</b><br>
-<b>Explanation:</b> Chuka Beach (Chuka Eco Tourism Centre) is located on the vast Sharda Sagar reservoir formed on the Sharda River inside Pilibhit Tiger Reserve.
-</details>
-
-## Common Traps
-
-| Trap | Correct |
-|---|---|
-| Mixing Absolute vs % ranks | Match the stem metric first |
-
-
----
-
 ## Bilingual Terminology -- UP Transport, Tourism, Environment
 
 | English | Hindi | Key Anchor |
@@ -706,6 +328,83 @@ D. Gandak
 
 ---
 
+## Complete PYQ Bank (UPPCS)
+
+> Verified stems from UPPCS Prelims (and closely related UP papers). Extra Drill follows.
+
+**Q1. UPPCS (Pre) 2022**
+Dudhwa National Park is situated in which of the following districts of Uttar Pradesh?
+A. Lakhimpur Kheri
+B. Pilibhit
+C. Bahraich
+D. Sharavasti
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Only NP in UP; Tiger Reserve later includes Kishanpur & Katarniaghat units.
+
+**Ans: A.** Lakhimpur Kheri.
+
+</details>
+
+---
+
+## Ghatnachakra Extra Drill — Transport Tourism Environment Disaster
+
+> Multi-exam / other-State PCS / standard coaching stems for the same topic map.
+
+**Q1. Standard UPPCS**
+Bakhira Bird Sanctuary (Ramsar) is in:
+A. Ballia
+B. Sant Kabir Nagar
+C. Gonda
+D. Hardoi
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Parvati Arga is Gonda — don’t swap Ramsar wetlands.
+
+**Ans: B.** Sant Kabir Nagar.
+
+</details>
+
+**Q2. Standard UPPCS**
+Purvanchal Expressway roughly connects:
+A. Meerut to Prayagraj
+B. Lucknow region to Ghazipur
+C. Chitrakoot to Etawah
+D. Agra to Lucknow only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Ganga Expressway = Meerut–Prayagraj; Bundelkhand = Chitrakoot–Etawah.
+
+**Ans: B.** Lucknow (Chand Sarai) to Ghazipur.
+
+</details>
+
+---
+
+### Other Papers — BPSC / MPPSC / RAS / UKPCS / UPSC / WBCS
+
+**Q3. 67th BPSC (Pre) 2022**
+Which river is known as the ‘Sorrow of Bihar’?
+A. Ganga
+B. Kosi
+C. Son
+D. Gandak
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Kosi.
+
+**Ans: B.** Kosi
+</details>
+
 ## UKPCS / MPPSC / BPSC Extra Drill -- UP Transport/Environment
 
 **Q1. UKPCS (Pre) 2022**
@@ -718,7 +417,7 @@ D. Bundelkhand Expressway
 <details>
 <summary>Show answer</summary>
 
-**Logic:** The **Purvanchal Expressway (341 km)** connecting Lucknow to Ghazipur was inaugurated by PM Modi in November 2021. However, when Ganga Expressway (594 km) is complete it will surpass it. As of 2021, Purvanchal was the longest in UP.
+**Logic:** The **Purvanchal Expressway (341 km)** connecting Lucknow to Ghazipur was inaugurated by PM Modi in November 2021.
 
 **Ans: C.** Purvanchal Expressway (341 km).
 
@@ -734,7 +433,7 @@ D. One-horned Rhinoceros
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Dudhwa National Park (Lakhimpur Kheri) is famous for the **Barasingha (hard-ground swamp deer)** and also tigers. It was the last stronghold of the barasingha. Rhinos were reintroduced from Assam.
+**Logic:** Dudhwa National Park (Lakhimpur Kheri) is famous for the **Barasingha (hard-ground swamp deer)** and also tigers.
 
 **Ans: C.** Barasingha and Tiger.
 
@@ -750,7 +449,7 @@ D. Marsh Crocodile
 <details>
 <summary>Show answer</summary>
 
-**Logic:** The **National Chambal Sanctuary** along the Chambal River (Agra, Etawah, Morena) is the primary protected area for the critically endangered **Gharial (Gavialis gangeticus)**, also Gangetic dolphin and red-crowned roofed turtle.
+**Logic:** The **National Chambal Sanctuary** along the Chambal River (Agra, Etawah, Morena) is the primary protected area for the critically endangered **Gharial (Gavialis gangeticus)**, also Gangetic dolphin and red-crowned ro…
 
 **Ans: C.** Gharial.
 
@@ -777,4 +476,352 @@ D. Marsh Crocodile
 | 13 | Drought-prone = **Bundelkhand** (Jhansi, Lalitpur, Banda) |
 | 14 | UP State animal = **Barasingha** (swamp deer) |
 | 15 | UP State bird = **Sarus Crane** (world's tallest flying bird) |
+
+## Practice Zone
+
+1. In which year was the 'Ranipur Tiger Reserve' in Chitrakoot district notified as Uttar Pradesh's 4th Tiger Reserve?
+   (A) 2014
+   (B) 2018
+   (C) 2020
+   (D) 2022
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Ranipur Tiger Reserve in Chitrakoot district was officially notified under the Wildlife Protection Act, 1972, in October 2022 as India's 53rd and UP's 4th Tiger Reserve.
+
+**Ans: D.** 2022
+</details>
+
+2. Which Tiger Reserve in Uttar Pradesh received the global 'TX2 International Award' in 2020 for doubling its tiger population ahead of target?
+   (A) Dudhwa Tiger Reserve
+   (B) Pilibhit Tiger Reserve
+   (C) Amangarh Tiger Reserve
+   (D) Ranipur Tiger Reserve
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Pilibhit Tiger Reserve won the TX2 Award in 2020, recognized by UNDP, WWF, and Global Tiger Forum for increasing its wild tiger count from 25 in 2014 to 65 in 2018.
+
+**Ans: B.** Pilibhit Tiger Reserve
+</details>
+
+3. Which Wildlife Sanctuary in Uttar Pradesh is the LARGEST in terms of geographical surface area?
+   (A) Kaimoor Wildlife Sanctuary
+   (B) Hastinapur Wildlife Sanctuary
+   (C) Katarniaghat Wildlife Sanctuary
+   (D) National Chambal Sanctuary
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Hastinapur Wildlife Sanctuary spans across 2,073 km² across five districts (Meerut, Muzaffarnagar, Bijnor, Hapur, Amroha), making it the largest sanctuary in UP.
+
+**Ans: B.** Hastinapur Wildlife Sanctuary
+</details>
+
+4. 'Mahavir Swami Wildlife Sanctuary', the smallest wildlife sanctuary in Uttar Pradesh (5.4 km²), is located in which district?
+   (A) Mahoba
+   (B) Lalitpur
+   (C) Banda
+   (D) Chitrakoot
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Mahavir Swami Wildlife Sanctuary is located at Deogarh in Lalitpur district, covering an area of only 5.4 km².
+
+**Ans: B.** Lalitpur
+</details>
+
+5. What is the official State Tree of Uttar Pradesh?
+   (A) Peepal (*Ficus religiosa*)
+   (B) Banyan (*Ficus benghalensis*)
+   (C) Ashoka (*Saraca asoca*)
+   (D) Neem (*Azadirachta indica*)
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The official State Tree of Uttar Pradesh is the Ashoka (Sita Ashoka / Saraca asoca).
+
+**Ans: C.** Ashoka (Saraca asoca)
+</details>
+
+6. The State Flower of Uttar Pradesh is 'Palash' (*Butea monosperma*). In which year was it declared as the state flower?
+   (A) 2000
+   (B) 2005
+   (C) 2011
+   (D) 2015
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Palash (also known as Tesu, Dhak, or Flame of the Forest) was officially declared as the State Flower of Uttar Pradesh on 4 January 2011 (replacing Brahmakamal after Uttarakhand was carved out).
+
+**Ans: C.** 2011
+</details>
+
+7. What percentage of Uttar Pradesh's total geographical area is covered by actual forests as per the India State of Forest Report (ISFR)?
+   (A) 4.25%
+   (B) 6.15%
+   (C) 8.40%
+   (D) 12.80%
+<details>
+<summary>Show answer</summary>
+
+**Logic:** As per ISFR, the total forest cover in Uttar Pradesh is 14,818 km², which constitutes exactly 6.15% of the state's total geographical area (240,928 km²).
+
+**Ans: B.** 6.15%
+</details>
+
+8. Which two districts in Uttar Pradesh possess more than 20% forest cover relative to their geographic area?
+   (A) Sonbhadra and Mirzapur
+   (B) Sonbhadra and Chandauli
+   (C) Chitrakoot and Lalitpur
+   (D) Pilibhit and Lakhimpur Kheri
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Sonbhadra has 35.29% forest cover and Chandauli has 21.78% forest cover.
+
+**Ans: B.** Sonbhadra and Chandauli
+</details>
+
+9. The famous 'Upper Ganga River' stretch from Brijghat to Narora was designated as UP's first Ramsar site in:
+   (A) 2002
+   (B) 2005
+   (C) 2012
+   (D) 2019
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 85-km stretch of the Upper Ganga River from Brijghat (Hapur) to Narora Barrage (Bulandshahr) was inscribed as a Ramsar site on 8 November 2005.
+
+**Ans: B.** 2005
+</details>
+
+10. 'Sarsai Nawar Wetland', an internationally protected Ramsar site known for housing the largest non-breeding population of Sarus Cranes, is in:
+   (A) Mainpuri
+   (B) Etawah
+   (C) Auraiya
+   (D) Hardoi
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Sarsai Nawar is a natural permanent wetland located in Takha tehsil of Etawah district, inscribed as a Ramsar site in September 2019.
+
+**Ans: B.** Etawah
+</details>
+
+11. The 'Samaspur Bird Sanctuary' Ramsar wetland is situated in which district of Uttar Pradesh?
+   (A) Unnao
+   (B) Rae Bareli
+   (C) Hardoi
+   (D) Pratapgarh
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Samaspur Bird Sanctuary is located in Salon tehsil of Rae Bareli district, covering 799.4 hectares across six interconnected perennial lakes.
+
+**Ans: B.** Rae Bareli
+</details>
+
+12. 'Haiderpur Wetland', declared as India's 47th Ramsar site in December 2021, is located within which protected sanctuary?
+   (A) Katarniaghat Wildlife Sanctuary
+   (B) Hastinapur Wildlife Sanctuary
+   (C) Sohagibarwa Wildlife Sanctuary
+   (D) Kaimoor Wildlife Sanctuary
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Haiderpur Wetland covers 6,908 hectares within the Hastinapur Wildlife Sanctuary on the border of Muzaffarnagar and Bijnor districts.
+
+**Ans: B.** Hastinapur Wildlife Sanctuary
+</details>
+
+13. 'Patna Bird Sanctuary', famed for its vast natural water lily beds and migratory waterfowl, is located in:
+   (A) Jalesar, Etah
+   (B) Nawabganj, Unnao
+   (C) Sandi, Hardoi
+   (D) Salon, Rae Bareli
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Patna Bird Sanctuary was established in 1991 at Jalesar in Etah district, serving as a vital winter stopover for migratory birds.
+
+**Ans: A.** Jalesar, Etah
+</details>
+
+14. India's 100th Ramsar Wetland Site, 'Surha Tal' (Jai Prakash Narayan Bird Sanctuary), is situated in which district?
+   (A) Ghazipur
+   (B) Ballia
+   (C) Mau
+   (D) Deoria
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Surha Tal (Jai Prakash Narayan Bird Sanctuary) is a vast natural oxbow lake located in Ballia district, recognized as India's 100th Ramsar site on 5 June 2026.
+
+**Ans: B.** Ballia
+</details>
+
+15. What is the total length of the 6-lane access-controlled Agra-Lucknow Expressway?
+   (A) 165 km
+   (B) 296 km
+   (C) 302 km
+   (D) 341 km
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Agra-Lucknow Expressway is 302 km long, originating at Agra and terminating at Mohan Road, Lucknow.
+
+**Ans: C.** 302 km
+</details>
+
+16. The Purvanchal Expressway terminates at which village in Ghazipur district?
+   (A) Chand Saray
+   (B) Haidariya
+   (C) Bharatkoop
+   (D) Kudrail
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Purvanchal Expressway starts at Chand Saray village in Lucknow district and terminates at Haidariya village on NH-31 in Ghazipur district.
+
+**Ans: B.** Haidariya
+</details>
+
+17. The 296-km long Bundelkhand Expressway originates near which holy location in Chitrakoot district?
+   (A) Ramghat
+   (B) Bharatkoop
+   (C) Gupt Godavari
+   (D) Kamadgiri
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Bundelkhand Expressway originates near Gonda village/Bharatkoop in Chitrakoot district and links to the Agra-Lucknow Expressway at Kudrail in Etawah district.
+
+**Ans: B.** Bharatkoop
+</details>
+
+18. The under-construction 594-km long Ganga Expressway passes through how many districts of Uttar Pradesh?
+   (A) 9 Districts
+   (B) 10 Districts
+   (C) 12 Districts
+   (D) 15 Districts
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Ganga Expressway traverses 12 districts: Meerut, Hapur, Bulandshahr, Amroha, Sambhal, Badaun, Shahjahanpur, Hardoi, Unnao, Rae Bareli, Pratapgarh, and Prayagraj.
+
+**Ans: C.** 12 Districts
+</details>
+
+19. In June 2020, the Union Cabinet declared which airport in Uttar Pradesh as an International Airport to cater to global Buddhist pilgrims?
+   (A) Ayodhya Airport
+   (B) Kushinagar Airport
+   (C) Bareilly Airport
+   (D) Hindon Airport
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Kushinagar Airport was officially declared an International Airport on 24 June 2020 by the Union Cabinet to facilitate international direct connectivity for Buddhist pilgrims from Japan, Thailand, Sri Lanka, etc.
+
+**Ans: B.** Kushinagar Airport
+</details>
+
+20. The 'Noida International Airport' is located at which specific site in Gautam Buddha Nagar district?
+   (A) Jewar
+   (B) Dadri
+   (C) Dankaur
+   (D) Sikandrabad
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Noida International Airport is developed over 5,000 hectares at Jewar in Gautam Buddha Nagar district as a greenfield multi-runway international aviation hub.
+
+**Ans: A.** Jewar
+</details>
+
+21. The country's first inland Multimodal Freight Terminal on National Waterway 1 (NW-1) was constructed on the Ganga at:
+   (A) Ralhupur, Varanasi
+   (B) Sangam, Prayagraj
+   (C) Jajmau, Kanpur
+   (D) Ghazipur Ghat
+<details>
+<summary>Show answer</summary>
+
+**Logic:** India's first inland Multimodal Terminal under the Jal Marg Vikas Project on NW-1 was built at Ralhupur, Varanasi, and inaugurated in November 2018.
+
+**Ans: A.** Ralhupur, Varanasi
+</details>
+
+22. The 'Taj Trapezium Zone' (TTZ), constituted to protect the Taj Mahal from industrial atmospheric pollution, covers an area of:
+   (A) 5,200 km²
+   (B) 7,500 km²
+   (C) 10,400 km²
+   (D) 14,000 km²
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Taj Trapezium Zone (TTZ) encompasses a defined geographical area of 10,400 square kilometers around the Taj Mahal to regulate industrial emissions.
+
+**Ans: C.** 10,400 km²
+</details>
+
+23. Who is the ex-officio Chairman of the Uttar Pradesh State Disaster Management Authority (UPSDMA)?
+   (A) Governor of Uttar Pradesh
+   (B) Chief Minister of Uttar Pradesh
+   (C) Chief Secretary of Uttar Pradesh
+   (D) Principal Secretary (Revenue)
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Under Section 14 of the Disaster Management Act, 2005, the Chief Minister of the State is the ex-officio Chairperson of the State Disaster Management Authority.
+
+**Ans: B.** Chief Minister of Uttar Pradesh
+</details>
+
+24. Which river basin in Eastern Uttar Pradesh is notoriously responsible for recurrent catastrophic monsoon flooding?
+   (A) Ken River Basin
+   (B) Ghaghara-Rapti River Basin
+   (C) Betwa River Basin
+   (D) Chambal River Basin
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Ghaghara, Rapti, and Gandak river systems carry massive snow-melt and torrential monsoon runoff from Nepal Himalayas, causing extensive flooding in Gorakhpur, Basti, Siddharthnagar, and Gonda.
+
+**Ans: B.** Ghaghara-Rapti River Basin
+</details>
+
+25. The 'Namo Bharat' Regional Rapid Transit System (RRTS), India's first semi-high-speed regional rail corridor, connects Delhi to:
+   (A) Agra
+   (B) Meerut
+   (C) Aligarh
+   (D) Kanpur
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Namo Bharat Delhi-Ghaziabad-Meerut RRTS corridor operates semi-high-speed commuter trains at design speeds of 180 km/h, reducing Delhi-Meerut travel time to under 60 minutes.
+
+**Ans: B.** Meerut
+</details>
+
+26. The famous 'Chuka Beach' eco-tourism spot in Uttar Pradesh is situated on the reservoir of which river?
+   (A) Betwa River
+   (B) Sharda River
+   (C) Ken River
+   (D) Rihand River
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Chuka Beach (Chuka Eco Tourism Centre) is located on the vast Sharda Sagar reservoir formed on the Sharda River inside Pilibhit Tiger Reserve.
+
+**Ans: B.** Sharda River
+</details>
+
+## Common Traps
+
+| Trap | Correct |
+|---|---|
+| Mixing Absolute vs % ranks | Match the stem metric first |
+
+---
 

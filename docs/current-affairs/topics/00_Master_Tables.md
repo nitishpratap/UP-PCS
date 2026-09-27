@@ -61,6 +61,8 @@ Use this page for **fast revision**. Detail stays in the topic sheets. Numbers u
 | Aug | I-Day nuclear aim | Long-term nuclear power | **100 GW by 2047** |
 | Jun (UP) | **UP CAMP** | Airshed clean-air project (World Bank) | About **₹2,741 cr** |
 | Aug | **MMDR Amendment Act, 2026** | Uniform mineral-tax framework | Centre conditions on state mineral levies |
+| Sep | **18th BRICS Summit** | New Delhi Leaders’ Summit + Declaration | Host India; theme Resilience–Innovation–Cooperation–Sustainability |
+| Sep | **57th GST Council** | Process-reform meeting shifted | Now **7 Oct 2026** (not mid-Sep rates round) |
 
 ---
 
@@ -80,6 +82,9 @@ Use this page for **fast revision**. Detail stays in the topic sheets. Numbers u
 | PFBR already runs on thorium | Criticality with **MOX**; thorium is later stage |
 | NavIC = GPS | NavIC is **India’s** regional system |
 | Kusha = ballistic Agni | **Kusha** = long-range **air-defence** SAM |
+| 18th BRICS Summit = Rio / Kazan | **New Delhi, 12–13 Sep 2026** |
+| GST Council cut rates again on 12 Sep 2026 | Meeting moved to **7 Oct**; agenda = **process reforms** |
+| Asian Games 2026 = Hangzhou | Host region is **Aichi–Nagoya, Japan** |
 
 ---
 
@@ -101,6 +106,21 @@ Use this page for **fast revision**. Detail stays in the topic sheets. Numbers u
 | 12 Aug | International Youth Day | Different Contexts, Common Aspirations |
 | 23 Aug | National Space Day | Towards Viksit Bharat… Global Space Leadership |
 | 29 Aug | National Sports Day | Slogan: Khelega Bharat, Jeetega Bharat |
+| 14 Sep | Hindi Diwas | Official language / Art. 343 revision link |
+| 15 Sep | Engineers’ Day (India) | Sir M. Visvesvaraya |
+| 16 Sep | World Ozone Day | Global action for a cooler planet (Kigali @10) |
+| 21 Sep | International Day of Peace | Invest in Peace — For Everyone, Everywhere, Every Day |
+
+---
+
+## 5a. September 2026 mega-events (quick)
+
+| Event | Easy fact |
+|-------|-----------|
+| **18th BRICS Summit** | New Delhi, **12–13 Sep**; New Delhi Declaration; India chair |
+| **Asian Games 2026** | **Aichi–Nagoya, Japan**; India kabaddi double gold vs Iran (late Sep) |
+| **57th GST Council** | Shifted from mid-Sep to **7 Oct 2026** (process reforms / GST 2.0) |
+| **NFI 2026** | 7th edition released **21 Sep** (~653 monographs) |
 
 ---
 

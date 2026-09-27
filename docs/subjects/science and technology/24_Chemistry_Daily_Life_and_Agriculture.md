@@ -267,11 +267,35 @@ CH₂ - O - CO - C₁₇H₃₅                      CH₂ - OH
 
 ---
 
+## Bilingual Terminology -- Chemistry in Daily Life and Agriculture
+
+| English Term | Hindi Term | Key Anchor |
+|---|---|---|
+| **Fertiliser** (उर्वरक) | रासायनिक उर्वरक | Chemical compound supplying nutrients to plants (N, P, K) |
+| **Urea** (यूरिया) | यूरिया | Most used nitrogenous fertiliser; CO(NH2)2; 46% N |
+| **DAP** (डीएपी) | डाईअमोनियम फॉस्फेट | Diammonium Phosphate; N + P fertiliser |
+| **Pesticide** (कीटनाशक) | कीटनाशी / कीटनाशक | Chemical that kills pests; insecticide, fungicide, herbicide |
+| **DDT** (डीडीटी) | डीडीटी | Dichlorodiphenyltrichloroethane; organochlorine insecticide; banned (persistent) |
+| **Insecticide** (कीटनाशी) | कीटनाशी | Kills insects; e.g., malathion, BHC, pyrethroids |
+| **Herbicide** (शाकनाशी) | शाकनाशी | Kills weeds; e.g., 2,4-D; Agent Orange (2,4,5-T + 2,4-D) |
+| **Fungicide** (कवकनाशी) | फफूंदनाशक | Kills fungi; e.g., Bordeaux mixture (CuSO4 + lime) |
+| **Preservative** (परिरक्षक) | परिरक्षक | Food additive preventing spoilage; salt, sugar, vinegar, sodium benzoate |
+| **Food Additive** (खाद्य योज्य) | खाद्य योजक | Substance added to food for colour, flavour, preservation, nutrition |
+| **Dye** (रंजक) | रंजक | Coloured substance; synthetic (aniline dyes) or natural (indigo, turmeric) |
+| **Soap** (साबुन) | साबुन | Sodium/potassium salt of fatty acids; biodegradable cleansing agent |
+| **Detergent** (अपमार्जक) | अपमार्जक | Synthetic cleaner; sulphonate/sulphate; works in hard water |
+| **Antiseptic** (रोगाणुनाशक) | रोगाणुनाशक | Kills microorganisms on living tissue; dettol, savlon, iodine |
+| **Disinfectant** (विसंक्रामक) | विसंक्रामक | Kills microorganisms on inanimate surfaces; bleach, phenol |
+| **Drug / Medicine** (औषधि) | औषधि / दवा | Chemical compound used to treat, cure, or prevent disease |
+
+---
+
 ## Complete PYQ Bank — State PCS (34 Questions)
 
 ### UPPCS & UP RO/ARO Prelims/Mains (20 Questions)
 
-#### Q1 [U.P. U.D.A./L.D.A. (Mains) 2010]
+**Q-ST1. U.P. U.D.A./L.D.A. (Mains) 2010**
+
 In fruits and vegetables, wax emulsion is used for –
 
 (a) Creating shine on fruits and vegetables
@@ -283,26 +307,15 @@ In fruits and vegetables, wax emulsion is used for –
 (d) None of the above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** In fruits and vegetables, wax emulsion is used for extension of their storage life.
 
-**High-Yield Explanation:**
-In fruits and vegetables, wax emulsion is used for extension
-
-of their storage life. Wax coating is used as a carrier for sprout
-
-inhibitors, growth regulators and preservatives of fruits and
-
-vegetables. The principle disadvantage of wax coating is the
-
-development of off flaver if not applied properly. Fruits and
-
-vegetables can be stored for 10 to 12 days by wax coating.
+**Ans: B.** Extension of storage life
 </details>
 
+**Q-ST3. U.P. U.D.A./L.D.A. (Spl.) (Mains) 2010**
 
-#### Q3 [U.P. U.D.A./L.D.A. (Spl.) (Mains) 2010]
 Which one of the following is used in preservation?
 
 (a) Sodium Chloride (b) Sodium Benzoate
@@ -310,16 +323,15 @@ Which one of the following is used in preservation?
 (c) Sodium Tartrate (d) Sodium Acetate
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Same teaching key as the linked stem above; answer is Sodium Benzoate.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: B.** Sodium Benzoate
 </details>
 
+**Q-ST4. UPPSC (R.I.) 2014**
 
-#### Q4 [U.P.P.S.C. (R.I.) 2014]
 For the preservation of fruit juice which of the
 
 following is used ?
@@ -329,16 +341,15 @@ following is used ?
 (c) Sulfuric acid (d) Sodium Benzoate
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** Same teaching key as the linked stem above; answer is Sodium Benzoate.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: D.** Sodium Benzoate
 </details>
 
+**Q-ST5. U.P.U.D.A./L.D.A. (Pre) 2013**
 
-#### Q5 [U.P.U.D.A./L.D.A. (Pre) 2013]
 Which one of the following chemical is used in food
 
 preservation.
@@ -348,16 +359,15 @@ preservation.
 (c) Sodium Benzoate (d) Sulfuric Acid
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Same teaching key as the linked stem above; answer is Sodium Benzoate.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: C.** Sodium Benzoate
 </details>
 
+**Q-ST6. UPPCS (Pre) 1996 / UPPCS (Pre) 1992**
 
-#### Q6 [U.P.P.C.S. (Pre) 1996 / U.P.P.C.S. (Pre) 1992]
 Which one of the following is used in food preservation?
 
 (a) Sodium Carbonate (b) Acetylene
@@ -365,32 +375,15 @@ Which one of the following is used in food preservation?
 (c) Benzoic Acid (d) Sodium Chloride
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Benzoic acid (C7 H6 O2 ) or C6 H5 COOH is the colourless crystalline solid and simple aromatic carboxylic acid.
 
-**High-Yield Explanation:**
-Benzoic acid (C7
-
-H6
-
-O2
-
-) or C6
-
-H5
-
-COOH is the colourless
-
-crystalline solid and simple aromatic carboxylic acid. The
-
-name is derived from gas benzoin. Its salts (e.g. sodium
-
-benzoate) are used as food preservative.
+**Ans: C.** Benzoic Acid
 </details>
 
+**Q-ST7. UP RO/ARO (Pre) (Re. Exam) 2016**
 
-#### Q7 [U.P. R.O./A.R.O. (Pre) (Re. Exam) 2016]
 Potato chips are packed in plastic bags in the atmosphere of :
 
 (a) Nitrogen Atmosphere (b) Hydrogen Atmosphere
@@ -398,26 +391,15 @@ Potato chips are packed in plastic bags in the atmosphere of :
 (c) Oxygen Atmosphere (d) Iodine Atmosphere
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** Potato chips are packed in plastic bags in the atmosphere of nitrogen to protect them from being oxidized.
 
-**High-Yield Explanation:**
-Potato chips are packed in plastic bags in the atmosphere of
-
-nitrogen to protect them from being oxidized. It gives the
-
-chips a longer shelf life because bacteria, molds, etc. need
-
-oxygen to thrive, and in the absence of oxygen they cannot
-
-grow. It also keeps away moisture and keeps the chips intact
-
-during transportation.
+**Ans: A.** Nitrogen Atmosphere
 </details>
 
+**Q-ST9. UPPCS (Pre) 2021**
 
-#### Q9 [U.P. P.C.S. (Pre) 2021]
 Fruits stored in a cold chamber exhibit longer storage
 
 life, because :
@@ -433,34 +415,15 @@ in environment is increased
 (d) There is an increase in humidity
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** The shelf life of fruits and vegetables can be increased by keeping them in cold storage.
 
-**High-Yield Explanation:**
-The shelf life of fruits and vegetables can be increased
-
-by keeping them in cold storage. This results in a slower
-
-ripening process and fruits and vegetables remain fresh
-
-for a longer duration. Notably, when fruits are stored in a
-
-cold chamber, their rate of respiration is decreased. When
-
-fruit respires they release ethylene which helps in ripening.
-
-Ethylene is also known as the 'fruit-ripening hormone'.
-
-Every fruit has a different level of ethylene production. The
-
-rate of ethylene production decreases when fruits are kept in
-
-cold storage. Thus, the shelf life of fruits increases.
+**Ans: C.** Rate of respiration is decreased
 </details>
 
+**Q-ST10. UPPCS(Pre) 2013 / U.P.P.C.S (Pre) 2011**
 
-#### Q10 [U.P.P.C.S.(Pre) 2013 / U.P.P.C.S (Pre) 2011]
 Refrigeration helps in food preservation by –
 
 (a) Killing the germs
@@ -472,20 +435,15 @@ Refrigeration helps in food preservation by –
 (d) Sealing the food with a layer of ice
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Refrigeration preserves foods by slowing down the growth and reproduction of microorganisms or we can say that by refrigeration we can reduce the rate of biochemical reactions.
 
-**High-Yield Explanation:**
-Refrigeration preserves foods by slowing down the growth
-
-and reproduction of microorganisms or we can say that by
-
-refrigeration we can reduce the rate of biochemical reactions.
+**Ans: B.** Reducing the rate of biochemical reactions
 </details>
 
+**Q-ST13. UPPCS (Pre) 1998**
 
-#### Q13 [U.P.P.C.S. (Pre) 1998]
 Charcoal which is used in decolouring raw sugar is :
 
 (a) Wood charcoal (b) Sugar charcoal
@@ -493,22 +451,15 @@ Charcoal which is used in decolouring raw sugar is :
 (c) Animal charcoal (d) Coconut charcoal
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Animal charcoal also, known as bone charcoal is primarily used for filtration and decolourization.
 
-**High-Yield Explanation:**
-Animal charcoal also, known as bone charcoal is primarily
-
-used for filtration and decolourization. Bone charcoal
-
-is often used in sugar refining as a decolourizing and
-
-de-ashing agent.
+**Ans: C.** Animal charcoal
 </details>
 
+**Q-ST14. UPPCS (Pre) 2002 / I.A.S. (Pre) 1997**
 
-#### Q14 [U.P.P.C.S. (Pre) 2002 / I.A.S. (Pre) 1997]
 The main component of honey is :
 
 (a) Glucose (b) Sucrose
@@ -516,22 +467,15 @@ The main component of honey is :
 (c) Maltose (d) Fructose
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** The main components of honey are fructose–38.2%, glucose–31.3%, sucrose–1.3%, maltose–7.1% and water–17.2%.
 
-**High-Yield Explanation:**
-The main components of honey are fructose–38.2%,
-
-glucose–31.3%, sucrose–1.3%, maltose–7.1% and
-
-water–17.2%. Fructose or fruit sugar is a simple ketonic
-
-monosaccharide found in many plants.
+**Ans: D.** Fructose
 </details>
 
+**Q-ST16. UPPCS (Pre) 2020**
 
-#### Q16 [U.P. P.C.S. (Pre) 2020]
 Given below are two statements, one is labelled as
 
 Assertion (A) and other as Reason (R) :
@@ -557,30 +501,15 @@ explanation of (A).
 (d) (A) is false but (R) is true.
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Invert sugar is made by splitting disaccharide sucrose into its two components monosaccharides fructose and glucose (dextrose).
 
-**High-Yield Explanation:**
-Invert sugar is made by splitting disaccharide sucrose into
-
-its two components monosaccharides fructose and glucose
-
-(dextrose). The conventional way to make invert sugar is
-
-by the hydrolysis of sucrose to glucose and fructose. Invert
-
-sugar is sweeter than sucrose (ordinary white sugar) due to
-
-free fructose crystals in it which is the sweetest natural sugar.
-
-Hence, both (A) and (R) are true, but (R) is not the correct
-
-explanation of (A).
+**Ans: B.** Both (A) and (R) are true but (R) is not the correct
 </details>
 
+**Q-ST18. UP RO/ARO (Pre) 2021**
 
-#### Q18 [U.P. R.O./A.R.O. (Pre) 2021]
 Which of the following pairs is/are correctly matched?
 
 1. Beet – Sugar
@@ -600,18 +529,15 @@ Code :
 (c) Only 1, 2 and 4 (d) 1, 2, 3 and 4
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** All of the given pairs are correctly matched.
 
-**High-Yield Explanation:**
-All of the given pairs are correctly matched. Hence, option
-
-(d) is the correct answer.
+**Ans: D.** 1, 2, 3 and 4
 </details>
 
+**Q-ST24. UP RO/ARO (Mains) 2021**
 
-#### Q24 [U.P. R.O./A.R.O. (Mains) 2021]
 Antibiotics are mostly obtained from :
 
 (a) Fungi (b) Viruses
@@ -619,40 +545,15 @@ Antibiotics are mostly obtained from :
 (c) Bacteria (d) Angiosperms
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Antibiotics are medicines that fight bacterial infections in people and animals.
 
-**High-Yield Explanation:**
-Antibiotics are medicines that fight bacterial infections in
-
-people and animals. They work by killing the bacteria or
-
-by making it hard for the bacteria to grow and multiply.
-
-Antibiotics are mostly obtained from bacteria. Majority
-
-of antibiotics are produced by Streptomyces (and other
-
-actinomycetes) and various Bacillus species. Actinomycetes
-
-is the family of soil bacteria that has produced most of our
-
-antibiotics and other medically useful molecules. Many
-
-antibiotics are also obtained from other microorganisms, such
-
-as moulds and fungus. With advances in medicinal chemistry,
-
-most modern antibiotics are semisynthetic modifications
-
-of various natural compounds. However, some are also
-
-produced solely by chemical synthesis in the lab.
+**Ans: C.** Bacteria (d) Angiosperms
 </details>
 
+**Q-ST27. UPPCS (Mains) 2006**
 
-#### Q27 [U.P.P.C.S. (Mains) 2006]
 Which one of the following is not correctly matched?
 
 (a) Antipyretic – Paracetamol
@@ -664,26 +565,15 @@ Which one of the following is not correctly matched?
 (d) Antirachitic – Calciferol (Vitamin D)
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Aspirin or acetylsalicylic acid is a salicylate drug and is generally used as an analgesic (something that relieves pain without producing anaesthesia or loss of consciousness) for minor aches and pains, to reduce fever…
 
-**High-Yield Explanation:**
-Aspirin or acetylsalicylic acid is a salicylate drug and is
-
-generally used as an analgesic (something that relieves pain
-
-without producing anaesthesia or loss of consciousness)
-
-for minor aches and pains, to reduce fever (an antipyretic)
-
-and also as an anti-inflammatory drug. It is not antiseptic.
-
-Remaining pairs are correctly matched.
+**Ans: C.** Antiseptic – Aspirin
 </details>
 
+**Q-ST28. UP. R.O./A.R.O. (Pre) 2017**
 
-#### Q28 [UP. R.O./A.R.O. (Pre) 2017]
 Which one of the following pairs is not correctly matched?
 
 (a) Chloromycetin – antityphoid
@@ -695,20 +585,15 @@ Which one of the following pairs is not correctly matched?
 (d) Aspirin – anaesthetic
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** Aspirin is not anaesthetic.
 
-**High-Yield Explanation:**
-Aspirin is not anaesthetic. It is analgesic (pain reliever) and
-
-antipyretic (to remove fever). Other pairs are correctly
-
-matched.
+**Ans: D.** Aspirin – anaesthetic
 </details>
 
+**Q-ST29. U.P.P.C.S (Pre) 2010**
 
-#### Q29 [U.P.P.C.S (Pre) 2010]
 Which one of the following compounds is used as a
 
 sedative?
@@ -722,24 +607,15 @@ sedative?
 (d) Phosphorus Trichloride
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** Potassium Bromide (KBr) is a salt, widely used as an anticonvulsant and a sedative in the late 19th and early 20th centuries.
 
-**High-Yield Explanation:**
-Potassium Bromide (KBr) is a salt, widely used as an
-
-anticonvulsant and a sedative in the late 19th and early 20th
-
-centuries. It is used as a veterinary drug, as an antiepileptic
-
-medication for dogs. It is an odourless, colourless crystals
-
-or white granular solid with a pungent bitter saline taste.
+**Ans: A.** Potassium Bromide
 </details>
 
+**Q-ST30. UPPCS (Pre) 1996**
 
-#### Q30 [U.P.P.C.S. (Pre) 1996]
 Which one of the following forms an irreversible
 
 complex with a hemoglobin of the blood?
@@ -753,26 +629,15 @@ complex with a hemoglobin of the blood?
 (d) A mixture of Carbon Dioxide and Helium
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Carbon monoxide (CO) is a deadly, colourless, odourless, poisonous gas.
 
-**High-Yield Explanation:**
-Carbon monoxide (CO) is a deadly, colourless, odourless,
-
-poisonous gas. It is produced by the incomplete burning of
-
-various fuels including coal, wood, charcoal, oil, kerosene,
-
-propane and natural gas. Carboxyhemoglobin (COHb) is a
-
-stable complex of carbon monoxide that generates in red
-
-blood cells when carbon monoxide is inhaled.
+**Ans: C.** Carbon Monoxide
 </details>
 
+**Q-ST32. U.P.U.D.A./L.D.A. (Spl.) (Mains) 2010 / I.A.S. (Pre) 1997**
 
-#### Q32 [U.P.U.D.A./L.D.A. (Spl.) (Mains) 2010 / I.A.S. (Pre) 1997]
 Which one of the following oil is an active component
 
 of oil of clove?
@@ -786,24 +651,15 @@ of oil of clove?
 (d) Benzaldehyde
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Standard key matches Eugenol.
 
-**High-Yield Explanation:**
-Eugenol is a colourless or light yellow aromatic oily liquid
-
-extracted from cloves having chemical formula C10H12O2
-
-.
-
-It smells like cloves with spicy pungent taste. It is the main
-
-component of oil of clove.
+**Ans: B.** Eugenol
 </details>
 
+**Q-ST33. UPPCS (Main) 2013**
 
-#### Q33 [U.P.P.C.S. (Main) 2013]
 Which one of the following fruits is most suitable for
 
 jelly making?
@@ -813,22 +669,15 @@ jelly making?
 (c) Guava (d) Wood apple
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** The smaller acid fruits are more suitable for jelly making since they are usually high in pectin content and acid.
 
-**High-Yield Explanation:**
-The smaller acid fruits are more suitable for jelly making
-
-since they are usually high in pectin content and acid. Guavas
-
-have high calcium and phosphorus contents. High pectin
-
-contents make guava suitable for jelly making.
+**Ans: C.** Guava (d) Wood apple
 </details>
 
+**Q-ST34. UPPSC (R.I.) 2014**
 
-#### Q34 [U.P.P.S.C. (R.I.) 2014]
 Organic food is supposed to be better for us because it
 
 (a) Relies on chemicals to improve the flavour
@@ -842,32 +691,19 @@ Organic food is supposed to be better for us because it
 pesticides.
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** Organic food is produced by farmers who emphasize the use of renewable resources and the conservation of soil and water to enhance environmental quality for future generations.
 
-**High-Yield Explanation:**
-Organic food is produced by farmers who emphasize the use
-
-of renewable resources and the conservation of soil and water
-
-to enhance environmental quality for future generations. The
-
-organic food is produced without using most conventional
-
-pesticides; fertilizers made with synthetic ingredients or
-
-sewage sludge, bioengineering or ionizing radiation.
+**Ans: D.** Is grown without the use of artificial fertilizers and
 </details>
-
 
 ### UKPCS Prelims (0 Questions)
 
-
-
 ### BPSC, IAS, RAS & Other State PCS (14 Questions)
 
-#### Q2 [44th B.P.S.C. (Pre) 2000]
+**Q-ST2. 44th B.P.S.C. (Pre) 2000**
+
 Which one of the following substances is used in the
 
 preservation of food stuff?
@@ -877,69 +713,29 @@ preservation of food stuff?
 (c) Sodium Benzoate (d) Sodium Chloride
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** The chemical formula of Sodium Benzoate is C7 H5 NaO2 .
 
-**High-Yield Explanation:**
-The chemical formula of Sodium Benzoate is C7
-
-H5
-
-NaO2
-
-. It
-
-is widely used as a food preservative, with E number E211.
-
-It is the sodium salt of benzoic acid and exists in this form
-
-when dissolved in water and its melting point is 410o
-
-C.
+**Ans: C.** Sodium Benzoate
 </details>
 
+**Q-ST8. c**
 
-#### Q8 [(c) Preserver (d) Emulsifier / M.P. P.C.S. (Pre) 2020]
 Monosodium glutamate (MSG) in food is used as :
 
 (a) Colour enhancer (b) Flavour enhancer
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Monosodium Glutamate is commonly known as Ajinomoto.
 
-**High-Yield Explanation:**
-Monosodium Glutamate is commonly known as Ajinomoto.
-
-It is the sodium salt of glutamic acid. MSG is found naturally
-
-in some foods including tomatoes and cheese in this glutamic
-
-acid form. Monosodium glutamate (MSG) is a flavor enhancer
-
-and preserver commonly added to Chinese food, canned
-
-vegetables, soups and processed meats. It is used to flavor
-
-and season foods and to preserve them as well. It can
-
-enhance the perception of savoriness while preserving
-
-palatability. MSG is used in cooking as a flavor enhancer
-
-with an umami taste that intensifies the meaty, savory flavor
-
-of food, as naturally occurring glutamate does in foods such
-
-as stews and meat soups. MSG was first prepared in 1908
-
-from seaweed broth by Japanese biochemist Kikunae Ikeda.
+**Ans: B.** Flavour enhancer
 </details>
 
+**Q-ST11. Jharkhand P.C.S. (Pre) 2013**
 
-#### Q11 [Jharkhand P.C.S. (Pre) 2013]
 Which of the following is a common refrigerant used
 
 in the domestic refrigerator?
@@ -949,22 +745,15 @@ in the domestic refrigerator?
 (c) Freon (d) None of the above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Freon is a common refrigerant used in domestic refrigerator.
 
-**High-Yield Explanation:**
-Freon is a common refrigerant used in domestic refrigerator. It
-
-is the name of a registered patent for a commercial refrigerant
-
-manufactured by Dupont. Freon is mildly toxic but stable
-
-halocarbon.
+**Ans: C.** Freon (d) None of the above
 </details>
 
+**Q-ST12. I.A.S. (Pre) 2021**
 
-#### Q12 [I.A.S. (Pre) 2021]
 'Triclosan', considered harmful when exposed to high
 
 levels for a long time, is most likely present in which
@@ -980,44 +769,15 @@ of the following?
 (d) Toiletries
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** Triclosan is a chemical with antibacterial properties.
 
-**High-Yield Explanation:**
-Triclosan is a chemical with antibacterial properties. Triclosan
-
-is an ingredient added to many consumer products intended
-
-to reduce or prevent bacterial contamination. It is added to
-
-some antibacterial soaps and body washes, toothpastes, and
-
-some cosmetics products. It also can be found in clothing,
-
-kitchenware, furniture, and toys. In 2017, the US Food and
-
-Drug Administration (FDA) declared that triclosan is not
-
-generally recognized as safe and effective for antiseptic
-
-products intended for use in health care settings. In 2016, the
-
-FDA also banned over-the-counter consumer antiseptic
-
-wash products containing triclosan from being marketed to
-
-consumers. These products include liquid, foam and gel hand
-
-soaps, bar soaps, and body washes. The basis of the ban was
-
-that manufacturers haven't proved that triclosan is safe for
-
-daily use over a long period.
+**Ans: D.** Toiletries
 </details>
 
+**Q-ST15. 66th B.P.S.C. (Pre) 2020**
 
-#### Q15 [66th B.P.S.C. (Pre) 2020]
 The sweetest sugar among the following is:
 
 (a) fructose (b) glucose
@@ -1027,36 +787,15 @@ The sweetest sugar among the following is:
 (e) None of the above / More than one of the above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** Fructose is the sweetest sugar among all natural sugars.
 
-**High-Yield Explanation:**
-Fructose is the sweetest sugar among all natural sugars. Sugars
-
-are saccharides which have varying degrees of sweetness on
-
-a relative scale as illustrated in the following table :
-
-Relative Sweetness Scale (Sucrose = 100)
-
-Compound Sweetness
-
-Sucrose 100
-
-Fructose 140-170
-
-Glucose 70-80
-
-Maltose 30-50
-
-Galactose 35
-
-Lactose 20
+**Ans: A.** fructose (b) glucose
 </details>
 
+**Q-ST17. RAS/RTS (Pre) 2018**
 
-#### Q17 [R.A.S./R.T.S. (Pre) 2018]
 Match column I with column II and choose the correct
 
 answer using the code given below :
@@ -1086,24 +825,15 @@ A B C D E
 (d) (i) (iv) (v) (iii) (ii)
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Grape Sugar – Glucose Fruit Sugar – Fructose Table Sugar – Sucrose Stevia – Natural Sweetner Milk Sugar – Lactose
 
-**High-Yield Explanation:**
-Grape Sugar – Glucose
-
-Fruit Sugar – Fructose
-
-Table Sugar – Sucrose
-
-Stevia – Natural Sweetner
-
-Milk Sugar – Lactose
+**Ans: C.** Milk Sugar (iii) Natural Sweetner
 </details>
 
+**Q-ST19. I.A.S. (Pre) 2011**
 
-#### Q19 [I.A.S. (Pre) 2011]
 Aspartame is an artificial sweetener sold in the market.
 
 It consists of amino acids and provides calories like
@@ -1139,28 +869,15 @@ hence food items made with small quantities of
 aspartame yield fewer calories on oxidation.
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** Aspartame is an artificial, non-saccharide sweetener used as a sugar substitute in some foods and beverages.
 
-**High-Yield Explanation:**
-Aspartame is an artificial, non-saccharide sweetener used as
-
-a sugar substitute in some foods and beverages. Aspartame
-
-is approx. 200 times sweeter than sucrose (table sugar).
-
-Due to this property, even though aspartame produces four
-
-kilo calories of energy per gram when metabolized, but the
-
-quantity of aspartame needed to produce a sweet taste is so
-
-small that its calorie contribution is negligible.
+**Ans: D.** Aspartame is several times sweeter than table sugar,
 </details>
 
+**Q-ST20. RAS/RTS (Pre) 2024**
 
-#### Q20 [R.A.S./R.T.S. (Pre) 2024]
 Which of the following artificial sweeteners have the
 
 highest sweetness value in comparison to sucrose?
@@ -1170,28 +887,15 @@ highest sweetness value in comparison to sucrose?
 (c) Sucrolose (d) Saccharin
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Relative sweetness to sucrose (table sugar) by weight of given artificial sweeteners is as follows : Aspartame – 200 times Alitame – 2000 times Sucralose – 600 times Saccharin – 200-700 times Hence, option (b) is the co…
 
-**High-Yield Explanation:**
-Relative sweetness to sucrose (table sugar) by weight of given
-
-artificial sweeteners is as follows :
-
-Aspartame – 200 times
-
-Alitame 		 – 2000 times
-
-Sucralose – 600 times
-
-Saccharin – 200-700 times
-
-Hence, option (b) is the correct answer.
+**Ans: B.** Alitame
 </details>
 
+**Q-ST21. 69th B.P.S.C. (Pre) 2023**
 
-#### Q21 [69th B.P.S.C. (Pre) 2023]
 What is the basic of most useful classification of
 
 medications in medical chemistry?
@@ -1201,26 +905,15 @@ medications in medical chemistry?
 (c) Chemical structure (d) None of the above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Drugs usually interact with biomolecules such as carbohydrates, lipids, proteins and nucleic acids.
 
-**High-Yield Explanation:**
-Drugs usually interact with biomolecules such as carbohydrates, lipids, proteins and nucleic acids. These are
-
-called target molecules or drug targets. Drugs possessing
-
-some common structural features may have the same
-
-mechanism of action on targets. The classification based
-
-on molecular targets is the most useful classification in
-
-medical chemistry.
+**Ans: B.** Molecular targets
 </details>
 
+**Q-ST22. 47th B.P.S.C. (Pre) 2005**
 
-#### Q22 [47th B.P.S.C. (Pre) 2005]
 Aspirin is obtained from –
 
 (a) Petroleum (b) Earth
@@ -1228,22 +921,15 @@ Aspirin is obtained from –
 (c) A tree (d) Chemical reaction of acids
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Aspirin is a salicylate.
 
-**High-Yield Explanation:**
-Aspirin is a salicylate. It works by reducing substances in the
-
-body that causes pain, fever and inflammation. It is sometimes
-
-used to treat or prevent heart attacks, strokes and chest pain.
-
-It is obtained from latex tree.
+**Ans: C.** A tree (d) Chemical reaction of acids
 </details>
 
+**Q-ST23. 40th B.P.S.C. (Pre) 1995**
 
-#### Q23 [40th B.P.S.C. (Pre) 1995]
 Aspirin is –
 
 (a) Antibiotic (b) Antipyretic
@@ -1251,22 +937,15 @@ Aspirin is –
 (c) Reliever (d) None of the above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Antipyretics cause the hypothalamus to override a prostaglandin-induced increase in temperature.
 
-**High-Yield Explanation:**
-Antipyretics cause the hypothalamus to override a
-
-prostaglandin-induced increase in temperature. The body
-
-then works to lower the temperature, resulting in a reduction
-
-in fever. Aspirin is antipyretic and analgesic.
+**Ans: B.** Antipyretic
 </details>
 
+**Q-ST25. 63rd B.P.S.C. (Pre) 2017**
 
-#### Q25 [63rd B.P.S.C. (Pre) 2017]
 The antibiotic among the following is :
 
 (a) Pencillin (b) Aspirin
@@ -1276,20 +955,15 @@ The antibiotic among the following is :
 (e) None of the above/More than one of the above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(E)**
+**Logic:** Among the given options, pencillin and sulfadiazine both are antibiotics.
 
-**High-Yield Explanation:**
-Among the given options, pencillin and sulfadiazine both
-
-are antibiotics. Aspirin and paracetamol are analgesic and
-
-antipyretic medicines.
+**Ans: E.** None of the above/More than one of the above
 </details>
 
+**Q-ST26. 66th B.P.S.C. (Pre) (Re. Exam) 2020**
 
-#### Q26 [66th B.P.S.C. (Pre) (Re. Exam) 2020]
 An example of antibiotic medicine :
 
 (a) Aspirin (b) Paracetamol
@@ -1299,22 +973,15 @@ An example of antibiotic medicine :
 (e) None of the above/More than one of the above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** Among the given options, penicillin is an antibiotic medicine.
 
-**High-Yield Explanation:**
-Among the given options, penicillin is an antibiotic medicine.
-
-Aspirin and paracetamol are analgesic and antipyretic
-
-medicines while chloroquine belongs to antimalarial
-
-medicines.
+**Ans: D.** Penicillin
 </details>
 
+**Q-ST31. RAS/RTS(Pre) 1999**
 
-#### Q31 [R.A.S./R.T.S.(Pre) 1999]
 Milk is homogenized by :
 
 (a) Adding a little sodium carbonate
@@ -1328,509 +995,12 @@ with the help of centrifuge
 (d) Boiling only
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
-
-**Correct Answer:** **(C)**
-
-**High-Yield Explanation:**
-Homogenization breaks the fat into small sizes so it no
-
-longer separates allowing the sale of non-separating milk at
-
-any fat specification. The fat in the milk normally separates
-
-from the water and collects at the top. Thus the consistency
-
-and texture is homogenized. It is a purely physical process,
-
-nothing is added to the milk.
-</details>
-
-
-## Practice Zone — High-Yield Mock Drills (26 Questions)
-
-**Q1.** What is the percentage of nitrogen present in commercial Urea fertilizer?  
-(a) $21\%$  
-(b) $28\%$  
-(c) $46\%$  
-(d) $60\%$  
-
-<details>
 <summary>Show answer</summary>
 
-**Correct Answer:** (c)
+**Logic:** Homogenization breaks the fat into small sizes so it no longer separates allowing the sale of non-separating milk at any fat specification.
 
-- **Detailed Explanation:**
-  - Urea ($NH_2CONH_2$) contains approximately $46\%$ nitrogen by weight, the highest of all solid nitrogenous fertilizers.
+**Ans: C.** Breaking down fat particles to the microscopic size
 </details>
-
----
-
-**Q2.** Which specialty glass is designed with cerium oxide to cut off harmful ultraviolet radiation?  
-(a) Soda glass  
-(b) Flint glass  
-(c) Crookes glass  
-(d) Pyrex glass  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (c)
-
-- **Detailed Explanation:**
-  - Crookes glass contains cerium oxide ($CeO_2$), which absorbs UV rays in sunglasses.
-</details>
-
----
-
-**Q3.** Which chemical salt is used as a light-sensitive emulsion on photographic film?  
-(a) Silver bromide ($AgBr$)  
-(b) Silver iodide ($AgI$)  
-(c) Silver nitrate ($AgNO_3$)  
-(d) Silver oxide ($Ag_2O$)  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (a)
-
-- **Detailed Explanation:**
-  - Silver bromide ($AgBr$) is the light-sensitive compound in photographic emulsions.
-</details>
-
----
-
-**Q4.** Which compound is used for cloud seeding to generate artificial rain?  
-(a) Silver bromide  
-(b) Silver iodide ($AgI$)  
-(c) Sodium chloride only  
-(d) Calcium carbonate  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Silver iodide ($AgI$) serves as an ice-nucleating agent in clouds due to its crystalline resemblance to ice.
-</details>
-
----
-
-**Q5.** Sodium chlorate ($NaClO_3$) is commercially used in agriculture as a:  
-(a) Fertilizer  
-(b) Non-selective herbicide  
-(c) Rodenticide  
-(d) Fungicide  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Sodium chlorate is a broad-spectrum herbicide used to clear vegetation.
-</details>
-
----
-
-**Q6.** Zinc phosphide ($Zn_3P_2$) is widely used as a:  
-(a) Rodenticide (rat poison)  
-(b) Fertilizer  
-(c) Selective herbicide  
-(d) Fungicide  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (a)
-
-- **Detailed Explanation:**
-  - Zinc phosphide releases toxic phosphine gas in rodent stomachs, acting as a rodenticide.
-</details>
-
----
-
-**Q7.** Why is DDT banned globally under the Stockholm Convention?  
-(a) It is too expensive to manufacture  
-(b) It is non-biodegradable and biomagnifies in food chains  
-(c) It turns soil alkaline  
-(d) It causes rust on farm machinery  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - DDT persists in the environment and accumulates in food webs, causing ecological damage such as avian eggshell thinning.
-</details>
-
----
-
-**Q8.** What is the commercial chemical name of the photographic fixer "Hypo"?  
-(a) Sodium thiosulphate pentahydrate  
-(b) Sodium sulphate  
-(c) Sodium sulphite  
-(d) Sodium bisulphite  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (a)
-
-- **Detailed Explanation:**
-  - Hypo is sodium thiosulphate ($Na_2S_2O_3 \cdot 5H_2O$), which dissolves unexposed silver bromide from film.
-</details>
-
----
-
-**Q9.** Aspirin is chemically:  
-(a) Acetylsalicylic acid  
-(b) Methyl salicylate  
-(c) Phenyl salicylate  
-(d) Benzoic acid  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (a)
-
-- **Detailed Explanation:**
-  - Aspirin is acetylsalicylic acid, an analgesic, antipyretic, and antiplatelet drug.
-</details>
-
----
-
-**Q10.** What byproduct is generated during the manufacture of soap by saponification?  
-(a) Methanol  
-(b) Glycerol (Glycerine)  
-(c) Ethanol  
-(d) Acetone  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Saponification of triglycerides yields soap and glycerol.
-</details>
-
----
-
-**Q11.** Which of the following compounds is used as a food preservative in tomato ketchup and fruit squashes?  
-(a) Sodium benzoate  
-(b) Sodium chlorate  
-(c) Calcium carbide  
-(d) Zinc phosphide  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (a)
-
-- **Detailed Explanation:**
-  - Sodium benzoate ($C_6H_5COONa$) inhibits yeast and mold growth in acidic foods.
-</details>
-
----
-
-**Q12.** What type of glass contains lead oxide ($PbO$) and possesses a high refractive index used for lenses and prisms?  
-(a) Soda glass  
-(b) Flint glass  
-(c) Pyrex glass  
-(d) Crookes glass  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Flint glass contains lead oxide, providing high optical dispersion and refractive index for lenses and prisms.
-</details>
-
----
-
-**Q13.** Why is gypsum added to Portland cement during the grinding process?  
-(a) To retard initial setting time  
-(b) To accelerate hardening  
-(c) To impart color  
-(d) To increase water solubility  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (a)
-
-- **Detailed Explanation:**
-  - Gypsum slows the hydration of tricalcium aluminate, preventing flash setting.
-</details>
-
----
-
-**Q14.** Which soil amendment is added to reclaim acidic soils ($\text{pH} < 6$)?  
-(a) Gypsum  
-(b) Agricultural lime ($CaCO_3 / Ca(OH)_2$)  
-(c) Urea  
-(d) Ammonium sulphate  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Liming neutralizes excess $H^+$ ions in acidic soils.
-</details>
-
----
-
-**Q15.** What is added to reclaim alkaline/sodic soils ($\text{pH} > 8.5$)?  
-(a) Slaked lime  
-(b) Gypsum ($CaSO_4 \cdot 2H_2O$)  
-(c) Sodium carbonate  
-(d) Chalk  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Gypsum supplies calcium ions to displace sodium from sodic soils, restoring soil structure.
-</details>
-
----
-
-**Q16.** What gas is flushed into snack bags to prevent oxidative rancidity of oils?  
-(a) Oxygen  
-(b) Nitrogen  
-(c) Chlorine  
-(d) Carbon dioxide  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Nitrogen gas creates an inert atmosphere, preventing fats and oils from oxidizing.
-</details>
-
----
-
-**Q17.** Which active chemical compound is present in commercial Dettol antiseptic?  
-(a) Chloroxylenol  
-(b) Aspirin  
-(c) Paracetamol  
-(d) Penicillin  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (a)
-
-- **Detailed Explanation:**
-  - Dettol contains chloroxylenol blended with $\alpha$-terpineol.
-</details>
-
----
-
-**Q18.** A $0.2\%$ aqueous solution of phenol is used as an:  
-(a) Antiseptic  
-(b) Disinfectant  
-(c) Analgesic  
-(d) Herbicide  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (a)
-
-- **Detailed Explanation:**
-  - At $0.2\%$, phenol acts as an antiseptic; at $1.0\%$, it acts as a disinfectant.
-</details>
-
----
-
-**Q19.** Which of the following is a selective herbicide used to control broad-leaved weeds in wheat crops?  
-(a) 2,4-D  
-(b) DDT  
-(c) Zinc phosphide  
-(d) BHC  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (a)
-
-- **Detailed Explanation:**
-  - 2,4-D selectively eliminates broad-leaved weeds in cereal crops.
-</details>
-
----
-
-**Q20.** Who discovered the first clinical antibiotic, Penicillin, in 1928?  
-(a) Alexander Fleming  
-(b) Louis Pasteur  
-(c) Robert Koch  
-(d) Edward Jenner  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (a)
-
-- **Detailed Explanation:**
-  - Alexander Fleming discovered penicillin from *Penicillium notatum*.
-</details>
-
----
-
-**Q21.** Which fertilizer is $100\%$ imported by India due to a lack of commercial deposits?  
-(a) Urea  
-(b) Muriate of Potash (MOP)  
-(c) Single superphosphate  
-(d) Ammonium sulphate  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - India imports its entire potassium fertilizer supply (MOP).
-</details>
-
----
-
-**Q22.** Why does soap form scum in hard water?  
-(a) Because soap dissolves completely  
-(b) Because soap reacts with $Ca^{2+}$ and $Mg^{2+}$ ions to form insoluble precipitates  
-(c) Because hard water boils away  
-(d) Because soap evaporates  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Soap fatty acids form insoluble calcium and magnesium salts (scum) in hard water.
-</details>
-
----
-
-**Q23.** Which synthetic cleansing agent lathers and cleans effectively in hard water?  
-(a) Sodium stearate soap  
-(b) Synthetic detergents (alkylbenzene sulphonates)  
-(c) Vegetable oil  
-(d) Potassium palmitate soap  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Synthetic detergents form water-soluble calcium and magnesium salts, lathering cleanly in hard water.
-</details>
-
----
-
-**Q24.** Tincture of iodine is an antiseptic solution containing:  
-(a) $2–3\%$ iodine in alcohol-water  
-(b) $100\%$ pure solid iodine  
-(c) Potassium iodide in petrol  
-(d) Iodoform in vinegar  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (a)
-
-- **Detailed Explanation:**
-  - Tincture of iodine is a $2–3\%$ solution of elemental iodine in an alcohol-water mixture.
-</details>
-
----
-
-**Q25.** Which of the following is an organochlorine pesticide?  
-(a) Malathion  
-(b) DDT  
-(c) Parathion  
-(d) Carbaryl  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - DDT is an organochlorine; Malathion and Parathion are organophosphates.
-</details>
-
----
-
-**Q26.** What is the primary role of Bithionol in toilet soaps?  
-(a) To add red color  
-(b) To impart antiseptic and deodorant properties  
-(c) To make soap hard  
-(d) To increase lathering  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Bithionol is added to soaps as an antiseptic to control skin bacteria and reduce body odor.
-</details>
-
----
-
-## Common Traps & High-Yield Pitfalls
-
-| Trap Area | What Students Confuse | Correct Fact |
-|---|---|---|
-| **Photography vs. Artificial Rain** | Mixing up Silver Bromide and Silver Iodide. | **Silver Bromide ($AgBr$) = Photography**. **Silver Iodide ($AgI$) = Cloud Seeding / Artificial Rain**. |
-| **Urea Nitrogen Percentage** | Guessing 20% or 60% for urea. | Urea contains strictly **$46\%\text{ Nitrogen (N)}$** (highest of all solid fertilizers). |
-| **Crookes Glass Function** | Confusing Crookes glass with Pyrex heat-resistant glass. | **Crookes glass cuts off UV radiation** (contains $CeO_2$); Pyrex resists heat shock ($B_2O_3$). |
-| **DDT Biodegradability** | Assuming DDT is an organic compound that degrades in soil. | DDT is **strictly non-biodegradable** and biomagnifies up trophic levels. |
-| **Soil Remediation Pairs** | Reversing gypsum and lime for acid vs alkaline soils. | **Lime ($CaCO_3$) is for Acid soils**. **Gypsum ($CaSO_4 \cdot 2H_2O$) is for Alkaline / Sodic soils**. |
-| **Antiseptic vs. Disinfectant Phenol** | Thinking phenol is solely a disinfectant. | **$0.2\%$ Phenol is an Antiseptic**; **$1.0\%$ Phenol is a Disinfectant**. |
-| **Herbicide vs. Rodenticide** | Confusing Sodium Chlorate with Zinc Phosphide. | **Sodium Chlorate = Herbicide (weed killer)**. **Zinc Phosphide = Rodenticide (rat poison)**. |
-| **Neem-Coated Urea Purpose** | Assuming neem is added as a green dye or pesticide. | Neem oil **retards nitrification**, slowing nitrogen release and preventing industrial diversion. |
-| **Imported Fertilizer** | Believing India is self-sufficient in all fertilizer nutrients. | India imports **$100\%$ of its Potash (MOP)** fertilizer requirements. |
-| **Soap in Hard Water** | Assuming detergents form scum like soap. | Soaps form insoluble scum in hard water; **synthetic detergents lather and clean effectively in hard water**. |
-
-
----
-
-## Bilingual Terminology -- Chemistry in Daily Life and Agriculture
-
-| English Term | Hindi Term | Key Anchor |
-|---|---|---|
-| **Fertiliser** (उर्वरक) | रासायनिक उर्वरक | Chemical compound supplying nutrients to plants (N, P, K) |
-| **Urea** (यूरिया) | यूरिया | Most used nitrogenous fertiliser; CO(NH2)2; 46% N |
-| **DAP** (डीएपी) | डाईअमोनियम फॉस्फेट | Diammonium Phosphate; N + P fertiliser |
-| **Pesticide** (कीटनाशक) | कीटनाशी / कीटनाशक | Chemical that kills pests; insecticide, fungicide, herbicide |
-| **DDT** (डीडीटी) | डीडीटी | Dichlorodiphenyltrichloroethane; organochlorine insecticide; banned (persistent) |
-| **Insecticide** (कीटनाशी) | कीटनाशी | Kills insects; e.g., malathion, BHC, pyrethroids |
-| **Herbicide** (शाकनाशी) | शाकनाशी | Kills weeds; e.g., 2,4-D; Agent Orange (2,4,5-T + 2,4-D) |
-| **Fungicide** (कवकनाशी) | फफूंदनाशक | Kills fungi; e.g., Bordeaux mixture (CuSO4 + lime) |
-| **Preservative** (परिरक्षक) | परिरक्षक | Food additive preventing spoilage; salt, sugar, vinegar, sodium benzoate |
-| **Food Additive** (खाद्य योज्य) | खाद्य योजक | Substance added to food for colour, flavour, preservation, nutrition |
-| **Dye** (रंजक) | रंजक | Coloured substance; synthetic (aniline dyes) or natural (indigo, turmeric) |
-| **Soap** (साबुन) | साबुन | Sodium/potassium salt of fatty acids; biodegradable cleansing agent |
-| **Detergent** (अपमार्जक) | अपमार्जक | Synthetic cleaner; sulphonate/sulphate; works in hard water |
-| **Antiseptic** (रोगाणुनाशक) | रोगाणुनाशक | Kills microorganisms on living tissue; dettol, savlon, iodine |
-| **Disinfectant** (विसंक्रामक) | विसंक्रामक | Kills microorganisms on inanimate surfaces; bleach, phenol |
-| **Drug / Medicine** (औषधि) | औषधि / दवा | Chemical compound used to treat, cure, or prevent disease |
-
----
 
 ## One-Liner Revision -- Chemistry in Daily Life and Agriculture
 
@@ -1866,4 +1036,491 @@ nothing is added to the milk.
 | 28 | MSG (Monosodium glutamate) = flavour enhancer; "Umami" taste |
 | 29 | Aspartame = artificial sweetener; ~200x sweeter than sugar; 0 calories |
 | 30 | Saccharin = oldest artificial sweetener (1879); 300-500x sweeter; no calories |
+
+## Practice Zone — High-Yield Mock Drills (26 Questions)
+
+**Q-ST1.**
+
+What is the percentage of nitrogen present in commercial Urea fertilizer?
+(a) $21\%$  
+(b) $28\%$  
+(c) $46\%$  
+(d) $60\%$  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches $46\%$.
+
+**Ans: C.** $46\%$
+</details>
+
+---
+
+**Q-ST2.**
+
+Which specialty glass is designed with cerium oxide to cut off harmful ultraviolet radiation?
+(a) Soda glass  
+(b) Flint glass  
+(c) Crookes glass  
+(d) Pyrex glass  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Crookes glass contains cerium oxide ($CeO2$), which absorbs UV rays in sunglasses.
+
+**Ans: C.** Crookes glass
+</details>
+
+---
+
+**Q-ST3.**
+
+Which chemical salt is used as a light-sensitive emulsion on photographic film?
+(a) Silver bromide ($AgBr$)  
+(b) Silver iodide ($AgI$)  
+(c) Silver nitrate ($AgNO_3$)  
+(d) Silver oxide ($Ag_2O$)  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Silver bromide ($AgBr$) is the light-sensitive compound in photographic emulsions.
+
+**Ans: A.** Silver bromide ($AgBr$)
+</details>
+
+---
+
+**Q-ST4.**
+
+Which compound is used for cloud seeding to generate artificial rain?
+(a) Silver bromide  
+(b) Silver iodide ($AgI$)  
+(c) Sodium chloride only  
+(d) Calcium carbonate  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Silver iodide ($AgI$) serves as an ice-nucleating agent in clouds due to its crystalline resemblance to ice.
+
+**Ans: B.** Silver iodide ($AgI$)
+</details>
+
+---
+
+**Q-ST5.**
+
+Sodium chlorate ($NaClO_3$) is commercially used in agriculture as a:
+(a) Fertilizer  
+(b) Non-selective herbicide  
+(c) Rodenticide  
+(d) Fungicide  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Sodium chlorate is a broad-spectrum herbicide used to clear vegetation.
+
+**Ans: B.** Non-selective herbicide
+</details>
+
+---
+
+**Q-ST6.**
+
+Zinc phosphide ($Zn_3P_2$) is widely used as a:
+(a) Rodenticide (rat poison)  
+(b) Fertilizer  
+(c) Selective herbicide  
+(d) Fungicide  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Zinc phosphide releases toxic phosphine gas in rodent stomachs, acting as a rodenticide.
+
+**Ans: A.** Rodenticide (rat poison)
+</details>
+
+---
+
+**Q-ST7.**
+
+Why is DDT banned globally under the Stockholm Convention?
+(a) It is too expensive to manufacture  
+(b) It is non-biodegradable and biomagnifies in food chains  
+(c) It turns soil alkaline  
+(d) It causes rust on farm machinery  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** DDT persists in the environment and accumulates in food webs, causing ecological damage such as avian eggshell thinning.
+
+**Ans: B.** It is non-biodegradable and biomagnifies in food chains
+</details>
+
+---
+
+**Q-ST8.**
+
+What is the commercial chemical name of the photographic fixer "Hypo"?
+(a) Sodium thiosulphate pentahydrate  
+(b) Sodium sulphate  
+(c) Sodium sulphite  
+(d) Sodium bisulphite  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Hypo is sodium thiosulphate ($Na2S2O3 \cdot 5H2O$), which dissolves unexposed silver bromide from film.
+
+**Ans: A.** Sodium thiosulphate pentahydrate
+</details>
+
+---
+
+**Q-ST9.**
+
+Aspirin is chemically:
+(a) Acetylsalicylic acid  
+(b) Methyl salicylate  
+(c) Phenyl salicylate  
+(d) Benzoic acid  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Aspirin is acetylsalicylic acid, an analgesic, antipyretic, and antiplatelet drug.
+
+**Ans: A.** Acetylsalicylic acid
+</details>
+
+---
+
+**Q-ST10.**
+
+What byproduct is generated during the manufacture of soap by saponification?
+(a) Methanol  
+(b) Glycerol (Glycerine)  
+(c) Ethanol  
+(d) Acetone  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Saponification of triglycerides yields soap and glycerol.
+
+**Ans: B.** Glycerol (Glycerine)
+</details>
+
+---
+
+**Q-ST11.**
+
+Which of the following compounds is used as a food preservative in tomato ketchup and fruit squashes?
+(a) Sodium benzoate  
+(b) Sodium chlorate  
+(c) Calcium carbide  
+(d) Zinc phosphide  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Sodium benzoate ($C6H5COONa$) inhibits yeast and mold growth in acidic foods.
+
+**Ans: A.** Sodium benzoate
+</details>
+
+---
+
+**Q-ST12.**
+
+What type of glass contains lead oxide ($PbO$) and possesses a high refractive index used for lenses and prisms?
+(a) Soda glass  
+(b) Flint glass  
+(c) Pyrex glass  
+(d) Crookes glass  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Flint glass contains lead oxide, providing high optical dispersion and refractive index for lenses and prisms.
+
+**Ans: B.** Flint glass
+</details>
+
+---
+
+**Q-ST13.**
+
+Why is gypsum added to Portland cement during the grinding process?
+(a) To retard initial setting time  
+(b) To accelerate hardening  
+(c) To impart color  
+(d) To increase water solubility  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Gypsum slows the hydration of tricalcium aluminate, preventing flash setting.
+
+**Ans: A.** To retard initial setting time
+</details>
+
+---
+
+**Q-ST14.**
+
+Which soil amendment is added to reclaim acidic soils ($\text{pH} < 6$)?
+(a) Gypsum  
+(b) Agricultural lime ($CaCO_3 / Ca(OH)_2$)  
+(c) Urea  
+(d) Ammonium sulphate  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Liming neutralizes excess $H^+$ ions in acidic soils.
+
+**Ans: B.** Agricultural lime ($CaCO3 / Ca(OH)2$)
+</details>
+
+---
+
+**Q-ST15.**
+
+What is added to reclaim alkaline/sodic soils ($\text{pH} > 8.5$)?
+(a) Slaked lime  
+(b) Gypsum ($CaSO_4 \cdot 2H_2O$)  
+(c) Sodium carbonate  
+(d) Chalk  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Gypsum supplies calcium ions to displace sodium from sodic soils, restoring soil structure.
+
+**Ans: B.** Gypsum ($CaSO4 \cdot 2H2O$)
+</details>
+
+---
+
+**Q-ST16.**
+
+What gas is flushed into snack bags to prevent oxidative rancidity of oils?
+(a) Oxygen  
+(b) Nitrogen  
+(c) Chlorine  
+(d) Carbon dioxide  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Nitrogen gas creates an inert atmosphere, preventing fats and oils from oxidizing.
+
+**Ans: B.** Nitrogen
+</details>
+
+---
+
+**Q-ST17.**
+
+Which active chemical compound is present in commercial Dettol antiseptic?
+(a) Chloroxylenol  
+(b) Aspirin  
+(c) Paracetamol  
+(d) Penicillin  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Dettol contains chloroxylenol blended with $\alpha$-terpineol.
+
+**Ans: A.** Chloroxylenol
+</details>
+
+---
+
+**Q-ST18.**
+
+A $0.2\%$ aqueous solution of phenol is used as an:
+(a) Antiseptic  
+(b) Disinfectant  
+(c) Analgesic  
+(d) Herbicide  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** At $0.2\%$, phenol acts as an antiseptic; at $1.0\%$, it acts as a disinfectant.
+
+**Ans: A.** Antiseptic
+</details>
+
+---
+
+**Q-ST19.**
+
+Which of the following is a selective herbicide used to control broad-leaved weeds in wheat crops?
+(a) 2,4-D  
+(b) DDT  
+(c) Zinc phosphide  
+(d) BHC  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches 2,4-D.
+
+**Ans: A.** 2,4-D
+</details>
+
+---
+
+**Q-ST20.**
+
+Who discovered the first clinical antibiotic, Penicillin, in 1928?
+(a) Alexander Fleming  
+(b) Louis Pasteur  
+(c) Robert Koch  
+(d) Edward Jenner  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Alexander Fleming discovered penicillin from Penicillium notatum.
+
+**Ans: A.** Alexander Fleming
+</details>
+
+---
+
+**Q-ST21.**
+
+Which fertilizer is $100\%$ imported by India due to a lack of commercial deposits?
+(a) Urea  
+(b) Muriate of Potash (MOP)  
+(c) Single superphosphate  
+(d) Ammonium sulphate  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** India imports its entire potassium fertilizer supply (MOP).
+
+**Ans: B.** Muriate of Potash (MOP)
+</details>
+
+---
+
+**Q-ST22.**
+
+Why does soap form scum in hard water?
+(a) Because soap dissolves completely  
+(b) Because soap reacts with $Ca^{2+}$ and $Mg^{2+}$ ions to form insoluble precipitates  
+(c) Because hard water boils away  
+(d) Because soap evaporates  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Soap fatty acids form insoluble calcium and magnesium salts (scum) in hard water.
+
+**Ans: B.** Because soap reacts with $Ca^{2+}$ and $Mg^{2+}$ ions to form insoluble precipitates
+</details>
+
+---
+
+**Q-ST23.**
+
+Which synthetic cleansing agent lathers and cleans effectively in hard water?
+(a) Sodium stearate soap  
+(b) Synthetic detergents (alkylbenzene sulphonates)  
+(c) Vegetable oil  
+(d) Potassium palmitate soap  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Synthetic detergents form water-soluble calcium and magnesium salts, lathering cleanly in hard water.
+
+**Ans: B.** Synthetic detergents (alkylbenzene sulphonates)
+</details>
+
+---
+
+**Q-ST24.**
+
+Tincture of iodine is an antiseptic solution containing:
+(a) $2–3\%$ iodine in alcohol-water  
+(b) $100\%$ pure solid iodine  
+(c) Potassium iodide in petrol  
+(d) Iodoform in vinegar  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Tincture of iodine is a $2–3\%$ solution of elemental iodine in an alcohol-water mixture.
+
+**Ans: A.** $2–3\%$ iodine in alcohol-water
+</details>
+
+---
+
+**Q-ST25.**
+
+Which of the following is an organochlorine pesticide?
+(a) Malathion  
+(b) DDT  
+(c) Parathion  
+(d) Carbaryl  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches DDT.
+
+**Ans: B.** DDT
+</details>
+
+---
+
+**Q-ST26.**
+
+What is the primary role of Bithionol in toilet soaps?
+(a) To add red color  
+(b) To impart antiseptic and deodorant properties  
+(c) To make soap hard  
+(d) To increase lathering  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Bithionol is added to soaps as an antiseptic to control skin bacteria and reduce body odor.
+
+**Ans: B.** To impart antiseptic and deodorant properties
+</details>
+
+---
+
+## Common Traps & High-Yield Pitfalls
+
+| Trap Area | What Students Confuse | Correct Fact |
+|---|---|---|
+| **Photography vs. Artificial Rain** | Mixing up Silver Bromide and Silver Iodide. | **Silver Bromide ($AgBr$) = Photography**. **Silver Iodide ($AgI$) = Cloud Seeding / Artificial Rain**. |
+| **Urea Nitrogen Percentage** | Guessing 20% or 60% for urea. | Urea contains strictly **$46\%\text{ Nitrogen (N)}$** (highest of all solid fertilizers). |
+| **Crookes Glass Function** | Confusing Crookes glass with Pyrex heat-resistant glass. | **Crookes glass cuts off UV radiation** (contains $CeO_2$); Pyrex resists heat shock ($B_2O_3$). |
+| **DDT Biodegradability** | Assuming DDT is an organic compound that degrades in soil. | DDT is **strictly non-biodegradable** and biomagnifies up trophic levels. |
+| **Soil Remediation Pairs** | Reversing gypsum and lime for acid vs alkaline soils. | **Lime ($CaCO_3$) is for Acid soils**. **Gypsum ($CaSO_4 \cdot 2H_2O$) is for Alkaline / Sodic soils**. |
+| **Antiseptic vs. Disinfectant Phenol** | Thinking phenol is solely a disinfectant. | **$0.2\%$ Phenol is an Antiseptic**; **$1.0\%$ Phenol is a Disinfectant**. |
+| **Herbicide vs. Rodenticide** | Confusing Sodium Chlorate with Zinc Phosphide. | **Sodium Chlorate = Herbicide (weed killer)**. **Zinc Phosphide = Rodenticide (rat poison)**. |
+| **Neem-Coated Urea Purpose** | Assuming neem is added as a green dye or pesticide. | Neem oil **retards nitrification**, slowing nitrogen release and preventing industrial diversion. |
+| **Imported Fertilizer** | Believing India is self-sufficient in all fertilizer nutrients. | India imports **$100\%$ of its Potash (MOP)** fertilizer requirements. |
+| **Soap in Hard Water** | Assuming detergents form scum like soap. | Soaps form insoluble scum in hard water; **synthetic detergents lather and clean effectively in hard water**. |
+
+---
 

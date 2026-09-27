@@ -423,6 +423,25 @@ The **23rd** Commonwealth Games ended in **Glasgow, Scotland**. **Australia** to
 
 ---
 
+## September 2026
+
+### 20th Asian Games | Aichi–Nagoya, Japan
+
+**What happened**
+The **Asian Games 2026** were staged in the **Aichi–Nagoya** region of **Japan**. India’s campaign ran through late September with several high-yield medals.
+
+**What you should remember**
+
+- Host: **Japan** (Aichi–Nagoya).
+- **Kabaddi double gold:** both Indian **men’s** and **women’s** teams beat **Iran** in the finals (scores in coverage: men **40–34**, women **37–34**).
+- Other early golds in coverage: **women’s cricket**; **10m air pistol mixed team** (**Kamaljeet** and **Suruchi Singh**).
+- Historic athletics: **Sawan Barwal** won **silver** in the men’s marathon with a national record about **2:11:37** — first Indian man in decades to medal in this event at the Asian Games.
+- Soft athletics: **Tajinderpal Singh Toor** took shot-put **silver**; **Prachi Choudhary** took **400 m bronze**.
+- Mid-Games tally in late-September coverage sat near **30** medals (**4** gold / **12** silver / **14** bronze) — revise the **final** tally after the Games close; do not treat a mid-Games number as final forever.
+
+!!! trap
+Do not confuse Aichi–Nagoya 2026 with Hangzhou 2023. Kabaddi gold this time is a **double** (men + women), not only one team.
+
 ## Practice Zone — UPPCS Format
 
 > **20 questions** for this sheet only — drill after you revise the months above.

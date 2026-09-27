@@ -58,243 +58,43 @@
     },
     {
       "slug": "uttarakhand/01_Prehistoric_and_Protohistoric_Uttarakhand",
-      "title": "Prehistoric & Protohistoric UK"
+      "title": "Prehistoric and Protohistoric Uttarakhand"
     },
     {
       "slug": "uttarakhand/02_Ancient_Tribes_of_Uttarakhand",
-      "title": "Ancient Tribes"
+      "title": "Ancient Tribes & Modern Scheduled Tribes of Uttarakhand"
     },
     {
       "slug": "uttarakhand/03_Kuninda_and_Yaudheya",
-      "title": "Kuninda & Yaudheya"
+      "title": "Kuninda, Yaudheya & Early Historic Polities of Uttarakhand"
     },
     {
       "slug": "uttarakhand/04_Kartikepur_Dynasty",
-      "title": "Kartikepur Dynasty"
+      "title": "Kartikepur (Katyuri) Dynasty"
     },
     {
       "slug": "00_Chronology_Year_Wise_Events",
-      "title": "Chronology Year Wise Events"
+      "title": "Chronology — Year-Wise Major Events (Ancient India)"
     },
     {
       "slug": "00_Daily_Revision_Facts",
-      "title": "Daily Revision Facts"
+      "title": "Daily Read — High-Yield Revision Facts (Ancient India)"
     },
     {
       "slug": "00_Prelims_Analysis",
-      "title": "Prelims Analysis"
+      "title": "Ancient History — Prelims Analysis"
     },
     {
       "slug": "00_Syllabus",
-      "title": "Syllabus"
+      "title": "Ancient India (UPPCS + UKPCS Prelims Knowledge Base)"
     },
     {
       "slug": "uttarakhand/00_Syllabus",
-      "title": "Syllabus"
+      "title": "History & Culture of Uttarakhand — Ancient slice (UKPCS)"
     },
     {
       "slug": "uttarakhand/00_UKPCS_PYQ_Bank_Ancient",
-      "title": "UKPCS PYQ Bank Ancient"
-    }
-  ],
-  "medieval india": [
-    {
-      "slug": "01_Early_Medieval_India_Regional_Kingdoms",
-      "title": "Early Medieval India (Regional Kingdoms)"
-    },
-    {
-      "slug": "02_Turkish_Invasions_Delhi_Sultanate",
-      "title": "Turkish Invasions & Delhi Sultanate"
-    },
-    {
-      "slug": "03_Regional_Kingdoms",
-      "title": "Regional Kingdoms (Sharqi, Kashmir, Vijayanagara, Bahmani & Deccan)"
-    },
-    {
-      "slug": "04_Bhakti_Sufi_Movements",
-      "title": "Bhakti & Sufi Movements"
-    },
-    {
-      "slug": "05_Medieval_Literature",
-      "title": "Medieval Literature"
-    },
-    {
-      "slug": "07_Mughal_Empire",
-      "title": "Mughal Empire"
-    },
-    {
-      "slug": "08_Sher_Shah_Suri",
-      "title": "Sher Shah Suri"
-    },
-    {
-      "slug": "09_Rajputs",
-      "title": "Rajputs"
-    },
-    {
-      "slug": "10_Sikhism",
-      "title": "Sikhism"
-    },
-    {
-      "slug": "11_Marathas",
-      "title": "Marathas"
-    },
-    {
-      "slug": "12_Later_Medieval_India",
-      "title": "Later Medieval India"
-    },
-    {
-      "slug": "uttarakhand/01_Kattyuri_Dynasty",
-      "title": "Kattyuri Dynasty"
-    },
-    {
-      "slug": "uttarakhand/02_Parmar_Dynasty_of_Garhwal",
-      "title": "Parmar Dynasty of Garhwal"
-    },
-    {
-      "slug": "uttarakhand/03_Chand_Dynasty_of_Kumaon",
-      "title": "Chand Dynasty of Kumaon"
-    },
-    {
-      "slug": "00_Chronology_Year_Wise_Events",
-      "title": "Chronology Year Wise Events"
-    },
-    {
-      "slug": "00_Daily_Revision_Facts",
-      "title": "Daily Revision Facts"
-    },
-    {
-      "slug": "00_Prelims_Analysis",
-      "title": "Prelims Analysis"
-    },
-    {
-      "slug": "00_Syllabus",
-      "title": "Syllabus"
-    },
-    {
-      "slug": "06_Medieval_Music_Culture",
-      "title": "Medieval Music Culture"
-    },
-    {
-      "slug": "uttarakhand/00_Syllabus",
-      "title": "Syllabus"
-    },
-    {
-      "slug": "uttarakhand/00_UKPCS_PYQ_Bank_Medieval",
-      "title": "UKPCS PYQ Bank Medieval"
-    }
-  ],
-  "mordern india": [
-    {
-      "slug": "01_Advent_of_Europeans",
-      "title": "Advent of Europeans"
-    },
-    {
-      "slug": "02_East_India_Company_Expansion",
-      "title": "East India Company Expansion"
-    },
-    {
-      "slug": "03_Governors_General_and_Viceroys",
-      "title": "Governors-General & Viceroys"
-    },
-    {
-      "slug": "04_British_Administration_and_Economy",
-      "title": "British Administration & Economy"
-    },
-    {
-      "slug": "05_Revolt_of_1857",
-      "title": "Revolt of 1857"
-    },
-    {
-      "slug": "06_Socio_Religious_Reform_Movements",
-      "title": "Socio-Religious Reform Movements"
-    },
-    {
-      "slug": "07_Education_and_Press",
-      "title": "Education & Press"
-    },
-    {
-      "slug": "08_Peasant_Tribal_Labour_Movements",
-      "title": "Peasant, Tribal & Labour Movements"
-    },
-    {
-      "slug": "09_Rise_of_Nationalism",
-      "title": "Rise of Nationalism"
-    },
-    {
-      "slug": "10_Books_and_Authors",
-      "title": "Books & Authors"
-    },
-    {
-      "slug": "11_Swadeshi_and_Revolutionary_Movement",
-      "title": "Swadeshi & Revolutionary Movement"
-    },
-    {
-      "slug": "12_Home_Rule_and_Labour_Politics",
-      "title": "Home Rule & Labour Politics"
-    },
-    {
-      "slug": "13_Gandhian_Era",
-      "title": "Gandhian Era (1915–1948)"
-    },
-    {
-      "slug": "14_Final_Phase_of_Freedom_Struggle",
-      "title": "Final Phase of Freedom Struggle"
-    },
-    {
-      "slug": "15_Post_Independence_India",
-      "title": "Post-Independence India"
-    },
-    {
-      "slug": "16_Miscellaneous_UPPCS_Frequently_Asked",
-      "title": "Miscellaneous (Frequently Asked by UPPCS)"
-    },
-    {
-      "slug": "uttar pradesh/17_UP_History_and_Freedom_Struggle",
-      "title": "UP History & Freedom Struggle"
-    },
-    {
-      "slug": "uttarakhand/01_Gorkha_Invasion_and_Rule",
-      "title": "Gorkha Invasion & Rule"
-    },
-    {
-      "slug": "uttarakhand/02_British_Rule_in_Uttarakhand",
-      "title": "British Rule in UK"
-    },
-    {
-      "slug": "uttarakhand/03_Tehri_Estate",
-      "title": "Tehri Estate"
-    },
-    {
-      "slug": "uttarakhand/04_Freedom_Movement_in_Uttarakhand",
-      "title": "Freedom Movement in UK"
-    },
-    {
-      "slug": "uttarakhand/05_Peoples_Movements_of_Uttarakhand",
-      "title": "People's Movements of UK"
-    },
-    {
-      "slug": "00_Chronology_Year_Wise_Events",
-      "title": "Chronology Year Wise Events"
-    },
-    {
-      "slug": "00_Daily_Revision_Facts",
-      "title": "Daily Revision Facts"
-    },
-    {
-      "slug": "00_Prelims_Analysis",
-      "title": "Prelims Analysis"
-    },
-    {
-      "slug": "00_Syllabus",
-      "title": "Syllabus"
-    },
-    {
-      "slug": "uttarakhand/00_Syllabus",
-      "title": "Syllabus"
-    },
-    {
-      "slug": "uttarakhand/00_UKPCS_PYQ_Bank_Modern",
-      "title": "UKPCS PYQ Bank Modern"
+      "title": "UKPCS PYQ Bank — Ancient History (national + UK)"
     }
   ],
   "art and culture": [
@@ -340,7 +140,7 @@
     },
     {
       "slug": "11_Medieval_Indian_Cultural_History",
-      "title": "Medieval Indian Cultural History"
+      "title": "Medieval Indian Cultural History (इतिहास)"
     },
     {
       "slug": "12_Sculpture",
@@ -348,7 +148,7 @@
     },
     {
       "slug": "13_Folk_Culture",
-      "title": "Folk Culture"
+      "title": "Folk (लोक) Culture"
     },
     {
       "slug": "14_Cultural_Heritage",
@@ -356,51 +156,369 @@
     },
     {
       "slug": "15_Archaeology",
-      "title": "Archaeology"
+      "title": "Archaeology (पुरातत्व)"
     },
     {
       "slug": "16_Awards_Personalities_GI",
-      "title": "Awards, Personalities & GI Tags"
+      "title": "Essentials: Awards, Personalities & GI Tags"
     },
     {
       "slug": "uttar pradesh/17_UP_Art_Culture_Demographics",
-      "title": "UP Art, Culture & Demographics"
+      "title": "UP Art, Culture, Demographics & Master Institute Directory (UPPCS Special)"
     },
     {
       "slug": "uttarakhand/01_Folk_Culture_of_Uttarakhand",
-      "title": "Folk Culture of UK"
+      "title": "Folk (लोक) Culture, Aipan (ऐपण), Jagar (जागर) & Ritual (कर्मकाण्ड) Heritage of Uttarakhand (उत्तराखंड)"
     },
     {
       "slug": "uttarakhand/02_Dances_Music_and_Fairs",
-      "title": "Dances, Music & Fairs"
+      "title": "Dances, Music, Fairs, Festivals & State Symbols of Uttarakhand (उत्तराखंड)"
     },
     {
       "slug": "uttarakhand/03_Heritage_and_Cultural_Institutes",
-      "title": "Heritage & Cultural Institutes"
+      "title": "Heritage, Art Traditions & Master Institute Directory (Uttarakhand (उत्तराखंड))"
     },
     {
       "slug": "uttarakhand/04_Personalities_Literature_and_Press",
-      "title": "Personalities, Literature & Press"
+      "title": "Personalities, Sobriquets, Literature, Press & Sports of Uttarakhand (उत्तराखंड)"
     },
     {
       "slug": "00_Daily_Revision_Facts",
-      "title": "Daily Revision Facts"
+      "title": "Daily Read — High-Yield Revision Facts (Indian Art & Culture)"
     },
     {
       "slug": "00_Prelims_Analysis",
-      "title": "Prelims Analysis"
+      "title": "Art and Culture — Prelims Analysis"
     },
     {
       "slug": "00_Syllabus",
-      "title": "Syllabus"
+      "title": "Indian Art & Culture (UPPCS + UKPCS Prelims)"
     },
     {
       "slug": "uttarakhand/00_Syllabus",
-      "title": "Syllabus"
+      "title": "Art & Culture of Uttarakhand (UKPCS)"
     },
     {
       "slug": "uttarakhand/00_UKPCS_PYQ_Bank_Art_Culture",
-      "title": "UKPCS PYQ Bank Art Culture"
+      "title": "UKPCS PYQ Bank — Art & Culture (national + UK)"
+    }
+  ],
+  "census and urbanisation": [
+    {
+      "slug": "01_Census_and_Population_Data",
+      "title": "Census and Population Data"
+    },
+    {
+      "slug": "02_Population_Growth_Demographic_Transition_Theories",
+      "title": "Population Growth, Demographic Transition and Theories"
+    },
+    {
+      "slug": "03_Population_Composition_Demographic_Characteristics",
+      "title": "Population Composition and Demographic Characteristics"
+    },
+    {
+      "slug": "04_Fertility_Mortality_Health_Population_Policies",
+      "title": "Fertility, Mortality, Health and Population Policies"
+    },
+    {
+      "slug": "05_Migration_and_Population_Distribution",
+      "title": "Migration and Population Distribution"
+    },
+    {
+      "slug": "06_Urbanisation_and_Urban_Development",
+      "title": "Urbanisation and Urban Development"
+    },
+    {
+      "slug": "07_World_Population_and_Demographic_Misc",
+      "title": "World Population and Demographic Miscellaneous"
+    },
+    {
+      "slug": "00_Syllabus",
+      "title": "Census and Urbanisation (UPPCS + UKPCS Knowledge Base)"
+    },
+    {
+      "slug": "01_Census_Urbanisation_Syllabus",
+      "title": "Census and Urbanisation — 7 master chapters (chapter map)"
+    }
+  ],
+  "economy": [
+    {
+      "slug": "01_Indian_Economy_Basics_Planning",
+      "title": "Indian Economy Basics Planning"
+    },
+    {
+      "slug": "02_Public_Finance_Budget_Taxation",
+      "title": "Public Finance, Budget, Taxation and Fiscal Policy"
+    },
+    {
+      "slug": "03_Money_Banking_RBI_Financial_System",
+      "title": "Money, Banking, RBI and Financial System"
+    },
+    {
+      "slug": "04_Inflation_Prices_Savings_Investment_Markets",
+      "title": "Inflation, Prices, Savings, Investment and Financial Markets"
+    },
+    {
+      "slug": "05_Agriculture_Indian_Agricultural_Economy",
+      "title": "Agriculture and Indian Agricultural Economy"
+    },
+    {
+      "slug": "06_Agricultural_Policies_Schemes_MSP_Revolutions",
+      "title": "Agricultural Policies, Schemes, MSP and Revolutions"
+    },
+    {
+      "slug": "07_Industry_MSME_Infrastructure",
+      "title": "Industry, Manufacturing, MSME and Infrastructure"
+    },
+    {
+      "slug": "08_Employment_Poverty_Human_Capital",
+      "title": "Employment, Poverty, Human Capital and Social Economy"
+    },
+    {
+      "slug": "09_External_Sector_Foreign_Trade",
+      "title": "External Sector, Foreign Trade and Global Economy"
+    },
+    {
+      "slug": "10_International_Institutions_Groupings",
+      "title": "International Financial Institutions, Economic Groupings and Global Summits"
+    },
+    {
+      "slug": "11_Services_Cooperatives_Regulators",
+      "title": "Service Sector, Cooperatives, Companies and Regulatory Institutions"
+    },
+    {
+      "slug": "12_Economic_Laws_Reports_Rankings_Misc",
+      "title": "Economic Laws, Reports, Rankings and Miscellaneous"
+    },
+    {
+      "slug": "00_Syllabus",
+      "title": "Economy (UPPCS + UKPCS Knowledge Base)"
+    },
+    {
+      "slug": "01_Economics_Syllabus",
+      "title": "Economy — 12 master chapters (chapter map)"
+    },
+    {
+      "slug": "uttarakhand/00_Syllabus",
+      "title": "Economy of Uttarakhand (UKPCS)"
+    }
+  ],
+  "environments & ecology": [
+    {
+      "slug": "01_Environment_Basics",
+      "title": "Environment (पर्यावरण) Basics"
+    },
+    {
+      "slug": "02_Ecology_and_Ecosystem",
+      "title": "Ecology (पारिस्थितिकी) & Ecosystem (पारिस्थितिकी तंत्र)"
+    },
+    {
+      "slug": "03_Food_Chain_and_Energy_Flow",
+      "title": "Food Chain (खाद्य श्रृंखला) & Energy Flow"
+    },
+    {
+      "slug": "04_Biodiversity",
+      "title": "Biodiversity"
+    },
+    {
+      "slug": "05_Habitat_Flora_and_Fauna",
+      "title": "Habitat (वास स्थान), Flora (वनस्पति) & Fauna (प्राणीजात)"
+    },
+    {
+      "slug": "06_Protected_Areas_and_Conservation",
+      "title": "Protected Areas & Conservation"
+    },
+    {
+      "slug": "07_Wildlife_Conservation",
+      "title": "Wildlife Conservation (वन्यजीव संरक्षण)"
+    },
+    {
+      "slug": "08_Forests_and_Forest_Management",
+      "title": "Forests & Forest Management"
+    },
+    {
+      "slug": "09_Pollution_and_Waste_Management",
+      "title": "Pollution & Waste Management"
+    },
+    {
+      "slug": "10_Climate_Change",
+      "title": "Climate Change (जलवायु परिवर्तन)"
+    },
+    {
+      "slug": "11_Ozone_Layer",
+      "title": "Ozone Layer"
+    },
+    {
+      "slug": "12_Acid_Rain",
+      "title": "Acid Rain (अम्ल वर्षा)"
+    },
+    {
+      "slug": "13_Desertification_and_Land_Degradation",
+      "title": "Desertification (मरुस्थलीकरण) & Land Degradation (भू-क्षरण)"
+    },
+    {
+      "slug": "14_Environmental_Impact_Assessment",
+      "title": "Environmental Impact Assessment"
+    },
+    {
+      "slug": "15_Sustainable_Development_and_Environmental_Governance",
+      "title": "Sustainable Development & Environmental Governance"
+    },
+    {
+      "slug": "16_Environmental_Organizations_India",
+      "title": "Environmental Organizations (India)"
+    },
+    {
+      "slug": "17_Environmental_Laws_and_Policies",
+      "title": "Environmental Laws & Policies"
+    },
+    {
+      "slug": "18_International_Environmental_Agreements_and_Conferences",
+      "title": "International Environmental Agreements & Conferences"
+    },
+    {
+      "slug": "19_Climate_and_Environmental_Institutions",
+      "title": "Climate & Environmental Institutions"
+    },
+    {
+      "slug": "20_Biodiversity_Conservation_Methods",
+      "title": "Biodiversity Conservation Methods"
+    },
+    {
+      "slug": "21_Species_and_Ecology",
+      "title": "Species & Ecology (पारिस्थितिकी)"
+    },
+    {
+      "slug": "22_Renewable_Energy",
+      "title": "Renewable Energy (नवीकरणीय ऊर्जा)"
+    },
+    {
+      "slug": "23_Disaster_and_Environment",
+      "title": "Disaster & Environment (पर्यावरण)"
+    },
+    {
+      "slug": "24_Current_Environmental_Issues",
+      "title": "Current Environmental Issues"
+    },
+    {
+      "slug": "25_Global_Environmental_Geography",
+      "title": "Global Environmental Geography"
+    },
+    {
+      "slug": "26_Water_Resources_and_Water_Conservation",
+      "title": "Water Resources & Water Conservation"
+    },
+    {
+      "slug": "27_Renewable_and_Non_Renewable_Energy",
+      "title": "Renewable & Non-Renewable Energy (अनवीकरणीय ऊर्जा)"
+    },
+    {
+      "slug": "28_Environmental_Research_and_Institutions",
+      "title": "Environmental Research & Institutions"
+    },
+    {
+      "slug": "29_Indian_Environmental_Movements",
+      "title": "Indian Environmental Movements"
+    },
+    {
+      "slug": "30_Environmental_Literature_and_Awareness",
+      "title": "Environmental Literature & Awareness"
+    },
+    {
+      "slug": "31_Environmental_Days",
+      "title": "Environmental Days"
+    },
+    {
+      "slug": "32_National_Parks_and_Protected_Areas_Advanced",
+      "title": "National Parks & Protected Areas (Advanced)"
+    },
+    {
+      "slug": "33_Biosphere_Reserves",
+      "title": "Biosphere Reserves (जैवमंडल आरक्षित क्षेत्र)"
+    },
+    {
+      "slug": "34_Climate_Change_Advanced",
+      "title": "Climate Change (जलवायु परिवर्तन) (Advanced)"
+    },
+    {
+      "slug": "35_Atmosphere",
+      "title": "Atmosphere"
+    },
+    {
+      "slug": "36_Ozone_Layer",
+      "title": "Ozone Layer"
+    },
+    {
+      "slug": "37_Greenhouse_Gases",
+      "title": "Greenhouse Gases"
+    },
+    {
+      "slug": "38_Pollution_Advanced",
+      "title": "Pollution (Advanced)"
+    },
+    {
+      "slug": "39_Acid_Rain",
+      "title": "Acid Rain (अम्ल वर्षा)"
+    },
+    {
+      "slug": "40_Desertification",
+      "title": "Desertification (मरुस्थलीकरण)"
+    },
+    {
+      "slug": "41_Environmental_Monitoring",
+      "title": "Environmental Monitoring (पर्यावरणीय निगरानी)"
+    },
+    {
+      "slug": "42_International_Environmental_Organizations",
+      "title": "International Environmental Organizations"
+    },
+    {
+      "slug": "43_International_Environmental_Agreements",
+      "title": "International Environmental Agreements"
+    },
+    {
+      "slug": "44_Current_Environmental_Issues",
+      "title": "Current Environmental Issues"
+    },
+    {
+      "slug": "45_Environment_PYQ_Trend_Analysis",
+      "title": "Environment (पर्यावरण) PYQ Trend Analysis"
+    },
+    {
+      "slug": "uttarakhand/01_Natural_Resources_and_Climate_Contribution",
+      "title": "Natural Resources of Uttarakhand (उत्तराखंड) & Climate Contribution"
+    },
+    {
+      "slug": "uttarakhand/02_Biodiversity_and_Protected_Areas",
+      "title": "Biodiversity & Protected Areas (Uttarakhand (उत्तराखंड))"
+    },
+    {
+      "slug": "uttarakhand/03_Climate_Vulnerability_and_Governance",
+      "title": "Climate Contribution, Vulnerability & Governance"
+    },
+    {
+      "slug": "uttarakhand/04_National_Parks_Sanctuaries",
+      "title": "National Parks, Sanctuaries & Conservation Reserves of Uttarakhand (उत्तराखंड)"
+    },
+    {
+      "slug": "00_Daily_Revision_Facts",
+      "title": "Daily Read — High-Yield Revision Facts (Environment & Ecology)"
+    },
+    {
+      "slug": "00_Prelims_Analysis",
+      "title": "Environment and Ecology — Prelims Analysis"
+    },
+    {
+      "slug": "00_Syllabus",
+      "title": "Environment & Ecology"
+    },
+    {
+      "slug": "uttarakhand/00_Syllabus",
+      "title": "Natural Resources & Environment of Uttarakhand (UKPCS)"
+    },
+    {
+      "slug": "uttarakhand/00_UKPCS_PYQ_Bank_Environment",
+      "title": "UKPCS PYQ Bank — Environment (national + UK)"
     }
   ],
   "geography": [
@@ -446,7 +564,7 @@
     },
     {
       "slug": "11_Population_Geography",
-      "title": "Population Geography"
+      "title": "Population (जनसंख्या) Geography"
     },
     {
       "slug": "12_Human_Geography",
@@ -497,8 +615,16 @@
       "title": "Political & Map-Based Geography"
     },
     {
+      "slug": "25_Census_and_Demographics",
+      "title": "Census and Demographics (UPPCS & UKPCS Ratta)"
+    },
+    {
+      "slug": "26_Agriculture_Minerals_Ranks",
+      "title": "Agriculture & Minerals Ranks (Data Fact-Locks)"
+    },
+    {
       "slug": "uttar pradesh/24_Geography_of_Uttar_Pradesh",
-      "title": "Geography of Uttar Pradesh"
+      "title": "Geography of Uttar Pradesh (उत्तर प्रदेश)"
     },
     {
       "slug": "uttarakhand/01_Location_Relief_Structure",
@@ -506,7 +632,7 @@
     },
     {
       "slug": "uttarakhand/02_Climate_and_Drainage",
-      "title": "Climate & Drainage"
+      "title": "Climate, Drainage & Glaciology of Uttarakhand (उत्तराखंड)"
     },
     {
       "slug": "uttarakhand/03_Vegetation_and_Wildlife",
@@ -518,261 +644,235 @@
     },
     {
       "slug": "uttarakhand/05_Agriculture_Animal_Husbandry_Irrigation",
-      "title": "Agri, AH & Irrigation"
+      "title": "Agriculture, Animal Husbandry & Irrigation"
     },
     {
       "slug": "uttarakhand/06_Population_SC_ST_Settlements",
-      "title": "Population, SC/ST & Settlements"
+      "title": "Population (जनसंख्या), Demographics & SC/ST Settlements of Uttarakhand (उत्तराखंड)"
     },
     {
       "slug": "uttarakhand/07_Transport_Tourism_Natural_Hazards",
-      "title": "Transport, Tourism & Hazards"
+      "title": "Transport, Tourism, Passes, Bugyals & Natural Hazards of Uttarakhand (उत्तराखंड)"
     },
     {
       "slug": "00_Daily_Revision_Facts",
-      "title": "Daily Revision Facts"
+      "title": "Daily Read — High-Yield Revision Facts (Geography)"
     },
     {
       "slug": "00_Prelims_Analysis",
-      "title": "Prelims Analysis"
+      "title": "Geography — Prelims Analysis"
     },
     {
       "slug": "00_Syllabus",
-      "title": "Syllabus"
-    },
-    {
-      "slug": "25_Census_and_Demographics",
-      "title": "Census and Demographics"
-    },
-    {
-      "slug": "26_Agriculture_Minerals_Ranks",
-      "title": "Agriculture Minerals Ranks"
+      "title": "Geography (UPPCS + UKPCS Prelims Knowledge Base)"
     },
     {
       "slug": "uttarakhand/00_Syllabus",
-      "title": "Syllabus"
+      "title": "Geography of Uttarakhand (UKPCS)"
     },
     {
       "slug": "uttarakhand/00_UKPCS_PYQ_Bank_Geography",
-      "title": "UKPCS PYQ Bank Geography"
+      "title": "UKPCS PYQ Bank — Geography (national + UK)"
     }
   ],
-  "environments & ecology": [
+  "medieval india": [
     {
-      "slug": "01_Environment_Basics",
-      "title": "Environment Basics"
+      "slug": "01_Early_Medieval_India_Regional_Kingdoms",
+      "title": "Early Medieval (प्रारंभिक मध्यकाल) India (Regional Kingdoms)"
     },
     {
-      "slug": "02_Ecology_and_Ecosystem",
-      "title": "Ecology & Ecosystem"
+      "slug": "02_Turkish_Invasions_Delhi_Sultanate",
+      "title": "Turkish Invasions & Delhi Sultanate (दिल्ली सल्तनत)"
     },
     {
-      "slug": "03_Food_Chain_and_Energy_Flow",
-      "title": "Food Chain & Energy Flow"
+      "slug": "03_Regional_Kingdoms",
+      "title": "Regional Kingdoms (Sharqi (शर्की), Kashmir, Vijayanagara (विजयनगर), Bahmani & Deccan (दक्कन))"
     },
     {
-      "slug": "04_Biodiversity",
-      "title": "Biodiversity"
+      "slug": "04_Bhakti_Sufi_Movements",
+      "title": "Bhakti (भक्ति) & Sufi (सूफी) Movements"
     },
     {
-      "slug": "05_Habitat_Flora_and_Fauna",
-      "title": "Habitat, Flora & Fauna"
+      "slug": "05_Medieval_Literature",
+      "title": "Medieval Literature"
     },
     {
-      "slug": "06_Protected_Areas_and_Conservation",
-      "title": "Protected Areas & Conservation"
+      "slug": "06_Medieval_Music_Culture",
+      "title": "Medieval Music & Culture"
     },
     {
-      "slug": "07_Wildlife_Conservation",
-      "title": "Wildlife Conservation"
+      "slug": "07_Mughal_Empire",
+      "title": "Mughal (मुग़ल) Empire"
     },
     {
-      "slug": "08_Forests_and_Forest_Management",
-      "title": "Forests & Forest Management"
+      "slug": "08_Sher_Shah_Suri",
+      "title": "Sher Shah (शेरशाह) Suri"
     },
     {
-      "slug": "09_Pollution_and_Waste_Management",
-      "title": "Pollution & Waste Management"
+      "slug": "09_Rajputs",
+      "title": "Rajputs"
     },
     {
-      "slug": "10_Climate_Change",
-      "title": "Climate Change"
+      "slug": "10_Sikhism",
+      "title": "Sikhism"
     },
     {
-      "slug": "11_Ozone_Layer",
-      "title": "Ozone Layer"
+      "slug": "11_Marathas",
+      "title": "Marathas"
     },
     {
-      "slug": "12_Acid_Rain",
-      "title": "Acid Rain"
+      "slug": "12_Later_Medieval_India",
+      "title": "Later Medieval India"
     },
     {
-      "slug": "13_Desertification_and_Land_Degradation",
-      "title": "Desertification & Land Degradation"
+      "slug": "uttarakhand/01_Kattyuri_Dynasty",
+      "title": "Kattyuri (Katyuri) Dynasty of Uttarakhand (उत्तराखंड)"
     },
     {
-      "slug": "14_Environmental_Impact_Assessment",
-      "title": "Environmental Impact Assessment"
+      "slug": "uttarakhand/02_Parmar_Dynasty_of_Garhwal",
+      "title": "Parmar (Panwar) Dynasty of Garhwal (गढ़वाल)"
     },
     {
-      "slug": "15_Sustainable_Development_and_Environmental_Governance",
-      "title": "Sustainable Development & Environmental Governance"
+      "slug": "uttarakhand/03_Chand_Dynasty_of_Kumaon",
+      "title": "Chand Dynasty of Kumaon (कुमाऊँ)"
     },
     {
-      "slug": "16_Environmental_Organizations_India",
-      "title": "Environmental Organizations (India)"
-    },
-    {
-      "slug": "17_Environmental_Laws_and_Policies",
-      "title": "Environmental Laws & Policies"
-    },
-    {
-      "slug": "18_International_Environmental_Agreements_and_Conferences",
-      "title": "International Environmental Agreements & Conferences"
-    },
-    {
-      "slug": "19_Climate_and_Environmental_Institutions",
-      "title": "Climate & Environmental Institutions"
-    },
-    {
-      "slug": "20_Biodiversity_Conservation_Methods",
-      "title": "Biodiversity Conservation Methods"
-    },
-    {
-      "slug": "21_Species_and_Ecology",
-      "title": "Species & Ecology"
-    },
-    {
-      "slug": "22_Renewable_Energy",
-      "title": "Renewable Energy"
-    },
-    {
-      "slug": "23_Disaster_and_Environment",
-      "title": "Disaster & Environment"
-    },
-    {
-      "slug": "24_Current_Environmental_Issues",
-      "title": "Current Environmental Issues"
-    },
-    {
-      "slug": "25_Global_Environmental_Geography",
-      "title": "Global Environmental Geography"
-    },
-    {
-      "slug": "26_Water_Resources_and_Water_Conservation",
-      "title": "Water Resources & Water Conservation"
-    },
-    {
-      "slug": "27_Renewable_and_Non_Renewable_Energy",
-      "title": "Renewable & Non-Renewable Energy"
-    },
-    {
-      "slug": "28_Environmental_Research_and_Institutions",
-      "title": "Environmental Research & Institutions"
-    },
-    {
-      "slug": "29_Indian_Environmental_Movements",
-      "title": "Indian Environmental Movements"
-    },
-    {
-      "slug": "30_Environmental_Literature_and_Awareness",
-      "title": "Environmental Literature & Awareness"
-    },
-    {
-      "slug": "31_Environmental_Days",
-      "title": "Environmental Days"
-    },
-    {
-      "slug": "32_National_Parks_and_Protected_Areas_Advanced",
-      "title": "National Parks & Protected Areas (Advanced)"
-    },
-    {
-      "slug": "33_Biosphere_Reserves",
-      "title": "Biosphere Reserves"
-    },
-    {
-      "slug": "34_Climate_Change_Advanced",
-      "title": "Climate Change (Advanced)"
-    },
-    {
-      "slug": "35_Atmosphere",
-      "title": "Atmosphere"
-    },
-    {
-      "slug": "36_Ozone_Layer",
-      "title": "Ozone Layer"
-    },
-    {
-      "slug": "37_Greenhouse_Gases",
-      "title": "Greenhouse Gases"
-    },
-    {
-      "slug": "38_Pollution_Advanced",
-      "title": "Pollution (Advanced)"
-    },
-    {
-      "slug": "39_Acid_Rain",
-      "title": "Acid Rain"
-    },
-    {
-      "slug": "40_Desertification",
-      "title": "Desertification"
-    },
-    {
-      "slug": "41_Environmental_Monitoring",
-      "title": "Environmental Monitoring"
-    },
-    {
-      "slug": "42_International_Environmental_Organizations",
-      "title": "International Environmental Organizations"
-    },
-    {
-      "slug": "43_International_Environmental_Agreements",
-      "title": "International Environmental Agreements"
-    },
-    {
-      "slug": "44_Current_Environmental_Issues",
-      "title": "Current Environmental Issues"
-    },
-    {
-      "slug": "uttarakhand/01_Natural_Resources_and_Climate_Contribution",
-      "title": "01 — Natural Resources & Climate Contribution"
-    },
-    {
-      "slug": "uttarakhand/02_Biodiversity_and_Protected_Areas",
-      "title": "02 — Biodiversity & Protected Areas"
-    },
-    {
-      "slug": "uttarakhand/03_Climate_Vulnerability_and_Governance",
-      "title": "03 — Climate Vulnerability & Governance"
+      "slug": "00_Chronology_Year_Wise_Events",
+      "title": "Chronology — Year-Wise Major Events (Medieval India)"
     },
     {
       "slug": "00_Daily_Revision_Facts",
-      "title": "Daily Revision Facts"
+      "title": "Daily Read — High-Yield Revision Facts (Medieval India)"
     },
     {
       "slug": "00_Prelims_Analysis",
-      "title": "Prelims Analysis"
+      "title": "Medieval India — Prelims Analysis"
     },
     {
       "slug": "00_Syllabus",
-      "title": "Syllabus"
-    },
-    {
-      "slug": "45_Environment_PYQ_Trend_Analysis",
-      "title": "Environment PYQ Trend Analysis"
+      "title": "Medieval India (UPPCS + UKPCS Prelims Knowledge Base)"
     },
     {
       "slug": "uttarakhand/00_Syllabus",
-      "title": "Syllabus"
+      "title": "History & Culture of Uttarakhand — Medieval slice (UKPCS)"
     },
     {
-      "slug": "uttarakhand/00_UKPCS_PYQ_Bank_Environment",
-      "title": "UKPCS PYQ Bank Environment"
+      "slug": "uttarakhand/00_UKPCS_PYQ_Bank_Medieval",
+      "title": "UKPCS PYQ Bank — Medieval India (national + UK)"
+    }
+  ],
+  "mordern india": [
+    {
+      "slug": "01_Advent_of_Europeans",
+      "title": "Advent of Europeans"
     },
     {
-      "slug": "uttarakhand/04_National_Parks_Sanctuaries",
-      "title": "National Parks Sanctuaries"
+      "slug": "02_East_India_Company_Expansion",
+      "title": "East India Company (कंपनी) Expansion"
+    },
+    {
+      "slug": "03_Governors_General_and_Viceroys",
+      "title": "Governors-General & Viceroys"
+    },
+    {
+      "slug": "04_British_Administration_and_Economy",
+      "title": "British Administration & Economy"
+    },
+    {
+      "slug": "05_Revolt_of_1857",
+      "title": "Revolt of 1857"
+    },
+    {
+      "slug": "06_Socio_Religious_Reform_Movements",
+      "title": "Socio-Religious Reform Movements"
+    },
+    {
+      "slug": "07_Education_and_Press",
+      "title": "Education & Press"
+    },
+    {
+      "slug": "08_Peasant_Tribal_Labour_Movements",
+      "title": "Peasant, Tribal (आदिवासी) & Labour Movements"
+    },
+    {
+      "slug": "09_Rise_of_Nationalism",
+      "title": "Rise of Nationalism"
+    },
+    {
+      "slug": "10_Books_and_Authors",
+      "title": "Books & Authors"
+    },
+    {
+      "slug": "11_Swadeshi_and_Revolutionary_Movement",
+      "title": "Swadeshi (स्वदेशी) & Revolutionary (क्रांतिकारी) Movement"
+    },
+    {
+      "slug": "12_Home_Rule_and_Labour_Politics",
+      "title": "Home Rule (होम रूल) & Labour Politics"
+    },
+    {
+      "slug": "13_Gandhian_Era",
+      "title": "Gandhian Era"
+    },
+    {
+      "slug": "14_Final_Phase_of_Freedom_Struggle",
+      "title": "Final Phase of Freedom Struggle"
+    },
+    {
+      "slug": "15_Post_Independence_India",
+      "title": "Post-Independence India"
+    },
+    {
+      "slug": "16_Miscellaneous_UPPCS_Frequently_Asked",
+      "title": "Miscellaneous (Frequently Asked by UPPCS)"
+    },
+    {
+      "slug": "uttar pradesh/17_UP_History_and_Freedom_Struggle",
+      "title": "History (इतिहास) & Freedom Struggle of Uttar Pradesh (उत्तर प्रदेश) (UPPCS Special)"
+    },
+    {
+      "slug": "uttarakhand/01_Gorkha_Invasion_and_Rule",
+      "title": "Gorkha Invasion and Rule"
+    },
+    {
+      "slug": "uttarakhand/02_British_Rule_in_Uttarakhand",
+      "title": "British Rule in Uttarakhand (उत्तराखंड)"
+    },
+    {
+      "slug": "uttarakhand/03_Tehri_Estate",
+      "title": "Tehri (टिहरी) Estate (Tehri Princely State)"
+    },
+    {
+      "slug": "uttarakhand/04_Freedom_Movement_in_Uttarakhand",
+      "title": "Freedom Movement in Uttarakhand (उत्तराखंड)"
+    },
+    {
+      "slug": "uttarakhand/05_Peoples_Movements_of_Uttarakhand",
+      "title": "People’s Movements of Uttarakhand (उत्तराखंड)"
+    },
+    {
+      "slug": "00_Chronology_Year_Wise_Events",
+      "title": "Chronology — Year-Wise Major Events"
+    },
+    {
+      "slug": "00_Daily_Revision_Facts",
+      "title": "Daily Read — High-Yield Revision Facts (Modern India)"
+    },
+    {
+      "slug": "00_Prelims_Analysis",
+      "title": "Modern India — Prelims Analysis"
+    },
+    {
+      "slug": "00_Syllabus",
+      "title": "Modern India (UPPCS + UKPCS Prelims Knowledge Base)"
+    },
+    {
+      "slug": "uttarakhand/00_Syllabus",
+      "title": "History & Culture of Uttarakhand — Modern slice (UKPCS)"
+    },
+    {
+      "slug": "uttarakhand/00_UKPCS_PYQ_Bank_Modern",
+      "title": "UKPCS PYQ Bank — Modern India (national + UK)"
     }
   ],
   "polity": [
@@ -794,7 +894,7 @@
     },
     {
       "slug": "05_Fundamental_Rights_and_Duties",
-      "title": "Fundamental Rights & Duties"
+      "title": "Fundamental Rights (मौलिक अधिकार) & Duties"
     },
     {
       "slug": "06_Union_Executive",
@@ -881,8 +981,12 @@
       "title": "One-Liner Revision"
     },
     {
+      "slug": "27_Committees_and_Commissions",
+      "title": "Important Committees and Commissions (Fact-Lock)"
+    },
+    {
       "slug": "uttarakhand/01_Constitutional_Framework_of_Uttarakhand",
-      "title": "Constitutional Framework"
+      "title": "Constitutional Framework & First Dignitaries of Uttarakhand (उत्तराखंड)"
     },
     {
       "slug": "uttarakhand/02_Public_Services_PSC_Auditing",
@@ -894,7 +998,7 @@
     },
     {
       "slug": "uttarakhand/04_SC_ST_Minorities_Official_Language",
-      "title": "SC/ST, Minorities & Language"
+      "title": "SC/ST, Minorities & Official Language"
     },
     {
       "slug": "uttarakhand/05_Funds_Parties_Elections",
@@ -902,55 +1006,199 @@
     },
     {
       "slug": "uttarakhand/06_Local_Government_Panchayati_Raj",
-      "title": "Local Government & PR"
+      "title": "Local Government, Panchayati Raj (पंचायती राज) & Van Panchayats of Uttarakhand (उत्तराखंड)"
     },
     {
       "slug": "uttarakhand/07_Governance_and_Rights_Schemes",
-      "title": "Governance & Rights Schemes"
+      "title": "Governance, Rights, UCC & Citizen Charters of Uttarakhand (उत्तराखंड)"
     },
     {
       "slug": "00_Daily_Revision_Facts",
-      "title": "Daily Revision Facts"
+      "title": "Daily Read — High-Yield Revision Facts (Indian Polity & Governance)"
     },
     {
       "slug": "00_Prelims_Analysis",
-      "title": "Prelims Analysis"
+      "title": "Polity — Prelims Analysis"
     },
     {
       "slug": "00_Syllabus",
-      "title": "Syllabus"
-    },
-    {
-      "slug": "27_Committees_and_Commissions",
-      "title": "Committees and Commissions"
+      "title": "Indian Polity & Governance (UPPCS + UKPCS Prelims Knowledge Base)"
     },
     {
       "slug": "uttarakhand/00_Syllabus",
-      "title": "Syllabus"
+      "title": "Political System of Uttarakhand (UKPCS)"
     },
     {
       "slug": "uttarakhand/00_UKPCS_PYQ_Bank_Polity",
-      "title": "UKPCS PYQ Bank Polity"
-    }
-  ],
-  "economy": [
-    {
-      "slug": "00_Syllabus",
-      "title": "Syllabus"
-    },
-    {
-      "slug": "uttarakhand/00_Syllabus",
-      "title": "Syllabus"
+      "title": "UKPCS PYQ Bank — Polity (national + UK)"
     }
   ],
   "science and technology": [
     {
+      "slug": "01_Cell_Genetics_and_Biotechnology",
+      "title": "Living World, Cell, Genetics and Biotechnology"
+    },
+    {
+      "slug": "02_Animal_Biology_and_Husbandry",
+      "title": "Animal Biology and Husbandry"
+    },
+    {
+      "slug": "03_Nutrition_Diseases_and_Medicine",
+      "title": "Nutrition, Vitamins, Diseases and Medicine"
+    },
+    {
+      "slug": "04_Digestion_Respiration_and_Excretion",
+      "title": "Digestion, Respiration and Excretion"
+    },
+    {
+      "slug": "05_Blood_Heart_and_Circulation",
+      "title": "Blood, Heart, Circulation and Lymph"
+    },
+    {
+      "slug": "06_Control_Reproduction_and_Support",
+      "title": "Nervous System, Hormones, Reproduction and Support"
+    },
+    {
+      "slug": "07_Plants_Agriculture_and_Diseases",
+      "title": "Plants, Agriculture and Plant Diseases"
+    },
+    {
+      "slug": "08_Microbiology_Environment_and_Applied",
+      "title": "Microbiology, Environment and Applied Science"
+    },
+    {
+      "slug": "09_Physics_Fundamentals_and_Measurement",
+      "title": "Physics Fundamentals, Measurement and Instruments"
+    },
+    {
+      "slug": "10_Mechanics_and_Properties_of_Matter",
+      "title": "Mechanics, Gravitation and Physical Properties of Matter"
+    },
+    {
+      "slug": "11_Energy_Heat_and_Thermal",
+      "title": "Energy, Heat and Thermal Science"
+    },
+    {
+      "slug": "12_Light_Optics_and_Laser",
+      "title": "Light, Optics and Laser Technology"
+    },
+    {
+      "slug": "13_Sound_and_Wave_Motion",
+      "title": "Sound and Wave Motion"
+    },
+    {
+      "slug": "14_Electricity_and_Magnetism",
+      "title": "Electricity, Magnetism and Electromagnetism"
+    },
+    {
+      "slug": "15_Electronics_Semiconductors_and_Computers",
+      "title": "Electronics, Semiconductors and Computer Technology"
+    },
+    {
+      "slug": "16_Nuclear_and_Atomic_Physics",
+      "title": "Nuclear and Atomic Physics"
+    },
+    {
+      "slug": "17_Scientists_Discoveries_and_Applications",
+      "title": "Scientists, Discoveries, Defence & Space Technology, and Applications of Physics"
+    },
+    {
+      "slug": "18_Atomic_Structure_and_Periodic_Table",
+      "title": "Atomic Structure and Periodic Classification"
+    },
+    {
+      "slug": "19_Matter_Solutions_and_Purification",
+      "title": "Matter, Solutions and Purification"
+    },
+    {
+      "slug": "20_Metals_and_Chemical_Reactions",
+      "title": "Metals, Non-Metals and Chemical Reactions"
+    },
+    {
+      "slug": "21_Acids_Bases_Salts_and_Sucrose",
+      "title": "Acids, Bases, Salts and Carbohydrates"
+    },
+    {
+      "slug": "22_Carbon_Organic_and_Polymers",
+      "title": "Carbon, Organic Compounds, Polymers and Fibres"
+    },
+    {
+      "slug": "23_Gases_Fuels_and_Energy",
+      "title": "Gases, Fuels, Energy and Combustion"
+    },
+    {
+      "slug": "24_Chemistry_Daily_Life_and_Agriculture",
+      "title": "Chemistry in Daily Life, Industry and Agriculture"
+    },
+    {
+      "slug": "25_Radiation_Nuclear_and_Environment_Chem",
+      "title": "Nuclear Chemistry, Explosives and Environment"
+    },
+    {
+      "slug": "26_Chemistry_Discoveries_and_Miscellaneous",
+      "title": "Discoveries, Scientists and Miscellaneous Chemistry"
+    },
+    {
       "slug": "00_Syllabus",
-      "title": "Syllabus"
+      "title": "Science & Technology (UPPCS + UKPCS Knowledge Base)"
+    },
+    {
+      "slug": "01_Biology_Syllabus",
+      "title": "Science Part 1 — Biology (chapter map)"
+    },
+    {
+      "slug": "02_Physics_Syllabus",
+      "title": "Science Part 2 — Physics (chapter map)"
+    },
+    {
+      "slug": "03_Chemistry_Syllabus",
+      "title": "Science Part 3 — Chemistry (chapter map)"
     },
     {
       "slug": "uttarakhand/00_Syllabus",
-      "title": "Syllabus"
+      "title": "Science & Technology — Uttarakhand (UKPCS)"
+    }
+  ],
+  "up special": [
+    {
+      "slug": "01_Geography_Location_Physical_Features",
+      "title": "Geography, Location, Boundaries, Physical Features, Climate, Soil and Drainage System"
+    },
+    {
+      "slug": "02_History_Culture_Art_Heritage",
+      "title": "History, Culture, Art and Heritage of Uttar Pradesh"
+    },
+    {
+      "slug": "03_Polity_Administration_Local_Government",
+      "title": "Polity, Constitutional Framework, Administration and Local Governance"
+    },
+    {
+      "slug": "04_Economy_Industry_Infrastructure",
+      "title": "Economy, Industrial Policy, Mineral Resources, Infrastructure and ODOP"
+    },
+    {
+      "slug": "05_Agriculture_Irrigation_Rural_Economy",
+      "title": "Agriculture, Agro-Climatic Zones, Irrigation Networks, Rural Economy and Research Institutes"
+    },
+    {
+      "slug": "06_Society_Population_Education_Social",
+      "title": "Society, Demographics, Tribes, Education System and Social Development"
+    },
+    {
+      "slug": "07_Transport_Tourism_Environment_Disaster",
+      "title": "Transport, Tourism Circuits, Forests, Protected Areas, Wetlands and Disaster Management"
+    },
+    {
+      "slug": "08_Current_Affairs_Schemes_Miscellaneous",
+      "title": "Government Schemes, State Policies, State Symbols, Honors and Miscellaneous Facts"
+    },
+    {
+      "slug": "00_Syllabus",
+      "title": "UP Special (UPPCS Knowledge Base)"
+    },
+    {
+      "slug": "01_UP_Special_Syllabus",
+      "title": "UP Special — 8 master chapters (chapter map)"
     }
   ]
 }

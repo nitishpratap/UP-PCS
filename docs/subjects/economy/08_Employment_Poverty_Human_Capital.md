@@ -18,7 +18,6 @@ Banking-side financial inclusion stays in **Topic 3**. Industry / MSME desks sta
 
 ## Current Affairs
 
-
 | Year | Fact | Why it matters |
 |------|------|----------------|
 | **2025 (HDR)** | India’s HDI rank **130** (2023, HDR 2025); life expectancy rose from **58.6** (1990) to **72** (2023). | Rank / LE update stems. |
@@ -89,7 +88,6 @@ Banking-side financial inclusion stays in **Topic 3**. Industry / MSME desks sta
 ---
 ## Confused Pairs
 
-
 | A | B | Distinguishing fact |
 |---|---|---|
 | **Income / consumption poverty** | **MPI** | Money line vs deprivation score |
@@ -153,7 +151,6 @@ Banking-side financial inclusion stays in **Topic 3**. Industry / MSME desks sta
 | **Mid-day Meal 1995** | **PM POSHAN 2021 rename** | Launch vs rename |
 
 ## Must-score drill — HDI, MPI, labour, sustainable development
-
 
 | Item | Tag |
 |---|---|
@@ -227,7 +224,6 @@ Banking-side financial inclusion stays in **Topic 3**. Industry / MSME desks sta
 ---
 
 ## 8.1 Poverty — lines, MPI, indicators
-
 
 **Poverty** is the inability to meet a minimum accepted standard of living.
 
@@ -312,7 +308,7 @@ Banking-side financial inclusion stays in **Topic 3**. Industry / MSME desks sta
 - **PURA** (Providing Urban Amenities to Rural Areas) was advocated by **A.P.J. Abdul Kalam**.
 - Bonded Labour System (Abolition) Act teaching year: **1976** (force from October 1975).
 
-**UPPCS (Pre) 2020**
+**Q-EC1. UPPCS (Pre) 2020**
 
 Which of the following Committees recommended a poverty line based on nutritional requirements exclusively?
 
@@ -324,13 +320,13 @@ D. Rangarajan Committee
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Alagh (1979) is the classic nutrition / calorie-exclusive poverty-line committee in this key set.
+**Logic:** Alagh Committee.
 
-**Ans: A.** Alagh Committee.
+**Ans: A.** Alagh (1979) is the classic nutrition / calorie-exclusive poverty-line committee in this key set.
 
 </details>
 
-**UPPCS (Pre) 2020**
+**Q-EC2. UPPCS (Pre) 2020**
 
 Human Development Report 1997 introduced the concept of Human Poverty Index (HPI) but Human Development Report replaced it with Multidimensional Poverty Index (MPI) in the year
 
@@ -342,13 +338,12 @@ D. 2015
 <details>
 <summary>Show answer</summary>
 
-**Logic:** MPI enters the HDR in 2010 and replaces HPI.
+**Logic:** MPI enters the HDR in 2010 and replaces HPI — 2010
 
-**Ans: C.** 2010.
-
+**Ans: C.** 2010
 </details>
 
-**UPPCS (Pre) 2025**
+**Q-EC3. UPPCS (Pre) 2025**
 
 With reference to the Multidimensional Poverty Index (MPI), which of the following statements is/are correct?
 
@@ -365,13 +360,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Statement 1 is true. Statement 2 confuses MPI with the World Bank money-metric extreme-poverty line — MPI is non-monetary.
+**Logic:** Statement 2 confuses MPI with the World Bank money-metric extreme-poverty line — MPI is non-monetary.
 
-**Ans: D.** Only 1.
+**Ans: D.** Statement 1 is true.
 
 </details>
 
-**UPPCS (Pre) 2019**
+**Q-EC4. UPPCS (Pre) 2019**
 
 Multidimensional poverty index includes:
 
@@ -389,13 +384,13 @@ D. i, ii and iii are correct
 <details>
 <summary>Show answer</summary>
 
-**Logic:** All three dimensions are in the MPI.
+**Logic:** i, ii and iii are correct.
 
-**Ans: D.** i, ii and iii are correct.
+**Ans: D.** All three dimensions are in the MPI.
 
 </details>
 
-**UPPCS (Pre) 2025**
+**Q-EC5. UPPCS (Pre) 2025**
 
 Which of the following is NOT a social indicator of poverty?
 
@@ -414,13 +409,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Illiteracy, water access and jobs are social/deprivation indicators. Floor-area “size of house” is the odd one out (MPI looks at housing materials, not size).
+**Logic:** Floor-area “size of house” is the odd one out (MPI looks at housing materials, not size).
 
-**Ans: C.** Only 4.
+**Ans: C.** Illiteracy, water access and jobs are social/deprivation indicators.
 
 </details>
 
-**UKPCS (Pre) 2025**
+**Q-EC6. UKPCS (Pre) 2025**
 
 Who used the 'jail cost of living' to estimate the poverty line in India?
 
@@ -432,16 +427,15 @@ D. Vallabh Bhai Patel
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Naoroji’s early subsistence estimate used jail cost of living.
+**Logic:** Dadabhai Naoroji.
 
-**Ans: A.** Dadabhai Naoroji.
+**Ans: A.** Naoroji’s early subsistence estimate used jail cost of living.
 
 </details>
 
 ---
 
 ## 8.2 Employment and labour
-
 
 **Unemployment** means willing workers cannot find work at the going wage and conditions.
 
@@ -477,7 +471,7 @@ D. Vallabh Bhai Patel
 - Age structure alone is not enough; education, skills, health and jobs are needed to reap the dividend.
 - Youth unemployment wastes human capital just as education investments mature.
 
-**UPPCS (Pre) 2022**
+**Q-EC7. UPPCS (Pre) 2022**
 
 The demographic dividend is—
 
@@ -489,16 +483,15 @@ D. Working population of 14 to 50 years
 <details>
 <summary>Show answer</summary>
 
-**Logic:** UPPCS keys the Indian working-age band **15–59** as the demographic-dividend population tag. (UN often uses 15–64 — not printed here.)
+**Logic:** (UN often uses 15–64 — not printed here.)
 
-**Ans: B.** Working population of 15 to 59 years.
+**Ans: B.** UPPCS keys the Indian working-age band **15–59** as the demographic-dividend population tag.
 
 </details>
 
 ---
 
 ## 8.3 Human capital, HDI and inclusive growth
-
 
 **Human capital** is the stock of skills, knowledge and health embodied in people.
 
@@ -568,7 +561,7 @@ D. Working population of 14 to 50 years
 
 > **Logic:** Brundtland ≠ Limits to Growth. Social capital ≠ literacy stock. Inclusive growth ≠ GDP growth alone.
 
-**UPPCS (Pre) 2025**
+**Q-EC8. UPPCS (Pre) 2025**
 
 Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
 
@@ -586,13 +579,12 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** Future returns exist because education and health raise productivity — R explains A.
+**A/R logic:** Decide from the stem options; keyed answer is Both (A) and (R) are true and (R) is the correct explanation of (A).
 
-**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A).
-
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)
 </details>
 
-**UPPCS (Pre) 2024**
+**Q-EC9. UPPCS (Pre) 2024**
 
 Which indicators are used in Human Development Index (HDI)?
 
@@ -611,13 +603,13 @@ D. Only 1 and 2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** HDI = income + education + life expectancy. Environment is not an HDI pillar.
+**Logic:** Environment is not an HDI pillar.
 
-**Ans: C.** Only 1, 2 and 4.
+**Ans: C.** HDI = income + education + life expectancy.
 
 </details>
 
-**UPPCS (Pre) 2025**
+**Q-EC10. UPPCS (Pre) 2025**
 
 With reference to Human Development Index, which of the following statements is/are correct?
 
@@ -634,17 +626,15 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Statement 1 is true. Statement 2 fails — Haq led the first HDR; S. Priesner is not the standard co-lead tag (Sen’s capabilities work is the intellectual partner usually named).
+**Logic:** Statement 2 fails — Haq led the first HDR; S.
 
-**Ans: D.** Only 1.
+**Ans: D.** Statement 1 is true.
 
 </details>
 
 ---
 
-
 ## 8.4 Employment and welfare schemes
-
 
 **Welfare and employment schemes** are the programme layer of inclusive growth — they convert human-capital and poverty teaching into named missions, covers and launch tags.
 
@@ -806,7 +796,6 @@ D. Only 1
 
 ## 8.5 Demography — transition, Census and population map
 
-
 **Demography** links population change to development. This shelf holds transition stages, Census chronology and high-yield State / density / literacy tags — edition-bound numbers follow the stem’s Census year.
 
 ### Natural change and demographic transition
@@ -847,7 +836,6 @@ D. Only 1
 > **Logic:** Natural growth ≠ migration. Great Divide = **1921**, not 1951. Density leader flipped **West Bengal (2001) → Bihar (2011)** — stem year wins.
 
 ## 8.6 Urbanization — definitions, levels and city hierarchy
-
 
 **Urbanization** is the rise in the share and scale of urban population and urban centres. This shelf holds Census urban criteria, State ranks, million-city counts and urban-mission tags.
 
@@ -891,7 +879,6 @@ D. Only 1
 > **Logic:** Most urbanized **share** = Goa; largest **absolute** urban population = Maharashtra. Urban definition = size + density + occupation — not physical sprawl alone.
 
 ## 8.7 World population and global urbanization
-
 
 **World demography** shelves UN population milestones, density/religion/fertility traps and global urbanisation ranks. Edition-bound numbers follow the stem’s report year.
 
@@ -942,9 +929,7 @@ These points sit in teaching theory (not the Consolidated spine).
 
 ## Complete PYQ Bank (UPPCS)
 
-
-
-**Q1. UPPCS (Pre) 2020** — Nutrition-exclusive poverty line committee
+**Q1. UPPCS (Pre) 2020**
 
 Which of the following Committees recommended a poverty line based on nutritional requirements exclusively?
 
@@ -956,13 +941,12 @@ D. Rangarajan
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Alagh.
+**Logic:** Standard key matches Alagh.
 
-**Ans: A.**
-
+**Ans: A.** Alagh
 </details>
 
-**Q2. UPPCS (Pre) 2020** — HPI replaced by MPI in
+**Q2. UPPCS (Pre) 2020**
 
 Human Development Report 1997 introduced the concept of Human Poverty Index (HPI) but Human Development Report replaced it with Multidimensional Poverty Index (MPI) in the year
 
@@ -974,13 +958,12 @@ D. 2015
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 2010.
+**Logic:** Standard key matches 2010.
 
-**Ans: C.**
-
+**Ans: C.** 2010
 </details>
 
-**Q3. UPPCS (Pre) 2025** — MPI statements (2010 / $1 day)
+**Q3. UPPCS (Pre) 2025**
 
 With reference to the Multidimensional Poverty Index (MPI), which of the following statements is/are correct?
 
@@ -997,13 +980,12 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Only the 2010 introduction is correct.
+**Logic:** Only the 2010 introduction is correct — Only 1
 
-**Ans: D.**
-
+**Ans: D.** Only 1
 </details>
 
-**Q4. UPPCS (Pre) 2025** — NOT a social indicator of poverty
+**Q4. UPPCS (Pre) 2025**
 
 Which of the following is NOT a social indicator of poverty?
 
@@ -1022,13 +1004,12 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Size of house is the odd one.
+**Logic:** Size of house is the odd one — Only 4
 
-**Ans: C.**
-
+**Ans: C.** Only 4
 </details>
 
-**Q5. UPPCS (Pre) 2024** — HDI indicators
+**Q5. UPPCS (Pre) 2024**
 
 Which indicators are used in Human Development Index (HDI)?
 
@@ -1047,13 +1028,12 @@ D. 1 and 2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Drop environment.
+**Logic:** Drop environment — 1, 2 and 4
 
-**Ans: C.**
-
+**Ans: C.** 1, 2 and 4
 </details>
 
-**Q6. UPPCS (Pre) 2025** — Human capital A/R
+**Q6. UPPCS (Pre) 2025**
 
 Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
 
@@ -1071,13 +1051,12 @@ D. Both true and R explains
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** Productivity channel.
+**Logic:** Standard key: Both true and R explains.
 
-**Ans: D.**
-
+**Ans: D.** Both true and R explains
 </details>
 
-**Q7. UPPCS (Pre) 2025** — HDI 1990 / Haq–Priesner
+**Q7. UPPCS (Pre) 2025**
 
 With reference to the Multidimensional Poverty Index (MPI), which of the following statements is/are correct?
 
@@ -1094,13 +1073,12 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Only the 1990 HDR/HDI statement stands.
+**Logic:** Only the 1990 HDR/HDI statement stands — Only 1
 
-**Ans: D.**
-
+**Ans: D.** Only 1
 </details>
 
-**Q8. UPPCS (Pre) 2022** — Demographic dividend
+**Q8. UPPCS (Pre) 2022**
 
 The demographic dividend is—
 
@@ -1112,13 +1090,12 @@ D. 14 to 50 years
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 15–59 working-age band.
+**Logic:** 15–59 working-age band — 15 to 59 years
 
-**Ans: B.**
-
+**Ans: B.** 15 to 59 years
 </details>
 
-**Q9. UPPCS (Pre) 2019** — MPI dimensions
+**Q9. UPPCS (Pre) 2019**
 
 Multidimensional poverty index includes:
 
@@ -1136,16 +1113,14 @@ D. Health, education and living standard
 <details>
 <summary>Show answer</summary>
 
-**Logic:** All three.
+**Logic:** Standard key: Health, education and living standard.
 
-**Ans: D.**
-
+**Ans: D.** Health, education and living standard
 </details>
 
 ---
 
-
-**Q10. U.P.P.C.S. (Pre) 2024**
+**Q10. UPPCS (Pre) 2024**
 Assertion (A): Sustainable Development was popularised by the Brundtland Report.
 Reason (R): The Brundtland Report is also known as “The Limits to Growth”.
 A. Both true, R not explanation
@@ -1156,13 +1131,12 @@ D. A true, R false
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** Brundtland ≠ Limits to Growth.
+**Logic:** Standard key matches A true, R false.
 
-**Ans: D.** A true; R false.
-
+**Ans: D.** A true, R false
 </details>
 
-**Q11. U.P.P.C.S. (Pre) 2018**
+**Q11. UPPCS (Pre) 2018**
 Saving energy and resources for the future without sacrificing present comfort defines:
 A. Economic growth
 B. Economic development
@@ -1172,9 +1146,9 @@ D. Human development
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Brundtland-style definition.
+**Logic:** Sustainable development.
 
-**Ans: C.** Sustainable development.
+**Ans: C.** Brundtland-style definition.
 
 </details>
 
@@ -1188,13 +1162,13 @@ D. Sustainable development
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Use + conserve.
+**Logic:** Sustainable development.
 
-**Ans: D.** Sustainable development.
+**Ans: D.** Use + conserve.
 
 </details>
 
-**Q13. U.P.P.C.S. (Pre) (Re-Exam) 2015**
+**Q13. UPPCS (Pre) (Re-Exam) 2015**
 Economic Survey first introduced a chapter on sustainable development and climate change in:
 A. 2004–05
 B. 2011–12
@@ -1204,10 +1178,9 @@ D. 2013–14
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Survey chapter debut.
+**Logic:** Survey chapter debut — 2011–12
 
-**Ans: B.** 2011–12.
-
+**Ans: B.** 2011–12
 </details>
 
 **Q14. U.P. P.C.S. (Pre) 2023**
@@ -1221,13 +1194,13 @@ C. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** (HDI) has stipped from 130 in 2020 to 132 in 2021 (in 191 countries and territories) not in 2022. So, both the given options are incorrect. As per the Human Development Report 2025. India's rank on the HDI was 133 in 2022 which is upgraded to 130 in 2023
+**Logic:** So, both the given options are incorrect.
 
-**Ans: C.**
+**Ans: C.** (HDI) has stipped from 130 in 2020 to 132 in 2021 (in 191 countries and territories) not in 2022.
 
 </details>
 
-**Q15. U.P.P.C.S. (Pre) 2024**
+**Q15. UPPCS (Pre) 2024**
 
 Life expectancy Select the correct answer from the codes given below:
 
@@ -1239,13 +1212,12 @@ D. Only 1 and 2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Standard key from Ghatnachakra Human Development.
+**Logic:** Standard key from Ghatnachakra Human Development — Only 1, 2 and
 
-**Ans: C.**
-
+**Ans: C.** Only 1, 2 and
 </details>
 
-**Q16. U.P.P.C.S. (Mains) 2004**
+**Q16. UPPCS (Mains) 2004**
 
 More adults getting literate Select the correct answer from the code given below:
 
@@ -1257,13 +1229,13 @@ D. is the right answer
 <details>
 <summary>Show answer</summary>
 
-**Logic:** rovement in adult literacy, which will increase the educationlevel under Human Development Index. Thus, it is clear thatoption
+**Logic:** Thus, it is clear thatoption
 
-**Ans: D.**
+**Ans: D.** rovement in adult literacy, which will increase the educationlevel under Human Development Index.
 
 </details>
 
-**Q17. U.P.P.C.S. (Spl.) (Mains) 2004**
+**Q17. UPPCS (Spl.) (Mains) 2004**
 
 Which one of the following pairs is the most suitable estimate of the physical quality of life?
 
@@ -1274,13 +1246,13 @@ C. Calorie intake Literacy
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Infant mortality and literacy are the most appropriate estimates of the physical qualtity of life. The Physical Quality of Life Index (PQLI) was developed by Morris D. Morris in the mid-1970s for the Overseas Development Council, PQLI is an attempt to measure the quality of life 
+**Logic:** The Physical Quality of Life Index (PQLI) was developed by Morris D.
 
-**Ans: A.**
+**Ans: A.** Infant mortality and literacy are the most appropriate estimates of the physical qualtity of life.
 
 </details>
 
-**Q18. U.P.P.C.S. (Pre) 2018**
+**Q18. UPPCS (Pre) 2018**
 
 The Human Development Index (HDI) was firstdeveloped by which of the following?
 
@@ -1291,13 +1263,13 @@ C. UNICEF
 <details>
 <summary>Show answer</summary>
 
-**Logic:** (HDI) for the United NationsDevelopment Programme (UNDP)'s Human DevelopmentReport, which was first launched in 1990. This index is based on the human development approach anchored in Amartya Sen's work on human capabilities, often framed interms of whether people are able to 'be
+**Logic:** This index is based on the human development approach anchored in Amartya Sen's work on human capabilities, often framed interms of whether people are able to 'be
 
-**Ans: A.**
+**Ans: A.** (HDI) for the United NationsDevelopment Programme (UNDP)'s Human DevelopmentReport, which was first launched in 1990.
 
 </details>
 
-**Q19. U.P.P.C.S. (Mains) 2006**
+**Q19. UPPCS (Mains) 2006**
 
 Which one of the following is not constituent of Human Development Index?
 
@@ -1309,13 +1281,12 @@ D. 80 and 20
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Ans. (*) See the explanation of above question. Economic & Social Development General Studies E-308
+**Logic:** Standard key matches Health and Nutrition.
 
-**Ans: A.**
-
+**Ans: A.** Health and Nutrition
 </details>
 
-**Q20. U.P.P.C.S. (Mains) 2005**
+**Q20. UPPCS (Mains) 2005**
 
 According to Human Development Index of 2001, arrange the following States in descending order and select the correct answer from the codes given below: A. Punjab C. Bihar Codes:
 
@@ -1326,13 +1297,13 @@ C. A, D, В, С
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Kerala D. Uttar Pradesh UP was at 13th and Bihar was at 15th spot. As per the latest available data, among all States of India, Kerala is at first, Punjab is at fourth, Uttar Pradesh is at 28th and Bihar is at 29th place in terms of
+**Logic:** Uttar Pradesh UP was at 13th and Bihar was at 15th spot.
 
-**Ans: B.**
+**Ans: B.** Kerala D.
 
 </details>
 
-**Q21. U.P.P.C.S. (Pre) 2021**
+**Q21. UPPCS (Pre) 2021**
 
 Pradhan Mantri Jan-Dhan Yojana 28 August, 2014 U.P.P.C.S. (Pre) 2021 2
 
@@ -1343,8 +1314,7 @@ Pradhan Mantri Jan-Dhan Yojana 28 August, 2014 U.P.P.C.S. (Pre) 2021 2
 
 **Logic:** Digital Gender Atlas for Advancing Girls Education in India 9 March, 2015
 
-**Ans: *.**
-
+**Ans: *.** Option *.
 </details>
 
 **Q22. U.P. P.C.S. (Pre) 2020**
@@ -1358,13 +1328,13 @@ C. Both 1 and 2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** (PMJAY) is a scheme that aims to help economically vulnerable Indians who are in need to healthcare facilities. This scheme provides free health insurance of Rs. five lakh per family, per year, thus helping the economically disadvantaged to obtain easy access to healthcare servic
+**Logic:** This scheme provides free health insurance of Rs.
 
-**Ans: B.**
+**Ans: B.** (PMJAY) is a scheme that aims to help economically vulnerable Indians who are in need to healthcare facilities.
 
 </details>
 
-**Q23. U.P.P.C.S. (Pre) 2024**
+**Q23. UPPCS (Pre) 2024**
 
 In this scheme Indian graduates (aged 18-30) withknowledge and skills in specific fields of study willbe offered to live and work in Australia for up totwo years. Select the correct answer from the codes given below:
 
@@ -1375,9 +1345,9 @@ C. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Logic:** (MATES) is a bilateral framework between Indiaand Australia, established under the broader Migration and Mobility Partnership Arrangement (MMPA; signed in May,2023), which promotes mutual migration and mobilitybetween the two nations. It is a new temporary mobility pathway for
+**Logic:** It is a new temporary mobility pathway for
 
-**Ans: D.**
+**Ans: D.** (MATES) is a bilateral framework between Indiaand Australia, established under the broader Migration and Mobility Partnership Arrangement (MMPA; signed in May,2023), which promotes mutual migration and mobilitybetween…
 
 </details>
 
@@ -1392,10 +1362,9 @@ C. Both 1 and 2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** (National Initiative for Development and Harnessing Innovations), an umbrella program is pioneered by the Department of Science and Technology (DST), Government of India, for nurturing ideas and innovations (knowledgebased and technology-driven) into successful startups. Its aim 
+**Logic:** Its aim — keyed as Both 1 and 2.
 
-**Ans: C.**
-
+**Ans: C.** (National Initiative for Development and Harnessing Innovations), an umbrella program is pioneered by the Department of Science and Technology (DST), Government of India, for nurturing ideas and innovations (knowledge…
 </details>
 
 **Q25. U.P. P.C.S. (Pre) 2025**
@@ -1409,10 +1378,9 @@ C. 1 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** ULLAS (Understanding of Lifelong Learning for All in Society): Nav Bharat Saaksharta Karyakram (New India Literacy Programme: NILP) is a Ministry of Education scheme focused on adult education/lifelong learning, being implemented in line with the recommendations of NEP, 2020. DIK
+**Logic:** DIK — keyed as Only 3.
 
-**Ans: B.**
-
+**Ans: B.** ULLAS (Understanding of Lifelong Learning for All in Society): Nav Bharat Saaksharta Karyakram (New India Literacy Programme: NILP) is a Ministry of Education scheme focused on adult education/lifelong learning, being…
 </details>
 
 **Q26. U.P. P.C.S. (Pre) 2025**
@@ -1426,10 +1394,9 @@ C. 2,4, 3. 1
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes.
+**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes — Only
 
-**Ans: A.**
-
+**Ans: A.** Only
 </details>
 
 **Q27. U.P. P.C.S. (Pre) 2025**
@@ -1444,13 +1411,13 @@ D. is the correct answer
 <details>
 <summary>Show answer</summary>
 
-**Logic:** stry |of Skill Development and Entrepreneurship (MSDE), in collaboration with NITI Aayog, launched 'Swavalambini' a women's entrepreneurship programme in Assam, Meghalaya and Mizoram. The objective of this initiative is to empower girl studen
+**Logic:** The objective of this initiative is to empower girl studen
 
-**Ans: D.**
+**Ans: D.** stry |of Skill Development and Entrepreneurship (MSDE), in collaboration with NITI Aayog, launched 'Swavalambini' a women's entrepreneurship programme in Assam, Meghalaya and Mizoram.
 
 </details>
 
-**Q28. U.P.P.C.S. (Pre) 1993**
+**Q28. UPPCS (Pre) 1993**
 
 Conducting the delivery of baby Select the correct answer using the codes given below (c) 1, 2 and 3 I.A.S. (Pre) 2011National Health Policy was announced in:
 
@@ -1461,9 +1428,9 @@ C. 1976
 <details>
 <summary>Show answer</summary>
 
-**Logic:** (NHP) was announced in 1983 bythe Ministry of Health and Family Welfare. Ministry of Healthand Family Welfare has announced NHP, 2017 withthe aim to the attainment of highest possible level of health and wellbeing for all at all ages
+**Logic:** Ministry of Healthand Family Welfare has announced NHP, 2017 withthe aim to the attainment of highest possible level of health and wellbeing for all at all ages
 
-**Ans: A.**
+**Ans: A.** (NHP) was announced in 1983 bythe Ministry of Health and Family Welfare.
 
 </details>
 
@@ -1479,13 +1446,12 @@ D. 3, 1, 2, 4
 <details>
 <summary>Show answer</summary>
 
-**Logic:** (*) The correctly matched lists are as follows: Scheme Scheme Launching YearSwachh Bharat Mission 2014 Pradhan Mantri Kaushal Vikas Yojana 2015 Pradhan Mantri Garib KalyanYojana 2016 Launching Year Pradhan Mantri Mahila Shakti Kendra Scheme 2017 2018 2017 2016* PM Jan Arogya Abhi
+**Logic:** () The correctly matched lists are as follows: Scheme Scheme Launching YearSwachh Bharat Mission 2014 Pradhan Mantri Kaushal Vikas Yojana 2015 Pradhan Mantri Garib KalyanYojana 2016 Launching Year Pradhan Mantri Mahi… —…
 
-**Ans: C.**
-
+**Ans: C.** 1, 2, 3,4
 </details>
 
-**Q30. U.P.P.C.S. (Pre) 2024**
+**Q30. UPPCS (Pre) 2024**
 
 November, 2016 U.P.P.C.S. (Pre) 2024 The correctly matched lists are as follows: Yojana Name Date of Launch (d) 8th December, 2014 U.P.P.C.S. (Mains) 2015 Chhattisgarh P.C.S. (Pre) 2014 Pradhan Mantri Awas Yojana- Gramin 20 November, 2016 Jal Jeevan Mission 15 August, 2019
 
@@ -1494,13 +1460,13 @@ November, 2016 U.P.P.C.S. (Pre) 2024 The correctly matched lists are as follows:
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Swachh Bharat Mission - Gramin 2 October, 2014 Pradhan Mantri Ujjwala Yojana 1 May, 2016 See the explanation of above question. Hence, option (Scheme) List-II (Year of Launch) A. Aam Aadmi Bima Yojana 1. 2021 B. P.M. Aatmanirbhar Swasth Bharat Yojana
+**Logic:** Hence, option (Scheme) List-II (Year of Launch) A.
 
-**Ans: B.**
+**Ans: B.** Swachh Bharat Mission - Gramin 2 October, 2014 Pradhan Mantri Ujjwala Yojana 1 May, 2016 See the explanation of above question.
 
 </details>
 
-**Q31. U.P.P.C.S. (Mains) 2017**
+**Q31. UPPCS (Mains) 2017**
 
 This scheme will benefit working women living in Chennai only. Of the above, the correct statements are :
 
@@ -1511,10 +1477,9 @@ C. Only 2 and 4
 <details>
 <summary>Show answer</summary>
 
-**Logic:** cheme in Chennai to commemorate the 70th birth anniversary of late Chief Minister J. Jayalalithaa. Under the scheme, the State Government offered 50 percent subsidy (up to Rs. 25,000) for the working women of Tamil Nadu to buy two-whee
+**Logic:** cheme in Chennai to commemorate the 70th birth anniversary of late Chief Minister J.
 
-**Ans: *.**
-
+**Ans: *.** Option *.
 </details>
 
 **Q32. U.P. P.C.S. (Pre) 2025**
@@ -1529,13 +1494,13 @@ D. is the correct answer
 <details>
 <summary>Show answer</summary>
 
-**Logic:** (IRDP) was first started on an experimental basis in 1978–79, and it was implemented nationwide from 2 October, 1980. The National Rural Employment Programme (NREP) was started in 1980 (as the successor to the earlier Food for Work Programme) to reduce rural unemployment. Develop
+**Logic:** The National Rural Employment Programme (NREP) was started in 1980 (as the successor to the earlier Food for Work Programme) to reduce rural unemployment.
 
-**Ans: D.**
+**Ans: D.** (IRDP) was first started on an experimental basis in 1978–79, and it was implemented nationwide from 2 October, 1980.
 
 </details>
 
-**Q33. U.P.P.C.S. (Pre) 2019**
+**Q33. UPPCS (Pre) 2019**
 
 Atal Pension Yojana 9 May, 2015 Ш. Make in India 25 September, 2014 IV. Pradhan Mantri Jan-Dhan 28 August, 2014 78. Yojana Hence, the correct chronological order of these schemes is |IV, III, I, II which is not given in the options. Economic & Social Development Which of the following Direct Benefit Scheme (DBS) has been recognized by the 'Guinness Book of World Records' as the world's largest Direct Benefit Scheme?
 
@@ -1546,13 +1511,12 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Ans. or creating record for its scheme 'PAHAL', which is the short form of 'Pratyaksha Hastaantarit Laabh'. as the largest cash transfer programme. Union Ministry of Petroleum and Natural Gas had launched the PAHAL scheme in 54 districts of the country on 15 November, 2014 a
+**Logic:** Standard key matches NSAР.
 
-**Ans: C.**
-
+**Ans: C.** NSAР
 </details>
 
-**Q34. U.P.P.C.S. (Pre) 2017**
+**Q34. UPPCS (Pre) 2017**
 
 Rashtriya Swasthya Bima Yojana launched under Social Security Act, 2008 covers:
 
@@ -1563,13 +1527,13 @@ D. all catesory of workers
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Rashlya Swasthya Bima Yojana (RSBY) aims to provide helth insurance coverage to the unorganized sector workers loelonging to the BPL category. The scheme started enrolling on 1 April, 2008. Now RSBY has been subsumed in Ayushman Bharat Pradhan Mantri Jan Aarogya Yojana (PM-JAY)
+**Logic:** The scheme started enrolling on 1 April, 2008.
 
-**Ans: C.**
+**Ans: C.** Rashlya Swasthya Bima Yojana (RSBY) aims to provide helth insurance coverage to the unorganized sector workers loelonging to the BPL category.
 
 </details>
 
-**Q35. U.P.P.C.S. (Mains) 2006**
+**Q35. UPPCS (Mains) 2006**
 
 Which of the following statement/s is/are NOT CORRECT about the U-WIN portal of Ministry of Health and Family welfare?
 
@@ -1580,13 +1544,12 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Ans. (NRHM) was launched on 12h April, 2005 to provide accessible, affordable and quality healthcare to rural population. In the year 2013, NRHM was subsumed as a Sub-mission under an overarching National Health Mission (NHM), with new National Urban Health Mission (NUHM) being t
+**Logic:** Standard key matches None of the above.
 
-**Ans: D.**
-
+**Ans: D.** None of the above
 </details>
 
-**Q36. U.P.P.C.S. (Mains) 2011**
+**Q36. UPPCS (Mains) 2011**
 
 The National Rural Health Mission aims to reduce Infant Mortality Rate to :
 
@@ -1598,13 +1561,12 @@ D. 35 per 1000 live births by 2014
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Under the National Rural Health Mission, which started in year 2005, the target of infant mortality rate was to achieve 28 per 1000 live births by 2012. Hence, neither option is correct
+**Logic:** Under the National Rural Health Mission, which started in year 2005, the target of infant mortality rate was to achieve 28 per 1000 live births by 2012.
 
-**Ans: *.**
-
+**Ans: *.** Option *.
 </details>
 
-**Q37. U.P.P.C.S. (Mains) 2017**
+**Q37. UPPCS (Mains) 2017**
 
 Under the National Rural Health Mission (NRHM) Scheme, a village level health worker is known as:
 
@@ -1616,13 +1578,13 @@ D. PUJA
 <details>
 <summary>Show answer</summary>
 
-**Logic:** every village in the country with a trained female community health worker ASHA or Accredited Social Health Activist. Selected from the village itself (preferably in the age group of 25 to 45 years)
+**Logic:** Selected from the village itself (preferably in the age group of 25 to 45 years)
 
-**Ans: B.**
+**Ans: B.** every village in the country with a trained female community health worker ASHA or Accredited Social Health Activist.
 
 </details>
 
-**Q38. U.P.P.C.S. (Pre) 2017**
+**Q38. UPPCS (Pre) 2017**
 
 According to the National Family Health Survey-3, private medical sector is the primary source of healthcare in India for :
 
@@ -1634,9 +1596,9 @@ D. 80% households in urban areas
 <details>
 <summary>Show answer</summary>
 
-**Logic:** According to the National Family Health Survey-3 (NFHS3) (2005-06) in India the primary source of healthcare for 70% households in urban areas and 63% households in rural areas was private medical sector. As per NFHS-5 (2019-21), private health sector is the primary source of hea
+**Logic:** As per NFHS-5 (2019-21), private health sector is the primary source of hea
 
-**Ans: C.**
+**Ans: C.** According to the National Family Health Survey-3 (NFHS3) (2005-06) in India the primary source of healthcare for 70% households in urban areas and 63% households in rural areas was private medical sector.
 
 </details>
 
@@ -1652,13 +1614,13 @@ D. Family Planning
 <details>
 <summary>Show answer</summary>
 
-**Logic:** The Integrated Child Development Services (ICDS) programme was launched on 2nd October, 1975. ICDS is implemented by the Ministry of Women and Child Development. It is one of the flagship programmes of the Government of India and represents one of the world's largest and unique p
+**Logic:** ICDS is implemented by the Ministry of Women and Child Development.
 
-**Ans: D.**
+**Ans: D.** The Integrated Child Development Services (ICDS) programme was launched on 2nd October, 1975.
 
 </details>
 
-**Q40. U.P.P.C.S. (Pre) 2017**
+**Q40. UPPCS (Pre) 2017**
 
 Which among the following services is not provided under Integrated Child Development Services (ICDS) scheme?
 
@@ -1669,13 +1631,11 @@ D. Health and Nutrition education to 3-6 year old children
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Integrated Child Development Services (ICDS) scheme (Launch year 1975) provides supplementary feeding, preschool non-formal education, primary healthcare, immunization, health check-up, referral services and health and nutrition education to children under 6 years of age and thei
-
-**Ans: C.**
+**Ans: C.** Integrated Child Development Services (ICDS) scheme (Launch year 1975) provides supplementary feeding, preschool non-formal education, primary healthcare, immunization, health check-up, referral services and health an…
 
 </details>
 
-**Q41. U.P.P.C.S. (Mains) 2010**
+**Q41. UPPCS (Mains) 2010**
 
 'Skill Development Initiative' has been operationalized in?
 
@@ -1685,13 +1645,12 @@ C. May 2007
 <details>
 <summary>Show answer</summary>
 
-**Logic:** m to train I million persons on demand driven vocational slls over the next 5 years and I milhion cach year after that to support skill training, certification and upgradation in the unorganized sector
+**Logic:** m to train I million persons on demand driven vocational slls over the next 5 years and I milhion cach year after that to support skill training, certification and upgradation in the unorganized sector — May 2007
 
-**Ans: C.**
-
+**Ans: C.** May 2007
 </details>
 
-**Q42. U.P.P.C.S. (Mains) 2017**
+**Q42. UPPCS (Mains) 2017**
 
 Saubhagya Yojana is concerned with :
 
@@ -1702,13 +1661,13 @@ C. Provision of free electricity to BPL families
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Pradhan Mantri Sahaj Bijli Har Ghar Yojna – 'Saubhagya', a new scheme, was launched by PM Narendra Modi on 25 September, 2017. Under Saubhagya scheme free electricity connections to all households (both APL and BPL families in rural areas and BPL families in urban areas) were pro
+**Logic:** Under Saubhagya scheme free electricity connections to all households (both APL and BPL families in rural areas and BPL families in urban areas) were pro
 
-**Ans: C.**
+**Ans: C.** Pradhan Mantri Sahaj Bijli Har Ghar Yojna – 'Saubhagya', a new scheme, was launched by PM Narendra Modi on 25 September, 2017.
 
 </details>
 
-**Q43. U.P.P.C.S. (Pre) 2017**
+**Q43. UPPCS (Pre) 2017**
 
 How many minimum hours of power supply is assured for rural agriculture purpose in 'Atal Jyoti Yojana, (b) I, II, III and IV 2013'? (c) III, II, I and IV (d) IV, I, II and III
 
@@ -1720,13 +1679,10 @@ D. IV, I, II and III
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Ans. (Pre) 2018 Minimum 10 hours of power supply for rural agriculture purpose was assured in ‘Atal Jyoti Yojana, 2013' in Madhya Pradesh. Sukanya Samriddhi Yojana 22 January, 2015
-
-**Ans: *.**
-
+**Ans: *.** Option *.
 </details>
 
-**Q44. U.P.P.C.S. (Pre) 2016**
+**Q44. UPPCS (Pre) 2016**
 
 In which one of the following years ‘Swavalamban Scheme' was launched? A. Nai Roshani Programme i. Women empowerment
 
@@ -1736,9 +1692,9 @@ C. 2012 A.D
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Swavalamban iv. IT Training Scheme Codes: A B C D
+**Logic:** IT Training Scheme Codes: A B C D
 
-**Ans: A.**
+**Ans: A.** Swavalamban iv.
 
 </details>
 
@@ -1753,10 +1709,9 @@ C. Ballia
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes.
+**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes — Ballia
 
-**Ans: C.**
-
+**Ans: C.** Ballia
 </details>
 
 **Q46. U.P. P.C.S. (Mains) 2015**
@@ -1770,13 +1725,11 @@ C. February, 2015
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes.
-
-**Ans: D.**
+**Ans: D.** Standard key from Ghatnachakra Employment & Welfare Schemes.
 
 </details>
 
-**Q47. U.P.P.C.S. (Pre) 2013**
+**Q47. UPPCS (Pre) 2013**
 
 'Swadhar' is the scheme for:
 
@@ -1788,13 +1741,12 @@ D. Common home of senior citizens
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes.
+**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes — Women in difficult circumstances
 
-**Ans: C.**
-
+**Ans: C.** Women in difficult circumstances
 </details>
 
-**Q48. U.P.P.C.S. (Mains) 2015**
+**Q48. UPPCS (Mains) 2015**
 
 Mahila Samriddhi Yojana was started in India in :
 
@@ -1805,13 +1757,12 @@ C. 1994
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes.
+**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes — 1993
 
-**Ans: B.**
-
+**Ans: B.** 1993
 </details>
 
-**Q49. U.P.P.C.S. (Pre) 2005**
+**Q49. UPPCS (Pre) 2005**
 
 The proposed 'Janani Suraksha Scheme’ will replace :
 
@@ -1823,9 +1774,9 @@ D. Reproductive and Child Health Scheme
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Janani Suraksha Yojana (JSY) was launched in April, 2005 by modifying and replacing the National Meternity Benefit Scheme (NMBS). JSY is a safe motherhood intervention under National Rural Health Mission (NRHM). It is а centrally sponsored scheme which is being implemented with t
+**Logic:** JSY is a safe motherhood intervention under National Rural Health Mission (NRHM).
 
-**Ans: B.**
+**Ans: B.** Janani Suraksha Yojana (JSY) was launched in April, 2005 by modifying and replacing the National Meternity Benefit Scheme (NMBS).
 
 </details>
 
@@ -1841,13 +1792,12 @@ D. Reduction in neo-natal mortality rate only
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes.
+**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes — Reduction in maternal and neo-natal mortality rate
 
-**Ans: A.**
-
+**Ans: A.** Reduction in maternal and neo-natal mortality rate
 </details>
 
-**Q51. U.P.P.C.S. (Mains) 2010**
+**Q51. UPPCS (Mains) 2010**
 
 The ambitious scheme launched in June, 2011 by the Government of India to provide free healthcare facilities to pregnant women and infants has been named as :
 
@@ -1859,13 +1809,13 @@ D. Integrated Child Development Scheme
 <details>
 <summary>Show answer</summary>
 
-**Logic:** , 2011 Government of India has launched ‘Janani Shishu Suraksha Karyakram' (JSSK) on 1t June, 2011. It is an initiative to provide completely free and cashless healthcare services to pregnant women including normal deliveries and cesarean operations and sick new born (up to 30 da
+**Logic:** It is an initiative to provide completely free and cashless healthcare services to pregnant women including normal deliveries and cesarean operations and sick new born (up to 30 da
 
-**Ans: C.**
+**Ans: C.** , 2011 Government of India has launched ‘Janani Shishu Suraksha Karyakram' (JSSK) on 1t June, 2011.
 
 </details>
 
-**Q52. U.P.P.C.S. (Pre) 2018**
+**Q52. UPPCS (Pre) 2018**
 
 ABC index announced by the Government of India is associated with which of the following?
 
@@ -1876,13 +1826,13 @@ C. Health
 <details>
 <summary>Show answer</summary>
 
-**Logic:** rage of the four indicators related to well-being and health of children. These four indicators are: Economic & Social Development Survival, Immunization, Nutrition and Schooling. Each indicator is measured in perce
+**Logic:** These four indicators are: Economic & Social Development Survival, Immunization, Nutrition and Schooling.
 
-**Ans: C.**
+**Ans: C.** rage of the four indicators related to well-being and health of children.
 
 </details>
 
-**Q53. U.P.P.C.S. (Pre) 1999**
+**Q53. UPPCS (Pre) 1999**
 
 'Gokul Gram Scheme' is associated with which of the following States?
 
@@ -1893,10 +1843,9 @@ C. Gujarat
 <details>
 <summary>Show answer</summary>
 
-**Logic:** provide basic infrastructure and better environment to all villages of the Gujarat
+**Logic:** provide basic infrastructure and better environment to all villages of the Gujarat — Gujarat
 
-**Ans: C.**
-
+**Ans: C.** Gujarat
 </details>
 
 **Q54. U.P. P.C.S. (Mains) 2016**
@@ -1910,10 +1859,9 @@ C. Drinking water
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes.
+**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes — Rural sanitation
 
-**Ans: B.**
-
+**Ans: B.** Rural sanitation
 </details>
 
 **Q55. U.P. P.C.S. (Pre) 2006**
@@ -1928,10 +1876,9 @@ D. Sarva Shiksha Abhiyan
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes.
+**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes — Sarva Shiksha Abhiyan
 
-**Ans: D.**
-
+**Ans: D.** Sarva Shiksha Abhiyan
 </details>
 
 **Q56. U.P. P.C.S. (Mains) 2008**
@@ -1945,10 +1892,9 @@ C. Rural housing
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes.
+**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes — Agro-based industries
 
-**Ans: A.**
-
+**Ans: A.** Agro-based industries
 </details>
 
 **Q57. U.P. P.C.S. (Mains) 2006**
@@ -1962,13 +1908,12 @@ C. Rural water supply
 <details>
 <summary>Show answer</summary>
 
-**Logic:** (Spl.) (Mains) 2008 See the explanation of above question
+**Logic:** (Spl.) (Mains) 2008 See the explanation of above question — Rural hospitals
 
-**Ans: B.**
-
+**Ans: B.** Rural hospitals
 </details>
 
-**Q58. U.P.P.C.S. (Mains) 2005**
+**Q58. UPPCS (Mains) 2005**
 
 The targets set for achievements under the Bharat Nirman Yojna are to be realized by the end of: Uttarakhand P.C.S. (Pre) 2006
 
@@ -1977,9 +1922,7 @@ The targets set for achievements under the Bharat Nirman Yojna are to be realize
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes.
-
-**Ans: A.**
+**Ans: A.** Standard key from Ghatnachakra Employment & Welfare Schemes.
 
 </details>
 
@@ -1994,13 +1937,13 @@ C. 2021-22
 <details>
 <summary>Show answer</summary>
 
-**Logic:** (JJM), a Central Government initiative under the Ministry of Jal Shakti, aims to ensure access of piped water to every household in India. The mission's goal was to provide all households in rural India safe and adequate water through individual household tap connections by 2024.
+**Logic:** The mission's goal was to provide all households in rural India safe and adequate water through individual household tap connections by 2024.
 
-**Ans: B.**
+**Ans: B.** (JJM), a Central Government initiative under the Ministry of Jal Shakti, aims to ensure access of piped water to every household in India.
 
 </details>
 
-**Q60. U.P.P.C.S. (Mains) 2016**
+**Q60. UPPCS (Mains) 2016**
 
 Atal Mission for Rejuvenation and Urban Transformation (AMRUT) is associated with revamping of:
 
@@ -2011,13 +1954,12 @@ C. urban health
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes.
+**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes — urban infrastructure
 
-**Ans: A.**
-
+**Ans: A.** urban infrastructure
 </details>
 
-**Q61. U.P.P.C.S. (Mains) 2004**
+**Q61. UPPCS (Mains) 2004**
 
 Sugamya Bharat Abhiyan is associated with :
 
@@ -2029,13 +1971,12 @@ D. Under Privileged People
 <details>
 <summary>Show answer</summary>
 
-**Logic:** group named 'Sangam' and every organized group is given an assist
+**Logic:** group named 'Sangam' and every organized group is given an assist — Disable Persons
 
-**Ans: A.**
-
+**Ans: A.** Disable Persons
 </details>
 
-**Q62. U.P.P.C.S. (Spl.) (Mains) 2008**
+**Q62. UPPCS (Spl.) (Mains) 2008**
 
 'Sankalp' project is associated with the eradication of:
 
@@ -2046,9 +1987,9 @@ C. Unemployment
 <details>
 <summary>Show answer</summary>
 
-**Logic:** tan Latex Ltd. and Employees' State Insurance Corporation
+**Logic:** and Employees' State Insurance Corporation
 
-**Ans: D.**
+**Ans: D.** tan Latex Ltd.
 
 </details>
 
@@ -2064,13 +2005,13 @@ D. Deen Dayal Upadhyay Gramin Kaushalya Yojana
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 2014 Shyama Prasad Mukherji Rurban Mission was launched in 2016. Pairs of other three options are correctly matched
+**Logic:** Pairs of other three options are correctly matched
 
-**Ans: A.**
+**Ans: A.** 2014 Shyama Prasad Mukherji Rurban Mission was launched in 2016.
 
 </details>
 
-**Q64. U.P.P.C.S. (Spl.) (Mains) 2004**
+**Q64. UPPCS (Spl.) (Mains) 2004**
 
 Which one of the following is correctly matched?
 
@@ -2080,10 +2021,9 @@ B. Etawah Pilot Project Albert Mayer
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Ans. 1947. Lt. Col. Albert Mayer of USA, who came to India with the American forces in 1944, was the originator of this project. It was put into action with headquarters at Mahew a village in September, 1948. First 64 villages, which were then
+**Logic:** Standard key: Cooperative Movement M.K.
 
-**Ans: A.**
-
+**Ans: A.** Cooperative Movement M.K.
 </details>
 
 **Q65. U.P. P.C.S. (Pre) 2013**
@@ -2097,13 +2037,11 @@ C. Rural Electrification
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes.
-
-**Ans: D.**
+**Ans: D.** Standard key from Ghatnachakra Employment & Welfare Schemes.
 
 </details>
 
-**Q66. U.P.P.C.S. (Mains) 2013**
+**Q66. UPPCS (Mains) 2013**
 
 Which one of the following organizations administers finances of Rural Infrastructure Development Fund ?
 
@@ -2115,13 +2053,12 @@ D. Ministry of Rural Development
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes.
+**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes — NABARD
 
-**Ans: B.**
-
+**Ans: B.** NABARD
 </details>
 
-**Q67. U.P.P.C.S. (Mains) 2005**
+**Q67. UPPCS (Mains) 2005**
 
 Which one of the following pairs is not correctly matched? Scheme Commencement
 
@@ -2132,13 +2069,13 @@ C. JRY April, 1995
 <details>
 <summary>Show answer</summary>
 
-**Logic:** (Spl.) (Pre) 2008 Jawahar Rozgar Yojana (JRY) was started w.e.f. 1 April, 1989 by merging two erstwhile wage employment programmes - National Rural Employment Programme (NREP) and Rural Landless Employment Guarantee Programme (RLEGP). Pairs of other three options are correctly ma
+**Logic:** 1 April, 1989 by merging two erstwhile wage employment programmes - National Rural Employment Programme (NREP) and Rural Landless Employment Guarantee Programme (RLEGP).
 
-**Ans: C.**
+**Ans: C.** (Spl.) (Pre) 2008 Jawahar Rozgar Yojana (JRY) was started w.e.f.
 
 </details>
 
-**Q68. U.P.P.C.S. (Pre) 2001**
+**Q68. UPPCS (Pre) 2001**
 
 Which one ofthe following programmes is not inciuded in the Swarnajayanti Gram Swarozgar Yojana (SGSY)?
 
@@ -2149,9 +2086,7 @@ C. DWCRA
 <details>
 <summary>Show answer</summary>
 
-**Logic:** tructuring the existing schemes namely: (i) Integrated Rural Development Programme (JRDP) (ii) Training of Rural Youth for Self Employment (TRYSEM) (ii) Development of Women and Child in Rural Areas (DWCRA) (iv)Mill
-
-**Ans: D.**
+**Ans: D.** tructuring the existing schemes namely: (i) Integrated Rural Development Programme (JRDP) (ii) Training of Rural Youth for Self Employment (TRYSEM) (ii) Development of Women and Child in Rural Areas (DWCRA) (iv)Mill
 
 </details>
 
@@ -2166,13 +2101,13 @@ C. Only 2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** n recorded in the allocation for Atma Nirbhar Bharat Rojgar Yojana (not in MGNREGA), while highest percentage of growth has been recorded in Reform Linked Distribution Scheme (not in Jal Jeevan Mission). Thus, both given statements are incorr
+**Logic:** Thus, both given statements are incorr
 
-**Ans: D.**
+**Ans: D.** n recorded in the allocation for Atma Nirbhar Bharat Rojgar Yojana (not in MGNREGA), while highest percentage of growth has been recorded in Reform Linked Distribution Scheme (not in Jal Jeevan Mission).
 
 </details>
 
-**Q70. U.P.P.C.S. (Pre) 2015**
+**Q70. UPPCS (Pre) 2015**
 
 Reduction in migration to cities Choose the correct answer by using the codes given below:
 
@@ -2184,13 +2119,12 @@ D. 1, 2 and 3 are correct
 <details>
 <summary>Show answer</summary>
 
-**Logic:** There is sufficient evidence to suggest that MGNREGA has contributed to: (i) increased rural wages everywhere and substantial increase in purchasing power of rural poor; (ii) reduced distress migration from traditionally migration-intensive areas; (iii) usage of barren areas for 
+**Logic:** There is sufficient evidence to suggest that MGNREGA has contributed to: (i) increased rural wages everywhere and substantial increase in purchasing power of rural poor; (ii) reduced distress migration from traditiona……
 
-**Ans: A.**
-
+**Ans: A.** Only 1 and 3 are correct
 </details>
 
-**Q71. U.P.P.C.S. (Mains) 2009**
+**Q71. UPPCS (Mains) 2009**
 
 Rs. 436 per year D. Atal Pension Yojana 4. Rs. 20 per year Codes: U.P.P.C.S. (Mains) 2009 A B C D
 
@@ -2201,13 +2135,12 @@ C. 1 2 3 4
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes (livelihood / MGNREGA / social security / sanitation).
+**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes (livelihood / MGNREGA / social security / sanitation) — 2 3 4 1
 
-**Ans: A.**
-
+**Ans: A.** 2 3 4 1
 </details>
 
-**Q72. U.P.P.C.S. (Pre) 2024**
+**Q72. UPPCS (Pre) 2024**
 
 Pradhan Mantri Jan-Dhan Yojana Codes:
 
@@ -2219,13 +2152,12 @@ D. 4, 3, 1,2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Ans. Scheme Launching Year Scheme/Programme Launch Year Integrated Rural Development Programme 1980 (at all Pradhan Mantri Gramodaya Yojana 2000-01 India level) Swarnjayanti Gram Swarozgar Yojana 1999 Rural Employment Generation Programme 1995 National Rural Employment Guar
+**Logic:** Standard key matches 1, 2, 3, 4.
 
-**Ans: A.**
-
+**Ans: A.** 1, 2, 3, 4
 </details>
 
-**Q73. U.P.P.C.S. (Pre) 2002**
+**Q73. UPPCS (Pre) 2002**
 
 Swarnajayanti Gram Swarozgar Yojana was started in the year:
 
@@ -2238,11 +2170,10 @@ C. Ans
 
 **Logic:** 1999 Rural Livelihood Mission, launched in June, 2011 by the Government of India?
 
-**Ans: C.**
-
+**Ans: C.** Ans
 </details>
 
-**Q74. U.P.P.C.S. (Pre) 2015**
+**Q74. UPPCS (Pre) 2015**
 
 Which one of the following pairs is not correctly matched?
 
@@ -2254,13 +2185,12 @@ D. Rural Employment
 <details>
 <summary>Show answer</summary>
 
-**Logic:** SIDBI Bharat Nirman NABARD SJSRY The objective of Swarnajayanti Shahari Rojgar Yojana (SJSRY; launched on December 1, 1997), was to provide gainful employment to the urban unemployed or underemployed. This scheme was not for rural employment. Social security measures were also no
+**Logic:** SIDBI Bharat Nirman NABARD SJSRY The objective of Swarnajayanti Shahari Rojgar Yojana (SJSRY; launched on December 1, 1997), was to provide gainful employment to the urban unemployed or underemployed.
 
-**Ans: *.**
-
+**Ans: *.** Option *.
 </details>
 
-**Q75. U.P.P.C.S. (Pre) 2015**
+**Q75. UPPCS (Pre) 2015**
 
 Which one of the following pairs is not correctly matched? C. Jawahar Rozgar Yojana 3. 1999
 
@@ -2270,13 +2200,13 @@ C. 3 1 2 4
 <details>
 <summary>Show answer</summary>
 
-**Logic:** The correctly matched lists are as follows : Swarnajayanti Gram Swarozgar Yojana - 1999 Ans. Bima Yojana was started on 2 October, 2007. National Rural Employment Guarantee Act (NREGA), 2005 came into force on 2 February, 2006 and renamed as MGNREGA on 2 October, 2009
+**Logic:** Bima Yojana was started on 2 October, 2007.
 
-**Ans: C.**
+**Ans: C.** The correctly matched lists are as follows : Swarnajayanti Gram Swarozgar Yojana - 1999 Ans.
 
 </details>
 
-**Q76. U.P.P.C.S. (Pre) 2008**
+**Q76. UPPCS (Pre) 2008**
 
 National Rural Employment Guarantee Scheme (NREGS) was launched initially in 200 districts. In the Budget for 2007-08, it was proposed to extend it to :
 
@@ -2287,13 +2217,11 @@ C. 310 districts
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes (livelihood / MGNREGA / social security / sanitation).
-
-**Ans: D.**
+**Ans: D.** Standard key from Ghatnachakra Employment & Welfare Schemes (livelihood / MGNREGA / social security / sanitation).
 
 </details>
 
-**Q77. U.P.P.C.S. (Mains) 2006**
+**Q77. UPPCS (Mains) 2006**
 
 National Rural Employment Guarantee Scheme was launched initially in :
 
@@ -2304,13 +2232,12 @@ C. 330 Districts
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes (livelihood / MGNREGA / social security / sanitation).
+**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes (livelihood / MGNREGA / social security / sanitation) — 200 Districts
 
-**Ans: B.**
-
+**Ans: B.** 200 Districts
 </details>
 
-**Q78. U.P.P.C.S. (Mains) 2011**
+**Q78. UPPCS (Mains) 2011**
 
 When was the Community Development Program started in India?
 
@@ -2322,10 +2249,9 @@ D. 2nd October, 1953 A.D
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes (livelihood / MGNREGA / social security / sanitation).
+**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes (livelihood / MGNREGA / social security / sanitation) — 2nd October, 1952 A.D
 
-**Ans: C.**
-
+**Ans: C.** 2nd October, 1952 A.D
 </details>
 
 **Q79. U.P.P.S.C. (R.I.) 2014**
@@ -2339,10 +2265,9 @@ C. B.R. Mehta
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Panchayati Raj Minister of India. Mr. Dey is remembered as the man who pioneered and steered community development in independent India. He was instrumental in starting the Community Development Programme by the Government of India in th
+**Logic:** Mr — keyed as S.K.
 
-**Ans: A.**
-
+**Ans: A.** Panchayati Raj Minister of India.
 </details>
 
 **Q80. U.P. P.C.S. (Pre) 2025**
@@ -2356,9 +2281,9 @@ C. 2, 4, 3, 1
 <details>
 <summary>Show answer</summary>
 
-**Logic:** • Community Development Programme (CDP): Started on 2 October, 1952. • Drought Prone Areas Programme (DPAP): Started in 1973-74. Food for Work Programme: Started for the first time in 1977-78. Training of Rural Youth for Self-Employment (TRYSEM): Started from 15 August, 1979. Hen
+**Logic:** • Drought Prone Areas Programme (DPAP): Started in 1973-74.
 
-**Ans: B.**
+**Ans: B.** • Community Development Programme (CDP): Started on 2 October, 1952.
 
 </details>
 
@@ -2372,13 +2297,12 @@ D. It has a monthly minımum assured pension of
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Rs. 3000.00 National Pension Scheme for Traders and Self-employed persons (NPS-Traders PM Laghu Vyapari Maan-dhan Yojna), 2019 is meant for old age protection and social security of retail traders shopkeepers and self-employed persons (with entry age between 18 to 40 years), whos
+**Logic:** Standard key matches National Pension Scheme's member are also cligible.
 
-**Ans: C.**
-
+**Ans: C.** National Pension Scheme's member are also cligible
 </details>
 
-**Q82. U.P.P.C.S. (Pre) 2015**
+**Q82. UPPCS (Pre) 2015**
 
 In which one of the following years the Unorganised Workers' Social Security Act was passed?
 
@@ -2389,13 +2313,12 @@ C. 2008
 <details>
 <summary>Show answer</summary>
 
-**Logic:** t, it was notified on 30 December, 2008
+**Logic:** t, it was notified on 30 December, 2008 — 2008
 
-**Ans: C.**
-
+**Ans: C.** 2008
 </details>
 
-**Q83. U.P.P.C.S. (Mains) 2015**
+**Q83. UPPCS (Mains) 2015**
 
 Which one of the following statements is not true about Pradhan Mantri Suraksha Bima Yojna?
 
@@ -2407,9 +2330,9 @@ D. Premium payable is Rs. 12 per annum
 <details>
 <summary>Show answer</summary>
 
-**Logic:** & (PMSBY) was announced by Finance Minister in Budget Speech of the financial year 2015-16. Through the Budget Speech 2015, three ambitious social security schemes pertaining to insurance and pension sector, Pradhan Mantri Suraksha Bima Yojana (PMSBY). Pradhan Mantri Jeevan Jyoti
+**Logic:** Through the Budget Speech 2015, three ambitious social security schemes pertaining to insurance and pension sector, Pradhan Mantri Suraksha Bima Yojana (PMSBY).
 
-**Ans: B.**
+**Ans: B.** & (PMSBY) was announced by Finance Minister in Budget Speech of the financial year 2015-16.
 
 </details>
 
@@ -2422,13 +2345,13 @@ Which of the following is not an Employment Generation and Poverty Alleviation P
 <details>
 <summary>Show answer</summary>
 
-**Logic:** MGNREGA, NRLM and SJSRY are the employment generation and poverty alleviation programmes of Government of India, while National Social Security Fund (NSSF) was constituted in 2011 with an initial allocation of Rs. 1000 crore for providing social security to the workers in the uno
+**Logic:** 1000 crore for providing social security to the workers in the uno
 
-**Ans: D.**
+**Ans: D.** MGNREGA, NRLM and SJSRY are the employment generation and poverty alleviation programmes of Government of India, while National Social Security Fund (NSSF) was constituted in 2011 with an initial allocation of Rs.
 
 </details>
 
-**Q85. U.P.P.C.S. (Pre) 2017**
+**Q85. UPPCS (Pre) 2017**
 
 Choose the incorrect match :
 
@@ -2437,9 +2360,9 @@ Choose the incorrect match :
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Preserving and revitalizing heritage cities n 2nd October, 2014. It is not related to safe drinking water. Pairs of other options are correctly m
+**Logic:** It is not related to safe drinking water.
 
-**Ans: D.**
+**Ans: D.** Preserving and revitalizing heritage cities n 2nd October, 2014.
 
 </details>
 
@@ -2454,13 +2377,13 @@ C. 2019
 <details>
 <summary>Show answer</summary>
 
-**Logic:** (Mission) started on October 02, 2014. The mission aimed to achieve an ‘Open Defecation Free' (ODF) and ‘Clean India' by 2 October, 2019, the 150th birth anniversary of Mahatma Gandhi. This mission has two components : Rural (Grameen) and Urban (Shahari). Phase 1 of the Swachh Bh
+**Logic:** The mission aimed to achieve an ‘Open Defecation Free' (ODF) and ‘Clean India' by 2 October, 2019, the 150th birth anniversary of Mahatma Gandhi.
 
-**Ans: C.**
+**Ans: C.** (Mission) started on October 02, 2014.
 
 </details>
 
-**Q87. U.P.P.C.S. (Mains) 2015**
+**Q87. UPPCS (Mains) 2015**
 
 Swachh Bharat Mission (Grameen) has been launched in India in :
 
@@ -2470,13 +2393,12 @@ B. , 'Healthcare' word is given instead of 'Health'
 <details>
 <summary>Show answer</summary>
 
-**Logic:** The correct matches are as follows : HRIDAY - Heritage City Development and Augmentation Yojana SEHAT - Social Endeavour for Health and Telemedicine AMRUT - Atal Mission for Rejuvenation and Urban Transformation Hence, all the given matches are correct and option
+**Logic:** The correct matches are as follows : HRIDAY - Heritage City Development and Augmentation Yojana SEHAT - Social Endeavour for Health and Telemedicine AMRUT - Atal Mission for Rejuvenation and Urban Transformation Hence……
 
-**Ans: B.**
-
+**Ans: B.** , 'Healthcare' word is given instead of 'Health'
 </details>
 
-**Q88. U.P.P.C.S. (Pre) 2019**
+**Q88. UPPCS (Pre) 2019**
 
 Rural Sanitation Strategy launched by Ministry of Jal Shakti in September, 2019 relates to which of the following periods?
 
@@ -2487,13 +2409,12 @@ C. 2019-2022
 <details>
 <summary>Show answer</summary>
 
-**Logic:** (DDWS) under the Ministry of Jal Shakti, launched the 10 Year Rural Sanitation Strategy (2019-2029), with focus on sustaining the sanitation behaviour change that has been achieved under the Swachh Bharat Mission Grameen (SBM-G)
+**Logic:** (DDWS) under the Ministry of Jal Shakti, launched the 10 Year Rural Sanitation Strategy (2019-2029), with focus on sustaining the sanitation behaviour change that has been achieved under the Swachh Bharat Mission Gram……
 
-**Ans: B.**
-
+**Ans: B.** 2019-2029
 </details>
 
-**Q89. U.P.P.C.S. (Mains) 2012**
+**Q89. UPPCS (Mains) 2012**
 
 Nirmal Bharat Abhiyan Yojana is associated with :
 
@@ -2505,13 +2426,12 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes (livelihood / MGNREGA / social security / sanitation).
+**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes (livelihood / MGNREGA / social security / sanitation) — None of the above
 
-**Ans: D.**
-
+**Ans: D.** None of the above
 </details>
 
-**Q90. U.P.P.C.S. (Spl.) (Mains) 2008**
+**Q90. UPPCS (Spl.) (Mains) 2008**
 
 The objective of Nirmal Gram Puraskar Yojna is:
 
@@ -2523,13 +2443,12 @@ D. Environmental cleanliness
 <details>
 <summary>Show answer</summary>
 
-**Logic:** To give a fillip to the 'Total Sanitation Campaign' (TSC), Government of India launched an award based incentive scheme for fully sanitized and open defecation free Gram Panchayats, Blocks, Districts and States called ‘Nirmal Gram Puraskar' (NGP) in October, 2003 and gave first a
+**Logic:** To give a fillip to the 'Total Sanitation Campaign' (TSC), Government of India launched an award based incentive scheme for fully sanitized and open defecation free Gram Panchayats, Blocks, Districts and States called……
 
-**Ans: A.**
-
+**Ans: A.** Defecation sanitation
 </details>
 
-**Q91. U.P.P.C.S. (Pre) 2016**
+**Q91. UPPCS (Pre) 2016**
 
 Consider the following statements related to Integrated Low Cost Sanitation (ILCS) scheme : I. The system is funded on sharing basis. II. Central subsidy is 75 percent. III. State subsidy is 25 percent. Of these, the correct statements are :
 
@@ -2540,13 +2459,13 @@ C. I and III only
 <details>
 <summary>Show answer</summary>
 
-**Logic:** (ILCS) scheme started in 1980- 81 with the objective of eradicating all dry latrines and thereby liberating manual scavengers from inhuman practice of carrying night soil. The scheme also has provision for construction of new latrines for the EWS households who have no latrine fa
+**Logic:** The scheme also has provision for construction of new latrines for the EWS households who have no latrine fa
 
-**Ans: A.**
+**Ans: A.** (ILCS) scheme started in 1980- 81 with the objective of eradicating all dry latrines and thereby liberating manual scavengers from inhuman practice of carrying night soil.
 
 </details>
 
-**Q92. U.P.P.C.S. (Pre) 2019**
+**Q92. UPPCS (Pre) 2019**
 
 National Social Assistance Programme does not include the following scheme for ‘Below Poverty Line’ households
 
@@ -2558,15 +2477,15 @@ D. All of the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** The National Social Assistance Programme (NSAP) which came into effect from 15th August, 1995 represents a significant step towards the fulfillment of the Directive Principles in Article 41 of the Constitution. The programme introduced a National Policy for Social Assistance for 
+**Logic:** The programme introduced a National Policy for Social Assistance for
 
-**Ans: C.**
+**Ans: C.** The National Social Assistance Programme (NSAP) which came into effect from 15th August, 1995 represents a significant step towards the fulfillment of the Directive Principles in Article 41 of the Constitution.
 
 </details>
 
 ---
 
-**Q93. U.P.P.C.S. (Pre) 2019**
+**Q93. UPPCS (Pre) 2019**
 
 National Social Assistance Programme does not include the following scheme for BPL households:
 
@@ -2578,13 +2497,13 @@ D. All of the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** NSAP covers IGNOAPS, IGNWPS, IGNDPS, NFBS and Annapurna. MKSP is a DAY-NRLM sub-component.
+**Logic:** MKSP is a DAY-NRLM sub-component.
 
-**Ans: C.**
+**Ans: C.** NSAP covers IGNOAPS, IGNWPS, IGNDPS, NFBS and Annapurna.
 
 </details>
 
-**Q94. U.P.P.C.S. (Spl.) (Mains) 2004**
+**Q94. UPPCS (Spl.) (Mains) 2004**
 
 The concept of ‘Minimum Needs Programme’ is synonymous with which one of the following?
 
@@ -2596,10 +2515,9 @@ D. Infrastructure development approach
 <details>
 <summary>Show answer</summary>
 
-**Logic:** MNP is framed as investment in human resources / social consumption norms.
+**Logic:** MNP is framed as investment in human resources / social consumption norms — Investment in human approach
 
-**Ans: C.**
-
+**Ans: C.** Investment in human approach
 </details>
 
 **Q95. U.P.P.S.C. (R.I.) 2014**
@@ -2614,13 +2532,12 @@ D. 2011
 <details>
 <summary>Show answer</summary>
 
-**Logic:** SSA launched in 2001 for ages 6–14 elementary education.
+**Logic:** SSA launched in 2001 for ages 6–14 elementary education — 2001
 
-**Ans: B.**
-
+**Ans: B.** 2001
 </details>
 
-**Q96. U.P.P.C.S. (Pre) 2016**
+**Q96. UPPCS (Pre) 2016**
 
 Which one of the following age groups is eligible for enrolment under ‘Sarva Shiksha Abhiyan’?
 
@@ -2632,10 +2549,9 @@ D. 8–16 years
 <details>
 <summary>Show answer</summary>
 
-**Logic:** SSA covers children in the 6–14 age group.
+**Logic:** SSA covers children in the 6–14 age group — 6–14 years
 
-**Ans: B.**
-
+**Ans: B.** 6–14 years
 </details>
 
 **Q97. U.P. P.C.S. (Pre) 2023**
@@ -2650,13 +2566,12 @@ D. 2021
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Mid-day Meal was renamed PM POSHAN in 2021.
+**Logic:** Mid-day Meal was renamed PM POSHAN in 2021 — 2021
 
-**Ans: D.**
-
+**Ans: D.** 2021
 </details>
 
-**Q98. U.P.P.C.S. (Pre) 2015**
+**Q98. UPPCS (Pre) 2015**
 
 The Right to Education Act, 2009 aims at making free and compulsory education a right for children upto:
 
@@ -2668,13 +2583,12 @@ D. Graduation level
 <details>
 <summary>Show answer</summary>
 
-**Logic:** RTE covers elementary education for ages 6–14.
+**Logic:** RTE covers elementary education for ages 6–14 — Elementary level
 
-**Ans: A.**
-
+**Ans: A.** Elementary level
 </details>
 
-**Q99. U.P.P.C.S. (Mains) 2009**
+**Q99. UPPCS (Mains) 2009**
 
 ‘AADHAAR’ is a programme:
 
@@ -2686,10 +2600,9 @@ D. to train people for social defence
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Aadhaar is the 12-digit resident identity number issued by UIDAI.
+**Logic:** Aadhaar is the 12-digit resident identity number issued by UIDAI — to provide identity to Indian Residents
 
-**Ans: C.**
-
+**Ans: C.** to provide identity to Indian Residents
 </details>
 
 **Q100. U.P. P.C.S. (Pre) 2025**
@@ -2704,10 +2617,9 @@ D. Both true and R is the correct explanation of A
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Changing basic-needs standards and prices make poverty lines vary across place and time — R explains A.
+**Logic:** Changing basic-needs standards and prices make poverty lines vary across place and time — R explains A — Both true and R is the correct explanation of A
 
-**Ans: D.**
-
+**Ans: D.** Both true and R is the correct explanation of A
 </details>
 
 **Q101. U.P. P.C.S. (Pre) 2023**
@@ -2722,13 +2634,12 @@ D. Only 1 and 2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Absolute, relative and subjective are standard types; functional poverty is the distractor.
+**Logic:** Absolute, relative and subjective are standard types; functional poverty is the distractor — Only 1, 2 and 3
 
-**Ans: B.**
-
+**Ans: B.** Only 1, 2 and 3
 </details>
 
-**Q102. U.P.P.C.S. (Pre) 2017**
+**Q102. UPPCS (Pre) 2017**
 
 In which year UNO adopted a definition of absolute poverty?
 
@@ -2740,10 +2651,9 @@ D. 1997
 <details>
 <summary>Show answer</summary>
 
-**Logic:** UNO absolute-poverty definition teaching year is 1995.
+**Logic:** UNO absolute-poverty definition teaching year is 1995 — 1995
 
-**Ans: B.**
-
+**Ans: B.** 1995
 </details>
 
 **Q103. U.P. P.C.S. (Pre) 2020**
@@ -2758,13 +2668,12 @@ D. 1, 2, 3 and 4
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Indian estimation rests on consumption / calorie-linked baskets and HCR — not per capita income alone.
+**Logic:** Indian estimation rests on consumption / calorie-linked baskets and HCR — not per capita income alone — 1, 2 and 3
 
-**Ans: B.**
-
+**Ans: B.** 1, 2 and 3
 </details>
 
-**Q104. U.P.P.C.S. (Pre) 2018**
+**Q104. UPPCS (Pre) 2018**
 
 Which of the following is measured by the Lorenz curve?
 
@@ -2776,10 +2685,9 @@ D. Inequality of income
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Lorenz curve graphs income/wealth distribution inequality.
+**Logic:** Lorenz curve graphs income/wealth distribution inequality — Inequality of income
 
-**Ans: D.**
-
+**Ans: D.** Inequality of income
 </details>
 
 **Q105. U.P. P.C.S. (Pre) 2020**
@@ -2794,13 +2702,12 @@ D. Amartya Sen
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Oscar Lewis proposed the culture of poverty.
+**Logic:** Oscar Lewis proposed the culture of poverty — Oscar Lewis
 
-**Ans: A.**
-
+**Ans: A.** Oscar Lewis
 </details>
 
-**Q106. U.P.P.C.S. (Pre) 2014**
+**Q106. UPPCS (Pre) 2014**
 
 The concept of ‘Vicious Circle of Poverty’ is related to:
 
@@ -2812,10 +2719,9 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Ragnar Nurkse’s vicious circle of poverty.
+**Logic:** Ragnar Nurkse’s vicious circle of poverty — Nurkse
 
-**Ans: B.**
-
+**Ans: B.** Nurkse
 </details>
 
 **Q107. U.P. P.C.S. (Pre) 2025**
@@ -2830,13 +2736,12 @@ D. 4, 1, 3, 2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Dandekar–Rath → Lakdawala → Tendulkar → Rangarajan.
+**Logic:** Dandekar–Rath → Lakdawala → Tendulkar → Rangarajan — 4, 1, 3, 2
 
-**Ans: D.**
-
+**Ans: D.** 4, 1, 3, 2
 </details>
 
-**Q108. U.P.P.C.S. (Mains) 2006**
+**Q108. UPPCS (Mains) 2006**
 
 Which of the following is not a measure of reducing inequalities?
 
@@ -2848,13 +2753,12 @@ D. Land reforms
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Liberalisation is reform, not a classic inequality-reduction social measure in this key set.
+**Logic:** Liberalisation is reform, not a classic inequality-reduction social measure in this key set — Liberalization of economy
 
-**Ans: B.**
-
+**Ans: B.** Liberalization of economy
 </details>
 
-**Q109. U.P.P.C.S. (Pre) 2016**
+**Q109. UPPCS (Pre) 2016**
 
 Kasturba Gandhi Balika Vidyalaya Yojana was started in:
 
@@ -2866,13 +2770,12 @@ D. 2012
 <details>
 <summary>Show answer</summary>
 
-**Logic:** KGBV started in 2004 for girls in educationally backward blocks.
+**Logic:** KGBV started in 2004 for girls in educationally backward blocks — 2004
 
-**Ans: A.**
-
+**Ans: A.** 2004
 </details>
 
-**Q110. U.P.P.C.S. (Mains) 2015**
+**Q110. UPPCS (Mains) 2015**
 
 The focus of Saakshar Bharat Programme is on:
 
@@ -2884,13 +2787,12 @@ D. Secondary education
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Saakshar Bharat emphasises adult/female literacy.
+**Logic:** Saakshar Bharat emphasises adult/female literacy — Female literacy
 
-**Ans: A.**
-
+**Ans: A.** Female literacy
 </details>
 
-**Q111. U.P.P.C.S. (Pre) 1993**
+**Q111. UPPCS (Pre) 1993**
 
 Operation Black Board is related to:
 
@@ -2902,15 +2804,14 @@ D. Primary Education
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Operation Blackboard (1987) provided minimum facilities in primary schools.
+**Logic:** Operation Blackboard (1987) provided minimum facilities in primary schools — Primary Education
 
-**Ans: D.**
-
+**Ans: D.** Primary Education
 </details>
 
 ---
 
-**Q112. U.P.P.C.S. (Pre) 2018**
+**Q112. UPPCS (Pre) 2018**
 
 Natural growth of population is the outcome of which of the following? A. Crude Birth Rate B. Crude Death Rate C. Migration D. Marriages
 
@@ -2922,13 +2823,12 @@ D. A and B
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Natural growth = CBR − CDR; migration is not natural change.
+**Logic:** Natural growth = CBR − CDR; migration is not natural change — A and B
 
-**Ans: D.**
-
+**Ans: D.** A and B
 </details>
 
-**Q113. U.P.P.C.S. (Pre) 2015**
+**Q113. UPPCS (Pre) 2015**
 
 At present India’s population growth is passing through the phase of which one of the following?
 
@@ -2940,13 +2840,12 @@ D. High growth rate with definite signs of slowing down
 <details>
 <summary>Show answer</summary>
 
-**Logic:** India’s phase = high growth with definite signs of slowing down.
+**Logic:** India’s phase = high growth with definite signs of slowing down — High growth rate with definite signs of slowing down
 
-**Ans: D.**
-
+**Ans: D.** High growth rate with definite signs of slowing down
 </details>
 
-**Q114. U.P.P.C.S. (Pre) 2024**
+**Q114. UPPCS (Pre) 2024**
 
 Malthus argued that the population grows in a ______ progression, while agricultural production/food supply grows in a ______ progression.
 
@@ -2958,10 +2857,9 @@ D. Geometric, Arithmetic
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Population geometric; food arithmetic.
+**Logic:** Population geometric; food arithmetic — Geometric, Arithmetic
 
-**Ans: D.**
-
+**Ans: D.** Geometric, Arithmetic
 </details>
 
 **Q115. U.P. P.C.S. (Pre) 2022**
@@ -2976,10 +2874,9 @@ D. Unemployment
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Malthusian theory is a population theory.
+**Logic:** Malthusian theory is a population theory — Population
 
-**Ans: A.**
-
+**Ans: A.** Population
 </details>
 
 **Q116. U.P. P.C.S. (Pre) 2023**
@@ -2994,10 +2891,9 @@ D. 3 4 1 2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Cannan–Optimum; Henry George–Social Maladjustment; Thompson–Transition; Malthus–Food.
+**Logic:** Cannan–Optimum; Henry George–Social Maladjustment; Thompson–Transition; Malthus–Food — 3 4 1 2
 
-**Ans: D.**
-
+**Ans: D.** 3 4 1 2
 </details>
 
 **Q117. U.P. P.C.S. (Pre) 2023**
@@ -3012,13 +2908,12 @@ D. (A) is true but (R) is false
 <details>
 <summary>Show answer</summary>
 
-**Logic:** A true; rapid population rise disturbs — not maintains — environmental balance.
+**A/R logic:** A true; rapid population rise disturbs — not maintains — environmental balance.
 
-**Ans: D.**
-
+**Ans: D.** (A) is true but (R) is false
 </details>
 
-**Q118. U.P.P.C.S. (Pre) 2015**
+**Q118. UPPCS (Pre) 2015**
 
 Which one of the following is not a part of the demographic feature of a population?
 
@@ -3030,10 +2925,9 @@ D. Rural-urban population
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Standard of living is socio-economic, not a core demographic feature.
+**Logic:** Standard of living is socio-economic, not a core demographic feature — Standard of living
 
-**Ans: B.**
-
+**Ans: B.** Standard of living
 </details>
 
 **Q119. U.P. P.C.S. (Mains) 2007**
@@ -3048,13 +2942,12 @@ D. 1931
 <details>
 <summary>Show answer</summary>
 
-**Logic:** First regular synchronous Census = 1881.
+**Logic:** First regular synchronous Census = 1881 — 1881
 
-**Ans: B.**
-
+**Ans: B.** 1881
 </details>
 
-**Q120. U.P.P.C.S. (Mains) 2012**
+**Q120. UPPCS (Mains) 2012**
 
 The decadal growth rate of population in India has been lowest during:
 
@@ -3066,13 +2959,12 @@ D. 2001-2011
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Among recent decades, 2001–11 has the lowest decadal growth (~17.7%).
+**Logic:** Among recent decades, 2001–11 has the lowest decadal growth (~17.7%) — 2001-2011
 
-**Ans: D.**
-
+**Ans: D.** 2001-2011
 </details>
 
-**Q121. U.P.P.C.S. (Pre) (Re-Exam) 2015**
+**Q121. UPPCS (Pre) (Re-Exam) 2015**
 
 According to the Census of India 2011, the percentage growth of population in the country during the period of 2001-2011 was:
 
@@ -3084,13 +2976,12 @@ D. 23.85
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 2001–11 decadal growth ≈ 17.7%.
+**Logic:** 2001–11 decadal growth ≈ 17.7% — 17.70
 
-**Ans: B.**
-
+**Ans: B.** 17.70
 </details>
 
-**Q122. U.P.P.C.S. (Pre) 2016**
+**Q122. UPPCS (Pre) 2016**
 
 Which one of the following pairs is not correctly matched? Decade — Decadal growth rate of population (in percent)
 
@@ -3102,13 +2993,12 @@ D. 2001-2011 — 19.05
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 2001–11 growth is ~17.7%, not 19.05%.
+**Logic:** 2001–11 growth is ~17.7%, not 19.05% — 2001-2011 — 19.05
 
-**Ans: D.**
-
+**Ans: D.** 2001-2011 — 19.05
 </details>
 
-**Q123. U.P.P.C.S. (Mains) 2014**
+**Q123. UPPCS (Mains) 2014**
 
 In which of the following Census year in India was recorded the highest percentage change in population?
 
@@ -3120,13 +3010,12 @@ D. 2001
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Highest decadal change keyed to Census 1971 (1961–71 ≈24.80%).
+**Logic:** Highest decadal change keyed to Census 1971 (1961–71 ≈24.80%) — 1971
 
-**Ans: A.**
-
+**Ans: A.** 1971
 </details>
 
-**Q124. U.P.P.C.S. (Pre) 2007**
+**Q124. UPPCS (Pre) 2007**
 
 In the context of population, which one of the following years has been termed as the year of ‘Great Divide’, after which population of India gradually registered accelerated growth?
 
@@ -3138,13 +3027,12 @@ D. 1951
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 1921 = Great / Demographic Divide (only negative decade).
+**Logic:** 1921 = Great / Demographic Divide (only negative decade) — 1921
 
-**Ans: B.**
-
+**Ans: B.** 1921
 </details>
 
-**Q125. U.P.P.C.S. (Pre) 2000**
+**Q125. UPPCS (Pre) 2000**
 
 Assertion (A): India has experienced a phenomenal growth of population since 1951. Reason (R): 1951 is called the demographic divide in India’s demographic history.
 
@@ -3156,13 +3044,12 @@ D. A is false, but R is true
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Post-1951 growth true; Demographic Divide is 1921, not 1951.
+**Logic:** Post-1951 growth true; Demographic Divide is 1921, not 1951 — A is true, but R is false
 
-**Ans: C.**
-
+**Ans: C.** A is true, but R is false
 </details>
 
-**Q126. U.P.P.C.S. (Pre) 2012**
+**Q126. UPPCS (Pre) 2012**
 
 Which of the following is the most populous State in India as per the provisional figures of Census of India 2011?
 
@@ -3174,13 +3061,12 @@ D. Uttar Pradesh
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Uttar Pradesh is the most populous State.
+**Logic:** Uttar Pradesh is the most populous State — Uttar Pradesh
 
-**Ans: D.**
-
+**Ans: D.** Uttar Pradesh
 </details>
 
-**Q127. U.P.P.C.S. (Pre) 2024**
+**Q127. UPPCS (Pre) 2024**
 
 Write in descending order the following States on the basis of their population as per Census, 2011: 1. Bihar 2. Andhra Pradesh 3. Uttar Pradesh 4. West Bengal
 
@@ -3192,10 +3078,9 @@ D. 3,1,4,2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** UP > Bihar > West Bengal > Andhra Pradesh (undivided).
+**Logic:** UP > Bihar > West Bengal > Andhra Pradesh (undivided) — 3,1,4,2
 
-**Ans: D.**
-
+**Ans: D.** 3,1,4,2
 </details>
 
 **Q128. U.P. P.C.S. (Pre) 2011**
@@ -3210,13 +3095,12 @@ D. Andhra Pradesh
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Maharashtra is second after UP.
+**Logic:** Maharashtra is second after UP — Maharashtra
 
-**Ans: A.**
-
+**Ans: A.** Maharashtra
 </details>
 
-**Q129. U.P.P.C.S. (Pre) 2008**
+**Q129. UPPCS (Pre) 2008**
 
 Assertion (A): Uttar Pradesh has the largest concentration of India’s population. Reason (R): It is also the most densely populated State of India.
 
@@ -3228,13 +3112,12 @@ D. (A) is false, but (R) is true
 <details>
 <summary>Show answer</summary>
 
-**Logic:** UP most populous true; densest State is Bihar (2011) / was West Bengal (2001) — R false.
+**A/R logic:** UP most populous true; densest State is Bihar (2011) / was West Bengal (2001) — R false.
 
-**Ans: C.**
-
+**Ans: C.** (A) is true, but (R) is false
 </details>
 
-**Q130. U.P.P.C.S. (Pre) 2021**
+**Q130. UPPCS (Pre) 2021**
 
 According to Census 2011, the density of population in India was?
 
@@ -3246,10 +3129,9 @@ D. 385
 <details>
 <summary>Show answer</summary>
 
-**Logic:** India’s 2011 density = 382 persons/sq km.
+**Logic:** India’s 2011 density = 382 persons/sq km — 382
 
-**Ans: C.**
-
+**Ans: C.** 382
 </details>
 
 **Q131. U.P. B.E.O. (Pre) 2019**
@@ -3264,13 +3146,12 @@ D. Bihar, West Bengal, Kerala, Uttar Pradesh
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Bihar > West Bengal > Kerala > UP.
+**Logic:** Bihar > West Bengal > Kerala > UP — Bihar, West Bengal, Kerala, Uttar Pradesh
 
-**Ans: D.**
-
+**Ans: D.** Bihar, West Bengal, Kerala, Uttar Pradesh
 </details>
 
-**Q132. U.P.P.C.S. (Mains) 2012**
+**Q132. UPPCS (Mains) 2012**
 
 As per the provisional figures of Census 2011, the literacy rate in India is:
 
@@ -3282,13 +3163,12 @@ D. 75.14%
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Provisional Census 2011 literacy ≈74.04% (final ~73.0%).
+**Logic:** Provisional Census 2011 literacy ≈74.04% (final ~73.0%) — 74.04%
 
-**Ans: B.**
-
+**Ans: B.** 74.04%
 </details>
 
-**Q133. U.P.P.C.S. (Pre) 2011**
+**Q133. UPPCS (Pre) 2011**
 
 Which one of the following States of India has recorded the maximum increase in literacy rate during 2001-2011?
 
@@ -3300,15 +3180,14 @@ D. Uttar Pradesh
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Among the listed major States, Bihar recorded the largest literacy-rate rise 2001–11.
+**Logic:** Among the listed major States, Bihar recorded the largest literacy-rate rise 2001–11 — Bihar
 
-**Ans: A.**
-
+**Ans: A.** Bihar
 </details>
 
 ---
 
-**Q134. U.P.P.C.S. (Spl.) (Mains) 2004**
+**Q134. UPPCS (Spl.) (Mains) 2004**
 
 A city is different from a village: 1. In terms of social values 2. In terms of household composition 3. In terms of way of living 4. In terms of economic activities
 
@@ -3320,13 +3199,12 @@ D. All of the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** All four dimensions distinguish city from village in the keyed reading.
+**Logic:** All four dimensions distinguish city from village in the keyed reading — All of the above
 
-**Ans: D.**
-
+**Ans: D.** All of the above
 </details>
 
-**Q135. U.P.P.C.S. (Spl.) (Mains) 2004**
+**Q135. UPPCS (Spl.) (Mains) 2004**
 
 Urban growth is indicative of: 1. Rise in the total urban population 2. Rise in the number of urban centres 3. Rise in the total population of a country 4. Rise in the income from urban areas
 
@@ -3338,13 +3216,12 @@ D. All of the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Classic key treats all four as indicators of urban growth.
+**Logic:** Classic key treats all four as indicators of urban growth — All of the above
 
-**Ans: D.**
-
+**Ans: D.** All of the above
 </details>
 
-**Q136. U.P.P.C.S. (Pre) 2021**
+**Q136. UPPCS (Pre) 2021**
 
 Which one of the following is NOT an element of rural community?
 
@@ -3356,13 +3233,12 @@ D. Self-sufficiency
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Cultural diversity is an urban community feature, not a rural element.
+**Logic:** Cultural diversity is an urban community feature, not a rural element — Cultural diversity
 
-**Ans: B.**
-
+**Ans: B.** Cultural diversity
 </details>
 
-**Q137. U.P.P.C.S. (Pre) 2016**
+**Q137. UPPCS (Pre) 2016**
 
 Which of the following segments of population is not included in the scheme of inclusive development?
 
@@ -3374,13 +3250,12 @@ D. Persons living in semi-urban areas
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Inclusive-development focus is on marginalised rural/agrarian/SC-ST segments — not semi-urban residents as a class.
+**Logic:** Inclusive-development focus is on marginalised rural/agrarian/SC-ST segments — not semi-urban residents as a class — Persons living in semi-urban areas
 
-**Ans: D.**
-
+**Ans: D.** Persons living in semi-urban areas
 </details>
 
-**Q138. U.P.P.C.S. (Pre) (Re-Exam) 2015**
+**Q138. UPPCS (Pre) (Re-Exam) 2015**
 
 At current rate of growth, the urban population of India by the year 2030 will reach:
 
@@ -3392,13 +3267,12 @@ D. 900 million
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Question-period MoUD / India Yearbook teaching keyed ~575 million by 2030.
+**Logic:** Question-period MoUD / India Yearbook teaching keyed ~575 million by 2030 — 575 million
 
-**Ans: A.**
-
+**Ans: A.** 575 million
 </details>
 
-**Q139. U.P.P.C.S. (Mains) 2017**
+**Q139. UPPCS (Mains) 2017**
 
 Assertion (A): India is a case of an over-urbanized country. Reason (R): Most of the large cities in India do not have adequate infrastructure.
 
@@ -3410,13 +3284,12 @@ D. (A) is false, but (R) is true
 <details>
 <summary>Show answer</summary>
 
-**Logic:** India is not over-urbanized (~31% urban); infrastructure stress in large cities is true.
+**A/R logic:** India is not over-urbanized (~31% urban); infrastructure stress in large cities is true.
 
-**Ans: D.**
-
+**Ans: D.** (A) is false, but (R) is true
 </details>
 
-**Q140. U.P.P.C.S. (Pre) 2000**
+**Q140. UPPCS (Pre) 2000**
 
 Assertion (A): The urban population of India is more than that of the U.S.A. Reason (R): The level of urbanization in the U.S.A. is higher than that in India.
 
@@ -3428,13 +3301,12 @@ D. A is false, but R is true
 <details>
 <summary>Show answer</summary>
 
-**Logic:** India’s urban headcount can exceed USA total population while USA’s urbanization rate stays higher — R does not explain A.
+**Logic:** India’s urban headcount can exceed USA total population while USA’s urbanization rate stays higher — R does not explain A — Both A and R are true but R is not the correct explanation of A
 
-**Ans: B.**
-
+**Ans: B.** Both A and R are true but R is not the correct explanation of A
 </details>
 
-**Q141. U.P.P.C.S. (Pre) 2002**
+**Q141. UPPCS (Pre) 2002**
 
 Assertion (A): India’s urban population exceeds the total population of USA. Reason (R): India has made a spectacular growth in urbanization.
 
@@ -3446,13 +3318,12 @@ D. A is false, but R is true
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Rapid urbanization growth explains how urban India overtook USA’s total population in the keyed reading.
+**Logic:** Rapid urbanization growth explains how urban India overtook USA’s total population in the keyed reading — Both A and R are true and R is the correct explanation of A
 
-**Ans: A.**
-
+**Ans: A.** Both A and R are true and R is the correct explanation of A
 </details>
 
-**Q142. U.P.P.C.S. (Pre) 2015**
+**Q142. UPPCS (Pre) 2015**
 
 The expansion of Urban India is a platform for:
 
@@ -3464,13 +3335,12 @@ D. All of the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Urbanization supports industry, services and income opportunities together.
+**Logic:** Urbanization supports industry, services and income opportunities together — All of the above
 
-**Ans: D.**
-
+**Ans: D.** All of the above
 </details>
 
-**Q143. U.P.P.C.S. (Mains) 2002**
+**Q143. UPPCS (Mains) 2002**
 
 Which of the following statements regarding urbanization in India is not true?
 
@@ -3482,13 +3352,13 @@ D. Employment, housing, pollution and energy are the main urban problems in Indi
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Regional urbanization is highly uneven (e.g. Goa high, Himachal low).
+**Logic:** Goa high, Himachal low).
 
-**Ans: C.**
+**Ans: C.** Regional urbanization is highly uneven (e.g.
 
 </details>
 
-**Q144. U.P.P.C.S. (Pre) 2021**
+**Q144. UPPCS (Pre) 2021**
 
 With reference to ‘birth rate’ which statement(s) is/are correct? 1. Urbanization helps in reducing the birth rate 2. High literacy rate is directly related to low birth rate
 
@@ -3500,13 +3370,12 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Both urbanization and high literacy associate with lower birth rates.
+**Logic:** Both urbanization and high literacy associate with lower birth rates — Both 1 and 2
 
-**Ans: C.**
-
+**Ans: C.** Both 1 and 2
 </details>
 
-**Q145. U.P.P.C.S. (Pre) 2007**
+**Q145. UPPCS (Pre) 2007**
 
 Urbanization in India has:
 
@@ -3518,13 +3387,12 @@ D. no effect on both birth rate and death rate
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Urbanization links to lower fertility and better health access → lower birth and death rates.
+**Logic:** Urbanization links to lower fertility and better health access → lower birth and death rates — reduced both birth rate and death rate
 
-**Ans: A.**
-
+**Ans: A.** reduced both birth rate and death rate
 </details>
 
-**Q146. U.P.P.C.S. (Mains) 2003**
+**Q146. UPPCS (Mains) 2003**
 
 Which one of the following periods is characterized by the stage of moderate urbanization in India?
 
@@ -3536,13 +3404,12 @@ D. 1961-2001
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 1931–61 is keyed as the moderate-urbanization era.
+**Logic:** 1931–61 is keyed as the moderate-urbanization era — 1931-1961
 
-**Ans: C.**
-
+**Ans: C.** 1931-1961
 </details>
 
-**Q147. U.P.P.C.S. (Pre) 2007**
+**Q147. UPPCS (Pre) 2007**
 
 In India, the largest percentage of decadal growth of urbanization has been witnessed during:
 
@@ -3554,13 +3421,12 @@ D. 1991-2001
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Largest urban decadal change teaching = 1971–81 (~46.1%).
+**Logic:** Largest urban decadal change teaching = 1971–81 (~46.1%) — 1971-81
 
-**Ans: B.**
-
+**Ans: B.** 1971-81
 </details>
 
-**Q148. U.P.P.C.S. (Pre) 2008**
+**Q148. UPPCS (Pre) 2008**
 
 Which of the following criteria is not accepted to define any domicile in India as an urban center?
 
@@ -3572,13 +3438,12 @@ D. Occupational structure
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Census urban criteria use size, density and non-agri occupation — not physical expansion.
+**Logic:** Census urban criteria use size, density and non-agri occupation — not physical expansion — Physical expansion
 
-**Ans: A.**
-
+**Ans: A.** Physical expansion
 </details>
 
-**Q149. U.P.P.C.S. (Pre) 2009**
+**Q149. UPPCS (Pre) 2009**
 
 Which conditions determine an area as urban as given in the Census Report of 2001? 1. Minimum population 5,000 2. Minimum 75% male working population in non-agricultural work 3. Density at least 400 persons per sq. km 4. Minimum area of 10 sq. km
 
@@ -3590,10 +3455,9 @@ D. All four
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Statements 1–3 are Census Town criteria; fixed 10 sq km area is not.
+**Logic:** Statements 1–3 are Census Town criteria; fixed 10 sq km area is not — 1, 2 and 3
 
-**Ans: B.**
-
+**Ans: B.** 1, 2 and 3
 </details>
 
 **Q150. U.P.P.S.C. (R.I.) 2014**
@@ -3608,10 +3472,9 @@ D. 39 crore
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Urban population ≈377 million ≈37 crore.
+**Logic:** Urban population ≈377 million ≈37 crore — 37 crore
 
-**Ans: A.**
-
+**Ans: A.** 37 crore
 </details>
 
 **Q151. U.P. P.C.S. (Pre) 2022**
@@ -3626,13 +3489,12 @@ D. Christian
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Jains have the highest urban share (~80%).
+**Logic:** Jains have the highest urban share (~80%) — Jain
 
-**Ans: B.**
-
+**Ans: B.** Jain
 </details>
 
-**Q152. U.P.P.C.S. (Mains) 2006**
+**Q152. UPPCS (Mains) 2006**
 
 According to 2001 Census, three States housing maximum urban population of the country are:
 
@@ -3644,13 +3506,12 @@ D. Maharashtra, Uttar Pradesh, Tamil Nadu
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Maharashtra, UP, Tamil Nadu top absolute urban population.
+**Logic:** Maharashtra, UP, Tamil Nadu top absolute urban population — Maharashtra, Uttar Pradesh, Tamil Nadu
 
-**Ans: D.**
-
+**Ans: D.** Maharashtra, Uttar Pradesh, Tamil Nadu
 </details>
 
-**Q153. U.P.P.C.S. (Mains) 2002**
+**Q153. UPPCS (Mains) 2002**
 
 Which of the following statements is correct?
 
@@ -3662,13 +3523,12 @@ D. Nagaland has the lowest concentration of urban population in India
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Himachal is least urbanized by share; Goa most urbanized; Maharashtra has largest absolute urban population.
+**Logic:** Himachal is least urbanized by share; Goa most urbanized; Maharashtra has largest absolute urban population — Himachal Pradesh is the least urbanized State of India
 
-**Ans: B.**
-
+**Ans: B.** Himachal Pradesh is the least urbanized State of India
 </details>
 
-**Q154. U.P.P.C.S. (Pre) 2009**
+**Q154. UPPCS (Pre) 2009**
 
 The most urbanized State of India is:
 
@@ -3680,13 +3540,12 @@ D. West Bengal
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Among the given options, Tamil Nadu is the most urbanized.
+**Logic:** Among the given options, Tamil Nadu is the most urbanized — Tamil Nadu
 
-**Ans: C.**
-
+**Ans: C.** Tamil Nadu
 </details>
 
-**Q155. U.P.P.C.S. (Mains) 2012**
+**Q155. UPPCS (Mains) 2012**
 
 According to the 2011 Census, the most urbanized State of India is:
 
@@ -3698,13 +3557,12 @@ D. West Bengal
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Among listed States, Tamil Nadu (~48.4%) is most urbanized.
+**Logic:** Among listed States, Tamil Nadu (~48.4%) is most urbanized — Tamil Nadu
 
-**Ans: C.**
-
+**Ans: C.** Tamil Nadu
 </details>
 
-**Q156. U.P.P.C.S. (Pre) 2007**
+**Q156. UPPCS (Pre) 2007**
 
 Arrange the following Indian States in the descending order from the urbanization point of view: 1. West Bengal 2. Tamil Nadu 3. Maharashtra 4. Gujarat
 
@@ -3716,13 +3574,12 @@ D. 4, 3, 2, 1
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Tamil Nadu > Maharashtra > Gujarat > West Bengal.
+**Logic:** Tamil Nadu > Maharashtra > Gujarat > West Bengal — 2, 3, 4, 1
 
-**Ans: B.**
-
+**Ans: B.** 2, 3, 4, 1
 </details>
 
-**Q157. U.P.P.C.S. (Pre) 2013**
+**Q157. UPPCS (Pre) 2013**
 
 In which of the following land-locked States of India, the percentage of urban population is highest as per 2011 Census?
 
@@ -3734,13 +3591,12 @@ D. Madhya Pradesh
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Among listed land-locked States, Punjab has the highest urban share.
+**Logic:** Among listed land-locked States, Punjab has the highest urban share — Punjab
 
-**Ans: C.**
-
+**Ans: C.** Punjab
 </details>
 
-**Q158. U.P.P.C.S. (Pre) 2013**
+**Q158. UPPCS (Pre) 2013**
 
 Which one of the following States of India has the highest urban density?
 
@@ -3752,13 +3608,12 @@ D. West Bengal
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Among the set, West Bengal keys highest urban density (persons/sq km of urban area).
+**Logic:** Among the set, West Bengal keys highest urban density (persons/sq km of urban area) — West Bengal
 
-**Ans: D.**
-
+**Ans: D.** West Bengal
 </details>
 
-**Q159. U.P.P.C.S. (Mains) 2017**
+**Q159. UPPCS (Mains) 2017**
 
 In which of the following States the level of urbanization (% of urban population) is the lowest as per 2011 Census?
 
@@ -3770,13 +3625,12 @@ D. Nagaland
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Bihar (~11.3%) lowest among the given; Himachal is lowest overall.
+**Logic:** Bihar (~11.3%) lowest among the given; Himachal is lowest overall — Bihar
 
-**Ans: C.**
-
+**Ans: C.** Bihar
 </details>
 
-**Q160. U.P.P.C.S. (Mains) 2004**
+**Q160. UPPCS (Mains) 2004**
 
 As per the Census 2001, the least urbanized State of India is:
 
@@ -3788,13 +3642,12 @@ D. Uttarakhand
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Himachal Pradesh least urbanized in 2001 and 2011.
+**Logic:** Himachal Pradesh least urbanized in 2001 and 2011 — Himachal Pradesh
 
-**Ans: C.**
-
+**Ans: C.** Himachal Pradesh
 </details>
 
-**Q161. U.P.P.C.S. (Mains) 2017**
+**Q161. UPPCS (Mains) 2017**
 
 Among the following Union Territories which one is least urbanized?
 
@@ -3806,13 +3659,12 @@ D. Puducherry
 <details>
 <summary>Show answer</summary>
 
-**Logic:** A&N Islands are the least urbanized UT among the set.
+**Logic:** A&N Islands are the least urbanized UT among the set — Andaman and Nicobar Islands
 
-**Ans: B.**
-
+**Ans: B.** Andaman and Nicobar Islands
 </details>
 
-**Q162. U.P.P.C.S. (Mains) 2008**
+**Q162. UPPCS (Mains) 2008**
 
 According to 2001 Census report, the percentage of rural population in India is:
 
@@ -3824,13 +3676,12 @@ D. 80.1
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Rural share 2001 = 72.2% (2011 ≈68.9%).
+**Logic:** Rural share 2001 = 72.2% (2011 ≈68.9%) — 72.2
 
-**Ans: A.**
-
+**Ans: A.** 72.2
 </details>
 
-**Q163. U.P.P.C.S. (Pre) 2018**
+**Q163. UPPCS (Pre) 2018**
 
 According to 2011 Census which of the following States has the largest rural population?
 
@@ -3842,13 +3693,12 @@ D. Uttar Pradesh
 <details>
 <summary>Show answer</summary>
 
-**Logic:** UP has the largest absolute rural population.
+**Logic:** UP has the largest absolute rural population — Uttar Pradesh
 
-**Ans: D.**
-
+**Ans: D.** Uttar Pradesh
 </details>
 
-**Q164. U.P.P.C.S. (Pre) 2015**
+**Q164. UPPCS (Pre) 2015**
 
 Which of the following refers to occupational structure of population?
 
@@ -3860,13 +3710,12 @@ D. Nature of different occupations
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Occupational structure = distribution of workers across occupations.
+**Logic:** Occupational structure = distribution of workers across occupations — Distribution of working population among different occupations
 
-**Ans: C.**
-
+**Ans: C.** Distribution of working population among different occupations
 </details>
 
-**Q165. U.P.P.C.S. (Spl.) (Pre) 2008**
+**Q165. UPPCS (Spl.) (Pre) 2008**
 
 The classified number of urban centres in India is:
 
@@ -3878,13 +3727,12 @@ D. 6
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Census classifies urban centres into six population tiers.
+**Logic:** Census classifies urban centres into six population tiers — 6
 
-**Ans: D.**
-
+**Ans: D.** 6
 </details>
 
-**Q166. U.P.P.C.S. (Mains) 2007**
+**Q166. UPPCS (Mains) 2007**
 
 Which one of the following classes of towns are included in the category of small towns by the Census of India?
 
@@ -3896,13 +3744,12 @@ D. Class III, IV, V and VI
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Small towns = Class IV–VI (population <20,000).
+**Logic:** Small towns = Class IV–VI (population <20,000) — Class IV, V and VI
 
-**Ans: C.**
-
+**Ans: C.** Class IV, V and VI
 </details>
 
-**Q167. U.P.P.C.S. (Pre) 2010**
+**Q167. UPPCS (Pre) 2010**
 
 As per Census 2001, the class I cities of India claim a share of the total urban population of:
 
@@ -3914,10 +3761,9 @@ D. 62.32%
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Class I share ≈62.32% of urban population in 2001 (~70% in 2011 keys).
+**Logic:** Class I share ≈62.32% of urban population in 2001 (~70% in 2011 keys) — 62.32%
 
-**Ans: D.**
-
+**Ans: D.** 62.32%
 </details>
 
 **Q168. U.P. B.E.O. (Pre) 2019**
@@ -3932,13 +3778,12 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Both Class I share >60% and 53 million+ UAs are correct for 2011 teaching.
+**Logic:** Both Class I share >60% and 53 million+ UAs are correct for 2011 teaching — Both 1 and 2
 
-**Ans: C.**
-
+**Ans: C.** Both 1 and 2
 </details>
 
-**Q169. U.P.P.C.S. (Mains) 2017**
+**Q169. UPPCS (Mains) 2017**
 
 According to 2011 Census, how many million cities are there in India?
 
@@ -3950,13 +3795,12 @@ D. 57
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 53 million+ cities/UAs in 2011 provisional teaching (35 in 2001).
+**Logic:** 53 million+ cities/UAs in 2011 provisional teaching (35 in 2001) — 53
 
-**Ans: C.**
-
+**Ans: C.** 53
 </details>
 
-**Q170. U.P.P.C.S. (Pre) 2002**
+**Q170. UPPCS (Pre) 2002**
 
 Which of the following was the first million city of the country according to 1901 Census?
 
@@ -3968,13 +3812,12 @@ D. Mumbai
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Kolkata was the only million city in 1901.
+**Logic:** Kolkata was the only million city in 1901 — Kolkata
 
-**Ans: C.**
-
+**Ans: C.** Kolkata
 </details>
 
-**Q171. U.P.P.C.S. (Mains) 2009**
+**Q171. UPPCS (Mains) 2009**
 
 Uttar Pradesh recorded the highest growth rate of urban population during:
 
@@ -3986,13 +3829,12 @@ D. 1991-2001
 <details>
 <summary>Show answer</summary>
 
-**Logic:** UP’s highest urban growth decade among the set = 1971–81.
+**Logic:** UP’s highest urban growth decade among the set = 1971–81 — 1971-81
 
-**Ans: B.**
-
+**Ans: B.** 1971-81
 </details>
 
-**Q172. U.P.P.C.S. (Mains) 2012**
+**Q172. UPPCS (Mains) 2012**
 
 According to the provisional figures of Census 2011 of India, the density of population is the highest in which of the following cities of U.P.?
 
@@ -4004,13 +3846,12 @@ D. Ghaziabad
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Ghaziabad is the densest among listed UP cities.
+**Logic:** Ghaziabad is the densest among listed UP cities — Ghaziabad
 
-**Ans: D.**
-
+**Ans: D.** Ghaziabad
 </details>
 
-**Q173. U.P.P.C.S. (Mains) 2017**
+**Q173. UPPCS (Mains) 2017**
 
 Among the following whose name is associated with migration theory?
 
@@ -4022,13 +3863,12 @@ D. Doubleday
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Lee’s push–pull migration theory.
+**Logic:** Lee’s push–pull migration theory — Lee
 
-**Ans: C.**
-
+**Ans: C.** Lee
 </details>
 
-**Q174. U.P.P.C.S. (Mains) 2005**
+**Q174. UPPCS (Mains) 2005**
 
 During the last 30 years Delhi has received the highest number of migrants from:
 
@@ -4040,13 +3880,12 @@ D. Uttar Pradesh
 <details>
 <summary>Show answer</summary>
 
-**Logic:** UP is the largest source of migrants to Delhi in the keyed period.
+**Logic:** UP is the largest source of migrants to Delhi in the keyed period — Uttar Pradesh
 
-**Ans: D.**
-
+**Ans: D.** Uttar Pradesh
 </details>
 
-**Q175. U.P.P.C.S. (Pre) 2011**
+**Q175. UPPCS (Pre) 2011**
 
 Which one of the following cities has the largest slum population?
 
@@ -4058,13 +3897,12 @@ D. Surat
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Among the options, Delhi has the largest slum population (Mumbai larger overall but not listed).
+**Logic:** Among the options, Delhi has the largest slum population (Mumbai larger overall but not listed) — Delhi
 
-**Ans: C.**
-
+**Ans: C.** Delhi
 </details>
 
-**Q176. U.P.P.C.S. (Mains) 2009**
+**Q176. UPPCS (Mains) 2009**
 
 Arrange the following States of India in descending order of their slum population: 1. Andhra Pradesh 2. Maharashtra 3. Uttar Pradesh 4. West Bengal
 
@@ -4076,13 +3914,12 @@ D. 4, 2, 3, 1
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Maharashtra > Andhra Pradesh > West Bengal > UP in slum-population share teaching.
+**Logic:** Maharashtra > Andhra Pradesh > West Bengal > UP in slum-population share teaching — 2, 1, 4, 3
 
-**Ans: A.**
-
+**Ans: A.** 2, 1, 4, 3
 </details>
 
-**Q177. U.P.P.C.S. (Mains) 2007**
+**Q177. UPPCS (Mains) 2007**
 
 In India, maximum number of cities reporting slums are found in:
 
@@ -4094,13 +3931,12 @@ D. Uttar Pradesh
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Tamil Nadu reports the maximum number of slum-reporting cities in 2011 teaching.
+**Logic:** Tamil Nadu reports the maximum number of slum-reporting cities in 2011 teaching — Tamil Nadu
 
-**Ans: C.**
-
+**Ans: C.** Tamil Nadu
 </details>
 
-**Q178. U.P.P.C.S. (Spl.) (Mains) 2004**
+**Q178. UPPCS (Spl.) (Mains) 2004**
 
 Which one of the following does not consist of urban infrastructure?
 
@@ -4112,13 +3948,12 @@ D. Transport
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Housing is not counted as urban infrastructure in this key set.
+**Logic:** Housing is not counted as urban infrastructure in this key set — Housing
 
-**Ans: B.**
-
+**Ans: B.** Housing
 </details>
 
-**Q179. U.P.P.C.S. (Pre) 2016**
+**Q179. UPPCS (Pre) 2016**
 
 Which of the following is not a new scheme announced for the development of Urban Infrastructure?
 
@@ -4130,13 +3965,12 @@ D. Digital India Scheme
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Digital India is a broader e-governance/knowledge programme — not an urban-infrastructure scheme.
+**Logic:** Digital India is a broader e-governance/knowledge programme — not an urban-infrastructure scheme — Digital India Scheme
 
-**Ans: D.**
-
+**Ans: D.** Digital India Scheme
 </details>
 
-**Q180. U.P.P.C.S. (Spl.) (Mains) 2004**
+**Q180. UPPCS (Spl.) (Mains) 2004**
 
 The National Urban Renewal Mission has been named after:
 
@@ -4148,13 +3982,12 @@ D. Rajiv Gandhi
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Jawaharlal Nehru National Urban Renewal Mission (JNNURM).
+**Logic:** Jawaharlal Nehru National Urban Renewal Mission (JNNURM) — Jawaharlal Nehru
 
-**Ans: B.**
-
+**Ans: B.** Jawaharlal Nehru
 </details>
 
-**Q181. U.P.P.C.S. (Mains) 2010**
+**Q181. UPPCS (Mains) 2010**
 
 Which one of the following is not an objective of JNNURM?
 
@@ -4166,13 +3999,12 @@ D. Sanitation and Sewage
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Urban electrification is not a classic JNNURM objective.
+**Logic:** Urban electrification is not a classic JNNURM objective — Urban Electrification
 
-**Ans: A.**
-
+**Ans: A.** Urban Electrification
 </details>
 
-**Q182. U.P.P.C.S. (Mains) 2017**
+**Q182. UPPCS (Mains) 2017**
 
 Which one of the following is not the objective of the smart city development?
 
@@ -4184,13 +4016,12 @@ D. Smart mobility
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Smart Cities aim to improve/decent quality of life — ‘stabilizing’ is the odd wording.
+**Logic:** Smart Cities aim to improve/decent quality of life — ‘stabilizing’ is the odd wording — Stabilizing quality of life
 
-**Ans: C.**
-
+**Ans: C.** Stabilizing quality of life
 </details>
 
-**Q183. U.P.P.C.S. (Mains) 2003**
+**Q183. UPPCS (Mains) 2003**
 
 According to Philip M. Hauser, the migration of people from rural areas to urban areas is known by which one of the following names:
 
@@ -4202,15 +4033,14 @@ D. Population Pariplosion
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Hauser termed rural–urban concentration as Population Implosion.
+**Logic:** Hauser termed rural–urban concentration as Population Implosion — Population Implosion
 
-**Ans: B.**
-
+**Ans: B.** Population Implosion
 </details>
 
 ---
 
-**Q184. U.P.P.C.S. (Pre) 2021**
+**Q184. UPPCS (Pre) 2021**
 
 Which among the following organizations released the World Population Report, 2021?
 
@@ -4222,13 +4052,12 @@ D. United Nations Development Programme
 <details>
 <summary>Show answer</summary>
 
-**Logic:** UNFPA released State of World Population 2021 (My Body is My Own).
+**Logic:** UNFPA released State of World Population 2021 (My Body is My Own) — United Nations Population Fund
 
-**Ans: B.**
-
+**Ans: B.** United Nations Population Fund
 </details>
 
-**Q185. U.P.P.C.S. (Mains) 2012**
+**Q185. UPPCS (Mains) 2012**
 
 The World Population Day commemorates the day on which the estimated world population become five billion. That day was:
 
@@ -4240,13 +4069,12 @@ D. 11 July 1997
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Five Billion Day ≈ 11 July 1987; World Population Day is observed every 11 July.
+**Logic:** Five Billion Day ≈ 11 July 1987; World Population Day is observed every 11 July — 11 July 1987
 
-**Ans: A.**
-
+**Ans: A.** 11 July 1987
 </details>
 
-**Q186. U.P.P.C.S. (Mains) 2015**
+**Q186. UPPCS (Mains) 2015**
 
 World Population Day is celebrated on:
 
@@ -4258,13 +4086,12 @@ D. December 10
 <details>
 <summary>Show answer</summary>
 
-**Logic:** World Population Day = 11 July.
+**Logic:** World Population Day = 11 July — July 11
 
-**Ans: C.**
-
+**Ans: C.** July 11
 </details>
 
-**Q187. U.P.P.C.S. (Pre) 2017**
+**Q187. UPPCS (Pre) 2017**
 
 What has been the theme of the 2017 World Population Day?
 
@@ -4276,13 +4103,12 @@ D. Family planning : Empowering People, Developing Nations
 <details>
 <summary>Show answer</summary>
 
-**Logic:** WPD 2017 theme = Family Planning: Empowering People, Developing Nations.
+**Logic:** WPD 2017 theme = Family Planning: Empowering People, Developing Nations — Family planning : Empowering People, Developing Nations
 
-**Ans: D.**
-
+**Ans: D.** Family planning : Empowering People, Developing Nations
 </details>
 
-**Q188. U.P.P.C.S. (Pre) 2012**
+**Q188. UPPCS (Pre) 2012**
 
 What percentage of the total population of the world resides in India as estimated in the year 2011?
 
@@ -4294,10 +4120,9 @@ D. 22.5
 <details>
 <summary>Show answer</summary>
 
-**Logic:** India ≈17.5% of world population in 2011 teaching.
+**Logic:** India ≈17.5% of world population in 2011 teaching — 17.5
 
-**Ans: B.**
-
+**Ans: B.** 17.5
 </details>
 
 **Q189. U.P. P.C.S. (Mains) 2010**
@@ -4312,13 +4137,12 @@ D. Pakistan
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Among the set, Indonesia is the most populous.
+**Logic:** Among the set, Indonesia is the most populous — Indonesia
 
-**Ans: C.**
-
+**Ans: C.** Indonesia
 </details>
 
-**Q190. U.P.P.C.S. (Mains) 2011**
+**Q190. UPPCS (Mains) 2011**
 
 Africa’s most populous country is:
 
@@ -4330,13 +4154,12 @@ D. South Africa
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Nigeria is Africa’s most populous country.
+**Logic:** Nigeria is Africa’s most populous country — Nigeria
 
-**Ans: C.**
-
+**Ans: C.** Nigeria
 </details>
 
-**Q191. U.P.P.C.S. (Pre) 2008**
+**Q191. UPPCS (Pre) 2008**
 
 Highest percentage of population growth has been noticed in the countries of the continent of:
 
@@ -4348,13 +4171,12 @@ D. Oceania
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Africa has the highest continental population growth rate.
+**Logic:** Africa has the highest continental population growth rate — Africa
 
-**Ans: A.**
-
+**Ans: A.** Africa
 </details>
 
-**Q192. U.P.P.C.S. (Pre) 1999**
+**Q192. UPPCS (Pre) 1999**
 
 Which one of the following countries has highest population growth rate?
 
@@ -4366,13 +4188,12 @@ D. Singapore
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Among the set, Philippines has the highest growth rate.
+**Logic:** Among the set, Philippines has the highest growth rate — Philippines
 
-**Ans: C.**
-
+**Ans: C.** Philippines
 </details>
 
-**Q193. U.P.P.C.S. (Mains) 2010**
+**Q193. UPPCS (Mains) 2010**
 
 Assertion (A): The areas of low density of population are often over populated. Reason (R): Their carrying capacity is less.
 
@@ -4384,10 +4205,9 @@ D. (A) is false, but (R) is true
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Low-density areas are not ‘often over-populated’; low carrying capacity can still be true.
+**A/R logic:** Low-density areas are not ‘often over-populated’; low carrying capacity can still be true.
 
-**Ans: D.**
-
+**Ans: D.** (A) is false, but (R) is true
 </details>
 
 **Q194. U.P. P.C.S. (Pre) 2009**
@@ -4402,10 +4222,9 @@ D. Sri Lanka
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Maldives is the densest SAARC country.
+**Logic:** Maldives is the densest SAARC country — Maldives
 
-**Ans: C.**
-
+**Ans: C.** Maldives
 </details>
 
 **Q195. U.P. P.C.S. (Mains) 2014**
@@ -4420,13 +4239,12 @@ D. South Korea
 <details>
 <summary>Show answer</summary>
 
-**Logic:** South Korea densest among the East Asian set.
+**Logic:** South Korea densest among the East Asian set — South Korea
 
-**Ans: D.**
-
+**Ans: D.** South Korea
 </details>
 
-**Q196. U.P.P.C.S. (Mains) 2011**
+**Q196. UPPCS (Mains) 2011**
 
 Which of the following countries has the most favourable sex-ratio?
 
@@ -4438,13 +4256,12 @@ D. Finland
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Among the set, Finland has the most favourable sex ratio.
+**Logic:** Among the set, Finland has the most favourable sex ratio — Finland
 
-**Ans: D.**
-
+**Ans: D.** Finland
 </details>
 
-**Q197. U.P.P.C.S. (Mains) 2004**
+**Q197. UPPCS (Mains) 2004**
 
 There is a fear of decreasing sex-ratio of the world in future due to increasing:
 
@@ -4456,13 +4273,12 @@ D. Women’s status
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Sex-determination tests drive fear of falling sex ratios.
+**Logic:** Sex-determination tests drive fear of falling sex ratios — Sex determination tests
 
-**Ans: C.**
-
+**Ans: C.** Sex determination tests
 </details>
 
-**Q198. U.P.P.C.S. (Pre) 2018**
+**Q198. UPPCS (Pre) 2018**
 
 According to the UN Department of Economic and Social Affairs (UN-DESA), what percentage total of world’s population is currently living in urban areas?
 
@@ -4474,13 +4290,12 @@ D. 55
 <details>
 <summary>Show answer</summary>
 
-**Logic:** WUP 2018 teaching ≈55% urban worldwide.
+**Logic:** WUP 2018 teaching ≈55% urban worldwide — 55
 
-**Ans: D.**
-
+**Ans: D.** 55
 </details>
 
-**Q199. U.P.P.C.S. (Pre) 2021**
+**Q199. UPPCS (Pre) 2021**
 
 Which one of the following is known as acceleration stage in the urbanization curve?
 
@@ -4492,13 +4307,12 @@ D. Fourth stage
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Second stage of the S-shaped urbanization curve = acceleration.
+**Logic:** Second stage of the S-shaped urbanization curve = acceleration — Second stage
 
-**Ans: B.**
-
+**Ans: B.** Second stage
 </details>
 
-**Q200. U.P.P.C.S. (Mains) 2017**
+**Q200. UPPCS (Mains) 2017**
 
 As per United Nations data, what percentage of world’s population was estimated to live in urban settlements in 2016?
 
@@ -4510,13 +4324,12 @@ D. 56.5
 <details>
 <summary>Show answer</summary>
 
-**Logic:** UN 2016 urban share teaching ≈54.5%.
+**Logic:** UN 2016 urban share teaching ≈54.5% — 54.5
 
-**Ans: B.**
-
+**Ans: B.** 54.5
 </details>
 
-**Q201. U.P.P.C.S. (Pre) 2008**
+**Q201. UPPCS (Pre) 2008**
 
 According to an estimate, seventy percent of the world’s population would be localized in urban areas by the year:
 
@@ -4528,13 +4341,12 @@ D. 2070
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Older UN projection keyed ~70% urban by 2050 (later revisions ≈68%).
+**Logic:** Older UN projection keyed ~70% urban by 2050 (later revisions ≈68%) — 2050
 
-**Ans: B.**
-
+**Ans: B.** 2050
 </details>
 
-**Q202. U.P.P.C.S. (Mains) 2008**
+**Q202. UPPCS (Mains) 2008**
 
 Which one of the following countries has the largest urban population in the world?
 
@@ -4546,13 +4358,12 @@ D. U.S.A.
 <details>
 <summary>Show answer</summary>
 
-**Logic:** China has the world’s largest absolute urban population.
+**Logic:** China has the world’s largest absolute urban population — China
 
-**Ans: A.**
-
+**Ans: A.** China
 </details>
 
-**Q203. U.P.P.C.S. (Mains) 2010**
+**Q203. UPPCS (Mains) 2010**
 
 The most urbanized continent is:
 
@@ -4564,13 +4375,12 @@ D. Europe
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Australia / Oceania keys the most urbanized continental set in many tables.
+**Logic:** Australia / Oceania keys the most urbanized continental set in many tables — Australia
 
-**Ans: B.**
-
+**Ans: B.** Australia
 </details>
 
-**Q204. U.P.P.C.S. (Pre) 2005**
+**Q204. UPPCS (Pre) 2005**
 
 At present, the most urbanized country of the world is:
 
@@ -4582,13 +4392,12 @@ D. U.S.A.
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Singapore (100% urban) is the classic most-urbanized country among options.
+**Logic:** Singapore (100% urban) is the classic most-urbanized country among options — Singapore
 
-**Ans: C.**
-
+**Ans: C.** Singapore
 </details>
 
-**Q205. U.P.P.C.S. (Mains) 2008**
+**Q205. UPPCS (Mains) 2008**
 
 The most urbanized country of South America is:
 
@@ -4600,13 +4409,12 @@ D. Venezuela
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Uruguay is the most urbanized among the listed South American countries.
+**Logic:** Uruguay is the most urbanized among the listed South American countries — Uruguay
 
-**Ans: C.**
-
+**Ans: C.** Uruguay
 </details>
 
-**Q206. U.P.P.C.S. (Pre) 2014**
+**Q206. UPPCS (Pre) 2014**
 
 Which one of the following is the most urbanized country of South Asia?
 
@@ -4618,13 +4426,12 @@ D. Pakistan
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Among current World Bank-type tables for this option set, Bhutan often leads; older keys preferred Pakistan — use Bhutan for the printed 2014 stem set with Bhutan listed.
+**Logic:** Among current World Bank-type tables for this option set, Bhutan often leads; older keys preferred Pakistan — use Bhutan for the printed 2014 stem set with Bhutan listed — Bhutan
 
-**Ans: B.**
-
+**Ans: B.** Bhutan
 </details>
 
-**Q207. U.P.P.C.S. (Pre) 2011**
+**Q207. UPPCS (Pre) 2011**
 
 Which one of the following is the most urbanized country of West Asia?
 
@@ -4636,13 +4443,12 @@ D. Saudi Arabia
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Kuwait keys 100% urban among the West Asian set.
+**Logic:** Kuwait keys 100% urban among the West Asian set — Kuwait
 
-**Ans: B.**
-
+**Ans: B.** Kuwait
 </details>
 
-**Q208. U.P.P.C.S. (Mains) 2010**
+**Q208. UPPCS (Mains) 2010**
 
 Assertion (A): The Asian cities are over-urbanized. Reason (R): Their growth has outpaced their economic development.
 
@@ -4654,13 +4460,12 @@ D. (A) is false, but (R) is true
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Over-urbanization is keyed to urban growth outpacing economic development.
+**A/R logic:** Over-urbanization is keyed to urban growth outpacing economic development.
 
-**Ans: A.**
-
+**Ans: A.** Both (A) and (R) are true and (R) is the correct explanation of (A)
 </details>
 
-**Q209. U.P.P.C.S. (Pre) 2012**
+**Q209. UPPCS (Pre) 2012**
 
 Which one of the following countries was the first to adopt family planning programme officially?
 
@@ -4672,13 +4477,12 @@ D. China
 <details>
 <summary>Show answer</summary>
 
-**Logic:** India launched the first official national family-planning programme in 1952.
+**Logic:** India launched the first official national family-planning programme in 1952 — India
 
-**Ans: C.**
-
+**Ans: C.** India
 </details>
 
-**Q210. U.P.P.C.S. (Pre) 2005**
+**Q210. UPPCS (Pre) 2005**
 
 In which year Family Planning Programme was started in India?
 
@@ -4690,13 +4494,12 @@ D. 1955
 <details>
 <summary>Show answer</summary>
 
-**Logic:** National Family Planning Programme started in 1952.
+**Logic:** National Family Planning Programme started in 1952 — 1952
 
-**Ans: C.**
-
+**Ans: C.** 1952
 </details>
 
-**Q211. U.P.P.C.S. (Mains) 2007**
+**Q211. UPPCS (Mains) 2007**
 
 Which one of the following countries has the highest birth rate?
 
@@ -4708,26 +4511,22 @@ D. Pakistan
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Afghanistan has the highest birth rate among the listed South Asian countries.
+**Logic:** Afghanistan has the highest birth rate among the listed South Asian countries — Afghanistan
 
-**Ans: A.**
-
+**Ans: A.** Afghanistan
 </details>
 
 ---
 
 ## Ghatnachakra Extra Drill — Employment, Poverty and Human Capital
 
-
 > Extra Drill: Ghatnachakra **Employment / Demography / India Urbanization** + **World Population & Urbanization** (UNFPA, density, global cities).
-
 
 UPPCS-tagged stems live in **Complete PYQ Bank (UPPCS)** above. UKPCS-tagged stems live in **UKPCS** below. Use Practice Zone for fresh multi-statement drills.
 
-
 ### Ghatnachakra Purvalokan — Sustainable Economic Development
 
-**Q1. U.P.P.C.S. (Pre) 2019**
+**Q1. UPPCS (Pre) 2019**
 Who has propounded the concept of ‘Limits to Growth’?
 A. Club of Rome
 B. UNESCO
@@ -4737,9 +4536,9 @@ D. Agenda 21
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Brundtland = Our Common Future (1987) — not Limits to Growth.
+**Logic:** Club of Rome (1972 report).
 
-**Ans: A.** Club of Rome (1972 report).
+**Ans: A.** Brundtland = Our Common Future (1987) — not Limits to Growth.
 
 </details>
 
@@ -4753,13 +4552,12 @@ D. 200 years
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 1972 Meadows horizon; later updates shortened the warning window.
+**Logic:** 1972 Meadows horizon; later updates shortened the warning window — 100 years
 
-**Ans: B.** 100 years.
-
+**Ans: B.** 100 years
 </details>
 
-**Q3. U.P.P.C.S. (Pre) 2014**
+**Q3. UPPCS (Pre) 2014**
 The Environmental Kuznets Curve (EKC) shows the relationship between per capita GDP and environmental loss. What is its shape?
 A. Inverted ‘U’ shaped
 B. Inverted ‘V’ shaped
@@ -4769,9 +4567,9 @@ D. None of these
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Degradation rises then falls after a income threshold.
+**Logic:** Inverted U-shaped.
 
-**Ans: A.** Inverted U-shaped.
+**Ans: A.** Degradation rises then falls after a income threshold.
 
 </details>
 
@@ -4785,13 +4583,13 @@ D. 1998
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 1987 popularised the definition; 1992 Rio/Agenda 21.
+**Logic:** 1980 (IUCN World Conservation Strategy).
 
-**Ans: A.** 1980 (IUCN World Conservation Strategy).
+**Ans: A.** 1987 popularised the definition; 1992 Rio/Agenda 21.
 
 </details>
 
-**Q5. U.P.P.C.S. (Pre) 2024**
+**Q5. UPPCS (Pre) 2024**
 Assertion (A): The concept of Sustainable Development was popularised by the Brundtland Report.
 Reason (R): The Brundtland Report is also known as “The Limits to Growth”.
 A. Both true, R not explanation
@@ -4802,13 +4600,12 @@ D. A true, R false
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** Brundtland = Our Common Future (1987). Limits to Growth = Club of Rome 1972.
+**Logic:** Standard key matches A true, R false.
 
-**Ans: D.** A true; R false.
-
+**Ans: D.** A true, R false
 </details>
 
-**Q6. U.P.P.C.S. (Pre) 2019**
+**Q6. UPPCS (Pre) 2019**
 Assertion (A): Sustainable development is important for well being of human society.
 Reason (R): Sustainable development meets present needs without compromising future generations’ ability to meet their own needs.
 A. Both true and R explains A
@@ -4819,10 +4616,9 @@ D. A false R true
 <details>
 <summary>Show answer</summary>
 
-**Logic:** True
+**Logic:** Standard key: Both true and R explains A.
 
-**Ans: A.** Both true; Brundtland definition explains why it matters.
-
+**Ans: A.** Both true and R explains A
 </details>
 
 **Q7. U.P. P.C.S. (Pre) 2025**
@@ -4836,13 +4632,12 @@ D. Both true and R explains A
 <details>
 <summary>Show answer</summary>
 
-**Logic:** True
+**Logic:** Standard key matches A true R false.
 
-**Ans: C.** A true; R false — Agenda 21 was at Rio Earth Summit **1992**.
-
+**Ans: C.** A true R false
 </details>
 
-**Q8. U.P.P.C.S. (Pre) 2018**
+**Q8. UPPCS (Pre) 2018**
 ‘Saving energy and other resources for the future without sacrificing people’s comfort in the present’ defines:
 A. Economic growth
 B. Economic development
@@ -4852,9 +4647,9 @@ D. Human development
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Present comfort + future resource care = Brundtland idea.
+**Logic:** Sustainable development.
 
-**Ans: C.** Sustainable development.
+**Ans: C.** Present comfort + future resource care = Brundtland idea.
 
 </details>
 
@@ -4868,9 +4663,9 @@ D. Sustainable Development
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Inter-generational resource care.
+**Logic:** Sustainable Development.
 
-**Ans: D.** Sustainable Development.
+**Ans: D.** Inter-generational resource care.
 
 </details>
 
@@ -4884,9 +4679,9 @@ D. Sustainable development
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Use + conserve for future = SD.
+**Logic:** Sustainable development.
 
-**Ans: D.** Sustainable development.
+**Ans: D.** Use + conserve for future = SD.
 
 </details>
 
@@ -4900,9 +4695,9 @@ D. Carrying capacity
 <details>
 <summary>Show answer</summary>
 
-**Logic:** SD binds welfare goals to the environment’s sustainable support limit.
+**Logic:** Carrying capacity.
 
-**Ans: D.** Carrying capacity.
+**Ans: D.** SD binds welfare goals to the environment’s sustainable support limit.
 
 </details>
 
@@ -4916,13 +4711,13 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Environment is the foundational lens in the keyed option set.
+**Logic:** Environmental approach.
 
-**Ans: C.** Environmental approach.
+**Ans: C.** Environment is the foundational lens in the keyed option set.
 
 </details>
 
-**Q13. U.P. R.O./A.R.O. (Pre) (Re-Exam) 2023**
+**Q13. UP RO/ARO (Pre) (Re-Exam) 2023**
 Who is the author of the book ‘The Population Bomb’?
 A. Malthus
 B. Paul R. Ehrlich
@@ -4932,10 +4727,9 @@ D. Donald Bogue
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Population–environment alarm classic.
+**Logic:** Population–environment alarm classic — Paul R
 
-**Ans: B.** Paul R. Ehrlich (1968).
-
+**Ans: B.** Paul R.
 </details>
 
 **Q14. M.P.P.C.S. (Pre) 2015**
@@ -4948,9 +4742,9 @@ D. Agriculture development
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Inter-generational economic + ecological balance.
+**Logic:** Present needs met while sustaining resources for the future.
 
-**Ans: A.** Present needs met while sustaining resources for the future.
+**Ans: A.** Inter-generational economic + ecological balance.
 
 </details>
 
@@ -4964,9 +4758,9 @@ D. Social resources
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Classic inter-generational natural-resource framing.
+**Logic:** Natural resources.
 
-**Ans: A.** Natural resources.
+**Ans: A.** Classic inter-generational natural-resource framing.
 
 </details>
 
@@ -4980,13 +4774,13 @@ D. Neither II nor III correct
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Less virgin material + less waste → lower GHG.
+**Logic:** II and III both correct and both explain lower emissions.
 
-**Ans: A.** II and III both correct and both explain lower emissions.
+**Ans: A.** Less virgin material + less waste → lower GHG.
 
 </details>
 
-**Q17. U.P.P.C.S. (Mains) 2010**
+**Q17. UPPCS (Mains) 2010**
 Neemrana, a model of sustainable economic development, is located in:
 A. Haryana
 B. Punjab
@@ -4996,10 +4790,9 @@ D. Uttar Pradesh
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Industrial/sustainable-development model town teaching.
+**Logic:** Industrial/sustainable-development model town teaching — Rajasthan
 
-**Ans: C.** Rajasthan.
-
+**Ans: C.** Rajasthan
 </details>
 
 **Q18. U.P. P.C.S. (Pre) 2020**
@@ -5012,9 +4805,9 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Not mere headcount growth.
+**Logic:** Tourism + environment + cultural integrity + ecology.
 
-**Ans: C.** Tourism + environment + cultural integrity + ecology.
+**Ans: C.** Not mere headcount growth.
 
 </details>
 
@@ -5028,9 +4821,9 @@ D. France
 <details>
 <summary>Show answer</summary>
 
-**Logic:** India–Norway Blue Economy Task Force.
+**Logic:** Norway (launched Jan 2019).
 
-**Ans: B.** Norway (launched Jan 2019).
+**Ans: B.** India–Norway Blue Economy Task Force.
 
 </details>
 
@@ -5044,9 +4837,9 @@ D. Level of mutual trust and harmony in society
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Literacy/working age = human capital; machines = physical capital.
+**Logic:** Mutual trust and harmony.
 
-**Ans: D.** Mutual trust and harmony.
+**Ans: D.** Literacy/working age = human capital; machines = physical capital.
 
 </details>
 
@@ -5064,10 +4857,9 @@ D. 1, 3 and 4
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Skills/knowledge + intangible wealth — not physical GCF.
+**Logic:** Skills/knowledge + intangible wealth — not physical GCF — 2 and 4
 
-**Ans: C.** 2 and 4.
-
+**Ans: C.** 2 and 4
 </details>
 
 **Q22. 69th B.P.S.C. (Pre) 2023**
@@ -5080,13 +4872,13 @@ D. Only 4
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Same UPSC 2018 idea in BPSC options.
+**Logic:** Only the full knowledge–skill–capacity statement.
 
-**Ans: D.** Only the full knowledge–skill–capacity statement.
+**Ans: D.** Same UPSC 2018 idea in BPSC options.
 
 </details>
 
-**Q23. U.P.P.C.S. (Mains) 2011**
+**Q23. UPPCS (Mains) 2011**
 Skill development programme enhances:
 A. Human Capital
 B. Physical Capital
@@ -5096,13 +4888,13 @@ D. Fixed Capital
 <details>
 <summary>Show answer</summary>
 
-**Logic:** PMKVY-type skilling builds people’s productive capacity.
+**Logic:** Human Capital.
 
-**Ans: A.** Human Capital.
+**Ans: A.** PMKVY-type skilling builds people’s productive capacity.
 
 </details>
 
-**Q24. U.P. R.O./A.R.O. (Mains) 2017**
+**Q24. UP RO/ARO (Mains) 2017**
 Which will not have a direct impact on human capital formation?
 A. Education
 B. Medical Care
@@ -5112,13 +4904,12 @@ D. Irrigation
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Irrigation is physical/agri capital — not direct HC.
+**Logic:** Irrigation is physical/agri capital — not direct HC — Irrigation
 
-**Ans: D.** Irrigation.
-
+**Ans: D.** Irrigation
 </details>
 
-**Q25. U.P.P.C.S. (Pre) (Re-Exam) 2015**
+**Q25. UPPCS (Pre) (Re-Exam) 2015**
 Increasing investment in human capital leads to:
 A. Proper use of resources
 B. Increase in productivity
@@ -5128,9 +4919,9 @@ D. All of the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Skills → better resource use → productivity.
+**Logic:** All of the above.
 
-**Ans: D.** All of the above.
+**Ans: D.** Skills → better resource use → productivity.
 
 </details>
 
@@ -5145,13 +4936,13 @@ E. None of the above/More than one of the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** India ≈116th in HCI 2020 teaching.
+**Logic:** Singapore (World Bank HCI 2020).
 
-**Ans: C.** Singapore (World Bank HCI 2020).
+**Ans: C.** India ≈116th in HCI 2020 teaching.
 
 </details>
 
-**Q27. U.P.P.C.S. (Mains) 2008**
+**Q27. UPPCS (Mains) 2008**
 Inclusive growth would necessitate:
 A. Development of infrastructural facilities
 B. Revival of agriculture
@@ -5161,9 +4952,9 @@ D. All of the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Inclusive growth = broad opportunity set.
+**Logic:** All of the above.
 
-**Ans: D.** All of the above.
+**Ans: D.** Inclusive growth = broad opportunity set.
 
 </details>
 
@@ -5177,9 +4968,9 @@ D. Adequate credit to farmers
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Aggregate growth ≠ inclusive without distribution/access.
+**Logic:** High growth of National Income alone.
 
-**Ans: A.** High growth of National Income alone.
+**Ans: A.** Aggregate growth ≠ inclusive without distribution/access.
 
 </details>
 
@@ -5197,9 +4988,9 @@ D. 1, 2, 3 and 4
 <details>
 <summary>Show answer</summary>
 
-**Logic:** NBFC banking permission is not inclusive governance.
+**Logic:** 2, 3 and 4 only.
 
-**Ans: C.** 2, 3 and 4 only.
+**Ans: C.** NBFC banking permission is not inclusive governance.
 
 </details>
 
@@ -5216,13 +5007,12 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** SHG + MSME + RTE widen opportunity.
+**Logic:** All three — keyed as 1, 2 and 3.
 
-**Ans: D.** All three.
-
+**Ans: D.** SHG + MSME + RTE widen opportunity.
 </details>
 
-**Q31. U.P.P.C.S. (Pre) (Re-Exam) 2015**
+**Q31. UPPCS (Pre) (Re-Exam) 2015**
 A new chapter on sustainable development and climate change was first introduced in the Economic Survey of:
 A. 2004–05
 B. 2011–12
@@ -5232,10 +5022,9 @@ D. 2013–14
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Survey chapter debut year.
+**Logic:** Survey chapter debut year — 2011–12
 
-**Ans: B.** 2011–12.
-
+**Ans: B.** 2011–12
 </details>
 
 **Q32. I.A.S. (Pre) 2011**
@@ -5249,9 +5038,9 @@ C. Uttar Pradesh
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** Article 21 (2) says everyone has the right to equal access to public services in his country.
 
-**Logic:** (1) of the Universal Declaration of Human Rights says that everyone has right to education and education shall be free, at least in the elementary stages. Article 21 (2) says everyone has the right to equal access to public services in his country. Further, Article 25 (1) of this
+**Ans: B.** (1) of the Universal Declaration of Human Rights says that everyone has right to education and education shall be free, at least in the elementary stages.
 
 </details>
 
@@ -5266,9 +5055,9 @@ C. Per-capita Income, PQLI, HDI
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** This one-dimensional method measures the income per person in an economic unit by measuring the livin
 
-**Logic:** The first measure of development, introduced in the US in 1934, by a team of economic experts headed by Simon Kuznets (1971 Nobel Prize winner), was the Per-capita Income method. This one-dimensional method measures the income per person in an economic unit by measuring the livin
+**Ans: C.** The first measure of development, introduced in the US in 1934, by a team of economic experts headed by Simon Kuznets (1971 Nobel Prize winner), was the Per-capita Income method.
 
 </details>
 
@@ -5284,9 +5073,9 @@ D. More than one of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** (Pre) 2025 UNDP, in the Human Development Report 1996, presented a composite index called the 'Capability Poverty Measure (CPM)', which measures deprivation in three basic human capabilities-The capability to be healt…
 
-**Logic:** 71 B.P.S.C. (Pre) 2025 UNDP, in the Human Development Report 1996, presented a composite index called the 'Capability Poverty Measure (CPM)', which measures deprivation in three basic human capabilities-The capability to be healthy and well-nourished, The capability for healthy r
+**Ans: A.** 71 B.P.S.C.
 
 </details>
 
@@ -5302,10 +5091,9 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Standard key from Ghatnachakra Human Development — Mahbub-ul-Haq
 
-**Logic:** Standard key from Ghatnachakra Human Development.
-
+**Ans: A.** Mahbub-ul-Haq
 </details>
 
 **Q36. U.P. U.D.A./L.D.A. (Pre) 2013**
@@ -5319,13 +5107,13 @@ C. World Development Report
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** In 1990 the first Human Development Report released by the UNDPР, introduced a new approach-for advancing human wellbeing.
 
-**Logic:** Human aspect of development was first focused by United Nations Development Program (UNDP). In 1990 the first Human Development Report released by the UNDPР, introduced a new approach-for advancing human wellbeing. Human development- or human development approach- is about expand
+**Ans: A.** Human aspect of development was first focused by United Nations Development Program (UNDP).
 
 </details>
 
-**Q37. U.P. Lower Sub. (Pre) 2015**
+**Q37. UP Lower Sub (Pre) 2015**
 
 Which of the following organization calls India's economic growth as ‘Jobless', 'Rootless', 'Ruthless', Voiceless' and 'Futureless'?
 
@@ -5336,10 +5124,9 @@ C. UNDP
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** ess', 'Rootless', 'Ruthless', 'Voiceless', and Futureless' — UNDP
 
-**Logic:** ess', 'Rootless', 'Ruthless', 'Voiceless', and Futureless'
-
+**Ans: C.** UNDP
 </details>
 
 **Q38. M.P.P.C.S. (Pre) 2008**
@@ -5355,7 +5142,7 @@ C. Social Inequality
 
 **Ans: *.**
 
-**Logic:** UNDP first published Human Development Report (HDR) in the year 1990. Human Development Index (HDI) of HDR includes 3 indicators : (i) Life Expectancy at birth, (ii) Level of Education, (iii) Standard of living (GNI Index - GNI per capita PPP $). Education level was earlier deter
+**Logic:** UNDP first published Human Development Report (HDR) in the year 1990.
 
 </details>
 
@@ -5370,10 +5157,9 @@ C. Literacy
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** Standard key from Ghatnachakra Human Development — Urbanization
 
-**Logic:** Standard key from Ghatnachakra Human Development.
-
+**Ans: B.** Urbanization
 </details>
 
 **Q40. Mixed / State PCS**
@@ -5388,10 +5174,9 @@ D. Education, employment, standard of living
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Standard key: Health, education, standard of living.
 
-**Logic:** M. P. P. C. S. (Pre) 2015 See the explanation of above question
-
+**Ans: C.** Health, education, standard of living
 </details>
 
 **Q41. 66th B.P.S.C. (Pre) (Re-Exam) 2020**
@@ -5406,9 +5191,9 @@ D. India, China, South Africa, Brazil
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** In the HDI, 2023 (given in
 
-**Logic:** As per the United Nations Development Programme (UNDP)'s Human Development Report 2020, the ascending order of Human Development Index (HDI), 2019 rankings of the given countries were as follows: Brazil (84), China (85), South Africa (114), India (131). In the HDI, 2023 (given in
+**Ans: B.** As per the United Nations Development Programme (UNDP)'s Human Development Report 2020, the ascending order of Human Development Index (HDI), 2019 rankings of the given countries were as follows: Brazil (84), China (8…
 
 </details>
 
@@ -5424,9 +5209,9 @@ D. More than one of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** (Pre) 2025According to the Human Development Report 2025 releasedby the United Nations Development Programme (UNDP), lifeexpectancy at birth in India was 58.6 years in 1990, whic increased to 72 years in 2023
 
-**Logic:** 71" B.P.S.C. (Pre) 2025According to the Human Development Report 2025 releasedby the United Nations Development Programme (UNDP), lifeexpectancy at birth in India was 58.6 years in 1990, whic increased to 72 years in 2023
+**Ans: A.** 71" B.P.S.C.
 
 </details>
 
@@ -5441,10 +5226,9 @@ C. Bhutan
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Standard key from Ghatnachakra Human Development — Bhutan
 
-**Logic:** Standard key from Ghatnachakra Human Development.
-
+**Ans: C.** Bhutan
 </details>
 
 **Q44. Mixed / State PCS**
@@ -5458,10 +5242,9 @@ C. Sri Lanka
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** Standard key matches India.
 
-**Logic:** India's ranking has remained relatively stagnanover the years, indicating limited progress improving the overall happiness and well-beingof its population. Select the correct answer using the codes givenbelow. (Pre) 2024In World Happiness Report 2024's rankings for 2023,India 
-
+**Ans: A.** India
 </details>
 
 **Q45. I.A.S. (Pre) 2000**
@@ -5476,13 +5259,13 @@ D. Unemployment Related Index
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** dian Human Development Report does not give for each sample village:
 
-**Logic:** (HDR) in India was published in Madhya Pradesh in 1995 and included the ation of the State's HDI as well as HDI for all the in the State. dian Human Development Report does not give for each sample village:
+**Ans: C.** (HDR) in India was published in Madhya Pradesh in 1995 and included the ation of the State's HDI as well as HDI for all the in the State.
 
 </details>
 
-**Q46. U.P. R.O./A.R.O. (Mains) 2021**
+**Q46. UP RO/ARO (Mains) 2021**
 
 As per the fourth edition of State Health Index releasedby the NITI Aayog in December 2021, which one of thefollowing States performed best among the 'SmallerStates' category?
 
@@ -5493,9 +5276,9 @@ C. Mizoram
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** On overalranking based on the composite index score in 2019-20, t
 
-**Logic:** 'Healthy States, Progressive India', ranked States and UnionTerritories on their year-on-year incremental performance inhealth outcomes as well as their overall status. On overalranking based on the composite index score in 2019-20, t
+**Ans: C.** 'Healthy States, Progressive India', ranked States and UnionTerritories on their year-on-year incremental performance inhealth outcomes as well as their overall status.
 
 </details>
 
@@ -5511,9 +5294,9 @@ D. Kerala, Tamil Nadu, West Bengal, Karnataka
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** (Mains) 200U.P.P.C.S.
 
-**Logic:** U.P.P.C.S. (Mains) 200U.P.P.C.S. (Mains) 20In February 2011, National University for EducationPlanning and Administration had issued the EducатoDevelopment Index (EDI) 2009-10. Following was the oroerof top states and union territories in that index:
+**Ans: A.** U.P.P.C.S.
 
 </details>
 
@@ -5528,9 +5311,9 @@ C. IV-III-I-II
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Rural Landless Employment Guarantee Programme (RLEGP) scheme was started on 15 August, 1983 for providing employment opportunities to the rural
 
-**Logic:** (TRYSEM) scheme was started in August, 1979 with an aim of providing training to rural youth of 18 to 35 age group for self employment. Rural Landless Employment Guarantee Programme (RLEGP) scheme was started on 15 August, 1983 for providing employment opportunities to the rural 
+**Ans: D.** (TRYSEM) scheme was started in August, 1979 with an aim of providing training to rural youth of 18 to 35 age group for self employment.
 
 </details>
 
@@ -5545,9 +5328,9 @@ C. Both 1 and 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** It was launched in 2007 and operationalized in April, 2008.
 
-**Logic:** (Pre) 2009 'Rashtriya Swasthya Bima Yojana’ (RSBY) is a health insurance scheme for unorganized sector workers, launched by the Ministry of Labour and Employment. It was launched in 2007 and operationalized in April, 2008. This scheme has been transferred to Ministry of Health an
+**Ans: B.** (Pre) 2009 'Rashtriya Swasthya Bima Yojana’ (RSBY) is a health insurance scheme for unorganized sector workers, launched by the Ministry of Labour and Employment.
 
 </details>
 
@@ -5562,9 +5345,9 @@ C. Both 1 and 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Swayam Siddha Scheme seeks to empower women through series of programmes of awareness generation, the achievement of economic strength through micro-level in- come-generating activit
 
-**Logic:** werment of Women' was emphasized through Self Help Groups (SHG). Swayam Siddha Scheme seeks to empower women through series of programmes of awareness generation, the achievement of economic strength through micro-level in- come-generating activit
+**Ans: D.** werment of Women' was emphasized through Self Help Groups (SHG).
 
 </details>
 
@@ -5579,9 +5362,9 @@ C. Both 1 and 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** While antenatal care is routinely provided to pregnant women, special ANC services are provided by OBGY spe
 
-**Logic:** (PMSMA) was launched to provide fixed-day assured, comprehensive and quality antenatal care universally to all pregnant women (in second and third trimesters of pregnancy). While antenatal care is routinely provided to pregnant women, special ANC services are provided by OBGY spe
+**Ans: B.** (PMSMA) was launched to provide fixed-day assured, comprehensive and quality antenatal care universally to all pregnant women (in second and third trimesters of pregnancy).
 
 </details>
 
@@ -5598,10 +5381,9 @@ E. None of the above / More than one of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Prime Minister of India launched a massive employ- ment-cum-rural public works Campaign named 'Garib Kalyan Rojgar Abhiyaan' to empower and provide livelihood opportunities in areas/villages witnessing a large number… —…
 
-**Logic:** Prime Minister of India launched a massive employ- ment-cum-rural public works Campaign named 'Garib Kalyan Rojgar Abhiyaan' to empower and provide livelihood opportunities in areas/villages witnessing a large number of returnee migrant workers affected by the devastating |COVID-
-
+**Ans: D.** Khagaria
 </details>
 
 **Q53. I.A.S. (Pre) 2022**
@@ -5615,9 +5397,9 @@ C. 1 and 3 only
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** ABDM will create a seamless online platform by providing a wide range of data, information and infrastructure services, duly leveraging open, interoperable, standards-based digital systems while ensuring the security,…
 
-**Logic:** (ABDM) via video conferencing on 27th September, 2021. ABDM will create a seamless online platform by providing a wide range of data, information and infrastructure services, duly leveraging open, interoperable, standards-based digital systems while ensuring the security, confide
+**Ans: B.** (ABDM) via video conferencing on 27th September, 2021.
 
 </details>
 
@@ -5632,9 +5414,9 @@ C. 2 and 3 only
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** It was launched in July, 2015.
 
-**Logic:** (PMKVY) is the flagship scheme of the Ministry of Skill Development and Entrepreneurship (MSDE) implemented by National Skill Development Corporation (NSDC). It was launched in July, 2015. According to the Guidelines of PMKVY, the Short Term Training imparted at PMKVY Training Ce
+**Ans: C.** (PMKVY) is the flagship scheme of the Ministry of Skill Development and Entrepreneurship (MSDE) implemented by National Skill Development Corporation (NSDC).
 
 </details>
 
@@ -5649,9 +5431,9 @@ C. 3 only
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Women, who are expecting after having two children, get a reduced 12 weeks paid maternity leave.The maternity leave can be availed 8 weeks before the expected date of
 
-**Logic:** (Amendment) Act, 2017 provides for 26 weeks paid maternity leave to the working women for the first two children. Women, who are expecting after having two children, get a reduced 12 weeks paid maternity leave.The maternity leave can be availed 8 weeks before the expected date of
+**Ans: C.** (Amendment) Act, 2017 provides for 26 weeks paid maternity leave to the working women for the first two children.
 
 </details>
 
@@ -5666,9 +5448,9 @@ C. 3 only
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** General Studies E-337
 
-**Logic:** provided under this scheme. General Studies E-337
+**Ans: A.** provided under this scheme.
 
 </details>
 
@@ -5681,9 +5463,9 @@ Ramps in public buildings. Which of the statements given above is/are correct?
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** As per the Section 31 (1) of the 2016 Act, every child with benchmark disability between
 
-**Logic:** (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995 as well as under The Rights of Persons with Disabilities Act, 2016 all of the three given statements are correct. As per the Section 31 (1) of the 2016 Act, every child with benchmark disability between 
+**Ans: D.** (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995 as well as under The Rights of Persons with Disabilities Act, 2016 all of the three given statements are correct.
 
 </details>
 
@@ -5698,10 +5480,9 @@ E. None of the above More than one of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: E.**
+**Logic:** Logic: 66 B.P.S.C — None of the above More than one of the above
 
-**Logic:** 66 B.P.S.C. (Pre) (Re-Exam) 2020 Keeping in mind the need for having a dedicated fund with the primary objective of dealing with any kind of emergency or distress situation, like posed by the COVID-19 pandemic, and to provide relief to the affected, a public charitable trust unde
-
+**Ans: E.** None of the above More than one of the above
 </details>
 
 **Q59. I.A.S. (Pre) 2017**
@@ -5715,13 +5496,13 @@ C. 1, 2 and 4 only
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** The General Studies E-321 objectives of the NNM are to create awareness relating to malnu
 
-**Logic:** (POSHAN Abhiyaan) or the National Nutrition Mission (NNM) is the Government of India's flagship programme to improve nutritional outcomes for children, pregnant women and lactating mothers. The General Studies E-321 objectives of the NNM are to create awareness relating to malnu
+**Ans: A.** (POSHAN Abhiyaan) or the National Nutrition Mission (NNM) is the Government of India's flagship programme to improve nutritional outcomes for children, pregnant women and lactating mothers.
 
 </details>
 
-**Q60. U.P. R.O./A.R.O. (Pre) 2021**
+**Q60. UP RO/ARO (Pre) 2021**
 
 SHREYAS Select the correct answer using the codes given below:
 
@@ -5732,9 +5513,9 @@ C. 2, 3 and 4 only
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** STRIDE aims to provide support to research projects that are socially relevant, logically need-based, nationally important and globally significant.
 
-**Logic:** (STRIDE) was launched by the University Grants Commission (UGC). STRIDE aims to provide support to research projects that are socially relevant, logically need-based, nationally important and globally significant. Hence, STRIDE is not a skill development schem
+**Ans: C.** (STRIDE) was launched by the University Grants Commission (UGC).
 
 </details>
 
@@ -5749,10 +5530,9 @@ C. Only three
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** relation to Janani Suraksha Yojana — Only two
 
-**Logic:** relation to Janani Suraksha Yojana
-
+**Ans: B.** Only two
 </details>
 
 **Q62. Uttarakhand P.C.S. (Pre) 2002**
@@ -5766,9 +5546,9 @@ C. 2, 3 and 4
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** The basic objective of the SGSY was to bring the assisted BPL family above the poverty line by en
 
-**Logic:** (SGSY) was started from 1 April, 1999 after restructuring the erstwhile Integrated Rural Development Programme (IRDP) and its 5 allied programmes (TRYSEM, DWCRA, SITRA, GKY and MWS). The basic objective of the SGSY was to bring the assisted BPL family above the poverty line by en
+**Ans: D.** (SGSY) was started from 1 April, 1999 after restructuring the erstwhile Integrated Rural Development Programme (IRDP) and its 5 allied programmes (TRYSEM, DWCRA, SITRA, GKY and MWS).
 
 </details>
 
@@ -5782,9 +5562,9 @@ D. Statement-I is incorrect but Statement-II is correct
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** The Ayushman Bharat - Health and Wellness Centres (AB-HWCs) were launched under the Ayushman Bharat Programme in a bid to move away from selective
 
-**Logic:** India's public sector healthcare system largely focuses on curative care with limited preventive, promotive and rehabilitative care. The Ayushman Bharat - Health and Wellness Centres (AB-HWCs) were launched under the Ayushman Bharat Programme in a bid to move away from selective 
+**Ans: B.** India's public sector healthcare system largely focuses on curative care with limited preventive, promotive and rehabilitative care.
 
 </details>
 
@@ -5799,9 +5579,7 @@ C. Arunima Yojna
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
-
-**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes.
+**Ans: D.** Standard key from Ghatnachakra Employment & Welfare Schemes.
 
 </details>
 
@@ -5818,9 +5596,9 @@ E. None of the above/More than one of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Ayushman Bharat PM-JAY is the largest health Economic & Social Development assurance scheme in the world whi
 
-**Logic:** Prime Minister Narendra Modi has launched 'Pradhan Mantri Jan Aarogya Yojana' (PM-JAY) under flagship scheme 'Ayushman Bharat' on 23 September, 2018 in Ranchi (Jharkhand). Ayushman Bharat PM-JAY is the largest health Economic & Social Development assurance scheme in the world whi
+**Ans: A.** Prime Minister Narendra Modi has launched 'Pradhan Mantri Jan Aarogya Yojana' (PM-JAY) under flagship scheme 'Ayushman Bharat' on 23 September, 2018 in Ranchi (Jharkhand).
 
 </details>
 
@@ -5835,9 +5613,9 @@ C. Niti Aayog
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** National Health Authority (NHA) is the apex body responsible for implementing Ayushman Bharat PM-JAY scheme
 
-**Logic:** Ayushman Bharat Pradhan Mantri Jan Aarogya Yojana (PМJAY) was launched in Ranchi, Jharkhand on 23rd September, 2018. National Health Authority (NHA) is the apex body responsible for implementing Ayushman Bharat PM-JAY scheme
+**Ans: A.** Ayushman Bharat Pradhan Mantri Jan Aarogya Yojana (PМJAY) was launched in Ranchi, Jharkhand on 23rd September, 2018.
 
 </details>
 
@@ -5850,9 +5628,9 @@ Which feature of Chief Minister Chiranjeevi Health Insurance Scheme is incorrect
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** Under this scheme, earlier an insurance cover of Rs.
 
-**Logic:** Chief Minister Chiranjeevi Health Insurance Scheme was started by Rajasthan Government on May 1, 2021. Under this scheme, earlier an insurance cover of Rs. 50,000 for normal diseases and Rs. 4.50 lakh for serious diseases (Total Rs. 5 lakh) was payable per family per annum which 
+**Ans: B.** Chief Minister Chiranjeevi Health Insurance Scheme was started by Rajasthan Government on May 1, 2021.
 
 </details>
 
@@ -5865,9 +5643,9 @@ Which one is not true about AYUSHMAN SAHAKAR Scheme?
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** It is a unique scheme to assist cooperatives which play an important role in creation of health infrastructure i
 
-**Logic:** The Ministry of Agriculture and Farmers Welfare launched ‘AYUSHMAN SAHAKAR’ Scheme on 19 October, 2020 This scheme is now under the purview of Ministry of Cooperation. It is a unique scheme to assist cooperatives which play an important role in creation of health infrastructure i
+**Ans: A.** The Ministry of Agriculture and Farmers Welfare launched ‘AYUSHMAN SAHAKAR’ Scheme on 19 October, 2020 This scheme is now under the purview of Ministry of Cooperation.
 
 </details>
 
@@ -5883,13 +5661,12 @@ D. New Educational Policy
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Standard key matches Rs.
 
-**Logic:** Ans. inaugurated 'Mission Indradhanush' on 25th December, 2014 with an aim of expanding immunization coverage to all children and pregnant women across the country. To further intensity the immunization programme, Prime Minister launched the Intensified Miss
-
+**Ans: C.** Rs.
 </details>
 
-**Q70. U.P. Lower Sub. (Spl.) (Pre) 2010**
+**Q70. UP Lower Sub (Spl.) (Pre) 2010**
 
 Which one of the following is not correct about the 'National Rural Health Mission'?
 
@@ -5899,10 +5676,9 @@ D. Departments of Health and Family Welfare in the
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** States have been merged with the programme Statement of option r 2005 during the 10th Five Year Plan (2002-07 — The programme was launched during the Eleventh Plan
 
-**Logic:** States have been merged with the programme Statement of option r 2005 during the 10th Five Year Plan (2002-07)
-
+**Ans: A.** The programme was launched during the Eleventh Plan
 </details>
 
 **Q71. U.P. U.D.A./L.D.A. (Pre) 2013**
@@ -5916,9 +5692,9 @@ C. Tenth
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Its objective is to ensure timely vaccination
 
-**Logic:** The U-WIN (Universal Immunization-Win) portal of the Ministry of Health and Family Welfare, Government of India, is a digital platform that digitizes all immunization services provided under the Universal Immunization Programme (UIP). Its objective is to ensure timely vaccination
+**Ans: C.** The U-WIN (Universal Immunization-Win) portal of the Ministry of Health and Family Welfare, Government of India, is a digital platform that digitizes all immunization services provided under the Universal Immunization…
 
 </details>
 
@@ -5934,10 +5710,9 @@ D. Annapurna Scheme
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** The primary aim of the National Health Policy 2017, 1sto inform, clarify, strengthen and prioritize the role of theGovernment in shaping health systems in all its dimensionsinvestments in health, organization of healt……
 
-**Logic:** The primary aim of the National Health Policy 2017, 1sto inform, clarify, strengthen and prioritize the role of theGovernment in shaping health systems in all its dimensionsinvestments in health, organization of healthcare services,prevention of diseases and promotion of good hea
-
+**Ans: D.** Annapurna Scheme
 </details>
 
 **Q73. U.P.U.D.A./L.D.A. (Pre) 2013**
@@ -5951,9 +5726,9 @@ C. 1.59
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** The National Health Policy, 2017 had set a target to increase public health expenditure from the then 1.2 percent of GDP to 2.5 percent by 2025.
 
-**Logic:** nd States was 0.39% and 0.70% respectively. The National Health Policy, 2017 had set a target to increase public health expenditure from the then 1.2 percent of GDP to 2.5 percent by 2025. As per the National Health Accounts (NHA) estima
+**Ans: B.** nd States was 0.39% and 0.70% respectively.
 
 </details>
 
@@ -5968,10 +5743,9 @@ C. September
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Nutrition Month across the country under the Poshan Abhiyaan of the Government of India — September
 
-**Logic:** Nutrition Month across the country under the Poshan Abhiyaan of the Government of India
-
+**Ans: C.** September
 </details>
 
 **Q75. Uttarakhand P.C.S. (Pre) 2025**
@@ -5985,9 +5759,9 @@ D. To conduct nationwide vaccination drive
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** Its main objective was to improve nutritional status across the country, especially by promoting healthy and nutritious diets
 
-**Logic:** Poshan Pakhwada, celebrated in April 2025, was a twoweek long programme under the National Nutrition Mission (POSHAN Abhiyaan) of the Government of India. Its main objective was to improve nutritional status across the country, especially by promoting healthy and nutritious diets
+**Ans: B.** Poshan Pakhwada, celebrated in April 2025, was a twoweek long programme under the National Nutrition Mission (POSHAN Abhiyaan) of the Government of India.
 
 </details>
 
@@ -6002,13 +5776,13 @@ D. National Oral Health Programme
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** National Iron Plus Initiative for Anaemia Control and National Programme for Prevention and Control of Fluorosis are parts of National Nutrition Programme of the Government of India, while National Oral Health Program…
 
-**Logic:** National lodine Deficiency Disorders Control Programme. National Iron Plus Initiative for Anaemia Control and National Programme for Prevention and Control of Fluorosis are parts of National Nutrition Programme of the Government of India, while National Oral Health Programme is a
+**Ans: D.** National lodine Deficiency Disorders Control Programme.
 
 </details>
 
-**Q77. U.P. R.O./A.R.O. (Pre) 2021**
+**Q77. UP RO/ARO (Pre) 2021**
 
 'Shabri Sankalp Abhiyan' is associated with:
 
@@ -6019,9 +5793,9 @@ D. National Nutrition Mission
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** The campaign was started in 2017 in Uttar Pradesh to eradicate malnutrition
 
-**Logic:** Shabri Sankalp Abhiyan is associated with National Nutrition Mission. The campaign was started in 2017 in Uttar Pradesh to eradicate malnutrition
+**Ans: D.** Shabri Sankalp Abhiyan is associated with National Nutrition Mission.
 
 </details>
 
@@ -6036,9 +5810,9 @@ C. 9 to 16 years
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** According to 2011 census data, there are 253 million adolescents in the age group 10-19 years, which comprise litt
 
-**Logic:** Rashtriya Kishor Swasthya Karyakram (RKSK) is a flagship health program by the Government of India aimed at addressing the health needs of adolescents (10-19 years). According to 2011 census data, there are 253 million adolescents in the age group 10-19 years, which comprise litt
+**Ans: D.** Rashtriya Kishor Swasthya Karyakram (RKSK) is a flagship health program by the Government of India aimed at addressing the health needs of adolescents (10-19 years).
 
 </details>
 
@@ -6054,13 +5828,12 @@ D. The Ministry of Women and Child Welfare
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Standard key matches The Ministry of Women and Child Welfare.
 
-**Logic:** Ans. opment Services’ scheme was started in the year : Launch Year National Programme for Control of Blindness
-
+**Ans: D.** The Ministry of Women and Child Welfare
 </details>
 
-**Q80. U.P. R.O./A.R.O. (Pre) 2023**
+**Q80. UP RO/ARO (Pre) 2023**
 
 Match List-I with List-II and select the correct answer from the code given below: List-I List-II (Schemes) (LaunchingYear) A. P.M. Garib Kalyan Package 1.2014 B. Muskan Scheme 2.2020 C. Mission Indradhanush 3.2018 4.2021 D. Pradhan Mantri Jan Arogya Yojana Codes: A B C D
 
@@ -6071,10 +5844,9 @@ C. 2 4 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Hence, the correct chronological order is given in option — 2 4 3
 
-**Logic:** Hence, the correct chronological order is given in option
-
+**Ans: C.** 2 4 3
 </details>
 
 **Q81. I.A.S. (Pre) 2019**
@@ -6088,10 +5860,9 @@ C. NITI Aayog
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes — NITI Aayog
 
-**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes.
-
+**Ans: C.** NITI Aayog
 </details>
 
 **Q82. I.A.S. (Pre) 2016**
@@ -6106,9 +5877,9 @@ D. Developing human capital by allocating special fundsfor health care and educa
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Economic & Social Development The objective of this ef
 
-**Logic:** ‘SWAYAM' (Study Webs of Active-Learning for Young Aspiring Minds) is a programme initiated by the Government of India and designed to achieve the three cardinal principles of Education Policy viz., access, equity and quality. Economic & Social Development The objective of this ef
+**Ans: D.** ‘SWAYAM' (Study Webs of Active-Learning for Young Aspiring Minds) is a programme initiated by the Government of India and designed to achieve the three cardinal principles of Education Policy viz., access, equity and…
 
 </details>
 
@@ -6123,10 +5894,9 @@ C. 15 August, 1990
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes — 1 January, 1991
 
-**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes.
-
+**Ans: B.** 1 January, 1991
 </details>
 
 **Q84. R.A.S./R.T.S.(Pre) 2003**
@@ -6139,10 +5909,9 @@ D. To make everyone literate in the village
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes — To remove poverty by creating employment for everyone in the village
 
-**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes.
-
+**Ans: B.** To remove poverty by creating employment for everyone in the village
 </details>
 
 **Q85. M.P. P.C.S. (Pre) 2022**
@@ -6156,10 +5925,9 @@ D. Ministry of Law and Justice
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** Ministry of Power was associated with 'Saubhagya (PM Sahaj Bijli Har Ghar Yojana) Scheme", which was started in 2017, with the objective of achieving universal household electrification, by providing electricity conne……
 
-**Logic:** Ministry of Power was associated with 'Saubhagya (PM Sahaj Bijli Har Ghar Yojana) Scheme", which was started in 2017, with the objective of achieving universal household electrification, by providing electricity connections to all unelectrified households in rural areas and all p
-
+**Ans: B.** Ministry of Power
 </details>
 
 **Q86. I.A.S. (Pre) 2015**
@@ -6171,9 +5939,9 @@ D. Ministry of Law and Justice
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** The programme was launched on 28 August, 2014 with an aim of ensuring access to financial services to all families of the country and to open bank account to every family.
 
-**Logic:** 'Pradhan Mantri Jan-Dhan Yojana' (PMJDY) is a National Mission for Financial Inclusion. The programme was launched on 28 August, 2014 with an aim of ensuring access to financial services to all families of the country and to open bank account to every family. Total number of PMJD
+**Ans: C.** 'Pradhan Mantri Jan-Dhan Yojana' (PMJDY) is a National Mission for Financial Inclusion.
 
 </details>
 
@@ -6204,10 +5972,9 @@ D. 3 4 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** List-II (Date of Launch — 4 3 2 1
 
-**Logic:** List-II (Date of Launch)
-
+**Ans: B.** 4 3 2 1
 </details>
 
 **Q89. Chhattisgarh P.C.S. (Pre) 2018**
@@ -6236,9 +6003,9 @@ D. All these are true
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Under PAHAL scheme, LPG subsidies are directly deposited into the customers bank accounts.
 
-**Logic:** PAHAL scheme is the world's largest direct benefit (cash) transfer scheme. Under PAHAL scheme, LPG subsidies are directly deposited into the customers bank accounts. It is the first scheme leveraging the power of JAM (Jan Dhan, Aadhar and Mobile)
+**Ans: D.** PAHAL scheme is the world's largest direct benefit (cash) transfer scheme.
 
 </details>
 
@@ -6253,9 +6020,7 @@ C. Only A, C and D
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
-
-**Logic:** Pradhan Mantri Ujjwala Yojana" (PMUY) on 1 May, 2016, from Ballia district in Uttar Pradesh under the leadership of Prime Minister Narendra Modi with an objective to make clean cooking fuel such as LPG available to the rural and depri
+**Ans: D.** Pradhan Mantri Ujjwala Yojana" (PMUY) on 1 May, 2016, from Ballia district in Uttar Pradesh under the leadership of Prime Minister Narendra Modi with an objective to make clean cooking fuel such as LPG available to th…
 
 </details>
 
@@ -6270,9 +6035,9 @@ C. IFAD
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** This programme ensures that poor rural women have a wider range of opportunities and support and strengthens women's self-help groups and provides access to financial services
 
-**Logic:** (IFAD) is giving financial support for Madhya Pradesh's 'Tejaswini Rural Women's Empowerment Programme'. This programme ensures that poor rural women have a wider range of opportunities and support and strengthens women's self-help groups and provides access to financial services
+**Ans: C.** (IFAD) is giving financial support for Madhya Pradesh's 'Tejaswini Rural Women's Empowerment Programme'.
 
 </details>
 
@@ -6288,9 +6053,9 @@ D. Underground Water Management
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** It aims for the development of rural and tribal women of Madhya Pradesh
 
-**Logic:** Panch Dhara Yojana was started by the Madhya Pradesh Government in November, 1991. It aims for the development of rural and tribal women of Madhya Pradesh
+**Ans: B.** Panch Dhara Yojana was started by the Madhya Pradesh Government in November, 1991.
 
 </details>
 
@@ -6305,13 +6070,13 @@ C. Dhan-Lakshmi
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** The scheme aimed at doing away with child marriage by offering parents an attractive insurance cover, and encouraging parents to educate their children as well as covering certain medical expenses for girl child
 
-**Logic:** of India. The scheme aimed at doing away with child marriage by offering parents an attractive insurance cover, and encouraging parents to educate their children as well as covering certain medical expenses for girl child
+**Ans: C.** of India.
 
 </details>
 
-**Q95. U.P. R.O./A.R.O. (Pre) 2014**
+**Q95. UP RO/ARO (Pre) 2014**
 
 Which State has launched ‘Bhagyashree' scheme for girl child?
 
@@ -6322,9 +6087,9 @@ C. Maharashtra
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** It replaced the already running 'Sukanya' scheme in the State
 
-**Logic:** ng below poverty line (BPL). It replaced the already running 'Sukanya' scheme in the State
+**Ans: C.** ng below poverty line (BPL).
 
 </details>
 
@@ -6340,9 +6105,9 @@ E. None of the above/More than one of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** 25,000 for economically stressed families at the time of their adult daughters' marriages.
 
-**Logic:** 'Rupashree Prakalpa' scheme is a initiative of West Bengal State Government that provides a one-time financial grant of Rs. 25,000 for economically stressed families at the time of their adult daughters' marriages. This scheme is in effect |from 1 April, 2018
+**Ans: C.** 'Rupashree Prakalpa' scheme is a initiative of West Bengal State Government that provides a one-time financial grant of Rs.
 
 </details>
 
@@ -6358,9 +6123,9 @@ D. Distribution of free wheat to retain children in schools
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** The main objective of DWCRA was to improve the socio-economic, health and educational status of rural women by providing financial assistance and creating employment opportunitie
 
-**Logic:** Development of Women and Children in Rural Areas (DWCRA) scheme was launched during the year 1982-83. The main objective of DWCRA was to improve the socio-economic, health and educational status of rural women by providing financial assistance and creating employment opportunitie
+**Ans: A.** Development of Women and Children in Rural Areas (DWCRA) scheme was launched during the year 1982-83.
 
 </details>
 
@@ -6376,9 +6141,9 @@ D. Providing skill and training to the women
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** The objective of the scheme is to help women in getting employment or self-employment by providing them training and skills in traditional and non-tradi
 
-**Logic:** Swawlamban Scheme' which earlier known as NORAD assisted Mahila Aarthik Karykram, was launched in 1982-83 in the whole country. The objective of the scheme is to help women in getting employment or self-employment by providing them training and skills in traditional and non-tradi
+**Ans: D.** Swawlamban Scheme' which earlier known as NORAD assisted Mahila Aarthik Karykram, was launched in 1982-83 in the whole country.
 
 </details>
 
@@ -6394,10 +6159,9 @@ D. Swawlamban
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes — Swawlamban
 
-**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes.
-
+**Ans: D.** Swawlamban
 </details>
 
 **Q100. R.A.S./ R.T.S. (Pre) 2021**
@@ -6411,10 +6175,9 @@ C. 18 December, 2016
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Standard key matches 18 December, 2019.
 
-**Logic:** 19. The scheme was announced in the budget 2019-20. Under the scheme, Rs. 1,000 crore Mahila Shakti Nidhi was formed. The fund was used for activities related to setting up of enterprises for women, assistance for modern researc
-
+**Ans: A.** 18 December, 2019
 </details>
 
 **Q101. Mixed / State PCS**
@@ -6428,10 +6191,7 @@ D. National Posahar Mission Plan 2003
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
-
-**Logic:** U.P. R.O.JA.R.O. (Pre) 2021 The 'Mahila Samridhi Yojana' was introduced on 2 October 1993 as a micro-finance policy to uplift rural women and women belonging to financially deficient sections The 'Mahila Swa-shakti Project' (Women Self-Empower. ment Plan), as known as Rural Women
-
+**Ans: C.** U.P.
 </details>
 
 **Q102. R.A.S./R.T.S. (Pre) 2023**
@@ -6446,10 +6206,9 @@ D. Palanhar Yojana
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Economic & Social Development Pradhan Mantri Matru Vandana Yojana (PMMVY) is the renamed and revamped version of Indira Gandhi Matritva Sahyog Yojana under which government provides conditional financial aid through D……
 
-**Logic:** Economic & Social Development Pradhan Mantri Matru Vandana Yojana (PMMVY) is the renamed and revamped version of Indira Gandhi Matritva Sahyog Yojana under which government provides conditional financial aid through DBT to the pregnant and lactating mothers for the first live bir
-
+**Ans: A.** Pradhan Mantri Matru Vandana Yojana
 </details>
 
 **Q103. Mixed / State PCS**
@@ -6464,13 +6223,13 @@ D. Ministry of AYUSH
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** The goal of th
 
-**Logic:** MAA’ (Mother's Absolute Affection) is a nationwide programme of the Ministry of Health and Family Welfare in an attempt to bring undiluted focus on promotion of breastfeeding and provision of counselling services for supporting breastfeeding through health systems. The goal of th
+**Ans: B.** MAA’ (Mother's Absolute Affection) is a nationwide programme of the Ministry of Health and Family Welfare in an attempt to bring undiluted focus on promotion of breastfeeding and provision of counselling services for…
 
 </details>
 
-**Q104. U.P. Lower Sub. (Mains) 2013**
+**Q104. UP Lower Sub (Mains) 2013**
 
 Which of the following is not an income generating program for women?
 
@@ -6482,10 +6241,9 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** Integrated Rural Energy Programme (IREP), was implemented to provide for minimum domestic energy need for cooking, heating and lighting purposes to rural people in selected village clusters in each district, with focu……
 
-**Logic:** Integrated Rural Energy Programme (IREP), was implemented to provide for minimum domestic energy need for cooking, heating and lighting purposes to rural people in selected village clusters in each district, with focus on renewable energy, while Integrated Rural Development Progr
-
+**Ans: B.** Integrated Rural Energy Programme
 </details>
 
 **Q105. Uttarakhand P.C.S. (Pre) 2025**
@@ -6499,9 +6257,9 @@ D. Deendayal Upadhayay Grameen Kaushalya Yojana
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** This programme focuses on the socioeconomic development of villages located in blocks abutting inter
 
-**Logic:** In April 2025, the Union Cabinet approved the Vibrant Villages Programme-II (VVP-II) for the comprehensive development of border villages and for improving their living standards. This programme focuses on the socioeconomic development of villages located in blocks abutting inter
+**Ans: B.** In April 2025, the Union Cabinet approved the Vibrant Villages Programme-II (VVP-II) for the comprehensive development of border villages and for improving their living standards.
 
 </details>
 
@@ -6516,9 +6274,9 @@ D. More than one of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** (Pre) 2025 The National Urban Innovation Stack (NUIS) is a strategic initiative of the Ministry of Housing and Urban Affairs (MoHUA) aimed at creating shared digital infrastructure for urban governance and innovation.
 
-**Logic:** 71d B.P.S.C. (Pre) 2025 The National Urban Innovation Stack (NUIS) is a strategic initiative of the Ministry of Housing and Urban Affairs (MoHUA) aimed at creating shared digital infrastructure for urban governance and innovation. The NUIS digital blueprint has been jointly devel
+**Ans: B.** 71d B.P.S.C.
 
 </details>
 
@@ -6532,10 +6290,7 @@ B. Bihar
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
-
-**Logic:** o Above Poverty Line (APL) families at the rate of Rs. 4 and Rs. 6 per kg respectively and to Below Poverty Line (BPL) families at the rate of Rs. 2 and Rs. 3 per kg respectively
-
+**Ans: C.** o Above Poverty Line (APL) families at the rate of Rs.
 </details>
 
 **Q108. Uttarakhand U.D.A./L.D.A. (Mains) 2007**
@@ -6549,13 +6304,10 @@ C. Kerala
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
-
-**Logic:** Tamil Nadu introduced the scheme 'One kg rice for rupee one' in 2008, the first of its kind in the country. Later on. Madhya Pradesh, Odisha, Andhra Pradesh etc. also started the similar schemes. Ans. e benefits available to them under the law?
-
+**Ans: D.** Tamil Nadu introduced the scheme 'One kg rice for rupee one' in 2008, the first of its kind in the country.
 </details>
 
-**Q109. U.P. R.O./A.R.O. (Pre) 2021**
+**Q109. UP RO/ARO (Pre) 2021**
 
 The main objective of 'Sangam Yojana' is:
 
@@ -6567,10 +6319,9 @@ D. To enhance national integrity
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes — To increase welfare of handicapped person
 
-**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes.
-
+**Ans: A.** To increase welfare of handicapped person
 </details>
 
 **Q110. M.P.P.C.S. (Pre) 2016**
@@ -6585,10 +6336,9 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes — both
 
-**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes.
-
+**Ans: C.** both
 </details>
 
 **Q111. U.P. U.D.A./L.D.A. (Pre) 2002**
@@ -6601,13 +6351,12 @@ C. Dang Area Development Programme
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes — Ans
 
-**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes.
-
+**Ans: A.** Ans
 </details>
 
-**Q112. U.P. R.O./A.R.O. (Pre) (Re-Exam) 2023**
+**Q112. UP RO/ARO (Pre) (Re-Exam) 2023**
 
 Which one of the following is a correct match?
 
@@ -6618,9 +6367,9 @@ D. Etawah Pilot Project
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** This project was started under the guidance of Lt.
 
-**Logic:** - Albert Myre KIS The Etawah Pilot Project was conceptualised in the year 1947, but it was started in September, 1948. This project was started under the guidance of Lt. Col. Albert Mayer. Therefore, option
+**Ans: D.** Albert Myre KIS The Etawah Pilot Project was conceptualised in the year 1947, but it was started in September, 1948.
 
 </details>
 
@@ -6635,9 +6384,9 @@ C. Kerala
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** The scheme was intended to provide productive employment to the rural population and thereby solve the problem ofrural poverty
 
-**Logic:** economy, an Employment Guarantee Scheme was sanctioned under Government Resolution dated 28 March, 1972. The scheme was intended to provide productive employment to the rural population and thereby solve the problem ofrural poverty
+**Ans: D.** economy, an Employment Guarantee Scheme was sanctioned under Government Resolution dated 28 March, 1972.
 
 </details>
 
@@ -6650,9 +6399,9 @@ The Employment Assurance Scheme envisages financial assistance to rural areas fo
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Later, the scheme was extended to the remaining blocks of the country in phased manner.
 
-**Logic:** Employment Assurance Schemes (EAS) was launched on 2nd October, 1993 for implementation in 1778 identified backward blocks of different States. Later, the scheme was extended to the remaining blocks of the country in phased manner. The EAS would be open to all adult rural poor wh
+**Ans: C.** Employment Assurance Schemes (EAS) was launched on 2nd October, 1993 for implementation in 1778 identified backward blocks of different States.
 
 </details>
 
@@ -6667,10 +6416,9 @@ C. JRY
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** CRY (Child — keyed as CRY.
 
-**Logic:** TRYSEM (Training of Rural Youth for Self-Employment) aimed at providing basic technical and entrepreneurial skill training to the rural poor, while JRY (Jawahar Rojgar Yojana) and IRDP (Integrated Rural Development Programme) schemes were related to rural development. CRY (Child 
-
+**Ans: B.** TRYSEM (Training of Rural Youth for Self-Employment) aimed at providing basic technical and entrepreneurial skill training to the rural poor, while JRY (Jawahar Rojgar Yojana) and IRDP (Integrated Rural Development Pr…
 </details>
 
 **Q116. Chhattisgarh P.C.S. (Pre) 2014**
@@ -6685,9 +6433,9 @@ E. None of these
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** RLEGP (Rural Landless Employment Guarantee Programme), IRDP (Integrated Rural Development Programme) and
 
-**Logic:** (Monopolies and Restrictive Trade Practices) Act was enacted in 1969 to provide for the control of monopolies and to prohibit monopolistic and restrictive trade practices. RLEGP (Rural Landless Employment Guarantee Programme), IRDP (Integrated Rural Development Programme) and
+**Ans: D.** (Monopolies and Restrictive Trade Practices) Act was enacted in 1969 to provide for the control of monopolies and to prohibit monopolistic and restrictive trade practices.
 
 </details>
 
@@ -6700,9 +6448,7 @@ Which one of the following is true regarding the Jawahar Rozgar Yojana (JRY)?
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
-
-**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes.
+**Ans: D.** Standard key from Ghatnachakra Employment & Welfare Schemes.
 
 </details>
 
@@ -6716,10 +6462,9 @@ B. i, iv, iii, ii
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** (IRDP) – 1978-79 Rural Landless Employment Guarantee Programme (RLEGP) - 1983 Prime Minister's Rozgar Yojana (PMRY) – 1993 Rural Employment Generation Programme (REGP) – 1995 Hence, option — i, iv, iii, ii
 
-**Logic:** (IRDP) – 1978-79 Rural Landless Employment Guarantee Programme (RLEGP) - 1983 Prime Minister's Rozgar Yojana (PMRY) – 1993 Rural Employment Generation Programme (REGP) – 1995 Hence, option
-
+**Ans: B.** i, iv, iii, ii
 </details>
 
 **Q119. R.A.S./R.T.S. (Pre) 1992**
@@ -6733,9 +6478,7 @@ D. Training rural youths for self-employment
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes.
+**Ans: B.** Standard key from Ghatnachakra Employment & Welfare Schemes.
 
 </details>
 
@@ -6750,9 +6493,9 @@ C. III, I, II, IV
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** 1952) It was a multi-project programme with the aim of an overall development of rural people.
 
-**Logic:** (Pre) 2021 The community development programme was started in India, just after independence (in October. 1952) It was a multi-project programme with the aim of an overall development of rural people. In 1957, Balwant Rai Mehta Committee recommended for 'Democratic Decentralizati
+**Ans: C.** (Pre) 2021 The community development programme was started in India, just after independence (in October.
 
 </details>
 
@@ -6767,9 +6510,7 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** National Rural Livelihood Mission (Now DAY-NRLM) aims at creating efficient institutional platforms of the rural poor by strengthening self-help groups (SHGs) and providing skill development to enable them to increase household income through sustainable livelihood enhancements a
+**Ans: B.** National Rural Livelihood Mission (Now DAY-NRLM) aims at creating efficient institutional platforms of the rural poor by strengthening self-help groups (SHGs) and providing skill development to enable them to increase…
 
 </details>
 
@@ -6785,10 +6526,9 @@ D. is the correct answer
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Standard key matches l and 2.
 
-**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes (livelihood / MGNREGA / social security / sanitation).
-
+**Ans: A.** l and 2
 </details>
 
 **Q123. I.A.S. (Pre) 2016**
@@ -6802,9 +6542,9 @@ C. 1 and 3 only
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** It is a minimum guaranteed scheme mainly targeted at unorganized sector workers.
 
-**Logic:** (APY) was launched on 9 May, 2015 to create a universal social security system for all Indians, especially the poor, the underprivileged and the workers in the unorganized sector. It is a minimum guaranteed scheme mainly targeted at unorganized sector workers. Under the APY, the 
+**Ans: C.** (APY) was launched on 9 May, 2015 to create a universal social security system for all Indians, especially the poor, the underprivileged and the workers in the unorganized sector.
 
 </details>
 
@@ -6818,10 +6558,9 @@ C. 1 and 3 only
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes (livelihood / MGNREGA / social security / sanitation) — 1 and 3 only
 
-**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes (livelihood / MGNREGA / social security / sanitation).
-
+**Ans: C.** 1 and 3 only
 </details>
 
 **Q125. I.A.S. (Pre) 2024**
@@ -6835,9 +6574,9 @@ C. 1 and 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** It is not an agency of the United Nations.
 
-**Logic:** (WTO) is a global non-profit committed to improving toilet and sanitation conditions worldwide. It is not an agency of the United Nations. World Toilet Organization was granted consultative status with the United Nations Economic and Social Council in 2013. Hence, statement 1 is 
+**Ans: A.** (WTO) is a global non-profit committed to improving toilet and sanitation conditions worldwide.
 
 </details>
 
@@ -6852,9 +6591,9 @@ C. 2 only
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** 15000 or less.
 
-**Logic:** (PM-SYM) is a voluntary and contributory Pension Scheme for Unorganized Workers at the entry age of 18 to 40 years with a maximum monthly income of Rs. 15000 or less. The applicants between the age group of 18 to 40 years will have to make monthly contributions ranging between Rs
+**Ans: B.** (PM-SYM) is a voluntary and contributory Pension Scheme for Unorganized Workers at the entry age of 18 to 40 years with a maximum monthly income of Rs.
 
 </details>
 
@@ -6870,9 +6609,9 @@ D. 1, 2, 3 and 4
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** The Employees' State Insurance (ESI) Scheme is an integrated measure of Social Insurance embodied in the Employees' State Insurance Act and it is designed to accomplish the task of protecting 'employees' as defined in
 
-**Logic:** | Suraksha Bima Yojana (PMSBY) with effect from 1 June, 2017. The Employees' State Insurance (ESI) Scheme is an integrated measure of Social Insurance embodied in the Employees' State Insurance Act and it is designed to accomplish the task of protecting 'employees' as defined in 
+**Ans: D.** | Suraksha Bima Yojana (PMSBY) with effect from 1 June, 2017.
 
 </details>
 
@@ -6888,10 +6627,9 @@ D. Prime Minister's Rojgar Yojana
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** The N — keyed as Nehru Rojgar Yojana.
 
-**Logic:** In order to alleviate the conditions of urban poor, a Centrally sponsored programme - Nehru Rojgar Yojana (NRY) was launched at the end of the Seventh Five Year Plan (October, 1989), with the objective of providing employment to the, urban unemployed and underemployed poor. The N
-
+**Ans: B.** In order to alleviate the conditions of urban poor, a Centrally sponsored programme - Nehru Rojgar Yojana (NRY) was launched at the end of the Seventh Five Year Plan (October, 1989), with the objective of providing em…
 </details>
 
 **Q129. Mixed / State PCS**
@@ -6905,10 +6643,9 @@ D. Prime Minister's Rozgar Yojana
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes (livelihood / MGNREGA / social security / sanitation) — Prime Minister's Rozgar Yojana
 
-**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes (livelihood / MGNREGA / social security / sanitation).
-
+**Ans: D.** Prime Minister's Rozgar Yojana
 </details>
 
 **Q130. Uttarakhand P.C.S. (Pre) 2012**
@@ -6920,9 +6657,7 @@ The National Rural Employment Guarantee Scheme was launched throughout the count
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
-
-**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes (livelihood / MGNREGA / social security / sanitation).
+**Ans: C.** Standard key from Ghatnachakra Employment & Welfare Schemes (livelihood / MGNREGA / social security / sanitation).
 
 </details>
 
@@ -6941,7 +6676,7 @@ E. None of the above/More than one of the above
 
 **Ans: E.**
 
-**Logic:** The Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) aimed at enhancing the livelihood security of people in rural areas by guaranteeing at least hundred days of wage-employment in a financial year to every rural household whose adult members volunteer to do unski
+**Logic:** The Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) aimed at enhancing the livelihood security of people in rural areas by guaranteeing at least hundred days of wage-employment in a financial year to…
 
 </details>
 
@@ -6955,13 +6690,13 @@ D. The guarantee of 0.274 year employmentduring a year is possibly the most impo
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** In response to the corruption problem and to ensure those who need it, a number of transparency and accountability measures have been built in to NREGA, making the NREGA one of India's most unique experiment
 
-**Logic:** Except the statement of option ountability. In response to the corruption problem and to ensure those who need it, a number of transparency and accountability measures have been built in to NREGA, making the NREGA one of India's most unique experiment
+**Ans: B.** Except the statement of option ountability.
 
 </details>
 
-**Q133. U.P. R.O./A.R.O. (Re-Exam) (Pre) 2016**
+**Q133. UP RO/ARO (Re-Exam) (Pre) 2016**
 
 In recently announced Central Budget 2020-21, in which among the following budget allocation has been decreased in comparison to Budget 2019-20?
 
@@ -6973,10 +6708,9 @@ D. National Ganga Cleaning Scheme
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** Scheme 2019-20 (B.E.) 2020-21 2025-26 2025-26 (B.E.) (B.E.) (R.E.) 2026-27 (B.E.) MGNREGA 60000 61500 86000 88000 80000 PMJAY-Ayushman Bharat 6556 6429 9406 9000 9500 Mid-day Meal Scheme 11000 11000 12500 10600 12750… —…
 
-**Logic:** Scheme 2019-20 (B.E.) 2020-21 2025-26 2025-26 (B.E.) (B.E.) (R.E.) 2026-27 (B.E.) MGNREGA 60000 61500 86000 88000 80000 PMJAY-Ayushman Bharat 6556 6429 9406 9000 9500 Mid-day Meal Scheme* 11000 11000 12500 10600 12750 National Ganga Plan 750 800 3400 2687 3100 (Cleaning Scheme) *
-
+**Ans: B.** Ayushman
 </details>
 
 **Q134. R.A.S./R.T.S. (Pre) 2023**
@@ -6988,9 +6722,9 @@ Consider the following statements regarding Indira Gandhi Urban Employment Guara
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** It guaranteed per year 100 days (which was increased to 125 days in 2023) of employment fo
 
-**Logic:** The Indira Gandhi Urban Employment Guarantee Scheme was rolled out in Rajasthan in 2022 with the objective of providing economic support to the poor and needy families living in the cities. It guaranteed per year 100 days (which was increased to 125 days in 2023) of employment fo
+**Ans: D.** The Indira Gandhi Urban Employment Guarantee Scheme was rolled out in Rajasthan in 2022 with the objective of providing economic support to the poor and needy families living in the cities.
 
 </details>
 
@@ -7005,9 +6739,9 @@ D. Integrated Development Programme
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** The United Nations defines community development as "a process where community members come together to take collective action and generate solutions to common problems".
 
-**Logic:** The above passage is related to the Community Development. The United Nations defines community development as "a process where community members come together to take collective action and generate solutions to common problems". In the year 1952 the Community Development Program
+**Ans: B.** The above passage is related to the Community Development.
 
 </details>
 
@@ -7026,7 +6760,7 @@ E. None of the above/More than one of the above
 
 **Ans: E.**
 
-**Logic:** The Community Development Programme was started in India on 2 October, 1952. It was a multi-purpose programme with the aim of an overall development of rural people. This programme consisted of improving agriculture, animal husbandry, irrigation, cooperation, public wealth, educa
+**Logic:** The Community Development Programme was started in India on 2 October, 1952.
 
 </details>
 
@@ -7061,9 +6795,9 @@ E. None of the above / More than one of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** It was formed after the Indian government realized that the Community Development Programme, which was started in 1952, cannot be implemented all over India due to a shortage of funds.
 
-**Logic:** The National Extension Service (NES) programme was launched in 1953. It was formed after the Indian government realized that the Community Development Programme, which was started in 1952, cannot be implemented all over India due to a shortage of funds. The NES programme was laun
+**Ans: A.** The National Extension Service (NES) programme was launched in 1953.
 
 </details>
 
@@ -7078,9 +6812,7 @@ D. More than one of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** Among the given options, National Extension Service (NES) was established as the first programme of community development which was launched in 1953
+**Ans: B.** Among the given options, National Extension Service (NES) was established as the first programme of community development which was launched in 1953
 
 </details>
 
@@ -7094,9 +6826,9 @@ B. Persons of age from 21 to 55 only
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Any citizen of India (whether resident or non-resident) and overseas citizen of India (OCI) between the age of 18-70 years can join NPS.
 
-**Logic:** The National Pension System (NPS) is a voluntary defined contributory pension system in India. Any citizen of India (whether resident or non-resident) and overseas citizen of India (OCI) between the age of 18-70 years can join NPS. NPS is applicable to all Central Government empl
+**Ans: C.** The National Pension System (NPS) is a voluntary defined contributory pension system in India.
 
 </details>
 
@@ -7111,9 +6843,7 @@ E. None of the above / More than one of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
-
-**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes (livelihood / MGNREGA / social security / sanitation).
+**Ans: A.** Standard key from Ghatnachakra Employment & Welfare Schemes (livelihood / MGNREGA / social security / sanitation).
 
 </details>
 
@@ -7128,9 +6858,9 @@ C. 26 January, 2020
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** The scheme is meant for old age protection and social security of small and marginal farmers.
 
-**Logic:** Jharkhand. The scheme is meant for old age protection and social security of small and marginal farmers. Under this scheme, the farmers would receive a minimum assured pension of Rs. 3000/- per month after attaining the age of
+**Ans: B.** Jharkhand.
 
 </details>
 
@@ -7146,9 +6876,9 @@ D. Rs. 1,500
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** It is a voluntary and contributory pension scheme, under which each subscriber shall receive min
 
-**Logic:** Government of India has introduced a pension scheme in 2019 for unorganized sector workers namely 'Pradhan Mantri Shram Yogi Maan-dhan' (PM-SYM) to ensure old age protection for them. It is a voluntary and contributory pension scheme, under which each subscriber shall receive min
+**Ans: C.** Government of India has introduced a pension scheme in 2019 for unorganized sector workers namely 'Pradhan Mantri Shram Yogi Maan-dhan' (PM-SYM) to ensure old age protection for them.
 
 </details>
 
@@ -7162,9 +6892,9 @@ C. employment to the unemployed
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** This scheme offers insurance cover to workers in case they get unemployed due to any reason and offers them financial security.
 
-**Logic:** Ashraya Bima Yojana was launched by the Government of India in 2001 and has been in effect since then. This scheme offers insurance cover to workers in case they get unemployed due to any reason and offers them financial security. A compensation of maximum 30% of the salary earne
+**Ans: D.** Ashraya Bima Yojana was launched by the Government of India in 2001 and has been in effect since then.
 
 </details>
 
@@ -7180,10 +6910,9 @@ D. 2 October, 2007
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes (livelihood / MGNREGA / social security / sanitation) — 2 October, 2007
 
-**Logic:** Standard key from Ghatnachakra Employment & Welfare Schemes (livelihood / MGNREGA / social security / sanitation).
-
+**Ans: D.** 2 October, 2007
 </details>
 
 **Q146. U.P. U.D.A./L.D.A. (Pre) 2013**
@@ -7196,9 +6925,7 @@ D. Unorganised Workers' Social Security Act
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
-
-**Logic:** Aam Aadmi Bima Yojana, National Health Insurance Scheme and the Unorganised Workers' Social Security Act, 2008 are programmes for social security, while Swarnajayanti Shahari Rozgar Yojana is an employment generation programme
+**Ans: C.** Aam Aadmi Bima Yojana, National Health Insurance Scheme and the Unorganised Workers' Social Security Act, 2008 are programmes for social security, while Swarnajayanti Shahari Rozgar Yojana is an employment generation…
 
 </details>
 
@@ -7231,9 +6958,9 @@ C. Blue Economy
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** SHS campaign was celebrated from 17th September to 2nd October in year 2024 and 2025
 
-**Logic:** (SHS) 2018, a massive countrywide awareness and mobilization campaign on 15th September, 2018. SHS campaign was celebrated from 17th September to 2nd October in year 2024 and 2025
+**Ans: D.** (SHS) 2018, a massive countrywide awareness and mobilization campaign on 15th September, 2018.
 
 </details>
 
@@ -7251,11 +6978,11 @@ E. None of the above
 
 **Ans: E.**
 
-**Logic:** e-free city,while Surat, Bhopal, Navi Mumbai, Mysuru, Vishakhapatnam and Tirupati earned 5-star garbage-free certification. Hence, option
+**Logic:** e-free city,while Surat, Bhopal, Navi Mumbai, Mysuru, Vishakhapatnam and Tirupati earned 5-star garbage-free certification.
 
 </details>
 
-**Q150. U.P. R.O./A.R.O. (Mains) 2021**
+**Q150. UP RO/ARO (Mains) 2021**
 
 Which one of following city was not among the top three cleanest cities in more than one lakh population category in Swachh Survekshan 2021?
 
@@ -7266,9 +6993,9 @@ C. Tirupati
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** In Swachh Survekshan 2023, Indore and Surat were jointly awarded the title of India's Cleanest City, while Navi Mumbai bagged the third spot in
 
-**Logic:** bagged the second and third spots, respectively in 'more than 1 lakh population' category. In Swachh Survekshan 2023, Indore and Surat were jointly awarded the title of India's Cleanest City, while Navi Mumbai bagged the third spot in
+**Ans: C.** bagged the second and third spots, respectively in 'more than 1 lakh population' category.
 
 </details>
 
@@ -7283,10 +7010,9 @@ C. Sixth
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** (in larger States) are as follows: — Sixth
 
-**Logic:** (in larger States) are as follows:
-
+**Ans: C.** Sixth
 </details>
 
 **Q152. Jharkhand P.C.S. (Pre) 2016**
@@ -7299,13 +7025,13 @@ C. Kerala
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Therefore, both Assertion (R) are true but (R) is not the correct explanation of
 
-**Logic:** E ural areas, socio-cultural norms about purity and pollution prevented people from having toilets at the home. Therefore, both Assertion (R) are true but (R) is not the correct explanation of
+**Ans: D.** E ural areas, socio-cultural norms about purity and pollution prevented people from having toilets at the home.
 
 </details>
 
-**Q153. U.P. R.O./A.R.O. (Mains) 2021**
+**Q153. UP RO/ARO (Mains) 2021**
 
 Following are two statements, one is labelled as Assertion
 
@@ -7315,9 +7041,9 @@ B. Both
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** Uttar Pradesh has secured 9th rank in Swachh Survekshan, 2023.
 
-**Logic:** Uttar Pradesh was at sixth place in the category of 'more than 100 Urban Local Bodies (ULBs)’ in Swachh Survekshan, 2021. Uttar Pradesh has secured 9th rank in Swachh Survekshan, 2023. In 2023, Maharashtra emerged as the 'Cleanest State' with rank 1, while Madhya Pradesh and Chha
+**Ans: B.** Uttar Pradesh was at sixth place in the category of 'more than 100 Urban Local Bodies (ULBs)’ in Swachh Survekshan, 2021.
 
 </details>
 
@@ -7335,10 +7061,9 @@ D. 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** WTO is a global NGO (ECOSOC consultative status), not a UN agency; Day/Summit/College are its initiatives; fund-granting is not its main focus — 2 only
 
-**Logic:** WTO is a global NGO (ECOSOC consultative status), not a UN agency; Day/Summit/College are its initiatives; fund-granting is not its main focus.
-
+**Ans: A.** 2 only
 </details>
 
 **Q155. I.A.S. (Pre) 2021**
@@ -7353,10 +7078,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** WaterCredit is a Water.org initiative — microfinance for watsan and less subsidy dependence; not WHO/World Bank — 1 and 3 only
 
-**Logic:** WaterCredit is a Water.org initiative — microfinance for watsan and less subsidy dependence; not WHO/World Bank.
-
+**Ans: C.** 1 and 3 only
 </details>
 
 **Q156. I.A.S. (Pre) 2008**
@@ -7371,9 +7095,9 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** 300 Central figure as not the live lock.
 
-**Logic:** Age cut-off moved to 60 from 2011; the keyed present reading treats statement 1 as correct and the fixed Rs. 300 Central figure as not the live lock.
+**Ans: A.** Age cut-off moved to 60 from 2011; the keyed present reading treats statement 1 as correct and the fixed Rs.
 
 </details>
 
@@ -7389,10 +7113,9 @@ D. Tribal Population
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** MNP (Fifth Plan) builds a basic-services network for community needs across areas — investment in human resources — Rural-Urban Population
 
-**Logic:** MNP (Fifth Plan) builds a basic-services network for community needs across areas — investment in human resources.
-
+**Ans: C.** Rural-Urban Population
 </details>
 
 **Q158. U.P. U.D.A./L.D.A. (Pre) 2013**
@@ -7407,10 +7130,9 @@ D. Improvement of urban slums
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** Social forestry is the odd one out of the classic MNP heads — Social Forestry
 
-**Logic:** Social forestry is the odd one out of the classic MNP heads.
-
+**Ans: B.** Social Forestry
 </details>
 
 **Q159. 69th B.P.S.C. (Pre) 2023**
@@ -7425,10 +7147,9 @@ D. 1 and 4
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** SVAMITVA is under Panchayati Raj; CORS = Continuous Operating Referencing System — statements 1 and 3 are wrong — 1 and 3
 
-**Logic:** SVAMITVA is under Panchayati Raj; CORS = Continuous Operating Referencing System — statements 1 and 3 are wrong.
-
+**Ans: B.** 1 and 3
 </details>
 
 **Q160. I.A.S. (Pre) 2024**
@@ -7443,10 +7164,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** DILRMP is Central Sector with 100% Central funding; digitises cadastral maps; supports RoR transliteration — 1, 2 and 3
 
-**Logic:** DILRMP is Central Sector with 100% Central funding; digitises cadastral maps; supports RoR transliteration.
-
+**Ans: D.** 1, 2 and 3
 </details>
 
 **Q161. R.A.S./R.T.S. (Pre) (Re-Exam) 2013**
@@ -7461,10 +7181,9 @@ D. 2022
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** PMAY (June 2015) originally aimed at Housing for All by 2022 — 2022
 
-**Logic:** PMAY (June 2015) originally aimed at Housing for All by 2022.
-
+**Ans: D.** 2022
 </details>
 
 **Q162. R.A.S./R.T.S. (Pre) 2012**
@@ -7479,10 +7198,9 @@ D. slum free India
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** RAY (2011) targeted a slum-free India; later succeeded by PMAY-Urban — slum free India
 
-**Logic:** RAY (2011) targeted a slum-free India; later succeeded by PMAY-Urban.
-
+**Ans: D.** slum free India
 </details>
 
 **Q163. M.P.P.C.S. (Pre) 2024**
@@ -7497,10 +7215,9 @@ D. Beti Bachao Beti Padhao and Sukanya Samriddhi Yojana
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Samagra Shiksha merges SSA + RMSA + Teacher Education — SSA, RMSA and Teacher Education (TE)
 
-**Logic:** Samagra Shiksha merges SSA + RMSA + Teacher Education.
-
+**Ans: C.** SSA, RMSA and Teacher Education (TE)
 </details>
 
 **Q164. M.P. P.C.S. (Pre) 2021**
@@ -7515,10 +7232,9 @@ D. 2000
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** NP-NSPE / Mid-day Meal launched 15 August 1995 — 1995
 
-**Logic:** NP-NSPE / Mid-day Meal launched 15 August 1995.
-
+**Ans: C.** 1995
 </details>
 
 **Q165. I.A.S. (Pre) 2020**
@@ -7533,10 +7249,9 @@ D. 1, 2 and 4 only
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** MPLADS funds are non-lapsable — statement 3 is false — 1, 2 and 4 only
 
-**Logic:** MPLADS funds are non-lapsable — statement 3 is false.
-
+**Ans: D.** 1, 2 and 4 only
 </details>
 
 **Q166. M.P.P.C.S. (Pre) 2015**
@@ -7551,10 +7266,9 @@ D. Saansad Adarsh Gram Yojana
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** SAGY launched 11 October 2014 on JP Narayan’s birth anniversary — Saansad Adarsh Gram Yojana
 
-**Logic:** SAGY launched 11 October 2014 on JP Narayan’s birth anniversary.
-
+**Ans: D.** Saansad Adarsh Gram Yojana
 </details>
 
 **Q167. 64th B.P.S.C. (Pre) 2018**
@@ -7570,9 +7284,9 @@ E. None of the above/More than one of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Abdul Kalam.
 
-**Logic:** PURA was advocated by Dr A.P.J. Abdul Kalam.
+**Ans: A.** PURA was advocated by Dr A.P.J.
 
 </details>
 
@@ -7588,10 +7302,9 @@ D. II and III only
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** Higher Gini means higher inequality — statement II is false — I and III only
 
-**Logic:** Higher Gini means higher inequality — statement II is false.
-
+**Ans: B.** I and III only
 </details>
 
 **Q169. Jharkhand P.C.S. (Pre) 2016**
@@ -7606,10 +7319,9 @@ D. All of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** Cyclical/cyclic poverty is temporary shuffling between poor and non-poor — Who continuously shuffle between being poor and non-poor
 
-**Logic:** Cyclical/cyclic poverty is temporary shuffling between poor and non-poor.
-
+**Ans: B.** Who continuously shuffle between being poor and non-poor
 </details>
 
 **Q170. I.A.S. (Pre) 2019**
@@ -7624,14 +7336,12 @@ D. Quality of public distribution varies from State to State
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** Inter-state price differentials raise or lower the rupee poverty line — Price levels vary from State to State
 
-**Logic:** Inter-state price differentials raise or lower the rupee poverty line.
-
+**Ans: B.** Price levels vary from State to State
 </details>
 
 ---
-
 
 ### Ghatnachakra Purvalokan — Demography and Census
 
@@ -7647,10 +7357,9 @@ D. 2, 1, 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** High-high → high-low → low-low — 1, 3, 2
 
-**Logic:** High-high → high-low → low-low.
-
+**Ans: B.** 1, 3, 2
 </details>
 
 **Q172. I.A.S. (Pre) 2012**
@@ -7665,13 +7374,12 @@ D. 3, 2, 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Stage order 2 → 3 → 1 — 2, 3, 1
 
-**Logic:** Stage order 2 → 3 → 1.
-
+**Ans: C.** 2, 3, 1
 </details>
 
-**Q173. U.P. R.O./A.R.O. (Pre) 2016**
+**Q173. UP RO/ARO (Pre) 2016**
 
 A gradual change in the manner of population growth occurring over a long period of time is known as:
 
@@ -7683,13 +7391,12 @@ D. Demographic transformation
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Long-period shift in growth pattern = demographic transition — Demographic transition
 
-**Logic:** Long-period shift in growth pattern = demographic transition.
-
+**Ans: A.** Demographic transition
 </details>
 
-**Q174. U.P. R.O./A.R.O. (Mains) 2014**
+**Q174. UP RO/ARO (Mains) 2014**
 
 Select one of the following set of processes leading to stable population structure:
 
@@ -7701,10 +7408,9 @@ D. Constant birth rate and decreasing death rate
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Stable structure keys controlled constant birth and death rates — Constant birth and death rate
 
-**Logic:** Stable structure keys controlled constant birth and death rates.
-
+**Ans: C.** Constant birth and death rate
 </details>
 
 **Q175. M.P. P.C.S. (Pre) 1997**
@@ -7719,13 +7425,12 @@ D. Increase in birth rate
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Death-rate fall with persistently high birth rate drives mid-transition growth — Reduction in death rate
 
-**Logic:** Death-rate fall with persistently high birth rate drives mid-transition growth.
-
+**Ans: A.** Reduction in death rate
 </details>
 
-**Q176. U.P. R.O./A.R.O. (Pre) 2017**
+**Q176. UP RO/ARO (Pre) 2017**
 
 According to Malthus, which one of the following is the most effective measure of population control?
 
@@ -7737,10 +7442,9 @@ D. Vices
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Malthus preferred preventive checks / moral restraint / birth control — Birth control
 
-**Logic:** Malthus preferred preventive checks / moral restraint / birth control.
-
+**Ans: C.** Birth control
 </details>
 
 **Q177. M.P.P.C.S. (Pre) 2017**
@@ -7755,13 +7459,12 @@ D. 1891
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** First synchronous / regular Census = 1881 — 1881
 
-**Logic:** First synchronous / regular Census = 1881.
-
+**Ans: C.** 1881
 </details>
 
-**Q178. U.P. R.O./A.R.O. (Pre) 2023**
+**Q178. UP RO/ARO (Pre) 2023**
 
 The first Census in India during the British period was held in the tenure of:
 
@@ -7773,13 +7476,12 @@ D. Lord Ripon
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** First modern Census effort (~1872) under Lord Mayo; 1881 sync under Ripon — Lord Mayo
 
-**Logic:** First modern Census effort (~1872) under Lord Mayo; 1881 sync under Ripon.
-
+**Ans: C.** Lord Mayo
 </details>
 
-**Q179. U.P. R.O./A.R.O. (Pre) 2016**
+**Q179. UP RO/ARO (Pre) 2016**
 
 Assertion (A): The Census of India is carried out every 10 years. Reason (R): The population of India has largely remained unchanged over the period of ten years.
 
@@ -7791,13 +7493,12 @@ D. (A) is false, but (R) is true
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**A/R logic:** Decennial Census is true; population has not remained unchanged.
 
-**Logic:** Decennial Census is true; population has not remained unchanged.
-
+**Ans: C.** (A) is true, but (R) is false
 </details>
 
-**Q180. U.P. R.O./A.R.O. (Pre) 2016**
+**Q180. UP RO/ARO (Pre) 2016**
 
 Which among the following was used as the motto for Census of India 2011?
 
@@ -7809,10 +7510,9 @@ D. Our Census, Our Future
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Census 2011 motto = Our Census, Our Future — Our Census, Our Future
 
-**Logic:** Census 2011 motto = Our Census, Our Future.
-
+**Ans: D.** Our Census, Our Future
 </details>
 
 **Q181. I.A.S. (Pre) 2002**
@@ -7827,10 +7527,9 @@ D. 1 3 4 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** 1901–21 stagnant; 1921–51 steady; 1951–81 rapid high; 1981–2001 high with slowdown signs — 3 1 2 4
 
-**Logic:** 1901–21 stagnant; 1921–51 steady; 1951–81 rapid high; 1981–2001 high with slowdown signs.
-
+**Ans: A.** 3 1 2 4
 </details>
 
 **Q182. 60th to 62th B.P.S.C. (Pre) 2016**
@@ -7846,10 +7545,9 @@ E. None of the above/More than one of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Bihar is third after UP and Maharashtra — III
 
-**Logic:** Bihar is third after UP and Maharashtra.
-
+**Ans: C.** III
 </details>
 
 **Q183. M.P. P.C.S. (Pre) 2022**
@@ -7864,13 +7562,12 @@ D. Punjab
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Meghalaya (~27.9%) highest State decadal growth 2001–11 — Meghalaya
 
-**Logic:** Meghalaya (~27.9%) highest State decadal growth 2001–11.
-
+**Ans: C.** Meghalaya
 </details>
 
-**Q184. U.P. R.O./A.R.O. (Pre) 2017**
+**Q184. UP RO/ARO (Pre) 2017**
 
 Which of the following States recorded a decline in its population in Census 2011?
 
@@ -7882,13 +7579,12 @@ D. Manipur
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Nagaland recorded negative decadal growth (−0.6%) — Nagaland
 
-**Logic:** Nagaland recorded negative decadal growth (−0.6%).
-
+**Ans: A.** Nagaland
 </details>
 
-**Q185. U.P. R.O./A.R.O. (Pre) 2014**
+**Q185. UP RO/ARO (Pre) 2014**
 
 Population density in India:
 
@@ -7900,13 +7596,12 @@ D. first increased and then decreased after 1991
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** India’s population density has risen steadily across Censuses — has steadily increased
 
-**Logic:** India’s population density has risen steadily across Censuses.
-
+**Ans: A.** has steadily increased
 </details>
 
-**Q186. U.P. R.O./A.R.O. (Pre) 2017**
+**Q186. UP RO/ARO (Pre) 2017**
 
 As per Census 2011 of India, which among the following States recorded highest density of population?
 
@@ -7918,10 +7613,9 @@ D. Tamil Nadu
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** Bihar (1106) densest State in 2011 — Bihar
 
-**Logic:** Bihar (1106) densest State in 2011.
-
+**Ans: B.** Bihar
 </details>
 
 **Q187. I.A.S. (Pre) 2007**
@@ -7936,13 +7630,12 @@ D. Sikkim
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Arunachal Pradesh has the lowest State density — Arunachal Pradesh
 
-**Logic:** Arunachal Pradesh has the lowest State density.
-
+**Ans: C.** Arunachal Pradesh
 </details>
 
-**Q188. U.P. R.O./A.R.O. (Pre) 2014**
+**Q188. UP RO/ARO (Pre) 2014**
 
 Effective literacy rate in India is calculated:
 
@@ -7954,14 +7647,12 @@ D. From the population above the age of 7
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Effective literacy uses population aged 7 and above — From the population above the age of 7
 
-**Logic:** Effective literacy uses population aged 7 and above.
-
+**Ans: D.** From the population above the age of 7
 </details>
 
 ---
-
 
 ### Ghatnachakra Purvalokan — India: Urbanization
 
@@ -7977,13 +7668,12 @@ D. Informal ties
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Informal ties are not a classic urban-life feature; formality/anonymity are — Informal ties
 
-**Logic:** Informal ties are not a classic urban-life feature; formality/anonymity are.
-
+**Ans: D.** Informal ties
 </details>
 
-**Q190. U.P. R.O./A.R.O. (Mains) 2014**
+**Q190. UP RO/ARO (Mains) 2014**
 
 T.K. Oommen distinguished urban families through:
 
@@ -7995,13 +7685,12 @@ D. all of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Oommen uses all three patterns to distinguish urban families — all of the above
 
-**Logic:** Oommen uses all three patterns to distinguish urban families.
-
+**Ans: D.** all of the above
 </details>
 
-**Q191. U.P. R.O./A.R.O. (Mains) 2017**
+**Q191. UP RO/ARO (Mains) 2017**
 
 Consider the following in relation to causes of urbanization: 1. High rate of migration from rural to urban areas 2. Increasing number of educational institutions in cities 3. High rate of industrialization 4. High standard of living in rural areas
 
@@ -8013,13 +7702,12 @@ D. 1, 3 and 4 are correct
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** High rural living standards reduce push migration — not a cause of urbanization — 1, 2 and 3 are correct
 
-**Logic:** High rural living standards reduce push migration — not a cause of urbanization.
-
+**Ans: A.** 1, 2 and 3 are correct
 </details>
 
-**Q192. U.P. Lower Sub. (Pre) 2015**
+**Q192. UP Lower Sub (Pre) 2015**
 
 Consider the following in relation to causes of urbanization: 1. High rate of migration from rural to urban areas 2. Increasing number of educational institutions in cities 3. High standard of living in rural areas. Which are correct?
 
@@ -8031,13 +7719,12 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Statement 3 is not a cause of urbanization — 1 and 2
 
-**Logic:** Statement 3 is not a cause of urbanization.
-
+**Ans: A.** 1 and 2
 </details>
 
-**Q193. U.P. Lower Sub. (Pre) 1998**
+**Q193. UP Lower Sub (Pre) 1998**
 
 In terms of Urbanization India is a:
 
@@ -8049,10 +7736,9 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** India’s urban share (~28% in 2001; ~31% in 2011) is keyed as moderately low — Moderately-low urbanized country
 
-**Logic:** India’s urban share (~28% in 2001; ~31% in 2011) is keyed as moderately low.
-
+**Ans: A.** Moderately-low urbanized country
 </details>
 
 **Q194. U.P. U.D.A./L.D.A. (Pre) 2010**
@@ -8067,13 +7753,12 @@ D. (A) is false, but (R) is true
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**A/R logic:** Both true historically; poor planning does not explain China’s higher urbanization rate.
 
-**Logic:** Both true historically; poor planning does not explain China’s higher urbanization rate.
-
+**Ans: B.** Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 </details>
 
-**Q195. U.P. Lower Sub. (Pre) 2003**
+**Q195. UP Lower Sub (Pre) 2003**
 
 Which statements are correct according to Census 2001? I. Total urban population of India is 285 million II. Contribution of urban population in total population is 27.78 percent III. Urban population of India is more than the total population of USA IV. Indian urbanization is basically self-reliant urbanization
 
@@ -8085,13 +7770,12 @@ D. All
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Question-period key treated all four as correct for Census 2001 teaching — All
 
-**Logic:** Question-period key treated all four as correct for Census 2001 teaching.
-
+**Ans: D.** All
 </details>
 
-**Q196. U.P. R.O./A.R.O. (Pre) 2016**
+**Q196. UP RO/ARO (Pre) 2016**
 
 Assertion (A): Urbanization in India has increased rapidly after 2001. Reason (R): A revolution in mobile communication has been taking place in India.
 
@@ -8103,10 +7787,9 @@ D. (A) is false, but (R) is true
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**A/R logic:** Both true; mobile boom does not explain post-2001 urbanization.
 
-**Logic:** Both true; mobile boom does not explain post-2001 urbanization.
-
+**Ans: B.** Both (A) and (R) are true, but (R) does not explain (A)
 </details>
 
 **Q197. Chhattisgarh P.C.S. (Pre) 2021**
@@ -8121,9 +7804,9 @@ D. Only Statement-III is true
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** I misdates the first attempt; III’s 10%→18% by 1940 fails the keyed urban shares.
 
-**Logic:** Only II is cleanly true (1881 sync Census). I misdates the first attempt; III’s 10%→18% by 1940 fails the keyed urban shares.
+**Ans: C.** Only II is cleanly true (1881 sync Census).
 
 </details>
 
@@ -8139,13 +7822,12 @@ D. 7935
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Provisional teaching ~3894 Census Towns (final ~3892) — 3894
 
-**Logic:** Provisional teaching ~3894 Census Towns (final ~3892).
-
+**Ans: A.** 3894
 </details>
 
-**Q199. U.P. R.O./A.R.O. (Pre) 2017**
+**Q199. UP RO/ARO (Pre) 2017**
 
 As per 2011 Census, the percentage of urban population to total population in India was:
 
@@ -8157,13 +7839,12 @@ D. 39.20
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** Provisional 31.16%; final ≈31.1% — 31.16
 
-**Logic:** Provisional 31.16%; final ≈31.1%.
-
+**Ans: B.** 31.16
 </details>
 
-**Q200. U.P. R.O./A.R.O. (Pre) 2023**
+**Q200. UP RO/ARO (Pre) 2023**
 
 According to the 2011 Census of India, the percentage of India’s urban population was:
 
@@ -8175,10 +7856,9 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Exact final share ≈31.1% — none of the printed options match cleanly — None of the above
 
-**Logic:** Exact final share ≈31.1% — none of the printed options match cleanly.
-
+**Ans: D.** None of the above
 </details>
 
 **Q201. M.P. P.C.S. (Pre) 2021**
@@ -8193,10 +7873,9 @@ D. 31.15%
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Urbanization ≈31.15%/31.1% in 2011 teaching — 31.15%
 
-**Logic:** Urbanization ≈31.15%/31.1% in 2011 teaching.
-
+**Ans: D.** 31.15%
 </details>
 
 **Q202. 64th B.P.S.C. (Pre) 2018**
@@ -8212,13 +7891,12 @@ E. None of the above/More than one of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** About 31% urban in 2011 — 31
 
-**Logic:** About 31% urban in 2011.
-
+**Ans: B.** 31
 </details>
 
-**Q203. U.P. Lower Sub. (Pre) 2004**
+**Q203. UP Lower Sub (Pre) 2004**
 
 More than one-fourth of India’s urban population lives in the two States of:
 
@@ -8230,10 +7908,9 @@ D. Maharashtra and Uttar Pradesh
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Maharashtra + UP hold more than one-fourth of India’s urban population — Maharashtra and Uttar Pradesh
 
-**Logic:** Maharashtra + UP hold more than one-fourth of India’s urban population.
-
+**Ans: D.** Maharashtra and Uttar Pradesh
 </details>
 
 **Q204. M.P.P.C.S. (Pre) 2014**
@@ -8248,10 +7925,9 @@ D. Manipur
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Sikkim has the lowest absolute urban population among States — Sikkim
 
-**Logic:** Sikkim has the lowest absolute urban population among States.
-
+**Ans: A.** Sikkim
 </details>
 
 **Q205. U.P. U.D.A./L.D.A. (Mains) 2010**
@@ -8266,10 +7942,9 @@ D. 2, 1, 4, 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Maharashtra > UP > Tamil Nadu > West Bengal — 1, 3, 2, 4
 
-**Logic:** Maharashtra > UP > Tamil Nadu > West Bengal.
-
+**Ans: A.** 1, 3, 2, 4
 </details>
 
 **Q206. U.P. U.D.A./L.D.A. (Spl.) (Mains) 2010**
@@ -8284,13 +7959,12 @@ D. Mizoram
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** Goa (~62.2%) highest urban share — Goa
 
-**Logic:** Goa (~62.2%) highest urban share.
-
+**Ans: B.** Goa
 </details>
 
-**Q207. U.P. R.O./A.R.O. (Pre) (Re-Exam) 2023**
+**Q207. UP RO/ARO (Pre) (Re-Exam) 2023**
 
 Which one of the following States was most urbanised as per Census 2011?
 
@@ -8302,10 +7976,9 @@ D. Maharashtra
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** Goa is the most urbanised State by share — Goa
 
-**Logic:** Goa is the most urbanised State by share.
-
+**Ans: B.** Goa
 </details>
 
 **Q208. U.P.P.S.C. (GIC) 2010**
@@ -8320,13 +7993,12 @@ D. Tamil Nadu
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Goa is the most urbanized State overall — Goa
 
-**Logic:** Goa is the most urbanized State overall.
-
+**Ans: C.** Goa
 </details>
 
-**Q209. U.P. R.O./A.R.O. (Re-Exam) (Pre) 2016**
+**Q209. UP RO/ARO (Re-Exam) (Pre) 2016**
 
 According to 2011 Census among the following States, which one has the lowest level of urbanization?
 
@@ -8338,13 +8010,12 @@ D. West Bengal
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** West Bengal lowest urbanization % among the given set — West Bengal
 
-**Logic:** West Bengal lowest urbanization % among the given set.
-
+**Ans: D.** West Bengal
 </details>
 
-**Q210. U.P. Lower Sub. (Pre) 2009**
+**Q210. UP Lower Sub (Pre) 2009**
 
 Arrange the following States in descending order of the percentage of urban population (2011): 1. Gujarat 2. Kerala 3. Maharashtra 4. Tamil Nadu
 
@@ -8356,13 +8027,12 @@ D. 1, 3, 4, 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Tamil Nadu > Kerala > Maharashtra > Gujarat — 4, 2, 3, 1
 
-**Logic:** Tamil Nadu > Kerala > Maharashtra > Gujarat.
-
+**Ans: A.** 4, 2, 3, 1
 </details>
 
-**Q211. U.P. R.O./A.R.O. (Pre) 2017**
+**Q211. UP RO/ARO (Pre) 2017**
 
 As per Census 2011, which among the following States recorded lowest percentage of urban population?
 
@@ -8374,13 +8044,12 @@ D. Himachal Pradesh
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Himachal Pradesh (~10%) lowest urban share — Himachal Pradesh
 
-**Logic:** Himachal Pradesh (~10%) lowest urban share.
-
+**Ans: D.** Himachal Pradesh
 </details>
 
-**Q212. U.P. R.O./A.R.O. (Pre) 2021**
+**Q212. UP RO/ARO (Pre) 2021**
 
 According to Population Census 2011, which of the following States of India has lowest percentage of Urban population to its total population?
 
@@ -8392,10 +8061,9 @@ D. Rajasthan
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Himachal Pradesh has the lowest urban share — Himachal Pradesh
 
-**Logic:** Himachal Pradesh has the lowest urban share.
-
+**Ans: A.** Himachal Pradesh
 </details>
 
 **Q213. M.P.P.C.S. (Pre) 2024**
@@ -8410,10 +8078,9 @@ D. Jabalpur
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Among MP districts listed, Bhopal (~80.9%) highest urban share — Bhopal
 
-**Logic:** Among MP districts listed, Bhopal (~80.9%) highest urban share.
-
+**Ans: C.** Bhopal
 </details>
 
 **Q214. U.P. U.D.A./L.D.A. (Mains) 2010**
@@ -8428,13 +8095,12 @@ D. 4, 3, 1, 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** Delhi > Chandigarh > Lakshadweep > Daman & Diu — 3, 1, 4, 2
 
-**Logic:** Delhi > Chandigarh > Lakshadweep > Daman & Diu.
-
+**Ans: B.** 3, 1, 4, 2
 </details>
 
-**Q215. U.P. R.O./A.R.O. (Pre) (Re-Exam) 2023**
+**Q215. UP RO/ARO (Pre) (Re-Exam) 2023**
 
 Which one of the following states recorded the maximum decadal growth of urban population during the period 2001-2011?
 
@@ -8446,13 +8112,12 @@ D. Sikkim
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Among the set, Sikkim recorded the highest urban decadal growth 2001–11 — Sikkim
 
-**Logic:** Among the set, Sikkim recorded the highest urban decadal growth 2001–11.
-
+**Ans: D.** Sikkim
 </details>
 
-**Q216. U.P. Lower Sub. (Pre) 2015**
+**Q216. UP Lower Sub (Pre) 2015**
 
 According to 2011 Census, which State has the highest proportion of rural population?
 
@@ -8464,10 +8129,9 @@ D. Himachal Pradesh
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Himachal Pradesh (~90%) highest rural share — Himachal Pradesh
 
-**Logic:** Himachal Pradesh (~90%) highest rural share.
-
+**Ans: D.** Himachal Pradesh
 </details>
 
 **Q217. I.A.S. (Pre) 2008**
@@ -8482,10 +8146,9 @@ D. Uttar Pradesh
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Himachal Pradesh highest rural share — Himachal Pradesh
 
-**Logic:** Himachal Pradesh highest rural share.
-
+**Ans: A.** Himachal Pradesh
 </details>
 
 **Q218. Chhattisgarh P.C.S. (Pre) 2024**
@@ -8500,13 +8163,12 @@ D. 06
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Six population-size classes for urban centres — 06
 
-**Logic:** Six population-size classes for urban centres.
-
+**Ans: D.** 06
 </details>
 
-**Q219. U.P. R.O./A.R.O. (Pre) 2017**
+**Q219. UP RO/ARO (Pre) 2017**
 
 As per 2011 Census, the percentage of population of metropolitan cities to the total urban population of India was:
 
@@ -8518,10 +8180,9 @@ D. 49.20
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Million+ metros held ~42.6% of urban population in 2011 teaching — 42.61
 
-**Logic:** Million+ metros held ~42.6% of urban population in 2011 teaching.
-
+**Ans: C.** 42.61
 </details>
 
 **Q220. Jharkhand P.C.S. (Pre) 2021**
@@ -8536,13 +8197,12 @@ D. Maharashtra
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** UP has the largest number of towns among the options — Uttar Pradesh
 
-**Logic:** UP has the largest number of towns among the options.
-
+**Ans: B.** Uttar Pradesh
 </details>
 
-**Q221. U.P. R.O./A.R.O. (Pre) 2016**
+**Q221. UP RO/ARO (Pre) 2016**
 
 As per Census of India 2011, which of the following pairs of cities recorded the highest population?
 
@@ -8554,10 +8214,9 @@ D. Mumbai and Delhi
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Greater Mumbai and Delhi are the two largest UAs — Mumbai and Delhi
 
-**Logic:** Greater Mumbai and Delhi are the two largest UAs.
-
+**Ans: D.** Mumbai and Delhi
 </details>
 
 **Q222. Jharkhand P.C.S. (Pre) 2023**
@@ -8572,13 +8231,12 @@ D. Hyderabad-Chennai-Bengaluru-Ahmedabad
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Ahmedabad < Hyderabad < Bengaluru < Chennai (2011 P sizes) — Ahmedabad-Hyderabad-Bengaluru-Chennai
 
-**Logic:** Ahmedabad < Hyderabad < Bengaluru < Chennai (2011 P sizes).
-
+**Ans: C.** Ahmedabad-Hyderabad-Bengaluru-Chennai
 </details>
 
-**Q223. U.P. Lower Sub. (Pre) 2015**
+**Q223. UP Lower Sub (Pre) 2015**
 
 As per Census 2011, the number of ‘Daslakhi cities’ (Million) in Uttar Pradesh is:
 
@@ -8590,10 +8248,9 @@ D. 11
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** UP had 7 million+ cities in 2011 teaching — 7
 
-**Logic:** UP had 7 million+ cities in 2011 teaching.
-
+**Ans: B.** 7
 </details>
 
 **Q224. 70th B.P.S.C. (Pre) 2024**
@@ -8608,10 +8265,9 @@ D. All the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Push and pull factors together drive rural–urban migration — All the above
 
-**Logic:** Push and pull factors together drive rural–urban migration.
-
+**Ans: D.** All the above
 </details>
 
 **Q225. Chhattisgarh P.C.S. (Pre) 2018**
@@ -8626,13 +8282,12 @@ D. Urban to urban
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Rural–rural was the largest internal migration stream in 2011 teaching (~47%) — Rural to rural
 
-**Logic:** Rural–rural was the largest internal migration stream in 2011 teaching (~47%).
-
+**Ans: A.** Rural to rural
 </details>
 
-**Q226. U.P. R.O./A.R.O. (Pre) 2021**
+**Q226. UP RO/ARO (Pre) 2021**
 
 India Urban Observatory is situated at which one of the following place?
 
@@ -8644,10 +8299,9 @@ D. Varanasi
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** India Urban Observatory is at MoHUA, New Delhi — New Delhi
 
-**Logic:** India Urban Observatory is at MoHUA, New Delhi.
-
+**Ans: B.** New Delhi
 </details>
 
 **Q227. I.A.S. (Pre) 2022**
@@ -8662,13 +8316,12 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** NIUA statement true; ISC is a multi-stakeholder FICCI platform — not GoI+WHO funded as stated — 2 only
 
-**Logic:** NIUA statement true; ISC is a multi-stakeholder FICCI platform — not GoI+WHO funded as stated.
-
+**Ans: B.** 2 only
 </details>
 
-**Q228. U.P. R.O./A.R.O. (Mains) 2013**
+**Q228. UP RO/ARO (Mains) 2013**
 
 Which one of the following is not true for Jawahar Lal Nehru National Urban Renewal Mission? It was:
 
@@ -8680,10 +8333,9 @@ D. to promote inclusive growth
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** JNNURM was ~7 years, not 10 — a 10 year programme
 
-**Logic:** JNNURM was ~7 years, not 10.
-
+**Ans: B.** a 10 year programme
 </details>
 
 **Q229. U.P. U.D.A./L.D.A. (Spl.) (Pre) 2010**
@@ -8698,13 +8350,12 @@ D. Urban Infrastructure
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** JNNURM targets urban infrastructure and basic services to the urban poor — Urban Infrastructure
 
-**Logic:** JNNURM targets urban infrastructure and basic services to the urban poor.
-
+**Ans: D.** Urban Infrastructure
 </details>
 
-**Q230. U.P. Lower Sub. (Pre) 2015**
+**Q230. UP Lower Sub (Pre) 2015**
 
 The revenue from which water and sewage will be financed in the Smart Cities Mission, that is:
 
@@ -8716,14 +8367,12 @@ D. Property tax
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Smart Cities water/sewerage finance teaching keys property tax — Property tax
 
-**Logic:** Smart Cities water/sewerage finance teaching keys property tax.
-
+**Ans: D.** Property tax
 </details>
 
 ---
-
 
 ### Ghatnachakra Purvalokan — World Population and Urbanization
 
@@ -8759,10 +8408,9 @@ E. None of the above / More than one of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** MoEA teaching (Dec 2018): UAE held the largest Indian diaspora; Saudi Arabia second — United Arab Emirates
 
-**Logic:** MoEA teaching (Dec 2018): UAE held the largest Indian diaspora; Saudi Arabia second.
-
+**Ans: A.** United Arab Emirates
 </details>
 
 **Q233. U.P.P.S.C. (GIC) 2017**
@@ -8777,13 +8425,12 @@ D. Virology
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Demography = statistical study of populations and vital statistics — Demography
 
-**Logic:** Demography = statistical study of populations and vital statistics.
-
+**Ans: C.** Demography
 </details>
 
-**Q234. U.P. R.O./A.R.O. (Mains) 2013**
+**Q234. UP RO/ARO (Mains) 2013**
 
 The idea of ‘Folk-Urban Continuum’ was developed on the basis of studies conducted in:
 
@@ -8795,13 +8442,12 @@ D. India
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Robert Redfield’s Folk–Urban Continuum grew from Mexican Yucatán / Maya community studies — Mexico
 
-**Logic:** Robert Redfield’s Folk–Urban Continuum grew from Mexican Yucatán / Maya community studies.
-
+**Ans: A.** Mexico
 </details>
 
-**Q235. U.P. R.O./A.R.O. (Mains) 2013**
+**Q235. UP RO/ARO (Mains) 2013**
 
 In the view of Redfield and Singer, the process of primary urbanization is characterized by the development of a:
 
@@ -8813,10 +8459,9 @@ D. Little tradition
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Primary urbanization coordinates activities to norms of the Great Tradition — Great tradition
 
-**Logic:** Primary urbanization coordinates activities to norms of the Great Tradition.
-
+**Ans: C.** Great tradition
 </details>
 
 **Q236. R.A.S./R.T.S. (Pre) (Re-Exam) 2013**
@@ -8831,10 +8476,9 @@ D. Focus is on adolescent pregnancy
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** WPD 2015 theme = Vulnerable Populations in Emergencies — Vulnerable populations in emergencies
 
-**Logic:** WPD 2015 theme = Vulnerable Populations in Emergencies.
-
+**Ans: B.** Vulnerable populations in emergencies
 </details>
 
 **Q237. I.A.S. (Pre) 1997**
@@ -8849,10 +8493,9 @@ D. 20° S and 40°S
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** ~50% of world population lies between 20°N and 40°N — 20°N and 40° N
 
-**Logic:** ~50% of world population lies between 20°N and 40°N.
-
+**Ans: B.** 20°N and 40° N
 </details>
 
 **Q238. I.A.S. (Pre) 1993**
@@ -8867,13 +8510,12 @@ D. deluge of Soviet emigrants
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** New Population Bomb = rapid Third World urban population growth — rapidly growing urban population in the Third World
 
-**Logic:** New Population Bomb = rapid Third World urban population growth.
-
+**Ans: B.** rapidly growing urban population in the Third World
 </details>
 
-**Q239. U.P. R.O./A.R.O. (Pre) 2016**
+**Q239. UP RO/ARO (Pre) 2016**
 
 The percentage of India’s population in the total population of the world as per 2011 Census is:
 
@@ -8885,13 +8527,12 @@ D. 19.05
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Closest keyed figure to ≈17.5% world share — 17.31
 
-**Logic:** Closest keyed figure to ≈17.5% world share.
-
+**Ans: A.** 17.31
 </details>
 
-**Q240. U.P. Lower Sub. (Pre) 2008**
+**Q240. UP Lower Sub (Pre) 2008**
 
 As per World Statistics 2008, what approximate percentage of world population lives in Asia?
 
@@ -8903,10 +8544,9 @@ D. 66%
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** ~61% of world population in Asia in 2008 teaching — 61%
 
-**Logic:** ~61% of world population in Asia in 2008 teaching.
-
+**Ans: A.** 61%
 </details>
 
 **Q241. I.A.S. (Pre) 2008**
@@ -8921,10 +8561,9 @@ D. Russia and Nigeria
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** Classic order after China–India: USA then Indonesia — USA and Indonesia
 
-**Logic:** Classic order after China–India: USA then Indonesia.
-
+**Ans: B.** USA and Indonesia
 </details>
 
 **Q242. I.A.S. (Pre) 2002**
@@ -8939,13 +8578,12 @@ D. 1, 2, 3, 4
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Indonesia > Brazil > Russia > Japan — 2, 1, 4, 3
 
-**Logic:** Indonesia > Brazil > Russia > Japan.
-
+**Ans: C.** 2, 1, 4, 3
 </details>
 
-**Q243. U.P. Lower Sub. (Spl.) (Pre) 2003**
+**Q243. UP Lower Sub (Spl.) (Pre) 2003**
 
 In which of the following, population growth was minimum during the year 1990-2000?
 
@@ -8957,10 +8595,9 @@ D. South America
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** Europe had the minimum population growth among the continents listed — Europe
 
-**Logic:** Europe had the minimum population growth among the continents listed.
-
+**Ans: B.** Europe
 </details>
 
 **Q244. I.A.S. (Pre) 1994**
@@ -8975,10 +8612,9 @@ D. West Asia
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Question-period key: Central Asia highest among listed Asian regions — Central Asia
 
-**Logic:** Question-period key: Central Asia highest among listed Asian regions.
-
+**Ans: C.** Central Asia
 </details>
 
 **Q245. I.A.S. (Pre) 2024**
@@ -8993,13 +8629,12 @@ D. 3 and 5 only
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Italy, Japan and South Korea are the low-fertility / ageing set — not Nigeria/South Africa — 1, 2 and 4
 
-**Logic:** Italy, Japan and South Korea are the low-fertility / ageing set — not Nigeria/South Africa.
-
+**Ans: A.** 1, 2 and 4
 </details>
 
-**Q246. U.P. R.O./A.R.O. (Mains) 2014**
+**Q246. UP RO/ARO (Mains) 2014**
 
 Which of the following continents had the lowest population density in the year 2011?
 
@@ -9011,13 +8646,12 @@ D. Africa
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** Among listed continents, North America had the lowest density — North America
 
-**Logic:** Among listed continents, North America had the lowest density.
-
+**Ans: B.** North America
 </details>
 
-**Q247. U.P. R.O./A.R.O. (Pre) (Re-Exam) 2023**
+**Q247. UP RO/ARO (Pre) (Re-Exam) 2023**
 
 Consider the following statements with reference to world population: I. Brazil has the highest population among the South American countries. II. Asia continent has the highest growth rate of population. III. Africa is the most densely populated continent of the world.
 
@@ -9029,13 +8663,12 @@ D. Only I
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Only I true; highest growth = Africa; densest continent = Asia — Only I
 
-**Logic:** Only I true; highest growth = Africa; densest continent = Asia.
-
+**Ans: D.** Only I
 </details>
 
-**Q248. U.P. Lower Sub. (Pre) 2013**
+**Q248. UP Lower Sub (Pre) 2013**
 
 Which one of the following countries has the lowest density of population?
 
@@ -9047,13 +8680,12 @@ D. Russia
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Canada has the lowest density among the set — Canada
 
-**Logic:** Canada has the lowest density among the set.
-
+**Ans: A.** Canada
 </details>
 
-**Q249. U.P. R.O./A.R.O. (Mains) 2017**
+**Q249. UP RO/ARO (Mains) 2017**
 
 Which country has the lowest density of population?
 
@@ -9065,10 +8697,9 @@ D. Afghanistan
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Mongolia has the lowest density among the set — Mongolia
 
-**Logic:** Mongolia has the lowest density among the set.
-
+**Ans: A.** Mongolia
 </details>
 
 **Q250. I.A.S. (Pre) 2009**
@@ -9083,10 +8714,9 @@ D. Pakistan
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** Among the listed larger South Asian countries, India is densest — India
 
-**Logic:** Among the listed larger South Asian countries, India is densest.
-
+**Ans: B.** India
 </details>
 
 **Q251. U.P. U.D.A./L.D.A. (Mains) 2010**
@@ -9101,10 +8731,9 @@ D. Venezuela
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Ecuador densest among the listed South American countries — Ecuador
 
-**Logic:** Ecuador densest among the listed South American countries.
-
+**Ans: C.** Ecuador
 </details>
 
 **Q252. I.A.S. (Pre) 2001**
@@ -9119,13 +8748,12 @@ D. topographic constraints
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Fertile intensive agriculture supports high density in Nile Valley and Java — intensive agriculture
 
-**Logic:** Fertile intensive agriculture supports high density in Nile Valley and Java.
-
+**Ans: A.** intensive agriculture
 </details>
 
-**Q253. U.P. Lower Sub. (Pre) 2004**
+**Q253. UP Lower Sub (Pre) 2004**
 
 The Population of the world in descending order, on the basis of religion is:
 
@@ -9137,10 +8765,9 @@ D. Buddhists, Muslims, Christians, Hindus
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** Christians > Muslims > Hindus > Buddhists — Christians, Muslims, Hindus, Buddhists
 
-**Logic:** Christians > Muslims > Hindus > Buddhists.
-
+**Ans: B.** Christians, Muslims, Hindus, Buddhists
 </details>
 
 **Q254. I.A.S. (Pre) 2017**
@@ -9155,10 +8782,9 @@ D. 1 only
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** 1 and 3 true; partners include civil society, academia and private sector — not governments only — 1 and 3 only
 
-**Logic:** 1 and 3 true; partners include civil society, academia and private sector — not governments only.
-
+**Ans: B.** 1 and 3 only
 </details>
 
 **Q255. I.A.S. (Pre) 2010**
@@ -9173,13 +8799,12 @@ D. North America
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Asia showed the fastest urbanization growth rate in that report’s period — Asia
 
-**Logic:** Asia showed the fastest urbanization growth rate in that report’s period.
-
+**Ans: A.** Asia
 </details>
 
-**Q256. U.P. R.O./A.R.O. (Mains) 2013**
+**Q256. UP RO/ARO (Mains) 2013**
 
 Which one of the following is not a criterion to determine prosperity of cities according to U.N. Habitat Report on the State of World’s Cities?
 
@@ -9191,10 +8816,9 @@ D. Equality
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** Optimum population is not a UN-Habitat city-prosperity criterion — Optimum population
 
-**Logic:** Optimum population is not a UN-Habitat city-prosperity criterion.
-
+**Ans: B.** Optimum population
 </details>
 
 **Q257. 70th B.P.S.C. (Pre) 2024**
@@ -9209,13 +8833,12 @@ D. Moscow
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Technopolis = technology/innovation hub; Silicon Valley is the classic example — Silicon Valley
 
-**Logic:** Technopolis = technology/innovation hub; Silicon Valley is the classic example.
-
+**Ans: A.** Silicon Valley
 </details>
 
-**Q258. U.P. R.O./A.R.O. (Mains) 2016**
+**Q258. UP RO/ARO (Mains) 2016**
 
 Assertion (A): Urbanization follows industrialization. Reason (R): In developing countries, urbanization is a movement in itself.
 
@@ -9227,10 +8850,9 @@ D. (A) is false, but (R) is true
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**A/R logic:** Both true; developing-country urban surge does not explain the industrialization→urbanization link.
 
-**Logic:** Both true; developing-country urban surge does not explain the industrialization→urbanization link.
-
+**Ans: B.** Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 </details>
 
 **Q259. I.A.S. (Pre) 2003**
@@ -9245,10 +8867,9 @@ D. Norway
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Japan keys the highest life expectancy among the set — Japan
 
-**Logic:** Japan keys the highest life expectancy among the set.
-
+**Ans: C.** Japan
 </details>
 
 **Q260. U.P. P.S.C. (GIC) 2008**
@@ -9263,13 +8884,12 @@ D. Singapore
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Japan keys natural decrease / deaths exceeding births among the set — Japan
 
-**Logic:** Japan keys natural decrease / deaths exceeding births among the set.
-
+**Ans: C.** Japan
 </details>
 
-**Q261. U.P. Lower Sub. (Pre) 2013**
+**Q261. UP Lower Sub (Pre) 2013**
 
 In South Asia, the country with the largest percentage of aged population is:
 
@@ -9281,10 +8901,9 @@ D. Sri Lanka
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Sri Lanka has the largest share of aged population among the set — Sri Lanka
 
-**Logic:** Sri Lanka has the largest share of aged population among the set.
-
+**Ans: D.** Sri Lanka
 </details>
 
 **Q262. U.P. U.D.A./L.D.A. (Pre) 2010**
@@ -9299,18 +8918,16 @@ D. Social security
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** ~80% of world population lacks social-security protection in the keyed reading — Social security
 
-**Logic:** ~80% of world population lacks social-security protection in the keyed reading.
-
+**Ans: D.** Social security
 </details>
 
 ---
 
 ## UKPCS
 
-
-**Q1. UKPCS (Pre) 2025** — Jail cost of living poverty estimate
+**Q1. UKPCS (Pre) 2025**
 
 Who used the 'jail cost of living' to estimate the poverty line in India?
 
@@ -9322,10 +8939,9 @@ D. Vallabh Bhai Patel
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Naoroji.
+**Logic:** Standard key: Dadabhai Naoroji.
 
-**Ans: A.**
-
+**Ans: A.** Dadabhai Naoroji
 </details>
 
 ---
@@ -9342,10 +8958,9 @@ D. Vallabh Bhai Patel
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Dadabhai Naoroji used jail cost of living for an early poverty-line estimate.
+**Logic:** Dadabhai Naoroji used jail cost of living for an early poverty-line estimate — Dadabhai Naoroji
 
-**Ans: A.**
-
+**Ans: A.** Dadabhai Naoroji
 </details>
 
 **Q3. Uttarakhand P.C.S. (Pre) 2012**
@@ -9360,10 +8975,9 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Malthus: population grows geometrically if unchecked.
+**Logic:** Malthus: population grows geometrically if unchecked — Geometrical Progression
 
-**Ans: A.**
-
+**Ans: A.** Geometrical Progression
 </details>
 
 **Q4. Uttarakhand P.C.S. (Pre) 2021**
@@ -9378,10 +8992,9 @@ D. Chamoli and Rudraprayag
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Pauri Garhwal and Almora recorded negative growth.
+**Logic:** Pauri Garhwal and Almora recorded negative growth — Pauri Garhwal and Almora
 
-**Ans: B.**
-
+**Ans: B.** Pauri Garhwal and Almora
 </details>
 
 ---
@@ -9398,10 +9011,9 @@ D. Punjab, Gujarat, Maharashtra
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Among these large States: Tamil Nadu > Maharashtra > Gujarat by urban share.
+**Logic:** Among these large States: Tamil Nadu > Maharashtra > Gujarat by urban share — Tamil Nadu, Maharashtra, Gujarat
 
-**Ans: C.**
-
+**Ans: C.** Tamil Nadu, Maharashtra, Gujarat
 </details>
 
 **Q6. Uttarakhand U.D.A./L.D.A. (Pre) 2007**
@@ -9416,10 +9028,9 @@ D. Delhi
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Greater Mumbai is the most populous UA.
+**Logic:** Greater Mumbai is the most populous UA — Mumbai
 
-**Ans: C.**
-
+**Ans: C.** Mumbai
 </details>
 
 **Q7. Uttarakhand P.C.S. (Pre) 2002**
@@ -9434,10 +9045,9 @@ D. Mumbai
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Mumbai keys the highest slum share among metros.
+**Logic:** Mumbai keys the highest slum share among metros — Mumbai
 
-**Ans: D.**
-
+**Ans: D.** Mumbai
 </details>
 
 **Q8. Uttarakhand P.C.S. (Pre) 2005**
@@ -9452,10 +9062,9 @@ D. Urban Renewal Mission
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Budget 2005–06 announced the Urban Renewal Mission (later JNNURM).
+**Logic:** Budget 2005–06 announced the Urban Renewal Mission (later JNNURM) — Urban Renewal Mission
 
-**Ans: D.**
-
+**Ans: D.** Urban Renewal Mission
 </details>
 
 ---
@@ -9472,10 +9081,9 @@ D. Egypt
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Indonesia is the most populous Muslim-majority country.
+**Logic:** Indonesia is the most populous Muslim-majority country — Indonesia
 
-**Ans: C.**
-
+**Ans: C.** Indonesia
 </details>
 
 **Q10. Uttarakhand U.D.A./L.D.A. (Pre) 2007**
@@ -9490,18 +9098,18 @@ D. North America
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Asia is the densest continent.
+**Logic:** Asia is the densest continent — Asia
 
-**Ans: A.**
-
+**Ans: A.** Asia
 </details>
 
 ---
 
 ## Practice Zone
 
+**Q1.**
 
-**Q1.** With reference to disguised unemployment, which of the following statements is/are correct?
+With reference to disguised unemployment, which of the following statements is/are correct?
 
 1. Marginal product of extra labour can be near zero.
 2. It is common in overcrowded agriculture teaching.
@@ -9517,13 +9125,14 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Logic:** Statement 3 is false — 1 and 2
 
-**Logic:** Statement 3 is false.
-
+**Ans: B.** 1 and 2
 </details>
 
-**Q2.** Which pair is **not** correctly matched?
+**Q2.**
+
+Which pair is **not** correctly matched?
 
 A. Seasonal unemployment — agri season link
 B. Structural unemployment — skill / sector mismatch
@@ -9533,13 +9142,14 @@ D. Demographic dividend — only 0–6 child population
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Dividend is working-age share, not infants.
+**Logic:** A–C are standard — Demographic dividend — only 0–6 child population
 
-**Logic:** A–C are standard.
-
+**Ans: D.** Demographic dividend — only 0–6 child population
 </details>
 
-**Q3.** MGNREGA mainly provides
+**Q3.**
+
+MGNREGA is best described as a programme for
 
 A. Only urban IT seats
 B. Rural wage employment guarantee and local asset creation
@@ -9549,13 +9159,14 @@ D. Only WPI compilation
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Rural employment guarantee.
+**Logic:** Poverty / social protection tool — Rural wage employment guarantee and local asset creation
 
-**Logic:** Poverty / social protection tool.
-
+**Ans: B.** Rural wage employment guarantee and local asset creation
 </details>
 
-**Q4.** With reference to HDI, which of the following statements is/are correct?
+**Q4.**
+
+With reference to HDI, which of the following statements is/are correct?
 
 1. Life expectancy enters the index.
 2. Education enters the index.
@@ -9571,13 +9182,14 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Logic:** Environment is the 2024 distractor.
 
-**Logic:** Environment is the 2024 distractor. Statement 3 is false.
-
+**Ans: B.** 1 and 2
 </details>
 
-**Q5.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+**Q5.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 Assertion (A): Age structure alone does not automatically deliver a demographic dividend.
 
@@ -9593,13 +9205,14 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both true; human-capital and jobs explain why structure is not enough.
+**A/R logic:** Both true; human-capital and jobs explain why structure is not enough.
 
-**A/R logic:** Dividend policy card.
-
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)
 </details>
 
-**Q6.** Match List-I with List-II.
+**Q6.**
+
+Match List-I with List-II.
 
 | List-I | List-II |
 |---|---|
@@ -9620,13 +9233,14 @@ D. 4 3 2 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Alagh; first HDR; HPI 1997; MPI 2010.
+**Logic:** Standard key matches 2 3 4 1.
 
-**Logic:** Date hygiene.
-
+**Ans: A.** 2 3 4 1
 </details>
 
-**Q7.** Inclusive growth means
+**Q7.**
+
+Inclusive growth means
 
 A. Growth only for the top 1% by definition
 B. Growth whose benefits reach wider sections of society
@@ -9636,13 +9250,14 @@ D. Only compiling IIP
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Broad-based sharing of growth gains.
+**Logic:** Equity + growth — Growth whose benefits reach wider sections of society
 
-**Logic:** Equity + growth.
-
+**Ans: B.** Growth whose benefits reach wider sections of society
 </details>
 
-**Q8.** With reference to informal employment, which of the following statements is/are correct?
+**Q8.**
+
+With reference to informal employment, which of the following statements is/are correct?
 
 1. It is a large share of India’s workforce.
 2. Social security coverage is often weak.
@@ -9658,13 +9273,14 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Logic:** Statement 3 is false — 1 and 2
 
-**Logic:** Statement 3 is false.
-
+**Ans: B.** 1 and 2
 </details>
 
-**Q9.** Which of the following pairs is **not** correctly matched?
+**Q9.**
+
+Which of the following pairs is **not** correctly matched?
 
 A. MPI — health, education, living standard
 B. HDI — life expectancy, education, income
@@ -9674,13 +9290,14 @@ D. MPI — identical to people below one dollar a day
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** MPI is not the $1/day count.
+**Logic:** A–C are standard — MPI — identical to people below one dollar a day
 
-**Logic:** A–C are standard.
-
+**Ans: D.** MPI — identical to people below one dollar a day
 </details>
 
-**Q10.** Head Count Ratio measures
+**Q10.**
+
+The Head Count Ratio (HCR) of poverty measures the
 
 A. Only forest cover
 B. Share of population below the poverty line
@@ -9690,13 +9307,14 @@ D. Only GST collections
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Poverty incidence share.
+**Logic:** Basic poverty statistic — Share of population below the poverty line
 
-**Logic:** Basic poverty statistic.
-
+**Ans: B.** Share of population below the poverty line
 </details>
 
-**Q11.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+**Q11.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 Assertion (A): Female LFPR trends in India attract special attention.
 
@@ -9712,13 +9330,14 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both true; the stakes explain the attention.
+**A/R logic:** Both true; the stakes explain the attention.
 
-**A/R logic:** LFPR policy importance.
-
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)
 </details>
 
-**Q12.** Skill development mainly attacks which unemployment type?
+**Q12.**
+
+Skill development mainly attacks which unemployment type?
 
 A. Only frictional five-minute gaps forever
 B. Structural mismatch between skills and jobs
@@ -9728,13 +9347,14 @@ D. Only cyclical boom phases
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Structural / skill mismatch.
+**Logic:** PMKVY neighbour — Structural mismatch between skills and jobs
 
-**Logic:** PMKVY neighbour.
-
+**Ans: B.** Structural mismatch between skills and jobs
 </details>
 
-**Q13.** With reference to social security, which of the following statements is/are correct?
+**Q13.**
+
+With reference to social security, which of the following statements is/are correct?
 
 1. It includes pensions, insurance and employment guarantees in teaching.
 2. It reduces vulnerability of workers and the poor.
@@ -9750,13 +9370,14 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Logic:** Statement 3 is false — 1 and 2
 
-**Logic:** Statement 3 is false.
-
+**Ans: B.** 1 and 2
 </details>
 
-**Q14.** Match List-I with List-II.
+**Q14.**
+
+Match List-I with List-II.
 
 | List-I | List-II |
 |---|---|
@@ -9777,13 +9398,14 @@ D. 4 1 2 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Disguised; frictional; cyclical; seasonal.
+**Logic:** Typology hygiene — 2 1 3 4
 
-**Logic:** Typology hygiene.
-
+**Ans: A.** 2 1 3 4
 </details>
 
-**Q15.** Inequality measures such as the Gini coefficient help track
+**Q15.**
+
+Income / wealth inequality measures mainly show
 
 A. Only monsoon onset
 B. How unevenly income or wealth is distributed
@@ -9793,13 +9415,14 @@ D. Only CRR vault cash
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Distribution unevenness.
+**Logic:** Inclusive-growth companion — How unevenly income or wealth is distributed
 
-**Logic:** Inclusive-growth companion.
-
+**Ans: B.** How unevenly income or wealth is distributed
 </details>
 
-**Q16.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+**Q16.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 Assertion (A): Consumption surveys matter for India’s official poverty estimates.
 
@@ -9815,13 +9438,14 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both true; the method explains why surveys matter.
+**A/R logic:** Both true; the method explains why surveys matter.
 
-**A/R logic:** Indian poverty measurement.
-
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)
 </details>
 
-**Q17.** Gig economy work is best described as
+**Q17.**
+
+Gig economy work is best described as
 
 A. Only permanent government cadre posts
 B. Flexible / platform-mediated task work with evolving social-security design
@@ -9831,13 +9455,14 @@ D. Only MPI living-standard walls
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Flexible platform work.
+**Logic:** Modern labour form — Flexible / platform-mediated task work with evolving social-security design
 
-**Logic:** Modern labour form.
-
+**Ans: B.** Flexible / platform-mediated task work with evolving social-security design
 </details>
 
-**Q18.** Which statement about MPI is correct?
+**Q18.**
+
+Which statement about MPI is correct?
 
 A. It averages only national income
 B. It identifies overlapping household deprivations across dimensions
@@ -9847,13 +9472,14 @@ D. It measures only forest density
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Overlapping deprivations at household level.
+**Logic:** Why MPI replaced HPI’s country-average weakness — It identifies overlapping household deprivations across dimensions
 
-**Logic:** Why MPI replaced HPI’s country-average weakness.
-
+**Ans: B.** It identifies overlapping household deprivations across dimensions
 </details>
 
-**Q19.** With reference to human capital formation, which of the following statements is/are correct?
+**Q19.**
+
+With reference to human capital formation, which of the following statements is/are correct?
 
 1. Education builds human capital.
 2. Health builds human capital.
@@ -9869,13 +9495,14 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Logic:** Statement 3 is false — 1 and 2
 
-**Logic:** Statement 3 is false.
-
+**Ans: B.** 1 and 2
 </details>
 
-**Q20.** Which of the following pairs is **not** correctly matched?
+**Q20.**
+
+Which of the following pairs is **not** correctly matched?
 
 A. Tendulkar Committee — poverty-line revision
 B. Rangarajan Committee — poverty-line revision
@@ -9885,13 +9512,14 @@ D. Alagh Committee — first Human Development Report 1990 author
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** HDR 1990 is Haq/UNDP, not Alagh.
+**Logic:** A–C are standard — Alagh Committee — first Human Development Report 1990 author
 
-**Logic:** A–C are standard.
-
+**Ans: D.** Alagh Committee — first Human Development Report 1990 author
 </details>
 
-**Q21.** Usual status / weekly status / daily status are
+**Q21.**
+
+Usual status / weekly status / daily status are
 
 A. Only GST return types
 B. Labour-force measurement reference periods in Indian statistics teaching
@@ -9901,13 +9529,14 @@ D. Only Gati Shakti engines
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** PLFS/NSS unemployment measurement concepts.
+**Logic:** Employment statistics card — Labour-force measurement reference periods in Indian statistics teaching
 
-**Logic:** Employment statistics card.
-
+**Ans: B.** Labour-force measurement reference periods in Indian statistics teaching
 </details>
 
-**Q22.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+**Q22.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 Assertion (A): Safe drinking water access is used as a social / living-standard poverty indicator.
 
@@ -9923,13 +9552,14 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both true; deprivation logic explains the indicator.
+**A/R logic:** Both true; deprivation logic explains the indicator.
 
-**A/R logic:** 2025 social-indicator neighbour.
-
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)
 </details>
 
-**Q23.** Migration can raise incomes yet still raise vulnerability because
+**Q23.**
+
+A key portability concern for migrant workers is that
 
 A. Social protection may not travel with the worker
 B. Workers stop needing food forever
@@ -9939,13 +9569,14 @@ D. MPI becomes a currency
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Portability gaps in entitlements / security.
+**Logic:** Topic 6 ONORC neighbour — Social protection may not travel with the worker
 
-**Logic:** Topic 6 ONORC neighbour.
-
+**Ans: A.** Social protection may not travel with the worker
 </details>
 
-**Q24.** Match List-I with List-II.
+**Q24.**
+
+Match List-I with List-II.
 
 | List-I | List-II |
 |---|---|
@@ -9966,13 +9597,14 @@ D. 4 1 2 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Gini; MGNREGA; LFPR; Sen.
+**Logic:** Social-economy toolkit — 2 1 3 4
 
-**Logic:** Social-economy toolkit.
-
+**Ans: A.** 2 1 3 4
 </details>
 
-**Q25.** Youth unemployment is especially costly because
+**Q25.**
+
+Youth unemployment is especially costly because
 
 A. It wastes human capital just as education investments mature
 B. It raises forest cover automatically
@@ -9982,13 +9614,14 @@ D. It compiles WPI
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Idle educated / young workers.
+**Logic:** Dividend risk card — It wastes human capital just as education investments mature
 
-**Logic:** Dividend risk card.
-
+**Ans: A.** It wastes human capital just as education investments mature
 </details>
 
-**Q26.** With reference to Tendulkar Committee, which of the following statements is/are correct?
+**Q26.**
+
+With reference to Tendulkar Committee, which of the following statements is/are correct?
 
 1. It revised India’s poverty estimation methodology.
 2. It is one of the post-Alagh poverty-line exercises.
@@ -10004,13 +9637,14 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Logic:** Statement 3 is false — 1 and 2
 
-**Logic:** Statement 3 is false.
-
+**Ans: B.** 1 and 2
 </details>
 
-**Q27.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+**Q27.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 Assertion (A): HDI was created to go beyond income-only rankings.
 
@@ -10026,13 +9660,14 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both true; insufficiency of income explains HDI’s design.
+**A/R logic:** Both true; insufficiency of income explains HDI’s design.
 
-**A/R logic:** Haq/Sen purpose.
-
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)
 </details>
 
-**Q28.** National MPI for India is associated mainly with
+**Q28.**
+
+National MPI for India is associated mainly with
 
 A. Only RBI note issue
 B. NITI Aayog’s multidimensional poverty monitoring using survey indicators
@@ -10042,16 +9677,14 @@ D. Only Tobin tax
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** NITI National MPI.
+**Logic:** Domestic MPI product — NITI Aayog’s multidimensional poverty monitoring using survey indicators
 
-**Logic:** Domestic MPI product.
-
+**Ans: B.** NITI Aayog’s multidimensional poverty monitoring using survey indicators
 </details>
 
 ---
 
 ## Common Traps
-
 
 * HDI = **life + education + income** — not environment; post-2010 living standard = **GNI PPP** (not GDP).
 * First HDR **1990** (Haq); Priesner co-lead tag fails.

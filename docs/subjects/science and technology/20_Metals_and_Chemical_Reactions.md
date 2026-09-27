@@ -121,7 +121,6 @@ Metals & Non-Metals Physical & Chemical Tags | Allotropes of Carbon (Graphite, D
 
 ---
 
-
 ### Table 1B: Complete Ghatna Chakra Master Matrix of Minerals, Ores & Chemical Formulas
 | Metal | Major Minerals & Ores | Chemical Composition / Formula | Must-Score Takeaway |
 | :--- | :--- | :--- | :--- |
@@ -140,7 +139,6 @@ Metals & Non-Metals Physical & Chemical Tags | Allotropes of Carbon (Graphite, D
 | **Tin ($Sn$)** | Cassiterite (Tinstone) | $SnO_2$ | Used to plate food cans because tin is less reactive than zinc and resists organic food acids; constituent of Bronze ($Cu+Sn$) and Solder ($Pb+Sn$). |
 | **Titanium ($Ti$)** | Ilmenite<br>Rutile | $FeTiO_3$<br>$TiO_2$ | Strategic beach placer sand mineral along Kerala, Tamil Nadu, and Odisha coastlines; high strength-to-weight ratio. |
 | **Thorium ($Th$)** | Monazite | Phosphate of rare earths & Thorium ($ThO_2$) | Heavy beach placer sand mineral found in Kerala, Tamil Nadu, and Odisha; cornerstone of India's three-stage nuclear power program. |
-
 
 ### Table 2: Commercial & Strategic Alloys Matrix
 
@@ -325,9 +323,34 @@ Rusting of iron is not a simple chemical combination, but an **electrochemical c
 
 ---
 
+## Bilingual Terminology -- Metals and Chemical Reactions
+
+| English Term | Hindi Term | Key Anchor |
+|---|---|---|
+| **Metal** (धातु) | धातु | Lustrous, malleable, ductile, good conductor; loses electrons |
+| **Non-metal** (अधातु) | अधातु | Dull, brittle, poor conductor (except graphite); gains electrons |
+| **Alloy** (मिश्र धातु) | मिश्र धातु | Mixture of two or more metals (or metal + non-metal) |
+| **Corrosion** (संक्षारण) | संक्षारण | Deterioration of metals by reaction with environment; e.g., rusting |
+| **Rusting** (जंग लगना) | जंग लगना | Corrosion of iron; Fe2O3.xH2O (hydrated iron oxide); needs O2 + H2O |
+| **Oxidation** (ऑक्सीकरण) | ऑक्सीकरण | Loss of electrons; increase in oxidation state |
+| **Reduction** (अपचयन) | अपचयन | Gain of electrons; decrease in oxidation state |
+| **Redox Reaction** (ऑक्सीकरण-अपचयन) | रेडॉक्स अभिक्रिया | Simultaneous oxidation and reduction in same reaction |
+| **Calcination** (निस्तापन) | निस्तापन | Heating ore in limited air; e.g., CaCO3 -> CaO + CO2 |
+| **Roasting** (भर्जन) | भर्जन | Heating sulphide ore in excess air; converts to oxide; e.g., ZnS + O2 -> ZnO + SO2 |
+| **Smelting** (प्रगलन) | प्रगलन | Melting ore with reducing agent (coke) to extract metal |
+| **Electrolytic Refining** (विद्युत-अपघटनी परिष्करण) | विद्युतअपघटनी शोधन | Purification of metals using electrolysis; crude as anode, pure as cathode |
+| **Thermite Reaction** | थर्माइट अभिक्रिया | Al + Fe2O3 -> Al2O3 + Fe + huge heat; welding railway tracks |
+| **Galvanisation** (जस्तीकरण) | गैल्वनीकरण | Coating iron with zinc to prevent rusting |
+| **Anodising** (एनोडाइजिंग) | एनोडाइजिंग | Electrochemical coating of aluminium with Al2O3 (protection layer) |
+| **Reactivity Series** (क्रियाशीलता श्रृंखला) | अभिक्रियाशीलता क्रम | Metals arranged by reactivity: K>Na>Ca>Mg>Al>Zn>Fe>Ni>Sn>Pb>H>Cu>Hg>Ag>Au>Pt |
+
+---
+
 ## Complete PYQ Bank — UPPCS & UP RO/ARO
 
-**Q1. (U.P.P.C.S. (Pre) 1996)** Which one of the following is the hardest metal?
+**Q-ST1. UPPCS (Pre) 1996**
+
+Which one of the following is the hardest metal?
 - (A) Gold
 - (B) Iron
 - (C) Platinum
@@ -336,15 +359,14 @@ Rusting of iron is not a simple chemical combination, but an **electrochemical c
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (D)
-- **Must-Score Points:**
-  - Among all natural materials, diamond is the hardest (which
-  - is non-metal) whereas, among the metals, Tungsten is the
-  - hardest.
+**Logic:** Standard key matches Tungsten.
+
+**Ans: D.** Tungsten
 </details>
 
+**Q-ST2. UP RO/ARO (Pre) (Re. Exam) 2016**
 
-**Q2. (U.P. R.O./A.R.O. (Pre) (Re. Exam) 2016)** Which of the following is a naturally occurring hardest
+Which of the following is a naturally occurring hardest
 
 substance on the Earth?
 - (A) Graphite
@@ -355,25 +377,14 @@ substance on the Earth?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (D)
-- **Must-Score Points:**
-  - Diamond is the hardest naturally occurring substance present
-  - on the Earth. However, wurtzite boron nitride is believed
-  - to be harder than diamond. It has a similar structure to
-  - diamond but is made up of different atoms. It is formed
-  - during volcanic eruptions with high temperature and pressure.
-  - The simulations showed that wurtzite boron nitride could
-  - handle 18% more stress than diamond, which is due to the
-  - re-orientation of the flexible bonds and the more complex
-  - structure than diamonds. But because only minute amounts
-  - of this mineral have been discovered, its hardness properties
-  - are yet to be experimentally tested. That's why UPPSC
-  - experts had answered option (d) for this question in their
-  - official answer key.
+**Logic:** Standard key matches Diamond.
+
+**Ans: D.** Diamond
 </details>
 
+**Q-ST3. UP Lower Sub (Pre) 2004**
 
-**Q3. (U.P. Lower Sub. (Pre) 2004)** The heaviest natural element is ?
+The heaviest natural element is ?
 - (A) Uranium
 - (B) Mercury
 - (C) Gold
@@ -382,18 +393,14 @@ substance on the Earth?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (A)
-- **Must-Score Points:**
-  - Uranium is the heaviest naturally occurring element with an
-  - atomic no. of 92. It is a pure form of silver-coloured heavy
-  - metal. Its most common isotope Uranium-238 has a nucleus
-  - containing 92 protons and 146 neutrons. It has a density of
-  - 19.05 g/cm3
-  - .
+**Logic:** Standard key matches Uranium.
+
+**Ans: A.** Uranium
 </details>
 
+**Q-ST4. UPPCS (Pre) 2016**
 
-**Q4. (U.P. P.C.S. (Pre) 2016)** The costliest metal of the world discovered recently is :
+The costliest metal of the world discovered recently is :
 - (A) Endohedral Fullerene
 - (B) Californium 252
 - (C) Tritium
@@ -402,39 +409,14 @@ substance on the Earth?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (*)
-- **Must-Score Points:**
-  - The material, there discovery and approx. cost per gram (as
-  - per the question period) in US$ are given below–
-  - Material Discovery
-  - (in year)
-  - Cost per gram
-  - (in US $)
-  - Tritium
-  - Rhodium
-  - Californium-252
-  - Endohedral Fullerene
-  - 1934
-  - 1803
-  - 1950
-  - 1985
-  - 30,000
-  - 58
-  - 27 million
-  - 167 million
-  - From the above list, it is clear that Endohedral Fullerene is
-  - the costliest material of the world discovered recently. But
-  - as the question asked about the costliest metal, it is not a
-  - correct answer. However, there are two types of Endohedral
-  - Fullerense namely – Endohedral metallofullerenes and nonmetal doped fullerene. Californium-252 is the costliest metal
-  - but it is not discovered recently. So the question seems to
-  - be incorrect.
-  - Note : As of 1 April, 2026, Rhodium is priced at approx.
-  - $ 325 per gram.
+**Logic:** Key not printed in source dump (cancelled or blank).
+
+**Ans:** Source key blank.
 </details>
 
+**Q-ST5. UPPCS (Mains) 2017**
 
-**Q5. (U.P.P.C.S. (Mains) 2017)** Which one of the following elements is kept safely in
+Which one of the following elements is kept safely in
 
 Kerosene oil?
 - (A) Sodium
@@ -445,13 +427,14 @@ Kerosene oil?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (A)
-- **Must-Score Points:**
-  - See the explanation of above question.
+**Logic:** Standard key matches Sodium.
+
+**Ans: A.** Sodium
 </details>
 
+**Q-ST6. UPPCS (Pre) 2000**
 
-**Q6. (U.P.P.C.S. (Pre) 2000)** These days yellow lamps are frequently used as street
+These days yellow lamps are frequently used as street
 
 light. Which one of the following is used in these lamps :
 - (A) Sodium
@@ -462,19 +445,14 @@ light. Which one of the following is used in these lamps :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (A)
-- **Must-Score Points:**
-  - There are 2 types of street light lamps which are used by
-  - municipalities. They are sodium vapor and mercury vapor
-  - lamps. The mercury vapor lamps have usually a white
-  - ambient light and sodium vapor lamps have orange/yellow
-  - light. Compared to LPS (Low-pressure sodium) lamps, highpressure sodium lamps tend to have a longer life, less lumen
-  - per watt efficiency and most importantly a higher colour
-  - rendering index.
+**Logic:** Standard key matches Sodium.
+
+**Ans: A.** Sodium
 </details>
 
+**Q-ST7. UPPCS (Pre) 2007**
 
-**Q7. (U.P.P.C.S. (Pre) 2007)** Sodium Vapor Lamp is usually used as street light,
+Sodium Vapor Lamp is usually used as street light,
 
 because –
 - (A) These are cheap.
@@ -487,18 +465,14 @@ through water droplets.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - A sodium-vapor lamp is a gas-discharge lamp that uses
-  - sodium in an excited state to produce light. Low-pressure
-  - sodium lamps only give monochromatic yellow light and so
-  - inhibit colour vision at night and will not split through water
-  - droplets. Sodium-vapor lamps cause less light pollution than
-  - mercury-vapor lamps.
+**Logic:** Standard key matches Light from this is monochromatic and will not split.
+
+**Ans: B.** Light from this is monochromatic and will not split
 </details>
 
+**Q-ST8. UPPCS (Mains) 2016**
 
-**Q8. (U.P.P.C.S. (Mains) 2016)** Which one of the following metals is accessed in the
+Which one of the following metals is accessed in the
 
 native state ?
 - (A) Aluminium
@@ -509,16 +483,14 @@ native state ?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - Among the given metals, gold is the least reactive, so this
-  - was accessed in the native (free) state. Only metals like
-  - gold, silver, and platinum etc. occur in native state in nature
-  - in large amounts.
+**Logic:** Standard key matches Gold.
+
+**Ans: B.** Gold
 </details>
 
+**Q-ST9. UPPCS (Pre) 1993**
 
-**Q9. (U.P.P.C.S. (Pre) 1993)** The chemical name of limestone is?
+The chemical name of limestone is?
 - (A) Calcium Carbonate
 - (B) Magnesium Chloride
 - (C) Sodium Chloride
@@ -527,17 +499,14 @@ native state ?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (A)
-- **Must-Score Points:**
-  - Limestone is a sedimentary rock composed largely of the
-  - minerals Calcite and Aragonite which are different crystal
-  - forms of Calcium Carbonate (CaCO3
-  - ). Limestone binds with
-  - silica and other impurities to remove them from the iron.
+**Logic:** Standard key matches Calcium Carbonate.
+
+**Ans: A.** Calcium Carbonate
 </details>
 
+**Q-ST10. UP Lower Sub (Spl.) (Pre) 2004**
 
-**Q10. (U.P. Lower Sub. (Spl.) (Pre) 2004)** Doctors, Artists and Sculptors use Calcium Sulphate
+Doctors, Artists and Sculptors use Calcium Sulphate
 
 which is popularly known as –
 - (A) Quick lime
@@ -548,13 +517,14 @@ which is popularly known as –
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (D)
-- **Must-Score Points:**
-  - See the explanation of above question.
+**Logic:** Standard key matches Plaster of Paris.
+
+**Ans: D.** Plaster of Paris
 </details>
 
+**Q-ST11. UPPCS (Pre) 2019**
 
-**Q11. (U.P.P.C.S. (Pre) 2019)** Which one of the following materials contains calcium?
+Which one of the following materials contains calcium?
 - (A) China clay
 - (B) Corundum
 - (C) Gypsum
@@ -563,19 +533,14 @@ which is popularly known as –
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (C)
-- **Must-Score Points:**
-  - Gypsum is a soft sulfate mineral which contains calcium. It
-  - is composed of calcium sulphate dihydrate, with the chemical
-  - formula CaSO4
-  - .2H2
-  - O. It is widely mined and is used as a
-  - fertilizer and as the main constituent in many forms of plaster,
-  - blackboard/sidewalk chalk, and drywall.
+**Logic:** Standard key matches Gypsum.
+
+**Ans: C.** Gypsum
 </details>
 
+**Q-ST12. UPPCS (Pre) 2010**
 
-**Q12. (U.P.P.C.S. (Pre) 2010)** In which of the following industries is mica used as a
+In which of the following industries is mica used as a
 
 raw material –
 - (A) Iron and steel
@@ -586,13 +551,14 @@ raw material –
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (D)
-- **Must-Score Points:**
-  - See the explanation of above question.
+**Logic:** Standard key matches Electrical.
+
+**Ans: D.** Electrical
 </details>
 
+**Q-ST13. UPPCS (Pre) 2005 · UPPCS (Mains) 2014**
 
-**Q13. (U.P.P.C.S. (Pre) 2005 · U.P.P.C.S. (Mains) 2014)** Which among the following liquids is the best
+Which among the following liquids is the best
 
 conductor of heat?
 - (A) Mercury
@@ -603,25 +569,14 @@ conductor of heat?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (A)
-- **Must-Score Points:**
-  - Mercury is a chemical element with the symbol (Hg).
-  - Mercury is used in thermometers due to its special properties.
-  - It can measure a wide range of temperatures from -40 to
-  - 356o
-  - C and up to 570o
-  - C under pressure in a liquid state. It
-  - expands regularly in proportional to the absolute temperature
-  - changes. A heavy, silvery d-block element, mercury is the
-  - only common metal element which is found in liquid state
-  - at standard conditions for temperature and pressure. It is a
-  - metal, so it is a conductor of heat. Mercury is the poorest
-  - conductor of heat among all metals, but among the given
-  - options it is the best conductor of heat.
+**Logic:** Standard key matches Mercury.
+
+**Ans: A.** Mercury
 </details>
 
+**Q-ST14. UPPCS (Mains) 2014 · 44th B.P.S.C. (Pre) 2000**
 
-**Q14. (U.P.P.C.S. (Mains) 2014 · 44th B.P.S.C. (Pre) 2000)** Which one of the following metals is liquid at ordinary
+Which one of the following metals is liquid at ordinary
 
 temperature?
 - (A) Lead
@@ -632,14 +587,14 @@ temperature?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (C)
-- **Must-Score Points:**
-  - Mercury is the only common metal which is liquid at ordinary
-  - (room) temperature. Mercury is sometimes called quicksilver.
+**Logic:** Standard key matches Mercury.
+
+**Ans: C.** Mercury
 </details>
 
+**Q-ST15. UP Lower Sub (Pre) 2003**
 
-**Q15. (U.P. Lower Sub. (Pre) 2003)** Mercury is basically used in thermometer devices
+Mercury is basically used in thermometer devices
 
 because its especiality is –
 - (A) High density
@@ -650,24 +605,14 @@ because its especiality is –
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (C)
-- **Must-Score Points:**
-  - Mercury is easily the best liquid to use in thermometers, five
-  - important reasons are –
-  - (1) It is very reflective, so it's easy to see and to read
-  - accurately.
-  - (2) It doesn't wet the glass, so you don't get an inaccurate
-  - reading if the temperature is falling.
-  - (3) It is a metal, so it is a conductor of heat.
-  - (4) It expands evenly with the temperature with high
-  - circulation power, so a linear scale can be used with a
-  - high degree of accuracy.
-  - (5) There is a large range of temperature for which it is a
-  - liquid.
+**Logic:** Standard key matches High circulation power.
+
+**Ans: C.** High circulation power
 </details>
 
+**Q-ST16. UPPCS (Mains) 2008 · M.P.P.C.S. (Pre) 1991**
 
-**Q16. (U.P.P.C.S. (Mains) 2008 · M.P.P.C.S. (Pre) 1991)** In the case of rusting, the weight of iron –
+In the case of rusting, the weight of iron –
 - (A) Increases
 - (B) Decreases
 - (C) Remains the same
@@ -676,15 +621,14 @@ because its especiality is –
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (A)
-- **Must-Score Points:**
-  - Due to rust, the weight of iron increases as iron is converted
-  - into iron oxide after chemical reaction with oxygen, in
-  - presence of humidity.
+**Logic:** Standard key matches Increases.
+
+**Ans: A.** Increases
 </details>
 
+**Q-ST17. UP Lower Sub (Pre) 1998**
 
-**Q17. (U.P. Lower Sub. (Pre) 1998)** Consider these statements and choose the right answer
+Consider these statements and choose the right answer
 
 from the given code :
 
@@ -719,19 +663,14 @@ explanation of
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (C)
-- **Must-Score Points:**
-  - Statement (A) is correct but statement (R) is wrong because
-  - rust is iron oxide (not tannin), a usually red oxide formed
-  - by the redox reaction of iron and oxygen in the presence of
-  - water or air moisture. Tannin is a pale-yellow to light-brown
-  - substance secreted from plants and used chiefly in tanning
-  - leather, dyeing fabric, making ink, and in various medical
-  - applications.
+**Logic:** Standard key matches - (A) is correct, but (R) is wrong.
+
+**Ans: C.** (A) is correct, but (R) is wrong
 </details>
 
+**Q-ST18. UP Lower Sub (Pre) 2002**
 
-**Q18. (U.P. Lower Sub. (Pre) 2002)** Statement (A) : Galvanized iron does not rust.
+Statement (A) : Galvanized iron does not rust.
 
 Statement (R) : Zinc has the efficiency of oxidation.
 
@@ -754,20 +693,14 @@ classification of
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (A)
-- **Must-Score Points:**
-  - Galvanization is the process of applying a protective zinc
-  - coating on steel or iron to prevent them from rusting and
-  - oxidation. The zinc forms a barrier between atmospheric
-  - oxygen and the underlying iron or steel. It does this by
-  - transferring electrons and oxidizing more quickly than iron.
-  - This rapid zinc oxidation prevents ferrous metals from rusting
-  - until the zinc has exhausted its free-electron capacity or the
-  - protective coating has worn away.
+**Logic:** Standard key matches Both.
+
+**Ans: A.** Both
 </details>
 
+**Q-ST19. UP RO/ARO (Pre) (Re. Exam) 2016**
 
-**Q19. (U.P. R.O./A.R.O. (Pre) (Re. Exam) 2016)** Which one of the following is essential in corrosion of
+Which one of the following is essential in corrosion of
 
 iron metal?
 - (A) Oxygen only
@@ -778,19 +711,14 @@ iron metal?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - Oxygen and moisture are essential in corrosion of iron metal.
-  - Iron corrosion is generally characterized by the formation
-  - of rust due to an electrochemical process in the presence of
-  - oxygen and moisture (water) in the surrounding environment.
-  - When iron reacts with water and oxygen, iron (II) hydroxide
-  - is formed. The latter further reacts with oxygen and water to
-  - form hydrated iron (III) oxide-widely known as rust.
+**Logic:** Standard key matches Oxygen and moisture.
+
+**Ans: B.** Oxygen and moisture
 </details>
 
+**Q-ST20. UPPCS (Pre) 2025**
 
-**Q20. (U.P. P.C.S. (Pre) 2025)** With reference to ‘Silver articles’, which of the
+With reference to ‘Silver articles’, which of the
 
 following statements is/are correct?
 
@@ -811,30 +739,14 @@ Code:
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (C)
-- **Must-Score Points:**
-  - Silver articles turn black in open air due to corrosion,
-  - specifically tarnishing. The silver reacts with Sulfur
-  - compounds (like hydrogen sulfide – H2
-  - S) present in the air
-  - (often from industrial pollution or natural sources), forming
-  - a black layer of silver sulfide (Ag2
-  - S) on the surface, due to
-  - which the shine reduces and the surface starts looking black/
-  - dull. The chemical reaction for this is :
-  - 2Ag + H2
-  - S → Ag2
-  - S + H2
-  - This is a form of corrosion, often called tarnishing of silver.
-  - The black tarnish can be removed by cleaning with products
-  - containing aluminium or by using specialized cleaners that
-  - convert the Ag2
-  - S back into silver or remove it. Hence, both
-  - statements 1 and 2 are true.
+**Logic:** Standard key matches Both 1 and 2.
+
+**Ans: C.** Both 1 and 2
 </details>
 
+**Q-ST21. UPPCS (Pre) 2020**
 
-**Q21. (U.P. P.C.S. (Pre) 2020)** Match List-I with List-II and select the correct answer
+Match List-I with List-II and select the correct answer
 
 from the code given below the lists:
 
@@ -861,19 +773,14 @@ A B C D
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (C)
-- **Must-Score Points:**
-  - The correctly matched lists are as follows :
-  - List-I List-II
-  - (Metal) (Property)
-  - Sodium – Can be easily cut with knife
-  - Mercury – Liquid at room temperature
-  - Silver – Good conductor of electricity
-  - Lead – Poor conductor of heat
+**Logic:** Standard key matches Silver 3.
+
+**Ans: C.** Silver 3.
 </details>
 
+**Q-ST22. UP Lower Sub (Pre) 2002**
 
-**Q22. (U.P. Lower Sub. (Pre) 2002)** Match List-I with List-II and select the correct answer
+Match List-I with List-II and select the correct answer
 
 using the codes given below the lists :
 
@@ -904,17 +811,14 @@ A B C D
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (D)
-- **Must-Score Points:**
-  - The correctly matched lists are as follows :
-  - Best conductor of heat and electricity – Silver
-  - Metal found in highest amount – Aluminium
-  - Most flexible metal and able to increase by bang – Gold
-  - Minimum heat conducting metal – Lead
+**Logic:** Standard key matches Minimum heat conducting 4.
+
+**Ans: D.** Minimum heat conducting 4.
 </details>
 
+**Q-ST23. Uttrakhand U.D.A./L.D.A. (Mains) 2006**
 
-**Q23. (Uttrakhand U.D.A./L.D.A. (Mains) 2006)** Which of the following materials has the highest
+Which of the following materials has the highest
 
 electrical conductivity ?
 - (A) Diamond
@@ -925,13 +829,14 @@ electrical conductivity ?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - See the explanation of above question.
+**Logic:** Standard key matches Silver.
+
+**Ans: B.** Silver
 </details>
 
+**Q-ST24. Uttarakhand P.C.S. (Pre) 2007 · U.P. U.D.A./L.D.A. (Pre) 2006**
 
-**Q24. (Uttarakhand P.C.S. (Pre) 2007 · U.P. U.D.A./L.D.A. (Pre) 2006)** Bauxite, is an ore of which of the following metals?
+Bauxite, is an ore of which of the following metals?
 - (A) Iron
 - (B) Copper
 - (C) Aluminium
@@ -940,13 +845,14 @@ electrical conductivity ?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (C)
-- **Must-Score Points:**
-  - See the explanation of above question.
+**Logic:** Standard key matches Aluminium.
+
+**Ans: C.** Aluminium
 </details>
 
+**Q-ST25. UPPCS (Pre) (Re. Exam) 2015**
 
-**Q25. (U.P.P.C.S. (Pre) (Re. Exam) 2015)** Bauxite is the ore of :
+Bauxite is the ore of :
 - (A) Iron
 - (B) Aluminium
 - (C) Copper
@@ -955,13 +861,14 @@ electrical conductivity ?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - See the explanation of above question.
+**Logic:** Standard key matches Aluminium.
+
+**Ans: B.** Aluminium
 </details>
 
+**Q-ST26. Uttrakhand U.D.A./L.D.A. (Mains) 2007**
 
-**Q26. (Uttrakhand U.D.A./L.D.A. (Mains) 2007)** Aluminium metal is obtained from :
+Aluminium metal is obtained from :
 - (A) Pitch blende
 - (B) Graphite
 - (C) Bauxite
@@ -970,13 +877,14 @@ electrical conductivity ?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (C)
-- **Must-Score Points:**
-  - See the explanation of above question.
+**Logic:** Standard key matches Bauxite.
+
+**Ans: C.** Bauxite
 </details>
 
+**Q-ST27. I.A.S. (Pre) 1999 · UPPCS (Pre) 2010 · U.P.U.D.A./L.D.A. (Pre) 2010**
 
-**Q27. (I.A.S. (Pre) 1999 · U.P.P.C.S. (Pre) 2010 · U.P.U.D.A./L.D.A. (Pre) 2010)** Match List-I with List-II and select the correct answer
+Match List-I with List-II and select the correct answer
 
 using the codes given below the lists :
 
@@ -1005,22 +913,14 @@ A B C D
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (D)
-- **Must-Score Points:**
-  - Diamond is a metastable allotrope of carbon where the carbon
-  - atoms are arranged in a variation of the face-centered cubic crystal
-  - structure called a diamond lattice. Marble is a metamorphic rock
-  - composed mainly of crystalline calcium carbonate or
-  - calcium magnesium carbonate. The most common
-  - component of sand is silicon dioxide in the form
-  - of quartz. Ruby is considered as one of the four
-  - precious stones together with sapphire, emerald and diamond.
-  - The main components of ruby are aluminium, oxygen and
-  - chromium.
+**Logic:** Standard key matches Ruby 4.
+
+**Ans: D.** Ruby 4.
 </details>
 
+**Q-ST28. UP RO/ARO (Pre) 2017**
 
-**Q28. (U.P. R.O./A.R.O. (Pre) 2017)** Which one of the following pairs is not correctly
+Which one of the following pairs is not correctly
 
 matched?
 - (A) Aluminium – Bauxite
@@ -1031,19 +931,14 @@ matched?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - The correctly matched lists are as follows :
-  - Aluminium – Bauxite
-  - Copper – Cuprite
-  - Mercury – Cinnabar
-  - Zinc – Calamine (Smithsonite &
-  - Hemimorphite)
-  - Iron – Haematite
+**Logic:** Standard key matches Copper – Cinnabar.
+
+**Ans: B.** Copper – Cinnabar
 </details>
 
+**Q-ST29. UPPCS (Mains) 2012**
 
-**Q29. (U.P.P.C.S. (Mains) 2012)** Which one of the following alloys is called an amalgam ?
+Which one of the following alloys is called an amalgam ?
 - (A) Zinc – Copper
 - (B) Copper – Tin
 - (C) Mercury – Zinc
@@ -1052,14 +947,14 @@ matched?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (C)
-- **Must-Score Points:**
-  - An amalgam is a substance formed by the reaction of
-  - Mercury with another metal.
+**Logic:** Standard key matches Mercury – Zinc.
+
+**Ans: C.** Mercury – Zinc
 </details>
 
+**Q-ST30. UPPCS (Pre) 2005 · UPPCS (Pre) 1996**
 
-**Q30. (U.P.P.C.S. (Pre) 2005 · U.P.P.C.S. (Pre) 1996)** Solder used in soldering metal pieces is an alloy of :
+Solder used in soldering metal pieces is an alloy of :
 - (A) Tin and Lead
 - (B) Tin and Copper
 - (C) Tin, Zinc and Copper
@@ -1068,15 +963,14 @@ matched?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (A)
-- **Must-Score Points:**
-  - The common composition of solder is around 32% Tin and
-  - 68% Lead. This combination has a low melting point and is
-  - useful for soldering components that are sensitive to heat.
+**Logic:** Standard key matches Tin and Lead.
+
+**Ans: A.** Tin and Lead
 </details>
 
+**Q-ST31. UPPCS (Pre) (Re. Exam) 2015**
 
-**Q31. (U.P.P.C.S. (Pre) (Re. Exam) 2015)** Bronze is an alloy of –
+Bronze is an alloy of –
 - (A) Copper and Tin
 - (B) Copper and Silver
 - (C) Copper and Zinc
@@ -1085,15 +979,14 @@ matched?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (A)
-- **Must-Score Points:**
-  - Bronze is an alloy made up of Copper and another metal Tin.
-  - Compositions may vary but most modern bronze is around
-  - 88% Copper and 12% Tin.
+**Logic:** Standard key matches Copper and Tin.
+
+**Ans: A.** Copper and Tin
 </details>
 
+**Q-ST32. UPPCS (Mains) 2016**
 
-**Q32. (U.P. P.C.S. (Mains) 2016)** Bronze is an alloy of copper and –
+Bronze is an alloy of copper and –
 - (A) Tin
 - (B) Aluminium
 - (C) Silver
@@ -1102,13 +995,14 @@ matched?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (A)
-- **Must-Score Points:**
-  - See the explanation of above question.
+**Logic:** Standard key matches Tin.
+
+**Ans: A.** Tin
 </details>
 
+**Q-ST33. UPPCS (Mains) 2003**
 
-**Q33. (U.P.P.C.S. (Mains) 2003)** Percentage of Silver in German Silver is :
+Percentage of Silver in German Silver is :
 - (A) 1%
 - (B) 5%
 - (C) 0%
@@ -1117,13 +1011,14 @@ matched?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (C)
-- **Must-Score Points:**
-  - See the explanation of above question.
+**Logic:** Standard key matches 0%.
+
+**Ans: C.** 0%
 </details>
 
+**Q-ST34. UP Lower Sub (Spl.) (Pre) 2008**
 
-**Q34. (U.P. Lower Sub. (Spl.) (Pre) 2008)** Which of the following alloys has a maximum
+Which of the following alloys has a maximum
 
 percentage of Copper ?
 - (A) Brass
@@ -1134,16 +1029,14 @@ percentage of Copper ?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - Brass consists about 68-71% Copper and rest is Zinc. Bronze
-  - consists about 88% Copper and 12% Tin. German silver has
-  - almost 50% Copper. Gunmetal consists about 85% Copper,
-  - 5% Tin, 5% Lead, 5% Zinc.
+**Logic:** Standard key matches Bronze.
+
+**Ans: B.** Bronze
 </details>
 
+**Q-ST35. UP Lower Sub (Pre) 2002**
 
-**Q35. (U.P. Lower Sub. (Pre) 2002)** Which metal exists as a common component in Brass,
+Which metal exists as a common component in Brass,
 
 Bronze and German Silver?
 - (A) Antimony
@@ -1154,13 +1047,14 @@ Bronze and German Silver?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - See the explanation of above question.
+**Logic:** Standard key matches Copper.
+
+**Ans: B.** Copper
 </details>
 
+**Q-ST36. Chhattisgarh P.C.S. (Pre) 2011 · Uttarakhand P.C.S. (Pre) 2002 · UPPCS (Pre) 1993**
 
-**Q36. (Chhattisgarh P.C.S. (Pre) 2011 · Uttarakhand P.C.S. (Pre) 2002 · U.P.P.C.S. (Pre) 1993)** Brass is a combination of what metals?
+Brass is a combination of what metals?
 - (A) Copper and Nickel
 - (B) Copper and Tin
 - (C) Copper and Zinc
@@ -1169,13 +1063,14 @@ Bronze and German Silver?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (C)
-- **Must-Score Points:**
-  - See the explanation of above question.
+**Logic:** Standard key matches Copper and Zinc.
+
+**Ans: C.** Copper and Zinc
 </details>
 
+**Q-ST37. U.P.U.D.A/L.D.A. (Pre) 2001**
 
-**Q37. (U.P.U.D.A/L.D.A. (Pre) 2001)** Check these statements :
+Check these statements :
 
 (i) Brass is an alloy of Copper and Zinc.
 
@@ -1202,17 +1097,14 @@ Code :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - Statement (i) and (iii) are correct but statement (ii) and (iv)
-  - are wrong because Magnetite (Fe3
-  - O4
-  - ) is an ore of Iron and
-  - Silver Bromide (AgBr) is used in photography.
+**Logic:** Standard key matches (i) and (iii).
+
+**Ans: B.** (i) and (iii)
 </details>
 
+**Q-ST38. UPPCS (Spl.) (Mains) 2004**
 
-**Q38. (U.P.P.C.S. (Spl.) (Mains) 2004)** Steel is further processed to obtain stainless steel by
+Steel is further processed to obtain stainless steel by
 
 adding some element. Which one of the following is
 
@@ -1225,21 +1117,14 @@ not used for this purpose ?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - Stainless steel (stain-free iron) is an alloy whose constituent
-  - elements generally are approximately as follows :
-  - Iron – 89.4%
-  - Chromium – 10.0%
-  - Manganese – 0.35%
-  - Carbon – 0.25 %
-  - Silicon is not the constituent element of stainless steel, while
-  - few quantity of nickel is also added as a constituent element
-  - in stainless steel.
+**Logic:** Standard key matches Silicon.
+
+**Ans: B.** Silicon
 </details>
 
+**Q-ST39. UPPCS (Pre) 2002**
 
-**Q39. (U.P.P.C.S. (Pre) 2002)** The important metal used with iron to produce
+The important metal used with iron to produce
 
 stainless steel, is :
 - (A) Aluminium
@@ -1250,13 +1135,14 @@ stainless steel, is :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - See the explanation of above question.
+**Logic:** Standard key matches Chromium.
+
+**Ans: B.** Chromium
 </details>
 
+**Q-ST40. UP RO/ARO (Mains) 2017**
 
-**Q40. (U.P. R.O./A.R.O. (Mains) 2017)** Stainless Steel is an alloy in which following is added
+Stainless Steel is an alloy in which following is added
 
 along with iron:
 - (A) Zinc
@@ -1267,13 +1153,14 @@ along with iron:
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - See the explanation of above question.
+**Logic:** Standard key matches Chromium.
+
+**Ans: B.** Chromium
 </details>
 
+**Q-ST41. UPPSC (GIC) 2010 · Chhattisgarh P.C.S. (Pre) 2008**
 
-**Q41. (U.P.P.S.C. (GIC) 2010 · Chhattisgarh P.C.S. (Pre) 2008)** Which of the following elements are included in
+Which of the following elements are included in
 
 stainless steel?
 - (A) Chromium, Zinc, Carbon and Iron
@@ -1284,15 +1171,16 @@ stainless steel?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (C)
-- **Must-Score Points:**
-  - See the explanation of above question.
-</details>
+**Logic:** Standard key matches Iron, Chromium, Manganese and Carbon.
 
+**Ans: C.** Iron, Chromium, Manganese and Carbon
+</details>
 
 ## Complete PYQ Bank — UKPCS
 
-**Q1. (56th to 59th B.P.S.C. (Pre) 2015 · Uttarakhand P.C.S. (Pre) 2024)** Which is the most reactive metal ?
+**Q-ST1. 56th to 59th B.P.S.C. (Pre) 2015 · Uttarakhand P.C.S. (Pre) 2024**
+
+Which is the most reactive metal ?
 - (A) Sodium
 - (B) Calcium
 - (C) Iron
@@ -1301,42 +1189,14 @@ stainless steel?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (D)
-- **Must-Score Points:**
-  - In the given options, according to the reactivity series,
-  - Potassium (K) is the most reactive metal. It reacts vigorously
-  - with air and water, producing a large amount of heat. The
-  - ionization energy of potassium is lower than that of sodium
-  - because its atomic size is larger. Metals like potassium
-  - and sodium react rapidly with cold water. The reactions
-  - of potassium and sodium are vigorous and exothermic
-  - because the hydrogen released immediately ignites. Calcium
-  - reacts with water somewhat slowly. Magnesium does not
-  - react with cold water; however, it reacts with hot water to
-  - produce magnesium hydroxide and hydrogen gas. Metals like
-  - aluminium, iron, and zinc do not react with either cold water
-  - or hot water; instead, they react with steam to give metal
-  - oxides and hydrogen. The metals at the top of the reactivity
-  - series (K, Na, Ca, Mg, and Al) are so reactive that they are
-  - never found in a free state.
-  - Reactivity series of metals :
-  - K Potassium Most reactive
-  - Na Sodium
-  - Ca Calcium
-  - Mg Magnesium
-  - Al Aluminium
-  - Zn Zinc Reactivity decreases
-  - Fe Iron
-  - Pb Lead
-  - [H] [Hydrogen]
-  - Cu Copper
-  - Hg Mercury
-  - Ag Silver
-  - Au Gold Least reactive
+**Logic:** Standard key matches Potassium.
+
+**Ans: D.** Potassium
 </details>
 
+**Q-ST2. Uttarakhand P.C.S. (Pre) 2024**
 
-**Q2. (Uttarakhand P.C.S. (Pre) 2024)** Food cans are coated with Tin instead of Zinc, because:
+Food cans are coated with Tin instead of Zinc, because:
 - (A) Zinc is expensive than Tin.
 - (B) The melting point of Zinc is higher than Tin.
 - (C) Zinc is more reactive than Tin.
@@ -1345,21 +1205,14 @@ stainless steel?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (C)
-- **Must-Score Points:**
-  - Zinc (Zn) is a more reactive metal than tin (Sn). This means
-  - that zinc is more likely to react with other substances,
-  - including the organic acids present in food. If zinc were used
-  - to coat food cans, it could react with the food, potentially
-  - dissolving into the food and making it unsafe to consume.
-  - Tin is a less reactive metal, meaning it is less likely to react
-  - with the food contents. This makes tin a safer and more
-  - suitable choice for coating food cans, as it helps prevent the
-  - food from being contaminated or spoiled by the can itself.
+**Logic:** Standard key matches Zinc is more reactive than Tin.
+
+**Ans: C.** Zinc is more reactive than Tin
 </details>
 
+**Q-ST3. Uttarakhand P.C.S. (Pre) 2007**
 
-**Q3. (Uttarakhand P.C.S. (Pre) 2007)** The chemical structure of the pearl is –
+The chemical structure of the pearl is –
 - (A) Calcium Carbonate
 - (B) Calcium Carbonate & Magnesium Carbonate
 - (C) Calcium Chloride
@@ -1368,18 +1221,14 @@ stainless steel?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (A)
-- **Must-Score Points:**
-  - The chemical composition of pearl is about 82 – 86%
-  - Calcium Carbonate (Aragonite), 10–14% Conchiolin and
-  - 2–4% of water (CaCO3
-  - and H2
-  - O). Conchiolin is a protein
-  - and a binding agent.
+**Logic:** Standard key matches Calcium Carbonate.
+
+**Ans: A.** Calcium Carbonate
 </details>
 
+**Q-ST4. Uttarakhand U.D.A. /L.D.A. (Pre) 2003**
 
-**Q4. (Uttarakhand U.D.A. /L.D.A. (Pre) 2003)** Which of the following is lighter than water?
+Which of the following is lighter than water?
 - (A) Aluminium
 - (B) Sodium
 - (C) Magnesium
@@ -1388,21 +1237,14 @@ stainless steel?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - Water has a defined density (1 gram per cubic centimetre) while
-  - the lightest metals are lighter than water. They are Lithium
-  - 0.53 gm/cm3
-  - , Potassium 0.862 g/cm3
-  - and Sodium 0.971
-  - g/cm3
-  - . These are malleable and highly reactive so they
-  - are impractical to use as the basis of an alloy with any
-  - structural utility.
+**Logic:** Standard key matches Sodium.
+
+**Ans: B.** Sodium
 </details>
 
+**Q-ST5. Uttarakhand P.C.S. (Pre) 2016**
 
-**Q5. (Uttarakhand P.C.S. (Pre) 2016)** Which pair of following is of Copper alloys?
+Which pair of following is of Copper alloys?
 - (A) Brass and Invar
 - (B) Bronze and Nichrome
 - (C) Brass and Bronze
@@ -1411,13 +1253,14 @@ stainless steel?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (C)
-- **Must-Score Points:**
-  - See the explanation of above question.
+**Logic:** Standard key matches Brass and Bronze.
+
+**Ans: C.** Brass and Bronze
 </details>
 
+**Q-ST6. Uttarakhand P.C.S. (Pre) 2010**
 
-**Q6. (Uttarakhand P.C.S. (Pre) 2010)** Combination of which substance in the alloy renders
+Combination of which substance in the alloy renders
 
 stainless steel non-magnetic ?
 - (A) Carbon
@@ -1428,15 +1271,14 @@ stainless steel non-magnetic ?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (C)
-- **Must-Score Points:**
-  - Stainless steel becomes non-magnetic by combining the
-  - alloy with Nickel, while extra Carbon is mixed to gain more
-  - hardness.
+**Logic:** Standard key matches Nickel.
+
+**Ans: C.** Nickel
 </details>
 
+**Q-ST7. Uttarakhand P.C.S. (Pre) 2005 · RAS/RTS (Pre) 1996**
 
-**Q7. (Uttarakhand P.C.S. (Pre) 2005 · R.A.S./R.T.S. (Pre) 1996)** What is mixed with iron to make stainless steel?
+What is mixed with iron to make stainless steel?
 - (A) Nickel and Copper
 - (B) Zinc and Tin
 - (C) Nickel and Tin
@@ -1445,15 +1287,16 @@ stainless steel non-magnetic ?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (D)
-- **Must-Score Points:**
-  - See the explanation of above question.
-</details>
+**Logic:** Standard key matches Chromium and Nickel.
 
+**Ans: D.** Chromium and Nickel
+</details>
 
 ## Complete PYQ Bank — BPSC, IAS & Other State PCS (Ghatnachakra Focus)
 
-**Q1. (67th B.P.S.C. (Pre) (Re. Exam) 2022)** The metallurgical process in which a metal is obtained
+**Q-ST1. 67th B.P.S.C. (Pre) (Re. Exam) 2022**
+
+The metallurgical process in which a metal is obtained
 
 in a fused state is called :
 - (A) smelting
@@ -1465,15 +1308,14 @@ in a fused state is called :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (A)
-- **Must-Score Points:**
-  - Metal is obtained at high temperature by the reduction of ore
-  - in the process of smelting. The metal is obtained in a fused
-  - state in this process.
+**Logic:** Standard key matches smelting.
+
+**Ans: A.** smelting
 </details>
 
+**Q-ST2. 45th B.P.S.C. (Pre) 2001**
 
-**Q2. (45th B.P.S.C. (Pre) 2001)** Which of the following is the electron configuration of
+Which of the following is the electron configuration of
 
 a metallic element?
 - (A) 2, 8
@@ -1484,25 +1326,14 @@ a metallic element?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (D)
-- **Must-Score Points:**
-  - Calcium is a dull, grey, solid element with a silver appearance
-  - which exists in the solid state. It has a high melting point
-  - (1115k) and boiling point (1757 K). All these features make
-  - it related to the metals. The valence electron configuration
-  - of Calcium is 2,8,8,2. Hence, it has a tendency to lose two
-  - electrons to get a noble gas configuration. Since it can lose
-  - electrons, it can be used in ionic bonding and can form
-  - ionic compounds. Like other metals, Calcium also reacts
-  - vigorously with dilute acids like hydrochloric acid and
-  - produce large amounts of heat, forms Calcium Chloride
-  - (CaCl2
-  - ) and Hydrogen gas. All these properties of Calcium
-  - prove that it is a metal.
+**Logic:** Standard key matches 2, 8, 8, 2.
+
+**Ans: D.** 2, 8, 8, 2
 </details>
 
+**Q-ST3. 70th B.P.S.C. (Pre) (Re-Exam) 2024**
 
-**Q3. (70th B.P.S.C. (Pre) (Re-Exam) 2024)** Which of the following is not an electrophile?
+Which of the following is not an electrophile?
 - (A) Na+
 - (B) BF3
 - (C) H+
@@ -1511,25 +1342,14 @@ a metallic element?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (A)
-- **Must-Score Points:**
-  - Na+
-  - (Sodium ion) is not considered a true electrophile. While
-  - Na+
-  - is a positively charged ion, it already has a complete
-  - or stable octet, making it less likely to accept electrons.
-  - Electrophiles are species that accept electron and are often
-  - electron-deficient. While Na+
-  - does have a positive charge, it
-  - doesn't have readily available vacant orbitals of lower energy
-  - to accept electrons to function as a true electrophile. Boron
-  - trifluoride (BF3
-  - ) and hydrogen ion (H+
-  - ) are true electrophiles.
+**Logic:** Standard key matches Na+.
+
+**Ans: A.** Na+
 </details>
 
+**Q-ST4. 67th B.P.S.C. (Pre) (Re. Exam) 2022**
 
-**Q4. (67th B.P.S.C. (Pre) (Re. Exam) 2022)** The paramagnetic theory of magnetism applies to :
+The paramagnetic theory of magnetism applies to :
 - (A) nickel
 - (B) mercury
 - (C) iron
@@ -1539,18 +1359,14 @@ a metallic element?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (D)
-- **Must-Score Points:**
-  - Paramagnetism is a form of magnetism in which some
-  - material is weakly attracted by an externally applied
-  - magnetic field and creates an internal, induced magnetic
-  - field in the direction of the applied magnetic field. Among
-  - the given metals, paramagnetic theory of magnetism applies
-  - to platinum.
+**Logic:** Standard key matches platinum.
+
+**Ans: D.** platinum
 </details>
 
+**Q-ST5. Chhattisgarh P.C.S. (Pre) 2024**
 
-**Q5. (Chhattisgarh P.C.S. (Pre) 2024)** Which among the following pair is an example of
+Which among the following pair is an example of
 
 paramagnetic and ferromagnetic substances?
 - (A) H2
@@ -1563,31 +1379,14 @@ O and Fe
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - Paramagnetism, ferromagnetism and diamagnetism refer
-  - to different magnetic properties of matter. Ferromagnetic
-  - substances are completely attracted towards a magnetic
-  - field and retain their own magnetic properties even in the
-  - absence of an applied magnetic field. The spin of the unpaired
-  - electrons present in them is aligned, resulting in a strong
-  - magnetic moment. Paramagnetic substances are partially
-  - attracted towards a magnetic field and lose their own magnetic
-  - properties in the absence of an applied magnetic field. They
-  - have unpaired electrons, but the spin of the electrons present
-  - in them is randomly oriented. Diamagnetic substances are
-  - weakly repelled by a magnetic field. Their all electrons are
-  - paired, resulting in negative magnetic susceptibility. Among
-  - the given substances H2
-  - O (water) is diamagnetic; Fe (Iron),
-  - and Gd (Gadolinium) are ferromagnetic; Cu2+ (Cupric
-  - ion) and Cr3+ (Chromic ion) are paramagnetic; while MnO
-  - (Manganese oxide) is antiferromagnetic. Hence, option (b)
-  - is the correct answer.
+**Logic:** Standard key matches Cu2+ and Gd.
+
+**Ans: B.** Cu2+ and Gd
 </details>
 
+**Q-ST6. I.A.S. (Pre) 2008**
 
-**Q6. (I.A.S. (Pre) 2008)** Which one of the following pairs of metals constitutes
+Which one of the following pairs of metals constitutes
 
 the lightest metal and the heaviest metal, respectively?
 - (A) Lithium and Mercury
@@ -1598,36 +1397,14 @@ the lightest metal and the heaviest metal, respectively?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - The atomic weight and density of given metals are as followsMetals Atomic No. Atomic Weight
-  - (amu)
-  - Density
-  - (g/cc)
-  - 1. Lithium
-  - 2. Mercury
-  - 3. Osmium
-  - 4. Aluminium
-  - 3
-  - 80
-  - 76
-  - 13
-  - 6.941
-  - 200.59
-  - 190.23
-  - 26.982
-  - 0.534
-  - 13.534
-  - 22.61
-  - 2.70
-  - From the above mentioned data, it is clear that Lithium is
-  - the lightest and Osmium is the heaviest metal. Osmium is
-  - the densest naturally occurring metal. Therefore, it is the
-  - heaviest metal.
+**Logic:** Standard key matches Lithium and Osmium.
+
+**Ans: B.** Lithium and Osmium
 </details>
 
+**Q-ST7. 44th B.P.S.C. (Pre) 2000 · M.P.P.C.S. (Pre) 1992**
 
-**Q7. (44th B.P.S.C. (Pre) 2000 · M.P.P.C.S. (Pre) 1992)** Which is the hardest in the following?
+Which is the hardest in the following?
 - (A) Diamond
 - (B) Glass
 - (C) Quartz
@@ -1636,14 +1413,14 @@ the lightest metal and the heaviest metal, respectively?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (A)
-- **Must-Score Points:**
-  - Diamond is the hardest, least compressible and best thermal
-  - conductor among all natural materials.
+**Logic:** Standard key matches Diamond.
+
+**Ans: A.** Diamond
 </details>
 
+**Q-ST8. I.A.S. (Pre) 2000**
 
-**Q8. (I.A.S. (Pre) 2000)** Which one of the following materials is very hard and
+Which one of the following materials is very hard and
 
 very ductile ?
 - (A) Carborundum
@@ -1654,20 +1431,14 @@ very ductile ?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (D)
-- **Must-Score Points:**
-  - Nichrome (NiCr, nickel-chrome, chrome-nickel, etc.)
-  - generally refers to any alloy of Nickel, Chromium and often
-  - Iron and/or other elements or substances. Nichrome is very
-  - hard and very ductile material. It has high specific resistivity,
-  - high melting point and minimum temperature coefficient. It
-  - also has the ability to operate at high temperature. Nichrome
-  - alloys are typically used in resistance wire. They are also used
-  - in some dental restorations (fillings) and in other applications.
+**Logic:** Standard key matches Nichrome.
+
+**Ans: D.** Nichrome
 </details>
 
+**Q-ST9. 40th B.P.S.C. (Pre) 1995**
 
-**Q9. (40th B.P.S.C. (Pre) 1995)** Heaviest metal of the following is made of –
+Heaviest metal of the following is made of –
 - (A) Copper
 - (B) Uranium
 - (C) Aluminium
@@ -1676,13 +1447,14 @@ very ductile ?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - See the explanation of above question.
+**Logic:** Standard key matches Uranium.
+
+**Ans: B.** Uranium
 </details>
 
+**Q-ST10. 63rd B.P.S.C. (Pre) 2017**
 
-**Q10. (63rd B.P.S.C. (Pre) 2017)** The heaviest metal among the following is :
+The heaviest metal among the following is :
 - (A) Gold
 - (B) Silver
 - (C) Mercury
@@ -1692,15 +1464,14 @@ very ductile ?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (D)
-- **Must-Score Points:**
-  - Among the given options, platinum is the heaviest metal with
-  - a density of 21.09 g/cm3
-  - .
+**Logic:** Standard key matches Platinum.
+
+**Ans: D.** Platinum
 </details>
 
+**Q-ST11. I.A.S. (Pre) 1994**
 
-**Q11. (I.A.S. (Pre) 1994)** The main constituents of pearl are –
+The main constituents of pearl are –
 - (A) Calcium Carbonate and Magnesium Carbonate
 - (B) Aragonite and Conchiolin
 - (C) Ammonium sulphate and Sodium Carbonate
@@ -1709,13 +1480,14 @@ very ductile ?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - See the explanation of above question.
+**Logic:** Standard key matches Aragonite and Conchiolin.
+
+**Ans: B.** Aragonite and Conchiolin
 </details>
 
+**Q-ST12. RAS/RTS(Pre) 2008**
 
-**Q12. (R.A.S./R.T.S.(Pre) 2008)** Pearl is mainly constituted of –
+Pearl is mainly constituted of –
 - (A) Calcium Oxalate
 - (B) Calcium Sulphate
 - (C) Calcium Carbonate
@@ -1724,13 +1496,14 @@ very ductile ?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (C)
-- **Must-Score Points:**
-  - See the explanation of above question.
+**Logic:** Standard key matches Calcium Carbonate.
+
+**Ans: C.** Calcium Carbonate
 </details>
 
+**Q-ST13. I.A.S. (Pre) 2008**
 
-**Q13. (I.A.S. (Pre) 2008)** What are Rubies and Sapphires chemically known as?
+What are Rubies and Sapphires chemically known as?
 - (A) Silicon Dioxide
 - (B) Aluminium Oxide
 - (C) Lead Tetroxide
@@ -1739,20 +1512,14 @@ very ductile ?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - Aluminium Oxide is a chemical compound of Aluminium
-  - and Oxygen with the chemical formula Al2
-  - O3
-  - . Corundum
-  - is the most common naturally occurring crystalline form of
-  - Aluminium Oxide. Rubies and Sapphires are gem-quality in
-  - forms of Corundum which owe their characteristic colours
-  - to trace impurities.
+**Logic:** Standard key matches Aluminium Oxide.
+
+**Ans: B.** Aluminium Oxide
 </details>
 
+**Q-ST14. 66th B.P.S.C. (Pre) (Re. Exam) 2020**
 
-**Q14. (66th B.P.S.C. (Pre) (Re. Exam) 2020)** The chemical formula of sapphire (Ruby) is :
+The chemical formula of sapphire (Ruby) is :
 - (A) Al2
 
 O3
@@ -1768,16 +1535,14 @@ O
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (A)
-- **Must-Score Points:**
-  - The chemical formula of sapphire (Ruby) is Al2
-  - O3
-  - (Aluminium Oxide). It is a precious gemstone, a variety of
-  - mineral corundum.
+**Logic:** Standard key matches Al2.
+
+**Ans: A.** Al2
 </details>
 
+**Q-ST15. I.A.S. (Pre) 1998**
 
-**Q15. (I.A.S. (Pre) 1998)** Assertion (A) : Sodium metal is stored under kerosene.
+Assertion (A) : Sodium metal is stored under kerosene.
 
 Reason (R) : Metallic sodium melts when exposed to air.
 - (A) Both
@@ -1798,17 +1563,14 @@ explanation of
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (C)
-- **Must-Score Points:**
-  - Sodium is kept in kerosene to prevent it from coming in
-  - contact with oxygen present in the air. If this happens, it
-  - will react with the oxygen and form sodium oxide. This is a
-  - strongly exothermic reaction and a lot of heat is generated.
-  - Thus, Sodium is kept under kerosene.
+**Logic:** Standard key matches - (A) is true, but (R) is false.
+
+**Ans: C.** (A) is true, but (R) is false
 </details>
 
+**Q-ST16. 67th B.P.S.C. (Pre) (Re. Exam) 2022**
 
-**Q16. (67th B.P.S.C. (Pre) (Re. Exam) 2022)** Consider the following statements with respect to noble
+Consider the following statements with respect to noble
 
 metals :
 
@@ -1826,21 +1588,14 @@ Which of the above statements is/are correct?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (D)
-- **Must-Score Points:**
-  - A noble metal is ordinarily regarded as a metallic chemical
-  - element that is generally resistant to corrosion and is usually
-  - found in nature in its raw form. Gold, platinum, and the other
-  - platinum group metals (ruthenium, rhodium, palladium,
-  - osmium, iridium) are most often so classified. Silver, copper
-  - and mercury are sometimes included as noble metals,
-  - however less often as each of these usually occurs in nature
-  - combined with sulfur. Uranium and lead are not examples
-  - of noble metals.
+**Logic:** Standard key matches 1 only.
+
+**Ans: D.** 1 only
 </details>
 
+**Q-ST17. 47th B.P.S.C. (Pre) 2005**
 
-**Q17. (47th B.P.S.C. (Pre) 2005)** Gold is dissolved in –
+Gold is dissolved in –
 - (A) Sulfuric acid
 - (B) Nitric acid
 - (C) Mixture of Sulfuric and Nitric Acid
@@ -1849,18 +1604,14 @@ Which of the above statements is/are correct?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (*)
-- **Must-Score Points:**
-  - Gold is unaffected in air, water, alkali halogen and all acids
-  - except Aqua regia (a mixture of hydrochloric acid and nitric
-  - Acid in a 3:1 ratio). The name Aqua-regia was coined by
-  - chemists because of its ability to dissolve gold "the king
-  - of metals". It is a mixture of acids, a fuming yellow or red
-  - solution.
+**Logic:** Key not printed in source dump (cancelled or blank).
+
+**Ans:** Source key blank.
 </details>
 
+**Q-ST18. M.P.P.C.S. (Pre) 1995**
 
-**Q18. (M.P.P.C.S. (Pre) 1995)** Of how many carats is the pure gold?
+Of how many carats is the pure gold?
 - (A) 22
 - (B) 24
 - (C) 28
@@ -1869,22 +1620,14 @@ Which of the above statements is/are correct?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - It is an extension of the older carat (Karat in American
-  - spelling) system of denoting the purity of gold by fractions
-  - of 24, such as '18 carat' for an alloy with 75% (18 parts
-  - per 24) pure gold by mass. Because of the softness of pure
-  - (24 carat) gold, it is usually alloyed with base metals
-  - for use in jewellery, altering its hardness and ductility,
-  - melting point, colour and other properties. Alloys with
-  - lower carat rating typically 22k, 18k, 14k or 10k contain
-  - higher percentages of copper or other base metals or silver
-  - or palladium in the alloy.
+**Logic:** Standard key matches 24.
+
+**Ans: B.** 24
 </details>
 
+**Q-ST19. 67th B.P.S.C. (Pre) (Re. Exam) 2022**
 
-**Q19. (67th B.P.S.C. (Pre) (Re. Exam) 2022)** Which among the following is also known as white
+Which among the following is also known as white
 
 metal?
 - (A) Nickel
@@ -1896,20 +1639,14 @@ metal?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (E)
-- **Must-Score Points:**
-  - In its most basic form, white metal is an alloy of lead and
-  - lithium, or other metals like cadmium, bismuth, and zinc.
-  - The term 'white metals' is generally used to describe a series
-  - of metal alloys with decorative bright and are mostly used
-  - as a base for plated silverware, ornaments, or novelties. The
-  - term is also used in the antiques trade for an item suspected
-  - of being silver, but not hallmarked. It is to be noted that
-  - platinum is a naturally occuring white metal.
+**Logic:** Standard key matches None of the above/More than one of the above.
+
+**Ans: E.** None of the above/More than one of the above
 </details>
 
+**Q-ST20. 53rd to 55th B.P.S.C. (Pre) 2011**
 
-**Q20. (53rd to 55th B.P.S.C. (Pre) 2011)** Minerals are :
+Minerals are :
 - (A) Liquids
 - (B) Inorganic solids
 - (C) Gases
@@ -1918,15 +1655,14 @@ metal?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - According to Geologists, minerals are naturally occurring
-  - inorganic substances with a definite and predictable chemical
-  - composition and physical properties.
+**Logic:** Standard key matches Inorganic solids.
+
+**Ans: B.** Inorganic solids
 </details>
 
+**Q-ST21. 67th B.P.S.C. (Pre) 2022**
 
-**Q21. (67th B.P.S.C. (Pre) 2022)** Ilmenite, which is widely distributed along the Indian
+Ilmenite, which is widely distributed along the Indian
 
 coastline, is a mineral of :
 - (A) tungsten
@@ -1938,23 +1674,14 @@ coastline, is a mineral of :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - Ilmenite is a titanium-iron oxide mineral with the idealized
-  - formula FeTiO3
-  - . It is a weakly magnetic black or steel-gray
-  - solid. Ilmenite is the most important ore of titanium and the
-  - main source of titanium dioxide, which is used in paints,
-  - printing inks, fabrics, plastics, paper, sunscreen, food and
-  - cosmetics. Ilmenite and rutile (TiO2 – also a mineral of
-  - ilmenite) along with other heavy minerals are important
-  - constituents of beach sand deposits found right from Moti
-  - Daman-Umbrat coast (Gujarat) in the west to Odisha coast
-  - in the east.
+**Logic:** Standard key matches titanium.
+
+**Ans: B.** titanium
 </details>
 
+**Q-ST22. RAS/RTS(Pre) 1999**
 
-**Q22. (R.A.S./R.T.S.(Pre) 1999)** The softest mineral, Talc (Soapstone) is mainly :
+The softest mineral, Talc (Soapstone) is mainly :
 - (A) Manganese Silicate
 - (B) Sodium Silicate
 - (C) Sodium Phosphate
@@ -1963,22 +1690,14 @@ coastline, is a mineral of :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (D)
-- **Must-Score Points:**
-  - Talc is a mineral which is composed of hydrated Magnesium
-  - silicate with formula Mg3
-  - Si4
-  - O10(OH)2
-  - . On the Mohs hardness
-  - scale, the softest mineral talc is rated 1 and the hardest
-  - mineral, the diamond is rated 10. In loose form, talc is the
-  - widely used substance known as a baby powder (aka talcum).
-  - It occurs as foliated to fibrous masses and in an exceptionally
-  - rare crystal form.
+**Logic:** Standard key matches Magnesium Silicate.
+
+**Ans: D.** Magnesium Silicate
 </details>
 
+**Q-ST23. 67th B.P.S.C. (Pre) (Re. Exam) 2022**
 
-**Q23. (67th B.P.S.C. (Pre) (Re. Exam) 2022)** Which among the following is known as quicklime?
+Which among the following is known as quicklime?
 - (A) CaO
 - (B) CaCO2
 - (C) Ca(OH)2
@@ -1988,15 +1707,14 @@ coastline, is a mineral of :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (A)
-- **Must-Score Points:**
-  - Calcium oxide (CaO), commonly known as quicklime or
-  - burnt lime, is a widely used chemical compound. It is a white,
-  - caustic, alkaline, crystalline solid at room temperature.
+**Logic:** Standard key matches CaO.
+
+**Ans: A.** CaO
 </details>
 
+**Q-ST24. 67th B.P.S.C. (Pre) 2022**
 
-**Q24. (67th B.P.S.C. (Pre) 2022)** Which of the following is the main ingredient of
+Which of the following is the main ingredient of
 
 cement?
 - (A) Limestone
@@ -2008,29 +1726,14 @@ cement?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (E)
-- **Must-Score Points:**
-  - Cement is made with limestone, silica clay, and marl as the
-  - main raw materials. Lime is the main ingredient of cement,
-  - accounting for about 60 – 65% of total cement weight. Silica is
-  - the second major ingredient of cement and about 17 to 25% of
-  - cement ingredients is silica. Cement (OPC) is made by heating
-  - limestone (calcium carbonate) with other materials (such as clay)
-  - to 1,450 °C (2,640 °F) in a kiln, in a process known as calcination
-  - that liberates a molecule of carbon dioxide from the calcium
-  - carbonate to form calcium oxide (CaO), or quicklime, which
-  - then chemically combines with the other materials in the mix
-  - to form calcium silicates and other cementitious compounds.
-  - The resulting hard substance, called 'clinker', is then ground
-  - with a small amount of gypsum (CaSO4
-  - .2H2
-  - O) into a powder
-  - to make ordinary Portland cement, the most commonly used
-  - type of cement (often referred to as OPC).
+**Logic:** Standard key matches None of the above/More than one of the above.
+
+**Ans: E.** None of the above/More than one of the above
 </details>
 
+**Q-ST25. I.A.S. (Pre) 2025**
 
-**Q25. (I.A.S. (Pre) 2025)** Consider the following statements :
+Consider the following statements :
 
 Statement I : Studies indicate that carbon dioxide
 
@@ -2063,39 +1766,14 @@ that explains Statement I.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - According to United Nations regional reports and recent
-  - scientific studies, the cement sector contributes about 5%-8%
-  - of global anthropogenic CO2
-  - emissions; therefore, Statement
-  - I is correct.
-  - Statement II is correct because, in practice, the raw mix used
-  - for cement manufacturing includes silica-bearing clay along
-  - with limestone as a standard component.
-  - During clinker production in cement manufacturing,
-  - limestone is converted into lime (CaO), and a large amount of
-  - process-related CO2
-  - is emitted during this reaction. Therefore,
-  - Statement III is also correct.
-  - Statement II describes the composition of raw materials, but
-  - it does not directly explain the high level of CO2
-  - emissions
-  - (i.e., a contribution of more than 5% to global emissions).
-  - The real explanation of Statement I (high CO2
-  - emissions)
-  - is mainly provided by Statement III, because the chemical
-  - conversion of limestone to lime, along with fuel combustion
-  - to heat the kiln, releases a very large amount of CO2
-  - – due to
-  - which the cement industry’s share in global emissions exceeds
-  - 5%. Thus, Statements II and III are both factually correct,
-  - but the actual explanation of Statement I is mainly provided
-  - by Statement III. Hence, option (b) is the correct answer.
+**Logic:** Standard key matches Both Statement II and Statement III are correct but.
+
+**Ans: B.** Both Statement II and Statement III are correct but
 </details>
 
+**Q-ST26. Chhattisgarh P.C.S. (Pre) 2019**
 
-**Q26. (Chhattisgarh P.C.S. (Pre) 2019)** 'Plaster of Paris' is made up of :
+'Plaster of Paris' is made up of :
 - (A) Marble
 - (B) Cement
 - (C) Gypsum
@@ -2104,18 +1782,14 @@ that explains Statement I.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (C)
-- **Must-Score Points:**
-  - Plaster of Paris is a white powdery slightly hydrated calcium
-  - sulfate (CaSO4
-  - .1/2 H2
-  - O) made by calcining gypsum and used
-  - mainly for casts and molds in the form of a quick-setting
-  - paste with water.
+**Logic:** Standard key matches Gypsum.
+
+**Ans: C.** Gypsum
 </details>
 
+**Q-ST27. 63rd B.P.S.C. (Pre) 2017**
 
-**Q27. (63rd B.P.S.C. (Pre) 2017)** To protect broken bones, Plaster of Paris is used. It is :
+To protect broken bones, Plaster of Paris is used. It is :
 - (A) Slaked lime
 - (B) Calcium carbonate
 - (C) Calcium oxide
@@ -2125,13 +1799,14 @@ that explains Statement I.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (D)
-- **Must-Score Points:**
-  - See the explanation of above question.
+**Logic:** Standard key matches Gypsum.
+
+**Ans: D.** Gypsum
 </details>
 
+**Q-ST28. RAS/RTS(Pre) 2007**
 
-**Q28. (R.A.S./R.T.S.(Pre) 2007)** Chemically 'Plaster of Paris' is :
+Chemically 'Plaster of Paris' is :
 - (A) Calcium Sulphate
 - (B) Calcium Carbonate
 - (C) Calcium Oxide
@@ -2140,13 +1815,14 @@ that explains Statement I.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (A)
-- **Must-Score Points:**
-  - See the explanation of above question.
+**Logic:** Standard key matches Calcium Sulphate.
+
+**Ans: A.** Calcium Sulphate
 </details>
 
+**Q-ST29. 42nd B.P.S.C. (Pre) 1997 · 39th B.P.S.C. (Pre) 1994**
 
-**Q29. (42nd B.P.S.C. (Pre) 1997 · 39th B.P.S.C. (Pre) 1994)** The chemical formula of the Plaster of Paris is –
+The chemical formula of the Plaster of Paris is –
 - (A) CaSO4
 - (B) CaSO4
 
@@ -2167,13 +1843,14 @@ O
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - See the explanation of above question.
+**Logic:** Standard key matches CaSO4.
+
+**Ans: B.** CaSO4
 </details>
 
+**Q-ST30. I.A.S. (Pre) 1994**
 
-**Q30. (I.A.S. (Pre) 1994)** Monazite is an ore of –
+Monazite is an ore of –
 - (A) Zirconium
 - (B) Thorium
 - (C) Titanium
@@ -2182,19 +1859,14 @@ O
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - Monazite is an important ore for Thorium, Lanthanum
-  - and Cerium. India, Madagascar and South Africa have
-  - large deposits of monazite sands. The deposits in India are
-  - particularly rich in Monazite. Its deposits are found in coastal
-  - beach placer sands in parts of Kerala, Tamil Nadu, Odisha,
-  - Andhra Pradesh, Maharashtra and Gujarat and in the inland
-  - placers in parts of Jharkhand, West Bengal and Tamil Nadu.
+**Logic:** Standard key matches Thorium.
+
+**Ans: B.** Thorium
 </details>
 
+**Q-ST31. Chhattisgarh P.C.S. (Pre) 2003**
 
-**Q31. (Chhattisgarh P.C.S. (Pre) 2003)** Mica is a :
+Mica is a :
 - (A) Good conductor of heat and bad conductor of
 
 electricity
@@ -2207,17 +1879,14 @@ electricity
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (A)
-- **Must-Score Points:**
-  - (1) Good conductors of electricity are : Aluminum, Brass,
-  - Copper, Iron, Steel (2) Bad conductors of electricity are :
-  - Acrylic, China clay, Glass, Mica, Paper, Plastic & Wood.
-  - Mica is a bad conductor of electricity but a good conductor
-  - of heat. It is used as a raw material in electrical industry.
+**Logic:** Standard key matches Good conductor of heat and bad conductor of.
+
+**Ans: A.** Good conductor of heat and bad conductor of
 </details>
 
+**Q-ST32. 66th B.P.S.C. (Pre) 2020**
 
-**Q32. (66th B.P.S.C. (Pre) 2020)** The poorest conductor of heat among the following is :
+The poorest conductor of heat among the following is :
 - (A) copper
 - (B) lead
 - (C) mercury
@@ -2227,17 +1896,14 @@ electricity
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (C)
-- **Must-Score Points:**
-  - All metals are conductors of heat but lead and mercury are
-  - poor conductors of heat compared to other metals. Thermal
-  - conductivity of lead is about 34.7 w/mK while thermal
-  - conductivity of mercury is only about 8.31 w/mK. Hence,
-  - mercury is the poorest conductor of heat among all metals.
+**Logic:** Standard key matches mercury.
+
+**Ans: C.** mercury
 </details>
 
+**Q-ST33. Jharkhand P.C.S. (Pre) 2013**
 
-**Q33. (Jharkhand P.C.S. (Pre) 2013)** Which of the following is in liquid form at room
+Which of the following is in liquid form at room
 
 temperature?
 - (A) Lithium
@@ -2248,18 +1914,14 @@ temperature?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (C)
-- **Must-Score Points:**
-  - There are two elements Bromine and Mercury that are liquid
-  - at the room temperature (298 K or 25o
-  - C). There are four
-  - more elements which melt just a few degree above room
-  - temperature. These are Francium, Caesium, Gallium and
-  - Rubidium.
+**Logic:** Standard key matches Francium.
+
+**Ans: C.** Francium
 </details>
 
+**Q-ST34. Chhattisgarh P.C.S. (Pre) 2015**
 
-**Q34. (Chhattisgarh P.C.S. (Pre) 2015)** Which of the following do not react with water at all?
+Which of the following do not react with water at all?
 - (A) Iron
 - (B) Lead
 - (C) Magnesium
@@ -2269,20 +1931,14 @@ temperature?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - Metals like potassium and sodium react violently with cold
-  - water. The reaction of calcium with water is less violent.
-  - Magnesium does not react with cold water but it reacts
-  - with hot water. Metals like aluminium, iron and zinc do not
-  - react either with cold or hot water but they react with steam.
-  - Metals such as lead, copper, silver, gold and platinum do
-  - not react with water at all (neither with cold or hot water nor
-  - with steam).
+**Logic:** Standard key matches Lead.
+
+**Ans: B.** Lead
 </details>
 
+**Q-ST35. 38th B.P.S.C. (Pre) 1992**
 
-**Q35. (38th B.P.S.C. (Pre) 1992)** There is no reaction when steam passes over :
+There is no reaction when steam passes over :
 - (A) Aluminium
 - (B) Copper
 - (C) Carbon
@@ -2291,13 +1947,14 @@ temperature?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - See the explanation of above question.
+**Logic:** Standard key matches Copper.
+
+**Ans: B.** Copper
 </details>
 
+**Q-ST36. RAS/RTS (Pre) 1999**
 
-**Q36. (R.A.S./R.T.S. (Pre) 1999)** Iron is obtained from :
+Iron is obtained from :
 - (A) Limestone
 - (B) Pitch-blende
 - (C) Monazite Sand
@@ -2306,20 +1963,14 @@ temperature?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (D)
-- **Must-Score Points:**
-  - Iron ores are rocks and minerals from which metallic iron can
-  - be economically extracted. The ores are usually rich in iron
-  - oxides and the iron is usually found in the form of magnetite
-  - (Fe3
-  - O4
-  - ~ 72.4 % Fe) and haematite (Fe2
-  - O3
-  - ~ 69.9 % Fe).
+**Logic:** Standard key matches Haematite.
+
+**Ans: D.** Haematite
 </details>
 
+**Q-ST37. 60th- 62nd B.P.S.C. (Pre) 2016**
 
-**Q37. (60th- 62nd B.P.S.C. (Pre) 2016)** Which of the following iron ores is mined at Bailadila?
+Which of the following iron ores is mined at Bailadila?
 - (A) Haematite
 - (B) Siderite
 - (C) Limonite
@@ -2329,19 +1980,14 @@ temperature?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (A)
-- **Must-Score Points:**
-  - Bailadila range of mines is perched on the southern tip of
-  - Chhattisgarh in Dantewada district. Very high grade iron ore
-  - haematite is mined at Bailadila. The association of very rich
-  - and extensive iron ores with haematite in the Bailadila range
-  - has first been made known to the world between 1898-1900
-  - by P.N. Bose, who was the first to do geological mapping
-  - of this region.
+**Logic:** Standard key matches Haematite.
+
+**Ans: A.** Haematite
 </details>
 
+**Q-ST38. 67th B.P.S.C. (Pre) (Re. Exam) 2022**
 
-**Q38. (67th B.P.S.C. (Pre) (Re. Exam) 2022)** What happens to the weight of iron, when it rusts?
+What happens to the weight of iron, when it rusts?
 - (A) Increases for long time
 - (B) Decreases then increases
 - (C) Increases then decreases
@@ -2351,13 +1997,14 @@ temperature?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (A)
-- **Must-Score Points:**
-  - See the explanation of above question.
+**Logic:** Standard key matches Increases for long time.
+
+**Ans: A.** Increases for long time
 </details>
 
+**Q-ST39. 63rd B.P.S.C. (Pre) 2017**
 
-**Q39. (63rd B.P.S.C. (Pre) 2017)** Galvanized iron pipes have a coating of :
+Galvanized iron pipes have a coating of :
 - (A) Zinc
 - (B) Mercury
 - (C) Lead
@@ -2367,13 +2014,14 @@ temperature?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (A)
-- **Must-Score Points:**
-  - See the explanation of above question.
+**Logic:** Standard key matches Zinc.
+
+**Ans: A.** Zinc
 </details>
 
+**Q-ST40. I.A.S. (Pre) 1994**
 
-**Q40. (I.A.S. (Pre) 1994)** The plates of galvanized iron remains protected from
+The plates of galvanized iron remains protected from
 
 rust because the existence of –
 - (A) Lead
@@ -2384,13 +2032,14 @@ rust because the existence of –
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (C)
-- **Must-Score Points:**
-  - See the explanation of above question.
+**Logic:** Standard key matches Zinc.
+
+**Ans: C.** Zinc
 </details>
 
+**Q-ST41. Chhattisgarh P.C.S. (Pre) 2011**
 
-**Q41. (Chhattisgarh P.C.S. (Pre) 2011)** Galvanized iron is coated with –
+Galvanized iron is coated with –
 - (A) Aluminium
 - (B) Galena
 - (C) Silver
@@ -2399,13 +2048,14 @@ rust because the existence of –
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (D)
-- **Must-Score Points:**
-  - See the explanation of above question.
+**Logic:** Standard key matches Zinc.
+
+**Ans: D.** Zinc
 </details>
 
+**Q-ST42. 71st B.P.S.C. (Pre) 2025**
 
-**Q42. (71st B.P.S.C. (Pre) 2025)** Why oil is not stored in galvanized iron pot?
+Why oil is not stored in galvanized iron pot?
 - (A) It produce toxic compound
 - (B) It reduced quality of oil
 - (C) Corrosion observe
@@ -2414,24 +2064,14 @@ rust because the existence of –
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (D)
-- **Must-Score Points:**
-  - Galvanized iron is iron coated with a layer of zinc (Zn) to
-  - protect it from rusting. The zinc layer reacts with free fatty
-  - acids and moisture present in oil and can form toxic zinc
-  - compounds. Zinc salts and metal ions can increase the rate
-  - of oxidation (rancidity) of oil and reduce its quality. Thus,
-  - the reaction between the metal coating and the oil can lead
-  - to chemical changes, resulting in rancidity, unpleasant odors,
-  - and a metallic, bitter taste, which is considered unsafe for
-  - consumption. Also, due to these reactions, the protective zinc
-  - layer gradually gets corroded, and the iron underneath comes
-  - in contact with moisture and oxygen, due to which corrosion
-  - and rusting are clearly observed.
+**Logic:** Standard key matches All of above.
+
+**Ans: D.** All of above
 </details>
 
+**Q-ST43. R.A.S/R.T.S (Pre) 2018**
 
-**Q43. (R.A.S/R.T.S (Pre) 2018)** Which metal is generally used for coating of brass
+Which metal is generally used for coating of brass
 
 utensils to prevent copper contamination?
 - (A) Tin
@@ -2442,14 +2082,14 @@ utensils to prevent copper contamination?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (A)
-- **Must-Score Points:**
-  - The coating of tin on brass utensils prevents copper contamination. Tin is a soft and white metal like silver. Its symbol
-  - is Sn with atomic no. 50.
+**Logic:** Standard key matches Tin.
+
+**Ans: A.** Tin
 </details>
 
+**Q-ST44. I.A.S. (Pre) 2000**
 
-**Q44. (I.A.S. (Pre) 2000)** Aluminium surface is often 'Anodized'. This means
+Aluminium surface is often 'Anodized'. This means
 
 the deposition of a layer of –
 - (A) Chromium Oxide
@@ -2460,15 +2100,14 @@ the deposition of a layer of –
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - Anodizing is an electrochemical process by which the surface
-  - of a metal is made durable and rust resistant. In this process,
-  - a layer of aluminium oxide is deposited on aluminium.
+**Logic:** Standard key matches Aluminium Oxide.
+
+**Ans: B.** Aluminium Oxide
 </details>
 
+**Q-ST45. 70th B.P.S.C. (Pre) (Re-Exam) 2024**
 
-**Q45. (70th B.P.S.C. (Pre) (Re-Exam) 2024)** Standard electrode potential of three metals A, B and
+Standard electrode potential of three metals A, B and
 
 C are respectively 0.5 V, – 3 V and – 1.2 V. Reducing
 
@@ -2481,20 +2120,14 @@ power of these metals would be :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - The more negative standard electrode potential of a metal,
-  - the greater its tendency to be oxidised (lose electrons) and
-  - act as a stronger reducing agent.
-  - Metal Standard Electrode Potential
-  - A 0.5 V
-  - B – 3 V
-  - C – 1.2 V
-  - Hence, Reducing Power (Oxidising Ability) : B > C > A
+**Logic:** Standard key matches B > C > A.
+
+**Ans: B.** B > C > A
 </details>
 
+**Q-ST46. M.P.P.C.S. (Pre) 2005**
 
-**Q46. (M.P.P.C.S. (Pre) 2005)** Which of the following is mainly used for the
+Which of the following is mainly used for the
 
 production of Aluminium?
 - (A) Haematite
@@ -2505,20 +2138,14 @@ production of Aluminium?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (C)
-- **Must-Score Points:**
-  - Bauxite is an ore of aluminium, which is found in the form
-  - of hydrated aluminium oxides. It is used as a principal
-  - raw material in aluminium industry. It consists mostly of
-  - the minerals gibbsite Al(OH)3
-  - , boehmite γ-AlO(OH) and
-  - diaspore α-AlO(OH) mixed with the two iron oxides goethite
-  - and haematite. The French geologist first discovered bauxite
-  - near the village of Les Baux, Southern France.
+**Logic:** Standard key matches Bauxite.
+
+**Ans: C.** Bauxite
 </details>
 
+**Q-ST47. 67th B.P.S.C. (Pre) 2022**
 
-**Q47. (67th B.P.S.C. (Pre) 2022)** The most important ore of aluminium :
+The most important ore of aluminium :
 - (A) bauxite
 - (B) calamine
 - (C) calcite
@@ -2528,13 +2155,14 @@ production of Aluminium?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (A)
-- **Must-Score Points:**
-  - See the explanation of above question.
+**Logic:** Standard key matches bauxite.
+
+**Ans: A.** bauxite
 </details>
 
+**Q-ST48. Chhattisgarh P.C.S. (Pre) 2018**
 
-**Q48. (Chhattisgarh P.C.S. (Pre) 2018)** Which of the following industries uses bauxite as a
+Which of the following industries uses bauxite as a
 
 principal raw material?
 - (A) Aluminium
@@ -2545,13 +2173,14 @@ principal raw material?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (A)
-- **Must-Score Points:**
-  - See the explanation of above question.
+**Logic:** Standard key matches Aluminium.
+
+**Ans: A.** Aluminium
 </details>
 
+**Q-ST49. 70th B.P.S.C. (Pre) 2024**
 
-**Q49. (70th B.P.S.C. (Pre) 2024)** Which of the following corundum and cryolite are
+Which of the following corundum and cryolite are
 
 important ores ?
 - (A) Aluminium
@@ -2562,24 +2191,14 @@ important ores ?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (A)
-- **Must-Score Points:**
-  - Bauxite (Al2
-  - O3
-  - .2H2
-  - O), Cryolite (Na3
-  - AlF6
-  - ), Corundum (Al2
-  - O3
-  - )
-  - and Diaspore [AlO(OH)] are major ores of aluminium.
-  - Aluminium is found on Earth primarily in rocks in the crust,
-  - where it is the third-most abundant element, after oxygen
-  - and silicon.
+**Logic:** Standard key matches Aluminium.
+
+**Ans: A.** Aluminium
 </details>
 
+**Q-ST50. I.A.S. (Pre) 2003**
 
-**Q50. (I.A.S. (Pre) 2003)** Which one of the following statements is correct ?
+Which one of the following statements is correct ?
 - (A) Liquid sodium is employed as a coolant in nuclear
 
 reactors
@@ -2592,27 +2211,14 @@ lime
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - The precipitated calcium carbonates (PCCs) and ground
-  - calcium carbonates (GCCs) are used for general purpose
-  - toothpaste specially dentifrices and other oral care products.
-  - Calcium carbonate is used as an abrasive in toothpaste.
-  - Calcium carbonate is insoluble in water so it can only be
-  - used in opaque products, not in clear gels.
-  - Generally normal water or heavy water is used as coolant
-  - under high pressure in nuclear reactors. Molten sodium is
-  - used as coolant in Fast Breeder Test Reactor (FBTR).
-  - Bordeaux mixture consists of copper sulphate and lime.
-  - Zinc amalgams are not used as a dental filing. Dental
-  - amalgam is produced by mixing liquid mercury with an
-  - alloy made of silver, tin, and copper solid particles. Small
-  - quantity of zinc, mercury and other metals may be present
-  - in some alloys.
+**Logic:** Standard key matches Calcium carbonate is an ingredient of toothpaste.
+
+**Ans: B.** Calcium carbonate is an ingredient of toothpaste
 </details>
 
+**Q-ST51. I.A.S. (Pre) 2000**
 
-**Q51. (I.A.S. (Pre) 2000)** Match List-I (Industrial process) with List-II (Industry
+Match List-I (Industrial process) with List-II (Industry
 
 with which associated) and select the correct answer
 
@@ -2639,16 +2245,14 @@ A B C D
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - Cracking – Petroleum
-  - Smelting – Copper
-  - Hydrogenation – Edible Fats
-  - Vulcanization – Rubber
+**Logic:** Standard key matches Smelting 2.
+
+**Ans: B.** Smelting 2.
 </details>
 
+**Q-ST52. I.A.S. (Pre) 2005**
 
-**Q52. (I.A.S. (Pre) 2005)** Which one of the following is the correct sequence of
+Which one of the following is the correct sequence of
 
 the given substances in the decreasing order of their
 
@@ -2661,23 +2265,14 @@ densities?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - Substance Density (gram/cm3
-  - )
-  - Gold
-  - Mercury
-  - Steel
-  - 19.3
-  - 13.6
-  - 7.8
-  - Thus, the correct sequence of the given substances in the
-  - decreasing order of their densities is as follows :
-  - Gold > Mercury > Steel.
+**Logic:** Standard key matches Gold > Mercury > Steel.
+
+**Ans: B.** Gold > Mercury > Steel
 </details>
 
+**Q-ST53. 66th B.P.S.C. (Pre) (Re. Exam) 2020**
 
-**Q53. (66th B.P.S.C. (Pre) (Re. Exam) 2020)** Which of the following has highest melting point?
+Which of the following has highest melting point?
 - (A) Boron
 - (B) Iron
 - (C) Silicon
@@ -2687,15 +2282,14 @@ densities?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (A)
-- **Must-Score Points:**
-  - Melting point of Boron – 2453 K, Iron – 1808 K, Silicon –
-  - 1693 K and Aluminium – 933 K. Hence, among the given
-  - options, Boron has highest melting point.
+**Logic:** Standard key matches Boron.
+
+**Ans: A.** Boron
 </details>
 
+**Q-ST54. M.P.P.C.S. (Pre) 1998**
 
-**Q54. (M.P.P.C.S. (Pre) 1998)** Out of the following which is not an alloy?
+Out of the following which is not an alloy?
 - (A) Steel
 - (B) Brass
 - (C) Bronze
@@ -2704,13 +2298,14 @@ densities?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (D)
-- **Must-Score Points:**
-  - Copper is a metal, however steel, brass and bronze are alloys.
+**Logic:** Standard key matches Copper.
+
+**Ans: D.** Copper
 </details>
 
+**Q-ST55. 43rd B.P.S.C. (Pre) 1999**
 
-**Q55. (43rd B.P.S.C. (Pre) 1999)** Alloy of which metal is used to make aeroplane and
+Alloy of which metal is used to make aeroplane and
 
 parts of the compartment of the train?
 - (A) Copper
@@ -2721,18 +2316,14 @@ parts of the compartment of the train?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (C)
-- **Must-Score Points:**
-  - Low density and strength make aluminium ideal for
-  - construction of aircraft, lightweight vehicles and ladders.An
-  - alloy of aluminium called Duralumin is often used instead
-  - of pure aluminium because of its improved properties. Easy
-  - shaping and corrosion resistance make aluminium a good
-  - material for drinking cans and roofing materials.
+**Logic:** Standard key matches Aluminium.
+
+**Ans: C.** Aluminium
 </details>
 
+**Q-ST56. 39th B.P.S.C. (Pre) 1994**
 
-**Q56. (39th B.P.S.C. (Pre) 1994)** Mercury-metal mixture is –
+Mercury-metal mixture is –
 - (A) High colour alloy
 - (B) Carbon mixed alloy
 - (C) Mercury mixed alloy
@@ -2741,15 +2332,14 @@ parts of the compartment of the train?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (C)
-- **Must-Score Points:**
-  - An amalgam is a substance formed by the reaction of
-  - mercury with another metal. Almost all metals can form
-  - amalgams with mercury, the notable exception being iron.
+**Logic:** Standard key matches Mercury mixed alloy.
+
+**Ans: C.** Mercury mixed alloy
 </details>
 
+**Q-ST57. I.A.S. (Pre) 1998**
 
-**Q57. (I.A.S. (Pre) 1998)** Which one of the following metals does not form amalgam ?
+Which one of the following metals does not form amalgam ?
 - (A) Zinc
 - (B) Copper
 - (C) Magnesium
@@ -2758,13 +2348,14 @@ parts of the compartment of the train?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (D)
-- **Must-Score Points:**
-  - See the explanation of above question.
+**Logic:** Standard key matches Iron.
+
+**Ans: D.** Iron
 </details>
 
+**Q-ST58. I.A.S. (Pre) 2000**
 
-**Q58. (I.A.S. (Pre) 2000)** Match List-I with List-II and select the correct answer
+Match List-I with List-II and select the correct answer
 
 using the codes given below the lists :
 
@@ -2789,18 +2380,14 @@ A B C D
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (D)
-- **Must-Score Points:**
-  - German Silver or Nickel silver is an alloy consisting of Copper (around 60%), Zinc (around 20%) and Nickel (around
-  - 20%). It doesn't have Silver. Solder of Tin and Lead is known
-  - as soft solder. The chemical name of bleaching powder is
-  - calcium hypochlorite Ca(ClO)2
-  - . Sodium Thiosulphate (Hypo)
-  - is a crystalline white smellless solid.
+**Logic:** Standard key matches Hypo 4.
+
+**Ans: D.** Hypo 4.
 </details>
 
+**Q-ST59. Chhattisgarh P.C.S. (Pre) 2020**
 
-**Q59. (Chhattisgarh P.C.S. (Pre) 2020)** How much percentage of silver is found in German
+How much percentage of silver is found in German
 
 Silver?
 - (A) 20%
@@ -2811,13 +2398,14 @@ Silver?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (D)
-- **Must-Score Points:**
-  - See the explanation of above question.
+**Logic:** Standard key matches None of these.
+
+**Ans: D.** None of these
 </details>
 
+**Q-ST60. RAS/RTS (Pre) 2007**
 
-**Q60. (R.A.S./R.T.S. (Pre) 2007)** Which one of the following elements is not present in
+Which one of the following elements is not present in
 
 the German Silver?
 - (A) Copper
@@ -2828,13 +2416,14 @@ the German Silver?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - See the explanation of above question.
+**Logic:** Standard key matches Aluminium.
+
+**Ans: B.** Aluminium
 </details>
 
+**Q-ST61. 47th B.P.S.C. (Pre) 2005 · RAS/RTS (Pre) 1997**
 
-**Q61. (47th B.P.S.C. (Pre) 2005 · R.A.S./R.T.S. (Pre) 1997)** Brass is an alloy of –
+Brass is an alloy of –
 - (A) Copper and Nickel
 - (B) Nickel and Zinc
 - (C) Copper and Zinc
@@ -2843,13 +2432,14 @@ the German Silver?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (C)
-- **Must-Score Points:**
-  - See the explanation of above question.
+**Logic:** Standard key matches Copper and Zinc.
+
+**Ans: C.** Copper and Zinc
 </details>
 
+**Q-ST62. 67th B.P.S.C. (Pre) (Re. Exam) 2022**
 
-**Q62. (67th B.P.S.C. (Pre) (Re. Exam) 2022)** Which among the following are constituents of brass?
+Which among the following are constituents of brass?
 - (A) Zinc and copper
 - (B) Iron and zinc
 - (C) Copper and nickel
@@ -2859,13 +2449,14 @@ the German Silver?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (A)
-- **Must-Score Points:**
-  - See the explanation of above question.
+**Logic:** Standard key matches Zinc and copper.
+
+**Ans: A.** Zinc and copper
 </details>
 
+**Q-ST63. Jharkhand P.C.S. (Pre) 2013**
 
-**Q63. (Jharkhand P.C.S. (Pre) 2013)** Brass gets fade colour in air due to the presence of –
+Brass gets fade colour in air due to the presence of –
 - (A) Oxygen
 - (B) Hydrogen Sulphide
 - (C) Carbon dioxide
@@ -2874,13 +2465,14 @@ the German Silver?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - Hydrogen Sulphide is responsible for fading of Brass.
+**Logic:** Standard key matches Hydrogen Sulphide.
+
+**Ans: B.** Hydrogen Sulphide
 </details>
 
+**Q-ST64. 42nd B.P.S.C. (Pre) 1997**
 
-**Q64. (42nd B.P.S.C. (Pre) 1997)** To make the steel hard requires increase in –
+To make the steel hard requires increase in –
 - (A) The quantity of Carbon
 - (B) The quantity of Manganese
 - (C) The quantity of Silicon
@@ -2889,17 +2481,14 @@ the German Silver?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (A)
-- **Must-Score Points:**
-  - Steels are alloys of Iron and other elements primarily Carbon
-  - and are widely used in construction and other area. Carbon
-  - mixed in Iron as a hardening agent which strengthens Iron
-  - by distorting its crystal lattice. This distortion results in
-  - hardening.
+**Logic:** Standard key matches The quantity of Carbon.
+
+**Ans: A.** The quantity of Carbon
 </details>
 
+**Q-ST65. I.A.S. (Pre) 2020**
 
-**Q65. (I.A.S. (Pre) 2020)** Steel slag can be the material for which of the following?
+Steel slag can be the material for which of the following?
 
 1. Construction of base road
 
@@ -2916,34 +2505,14 @@ Select the correct answer using the code given below:
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (D)
-- **Must-Score Points:**
-  - Steel slag is an unavoidable by-product in iron and steel
-  - production. Steel slags are produced at steel melting shop
-  - during steel manufacturing. In steel slags, total iron content
-  - varies from around 16% to 25%. It also contains calcium,
-  - silicon, manganese, phosphate, etc. It has shown potential for
-  - use as a raw mix components up to 10% in the manufacture
-  - of cement clinker. Steel slag can also replace granulated
-  - blast furnace slag up to 10% in the manufacture of portland
-  - slag cement. Its physical characteristics are similar to aircooled iron slag and hence it is suitable for use in readymixed concrete, concrete products, road bases and similar
-  - applications in construction. Steel slag has found use as a
-  - barrier material remedy for waste sites where heavy metals
-  - tend to leach into the surrounding environment. Steel slag
-  - forces the heavy metals to drop out of solution in water runoff
-  - because of its high oxide mineral content. It has been used
-  - successfully to treat acidic water discharges from abandoned
-  - mines. Steel slag can be used to treat acidic soils. According
-  - to the Ministry of Steel, the use of steel slag may be one of
-  - the most green solutions that may avoid the accumulation of
-  - large wastes in steel plants as well as help in the treatment
-  - of soil for improving crop productivity at low cost. From the
-  - above explanation, it is clear that all of the given statements
-  - are correct.
+**Logic:** Standard key matches 1, 2 and 3.
+
+**Ans: D.** 1, 2 and 3
 </details>
 
+**Q-ST66. I.A.S. (Pre) 1996**
 
-**Q66. (I.A.S. (Pre) 1996)** Which of the following elements is added to iron to
+Which of the following elements is added to iron to
 
 produce steel which can resist high temperature, have
 
@@ -2956,15 +2525,14 @@ high hardness and abrasion resistance ?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - Stainless steel is a steel alloy with Chromium content. The
-  - presence of Chromium protects steel from corrosion, rust
-  - and make it high-temperature resistant.
+**Logic:** Standard key matches Chromium.
+
+**Ans: B.** Chromium
 </details>
 
+**Q-ST67. Chhattisgarh P.C.S. (Pre) 2011**
 
-**Q67. (Chhattisgarh P.C.S. (Pre) 2011)** The important metal used with iron to make it rust free–
+The important metal used with iron to make it rust free–
 - (A) Aluminium
 - (B) Carbon
 - (C) Chromium
@@ -2973,13 +2541,14 @@ high hardness and abrasion resistance ?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (C)
-- **Must-Score Points:**
-  - See the explanation of above question.
+**Logic:** Standard key matches Chromium.
+
+**Ans: C.** Chromium
 </details>
 
+**Q-ST68. 63rd B.P.S.C. (Pre) 2017**
 
-**Q68. (63rd B.P.S.C. (Pre) 2017)** Stainless steel is an alloy of :
+Stainless steel is an alloy of :
 - (A) Iron and nickel
 - (B) Iron and chromium
 - (C) Copper and chromium
@@ -2989,13 +2558,14 @@ high hardness and abrasion resistance ?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (E)
-- **Must-Score Points:**
-  - See the explanation of above question.
+**Logic:** Standard key matches None of the above/More than one of the above.
+
+**Ans: E.** None of the above/More than one of the above
 </details>
 
+**Q-ST69. M.P.P.C.S. (Pre) 2000**
 
-**Q69. (M.P.P.C.S. (Pre) 2000)** How much carbon does steel contain?
+How much carbon does steel contain?
 - (A) 0.1–2%
 - (B) 7–10%
 - (C) 10–50%
@@ -3004,504 +2574,10 @@ high hardness and abrasion resistance ?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (A)
-- **Must-Score Points:**
-  - Steel is an alloy of iron and carbon containing upto 2%
-  - carbon. Hence, among the given options, option (a) is the
-  - correct answer.
+**Logic:** Standard key matches 0.1–2%.
+
+**Ans: A.** 0.1–2%
 </details>
-
-
-## Practice Zone — High-Yield Mock Drills (26 Questions)
-
-**Q1.** Which of the following metals has the lowest melting point and is liquid at room temperature?  
-(a) Gallium  
-(b) Caesium  
-(c) Mercury  
-(d) Lead  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (c)
-
-- **Detailed Explanation:**
-  - Mercury has a melting point of $-38.83^\circ\text{C}$, making it a true liquid at standard room temperature ($25^\circ\text{C}$).
-  - Gallium (m.p. $29.8^\circ\text{C}$) and Caesium (m.p. $28.4^\circ\text{C}$) are solid at $25^\circ\text{C}$ and melt slightly above room temperature.
-</details>
-
----
-
-**Q2.** Which of the following elements is classified as the densest naturally occurring metal?  
-(a) Platinum  
-(b) Osmium  
-(c) Gold  
-(d) Uranium  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Osmium has a density of $22.59\text{ g/cm}^3$, the highest of all naturally occurring chemical elements.
-  - Densities for comparison: Iridium ($22.56\text{ g/cm}^3$), Platinum ($21.45\text{ g/cm}^3$), and Gold ($19.32\text{ g/cm}^3$).
-</details>
-
----
-
-**Q3.** Why can sodium and potassium be easily sliced with a common knife?  
-(a) They have high atomic masses  
-(b) They have only one valence electron and large atomic radii, leading to weak metallic bonding  
-(c) They form layered covalent networks like graphite  
-(d) They contain high concentrations of entrapped hydrogen gas  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Alkali metals possess single valence electrons ($ns^1$) and large atomic volumes, resulting in low cohesive energy and weak metallic bonding that makes the bulk metal soft.
-</details>
-
----
-
-**Q4.** What is the percentage of elemental Silver ($Ag$) in the commercial alloy "German Silver"?  
-(a) $20\%$  
-(b) $50\%$  
-(c) $0\%$  
-(d) $80\%$  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (c)
-
-- **Detailed Explanation:**
-  - German Silver contains Copper ($50–60\%$), Zinc ($20–30\%$), and Nickel ($10–20\%$). It contains **zero silver**, deriving its name solely from its silvery appearance.
-</details>
-
----
-
-**Q5.** Which of the following non-metals possesses a metallic-like shiny luster?  
-(a) Sulphur  
-(b) Carbon (amorphous)  
-(c) Iodine  
-(d) Phosphorus  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (c)
-
-- **Detailed Explanation:**
-  - Iodine is a solid halogen that forms dark violet-black crystals with a distinct metallic luster due to polarizable electron clouds.
-</details>
-
----
-
-**Q6.** The thermite reaction used to weld railway tracks uses which element as a reducing agent?  
-(a) Carbon coke  
-(b) Aluminium powder  
-(c) Magnesium wire  
-(d) Hydrogen gas  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - The reaction is: $Fe_2O_3 + 2Al \to Al_2O_3 + 2Fe\text{ (molten)} + \text{heat}$.
-  - Aluminium powder acts as the reducing agent, reducing $Fe^{3+}$ to molten metallic iron at temperatures $>2500^\circ\text{C}$.
-</details>
-
----
-
-**Q7.** Which of the following metals does NOT evolve hydrogen gas when treated with dilute hydrochloric acid?  
-(a) Magnesium  
-(b) Zinc  
-(c) Iron  
-(d) Copper  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (d)
-
-- **Detailed Explanation:**
-  - Copper sits below hydrogen in the reactivity series (reduction potential $+0.34\text{ V}$) and cannot displace $H_2$ from non-oxidizing dilute mineral acids.
-</details>
-
----
-
-**Q8.** The primary ore of Mercury is:  
-(a) Bauxite  
-(b) Galena  
-(c) Cinnabar  
-(d) Calamine  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (c)
-
-- **Detailed Explanation:**
-  - Cinnabar is mercuric sulphide ($HgS$). Roasting it in air yields mercury vapor, which condenses into liquid metal.
-</details>
-
----
-
-**Q9.** In the extraction of aluminium by the Hall-Héroult process, cryolite ($Na_3AlF_6$) is added to alumina to:  
-(a) Act as an oxidizing agent  
-(b) Lower the melting point and enhance electrical conductivity  
-(c) Prevent oxidation of carbon anodes  
-(d) Form a protective slag layer  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Pure alumina ($Al_2O_3$) melts at $2050^\circ\text{C}$ and is a poor electrical conductor. Adding cryolite and fluorspar lowers the melting point to $\sim 950^\circ\text{C}$ and improves electrical conductivity.
-</details>
-
----
-
-**Q10.** Which of the following alloys is used for soldering electrical connections?  
-(a) Brass ($Cu + Zn$)  
-(b) Bronze ($Cu + Sn$)  
-(c) Solder ($Pb + Sn$)  
-(d) Nichrome ($Ni + Cr$)  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (c)
-
-- **Detailed Explanation:**
-  - Solder is an alloy of Lead and Tin ($\sim 50\% : 50\%$) with a low melting point ($\approx 183^\circ\text{C}$), ideal for joining electrical wires.
-</details>
-
----
-
-**Q11.** What happens to the mass of an iron nail when it undergoes severe atmospheric rusting?  
-(a) Decreases  
-(b) Increases  
-(c) Remains unchanged  
-(d) Drops to zero  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Rust is hydrated ferric oxide ($Fe_2O_3 \cdot xH_2O$). The mass increases because atmospheric oxygen and water molecules are chemically incorporated into the rust compound.
-</details>
-
----
-
-**Q12.** Which element is added to iron to make stainless steel resistant to corrosion?  
-(a) Sulphur  
-(b) Lead  
-(c) Chromium  
-(d) Tungsten  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (c)
-
-- **Detailed Explanation:**
-  - Chromium ($\ge 12\%$) forms a microscopic, self-healing passive layer of $Cr_2O_3$ on the steel surface that blocks oxygen and moisture.
-</details>
-
----
-
-**Q13.** Which of the following pairs of metals will produce an explosive reaction when dropped into cold water?  
-(a) Copper and Silver  
-(b) Sodium and Potassium  
-(c) Iron and Lead  
-(d) Gold and Platinum  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Sodium and potassium react vigorously and exothermically with cold water, evolving hydrogen gas that catches fire spontaneously.
-</details>
-
----
-
-**Q14.** Galvanization provides sacrificial protection to iron because:  
-(a) Zinc is less electropositive than iron  
-(b) Zinc has a more negative standard reduction potential than iron  
-(c) Zinc forms a permanent alloy with iron  
-(d) Zinc absorbs all atmospheric moisture  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Zinc ($E^\circ = -0.76\text{ V}$) is more easily oxidized than iron ($E^\circ = -0.44\text{ V}$). When exposed to corrosive environments, zinc acts as a sacrificial anode and oxidizes first.
-</details>
-
----
-
-**Q15.** What is the geometry and hybridization of carbon atoms in diamond?  
-(a) Planar hexagonal, $sp^2$  
-(b) Tetrahedral, $sp^3$  
-(c) Linear, $sp$  
-(d) Octahedral, $sp^3d^2$  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - In diamond, every carbon atom is $sp^3$ hybridized and forms four strong covalent $\sigma$-bonds arranged tetrahedrally, producing a rigid three-dimensional network.
-</details>
-
----
-
-**Q16.** Which carbon allotrope is composed of 60 carbon atoms arranged in 20 hexagons and 12 pentagons?  
-(a) Carbon nanotube  
-(b) Graphene  
-(c) Buckminsterfullerene ($C_{60}$)  
-(d) Carbon black  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (c)
-
-- **Detailed Explanation:**
-  - $C_{60}$ (Buckminsterfullerene) consists of 60 carbon atoms arranged in a truncated icosahedron containing 20 hexagonal and 12 pentagonal faces.
-</details>
-
----
-
-**Q17.** Which metal cannot be stored in an ordinary glass bottle or silica crucible because it attacks glass to form fluorosilicates?  
-(a) Mercury  
-(b) Hydrofluoric acid environment / active alkali metals  
-(c) Gold  
-(d) Copper  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Hydrofluoric acid ($HF$) reacts with the silica ($SiO_2$) in glass to form gaseous silicon tetrafluoride ($SiF_4$) and fluorosilicic acid ($H_2SiF_6$), etching through the glass.
-</details>
-
----
-
-**Q18.** The black tarnish that forms on silver articles exposed to air is chemically:  
-(a) Silver oxide ($Ag_2O$)  
-(b) Silver carbonate ($Ag_2CO_3$)  
-(c) Silver sulphide ($Ag_2S$)  
-(d) Silver chloride ($AgCl$)  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (c)
-
-- **Detailed Explanation:**
-  - Silver reacts with trace airborne hydrogen sulphide ($H_2S$) to form a black surface layer of silver sulphide:
-    $$2Ag + H_2S \to Ag_2S\text{ (black)} + H_2$$
-</details>
-
----
-
-**Q19.** An alloy of iron, nickel, aluminium, and cobalt used to manufacture powerful permanent magnets is:  
-(a) Invar  
-(b) Alnico  
-(c) Magnalium  
-(d) Duralumin  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Alnico is named for its constituent elements: **Al**uminium, **Ni**ckel, and **Co**balt, with an iron base. It features high magnetic coercivity and forms strong permanent magnets.
-</details>
-
----
-
-**Q20.** Which of the following metals forms an amalgam with mercury that is widely used for dental fillings?  
-(a) Lead  
-(b) Silver-tin alloy  
-(c) Iron  
-(d) Tungsten  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Dental amalgam is made by mixing liquid mercury with an alloy powder of silver, tin, and copper. It forms a workable paste that hardens inside tooth cavities.
-</details>
-
----
-
-**Q21.** Why is graphite an effective electrical conductor, while diamond is an electrical insulator?  
-(a) Graphite has a higher density  
-(b) Graphite contains delocalized $\pi$ electrons from $sp^2$ hybridized carbon sheets  
-(c) Diamond contains free mobile protons  
-(d) Diamond contains ionic bonds  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - In graphite, each carbon forms three $\sigma$-bonds ($sp^2$), leaving one unhybridized $p$-electron per atom delocalized across the sheet to conduct electricity.
-  - In diamond, all four valence electrons are locked into localized $sp^3$ $\sigma$-bonds.
-</details>
-
----
-
-**Q22.** What type of chemical reaction is represented by: $CaCO_3\text{ (s)} \xrightarrow{\Delta} CaO\text{ (s)} + CO_2\text{ (g)}$?  
-(a) Displacement reaction  
-(b) Thermal decomposition reaction  
-(c) Combination reaction  
-(d) Neutralization reaction  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - A single compound decomposes under heat into two simpler substances ($CaO$ and $CO_2$), which defines a thermal decomposition reaction.
-</details>
-
----
-
-**Q23.** Which of the following metals will float on the surface of water during its reaction?  
-(a) Gold  
-(b) Calcium  
-(c) Copper  
-(d) Platinum  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Calcium reacts moderately with cold water to form calcium hydroxide and hydrogen gas. The evolving $H_2$ bubbles adhere to the calcium metal surface, buoying the metal to the top.
-</details>
-
----
-
-**Q24.** The ore "Galena" is the primary source of which metal?  
-(a) Lead ($Pb$)  
-(b) Zinc ($Zn$)  
-(c) Tin ($Sn$)  
-(d) Copper ($Cu$)  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (a)
-
-- **Detailed Explanation:**
-  - Galena is lead sulphide ($PbS$), the most common and commercially significant ore of lead.
-</details>
-
----
-
-**Q25.** Which of the following elements has the lowest density among all solid metals?  
-(a) Potassium  
-(b) Sodium  
-(c) Lithium  
-(d) Magnesium  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (c)
-
-- **Detailed Explanation:**
-  - Lithium has a density of $0.534\text{ g/cm}^3$, the lowest of any solid metallic element.
-</details>
-
----
-
-**Q26.** In a redox reaction, the substance that undergoes oxidation:  
-(a) Gains electrons and its oxidation number decreases  
-(b) Loses electrons and its oxidation number increases  
-(c) Loses oxygen atoms  
-(d) Gains hydrogen atoms  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - By definition, oxidation involves the loss of electrons (OIL: Oxidation Is Loss).
-  - Losing negative electrons causes the oxidation number of the atom to increase algebraically.
-</details>
-
----
-
-## Common Traps & High-Yield Pitfalls
-
-| Trap Area | What Students Confuse | Correct Fact |
-|---|---|---|
-| **German Silver Silver Content** | Believing German Silver contains a low percentage of silver (e.g., 2–5%). | German Silver contains **$0\%\text{ Silver}$** ($Cu + Zn + Ni$). It is named solely for its silvery appearance. |
-| **Allotrope Stability** | Assuming diamond is the most stable form of carbon because it is the hardest. | **Graphite is thermodynamically most stable** at STP ($\Delta_f H^\circ = 0$). Diamond is metastable ($\Delta_f H^\circ = +1.9\text{ kJ/mol}$). |
-| **Amalgam Storing** | Believing all transition metals dissolve in mercury. | **Iron ($Fe$), Cobalt, Nickel, and Platinum do NOT form amalgams**. Mercury is commercially stored in heavy iron containers. |
-| **Galvanization vs. Tinning Scratches** | Assuming both zinc and tin continue protecting iron after being scratched. | **Zinc protects even when scratched** (sacrificial anode). **Tin accelerates rusting** if scratched, because iron is more reactive than tin. |
-| **Aqua Regia Acid Ratio** | Confusing the $3:1$ ratio as $3\text{ parts } HNO_3 + 1\text{ part } HCl$. | Aqua Regia is **$3\text{ parts conc. } HCl + 1\text{ part conc. } HNO_3$** (3 volumes of hydrochloric to 1 of nitric). |
-| **Nitric Acid Hydrogen Evolution** | Thinking active metals like Zinc or Iron liberate $H_2$ from dilute $HNO_3$. | $HNO_3$ is a strong oxidizer and produces nitrogen oxides ($NO_2, NO$), not $H_2$. Only **$Mg$ and $Mn$** evolve $H_2$ with $\approx 1\%$ dilute cold $HNO_3$. |
-| **Rusting Weight Consequence** | Assuming rusted iron weighs less because rust flakes away. | Rusting chemically binds atmospheric oxygen and water ($Fe_2O_3 \cdot xH_2O$); the total weight of the iron piece **increases**. |
-| **Brass vs. Bronze** | Mixing up whether Brass or Bronze contains Tin. | **Brass = Copper + Zinc**. **Bronze = Copper + Tin**. Remember: "Bro**n**ze has Ti**n**". |
-| **Liquid Metals at Room Temp** | Thinking Gallium and Caesium are liquid at room temperature ($25^\circ\text{C}$). | Only **Mercury** is liquid at $25^\circ\text{C}$ (m.p. $-38.8^\circ\text{C}$). Gallium ($29.8^\circ\text{C}$) and Caesium ($28.4^\circ\text{C}$) melt slightly above room temperature (in the palm). |
-| **Fool's Gold Extraction** | Assuming Fool's Gold ($FeS_2$) is an ore mined for metallic iron. | Iron pyrites is mined for **sulphur / sulphuric acid production**, not iron extraction, because sulphur impurities make iron brittle. |
-
-
----
-
-## Bilingual Terminology -- Metals and Chemical Reactions
-
-| English Term | Hindi Term | Key Anchor |
-|---|---|---|
-| **Metal** (धातु) | धातु | Lustrous, malleable, ductile, good conductor; loses electrons |
-| **Non-metal** (अधातु) | अधातु | Dull, brittle, poor conductor (except graphite); gains electrons |
-| **Alloy** (मिश्र धातु) | मिश्र धातु | Mixture of two or more metals (or metal + non-metal) |
-| **Corrosion** (संक्षारण) | संक्षारण | Deterioration of metals by reaction with environment; e.g., rusting |
-| **Rusting** (जंग लगना) | जंग लगना | Corrosion of iron; Fe2O3.xH2O (hydrated iron oxide); needs O2 + H2O |
-| **Oxidation** (ऑक्सीकरण) | ऑक्सीकरण | Loss of electrons; increase in oxidation state |
-| **Reduction** (अपचयन) | अपचयन | Gain of electrons; decrease in oxidation state |
-| **Redox Reaction** (ऑक्सीकरण-अपचयन) | रेडॉक्स अभिक्रिया | Simultaneous oxidation and reduction in same reaction |
-| **Calcination** (निस्तापन) | निस्तापन | Heating ore in limited air; e.g., CaCO3 -> CaO + CO2 |
-| **Roasting** (भर्जन) | भर्जन | Heating sulphide ore in excess air; converts to oxide; e.g., ZnS + O2 -> ZnO + SO2 |
-| **Smelting** (प्रगलन) | प्रगलन | Melting ore with reducing agent (coke) to extract metal |
-| **Electrolytic Refining** (विद्युत-अपघटनी परिष्करण) | विद्युतअपघटनी शोधन | Purification of metals using electrolysis; crude as anode, pure as cathode |
-| **Thermite Reaction** | थर्माइट अभिक्रिया | Al + Fe2O3 -> Al2O3 + Fe + huge heat; welding railway tracks |
-| **Galvanisation** (जस्तीकरण) | गैल्वनीकरण | Coating iron with zinc to prevent rusting |
-| **Anodising** (एनोडाइजिंग) | एनोडाइजिंग | Electrochemical coating of aluminium with Al2O3 (protection layer) |
-| **Reactivity Series** (क्रियाशीलता श्रृंखला) | अभिक्रियाशीलता क्रम | Metals arranged by reactivity: K>Na>Ca>Mg>Al>Zn>Fe>Ni>Sn>Pb>H>Cu>Hg>Ag>Au>Pt |
-
----
 
 ## One-Liner Revision -- Metals and Chemical Reactions
 
@@ -3537,4 +2613,491 @@ high hardness and abrasion resistance ?
 | 28 | Patina = green coating on copper = basic copper carbonate [Cu(OH)2.CuCO3] |
 | 29 | Verdigris (patina on Statue of Liberty) = green due to copper oxidation |
 | 30 | Chemical change = new substance formed (rust); Physical change = no new substance (melting) |
+
+## Practice Zone — High-Yield Mock Drills (26 Questions)
+
+**Q-ST1.**
+
+Which of the following metals has the lowest melting point and is liquid at room temperature?
+(a) Gallium  
+(b) Caesium  
+(c) Mercury  
+(d) Lead  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Mercury.
+
+**Ans: C.** Mercury
+</details>
+
+---
+
+**Q-ST2.**
+
+Which of the following elements is classified as the densest naturally occurring metal?
+(a) Platinum  
+(b) Osmium  
+(c) Gold  
+(d) Uranium  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Osmium.
+
+**Ans: B.** Osmium
+</details>
+
+---
+
+**Q-ST3.**
+
+Why can sodium and potassium be easily sliced with a common knife?
+(a) They have high atomic masses  
+(b) They have only one valence electron and large atomic radii, leading to weak metallic bonding  
+(c) They form layered covalent networks like graphite  
+(d) They contain high concentrations of entrapped hydrogen gas  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Alkali metals possess single valence electrons ($ns^1$) and large atomic volumes, resulting in low cohesive energy and weak metallic bonding that makes the bulk metal soft.
+
+**Ans: B.** They have only one valence electron and large atomic radii, leading to weak metallic bonding
+</details>
+
+---
+
+**Q-ST4.**
+
+What is the percentage of elemental Silver ($Ag$) in the commercial alloy "German Silver"?
+(a) $20\%$  
+(b) $50\%$  
+(c) $0\%$  
+(d) $80\%$  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches $0\%$.
+
+**Ans: C.** $0\%$
+</details>
+
+---
+
+**Q-ST5.**
+
+Which of the following non-metals possesses a metallic-like shiny luster?
+(a) Sulphur  
+(b) Carbon (amorphous)  
+(c) Iodine  
+(d) Phosphorus  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Iodine.
+
+**Ans: C.** Iodine
+</details>
+
+---
+
+**Q-ST6.**
+
+The thermite reaction used to weld railway tracks uses which element as a reducing agent?
+(a) Carbon coke  
+(b) Aluminium powder  
+(c) Magnesium wire  
+(d) Hydrogen gas  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The reaction is: $Fe2O3 + 2Al \to Al2O3 + 2Fe\text{ (molten)} + \text{heat}$.
+
+**Ans: B.** Aluminium powder
+</details>
+
+---
+
+**Q-ST7.**
+
+Which of the following metals does NOT evolve hydrogen gas when treated with dilute hydrochloric acid?
+(a) Magnesium  
+(b) Zinc  
+(c) Iron  
+(d) Copper  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Copper.
+
+**Ans: D.** Copper
+</details>
+
+---
+
+**Q-ST8.**
+
+The primary ore of Mercury is:
+(a) Bauxite  
+(b) Galena  
+(c) Cinnabar  
+(d) Calamine  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Cinnabar is mercuric sulphide ($HgS$).
+
+**Ans: C.** Cinnabar
+</details>
+
+---
+
+**Q-ST9.**
+
+In the extraction of aluminium by the Hall-Héroult process, cryolite ($Na_3AlF_6$) is added to alumina to:
+(a) Act as an oxidizing agent  
+(b) Lower the melting point and enhance electrical conductivity  
+(c) Prevent oxidation of carbon anodes  
+(d) Form a protective slag layer  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Pure alumina ($Al2O3$) melts at $2050^\circ\text{C}$ and is a poor electrical conductor.
+
+**Ans: B.** Lower the melting point and enhance electrical conductivity
+</details>
+
+---
+
+**Q-ST10.**
+
+Which of the following alloys is used for soldering electrical connections?
+(a) Brass ($Cu + Zn$)  
+(b) Bronze ($Cu + Sn$)  
+(c) Solder ($Pb + Sn$)  
+(d) Nichrome ($Ni + Cr$)  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Solder is an alloy of Lead and Tin ($\sim 50\% : 50\%$) with a low melting point ($\approx 183^\circ\text{C}$), ideal for joining electrical wires.
+
+**Ans: C.** Solder ($Pb + Sn$)
+</details>
+
+---
+
+**Q-ST11.**
+
+What happens to the mass of an iron nail when it undergoes severe atmospheric rusting?
+(a) Decreases  
+(b) Increases  
+(c) Remains unchanged  
+(d) Drops to zero  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Rust is hydrated ferric oxide ($Fe2O3 \cdot xH2O$).
+
+**Ans: B.** Increases
+</details>
+
+---
+
+**Q-ST12.**
+
+Which element is added to iron to make stainless steel resistant to corrosion?
+(a) Sulphur  
+(b) Lead  
+(c) Chromium  
+(d) Tungsten  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Chromium ($\ge 12\%$) forms a microscopic, self-healing passive layer of $Cr2O3$ on the steel surface that blocks oxygen and moisture.
+
+**Ans: C.** Chromium
+</details>
+
+---
+
+**Q-ST13.**
+
+Which of the following pairs of metals will produce an explosive reaction when dropped into cold water?
+(a) Copper and Silver  
+(b) Sodium and Potassium  
+(c) Iron and Lead  
+(d) Gold and Platinum  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Sodium and potassium react vigorously and exothermically with cold water, evolving hydrogen gas that catches fire spontaneously.
+
+**Ans: B.** Sodium and Potassium
+</details>
+
+---
+
+**Q-ST14.**
+
+Galvanization provides sacrificial protection to iron because:
+(a) Zinc is less electropositive than iron  
+(b) Zinc has a more negative standard reduction potential than iron  
+(c) Zinc forms a permanent alloy with iron  
+(d) Zinc absorbs all atmospheric moisture  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Zinc ($E^\circ = -0.76\text{ V}$) is more easily oxidized than iron ($E^\circ = -0.44\text{ V}$).
+
+**Ans: B.** Zinc has a more negative standard reduction potential than iron
+</details>
+
+---
+
+**Q-ST15.**
+
+What is the geometry and hybridization of carbon atoms in diamond?
+(a) Planar hexagonal, $sp^2$  
+(b) Tetrahedral, $sp^3$  
+(c) Linear, $sp$  
+(d) Octahedral, $sp^3d^2$  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** In diamond, every carbon atom is $sp^3$ hybridized and forms four strong covalent $\sigma$-bonds arranged tetrahedrally, producing a rigid three-dimensional network.
+
+**Ans: B.** Tetrahedral, $sp^3$
+</details>
+
+---
+
+**Q-ST16.**
+
+Which carbon allotrope is composed of 60 carbon atoms arranged in 20 hexagons and 12 pentagons?
+(a) Carbon nanotube  
+(b) Graphene  
+(c) Buckminsterfullerene ($C_{60}$)  
+(d) Carbon black  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** $C{60}$ (Buckminsterfullerene) consists of 60 carbon atoms arranged in a truncated icosahedron containing 20 hexagonal and 12 pentagonal faces.
+
+**Ans: C.** Buckminsterfullerene ($C{60}$)
+</details>
+
+---
+
+**Q-ST17.**
+
+Which metal cannot be stored in an ordinary glass bottle or silica crucible because it attacks glass to form fluorosilicates?
+(a) Mercury  
+(b) Hydrofluoric acid environment / active alkali metals  
+(c) Gold  
+(d) Copper  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Hydrofluoric acid ($HF$) reacts with the silica ($SiO2$) in glass to form gaseous silicon tetrafluoride ($SiF4$) and fluorosilicic acid ($H2SiF6$), etching through the glass.
+
+**Ans: B.** Hydrofluoric acid environment / active alkali metals
+</details>
+
+---
+
+**Q-ST18.**
+
+The black tarnish that forms on silver articles exposed to air is chemically:
+(a) Silver oxide ($Ag_2O$)  
+(b) Silver carbonate ($Ag_2CO_3$)  
+(c) Silver sulphide ($Ag_2S$)  
+(d) Silver chloride ($AgCl$)  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Silver reacts with trace airborne hydrogen sulphide ($H2S$) to form a black surface layer of silver sulphide: $$2Ag + H2S \to Ag2S\text{ (black)} + H2$$
+
+**Ans: C.** Silver sulphide ($Ag2S$)
+</details>
+
+---
+
+**Q-ST19.**
+
+An alloy of iron, nickel, aluminium, and cobalt used to manufacture powerful permanent magnets is:
+(a) Invar  
+(b) Alnico  
+(c) Magnalium  
+(d) Duralumin  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Alnico.
+
+**Ans: B.** Alnico
+</details>
+
+---
+
+**Q-ST20.**
+
+Which of the following metals forms an amalgam with mercury that is widely used for dental fillings?
+(a) Lead  
+(b) Silver-tin alloy  
+(c) Iron  
+(d) Tungsten  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Dental amalgam is made by mixing liquid mercury with an alloy powder of silver, tin, and copper.
+
+**Ans: B.** Silver-tin alloy
+</details>
+
+---
+
+**Q-ST21.**
+
+Why is graphite an effective electrical conductor, while diamond is an electrical insulator?
+(a) Graphite has a higher density  
+(b) Graphite contains delocalized $\pi$ electrons from $sp^2$ hybridized carbon sheets  
+(c) Diamond contains free mobile protons  
+(d) Diamond contains ionic bonds  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** In graphite, each carbon forms three $\sigma$-bonds ($sp^2$), leaving one unhybridized $p$-electron per atom delocalized across the sheet to conduct electricity.
+
+**Ans: B.** Graphite contains delocalized $\pi$ electrons from $sp^2$ hybridized carbon sheets
+</details>
+
+---
+
+**Q-ST22.**
+
+What type of chemical reaction is represented by: $CaCO_3\text{ (s)} \xrightarrow{\Delta} CaO\text{ (s)} + CO_2\text{ (g)}$?
+(a) Displacement reaction  
+(b) Thermal decomposition reaction  
+(c) Combination reaction  
+(d) Neutralization reaction  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** A single compound decomposes under heat into two simpler substances ($CaO$ and $CO2$), which defines a thermal decomposition reaction.
+
+**Ans: B.** Thermal decomposition reaction
+</details>
+
+---
+
+**Q-ST23.**
+
+Which of the following metals will float on the surface of water during its reaction?
+(a) Gold  
+(b) Calcium  
+(c) Copper  
+(d) Platinum  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Calcium.
+
+**Ans: B.** Calcium
+</details>
+
+---
+
+**Q-ST24.**
+
+The ore "Galena" is the primary source of which metal?
+(a) Lead ($Pb$)  
+(b) Zinc ($Zn$)  
+(c) Tin ($Sn$)  
+(d) Copper ($Cu$)  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Galena is lead sulphide ($PbS$), the most common and commercially significant ore of lead.
+
+**Ans: A.** Lead ($Pb$)
+</details>
+
+---
+
+**Q-ST25.**
+
+Which of the following elements has the lowest density among all solid metals?
+(a) Potassium  
+(b) Sodium  
+(c) Lithium  
+(d) Magnesium  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Lithium.
+
+**Ans: C.** Lithium
+</details>
+
+---
+
+**Q-ST26.**
+
+In a redox reaction, the substance that undergoes oxidation:
+(a) Gains electrons and its oxidation number decreases  
+(b) Loses electrons and its oxidation number increases  
+(c) Loses oxygen atoms  
+(d) Gains hydrogen atoms  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** By definition, oxidation involves the loss of electrons (OIL: Oxidation Is Loss).
+
+**Ans: B.** Loses electrons and its oxidation number increases
+</details>
+
+---
+
+## Common Traps & High-Yield Pitfalls
+
+| Trap Area | What Students Confuse | Correct Fact |
+|---|---|---|
+| **German Silver Silver Content** | Believing German Silver contains a low percentage of silver (e.g., 2–5%). | German Silver contains **$0\%\text{ Silver}$** ($Cu + Zn + Ni$). It is named solely for its silvery appearance. |
+| **Allotrope Stability** | Assuming diamond is the most stable form of carbon because it is the hardest. | **Graphite is thermodynamically most stable** at STP ($\Delta_f H^\circ = 0$). Diamond is metastable ($\Delta_f H^\circ = +1.9\text{ kJ/mol}$). |
+| **Amalgam Storing** | Believing all transition metals dissolve in mercury. | **Iron ($Fe$), Cobalt, Nickel, and Platinum do NOT form amalgams**. Mercury is commercially stored in heavy iron containers. |
+| **Galvanization vs. Tinning Scratches** | Assuming both zinc and tin continue protecting iron after being scratched. | **Zinc protects even when scratched** (sacrificial anode). **Tin accelerates rusting** if scratched, because iron is more reactive than tin. |
+| **Aqua Regia Acid Ratio** | Confusing the $3:1$ ratio as $3\text{ parts } HNO_3 + 1\text{ part } HCl$. | Aqua Regia is **$3\text{ parts conc. } HCl + 1\text{ part conc. } HNO_3$** (3 volumes of hydrochloric to 1 of nitric). |
+| **Nitric Acid Hydrogen Evolution** | Thinking active metals like Zinc or Iron liberate $H_2$ from dilute $HNO_3$. | $HNO_3$ is a strong oxidizer and produces nitrogen oxides ($NO_2, NO$), not $H_2$. Only **$Mg$ and $Mn$** evolve $H_2$ with $\approx 1\%$ dilute cold $HNO_3$. |
+| **Rusting Weight Consequence** | Assuming rusted iron weighs less because rust flakes away. | Rusting chemically binds atmospheric oxygen and water ($Fe_2O_3 \cdot xH_2O$); the total weight of the iron piece **increases**. |
+| **Brass vs. Bronze** | Mixing up whether Brass or Bronze contains Tin. | **Brass = Copper + Zinc**. **Bronze = Copper + Tin**. Remember: "Bro**n**ze has Ti**n**". |
+| **Liquid Metals at Room Temp** | Thinking Gallium and Caesium are liquid at room temperature ($25^\circ\text{C}$). | Only **Mercury** is liquid at $25^\circ\text{C}$ (m.p. $-38.8^\circ\text{C}$). Gallium ($29.8^\circ\text{C}$) and Caesium ($28.4^\circ\text{C}$) melt slightly above room temperature (in the palm). |
+| **Fool's Gold Extraction** | Assuming Fool's Gold ($FeS_2$) is an ore mined for metallic iron. | Iron pyrites is mined for **sulphur / sulphuric acid production**, not iron extraction, because sulphur impurities make iron brittle. |
+
+---
 

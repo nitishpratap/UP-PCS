@@ -195,6 +195,77 @@ $$	ext{Effective Literacy Rate (\%)} = rac{	ext{Total Literate Population Aged 
 
 ---
 
+## Bilingual Terminology — Population Composition (जनसंख्या संरचना)
+
+| English Term | हिंदी पारिभाषिक शब्द | Key Anchor |
+|---|---|---|
+| **Age-Sex Pyramid** | आयु-लिंग पिरामिड | Graphical representation of population age-sex structure |
+| **Working Age Population** | कार्यशील आयु जनसंख्या | 15–64 years; basis of demographic dividend |
+| **Dependency Ratio** | निर्भरता अनुपात | Young (0–14) + Old (65+) / Working age (15–64) |
+| **Main Workers** | मुख्य श्रमिक | Worked ≥ 183 days in reference year |
+| **Marginal Workers** | सीमांत श्रमिक | Worked < 183 days in reference year |
+| **Non-Workers** | अश्रमिक | Did not work at all during reference year |
+| **Cultivators** | कृषक | Engaged in agricultural cultivation on own/leased land |
+| **Agricultural Labourers** | कृषि श्रमिक | Work on others' land for wages/share of crop |
+| **Household Industry Workers** | गृह उद्योग श्रमिक | Work in cottage industries within or adjacent to household |
+| **Other Workers** | अन्य श्रमिक | All workers not in above three categories |
+| **Religious Minority** | धार्मिक अल्पसंख्यक | Non-majority religious communities; 6 notified minorities in India |
+| **Scheduled Caste** (अनुसूचित जाति) | SC | Article 341 — Presidential notification |
+| **Scheduled Tribe** (अनुसूचित जनजाति) | ST | Article 342 — Presidential notification |
+| **Worker Participation Rate** | श्रमिक सहभागिता दर | Percentage of workers in total population |
+
+---
+
+## Extended Theory — Worker Classification System (Census 2011)
+
+```
+        WORKER CLASSIFICATION IN INDIAN CENSUS
+        ─────────────────────────────────────────────
+        
+        ALL PERSONS
+              │
+        ┌─────┴─────┐
+        ▼           ▼
+    WORKERS      NON-WORKERS
+    (Economically (Not economically
+     active)       active: students,
+                   homemakers, retirees)
+        │
+        ├─────────────────────────────────────────────┐
+        ▼                                             ▼
+   MAIN WORKERS                            MARGINAL WORKERS
+   (≥ 183 days / year)                     (< 183 days / year)
+        │
+        ├─────────────────────────────┐
+        │         4 CATEGORIES        │
+        ├──────────────────────────────┘
+        ▼
+   1. CULTIVATORS (कृषक) — own/leased land
+   2. AGRICULTURAL LABOURERS (कृषि श्रमिक) — wage on others' land
+   3. HOUSEHOLD INDUSTRY (गृह उद्योग) — cottage industry
+   4. OTHER WORKERS (अन्य श्रमिक) — all remaining categories
+```
+
+### Religious Composition of India — Census 2011
+
+| Religion | Population (%) | Key Concentration States |
+|---|---|---|
+| **Hinduism** | **79.8%** | Himachal Pradesh (95.2%), Odisha, Chhattisgarh |
+| **Islam** | **14.2%** | J&K, Assam, West Bengal, Kerala, UP |
+| **Christianity** | **2.3%** | Nagaland (87.9%), Mizoram (87.2%), Meghalaya (74.6%) |
+| **Sikhism** | **1.7%** | Punjab (57.7%) |
+| **Buddhism** | **0.7%** | Sikkim, Arunachal Pradesh, Ladakh |
+| **Jainism** | **0.4%** | Gujarat, Rajasthan, Maharashtra |
+| **Other / Not Stated** | **0.9%** | Various |
+
+**Key Exam Traps on Religious Demography:**
+- **Highest Muslim % State**: Jammu & Kashmir (68.3% prior to bifurcation; Lakshadweep 96.2% among UTs)
+- **Highest Christian % State**: Nagaland (87.9%), followed by Mizoram (87.2%)
+- **Highest Sikh % State**: Punjab (57.7%) — only State with Sikh majority
+- **Highest Buddhist % State**: Sikkim (27.4%); Arunachal Pradesh also significant
+
+---
+
 ## Complete PYQ Bank (UPPCS)
 
 > Verified stems from UPPCS Prelims (and closely related UP papers). Extra Drill follows.
@@ -246,7 +317,6 @@ D. Bahraich
 **Ans: C.** Shrawasti (~34.8% female literacy).
 
 </details>
-
 
 ---
 
@@ -302,9 +372,7 @@ D. 1084
 
 </details>
 
-
 ---
-
 
 ### Other Papers — BPSC / MPPSC / RAS / UKPCS / UPSC / WBCS
 
@@ -394,6 +462,78 @@ D. 82.14%
 **Ans: B.** About 61.80%.
 
 </details>
+
+## UKPCS/MPPSC Extra Drill — Population Composition
+
+**Q1. MPPSC (Pre) 2021**
+Which State of India has the highest proportion of Scheduled Tribe (ST) population as per Census 2011?
+A. Mizoram
+B. Meghalaya
+C. Arunachal Pradesh
+D. Nagaland
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Lakshadweep (UT) has the highest ST% (94.8%), but among **States**, **Mizoram (94.4%)** leads, followed by Nagaland (86.5%) and Meghalaya (86.1%).
+
+**Ans: A.** Mizoram (94.4% — highest among States).
+
+</details>
+
+**Q2. UKPCS (Pre) 2021**
+As per Census 2011, which State has the highest percentage of Scheduled Castes in its total population?
+A. Uttar Pradesh
+B. Punjab
+C. Himachal Pradesh
+D. Tamil Nadu
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Punjab has the highest SC percentage (31.9%).
+
+**Ans: B.** Punjab (31.9%).
+
+</details>
+
+**Q3. RAS (Pre) 2021**
+In the context of Census 2011, workers who worked for less than 183 days in the reference year are classified as:
+A. Main Workers
+B. Marginal Workers
+C. Non-Workers
+D. Part-time Workers
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Main workers = ≥183 days; Marginal workers = <183 days; Non-workers = no work at all.
+
+**Ans: B.** Marginal Workers.
+
+</details>
+
+---
+
+## One-Liner Revision — Population Composition
+
+| # | Fast Fact |
+|---|---|
+| 1 | Workers classified into **4 types**: Cultivators, Agricultural Labourers, Household Industry, Other |
+| 2 | Main workers = ≥ **183 days** per year |
+| 3 | Marginal workers = < **183 days** per year |
+| 4 | Highest SC % State = **Punjab (31.9%)** |
+| 5 | Highest SC absolute = **Uttar Pradesh (4.14 Crore, 20.70%)** |
+| 6 | Highest ST % = **Lakshadweep (94.8%)** — UT; **Mizoram (94.4%)** — State |
+| 7 | Highest ST absolute = **Madhya Pradesh (1.53 Crore)** |
+| 8 | Zero SC States = **Nagaland, Mizoram, Meghalaya, Lakshadweep, A&N** |
+| 9 | Zero ST States = **Punjab, Haryana, Delhi, Chandigarh, Puducherry** |
+| 10 | India's Worker Participation Rate (WPR) 2011 ≈ **39.79%** |
+| 11 | India's male WPR > female WPR (reflect social norms) |
+| 12 | Highest Muslim % UT = **Lakshadweep (96.2%)** |
+| 13 | Highest Sikh % State = **Punjab (57.7%)** |
+| 14 | Highest Christian % State = **Nagaland (87.9%)** |
+| 15 | SC listed under **Article 341**; ST under **Article 342** |
 
 ## Practice Zone
 
@@ -538,7 +678,8 @@ D. Other Workers (Services/Manufacturing)
 <summary>Show answer</summary>
 
 **Ans: D. Other Workers (Services/Manufacturing)**  
-**Logic:** 'Other Workers' (factory, services, trade, transport) constitute 41.6% of total workers. Within the farm sector, Agricultural Labourers (30.0%) exceed Cultivators (24.6%).
+**Logic:** 'Other Workers' (factory, services, trade, transport) constitute 41.6% of total workers.
+
 </details>
 
 13. The Pre-Conception and Pre-Natal Diagnostic Techniques (PCPNDT) Act was enacted by the Indian Parliament in which year?
@@ -694,7 +835,8 @@ D. 35.2 years
 <summary>Show answer</summary>
 
 **Ans: B. 24.9 years**  
-**Logic:** India's median age was approx. 24.9 years in 2011 (projected to reach ~28.4 years around 2024), making India one of the youngest major nations in the world.
+**Logic:** India's median age was approx.
+
 </details>
 
 26. Which of the following statements regarding the Jain community in Census 2011 is INCORRECT?
@@ -706,7 +848,8 @@ D. Jains have the lowest sex ratio among all religious communities in India
 <summary>Show answer</summary>
 
 **Ans: D. Jains have the lowest sex ratio among all religious communities in India**  
-**Logic:** Sikhs have the lowest sex ratio (903) among major religious communities. The sex ratio of Jains is 954, which is higher than Hindus (939) and Sikhs (903).
+**Logic:** Sikhs have the lowest sex ratio (903) among major religious communities.
+
 </details>
 
 ---
@@ -717,149 +860,5 @@ D. Jains have the lowest sex ratio among all religious communities in India
 |---|---|
 | Mixing Absolute vs % ranks | Match the stem metric first |
 
-
 ---
-
-## Bilingual Terminology — Population Composition (जनसंख्या संरचना)
-
-| English Term | हिंदी पारिभाषिक शब्द | Key Anchor |
-|---|---|---|
-| **Age-Sex Pyramid** | आयु-लिंग पिरामिड | Graphical representation of population age-sex structure |
-| **Working Age Population** | कार्यशील आयु जनसंख्या | 15–64 years; basis of demographic dividend |
-| **Dependency Ratio** | निर्भरता अनुपात | Young (0–14) + Old (65+) / Working age (15–64) |
-| **Main Workers** | मुख्य श्रमिक | Worked ≥ 183 days in reference year |
-| **Marginal Workers** | सीमांत श्रमिक | Worked < 183 days in reference year |
-| **Non-Workers** | अश्रमिक | Did not work at all during reference year |
-| **Cultivators** | कृषक | Engaged in agricultural cultivation on own/leased land |
-| **Agricultural Labourers** | कृषि श्रमिक | Work on others' land for wages/share of crop |
-| **Household Industry Workers** | गृह उद्योग श्रमिक | Work in cottage industries within or adjacent to household |
-| **Other Workers** | अन्य श्रमिक | All workers not in above three categories |
-| **Religious Minority** | धार्मिक अल्पसंख्यक | Non-majority religious communities; 6 notified minorities in India |
-| **Scheduled Caste** (अनुसूचित जाति) | SC | Article 341 — Presidential notification |
-| **Scheduled Tribe** (अनुसूचित जनजाति) | ST | Article 342 — Presidential notification |
-| **Worker Participation Rate** | श्रमिक सहभागिता दर | Percentage of workers in total population |
-
----
-
-## Extended Theory — Worker Classification System (Census 2011)
-
-```
-        WORKER CLASSIFICATION IN INDIAN CENSUS
-        ─────────────────────────────────────────────
-        
-        ALL PERSONS
-              │
-        ┌─────┴─────┐
-        ▼           ▼
-    WORKERS      NON-WORKERS
-    (Economically (Not economically
-     active)       active: students,
-                   homemakers, retirees)
-        │
-        ├─────────────────────────────────────────────┐
-        ▼                                             ▼
-   MAIN WORKERS                            MARGINAL WORKERS
-   (≥ 183 days / year)                     (< 183 days / year)
-        │
-        ├─────────────────────────────┐
-        │         4 CATEGORIES        │
-        ├──────────────────────────────┘
-        ▼
-   1. CULTIVATORS (कृषक) — own/leased land
-   2. AGRICULTURAL LABOURERS (कृषि श्रमिक) — wage on others' land
-   3. HOUSEHOLD INDUSTRY (गृह उद्योग) — cottage industry
-   4. OTHER WORKERS (अन्य श्रमिक) — all remaining categories
-```
-
-### Religious Composition of India — Census 2011
-
-| Religion | Population (%) | Key Concentration States |
-|---|---|---|
-| **Hinduism** | **79.8%** | Himachal Pradesh (95.2%), Odisha, Chhattisgarh |
-| **Islam** | **14.2%** | J&K, Assam, West Bengal, Kerala, UP |
-| **Christianity** | **2.3%** | Nagaland (87.9%), Mizoram (87.2%), Meghalaya (74.6%) |
-| **Sikhism** | **1.7%** | Punjab (57.7%) |
-| **Buddhism** | **0.7%** | Sikkim, Arunachal Pradesh, Ladakh |
-| **Jainism** | **0.4%** | Gujarat, Rajasthan, Maharashtra |
-| **Other / Not Stated** | **0.9%** | Various |
-
-**Key Exam Traps on Religious Demography:**
-- **Highest Muslim % State**: Jammu & Kashmir (68.3% prior to bifurcation; Lakshadweep 96.2% among UTs)
-- **Highest Christian % State**: Nagaland (87.9%), followed by Mizoram (87.2%)
-- **Highest Sikh % State**: Punjab (57.7%) — only State with Sikh majority
-- **Highest Buddhist % State**: Sikkim (27.4%); Arunachal Pradesh also significant
-
----
-
-## UKPCS/MPPSC Extra Drill — Population Composition
-
-**Q1. MPPSC (Pre) 2021**
-Which State of India has the highest proportion of Scheduled Tribe (ST) population as per Census 2011?
-A. Mizoram
-B. Meghalaya
-C. Arunachal Pradesh
-D. Nagaland
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Lakshadweep (UT) has the highest ST% (94.8%), but among **States**, **Mizoram (94.4%)** leads, followed by Nagaland (86.5%) and Meghalaya (86.1%).
-
-**Ans: A.** Mizoram (94.4% — highest among States).
-
-</details>
-
-**Q2. UKPCS (Pre) 2021**
-As per Census 2011, which State has the highest percentage of Scheduled Castes in its total population?
-A. Uttar Pradesh
-B. Punjab
-C. Himachal Pradesh
-D. Tamil Nadu
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Punjab has the highest SC percentage (31.9%). UP has the highest absolute number of SCs (4.14 Crore), but not the highest proportion.
-
-**Ans: B.** Punjab (31.9%).
-
-</details>
-
-**Q3. RAS (Pre) 2021**
-In the context of Census 2011, workers who worked for less than 183 days in the reference year are classified as:
-A. Main Workers
-B. Marginal Workers
-C. Non-Workers
-D. Part-time Workers
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Main workers = ≥183 days; Marginal workers = <183 days; Non-workers = no work at all. Census uses 183 days as the dividing threshold.
-
-**Ans: B.** Marginal Workers.
-
-</details>
-
----
-
-## One-Liner Revision — Population Composition
-
-| # | Fast Fact |
-|---|---|
-| 1 | Workers classified into **4 types**: Cultivators, Agricultural Labourers, Household Industry, Other |
-| 2 | Main workers = ≥ **183 days** per year |
-| 3 | Marginal workers = < **183 days** per year |
-| 4 | Highest SC % State = **Punjab (31.9%)** |
-| 5 | Highest SC absolute = **Uttar Pradesh (4.14 Crore, 20.70%)** |
-| 6 | Highest ST % = **Lakshadweep (94.8%)** — UT; **Mizoram (94.4%)** — State |
-| 7 | Highest ST absolute = **Madhya Pradesh (1.53 Crore)** |
-| 8 | Zero SC States = **Nagaland, Mizoram, Meghalaya, Lakshadweep, A&N** |
-| 9 | Zero ST States = **Punjab, Haryana, Delhi, Chandigarh, Puducherry** |
-| 10 | India's Worker Participation Rate (WPR) 2011 ≈ **39.79%** |
-| 11 | India's male WPR > female WPR (reflect social norms) |
-| 12 | Highest Muslim % UT = **Lakshadweep (96.2%)** |
-| 13 | Highest Sikh % State = **Punjab (57.7%)** |
-| 14 | Highest Christian % State = **Nagaland (87.9%)** |
-| 15 | SC listed under **Article 341**; ST under **Article 342** |
 

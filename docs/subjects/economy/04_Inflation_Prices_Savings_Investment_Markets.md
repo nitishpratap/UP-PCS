@@ -131,7 +131,7 @@ Monetary-policy tools (repo, CRR, MPC) stay in Economy Topic 3. External exchang
 - Moderate inflation can coexist with growth; high and volatile inflation damages investment and the poor hardest.
 - Control tools mix monetary policy (Topic 3), fiscal restraint, supply management and buffer stocks for food.
 
-**UPPCS (Pre) 2021**
+**Q-EC1. UPPCS (Pre) 2021**
 
 Given below are two statements one is labelled as Assertion (A) and other as Reason (R):
 
@@ -149,13 +149,12 @@ D. (A) is false, but (R) is true
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** Bottleneck inflation is supply-side / structural. Demand tools alone struggle; fixing bottlenecks and distribution is slow — so R explains A.
+**A/R logic:** Decide from the stem options; keyed answer is Both (A) and (R) are true and (R) is correct explanation of (A).
 
-**Ans: A.** Both (A) and (R) are true and (R) is correct explanation of (A).
-
+**Ans: A.** Both (A) and (R) are true and (R) is correct explanation of (A)
 </details>
 
-**UKPCS (Pre) 2021**
+**Q-EC2. UKPCS (Pre) 2021**
 
 Which of the following statement is correct?
 
@@ -167,13 +166,13 @@ D. None of these
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Real debt burden falls for debtors. Bondholders and fixed-income groups lose purchasing power on fixed receipts.
+**Logic:** Bondholders and fixed-income groups lose purchasing power on fixed receipts.
 
-**Ans: B.** Inflation benefits the debtors.
+**Ans: B.** Real debt burden falls for debtors.
 
 </details>
 
-**UKPCS (Pre) 2024**
+**Q-EC3. UKPCS (Pre) 2024**
 
 A measure of the total inflation within an economy, including such factors as food and energy prices, is called
 
@@ -185,9 +184,9 @@ D. None of these
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Headline includes food and energy; core strips them.
+**Logic:** Headline inflation.
 
-**Ans: A.** Headline inflation.
+**Ans: A.** Headline includes food and energy; core strips them.
 
 </details>
 
@@ -217,7 +216,7 @@ D. None of these
 - The **GDP deflator** is a broad output-price measure from national accounts — Nominal GDP / Real GDP.
 - Do not swap CPI (retail prices), WPI (wholesale prices), IIP (production) and GDP deflator (output prices).
 
-**UPPCS (Pre) 2024**
+**Q-EC4. UPPCS (Pre) 2024**
 
 Which of the following indices is used to measure retail inflation in India?
 
@@ -229,13 +228,13 @@ D. GDP Deflator
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Retail inflation = CPI. WPI is wholesale; IIP is production; GDP deflator is output-price broad measure.
+**Logic:** WPI is wholesale; IIP is production; GDP deflator is output-price broad measure.
 
-**Ans: B.** CPI.
+**Ans: B.** Retail inflation = CPI.
 
 </details>
 
-**UPPCS (Pre) 2021**
+**Q-EC5. UPPCS (Pre) 2021**
 
 Which of the following Institution/Office bring out the Wholesale Price Index (WPI) data in India?
 
@@ -247,13 +246,12 @@ D. The Ministry of Consumer Affairs, Food and Public Distribution
 <details>
 <summary>Show answer</summary>
 
-**Logic:** WPI comes from the Office of the Economic Adviser under DPIIT in the Ministry of Commerce and Industry.
+**Logic:** WPI comes from the Office of the Economic Adviser under DPIIT in the Ministry of Commerce and Industry — The Ministry of Commerce and Industry
 
-**Ans: B.** The Ministry of Commerce and Industry.
-
+**Ans: B.** The Ministry of Commerce and Industry
 </details>
 
-**UPPCS (Pre) 2021**
+**Q-EC6. UPPCS (Pre) 2021**
 
 Headline inflation refers to the change in value of all goods on the basket. On which basis is the headline inflation measured?
 
@@ -265,9 +263,9 @@ D. Urban Consumer Price Index
 <details>
 <summary>Show answer</summary>
 
-**Logic:** India’s headline retail measure for policy is Combined CPI (NSO/MoSPI), not WPI or a single segment CPI.
+**Logic:** Combined Consumer Price Index.
 
-**Ans: C.** Combined Consumer Price Index.
+**Ans: C.** India’s headline retail measure for policy is Combined CPI (NSO/MoSPI), not WPI or a single segment CPI.
 
 </details>
 
@@ -312,7 +310,6 @@ D. Urban Consumer Price Index
 
 ---
 
-
 ## Teaching expansion — additional theory (beyond Consolidated spine)
 
 These points sit in teaching theory (not the Consolidated spine).
@@ -335,7 +332,7 @@ These points sit in teaching theory (not the Consolidated spine).
 
 ## Complete PYQ Bank (UPPCS)
 
-**Q1. UPPCS (Pre) 2024** — Retail inflation index
+**Q1. UPPCS (Pre) 2024**
 
 A. WPI
 B. CPI
@@ -345,13 +342,12 @@ D. GDP Deflator
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Retail = CPI.
+**Logic:** Standard key matches CPI.
 
-**Ans: B.**
-
+**Ans: B.** CPI
 </details>
 
-**Q2. UPPCS (Pre) 2021** — WPI releasing ministry
+**Q2. UPPCS (Pre) 2021**
 
 A. RBI
 B. Ministry of Commerce and Industry
@@ -361,13 +357,12 @@ D. Ministry of Consumer Affairs, Food and Public Distribution
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Commerce & Industry (OEA/DPIIT).
+**Logic:** Commerce & Industry (OEA/DPIIT) — Ministry of Commerce and Industry
 
-**Ans: B.**
-
+**Ans: B.** Ministry of Commerce and Industry
 </details>
 
-**Q3. UPPCS (Pre) 2021** — Headline inflation basis
+**Q3. UPPCS (Pre) 2021**
 
 A. WPI
 B. CPI-IW
@@ -377,13 +372,12 @@ D. Urban CPI
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Combined CPI.
+**Logic:** Standard key matches Combined CPI.
 
-**Ans: C.**
-
+**Ans: C.** Combined CPI
 </details>
 
-**Q4. UPPCS (Pre) 2021** — Bottleneck inflation A/R
+**Q4. UPPCS (Pre) 2021**
 
 A. Both true and R explains A
 B. Both true but R does not explain A
@@ -393,10 +387,9 @@ D. A false, R true
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** Supply bottlenecks explain why it is hard to tackle.
+**Logic:** Standard key: Both true and R explains A.
 
-**Ans: A.**
-
+**Ans: A.** Both true and R explains A
 </details>
 
 ---
@@ -405,7 +398,9 @@ D. A false, R true
 
 Extra Drill rebuilt from coaching / mock stems (not a full Purvalokan dump). Expand when Ghatnachakra Economy MCQs are pasted.
 
-**Q14.** With reference to capital market, which of the following statements is/are correct?
+**Q14.**
+
+With reference to capital market, which of the following statements is/are correct?
 
 1. Equity and long-term debt belong here.
 2. It funds longer-horizon investment than the money market.
@@ -421,13 +416,14 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Logic:** Repo is Topic 3.
 
-**Logic:** Repo is Topic 3. Statement 3 is false.
-
+**Ans: B.** 1 and 2
 </details>
 
-**Q15.** NPS in teaching is best tagged as
+**Q15.**
+
+NPS in teaching is best tagged as
 
 A. A wholesale price index
 B. A market-linked pension system
@@ -437,13 +433,14 @@ D. A GST slab
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Market-linked pension architecture.
+**Logic:** PFRDA lane; full regulator list in Topic 11 — A market-linked pension system
 
-**Logic:** PFRDA lane; full regulator list in Topic 11.
-
+**Ans: B.** A market-linked pension system
 </details>
 
-**Q16.** Which measure is **not** a typical inflation-control tool in school lists?
+**Q16.**
+
+Which measure is **not** a typical inflation-control tool in school lists?
 
 A. Tightening monetary policy
 B. Easing supply bottlenecks
@@ -453,13 +450,14 @@ D. Fiscal restraint when demand is overheated
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Measuring inflation remains necessary.
+**Logic:** A, B, D are standard responses — Abolishing CPI measurement forever
 
-**Logic:** A, B, D are standard responses.
-
+**Ans: C.** Abolishing CPI measurement forever
 </details>
 
-**Q17.** Match List-I with List-II.
+**Q17.**
+
+Match List-I with List-II.
 
 | List-I | List-II |
 |---|---|
@@ -480,13 +478,14 @@ D. 4 1 2 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** CPI agency; WPI agency; SEBI; deflator formula.
+**Logic:** Agency swap is the main trap — 2 1 3 4
 
-**Logic:** Agency swap is the main trap.
-
+**Ans: A.** 2 1 3 4
 </details>
 
-**Q18.** Hyperinflation teaching means
+**Q18.**
+
+Hyperinflation teaching means
 
 A. Mild seasonal vegetable price blips only
 B. Extremely rapid inflation destroying money’s store-of-value role
@@ -496,13 +495,14 @@ D. Only disinflation by definition
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Extreme rapid inflation.
+**Logic:** Rare extreme case — Extremely rapid inflation destroying money’s store-of-value role
 
-**Logic:** Rare extreme case.
-
+**Ans: B.** Extremely rapid inflation destroying money’s store-of-value role
 </details>
 
-**Q19.** With reference to financial literacy, which of the following statements is/are correct?
+**Q19.**
+
+With reference to financial literacy, which of the following statements is/are correct?
 
 1. It helps households understand inflation and product risk.
 2. It supports better savings and investment choices.
@@ -518,13 +518,12 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Logic:** Statement 3 is false — 1 and 2
 
-**Logic:** Statement 3 is false.
-
+**Ans: B.** 1 and 2
 </details>
 
-**Q20.** Imported inflation rises when
+**Q20.**
 
 A. Only domestic CRR falls by law with no price link
 B. Foreign prices or a weaker rupee lift import costs
@@ -534,13 +533,14 @@ D. WPI is abolished
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Import-cost channel.
+**Logic:** Open-economy price pressure — Foreign prices or a weaker rupee lift import costs
 
-**Logic:** Open-economy price pressure.
-
+**Ans: B.** Foreign prices or a weaker rupee lift import costs
 </details>
 
-**Q21.** Which of the following pairs is **not** correctly matched?
+**Q21.**
+
+Which of the following pairs is **not** correctly matched?
 
 A. Debtors — tend to gain from inflation
 B. Fixed-income groups — tend to lose from inflation
@@ -550,13 +550,14 @@ D. Disinflation — falling inflation rate
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Headline **includes** food and energy.
+**Logic:** A, B, D are standard — Headline inflation — excludes food and energy by definition
 
-**Logic:** A, B, D are standard.
-
+**Ans: C.** Headline inflation — excludes food and energy by definition
 </details>
 
-**Q22.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+**Q22.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 Assertion (A): CPI is preferred over WPI as India’s monetary-policy inflation gauge.
 
@@ -572,13 +573,12 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both true; household retail coverage explains the preference.
+**A/R logic:** Both true; household retail coverage explains the preference.
 
-**A/R logic:** FIT index choice.
-
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)
 </details>
 
-**Q23.** Gross capital formation refers mainly to
+**Q23.**
 
 A. Only interest on public debt
 B. Investment flow building capital stock in a period
@@ -588,13 +588,14 @@ D. Only reverse repo balances
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Investment / capital formation flow.
+**Logic:** Savings–investment block — Investment flow building capital stock in a period
 
-**Logic:** Savings–investment block.
-
+**Ans: B.** Investment flow building capital stock in a period
 </details>
 
-**Q24.** With reference to insurance as a household product, which of the following statements is/are correct?
+**Q24.**
+
+With reference to insurance as a household product, which of the following statements is/are correct?
 
 1. It pools risk and can act as a financial product.
 2. Life and general insurance are standard teaching lanes.
@@ -610,13 +611,14 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Logic:** Standard key matches 1 and 2.
 
-**Logic:** CPI is MoSPI. Statement 3 is false.
-
+**Ans: B.** 1 and 2
 </details>
 
-**Q25.** Wage–price spiral means
+**Q25.**
+
+Wage–price spiral means
 
 A. Wages and prices chase each other upward
 B. Only CRR and SLR become equal forever
@@ -626,13 +628,14 @@ D. Only deflation is mandatory
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Mutual upward chase of wages and prices.
+**Logic:** Cost-push / expectations channel — Wages and prices chase each other upward
 
-**Logic:** Cost-push / expectations channel.
-
+**Ans: A.** Wages and prices chase each other upward
 </details>
 
-**Q26.** Match List-I with List-II.
+**Q26.**
+
+Match List-I with List-II.
 
 | List-I | List-II |
 |---|---|
@@ -653,13 +656,14 @@ D. 4 1 2 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Money market; equity; NAV; bondholder inflation hurt.
+**Logic:** Market-segment hygiene — 2 1 3 4
 
-**Logic:** Market-segment hygiene.
-
+**Ans: A.** 2 1 3 4
 </details>
 
-**Q27.** Reflation in teaching means
+**Q27.**
+
+Reflation in teaching means
 
 A. Policy to raise prices / demand after a weak or deflationary spell
 B. Permanent abolition of money
@@ -669,13 +673,14 @@ D. Only WPI base-year change by itself
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Stimulating prices / demand after weakness.
+**Logic:** Opposite neighbourhood of disinflation / deflation policy talk — Policy to raise prices / demand after a weak or deflationary spell
 
-**Logic:** Opposite neighbourhood of disinflation / deflation policy talk.
-
+**Ans: A.** Policy to raise prices / demand after a weak or deflationary spell
 </details>
 
-**Q28.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+**Q28.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 Assertion (A): Measuring retail inflation with CPI matters for household welfare analysis.
 
@@ -691,16 +696,17 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both true; retail incidence explains why CPI matters for welfare.
+**A/R logic:** Both true; retail incidence explains why CPI matters for welfare.
 
-**A/R logic:** CPI vs WPI purpose.
-
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)
 </details>
 
 ---
 
 ## UKPCS Prelims Bank
-**Q1. UKPCS (Pre) 2021** — Who benefits from inflation?
+**Q1. UKPCS (Pre) 2021**
+
+Who benefits from inflation?
 
 A. Bond holders
 B. Debtors
@@ -710,13 +716,12 @@ D. None of these
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Debtors gain; creditors / fixed income lose.
+**Logic:** Debtors gain; creditors / fixed income lose — Debtors
 
-**Ans: B.**
-
+**Ans: B.** Debtors
 </details>
 
-**Q2. UKPCS (Pre) 2024** — Total inflation including food and energy
+**Q2. UKPCS (Pre) 2024**
 
 A. Headline inflation
 B. Core inflation
@@ -726,17 +731,18 @@ D. None of these
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Headline includes food and energy.
+**Logic:** Headline includes food and energy — Headline inflation
 
-**Ans: A.**
-
+**Ans: A.** Headline inflation
 </details>
 
 ---
 
 ## Practice Zone
 
-**Q1.** With reference to disinflation, which of the following statements is/are correct?
+**Q1.**
+
+With reference to disinflation, which of the following statements is/are correct?
 
 1. It means the inflation rate is falling.
 2. It is identical to a fall in the absolute price level.
@@ -752,13 +758,14 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 3 are correct.
+**Logic:** Absolute fall in the price level is deflation, not disinflation.
 
-**Logic:** Absolute fall in prices is deflation. Statement 2 is false.
-
+**Ans: B.** Disinflation = slower inflation rate; prices may still rise.
 </details>
 
-**Q2.** Stagflation refers to
+**Q2.**
+
+Stagflation refers to
 
 A. High growth with falling prices only
 B. Inflation with stagnant growth / high unemployment
@@ -768,13 +775,14 @@ D. Only a surplus in the capital account
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Inflation plus stagnation.
+**Logic:** Stagflation pairs rising prices with weak real activity — a policy dilemma.
 
-**Logic:** Policy dilemma teaching.
-
+**Ans: B.** Not a CRR or capital-account identity.
 </details>
 
-**Q3.** Which pair is **not** correctly matched?
+**Q3.**
+
+Which pair is **not** correctly matched?
 
 A. CPI — retail prices including services
 B. WPI — wholesale goods prices
@@ -784,13 +792,14 @@ D. Headline inflation — full basket
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Core **excludes** food and fuel.
+**Logic:** Core inflation **excludes** volatile food and fuel; it does not “include only” them.
 
-**Logic:** A, B, D are standard.
-
+**Ans: C.** A, B, D are standard.
 </details>
 
-**Q4.** CPI data in India are mainly released by
+**Q4.**
+
+CPI data in India are mainly released by
 
 A. DPIIT alone as the only CPI agency
 B. NSO under MoSPI
@@ -800,13 +809,14 @@ D. GST Council
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** NSO / MoSPI.
+**Logic:** Combined CPI sits with NSO / MoSPI; WPI sits with Commerce / OEA / DPIIT.
 
-**Logic:** Do not swap with WPI’s Commerce ministry.
-
+**Ans: B.** Do not swap CPI and WPI agencies.
 </details>
 
-**Q5.** With reference to WPI, which of the following statements is/are correct?
+**Q5.**
+
+With reference to WPI, which of the following statements is/are correct?
 
 1. It is released by the Ministry of Commerce and Industry.
 2. It excludes services in the classic design.
@@ -822,13 +832,14 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Logic:** Flexible inflation targeting keys headline CPI, not WPI.
 
-**Logic:** RBI targets CPI. Statement 3 is false.
-
+**Ans: B.** WPI = Commerce ministry, goods only.
 </details>
 
-**Q6.** Match List-I with List-II.
+**Q6.**
+
+Match List-I with List-II.
 
 | List-I | List-II |
 |---|---|
@@ -849,13 +860,14 @@ D. 4 1 2 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Excess demand; costs; bottlenecks; core definition.
+**Logic:** Demand-pull = excess demand; cost-push = input costs; bottleneck = supply rigidities; core = ex-food & fuel.
 
-**Logic:** Keep bottleneck distinct from pure demand-pull.
-
+**Ans: A.** Keep bottleneck distinct from pure demand-pull.
 </details>
 
-**Q7.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+**Q7.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 Assertion (A): Inflation tends to hurt bondholders with fixed coupons.
 
@@ -871,13 +883,14 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both true; real-receipt erosion explains the hurt.
+**A/R logic:** Both true; real-receipt erosion is exactly why fixed-coupon holders lose.
 
-**A/R logic:** Creditor side of the UKPCS debtor stem.
-
+**Ans: D.** Debtors gain / creditors lose is the twin trap.
 </details>
 
-**Q8.** IIP measures
+**Q8.**
+
+The Index of Industrial Production (IIP) primarily measures
 
 A. Retail inflation
 B. Industrial production
@@ -887,13 +900,14 @@ D. Fiscal deficit
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Industrial production.
+**Logic:** IIP is a production-volume index, not a price / inflation index.
 
-**Logic:** Not an inflation index (2024 trap).
-
+**Ans: B.** Do not use IIP as the retail-inflation key.
 </details>
 
-**Q9.** With reference to savings and investment, which of the following statements is/are correct?
+**Q9.**
+
+With reference to savings and investment, which of the following statements is/are correct?
 
 1. Savings are income not consumed.
 2. Investment builds capital stock in teaching.
@@ -909,13 +923,14 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Logic:** Statement 3 invents a legal identity between savings and the repo rate.
 
-**Logic:** Statement 3 is false.
-
+**Ans: B.** S and I are macro flows; repo is a Topic 3 policy rate.
 </details>
 
-**Q10.** Money market instruments are typically
+**Q10.**
+
+Money market instruments are typically
 
 A. Only 30-year infrastructure equity
 B. Short-term funds instruments
@@ -925,29 +940,31 @@ D. Only Finance Commission grants
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Short-term funds.
+**Logic:** Money market = short-term; capital market = longer-term equity / debt.
 
-**Logic:** Capital market = longer term.
-
+**Ans: B.** T-bills, CP, call money sit here.
 </details>
 
-**Q11.** Which of the following pairs is **not** correctly matched?
+**Q11.**
+
+Which of the following pairs is **not** correctly matched?
 
 A. Primary market — new issues
 B. Secondary market — trading of existing securities
 C. SEBI — securities market regulator
-D. WPI — released by MoSPI as CPI’s twin twin agency for wholesale
+D. WPI — released by MoSPI as CPI’s twin agency for wholesale
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** WPI is Commerce & Industry; CPI is MoSPI.
+**Logic:** WPI is Commerce / OEA / DPIIT — not MoSPI.
 
-**Logic:** A–C are standard.
-
+**Ans: D.** A–C are standard market pairs.
 </details>
 
-**Q12.** Mutual funds mainly
+**Q12.**
+
+Mutual funds mainly
 
 A. Print currency notes
 B. Pool investors’ money into securities portfolios
@@ -957,13 +974,14 @@ D. Constitute the Finance Commission
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Pooled portfolio investment under SEBI norms.
+**Logic:** Mutual funds are SEBI-regulated pooled portfolios; NAV tracks portfolio value.
 
-**Logic:** Intermediary product.
-
+**Ans: B.** Not a monetary-authority function.
 </details>
 
-**Q13.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+**Q13.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 Assertion (A): Real interest rates can turn negative.
 
@@ -979,10 +997,277 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both true; the arithmetic explains the claim.
+**A/R logic:** Real rate ≈ nominal − inflation; R states the arithmetic that makes A true.
 
-**A/R logic:** Real rate ≈ nominal − inflation.
+**Ans: D.** Both true and R explains A.
+</details>
 
+**Q14.**
+
+In India, retail / headline inflation for policy teaching is measured by
+
+A. WPI alone
+B. Combined CPI
+C. IIP alone
+D. Only the GDP deflator
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Headline retail key is Combined CPI; WPI / IIP / deflator are different measures.
+
+**Ans: B.** FIT also targets CPI (Topic 3 toolkit).
+</details>
+
+**Q15.**
+
+With reference to inflation’s distributional effects, which of the following statements is/are correct?
+
+1. Debtors with fixed nominal debt tend to gain in real terms.
+2. Creditors / fixed-income recipients tend to lose in real terms.
+3. Inflation always raises real bond returns for existing fixed coupons.
+
+Select the correct answer from the code given below:
+
+A. Only 3
+B. 1 and 2
+C. 2 and 3
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Statement 3 reverses the bondholder effect.
+
+**Ans: B.** Debtors gain; creditors / bondholders lose in real terms.
+</details>
+
+**Q16.**
+
+Match List-I with List-II.
+
+| List-I | List-II |
+|---|---|
+| A. Money market | 1. New securities issue |
+| B. Capital market | 2. Short-term funds |
+| C. Primary market | 3. Longer-term equity / debt |
+| D. Secondary market | 4. Trading existing securities |
+
+Select the correct answer from the code given below:
+
+A. 2 3 1 4
+B. 3 2 1 4
+C. 2 1 3 4
+D. 4 3 1 2
+
+*Row order is not the answer code.*
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Short vs long tenor first; then new issue vs secondary trading.
+
+**Ans: A.** Do not swap money and capital markets.
+</details>
+
+**Q17.**
+
+The GDP deflator is best described as
+
+A. The RBI’s statutory FIT target index
+B. (Nominal GDP / Real GDP) × 100 — a broad output-price measure
+C. Only the WPI food group
+D. Only the CRR percentage
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Deflator is an output-price measure; retail policy still keys CPI.
+
+**Ans: B.** Not the usual retail-inflation stem answer.
+</details>
+
+**Q18.**
+
+Which of the following is **not** correctly matched?
+
+A. Creeping inflation — mild price rise
+B. Hyperinflation — extremely rapid price rise
+C. Reflation — policy to lift prices / demand after a weak spell
+D. Core inflation — full basket including food and energy only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Full basket including food and energy is headline, not core.
+
+**Ans: D.** Core strips food and fuel.
+</details>
+
+**Q19.**
+
+With reference to capital formation in India, which of the following statements is/are correct?
+
+1. The household sector dominates gross domestic savings in teaching.
+2. Within household savings, physical assets often lead financial claims.
+3. Capital formation is identical to the fiscal deficit formula.
+
+Select the correct answer from the code given below:
+
+A. Only 3
+B. 1 and 2
+C. 2 and 3
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Statement 3 confuses investment flows with Topic 2 budget arithmetic.
+
+**Ans: B.** Household / physical-savings pattern is the standard key.
+</details>
+
+**Q20.**
+
+SEBI’s core regulatory domain is the
+
+A. Securities market
+B. Cash Reserve Ratio alone
+C. Finance Commission awards alone
+D. Census operations
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** SEBI regulates exchanges, brokers, mutual funds and listed companies.
+
+**Ans: A.** RBI remains the monetary / banking supervisor trap.
+</details>
+
+**Q21.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Bottleneck inflation is hard to cure with demand tools alone.
+
+Reason (R): It arises mainly from supply / distribution constraints rather than pure excess demand.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** Both true; supply rigidities explain why demand compression is a weak sole remedy.
+
+**Ans: D.** Structural / bottleneck map.
+</details>
+
+**Q22.**
+
+National Pension System (NPS) in teaching is best tagged as
+
+A. A market-linked pension architecture under PFRDA supervision
+B. A WPI subcommittee of DPIIT
+C. An RBI CRR window
+D. A Finance Commission grant formula
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** NPS is pension-market architecture; regulator depth continues in Topic 11.
+
+**Ans: A.** Not an inflation-index body.
+</details>
+
+**Q23.**
+
+Imported inflation rises when
+
+A. Only CRR is cut in isolation with no price effect ever
+B. Foreign prices or a weaker rupee lift domestic import costs
+C. Only SEBI lists a new broker
+D. Only IIP shows higher production
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** External cost pass-through is the imported-inflation channel.
+
+**Ans: B.** Exchange-rate depth continues in Topic 9.
+</details>
+
+**Q24.**
+
+With reference to headline and core inflation, which of the following statements is/are correct?
+
+1. Headline includes food and energy.
+2. Core strips volatile food and fuel.
+3. Core always equals WPI by law.
+
+Select the correct answer from the code given below:
+
+A. Only 3
+B. 1 and 2
+C. 2 and 3
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Statement 3 invents a legal identity between core CPI teaching and WPI.
+
+**Ans: B.** Headline vs core is a CPI-family distinction.
+</details>
+
+**Q25.**
+
+Arrange the following from mildest to most extreme in school inflation-speed lists:
+
+1. Creeping inflation
+2. Walking / trotting inflation
+3. Galloping / hyperinflation extremes
+
+Select the correct answer from the code given below:
+
+A. 3-2-1
+B. 1-2-3
+C. 2-1-3
+D. 1-3-2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Creeping → walking/trotting → running/galloping/hyper extremes.
+
+**Ans: B.** Speed ladder, not a cause ladder.
+</details>
+
+**Q26.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Moderate inflation can coexist with growth in teaching.
+
+Reason (R): Very high inflation damages savings, contracts and planning.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** Both are true teaching claims; R warns about high inflation but does not explain why moderate inflation can coexist with growth.
+
+**Ans: A.** Parallel truths, not a causal link from R to A.
 </details>
 
 ## Common Traps

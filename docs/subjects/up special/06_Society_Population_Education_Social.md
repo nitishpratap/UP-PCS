@@ -263,6 +263,55 @@ Lucknow is home to the dense concentration of national scientific laboratories:
 
 ---
 
+## Bilingual Terminology -- UP Society and Social Issues
+
+| English | Hindi | Key Anchor |
+|---|---|---|
+| **Social Justice** | सामाजिक न्याय | Equitable distribution of rights and opportunities |
+| **OBC Reservation** | अन्य पिछड़ा वर्ग आरक्षण | 27% central; UP OBC reservation = 27% |
+| **SC Reservation** | अनुसूचित जाति आरक्षण | 21% in UP government services |
+| **ST Reservation** | अनुसूचित जनजाति आरक्षण | 2% in UP (limited ST population) |
+| **Gender Ratio** | लिंग अनुपात | UP sex ratio = 912 (2011) -- below national 943 |
+| **Beti Bachao Beti Padhao** | बेटी बचाओ बेटी पढ़ाओ | Scheme to improve sex ratio and female literacy |
+| **Mid-Day Meal** | मध्याह्न भोजन | School lunch programme under National Food Security Act |
+| **Right to Education** | शिक्षा का अधिकार | RTE Act 2009 (Article 21A); free education 6-14 years |
+| **Samagra Shiksha** | समग्र शिक्षा | Merged SSA + RMSA + TE scheme (2018) |
+| **Anganwadi** | आँगनवाड़ी | ICDS centre for pre-school nutrition and care |
+| **ICDS** | समेकित बाल विकास सेवाएँ | Integrated Child Development Services |
+| **Child Labour** | बाल श्रम | Employment of children under 14 years; Child Labour Act 1986 |
+| **Dowry** | दहेज | Illegal under Dowry Prohibition Act, 1961 |
+| **Dalit** | दलित | SC communities; often used to describe marginalised identity |
+| **ASHA** | आशा (Accredited Social Health Activist) | Community health worker under NHM |
+
+---
+
+## Extended Theory -- UP's Social Profile
+
+### Education in UP (Census 2011)
+
+| Indicator | UP (2011) | India (2011) |
+|---|---|---|
+| **Overall Literacy Rate** | 67.7% | 73.0% |
+| **Male Literacy** | 77.3% | 80.9% |
+| **Female Literacy** | 57.2% | 64.6% |
+| **Gender Literacy Gap** | 20.1% | 16.3% |
+| **Highest Literacy District** | Gautam Buddha Nagar (80.12%) | Kerala (94.0%) -- State |
+| **Lowest Literacy District** | Shravasti (46.74%) | Bihar (61.8%) -- State |
+
+### Key Social Welfare Schemes in UP
+
+| Scheme | Purpose | Year |
+|---|---|---|
+| **UP CM Bal Seva Yojana** | Aid to children who lost parents to COVID-19 | 2021 |
+| **Kanya Sumangala Yojana** | Financial support to girl child at 6 life stages | 2019 |
+| **UP Vriddha Pension** | Old-age pension for senior citizens | Ongoing |
+| **Beti Bachao Beti Padhao** | Sex ratio improvement and girl education | 2015 (national) |
+| **Mukhyamantri Abhyudaya Yojana** | Free coaching for competitive exams (IAS, NEET, etc.) | 2021 |
+| **Mission Shakti** | Women safety and empowerment | 2020 |
+| **UP Free Smartphone/Tablet** | Digital access for youth | 2021 |
+
+---
+
 ## Complete PYQ Bank (UPPCS)
 
 > Verified stems from UPPCS Prelims (and closely related UP papers). Extra Drill follows.
@@ -315,7 +364,6 @@ D. 1981 and 1991
 
 </details>
 
-
 ---
 
 ## Ghatnachakra Extra Drill — Society Population Education Social
@@ -354,9 +402,7 @@ D. Gautam Buddha Nagar
 
 </details>
 
-
 ---
-
 
 ### Other Papers — BPSC / MPPSC / RAS / UKPCS / UPSC / WBCS
 
@@ -370,10 +416,9 @@ D. 1084
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Neighbour demography — Bihar below national 943.
+**Logic:** Standard key matches 918.
 
-**Ans: B.** 918.
-
+**Ans: B.** 918
 </details>
 
 **Q4. UKPSC (Pre) 2022**
@@ -402,10 +447,9 @@ D. 63.8%
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Above national average; Dehradun has the highest district literacy.
+**Logic:** Standard key matches 78.82%.
 
-**Ans: C.** 78.82%.
-
+**Ans: C.** 78.82%
 </details>
 
 **Q6. RPSC RAS (Pre) 2021**
@@ -456,352 +500,6 @@ D. Its high total population
 
 </details>
 
-## Practice Zone
-
-1. According to Census 2011, what percentage of the total population of India resides in Uttar Pradesh?
-   (A) 14.25%
-   (B) 16.51%
-   (C) 18.20%
-   (D) 20.10%
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) 16.51%</b><br>
-<b>Explanation:</b> With 19.98 Crore people, Uttar Pradesh accounts for exactly 16.51% of India's total population (121.08 Crore), occupying 7.33% of India's land area.
-</details>
-
-2. Which district of Uttar Pradesh recorded the HIGHEST decadal growth rate of population during 2001–2011?
-   (A) Ghaziabad
-   (B) Gautam Buddha Nagar
-   (C) Lucknow
-   (D) Prayagraj
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Gautam Buddha Nagar</b><br>
-<b>Explanation:</b> Gautam Buddha Nagar recorded a decadal growth rate of 49.1% during 2001–2011, driven by rapid urbanization, real estate expansion, and industrial influx in Noida/Greater Noida.
-</details>
-
-3. Which district of Uttar Pradesh has the HIGHEST population density according to Census 2011?
-   (A) Varanasi
-   (B) Lucknow
-   (C) Ghaziabad
-   (D) Kanpur Nagar
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) Ghaziabad</b><br>
-<b>Explanation:</b> Ghaziabad is the most densely populated district in Uttar Pradesh with 3,971 persons per square kilometer, followed by Varanasi (2,395/km²) and Lucknow (1,816/km²).
-</details>
-
-4. According to Census 2011, which district of Uttar Pradesh has the HIGHEST female literacy rate?
-   (A) Gautam Buddha Nagar
-   (B) Lucknow
-   (C) Kanpur Nagar
-   (D) Ghaziabad
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) Kanpur Nagar</b><br>
-<b>Explanation:</b> Kanpur Nagar leads the state in female literacy with 75.05%, followed by Lucknow (71.53%) and Gautam Buddha Nagar (70.82%). Gautam Buddha Nagar leads in overall literacy (80.12%) and male literacy (88.06%).
-</details>
-
-5. What is the Child Sex Ratio (0–6 years) in Uttar Pradesh according to Census 2011?
-   (A) 898
-   (B) 902
-   (C) 912
-   (D) 924
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) 902</b><br>
-<b>Explanation:</b> The Child Sex Ratio (0–6 years) in Uttar Pradesh is 902 females per 1000 males (down from 916 in 2001). Balrampur is highest (950) and Baghpat is lowest (841).
-</details>
-
-6. Which district of Uttar Pradesh has the LOWEST child sex ratio (0–6 years) as per Census 2011?
-   (A) Gautam Buddha Nagar
-   (B) Baghpat
-   (C) Ghaziabad
-   (D) Meerut
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Baghpat</b><br>
-<b>Explanation:</b> Baghpat recorded the lowest child sex ratio in Uttar Pradesh at 841 females per 1000 males, followed by Gautam Buddha Nagar (843) and Ghaziabad (850).
-</details>
-
-7. Which district in Uttar Pradesh has the highest proportion of urban population according to Census 2011?
-   (A) Lucknow
-   (B) Kanpur Nagar
-   (C) Ghaziabad
-   (D) Gautam Buddha Nagar
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) Ghaziabad</b><br>
-<b>Explanation:</b> Ghaziabad has the highest urban population percentage in UP at 67.6%, followed by Lucknow (66.2%) and Kanpur Nagar (65.8%).
-</details>
-
-8. What is the percentage of Scheduled Castes (SC) in the total population of Uttar Pradesh as per Census 2011?
-   (A) 16.6%
-   (B) 18.5%
-   (C) 20.7%
-   (D) 24.2%
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) 20.7%</b><br>
-<b>Explanation:</b> Scheduled Castes constitute 20.69% (~20.7%) of the total population of Uttar Pradesh (41,357,608 individuals).
-</details>
-
-9. Which district of Uttar Pradesh has the highest absolute count of Scheduled Castes (SC)?
-   (A) Kaushambi
-   (B) Hardoi
-   (C) Sitapur
-   (D) Prayagraj
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) Sitapur</b><br>
-<b>Explanation:</b> Sitapur district has the highest absolute Scheduled Caste population in UP with 14.46 Lakh persons, followed by Prayagraj (13.10 Lakh) and Hardoi (12.65 Lakh).
-</details>
-
-10. What is the percentage share of Scheduled Tribes (ST) in the total population of Uttar Pradesh?
-   (A) 0.57%
-   (B) 1.25%
-   (C) 2.50%
-   (D) 4.20%
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (A) 0.57%</b><br>
-<b>Explanation:</b> Scheduled Tribes constitute only 0.57% of the total population of Uttar Pradesh (1,134,273 persons), with the highest concentration in Sonbhadra district.
-</details>
-
-11. In which district of Uttar Pradesh is the tribal population percentage HIGHEST?
-   (A) Lalitpur
-   (B) Mirzapur
-   (C) Sonbhadra
-   (D) Deoria
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) Sonbhadra</b><br>
-<b>Explanation:</b> Sonbhadra district has the highest ST percentage in UP at 20.67% (and the highest absolute tribal headcount of 3.85 Lakh).
-</details>
-
-12. The 'Bajhar' festival is a traditional community celebration of which scheduled tribe of UP?
-   (A) Tharu
-   (B) Buxa
-   (C) Kol
-   (D) Kharwar
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (A) Tharu</b><br>
-<b>Explanation:</b> The Bajhar festival is celebrated by the Tharu tribe during the summer month of Jyeshtha/Ashadha to pray for good health, disease prevention, and village prosperity.
-</details>
-
-13. The traditional wedding feast known as 'Lathmarva Bhoj' is practiced by which tribe of UP?
-   (A) Jaunsari
-   (B) Tharu
-   (C) Sahariya
-   (D) Agariya
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Tharu</b><br>
-<b>Explanation:</b> In the Tharu community, when a widow remarries or a formal alliance is concluded, the community dinner provided by the groom's side is traditionally known as 'Lathmarva Bhoj'.
-</details>
-
-14. The 'Chamunda Devi' temple at Kashipur is the primary sacred shrine of which tribal community of Uttar Pradesh?
-   (A) Tharu
-   (B) Buxa
-   (C) Chero
-   (D) Baiga
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Buxa</b><br>
-<b>Explanation:</b> The Buxa (Bhoksa) tribe of Bijnor district holds deep reverence for Goddess Chamunda Devi, visiting the historic Chaiti Mela at Kashipur every year.
-</details>
-
-15. The 'Agariya' tribe, known historically for traditional artisanal iron-smelting, is found in which district of UP?
-   (A) Sonbhadra
-   (B) Lalitpur
-   (C) Banda
-   (D) Jhansi
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (A) Sonbhadra</b><br>
-<b>Explanation:</b> The Agariya tribe is an indigenous iron-smelting community found in Sonbhadra district of Uttar Pradesh.
-</details>
-
-16. The University of Allahabad was established in which year?
-   (A) 1857
-   (B) 1875
-   (C) 1887
-   (D) 1916
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) 1887</b><br>
-<b>Explanation:</b> The University of Allahabad was established on 23 September 1887. It was granted Central University status by an Act of Parliament in 2005.
-</details>
-
-17. Who among the following social reformers founded the Muhammadan Anglo-Oriental (MAO) College at Aligarh in 1875?
-   (A) Sir Syed Ahmad Khan
-   (B) Maulana Abul Kalam Azad
-   (C) Badruddin Tyabji
-   (D) Muhammad Ali Jinnah
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (A) Sir Syed Ahmad Khan</b><br>
-<b>Explanation:</b> Sir Syed Ahmad Khan founded the MAO College at Aligarh in 1875 to impart modern scientific and Western education, which later became Aligarh Muslim University (AMU) in 1920.
-</details>
-
-18. The Indian Institute of Technology (IIT) Kanpur was established in which year?
-   (A) 1951
-   (B) 1959
-   (C) 1965
-   (D) 1975
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) 1959</b><br>
-<b>Explanation:</b> IIT Kanpur was established in December 1959 under the Institutes of Technology Act, assisted by a consortium of nine US universities under the Kanpur Indo-American Program (KIAP).
-</details>
-
-19. The 'Harish-Chandra Research Institute' (HRI), an autonomous premier institute for Mathematics and Theoretical Physics, is located at:
-   (A) Jhunsi, Prayagraj
-   (B) Kalyanpur, Kanpur
-   (C) Telibagh, Lucknow
-   (D) Sarnath, Varanasi
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (A) Jhunsi, Prayagraj</b><br>
-<b>Explanation:</b> HRI is situated at Jhunsi in Prayagraj district, funded by the Department of Atomic Energy (DAE), GoI, and named after the renowned mathematician Harish-Chandra.
-</details>
-
-20. The 'V.V. Giri National Labour Institute' is situated in which city of Uttar Pradesh?
-   (A) Kanpur
-   (B) Noida
-   (C) Lucknow
-   (D) Ghaziabad
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Noida</b><br>
-<b>Explanation:</b> The V.V. Giri National Labour Institute is an autonomous research and training institution under the Ministry of Labour and Employment, GoI, located at Sector 24, Noida (Gautam Buddha Nagar).
-</details>
-
-21. Which CSIR research institute located at Lucknow developed the world's first non-steroidal, once-a-week oral contraceptive pill 'Saheli' (Centchroman)?
-   (A) Central Drug Research Institute (CDRI)
-   (B) Indian Institute of Toxicology Research (IITR)
-   (C) National Botanical Research Institute (NBRI)
-   (D) Central Institute of Medicinal & Aromatic Plants (CIMAP)
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (A) Central Drug Research Institute (CDRI)</b><br>
-<b>Explanation:</b> CDRI Lucknow developed Centchroman (marketed as 'Saheli' / 'Chhaya'), the world's first non-steroidal, once-a-week oral contraceptive pill with minimal side effects.
-</details>
-
-22. The 'National Bureau of Fish Genetic Resources' (NBFGR) is located at:
-   (A) Bareilly
-   (B) Lucknow
-   (C) Varanasi
-   (D) Gorakhpur
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Lucknow</b><br>
-<b>Explanation:</b> ICAR-NBFGR was established in December 1983 at Telibagh, Lucknow, to carry out research on fish genetic resources, DNA barcoding, and ex-situ aquatic germplasm banking.
-</details>
-
-23. Which university in Varanasi traces its historical roots to the Sanskrit College founded by British Resident Jonathan Duncan in 1791?
-   (A) Banaras Hindu University
-   (B) Sampurnanand Sanskrit Vishwavidyalaya
-   (C) Mahatma Gandhi Kashi Vidyapith
-   (D) Central Institute of Higher Tibetan Studies
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Sampurnanand Sanskrit Vishwavidyalaya</b><br>
-<b>Explanation:</b> Sampurnanand Sanskrit University evolved directly from the Government Sanskrit College established in 1791 by Jonathan Duncan, converted into a university in 1958 under Chief Minister Dr. Sampurnanand.
-</details>
-
-24. The 'Rajiv Gandhi National Aviation University' (RGNAU), India's first aviation university, is situated at:
-   (A) Fursatganj (Amethi)
-   (B) Jewar (Gautam Buddha Nagar)
-   (C) Amausi (Lucknow)
-   (D) Babatpur (Varanasi)
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (A) Fursatganj (Amethi)</b><br>
-<b>Explanation:</b> RGNAU was established under the Rajiv Gandhi National Aviation University Act, 2013, at Fursatganj in Amethi district to provide aviation education, pilot training, and airport management.
-</details>
-
-25. The Motilal Nehru National Institute of Technology (MNNIT) is situated in which city of UP?
-   (A) Prayagraj
-   (B) Kanpur
-   (C) Lucknow
-   (D) Varanasi
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (A) Prayagraj</b><br>
-<b>Explanation:</b> MNNIT was established in 1961 as Motilal Nehru Regional Engineering College (MNREC) at Teliarganj, Prayagraj, and upgraded to an NIT in 2002.
-</details>
-
-26. Which of the following districts in Uttar Pradesh has the SMALLEST geographic area according to official state records?
-   (A) Bhadohi
-   (B) Shamli
-   (C) Hapur
-   (D) Ghaziabad
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) Hapur</b><br>
-<b>Explanation:</b> Hapur (carved out of Ghaziabad) is the smallest district in Uttar Pradesh by geographic area (660 km²), followed by Bhadohi (1,015 km²) and Shamli (1,067 km²).
-</details>
-
-## Common Traps
-
-| Trap | Correct |
-|---|---|
-| Mixing Absolute vs % ranks | Match the stem metric first |
-
-
----
-
-## Bilingual Terminology -- UP Society and Social Issues
-
-| English | Hindi | Key Anchor |
-|---|---|---|
-| **Social Justice** | सामाजिक न्याय | Equitable distribution of rights and opportunities |
-| **OBC Reservation** | अन्य पिछड़ा वर्ग आरक्षण | 27% central; UP OBC reservation = 27% |
-| **SC Reservation** | अनुसूचित जाति आरक्षण | 21% in UP government services |
-| **ST Reservation** | अनुसूचित जनजाति आरक्षण | 2% in UP (limited ST population) |
-| **Gender Ratio** | लिंग अनुपात | UP sex ratio = 912 (2011) -- below national 943 |
-| **Beti Bachao Beti Padhao** | बेटी बचाओ बेटी पढ़ाओ | Scheme to improve sex ratio and female literacy |
-| **Mid-Day Meal** | मध्याह्न भोजन | School lunch programme under National Food Security Act |
-| **Right to Education** | शिक्षा का अधिकार | RTE Act 2009 (Article 21A); free education 6-14 years |
-| **Samagra Shiksha** | समग्र शिक्षा | Merged SSA + RMSA + TE scheme (2018) |
-| **Anganwadi** | आँगनवाड़ी | ICDS centre for pre-school nutrition and care |
-| **ICDS** | समेकित बाल विकास सेवाएँ | Integrated Child Development Services |
-| **Child Labour** | बाल श्रम | Employment of children under 14 years; Child Labour Act 1986 |
-| **Dowry** | दहेज | Illegal under Dowry Prohibition Act, 1961 |
-| **Dalit** | दलित | SC communities; often used to describe marginalised identity |
-| **ASHA** | आशा (Accredited Social Health Activist) | Community health worker under NHM |
-
----
-
-## Extended Theory -- UP's Social Profile
-
-### Education in UP (Census 2011)
-
-| Indicator | UP (2011) | India (2011) |
-|---|---|---|
-| **Overall Literacy Rate** | 67.7% | 73.0% |
-| **Male Literacy** | 77.3% | 80.9% |
-| **Female Literacy** | 57.2% | 64.6% |
-| **Gender Literacy Gap** | 20.1% | 16.3% |
-| **Highest Literacy District** | Gautam Buddha Nagar (80.12%) | Kerala (94.0%) -- State |
-| **Lowest Literacy District** | Shravasti (46.74%) | Bihar (61.8%) -- State |
-
-### Key Social Welfare Schemes in UP
-
-| Scheme | Purpose | Year |
-|---|---|---|
-| **UP CM Bal Seva Yojana** | Aid to children who lost parents to COVID-19 | 2021 |
-| **Kanya Sumangala Yojana** | Financial support to girl child at 6 life stages | 2019 |
-| **UP Vriddha Pension** | Old-age pension for senior citizens | Ongoing |
-| **Beti Bachao Beti Padhao** | Sex ratio improvement and girl education | 2015 (national) |
-| **Mukhyamantri Abhyudaya Yojana** | Free coaching for competitive exams (IAS, NEET, etc.) | 2021 |
-| **Mission Shakti** | Women safety and empowerment | 2020 |
-| **UP Free Smartphone/Tablet** | Digital access for youth | 2021 |
-
----
-
 ## UKPCS / MPPSC / BPSC Extra Drill -- UP Society
 
 **Q1. UKPCS (Pre) 2021**
@@ -814,7 +512,7 @@ D. Badaun
 <details>
 <summary>Show answer</summary>
 
-**Logic:** **Shravasti** has the lowest female literacy rate in UP (34.78%), followed by Balrampur (38.43%) and Bahraich (39.18%). Shravasti also has the lowest overall literacy rate (46.74%).
+**Logic:** **Shravasti** has the lowest female literacy rate in UP (34.78%), followed by Balrampur (38.43%) and Bahraich (39.18%).
 
 **Ans: C.** Shravasti.
 
@@ -846,7 +544,7 @@ D. 7
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Under **Kanya Sumangala Yojana** (launched 2019), financial aid of Rs 15,000 total is disbursed in **6 stages**: at birth, vaccination completion, Class 1 admission, Class 6 admission, Class 9 admission, and graduation/diploma.
+**Logic:** Under **Kanya Sumangala Yojana** (launched 2019), financial aid of Rs 15,000 total is disbursed in **6 stages**: at birth, vaccination completion, Class 1 admission, Class 6 admission, Class 9 admission, and graduatio…
 
 **Ans: C.** 6 stages.
 
@@ -873,4 +571,352 @@ D. 7
 | 13 | Mission Shakti (2020) = UP women safety campaign |
 | 14 | Mukhyamantri Abhyudaya Yojana (2021) = free exam coaching |
 | 15 | Samagra Shiksha (2018) = merged SSA + RMSA + TE |
+
+## Practice Zone
+
+1. According to Census 2011, what percentage of the total population of India resides in Uttar Pradesh?
+   (A) 14.25%
+   (B) 16.51%
+   (C) 18.20%
+   (D) 20.10%
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches 16.51%.
+
+**Ans: B.** 16.51%
+</details>
+
+2. Which district of Uttar Pradesh recorded the HIGHEST decadal growth rate of population during 2001–2011?
+   (A) Ghaziabad
+   (B) Gautam Buddha Nagar
+   (C) Lucknow
+   (D) Prayagraj
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Gautam Buddha Nagar.
+
+**Ans: B.** Gautam Buddha Nagar
+</details>
+
+3. Which district of Uttar Pradesh has the HIGHEST population density according to Census 2011?
+   (A) Varanasi
+   (B) Lucknow
+   (C) Ghaziabad
+   (D) Kanpur Nagar
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Ghaziabad.
+
+**Ans: C.** Ghaziabad
+</details>
+
+4. According to Census 2011, which district of Uttar Pradesh has the HIGHEST female literacy rate?
+   (A) Gautam Buddha Nagar
+   (B) Lucknow
+   (C) Kanpur Nagar
+   (D) Ghaziabad
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Kanpur Nagar.
+
+**Ans: C.** Kanpur Nagar
+</details>
+
+5. What is the Child Sex Ratio (0–6 years) in Uttar Pradesh according to Census 2011?
+   (A) 898
+   (B) 902
+   (C) 912
+   (D) 924
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches 902.
+
+**Ans: B.** 902
+</details>
+
+6. Which district of Uttar Pradesh has the LOWEST child sex ratio (0–6 years) as per Census 2011?
+   (A) Gautam Buddha Nagar
+   (B) Baghpat
+   (C) Ghaziabad
+   (D) Meerut
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Baghpat.
+
+**Ans: B.** Baghpat
+</details>
+
+7. Which district in Uttar Pradesh has the highest proportion of urban population according to Census 2011?
+   (A) Lucknow
+   (B) Kanpur Nagar
+   (C) Ghaziabad
+   (D) Gautam Buddha Nagar
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Ghaziabad.
+
+**Ans: C.** Ghaziabad
+</details>
+
+8. What is the percentage of Scheduled Castes (SC) in the total population of Uttar Pradesh as per Census 2011?
+   (A) 16.6%
+   (B) 18.5%
+   (C) 20.7%
+   (D) 24.2%
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches 20.7%.
+
+**Ans: C.** 20.7%
+</details>
+
+9. Which district of Uttar Pradesh has the highest absolute count of Scheduled Castes (SC)?
+   (A) Kaushambi
+   (B) Hardoi
+   (C) Sitapur
+   (D) Prayagraj
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Sitapur.
+
+**Ans: C.** Sitapur
+</details>
+
+10. What is the percentage share of Scheduled Tribes (ST) in the total population of Uttar Pradesh?
+   (A) 0.57%
+   (B) 1.25%
+   (C) 2.50%
+   (D) 4.20%
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches 0.57%.
+
+**Ans: A.** 0.57%
+</details>
+
+11. In which district of Uttar Pradesh is the tribal population percentage HIGHEST?
+   (A) Lalitpur
+   (B) Mirzapur
+   (C) Sonbhadra
+   (D) Deoria
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Sonbhadra.
+
+**Ans: C.** Sonbhadra
+</details>
+
+12. The 'Bajhar' festival is a traditional community celebration of which scheduled tribe of UP?
+   (A) Tharu
+   (B) Buxa
+   (C) Kol
+   (D) Kharwar
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Tharu.
+
+**Ans: A.** Tharu
+</details>
+
+13. The traditional wedding feast known as 'Lathmarva Bhoj' is practiced by which tribe of UP?
+   (A) Jaunsari
+   (B) Tharu
+   (C) Sahariya
+   (D) Agariya
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Tharu.
+
+**Ans: B.** Tharu
+</details>
+
+14. The 'Chamunda Devi' temple at Kashipur is the primary sacred shrine of which tribal community of Uttar Pradesh?
+   (A) Tharu
+   (B) Buxa
+   (C) Chero
+   (D) Baiga
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Buxa.
+
+**Ans: B.** Buxa
+</details>
+
+15. The 'Agariya' tribe, known historically for traditional artisanal iron-smelting, is found in which district of UP?
+   (A) Sonbhadra
+   (B) Lalitpur
+   (C) Banda
+   (D) Jhansi
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Sonbhadra.
+
+**Ans: A.** Sonbhadra
+</details>
+
+16. The University of Allahabad was established in which year?
+   (A) 1857
+   (B) 1875
+   (C) 1887
+   (D) 1916
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches 1887.
+
+**Ans: C.** 1887
+</details>
+
+17. Who among the following social reformers founded the Muhammadan Anglo-Oriental (MAO) College at Aligarh in 1875?
+   (A) Sir Syed Ahmad Khan
+   (B) Maulana Abul Kalam Azad
+   (C) Badruddin Tyabji
+   (D) Muhammad Ali Jinnah
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Sir Syed Ahmad Khan.
+
+**Ans: A.** Sir Syed Ahmad Khan
+</details>
+
+18. The Indian Institute of Technology (IIT) Kanpur was established in which year?
+   (A) 1951
+   (B) 1959
+   (C) 1965
+   (D) 1975
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches 1959.
+
+**Ans: B.** 1959
+</details>
+
+19. The 'Harish-Chandra Research Institute' (HRI), an autonomous premier institute for Mathematics and Theoretical Physics, is located at:
+   (A) Jhunsi, Prayagraj
+   (B) Kalyanpur, Kanpur
+   (C) Telibagh, Lucknow
+   (D) Sarnath, Varanasi
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Jhunsi, Prayagraj.
+
+**Ans: A.** Jhunsi, Prayagraj
+</details>
+
+20. The 'V.V. Giri National Labour Institute' is situated in which city of Uttar Pradesh?
+   (A) Kanpur
+   (B) Noida
+   (C) Lucknow
+   (D) Ghaziabad
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Noida.
+
+**Ans: B.** Noida
+</details>
+
+21. Which CSIR research institute located at Lucknow developed the world's first non-steroidal, once-a-week oral contraceptive pill 'Saheli' (Centchroman)?
+   (A) Central Drug Research Institute (CDRI)
+   (B) Indian Institute of Toxicology Research (IITR)
+   (C) National Botanical Research Institute (NBRI)
+   (D) Central Institute of Medicinal & Aromatic Plants (CIMAP)
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Central Drug Research Institute (CDRI).
+
+**Ans: A.** Central Drug Research Institute (CDRI)
+</details>
+
+22. The 'National Bureau of Fish Genetic Resources' (NBFGR) is located at:
+   (A) Bareilly
+   (B) Lucknow
+   (C) Varanasi
+   (D) Gorakhpur
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Lucknow.
+
+**Ans: B.** Lucknow
+</details>
+
+23. Which university in Varanasi traces its historical roots to the Sanskrit College founded by British Resident Jonathan Duncan in 1791?
+   (A) Banaras Hindu University
+   (B) Sampurnanand Sanskrit Vishwavidyalaya
+   (C) Mahatma Gandhi Kashi Vidyapith
+   (D) Central Institute of Higher Tibetan Studies
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Sampurnanand Sanskrit Vishwavidyalaya.
+
+**Ans: B.** Sampurnanand Sanskrit Vishwavidyalaya
+</details>
+
+24. The 'Rajiv Gandhi National Aviation University' (RGNAU), India's first aviation university, is situated at:
+   (A) Fursatganj (Amethi)
+   (B) Jewar (Gautam Buddha Nagar)
+   (C) Amausi (Lucknow)
+   (D) Babatpur (Varanasi)
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Fursatganj (Amethi).
+
+**Ans: A.** Fursatganj (Amethi)
+</details>
+
+25. The Motilal Nehru National Institute of Technology (MNNIT) is situated in which city of UP?
+   (A) Prayagraj
+   (B) Kanpur
+   (C) Lucknow
+   (D) Varanasi
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Prayagraj.
+
+**Ans: A.** Prayagraj
+</details>
+
+26. Which of the following districts in Uttar Pradesh has the SMALLEST geographic area according to official state records?
+   (A) Bhadohi
+   (B) Shamli
+   (C) Hapur
+   (D) Ghaziabad
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Hapur.
+
+**Ans: C.** Hapur
+</details>
+
+## Common Traps
+
+| Trap | Correct |
+|---|---|
+| Mixing Absolute vs % ranks | Match the stem metric first |
+
+---
 

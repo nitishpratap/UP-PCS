@@ -18,7 +18,6 @@ Depth already owned elsewhere stays linked: HDI pillars → Topic 8; FEMA force 
 
 ## Current Affairs
 
-
 | Year | Fact | Why it matters |
 |------|------|----------------|
 | **2024** | Economic Survey 2022–23: response to supply shocks included **reducing taxes on fuel and certain imports** — not cutting food/fertiliser subsidies or raising fuel taxes. | Only statement 3. |
@@ -88,7 +87,6 @@ Depth already owned elsewhere stays linked: HDI pillars → Topic 8; FEMA force 
 ---
 ## Confused Pairs
 
-
 | A | B | Distinguishing fact |
 |---|---|---|
 | **Economic Survey** | **Union Budget** | Review / narrative day-before vs Annual Financial Statement |
@@ -116,7 +114,6 @@ Depth already owned elsewhere stays linked: HDI pillars → Topic 8; FEMA force 
 
 ## Must-score drill — Acts, Survey, ranks
 
-
 | Item | Tag |
 |---|---|
 | IBC / RERA | Both **2016** |
@@ -139,7 +136,6 @@ Depth already owned elsewhere stays linked: HDI pillars → Topic 8; FEMA force 
 ---
 
 ## 12.1 Economic laws and codes — short desk
-
 
 **Major economic Acts** set the statutory frame for markets, finance, labour and consumer protection.
 
@@ -184,7 +180,7 @@ Depth already owned elsewhere stays linked: HDI pillars → Topic 8; FEMA force 
 - **Labour Bureau** compiles industrial disputes, closures, retrenchments and lay-offs statistics.
 - FEMA / FERA deepen in Topic 9; Companies Act CSR and Competition Act deepen in Topic 11; FRBM in Topic 2; industry missions → Topic 7.
 
-**UKPCS (Pre) 2024**
+**Q-EC1. UKPCS (Pre) 2024**
 
 Which of the following statements related to the Prevention of Money Laundering Act (PMLA) is NOT true?
 
@@ -196,16 +192,15 @@ D. The Director of Money Laundering is not given power to call for records maint
 <details>
 <summary>Show answer</summary>
 
-**Logic:** The Director **does** have power to call for records from financial institutions — so D is the untrue statement. (B is also contested in some keys because scheduled-offence lists evolved; prefer D as the clean statutory falsehood on Director’s powers.)
+**Logic:** (B is also contested in some keys because scheduled-offence lists evolved; prefer D as the clean statutory falsehood on Director’s powers.)
 
-**Ans: D.** The Director … is not given power… (this claim is false).
+**Ans: D.** The Director **does** have power to call for records from financial institutions — so D is the untrue statement.
 
 </details>
 
 ---
 
 ## 12.2 Economic Survey and report desk
-
 
 **The Economic Survey** is the Finance Ministry’s annual review of the economy, usually tabled a day before the Union Budget.
 
@@ -229,7 +224,7 @@ D. The Director of Money Laundering is not given power to call for records maint
 - IMF **World Economic Outlook** and World Bank **World Development Report** are global cousins.
 - UNDP **Human Development Report** carries HDI (Topics 8 / 12.3).
 
-**UPPCS (Pre) 2024**
+**Q-EC2. UPPCS (Pre) 2024**
 
 According to the Economic Survey, 2022-23, what fiscal policy response did the Government of India undertake in response to the aggravated global supply disruptions?
 
@@ -247,13 +242,12 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** The Survey narrative for that year stresses tax relief on fuel and selected imports to ease supply-side price pressure — not subsidy cuts or tax hikes on fuel.
+**Logic:** The Survey narrative for that year stresses tax relief on fuel and selected imports to ease supply-side price pressure — not subsidy cuts or tax hikes on fuel — Only 3
 
-**Ans: A.** Only 3.
-
+**Ans: A.** Only 3
 </details>
 
-**UPPCS (Pre) 2023**
+**Q-EC3. UPPCS (Pre) 2023**
 
 According to the Economic Survey 2023, which of the following statements regarding the Services Sector is **not** correct?
 
@@ -265,9 +259,9 @@ D. PMI Services recorded its strongest expansion since July 2022.
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Credit growth, DBUs and PMI lines match the Survey. The e-commerce “two-thirds” line used **next four years (~2027)**, not **2030** — so C is not correct.
+**Logic:** The e-commerce “two-thirds” line used **next four years (~2027)**, not **2030** — so C is not correct.
 
-**Ans: C.**
+**Ans: C.** Credit growth, DBUs and PMI lines match the Survey.
 
 </details>
 
@@ -276,7 +270,6 @@ Other recurring report names: RBI Annual Report / Monetary Policy Report, Financ
 ---
 
 ## 12.3 Indices and rankings — publisher + year
-
 
 **Global and national indices** compress complex performance into ranks — always tie the number to the **report year** in the stem.
 
@@ -359,7 +352,7 @@ Other recurring report names: RBI Annual Report / Monetary Policy Report, Financ
 - GII introduced in HDR **2010**.
 - SDG Index **2017**: India **116**; SDG India Index **2023–24** joint top: Kerala + Uttarakhand **79**.
 
-**UPPCS (Pre) 2019**
+**Q-EC4. UPPCS (Pre) 2019**
 
 Physical Quality of Life Index (PQLI) is developed by
 
@@ -371,13 +364,13 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** PQLI is Morris D. Morris’s index. UNDP/Haq own the HDI/HDR story.
+**Logic:** Morris’s index.
 
-**Ans: A.** Morris D. Morris.
+**Ans: A.** PQLI is Morris D.
 
 </details>
 
-**UPPCS (Pre) 2019**
+**Q-EC5. UPPCS (Pre) 2019**
 
 What is the India's rank in the Global Hunger Index (GHI) in 2017?
 
@@ -389,13 +382,12 @@ D. 105th
 <details>
 <summary>Show answer</summary>
 
-**Logic:** GHI 2017 placed India **100th** among countries scored that year.
+**Logic:** GHI 2017 placed India 100th among countries scored that year — 100th
 
-**Ans: A.** 100th.
-
+**Ans: A.** 100th
 </details>
 
-**UPPCS (Pre) 2022**
+**Q-EC6. UPPCS (Pre) 2022**
 
 According to the World Happiness Index 2022, what is the rank of India?
 
@@ -407,13 +399,12 @@ D. 130th
 <details>
 <summary>Show answer</summary>
 
-**Logic:** World Happiness Report 2022 — India **136th**.
+**Logic:** World Happiness Report 2022 — India 136th — 136th
 
-**Ans: A.** 136th.
-
+**Ans: A.** 136th
 </details>
 
-**UPPCS (Pre) 2018**
+**Q-EC7. UPPCS (Pre) 2018**
 
 What is the rank of India in the world as per Global Peace Index (GPI), 2018?
 
@@ -425,13 +416,12 @@ D. 134th
 <details>
 <summary>Show answer</summary>
 
-**Logic:** IEP GPI 2018 — India **136th**.
+**Logic:** IEP GPI 2018 — India 136th — 136th
 
-**Ans: A.** 136th.
-
+**Ans: A.** 136th
 </details>
 
-**UPPCS (Pre) 2020**
+**Q-EC8. UPPCS (Pre) 2020**
 
 With reference to the World Bank's Ease of Doing Business Report, which of the following statement(s) is/are correct?
 
@@ -448,13 +438,13 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Factually both ranks are right (DB 2019 = 77; DB 2020 = 63). The official UPPCS key for this paper marked **2 only** — learn both numbers; if a stem reprints this exact code set, follow the keyed letter **B**.
+**Logic:** The official UPPCS key for this paper marked **2 only** — learn both numbers; if a stem reprints this exact code set, follow the keyed letter **B**.
 
-**Ans: B.** 2 only (official key).
+**Ans: B.** Factually both ranks are right (DB 2019 = 77; DB 2020 = 63).
 
 </details>
 
-**UPPCS (Pre) 2023**
+**Q-EC9. UPPCS (Pre) 2023**
 
 With reference to the Human Development Report 2021–22, which of the following statements is/are correct?
 
@@ -469,13 +459,13 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Moving from 130 to 132 is a **slip** (worse rank number), not an upgrade. Only the “slipped” statement stands.
+**Logic:** Only the “slipped” statement stands.
 
-**Ans: B.** Only 2.
+**Ans: B.** Moving from 130 to 132 is a **slip** (worse rank number), not an upgrade.
 
 </details>
 
-**UKPCS (Pre) 2021**
+**Q-EC10. UKPCS (Pre) 2021**
 
 Gender Inequality Index (GII) was introduced in which Human Development Report (HDR) of UNDP?
 
@@ -487,13 +477,12 @@ D. HDR 2010
 <details>
 <summary>Show answer</summary>
 
-**Logic:** GII enters the HDR in **2010**.
+**Logic:** GII enters the HDR in 2010 — HDR 2010
 
-**Ans: D.** HDR 2010.
-
+**Ans: D.** HDR 2010
 </details>
 
-**UKPCS (Pre) 2021**
+**Q-EC11. UKPCS (Pre) 2021**
 
 What is the Human Development Index (HDI) rank of India in the Human Development Report 2020 of UNDP?
 
@@ -505,10 +494,9 @@ D. 131
 <details>
 <summary>Show answer</summary>
 
-**Logic:** HDR 2020 teaching rank for India is **131**.
+**Logic:** HDR 2020 teaching rank for India is 131 — 131
 
-**Ans: D.** 131.
-
+**Ans: D.** 131
 </details>
 
 **SDG India Index** (NITI Aayog) ranks States/UTs on SDG performance — edition scores change; UKPCS 2025 keys Uttarakhand among top scorers (79 with Kerala in 2023–24 teaching).
@@ -516,7 +504,6 @@ D. 131
 ---
 
 ## 12.4 Thinkers, books, days — misc shelf
-
 
 **This shelf** catches named thinkers, one-line books and calendar tags that do not need a full chapter of their own.
 
@@ -546,7 +533,6 @@ D. 131
 - Do not invent a day–Act pair that the stem does not support.
 
 ## 12.5 Environment–energy missions, NEP and misc CA desk
-
 
 **This desk** holds high-yield miscellaneous missions, education-policy tags and institutional one-liners that recur in Ghat “Miscellaneous” stems.
 
@@ -598,7 +584,6 @@ Do not dump a second copy of Topics 1–11 here; use this shelf for leftovers an
 
 ---
 
-
 ## Teaching expansion — additional theory (beyond Consolidated spine)
 
 These points sit in teaching theory (not the Consolidated spine).
@@ -613,8 +598,7 @@ These points sit in teaching theory (not the Consolidated spine).
 
 ## Complete PYQ Bank (UPPCS)
 
-
-**Q1. UPPCS (Pre) 2024** — Survey fiscal response
+**Q1. UPPCS (Pre) 2024**
 
 1. Decreasing food and fertiliser subsidies
 2. Increasing taxes on fuel and imported products
@@ -628,13 +612,12 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Tax cuts on fuel / selected imports.
+**Logic:** Tax cuts on fuel / selected imports — Only 3
 
-**Ans: A.** Only 3.
-
+**Ans: A.** Only 3
 </details>
 
-**Q2. UPPCS (Pre) 2023** — Survey services NOT correct
+**Q2. UPPCS (Pre) 2023**
 
 According to the Economic Survey 2023, which of the following statements regarding the Services Sector is **not** correct?
 
@@ -646,13 +629,12 @@ D. PMI Services recorded its strongest expansion since July 2022.
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 2030 timeframe is wrong (~2027 / next four years).
+**Logic:** 2030 timeframe is wrong (~2027 / next four years) — Fashion, grocery and general merchandise will account for nearly two-thirds of India's e-commerce market by 2030
 
-**Ans: C.**
-
+**Ans: C.** Fashion, grocery and general merchandise will account for nearly two-thirds of India's e-commerce market by 2030
 </details>
 
-**Q3. UPPCS (Pre) 2023** — HDR 2021–22
+**Q3. UPPCS (Pre) 2023**
 
 1. Upgrade / improved framing of move 130 → 132
 2. Rank slipped 130 → 132
@@ -665,13 +647,12 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Larger rank number = slip, not upgrade.
+**Logic:** Larger rank number = slip, not upgrade — Only 2
 
-**Ans: B.** Only 2.
-
+**Ans: B.** Only 2
 </details>
 
-**Q4. UPPCS (Pre) 2022** — World Happiness 2022
+**Q4. UPPCS (Pre) 2022**
 
 According to the World Happiness Index 2022, what is the rank of India?
 
@@ -683,13 +664,12 @@ D. 130th
 <details>
 <summary>Show answer</summary>
 
-**Logic:** India 136th in 2022 report.
+**Logic:** India 136th in 2022 report — 136th
 
-**Ans: A.** 136th.
-
+**Ans: A.** 136th
 </details>
 
-**Q5. UPPCS (Pre) 2020** — Ease of Doing Business
+**Q5. UPPCS (Pre) 2020**
 
 1. DB 2020 India rank 63
 2. DB 2019 India rank 77
@@ -702,13 +682,13 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Official key **B**; both numbers are factually right — memorise 77 and 63.
+**Logic:** 2 only (official key).
 
-**Ans: B.** 2 only (official key).
+**Ans: B.** Official key **B**; both numbers are factually right — memorise 77 and 63.
 
 </details>
 
-**Q6. UPPCS (Pre) 2019** — PQLI
+**Q6. UPPCS (Pre) 2019**
 
 Physical Quality of Life Index (PQLI) is developed by
 
@@ -720,13 +700,12 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Morris — not UNDP/Haq.
+**Logic:** Morris — not UNDP/Haq — Morris D
 
-**Ans: A.**
-
+**Ans: A.** Morris D.
 </details>
 
-**Q7. UPPCS (Pre) 2019** — GHI 2017
+**Q7. UPPCS (Pre) 2019**
 
 What is the India's rank in the Global Hunger Index (GHI) in 2017?
 
@@ -738,13 +717,12 @@ D. 105th
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 100th in GHI 2017.
+**Logic:** 100th in GHI 2017 — 100th
 
-**Ans: A.**
-
+**Ans: A.** 100th
 </details>
 
-**Q8. UPPCS (Pre) 2018** — GPI 2018
+**Q8. UPPCS (Pre) 2018**
 
 What is the rank of India in the world as per Global Peace Index (GPI), 2018?
 
@@ -756,14 +734,12 @@ D. 134th
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 136th.
+**Logic:** Standard key matches 136th.
 
-**Ans: A.**
-
+**Ans: A.** 136th
 </details>
 
 ---
-
 
 **Q9. U.P. P.C.S. (Pre) 2020**
 According to NITI Aayog’s SDG India Index 2019–20, Uttar Pradesh is grouped under which category?
@@ -775,13 +751,12 @@ D. Achiever
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Later (2023–24) UP moves to Front Runner — year matters.
+**Logic:** Later (2023–24) UP moves to Front Runner — year matters — Performer
 
-**Ans: B.** Performer.
-
+**Ans: B.** Performer
 </details>
 
-**Q10. U.P.P.C.S. (Pre) 2021**
+**Q10. UPPCS (Pre) 2021**
 As per SDG India Index 2020–21, which State was NOT among the top five?
 A. Gujarat
 B. Andhra Pradesh
@@ -791,13 +766,12 @@ D. Tamil Nadu
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Gujarat ≠ top-five that year.
+**Logic:** Gujarat ≠ top-five that year — Gujarat
 
-**Ans: A.** Gujarat.
-
+**Ans: A.** Gujarat
 </details>
 
-**Q11. U.P.P.C.S. (Pre) 2019**
+**Q11. UPPCS (Pre) 2019**
 Which SDG targets water availability for all and sustainable management up to 2030?
 A. SDG-6
 B. SDG-7
@@ -807,10 +781,9 @@ D. SDG-9
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Clean Water and Sanitation.
+**Logic:** Clean Water and Sanitation — SDG-6
 
-**Ans: A.** SDG-6.
-
+**Ans: A.** SDG-6
 </details>
 
 **Q12. U.P. P.C.S. (Pre) 2023**
@@ -824,13 +797,12 @@ D. 1 2 3 4
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 10 inequalities; 13 climate; 14 below water; 15 land.
+**Logic:** 10 inequalities; 13 climate; 14 below water; 15 land — 3 1 4 2
 
-**Ans: C.** 3-1-4-2.
-
+**Ans: C.** 3 1 4 2
 </details>
 
-**Q13. U.P.P.C.S. (Pre) 2024**
+**Q13. UPPCS (Pre) 2024**
 Which measures are essential to achieve SDG Goal 4?
 1. Free and compulsory education
 2. Better school infrastructure and digital transformation
@@ -844,10 +816,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Quality Education levers only.
+**Logic:** Quality Education levers only — 1 and 2
 
-**Ans: A.** 1 and 2.
-
+**Ans: A.** 1 and 2
 </details>
 
 **Q14. U.P. P.C.S. (Pre) 2025**
@@ -861,10 +832,9 @@ D. Both true and R explains A
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** Population-weighted global goals.
+**Logic:** Standard key: Both true and R explains A.
 
-**Ans: D.** Both true; demographic weight explains A.
-
+**Ans: D.** Both true and R explains A
 </details>
 
 **Q15. U.P. P.C.S. (Pre) 2023**
@@ -877,9 +847,9 @@ D. Neither
 <details>
 <summary>Show answer</summary>
 
-**Logic:** GSDR is every four years, not every quarter.
+**Logic:** Only the Annual SDG Progress Report statement.
 
-**Ans: A.** Only the Annual SDG Progress Report statement.
+**Ans: A.** GSDR is every four years, not every quarter.
 
 </details>
 
@@ -894,10 +864,9 @@ D. 4 3 2 1
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Goal 1 poverty; 3 health; 4 education; 6 water.
+**Logic:** Goal 1 poverty; 3 health; 4 education; 6 water — 3 4 2 1
 
-**Ans: B.** 3-4-2-1.
-
+**Ans: B.** 3 4 2 1
 </details>
 
 **Q17. U.P. P.C.S. (Pre) 2020**
@@ -912,13 +881,12 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Kasturirangan panel is correct; NEP 1986 had been followed about 34 years, not 38 — statement 2 fails.
+**Logic:** Kasturirangan panel is correct; NEP 1986 had been followed about 34 years, not 38 — statement 2 fails — 1 Only
 
-**Ans: A.**
-
+**Ans: A.** 1 Only
 </details>
 
-**Q18. U.P.P.C.S. (Pre) 2017**
+**Q18. UPPCS (Pre) 2017**
 
 Who heads the panel on National Education Policy constituted in June 2017 by the Human Resource Development Ministry?
 
@@ -930,13 +898,13 @@ D. M.K. Shridhar
 <details>
 <summary>Show answer</summary>
 
-**Logic:** NEP drafting panel headed by former ISRO chief Dr K. Kasturirangan.
+**Logic:** Kasturirangan.
 
-**Ans: C.**
+**Ans: C.** NEP drafting panel headed by former ISRO chief Dr K.
 
 </details>
 
-**Q19. U.P.P.C.S. (Pre) 2024**
+**Q19. UPPCS (Pre) 2024**
 
 With reference to Guidelines for Elimination of Corporal Punishment (GECP), which statements is/are correct? 1. The Tamil Nadu School Education Department issued these guidelines on 26 April 2024. 2. These guidelines are focussed on safeguarding the physical and mental well-being of students.
 
@@ -948,10 +916,9 @@ D. Both 1 and 2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Both date and student well-being focus are correct for TN GECP.
+**Logic:** Both date and student well-being focus are correct for TN GECP — Both 1 and 2
 
-**Ans: D.**
-
+**Ans: D.** Both 1 and 2
 </details>
 
 **Q20. U.P. P.C.S. (Pre) 2020**
@@ -966,13 +933,13 @@ D. Louis Dumont
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Robert E. Park (1928) — individual between two cultures.
+**Logic:** Park (1928) — individual between two cultures.
 
-**Ans: A.**
+**Ans: A.** Robert E.
 
 </details>
 
-**Q21. U.P.P.C.S. (Pre) 2018**
+**Q21. UPPCS (Pre) 2018**
 
 The development of the concept of ‘Global Village’ is based on:
 
@@ -984,13 +951,12 @@ D. International organization
 <details>
 <summary>Show answer</summary>
 
-**Logic:** McLuhan’s Global Village rests on media / transport and communication interconnection.
+**Logic:** McLuhan’s Global Village rests on media / transport and communication interconnection — Transport and Communication development
 
-**Ans: C.**
-
+**Ans: C.** Transport and Communication development
 </details>
 
-**Q22. U.P.P.C.S. (Mains) 2004**
+**Q22. UPPCS (Mains) 2004**
 
 Competition Commission has been established in India in the year:
 
@@ -1002,13 +968,12 @@ D. 2004
 <details>
 <summary>Show answer</summary>
 
-**Logic:** CCI established 14 October 2003 under the Competition Act, 2002.
+**Logic:** CCI established 14 October 2003 under the Competition Act, 2002 — 2003
 
-**Ans: C.**
-
+**Ans: C.** 2003
 </details>
 
-**Q23. U.P.P.C.S. (Mains) 2009**
+**Q23. UPPCS (Mains) 2009**
 
 Which one of the following deals with the marketing of milk?
 
@@ -1020,10 +985,9 @@ D. TRIFED
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Gujarat Co-operative Milk Marketing Federation (GCMMF / Amul) markets milk.
+**Logic:** Gujarat Co-operative Milk Marketing Federation (GCMMF / Amul) markets milk — GCMMF
 
-**Ans: B.**
-
+**Ans: B.** GCMMF
 </details>
 
 **Q24. U.P. P.C.S. (Pre) 2022**
@@ -1038,13 +1002,13 @@ D. 3 4 2 1
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Swaminathan–Green Revolution; L.K. Jha–Economic Administration Reforms; Kurien–Milk; Morarji Desai–Social Control on Banks.
+**Logic:** Jha–Economic Administration Reforms; Kurien–Milk; Morarji Desai–Social Control on Banks.
 
-**Ans: D.**
+**Ans: D.** Swaminathan–Green Revolution; L.K.
 
 </details>
 
-**Q25. U.P.P.C.S. (Mains) 2008**
+**Q25. UPPCS (Mains) 2008**
 
 Which one of the following pairs is not correctly matched?
 
@@ -1056,13 +1020,12 @@ D. Rekhi Committee — Simplification of Export & Import
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Rekhi Committee (1992) related to indirect taxes — not EXIM simplification.
+**Logic:** Rekhi Committee (1992) related to indirect taxes — not EXIM simplification — Rekhi Committee — Simplification of Export & Import
 
-**Ans: D.**
-
+**Ans: D.** Rekhi Committee — Simplification of Export & Import
 </details>
 
-**Q26. U.P.P.C.S. (Mains) 2015**
+**Q26. UPPCS (Mains) 2015**
 
 Match List-I with List-II: A. Dutt Committee (1969) B. Wanchoo Committee (1971) C. Rajamannar Committee (1971) D. Chakravarty Committee (1985) — 1. Industrial licensing 2. Direct Tax 3. Centre-State relations 4. Monetary policy. Codes A B C D:
 
@@ -1074,13 +1037,12 @@ D. 4 3 1 2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Dutt–licensing; Wanchoo–direct tax; Rajamannar–Centre–State; Chakravarty–monetary policy.
+**Logic:** Dutt–licensing; Wanchoo–direct tax; Rajamannar–Centre–State; Chakravarty–monetary policy — 1 2 3 4
 
-**Ans: A.**
-
+**Ans: A.** 1 2 3 4
 </details>
 
-**Q27. U.P.P.C.S. (Pre) 2024**
+**Q27. UPPCS (Pre) 2024**
 
 Match List-I (Name of the City) with List-II (Period of being Planned): A. Kanchipuram B. Jaisalmer C. Kodaikanal D. Bhilai — 1. Post-independence 2. Colonial Period 3. Medieval Period 4. Ancient Period. Codes A B C D:
 
@@ -1092,13 +1054,12 @@ D. 3 4 2 1
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Kanchipuram–Ancient; Jaisalmer–Medieval; Kodaikanal–Colonial; Bhilai–Post-independence.
+**Logic:** Kanchipuram–Ancient; Jaisalmer–Medieval; Kodaikanal–Colonial; Bhilai–Post-independence — 4 3 2 1
 
-**Ans: B.**
-
+**Ans: B.** 4 3 2 1
 </details>
 
-**Q28. U.P.P.C.S. (Pre) 2008**
+**Q28. UPPCS (Pre) 2008**
 
 Name the Governor of Reserve Bank of India who also became Finance Minister.
 
@@ -1110,13 +1071,12 @@ D. Sachin Chaudhari
 <details>
 <summary>Show answer</summary>
 
-**Logic:** C.D. Deshmukh — first Indian RBI Governor (1943), later Union Finance Minister (1950–56).
+**Logic:** Standard key matches C.D.
 
-**Ans: B.**
-
+**Ans: B.** C.D.
 </details>
 
-**Q29. U.P.P.C.S. (Mains) 2004**
+**Q29. UPPCS (Mains) 2004**
 
 Which among the following statements signifies a ‘Pressure Group’:
 
@@ -1128,13 +1088,12 @@ D. A group that works for welfare of the poor
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Pressure groups seek to influence policy without aiming to capture office like parties.
+**Logic:** Pressure groups seek to influence policy without aiming to capture office like parties — A group that exercises its influence on policy decisions
 
-**Ans: C.**
-
+**Ans: C.** A group that exercises its influence on policy decisions
 </details>
 
-**Q30. U.P.P.C.S. (Mains) 2012**
+**Q30. UPPCS (Mains) 2012**
 
 Who among the following has authored the book ‘India’s Economic Policy : The Gandhian Blue Print’?
 
@@ -1146,13 +1105,12 @@ D. Charan Singh
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Chaudhary Charan Singh authored India’s Economic Policy: The Gandhian Blue Print.
+**Logic:** Chaudhary Charan Singh authored India’s Economic Policy: The Gandhian Blue Print — Charan Singh
 
-**Ans: D.**
-
+**Ans: D.** Charan Singh
 </details>
 
-**Q31. U.P.P.C.S. (Pre) 2024**
+**Q31. UPPCS (Pre) 2024**
 
 Match List-I (Economist/Author) with List-II (Book): A. Myrdal B. Hirschman C. Kaldor D. Adam Smith — 1. Economic Theory and Underdeveloped Regions 2. The Strategy of Economic Development 3. Strategic Factors in Economic Development 4. The Wealth of Nations. Codes A B C D:
 
@@ -1164,13 +1122,12 @@ D. 2 1 3 4
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Myrdal–Economic Theory and Underdeveloped Regions; Hirschman–Strategy of Economic Development; Kaldor–Strategic Factors; Smith–Wealth of Nations.
+**Logic:** Myrdal–Economic Theory and Underdeveloped Regions; Hirschman–Strategy of Economic Development; Kaldor–Strategic Factors; Smith–Wealth of Nations — 1 2 3 4
 
-**Ans: A.**
-
+**Ans: A.** 1 2 3 4
 </details>
 
-**Q32. U.P.P.C.S. (Pre) 1997**
+**Q32. UPPCS (Pre) 1997**
 
 Jayant Patil Committee is related to:
 
@@ -1182,13 +1139,12 @@ D. the expansion of hydel power generation capacity
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Jayant Patil Committee — development of scanty rainfall / dryland areas.
+**Logic:** Jayant Patil Committee — development of scanty rainfall / dryland areas — the development of scanty rainfall area
 
-**Ans: C.**
-
+**Ans: C.** the development of scanty rainfall area
 </details>
 
-**Q33. U.P.P.C.S. (Mains) 2011**
+**Q33. UPPCS (Mains) 2011**
 
 RESIDEX, an index of residential prices in India, was launched in the year
 
@@ -1200,10 +1156,9 @@ D. 2008
 <details>
 <summary>Show answer</summary>
 
-**Logic:** NHB RESIDEX launched July 2007.
+**Logic:** NHB RESIDEX launched July 2007 — 2007
 
-**Ans: C.**
-
+**Ans: C.** 2007
 </details>
 
 **Q34. U.P. P.C.S. (Mains) 2015**
@@ -1218,10 +1173,9 @@ D. Land prices
 <details>
 <summary>Show answer</summary>
 
-**Logic:** RESIDEX tracks residential / housing (land–property) prices.
+**Logic:** RESIDEX tracks residential / housing (land–property) prices — Land prices
 
-**Ans: D.**
-
+**Ans: D.** Land prices
 </details>
 
 **Q35. U.P. P.C.S. (Mains) 2016**
@@ -1236,13 +1190,12 @@ D. 1958
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Trade and Merchandise Marks Act, 1958.
+**Logic:** Trade and Merchandise Marks Act, 1958 — 1958
 
-**Ans: D.**
-
+**Ans: D.** 1958
 </details>
 
-**Q36. U.P.P.C.S. (Mains) 2017**
+**Q36. UPPCS (Mains) 2017**
 
 V.V. Giri National Labour Institution is located at:
 
@@ -1254,10 +1207,9 @@ D. Gurugram
 <details>
 <summary>Show answer</summary>
 
-**Logic:** V.V. Giri National Labour Institute is at Noida, Uttar Pradesh.
+**Logic:** Standard key matches Noida.
 
-**Ans: A.**
-
+**Ans: A.** Noida
 </details>
 
 **Q37. U.P. P.C.S. (Pre) 2025**
@@ -1272,13 +1224,12 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Annual Ground Water Quality Report 2024 prepared by Central Ground Water Board (CGWB).
+**Logic:** Annual Ground Water Quality Report 2024 prepared by Central Ground Water Board (CGWB) — Only 3
 
-**Ans: B.**
-
+**Ans: B.** Only 3
 </details>
 
-**Q38. U.P.P.C.S. (Mains) 2011**
+**Q38. UPPCS (Mains) 2011**
 
 Entrepreneurship Development Institute of India is located in:
 
@@ -1290,13 +1241,12 @@ D. New Delhi
 <details>
 <summary>Show answer</summary>
 
-**Logic:** EDII is in Ahmedabad (est. 1983).
+**Logic:** EDII is in Ahmedabad (est — Ahmedabad
 
-**Ans: A.**
-
+**Ans: A.** Ahmedabad
 </details>
 
-**Q39. U.P.P.C.S. (Mains) 2015**
+**Q39. UPPCS (Mains) 2015**
 
 National Institute for Entrepreneurship and Small Business Development is situated at:
 
@@ -1308,13 +1258,12 @@ D. Hyderabad
 <details>
 <summary>Show answer</summary>
 
-**Logic:** NIESBUD is at Noida (U.P.).
+**Logic:** NIESBUD is at Noida (U.P.) — Noida
 
-**Ans: B.**
-
+**Ans: B.** Noida
 </details>
 
-**Q40. U.P.P.C.S. (Pre) 2017**
+**Q40. UPPCS (Pre) 2017**
 
 Which among the following statements are true about ‘Urja Ganga’ project? 1. It is a gas pipeline project. 2. It was launched in October 2016. 3. It runs from Iran to India.
 
@@ -1326,10 +1275,9 @@ D. All 1, 2 and 3 are correct
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Urja Ganga is a domestic gas-pipeline project launched Oct 2016 — not Iran–India.
+**Logic:** Urja Ganga is a domestic gas-pipeline project launched Oct 2016 — not Iran–India — Only 1 and 2 are correct
 
-**Ans: B.**
-
+**Ans: B.** Only 1 and 2 are correct
 </details>
 
 **Q41. U.P. P.C.S. (Mains) 2016**
@@ -1344,13 +1292,12 @@ D. e-urban-dev
 <details>
 <summary>Show answer</summary>
 
-**Logic:** e-lala (CAIT) portal launched Nov 2015 for small traders / B2B and trader–customer.
+**Logic:** e-lala (CAIT) portal launched Nov 2015 for small traders / B2B and trader–customer — e-lala
 
-**Ans: B.**
-
+**Ans: B.** e-lala
 </details>
 
-**Q42. U.P.P.C.S. (Mains) 2012**
+**Q42. UPPCS (Mains) 2012**
 
 Bhakra-Nangal is a joint project of:
 
@@ -1362,13 +1309,12 @@ D. Punjab-Delhi and Rajasthan
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Bhakra–Nangal is a joint project of Haryana, Punjab and Rajasthan.
+**Logic:** Bhakra–Nangal is a joint project of Haryana, Punjab and Rajasthan — Haryana-Punjab and Rajasthan
 
-**Ans: A.**
-
+**Ans: A.** Haryana-Punjab and Rajasthan
 </details>
 
-**Q43. U.P.P.C.S. (Pre) 2013**
+**Q43. UPPCS (Pre) 2013**
 
 The Gandhian economy is based on the principle of:
 
@@ -1380,10 +1326,9 @@ D. None of these
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Gandhian economy rests on trusteeship of wealth for social welfare.
+**Logic:** Gandhian economy rests on trusteeship of wealth for social welfare — Trusteeship
 
-**Ans: B.**
-
+**Ans: B.** Trusteeship
 </details>
 
 **Q44. U.P. P.C.S. (Pre) 2023**
@@ -1398,13 +1343,12 @@ D. 149
 <details>
 <summary>Show answer</summary>
 
-**Logic:** As of Feb 2023, 149 UP stations under Amrit Bharat Station Scheme.
+**Logic:** As of Feb 2023, 149 UP stations under Amrit Bharat Station Scheme — 149
 
-**Ans: D.**
-
+**Ans: D.** 149
 </details>
 
-**Q45. U.P.P.C.S. (Pre) 2016**
+**Q45. UPPCS (Pre) 2016**
 
 The cities which are included in ‘Golden Triangle’ of Indian Tourism are:
 
@@ -1416,10 +1360,9 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Tourism Golden Triangle = Delhi–Agra–Jaipur.
+**Logic:** Tourism Golden Triangle = Delhi–Agra–Jaipur — Agra, Delhi and Jaipur
 
-**Ans: A.**
-
+**Ans: A.** Agra, Delhi and Jaipur
 </details>
 
 **Q46. U.P. P.C.S. (Pre) 2022**
@@ -1434,10 +1377,9 @@ D. England
 <details>
 <summary>Show answer</summary>
 
-**Logic:** China leads world crude steel production by a wide margin.
+**Logic:** China leads world crude steel production by a wide margin — China
 
-**Ans: C.**
-
+**Ans: C.** China
 </details>
 
 ---
@@ -1454,10 +1396,9 @@ D. U.S.A.
 <details>
 <summary>Show answer</summary>
 
-**Logic:** China dominates world crude steel output (well over one-third).
+**Logic:** China dominates world crude steel output (well over one-third) — China
 
-**Ans: A.**
-
+**Ans: A.** China
 </details>
 
 **Q48. U.P. P.C.S. (Mains) 2013**
@@ -1472,13 +1413,12 @@ D. India was supplier of raw-materials during British rule
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Under colonial free-trade policy India supplied raw materials and imported British manufactures — not the reverse.
+**Logic:** Under colonial free-trade policy India supplied raw materials and imported British manufactures — not the reverse — India was a supplier of manufacturing goods during British rule
 
-**Ans: C.**
-
+**Ans: C.** India was a supplier of manufacturing goods during British rule
 </details>
 
-**Q49. U.P.P.C.S. (Pre) 1994**
+**Q49. UPPCS (Pre) 1994**
 
 Which one of the following statements about Arthashastra is not true?
 
@@ -1490,13 +1430,12 @@ D. It highlights the need for financial reforms
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Arthashastra is a treatise on statecraft/policy — ‘describes then economic life’ is the false statement.
+**Logic:** Arthashastra is a treatise on statecraft/policy — ‘describes then economic life’ is the false statement — It describes the then economic life of the country
 
-**Ans: B.**
-
+**Ans: B.** It describes the then economic life of the country
 </details>
 
-**Q50. U.P.P.C.S. (Mains) 2012**
+**Q50. UPPCS (Mains) 2012**
 
 Yamuna Expressway runs between:
 
@@ -1508,13 +1447,12 @@ D. Agra to Allahabad
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Yamuna / Taj Expressway connects Greater Noida with Agra.
+**Logic:** Yamuna / Taj Expressway connects Greater Noida with Agra — Greater Noida to Agra
 
-**Ans: B.**
-
+**Ans: B.** Greater Noida to Agra
 </details>
 
-**Q51. U.P.P.C.S. (Mains) 2007**
+**Q51. UPPCS (Mains) 2007**
 
 After the merger of Air India and Indian Airlines, the New entity is now known as:
 
@@ -1526,13 +1464,12 @@ D. Indo-Air
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Merged national carrier retained the name Air India.
+**Logic:** Merged national carrier retained the name Air India — Air India
 
-**Ans: C.**
-
+**Ans: C.** Air India
 </details>
 
-**Q52. U.P.P.C.S. (Pre) 2009**
+**Q52. UPPCS (Pre) 2009**
 
 Weight of L.P.G. in Kilogram filled in non-domestic gas cylinder is:
 
@@ -1544,13 +1481,12 @@ D. 19.4
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Non-domestic LPG cylinder teaching weight = 19.0 kg (domestic classic = 14.2 kg).
+**Logic:** Non-domestic LPG cylinder teaching weight = 19.0 kg (domestic classic = 14.2 kg) — 19.0
 
-**Ans: C.**
-
+**Ans: C.** 19.0
 </details>
 
-**Q53. U.P.P.C.S. (Mains) 2011**
+**Q53. UPPCS (Mains) 2011**
 
 In which State, India’s largest Naphtha Cracker Plant was inaugurated by Union Petroleum Minister in February, 2011?
 
@@ -1562,10 +1498,9 @@ D. Odisha
 <details>
 <summary>Show answer</summary>
 
-**Logic:** IOC Panipat Complex, Haryana.
+**Logic:** IOC Panipat Complex, Haryana — Haryana
 
-**Ans: C.**
-
+**Ans: C.** Haryana
 </details>
 
 ---
@@ -1574,9 +1509,7 @@ D. Odisha
 
 > Extra Drill: Ghatnachakra **Sustainable / Misc** + transport corridors, colonial tags, BRI/O-SMART and related leftovers.
 
-
 UPPCS-tagged stems live in **Complete PYQ Bank (UPPCS)** above. UKPCS-tagged stems live in **UKPCS** below. Use Practice Zone for fresh multi-statement drills.
-
 
 ### Ghatnachakra Purvalokan — Sustainable Economic Development
 
@@ -1590,10 +1523,9 @@ D. Finance Commission
 <details>
 <summary>Show answer</summary>
 
-**Logic:** NITI coordinates and tracks SDG implementation in India — not Planning Commission (abolished) or Finance Commission.
+**Logic:** NITI coordinates and tracks SDG implementation in India — not Planning Commission (abolished) or Finance Commission — NITI Aayog
 
-**Ans: C.** NITI Aayog.
-
+**Ans: C.** NITI Aayog
 </details>
 
 **Q2. Sustainable Development Report / SDSN frame**
@@ -1606,9 +1538,9 @@ D. 140
 <details>
 <summary>Show answer</summary>
 
-**Logic:** SDSN Sustainable Development Report ranks shift yearly — 2024 ≈109; 2025 ≈99 (first time in top 100).
+**Logic:** 112 among 166 countries.
 
-**Ans: B.** 112 among 166 countries.
+**Ans: B.** SDSN Sustainable Development Report ranks shift yearly — 2024 ≈109; 2025 ≈99 (first time in top 100).
 
 </details>
 
@@ -1623,13 +1555,13 @@ E. None of the above/More than one of the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Edition-bound global SDG Index rank — do not import later SDSN ranks into 2016 stems.
+**Logic:** 110th among 149 countries.
 
-**Ans: A.** 110th among 149 countries.
+**Ans: A.** Edition-bound global SDG Index rank — do not import later SDSN ranks into 2016 stems.
 
 </details>
 
-**Q4. U.P.P.C.S. (Pre) 2017**
+**Q4. UPPCS (Pre) 2017**
 What is India’s rank in the 2017 Sustainable Development Goal Index?
 A. 116th
 B. 125th
@@ -1639,9 +1571,9 @@ D. 95th
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 2017 global SDG Index key — distinct from later SDSN Report ranks.
+**Logic:** 116th out of 157 nations.
 
-**Ans: A.** 116th out of 157 nations.
+**Ans: A.** 2017 global SDG Index key — distinct from later SDSN Report ranks.
 
 </details>
 
@@ -1655,9 +1587,9 @@ D. Kerala
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 2023–24: Kerala & Uttarakhand 79; Bihar lowest at 57.
+**Logic:** Kerala (joint top with Uttarakhand at 79 in 2023–24).
 
-**Ans: D.** Kerala (joint top with Uttarakhand at 79 in 2023–24).
+**Ans: D.** 2023–24: Kerala & Uttarakhand 79; Bihar lowest at 57.
 
 </details>
 
@@ -1671,13 +1603,12 @@ D. Achiever
 <details>
 <summary>Show answer</summary>
 
-**Logic:** UP was Performer in 2019–20 and 2020–21; by 2023–24 UP is Front Runner (score 67).
+**Logic:** UP was Performer in 2019–20 and 2020–21; by 2023–24 UP is Front Runner (score 67) — Performer
 
-**Ans: B.** Performer.
-
+**Ans: B.** Performer
 </details>
 
-**Q7. U.P.P.C.S. (Pre) 2021**
+**Q7. UPPCS (Pre) 2021**
 As per SDG India Index and Dashboard 2020–21 published by NITI Aayog, which State was NOT among the top five States?
 A. Gujarat
 B. Andhra Pradesh
@@ -1687,10 +1618,9 @@ D. Tamil Nadu
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 2020–21 top cluster: Kerala, HP, Tamil Nadu, AP, Goa, Karnataka, Uttarakhand… — Gujarat was not in that top-five set.
+**Logic:** 2020–21 top cluster: Kerala, HP, Tamil Nadu, AP, Goa, Karnataka, Uttarakhand… — Gujarat was not in that top-five set — Gujarat
 
-**Ans: A.** Gujarat.
-
+**Ans: A.** Gujarat
 </details>
 
 **Q8. U.P. B.E.O. (Pre) 2019**
@@ -1703,9 +1633,9 @@ D. Kerala
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 2019 top: Kerala 70 → HP 69 → AP/Telangana/TN 67.
+**Logic:** Kerala (score 70).
 
-**Ans: D.** Kerala (score 70).
+**Ans: D.** 2019 top: Kerala 70 → HP 69 → AP/Telangana/TN 67.
 
 </details>
 
@@ -1719,10 +1649,9 @@ D. Tamil Nadu
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Same 2019–20 top-five trap — Gujarat not in the lead pack.
+**Logic:** Same 2019–20 top-five trap — Gujarat not in the lead pack — Gujarat
 
-**Ans: A.** Gujarat.
-
+**Ans: A.** Gujarat
 </details>
 
 **Q10. Uttarakhand P.C.S. (Pre) 2025**
@@ -1739,9 +1668,9 @@ D. 3 and 4
 <details>
 <summary>Show answer</summary>
 
-**Logic:** TN 78; Goa & HP 77 — joint toppers are Kerala + UK.
+**Logic:** Kerala and Uttarakhand (79 each).
 
-**Ans: B.** Kerala and Uttarakhand (79 each).
+**Ans: B.** TN 78; Goa & HP 77 — joint toppers are Kerala + UK.
 
 </details>
 
@@ -1755,13 +1684,13 @@ D. Aspirant: 65–99; Performer: 50–64; Front-runner: 0–49; Achiever: 100
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Achiever is the perfect-100 slot — do not reverse the bands.
+**Logic:** Aspirant 0–49; Performer 50–64; Front-runner 65–99; Achiever 100.
 
-**Ans: B.** Aspirant 0–49; Performer 50–64; Front-runner 65–99; Achiever 100.
+**Ans: B.** Achiever is the perfect-100 slot — do not reverse the bands.
 
 </details>
 
-**Q12. U.P. R.O./A.R.O. (Mains) 2021**
+**Q12. UP RO/ARO (Mains) 2021**
 Which city was not among the top three in the SDG Urban Index and Dashboard 2021–22 declared by NITI Aayog in November 2021?
 A. Coimbatore
 B. Chandigarh
@@ -1771,13 +1700,13 @@ D. Shimla
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Top: Shimla → Coimbatore → Chandigarh / Thiruvananthapuram. Indore was outside the top ten.
+**Logic:** Indore was outside the top ten.
 
-**Ans: C.** Indore.
+**Ans: C.** Top: Shimla → Coimbatore → Chandigarh / Thiruvananthapuram.
 
 </details>
 
-**Q13. U.P.P.C.S. (Pre) 2019**
+**Q13. UPPCS (Pre) 2019**
 Which Sustainable Development Goal targets water availability for all and its permanent management up to 2030?
 A. SDG-6
 B. SDG-7
@@ -1787,9 +1716,9 @@ D. SDG-9
 <details>
 <summary>Show answer</summary>
 
-**Logic:** SDG-7 energy; SDG-8 decent work; SDG-9 industry/innovation.
+**Logic:** SDG-6 — Clean Water and Sanitation.
 
-**Ans: A.** SDG-6 — Clean Water and Sanitation.
+**Ans: A.** SDG-7 energy; SDG-8 decent work; SDG-9 industry/innovation.
 
 </details>
 
@@ -1803,9 +1732,9 @@ D. Gender equality; Climate action; Zero hunger
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Memorise the 17 official titles — do not shuffle climate/gender into 1–2–9.
+**Logic:** SDG-1 No Poverty; SDG-2 Zero Hunger; SDG-9 Industry, Innovation and Infrastructure.
 
-**Ans: A.** SDG-1 No Poverty; SDG-2 Zero Hunger; SDG-9 Industry, Innovation and Infrastructure.
+**Ans: A.** Memorise the 17 official titles — do not shuffle climate/gender into 1–2–9.
 
 </details>
 
@@ -1819,9 +1748,9 @@ D. SDG 16
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 13 Climate; 14 Life below water; 16 Peace/justice.
+**Logic:** SDG 15 — Life on Land.
 
-**Ans: C.** SDG 15 — Life on Land.
+**Ans: C.** 13 Climate; 14 Life below water; 16 Peace/justice.
 
 </details>
 
@@ -1840,9 +1769,9 @@ D. 1 2 3 4
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Code 3-1-4-2.
+**Logic:** 10→Reduced inequalities; 13→Climate; 14→Life below water; 15→Life on Land.
 
-**Ans: C.** 10→Reduced inequalities; 13→Climate; 14→Life below water; 15→Life on Land.
+**Ans: C.** Code 3-1-4-2.
 
 </details>
 
@@ -1861,13 +1790,13 @@ D. 4 3 2 1
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Correct map is 3-4-2-1. Ignore any OCR/key swap that breaks the official titles.
+**Logic:** Ignore any OCR/key swap that breaks the official titles.
 
-**Ans: B.** 1→poverty (3); 3→health (4); 4→education (2); 6→water (1).
+**Ans: B.** Correct map is 3-4-2-1.
 
 </details>
 
-**Q18. U.P.P.C.S. (Pre) 2024**
+**Q18. UPPCS (Pre) 2024**
 Which measures are essential to achieve Goal 4 of the Sustainable Development Targets, 2030?
 1. Making education free and compulsory
 2. Improving basic school infrastructure and embracing digital transformation
@@ -1881,10 +1810,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** SDG-4 = Quality Education — agri expansion and generic tech investment are not the keyed levers.
+**Logic:** SDG-4 = Quality Education — agri expansion and generic tech investment are not the keyed levers — 1 and 2
 
-**Ans: A.** 1 and 2.
-
+**Ans: A.** 1 and 2
 </details>
 
 **Q19. U.P. P.C.S. (Pre) 2025**
@@ -1898,10 +1826,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** Population-weighted SDG indicators make India’s progress globally decisive.
+**A/R logic:** Decide from the stem options; keyed answer is Both (A) and (R) are true and (R) is the correct explanation of (A).
 
-**Ans: D.** Both true and R explains A.
-
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)
 </details>
 
 **Q20. U.P. P.C.S. (Pre) 2023**
@@ -1916,16 +1843,14 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** GSDR is once every four years — not every quarter.
+**Logic:** GSDR is once every four years — not every quarter — Only 1
 
-**Ans: A.** Only 1.
-
+**Ans: A.** Only 1
 </details>
-
 
 ### Ghatnachakra Purvalokan — Industrial Sector
 
-**Q21. U.P.P.C.S. (Pre) 2021**
+**Q21. UPPCS (Pre) 2021**
 Which labour-related Acts were amalgamated into the Code on Wages, 2019?
 I. Minimum Wages Act
 II. Payment of Bonus Act
@@ -1939,12 +1864,11 @@ D. I, II, III and IV
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Also Payment of Wages Act 1936 is subsumed.
+**Logic:** I, II and IV — not Contract Labour Act.
 
-**Ans: C.** I, II and IV — not Contract Labour Act.
+**Ans: C.** Also Payment of Wages Act 1936 is subsumed.
 
 </details>
-
 
 ### Ghatnachakra Purvalokan — Miscellaneous (Economic & Social Development)
 
@@ -1960,10 +1884,9 @@ D. 2 4 1 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** PAT (2012, BEE) cuts SEC in energy-intensive industry → 2; MISHTI = Budget 2023–24 → 1; LiFE = COP26 → 4; NCAP = January 2019 → 3 — 2 1 4 3
 
-**Logic:** PAT (2012, BEE) cuts SEC in energy-intensive industry → 2; MISHTI = Budget 2023–24 → 1; LiFE = COP26 → 4; NCAP = January 2019 → 3.
-
+**Ans: C.** 2 1 4 3
 </details>
 
 **Q23. I.A.S. (Pre) 2025**
@@ -1978,10 +1901,9 @@ D. All the four
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** All four UN International Year proclamations match the years listed — All the four
 
-**Logic:** All four UN International Year proclamations match the years listed.
-
+**Ans: D.** All the four
 </details>
 
 **Q24. M.P. P.C.S. (Pre) 2021**
@@ -1996,13 +1918,12 @@ D. The International Year of Oil-seeds
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** UN declared 2023 International Year of Millets on India’s proposal — The International Year of Millets
 
-**Logic:** UN declared 2023 International Year of Millets on India’s proposal.
-
+**Ans: A.** The International Year of Millets
 </details>
 
-**Q25. U.P. R.O./A.R.O. (Mains) 2021**
+**Q25. UP RO/ARO (Mains) 2021**
 
 United Nations General Assembly has declared the year 2023 as the International year of:
 
@@ -2014,13 +1935,12 @@ D. Animal fodder crops
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** 2023 = International Year of Millets — Millet crops
 
-**Logic:** 2023 = International Year of Millets.
-
+**Ans: C.** Millet crops
 </details>
 
-**Q26. U.P. R.O./A.R.O. (Mains) 2021**
+**Q26. UP RO/ARO (Mains) 2021**
 
 With reference to India’s Third National Water Awards declared in January 2022, which statements is/are correct? 1. Uttar Pradesh was declared winner in the ‘Best State Category’. 2. Muzaffarnagar in Uttar Pradesh was declared Best District in ‘North Zone Category’.
 
@@ -2032,10 +1952,9 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Third National Water Awards-2020 (announced Jan 2022): UP Best State; Muzaffarnagar Best District North Zone — Both 1 and 2
 
-**Logic:** Third National Water Awards-2020 (announced Jan 2022): UP Best State; Muzaffarnagar Best District North Zone.
-
+**Ans: C.** Both 1 and 2
 </details>
 
 **Q27. M.P.P.C.S. (Pre) 2025**
@@ -2050,10 +1969,9 @@ D. MeitY
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Saaransh is the NeGP Mission Mode Projects compendium — DigiLocker is a separate Digital India wallet — Saaransh
 
-**Logic:** Saaransh is the NeGP Mission Mode Projects compendium — DigiLocker is a separate Digital India wallet.
-
+**Ans: C.** Saaransh
 </details>
 
 **Q28. 67th B.P.S.C. (Pre) (Re-Exam) 2022**
@@ -2087,10 +2005,9 @@ D. Grade 12
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** NEP 2020 recommends vocational education from Grade 6 — Grade 6
 
-**Logic:** NEP 2020 recommends vocational education from Grade 6.
-
+**Ans: A.** Grade 6
 </details>
 
 **Q30. M.P. P.C.S. (Pre) 2023**
@@ -2105,10 +2022,9 @@ D. Madhya Pradesh was rated as ‘Achievers’
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** BRAP 2020: MP in Achievers (with HP, Maharashtra, Odisha, UK, UP); Top Achievers were a different set — Madhya Pradesh was rated as ‘Achievers’
 
-**Logic:** BRAP 2020: MP in Achievers (with HP, Maharashtra, Odisha, UK, UP); Top Achievers were a different set.
-
+**Ans: D.** Madhya Pradesh was rated as ‘Achievers’
 </details>
 
 **Q31. M.P. P.C.S. (Pre) 2020**
@@ -2123,13 +2039,12 @@ D. Collaborative Filtering
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Collaborative filtering uses similar users’ preferences to recommend items — Collaborative Filtering
 
-**Logic:** Collaborative filtering uses similar users’ preferences to recommend items.
-
+**Ans: D.** Collaborative Filtering
 </details>
 
-**Q32. U.P. Lower Sub. (Pre) 2015**
+**Q32. UP Lower Sub (Pre) 2015**
 
 The phrase ‘Missing women’ was coined by:
 
@@ -2141,10 +2056,9 @@ D. Amartya Sen
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Amartya Sen (1990) — shortfall of women relative to expected sex ratios — Amartya Sen
 
-**Logic:** Amartya Sen (1990) — shortfall of women relative to expected sex ratios.
-
+**Ans: D.** Amartya Sen
 </details>
 
 **Q33. M.P. P.C.S. (Pre) 2020**
@@ -2159,10 +2073,9 @@ D. Information, Interaction, Transaction and Transformation
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Gartner e-gov maturity: Information → Interaction → Transaction → Transformation — Information, Interaction, Transaction and Transformation
 
-**Logic:** Gartner e-gov maturity: Information → Interaction → Transaction → Transformation.
-
+**Ans: D.** Information, Interaction, Transaction and Transformation
 </details>
 
 **Q34. 68th B.P.S.C. (Pre) 2022**
@@ -2178,9 +2091,9 @@ E. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Raghavan) recommended replacing MRTP with a modern competition law.
 
-**Logic:** High Level Committee on Competition Policy and Law (S.V.S. Raghavan) recommended replacing MRTP with a modern competition law.
+**Ans: C.** High Level Committee on Competition Policy and Law (S.V.S.
 
 </details>
 
@@ -2196,10 +2109,9 @@ D. IIM, Indore
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** CCI engaged Management Development Institute Society (MDIS) — agreement 9 September 2024 — Management Development Institute Society
 
-**Logic:** CCI engaged Management Development Institute Society (MDIS) — agreement 9 September 2024.
-
+**Ans: B.** Management Development Institute Society
 </details>
 
 **Q36. 67th B.P.S.C. (Pre) 2022**
@@ -2215,10 +2127,9 @@ E. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Kirit Parikh Committee (2022) recommended floor/ceiling then complete pricing freedom from 1 Jan 2026 — Kirit Parikh Committee
 
-**Logic:** Kirit Parikh Committee (2022) recommended floor/ceiling then complete pricing freedom from 1 Jan 2026.
-
+**Ans: C.** Kirit Parikh Committee
 </details>
 
 **Q37. I.A.S. (Pre) 2016**
@@ -2233,10 +2144,9 @@ D. Protection of Western Ghats
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Both reports address Western Ghats ecology / ESA delineation — Protection of Western Ghats
 
-**Logic:** Both reports address Western Ghats ecology / ESA delineation.
-
+**Ans: D.** Protection of Western Ghats
 </details>
 
 **Q38. 68th B.P.S.C. (Pre) 2022**
@@ -2252,10 +2162,9 @@ E. None of the above / More than one of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Sarkaria–Centre–State; Rangarajan–poverty methodology; Parekh–infrastructure financing; Narasimham–banking reforms — 3 1 2 4
 
-**Logic:** Sarkaria–Centre–State; Rangarajan–poverty methodology; Parekh–infrastructure financing; Narasimham–banking reforms.
-
+**Ans: A.** 3 1 2 4
 </details>
 
 **Q39. U.P. U.D.A./L.D.A. (Spl.) (Pre) 2010**
@@ -2270,10 +2179,9 @@ D. Tarapore Committee — Customer Service in Banks
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Tarapore Committee = capital-account convertibility roadmap — not bank customer service — Tarapore Committee — Customer Service in Banks
 
-**Logic:** Tarapore Committee = capital-account convertibility roadmap — not bank customer service.
-
+**Ans: D.** Tarapore Committee — Customer Service in Banks
 </details>
 
 **Q40. I.A.S. (Pre) 2007**
@@ -2288,10 +2196,9 @@ D. Brian Greene — String theory
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Nicholas Stern is an economist (Stern Review / climate economics) — not construction technology — Nicholas Stern — Construction technology
 
-**Logic:** Nicholas Stern is an economist (Stern Review / climate economics) — not construction technology.
-
+**Ans: C.** Nicholas Stern — Construction technology
 </details>
 
 **Q41. Jharkhand P.C.S. (Pre) 2017**
@@ -2306,10 +2213,9 @@ D. 1st May
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** NDMP launched 1 June 2016 — 1st June
 
-**Logic:** NDMP launched 1 June 2016.
-
+**Ans: A.** 1st June
 </details>
 
 **Q42. Chhattisgarh P.C.S. (Pre) 2023**
@@ -2324,13 +2230,12 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** 2023 Economics Nobel — Claudia Goldin (women’s labour-market outcomes) — Claudia Goldin
 
-**Logic:** 2023 Economics Nobel — Claudia Goldin (women’s labour-market outcomes).
-
+**Ans: B.** Claudia Goldin
 </details>
 
-**Q43. U.P. R.O./A.R.O. (Pre) 2023**
+**Q43. UP RO/ARO (Pre) 2023**
 
 Which of the following pairs is not correctly matched?
 
@@ -2342,10 +2247,9 @@ D. J.M. Keynes — General Theory of Employment, Interest and Money
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Principles of Political Economy and Taxation is David Ricardo — not Marx — Karl Marx — Principles of Political Economy and Taxation
 
-**Logic:** Principles of Political Economy and Taxation is David Ricardo — not Marx.
-
+**Ans: A.** Karl Marx — Principles of Political Economy and Taxation
 </details>
 
 **Q44. Jharkhand P.S.C. (Pre) 2016**
@@ -2360,10 +2264,9 @@ D. 3 1 4 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Sen–Inequality Reexamined; Stiglitz–Price of Inequality; Atkinson–What Can Be Done; Piketty–Economics of Inequality — 3 1 4 2
 
-**Logic:** Sen–Inequality Reexamined; Stiglitz–Price of Inequality; Atkinson–What Can Be Done; Piketty–Economics of Inequality.
-
+**Ans: D.** 3 1 4 2
 </details>
 
 **Q45. U.P. U.D.A./L.D.A. (Spl.) (Pre) 2010**
@@ -2378,10 +2281,9 @@ D. Chandrashekhar
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Gold pledge episode under PM Chandrashekhar (1991 crisis prelude) — Chandrashekhar
 
-**Logic:** Gold pledge episode under PM Chandrashekhar (1991 crisis prelude).
-
+**Ans: D.** Chandrashekhar
 </details>
 
 **Q46. M.P.P.C.S. (Pre) 2008**
@@ -2396,10 +2298,9 @@ D. Transparency International
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** CVC released Citizens’ guide to fight corruption (2002) — Central Vigilance Commission
 
-**Logic:** CVC released Citizens’ guide to fight corruption (2002).
-
+**Ans: C.** Central Vigilance Commission
 </details>
 
 **Q47. I.A.S. (Pre) 2011**
@@ -2414,10 +2315,9 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** All four can regulate trade / extraction / forests with biodiversity bearing — 1, 2, 3 and 4
 
-**Logic:** All four can regulate trade / extraction / forests with biodiversity bearing.
-
+**Ans: C.** 1, 2, 3 and 4
 </details>
 
 **Q48. Jharkhand P.C.S. (Pre) 2013**
@@ -2432,13 +2332,12 @@ D. December 10
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** 15 March — World Consumer Rights Day (Kennedy message anniversary) — March 15
 
-**Logic:** 15 March — World Consumer Rights Day (Kennedy message anniversary).
-
+**Ans: A.** March 15
 </details>
 
-**Q49. U.P. R.O./A.R.O. (Pre) (Re-Exam) 2023**
+**Q49. UP RO/ARO (Pre) (Re-Exam) 2023**
 
 Which State Government has started the scheme ‘Nivesh Mitra’?
 
@@ -2450,13 +2349,12 @@ D. Madhya Pradesh
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Nivesh Mitra is UP’s single-window clearance portal under Invest UP — Uttar Pradesh
 
-**Logic:** Nivesh Mitra is UP’s single-window clearance portal under Invest UP.
-
+**Ans: C.** Uttar Pradesh
 </details>
 
-**Q50. U.P. R.O./A.R.O. (Pre) (Re-Exam) 2023**
+**Q50. UP RO/ARO (Pre) (Re-Exam) 2023**
 
 In which city is the ‘National Institute of Agricultural Economics and Policy Research’ located?
 
@@ -2468,10 +2366,9 @@ D. Mumbai
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** ICAR-NIAP is in New Delhi — New Delhi
 
-**Logic:** ICAR-NIAP is in New Delhi.
-
+**Ans: B.** New Delhi
 </details>
 
 **Q51. Chhattisgarh P.C.S. (Pre) 2024**
@@ -2486,10 +2383,9 @@ D. D.T. Lakdawala
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Standard key matches P.C.
 
-**Logic:** P.C. Mahalanobis founded ISI, Kolkata (1931).
-
+**Ans: C.** P.C.
 </details>
 
 **Q52. M.P.P.C.S. (Pre) 2000**
@@ -2504,10 +2400,9 @@ D. Calcutta
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** National Museum of Mankind is at Bhopal — Bhopal
 
-**Logic:** National Museum of Mankind is at Bhopal.
-
+**Ans: B.** Bhopal
 </details>
 
 **Q53. 67th B.P.S.C. (Pre) (Re-Exam) 2022**
@@ -2523,10 +2418,9 @@ E. None of the above / More than one of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Har Ghar Dastak 2.0 launched 1 June 2022 for door-to-door COVID vaccination coverage — Har Ghar Dastak Campaign 2.0
 
-**Logic:** Har Ghar Dastak 2.0 launched 1 June 2022 for door-to-door COVID vaccination coverage.
-
+**Ans: A.** Har Ghar Dastak Campaign 2.0
 </details>
 
 **Q54. I.A.S. (Pre) 2016**
@@ -2541,10 +2435,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** BEE Standards & Labelling covers all three (and more appliances) — 1, 2 and 3
 
-**Logic:** BEE Standards & Labelling covers all three (and more appliances).
-
+**Ans: D.** 1, 2 and 3
 </details>
 
 **Q55. I.A.S. (Pre) 2016**
@@ -2559,10 +2452,9 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Both — DigiLocker is MeitY Digital India wallet with location-independent e-document access — Both 1 and 2
 
-**Logic:** Both — DigiLocker is MeitY Digital India wallet with location-independent e-document access.
-
+**Ans: C.** Both 1 and 2
 </details>
 
 **Q56. I.A.S. (Pre) 2005**
@@ -2577,10 +2469,9 @@ D. Hindustan Unilever
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** ITC launched e-Choupal (2000) for rural agri supply-chain — ITC
 
-**Logic:** ITC launched e-Choupal (2000) for rural agri supply-chain.
-
+**Ans: A.** ITC
 </details>
 
 **Q57. I.A.S. (Pre) 1997**
@@ -2595,10 +2486,9 @@ D. A is false, but R is true
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** A stands; R fails — universalism/globalism is not the defining belief of socialism in this keyed reading — A is true, but R is false
 
-**Logic:** A stands; R fails — universalism/globalism is not the defining belief of socialism in this keyed reading.
-
+**Ans: C.** A is true, but R is false
 </details>
 
 **Q58. 69th B.P.S.C. (Pre) 2023**
@@ -2613,10 +2503,9 @@ D. 2 3 4 5 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** Beret–hat; Stilettos–women’s footwear; Aviators–sunglasses; Chignon–hairstyle; Brogue–men’s footwear — 3 4 2 5 1
 
-**Logic:** Beret–hat; Stilettos–women’s footwear; Aviators–sunglasses; Chignon–hairstyle; Brogue–men’s footwear.
-
+**Ans: B.** 3 4 2 5 1
 </details>
 
 **Q59. M.P.P.C.S. (Pre) 2010**
@@ -2631,10 +2520,9 @@ D. Robins
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Adam Smith — Father of Modern Economics / Capitalism tag — Adam Smith
 
-**Logic:** Adam Smith — Father of Modern Economics / Capitalism tag.
-
+**Ans: A.** Adam Smith
 </details>
 
 **Q60. I.A.S. (Pre) 2008**
@@ -2649,13 +2537,12 @@ D. Name of a supercomputer
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Prisoner’s Dilemma is a classic game-theory situation — A situation under the game theory
 
-**Logic:** Prisoner’s Dilemma is a classic game-theory situation.
-
+**Ans: C.** A situation under the game theory
 </details>
 
-**Q61. U.P. R.O./A.R.O. (Mains) 2017**
+**Q61. UP RO/ARO (Mains) 2017**
 
 Who is the father of scientific management?
 
@@ -2667,10 +2554,9 @@ D. F.W. Taylor
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Standard key matches F.W.
 
-**Logic:** F.W. Taylor — Principles of Scientific Management (Taylorism).
-
+**Ans: D.** F.W.
 </details>
 
 **Q62. I.A.S. (Pre) 2020**
@@ -2685,10 +2571,9 @@ D. economic determinism
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Both envision a eventual stateless society; means differ (non-violence vs violence) — the final goal of a stateless society
 
-**Logic:** Both envision a eventual stateless society; means differ (non-violence vs violence).
-
+**Ans: A.** the final goal of a stateless society
 </details>
 
 **Q63. I.A.S. (Pre) 2017**
@@ -2703,10 +2588,9 @@ D. 2 and 3 only
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** Smart India Hackathon is a digital innovation contest — not Smart Cities CSS or full cashless mandate — 2 only
 
-**Logic:** Smart India Hackathon is a digital innovation contest — not Smart Cities CSS or full cashless mandate.
-
+**Ans: B.** 2 only
 </details>
 
 **Q64. I.A.S. (Pre) 2017**
@@ -2721,10 +2605,9 @@ D. 2 and 3 only
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** Only 2: benami properties are confiscable; lack of knowledge can still be benami; appellate mechanism exists — 2 only
 
-**Logic:** Only 2: benami properties are confiscable; lack of knowledge can still be benami; appellate mechanism exists.
-
+**Ans: B.** 2 only
 </details>
 
 **Q65. M.P.P.C.S. (Pre) 2017**
@@ -2739,10 +2622,9 @@ D. Himachal Pradesh
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Himachal Pradesh became the first State with SDC (June 2016 teaching) — Himachal Pradesh
 
-**Logic:** Himachal Pradesh became the first State with SDC (June 2016 teaching).
-
+**Ans: D.** Himachal Pradesh
 </details>
 
 **Q66. I.A.S. (Pre) 2023**
@@ -2757,10 +2639,9 @@ D. Statement-I is incorrect but Statement-II is correct
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** Both true; private→State transfer does not explain why carbon markets spread as a climate tool — Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I
 
-**Logic:** Both true; private→State transfer does not explain why carbon markets spread as a climate tool.
-
+**Ans: B.** Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I
 </details>
 
 **Q67. I.A.S. (Pre) 2016**
@@ -2775,10 +2656,9 @@ D. Plan of action outlined by the countries of the world regarding Sustainable D
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** INDCs / NDCs are climate pledges under the Paris Agreement track — Plan of action outlined by the countries of the world to combat climate change
 
-**Logic:** INDCs / NDCs are climate pledges under the Paris Agreement track.
-
+**Ans: B.** Plan of action outlined by the countries of the world to combat climate change
 </details>
 
 **Q68. I.A.S. (Pre) 2017**
@@ -2793,10 +2673,9 @@ D. Permitting foreign educational institutions to set up their campuses in our c
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** DCR category under JNNSM for domestic solar manufacturing — WTO dispute with US — Developing solar power production in our country
 
-**Logic:** DCR category under JNNSM for domestic solar manufacturing — WTO dispute with US.
-
+**Ans: A.** Developing solar power production in our country
 </details>
 
 **Q69. I.A.S. (Pre) 2015**
@@ -2811,10 +2690,9 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** IREDA is a Public Limited Government Company and an NBFC under MNRE — Both 1 and 2
 
-**Logic:** IREDA is a Public Limited Government Company and an NBFC under MNRE.
-
+**Ans: C.** Both 1 and 2
 </details>
 
 **Q70. I.A.S. (Pre) 2019**
@@ -2829,10 +2707,9 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** National and State CAMPA exist; people’s participation is not mandatory under the Act — 1 only
 
-**Logic:** National and State CAMPA exist; people’s participation is not mandatory under the Act.
-
+**Ans: A.** 1 only
 </details>
 
 **Q71. I.A.S. (Pre) 2019**
@@ -2847,10 +2724,9 @@ D. The Food Safety and Standard Regulation, 2011
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** EPR entered Indian teaching via e-Waste (Management and Handling) Rules, 2011 — The e-Waste (Management and Handling) Rules, 2011
 
-**Logic:** EPR entered Indian teaching via e-Waste (Management and Handling) Rules, 2011.
-
+**Ans: C.** The e-Waste (Management and Handling) Rules, 2011
 </details>
 
 **Q72. I.A.S. (Pre) 2024**
@@ -2865,10 +2741,9 @@ D. Statement-I is incorrect, but Statement-II is correct
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Venezuela still faces crisis and large emigration; it does hold the world’s largest proven oil reserves — Statement-I is incorrect, but Statement-II is correct
 
-**Logic:** Venezuela still faces crisis and large emigration; it does hold the world’s largest proven oil reserves.
-
+**Ans: D.** Statement-I is incorrect, but Statement-II is correct
 </details>
 
 **Q73. I.A.S. (Pre) 2016**
@@ -2883,13 +2758,12 @@ D. Providing for financial turnaround and revival of power distribution companie
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** UDAY = Ujwal Discom Assurance Yojana — Discom financial turnaround — Providing for financial turnaround and revival of power distribution companies
 
-**Logic:** UDAY = Ujwal Discom Assurance Yojana — Discom financial turnaround.
-
+**Ans: D.** Providing for financial turnaround and revival of power distribution companies
 </details>
 
-**Q74. U.P. R.O./A.R.O. (Mains) 2021**
+**Q74. UP RO/ARO (Mains) 2021**
 
 To reduce the interest payment on the Electricity sector, which scheme has been launched by the Government of India?
 
@@ -2901,10 +2775,9 @@ D. Saubhagya Scheme
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** UDAY targets Discom debt / interest burden and operational turnaround — UDAY Scheme
 
-**Logic:** UDAY targets Discom debt / interest burden and operational turnaround.
-
+**Ans: C.** UDAY Scheme
 </details>
 
 **Q75. R.A.S./R.T.S. (Pre) 2024**
@@ -2919,10 +2792,9 @@ D. (i), (iii) and (iv)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** One crore homes + up to 300 units and fully online flow are correct; CFA is capacity-slabbed (not flat 30%); loan rate is repo-linked (~6%), not flat 4% — (i) and (iii)
 
-**Logic:** One crore homes + up to 300 units and fully online flow are correct; CFA is capacity-slabbed (not flat 30%); loan rate is repo-linked (~6%), not flat 4%.
-
+**Ans: C.** (i) and (iii)
 </details>
 
 **Q76. I.A.S. (Pre) 2025**
@@ -2937,13 +2809,12 @@ D. I, II and III
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** All three — one crore RTS, MNRE grassroot training, and >3 lakh skilled manpower target — I, II and III
 
-**Logic:** All three — one crore RTS, MNRE grassroot training, and >3 lakh skilled manpower target.
-
+**Ans: D.** I, II and III
 </details>
 
-**Q77. U.P. R.O./A.R.O. (Pre) 2021**
+**Q77. UP RO/ARO (Pre) 2021**
 
 Which of the following is not correctly matched?
 
@@ -2955,10 +2826,9 @@ D. Non-Conventional Energy — Solar Energy
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Tides are a primary resource; tidal power is converted secondary energy — pair is mismatched — Primary Energy — Tidal Power
 
-**Logic:** Tides are a primary resource; tidal power is converted secondary energy — pair is mismatched.
-
+**Ans: A.** Primary Energy — Tidal Power
 </details>
 
 **Q78. I.A.S. (Pre) 2025**
@@ -2973,10 +2843,9 @@ D. India to Europe through Azerbaijan
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** INSTC links Indian Ocean / Persian Gulf via Iran to Caspian and onward to Russia / Europe / Central Asia — India to Central Asia to Europe via Iran
 
-**Logic:** INSTC links Indian Ocean / Persian Gulf via Iran to Caspian and onward to Russia / Europe / Central Asia.
-
+**Ans: A.** India to Central Asia to Europe via Iran
 </details>
 
 **Q79. M.P.P.C.S. (Pre) 2019**
@@ -2991,10 +2860,9 @@ D. Itanagar and Jamnagar
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** East–West corridor = Silchar–Porbandar; North–South = Srinagar–Kanyakumari — Silchar and Porbander
 
-**Logic:** East–West corridor = Silchar–Porbandar; North–South = Srinagar–Kanyakumari.
-
+**Ans: A.** Silchar and Porbander
 </details>
 
 **Q80. R.A.S./R.T.S. (Pre) 2024**
@@ -3009,14 +2877,12 @@ D. D, C, A, B
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Longest Chennai–Kolkata, then Kolkata–Delhi, Delhi–Mumbai, shortest Mumbai–Chennai — C, D, A, B
 
-**Logic:** Longest Chennai–Kolkata, then Kolkata–Delhi, Delhi–Mumbai, shortest Mumbai–Chennai.
-
+**Ans: A.** C, D, A, B
 </details>
 
 ---
-
 
 ### Ghatnachakra Purvalokan — Misc leftovers (transport, colonial, CA)
 
@@ -3032,13 +2898,12 @@ D. This State ranks first in the country in road density
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** MP does not rank first in road density — Chandigarh / Delhi lead density tables — This State ranks first in the country in road density
 
-**Logic:** MP does not rank first in road density — Chandigarh / Delhi lead density tables.
-
+**Ans: D.** This State ranks first in the country in road density
 </details>
 
-**Q82. U.P. Lower Sub. (Pre) 2015**
+**Q82. UP Lower Sub (Pre) 2015**
 
 In which of the following States, India’s first Railway line has been made under public-private partnership model?
 
@@ -3050,10 +2915,9 @@ D. Gujarat
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** First BG PPP railway: Gujarat (Tuna Tekra–Gandhidham), dedicated 14 July 2015 — Gujarat
 
-**Logic:** First BG PPP railway: Gujarat (Tuna Tekra–Gandhidham), dedicated 14 July 2015.
-
+**Ans: D.** Gujarat
 </details>
 
 **Q83. U.P.U.D.A./L.D.A. (Pre) 2002**
@@ -3068,10 +2932,9 @@ D. a system of labour on sea-ports to load and unload goods
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** Kamaiya = bonded labour system of Nepal — a system of bonded labour in Nepal which continues from generation to generation
 
-**Logic:** Kamaiya = bonded labour system of Nepal.
-
+**Ans: B.** a system of bonded labour in Nepal which continues from generation to generation
 </details>
 
 **Q84. 70th B.P.S.C. (Pre) (Re-Exam) 2024**
@@ -3086,10 +2949,9 @@ D. Phirozshah Mehta
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Dadabhai Naoroji published Poverty and Un-British Rule in India in 1901 (drain of wealth) — Dadabhai Naoroji
 
-**Logic:** Dadabhai Naoroji published Poverty and Un-British Rule in India in 1901 (drain of wealth).
-
+**Ans: A.** Dadabhai Naoroji
 </details>
 
 **Q85. 48th to 52nd B.P.S.C. (Pre) 2008**
@@ -3104,10 +2966,9 @@ D. 15
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Arthashastra has 15 adhikaranas — 15
 
-**Logic:** Arthashastra has 15 adhikaranas.
-
+**Ans: D.** 15
 </details>
 
 **Q86. Jharkhand P.C.S. (Pre) 2003**
@@ -3122,10 +2983,9 @@ D. Trade Tax
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** In Vijayanagara administration Athavana = Department of Revenue — Revenue department
 
-**Logic:** In Vijayanagara administration Athavana = Department of Revenue.
-
+**Ans: A.** Revenue department
 </details>
 
 **Q87. I.A.S. (Pre) 2016**
@@ -3140,10 +3000,9 @@ D. China
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** BRI / OBOR is China’s global infrastructure strategy (2013) — China
 
-**Logic:** BRI / OBOR is China’s global infrastructure strategy (2013).
-
+**Ans: D.** China
 </details>
 
 **Q88. I.A.S. (Pre) 2024**
@@ -3158,10 +3017,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Donyi Polo and Kushinagar are Greenfield operationalised airports; Vijayawada is not Greenfield in the keyed set — 1 and 2 only
 
-**Logic:** Donyi Polo and Kushinagar are Greenfield operationalised airports; Vijayawada is not Greenfield in the keyed set.
-
+**Ans: A.** 1 and 2 only
 </details>
 
 **Q89. I.A.S. (Pre) 2022**
@@ -3176,10 +3034,9 @@ D. 1 and 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Vietnam is a one-party State; e-services are nascent — statements 2 and 5 fail; 1, 3, 4 stand — 1, 3 and 4
 
-**Logic:** Vietnam is a one-party State; e-services are nascent — statements 2 and 5 fail; 1, 3, 4 stand.
-
+**Ans: C.** 1, 3 and 4
 </details>
 
 **Q90. I.A.S. (Pre) 2008**
@@ -3194,18 +3051,16 @@ D. 201 litres
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** One oil barrel ≈ 159 litres (≈42 US gallons) — 159 litres
 
-**Logic:** One oil barrel ≈ 159 litres (≈42 US gallons).
-
+**Ans: B.** 159 litres
 </details>
 
 ---
 
 ## UKPCS
 
-
-**Q1. UKPCS (Pre) 2024** — PMLA NOT true
+**Q1. UKPCS (Pre) 2024**
 
 Which of the following statements related to the Prevention of Money Laundering Act (PMLA) is NOT true?
 
@@ -3217,13 +3072,12 @@ D. The Director of Money Laundering is not given power to call for records maint
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Director **does** have record-calling powers — D is untrue.
+**Logic:** Director does have record-calling powers — D is untrue — The Director of Money Laundering is not given power to call for records maintained by Financial Institutions
 
-**Ans: D.**
-
+**Ans: D.** The Director of Money Laundering is not given power to call for records maintained by Financial Institutions
 </details>
 
-**Q2. UKPCS (Pre) 2021** — GII year
+**Q2. UKPCS (Pre) 2021**
 
 Gender Inequality Index (GII) was introduced in which Human Development Report (HDR) of UNDP?
 
@@ -3235,13 +3089,12 @@ D. HDR 2010
 <details>
 <summary>Show answer</summary>
 
-**Logic:** GII in HDR 2010.
+**Logic:** GII in HDR 2010 — HDR 2010
 
-**Ans: D.**
-
+**Ans: D.** HDR 2010
 </details>
 
-**Q3. UKPCS (Pre) 2021** — HDI rank HDR 2020
+**Q3. UKPCS (Pre) 2021**
 
 What is the Human Development Index (HDI) rank of India in the Human Development Report 2020 of UNDP?
 
@@ -3253,13 +3106,12 @@ D. 131
 <details>
 <summary>Show answer</summary>
 
-**Logic:** India 131 in HDR 2020 teaching.
+**Logic:** India 131 in HDR 2020 teaching — 131
 
-**Ans: D.** 131.
-
+**Ans: D.** 131
 </details>
 
-**Q4. UKPCS (Pre) 2016** — Global Competitiveness Index publisher
+**Q4. UKPCS (Pre) 2016**
 
 A. U.N.D.P.
 B. World Economic Forum
@@ -3269,13 +3121,12 @@ D. W.T.O.
 <details>
 <summary>Show answer</summary>
 
-**Logic:** WEF (also in Topic 10).
+**Logic:** WEF (also in Topic 10) — World Economic Forum
 
-**Ans: B.**
-
+**Ans: B.** World Economic Forum
 </details>
 
-**Q5. UKPCS (Pre) 2025** — SDG India Index top (neighbour)
+**Q5. UKPCS (Pre) 2025**
 
 According to NITI Aayog's SDG India Index 2023-24, which state or states has the highest SDG index score?
 
@@ -3292,10 +3143,9 @@ D. 3 and 4
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Kerala and Uttarakhand shared the top score (79) in that edition’s teaching key.
+**Logic:** Kerala and Uttarakhand shared the top score (79) in that edition’s teaching key — 1 and 2
 
-**Ans: B.** 1 and 2.
-
+**Ans: B.** 1 and 2
 </details>
 
 ---
@@ -3312,10 +3162,9 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Hansa Mehta was the first Indian member (1947–48) of the UN Human Rights Commission.
+**Logic:** Hansa Mehta was the first Indian member (1947–48) of the UN Human Rights Commission — Smt
 
-**Ans: B.**
-
+**Ans: B.** Smt.
 </details>
 
 **Q7. Uttarakhand P.C.S. (Pre) 2010**
@@ -3330,10 +3179,9 @@ D. Standing Committee
 <details>
 <summary>Show answer</summary>
 
-**Logic:** PAC examines Appropriation Accounts and CAG reports.
+**Logic:** PAC examines Appropriation Accounts and CAG reports — Public Accounts Committee
 
-**Ans: C.**
-
+**Ans: C.** Public Accounts Committee
 </details>
 
 **Q8. Uttarakhand P.C.S. (Pre) 2012**
@@ -3348,10 +3196,9 @@ D. Oceans
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Protection of Children from Sexual Offences Act, 2012.
+**Logic:** Protection of Children from Sexual Offences Act, 2012 — Children
 
-**Ans: B.**
-
+**Ans: B.** Children
 </details>
 
 **Q9. Uttarakhand P.C.S. (Pre) 2012**
@@ -3366,10 +3213,9 @@ D. Promoting studies in cell-biology
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Marrakesh Treaty facilitates access to published works for the print-disabled; India first to ratify (2014).
+**Logic:** Marrakesh Treaty facilitates access to published works for the print-disabled; India first to ratify (2014) — Promotion of access to published works by visually impaired persons and persons with print disabilities
 
-**Ans: C.**
-
+**Ans: C.** Promotion of access to published works by visually impaired persons and persons with print disabilities
 </details>
 
 **Q10. Uttarakhand P.C.S. (Pre) 2025**
@@ -3384,10 +3230,9 @@ D. Enable video-conferencing with government officers
 <details>
 <summary>Show answer</summary>
 
-**Logic:** DigiLocker stores / shares personal documents securely in the cloud.
+**Logic:** DigiLocker stores / shares personal documents securely in the cloud — Provide cloud storage for personal documents
 
-**Ans: A.**
-
+**Ans: A.** Provide cloud storage for personal documents
 </details>
 
 ---
@@ -3404,18 +3249,18 @@ D. Ocean Development Activities
 <details>
 <summary>Show answer</summary>
 
-**Logic:** O-SMART = Ocean Services, Modelling, Applications, Resources and Technology (MoES).
+**Logic:** O-SMART = Ocean Services, Modelling, Applications, Resources and Technology (MoES) — Ocean Development Activities
 
-**Ans: D.**
-
+**Ans: D.** Ocean Development Activities
 </details>
 
 ---
 
 ## Practice Zone
 
+**Q1.**
 
-**Q1.** Economic Survey is usually presented
+Economic Survey is usually presented
 
 A. Only after the Finance Commission Report forever
 B. Shortly before the Union Budget as an annual economy review
@@ -3425,13 +3270,14 @@ D. Only by NITI for States alone
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Pre-Budget review.
+**Logic:** Standard key: Shortly before the Union Budget as an annual economy review.
 
-**Logic:** Survey desk.
-
+**Ans: B.** Shortly before the Union Budget as an annual economy review
 </details>
 
-**Q2.** IBC was enacted in
+**Q2.**
+
+IBC was enacted in
 
 A. 1991
 B. 2002
@@ -3441,13 +3287,14 @@ D. 2019
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** 2016.
+**Logic:** Same-year neighbour as RERA — 2016
 
-**Logic:** Same-year neighbour as RERA.
-
+**Ans: C.** 2016
 </details>
 
-**Q3.** RERA mainly regulates
+**Q3.**
+
+RERA is primarily concerned with
 
 A. Only forex convertibility
 B. Real-estate projects / promoters and buyer protection
@@ -3457,13 +3304,14 @@ D. Only HDI pillars
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Real-estate regulation.
+**Logic:** Standard key: Real-estate projects / promoters and buyer protection.
 
-**Logic:** RERA card.
-
+**Ans: B.** Real-estate projects / promoters and buyer protection
 </details>
 
-**Q4.** With reference to rank numbers, which statement is correct?
+**Q4.**
+
+With reference to rank numbers, which statement is correct?
 
 A. A move from 130 to 132 is always called an upgrade
 B. A larger HDI rank number means a worse relative position
@@ -3473,13 +3321,14 @@ D. UNDP abolished all ranks in 1990
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Direction of rank numbers.
+**Logic:** HDR 2021–22 trap — A larger HDI rank number means a worse relative position
 
-**Logic:** HDR 2021–22 trap.
-
+**Ans: B.** A larger HDI rank number means a worse relative position
 </details>
 
-**Q5.** PQLI was developed by
+**Q5.**
+
+PQLI was developed by
 
 A. UNDP
 B. Morris D. Morris
@@ -3489,13 +3338,14 @@ D. Amartya Sen alone as HDI
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Morris.
+**Logic:** Standard key matches Morris D.
 
-**Logic:** 2019 PYQ twin.
-
+**Ans: B.** Morris D.
 </details>
 
-**Q6.** Match List-I with List-II.
+**Q6.**
+
+Match List-I with List-II.
 
 | List-I | List-II |
 |---|---|
@@ -3516,13 +3366,14 @@ D. 4 3 1 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** IEP; Happiness; NITI; World Bank.
+**Logic:** Publisher drill — 2 3 1 4
 
-**Logic:** Publisher drill.
-
+**Ans: A.** 2 3 1 4
 </details>
 
-**Q7.** GHI 2017 India rank
+**Q7.**
+
+In the Ease of Doing Business ranking teaching for India, a keyed milestone position was
 
 A. 100th
 B. 110th
@@ -3532,13 +3383,14 @@ D. 63rd
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** 100th.
+**Logic:** Standard key matches 100th.
 
-**Logic:** Edition-bound.
-
+**Ans: A.** 100th
 </details>
 
-**Q8.** World Happiness Report 2022 India rank
+**Q8.**
+
+India’s HDI rank in the 2021/22 HDR teaching edition was around
 
 A. 63rd
 B. 100th
@@ -3548,13 +3400,14 @@ D. 77th
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** 136th.
+**Logic:** Standard key matches 136th.
 
-**Logic:** 2022 edition.
-
+**Ans: C.** 136th
 </details>
 
-**Q9.** Doing Business 2019 and 2020 India ranks were
+**Q9.**
+
+Doing Business 2019 and 2020 India ranks were
 
 A. 63 then 77
 B. 77 then 63
@@ -3564,13 +3417,14 @@ D. 131 then 132
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** 77 → 63.
+**Logic:** Improvement pair; report later stopped — 77 then 63
 
-**Logic:** Improvement pair; report later stopped.
-
+**Ans: B.** 77 then 63
 </details>
 
-**Q10.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+**Q10.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 Assertion (A): The World Bank’s Doing Business report is no longer published as an annual live series after 2021.
 
@@ -3586,13 +3440,14 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Discontinuation explained by integrity issues.
+**A/R logic:** Discontinuation explained by integrity issues.
 
-**A/R logic:** Historical EoDB card.
-
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)
 </details>
 
-**Q11.** GII was introduced in
+**Q11.**
+
+GII was introduced in
 
 A. HDR 1990
 B. HDR 2010
@@ -3602,13 +3457,14 @@ D. HDR 2005
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** 2010.
+**Logic:** Standard key matches HDR 2010.
 
-**Logic:** UKPCS twin.
-
+**Ans: B.** HDR 2010
 </details>
 
-**Q12.** PMLA is primarily concerned with
+**Q12.**
+
+PMLA is primarily concerned with
 
 A. Only MSP fixation
 B. Prevention and control of money laundering
@@ -3618,13 +3474,14 @@ D. Only BIMSTEC summits
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Anti-money-laundering statute.
+**Logic:** Standard key: Prevention and control of money laundering.
 
-**Logic:** Acts desk.
-
+**Ans: B.** Prevention and control of money laundering
 </details>
 
-**Q13.** SDG India Index is published by
+**Q13.**
+
+SDG India Index is published by
 
 A. Only IMF
 B. NITI Aayog
@@ -3634,13 +3491,14 @@ D. Only RBI Monetary Policy Committee
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** NITI dashboard.
+**Logic:** Domestic SDG card — NITI Aayog
 
-**Logic:** Domestic SDG card.
-
+**Ans: B.** NITI Aayog
 </details>
 
-**Q14.** With reference to Economic Survey 2022–23 fiscal response, which is correct?
+**Q14.**
+
+With reference to Economic Survey 2022–23 fiscal response, which is correct?
 
 A. Only raising fuel taxes
 B. Reducing taxes on fuel and certain imported products
@@ -3650,13 +3508,14 @@ D. Only abolishing GST
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Tax relief line.
+**Logic:** 2024 Survey stem — Reducing taxes on fuel and certain imported products
 
-**Logic:** 2024 Survey stem.
-
+**Ans: B.** Reducing taxes on fuel and certain imported products
 </details>
 
-**Q15.** Four labour codes aim mainly to
+**Q15.**
+
+The four Labour Codes are mainly intended to
 
 A. Replace the Constitution
 B. Consolidate and simplify multiple older labour laws
@@ -3666,13 +3525,14 @@ D. Compile only WPI
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Consolidation purpose.
+**Logic:** Labour-code card — Consolidate and simplify multiple older labour laws
 
-**Logic:** Labour-code card.
-
+**Ans: B.** Consolidate and simplify multiple older labour laws
 </details>
 
-**Q16.** Match List-I with List-II.
+**Q16.**
+
+Match List-I with List-II.
 
 | List-I | List-II |
 |---|---|
@@ -3693,13 +3553,14 @@ D. 4 1 2 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** IBC; RERA; FEMA; PMLA.
+**Logic:** Acts short desk — 2 1 3 4
 
-**Logic:** Acts short desk.
-
+**Ans: A.** 2 1 3 4
 </details>
 
-**Q17.** Global Competitiveness Index is classically published by
+**Q17.**
+
+Global Competitiveness Index is classically published by
 
 A. UNDP
 B. World Economic Forum
@@ -3709,13 +3570,14 @@ D. FSSAI
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** WEF.
+**Logic:** Standard key: World Economic Forum.
 
-**Logic:** Publisher trap.
-
+**Ans: B.** World Economic Forum
 </details>
 
-**Q18.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+**Q18.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 Assertion (A): Index ranks in Prelims stems must be tied to the report year in the question.
 
@@ -3731,13 +3593,14 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Year-binding explains the rule.
+**A/R logic:** Year-binding explains the rule.
 
-**A/R logic:** Rank methodology.
-
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)
 </details>
 
-**Q19.** HDR first appeared in
+**Q19.**
+
+The Human Development Index (HDI) was first published around
 
 A. 1980
 B. 1990
@@ -3747,13 +3610,14 @@ D. 2010
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** 1990.
+**Logic:** Topic 8 neighbour — 1990
 
-**Logic:** Topic 8 neighbour.
-
+**Ans: B.** 1990
 </details>
 
-**Q20.** Which pairing is correct?
+**Q20.**
+
+Which pairing is correct?
 
 A. GHI — Institute for Economics and Peace
 B. GPI — Institute for Economics and Peace
@@ -3763,13 +3627,14 @@ D. SDG India Index — World Bank only
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** GPI–IEP.
+**Logic:** Publisher drill — GPI — Institute for Economics and Peace
 
-**Logic:** Publisher drill.
-
+**Ans: B.** GPI — Institute for Economics and Peace
 </details>
 
-**Q21.** IBBI is associated with
+**Q21.**
+
+IBBI is associated with
 
 A. Only tourism marketing
 B. Insolvency and Bankruptcy Code administration
@@ -3779,13 +3644,14 @@ D. Only MSP
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** IBC regulator.
+**Logic:** Standard key: Insolvency and Bankruptcy Code administration.
 
-**Logic:** IBC card.
-
+**Ans: B.** Insolvency and Bankruptcy Code administration
 </details>
 
-**Q22.** A Survey “NOT correct” stem is best solved by
+**Q22.**
+
+A Survey “NOT correct” stem is best solved by
 
 A. Ignoring all years in options
 B. Finding the option that tweaks a Survey fact (often a year or number)
@@ -3795,13 +3661,14 @@ D. Assuming Survey = Budget
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Spot the altered detail.
+**Logic:** 2023 services neighbour — Finding the option that tweaks a Survey fact (often a year or number)
 
-**Logic:** 2023 services neighbour.
-
+**Ans: B.** Finding the option that tweaks a Survey fact (often a year or number)
 </details>
 
-**Q23.** India’s HDI rank in HDR 2020 teaching is
+**Q23.**
+
+India’s HDI rank in HDR 2020 teaching is
 
 A. 100
 B. 131
@@ -3811,13 +3678,14 @@ D. 77
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** 131.
+**Logic:** Standard key matches 131.
 
-**Logic:** UKPCS 2021.
-
+**Ans: B.** 131
 </details>
 
-**Q24.** FEMA and PMLA differ because
+**Q24.**
+
+Which statement correctly distinguishes FEMA and PMLA?
 
 A. Both abolish RBI
 B. FEMA manages forex; PMLA targets money laundering
@@ -3827,13 +3695,14 @@ D. Both set only HDI pillars
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Distinct statutes.
+**Logic:** Standard key: FEMA manages forex; PMLA targets money laundering.
 
-**Logic:** Acts desk.
-
+**Ans: B.** FEMA manages forex; PMLA targets money laundering
 </details>
 
-**Q25.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+**Q25.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 Assertion (A): PQLI is not the same as HDI.
 
@@ -3849,13 +3718,14 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Different authors and designs explain the distinction.
+**A/R logic:** Different authors and designs explain the distinction.
 
-**A/R logic:** PQLI vs HDI.
-
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)
 </details>
 
-**Q26.** NITI Aayog’s SDG India Index mainly compares
+**Q26.**
+
+NITI Aayog’s SDG India Index mainly ranks
 
 A. Only IMF quotas
 B. States and UTs on Sustainable Development Goal performance
@@ -3865,13 +3735,14 @@ D. Only CRR across banks
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Domestic SDG dashboard.
+**Logic:** SDG India Index — States and UTs on Sustainable Development Goal performance
 
-**Logic:** SDG India Index.
-
+**Ans: B.** States and UTs on Sustainable Development Goal performance
 </details>
 
-**Q27.** Which Act year pair is correct?
+**Q27.**
+
+Which Act year pair is correct?
 
 A. IBC — 1999; RERA — 1973
 B. IBC — 2016; RERA — 2016
@@ -3881,13 +3752,14 @@ D. IBC — 1934; RERA — 1992
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Both 2016.
+**Logic:** Standard key: IBC — 2016; RERA — 2016.
 
-**Logic:** Twin Acts.
-
+**Ans: B.** IBC — 2016; RERA — 2016
 </details>
 
-**Q28.** Global Innovation Index in recent teaching is associated mainly with
+**Q28.**
+
+Global Innovation Index in recent teaching is associated mainly with
 
 A. Only FCI procurement
 B. WIPO-led innovation ranking editions
@@ -3897,16 +3769,14 @@ D. Only Article 370
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Innovation ranking CA.
+**Logic:** Standard key: WIPO-led innovation ranking editions.
 
-**Logic:** Rank shelf.
-
+**Ans: B.** WIPO-led innovation ranking editions
 </details>
 
 ---
 
 ## Common Traps
-
 
 * Survey ≠ Budget; read the **edition year** before picking Survey facts.
 * E-commerce “two-thirds” = **~2027 / next four years**, not **2030**.

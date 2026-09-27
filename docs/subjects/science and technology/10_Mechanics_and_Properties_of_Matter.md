@@ -285,7 +285,6 @@
 
 ---
 
-
 ## Teaching expansion — additional theory (beyond Consolidated spine)
 
 These points sit in teaching theory (not the Consolidated spine).
@@ -298,1417 +297,6 @@ These points sit in teaching theory (not the Consolidated spine).
 - **Archimedes' Principle**: An immersed body experiences an upward buoyant force equal to the **weight of the displaced fluid** acting at the center of buoyancy.
 - **Floating Ice and Water Level**: An ice cube floating in water displaces water equal to its weight. When it melts, the water level in the beaker **remains completely unchanged**.
 - **Ship Entering Sea from River**: Because salty sea water is denser than fresh river water, it exerts greater buoyant upthrust, causing the ship to **rise slightly**.
-
-## Complete PYQ Bank — UPPCS
-
-**Q1. (UPPCS Pre 2024)**  
-A bus covers the first half of a certain distance with speed $v_1$ and the second half with a speed $v_2$. The average speed during the whole journey is:  
-(a) $\frac{v_1 v_2}{v_1 + v_2}$  
-(b) $\frac{2 v_1 v_2}{v_1 + v_2}$  
-(c) $\frac{v_1 + v_2}{2}$  
-(d) $\sqrt{v_1 v_2}$  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (b)</b><br>
-Let the total distance be $2d$. Time for first half $t_1 = d / v_1$. Time for second half $t_2 = d / v_2$.<br>
-$$\text{Average Speed} = \frac{\text{Total Distance}}{\text{Total Time}} = \frac{2d}{\frac{d}{v_1} + \frac{d}{v_2}} = \frac{2 v_1 v_2}{v_1 + v_2}$$
-This is the harmonic mean of speeds.
-</details>
-
-**Q2. (UPPCS Pre 2022)**  
-Most of the sources of energy we use represent stored solar energy. Which of the following is NOT ultimately derived from the Sun's energy?  
-(a) Nuclear energy  
-(b) Geothermal energy  
-(c) Biomass energy  
-(d) Wind energy  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (a) & (b)</b><br>
-<b>Geothermal energy</b> originates from thermal energy generated during Earth's primordial accretion and radioactive decay of deep crustal isotopes. <b>Nuclear energy</b> is derived from nuclear forces binding protons and neutrons. Neither is derived from solar radiation. (Biomass and wind energy are directly solar-driven). The commission accepted both (a) and (b).
-</details>
-
-**Q3. (UPPCS RO/ARO Mains 2017)**  
-For every action there is an equal and opposite reaction. The law was given by:  
-(a) Newton  
-(b) Albert Einstein  
-(c) Bohr  
-(d) Haldane  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (a)</b><br>
-This is Newton's Third Law of Motion, first formulated by Sir Isaac Newton in his 1687 *Principia*.
-</details>
-
-**Q4. (UPPCS Pre 2016)**  
-In wind power, which form of energy is converted into electrical energy?  
-(a) Kinetic energy  
-(b) Potential energy  
-(c) Solar energy  
-(d) Radiant energy  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (a)</b><br>
-Wind is air in motion possessing kinetic energy. Wind turbine blades extract this kinetic energy and convert it into mechanical rotational energy, which drives a generator to produce electricity.
-</details>
-
-**Q5. (UPPCS Pre 2012 / Mains 2015)**  
-The weight of human body is:  
-(a) Maximum at the poles  
-(b) Same at every place on the Earth's surface  
-(c) Maximum at the equator  
-(d) More on the mountains than planes  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (a)</b><br>
-Weight $W = mg$. Earth is an oblate ellipsoid with a shorter polar radius ($R_p < R_e$). Furthermore, centrifugal force due to Earth's rotation is zero at the poles and maximum at the equator. Consequently, $g$ is maximum at the poles, making human weight maximum at the poles.
-</details>
-
-**Q6. (UPPCS Mains 2013)**  
-A man is standing on a sensitive balance. If he inhales deeply, the reading of the balance:  
-(a) Increases  
-(b) Decreases  
-(c) Remains unaffected  
-(d) May increase or decrease depending on the atmospheric pressure  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (a)</b><br>
-Air has mass ($1\text{ litre of air} \approx 1.225\text{ g}$). When a person inhales deeply (taking in up to $\approx 4.8\text{ litres}$ of air $\approx 5.88\text{ g}$), the mass of the inhaled air is added to the person's body mass, causing the sensitive balance reading to increase.
-</details>
-
-**Q7. (UPPCS Mains 2013)**  
-Consider the following statement and conclusion:  
-Statement: In starting a loaded cart, one has to push harder than to keep it moving.  
-Conclusion:  
-(a) The weight of a moving object is less  
-(b) The wheels tend to slip initially  
-(c) There is less friction once the cart starts moving  
-(d) Practice makes perfect  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (c)</b><br>
-Limiting static friction is greater than kinetic (dynamic) or rolling friction. Once an object overcomes static friction and begins to slide or roll, the frictional resistance decreases.
-</details>
-
-**Q8. (UPPCS Mains 2013)**  
-The Earth travels in its orbit at a speed of approx $4,400\text{ km/h}$. Why do we not feel this high speed?  
-(a) Because we are too small compared to the size of the earth  
-(b) Our relative speed with respect to the Earth along the earth's orbit is zero  
-(c) The solar system as a whole is also moving  
-(d) The gravity of the Earth constantly pulls us towards the Earth's centre  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (b)</b><br>
-We are situated on the Earth and share its uniform motion. Because our relative velocity with respect to the Earth's surface and frame of reference is zero, we do not perceive the orbital motion.
-</details>
-
-**Q9. (UPPCS Mains 2013)**  
-Satellite is kept moving in its orbit around the Earth; it is due to:  
-(a) Centrifugal force  
-(b) Centripetal force  
-(c) Gravitational force or lack of it  
-(d) Some other forces  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (b)</b><br>
-Earth's gravitational attraction provides the necessary inward <b>centripetal force</b> ($F_c = \frac{m v^2}{r}$) that continuously bends the satellite's linear velocity into a curved orbit.
-</details>
-
-**Q10. (UPPCS Mains 2012)**  
-If the gravitational force of the Earth suddenly disappears, which of the following will be the correct consequence?  
-(a) The weight of an object will become zero but the mass will remain the same  
-(b) The mass of the object will become zero but the weight will remain the same  
-(c) Both the mass and the weight of the object will become zero  
-(d) The mass of the object will increase  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (a)</b><br>
-Weight is the gravitational attraction $W = mg$. If gravity disappears ($g = 0$), weight becomes zero. Mass ($m$) is an invariant intrinsic measure of the quantity of matter and remains completely unchanged.
-</details>
-
-**Q11. (UPPCS Mains 2012)**  
-There is no atmosphere on the Moon because:  
-(a) It is near to the Earth  
-(b) It receives light from the Sun  
-(c) It revolves around the Earth  
-(d) The escape velocity of gas molecules on it is less than the root mean square velocity here  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (d)</b><br>
-The Moon's escape velocity ($V_e \approx 2.38\text{ km/s}$) is very low due to its weak gravity. The root-mean-square thermal velocities of gas molecules ($O_2, N_2, CO_2, H_2$) at lunar temperatures exceed this escape velocity, allowing gases to leak away into outer space.
-</details>
-
-**Q12. (UPPCS Pre 2010)**  
-If an apple is released from an orbiting spaceship, it will:  
-(a) Fall towards the Earth  
-(b) Move at a lower speed  
-(c) Move along with the spaceship at the same speed  
-(d) Move at a higher speed  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (c)</b><br>
-An apple released from a spacecraft already possesses the exact same tangential orbital speed as the spacecraft and is subject to the same gravitational centripetal acceleration; hence it continues in the same orbit alongside the craft.
-</details>
-
-**Q13. (UPPCS Pre 2009)**  
-The Leaning Tower of Pisa does not fall because:  
-(a) It is tapered at the top  
-(b) It covers a large base area  
-(c) Its centre of gravity remains at the lowest position  
-(d) The vertical line through the centre of gravity of the tower falls within its base  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (d)</b><br>
-A structure remains in stable mechanical equilibrium as long as the vertical line drawn downwards from its centre of gravity passes through the perimeter of its base of support.
-</details>
-
-**Q14. (UPPCS Mains 2009)**  
-If the distance between the Earth and the Sun were twice what it is now, the gravitational force exerted on the Earth by the Sun would be:  
-(a) Twice as large as it is now  
-(b) Four times as large as it is now  
-(c) One fourth of what it is now  
-(d) Half of what it is now  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (c)</b><br>
-Newton's law of gravitation states $F \propto \frac{1}{r^2}$. If distance doubles ($r' = 2r$), new force $F' = \frac{G M_s M_e}{(2r)^2} = \frac{F}{4}$ (one-fourth).
-</details>
-
-**Q15. (UPPCS Pre 2009)**  
-Assertion (A): Lighting a candle in space does not produce a flame.  
-Reason (R): A flame exists due to the pull of gravity.  
-(a) Both A and R are true and R is the correct explanation of A  
-(b) Both A and R are true but R is not the correct explanation  
-(c) A is true but R is false  
-(d) A is false but R is true  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (a)</b><br>
-On Earth, gravitational buoyancy causes heated, less dense combustion gases to rise and fresh denser oxygen-rich air to be drawn in (convection). In a pure vacuum or zero-g environment without buoyancy, natural convection ceases; hence normal teardrop flickering flames cannot exist.
-</details>
-
-**Q16. (UPPCS Pre 2006)**  
-A Geosynchronous satellite is continuously active in its orbit due to centripetal force which is obtained by:  
-(a) The rocket engine that propelled the satellite  
-(b) The gravitational force on the satellite by the earth  
-(c) The gravitational force on the satellite by the sun  
-(d) The gravitational force on the earth by satellite  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (b)</b><br>
-Earth's gravitational force on the satellite supplies the required centripetal acceleration ($F = \frac{G M_e m}{r^2} = \frac{m v^2}{r}$).
-</details>
-
-**Q17. (UPPCS Mains 2004 / 1997)**  
-The working principle of a washing machine is:  
-(a) Centrifugation  
-(b) Dialysis  
-(c) Reverse osmosis  
-(d) Diffusion  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (a)</b><br>
-Washing machine spin dryers operate on <b>centrifugation</b>, using high-speed rotation where centrifugal inertia forces water droplets out of wet clothing through perforations.
-</details>
-
-**Q18. (UPPCS Pre 2003)**  
-What is the correct equation for finding the acceleration?  
-(a) $a = \frac{v - u}{t}$  
-(b) $a = u + vt$  
-(c) $a = \frac{u + v}{t}$  
-(d) $a = \frac{v + u}{t}$  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (a)</b><br>
-From first equation of motion: $v = u + at \implies at = v - u \implies a = \frac{v - u}{t}$.
-</details>
-
-**Q19. (UPPCS Pre 1994)**  
-It is difficult to walk on ice than on the road because:  
-(a) Ice is harder than the road  
-(b) Road is harder than the ice  
-(c) Ice does not offer any reaction when we push it with our foot  
-(d) Ice has a lesser friction than the road  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (d)</b><br>
-The coefficient of friction between shoes and ice is extremely small compared to rough asphalt roads, preventing sufficient backward pushing force to produce a forward reaction.
-</details>
-
-**Q20. (UPPCS Pre 1990)**  
-If a person is sitting in a lift, when will he feel that his weight has increased?  
-(a) When the elevator is going upward expeditiously (accelerating upward)  
-(b) When the elevator is going down expeditiously  
-(c) Going upward with constant velocity  
-(d) Going downward with constant velocity  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (a)</b><br>
-When an elevator accelerates upward with acceleration $a$, normal contact reaction $N = m(g + a) > mg$. Hence, apparent weight increases.
-</details>
-
----
-
-**Q21. (UP RO/ARO Pre 2023)**  
-With reference to the mechanical properties of solids, which of the following statement/s is/are correct?  
-(1) The Young's Modulus of rubber is greater than that of steel.  
-(2) The stretching of a coil is determined by its Shear Modulus.  
-(a) Only (2)  
-(b) Neither (1) nor (2)  
-(c) Both (1) and (2)  
-(d) Only (1)  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (a)</b><br>
-Statement (1) is incorrect: Steel is more elastic than rubber; its Young's Modulus is much higher ($Y_{\text{steel}} \approx 2 \times 10^{11}\text{ Pa}$ vs $Y_{\text{rubber}} \approx 10^7\text{ Pa}$).<br>
-Statement (2) is correct: When a helical spring/coil is stretched, the wire undergoes torsional twisting and shear deformation without change in length or volume. Hence, stretching is governed by the <b>Shear Modulus (Modulus of Rigidity)</b>.
-</details>
-
-**Q22. (UPPCS Pre 2019)**  
-What happens when some charge is placed on a soap bubble?  
-(a) Its radius increases  
-(b) Its radius decreases  
-(c) The bubble collapses  
-(d) None of the above  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (a)</b><br>
-Charge placed on a soap bubble distributes uniformly over its spherical surface. Mutual electrostatic repulsion between like charges creates an outward electrostatic pressure, expanding the bubble and increasing its radius.
-</details>
-
-**Q23. (UPPCS Pre 2014 / 1995)**  
-Pressure inside a soap bubble is:  
-(a) More than atmospheric pressure  
-(b) Less than atmospheric pressure  
-(c) Equal to atmospheric pressure  
-(d) Half of atmospheric pressure  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (a)</b><br>
-A soap bubble has two liquid surfaces in contact with air (inner and outer). Excess pressure is $\Delta P = P_{\text{in}} - P_{\text{out}} = \frac{4T}{R}$. Therefore, internal pressure is strictly greater than atmospheric pressure.
-</details>
-
-**Q24. (UPPCS Mains 2012)**  
-An iron needle floats on the surface of water due to:  
-(a) Upthrust of water  
-(b) Surface tension  
-(c) Viscosity  
-(d) Gravitational force  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (b)</b><br>
-A clean iron needle placed gently on calm water does not pierce the surface film; the upward surface tension component of water supports the weight of the needle.
-</details>
-
-**Q25. (UPPCS Pre 2009)**  
-While lifting a bucket of water from a well, we feel that the bucket:  
-(a) Becomes heavier above the surface of water  
-(b) Becomes lighter above the surface of water  
-(c) Loses stability on coming out of the water  
-(d) Has gained mass on coming out of water  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (a)</b><br>
-Inside water, buoyant upthrust ($F_B = \rho_w V g$) reduces apparent weight ($W_{\text{app}} = W - F_B$). As soon as the bucket leaves the water, upthrust vanishes and the full true weight is experienced.
-</details>
-
-**Q26. (UPPCS Pre 2005)**  
-The rain drops are spherical because:  
-(a) They fall from big height  
-(b) The air has resistance  
-(c) The water has surface tension  
-(d) None of the above  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (c)</b><br>
-Surface tension forces a liquid surface to contract to the minimum possible surface area for a given volume. A sphere possesses the minimum surface-area-to-volume ratio.
-</details>
-
-**Q27. (UPPCS Pre 2005)**  
-While floating in a sea what part of an iceberg is above the surface of the sea?  
-(a) $1/9$  
-(b) $1/10$  
-(c) $1/6$  
-(d) $1/4$  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (a)</b><br>
-Density of ice is $\approx 0.917\text{ g/cm}^3$ and salty sea water is $\approx 1.025\text{ g/cm}^3$. Fraction submerged $= 0.917 / 1.025 \approx 89\%$. Thus, approximately $1/9\text{th}$ to $1/8\text{th}$ is above the sea surface.
-</details>
-
-**Q28. (UPPCS Pre 2003)**  
-A liquid is flowing in a streamlined manner through a cylindrical pipe. Along with a section containing the axis of the pipe, the flow profile will be:  
-(a) Flat horizontal  
-(b) Highest near pipe walls  
-(c) Parabolic with maximum velocity along the central axis  
-(d) Sinusoidal  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (c)</b><br>
-Due to viscosity and the no-slip condition, fluid velocity is zero at the pipe walls and increases parabolically to a maximum at the central axis.
-</details>
-
-**Q29. (UPPCS Pre 1994 / UDA 2002)**  
-Oil spreads on water surface because:  
-(a) Oil is denser than water  
-(b) Oil is less dense than water  
-(c) Surface tension of oil is more than water  
-(d) Surface tension of oil is less than water  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (d)</b><br>
-The surface tension of water ($\approx 72.8\text{ mN/m}$) is higher than that of oil ($\approx 30\text{ mN/m}$). The stronger surface tension of water pulls the oil droplets outward into an ultra-thin film.
-</details>
-
-**Q30. (UPPCS Pre 1994)**  
-Why does an iron nail float on mercury while it sinks in water?  
-(a) Due to less chemical interaction of iron with mercury  
-(b) Iron is heavier than water and lighter than mercury  
-(c) Iron has greater density than water and lesser than mercury  
-(d) Mercury is heavier than water  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (c)</b><br>
-Density of iron is $\approx 7.8\text{ g/cm}^3$, water is $1.0\text{ g/cm}^3$, and mercury is $13.6\text{ g/cm}^3$. Since $\rho_{\text{water}} < \rho_{\text{iron}} < \rho_{\text{mercury}}$, iron sinks in water but floats on mercury.
-</details>
-
-**Q31. (UPPCS Pre 1992)**  
-While travelling by plane, the ink of the pen starts to come out:  
-(a) Due to decrease in air pressure  
-(b) Due to increase in air pressure  
-(c) Due to increase in volume of ink  
-(d) Due to excessive load  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (a)</b><br>
-Atmospheric pressure decreases with altitude. The trapped air inside the fountain pen remains at ground-level pressure, forcing the ink out through the nib into the lower-pressure airplane cabin.
-</details>
-
-**Q32. (UPPCS Pre 1992)**  
-Increasing the amount of a substance does not change its:  
-(a) Volume  
-(b) Weight  
-(c) Mass  
-(d) Density  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (d)</b><br>
-Density is an intensive property defined as mass per unit volume ($\rho = m/V$). It remains constant regardless of the total quantity of the substance.
-</details>
-
-**Q33. (UP Lower Sub. Pre 2004 / UPPCS 1992)**  
-When a ship enters a sea from a river, what happens?  
-(a) It rises a little  
-(b) It remains at the same level  
-(c) It sinks a little  
-(d) It immerses in the bottom of the sea  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (a)</b><br>
-Sea water contains dissolved salts, giving it a higher density than river water. By Archimedes' principle, greater density requires a smaller submerged volume to balance the ship's weight, causing the ship to rise slightly.
-</details>
-
-**Q34. (UPRO/ARO Mains 2014)**  
-$200\text{ gm}$ of water is filled in a weightless balloon. Its weight in water will be:  
-(a) Zero  
-(b) $100\text{ gm}$  
-(c) $200\text{ gm}$  
-(d) $400\text{ gm}$  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (a)</b><br>
-The volume of water in the balloon displaces an identical volume and weight of surrounding water. Buoyant upthrust equals the downward weight: $W_{\text{app}} = 200\text{ g} - 200\text{ g} = 0$.
-</details>
-
----
-
----
-
-## Complete PYQ Bank — UKPCS
-
-**Q35. (Uttarakhand PCS Pre 2024)**  
-What will be the de Broglie wavelength of a ball of mass $0.12\text{ kg}$ moving with a speed of $20\text{ ms}^{-1}$?  
-(a) $6.63 \times 10^{-30}\text{ m}$  
-(b) $6.63 \times 10^{-34}\text{ m}$  
-(c) $2.76 \times 10^{-30}\text{ m}$  
-(d) $2.76 \times 10^{-34}\text{ m}$  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (d)</b><br>
-$$\lambda = \frac{h}{p} = \frac{h}{m v}$$
-Given $h = 6.63 \times 10^{-34}\text{ J}\cdot s$, $m = 0.12\text{ kg}$, $v = 20\text{ m/s}$.<br>
-$$p = 0.12 \times 20 = 2.4\text{ kg}\cdot m/s$$
-$$\lambda = \frac{6.63 \times 10^{-34}}{2.4} = 2.7625 \times 10^{-34}\text{ m}$$
-</details>
-
-**Q36. (Uttarakhand Lower Sub. Pre 2010)**  
-The energy of wind is:  
-(a) Only potential  
-(b) Only kinetic  
-(c) Electrical  
-(d) Potential and kinetic both  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (b)</b><br>
-Wind is moving atmospheric air mass. All moving matter possesses purely <b>kinetic energy</b> ($KE = \frac{1}{2}mv^2$).
-</details>
-
----
-
-**Q37. (Uttarakhand PCS Pre 2025)**  
-Bulk Modulus for a perfectly rigid body is:  
-(a) Infinite  
-(b) Zero  
-(c) Unity  
-(d) Some finite low value  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (a)</b><br>
-A perfectly rigid body undergoes zero volumetric change ($\Delta V = 0$) under any applied stress. Therefore, volumetric strain is zero, giving Bulk Modulus $K = \frac{-\Delta P}{\Delta V / V} = \frac{-\Delta P}{0} = \mathbf{\infty}$ (Infinite).
-</details>
-
-**Q38. (Uttarakhand PCS Pre 2025)**  
-Consider the following statements:  
-1. The coefficient of linear expansion has dimension $K^{-1}$.  
-2. The coefficient of volume expansion has dimension $K^{-1}$.  
-(a) Both 1 and 2 are correct  
-(b) 1 is correct but 2 is wrong  
-(c) 2 is correct but 1 is wrong  
-(d) Both 1 and 2 are wrong  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (a)</b><br>
-Linear expansion: $\alpha = \frac{\Delta L}{L \Delta T} \implies$ Dimension $[M^0 L^0 T^0 K^{-1}]$.<br>
-Volume expansion: $\gamma = \frac{\Delta V}{V \Delta T} \implies$ Dimension $[M^0 L^0 T^0 K^{-1}]$. Both express fractional change per Kelvin.
-</details>
-
-**Q39. (Uttarakhand PCS Pre 2016)**  
-With the rise of temperature, the viscosity of liquid:  
-(a) Increases  
-(b) Decreases  
-(c) Remains unchanged  
-(d) May increase or decrease depending on nature of liquid  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (b)</b><br>
-Rising temperature increases the thermal kinetic agitation of liquid molecules, weakening intermolecular cohesive bonds and reducing viscosity.
-</details>
-
-**Q40. (Uttarakhand Lower Sub. Pre 2010)**  
-Which one of the following is most viscous?  
-(a) Alcohol  
-(b) Water  
-(c) Honey  
-(d) Gasoline  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (c)</b><br>
-Honey exhibits high internal friction and resistance to shear flow, having a dynamic viscosity thousands of times greater than water or alcohol.
-</details>
-
-**Q41. (Uttarakhand Lower Sub. Pre 2010)**  
-Kerosene oil floats on water because:  
-(a) Its density is greater than the density of water  
-(b) Its density is less than the density of water  
-(c) Its density is equal to that of the density of water  
-(d) None of the above  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (b)</b><br>
-Kerosene has a density of $\approx 0.8\text{ g/cm}^3$, which is lower than water ($1.0\text{ g/cm}^3$). Hence, it floats on water.
-</details>
-
----
-
----
-
-## Complete PYQ Bank — BPSC, IAS & Other State PCS (Ghatnachakra Focus)
-
-**Q42. (71st BPSC Pre 2025)**  
-We apply a force of $200\text{ Newtons}$ on a wooden Box and push it on the floor at constant velocity. The marginal friction force will be:  
-(a) $100\text{ Newtons}$  
-(b) $200\text{ Newtons}$  
-(c) $300\text{ Newtons}$  
-(d) $400\text{ Newtons}$  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (b)</b><br>
-Constant velocity means acceleration $a = 0$. By Newton's Second Law, net resultant force $F_{\text{net}} = m a = 0$.<br>
-$$F_{\text{applied}} - f_{\text{friction}} = 0 \implies f_{\text{friction}} = F_{\text{applied}} = 200\text{ N}$$
-Hence, the kinetic (marginal) friction opposing the push is exactly $200\text{ N}$.
-</details>
-
-**Q43. (71st BPSC Pre 2025)**  
-A truck starts from rest down a hill with a constant acceleration. It achieves $400\text{ meters}$ in $20\text{ seconds}$. If the weight of the truck is $7\text{ tons}$, then what will be the force acting on it?  
-(a) $11,000\text{ Newtons}$  
-(b) $12,000\text{ Newtons}$  
-(c) $13,000\text{ Newtons}$  
-(d) $14,000\text{ Newtons}$  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (d)</b><br>
-From kinematics equation $s = ut + \frac{1}{2}at^2$, with $u = 0$:<br>
-$$400 = 0 + \frac{1}{2} a (20)^2 = 200 a \implies a = \frac{400}{200} = 2\text{ m/s}^2$$
-Mass of truck $m = 7\text{ tons} = 7,000\text{ kg}$.<br>
-$$F = m a = 7,000 \times 2 = 14,000\text{ N}$$
-</details>
-
-**Q44. (71st BPSC Pre 2025)**  
-A pair of Oxen exerts a force of $140\text{ newton}$ while ploughing the field. The field ploughed is $15\text{ meter}$ long. The work done in ploughing the length of the field is:  
-(a) $1900\text{ Joule}$  
-(b) $2000\text{ Joule}$  
-(c) $2100\text{ Joule}$  
-(d) $2200\text{ Joule}$  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (c)</b><br>
-Work done $W = F s \cos\theta$. Since force and displacement are in the same direction, $\theta = 0^\circ$ and $\cos 0^\circ = 1$:<br>
-$$W = 140 \times 15 \times 1 = 2100\text{ Joules}$$
-</details>
-
-**Q45. (71st BPSC Pre 2025)**  
-The potential energy of a freely falling body continuously decreases:  
-(a) The principle of conservation of energy is violated  
-(b) The principle of conservation of energy is not violated  
-(c) Gravitational force is violated  
-(d) Gravitational force is not violated  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (b) & (d)</b><br>
-As a body drops, loss in gravitational potential energy ($-\Delta PE = mgh$) is converted into an identical gain in kinetic energy ($+\Delta KE = \frac{1}{2}mv^2$). Total mechanical energy remains conserved; gravitational force is conservative. BPSC officially awarded option (b).
-</details>
-
-**Q46. (70th BPSC Re-Exam 2024)**  
-There is no atmosphere on the surface of the moon because:  
-(a) It is closer to Earth  
-(b) Escape velocity of gas molecules is less than RMS velocity  
-(c) It revolves around Earth  
-(d) It gets light from Sun  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (b)</b><br>
-Lunar surface escape velocity ($2.38\text{ km/s}$) is smaller than the thermal root-mean-square velocity ($v_{\text{rms}}$) of gases at daytime lunar surface temperatures.
-</details>
-
-**Q47. (69th BPSC Pre 2023)**  
-Two objects of different masses falling freely near the surface of the Moon would:  
-(a) have different accelerations  
-(b) undergo a change in their inertia  
-(c) have same velocity at any instant  
-(d) experience forces of same magnitude  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (c)</b><br>
-In a vacuum without air resistance, gravitational acceleration ($g = GM/r^2$) is completely independent of the falling body's mass. Thus, both objects fall with identical acceleration and possess the same velocity at any given instant.
-</details>
-
-**Q48. (68th BPSC Pre 2022)**  
-Centripetal force is responsible to:  
-(a) independent motion of the object in space  
-(b) keep the body moving along the circular path  
-(c) fly the object along a straight line  
-(d) More than one of the above  
-(e) None of the above  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (b)</b><br>
-Centripetal force is the inward radial force required to continuously divert an object from its straight inertial path into a circular trajectory.
-</details>
-
-**Q49. (68th BPSC Pre 2022)**  
-A goalkeeper in a game of football pulls his hands backwards after holding the ball shot at the goal. This enables the goalkeeper to:  
-(a) decrease the rate of change of momentum  
-(b) exert large force on the ball  
-(c) increase the force exerted by the ball on hands  
-(d) More than one of the above  
-(e) None of the above  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (a)</b><br>
-By pulling hands backwards, contact time $\Delta t$ increases, thereby reducing $\frac{\Delta p}{\Delta t}$, which minimizes the impact force felt on the hands.
-</details>
-
-**Q50. (68th BPSC Pre 2022)**  
-Which of the following energy changes involves frictional force?  
-(a) Kinetic energy to heat energy  
-(b) Potential energy to sound energy  
-(c) Chemical energy to heat energy  
-(d) More than one of the above  
-(e) None of the above  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (a)</b><br>
-Work done against dynamic friction converts mechanical kinetic energy directly into thermal/heat energy.
-</details>
-
-**Q51. (68th BPSC Pre 2022)**  
-Ball bearings are used to convert static friction into:  
-(a) rolling friction  
-(b) drag  
-(c) sliding friction  
-(d) More than one of the above  
-(e) None of the above  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (a)</b><br>
-Ball bearings replace sliding/static contact surfaces with rolling steel balls, drastically minimizing frictional resistance.
-</details>
-
-**Q52. (68th BPSC Pre 2022)**  
-A bus is moving along a straight path and takes a sharp turn to the right side suddenly. The passengers sitting in the bus will:  
-(a) bend towards right side  
-(b) fall in the forward direction  
-(c) bend towards left side  
-(d) More than one of the above  
-(e) None of the above  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (c)</b><br>
-Due to <b>inertia of direction</b>, the upper body of passengers attempts to maintain its straight-line velocity, causing them to lean/bend towards the left when the bus abruptly swings right.
-</details>
-
-**Q53. (67th BPSC Pre 2022)**  
-An effective Coriolis force results from:  
-(a) Solar system  
-(b) Earth rotation  
-(c) interior of the Earth  
-(d) Colorado and Gulf Streams  
-(e) None of the above / More than one of the above  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (b)</b><br>
-Coriolis force is an apparent inertial force generated by the axial rotation of Earth.
-</details>
-
-**Q54. (67th BPSC Pre Re-Exam 2022)**  
-Who is the first person to define speed?  
-(a) Galileo  
-(b) Newton  
-(c) Kepler  
-(d) Ptolemy  
-(e) None of the above / More than one of the above  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (a)</b><br>
-Italian scientist <b>Galileo Galilei</b> was the first to define speed as distance covered per unit time ($v = d/t$).
-</details>
-
-**Q55. (67th BPSC Pre Re-Exam 2022)**  
-If the spinning speed of the Earth increases, then the weight of the body at the equator will:  
-(a) increase  
-(b) decrease  
-(c) remain same  
-(d) be doubled  
-(e) None of the above / More than one of the above  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (b)</b><br>
-Effective gravity at equator is $g' = g - \omega^2 R$. As rotational angular velocity $\omega$ increases, centrifugal opposition increases, reducing apparent body weight.
-</details>
-
-**Q56. (67th BPSC Pre 2022)**  
-If a feather, a rubber ball and a wooden ball are falling freely simultaneously from the same height in vacuum, then:  
-(a) the feather will reach at the ground first  
-(b) the rubber ball will reach at the ground first  
-(c) the wooden ball will reach at the ground first  
-(d) all the three will reach at the ground together  
-(e) None of the above / More than one of the above  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (d)</b><br>
-In a vacuum without air buoyancy or aerodynamic drag, all objects undergo free fall with identical acceleration $g$ and strike the ground simultaneously.
-</details>
-
-**Q57. (65th BPSC Pre 2019)**  
-Which one of the following is a scalar quantity?  
-(a) Force  
-(b) Pressure  
-(c) Velocity  
-(d) Acceleration  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (b)</b><br>
-Pressure ($P = F_{\perp}/A$) is a scalar quantity because fluid pressure acts undirectionally in all directions at a point. Force, velocity, and acceleration are vector quantities.
-</details>
-
-**Q58. (IAS Pre 2013)**  
-The known forces of nature can be divided into four classes, viz. gravity, electromagnetism, weak nuclear force and strong nuclear force. With reference to them which one of the following statements is NOT correct?  
-(a) Gravity is the strongest of the four  
-(b) Electromagnetism acts only on particles with an electric charge  
-(c) Weak nuclear force causes radioactivity  
-(d) Strong nuclear force holds protons and neutrons inside the nucleus of an atom  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (a)</b><br>
-Gravitational force is the <b>weakest</b> of the four fundamental interactions ($10^{-38}$ relative to strong nuclear force). Strong nuclear force is the strongest.
-</details>
-
-**Q59. (IAS Pre 2008)**  
-A person is sitting in a car which is at rest. The reaction from the road at each of the four wheels of the car is $R$. When the car runs on a straight level road, how will the reaction at either of the front wheels vary?  
-(a) It will be greater than $R$  
-(b) It will be less than $R$  
-(c) It will be equal to $R$  
-(d) It shall depend on the material of the road  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (c)</b><br>
-The car is in vertical mechanical equilibrium both at rest and in uniform horizontal motion on a level surface. The downward weight remains equally distributed among the four wheels, so vertical reaction remains $R$.
-</details>
-
-**Q60. (IAS Pre 2003)**  
-An oil tanker is partially filled with oil and moves forward on a level road with uniform acceleration. The free surface of oil then:  
-(a) Remains horizontal  
-(b) Is inclined to the horizontal with smaller depth at the rear end  
-(c) Is inclined to the horizontal with larger depth at the rear end  
-(d) Assumes parabolic curve  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (c)</b><br>
-Under forward horizontal acceleration $a$, a pseudo-force acts backwards on every liquid parcel, causing the liquid to pile up toward the back. The surface tilts with greater depth at the rear end (slope $\tan\theta = a/g$).
-</details>
-
-**Q61. (IAS Pre 2003)**  
-Consider the following statements:  
-A 4-wheel vehicle moving in a sharp circular path at high speed will:  
-1. Overturn about its outer wheels  
-2. Overturn about its inner wheels  
-3. Skid outwards  
-4. Skid inwards  
-Which of these statements are correct?  
-(a) 1 and 3  
-(b) 2 and 4  
-(c) 2 and 3  
-(d) 1 and 4  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (a)</b><br>
-When taking an unbanked sharp curve at high speed, centrifugal force pushes the vehicle outward, causing it to skid outwards (3). If friction prevents skidding, the outward centrifugal torque topples the car about its outer wheels (1).
-</details>
-
-**Q62. (IAS Pre 2003)**  
-If the radius of the Earth were to shrink by one percent, its mass remaining the same, the value of $g$ on the Earth's surface would:  
-(a) Increase by $0.5\%$  
-(b) Increase by $2\%$  
-(c) Decrease by $0.5\%$  
-(d) Decrease by $2\%$  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (b)</b><br>
-$g = \frac{G M}{R^2}$. If $R' = 0.99 R$, then $g' = \frac{G M}{(0.99 R)^2} = \frac{g}{0.9801} \approx 1.0204 g$ (an increase of $\approx 2\%$).
-</details>
-
-**Q63. (IAS Pre 2000)**  
-Assertion (A): A man standing on a completely frictionless surface can propel himself by whistling.  
-Reason (R): If no external force acts on a system, its momentum cannot change.  
-(a) Both A and R are true and R is the correct explanation of A  
-(b) Both A and R are true but R is not a correct explanation of A  
-(c) A is true but R is false  
-(d) A is false but R is true  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (b)</b><br>
-Both statements are true. By expelling air (whistling), the person creates a reaction force (Newton's 3rd Law), propelling himself forward. System momentum remains conserved because internal forces do not alter net momentum.
-</details>
-
-**Q64. (IAS Pre 1997)**  
-A simple machine helps a person in doing:  
-(a) Less work  
-(b) The same amount of work with lesser force  
-(c) The same amount of work slowly  
-(d) The same amount of work much faster  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (b)</b><br>
-A simple machine allows the user to apply a smaller effort force over a longer distance to accomplish the same total work.
-</details>
-
-**Q65. (IAS Pre 1996)**  
-A truck, a car, and a motorcycle have equal kinetic energies. If equal stopping forces are applied and they stop after traveling a distance of $X, Y$ and $Z$ respectively, then:  
-(a) $X > Y > Z$  
-(b) $X < Y < Z$  
-(c) $X = Y = Z$  
-(d) $X \le Y \le Z$  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (c)</b><br>
-By the Work-Energy Theorem: $W = F \cdot d = \Delta KE$. Since $KE$ and stopping force $F$ are identical for all three vehicles, stopping distance $d = KE / F$ must be equal ($X = Y = Z$).
-</details>
-
-**Q66. (IAS Pre 1995)**  
-Who among the following anticipated Newton by declaring that all things gravitate to the Earth?  
-(a) Aryabhatta  
-(b) Varahamihira  
-(c) Buddhagupta  
-(d) Brahmagupta  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (d)</b><br>
-Brahmagupta (7th century AD), author of *Brahmasphuta Siddhanta*, declared that nature pulls objects toward Earth just as water naturally flows downward.
-</details>
-
-**Q67. (IAS Pre 1994)**  
-A man jumped at a speed of $5\text{ m/s}$ from a stationary boat and the boat moved off with the speed of $0.5\text{ m/s}$. How many times is the mass of the boat greater than that of the man?  
-(a) $5.5\text{ times}$  
-(b) $4.5\text{ times}$  
-(c) $2.5\text{ times}$  
-(d) $10\text{ times}$  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (d)</b><br>
-By conservation of momentum: $M_{\text{man}} v_{\text{man}} = M_{\text{boat}} v_{\text{boat}} \implies M_{\text{boat}} = M_{\text{man}} \frac{5}{0.5} = 10 M_{\text{man}}$.
-</details>
-
-**Q68. (Jharkhand PCS Pre 2013)**  
-The separation of cream from milk by churning is due to:  
-(a) Gravitational force  
-(b) Cohesive force  
-(c) Centrifugal force  
-(d) None of the above  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (c)</b><br>
-During churning, the denser skimmed milk moves outward due to centrifugal force, leaving the lighter fat/cream droplets near the center.
-</details>
-
-**Q69. (RAS/RTS Pre 2005)**  
-In the state of weightlessness, the size of candle's flame will be:  
-(a) Longer  
-(b) Smaller  
-(c) Spherical  
-(d) Constant  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (c)</b><br>
-In weightlessness/microgravity, absence of buoyant convection means combustion occurs solely by slow molecular diffusion, creating a dim, spherical blue flame.
-</details>
-
----
-
-**Q70. (70th BPSC Pre 2024)**  
-Which of the following represent the suitable condition for the liquefaction of gases?  
-(a) Low temperature, high pressure  
-(b) Low temperature, low pressure  
-(c) High temperature, high pressure  
-(d) High temperature, low pressure  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (a)</b><br>
-Liquefaction requires compressing molecules together (high pressure) while cooling them below their critical temperature (low temperature) to overcome kinetic agitation.
-</details>
-
-**Q71. (68th BPSC Pre 2022)**  
-A form of matter has no fixed shape but it has a fixed volume. An example of this form of matter is:  
-(a) Carbon steel  
-(b) Krypton  
-(c) Kerosene  
-(d) More than one of the above  
-(e) None of the above  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (c)</b><br>
-Liquids have a definite volume but take the shape of their container. Kerosene is a liquid. Carbon steel is solid (fixed shape and volume); krypton is gas (no fixed shape or volume).
-</details>
-
-**Q72. (67th BPSC Pre Re-Exam 2022)**  
-What is the law in which under the same conditions of temperature and pressure, equal volumes of all gases contain equal number of molecules?  
-(a) Coriolis effect  
-(b) Graham's law  
-(c) Pascal's law  
-(d) Avogadro's law  
-(e) None of the above / More than one of the above  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (d)</b><br>
-Avogadro's Law states that at constant temperature and pressure, equal volumes of all gases contain an equal number of moles/molecules ($V \propto n$).
-</details>
-
-**Q73. (67th BPSC Pre 2022)**  
-A piece of ice is floating in a beaker containing water up to its brim. When whole of the ice melts:  
-(a) the water will spill on the floor  
-(b) the level of water will come down in the beaker  
-(c) the level of water will first fall and then it will spill out of the beaker  
-(d) the water level will not change  
-(e) None of the above / More than one of the above  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (d)</b><br>
-Floating ice displaces a weight of liquid equal to its own weight. When it melts into water, its volume shrinks to fit the displaced space, leaving the water level unchanged.
-</details>
-
-**Q74. (66th BPSC Pre 2020)**  
-The highest viscosity among the following is of:  
-(a) water  
-(b) air  
-(c) blood  
-(d) honey  
-(e) None of the above / More than one of the above  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (d)</b><br>
-Honey has the greatest resistance to flow among the choices.
-</details>
-
-**Q75. (IAS Pre 2012)**  
-Consider the following statements:  
-If there were no phenomenon of capillarity, then:  
-1. It would be difficult to use a kerosene lamp.  
-2. One would not be able to use a straw to consume a soft drink.  
-3. The blotting paper would fail to function.  
-4. The big trees that we see around would not have grown on the Earth.  
-Which of the following statements given above are correct?  
-(a) 1, 2 and 3 only  
-(b) 1, 3 and 4 only  
-(c) 2 and 4 only  
-(d) 1, 2, 3 and 4 only  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (b)</b><br>
-Statements 1, 3, and 4 depend on capillarity (lamp wicks, blotting pores, plant root absorption). Statement 2 is incorrect because drinking through a straw works by suction (reducing air pressure inside mouth), not capillarity.
-</details>
-
-**Q76. (IAS Pre 2007)**  
-Four wires of same material and dimensions as mentioned below are stretched by a load of same magnitude separately. Which one of them will be elongated maximum?  
-(a) Wire of $1\text{ m}$ length and $2\text{ mm}$ diameter  
-(b) Wire of $2\text{ m}$ length and $2\text{ mm}$ diameter  
-(c) Wire of $3\text{ m}$ length and $1.5\text{ mm}$ diameter  
-(d) Wire of $1\text{ m}$ length and $1\text{ mm}$ diameter  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (c)</b><br>
-Elongation $\Delta l = \frac{F L}{A Y} = \frac{4 F L}{\pi d^2 Y} \propto \frac{L}{d^2}$.<br>
-- (a): $1 / 2^2 = 0.25$<br>
-- (b): $2 / 2^2 = 0.50$<br>
-- (c): $3 / (1.5)^2 = 3 / 2.25 = 1.33$<br>
-- (d): $1 / 1^2 = 1.00$<br>
-Wire (c) has the maximum ratio of $L/d^2$ and elongates the most.
-</details>
-
-**Q77. (IAS Pre 2003)**  
-A hydrogen-inflated polythene balloon is released from the surface of the Earth. As the balloon rises to an altitude up in the atmosphere, it will:  
-(a) Decrease in size  
-(b) Flatten into disc-like shape  
-(c) Increase in size  
-(d) Maintain the same size and shape  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (c)</b><br>
-Atmospheric pressure decreases with altitude. The internal gas pressure expands the flexible balloon until pressures balance, causing it to increase in volume.
-</details>
-
-**Q78. (IAS Pre 2002)**  
-Assertion (A): With the increase of temperature, the viscosity of glycerin increases.  
-Reason (R): Rise of temperature increases kinetic energy of molecules.  
-(a) Both A and R are true, and R is the correct explanation of A  
-(b) Both A and R are true, but R is not the correct explanation of A  
-(c) A is true, but R is false  
-(d) A is false, but R is true  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (d)</b><br>
-Viscosity of liquids (including glycerin) decreases with temperature as molecular bonds weaken. Hence A is false, but R is true.
-</details>
-
-**Q79. (IAS Pre 1999)**  
-For which one of the following capillarity is NOT the only reason?  
-(a) Blotting of ink  
-(b) Rising of underground water  
-(c) Spread of water drop on a cotton cloth  
-(d) Rising of water from the roots of a plant to its foliage  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (d)</b><br>
-Water ascent to tree foliage is driven primarily by **transpiration pull and cohesion-tension**, not solely capillarity.
-</details>
-
-**Q80. (IAS Pre 1996)**  
-When an air bubble at the bottom of lake rises to the top, it will:  
-(a) Increase in size  
-(b) Decrease in size  
-(c) Maintain its size  
-(d) Flatten into a disc-like shape  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (a)</b><br>
-As the bubble rises, hydrostatic pressure ($P = P_0 + \rho g h$) drops. By Boyle's Law ($P V = \text{constant}$), the bubble volume expands.
-</details>
-
-**Q81. (IAS Pre 1994)**  
-Consider the figure of a fountain with four holes: hole 1 at the lowest depth, followed by 2, 3, and 4 near the top. Which one of the holes in the fountain will throw the water farthest?  
-(a) 4  
-(b) 3  
-(c) 2  
-(d) 1  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (d)</b><br>
-By Torricelli's Law ($v = \sqrt{2gh}$), hole 1 at the maximum depth has the greatest exit velocity and throws water the farthest.
-</details>
-
-**Q82. (IAS Pre 1994)**  
-If a gas is compressed to half of its original volume at $27^\circ\text{C}$, to what temperature should it be heated to make it occupy its original volume at constant pressure?  
-(a) $327^\circ\text{C}$  
-(b) $600^\circ\text{C}$  
-(c) $54^\circ\text{C}$  
-(d) $300^\circ\text{C}$  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (a)</b><br>
-Initial temperature $T_1 = 27 + 273 = 300\text{ K}$. Initial volume $V_1 = V/2$. Final volume $V_2 = V$.<br>
-Charles's Law: $\frac{V_1}{T_1} = \frac{V_2}{T_2} \implies \frac{V/2}{300} = \frac{V}{T_2} \implies T_2 = 600\text{ K} = 600 - 273 = 327^\circ\text{C}$.
-</details>
-
-**Q83. (RAS/RTS Pre 2007)**  
-If two bubbles of soap of different diameter come in contact through a connecting tube, then:  
-(a) The size of both bubbles will remain same  
-(b) The smaller bubble will become smaller and bigger will become bigger  
-(c) The smaller bubble will become larger and larger will become smaller  
-(d) Both bubbles will burst immediately  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (b)</b><br>
-Excess pressure inside a soap bubble is inversely proportional to radius: $\Delta P = \frac{4T}{R}$. The smaller bubble has a higher pressure than the larger bubble; hence air flows from smaller to larger, shrinking the smaller and expanding the larger.
-</details>
-
-**Q84. (Jharkhand PCS Pre 2003)**  
-In automobiles, hydraulic brakes work on:  
-(a) Archimedes Principle  
-(b) Newton's law of motion  
-(c) Bernoulli's Principle  
-(d) Pascal's Law  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (d)</b><br>
-Hydraulic brakes, presses, and jacks operate on Pascal's Law (pressure applied to an enclosed liquid is transmitted undiminished in all directions).
-</details>
-
-**Q85. (Chhattisgarh PCS Pre 2021)**  
-In which of the following conditions will the distance between molecules of carbon dioxide filled in a container increase?  
-(i) On increasing the volume of container  
-(ii) On leakage of some carbon dioxide gas from the container  
-(iii) On increasing air pressure in the container  
-(iv) On adding more carbon dioxide gas without changing container size  
-(a) (ii) and (iii)  
-(b) (iii) and (iv)  
-(c) (i) and (iii)  
-(d) (i) and (ii)  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (d)</b><br>
-Increasing container volume allows gas molecules to disperse over greater space. Leaking gas reduces particle count in the given volume, increasing average intermolecular spacing.
-</details>
-
----
-
----
-
-## Practice Zone — UPPCS Format Drill
-**Q1.** **Why does an iron needle float horizontally on water when placed carefully, but sink when pushed under?**  
-   A. Archimedes buoyant force  
-   B. Surface tension of the water surface film  
-   C. Viscous upthrust  
-   D. Atmospheric downward pressure
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B** (Surface tension forms an elastic skin; once submerged, density $7.8 > 1.0$ causes sinking).
-
-**Logic:** (Surface tension forms an elastic skin; once submerged, density $7.8 > 1.0$ causes sinking).
-
-</details>
-
-**Q2.** **The Bulk Modulus of an ideal incompressible fluid is:**  
-   A. Zero  
-   B. Unity  
-   C. Infinite ($\infty$)  
-   D. Negative
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **C** (Incompressible $\implies \Delta V = 0 \implies K = \infty$).
-
-**Logic:** (Incompressible $\implies \Delta V = 0 \implies K = \infty$).
-
-</details>
-
-**Q3.** **When a drop of oil is placed on clean water, it spreads into a thin film because:**  
-   A. Oil has higher surface tension than water  
-   B. Water has higher surface tension than oil  
-   C. Oil is denser than water  
-   D. Viscosity of oil is lower than water
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B** (Water's higher surface tension pulls the oil film outward).
-
-**Logic:** (Water's higher surface tension pulls the oil film outward).
-
-</details>
-
-**Q4.** **In a capillary tube of radius $r$, water rises to height $h$. If the tube radius is halved, water rises to:**  
-   A. $h/2$  
-   B. $h$  
-   C. $2h$  
-   D. $4h$
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **C** (Jurin's Law: $h \propto 1/r$).
-
-**Logic:** (Jurin's Law: $h \propto 1/r$).
-
-</details>
-
-**Q5.** **Which property of a solid determines the extension and behavior of a helical spring under load?**  
-   A. Young's Modulus  
-   B. Bulk Modulus  
-   C. Shear Modulus (Modulus of Rigidity)  
-   D. Poisson's Ratio
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **C**.
-
-**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
-
-</details>
-
-**Q6.** **The excess pressure inside a liquid drop of radius $R$ and surface tension $T$ is:**  
-   A. $T/R$  
-   B. $2T/R$  
-   C. $4T/R$  
-   D. $8T/R$
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B** (A liquid drop has only one surface, so $\Delta P = 2T/R$; a soap bubble has two surfaces, so $\Delta P = 4T/R$).
-
-**Logic:** (A liquid drop has only one surface, so $\Delta P = 2T/R$; a soap bubble has two surfaces, so $\Delta P = 4T/R$).
-
-</details>
-
-**Q7.** **As temperature increases, what happens to the viscosity of water and air respectively?**  
-   A. Both increase  
-   B. Both decrease  
-   C. Water viscosity decreases, air viscosity increases  
-   D. Water viscosity increases, air viscosity decreases
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **C**.
-
-**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
-
-</details>
-
-**Q8.** **A piece of pure ice floats in a glass of water. When the ice melts completely, the water level:**  
-   A. Rises  
-   B. Falls  
-   C. Remains unchanged  
-   D. First falls then rises
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **C**.
-
-**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
-
-</details>
-
-**Q9.** **The dimension of the coefficient of linear expansion ($\alpha$) is:**  
-   A. $[M^0 L^1 T^0 K^{-1}]$  
-   B. $[M^0 L^0 T^0 K^{-1}]$  
-   C. $[M^1 L^0 T^0 K^{-1}]$  
-   D. $[M^0 L^0 T^{-1} K^0]$
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B** ($K^{-1}$).
-
-**Logic:** ($K^{-1}$).
-
-</details>
-
-**Q10.** **A ship floats higher when it travels from a freshwater river into the sea because:**  
-    A. Sea water is colder  
-    B. Sea water is deeper  
-    C. Sea water is denser due to dissolved salts  
-    D. River water exerts greater viscous drag
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **C**.
-
-**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
-
-</details>
-
-**Q11.** **At what temperature is the surface tension of a liquid reduced to zero?**  
-    A. Freezing point  
-    B. Boiling point  
-    C. Absolute zero  
-    D. Critical temperature
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **D**.
-
-**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
-
-</details>
-
-**Q12.** **When positive charge is placed on a soap bubble, its radius:**  
-    A. Decreases  
-    B. Increases  
-    C. Remains identical  
-    D. Flattens into a disc
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B** (Electrostatic repulsion expands the surface).
-
-**Logic:** (Electrostatic repulsion expands the surface).
-
-</details>
-
-**Q13.** **Torricelli's law states that the velocity of efflux from a tank orifice is proportional to:**  
-    A. Depth $h$  
-    B. Square root of depth $\sqrt{h}$  
-    C. $h^2$  
-    D. Independent of $h$
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B** ($v = \sqrt{2gh}$).
-
-**Logic:** ($v = \sqrt{2gh}$).
-
-</details>
-
-**Q14.** **Which of the following is NOT an application of capillarity?**  
-    A. Kerosene rising in a lamp wick  
-    B. Blotting paper absorbing ink  
-    C. Drinking coconut water through a straw  
-    D. Towel soaking water droplets from the skin
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **C** (Drinking through a straw requires mouth suction pressure reduction).
-
-**Logic:** (Drinking through a straw requires mouth suction pressure reduction).
-
-</details>
-
-**Q15.** **The spreading parameter $S$ for liquid A on liquid B is positive ($S > 0$). This implies:**  
-    A. Liquid A beads into droplets  
-    B. Liquid A spreads completely over liquid B  
-    C. Liquid A sinks to the bottom  
-    D. Both liquids boil instantly
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B**.
-
-**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
-
-</details>
-
-**Q16.** **Why does an iron ball float on mercury but sink in water?**  
-    A. Density of mercury $>$ Iron $>$ Water  
-    B. Surface tension of mercury is lower than water  
-    C. Iron has chemical affinity for water  
-    D. Water has greater viscosity than mercury
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **A**.
-
-**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
-
-</details>
-
-**Q17.** **If four wires of the same material are pulled by equal forces, the maximum extension occurs in the wire with:**  
-    A. Longest length and largest diameter  
-    B. Shortest length and smallest diameter  
-    C. Greatest ratio of length to diameter squared ($L/d^2$)  
-    D. Smallest ratio of $L/d^2$
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **C**.
-
-**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
-
-</details>
-
-**Q18.** **An air bubble rising from the bed of a lake to the surface expands because:**  
-    A. Water temperature drops near surface  
-    B. Hydrostatic pressure decreases near surface  
-    C. Surface tension increases  
-    D. Atmospheric pressure increases
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B** ($P = P_0 + \rho gh$; decreasing $P$ causes volume expansion).
-
-**Logic:** ($P = P_0 + \rho gh$; decreasing $P$ causes volume expansion).
-
-</details>
-
-**Q19.** **Gases are most readily converted to liquids under:**  
-    A. High temperature and low pressure  
-    B. Low temperature and high pressure  
-    C. High temperature and high pressure  
-    D. Low temperature and low pressure
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B**.
-
-**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
-
-</details>
-
-**Q20.** **Clouds remain suspended and float in the atmosphere primarily because of:**  
-    A. High temperature  
-    B. Low density and atmospheric upthrust  
-    C. High velocity  
-    D. Zero gravity
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B**.
-
-**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
-
-</details>
-
-**Q21.** **The SI unit of dynamic viscosity is:**  
-    A. Poise  
-    B. Stokes  
-    C. Pascal-second ($Pa\cdot s$)  
-    D. Newton per metre
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **C** ($1\text{ Pa}\cdot s = 10\text{ Poise}$).
-
-**Logic:** ($1\text{ Pa}\cdot s = 10\text{ Poise}$).
-
-</details>
-
-**Q22.** **What fraction of a pure ice block floats above the surface of pure water?**  
-    A. $1/2$  
-    B. $1/4$  
-    C. $1/10$  
-    D. $1/9$
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **C** (In pure water, $9/10$ is submerged and $1/10$ is above).
-
-**Logic:** (In pure water, $9/10$ is submerged and $1/10$ is above).
-
-</details>
-
-**Q23.** **Hydraulic lifts and hydraulic automotive brakes are practical embodiments of:**  
-    A. Bernoulli's Principle  
-    B. Pascal's Law  
-    C. Archimedes' Principle  
-    D. Hooke's Law
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B**.
-
-**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
-
-</details>
-
-**Q24.** **In streamlined flow through a horizontal pipe, where is the fluid speed maximum?**  
-    A. In contact with the upper pipe wall  
-    B. In contact with the lower pipe wall  
-    C. Along the central longitudinal axis  
-    D. Speed is uniform everywhere
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **C**.
-
-**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
-
-</details>
-
-**Q25.** **When two soap bubbles of different radii are placed in contact, what occurs?**  
-    A. Air moves from large to small bubble  
-    B. Air moves from small to large bubble  
-    C. Both bubbles equalize in volume  
-    D. Pressure inside both bubbles is equal
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B** (Smaller bubble has higher pressure $\Delta P = 4T/R$).
-
-**Logic:** (Smaller bubble has higher pressure $\Delta P = 4T/R$).
-
----
-
----
-
-</details>
-
-## Common Traps & Negative-Marking Eliminators
-1. **Steel vs Rubber Trap**: Steel is **more elastic** than rubber ($Y_{\text{steel}} \gg Y_{\text{rubber}}$). Do not confuse everyday stretchiness with physical elasticity (restoring stress per unit strain).
-2. **Bulk Modulus of Rigid Body**: Bulk modulus of a perfectly rigid body is **Infinite ($\infty$)**, NOT zero! Compressibility is zero.
-3. **Capillarity vs Straw Suction**: Straw suction is caused by **atmospheric pressure difference** created by muscular expansion of the mouth cavity, NOT capillarity.
-4. **Viscosity Temperature Dependency**: Liquid viscosity **decreases** with temperature, but gas viscosity **increases** with temperature.
-5. **Melting Ice Water Level**: Melting floating ice cube leaves water level **strictly unchanged**. It does not rise or spill over!
-6. **Excess Pressure Soap Bubble vs Drop**: Soap bubble has **two surfaces** ($\Delta P = 4T/R$). Droplet has **one surface** ($\Delta P = 2T/R$).
-7. **Small Connected Bubbles**: Air flows from the **smaller bubble to the larger bubble** because the smaller bubble has higher internal excess pressure.
-8. **Surface Tension on Charging**: Charging a bubble makes it **expand** (radius increases) due to electrostatic repulsion.
-9. **Iceberg Floating Fractions**: In pure freshwater, $1/10\text{th}$ is above surface ($90\%$ submerged). In denser seawater, $\approx 1/9\text{th}$ is above surface ($89\%$ submerged).
-10. **Iron Needle Floatation**: An iron needle floats on water due to **surface tension**, NOT Archimedes' buoyant force!
-
-
----
 
 ## Bilingual Terminology -- Mechanics and Properties of Matter
 
@@ -1732,6 +320,1173 @@ Increasing container volume allows gas molecules to disperse over greater space.
 | **Elasticity** (प्रत्यास्थता) | प्रत्यास्थता | Ability to return to original shape after deforming force removed |
 | **Hooke's Law** (हुक का नियम) | हुक का नियम | Stress proportional to strain within elastic limit |
 | **Torque** (बल-आघूर्ण) | बल-आघूर्ण | Rotational equivalent of force; T = F x r (moment arm) |
+
+---
+
+## Complete PYQ Bank — UPPCS
+
+**Q-ST1. UPPCS Pre 2024**
+A bus covers the first half of a certain distance with speed $v_1$ and the second half with a speed $v_2$. The average speed during the whole journey is:  
+(a) $\frac{v_1 v_2}{v_1 + v_2}$  
+(b) $\frac{2 v_1 v_2}{v_1 + v_2}$  
+(c) $\frac{v_1 + v_2}{2}$  
+(d) $\sqrt{v_1 v_2}$  
+<details><summary>Show answer</summary>
+
+**Logic:** Let the total distance be $2d$.
+
+**Ans: B.** $\frac{2 v1 v2}{v1 + v2}$
+</details>
+
+**Q-ST2. UPPCS Pre 2022**
+Most of the sources of energy we use represent stored solar energy. Which of the following is NOT ultimately derived from the Sun's energy?  
+(a) Nuclear energy  
+(b) Geothermal energy  
+(c) Biomass energy  
+(d) Wind energy  
+<details><summary>Show answer</summary>
+
+**Logic:** Standard key matches Nuclear energy.
+
+**Ans: A.** Nuclear energy
+</details>
+
+**Q-ST3. UPPCS RO/ARO Mains 2017**
+For every action there is an equal and opposite reaction. The law was given by:  
+(a) Newton  
+(b) Albert Einstein  
+(c) Bohr  
+(d) Haldane  
+<details><summary>Show answer</summary>
+
+**Logic:** Standard key matches Newton.
+
+**Ans: A.** Newton
+</details>
+
+**Q-ST4. UPPCS Pre 2016**
+In wind power, which form of energy is converted into electrical energy?  
+(a) Kinetic energy  
+(b) Potential energy  
+(c) Solar energy  
+(d) Radiant energy  
+<details><summary>Show answer</summary>
+
+**Logic:** Wind is air in motion possessing kinetic energy.
+
+**Ans: A.** Kinetic energy
+</details>
+
+**Q-ST5. UPPCS Pre 2012 / Mains 2015**
+The weight of human body is:  
+(a) Maximum at the poles  
+(b) Same at every place on the Earth's surface  
+(c) Maximum at the equator  
+(d) More on the mountains than planes  
+<details><summary>Show answer</summary>
+
+**Logic:** Weight $W = mg$.
+
+**Ans: A.** Maximum at the poles
+</details>
+
+**Q-ST6. UPPCS Mains 2013**
+A man is standing on a sensitive balance. If he inhales deeply, the reading of the balance:  
+(a) Increases  
+(b) Decreases  
+(c) Remains unaffected  
+(d) May increase or decrease depending on the atmospheric pressure  
+<details><summary>Show answer</summary>
+
+**Logic:** Air has mass ($1\text{ litre of air} \approx 1.225\text{ g}$).
+
+**Ans: A.** Increases
+</details>
+
+**Q-ST7. UPPCS Mains 2013**
+Consider the following statement and conclusion:  
+Statement: In starting a loaded cart, one has to push harder than to keep it moving.  
+Conclusion:  
+(a) The weight of a moving object is less  
+(b) The wheels tend to slip initially  
+(c) There is less friction once the cart starts moving  
+(d) Practice makes perfect  
+<details><summary>Show answer</summary>
+
+**Logic:** Limiting static friction is greater than kinetic (dynamic) or rolling friction.
+
+**Ans: C.** There is less friction once the cart starts moving
+</details>
+
+**Q-ST8. UPPCS Mains 2013**
+The Earth travels in its orbit at a speed of approx $4,400\text{ km/h}$. Why do we not feel this high speed?  
+(a) Because we are too small compared to the size of the earth  
+(b) Our relative speed with respect to the Earth along the earth's orbit is zero  
+(c) The solar system as a whole is also moving  
+(d) The gravity of the Earth constantly pulls us towards the Earth's centre  
+<details><summary>Show answer</summary>
+
+**Logic:** We are situated on the Earth and share its uniform motion.
+
+**Ans: B.** Our relative speed with respect to the Earth along the earth's orbit is zero
+</details>
+
+**Q-ST9. UPPCS Mains 2013**
+Satellite is kept moving in its orbit around the Earth; it is due to:  
+(a) Centrifugal force  
+(b) Centripetal force  
+(c) Gravitational force or lack of it  
+(d) Some other forces  
+<details><summary>Show answer</summary>
+
+**Logic:** Earth's gravitational attraction provides the necessary inward centripetal force ($Fc = \frac{m v^2}{r}$) that continuously bends the satellite's linear velocity into a curved orbit.
+
+**Ans: B.** Centripetal force
+</details>
+
+**Q-ST10. UPPCS Mains 2012**
+If the gravitational force of the Earth suddenly disappears, which of the following will be the correct consequence?  
+(a) The weight of an object will become zero but the mass will remain the same  
+(b) The mass of the object will become zero but the weight will remain the same  
+(c) Both the mass and the weight of the object will become zero  
+(d) The mass of the object will increase  
+<details><summary>Show answer</summary>
+
+**Logic:** Weight is the gravitational attraction $W = mg$.
+
+**Ans: A.** The weight of an object will become zero but the mass will remain the same
+</details>
+
+**Q-ST11. UPPCS Mains 2012**
+There is no atmosphere on the Moon because:  
+(a) It is near to the Earth  
+(b) It receives light from the Sun  
+(c) It revolves around the Earth  
+(d) The escape velocity of gas molecules on it is less than the root mean square velocity here  
+<details><summary>Show answer</summary>
+
+**Logic:** The Moon's escape velocity ($Ve \approx 2.38\text{ km/s}$) is very low due to its weak gravity.
+
+**Ans: D.** The escape velocity of gas molecules on it is less than the root mean square velocity here
+</details>
+
+**Q-ST12. UPPCS Pre 2010**
+If an apple is released from an orbiting spaceship, it will:  
+(a) Fall towards the Earth  
+(b) Move at a lower speed  
+(c) Move along with the spaceship at the same speed  
+(d) Move at a higher speed  
+<details><summary>Show answer</summary>
+
+**Logic:** An apple released from a spacecraft already possesses the exact same tangential orbital speed as the spacecraft and is subject to the same gravitational centripetal acceleration; hence it continues in the same orbit alo…
+
+**Ans: C.** Move along with the spaceship at the same speed
+</details>
+
+**Q-ST13. UPPCS Pre 2009**
+The Leaning Tower of Pisa does not fall because:  
+(a) It is tapered at the top  
+(b) It covers a large base area  
+(c) Its centre of gravity remains at the lowest position  
+(d) The vertical line through the centre of gravity of the tower falls within its base  
+<details><summary>Show answer</summary>
+
+**Logic:** A structure remains in stable mechanical equilibrium as long as the vertical line drawn downwards from its centre of gravity passes through the perimeter of its base of support.
+
+**Ans: D.** The vertical line through the centre of gravity of the tower falls within its base
+</details>
+
+**Q-ST14. UPPCS Mains 2009**
+If the distance between the Earth and the Sun were twice what it is now, the gravitational force exerted on the Earth by the Sun would be:  
+(a) Twice as large as it is now  
+(b) Four times as large as it is now  
+(c) One fourth of what it is now  
+(d) Half of what it is now  
+<details><summary>Show answer</summary>
+
+**Logic:** Newton's law of gravitation states $F \propto \frac{1}{r^2}$.
+
+**Ans: C.** One fourth of what it is now
+</details>
+
+**Q-ST15. UPPCS Pre 2009**
+Assertion (A): Lighting a candle in space does not produce a flame.  
+Reason (R): A flame exists due to the pull of gravity.  
+(a) Both A and R are true and R is the correct explanation of A  
+(b) Both A and R are true but R is not the correct explanation  
+(c) A is true but R is false  
+(d) A is false but R is true  
+<details><summary>Show answer</summary>
+
+**Logic:** On Earth, gravitational buoyancy causes heated, less dense combustion gases to rise and fresh denser oxygen-rich air to be drawn in (convection).
+
+**Ans: A.** Both A and R are true and R is the correct explanation of A
+</details>
+
+**Q-ST16. UPPCS Pre 2006**
+A Geosynchronous satellite is continuously active in its orbit due to centripetal force which is obtained by:  
+(a) The rocket engine that propelled the satellite  
+(b) The gravitational force on the satellite by the earth  
+(c) The gravitational force on the satellite by the sun  
+(d) The gravitational force on the earth by satellite  
+<details><summary>Show answer</summary>
+
+**Logic:** Earth's gravitational force on the satellite supplies the required centripetal acceleration ($F = \frac{G Me m}{r^2} = \frac{m v^2}{r}$).
+
+**Ans: B.** The gravitational force on the satellite by the earth
+</details>
+
+**Q-ST17. UPPCS Mains 2004 / 1997**
+The working principle of a washing machine is:  
+(a) Centrifugation  
+(b) Dialysis  
+(c) Reverse osmosis  
+(d) Diffusion  
+<details><summary>Show answer</summary>
+
+**Logic:** Washing machine spin dryers operate on centrifugation , using high-speed rotation where centrifugal inertia forces water droplets out of wet clothing through perforations.
+
+**Ans: A.** Centrifugation
+</details>
+
+**Q-ST18. UPPCS Pre 2003**
+What is the correct equation for finding the acceleration?  
+(a) $a = \frac{v - u}{t}$  
+(b) $a = u + vt$  
+(c) $a = \frac{u + v}{t}$  
+(d) $a = \frac{v + u}{t}$  
+<details><summary>Show answer</summary>
+
+**Logic:** From first equation of motion: $v = u + at \implies at = v - u \implies a = \frac{v - u}{t}$.
+
+**Ans: A.** $a = \frac{v - u}{t}$
+</details>
+
+**Q-ST19. UPPCS Pre 1994**
+It is difficult to walk on ice than on the road because:  
+(a) Ice is harder than the road  
+(b) Road is harder than the ice  
+(c) Ice does not offer any reaction when we push it with our foot  
+(d) Ice has a lesser friction than the road  
+<details><summary>Show answer</summary>
+
+**Logic:** The coefficient of friction between shoes and ice is extremely small compared to rough asphalt roads, preventing sufficient backward pushing force to produce a forward reaction.
+
+**Ans: D.** Ice has a lesser friction than the road
+</details>
+
+**Q-ST20. UPPCS Pre 1990**
+If a person is sitting in a lift, when will he feel that his weight has increased?  
+(a) When the elevator is going upward expeditiously (accelerating upward)  
+(b) When the elevator is going down expeditiously  
+(c) Going upward with constant velocity  
+(d) Going downward with constant velocity  
+<details><summary>Show answer</summary>
+
+**Logic:** When an elevator accelerates upward with acceleration $a$, normal contact reaction $N = m(g + a) > mg$.
+
+**Ans: A.** When the elevator is going upward expeditiously (accelerating upward)
+</details>
+
+---
+
+**Q-ST21. UP RO/ARO Pre 2023**
+With reference to the mechanical properties of solids, which of the following statement/s is/are correct?  
+(1) The Young's Modulus of rubber is greater than that of steel.  
+(2) The stretching of a coil is determined by its Shear Modulus.  
+(a) Only (2)  
+(b) Neither (1) nor (2)  
+(c) Both (1) and (2)  
+(d) Only (1)  
+<details><summary>Show answer</summary>
+
+**Logic:** Statement (1) is incorrect: Steel is more elastic than rubber; its Young's Modulus is much higher ($Y{\text{steel}} \approx 2 \times 10^{11}\text{ Pa}$ vs $Y{\text{rubber}} \approx 10^7\text{ Pa}$).
+
+**Ans: A.** Only (2)
+</details>
+
+**Q-ST22. UPPCS Pre 2019**
+What happens when some charge is placed on a soap bubble?  
+(a) Its radius increases  
+(b) Its radius decreases  
+(c) The bubble collapses  
+(d) None of the above  
+<details><summary>Show answer</summary>
+
+**Logic:** Charge placed on a soap bubble distributes uniformly over its spherical surface.
+
+**Ans: A.** Its radius increases
+</details>
+
+**Q-ST23. UPPCS Pre 2014 / 1995**
+Pressure inside a soap bubble is:  
+(a) More than atmospheric pressure  
+(b) Less than atmospheric pressure  
+(c) Equal to atmospheric pressure  
+(d) Half of atmospheric pressure  
+<details><summary>Show answer</summary>
+
+**Logic:** A soap bubble has two liquid surfaces in contact with air (inner and outer).
+
+**Ans: A.** More than atmospheric pressure
+</details>
+
+**Q-ST24. UPPCS Mains 2012**
+An iron needle floats on the surface of water due to:  
+(a) Upthrust of water  
+(b) Surface tension  
+(c) Viscosity  
+(d) Gravitational force  
+<details><summary>Show answer</summary>
+
+**Logic:** A clean iron needle placed gently on calm water does not pierce the surface film; the upward surface tension component of water supports the weight of the needle.
+
+**Ans: B.** Surface tension
+</details>
+
+**Q-ST25. UPPCS Pre 2009**
+While lifting a bucket of water from a well, we feel that the bucket:  
+(a) Becomes heavier above the surface of water  
+(b) Becomes lighter above the surface of water  
+(c) Loses stability on coming out of the water  
+(d) Has gained mass on coming out of water  
+<details><summary>Show answer</summary>
+
+**Logic:** Inside water, buoyant upthrust ($FB = \rhow V g$) reduces apparent weight ($W{\text{app}} = W - FB$).
+
+**Ans: A.** Becomes heavier above the surface of water
+</details>
+
+**Q-ST26. UPPCS Pre 2005**
+The rain drops are spherical because:  
+(a) They fall from big height  
+(b) The air has resistance  
+(c) The water has surface tension  
+(d) None of the above  
+<details><summary>Show answer</summary>
+
+**Logic:** Surface tension forces a liquid surface to contract to the minimum possible surface area for a given volume.
+
+**Ans: C.** The water has surface tension
+</details>
+
+**Q-ST27. UPPCS Pre 2005**
+While floating in a sea what part of an iceberg is above the surface of the sea?  
+(a) $1/9$  
+(b) $1/10$  
+(c) $1/6$  
+(d) $1/4$  
+<details><summary>Show answer</summary>
+
+**Logic:** Standard key matches $1/9$.
+
+**Ans: A.** $1/9$
+</details>
+
+**Q-ST28. UPPCS Pre 2003**
+A liquid is flowing in a streamlined manner through a cylindrical pipe. Along with a section containing the axis of the pipe, the flow profile will be:  
+(a) Flat horizontal  
+(b) Highest near pipe walls  
+(c) Parabolic with maximum velocity along the central axis  
+(d) Sinusoidal  
+<details><summary>Show answer</summary>
+
+**Logic:** Due to viscosity and the no-slip condition, fluid velocity is zero at the pipe walls and increases parabolically to a maximum at the central axis.
+
+**Ans: C.** Parabolic with maximum velocity along the central axis
+</details>
+
+**Q-ST29. UPPCS Pre 1994 / UDA 2002**
+Oil spreads on water surface because:  
+(a) Oil is denser than water  
+(b) Oil is less dense than water  
+(c) Surface tension of oil is more than water  
+(d) Surface tension of oil is less than water  
+<details><summary>Show answer</summary>
+
+**Logic:** The surface tension of water ($\approx 72.8\text{ mN/m}$) is higher than that of oil ($\approx 30\text{ mN/m}$).
+
+**Ans: D.** Surface tension of oil is less than water
+</details>
+
+**Q-ST30. UPPCS Pre 1994**
+Why does an iron nail float on mercury while it sinks in water?  
+(a) Due to less chemical interaction of iron with mercury  
+(b) Iron is heavier than water and lighter than mercury  
+(c) Iron has greater density than water and lesser than mercury  
+(d) Mercury is heavier than water  
+<details><summary>Show answer</summary>
+
+**Logic:** Density of iron is $\approx 7.8\text{ g/cm}^3$, water is $1.0\text{ g/cm}^3$, and mercury is $13.6\text{ g/cm}^3$.
+
+**Ans: C.** Iron has greater density than water and lesser than mercury
+</details>
+
+**Q-ST31. UPPCS Pre 1992**
+While travelling by plane, the ink of the pen starts to come out:  
+(a) Due to decrease in air pressure  
+(b) Due to increase in air pressure  
+(c) Due to increase in volume of ink  
+(d) Due to excessive load  
+<details><summary>Show answer</summary>
+
+**Logic:** Atmospheric pressure decreases with altitude.
+
+**Ans: A.** Due to decrease in air pressure
+</details>
+
+**Q-ST32. UPPCS Pre 1992**
+Increasing the amount of a substance does not change its:  
+(a) Volume  
+(b) Weight  
+(c) Mass  
+(d) Density  
+<details><summary>Show answer</summary>
+
+**Logic:** Standard key matches Density.
+
+**Ans: D.** Density
+</details>
+
+**Q-ST33. UP Lower Sub. Pre 2004 / UPPCS 1992**
+When a ship enters a sea from a river, what happens?  
+(a) It rises a little  
+(b) It remains at the same level  
+(c) It sinks a little  
+(d) It immerses in the bottom of the sea  
+<details><summary>Show answer</summary>
+
+**Logic:** Sea water contains dissolved salts, giving it a higher density than river water.
+
+**Ans: A.** It rises a little
+</details>
+
+**Q-ST34. UPRO/ARO Mains 2014**
+$200\text{ gm}$ of water is filled in a weightless balloon. Its weight in water will be:  
+(a) Zero  
+(b) $100\text{ gm}$  
+(c) $200\text{ gm}$  
+(d) $400\text{ gm}$  
+<details><summary>Show answer</summary>
+
+**Logic:** Standard key matches Zero.
+
+**Ans: A.** Zero
+</details>
+
+---
+
+---
+
+## Complete PYQ Bank — UKPCS
+
+**Q-ST35. Uttarakhand PCS Pre 2024**
+What will be the de Broglie wavelength of a ball of mass $0.12\text{ kg}$ moving with a speed of $20\text{ ms}^{-1}$?  
+(a) $6.63 \times 10^{-30}\text{ m}$  
+(b) $6.63 \times 10^{-34}\text{ m}$  
+(c) $2.76 \times 10^{-30}\text{ m}$  
+(d) $2.76 \times 10^{-34}\text{ m}$  
+<details><summary>Show answer</summary>
+
+**Logic:** $$\lambda = \frac{h}{p} = \frac{h}{m v}$$ Given $h = 6.63 \times 10^{-34}\text{ J}\cdot s$, $m = 0.12\text{ kg}$, $v = 20\text{ m/s}$.
+
+**Ans: D.** $2.76 \times 10^{-34}\text{ m}$
+</details>
+
+**Q-ST36. Uttarakhand Lower Sub. Pre 2010**
+The energy of wind is:  
+(a) Only potential  
+(b) Only kinetic  
+(c) Electrical  
+(d) Potential and kinetic both  
+<details><summary>Show answer</summary>
+
+**Logic:** Wind is moving atmospheric air mass.
+
+**Ans: B.** Only kinetic
+</details>
+
+---
+
+**Q-ST37. Uttarakhand PCS Pre 2025**
+Bulk Modulus for a perfectly rigid body is:  
+(a) Infinite  
+(b) Zero  
+(c) Unity  
+(d) Some finite low value  
+<details><summary>Show answer</summary>
+
+**Logic:** A perfectly rigid body undergoes zero volumetric change ($\Delta V = 0$) under any applied stress.
+
+**Ans: A.** Infinite
+</details>
+
+**Q-ST38. Uttarakhand PCS Pre 2025**
+Consider the following statements:  
+1. The coefficient of linear expansion has dimension $K^{-1}$.  
+2. The coefficient of volume expansion has dimension $K^{-1}$.  
+(a) Both 1 and 2 are correct  
+(b) 1 is correct but 2 is wrong  
+(c) 2 is correct but 1 is wrong  
+(d) Both 1 and 2 are wrong  
+<details><summary>Show answer</summary>
+
+**Logic:** Linear expansion: $\alpha = \frac{\Delta L}{L \Delta T} \implies$ Dimension $[M^0 L^0 T^0 K^{-1}]$.
+
+**Ans: A.** Both 1 and 2 are correct
+</details>
+
+**Q-ST39. Uttarakhand PCS Pre 2016**
+With the rise of temperature, the viscosity of liquid:  
+(a) Increases  
+(b) Decreases  
+(c) Remains unchanged  
+(d) May increase or decrease depending on nature of liquid  
+<details><summary>Show answer</summary>
+
+**Logic:** Rising temperature increases the thermal kinetic agitation of liquid molecules, weakening intermolecular cohesive bonds and reducing viscosity.
+
+**Ans: B.** Decreases
+</details>
+
+**Q-ST40. Uttarakhand Lower Sub. Pre 2010**
+Which one of the following is most viscous?  
+(a) Alcohol  
+(b) Water  
+(c) Honey  
+(d) Gasoline  
+<details><summary>Show answer</summary>
+
+**Logic:** Standard key matches Honey.
+
+**Ans: C.** Honey
+</details>
+
+**Q-ST41. Uttarakhand Lower Sub. Pre 2010**
+Kerosene oil floats on water because:  
+(a) Its density is greater than the density of water  
+(b) Its density is less than the density of water  
+(c) Its density is equal to that of the density of water  
+(d) None of the above  
+<details><summary>Show answer</summary>
+
+**Logic:** Kerosene has a density of $\approx 0.8\text{ g/cm}^3$, which is lower than water ($1.0\text{ g/cm}^3$).
+
+**Ans: B.** Its density is less than the density of water
+</details>
+
+---
+
+---
+
+## Complete PYQ Bank — BPSC, IAS & Other State PCS (Ghatnachakra Focus)
+
+**Q-ST42. 71st BPSC Pre 2025**
+We apply a force of $200\text{ Newtons}$ on a wooden Box and push it on the floor at constant velocity. The marginal friction force will be:  
+(a) $100\text{ Newtons}$  
+(b) $200\text{ Newtons}$  
+(c) $300\text{ Newtons}$  
+(d) $400\text{ Newtons}$  
+<details><summary>Show answer</summary>
+
+**Logic:** Constant velocity means acceleration $a = 0$.
+
+**Ans: B.** $200\text{ Newtons}$
+</details>
+
+**Q-ST43. 71st BPSC Pre 2025**
+A truck starts from rest down a hill with a constant acceleration. It achieves $400\text{ meters}$ in $20\text{ seconds}$. If the weight of the truck is $7\text{ tons}$, then what will be the force acting on it?  
+(a) $11,000\text{ Newtons}$  
+(b) $12,000\text{ Newtons}$  
+(c) $13,000\text{ Newtons}$  
+(d) $14,000\text{ Newtons}$  
+<details><summary>Show answer</summary>
+
+**Logic:** From kinematics equation $s = ut + \frac{1}{2}at^2$, with $u = 0$: $$400 = 0 + \frac{1}{2} a (20)^2 = 200 a \implies a = \frac{400}{200} = 2\text{ m/s}^2$$ Mass of truck $m = 7\text{ tons} = 7,000\text{ kg}$.
+
+**Ans: D.** $14,000\text{ Newtons}$
+</details>
+
+**Q-ST44. 71st BPSC Pre 2025**
+A pair of Oxen exerts a force of $140\text{ newton}$ while ploughing the field. The field ploughed is $15\text{ meter}$ long. The work done in ploughing the length of the field is:  
+(a) $1900\text{ Joule}$  
+(b) $2000\text{ Joule}$  
+(c) $2100\text{ Joule}$  
+(d) $2200\text{ Joule}$  
+<details><summary>Show answer</summary>
+
+**Logic:** Work done $W = F s \cos\theta$.
+
+**Ans: C.** $2100\text{ Joule}$
+</details>
+
+**Q-ST45. 71st BPSC Pre 2025**
+The potential energy of a freely falling body continuously decreases:  
+(a) The principle of conservation of energy is violated  
+(b) The principle of conservation of energy is not violated  
+(c) Gravitational force is violated  
+(d) Gravitational force is not violated  
+<details><summary>Show answer</summary>
+
+**Logic:** Standard key matches The principle of conservation of energy is not violated.
+
+**Ans: B.** The principle of conservation of energy is not violated
+</details>
+
+**Q-ST46. 70th BPSC Re-Exam 2024**
+There is no atmosphere on the surface of the moon because:  
+(a) It is closer to Earth  
+(b) Escape velocity of gas molecules is less than RMS velocity  
+(c) It revolves around Earth  
+(d) It gets light from Sun  
+<details><summary>Show answer</summary>
+
+**Logic:** Lunar surface escape velocity ($2.38\text{ km/s}$) is smaller than the thermal root-mean-square velocity ($v{\text{rms}}$) of gases at daytime lunar surface temperatures.
+
+**Ans: B.** Escape velocity of gas molecules is less than RMS velocity
+</details>
+
+**Q-ST47. 69th BPSC Pre 2023**
+Two objects of different masses falling freely near the surface of the Moon would:  
+(a) have different accelerations  
+(b) undergo a change in their inertia  
+(c) have same velocity at any instant  
+(d) experience forces of same magnitude  
+<details><summary>Show answer</summary>
+
+**Logic:** In a vacuum without air resistance, gravitational acceleration ($g = GM/r^2$) is completely independent of the falling body's mass.
+
+**Ans: C.** have same velocity at any instant
+</details>
+
+**Q-ST48. 68th BPSC Pre 2022**
+Centripetal force is responsible to:  
+(a) independent motion of the object in space  
+(b) keep the body moving along the circular path  
+(c) fly the object along a straight line  
+(d) More than one of the above  
+(e) None of the above  
+<details><summary>Show answer</summary>
+
+**Logic:** Centripetal force is the inward radial force required to continuously divert an object from its straight inertial path into a circular trajectory.
+
+**Ans: B.** keep the body moving along the circular path
+</details>
+
+**Q-ST49. 68th BPSC Pre 2022**
+A goalkeeper in a game of football pulls his hands backwards after holding the ball shot at the goal. This enables the goalkeeper to:  
+(a) decrease the rate of change of momentum  
+(b) exert large force on the ball  
+(c) increase the force exerted by the ball on hands  
+(d) More than one of the above  
+(e) None of the above  
+<details><summary>Show answer</summary>
+
+**Logic:** By pulling hands backwards, contact time $\Delta t$ increases, thereby reducing $\frac{\Delta p}{\Delta t}$, which minimizes the impact force felt on the hands.
+
+**Ans: A.** decrease the rate of change of momentum
+</details>
+
+**Q-ST50. 68th BPSC Pre 2022**
+Which of the following energy changes involves frictional force?  
+(a) Kinetic energy to heat energy  
+(b) Potential energy to sound energy  
+(c) Chemical energy to heat energy  
+(d) More than one of the above  
+(e) None of the above  
+<details><summary>Show answer</summary>
+
+**Logic:** Work done against dynamic friction converts mechanical kinetic energy directly into thermal/heat energy.
+
+**Ans: A.** Kinetic energy to heat energy
+</details>
+
+**Q-ST51. 68th BPSC Pre 2022**
+Ball bearings are used to convert static friction into:  
+(a) rolling friction  
+(b) drag  
+(c) sliding friction  
+(d) More than one of the above  
+(e) None of the above  
+<details><summary>Show answer</summary>
+
+**Logic:** Ball bearings replace sliding/static contact surfaces with rolling steel balls, drastically minimizing frictional resistance.
+
+**Ans: A.** rolling friction
+</details>
+
+**Q-ST52. 68th BPSC Pre 2022**
+A bus is moving along a straight path and takes a sharp turn to the right side suddenly. The passengers sitting in the bus will:  
+(a) bend towards right side  
+(b) fall in the forward direction  
+(c) bend towards left side  
+(d) More than one of the above  
+(e) None of the above  
+<details><summary>Show answer</summary>
+
+**Logic:** Due to inertia of direction , the upper body of passengers attempts to maintain its straight-line velocity, causing them to lean/bend towards the left when the bus abruptly swings right.
+
+**Ans: C.** bend towards left side
+</details>
+
+**Q-ST53. 67th BPSC Pre 2022**
+An effective Coriolis force results from:  
+(a) Solar system  
+(b) Earth rotation  
+(c) interior of the Earth  
+(d) Colorado and Gulf Streams  
+(e) None of the above / More than one of the above  
+<details><summary>Show answer</summary>
+
+**Logic:** Coriolis force is an apparent inertial force generated by the axial rotation of Earth.
+
+**Ans: B.** Earth rotation
+</details>
+
+**Q-ST54. 67th BPSC Pre Re-Exam 2022**
+Who is the first person to define speed?  
+(a) Galileo  
+(b) Newton  
+(c) Kepler  
+(d) Ptolemy  
+(e) None of the above / More than one of the above  
+<details><summary>Show answer</summary>
+
+**Logic:** Standard key matches Galileo.
+
+**Ans: A.** Galileo
+</details>
+
+**Q-ST55. 67th BPSC Pre Re-Exam 2022**
+If the spinning speed of the Earth increases, then the weight of the body at the equator will:  
+(a) increase  
+(b) decrease  
+(c) remain same  
+(d) be doubled  
+(e) None of the above / More than one of the above  
+<details><summary>Show answer</summary>
+
+**Logic:** Effective gravity at equator is $g' = g - \omega^2 R$.
+
+**Ans: B.** decrease
+</details>
+
+**Q-ST56. 67th BPSC Pre 2022**
+If a feather, a rubber ball and a wooden ball are falling freely simultaneously from the same height in vacuum, then:  
+(a) the feather will reach at the ground first  
+(b) the rubber ball will reach at the ground first  
+(c) the wooden ball will reach at the ground first  
+(d) all the three will reach at the ground together  
+(e) None of the above / More than one of the above  
+<details><summary>Show answer</summary>
+
+**Logic:** In a vacuum without air buoyancy or aerodynamic drag, all objects undergo free fall with identical acceleration $g$ and strike the ground simultaneously.
+
+**Ans: D.** all the three will reach at the ground together
+</details>
+
+**Q-ST57. 65th BPSC Pre 2019**
+Which one of the following is a scalar quantity?  
+(a) Force  
+(b) Pressure  
+(c) Velocity  
+(d) Acceleration  
+<details><summary>Show answer</summary>
+
+**Logic:** Pressure ($P = F{\perp}/A$) is a scalar quantity because fluid pressure acts undirectionally in all directions at a point.
+
+**Ans: B.** Pressure
+</details>
+
+**Q-ST58. IAS Pre 2013**
+The known forces of nature can be divided into four classes, viz. gravity, electromagnetism, weak nuclear force and strong nuclear force. With reference to them which one of the following statements is NOT correct?  
+(a) Gravity is the strongest of the four  
+(b) Electromagnetism acts only on particles with an electric charge  
+(c) Weak nuclear force causes radioactivity  
+(d) Strong nuclear force holds protons and neutrons inside the nucleus of an atom  
+<details><summary>Show answer</summary>
+
+**Logic:** Gravitational force is the weakest of the four fundamental interactions ($10^{-38}$ relative to strong nuclear force).
+
+**Ans: A.** Gravity is the strongest of the four
+</details>
+
+**Q-ST59. IAS Pre 2008**
+A person is sitting in a car which is at rest. The reaction from the road at each of the four wheels of the car is $R$. When the car runs on a straight level road, how will the reaction at either of the front wheels vary?  
+(a) It will be greater than $R$  
+(b) It will be less than $R$  
+(c) It will be equal to $R$  
+(d) It shall depend on the material of the road  
+<details><summary>Show answer</summary>
+
+**Logic:** The car is in vertical mechanical equilibrium both at rest and in uniform horizontal motion on a level surface.
+
+**Ans: C.** It will be equal to $R$
+</details>
+
+**Q-ST60. IAS Pre 2003**
+An oil tanker is partially filled with oil and moves forward on a level road with uniform acceleration. The free surface of oil then:  
+(a) Remains horizontal  
+(b) Is inclined to the horizontal with smaller depth at the rear end  
+(c) Is inclined to the horizontal with larger depth at the rear end  
+(d) Assumes parabolic curve  
+<details><summary>Show answer</summary>
+
+**Logic:** Under forward horizontal acceleration $a$, a pseudo-force acts backwards on every liquid parcel, causing the liquid to pile up toward the back.
+
+**Ans: C.** Is inclined to the horizontal with larger depth at the rear end
+</details>
+
+**Q-ST61. IAS Pre 2003**
+Consider the following statements:  
+A 4-wheel vehicle moving in a sharp circular path at high speed will:  
+1. Overturn about its outer wheels  
+2. Overturn about its inner wheels  
+3. Skid outwards  
+4. Skid inwards  
+Which of these statements are correct?  
+(a) 1 and 3  
+(b) 2 and 4  
+(c) 2 and 3  
+(d) 1 and 4  
+<details><summary>Show answer</summary>
+
+**Logic:** Standard key matches 1 and 3.
+
+**Ans: A.** 1 and 3
+</details>
+
+**Q-ST62. IAS Pre 2003**
+If the radius of the Earth were to shrink by one percent, its mass remaining the same, the value of $g$ on the Earth's surface would:  
+(a) Increase by $0.5\%$  
+(b) Increase by $2\%$  
+(c) Decrease by $0.5\%$  
+(d) Decrease by $2\%$  
+<details><summary>Show answer</summary>
+
+**Logic:** $g = \frac{G M}{R^2}$.
+
+**Ans: B.** Increase by $2\%$
+</details>
+
+**Q-ST63. IAS Pre 2000**
+Assertion (A): A man standing on a completely frictionless surface can propel himself by whistling.  
+Reason (R): If no external force acts on a system, its momentum cannot change.  
+(a) Both A and R are true and R is the correct explanation of A  
+(b) Both A and R are true but R is not a correct explanation of A  
+(c) A is true but R is false  
+(d) A is false but R is true  
+<details><summary>Show answer</summary>
+
+**Logic:** Both statements are true.
+
+**Ans: B.** Both A and R are true but R is not a correct explanation of A
+</details>
+
+**Q-ST64. IAS Pre 1997**
+A simple machine helps a person in doing:  
+(a) Less work  
+(b) The same amount of work with lesser force  
+(c) The same amount of work slowly  
+(d) The same amount of work much faster  
+<details><summary>Show answer</summary>
+
+**Logic:** A simple machine allows the user to apply a smaller effort force over a longer distance to accomplish the same total work.
+
+**Ans: B.** The same amount of work with lesser force
+</details>
+
+**Q-ST65. IAS Pre 1996**
+A truck, a car, and a motorcycle have equal kinetic energies. If equal stopping forces are applied and they stop after traveling a distance of $X, Y$ and $Z$ respectively, then:  
+(a) $X > Y > Z$  
+(b) $X < Y < Z$  
+(c) $X = Y = Z$  
+(d) $X \le Y \le Z$  
+<details><summary>Show answer</summary>
+
+**Logic:** By the Work-Energy Theorem: $W = F \cdot d = \Delta KE$.
+
+**Ans: C.** $X = Y = Z$
+</details>
+
+**Q-ST66. IAS Pre 1995**
+Who among the following anticipated Newton by declaring that all things gravitate to the Earth?  
+(a) Aryabhatta  
+(b) Varahamihira  
+(c) Buddhagupta  
+(d) Brahmagupta  
+<details><summary>Show answer</summary>
+
+**Logic:** Brahmagupta (7th century AD), author of Brahmasphuta Siddhanta, declared that nature pulls objects toward Earth just as water naturally flows downward.
+
+**Ans: D.** Brahmagupta
+</details>
+
+**Q-ST67. IAS Pre 1994**
+A man jumped at a speed of $5\text{ m/s}$ from a stationary boat and the boat moved off with the speed of $0.5\text{ m/s}$. How many times is the mass of the boat greater than that of the man?  
+(a) $5.5\text{ times}$  
+(b) $4.5\text{ times}$  
+(c) $2.5\text{ times}$  
+(d) $10\text{ times}$  
+<details><summary>Show answer</summary>
+
+**Logic:** By conservation of momentum: $M{\text{man}} v{\text{man}} = M{\text{boat}} v{\text{boat}} \implies M{\text{boat}} = M{\text{man}} \frac{5}{0.5} = 10 M{\text{man}}$.
+
+**Ans: D.** $10\text{ times}$
+</details>
+
+**Q-ST68. Jharkhand PCS Pre 2013**
+The separation of cream from milk by churning is due to:  
+(a) Gravitational force  
+(b) Cohesive force  
+(c) Centrifugal force  
+(d) None of the above  
+<details><summary>Show answer</summary>
+
+**Logic:** During churning, the denser skimmed milk moves outward due to centrifugal force, leaving the lighter fat/cream droplets near the center.
+
+**Ans: C.** Centrifugal force
+</details>
+
+**Q-ST69. RAS/RTS Pre 2005**
+In the state of weightlessness, the size of candle's flame will be:  
+(a) Longer  
+(b) Smaller  
+(c) Spherical  
+(d) Constant  
+<details><summary>Show answer</summary>
+
+**Logic:** In weightlessness/microgravity, absence of buoyant convection means combustion occurs solely by slow molecular diffusion, creating a dim, spherical blue flame.
+
+**Ans: C.** Spherical
+</details>
+
+---
+
+**Q-ST70. 70th BPSC Pre 2024**
+Which of the following represent the suitable condition for the liquefaction of gases?  
+(a) Low temperature, high pressure  
+(b) Low temperature, low pressure  
+(c) High temperature, high pressure  
+(d) High temperature, low pressure  
+<details><summary>Show answer</summary>
+
+**Logic:** Liquefaction requires compressing molecules together (high pressure) while cooling them below their critical temperature (low temperature) to overcome kinetic agitation.
+
+**Ans: A.** Low temperature, high pressure
+</details>
+
+**Q-ST71. 68th BPSC Pre 2022**
+A form of matter has no fixed shape but it has a fixed volume. An example of this form of matter is:  
+(a) Carbon steel  
+(b) Krypton  
+(c) Kerosene  
+(d) More than one of the above  
+(e) None of the above  
+<details><summary>Show answer</summary>
+
+**Logic:** Liquids have a definite volume but take the shape of their container.
+
+**Ans: C.** Kerosene
+</details>
+
+**Q-ST72. 67th BPSC Pre Re-Exam 2022**
+What is the law in which under the same conditions of temperature and pressure, equal volumes of all gases contain equal number of molecules?  
+(a) Coriolis effect  
+(b) Graham's law  
+(c) Pascal's law  
+(d) Avogadro's law  
+(e) None of the above / More than one of the above  
+<details><summary>Show answer</summary>
+
+**Logic:** Avogadro's Law states that at constant temperature and pressure, equal volumes of all gases contain an equal number of moles/molecules ($V \propto n$).
+
+**Ans: D.** Avogadro's law
+</details>
+
+**Q-ST73. 67th BPSC Pre 2022**
+A piece of ice is floating in a beaker containing water up to its brim. When whole of the ice melts:  
+(a) the water will spill on the floor  
+(b) the level of water will come down in the beaker  
+(c) the level of water will first fall and then it will spill out of the beaker  
+(d) the water level will not change  
+(e) None of the above / More than one of the above  
+<details><summary>Show answer</summary>
+
+**Logic:** Floating ice displaces a weight of liquid equal to its own weight.
+
+**Ans: D.** the water level will not change
+</details>
+
+**Q-ST74. 66th BPSC Pre 2020**
+The highest viscosity among the following is of:  
+(a) water  
+(b) air  
+(c) blood  
+(d) honey  
+(e) None of the above / More than one of the above  
+<details><summary>Show answer</summary>
+
+**Logic:** Standard key matches honey.
+
+**Ans: D.** honey
+</details>
+
+**Q-ST75. IAS Pre 2012**
+Consider the following statements:  
+If there were no phenomenon of capillarity, then:  
+1. It would be difficult to use a kerosene lamp.  
+2. One would not be able to use a straw to consume a soft drink.  
+3. The blotting paper would fail to function.  
+4. The big trees that we see around would not have grown on the Earth.  
+Which of the following statements given above are correct?  
+(a) 1, 2 and 3 only  
+(b) 1, 3 and 4 only  
+(c) 2 and 4 only  
+(d) 1, 2, 3 and 4 only  
+<details><summary>Show answer</summary>
+
+**Logic:** Statements 1, 3, and 4 depend on capillarity (lamp wicks, blotting pores, plant root absorption).
+
+**Ans: B.** 1, 3 and 4 only
+</details>
+
+**Q-ST76. IAS Pre 2007**
+Four wires of same material and dimensions as mentioned below are stretched by a load of same magnitude separately. Which one of them will be elongated maximum?  
+(a) Wire of $1\text{ m}$ length and $2\text{ mm}$ diameter  
+(b) Wire of $2\text{ m}$ length and $2\text{ mm}$ diameter  
+(c) Wire of $3\text{ m}$ length and $1.5\text{ mm}$ diameter  
+(d) Wire of $1\text{ m}$ length and $1\text{ mm}$ diameter  
+<details><summary>Show answer</summary>
+
+**Logic:** (a): $1 / 2^2 = 0.25$
+
+**Ans: C.** Wire of $3\text{ m}$ length and $1.5\text{ mm}$ diameter
+</details>
+
+**Q-ST77. IAS Pre 2003**
+A hydrogen-inflated polythene balloon is released from the surface of the Earth. As the balloon rises to an altitude up in the atmosphere, it will:  
+(a) Decrease in size  
+(b) Flatten into disc-like shape  
+(c) Increase in size  
+(d) Maintain the same size and shape  
+<details><summary>Show answer</summary>
+
+**Logic:** Atmospheric pressure decreases with altitude.
+
+**Ans: C.** Increase in size
+</details>
+
+**Q-ST78. IAS Pre 2002**
+Assertion (A): With the increase of temperature, the viscosity of glycerin increases.  
+Reason (R): Rise of temperature increases kinetic energy of molecules.  
+(a) Both A and R are true, and R is the correct explanation of A  
+(b) Both A and R are true, but R is not the correct explanation of A  
+(c) A is true, but R is false  
+(d) A is false, but R is true  
+<details><summary>Show answer</summary>
+
+**Logic:** Viscosity of liquids (including glycerin) decreases with temperature as molecular bonds weaken.
+
+**Ans: D.** A is false, but R is true
+</details>
+
+**Q-ST79. IAS Pre 1999**
+For which one of the following capillarity is NOT the only reason?  
+(a) Blotting of ink  
+(b) Rising of underground water  
+(c) Spread of water drop on a cotton cloth  
+(d) Rising of water from the roots of a plant to its foliage  
+<details><summary>Show answer</summary>
+
+**Logic:** Water ascent to tree foliage is driven primarily by transpiration pull and cohesion-tension, not solely capillarity.
+
+**Ans: D.** Rising of water from the roots of a plant to its foliage
+</details>
+
+**Q-ST80. IAS Pre 1996**
+When an air bubble at the bottom of lake rises to the top, it will:  
+(a) Increase in size  
+(b) Decrease in size  
+(c) Maintain its size  
+(d) Flatten into a disc-like shape  
+<details><summary>Show answer</summary>
+
+**Logic:** As the bubble rises, hydrostatic pressure ($P = P0 + \rho g h$) drops.
+
+**Ans: A.** Increase in size
+</details>
+
+**Q-ST81. IAS Pre 1994**
+Consider the figure of a fountain with four holes: hole 1 at the lowest depth, followed by 2, 3, and 4 near the top. Which one of the holes in the fountain will throw the water farthest?  
+(a) 4  
+(b) 3  
+(c) 2  
+(d) 1  
+<details><summary>Show answer</summary>
+
+**Logic:** Standard key matches 1.
+
+**Ans: D.** 1
+</details>
+
+**Q-ST82. IAS Pre 1994**
+If a gas is compressed to half of its original volume at $27^\circ\text{C}$, to what temperature should it be heated to make it occupy its original volume at constant pressure?  
+(a) $327^\circ\text{C}$  
+(b) $600^\circ\text{C}$  
+(c) $54^\circ\text{C}$  
+(d) $300^\circ\text{C}$  
+<details><summary>Show answer</summary>
+
+**Logic:** Initial temperature $T1 = 27 + 273 = 300\text{ K}$.
+
+**Ans: A.** $327^\circ\text{C}$
+</details>
+
+**Q-ST83. RAS/RTS Pre 2007**
+If two bubbles of soap of different diameter come in contact through a connecting tube, then:  
+(a) The size of both bubbles will remain same  
+(b) The smaller bubble will become smaller and bigger will become bigger  
+(c) The smaller bubble will become larger and larger will become smaller  
+(d) Both bubbles will burst immediately  
+<details><summary>Show answer</summary>
+
+**Logic:** Excess pressure inside a soap bubble is inversely proportional to radius: $\Delta P = \frac{4T}{R}$.
+
+**Ans: B.** The smaller bubble will become smaller and bigger will become bigger
+</details>
+
+**Q-ST84. Jharkhand PCS Pre 2003**
+In automobiles, hydraulic brakes work on:  
+(a) Archimedes Principle  
+(b) Newton's law of motion  
+(c) Bernoulli's Principle  
+(d) Pascal's Law  
+<details><summary>Show answer</summary>
+
+**Logic:** Hydraulic brakes, presses, and jacks operate on Pascal's Law (pressure applied to an enclosed liquid is transmitted undiminished in all directions).
+
+**Ans: D.** Pascal's Law
+</details>
+
+**Q-ST85. Chhattisgarh PCS Pre 2021**
+In which of the following conditions will the distance between molecules of carbon dioxide filled in a container increase?  
+(i) On increasing the volume of container  
+(ii) On leakage of some carbon dioxide gas from the container  
+(iii) On increasing air pressure in the container  
+(iv) On adding more carbon dioxide gas without changing container size  
+(a) (ii) and (iii)  
+(b) (iii) and (iv)  
+(c) (i) and (iii)  
+(d) (i) and (ii)  
+<details><summary>Show answer</summary>
+
+**Logic:** Increasing container volume allows gas molecules to disperse over greater space.
+
+**Ans: D.** (i) and (ii)
+</details>
+
+---
 
 ---
 
@@ -1769,4 +1524,433 @@ Increasing container volume allows gas molecules to disperse over greater space.
 | 28 | Ball pen works on: capillary action + gravity |
 | 29 | Geostationary orbit = 35,786 km above equator; orbital period = 24 hours |
 | 30 | Kepler's 3rd Law: T2 is proportional to a3 (period2 proportional to semi-major axis3) |
+
+## Practice Zone — UPPCS Format Drill
+**Q-ST1.**
+
+**Why does an iron needle float horizontally on water when placed carefully, but sink when pushed under?**
+   A. Archimedes buoyant force  
+   B. Surface tension of the water surface film  
+   C. Viscous upthrust  
+   D. Atmospheric downward pressure
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** (Surface tension forms an elastic skin; once submerged, density $7.8 > 1.0$ causes sinking).
+
+**Logic:** (Surface tension forms an elastic skin; once submerged, density $7.8 > 1.0$ causes sinking).
+
+</details>
+
+**Q-ST2.**
+
+**The Bulk Modulus of an ideal incompressible fluid is:**
+   A. Zero  
+   B. Unity  
+   C. Infinite ($\infty$)  
+   D. Negative
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **C** (Incompressible $\implies \Delta V = 0 \implies K = \infty$).
+
+**Logic:** (Incompressible $\implies \Delta V = 0 \implies K = \infty$).
+
+</details>
+
+**Q-ST3.**
+
+**When a drop of oil is placed on clean water, it spreads into a thin film because:**
+   A. Oil has higher surface tension than water  
+   B. Water has higher surface tension than oil  
+   C. Oil is denser than water  
+   D. Viscosity of oil is lower than water
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** (Water's higher surface tension pulls the oil film outward).
+
+**Logic:** (Water's higher surface tension pulls the oil film outward).
+
+</details>
+
+**Q-ST4.**
+
+**In a capillary tube of radius $r$, water rises to height $h$. If the tube radius is halved, water rises to:**
+   A. $h/2$  
+   B. $h$  
+   C. $2h$  
+   D. $4h$
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **C** (Jurin's Law: $h \propto 1/r$).
+
+**Logic:** (Jurin's Law: $h \propto 1/r$).
+
+</details>
+
+**Q-ST5.**
+
+**Which property of a solid determines the extension and behavior of a helical spring under load?**
+   A. Young's Modulus  
+   B. Bulk Modulus  
+   C. Shear Modulus (Modulus of Rigidity)  
+   D. Poisson's Ratio
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+**Ans:** **C**.
+</details>
+
+**Q-ST6.**
+
+**The excess pressure inside a liquid drop of radius $R$ and surface tension $T$ is:**
+   A. $T/R$  
+   B. $2T/R$  
+   C. $4T/R$  
+   D. $8T/R$
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** (A liquid drop has only one surface, so $\Delta P = 2T/R$; a soap bubble has two surfaces, so $\Delta P = 4T/R$).
+
+**Logic:** (A liquid drop has only one surface, so $\Delta P = 2T/R$; a soap bubble has two surfaces, so $\Delta P = 4T/R$).
+
+</details>
+
+**Q-ST7.**
+
+**As temperature increases, what happens to the viscosity of water and air respectively?**
+   A. Both increase  
+   B. Both decrease  
+   C. Water viscosity decreases, air viscosity increases  
+   D. Water viscosity increases, air viscosity decreases
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+**Ans:** **C**.
+</details>
+
+**Q-ST8.**
+
+**A piece of pure ice floats in a glass of water. When the ice melts completely, the water level:**
+   A. Rises  
+   B. Falls  
+   C. Remains unchanged  
+   D. First falls then rises
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+**Ans:** **C**.
+</details>
+
+**Q-ST9.**
+
+**The dimension of the coefficient of linear expansion ($\alpha$) is:**
+   A. $[M^0 L^1 T^0 K^{-1}]$  
+   B. $[M^0 L^0 T^0 K^{-1}]$  
+   C. $[M^1 L^0 T^0 K^{-1}]$  
+   D. $[M^0 L^0 T^{-1} K^0]$
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** ($K^{-1}$).
+</details>
+
+**Q-ST10.**
+
+**A ship floats higher when it travels from a freshwater river into the sea because:**
+    A. Sea water is colder  
+    B. Sea water is deeper  
+    C. Sea water is denser due to dissolved salts  
+    D. River water exerts greater viscous drag
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+**Ans:** **C**.
+</details>
+
+**Q-ST11.**
+
+**At what temperature is the surface tension of a liquid reduced to zero?**
+    A. Freezing point  
+    B. Boiling point  
+    C. Absolute zero  
+    D. Critical temperature
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+**Ans:** **D**.
+</details>
+
+**Q-ST12.**
+
+**When positive charge is placed on a soap bubble, its radius:**
+    A. Decreases  
+    B. Increases  
+    C. Remains identical  
+    D. Flattens into a disc
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** (Electrostatic repulsion expands the surface).
+
+**Logic:** (Electrostatic repulsion expands the surface).
+
+</details>
+
+**Q-ST13.**
+
+**Torricelli's law states that the velocity of efflux from a tank orifice is proportional to:**
+    A. Depth $h$  
+    B. Square root of depth $\sqrt{h}$  
+    C. $h^2$  
+    D. Independent of $h$
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** ($v = \sqrt{2gh}$).
+
+**Logic:** ($v = \sqrt{2gh}$).
+
+</details>
+
+**Q-ST14.**
+
+**Which of the following is NOT an application of capillarity?**
+    A. Kerosene rising in a lamp wick  
+    B. Blotting paper absorbing ink  
+    C. Drinking coconut water through a straw  
+    D. Towel soaking water droplets from the skin
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **C** (Drinking through a straw requires mouth suction pressure reduction).
+
+**Logic:** (Drinking through a straw requires mouth suction pressure reduction).
+
+</details>
+
+**Q-ST15.**
+
+**The spreading parameter $S$ for liquid A on liquid B is positive ($S > 0$). This implies:**
+    A. Liquid A beads into droplets  
+    B. Liquid A spreads completely over liquid B  
+    C. Liquid A sinks to the bottom  
+    D. Both liquids boil instantly
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+**Ans:** **B**.
+</details>
+
+**Q-ST16.**
+
+**Why does an iron ball float on mercury but sink in water?**
+    A. Density of mercury $>$ Iron $>$ Water  
+    B. Surface tension of mercury is lower than water  
+    C. Iron has chemical affinity for water  
+    D. Water has greater viscosity than mercury
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+**Ans:** **A**.
+</details>
+
+**Q-ST17.**
+
+**If four wires of the same material are pulled by equal forces, the maximum extension occurs in the wire with:**
+    A. Longest length and largest diameter  
+    B. Shortest length and smallest diameter  
+    C. Greatest ratio of length to diameter squared ($L/d^2$)  
+    D. Smallest ratio of $L/d^2$
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+**Ans:** **C**.
+</details>
+
+**Q-ST18.**
+
+**An air bubble rising from the bed of a lake to the surface expands because:**
+    A. Water temperature drops near surface  
+    B. Hydrostatic pressure decreases near surface  
+    C. Surface tension increases  
+    D. Atmospheric pressure increases
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** ($P = P_0 + \rho gh$; decreasing $P$ causes volume expansion).
+
+**Logic:** ($P = P_0 + \rho gh$; decreasing $P$ causes volume expansion).
+
+</details>
+
+**Q-ST19.**
+
+**Gases are most readily converted to liquids under:**
+    A. High temperature and low pressure  
+    B. Low temperature and high pressure  
+    C. High temperature and high pressure  
+    D. Low temperature and low pressure
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+**Ans:** **B**.
+</details>
+
+**Q-ST20.**
+
+**Clouds remain suspended and float in the atmosphere primarily because of:**
+    A. High temperature  
+    B. Low density and atmospheric upthrust  
+    C. High velocity  
+    D. Zero gravity
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+**Ans:** **B**.
+</details>
+
+**Q-ST21.**
+
+**The SI unit of dynamic viscosity is:**
+    A. Poise  
+    B. Stokes  
+    C. Pascal-second ($Pa\cdot s$)  
+    D. Newton per metre
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **C** ($1\text{ Pa}\cdot s = 10\text{ Poise}$).
+
+**Logic:** ($1\text{ Pa}\cdot s = 10\text{ Poise}$).
+
+</details>
+
+**Q-ST22.**
+
+**What fraction of a pure ice block floats above the surface of pure water?**
+    A. $1/2$  
+    B. $1/4$  
+    C. $1/10$  
+    D. $1/9$
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **C** (In pure water, $9/10$ is submerged and $1/10$ is above).
+
+**Logic:** (In pure water, $9/10$ is submerged and $1/10$ is above).
+
+</details>
+
+**Q-ST23.**
+
+**Hydraulic lifts and hydraulic automotive brakes are practical embodiments of:**
+    A. Bernoulli's Principle  
+    B. Pascal's Law  
+    C. Archimedes' Principle  
+    D. Hooke's Law
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+**Ans:** **B**.
+</details>
+
+**Q-ST24.**
+
+**In streamlined flow through a horizontal pipe, where is the fluid speed maximum?**
+    A. In contact with the upper pipe wall  
+    B. In contact with the lower pipe wall  
+    C. Along the central longitudinal axis  
+    D. Speed is uniform everywhere
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+**Ans:** **C**.
+</details>
+
+**Q-ST25.**
+
+**When two soap bubbles of different radii are placed in contact, what occurs?**
+    A. Air moves from large to small bubble  
+    B. Air moves from small to large bubble  
+    C. Both bubbles equalize in volume  
+    D. Pressure inside both bubbles is equal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** (Smaller bubble has higher pressure $\Delta P = 4T/R$).
+
+**Logic:** (Smaller bubble has higher pressure $\Delta P = 4T/R$).
+
+---
+
+---
+
+</details>
+
+## Common Traps & Negative-Marking Eliminators
+1. **Steel vs Rubber Trap**: Steel is **more elastic** than rubber ($Y_{\text{steel}} \gg Y_{\text{rubber}}$). Do not confuse everyday stretchiness with physical elasticity (restoring stress per unit strain).
+2. **Bulk Modulus of Rigid Body**: Bulk modulus of a perfectly rigid body is **Infinite ($\infty$)**, NOT zero! Compressibility is zero.
+3. **Capillarity vs Straw Suction**: Straw suction is caused by **atmospheric pressure difference** created by muscular expansion of the mouth cavity, NOT capillarity.
+4. **Viscosity Temperature Dependency**: Liquid viscosity **decreases** with temperature, but gas viscosity **increases** with temperature.
+5. **Melting Ice Water Level**: Melting floating ice cube leaves water level **strictly unchanged**. It does not rise or spill over!
+6. **Excess Pressure Soap Bubble vs Drop**: Soap bubble has **two surfaces** ($\Delta P = 4T/R$). Droplet has **one surface** ($\Delta P = 2T/R$).
+7. **Small Connected Bubbles**: Air flows from the **smaller bubble to the larger bubble** because the smaller bubble has higher internal excess pressure.
+8. **Surface Tension on Charging**: Charging a bubble makes it **expand** (radius increases) due to electrostatic repulsion.
+9. **Iceberg Floating Fractions**: In pure freshwater, $1/10\text{th}$ is above surface ($90\%$ submerged). In denser seawater, $\approx 1/9\text{th}$ is above surface ($89\%$ submerged).
+10. **Iron Needle Floatation**: An iron needle floats on water due to **surface tension**, NOT Archimedes' buoyant force!
+
+---
 

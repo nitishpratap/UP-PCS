@@ -306,883 +306,6 @@ High radioactive fission waste products        Minimal direct radioactive waste 
 
 ---
 
-## Complete PYQ Bank — State PCS (13 Questions)
-
-### UPPCS & UP RO/ARO Prelims/Mains (8 Questions)
-
-#### Q2 [U.P.P.C.S. (Pre) 2014 / U.P.P.C.S. (Pre) 2003 / U.P.U.D.A./L.D.A. (Pre) 2002 / U.P.P.C.S. (Pre) 2001]
-Which one of the following is not an explosive :
-
-(a) Trinitrotoluene (TNT)
-
-(b) Trinitroglycerine
-
-(c) Cyclotrimethylene Trinitramine (RDX)
-
-(d) Nitrochloroform
-
-<details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
-
-**Correct Answer:** **(D)**
-
-**High-Yield Explanation:**
-Nitrochloroform, also known as chloropicrin, is a chemical
-
-compound currently used as a broad-spectrum antimicrobial,
-
-fungicide, herbicide, and insecticide. It is also used as tear gas.
-
-It was manufactured for use as poison gas in World War I. Other
-
-options are explosives.
-</details>
-
-
-#### Q3 [U.P.P.C.S. (Mains) 2015]
-Which one of the following is not an explosive?
-
-(a) Nitrochloroform (b) TNG
-
-(c) TNT (d) Potassium Chlorate
-
-<details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
-
-**Correct Answer:** **(A)**
-
-**High-Yield Explanation:**
-See the explanation of above question.
-</details>
-
-
-#### Q4 [U.P. Lower Sub. (Pre) 2015]
-'Nobel oil' is the name of which one of the following
-
-explosives?
-
-(a) TNG (b) TNP
-
-(c) TNA (d) TNT
-
-<details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
-
-**Correct Answer:** **(A)**
-
-**High-Yield Explanation:**
-Trinitroglycerin (TNG) also known as Nobel oil, is an
-
-explosive fluid. Chemically, it is an organic nitrate compound.
-</details>
-
-
-#### Q5 [U.P. PCS (Mains) 2016]
-RDX was invented by
-
-(a) Alfred Nobel (b) Soddy
-
-(c) Bergillins (d) Henning
-
-<details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
-
-**Correct Answer:** **(D)**
-
-**High-Yield Explanation:**
-RDX, the abbreviation of Research Department Explosive,
-
-is also called cyclonite. This powerful explosive was discovered by George Friedrich Henning of Germany and patented
-
-in 1898 but not used until World War II, when most of the
-
-warring powers introduced it.
-</details>
-
-
-#### Q6 [U.P.P.C.S. (Pre) 1996]
-Which one of the following statement is correct?
-
-(a) DDT is antibacterial compound.
-
-(b) TNT is an insecticide.
-
-(c) RDX is an explosive.
-
-(d) LSD is an antiviral compound.
-
-<details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
-
-**Correct Answer:** **(C)**
-
-**High-Yield Explanation:**
-RDX (Research Department eXplosive or Royal Demolition
-
-eXplosive) is an explosive solid and its chemical formula is
-
-(CH2
-
-N2
-
-O2
-
-)
-
-3
-
-. Actually, RDX is cyclotrimethylenetrinitramine.
-
-It is also known as cyclonite, hexogen and T4. It is more
-
-powerful explosive than TNT. Due to its high explosive
-
-property, it was widely used in Second World War. RDX is
-
-a colourless solid substance. It is obtained by fuming nitric
-
-acid with hexamine.
-</details>
-
-
-#### Q7 [I.A.S. (Pre) 2007 / U.P.P.C.S. (Mains) 2007]
-Which one of the following is another name of RDX ?
-
-(a) Cyanohydrin
-
-(b) Dextran
-
-(c) Cyclohexane
-
-(d) Cyclonite
-
-<details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
-
-**Correct Answer:** **(D)**
-
-**High-Yield Explanation:**
-See the explanation of above question.
-</details>
-
-
-#### Q11 [U.P.P.C.S. (Mains) 2010]
-Which one of the following explosives does not contain
-
-nitroglycerine as an essential constituent ?
-
-(a) Cordite (b) Blasting Gelatine
-
-(c) Dynamite (d) Amatol
-
-<details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
-
-**Correct Answer:** **(D)**
-
-**High-Yield Explanation:**
-Cordite, blasting gelatin and dynamite contain nitroglycerin
-
-as an essential constituent, while a highly explosive element
-
-is Amatol. It is composed of ammonium nitrate and TNT
-
-(Trinitrotoluene) in varying ratios.
-</details>
-
-
-#### Q12 [U.P. R.O./A.R.O. (Pre) 2016]
-Which one of the following is used in the production
-
-of explosives?
-
-(a) Glycerol (b) Methanol
-
-(c) Urea (d) Oxalic acid
-
-<details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
-
-**Correct Answer:** **(A)**
-
-**High-Yield Explanation:**
-Glycerol is an organic compound. Reacting with conc. HNO3
-
-and conc. H2
-
-SO4
-
-, it produces nitroglycerin. Nitroglycerin is
-
-a heavy, colourless, oily, explosive liquid. It is also called
-
-trinitroglycerin (TNG), glyceryl trinitrate (GTN) or Nobel’s
-
-oil. It is mainly used in the explosives such as dynamite.
-</details>
-
-
-### UKPCS Prelims (1 Questions)
-
-#### Q1 [I.A.S. (Pre) 2008 / Uttarakhand P.C.S. (Pre) 2007]
-A mixture of which one of the following pairs of gases
-
-is the cause of occurrence of most of the explosions in
-
-mines?
-
-(a) Hydrogen and Oxygen
-
-(b) Oxygen and Acetylene
-
-(c) Methane and Air
-
-(d) Carbon dioxide and Methane
-
-<details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
-
-**Correct Answer:** **(C)**
-
-**High-Yield Explanation:**
-Generally carbon monoxide, carbon dioxide, methane, oxygen,
-
-nitrogen and hydrogen gases etc. are found in mines. When
-
-combined with air, they cause an explosion. About 5–15%
-
-of the amount of methane in air is explosive. In air, about
-
-12.5–74% presence of carbon monoxide is explosive. In air,
-
-about 4–74% carbon and hydrogen mixture may blast. Among
-
-the given options, in mines, mostly methane and air mixture
-
-causes explosions.
-</details>
-
-
-### BPSC, IAS, RAS & Other State PCS (4 Questions)
-
-#### Q8 [69th B.P.S.C. (Pre) 2023]
-What is/are the full form(s) of HMX?
-
-1. High Melting Explosive.
-
-2. High-Density Monoatomic Xenon.
-
-3. Hedge Monetizing Xeno-currency.
-
-4. Her Majesty's Explosive.
-
-Select the correct answer using the codes given below.
-
-(a) 1 and 2 (b) 2 and 3
-
-(c) Only 1 (d) 1 and 4
-
-<details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
-
-**Correct Answer:** **(C)**
-
-**High-Yield Explanation:**
-HMX is a man-made, colourless liquid chemical which stands
-
-for High Melting Explosive. HMX, also called octogen, is a
-
-powerful and relatively insensitive nitroamine high explosive,
-
-chemically related to RDX. The compound's name is the
-
-subject of much speculation, having been variously listed as
-
-High Melting Explosive, High-velocity Military Explosive,
-
-or High-Molecular-weight RDX.
-</details>
-
-
-#### Q9 [I.A.S. (Pre) 2025]
-What is the common characteristic of the chemical
-
-substances generally known as CL-20, HMX and
-
-LLM-105, which are sometimes talked about in media?
-
-(a) These are alternatives to hydrofluorocarbon
-
-refrigerants
-
-(b) These are explosives in military weapons
-
-(c) These are high-energy fuels for cruise missiles
-
-(d) These are fuels for rocket propulsion
-
-<details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
-
-**Correct Answer:** **(B)**
-
-**High-Yield Explanation:**
-CL-20, also called Hexa-nitro-hexa-azaisowurtzitane or
-
-HNIW, is a polycyclic nitroamine explosive with the formula
-
-C6
-
-H6
-
-N12O12. It has a better oxidizer-to-fuel ratio than
-
-conventional HMX or RDX. It releases 20% more energy
-
-than traditional HMX-based propellants. CL-20 offers
-
-superior performance over traditional propellants like RDX
-
-and HMX, boasting a higher energy release and better
-
-oxidiser-to-fuel ratio, crucial for rockets and missiles.
-
-HMX (High Melting Explosive) is a powerful nitroamine
-
-secondary explosive used in solid rocket/missile propellants
-
-to increase energy density, specific impulse, and gas yield,
-
-particularly in high-performance military applications like
-
-ICBMs. As a highly energetic component, HMX enhances
-
-combustion but can increase sensitivity.
-
-LLM-105 (2,6-Diamino-3,5-dinitropyrazine-1-oxide) is a
-
-high-performance, insensitive high explosive developed by
-
-Lawrence Livermore National Laboratory. It is primarily
-
-used in military applications, including advanced warheads and
-
-solid propellant formulations, due to its high thermal stability,
-
-high nitrogen content, and high energy density.
-
-It is to be noted that while CL-20 and HMX are fuel
-
-components (high-energy propellants) for rockets/missiles
-
-apart from being explosives, but LLM-105 is purely an
-
-military explosive. Hence, the common characteristic among
-
-them is they are explosives in military weapons.
-</details>
-
-
-#### Q10 [I.A.S. (Pre) 2009]
-Which one of the following is used as an explosive?
-
-(a) Phosphorus Trichloride (b) Mercuric Oxide
-
-(c) Graphite (d) Nitroglycerine
-
-<details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
-
-**Correct Answer:** **(D)**
-
-**High-Yield Explanation:**
-Nitroglycerine is a heavy, colourless and oily liquid explosive.
-
-It is also known as trinitroglycerol (TNG), glyceryl trinitrate
-
-(GTN) or 1,2,3- trinitroxypropane.
-</details>
-
-
-#### Q13 [Jharkhand P.C.S. (Pre) 2016]
-The chemical used in manufacturing of dynamite is
-
-(a) Glycerol (b) Glycerol triacetate
-
-(c) Glycerol trinitrate (d) Glycerol triiodate
-
-<details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
-
-**Correct Answer:** **(C)**
-
-**High-Yield Explanation:**
-See the explanation of above question.
-</details>
-
-
-## Practice Zone — High-Yield Mock Drills (26 Questions)
-
-**Q1.** Radioactivity was discovered in 1896 by:  
-(a) Marie Curie  
-(b) Henri Becquerel  
-(c) Ernest Rutherford  
-(d) Wilhelm Roentgen  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Henri Becquerel discovered radioactivity using uranium salts; Marie and Pierre Curie later isolated polonium and radium.
-</details>
-
----
-
-**Q2.** Which nuclear emission consists of doubly charged helium nuclei ($^4_2He^{2+}$)?  
-(a) Beta particles  
-(b) Alpha particles  
-(c) Gamma rays  
-(d) Neutrons  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Alpha particles are helium-4 nuclei ($2\text{ protons} + 2\text{ neutrons}$) with a $+2$ charge.
-</details>
-
----
-
-**Q3.** The half-life of Carbon-14 used in radiocarbon dating is approximately:  
-(a) $1,000\text{ years}$  
-(b) $5,730\text{ years}$  
-(c) $100,000\text{ years}$  
-(d) $4.5\text{ billion years}$  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - $^{14}C$ has a half-life of $\approx 5,730\text{ years}$, suitable for dating organic artifacts up to $\approx 50,000\text{ years}$ old.
-</details>
-
----
-
-**Q4.** What is the SI unit of radioactivity?  
-(a) Curie  
-(b) Rutherford  
-(c) Becquerel  
-(d) Sievert  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (c)
-
-- **Detailed Explanation:**
-  - The Becquerel ($\text{Bq} = 1\text{ disintegration/sec}$) is the SI unit.
-</details>
-
----
-
-**Q5.** Nuclear fission involves:  
-(a) Joining light nuclei into heavier ones  
-(b) Splitting of a heavy unstable nucleus into smaller fragments with energy release  
-(c) Chemical reaction with oxygen  
-(d) Radioactive decay of electrons  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Fission splits heavy nuclei ($^{235}U$) into lighter fragments upon neutron absorption, releasing energy.
-</details>
-
----
-
-**Q6.** The primary energy principle governing the Hydrogen bomb is:  
-(a) Nuclear Fission  
-(b) Nuclear Fusion  
-(c) Chemical Combustion  
-(d) Alpha radiation  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Hydrogen bombs operate on thermonuclear fusion, initiated by an internal fission trigger.
-</details>
-
----
-
-**Q7.** Which of the following substances was used by Alfred Nobel to stabilize nitroglycerin into Dynamite?  
-(a) Kieselguhr (diatomaceous earth)  
-(b) Sulphur dust  
-(c) Cement  
-(d) Activated charcoal  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (a)
-
-- **Detailed Explanation:**
-  - Liquid nitroglycerin was absorbed into porous kieselguhr to form shock-stable dynamite.
-</details>
-
----
-
-**Q8.** The chemical explosive RDX is chemically known as:  
-(a) Trinitrotoluene  
-(b) Cyclotrimethylenetrinitramine  
-(c) Pentaerythritol tetranitrate  
-(d) Nitroglycerin  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - RDX is cyclotrimethylenetrinitramine ($C_3H_6N_6O_6$), also known as Hexogen or T4.
-</details>
-
----
-
-**Q9.** Acid rain is defined as precipitation with a pH below:  
-(a) 7.0  
-(b) 6.5  
-(c) 5.6  
-(d) 4.0  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (c)
-
-- **Detailed Explanation:**
-  - Unpolluted rain is slightly acidic ($\text{pH} \approx 5.6$) due to dissolved $CO_2$. Rain with $\text{pH} < 5.6$ is classified as acid rain.
-</details>
-
----
-
-**Q10.** The two primary atmospheric pollutant gases responsible for acid rain are:  
-(a) Carbon monoxide and Methane  
-(b) Sulphur dioxide ($SO_2$) and Nitrogen oxides ($NO_x$)  
-(c) Ozone and Argon  
-(d) Chlorine and Fluorine  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - $SO_2$ and $NO_x$ dissolve in atmospheric moisture to form $H_2SO_4$ and $HNO_3$, driving acid precipitation.
-</details>
-
----
-
-**Q11.** Photochemical smog is an oxidizing smog that contains which of the following secondary pollutants?  
-(a) Ozone and Peroxyacetyl Nitrate (PAN)  
-(b) Sulphur dioxide and Coal soot  
-(c) Methane and Argon  
-(d) Lead oxide  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (a)
-
-- **Detailed Explanation:**
-  - Photochemical smog forms under sunlight from $NO_x$ and hydrocarbons, generating ozone and PAN.
-</details>
-
----
-
-**Q12.** In which atmospheric layer is the protective ozone layer concentrated?  
-(a) Troposphere  
-(b) Stratosphere  
-(c) Mesosphere  
-(d) Thermosphere  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - The ozone layer is situated in the stratosphere ($15–35\text{ km}$ altitude).
-</details>
-
----
-
-**Q13.** Which reactive chemical species released by CFCs catalytically destroys ozone molecules?  
-(a) Free chlorine radicals ($Cl^\bullet$)  
-(b) Sodium ions  
-(c) Nitrogen molecules  
-(d) Argon atoms  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (a)
-
-- **Detailed Explanation:**
-  - UV photolysis of CFCs releases free chlorine radicals ($Cl^\bullet$) that catalytically destroy thousands of ozone molecules.
-</details>
-
----
-
-**Q14.** Which of the following is NOT a greenhouse gas?  
-(a) Methane ($CH_4$)  
-(b) Carbon dioxide ($CO_2$)  
-(c) Water vapor ($H_2O$)  
-(d) Nitrogen gas ($N_2$)  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (d)
-
-- **Detailed Explanation:**
-  - Homonuclear diatomic nitrogen ($N_2$) lacks an infrared-active dipole moment and does not absorb thermal radiation.
-</details>
-
----
-
-**Q15.** The environmental tragedy "Minamata Disease" was caused by toxic bioaccumulation of:  
-(a) Methylmercury  
-(b) Cadmium  
-(c) Arsenic  
-(d) Lead  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (a)
-
-- **Detailed Explanation:**
-  - Methylmercury bioaccumulated through marine food webs, causing neurological poisoning in Minamata Bay.
-</details>
-
----
-
-**Q16.** Chronic cadmium poisoning in the Jinzū River basin of Japan resulted in:  
-(a) Minamata disease  
-(b) Itai-Itai disease  
-(c) Blackfoot disease  
-(d) Blue baby syndrome  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Cadmium contamination caused osteomalacia and kidney damage, termed Itai-Itai disease.
-</details>
-
----
-
-**Q17.** Blue Baby Syndrome in infants is caused by high concentrations of which ion in drinking water?  
-(a) Fluoride  
-(b) Nitrate ($NO_3^-$)  
-(c) Chloride  
-(d) Iron  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Excess nitrates convert hemoglobin to methemoglobin, impairing oxygen delivery and causing infant cyanosis.
-</details>
-
----
-
-**Q18.** Blackfoot disease is caused by chronic contamination of drinking water with:  
-(a) Arsenic  
-(b) Mercury  
-(c) Cadmium  
-(d) Lead  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (a)
-
-- **Detailed Explanation:**
-  - Arsenic poisoning damages peripheral blood vessels, causing gangrene of the extremities.
-</details>
-
----
-
-**Q19.** Which of the following materials is used as a moderator in nuclear power reactors to slow fast neutrons?  
-(a) Cadmium  
-(b) Boron  
-(c) Heavy water ($D_2O$)  
-(d) Lead  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (c)
-
-- **Detailed Explanation:**
-  - Heavy water ($D_2O$) and graphite slow fast neutrons to thermal energies without absorbing them. Cadmium and boron are control rod materials that absorb neutrons.
-</details>
-
----
-
-**Q20.** What type of explosive is commercial ANFO?  
-(a) Liquid nitroglycerin  
-(b) Ammonium nitrate and fuel oil mixture  
-(c) Mercury fulminate  
-(d) Gunpowder  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - ANFO is a blasting agent consisting of $94\%$ ammonium nitrate and $6\%$ fuel oil.
-</details>
-
----
-
-**Q21.** Why is marble cancer observed on the Taj Mahal?  
-(a) Sandstorms polish the marble  
-(b) Sulphuric acid in acid rain reacts with marble ($CaCO_3$) to form soluble gypsum  
-(c) Bacteria consume calcium  
-(d) Sunlight bleaches the stone  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Sulphuric acid from $SO_2$ pollution reacts with marble calcium carbonate to form gypsum, causing flaking and discoloration.
-</details>
-
----
-
-**Q22.** A high Biochemical Oxygen Demand (BOD) value in a water body indicates that the water:  
-(a) Is highly pure and suitable for drinking  
-(b) Is heavily polluted with organic matter  
-(c) Contains excess dissolved oxygen  
-(d) Contains no bacteria  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - High BOD reflects heavy organic pollution, as decomposers consume dissolved oxygen during breakdown.
-</details>
-
----
-
-**Q23.** What is the thickness of an ozone hole defined as in Dobson Units?  
-(a) Below $220\text{ DU}$  
-(b) Exactly $500\text{ DU}$  
-(c) Above $1000\text{ DU}$  
-(d) $0\text{ DU}$ only  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (a)
-
-- **Detailed Explanation:**
-  - An ozone hole is defined when total column ozone drops below $220\text{ Dobson Units}$.
-</details>
-
----
-
-**Q24.** Which of the following gas molecules has the highest Global Warming Potential (GWP)?  
-(a) Carbon dioxide ($CO_2$)  
-(b) Methane ($CH_4$)  
-(c) Sulphur hexafluoride ($SF_6$)  
-(d) Nitrous oxide ($N_2O$)  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (c)
-
-- **Detailed Explanation:**
-  - $SF_6$ has a Global Warming Potential of $\approx 23,500$ relative to $CO_2$ ($1.0$).
-</details>
-
----
-
-**Q25.** Burton's line (a dark blue-black line along the gums) is a diagnostic clinical symptom of chronic poisoning from:  
-(a) Cadmium  
-(b) Lead  
-(c) Mercury  
-(d) Arsenic  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Burton's line forms along the gumline in chronic lead poisoning (plumbism) due to lead sulphide precipitation.
-</details>
-
----
-
-**Q26.** Why is an internal atomic (fission) bomb needed inside a thermonuclear hydrogen bomb?  
-(a) To create bright light  
-(b) To generate the extreme temperatures ($>10^7\text{ K}$) required to initiate thermonuclear fusion  
-(c) To absorb excess neutrons  
-(d) To keep the bomb cool  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Fusing light nuclei requires overcoming electrostatic repulsion, which demands stellar temperatures ($>10^7\text{ K}$) provided by an initial fission detonation.
-</details>
-
----
-
-## Common Traps & High-Yield Pitfalls
-
-| Trap Area | What Students Confuse | Correct Fact |
-|---|---|---|
-| **Hydrogen Bomb Principle** | Believing the hydrogen bomb is a fission weapon. | The hydrogen bomb operates on **Nuclear Fusion**; fission is used only as an ignition trigger. |
-| **Radioactivity Nature** | Confusing radioactivity with chemical valence reactions. | Radioactivity is strictly a **nuclear property**, unaffected by chemical bonds, temperature, or pressure. |
-| **Greenhouse Gas Exclusions** | Assuming Argon or Nitrogen are greenhouse gases. | **Argon, Nitrogen, and Oxygen are NOT greenhouse gases**; they do not absorb thermal infrared radiation. |
-| **Dynamite Inventor** | Confusing Alfred Nobel with Oppenheimer or Curie. | **Alfred Nobel invented Dynamite** in 1867 by stabilizing nitroglycerin in kieselguhr. |
-| **Acid Rain Threshold** | Thinking normal rain has a neutral pH of 7.0. | Unpolluted rain is naturally acidic (**$\text{pH} \approx 5.6$**); acid rain has **$\text{pH} < 5.6$**. |
-| **Heavy Metal Disease Matching** | Swapping Mercury and Cadmium diseases. | **Mercury ($Hg$) = Minamata Disease**. **Cadmium ($Cd$) = Itai-Itai Disease**. |
-| **Water Contaminant Syndromes** | Confusing Arsenic and Nitrate conditions. | **Arsenic = Blackfoot Disease**. **Nitrate = Blue Baby Syndrome (Methemoglobinemia)**. |
-| **Smog Types Character** | Calling classical smog oxidizing. | **Classical smog is Reducing** ($SO_2$); **Photochemical smog is Oxidizing** ($O_3$, PAN). |
-| **Nuclear Moderator vs Control Rod** | Mixing up moderators ($D_2O$, graphite) with control rods ($Cd$, $B$). | **Moderators slow neutrons** ($D_2O$, graphite); **Control rods absorb neutrons** ($Cd$, $B$). |
-| **Radiation Penetration Order** | Reversing alpha and gamma penetration. | **Gamma has the highest penetration** ($\alpha < \beta < \gamma$); **Alpha has the highest ionization power**. |
-
-
----
-
 ## Bilingual Terminology -- Radiation, Nuclear and Environmental Chemistry
 
 | English Term | Hindi Term | Key Anchor |
@@ -1205,6 +328,268 @@ See the explanation of above question.
 | **e-Waste** (इलेक्ट्रॉनिक कचरा) | इलेक्ट्रॉनिक कचरा | Discarded electronic devices; contains toxic metals (Pb, Cd, Hg) |
 
 ---
+
+## Complete PYQ Bank — State PCS (13 Questions)
+
+### UPPCS & UP RO/ARO Prelims/Mains (8 Questions)
+
+**Q-ST2. UPPCS (Pre) 2014 / UPPCS (Pre) 2003 / U.P.U.D.A./L.D.A. (Pre) 2002 / UPPCS (Pre) 2001**
+
+Which one of the following is not an explosive :
+
+(a) Trinitrotoluene (TNT)
+
+(b) Trinitroglycerine
+
+(c) Cyclotrimethylene Trinitramine (RDX)
+
+(d) Nitrochloroform
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Nitrochloroform, also known as chloropicrin, is a chemical compound currently used as a broad-spectrum antimicrobial, fungicide, herbicide, and insecticide.
+
+**Ans: D.** Nitrochloroform
+</details>
+
+**Q-ST3. UPPCS (Mains) 2015**
+
+Which one of the following is not an explosive?
+
+(a) Nitrochloroform (b) TNG
+
+(c) TNT (d) Potassium Chlorate
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same teaching key as the linked stem above; answer is Nitrochloroform.
+
+**Ans: A.** Nitrochloroform
+</details>
+
+**Q-ST4. UP Lower Sub (Pre) 2015**
+
+'Nobel oil' is the name of which one of the following
+
+explosives?
+
+(a) TNG (b) TNP
+
+(c) TNA (d) TNT
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Trinitroglycerin (TNG) also known as Nobel oil, is an explosive fluid.
+
+**Ans: A.** TNG (b) TNP
+</details>
+
+**Q-ST5. U.P. PCS (Mains) 2016**
+
+RDX was invented by
+
+(a) Alfred Nobel (b) Soddy
+
+(c) Bergillins (d) Henning
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** RDX, the abbreviation of Research Department Explosive, is also called cyclonite.
+
+**Ans: D.** Henning
+</details>
+
+**Q-ST6. UPPCS (Pre) 1996**
+
+Which one of the following statement is correct?
+
+(a) DDT is antibacterial compound.
+
+(b) TNT is an insecticide.
+
+(c) RDX is an explosive.
+
+(d) LSD is an antiviral compound.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** RDX (Research Department eXplosive or Royal Demolition eXplosive) is an explosive solid and its chemical formula is (CH2 N2 O2 ) 3 .
+
+**Ans: C.** RDX is an explosive
+</details>
+
+**Q-ST7. I.A.S. (Pre) 2007 / UPPCS (Mains) 2007**
+
+Which one of the following is another name of RDX ?
+
+(a) Cyanohydrin
+
+(b) Dextran
+
+(c) Cyclohexane
+
+(d) Cyclonite
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same teaching key as the linked stem above; answer is Cyclonite.
+
+**Ans: D.** Cyclonite
+</details>
+
+**Q-ST11. UPPCS (Mains) 2010**
+
+Which one of the following explosives does not contain
+
+nitroglycerine as an essential constituent ?
+
+(a) Cordite (b) Blasting Gelatine
+
+(c) Dynamite (d) Amatol
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Cordite, blasting gelatin and dynamite contain nitroglycerin as an essential constituent, while a highly explosive element is Amatol.
+
+**Ans: D.** Amatol
+</details>
+
+**Q-ST12. UP RO/ARO (Pre) 2016**
+
+Which one of the following is used in the production
+
+of explosives?
+
+(a) Glycerol (b) Methanol
+
+(c) Urea (d) Oxalic acid
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Glycerol is an organic compound.
+
+**Ans: A.** Glycerol (b) Methanol
+</details>
+
+### UKPCS Prelims (1 Questions)
+
+**Q-ST1. I.A.S. (Pre) 2008 / Uttarakhand P.C.S. (Pre) 2007**
+
+A mixture of which one of the following pairs of gases
+
+is the cause of occurrence of most of the explosions in
+
+mines?
+
+(a) Hydrogen and Oxygen
+
+(b) Oxygen and Acetylene
+
+(c) Methane and Air
+
+(d) Carbon dioxide and Methane
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Generally carbon monoxide, carbon dioxide, methane, oxygen, nitrogen and hydrogen gases etc.
+
+**Ans: C.** Methane and Air
+</details>
+
+### BPSC, IAS, RAS & Other State PCS (4 Questions)
+
+**Q-ST8. 69th B.P.S.C. (Pre) 2023**
+
+What is/are the full form(s) of HMX?
+
+1. High Melting Explosive.
+
+2. High-Density Monoatomic Xenon.
+
+3. Hedge Monetizing Xeno-currency.
+
+4. Her Majesty's Explosive.
+
+Select the correct answer using the codes given below.
+
+(a) 1 and 2 (b) 2 and 3
+
+(c) Only 1 (d) 1 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** HMX is a man-made, colourless liquid chemical which stands for High Melting Explosive.
+
+**Ans: C.** Only 1 (d) 1 and 4
+</details>
+
+**Q-ST9. I.A.S. (Pre) 2025**
+
+What is the common characteristic of the chemical
+
+substances generally known as CL-20, HMX and
+
+LLM-105, which are sometimes talked about in media?
+
+(a) These are alternatives to hydrofluorocarbon
+
+refrigerants
+
+(b) These are explosives in military weapons
+
+(c) These are high-energy fuels for cruise missiles
+
+(d) These are fuels for rocket propulsion
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** CL-20, also called Hexa-nitro-hexa-azaisowurtzitane or HNIW, is a polycyclic nitroamine explosive with the formula C6 H6 N12O12.
+
+**Ans: B.** These are explosives in military weapons
+</details>
+
+**Q-ST10. I.A.S. (Pre) 2009**
+
+Which one of the following is used as an explosive?
+
+(a) Phosphorus Trichloride (b) Mercuric Oxide
+
+(c) Graphite (d) Nitroglycerine
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Nitroglycerine is a heavy, colourless and oily liquid explosive.
+
+**Ans: D.** Nitroglycerine
+</details>
+
+**Q-ST13. Jharkhand P.C.S. (Pre) 2016**
+
+The chemical used in manufacturing of dynamite is
+
+(a) Glycerol (b) Glycerol triacetate
+
+(c) Glycerol trinitrate (d) Glycerol triiodate
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same teaching key as the linked stem above; answer is Glycerol trinitrate.
+
+**Ans: C.** Glycerol trinitrate
+</details>
 
 ## One-Liner Revision -- Radiation, Nuclear and Environmental Chemistry
 
@@ -1240,4 +625,491 @@ See the explanation of above question.
 | 28 | Basel Convention (1989) = controls transboundary movement of hazardous wastes |
 | 29 | Stockholm Convention (2001) = bans persistent organic pollutants (POPs) like DDT, PCBs |
 | 30 | CPCB = Central Pollution Control Board (India); SPCB = State Pollution Control Board |
+
+## Practice Zone — High-Yield Mock Drills (26 Questions)
+
+**Q-ST1.**
+
+Radioactivity was discovered in 1896 by:
+(a) Marie Curie  
+(b) Henri Becquerel  
+(c) Ernest Rutherford  
+(d) Wilhelm Roentgen  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Henri Becquerel discovered radioactivity using uranium salts; Marie and Pierre Curie later isolated polonium and radium.
+
+**Ans: B.** Henri Becquerel
+</details>
+
+---
+
+**Q-ST2.**
+
+Which nuclear emission consists of doubly charged helium nuclei ($^4_2He^{2+}$)?
+(a) Beta particles  
+(b) Alpha particles  
+(c) Gamma rays  
+(d) Neutrons  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Alpha particles are helium-4 nuclei ($2\text{ protons} + 2\text{ neutrons}$) with a $+2$ charge.
+
+**Ans: B.** Alpha particles
+</details>
+
+---
+
+**Q-ST3.**
+
+The half-life of Carbon-14 used in radiocarbon dating is approximately:
+(a) $1,000\text{ years}$  
+(b) $5,730\text{ years}$  
+(c) $100,000\text{ years}$  
+(d) $4.5\text{ billion years}$  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** $^{14}C$ has a half-life of $\approx 5,730\text{ years}$, suitable for dating organic artifacts up to $\approx 50,000\text{ years}$ old.
+
+**Ans: B.** $5,730\text{ years}$
+</details>
+
+---
+
+**Q-ST4.**
+
+What is the SI unit of radioactivity?
+(a) Curie  
+(b) Rutherford  
+(c) Becquerel  
+(d) Sievert  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Becquerel ($\text{Bq} = 1\text{ disintegration/sec}$) is the SI unit.
+
+**Ans: C.** Becquerel
+</details>
+
+---
+
+**Q-ST5.**
+
+Nuclear fission involves:
+(a) Joining light nuclei into heavier ones  
+(b) Splitting of a heavy unstable nucleus into smaller fragments with energy release  
+(c) Chemical reaction with oxygen  
+(d) Radioactive decay of electrons  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Fission splits heavy nuclei ($^{235}U$) into lighter fragments upon neutron absorption, releasing energy.
+
+**Ans: B.** Splitting of a heavy unstable nucleus into smaller fragments with energy release
+</details>
+
+---
+
+**Q-ST6.**
+
+The primary energy principle governing the Hydrogen bomb is:
+(a) Nuclear Fission  
+(b) Nuclear Fusion  
+(c) Chemical Combustion  
+(d) Alpha radiation  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Hydrogen bombs operate on thermonuclear fusion, initiated by an internal fission trigger.
+
+**Ans: B.** Nuclear Fusion
+</details>
+
+---
+
+**Q-ST7.**
+
+Which of the following substances was used by Alfred Nobel to stabilize nitroglycerin into Dynamite?
+(a) Kieselguhr (diatomaceous earth)  
+(b) Sulphur dust  
+(c) Cement  
+(d) Activated charcoal  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Liquid nitroglycerin was absorbed into porous kieselguhr to form shock-stable dynamite.
+
+**Ans: A.** Kieselguhr (diatomaceous earth)
+</details>
+
+---
+
+**Q-ST8.**
+
+The chemical explosive RDX is chemically known as:
+(a) Trinitrotoluene  
+(b) Cyclotrimethylenetrinitramine  
+(c) Pentaerythritol tetranitrate  
+(d) Nitroglycerin  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** RDX is cyclotrimethylenetrinitramine ($C3H6N6O6$), also known as Hexogen or T4.
+
+**Ans: B.** Cyclotrimethylenetrinitramine
+</details>
+
+---
+
+**Q-ST9.**
+
+Acid rain is defined as precipitation with a pH below:
+(a) 7.0  
+(b) 6.5  
+(c) 5.6  
+(d) 4.0  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches 5.6.
+
+**Ans: C.** 5.6
+</details>
+
+---
+
+**Q-ST10.**
+
+The two primary atmospheric pollutant gases responsible for acid rain are:
+(a) Carbon monoxide and Methane  
+(b) Sulphur dioxide ($SO_2$) and Nitrogen oxides ($NO_x$)  
+(c) Ozone and Argon  
+(d) Chlorine and Fluorine  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** $SO2$ and $NOx$ dissolve in atmospheric moisture to form $H2SO4$ and $HNO3$, driving acid precipitation.
+
+**Ans: B.** Sulphur dioxide ($SO2$) and Nitrogen oxides ($NOx$)
+</details>
+
+---
+
+**Q-ST11.**
+
+Photochemical smog is an oxidizing smog that contains which of the following secondary pollutants?
+(a) Ozone and Peroxyacetyl Nitrate (PAN)  
+(b) Sulphur dioxide and Coal soot  
+(c) Methane and Argon  
+(d) Lead oxide  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Photochemical smog forms under sunlight from $NOx$ and hydrocarbons, generating ozone and PAN.
+
+**Ans: A.** Ozone and Peroxyacetyl Nitrate (PAN)
+</details>
+
+---
+
+**Q-ST12.**
+
+In which atmospheric layer is the protective ozone layer concentrated?
+(a) Troposphere  
+(b) Stratosphere  
+(c) Mesosphere  
+(d) Thermosphere  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The ozone layer is situated in the stratosphere ($15–35\text{ km}$ altitude).
+
+**Ans: B.** Stratosphere
+</details>
+
+---
+
+**Q-ST13.**
+
+Which reactive chemical species released by CFCs catalytically destroys ozone molecules?
+(a) Free chlorine radicals ($Cl^\bullet$)  
+(b) Sodium ions  
+(c) Nitrogen molecules  
+(d) Argon atoms  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** UV photolysis of CFCs releases free chlorine radicals ($Cl^\bullet$) that catalytically destroy thousands of ozone molecules.
+
+**Ans: A.** Free chlorine radicals ($Cl^\bullet$)
+</details>
+
+---
+
+**Q-ST14.**
+
+Which of the following is NOT a greenhouse gas?
+(a) Methane ($CH_4$)  
+(b) Carbon dioxide ($CO_2$)  
+(c) Water vapor ($H_2O$)  
+(d) Nitrogen gas ($N_2$)  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Homonuclear diatomic nitrogen ($N2$) lacks an infrared-active dipole moment and does not absorb thermal radiation.
+
+**Ans: D.** Nitrogen gas ($N2$)
+</details>
+
+---
+
+**Q-ST15.**
+
+The environmental tragedy "Minamata Disease" was caused by toxic bioaccumulation of:
+(a) Methylmercury  
+(b) Cadmium  
+(c) Arsenic  
+(d) Lead  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Methylmercury bioaccumulated through marine food webs, causing neurological poisoning in Minamata Bay.
+
+**Ans: A.** Methylmercury
+</details>
+
+---
+
+**Q-ST16.**
+
+Chronic cadmium poisoning in the Jinzū River basin of Japan resulted in:
+(a) Minamata disease  
+(b) Itai-Itai disease  
+(c) Blackfoot disease  
+(d) Blue baby syndrome  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Cadmium contamination caused osteomalacia and kidney damage, termed Itai-Itai disease.
+
+**Ans: B.** Itai-Itai disease
+</details>
+
+---
+
+**Q-ST17.**
+
+Blue Baby Syndrome in infants is caused by high concentrations of which ion in drinking water?
+(a) Fluoride  
+(b) Nitrate ($NO_3^-$)  
+(c) Chloride  
+(d) Iron  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Excess nitrates convert hemoglobin to methemoglobin, impairing oxygen delivery and causing infant cyanosis.
+
+**Ans: B.** Nitrate ($NO3^-$)
+</details>
+
+---
+
+**Q-ST18.**
+
+Blackfoot disease is caused by chronic contamination of drinking water with:
+(a) Arsenic  
+(b) Mercury  
+(c) Cadmium  
+(d) Lead  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Arsenic.
+
+**Ans: A.** Arsenic
+</details>
+
+---
+
+**Q-ST19.**
+
+Which of the following materials is used as a moderator in nuclear power reactors to slow fast neutrons?
+(a) Cadmium  
+(b) Boron  
+(c) Heavy water ($D_2O$)  
+(d) Lead  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Heavy water ($D2O$) and graphite slow fast neutrons to thermal energies without absorbing them.
+
+**Ans: C.** Heavy water ($D2O$)
+</details>
+
+---
+
+**Q-ST20.**
+
+What type of explosive is commercial ANFO?
+(a) Liquid nitroglycerin  
+(b) Ammonium nitrate and fuel oil mixture  
+(c) Mercury fulminate  
+(d) Gunpowder  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** ANFO is a blasting agent consisting of $94\%$ ammonium nitrate and $6\%$ fuel oil.
+
+**Ans: B.** Ammonium nitrate and fuel oil mixture
+</details>
+
+---
+
+**Q-ST21.**
+
+Why is marble cancer observed on the Taj Mahal?
+(a) Sandstorms polish the marble  
+(b) Sulphuric acid in acid rain reacts with marble ($CaCO_3$) to form soluble gypsum  
+(c) Bacteria consume calcium  
+(d) Sunlight bleaches the stone  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Sulphuric acid from $SO2$ pollution reacts with marble calcium carbonate to form gypsum, causing flaking and discoloration.
+
+**Ans: B.** Sulphuric acid in acid rain reacts with marble ($CaCO3$) to form soluble gypsum
+</details>
+
+---
+
+**Q-ST22.**
+
+A high Biochemical Oxygen Demand (BOD) value in a water body indicates that the water:
+(a) Is highly pure and suitable for drinking  
+(b) Is heavily polluted with organic matter  
+(c) Contains excess dissolved oxygen  
+(d) Contains no bacteria  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** High BOD reflects heavy organic pollution, as decomposers consume dissolved oxygen during breakdown.
+
+**Ans: B.** Is heavily polluted with organic matter
+</details>
+
+---
+
+**Q-ST23.**
+
+What is the thickness of an ozone hole defined as in Dobson Units?
+(a) Below $220\text{ DU}$  
+(b) Exactly $500\text{ DU}$  
+(c) Above $1000\text{ DU}$  
+(d) $0\text{ DU}$ only  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** An ozone hole is defined when total column ozone drops below $220\text{ Dobson Units}$.
+
+**Ans: A.** Below $220\text{ DU}$
+</details>
+
+---
+
+**Q-ST24.**
+
+Which of the following gas molecules has the highest Global Warming Potential (GWP)?
+(a) Carbon dioxide ($CO_2$)  
+(b) Methane ($CH_4$)  
+(c) Sulphur hexafluoride ($SF_6$)  
+(d) Nitrous oxide ($N_2O$)  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** $SF6$ has a Global Warming Potential of $\approx 23,500$ relative to $CO2$ ($1.0$).
+
+**Ans: C.** Sulphur hexafluoride ($SF6$)
+</details>
+
+---
+
+**Q-ST25.**
+
+Burton's line (a dark blue-black line along the gums) is a diagnostic clinical symptom of chronic poisoning from:
+(a) Cadmium  
+(b) Lead  
+(c) Mercury  
+(d) Arsenic  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Lead.
+
+**Ans: B.** Lead
+</details>
+
+---
+
+**Q-ST26.**
+
+Why is an internal atomic (fission) bomb needed inside a thermonuclear hydrogen bomb?
+(a) To create bright light  
+(b) To generate the extreme temperatures ($>10^7\text{ K}$) required to initiate thermonuclear fusion  
+(c) To absorb excess neutrons  
+(d) To keep the bomb cool  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Fusing light nuclei requires overcoming electrostatic repulsion, which demands stellar temperatures ($>10^7\text{ K}$) provided by an initial fission detonation.
+
+**Ans: B.** To generate the extreme temperatures ($>10^7\text{ K}$) required to initiate thermonuclear fusion
+</details>
+
+---
+
+## Common Traps & High-Yield Pitfalls
+
+| Trap Area | What Students Confuse | Correct Fact |
+|---|---|---|
+| **Hydrogen Bomb Principle** | Believing the hydrogen bomb is a fission weapon. | The hydrogen bomb operates on **Nuclear Fusion**; fission is used only as an ignition trigger. |
+| **Radioactivity Nature** | Confusing radioactivity with chemical valence reactions. | Radioactivity is strictly a **nuclear property**, unaffected by chemical bonds, temperature, or pressure. |
+| **Greenhouse Gas Exclusions** | Assuming Argon or Nitrogen are greenhouse gases. | **Argon, Nitrogen, and Oxygen are NOT greenhouse gases**; they do not absorb thermal infrared radiation. |
+| **Dynamite Inventor** | Confusing Alfred Nobel with Oppenheimer or Curie. | **Alfred Nobel invented Dynamite** in 1867 by stabilizing nitroglycerin in kieselguhr. |
+| **Acid Rain Threshold** | Thinking normal rain has a neutral pH of 7.0. | Unpolluted rain is naturally acidic (**$\text{pH} \approx 5.6$**); acid rain has **$\text{pH} < 5.6$**. |
+| **Heavy Metal Disease Matching** | Swapping Mercury and Cadmium diseases. | **Mercury ($Hg$) = Minamata Disease**. **Cadmium ($Cd$) = Itai-Itai Disease**. |
+| **Water Contaminant Syndromes** | Confusing Arsenic and Nitrate conditions. | **Arsenic = Blackfoot Disease**. **Nitrate = Blue Baby Syndrome (Methemoglobinemia)**. |
+| **Smog Types Character** | Calling classical smog oxidizing. | **Classical smog is Reducing** ($SO_2$); **Photochemical smog is Oxidizing** ($O_3$, PAN). |
+| **Nuclear Moderator vs Control Rod** | Mixing up moderators ($D_2O$, graphite) with control rods ($Cd$, $B$). | **Moderators slow neutrons** ($D_2O$, graphite); **Control rods absorb neutrons** ($Cd$, $B$). |
+| **Radiation Penetration Order** | Reversing alpha and gamma penetration. | **Gamma has the highest penetration** ($\alpha < \beta < \gamma$); **Alpha has the highest ionization power**. |
+
+---
 

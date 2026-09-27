@@ -147,7 +147,7 @@ MSP / revolutions / NFSA scheme depth → [Topic 6](06_Agricultural_Policies_Sch
 
 > **Logic:** Remember the cut-off thresholds for UPPSC: Marginal is $<1	ext{ ha}$; Small is $1-2	ext{ ha}$; Semi-Medium is $2-4	ext{ ha}$; Medium is $4-10	ext{ ha}$; Large is $\ge 10	ext{ ha}$. Over 86% of Indian farmers are Small or Marginal!
 
-**Inline PYQ — UPPSC Prelims 2022, GS Paper I**
+**Inline PYQ**
 
 In the Agricultural Census of India, a farmer operating an agricultural holding of size between 1.00 hectare and 2.00 hectares is designated as:
 
@@ -159,9 +159,9 @@ D. Medium Farmer
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Marginal is below 1 hectare (< 1.0 ha), Small is 1 to 2 hectares (1.0–2.0 ha), Semi-Medium is 2 to 4 hectares, Medium is 4 to 10 hectares, and Large is 10 hectares and above. Small and Marginal farmers together make up 86.2% of all holdings in India.
+**Logic:** Marginal is below 1 hectare (< 1.0 ha), Small is 1 to 2 hectares (1.0–2.0 ha), Semi-Medium is 2 to 4 hectares, Medium is 4 to 10 hectares, and Large is 10 hectares and above.
 
-**Ans: B — Small Farmer..**
+**Ans: B.** Option B** is correct: — Small Farmer..
 
 </details>
 
@@ -218,7 +218,7 @@ D. Medium Farmer
 - **Cotton (कपास):** **Gujarat (1st)**, Maharashtra, Telangana.
 - **Jute (जूट - Golden Fibre):** **West Bengal (1st ~75%–80% of national total)**, Bihar, Assam.
 
-**Inline PYQ — UPPSC Prelims 2021, GS Paper I**
+**Inline PYQ**
 
 Which one of the following states is the largest producer of Pulses in India?
 
@@ -232,7 +232,7 @@ D. Maharashtra
 
 **Logic:** Madhya Pradesh consistently ranks first in total pulse production in India (accounting for over 25% of national output), followed by Rajasthan and Maharashtra.
 
-**Ans: B — Madhya Pradesh..**
+**Ans: B.** Option B** is correct: — Madhya Pradesh..
 
 </details>
 
@@ -263,7 +263,7 @@ D. Maharashtra
   3. **PMKSY - Per Drop More Crop (PDMC):** Promotes micro-irrigation technologies (**Drip Irrigation** and **Sprinkler Irrigation**) to save water (up to 40%–50%) and reduce fertilizer wastage through fertigation.
   4. **PMKSY - Watershed Development:** Ridge-to-valley soil and moisture conservation, check dams, and rainwater harvesting.
 
-**Inline PYQ — UPPSC Prelims 2020, GS Paper I**
+**Inline PYQ**
 
 In India, which one among the following is the largest source of irrigation in terms of net irrigated area?
 
@@ -277,7 +277,7 @@ D. Others
 
 **Logic:** Tube-wells and open wells together account for ~62%–64% of the total net irrigated area of India, followed by canals (~23%–25%) and tanks (~3%–4%).
 
-**Ans: C — Tube-wells and Wells..**
+**Ans: C.** Option C** is correct: — Tube-wells and Wells..
 
 </details>
 
@@ -309,7 +309,7 @@ D. Others
 
 > **Traps:** Urea = statutorily controlled MRP; P&K (DAP, MOP) = decontrolled MRP under NBS. India has 100% import dependence for Potash (MOP)!
 
-**Inline PYQ — UPPSC Prelims 2019, GS Paper I**
+**Inline PYQ**
 
 Regarding the Nutrient Based Subsidy (NBS) scheme for fertilizers in India, consider the following:
 1. It applies to all chemical fertilizers including Urea.
@@ -325,9 +325,9 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Statement 1 is incorrect because Urea is strictly excluded from NBS and remains under direct statutory price control. Statement 2 is correct: under the NBS scheme (introduced in 2010), the government provides a fixed per-kg subsidy while the retail market prices of P&K fertilizers (DAP, MOP, etc.) are decontrolled and set by fertilizer manufacturers.
+**Logic:** Statement 1 is incorrect because Urea is strictly excluded from NBS and remains under direct statutory price control.
 
-**Ans: B — 2 only..**
+**Ans: B.** Option B** is correct: — 2 only..
 
 </details>
 
@@ -372,7 +372,7 @@ D. Neither 1 nor 2
   - Enhances smallholder bargaining power in purchasing farm inputs at wholesale rates and selling produce directly to institutional buyers and exporters.
   - Central Sector Scheme: **Formation and Promotion of 10,000 FPOs** launched in **2020** with a dedicated credit guarantee fund in NABARD.
 
-**Inline PYQ — UPPSC Prelims 2021, GS Paper I**
+**Inline PYQ**
 
 The electronic trading portal 'e-NAM' (National Agriculture Market) is implemented by which of the following agencies?
 
@@ -384,9 +384,9 @@ D. Food Corporation of India (FCI)
 <details>
 <summary>Show answer</summary>
 
-**Logic:** e-NAM was launched on 14 April 2016 as a pan-India electronic trading portal networking APMC mandis. The Small Farmers' Agri-Business Consortium (SFAC) is the lead agency designated to implement e-NAM under the aegis of the Ministry of Agriculture & Farmers Welfare.
+**Logic:** e-NAM was launched on 14 April 2016 as a pan-India electronic trading portal networking APMC mandis.
 
-**Ans: B — Small Farmers' Agri-Business Consortium (SFAC)..**
+**Ans: B.** Option B** is correct: — Small Farmers' Agri-Business Consortium (SFAC)..
 
 </details>
 
@@ -437,7 +437,7 @@ D. Food Corporation of India (FCI)
   - Farmers ensuring **prompt repayment** receive an additional **3% prompt repayment incentive (PRI)**, bringing the effective interest rate down to just **4% per annum**.
 - **Expanded Scope (2018–19):** KCC facility extended to **Animal Husbandry, Dairy, and Fisheries** farmers for working capital needs up to ₹2 lakh at similar concessional interest rates.
 
-**Inline PYQ — UPPSC Prelims 2020, GS Paper I**
+**Inline PYQ**
 
 The Kisan Credit Card (KCC) scheme was introduced in India in which year?
 
@@ -449,9 +449,9 @@ D. 2001
 <details>
 <summary>Show answer</summary>
 
-**Logic:** The Kisan Credit Card (KCC) scheme was formulated by NABARD and introduced by the Government of India in August 1998 on the recommendations of the R.V. Gupta Committee to simplify and expedite the delivery of crop credit to farmers.
+**Logic:** The Kisan Credit Card (KCC) scheme was formulated by NABARD and introduced by the Government of India in August 1998 on the recommendations of the R.V.
 
-**Ans: C — 1998..**
+**Ans: C.** Option C** is correct: — 1998..
 
 </details>
 
@@ -527,7 +527,7 @@ D. 2001
    - India successfully negotiated the **Peace Clause** at the 9th WTO Ministerial Conference in Bali (2013), and made it permanent in 2014.
    - **Mandate:** Protects developing countries from being challenged or penalized under WTO dispute settlement mechanisms if their domestic food security procurement programs (such as MSP-backed procurement for the National Food Security Act, 2013) breach the 10% Amber Box *de-minimis* threshold.
 
-**Inline PYQ — UPSC Civil Services Prelims 2016**
+**Inline PYQ**
 
 In the context of the World Trade Organization (WTO), 'Amber Box, Blue Box and Green Box' subsidies are related to:
 
@@ -539,14 +539,13 @@ D. Information and Communication Technology
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Under the WTO Agreement on Agriculture (AoA), domestic agricultural support programs and subsidies are classified into three colored boxes: Green Box (non-distorting), Blue Box (production-limiting direct aids), and Amber Box (trade-distorting market price supports and subsidies).
+**Logic:** Under the WTO Agreement on Agriculture (AoA), domestic agricultural support programs and subsidies are classified into three colored boxes: Green Box (non-distorting), Blue Box (production-limiting direct aids), and A…
 
-**Ans: B — Agricultural Affairs..**
+**Ans: B.** Option B** is correct: — Agricultural Affairs..
 
 </details>
 
 ---
-
 
 ## Teaching expansion — additional theory (beyond Consolidated spine)
 
@@ -564,7 +563,7 @@ These points sit in teaching theory (not the Consolidated spine).
 
 ## Complete PYQ Bank (UPPCS)
 
-**Q1. UPPCS / UP standard** — Marginal holding
+**Q1. UPPCS / UP standard**
 
 According to the Agricultural Census of India, an operational holding of size less than 1.00 hectare is termed as:
 
@@ -576,13 +575,13 @@ D. Medium Holding
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Marginal is under 1.00 ha; Small is 1–2 ha.
+**Logic:** Marginal Holding.
 
-**Ans: A.** Marginal Holding.
+**Ans: A.** Marginal is under 1.00 ha; Small is 1–2 ha.
 
 </details>
 
-**Q2. UPPCS / UP standard** — NABARD date
+**Q2. UPPCS / UP standard**
 
 The National Bank for Agriculture and Rural Development (NABARD) was established on:
 
@@ -594,13 +593,13 @@ D. 1 January 1985
 <details>
 <summary>Show answer</summary>
 
-**Logic:** NABARD = 12 July 1982 on Sivaraman Committee recommendations.
+**Logic:** 12 July 1982.
 
-**Ans: B.** 12 July 1982.
+**Ans: B.** NABARD = 12 July 1982 on Sivaraman Committee recommendations.
 
 </details>
 
-**Q3. UPPCS / UP standard** — KCC committee
+**Q3. UPPCS / UP standard**
 
 The Kisan Credit Card (KCC) scheme was introduced in 1998 on the recommendations of which committee?
 
@@ -612,13 +611,12 @@ D. C. Rangarajan Committee
 <details>
 <summary>Show answer</summary>
 
-**Logic:** R.V. Gupta Committee → KCC 1998.
+**Logic:** Standard key matches R.V.
 
-**Ans: A.** R.V. Gupta Committee.
-
+**Ans: A.** R.V.
 </details>
 
-**Q4. UPPCS / UP standard** — Irrigation source share
+**Q4. UPPCS / UP standard**
 
 In the Net Irrigated Area of India, which irrigation source commands the largest percentage share?
 
@@ -630,13 +628,13 @@ D. Traditional Water Bodies
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Tubewells/wells ~62–64%; canals second.
+**Logic:** Tube-wells and Wells.
 
-**Ans: C.** Tube-wells and Wells.
+**Ans: C.** Tubewells/wells ~62–64%; canals second.
 
 </details>
 
-**Q5. UPPCS / UP standard** — PMFBY Rabi premium
+**Q5. UPPCS / UP standard**
 
 Under the Pradhan Mantri Fasal Bima Yojana (PMFBY), what is the uniform premium payable by farmers for Rabi food and oilseed crops?
 
@@ -648,10 +646,9 @@ D. 5.0%
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Rabi 1.5%; Kharif 2%; commercial/horti 5%.
+**Logic:** Rabi 1.5%; Kharif 2%; commercial/horti 5% — 1.5%
 
-**Ans: A.** 1.5%.
-
+**Ans: A.** 1.5%
 </details>
 
 ---
@@ -670,7 +667,7 @@ Extra Drill rebuilt from the former mixed RO/ARO–BPSC–UPSC–coaching bank (
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Marginal holdings are defined as $<1.00	ext{ ha}$. Small holdings are $1.00 - 2.00	ext{ ha}$. Semi-medium are $2.00 - 4.00	ext{ ha}$. Medium are $4.00 - 10.00	ext{ ha}$. Large are $10.00	ext{ ha}$ and above. Marginal holdings constitute 68.5% of all land holdings in India.
+**Logic:** Marginal holdings are defined as $<1.00 ext{ ha}$.
 
 **Ans: (A) Marginal Holding.**
 
@@ -684,7 +681,7 @@ Extra Drill rebuilt from the former mixed RO/ARO–BPSC–UPSC–coaching bank (
 <details>
 <summary>Show answer</summary>
 
-**Logic:** The Uttar Pradesh Zamindari Abolition and Land Reforms Act, 1950 (UP Act No. 1 of 1951) was drafted under the chairmanship of Govind Ballabh Pant and Charan Singh, receiving Presidential assent in early 1951 and protected under the Ninth Schedule by the 1st Constitutional Amendment Act, 1951.
+**Logic:** The Uttar Pradesh Zamindari Abolition and Land Reforms Act, 1950 (UP Act No.
 
 **Ans: (B) 1950.**
 
@@ -712,7 +709,7 @@ Extra Drill rebuilt from the former mixed RO/ARO–BPSC–UPSC–coaching bank (
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Dr. Norman Borlaug developed semi-dwarf, disease-resistant, high-yielding wheat varieties (such as *Lerma Rojo 64A* and *Sonora 64*) at the International Maize and Wheat Improvement Center (CIMMYT) in Mexico.
+**Logic:** Dr.
 
 **Ans: (B) Mexico.**
 
@@ -758,7 +755,7 @@ Extra Drill rebuilt from the former mixed RO/ARO–BPSC–UPSC–coaching bank (
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Mustard (सरसों) is a classic Rabi crop sown in October–November and harvested in March–April. Rice, Maize, and Groundnut are Kharif crops.
+**Logic:** Mustard (सरसों) is a classic Rabi crop sown in October–November and harvested in March–April.
 
 **Ans: (C) Mustard.**
 
@@ -786,7 +783,7 @@ Extra Drill rebuilt from the former mixed RO/ARO–BPSC–UPSC–coaching bank (
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Agronomists recommend a balanced NPK ratio of 4:2:1. Disproportionate subsidies on urea have distorted this ratio to over 8:3:1 in parts of Northern India.
+**Logic:** Agronomists recommend a balanced NPK ratio of 4:2:1.
 
 **Ans: (B) 4 : 2 : 1.**
 
@@ -800,7 +797,7 @@ Extra Drill rebuilt from the former mixed RO/ARO–BPSC–UPSC–coaching bank (
 <details>
 <summary>Show answer</summary>
 
-**Logic:** The Nutrient Based Subsidy (NBS) scheme for P&K fertilizers was launched on 1 April 2010. It fixes an annual per-kg subsidy on nutrients while decontrolling retail market prices.
+**Logic:** The Nutrient Based Subsidy (NBS) scheme for P&K fertilizers was launched on 1 April 2010.
 
 **Ans: (B) 2010.**
 
@@ -846,7 +843,7 @@ Extra Drill rebuilt from the former mixed RO/ARO–BPSC–UPSC–coaching bank (
 <details>
 <summary>Show answer</summary>
 
-**Logic:** NABARD was established on 12 July 1982 under the NABARD Act, 1981, upon the recommendations of the B. Sivaraman Committee (CRAFICARD).
+**Logic:** NABARD was established on 12 July 1982 under the NABARD Act, 1981, upon the recommendations of the B.
 
 **Ans: (B) 12 July 1982.**
 
@@ -860,7 +857,7 @@ Extra Drill rebuilt from the former mixed RO/ARO–BPSC–UPSC–coaching bank (
 <details>
 <summary>Show answer</summary>
 
-**Logic:** The KCC scheme was formulated by NABARD and RBI in August 1998 following the recommendations of the R.V. Gupta Committee on agricultural credit.
+**Logic:** The KCC scheme was formulated by NABARD and RBI in August 1998 following the recommendations of the R.V.
 
 **Ans: (A) R.V. Gupta Committee.**
 
@@ -944,7 +941,7 @@ Extra Drill rebuilt from the former mixed RO/ARO–BPSC–UPSC–coaching bank (
 <details>
 <summary>Show answer</summary>
 
-**Logic:** The Bali Ministerial Conference (9th MC, 2013) adopted the Peace Clause, which shields developing nations from being penalized under WTO rules if their food security procurement breaches the 10% de-minimis Amber Box limit.
+**Logic:** The Bali Ministerial Conference (9th MC, 2013) adopted the Peace Clause, which shields developing nations from being penalized under WTO rules if their food security procurement breaches the 10% de-minimis Amber Box l…
 
 **Ans: (C) Bali (2013).**
 
@@ -954,7 +951,9 @@ Extra Drill rebuilt from the former mixed RO/ARO–BPSC–UPSC–coaching bank (
 
 ## Practice Zone
 
-**Q1.** Which state in India has the highest average size of operational land holdings according to the Agricultural Census?
+**Q1.**
+
+Which state in India has the highest average size of operational land holdings according to the Agricultural Census?
 A. Punjab  
 B. Haryana  
 C. Rajasthan  
@@ -962,13 +961,15 @@ D. Nagaland
 <details>
 <summary>Show answer</summary>
 
-**Ans: D — Nagaland.**
-
 **Logic:** Nagaland has the highest average operational holding size (~5.06 ha) due to customary community land ownership patterns in tribal areas, followed by Punjab (~3.62 ha) and Rajasthan (~2.73 ha).
+
+**Ans: D.** Option D** is correct: — Nagaland.
 
 </details>
 
-**Q2.** The Rural Infrastructure Development Fund (RIDF) was established within NABARD in which financial year?
+**Q2.**
+
+The Rural Infrastructure Development Fund (RIDF) was established within NABARD in which financial year?
 A. 1991–92  
 B. 1995–96  
 C. 1998–99  
@@ -976,13 +977,15 @@ D. 2002–03
 <details>
 <summary>Show answer</summary>
 
-**Ans: B — 1995–96.**
-
 **Logic:** The RIDF was set up by the Government of India in NABARD in 1995–96 to finance rural infrastructure projects executed by State Governments, funded out of commercial banks' priority sector lending shortfalls.
+
+**Ans: B.** Option B** is correct: — 1995–96.
 
 </details>
 
-**Q3.** Who among the following is recognized as the pioneer of Zero Budget Natural Farming (ZBNF) in India?
+**Q3.**
+
+Who among the following is recognized as the pioneer of Zero Budget Natural Farming (ZBNF) in India?
 A. Prof. M.S. Swaminathan  
 B. Subhash Palekar  
 C. Dr. Norman Borlaug  
@@ -990,13 +993,15 @@ D. Sundarlal Bahuguna
 <details>
 <summary>Show answer</summary>
 
-**Ans: B — Subhash Palekar.**
-
 **Logic:** Padma Shri Subhash Palekar formulated and popularized Zero Budget Natural Farming (ZBNF), establishing its 4 pillars: *Jeevamrutha, Bijamrutha, Acchadana,* and *Whapasa*.
+
+**Ans: B.** Option B** is correct: — Subhash Palekar.
 
 </details>
 
-**Q4.** In a crop season, if a farmer grows Rice, Maize, and Jute, in which season are these crops harvested?
+**Q4.**
+
+In a crop season, if a farmer grows Rice, Maize, and Jute, in which season are these crops harvested?
 A. March – April  
 B. May – June  
 C. September – October  
@@ -1004,13 +1009,15 @@ D. December – January
 <details>
 <summary>Show answer</summary>
 
-**Ans: C — September – October.**
-
 **Logic:** Rice, Maize, and Jute are Kharif crops sown in June–July with the arrival of the monsoon and harvested in September–October.
+
+**Ans: C.** Option C** is correct: — September – October.
 
 </details>
 
-**Q5.** In economics, when surplus laborers are withdrawn from agriculture and total output remains unchanged, the marginal productivity of labor is:
+**Q5.**
+
+In economics, when surplus laborers are withdrawn from agriculture and total output remains unchanged, the marginal productivity of labor is:
 A. Positive and increasing  
 B. Unity  
 C. Zero or negative  
@@ -1018,13 +1025,15 @@ D. Infinite
 <details>
 <summary>Show answer</summary>
 
-**Ans: C — Zero or negative.**
-
 **Logic:** Disguised unemployment is characterized by zero (or negative) marginal productivity of labor, meaning surplus workers do not add any net output to the farm.
+
+**Ans: C.** Option C** is correct: — Zero or negative.
 
 </details>
 
-**Q6.** The First Constitutional Amendment Act, 1951 inserted which schedule to protect early Zamindari Abolition laws?
+**Q6.**
+
+The First Constitutional Amendment Act, 1951 inserted which schedule to protect early Zamindari Abolition laws?
 A. Seventh Schedule  
 B. Eighth Schedule  
 C. Ninth Schedule  
@@ -1032,13 +1041,15 @@ D. Tenth Schedule
 <details>
 <summary>Show answer</summary>
 
-**Ans: C — Ninth Schedule.**
-
 **Logic:** The 1st Constitutional Amendment Act (1951) added Article 31B and the Ninth Schedule to immunize agrarian land reform laws passed by states against fundamental rights challenges.
+
+**Ans: C.** Option C** is correct: — Ninth Schedule.
 
 </details>
 
-**Q7.** Which one of the following fertilizers has its Maximum Retail Price (MRP) statutorily determined by the Central Government of India?
+**Q7.**
+
+Which one of the following fertilizers has its Maximum Retail Price (MRP) statutorily determined by the Central Government of India?
 A. Di-Ammonium Phosphate (DAP)  
 B. Muriate of Potash (MOP)  
 C. Single Super Phosphate (SSP)  
@@ -1046,13 +1057,15 @@ D. Urea
 <details>
 <summary>Show answer</summary>
 
-**Ans: D — Urea.**
+**Logic:** Urea is the only chemical fertilizer whose MRP is statutorily fixed by the Government of India.
 
-**Logic:** Urea is the only chemical fertilizer whose MRP is statutorily fixed by the Government of India. The MRPs of all non-urea P&K fertilizers are decontrolled under the Nutrient Based Subsidy (NBS) regime.
+**Ans: D.** Option D** is correct: — Urea.
 
 </details>
 
-**Q8.** The National Commission on Farmers (NCF, 2004–2006) was chaired by:
+**Q8.**
+
+The National Commission on Farmers (NCF, 2004–2006) was chaired by:
 A. Dr. Y.K. Alagh  
 B. Prof. M.S. Swaminathan  
 C. Dr. C. Rangarajan  
@@ -1060,13 +1073,14 @@ D. B. Sivaraman
 <details>
 <summary>Show answer</summary>
 
-**Ans: B — Prof. M.S. Swaminathan.**
+**Logic:** Option B is correct: — Prof — Prof
 
-**Logic:** Prof. M.S. Swaminathan chaired the National Commission on Farmers, which submitted five historic reports recommending MSP at Cost C2 + 50%.
-
+**Ans: B.** Prof.
 </details>
 
-**Q9.** In India, which state was formally declared as the world's first 100% Organic State in 2016?
+**Q9.**
+
+In India, which state was formally declared as the world's first 100% Organic State in 2016?
 A. Kerala  
 B. Uttarakhand  
 C. Sikkim  
@@ -1074,13 +1088,15 @@ D. Himachal Pradesh
 <details>
 <summary>Show answer</summary>
 
-**Ans: C — Sikkim.**
-
 **Logic:** Sikkim became the world's first 100% organic state in January 2016, winning the UN FAO Future Policy Award in 2018.
+
+**Ans: C.** Option C** is correct: — Sikkim.
 
 </details>
 
-**Q10.** The apex body that formally approves and announces the Minimum Support Price (MSP) based on CACP recommendations is:
+**Q10.**
+
+The apex body that formally approves and announces the Minimum Support Price (MSP) based on CACP recommendations is:
 A. Ministry of Agriculture and Farmers Welfare  
 B. Cabinet Committee on Economic Affairs (CCEA)  
 C. NITI Aayog  
@@ -1088,13 +1104,15 @@ D. Reserve Bank of India
 <details>
 <summary>Show answer</summary>
 
-**Ans: B — Cabinet Committee on Economic Affairs (CCEA).**
-
 **Logic:** The Cabinet Committee on Economic Affairs (CCEA), chaired by the Prime Minister, is the final decision-making body that approves and announces MSPs.
+
+**Ans: B.** Option B** is correct: — Cabinet Committee on Economic Affairs (CCEA).
 
 </details>
 
-**Q11.** What is the minimum share of priority sector lending that domestic commercial banks must direct specifically toward Small and Marginal Farmers (SMFs)?
+**Q11.**
+
+What is the minimum share of priority sector lending that domestic commercial banks must direct specifically toward Small and Marginal Farmers (SMFs)?
 A. 5%  
 B. 8%  
 C. 10%  
@@ -1102,13 +1120,15 @@ D. 18%
 <details>
 <summary>Show answer</summary>
 
-**Ans: C — 10%.**
-
 **Logic:** Out of the 18% total ANBC mandated for agriculture, RBI prescribes that 10% must be specifically directed to Small and Marginal Farmers (SMFs).
+
+**Ans: C.** Option C** is correct: — 10%.
 
 </details>
 
-**Q12.** The 'All-India Rural Credit Survey Committee' (1954), which recommended the establishment of the State Bank of India, was headed by:
+**Q12.**
+
+The 'All-India Rural Credit Survey Committee' (1954), which recommended the establishment of the State Bank of India, was headed by:
 A. A.D. Gorwala  
 B. B. Venkatappiah  
 C. M. Narasimham  
@@ -1116,13 +1136,15 @@ D. B. Sivaraman
 <details>
 <summary>Show answer</summary>
 
-**Ans: A — A.D. Gorwala.**
+**Logic:** The All-India Rural Credit Survey Committee was appointed by RBI in 1951 under A.D.
 
-**Logic:** The All-India Rural Credit Survey Committee was appointed by RBI in 1951 under A.D. Gorwala and submitted its report in 1954, recommending the creation of SBI to expand commercial banking into rural India.
+**Ans: A.** Option A** is correct: — A.D.
 
 </details>
 
-**Q13.** Under the WTO Agreement on Agriculture, subsidies provided for agricultural research, pest control, and rural infrastructure are classified under:
+**Q13.**
+
+Under the WTO Agreement on Agriculture, subsidies provided for agricultural research, pest control, and rural infrastructure are classified under:
 A. Amber Box  
 B. Blue Box  
 C. Green Box  
@@ -1130,13 +1152,15 @@ D. Red Box
 <details>
 <summary>Show answer</summary>
 
-**Ans: C — Green Box.**
-
 **Logic:** The Green Box contains all support programs that cause zero or minimal trade distortion (research, extension, pest control, infrastructure, disaster relief), which are allowed without limit.
+
+**Ans: C.** Option C** is correct: — Green Box.
 
 </details>
 
-**Q14.** The electronic trading portal e-NAM was launched nationwide in which year?
+**Q14.**
+
+The electronic trading portal e-NAM was launched nationwide in which year?
 A. 2014  
 B. 2015  
 C. 2016  
@@ -1144,13 +1168,15 @@ D. 2018
 <details>
 <summary>Show answer</summary>
 
-**Ans: C — 2016.**
-
 **Logic:** e-NAM was launched on 14 April 2016 by Prime Minister Narendra Modi to network existing APMC mandis into a unified national market.
+
+**Ans: C.** Option C** is correct: — 2016.
 
 </details>
 
-**Q15.** Which agency certifies that Breeder Seed has been converted into Foundation Seed in the Indian seed certification ladder?
+**Q15.**
+
+Which agency certifies that Breeder Seed has been converted into Foundation Seed in the Indian seed certification ladder?
 A. ICAR  
 B. National Seeds Corporation / State Seed Corporations  
 C. State Seed Certification Agency  
@@ -1158,13 +1184,15 @@ D. Ministry of Agriculture
 <details>
 <summary>Show answer</summary>
 
-**Ans: B — National Seeds Corporation / State Seed Corporations.**
-
 **Logic:** Foundation seed is produced from breeder seed by the National Seeds Corporation (NSC) or State Seed Corporations and tagged with a White label.
+
+**Ans: B.** Option B** is correct: — National Seeds Corporation / State Seed Corporations.
 
 </details>
 
-**Q16.** Which one of the following crops is a leguminous pulse crop that fixes atmospheric nitrogen in soils?
+**Q16.**
+
+Which one of the following crops is a leguminous pulse crop that fixes atmospheric nitrogen in soils?
 A. Wheat  
 B. Maize  
 C. Gram (चना)  
@@ -1172,13 +1200,15 @@ D. Bajra
 <details>
 <summary>Show answer</summary>
 
-**Ans: C — Gram (चना).**
-
 **Logic:** Gram is a leguminous pulse crop possessing symbiotic *Rhizobium* root bacteria that fix atmospheric nitrogen, enhancing natural soil fertility.
+
+**Ans: C.** Option C** is correct: — Gram (चना).
 
 </details>
 
-**Q17.** In India, which state ranks FIRST in terms of total absolute production of Wheat?
+**Q17.**
+
+In India, which state ranks FIRST in terms of total absolute production of Wheat?
 A. Punjab  
 B. Haryana  
 C. Uttar Pradesh  
@@ -1186,13 +1216,15 @@ D. Madhya Pradesh
 <details>
 <summary>Show answer</summary>
 
-**Ans: C — Uttar Pradesh.**
-
 **Logic:** Uttar Pradesh produces the highest absolute quantity of wheat in India (~32%–34% of national production), while Punjab records the highest yield per hectare.
+
+**Ans: C.** Option C** is correct: — Uttar Pradesh.
 
 </details>
 
-**Q18.** Which state in India is the largest producer of Rapeseed & Mustard?
+**Q18.**
+
+Which state in India is the largest producer of Rapeseed & Mustard?
 A. Gujarat  
 B. Madhya Pradesh  
 C. Rajasthan  
@@ -1200,13 +1232,15 @@ D. Uttar Pradesh
 <details>
 <summary>Show answer</summary>
 
-**Ans: C — Rajasthan.**
-
 **Logic:** Rajasthan is the leading producer of Rapeseed and Mustard in India, accounting for over 45% of total national output.
+
+**Ans: C.** Option C** is correct: — Rajasthan.
 
 </details>
 
-**Q19.** The 'Operation Flood' programme, which transformed India into the world's largest milk producer, was initiated by:
+**Q19.**
+
+The 'Operation Flood' programme, which transformed India into the world's largest milk producer, was initiated by:
 A. ICAR  
 B. National Dairy Development Board (NDDB)  
 C. Ministry of Agriculture  
@@ -1214,13 +1248,15 @@ D. NITI Aayog
 <details>
 <summary>Show answer</summary>
 
-**Ans: B — National Dairy Development Board (NDDB).**
+**Logic:** Operation Flood was launched in 1970 by the National Dairy Development Board (NDDB) under the leadership of Dr.
 
-**Logic:** Operation Flood was launched in 1970 by the National Dairy Development Board (NDDB) under the leadership of Dr. Verghese Kurien.
+**Ans: B.** Option B** is correct: — National Dairy Development Board (NDDB).
 
 </details>
 
-**Q20.** Under the PM Fasal Bima Yojana (PMFBY), what is the uniform insurance premium payable by farmers for annual commercial and horticultural crops?
+**Q20.**
+
+Under the PM Fasal Bima Yojana (PMFBY), what is the uniform insurance premium payable by farmers for annual commercial and horticultural crops?
 A. 1.5%  
 B. 2.0%  
 C. 3.0%  
@@ -1228,13 +1264,15 @@ D. 5.0%
 <details>
 <summary>Show answer</summary>
 
-**Ans: D — 5.0%.**
-
 **Logic:** PMFBY prescribes a uniform premium rate of 5.0% of the sum insured for all annual commercial and horticultural crops.
+
+**Ans: D.** Option D** is correct: — 5.0%.
 
 </details>
 
-**Q21.** Which Constitutional Amendment Act inserted Article 31B to protect land reform laws from judicial review?
+**Q21.**
+
+Which Constitutional Amendment Act inserted Article 31B to protect land reform laws from judicial review?
 A. 1st Amendment Act, 1951  
 B. 4th Amendment Act, 1955  
 C. 24th Amendment Act, 1971  
@@ -1242,13 +1280,15 @@ D. 44th Amendment Act, 1978
 <details>
 <summary>Show answer</summary>
 
-**Ans: A — 1st Amendment Act, 1951.**
-
 **Logic:** Article 31B and the Ninth Schedule were inserted by the First Constitutional Amendment Act, 1951 to insulate agrarian reform legislation from fundamental rights challenges.
+
+**Ans: A.** Option A** is correct: — 1st Amendment Act, 1951.
 
 </details>
 
-**Q22.** In a three-tiered short-term rural cooperative credit structure, which institution operates at the grassroots village level?
+**Q22.**
+
+In a three-tiered short-term rural cooperative credit structure, which institution operates at the grassroots village level?
 A. District Central Cooperative Bank (DCCB)  
 B. Primary Agricultural Credit Society (PACS)  
 C. State Cooperative Bank (StCB)  
@@ -1256,13 +1296,15 @@ D. Regional Rural Bank (RRB)
 <details>
 <summary>Show answer</summary>
 
-**Ans: B — Primary Agricultural Credit Society (PACS).**
-
 **Logic:** PACS operates at the village level, DCCB at the district level, and StCB at the apex state level in the short-term cooperative credit structure.
+
+**Ans: B.** Option B** is correct: — Primary Agricultural Credit Society (PACS).
 
 </details>
 
-**Q23.** Neem Coated Urea (NCU) was made 100% mandatory for all domestic and imported agricultural urea in India in:
+**Q23.**
+
+Neem Coated Urea (NCU) was made 100% mandatory for all domestic and imported agricultural urea in India in:
 A. 2011  
 B. 2014  
 C. 2015  
@@ -1270,13 +1312,15 @@ D. 2019
 <details>
 <summary>Show answer</summary>
 
-**Ans: C — 2015.**
-
 **Logic:** The Government of India mandated 100% neem coating for all subsidized agricultural urea in 2015 to improve nitrogen absorption and curtail black marketing.
+
+**Ans: C.** Option C** is correct: — 2015.
 
 </details>
 
-**Q24.** Which one of the following states leads India in Tank irrigation?
+**Q24.**
+
+Which one of the following states leads India in Tank irrigation?
 A. Punjab  
 B. Uttar Pradesh  
 C. Tamil Nadu  
@@ -1284,13 +1328,15 @@ D. Rajasthan
 <details>
 <summary>Show answer</summary>
 
-**Ans: C — Tamil Nadu.**
-
 **Logic:** Tamil Nadu and Andhra Pradesh lead India in tank irrigation due to the undulating hard-rock topography of the Deccan plateau, which facilitates natural surface water retention in tanks.
+
+**Ans: C.** Option C** is correct: — Tamil Nadu.
 
 </details>
 
-**Q25.** The first Regional Rural Bank (RRB) established in India was:
+**Q25.**
+
+The first Regional Rural Bank (RRB) established in India was:
 A. Prathama Bank (Moradabad)  
 B. Baroda UP Bank  
 C. Malwa Gramin Bank  
@@ -1298,13 +1344,15 @@ D. Aryavart Bank
 <details>
 <summary>Show answer</summary>
 
-**Ans: A — Prathama Bank (Moradabad).**
-
 **Logic:** Prathama Bank, established on 2 October 1975 at Moradabad, Uttar Pradesh (sponsored by Syndicate Bank), was the first RRB in India.
+
+**Ans: A.** Option A** is correct: — Prathama Bank (Moradabad).
 
 </details>
 
-**Q26.** Which international organization conferred the 'Future Policy Gold Award' on Sikkim for becoming the world's first 100% organic state?
+**Q26.**
+
+Which international organization conferred the 'Future Policy Gold Award' on Sikkim for becoming the world's first 100% organic state?
 A. World Bank  
 B. Food and Agriculture Organization (FAO)  
 C. UNEP  
@@ -1312,12 +1360,11 @@ D. World Economic Forum
 <details>
 <summary>Show answer</summary>
 
-**Ans: B — Food and Agriculture Organization (FAO).**
-
 **Logic:** The UN Food and Agriculture Organization (FAO), in partnership with the World Future Council, awarded the Future Policy Gold Award to Sikkim in October 2018 for becoming the world's first 100% organic state.
 
-</details>
+**Ans: B.** Option B** is correct: — Food and Agriculture Organization (FAO).
 
+</details>
 
 ---
 

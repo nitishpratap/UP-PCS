@@ -223,6 +223,30 @@ Around mid-March, coverage said **Vikram K. Doraiswami** was appointed India’s
 - **Mirza Fakhrul Islam Alamgir** — President of Bangladesh (coverage).
 - **Abelardo de la Espriella** — President of Colombia (coverage).
 
+## September 2026
+
+### National Commission for Safai Karamcharis (NCSK)
+
+**What happened**
+The Social Justice Ministry announced fresh leadership of the **National Commission for Safai Karamcharis**.
+
+**What you should remember**
+
+- Chairperson: **Bhagwat Prasad Makwana**.
+- Vice-Chairperson: **Kaishab Bihari**.
+- Members named in the PIB note: **Manoj Kumar Balmiki**, **Sushma Gaudiyal**, **Ravi Ramu Kalose**.
+- Tenure in the note: up to **31 March 2028** (remaining tenure of the present Commission).
+
+### UNGA 81st Session President
+
+- **Khalilur Rahman** (Bangladesh) — President of the **81st UNGA** session from **8 September 2026**.
+- Full card → [International](01_International.md).
+
+### Soft ACC / other September appointments
+
+- CBSE Chairperson (ACC coverage): **Mandeep K. Bhandari**.
+- DWBDNC Governing Body members: **Narayan Dewasi** and **Swaroop Singh Banjara**.
+
 ## Practice Zone — UPPCS Format
 
 > **20 questions** for this sheet only — drill after you revise the months above.

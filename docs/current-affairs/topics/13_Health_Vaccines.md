@@ -350,6 +350,24 @@ Independence Day speeches also spoke about wider free hospital cover under **Ayu
 
 ---
 
+## September 2026
+
+### National Formulary of India (NFI) 2026 | 7th edition
+
+**What happened**
+MoS Health **Anupriya Patel** released the **7th edition** of the **National Formulary of India (NFI 2026)** on **21 September 2026** during National Pharmacovigilance Week.
+
+**What you should remember**
+
+- Publisher / technical body: **Indian Pharmacopoeia Commission (IPC)**.
+- Format: print + digital.
+- Size in official coverage: about **653** monographs (including new monographs, immunologicals, and fixed-dose combinations).
+- Pharmacovigilance Week: **17–23 September 2026**.
+- Week theme stress: promoting **rational use of medicines** through pharmacovigilance / safer healthcare.
+
+!!! tip
+NFI is a formulary (how medicines are used safely), not the same as the Indian Pharmacopoeia standards book — do not swap the two names in options.
+
 ## Practice Zone — UPPCS Format
 
 > **20 questions** for this sheet only — drill after you revise the months above.

@@ -229,9 +229,33 @@
 
 ---
 
+## Bilingual Terminology -- Sound and Wave Motion
+
+| English Term | Hindi Term | Key Anchor |
+|---|---|---|
+| **Sound** (ध्वनि) | ध्वनि | Mechanical longitudinal wave; needs medium; cannot travel in vacuum |
+| **Frequency** (आवृत्ति) | आवृत्ति | Number of vibrations per second; SI unit = Hz |
+| **Wavelength** (तरंगदैर्ध्य) | तरंगदैर्ध्य | Distance between two consecutive crests/troughs; SI unit = metre |
+| **Amplitude** (आयाम) | आयाम | Maximum displacement from mean position; determines loudness |
+| **Pitch** (तारत्व) | तारत्व | Highness/lowness of sound; depends on frequency |
+| **Loudness** (प्रबलता) | प्रबलता | Subjective sensation; depends on amplitude and intensity |
+| **Infrasound** (अवश्रव्य ध्वनि) | अवश्रव्य ध्वनि | Frequency < 20 Hz; humans cannot hear; elephants, whales use it |
+| **Ultrasound** (पराश्रव्य ध्वनि) | पराश्रव्य ध्वनि | Frequency > 20,000 Hz; bats, dolphins; used in SONAR, medical imaging |
+| **Echo** (प्रतिध्वनि) | प्रतिध्वनि | Reflection of sound; minimum distance for echo = 17 m (at 20 degC) |
+| **Reverberation** (अनुनाद) | प्रतिध्वनि लम्बी / अनुगूँज | Persistence of sound due to multiple reflections in enclosed space |
+| **Resonance** (अनुनाद) | अनुनाद | When applied frequency = natural frequency; amplitude becomes large |
+| **Doppler Effect** (डॉपलर प्रभाव) | डॉपलर प्रभाव | Change in apparent frequency due to relative motion between source and observer |
+| **Decibel (dB)** (डेसिबल) | डेसिबल | Logarithmic unit of sound intensity |
+| **SONAR** (सोनार) | सोनार | Sound Navigation and Ranging; uses ultrasound to detect underwater objects |
+| **Noise Pollution** (ध्वनि प्रदूषण) | ध्वनि प्रदूषण | Unwanted sound causing health problems; >85 dB prolonged = hearing damage |
+
+---
+
 ## Complete PYQ Bank — UPPCS
 
-**Q1. (U.P. R.O./A.R.O. (Pre) 2021)** In a Sitar, which type of sound vibrations are produced?
+**Q-ST1. UP RO/ARO (Pre) 2021**
+
+In a Sitar, which type of sound vibrations are produced?
 
 (a) Progressive and Longitudinal
 
@@ -244,25 +268,14 @@
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  When we pluck the string of an instrument, like the Sitar,
+**Logic:** When we pluck the string of an instrument, like the Sitar, the sound that we hear is not only that of the string.
 
-the sound that we hear is not only that of the string. The
-
-whole instrument is forced to vibrate, and it is the sound of
-
-the vibration of the instrument that we hear. When a string
-
-under tension is set into vibration, a transverse wave travels
-
-along the wire and is reflected at the fixed end. A transverse
-
-stationary wave is thus formed.
-
+**Ans: D.** Stationary and Transverse
 </details>
 
-**Q2. (U.P. P.C.S. (Pre) 1991)** Long radio waves are reflected by which of the
+**Q-ST2. UPPCS (Pre) 1991**
+
+Long radio waves are reflected by which of the
 
 following layer of Earth's surface –
 
@@ -273,19 +286,14 @@ following layer of Earth's surface –
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  The ionosphere is a region of Earth's upper atmosphere from
+**Logic:** The ionosphere is a region of Earth's upper atmosphere from about 50 to 400 miles altitude.
 
-about 50 to 400 miles altitude. It is ionized by solar radiation.
-
-It has practical importance because among other functions, it
-
-influences radio propagation to distant places on Earth.
-
+**Ans: B.** Ionosphere
 </details>
 
-**Q3. (U.P.P.C.S. (Pre) 1998)** Wireless communication is reflected back to the earth’s
+**Q-ST3. UPPCS (Pre) 1998**
+
+Wireless communication is reflected back to the earth’s
 
 surface by the –
 
@@ -296,13 +304,14 @@ surface by the –
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches Ionosphere (d) Exosphere.
 
+**Ans: C.** Ionosphere (d) Exosphere
 </details>
 
-**Q4. (U.P. Lower Sub. (Pre) 1998)** Which of the following atmospheric layers is
+**Q-ST4. UP Lower Sub (Pre) 1998**
+
+Which of the following atmospheric layers is
 
 responsible for the deflection of radiowaves ?
 
@@ -313,13 +322,12 @@ responsible for the deflection of radiowaves ?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  See the explanation of above question.
-
+**Ans: D.** Ionosphere
 </details>
 
-**Q5. (U.P.P.C.S. (Pre) 2005)** Which one of the following statements is not true about
+**Q-ST5. UPPCS (Pre) 2005**
+
+Which one of the following statements is not true about
 
 cosmic rays?
 
@@ -334,13 +342,14 @@ cosmic rays?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches They are electromagnetic waves.
 
+**Ans: A.** They are electromagnetic waves
 </details>
 
-**Q6. (U.P. R.O./A.R.O. (Mains) 2017)** Which of the following does not require a medium?
+**Q-ST6. UP RO/ARO (Mains) 2017**
+
+Which of the following does not require a medium?
 
 (a) Radiation (b) Convection
 
@@ -349,23 +358,14 @@ cosmic rays?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  In physics, radiation is the emission or transmission of energy
+**Logic:** In physics, radiation is the emission or transmission of energy in the form of waves or particles through space or through a medium.
 
-in the form of waves or particles through space or through
-
-a medium. Electromagnetic radiations such as radio waves,
-
-microwaves, infrared, visible light, X-rays and gamma rays
-
-do not require a medium. On the other hand heat transmission
-
-by convection and conduction requires a medium.
-
+**Ans: A.** Radiation (b) Convection
 </details>
 
-**Q7. (U.P.P.C.S. (Pre) 2019)** Which one of the following is associated with 'Albedo'?
+**Q-ST7. UPPCS (Pre) 2019**
+
+Which one of the following is associated with 'Albedo'?
 
 (a) Transmitting power (b) Absorbing power
 
@@ -374,23 +374,14 @@ by convection and conduction requires a medium.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  Albedo is the fraction of light or radiation that is reflected
+**Logic:** Albedo is the fraction of light or radiation that is reflected by a body or surface.
 
-by a body or surface. It is commonly used in astronomy to
-
-describe the reflective properties of planets, satellites, and
-
-asteroids. The range of albedo on the Earth's surface can be
-
-as high as 95% (0.95) for fresh snow cover and as little as
-
-3% (0.03) for water.
-
+**Ans: D.** Reflecting power
 </details>
 
-**Q8. (U.P. P.C.S. (Pre) 2022)** The Earth's atmosphere is mainly heated by which one
+**Q-ST8. UPPCS (Pre) 2022**
+
+The Earth's atmosphere is mainly heated by which one
 
 of the following?
 
@@ -405,39 +396,14 @@ of the following?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  The energy released from the Sun is emitted as shortwave
+**Logic:** The energy released from the Sun is emitted as shortwave light and ultraviolet energy.
 
-light and ultraviolet energy. When it reaches the Earth, some
-
-is reflected back to space (about 35%), some is absorbed
-
-by the atmosphere (about 14%), and some is absorbed in
-
-the Earth's surface (about 51%). The insolation received by
-
-the Earth is in shortwave form and heats up its surface. The
-
-Earth after being heated itself becomes a radiating body and
-
-it radiates energy to the atmosphere in longwave form. This
-
-energy heats up the atmosphere from below. This process
-
-is known as terrestrial radiation. The longwave terrestrial
-
-radiation is absorbed by the atmospheric gases particularly
-
-by carbon dioxide and the other greenhouse gases. Hence,
-
-the Earth's atmosphere is mainly heated by the longwave
-
-terrestrial radiation.
-
+**Ans: C.** Longwave terrestrial radiation
 </details>
 
-**Q9. (U.P. P.C.S. (Pre) 2018 / U.P. P.C.S. (Mains) 2005)** Which of the following electromagnetic radiations has
+**Q-ST9. UPPCS (Pre) 2018 / UPPCS (Mains) 2005**
+
+Which of the following electromagnetic radiations has
 
 the maximum energy?
 
@@ -448,23 +414,14 @@ the maximum energy?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  Shorter the wavelength, greater is the frequency and energy.
+**Logic:** Shorter the wavelength, greater is the frequency and energy.
 
-In reference to energy, the sequence of the energy of electromagnetic rays is as follows :
-
-Radio waves < Microwaves < Infrared < Visible light <
-
-Ultraviolet rays < X-rays < Gamma rays.
-
-It is clear that among the given options, the X-rays have the
-
-maximum amount of energy than others.
-
+**Ans: D.** X-rays
 </details>
 
-**Q10. (U.P. R.O./A.R.O. (Pre) 2023)** Consider the following and arrange these in increasing
+**Q-ST10. UP RO/ARO (Pre) 2023**
+
+Consider the following and arrange these in increasing
 
 order of frequency :
 
@@ -483,17 +440,14 @@ Code :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  The correct increasing order of the given electromagnetic
+**Logic:** The correct increasing order of the given electromagnetic waves in terms of frequency is as follows : Radio waves < Infrared rays < Visible rays < X-rays.
 
-waves in terms of frequency is as follows :
-
-Radio waves < Infrared rays < Visible rays < X-rays.
-
+**Ans: D.** IV, III, II, I
 </details>
 
-**Q11. (U.P.P.C.S.(Pre) 2013 / U.P. U.D.A./L.D.A. (Pre) 2010 / U.P.P.C.S (Pre) 2010 / U.P.P.C.S. (Pre) 2002)** Which type of electromagnetic radiation is used in the
+**Q-ST11. UPPCS(Pre) 2013 / U.P. U.D.A./L.D.A. (Pre) 2010 / U.P.P.C.S (Pre) 2010 / UPPCS (Pre) 2002**
+
+Which type of electromagnetic radiation is used in the
 
 remote control of a television?
 
@@ -504,13 +458,14 @@ remote control of a television?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches Infrared (b) Ultraviolet.
 
+**Ans: A.** Infrared (b) Ultraviolet
 </details>
 
-**Q12. (U.P.P.C.S. (Mains) 2013 / I.A.S. (Pre) 2000)** Which one of the following does a TV remote control
+**Q-ST12. UPPCS (Mains) 2013 / I.A.S. (Pre) 2000**
+
+Which one of the following does a TV remote control
 
 unit use to operate a TV set ?
 
@@ -521,19 +476,14 @@ unit use to operate a TV set ?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  Infrared waves are generally used in a TV remote control
+**Logic:** Infrared waves are generally used in a TV remote control unit to operate a TV set, but some of them use radio waves.
 
-unit to operate a TV set, but some of them use radio waves.
-
-Infrared radiation and radio waves both are electromagnetic
-
-radiation.
-
+**Ans: D.** Radio waves
 </details>
 
-**Q13. (U.P.P.C.S. (Mains) 2013)** Waves used for telecommunication are –
+**Q-ST13. UPPCS (Mains) 2013**
+
+Waves used for telecommunication are –
 
 (a) Visible light
 
@@ -546,23 +496,14 @@ radiation.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  The microwaves are high-frequency signals in the 300
+**Logic:** The microwaves are high-frequency signals in the 300 MHz to 300 GHz range.
 
-MHz to 300 GHz range. The signals can carry thousands
-
-of channels at the same time, making it a very versatile
-
-communication system. Microwave is often used for pointto-point telecommunications. Today microwave is employed
-
-by telecommunication industry in the form of both terrestrial
-
-relays and satellite communication.
-
+**Ans: D.** Microwave
 </details>
 
-**Q14. (U.P.P.C.S. (Mains) 2011)** CT Scan is done by using –
+**Q-ST14. UPPCS (Mains) 2011**
+
+CT Scan is done by using –
 
 (a) Infrared Rays (b) Ultrasonic Waves
 
@@ -571,17 +512,14 @@ relays and satellite communication.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  CT scan or computed tomography are special X-rays tests
+**Logic:** CT scan or computed tomography are special X-rays tests that produce cross-sectional images of the body using X-rays and a computer.
 
-that produce cross-sectional images of the body using
-
-X-rays and a computer.
-
+**Ans: D.** X-Rays
 </details>
 
-**Q15. (U.P. P.C.S. (Pre) 2018)** Which of the following was invented by Wilhelm
+**Q-ST15. UPPCS (Pre) 2018**
+
+Which of the following was invented by Wilhelm
 
 Rontgen?
 
@@ -592,21 +530,14 @@ Rontgen?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  X-ray, a type of electromagnetic waves was discovered by
+**Logic:** X-ray, a type of electromagnetic waves was discovered by Wilhelm Rontgen, with wavelengths in the range of 0.01 to 10 nanometres.
 
-Wilhelm Rontgen, with wavelengths in the range of 0.01 to
-
-10 nanometres. These rays are extensively used in the field
-
-of medical and industries.
-
-General Science General Studies G–110
-
+**Ans: B.** X-Ray Machine
 </details>
 
-**Q16. (U.P.P.C.S. (Spl.) (Mains) 2008)** Put in ascending order of speed of sound in the
+**Q-ST16. UPPCS (Spl.) (Mains) 2008**
+
+Put in ascending order of speed of sound in the
 
 mediums
 
@@ -619,21 +550,14 @@ I . Water, II . Steel, III . Nitrogen :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  The speed of sound is different for different type of mediums.
+**Logic:** The speed of sound is different for different type of mediums.
 
-The speed of sound is maximum in solids while minimum in
-
-gases. The speed of sound depends upon the density of the
-
-medium through which it is travelling. The medium which
-
-has higher density, the sound will travel faster in that medium.
-
+**Ans: B.** III, I, II
 </details>
 
-**Q17. (U.P. P.C.S. (Pre) 2018)** The sound will have the highest velocity in :
+**Q-ST17. UPPCS (Pre) 2018**
+
+The sound will have the highest velocity in :
 
 (a) Vacuum (b) Air
 
@@ -642,21 +566,14 @@ has higher density, the sound will travel faster in that medium.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  The speed of sound varies from medium to medium. Sound
+**Logic:** The speed of sound varies from medium to medium.
 
-travels most slowly in gases, it travels faster in liquids and
-
-fastest in solids. For example – sound travels at 344 m/s in
-
-air (at 22°C), it travels at 1531 m/s in sea water and at 5950
-
-m/s in iron (at 25°C).
-
+**Ans: D.** Steel
 </details>
 
-**Q18. (U.P. Lower (Spl.) (Pre) 2008 / Uttarakhand P.C.S. (Pre) 2010)** The velocity of sound is maximum in :
+**Q-ST18. U.P. Lower (Spl.) (Pre) 2008 / Uttarakhand P.C.S. (Pre) 2010**
+
+The velocity of sound is maximum in :
 
 (a) Air (b) Liquid
 
@@ -665,13 +582,14 @@ m/s in iron (at 25°C).
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches Metal (d) Vacuum.
 
+**Ans: C.** Metal (d) Vacuum
 </details>
 
-**Q19. (U.P. U.D.A./L.D.A. (Spl.) (Mains) 2010)** If Va, Vw and Vs respectively are the speed of sound
+**Q-ST19. U.P. U.D.A./L.D.A. (Spl.) (Mains) 2010**
+
+If Va, Vw and Vs respectively are the speed of sound
 
 in air, water and steel, then :
 
@@ -682,17 +600,14 @@ in air, water and steel, then :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  As we know that the speed of sound is different for different
+**Logic:** As we know that the speed of sound is different for different types of medium.
 
-types of medium. In general, sound travels faster in liquid
-
-than gases and faster in solid than in liquid.
-
+**Ans: A.** Va < Vw < Vs
 </details>
 
-**Q20. (U.P.P.C.S. (Pre) 2002)** Sound waves :
+**Q-ST20. UPPCS (Pre) 2002**
+
+Sound waves :
 
 (a) Can travel in vacuum.
 
@@ -705,29 +620,14 @@ than gases and faster in solid than in liquid.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  Sound waves need to travel through a medium such as a
+**Logic:** Sound waves need to travel through a medium such as a solid, liquid or gas.
 
-solid, liquid or gas. The sound waves travel through each
-
-of these mediums by vibrating the molecules in the matter.
-
-The molecules in solids are packed very tightly but in
-
-liquids are not packed as tightly as solid, and in gases they
-
-are very loosely packed. The spacing of the molecules,
-
-enable sound to travel much faster through solid than gases.
-
-So sound waves can travel in solid, liquid and gaseous
-
-medium.
-
+**Ans: D.** Can travel both in solid and gaseous medium
 </details>
 
-**Q21. (U.P.P.C.S. (Pre) 1990)** In which of the following option sound may not be
+**Q-ST21. UPPCS (Pre) 1990**
+
+In which of the following option sound may not be
 
 across/travel?
 
@@ -738,13 +638,12 @@ across/travel?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  See the explanation of above question.
-
+**Ans: B.** vacuum
 </details>
 
-**Q22. (U.P.P.C.S. (Pre) 2014)** Sound waves do not travel in :
+**Q-ST22. UPPCS (Pre) 2014**
+
+Sound waves do not travel in :
 
 (a) Solids (b) Liquids
 
@@ -753,13 +652,12 @@ across/travel?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  See the explanation of above question.
-
+**Ans: D.** Vacuum
 </details>
 
-**Q23. (U.P.P.C.S. (Mains) 2007)** The walls of the hall, built for music concerts should :
+**Q-ST23. UPPCS (Mains) 2007**
+
+The walls of the hall, built for music concerts should :
 
 (a) Amplify sound (b) Transmit sound
 
@@ -768,21 +666,14 @@ across/travel?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  The walls of the hall built for music concerts should absorb
+**Logic:** The walls of the hall built for music concerts should absorb sounds.
 
-sounds. Most of the solid walls reflects the sound. If the
-
-walls of concert hall reflect the sound, then audiences hear
-
-the echo sound. So to avoid this, there is a need to built soft
-
-surface walls.
-
+**Ans: D.** Absorb sound
 </details>
 
-**Q24. (U.P.P.C.S. (Mains) 2007)** To hear a clear echo, the minimum distance between
+**Q-ST24. UPPCS (Mains) 2007**
+
+To hear a clear echo, the minimum distance between
 
 the reflecting surface and the observer should be :
 
@@ -793,49 +684,14 @@ the reflecting surface and the observer should be :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  The repetition of sound produced due to the reflection
+**Logic:** The repetition of sound produced due to the reflection from a large surface like wall, hill or mountain is called echo.
 
-from a large surface like wall, hill or mountain is called
-
-echo. Consider an observer is producing a sound and it
-
-gets reflected by an obstacle. The sound travel towards the
-
-observer and the observer hear the sound again. Let 'd' be
-
-the distance between the observer and the obstacle, 'v' is the
-
-sound velocity and 't' is the time taken by the sound to and
-
-fro motion, then the velocity of the sound is given by
-
-v = 2d/t
-
-Substituting t = 10
-
-1 sec., it is minimum time required to
-
-distinguish between two sounds
-
-v = velocity of sound = 344 m/sec at about 22o C
-
-then d = 2
-
-vt
-
-2
-
-1 = [344 × (1/10)]
-
-= 17.2 m (about 17m)
-
-General Science General Studies G–113
-
+**Ans: D.** 16.5 metre
 </details>
 
-**Q25. (U.P. P.C.S. (Mains) 2017)** One important characteristic of sound is 'Pitch', which
+**Q-ST25. UPPCS (Mains) 2017**
+
+One important characteristic of sound is 'Pitch', which
 
 depends upon :
 
@@ -846,21 +702,14 @@ depends upon :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  The sensation of frequency is commonly referred to as the
+**Logic:** The sensation of frequency is commonly referred to as the pitch of the sound.
 
-pitch of the sound. A high pitch sound corresponds to a
-
-high-frequency sound wave and a low pitch sound corresponds to a low-frequency sound wave. High pitch means
-
-very rapid oscillation and 'low' pitch corresponds to slower
-
-oscillation.
-
+**Ans: B.** Frequency
 </details>
 
-**Q26. (U.P.U.D.A./L.D.A. (Pre) 2002)** Two astronauts cannot hear each other on the Moon's
+**Q-ST26. U.P.U.D.A./L.D.A. (Pre) 2002**
+
+Two astronauts cannot hear each other on the Moon's
 
 surface, because :
 
@@ -875,21 +724,14 @@ surface, because :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  In order for sound to propagate from one place to another,
+**Logic:** In order for sound to propagate from one place to another, it requires a medium or a fluid to move through.
 
-it requires a medium or a fluid to move through. The air on
-
-the Earth allows sound waves to move from one point to
-
-another. However, there is vacuum on the surface of Moon.
-
-Thus, there is no sound on the Moon.
-
+**Ans: B.** No atmosphere on the Moon
 </details>
 
-**Q27. (U.P.P.C.S. (Mains) 2013)** An astronaut cannot hear his companion at the surface
+**Q-ST27. UPPCS (Mains) 2013**
+
+An astronaut cannot hear his companion at the surface
 
 of the Moon because :
 
@@ -906,13 +748,14 @@ during day.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches There is no medium for sound propagation.
 
+**Ans: C.** There is no medium for sound propagation
 </details>
 
-**Q28. (U.P.P.C.S.(Pre) 2012)** Ultrasonics are sound waves of frequency :
+**Q-ST28. UPPCS(Pre) 2012**
+
+Ultrasonics are sound waves of frequency :
 
 (a) Greater than 20,000 Hz
 
@@ -925,13 +768,14 @@ during day.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches Greater than 20,000 Hz.
 
+**Ans: A.** Greater than 20,000 Hz
 </details>
 
-**Q29. (U.P.P.C.S. (Mains) 2005)** Bats can fly during dark nights and also prey. This is
+**Q-ST29. UPPCS (Mains) 2005**
+
+Bats can fly during dark nights and also prey. This is
 
 because :
 
@@ -948,25 +792,14 @@ them.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  Bats are a fascinating group of animals. They are one of the
+**Logic:** Bats are a fascinating group of animals.
 
-few mammals that can use ultrasonic sound to navigate. As
-
-they fly, make an ultrasonic (shouting) sound. The returning
-
-echoes give the bats information about anything that is
-
-ahead of them, including the speed and size of an insect and
-
-which way it is going. This system of finding prey is called
-
-echolocation- locating things by their echoes.
-
+**Ans: D.** They produce ultrasonic waves and are guided by
 </details>
 
-**Q30. (U.P.P.C.S. (Mains) 2011)** Decibel unit is used to measure :
+**Q-ST30. UPPCS (Mains) 2011**
+
+Decibel unit is used to measure :
 
 (a) Light intensity
 
@@ -979,13 +812,14 @@ echolocation- locating things by their echoes.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches Sound intensity.
 
+**Ans: B.** Sound intensity
 </details>
 
-**Q31. (U.P. P.C.S. (Pre) 2018)** Which of the following represents the decibel level of
+**Q-ST31. UPPCS (Pre) 2018**
+
+Which of the following represents the decibel level of
 
 rustling of tree leaves in normal circumstance?
 
@@ -996,21 +830,14 @@ rustling of tree leaves in normal circumstance?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  In normal circumstances, the decibel level of the rustling
+**Logic:** In normal circumstances, the decibel level of the rustling of tree leaves is about 20 decibel.
 
-of tree leaves is about 20 decibel. A decibel (dB) is 1/10 of
-
-a bel, which is used to measure the sound intensity level
-
-(sound-pressure level), named in the honour of Alexander
-
-Graham Bell.
-
+**Ans: B.** 20 dB
 </details>
 
-**Q32. (U.P.P.C.S. (Mains) 2010)** As per the WHO, the safe noise level for a city is –
+**Q-ST32. UPPCS (Mains) 2010**
+
+As per the WHO, the safe noise level for a city is –
 
 (a) 45 dB (b) 50 dB
 
@@ -1019,15 +846,14 @@ Graham Bell.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  As per the WHO the safe noise level for a city is 45 decibel
+**Logic:** As per the WHO the safe noise level for a city is 45 decibel (dB).
 
-(dB).
-
+**Ans: A.** 45 dB (b) 50 dB
 </details>
 
-**Q33. (U.P. P.C.S. (Pre) 2022)** In the context of permissible noise levels match List-I
+**Q-ST33. UPPCS (Pre) 2022**
+
+In the context of permissible noise levels match List-I
 
 with List-II and select the answer from the code given
 
@@ -1060,45 +886,14 @@ A B C D
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  As per the Noise Pollution (Regulation and Control) Rules,
+**Logic:** As per the Noise Pollution (Regulation and Control) Rules, 2000 of India, ambient air quality standards in respect of noise (permissible noise levels) in given areas are as follows : Area Permissible Noise Level (dB) Da…
 
-2000 of India, ambient air quality standards in respect of
-
-noise (permissible noise levels) in given areas are as follows :
-
-Area Permissible Noise Level (dB)
-
-Day Time Night Time
-
-Residential area
-
-Silent zone
-
-Industrial area
-
-Commercial area
-
-55
-
-50
-
-75
-
-65
-
-45
-
-40
-
-70
-
-55
-
+**Ans: D.** Commercial area 4.
 </details>
 
-**Q34. (U.P.P.C.S.(Pre) 2013 / U.P.P.C.S. (Mains) 2008)** Sound above what level (in decibels) is considered
+**Q-ST34. UPPCS(Pre) 2013 / UPPCS (Mains) 2008**
+
+Sound above what level (in decibels) is considered
 
 hazardous noise pollution?
 
@@ -1109,19 +904,14 @@ hazardous noise pollution?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  Sound above 80 decibel is considered hazardous noise
+**Logic:** Sound above 80 decibel is considered hazardous noise pollution.
 
-pollution. Continued exposure to high levels of noise results
-
-in fatigue, hearing loss or even total loss of hearing, changes
-
-in blood circulation, changes in breathing patterns etc.
-
+**Ans: C.** 80 dB (d) 120 dB
 </details>
 
-**Q35. (U.P. P.C.S. (Mains) 2017)** Which one of the following units is used for measurement
+**Q-ST35. UPPCS (Mains) 2017**
+
+Which one of the following units is used for measurement
 
 of noise pollution?
 
@@ -1132,13 +922,12 @@ of noise pollution?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  See the explanation of above question.
-
+**Ans: B.** Decibel
 </details>
 
-**Q36. (U.P. R.O./A.R.O. (Mains) 2017)** Loudness of sound is measured in terms of following :
+**Q-ST36. UP RO/ARO (Mains) 2017**
+
+Loudness of sound is measured in terms of following :
 
 (a) Frequency (b) Amplitude
 
@@ -1147,35 +936,14 @@ of noise pollution?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  A sound wave's amplitude is the change in pressure as the
+**Logic:** A sound wave's amplitude is the change in pressure as the sound wave passes by.
 
-sound wave passes by. If you decrease the amplitude, you
-
-are making the sound softer. The amplitude of a wave is
-
-related to the amount of energy it carries. A high amplitude
-
-wave carries a large amount of energy, a low amplitude
-
-wave carries a small amount of energy. The average amount
-
-of energy passing through a unit area per unit of time in a
-
-specified direction is called the intensity of the wave. As the
-
-amplitude of the sound wave increases, the intensity of sound
-
-increases. Sounds with higher intensity are perceived to be
-
-louder. Relative sound intensities are often given in units
-
-named decibel (dB).
-
+**Ans: B.** Amplitude
 </details>
 
-**Q37. (U.P. P.C.S. (Mains) 2017)** The basic units of sound are called–
+**Q-ST37. UPPCS (Mains) 2017**
+
+The basic units of sound are called–
 
 (a) Morphemes (b) Phonemes
 
@@ -1184,19 +952,14 @@ named decibel (dB).
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  Phonemes is the basic unit of sound (phonology). It is the
+**Logic:** Phonemes is the basic unit of sound (phonology).
 
-smallest unit of sound that may cause a change of meaning
-
-within a language, but that does not have meaning by itself.
-
-General Science General Studies G–119
-
+**Ans: B.** Phonemes
 </details>
 
-**Q38. (U.P. Lower Sub. (Spl.) (Pre) 2003 / U.P. Lower Sub. (Spl.) (Pre) 2002)** Assertion (A) : Reverberation mainly feels in large
+**Q-ST38. UP Lower Sub (Spl.) (Pre) 2003 / UP Lower Sub (Spl.) (Pre) 2002**
+
+Assertion (A) : Reverberation mainly feels in large
 
 churches and in other large buildings.
 
@@ -1221,25 +984,14 @@ explanation of (A).
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  Reverberation is a result of multiple reflections. A sound
+**Logic:** Reverberation is a result of multiple reflections.
 
-wave in an enclosed or semi-enclosed environment (like
-
-large church or in other big building) will be broken up as
-
-it is bounced back and forth among the reflecting surfaces.
-
-Reverberation is an effect which is multiplicity of echoes
-
-whose speed of repetition is to be quick for them and to be
-
-perceived as separate from one another.
-
+**Ans: A.** Both (A) and (R) are true, and (R) is the correct
 </details>
 
-**Q39. (U.P.P.S.C. (GIC) 2010 / U.P.P.C.S. (Pre) 1994)** Television signals cannot be received beyond a certain
+**Q-ST39. UPPSC (GIC) 2010 / UPPCS (Pre) 1994**
+
+Television signals cannot be received beyond a certain
 
 distance because :
 
@@ -1254,17 +1006,14 @@ distance because :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  Television signals cannot be received beyond a certain
+**Logic:** Television signals cannot be received beyond a certain distance because the surface of the Earth is curved, due to this the signals moves further without hitting the Earth's surface.
 
-distance because the surface of the Earth is curved, due to this
-
-the signals moves further without hitting the Earth's surface.
-
+**Ans: D.** The surface of the Earth is curved
 </details>
 
-**Q40. (U.P.P.C.S. (Pre) 2007)** When T.V. is switched on :
+**Q-ST40. UPPCS (Pre) 2007**
+
+When T.V. is switched on :
 
 (a) Audio and video both start simultaneously
 
@@ -1281,21 +1030,14 @@ because sound travels at a lesser speed than light
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  When T.V. is switched on, audio and video start simultaneously.
+**Logic:** Standard key matches Audio and video both start simultaneously.
 
-In old models of television, audio was heard immediately
-
-but the video starts as it needs some warm up time. But in
-
-modern televisions, audio synchronizer is used to correct
-
-this sync error.
-
+**Ans: A.** Audio and video both start simultaneously
 </details>
 
-**Q41. (U.P.P.C.S. (Mains) 2007 / I.A.S. (Pre) 1995 / U.P.U.D.A./L.D.A. (Spl.) (Pre) 2010)** The technique used to transmit audio signals in
+**Q-ST41. UPPCS (Mains) 2007 / I.A.S. (Pre) 1995 / U.P.U.D.A./L.D.A. (Spl.) (Pre) 2010**
+
+The technique used to transmit audio signals in
 
 television broadcasts is :
 
@@ -1310,26 +1052,18 @@ television broadcasts is :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  Frequency modulation is used to transmit audio signals in
+**Logic:** Frequency modulation is used to transmit audio signals in television broadcasts.
 
-television broadcasts. Frequency modulated signals have
-
-larger bandwidth so that FM signals on the adjacent bands
-
-have neither noise nor interference issue.
-
-General Science General Studies G–120
-
+**Ans: B.** Frequency Modulation
 </details>
-
 
 ---
 
 ## Complete PYQ Bank — UKPCS
 
-**Q1. (Uttarakhand P.C.S. (Pre) 2016)** Which of the following is a mechanical wave?
+**Q-ST1. Uttarakhand P.C.S. (Pre) 2016**
+
+Which of the following is a mechanical wave?
 
 (a) Radio-waves (b) X-rays
 
@@ -1338,19 +1072,14 @@ General Science General Studies G–120
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  Sound waves are characterized by the motion of particle
+**Logic:** Sound waves are characterized by the motion of particle in the medium and are longitudinal (in air and in any fluid medium) mechanical waves while Radio-waves, X-rays and light waves are electromagnetic waves.
 
-in the medium and are longitudinal (in air and in any fluid
-
-medium) mechanical waves while Radio-waves, X-rays and
-
-light waves are electromagnetic waves.
-
+**Ans: D.** Sound waves
 </details>
 
-**Q2. (Uttarakhand P.C.S. (Mains) 2002)** A radar which detects the presence of an enemy aircraft
+**Q-ST2. Uttarakhand P.C.S. (Mains) 2002**
+
+A radar which detects the presence of an enemy aircraft
 
 uses :
 
@@ -1361,19 +1090,14 @@ uses :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  Radar is an object-detection system which uses radio waves
+**Logic:** Radar is an object-detection system which uses radio waves to determine the range, angle or velocity of objects.
 
-to determine the range, angle or velocity of objects. It is used
-
-to detect the location of aircraft, ships, spacecraft, motor
-
-vehicle etc.
-
+**Ans: B.** Radio waves
 </details>
 
-**Q3. (Uttarakhand P.C.S. (Pre) 2021)** Remote Sensing uses which of the following in its
+**Q-ST3. Uttarakhand P.C.S. (Pre) 2021**
+
+Remote Sensing uses which of the following in its
 
 applications?
 
@@ -1384,51 +1108,14 @@ applications?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  Remote sensing is the process of detecting and monitoring the
+**Logic:** Remote sensing is the process of detecting and monitoring the physical characteristics of an area by measuring its reflected and emitted radiation at a distance (typically from a satellite or aircraft).
 
-physical characteristics of an area by measuring its reflected
-
-and emitted radiation at a distance (typically from a satellite
-
-or aircraft). Remote sensing uses a part or several parts of
-
-the electromagnetic spectrum. It records the electromagnetic
-
-energy reflected or emitted by the Earth's surface. When
-
-electromagnetic radiation hits the surface of an object,
-
-different wavelengths are either reflected or absorbed depending on the physical and chemical properties of the object.
-
-Special cameras collect remotely sensed images, which help
-
-researchers 'sense' things about the Earth.
-
-It is to be noted that gamma rays are part of this electromagnetic
-
-radiation and are also used in remote sensing (in spacecrafts
-
-exploring the Moon or other planets but not in typical
-
-remote sensing of Earth observation satellites as this part
-
-of radiation is absorbed by the Earth's atmosphere). Remote
-
-sensing observation using gamma ray spectroscopy is an
-
-effective technique to determine the elemental composition
-
-of planetary surface. Gamma ray remote sensing observations
-
-find important applications in the study of the development
-
-of the planets.
-
+**Ans: D.** Electromagnetic waves
 </details>
 
-**Q4. (Uttarakhand P.C.S. (Pre) 2024)** Which modulation technique is preferred for medium
+**Q-ST4. Uttarakhand P.C.S. (Pre) 2024**
+
+Which modulation technique is preferred for medium
 
 speed communication range upto 1200 to 2400 bits per
 
@@ -1441,23 +1128,14 @@ second?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  Frequency modulation (FM) technique is preferred for
+**Logic:** Frequency modulation (FM) technique is preferred for medium speed communication range upto 1200 to 2400 bits per second.
 
-medium speed communication range upto 1200 to 2400 bits
-
-per second. Amplitude modulation (AM) radio frequency
-
-ranges from 530 to 1710 KHz or at max 1200 bits per second
-
-while FM radio ranges in a higher spectrum from 88 to 108
-
-MHz or 1200 to 2400 bits per second.
-
+**Ans: B.** Frequency modulation
 </details>
 
-**Q5. (Uttarakhand Lower Sub. (Pre) 2010)** Decibel unit is used to measure the :
+**Q-ST5. Uttarakhand Lower Sub. (Pre) 2010**
+
+Decibel unit is used to measure the :
 
 (a) Speed of light (b) Intensity of heat
 
@@ -1466,18 +1144,18 @@ MHz or 1200 to 2400 bits per second.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches Intensity of sound (d) Radioactive frequency.
 
+**Ans: C.** Intensity of sound (d) Radioactive frequency
 </details>
-
 
 ---
 
 ## Complete PYQ Bank — BPSC, IAS & Other State PCS (Ghatnachakra Focus)
 
-**Q1. (66th B.P.S.C. (Pre) (Re. Exam) 2020)** An example of longitudinal wave is :
+**Q-ST1. 66th B.P.S.C. (Pre) (Re. Exam) 2020**
+
+An example of longitudinal wave is :
 
 (a) Radio wave (b) Sound wave
 
@@ -1488,13 +1166,12 @@ MHz or 1200 to 2400 bits per second.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  See the explanation of above question.
-
+**Ans: B.** Sound wave
 </details>
 
-**Q2. (65th B.P.S.C. (Pre) 2019)** Sound wave in air is –
+**Q-ST2. 65th B.P.S.C. (Pre) 2019**
+
+Sound wave in air is –
 
 (a) transverse
 
@@ -1509,19 +1186,14 @@ MHz or 1200 to 2400 bits per second.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  Sound waves in air (and in any fluid medium) are longitudinal
+**Logic:** Sound waves in air (and in any fluid medium) are longitudinal waves because particles of the medium through which sound is transported, vibrate parallel to the direction that the sound wave moves.
 
-waves because particles of the medium through which sound
-
-is transported, vibrate parallel to the direction that the sound
-
-wave moves.
-
+**Ans: B.** longitudinal
 </details>
 
-**Q3. (Jharkhand P.C.S. (Pre) 2023)** What do we call the distance between two consecutive
+**Q-ST3. Jharkhand P.C.S. (Pre) 2023**
+
+What do we call the distance between two consecutive
 
 compressions of a sound wave?
 
@@ -1532,23 +1204,14 @@ compressions of a sound wave?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  The distance between two consecutive compressions or two
+**Logic:** The distance between two consecutive compressions or two consequitive rarefactions is the wavelength of the sound wave which is a longitudinal wave in air or in any fluid medium.
 
-consequitive rarefactions is the wavelength of the sound wave
-
-which is a longitudinal wave in air or in any fluid medium.
-
-The speed of sound is the product of the wavelength and
-
-frequency of the wave. Wavelength in a transverse wave
-
-is the distance between two consecutive crests or troughs.
-
+**Ans: C.** Wavelength (d) Amplitude
 </details>
 
-**Q4. (R.A.S. / R.T.S. (Pre) 2018)** Waves of the Ultra High Frequency (UHF) range
+**Q-ST4. R.A.S. / R.T.S. (Pre) 2018**
+
+Waves of the Ultra High Frequency (UHF) range
 
 normally propagate by means of
 
@@ -1559,27 +1222,14 @@ normally propagate by means of
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  Ultra high frequency (UHF) is the ITU designation for radio
+**Logic:** Ultra high frequency (UHF) is the ITU designation for radio frequencies in the range between 300 MHz and 3 GHz.
 
-frequencies in the range between 300 MHz and 3 GHz.
-
-Owing to its high frequency, an ultra-high frequency (UHF)
-
-wave can neither travel along the trajectory of the ground nor
-
-get reflected by the ionosphere. The signals having UHF are
-
-propagated normally through the line of sight communication
-
-which is actually space wave propagation. The radio waves
-
-having high frequencies are basically called as space waves.
-
+**Ans: C.** Space waves (d) Surface waves
 </details>
 
-**Q5. (M.P.P.C.S. (Pre) 2000 / Jharkhand P.C.S. (Pre) 2023)** Which of the following cannot travel in vacuum?
+**Q-ST5. M.P.P.C.S. (Pre) 2000 / Jharkhand P.C.S. (Pre) 2023**
+
+Which of the following cannot travel in vacuum?
 
 (a) Light (b) Heat
 
@@ -1588,21 +1238,14 @@ having high frequencies are basically called as space waves.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  Sound waves cannot travel in vacuum. It is transmitted by the
+**Logic:** Sound waves cannot travel in vacuum.
 
-movement of particles along with the direction of the motion
-
-of the sound wave. More generally, sound is a mechanical
-
-disturbance which is dependent upon a medium to travel. It
-
-can be transmitted through solid, liquid, and gas.
-
+**Ans: C.** Sound (d) Electromagnetic waves
 </details>
 
-**Q6. (I.A.S. (Pre) 2008)** Assertion (A): Radio waves bend in a magnetic field.
+**Q-ST6. I.A.S. (Pre) 2008**
+
+Assertion (A): Radio waves bend in a magnetic field.
 
 Reason (R) : Radio waves are electromagnetic in
 
@@ -1625,17 +1268,14 @@ explanation of (A).
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  Assertion (A) is false but reason (R) is correct because radio
+**Logic:** Assertion (A) is false but reason (R) is correct because radio waves are electromagnetic in nature.
 
-waves are electromagnetic in nature. So they are generally
-
-unaffected by magnetic and electric field.
-
+**Ans: D.** (A) is false, but (R) is true
 </details>
 
-**Q7. (56th to 59th B.P.S.C. (Pre) 2015)** Cosmic rays –
+**Q-ST7. 56th to 59th B.P.S.C. (Pre) 2015**
+
+Cosmic rays –
 
 (a) Are charged particles
 
@@ -1648,19 +1288,14 @@ unaffected by magnetic and electric field.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  Cosmic rays are not the part of electromagnetic spectrum.
+**Logic:** Cosmic rays are not the part of electromagnetic spectrum.
 
-They are immensely high-energy charged particles, travelling
-
-through space at a speed approaching that of light. They
-
-originated either from the sun or outside of our solar system.
-
+**Ans: A.** Are charged particles
 </details>
 
-**Q8. (I.A.S. (Pre) 2024)** Consider the following statements:
+**Q-ST8. I.A.S. (Pre) 2024**
+
+Consider the following statements:
 
 Statement-I : The atmosphere is heated more by
 
@@ -1691,57 +1326,14 @@ Statement-II does not explain Statement-I
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  The Earth’s surface receives most of its energy from the Sun
+**Logic:** The Earth’s surface receives most of its energy from the Sun in short wavelengths.
 
-in short wavelengths. The energy received by the Earth is
-
-known as incoming solar radiation which in short is termed
-
-as insolation. The atmosphere is largely transparent to short
-
-wave solar radiation. The incoming solar radiation passes
-
-through the atmosphere before striking the Earth’s surface.
-
-Within the troposphere water vapour, ozone and other gases
-
-absorb much of the near infrared radiation.
-
-The insolation received by the Earth is in short waves forms
-
-and heats up its surface. The Earth after being heated itself
-
-becomes a radiating body and it radiates energy to the
-
-atmosphere in long wave form. This energy heats up the
-
-atmosphere from below. This process is known as terrestrial
-
-radiation. The long wave radiation is absorbed by the
-
-atmospheric gases particularly by carbon dioxide and the
-
-other greenhouse gases. As a whole (as per the NCERT),
-
-about 48 percent of incoming Sun’s energy is absorbed by
-
-the atmosphere, in which about 14 units absorbed directly
-
-from insolation while about 34 units indirectly from
-
-terrestrial radiation. Thus, the atmosphere is heated more
-
-indirectly by the terrestrial radiation, and not directly by the
-
-insolation. Hence, Statement-I is incorrect, but Statement-II
-
-is correct.
-
+**Ans: D.** Statement-I is incorrect, but Statement-II is correct
 </details>
 
-**Q9. (68th B.P.S.C. (Pre) 2022)** The atmosphere is mainly heated by the :
+**Q-ST9. 68th B.P.S.C. (Pre) 2022**
+
+The atmosphere is mainly heated by the :
 
 (a) long-wave terrestrial radiation
 
@@ -1756,13 +1348,14 @@ is correct.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches long-wave terrestrial radiation.
 
+**Ans: A.** long-wave terrestrial radiation
 </details>
 
-**Q10. (Chhattisgarh P.C.S. (Pre) 2023)** Consider the following statements and choose the right
+**Q-ST10. Chhattisgarh P.C.S. (Pre) 2023**
+
+Consider the following statements and choose the right
 
 options given below.
 
@@ -1783,35 +1376,14 @@ incoming solar radiation.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  As per the NCERT, clouds and gases reflect about one-fourth
+**Logic:** As per the NCERT, clouds and gases reflect about one-fourth of the incoming solar radiation, and absorb some of it but almost half of incoming solar radiation falls on Earth's surface heating it, while a small proportio…
 
-of the incoming solar radiation, and absorb some of it but
-
-almost half of incoming solar radiation falls on Earth's surface
-
-heating it, while a small proportion is reflected back. Earth's
-
-surface re-emits heat in the form of infrared radiation but
-
-part of this does not escape into space as atmospheric gases
-
-(e.g., carbon dioxide, methane, etc.) absorb a major fraction
-
-of it. Hence, only statement (2) is correct. However, as per
-
-some other sources clouds and gases reflect about 17-20
-
-percent of the incoming solar radiation. This may be the
-
-reason that CGPSC has given option (c) as the answer in its
-
-final answer key.
-
+**Ans: B.** Only the statement (2) is correct
 </details>
 
-**Q11. (I.A.S. (Pre) 2025)** Consider the following statements:
+**Q-ST11. I.A.S. (Pre) 2025**
+
+Consider the following statements:
 
 I. Without the atmosphere, temperature would
 
@@ -1838,61 +1410,14 @@ Which of the statements given above are correct?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  Statement I says that if there were no atmosphere, the
+**Logic:** Statement I says that if there were no atmosphere, the temperature everywhere on Earth’s surface would be below the freezing point.
 
-temperature everywhere on Earth’s surface would be below
-
-the freezing point. Scientific estimates show that without an
-
-atmosphere, Earth’s average temperature would be around
-
-–18°C, which is indeed below freezing; however, this is an
-
-'average' temperature, not the temperature of every place.
-
-During daytime, especially near the equator, direct solar
-
-radiation can raise surface temperatures above 0°C. Therefore,
-
-because of the word 'everywhere,' this statement becomes an
-
-exaggeration and cannot be accepted as correct.
-
-Statement II says that the heat absorbed and trapped by the
-
-atmosphere maintains Earth’s average temperature. This is
-
-the basic principle of the greenhouse effect–shortwave solar
-
-radiation reaches the surface, the surface absorbs it and
-
-emits longwave infrared radiation, which is then absorbed
-
-and re-emitted by atmospheric gases (especially greenhouse
-
-gases). As a result, Earth’s average temperature remains at a
-
-life-supporting level. Hence, this statement is correct.
-
-Statement III says that atmospheric gases such as carbon
-
-dioxide are especially capable of absorbing and trapping
-
-radiation. Carbon dioxide, methane, water vapour, etc., are
-
-radiatively active gases that effectively absorb and re-emit
-
-infrared radiation and thus strengthen the greenhouse effect.
-
-Therefore, this statement is also correct.
-
-Hence, the correct answer is option (d).
-
+**Ans: D.** II and III only
 </details>
 
-**Q12. (45th B.P.S.C. (Pre) 2002)** What is the distance between two successive crests or
+**Q-ST12. 45th B.P.S.C. (Pre) 2002**
+
+What is the distance between two successive crests or
 
 successive troughs called?
 
@@ -1903,21 +1428,14 @@ successive troughs called?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  Wavelength means the distance measured in the direction of
+**Logic:** Wavelength means the distance measured in the direction of a wave from any given point to the next point in the same phase, as from crest to crest.
 
-a wave from any given point to the next point in the same
-
-phase, as from crest to crest. The distance between two
-
-successive crests or two successive troughs is the wavelength
-
-of a transverse wave.
-
+**Ans: B.** Wavelength
 </details>
 
-**Q13. (66th B.P.S.C. (Pre) 2020)** The velocity of electromagnetic waves is :
+**Q-ST13. 66th B.P.S.C. (Pre) 2020**
+
+The velocity of electromagnetic waves is :
 
 (a) 3 × 108
 
@@ -1936,19 +1454,14 @@ of a transverse wave.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  The velocity of all electromagnetic waves is the same and all
+**Logic:** Standard key matches 3 × 108.
 
-travel at equal speed to the speed of light in a vacuum. Hence,
-
-the velocity of electromagnetic waves is about 3 × 108
-
- ms–1.
-
+**Ans: A.** 3 × 108
 </details>
 
-**Q14. (70th B.P.S.C. (Pre) (Re-Exam) 2024)** One of the properties associated with X-rays is that
+**Q-ST14. 70th B.P.S.C. (Pre) (Re-Exam) 2024**
+
+One of the properties associated with X-rays is that
 
 they can be deflected by :
 
@@ -1963,23 +1476,14 @@ they can be deflected by :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  X-rays are electromagnetic waves or radiation and do not
+**Logic:** X-rays are electromagnetic waves or radiation and do not carry an electric charge, therefore they are not deflected by electric or magnetic fields.
 
-carry an electric charge, therefore they are not deflected by
-
-electric or magnetic fields. They can be diffracted or scattered
-
-by matter, particularly by electrons within an atom. This
-
-interaction is the basis of X-ray diffraction and imaging
-
-techniques.
-
+**Ans: D.** None of the above
 </details>
 
-**Q15. (Jharkhand P.C.S. (Pre) 2021)** Which one is not an example of electromagnetic wave?
+**Q-ST15. Jharkhand P.C.S. (Pre) 2021**
+
+Which one is not an example of electromagnetic wave?
 
 (a) γ-rays
 
@@ -1992,21 +1496,14 @@ techniques.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  Among the given options, supersonic waves are not an
+**Logic:** Among the given options, supersonic waves are not an example of electromagnetic waves, while γ (Gamma)-rays, X-rays and Ultraviolet rays are examples of supersonic waves.
 
-example of electromagnetic waves, while γ (Gamma)-rays,
-
-X-rays and Ultraviolet rays are examples of supersonic
-
-waves. Supersonic is used for objects which travel at a speed
-
-greater than the speed of sound.
-
+**Ans: D.** Supersonic waves
 </details>
 
-**Q16. (R.A.S./R.T.S. (Pre) 1996)** Which of the following has the longest wavelength ?
+**Q-ST16. RAS/RTS (Pre) 1996**
+
+Which of the following has the longest wavelength ?
 
 (a) Infrared (b) X-rays
 
@@ -2015,36 +1512,28 @@ greater than the speed of sound.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  The electromagnetic spectrum consists of all the different
+**Logic:** The electromagnetic spectrum consists of all the different wavelength of electromagnetic radiations such as: Radio waves > Microwave > Infrared > Visible > Ultraviolet > X-rays > Gamma rays.
 
-wavelength of electromagnetic radiations such as: Radio
-
-waves > Microwave > Infrared > Visible > Ultraviolet >
-
-X-rays > Gamma rays. Thus it is clear that the radio waves
-
-are having the maximum wavelength while the Gamma rays
-
-are having minimum wavelength.
-
+**Ans: D.** Radio waves
 </details>
 
-**Q17. (Civil Services Examination)** Arrange the following electromagnetic radiations in
+**Q-ST17. Civil Services Examination**
+
+Arrange the following electromagnetic radiations in
 
 decreasing order of their frequencies.
 
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (*)`
-- **Logic:**
-  Refer to the high-yield notes above for conceptual breakdown.
+**Logic:** Refer to the high-yield notes above for conceptual breakdown.
 
+**Ans:** Refer to the high-yield notes above for conceptual breakdown.
 </details>
 
-**Q18. (M.P. P.C.S. (Pre) 2020)** Microwaves are electromagnetic waves having frequencies in range of :
+**Q-ST18. M.P. P.C.S. (Pre) 2020**
+
+Microwaves are electromagnetic waves having frequencies in range of :
 
 (a) 300 KHz – 3 MHz (b) 3 MHz – 300 MHz
 
@@ -2053,25 +1542,14 @@ decreasing order of their frequencies.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  Microwave is a form of electromagnetic radiation with
+**Logic:** Microwave is a form of electromagnetic radiation with wavelengths ranging from about one meter to one millimeter corresponding to frequencies between 300 MHz and 300 GHz respectively.
 
-wavelengths ranging from about one meter to one millimeter
-
-corresponding to frequencies between 300 MHz and 300 GHz
-
-respectively. Different sources define different frequency
-
-ranges as microwave; the above broad definition includes
-
-both UHF and EHF (millimeter wave) bands. Hence, option
-
-(c) is the most appropriate answer.
-
+**Ans: C.** 1 GHz – 300 GHz
 </details>
 
-**Q19. (R.A.S./R.T.S. (Pre) 1997-98)** Which one of the following is used for determining the
+**Q-ST19. RAS/RTS (Pre) 1997-98**
+
+Which one of the following is used for determining the
 
 structure of crystal :
 
@@ -2082,25 +1560,14 @@ structure of crystal :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  Crystallography is the science that examines crystals which can be
+**Logic:** Crystallography is the science that examines crystals which can be found everywhere in nature, from salt to snowflakes to gemstones.
 
-found everywhere in nature, from salt to snowflakes to gemstones.
-
-Crystallographers use the properties of the inner structure of
-
-crystals to determine the arrangement of atoms and generate
-
-knowledge which is used by chemist, physicists and other.
-
-Crystallographers use X-ray, neutron, and electron diffraction
-
-techniques to identify the characteristics of solid materials.
-
+**Ans: B.** X-rays
 </details>
 
-**Q20. (I.A.S. (Pre) 1993)** When there is depletion of ozone in the stratosphere,
+**Q-ST20. I.A.S. (Pre) 1993**
+
+When there is depletion of ozone in the stratosphere,
 
 the wavelength of radiation striking the Earth's surface
 
@@ -2113,43 +1580,14 @@ will be –
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  Ultraviolet radiations are mainly divided into three groups:-
+**Logic:** Ultraviolet radiations are mainly divided into three groups:- UV-A radiations : The long wave UV-A radiations having the wavelength of 320-400 nm.
 
-UV-A radiations : The long wave UV-A radiations having
-
-the wavelength of 320-400 nm. They strike the surface of
-
-the Earth as the part of the rays of the sun.
-
-UV-B radiations : The medium wave UV-B radiation has
-
-the wavelength of 280-320 nm. It is mostly absorbed by the
-
-ozone layer, but some do reach the Earth's surface.
-
-UV-C radiations : It has a wavelength of 100-280 nm. It is
-
-completely absorbed by ozone layer and atmosphere.
-
-Therefore, on depletion of ozone in the stratosphere, the
-
-minimum wavelength of radiation striking the surface of the
-
-Earth will be of 100 nm.
-
-1 nm = 1.0 × 10–9 m
-
-100 nm = 100 × 10–9
-
-= 102
-
- × 10–9 =10–7 m
-
+**Ans: B.** 10–7 m
 </details>
 
-**Q21. (I.A.S. (Pre) 2009)** Which one of the following types of waves are used in
+**Q-ST21. I.A.S. (Pre) 2009**
+
+Which one of the following types of waves are used in
 
 a Night Vision apparatus?
 
@@ -2166,23 +1604,14 @@ General Science General Studies G–108
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  Infrared waves are the type of electromagnetic radiations
+**Logic:** Infrared waves are the type of electromagnetic radiations with longer wavelengths compared to those of visible light.
 
-with longer wavelengths compared to those of visible light.
-
-It is used in night vision equipment when there is insufficient
-
-visible light to see. It is used by the soldiers to find the
-
-target, intruders and hidden bombs in night, thus making the
-
-application of force more discriminating.
-
+**Ans: C.** Infrared waves
 </details>
 
-**Q22. (R.A.S./R.T.S. (Pre) 2018)** The waves used in common TV remote control are
+**Q-ST22. RAS/RTS (Pre) 2018**
+
+The waves used in common TV remote control are
 
 (a) X-Rays (b) Ultraviolet Rays
 
@@ -2191,17 +1620,14 @@ application of force more discriminating.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  Infrared rays are commonly used in TV remote control.
+**Logic:** Infrared rays are commonly used in TV remote control.
 
-Remote control can be used to operate devices such as
-
-television set, DVD player or other home appliances.
-
+**Ans: C.** Infrared Rays
 </details>
 
-**Q23. (Jharkhand P.C.S. (Pre) 2013)** Which electromagnetic radiation is used in remote
+**Q-ST23. Jharkhand P.C.S. (Pre) 2013**
+
+Which electromagnetic radiation is used in remote
 
 control of a television?
 
@@ -2212,13 +1638,14 @@ control of a television?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches Infrared (b) Ultraviolet.
 
+**Ans: A.** Infrared (b) Ultraviolet
 </details>
 
-**Q24. (Jharkhand P.C.S. (Pre) 2023)** The process of superposition of any information on
+**Q-ST24. Jharkhand P.C.S. (Pre) 2023**
+
+The process of superposition of any information on
 
 radiowaves is named as :
 
@@ -2229,15 +1656,14 @@ radiowaves is named as :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  The process of superimposing any information (audio or
+**Logic:** The process of superimposing any information (audio or video messages) on carrier radiowaves is called modulation.
 
-video messages) on carrier radiowaves is called modulation.
-
+**Ans: B.** modulation
 </details>
 
-**Q25. (Chhattisgarh P.C.S. (Pre) 2021)** What is not true about FM (Frequency Modulation)
+**Q-ST25. Chhattisgarh P.C.S. (Pre) 2021**
+
+What is not true about FM (Frequency Modulation)
 
 radio waves?
 
@@ -2256,41 +1682,14 @@ Modulation
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  Edwin Howard Armstrong was an American electrical
+**Logic:** Edwin Howard Armstrong was an American electrical engineer who invented wideband frequency modulation (FM) radio.
 
-engineer who invented wideband frequency modulation
-
-(FM) radio. Armstrong presented his paper, "A Method of
-
-Reducing Disturbances in Radio Signaling by a System of
-
-Frequency Modulation", (which first described FM radio)
-
-before the New York section of the Institute of Radio
-
-Engineers on November 6, 1935. The paper was published
-
-in 1936. FM requires a wider signal bandwidth (and higher
-
-frequency range) than amplitude modulation (AM) by an
-
-equivalent modulating signal; this also makes the signal
-
-more robust against noise and interference. In frequency
-
-modulation, the carrier amplitude and phase remains constant,
-
-but its frequency changes in accordance with the modulating
-
-signal.
-
-General Science General Studies G–109
-
+**Ans: A.** Frequency range of Frequency Modulation is lower
 </details>
 
-**Q26. (R.A.S/R.T.S. (Pre) 2013)** FM broadcasting service uses the range of frequency
+**Q-ST26. R.A.S/R.T.S. (Pre) 2013**
+
+FM broadcasting service uses the range of frequency
 
 bands between –
 
@@ -2301,13 +1700,12 @@ bands between –
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  See the explanation of above question.
-
+**Ans: D.** 88-108 MHz
 </details>
 
-**Q27. (R.A.S./R.T.S. (Pre) 1993)** A radio station broadcast at 30 metre band. The
+**Q-ST27. RAS/RTS (Pre) 1993**
+
+A radio station broadcast at 30 metre band. The
 
 frequency of the carrier wave transmitted by this
 
@@ -2320,38 +1718,28 @@ station is:-
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  According to formula υ = c
+**Logic:** According to formula υ = c m [ where υ = frequency, c = speed of light; λ = wavelength] υ = 30 3×108 = 10 × 106 = 10 MHz
 
-m
-
-[ where υ = frequency, c = speed of light; λ = wavelength]
-
-υ = 30
-
-3×108
-
-= 10 × 106
-
- = 10 MHz
-
+**Ans: C.** 10 MHz (d) 100 MHz
 </details>
 
-**Q28. (Civil Services Examination)** A layer in the Earth's atmosphere called Ionosphere
+**Q-ST28. Civil Services Examination**
+
+A layer in the Earth's atmosphere called Ionosphere
 
 facilitates radio communication. Why?
 
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (*)`
-- **Logic:**
-  Refer to the high-yield notes above for conceptual breakdown.
+**Logic:** Refer to the high-yield notes above for conceptual breakdown.
 
+**Ans:** Refer to the high-yield notes above for conceptual breakdown.
 </details>
 
-**Q29. (Civil Services Examination)** Television viewers using dish antenna to receive
+**Q-ST29. Civil Services Examination**
+
+Television viewers using dish antenna to receive
 
 satellite signals do not receive signals during rain
 
@@ -2360,13 +1748,14 @@ because :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (*)`
-- **Logic:**
-  Refer to the high-yield notes above for conceptual breakdown.
+**Logic:** Refer to the high-yield notes above for conceptual breakdown.
 
+**Ans:** Refer to the high-yield notes above for conceptual breakdown.
 </details>
 
-**Q30. (43rd B.P.S.C. (Pre) 1999)** Following rays are used in the diagnosis of intestinal
+**Q-ST30. 43rd B.P.S.C. (Pre) 1999**
+
+Following rays are used in the diagnosis of intestinal
 
 diseases :
 
@@ -2377,15 +1766,14 @@ diseases :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  X-rays are a form of electromagnetic radiations, which are
+**Logic:** X-rays are a form of electromagnetic radiations, which are used in the diagnosis of intestinal diseases.
 
-used in the diagnosis of intestinal diseases.
-
+**Ans: A.** X-rays (b) α-rays
 </details>
 
-**Q31. (42nd B.P.S.C. (Pre) 1997)** The velocity of sound in air is approximately :
+**Q-ST31. 42nd B.P.S.C. (Pre) 1997**
+
+The velocity of sound in air is approximately :
 
 (a) 10 km./sec. (b) 10 mile/min.
 
@@ -2394,13 +1782,14 @@ used in the diagnosis of intestinal diseases.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches 330 m/sec.
 
+**Ans: C.** 330 m/sec.
 </details>
 
-**Q32. (Chhattisgarh P.C.S. (Pre) 2004)** In which medium the speed of sound is maximum at
+**Q-ST32. Chhattisgarh P.C.S. (Pre) 2004**
+
+In which medium the speed of sound is maximum at
 
 a temperature of around 20o
 
@@ -2413,23 +1802,14 @@ C ?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  The speed of sound depends on the elasticity and density
+**Logic:** The speed of sound depends on the elasticity and density of the medium through which it is travelling.
 
-of the medium through which it is travelling. Greater the
-
-elasticity and the density, sound travels faster in that medium.
-
-At temperature of 20o
-
-C, the speed of sound is maximum
-
-in iron.
-
+**Ans: D.** Iron
 </details>
 
-**Q33. (71st B.P.S.C. (Pre) 2025)** In which medium, the speed of sound is maximum?
+**Q-ST33. 71st B.P.S.C. (Pre) 2025**
+
+In which medium, the speed of sound is maximum?
 
 (a) Steel (b) Water
 
@@ -2444,33 +1824,14 @@ General Science General Studies G–112
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  The speed of sound depends on the rigidity/elasticity of the
+**Logic:** The speed of sound depends on the rigidity/elasticity of the medium and its density.
 
-medium and its density. Sound travels faster in a more rigid
-
-medium.
-
-At normal temperature (25°C) speed of sound in various
-
-mediums :
-
-• In air 346 m/s
-
-• In hydrogen gas 1284 m/s
-
-• In (distilled) water 1498 m/s
-
-• In steel 5960 m/s
-
-Therefore, among the given options, the speed of sound is
-
-highest in steel.
-
+**Ans: A.** Steel (b) Water
 </details>
 
-**Q34. (M.P.P.C.S. (Pre) 2017)** Sound waves travel fastest in :
+**Q-ST34. M.P.P.C.S. (Pre) 2017**
+
+Sound waves travel fastest in :
 
 (a) solids (b) liquids
 
@@ -2479,21 +1840,14 @@ highest in steel.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  Sound is a mechanical wave and needs a material medium
+**Logic:** Sound is a mechanical wave and needs a material medium like air, water, steel etc.
 
-like air, water, steel etc. for its propagation. It cannot travel
-
-through vacuum. Speed of sound is different in different
-
-medium. Speed of sound is maximum in solid than liquid
-
-and gas.
-
+**Ans: A.** solids (b) liquids
 </details>
 
-**Q35. (Jharkhand P.C.S. (Pre) 2023)** Which of the following is a cause of echo?
+**Q-ST35. Jharkhand P.C.S. (Pre) 2023**
+
+Which of the following is a cause of echo?
 
 (a) Absorption of sound (b) Transmission of sound
 
@@ -2502,23 +1856,14 @@ and gas.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  An echo is a sound caused by the reflection of sound waves
+**Logic:** An echo is a sound caused by the reflection of sound waves from a surface back to the listener.
 
-from a surface back to the listener. It is the reflection of
-
-sound, arriving at the listener sometime after the direct
-
-sound. Echoes are a result of reflections when a sound wave
-
-comes into contact with a boundary, particularly a flat and
-
-hard surface. Basically a reflection of sound causes echo.
-
+**Ans: C.** Reflection of sound
 </details>
 
-**Q36. (R.A.S./R.T.S.(Pre) 2007)** How much should minimum distance be between the
+**Q-ST36. RAS/RTS(Pre) 2007**
+
+How much should minimum distance be between the
 
 source of sound and reflecting surface, so that an echo
 
@@ -2531,13 +1876,12 @@ can be heard clearly?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  See the explanation of above question.
-
+**Ans: B.** 17 metre
 </details>
 
-**Q37. (Chhattisgarh P.C.S. (Pre) 2021)** A sound wave has frequency of 4 kHz and its
+**Q-ST37. Chhattisgarh P.C.S. (Pre) 2021**
+
+A sound wave has frequency of 4 kHz and its
 
 wavelength is 35 cm, then how much time will it take
 
@@ -2550,55 +1894,14 @@ to travel a distance of 3 km?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  The relation between wavelength (λ), frequency (υ) and
+**Logic:** The relation between wavelength (λ), frequency (υ) and velocity (v) can be given as v = υ × λ Given that, Frequency (υ) = 4 kHz = 4 × 103 Hz ; Wavelength (λ) = 35 cm = 0.35 m; Distance (D) = 3 km = 3 × 103 m Hence, Velo…
 
-velocity (v) can be given as
-
-v = υ × λ
-
-Given that,
-
-Frequency (υ) = 4 kHz = 4 × 103
-
- Hz ; Wavelength (λ) = 35
-
-cm = 0.35 m; Distance (D) = 3 km = 3 × 103
-
- m
-
-Hence, Velocity of the sound wave (v) = υ × λ
-
- = 4 × 103
-
- × 0.35
-
-= 1.4 × 103
-
- m/sec
-
-Now, Time (T) = Velocity (v)
-
-Distance (D)
-
- = 3×10
-
-1.4×10
-
-3
-
-3
-
-= 2.14 sec
-
-Thus, the given sound wave will take 2.14 sec to travel a
-
-distance of 3 km.
-
+**Ans: B.** 2.14 sec
 </details>
 
-**Q38. (68th B.P.S.C. (Pre) 2022)** Shrillness of sound is determined by :
+**Q-ST38. 68th B.P.S.C. (Pre) 2022**
+
+Shrillness of sound is determined by :
 
 (a) velocity of sound
 
@@ -2613,62 +1916,52 @@ distance of 3 km.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  It is true that shrillness of sound is determined by its frequency
+**Logic:** It is true that shrillness of sound is determined by its frequency but frequency and wavelength are inversely proportionate.
 
-but frequency and wavelength are inversely proportionate.
-
-So, it is also true to say that shrillness of sound depends on
-
-its wavelength. For example, shorter the wavelength means
-
-higher the frequency and more shrill sound. Since frequency
-
-and wavelength are inseparably interlinked (velocity of sound
-
-= wavelength × frequency and velocity of sound is constant
-
-in a medium), the correct answer is option (c).
-
+**Ans: C.** wavelength of sound
 </details>
 
-**Q39. (Civil Services Examination)** Consider the following statements :
+**Q-ST39. Civil Services Examination**
+
+Consider the following statements :
 
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (*)`
-- **Logic:**
-  Refer to the high-yield notes above for conceptual breakdown.
+**Logic:** Refer to the high-yield notes above for conceptual breakdown.
 
+**Ans:** Refer to the high-yield notes above for conceptual breakdown.
 </details>
 
-**Q40. (Civil Services Examination)** Consider the following statements :
+**Q-ST40. Civil Services Examination**
+
+Consider the following statements :
 
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (*)`
-- **Logic:**
-  Refer to the high-yield notes above for conceptual breakdown.
+**Logic:** Refer to the high-yield notes above for conceptual breakdown.
 
+**Ans:** Refer to the high-yield notes above for conceptual breakdown.
 </details>
 
-**Q41. (Civil Services Examination)** Consider the following statements about ultrasonic
+**Q-ST41. Civil Services Examination**
+
+Consider the following statements about ultrasonic
 
 waves :
 
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (*)`
-- **Logic:**
-  Refer to the high-yield notes above for conceptual breakdown.
+**Logic:** Refer to the high-yield notes above for conceptual breakdown.
 
+**Ans:** Refer to the high-yield notes above for conceptual breakdown.
 </details>
 
-**Q42. (M.P. P.C.S. (Pre) 2018)** What is the audible range (hearing range) of humans?
+**Q-ST42. M.P. P.C.S. (Pre) 2018**
+
+What is the audible range (hearing range) of humans?
 
 (a) 20 Hz - 20000 Hz (b) 80 Hz - 100 Hz
 
@@ -2677,15 +1970,14 @@ waves :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  The sound that can be audible to humans has a frequency
+**Logic:** The sound that can be audible to humans has a frequency ranging from 20 Hz to 20,000 Hz.
 
-ranging from 20 Hz to 20,000 Hz.
-
+**Ans: A.** 20 Hz - 20000 Hz
 </details>
 
-**Q43. (Chhattisgarh P.C.S. (Pre) 2022)** What is/are not true among the following?
+**Q-ST43. Chhattisgarh P.C.S. (Pre) 2022**
+
+What is/are not true among the following?
 
 (i) Audible range of sound for human beings is
 
@@ -2706,23 +1998,14 @@ main shock waves.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  Audible range of sound for human beings is approximately
+**Logic:** Audible range of sound for human beings is approximately 20 Hz to 20 kHz (20,000 Hz).
 
-20 Hz to 20 kHz (20,000 Hz). Sound waves with frequencies
-
-higher than 20 kHz (20,000 Hz) are called ultrasonic waves
-
-(ultrasound). In earthquake, infrasounds (less than 20 Hz)
-
-are produced before main shock waves. Hence, all three
-
-statements are incorrect.
-
+**Ans: C.** (i), (ii) and (iii)
 </details>
 
-**Q44. (R.A.S./R.T.S.(Pre) 2012)** A biotechnique in which ultrasonic sound is used :
+**Q-ST44. RAS/RTS(Pre) 2012**
+
+A biotechnique in which ultrasonic sound is used :
 
 (a) Sonography (b) E. C. G.
 
@@ -2731,25 +2014,14 @@ statements are incorrect.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  Sonography or ultrasonography is an important mean of
+**Logic:** Sonography or ultrasonography is an important mean of clinical diagnosis.
 
-clinical diagnosis. It is a diagnostic imaging technique based
-
-on the application of ultrasound (ultrasonic waves). It is
-
-widely used in the field of medical science. It is mainly used
-
-to provide a variety of information about the health of the
-
-mother during pregnancy, and the health and development
-
-of embryo or foetus.
-
+**Ans: A.** Sonography (b) E.
 </details>
 
-**Q45. (67th B.P.S.C. (Pre) 2022)** Which of the following rays/waves are used to know
+**Q-ST45. 67th B.P.S.C. (Pre) 2022**
+
+Which of the following rays/waves are used to know
 
 the growth of fetus in the womb?
 
@@ -2762,24 +2034,26 @@ the growth of fetus in the womb?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches Ultrasonic waves (d) Ultraviolet rays.
 
+**Ans: C.** Ultrasonic waves (d) Ultraviolet rays
 </details>
 
-**Q46. (Civil Services Examination)** Consider the following statements :
+**Q-ST46. Civil Services Examination**
+
+Consider the following statements :
 
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (*)`
-- **Logic:**
-  Refer to the high-yield notes above for conceptual breakdown.
+**Logic:** Refer to the high-yield notes above for conceptual breakdown.
 
+**Ans:** Refer to the high-yield notes above for conceptual breakdown.
 </details>
 
-**Q47. (R.A.S./ R.T.S. (Pre) 2021)** In Stethoscope, the sound of the patient's heartbeat
+**Q-ST47. R.A.S./ R.T.S. (Pre) 2021**
+
+In Stethoscope, the sound of the patient's heartbeat
 
 reaches the doctor's ears by :
 
@@ -2794,31 +2068,14 @@ reaches the doctor's ears by :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  Stethoscopes work by the principle of multiple reflection
+**Logic:** Stethoscopes work by the principle of multiple reflection of sound.
 
-of sound. When a doctor or nurse places a stethoscope
-
-diaphragm on a patient's chest, sound waves traveling through
-
-the patient's body cause the flat surface of the diaphragm to
-
-vibrate and because the vibrating object is attached to a tube,
-
-the sound waves are channeled in a specific direction. Each
-
-wave bounces, or reflects, off the inside walls of the rubber
-
-tube, a process called multiple reflection. In this way, each
-
-wave, in succession, reaches the eartips, or rubber nubs on
-
-the ends of the device, and finally the listener's eardrums.
-
+**Ans: B.** Multiple reflection of sound
 </details>
 
-**Q48. (M.P. P.C.S. (Pre) 1993)** Which one of the following is the effect of the flight of
+**Q-ST48. M.P. P.C.S. (Pre) 1993**
+
+Which one of the following is the effect of the flight of
 
 supersonic jet?
 
@@ -2829,33 +2086,14 @@ supersonic jet?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  A jet engine is a machine for turning fuel into thrust. The
+**Logic:** A jet engine is a machine for turning fuel into thrust.
 
-thrust is produced by action and reaction also known as
-
-Newton's third law of motion. The force (action) of the
-
-exhaust gases pushing backward produces an equal and
-
-opposite force (reaction) called thrust, that powers the vehicle
-
-forward. Those jet planes which are able to fly faster than the
-
-speed of sound are called supersonic jet planes. Jet engines
-
-are responsible for depletion of ozone. Flying at stratosphere
-
-height, they emits nitrogen oxide which has the potential to
-
-destroy significant quantities of ozone in the stratosphere.
-
-General Science General Studies G–116
-
+**Ans: C.** Depletion in ozone layer
 </details>
 
-**Q49. (I.A.S. (Pre) 2007)** Assertion (A):A jet aircraft moving at mach number
+**Q-ST49. I.A.S. (Pre) 2007**
+
+Assertion (A):A jet aircraft moving at mach number
 
 equal to 1 travels faster at an altitude
 
@@ -2886,31 +2124,14 @@ explanation of (A).
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  Speed of supersonic bodies is indicated by the mach number.
+**Logic:** Speed of supersonic bodies is indicated by the mach number.
 
-The mach number of an airplane is the ratio of the speed of
-
-a body to the speed of sound in a particular medium, usually
-
-the atmosphere of the Earth. As we know that the speed of
-
-sound increases with increase in temperature, the speed of
-
-sound at higher altitude (15 km above sea level) decreases
-
-due to decrease in temperature. Thus, assertion (A) is false.
-
-The velocity of a sound wave travelling through the air does
-
-not vary with the air pressure but depends on the temperature
-
-of the air. Thus, reason (R) is correct.
-
+**Ans: D.** (A) is false, but (R) is true
 </details>
 
-**Q50. (M.P.P.C.S. (Pre) 2005)** Decibel is used to measure :
+**Q-ST50. M.P.P.C.S. (Pre) 2005**
+
+Decibel is used to measure :
 
 (a) Haemoglobin in blood
 
@@ -2923,15 +2144,14 @@ of the air. Thus, reason (R) is correct.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  'Decibel' (dB) is used to measure the level of intensity of
+**Logic:** 'Decibel' (dB) is used to measure the level of intensity of sound (sound-pressure level) in atmosphere.
 
-sound (sound-pressure level) in atmosphere.
-
+**Ans: C.** Sound in atmosphere
 </details>
 
-**Q51. (R.A.S./R.T.S.(Pre) 2003)** What is the decibel level of sound produced by two
+**Q-ST51. RAS/RTS(Pre) 2003**
+
+What is the decibel level of sound produced by two
 
 persons in conversation?
 
@@ -2942,33 +2162,14 @@ persons in conversation?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  The level of intensity of sound is measured in decibel.
+**Logic:** The level of intensity of sound is measured in decibel.
 
-Source of sound Intensity (In decibel)
-
-Whisper 15–20
-
-Normal Conversation 30–60
-
-Anger Conversation 70–80
-
-Truck-Motorcycle 90–95
-
-Instrument factory or
-
-machine shop
-
-100–110
-
-Orchestra 110–120
-
-Jet Plane 140–150
-
+**Ans: C.** About 30 Decibel
 </details>
 
-**Q52. (I.A.S. (Pre) 2000)** A noise level of 100 decibel would correspond to :
+**Q-ST52. I.A.S. (Pre) 2000**
+
+A noise level of 100 decibel would correspond to :
 
 (a) Just audible sound
 
@@ -2981,13 +2182,14 @@ Jet Plane 140–150
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches Noise from a machine shop.
 
+**Ans: D.** Noise from a machine shop
 </details>
 
-**Q53. (R.A.S./R.T.S. (Pre) 1993)** The tolerable limit of noise for human being is around:
+**Q-ST53. RAS/RTS (Pre) 1993**
+
+The tolerable limit of noise for human being is around:
 
 (a) 45 decibel (b) 85 decibel
 
@@ -2996,21 +2198,14 @@ Jet Plane 140–150
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  The intensity level of sound in normal conversation is 30-
+**Logic:** The intensity level of sound in normal conversation is 30- 60 decibel.
 
-60 decibel. The sound of 50 decibel is enough to wake up
-
-a sleeping person. To remain continuously in the sound of
-
-80 decibel proves to be harmful. 90 decibel is the maximum
-
-limit to tolerate any noise by human being.
-
+**Ans: B.** 85 decibel
 </details>
 
-**Q54. (R.A.S./R.T.S.(Pre) 2012)** The optimum sound level for human beings is–
+**Q-ST54. RAS/RTS(Pre) 2012**
+
+The optimum sound level for human beings is–
 
 (a) 90 dB (b) 60 dB
 
@@ -3019,17 +2214,14 @@ limit to tolerate any noise by human being.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  The average sound level in normal conversation is 60 decibel,
+**Logic:** The average sound level in normal conversation is 60 decibel, It is appropriate for human ears.
 
-It is appropriate for human ears. The sound higher than 80
-
-decibel can cause damage to the ear cells.
-
+**Ans: B.** 60 dB
 </details>
 
-**Q55. (R.A.S./R.T.S. (Pre) 1994-95)** A worker was working on the rail track. A boy at a
+**Q-ST55. RAS/RTS (Pre) 1994-95**
+
+A worker was working on the rail track. A boy at a
 
 distance holds his ear near the rail track. This boy was
 
@@ -3056,17 +2248,14 @@ tracks.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  The speed of sound is greater in steel than in air, as sound
+**Logic:** The speed of sound is greater in steel than in air, as sound reaches first by rail track and then by air.
 
-reaches first by rail track and then by air. Therefore the boy
-
-hears the sound twice.
-
+**Ans: A.** The speed of sound is greater in steel than in air
 </details>
 
-**Q56. (Chhattisgarh P.C.S. (Pre) 2020)** Which of the following statements is/are true in relation
+**Q-ST56. Chhattisgarh P.C.S. (Pre) 2020**
+
+Which of the following statements is/are true in relation
 
 to sound waves?
 
@@ -3093,25 +2282,14 @@ medium than in glass medium
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  The Speed of sound depends upon the nature of medium
+**Logic:** The Speed of sound depends upon the nature of medium through which it propagates.
 
-through which it propagates. Speed of sound is maximum
-
-in solids while minimum in gases. Speed of sound is less
-
-in glass medium than in aluminium medium. Increase in
-
-temperature results to increase in the speed of sound in any
-
-medium. Hence, among the given statement, only statement
-
-I is true.
-
+**Ans: C.** Only Statement I is true
 </details>
 
-**Q57. (66th B.P.S.C. (Pre) (Re. Exam) 2020)** When a sound wave goes from one medium to another,
+**Q-ST57. 66th B.P.S.C. (Pre) (Re. Exam) 2020**
+
+When a sound wave goes from one medium to another,
 
 the quantity that remains unchanged is :
 
@@ -3124,23 +2302,14 @@ the quantity that remains unchanged is :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  When a sound wave goes from one medium to another, its
+**Logic:** When a sound wave goes from one medium to another, its frequency usually remains the same (because it is like a driven oscillation and maintains the frequency of the original source) while its speed and wavelength are c…
 
-frequency usually remains the same (because it is like a driven
-
-oscillation and maintains the frequency of the original source)
-
-while its speed and wavelength are changed. The amplitude
-
-of sound is also changed as it decreases with distance from
-
-its source.
-
+**Ans: A.** Frequency (b) Amplitude
 </details>
 
-**Q58. (68th B.P.S.C. (Pre) 2022)** Before playing the orchestra in a musical concert, a
+**Q-ST58. 68th B.P.S.C. (Pre) 2022**
+
+Before playing the orchestra in a musical concert, a
 
 sitarist tries to adjust the tension and pluck the string
 
@@ -3161,35 +2330,14 @@ other musical instruments
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  String length, diameter, density and tension determine the
+**Logic:** String length, diameter, density and tension determine the frequency in which it will vibrate.
 
-frequency in which it will vibrate. Since other three are
-
-fixed, it is the tension that sitarist tries to adjust to tune its
-
-natural frequency. And while playing the Sitar, he changes
-
-the effective length of the string by touching the string at
-
-different points with his finger. This is how we get different
-
-melodious notes (of varying frequency). Amplitude/intensity
-
-of sound is not determined by the tension in the string since it
-
-depends on how the Sitarist is playing. Even with a perfectly
-
-taut string, he can produce low or very high sound. But he
-
-cannot vary its natural frequency and that's why he has to
-
-adjust the tension beforehand. So, the correct answer is (a).
-
+**Ans: A.** frequency of the sitar string with the frequency of
 </details>
 
-**Q59. (I.A.S. (Pre) 1995)** When the same tone is played on a sitar and a flute, the
+**Q-ST59. I.A.S. (Pre) 1995**
+
+When the same tone is played on a sitar and a flute, the
 
 sound produced can be distinguished from each other
 
@@ -3206,26 +2354,26 @@ because of the difference in :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  Musical sound can differ from each other with respect to the
+**Logic:** Musical sound can differ from each other with respect to the following three characteristics :
 
-following three characteristics :
-
+**Ans: C.** quality only
 </details>
 
-**Q60. (Civil Services Examination)** Consider the following statements:
+**Q-ST60. Civil Services Examination**
+
+Consider the following statements:
 
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (*)`
-- **Logic:**
-  Refer to the high-yield notes above for conceptual breakdown.
+**Logic:** Refer to the high-yield notes above for conceptual breakdown.
 
+**Ans:** Refer to the high-yield notes above for conceptual breakdown.
 </details>
 
-**Q61. (R.A.S./R.T.S.(Pre) 2012)** In television broadcast, the picture signals are
+**Q-ST61. RAS/RTS(Pre) 2012**
+
+In television broadcast, the picture signals are
 
 transmitted by –
 
@@ -3236,123 +2384,10 @@ transmitted by –
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  In a television broadcast, the picture signals are transmitted
+**Logic:** In a television broadcast, the picture signals are transmitted by amplitude modulation and audio signals are transmitted by frequency modulation.
 
-by amplitude modulation and audio signals are transmitted
-
-by frequency modulation.
-
+**Ans: A.** Amplitude modulation
 </details>
-
-
----
-
-## Practice Zone — UPPCS Format Drill
-
-**Q1.** A sound wave travels from water into steel. Which of the following quantities remains completely unchanged?
-- (A) Velocity
-- (B) Wavelength
-- (C) Frequency
-- (D) Amplitude
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (C) Frequency
-- **Logic:** Frequency is a fundamental characteristic of the vibrating source. When passing across an interface into another medium, velocity and wavelength change proportionally ($v = f\lambda$), but frequency remains invariant.
-</details>
-
-**Q2.** An astronaut on the Moon's surface drops a heavy hammer and a feather from the same height. If an explosion occurs concurrently $500\text{ m}$ away:
-- (A) He hears the explosion before seeing the hammer hit the surface
-- (B) He hears the explosion after seeing the hammer hit the surface
-- (C) He cannot hear the explosion at all
-- (D) The sound travels faster on the Moon due to low gravity
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (C) He cannot hear the explosion at all
-- **Logic:** The Moon has no atmosphere (vacuum). Sound is a mechanical wave requiring a material medium; it cannot propagate in a vacuum.
-</details>
-
-**Q3.** What is the minimum distance required between an observer and a cliff to hear a clear echo at $0^\circ\text{C}$ (Speed of sound in air at $0^\circ\text{C} = 331\text{ m/s}$)?
-- (A) $17.2\text{ m}$
-- (B) $16.55\text{ m}$
-- (C) $33.1\text{ m}$
-- (D) $8.28\text{ m}$
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (B) $16.55\text{ m}$
-- **Logic:** Persistence of hearing $= 0.1\text{ s}$. $d = vt/2 = (331 \times 0.1)/2 = 16.55\text{ m}$. (At $22^\circ\text{C}$ where $v = 344\text{ m/s}$, $d = 17.2\text{ m}$).
-</details>
-
-**Q4.** The technique of crushing kidney stones using high-intensity sound waves without surgical incision is termed:
-- (A) Endoscopy
-- (B) Lithotripsy
-- (C) Dialysis
-- (D) Ultrasonography
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (B) Lithotripsy
-- **Logic:** Extracorporeal Shock Wave Lithotripsy (ESWL) uses focused ultrasonic shockwaves to break kidney stones into small particles excreted via urine.
-</details>
-
-**Q5.** Which of the following statements regarding FM (Frequency Modulation) is NOT correct?
-- (A) It was invented by Edwin H. Armstrong
-- (B) It has wider bandwidth than Amplitude Modulation
-- (C) It is less susceptible to atmospheric noise and static
-- (D) Carrier amplitude continuously changes according to the signal
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (D) Carrier amplitude continuously changes according to the signal
-- **Logic:** In FM, the amplitude and phase of the carrier wave remain strictly constant; only its frequency varies in accordance with the modulating audio signal.
-</details>
-
----
-
-## Common Traps
-
-1. **The "Sound in Vacuum" Trap:**
-   - Light and radio waves travel through a vacuum, but **sound waves cannot travel in a vacuum under any circumstances**. Astronauts on the Moon use radio transceivers to communicate.
-2. **The "Pressure Changes Speed of Sound" Trap:**
-   - Changing atmospheric pressure does NOT change the speed of sound if temperature remains constant, because $P/\rho$ remains constant.
-3. **The "Cosmic Rays are EM Waves" Trap:**
-   - Cosmic rays are **NOT electromagnetic radiation**; they are high-energy charged particles (chiefly protons and atomic nuclei).
-4. **The "Atmosphere Heated Directly by Sun" Trap:**
-   - Incoming solar radiation is shortwave, which passes through clear air with minimal direct absorption ($\sim 14\%$). The atmosphere is heated predominantly from below by **longwave terrestrial infrared radiation**.
-5. **The "Transverse Waves in Water" Trap:**
-   - Transverse waves can exist on the **surface** of water due to surface tension and gravity, but **inside the bulk of water, only longitudinal waves can propagate**.
-
-
----
-
-## Bilingual Terminology -- Sound and Wave Motion
-
-| English Term | Hindi Term | Key Anchor |
-|---|---|---|
-| **Sound** (ध्वनि) | ध्वनि | Mechanical longitudinal wave; needs medium; cannot travel in vacuum |
-| **Frequency** (आवृत्ति) | आवृत्ति | Number of vibrations per second; SI unit = Hz |
-| **Wavelength** (तरंगदैर्ध्य) | तरंगदैर्ध्य | Distance between two consecutive crests/troughs; SI unit = metre |
-| **Amplitude** (आयाम) | आयाम | Maximum displacement from mean position; determines loudness |
-| **Pitch** (तारत्व) | तारत्व | Highness/lowness of sound; depends on frequency |
-| **Loudness** (प्रबलता) | प्रबलता | Subjective sensation; depends on amplitude and intensity |
-| **Infrasound** (अवश्रव्य ध्वनि) | अवश्रव्य ध्वनि | Frequency < 20 Hz; humans cannot hear; elephants, whales use it |
-| **Ultrasound** (पराश्रव्य ध्वनि) | पराश्रव्य ध्वनि | Frequency > 20,000 Hz; bats, dolphins; used in SONAR, medical imaging |
-| **Echo** (प्रतिध्वनि) | प्रतिध्वनि | Reflection of sound; minimum distance for echo = 17 m (at 20 degC) |
-| **Reverberation** (अनुनाद) | प्रतिध्वनि लम्बी / अनुगूँज | Persistence of sound due to multiple reflections in enclosed space |
-| **Resonance** (अनुनाद) | अनुनाद | When applied frequency = natural frequency; amplitude becomes large |
-| **Doppler Effect** (डॉपलर प्रभाव) | डॉपलर प्रभाव | Change in apparent frequency due to relative motion between source and observer |
-| **Decibel (dB)** (डेसिबल) | डेसिबल | Logarithmic unit of sound intensity |
-| **SONAR** (सोनार) | सोनार | Sound Navigation and Ranging; uses ultrasound to detect underwater objects |
-| **Noise Pollution** (ध्वनि प्रदूषण) | ध्वनि प्रदूषण | Unwanted sound causing health problems; >85 dB prolonged = hearing damage |
 
 ---
 
@@ -3390,4 +2425,103 @@ by frequency modulation.
 | 28 | Transverse waves: light, EM waves; Longitudinal waves: sound, seismic P-waves |
 | 29 | Seismic P-waves = longitudinal; S-waves = transverse (can't pass through liquid outer core) |
 | 30 | Infrasound from earthquakes detected by animals before humans = early warning |
+
+## Practice Zone — UPPCS Format Drill
+
+**Q-ST1.**
+
+A sound wave travels from water into steel. Which of the following quantities remains completely unchanged?
+- (A) Velocity
+- (B) Wavelength
+- (C) Frequency
+- (D) Amplitude
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Frequency is a fundamental characteristic of the vibrating source.
+
+**Ans: C.** Frequency
+</details>
+
+**Q-ST2.**
+
+An astronaut on the Moon's surface drops a heavy hammer and a feather from the same height. If an explosion occurs concurrently $500\text{ m}$ away:
+- (A) He hears the explosion before seeing the hammer hit the surface
+- (B) He hears the explosion after seeing the hammer hit the surface
+- (C) He cannot hear the explosion at all
+- (D) The sound travels faster on the Moon due to low gravity
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Moon has no atmosphere (vacuum).
+
+**Ans: C.** He cannot hear the explosion at all
+</details>
+
+**Q-ST3.**
+
+What is the minimum distance required between an observer and a cliff to hear a clear echo at $0^\circ\text{C}$ (Speed of sound in air at $0^\circ\text{C} = 331\text{ m/s}$)?
+- (A) $17.2\text{ m}$
+- (B) $16.55\text{ m}$
+- (C) $33.1\text{ m}$
+- (D) $8.28\text{ m}$
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Persistence of hearing $= 0.1\text{ s}$.
+
+**Ans: B.** $16.55\text{ m}$
+</details>
+
+**Q-ST4.**
+
+The technique of crushing kidney stones using high-intensity sound waves without surgical incision is termed:
+- (A) Endoscopy
+- (B) Lithotripsy
+- (C) Dialysis
+- (D) Ultrasonography
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Extracorporeal Shock Wave Lithotripsy (ESWL) uses focused ultrasonic shockwaves to break kidney stones into small particles excreted via urine.
+
+**Ans: B.** Lithotripsy
+</details>
+
+**Q-ST5.**
+
+Which of the following statements regarding FM (Frequency Modulation) is NOT correct?
+- (A) It was invented by Edwin H. Armstrong
+- (B) It has wider bandwidth than Amplitude Modulation
+- (C) It is less susceptible to atmospheric noise and static
+- (D) Carrier amplitude continuously changes according to the signal
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** In FM, the amplitude and phase of the carrier wave remain strictly constant; only its frequency varies in accordance with the modulating audio signal.
+
+**Ans: D.** Carrier amplitude continuously changes according to the signal
+</details>
+
+---
+
+## Common Traps
+
+1. **The "Sound in Vacuum" Trap:**
+   - Light and radio waves travel through a vacuum, but **sound waves cannot travel in a vacuum under any circumstances**. Astronauts on the Moon use radio transceivers to communicate.
+2. **The "Pressure Changes Speed of Sound" Trap:**
+   - Changing atmospheric pressure does NOT change the speed of sound if temperature remains constant, because $P/\rho$ remains constant.
+3. **The "Cosmic Rays are EM Waves" Trap:**
+   - Cosmic rays are **NOT electromagnetic radiation**; they are high-energy charged particles (chiefly protons and atomic nuclei).
+4. **The "Atmosphere Heated Directly by Sun" Trap:**
+   - Incoming solar radiation is shortwave, which passes through clear air with minimal direct absorption ($\sim 14\%$). The atmosphere is heated predominantly from below by **longwave terrestrial infrared radiation**.
+5. **The "Transverse Waves in Water" Trap:**
+   - Transverse waves can exist on the **surface** of water due to surface tension and gravity, but **inside the bulk of water, only longitudinal waves can propagate**.
+
+---
 

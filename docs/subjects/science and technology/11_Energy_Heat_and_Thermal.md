@@ -434,7 +434,6 @@ $$\frac{C}{5} = \frac{F - 32}{9} = \frac{K - 273.15}{5}$$
 
 ---
 
-
 ## Teaching expansion — additional theory (beyond Consolidated spine)
 
 These points sit in teaching theory (not the Consolidated spine).
@@ -459,1225 +458,6 @@ These points sit in teaching theory (not the Consolidated spine).
 - **Thermos Flask Silver Layer & Vacuum**: Double glass walls are coated with a **reflective silver layer** to minimize radiation, while the evacuated space between walls eliminates heat loss by **conduction and convection**.
 - **Newton's Law of Cooling Time**: A body cooling from $90^\circ\text{C}$ to $75^\circ\text{C}$ in $25\text{ s}$ will take **more than $25\text{ seconds}$** to cool from $75^\circ\text{C}$ to $60^\circ\text{C}$ because the temperature difference with surroundings ($\Delta T$) is smaller.
 
-## Complete PYQ Bank — UPPCS
-
-**Q1. (UPPCS Pre 2019)** A liquid remains hot or cold for a long time in a thermos flask because there is no loss or gain of heat by:
-- (A) Conduction
-- (B) Convection and radiation
-- (C) Both (A) and (B)
-- (D) None of the above
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (C) Both (A) and (B)
-- **Must-Score Points:**
-  - A thermos (Dewar) flask halts all three modes of thermal heat transfer:
-    - **Conduction and Convection:** Prevented by creating a high vacuum in the double-walled glass casing and sealing the top with an insulating cork/plastic stopper.
-    - **Radiation:** Prevented by coating the facing surfaces of the inner glass walls with a brilliant silver mirror coating, which reflects radiant heat waves back into the interior.
-</details>
-
-**Q2. (UPPCS Pre 2021)** A non-renewable source of energy is:
-- (A) Solar energy
-- (B) Petroleum
-- (C) Wind energy
-- (D) Biogas
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (B) Petroleum
-- **Must-Score Points:**
-  - Petroleum (crude oil) is a fossil fuel formed over millions of years by the geological burial of marine biomass under high heat and pressure. Its reserves are finite and deplete permanently upon extraction.
-  - Solar, wind, and biogas are renewable sources replenished naturally within human timescales.
-</details>
-
-**Q3. (UPPCS Pre 2022)** Most of the sources of energy we use represent stored solar energy. Which of the following is **NOT** ultimately derived from the Sun's energy?
-- (A) Nuclear energy
-- (B) Geothermal energy
-- (C) Biomass energy
-- (D) Wind energy
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (A) Nuclear energy
-- **Must-Score Points:**
-  - Nuclear energy is released by splitting (fission) or combining (fusion) atomic nuclei, fundamentally rooted in the strong nuclear force and mass-energy conversion ($E = mc^2$) of primordial elements like Uranium-235, synthesized during ancient stellar supernovas before the formation of our Solar System.
-  - Wind energy (differential atmospheric heating by solar flux) and biomass energy (photosynthesis) are directly driven by solar energy. Geothermal energy originates partly from primordial planetary accretion and partly from radioactive decay within the Earth's mantle.
-</details>
-
-**Q4. (UPPCS Pre 2023)** Non-conventional energy sources are those energy sources that are:
-- (A) Non-renewable
-- (B) Renewable
-- (C) Produced from electricity
-- (D) Produced from heat
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (B) Renewable
-- **Must-Score Points:**
-  - Conventional energy sources are traditional fossil fuels (coal, crude oil, natural gas) and large hydro projects.
-  - Non-conventional energy sources represent modern clean alternatives developed in recent decades (solar, wind, tidal, geothermal, biomass), which are predominantly renewable and eco-friendly.
-</details>
-
-**Q5. (UPPCS Pre 2022)** The first airport completely powered by solar energy in India is:
-- (A) Chennai
-- (B) Cochin
-- (C) Ahmedabad
-- (D) New Delhi
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (B) Cochin
-- **Must-Score Points:**
-  - In August 2015, **Cochin International Airport (CIAL)** in Kerala became the world's first fully solar-powered airport, operating entirely on a $12\text{ MWp}$ solar power plant installed on site.
-  - In 2018, CIAL was conferred the prestigious United Nations 'Champions of the Earth' award for its environmental leadership.
-</details>
-
-**Q6. (UPPCS Pre 2019)** Why are cloudy nights warmer compared to clear starry nights?
-- (A) Clouds prevent cold waves from descending from the sky
-- (B) Clouds reflect terrestrial radiation back toward the Earth
-- (C) Clouds generate heat and radiate it toward the Earth
-- (D) Clouds absorb heat from sunlight during the day and radiate it at night
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (B) Clouds reflect terrestrial radiation back toward the Earth
-- **Must-Score Points:**
-  - The Earth absorbs solar shortwave radiation during the daytime and cools at night by emitting longwave infrared radiation back into space.
-  - When the sky is cloudy, water droplets and vapor in clouds absorb and reflect this outgoing terrestrial infrared radiation back to the surface, functioning like an insulating blanket.
-  - On clear nights, radiant heat escapes unimpeded into outer space, causing severe radiational surface cooling.
-</details>
-
-**Q7. (UPPCS Pre 2019)** For which of the following is water cooling in an earthen pot (Matka) effective?
-- (A) High atmospheric humidity
-- (B) Low atmospheric humidity and high temperature
-- (C) High atmospheric pressure
-- (D) Complete saturation of ambient air
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (B) Low atmospheric humidity and high temperature
-- **Must-Score Points:**
-  - Cooling in an earthen pot occurs via the continuous evaporation of water seeping through microscopic pores in the clay walls.
-  - Each gram of evaporating water absorbs $540\text{ calories}$ of latent heat of vaporization from the internal water reservoir.
-  - Evaporation rate is inversely proportional to relative humidity. In dry, hot summer weather, evaporation is rapid and cooling is maximum; in humid monsoon weather, evaporation halts and cooling is negligible.
-</details>
-
-**Q8. (UPPCS Pre 2018)** When an ice cube melts in a glass beaker filled to the brim with water, the water level:
-- (A) Spills over the rim
-- (B) Falls down
-- (C) Remains unchanged
-- (D) First falls and then rises
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (C) Remains unchanged
-- **Must-Score Points:**
-  - By the principle of floatation (Archimedes' Principle), a floating body displaces a volume of liquid whose weight exactly equals the total weight of the floating body.
-  - The ice cube displaces water having mass equal to the mass of the ice cube.
-  - When the ice melts completely, it turns into water of precisely that same mass and volume, exactly occupying the submerged cavity it previously displaced.
-</details>
-
-**Q9. (UPPCS Pre 2017)** Steam at $100^\circ\text{C}$ causes much more severe burns on human skin than boiling water at $100^\circ\text{C}$ because:
-- (A) Steam is a gas and penetrates skin pores easily
-- (B) Steam contains latent heat of vaporization
-- (C) Steam has a higher chemical reactivity
-- (D) Boiling water has a higher density than steam
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (B) Steam contains latent heat of vaporization
-- **Must-Score Points:**
-  - $1\text{ gram}$ of water at $100^\circ\text{C}$ releasing heat cools directly.
-  - $1\text{ gram}$ of steam at $100^\circ\text{C}$ must first condense into liquid water at $100^\circ\text{C}$, releasing **$540\text{ calories}$ ($2260\text{ J}$)** of latent heat of vaporization directly onto the skin tissue before further cooling begins.
-  - This hidden latent heat causes deep thermal necrosis and severe blistering.
-</details>
-
-**Q10. (UPPCS Pre 2016)** If the door of an operational refrigerator is left wide open in a closed, thermally insulated room, the temperature of the room will:
-- (A) Decrease
-- (B) Increase
-- (C) Remain strictly unchanged
-- (D) Decrease in the first hour and then increase
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (B) Increase
-- **Must-Score Points:**
-  - A refrigerator functions as a heat pump operating on the second law of thermodynamics.
-  - Heat rejected into the room air at the external rear condenser coils equals the heat absorbed from the interior food compartment plus the electrical work performed by the compressor motor ($Q_{\text{hot}} = Q_{\text{cold}} + W_{\text{electric}}$).
-  - Since work $W$ is converted into additional thermal dissipation, the net heat discharged into the room exceeds the cooling effect, causing the room temperature to steadily climb.
-</details>
-
-**Q11. (UPPCS Pre 2015)** In a pressure cooker, food is cooked in a shorter time because:
-- (A) Boiling point of water increases due to high pressure
-- (B) Boiling point of water decreases due to high pressure
-- (C) Heat cannot escape from the sealed lid
-- (D) Steam is much hotter than flame
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (A) Boiling point of water increases due to high pressure
-- **Must-Score Points:**
-  - In an open pan at sea level, water boils at $100^\circ\text{C}$ ($1\text{ atm}$ pressure) and its temperature cannot rise further regardless of flame intensity.
-  - In a sealed pressure cooker, trapped steam raises the internal pressure to approximately $2\text{ atmospheres}$, pushing the boiling point of water up to **$120^\circ\text{C}\text{--}125^\circ\text{C}$**.
-  - Cooking is a chemical process whose rate increases exponentially with temperature; cooking at $120^\circ\text{C}$ cuts cooking duration by over $60\%$.
-</details>
-
-**Q12. (UPPCS Pre 2014)** Why is a small gap left between the adjoining ends of two railway steel rails?
-- (A) To reduce the weight of steel rails
-- (B) To allow space for linear thermal expansion during hot summer
-- (C) To prevent corrosion of the joints
-- (D) To assist the driver in tracking train speed
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (B) To allow space for linear thermal expansion during hot summer
-- **Must-Score Points:**
-  - Steel has a positive coefficient of linear thermal expansion ($\alpha \approx 1.2 \times 10^{-5}\text{ K}^{-1}$).
-  - During hot summers, rails expand linearly according to $\Delta L = L_0 \alpha \Delta T$.
-  - If rails were laid end-to-end without gaps, immense longitudinal compressive thermal stress would develop, resulting in catastrophic track buckling and train derailments.
-</details>
-
-**Q13. (UPPCS Pre 2013)** Why does an earthen pitcher keep water cool in summer?
-- (A) The clay absorbs cold waves from the atmosphere
-- (B) Clay is a superconductor of cold energy
-- (C) Continuous evaporation of water seeping through porous clay walls
-- (D) The pitcher radiates cold infrared rays
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (C) Continuous evaporation of water seeping through porous clay walls
-- **Must-Score Points:**
-  - Clay pots are permeable due to millions of micro-capillaries.
-  - Water slowly permeates to the outer surface and evaporates into surrounding air, absorbing its latent heat of vaporization ($540\text{ cal/g}$) from the pitcher and the water inside.
-</details>
-
-**Q14. (UPPCS Pre 2012)** What is the temperature at which the Celsius and Fahrenheit thermometers show identical readings?
-- (A) $+40^\circ$
-- (B) $-40^\circ$
-- (C) $-273^\circ$
-- (D) $+100^\circ$
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (B) $-40^\circ$
-- **Must-Score Points:**
-  - Using the scale conversion formula: $\frac{C}{5} = \frac{F - 32}{9}$.
-  - Setting $C = F = x$:
-    $$\frac{x}{5} = \frac{x - 32}{9} \implies 9x = 5x - 160 \implies 4x = -160 \implies x = -40^\circ$$
-  - Thus, **$-40^\circ\text{C} = -40^\circ\text{F}$**.
-</details>
-
-**Q15. (UPPCS Pre 2011)** Which of the following fuels causes the minimum environmental pollution when burnt?
-- (A) Diesel
-- (B) Coal
-- (C) Hydrogen
-- (D) Kerosene
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (C) Hydrogen
-- **Must-Score Points:**
-  - Combustion of hydrogen produces only water vapor ($2H_2 + O_2 \to 2H_2O$), releasing zero carbon monoxide, zero carbon dioxide, zero particulate matter, and zero unburnt hydrocarbons.
-  - Hydrogen also possesses the highest energy density by mass (calorific value $\approx 150\text{ kJ/g}$).
-</details>
-
-**Q16. (UPPCS Mains GS 2010)** Two thin blankets are warmer than one single blanket of double thickness because:
-- (A) Two blankets have twice the mass
-- (B) A layer of air trapped between the two blankets acts as an insulator
-- (C) Radiation cannot pass through multiple cloth layers
-- (D) Fabric friction generates internal heat
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (B) A layer of air trapped between the two blankets acts as an insulator
-- **Must-Score Points:**
-  - Air is an exceptionally poor conductor of heat ($k_{\text{air}} \approx 0.026\text{ W/m}\cdot\text{K}$).
-  - The layer of still, dead air trapped between two blankets eliminates conductive and convective heat transfer from the body to the cold bedroom atmosphere.
-</details>
-
-**Q17. (UPPCS Pre 2008)** At what temperature does the density of pure water reach its absolute maximum?
-- (A) $0^\circ\text{C}$
-- (B) $4^\circ\text{C}$
-- (C) $-4^\circ\text{C}$
-- (D) $100^\circ\text{C}$
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (B) $4^\circ\text{C}$
-- **Must-Score Points:**
-  - Due to anomalous expansion of water, heating water from $0^\circ\text{C}$ causes hydrogen-bonded hexagonal cages to collapse, shrinking volume until density peaks at **$3.98^\circ\text{C} \approx 4^\circ\text{C}$** ($1.000\text{ g/cm}^3$).
-  - Beyond $4^\circ\text{C}$, thermal expansion takes over and density steadily decreases.
-</details>
-
-**Q18. (UPPCS Pre 2006)** A fan produces a sensation of comfort and cooling during hot summer weather because:
-- (A) The fan cools the surrounding air
-- (B) The fan generates cold air currents
-- (C) Air circulation accelerates the evaporation of sweat from our body
-- (D) The fan conducts body heat away directly
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (C) Air circulation accelerates the evaporation of sweat from our body
-- **Must-Score Points:**
-  - An electric ceiling fan does not decrease room temperature; the motor actually dissipates a small amount of heat into the room.
-  - The sensation of cooling arises because the breeze constantly displaces the moisture-laden boundary air layer adjoining our skin, accelerating sweat evaporation and removing $540\text{ cal/g}$ of latent heat.
-</details>
-
-**Q19. (UPPCS Pre 2004)** On a cold winter morning, a metal latch feels much colder to touch than the adjoining wooden door because:
-- (A) Metal is at a lower temperature than wood
-- (B) Metal is a much better conductor of heat than wood
-- (C) Wood absorbs more thermal radiation than metal
-- (D) Metal has higher specific heat capacity than wood
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (B) Metal is a much better conductor of heat than wood
-- **Must-Score Points:**
-  - Both the metal latch and wooden door have been in the same room for hours and are in thermal equilibrium at the exact same ambient temperature.
-  - Skin temperature is higher ($\approx 37^\circ\text{C}$). Because metal has high thermal conductivity, it draws heat out of your finger rapidly, signaling intense cold to nerve endings. Wood conducts heat poorly, so the skin contact area quickly warms up.
-</details>
-
-**Q20. (UPPCS Pre 2002)** Why does water in an open container on high mountains boil below $100^\circ\text{C}$?
-- (A) High winds blow the heat away
-- (B) Solar radiation is weaker on mountains
-- (C) Atmospheric pressure decreases with altitude, lowering the boiling point
-- (D) The air contains less oxygen on high mountains
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (C) Atmospheric pressure decreases with altitude, lowering the boiling point
-- **Must-Score Points:**
-  - A liquid boils when its saturated vapor pressure equals prevailing ambient atmospheric pressure.
-  - Barometric pressure falls with increasing altitude. At an elevation of $3,000\text{ meters}$, water boils at only $\approx 90^\circ\text{C}$, lengthening cooking time significantly.
-</details>
-
----
-
-## Complete PYQ Bank — UKPCS
-
-**Q1. (UKPCS Pre 2025)** Which of the following is a non-renewable source of energy?
-- (A) Solar energy
-- (B) Biomass energy
-- (C) Wind energy
-- (D) Coal
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (D) Coal
-- **Must-Score Points:**
-  - Coal is a carbonaceous sedimentary rock derived from fossilized swamp vegetation subjected to geological heat and pressure over hundreds of millions of years. Once mined and burnt, it cannot be regenerated on a human timescale.
-  - Solar, wind, and biomass replenish constantly through natural processes.
-</details>
-
-**Q2. (UKPCS Pre 2022)** What is the value of absolute zero temperature on the Celsius scale?
-- (A) $-273.15^\circ\text{C}$
-- (B) $0^\circ\text{C}$
-- (C) $100^\circ\text{C}$
-- (D) $-40^\circ\text{C}$
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (A) $-273.15^\circ\text{C}$
-- **Must-Score Points:**
-  - Absolute zero ($0\text{ K}$) is the fundamental lower boundary of thermodynamic temperature where ideal gas pressure drops to zero and molecular kinetic motion reaches minimum possible ground state: $0\text{ K} = -273.15^\circ\text{C}$.
-</details>
-
-**Q3. (UKPCS Pre 2016)** Water has maximum density at:
-- (A) $0^\circ\text{C}$
-- (B) $4^\circ\text{C}$
-- (C) $100^\circ\text{C}$
-- (D) $273\text{ K}$
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (B) $4^\circ\text{C}$
-- **Must-Score Points:**
-  - Pure water reaches its maximum density of $1.000\text{ g/cm}^3$ ($1000\text{ kg/m}^3$) at **$3.98^\circ\text{C} \approx 4^\circ\text{C}$** ($277.15\text{ K}$).
-  - At $0^\circ\text{C}$ (liquid), density is $0.9998\text{ g/cm}^3$, and ice at $0^\circ\text{C}$ has a density of $0.917\text{ g/cm}^3$.
-</details>
-
-**Q4. (UKPCS Mains 2012)** Heat transfer by radiation travels at the speed of:
-- (A) Sound in air ($332\text{ m/s}$)
-- (B) Light in vacuum ($3 \times 10^8\text{ m/s}$)
-- (C) Supersonic speed ($1000\text{ m/s}$)
-- (D) Speed of oceanic tidal waves
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (B) Light in vacuum ($3 \times 10^8\text{ m/s}$)
-- **Must-Score Points:**
-  - Thermal radiation is mediated by electromagnetic waves (chiefly infrared photons). All electromagnetic radiation propagates across vacuum at the fundamental speed of light: $c \approx 3 \times 10^8\text{ m/s}$.
-</details>
-
----
-
-## Complete PYQ Bank — BPSC, IAS & Other State PCS (Ghatnachakra Focus)
-
-**Q1. (IAS Pre 2021)** Consider the following statements:
-1. In an isolated system, the total entropy always increases in a spontaneous process.
-2. Heat can be completely converted into mechanical work in a continuous cyclic process without rejecting any heat to a colder reservoir.
-
-Which of the statements given above is/are correct?
-- (A) 1 only
-- (B) 2 only
-- (C) Both 1 and 2
-- (D) Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (A) 1 only
-- **Must-Score Points:**
-  - Statement 1 is correct: The Second Law of Thermodynamics dictates that for any spontaneous, irreversible process in an isolated system, total entropy increases ($\Delta S > 0$).
-  - Statement 2 is incorrect: According to the Kelvin-Planck statement of the Second Law, no heat engine operating in a closed cycle can convert $100\%$ of absorbed heat into mechanical work; a portion must be rejected to a low-temperature sink.
-</details>
-
-**Q2. (BPSC Pre 2022)** The physical process responsible for the cooling of a desert air cooler is:
-- (A) Evaporative cooling
-- (B) Adiabatic expansion
-- (C) Condensation
-- (D) Thermoelectric cooling
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (A) Evaporative cooling
-- **Must-Score Points:**
-  - In a desert cooler, an electric fan draws warm, dry ambient air through water-saturated wood-wool pads.
-  - The water absorbs its latent heat of vaporization ($540\text{ cal/g}$) from the passing air stream to evaporate, cooling the air output.
-</details>
-
-**Q3. (RAS/RTS Pre 2021)** If the absolute temperature of a radiating black body is doubled, the total radiant power emitted by it will increase by a factor of:
-- (A) 2
-- (B) 4
-- (C) 8
-- (D) 16
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (D) 16
-- **Must-Score Points:**
-  - By the Stefan-Boltzmann Law, total emissive power is proportional to the fourth power of absolute temperature ($E = \sigma T^4$).
-  - If $T' = 2T$, then $E' = \sigma (2T)^4 = 16 \sigma T^4 = 16E$.
-</details>
-
-**Q4. (MPPCS Pre 2020)** Why does a piece of ice at $0^\circ\text{C}$ cool a soft drink much more effectively than water at $0^\circ\text{C}$?
-- (A) Ice has lower density than water
-- (B) Ice absorbs latent heat of fusion ($80\text{ cal/g}$) to melt into water at $0^\circ\text{C}$
-- (C) Water radiates heat into the glass
-- (D) Ice creates convective currents in the glass
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (B) Ice absorbs latent heat of fusion ($80\text{ cal/g}$) to melt into water at $0^\circ\text{C}$
-- **Must-Score Points:**
-  - Water at $0^\circ\text{C}$ can only cool the drink by absorbing sensible heat ($Q = mc\Delta T$), warming up immediately.
-  - Ice at $0^\circ\text{C}$ must first absorb **$80\text{ calories}$ per gram** ($334\text{ kJ/kg}$) merely to convert into water at $0^\circ\text{C}$, extracting substantially more thermal energy from the drink.
-</details>
-
-**Q5. (BPSC Pre 2019)** Which one of the following has the highest specific heat capacity?
-- (A) Alcohol
-- (B) Mercury
-- (C) Water
-- (D) Kerosene
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (C) Water
-- **Must-Score Points:**
-  - Water has an exceptionally high specific heat capacity of $1.0\text{ cal/g}\cdot^\circ\text{C} = 4184\text{ J/kg}\cdot\text{K}$.
-  - In comparison: Alcohol $\approx 2400\text{ J/kg}\cdot\text{K}$, Kerosene $\approx 2100\text{ J/kg}\cdot\text{K}$, and Mercury $\approx 140\text{ J/kg}\cdot\text{K}$.
-</details>
-
-**Q6. (IAS Pre 2018)** Why is the barrel of a bicycle air pump hot after vigorously inflating a tire?
-- (A) Friction between the piston washer and barrel walls
-- (B) Work done during adiabatic compression of air heats the gas
-- (C) Chemical reaction between atmospheric oxygen and pump lubricant
-- (D) Conduction of heat from the rubber tire into the pump
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (B) Work done during adiabatic compression of air heats the gas
-- **Must-Score Points:**
-  - Vigorously pumping air is a rapid thermodynamic process with negligible time for heat to escape, approximating an **adiabatic compression** ($Q \approx 0$).
-  - By the First Law: $W = -\Delta U$. Mechanical work done in compressing air molecules increases the internal kinetic energy and temperature of the air, which conducts heat into the metal pump barrel.
-</details>
-
-**Q7. (RAS/RTS Pre 2016)** The ratio of coefficients of linear, superficial, and cubical expansion of an isotropic solid is:
-- (A) $1 : 2 : 3$
-- (B) $3 : 2 : 1$
-- (C) $1 : \sqrt{2} : \sqrt{3}$
-- (D) $1 : 4 : 9$
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (A) $1 : 2 : 3$
-- **Must-Score Points:**
-  - For an isotropic solid: $\beta = 2\alpha$ and $\gamma = 3\alpha$.
-  - Therefore, the ratio $\alpha : \beta : \gamma = 1 : 2 : 3$.
-</details>
-
-**Q8. (MPPCS Pre 2017)** When a solid substance sublimes directly into gas upon heating, it skips which phase?
-- (A) Plasma phase
-- (B) Liquid phase
-- (C) Supercritical fluid phase
-- (D) Bose-Einstein condensate phase
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (B) Liquid phase
-- **Must-Score Points:**
-  - Sublimation is the direct transition from solid to gaseous state without passing through the intermediate liquid phase.
-  - Examples: Dry ice ($CO_2$), Camphor, Naphthalene, Ammonium chloride ($NH_4Cl$), and Iodine.
-</details>
-
-**Q9. (IAS Pre 2013)** If the earth's atmosphere were stripped away completely, the average temperature of the earth's surface would:
-- (A) Increase dramatically
-- (B) Decrease dramatically
-- (C) Remain unchanged
-- (D) Oscillate unpredictably
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (B) Decrease dramatically
-- **Must-Score Points:**
-  - The natural greenhouse effect of the atmosphere traps outgoing terrestrial infrared radiation, maintaining Earth's mean surface temperature at $+15^\circ\text{C}$.
-  - Without an atmosphere, all radiated heat would escape into space unimpeded, plunging Earth's global average temperature to approximately **$-18^\circ\text{C}$** ($33^\circ\text{C}$ colder), encasing the globe in permanent ice.
-</details>
-
-**Q10. (BPSC Pre 2015)** In which of the following processes is heat transfer by convection impossible?
-- (A) Boiling water in an electric kettle on Earth
-- (B) Boiling water inside an orbiting space station
-- (C) Sea breezes blowing along the coast
-- (D) Air heating in a domestic room chimney
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (B) Boiling water inside an orbiting space station
-- **Must-Score Points:**
-  - Natural convection relies entirely on buoyant forces arising from density differences under gravity ($F_b = V \Delta\rho \cdot g$).
-  - In an orbiting space station, effective gravity is zero ($g = 0$), so warm, less dense water cannot rise. Heat can transfer through the water only by conduction.
-</details>
-
----
-
-**Q61. (70th BPSC Pre 2024)**  
-Heat transfer that does not require a medium is called:  
-(a) Radiation  
-(b) Reflection  
-(c) Conduction  
-(d) Convection  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (a)</b><br>
-Thermal radiation is the transfer of heat via electromagnetic waves and does not require any material medium (e.g. sunlight reaching Earth through the vacuum of space).
-</details>
-
-**Q62. (70th BPSC Pre Re-Exam 2024)**  
-Compared to a burn due to air at $100^\circ\text{C}$, the burn due to steam at $100^\circ\text{C}$ is:  
-(a) Less dangerous due to high latent heat of evaporation  
-(b) More dangerous due to high latent heat of evaporation  
-(c) Less dangerous due to low latent heat of evaporation  
-(d) More dangerous due to low latent heat of evaporation  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (b)</b><br>
-Steam at $100^\circ\text{C}$ carries $540\text{ cal/g}$ ($22.6 \times 10^5\text{ J/kg}$) of latent heat of vaporization, which is released upon condensing on the skin, producing severe burns.
-</details>
-
-**Q63. (UPPCS Pre 2024)**  
-Which of the following is a correct relationship between Fahrenheit ($^\circ\text{F}$) and Celsius ($^\circ\text{C}$) degrees?  
-(a) $^\circ\text{C} = \frac{5}{9} ^\circ\text{F} + 32$  
-(b) $^\circ\text{C} = ^\circ\text{F} - 273.15$  
-(c) $^\circ\text{F} = \frac{9}{5} ^\circ\text{C} + 32$  
-(d) $^\circ\text{F} = ^\circ\text{C} - 273.15$  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (c)</b><br>
-From $\frac{C}{5} = \frac{F - 32}{9} \implies F = \frac{9}{5}C + 32$.
-</details>
-
-**Q64. (MP PCS Pre 2023)**  
-In an ecosystem, flow of energy declines as it passes from lower to higher trophic level. This is explained by the following:  
-(a) First law of thermodynamics  
-(b) Second law of thermodynamics  
-(c) Newton's second law  
-(d) Newton's third law  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (b)</b><br>
-The Second Law of Thermodynamics dictates that energy transformations are accompanied by entropy generation and thermal dissipation; only $\approx 10\%$ of energy transfers to the next trophic level.
-</details>
-
-**Q65. (69th BPSC Pre 2023)**  
-Consider the following statements regarding 'heat wave':  
-1. Heat wave is considered if the maximum temperature of a station reaches at least $30^\circ\text{C}$ or more for plains.  
-2. Heat wave is considered if the maximum temperature of a station reaches at least $40^\circ\text{C}$ or more for hilly regions.  
-Which of the above statements is/are correct?  
-(a) Both 1 and 2  
-(b) Only 1  
-(c) Only 2  
-(d) Neither 1 nor 2  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (d)</b><br>
-According to IMD criteria, a heat wave is declared when maximum station temperature reaches at least **$40^\circ\text{C}$ in plains** and at least **$30^\circ\text{C}$ in hilly regions**. Both statements swapped the criteria.
-</details>
-
-**Q66. (67th BPSC Pre 2022)**  
-The temperature point at which solid, liquid and gaseous states may stay together is known as:  
-(a) boiling point  
-(b) melting point  
-(c) freezing point  
-(d) triple point  
-(e) None of the above / More than one of the above  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (d)</b><br>
-The triple point of a substance is the unique temperature and pressure at which solid, liquid, and gas coexist in equilibrium ($273.16\text{ K}$ and $611.657\text{ Pa}$ for water).
-</details>
-
-**Q67. (UPPCS Pre 2019)**  
-A liquid remains hot or cold for a long time in thermos flask because there is no loss or gain of heat by:  
-(a) Conduction  
-(b) Convection and radiation  
-(c) Both (a) and (b)  
-(d) None of the above  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (c)</b><br>
-A thermos flask has a vacuum gap between double walls (preventing conduction and convection) and silvered surfaces (reflecting radiation back).
-</details>
-
-**Q68. (UPPCS Mains 2015)**  
-The maximum density of water is at:  
-(a) $373\text{ Kelvin}$  
-(b) $277\text{ Kelvin}$  
-(c) $273\text{ Kelvin}$  
-(d) $269\text{ Kelvin}$  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (b)</b><br>
-Water has maximum density at $4^\circ\text{C}$. Converting to Kelvin: $T = 4 + 273.15 = 277.15\text{ K} \approx 277\text{ K}$.
-</details>
-
-**Q69. (UPPCS Pre 2012)**  
-In an earthen pitcher, the water remains cold due to the process of:  
-(a) Condensation  
-(b) Evaporation  
-(c) Sublimation  
-(d) None of the above  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (b)</b><br>
-Water seeps through microscopic pores of the clay walls and evaporates into surrounding air, absorbing its latent heat of vaporization from the interior water and cooling it.
-</details>
-
-**Q70. (UPPCS Pre 2008)**  
-In which of the following conditions will wet clothes dry earliest?  
-(a) $100\%\text{ RH}, 60^\circ\text{C}$  
-(b) $100\%\text{ RH}, 20^\circ\text{C}$  
-(c) $20\%\text{ RH}, 20^\circ\text{C}$  
-(d) $20\%\text{ RH}, 60^\circ\text{C}$  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (d)</b><br>
-Evaporation rate increases with higher temperature and lower relative humidity. Minimum humidity ($20\%$) and maximum temperature ($60^\circ\text{C}$) produce the fastest drying.
-</details>
-
-**Q71. (UPPCS Pre 2007)**  
-The safest temperature for keeping food fresh in a refrigerator is:  
-(a) $4^\circ\text{C}$  
-(b) $8^\circ\text{C}$  
-(c) $0^\circ\text{C}$  
-(d) $10^\circ\text{C}$  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (a)</b><br>
-Keeping food at or below $4^\circ\text{C}$ ($36^\circ\text{F}-38^\circ\text{F}$) inhibits bacterial growth and spoilage without freezing fresh produce.
-</details>
-
-**Q72. (Uttarakhand Lower Sub. Pre 2010)**  
-The heat required in calories to convert one gram of ice at $0^\circ\text{C}$ to steam at $100^\circ\text{C}$ is approximately:  
-(a) 80  
-(b) 336  
-(c) 720  
-(d) 620  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (c)</b><br>
-Heat to melt ice $= 80\text{ cal}$. Heat to warm water $0^\circ\text{C} \to 100^\circ\text{C} = 100\text{ cal}$. Heat to vaporize water $= 540\text{ cal}$. Total $= 80 + 100 + 540 = \mathbf{720\text{ calories}}$.
-</details>
-
-**Q73. (IAS Pre 2011)**  
-The surface of a lake is frozen in severe winter, but the water at its bottom is still liquid. Why?  
-(a) Ice is a bad conductor of heat  
-(b) Since the surface of the lake is at the same temperature as air, no heat is lost  
-(c) The density of water is maximum at $4^\circ\text{C}$  
-(d) None of the above  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (c)</b><br>
-Water reaches maximum density at $4^\circ\text{C}$ and sinks to the lake bed. Colder water below $4^\circ\text{C}$ is less dense and stays at the surface to freeze into ice ($0^\circ\text{C}$), insulating the $4^\circ\text{C}$ liquid water underneath.
-</details>
-
-**Q74. (IAS Pre 2001)**  
-When water is heated from $0^\circ\text{C}$ to $10^\circ\text{C}$, its volume:  
-(a) Increases  
-(b) Decreases  
-(c) Does not change  
-(d) First decreases and then increases  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (d)</b><br>
-Between $0^\circ\text{C}$ and $4^\circ\text{C}$, water contracts (volume decreases to minimum). Above $4^\circ\text{C}$, it expands normally (volume increases).
-</details>
-
-**Q75. (RAS/RTS Pre 2008)**  
-On a specific day, the temperature was $48^\circ\text{C}$ in Churu and $24^\circ\text{C}$ in Shimla. Two metallic cups identical in all respects contained water at $95^\circ\text{C}$ in Churu and $71^\circ\text{C}$ in Shimla. Which one reached room temperature first?  
-(a) Cup in Churu  
-(b) Cup in Shimla  
-(c) Both cups reached room temperature at the same time  
-(d) Data are not enough  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (c)</b><br>
-By Newton's Law of Cooling, rate of cooling depends on $\Delta T$. In Churu: $\Delta T = 95 - 48 = 47^\circ\text{C}$. In Shimla: $\Delta T = 71 - 24 = 47^\circ\text{C}$. Since $\Delta T$ is identical, both cups reach their respective room temperatures simultaneously.
-</details>
-
----
-
-## Practice Zone — UPPCS Format Drill
-
-**Q1.** With reference to heat transfer, which of the following statements is/are correct?
-1. Convection is possible in both liquids and gases.
-2. Heat can travel through vacuum only by radiation.
-3. Conduction involves the bulk physical displacement of heated matter.
-
-Select the correct answer using the code given below:
-- (A) 1 and 2 only
-- (B) 2 and 3 only
-- (C) 1 only
-- (D) 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (A) 1 and 2 only
-- **Must-Score Points:**
-  - Statement 1 is correct: Convection requires fluid mobility and occurs in liquids and gases.
-  - Statement 2 is correct: Conduction and convection require material atoms/molecules. Radiation consists of electromagnetic waves and travels freely through vacuum.
-  - Statement 3 is incorrect: Conduction occurs via interatomic vibrations and electron collisions *without* any macroscopic translation of the medium. Bulk physical displacement defines convection.
-</details>
-
-**Q2.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
-- **Assertion (A):** In severe winters, freshwater lakes freeze from the top surface downwards, leaving liquid water at the bottom.
-- **Reason (R):** Water has its maximum density at $4^\circ\text{C}$ due to anomalous thermal expansion.
-
-Select the correct answer:
-- (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
-- (B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)
-- (C) (A) is true but (R) is false
-- (D) (A) is false but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
-- **Must-Score Points:**
-  - As ambient air drops toward freezing, lake water cools to $4^\circ\text{C}$, reaches maximum density ($1.000\text{ g/cm}^3$), and sinks to the bottom.
-  - Further cooling of surface water below $4^\circ\text{C}$ causes it to expand, become lighter, and remain at the surface where it freezes into ice ($0^\circ\text{C}$).
-  - Because ice is an insulator and floats, water below remains liquid at $+4^\circ\text{C}$, protecting aquatic life.
-</details>
-
-**Q3.** Match List-I (Thermodynamic Law / Principle) with List-II (Key Scientific Definition):
-
-| List-I | List-II |
-| :--- | :--- |
-| A. Zeroth Law of Thermodynamics | 1. Conservation of energy in thermal systems |
-| B. First Law of Thermodynamics | 2. Operational definition of Temperature |
-| C. Second Law of Thermodynamics | 3. Entropy of a pure crystal is zero at absolute zero |
-| D. Third Law of Thermodynamics | 4. Spontaneous processes increase the entropy of the universe |
-
-Select the correct code:
-- (A) A-2, B-1, C-4, D-3
-- (B) A-1, B-2, C-3, D-4
-- (C) A-2, B-4, C-1, D-3
-- (D) A-4, B-1, C-2, D-3
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (A) A-2, B-1, C-4, D-3
-- **Must-Score Points:**
-  - Zeroth Law $\to$ Defines Temperature.
-  - First Law $\to$ Conservation of energy ($\Delta Q = \Delta U + W$).
-  - Second Law $\to$ Direction of heat flow and universal increase of entropy.
-  - Third Law $\to$ Absolute zero entropy limit ($S \to 0$ as $T \to 0\text{ K}$).
-</details>
-
-**Q4.** Which of the following statements is/are correct regarding the specific heat capacity of water?
-1. Water's high specific heat capacity makes it an ideal coolant for automotive radiators.
-2. It moderates climate swings in coastal geographical zones.
-3. Specific heat capacity of liquid water is lower than that of ice.
-
-Select the correct answer using the code given below:
-- (A) 1 and 2 only
-- (B) 2 and 3 only
-- (C) 1 only
-- (D) 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (A) 1 and 2 only
-- **Must-Score Points:**
-  - Statements 1 and 2 are correct: Water has an exceptionally high specific heat ($4184\text{ J/kg}\cdot\text{K}$), allowing it to absorb enormous amounts of heat with minimal temperature rise.
-  - Statement 3 is incorrect: Liquid water's specific heat is $1.0\text{ cal/g}\cdot^\circ\text{C}$, whereas ice's specific heat is only $0.5\text{ cal/g}\cdot^\circ\text{C}$ (half of liquid water).
-</details>
-
-**Q5.** Which of the following pairs is **NOT** correctly matched?
-- (A) Hydrogen — Highest calorific value among fuels
-- (B) Bimetallic strip — Differential linear thermal expansion
-- (C) Pressure cooker — Decreases boiling point of water
-- (D) Thermos flask — Prevents conduction, convection, and radiation
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (C) Pressure cooker — Decreases boiling point of water
-- **Must-Score Points:**
-  - Pressure cookers **increase** the boiling point of water to $120^\circ\text{C}\text{--}125^\circ\text{C}$ by trapping steam at elevated pressure ($\approx 2\text{ atm}$), cutting cooking time.
-</details>
-
-**Q6.** Arrange the following substances in descending order of their thermal conductivities:
-1. Silver
-2. Glass
-3. Aluminum
-4. Copper
-
-Select the correct code:
-- (A) $1 > 4 > 3 > 2$
-- (B) $4 > 1 > 3 > 2$
-- (C) $1 > 3 > 4 > 2$
-- (D) $3 > 1 > 4 > 2$
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (A) $1 > 4 > 3 > 2$
-- **Must-Score Points:**
-  - Thermal conductivities ($k$ in $\text{W/m}\cdot\text{K}$):
-    - Silver: $\approx 429$
-    - Copper: $\approx 401$
-    - Aluminum: $\approx 237$
-    - Glass: $\approx 0.8$
-</details>
-
-**Q7.** With reference to latent heat, which of the following statements is/are correct?
-1. Latent heat of vaporization of water is approximately $540\text{ cal/g}$.
-2. Latent heat of fusion of ice is approximately $80\text{ cal/g}$.
-3. Temperature of a substance rises rapidly while absorbing latent heat.
-
-Select the correct answer using the code given below:
-- (A) 1 and 2 only
-- (B) 2 and 3 only
-- (C) 1 only
-- (D) 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (A) 1 and 2 only
-- **Must-Score Points:**
-  - Statements 1 and 2 are standard constants.
-  - Statement 3 is incorrect: Latent heat is absorbed or released strictly at **constant temperature** during phase transitions (solid to liquid or liquid to gas).
-</details>
-
-**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
-- **Assertion (A):** In summer, a pendulum clock loses time and runs slow.
-- **Reason (R):** The length of the pendulum rod increases due to thermal expansion, increasing its time period of oscillation.
-
-Select the correct answer:
-- (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
-- (B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)
-- (C) (A) is true but (R) is false
-- (D) (A) is false but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
-- **Must-Score Points:**
-  - Period of a simple pendulum is $T = 2\pi \sqrt{L/g}$.
-  - In summer, temperature rise expands the rod ($\Delta L > 0$), lengthening the period $T$. Each swing takes longer, so the clock registers fewer seconds per day and loses time (runs slow).
-</details>
-
-**Q9.** With reference to radiation laws, which of the following statements is/are correct?
-1. Stefan-Boltzmann Law states that radiant power is proportional to the square of absolute temperature.
-2. Wien's Law explains why hotter stars radiate maximum power at shorter wavelengths.
-3. According to Kirchhoff's Law, good absorbers are poor emitters.
-
-Select the correct answer using the code given below:
-- (A) 2 only
-- (B) 1 and 2 only
-- (C) 2 and 3 only
-- (D) 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (A) 2 only
-- **Must-Score Points:**
-  - Statement 1 is incorrect: Stefan-Boltzmann Law states $E \propto T^4$ (fourth power, not square).
-  - Statement 2 is correct: Wien's Law ($\lambda_{\max} T = b$) shows peak wavelength is inversely proportional to temperature. Hot blue stars have shorter peak wavelengths than cooler red stars.
-  - Statement 3 is incorrect: Kirchhoff's Law dictates that good absorbers are **good emitters** ($e = a$).
-</details>
-
-**Q10.** Which of the following conditions is **NOT** favorable for the formation of dew?
-- (A) Clear sky
-- (B) Calm, still air
-- (C) High relative humidity
-- (D) Heavy overcast cloud cover
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (D) Heavy overcast cloud cover
-- **Must-Score Points:**
-  - Dew requires terrestrial radiation to escape rapidly into outer space so that surface vegetation cools down below the dew point.
-  - Overcast cloud cover absorbs and re-radiates heat back to the ground, keeping surfaces warm and preventing condensation of dew.
-</details>
-
-**Q11.** Match List-I (Everyday Phenomenon) with List-II (Underlying Physics Principle):
-
-| List-I | List-II |
-| :--- | :--- |
-| A. Cooling of water in an earthen pot | 1. Thermal shock from poor thermal conduction |
-| B. Cracking of thick glass with boiling water | 2. Evaporative cooling extracting latent heat |
-| C. Operation of a domestic bimetallic thermostat | 3. Trapped stationary air layer |
-| D. Heat retention by two thin blankets | 4. Differential linear thermal expansion |
-
-Select the correct code:
-- (A) A-2, B-1, C-4, D-3
-- (B) A-1, B-2, C-4, D-3
-- (C) A-2, B-4, C-1, D-3
-- (D) A-3, B-1, C-4, D-2
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (A) A-2, B-1, C-4, D-3
-- **Must-Score Points:**
-  - Earthen pot cooling $\to$ Evaporation drawing latent heat ($540\text{ cal/g}$).
-  - Thick glass cracking $\to$ Thermal shock (inner surface expands, outer remains cold).
-  - Bimetallic strip $\to$ Differential expansion of brass vs iron.
-  - Blankets $\to$ Trapped insulating air layer.
-</details>
-
-**Q12.** Which of the following statements regarding the Carnot engine is correct?
-- (A) A Carnot engine can achieve $100\%$ efficiency if operating with an ideal gas
-- (B) Efficiency of a Carnot engine depends on the nature of the working fluid
-- (C) Efficiency of a Carnot engine depends solely on source and sink temperatures
-- (D) Carnot cycle consists of two isobaric and two isochoric processes
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (C) Efficiency of a Carnot engine depends solely on source and sink temperatures
-- **Must-Score Points:**
-  - Carnot efficiency $\eta = 1 - T_2/T_1 = (T_1 - T_2)/T_1$.
-  - It depends exclusively on source ($T_1$) and sink ($T_2$) absolute temperatures, and is independent of the working fluid.
-  - $\eta = 100\%$ is impossible because $T_2$ cannot reach absolute zero ($0\text{ K}$).
-  - The cycle consists of two isothermal and two adiabatic processes.
-</details>
-
-**Q13.** With reference to thermal expansion of water, which of the following statements is/are correct?
-1. When water is heated from $0^\circ\text{C}$ to $4^\circ\text{C}$, its volume expands continuously.
-2. At $4^\circ\text{C}$, density of water is at its maximum value.
-3. Above $4^\circ\text{C}$, water expands uniformly like normal liquids.
-
-Select the correct answer using the code given below:
-- (A) 2 and 3 only
-- (B) 1 and 2 only
-- (C) 1 only
-- (D) 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (A) 2 and 3 only
-- **Must-Score Points:**
-  - Statement 1 is incorrect: Between $0^\circ\text{C}$ and $4^\circ\text{C}$, water **contracts** (its volume decreases).
-  - Statements 2 and 3 are correct: At $4^\circ\text{C}$, volume is minimum and density is maximum ($1.000\text{ g/cm}^3$); above $4^\circ\text{C}$, it expands normally.
-</details>
-
-**Q14.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
-- **Assertion (A):** Running a domestic refrigerator with its door open inside a closed room heats up the room.
-- **Reason (R):** The heat rejected by the condenser coils into the room exceeds the heat extracted from the interior by the amount of electrical work performed by the compressor motor.
-
-Select the correct answer:
-- (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
-- (B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)
-- (C) (A) is true but (R) is false
-- (D) (A) is false but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
-- **Must-Score Points:**
-  - $Q_H = Q_C + W$. Since the motor converts electrical energy into net added heat $W$, total thermal energy dumped into the room exceeds cooling, raising room temperature.
-</details>
-
-**Q15.** Which of the following units represents energy?
-1. Kilowatt-hour (kWh)
-2. Electron-volt (eV)
-3. Joule
-4. Watt
-
-Select the correct answer using the code given below:
-- (A) 1, 2 and 3 only
-- (B) 1 and 3 only
-- (C) 3 and 4 only
-- (D) 1, 2, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (A) 1, 2 and 3 only
-- **Must-Score Points:**
-  - Kilowatt-hour ($1\text{ kWh} = 3.6 \times 10^6\text{ J}$), Electron-volt ($1\text{ eV} = 1.602 \times 10^{-19}\text{ J}$), and Joule are units of **energy**.
-  - Watt is the unit of **power** ($1\text{ W} = 1\text{ J/s}$).
-</details>
-
-**Q16.** With reference to solar and nuclear energy, which of the following statements is/are correct?
-1. Solar energy is classified as non-conventional and renewable.
-2. Nuclear energy is classified as non-conventional and non-renewable.
-
-Select the correct answer using the code given below:
-- (A) 1 only
-- (B) 2 only
-- (C) Both 1 and 2
-- (D) Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (C) Both 1 and 2
-- **Must-Score Points:**
-  - Both solar and nuclear power are non-conventional (developed extensively only in the 20th century).
-  - Solar energy is endlessly replenished (renewable).
-  - Nuclear energy depends on finite subterranean deposits of fissile minerals like Uranium-235, making it non-renewable.
-</details>
-
-**Q17.** Why is Davy's safety lamp used in coal mines?
-- (A) The wire gauze extinguishes methane by generating carbon dioxide
-- (B) The copper wire gauze conducts heat away, keeping temperature outside the lamp below the ignition point of flammable methane
-- (C) The flame is shielded by bulletproof glass
-- (D) The lamp burns without using oxygen
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (B) The copper wire gauze conducts heat away, keeping temperature outside the lamp below the ignition point of flammable methane
-- **Must-Score Points:**
-  - Invented by Sir Humphry Davy. Copper wire gauze has high thermal conductivity, dissipating the flame's heat so rapidly that the explosive air-methane mixture outside cannot reach its ignition temperature.
-</details>
-
-**Q18.** Arrange the following fuels in ascending order of their calorific values:
-1. Dry Wood
-2. Hydrogen
-3. Petrol
-4. Cow-dung cake
-
-Select the correct code:
-- (A) $4 < 1 < 3 < 2$
-- (B) $1 < 4 < 3 < 2$
-- (C) $4 < 1 < 2 < 3$
-- (D) $1 < 3 < 4 < 2$
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (A) $4 < 1 < 3 < 2$
-- **Must-Score Points:**
-  - Cow-dung cake ($\approx 7\text{ kJ/g}$) < Dry Wood ($\approx 17\text{ kJ/g}$) < Petrol ($\approx 45\text{ kJ/g}$) < Hydrogen ($\approx 150\text{ kJ/g}$).
-</details>
-
-**Q19.** With reference to coastal breezes, which of the following statements is/are correct?
-1. Sea breeze blows during daytime from sea to land.
-2. Land breeze blows during nighttime from land to sea.
-3. Both breezes are generated primarily by heat conduction.
-
-Select the correct answer using the code given below:
-- (A) 1 and 2 only
-- (B) 2 and 3 only
-- (C) 1 only
-- (D) 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (A) 1 and 2 only
-- **Must-Score Points:**
-  - Statements 1 and 2 are correct.
-  - Statement 3 is incorrect: Coastal breezes are driven by **convection currents** caused by the differential specific heat capacity of land and water.
-</details>
-
-**Q20.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
-- **Assertion (A):** The boiling point of water inside a pressure cooker is higher than $100^\circ\text{C}$.
-- **Reason (R):** The boiling point of any liquid increases as external pressure on its surface increases.
-
-Select the correct answer:
-- (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
-- (B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)
-- (C) (A) is true but (R) is false
-- (D) (A) is false but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
-- **Must-Score Points:**
-  - Boiling occurs when vapor pressure equals external pressure. Higher confining steam pressure requires water molecules to attain higher kinetic energy (higher temperature, $\approx 120^\circ\text{C}$) before boiling.
-</details>
-
-**Q21.** With reference to biomass and biogas, which of the following statements is/are correct?
-1. The primary constituent of biogas produced in anaerobic digesters is methane ($CH_4$).
-2. Biogas combustion produces significant amounts of toxic soot and ash.
-
-Select the correct answer using the code given below:
-- (A) 1 only
-- (B) 2 only
-- (C) Both 1 and 2
-- (D) Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (A) 1 only
-- **Must-Score Points:**
-  - Statement 1 is correct: Biogas consists of $50\text{--}75\%$ methane ($CH_4$) and $25\text{--}50\%$ carbon dioxide ($CO_2$).
-  - Statement 2 is incorrect: Biogas burns cleanly with a smokeless blue flame, producing no particulate soot or ash residue.
-</details>
-
-**Q22.** With reference to the thermos flask, which design feature specifically minimizes heat transfer by radiation?
-- (A) High vacuum created between double walls
-- (B) Silvered internal glass walls
-- (C) Insulating cork stopper
-- (D) Plastic outer casing
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (B) Silvered internal glass walls
-- **Must-Score Points:**
-  - Highly reflective silver mirror surfaces reflect infrared thermal radiation back into the flask.
-  - Vacuum blocks conduction and convection. Stopper blocks convective air escape.
-</details>
-
-**Q23.** Which of the following pairs of process and thermodynamic condition is **NOT** correctly matched?
-- (A) Isothermal process — Temperature remains constant ($\Delta T = 0$)
-- (B) Adiabatic process — Heat exchange is zero ($Q = 0$)
-- (C) Isochoric process — Pressure remains constant ($\Delta P = 0$)
-- (D) Isobaric process — Pressure remains constant ($\Delta P = 0$)
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (C) Isochoric process — Pressure remains constant ($\Delta P = 0$)
-- **Must-Score Points:**
-  - An isochoric (isometric) process is one where **volume remains constant ($\Delta V = 0$)**, doing zero boundary work ($W = 0$). An isobaric process is where pressure remains constant.
-</details>
-
-**Q24.** Ocean Thermal Energy Conversion (OTEC) requires a minimum temperature difference between surface water and deep ocean water of:
-- (A) $5^\circ\text{C}$
-- (B) $10^\circ\text{C}$
-- (C) $20^\circ\text{C}$
-- (D) $50^\circ\text{C}$
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (C) $20^\circ\text{C}$
-- **Must-Score Points:**
-  - OTEC systems require a minimum temperature gradient of **$20^\circ\text{C}$ ($36^\circ\text{F}$)** between warm tropical surface water ($\approx 25^\circ\text{C}$) and cold deep ocean water at $1,000\text{ m}$ depth ($\approx 5^\circ\text{C}$) to vaporize and condense low-boiling fluids like ammonia.
-</details>
-
-**Q25.** If the linear momentum of a body is increased by $100\%$, its kinetic energy increases by:
-- (A) $100\%$
-- (B) $200\%$
-- (C) $300\%$
-- (D) $400\%$
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (C) $300\%$
-- **Must-Score Points:**
-  - $KE = \frac{p^2}{2m}$.
-  - If momentum increases by $100\%$, new momentum is $p' = 2p$.
-  - New kinetic energy $KE' = \frac{(2p)^2}{2m} = 4 \times \frac{p^2}{2m} = 4 KE$.
-  - Percentage increase in $KE = \frac{4KE - KE}{KE} \times 100\% = 300\%$.
-</details>
-
-**Q26.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
-- **Assertion (A):** In outer space or inside an orbiting satellite, a candle flame burns in a spherical shape and soon dies out.
-- **Reason (R):** Natural convection currents cannot form in a zero-gravity environment because buoyancy forces require gravity.
-
-Select the correct answer:
-- (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
-- (B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)
-- (C) (A) is true but (R) is false
-- (D) (A) is false but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
-- **Must-Score Points:**
-  - On Earth, gravity drives convection: hot combustion gases rise, pulling in fresh oxygen from below to give a candle its teardrop flame.
-  - In microgravity ($g \approx 0$), buoyancy is absent. Without convection, oxygen reaches the wick only by slow diffusion, causing the flame to become a faint blue sphere that quickly suffocates in its own carbon dioxide.
-</details>
-
----
-
-## Common Traps
-
-| Concept | Trap / Confusion Point | Examiner's Angle | Correct Fact |
-| :--- | :--- | :--- | :--- |
-| **Open Refrigerator Door** | Students think an open fridge cools the room like an AC. | UPPCS repeatedly asks what happens to room temp when fridge door is left open. | The room **warms up** ($Q_H = Q_C + W$; net heat added equals electrical power consumed). |
-| **Melting Ice Water Level** | Students assume adding liquid from melted ice will make water overflow. | Standard Archimedes question in PCS/IAS. | Water level remains **strictly unchanged** because floating ice displaces its exact melted volume. |
-| **Water Density at $4^\circ\text{C}$** | Confusing maximum density with minimum volume or freezing point. | Tricky options include $0^\circ\text{C}, -4^\circ\text{C}, 4^\circ\text{C}, 100^\circ\text{C}$. | Density is **maximum** at $4^\circ\text{C}$; volume is **minimum** at $4^\circ\text{C}$. |
-| **Boiling vs Evaporation** | Assuming evaporation requires reaching the boiling point. | Asked in conceptual science questions. | Evaporation occurs at **any temperature** (surface phenomenon); boiling occurs at a **fixed boiling point** (bulk phenomenon). |
-| **Steam vs Boiling Water** | Assuming both burn equally because both are at $100^\circ\text{C}$. | Favorite UPPCS and BPSC question. | Steam delivers an extra **$540\text{ cal/g}$ of latent heat of vaporization**, causing vastly more severe burns. |
-| **Pressure Cooker Speed** | Assuming steam cooks food directly or cooks faster due to high pressure itself. | Questions often ask why food cooks faster. | Trapped pressure raises water's **boiling temperature** to $\approx 120^\circ\text{C}$; cooking rate depends on temperature. |
-| **Specific Heat of Water vs Ice** | Assuming all forms of $H_2O$ share the same specific heat. | Numerical and statement questions. | Liquid water ($1.0\text{ cal/g}\cdot^\circ\text{C}$) is **twice** that of ice and steam ($0.5\text{ cal/g}\cdot^\circ\text{C}$). |
-| **Convection in Space** | Assuming convection works identically in an orbiting spacecraft. | IAS and State PCS assertion-reason questions. | Convection **strictly requires gravity** ($g > 0$). In weightlessness, only conduction and radiation occur. |
-| **Nuclear Power Classification** | Confusing "non-conventional" with "renewable". | Classified in energy resources matrices. | Nuclear power is **non-conventional**, but it is **non-renewable** (finite mineral ores). |
-| **Dew Formation on Cloudy Nights** | Thinking clouds promote dew by providing moisture. | Meteorological conditions for dew/frost. | Dew forms only on **clear nights** with rapid radiative cooling; clouds block cooling. |
-
-
----
-
 ## Bilingual Terminology -- Energy, Heat and Thermal Physics
 
 | English Term | Hindi Term | Key Anchor |
@@ -1698,6 +478,767 @@ Select the correct answer:
 | **Absolute Zero** (परम शून्य) | परम शून्य | 0 Kelvin = -273.15 degC; minimum possible temperature |
 | **Entropy** (एन्ट्रॉपी) | एन्ट्रॉपी | Measure of disorder; increases in all natural processes (2nd Law of Thermodynamics) |
 | **Thermostat** (ताप नियंत्रक) | ताप-स्थायी | Device that regulates temperature automatically |
+
+---
+
+## Complete PYQ Bank — UPPCS
+
+**Q-ST1. UPPCS Pre 2019**
+
+A liquid remains hot or cold for a long time in a thermos flask because there is no loss or gain of heat by:
+- (A) Conduction
+- (B) Convection and radiation
+- (C) Both (A) and (B)
+- (D) None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (C) Both (A) and (B)
+
+**Ans: C.** Both (A) and (B)
+</details>
+
+**Q-ST2. UPPCS Pre 2021**
+
+A non-renewable source of energy is:
+- (A) Solar energy
+- (B) Petroleum
+- (C) Wind energy
+- (D) Biogas
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (B) Petroleum
+
+**Ans: B.** Petroleum
+</details>
+
+**Q-ST3. UPPCS Pre 2022**
+
+Most of the sources of energy we use represent stored solar energy. Which of the following is **NOT** ultimately derived from the Sun's energy?
+- (A) Nuclear energy
+- (B) Geothermal energy
+- (C) Biomass energy
+- (D) Wind energy
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (A) Nuclear energy
+
+**Ans: A.** Nuclear energy
+</details>
+
+**Q-ST4. UPPCS Pre 2023**
+
+Non-conventional energy sources are those energy sources that are:
+- (A) Non-renewable
+- (B) Renewable
+- (C) Produced from electricity
+- (D) Produced from heat
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (B) Renewable
+
+**Ans: B.** Renewable
+</details>
+
+**Q-ST5. UPPCS Pre 2022**
+
+The first airport completely powered by solar energy in India is:
+- (A) Chennai
+- (B) Cochin
+- (C) Ahmedabad
+- (D) New Delhi
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Cochin.
+
+**Ans: B.** Cochin
+</details>
+
+**Q-ST6. UPPCS Pre 2019**
+
+Why are cloudy nights warmer compared to clear starry nights?
+- (A) Clouds prevent cold waves from descending from the sky
+- (B) Clouds reflect terrestrial radiation back toward the Earth
+- (C) Clouds generate heat and radiate it toward the Earth
+- (D) Clouds absorb heat from sunlight during the day and radiate it at night
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (B) Clouds reflect terrestrial radiation back toward the Earth
+
+**Ans: B.** Clouds reflect terrestrial radiation back toward the Earth
+</details>
+
+**Q-ST7. UPPCS Pre 2019**
+
+For which of the following is water cooling in an earthen pot (Matka) effective?
+- (A) High atmospheric humidity
+- (B) Low atmospheric humidity and high temperature
+- (C) High atmospheric pressure
+- (D) Complete saturation of ambient air
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (B) Low atmospheric humidity and high temperature
+
+**Ans: B.** Low atmospheric humidity and high temperature
+</details>
+
+**Q-ST8. UPPCS Pre 2018**
+
+When an ice cube melts in a glass beaker filled to the brim with water, the water level:
+- (A) Spills over the rim
+- (B) Falls down
+- (C) Remains unchanged
+- (D) First falls and then rises
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (C) Remains unchanged
+
+**Ans: C.** Remains unchanged
+</details>
+
+**Q-ST9. UPPCS Pre 2017**
+
+Steam at $100^\circ\text{C}$ causes much more severe burns on human skin than boiling water at $100^\circ\text{C}$ because:
+- (A) Steam is a gas and penetrates skin pores easily
+- (B) Steam contains latent heat of vaporization
+- (C) Steam has a higher chemical reactivity
+- (D) Boiling water has a higher density than steam
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (B) Steam contains latent heat of vaporization
+
+**Ans: B.** Steam contains latent heat of vaporization
+</details>
+
+**Q-ST10. UPPCS Pre 2016**
+
+If the door of an operational refrigerator is left wide open in a closed, thermally insulated room, the temperature of the room will:
+- (A) Decrease
+- (B) Increase
+- (C) Remain strictly unchanged
+- (D) Decrease in the first hour and then increase
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (B) Increase
+
+**Ans: B.** Increase
+</details>
+
+**Q-ST11. UPPCS Pre 2015**
+
+In a pressure cooker, food is cooked in a shorter time because:
+- (A) Boiling point of water increases due to high pressure
+- (B) Boiling point of water decreases due to high pressure
+- (C) Heat cannot escape from the sealed lid
+- (D) Steam is much hotter than flame
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (A) Boiling point of water increases due to high pressure
+
+**Ans: A.** Boiling point of water increases due to high pressure
+</details>
+
+**Q-ST12. UPPCS Pre 2014**
+
+Why is a small gap left between the adjoining ends of two railway steel rails?
+- (A) To reduce the weight of steel rails
+- (B) To allow space for linear thermal expansion during hot summer
+- (C) To prevent corrosion of the joints
+- (D) To assist the driver in tracking train speed
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (B) To allow space for linear thermal expansion during hot summer
+
+**Ans: B.** To allow space for linear thermal expansion during hot summer
+</details>
+
+**Q-ST13. UPPCS Pre 2013**
+
+Why does an earthen pitcher keep water cool in summer?
+- (A) The clay absorbs cold waves from the atmosphere
+- (B) Clay is a superconductor of cold energy
+- (C) Continuous evaporation of water seeping through porous clay walls
+- (D) The pitcher radiates cold infrared rays
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (C) Continuous evaporation of water seeping through porous clay walls
+
+**Ans: C.** Continuous evaporation of water seeping through porous clay walls
+</details>
+
+**Q-ST14. UPPCS Pre 2012**
+
+What is the temperature at which the Celsius and Fahrenheit thermometers show identical readings?
+- (A) $+40^\circ$
+- (B) $-40^\circ$
+- (C) $-273^\circ$
+- (D) $+100^\circ$
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (B) $-40^\circ$
+
+**Ans: B.** $-40^\circ$
+</details>
+
+**Q-ST15. UPPCS Pre 2011**
+
+Which of the following fuels causes the minimum environmental pollution when burnt?
+- (A) Diesel
+- (B) Coal
+- (C) Hydrogen
+- (D) Kerosene
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (C) Hydrogen
+
+**Ans: C.** Hydrogen
+</details>
+
+**Q-ST16. UPPCS Mains GS 2010**
+
+Two thin blankets are warmer than one single blanket of double thickness because:
+- (A) Two blankets have twice the mass
+- (B) A layer of air trapped between the two blankets acts as an insulator
+- (C) Radiation cannot pass through multiple cloth layers
+- (D) Fabric friction generates internal heat
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (B) A layer of air trapped between the two blankets acts as an insulator
+
+**Ans: B.** A layer of air trapped between the two blankets acts as an insulator
+</details>
+
+**Q-ST17. UPPCS Pre 2008**
+
+At what temperature does the density of pure water reach its absolute maximum?
+- (A) $0^\circ\text{C}$
+- (B) $4^\circ\text{C}$
+- (C) $-4^\circ\text{C}$
+- (D) $100^\circ\text{C}$
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (B) $4^\circ\text{C}$
+
+**Ans: B.** $4^\circ\text{C}$
+</details>
+
+**Q-ST18. UPPCS Pre 2006**
+
+A fan produces a sensation of comfort and cooling during hot summer weather because:
+- (A) The fan cools the surrounding air
+- (B) The fan generates cold air currents
+- (C) Air circulation accelerates the evaporation of sweat from our body
+- (D) The fan conducts body heat away directly
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (C) Air circulation accelerates the evaporation of sweat from our body
+
+**Ans: C.** Air circulation accelerates the evaporation of sweat from our body
+</details>
+
+**Q-ST19. UPPCS Pre 2004**
+
+On a cold winter morning, a metal latch feels much colder to touch than the adjoining wooden door because:
+- (A) Metal is at a lower temperature than wood
+- (B) Metal is a much better conductor of heat than wood
+- (C) Wood absorbs more thermal radiation than metal
+- (D) Metal has higher specific heat capacity than wood
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (B) Metal is a much better conductor of heat than wood
+
+**Ans: B.** Metal is a much better conductor of heat than wood
+</details>
+
+**Q-ST20. UPPCS Pre 2002**
+
+Why does water in an open container on high mountains boil below $100^\circ\text{C}$?
+- (A) High winds blow the heat away
+- (B) Solar radiation is weaker on mountains
+- (C) Atmospheric pressure decreases with altitude, lowering the boiling point
+- (D) The air contains less oxygen on high mountains
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (C) Atmospheric pressure decreases with altitude, lowering the boiling point
+
+**Ans: C.** Atmospheric pressure decreases with altitude, lowering the boiling point
+</details>
+
+---
+
+## Complete PYQ Bank — UKPCS
+
+**Q-ST1. UKPCS Pre 2025**
+
+Which of the following is a non-renewable source of energy?
+- (A) Solar energy
+- (B) Biomass energy
+- (C) Wind energy
+- (D) Coal
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Coal.
+
+**Ans: D.** Coal
+</details>
+
+**Q-ST2. UKPCS Pre 2022**
+
+What is the value of absolute zero temperature on the Celsius scale?
+- (A) $-273.15^\circ\text{C}$
+- (B) $0^\circ\text{C}$
+- (C) $100^\circ\text{C}$
+- (D) $-40^\circ\text{C}$
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (A) $-273.15^\circ\text{C}$
+
+**Ans: A.** $-273.15^\circ\text{C}$
+</details>
+
+**Q-ST3. UKPCS Pre 2016**
+
+Water has maximum density at:
+- (A) $0^\circ\text{C}$
+- (B) $4^\circ\text{C}$
+- (C) $100^\circ\text{C}$
+- (D) $273\text{ K}$
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (B) $4^\circ\text{C}$
+
+**Ans: B.** $4^\circ\text{C}$
+</details>
+
+**Q-ST4. UKPCS Mains 2012**
+
+Heat transfer by radiation travels at the speed of:
+- (A) Sound in air ($332\text{ m/s}$)
+- (B) Light in vacuum ($3 \times 10^8\text{ m/s}$)
+- (C) Supersonic speed ($1000\text{ m/s}$)
+- (D) Speed of oceanic tidal waves
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (B) Light in vacuum ($3 \times 10^8\text{ m/s}$)
+
+**Ans: B.** Light in vacuum ($3 \times 10^8\text{ m/s}$)
+</details>
+
+---
+
+## Complete PYQ Bank — BPSC, IAS & Other State PCS (Ghatnachakra Focus)
+
+**Q-ST1. IAS Pre 2021**
+
+Consider the following statements:
+1. In an isolated system, the total entropy always increases in a spontaneous process.
+2. Heat can be completely converted into mechanical work in a continuous cyclic process without rejecting any heat to a colder reservoir.
+
+Which of the statements given above is/are correct?
+- (A) 1 only
+- (B) 2 only
+- (C) Both 1 and 2
+- (D) Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches 1 only.
+
+**Ans: A.** 1 only
+</details>
+
+**Q-ST2. BPSC Pre 2022**
+
+The physical process responsible for the cooling of a desert air cooler is:
+- (A) Evaporative cooling
+- (B) Adiabatic expansion
+- (C) Condensation
+- (D) Thermoelectric cooling
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (A) Evaporative cooling
+
+**Ans: A.** Evaporative cooling
+</details>
+
+**Q-ST3. RAS/RTS Pre 2021**
+
+If the absolute temperature of a radiating black body is doubled, the total radiant power emitted by it will increase by a factor of:
+- (A) 2
+- (B) 4
+- (C) 8
+- (D) 16
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches 16.
+
+**Ans: D.** 16
+</details>
+
+**Q-ST4. MPPCS Pre 2020**
+
+Why does a piece of ice at $0^\circ\text{C}$ cool a soft drink much more effectively than water at $0^\circ\text{C}$?
+- (A) Ice has lower density than water
+- (B) Ice absorbs latent heat of fusion ($80\text{ cal/g}$) to melt into water at $0^\circ\text{C}$
+- (C) Water radiates heat into the glass
+- (D) Ice creates convective currents in the glass
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (B) Ice absorbs latent heat of fusion ($80\text{ cal/g}$) to melt into water at $0^\circ\text{C}$
+
+**Ans: B.** Ice absorbs latent heat of fusion ($80\text{ cal/g}$) to melt into water at $0^\circ\text{C}$
+</details>
+
+**Q-ST5. BPSC Pre 2019**
+
+Which one of the following has the highest specific heat capacity?
+- (A) Alcohol
+- (B) Mercury
+- (C) Water
+- (D) Kerosene
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Water.
+
+**Ans: C.** Water
+</details>
+
+**Q-ST6. IAS Pre 2018**
+
+Why is the barrel of a bicycle air pump hot after vigorously inflating a tire?
+- (A) Friction between the piston washer and barrel walls
+- (B) Work done during adiabatic compression of air heats the gas
+- (C) Chemical reaction between atmospheric oxygen and pump lubricant
+- (D) Conduction of heat from the rubber tire into the pump
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (B) Work done during adiabatic compression of air heats the gas
+
+**Ans: B.** Work done during adiabatic compression of air heats the gas
+</details>
+
+**Q-ST7. RAS/RTS Pre 2016**
+
+The ratio of coefficients of linear, superficial, and cubical expansion of an isotropic solid is:
+- (A) $1 : 2 : 3$
+- (B) $3 : 2 : 1$
+- (C) $1 : \sqrt{2} : \sqrt{3}$
+- (D) $1 : 4 : 9$
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (A) $1 : 2 : 3$
+
+**Ans: A.** $1 : 2 : 3$
+</details>
+
+**Q-ST8. MPPCS Pre 2017**
+
+When a solid substance sublimes directly into gas upon heating, it skips which phase?
+- (A) Plasma phase
+- (B) Liquid phase
+- (C) Supercritical fluid phase
+- (D) Bose-Einstein condensate phase
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (B) Liquid phase
+
+**Ans: B.** Liquid phase
+</details>
+
+**Q-ST9. IAS Pre 2013**
+
+If the earth's atmosphere were stripped away completely, the average temperature of the earth's surface would:
+- (A) Increase dramatically
+- (B) Decrease dramatically
+- (C) Remain unchanged
+- (D) Oscillate unpredictably
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (B) Decrease dramatically
+
+**Ans: B.** Decrease dramatically
+</details>
+
+**Q-ST10. BPSC Pre 2015**
+
+In which of the following processes is heat transfer by convection impossible?
+- (A) Boiling water in an electric kettle on Earth
+- (B) Boiling water inside an orbiting space station
+- (C) Sea breezes blowing along the coast
+- (D) Air heating in a domestic room chimney
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (B) Boiling water inside an orbiting space station
+
+**Ans: B.** Boiling water inside an orbiting space station
+</details>
+
+---
+
+**Q-ST61. 70th BPSC Pre 2024**
+Heat transfer that does not require a medium is called:  
+(a) Radiation  
+(b) Reflection  
+(c) Conduction  
+(d) Convection  
+<details><summary>Show answer</summary>
+
+**Logic:** Thermal radiation is the transfer of heat via electromagnetic waves and does not require any material medium (e.g.
+
+**Ans: A.** Radiation
+</details>
+
+**Q-ST62. 70th BPSC Pre Re-Exam 2024**
+Compared to a burn due to air at $100^\circ\text{C}$, the burn due to steam at $100^\circ\text{C}$ is:  
+(a) Less dangerous due to high latent heat of evaporation  
+(b) More dangerous due to high latent heat of evaporation  
+(c) Less dangerous due to low latent heat of evaporation  
+(d) More dangerous due to low latent heat of evaporation  
+<details><summary>Show answer</summary>
+
+**Logic:** Steam at $100^\circ\text{C}$ carries $540\text{ cal/g}$ ($22.6 \times 10^5\text{ J/kg}$) of latent heat of vaporization, which is released upon condensing on the skin, producing severe burns.
+
+**Ans: B.** More dangerous due to high latent heat of evaporation
+</details>
+
+**Q-ST63. UPPCS Pre 2024**
+Which of the following is a correct relationship between Fahrenheit ($^\circ\text{F}$) and Celsius ($^\circ\text{C}$) degrees?  
+(a) $^\circ\text{C} = \frac{5}{9} ^\circ\text{F} + 32$  
+(b) $^\circ\text{C} = ^\circ\text{F} - 273.15$  
+(c) $^\circ\text{F} = \frac{9}{5} ^\circ\text{C} + 32$  
+(d) $^\circ\text{F} = ^\circ\text{C} - 273.15$  
+<details><summary>Show answer</summary>
+
+**Logic:** From $\frac{C}{5} = \frac{F - 32}{9} \implies F = \frac{9}{5}C + 32$.
+
+**Ans: C.** $^\circ\text{F} = \frac{9}{5} ^\circ\text{C} + 32$
+</details>
+
+**Q-ST64. MP PCS Pre 2023**
+In an ecosystem, flow of energy declines as it passes from lower to higher trophic level. This is explained by the following:  
+(a) First law of thermodynamics  
+(b) Second law of thermodynamics  
+(c) Newton's second law  
+(d) Newton's third law  
+<details><summary>Show answer</summary>
+
+**Logic:** The Second Law of Thermodynamics dictates that energy transformations are accompanied by entropy generation and thermal dissipation; only $\approx 10\%$ of energy transfers to the next trophic level.
+
+**Ans: B.** Second law of thermodynamics
+</details>
+
+**Q-ST65. 69th BPSC Pre 2023**
+Consider the following statements regarding 'heat wave':  
+1. Heat wave is considered if the maximum temperature of a station reaches at least $30^\circ\text{C}$ or more for plains.  
+2. Heat wave is considered if the maximum temperature of a station reaches at least $40^\circ\text{C}$ or more for hilly regions.  
+Which of the above statements is/are correct?  
+(a) Both 1 and 2  
+(b) Only 1  
+(c) Only 2  
+(d) Neither 1 nor 2  
+<details><summary>Show answer</summary>
+
+**Logic:** According to IMD criteria, a heat wave is declared when maximum station temperature reaches at least $40^\circ\text{C}$ in plains and at least $30^\circ\text{C}$ in hilly regions.
+
+**Ans: D.** Neither 1 nor 2
+</details>
+
+**Q-ST66. 67th BPSC Pre 2022**
+The temperature point at which solid, liquid and gaseous states may stay together is known as:  
+(a) boiling point  
+(b) melting point  
+(c) freezing point  
+(d) triple point  
+(e) None of the above / More than one of the above  
+<details><summary>Show answer</summary>
+
+**Logic:** The triple point of a substance is the unique temperature and pressure at which solid, liquid, and gas coexist in equilibrium ($273.16\text{ K}$ and $611.657\text{ Pa}$ for water).
+
+**Ans: D.** triple point
+</details>
+
+**Q-ST67. UPPCS Pre 2019**
+A liquid remains hot or cold for a long time in thermos flask because there is no loss or gain of heat by:  
+(a) Conduction  
+(b) Convection and radiation  
+(c) Both (a) and (b)  
+(d) None of the above  
+<details><summary>Show answer</summary>
+
+**Logic:** A thermos flask has a vacuum gap between double walls (preventing conduction and convection) and silvered surfaces (reflecting radiation back).
+
+**Ans: C.** Both (a) and (b)
+</details>
+
+**Q-ST68. UPPCS Mains 2015**
+The maximum density of water is at:  
+(a) $373\text{ Kelvin}$  
+(b) $277\text{ Kelvin}$  
+(c) $273\text{ Kelvin}$  
+(d) $269\text{ Kelvin}$  
+<details><summary>Show answer</summary>
+
+**Logic:** Water has maximum density at $4^\circ\text{C}$.
+
+**Ans: B.** $277\text{ Kelvin}$
+</details>
+
+**Q-ST69. UPPCS Pre 2012**
+In an earthen pitcher, the water remains cold due to the process of:  
+(a) Condensation  
+(b) Evaporation  
+(c) Sublimation  
+(d) None of the above  
+<details><summary>Show answer</summary>
+
+**Logic:** Water seeps through microscopic pores of the clay walls and evaporates into surrounding air, absorbing its latent heat of vaporization from the interior water and cooling it.
+
+**Ans: B.** Evaporation
+</details>
+
+**Q-ST70. UPPCS Pre 2008**
+In which of the following conditions will wet clothes dry earliest?  
+(a) $100\%\text{ RH}, 60^\circ\text{C}$  
+(b) $100\%\text{ RH}, 20^\circ\text{C}$  
+(c) $20\%\text{ RH}, 20^\circ\text{C}$  
+(d) $20\%\text{ RH}, 60^\circ\text{C}$  
+<details><summary>Show answer</summary>
+
+**Logic:** Evaporation rate increases with higher temperature and lower relative humidity.
+
+**Ans: D.** $20\%\text{ RH}, 60^\circ\text{C}$
+</details>
+
+**Q-ST71. UPPCS Pre 2007**
+The safest temperature for keeping food fresh in a refrigerator is:  
+(a) $4^\circ\text{C}$  
+(b) $8^\circ\text{C}$  
+(c) $0^\circ\text{C}$  
+(d) $10^\circ\text{C}$  
+<details><summary>Show answer</summary>
+
+**Logic:** Keeping food at or below $4^\circ\text{C}$ ($36^\circ\text{F}-38^\circ\text{F}$) inhibits bacterial growth and spoilage without freezing fresh produce.
+
+**Ans: A.** $4^\circ\text{C}$
+</details>
+
+**Q-ST72. Uttarakhand Lower Sub. Pre 2010**
+The heat required in calories to convert one gram of ice at $0^\circ\text{C}$ to steam at $100^\circ\text{C}$ is approximately:  
+(a) 80  
+(b) 336  
+(c) 720  
+(d) 620  
+<details><summary>Show answer</summary>
+
+**Logic:** Standard key matches 720.
+
+**Ans: C.** 720
+</details>
+
+**Q-ST73. IAS Pre 2011**
+The surface of a lake is frozen in severe winter, but the water at its bottom is still liquid. Why?  
+(a) Ice is a bad conductor of heat  
+(b) Since the surface of the lake is at the same temperature as air, no heat is lost  
+(c) The density of water is maximum at $4^\circ\text{C}$  
+(d) None of the above  
+<details><summary>Show answer</summary>
+
+**Logic:** Water reaches maximum density at $4^\circ\text{C}$ and sinks to the lake bed.
+
+**Ans: C.** The density of water is maximum at $4^\circ\text{C}$
+</details>
+
+**Q-ST74. IAS Pre 2001**
+When water is heated from $0^\circ\text{C}$ to $10^\circ\text{C}$, its volume:  
+(a) Increases  
+(b) Decreases  
+(c) Does not change  
+(d) First decreases and then increases  
+<details><summary>Show answer</summary>
+
+**Logic:** Between $0^\circ\text{C}$ and $4^\circ\text{C}$, water contracts (volume decreases to minimum).
+
+**Ans: D.** First decreases and then increases
+</details>
+
+**Q-ST75. RAS/RTS Pre 2008**
+On a specific day, the temperature was $48^\circ\text{C}$ in Churu and $24^\circ\text{C}$ in Shimla. Two metallic cups identical in all respects contained water at $95^\circ\text{C}$ in Churu and $71^\circ\text{C}$ in Shimla. Which one reached room temperature first?  
+(a) Cup in Churu  
+(b) Cup in Shimla  
+(c) Both cups reached room temperature at the same time  
+(d) Data are not enough  
+<details><summary>Show answer</summary>
+
+**Logic:** By Newton's Law of Cooling, rate of cooling depends on $\Delta T$.
+
+**Ans: C.** Both cups reached room temperature at the same time
+</details>
 
 ---
 
@@ -1735,4 +1276,535 @@ Select the correct answer:
 | 28 | Bimetallic strip = two metals with different expansion rates; used in thermostats |
 | 29 | Regelation = ice melts under pressure and refreezes when pressure released (ice skating) |
 | 30 | Clinical thermometer range = 35 degC to 42 degC; mercury (now digital) |
+
+## Practice Zone — UPPCS Format Drill
+
+**Q-ST1.**
+
+With reference to heat transfer, which of the following statements is/are correct?
+1. Convection is possible in both liquids and gases.
+2. Heat can travel through vacuum only by radiation.
+3. Conduction involves the bulk physical displacement of heated matter.
+
+Select the correct answer using the code given below:
+- (A) 1 and 2 only
+- (B) 2 and 3 only
+- (C) 1 only
+- (D) 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (A) 1 and 2 only
+
+**Ans: A.** 1 and 2 only
+</details>
+
+**Q-ST2.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
+- **Assertion (A):** In severe winters, freshwater lakes freeze from the top surface downwards, leaving liquid water at the bottom.
+- **Reason (R):** Water has its maximum density at $4^\circ\text{C}$ due to anomalous thermal expansion.
+
+Select the correct answer:
+- (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
+- (B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)
+- (C) (A) is true but (R) is false
+- (D) (A) is false but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+**Ans: A.** Both (A) and (R) are true and (R) is the correct explanation of (A)
+</details>
+
+**Q-ST3.**
+
+Match List-I (Thermodynamic Law / Principle) with List-II (Key Scientific Definition):
+
+| List-I | List-II |
+| :--- | :--- |
+| A. Zeroth Law of Thermodynamics | 1. Conservation of energy in thermal systems |
+| B. First Law of Thermodynamics | 2. Operational definition of Temperature |
+| C. Second Law of Thermodynamics | 3. Entropy of a pure crystal is zero at absolute zero |
+| D. Third Law of Thermodynamics | 4. Spontaneous processes increase the entropy of the universe |
+
+Select the correct code:
+- (A) A-2, B-1, C-4, D-3
+- (B) A-1, B-2, C-3, D-4
+- (C) A-2, B-4, C-1, D-3
+- (D) A-4, B-1, C-2, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (A) A-2, B-1, C-4, D-3
+
+**Ans: A.** A-2, B-1, C-4, D-3
+</details>
+
+**Q-ST4.**
+
+Which of the following statements is/are correct regarding the specific heat capacity of water?
+1. Water's high specific heat capacity makes it an ideal coolant for automotive radiators.
+2. It moderates climate swings in coastal geographical zones.
+3. Specific heat capacity of liquid water is lower than that of ice.
+
+Select the correct answer using the code given below:
+- (A) 1 and 2 only
+- (B) 2 and 3 only
+- (C) 1 only
+- (D) 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (A) 1 and 2 only
+
+**Ans: A.** 1 and 2 only
+</details>
+
+**Q-ST5.**
+
+Which of the following pairs is **NOT** correctly matched?
+- (A) Hydrogen — Highest calorific value among fuels
+- (B) Bimetallic strip — Differential linear thermal expansion
+- (C) Pressure cooker — Decreases boiling point of water
+- (D) Thermos flask — Prevents conduction, convection, and radiation
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (C) Pressure cooker — Decreases boiling point of water
+
+**Ans: C.** Pressure cooker — Decreases boiling point of water
+</details>
+
+**Q-ST6.**
+
+Arrange the following substances in descending order of their thermal conductivities:
+1. Silver
+2. Glass
+3. Aluminum
+4. Copper
+
+Select the correct code:
+- (A) $1 > 4 > 3 > 2$
+- (B) $4 > 1 > 3 > 2$
+- (C) $1 > 3 > 4 > 2$
+- (D) $3 > 1 > 4 > 2$
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (A) $1 > 4 > 3 > 2$
+
+**Ans: A.** $1 > 4 > 3 > 2$
+</details>
+
+**Q-ST7.**
+
+With reference to latent heat, which of the following statements is/are correct?
+1. Latent heat of vaporization of water is approximately $540\text{ cal/g}$.
+2. Latent heat of fusion of ice is approximately $80\text{ cal/g}$.
+3. Temperature of a substance rises rapidly while absorbing latent heat.
+
+Select the correct answer using the code given below:
+- (A) 1 and 2 only
+- (B) 2 and 3 only
+- (C) 1 only
+- (D) 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (A) 1 and 2 only
+
+**Ans: A.** 1 and 2 only
+</details>
+
+**Q-ST8.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
+- **Assertion (A):** In summer, a pendulum clock loses time and runs slow.
+- **Reason (R):** The length of the pendulum rod increases due to thermal expansion, increasing its time period of oscillation.
+
+Select the correct answer:
+- (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
+- (B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)
+- (C) (A) is true but (R) is false
+- (D) (A) is false but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+**Ans: A.** Both (A) and (R) are true and (R) is the correct explanation of (A)
+</details>
+
+**Q-ST9.**
+
+With reference to radiation laws, which of the following statements is/are correct?
+1. Stefan-Boltzmann Law states that radiant power is proportional to the square of absolute temperature.
+2. Wien's Law explains why hotter stars radiate maximum power at shorter wavelengths.
+3. According to Kirchhoff's Law, good absorbers are poor emitters.
+
+Select the correct answer using the code given below:
+- (A) 2 only
+- (B) 1 and 2 only
+- (C) 2 and 3 only
+- (D) 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches 2 only.
+
+**Ans: A.** 2 only
+</details>
+
+**Q-ST10.**
+
+Which of the following conditions is **NOT** favorable for the formation of dew?
+- (A) Clear sky
+- (B) Calm, still air
+- (C) High relative humidity
+- (D) Heavy overcast cloud cover
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (D) Heavy overcast cloud cover
+
+**Ans: D.** Heavy overcast cloud cover
+</details>
+
+**Q-ST11.**
+
+Match List-I (Everyday Phenomenon) with List-II (Underlying Physics Principle):
+
+| List-I | List-II |
+| :--- | :--- |
+| A. Cooling of water in an earthen pot | 1. Thermal shock from poor thermal conduction |
+| B. Cracking of thick glass with boiling water | 2. Evaporative cooling extracting latent heat |
+| C. Operation of a domestic bimetallic thermostat | 3. Trapped stationary air layer |
+| D. Heat retention by two thin blankets | 4. Differential linear thermal expansion |
+
+Select the correct code:
+- (A) A-2, B-1, C-4, D-3
+- (B) A-1, B-2, C-4, D-3
+- (C) A-2, B-4, C-1, D-3
+- (D) A-3, B-1, C-4, D-2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (A) A-2, B-1, C-4, D-3
+
+**Ans: A.** A-2, B-1, C-4, D-3
+</details>
+
+**Q-ST12.**
+
+Which of the following statements regarding the Carnot engine is correct?
+- (A) A Carnot engine can achieve $100\%$ efficiency if operating with an ideal gas
+- (B) Efficiency of a Carnot engine depends on the nature of the working fluid
+- (C) Efficiency of a Carnot engine depends solely on source and sink temperatures
+- (D) Carnot cycle consists of two isobaric and two isochoric processes
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (C) Efficiency of a Carnot engine depends solely on source and sink temperatures
+
+**Ans: C.** Efficiency of a Carnot engine depends solely on source and sink temperatures
+</details>
+
+**Q-ST13.**
+
+With reference to thermal expansion of water, which of the following statements is/are correct?
+1. When water is heated from $0^\circ\text{C}$ to $4^\circ\text{C}$, its volume expands continuously.
+2. At $4^\circ\text{C}$, density of water is at its maximum value.
+3. Above $4^\circ\text{C}$, water expands uniformly like normal liquids.
+
+Select the correct answer using the code given below:
+- (A) 2 and 3 only
+- (B) 1 and 2 only
+- (C) 1 only
+- (D) 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (A) 2 and 3 only
+
+**Ans: A.** 2 and 3 only
+</details>
+
+**Q-ST14.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
+- **Assertion (A):** Running a domestic refrigerator with its door open inside a closed room heats up the room.
+- **Reason (R):** The heat rejected by the condenser coils into the room exceeds the heat extracted from the interior by the amount of electrical work performed by the compressor motor.
+
+Select the correct answer:
+- (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
+- (B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)
+- (C) (A) is true but (R) is false
+- (D) (A) is false but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+**Ans: A.** Both (A) and (R) are true and (R) is the correct explanation of (A)
+</details>
+
+**Q-ST15.**
+
+Which of the following units represents energy?
+1. Kilowatt-hour (kWh)
+2. Electron-volt (eV)
+3. Joule
+4. Watt
+
+Select the correct answer using the code given below:
+- (A) 1, 2 and 3 only
+- (B) 1 and 3 only
+- (C) 3 and 4 only
+- (D) 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (A) 1, 2 and 3 only
+
+**Ans: A.** 1, 2 and 3 only
+</details>
+
+**Q-ST16.**
+
+With reference to solar and nuclear energy, which of the following statements is/are correct?
+1. Solar energy is classified as non-conventional and renewable.
+2. Nuclear energy is classified as non-conventional and non-renewable.
+
+Select the correct answer using the code given below:
+- (A) 1 only
+- (B) 2 only
+- (C) Both 1 and 2
+- (D) Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (C) Both 1 and 2
+
+**Ans: C.** Both 1 and 2
+</details>
+
+**Q-ST17.**
+
+Why is Davy's safety lamp used in coal mines?
+- (A) The wire gauze extinguishes methane by generating carbon dioxide
+- (B) The copper wire gauze conducts heat away, keeping temperature outside the lamp below the ignition point of flammable methane
+- (C) The flame is shielded by bulletproof glass
+- (D) The lamp burns without using oxygen
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (B) The copper wire gauze conducts heat away, keeping temperature outside the lamp below the ignition point of flammable methane
+
+**Ans: B.** The copper wire gauze conducts heat away, keeping temperature outside the lamp below the ignition point of flammable methane
+</details>
+
+**Q-ST18.**
+
+Arrange the following fuels in ascending order of their calorific values:
+1. Dry Wood
+2. Hydrogen
+3. Petrol
+4. Cow-dung cake
+
+Select the correct code:
+- (A) $4 < 1 < 3 < 2$
+- (B) $1 < 4 < 3 < 2$
+- (C) $4 < 1 < 2 < 3$
+- (D) $1 < 3 < 4 < 2$
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (A) $4 < 1 < 3 < 2$
+
+**Ans: A.** $4 < 1 < 3 < 2$
+</details>
+
+**Q-ST19.**
+
+With reference to coastal breezes, which of the following statements is/are correct?
+1. Sea breeze blows during daytime from sea to land.
+2. Land breeze blows during nighttime from land to sea.
+3. Both breezes are generated primarily by heat conduction.
+
+Select the correct answer using the code given below:
+- (A) 1 and 2 only
+- (B) 2 and 3 only
+- (C) 1 only
+- (D) 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (A) 1 and 2 only
+
+**Ans: A.** 1 and 2 only
+</details>
+
+**Q-ST20.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
+- **Assertion (A):** The boiling point of water inside a pressure cooker is higher than $100^\circ\text{C}$.
+- **Reason (R):** The boiling point of any liquid increases as external pressure on its surface increases.
+
+Select the correct answer:
+- (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
+- (B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)
+- (C) (A) is true but (R) is false
+- (D) (A) is false but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+**Ans: A.** Both (A) and (R) are true and (R) is the correct explanation of (A)
+</details>
+
+**Q-ST21.**
+
+With reference to biomass and biogas, which of the following statements is/are correct?
+1. The primary constituent of biogas produced in anaerobic digesters is methane ($CH_4$).
+2. Biogas combustion produces significant amounts of toxic soot and ash.
+
+Select the correct answer using the code given below:
+- (A) 1 only
+- (B) 2 only
+- (C) Both 1 and 2
+- (D) Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches 1 only.
+
+**Ans: A.** 1 only
+</details>
+
+**Q-ST22.**
+
+With reference to the thermos flask, which design feature specifically minimizes heat transfer by radiation?
+- (A) High vacuum created between double walls
+- (B) Silvered internal glass walls
+- (C) Insulating cork stopper
+- (D) Plastic outer casing
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (B) Silvered internal glass walls
+
+**Ans: B.** Silvered internal glass walls
+</details>
+
+**Q-ST23.**
+
+Which of the following pairs of process and thermodynamic condition is **NOT** correctly matched?
+- (A) Isothermal process — Temperature remains constant ($\Delta T = 0$)
+- (B) Adiabatic process — Heat exchange is zero ($Q = 0$)
+- (C) Isochoric process — Pressure remains constant ($\Delta P = 0$)
+- (D) Isobaric process — Pressure remains constant ($\Delta P = 0$)
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (C) Isochoric process — Pressure remains constant ($\Delta P = 0$)
+
+**Ans: C.** Isochoric process — Pressure remains constant ($\Delta P = 0$)
+</details>
+
+**Q-ST24.**
+
+Ocean Thermal Energy Conversion (OTEC) requires a minimum temperature difference between surface water and deep ocean water of:
+- (A) $5^\circ\text{C}$
+- (B) $10^\circ\text{C}$
+- (C) $20^\circ\text{C}$
+- (D) $50^\circ\text{C}$
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (C) $20^\circ\text{C}$
+
+**Ans: C.** $20^\circ\text{C}$
+</details>
+
+**Q-ST25.**
+
+If the linear momentum of a body is increased by $100\%$, its kinetic energy increases by:
+- (A) $100\%$
+- (B) $200\%$
+- (C) $300\%$
+- (D) $400\%$
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches $300\%$.
+
+**Ans: C.** $300\%$
+</details>
+
+**Q-ST26.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
+- **Assertion (A):** In outer space or inside an orbiting satellite, a candle flame burns in a spherical shape and soon dies out.
+- **Reason (R):** Natural convection currents cannot form in a zero-gravity environment because buoyancy forces require gravity.
+
+Select the correct answer:
+- (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
+- (B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)
+- (C) (A) is true but (R) is false
+- (D) (A) is false but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+**Ans: A.** Both (A) and (R) are true and (R) is the correct explanation of (A)
+</details>
+
+---
+
+## Common Traps
+
+| Concept | Trap / Confusion Point | Examiner's Angle | Correct Fact |
+| :--- | :--- | :--- | :--- |
+| **Open Refrigerator Door** | Students think an open fridge cools the room like an AC. | UPPCS repeatedly asks what happens to room temp when fridge door is left open. | The room **warms up** ($Q_H = Q_C + W$; net heat added equals electrical power consumed). |
+| **Melting Ice Water Level** | Students assume adding liquid from melted ice will make water overflow. | Standard Archimedes question in PCS/IAS. | Water level remains **strictly unchanged** because floating ice displaces its exact melted volume. |
+| **Water Density at $4^\circ\text{C}$** | Confusing maximum density with minimum volume or freezing point. | Tricky options include $0^\circ\text{C}, -4^\circ\text{C}, 4^\circ\text{C}, 100^\circ\text{C}$. | Density is **maximum** at $4^\circ\text{C}$; volume is **minimum** at $4^\circ\text{C}$. |
+| **Boiling vs Evaporation** | Assuming evaporation requires reaching the boiling point. | Asked in conceptual science questions. | Evaporation occurs at **any temperature** (surface phenomenon); boiling occurs at a **fixed boiling point** (bulk phenomenon). |
+| **Steam vs Boiling Water** | Assuming both burn equally because both are at $100^\circ\text{C}$. | Favorite UPPCS and BPSC question. | Steam delivers an extra **$540\text{ cal/g}$ of latent heat of vaporization**, causing vastly more severe burns. |
+| **Pressure Cooker Speed** | Assuming steam cooks food directly or cooks faster due to high pressure itself. | Questions often ask why food cooks faster. | Trapped pressure raises water's **boiling temperature** to $\approx 120^\circ\text{C}$; cooking rate depends on temperature. |
+| **Specific Heat of Water vs Ice** | Assuming all forms of $H_2O$ share the same specific heat. | Numerical and statement questions. | Liquid water ($1.0\text{ cal/g}\cdot^\circ\text{C}$) is **twice** that of ice and steam ($0.5\text{ cal/g}\cdot^\circ\text{C}$). |
+| **Convection in Space** | Assuming convection works identically in an orbiting spacecraft. | IAS and State PCS assertion-reason questions. | Convection **strictly requires gravity** ($g > 0$). In weightlessness, only conduction and radiation occur. |
+| **Nuclear Power Classification** | Confusing "non-conventional" with "renewable". | Classified in energy resources matrices. | Nuclear power is **non-conventional**, but it is **non-renewable** (finite mineral ores). |
+| **Dew Formation on Cloudy Nights** | Thinking clouds promote dew by providing moisture. | Meteorological conditions for dew/frost. | Dew forms only on **clear nights** with rapid radiative cooling; clouds block cooling. |
+
+---
 

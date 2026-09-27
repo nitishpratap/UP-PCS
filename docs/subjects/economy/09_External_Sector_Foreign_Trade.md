@@ -18,7 +18,6 @@ Industry-policy FDI source/sector tags stay in **Topic 7**. IMF / World Bank / G
 
 ## Current Affairs
 
-
 | Year | Fact | Why it matters |
 |------|------|----------------|
 | **2024** | Current account of BoP includes **export and import of goods** — not FDI, ECB or IMF loans. | Capital-account distractors. |
@@ -32,7 +31,6 @@ Industry-policy FDI source/sector tags stay in **Topic 7**. IMF / World Bank / G
 ---
 
 ## Consolidated — 44 Must-Score Facts
-
 
 1. **Foreign trade** is the exchange of goods and services across national borders — exports earn foreign exchange; imports spend it.
 2. **Balance of Trade (BoT)** is merchandise exports minus merchandise imports (goods only in the classic teaching).
@@ -83,7 +81,6 @@ Industry-policy FDI source/sector tags stay in **Topic 7**. IMF / World Bank / G
 
 ## Confused Pairs
 
-
 | A | B | Distinguishing fact |
 |---|---|---|
 | **Balance of Trade** | **Balance of Payments** | Goods gap vs full external transactions record |
@@ -101,7 +98,6 @@ Industry-policy FDI source/sector tags stay in **Topic 7**. IMF / World Bank / G
 
 ## Must-score drill — BoP, forex, FEMA
 
-
 | Item | Tag |
 |---|---|
 | Current account example | Export–import of goods |
@@ -118,7 +114,6 @@ Industry-policy FDI source/sector tags stay in **Topic 7**. IMF / World Bank / G
 ---
 
 ## 9.1 Trade, BoT and Balance of Payments
-
 
 **Foreign trade** is the exchange of goods and services across national borders.
 
@@ -170,7 +165,7 @@ Industry-policy FDI source/sector tags stay in **Topic 7**. IMF / World Bank / G
 - A CAD must be financed by net capital inflows and/or a drawdown of foreign-exchange reserves.
 - A sudden stop in capital inflows can force reserve loss or currency pressure even if the trade gap is unchanged.
 
-**UPPCS (Pre) 2024**
+**Q-EC1. UPPCS (Pre) 2024**
 
 Which of the following is included in the current account of the Balance of Payments?
 
@@ -182,16 +177,15 @@ D. IMF loans
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Goods trade is a classic current-account item. FDI, ECBs and IMF loans are capital / financial-account flows.
+**Logic:** FDI, ECBs and IMF loans are capital / financial-account flows.
 
-**Ans: C.** Export and import of goods.
+**Ans: C.** Goods trade is a classic current-account item.
 
 </details>
 
 ---
 
 ## 9.2 Forex reserves, exchange rates and convertibility
-
 
 **Foreign exchange reserves** are the official stock of usable external assets held mainly by the Reserve Bank of India.
 
@@ -234,7 +228,7 @@ D. IMF loans
 - **Full capital-account convertibility** remains managed and staged; capital flows stay regulated.
 - Current-account convertibility is **not** the same as unlimited free capital outflow for every purpose.
 
-**UPPCS (Pre) 2024**
+**Q-EC2. UPPCS (Pre) 2024**
 
 Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
 
@@ -252,13 +246,12 @@ D. (A) is true, but (R) is false.
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** (A) is the textbook flexible-rate definition. (R) contradicts it — under a flexible rate, market participants set demand and supply; a central bank that *determined* D&S would not be running a flexible regime. India’s managed float allows RBI *participation*, not definitional determination.
+**A/R logic:** is true, but (R) is false
 
-**Ans: D.** (A) is true, but (R) is false.
-
+**Ans: D.** (A) is true, but (R) is false
 </details>
 
-**UKPCS (Pre) 2021**
+**Q-EC3. UKPCS (Pre) 2021**
 
 The rise in value of one currency relative to another is –
 
@@ -270,16 +263,15 @@ D. A debasement of a currency
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Rise in relative value = appreciation. Weakening / depreciation are falls; debasement is coinage / money-content language.
+**Logic:** Weakening / depreciation are falls; debasement is coinage / money-content language.
 
-**Ans: C.** An appreciation of a currency.
+**Ans: C.** Rise in relative value = appreciation.
 
 </details>
 
 ---
 
 ## 9.3 Capital flows — FDI, FPI, remittances, debt
-
 
 **Capital flows** finance the current-account gap and fund investment from abroad.
 
@@ -311,7 +303,7 @@ D. A debasement of a currency
 - ECBs sit on the **capital / financial** side of BoP teaching.
 - **IMF loans** are official financing on the capital / financial side — not merchandise trade on the current account.
 
-**UPPCS (Pre) 2024**
+**Q-EC4. UPPCS (Pre) 2024**
 
 List-I contains the names of countries, whereas List-II shows the Rank as remittances received in the year 2022.
 
@@ -334,16 +326,14 @@ D. 1 2 3 4
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 2022 World Bank order for this stem: India 1st, Mexico 2nd, China 3rd, Philippines 4th → A-2, B-3, C-1, D-4.
+**Logic:** 2022 World Bank order for this stem: India 1st, Mexico 2nd, China 3rd, Philippines 4th → A-2, B-3, C-1, D-4 — 2 3 1 4
 
-**Ans: B.** 2 3 1 4.
-
+**Ans: B.** 2 3 1 4
 </details>
 
 ---
 
 ## 9.4 Trade barriers, WTO desk, globalisation and partners
-
 
 **Trade barriers** restrict free cross-border exchange of goods and services.
 
@@ -377,7 +367,7 @@ D. 1 2 3 4
 - **EU** remains a major partner cluster for goods and regulatory standards.
 - Partner shares shift with oil prices, electronics cycles and services export growth — treat ranks as year-sensitive current affairs.
 
-**UKPCS (Pre) 2021**
+**Q-EC5. UKPCS (Pre) 2021**
 
 The World Trade Organisation (WTO) is sometimes criticised for all of the following reasons except that:
 
@@ -389,13 +379,13 @@ D. it favours free trade over the quality of products.
 <details>
 <summary>Show answer</summary>
 
-**Logic:** “Except” stem — WTO *does* have dispute settlement, so A is not a valid criticism. B–D are stock critical lines in such stems.
+**Logic:** B–D are stock critical lines in such stems.
 
-**Ans: A.** it has no way to solve trade disputes among member nations.
+**Ans: A.** “Except” stem — WTO *does* have dispute settlement, so A is not a valid criticism.
 
 </details>
 
-**UKPCS (Pre) 2025**
+**Q-EC6. UKPCS (Pre) 2025**
 
 The 13th WTO Ministerial Conference (MC-13) was held in
 
@@ -407,16 +397,15 @@ D. Bali
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Geneva is the WTO headquarters distractor. MC-13 (Feb 2024) was hosted in Abu Dhabi, UAE. Nairobi and Bali hosted earlier ministerials.
+**Logic:** MC-13 (Feb 2024) was hosted in Abu Dhabi, UAE.
 
-**Ans: B.** Abu Dhabi.
+**Ans: B.** Geneva is the WTO headquarters distractor.
 
 </details>
 
 ---
 
 ## 9.5 FEMA, FERA and the external legal frame
-
 
 **FERA and FEMA** are the two successive statutes that governed foreign-exchange dealings in India.
 
@@ -440,7 +429,7 @@ D. Bali
 - Enforcement Directorate investigates specified contraventions linked to the broader financial-crime lane.
 - **PMLA** (money-laundering) deepens in Topic 12; do not treat PMLA as a substitute for FEMA.
 
-**UKPCS (Pre) 2024**
+**Q-EC7. UKPCS (Pre) 2024**
 
 In which year did the Foreign Exchange Management Act (FEMA) come into existence?
 
@@ -452,13 +441,13 @@ D. 1999
 <details>
 <summary>Show answer</summary>
 
-**Logic:** FEMA is Act 42 of **1999**. 1973 is FERA’s year. Force date 1 June 2000 is not among these options.
+**Logic:** 1973 is FERA’s year.
 
-**Ans: D.** 1999.
+**Ans: D.** FEMA is Act 42 of **1999**.
 
 </details>
 
-**UKPCS (Pre) 2025**
+**Q-EC8. UKPCS (Pre) 2025**
 
 Consider the following statements:
 
@@ -473,9 +462,9 @@ D. (1) is false, (2) is true
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Statement 1 matches the notified commencement date. Statement 2 misdescribes FERA — it was a foreign-exchange control statute, not an external-debt liability code.
+**Logic:** Statement 2 misdescribes FERA — it was a foreign-exchange control statute, not an external-debt liability code.
 
-**Ans: C.** (1) is true, (2) is false.
+**Ans: C.** Statement 1 matches the notified commencement date.
 
 </details>
 
@@ -483,8 +472,7 @@ D. (1) is false, (2) is true
 
 ## Complete PYQ Bank (UPPCS)
 
-
-**Q1. UPPCS (Pre) 2024** — Current account item
+**Q1. UPPCS (Pre) 2024**
 
 Which of the following is included in the current account of the Balance of Payments?
 
@@ -496,13 +484,13 @@ D. IMF loans
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Goods trade = current; FDI / ECB / IMF loans = capital / financial.
+**Logic:** Export and import of goods.
 
-**Ans: C.** Export and import of goods.
+**Ans: C.** Goods trade = current; FDI / ECB / IMF loans = capital / financial.
 
 </details>
 
-**Q2. UPPCS (Pre) 2024** — Flexible exchange rate A/R
+**Q2. UPPCS (Pre) 2024**
 
 Assertion (A): The value of national currency determined by demand and supply of foreign currency is called flexible exchange rate.
 
@@ -516,13 +504,12 @@ D. (A) is true, but (R) is false.
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** Flexible = market D&S. Central bank does not *determine* that D&S under the definition.
+**A/R logic:** is true, but (R) is false
 
-**Ans: D.** (A) is true, but (R) is false.
-
+**Ans: D.** (A) is true, but (R) is false
 </details>
 
-**Q3. UPPCS (Pre) 2024** — Remittances 2022 Match List
+**Q3. UPPCS (Pre) 2024**
 
 | List-I (Country) | List-II (Rank) |
 |---|---|
@@ -541,13 +528,12 @@ D. 1 2 3 4
 <details>
 <summary>Show answer</summary>
 
-**Logic:** India 1, Mexico 2, China 3, Philippines 4 → 2 3 1 4.
+**Logic:** India 1, Mexico 2, China 3, Philippines 4 → 2 3 1 4 — 2 3 1 4
 
-**Ans: B.** 2 3 1 4.
-
+**Ans: B.** 2 3 1 4
 </details>
 
-**Q4. UPPCS (Pre) 2024** — FDI source A/R (cross-link Topic 7)
+**Q4. UPPCS (Pre) 2024**
 
 Assertion (A): During 2023-24, Singapore emerged as the largest source of FDI to India.
 
@@ -561,10 +547,9 @@ D. (A) is true, but (R) is false.
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** Singapore lead is true for the keyed year; Mauritius treaty change explains the source-country shift story.
+**A/R logic:** Decide from the stem options; keyed answer is Both (A) and (R) are true and (R) is the correct explanation of (A).
 
-**Ans: C.** Both (A) and (R) are true and (R) is the correct explanation of (A).
-
+**Ans: C.** Both (A) and (R) are true and (R) is the correct explanation of (A)
 </details>
 
 ---
@@ -577,8 +562,7 @@ UPPCS-tagged stems live in **Complete PYQ Bank (UPPCS)** above. UKPCS-tagged ste
 
 ## UKPCS
 
-
-**Q1. UKPCS (Pre) 2024** — FEMA existence year
+**Q1. UKPCS (Pre) 2024**
 
 In which year did the Foreign Exchange Management Act (FEMA) come into existence?
 
@@ -590,13 +574,12 @@ D. 1999
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Enactment / existence year is 1999; force date is 1 June 2000.
+**Logic:** Enactment / existence year is 1999; force date is 1 June 2000 — 1999
 
-**Ans: D.** 1999.
-
+**Ans: D.** 1999
 </details>
 
-**Q2. UKPCS (Pre) 2025** — FEMA / FERA statements
+**Q2. UKPCS (Pre) 2025**
 
 1. FEMA came into effect from June 1, 2000.
 2. FERA is mainly for external debt liability.
@@ -609,13 +592,13 @@ D. (1) is false, (2) is true
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Date true; FERA description false.
+**Logic:** (1) is true, (2) is false.
 
-**Ans: C.** (1) is true, (2) is false.
+**Ans: C.** Date true; FERA description false.
 
 </details>
 
-**Q3. UKPCS (Pre) 2021** — Appreciation
+**Q3. UKPCS (Pre) 2021**
 
 The rise in value of one currency relative to another is –
 
@@ -627,13 +610,13 @@ D. A debasement of a currency
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Rise = appreciation.
+**Logic:** An appreciation of a currency.
 
-**Ans: C.** An appreciation of a currency.
+**Ans: C.** Rise = appreciation.
 
 </details>
 
-**Q4. UKPCS (Pre) 2021** — WTO criticism except
+**Q4. UKPCS (Pre) 2021**
 
 The World Trade Organisation (WTO) is sometimes criticised for all of the following reasons except that:
 
@@ -645,13 +628,12 @@ D. it favours free trade over the quality of products.
 <details>
 <summary>Show answer</summary>
 
-**Logic:** WTO has dispute settlement — A is the odd (false) criticism.
+**Logic:** WTO has dispute settlement — A is the odd (false) criticism — it has no way to solve trade disputes among member nations
 
-**Ans: A.**
-
+**Ans: A.** it has no way to solve trade disputes among member nations
 </details>
 
-**Q5. UKPCS (Pre) 2025** — WTO MC-13 venue
+**Q5. UKPCS (Pre) 2025**
 
 The 13th WTO Ministerial Conference (MC-13) was held in
 
@@ -663,13 +645,12 @@ D. Bali
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Abu Dhabi hosted MC-13; Geneva is HQ distractor.
+**Logic:** Abu Dhabi hosted MC-13; Geneva is HQ distractor — Abu Dhabi
 
-**Ans: B.** Abu Dhabi.
-
+**Ans: B.** Abu Dhabi
 </details>
 
-**Q6. UKPCS (Pre) 2016** — FDI sector (cross-link Topic 7)
+**Q6. UKPCS (Pre) 2016**
 
 Which sector in India attracts the highest FDI equity flow?
 
@@ -681,9 +662,9 @@ D. Chemicals other than fertilisers
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Classic cumulative / teaching lead is services.
+**Logic:** Service sector.
 
-**Ans: A.** Service sector.
+**Ans: A.** Classic cumulative / teaching lead is services.
 
 </details>
 
@@ -691,8 +672,9 @@ D. Chemicals other than fertilisers
 
 ## Practice Zone
 
+**Q1.**
 
-**Q1.** Balance of Trade mainly records
+Balance of Trade (merchandise) is best defined as
 
 A. Only FDI equity
 B. Merchandise exports minus merchandise imports
@@ -702,13 +684,14 @@ D. Only CRR changes
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Goods trade balance.
+**Logic:** BoT vs BoP card — Merchandise exports minus merchandise imports
 
-**Logic:** BoT vs BoP card.
-
+**Ans: B.** Merchandise exports minus merchandise imports
 </details>
 
-**Q2.** Which of the following is a current-account item?
+**Q2.**
+
+Which of the following is a current-account item?
 
 A. Foreign Direct Investment
 B. External Commercial Borrowings
@@ -718,13 +701,14 @@ D. IMF loans
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Goods trade.
+**Logic:** 2024 BoP stem twin — Export and import of goods
 
-**Logic:** 2024 BoP stem twin.
-
+**Ans: C.** Export and import of goods
 </details>
 
-**Q3.** CAD differs from a simple trade deficit because CAD also includes
+**Q3.**
+
+CAD differs from a simple trade deficit because CAD also includes
 
 A. Only forest cover
 B. Services, income and transfer balances with goods
@@ -734,13 +718,14 @@ D. Only WPI basket weights
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Broader current account.
+**Logic:** Trade deficit ≠ CAD — Services, income and transfer balances with goods
 
-**Logic:** Trade deficit ≠ CAD.
-
+**Ans: B.** Services, income and transfer balances with goods
 </details>
 
-**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+**Q4.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 Assertion (A): A flexible exchange rate is determined by demand and supply of foreign currency.
 
@@ -756,13 +741,14 @@ D. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** A true; R false.
+**A/R logic:** A/R code: (A) is true, but (R) is false.
 
-**A/R logic:** Same trap as UPPCS 2024 flexible-rate stem.
-
+**Ans: C.** (A) is true, but (R) is false
 </details>
 
-**Q5.** Appreciation of the rupee means
+**Q5.**
+
+Appreciation of the rupee means
 
 A. Rupee buys fewer dollars than before
 B. Rupee’s value rises relative to another currency
@@ -772,13 +758,14 @@ D. Only a primary deficit
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Relative rise in value.
+**Logic:** Appreciation ≠ depreciation — Rupee’s value rises relative to another currency
 
-**Logic:** Appreciation ≠ depreciation.
-
+**Ans: B.** Rupee’s value rises relative to another currency
 </details>
 
-**Q6.** Depreciation of the domestic currency tends to make
+**Q6.**
+
+Depreciation of the domestic currency typically makes
 
 A. Exports dearer in foreign currency and imports cheaper at home
 B. Exports cheaper in foreign currency and imports dearer at home
@@ -788,13 +775,14 @@ D. BoP disappear
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Competitiveness teaching.
+**Logic:** Price effect of a weaker currency — Exports cheaper in foreign currency and imports dearer at home
 
-**Logic:** Price effect of a weaker currency.
-
+**Ans: B.** Exports cheaper in foreign currency and imports dearer at home
 </details>
 
-**Q7.** Devaluation is best associated with
+**Q7.**
+
+Devaluation is best associated with
 
 A. A pure equity IPO
 B. An official downward change in a fixed-parity currency
@@ -804,13 +792,14 @@ D. Only HDI pillars
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Fixed-regime official cut.
+**Logic:** Devaluation ≠ market depreciation wording — An official downward change in a fixed-parity currency
 
-**Logic:** Devaluation ≠ market depreciation wording.
-
+**Ans: B.** An official downward change in a fixed-parity currency
 </details>
 
-**Q8.** Match List-I with List-II.
+**Q8.**
+
+Match List-I with List-II.
 
 | List-I | List-II |
 |---|---|
@@ -831,13 +820,14 @@ D. 4 1 2 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** FDI; FPI; remittance; ECB.
+**Logic:** Capital-flow toolkit — 2 1 3 4
 
-**Logic:** Capital-flow toolkit.
-
+**Ans: A.** 2 1 3 4
 </details>
 
-**Q9.** India’s remittance rank in the 2022 World Bank table used in UPPCS 2024 was
+**Q9.**
+
+India’s remittance rank in the 2022 World Bank table used in UPPCS 2024 was
 
 A. Fourth
 B. Third
@@ -847,13 +837,14 @@ D. First
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** First.
+**Logic:** India–Mexico–China–Philippines order — First
 
-**Logic:** India–Mexico–China–Philippines order.
-
+**Ans: D.** First
 </details>
 
-**Q10.** With reference to FEMA, which of the following statements is/are correct?
+**Q10.**
+
+With reference to FEMA, which of the following statements is/are correct?
 
 1. FEMA was enacted in 1999.
 2. FEMA came into force on 1 June 2000.
@@ -869,13 +860,14 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Logic:** Statement 3 is false — FEMA replaced FERA — 1 and 2
 
-**Logic:** Statement 3 is false — FEMA replaced FERA.
-
+**Ans: B.** 1 and 2
 </details>
 
-**Q11.** FERA is correctly described as
+**Q11.**
+
+FERA is correctly described as
 
 A. Mainly an external-debt liability Act only
 B. A foreign-exchange control law of the shortage era
@@ -885,13 +877,14 @@ D. A WTO ministerial venue
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Forex control statute.
+**Logic:** UKPCS 2025 false-tag neighbour — A foreign-exchange control law of the shortage era
 
-**Logic:** UKPCS 2025 false-tag neighbour.
-
+**Ans: B.** A foreign-exchange control law of the shortage era
 </details>
 
-**Q12.** India’s exchange-rate practice is best labelled in teaching as
+**Q12.**
+
+India’s exchange-rate practice is best labelled in teaching as
 
 A. A permanently hard gold standard only
 B. A managed float with possible RBI intervention
@@ -901,13 +894,14 @@ D. Only CPI compilation
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Managed float.
+**Logic:** Flexible path + intervention — A managed float with possible RBI intervention
 
-**Logic:** Flexible path + intervention.
-
+**Ans: B.** A managed float with possible RBI intervention
 </details>
 
-**Q13.** Which of the following is a non-tariff barrier?
+**Q13.**
+
+Which of the following is a non-tariff barrier?
 
 A. A customs duty of 10% on a good
 B. An import quota limiting quantity
@@ -917,13 +911,14 @@ D. Only fiscal deficit
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Quantity / procedural restriction.
+**Logic:** Tariff = tax; NTB = non-tax barrier — An import quota limiting quantity
 
-**Logic:** Tariff = tax; NTB = non-tax barrier.
-
+**Ans: B.** An import quota limiting quantity
 </details>
 
-**Q14.** WTO dispute settlement implies that the criticism “WTO has no way to solve trade disputes” is
+**Q14.**
+
+WTO dispute settlement implies that the criticism “WTO has no way to solve trade disputes” is
 
 A. Always the best praise of WTO
 B. A false criticism in “except” stems
@@ -933,13 +928,14 @@ D. A Gati Shakti pillar
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Dispute body exists.
+**Logic:** UKPCS 2021 except-stem — A false criticism in “except” stems
 
-**Logic:** UKPCS 2021 except-stem.
-
+**Ans: B.** A false criticism in “except” stems
 </details>
 
-**Q15.** WTO headquarters are in
+**Q15.**
+
+WTO headquarters are in
 
 A. Abu Dhabi
 B. Geneva
@@ -949,13 +945,14 @@ D. Nairobi
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Geneva.
+**Logic:** HQ ≠ MC-13 venue — Geneva
 
-**Logic:** HQ ≠ MC-13 venue.
-
+**Ans: B.** Geneva
 </details>
 
-**Q16.** Current-account convertibility in India means
+**Q16.**
+
+Current-account convertibility in India means
 
 A. Unlimited free capital outflow for every purpose forever
 B. Freedom to convert currency for permitted current trade and payments
@@ -965,13 +962,14 @@ D. Only WPI = CPI
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Current-payments convertibility.
+**Logic:** Capital account still managed — Freedom to convert currency for permitted current trade and payments
 
-**Logic:** Capital account still managed.
-
+**Ans: B.** Freedom to convert currency for permitted current trade and payments
 </details>
 
-**Q17.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+**Q17.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 Assertion (A): Remittances help cushion India’s current account.
 
@@ -987,13 +985,14 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both true; R explains the cushion channel.
+**A/R logic:** Both true; R explains the cushion channel.
 
-**A/R logic:** Transfer credit → smaller CAD pressure.
-
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)
 </details>
 
-**Q18.** Which item does **not** belong to the current account?
+**Q18.**
+
+Which item does **not** belong to the current account?
 
 A. Software service export
 B. Merchandise import
@@ -1003,13 +1002,14 @@ D. Remittance receipt
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** FDI is capital / financial.
+**Logic:** 2024 distractor recycle — Foreign Direct Investment inflow
 
-**Logic:** 2024 distractor recycle.
-
+**Ans: C.** Foreign Direct Investment inflow
 </details>
 
-**Q19.** A rise in forex reserves typically
+**Q19.**
+
+An increase in foreign-exchange reserves normally
 
 A. Abolishes the Union Budget
 B. Raises the country’s buffer of usable external assets
@@ -1019,13 +1019,14 @@ D. Compiles HDI
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Official external buffer.
+**Logic:** Standard key: Raises the country’s buffer of usable external assets.
 
-**Logic:** Reserves card.
-
+**Ans: B.** Raises the country’s buffer of usable external assets
 </details>
 
-**Q20.** Match List-I with List-II.
+**Q20.**
+
+Match List-I with List-II.
 
 | List-I | List-II |
 |---|---|
@@ -1046,13 +1047,14 @@ D. 4 1 2 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Tariff; flexible rate; FEMA; trade deficit.
+**Logic:** External-sector glossary — 2 1 3 4
 
-**Logic:** External-sector glossary.
-
+**Ans: A.** 2 1 3 4
 </details>
 
-**Q21.** Globalisation intensifies
+**Q21.**
+
+Economic globalisation in teaching mainly refers to
 
 A. Only domestic CRR rules
 B. Cross-border flows of goods, services, capital and technology
@@ -1062,13 +1064,14 @@ D. Only State List entries
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Interdependence teaching.
+**Logic:** Globalisation card — Cross-border flows of goods, services, capital and technology
 
-**Logic:** Globalisation card.
-
+**Ans: B.** Cross-border flows of goods, services, capital and technology
 </details>
 
-**Q22.** With reference to BoP, which of the following statements is/are correct?
+**Q22.**
+
+With reference to BoP, which of the following statements is/are correct?
 
 1. BoP records transactions between residents and the rest of the world.
 2. Export–import of goods is a current-account item.
@@ -1084,13 +1087,14 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Logic:** Statement 3 confuses capital flow with transfer — 1 and 2
 
-**Logic:** Statement 3 confuses capital flow with transfer.
-
+**Ans: B.** 1 and 2
 </details>
 
-**Q23.** India–China merchandise trade teaching often highlights
+**Q23.**
+
+India’s merchandise trade with China in recent years has typically shown
 
 A. A permanent Indian goods surplus only
 B. A large Indian merchandise deficit in many recent years
@@ -1100,13 +1104,14 @@ D. Only Alagh line
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Deficit pattern teaching.
+**Logic:** Bilateral balance card — A large Indian merchandise deficit in many recent years
 
-**Logic:** Bilateral balance card.
-
+**Ans: B.** A large Indian merchandise deficit in many recent years
 </details>
 
-**Q24.** Free Trade Agreements mainly aim to
+**Q24.**
+
+A Free Trade Agreement / CEPA is mainly meant to
 
 A. Raise every tariff to 100% forever
 B. Lower barriers bilaterally / regionally within a negotiated framework
@@ -1116,13 +1121,14 @@ D. Compile only WPI
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Preferential liberalisation.
+**Logic:** FTA / CEPA card — Lower barriers bilaterally / regionally within a negotiated framework
 
-**Logic:** FTA / CEPA card.
-
+**Ans: B.** Lower barriers bilaterally / regionally within a negotiated framework
 </details>
 
-**Q25.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+**Q25.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 Assertion (A): Managed float allows the central bank to intervene at times.
 
@@ -1138,13 +1144,14 @@ D. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both true; R clarifies definition but does not by itself explain why India manages the float.
+**A/R logic:** Both true; R clarifies definition but does not by itself explain why India manages the float.
 
-**A/R logic:** Participation ≠ determination; managed float is a policy choice.
-
+**Ans: D.** Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 </details>
 
-**Q26.** Invisible exports include
+**Q26.**
+
+Invisibles in the current account notably include
 
 A. Only coal wagons counted as merchandise
 B. Services such as software, tourism and transport earnings
@@ -1154,13 +1161,14 @@ D. Only primary deficit
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Services / invisibles.
+**Logic:** Current-account services card — Services such as software, tourism and transport earnings
 
-**Logic:** Current-account services card.
-
+**Ans: B.** Services such as software, tourism and transport earnings
 </details>
 
-**Q27.** Which pairing is correct?
+**Q27.**
+
+Which pairing is correct?
 
 A. FEMA force date — 1973
 B. FERA — 1999
@@ -1170,13 +1178,14 @@ D. WTO HQ — Abu Dhabi
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Dual-date memory.
+**Logic:** Existence vs commencement — FEMA enactment — 1999; force — 1 June 2000
 
-**Logic:** Existence vs commencement.
-
+**Ans: C.** FEMA enactment — 1999; force — 1 June 2000
 </details>
 
-**Q28.** External Commercial Borrowings belong to
+**Q28.**
+
+Foreign Direct Investment (FDI) inflows are recorded mainly on
 
 A. Only HDI education pillar
 B. The capital / financial account side of BoP teaching
@@ -1186,16 +1195,14 @@ D. Only CPI food group
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Capital-flow financing.
+**Logic:** 2024 current-account distractor — The capital / financial account side of BoP teaching
 
-**Logic:** 2024 current-account distractor.
-
+**Ans: B.** The capital / financial account side of BoP teaching
 </details>
 
 ---
 
 ## Common Traps
-
 
 * Current account = goods / services / income / transfers — **not** FDI, ECB or IMF loans.
 * Trade deficit ≠ CAD (CAD is broader).

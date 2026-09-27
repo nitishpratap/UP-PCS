@@ -184,7 +184,6 @@ Unique Bonding of Carbon (Catenation, Tetravalency, Hybridization) | Saturated &
 
 ---
 
-
 ### Table 2B: Coal Classification & Carbon Allotrope Hardness Hierarchy
 | Coal / Carbon Variety | Carbon Content (% by wt) | Calorific Value / Specific Properties | Primary Uses / Key Insights |
 | :--- | :---: | :--- | :--- |
@@ -201,7 +200,6 @@ Unique Bonding of Carbon (Catenation, Tetravalency, Hybridization) | Saturated &
 > - **Lab-Grown Diamonds (LGDs):** Synthesized via **High Pressure High Temperature (HPHT)** or **Chemical Vapour Deposition (CVD)** using **graphite or small diamond fragments as seeds**.
 > - **Bond Order of CO Group:** Carbon monoxide has 10 valence electrons; Molecular orbital configuration yields $\text{Bond Order} = \frac{1}{2}(N_b - N_a) = \frac{1}{2}(8 - 2) = \mathbf{3}$.
 > - **Dry Ice:** Solid carbon dioxide ($CO_2$) sublimes at $-78.5^\circ\text{C}$ without liquid transition; non-toxic cooling agent.
-
 
 ## Detailed Theory Notes
 
@@ -340,6 +338,29 @@ elastic stretch.         reversibly meltable.     strength, minimal stretch non-
 
 ---
 
+## Bilingual Terminology -- Carbon, Organic Chemistry and Polymers
+
+| English Term | Hindi Term | Key Anchor |
+|---|---|---|
+| **Organic Chemistry** (कार्बनिक रसायन) | कार्बनिक रसायन | Study of carbon compounds; ~10 million known compounds |
+| **Carbon** (कार्बन) | कार्बन | 6th element; tetravalent; forms 4 bonds; backbone of life |
+| **Hydrocarbon** (हाइड्रोकार्बन) | हाइड्रोकार्बन | Compound of only H and C; alkanes, alkenes, alkynes |
+| **Alkane** (एल्केन) | एल्केन | CnH2n+2; saturated; single bonds; e.g., methane (CH4), ethane, propane |
+| **Alkene** (एल्कीन) | एल्कीन | CnH2n; one double bond; unsaturated; e.g., ethylene (CH2=CH2) |
+| **Alkyne** (एल्काइन) | एल्काइन | CnH2n-2; one triple bond; e.g., acetylene (CH = CH); used in welding |
+| **Benzene** (बेंजीन) | बेंजीन | C6H6; aromatic ring; discovered by Faraday (1825); structure by Kekule (1865) |
+| **Polymer** (बहुलक) | बहुलक | Large molecule made of repeating monomer units |
+| **Monomer** (एकलक) | एकलक | Small repeating unit that combines to form polymer |
+| **Polymerisation** (बहुलकीकरण) | बहुलकीकरण | Chemical process of joining monomers to form polymer |
+| **Plastic** (प्लास्टिक) | प्लास्टिक | Synthetic polymer; thermoplastic (remeltable) or thermoset (permanent) |
+| **Rubber** (रबड़) | रबड़ | Natural = latex of Hevea brasiliensis; polymer of isoprene |
+| **Vulcanisation** (वल्केनीकरण) | वल्केनीकरण | Heating rubber with sulphur; improves strength and elasticity |
+| **Cellulose** (सेलुलोज) | सेलुलोज | Natural polymer of glucose; plant cell wall; most abundant organic compound |
+| **Nylon** (नायलॉन) | नायलॉन | First synthetic fibre; polyamide; Wallace Carothers (Du Pont, 1935) |
+| **Isomers** (समावयवी) | समावयवी | Same molecular formula, different structural formula; e.g., butane and isobutane |
+
+---
+
 ## Complete PYQ Bank — State PCS (98 Questions)
 
 ### UPPCS & UP RO/ARO Prelims/Mains (37 Questions)
@@ -354,22 +375,12 @@ compounds?
 (c) Carbon (d) Brimstone
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Carbon is the fundamental element of all organic compounds (including bio-compounds).
 
-**High-Yield Explanation:**
-Carbon is the fundamental element of all organic compounds
-
-(including bio-compounds). The organic compounds are a
-
-large class of chemical compounds in which one or more
-
-atoms of carbon are covalently linked to atoms of other
-
-elements, most commonly hydrogen, oxygen or nitrogen.
+**Ans: C.** Carbon (d) Brimstone
 </details>
-
 
 #### Q3 • [Hydrocarbons Q3] [U.P.P.C.S. (Mains) 2015]
 In all bio-compounds the most necessary fundamental
@@ -381,14 +392,12 @@ element is –
 (c) Oxygen (d) Nitrogen
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Same teaching key as the linked stem above; answer is Carbon.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: B.** Carbon
 </details>
-
 
 #### Q10 • [Hydrocarbons Q10] [U.P.P.C.S. (Pre) 2017]
 Bhopal Gas Tragedy was caused due to the leakage of :
@@ -398,14 +407,12 @@ Bhopal Gas Tragedy was caused due to the leakage of :
 (c) Sulfur dioxide (d) Carbon monoxide
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** Same teaching key as the linked stem above; answer is Methyl isocyanate.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: A.** Methyl isocyanate
 </details>
-
 
 #### Q13 • [Hydrocarbons Q13] [U.P.P.C.S. (Pre) 2014]
 Methane gas producing field is –
@@ -415,18 +422,12 @@ Methane gas producing field is –
 (c) Cotton field (d) Groundnut field
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Paddy fields are a major source of atmospheric methane and have been estimated to contribute in the range of 50 to 100 million tonnes of the gas per annum.
 
-**High-Yield Explanation:**
-Paddy fields are a major source of atmospheric methane and
-
-have been estimated to contribute in the range of 50 to 100
-
-million tonnes of the gas per annum.
+**Ans: B.** Paddy field
 </details>
-
 
 #### Q14 • [Hydrocarbons Q14] [U.P. Lower Sub. (Pre) 2002]
 Which of the following is correctly matched?
@@ -448,20 +449,12 @@ Code :
 (c) 2 and 3 (d) 2 and 4
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** In villages, we get gas for cooking and light from a biogas plant.
 
-**High-Yield Explanation:**
-In villages, we get gas for cooking and light from a biogas
-
-plant. From electrocardiography we detect the diseases
-
-related to the heart. D.D.T. is an insecticide. Nicotine is
-
-present in tobacco, which affects the health most.
+**Ans: D.** 2 and 4
 </details>
-
 
 #### Q15 • [Hydrocarbons Q15] [U.P. U.D.A./L.D.A. (Pre) 2010 / U.P.P.C.S. (Pre) 2005]
 Which one of the following chemicals helps in fruit
@@ -473,20 +466,12 @@ ripening?
 (c) Isoproturan (d) Malathion
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** The chemical ethephon is often used in fruit ripening.
 
-**High-Yield Explanation:**
-The chemical ethephon is often used in fruit ripening.
-
-Ethephon or ethrel is a commercial formulation which
-
-produce ethylene when dissolved in water at particular pH.
-
-This is a good substitute for calcium carbide.
+**Ans: A.** Ethephon (b) Atrazine
 </details>
-
 
 #### Q16 • [Hydrocarbons Q16] [U.P.P.C.S. (Mains) 2011]
 Which of the following chemicals is used for ripening?
@@ -496,20 +481,12 @@ Which of the following chemicals is used for ripening?
 (c) Potassium Chloride (d) None of the above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** In the artificial ripening of fruit, calcium carbide is sometimes used as a source of acetylene gas, which is a ripening agent similar to ethylene.
 
-**High-Yield Explanation:**
-In the artificial ripening of fruit, calcium carbide is sometimes
-
-used as a source of acetylene gas, which is a ripening agent
-
-similar to ethylene. Its chemical formula is CaC2
-
-.
+**Ans: B.** Calcium Carbide
 </details>
-
 
 #### Q18 • [Hydrocarbons Q18] [U.P. R.O./A.R.O. (Pre) 2014]
 Fruit ripening is promoted by which of the following?
@@ -519,16 +496,12 @@ Fruit ripening is promoted by which of the following?
 (c) Nitrogen (d) Ethylene
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** Ethylene gas is an important natural plant hormone, used to force the ripening of fruits.
 
-**High-Yield Explanation:**
-Ethylene gas is an important natural plant hormone, used to
-
-force the ripening of fruits.
+**Ans: D.** Ethylene
 </details>
-
 
 #### Q30 • [Polymers Q7] [Jharkhand P.C.S. (Pre) 2013 / U.P.P.C.S. (Pre) 1992]
 Wood, cotton, silk, wool, leather, enzymes and cellulose
@@ -668,132 +641,12 @@ crystalline and non-polar with a high chemical resistance.
 (c) Isoprene (d) Styrene
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Same teaching key as the linked stem above; answer is Isoprene.
 
-**High-Yield Explanation:**
-Polymerization is the process of joining together a large
-
-number of small molecules to make a very large molecule. The
-
-reactants (i.e. the small molecules from which the polymer
-
-is constructed) are called monomers and products of the
-
-polymerization process are called polymers. Natural rubber
-
-is the natural polymer of isoprene. Isoprene is a colourless
-
-liquid made by destructive distillation of petroleum.
-
-2. Natural rubber is a polymer of :
-
-(a) Isoprene (b) Styrene
-
-(c) Vinyl acetate (d) Propene
-
-(e) None of the above/More than one of the above
-
-66th B.P.S.C. (Pre) (Re. Exam) 2020
-
-65th B.P.S.C. (Pre) 2019
-
-Ans. (a)
-
-See the explanation of above question.
-
-3. Which of the following is not a Natural polymer?
-
-(a) Wool (b) Silk
-
-(c) Leather (d) Nylon
-
-U.P.P.C.S. (Mains) 2015
-
-U.P.U.D.A./L.D.A. (Pre) 2001
-
-Ans. (d)
-
-Wool, silk, leather are the natural polymers but nylon is not
-
-a natural polymer.
-
-4. Which one of the following is a natural polymer?
-
-(a) Bakelite (b) Silk
-
-(c) Kevlar (d) Lexan
-
-U.P.P.C.S. (Pre) 2017
-
-Ans. (b)
-
-See the explanation of above question.
-
-5. Which of the following is not a natural polymer –
-
-(a) Ghee (b) Starch
-
-(c) Protein (d) Cotton
-
-U.P.Lower Sub. (Pre) 2009
-
-Ans. (a)
-
-Ghee is not a polymer while rest all are the natural polymers.
-
-6. Which among the following is a constituent of natural
-
-silk?
-
-(a) Potassium (b) Magnesium
-
-(c) Nitrogen (d) Phosphorus
-
-U.P. P.C.S. (Pre) 2023
-
-Ans. (c)
-
-Silk is a naturally occurring protein fiber produced from the
-
-larvae of the moth to build their cocoons. This fiber is used
-
-for the commercial production of silk fabric. Nitrogen is a
-
-constituent element of natural silk.
-
-7. Cellulose and starch both are made up of :
-
-(a) (+) – glucose
-
-(b) (–) – fructose
-
-(c) Both (a) and (b) given above
-
-(d) (+) – galactose
-
-Uttarakhand P.C.S. (Pre) 2016
-
-Ans. (a)
-
-Cellulose is the most commonly found organic compound,
-
-biopolymer and polysaccharide on the earth. Each of
-
-these molecules contains several hundred to thousands
-
-glucose molecules in the form of an inosculated
-
-homopolymer series. Starch plants have structural
-
-polysaccharides which contain two types of homopolysaccharide molecules made of glucose cells – about 10 to
-
-30 percent amylase and about 70 to 90 percent amylopectin
-
-molecules.
+**Ans: C.** Isoprene (d) Styrene
 </details>
-
 
 #### Q31 • [Polymers Q8] [U.P.P.C.S. (Mains) 2014 / U.P.P.C.S. (Mains) 2012]
 The most abundantly found organic compound in
@@ -805,24 +658,12 @@ nature is –
 (c) Sucrose (d) Cellulose
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** Cellulose is a form of carbohydrate.
 
-**High-Yield Explanation:**
-Cellulose is a form of carbohydrate. It is a polysaccharide
-
-consisting of a linear chain of several hundred to many
-
-thousand of β-linked D-glucose units. It is the chief
-
-constituent of cell walls in living organisms. Wood is mostly
-
-cellulose, making cellulose the most abundant type of organic
-
-compound on the earth. Its purest natural form is cotton.
+**Ans: D.** Cellulose
 </details>
-
 
 #### Q35 • [Polymers Q12] [U.P. P.C.S. (Pre) 2020]
 Which of the following polymer is NOT a thermoplastic?
@@ -832,22 +673,12 @@ Which of the following polymer is NOT a thermoplastic?
 (c) Polystyrene (d) Polythene
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Among the given options, neoprene is not a thermoplastic.
 
-**High-Yield Explanation:**
-Among the given options, neoprene is not a thermoplastic.
-
-Neoprene is a family of synthetic rubbers that are produced
-
-by polymerization of chloroprene. It is used to prepare pipes,
-
-belts and other things. It is also called polychloroprene or
-
-pc-rubber.
+**Ans: B.** Neoprene
 </details>
-
 
 #### Q36 • [Polymers Q13] [U.P. R.O./A.R.O. (Pre) 2017]
 Which one of the following polymers is not
@@ -859,18 +690,12 @@ biodegradable?
 (c) Protein (d) PVC
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** PVC (Polyvinyl chloride) is a synthetic polymer of vinyl chloride which is not biodegradable while cellulose, starch and protein are natural polymers and are biodegradable.
 
-**High-Yield Explanation:**
-PVC (Polyvinyl chloride) is a synthetic polymer of vinyl
-
-chloride which is not biodegradable while cellulose, starch
-
-and protein are natural polymers and are biodegradable.
+**Ans: D.** PVC
 </details>
-
 
 #### Q38 • [Polymers Q15] [U.P. R.O./A.R.O. (Mains) 2021]
 Which one of the following gases is used in manufacturing of polythene?
@@ -880,14 +705,12 @@ Which one of the following gases is used in manufacturing of polythene?
 (c) Nitrogen (d) Carbon monoxide
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** Same teaching key as the linked stem above; answer is Ethylene.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: A.** Ethylene (b) Carbon-di-oxide
 </details>
-
 
 #### Q44 • [Polymers Q21] [U.P.P.C.S. (Mains) 2014]
 Which one of the following polymer is used in making
@@ -899,24 +722,12 @@ bullet-proof vests ?
 (c) Teflon (d) Polyurethanes
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Kevlar is a material commonly used to make lightweight bulletproof helmets and vests.
 
-**High-Yield Explanation:**
-Kevlar is a material commonly used to make lightweight
-
-bulletproof helmets and vests. Kevlar is a para-aromatic
-
-polyamide (Poly-Paraphenylene Terephthalamide) synthetic
-
-fibre. It contains lots of inter-chain bonds which makes it
-
-extremely strong. Layers of laminated glass are also used for
-
-making bulletproof materials.
+**Ans: B.** Polyamides
 </details>
-
 
 #### Q48 • [Polymers Q25] [U.P. U.D.A./L.D.A. (Mains) 2010 / U.P.P.S.C. (GIC) 2010 / U.P.P.C.S. (Spl.) (Pre) 2005 / I.A.S. (Pre) 1995]
 Which one of the following polymers is widely used for
@@ -928,14 +739,12 @@ making bulletproof material ?
 (c) Polyethylene (d) Polycarbonates
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Same teaching key as the linked stem above; answer is Polyamides.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: B.** Polyamides
 </details>
-
 
 #### Q49 • [Polymers Q26] [U.P.P.C.S. (Pre) 2015]
 Which one of the following polymers is used for making
@@ -947,18 +756,12 @@ bullet-proof windows?
 (c) Polystyrene (d) Polyamides
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** Bullet-resistant glass is made or manufactured by using polycarbonate, thermoplastic and layers of laminated glass.
 
-**High-Yield Explanation:**
-Bullet-resistant glass is made or manufactured by using
-
-polycarbonate, thermoplastic and layers of laminated glass.
-
-It can be used in making bulletproof jackets.
+**Ans: A.** Polycarbonates
 </details>
-
 
 #### Q51 • [Polymers Q28] [U.P.P.C.S. (Mains) 2017]
 Which one of the following polymers are used for
@@ -978,22 +781,12 @@ Code :
 (c) I and III (d) None of the above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Kevlar (polyamide– best known for its use in ballistic and stab-resistant body armour) and Lexan (polycarbonate) are used for making bulletproof materials.
 
-**High-Yield Explanation:**
-Kevlar (polyamide– best known for its use in ballistic and
-
-stab-resistant body armour) and Lexan (polycarbonate)
-
-are used for making bulletproof materials. Glyptal is a
-
-condensation polymer which is used in the manufacturing of
-
-paints and lacquers (protective coating for woods, metals).
+**Ans: C.** I and III (d) None of the above
 </details>
-
 
 #### Q52 • [Polymers Q29] [U.P.P.C.S. (Pre) 2003 / U.P. U.D.A./L.D.A. (Pre) 2002]
 Consider the following statements :
@@ -1013,24 +806,12 @@ Which of the above statements are correct :
 (c) 2, 3 and 4 (d) 1, 3 and 4.
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** Natural rubber is a polymer of 'Isoprene' which is obtained as a latex from rubber trees.
 
-**High-Yield Explanation:**
-Natural rubber is a polymer of 'Isoprene' which is obtained as
-
-a latex from rubber trees. Rubber obtained from an artificial
-
-source is known as synthetic rubber. Neoprene is a family
-
-of synthetic rubbers that are produced by polymerization of
-
-chloroprene. Teflon and Dacron are examples of polymers.
-
-Polythene or polyethylene is a polymer of ethylene.
+**Ans: A.** 1, 2 and 3 (b) 1, 2 and 4
 </details>
-
 
 #### Q53 • [Polymers Q30] [U.P.P.C.S. (Spl.) (Mains) 2008]
 A polymer used for making nonstick surface coating
@@ -1042,22 +823,12 @@ for utensils is –
 (c) Polystyrene (d) Polypropylene
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Polytetrafluoroethylene (PTFE) is usually known by its brand name Teflon.
 
-**High-Yield Explanation:**
-Polytetrafluoroethylene (PTFE) is usually known by its brand
-
-name Teflon. PTFE is a solid fluorocarbon. Its density is 2.2
-
-g/cm3 and its melting point is about 327o
-
-C. This is especially
-
-used for making a non-stick surface coating for utensils.
+**Ans: B.** Teflon
 </details>
-
 
 #### Q60 • [Polymers Q37] [U.P.P.C.S. (Pre) 2020]
 Which one of the following substance is NOT synthetic?
@@ -1067,22 +838,12 @@ Which one of the following substance is NOT synthetic?
 (c) Neoprene (d) Teflon
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** Among the given options fibroin is a natural substance and not synthetic.
 
-**High-Yield Explanation:**
-Among the given options fibroin is a natural substance and
-
-not synthetic. Fibroin is an insoluble protein present in silk
-
-produced by numerous insects, such as the larvae of Bombyx
-
-mori, and other moth genera. Silk in its raw state consists of
-
-two main proteins, sericin and fibroin.
+**Ans: A.** Fibroin (b) Lexan
 </details>
-
 
 #### Q65 • [Polymers Q42] [U.P.P.C.S. (Mains) 2010]
 Phenol is used in the manufacture of which one of the
@@ -1094,20 +855,12 @@ following ?
 (c) Polystyrene (d) Bakelite
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** Bakelite is a thermosetting phenol formaldehyde resin, formed from a condensation reaction of phenol with formaldehyde.
 
-**High-Yield Explanation:**
-Bakelite is a thermosetting phenol formaldehyde resin,
-
-formed from a condensation reaction of phenol with
-
-formaldehyde. It was developed by the Belgian-American
-
-chemist Leo Baekeland in 1907.
+**Ans: D.** Bakelite
 </details>
-
 
 #### Q70 • [Organic Acids Q4] [U.P. P.C.S. (Pre) 2010 / U.P. Lower Sub. (Spl.) (Pre) 2008 / U.P.P.C.S. (Pre) 1992]
 Accumulation of which one of the following in the
@@ -1119,14 +872,12 @@ muscles leads to fatigue?
 (c) Pyruvic acid (d) Uric acid
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** Same teaching key as the linked stem above; answer is Lactic acid.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: A.** Lactic acid (b) Benzoic acid
 </details>
-
 
 #### Q74 • [Organic Acids Q8] [U.P.P.C.S. (Pre) 1997]
 Match List-I and List-II and select the correct answer
@@ -1158,18 +909,12 @@ A B C D
 (d) 3 4 1 2
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** Lactic acid is found in milk, acetic acid is found in vinegar, citric acid is found in lemon and butyric acid is found in rancid butter.
 
-**High-Yield Explanation:**
-Lactic acid is found in milk, acetic acid is found in vinegar,
-
-citric acid is found in lemon and butyric acid is found in
-
-rancid butter.
+**Ans: D.** Butyric acid 4.
 </details>
-
 
 #### Q75 • [Organic Acids Q9] [U.P. Lower Sub. (Mains) 2013]
 Match List-I with List-II and select the correct answer
@@ -1199,14 +944,12 @@ A B C D
 (d) 1 2 3 4
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Same teaching key as the linked stem above; answer is Lactic acid 2. Lemon.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: B.** Lactic acid 2.
 </details>
-
 
 #### Q76 • [Organic Acids Q10] [U.P. P.C.S (Pre) 2025]
 Which of the following pairs is/are NOT correctly
@@ -1230,24 +973,12 @@ Code :
 (c) 2 and 3 (d) Only 1
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Curd contains lactic acid, so Pair 1 is correct.
 
-**High-Yield Explanation:**
-Curd contains lactic acid, so Pair 1 is correct.
-
-Tartaric acid is found in fruits like tamarind, grapes, banana,
-
-etc.; therefore, Pair 2 is also correct.
-
-Acetic acid is mainly the primary acid found in vinegar;
-
-potato contains other organic acids (such as citric, oxalic,
-
-malic, etc.). Hence, Pair 3 is incorrect.
+**Ans: B.** Only 3
 </details>
-
 
 #### Q77 • [Organic Acids Q11] [U.P. Lower Sub. (Pre) 2015]
 Which one of the following pairs is not correctly
@@ -1263,18 +994,12 @@ matched?
 (d) Tartaric acid – Grape juice
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** Lactic acid is found in milk not the lactose.
 
-**High-Yield Explanation:**
-Lactic acid is found in milk not the lactose. Lactose is a milk
-
-sugar. Lactic acid is produced by the fermentation of lactose.
-
-Other three pairs are correctly matched.
+**Ans: A.** Lactose – Sour milk
 </details>
-
 
 #### Q78 • [Organic Acids Q12] [U.P.P.C.S. (Mains) 2015]
 Which one of the following pairs is not correctly
@@ -1290,24 +1015,12 @@ matched?
 (d) Formic acid – Red Ant
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Ascorbic acid or vitamin C is found in many fresh vegetables and fruits such as cauliflower, lemon, cabbage and citrus fruits.
 
-**High-Yield Explanation:**
-Ascorbic acid or vitamin C is found in many fresh vegetables
-
-and fruits such as cauliflower, lemon, cabbage and citrus
-
-fruits. Maltose is found in Malt. Malt is a germinated cereal
-
-that has been dried in a process known as 'Malting'. Lactic
-
-acid is found in curd not acetic acid. Formic acid occurs in
-
-the body of red ants and in the stings of bees.
+**Ans: C.** Acetic acid – Curd
 </details>
-
 
 #### Q79 • [Organic Acids Q13] [U.P.P.C.S. (Mains) 2003]
 Match List-I with List-II and select the correct answer
@@ -1337,22 +1050,12 @@ A B C D
 (d) 3 4 2 1
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** The correctly matched lists are as follows : Pickle – Acetic Acid Sour Milk – Lactic Acid Apple – Malic Acid Cold Drinks and soda water – Carbonic Acid
 
-**High-Yield Explanation:**
-The correctly matched lists are as follows :
-
-Pickle – Acetic Acid
-
-Sour Milk – Lactic Acid
-
-Apple – Malic Acid
-
-Cold Drinks and soda water – Carbonic Acid
+**Ans: B.** Sour Milk 2.
 </details>
-
 
 #### Q80 • [Organic Acids Q14] [U.P. R.O./A.R.O. (Pre) (Re. Exam) 2023]
 Match List-I with List-II and choose the correct
@@ -1382,26 +1085,12 @@ Codes :
 (d) A-ii, B-iii, C-iv, D-i
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Correct matching is as follows: Natural Source Acid Vinegar Acetic acid Tamarind Tartaric acid Sour milk / Curd Lactic acid Nettle sting Methanoic (Formic) acid Therefore, option (b) is the correct answer.
 
-**High-Yield Explanation:**
-Correct matching is as follows:
-
-Natural Source Acid
-
-Vinegar Acetic acid
-
-Tamarind Tartaric acid
-
-Sour milk / Curd Lactic acid
-
-Nettle sting Methanoic (Formic) acid
-
-Therefore, option (b) is the correct answer.
+**Ans: B.** Tamarind ii.
 </details>
-
 
 #### Q81 • [Organic Acids Q15] [U.P. P.C.S. (Pre) 2021]
 Which of the following is NOT correctly matched ?
@@ -1415,18 +1104,12 @@ Which of the following is NOT correctly matched ?
 (d) Acid present in gastric juice – Hydrochloric acid
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Soured milk denotes a range of food products produced by the acidification of milk.
 
-**High-Yield Explanation:**
-Soured milk denotes a range of food products produced by
-
-the acidification of milk. It is the lactic acid which makes
-
-the milk sour. Pairs of other options are correctly matched.
+**Ans: C.** Souring of milk – Nitric acid
 </details>
-
 
 #### Q82 • [Organic Acids Q16] [U.P. Lower Sub. (Pre) 2004]
 Milk openly placed for sometime becomes sour due to :
@@ -1440,24 +1123,12 @@ Milk openly placed for sometime becomes sour due to :
 (d) Acetic acid
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Milk contains a sugar called lactose.
 
-**High-Yield Explanation:**
-Milk contains a sugar called lactose. It also contains harmless
-
-bacteria called lactobacillus, which uses glucose for energy
-
-and creates lactic acid as a by-product. It is the lactic acid which
-
-makes the milk sour. The presence of lactic acid or lactate
-
-in milk is due to the fermentation of lactose caused mainly
-
-by lactic bacteria.
+**Ans: B.** Lactic acid
 </details>
-
 
 #### Q83 • [Organic Acids Q17] [U.P.P.C.S. (Mains) 2012]
 Which one of the following acids is present in sour milk
@@ -1469,14 +1140,12 @@ products ?
 (c) Tartaric Acid (d) Lactic Acid
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** Same teaching key as the linked stem above; answer is Lactic Acid.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: D.** Lactic Acid
 </details>
-
 
 #### Q86 • [Organic Acids Q20] [U.P.P.C.S. (Spl.) (Mains) 2008]
 The predominant organic acid in grapes is –
@@ -1486,16 +1155,12 @@ The predominant organic acid in grapes is –
 (c) Malic acid (d) Tartaric acid
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** Tartaric acid is the predominant organic acid in grapes.
 
-**High-Yield Explanation:**
-Tartaric acid is the predominant organic acid in grapes. It is
-
-a white crystalline diprotic acid.
+**Ans: D.** Tartaric acid
 </details>
-
 
 #### Q88 • [Organic Acids Q22] [U.P.P.C.S. (Pre) 2017]
 Which one of the following organic acids is abundant
@@ -1507,18 +1172,12 @@ in grapes, tamarind and banana?
 (c) Lactic acid (d) Tartaric acid
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** Tartaric acid is found in abundance in grapes, tamarind and banana.
 
-**High-Yield Explanation:**
-Tartaric acid is found in abundance in grapes, tamarind and
-
-banana. This acid is used as regulator and antioxidant in
-
-food items.
+**Ans: D.** Tartaric acid
 </details>
-
 
 #### Q89 • [Organic Acids Q23] [U.P.U.D.A./L.D.A. (Pre) 2003]
 Which acid is used in photography–
@@ -1528,18 +1187,12 @@ Which acid is used in photography–
 (c) Citric acid (d) Acetic acid
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Oxalic acid is used in photography.
 
-**High-Yield Explanation:**
-Oxalic acid is used in photography. Formic acid is found in
-
-ants. Citric acid is found in lemon and acetic acid is found
-
-in vinegar.
+**Ans: B.** Oxalic acid
 </details>
-
 
 #### Q90 • [Organic Acids Q24] [U.P.P.C.S. (Mains) 2012]
 Which one of the following acids is used in the manufacturing of baking powder ?
@@ -1549,22 +1202,12 @@ Which one of the following acids is used in the manufacturing of baking powder ?
 (c) Tartaric Acid (d) Benzoic Acid
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Tartaric acid is used in the manufacturing of baking powder.
 
-**High-Yield Explanation:**
-Tartaric acid is used in the manufacturing of baking powder.
-
-This tartaric acid occurs naturally in many plants particularly
-
-in grapes, bananas and tamarinds. It is commonly combined
-
-with baking soda to function as a leavening agent in recipes
-
-and is one of the main acids found in wine.
+**Ans: C.** Tartaric Acid
 </details>
-
 
 #### Q92 • [Organic Acids Q26] [U.P.P.C.S. (Pre) 2009 / 42nd B.P.S.C. (Pre) 1997 / I.A.S. (Pre) 1993]
 Vinegar is the solution of which of the following?
@@ -1574,24 +1217,12 @@ Vinegar is the solution of which of the following?
 (c) Hydrochloric acid (d) Acetic acid
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** Acetic acid (CH3 COOH) or ethanoic acid is an organic acid, which is responsible for sour taste and the pungent smell of the vinegar.
 
-**High-Yield Explanation:**
-Acetic acid (CH3
-
-COOH) or ethanoic acid is an organic acid,
-
-which is responsible for sour taste and the pungent smell of
-
-the vinegar. The physical and chemical properties prove that
-
-the vinegar is a solution of acetic acid. It is produced from
-
-fermentation of ethanol.
+**Ans: D.** Acetic acid
 </details>
-
 
 ### UKPCS Prelims (7 Questions)
 
@@ -1605,24 +1236,12 @@ the Bhopal Gas Tragedy?
 (c) Nitric oxide (d) Sulfur dioxide
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** The Bhopal disaster or the Bhopal Gas Tragedy was a disaster that resulted from an accident.
 
-**High-Yield Explanation:**
-The Bhopal disaster or the Bhopal Gas Tragedy was a disaster
-
-that resulted from an accident. It happened at a Union Carbide
-
-subsidiary pesticide plant in Bhopal, India. On the night of
-
-2-3 December 1984, the plant released 42 tonnes of toxic
-
-methyl isocyanate (MIC) gas, exposing more than 500,000
-
-people to toxic gases.
+**Ans: A.** Methyl isocyanate
 </details>
-
 
 #### Q19 • [Hydrocarbons Q19] [Uttarakhand P.C.S. (Pre) 2005]
 Which of the following gas mixture is used in welding
@@ -1634,14 +1253,12 @@ gas?
 (c) Hydrogen and Oxygen (d) Hydrogen and Helium
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** In gas welding, the mixture of oxygen and acetylene are used.
 
-**High-Yield Explanation:**
-In gas welding, the mixture of oxygen and acetylene are used.
+**Ans: B.** Oxygen and Acetylene
 </details>
-
 
 #### Q32 • [Polymers Q9] [Uttarakhand P.C.S. (Pre) 2021]
 To which of the following chemical groups – Cellulose
@@ -1653,14 +1270,12 @@ belongs?
 (c) Lipids (d) Nucleic acids
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** Same teaching key as the linked stem above; answer is Carbohydrates.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: A.** Carbohydrates
 </details>
-
 
 #### Q39 • [Polymers Q16] [Uttarakhand P.C.S. (Pre) 2010]
 Which gas is obtained from plastic ?
@@ -1670,14 +1285,12 @@ Which gas is obtained from plastic ?
 (c) Polychlorine (d) Polyethylene
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** Polyethylene gas is produced from plastic.
 
-**High-Yield Explanation:**
-Polyethylene gas is produced from plastic.
+**Ans: D.** Polyethylene
 </details>
-
 
 #### Q50 • [Polymers Q27] [Uttarakhand P.C.S. (Pre) 2005]
 Which one of the following is used in making ‘Bulletproof Jacket’?
@@ -1687,14 +1300,12 @@ Which one of the following is used in making ‘Bulletproof Jacket’?
 (c) Lead (d) Laminated glass
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** Same teaching key as the linked stem above; answer is Laminated glass.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: D.** Laminated glass
 </details>
-
 
 #### Q58 • [Polymers Q35] [Uttarakhand P.C.S. (Pre) 2016]
 Teflon is the common name of –
@@ -1708,14 +1319,12 @@ Teflon is the common name of –
 (d) Dichlorodifluoro methane
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** Same teaching key as the linked stem above; answer is Polytetrafluoroethylene.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: A.** Polytetrafluoroethylene
 </details>
-
 
 #### Q59 • [Polymers Q36] [Uttarakhand P.C.S. (Pre) 2012]
 Which among the following is not a polymer ?
@@ -1725,36 +1334,12 @@ Which among the following is not a polymer ?
 (c) Caprolactam (d) Polystyrene
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** The polymer is a long chain molecule made up of many small identical units.
 
-**High-Yield Explanation:**
-The polymer is a long chain molecule made up of many
-
-small identical units. Polymers are common in nature. Wood,
-
-rubber, cotton, silk, proteins, enzymes and cellulose are all
-
-examples of polymers. A wide variety of synthetic polymers
-
-has been produced largely from petroleum-based raw
-
-materials. These include polyurethane, teflon, polyethylene,
-
-polystyrene, and nylon. Caprolactam (CPL) is an organic
-
-compound with the formula (CH2
-
-)
-
-5
-
-C(O)NH. It is being used
-
-as a raw material for nylon.
+**Ans: C.** Caprolactam (d) Polystyrene
 </details>
-
 
 ### BPSC, IAS, RAS & Other State PCS (54 Questions)
 
@@ -1774,18 +1359,12 @@ primitive Earth condition?
 (d) Nitrile, Amino Acid, Methane, Hydrogen Cyanide
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** The correct sequence of their appearance under simulated primitive Earth condition is Methane, Hydrogen Cyanide, Nitrile, Amino Acid.
 
-**High-Yield Explanation:**
-The correct sequence of their appearance under simulated
-
-primitive Earth condition is Methane, Hydrogen Cyanide,
-
-Nitrile, Amino Acid.
+**Ans: A.** Methane, Hydrogen Cyanide, Nitrile, Amino Acid
 </details>
-
 
 #### Q4 • [Hydrocarbons Q4] [I.A.S. (Pre) 2012]
 Which one of the following sets of elements was
@@ -1801,26 +1380,12 @@ primarily responsible for the origin of life on the Earth?
 (d) Carbon, Hydrogen, Potassium
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Biologists consider that six elements were primarily responsible for the origin of life on the Earth.
 
-**High-Yield Explanation:**
-Biologists consider that six elements were primarily
-
-responsible for the origin of life on the Earth. They are
-
-Hydrogen, Oxygen, Carbon, Nitrogen, Phosphorus and
-
-Sulfur. The matter within every living earthly creature mainly
-
-consists of the compounds these chemical elements e.g.
-
-proteins, nucleic acid, carbohydrates, vitamins, hormones,
-
-etc.
+**Ans: B.** Carbon, Hydrogen, Nitrogen
 </details>
-
 
 #### Q5 • [Hydrocarbons Q5] [I.A.S. (Pre) 2001]
 Which one of the following is the correct sequence
@@ -1838,26 +1403,12 @@ hydrocarbons?
 (d) Butane, Propane, Ethane and Methane
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** The increasing order of molecular weights of hydrocarbons is : Methane - CH4 , Ethane - C2 H6 , Propane - C3 H8 , Butane - C4 H10
 
-**High-Yield Explanation:**
-The increasing order of molecular weights of hydrocarbons
-
-is :
-
-Methane - CH4 , Ethane - C2
-
-H6 , Propane - C3
-
-H8
-
-, Butane - C4
-
-H10
+**Ans: A.** Methane, Ethane, Propane and Butane
 </details>
-
 
 #### Q6 • [Hydrocarbons Q6] [63rd B.P.S.C. (Pre) 2017]
 A hydrocarbon in which two carbon atoms are joined
@@ -1871,36 +1422,12 @@ by a double bond is called as an :
 (e) None of the above/More than one of the above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Standard key matches Propane, Butane, Ethane and Methane.
 
-**High-Yield Explanation:**
-A hydrocarbon in which two carbon atoms are joined by a
-
-double bond is called as an alkene. Alkenes have the general
-
-formula Cn
-
-H2n. They are also known as olefins. Ethylene
-
-(C2
-
-H4
-
-), Propylene (C3
-
-H6
-
-) and Butylene (C4
-
-H8
-
-) are first three
-
-members of this group.
+**Ans: B.** Propane, Butane, Ethane and Methane
 </details>
-
 
 #### Q7 • [Hydrocarbons Q7] [Chhattisgarh P.C.S. (Pre) 2022]
 Arrange the following carbon compounds in the
@@ -1916,22 +1443,12 @@ decreasing order of their melting points :
 (d) Acetic acid > Chloroform > Ethanol > Methane
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** The arrangement of given carbon compounds in the decreasing order of their melting points is as follows : Acetic acid (about 16.6°C) > Chloroform (about – 63.5°C) > Ethanol (about –114.1°C) > Methane (about –182.5°C) He…
 
-**High-Yield Explanation:**
-The arrangement of given carbon compounds in the
-
-decreasing order of their melting points is as follows :
-
-Acetic acid (about 16.6°C) > Chloroform (about – 63.5°C)
-
-> Ethanol (about –114.1°C) > Methane (about –182.5°C)
-
-Hence, option (d) is the correct answer.
+**Ans: D.** Acetic acid > Chloroform > Ethanol > Methane
 </details>
-
 
 #### Q8 • [Hydrocarbons Q8] [56th to 59th B.P.S.C. (Pre) 2015]
 Which of the following gases is used in cigarette
@@ -1943,35 +1460,23 @@ lighters?
 (c) Propane (d) Radon
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** Butane is a flammable hydrocarbon with the molecular formula C4 H10.
 
-**High-Yield Explanation:**
-Butane is a flammable hydrocarbon with the molecular
-
-formula C4
-
-H10. It is a natural gas perhaps best known for its
-
-use as a fuel cigarette lighters. It is also an organic compound
-
-known as NGL, a Natural Gas Liquid.
+**Ans: A.** Butane (b) Methane
 </details>
-
 
 #### Q11 • [Hydrocarbons Q11] [(a) 2-3 Dec. 1984 (b) 2-3 Nov. 1984 / (c) 2-3 Dec. 1985 (d) 2-3 Nov. 1985 / M.P.P.C.S. (Pre) 2013]
 When did the Bhopal Gas tragedy happen?
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** Same teaching key as the linked stem above; answer is 2-3 Dec. 1984.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: A.** 2-3 Dec.
 </details>
-
 
 #### Q12 • [Hydrocarbons Q12] [Jharkhand P.C.S. (Pre) 2003]
 From the decomposition of which of the following
@@ -1983,22 +1488,12 @@ printing ink is formed :
 (c) Carbon tetrachloride (d) Benzene
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Methane is colourless, tasteless and odourless gas which is found in the marshy area.
 
-**High-Yield Explanation:**
-Methane is colourless, tasteless and odourless gas which is
-
-found in the marshy area. Further, it is also present in the
-
-decomposition of organic matter and gas released by coal.
-
-It is used for the manufacture of carbon black. Carbon black
-
-is used for making black printing ink etc.
+**Ans: B.** Methane
 </details>
-
 
 #### Q17 • [Hydrocarbons Q17] [R.A.S./R.T.S. (Pre) 2016]
 Calcium carbide is used for artificial ripening of green
@@ -2010,14 +1505,12 @@ fruits because it produces :
 (c) Acetylene (d) Florigen
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Same teaching key as the linked stem above; answer is Acetylene.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: C.** Acetylene (d) Florigen
 </details>
-
 
 #### Q20 • [Hydrocarbons Q20] [63rd B.P.S.C. (Pre) 2017]
 Gases used in welding are :
@@ -2029,14 +1522,12 @@ Gases used in welding are :
 (e) None of the above/More than one of the above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Same teaching key as the linked stem above; answer is Oxygen and acetylene.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: C.** Oxygen and acetylene
 </details>
-
 
 #### Q21 • [Hydrocarbons Q21] [I.A.S. (Pre) 1998]
 Consider the following statements about acetylene :
@@ -2056,26 +1547,12 @@ Of these statements –
 (c) 2 and 3 are correct (d) 1, 2 and 3 correct
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** Acetylene is also called as Ethyne (C2 H2 ).
 
-**High-Yield Explanation:**
-Acetylene is also called as Ethyne (C2
-
-H2
-
-). It is used in welding.
-
-Chloroethene (Vinyl chloride) is produced by acetylene
-
-which is used as raw material in plastic industry. The mixture
-
-of calcium carbide (not silicon carbide) and water produces
-
-acetylene.
+**Ans: A.** 1 and 2 are correct
 </details>
-
 
 #### Q22 • [Hydrocarbons Q22] [Chhattisgarh P.C.S. (Pre) 2014]
 For benzene which of the following statements is true?
@@ -2091,32 +1568,12 @@ For benzene which of the following statements is true?
 (e) None of the above.
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Benzene is an important organic chemical compound with chemical formula C6 H6 .
 
-**High-Yield Explanation:**
-Benzene is an important organic chemical compound with
-
-chemical formula C6
-
-H6
-
-. Its molecule is composed of 6 Carbon
-
-atoms and 6 Hydrogen atoms. Its chemical structure can be
-
-described as a hexagonal ring with alternating double bonds.
-
-In benzene there are 6 sigma bonds between carbon atoms
-
-and 6 sigma bonds between carbon and hydrogen atoms.
-
-It has also 3 pi bonds between carbon atoms. Therefore 12
-
-sigma and 3 pi bonds are present in benzene molecule.
+**Ans: C.** It has twelve sigma and three pi bonds
 </details>
-
 
 #### Q23 • [Hydrocarbons Q23] [66th B.P.S.C. (Pre) 2020]
 Numbers of sigma and pi bonds in benzene are:
@@ -2128,14 +1585,12 @@ Numbers of sigma and pi bonds in benzene are:
 (e) None of the above / More than one of the above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Same teaching key as the linked stem above; answer is 12, 3.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: C.** 12, 3 (d) 12, 6
 </details>
-
 
 #### Q24 • [Polymers Q1]
 
@@ -2163,7 +1618,6 @@ key features such as aromatic content and cross-linking
 
 patterns are still debated.
 
-
 #### Q25 • [Polymers Q2]
 
 2. Protein : Protein is the polymer of amino acids. They are
@@ -2174,11 +1628,9 @@ more long chain of amino acid residues. They are building
 
 material of organism's body and silk, wool, hair etc.
 
-
 #### Q26 • [Polymers Q3]
 
 3. Starch, cellulose, glycogen are the polymers of glucose.
-
 
 #### Q27 • [Polymers Q4]
 
@@ -2194,11 +1646,9 @@ such as crabs, insects and spiders. The walls of hyphae
 
 (microscopic filaments of fungi) are composed of chitin.
 
-
 #### Q28 • [Polymers Q5]
 
 5. Nucleic acid (DNA/RNA) : Polymers of nucleotides.
-
 
 #### Q29 • [Polymers Q6]
 
@@ -2214,7 +1664,6 @@ dandelion are herbaceous alternative rubber crops under
 
 development.
 
-
 #### Q33 • [Polymers Q10] [R.A.S./R.T.S. (Pre) 2018]
 Which of the following is an example of a non-cellulosic
 
@@ -2225,16 +1674,12 @@ fibre?
 (c) Jute (d) Nylon
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** Rayon, cotton, hemp, jute and linen are made of cellulose, while nylon, polyesters etc.
 
-**High-Yield Explanation:**
-Rayon, cotton, hemp, jute and linen are made of cellulose,
-
-while nylon, polyesters etc. are non-cellulosic fibres.
+**Ans: D.** Nylon
 </details>
-
 
 #### Q34 • [Polymers Q11] [67th B.P.S.C. (Pre) 2022]
 Select the incorrect statement out of the following :
@@ -2254,24 +1699,12 @@ from cotton but has shine like silk.
 (e) None of the above/More than one of the above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Rayon is soft, lustrous and absorbent which exactly copies the characteristics of silk.
 
-**High-Yield Explanation:**
-Rayon is soft, lustrous and absorbent which exactly copies
-
-the characteristics of silk. Rayon appears and feels like silk.
-
-Hence, Rayon is called artificial silk. Fibre obtained by
-
-chemically treating wood pulp is called rayon or artificial
-
-silk. Acrylic fibers are the synthetic fibers which resemble
-
-natural wool. Statements of other options are correct.
+**Ans: C.** Acrylic is also called artificial silk as it is prepared
 </details>
-
 
 #### Q37 • [Polymers Q14] [R.A.S./R.T.S. (Pre) 2008]
 Which one of the following is used in the synthesis of
@@ -2283,16 +1716,12 @@ polythene?
 (c) Propane (d) Butane
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(*)**
+**Logic:** Polythene is produced by the polymerization of ethylene.
 
-**High-Yield Explanation:**
-Polythene is produced by the polymerization of ethylene.
-
-Hence it is a polymer of ethelyne.
+**Ans:** Polythene is produced by the polymerization of ethylene.
 </details>
-
 
 #### Q40 • [Polymers Q17] [70th B.P.S.C. (Pre) 2024]
 Which one of the following is an example of melamine
@@ -2304,32 +1733,12 @@ used for making floor tiles ?
 (c) PVC (d) Thermosetting plastic
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** Melamine, a versatile thermosetting plastic, is used to make a wide variety of products, including kitchenware, floor tiles, laminates, adhesives, and fire-retardant materials, as well as in the production of melamine r…
 
-**High-Yield Explanation:**
-Melamine, a versatile thermosetting plastic, is used to make
-
-a wide variety of products, including kitchenware, floor tiles,
-
-laminates, adhesives, and fire-retardant materials, as well as
-
-in the production of melamine resins and foams. Melamine is
-
-also used in the production of particle boards, which are used
-
-in furniture, flooring, and other construction applications.
-
-Thermosetting plastics, also known as thermosets, are
-
-polymers that become permanently rigid and fixed when
-
-heated and undergo an irreversible chemical change, meaning
-
-they cannot be reshaped or remelted once cured.
+**Ans: D.** Thermosetting plastic
 </details>
-
 
 #### Q41 • [Polymers Q18] [I.A.S. (Pre) 2022]
 With reference to polyethylene terephthalate, the use
@@ -2363,56 +1772,12 @@ Which of the statements given above are correct?
 (c) 1 and 4 (d) 2 and 3
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** Polyethylene terephthalate (PET or PETE), is the most common thermoplastic polymer resin of the polyester family and is used in fibres for clothing, containers for liquids and foods, and thermoforming for manufacturing,…
 
-**High-Yield Explanation:**
-Polyethylene terephthalate (PET or PETE), is the most
-
-common thermoplastic polymer resin of the polyester family
-
-and is used in fibres for clothing, containers for liquids
-
-and foods, and thermoforming for manufacturing, and in
-
-combination with glass fibre for engineering resins. It is
-
-often used in durable - press blends with other fibres such as
-
-rayon, wool, and cotton, reinforcing the inherent properties
-
-of those fibres.
-
-PET bottles are not considered safe to be used to store
-
-alcoholic beverages. Maharashtra government has banned the
-
-sale of alcohol in PET bottles saying that plastic packaging
-
-is dangerous to human health and the country liquor and
-
-country made foreign liquor cannot be sold in such bottles.
-
-PET bottles can be recycled into other products. Some
-
-everyday items recycled plastic bottles can be made into are
-
-: Plastic packaging, Clothing and shoes, Carpets and soft
-
-furnishings, Furniture, Automotive parts etc.
-
-PET, like many plastics, is also an excellent candidate for
-
-thermal disposal (incineration), as it is composed of carbon,
-
-hydrogen, and oxygen, with only trace amounts of catalyst
-
-elements (but no sulfur). However, incineration of PET
-
-causes greenhouse gas emissions.
+**Ans: A.** 1 and 3 (b) 2 and 4
 </details>
-
 
 #### Q42 • [Polymers Q19] [I.A.S. (Pre) 2025]
 Consider the following :
@@ -2430,30 +1795,12 @@ How many of them contain plastic?
 (c) All the three (d) None
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Most cigarette filters : the filter portion of 'cigarette butts' – are primarily made of a synthetic polymer called cellulose acetate, which is a type of plastic.
 
-**High-Yield Explanation:**
-Most cigarette filters : the filter portion of 'cigarette butts' –
-
-are primarily made of a synthetic polymer called cellulose
-
-acetate, which is a type of plastic. Nowadays, most spectacle
-
-lenses are made from lightweight and strong plastic polymers
-
-instead of glass. Car tyres are made not only from natural
-
-rubber but also in a substantial proportion from synthetic rubber;
-
-this too is considered a plastic polymer. Thus, plastic is
-
-commonly found in all three items. Hence, option (c) is the
-
-correct answer.
+**Ans: C.** All the three
 </details>
-
 
 #### Q43 • [Polymers Q20] [I.A.S. (Pre) 2024]
 In which of the following are hydrogels used ?
@@ -2471,76 +1818,12 @@ Select the correct answer using the code given below:
 (c) 2 and 3 only (d) 1, 2 and 3
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** Hydrogels are polymeric materials consisting of a sparse network of polymer chains embedded in an aqueous medium.
 
-**High-Yield Explanation:**
-Hydrogels are polymeric materials consisting of a sparse
-
-network of polymer chains embedded in an aqueous medium.
-
-Hydrogels can retain large amounts of water within their
-
-intermolecular space due to strong hydrophilicity of the
-
-polymer chains and large porosity. Flexibility of hydrogels,
-
-which is because of their water content, makes it possible
-
-to use them in different conditions ranging from industrial
-
-to biological.
-
-Hydrogels considerably enhance the therapeutic outcome of
-
-drug delivery and have found enormous clinical use. Their
-
-porosity and compatibility with aqueous environments
-
-make them highly attractive bio-compatible drug delivery
-
-vehicles. Owing to their tunable physical properties,
-
-controllable degradability and capability to protect labile
-
-drugs from degradation, hydrogels serve as a platform
-
-on which various physiochemical interactions with the
-
-encapsulated drugs occur to control drug release. Hence,
-
-point 1 is correct.
-
-Hydrogels are flexible and soft 3-dimensional networks with
-
-high water content and evaporative and radiative cooling
-
-properties that make them suitable for use in passive cooling
-
-technology. Hydrogels can be used as desiccants to control
-
-humidity. However at present, they are not used in mobile
-
-air-conditioning systems. Hence, point 2 is incorrect.
-
-Hydrogels can be used in industrial lubricants to improve their
-
-properties, such as reducing friction and wear, controlling
-
-viscosity, and improving thermal stability. Hydrogels have
-
-played a crucial role as water-based lubricants in recent
-
-years. Hydrogel lubricants not only have the advantage
-
-of eliminating lubrication failure compared to lubricating
-
-liquids due to their non-flowability but also show potential
-
-applications in the field of underwater lubrication and biolubrication. Hence, point 3 is correct.
+**Ans: A.** 1 only (b) 1 and 2 only
 </details>
-
 
 #### Q45 • [Polymers Q22] [70th B.P.S.C. (Pre) (Re-Exam) 2024]
 Light weight bullet proof helmets and jackets use
@@ -2552,14 +1835,12 @@ which of the following fibres for their production?
 (c) Kevlar (d) None of the above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Same teaching key as the linked stem above; answer is Kevlar.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: C.** Kevlar (d) None of the above
 </details>
-
 
 #### Q46 • [Polymers Q23] [69th B.P.S.C. (Pre) 2023]
 What is the 'fibre' used to make bulletproof jackets?
@@ -2569,14 +1850,12 @@ What is the 'fibre' used to make bulletproof jackets?
 (c) Tweed (d) Kevlar
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** Same teaching key as the linked stem above; answer is Kevlar.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: D.** Kevlar
 </details>
-
 
 #### Q47 • [Polymers Q24] [Jharkhand P.C.S. (Pre) 2010]
 Which of the following polymer is used in the
@@ -2588,14 +1867,12 @@ manufacture of bulletproof material?
 (c) Kevlar (d) Dacron
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Same teaching key as the linked stem above; answer is Kevlar.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: C.** Kevlar (d) Dacron
 </details>
-
 
 #### Q54 • [Polymers Q31]
 
@@ -2613,7 +1890,6 @@ Ans (a)
 
 See the explanation of above question.
 
-
 #### Q55 • [Polymers Q32] [Jharkhand P.C.S. (Pre) 2016]
 Non-stick frying pans are coated with :
 
@@ -2622,14 +1898,12 @@ Non-stick frying pans are coated with :
 (c) Polystyrene (d) Polypropylene
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Same teaching key as the linked stem above; answer is Teflon.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: B.** Teflon
 </details>
-
 
 #### Q56 • [Polymers Q33] [Jharkhand P.C.S. (Pre) 2010]
 What is Teflon?
@@ -2639,14 +1913,12 @@ What is Teflon?
 (c) Microbicides (d) Insecticide
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** Same teaching key as the linked stem above; answer is Fluorocarbon.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: A.** Fluorocarbon
 </details>
-
 
 #### Q57 • [Polymers Q34] [60th to 62nd B.P.S.C. (Pre) 2016]
 Teflon is a polymer of which of the following monomers?
@@ -2662,16 +1934,12 @@ Teflon is a polymer of which of the following monomers?
 (e) None of the above/ More than one of the above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** Polytetrafluoroethylene commonly known as Teflon is a polymer of tetrafluoroethylene.
 
-**High-Yield Explanation:**
-Polytetrafluoroethylene commonly known as Teflon is a
-
-polymer of tetrafluoroethylene.
+**Ans: A.** Tetrafluoroethylene
 </details>
-
 
 #### Q61 • [Polymers Q38] [71st B.P.S.C. (Pre) 2025]
 Full form of PHBV biodegradable polymer:
@@ -2685,36 +1953,12 @@ Full form of PHBV biodegradable polymer:
 (d) Poly hydroxy butyric acid veratric acid
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** PHBV, or poly (3-hydroxybutyrate-co-3-hydroxyvalerate), is a biodegradable, non-toxic, and biocompatible thermoplastic linear aliphatic polyester produced by bacterial fermentation of sugars or lipids.
 
-**High-Yield Explanation:**
-PHBV, or poly (3-hydroxybutyrate-co-3-hydroxyvalerate), is
-
-a biodegradable, non-toxic, and biocompatible thermoplastic
-
-linear aliphatic polyester produced by bacterial fermentation
-
-of sugars or lipids. It is a copolymer composed of
-
-3-hydroxybutanoic acid and 3-hydroxypentanoic acid.
-
-PHBV is known for its ability to break down in the
-
-environment via bacterial action. Due to its biocompatibility
-
-and eco-friendly nature, it is widely used in specialized
-
-packaging and biomedical applications like controlled drug
-
-release, orthopedic devices, etc. It is a key member of the
-
-polyhydroxyalkanoates (PHAs) family of biopolymers, often
-
-used as a sustainable alternative to petroleum-based plastics.
+**Ans: C.** Poly (3 Hydroxy butyrate-co-3 hydroxy valerate)
 </details>
-
 
 #### Q62 • [Polymers Q39] [I.A.S. (Pre) 2024]
 With reference to perfluoroalkyl and polyfluoroalkyl
@@ -2738,56 +1982,12 @@ Which of the statements given above are correct?
 (c) 1 and 3 only (d) 1, 2 and 3
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** Perfluoroalkyl and polyfluoroalkyl substances (PFAS) are a large, complex group of synthetic chemicals that have been widely used in consumer products around the world.
 
-**High-Yield Explanation:**
-Perfluoroalkyl and polyfluoroalkyl substances (PFAS) are a
-
-large, complex group of synthetic chemicals that have been
-
-widely used in consumer products around the world. Some
-
-of the major industry sectors using PFAS include aerospace
-
-and defence, automotive, food contact materials, cosmetics,
-
-textiles, leather and apparel, construction and household
-
-products, electronics, firefighting, food processing, and
-
-medical articles etc. PFAS are found widespread in drinking
-
-water, foods, food packaging materials and other consumer
-
-products. PFAS molecules have a chain of linked carbon
-
-and fluorine atoms. Because the carbon-fluorine bond is
-
-one of the strongest, these chemicals do not degrade easily
-
-in the environment. Hence, statements 1 and 2 are correct.
-
-Over time, PFAS may leak into the soil, water, and air. People
-
-are most likely exposed to these chemicals by consuming
-
-PFAS-contaminated water or food, using products made
-
-with PFAS, or breathing air containing PFAS. Over time,
-
-people may take in more of these chemicals than they
-
-excrete, a process that leads to bioaccumulation in bodies.
-
-Because of their widespread use and their persistence in the
-
-environment, many PFAS are found in the blood of people and
-
-animals all over the world. Hence, statement 3 is also correct.
+**Ans: D.** 1, 2 and 3
 </details>
-
 
 #### Q63 • [Polymers Q40] [I.A.S. (Pre) 2021]
 Bisphenol A (BPA), a cause of concern, is a structural/
@@ -2805,46 +2005,12 @@ following kinds of plastics?
 (d) Polyvinyl chloride
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Bisphenol A (BPA) is a chemical produced in large quantities for use primarily in the production of polycarbonate plastics and epoxy rasins.
 
-**High-Yield Explanation:**
-Bisphenol A (BPA) is a chemical produced in large quantities
-
-for use primarily in the production of polycarbonate plastics
-
-and epoxy rasins. It is found in various products including
-
-shatterproof windows, food packaging materials, eyewear,
-
-water bottles, and epoxy resins that coat some metal food
-
-cans, bottle tops, and water supply pipes. BPA has been used
-
-in food packaging since the 1960s. The primary source of
-
-exposure to BPA for most people is through the diet. While
-
-air, dust, and water are other possible sources of exposure.
-
-BPA in food and beverages accounts for the majority of daily
-
-human exposure. Bisphenol A can leach into food from the
-
-protective internal epoxy resin coatings of canned foods and
-
-from consumer products such as polycarbonate tableware,
-
-food storage containers, water bottles, and baby bottles.
-
-Exposure to Bisphenol A may cause or contribute to a variety
-
-of health problems including brain disorder, infertility, heart
-
-disease, type 2 diabetes etc.
+**Ans: B.** Polycarbonate
 </details>
-
 
 #### Q64 • [Polymers Q41] [I.A.S. (Pre) 2008]
 What is Bisphenol A (BPA)?
@@ -2860,14 +2026,12 @@ performance by athletes
 (d) A special type of alloy steel
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Same teaching key as the linked stem above; answer is A chemical used for the development of foodpackaging materials.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: C.** A chemical used for the development of foodpackaging materials
 </details>
-
 
 #### Q66 • [Polymers Q43] [60th to 62nd B.P.S.C. (Pre) 2016]
 Bakelite is formed by the condensation of :
@@ -2883,14 +2047,12 @@ Bakelite is formed by the condensation of :
 (e) None of the above/ More than one of the above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Same teaching key as the linked stem above; answer is Phenol and formaldehyde.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: B.** Phenol and formaldehyde
 </details>
-
 
 #### Q67 • [Organic Acids Q1] [I.A.S. (Pre) 1998]
 Assertion (A) : Formic Acid is a stronger acid than acetic
@@ -2914,28 +2076,12 @@ explanation of (A).
 (d) (A) is false but (R) is true.
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Formic acid (HCOOH) and acetic acid (CH3 COOH) both are organic acids.
 
-**High-Yield Explanation:**
-Formic acid (HCOOH) and acetic acid (CH3
-
-COOH) both
-
-are organic acids. Acetic acid contains a electron donating
-
-methyl group (CH3
-
-). While formic acid has no such electron
-
-donating group and loss of proton (H+
-
-) in it is comparatively
-
-easy and hence it is stronger acid than acetic acid.
+**Ans: B.** Both (A) and (R) are true but (R) is not correct
 </details>
-
 
 #### Q68 • [Organic Acids Q2] [68th B.P.S.C. (Pre) 2022]
 Which acid is described as HOOCCOOH?
@@ -2951,34 +2097,12 @@ Which acid is described as HOOCCOOH?
 (e) None of the above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Oxalic acid is a dicarboxylic acid with a chemical formula C2 H2 O4 also written as (COOH)2 of (CO2 H)2 .
 
-**High-Yield Explanation:**
-Oxalic acid is a dicarboxylic acid with a chemical formula
-
-C2
-
-H2
-
-O4
-
-also written as (COOH)2 of (CO2
-
-H)2
-
-. It is also known
-
-as Ethanedioic acid or Oxiric acid. This organic compound
-
-is found in many vegetables and plants. It is the simplest
-
-dicarboxylic acid with condensed formula HOOC–COOH
-
-and has an acidic strength greater than acetic acid.
+**Ans: B.** Oxalic acid
 </details>
-
 
 #### Q69 • [Organic Acids Q3] [I.A.S. (Pre) 2000]
 The sensation of fatigue in the muscles after prolonged
@@ -2994,24 +2118,12 @@ strenuous physical work is caused by–
 (d) The accumulation of lactic acid
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** After hard physical work, due to the accumulation of lactic acid [CH3 CH(OH)COOH] in muscles, the body would experience fatigue.
 
-**High-Yield Explanation:**
-After hard physical work, due to the accumulation of lactic
-
-acid [CH3
-
-CH(OH)COOH] in muscles, the body would
-
-experience fatigue. The rapid accumulation of lactic acid is
-
-not a temporal process. Rest is needed to remove tiredness.
-
-A body massage also helps to get relief from fatigue.
+**Ans: D.** The accumulation of lactic acid
 </details>
-
 
 #### Q71 • [Organic Acids Q5] [Chhattisgarh P.C.S (Pre) 2013]
 Which acid accumulates in the muscles to cause
@@ -3025,14 +2137,12 @@ fatigue?
 (e) Acetic acid
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** Same teaching key as the linked stem above; answer is Lactic acid.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: A.** Lactic acid (b) Pyruvic acid
 </details>
-
 
 #### Q72 • [Organic Acids Q6] [39th B.P.S.C. (Pre) 1994]
 Lemon is citrus due to –
@@ -3042,30 +2152,12 @@ Lemon is citrus due to –
 (c) Tartaric acid (d) Citric acid
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** Lemon contains mainly citric acid (C6 H8 O7 ) which fulfils the deficiency in the body.
 
-**High-Yield Explanation:**
-Lemon contains mainly citric acid (C6
-
-H8
-
-O7
-
-) which fulfils
-
-the deficiency in the body. Citric acid is a weak organic acid
-
-found in citrus fruits. Citric acid is most concentrated in
-
-lemons and limes, where it can comprise as much as 8% of
-
-the dry weight of the fruit. Acetic acid is found in vinegar,
-
-while tartaric acid is found in tamarind.
+**Ans: D.** Citric acid
 </details>
-
 
 #### Q73 • [Organic Acids Q7] [M.P.P.C.S. (Pre) 2003]
 Which acid is mainly find in lemons?
@@ -3075,14 +2167,12 @@ Which acid is mainly find in lemons?
 (c) Citric acid (d) Nitric acid
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Same teaching key as the linked stem above; answer is Citric acid.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: C.** Citric acid (d) Nitric acid
 </details>
-
 
 #### Q84 • [Organic Acids Q18] [R.A.S./R.T.S.(Pre) 2008]
 Which one of the following acids, is formed during the
@@ -3094,24 +2184,12 @@ change of milk into curd?
 (c) Citric acid (d) Lactic acid
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** When pasteurized milk is heated to a temperature of 30-40o C or even at room temperature and a small amount of old curd or whey is added to it, the lactobacillus (bacteria) in that curd or whey sample starts to grow.
 
-**High-Yield Explanation:**
-When pasteurized milk is heated to a temperature of 30-40o
-
-C
-
-or even at room temperature and a small amount of old curd
-
-or whey is added to it, the lactobacillus (bacteria) in that curd
-
-or whey sample starts to grow. They convert the lactose into
-
-lactic acid, which imparts the sour taste to curd.
+**Ans: D.** Lactic acid
 </details>
-
 
 #### Q85 • [Organic Acids Q19] [R.A.S./R.T.S. (Pre) 2010]
 Curd making is an ancient “Biotechnological” process
@@ -3123,14 +2201,12 @@ involving :
 (c) Fungus (d) Protozoa
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** Same teaching key as the linked stem above; answer is Bacteria.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: A.** Bacteria (b) Virus
 </details>
-
 
 #### Q87 • [Organic Acids Q21] [R.A.S./R.T.S. (Re. Exam) (Pre) 2013]
 For human nutrition, tomatoes are a rich source of
@@ -3140,18 +2216,12 @@ For human nutrition, tomatoes are a rich source of
 (c) Citric acid (d) Oxalic acid
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Tomato contains mainly citric acid and malic acid.
 
-**High-Yield Explanation:**
-Tomato contains mainly citric acid and malic acid. Due to
-
-which, it also acts as ant-acid. It also contains oxalic acid
-
-which is found less in quantity.
+**Ans: C.** Citric acid (d) Oxalic acid
 </details>
-
 
 #### Q91 • [Organic Acids Q25] [68th B.P.S.C. (Pre) 2022]
 The odour of acetic acid resembles that of :
@@ -3167,20 +2237,12 @@ The odour of acetic acid resembles that of :
 (e) None of the above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** Standard key matches Bacteria (b) Virus.
 
-**High-Yield Explanation:**
-The odour of acetic acid (CH3
-
-COOH) resembles that of
-
-vinegar. Vinegar is a liquid consisting mainly of acetic acid
-
-and water.
+**Ans: A.** Bacteria (b) Virus
 </details>
-
 
 #### Q93 • [Organic Acids Q27] [70th B.P.S.C. (Pre) (Re-Exam) 2024]
 Sour taste of vinegar is due to :
@@ -3190,14 +2252,12 @@ Sour taste of vinegar is due to :
 (c) Citric acid (d) None of these
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** Same teaching key as the linked stem above; answer is None of these.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: D.** None of these
 </details>
-
 
 #### Q94 • [Organic Acids Q28] [M.P.P.C.S. (Pre) 2010]
 Which acid is found in Vinegar?
@@ -3207,26 +2267,12 @@ Which acid is found in Vinegar?
 (c) Malic Acid (d) Acetic Acid
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** Acetic acid is the chief component of vinegar.
 
-**High-Yield Explanation:**
-Acetic acid is the chief component of vinegar. Vinegar is
-
-a liquid consisting mainly of acetic acid (CH3
-
-COOH) and
-
-water. The acetic acid is produced by the fermentation of
-
-ethanol (formed from sugarcane juice and molasses) by
-
-acetic acid bacteria. It is mainly used as cooking ingredient
-
-and as a preservative.
+**Ans: D.** Acetic Acid
 </details>
-
 
 #### Q95 • [Organic Acids Q29] [M.P. P.C.S. (Pre) 2016]
 Vinegar is chemically known as :
@@ -3236,14 +2282,12 @@ Vinegar is chemically known as :
 (c) Formic acid (d) Tartaric acid
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** Same teaching key as the linked stem above; answer is Acetic acid.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: A.** Acetic acid (b) Butyric acid
 </details>
-
 
 #### Q96 • [Organic Acids Q30] [63rd B.P.S.C. (Pre) 2017]
 The chemical name for vinegar is :
@@ -3255,14 +2299,12 @@ The chemical name for vinegar is :
 (e) None of the above/More than one of the above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Same teaching key as the linked stem above; answer is Acetic acid.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: C.** Acetic acid (d) Ethyl acetate
 </details>
-
 
 #### Q97 • [Organic Acids Q31] [R.A.S./R.T.S. (Pre) 2016]
 Which of the following statements is correct?
@@ -3282,14 +2324,12 @@ Code :
 (c) A, C, D (d) A, B, C
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** Same teaching key as the linked stem above; answer is Sugarcane juice is fermented to form vinegar.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: A.** Sugarcane juice is fermented to form vinegar
 </details>
-
 
 #### Q98 • [Organic Acids Q32] [Jharkhand P.C.S. (Pre) 2013]
 Which of the following is not optically active?
@@ -3299,516 +2339,12 @@ Which of the following is not optically active?
 (c) Serine (d) All of the above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
-
-**Correct Answer:** **(A)**
-
-**High-Yield Explanation:**
-Glycine is a non-essential, non-optical amino acid. It is
-
-also known as a building block for protein. Its formula is
-
-NH2
-
-CH2
-
-COOH. An optically active compound should have
-
-at least one carbon atom attached to four different groups.
-
-Glycine is not optically active because the carbon atom is
-
-attached to 2 hydrogen atoms, 1 amino group and 1 carboxylic
-
-group.
-</details>
-
-
-## Practice Zone — High-Yield Mock Drills (26 Questions)
-
-**Q1.** What is the hybridization of carbon atoms in graphite and diamond, respectively?  
-(a) $sp^3$ and $sp^2$  
-(b) $sp^2$ and $sp^3$  
-(c) $sp$ and $sp^2$  
-(d) $sp^3$ and $sp$  
-
-<details>
 <summary>Show answer</summary>
 
-**Correct Answer:** (b)
+**Logic:** Glycine is a non-essential, non-optical amino acid.
 
-- **Detailed Explanation:**
-  - In graphite, each carbon forms 3 coplanar $\sigma$-bonds ($sp^2$, $120^\circ$).
-  - In diamond, each carbon forms 4 tetrahedral $\sigma$-bonds ($sp^3$, $109.5^\circ$).
+**Ans: A.** Glycine (b) Alanine
 </details>
-
----
-
-**Q2.** Which of the following allotropes of carbon is thermodynamically the most stable under standard ambient conditions?  
-(a) Diamond  
-(b) Fullerene ($C_{60}$)  
-(c) Graphite  
-(d) Carbon nanotube  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (c)
-
-- **Detailed Explanation:**
-  - Graphite is the thermodynamic ground state of elemental carbon at $298.15\text{ K}$ and $1\text{ bar}$, with standard enthalpy of formation defined as $\Delta_f H^\circ = 0\text{ kJ/mol}$.
-</details>
-
----
-
-**Q3.** The monomer unit of natural rubber is:  
-(a) Chloroprene  
-(b) Isoprene (2-methyl-1,3-butadiene)  
-(c) Styrene  
-(d) Ethylene  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Natural rubber is cis-1,4-polyisoprene, formed from the monomer isoprene ($CH_2=C(CH_3)-CH=CH_2$).
-</details>
-
----
-
-**Q4.** What chemical cross-link is formed between polymer chains during the vulcanization of rubber?  
-(a) Ester bonds  
-(b) Disulphide bonds ($-S-S-$)  
-(c) Hydrogen bonds  
-(d) Peptide bonds  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Heating raw rubber with sulphur creates covalent disulphide bridges across polyisoprene chains, preventing permanent slippage under stress.
-</details>
-
----
-
-**Q5.** Which of the following is a semi-synthetic fibre manufactured from plant cellulose?  
-(a) Nylon-6  
-(b) Rayon  
-(c) Polyester  
-(d) Teflon  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Rayon is produced by chemically treating natural plant cellulose into viscose and regenerating it as continuous filaments.
-</details>
-
----
-
-**Q6.** The polymer "Teflon" is chemically:  
-(a) Polyvinyl chloride  
-(b) Polytetrafluoroethylene  
-(c) Polyacrylonitrile  
-(d) Polyethylene terephthalate  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Teflon is polytetrafluoroethylene ($[-CF_2-CF_2-]_n$).
-</details>
-
----
-
-**Q7.** Which of the following materials is used for manufacturing heat-resistant handles of frying pans and electric iron bases?  
-(a) PVC  
-(b) Polyethylene  
-(c) Bakelite  
-(d) Polystyrene  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (c)
-
-- **Detailed Explanation:**
-  - Bakelite is a thermosetting phenol-formaldehyde resin that does not soften under heat and provides electrical insulation.
-</details>
-
----
-
-**Q8.** What is the total number of pentagonal rings present in a single molecule of Buckminsterfullerene ($C_{60}$)?  
-(a) 20  
-(b) 12  
-(c) 60  
-(d) 10  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - $C_{60}$ contains **12 pentagonal rings and 20 hexagonal rings** in a truncated icosahedron.
-</details>
-
----
-
-**Q9.** Which of the following polymers is an aromatic polyamide (aramid) used in bulletproof armor?  
-(a) Terylene  
-(b) Kevlar  
-(c) Nylon-6,6  
-(d) Bakelite  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Kevlar (poly-para-phenylene terephthalamide) is an aramid fibre with high tensile strength used for ballistic vests and helmets.
-</details>
-
----
-
-**Q10.** The Ziegler-Natta catalyst used for low-pressure polymerization of ethylene into HDPE consists of:  
-(a) $Fe + Mo$  
-(b) $TiCl_4 + Al(C_2H_5)_3$  
-(c) $V_2O_5$  
-(d) $Pd / BaSO_4$  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - The Ziegler-Natta catalyst is a combination of titanium tetrachloride and triethylaluminium ($TiCl_4 + Al(C_2H_5)_3$).
-</details>
-
----
-
-**Q11.** Which of the following synthetic rubbers is manufactured from the monomer chloroprene?  
-(a) Buna-S  
-(b) Buna-N  
-(c) Neoprene  
-(d) Thiokol  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (c)
-
-- **Detailed Explanation:**
-  - Neoprene is polychloroprene, formed from 2-chloro-1,3-butadiene.
-</details>
-
----
-
-**Q12.** What type of plastic cannot be reshaped by heating once it has undergone setting?  
-(a) Thermoplastic  
-(b) Thermosetting plastic  
-(c) Elastomer  
-(d) Linear polymer  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Thermosetting plastics undergo irreversible chemical cross-linking during setting; subsequent heating causes thermal decomposition without melting.
-</details>
-
----
-
-**Q13.** Which of the following is a condensation polymer of ethylene glycol and terephthalic acid?  
-(a) Nylon-6,6  
-(b) Terylene (Dacron)  
-(c) Bakelite  
-(d) Melamine  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Terylene (polyester) is synthesized by the condensation of ethylene glycol with terephthalic acid.
-</details>
-
----
-
-**Q14.** Natural silk is primarily composed of which protein?  
-(a) Keratin  
-(b) Fibroin  
-(c) Collagen  
-(d) Hemoglobin  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Silk consists of the structural protein fibroin coated with sericin.
-</details>
-
----
-
-**Q15.** What is the primary constituent gas of Biogas and Gobar Gas?  
-(a) Carbon dioxide  
-(b) Methane  
-(c) Propane  
-(d) Butane  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Methane ($CH_4$) constitutes $55–70\%$ of biogas generated by anaerobic bacterial digestion of animal dung.
-</details>
-
----
-
-**Q16.** Which of the following carbon allotropes is composed of an isolated single layer of $sp^2$ bonded carbon atoms in a honeycomb lattice?  
-(a) Fullerene  
-(b) Diamond  
-(c) Graphene  
-(d) Carbon black  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (c)
-
-- **Detailed Explanation:**
-  - Graphene is a two-dimensional, single atom-thick sheet of carbon arranged in a hexagonal honeycomb lattice.
-</details>
-
----
-
-**Q17.** Polycarbonate, sold under trade names like Lexan, is widely used for:  
-(a) Water piping  
-(b) Bulletproof transparent windows and riot shields  
-(c) Non-stick frying pan coatings  
-(d) Synthetic clothing fabrics  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Polycarbonate is an impact-resistant, optically clear engineering thermoplastic used for bullet-resistant security windows.
-</details>
-
----
-
-**Q18.** Calcium carbide ($CaC_2$) is prohibited by food safety authorities for fruit ripening because:  
-(a) It turns fruits acidic and sour  
-(b) It emits acetylene accompanied by toxic impurities of arsine and phosphine  
-(c) It causes fruit to rot within one hour  
-(d) It is highly radioactive  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Commercial calcium carbide contains trace arsenic and phosphorus hydrides (arsine $AsH_3$ and phosphine $PH_3$), which are toxic to humans.
-</details>
-
----
-
-**Q19.** An example of a synthetic copolymer used for automotive tyres is:  
-(a) Buna-S (SBR)  
-(b) Teflon  
-(c) PVC  
-(d) Polyethylene  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (a)
-
-- **Detailed Explanation:**
-  - Buna-S is an addition copolymer of 1,3-butadiene and styrene with high abrasion resistance for road tyres.
-</details>
-
----
-
-**Q20.** Which of the following polymers is an example of an addition polymer?  
-(a) Nylon-6,6  
-(b) Polyvinyl chloride (PVC)  
-(c) Bakelite  
-(d) Terylene  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - PVC is formed by the direct addition polymerization of vinyl chloride ($n CH_2=CHCl \to [-CH_2-CHCl-]_n$).
-</details>
-
----
-
-**Q21.** Which polymer is used to produce unbreakable melamine dinnerware?  
-(a) Melamine-formaldehyde resin  
-(b) Polyethylene terephthalate  
-(c) Polystyrene  
-(d) Polyurethane  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (a)
-
-- **Detailed Explanation:**
-  - Melamine-formaldehyde is a thermosetting resin that yields hard, shatter-resistant dinnerware.
-</details>
-
----
-
-**Q22.** What is the bond angle in the methane ($CH_4$) molecule?  
-(a) $90^\circ$  
-(b) $120^\circ$  
-(c) $109.5^\circ$ ($109^\circ 28'$)  
-(d) $180^\circ$  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (c)
-
-- **Detailed Explanation:**
-  - The carbon in methane is $sp^3$ hybridized, forming a regular tetrahedral geometry with bond angles of $109^\circ 28'$.
-</details>
-
----
-
-**Q23.** Which of the following is a biodegradable aliphatic polyester?  
-(a) PHBV  
-(b) PVC  
-(c) Teflon  
-(d) Polystyrene  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (a)
-
-- **Detailed Explanation:**
-  - PHBV is a bacterial-derived aliphatic polyester that decomposes naturally via microbial action.
-</details>
-
----
-
-**Q24.** The optical glass substitute "Plexiglass" or "Lucite" is chemically:  
-(a) Polymethyl methacrylate (PMMA)  
-(b) Polyvinyl alcohol  
-(c) Polycarbonate  
-(d) Polytetrafluoroethylene  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (a)
-
-- **Detailed Explanation:**
-  - Plexiglass is polymethyl methacrylate (PMMA), a clear acrylic thermoplastic used as a shatterproof glass alternative.
-</details>
-
----
-
-**Q25.** Which of the following is an example of a linear, saturated hydrocarbon?  
-(a) Ethene  
-(b) Ethyne  
-(c) Propane  
-(d) Benzene  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (c)
-
-- **Detailed Explanation:**
-  - Propane ($C_3H_8$) is an alkane with only single covalent bonds, classifying it as a saturated hydrocarbon.
-</details>
-
----
-
-**Q26.** Why does graphite act as a dry lubricant in high-temperature machinery?  
-(a) It melts into an oil at high temperatures  
-(b) Its planar hexagonal sheets are held by weak van der Waals forces and slide over each other easily  
-(c) It contains absorbed moisture  
-(d) It has a high concentration of free protons  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Graphite's $sp^2$ layers are bonded strongly in-plane but separated by weak van der Waals dispersion forces between planes, allowing sheets to shear smoothly under friction without decomposing at temperatures where liquid lubricants burn.
-</details>
-
----
-
-## Common Traps & High-Yield Pitfalls
-
-| Trap Area | What Students Confuse | Correct Fact |
-|---|---|---|
-| **Rayon Origin** | Thinking Rayon is a modified starch or fully synthetic polymer. | Rayon is **regenerated cellulose** (derived from natural wood pulp treated with $NaOH$ and $CS_2$). |
-| **Neoprene Category** | Classifying Neoprene as a thermoplastic. | Neoprene is an **elastomer** (synthetic rubber), not a thermoplastic. |
-| **Advanced Materials Chronology** | Mixing up the discovery timeline of Kevlar, Fullerenes, and Graphene. | **Kevlar (1965)** $\to$ **Fullerenes (1985)** $\to$ **CNTs (1991)** $\to$ **Graphene (2004)** $\to$ **Black Gold (2019)**. |
-| **Teflon Monomer** | Forgetting the chemical formula of Teflon monomer. | Teflon is polymerized from **tetrafluoroethylene ($CF_2=CF_2$)**, not vinyl fluoride or chloroprene. |
-| **Bakelite Application** | Thinking Bakelite melts easily or is recyclable. | Bakelite is a **thermosetting plastic**; it does not melt upon reheating and is non-recyclable. |
-| **Natural Rubber Monomer** | Answering chloroprene for natural rubber. | Natural rubber is **Isoprene** (2-methyl-1,3-butadiene). **Chloroprene** is the monomer of synthetic Neoprene. |
-| **Vulcanizing Agent** | Answering phosphorus or carbon for vulcanization. | Rubber is vulcanized using **$3–5\%$ elemental Sulphur** to form disulphide cross-links. |
-| **Kevlar Composition** | Confusing Kevlar with polyester or aliphatic nylon. | Kevlar is an **aromatic polyamide (aramid)** with rigid benzene rings in its backbone. |
-| **Diamond vs. Graphite Stability** | Assuming diamond is thermodynamically more stable because it is harder. | **Graphite is thermodynamically most stable** at STP ($\Delta_f H^\circ = 0$). Diamond is metastable ($\Delta_f H^\circ = +1.9\text{ kJ/mol}$). |
-| **Acetylene Welding Temperature** | Underestimating the oxy-acetylene flame temperature. | Oxy-acetylene burns at **$\approx 3200^\circ\text{C}$**, capable of melting and welding steel structures. |
-
-
----
-
-## Bilingual Terminology -- Carbon, Organic Chemistry and Polymers
-
-| English Term | Hindi Term | Key Anchor |
-|---|---|---|
-| **Organic Chemistry** (कार्बनिक रसायन) | कार्बनिक रसायन | Study of carbon compounds; ~10 million known compounds |
-| **Carbon** (कार्बन) | कार्बन | 6th element; tetravalent; forms 4 bonds; backbone of life |
-| **Hydrocarbon** (हाइड्रोकार्बन) | हाइड्रोकार्बन | Compound of only H and C; alkanes, alkenes, alkynes |
-| **Alkane** (एल्केन) | एल्केन | CnH2n+2; saturated; single bonds; e.g., methane (CH4), ethane, propane |
-| **Alkene** (एल्कीन) | एल्कीन | CnH2n; one double bond; unsaturated; e.g., ethylene (CH2=CH2) |
-| **Alkyne** (एल्काइन) | एल्काइन | CnH2n-2; one triple bond; e.g., acetylene (CH = CH); used in welding |
-| **Benzene** (बेंजीन) | बेंजीन | C6H6; aromatic ring; discovered by Faraday (1825); structure by Kekule (1865) |
-| **Polymer** (बहुलक) | बहुलक | Large molecule made of repeating monomer units |
-| **Monomer** (एकलक) | एकलक | Small repeating unit that combines to form polymer |
-| **Polymerisation** (बहुलकीकरण) | बहुलकीकरण | Chemical process of joining monomers to form polymer |
-| **Plastic** (प्लास्टिक) | प्लास्टिक | Synthetic polymer; thermoplastic (remeltable) or thermoset (permanent) |
-| **Rubber** (रबड़) | रबड़ | Natural = latex of Hevea brasiliensis; polymer of isoprene |
-| **Vulcanisation** (वल्केनीकरण) | वल्केनीकरण | Heating rubber with sulphur; improves strength and elasticity |
-| **Cellulose** (सेलुलोज) | सेलुलोज | Natural polymer of glucose; plant cell wall; most abundant organic compound |
-| **Nylon** (नायलॉन) | नायलॉन | First synthetic fibre; polyamide; Wallace Carothers (Du Pont, 1935) |
-| **Isomers** (समावयवी) | समावयवी | Same molecular formula, different structural formula; e.g., butane and isobutane |
-
----
 
 ## One-Liner Revision -- Carbon, Organic Chemistry and Polymers
 
@@ -3844,4 +2380,491 @@ group.
 | 28 | Ethanol (C2H5OH) = ethyl alcohol; from fermentation; used as fuel additive (E10 = 10% ethanol) |
 | 29 | Methanol (CH3OH) = wood alcohol; poisonous; causes blindness and death |
 | 30 | Chloroform (CHCl3) = trichloromethane; used as anaesthetic historically; now solvent |
+
+## Practice Zone — High-Yield Mock Drills (26 Questions)
+
+**Q-ST1.**
+
+What is the hybridization of carbon atoms in graphite and diamond, respectively?
+(a) $sp^3$ and $sp^2$  
+(b) $sp^2$ and $sp^3$  
+(c) $sp$ and $sp^2$  
+(d) $sp^3$ and $sp$  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** In graphite, each carbon forms 3 coplanar $\sigma$-bonds ($sp^2$, $120^\circ$).
+
+**Ans: B.** $sp^2$ and $sp^3$
+</details>
+
+---
+
+**Q-ST2.**
+
+Which of the following allotropes of carbon is thermodynamically the most stable under standard ambient conditions?
+(a) Diamond  
+(b) Fullerene ($C_{60}$)  
+(c) Graphite  
+(d) Carbon nanotube  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Graphite is the thermodynamic ground state of elemental carbon at $298.15\text{ K}$ and $1\text{ bar}$, with standard enthalpy of formation defined as $\Deltaf H^\circ = 0\text{ kJ/mol}$.
+
+**Ans: C.** Graphite
+</details>
+
+---
+
+**Q-ST3.**
+
+The monomer unit of natural rubber is:
+(a) Chloroprene  
+(b) Isoprene (2-methyl-1,3-butadiene)  
+(c) Styrene  
+(d) Ethylene  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Natural rubber is cis-1,4-polyisoprene, formed from the monomer isoprene ($CH2=C(CH3)-CH=CH2$).
+
+**Ans: B.** Isoprene (2-methyl-1,3-butadiene)
+</details>
+
+---
+
+**Q-ST4.**
+
+What chemical cross-link is formed between polymer chains during the vulcanization of rubber?
+(a) Ester bonds  
+(b) Disulphide bonds ($-S-S-$)  
+(c) Hydrogen bonds  
+(d) Peptide bonds  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Heating raw rubber with sulphur creates covalent disulphide bridges across polyisoprene chains, preventing permanent slippage under stress.
+
+**Ans: B.** Disulphide bonds ($-S-S-$)
+</details>
+
+---
+
+**Q-ST5.**
+
+Which of the following is a semi-synthetic fibre manufactured from plant cellulose?
+(a) Nylon-6  
+(b) Rayon  
+(c) Polyester  
+(d) Teflon  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Rayon.
+
+**Ans: B.** Rayon
+</details>
+
+---
+
+**Q-ST6.**
+
+The polymer "Teflon" is chemically:
+(a) Polyvinyl chloride  
+(b) Polytetrafluoroethylene  
+(c) Polyacrylonitrile  
+(d) Polyethylene terephthalate  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Teflon is polytetrafluoroethylene ($[-CF2-CF2-]n$).
+
+**Ans: B.** Polytetrafluoroethylene
+</details>
+
+---
+
+**Q-ST7.**
+
+Which of the following materials is used for manufacturing heat-resistant handles of frying pans and electric iron bases?
+(a) PVC  
+(b) Polyethylene  
+(c) Bakelite  
+(d) Polystyrene  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Bakelite is a thermosetting phenol-formaldehyde resin that does not soften under heat and provides electrical insulation.
+
+**Ans: C.** Bakelite
+</details>
+
+---
+
+**Q-ST8.**
+
+What is the total number of pentagonal rings present in a single molecule of Buckminsterfullerene ($C_{60}$)?
+(a) 20  
+(b) 12  
+(c) 60  
+(d) 10  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches 12.
+
+**Ans: B.** 12
+</details>
+
+---
+
+**Q-ST9.**
+
+Which of the following polymers is an aromatic polyamide (aramid) used in bulletproof armor?
+(a) Terylene  
+(b) Kevlar  
+(c) Nylon-6,6  
+(d) Bakelite  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Kevlar.
+
+**Ans: B.** Kevlar
+</details>
+
+---
+
+**Q-ST10.**
+
+The Ziegler-Natta catalyst used for low-pressure polymerization of ethylene into HDPE consists of:
+(a) $Fe + Mo$  
+(b) $TiCl_4 + Al(C_2H_5)_3$  
+(c) $V_2O_5$  
+(d) $Pd / BaSO_4$  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Ziegler-Natta catalyst is a combination of titanium tetrachloride and triethylaluminium ($TiCl4 + Al(C2H5)3$).
+
+**Ans: B.** $TiCl4 + Al(C2H5)3$
+</details>
+
+---
+
+**Q-ST11.**
+
+Which of the following synthetic rubbers is manufactured from the monomer chloroprene?
+(a) Buna-S  
+(b) Buna-N  
+(c) Neoprene  
+(d) Thiokol  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Neoprene is polychloroprene, formed from 2-chloro-1,3-butadiene.
+
+**Ans: C.** Neoprene
+</details>
+
+---
+
+**Q-ST12.**
+
+What type of plastic cannot be reshaped by heating once it has undergone setting?
+(a) Thermoplastic  
+(b) Thermosetting plastic  
+(c) Elastomer  
+(d) Linear polymer  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Thermosetting plastics undergo irreversible chemical cross-linking during setting; subsequent heating causes thermal decomposition without melting.
+
+**Ans: B.** Thermosetting plastic
+</details>
+
+---
+
+**Q-ST13.**
+
+Which of the following is a condensation polymer of ethylene glycol and terephthalic acid?
+(a) Nylon-6,6  
+(b) Terylene (Dacron)  
+(c) Bakelite  
+(d) Melamine  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Terylene (polyester) is synthesized by the condensation of ethylene glycol with terephthalic acid.
+
+**Ans: B.** Terylene (Dacron)
+</details>
+
+---
+
+**Q-ST14.**
+
+Natural silk is primarily composed of which protein?
+(a) Keratin  
+(b) Fibroin  
+(c) Collagen  
+(d) Hemoglobin  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Fibroin.
+
+**Ans: B.** Fibroin
+</details>
+
+---
+
+**Q-ST15.**
+
+What is the primary constituent gas of Biogas and Gobar Gas?
+(a) Carbon dioxide  
+(b) Methane  
+(c) Propane  
+(d) Butane  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Methane.
+
+**Ans: B.** Methane
+</details>
+
+---
+
+**Q-ST16.**
+
+Which of the following carbon allotropes is composed of an isolated single layer of $sp^2$ bonded carbon atoms in a honeycomb lattice?
+(a) Fullerene  
+(b) Diamond  
+(c) Graphene  
+(d) Carbon black  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Graphene is a two-dimensional, single atom-thick sheet of carbon arranged in a hexagonal honeycomb lattice.
+
+**Ans: C.** Graphene
+</details>
+
+---
+
+**Q-ST17.**
+
+Polycarbonate, sold under trade names like Lexan, is widely used for:
+(a) Water piping  
+(b) Bulletproof transparent windows and riot shields  
+(c) Non-stick frying pan coatings  
+(d) Synthetic clothing fabrics  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Polycarbonate is an impact-resistant, optically clear engineering thermoplastic used for bullet-resistant security windows.
+
+**Ans: B.** Bulletproof transparent windows and riot shields
+</details>
+
+---
+
+**Q-ST18.**
+
+Calcium carbide ($CaC_2$) is prohibited by food safety authorities for fruit ripening because:
+(a) It turns fruits acidic and sour  
+(b) It emits acetylene accompanied by toxic impurities of arsine and phosphine  
+(c) It causes fruit to rot within one hour  
+(d) It is highly radioactive  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Commercial calcium carbide contains trace arsenic and phosphorus hydrides (arsine $AsH3$ and phosphine $PH3$), which are toxic to humans.
+
+**Ans: B.** It emits acetylene accompanied by toxic impurities of arsine and phosphine
+</details>
+
+---
+
+**Q-ST19.**
+
+An example of a synthetic copolymer used for automotive tyres is:
+(a) Buna-S (SBR)  
+(b) Teflon  
+(c) PVC  
+(d) Polyethylene  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Buna-S is an addition copolymer of 1,3-butadiene and styrene with high abrasion resistance for road tyres.
+
+**Ans: A.** Buna-S (SBR)
+</details>
+
+---
+
+**Q-ST20.**
+
+Which of the following polymers is an example of an addition polymer?
+(a) Nylon-6,6  
+(b) Polyvinyl chloride (PVC)  
+(c) Bakelite  
+(d) Terylene  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** PVC is formed by the direct addition polymerization of vinyl chloride ($n CH2=CHCl \to [-CH2-CHCl-]n$).
+
+**Ans: B.** Polyvinyl chloride (PVC)
+</details>
+
+---
+
+**Q-ST21.**
+
+Which polymer is used to produce unbreakable melamine dinnerware?
+(a) Melamine-formaldehyde resin  
+(b) Polyethylene terephthalate  
+(c) Polystyrene  
+(d) Polyurethane  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Melamine-formaldehyde is a thermosetting resin that yields hard, shatter-resistant dinnerware.
+
+**Ans: A.** Melamine-formaldehyde resin
+</details>
+
+---
+
+**Q-ST22.**
+
+What is the bond angle in the methane ($CH_4$) molecule?
+(a) $90^\circ$  
+(b) $120^\circ$  
+(c) $109.5^\circ$ ($109^\circ 28'$)  
+(d) $180^\circ$  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The carbon in methane is $sp^3$ hybridized, forming a regular tetrahedral geometry with bond angles of $109^\circ 28'$.
+
+**Ans: C.** $109.5^\circ$ ($109^\circ 28'$)
+</details>
+
+---
+
+**Q-ST23.**
+
+Which of the following is a biodegradable aliphatic polyester?
+(a) PHBV  
+(b) PVC  
+(c) Teflon  
+(d) Polystyrene  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches PHBV.
+
+**Ans: A.** PHBV
+</details>
+
+---
+
+**Q-ST24.**
+
+The optical glass substitute "Plexiglass" or "Lucite" is chemically:
+(a) Polymethyl methacrylate (PMMA)  
+(b) Polyvinyl alcohol  
+(c) Polycarbonate  
+(d) Polytetrafluoroethylene  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Plexiglass is polymethyl methacrylate (PMMA), a clear acrylic thermoplastic used as a shatterproof glass alternative.
+
+**Ans: A.** Polymethyl methacrylate (PMMA)
+</details>
+
+---
+
+**Q-ST25.**
+
+Which of the following is an example of a linear, saturated hydrocarbon?
+(a) Ethene  
+(b) Ethyne  
+(c) Propane  
+(d) Benzene  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Propane.
+
+**Ans: C.** Propane
+</details>
+
+---
+
+**Q-ST26.**
+
+Why does graphite act as a dry lubricant in high-temperature machinery?
+(a) It melts into an oil at high temperatures  
+(b) Its planar hexagonal sheets are held by weak van der Waals forces and slide over each other easily  
+(c) It contains absorbed moisture  
+(d) It has a high concentration of free protons  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Graphite's $sp^2$ layers are bonded strongly in-plane but separated by weak van der Waals dispersion forces between planes, allowing sheets to shear smoothly under friction without decomposing at temperatures where liqu…
+
+**Ans: B.** Its planar hexagonal sheets are held by weak van der Waals forces and slide over each other easily
+</details>
+
+---
+
+## Common Traps & High-Yield Pitfalls
+
+| Trap Area | What Students Confuse | Correct Fact |
+|---|---|---|
+| **Rayon Origin** | Thinking Rayon is a modified starch or fully synthetic polymer. | Rayon is **regenerated cellulose** (derived from natural wood pulp treated with $NaOH$ and $CS_2$). |
+| **Neoprene Category** | Classifying Neoprene as a thermoplastic. | Neoprene is an **elastomer** (synthetic rubber), not a thermoplastic. |
+| **Advanced Materials Chronology** | Mixing up the discovery timeline of Kevlar, Fullerenes, and Graphene. | **Kevlar (1965)** $\to$ **Fullerenes (1985)** $\to$ **CNTs (1991)** $\to$ **Graphene (2004)** $\to$ **Black Gold (2019)**. |
+| **Teflon Monomer** | Forgetting the chemical formula of Teflon monomer. | Teflon is polymerized from **tetrafluoroethylene ($CF_2=CF_2$)**, not vinyl fluoride or chloroprene. |
+| **Bakelite Application** | Thinking Bakelite melts easily or is recyclable. | Bakelite is a **thermosetting plastic**; it does not melt upon reheating and is non-recyclable. |
+| **Natural Rubber Monomer** | Answering chloroprene for natural rubber. | Natural rubber is **Isoprene** (2-methyl-1,3-butadiene). **Chloroprene** is the monomer of synthetic Neoprene. |
+| **Vulcanizing Agent** | Answering phosphorus or carbon for vulcanization. | Rubber is vulcanized using **$3–5\%$ elemental Sulphur** to form disulphide cross-links. |
+| **Kevlar Composition** | Confusing Kevlar with polyester or aliphatic nylon. | Kevlar is an **aromatic polyamide (aramid)** with rigid benzene rings in its backbone. |
+| **Diamond vs. Graphite Stability** | Assuming diamond is thermodynamically more stable because it is harder. | **Graphite is thermodynamically most stable** at STP ($\Delta_f H^\circ = 0$). Diamond is metastable ($\Delta_f H^\circ = +1.9\text{ kJ/mol}$). |
+| **Acetylene Welding Temperature** | Underestimating the oxy-acetylene flame temperature. | Oxy-acetylene burns at **$\approx 3200^\circ\text{C}$**, capable of melting and welding steel structures. |
+
+---
 

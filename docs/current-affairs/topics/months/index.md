@@ -12,7 +12,7 @@ One short digest per month. Detail lives in the topic sheets; digests are only f
 | [June 2026](2026-06.md) | Seeded (Surha Tal 100 + Jewar open + WED) |
 | [July 2026](2026-07.md) | Seeded + gap-fill (Samudra Manthan / Surya Sarovar) |
 | [August 2026](2026-08.md) | Seeded + gap-fill (UP expressways) |
-| September 2026 | Next update |
+| [September 2026](2026-09.md) | Seeded (BRICS New Delhi + Asian Games + Ozone/Peace + NFI) |
 
 !!! tip "Fast revise"
  Before mocks, open [Master fact tables](../00_Master_Tables.md) for Ramsar, VB-G, money, and confused pairs.

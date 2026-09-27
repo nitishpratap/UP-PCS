@@ -523,7 +523,6 @@ Animal Body Structure & Physiology | Herbivore, Carnivore & Omnivore Digestion (
 
 ---
 
-
 ## Teaching expansion — additional theory (beyond Consolidated spine)
 
 These points sit in teaching theory (not the Consolidated spine).
@@ -535,1428 +534,6 @@ These points sit in teaching theory (not the Consolidated spine).
 - **Honey**: Rich in **Levulose (Fructose, ~38%)** and Glucose (~31%); Karl von Frisch decoded round dance ($<50\text{ m}$) and waggle dance ($>50\text{ m}$).
 - **Bull Semen Cryopreservation**: Stored in **Liquid Nitrogen at $-196^\circ\text{C}$**.
 - **Diclofenac Vulture Ban (2006)**: Veterinary NSAID causing visceral gout and renal failure in *Gyps* vultures; banned in 2006; Ketoprofen & Aceclofenac banned in 2023.
-
-## Complete PYQ Bank — UPPCS
-
-**Q1. (UPPCS Pre 2025)** With reference to earthworms, which of the following statements is/are correct?  
-1. Earthworms increase soil fertility and are known as friends of farmers.  
-2. Earthworms have two pairs of hearts.  
-
-Select the correct answer from the code given below:  
-A. Only 2  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
-D. Only 1  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Only 1)  
-**Detailed Explanation:**
-- Statement 1 is correct: Earthworms (*Pheretima posthuma*) burrow through the soil, aerating it, improving water drainage, and converting decomposing leaf litter into nutrient-rich vermicastings; hence called friends of farmers.
-- Statement 2 is incorrect: An earthworm has **4 pairs of lateral hearts** located in segments 7, 9, 12, and 13.
-</details>
-
-**Q2. (UPPCS Pre 2025)** Which of the following statements is/are correct?  
-1. Dolphins and whales breathe through blowholes.  
-2. Earthworms breathe through their skin.  
-
-Select the correct answer from the code given below:  
-A. Only 2  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
-D. Only 1  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Both 1 and 2)  
-**Detailed Explanation:**
-- Statement 1 is correct: Whales and dolphins are air-breathing aquatic mammals that surface to inhale and exhale atmospheric air through blowholes located on top of their heads.
-- Statement 2 is correct: Earthworms carry out cutaneous respiration across their moist vascular skin.
-</details>
-
-**Q3. (UPPCS Pre 2024)** Plants and animals that live on land are called:  
-A. Abiotic  
-B. Aquatic habitants  
-C. Terrestrial habitants  
-D. Biotic  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Terrestrial habitants)  
-**Detailed Explanation:**
-- Organisms living on land are designated as terrestrial inhabitants; aquatic organisms inhabit fresh or marine waters; abiotic refers to non-living physical components of the environment.
-</details>
-
-**Q4. (UPPCS Pre 2023)** Desert-dwelling animals are called:  
-A. Arboreal animals  
-B. Terrestrial animals  
-C. Fossorial animals  
-D. Xericole animals  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Xericole animals)  
-**Detailed Explanation:**
-- Animals adapted physiologically and morphologically to arid desert conditions are termed **Xericole animals** (e.g. kangaroo rat, camel, desert monitor lizard).
-- Arboreal animals live in trees; fossorial animals live in underground burrows.
-</details>
-
-**Q5. (UPPCS Pre 2023)** Which among the following is a constituent of natural silk?  
-A. Phosphorus  
-B. Nitrogen  
-C. Magnesium  
-D. Potassium  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Nitrogen)  
-**Detailed Explanation:**
-- Natural silk is a pure animal protein filament composed of Fibroin and Sericin. Proteins are polymers of amino acids containing an amino group ($-NH_2$), making **Nitrogen** a fundamental constituent (~17% by weight). Cotton, by contrast, is pure carbohydrate cellulose (C, H, O) with zero nitrogen.
-</details>
-
-**Q6. (UPPCS Pre 2022)** Which of the following mammals lays eggs?  
-A. Hedgehog  
-B. Loris  
-C. Echidna  
-D. Kangaroo  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Echidna)  
-**Detailed Explanation:**
-- The Spiny Anteater (**Echidna**) and Duck-billed Platypus belong to the primitive mammalian sub-class Prototheria (monotremes), which lay leathery shelled eggs and lack true nipples.
-- Kangaroo is a viviparous marsupial; Hedgehog and Loris are placental eutherian mammals.
-</details>
-
-**Q7. (UPPCS Pre 2019)** Which of the following substances is **not** a protein?  
-A. Cotton  
-B. Hair  
-C. Spider silk  
-D. Hoof  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Cotton)  
-**Detailed Explanation:**
-- Cotton consists of 90% pure **Cellulose**, a carbohydrate polymer of $\beta$-D-glucose.
-- Hair and hoof are made of the fibrous structural protein **Keratin**; spider silk is composed of silk proteins (spidroins).
-</details>
-
-**Q8. (UPPCS Pre 2019)** Which of the following organisms has white blood?  
-A. Lizard  
-B. Cockroach  
-C. House bug  
-D. Mosquito  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Cockroach)  
-**Detailed Explanation:**
-- The cockroach (*Periplaneta americana*) has colourless / white haemolymph because it contains no respiratory pigment such as haemoglobin or haemocyanin; respiration is carried out independently by the tracheal network.
-</details>
-
-**Q9. (UPPCS Pre 2018)** Which of the following is **not** obtained from insects?  
-A. Silk  
-B. Honey  
-C. Lac  
-D. Pearl  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Pearl)  
-**Detailed Explanation:**
-- Pearl is secreted by the mantle epithelium of the marine **Pearl Oyster** (***Pinctada vulgaris***), which is a mollusc (Phylum Mollusca, Class Bivalvia).
-- Silk (*Bombyx mori*), honey (*Apis*), and lac (*Kerria lacca*) are insect products.
-</details>
-
-**Q10. (UPPCS Pre 2018)** Which painkiller given to cattle is responsible for near extinction of vultures in India?  
-A. Ibuprofen  
-B. Acetaminophen  
-C. Aspirin  
-D. Diclofenac  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Diclofenac)  
-**Detailed Explanation:**
-- **Diclofenac**, a veterinary NSAID administered to livestock, caused catastrophic renal failure and fatal visceral gout in scavenging *Gyps* vultures, prompting a total ban in 2006.
-</details>
-
-**Q11. (UPPCS Pre 2018)** Which of the following animals can live for the longest duration without drinking water?  
-A. Giraffe  
-B. Camel  
-C. Kangaroo  
-D. Kangaroo rat  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Kangaroo rat)  
-**Detailed Explanation:**
-- The **Kangaroo rat** (*Dipodomys*) of the American desert can survive its entire life without ever drinking water, fulfilling its moisture requirement through internal metabolic water produced during cellular oxidation of dietary fats.
-</details>
-
-**Q12. (UPPCS Pre 2017)** In which of the following animals hooves are not found?  
-A. Deer  
-B. Jackal  
-C. Zebra  
-D. Horse  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Jackal)  
-**Detailed Explanation:**
-- Deer, zebra, and horses are ungulates having hooves on their feet.
-- Jackals belong to the dog family (**Canidae**; *Canis aureus*); their feet are padded with digits ending in curved, non-retractile nails/claws, **not hooves**.
-</details>
-
-**Q13. (UPPCS Mains 2006)** Nilgai belongs to which of the following families?  
-A. Cow  
-B. Goat  
-C. Sheep  
-D. Deer  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Deer / Antelope — Family Bovidae)  
-**Detailed Explanation:**
-- Nilgai (*Boselaphus tragocamelus*) is the **largest Asian antelope**. While taxonomically within Bovidae, it is deer-like in appearance and exhibits permanent hollow horns (hence option Deer is accepted in PSC keys as deer-like antelope).
-</details>
-
-**Q14. (UPPCS Pre 2017)** Which of the following has the largest brain in proportion to its body size?  
-A. Ant  
-B. Elephant  
-C. Dolphin  
-D. Human Being  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Ant)  
-**Detailed Explanation:**
-- The **Ant** has the largest brain in proportion to its total body weight (approaching ~1:7 or ~14% in some species).
-- Human brain is ~1.5–2% of body weight (~1.35 kg); elephant brain (~4.8 kg) is less than 0.1% of body weight; sperm whale brain (~7 kg) is ~0.02% of body weight.
-</details>
-
-**Q15. (UPPCS Pre 2016)** Smallest man-like ape is:  
-A. Gibbon  
-B. Chimpanzee  
-C. Gorilla  
-D. Orangutan  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Gibbon)  
-**Detailed Explanation:**
-- The gorilla, chimpanzee, and orangutan are "great apes" (family Hominidae).
-- The **Gibbon** (family Hylobatidae) is designated as the "lesser ape"; it is the smallest, cleanest, and gentlest man-like ape.
-</details>
-
-**Q16. (UPPCS Mains 2010)** Which one of the following varieties of dogs is unable to bark?  
-A. Dingo  
-B. Alsatian  
-C. Dalmatian  
-D. Labrador  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Dingo)  
-**Detailed Explanation:**
-- The **Dingo** (*Canis lupus dingo*), an Australian wild dog, does not bark; it howls like a wolf.
-</details>
-
-**Q17. (UPPCS Mains 2008)** The bear commonly performing on streets is:  
-A. Sloth bear  
-B. Sun bear  
-C. Brown bear  
-D. Cat bear  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Sloth bear)  
-**Detailed Explanation:**
-- The shaggy-coated bear traditionally used by Madari street performers in India is the **Sloth bear** (*Melursus ursinus*).
-</details>
-
-**Q18. (UPPCS Mains 2017)** Which of the following is not one of the animals that has been taught to use language with some success?  
-A. Chimpanzee  
-B. Parrot  
-C. Dog  
-D. Dolphin  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Dog)  
-**Detailed Explanation:**
-- Chimpanzees (sign language), African Grey Parrots (vocal symbolic speech), and Dolphins (acoustic/symbolic cues) have demonstrated cognitive language comprehension. Dogs respond to commands/tones but cannot use symbolic language.
-</details>
-
-**Q19. (UPPCS Pre 2013 / RO/ARO 2016)** Three-chambered heart is found in:  
-A. Mammals  
-B. Birds  
-C. Amphibians  
-D. Pisces  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Amphibians)  
-**Detailed Explanation:**
-- Amphibians (frogs, toads) and most reptiles have a 3-chambered heart (2 atria + 1 ventricle).
-- Pisces have 2 chambers; birds and mammals have 4 chambers.
-</details>
-
-**Q20. (UPPCS RO/ARO Re-Exam 2023)** Given below are two statements, one labelled as Assertion (A) and other as Reason (R):  
-Assertion (A): Amphibians can tolerate mixing of oxygenated and deoxygenated blood.  
-Reason (R): Amphibians are animals with two-chambered heart.  
-
-Select the correct answer using the codes given below:  
-A. Assertion (A) is false, but Reason (R) is true.  
-B. Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of Assertion (A).  
-C. Assertion (A) is true, but Reason (R) is false.  
-D. Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of Assertion (A).  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Assertion (A) is true, but Reason (R) is false)  
-**Detailed Explanation:**
-- Amphibians have a **3-chambered heart** (2 atria + 1 ventricle), not 2-chambered. In the single ventricle, blood partially mixes, which amphibian metabolic rates tolerate. Two-chambered heart is characteristic of fishes.
-</details>
-
-**Q21. (UPPCS Spl. Mains 2004)** Which out of the following does not have a gallbladder?  
-A. Camel  
-B. Giraffe  
-C. Rat  
-D. Fish  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **\*** (Camel, Giraffe, Rat all lack gallbladder)  
-**Detailed Explanation:**
-- Animals that naturally lack a gallbladder include: all members of the deer family (except musk deer), all equines (horses, zebras), camels, giraffes, elephants, rhinoceroses, whales, rats, and doves.
-</details>
-
-**Q22. (UPPCS Mains 2004)** The largest invertebrate is:  
-A. Octopus  
-B. Squid  
-C. Coral  
-D. Jellyfish  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Squid)  
-**Detailed Explanation:**
-- The **Colossal Squid** (*Mesonychoteuthis hamiltoni*) and **Giant Squid** (*Architeuthis dux*) are the largest living invertebrates, measuring 12–18 metres in length.
-</details>
-
-**Q23. (UPPCS Spl. Pre 2008 / UDA Mains 2010)** Which one of the following is not an insect?  
-A. Bed bug  
-B. Spider  
-C. House fly  
-D. Mosquito  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Spider)  
-**Detailed Explanation:**
-- Insects have **3 pairs of legs (6 legs)** and 3 body tagmata.
-- Spiders belong to Class **Arachnida**; they have **4 pairs of legs (8 legs)** and 2 body regions (cephalothorax and abdomen); hence a spider is not an insect.
-</details>
-
-**Q24. (UPPCS RO/ARO 2021 / 2017)** The silk produced by spiders is called:  
-A. Tussar silk  
-B. Gossamer silk  
-C. Munga silk  
-D. Ahimsa silk  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Gossamer silk)  
-**Detailed Explanation:**
-- Spider silk protein fiber is known as **Gossamer silk**. It is renowned for possessing tensile strength comparable to high-grade steel combined with extraordinary elastic flexibility.
-</details>
-
-**Q25. (UPPCS Pre 1996)** Which one of the following is a secretion from the body of an insect?  
-A. Pearl  
-B. Coral  
-C. Lac  
-D. Gum  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Lac)  
-**Detailed Explanation:**
-- **Lac** is a resinous secretion produced by dermal glands across the body of female lac insects (***Kerria lacca*** / *Laccifer lacca*). Pearl is secreted by a bivalve mollusc; coral is formed by cnidarians.
-</details>
-
-**Q26. (UPPCS RO/ARO Re-Exam 2023)** Which of the following is not a beneficial insect?  
-A. *Helicoverpa armigera*  
-B. *Bombyx mori*  
-C. *Laccifer lacca*  
-D. *Apis mellifera*  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (*Helicoverpa armigera*)  
-**Detailed Explanation:**
-- *Helicoverpa armigera* (Cotton bollworm) is a destructive agricultural caterpillar pest of cotton, tomato, and maize.
-- *Bombyx mori* (silk), *Laccifer lacca* (lac), and *Apis mellifera* (honey/pollination) are highly beneficial.
-</details>
-
-**Q27. (UPPCS RO/ARO Pre 2016)** Poisonous fangs of a snake are modified form of:  
-A. Mandibular teeth  
-B. Palatine teeth  
-C. Canine teeth  
-D. Maxillary teeth  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Maxillary teeth)  
-**Detailed Explanation:**
-- Venomous fangs in snakes are sharp, hollow or grooved modified **maxillary teeth** of the upper jaw connected directly to the venom ducts.
-</details>
-
-**Q28. (UPPCS RO/ARO Pre 2016)** Consider the following statements about mosquitoes:  
-1. Only males suck blood  
-2. Only females suck blood  
-3. Females suck plant juices  
-4. Males have bigger wings than females  
-5. Females have bigger wings than males  
-
-Of these:  
-A. Only 2 and 4 are correct  
-B. Only 1 and 2 are correct  
-C. Only 3 and 5 are correct  
-D. Only 2 and 5 are correct  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Only 2 and 5 are correct)  
-**Detailed Explanation:**
-- Only **female mosquitoes** possess piercing-sucking mouthparts to suck vertebrate blood (required for egg development).
-- Males feed exclusively on flower nectar and fruit juices.
-- Females generally possess larger wings and larger body sizes than males.
-</details>
-
-**Q29. (UPPCS Spl. Mains 2004 / IAS Pre 2003)** Octopus is:  
-A. An arthropod  
-B. An echinoderm  
-C. A hemichordate  
-D. A mollusc  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (A mollusc)  
-**Detailed Explanation:**
-- Octopus (devilfish) is a soft-bodied cephalopod mollusc possessing 8 suckered arms, bilateral symmetry, and no shell.
-</details>
-
-**Q30. (UPPCS Mains 2003)** Which one of the following is produced through viticulture?  
-A. Silk  
-B. Earthworm  
-C. Honey  
-D. Grapes  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Grapes)  
-**Detailed Explanation:**
-- Viticulture is the science, production, and cultivation of grapes.
-</details>
-
----
-
-## Complete PYQ Bank — UKPCS
-
-**Q1. (UKPCS Pre 2021)** The sperms used for artificial insemination of cattle are stored in:  
-A. Liquid nitrogen  
-B. Dry ice  
-C. Liquid oxygen  
-D. Liquid ammonia  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Liquid nitrogen)  
-**Detailed Explanation:**
-- Bull semen for artificial insemination is preserved via cryopreservation in **Liquid Nitrogen at $-196^\circ\text{C}$** to maintain sperm motility and fertilising capacity for decades.
-</details>
-
-**Q2. (UKPCS Mains 2002)** The study of snakes is known as:  
-A. Serpentology  
-B. Ornithology  
-C. Herpetology  
-D. Ichthyology  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Serpentology)  
-**Detailed Explanation:**
-- Serpentology (Ophiology) is the branch of zoology dealing with snakes. Herpetology deals with both amphibians and reptiles; Ornithology deals with birds; Ichthyology deals with fishes.
-</details>
-
-**Q3. (UKPCS Mains 2002)** Termites are also known as:  
-A. Ants  
-B. Red ants  
-C. White ants  
-D. Black ants  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (White ants)  
-**Detailed Explanation:**
-- Termites are eusocial insects classified under the infraorder Isoptera (now within Blattodea); commonly known as **White ants**.
-</details>
-
-**Q4. (UKPCS Mains 2002)** Glow-worm is:  
-A. A mollusca  
-B. An insect  
-C. A worm  
-D. A nematode  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (An insect)  
-**Detailed Explanation:**
-- A glow-worm is a luminous **insect** (beetle) whose light organs emit light via the enzyme luciferase.
-</details>
-
-**Q5. (UKPCS Mains 2002)** White leg-horn is a variety of:  
-A. Parrot  
-B. Peacock  
-C. Fowl  
-D. Owl  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Fowl)  
-**Detailed Explanation:**
-- White Leghorn is an exotic Mediterranean breed of **fowl (chicken)**, world-famous as the highest-producing commercial egg layer.
-</details>
-
-**Q6. (UKPCS Pre 2010)** Which one of the following creatures has no blood but respires?  
-A. Hydra  
-B. Cockroach  
-C. Earthworm  
-D. Fish  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Hydra)  
-**Detailed Explanation:**
-- *Hydra* (Phylum Cnidaria) lacks any blood or vascular circulatory system. Both gaseous exchange and excretion occur by direct simple diffusion across its body wall.
-</details>
-
-**Q7. (UKPCS Pre 2003)** From the following options, seal is the species of:  
-A. Fish  
-B. Bird  
-C. Reptiles  
-D. Mammal  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Mammal)  
-**Detailed Explanation:**
-- Seals are semiaquatic marine **mammals** of the clade Pinnipedia (order Carnivora); warm-blooded, breathe with lungs, give live birth and nurse pups with milk.
-</details>
-
-**Q8. (UKPCS Pre 2005)** Which of the following group of animals are nocturnal animals?  
-A. Housefly, Bedbug, Parrot  
-B. Mosquito, Bat, Owl  
-C. Mosquito, Sparrow, Deer  
-D. Owl, Bats, Dog  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Mosquito, Bat, Owl)  
-**Detailed Explanation:**
-- Mosquitoes, bats, and owls are active predominantly after dark; have adapted vision, hearing, or echolocation.
-</details>
-
----
-
-## Complete PYQ Bank — BPSC, RAS, MPPCS, CGPCS & IAS (Animal Biology & Taxonomy)
-
-**Q1. (71st BPSC Pre 2025)** Who was first to use the characteristics of vascular tissues in the classification of plants?  
-A. Engler and Prantl  
-B. Bentham and Hooker  
-C. A.P. de Candolle  
-D. More than one of the above  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (A.P. de Candolle)  
-**Detailed Explanation:**
-- Swiss botanist **Augustin Pyramus de Candolle** first used internal vascular anatomy to classify plants into *Vasculares* (with vascular bundles) and *Cellulares* (without vascular bundles). He also coined the term **"Taxonomy"** in 1813.
-</details>
-
-**Q2. (67th BPSC Re-Exam 2022)** The animal without red blood cells is:  
-A. Frog  
-B. Earthworm  
-C. Snake  
-D. Peacock  
-E. None of the above / More than one of the above  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Earthworm)  
-**Detailed Explanation:**
-- Earthworms lack red blood corpuscles (RBCs). Their blood is red because a special type of haemoglobin called **erythrocruorin** is dissolved directly in the plasma.
-</details>
-
-**Q3. (68th BPSC Pre 2022)** Female *Anopheles* can be distinguished from female *Culex* because it sits:  
-A. At right angle to the surface of substratum  
-B. At an angle with substratum  
-C. Parallel to the surface of substratum  
-D. More than one of the above  
-E. None of the above  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (At an angle with substratum)  
-**Detailed Explanation:**
-- Female *Anopheles* rests with its body making an angle of approximately **45° to the substratum** (abdomen tilted up), whereas *Culex* rests with its body **parallel** to the surface.
-</details>
-
-**Q4. (40th BPSC Pre 1995)** Dolphins are classified in:  
-A. Fish  
-B. Amphibians  
-C. Reptile  
-D. Mammals  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Mammals)  
-**Detailed Explanation:**
-- Dolphins are highly intelligent aquatic **mammals** of order Cetacea; breathe air via blowholes, maintain warm blood, and nurse calves with milk.
-</details>
-
-**Q5. (39th BPSC Pre 1994)** Which is an atrocious animal?  
-A. Penguin  
-B. Whale  
-C. Otter  
-D. Tortoise  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Otter)  
-**Detailed Explanation:**
-- Otters (subfamily Lutrinae, family Mustelidae) are ferocious, aggressive semiaquatic carnivorous predators.
-</details>
-
-**Q6. (38th BPSC Pre 1992)** Amphibians are:  
-A. Very fastly moving boats  
-B. Animals living in water only  
-C. Animals living on land only  
-D. Animals living equally in water and on land both  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Animals living equally in water and on land both)  
-**Detailed Explanation:**
-- Derived from Greek *amphibios* ("living a double life"); cold-blooded vertebrates adapted to exploit both aquatic and terrestrial habitats.
-</details>
-
-**Q7. (Chhattisgarh PCS Pre 2024)** What is the scientific name of Leopard?  
-A. *Panthera leo*  
-B. *Panthera pardus*  
-C. *Panthera tigris*  
-D. *Panthera uncia*  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (*Panthera pardus*)  
-**Detailed Explanation:**
-- Leopard = ***Panthera pardus***. Lion = *Panthera leo*; Tiger = *Panthera tigris*; Snow Leopard = *Panthera uncia*; Jaguar = *Panthera onca*.
-</details>
-
-**Q8. (Chhattisgarh PCS Pre 2011)** How many bones are in Shark Fish?  
-A. 100  
-B. 0  
-C. 200  
-D. 300  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (0)  
-**Detailed Explanation:**
-- Sharks belong to Class Chondrichthyes (cartilaginous fish); their entire skeleton consists of cartilage and connective tissue, containing **zero true bones**.
-</details>
-
-**Q9. (MPPCS Pre 2012)** Which snake of the following is nonpoisonous?  
-A. Cobra  
-B. Viper  
-C. Coral-Snake  
-D. Python  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Python)  
-**Detailed Explanation:**
-- Pythons (family Pythonidae) are giant **non-venomous** constrictors that kill prey by suffocation rather than venom.
-</details>
-
-**Q10. (MPPCS Pre 2010)** Mammal capable of flying is:  
-A. Jaguar  
-B. Ostrich  
-C. Pelican  
-D. Bat  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Bat)  
-**Detailed Explanation:**
-- Bats (order Chiroptera) are the only mammals naturally capable of true sustained powered flight.
-</details>
-
-**Q11. (RAS/RTS Pre 1997)** Which one of the following is a true fish?  
-A. Starfish  
-B. Jellyfish  
-C. Hagfish  
-D. Seahorse  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Seahorse)  
-**Detailed Explanation:**
-- Seahorse (*Hippocampus*) is a true bony fish. Starfish is an echinoderm, Jellyfish is a cnidarian, and Hagfish is a jawless cyclostome chordate.
-</details>
-
-**Q12. (IAS Pre 2025)** Regarding Peacock tarantula (Gooty tarantula), consider the following statements:  
-I. It is an omnivorous crustacean.  
-II. Its natural habitat in India is only limited to some forest areas.  
-III. In its natural habitat, it is an arboreal species.  
-
-Which of the statements given above is/are correct?  
-A. I only  
-B. I and III  
-C. II only  
-D. II and III  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (II and III)  
-**Detailed Explanation:**
-- Statement I is incorrect: The Peacock tarantula (*Poecilotheria metallica*) is an **insectivorous spider (Arachnid)**, NOT a crustacean.
-- Statements II and III are correct: It is Critically Endangered, strictly arboreal (tree-dwelling), and endemic to deciduous forest tracts of Andhra Pradesh (sighted in Pakkam Malai in 2019).
-</details>
-
-**Q13. (IAS Pre 2024)** Consider the following statements:  
-1. Lions do not have a particular breeding season.  
-2. Unlike most other big cats, cheetahs do not roar.  
-3. Unlike male lions, male leopards do not proclaim their territory by scent marking.  
-
-Which of the statements given above are correct?  
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
-D. 1, 2 and 3  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (1 and 2 only)  
-**Detailed Explanation:**
-- Statement 1 is correct: Lions breed throughout the year without a fixed season.
-- Statement 2 is correct: Cheetahs do not roar; they purr, chirp, growl, and meow.
-- Statement 3 is incorrect: Male and female leopards actively scent-mark territory with urine and cheek secretions.
-</details>
-
-**Q14. (IAS Pre 2024)** The organisms "Cicada, Froghopper and Pond skater" are:  
-A. Birds  
-B. Fish  
-C. Insects  
-D. Reptiles  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Insects)  
-**Detailed Explanation:**
-- Cicadas (Cicadoidea), Froghoppers (Cercopoidea), and Pond skaters (*Gerridae*) are all **insects** belonging to order Hemiptera.
-</details>
-
-**Q15. (IAS Pre 2024)** Consider the following:  
-1. Carabid beetles  
-2. Centipedes  
-3. Flies  
-4. Termites  
-5. Wasps  
-
-Parasitoid species are found in how many of the above kind of organisms?  
-A. Only two  
-B. Only three  
-C. Only four  
-D. All five  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Only three)  
-**Detailed Explanation:**
-- Parasitoid larvae feed on and eventually kill their host. Parasitoids occur among **Wasps, Flies, and Carabid beetles** (3 of the 5). Centipedes are generalist predators; termites are detritivores.
-</details>
-
-**Q16. (IAS Pre 2024)** Consider the following:  
-1. Butterflies  
-2. Fish  
-3. Frogs  
-
-How many of the above have poisonous species among them?  
-A. Only one  
-B. Only two  
-C. All three  
-D. None  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (All three)  
-**Detailed Explanation:**
-- Toxic/poisonous species occur among **butterflies** (African Giant Swallowtail, Monarch), **fish** (Puffer fish, Reef stonefish), and **frogs** (Poison dart frogs).
-</details>
-
-**Q17. (IAS Pre 2023)** Consider the following statements regarding the Indian squirrels:  
-1. They build nests by making burrows in the ground.  
-2. They store their food materials like nuts and seeds in the ground.  
-3. They are omnivorous.  
-
-How many of the above statements are correct?  
-A. Only one  
-B. Only two  
-C. All three  
-D. None of these  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Only two — statements 2 and 3)  
-**Detailed Explanation:**
-- Statement 1 is incorrect: Indian squirrels are arboreal and build nests (dreys) **in trees**, not burrows in the ground.
-- Statement 2 is correct: They hoard/bury seeds and nuts in the ground.
-- Statement 3 is correct: They eat nuts, fruits, seeds, insects, and small bird eggs (omnivorous).
-</details>
-
-**Q18. (IAS Pre 2023)** Consider the following statements:  
-Statement-I: Marsupials are not naturally found in India.  
-Statement-II: Marsupials can thrive only in montane grasslands with no predators.  
-
-Which one of the following is correct?  
-A. Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I  
-B. Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I  
-C. Statement-I is correct but Statement-II is incorrect  
-D. Statement-I is incorrect but Statement-II is correct  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Statement-I is correct but Statement-II is incorrect)  
-**Detailed Explanation:**
-- Marsupials are native strictly to Australasia and the Americas (none in India). However, marsupials inhabit diverse ecosystems (forests, deserts, savannas), not exclusively predator-free montane grasslands.
-</details>
-
-**Q19. (IAS Pre 2023)** Which one of the following makes a tool with a stick to scrape insects from a hole in a tree or a log of wood?  
-A. Fishing cat  
-B. Orangutan  
-C. Otter  
-D. Sloth bear  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Orangutan)  
-**Detailed Explanation:**
-- Orangutans exhibit sophisticated tool use, crafting sticks to extract insects from tree cavities and seeds from spiny fruits.
-</details>
-
-**Q20. (IAS Pre 2022)** Which of the following is not a bird?  
-A. Golden Mahseer  
-B. Indian Nightjar  
-C. Spoonbill  
-D. White Ibis  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Golden Mahseer)  
-**Detailed Explanation:**
-- Golden Mahseer (*Tor putitora*) is an endangered species of **cyprinid fish** found in rapid Himalayan streams. The other three are birds (Aves).
-</details>
-
-**Q21. (IAS Pre 2021)** Consider the following animals:  
-1. Hedgehog  
-2. Marmot  
-3. Pangolin  
-
-To reduce the chance of being captured by predators, which of the above organisms rolls up and protects its vulnerable parts?  
-A. 1 and 2  
-B. 2 only  
-C. 3 only  
-D. 1 and 3  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (1 and 3)  
-**Detailed Explanation:**
-- **Hedgehogs** and **Pangolins** roll into tight defensive balls. Marmots do not roll up; they escape into subterranean burrows.
-</details>
-
-**Q22. (IAS Pre 2021)** Which of the following are detritivores?  
-1. Earthworms  
-2. Jellyfish  
-3. Millipedes  
-4. Seahorses  
-5. Woodlice  
-
-Select the correct answer using the code given below:  
-A. 1, 2 and 4 only  
-B. 2, 3, 4 and 5 only  
-C. 1, 3 and 5 only  
-D. 1, 2, 3, 4 and 5  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (1, 3 and 5 only)  
-**Detailed Explanation:**
-- Earthworms, millipedes, and woodlice consume decaying organic detritus. Seahorses and jellyfish are predatory consumers.
-</details>
-
-**Q23. (IAS Pre 2021)** Which one of the following is a filter feeder?  
-A. Catfish  
-B. Octopus  
-C. Oyster  
-D. Pelican  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Oyster)  
-**Detailed Explanation:**
-- Oysters strain plankton and organic matter from water through specialized gill sieves.
-</details>
-
-**Q24. (IAS Pre 2019)** Consider the following statements:  
-1. Some species of turtles are herbivores.  
-2. Some species of fish are herbivores.  
-3. Some species of marine mammals are herbivores.  
-4. Some species of snakes are viviparous.  
-
-Which of the statements given above are correct?  
-A. 1 and 3 only  
-B. 2, 3 and 4 only  
-C. 2 and 4 only  
-D. 1, 2, 3 and 4  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (1, 2, 3 and 4)  
-**Detailed Explanation:**
-- Adult green sea turtles are herbivorous; parrot fish graze on algae; dugongs / sea cows are herbivorous mammals; green anacondas are viviparous snakes giving live birth.
-</details>
-
-**Q25. (IAS Pre 2010 / 1995)** King Cobra is the only snake that makes its own nest. Why does it make its nest?  
-A. It is a snake-eater and the nest helps attract other snakes  
-B. It is a viviparous snake and needs a nest to give birth  
-C. It is an oviparous snake and lays its eggs in the nest and guards the nest until they are hatched  
-D. It is a large, cold blooded animal and needs a nest to hibernate  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (It is an oviparous snake and lays its eggs in the nest and guards the nest until they are hatched)  
-**Detailed Explanation:**
-- Female King Cobra scrapes leaf litter to build a nesting mound, deposits 20–50 eggs, and aggressively guards the nest until hatching.
-</details>
-
-**Q26. (IAS Pre 2008)** In which one of the following kinds of organisms is the phenomenon found wherein the female kills the male after copulation?  
-A. Dragonfly  
-B. Honeybee  
-C. Spider  
-D. Pit Viper  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Spider)  
-**Detailed Explanation:**
-- Sexual cannibalism is well-documented in many spider species, where the larger female consumes the male during or after mating.
-</details>
-
-**Q27. (IAS Pre 2001)** Consider the following statements:  
-1. Tapeworm is a hermaphrodite.  
-2. Roundworm has separate sexes.  
-3. Filaria is caused by a nematode.  
-4. Guineaworm is an annelid.  
-
-Which of these are correct?  
-A. 1 and 2  
-B. 1, 2 and 3  
-C. 3 and 4  
-D. 2, 3 and 4  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (1, 2 and 3)  
-**Detailed Explanation:**
-- Statement 4 is incorrect: Guineaworm (*Dracunculus medinensis*) is a **nematode (roundworm)**, NOT an annelid.
-</details>
-
-**Q28. (IAS Pre 1993)** Venom glands of snakes are homologous to:  
-A. Electric organs of fishes  
-B. Stings of rays  
-C. Sebaceous glands of mammals  
-D. Salivary glands of vertebrates  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Salivary glands of vertebrates)  
-**Detailed Explanation:**
-- Snake venom glands are modified **salivary glands**; venom is modified saliva evolved for prey immobilisation and digestion.
-</details>
-
----
-
-## Practice Zone — UPPCS Format Drill
-
-**Q1.** With reference to respiration in animals, which of the following statements is/are correct?
-1. Spiders and scorpions breathe primarily through book lungs.
-2. Insects transport oxygen throughout their body primarily via haemocyanin dissolved in haemolymph.
-3. Whales and dolphins possess branchial gills during their embryonic stages only.
-
-Select the correct answer from the code given below:  
-A. Only 1  
-B. 1 and 2  
-C. 2 and 3  
-D. 1, 2 and 3  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Only 1)  
-**Detailed Explanation:**
-- Statement 1 is correct: Arachnids (spiders, scorpions) breathe via vascularised **book lungs**.
-- Statement 2 is incorrect: Insect haemolymph completely lacks respiratory pigments; oxygen is transported via the tracheal system.
-- Statement 3 is incorrect: Whales and dolphins are true mammals that respire exclusively through lungs and blowholes throughout life; they never possess functional gills.
-</details>
-
-**Q2.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).  
-Assertion (A): Natural silk burns with the characteristic smell of burning hair, whereas pure cotton burns with the smell of burning paper.  
-Reason (R): Natural silk is an animal protein composed of fibroin, whereas cotton is a plant polysaccharide composed of cellulose.  
-
-Select the correct answer from the code given below:  
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-B. (A) is false, but (R) is true  
-C. (A) is true, but (R) is false  
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Both (A) and (R) are true and (R) is the correct explanation of (A))  
-**Detailed Explanation:**
-- Silk and hair are both proteins containing nitrogenous peptide bonds that emit the smell of burning keratin/fibroin when burned. Cotton and paper are both cellulose (plant carbohydrates) that burn cleanly with a papery aroma. R directly explains A.
-</details>
-
-**Q3.** Match List-I with List-II:
-
-| List-I (Animal Product / Breed) | List-II (Source Organism / Origin) |
-|---|---|
-| A. Pashmina | 1. *Pinctada vulgaris* (Mollusc) |
-| B. Muga Silk | 2. Changthangi Goat of Ladakh |
-| C. Pearl | 3. *Antheraea assamensis* of Assam |
-| D. Black Gold Buffalo | 4. Murrah breed of Haryana |
-
-Select the correct answer from the code given below:  
-A. A-2, B-3, C-1, D-4  
-B. A-3, B-2, C-1, D-4  
-C. A-2, B-1, C-3, D-4  
-D. A-4, B-3, C-1, D-2  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (A-2, B-3, C-1, D-4)  
-**Detailed Explanation:**
-- Pashmina = Fine undercoat of Changthangi goat (A-2).
-- Muga Silk = Golden silk of *Antheraea assamensis* in Assam (B-3).
-- Pearl = Secretion of pearl oyster *Pinctada vulgaris* (C-1).
-- Black Gold = Murrah buffalo of Haryana (D-4).
-</details>
-
-**Q4.** Which of the following animal groups has a four-chambered heart?  
-A. Shark, Frog, Lizard  
-B. Crocodile, Pigeon, Whale  
-C. Rohu, Chameleon, Ostrich  
-D. Toad, Cobra, Bat  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Crocodile, Pigeon, Whale)  
-**Detailed Explanation:**
-- All birds (pigeon) and mammals (whale) have a 4-chambered heart. Among reptiles, the **crocodile** is the unique exception that possesses a fully 4-chambered heart.
-</details>
-
-**Q5.** Which of the following buffalo breeds is indigenous to Uttar Pradesh and is renowned for the highest milk fat percentage (up to 13%)?  
-A. Murrah  
-B. Jaffarabadi  
-C. Bhadawari  
-D. Nili-Ravi  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Bhadawari)  
-**Detailed Explanation:**
-- The **Bhadawari** buffalo, native to the Agra–Etawah belt of UP and Bhind–Morena in MP, yields milk with the highest fat percentage (up to 12.5–13%).
-</details>
-
-**Q6.** The water vascular (ambulacral) system operating tube feet is the unique distinguishing characteristic of which animal phylum?  
-A. Mollusca  
-B. Arthropoda  
-C. Echinodermata  
-D. Annelida  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Echinodermata)  
-**Detailed Explanation:**
-- Echinoderms (starfish, sea urchins, sea cucumbers) uniquely possess a hydraulic water vascular system for locomotion and prey capture.
-</details>
-
-**Q7.** Which of the following animals is a true pseudoruminant, possessing an active fermentation rumen but lacking the omasum?  
-A. Cow  
-B. Camel  
-C. Goat  
-D. Buffalo  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Camel)  
-**Detailed Explanation:**
-- The camel chews the cud and has a rumen and reticulum, but completely lacks the third chamber (omasum), classifying it as a pseudoruminant.
-</details>
-
-**Q8.** Flame cells (solenocytes) are the specialized excretory and osmoregulatory structures of:  
-A. Roundworms (Nematoda)  
-B. Segmented worms (Annelida)  
-C. Flatworms (Platyhelminthes)  
-D. Sponges (Porifera)  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Flatworms / Platyhelminthes)  
-**Detailed Explanation:**
-- Flame cells are found in flatworms (*Planaria*, *Taenia*, *Fasciola*). Annelids have nephridia; nematodes have renette cells.
-</details>
-
-**Q9.** With reference to livestock revolutions in India, which of the following pairs is **not** correctly matched?  
-A. White Revolution — Milk production (Dr. Verghese Kurien)  
-B. Silver Revolution — Egg and poultry production  
-C. Blue Revolution — Fish production  
-D. Yellow Revolution — Cattle meat production  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Yellow Revolution — Cattle meat production)  
-**Detailed Explanation:**
-- Yellow Revolution refers to **Oilseeds production** (mustard, sunflower). Meat and tomato production is referred to as the **Red Revolution**.
-</details>
-
-**Q10.** The Kadaknath fowl, renowned for its black-coloured meat, bones, and internal organs, is native to which Indian state?  
-A. Uttar Pradesh  
-B. Madhya Pradesh  
-C. Rajasthan  
-D. Andhra Pradesh  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Madhya Pradesh)  
-**Detailed Explanation:**
-- Kadaknath (Kalamasi) is native to Jhabua and Dhar districts of **Madhya Pradesh** and holds a GI tag. Its black colour is caused by melanin hyper-pigmentation.
-</details>
-
-**Q11.** Which of the following is an egg-laying mammal (Monotreme)?  
-A. Kangaroo  
-B. Bat  
-C. Duck-billed Platypus  
-D. Blue Whale  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Duck-billed Platypus)  
-**Detailed Explanation:**
-- The Duck-billed Platypus (*Ornithorhynchus*) and Echidna are the world's only oviparous (egg-laying) mammals.
-</details>
-
-**Q12.** In honeybee colonies, the famous "waggle dance" performed by scout bees communicates:  
-A. Threat of predatory hornets  
-B. Presence of queen bee pheromone  
-C. Distance and direction of distant floral nectar sources  
-D. Swarming time  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Distance and direction of distant floral nectar sources)  
-**Detailed Explanation:**
-- Karl von Frisch demonstrated that the waggle dance communicates distance ($>50\text{ m}$) and angle relative to the sun to locate rich nectar flowers.
-</details>
-
-**Q13.** Which of the following silkworms feeds on the leaves of Arjun (*Terminalia arjuna*) and Asan trees?  
-A. Mulberry silkworm (*Bombyx mori*)  
-B. Tasar silkworm (*Antheraea mylitta*)  
-C. Muga silkworm (*Antheraea assamensis*)  
-D. Eri silkworm (*Samia ricini*)  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Tasar silkworm)  
-**Detailed Explanation:**
-- Tasar silkworms feed on Arjun and Asan trees in Jharkhand and Chhattisgarh. Muga feeds on Som/Soalu; Eri feeds on Castor; Mulberry feeds on *Morus*.
-</details>
-
-**Q14.** Foot and Mouth Disease (FMD) affecting cloven-hoofed domestic livestock is caused by a:  
-A. Bacterium  
-B. Fungus  
-C. Virus  
-D. Protozoan  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Virus)  
-**Detailed Explanation:**
-- FMD is an acute, contagious vesicular disease caused by an **Aphthovirus** (Picornaviridae RNA virus).
-</details>
-
-**Q15.** The Ganges River Dolphin (*Platanista gangetica*), India's National Aquatic Animal, navigates and hunts prey using:  
-A. Keen underwater vision  
-B. Electro-reception via ampullae  
-C. High-frequency ultrasonic echolocation  
-D. Olfactory scent trails  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (High-frequency ultrasonic echolocation)  
-**Detailed Explanation:**
-- The Ganges river dolphin has a rudimentary lensless eye (functionally blind) and relies strictly on ultrasonic bio-sonar / echolocation to navigate muddy river waters.
-</details>
-
-**Q16.** Which of the following cattle breeds of India is renowned for its majestic gait called "Sawai Chal"?  
-A. Sahiwal  
-B. Kankrej  
-C. Hariana  
-D. Amritmahal  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Kankrej)  
-**Detailed Explanation:**
-- Kankrej cattle of Gujarat are famous for their unique, dignified pacing stride known as *Sawai Chal*.
-</details>
-
-**Q17.** Blue-baby syndrome is linked to nitrates in water, but which respiratory pigment gives crustaceans (prawns and crabs) their bluish blood?  
-A. Haemoglobin  
-B. Haemocyanin  
-C. Chlorocruorin  
-D. Haemoerythrin  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Haemocyanin)  
-**Detailed Explanation:**
-- Haemocyanin contains copper atoms coordinated to protein, giving oxygenated blood a distinct blue appearance.
-</details>
-
-**Q18.** Which of the following is **not** a true fish?  
-A. Rohu  
-B. Dogfish  
-C. Cuttlefish  
-D. Flying fish  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Cuttlefish)  
-**Detailed Explanation:**
-- Cuttlefish (*Sepia*) is a marine cephalopod mollusc. Rohu (bony fish), Dogfish (cartilaginous shark), and Flying fish are true fish.
-</details>
-
-**Q19.** An animal that enters into prolonged dormancy to avoid summer heat and desiccation is exhibiting:  
-A. Hibernation  
-B. Aestivation  
-C. Diapause  
-D. Cryptobiosis  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Aestivation)  
-**Detailed Explanation:**
-- Aestivation is summer sleep (e.g. lungfish, snails, desert toads); hibernation is winter sleep (e.g. bears, temperate frogs).
-</details>
-
-**Q20.** Shahtoosh shawls, whose commercial trade is banned worldwide under CITES, are prepared from the fleece of:  
-A. Changthangi goat  
-B. Angora rabbit  
-C. Chiru (Tibetan Antelope)  
-D. Merino sheep  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Chiru / Tibetan Antelope)  
-**Detailed Explanation:**
-- Shahtoosh is made from the down hair of the Tibetan Antelope (*Pantholops hodgsonii*), which is killed to harvest the fleece; hence legally banned.
-</details>
-
-**Q21.** Which organ in the earthworm acts as a grinder to pulverize soil particles and decaying organic debris?  
-A. Pharynx  
-B. Gizzard  
-C. Typhlosole  
-D. Stomach  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Gizzard)  
-**Detailed Explanation:**
-- The thick muscular gizzard (in segments 8–9) grinds soil particles using ingested grit.
-</details>
-
-**Q22.** Jamunapari is an outstanding breed of which domestic animal, native to Etawah district of Uttar Pradesh?  
-A. Buffalo  
-B. Cow  
-C. Goat  
-D. Sheep  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Goat)  
-**Detailed Explanation:**
-- Jamunapari is the largest dual-purpose dairy goat breed of India, native to the Chambal ravines of Etawah, UP.
-</details>
-
-**Q23.** The Ranikhet disease affecting poultry is caused by which pathogen?  
-A. *Bacillus anthracis*  
-B. Avian Paramyxovirus  
-C. *Salmonella pullorum*  
-D. *Pasteurella aviseptica*  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Avian Paramyxovirus)  
-**Detailed Explanation:**
-- Ranikhet (Newcastle disease) is caused by an Avian Paramyxovirus, characterized by breathing distress and twisted necks.
-</details>
-
-**Q24.** Lac is secreted by the lac insect (*Kerria lacca*) primarily from its:  
-A. Salivary glands  
-B. Dermal glands across the body  
-C. Malpighian tubules  
-D. Anal scent glands  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Dermal glands across the body)  
-**Detailed Explanation:**
-- The female lac insect secretes resin from cutaneous dermal glands across its entire body, forming an encrustation on twigs.
-</details>
-
-**Q25.** The only surviving wild population of the Asiatic Lion (*Panthera leo persica*) is confined to:  
-A. Jim Corbett National Park  
-B. Ranthambore Tiger Reserve  
-C. Greater Gir Landscape of Gujarat  
-D. Kaziranga National Park  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Greater Gir Landscape of Gujarat)  
-**Detailed Explanation:**
-- The Asiatic lion lives exclusively in the Gir forest and surrounding districts of the Saurashtra peninsula in Gujarat.
-</details>
-
-## Common Traps & Negative-Marking Eliminators
-
-1. **Pearl source**: Pearl comes from a **mollusc** (oyster), not an insect — silk, honey, and lac are insect products.
-2. **Animals named fish that are not fish**: Jellyfish, starfish, cuttlefish, crayfish, shellfish — none are true fishes.
-3. **Cold-blooded vs warm-blooded**: Amphibians and reptiles are **poikilotherms**; birds and mammals are **homeotherms**.
-4. **Marsupial vs placental**: Kangaroo is marsupial; whale and bat are placental mammals.
-5. **Natural silk**: Pure protein, so it **contains nitrogen**; cotton has none.
-6. **Honey bee caste**: Queen and workers are female; drones are male — drones develop from **unfertilised eggs** (parthenogenesis).
-7. **Lac insect**: *Kerria lacca* on host trees; lac is a **resinous secretion**, not a plant gum.
-8. **Snake locomotion**: Snakes have no limbs; movement uses **ribs and ventral scales**, not "legs that folded away" as a living trait.
-9. **Bird bones**: Pneumatic (air-filled) bones reduce weight — do not mark them as "solid heavy bones".
-10. **Ruminant stomach**: Four chambers — rumen, reticulum, omasum, abomasum; **abomasum** is the true glandular stomach.
-
-
----
 
 ## Bilingual Terminology -- Animal Biology and Husbandry
 
@@ -1982,6 +559,1150 @@ D. Kaziranga National Park
 | **Metamorphosis** (कायांतरण) | कायांतरण | Transformation from larva to adult (egg-larva-pupa-adult) |
 | **Parthenogenesis** (अनिषेकजनन) | अनिषेकजनन | Development from unfertilised egg; drone bees develop this way |
 | **Zoonosis** (जूनोसिस) | जूनोटिक रोग | Disease transmissible from animals to humans; e.g., rabies, plague |
+
+---
+
+## Complete PYQ Bank — UPPCS
+
+**Q-ST1. UPPCS Pre 2025**
+
+With reference to earthworms, which of the following statements is/are correct?
+1. Earthworms increase soil fertility and are known as friends of farmers.  
+2. Earthworms have two pairs of hearts.  
+
+Select the correct answer from the code given below:  
+A. Only 2  
+B. Neither 1 nor 2  
+C. Both 1 and 2  
+D. Only 1  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Only 1.
+
+**Ans: D.** Only 1
+</details>
+
+**Q-ST2. UPPCS Pre 2025**
+
+Which of the following statements is/are correct?
+1. Dolphins and whales breathe through blowholes.  
+2. Earthworms breathe through their skin.  
+
+Select the correct answer from the code given below:  
+A. Only 2  
+B. Neither 1 nor 2  
+C. Both 1 and 2  
+D. Only 1  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Statement 1 is correct: Whales and dolphins are air-breathing aquatic mammals that surface to inhale and exhale atmospheric air through blowholes located on top of their heads.
+
+**Ans: C.** Both 1 and 2
+</details>
+
+**Q-ST3. UPPCS Pre 2024**
+
+Plants and animals that live on land are called:
+A. Abiotic  
+B. Aquatic habitants  
+C. Terrestrial habitants  
+D. Biotic  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Organisms living on land are designated as terrestrial inhabitants; aquatic organisms inhabit fresh or marine waters; abiotic refers to non-living physical components of the environment.
+
+**Ans: C.** Terrestrial habitants
+</details>
+
+**Q-ST4. UPPCS Pre 2023**
+
+Desert-dwelling animals are called:
+A. Arboreal animals  
+B. Terrestrial animals  
+C. Fossorial animals  
+D. Xericole animals  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Animals adapted physiologically and morphologically to arid desert conditions are termed Xericole animals (e.g.
+
+**Ans: D.** Xericole animals
+</details>
+
+**Q-ST5. UPPCS Pre 2023**
+
+Which among the following is a constituent of natural silk?
+A. Phosphorus  
+B. Nitrogen  
+C. Magnesium  
+D. Potassium  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Natural silk is a pure animal protein filament composed of Fibroin and Sericin.
+
+**Ans: B.** Nitrogen
+</details>
+
+**Q-ST6. UPPCS Pre 2022**
+
+Which of the following mammals lays eggs?
+A. Hedgehog  
+B. Loris  
+C. Echidna  
+D. Kangaroo  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Echidna.
+
+**Ans: C.** Echidna
+</details>
+
+**Q-ST7. UPPCS Pre 2019**
+
+Which of the following substances is **not** a protein?
+A. Cotton  
+B. Hair  
+C. Spider silk  
+D. Hoof  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Cotton.
+
+**Ans: A.** Cotton
+</details>
+
+**Q-ST8. UPPCS Pre 2019**
+
+Which of the following organisms has white blood?
+A. Lizard  
+B. Cockroach  
+C. House bug  
+D. Mosquito  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The cockroach (Periplaneta americana) has colourless / white haemolymph because it contains no respiratory pigment such as haemoglobin or haemocyanin; respiration is carried out independently by the tracheal network.
+
+**Ans: B.** Cockroach
+</details>
+
+**Q-ST9. UPPCS Pre 2018**
+
+Which of the following is **not** obtained from insects?
+A. Silk  
+B. Honey  
+C. Lac  
+D. Pearl  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Pearl.
+
+**Ans: D.** Pearl
+</details>
+
+**Q-ST10. UPPCS Pre 2018**
+
+Which painkiller given to cattle is responsible for near extinction of vultures in India?
+A. Ibuprofen  
+B. Acetaminophen  
+C. Aspirin  
+D. Diclofenac  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Diclofenac, a veterinary NSAID administered to livestock, caused catastrophic renal failure and fatal visceral gout in scavenging Gyps vultures, prompting a total ban in 2006.
+
+**Ans: D.** Diclofenac
+</details>
+
+**Q-ST11. UPPCS Pre 2018**
+
+Which of the following animals can live for the longest duration without drinking water?
+A. Giraffe  
+B. Camel  
+C. Kangaroo  
+D. Kangaroo rat  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Kangaroo rat (Dipodomys) of the American desert can survive its entire life without ever drinking water, fulfilling its moisture requirement through internal metabolic water produced during cellular oxidation of die…
+
+**Ans: D.** Kangaroo rat
+</details>
+
+**Q-ST12. UPPCS Pre 2017**
+
+In which of the following animals hooves are not found?
+A. Deer  
+B. Jackal  
+C. Zebra  
+D. Horse  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Jackal.
+
+**Ans: B.** Jackal
+</details>
+
+**Q-ST13. UPPCS Mains 2006**
+
+Nilgai belongs to which of the following families?
+A. Cow  
+B. Goat  
+C. Sheep  
+D. Deer  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Nilgai (Boselaphus tragocamelus) is the largest Asian antelope.
+
+**Ans: D.** Deer / Antelope — Family Bovidae
+</details>
+
+**Q-ST14. UPPCS Pre 2017**
+
+Which of the following has the largest brain in proportion to its body size?
+A. Ant  
+B. Elephant  
+C. Dolphin  
+D. Human Being  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Ant.
+
+**Ans: A.** Ant
+</details>
+
+**Q-ST15. UPPCS Pre 2016**
+
+Smallest man-like ape is:
+A. Gibbon  
+B. Chimpanzee  
+C. Gorilla  
+D. Orangutan  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Gibbon.
+
+**Ans: A.** Gibbon
+</details>
+
+**Q-ST16. UPPCS Mains 2010**
+
+Which one of the following varieties of dogs is unable to bark?
+A. Dingo  
+B. Alsatian  
+C. Dalmatian  
+D. Labrador  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Dingo.
+
+**Ans: A.** Dingo
+</details>
+
+**Q-ST17. UPPCS Mains 2008**
+
+The bear commonly performing on streets is:
+A. Sloth bear  
+B. Sun bear  
+C. Brown bear  
+D. Cat bear  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The shaggy-coated bear traditionally used by Madari street performers in India is the Sloth bear (Melursus ursinus).
+
+**Ans: A.** Sloth bear
+</details>
+
+**Q-ST18. UPPCS Mains 2017**
+
+Which of the following is not one of the animals that has been taught to use language with some success?
+A. Chimpanzee  
+B. Parrot  
+C. Dog  
+D. Dolphin  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Dog.
+
+**Ans: C.** Dog
+</details>
+
+**Q-ST19. UPPCS Pre 2013 / RO/ARO 2016**
+
+Three-chambered heart is found in:
+A. Mammals  
+B. Birds  
+C. Amphibians  
+D. Pisces  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Amphibians (frogs, toads) and most reptiles have a 3-chambered heart (2 atria + 1 ventricle).
+
+**Ans: C.** Amphibians
+</details>
+
+**Q-ST20. UPPCS RO/ARO Re-Exam 2023**
+
+Given below are two statements, one labelled as Assertion (A) and other as Reason (R):
+Assertion (A): Amphibians can tolerate mixing of oxygenated and deoxygenated blood.  
+Reason (R): Amphibians are animals with two-chambered heart.  
+
+Select the correct answer using the codes given below:  
+A. Assertion (A) is false, but Reason (R) is true.  
+B. Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of Assertion (A).  
+C. Assertion (A) is true, but Reason (R) is false.  
+D. Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of Assertion (A).  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Amphibians have a 3-chambered heart (2 atria + 1 ventricle), not 2-chambered.
+
+**Ans: C.** Assertion (A
+</details>
+
+**Q-ST21. UPPCS Spl. Mains 2004**
+
+Which out of the following does not have a gallbladder?
+A. Camel  
+B. Giraffe  
+C. Rat  
+D. Fish  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Camel.
+
+**Ans: A.** Camel
+</details>
+
+**Q-ST22. UPPCS Mains 2004**
+
+The largest invertebrate is:
+A. Octopus  
+B. Squid  
+C. Coral  
+D. Jellyfish  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Squid.
+
+**Ans: B.** Squid
+</details>
+
+**Q-ST23. UPPCS Spl. Pre 2008 / UDA Mains 2010**
+
+Which one of the following is not an insect?
+A. Bed bug  
+B. Spider  
+C. House fly  
+D. Mosquito  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Spider.
+
+**Ans: B.** Spider
+</details>
+
+**Q-ST24. UPPCS RO/ARO 2021 / 2017**
+
+The silk produced by spiders is called:
+A. Tussar silk  
+B. Gossamer silk  
+C. Munga silk  
+D. Ahimsa silk  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Spider silk protein fiber is known as Gossamer silk.
+
+**Ans: B.** Gossamer silk
+</details>
+
+**Q-ST25. UPPCS Pre 1996**
+
+Which one of the following is a secretion from the body of an insect?
+A. Pearl  
+B. Coral  
+C. Lac  
+D. Gum  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Lac.
+
+**Ans: C.** Lac
+</details>
+
+**Q-ST26. UPPCS RO/ARO Re-Exam 2023**
+
+Which of the following is not a beneficial insect?
+A. *Helicoverpa armigera*  
+B. *Bombyx mori*  
+C. *Laccifer lacca*  
+D. *Apis mellifera*  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Helicoverpa armigera (Cotton bollworm) is a destructive agricultural caterpillar pest of cotton, tomato, and maize.
+
+**Ans: A.** Helicoverpa armigera
+</details>
+
+**Q-ST27. UPPCS RO/ARO Pre 2016**
+
+Poisonous fangs of a snake are modified form of:
+A. Mandibular teeth  
+B. Palatine teeth  
+C. Canine teeth  
+D. Maxillary teeth  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Venomous fangs in snakes are sharp, hollow or grooved modified maxillary teeth of the upper jaw connected directly to the venom ducts.
+
+**Ans: D.** Maxillary teeth
+</details>
+
+**Q-ST28. UPPCS RO/ARO Pre 2016**
+
+Consider the following statements about mosquitoes:
+1. Only males suck blood  
+2. Only females suck blood  
+3. Females suck plant juices  
+4. Males have bigger wings than females  
+5. Females have bigger wings than males  
+
+Of these:  
+A. Only 2 and 4 are correct  
+B. Only 1 and 2 are correct  
+C. Only 3 and 5 are correct  
+D. Only 2 and 5 are correct  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Only female mosquitoes possess piercing-sucking mouthparts to suck vertebrate blood (required for egg development).
+
+**Ans: D.** Only 2 and 5 are correct
+</details>
+
+**Q-ST29. UPPCS Spl. Mains 2004 / IAS Pre 2003**
+
+Octopus is:
+A. An arthropod  
+B. An echinoderm  
+C. A hemichordate  
+D. A mollusc  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Octopus (devilfish) is a soft-bodied cephalopod mollusc possessing 8 suckered arms, bilateral symmetry, and no shell.
+
+**Ans: D.** A mollusc
+</details>
+
+**Q-ST30. UPPCS Mains 2003**
+
+Which one of the following is produced through viticulture?
+A. Silk  
+B. Earthworm  
+C. Honey  
+D. Grapes  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Grapes.
+
+**Ans: D.** Grapes
+</details>
+
+---
+
+## Complete PYQ Bank — UKPCS
+
+**Q-ST1. UKPCS Pre 2021**
+
+The sperms used for artificial insemination of cattle are stored in:
+A. Liquid nitrogen  
+B. Dry ice  
+C. Liquid oxygen  
+D. Liquid ammonia  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Bull semen for artificial insemination is preserved via cryopreservation in Liquid Nitrogen at $-196^\circ\text{C}$ to maintain sperm motility and fertilising capacity for decades.
+
+**Ans: A.** Liquid nitrogen
+</details>
+
+**Q-ST2. UKPCS Mains 2002**
+
+The study of snakes is known as:
+A. Serpentology  
+B. Ornithology  
+C. Herpetology  
+D. Ichthyology  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Serpentology (Ophiology) is the branch of zoology dealing with snakes.
+
+**Ans: A.** Serpentology
+</details>
+
+**Q-ST3. UKPCS Mains 2002**
+
+Termites are also known as:
+A. Ants  
+B. Red ants  
+C. White ants  
+D. Black ants  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Termites are eusocial insects classified under the infraorder Isoptera (now within Blattodea); commonly known as White ants.
+
+**Ans: C.** White ants
+</details>
+
+**Q-ST4. UKPCS Mains 2002**
+
+Glow-worm is:
+A. A mollusca  
+B. An insect  
+C. A worm  
+D. A nematode  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** A glow-worm is a luminous insect (beetle) whose light organs emit light via the enzyme luciferase.
+
+**Ans: B.** An insect
+</details>
+
+**Q-ST5. UKPCS Mains 2002**
+
+White leg-horn is a variety of:
+A. Parrot  
+B. Peacock  
+C. Fowl  
+D. Owl  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Fowl.
+
+**Ans: C.** Fowl
+</details>
+
+**Q-ST6. UKPCS Pre 2010**
+
+Which one of the following creatures has no blood but respires?
+A. Hydra  
+B. Cockroach  
+C. Earthworm  
+D. Fish  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Hydra.
+
+**Ans: A.** Hydra
+</details>
+
+**Q-ST7. UKPCS Pre 2003**
+
+From the following options, seal is the species of:
+A. Fish  
+B. Bird  
+C. Reptiles  
+D. Mammal  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Mammal.
+
+**Ans: D.** Mammal
+</details>
+
+**Q-ST8. UKPCS Pre 2005**
+
+Which of the following group of animals are nocturnal animals?
+A. Housefly, Bedbug, Parrot  
+B. Mosquito, Bat, Owl  
+C. Mosquito, Sparrow, Deer  
+D. Owl, Bats, Dog  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Mosquitoes, bats, and owls are active predominantly after dark; have adapted vision, hearing, or echolocation.
+
+**Ans: B.** Mosquito, Bat, Owl
+</details>
+
+---
+
+## Complete PYQ Bank — BPSC, RAS, MPPCS, CGPCS & IAS (Animal Biology & Taxonomy)
+
+**Q-ST1. 71st BPSC Pre 2025**
+
+Who was first to use the characteristics of vascular tissues in the classification of plants?
+A. Engler and Prantl  
+B. Bentham and Hooker  
+C. A.P. de Candolle  
+D. More than one of the above  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches A.P.
+
+**Ans: C.** A.P.
+</details>
+
+**Q-ST2. 67th BPSC Re-Exam 2022**
+
+The animal without red blood cells is:
+A. Frog  
+B. Earthworm  
+C. Snake  
+D. Peacock  
+E. None of the above / More than one of the above  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Earthworms lack red blood corpuscles (RBCs).
+
+**Ans: B.** Earthworm
+</details>
+
+**Q-ST3. 68th BPSC Pre 2022**
+
+Female *Anopheles* can be distinguished from female *Culex* because it sits:
+A. At right angle to the surface of substratum  
+B. At an angle with substratum  
+C. Parallel to the surface of substratum  
+D. More than one of the above  
+E. None of the above  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Female Anopheles rests with its body making an angle of approximately 45° to the substratum (abdomen tilted up), whereas Culex rests with its body parallel to the surface.
+
+**Ans: B.** At an angle with substratum
+</details>
+
+**Q-ST4. 40th BPSC Pre 1995**
+
+Dolphins are classified in:
+A. Fish  
+B. Amphibians  
+C. Reptile  
+D. Mammals  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Mammals.
+
+**Ans: D.** Mammals
+</details>
+
+**Q-ST5. 39th BPSC Pre 1994**
+
+Which is an atrocious animal?
+A. Penguin  
+B. Whale  
+C. Otter  
+D. Tortoise  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Otter.
+
+**Ans: C.** Otter
+</details>
+
+**Q-ST6. 38th BPSC Pre 1992**
+
+Amphibians are:
+A. Very fastly moving boats  
+B. Animals living in water only  
+C. Animals living on land only  
+D. Animals living equally in water and on land both  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Derived from Greek amphibios ("living a double life"); cold-blooded vertebrates adapted to exploit both aquatic and terrestrial habitats.
+
+**Ans: D.** Animals living equally in water and on land both
+</details>
+
+**Q-ST7. Chhattisgarh PCS Pre 2024**
+
+What is the scientific name of Leopard?
+A. *Panthera leo*  
+B. *Panthera pardus*  
+C. *Panthera tigris*  
+D. *Panthera uncia*  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Leopard = Panthera pardus.
+
+**Ans: B.** Panthera pardus
+</details>
+
+**Q-ST8. Chhattisgarh PCS Pre 2011**
+
+How many bones are in Shark Fish?
+A. 100  
+B. 0  
+C. 200  
+D. 300  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches 0.
+
+**Ans: B.** 0
+</details>
+
+**Q-ST9. MPPCS Pre 2012**
+
+Which snake of the following is nonpoisonous?
+A. Cobra  
+B. Viper  
+C. Coral-Snake  
+D. Python  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Python.
+
+**Ans: D.** Python
+</details>
+
+**Q-ST10. MPPCS Pre 2010**
+
+Mammal capable of flying is:
+A. Jaguar  
+B. Ostrich  
+C. Pelican  
+D. Bat  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Bat.
+
+**Ans: D.** Bat
+</details>
+
+**Q-ST11. RAS/RTS Pre 1997**
+
+Which one of the following is a true fish?
+A. Starfish  
+B. Jellyfish  
+C. Hagfish  
+D. Seahorse  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Seahorse (Hippocampus) is a true bony fish.
+
+**Ans: D.** Seahorse
+</details>
+
+**Q-ST12. IAS Pre 2025**
+
+Regarding Peacock tarantula (Gooty tarantula), consider the following statements:
+I. It is an omnivorous crustacean.  
+II. Its natural habitat in India is only limited to some forest areas.  
+III. In its natural habitat, it is an arboreal species.  
+
+Which of the statements given above is/are correct?  
+A. I only  
+B. I and III  
+C. II only  
+D. II and III  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Statement I is incorrect: The Peacock tarantula (Poecilotheria metallica) is an insectivorous spider (Arachnid), NOT a crustacean.
+
+**Ans: D.** II and III
+</details>
+
+**Q-ST13. IAS Pre 2024**
+
+Consider the following statements:
+1. Lions do not have a particular breeding season.  
+2. Unlike most other big cats, cheetahs do not roar.  
+3. Unlike male lions, male leopards do not proclaim their territory by scent marking.  
+
+Which of the statements given above are correct?  
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Statement 1 is correct: Lions breed throughout the year without a fixed season.
+
+**Ans: A.** 1 and 2 only
+</details>
+
+**Q-ST14. IAS Pre 2024**
+
+The organisms "Cicada, Froghopper and Pond skater" are:
+A. Birds  
+B. Fish  
+C. Insects  
+D. Reptiles  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Insects.
+
+**Ans: C.** Insects
+</details>
+
+**Q-ST15. IAS Pre 2024**
+
+Consider the following:
+1. Carabid beetles  
+2. Centipedes  
+3. Flies  
+4. Termites  
+5. Wasps  
+
+Parasitoid species are found in how many of the above kind of organisms?  
+A. Only two  
+B. Only three  
+C. Only four  
+D. All five  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Parasitoid larvae feed on and eventually kill their host.
+
+**Ans: B.** Only three
+</details>
+
+**Q-ST16. IAS Pre 2024**
+
+Consider the following:
+1. Butterflies  
+2. Fish  
+3. Frogs  
+
+How many of the above have poisonous species among them?  
+A. Only one  
+B. Only two  
+C. All three  
+D. None  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Toxic/poisonous species occur among butterflies (African Giant Swallowtail, Monarch), fish (Puffer fish, Reef stonefish), and frogs (Poison dart frogs).
+
+**Ans: C.** All three
+</details>
+
+**Q-ST17. IAS Pre 2023**
+
+Consider the following statements regarding the Indian squirrels:
+1. They build nests by making burrows in the ground.  
+2. They store their food materials like nuts and seeds in the ground.  
+3. They are omnivorous.  
+
+How many of the above statements are correct?  
+A. Only one  
+B. Only two  
+C. All three  
+D. None of these  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Statement 1 is incorrect: Indian squirrels are arboreal and build nests (dreys) in trees, not burrows in the ground.
+
+**Ans: B.** Only two — statements 2 and 3
+</details>
+
+**Q-ST18. IAS Pre 2023**
+
+Consider the following statements:
+Statement-I: Marsupials are not naturally found in India.  
+Statement-II: Marsupials can thrive only in montane grasslands with no predators.  
+
+Which one of the following is correct?  
+A. Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I  
+B. Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I  
+C. Statement-I is correct but Statement-II is incorrect  
+D. Statement-I is incorrect but Statement-II is correct  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Marsupials are native strictly to Australasia and the Americas (none in India).
+
+**Ans: C.** Statement-I is correct but Statement-II is incorrect
+</details>
+
+**Q-ST19. IAS Pre 2023**
+
+Which one of the following makes a tool with a stick to scrape insects from a hole in a tree or a log of wood?
+A. Fishing cat  
+B. Orangutan  
+C. Otter  
+D. Sloth bear  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Orangutans exhibit sophisticated tool use, crafting sticks to extract insects from tree cavities and seeds from spiny fruits.
+
+**Ans: B.** Orangutan
+</details>
+
+**Q-ST20. IAS Pre 2022**
+
+Which of the following is not a bird?
+A. Golden Mahseer  
+B. Indian Nightjar  
+C. Spoonbill  
+D. White Ibis  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Golden Mahseer (Tor putitora) is an endangered species of cyprinid fish found in rapid Himalayan streams.
+
+**Ans: A.** Golden Mahseer
+</details>
+
+**Q-ST21. IAS Pre 2021**
+
+Consider the following animals:
+1. Hedgehog  
+2. Marmot  
+3. Pangolin  
+
+To reduce the chance of being captured by predators, which of the above organisms rolls up and protects its vulnerable parts?  
+A. 1 and 2  
+B. 2 only  
+C. 3 only  
+D. 1 and 3  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches 1 and 3.
+
+**Ans: D.** 1 and 3
+</details>
+
+**Q-ST22. IAS Pre 2021**
+
+Which of the following are detritivores?
+1. Earthworms  
+2. Jellyfish  
+3. Millipedes  
+4. Seahorses  
+5. Woodlice  
+
+Select the correct answer using the code given below:  
+A. 1, 2 and 4 only  
+B. 2, 3, 4 and 5 only  
+C. 1, 3 and 5 only  
+D. 1, 2, 3, 4 and 5  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Earthworms, millipedes, and woodlice consume decaying organic detritus.
+
+**Ans: C.** 1, 3 and 5 only
+</details>
+
+**Q-ST23. IAS Pre 2021**
+
+Which one of the following is a filter feeder?
+A. Catfish  
+B. Octopus  
+C. Oyster  
+D. Pelican  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Oyster.
+
+**Ans: C.** Oyster
+</details>
+
+**Q-ST24. IAS Pre 2019**
+
+Consider the following statements:
+1. Some species of turtles are herbivores.  
+2. Some species of fish are herbivores.  
+3. Some species of marine mammals are herbivores.  
+4. Some species of snakes are viviparous.  
+
+Which of the statements given above are correct?  
+A. 1 and 3 only  
+B. 2, 3 and 4 only  
+C. 2 and 4 only  
+D. 1, 2, 3 and 4  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Adult green sea turtles are herbivorous; parrot fish graze on algae; dugongs / sea cows are herbivorous mammals; green anacondas are viviparous snakes giving live birth.
+
+**Ans: D.** 1, 2, 3 and 4
+</details>
+
+**Q-ST25. IAS Pre 2010 / 1995**
+
+King Cobra is the only snake that makes its own nest. Why does it make its nest?
+A. It is a snake-eater and the nest helps attract other snakes  
+B. It is a viviparous snake and needs a nest to give birth  
+C. It is an oviparous snake and lays its eggs in the nest and guards the nest until they are hatched  
+D. It is a large, cold blooded animal and needs a nest to hibernate  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Female King Cobra scrapes leaf litter to build a nesting mound, deposits 20–50 eggs, and aggressively guards the nest until hatching.
+
+**Ans: C.** It is an oviparous snake and lays its eggs in the nest and guards the nest until they are hatched
+</details>
+
+**Q-ST26. IAS Pre 2008**
+
+In which one of the following kinds of organisms is the phenomenon found wherein the female kills the male after copulation?
+A. Dragonfly  
+B. Honeybee  
+C. Spider  
+D. Pit Viper  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Spider.
+
+**Ans: C.** Spider
+</details>
+
+**Q-ST27. IAS Pre 2001**
+
+Consider the following statements:
+1. Tapeworm is a hermaphrodite.  
+2. Roundworm has separate sexes.  
+3. Filaria is caused by a nematode.  
+4. Guineaworm is an annelid.  
+
+Which of these are correct?  
+A. 1 and 2  
+B. 1, 2 and 3  
+C. 3 and 4  
+D. 2, 3 and 4  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Statement 4 is incorrect: Guineaworm (Dracunculus medinensis) is a nematode (roundworm), NOT an annelid.
+
+**Ans: B.** 1, 2 and 3
+</details>
+
+**Q-ST28. IAS Pre 1993**
+
+Venom glands of snakes are homologous to:
+A. Electric organs of fishes  
+B. Stings of rays  
+C. Sebaceous glands of mammals  
+D. Salivary glands of vertebrates  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Snake venom glands are modified salivary glands; venom is modified saliva evolved for prey immobilisation and digestion.
+
+**Ans: D.** Salivary glands of vertebrates
+</details>
 
 ---
 
@@ -2019,4 +1740,439 @@ D. Kaziranga National Park
 | 28 | One-horned Rhinoceros = **Kaziranga NP, Assam** |
 | 29 | Project Tiger launched = **1973** (first reserve = Jim Corbett NP) |
 | 30 | Amphibians = first vertebrates to live on land; "biological thermometers" of ecosystem |
+
+## Practice Zone — UPPCS Format Drill
+
+**Q1.**
+
+With reference to respiration in animals, which of the following statements is/are correct?
+1. Spiders and scorpions breathe primarily through book lungs.
+2. Insects transport oxygen throughout their body primarily via haemocyanin dissolved in haemolymph.
+3. Whales and dolphins possess branchial gills during their embryonic stages only.
+
+Select the correct answer from the code given below:  
+A. Only 1  
+B. 1 and 2  
+C. 2 and 3  
+D. 1, 2 and 3  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Only 1.
+
+**Ans: A.** Only 1
+</details>
+
+**Q2.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+Assertion (A): Natural silk burns with the characteristic smell of burning hair, whereas pure cotton burns with the smell of burning paper.  
+Reason (R): Natural silk is an animal protein composed of fibroin, whereas cotton is a plant polysaccharide composed of cellulose.  
+
+Select the correct answer from the code given below:  
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+B. (A) is false, but (R) is true  
+C. (A) is true, but (R) is false  
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Silk and hair are both proteins containing nitrogenous peptide bonds that emit the smell of burning keratin/fibroin when burned.
+
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)
+</details>
+
+**Q3.**
+
+Match List-I with List-II:
+
+| List-I (Animal Product / Breed) | List-II (Source Organism / Origin) |
+|---|---|
+| A. Pashmina | 1. *Pinctada vulgaris* (Mollusc) |
+| B. Muga Silk | 2. Changthangi Goat of Ladakh |
+| C. Pearl | 3. *Antheraea assamensis* of Assam |
+| D. Black Gold Buffalo | 4. Murrah breed of Haryana |
+
+Select the correct answer from the code given below:  
+A. A-2, B-3, C-1, D-4  
+B. A-3, B-2, C-1, D-4  
+C. A-2, B-1, C-3, D-4  
+D. A-4, B-3, C-1, D-2  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Pashmina = Fine undercoat of Changthangi goat (A-2).
+
+**Ans: A.** A-2, B-3, C-1, D-4
+</details>
+
+**Q4.**
+
+Which of the following animal groups has a four-chambered heart?
+A. Shark, Frog, Lizard  
+B. Crocodile, Pigeon, Whale  
+C. Rohu, Chameleon, Ostrich  
+D. Toad, Cobra, Bat  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** All birds (pigeon) and mammals (whale) have a 4-chambered heart.
+
+**Ans: B.** Crocodile, Pigeon, Whale
+</details>
+
+**Q5.**
+
+Which of the following buffalo breeds is indigenous to Uttar Pradesh and is renowned for the highest milk fat percentage (up to 13%)?
+A. Murrah  
+B. Jaffarabadi  
+C. Bhadawari  
+D. Nili-Ravi  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Bhadawari buffalo, native to the Agra–Etawah belt of UP and Bhind–Morena in MP, yields milk with the highest fat percentage (up to 12.5–13%).
+
+**Ans: C.** Bhadawari
+</details>
+
+**Q6.**
+
+The water vascular (ambulacral) system operating tube feet is the unique distinguishing characteristic of which animal phylum?
+A. Mollusca  
+B. Arthropoda  
+C. Echinodermata  
+D. Annelida  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Echinoderms (starfish, sea urchins, sea cucumbers) uniquely possess a hydraulic water vascular system for locomotion and prey capture.
+
+**Ans: C.** Echinodermata
+</details>
+
+**Q7.**
+
+Which of the following animals is a true pseudoruminant, possessing an active fermentation rumen but lacking the omasum?
+A. Cow  
+B. Camel  
+C. Goat  
+D. Buffalo  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Camel.
+
+**Ans: B.** Camel
+</details>
+
+**Q8.**
+
+Flame cells (solenocytes) are the specialized excretory and osmoregulatory structures of:
+A. Roundworms (Nematoda)  
+B. Segmented worms (Annelida)  
+C. Flatworms (Platyhelminthes)  
+D. Sponges (Porifera)  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Flame cells are found in flatworms (Planaria, Taenia, Fasciola).
+
+**Ans: C.** Flatworms / Platyhelminthes
+</details>
+
+**Q9.**
+
+With reference to livestock revolutions in India, which of the following pairs is **not** correctly matched?
+A. White Revolution — Milk production (Dr. Verghese Kurien)  
+B. Silver Revolution — Egg and poultry production  
+C. Blue Revolution — Fish production  
+D. Yellow Revolution — Cattle meat production  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Yellow Revolution refers to Oilseeds production (mustard, sunflower).
+
+**Ans: D.** Yellow Revolution — Cattle meat production
+</details>
+
+**Q10.**
+
+The Kadaknath fowl, renowned for its black-coloured meat, bones, and internal organs, is native to which Indian state?
+A. Uttar Pradesh  
+B. Madhya Pradesh  
+C. Rajasthan  
+D. Andhra Pradesh  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Kadaknath (Kalamasi) is native to Jhabua and Dhar districts of Madhya Pradesh and holds a GI tag.
+
+**Ans: B.** Madhya Pradesh
+</details>
+
+**Q11.**
+
+Which of the following is an egg-laying mammal (Monotreme)?
+A. Kangaroo  
+B. Bat  
+C. Duck-billed Platypus  
+D. Blue Whale  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Duck-billed Platypus (Ornithorhynchus) and Echidna are the world's only oviparous (egg-laying) mammals.
+
+**Ans: C.** Duck-billed Platypus
+</details>
+
+**Q12.**
+
+In honeybee colonies, the famous "waggle dance" performed by scout bees communicates:
+A. Threat of predatory hornets  
+B. Presence of queen bee pheromone  
+C. Distance and direction of distant floral nectar sources  
+D. Swarming time  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Karl von Frisch demonstrated that the waggle dance communicates distance ($>50\text{ m}$) and angle relative to the sun to locate rich nectar flowers.
+
+**Ans: C.** Distance and direction of distant floral nectar sources
+</details>
+
+**Q13.**
+
+Which of the following silkworms feeds on the leaves of Arjun (*Terminalia arjuna*) and Asan trees?
+A. Mulberry silkworm (*Bombyx mori*)  
+B. Tasar silkworm (*Antheraea mylitta*)  
+C. Muga silkworm (*Antheraea assamensis*)  
+D. Eri silkworm (*Samia ricini*)  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Tasar silkworms feed on Arjun and Asan trees in Jharkhand and Chhattisgarh.
+
+**Ans: B.** Tasar silkworm
+</details>
+
+**Q14.**
+
+Foot and Mouth Disease (FMD) affecting cloven-hoofed domestic livestock is caused by a:
+A. Bacterium  
+B. Fungus  
+C. Virus  
+D. Protozoan  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Virus.
+
+**Ans: C.** Virus
+</details>
+
+**Q15.**
+
+The Ganges River Dolphin (*Platanista gangetica*), India's National Aquatic Animal, navigates and hunts prey using:
+A. Keen underwater vision  
+B. Electro-reception via ampullae  
+C. High-frequency ultrasonic echolocation  
+D. Olfactory scent trails  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Ganges river dolphin has a rudimentary lensless eye (functionally blind) and relies strictly on ultrasonic bio-sonar / echolocation to navigate muddy river waters.
+
+**Ans: C.** High-frequency ultrasonic echolocation
+</details>
+
+**Q16.**
+
+Which of the following cattle breeds of India is renowned for its majestic gait called "Sawai Chal"?
+A. Sahiwal  
+B. Kankrej  
+C. Hariana  
+D. Amritmahal  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Kankrej.
+
+**Ans: B.** Kankrej
+</details>
+
+**Q17.**
+
+Blue-baby syndrome is linked to nitrates in water, but which respiratory pigment gives crustaceans (prawns and crabs) their bluish blood?
+A. Haemoglobin  
+B. Haemocyanin  
+C. Chlorocruorin  
+D. Haemoerythrin  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Haemocyanin contains copper atoms coordinated to protein, giving oxygenated blood a distinct blue appearance.
+
+**Ans: B.** Haemocyanin
+</details>
+
+**Q18.**
+
+Which of the following is **not** a true fish?
+A. Rohu  
+B. Dogfish  
+C. Cuttlefish  
+D. Flying fish  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Cuttlefish (Sepia) is a marine cephalopod mollusc.
+
+**Ans: C.** Cuttlefish
+</details>
+
+**Q19.**
+
+An animal that enters into prolonged dormancy to avoid summer heat and desiccation is exhibiting:
+A. Hibernation  
+B. Aestivation  
+C. Diapause  
+D. Cryptobiosis  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Aestivation is summer sleep (e.g.
+
+**Ans: B.** Aestivation
+</details>
+
+**Q20.**
+
+Shahtoosh shawls, whose commercial trade is banned worldwide under CITES, are prepared from the fleece of:
+A. Changthangi goat  
+B. Angora rabbit  
+C. Chiru (Tibetan Antelope)  
+D. Merino sheep  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Shahtoosh is made from the down hair of the Tibetan Antelope (Pantholops hodgsonii), which is killed to harvest the fleece; hence legally banned.
+
+**Ans: C.** Chiru / Tibetan Antelope
+</details>
+
+**Q21.**
+
+Which organ in the earthworm acts as a grinder to pulverize soil particles and decaying organic debris?
+A. Pharynx  
+B. Gizzard  
+C. Typhlosole  
+D. Stomach  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Gizzard.
+
+**Ans: B.** Gizzard
+</details>
+
+**Q22.**
+
+Jamunapari is an outstanding breed of which domestic animal, native to Etawah district of Uttar Pradesh?
+A. Buffalo  
+B. Cow  
+C. Goat  
+D. Sheep  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Goat.
+
+**Ans: C.** Goat
+</details>
+
+**Q23.**
+
+The Ranikhet disease affecting poultry is caused by which pathogen?
+A. *Bacillus anthracis*  
+B. Avian Paramyxovirus  
+C. *Salmonella pullorum*  
+D. *Pasteurella aviseptica*  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Ranikhet (Newcastle disease) is caused by an Avian Paramyxovirus, characterized by breathing distress and twisted necks.
+
+**Ans: B.** Avian Paramyxovirus
+</details>
+
+**Q24.**
+
+Lac is secreted by the lac insect (*Kerria lacca*) primarily from its:
+A. Salivary glands  
+B. Dermal glands across the body  
+C. Malpighian tubules  
+D. Anal scent glands  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The female lac insect secretes resin from cutaneous dermal glands across its entire body, forming an encrustation on twigs.
+
+**Ans: B.** Dermal glands across the body
+</details>
+
+**Q25.**
+
+The only surviving wild population of the Asiatic Lion (*Panthera leo persica*) is confined to:
+A. Jim Corbett National Park  
+B. Ranthambore Tiger Reserve  
+C. Greater Gir Landscape of Gujarat  
+D. Kaziranga National Park  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Asiatic lion lives exclusively in the Gir forest and surrounding districts of the Saurashtra peninsula in Gujarat.
+
+**Ans: C.** Greater Gir Landscape of Gujarat
+</details>
+
+## Common Traps & Negative-Marking Eliminators
+
+1. **Pearl source**: Pearl comes from a **mollusc** (oyster), not an insect — silk, honey, and lac are insect products.
+2. **Animals named fish that are not fish**: Jellyfish, starfish, cuttlefish, crayfish, shellfish — none are true fishes.
+3. **Cold-blooded vs warm-blooded**: Amphibians and reptiles are **poikilotherms**; birds and mammals are **homeotherms**.
+4. **Marsupial vs placental**: Kangaroo is marsupial; whale and bat are placental mammals.
+5. **Natural silk**: Pure protein, so it **contains nitrogen**; cotton has none.
+6. **Honey bee caste**: Queen and workers are female; drones are male — drones develop from **unfertilised eggs** (parthenogenesis).
+7. **Lac insect**: *Kerria lacca* on host trees; lac is a **resinous secretion**, not a plant gum.
+8. **Snake locomotion**: Snakes have no limbs; movement uses **ribs and ventral scales**, not "legs that folded away" as a living trait.
+9. **Bird bones**: Pneumatic (air-filled) bones reduce weight — do not mark them as "solid heavy bones".
+10. **Ruminant stomach**: Four chambers — rumen, reticulum, omasum, abomasum; **abomasum** is the true glandular stomach.
+
+---
 

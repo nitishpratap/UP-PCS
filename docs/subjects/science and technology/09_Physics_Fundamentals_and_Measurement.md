@@ -362,1111 +362,6 @@
 
 ---
 
-## Complete PYQ Bank — UPPCS
-
-**Q1. (UPPCS Pre 2024)**  
-A bus covers the first half of a certain distance with speed $v_1$ and the second half with a speed $v_2$. The average speed during the whole journey is:  
-(a) $\frac{v_1 v_2}{v_1 + v_2}$  
-(b) $\frac{2 v_1 v_2}{v_1 + v_2}$  
-(c) $\frac{v_1 + v_2}{2}$  
-(d) $\sqrt{v_1 v_2}$  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (b)</b><br>
-Let total distance be $2d$. Time for first half $t_1 = d / v_1$. Time for second half $t_2 = d / v_2$.<br>
-$$\text{Average Speed} = \frac{\text{Total Distance}}{\text{Total Time}} = \frac{2d}{\frac{d}{v_1} + \frac{d}{v_2}} = \frac{2 v_1 v_2}{v_1 + v_2}$$
-This is the harmonic mean of speeds when distances covered are equal.
-</details>
-
-**Q2. (UPPCS Pre 2022)**  
-Which of the following pairs is NOT correctly matched?  
-(a) Power of lens — Diopter  
-(b) Pressure — Pascal  
-(c) Activity of radioactive substance — Curie  
-(d) Heat — Joule  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (c)</b><br>
-The SI unit of radioactivity is the <b>becquerel (Bq)</b> ($1\text{ Bq} = 1\text{ decay/s}$). Curie ($Ci$) is a traditional non-SI unit ($1\text{ Ci} = 3.7 \times 10^{10}\text{ Bq}$). Diopter, Pascal, and Joule are all official SI derived units.
-</details>
-
-**Q3. (UPPCS Pre 2016)**  
-Which one of the following thermometers is known as pyrometer?  
-(a) Thermo-electric thermometers  
-(b) Radiation thermometers  
-(c) Gas thermometers  
-(d) Liquid thermometers  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (b)</b><br>
-A pyrometer is a remote-sensing <b>radiation thermometer</b> that measures the temperature of an object from its emitted thermal radiation (Stefan-Boltzmann Law $E \propto T^4$). It is particularly suited for high temperatures ($>1500^\circ C$).
-</details>
-
-**Q4. (UPPCS Mains 2016)**  
-Which one of the following devices is used to measure extremely high temperature?  
-(a) Pyrometer  
-(b) Photometer  
-(c) Phonometer  
-(d) Pycnometer  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (a)</b><br>
-Pyrometer measures extremely high temperatures ($>1500^\circ C$). Photometer measures light intensity; phonometer tests human vocal force; pycnometer measures liquid/solid density.
-</details>
-
-**Q5. (UPPCS Pre Re-Exam 2015)**  
-'Pyrheliometer' is used for measuring:  
-(a) Sun spots  
-(b) Solar radiation  
-(c) Air temperature  
-(d) Temperature of plants  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (b)</b><br>
-Pyrheliometers measure direct-beam solar irradiance at normal incidence.
-</details>
-
-**Q6. (UPPCS Pre 2016)**  
-The velocity of wind is measured by:  
-(a) Barometer  
-(b) Anemometer  
-(c) Hydrometer  
-(d) Wind vane  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (b)</b><br>
-Anemometer measures wind speed and velocity. Wind vane indicates wind direction.
-</details>
-
-**Q7. (UPPCS Mains 2014)**  
-Which one of the following devices is used to measure the intensity of earthquake?  
-(a) Seismograph  
-(b) Stethoscope  
-(c) Cosmograph  
-(d) Periscope  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (a)</b><br>
-Seismograph records seismic ground vibrations produced by earthquakes.
-</details>
-
-**Q8. (UPPCS Mains 2014)**  
-Phonometer is used to measure which one of the following?  
-(a) The power of brightness of light  
-(b) Extremely high temperature  
-(c) Frequency of electromagnetic wave  
-(d) Testing the force of human voice in speaking  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (d)</b><br>
-Phonometer is an acoustic instrument designed to measure sound loudness and vocal force.
-</details>
-
-**Q9. (UPPCS Pre 2012)**  
-Why do pendulum clocks usually lose time in summer?  
-(a) Due to longer days in summer  
-(b) Due to friction caused by coils  
-(c) The length of the pendulum increases, increasing the time period of unit oscillation  
-(d) The weight of the pendulum changes in summer  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (c)</b><br>
-Time period $T = 2\pi \sqrt{l/g}$. In summer, thermal expansion increases the effective pendulum length $l$. Therefore, time period $T$ increases, making each oscillation slower, causing the clock to lose time (run slow).
-</details>
-
-**Q10. (UPPCS Mains 2011)**  
-One micron represents a length of:  
-(a) $10^{-6}\text{ cm}$  
-(b) $10^{-4}\text{ cm}$  
-(c) $1\text{ mm}$  
-(d) $1\text{ m}$  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (b)</b><br>
-$1\text{ micron} = 10^{-6}\text{ m}$. Since $1\text{ m} = 10^2\text{ cm}$, $10^{-6}\text{ m} = 10^{-6} \times 10^2\text{ cm} = 10^{-4}\text{ cm}$ ($= 10^{-3}\text{ mm} = 1/1000\text{ mm}$).
-</details>
-
-**Q11. (UPPCS Pre 2010 / Mains 2010)**  
-Which one of the following is NOT correctly matched?  
-(a) Knot — Measure of speed of ship  
-(b) Nautical mile — Unit of distance used in navigation  
-(c) Angstrom — Unit of wavelength of light  
-(d) Light year — Unit of measuring time  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (d)</b><br>
-Light-year is a unit of astronomical distance, NOT time ($1\text{ ly} \approx 9.461 \times 10^{15}\text{ m}$).
-</details>
-
-**Q12. (UPPCS Pre 2009)**  
-1 barrel of oil is equal to which of the following?  
-(a) 131 litre  
-(b) 159 litre  
-(c) 179 litre  
-(d) 201 litre  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (b)</b><br>
-$1\text{ barrel} = 158.9873\text{ litres} \approx 159\text{ litres} = 42\text{ US gallons} = 0.158987\text{ m}^3$.
-</details>
-
-**Q13. (UPPCS Pre 2009)**  
-The thermometer used to measure $2000^\circ C$ temperature is:  
-(a) Gas thermometer  
-(b) Mercury thermometer  
-(c) Total radiation pyrometer  
-(d) Steam pressure thermometer  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (c)</b><br>
-Total radiation pyrometers can measure temperatures well above $1500^\circ C$ up to thousands of degrees without physical contact.
-</details>
-
-**Q14. (UPPCS Pre 2008)**  
-Match List-I with List-II:  
-List-I: A. Stethoscope, B. Sphygmomanometer, C. Caratometer, D. Luxmeter  
-List-II: 1. Intensity of light, 2. Purity of gold, 3. Hear heart sound, 4. Measure blood pressure  
-Code: A B C D  
-(a) 1 2 3 4  
-(b) 4 3 2 1  
-(c) 3 4 2 1  
-(d) 2 1 4 3  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (c)</b><br>
-Stethoscope hears heart sounds (3); Sphygmomanometer measures blood pressure (4); Caratometer checks gold purity (2); Luxmeter measures light intensity/illuminance (1).
-</details>
-
-**Q15. (UPPCS Pre 2007)**  
-The equipment used for measuring blood pressure is:  
-(a) Tacheometer  
-(b) Sphygmomanometer  
-(c) Actiometer  
-(d) Barometer  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (b)</b><br>
-Sphygmomanometer measures arterial blood pressure.
-</details>
-
-**Q16. (UPPCS Pre 2006)**  
-Match List-I with List-II:  
-List-I: A. High speed, B. Wavelength, C. Pressure, D. Energy  
-List-II: 1. Mach, 2. Angstrom, 3. Pascal, 4. Joule  
-Code: A B C D  
-(a) 2 1 3 4  
-(b) 1 2 4 3  
-(c) 1 2 3 4  
-(d) 2 1 4 3  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (c)</b><br>
-High speed is quantified by Mach number; wavelength in Angstrom; pressure in Pascal; energy in Joule.
-</details>
-
-**Q17. (UPPCS Pre 2005)**  
-The smallest unit of length is:  
-(a) Micron  
-(b) Nanometre  
-(c) Angstrom  
-(d) Fermimetre  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (d)</b><br>
-Fermimetre (Fermi) $= 10^{-15}\text{ m}$. Angstrom $= 10^{-10}\text{ m}$; Nanometre $= 10^{-9}\text{ m}$; Micron $= 10^{-6}\text{ m}$.
-</details>
-
-**Q18. (UPPCS Pre 2005 / UDA/LDA 2001)**  
-Match List-I with List-II:  
-List-I: A. Acceleration, B. Force, C. Work done, D. Impulse  
-List-II: 1. Joule, 2. Newton second, 3. Newton, 4. Metre/second²  
-Code: A B C D  
-(a) 1 2 3 4  
-(b) 3 4 1 2  
-(c) 2 3 4 1  
-(d) 4 3 1 2  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (d)</b><br>
-Acceleration: $m/s^2$ (4); Force: Newton (3); Work done: Joule (1); Impulse: Newton second ($N\cdot s$) (2).
-</details>
-
-**Q19. (UPPCS Pre 2000 / RO/ARO 2016)**  
-Which one of the following instruments is used for locating submerged objects in an ocean?  
-(a) Audiometer  
-(b) Galvanometer  
-(c) Sextant  
-(d) SONAR  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (d)</b><br>
-SONAR (Sound Navigation and Ranging) uses ultrasonic acoustic pulses to locate underwater targets.
-</details>
-
-**Q20. (UPPCS Pre 1999)**  
-Which one of the following is NOT correctly matched:  
-(a) Manometer — Pressure  
-(b) Carburetor — Internal combustion engine  
-(c) Cardiograph — Heart movement  
-(d) Seismometer — Curvature of surface  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (d)</b><br>
-A seismometer measures seismic waves generated by earthquakes. Curvature of spherical surfaces is measured using a <b>spherometer</b>.
-</details>
-
-**Q21. (UPPCS Pre 1997)**  
-PARSEC is the unit of:  
-(a) Distance  
-(b) Time  
-(c) Light intensity  
-(d) Magnetic force  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (a)</b><br>
-Parsec is a unit of astronomical distance ($1\text{ pc} \approx 3.262\text{ ly} \approx 3.0857 \times 10^{16}\text{ m}$).
-</details>
-
-**Q22. (UPPCS Pre 1996)**  
-The unit of work is:  
-(a) Joule  
-(b) Neutron  
-(c) Watt  
-(d) Dyne  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (a)</b><br>
-SI unit of work and energy is Joule ($1\text{ J} = 1\text{ N}\cdot m = 1\text{ kg}\cdot m^2\cdot s^{-2}$).
-</details>
-
-**Q23. (UPPCS Pre 1990)**  
-Match List-I with List-II:  
-List-I: A. Joule, B. Ampere, C. Watt, D. Volt  
-List-II: 1. Current, 2. Power, 3. Work, 4. Electric potential  
-Code: A B C D  
-(a) 3 1 2 4  
-(b) 1 2 3 4  
-(c) 4 3 2 1  
-(d) 1 3 2 4  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (a)</b><br>
-Joule — Work (3); Ampere — Current (1); Watt — Power (2); Volt — Electric potential (4).
-</details>
-
-**Q24. (UP RO/ARO Pre Re-Exam 2023)**  
-The distance at which the average radius of Earth's orbit subtends an angle of 1 arc second, is known as:  
-(a) 1 Fermi  
-(b) 1 astronomical unit  
-(c) 1 Parsec  
-(d) 1 light year  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (c)</b><br>
-1 Parsec is the distance corresponding to a parallax of 1 arcsecond subtended by Earth's mean orbital radius ($1\text{ AU}$). Coined by Herbert Hall Turner in 1913.
-</details>
-
-**Q25. (UP RO/ARO Pre Re-Exam 2023)**  
-Which of the following is correct?  
-(a) $1\text{ metre} = 10^{90}\text{ nanometre}$  
-(b) $1\text{ metre} = 10^{19}\text{ nanometre}$  
-(c) $1\text{ metre} = 10^9\text{ nanometre}$  
-(d) None of the above  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (c)</b><br>
-$1\text{ nanometre} = 10^{-9}\text{ metre} \implies 1\text{ metre} = 10^9\text{ nanometres}$.
-</details>
-
-**Q26. (UP RO/ARO Mains 2021)**  
-'Ringelmann Scale' is used to measure the density of the following:  
-(a) fog  
-(b) noise  
-(c) polluted water  
-(d) smoke  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (d)</b><br>
-The Ringelmann Scale is a standardized visual chart for assessing the apparent density and opacity of smoke emissions from chimneys.
-</details>
-
-**Q27. (UP RO/ARO Mains 2021)**  
-Which one among the following is measured by Dobson unit?  
-(a) Ozone concentration  
-(b) Thermal conductivity  
-(c) Soil moisture  
-(d) Radiation  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (a)</b><br>
-Dobson units measure the total atmospheric column thickness/concentration of ozone.
-</details>
-
-**Q28. (UP RO/ARO Pre 2017)**  
-Which one of the following is NOT the unit of heat?  
-(a) Centigrade  
-(b) Calorie  
-(c) Erg  
-(d) Joule  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (a)</b><br>
-Centigrade (Celsius) is a unit of temperature. Calorie, erg, and joule are units of heat energy ($1\text{ cal} \approx 4.184\text{ J}$, $1\text{ J} = 10^7\text{ ergs}$).
-</details>
-
-**Q29. (UP RO/ARO Pre 2016)**  
-Which of the following is correctly matched?  
-(a) Thermoresistor — Electronic Thermometer  
-(b) Capacitor — Thermometer  
-(c) Bipolar Junction Transistor — Rectifier  
-(d) Junction Diode — Amplifier  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (a)</b><br>
-A thermoresistor (thermistor) changes its electrical resistance with temperature and acts as a sensor in electronic thermometers.
-</details>
-
-**Q30. (UP Lower Sub. Pre 2015)**  
-Which one of the following pairs is NOT correctly matched?  
-(a) Odometer : Measuring instrument for distance covered by motor wheels  
-(b) Ondometer : Measuring instrument for frequency of electromagnetic waves  
-(c) Audiometer : Device for measuring sound intensity  
-(d) Ammeter : Measuring instrument for electric power  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (d)</b><br>
-An ammeter measures electric current, NOT electric power (which is measured by a wattmeter).
-</details>
-
-**Q31. (UP Lower Sub. Pre 2013)**  
-Which one of the following SI units is NOT correctly matched?  
-(a) Work — Joule  
-(b) Force — Newton  
-(c) Mass — kg  
-(d) Pressure — Dyne  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (d)</b><br>
-The SI unit of pressure is Pascal ($Pa$). Dyne is the CGS unit of force ($1\text{ N} = 10^5\text{ dynes}$).
-</details>
-
-**Q32. (UP UDA/LDA Pre 2010)**  
-Which unit of measurement is multiplied by 0.39 to convert it to 'inches'?  
-(a) Millimetre  
-(b) Centimetre  
-(c) Metre  
-(d) Decimetre  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (b)</b><br>
-$1\text{ inch} = 2.54\text{ cm} \implies 1\text{ cm} = \frac{1}{2.54}\text{ inches} \approx 0.3937\text{ inches}$.
-</details>
-
----
-
-## Complete PYQ Bank — UKPCS
-
-**Q33. (Uttarakhand PCS Pre 2025)**  
-Which of the following is used to measure the speed of computer's processor?  
-(a) Byte  
-(b) Bit  
-(c) Hertz  
-(d) Pixel  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (c)</b><br>
-The clock speed of a computer CPU is measured in Hertz ($Hz$) or Gigahertz ($GHz$), representing the number of execution clock cycles per second. Bytes/bits measure data storage size.
-</details>
-
-**Q34. (Uttarakhand PCS Pre 2025)**  
-The thickness of ozone layer from base to top of atmosphere is measured in:  
-(a) Dobson unit  
-(b) Decibel unit  
-(c) Angstrom unit  
-(d) Centigrade unit  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (a)</b><br>
-Dobson Unit ($DU$) is the standard measurement unit for atmospheric column ozone. $1\text{ DU} = 0.01\text{ mm}$ pure ozone thickness at STP.
-</details>
-
-**Q35. (Uttarakhand PCS Pre 2024)**  
-The term GHz is the indicator of which feature of the computer?  
-(a) Number of Pixels  
-(b) Resolution  
-(c) Speed  
-(d) Storage  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (c)</b><br>
-GHz stands for gigahertz ($10^9\text{ cycles/second}$), indicating CPU processing/clock speed.
-</details>
-
-**Q36. (Uttarakhand PCS Pre 2016)**  
-One nanometre is equal to:  
-(a) $10^{-6}\text{ cm}$  
-(b) $10^{-7}\text{ cm}$  
-(c) $10^{-8}\text{ cm}$  
-(d) $10^{-9}\text{ cm}$  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (b)</b><br>
-$1\text{ nm} = 10^{-9}\text{ m} = 10^{-9} \times 10^2\text{ cm} = 10^{-7}\text{ cm}$.
-</details>
-
-**Q37. (Uttarakhand PCS Pre 2010)**  
-Which one of the following is the unit of measure of the thickness of the ozone layer of the atmosphere?  
-(a) Knot  
-(b) Dobson  
-(c) Poise  
-(d) Maxwell  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (b)</b><br>
-Dobson is the unit of ozone layer thickness. Knot is ship speed; Poise is CGS dynamic viscosity; Maxwell is CGS magnetic flux.
-</details>
-
-**Q38. (Uttarakhand PCS Pre 2006)**  
-What is measured in cusec?  
-(a) Purity of water  
-(b) Depth of water  
-(c) Flow of water  
-(d) Quantity of water  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (c)</b><br>
-Cusec (cubic feet per second) measures the rate of flow of water ($1\text{ cusec} = 28.317\text{ litres/second}$).
-</details>
-
-**Q39. (Uttarakhand PCS Pre 2002)**  
-Pascal is a unit of measuring:  
-(a) Humidity  
-(b) Pressure  
-(c) Rainfall  
-(d) Temperature  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (b)</b><br>
-Pascal ($Pa = N/m^2$) is the SI unit of pressure and stress.
-</details>
-
-**Q40. (Uttarakhand PCS Pre 2002)**  
-$1\text{ kg/cm}^2$ pressure is equivalent to:  
-(a) $0.1\text{ bar}$  
-(b) $1.0\text{ bar}$  
-(c) $10.0\text{ bar}$  
-(d) $100.0\text{ bar}$  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (b)</b><br>
-$1\text{ kgf/cm}^2 = 98,066.5\text{ Pa} = 0.980665\text{ bar} \approx 1.0\text{ bar}$. ($1\text{ bar} = 10^5\text{ Pa} \approx 1.02\text{ kgf/cm}^2$).
-</details>
-
----
-
-## Complete PYQ Bank — BPSC, IAS & Other State PCS (Ghatnachakra Focus)
-
-**Q41. (70th BPSC Pre 2024)**  
-What is the unit of measure of magnetic field?  
-(a) Cobalt  
-(b) Ampere  
-(c) Ohm  
-(d) Tesla  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (d)</b><br>
-In the SI system, the unit of magnetic flux density ($B$-field) is <b>Tesla (T)</b>. $1\text{ T} = 1\text{ Wb/m}^2 = 1\text{ N}/(A\cdot m)$.
-</details>
-
-**Q42. (70th BPSC Pre 2024)**  
-Which of the following is equivalent to tesla?  
-(a) Ampere per Newton  
-(b) Newton per coulomb  
-(c) Newton per ampere-second  
-(d) Newton per ampere-meter  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (d)</b><br>
-From Lorentz magnetic force $F = I L B \sin\theta \implies B = \frac{F}{I L}$, the SI unit is $\frac{\text{Newton}}{\text{Ampere}\cdot\text{metre}}$ ($N/(A\cdot m)$), which equals 1 Tesla.
-</details>
-
-**Q43. (70th BPSC Pre 2024)**  
-Which of the following is the value of solar constant?  
-(a) $1.6\text{ kW/m}^2$  
-(b) $1.4\text{ kW/m}^2$  
-(c) $1.2\text{ kW/m}^2$  
-(d) $1.8\text{ kW/m}^2$  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (b)</b><br>
-The solar constant is the total solar irradiance reaching the top of Earth's atmosphere per unit area at $1\text{ AU}$. NASA SORCE/TSIS-1 satellite observations establish this value at $1361.6 \pm 0.3\text{ W/m}^2$, which rounds to <b>$1.4\text{ kW/m}^2$</b> ($1400\text{ W/m}^2$).
-</details>
-
-**Q44. (70th BPSC Pre 2024)**  
-The meter that is used to measure the distance moved by the vehicle is known as:  
-(a) Ammeter  
-(b) Speedometer  
-(c) Chronometer  
-(d) Odometer  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (d)</b><br>
-An <b>odometer</b> measures cumulative distance travelled. Speedometer displays instantaneous speed; ammeter measures electric current; chronometer is an ultra-precise marine timekeeper.
-</details>
-
-**Q45. (70th BPSC Pre 2024)**  
-Which of the following is a non-contact force?  
-(a) Magnetic force  
-(b) Frictional force  
-(c) Impact force  
-(d) None of these  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (a)</b><br>
-Non-contact forces act across space without physical contact between objects (Gravitational, Electrostatic, Magnetic forces). Friction and impact forces require direct physical surface contact.
-</details>
-
-**Q46. (67th BPSC Pre 2022)**  
-Which of the following is NOT correctly matched?  
-(a) Voltmeter — Potential difference  
-(b) Ammeter — Electric current  
-(c) Potentiometer — Electromotive force  
-(d) Galvanometer — Electric resistance  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (d)</b><br>
-A galvanometer is used to detect and measure small electric currents, NOT electrical resistance (which is measured by an ohmmeter).
-</details>
-
-**Q47. (66th BPSC Pre Re-Exam 2020)**  
-In the following which is fundamental physical quantity?  
-(a) Force  
-(b) Velocity  
-(c) Electric current  
-(d) Work  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (c)</b><br>
-Electric current is one of the 7 base SI physical quantities (unit: Ampere). Force, velocity, and work are derived quantities.
-</details>
-
-**Q48. (66th BPSC Pre Re-Exam 2020)**  
-'Ohm-meter' is unit of:  
-(a) Resistance  
-(b) Conductance  
-(c) Resistivity  
-(d) Charge  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (c)</b><br>
-$R = \rho \frac{l}{A} \implies \rho = \frac{R A}{l} = \frac{\Omega \cdot m^2}{m} = \Omega\cdot m$. Hence, ohm-metre is the SI unit of electrical resistivity.
-</details>
-
-**Q49. (65th BPSC Pre 2019 / 64th BPSC Pre 2018)**  
-The unit of electric power is:  
-(a) Ampere  
-(b) Volt  
-(c) Coulomb  
-(d) Watt  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (d)</b><br>
-Electric power is the rate of energy transfer per unit time ($P = VI = W/t$). SI unit is Watt ($1\text{ W} = 1\text{ J/s}$).
-</details>
-
-**Q50. (65th BPSC Pre 2019)**  
-What is measured in hertz?  
-(a) Frequency  
-(b) Energy  
-(c) Heat  
-(d) Quality  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (a)</b><br>
-Hertz ($Hz = s^{-1}$) is the derived SI unit of frequency, representing one complete oscillation or cycle per second.
-</details>
-
-**Q51. (65th BPSC Pre 2019)**  
-Which one of the following quantities does not have unit?  
-(a) Stress  
-(b) Force  
-(c) Strain  
-(d) Pressure  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (c)</b><br>
-Strain is defined as fractional deformation ($\Delta l / l$ or $\Delta V / V$). Being a ratio of two identical physical dimensions, it is dimensionless and unitless.
-</details>
-
-**Q52. (65th BPSC Pre 2019)**  
-The unit of pressure is:  
-(a) $kg/cm^2$  
-(b) $kg/cm$  
-(c) $kg/mm$  
-(d) $kg/cm^3$  
-(e) None of the above / More than one of the above  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (e)</b><br>
-Pressure is force per unit area ($N/m^2$ or $kgf/cm^2$). The notation $kg/cm^2$ is dimensionally mass per area, not force per area. The standard unit is $kgf/cm^2$ or Pascal ($Pa$). Thus (e) is the official key.
-</details>
-
-**Q53. (64th BPSC Pre 2018)**  
-Angstrom is a unit of:  
-(a) wavelength  
-(b) energy  
-(c) frequency  
-(d) velocity  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (a)</b><br>
-Angstrom ($\text{\AA} = 10^{-10}\text{ m} = 0.1\text{ nm}$) is primarily used to specify wavelengths of electromagnetic radiation and atomic dimensions.
-</details>
-
-**Q54. (RAS/RTS Pre 2024)**  
-Which of the following are units of the pressure?  
-A. bar, B. Pa, C. torr, D. atm  
-Choose the correct option:  
-(a) Only B and D  
-(b) Only B, C and D  
-(c) Only A, B and D  
-(d) All A, B, C and D  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (d)</b><br>
-All four are recognized pressure units: Pascal ($1\text{ N/m}^2$, SI), bar ($10^5\text{ Pa}$, metric), torr ($133.32\text{ Pa} = 1\text{ mmHg}$), and atmosphere ($1\text{ atm} = 101,325\text{ Pa}$).
-</details>
-
-**Q55. (RAS/RTS Pre 2023)**  
-NTU is the unit for measuring:  
-(a) Pressure of water  
-(b) Temperature of water  
-(c) Acidity of water  
-(d) Turbidity of water  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (d)</b><br>
-NTU stands for <b>Nephelometric Turbidity Units</b>. It quantifies the optical cloudiness or opaqueness of water caused by light scattering off suspended particulate matter.
-</details>
-
-**Q56. (IAS Pre 2023)**  
-Consider the following actions:  
-1. Detection of car crash/collision which results in the deployment of airbags almost instantaneously  
-2. Detection of accidental free fall of a laptop towards the ground which results in the immediate turning off of the hard drive  
-3. Detection of the tilt of the smart-phone which results in the rotation of display between portrait and landscape mode  
-In how many of the above actions is the function of accelerometer required?  
-(a) Only one  
-(b) Only two  
-(c) All three  
-(d) None  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (c)</b><br>
-MEMS accelerometers are used in: (1) Rapid deceleration detection for airbag deployment, (2) Free-fall sensors (FFS) parking read/write heads of HDDs to protect against crash impact, (3) Gravitational tilt orientation sensing in smartphones.
-</details>
-
-**Q57. (IAS Pre 2021)**  
-Which one of the following is a reason why astronomical distances are measured in light-years?  
-(a) Distances among stellar bodies do not change  
-(b) Gravity of stellar bodies does not change  
-(c) Light always travels in straight line  
-(d) Speed of light is always same  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (d)</b><br>
-The speed of light ($c = 299,792,458\text{ m/s}$) in a vacuum is an invariant universal constant, unaffected by gravity or the relative motion of the source.
-</details>
-
-**Q58. (IAS Pre 2008)**  
-How can the height of a person who is six feet tall, be expressed (approximately) in nanometres?  
-(a) $183 \times 10^6\text{ nm}$  
-(b) $234 \times 10^6\text{ nm}$  
-(c) $183 \times 10^7\text{ nm}$  
-(d) $181 \times 10^7\text{ nm}$  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (c)</b><br>
-$1\text{ foot} = 0.3048\text{ m} \approx 30.5 \times 10^{-2}\text{ m} = 30.5 \times 10^7\text{ nm}$.  
-$6\text{ feet} = 6 \times 30.5 \times 10^7\text{ nm} = 183 \times 10^7\text{ nm}$.
-</details>
-
-**Q59. (Chhattisgarh PCS Pre 2023)**  
-The thickness of the ozone in a column of air from the ground to the top of the atmosphere is measured in terms of:  
-(a) Ozone unit  
-(b) Thomson unit  
-(c) Dobson unit  
-(d) None of the above  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (c)</b><br>
-Total column ozone is measured in Dobson Units ($DU$). Named after G.M.B. Dobson.
-</details>
-
-**Q60. (Chhattisgarh PCS Pre 2020)**  
-The instrument, used for measuring angular distances in vertical plane (elevation) and the horizontal plane (azimuth), is:  
-(a) Bevel protractor  
-(b) Altimeter  
-(c) Syncline  
-(d) Theodolite  
-<details><summary><b>Answer & High-Yield Explanation</b></summary>
-<b>Ans. (d)</b><br>
-A theodolite is a precision optical instrument used in surveying to measure horizontal azimuth and vertical elevation angles.
-</details>
-
----
-
-## Practice Zone — UPPCS Format Drill
-
-**Q1.** **Which of the following physical quantities is correctly paired with its defining 2019 SI fundamental constant?**  
-   A. Kilogram — Speed of light ($c$)  
-   B. Second — Hyperfine caesium-133 frequency ($\Delta \nu_{\text{Cs}}$)  
-   C. Kelvin — Planck constant ($h$)  
-   D. Ampere — Boltzmann constant ($k$)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B** (Kg is locked to $h$, Kelvin to $k$, Ampere to $e$).
-
-**Logic:** (Kg is locked to $h$, Kelvin to $k$, Ampere to $e$).
-
-</details>
-
-**Q2.** **$1\text{ Parsec}$ is mathematically equivalent to how many Astronomical Units ($AU$)?**  
-   A. $206,265\text{ AU} = \frac{648,000}{\pi}\text{ AU}$  
-   B. $149,597,871\text{ AU}$  
-   C. $9.46 \times 10^{12}\text{ AU}$  
-   D. $3.262\text{ AU}$
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **A** ($1\text{ Parsec} = \frac{1\text{ AU}}{\tan(1'') } \approx \frac{648,000}{\pi}\text{ AU} \approx 206,265\text{ AU}$).
-
-**Logic:** ($1\text{ Parsec} = \frac{1\text{ AU}}{\tan(1'') } \approx \frac{648,000}{\pi}\text{ AU} \approx 206,265\text{ AU}$).
-
-</details>
-
-**Q3.** **In the measurement of petroleum, 1 standard barrel equals:**  
-   A. $142\text{ litres}$  
-   B. $159\text{ litres}$  
-   C. $183\text{ litres}$  
-   D. $200\text{ litres}$
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B** ($158.987\text{ L} \approx 159\text{ L} = 42\text{ US gallons}$).
-
-**Logic:** ($158.987\text{ L} \approx 159\text{ L} = 42\text{ US gallons}$).
-
-</details>
-
-**Q4.** **A sudden, steep drop in the barometric mercury column indicates:**  
-   A. Immediate clear and dry weather  
-   B. Severe storm or thunderstorm  
-   C. Snowfall  
-   D. Persistent drizzle
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B** (Sudden drop indicates rapid atmospheric pressure deficit / incoming storm).
-
-**Logic:** (Sudden drop indicates rapid atmospheric pressure deficit / incoming storm).
-
-</details>
-
-**Q5.** **Which device is specifically used to measure the growth of plants?**  
-   A. Bolometer  
-   B. Crescograph  
-   C. Cathetometer  
-   D. Kymograph
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B** (Invented by J.C. Bose).
-
-**Logic:** (Invented by J.C. Bose).
-
-</details>
-
-**Q6.** **The catalytic activity of an enzyme is officially expressed in which SI unit?**  
-   A. Gray  
-   B. Sievert  
-   C. Katal  
-   D. Candela
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **C** ($1\text{ katal} = 1\text{ mole/second}$).
-
-**Logic:** ($1\text{ katal} = 1\text{ mole/second}$).
-
-</details>
-
-**Q7.** **Which instrument operates on the principle of thermal change in electrical resistance to measure incident radiation power?**  
-   A. Bolometer  
-   B. Pycnometer  
-   C. Pyrheliometer  
-   D. Nephoscope
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **A** (Bolometer).
-
-**Logic:** (Bolometer).
-
-</details>
-
-**Q8.** **A person six feet tall has a height of $1.83\text{ m}$. In nanometres, this is:**  
-   A. $1.83 \times 10^7\text{ nm}$  
-   B. $1.83 \times 10^9\text{ nm} = 183 \times 10^7\text{ nm}$  
-   C. $1.83 \times 10^6\text{ nm}$  
-   D. $18.3 \times 10^6\text{ nm}$
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B** ($1.83\text{ m} \times 10^9\text{ nm/m} = 183 \times 10^7\text{ nm}$).
-
-**Logic:** ($1.83\text{ m} \times 10^9\text{ nm/m} = 183 \times 10^7\text{ nm}$).
-
-</details>
-
-**Q9.** **What physical property does a Ringelmann Chart quantify?**  
-   A. Ocean water salinity  
-   B. Smoke opacity and density  
-   C. Soil moisture tension  
-   D. Wind gust turbulence
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B** (Smoke emissions).
-
-**Logic:** (Smoke emissions).
-
-</details>
-
-**Q10.** **The unit of dynamic viscosity in the CGS system is:**  
-    A. Pascal-second  
-    B. Poise  
-    C. Stokes  
-    D. Poiseuille
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B** ($1\text{ Pa}\cdot s = 10\text{ Poise}$. Stokes is kinematic viscosity).
-
-**Logic:** ($1\text{ Pa}\cdot s = 10\text{ Poise}$. Stokes is kinematic viscosity).
-
-</details>
-
-**Q11.** **One astronomical unit ($AU$) is approximately equal to:**  
-    A. $9.46 \times 10^{15}\text{ m}$  
-    B. $1.496 \times 10^{11}\text{ m}$  
-    C. $3.08 \times 10^{16}\text{ m}$  
-    D. $3.84 \times 10^8\text{ m}$
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B** ($149.6\text{ million km}$).
-
-**Logic:** ($149.6\text{ million km}$).
-
-</details>
-
-**Q12.** **The SI unit of magnetic field strength ($H$) is:**  
-    A. Tesla  
-    B. Weber  
-    C. Ampere per metre  
-    D. Henry
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **C** ($A/m$. Tesla is flux density $B$).
-
-**Logic:** ($A/m$. Tesla is flux density $B$).
-
-</details>
-
-**Q13.** **Which instrument is used to determine the angle of dip of Earth's magnetic field?**  
-    A. Sextant  
-    B. Dip Circle  
-    C. Spherometer  
-    D. Theodolite
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B** (Dip Circle).
-
-**Logic:** (Dip Circle).
-
-</details>
-
-**Q14.** **In the human body, the electrical recording of brain activity is denoted by:**  
-    A. ECG  
-    B. EEG  
-    C. EMG  
-    D. ERG
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B** (Electroencephalogram).
-
-**Logic:** (Electroencephalogram).
-
-</details>
-
-**Q15.** **A pressure of $1\text{ bar}$ in CGS units is:**  
-    A. $10^5\text{ dyne/cm}^2$  
-    B. $10^6\text{ dyne/cm}^2$  
-    C. $10^7\text{ dyne/cm}^2$  
-    D. $10^3\text{ dyne/cm}^2$
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B** ($1\text{ bar} = 10^5\text{ N/m}^2 = 10^5 \times 10^5\text{ dyne} / 10^4\text{ cm}^2 = 10^6\text{ dyne/cm}^2$).
-
-**Logic:** ($1\text{ bar} = 10^5\text{ N/m}^2 = 10^5 \times 10^5\text{ dyne} / 10^4\text{ cm}^2 = 10^6\text{ dyne/cm}^2$).
-
-</details>
-
-**Q16.** **Which of the following is NOT a unit of energy?**  
-    A. Erg  
-    B. Calorie  
-    C. Kilowatt-hour  
-    D. Megawatt
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **D** (Megawatt is a unit of power).
-
-**Logic:** (Megawatt is a unit of power).
-
-</details>
-
-**Q17.** **A fathometer measures ocean depth in fathoms. One fathom equals:**  
-    A. $4\text{ feet}$  
-    B. $6\text{ feet} = 1.8288\text{ m}$  
-    C. $10\text{ feet}$  
-    D. $12\text{ feet}$
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B**.
-
-**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
-
-</details>
-
-**Q18.** **The SI derived unit 'lux' is equivalent to:**  
-    A. $cd\cdot sr$  
-    B. $lm/m^2 = cd\cdot sr\cdot m^{-2}$  
-    C. $W/m^2$  
-    D. $J/s$
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B**.
-
-**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
-
-</details>
-
-**Q19.** **Water turbidity caused by suspended insoluble colloidal particles is measured in:**  
-    A. Cusec  
-    B. Dobson  
-    C. NTU  
-    D. Poise
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **C** (Nephelometric Turbidity Units).
-
-**Logic:** (Nephelometric Turbidity Units).
-
-</details>
-
-**Q20.** **Which device is utilized by navigators at sea to determine longitude with high precision?**  
-    A. Sextant  
-    B. Chronometer  
-    C. Gyroscope  
-    D. Anemometer
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B** (Marine chronometer).
-
-**Logic:** (Marine chronometer).
-
-</details>
-
-**Q21.** **Which of the following units represents the maximum distance?**  
-    A. Light-year  
-    B. Astronomical Unit  
-    C. Parsec  
-    D. Mile
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **C** ($1\text{ Parsec} = 3.262\text{ ly} > 1\text{ ly} > 1\text{ AU}$).
-
-**Logic:** ($1\text{ Parsec} = 3.262\text{ ly} > 1\text{ ly} > 1\text{ AU}$).
-
-</details>
-
-**Q22.** **The unit of electrical conductance, Siemens, is the reciprocal of:**  
-    A. Volt  
-    B. Ampere  
-    C. Ohm  
-    D. Farad
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **C** ($S = \Omega^{-1} = \text{mho}$).
-
-**Logic:** ($S = \Omega^{-1} = \text{mho}$).
-
-</details>
-
-**Q23.** **Which instrument measures actual evapotranspiration from a vegetated field?**  
-    A. Atmometer  
-    B. Lysimeter  
-    C. Psychrometer  
-    D. Hypsometer
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B** (Lysimeter).
-
-**Logic:** (Lysimeter).
-
-</details>
-
-**Q24.** **In air pollution monitoring, PM2.5 indicates particulate matter with diameter up to:**  
-    A. $2.5\text{ millimetres}$  
-    B. $2.5\text{ nanometres}$  
-    C. $2.5\text{ micrometres (microns)}$  
-    D. $2.5\text{ picometres}$
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **C**.
-
-**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
-
-</details>
-
-**Q25.** **One horsepower ($hp$) in SI units is precisely:**  
-    A. $735.5\text{ W}$  
-    B. $746\text{ W}$  
-    C. $750\text{ W}$  
-    D. $1000\text{ W}$
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B** ($746\text{ W}$).
-
-**Logic:** ($746\text{ W}$).
-
-</details>
-
-**Q26.** **Which remote sensor measures direct normal solar irradiance?**  
-    A. Pyrheliometer  
-    B. Pyranometer  
-    C. Pycnometer  
-    D. Photometer
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **A**.
-
-**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
-
----
-
-</details>
-
-## Common Traps & Negative-Marking Eliminators
-1. **Light-Year Trap**: Do NOT mark light-year as a unit of time. It is astronomical distance ($9.461 \times 10^{15}\text{ m}$).
-2. **Curie vs Becquerel Trap**: If a question asks for the **SI unit** of radioactivity, the answer is **Becquerel (Bq)**. Marking Curie will incur negative marks!
-3. **Barometer Sudden Drop**: A sudden steep drop means **storm / cyclone**. A gradual slow decline indicates rain. A gradual rise indicates dry, fair weather.
-4. **Hydrometer vs Hygrometer Trap**:
-   - **Hydro-** = water/liquid density (relative density of liquids).
-   - **Hygro-** = moisture/vapor in air (relative humidity).
-5. **Tesla vs Weber**: Tesla is magnetic flux *density* ($B$). Weber is magnetic *flux* ($\Phi$).
-6. **Ammeter Connection Trap**: An ammeter is connected in **series** and has ideally **zero** internal resistance. A voltmeter is connected in **parallel** and has ideally **infinite** resistance.
-7. **Computer Processor Clock Speed**: Measured in **Hertz ($Hz$) / Gigahertz ($GHz$)**, NOT bytes or bits (which measure memory/storage capacity).
-8. **Kilowatt-Hour Trap**: $kWh$ is a commercial unit of **energy** ($1\text{ kWh} = 3.6 \times 10^6\text{ J}$), NOT electrical power.
-9. **Strain is Unitless**: Mechanical strain is $\frac{\Delta l}{l}$ (dimensionless, no unit).
-10. **1 Parsec Value**: $1\text{ pc} = 3.262\text{ ly} = 206,265\text{ AU} = \frac{648,000}{\pi}\text{ AU} = 3.0857 \times 10^{16}\text{ m}$.
-
-
----
-
 ## Bilingual Terminology -- Physics Fundamentals and Measurement
 
 | English Term | Hindi Term | Key Anchor |
@@ -1489,6 +384,817 @@ A theodolite is a precision optical instrument used in surveying to measure hori
 | **Hertz** (हर्ट्ज) | हर्ट्ज | SI unit of frequency; 1 Hz = 1 cycle/second |
 | **Pascal** (पास्कल) | पास्कल | SI unit of pressure; 1 Pa = 1 N/m2 |
 | **Decibel** (डेसिबल) | डेसिबल | Logarithmic unit of sound intensity; 0 dB = threshold of hearing |
+
+---
+
+## Complete PYQ Bank — UPPCS
+
+**Q-ST1. UPPCS Pre 2024**
+A bus covers the first half of a certain distance with speed $v_1$ and the second half with a speed $v_2$. The average speed during the whole journey is:  
+(a) $\frac{v_1 v_2}{v_1 + v_2}$  
+(b) $\frac{2 v_1 v_2}{v_1 + v_2}$  
+(c) $\frac{v_1 + v_2}{2}$  
+(d) $\sqrt{v_1 v_2}$  
+<details><summary>Show answer</summary>
+
+**Logic:** Let total distance be $2d$.
+
+**Ans: B.** $\frac{2 v1 v2}{v1 + v2}$
+</details>
+
+**Q-ST2. UPPCS Pre 2022**
+Which of the following pairs is NOT correctly matched?  
+(a) Power of lens — Diopter  
+(b) Pressure — Pascal  
+(c) Activity of radioactive substance — Curie  
+(d) Heat — Joule  
+<details><summary>Show answer</summary>
+
+**Logic:** The SI unit of radioactivity is the becquerel (Bq) ($1\text{ Bq} = 1\text{ decay/s}$).
+
+**Ans: C.** Activity of radioactive substance — Curie
+</details>
+
+**Q-ST3. UPPCS Pre 2016**
+Which one of the following thermometers is known as pyrometer?  
+(a) Thermo-electric thermometers  
+(b) Radiation thermometers  
+(c) Gas thermometers  
+(d) Liquid thermometers  
+<details><summary>Show answer</summary>
+
+**Logic:** A pyrometer is a remote-sensing radiation thermometer that measures the temperature of an object from its emitted thermal radiation (Stefan-Boltzmann Law $E \propto T^4$).
+
+**Ans: B.** Radiation thermometers
+</details>
+
+**Q-ST4. UPPCS Mains 2016**
+Which one of the following devices is used to measure extremely high temperature?  
+(a) Pyrometer  
+(b) Photometer  
+(c) Phonometer  
+(d) Pycnometer  
+<details><summary>Show answer</summary>
+
+**Logic:** Pyrometer measures extremely high temperatures ($>1500^\circ C$).
+
+**Ans: A.** Pyrometer
+</details>
+
+**Q-ST5. UPPCS Pre Re-Exam 2015**
+'Pyrheliometer' is used for measuring:  
+(a) Sun spots  
+(b) Solar radiation  
+(c) Air temperature  
+(d) Temperature of plants  
+<details><summary>Show answer</summary>
+
+**Logic:** Pyrheliometers measure direct-beam solar irradiance at normal incidence.
+
+**Ans: B.** Solar radiation
+</details>
+
+**Q-ST6. UPPCS Pre 2016**
+The velocity of wind is measured by:  
+(a) Barometer  
+(b) Anemometer  
+(c) Hydrometer  
+(d) Wind vane  
+<details><summary>Show answer</summary>
+
+**Logic:** Anemometer measures wind speed and velocity.
+
+**Ans: B.** Anemometer
+</details>
+
+**Q-ST7. UPPCS Mains 2014**
+Which one of the following devices is used to measure the intensity of earthquake?  
+(a) Seismograph  
+(b) Stethoscope  
+(c) Cosmograph  
+(d) Periscope  
+<details><summary>Show answer</summary>
+
+**Logic:** Seismograph records seismic ground vibrations produced by earthquakes.
+
+**Ans: A.** Seismograph
+</details>
+
+**Q-ST8. UPPCS Mains 2014**
+Phonometer is used to measure which one of the following?  
+(a) The power of brightness of light  
+(b) Extremely high temperature  
+(c) Frequency of electromagnetic wave  
+(d) Testing the force of human voice in speaking  
+<details><summary>Show answer</summary>
+
+**Logic:** Phonometer is an acoustic instrument designed to measure sound loudness and vocal force.
+
+**Ans: D.** Testing the force of human voice in speaking
+</details>
+
+**Q-ST9. UPPCS Pre 2012**
+Why do pendulum clocks usually lose time in summer?  
+(a) Due to longer days in summer  
+(b) Due to friction caused by coils  
+(c) The length of the pendulum increases, increasing the time period of unit oscillation  
+(d) The weight of the pendulum changes in summer  
+<details><summary>Show answer</summary>
+
+**Logic:** Time period $T = 2\pi \sqrt{l/g}$.
+
+**Ans: C.** The length of the pendulum increases, increasing the time period of unit oscillation
+</details>
+
+**Q-ST10. UPPCS Mains 2011**
+One micron represents a length of:  
+(a) $10^{-6}\text{ cm}$  
+(b) $10^{-4}\text{ cm}$  
+(c) $1\text{ mm}$  
+(d) $1\text{ m}$  
+<details><summary>Show answer</summary>
+
+**Logic:** $1\text{ micron} = 10^{-6}\text{ m}$.
+
+**Ans: B.** $10^{-4}\text{ cm}$
+</details>
+
+**Q-ST11. UPPCS Pre 2010 / Mains 2010**
+Which one of the following is NOT correctly matched?  
+(a) Knot — Measure of speed of ship  
+(b) Nautical mile — Unit of distance used in navigation  
+(c) Angstrom — Unit of wavelength of light  
+(d) Light year — Unit of measuring time  
+<details><summary>Show answer</summary>
+
+**Logic:** Light-year is a unit of astronomical distance, NOT time ($1\text{ ly} \approx 9.461 \times 10^{15}\text{ m}$).
+
+**Ans: D.** Light year — Unit of measuring time
+</details>
+
+**Q-ST12. UPPCS Pre 2009**
+1 barrel of oil is equal to which of the following?  
+(a) 131 litre  
+(b) 159 litre  
+(c) 179 litre  
+(d) 201 litre  
+<details><summary>Show answer</summary>
+
+**Logic:** $1\text{ barrel} = 158.9873\text{ litres} \approx 159\text{ litres} = 42\text{ US gallons} = 0.158987\text{ m}^3$.
+
+**Ans: B.** 159 litre
+</details>
+
+**Q-ST13. UPPCS Pre 2009**
+The thermometer used to measure $2000^\circ C$ temperature is:  
+(a) Gas thermometer  
+(b) Mercury thermometer  
+(c) Total radiation pyrometer  
+(d) Steam pressure thermometer  
+<details><summary>Show answer</summary>
+
+**Logic:** Total radiation pyrometers can measure temperatures well above $1500^\circ C$ up to thousands of degrees without physical contact.
+
+**Ans: C.** Total radiation pyrometer
+</details>
+
+**Q-ST14. UPPCS Pre 2008**
+Match List-I with List-II:  
+List-I: A. Stethoscope, B. Sphygmomanometer, C. Caratometer, D. Luxmeter  
+List-II: 1. Intensity of light, 2. Purity of gold, 3. Hear heart sound, 4. Measure blood pressure  
+Code: A B C D  
+(a) 1 2 3 4  
+(b) 4 3 2 1  
+(c) 3 4 2 1  
+(d) 2 1 4 3  
+<details><summary>Show answer</summary>
+
+**Logic:** Standard key matches 3 4 2 1.
+
+**Ans: C.** 3 4 2 1
+</details>
+
+**Q-ST15. UPPCS Pre 2007**
+The equipment used for measuring blood pressure is:  
+(a) Tacheometer  
+(b) Sphygmomanometer  
+(c) Actiometer  
+(d) Barometer  
+<details><summary>Show answer</summary>
+
+**Logic:** Sphygmomanometer measures arterial blood pressure.
+
+**Ans: B.** Sphygmomanometer
+</details>
+
+**Q-ST16. UPPCS Pre 2006**
+Match List-I with List-II:  
+List-I: A. High speed, B. Wavelength, C. Pressure, D. Energy  
+List-II: 1. Mach, 2. Angstrom, 3. Pascal, 4. Joule  
+Code: A B C D  
+(a) 2 1 3 4  
+(b) 1 2 4 3  
+(c) 1 2 3 4  
+(d) 2 1 4 3  
+<details><summary>Show answer</summary>
+
+**Logic:** Standard key matches 1 2 3 4.
+
+**Ans: C.** 1 2 3 4
+</details>
+
+**Q-ST17. UPPCS Pre 2005**
+The smallest unit of length is:  
+(a) Micron  
+(b) Nanometre  
+(c) Angstrom  
+(d) Fermimetre  
+<details><summary>Show answer</summary>
+
+**Logic:** Fermimetre (Fermi) $= 10^{-15}\text{ m}$.
+
+**Ans: D.** Fermimetre
+</details>
+
+**Q-ST18. UPPCS Pre 2005 / UDA/LDA 2001**
+Match List-I with List-II:  
+List-I: A. Acceleration, B. Force, C. Work done, D. Impulse  
+List-II: 1. Joule, 2. Newton second, 3. Newton, 4. Metre/second²  
+Code: A B C D  
+(a) 1 2 3 4  
+(b) 3 4 1 2  
+(c) 2 3 4 1  
+(d) 4 3 1 2  
+<details><summary>Show answer</summary>
+
+**Logic:** Standard key matches 4 3 1 2.
+
+**Ans: D.** 4 3 1 2
+</details>
+
+**Q-ST19. UPPCS Pre 2000 / RO/ARO 2016**
+Which one of the following instruments is used for locating submerged objects in an ocean?  
+(a) Audiometer  
+(b) Galvanometer  
+(c) Sextant  
+(d) SONAR  
+<details><summary>Show answer</summary>
+
+**Logic:** Standard key matches SONAR.
+
+**Ans: D.** SONAR
+</details>
+
+**Q-ST20. UPPCS Pre 1999**
+Which one of the following is NOT correctly matched:  
+(a) Manometer — Pressure  
+(b) Carburetor — Internal combustion engine  
+(c) Cardiograph — Heart movement  
+(d) Seismometer — Curvature of surface  
+<details><summary>Show answer</summary>
+
+**Logic:** A seismometer measures seismic waves generated by earthquakes.
+
+**Ans: D.** Seismometer — Curvature of surface
+</details>
+
+**Q-ST21. UPPCS Pre 1997**
+PARSEC is the unit of:  
+(a) Distance  
+(b) Time  
+(c) Light intensity  
+(d) Magnetic force  
+<details><summary>Show answer</summary>
+
+**Logic:** Parsec is a unit of astronomical distance ($1\text{ pc} \approx 3.262\text{ ly} \approx 3.0857 \times 10^{16}\text{ m}$).
+
+**Ans: A.** Distance
+</details>
+
+**Q-ST22. UPPCS Pre 1996**
+The unit of work is:  
+(a) Joule  
+(b) Neutron  
+(c) Watt  
+(d) Dyne  
+<details><summary>Show answer</summary>
+
+**Logic:** Standard key matches Joule.
+
+**Ans: A.** Joule
+</details>
+
+**Q-ST23. UPPCS Pre 1990**
+Match List-I with List-II:  
+List-I: A. Joule, B. Ampere, C. Watt, D. Volt  
+List-II: 1. Current, 2. Power, 3. Work, 4. Electric potential  
+Code: A B C D  
+(a) 3 1 2 4  
+(b) 1 2 3 4  
+(c) 4 3 2 1  
+(d) 1 3 2 4  
+<details><summary>Show answer</summary>
+
+**Logic:** Standard key matches 3 1 2 4.
+
+**Ans: A.** 3 1 2 4
+</details>
+
+**Q-ST24. UP RO/ARO Pre Re-Exam 2023**
+The distance at which the average radius of Earth's orbit subtends an angle of 1 arc second, is known as:  
+(a) 1 Fermi  
+(b) 1 astronomical unit  
+(c) 1 Parsec  
+(d) 1 light year  
+<details><summary>Show answer</summary>
+
+**Logic:** 1 Parsec is the distance corresponding to a parallax of 1 arcsecond subtended by Earth's mean orbital radius ($1\text{ AU}$).
+
+**Ans: C.** 1 Parsec
+</details>
+
+**Q-ST25. UP RO/ARO Pre Re-Exam 2023**
+Which of the following is correct?  
+(a) $1\text{ metre} = 10^{90}\text{ nanometre}$  
+(b) $1\text{ metre} = 10^{19}\text{ nanometre}$  
+(c) $1\text{ metre} = 10^9\text{ nanometre}$  
+(d) None of the above  
+<details><summary>Show answer</summary>
+
+**Logic:** $1\text{ nanometre} = 10^{-9}\text{ metre} \implies 1\text{ metre} = 10^9\text{ nanometres}$.
+
+**Ans: C.** $1\text{ metre} = 10^9\text{ nanometre}$
+</details>
+
+**Q-ST26. UP RO/ARO Mains 2021**
+'Ringelmann Scale' is used to measure the density of the following:  
+(a) fog  
+(b) noise  
+(c) polluted water  
+(d) smoke  
+<details><summary>Show answer</summary>
+
+**Logic:** Standard key matches smoke.
+
+**Ans: D.** smoke
+</details>
+
+**Q-ST27. UP RO/ARO Mains 2021**
+Which one among the following is measured by Dobson unit?  
+(a) Ozone concentration  
+(b) Thermal conductivity  
+(c) Soil moisture  
+(d) Radiation  
+<details><summary>Show answer</summary>
+
+**Logic:** Dobson units measure the total atmospheric column thickness/concentration of ozone.
+
+**Ans: A.** Ozone concentration
+</details>
+
+**Q-ST28. UP RO/ARO Pre 2017**
+Which one of the following is NOT the unit of heat?  
+(a) Centigrade  
+(b) Calorie  
+(c) Erg  
+(d) Joule  
+<details><summary>Show answer</summary>
+
+**Logic:** Centigrade (Celsius) is a unit of temperature.
+
+**Ans: A.** Centigrade
+</details>
+
+**Q-ST29. UP RO/ARO Pre 2016**
+Which of the following is correctly matched?  
+(a) Thermoresistor — Electronic Thermometer  
+(b) Capacitor — Thermometer  
+(c) Bipolar Junction Transistor — Rectifier  
+(d) Junction Diode — Amplifier  
+<details><summary>Show answer</summary>
+
+**Logic:** A thermoresistor (thermistor) changes its electrical resistance with temperature and acts as a sensor in electronic thermometers.
+
+**Ans: A.** Thermoresistor — Electronic Thermometer
+</details>
+
+**Q-ST30. UP Lower Sub. Pre 2015**
+Which one of the following pairs is NOT correctly matched?  
+(a) Odometer : Measuring instrument for distance covered by motor wheels  
+(b) Ondometer : Measuring instrument for frequency of electromagnetic waves  
+(c) Audiometer : Device for measuring sound intensity  
+(d) Ammeter : Measuring instrument for electric power  
+<details><summary>Show answer</summary>
+
+**Logic:** An ammeter measures electric current, NOT electric power (which is measured by a wattmeter).
+
+**Ans: D.** Ammeter : Measuring instrument for electric power
+</details>
+
+**Q-ST31. UP Lower Sub. Pre 2013**
+Which one of the following SI units is NOT correctly matched?  
+(a) Work — Joule  
+(b) Force — Newton  
+(c) Mass — kg  
+(d) Pressure — Dyne  
+<details><summary>Show answer</summary>
+
+**Logic:** The SI unit of pressure is Pascal ($Pa$).
+
+**Ans: D.** Pressure — Dyne
+</details>
+
+**Q-ST32. UP UDA/LDA Pre 2010**
+Which unit of measurement is multiplied by 0.39 to convert it to 'inches'?  
+(a) Millimetre  
+(b) Centimetre  
+(c) Metre  
+(d) Decimetre  
+<details><summary>Show answer</summary>
+
+**Logic:** $1\text{ inch} = 2.54\text{ cm} \implies 1\text{ cm} = \frac{1}{2.54}\text{ inches} \approx 0.3937\text{ inches}$.
+
+**Ans: B.** Centimetre
+</details>
+
+---
+
+## Complete PYQ Bank — UKPCS
+
+**Q-ST33. Uttarakhand PCS Pre 2025**
+Which of the following is used to measure the speed of computer's processor?  
+(a) Byte  
+(b) Bit  
+(c) Hertz  
+(d) Pixel  
+<details><summary>Show answer</summary>
+
+**Logic:** Standard key matches Hertz.
+
+**Ans: C.** Hertz
+</details>
+
+**Q-ST34. Uttarakhand PCS Pre 2025**
+The thickness of ozone layer from base to top of atmosphere is measured in:  
+(a) Dobson unit  
+(b) Decibel unit  
+(c) Angstrom unit  
+(d) Centigrade unit  
+<details><summary>Show answer</summary>
+
+**Logic:** Dobson Unit ($DU$) is the standard measurement unit for atmospheric column ozone.
+
+**Ans: A.** Dobson unit
+</details>
+
+**Q-ST35. Uttarakhand PCS Pre 2024**
+The term GHz is the indicator of which feature of the computer?  
+(a) Number of Pixels  
+(b) Resolution  
+(c) Speed  
+(d) Storage  
+<details><summary>Show answer</summary>
+
+**Logic:** Standard key matches Speed.
+
+**Ans: C.** Speed
+</details>
+
+**Q-ST36. Uttarakhand PCS Pre 2016**
+One nanometre is equal to:  
+(a) $10^{-6}\text{ cm}$  
+(b) $10^{-7}\text{ cm}$  
+(c) $10^{-8}\text{ cm}$  
+(d) $10^{-9}\text{ cm}$  
+<details><summary>Show answer</summary>
+
+**Logic:** $1\text{ nm} = 10^{-9}\text{ m} = 10^{-9} \times 10^2\text{ cm} = 10^{-7}\text{ cm}$.
+
+**Ans: B.** $10^{-7}\text{ cm}$
+</details>
+
+**Q-ST37. Uttarakhand PCS Pre 2010**
+Which one of the following is the unit of measure of the thickness of the ozone layer of the atmosphere?  
+(a) Knot  
+(b) Dobson  
+(c) Poise  
+(d) Maxwell  
+<details><summary>Show answer</summary>
+
+**Logic:** Standard key matches Dobson.
+
+**Ans: B.** Dobson
+</details>
+
+**Q-ST38. Uttarakhand PCS Pre 2006**
+What is measured in cusec?  
+(a) Purity of water  
+(b) Depth of water  
+(c) Flow of water  
+(d) Quantity of water  
+<details><summary>Show answer</summary>
+
+**Logic:** Cusec (cubic feet per second) measures the rate of flow of water ($1\text{ cusec} = 28.317\text{ litres/second}$).
+
+**Ans: C.** Flow of water
+</details>
+
+**Q-ST39. Uttarakhand PCS Pre 2002**
+Pascal is a unit of measuring:  
+(a) Humidity  
+(b) Pressure  
+(c) Rainfall  
+(d) Temperature  
+<details><summary>Show answer</summary>
+
+**Logic:** Pascal ($Pa = N/m^2$) is the SI unit of pressure and stress.
+
+**Ans: B.** Pressure
+</details>
+
+**Q-ST40. Uttarakhand PCS Pre 2002**
+$1\text{ kg/cm}^2$ pressure is equivalent to:  
+(a) $0.1\text{ bar}$  
+(b) $1.0\text{ bar}$  
+(c) $10.0\text{ bar}$  
+(d) $100.0\text{ bar}$  
+<details><summary>Show answer</summary>
+
+**Logic:** $1\text{ kgf/cm}^2 = 98,066.5\text{ Pa} = 0.980665\text{ bar} \approx 1.0\text{ bar}$.
+
+**Ans: B.** $1.0\text{ bar}$
+</details>
+
+---
+
+## Complete PYQ Bank — BPSC, IAS & Other State PCS (Ghatnachakra Focus)
+
+**Q-ST41. 70th BPSC Pre 2024**
+What is the unit of measure of magnetic field?  
+(a) Cobalt  
+(b) Ampere  
+(c) Ohm  
+(d) Tesla  
+<details><summary>Show answer</summary>
+
+**Logic:** Standard key matches Tesla.
+
+**Ans: D.** Tesla
+</details>
+
+**Q-ST42. 70th BPSC Pre 2024**
+Which of the following is equivalent to tesla?  
+(a) Ampere per Newton  
+(b) Newton per coulomb  
+(c) Newton per ampere-second  
+(d) Newton per ampere-meter  
+<details><summary>Show answer</summary>
+
+**Logic:** From Lorentz magnetic force $F = I L B \sin\theta \implies B = \frac{F}{I L}$, the SI unit is $\frac{\text{Newton}}{\text{Ampere}\cdot\text{metre}}$ ($N/(A\cdot m)$), which equals 1 Tesla.
+
+**Ans: D.** Newton per ampere-meter
+</details>
+
+**Q-ST43. 70th BPSC Pre 2024**
+Which of the following is the value of solar constant?  
+(a) $1.6\text{ kW/m}^2$  
+(b) $1.4\text{ kW/m}^2$  
+(c) $1.2\text{ kW/m}^2$  
+(d) $1.8\text{ kW/m}^2$  
+<details><summary>Show answer</summary>
+
+**Logic:** The solar constant is the total solar irradiance reaching the top of Earth's atmosphere per unit area at $1\text{ AU}$.
+
+**Ans: B.** $1.4\text{ kW/m}^2$
+</details>
+
+**Q-ST44. 70th BPSC Pre 2024**
+The meter that is used to measure the distance moved by the vehicle is known as:  
+(a) Ammeter  
+(b) Speedometer  
+(c) Chronometer  
+(d) Odometer  
+<details><summary>Show answer</summary>
+
+**Logic:** An odometer measures cumulative distance travelled.
+
+**Ans: D.** Odometer
+</details>
+
+**Q-ST45. 70th BPSC Pre 2024**
+Which of the following is a non-contact force?  
+(a) Magnetic force  
+(b) Frictional force  
+(c) Impact force  
+(d) None of these  
+<details><summary>Show answer</summary>
+
+**Logic:** Non-contact forces act across space without physical contact between objects (Gravitational, Electrostatic, Magnetic forces).
+
+**Ans: A.** Magnetic force
+</details>
+
+**Q-ST46. 67th BPSC Pre 2022**
+Which of the following is NOT correctly matched?  
+(a) Voltmeter — Potential difference  
+(b) Ammeter — Electric current  
+(c) Potentiometer — Electromotive force  
+(d) Galvanometer — Electric resistance  
+<details><summary>Show answer</summary>
+
+**Logic:** A galvanometer is used to detect and measure small electric currents, NOT electrical resistance (which is measured by an ohmmeter).
+
+**Ans: D.** Galvanometer — Electric resistance
+</details>
+
+**Q-ST47. 66th BPSC Pre Re-Exam 2020**
+In the following which is fundamental physical quantity?  
+(a) Force  
+(b) Velocity  
+(c) Electric current  
+(d) Work  
+<details><summary>Show answer</summary>
+
+**Logic:** Electric current is one of the 7 base SI physical quantities (unit: Ampere).
+
+**Ans: C.** Electric current
+</details>
+
+**Q-ST48. 66th BPSC Pre Re-Exam 2020**
+'Ohm-meter' is unit of:  
+(a) Resistance  
+(b) Conductance  
+(c) Resistivity  
+(d) Charge  
+<details><summary>Show answer</summary>
+
+**Logic:** $R = \rho \frac{l}{A} \implies \rho = \frac{R A}{l} = \frac{\Omega \cdot m^2}{m} = \Omega\cdot m$.
+
+**Ans: C.** Resistivity
+</details>
+
+**Q-ST49. 65th BPSC Pre 2019 / 64th BPSC Pre 2018**
+The unit of electric power is:  
+(a) Ampere  
+(b) Volt  
+(c) Coulomb  
+(d) Watt  
+<details><summary>Show answer</summary>
+
+**Logic:** Standard key matches Watt.
+
+**Ans: D.** Watt
+</details>
+
+**Q-ST50. 65th BPSC Pre 2019**
+What is measured in hertz?  
+(a) Frequency  
+(b) Energy  
+(c) Heat  
+(d) Quality  
+<details><summary>Show answer</summary>
+
+**Logic:** Hertz ($Hz = s^{-1}$) is the derived SI unit of frequency, representing one complete oscillation or cycle per second.
+
+**Ans: A.** Frequency
+</details>
+
+**Q-ST51. 65th BPSC Pre 2019**
+Which one of the following quantities does not have unit?  
+(a) Stress  
+(b) Force  
+(c) Strain  
+(d) Pressure  
+<details><summary>Show answer</summary>
+
+**Logic:** Standard key matches Strain.
+
+**Ans: C.** Strain
+</details>
+
+**Q-ST52. 65th BPSC Pre 2019**
+The unit of pressure is:  
+(a) $kg/cm^2$  
+(b) $kg/cm$  
+(c) $kg/mm$  
+(d) $kg/cm^3$  
+(e) None of the above / More than one of the above  
+<details><summary>Show answer</summary>
+
+**Logic:** Pressure is force per unit area ($N/m^2$ or $kgf/cm^2$).
+
+**Ans: E.** None of the above / More than one of the above
+</details>
+
+**Q-ST53. 64th BPSC Pre 2018**
+Angstrom is a unit of:  
+(a) wavelength  
+(b) energy  
+(c) frequency  
+(d) velocity  
+<details><summary>Show answer</summary>
+
+**Logic:** Angstrom ($\text{\AA} = 10^{-10}\text{ m} = 0.1\text{ nm}$) is primarily used to specify wavelengths of electromagnetic radiation and atomic dimensions.
+
+**Ans: A.** wavelength
+</details>
+
+**Q-ST54. RAS/RTS Pre 2024**
+Which of the following are units of the pressure?  
+A. bar, B. Pa, C. torr, D. atm  
+Choose the correct option:  
+(a) Only B and D  
+(b) Only B, C and D  
+(c) Only A, B and D  
+(d) All A, B, C and D  
+<details><summary>Show answer</summary>
+
+**Logic:** All four are recognized pressure units: Pascal ($1\text{ N/m}^2$, SI), bar ($10^5\text{ Pa}$, metric), torr ($133.32\text{ Pa} = 1\text{ mmHg}$), and atmosphere ($1\text{ atm} = 101,325\text{ Pa}$).
+
+**Ans: D.** All A, B, C and D
+</details>
+
+**Q-ST55. RAS/RTS Pre 2023**
+NTU is the unit for measuring:  
+(a) Pressure of water  
+(b) Temperature of water  
+(c) Acidity of water  
+(d) Turbidity of water  
+<details><summary>Show answer</summary>
+
+**Logic:** NTU stands for Nephelometric Turbidity Units .
+
+**Ans: D.** Turbidity of water
+</details>
+
+**Q-ST56. IAS Pre 2023**
+Consider the following actions:  
+1. Detection of car crash/collision which results in the deployment of airbags almost instantaneously  
+2. Detection of accidental free fall of a laptop towards the ground which results in the immediate turning off of the hard drive  
+3. Detection of the tilt of the smart-phone which results in the rotation of display between portrait and landscape mode  
+In how many of the above actions is the function of accelerometer required?  
+(a) Only one  
+(b) Only two  
+(c) All three  
+(d) None  
+<details><summary>Show answer</summary>
+
+**Logic:** MEMS accelerometers are used in: (1) Rapid deceleration detection for airbag deployment, (2) Free-fall sensors (FFS) parking read/write heads of HDDs to protect against crash impact, (3) Gravitational tilt orientation s…
+
+**Ans: C.** All three
+</details>
+
+**Q-ST57. IAS Pre 2021**
+Which one of the following is a reason why astronomical distances are measured in light-years?  
+(a) Distances among stellar bodies do not change  
+(b) Gravity of stellar bodies does not change  
+(c) Light always travels in straight line  
+(d) Speed of light is always same  
+<details><summary>Show answer</summary>
+
+**Logic:** The speed of light ($c = 299,792,458\text{ m/s}$) in a vacuum is an invariant universal constant, unaffected by gravity or the relative motion of the source.
+
+**Ans: D.** Speed of light is always same
+</details>
+
+**Q-ST58. IAS Pre 2008**
+How can the height of a person who is six feet tall, be expressed (approximately) in nanometres?  
+(a) $183 \times 10^6\text{ nm}$  
+(b) $234 \times 10^6\text{ nm}$  
+(c) $183 \times 10^7\text{ nm}$  
+(d) $181 \times 10^7\text{ nm}$  
+<details><summary>Show answer</summary>
+
+**Logic:** $1\text{ foot} = 0.3048\text{ m} \approx 30.5 \times 10^{-2}\text{ m} = 30.5 \times 10^7\text{ nm}$.
+
+**Ans: C.** $183 \times 10^7\text{ nm}$
+</details>
+
+**Q-ST59. Chhattisgarh PCS Pre 2023**
+The thickness of the ozone in a column of air from the ground to the top of the atmosphere is measured in terms of:  
+(a) Ozone unit  
+(b) Thomson unit  
+(c) Dobson unit  
+(d) None of the above  
+<details><summary>Show answer</summary>
+
+**Logic:** Total column ozone is measured in Dobson Units ($DU$).
+
+**Ans: C.** Dobson unit
+</details>
+
+**Q-ST60. Chhattisgarh PCS Pre 2020**
+The instrument, used for measuring angular distances in vertical plane (elevation) and the horizontal plane (azimuth), is:  
+(a) Bevel protractor  
+(b) Altimeter  
+(c) Syncline  
+(d) Theodolite  
+<details><summary>Show answer</summary>
+
+**Logic:** A theodolite is a precision optical instrument used in surveying to measure horizontal azimuth and vertical elevation angles.
+
+**Ans: D.** Theodolite
+</details>
 
 ---
 
@@ -1526,4 +1232,460 @@ A theodolite is a precision optical instrument used in surveying to measure hori
 | 28 | Kelvin 0 = absolute zero = -273.15 degC (theoretical minimum temperature) |
 | 29 | Speed of light (c) = 299,792,458 m/s (defines the metre) |
 | 30 | Mole = 6.02214076 x 10^23 entities (Avogadro's number; defines the mole) |
+
+## Practice Zone — UPPCS Format Drill
+
+**Q-ST1.**
+
+**Which of the following physical quantities is correctly paired with its defining 2019 SI fundamental constant?**
+   A. Kilogram — Speed of light ($c$)  
+   B. Second — Hyperfine caesium-133 frequency ($\Delta \nu_{\text{Cs}}$)  
+   C. Kelvin — Planck constant ($h$)  
+   D. Ampere — Boltzmann constant ($k$)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** (Kg is locked to $h$, Kelvin to $k$, Ampere to $e$).
+
+**Logic:** (Kg is locked to $h$, Kelvin to $k$, Ampere to $e$).
+
+</details>
+
+**Q-ST2.**
+
+**$1\text{ Parsec}$ is mathematically equivalent to how many Astronomical Units ($AU$)?**
+   A. $206,265\text{ AU} = \frac{648,000}{\pi}\text{ AU}$  
+   B. $149,597,871\text{ AU}$  
+   C. $9.46 \times 10^{12}\text{ AU}$  
+   D. $3.262\text{ AU}$
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **A** ($1\text{ Parsec} = \frac{1\text{ AU}}{\tan(1'') } \approx \frac{648,000}{\pi}\text{ AU} \approx 206,265\text{ AU}$).
+
+**Logic:** ($1\text{ Parsec} = \frac{1\text{ AU}}{\tan(1'') } \approx \frac{648,000}{\pi}\text{ AU} \approx 206,265\text{ AU}$).
+
+</details>
+
+**Q-ST3.**
+
+**In the measurement of petroleum, 1 standard barrel equals:**
+   A. $142\text{ litres}$  
+   B. $159\text{ litres}$  
+   C. $183\text{ litres}$  
+   D. $200\text{ litres}$
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** ($158.987\text{ L} \approx 159\text{ L} = 42\text{ US gallons}$).
+
+**Logic:** ($158.987\text{ L} \approx 159\text{ L} = 42\text{ US gallons}$).
+
+</details>
+
+**Q-ST4.**
+
+**A sudden, steep drop in the barometric mercury column indicates:**
+   A. Immediate clear and dry weather  
+   B. Severe storm or thunderstorm  
+   C. Snowfall  
+   D. Persistent drizzle
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** (Sudden drop indicates rapid atmospheric pressure deficit / incoming storm).
+
+**Logic:** (Sudden drop indicates rapid atmospheric pressure deficit / incoming storm).
+
+</details>
+
+**Q-ST5.**
+
+**Which device is specifically used to measure the growth of plants?**
+   A. Bolometer  
+   B. Crescograph  
+   C. Cathetometer  
+   D. Kymograph
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** (Invented by J.C. Bose).
+
+**Logic:** (Invented by J.C. Bose).
+
+</details>
+
+**Q-ST6.**
+
+**The catalytic activity of an enzyme is officially expressed in which SI unit?**
+   A. Gray  
+   B. Sievert  
+   C. Katal  
+   D. Candela
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **C** ($1\text{ katal} = 1\text{ mole/second}$).
+
+**Logic:** ($1\text{ katal} = 1\text{ mole/second}$).
+
+</details>
+
+**Q-ST7.**
+
+**Which instrument operates on the principle of thermal change in electrical resistance to measure incident radiation power?**
+   A. Bolometer  
+   B. Pycnometer  
+   C. Pyrheliometer  
+   D. Nephoscope
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **A** (Bolometer).
+
+**Logic:** (Bolometer).
+
+</details>
+
+**Q-ST8.**
+
+**A person six feet tall has a height of $1.83\text{ m}$. In nanometres, this is:**
+   A. $1.83 \times 10^7\text{ nm}$  
+   B. $1.83 \times 10^9\text{ nm} = 183 \times 10^7\text{ nm}$  
+   C. $1.83 \times 10^6\text{ nm}$  
+   D. $18.3 \times 10^6\text{ nm}$
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** ($1.83\text{ m} \times 10^9\text{ nm/m} = 183 \times 10^7\text{ nm}$).
+
+**Logic:** ($1.83\text{ m} \times 10^9\text{ nm/m} = 183 \times 10^7\text{ nm}$).
+
+</details>
+
+**Q-ST9.**
+
+**What physical property does a Ringelmann Chart quantify?**
+   A. Ocean water salinity  
+   B. Smoke opacity and density  
+   C. Soil moisture tension  
+   D. Wind gust turbulence
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** (Smoke emissions).
+
+**Logic:** (Smoke emissions).
+
+</details>
+
+**Q-ST10.**
+
+**The unit of dynamic viscosity in the CGS system is:**
+    A. Pascal-second  
+    B. Poise  
+    C. Stokes  
+    D. Poiseuille
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** ($1\text{ Pa}\cdot s = 10\text{ Poise}$. Stokes is kinematic viscosity).
+
+**Logic:** ($1\text{ Pa}\cdot s = 10\text{ Poise}$. Stokes is kinematic viscosity).
+
+</details>
+
+**Q-ST11.**
+
+**One astronomical unit ($AU$) is approximately equal to:**
+    A. $9.46 \times 10^{15}\text{ m}$  
+    B. $1.496 \times 10^{11}\text{ m}$  
+    C. $3.08 \times 10^{16}\text{ m}$  
+    D. $3.84 \times 10^8\text{ m}$
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** ($149.6\text{ million km}$).
+
+**Logic:** ($149.6\text{ million km}$).
+
+</details>
+
+**Q-ST12.**
+
+**The SI unit of magnetic field strength ($H$) is:**
+    A. Tesla  
+    B. Weber  
+    C. Ampere per metre  
+    D. Henry
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **C** ($A/m$. Tesla is flux density $B$).
+
+**Logic:** ($A/m$. Tesla is flux density $B$).
+
+</details>
+
+**Q-ST13.**
+
+**Which instrument is used to determine the angle of dip of Earth's magnetic field?**
+    A. Sextant  
+    B. Dip Circle  
+    C. Spherometer  
+    D. Theodolite
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** (Dip Circle).
+
+**Logic:** (Dip Circle).
+
+</details>
+
+**Q-ST14.**
+
+**In the human body, the electrical recording of brain activity is denoted by:**
+    A. ECG  
+    B. EEG  
+    C. EMG  
+    D. ERG
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** (Electroencephalogram).
+
+**Logic:** (Electroencephalogram).
+
+</details>
+
+**Q-ST15.**
+
+**A pressure of $1\text{ bar}$ in CGS units is:**
+    A. $10^5\text{ dyne/cm}^2$  
+    B. $10^6\text{ dyne/cm}^2$  
+    C. $10^7\text{ dyne/cm}^2$  
+    D. $10^3\text{ dyne/cm}^2$
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** ($1\text{ bar} = 10^5\text{ N/m}^2 = 10^5 \times 10^5\text{ dyne} / 10^4\text{ cm}^2 = 10^6\text{ dyne/cm}^2$).
+
+**Logic:** ($1\text{ bar} = 10^5\text{ N/m}^2 = 10^5 \times 10^5\text{ dyne} / 10^4\text{ cm}^2 = 10^6\text{ dyne/cm}^2$).
+
+</details>
+
+**Q-ST16.**
+
+**Which of the following is NOT a unit of energy?**
+    A. Erg  
+    B. Calorie  
+    C. Kilowatt-hour  
+    D. Megawatt
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **D** (Megawatt is a unit of power).
+
+**Logic:** (Megawatt is a unit of power).
+
+</details>
+
+**Q-ST17.**
+
+**A fathometer measures ocean depth in fathoms. One fathom equals:**
+    A. $4\text{ feet}$  
+    B. $6\text{ feet} = 1.8288\text{ m}$  
+    C. $10\text{ feet}$  
+    D. $12\text{ feet}$
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+**Ans:** **B**.
+</details>
+
+**Q-ST18.**
+
+**The SI derived unit 'lux' is equivalent to:**
+    A. $cd\cdot sr$  
+    B. $lm/m^2 = cd\cdot sr\cdot m^{-2}$  
+    C. $W/m^2$  
+    D. $J/s$
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+**Ans:** **B**.
+</details>
+
+**Q-ST19.**
+
+**Water turbidity caused by suspended insoluble colloidal particles is measured in:**
+    A. Cusec  
+    B. Dobson  
+    C. NTU  
+    D. Poise
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **C** (Nephelometric Turbidity Units).
+
+**Logic:** (Nephelometric Turbidity Units).
+
+</details>
+
+**Q-ST20.**
+
+**Which device is utilized by navigators at sea to determine longitude with high precision?**
+    A. Sextant  
+    B. Chronometer  
+    C. Gyroscope  
+    D. Anemometer
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** (Marine chronometer).
+
+**Logic:** (Marine chronometer).
+
+</details>
+
+**Q-ST21.**
+
+**Which of the following units represents the maximum distance?**
+    A. Light-year  
+    B. Astronomical Unit  
+    C. Parsec  
+    D. Mile
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **C** ($1\text{ Parsec} = 3.262\text{ ly} > 1\text{ ly} > 1\text{ AU}$).
+
+**Logic:** ($1\text{ Parsec} = 3.262\text{ ly} > 1\text{ ly} > 1\text{ AU}$).
+
+</details>
+
+**Q-ST22.**
+
+**The unit of electrical conductance, Siemens, is the reciprocal of:**
+    A. Volt  
+    B. Ampere  
+    C. Ohm  
+    D. Farad
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **C** ($S = \Omega^{-1} = \text{mho}$).
+
+**Logic:** ($S = \Omega^{-1} = \text{mho}$).
+
+</details>
+
+**Q-ST23.**
+
+**Which instrument measures actual evapotranspiration from a vegetated field?**
+    A. Atmometer  
+    B. Lysimeter  
+    C. Psychrometer  
+    D. Hypsometer
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** (Lysimeter).
+
+**Logic:** (Lysimeter).
+
+</details>
+
+**Q-ST24.**
+
+**In air pollution monitoring, PM2.5 indicates particulate matter with diameter up to:**
+    A. $2.5\text{ millimetres}$  
+    B. $2.5\text{ nanometres}$  
+    C. $2.5\text{ micrometres (microns)}$  
+    D. $2.5\text{ picometres}$
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+**Ans:** **C**.
+</details>
+
+**Q-ST25.**
+
+**One horsepower ($hp$) in SI units is precisely:**
+    A. $735.5\text{ W}$  
+    B. $746\text{ W}$  
+    C. $750\text{ W}$  
+    D. $1000\text{ W}$
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** ($746\text{ W}$).
+
+**Logic:** ($746\text{ W}$).
+
+</details>
+
+**Q-ST26.**
+
+**Which remote sensor measures direct normal solar irradiance?**
+    A. Pyrheliometer  
+    B. Pyranometer  
+    C. Pycnometer  
+    D. Photometer
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+**Ans:** **A**.
+</details>
+
+## Common Traps & Negative-Marking Eliminators
+1. **Light-Year Trap**: Do NOT mark light-year as a unit of time. It is astronomical distance ($9.461 \times 10^{15}\text{ m}$).
+2. **Curie vs Becquerel Trap**: If a question asks for the **SI unit** of radioactivity, the answer is **Becquerel (Bq)**. Marking Curie will incur negative marks!
+3. **Barometer Sudden Drop**: A sudden steep drop means **storm / cyclone**. A gradual slow decline indicates rain. A gradual rise indicates dry, fair weather.
+4. **Hydrometer vs Hygrometer Trap**:
+   - **Hydro-** = water/liquid density (relative density of liquids).
+   - **Hygro-** = moisture/vapor in air (relative humidity).
+5. **Tesla vs Weber**: Tesla is magnetic flux *density* ($B$). Weber is magnetic *flux* ($\Phi$).
+6. **Ammeter Connection Trap**: An ammeter is connected in **series** and has ideally **zero** internal resistance. A voltmeter is connected in **parallel** and has ideally **infinite** resistance.
+7. **Computer Processor Clock Speed**: Measured in **Hertz ($Hz$) / Gigahertz ($GHz$)**, NOT bytes or bits (which measure memory/storage capacity).
+8. **Kilowatt-Hour Trap**: $kWh$ is a commercial unit of **energy** ($1\text{ kWh} = 3.6 \times 10^6\text{ J}$), NOT electrical power.
+9. **Strain is Unitless**: Mechanical strain is $\frac{\Delta l}{l}$ (dimensionless, no unit).
+10. **1 Parsec Value**: $1\text{ pc} = 3.262\text{ ly} = 206,265\text{ AU} = \frac{648,000}{\pi}\text{ AU} = 3.0857 \times 10^{16}\text{ m}$.
+
+---
 

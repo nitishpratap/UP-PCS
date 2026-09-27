@@ -211,7 +211,7 @@ National income and planning stay in Economy Topic 1. Money and RBI deepen in To
 - Article **265** is “no tax without authority of law” — not a fund article.
 - Article **268** concerns duties collected by the Union but assigned to States in older / related teaching — not Contingency Fund.
 
-**UPPCS (Pre) 2021**
+**Q-EC1. UPPCS (Pre) 2021**
 
 Which of the following Articles of the Indian Constitution is related to Contingency Fund?
 
@@ -223,13 +223,12 @@ D. Article 268
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Contingency Fund is Art. 267. Art. 266 is Consolidated Fund and Public Account. Art. 265 is no tax without law. Art. 268 is duties collected by States.
+**Logic:** Standard key matches Article 267.
 
-**Ans: C.** Article 267.
-
+**Ans: C.** Article 267
 </details>
 
-**UPPCS (Pre) 2024**
+**Q-EC2. UPPCS (Pre) 2024**
 
 Match List-I and List-II and choose the correct answer from the codes given below the lists:
 
@@ -252,9 +251,9 @@ D. 1 2 3 4
 <details>
 <summary>Show answer</summary>
 
-**Logic:** CFI → 266; FC → 280; Financial Emergency → 360; CAG → 148. Code 1 3 2 4.
+**Logic:** Code 1 3 2 4.
 
-**Ans: C.** 1 3 2 4.
+**Ans: C.** CFI → 266; FC → 280; Financial Emergency → 360; CAG → 148.
 
 </details>
 
@@ -315,7 +314,7 @@ D. 1 2 3 4
 - **Tobin tax** is a proposed levy on foreign-exchange transactions to curb short-term speculative flows.
 - The proposed **Direct Tax Code** in Indian teaching maps to **income-tax** reform — not sales / excise / service tax.
 
-**UKPCS (Pre) 2021**
+**Q-EC3. UKPCS (Pre) 2021**
 
 What kind of Tax System is found in India?
 
@@ -327,13 +326,12 @@ D. Regressive
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Standard PCS key treats India’s income-tax design as degressive — progressive at lower slabs, then more proportional at the top.
+**Logic:** Standard PCS key treats India’s income-tax design as degressive — progressive at lower slabs, then more proportional at the top — Degressive
 
-**Ans: B.** Degressive.
-
+**Ans: B.** Degressive
 </details>
 
-**UKPCS (Pre) 2021**
+**Q-EC4. UKPCS (Pre) 2021**
 
 'Tobin Tax' is levied on:
 
@@ -345,13 +343,13 @@ D. on the basis of value
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Tobin tax is the proposed levy on forex transactions.
+**Logic:** on foreign exchange transactions.
 
-**Ans: C.** on foreign exchange transactions.
+**Ans: C.** Tobin tax is the proposed levy on forex transactions.
 
 </details>
 
-**UPPCS (Pre) 2018**
+**Q-EC5. UPPCS (Pre) 2018**
 
 Direct Tax Code in India is related to which of the following?
 
@@ -363,10 +361,9 @@ D. Service Tax
 <details>
 <summary>Show answer</summary>
 
-**Logic:** DTC is the direct-tax / income-tax reform proposal lane — not an indirect-tax code.
+**Logic:** DTC is the direct-tax / income-tax reform proposal lane — not an indirect-tax code — Income Tax
 
-**Ans: B.** Income Tax.
-
+**Ans: B.** Income Tax
 </details>
 
 ---
@@ -392,7 +389,7 @@ D. Service Tax
 - **Project Saksham** is CBIC’s integrated **indirect tax network** built to support GST and customs facilitation.
 - Budget **2021–22** proposed the **Agriculture Infrastructure and Development Cess (AIDC)** on **29** products.
 
-**UPPCS (Pre) 2021**
+**Q-EC6. UPPCS (Pre) 2021**
 
 Which of the following Constitution Amendment Acts made necessary provisions for the implementation of GST (Goods and Service Tax) regime?
 
@@ -404,13 +401,13 @@ D. 104 th Amendment Act
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 101st Amendment is the GST vehicle. 102nd/103rd/104th are other subjects.
+**Logic:** 102nd/103rd/104th are other subjects.
 
-**Ans: A.** 101st Amendment Act.
+**Ans: A.** 101st Amendment is the GST vehicle.
 
 </details>
 
-**UPPCS (Pre) 2024**
+**Q-EC7. UPPCS (Pre) 2024**
 
 GST in India was introduced through which Constitutional Amendment Act?
 
@@ -422,13 +419,13 @@ D. 73rd Amendment
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Same 101st key; 73rd is Panchayats, 86th education, 91st size of Council of Ministers teaching.
+**Logic:** 101st Amendment.
 
-**Ans: A.** 101st Amendment.
+**Ans: A.** Same 101st key; 73rd is Panchayats, 86th education, 91st size of Council of Ministers teaching.
 
 </details>
 
-**UKPCS (Pre) 2021**
+**Q-EC8. UKPCS (Pre) 2021**
 
 Which of the following taxes are abolished by the Goods and Services Tax?
 
@@ -440,9 +437,9 @@ D. Income Tax
 <details>
 <summary>Show answer</summary>
 
-**Logic:** GST subsumed VAT (and related indirect levies). Income tax, corporation tax and ordinary property tax stayed outside.
+**Logic:** Income tax, corporation tax and ordinary property tax stayed outside.
 
-**Ans: C.** Value Added Tax.
+**Ans: C.** GST subsumed VAT (and related indirect levies).
 
 </details>
 
@@ -469,7 +466,7 @@ D. Income Tax
 - Centrally Sponsored Schemes and Finance Commission grants together shape State finances.
 - Vertical devolution = Centre–States share; horizontal devolution = among States.
 
-**UPPCS (Pre) 2021**
+**Q-EC9. UPPCS (Pre) 2021**
 
 The primary duty of the Finance Commission of India is
 
@@ -481,13 +478,13 @@ D. To allocate funds to various Ministries/ Departments of the Union and State G
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Core duty is recommending distribution of net tax proceeds between Union and States (plus related grant / local-body heads). Budget preparation is the Finance Ministry / Budget Division lane.
+**Logic:** Budget preparation is the Finance Ministry / Budget Division lane.
 
-**Ans: A.** Distribution of tax revenue between the Union and States.
+**Ans: A.** Core duty is recommending distribution of net tax proceeds between Union and States (plus related grant / local-body heads).
 
 </details>
 
-**UPPCS (Pre) 2021**
+**Q-EC10. UPPCS (Pre) 2021**
 
 Who among the following was the Chairman of the First Finance Commission of India?
 
@@ -499,13 +496,12 @@ D. Shri. A. K. Chanda
 <details>
 <summary>Show answer</summary>
 
-**Logic:** First FC Chair is K.C. Neogy.
+**Logic:** First FC Chair is K.C — Shri
 
-**Ans: B.** Shri. K. C. Neogy.
-
+**Ans: B.** Shri.
 </details>
 
-**UPPCS (Pre) 2021**
+**Q-EC11. UPPCS (Pre) 2021**
 
 Given below are two statements one is labelled as Assertion (A) and other as Reason (R):
 
@@ -523,13 +519,12 @@ D. (A) is false, but (R) is true
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** Art. 280(2) — Parliament by law fixes qualifications (1951 Act). Art. 280(1) — President appoints. A false, R true.
+**A/R logic:** is false, but (R) is true
 
-**Ans: D.** (A) is false, but (R) is true.
-
+**Ans: D.** (A) is false, but (R) is true
 </details>
 
-**UPPCS (Pre) 2023**
+**Q-EC12. UPPCS (Pre) 2023**
 
 With reference to the Union Finance Commission, which of the following statement(s) is/are correct?
 
@@ -546,13 +541,13 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Composition is Chair + four other members. Report goes to the President, not NITI. Both statements fail.
+**Logic:** Report goes to the President, not NITI.
 
-**Ans: D.** Neither 1 nor 2.
+**Ans: D.** Composition is Chair + four other members.
 
 </details>
 
-**UKPCS (Pre) 2016**
+**Q-EC13. UKPCS (Pre) 2016**
 
 According to the 14th Finance Commission, the percentage share of States in the net proceeds of the shareable Central tax revenue should be
 
@@ -564,13 +559,13 @@ D. 42 percent
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 14th FC (Y.V. Reddy) raised the States’ share to 42%.
+**Logic:** Reddy) raised the States’ share to 42%.
 
-**Ans: D.** 42 percent.
+**Ans: D.** 14th FC (Y.V.
 
 </details>
 
-**UPPCS (Pre) 2025**
+**Q-EC14. UPPCS (Pre) 2025**
 
 Match List-I with List-II and select the correct answer using the code given below the lists.
 
@@ -593,14 +588,13 @@ D. 1 3 2 4
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 11th Khusro (3); 12th Rangarajan (1); 13th Kelkar (4); 14th Reddy (2). Code 3 1 4 2. Trap is swapping the two former RBI Governors.
+**Logic:** Code 3 1 4 2.
 
-**Ans: A.** 3 1 4 2.
+**Ans: A.** 11th Khusro (3); 12th Rangarajan (1); 13th Kelkar (4); 14th Reddy (2).
 
 </details>
 
 ---
-
 
 ## Teaching expansion — additional theory (beyond Consolidated spine)
 
@@ -619,7 +613,9 @@ These points sit in teaching theory (not the Consolidated spine).
 
 ## Complete PYQ Bank (UPPCS)
 
-**Q1. UPPCS (Pre) 2023** — Union Finance Commission: Chair + six members? Report to NITI?
+**Q1. UPPCS (Pre) 2023**
+
+Union Finance Commission: Chair + six members? Report to NITI?
 
 A. Only 2
 B. Both 1 and 2
@@ -629,13 +625,13 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Chair + four; report to President.
+**Logic:** Neither 1 nor 2.
 
-**Ans: D.** Neither 1 nor 2.
+**Ans: D.** Chair + four; report to President.
 
 </details>
 
-**Q2. UPPCS (Pre) 2021** — Primary duty of the Finance Commission
+**Q2. UPPCS (Pre) 2021**
 
 A. Recommendations on distribution of tax revenue between Union and States
 B. Prepare the Union Annual Budget
@@ -645,13 +641,12 @@ D. Allocate funds to Ministries / Departments
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Tax-devolution recommendation is the headline duty.
+**Logic:** Tax-devolution recommendation is the headline duty — Recommendations on distribution of tax revenue between Union and States
 
-**Ans: A.**
-
+**Ans: A.** Recommendations on distribution of tax revenue between Union and States
 </details>
 
-**Q3. UPPCS (Pre) 2021** — First Finance Commission Chairman
+**Q3. UPPCS (Pre) 2021**
 
 A. Santhanam
 B. K. C. Neogy
@@ -661,13 +656,12 @@ D. A. K. Chanda
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Neogy is the first Chair.
+**Logic:** Neogy is the first Chair — K
 
-**Ans: B.**
-
+**Ans: B.** K.
 </details>
 
-**Q4. UPPCS (Pre) 2021** — A/R: President determines FC qualifications / President appoints members
+**Q4. UPPCS (Pre) 2021**
 
 A. Both true and R explains A
 B. Both true but R does not explain A
@@ -677,13 +671,12 @@ D. A false, R true
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** Qualifications = Parliament; appointment = President.
+**Logic:** Standard key matches A false, R true.
 
-**Ans: D.**
-
+**Ans: D.** A false, R true
 </details>
 
-**Q5. UPPCS (Pre) 2021** — GST enabling Amendment
+**Q5. UPPCS (Pre) 2021**
 
 A. 101st
 B. 102nd
@@ -693,13 +686,12 @@ D. 104th
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 101st Amendment.
+**Logic:** 101st Amendment — 101st
 
-**Ans: A.**
-
+**Ans: A.** 101st
 </details>
 
-**Q6. UPPCS (Pre) 2024** — GST Constitutional Amendment
+**Q6. UPPCS (Pre) 2024**
 
 A. 101st
 B. 91st
@@ -709,13 +701,14 @@ D. 73rd
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Same 101st key.
+**Logic:** Standard key matches 101st.
 
-**Ans: A.**
-
+**Ans: A.** 101st
 </details>
 
-**Q7. UPPCS (Pre) 2024** — Match CFI / FC / Financial Emergency / CAG
+**Q7. UPPCS (Pre) 2024**
+
+Match CFI / FC / Financial Emergency / CAG
 
 A. 3 1 2 4
 B. 4 1 3 2
@@ -725,13 +718,12 @@ D. 1 2 3 4
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 266 · 280 · 360 · 148 → 1 3 2 4.
+**Logic:** 266 · 280 · 360 · 148 → 1 3 2 4 — 1 3 2 4
 
-**Ans: C.**
-
+**Ans: C.** 1 3 2 4
 </details>
 
-**Q8. UPPCS (Pre) 2018** — Direct Tax Code related to
+**Q8. UPPCS (Pre) 2018**
 
 A. Sales Tax
 B. Income Tax
@@ -741,13 +733,12 @@ D. Service Tax
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Income-tax reform lane.
+**Logic:** Income-tax reform lane — Income Tax
 
-**Ans: B.**
-
+**Ans: B.** Income Tax
 </details>
 
-**Q9. UPPCS (Pre) 2021** — Contingency Fund Article
+**Q9. UPPCS (Pre) 2021**
 
 A. 265
 B. 266
@@ -757,13 +748,14 @@ D. 268
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Art. 267.
+**Logic:** Standard key matches 267.
 
-**Ans: C.**
-
+**Ans: C.** 267
 </details>
 
-**Q10. UPPCS (Pre) 2025** — Match 11th–14th FC chairmen
+**Q10. UPPCS (Pre) 2025**
+
+Match 11th–14th FC chairmen
 
 A. 3 1 4 2
 B. 2 3 4 1
@@ -773,14 +765,14 @@ D. 1 3 2 4
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Khusro · Rangarajan · Kelkar · Reddy.
+**Logic:** Khusro · Rangarajan · Kelkar · Reddy — 3 1 4 2
 
-**Ans: A.**
-
+**Ans: A.** 3 1 4 2
 </details>
 
+**Q11. UPPCS (Pre) 2017**
 
-**Q11. UPPCS (Pre) 2017** — Which among the following is not included in the ten main themes of the Union Budget for the financial year 2017–18?
+Which among the following is not included in the ten main themes of the Union Budget for the financial year 2017–18?
 
 A. Export performance
 B. The Poor and the underprivileged
@@ -790,13 +782,15 @@ D. Rural population
 <details>
 <summary>Show answer</summary>
 
-**Logic:** The 2017–18 themes covered farmers, rural population, youth, poor and underprivileged, infrastructure, financial sector, digital economy, public service, prudent fiscal management and tax administration — not “export performance” as a named theme.
+**Logic:** Export performance.
 
-**Ans: A.** Export performance.
+**Ans: A.** The 2017–18 themes covered farmers, rural population, youth, poor and underprivileged, infrastructure, financial sector, digital economy, public service, prudent fiscal management and tax administration — not “export…
 
 </details>
 
-**Q12. UPPCS (Pre) 2024** — According to the Economic Survey, 2022–23, what fiscal policy response did the Government of India undertake in response to the aggravated global supply disruptions?
+**Q12. UPPCS (Pre) 2024**
+
+According to the Economic Survey, 2022–23, what fiscal policy response did the Government of India undertake in response to the aggravated global supply disruptions?
 
 1. Decreasing food and fertiliser subsidies
 2. Increasing taxes on fuel and imported products
@@ -812,13 +806,15 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Survey 2022–23 describes a mix of higher food and fertiliser subsidies with **reduction** in taxes on fuel and certain imported products. Only statement 3 matches the keyed “correct” lever among the options.
+**Logic:** Only statement 3 matches the keyed “correct” lever among the options.
 
-**Ans: A.** Only 3.
+**Ans: A.** Survey 2022–23 describes a mix of higher food and fertiliser subsidies with **reduction** in taxes on fuel and certain imported products.
 
 </details>
 
-**Q13. UPPCS (Pre) 2021** — As per the Economic Survey 2015–16, which one of the following has been constructed as the Chakravyuha Challenge of the Indian economy?
+**Q13. UPPCS (Pre) 2021**
+
+As per the Economic Survey 2015–16, which one of the following has been constructed as the Chakravyuha Challenge of the Indian economy?
 
 A. Movement of Indian economy from socialism to capitalism
 B. Movement of Indian economy from socialism with limited entry to marketism with exit
@@ -828,13 +824,14 @@ D. Movement of Indian economy from mixed economy to capitalism
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Survey metaphor — entry eased, exit still hard → marketism **without** exit.
+**Logic:** Survey metaphor — entry eased, exit still hard → marketism without exit — Movement of Indian economy from socialism with limited entry to marketism without exit
 
-**Ans: C.**
-
+**Ans: C.** Movement of Indian economy from socialism with limited entry to marketism without exit
 </details>
 
-**Q14. UPPCS (Pre) 2023** — Which statement is true for Finance Sector (Fiscal Management) in the Union Budget, 2023?
+**Q14. UPPCS (Pre) 2023**
+
+Which statement is true for Finance Sector (Fiscal Management) in the Union Budget, 2023?
 
 A. Fiscal Deficit of 3.5% of GSDP allowed for States
 B. Budget estimates 2023–24 for total expenditure is Rs 55 lakh Cr.
@@ -844,13 +841,13 @@ D. Twenty years interest free loans to States
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Budget 2023–24 allowed States fiscal deficit of **3.5% of GSDP** (0.5% tied to power reforms). Total expenditure BE was about ₹45 lakh crore; FD path toward below **4.5%** by 2025–26; interest-free loans were **50-year**, not twenty-year.
+**Logic:** Total expenditure BE was about ₹45 lakh crore; FD path toward below **4.5%** by 2025–26; interest-free loans were **50-year**, not twenty-year.
 
-**Ans: A.**
+**Ans: A.** Budget 2023–24 allowed States fiscal deficit of **3.5% of GSDP** (0.5% tied to power reforms).
 
 </details>
 
-**Q15. UPPCS (Pre) 2017** — Saksham project approved by Govt. of India is related to:
+**Q15. UPPCS (Pre) 2017**
 
 A. Skill development of SC and ST population
 B. A military unit for effective disaster management
@@ -860,13 +857,14 @@ D. Creating self confidence among ‘Divyang’ youth
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Project Saksham = CBEC/CBIC integrated **indirect tax** IT network supporting GST / customs facilitation.
+**Logic:** Project Saksham = CBEC/CBIC integrated indirect tax IT network supporting GST / customs facilitation — A new indirect tax network
 
-**Ans: C.**
-
+**Ans: C.** A new indirect tax network
 </details>
 
-**Q16. U.P. R.O./A.R.O. (Pre) 2017** — Assertion (A): Fiscal deficit of Indian Government as a percentage of GDP was higher in 2017–18 as compared to Budget estimates.
+**Q16. UP RO/ARO (Pre) 2017**
+
+Assertion (A): Fiscal deficit of Indian Government as a percentage of GDP was higher in 2017–18 as compared to Budget estimates.
 
 Reason (R): Growth in indirect tax collection was relatively lower during 2017–18 on account of introduction of GST.
 
@@ -880,13 +878,14 @@ D. (A) is false, but (R) is true
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** FD rose to about **3.5%** vs BE **3.2%**; GST transition dampened indirect-tax growth — R explains A.
+**A/R logic:** Decide from the stem options; keyed answer is Both (A) and (R) are true and (R) is the correct explanation of (A).
 
-**Ans: A.**
-
+**Ans: A.** Both (A) and (R) are true and (R) is the correct explanation of (A)
 </details>
 
-**Q17. U.P. R.O./A.R.O. (Pre) 2016** — Consider the following statements:
+**Q17. UP RO/ARO (Pre) 2016**
+
+Consider the following statements:
 
 1. GST Council is chaired by the Union Finance Minister and the Minister of State-in-charge of Revenue or Finance at the centre is a member.
 2. The GST Council will decide the tax rate, exempted goods and the threshold under the new taxation regime.
@@ -902,13 +901,15 @@ D. Only 1 and 2 are correct
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 1 and 2 match Article 279A design. After GST, States do **not** keep a general VAT option on subsumed goods — statement 3 fails.
+**Logic:** After GST, States do **not** keep a general VAT option on subsumed goods — statement 3 fails.
 
-**Ans: D.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 2 match Article 279A design.
 
 </details>
 
-**Q18. U.P. R.O./A.R.O. (Pre) 2023** — Which of the following statement/s is/are correct?
+**Q18. UP RO/ARO (Pre) 2023**
+
+Which of the following statement/s is/are correct?
 
 1. ITC means the credit of Input Tax on the supplies of goods and services or both received by a registered person.
 2. Eligibility of ITC which may be as under — taxable supply, non-taxable supply, zero-rated supply.
@@ -923,13 +924,15 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Statement 1 is the definition. Statement 2 wrongly includes **non-taxable** supply — ITC covers taxable and zero-rated, not non-taxable / exempt / nil-rated.
+**Logic:** Statement 2 wrongly includes **non-taxable** supply — ITC covers taxable and zero-rated, not non-taxable / exempt / nil-rated.
 
-**Ans: D.** Only 1.
+**Ans: D.** Statement 1 is the definition.
 
 </details>
 
-**Q19. U.P. R.O./A.R.O. (Pre) 2014** — Long-term fiscal policy was announced by which finance minister of India?
+**Q19. UP RO/ARO (Pre) 2014**
+
+Long-term fiscal policy was announced by which finance minister of India?
 
 A. V.P. Singh
 B. P. Chidambaram
@@ -939,13 +942,14 @@ D. Yashwant Sinha
 <details>
 <summary>Show answer</summary>
 
-**Logic:** V.P. Singh announced long-term fiscal policy in Budget **1985–86**.
+**Logic:** Standard key matches V.P.
 
-**Ans: A.**
-
+**Ans: A.** V.P.
 </details>
 
-**Q20. U.P. R.O./A.R.O. (Pre) 2017** — Which one of the following did not take place in the Union Budget for 2017–18?
+**Q20. UP RO/ARO (Pre) 2017**
+
+Which one of the following did not take place in the Union Budget for 2017–18?
 
 A. Elimination of the classification of expenditure into ‘Plan’ and ‘Non-Plan’
 B. Increase in the number of centrally sponsored schemes
@@ -955,14 +959,13 @@ D. Advancing the date of Union Budget almost by a month
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Three reforms: early Budget date, Railway merger, Plan/Non-Plan removal. CSS count increase was **not** one of those reforms.
+**Logic:** CSS count increase was **not** one of those reforms.
 
-**Ans: B.**
+**Ans: B.** Three reforms: early Budget date, Railway merger, Plan/Non-Plan removal.
 
 </details>
 
-
-**Q21. U.P.P.C.S. (Pre) 2021**
+**Q21. UPPCS (Pre) 2021**
 
 As per the Economic Survey 2015-16, which one of thefollowing has been constructed as the Chakravyuha Challenge of the Indian economy?
 
@@ -974,9 +977,9 @@ D. Movement of Indian economy from mixed economy
 <details>
 <summary>Show answer</summary>
 
-**Logic:** (b) 20 (d) 29 Union Budget 2021-22 proposed a new levy- Agriculture Infrastructure and Development Cess (AIDC). The purpose of the new AIDC is to raise funds to finance spending on developing agriculture infrastructure. Considering that not much private investment is forthcoming 
+**Logic:** The purpose of the new AIDC is to raise funds to finance spending on developing agriculture infrastructure.
 
-**Ans: C.**
+**Ans: C.** (b) 20 (d) 29 Union Budget 2021-22 proposed a new levy- Agriculture Infrastructure and Development Cess (AIDC).
 
 </details>
 
@@ -991,13 +994,13 @@ D. Twenty years interest free lo
 <details>
 <summary>Show answer</summary>
 
-**Logic:** According to Union Budget 2023-24, Fiscal Deficit of 3.5% of GSDP was allowed for States of which 0.5% was tied to Power sector reforms. Budget estimates 2023-24 for total expenditure was about Rs. 45 lakh Cr, Fiscal Deficit 2025 26, the target was to be below 4.5% of GDP; Contin
+**Logic:** Budget estimates 2023-24 for total expenditure was about Rs.
 
-**Ans: A.**
+**Ans: A.** According to Union Budget 2023-24, Fiscal Deficit of 3.5% of GSDP was allowed for States of which 0.5% was tied to Power sector reforms.
 
 </details>
 
-**Q23. U.P.P.C.S. (Pre) 2021**
+**Q23. UPPCS (Pre) 2021**
 
 Which of the following Constitution Amendment Actsmade necessary provisions for the implementation ofGST (Goods and Services Tax) regime?
 
@@ -1009,13 +1012,12 @@ D. 104th Amendment Act
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue.
+**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue — 101st Amendment Act
 
-**Ans: A.**
-
+**Ans: A.** 101st Amendment Act
 </details>
 
-**Q24. U.P.P.C.S. (Mains) 2017**
+**Q24. UPPCS (Mains) 2017**
 
 In which of the following countries, zero-basedbudgeting was first adopted?
 
@@ -1025,9 +1027,9 @@ C. India
 <details>
 <summary>Show answer</summary>
 
-**Logic:** (b) France (d) Germany Zero-based budgeting (ZBB) is a method of budgeting inwhich all expenses must be justified for each new periodZero-base budget technique involves a critical review of everyscheme before a budgetary provision is made. Developed byPeter Pyhrr in the 1970s, ze
+**Logic:** Developed byPeter Pyhrr in the 1970s, ze
 
-**Ans: A.**
+**Ans: A.** (b) France (d) Germany Zero-based budgeting (ZBB) is a method of budgeting inwhich all expenses must be justified for each new periodZero-base budget technique involves a critical review of everyscheme before a budget…
 
 </details>
 
@@ -1042,13 +1044,12 @@ D. Dept. of Health Research
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Rs. 89,155 Crore Rs. 9,155 Crore According to Union Budget 2023-24 and 2026-27, allocation of amount (in Rs. crore) to given options is as follows Select the correct answer from the codes given below: Codes (a) 1, 2, 3, 4 (c) 3, 1, 4,2 (b) 2, 4., 3,1 (d) 4, 3, 2, 1 , 2002 Scheme/
+**Logic:** Standard key matches Ministry of Health.
 
-**Ans: C.**
-
+**Ans: C.** Ministry of Health
 </details>
 
-**Q26. U.P.P.C.S. (Mains) 2010**
+**Q26. UPPCS (Mains) 2010**
 
 In the Union Budget for 2011-12, which one of the following sectors has been allocated largest outlay?
 
@@ -1059,10 +1060,9 @@ D. Tr
 <details>
 <summary>Show answer</summary>
 
-**Logic:** , 2011 As per the Union Budget 2011-12, option (c) was the correct answer. Details of allocated outlays for the given sectors in recent years as per the Union Budget 2026-27 are as follows: As per the Budget Estimates 2010-11 option (b) was the correct answer. According to Union 
+**Logic:** Details of allocated outlays for the given sectors in recent years as per the Union Budget 2026-27 are as follows: As per the Budget Estimates 2010-11 option (b) was the correct answer.
 
-**Ans: C.**
-
+**Ans: A.** Rural Development
 </details>
 
 **Q27. U.P. P.C.S. (Pre) 2023**
@@ -1077,13 +1077,13 @@ D. Defence
 <details>
 <summary>Show answer</summary>
 
-**Logic:** U.P.P.C.S. (Pre) 199Ans. (c) In the Union Budget 2023-24 and the Union Budget 2026-27. the share of given items in total outlay (in %%) is as follows: Item 2023-24 (B.E.) 2026-27 (B.E.) Interest Payment 20% 20% State share of taxes and duties 18% 22% Major Subsidies 7% 6% Defence
+**Logic:** (Pre) 199Ans.
 
-**Ans: D.**
+**Ans: D.** U.P.P.C.S.
 
 </details>
 
-**Q28. U.P.P.C.S. (Pre) 2006**
+**Q28. UPPCS (Pre) 2006**
 
 In the Union Budgets in India, which one of the following is the largest in amount?
 
@@ -1093,13 +1093,12 @@ C. Revenue expenditure
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue.
+**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue — Revenue expenditure
 
-**Ans: C.**
-
+**Ans: C.** Revenue expenditure
 </details>
 
-**Q29. U.P.P.C.S. (Mains) 2017**
+**Q29. UPPCS (Mains) 2017**
 
 Which among the following is the most important itemof revenue expenditure of the Union Government?
 
@@ -1111,13 +1110,12 @@ D. Interest Payment
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue.
+**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue — Interest Payment
 
-**Ans: D.**
-
+**Ans: D.** Interest Payment
 </details>
 
-**Q30. U.P.P.C.S. (Spl.) (Mains) 2008**
+**Q30. UPPCS (Spl.) (Mains) 2008**
 
 Which one of the following is the most important item of expenditure of the Union Government on revenue account?
 
@@ -1127,13 +1125,11 @@ C. Subsidies
 <details>
 <summary>Show answer</summary>
 
-**Logic:** (b) Interest payments (d) Social Services See the explanation of above question
-
-**Ans: B.**
+**Ans: B.** (b) Interest payments (d) Social Services See the explanation of above question
 
 </details>
 
-**Q31. U.P.P.C.S. (Mains) 2010**
+**Q31. UPPCS (Mains) 2010**
 
 Which among the following is the largest item of current revenue expenditure of Central Government in the year 2008-10?
 
@@ -1145,13 +1141,13 @@ D. Major Subsidies
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Interest Payment was the largest item of revenue expenditure of Central Government in the years 2008-10. In Union Budget Estimates 2026-27, interest payment is still the largest item of the Government's expenditure
+**Logic:** In Union Budget Estimates 2026-27, interest payment is still the largest item of the Government's expenditure
 
-**Ans: B.**
+**Ans: B.** Interest Payment was the largest item of revenue expenditure of Central Government in the years 2008-10.
 
 </details>
 
-**Q32. U.P.P.C.S. (Spl.) (Mains) 2008**
+**Q32. UPPCS (Spl.) (Mains) 2008**
 
 Fiscal deficit stood at what percentage of GDP in the year 1990-91?
 
@@ -1161,13 +1157,12 @@ C. 9.1
 <details>
 <summary>Show answer</summary>
 
-**Logic:** (b) 6.5 (d) 11.0 M.P. P.C.S. (Pre) 1992 (c) 6.0% of GDP Ans. (a) (b) 5.7% of GDP (d) 5.0% of GDP In the Union Budget 2010-11 fiscal deficit was estimated at 5.5% of GDP (As per actual figures it was at 4.9% in 2010- 11). In the financial year 2024-25 (Actuals) fiscal deficit stoo
+**Logic:** P.C.S — keyed as 8.4.
 
-**Ans: A.**
-
+**Ans: A.** (b) 6.5 (d) 11.0 M.P.
 </details>
 
-**Q33. U.P.P.C.S. (Pre) 2002**
+**Q33. UPPCS (Pre) 2002**
 
 Which one of the following forms the largest share of deficit in Government of India budget?
 
@@ -1177,13 +1172,11 @@ C. Revenue deficit
 <details>
 <summary>Show answer</summary>
 
-**Logic:** (b) Fiscal deficit (d) Budgetary deficit See the explanation of above question
-
-**Ans: B.**
+**Ans: B.** (b) Fiscal deficit (d) Budgetary deficit See the explanation of above question
 
 </details>
 
-**Q34. U.P.P.C.S. (Spl.) (Mains) 2004**
+**Q34. UPPCS (Spl.) (Mains) 2004**
 
 Consider the following statements: Assertion
 
@@ -1193,13 +1186,13 @@ B. Both
 <details>
 <summary>Show answer</summary>
 
-**Logic:** There is a history of fiscal deficit in Central Government budgets in India. Hence, Assertion (A) is correct.While Reason (R) is wrong because India's subsidies to its agriculture sector are quite low as compared to Western countries. So option (c) is correct answer
+**Logic:** Hence, Assertion (A) is correct.While Reason (R) is wrong because India's subsidies to its agriculture sector are quite low as compared to Western countries.
 
-**Ans: C.**
+**Ans: C.** There is a history of fiscal deficit in Central Government budgets in India.
 
 </details>
 
-**Q35. U.P.P.C.S. (Pre) 2017**
+**Q35. UPPCS (Pre) 2017**
 
 Which one of the following is not correctly matched?
 
@@ -1210,13 +1203,12 @@ D. Vote on Account
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Parliamentary sanction of all budgetary demands for grants in a financial year The Vote on Account is the special provision given to the government to obtain the vote of Parliament to withdraw money (as grant in advance) to meet short-term expenditure needs, from the Consolidated
+**Logic:** Parliamentary sanction of all budgetary demands for grants in a financial year The Vote on Account is the special provision given to the government to obtain the vote of Parliament to withdraw money (as grant in advan……
 
-**Ans: D.**
-
+**Ans: D.** Vote on Account
 </details>
 
-**Q36. U.P.P.C.S. (Pre) 2010**
+**Q36. UPPCS (Pre) 2010**
 
 Who had suggested the imposition of'expenditure tax in India for the first time?
 
@@ -1226,13 +1218,13 @@ C. R.J. Chelliah
 <details>
 <summary>Show answer</summary>
 
-**Logic:** (b) Kaldor (d) Gautam Mathur In order to widen the tax base, Nicholas Kaldor in his tax reform proposal for India, suggested the imposition of 'expenditure tax' in India for the first time. He also suggested to introduce wealth tax, Capital gains tax and gift tax. Expenditure tax
+**Logic:** He also suggested to introduce wealth tax, Capital gains tax and gift tax.
 
-**Ans: B.**
+**Ans: B.** (b) Kaldor (d) Gautam Mathur In order to widen the tax base, Nicholas Kaldor in his tax reform proposal for India, suggested the imposition of 'expenditure tax' in India for the first time.
 
 </details>
 
-**Q37. U.P.P.C.S. (Pre) 2005**
+**Q37. UPPCS (Pre) 2005**
 
 As per the Union Budget 2005–2006, the senior citizens have not to pay income tax upto an income of : Union Budget 2023-24, the highest surcharge of 37% was luced to 25% under the new tax regime, which is applicable m 1 April, 2023. Under the new tax regime the surcharge es are same as old tax regime upto income of Rs. 5 crore, ile surcharge rate of 25% is also applicable to income ve Rs. 5 crore instead of 37% of old tax regime. te: The dual-year system of 'Financial Year' (FY) and Ssessment…
 
@@ -1243,13 +1235,13 @@ C. Rs. 1.85 lakh
 <details>
 <summary>Show answer</summary>
 
-**Logic:** As per the Union Budget 2005-06, upto Rs. 1.50 lakhs annual income of senior citizen had been exempted from the income tax. Under the old tax regime, the exemption limit granted to senior citizen (60 years or above but less than 80 years) and very senior citizen (80 years or abov
+**Logic:** 1.50 lakhs annual income of senior citizen had been exempted from the income tax.
 
-**Ans: B.**
+**Ans: B.** As per the Union Budget 2005-06, upto Rs.
 
 </details>
 
-**Q38. U.P.P.C.S. (Mains) 2010**
+**Q38. UPPCS (Mains) 2010**
 
 Which among the following is true for Central Sales Tax? (i) It is levied on interstate trade (ii) It is levied in the Union Territories (iii) It is levied in the SEZ Select the correct answer from the codes given below
 
@@ -1259,13 +1251,13 @@ C. Only
 <details>
 <summary>Show answer</summary>
 
-**Logic:** (b) Only (1) (d) All the above Central Sales Tax was levied on inter-state trade and trade in the Union Territories, while SEZs were exempted from it. It is subsumed by the Goods and Services Tax (GST). GST is the single comprehensive indirect tax, operational from July 1, 2017, 
+**Logic:** It is subsumed by the Goods and Services Tax (GST).
 
-**Ans: A.**
+**Ans: A.** (b) Only (1) (d) All the above Central Sales Tax was levied on inter-state trade and trade in the Union Territories, while SEZs were exempted from it.
 
 </details>
 
-**Q39. U.P.P.C.S. (Spl.) (Mains) 2004**
+**Q39. UPPCS (Spl.) (Mains) 2004**
 
 Which one of the following taxes is the largest source of revenue in India?
 
@@ -1276,13 +1268,13 @@ C. Unon excise duties
 <details>
 <summary>Show answer</summary>
 
-**Logic:** As per the question year (in 2004-05 and 2005-06) Union excise duties was the largest source of revenue in India. At present, Income Tax is the largest source of revenue. According to the Union Budget estimates 2026-27, Income Tax, Corporation Tax and Goods and Services Tax (GST)
+**Logic:** At present, Income Tax is the largest source of revenue.
 
-**Ans: A.**
+**Ans: A.** As per the question year (in 2004-05 and 2005-06) Union excise duties was the largest source of revenue in India.
 
 </details>
 
-**Q40. U.P.P.C.S. (Mains) 2006**
+**Q40. UPPCS (Mains) 2006**
 
 Which of the following taxes yielded maximum revenuе to the Centre during 2007–08 ?
 
@@ -1292,13 +1284,12 @@ C. Customs Duty
 <details>
 <summary>Show answer</summary>
 
-**Logic:** (b) Income Tax (d) Union Excise Duty As per the question year, option (a) was the correct answer. According to Union Budget estimates 2025-26, maximum revenue (as percentage of total receipts of the Government which is inclusive of States' share of taxes and duties) is estimated 
+**Logic:** According to Union Budget estimates 2025-26, maximum revenue (as percentage of total receipts of the Government which is inclusive of States' share of taxes and duties) is estimated Ans: A.
 
-**Ans: A.**
-
+**Ans: A.** Corporation Tax
 </details>
 
-**Q41. U.P.P.C.S. (Mains) 2003**
+**Q41. UPPCS (Mains) 2003**
 
 Which one of the following group of taxes collected by the Central Government are shared with the States?
 
@@ -1310,13 +1301,12 @@ D. Excise Duty, Cess on Income, Custom Duty
 <details>
 <summary>Show answer</summary>
 
-**Logic:** , 2004 After the Eightieth Amendment to the Constitution of India (2000), net proceeds of all taxes (after deducting cess, surcharge and cost of collection) collected by the Union are shareable with the States. These constitute the divisible pool of taxes
+**Logic:** , 2004 After the Eightieth Amendment to the Constitution of India (2000), net proceeds of all taxes (after deducting cess, surcharge and cost of collection) collected by the Union are shareable with the States.
 
-**Ans: *.**
-
+**Ans: *.** Option *.
 </details>
 
-**Q42. U.P.P.C.S. (Mains) 2004**
+**Q42. UPPCS (Mains) 2004**
 
 Which one of the following is correctly matched?
 
@@ -1326,13 +1316,12 @@ B. Customs Duty - Direct Tax
 <details>
 <summary>Show answer</summary>
 
-**Logic:** In the question period (in 2004-05 and 2005-06), Union excise duties was the largest source of tax revenue of the Centre. However, at present Income Tax, Goods and Services Tax (GST) and Corporation Tax are three largest sources of tax revenue respectively. While Income tax is a 
+**Logic:** In the question period (in 2004-05 and 2005-06), Union excise duties was the largest source of tax revenue of the Centre.
 
-**Ans: *.**
-
+**Ans: *.** Option *.
 </details>
 
-**Q43. U.P.P.C.S. (Mains) 2005**
+**Q43. UPPCS (Mains) 2005**
 
 Match the list-I with the list-II and select the correct answer from the code given below the lists : List-I List-II A. Capital Gain Tаx 1. Income B. Central Excise Duty 2. Factory Produce U.P.P.C.S. (Mains) 2005 C. Custom Duty 3. Import
 
@@ -1341,13 +1330,13 @@ Match the list-I with the list-II and select the correct answer from the code gi
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Corporate tax 4. Sale of Property Economic & Social Development General Studies E-179 Code: A B C D (a) 4 (b) 4 (c) 3 4 (d) 2 4 Ans. (a)
+**Logic:** Sale of Property Economic & Social Development General Studies E-179 Code: A B C D (a) 4 (b) 4 (c) 3 4 (d) 2 4 Ans.
 
-**Ans: C.**
+**Ans: C.** Corporate tax 4.
 
 </details>
 
-**Q44. U.P.P.C.S. (Spl.) (Mains) 2004**
+**Q44. UPPCS (Spl.) (Mains) 2004**
 
 Number of States, which have not implemented 'Value Added Tax' in India upto December 2005 is :
 
@@ -1356,9 +1345,7 @@ Number of States, which have not implemented 'Value Added Tax' in India upto Dec
 <details>
 <summary>Show answer</summary>
 
-**Logic:** (b) 8 (d) 10 See the explanation of above question
-
-**Ans: A.**
+**Ans: A.** (b) 8 (d) 10 See the explanation of above question
 
 </details>
 
@@ -1373,10 +1360,9 @@ D. Octroi
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue.
+**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue — Income Tax
 
-**Ans: B.**
-
+**Ans: B.** Income Tax
 </details>
 
 **Q46. U.P. P.C.S. (Pre) 1992**
@@ -1389,13 +1375,13 @@ C. Personal Income Tах
 <details>
 <summary>Show answer</summary>
 
-**Logic:** (b) Entertainment Tax (d) Corporation Tax Entertainment tax falls under the List-2 (State List) of theSeventh Schedule of the Indian Constitution. Taxes arelevied by the State Governments on the items mentioned inthis list
+**Logic:** Taxes arelevied by the State Governments on the items mentioned inthis list
 
-**Ans: B.**
+**Ans: B.** (b) Entertainment Tax (d) Corporation Tax Entertainment tax falls under the List-2 (State List) of theSeventh Schedule of the Indian Constitution.
 
 </details>
 
-**Q47. U.P.P.C.S. (Spl.) (Mains) 2008**
+**Q47. UPPCS (Spl.) (Mains) 2008**
 
 Which of the following taxes is not levied by the StateGovernments?
 
@@ -1407,13 +1393,12 @@ D. Corporation Tax
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Corporation tax is levied by the Union Government, not bythe State Governments
+**Logic:** Corporation tax is levied by the Union Government, not bythe State Governments — Corporation Tax
 
-**Ans: D.**
-
+**Ans: D.** Corporation Tax
 </details>
 
-**Q48. U.P.P.C.S. (Mains) 2014**
+**Q48. UPPCS (Mains) 2014**
 
 Which one of the following does not mainly form a parof Tax Revenue of State Governments in India?
 
@@ -1423,9 +1408,9 @@ C. Customs Duty
 <details>
 <summary>Show answer</summary>
 
-**Logic:** (b) Registration Fee (d) Commercial Tax Jharkhand P.C.S. (Pre) 201Customs duty does not mainly form a part of Tax Revenueof the State governments in India. It is levied by the CentralGovernment on export and import of goods. 226. Excise Duty on liquor is imposed by: (a) Central G
+**Logic:** (Pre) 201Customs duty does not mainly form a part of Tax Revenueof the State governments in India.
 
-**Ans: C.**
+**Ans: C.** (b) Registration Fee (d) Commercial Tax Jharkhand P.C.S.
 
 </details>
 
@@ -1441,13 +1426,12 @@ D. 1 3 2 4
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Ans. (a) The Chairman of the Eleventh Finance Commission (2000- 2005) was Prof. A. M. Khusro; the Chairman of the Twelfth Finance Commission (2005-2010) was Dr. C. Rangarajan; the Chairman of the Thirteenth Finance Commission (2010- 2015) was Dr. Vijay L. Kelkar; and the Chairman
+**Logic:** Standard key matches 1 3 2 4.
 
-**Ans: D.**
-
+**Ans: D.** 1 3 2 4
 </details>
 
-**Q50. U.P.P.C.S. (Pre) 1997**
+**Q50. UPPCS (Pre) 1997**
 
 Which one of the following is different from the others from the point of view of tax relief to individuals :
 
@@ -1459,13 +1443,13 @@ D. National Savings Scheme
 <details>
 <summary>Show answer</summary>
 
-**Logic:** From the point of view of tax relief to individuals National Savings Certificate, Public Provident Fund and National Savings Scheme are same, because investing in them provide income tax rebate. While investing in Indira Vikas Patra did not provide income tax relief. 278.Which of
+**Logic:** While investing in Indira Vikas Patra did not provide income tax relief.
 
-**Ans: C.**
+**Ans: C.** From the point of view of tax relief to individuals National Savings Certificate, Public Provident Fund and National Savings Scheme are same, because investing in them provide income tax rebate.
 
 </details>
 
-**Q51. U.P.P.C.S. (Pre) 2018**
+**Q51. UPPCS (Pre) 2018**
 
 Which of the following taxes is levied by the Gram Panchayats?
 
@@ -1477,13 +1461,12 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Among the given options, tax on local fairs is levied and collected by the Gram Panchayats
+**Logic:** Among the given options, tax on local fairs is levied and collected by the Gram Panchayats — Tax on Local Fairs
 
-**Ans: C.**
-
+**Ans: C.** Tax on Local Fairs
 </details>
 
-**Q52. U.P.P.C.S. (Pre) 2017**
+**Q52. UPPCS (Pre) 2017**
 
 Energise various sections of society, especially the youth and the vulncrable, and enable them to unleash their true potential, and Clean the country from the evils of corruption, black money and non-transparent political funding. Which among the following is not included in the ten main themes of the Union Budget for the financial year 2017-182
 
@@ -1495,13 +1478,13 @@ D. Rural population
 <details>
 <summary>Show answer</summary>
 
-**Logic:** The Union Budget 2017-18 was broadly focused on 10 themes-farmers, the rural population, the youth, the poor and the underprivileged, infrastructure, the financial sector, digital economy, public service, prudent fiscal management and tax administration. According to the Union Bu
+**Logic:** According to the Union Bu
 
-**Ans: A.**
+**Ans: A.** The Union Budget 2017-18 was broadly focused on 10 themes-farmers, the rural population, the youth, the poor and the underprivileged, infrastructure, the financial sector, digital economy, public service, prudent fisc…
 
 </details>
 
-**Q53. U.P.P.C.S. (Mains) 2015**
+**Q53. UPPCS (Mains) 2015**
 
 Economic Survey in India is published by :
 
@@ -1513,13 +1496,12 @@ D. Indian Statistical Institute
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue.
+**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue — Ministry of Finance
 
-**Ans: A.**
-
+**Ans: A.** Ministry of Finance
 </details>
 
-**Q54. U.P.P.C.S.(Pre) 2001**
+**Q54. UPPCS(Pre) 2001**
 
 Fiscal deficit/GDP ratio has been maximum in the financial year :
 
@@ -1529,13 +1511,12 @@ C. 2012-2013
 <details>
 <summary>Show answer</summary>
 
-**Logic:** (b) 2013-2014 (d) 2011-2012 (b) 5.1 per cent (d) 6.1 per cent , 2005 As per the question year, option (a) was the correct answer. According to Union Budget 2026-27, fiscal deficit of India is estimated at Rs.1695768 crore, which is 4.3% of GDP
+**Logic:** According to Union Budget 2026-27, fiscal deficit of India is estimated at Rs.1695768 crore, which is 4.3% of GDP Ans: D.
 
-**Ans: D.**
-
+**Ans: A.** 2014-2015
 </details>
 
-**Q55. U.P.P.C.S. (Mains) 2008**
+**Q55. UPPCS (Mains) 2008**
 
 If interest payments are subtracted from gross fiscal deficit, the remainder will be :
 
@@ -1546,13 +1527,13 @@ C. Monetized deficit
 <details>
 <summary>Show answer</summary>
 
-**Logic:** (d) Revenue deficit The borrowing requirment of the government includes interest obligations on accumulated debt. The goal of measuring primary deficit is to focus on present fiscal imbalances. To obtain an estimate of borrowing on account of current expenditure exceeding revenue
+**Logic:** The goal of measuring primary deficit is to focus on present fiscal imbalances.
 
-**Ans: A.**
+**Ans: A.** (d) Revenue deficit The borrowing requirment of the government includes interest obligations on accumulated debt.
 
 </details>
 
-**Q56. U.P.P.C.S. (Mains) 2009**
+**Q56. UPPCS (Mains) 2009**
 
 The Finance Ministry (Government of India) has introduced the concept of 'Outcome Budget' from 2005. Under this, the monitoring of the outcomes will be the responsibility of:
 
@@ -1564,13 +1545,13 @@ D. Ministry of Programme Implementation
 <details>
 <summary>Show answer</summary>
 
-**Logic:** An outcome budget aims to look at the performance of various ministries handling development programmes. The Ministry of Finance had introduced the concept of 'Outcome Budget' from 2005. Under this, the outcomes of various development programmes of various ministries are monitore
+**Logic:** The Ministry of Finance had introduced the concept of 'Outcome Budget' from 2005.
 
-**Ans: C.**
+**Ans: C.** An outcome budget aims to look at the performance of various ministries handling development programmes.
 
 </details>
 
-**Q57. U.P.P.C.S. (Pre) 1995**
+**Q57. UPPCS (Pre) 1995**
 
 Two largest sources of tax revenue to the CentralGovernment of India are:
 
@@ -1582,13 +1563,12 @@ D. Custom duty and Income taх
 <details>
 <summary>Show answer</summary>
 
-**Logic:** As per the question period, the largest sources of tax revenue of the Central Government of India were Union excise duties and custom duties. These taxes were jointly the largest sources of receipts. According to the Union Budget estimates for 2026-27, the three largest sources o
+**Logic:** As per the question period, the largest sources of tax revenue of the Central Government of India were Union excise duties and custom duties.
 
-**Ans: *.**
-
+**Ans: *.** Option *.
 </details>
 
-**Q58. U.P.P.C.S. (Mains) 2005**
+**Q58. UPPCS (Mains) 2005**
 
 In the Union Budget 2005-06 the largest source of revenue was-
 
@@ -1598,13 +1578,12 @@ C. Excise Tax
 <details>
 <summary>Show answer</summary>
 
-**Logic:** (b) Customs Tax (d) Income Tax , 2006 As per the question year, option (a) was the correct answer. For the latest data, see the explanation of above question
+**Logic:** For the latest data, see the explanation of above question Ans: A.
 
-**Ans: A.**
-
+**Ans: A.** Corporation Tax
 </details>
 
-**Q59. U.P.P.C.S. (Pre) 2011**
+**Q59. UPPCS (Pre) 2011**
 
 MODVAT is related to :
 
@@ -1614,13 +1593,13 @@ C. Wealth Tax
 <details>
 <summary>Show answer</summary>
 
-**Logic:** (b) Value Added Tax (VAT(d) Income Tax MODVAT (Modified Value Added Tax) is basically relatedto the excise duties. In the mid 1980s, the excise duty reforms focused on relieving tax cascading, rationalization ofduty rates, and simplification of rules and procedures. Asa first ste
+**Logic:** In the mid 1980s, the excise duty reforms focused on relieving tax cascading, rationalization ofduty rates, and simplification of rules and procedures.
 
-**Ans: A.**
+**Ans: A.** (b) Value Added Tax (VAT(d) Income Tax MODVAT (Modified Value Added Tax) is basically relatedto the excise duties.
 
 </details>
 
-**Q60. U.P.P.C.S. (Mains) 2015**
+**Q60. UPPCS (Mains) 2015**
 
 Value Added Tax was first introduced in India in :
 
@@ -1630,10 +1609,9 @@ C. 2005
 <details>
 <summary>Show answer</summary>
 
-**Logic:** (b) 2006 (d) 2008 See the explanation of above question
+**Logic:** (b) 2006 (d) 2008 See the explanation of above question — 2005
 
-**Ans: C.**
-
+**Ans: C.** 2005
 </details>
 
 **Q61. U.P. P.C.S. (Pre) 2003**
@@ -1648,13 +1626,13 @@ D. determine the share of States in the Central grants and
 <details>
 <summary>Show answer</summary>
 
-**Logic:** The Finance Commission is constituted by the President under Article 280 of the Constitution at every fifth year or at such earlier time as he considers necessary. It is the duty of the Finance Commission to make recommendations to the President as to : (a) the distribution of th
+**Logic:** It is the duty of the Finance Commission to make recommendations to the President as to : (a) the distribution of th
 
-**Ans: D.**
+**Ans: D.** The Finance Commission is constituted by the President under Article 280 of the Constitution at every fifth year or at such earlier time as he considers necessary.
 
 </details>
 
-**Q62. U.P.P.C.S. (Mains) 2017**
+**Q62. UPPCS (Mains) 2017**
 
 The non-plan grants to the States by the CentralGovernment are made on the recommendations of: R.A.S/R.T.S. (Pre) 2024
 
@@ -1665,13 +1643,13 @@ D. State Bank of India
 <details>
 <summary>Show answer</summary>
 
-**Logic:** The non-plan grants to the States by the Central Government are made on the recommendations of Finance Commission. As per the Article 280(3) (b) of the Constitution of India, it shall be the duty of the Finance Commission to make recommendations to the President as to the princip
+**Logic:** As per the Article 280(3) (b) of the Constitution of India, it shall be the duty of the Finance Commission to make recommendations to the President as to the princip
 
-**Ans: A.**
+**Ans: A.** The non-plan grants to the States by the Central Government are made on the recommendations of Finance Commission.
 
 </details>
 
-**Q63. U.P.P.C.S. (Mains) 2011**
+**Q63. UPPCS (Mains) 2011**
 
 States in Indian Union will receive at last what part of the following percentage of Central Tax under 13th Finance Commission recommendations?
 
@@ -1681,9 +1659,9 @@ C. 33.5 percent
 <details>
 <summary>Show answer</summary>
 
-**Logic:** The Thirteenth Finance Commission under the Chairmanship of Dr.Vijay L. Kelkar recommended increase in the share of States to 32 percent of net proceeds of Central taxes as against the 30.5 percent of the 12th FC. (b) Fiscal Discipline (d) Fiscal Capacity Distance Criteria and we
+**Logic:** Kelkar recommended increase in the share of States to 32 percent of net proceeds of Central taxes as against the 30.5 percent of the 12th FC.
 
-**Ans: B.**
+**Ans: B.** The Thirteenth Finance Commission under the Chairmanship of Dr.Vijay L.
 
 </details>
 
@@ -1699,13 +1677,12 @@ D. 1 3 2 4
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Ans. (a) The Chairman of the Eleventh Finance Commission (2000- 2005) was Prof. A. M. Khusro; the Chairman of the Twelfth Finance Commission (2005-2010) was Dr. C. Rangarajan; the Chairman of the Thirteenth Finance Commission (2010- 2015) was Dr. Vijay L. Kelkar; and the Chairman
+**Logic:** Standard key matches 1 3 2 4.
 
-**Ans: D.**
-
+**Ans: D.** 1 3 2 4
 </details>
 
-**Q65. U.P.P.C.S. (Mains) 2004**
+**Q65. UPPCS (Mains) 2004**
 
 The latest committee to submit its report on tax reforms is known as:
 
@@ -1717,13 +1694,12 @@ D. Vaghul Committee
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Tax Reforms Committee under the chairmanship of Dr. Raja J. Chelliah had submitted its report in 1991 while the Task Force on Direct Taxes under the chairmanship of Dr. Vijay L Kelkar submitted its report in December, 2002. Narasimhan Committees (1991 and 1998) were related to fi
+**Logic:** Raja J — keyed as Kelkar Committee.
 
-**Ans: A.**
-
+**Ans: A.** Tax Reforms Committee under the chairmanship of Dr.
 </details>
 
-**Q66. U.P.P.C.S. (Pre) 2007**
+**Q66. UPPCS (Pre) 2007**
 
 PAN card issued by the Income Tax Department cannot be used for which of the following purpose?
 
@@ -1735,13 +1711,13 @@ D. Proof of date of birth
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Permanent Account Number (PAN) is an identification card issued by the Income Tax Department. On the PAN card name and father's name of the person, date of birth and PAN number are imprinted. Address is not mentioned on the PAN card. Hence it is not the proof of address. conomic 
+**Logic:** On the PAN card name and father's name of the person, date of birth and PAN number are imprinted.
 
-**Ans: A.**
+**Ans: A.** Permanent Account Number (PAN) is an identification card issued by the Income Tax Department.
 
 </details>
 
-**Q67. U.P.P.C.S. (Mains) 2007**
+**Q67. UPPCS (Mains) 2007**
 
 The main source of fund for the National Highways Authority of India is :
 
@@ -1752,13 +1728,12 @@ C. Market borrowings
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Following are the five major income sources of Panchayats:
+**Logic:** Following are the five major income sources of Panchayats: — Cess
 
-**Ans: A.**
-
+**Ans: A.** Cess
 </details>
 
-**Q68. U.P.P.C.S. (Pre) 2011**
+**Q68. UPPCS (Pre) 2011**
 
 MODVAT is related to :
 
@@ -1768,9 +1743,9 @@ C. Wealth Tax
 <details>
 <summary>Show answer</summary>
 
-**Logic:** (b) Value Added Tax (VAT(d) Income Tax MODVAT (Modified Value Added Tax) is basically relatedto the excise duties. In the mid 1980s, the excise duty reforms focused on relieving tax cascading, rationalization ofduty rates, and simplification of rules and procedures. Asa first ste
+**Logic:** In the mid 1980s, the excise duty reforms focused on relieving tax cascading, rationalization ofduty rates, and simplification of rules and procedures.
 
-**Ans: A.**
+**Ans: A.** (b) Value Added Tax (VAT(d) Income Tax MODVAT (Modified Value Added Tax) is basically relatedto the excise duties.
 
 </details>
 
@@ -1780,7 +1755,7 @@ C. Wealth Tax
 
 Extra Drill: **full** Ghatnachakra Fiscal Policy & Revenue coverage — IAS, BPSC, Chhattisgarh, RAS, MP, Jharkhand, Uttarakhand, RO/ARO and other State papers (not UPPCS-only).
 
-**Q1. Extra Drill (Art. 112 / Budget)** Article 112 relates to the
+**Q1. Extra Drill (Art. 112 / Budget)**
 
 A. Contingency Fund
 B. Annual Financial Statement of the Union
@@ -1790,13 +1765,14 @@ D. State Finance Commission
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Union Annual Financial Statement (Budget).
+**Logic:** Standard key: Annual Financial Statement of the Union.
 
-**Logic:** State parallel is Art. 202.
-
+**Ans: B.** Annual Financial Statement of the Union
 </details>
 
-**Q2. Extra Drill (GST subsumption)** Which tax was **not** abolished / subsumed by GST in the standard list?
+**Q2. Extra Drill (GST subsumption)**
+
+Which tax was **not** abolished / subsumed by GST in the standard list?
 
 A. State VAT
 B. Service tax
@@ -1806,13 +1782,13 @@ D. Entry tax / octroi (teaching lane)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Income tax remained a direct tax.
+**Logic:** GST is the indirect-tax subsumption story — Income tax
 
-**Logic:** GST is the indirect-tax subsumption story.
-
+**Ans: C.** Income tax
 </details>
 
-**Q3. Extra Drill (A/R — fiscal deficit)** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+**Q3. Extra Drill (A/R)**
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 Assertion (A): Fiscal deficit is a better measure of borrowing need than the older budget-deficit slogan alone.
 
@@ -1828,13 +1804,14 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both true; the construction explains the preference.
+**A/R logic:** Both true; the construction explains the preference.
 
-**A/R logic:** FD identity.
-
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)
 </details>
 
-**Q4. Extra Drill (charged expenditure)** With reference to charged expenditure, which of the following statements is/are correct?
+**Q4. Extra Drill (charged expenditure)**
+
+With reference to charged expenditure, which of the following statements is/are correct?
 
 1. Some expenditures are charged on the Consolidated Fund.
 2. Charged items are not subjected to the same item-wise vote as ordinary demands in teaching.
@@ -1850,13 +1827,14 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Logic:** Statement 3 is false — 1 and 2
 
-**Logic:** Statement 3 is false.
-
+**Ans: B.** 1 and 2
 </details>
 
-**Q5. Extra Drill (tax types match)** Match List-I with List-II.
+**Q5. Extra Drill (tax types match)**
+
+Match List-I with List-II.
 
 | List-I | List-II |
 |---|---|
@@ -1877,13 +1855,12 @@ D. 4 1 2 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Progressive; proportional; regressive; Tobin.
+**Logic:** Keep India “degressive” label separate from pure progressive — 2 1 3 4
 
-**Logic:** Keep India “degressive” label separate from pure progressive.
-
+**Ans: A.** 2 1 3 4
 </details>
 
-**Q6. Extra Drill (Public Account)** Public Account of India mainly holds
+**Q6. Extra Drill (Public Account)**
 
 A. Only income-tax collections of the year
 B. Moneys where government acts as banker / trustee (PF, deposits teaching)
@@ -1893,13 +1870,14 @@ D. Only GST compensation cess forever outside accounts
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Trustee / banker-style moneys under Art. 266 Public Account lane.
+**Logic:** Distinct from Consolidated Fund revenues — Moneys where government acts as banker / trustee (PF, deposits teaching)
 
-**Logic:** Distinct from Consolidated Fund revenues.
-
+**Ans: B.** Moneys where government acts as banker / trustee (PF, deposits teaching)
 </details>
 
-**Q7. Extra Drill (confused pairs)** Which of the following pairs is **not** correctly matched?
+**Q7. Extra Drill (confused pairs)**
+
+Which of the following pairs is **not** correctly matched?
 
 A. DTC — Income Tax
 B. Tobin tax — Forex transactions
@@ -1909,13 +1887,14 @@ D. Contingency Fund — Article 266
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Contingency Fund is Article 267.
+**Logic:** A–C are standard — Contingency Fund — Article 266
 
-**Logic:** A–C are standard.
-
+**Ans: D.** Contingency Fund — Article 266
 </details>
 
-**Q8. Extra Drill (grants-in-aid)** With reference to grants-in-aid, which of the following statements is/are correct?
+**Q8. Extra Drill (grants-in-aid)**
+
+With reference to grants-in-aid, which of the following statements is/are correct?
 
 1. Finance Commission recommends principles for grants-in-aid to States.
 2. Article 275 is the classic grants-in-aid lane in teaching.
@@ -1931,13 +1910,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Logic:** Statement 3 is false — 1 and 2
 
-**Logic:** Statement 3 is false.
-
+**Ans: B.** 1 and 2
 </details>
 
-**Q9. Extra Drill (A/R — 14th FC)** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+**Q9. Extra Drill (A/R)**
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 Assertion (A): The 14th Finance Commission sharply raised States’ share in the divisible pool.
 
@@ -1953,13 +1932,14 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both true; 42% is the content of the rise.
+**A/R logic:** Both true; 42% is the content of the rise.
 
-**A/R logic:** UKPCS 2016 stem spine.
-
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)
 </details>
 
-**Q10. Extra Drill (subsidies)** With reference to subsidies, which of the following statements is/are correct?
+**Q10. Extra Drill (subsidies)**
+
+With reference to subsidies, which of the following statements is/are correct?
 
 1. Subsidies are a major revenue-expenditure head in teaching.
 2. Rationalisation aims at better targeting and less leakage.
@@ -1975,13 +1955,14 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Logic:** Statement 3 is false — 1 and 2
 
-**Logic:** Statement 3 is false.
-
+**Ans: B.** 1 and 2
 </details>
 
-**Q11. Extra Drill (CAG)** Which body audits government accounts and reports on appropriations in the constitutional design?
+**Q11. Extra Drill (CAG)**
+
+Which body audits government accounts and reports on appropriations in the constitutional design?
 
 A. Finance Commission alone
 B. GST Council alone
@@ -1991,13 +1972,14 @@ D. NITI Aayog alone
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** CAG (Article 148).
+**Logic:** Financial accountability companion to budget / funds — Comptroller and Auditor General of India
 
-**Logic:** Financial accountability companion to budget / funds.
-
+**Ans: C.** Comptroller and Auditor General of India
 </details>
 
-**Q12. Extra Drill (Vote on Account)** With reference to Vote on Account, which of the following statements is/are correct?
+**Q12. Extra Drill (Vote on Account)**
+
+With reference to Vote on Account, which of the following statements is/are correct?
 
 1. It can authorise interim spending before the full budget is passed.
 2. It replaces the Finance Commission for five years.
@@ -2013,13 +1995,14 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 3 are correct.
+**Logic:** Statement 2 is false — 1 and 3
 
-**Logic:** Statement 2 is false.
-
+**Ans: B.** 1 and 3
 </details>
 
-**Q13. Extra Drill (FC chairmen match)** Match List-I with List-II.
+**Q13. Extra Drill (FC chairmen match)**
+
+Match List-I with List-II.
 
 | List-I | List-II |
 |---|---|
@@ -2040,13 +2023,13 @@ D. 1 4 2 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Khusro; Rangarajan; Kelkar; Reddy.
+**Logic:** Same spine as UPPCS 2025; list numbering differs from the paper’s List-II order — 3 4 2 1
 
-**Logic:** Same spine as UPPCS 2025; list numbering differs from the paper’s List-II order.
-
+**Ans: A.** 3 4 2 1
 </details>
 
-**Q14. Extra Drill (A/R — ERD)** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+**Q14. Extra Drill (A/R)**
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 Assertion (A): Effective revenue deficit adjusts the revenue deficit for grants used to create capital assets.
 
@@ -2062,13 +2045,14 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both true; the capital-grant logic explains the adjustment.
+**A/R logic:** Both true; the capital-grant logic explains the adjustment.
 
-**A/R logic:** Budget-document refinement.
-
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)
 </details>
 
-**Q15. Extra Drill (GST features)** Which of the following statements about GST is/are correct?
+**Q15. Extra Drill (GST features)**
+
+Which of the following statements about GST is/are correct?
 
 1. It is destination-based.
 2. Intra-State supply generally attracts CGST + SGST.
@@ -2084,14 +2068,14 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Logic:** Property tax stayed outside.
 
-**Logic:** Property tax stayed outside. Statement 3 is false.
-
+**Ans: B.** 1 and 2
 </details>
 
+**Q16. I.A.S. (Pre) 2024**
 
-**Q16. I.A.S. (Pre) 2024** With reference to Union Budget, consider the following statements:
+With reference to Union Budget, consider the following statements:
 
 1. The Union Finance Minister on behalf of the Prime Minister lays the Annual Financial Statement before both the Houses of Parliament.
 2. At the Union level, no demand for a grant can be made except on the recommendation of the President of India.
@@ -2106,13 +2090,15 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Statement 1 fails — AFS is laid by the FM **on behalf of the President**, not the PM. Statement 2 matches Art. 113(3).
+**Logic:** Statement 2 matches Art.
 
-**Ans: B.** 2 only.
+**Ans: B.** Statement 1 fails — AFS is laid by the FM **on behalf of the President**, not the PM.
 
 </details>
 
-**Q17. I.A.S. (Pre) 2020** Every year, along with the budget, the ‘Macro-Economic Framework Statement’ is presented before the Parliament by the Finance Minister. This is mandated under provisions of:
+**Q17. I.A.S. (Pre) 2020**
+
+Every year, along with the budget, the ‘Macro-Economic Framework Statement’ is presented before the Parliament by the Finance Minister. This is mandated under provisions of:
 
 A. Article 112 of the Constitution
 B. Article 110 of the Constitution
@@ -2122,13 +2108,14 @@ D. The Finance Commission Act
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Macro-Economic Framework Statement is an **FRBM** statutory statement, not the Art. 112 AFS itself.
+**Logic:** 112 AFS itself.
 
-**Ans: C.**
-
+**Ans: C.** Section 3 of the Fiscal Responsibility and Budget Management (FRBM) Act, 2003.
 </details>
 
-**Q18. 66th B.P.S.C. (Pre) (Re-Exam) 2020** When was gender budgeting initiated in India?
+**Q18. 66th B.P.S.C. (Pre) (Re-Exam) 2020**
+
+When was gender budgeting initiated in India?
 
 A. Union Budget, 2005–06
 B. Union Budget, 2006–07
@@ -2138,13 +2125,14 @@ D. Union Budget, 2004–05
 <details>
 <summary>Show answer</summary>
 
-**Logic:** First Gender Budget Statement with Union Budget **2005–06**.
+**Logic:** First Gender Budget Statement with Union Budget 2005–06 — Union Budget, 2005–06
 
-**Ans: A.**
-
+**Ans: A.** Union Budget, 2005–06
 </details>
 
-**Q19. 70th B.P.S.C. (Pre) 2024** Which one is not included in the Budget Priorities in pursuit of ‘Viksit Bharat’ in Union Budget 2024–25?
+**Q19. 70th B.P.S.C. (Pre) 2024**
+
+Which one is not included in the Budget Priorities in pursuit of ‘Viksit Bharat’ in Union Budget 2024–25?
 
 A. Energy Security
 B. Productivity and Resilience in Agriculture
@@ -2154,13 +2142,15 @@ D. Employment and Skilling
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Nine priorities included agriculture productivity, employment and skilling, energy security, infrastructure, etc. — **Sustainable Development** was not a named priority in that list.
+**Logic:** **Sustainable Development** was not a named priority in that list.
 
-**Ans: C.**
+**Ans: C.** Nine priorities included agriculture productivity, employment and skilling, energy security, infrastructure, etc.
 
 </details>
 
-**Q20. Chhattisgarh P.C.S. (Pre) 2024** Central Government in its Union Budget 2023–24 adopted seven priorities of the Government, these 7 priorities are named as:
+**Q20. Chhattisgarh P.C.S. (Pre) 2024**
+
+Central Government in its Union Budget 2023–24 adopted seven priorities of the Government, these 7 priorities are named as:
 
 A. Saptadev
 B. Saptarishi
@@ -2170,13 +2160,14 @@ D. Saptadwar
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Budget 2023–24 branded the seven priorities as **Saptarishi**.
+**Logic:** Budget 2023–24 branded the seven priorities as Saptarishi — Saptarishi
 
-**Ans: B.**
-
+**Ans: B.** Saptarishi
 </details>
 
-**Q21. 67th B.P.S.C. (Pre) (Re-Exam) 2022** Which of the following is not included in the priorities of India Budget 2022–23?
+**Q21. 67th B.P.S.C. (Pre) (Re-Exam) 2022**
+
+Which of the following is not included in the priorities of India Budget 2022–23?
 
 A. PM Gati Shakti
 B. Inclusive Development
@@ -2186,13 +2177,14 @@ D. Disinvestment
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Four priorities were PM GatiShakti, Inclusive Development, Productivity Enhancement & Investment / sunrise / energy transition / climate action, and Financing of Investments — **Disinvestment** was not one of those four named priorities.
+**Logic:** Four priorities were PM GatiShakti, Inclusive Development, Productivity Enhancement & Investment / sunrise / energy transition / climate action, and Financing of Investments — Disinvestment was not one of those fo… — Di…
 
-**Ans: D.**
-
+**Ans: D.** Disinvestment
 </details>
 
-**Q22. 64th B.P.S.C. (Pre) 2018** Which one of the following was not included in the intended objectives of the Union Budget, 2017–18?
+**Q22. 64th B.P.S.C. (Pre) 2018**
+
+Which one of the following was not included in the intended objectives of the Union Budget, 2017–18?
 
 A. Transform India
 B. Clean India
@@ -2202,13 +2194,14 @@ D. Energise India
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Agenda was **TEC India** — Transform, Energise, Clean — not “Educate India”.
+**Logic:** Agenda was TEC India — Transform, Energise, Clean — not “Educate India” — Educate India
 
-**Ans: C.**
-
+**Ans: C.** Educate India
 </details>
 
-**Q23. Budget stem (AIDC 2021–22)** According to the Union Budget 2021–22, Finance Minister proposed a new levy Agriculture Infrastructure and Development Cess. This cess will be levied on how many products?
+**Q23. Budget stem (AIDC 2021–22)**
+
+According to the Union Budget 2021–22, Finance Minister proposed a new levy Agriculture Infrastructure and Development Cess. This cess will be levied on how many products?
 
 A. 12
 B. 20
@@ -2218,13 +2211,14 @@ D. 29
 <details>
 <summary>Show answer</summary>
 
-**Logic:** AIDC was proposed on **29** products.
+**Logic:** AIDC was proposed on 29 products — 29
 
-**Ans: D.**
-
+**Ans: D.** 29
 </details>
 
-**Q24. I.A.S. (Pre) 2017** Consider the following statements:
+**Q24. I.A.S. (Pre) 2017**
+
+Consider the following statements:
 
 1. Tax revenue as a percent of GDP of India has steadily increased in the last decade.
 2. Fiscal deficit as a percent of GDP of India has steadily increased in the last decade.
@@ -2239,13 +2233,14 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Both series show ups and downs — neither rose steadily every year.
+**Logic:** Both series show ups and downs — neither rose steadily every year — Neither 1 nor 2
 
-**Ans: D.**
-
+**Ans: D.** Neither 1 nor 2
 </details>
 
-**Q25. I.A.S. (Pre) 2018** Consider the following items:
+**Q25. I.A.S. (Pre) 2018**
+
+Consider the following items:
 
 1. Cereal grains hulled
 2. Chicken eggs cooked
@@ -2262,13 +2257,15 @@ D. 1, 2, 3 and 4
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Hulled cereal grains, cooked chicken eggs (in shell) and newspapers (with/without ads) are exempt; **processed and canned fish** is taxable (5% lane in standard key).
+**Logic:** 1, 2 and 4 only.
 
-**Ans: C.** 1, 2 and 4 only.
+**Ans: C.** Hulled cereal grains, cooked chicken eggs (in shell) and newspapers (with/without ads) are exempt; **processed and canned fish** is taxable (5% lane in standard key).
 
 </details>
 
-**Q26. M.P.P.C.S. (Pre) 2017** The ‘Goods and Services Tax’ was proposed by a task force, whose President was:
+**Q26. M.P.P.C.S. (Pre) 2017**
+
+The ‘Goods and Services Tax’ was proposed by a task force, whose President was:
 
 A. Vijay Kelkar
 B. Montek Singh Ahluwalia
@@ -2278,13 +2275,14 @@ D. Narasimham
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Kelkar FRBM Task Force (2004) recommended GST.
+**Logic:** Kelkar FRBM Task Force (2004) recommended GST — Vijay Kelkar
 
-**Ans: A.**
-
+**Ans: A.** Vijay Kelkar
 </details>
 
-**Q27. I.A.S. (Pre) 2017** What is/are the most likely advantages of implementing ‘Goods and Services Tax’ (GST)?
+**Q27. I.A.S. (Pre) 2017**
+
+What is/are the most likely advantages of implementing ‘Goods and Services Tax’ (GST)?
 
 1. It will replace multiple taxes collected by multiple authorities and will thus create a single market in India.
 2. It will drastically reduce the ‘Current Account Deficit’ of India and will enable it to increase its foreign exchange reserves.
@@ -2300,13 +2298,15 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Single-market / subsumption logic is sound. “Drastically” cut CAD and “enormously” overtake China are overclaims.
+**Logic:** “Drastically” cut CAD and “enormously” overtake China are overclaims.
 
-**Ans: A.** 1 only.
+**Ans: A.** Single-market / subsumption logic is sound.
 
 </details>
 
-**Q28. Chhattisgarh P.C.S. (Pre) 2019** Which of the following tax is not included in Goods and Services Tax (GST)?
+**Q28. Chhattisgarh P.C.S. (Pre) 2019**
+
+Which of the following tax is not included in Goods and Services Tax (GST)?
 
 A. Excise Duty
 B. Custom Duty
@@ -2316,13 +2316,14 @@ D. Service Tax
 <details>
 <summary>Show answer</summary>
 
-**Logic:** **Customs duty** stays outside GST; VAT, service tax and (most) excise were subsumed.
+**Logic:** Customs duty stays outside GST; VAT, service tax and (most) excise were subsumed — Custom Duty
 
-**Ans: B.**
-
+**Ans: B.** Custom Duty
 </details>
 
-**Q29. R.A.S./R.T.S. (Pre) 2018** What has been kept under the purview of Goods and Services Tax (GST)?
+**Q29. R.A.S./R.T.S. (Pre) 2018**
+
+What has been kept under the purview of Goods and Services Tax (GST)?
 
 A. Alcohol for human consumption
 B. Electricity
@@ -2332,13 +2333,14 @@ D. Ghee
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Alcohol, electricity and petroleum are outside until notified; **ghee** is under GST.
+**Logic:** Alcohol, electricity and petroleum are outside until notified; ghee is under GST — Ghee
 
-**Ans: D.**
-
+**Ans: D.** Ghee
 </details>
 
-**Q30. U.P. R.O./A.R.O. (Mains) 2016** The term ‘Revenue Neutral Rate’ was in news recently is related to:
+**Q30. UP RO/ARO (Mains) 2016**
+
+The term ‘Revenue Neutral Rate’ was in news recently is related to:
 
 A. Goods and Service Tax (GST)
 B. Foreign Portfolio Investment (FPI)
@@ -2348,13 +2350,14 @@ D. Foreign Direct Investment (FDI)
 <details>
 <summary>Show answer</summary>
 
-**Logic:** RNR is the GST-era rate design to protect previous revenue.
+**Logic:** RNR is the GST-era rate design to protect previous revenue — Goods and Service Tax (GST)
 
-**Ans: A.**
-
+**Ans: A.** Goods and Service Tax (GST)
 </details>
 
-**Q31. R.A.S./R.T.S. (Pre) 2024** Which of the following statements is related to the benefit of the “Input Tax Credit Mechanism” of GST?
+**Q31. R.A.S./R.T.S. (Pre) 2024**
+
+Which of the following statements is related to the benefit of the “Input Tax Credit Mechanism” of GST?
 
 A. This avoid double taxation.
 B. This avoid tax on production.
@@ -2364,13 +2367,14 @@ D. There is no need to keep records for producers.
 <details>
 <summary>Show answer</summary>
 
-**Logic:** ITC’s core benefit is avoiding cascading / double taxation.
+**Logic:** ITC’s core benefit is avoiding cascading / double taxation — This avoid double taxation
 
-**Ans: A.**
-
+**Ans: A.** This avoid double taxation
 </details>
 
-**Q32. U.P.P.C.S. (Mains) 2012** In India, which one among the following formulates the fiscal policy?
+**Q32. UPPCS (Mains) 2012**
+
+In India, which one among the following formulates the fiscal policy?
 
 A. Planning Commission
 B. Finance Commission
@@ -2380,13 +2384,14 @@ D. Reserve Bank of India
 <details>
 <summary>Show answer</summary>
 
-**Logic:** MoF = fiscal; RBI = monetary; FC = devolution recommendations.
+**Logic:** MoF = fiscal; RBI = monetary; FC = devolution recommendations — Ministry of Finance
 
-**Ans: C.**
-
+**Ans: C.** Ministry of Finance
 </details>
 
-**Q33. Jharkhand P.C.S. (Pre) 2013** Which one of the following is not a Department in the Ministry of Finance?
+**Q33. Jharkhand P.C.S. (Pre) 2013**
+
+Which one of the following is not a Department in the Ministry of Finance?
 
 A. Expenditure
 B. Revenue
@@ -2396,13 +2401,14 @@ D. Economic Affairs
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Banking Division is not keyed as a standalone MoF department in the standard list.
+**Logic:** Banking Division is not keyed as a standalone MoF department in the standard list — Banking Division
 
-**Ans: C.**
-
+**Ans: C.** Banking Division
 </details>
 
-**Q34. U.P.P.C.S. (Pre) 2006** Which one of the following is not an objective of fiscal policy of Government of India?
+**Q34. UPPCS (Pre) 2006**
+
+Which one of the following is not an objective of fiscal policy of Government of India?
 
 A. Full employment
 B. Price stability
@@ -2412,13 +2418,14 @@ D. Equitable distribution of wealth and income
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Inter-State trade regulation is not a fiscal-policy objective.
+**Logic:** Inter-State trade regulation is not a fiscal-policy objective — Regulation of inter-state trade
 
-**Ans: C.**
-
+**Ans: C.** Regulation of inter-state trade
 </details>
 
-**Q35. R.A.S./R.T.S. (Pre) 2023** Which of the following is NOT a tool of fiscal policy?
+**Q35. R.A.S./R.T.S. (Pre) 2023**
+
+Which of the following is NOT a tool of fiscal policy?
 
 A. Public expenditure
 B. Interest rate
@@ -2428,13 +2435,14 @@ D. Taxation
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Interest rate is a **monetary** tool.
+**Logic:** Interest rate is a monetary tool — Interest rate
 
-**Ans: B.**
-
+**Ans: B.** Interest rate
 </details>
 
-**Q36. Uttarakhand P.C.S. (Pre) 2012** Which of the following economists introduced fiscal policy as a tool to rectify the Great Depression of 1929–30?
+**Q36. Uttarakhand P.C.S. (Pre) 2012**
+
+Which of the following economists introduced fiscal policy as a tool to rectify the Great Depression of 1929–30?
 
 A. Prof. Keynes
 B. Prof. Pigou
@@ -2444,13 +2452,14 @@ D. Prof. Crowther
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Keynesian expansionary fiscal policy against deficient demand.
+**Logic:** Keynesian expansionary fiscal policy against deficient demand — Prof
 
-**Ans: A.**
-
+**Ans: A.** Prof.
 </details>
 
-**Q37. I.A.S. (Pre) 2011** Which one of the following statements appropriately describes the ‘fiscal stimulus’?
+**Q37. I.A.S. (Pre) 2011**
+
+Which one of the following statements appropriately describes the ‘fiscal stimulus’?
 
 A. It is a massive investment by the Government in manufacturing sector to ensure the supply of goods to meet the demand surge caused by rapid economic growth.
 B. It is an intense affirmative action of the Government to boost economic activity in the country.
@@ -2460,13 +2469,14 @@ D. It is an extreme affirmative action by the Government to pursue its policy of
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Fiscal stimulus = strong fiscal push (tax cuts / spending) to boost activity.
+**Logic:** Fiscal stimulus = strong fiscal push (tax cuts / spending) to boost activity — It is an intense affirmative action of the Government to boost economic activity in the country
 
-**Ans: B.**
-
+**Ans: B.** It is an intense affirmative action of the Government to boost economic activity in the country
 </details>
 
-**Q38. I.A.S. (Pre) 2021** Which among the following steps is most likely to be taken at the time of an economic recession?
+**Q38. I.A.S. (Pre) 2021**
+
+Which among the following steps is most likely to be taken at the time of an economic recession?
 
 A. Cut in tax rates accompanied by increase in interest rate
 B. Increase in expenditure on public projects
@@ -2476,13 +2486,15 @@ D. Reduction of expenditure on public projects
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Counter-cyclical fiscal response raises public project spending (often with tax relief). Option A mixes fiscal ease with monetary tightening.
+**Logic:** Option A mixes fiscal ease with monetary tightening.
 
-**Ans: B.**
+**Ans: B.** Counter-cyclical fiscal response raises public project spending (often with tax relief).
 
 </details>
 
-**Q39. I.A.S. (Pre) 2010** Which one of the following is responsible for the preparation and presentation of Union Budget to the Parliament?
+**Q39. I.A.S. (Pre) 2010**
+
+Which one of the following is responsible for the preparation and presentation of Union Budget to the Parliament?
 
 A. Department of Revenue
 B. Department of Economic Affairs
@@ -2492,13 +2504,14 @@ D. Department of Expenditure
 <details>
 <summary>Show answer</summary>
 
-**Logic:** DEA is the nodal budget-preparation department.
+**Logic:** DEA is the nodal budget-preparation department — Department of Economic Affairs
 
-**Ans: B.**
-
+**Ans: B.** Department of Economic Affairs
 </details>
 
-**Q40. I.A.S. (Pre) 1998** Economic Survey of India is published officially, every year by the:
+**Q40. I.A.S. (Pre) 1998**
+
+Economic Survey of India is published officially, every year by the:
 
 A. Reserve Bank of India
 B. Planning Commission of India
@@ -2508,13 +2521,14 @@ D. Ministry of Industries, Govt. of India
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Survey is MoF / DEA under the Chief Economic Adviser.
+**Logic:** Survey is MoF / DEA under the Chief Economic Adviser — Ministry of Finance, Govt
 
-**Ans: C.**
-
+**Ans: C.** Ministry of Finance, Govt.
 </details>
 
-**Q41. U.P.P.C.S. (Mains) 2017** In which of the following countries was zero-based budgeting first adopted?
+**Q41. UPPCS (Mains) 2017**
+
+In which of the following countries was zero-based budgeting first adopted?
 
 A. U.S.A.
 B. France
@@ -2524,13 +2538,14 @@ D. Germany
 <details>
 <summary>Show answer</summary>
 
-**Logic:** ZBB originated in the United States (Pyhrr / Carter-Georgia teaching).
+**Logic:** ZBB originated in the United States (Pyhrr / Carter-Georgia teaching) — U.S.A
 
-**Ans: A.**
-
+**Ans: A.** U.S.A
 </details>
 
-**Q42. Jharkhand P.C.S. (Pre) 2013** With respect to the procedure of Budget in the Parliament, “the amount of demand be reduced to Rs. 1” is called:
+**Q42. Jharkhand P.C.S. (Pre) 2013**
+
+With respect to the procedure of Budget in the Parliament, “the amount of demand be reduced to Rs. 1” is called:
 
 A. Economy Cut Motion
 B. Policy Cut Motion
@@ -2540,13 +2555,14 @@ D. Token Cut Motion
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Policy Cut → ₹1; Economy Cut → specified amount; Token Cut → ₹100.
+**Logic:** Policy Cut → ₹1; Economy Cut → specified amount; Token Cut → ₹100 — Policy Cut Motion
 
-**Ans: B.**
-
+**Ans: B.** Policy Cut Motion
 </details>
 
-**Q43. 60th to 62nd B.P.S.C. (Pre) 2016** Vote on Account is meant for:
+**Q43. 60th to 62nd B.P.S.C. (Pre) 2016**
+
+Vote on Account is meant for:
 
 A. Vote on the report of CAG
 B. To meet unforeseen expenditure
@@ -2556,13 +2572,14 @@ D. Budget
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Interim appropriation until the full Budget is passed.
+**Logic:** Interim appropriation until the full Budget is passed — Appropriating funds pending passing of budget
 
-**Ans: C.**
-
+**Ans: C.** Appropriating funds pending passing of budget
 </details>
 
-**Q44. 56th to 59th B.P.S.C. (Pre) 2015** Ad hoc Treasury bill system of meeting budget deficit in India was abolished on:
+**Q44. 56th to 59th B.P.S.C. (Pre) 2015**
+
+Ad hoc Treasury bill system of meeting budget deficit in India was abolished on:
 
 A. 1 April, 1992
 B. 1 April, 1994
@@ -2572,13 +2589,14 @@ D. 31 March, 1997
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Abolished **31 March 1997**; Ways and Means Advances followed from 1 April 1997.
+**Logic:** Abolished 31 March 1997; Ways and Means Advances followed from 1 April 1997 — 31 March, 1997
 
-**Ans: D.**
-
+**Ans: D.** 31 March, 1997
 </details>
 
-**Q45. I.A.S. (Pre) 2021** Which one of the following inflationary methods is likely to be the most in its effects?
+**Q45. I.A.S. (Pre) 2021**
+
+Which one of the following inflationary methods is likely to be the most in its effects?
 
 A. Repayment of public debt
 B. Borrowing from the public to finance a budget deficit
@@ -2588,13 +2606,14 @@ D. Creation of new money to finance a budget deficit
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Printing / creating new money is the most inflationary financing mode.
+**Logic:** Printing / creating new money is the most inflationary financing mode — Creation of new money to finance a budget deficit
 
-**Ans: D.**
-
+**Ans: D.** Creation of new money to finance a budget deficit
 </details>
 
-**Q46. U.P.P.C.S. (Mains) 2015** After deducting grants for the creation of capital assets from revenue deficit, we arrive at:
+**Q46. UPPCS (Mains) 2015**
+
+After deducting grants for the creation of capital assets from revenue deficit, we arrive at:
 
 A. Budgetary Deficit
 B. Fiscal Deficit
@@ -2604,13 +2623,14 @@ D. Effective Revenue Deficit
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Effective Revenue Deficit = Revenue deficit − grants for capital-asset creation.
+**Logic:** Effective Revenue Deficit = Revenue deficit − grants for capital-asset creation — Effective Revenue Deficit
 
-**Ans: D.**
-
+**Ans: D.** Effective Revenue Deficit
 </details>
 
-**Q47. U.P.P.C.S. (Mains) 2008** Fiscal Responsibility and Budget Management Act was enacted in India in the year:
+**Q47. UPPCS (Mains) 2008**
+
+Fiscal Responsibility and Budget Management Act was enacted in India in the year:
 
 A. 2007
 B. 2005
@@ -2620,12 +2640,10 @@ D. 2003
 <details>
 <summary>Show answer</summary>
 
-**Logic:** FRBM Act **2003** (effective from 2004 teaching).
+**Logic:** FRBM Act 2003 (effective from 2004 teaching) — 2003
 
-**Ans: D.**
-
+**Ans: D.** 2003
 </details>
-
 
 **Q48. Extra Drill (topic practice)**
 
@@ -2637,10 +2655,9 @@ C. Both 1 and 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** The Government raises funds primarily from the domestic — Both 1 and 2
 
-**Logic:** The Government raises funds primarily from the domestic
-
+**Ans: C.** Both 1 and 2
 </details>
 
 **Q49. I.A.S. (Pre) 2001**
@@ -2653,13 +2670,13 @@ C. Octroi
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** (b) 2 and 4 (d) 2 and 3 (b) Excise Duty (a) 1 only (d) Sales Tax (c) 1 and 3 Ans.
 
-**Logic:** Which of these is/are indirect taxes? (b) 2 and 4 (d) 2 and 3 (b) Excise Duty (a) 1 only (d) Sales Tax (c) 1 and 3 Ans. (b) See the explanation of above question. In the case of direct tax, the burden can't be shifted by the taxpayer to someone else, i.e., Direct tax is a type of
+**Ans: A.** Which of these is/are indirect taxes?
 
 </details>
 
-**Q50. U.P.R.O./A.R.O. (Pre) 2017**
+**Q50. UP RO/ARO (Pre) 2017**
 
 Fiscal deficit as a percent of GDP of India has steadily increased in the last decade. Which of the statements given above i/are correct?
 
@@ -2669,9 +2686,9 @@ C. Both I and
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** (Pre) 2017 Fiscal Deficit as a percentage of GDP Year Year 2016-17 111 2016-1 2017-18 112 2017-1 In the Union Budget 2026-27, total expenditure is estimated at Rs.
 
-**Logic:** Gross Tax Revenue as a percentage of GDP (h1 2 only (d) Neither I nor LA.S. (Pre) 2017 Fiscal Deficit as a percentage of GDP Year Year 2016-17 111 2016-1 2017-18 112 2017-1 In the Union Budget 2026-27, total expenditure is estimated at Rs. 53.47 lakh Cr. and Fiscal Deficit is est
+**Ans: D.** Gross Tax Revenue as a percentage of GDP (h1 2 only (d) Neither I nor LA.S.
 
 </details>
 
@@ -2687,11 +2704,11 @@ C. 3, 1, 2,4
 
 **Ans: *.**
 
-**Logic:** In revised estimates of 2025-26 and 2026-27 (B.E.), Income Tax is the top source of Central's Revenue Receipts followed by GST and Corporation Tax. (Source)
+**Logic:** In revised estimates of 2025-26 and 2026-27 (B.E.), Income Tax is the top source of Central's Revenue Receipts followed by GST and Corporation Tax.
 
 </details>
 
-**Q52. U.P. R.O./A.R.O. (Pre) 2014**
+**Q52. UP RO/ARO (Pre) 2014**
 
 Interest Tax 3. Security Transaction Tax M.P.P.C.S. (Pre) 1990 U.P.P.C.S. (Pre) 1993 Which of the above is/are Direct Tax/Taxes?
 
@@ -2703,10 +2720,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Standard key matches 1, 2 and 3.
 
-**Logic:** Ans. (d) Economic & Social Development General Studies E-183 Fringe Benefit Tax (FBT) was a form of direct tax that companies paid in lieu of benefits they offered their employees in addition to the compensation paid to them. It was included by the Finance Act 2005. The Finance A
-
+**Ans: D.** 1, 2 and 3
 </details>
 
 **Q53. I.A.S. (Pre) 2005**
@@ -2719,9 +2735,9 @@ C. Both 1 and 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Kelkar Committee in his second report offered two options regarding the deduction for interest on housing loan from the taxable income The first option was to incentivise b
 
-**Logic:** (b) 2 only (d) Neither 1 nor 2 The Global Trust Bank was acquired by the Oriental Bank of Commerce in 2004. Kelkar Committee in his second report offered two options regarding the deduction for interest on housing loan from the taxable income The first option was to incentivise b
+**Ans: D.** (b) 2 only (d) Neither 1 nor 2 The Global Trust Bank was acquired by the Oriental Bank of Commerce in 2004.
 
 </details>
 
@@ -2735,9 +2751,9 @@ C. 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** percent of GDP in FY 22 (2021-22).
 
-**Logic:** (b) 1 and 2 (d) None of the above As per the actual figures, the fiscal deficit of the Union Government had reached 9.2 percent of GDP during thepandemic FY 21 (2020-21) and it has moderated to 6. percent of GDP in FY 22 (2021-22). As per the actual figures, in recent financial y
+**Ans: A.** (b) 1 and 2 (d) None of the above As per the actual figures, the fiscal deficit of the Union Government had reached 9.2 percent of GDP during thepandemic FY 21 (2020-21) and it has moderated to 6.
 
 </details>
 
@@ -2751,9 +2767,9 @@ C. 1 and 3 only
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Singh was appointed by the government to review the implementation of FRBM Act.
 
-**Logic:** (b) 2 and 3 only (d) 1, 2 and 3 The FRBM Review Committee (formed in May, 2016) headed by N.K. Singh was appointed by the government to review the implementation of FRBM Act. In its report submitted in January 2017, the Committee suggested that the combined debt-to-GDP ratio of t
+**Ans: C.** (b) 2 and 3 only (d) 1, 2 and 3 The FRBM Review Committee (formed in May, 2016) headed by N.K.
 
 </details>
 
@@ -2767,9 +2783,9 @@ C. 2 only
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** The gain is the difference between a higher selling price and a lower purchase price.
 
-**Logic:** (b) 2 and 3 only (d) 1, 2 and 3 Capital gain is an increase in the value of a capital asset (inestment or real estate) that gives it a higher worth than the purchase price. The gain is the difference between a higher selling price and a lower purchase price. The increase in the s
+**Ans: B.** (b) 2 and 3 only (d) 1, 2 and 3 Capital gain is an increase in the value of a capital asset (inestment or real estate) that gives it a higher worth than the purchase price.
 
 </details>
 
@@ -2783,9 +2799,9 @@ C. 2,3 and 4
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** These are based on current or floating exchange rate.
 
-**Logic:** (b) 1 and 4 (d) 1, 2,3 and 4 External liabilities reported in the Union Budget are not based on historical exchange rates. These are based on current or floating exchange rate. Hence, statement 1 is incorrect while statement 2, 3 and 4 are correct
+**Ans: C.** (b) 1 and 4 (d) 1, 2,3 and 4 External liabilities reported in the Union Budget are not based on historical exchange rates.
 
 </details>
 
@@ -2799,13 +2815,11 @@ C. Only four
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue.
+**Ans: B.** Standard key from Ghatnachakra Fiscal Policy & Revenue.
 
 </details>
 
-**Q59. U.P.R.O./A.R.O. (Pre) 2017**
+**Q59. UP RO/ARO (Pre) 2017**
 
 Consider the following statements: 2022-23 11.4 2022-23 65 Assertion
 
@@ -2815,13 +2829,13 @@ B. Both
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** The main reason for hat was the government's finances came under pressure in 3917-18 due to the implementation of the Goods
 
-**Logic:** The fiscal deficit of Indian Government as a percentage of GDP in 2017-18 was higher at 3.5 percent compared to the ageted 3.2 percent in Budget estimates. The main reason for hat was the government's finances came under pressure in 3917-18 due to the implementation of the Goods 
+**Ans: A.** The fiscal deficit of Indian Government as a percentage of GDP in 2017-18 was higher at 3.5 percent compared to the ageted 3.2 percent in Budget estimates.
 
 </details>
 
-**Q60. U.P. R.O./A.R.O. (Mains) 2021**
+**Q60. UP RO/ARO (Mains) 2021**
 
 What was the disinvestment target for Public Sector Banks and Financial Institutions in the Union Budget 2020-21?
 
@@ -2831,9 +2845,9 @@ C. Rs. 100,000 Crore
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** 90,000 Crore (d) None of the above In the Union Budget 2020-21, the total disinvestment target hr 2020-21 was pegged at Rs.
 
-**Logic:** (b) Rs. 90,000 Crore (d) None of the above In the Union Budget 2020-21, the total disinvestment target hr 2020-21 was pegged at Rs. 2.1 lakh crore, in which the government expected a substantial Rs. 90,000 crore revenue Fom the disinvestment of government stake in public sector h
+**Ans: B.** (b) Rs.
 
 </details>
 
@@ -2847,9 +2861,9 @@ C. 1, 2 and 4 only
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Processed and canned fish a
 
-**Logic:** (b) 2 and 3 only (d) 1, 2, 3 and 4 I.A.S, (Pre) 2018 Presently, among the given options hulled cereal grains, cooked chicken egg (in shell) and newspapers (with or without advertising material) are exempted (0% rate) under Goods and Services Tax (GST). Processed and canned fish a
+**Ans: C.** (b) 2 and 3 only (d) 1, 2, 3 and 4 I.A.S, (Pre) 2018 Presently, among the given options hulled cereal grains, cooked chicken egg (in shell) and newspapers (with or without advertising material) are exempted (0% rate)…
 
 </details>
 
@@ -2863,9 +2877,9 @@ C. 1 and 3 only
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** It will replace multiple tax collected by multiple authorities and through uniform tax system it will create a commo
 
-**Logic:** (b) 2 and 3 only (d) 1, 2 and 3 Implementation of 'Goods and Services Tax (GST)' will help reduce tax rates, remove multiple point taxation, and increase revenues. It will replace multiple tax collected by multiple authorities and through uniform tax system it will create a commo
+**Ans: A.** (b) 2 and 3 only (d) 1, 2 and 3 Implementation of 'Goods and Services Tax (GST)' will help reduce tax rates, remove multiple point taxation, and increase revenues.
 
 </details>
 
@@ -2879,10 +2893,9 @@ C. Value Added Tax
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** (b) Corporation Tax (d) Income Tax See the explanation of above question — Value Added Tax
 
-**Logic:** (b) Corporation Tax (d) Income Tax See the explanation of above question
-
+**Ans: C.** Value Added Tax
 </details>
 
 **Q64. Chhattisgarh P.C.S. (Pre) 2019**
@@ -2897,9 +2910,9 @@ D. The Constitution
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** It was introduced as the One Hundred and Twenty Second Amendment Bill of the Constitution of India
 
-**Logic:** Officially known as The Constitution (One Hundred and First Amendment) Act, 2016, this amendment introduced a National Goods and Services Tax (G.S.T.) in India from 1 July, 2017. It was introduced as the One Hundred and Twenty Second Amendment Bill of the Constitution of India
+**Ans: D.** Officially known as The Constitution (One Hundred and First Amendment) Act, 2016, this amendment introduced a National Goods and Services Tax (G.S.T.) in India from 1 July, 2017.
 
 </details>
 
@@ -2915,13 +2928,12 @@ D. Union Finance Minister
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue — Union Finance Minister
 
-**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue.
-
+**Ans: D.** Union Finance Minister
 </details>
 
-**Q66. U.P. R.O./A.R.O. (Pre) 2023**
+**Q66. UP RO/ARO (Pre) 2023**
 
 Which of the following statement/s is/are correct? 1. ITC means the credit of Input Tax on the supplies of goods and services or both received by a registered person. 2. Eligibility of ITC which may be as under-taxable supply, non-taxable supply, zero-rated supply. Select the correct answer using the code given belowCode:
 
@@ -2931,9 +2943,9 @@ C. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** ITC is a mechanism to avoid cascading of taxes.
 
-**Logic:** (b) Only 2 (d) Only 1 Uninterrupted and seamless chain of input tax credit (ITC is one of the key features of Goods and Services Tax. ITC is a mechanism to avoid cascading of taxes. Any registered person can avail credit of tax paid on the inward supply of goods or services or bo
+**Ans: D.** (b) Only 2 (d) Only 1 Uninterrupted and seamless chain of input tax credit (ITC is one of the key features of Goods and Services Tax.
 
 </details>
 
@@ -2947,9 +2959,9 @@ D. The policy for country's relations with IMF
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** Governments typically use fiscal policy to promote strong and sustainable growth and reduce poverty
 
-**Logic:** Fiscal policy is the use of government spending and taxation to influence the economy. Governments typically use fiscal policy to promote strong and sustainable growth and reduce poverty
+**Ans: B.** Fiscal policy is the use of government spending and taxation to influence the economy.
 
 </details>
 
@@ -2963,9 +2975,9 @@ C. Foreign policy
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** In other words, a policy related to public expenditure, taxation and public debt is called fiscal policy
 
-**Logic:** (b) Tax policy (d) Interest rate policy Taxation, public expenditure and public debt are the important instruments of Fiscal policy. In other words, a policy related to public expenditure, taxation and public debt is called fiscal policy
+**Ans: B.** (b) Tax policy (d) Interest rate policy Taxation, public expenditure and public debt are the important instruments of Fiscal policy.
 
 </details>
 
@@ -2979,9 +2991,9 @@ C. Credit Ceiling
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Government use these instruments to influence economic activity by adjusting the amount of money in the economy.
 
-**Logic:** (b) Cash Reserve Ratio (d) Bank Rate The main tools of fiscal policy are government spending and taxation, with transfer payments also playing a significant role. Government use these instruments to influence economic activity by adjusting the amount of money in the economy. Expa
+**Ans: A.** (b) Cash Reserve Ratio (d) Bank Rate The main tools of fiscal policy are government spending and taxation, with transfer payments also playing a significant role.
 
 </details>
 
@@ -2995,9 +3007,9 @@ C. Prof. Marshall
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Pigou (d) Prof.
 
-**Logic:** (b) Prof. Pigou (d) Prof. Crowther In the first half of the twentieth century, fiscal policy came to the centre stage of economic policy with its ascendancyattributed to the Keynesian policy perscription (describedin Prof. J.M. Keynes 1936 book -' The General Theory ofEmployment,
+**Ans: A.** (b) Prof.
 
 </details>
 
@@ -3013,10 +3025,9 @@ D. It is an extreme affirmative action by the Governmentto pursue its policy of 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue — It is an intense affirmative action of the Governmentto boost economic activity in the country
 
-**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue.
-
+**Ans: B.** It is an intense affirmative action of the Governmentto boost economic activity in the country
 </details>
 
 **Q72. Chhattisgarh P.C.S. (Pre) 2018**
@@ -3030,9 +3041,9 @@ C. Ministry of Finance
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** It is prepared by the Department of Economic Affairs, Ministry of Finance under the guidance of the Chief Economic Adviser.
 
-**Logic:** , 2015 The Economic Survey of India is the flagship annual document of the Ministry of Finance, Government of India. It is prepared by the Department of Economic Affairs, Ministry of Finance under the guidance of the Chief Economic Adviser. This document is presented to both Hous
+**Ans: C.** , 2015 The Economic Survey of India is the flagship annual document of the Ministry of Finance, Government of India.
 
 </details>
 
@@ -3047,13 +3058,12 @@ C. Reserve Bank of India
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue — Ministry of Finance
 
-**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue.
-
+**Ans: B.** Ministry of Finance
 </details>
 
-**Q74. U.P.P.C.S. (Mains) 2007**
+**Q74. UPPCS (Mains) 2007**
 
 Match List-I with List-II and select the correct answer using the codes below the lists: List-II List-1 A. Ministry of Industry B. Central Statistical Organization C. Reserve Bank of India D. Ministry of Finance Code: A B C D
 
@@ -3065,10 +3075,9 @@ D. 3 4 2 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** Standard key matches 3 4 1 2.
 
-**Logic:** 1. Report on Currency and Finance
-
+**Ans: B.** 3 4 1 2
 </details>
 
 **Q75. Extra Drill (topic practice)**
@@ -3081,13 +3090,12 @@ B. Both
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue — Both
 
-**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue.
-
+**Ans: A.** Both
 </details>
 
-**Q76. U.P. R.O./A.R.O. (Pre) 2017**
+**Q76. UP RO/ARO (Pre) 2017**
 
 As per Union Budget 2018-19, match List-I with ListII and select the correct answer from the codes given below the lists : List-I (Sector) A. Defence B. Agriculture and List-II (Budget Allocation : in lakh crores) 1. Rs. 1.38 2. Rs. 1.69 allied activities C.Subsidy for food 3. Rs. 0.63 Allocated outlay (in Rs. crore) D.Rural development 4. Rs. 2.82 Sectors 2024-25 (Actuals) 2025-26 (R.E.) 2026-27 (B.E.) Codes: A B C D Energy 66052 86471 109029
 
@@ -3098,13 +3106,12 @@ C. 4 2 1 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** The correctly matched lists are as follows: — 4 3 2 1
 
-**Logic:** The correctly matched lists are as follows:
-
+**Ans: A.** 4 3 2 1
 </details>
 
-**Q77. U.P. Lower Sub. (Pre) 2009**
+**Q77. UP Lower Sub (Pre) 2009**
 
 Which one of the following is not a source of Public revenue?
 
@@ -3114,9 +3121,7 @@ C. VAT
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
-
-**Logic:** (b) Public Borrowing (d) Subsidy Income tax, public borrowings and VAT (Value Added Tax) are the sources of public revenue, while subsidy is a part of public expenditure
+**Ans: D.** (b) Public Borrowing (d) Subsidy Income tax, public borrowings and VAT (Value Added Tax) are the sources of public revenue, while subsidy is a part of public expenditure
 
 </details>
 
@@ -3131,10 +3136,9 @@ D. Small Savings
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Interest receipts, tax receipts and profits and dividends of Government Departments and Public Undertakings are included in the revenue account of Union Budget while securities issued against small savings is included……
 
-**Logic:** Interest receipts, tax receipts and profits and dividends of Government Departments and Public Undertakings are included in the revenue account of Union Budget while securities issued against small savings is included under debt receipts in the capital account of Union Budget
-
+**Ans: D.** Small Savings
 </details>
 
 **Q79. I.A.S. (Pre) 2010**
@@ -3147,9 +3151,9 @@ C. 1 and 3 only
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** The capital receipts are loans raised by theGovernment from public, called market loans, borrowingby the Government from Reserve Bank and other partiesthrough the sale of Treasury Bill
 
-**Logic:** (b) 2 and 3 only (d) 1,2 and 3 Capital Budget consists of capital receipts and capita payments. The capital receipts are loans raised by theGovernment from public, called market loans, borrowingby the Government from Reserve Bank and other partiesthrough the sale of Treasury Bill
+**Ans: D.** (b) 2 and 3 only (d) 1,2 and 3 Capital Budget consists of capital receipts and capita payments.
 
 </details>
 
@@ -3163,9 +3167,9 @@ C. I and III only
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Those government receipts which create a liability for the government or reduce its financial assets are called Capital Receipts.
 
-**Logic:** (b) II and III only (d) I, II and III Government receipts are divided into two main categoriesRevenue Receipts and Capital Receipts. Those government receipts which create a liability for the government or reduce its financial assets are called Capital Receipts. On the other hand
+**Ans: A.** (b) II and III only (d) I, II and III Government receipts are divided into two main categoriesRevenue Receipts and Capital Receipts.
 
 </details>
 
@@ -3181,10 +3185,9 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue — The expenditure is on interest payments
 
-**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue.
-
+**Ans: A.** The expenditure is on interest payments
 </details>
 
 **Q82. 67th B.P.S.C. (Pre) 2022**
@@ -3198,10 +3201,9 @@ C. 2017
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue — 2017
 
-**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue.
-
+**Ans: C.** 2017
 </details>
 
 **Q83. I.A.S. (Pre) 2016**
@@ -3214,9 +3216,9 @@ C. Budget 2016-17
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** There has been a persistent deficit year.
 
-**Logic:** 74. There has been a persistent deficit year. budget year aftey Which action/actions of the following can be takenby the Government to reduce the deficit? 1. Reducing revenue expenditure 2. Introducing new welfare schemes 3. Rationalizing subsidies 4. Reducing import duties Selec
+**Ans: D.** 74.
 
 </details>
 
@@ -3230,10 +3232,9 @@ C. Defence Services
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue — Interest payments
 
-**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue.
-
+**Ans: A.** Interest payments
 </details>
 
 **Q85. Chhattisgarh P.C.S. (Pre) 2017**
@@ -3247,10 +3248,9 @@ C. Interest Payment
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** |See the explanation of above question — Interest Payment
 
-**Logic:** |See the explanation of above question
-
+**Ans: C.** Interest Payment
 </details>
 
 **Q86. I.A.S. (Pre) 2010**
@@ -3265,9 +3265,9 @@ D. Capital expenditure
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** Economic & Social Development Ans.
 
-**Logic:** (c) 1, 2 and 4 (d) 3 and 4 only |See the explanation of above question. Economic & Social Development Ans. (d) General Studies E-159 Control over the fiscal deficit can be achieved by the institutional reforms. Downsizing of bureaucracy will reduce the government expenditure, whi
+**Ans: B.** (c) 1, 2 and 4 (d) 3 and 4 only |See the explanation of above question.
 
 </details>
 
@@ -3281,9 +3281,9 @@ C. 7.6%
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** (Pre) 2022See the explanation of above question
 
-**Logic:** (b) 7.8% (d) 6.8%% More than one 67th of the above B.P.S.C. (Pre) 2022See the explanation of above question
+**Ans: D.** (b) 7.8% (d) 6.8%% More than one 67th of the above B.P.S.C.
 
 </details>
 
@@ -3297,9 +3297,9 @@ C. 4.9% of GDP
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** The government's fiscal deficit target ini the Union Budget 2026-27 is pegged at Rs.
 
-**Logic:** 60th to In Union Budget 2016-17, the fiscal deficit target for the financial year 2016-17 was at 3.5% of GDP. The government's fiscal deficit target ini the Union Budget 2026-27 is pegged at Rs. 1695768 crore or 4.3% of the GDP
+**Ans: B.** 60th to In Union Budget 2016-17, the fiscal deficit target for the financial year 2016-17 was at 3.5% of GDP.
 
 </details>
 
@@ -3315,9 +3315,9 @@ D. 3 1 4 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** From the 1997-98 Budget, the practice of showing budget deficit has been discontinued in India.
 
-**Logic:** The excess of Government's total expenditure (both revenue and capital) over total receipts (both revenue and capital) |constitutes budget deficit. From the 1997-98 Budget, the practice of showing budget deficit has been discontinued in India. The excess of Government's revenue e
+**Ans: A.** The excess of Government's total expenditure (both revenue and capital) over total receipts (both revenue and capital) |constitutes budget deficit.
 
 </details>
 
@@ -3333,9 +3333,9 @@ D. Gross Fiscal Deficit = Net borrowing at home +
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** The fiscal deficit will have to be financed through borrowing.
 
-**Logic:** The Gross Fiscal Deficit is the excess of total government expenditure over revenue receipts and capital receipts that do not create debt. The fiscal deficit will have to be financed through borrowing. Thus, it indicates the total borrowing requirements of the government. Hence, 
+**Ans: D.** The Gross Fiscal Deficit is the excess of total government expenditure over revenue receipts and capital receipts that do not create debt.
 
 </details>
 
@@ -3349,9 +3349,9 @@ C. 58,500 crores
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Given that, Fiscal Deficit = *50,000 crore and Interest payments = ₹1,500 crore.
 
-**Logic:** (b) 51,500 crores (d) None ofthe above Primary Deficit is simply the Fiscal Deficit after deducting interest payments. Given that, Fiscal Deficit = *50,000 crore and Interest payments = ₹1,500 crore. Therefore, the difference between the two is the correct answer, i.e., 48,500 cr
+**Ans: A.** (b) 51,500 crores (d) None ofthe above Primary Deficit is simply the Fiscal Deficit after deducting interest payments.
 
 </details>
 
@@ -3367,10 +3367,9 @@ D. Creation of new money to finance a budget deficit
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Standard key matches Creation of new money to finance a budget deficit.
 
-**Logic:** L.A.S. (Pre) 2021, 2013 Among all the deficit financing methods, the creation of new money to finance a budget deficit is the most inflationary in its effects because it creates more money supply in the market while the amount of goods does not change and that creates | high infl
-
+**Ans: D.** Creation of new money to finance a budget deficit
 </details>
 
 **Q93. I.A.S. (Pre) 2018**
@@ -3385,13 +3384,13 @@ D. A Money Bill deals with the regulation of borrowing
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Hence, statement o
 
-**Logic:** of money or giving any guarantee by the Govermment of India As per the Article 110 of the Indian Constitution (Definition of Money Bill) a Money Bill is concerned with appropriation of money out of the Consolidated Fund of India (not Contingency Fund of India). Hence, statement o
+**Ans: C.** of money or giving any guarantee by the Govermment of India As per the Article 110 of the Indian Constitution (Definition of Money Bill) a Money Bill is concerned with appropriation of money out of the Consolidated Fu…
 
 </details>
 
-**Q94. U.P. Lower Sub. (Spl.) (Pre) 2003**
+**Q94. UP Lower Sub (Spl.) (Pre) 2003**
 
 Which one of the following motions has contextualrelationship with the Union Budget:
 
@@ -3402,10 +3401,9 @@ C. Cut Motion
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue — Cut Motion
 
-**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue.
-
+**Ans: C.** Cut Motion
 </details>
 
 **Q95. I.A.S. (Pre) 2010**
@@ -3420,10 +3418,9 @@ D. Fixing government guarantees in any financial year
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** The elimination of primary deficit by the end ofthe fiscal year 2008-09 was not stipulated in the Fiscal Responsibility and Budget Management Act, 2003.Other options are correct as per the provisions of question period…
 
-**Logic:** The elimination of primary deficit by the end ofthe fiscal year 2008-09 was not stipulated in the Fiscal Responsibility and Budget Management Act, 2003.Other options are correct as per the provisions of question period
-
+**Ans: C.** Elimination of primary deficit by the end of the fiscal
 </details>
 
 **Q96. Chhattisgarh P.C.S. (Pre) 2019**
@@ -3438,9 +3435,9 @@ D. Rs. 1,95,000 Crores
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** 1,05,000 crore.
 
-**Logic:** h the Union Budget 2019-20, disinvestment revenue was pegged at Rs. 1,05,000 crore. However, the actual realisation as only Rs. 50,304 crore. The government has set a target |of Rs. 80,000 crore from disinvestment in Union Budget 2026-27
+**Ans: B.** h the Union Budget 2019-20, disinvestment revenue was pegged at Rs.
 
 </details>
 
@@ -3454,9 +3451,9 @@ C. AVATARAN
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** P.C.S (Mains) 2016 In Railway Budget 2016-17, Minister for Railways has announced to set up a 'Special Railway Establishment for Strategic Technology & Holistic Advancement - SRESTHA' to drive long-term research and d…
 
-**Logic:** (b) SRESTHA (d) NAVRACHNA U.P. P.C.S (Mains) 2016 In Railway Budget 2016-17, Minister for Railways has announced to set up a 'Special Railway Establishment for Strategic Technology & Holistic Advancement - SRESTHA' to drive long-term research and development in guided transport i
+**Ans: B.** (b) SRESTHA (d) NAVRACHNA U.P.
 
 </details>
 
@@ -3471,9 +3468,7 @@ C. An Indian company purchases tangible assets in a
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
-
-**Logic:** A foreign company transfers shares and such shares derive their substantial value from assets located in India 'Indirect transfers' refer to situations where when foreign entities own shares or assets in India, the shares of such foreign entities are transferred instead of a dire
+**Ans: D.** A foreign company transfers shares and such shares derive their substantial value from assets located in India 'Indirect transfers' refer to situations where when foreign entities own shares or assets in India, the sh…
 
 </details>
 
@@ -3487,9 +3482,9 @@ C. Both 1 and 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** which was introduced by Chapter-VIII of the Finance Act.
 
-**Logic:** (d) Neither 1 nor 2 Equalization tax is a levy imposed on certain specified digitalservices provided by a non-resident to a resident in India. which was introduced by Chapter-VIII of the Finance Act. 2016. It does not form a part of Income Tax Act, 1961 and ithas its existence si
+**Ans: D.** (d) Neither 1 nor 2 Equalization tax is a levy imposed on certain specified digitalservices provided by a non-resident to a resident in India.
 
 </details>
 
@@ -3505,10 +3500,9 @@ D. Statement I is not correct but Statement Il is
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue — Statement I is not correct but Statement Il is
 
-**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue.
-
+**Ans: D.** Statement I is not correct but Statement Il is
 </details>
 
 **Q101. 67th B.P.S.C. (Pre) (Re.Exam) 2022**
@@ -3521,10 +3515,9 @@ C. 11.5%
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue — 11.5%
 
-**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue.
-
+**Ans: C.** 11.5%
 </details>
 
 **Q102. I.A.S. (Pre) 2015**
@@ -3537,9 +3530,9 @@ C. Both 1 and 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Slowing economic growth rate may result in lower tax collection but it does not necessarily mean decrease in tax
 
-**Logic:** (b) 2 only (d) Neither 1 nor 2 A tax-to-GDP ratio is a gauge of a nation's tax revenue relative to the size of its economy as measured by gross domestic product (GDP). Slowing economic growth rate may result in lower tax collection but it does not necessarily mean decrease in tax
+**Ans: D.** (b) 2 only (d) Neither 1 nor 2 A tax-to-GDP ratio is a gauge of a nation's tax revenue relative to the size of its economy as measured by gross domestic product (GDP).
 
 </details>
 
@@ -3555,9 +3548,9 @@ D. None of these
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** Indirect taxes are generally imposed on consumption and every person, regardless of their taxable capacities, pays the same rate of tax on consumption of a good or a
 
-**Logic:** Indirect taxes are termed regressive taxing mechanism as they are charged at the same rates for all income groups. Indirect taxes are generally imposed on consumption and every person, regardless of their taxable capacities, pays the same rate of tax on consumption of a good or a
+**Ans: B.** Indirect taxes are termed regressive taxing mechanism as they are charged at the same rates for all income groups.
 
 </details>
 
@@ -3577,7 +3570,7 @@ C. II, III, I, IV
 
 </details>
 
-**Q105. U.P. R.O./A.R.O. (Re-Exam) (Pre) 2016**
+**Q105. UP RO/ARO (Re-Exam) (Pre) 2016**
 
 Following are the estimated source of revenue of the Union Budget 2020-21. Match List-I with List-II and select the correct answer from the codes given below: List-l (Percentage of Revenue) As per the question period, option (b) was the correct answer. At present, revenue from various taxes in gross tax revenue in 2024-25 (Actuals) 2025-26 (R.E.) and 2026-27 (B.E.) are as follows: In Rs. Crore Tax Revenue List-II 2024-25 (Actuals) 2025-26 (R.E.) 2026-27 (B.E.) A. Corporate Tax 1. 17 percent C…
 
@@ -3589,9 +3582,9 @@ D. 2 1 4 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** List-I List-II (Source) (Percentage of Total Receipts) Corporation Tax 18 percent 17 percent 4 percent 7 percent Income Tаx Customs Central Excise In the Union
 
-**Logic:** As per the estimated source of revenue of the Union Budget 2020-21, the correctly matched order is as follows : 2009-10? List-I List-II (Source) (Percentage of Total Receipts) Corporation Tax 18 percent 17 percent 4 percent 7 percent Income Tаx Customs Central Excise In the Union
+**Ans: D.** As per the estimated source of revenue of the Union Budget 2020-21, the correctly matched order is as follows : 2009-10?
 
 </details>
 
@@ -3607,10 +3600,9 @@ D. Reduction in almost every tax
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** The rates of almost every tax had been reduced in the Union Budget 1997-98 presented by the then Finance Minister, Chidambaram.
 
-**Logic:** P. The rates of almost every tax had been reduced in the Union Budget 1997-98 presented by the then Finance Minister, Chidambaram. The Finance Minister announced lower Income Tax rates of 10, 20 and 30% as against the erstwhile 15, 30 and 40%.The 1997-98 Budget abolished the surc
-
+**Ans: D.** Reduction in almost every tax
 </details>
 
 **Q107. Jharkhand P.C.S. (Pre) 2011**
@@ -3623,9 +3615,9 @@ C. Customs Duty
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** While remaining three |taxes/duties are levied by the Union Government.
 
-**Logic:** (b) Education Cess (d) Road Таx Road tax is not a tax/duty levied by the Government of India, it is levied by the State governments. While remaining three |taxes/duties are levied by the Union Government. Ans. (c) conomic & Social Development General Studies E-178
+**Ans: D.** (b) Education Cess (d) Road Таx Road tax is not a tax/duty levied by the Government of India, it is levied by the State governments.
 
 </details>
 
@@ -3640,10 +3632,9 @@ C. Estate Duty
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Among the given options, Stamp Duties (as are mentioned in the Union List of the Constitution) are levied by the Union and collected and appropriated by the States — Stamp Duties
 
-**Logic:** Among the given options, Stamp Duties (as are mentioned in the Union List of the Constitution) are levied by the Union and collected and appropriated by the States
-
+**Ans: A.** Stamp Duties
 </details>
 
 **Q109. I.A.S. (Pre) 1999**
@@ -3658,10 +3649,9 @@ D. Only the surcharge levied on income tax is shared
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** The Union levies and collects the income tax, but its net proceeds with other Central taxes and duties are distributed between the Union and the States as per the recommendations of the Finance Commission — The Union le…
 
-**Logic:** The Union levies and collects the income tax, but its net proceeds with other Central taxes and duties are distributed between the Union and the States as per the recommendations of the Finance Commission
-
+**Ans: A.** The Union levies, collects and distributes the proceeds
 </details>
 
 **Q110. Uttarakhand P.C.S. (Pre) 2010**
@@ -3674,9 +3664,9 @@ C. Estate duty
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** While in the Sales tax, the incidence and impact of taxation does not fall on the same individual/ entity.
 
-**Logic:** (b) Wealth tax (d) Sales tax Income tax, Wealth tax and Estate duty are direct taxes because both the impact and incidence of these fall on the same individual/entity. While in the Sales tax, the incidence and impact of taxation does not fall on the same individual/ entity. In th
+**Ans: D.** (b) Wealth tax (d) Sales tax Income tax, Wealth tax and Estate duty are direct taxes because both the impact and incidence of these fall on the same individual/entity.
 
 </details>
 
@@ -3691,9 +3681,9 @@ C. It is a tax on the final consumptionof goods or services and must ultimately 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** The features of VAT are : (i) It is a tax levied on value addition at each stage of transacti
 
-**Logic:** The main objective behind the introduction of VAT (Value Added Tax) was to eliminate the presence of double taxation, and the cascading effect from the then existing sales tax structure. The features of VAT are : (i) It is a tax levied on value addition at each stage of transacti
+**Ans: D.** The main objective behind the introduction of VAT (Value Added Tax) was to eliminate the presence of double taxation, and the cascading effect from the then existing sales tax structure.
 
 </details>
 
@@ -3707,10 +3697,9 @@ C. Haryana
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** (b) Delhi (d) Goa See the explanation of above question — Haryana
 
-**Logic:** (b) Delhi (d) Goa See the explanation of above question
-
+**Ans: C.** Haryana
 </details>
 
 **Q113. M.P.P.C.S. (Pre) 2006**
@@ -3724,10 +3713,9 @@ C. Goa, Arunachal Pradesh
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue — Andaman & Nicobar and Lakshadweep
 
-**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue.
-
+**Ans: A.** Andaman & Nicobar and Lakshadweep
 </details>
 
 **Q114. M.P.P.C.S. (Pre) 2006**
@@ -3740,9 +3728,9 @@ C. 1957
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** But since the application of this tax was more expensive than the benefits derived, the act was abolished by the Union Budget 2015-16.
 
-**Logic:** (b) 1976 (d) 1948 The Government of India introduced the Wealth tax upon the richer strata of the society through the Wealth Tax Act, 1957. But since the application of this tax was more expensive than the benefits derived, the act was abolished by the Union Budget 2015-16. Wealt
+**Ans: C.** (b) 1976 (d) 1948 The Government of India introduced the Wealth tax upon the richer strata of the society through the Wealth Tax Act, 1957.
 
 </details>
 
@@ -3758,7 +3746,7 @@ C. 10% 60th to 62nd B.P.S.C
 
 **Ans: *.**
 
-**Logic:** The Service tax was introduced in India on 1 July, 1994 at the recommendation of Raja J. Chelliah Committee on Tax Reforms. The introduction ofthis levy in India can be termed as milestone in Indian tax history
+**Logic:** The Service tax was introduced in India on 1 July, 1994 at the recommendation of Raja J.
 
 </details>
 
@@ -3772,10 +3760,9 @@ C. Sales Tаx
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** (b) Corporation Tax (d) Wealth Tax See the explanation of above question — Sales Tаx
 
-**Logic:** (b) Corporation Tax (d) Wealth Tax See the explanation of above question
-
+**Ans: C.** Sales Tаx
 </details>
 
 **Q117. Extra Drill (topic practice)**
@@ -3788,9 +3775,9 @@ C. Capital Gains Tax
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** (Mains) 200Among the given options, Fringe Benefit Tax (FBT).Minimum Alternate Tax (MAT) and Tax on company profitare related with income from corporate sector in IndiaWhereas Capital Gains Tax is not related to income
 
-**Logic:** (b) Minimum Alternate Tax(d) Tax on company profitU.P.P.C.S. (Mains) 200Among the given options, Fringe Benefit Tax (FBT).Minimum Alternate Tax (MAT) and Tax on company profitare related with income from corporate sector in IndiaWhereas Capital Gains Tax is not related to income 
+**Ans: C.** (b) Minimum Alternate Tax(d) Tax on company profitU.P.P.C.S.
 
 </details>
 
@@ -3804,13 +3791,13 @@ C. Excise Duty
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** e-Sahyog is a project to provide an online mechanism to resolve mismatches in income tax ret
 
-**Logic:** (b) Income Tax (d) Road Tax On 27 October 2015, Income Tax Department (ITD) had launched a new initiative 'e-Sahyog' with a view to reduce compliance cost, especially for small taxpayers. e-Sahyog is a project to provide an online mechanism to resolve mismatches in income tax ret
+**Ans: B.** (b) Income Tax (d) Road Tax On 27 October 2015, Income Tax Department (ITD) had launched a new initiative 'e-Sahyog' with a view to reduce compliance cost, especially for small taxpayers.
 
 </details>
 
-**Q119. U.P. R.O./A.R.O. (Pre) 2014**
+**Q119. UP RO/ARO (Pre) 2014**
 
 What is the maximum limit of the payment of Gratuity as per the Payment of Gratuity Act 1972?
 
@@ -3820,10 +3807,7 @@ C. Rs. 10 Lakh
 <details>
 <summary>Show answer</summary>
 
-**Ans: *.**
-
-**Logic:** (b) Rs. 7.50 Lakh (d) Rs. 10.50 Lakh The Payment of Gratuity Act, 1972 applies to establishments employing 10 or more persons. The main purpose ofthis Act is to provide social security to workman after retirement. In the question period under this Act, Rs. 10 lakh was the maximum
-
+**Ans: *.** **Logic:** (b) Rs.
 </details>
 
 **Q120. 64th B.P.S.C. (Pre) 2018**
@@ -3837,13 +3821,12 @@ C. Article 268
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue — Article 280
 
-**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue.
-
+**Ans: A.** Article 280
 </details>
 
-**Q121. U.P. R.O./A.R.O. (Pre) (Re-Exam) 2023**
+**Q121. UP RO/ARO (Pre) (Re-Exam) 2023**
 
 Consider the following statements with reference to the 16th Finance Commission : I. The Commission was constituted on 31" December, 2024. II. Shri Arvind Panagariya is its Chairman. Which of the above statements is/are correct?
 
@@ -3855,9 +3838,9 @@ D. Only I
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** This Commission submitted its recommendations to the President of India for | a 5-year period beginning 1 April, 2026 on 17 November,
 
-**Logic:** The 16th Finance Commission was constituted under the chairmanship of former Vice-Chairman of NITI Aayog, Arvind Panagariya, on 31 December, 2023. This Commission submitted its recommendations to the President of India for | a 5-year period beginning 1 April, 2026 on 17 November,
+**Ans: B.** The 16th Finance Commission was constituted under the chairmanship of former Vice-Chairman of NITI Aayog, Arvind Panagariya, on 31 December, 2023.
 
 </details>
 
@@ -3872,9 +3855,9 @@ C. Ramesh Chand
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** Hence statement of option (b) is incorrect, while statements of all other options regarding to both commissions
 
-**Logic:** The Planning Commission (Now NITI Aayog) and the Finance Commission both are recommendatory bodies and recommendations given by them are not binding on the |Government. Hence statement of option (b) is incorrect, while statements of all other options regarding to both commissions
+**Ans: B.** The Planning Commission (Now NITI Aayog) and the Finance Commission both are recommendatory bodies and recommendations given by them are not binding on the |Government.
 
 </details>
 
@@ -3888,9 +3871,9 @@ C. I, III and IV
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** 4,800 crore (Rs.
 
-**Logic:** (b) I, II and IV (d) II, III and IV To improve the educational outcomes of the States, the 15th Finance Commission has recommended grants of Rs. 4,800 crore (Rs. 1,200 crore each year) from 2022-23 to 2025-26. Thus, Statement I is factually correct. The 15th Finance Commission di
+**Ans: C.** (b) I, II and IV (d) II, III and IV To improve the educational outcomes of the States, the 15th Finance Commission has recommended grants of Rs.
 
 </details>
 
@@ -3905,9 +3888,9 @@ C. 13.02%
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Among all the States, Uttar Pradesh's share (17.93% for 2020-21 an
 
-**Logic:** The share of Bihar in the divisible pool of Central Taxes on the recommendation of the 15th Finance Commission (FC) was at 10.06% for 2020-21 and for 2021-26, which was at 9.67% previously on the basis of 14th FC. Among all the States, Uttar Pradesh's share (17.93% for 2020-21 an
+**Ans: A.** The share of Bihar in the divisible pool of Central Taxes on the recommendation of the 15th Finance Commission (FC) was at 10.06% for 2020-21 and for 2021-26, which was at 9.67% previously on the basis of 14th FC.
 
 </details>
 
@@ -3922,10 +3905,9 @@ C. 4.89 percent
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue — 4.89 percent
 
-**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue.
-
+**Ans: C.** 4.89 percent
 </details>
 
 **Q126. I.A.S. (Pre) 2023**
@@ -3940,10 +3922,9 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** For the horizontal tax devolution, the 15th Finance Commission used the following criteria: Criteria Weight (%) Population (2011) 15.0 Area 15.0 Income distance 45.0 Forest and ecology 10.0 Demographic performance 12.……
 
-**Logic:** For the horizontal tax devolution, the 15th Finance Commission used the following criteria: Criteria Weight (%) Population (2011) 15.0 Area 15.0 Income distance 45.0 Forest and ecology 10.0 Demographic performance 12.5 Tax and fiscal effort Total 2.5 100 Governance reforms and st
-
+**Ans: A.** 1 only
 </details>
 
 **Q127. Chhattisgarh P.C.S. (Pre) 2015**
@@ -3956,9 +3937,9 @@ C. Prof. A.M. Khusro
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Salve (d) Dr.
 
-**Logic:** (b) Shri N.K.P. Salve (d) Dr. Y.V. Reddy See the explanation of above question
+**Ans: D.** (b) Shri N.K.P.
 
 </details>
 
@@ -3973,10 +3954,9 @@ C. Dr. Vijay L. Kelkar
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** (d) Sam Pitroda The Thirteenth Finance Commission has been constituted in pursuance of the provisions of Article 280 of the Constitution of India by the President under the chairmanship of Dr — Dr
 
-**Logic:** (d) Sam Pitroda The Thirteenth Finance Commission has been constituted in pursuance of the provisions of Article 280 of the Constitution of India by the President under the chairmanship of Dr. Vijay L. Kelkar in November, 2007. The commission made recommendation covering a period
-
+**Ans: C.** Dr.
 </details>
 
 **Q129. U.P. U.D.A./L.D.A. (Spl.) (Pre) 2010**
@@ -3989,9 +3969,7 @@ C. Population
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
-
-**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue.
+**Ans: D.** Standard key from Ghatnachakra Fiscal Policy & Revenue.
 
 </details>
 
@@ -4005,9 +3983,9 @@ C. N.D. Tiwari
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** (Pre) 2003 Chairman of the 10th Finance Commission was K.С.
 
-**Logic:** Uttarakhand U.D.A.\L.D.A. (Pre) 2003 Chairman of the 10th Finance Commission was K.С. Pant. The First Finance Commission was constituted vide presidential order dated 22.11.1951 under the chairmanship of Shri K.C. Neogy. So far 16th Finance Commissions have been appointed which a
+**Ans: A.** Uttarakhand U.D.A.\L.D.A.
 
 </details>
 
@@ -4021,9 +3999,7 @@ C. Dr. Raj Mannar
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue.
+**Ans: B.** Standard key from Ghatnachakra Fiscal Policy & Revenue.
 
 </details>
 
@@ -4037,9 +4013,9 @@ C. Dr. Vijay Kelkar
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** Shelat 1979-84 (d) Y.V.
 
-**Logic:** Fifth 1968 Mahaveer Tyagi 1969-74 Sixth 1972 K.Brahmananda Reddy 1974-79 Seventh 1977 J.M. Shelat 1979-84 (d) Y.V. Reddy M.P. P.C.S. (Pre) 2006 See the explanation of above question
+**Ans: B.** Fifth 1968 Mahaveer Tyagi 1969-74 Sixth 1972 K.Brahmananda Reddy 1974-79 Seventh 1977 J.M.
 
 </details>
 
@@ -4053,10 +4029,7 @@ C. 4 2 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** The first committee on the Disinvestment of shares in Public Sector Enterprises was formed under the chairmanship of Dr. C. Rangarajan in the year 1992. In the year 1993, a committee was formed under the chairmanship of Onkar Goswami for the review of industrial sickness. Under t
-
+**Ans: B.** The first committee on the Disinvestment of shares in Public Sector Enterprises was formed under the chairmanship of Dr.
 </details>
 
 **Q134. M.P.P.C.S. (Pre) 1994**
@@ -4071,10 +4044,9 @@ D. None of these
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue — Reforms in direct and indirect tax
 
-**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue.
-
+**Ans: A.** Reforms in direct and indirect tax
 </details>
 
 **Q135. Chhattisgarh P.C.S. (Pre) 2024**
@@ -4089,10 +4061,9 @@ D. Tax Policy
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue — Tax Policy
 
-**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue.
-
+**Ans: D.** Tax Policy
 </details>
 
 **Q136. Extra Drill (topic practice)**
@@ -4105,9 +4076,9 @@ C. 1, 2 and 5
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Borrowings from cooperative banks 5.
 
-**Logic:** (b) only 1 and 2 (d) 1, 2, 4 and 5 4. Borrowings from cooperative banks 5. Self income Hence option (a) is the correct answer
+**Ans: A.** (b) only 1 and 2 (d) 1, 2, 4 and 5 4.
 
 </details>
 
@@ -4121,9 +4092,9 @@ C. 1 and 3 only
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** While abolishing the subsidies is not a part of fiscal stimulus
 
-**Logic:** (b) 2 only (d)1, 2 and 3 In the context of economic recession, cutting the tax rates and increasing the government spending can be considered as a part of the 'fiscal stimulus' package. While abolishing the subsidies is not a part of fiscal stimulus
+**Ans: A.** (b) 2 only (d)1, 2 and 3 In the context of economic recession, cutting the tax rates and increasing the government spending can be considered as a part of the 'fiscal stimulus' package.
 
 </details>
 
@@ -4137,13 +4108,13 @@ C. 2014-15
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** The CTT is levied on trades made on commodities exchanges.
 
-**Logic:** (b) 2012-13 (d) 2017-18 More than one of the above The Commodity Transaction Tax (CTT) was first introduced the 2013-14 Union Budget. The CTT is levied on trades made on commodities exchanges. It is a tax payable to the Central Government and therefore classified as a regulatory 
+**Ans: A.** (b) 2012-13 (d) 2017-18 More than one of the above The Commodity Transaction Tax (CTT) was first introduced the 2013-14 Union Budget.
 
 </details>
 
-**Q139. U.P. R.O./A.R.O. (Pre) 2017**
+**Q139. UP RO/ARO (Pre) 2017**
 
 The fiscal deficit target for the year 2017-18 was raised to 3.5 percent of GDP. 2. The fiscal deficit target for the year 2018-19 been placed has at 3.3 percent of GDP. 3. The fiscal deficit target for the year 2020-21 projected is at 3.1 percent of the GDP. Codes: Select the correct answer from the codes given below:
 
@@ -4153,9 +4124,9 @@ C. l and 2 only
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** In the Union Budget 2018-19, the fiscal deficit target for the year 2018-19 was placed at 3.3 percent
 
-**Logic:** (b) 1 and 3 only (d) 2 and 3 only The fiscal deficit target for the year 2017-18 was raised from revised the Budget estimated 3.2 percent to 3.5 percent of GDP in the estimates. In the Union Budget 2018-19, the fiscal deficit target for the year 2018-19 was placed at 3.3 percent 
+**Ans: C.** (b) 1 and 3 only (d) 2 and 3 only The fiscal deficit target for the year 2017-18 was raised from revised the Budget estimated 3.2 percent to 3.5 percent of GDP in the estimates.
 
 </details>
 
@@ -4169,13 +4140,13 @@ C. l and IIl only
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** I1 and II1 Revenue Deficit When the government's revenue expenditure is more than its revenue receipts.
 
-**Logic:** (b) lI and III only (d) 1. I1 and II1 Revenue Deficit When the government's revenue expenditure is more than its revenue receipts. Fiscal Deficit When the government's total expenditure is more than its total non-debt receipts, this gap represents the government's borrowing requi
+**Ans: D.** (b) lI and III only (d) 1.
 
 </details>
 
-**Q141. U.P. R.O./A.R.O. (Pre) 2023**
+**Q141. UP RO/ARO (Pre) 2023**
 
 Eligibility of ITC which may be as under-taxable supply, non-taxable supply, zero-rated supply. Select the correct answer using the code given belowCode:
 
@@ -4185,13 +4156,13 @@ C. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** ITC is a mechanism to avoid cascading of taxes.
 
-**Logic:** (b) Only 2 (d) Only 1 Uninterrupted and seamless chain of input tax credit (ITC is one of the key features of Goods and Services Tax. ITC is a mechanism to avoid cascading of taxes. Any registered person can avail credit of tax paid on the inward supply of goods or services or bo
+**Ans: D.** (b) Only 2 (d) Only 1 Uninterrupted and seamless chain of input tax credit (ITC is one of the key features of Goods and Services Tax.
 
 </details>
 
-**Q142. U.P. R.O./A.R.O. (Pre) 2023**
+**Q142. UP RO/ARO (Pre) 2023**
 
 The Fiscal Deficit is estimated to be at Rs. 84,883.16 crore. Select the correct answer using the code given below : Code:
 
@@ -4201,9 +4172,9 @@ C. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** 690242.43 crore while the Fiscal Deficit in this budget was estimated at Rs.
 
-**Logic:** (b) Only 2 (d) Both 1 and 2 The size (total estimated expenditure) of the Uttar Pradesh Budget 2023-24 was Rs. 690242.43 crore while the Fiscal Deficit in this budget was estimated at Rs. 84883.16 crore. Hence, statement 1 is incorrect while statement 2 is correct. The size of th
+**Ans: B.** (b) Only 2 (d) Both 1 and 2 The size (total estimated expenditure) of the Uttar Pradesh Budget 2023-24 was Rs.
 
 </details>
 
@@ -4217,10 +4188,9 @@ C. Both 1 and 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** The Government raises funds primarily from the domestic — Both 1 and 2
 
-**Logic:** The Government raises funds primarily from the domestic
-
+**Ans: C.** Both 1 and 2
 </details>
 
 **Q144. I.A.S. (Pre) 2018**
@@ -4233,9 +4203,9 @@ C. Both 1 and 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** which was introduced by Chapter-VIII of the Finance Act.
 
-**Logic:** (d) Neither 1 nor 2 Equalization tax is a levy imposed on certain specified digitalservices provided by a non-resident to a resident in India. which was introduced by Chapter-VIII of the Finance Act. 2016. It does not form a part of Income Tax Act, 1961 and ithas its existence si
+**Ans: D.** (d) Neither 1 nor 2 Equalization tax is a levy imposed on certain specified digitalservices provided by a non-resident to a resident in India.
 
 </details>
 
@@ -4249,9 +4219,9 @@ C. Both 1 and 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Slowing economic growth rate may result in lower tax collection but it does not necessarily mean decrease in tax
 
-**Logic:** (b) 2 only (d) Neither 1 nor 2 A tax-to-GDP ratio is a gauge of a nation's tax revenue relative to the size of its economy as measured by gross domestic product (GDP). Slowing economic growth rate may result in lower tax collection but it does not necessarily mean decrease in tax
+**Ans: D.** (b) 2 only (d) Neither 1 nor 2 A tax-to-GDP ratio is a gauge of a nation's tax revenue relative to the size of its economy as measured by gross domestic product (GDP).
 
 </details>
 
@@ -4266,9 +4236,9 @@ C. Union Budget, 2008-09
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Gender budgeting is concernedwith gender sensitive formulation of programmes/schemes.allocation ofresources, implementation and execution, auditand impact assessment and follow-up corrective action to
 
-**Logic:** The gender budgeting was first introduced in India in theUnion Budget 2005-06. Gender budgeting is concernedwith gender sensitive formulation of programmes/schemes.allocation ofresources, implementation and execution, auditand impact assessment and follow-up corrective action to 
+**Ans: A.** The gender budgeting was first introduced in India in theUnion Budget 2005-06.
 
 </details>
 
@@ -4282,13 +4252,13 @@ C. 1 and 3 only
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** The capital receipts are loans raised by theGovernment from public, called market loans, borrowingby the Government from Reserve Bank and other partiesthrough the sale of Treasury Bill
 
-**Logic:** (b) 2 and 3 only (d) 1,2 and 3 Capital Budget consists of capital receipts and capita payments. The capital receipts are loans raised by theGovernment from public, called market loans, borrowingby the Government from Reserve Bank and other partiesthrough the sale of Treasury Bill
+**Ans: D.** (b) 2 and 3 only (d) 1,2 and 3 Capital Budget consists of capital receipts and capita payments.
 
 </details>
 
-**Q148. U.P. Lower Sub. (Spl.) (Pre) 2002**
+**Q148. UP Lower Sub (Spl.) (Pre) 2002**
 
 Revenue deficit The correct descending order of their values is : Code:
 
@@ -4298,10 +4268,9 @@ C. 2, 1, 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** crores) De — keyed as 2, 3, 1.
 
-**Logic:** (b) 1,2, 3 (d) 3, 2, 1 , 2003 The correct descending order of the values of given deficits is as follows: Fiscal deficit > Revenue deficit > Primary deficit The recent trends of deficits in the Union Budget is presented in the following table Deficit Statistics (in Rs. crores) De
-
+**Ans: A.** (b) 1,2, 3 (d) 3, 2, 1 , 2003 The correct descending order of the values of given deficits is as follows: Fiscal deficit > Revenue deficit > Primary deficit The recent trends of deficits in the Union Budget is present…
 </details>
 
 **Q149. I.A.S. (Pre) 2001**
@@ -4314,13 +4283,13 @@ C. Octroi
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** (b) 2 and 4 (d) 2 and 3 (b) Excise Duty (a) 1 only (d) Sales Tax (c) 1 and 3 Ans.
 
-**Logic:** Which of these is/are indirect taxes? (b) 2 and 4 (d) 2 and 3 (b) Excise Duty (a) 1 only (d) Sales Tax (c) 1 and 3 Ans. (b) See the explanation of above question. In the case of direct tax, the burden can't be shifted by the taxpayer to someone else, i.e., Direct tax is a type of
+**Ans: A.** Which of these is/are indirect taxes?
 
 </details>
 
-**Q150. U.P. R.O./A.R.O. (Pre) 2014**
+**Q150. UP RO/ARO (Pre) 2014**
 
 Security Transaction Tax M.P.P.C.S. (Pre) 1990 U.P.P.C.S. (Pre) 1993 Which of the above is/are Direct Tax/Taxes?
 
@@ -4332,13 +4301,12 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Standard key matches 1, 2 and 3.
 
-**Logic:** Ans. (d) Economic & Social Development General Studies E-183 Fringe Benefit Tax (FBT) was a form of direct tax that companies paid in lieu of benefits they offered their employees in addition to the compensation paid to them. It was included by the Finance Act 2005. The Finance A
-
+**Ans: D.** 1, 2 and 3
 </details>
 
-**Q151. U.P. R.O./A.R.O. (Mains) 2016**
+**Q151. UP RO/ARO (Mains) 2016**
 
 Forex Gain Choose the correct answer from the code given below. Code:
 
@@ -4348,9 +4316,9 @@ C. 1, 2 and 3 all
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** The revenue amount used to calculate this share is termed as Adjusted Gross Revenue (AGR).
 
-**Logic:** (b) 2 and 3 only (d) 1 and 3 only In India, telecom operators are required to pay licence fee and spectrum charges in the form of revenue share to the centre. The revenue amount used to calculate this share is termed as Adjusted Gross Revenue (AGR). As per the definition of Depar
+**Ans: C.** (b) 2 and 3 only (d) 1 and 3 only In India, telecom operators are required to pay licence fee and spectrum charges in the form of revenue share to the centre.
 
 </details>
 
@@ -4364,9 +4332,9 @@ C. 1 and 3 only
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Rangarajan 2005-10 Thirteenth 2007 Vijay L.
 
-**Logic:** Twelfth 2002 C. Rangarajan 2005-10 Thirteenth 2007 Vijay L. Kelkar 2010-1S Fourteenth 2013 Y.V. Reddy 2015-20 Fifteenth 2017 N.K. Singh 2020-26 Sixteenth 2023 Arvind Panagariya 2026-31
+**Ans: C.** Twelfth 2002 C.
 
 </details>
 
@@ -4380,9 +4348,9 @@ C. 1 and 3 only
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** While abolishing the subsidies is not a part of fiscal stimulus
 
-**Logic:** (b) 2 only (d)1, 2 and 3 In the context of economic recession, cutting the tax rates and increasing the government spending can be considered as a part of the 'fiscal stimulus' package. While abolishing the subsidies is not a part of fiscal stimulus
+**Ans: A.** (b) 2 only (d)1, 2 and 3 In the context of economic recession, cutting the tax rates and increasing the government spending can be considered as a part of the 'fiscal stimulus' package.
 
 </details>
 
@@ -4396,9 +4364,9 @@ C. 1, 2 and 4 only
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Processed and canned fish a
 
-**Logic:** (b) 2 and 3 only (d) 1, 2, 3 and 4 I.A.S, (Pre) 2018 Presently, among the given options hulled cereal grains, cooked chicken egg (in shell) and newspapers (with or without advertising material) are exempted (0% rate) under Goods and Services Tax (GST). Processed and canned fish a
+**Ans: C.** (b) 2 and 3 only (d) 1, 2, 3 and 4 I.A.S, (Pre) 2018 Presently, among the given options hulled cereal grains, cooked chicken egg (in shell) and newspapers (with or without advertising material) are exempted (0% rate)…
 
 </details>
 
@@ -4413,9 +4381,9 @@ C. 2 and 4
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** Non-Plan expenditure of the Government consisted of subsidies, interest payments.
 
-**Logic:** (d) 1, 2, 3 and 4 , 1997 Earlier (before Union Budget 2017-18) in the budget estimates, there was plan and non-plan classification of the Government's expenditure. Non-Plan expenditure of the Government consisted of subsidies, interest payments. defence services expenditure, main
+**Ans: D.** (d) 1, 2, 3 and 4 , 1997 Earlier (before Union Budget 2017-18) in the budget estimates, there was plan and non-plan classification of the Government's expenditure.
 
 </details>
 
@@ -4429,10 +4397,9 @@ C. 1, 2, 3 and 4
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** (b) 2 and 3 only (d) None See the explanation of above question — 1, 2, 3 and 4
 
-**Logic:** (b) 2 and 3 only (d) None See the explanation of above question
-
+**Ans: C.** 1, 2, 3 and 4
 </details>
 
 **Q157. I.A.S. (Pre) 2016**
@@ -4445,10 +4412,9 @@ C. 1 and 3 only
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** (b) 2 and 3 only (d) 1, 2, 3 and 4 The Government can reduce fiscal deficit by decreasingrevenue expenditure and increasing revenue receiptsUnnecessary revenue expenditure bloats the fiscal deficitand since it forms t……
 
-**Logic:** (b) 2 and 3 only (d) 1, 2, 3 and 4 The Government can reduce fiscal deficit by decreasingrevenue expenditure and increasing revenue receiptsUnnecessary revenue expenditure bloats the fiscal deficitand since it forms the majority of Government spending, itsreduction has a very lar
-
+**Ans: C.** 1 and 3 only
 </details>
 
 **Q158. I.A.S. (Pre) 2015**
@@ -4461,10 +4427,9 @@ C. 1 only
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** (b) 2 and 3 only (d) 1, 2, 3 and 4 See the explanation of above question — 1 and 3 only
 
-**Logic:** (b) 2 and 3 only (d) 1, 2, 3 and 4 See the explanation of above question
-
+**Ans: A.** 1 and 3 only
 </details>
 
 **Q159. I.A.S. (Pre) 2010**
@@ -4479,9 +4444,9 @@ D. Capital expenditure
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** Economic & Social Development Ans.
 
-**Logic:** (c) 1, 2 and 4 (d) 3 and 4 only |See the explanation of above question. Economic & Social Development Ans. (d) General Studies E-159 Control over the fiscal deficit can be achieved by the institutional reforms. Downsizing of bureaucracy will reduce the government expenditure, whi
+**Ans: B.** (c) 1, 2 and 4 (d) 3 and 4 only |See the explanation of above question.
 
 </details>
 
@@ -4497,7 +4462,7 @@ C. 3, 1, 2,4
 
 **Ans: *.**
 
-**Logic:** In revised estimates of 2025-26 and 2026-27 (B.E.), Income Tax is the top source of Central's Revenue Receipts followed by GST and Corporation Tax. (Source)
+**Logic:** In revised estimates of 2025-26 and 2026-27 (B.E.), Income Tax is the top source of Central's Revenue Receipts followed by GST and Corporation Tax.
 
 </details>
 
@@ -4511,9 +4476,7 @@ C. Saat Vachan
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue.
+**Ans: B.** Standard key from Ghatnachakra Fiscal Policy & Revenue.
 
 </details>
 
@@ -4527,10 +4490,9 @@ C. 1, 2 and 5
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** (b) only 1 and 2 (d) 1, 2, 4 and 5 — 1, 2, 3 and 5
 
-**Logic:** (b) only 1 and 2 (d) 1, 2, 4 and 5
-
+**Ans: A.** 1, 2, 3 and 5
 </details>
 
 **Q163. Jharkhand P.C.S. (Pre) 2013**
@@ -4545,10 +4507,9 @@ D. The Ministry of Finance
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** The Department of Economic affairs of Ministry of Finance is the nodal agency of the Union Government to formulate and monitor country's economic policies and programmes.A principal responsibility of this department i……
 
-**Logic:** The Department of Economic affairs of Ministry of Finance is the nodal agency of the Union Government to formulate and monitor country's economic policies and programmes.A principal responsibility of this department is the preparation and presentation of the Union Budget. The Dep
-
+**Ans: D.** The Ministry of Finance
 </details>
 
 **Q164. Extra Drill (topic practice)**
@@ -4561,10 +4522,9 @@ C. Interest Payments
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** (b) Major Subsidies (d) Grants to States — Interest Payments
 
-**Logic:** (b) Major Subsidies (d) Grants to States
-
+**Ans: C.** Interest Payments
 </details>
 
 **Q165. Extra Drill (topic practice)**
@@ -4579,10 +4539,9 @@ D. net increase in Union Government's borrowings from
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue — the sum of budgetary deficit and net increase in internal
 
-**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue.
-
+**Ans: A.** the sum of budgetary deficit and net increase in internal
 </details>
 
 **Q166. R.A.S./R.T.S. (Pre) 2013**
@@ -4595,9 +4554,7 @@ D. Total expenditure - Disinvestment receipts
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
-
-**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue.
+**Ans: A.** Standard key from Ghatnachakra Fiscal Policy & Revenue.
 
 </details>
 
@@ -4611,9 +4568,9 @@ D. Sum of monetized deficit and budgetary deficit
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** A fiscal deficit situation occurs when the government's expenditure exceeds its income.
 
-**Logic:** Fiscal Deficit is the difference between the total income (revenue) ofthe government (total taxes and non-debt capital receipts) and its total expenditure. A fiscal deficit situation occurs when the government's expenditure exceeds its income. This difference is calculated both i
+**Ans: C.** Fiscal Deficit is the difference between the total income (revenue) ofthe government (total taxes and non-debt capital receipts) and its total expenditure.
 
 </details>
 
@@ -4627,9 +4584,9 @@ C. I, III and IV
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** 4,800 crore (Rs.
 
-**Logic:** (b) I, II and IV (d) II, III and IV To improve the educational outcomes of the States, the 15th Finance Commission has recommended grants of Rs. 4,800 crore (Rs. 1,200 crore each year) from 2022-23 to 2025-26. Thus, Statement I is factually correct. The 15th Finance Commission di
+**Ans: C.** (b) I, II and IV (d) II, III and IV To improve the educational outcomes of the States, the 15th Finance Commission has recommended grants of Rs.
 
 </details>
 
@@ -4643,13 +4600,11 @@ C. 2009-10
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
-
-**Logic:** (b) 2011-12 (d) 2012-13 56th to See the explanation of above question
+**Ans: B.** (b) 2011-12 (d) 2012-13 56th to See the explanation of above question
 
 </details>
 
-**Q170. U.P. Lower Sub. (Pre) 2015**
+**Q170. UP Lower Sub (Pre) 2015**
 
 In the year 2013-14, largest source of tax revenue of the Union Government was :
 
@@ -4659,10 +4614,9 @@ C. Corporation Tax
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Standard key matches Central excise duty.
 
-**Logic:** EconoDevelopment General Studies (b) Customs duty (d) Income Tax (a) Service Tax (c) Corporation Tax E-177 As per the question year, option (c) was the correct answer In Union Budget estimates 2026-27, revenue estimated from various taxes are as follows Income Tax (Rs. 1466000 cr
-
+**Ans: A.** Central excise duty
 </details>
 
 **Q171. R.A.S./R.T.S. (Pre) 1996**
@@ -4677,10 +4631,9 @@ D. Stock of Goods
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue — Income of Company
 
-**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue.
-
+**Ans: C.** Income of Company
 </details>
 
 **Q172. Extra Drill (topic practice)**
@@ -4694,13 +4647,10 @@ C. 1995-96
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
-
-**Logic:** U.P. R.O/A.R.O. (Pre) 2016 means the profit earned Capital Gain Tax: Capital gains by an individual on the sale of his investment in assets such as stocks, real estate, commodities, bonds etc. Generally it is the 'gain' made on 'capital investment'. Capital gains are taxed if an 
-
+**Ans: D.** U.P.
 </details>
 
-**Q173. U.P. R.O./A.R.O. (Pre) 2016**
+**Q173. UP RO/ARO (Pre) 2016**
 
 The Minimum Alternate Tax (MAT) was introducedi the Budget of the Government of India for the year: Code: A B C D
 
@@ -4711,9 +4661,9 @@ D. 2 4
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Logic:** (a) Capital Gain Tax : Capital gains means the profit earned by an individual on the sale of his investment in assets such as stocks, real estate, commodities, bonds etc.
 
-**Logic:** (b) 1992-93 (d) 1996-97 Ans. (a) Capital Gain Tax : Capital gains means the profit earned by an individual on the sale of his investment in assets such as stocks, real estate, commodities, bonds etc. Generally it is the 'gain' made on 'capital investment'. Capital gains are taxed
+**Ans: D.** (b) 1992-93 (d) 1996-97 Ans.
 
 </details>
 
@@ -4728,13 +4678,13 @@ C. Manmohan Singh Committee
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Logic:** (Pre) 2015 Ans.
 
-**Logic:** (c) 1998-99 (d) 1991-92 56h to 59h B.P.S.C. (Pre) 2015 Ans. (a) See the explanation of above question
+**Ans: B.** (c) 1998-99 (d) 1991-92 56h to 59h B.P.S.C.
 
 </details>
 
-**Q175. U.P.R.O./A.R.O. (pre) 2014**
+**Q175. UP RO/ARO (pre) 2014**
 
 Income tax in India was introduced by:
 
@@ -4745,10 +4695,9 @@ C. James Wilson
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue — James Wilson
 
-**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue.
-
+**Ans: C.** James Wilson
 </details>
 
 **Q176. Extra Drill (topic practice)**
@@ -4763,10 +4712,9 @@ D. Association of Persons
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Logic:** Standard key matches Individual.
 
-**Logic:** Number U.P. R.O.JA.R.O. (Pre) 2014 Permanent Account (PAN) is a 10-character alphanumeric identifier, which is used as an identity proof It is used mainly for the tax related purposes. The first five characters of PAN are letters from the English alphabet, the next four character
-
+**Ans: A.** Individual
 </details>
 
 **Q177. R.A.S./R.T.S. (Pre) 2013**
@@ -4779,16 +4727,14 @@ D. Total expenditure - Disinvestment receipts
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
-
-**Logic:** Standard key from Ghatnachakra Fiscal Policy & Revenue.
+**Ans: A.** Standard key from Ghatnachakra Fiscal Policy & Revenue.
 
 </details>
 
 ---
 
 ## UKPCS Prelims Bank
-**Q1. UKPCS (Pre) 2016** — 14th Finance Commission States’ share
+**Q1. UKPCS (Pre) 2016**
 
 A. 32%
 B. 35%
@@ -4798,13 +4744,12 @@ D. 42%
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 14th FC = 42%.
+**Logic:** Standard key matches 42%.
 
-**Ans: D.**
-
+**Ans: D.** 42%
 </details>
 
-**Q2. UKPCS (Pre) 2021** — Tax system in India
+**Q2. UKPCS (Pre) 2021**
 
 A. Progressive
 B. Degressive
@@ -4814,13 +4759,12 @@ D. Regressive
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Degressive is the keyed label.
+**Logic:** Degressive is the keyed label — Degressive
 
-**Ans: B.**
-
+**Ans: B.** Degressive
 </details>
 
-**Q3. UKPCS (Pre) 2021** — Tobin Tax
+**Q3. UKPCS (Pre) 2021**
 
 A. Externalities
 B. Weight basis
@@ -4830,13 +4774,12 @@ D. Value basis
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Forex transactions.
+**Logic:** Forex transactions — Foreign exchange transactions
 
-**Ans: C.**
-
+**Ans: C.** Foreign exchange transactions
 </details>
 
-**Q4. UKPCS (Pre) 2021** — Tax abolished by GST
+**Q4. UKPCS (Pre) 2021**
 
 A. Property Tax
 B. Corporation Tax
@@ -4846,13 +4789,14 @@ D. Income Tax
 <details>
 <summary>Show answer</summary>
 
-**Logic:** VAT subsumed; direct taxes and property tax remain.
+**Logic:** VAT subsumed; direct taxes and property tax remain — Value Added Tax
 
-**Ans: C.**
-
+**Ans: C.** Value Added Tax
 </details>
 
-**Q5. UKPCS (Pre) 2025** — The 101st Constitutional Amendment Act is related with
+**Q5. UKPCS (Pre) 2025**
+
+The 101st Constitutional Amendment Act is related with
 
 A. Reservation for EWS
 B. Delimitation of Constituencies
@@ -4862,9 +4806,9 @@ D. Nationwide Goods and Services Tax (GST)
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 101st = GST and GST Council (279A). EWS is 103rd; anti-defection is 52nd.
+**Logic:** EWS is 103rd; anti-defection is 52nd.
 
-**Ans: D.** Nationwide Goods and Services Tax (GST).
+**Ans: D.** 101st = GST and GST Council (279A).
 
 </details>
 
@@ -4872,7 +4816,9 @@ D. Nationwide Goods and Services Tax (GST)
 
 ## Practice Zone
 
-**Q1. Practice Zone (fiscal deficit)** With reference to fiscal deficit, which of the following statements is/are correct?
+**Q1. Practice Zone (fiscal deficit)**
+
+With reference to fiscal deficit, which of the following statements is/are correct?
 
 1. It equals total expenditure minus (revenue receipts + non-debt capital receipts).
 2. It measures the government’s net borrowing requirement.
@@ -4888,13 +4834,12 @@ D. 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 2 are correct.
+**Logic:** Fiscal deficit is the net borrowing gap; Tobin tax is a proposed forex-transactions levy — unrelated to the deficit identity — 1 and 2
 
-**Logic:** Fiscal deficit is the net borrowing gap; Tobin tax is a proposed forex-transactions levy — unrelated to the deficit identity.
-
+**Ans: C.** 1 and 2
 </details>
 
-**Q2. Practice Zone (primary deficit)** Primary deficit equals
+**Q2. Practice Zone (primary deficit)**
 
 A. Revenue deficit + fiscal deficit
 B. Fiscal deficit + interest payments
@@ -4904,13 +4849,12 @@ D. Revenue receipts − capital receipts
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Fiscal deficit minus interest payments.
+**Logic:** Strips legacy interest — Fiscal deficit − interest payments
 
-**Logic:** Strips legacy interest.
-
+**Ans: C.** Fiscal deficit − interest payments
 </details>
 
-**Q3. Practice Zone (revenue deficit)** Revenue deficit equals
+**Q3. Practice Zone (revenue deficit)**
 
 A. Revenue expenditure − revenue receipts
 B. Capital expenditure − capital receipts
@@ -4920,13 +4864,14 @@ D. GST collections alone
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Revenue expenditure minus revenue receipts.
+**Logic:** Current account gap of the budget — Revenue expenditure − revenue receipts
 
-**Logic:** Current account gap of the budget.
-
+**Ans: A.** Revenue expenditure − revenue receipts
 </details>
 
-**Q4. I.A.S. (Pre) 2024** Which pair is **not** correctly matched?
+**Q4. I.A.S. (Pre) 2024**
+
+Which pair is **not** correctly matched?
 
 A. Consolidated Fund — Article 266
 B. Contingency Fund — Article 267
@@ -4936,13 +4881,14 @@ D. GST Council — Article 360
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** GST Council is Article 279A; 360 is Financial Emergency.
+**Logic:** A–C are standard — GST Council — Article 360
 
-**Logic:** A–C are standard.
-
+**Ans: D.** GST Council — Article 360
 </details>
 
-**Q5. I.A.S. (Pre) 2024** With reference to the FRBM Act, which of the following statements is/are correct?
+**Q5. I.A.S. (Pre) 2024**
+
+With reference to the FRBM Act, which of the following statements is/are correct?
 
 1. It was enacted in 2003 to institutionalise fiscal discipline.
 2. It requires fiscal-policy statements with the Budget process.
@@ -4958,13 +4904,14 @@ D. 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Logic:** FC is constitutional.
 
-**Logic:** FC is constitutional. Statement 3 is false.
-
+**Ans: A.** 1 and 2
 </details>
 
-**Q6. I.A.S. (Pre) 2024** Match List-I with List-II.
+**Q6. I.A.S. (Pre) 2024**
+
+Match List-I with List-II.
 
 | List-I | List-II |
 |---|---|
@@ -4985,13 +4932,14 @@ D. 4 1 2 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Intra-State; inter-State; destination; rollout date.
+**Logic:** Dual GST vs IGST split — 2 1 3 4
 
-**Logic:** Dual GST vs IGST split.
-
+**Ans: A.** 2 1 3 4
 </details>
 
-**Q7. I.A.S. (Pre) 2024** GST Council voting weight for the Centre is
+**Q7. I.A.S. (Pre) 2024**
+
+GST Council voting weight for the Centre is
 
 A. One-half
 B. Two-thirds
@@ -5001,13 +4949,14 @@ D. Three-fourths
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** One-third.
+**Logic:** States together hold two-thirds; decisions need three-fourths weighted majority — One-third
 
-**Logic:** States together hold two-thirds; decisions need three-fourths weighted majority.
-
+**Ans: C.** One-third
 </details>
 
-**Q8. I.A.S. (Pre) 2024** Who chairs the GST Council?
+**Q8. I.A.S. (Pre) 2024**
+
+Who chairs the GST Council?
 
 A. Prime Minister
 B. President of India
@@ -5017,13 +4966,14 @@ D. RBI Governor
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Union Finance Minister.
+**Logic:** Article 279A design — Union Finance Minister
 
-**Logic:** Article 279A design.
-
+**Ans: C.** Union Finance Minister
 </details>
 
-**Q9. I.A.S. (Pre) 2024** With reference to Finance Commission composition, which of the following statements is/are correct?
+**Q9. I.A.S. (Pre) 2024**
+
+With reference to Finance Commission composition, which of the following statements is/are correct?
 
 1. It has a Chairman and four other members.
 2. Members are appointed by the President.
@@ -5039,13 +4989,14 @@ D. 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 2 are correct.
+**Logic:** Statement 3 is the classic “six members” trap wording — 1 and 2
 
-**Logic:** Statement 3 is the classic “six members” trap wording.
-
+**Ans: C.** 1 and 2
 </details>
 
-**Q10. I.A.S. (Pre) 2024** The Finance Commission submits its report to the
+**Q10. I.A.S. (Pre) 2024**
+
+The Finance Commission submits its report to the
 
 A. NITI Aayog
 B. Prime Minister
@@ -5055,13 +5006,14 @@ D. Chief Justice of India
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** President of India.
+**Logic:** Standard key matches President of India.
 
-**Logic:** Art. 280(3) / 281 path.
-
+**Ans: C.** President of India
 </details>
 
-**Q11. I.A.S. (Pre) 2024** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+**Q11. I.A.S. (Pre) 2024**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 Assertion (A): NITI Aayog cannot replace the Finance Commission.
 
@@ -5077,13 +5029,14 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both true; constitutional status explains why NITI cannot replace FC.
+**A/R logic:** Both true; constitutional status explains why NITI cannot replace FC.
 
-**A/R logic:** Topic 1 border × Topic 2 core.
-
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)
 </details>
 
-**Q12. I.A.S. (Pre) 2024** Which of the following pairs is **not** correctly matched?
+**Q12. I.A.S. (Pre) 2024**
+
+Which of the following pairs is **not** correctly matched?
 
 A. 14th FC — 42% vertical devolution
 B. 15th FC — 41% vertical devolution (teaching tag)
@@ -5093,13 +5046,14 @@ D. 12th FC Chair — Y.V. Reddy
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** 12th FC Chair is C. Rangarajan; Y.V. Reddy chaired the 14th.
+**Logic:** A–C are standard — 12th FC Chair — Y.V
 
-**Logic:** A–C are standard.
-
+**Ans: D.** 12th FC Chair — Y.V.
 </details>
 
-**Q13. I.A.S. (Pre) 2024** With reference to capital receipts, which of the following statements is/are correct?
+**Q13. I.A.S. (Pre) 2024**
+
+With reference to capital receipts, which of the following statements is/are correct?
 
 1. Borrowings are capital receipts.
 2. Disinvestment proceeds are capital receipts in teaching.
@@ -5115,13 +5069,14 @@ D. 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 2 are correct.
+**Logic:** Borrowings and disinvestment are capital receipts; income tax is a revenue (tax) receipt — statement 3 fails — 1 and 2
 
-**Logic:** Borrowings and disinvestment are capital receipts; income tax is a **revenue (tax) receipt** — statement 3 fails.
-
+**Ans: C.** 1 and 2
 </details>
 
-**Q14.** Arrange the following constitutional finance tags in the usual teaching order of articles:
+**Q14.**
+
+Arrange the following constitutional finance tags in the usual teaching order of articles:
 
 1. Consolidated Fund of India
 2. Contingency Fund of India
@@ -5138,13 +5093,14 @@ D. 267 → 266 → 280 → 279A
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Art. 266 (CFI / Public Account) → 267 (Contingency) → 280 (FC) → 279A (GST Council).
+**Logic:** Do not put GST Council before Finance Commission just because GST is newer in politics — 266 → 267 → 280 → 279A
 
-**Logic:** Do not put GST Council before Finance Commission just because GST is newer in politics.
-
+**Ans: B.** 266 → 267 → 280 → 279A
 </details>
 
-**Q15.** With reference to GST, which of the following statements is/are correct?
+**Q15.**
+
+With reference to GST, which of the following statements is/are correct?
 
 1. GST was enabled by the 101st Constitutional Amendment.
 2. GST rolled out from 1 July 2017.
@@ -5160,13 +5116,14 @@ D. 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 2 are correct.
+**Logic:** GST subsumed cascading indirect levies (VAT, service tax, large parts of excise, etc.) — not direct taxes on income — 1 and 2
 
-**Logic:** GST subsumed cascading **indirect** levies (VAT, service tax, large parts of excise, etc.) — not direct taxes on income.
-
+**Ans: C.** 1 and 2
 </details>
 
-**Q16.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+**Q16.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 Assertion (A): The Finance Commission recommends tax devolution and grants-in-aid principles to the President.
 
@@ -5182,13 +5139,14 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both true; Art. 280 is why FC recommendations go through the President/Parliament path.
+**Logic:** 280 is why FC recommendations go through the President/Parliament path.
 
-**A/R logic:** Constitutional status explains the report route — not NITI / PM as the recommendatory destination.
-
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A).
 </details>
 
-**Q17.** Which of the following pairs is **not** correctly matched?
+**Q17.**
+
+Which of the following pairs is **not** correctly matched?
 
 A. Revenue deficit — Revenue expenditure − Revenue receipts
 B. Fiscal deficit — government’s net borrowing requirement
@@ -5198,13 +5156,14 @@ D. Effective Revenue Deficit — Fiscal deficit + Interest payments
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Effective Revenue Deficit = Revenue deficit − grants for creation of capital assets.
+**Logic:** Do not invent an “ERD = FD + interest” identity — Effective Revenue Deficit — Fiscal deficit + Interest payments
 
-**Logic:** Do not invent an “ERD = FD + interest” identity.
-
+**Ans: D.** Effective Revenue Deficit — Fiscal deficit + Interest payments
 </details>
 
-**Q18.** With reference to charged versus voted expenditure, which of the following statements is/are correct?
+**Q18.**
+
+With reference to charged versus voted expenditure, which of the following statements is/are correct?
 
 1. Charged expenditure is discussed but not voted item-wise in the same way as demands for grants.
 2. Interest payments on debt are a classic charged-expenditure teaching example.
@@ -5220,13 +5179,14 @@ D. 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Logic:** Statement 3 erases the charged category (President’s emoluments, debt interest, CAG salary teaching, etc.) — 1 and 2
 
-**Logic:** Statement 3 erases the charged category (President’s emoluments, debt interest, CAG salary teaching, etc.).
-
+**Ans: A.** 1 and 2
 </details>
 
-**Q19.** Match List-I with List-II.
+**Q19.**
+
+Match List-I with List-II.
 
 | List-I | List-II |
 |---|---|
@@ -5247,13 +5207,14 @@ D. 2 3 1 4
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Khusro → Rangarajan → Reddy → N.K. Singh.
+**Logic:** Rangarajan/Reddy swap is the classic trap; Kelkar is 13th (not in this list) — 2 3 4 1
 
-**Logic:** Rangarajan/Reddy swap is the classic trap; Kelkar is 13th (not in this list).
-
+**Ans: A.** 2 3 4 1
 </details>
 
-**Q20.** With reference to Vote on Account, which of the following statements is/are correct?
+**Q20.**
+
+With reference to Vote on Account, which of the following statements is/are correct?
 
 1. It authorises interim spending when the full budget cannot be passed before the new financial year.
 2. It is identical to a full-year Appropriation Act in teaching.
@@ -5269,13 +5230,14 @@ D. 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 3 are correct.
+**Logic:** Vote on Account is an interim bridge — not a substitute for the full-year grant story — 1 and 3
 
-**Logic:** Vote on Account is an interim bridge — not a substitute for the full-year grant story.
-
+**Ans: C.** 1 and 3
 </details>
 
-**Q21.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+**Q21.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 Assertion (A): Qualifications of Finance Commission members are determined by the President alone without any parliamentary law.
 
@@ -5291,13 +5253,14 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** A is false; R correctly states Parliament’s role (1951 Act lane).
+**A/R logic:** A is false; R correctly states Parliament’s role (1951 Act lane).
 
-**A/R logic:** President **appoints** members; qualifications are fixed by **Parliament by law** — a frequent stem trap.
-
+**Ans: B.** (A) is false, but (R) is true
 </details>
 
-**Q22.** With reference to progressive, proportional and regressive taxes, which of the following statements is/are correct?
+**Q22.**
+
+With reference to progressive, proportional and regressive taxes, which of the following statements is/are correct?
 
 1. A progressive tax raises the rate as the base rises.
 2. A proportional tax keeps a flat rate on the base.
@@ -5313,13 +5276,14 @@ D. 1 and 2 only
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** All three definitions are standard.
+**Logic:** Indian PCS keys often add degressive as the overall income-tax design tag — do not confuse that with regressive — 1, 2 and 3
 
-**Logic:** Indian PCS keys often add **degressive** as the overall income-tax design tag — do not confuse that with regressive.
-
+**Ans: A.** 1, 2 and 3
 </details>
 
-**Q23.** With reference to the Union Annual Financial Statement, which of the following statements is/are correct?
+**Q23.**
+
+With reference to the Union Annual Financial Statement, which of the following statements is/are correct?
 
 1. It is laid under Article 112.
 2. It is laid by the Finance Minister on behalf of the President.
@@ -5335,13 +5299,14 @@ D. 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Logic:** AFS is a presidential function discharged through the Finance Minister — not a Prime Minister personal mandate — 1 and 2
 
-**Logic:** AFS is a presidential function discharged through the Finance Minister — not a Prime Minister personal mandate.
-
+**Ans: A.** 1 and 2
 </details>
 
-**Q24.** Which one of the following is correctly matched?
+**Q24.**
+
+Which one of the following is correctly matched?
 
 A. Tobin tax — levy on domestic agricultural land
 B. Direct Tax Code teaching map — Income Tax reform
@@ -5351,13 +5316,14 @@ D. Public Account — Article 267
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** DTC maps to Income Tax reform in Indian teaching.
+**Logic:** 266** (trustee / banker moneys), Contingency is **267**.
 
-**Logic:** Tobin = forex transactions; Gender Budget = **2005–06**; Public Account sits with Art. **266** (trustee / banker moneys), Contingency is **267**.
-
+**Ans: B.** Direct Tax Code teaching map — Income Tax reform.
 </details>
 
-**Q25.** With reference to GST Council voting weights, which of the following statements is/are correct?
+**Q25.**
+
+With reference to GST Council voting weights, which of the following statements is/are correct?
 
 1. The Centre’s weight is one-third.
 2. The States together hold two-thirds.
@@ -5373,13 +5339,14 @@ D. 1 and 3 only
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** All three statements match Art. 279A teaching.
+**Logic:** Quorum is half; do not confuse weight shares with the three-fourths decision threshold — 1, 2 and 3
 
-**Logic:** Quorum is half; do not confuse weight shares with the three-fourths decision threshold.
-
+**Ans: B.** 1, 2 and 3
 </details>
 
-**Q26.** With reference to subsidies in public finance, which of the following statements is/are correct?
+**Q26.**
+
+With reference to subsidies in public finance, which of the following statements is/are correct?
 
 1. Subsidies are typically keyed as revenue expenditure in budget teaching.
 2. Rationalisation of subsidies is a recurring fiscal-reform theme.
@@ -5395,10 +5362,9 @@ D. 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Logic:** Statement 3 fails — subsidies usually maintain consumption / services and sit on the revenue side unless a specific capital grant is tagged otherwise — 1 and 2
 
-**Logic:** Statement 3 fails — subsidies usually maintain consumption / services and sit on the **revenue** side unless a specific capital grant is tagged otherwise.
-
+**Ans: B.** 1 and 2
 </details>
 
 ## Common Traps

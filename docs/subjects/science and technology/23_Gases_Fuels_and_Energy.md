@@ -192,7 +192,6 @@ Fuel Taxonomy (Solid, Liquid, Gaseous) | Calorific Value Hierarchy (Hydrogen Hig
 
 ---
 
-
 ### Table 1B: Master Matrix of Industrial & Atmospheric Inorganic Gases
 | Gas / Compound | Chemical Formula & Structure | Major Properties | Primary Industrial & Everyday Applications |
 | :--- | :--- | :--- | :--- |
@@ -213,7 +212,6 @@ Fuel Taxonomy (Solid, Liquid, Gaseous) | Calorific Value Hierarchy (Hydrogen Hig
 > **Heavy Water Manufacturing Plants in India:**
 > - First heavy water plant established at **Nangal (Punjab) in 1962** (later decommissioned).
 > - Major Heavy Water Board (HWB) facilities established at: **Baroda & Hazira (Gujarat)**, **Tuticorin (Tamil Nadu)**, **Kota (Rajasthan)**, **Manuguru (Telangana)**, **Thal (Maharashtra)**, and **Talcher (Odisha)**.
-
 
 ### Table 2: Coal Quality Spectrum & Geological Ranks
 
@@ -336,6 +334,29 @@ With increasing metamorphic rank, carbon percentage increases ($<60\% \to >90\%$
 
 ---
 
+## Bilingual Terminology -- Gases, Fuels and Energy Chemistry
+
+| English Term | Hindi Term | Key Anchor |
+|---|---|---|
+| **Combustion** (दहन) | दहन | Chemical reaction of fuel with O2 producing heat and light |
+| **Fuel** (ईंधन) | ईंधन | Substance that releases energy by combustion |
+| **Calorific Value** (ऊष्मीय मान) | ऊष्मीय मान | Energy released per kg of fuel on complete combustion; kJ/kg |
+| **LPG** (द्रवित पेट्रोलियम गैस) | द्रवीभूत पेट्रोलियम गैस | Liquefied Petroleum Gas; propane + butane; ethyl mercaptan (smell) |
+| **CNG** (संपीडित प्राकृतिक गैस) | संपीडित प्राकृतिक गैस | Compressed Natural Gas; mainly methane; cleaner fuel |
+| **Coal** (कोयला) | कोयला | Fossil fuel; types by carbon content: Peat < Lignite < Bituminous < Anthracite |
+| **Petroleum** (पेट्रोलियम) | पेट्रोलियम | Crude oil; mixture of hydrocarbons; refined by fractional distillation |
+| **Producer Gas** (प्रोड्यूसर गैस) | प्रोड्यूसर गैस | CO + N2; made by passing air over hot coke; fuel gas |
+| **Water Gas** (जल गैस) | जल गैस | CO + H2; made by passing steam over hot coke; synthesis gas |
+| **Biogas** (बायोगैस) | बायोगैस | CH4 (55-75%) + CO2; from anaerobic decomposition; clean fuel |
+| **Octane Number** (ऑक्टेन संख्या) | ऑक्टेन संख्या | Measures anti-knock quality of petrol; higher = better; isooctane = 100 |
+| **Photosynthesis** (प्रकाश संश्लेषण) | प्रकाश-संश्लेषण | CO2 + H2O + light energy -> glucose + O2; solar energy storage |
+| **Ozone** (ओजोन) | ओजोन | O3; protects Earth from UV; ozone layer at 15-35 km altitude |
+| **Greenhouse Gas** (ग्रीनहाउस गैस) | हरित गृह गैस | CO2, CH4, N2O, CFCs; traps heat; causes global warming |
+| **Renewable Energy** (नवीकरणीय ऊर्जा) | नवीकरणीय ऊर्जा | Solar, wind, hydro, geothermal, tidal; replenishable |
+| **Non-renewable Energy** (अनवीकरणीय ऊर्जा) | अनवीकरणीय ऊर्जा | Fossil fuels, nuclear; finite reserves |
+
+---
+
 ## Complete PYQ Bank — State PCS (69 Questions)
 
 ### UPPCS & UP RO/ARO Prelims/Mains (34 Questions)
@@ -350,18 +371,12 @@ spirit'?
 (c) Ethylene glycol (d) Glycerol
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** Methyl alcohol (CH3 OH) is also called wood spirit.
 
-**High-Yield Explanation:**
-Methyl alcohol (CH3
-
-OH) is also called wood spirit. It is
-
-obtained by the destructive distillation of wood.
+**Ans: A.** Methyl alcohol
 </details>
-
 
 #### Q7 • [Alcohol Q7] [U.P. R.O./A.R.O. (Mains) 2016]
 Alcohol that is derived from fermentation of germinated barley grains is known as:
@@ -371,24 +386,12 @@ Alcohol that is derived from fermentation of germinated barley grains is known a
 (c) Vodka (d) Rum
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** Beer is usually derived from the fermentation of malt derived from the digestion of germinated barley grains.
 
-**High-Yield Explanation:**
-Beer is usually derived from the fermentation of malt derived
-
-from the digestion of germinated barley grains. Barley,
-
-water, hops and yeast are the four magic ingredients that are
-
-required for making beer. Other grains like maize, rice, rye
-
-and wheat are also used in making beer. Whisky is also made
-
-from fermented barley grains.
+**Ans: A.** Beer (b) Wine
 </details>
-
 
 #### Q9 • [Fuel Chemistry Q1] [U.P.P.C.S. (Pre) 1990]
 Which of the following is a natural fuel?
@@ -398,20 +401,12 @@ Which of the following is a natural fuel?
 (c) Coke (d) Petroleum
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** The petroleum products are subject to natural fuel.
 
-**High-Yield Explanation:**
-The petroleum products are subject to natural fuel. They are
-
-made from the fossils buried within the Earth. Other options
-
-coke and tar can be achieved by destructive distillation of coal
-
-or wood, while coal gas can be created artificially.
+**Ans: D.** Petroleum
 </details>
-
 
 #### Q10 • [Fuel Chemistry Q2] [U.P.P.S.C. (R.I.) 2014]
 Which of the following fossil fuels is the cleanest fuel ?
@@ -421,18 +416,12 @@ Which of the following fossil fuels is the cleanest fuel ?
 (c) Natural gas (d) Diesel
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** The use of natural gas in power generation provides a cleaner alternative to coal and other fossil fuels, reducing carbon and other emissions and resulting in both immediate and longterm benefits for public health and t…
 
-**High-Yield Explanation:**
-The use of natural gas in power generation provides a cleaner
-
-alternative to coal and other fossil fuels, reducing carbon and
-
-other emissions and resulting in both immediate and longterm benefits for public health and the environment.
+**Ans: C.** Natural gas (d) Diesel
 </details>
-
 
 #### Q11 • [Fuel Chemistry Q3] [U.P.P.C.S. (Mains) 2016]
 Which of the following is a fossil fuel?
@@ -442,24 +431,12 @@ Which of the following is a fossil fuel?
 (c) Water gas (d) Natural gas
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** Fossil fuels, including coal, oil and natural gas are currently the world’s primary energy sources.
 
-**High-Yield Explanation:**
-Fossil fuels, including coal, oil and natural gas are currently
-
-the world’s primary energy sources. The fossil fuels formed
-
-from the organic material over the course of million of years
-
-have fuelled the global economy over the past century. Yet the
-
-fossil fuels are finite resources and they can also irreparably
-
-harm the environment.
+**Ans: D.** Natural gas
 </details>
-
 
 #### Q21 • [Fuel Chemistry Q13] [U.P. Lower Sub. (Pre) 2009]
 Octane number is a measure of the quality of –
@@ -469,22 +446,12 @@ Octane number is a measure of the quality of –
 (c) Kerosene oil (d) Perfumed oil
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** The octane number of a fuel (petrol) is the measure of its antiknock quality when it is used in a spark ignition, internal combustion engine as compared to the antiknock quality of ISO-octane.
 
-**High-Yield Explanation:**
-The octane number of a fuel (petrol) is the measure of its
-
-antiknock quality when it is used in a spark ignition, internal
-
-combustion engine as compared to the antiknock quality of
-
-ISO-octane. The higher octane number of a fuel means the
-
-better anti-knocking capacity for that fuel.
+**Ans: B.** Petrol
 </details>
-
 
 #### Q24 • [Fuel Chemistry Q16] [U.P.P.C.S. (Pre) 1998]
 To avoid ‘knocking’ of the engine of a car, which one
@@ -496,36 +463,12 @@ of the following is used as an anti-knocking agent?
 (c) Tetraethyl Lead (d) White Petrol
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Tetraethyl Lead (CH3 CH2 ) 4 Pb is the chief anti-knock agent for automotive gasoline or petrol.
 
-**High-Yield Explanation:**
-Tetraethyl Lead (CH3
-
-CH2
-
-)
-
-4
-
-Pb is the chief anti-knock agent
-
-for automotive gasoline or petrol. In the hot cylinder of a
-
-gasoline engine, the bonds between the lead atom and the
-
-ethyl groups are broken. Upon combustion, the lead atom
-
-forms lead oxide (PbO) which prevents fractions of the
-
-fuel mixture from burning too quickly and causing a highly
-
-undesirable engine knock. Thus, it is mixed with petrol to
-
-increase its anti-knocking rate.
+**Ans: C.** Tetraethyl Lead
 </details>
-
 
 #### Q25 • [Fuel Chemistry Q17] [U.P.P.C.S. (Pre) 1996]
 Tetraethyl Lead (TEL) is added to petrol :
@@ -539,14 +482,12 @@ Tetraethyl Lead (TEL) is added to petrol :
 (d) To increase its boiling point
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Same teaching key as the linked stem above; answer is To increase its anti-knocking rating.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: C.** To increase its anti-knocking rating
 </details>
-
 
 #### Q26 • [Fuel Chemistry Q18] [U.P. Lower Sub. (Pre) 2015]
 Cetane number is used as a quality parameter mainly
@@ -558,24 +499,12 @@ for which of the following?
 (c) Diesel (d) Turpentine Oil
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** As the octane number is used to measure the ignition stability of gasoline (petrol), the cetane number is used as a quality parameter of diesel.
 
-**High-Yield Explanation:**
-As the octane number is used to measure the ignition stability
-
-of gasoline (petrol), the cetane number is used as a quality
-
-parameter of diesel. The combustion of diesel without spark
-
-is provided by compression. Thus as soon as the diesel fuel
-
-is ignited and compressed the cetane number will be higher.
-
-This identifies the good quality of diesel.
+**Ans: C.** Diesel (d) Turpentine Oil
 </details>
-
 
 #### Q27 • [Fuel Chemistry Q19] [U.P.P.C.S. (Pre) 1994]
 The fuel used in a diesel engine :
@@ -589,28 +518,12 @@ The fuel used in a diesel engine :
 (d) Mixture of diesel, air and petrol
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** A diesel engine is an internal combustion engine in which ignition in fuel is generated by using heat produced by compressing air in closed place.
 
-**High-Yield Explanation:**
-A diesel engine is an internal combustion engine in which
-
-ignition in fuel is generated by using heat produced by
-
-compressing air in closed place. There is no carbureter in
-
-diesel engines for combustion as in petrol engines. In a diesel
-
-engine, the air inside a cylinder is compressed to such a level
-
-so that the temperature of air reaches around 80o
-
-F and this
-
-temperature works as combustion in diesel engines.
+**Ans: A.** Vapour of diesel and air
 </details>
-
 
 #### Q29 • [Fuel Chemistry Q21] [U.P. P.C.S. (Pre) 2016]
 Which one of the following gases, released from biogas
@@ -622,20 +535,12 @@ plant is used as a fuel gas?
 (c) Methane (d) Ethane
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Methane is the principal gas in biogas.
 
-**High-Yield Explanation:**
-Methane is the principal gas in biogas. It is also the main
-
-component of natural gas, a fossil fuel, and can be used to
-
-replace natural gas in many applications including cooking,
-
-heating, steam production, etc.
+**Ans: C.** Methane (d) Ethane
 </details>
-
 
 #### Q30 • [Fuel Chemistry Q22] [U.P. U.D.A./L.D.A. (Pre) 2010]
 Biogas mainly consists of –
@@ -649,28 +554,12 @@ Biogas mainly consists of –
 (d) Hydrogen and Oxygen
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Biogas typically refers to a mixture of different gases produced by the breakdown of organic matter in the absence of oxygen (anaerobic decomposition).
 
-**High-Yield Explanation:**
-Biogas typically refers to a mixture of different gases
-
-produced by the breakdown of organic matter in the absence
-
-of oxygen (anaerobic decomposition). Biogas is primarily
-
-methane and carbon dioxide and may have small amounts
-
-of hydrogen sulfide (H2
-
-S), water vapour (moisture), nitrogen
-
-and siloxanes. Biogas or gobar gas generally contains about
-
-50%-70% Methane and about 30%-50% carbon dioxide.
+**Ans: C.** Carbon dioxide and Methane
 </details>
-
 
 #### Q31 • [Fuel Chemistry Q23] [U.P. P.C.S. (Pre) 2025]
 Which of the following two are the major constituent
@@ -690,14 +579,12 @@ Code :
 (c) 2 and 3 (d) 1 and 2
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** Same teaching key as the linked stem above; answer is 1 and 3.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: A.** 1 and 3 (b) 3 and 4
 </details>
-
 
 #### Q34 • [Fuel Chemistry Q26] [U.P.P.S.C. (GIC) 2010 / M.P.P.C.S. (Pre) 1999]
 The main component of Gobar Gas is –
@@ -707,14 +594,12 @@ The main component of Gobar Gas is –
 (c) Propane (d) Chlorine
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** Same teaching key as the linked stem above; answer is Methane.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: A.** Methane (b) Ethane
 </details>
-
 
 #### Q35 • [Fuel Chemistry Q27] [U.P. U.D.A./L.D.A. (Pre) 2013]
 Which of the following is the procedure for a biogas
@@ -726,18 +611,12 @@ plant–
 (c) Hydrogenation (d) Polymerization
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** The gobar gas formed from cattle dung and other wastes, has a lot of energy which can be stored for a biogas plant by the process of fermentation.
 
-**High-Yield Explanation:**
-The gobar gas formed from cattle dung and other wastes, has
-
-a lot of energy which can be stored for a biogas plant by the
-
-process of fermentation.
+**Ans: A.** Fermentation
 </details>
-
 
 #### Q36 • [Fuel Chemistry Q28] [U.P.P.C.S. (Pre) 2015]
 Who among the following invented 'Gobar Gas'
@@ -749,20 +628,12 @@ system?
 (c) C.B. Desai (d) H. Khorana
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(*)**
+**Logic:** The first pilot gas plant for producing methane from cattle dung and other cellulosic organic materials was first designed by S.V.
 
-**High-Yield Explanation:**
-The first pilot gas plant for producing methane from cattle
-
-dung and other cellulosic organic materials was first designed
-
-by S.V. Desai and set up at the Indian Agricultural Research
-
-Institute (IARI), New Delhi, during 1941-42.
+**Ans:** The first pilot gas plant for producing methane from cattle dung and other cellulosic organic materials was first designed by S.V.
 </details>
-
 
 #### Q37 • [Fuel Chemistry Q29] [U.P.P.C.S. (Pre) 2006]
 The gas which emits from rice field is -
@@ -772,28 +643,12 @@ The gas which emits from rice field is -
 (c) Nitrogen (d) All of the above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Rice paddies are a significant source of methane (CH4 ) a potent greenhouse gas.
 
-**High-Yield Explanation:**
-Rice paddies are a significant source of methane (CH4
-
-)
-
-a potent greenhouse gas. Flooded soil conditions restrict
-
-oxygen, allowing anaerobic bacteria to produce large
-
-quantities of methane, which is then transported to the
-
-atmosphere through the rice plant's tissues (aerenchyma).
-
-They also emit small amounts of nitrous oxide (N2
-
-O).
+**Ans: B.** Methane
 </details>
-
 
 #### Q38 • [Fuel Chemistry Q30] [U.P.P.C.S. (Mains) 2013]
 The main component of Liquid Petroleum Gas (LPG)
@@ -809,40 +664,12 @@ are :
 (d) Methane, Carbon Monoxide and Hydrogen
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** LPG is the abbreviation or short form for Liquefied Petroleum Gas.
 
-**High-Yield Explanation:**
-LPG is the abbreviation or short form for Liquefied Petroleum
-
-Gas. Like all fossil fuels, it is a non-renewable source of
-
-energy. It is extracted from crude oil and natural gas. The
-
-main composition of LPG are hydrocarbons containing
-
-three or four carbon atoms. The normal components of LPG
-
-thus are propane (C3
-
-H8
-
-) and butane (C4
-
-H10). LPG mixtures
-
-contain a little more propane in winter and a little more butane
-
-during summer but, on average, the makeup is approximately
-
-65% butane and 35% propane. Small concentrations of
-
-other hydrocarbons like ethane may also be present. Ethyl
-
-mercaptan is normally used as a stenching agent for smell.
+**Ans: C.** Ethane, Propane and Butane
 </details>
-
 
 #### Q39 • [Fuel Chemistry Q31] [U.P. P.C.S. (Pre) 2021]
 Which one of the following is the main constituent of
@@ -854,14 +681,12 @@ LPG?
 (c) Butane (d) Methane
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Same teaching key as the linked stem above; answer is Butane.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: C.** Butane (d) Methane
 </details>
-
 
 #### Q41 • [Fuel Chemistry Q33] [U.P.R.O./A.R.O. (Mains) 2013]
 LPG used as domestic fuel mainly contains –
@@ -871,14 +696,12 @@ LPG used as domestic fuel mainly contains –
 (c) Ethylene (d) Butane
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** Standard key matches Methane, Carbon Monoxide and Hydrogen.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: D.** Methane, Carbon Monoxide and Hydrogen
 </details>
-
 
 #### Q43 • [Fuel Chemistry Q35] [U.P.P.C.S. (Pre) 2011 / Uttarakhand P.C.S. (Pre) 2010 / R.A.S./R.T.S. (Pre) 1992]
 Indane gas is a mixture of –
@@ -888,24 +711,12 @@ Indane gas is a mixture of –
 (c) Butane and Propane (d) Methane and Oxygen
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** LPG is the flammable mixture of hydrocarbon gases used as fuel.
 
-**High-Yield Explanation:**
-LPG is the flammable mixture of hydrocarbon gases used
-
-as fuel. Indane gas (LPG) is mainly the mixture of propane
-
-(C3
-
-H8
-
-) and butane (C4
-
-H10).
+**Ans: C.** Butane and Propane
 </details>
-
 
 #### Q44 • [Fuel Chemistry Q36] [U.P.P.C.S. (Pre) 2017]
 The stench due to leakage from LPG cylinder is
@@ -917,22 +728,12 @@ because of :
 (c) Butane (d) Ethyl mercaptan
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** Liquefied Petroleum Gas (LPG) is a flammable mixture of hydrocarbon gases which is used as fuel.
 
-**High-Yield Explanation:**
-Liquefied Petroleum Gas (LPG) is a flammable mixture of
-
-hydrocarbon gases which is used as fuel. LPG is a mixture
-
-of butane and propane. LPG is an odourless gas product.
-
-However, to identify the leakage ethyl mercaptan is used
-
-in LPG.
+**Ans: D.** Ethyl mercaptan
 </details>
-
 
 #### Q48 • [Fuel Chemistry Q40] [Uttarakhand Lower Sub. (Pre) 2010]
 In what form cooking gas is supplied in cylinders ?
@@ -942,14 +743,12 @@ In what form cooking gas is supplied in cylinders ?
 (c) Solid (d) Solution
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** Same teaching key as the linked stem above; answer is Liquid.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: A.** Liquid (b) Gas
 </details>
-
 
 #### Q49 • [Fuel Chemistry Q41] [U.P. P.C.S. (Pre) 2022]
 Which among the following compounds is the main
@@ -961,32 +760,12 @@ constituent of natural gas?
 (c) Butane (d) Benzene
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Natural gas is an odorless, gaseous mixture of hydrocarbons – predominantly made up of methane (CH4 ) in addition to various smaller amounts of other higher alkanes.
 
-**High-Yield Explanation:**
-Natural gas is an odorless, gaseous mixture of hydrocarbons
-
-– predominantly made up of methane (CH4
-
-) in addition
-
-to various smaller amounts of other higher alkanes. Low
-
-levels of trace gases like carbon dioxide, nitrogen, hydrogen
-
-sulphide, and helium are also usually present. Two forms
-
-of natural gas are currently used in vehicles and for cooking :
-
-compressed natural gas (CNG) and liquefied natural gas
-
-(LNG). Natural gas, extracted from below Earth's surface,
-
-is processed and converted to CNG and LNG.
+**Ans: B.** Methane
 </details>
-
 
 #### Q51 • [Fuel Chemistry Q43] [U.P.P.C.S. (Pre) 2015]
 CNG is –
@@ -1000,20 +779,12 @@ CNG is –
 (d) Controlled Natural Gas
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** Compressed Natural Gas
 
-**High-Yield Explanation:**
-C.N.G. is the short form of Compressed Natural Gas. It is
-
-a readily available alternative to gasoline which is made by
-
-compressing natural gas to less than 1% of its volume at
-
-standard atmospheric pressure.
+**Ans: A.** Liquid (b) Gas
 </details>
-
 
 #### Q52 • [Fuel Chemistry Q44] [U.P.P.C.S. (Pre) 2005]
 CNG used in automobiles to check pollution mainly
@@ -1025,22 +796,12 @@ consists of –
 (c) N2 (d) H2
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** CNG is made by compressed natural gas which is mainly composed of methane (CH4 ).
 
-**High-Yield Explanation:**
-CNG is made by compressed natural gas which is mainly
-
-composed of methane (CH4
-
-). It is a mixture of hydrocarbons
-
-which is found deep inside Earth and have approx. 80% to
-
-90% of methane.
+**Ans: A.** CH4 (b) CO2
 </details>
-
 
 #### Q54 • [Fuel Chemistry Q46] [R.A.S./ R.T.S. (Pre) 2021 / U.P.P.C.S. (Pre) 2022]
 Compressed Natural Gas (CNG) is mainly composed
@@ -1052,14 +813,12 @@ of :
 (c) Methane (d) Ethane
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Same teaching key as the linked stem above; answer is Methane.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: C.** Methane (d) Ethane
 </details>
-
 
 #### Q58 • [Fuel Chemistry Q50] [U.P. P.C.S. (Mains) 2016]
 Gasohol is a mixture of :
@@ -1069,14 +828,12 @@ Gasohol is a mixture of :
 (c) Gasoline and Propanol (d) Methanol and Ethanol
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Same teaching key as the linked stem above; answer is Gasoline and Ethanol.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: B.** Gasoline and Ethanol
 </details>
-
 
 #### Q59 • [Fuel Chemistry Q51] [U.P.P.C.S. (Mains) 2009]
 Consider the following statements :
@@ -1102,28 +859,12 @@ Of these statements :
 (d) 1, 3 and 4 are correct
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** Fossil fuels are hydrocarbons primarily coal, fuel oil or natural gas formed from the remains of dead plants and animals.
 
-**High-Yield Explanation:**
-Fossil fuels are hydrocarbons primarily coal, fuel oil or
-
-natural gas formed from the remains of dead plants and
-
-animals. Sometimes, they are known as mineral fuels. Fossil
-
-fuels are fuels formed by a natural process such as anaerobic
-
-decomposition of buried dead organisms. Ethanol fuel
-
-mixtures have "E" number which describes the percentage
-
-of ethanol fuel in the mixture by volume.
-
-E 85 is 85% denatured ethanol fuel and 15% gasoline. Lowethanol blends from E5 to E 25 are also known as gasohol.
+**Ans: D.** 1, 3 and 4 are correct
 </details>
-
 
 #### Q61 • [Fuel Chemistry Q53] [U.P.P.C.S. (Pre) 1992]
 Diesel used in heavy vehicles for –
@@ -1137,26 +878,12 @@ Diesel used in heavy vehicles for –
 (d) Being cheaper than low petrol
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** An internal combustion engine transforms the chemical energy in fuel to mechanical rotational energy.
 
-**High-Yield Explanation:**
-An internal combustion engine transforms the chemical
-
-energy in fuel to mechanical rotational energy. Diesel engine,
-
-which are in existence for over a century, are the most
-
-versatile and economical engine used in a heavy vehicle.
-
-Today's direct-injection diesel engines are more rugged,
-
-powerful, durable and reliable than gasoline engines and use
-
-fuel much more efficiently as well.
+**Ans: C.** High power and economic saving
 </details>
-
 
 #### Q62 • [Fuel Chemistry Q54] [U.P. P.C.S. (Pre) 2022]
 In which of the following types of heat engines carburetor
@@ -1172,36 +899,12 @@ is used?
 (d) Petrol engine
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** A carburetor is a device used by an internal combustion engine to control and mix air and fuel entering the engine.
 
-**High-Yield Explanation:**
-A carburetor is a device used by an internal combustion
-
-engine to control and mix air and fuel entering the engine.
-
-While the earlier versions of carburetors used to do this
-
-merely by allowing air to pass over the fuel surface, the
-
-advanced version of carburetors dispense a metered amount
-
-of fuel into the stream of air to achieve this purpose. Since
-
-the 1990s, carburetors have been largely replaced by fuel
-
-injection for cars and trucks, however carburetors are still
-
-used by some small engines (e.g. lawnmowers, generators
-
-and concrete mixers) and motorcycles. Carburetors are only
-
-used in petrol engines. Diesel engines have always used fuel
-
-injection instead of carburetors.
+**Ans: D.** Petrol engine
 </details>
-
 
 #### Q67 • [Fuel Chemistry Q59] [U.P.P.C.S. (Pre) 2008]
 Hydrogen gas can be conveniently used as a fuel
@@ -1219,18 +922,12 @@ substance found in India?
 (c) Soapstone (d) Resins
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** Hydrogen gas is absorbed by palladium hydride at very low temperature.
 
-**High-Yield Explanation:**
-Hydrogen gas is absorbed by palladium hydride at very low
-
-temperature. It is used to power a range of new alternate
-
-fuel vehicles.
+**Ans: A.** Hydride (b) Coals
 </details>
-
 
 #### Q68 • [Fuel Chemistry Q60] [U.P. U.D.A./L.D.A. (Pre) 2013]
 Which of the following is the by-product derived from
@@ -1242,28 +939,12 @@ the refining process of petroleum?
 (c) Coal (d) Asphalt
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** Asphalt is also known as bitumen, is a sticky, black and highly viscous liquid or semi-solid form of petroleum.
 
-**High-Yield Explanation:**
-Asphalt is also known as bitumen, is a sticky, black and
-
-highly viscous liquid or semi-solid form of petroleum. It
-
-may be found in natural deposits or may be refined product.
-
-The primary use of asphalt is in road construction, where it
-
-is used as the glue or binder mixed with aggregate particles
-
-to create asphalt concrete. Its other uses are for bituminous
-
-waterproofing product, including the production of roofing
-
-felt and for sealing flat roofs.
+**Ans: D.** Asphalt
 </details>
-
 
 #### Q69 • [Fuel Chemistry Q61] [U.P.P.C.S. (Pre) 2000]
 ‘Hydrocarbon Vision 2025’ is associated with :
@@ -1277,20 +958,12 @@ felt and for sealing flat roofs.
 (d) None of the above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** 'Hydrocarbon Vision 2025' was associated with storage of petroleum products and focus on long-term energy security.
 
-**High-Yield Explanation:**
-'Hydrocarbon Vision 2025' was associated with storage of
-
-petroleum products and focus on long-term energy security.
-
-It was aimed to assure energy security by achieving selfreliance through increased indigenous production and
-
-investment in equity oil abroad.
+**Ans: A.** Storage of petroleum products
 </details>
-
 
 ### UKPCS Prelims (2 Questions)
 
@@ -1302,14 +975,12 @@ The main component of biogas is :
 (c) Butane (d) Acetylene
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Standard key matches Euro I and Euro II vehicles.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: B.** Euro I and Euro II vehicles
 </details>
-
 
 #### Q57 • [Fuel Chemistry Q49] [Uttarakhand P.C.S. (Pre) 2005]
 Gasohol is :
@@ -1323,20 +994,12 @@ Gasohol is :
 (d) Ethyl alcohol + Kerosene oil
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** Gasohol, a gasoline extender made from a mixture of gasoline (petrol) and ethanol (often obtained by fermenting agricultural crops).
 
-**High-Yield Explanation:**
-Gasohol, a gasoline extender made from a mixture of
-
-gasoline (petrol) and ethanol (often obtained by fermenting
-
-agricultural crops). Gasohol has higher octane or antiknock properties by which it burns more slowly, coolly and
-
-completely.
+**Ans: A.** Ethyl alcohol + Petrol
 </details>
-
 
 ### BPSC, IAS, RAS & Other State PCS (33 Questions)
 
@@ -1354,16 +1017,12 @@ of the following :
 (d) Naphthalene
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Ethyl alcohol becomes poisonous by the addition of methanol and pyridine.
 
-**High-Yield Explanation:**
-Ethyl alcohol becomes poisonous by the addition of methanol
-
-and pyridine.
+**Ans: B.** Methanol and Pyridine
 </details>
-
 
 #### Q2 • [Alcohol Q2] [I.A.S. (Pre) 1996]
 The offending substance in the liquor tragedies leading
@@ -1375,22 +1034,12 @@ to blindness etc. is –
 (c) Benzyl alcohol (d) Methyl alcohol
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** Methyl alcohol is a colourless liquid.
 
-**High-Yield Explanation:**
-Methyl alcohol is a colourless liquid. It is soluble in water.
-
-Its smell is like a pungent, unpleasant and intensive flavour.
-
-In each ratio, it is poisonous while in excess, the intake of
-
-methyl alcohol results in madness, blindness and its excess
-
-consumption can also cause death.
+**Ans: D.** Methyl alcohol
 </details>
-
 
 #### Q4 • [Alcohol Q4] [47th B.P.S.C. (Pre) 2005]
 Fermentation of sugar leads to –
@@ -1400,16 +1049,12 @@ Fermentation of sugar leads to –
 (c) Acetic acid (d) Chlorophyll
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** Ethyl alcohol is formed by the fermentation of sugar, which is made of glucose and fructose.
 
-**High-Yield Explanation:**
-Ethyl alcohol is formed by the fermentation of sugar, which
-
-is made of glucose and fructose.
+**Ans: A.** Ethyl alcohol
 </details>
-
 
 #### Q5 • [Alcohol Q5] [66th B.P.S.C. (Pre) 2020]
 Glucose is converted to ethyl alcohol by the enzyme
@@ -1421,30 +1066,12 @@ Glucose is converted to ethyl alcohol by the enzyme
 (e) None of the above / More than one of the above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Glucose is converted to ethyl alcohol (ethanol) by the enzyme zymase.
 
-**High-Yield Explanation:**
-Glucose is converted to ethyl alcohol (ethanol) by the enzyme
-
-zymase. Zymase catalyzes the fermentation of sugar (glucose
-
-and fructose) into ethanol and carbon dioxide. This enzyme
-
-complex naturally occurs in yeast and other anaerobic
-
-organisms. This enzyme is used in the preparation of ethanol
-
-and alcoholic beverages commercially. Invertase enzyme
-
-converts sucrose (cane sugar) into glucose and fructose.
-
-Maltase enzyme converts maltose into glucose while diastase
-
-enzyme converts starch into maltose.
+**Ans: C.** zymase (d) diastase
 </details>
-
 
 #### Q6 • [Alcohol Q6] [Chhattisgarh P.C.S. (Pre) 2005]
 To whom molasses are excellent raw material for
@@ -1456,36 +1083,12 @@ production?
 (c) Alcohol (d) Paraffin
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Liquor or alcoholic beverages are prepared by fermentation of different substances like molasses, etc.
 
-**High-Yield Explanation:**
-Liquor or alcoholic beverages are prepared by fermentation
-
-of different substances like molasses, etc. The percentage
-
-of alcohol also varies in them. Beer, Champagne, Cider, Port
-
-and Sherry, Brandy, Whisky, Rum, Gin etc. are some types
-
-of liquors.
-
-S. No. Name Alcohol % ≈ Raw Material
-
-1. Rum 45 to 55% Molasses
-
-2. Brandy 40 to 50% Grapes
-
-3. Whisky 40 to 50% Barley, Corn
-
-4. Beer 3 to 6% Barley
-
-5. Champagne 10 to 15% Grapes
-
-6. Cider 2 to 6% Apple
+**Ans: C.** Alcohol (d) Paraffin
 </details>
-
 
 #### Q8 • [Alcohol Q8] [66th B.P.S.C. (Pre) 2020]
 The breath test conducted by police to check drunken
@@ -1505,26 +1108,12 @@ paper?
 (e) None of the above / More than one of the above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** The breath test conducted by police to check drunken driver through old breathalyzer has potassium dichromate-sulfuric acid on the filter paper.
 
-**High-Yield Explanation:**
-The breath test conducted by police to check drunken driver
-
-through old breathalyzer has potassium dichromate-sulfuric
-
-acid on the filter paper. When alcohol vapour makes contact
-
-with the orange dichromate coated crystals, the colour
-
-changes from orange to green due to oxidation of alcohol
-
-into acetic acid. The degree of the colour changes is directly
-
-related to alcohol level in the breath.
+**Ans: A.** Potassium dichromate-sulfuric acid
 </details>
-
 
 #### Q12 • [Fuel Chemistry Q4] [I.A.S. (Pre) 1997]
 Which one of the following has the highest fuel value ?
@@ -1534,26 +1123,12 @@ Which one of the following has the highest fuel value ?
 (c) Natural gas (d) Gasoline
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** The heating value or calorific value of a fuel is the amount of heat that is released after a specific amount of fuel is burnt completely in air or oxygen.
 
-**High-Yield Explanation:**
-The heating value or calorific value of a fuel is the
-
-amount of heat that is released after a specific amount of
-
-fuel is burnt completely in air or oxygen. It is generally
-
-expressed in kilojoule per kg (kJ/kg) or megajoule per kg
-
-(MJ/kg). Hydrogen has the highest heating value (about
-
-150,000 kJ/kg) among all fuels. Hydrogen is used as
-
-a rocket fuel and in burner producing high temperature.
+**Ans: A.** Hydrogen (b) Charcoal
 </details>
-
 
 #### Q13 • [Fuel Chemistry Q5] [I.A.S. (Pre) 2023]
 With reference to coal-based thermal power plants in
@@ -1573,38 +1148,12 @@ How many of the above statements are correct?
 (c) All three (d) None
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** Many coastal power plants in India use seawater for cooling purposes.
 
-**High-Yield Explanation:**
-Many coastal power plants in India use seawater for cooling
-
-purposes. For instance, the Mundra Thermal Power Station in
-
-Gujarat, India, which is one of the largest coal-based power
-
-plants in the country, uses seawater for cooling. As per the
-
-Centre for Science and Environment (CSE) Study of 2021,
-
-about 48% of existing coal-based power plants in India are
-
-located in water-scarce districts. There are both privately
-
-and publicly owned coal-fired thermal power stations in
-
-India. Many private corporations have invested in the
-
-power industry and run coal-fired thermal power facilities,
-
-such as Adani Power Limited which is the largest private
-
-thermal power producer in India. Hence, all three statements
-
-are incorrect.
+**Ans: D.** None
 </details>
-
 
 #### Q14 • [Fuel Chemistry Q6] [I.A.S. (Pre) 2020]
 Consider the following statements :
@@ -1624,58 +1173,12 @@ Which of the statement given above is/are correct?
 (c) 3 only (d) 1, 2 and 3
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** Coal ash is the waste that is left after coal is combusted (burnt).
 
-**High-Yield Explanation:**
-Coal ash is the waste that is left after coal is combusted
-
-(burnt). It includes fly ash (fine powdery particles that are
-
-carried up the smoke stack and captured by pollution control
-
-devices) as well as coarser materials that fall to the bottom
-
-of the furnace. Most coal ash comes from coal-fired electric
-
-power plants. Depending on where coal was mined, coal
-
-ash typically contains heavy metals including arsenic, lead,
-
-mercury, cadmium, chromium and selenium, as well as
-
-other metals and elements. If eaten, drunk or inhaled, these
-
-toxicants can cause cancer and other serious health hazards.
-
-Hence, statement 1 is correct.
-
-Depending on the source (type) of coal the emissions from
-
-the burned coal of coal-fired power plants contain pollutants
-
-such as Sulfur dioxide (SO2
-
-), Sulfur trioxide (SO3
-
-), oxides
-
-of nitrogen (NOX), particulate matter (PM), mercury (Hg),
-
-trace metals, etc. Thus, statement 2 is correct.
-
-Ash content of coal produced in India is generally 25 to
-
-45% whereas ash content of imported coal varies from 10 to
-
-20%. Indian coal has comparatively higher ash content than
-
-imported coal due to drift theory of formation of coal deposits
-
-in India. Therefore, statement 3 is also correct.
+**Ans: D.** 1, 2 and 3
 </details>
-
 
 #### Q15 • [Fuel Chemistry Q7] [I.A.S. (Pre) 2025]
 Consider the following substances :
@@ -1695,44 +1198,12 @@ production of how many of them?
 (c) All the three (d) None
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** In coal gasification, carbon-based fuels such as coal are converted into synthesis gas (syngas) in the presence of oxygen and/or steam at high temperature.This syngas is then purified and converted into ethanol using ca…
 
-**High-Yield Explanation:**
-In coal gasification, carbon-based fuels such as coal are
-
-converted into synthesis gas (syngas) in the presence of
-
-oxygen and/or steam at high temperature.This syngas is
-
-then purified and converted into ethanol using catalytic or
-
-microbial fermentation processes.Thus, coal gasification
-
-technology can provide feedstock for the industrial production
-
-of ethanol.
-
-The production of ammonia from syngas or hydrogen
-
-obtained through coal gasification, and then the manufacture
-
-of urea from ammonia and carbon dioxide, is an established
-
-industrial chain; therefore, the coal gasification technology
-
-is used in urea production and widely practiced.
-
-Production of nitroglycerin is not associated with coal
-
-gasification technology because it is produced by the nitration
-
-of glycerin. Hence, of the three, coal gasification technology
-
-can be used in the production of two substances.
+**Ans: B.** Only two
 </details>
-
 
 #### Q16 • [Fuel Chemistry Q8] [I.A.S. (Pre) 2021]
 Why is there a concern about copper smelting plants?
@@ -1754,38 +1225,12 @@ Select the correct answer using the code given below.
 (c) 1 and 3 only (d) 1, 2 and 3
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Copper smelting plants separate elemental copper from copper concentrates/ores through multiple sulphide oxidizing stages.
 
-**High-Yield Explanation:**
-Copper smelting plants separate elemental copper from
-
-copper concentrates/ores through multiple sulphide oxidizing
-
-stages. The major air pollutants emitted from the process
-
-are Sulfur dioxide and particulate matter (PM) and the main
-
-portion of the solid waste is discarded slag which typically
-
-contains heavy metals including arsenic, lead, cadmium,
-
-nickel etc. Thus, copper slag can cause leaching of some
-
-heavy metals into environment. Hence, statements 2 and 3
-
-are correct.
-
-Statement 1 is incorrect as copper smelting plants may
-
-release carbon monoxide and other air pollutant gases but
-
-they do not release lethal quantities of carbon monoxide into
-
-environment.
+**Ans: B.** 2 and 3 only
 </details>
-
 
 #### Q17 • [Fuel Chemistry Q9] [Jharkhand P.C.S. (Pre) 2021]
 Which of the following causes maximum indoor chemical pollution?
@@ -1795,18 +1240,12 @@ Which of the following causes maximum indoor chemical pollution?
 (c) Burning cooking gas (d) Room spray
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Among the given options, burning of coal causes maximum indoor chemical pollution.
 
-**High-Yield Explanation:**
-Among the given options, burning of coal causes maximum
-
-indoor chemical pollution. Burning of coal produces many
-
-harmful chemical pollutants.
+**Ans: B.** Burning coal
 </details>
-
 
 #### Q18 • [Fuel Chemistry Q10] [I.A.S. (Pre) 1998]
 Consider the following statements :
@@ -1832,22 +1271,12 @@ Of these statements :
 (c) 1 and 3 are correct (d) 3 and 4 are correct
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Coke is added to blast furnace for the production of iron/ steel.
 
-**High-Yield Explanation:**
-Coke is added to blast furnace for the production of iron/
-
-steel. It functions as fuel to supply heat. Besides supplying
-
-the heat, it also acts as a reducing agent by removing oxygen
-
-from iron ore (iron oxide) in the form of carbon monoxide
-
-and carbon dioxide.
+**Ans: C.** 1 and 3 are correct
 </details>
-
 
 #### Q19 • [Fuel Chemistry Q11] [I.A.S. (Pre) 2021]
 With reference to furnace oil, consider the following
@@ -1867,34 +1296,12 @@ Which of the statements given above are correct?
 (c) 1 and 3 only (d) 1, 2 and 3
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** Furnace oil (or fuel oil) is fuel consisting mainly of residues from crude oil distillation.
 
-**High-Yield Explanation:**
-Furnace oil (or fuel oil) is fuel consisting mainly of residues
-
-from crude oil distillation. Hence, statement 1 is correct.
-
-Furnace oil is used as a fuel in different type of combustion
-
-equipments for power generation. It is used primarily for
-
-steam boilers in power plants, aboard ships, and in industrial
-
-plants. Hence, statement 2 is correct.
-
-The oxides of Sulfur (SOx; SO2
-
-+ SO3
-
-) emissions and secondary sulphate formation as particulate matter (PM) are a
-
-direct result of the Sulfur content of the furnace oil. Hence,
-
-statement 3 is also correct.
+**Ans: D.** 1, 2 and 3
 </details>
-
 
 #### Q20 • [Fuel Chemistry Q12] [Chhattisgarh P.C.S. (Pre) 2023]
 Consider the following statements and choose the right
@@ -1918,26 +1325,12 @@ fuel to withstand compression without detonating.
 (d) Both the statements (1) and (2) are correct
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Fuel obtained from plastic waste has high octane rating.
 
-**High-Yield Explanation:**
-Fuel obtained from plastic waste has high octane rating.
-
-It contains no lead and is known as 'green fuel'. An octane
-
-rating, or octane number, is a standard measure of a fuel's
-
-ability to withstand compression in an internal combustion
-
-engine without undergoing pre-ignition. The higher the
-
-octane number, the more compression the fuel can withstand
-
-before detonating. Hence, both statements are incorrect.
+**Ans: C.** Both the statements (1) and (2) are incorrect
 </details>
-
 
 #### Q22 • [Fuel Chemistry Q14] [66th B.P.S.C. (Pre) (Re. Exam) 2020]
 The quality of petrol is expressed by :
@@ -1949,14 +1342,12 @@ The quality of petrol is expressed by :
 (e) None of the above/More than one of the above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Same teaching key as the linked stem above; answer is Octane number.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: B.** Octane number
 </details>
-
 
 #### Q23 • [Fuel Chemistry Q15] [71st B.P.S.C. (Pre) 2025]
 Which compound is used for increase of octane
@@ -1968,26 +1359,12 @@ rating?
 (c) Tetraethyl lead (d) Triethyl toluene
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Octane rating is a measure of petrol’s ability to burn in a controlled manner during compression without causing engine knocking.
 
-**High-Yield Explanation:**
-Octane rating is a measure of petrol’s ability to burn in a
-
-controlled manner during compression without causing
-
-engine knocking. Adding tetraethyl lead used to increase the
-
-octane rating of petrol, reduce knocking, and allow the engine
-
-to run more smoothly at higher compression. However, at
-
-present tetraethyl lead is not added to normal motor petrol;
-
-instead, other unleaded octane-boosters are used.
+**Ans: C.** Tetraethyl lead
 </details>
-
 
 #### Q28 • [Fuel Chemistry Q20] [44th B.P.S.C. (Pre) 2000]
 Cooking gas is mainly –
@@ -1997,16 +1374,12 @@ Cooking gas is mainly –
 (c) Methane (d) Nitrogen and Oxygen
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Methane is the chief component of biogas or gobar gas which is used for domestic purposes.
 
-**High-Yield Explanation:**
-Methane is the chief component of biogas or gobar gas which
-
-is used for domestic purposes.
+**Ans: C.** Methane (d) Nitrogen and Oxygen
 </details>
-
 
 #### Q32 • [Fuel Chemistry Q24] [67th B.P.S.C. (Pre) (Re. Exam) 2022]
 Which among the following is the main constitutent of
@@ -2020,14 +1393,12 @@ biogas?
 (e) None of the above/More than one of the above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** Same teaching key as the linked stem above; answer is Methane.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: A.** Methane (b) Propane
 </details>
-
 
 #### Q40 • [Fuel Chemistry Q32] [Chhattisgarh P.C.S. (Pre) 2005]
 What is the main component of LPG –
@@ -2037,14 +1408,12 @@ What is the main component of LPG –
 (c) Propane (d) Butane
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** Same teaching key as the linked stem above; answer is Butane.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: D.** Butane
 </details>
-
 
 #### Q42 • [Fuel Chemistry Q34] [60th to 62nd B.P.S.C. (Pre) 2016 / 67th B.P.S.C. (Pre) 2022]
 LPG used as domestic fuel chiefly contains :
@@ -2056,14 +1425,12 @@ LPG used as domestic fuel chiefly contains :
 (e) None of the above/More than one of the above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(E)**
+**Logic:** Same teaching key as the linked stem above; answer is None of the above/More than one of the above.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: E.** None of the above/More than one of the above
 </details>
-
 
 #### Q45 • [Fuel Chemistry Q37] [R.A.S./R.T.S. (Pre) 2013]
 Match items in the List-I with List- II and select the
@@ -2097,22 +1464,12 @@ A B C D
 (d) iii ii i iv
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** The correctly matched lists are as follows – CNG – Methane, Ethane LPG – Butane, Propane Coal gas – Hydrogen, Methane, Carbon monoxide Water gas – Carbon monoxide, Hydrogen
 
-**High-Yield Explanation:**
-The correctly matched lists are as follows –
-
-CNG – Methane, Ethane
-
-LPG – Butane, Propane
-
-Coal gas – Hydrogen, Methane, Carbon monoxide
-
-Water gas – Carbon monoxide, Hydrogen
+**Ans: C.** Coal gas iii.
 </details>
-
 
 #### Q46 • [Fuel Chemistry Q38] [I.A.S. (Pre) 2005]
 Assertion (A) : The main component of the liquefied
@@ -2138,28 +1495,12 @@ explanation of (A).
 (d) (A) is false but (R) is true.
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** The Assertion (A) of given question is wrong while the reason (R) is correct.
 
-**High-Yield Explanation:**
-The Assertion (A) of given question is wrong while the reason
-
-(R) is correct. The main components of L.P.G. are propane
-
-and butane. Methane, present in biogas can be used directly
-
-as a fuel. LPG is the abbreviation of Liquefied Petroleum
-
-Gas. Like all fossil fuels, it is a non-renewable source of
-
-energy. It is extracted from crude oil and natural gas. The
-
-main composition of LPG are hydrocarbons containing three
-
-or four carbon atoms.
+**Ans: D.** (A) is false but (R) is true
 </details>
-
 
 #### Q47 • [Fuel Chemistry Q39] [42nd B.P.S.C. (Pre) 1997]
 The Pressure gauge is not given in the domestic LPG
@@ -2177,22 +1518,12 @@ cylinders
 (d) They are choked by LPGs
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(B)**
+**Logic:** Oxygen and other gases found in the gas cylinders are in a gaseous state while in domestic LPG cylinders, gas is found in the liquid state so pressure gauge cannot represent the quantity of gas in LPG cylinders.
 
-**High-Yield Explanation:**
-Oxygen and other gases found in the gas cylinders are in a
-
-gaseous state while in domestic LPG cylinders, gas is found
-
-in the liquid state so pressure gauge cannot represent the
-
-quantity of gas in LPG cylinders. That is why the pressure
-
-gauge is not given in the domestic LPG cylinders.
+**Ans: B.** They cannot represent the quantity of gas in LPG
 </details>
-
 
 #### Q50 • [Fuel Chemistry Q42] [Chhattisgarh P.C.S. (Pre) 2016]
 Which is main component of natural gas?
@@ -2204,14 +1535,12 @@ Which is main component of natural gas?
 (e) None of these
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** Same teaching key as the linked stem above; answer is Methane.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: A.** Methane (b) Ethane
 </details>
-
 
 #### Q53 • [Fuel Chemistry Q45] [66th B.P.S.C. (Pre) (Re. Exam) 2020]
 The major component of CNG is :
@@ -2223,14 +1552,12 @@ The major component of CNG is :
 (e) None of the above/More than one of the above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** Standard key matches They are choked by LPGs.
 
-**High-Yield Explanation:**
-See the explanation of above question.
+**Ans: D.** They are choked by LPGs
 </details>
-
 
 #### Q55 • [Fuel Chemistry Q47] [I.A.S. (Pre) 2005]
 Consider the following statements :
@@ -2258,38 +1585,12 @@ Which of the statements given above is/are correct ?
 (c) 2 and 3 (d) 1, 2 and 3
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** Statement 1 is correct while statement 2 and 3 are false.
 
-**High-Yield Explanation:**
-Statement 1 is correct while statement 2 and 3 are false.
-
-Liquefied Natural Gas (LNG) is a natural gas (predominantly
-
-methane, CH4
-
-) that has been converted to liquid form to
-
-ease of storage or transport. The natural gas is condensed
-
-into a liquid at close to atmospheric pressure by cooling it
-
-to approx. (–) 162o
-
-C.
-
-The first LNG terminal in India was established at Dahej,
-
-Gujarat.
-
-The main components of liquefied natural gas are generally
-
-around : methane – 80%, ethane – 7%, propane – 6%, normal
-
-butane – 4% and isobutane – 3%.
+**Ans: A.** 1 only (b) 1 and 3
 </details>
-
 
 #### Q56 • [Fuel Chemistry Q48] [66th B.P.S.C. (Pre) (Re. Exam) 2020 / 65th B.P.S.C. (Pre) 2019]
 Oxygen is absent in :
@@ -2301,20 +1602,12 @@ Oxygen is absent in :
 (e) None of the above/More than one of the above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(A)**
+**Logic:** Kerosene is a combustible hydrocarbon liquid which is derived from petroleum.
 
-**High-Yield Explanation:**
-Kerosene is a combustible hydrocarbon liquid which is
-
-derived from petroleum. It is a mixture of hydrocarbons
-
-and does not contain oxygen. Oxygen is present in glass,
-
-soil and cement.
+**Ans: A.** Kerosene (b) Glass
 </details>
-
 
 #### Q60 • [Fuel Chemistry Q52] [I.A.S. (Pre) 1997]
 Which one of the following is used as an anti-freeze for
@@ -2326,28 +1619,12 @@ the automobile engines ?
 (c) Methanol (d) Ethylene glycol
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** An antifreeze is an additive, which lowers the freezing point of a water-based liquid.
 
-**High-Yield Explanation:**
-An antifreeze is an additive, which lowers the freezing
-
-point of a water-based liquid. An antifreeze mixture is used
-
-to achieve freezing point depression for cold environments
-
-and also achieves boiling point elevation to allow higher
-
-coolant temperature. Ethylene glycol [(CH2
-
-OH)2
-
-] is used for
-
-antifreeze formulations for the automobile engines.
+**Ans: D.** Ethylene glycol
 </details>
-
 
 #### Q63 • [Fuel Chemistry Q55] [Chhattisgarh P.C.S. (Pre) 2023]
 Which of the following metals are used as catalyst in
@@ -2359,26 +1636,12 @@ the Catalytic converters to eliminate poisonous gases?
 (c) Rhodium (d) None of the above
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** A catalytic converter is an exhaust emission control device that catalyses a redox reaction to transform hazardous gases and pollutants in internal combustion engine exhaust gas into less dangerous pollutants.
 
-**High-Yield Explanation:**
-A catalytic converter is an exhaust emission control device
-
-that catalyses a redox reaction to transform hazardous gases
-
-and pollutants in internal combustion engine exhaust gas
-
-into less dangerous pollutants. Catalytic converters clean up
-
-emissions from gasoline (petrol) and diesel vehicles using
-
-metal catalysts which usually contain platinum, palladium
-
-and rhodium.
+**Ans: C.** Rhodium (d) None of the above
 </details>
-
 
 #### Q64 • [Fuel Chemistry Q56] [I.A.S. (Pre) 2000]
 Consider the following features of newer models of
@@ -2402,34 +1665,12 @@ cars more fuel efficient ?
 (c) 2, 3 and 4 (d) 1, 3 and 4
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(D)**
+**Logic:** There will be less friction due to radial tyres by which the speed of motor car will increase up.
 
-**High-Yield Explanation:**
-There will be less friction due to radial tyres by which the
-
-speed of motor car will increase up. They offer reduced
-
-fuel consumption due to less rolling resistance. The fuel
-
-injection is a method or system for admitting fuel into the
-
-internal combustion. By this, the use of fuel will reduce.
-
-The catalytic converter with exhaust system will save the
-
-car engine from heating, which increases its efficiency.
-
-The streamlined body of newer models of cars also helps in
-
-reducing fuel consumption by reduction of air resistance or
-
-drag. But, according to the given options, option (d) is the
-
-appropriate answer.
+**Ans: D.** 1, 3 and 4
 </details>
-
 
 #### Q65 • [Fuel Chemistry Q57] [I.A.S. (Pre) 2024]
 Consider the following materials:
@@ -2451,34 +1692,12 @@ producing Sustainable Aviation Fuel?
 (c) 1, 2, 3 and 4 (d) 1, 3 and 4 only
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
+<summary>Show answer</summary>
 
-**Correct Answer:** **(C)**
+**Logic:** Sustainable Aviation Fuel (SAF) is a low-carbon biofuel used to power aircraft that has similar properties to conventional jet fuel but with a smaller carbon footprint.
 
-**High-Yield Explanation:**
-Sustainable Aviation Fuel (SAF) is a low-carbon biofuel used
-
-to power aircraft that has similar properties to conventional
-
-jet fuel but with a smaller carbon footprint. Depending on
-
-the feedstock and technologies used to produce it, SAF can
-
-reduce life cycle GHG emissions dramatically compared
-
-to conventional jet fuel. Biomass like corn grain, oil seeds,
-
-algae, agricultural residues, forestry residues, wood mill waste,
-
-municipal solid waste streams, wet wastes (manures,
-
-wastewater treatment sludge), dedicated energy crops etc.
-
-can be used as feedstocks to produce low-carbon biofuels
-
-or SAF. Hence, option (c) is the correct answer.
+**Ans: C.** 1, 2, 3 and 4
 </details>
-
 
 #### Q66 • [Fuel Chemistry Q58] [I.A.S. (Pre) 2024]
 Which one of the following is the exhaust pipe
@@ -2492,517 +1711,12 @@ hydrogen?
 (c) Oxygen (d) Water vapour
 
 <details>
-<summary><b>View Answer & High-Yield Analysis</b></summary>
-
-**Correct Answer:** **(D)**
-
-**High-Yield Explanation:**
-Fuel Cell Electric Vehicles (FCEVs) are powered by
-
-hydrogen. FCEVs use a propulsion system similar to that
-
-of electric vehicles, where energy stored as hydrogen is
-
-converted to electricity by the fuel cell. They are more
-
-efficient than conventional internal combustion engine
-
-vehicles. Unlike conventional internal combustion engine
-
-vehicles, these vehicles produce no harmful exhaust pipe
-
-emissions. FCEVs emit only water vapour and warm air,
-
-making them locally emission-free and contributing to
-
-cleaner air in cities.
-</details>
-
-
-## Practice Zone — High-Yield Mock Drills (26 Questions)
-
-**Q1.** What is the primary constituent gas of Liquefied Petroleum Gas (LPG)?  
-(a) Methane  
-(b) Butane  
-(c) Ethylene  
-(d) Acetylene  
-
-<details>
 <summary>Show answer</summary>
 
-**Correct Answer:** (b)
+**Logic:** Fuel Cell Electric Vehicles (FCEVs) are powered by hydrogen.
 
-- **Detailed Explanation:**
-  - LPG is a compressed mixture of butane ($\approx 60\%$) and propane ($\approx 40\%$).
+**Ans: D.** Water vapour
 </details>
-
----
-
-**Q2.** Which compound is added to commercial LPG to provide a pungent odor for leak detection?  
-(a) Methyl alcohol  
-(b) Ethyl mercaptan ($C_2H_5SH$)  
-(c) Acetone  
-(d) Hydrogen sulphide  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Ethyl mercaptan (ethanethiol) is an organosulfur compound added to odorless LPG as a leak warning agent.
-</details>
-
----
-
-**Q3.** What is the primary constituent of Compressed Natural Gas (CNG)?  
-(a) Methane ($CH_4$)  
-(b) Butane ($C_4H_{10}$)  
-(c) Propane ($C_3H_8$)  
-(d) Hydrogen ($H_2$)  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (a)
-
-- **Detailed Explanation:**
-  - CNG is compressed natural gas composed of $>85\%$ methane.
-</details>
-
----
-
-**Q4.** Which fuel possesses the highest calorific value per unit mass?  
-(a) Methane  
-(b) Petrol  
-(c) Hydrogen  
-(d) LPG  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (c)
-
-- **Detailed Explanation:**
-  - Hydrogen has a calorific value of $150,000\text{ kJ/kg}$, roughly three times that of petrol ($45,000\text{ kJ/kg}$) or methane ($55,000\text{ kJ/kg}$).
-</details>
-
----
-
-**Q5.** What is the composition of "Water Gas"?  
-(a) $CO + N_2$  
-(b) $CO + H_2$  
-(c) $CO_2 + H_2$  
-(d) $CH_4 + H_2$  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Water gas (syngas) is an equimolar mixture of carbon monoxide and hydrogen ($CO + H_2$) formed by steam passing over red-hot coke.
-</details>
-
----
-
-**Q6.** Producer gas consists primarily of:  
-(a) $CO + H_2$  
-(b) $CO + N_2$  
-(c) $CO_2 + N_2$  
-(d) $CH_4 + N_2$  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Producer gas is produced by passing air over red-hot coke, yielding carbon monoxide ($\approx 30\%$) and nitrogen ($\approx 60\%$).
-</details>
-
----
-
-**Q7.** Which of the following is the highest quality rank of coal with over $90\%$ carbon?  
-(a) Lignite  
-(b) Peat  
-(c) Bituminous  
-(d) Anthracite  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (d)
-
-- **Detailed Explanation:**
-  - Anthracite contains $>90–95\%$ carbon, burns with minimal smoke, and has the highest calorific value of all coal types.
-</details>
-
----
-
-**Q8.** In which Indian state is the major lignite deposit at Neyveli located?  
-(a) Jharkhand  
-(b) Tamil Nadu  
-(c) Odisha  
-(d) Madhya Pradesh  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Neyveli is located in Cuddalore district of Tamil Nadu.
-</details>
-
----
-
-**Q9.** Octane number is used to rate the anti-knock quality of:  
-(a) Diesel  
-(b) Petrol (Gasoline)  
-(c) Kerosene  
-(d) Coal gas  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Octane number measures anti-knock performance of petrol in spark-ignition engines.
-</details>
-
----
-
-**Q10.** Cetane number evaluates the ignition quality of which automotive fuel?  
-(a) Aviation turbine fuel  
-(b) Diesel  
-(c) Compressed natural gas  
-(d) Liquefied petroleum gas  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Cetane number measures the auto-ignition delay of diesel fuel in compression-ignition engines.
-</details>
-
----
-
-**Q11.** What gas is generated by the anaerobic decomposition of cow dung in Gobar gas plants?  
-(a) Butane  
-(b) Methane  
-(c) Acetylene  
-(d) Carbon monoxide  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Methanogenic archaebacteria convert biomass into biogas containing $55–70\%$ methane.
-</details>
-
----
-
-**Q12.** What is the temperature of the coldest, innermost zone of a candle flame?  
-(a) Hottest zone of the flame  
-(b) Lowest temperature zone of the flame  
-(c) Over $2000^\circ\text{C}$  
-(d) Same as the blue zone  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - The innermost dark zone contains unburnt wax vapors and lacks oxygen, making it the coolest region of the candle flame.
-</details>
-
----
-
-**Q13.** Why is carbon monoxide classified as a toxic asphyxiant?  
-(a) It destroys lung alveoli mechanically  
-(b) It binds to hemoglobin $\approx 200\times$ more strongly than oxygen, forming carboxyhemoglobin  
-(c) It turns blood into nitric acid  
-(d) It causes rapid blood clotting  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Carbon monoxide has a high affinity for hemoglobin, forming carboxyhemoglobin and preventing normal oxygen delivery to body tissues.
-</details>
-
----
-
-**Q14.** In a fire extinguisher, carbon dioxide extinguishes electrical fires primarily by:  
-(a) Conducting electrical current safely to ground  
-(b) Displacing oxygen and blanketing the fuel with a dense, non-combustible gas  
-(c) Reacting with burning copper to form carbonate  
-(d) Generating water droplets  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - $CO_2$ is heavier than air; it blankets the fire, cutting off atmospheric oxygen supply, while expansion cools the fuel.
-</details>
-
----
-
-**Q15.** According to Charles's Law, if the absolute temperature of a gas is doubled at constant pressure, its volume will:  
-(a) Halve  
-(b) Double  
-(c) Quadruple  
-(d) Remain unchanged  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - $V \propto T$ at constant pressure. Doubling absolute temperature doubles the volume.
-</details>
-
----
-
-**Q16.** What volume does 1 mole of carbon dioxide occupy at Standard Temperature and Pressure (STP)?  
-(a) $11.2\text{ L}$  
-(b) $22.4\text{ L}$  
-(c) $44.8\text{ L}$  
-(d) $1.0\text{ L}$  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - One mole of any ideal gas occupies $22.414\text{ Liters}$ at STP.
-</details>
-
----
-
-**Q17.** According to Graham's Law, which of the following gases will effuse faster than oxygen ($O_2$, $M=32$)?  
-(a) Carbon dioxide ($CO_2$, $M=44$)  
-(b) Sulphur dioxide ($SO_2$, $M=64$)  
-(c) Methane ($CH_4$, $M=16$)  
-(d) Chlorine ($Cl_2$, $M=71$)  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (c)
-
-- **Detailed Explanation:**
-  - Effusion rate is inversely proportional to $\sqrt{M}$. Methane ($M=16$) has a lower molar mass than oxygen ($M=32$) and effuses faster.
-</details>
-
----
-
-**Q18.** What chemical process converts vegetable seed oil into commercial biodiesel?  
-(a) Saponification  
-(b) Transesterification  
-(c) Hydrogenation  
-(d) Halogenation  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Transesterification reacts triglycerides with methanol in the presence of a base catalyst to yield fatty acid methyl esters (biodiesel) and glycerol.
-</details>
-
----
-
-**Q19.** At what cryogenic temperature is Natural Gas liquefied into LNG for maritime transport?  
-(a) $0^\circ\text{C}$  
-(b) $-78.5^\circ\text{C}$  
-(c) $-162^\circ\text{C}$  
-(d) $-273.15^\circ\text{C}$  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (c)
-
-- **Detailed Explanation:**
-  - Natural gas liquefies at $-162^\circ\text{C}$ at atmospheric pressure, reducing its volume roughly 600-fold.
-</details>
-
----
-
-**Q20.** What is the primary chemical component of "Marsh Gas"?  
-(a) Methane  
-(b) Ethane  
-(c) Propane  
-(d) Butane  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (a)
-
-- **Detailed Explanation:**
-  - Methane is known as marsh gas due to its production in waterlogged marshes by anaerobic archaebacteria.
-</details>
-
----
-
-**Q21.** Under what thermodynamic conditions do real gases behave most like an ideal gas?  
-(a) High pressure and low temperature  
-(b) Low pressure and high temperature  
-(c) High pressure and high temperature  
-(d) Low pressure and low temperature  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Low pressure maximizes intermolecular distances, while high temperature minimizes the effect of intermolecular attractions, causing real gases to follow $PV=nRT$.
-</details>
-
----
-
-**Q22.** Which gas leaked during the 1984 Bhopal Gas Tragedy?  
-(a) Phosgene  
-(b) Methyl Isocyanate (MIC)  
-(c) Chlorine  
-(d) Ammonia  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Methyl Isocyanate ($CH_3NCO$) leaked from the Union Carbide plant.
-</details>
-
----
-
-**Q23.** What is the byproduct of pure hydrogen combustion in air?  
-(a) Carbon dioxide  
-(b) Pure water vapor ($H_2O$)  
-(c) Carbon monoxide  
-(d) Sulphur dioxide  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - $2H_2 + O_2 \to 2H_2O$, yielding water vapor with no carbon emissions.
-</details>
-
----
-
-**Q24.** Why was Tetraethyl Lead (TEL) phased out of commercial gasoline?  
-(a) It lowered fuel efficiency  
-(b) Lead emissions cause neurotoxicity and poison catalytic converters  
-(c) It caused petrol tanks to rust  
-(d) It increased carbon dioxide emissions  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Atmospheric lead from TEL causes neurological damage and coats catalytic converter metals, inactivating their pollution-control functions.
-</details>
-
----
-
-**Q25.** What is the universal gas constant ($R$) in SI units?  
-(a) $0.0821\text{ J}\cdot\text{mol}^{-1}\cdot\text{K}^{-1}$  
-(b) $8.314\text{ J}\cdot\text{mol}^{-1}\cdot\text{K}^{-1}$  
-(c) $1.987\text{ cal}\cdot\text{mol}^{-1}\cdot\text{K}^{-1}$  
-(d) $6.022\times 10^{23}\text{ J}\cdot\text{mol}^{-1}\cdot\text{K}^{-1}$  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - In SI units, $R = 8.314\text{ J}\cdot\text{mol}^{-1}\cdot\text{K}^{-1}$. In atmosphere units, $R = 0.0821\text{ L}\cdot\text{atm}\cdot\text{mol}^{-1}\cdot\text{K}^{-1}$.
-</details>
-
----
-
-**Q26.** What is the primary purpose of blending ethanol into motor gasoline under the E20 mandate?  
-(a) To lower engine temperature  
-(b) To act as an oxygenate boosting octane and reducing $CO$ emissions  
-(c) To make petrol cheaper to freeze  
-(d) To turn petrol into a lubricant  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Ethanol contains $34.7\%$ oxygen by mass, promoting complete combustion of hydrocarbons, reducing $CO$ emissions, and elevating the fuel's anti-knock octane rating.
-</details>
-
----
-
-## Common Traps & High-Yield Pitfalls
-
-| Trap Area | What Students Confuse | Correct Fact |
-|---|---|---|
-| **LPG vs. CNG Main Molecule** | Mixing up whether LPG or CNG contains Methane. | **CNG is Methane ($CH_4$)**. **LPG is Butane + Propane**. |
-| **LPG Smell Source** | Believing LPG naturally smells bad. | Pure LPG is **completely odorless**; the foul smell is added **Ethyl Mercaptan ($C_2H_5SH$)**. |
-| **Water Gas vs. Producer Gas** | Mixing up which gas contains Hydrogen vs. Nitrogen. | **Water Gas = $CO + H_2$** (steam reaction). **Producer Gas = $CO + N_2$** (air reaction). |
-| **Highest Calorific Value** | Answering methane or petrol for highest calorific value. | **Hydrogen has the highest calorific value ($150,000\text{ kJ/kg}$)**, $\approx 3\times$ higher than petrol. |
-| **Coal Ranks Hierarchy** | Ranking bituminous as the highest grade coal. | **Anthracite is highest ($>90\%$ C)**. Bituminous is most abundant ($75–85\%$). Lignite is brown ($60–70\%$). |
-| **Neyveli Coal Type** | Thinking Neyveli produces anthracite or bituminous coal. | Neyveli (Tamil Nadu) produces **Lignite ("brown coal")**. Anthracite is found in Jammu & Kashmir. |
-| **Ideal Gas Conditions** | Believing gases behave ideally at high pressure. | Real gases behave ideally at **low pressure and high temperature** (where molecules are far apart and moving fast). |
-| **Octane vs. Cetane Target** | Confusing Octane for diesel and Cetane for petrol. | **Octane rating is for Petrol (Gasoline)**. **Cetane rating is for Diesel**. |
-| **Water on Petrol Fire** | Assuming water extinguishes oil fires by cooling them. | Petrol floats on water ($d \approx 0.7–0.8$) and spreads the fire; use **$CO_2$ or foam extinguishers**. |
-| **Bhopal Gas Name** | Writing methyl isocyanide or phosgene for Bhopal. | The disaster was caused by **Methyl Isocyanate (MIC, $CH_3NCO$)**, not isocyanide. |
-
-
----
-
-## Bilingual Terminology -- Gases, Fuels and Energy Chemistry
-
-| English Term | Hindi Term | Key Anchor |
-|---|---|---|
-| **Combustion** (दहन) | दहन | Chemical reaction of fuel with O2 producing heat and light |
-| **Fuel** (ईंधन) | ईंधन | Substance that releases energy by combustion |
-| **Calorific Value** (ऊष्मीय मान) | ऊष्मीय मान | Energy released per kg of fuel on complete combustion; kJ/kg |
-| **LPG** (द्रवित पेट्रोलियम गैस) | द्रवीभूत पेट्रोलियम गैस | Liquefied Petroleum Gas; propane + butane; ethyl mercaptan (smell) |
-| **CNG** (संपीडित प्राकृतिक गैस) | संपीडित प्राकृतिक गैस | Compressed Natural Gas; mainly methane; cleaner fuel |
-| **Coal** (कोयला) | कोयला | Fossil fuel; types by carbon content: Peat < Lignite < Bituminous < Anthracite |
-| **Petroleum** (पेट्रोलियम) | पेट्रोलियम | Crude oil; mixture of hydrocarbons; refined by fractional distillation |
-| **Producer Gas** (प्रोड्यूसर गैस) | प्रोड्यूसर गैस | CO + N2; made by passing air over hot coke; fuel gas |
-| **Water Gas** (जल गैस) | जल गैस | CO + H2; made by passing steam over hot coke; synthesis gas |
-| **Biogas** (बायोगैस) | बायोगैस | CH4 (55-75%) + CO2; from anaerobic decomposition; clean fuel |
-| **Octane Number** (ऑक्टेन संख्या) | ऑक्टेन संख्या | Measures anti-knock quality of petrol; higher = better; isooctane = 100 |
-| **Photosynthesis** (प्रकाश संश्लेषण) | प्रकाश-संश्लेषण | CO2 + H2O + light energy -> glucose + O2; solar energy storage |
-| **Ozone** (ओजोन) | ओजोन | O3; protects Earth from UV; ozone layer at 15-35 km altitude |
-| **Greenhouse Gas** (ग्रीनहाउस गैस) | हरित गृह गैस | CO2, CH4, N2O, CFCs; traps heat; causes global warming |
-| **Renewable Energy** (नवीकरणीय ऊर्जा) | नवीकरणीय ऊर्जा | Solar, wind, hydro, geothermal, tidal; replenishable |
-| **Non-renewable Energy** (अनवीकरणीय ऊर्जा) | अनवीकरणीय ऊर्जा | Fossil fuels, nuclear; finite reserves |
-
----
 
 ## One-Liner Revision -- Gases, Fuels and Energy Chemistry
 
@@ -3038,4 +1752,491 @@ cleaner air in cities.
 | 28 | Hydrogen Mission (2021) = Green Hydrogen from electrolysis using renewable electricity |
 | 29 | Coal India Ltd (CIL) = world's largest coal mining company; state-owned |
 | 30 | India's coal reserves = mainly in Jharkhand, Odisha, Chhattisgarh, WB |
+
+## Practice Zone — High-Yield Mock Drills (26 Questions)
+
+**Q-ST1.**
+
+What is the primary constituent gas of Liquefied Petroleum Gas (LPG)?
+(a) Methane  
+(b) Butane  
+(c) Ethylene  
+(d) Acetylene  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Butane.
+
+**Ans: B.** Butane
+</details>
+
+---
+
+**Q-ST2.**
+
+Which compound is added to commercial LPG to provide a pungent odor for leak detection?
+(a) Methyl alcohol  
+(b) Ethyl mercaptan ($C_2H_5SH$)  
+(c) Acetone  
+(d) Hydrogen sulphide  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Ethyl mercaptan (ethanethiol) is an organosulfur compound added to odorless LPG as a leak warning agent.
+
+**Ans: B.** Ethyl mercaptan ($C2H5SH$)
+</details>
+
+---
+
+**Q-ST3.**
+
+What is the primary constituent of Compressed Natural Gas (CNG)?
+(a) Methane ($CH_4$)  
+(b) Butane ($C_4H_{10}$)  
+(c) Propane ($C_3H_8$)  
+(d) Hydrogen ($H_2$)  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** CNG is compressed natural gas composed of $>85\%$ methane.
+
+**Ans: A.** Methane ($CH4$)
+</details>
+
+---
+
+**Q-ST4.**
+
+Which fuel possesses the highest calorific value per unit mass?
+(a) Methane  
+(b) Petrol  
+(c) Hydrogen  
+(d) LPG  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Hydrogen has a calorific value of $150,000\text{ kJ/kg}$, roughly three times that of petrol ($45,000\text{ kJ/kg}$) or methane ($55,000\text{ kJ/kg}$).
+
+**Ans: C.** Hydrogen
+</details>
+
+---
+
+**Q-ST5.**
+
+What is the composition of "Water Gas"?
+(a) $CO + N_2$  
+(b) $CO + H_2$  
+(c) $CO_2 + H_2$  
+(d) $CH_4 + H_2$  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Water gas (syngas) is an equimolar mixture of carbon monoxide and hydrogen ($CO + H2$) formed by steam passing over red-hot coke.
+
+**Ans: B.** $CO + H2$
+</details>
+
+---
+
+**Q-ST6.**
+
+Producer gas consists primarily of:
+(a) $CO + H_2$  
+(b) $CO + N_2$  
+(c) $CO_2 + N_2$  
+(d) $CH_4 + N_2$  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Producer gas is produced by passing air over red-hot coke, yielding carbon monoxide ($\approx 30\%$) and nitrogen ($\approx 60\%$).
+
+**Ans: B.** $CO + N2$
+</details>
+
+---
+
+**Q-ST7.**
+
+Which of the following is the highest quality rank of coal with over $90\%$ carbon?
+(a) Lignite  
+(b) Peat  
+(c) Bituminous  
+(d) Anthracite  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Anthracite contains $>90–95\%$ carbon, burns with minimal smoke, and has the highest calorific value of all coal types.
+
+**Ans: D.** Anthracite
+</details>
+
+---
+
+**Q-ST8.**
+
+In which Indian state is the major lignite deposit at Neyveli located?
+(a) Jharkhand  
+(b) Tamil Nadu  
+(c) Odisha  
+(d) Madhya Pradesh  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Neyveli is located in Cuddalore district of Tamil Nadu.
+
+**Ans: B.** Tamil Nadu
+</details>
+
+---
+
+**Q-ST9.**
+
+Octane number is used to rate the anti-knock quality of:
+(a) Diesel  
+(b) Petrol (Gasoline)  
+(c) Kerosene  
+(d) Coal gas  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Octane number measures anti-knock performance of petrol in spark-ignition engines.
+
+**Ans: B.** Petrol (Gasoline)
+</details>
+
+---
+
+**Q-ST10.**
+
+Cetane number evaluates the ignition quality of which automotive fuel?
+(a) Aviation turbine fuel  
+(b) Diesel  
+(c) Compressed natural gas  
+(d) Liquefied petroleum gas  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Diesel.
+
+**Ans: B.** Diesel
+</details>
+
+---
+
+**Q-ST11.**
+
+What gas is generated by the anaerobic decomposition of cow dung in Gobar gas plants?
+(a) Butane  
+(b) Methane  
+(c) Acetylene  
+(d) Carbon monoxide  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Methane.
+
+**Ans: B.** Methane
+</details>
+
+---
+
+**Q-ST12.**
+
+What is the temperature of the coldest, innermost zone of a candle flame?
+(a) Hottest zone of the flame  
+(b) Lowest temperature zone of the flame  
+(c) Over $2000^\circ\text{C}$  
+(d) Same as the blue zone  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The innermost dark zone contains unburnt wax vapors and lacks oxygen, making it the coolest region of the candle flame.
+
+**Ans: B.** Lowest temperature zone of the flame
+</details>
+
+---
+
+**Q-ST13.**
+
+Why is carbon monoxide classified as a toxic asphyxiant?
+(a) It destroys lung alveoli mechanically  
+(b) It binds to hemoglobin $\approx 200\times$ more strongly than oxygen, forming carboxyhemoglobin  
+(c) It turns blood into nitric acid  
+(d) It causes rapid blood clotting  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Carbon monoxide has a high affinity for hemoglobin, forming carboxyhemoglobin and preventing normal oxygen delivery to body tissues.
+
+**Ans: B.** It binds to hemoglobin $\approx 200\times$ more strongly than oxygen, forming carboxyhemoglobin
+</details>
+
+---
+
+**Q-ST14.**
+
+In a fire extinguisher, carbon dioxide extinguishes electrical fires primarily by:
+(a) Conducting electrical current safely to ground  
+(b) Displacing oxygen and blanketing the fuel with a dense, non-combustible gas  
+(c) Reacting with burning copper to form carbonate  
+(d) Generating water droplets  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** $CO2$ is heavier than air; it blankets the fire, cutting off atmospheric oxygen supply, while expansion cools the fuel.
+
+**Ans: B.** Displacing oxygen and blanketing the fuel with a dense, non-combustible gas
+</details>
+
+---
+
+**Q-ST15.**
+
+According to Charles's Law, if the absolute temperature of a gas is doubled at constant pressure, its volume will:
+(a) Halve  
+(b) Double  
+(c) Quadruple  
+(d) Remain unchanged  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Double.
+
+**Ans: B.** Double
+</details>
+
+---
+
+**Q-ST16.**
+
+What volume does 1 mole of carbon dioxide occupy at Standard Temperature and Pressure (STP)?
+(a) $11.2\text{ L}$  
+(b) $22.4\text{ L}$  
+(c) $44.8\text{ L}$  
+(d) $1.0\text{ L}$  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** One mole of any ideal gas occupies $22.414\text{ Liters}$ at STP.
+
+**Ans: B.** $22.4\text{ L}$
+</details>
+
+---
+
+**Q-ST17.**
+
+According to Graham's Law, which of the following gases will effuse faster than oxygen ($O_2$, $M=32$)?
+(a) Carbon dioxide ($CO_2$, $M=44$)  
+(b) Sulphur dioxide ($SO_2$, $M=64$)  
+(c) Methane ($CH_4$, $M=16$)  
+(d) Chlorine ($Cl_2$, $M=71$)  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Effusion rate is inversely proportional to $\sqrt{M}$.
+
+**Ans: C.** Methane ($CH4$, $M=16$)
+</details>
+
+---
+
+**Q-ST18.**
+
+What chemical process converts vegetable seed oil into commercial biodiesel?
+(a) Saponification  
+(b) Transesterification  
+(c) Hydrogenation  
+(d) Halogenation  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Transesterification reacts triglycerides with methanol in the presence of a base catalyst to yield fatty acid methyl esters (biodiesel) and glycerol.
+
+**Ans: B.** Transesterification
+</details>
+
+---
+
+**Q-ST19.**
+
+At what cryogenic temperature is Natural Gas liquefied into LNG for maritime transport?
+(a) $0^\circ\text{C}$  
+(b) $-78.5^\circ\text{C}$  
+(c) $-162^\circ\text{C}$  
+(d) $-273.15^\circ\text{C}$  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Natural gas liquefies at $-162^\circ\text{C}$ at atmospheric pressure, reducing its volume roughly 600-fold.
+
+**Ans: C.** $-162^\circ\text{C}$
+</details>
+
+---
+
+**Q-ST20.**
+
+What is the primary chemical component of "Marsh Gas"?
+(a) Methane  
+(b) Ethane  
+(c) Propane  
+(d) Butane  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Methane.
+
+**Ans: A.** Methane
+</details>
+
+---
+
+**Q-ST21.**
+
+Under what thermodynamic conditions do real gases behave most like an ideal gas?
+(a) High pressure and low temperature  
+(b) Low pressure and high temperature  
+(c) High pressure and high temperature  
+(d) Low pressure and low temperature  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Low pressure maximizes intermolecular distances, while high temperature minimizes the effect of intermolecular attractions, causing real gases to follow $PV=nRT$.
+
+**Ans: B.** Low pressure and high temperature
+</details>
+
+---
+
+**Q-ST22.**
+
+Which gas leaked during the 1984 Bhopal Gas Tragedy?
+(a) Phosgene  
+(b) Methyl Isocyanate (MIC)  
+(c) Chlorine  
+(d) Ammonia  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Methyl Isocyanate ($CH3NCO$) leaked from the Union Carbide plant.
+
+**Ans: B.** Methyl Isocyanate (MIC)
+</details>
+
+---
+
+**Q-ST23.**
+
+What is the byproduct of pure hydrogen combustion in air?
+(a) Carbon dioxide  
+(b) Pure water vapor ($H_2O$)  
+(c) Carbon monoxide  
+(d) Sulphur dioxide  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** $2H2 + O2 \to 2H2O$, yielding water vapor with no carbon emissions.
+
+**Ans: B.** Pure water vapor ($H2O$)
+</details>
+
+---
+
+**Q-ST24.**
+
+Why was Tetraethyl Lead (TEL) phased out of commercial gasoline?
+(a) It lowered fuel efficiency  
+(b) Lead emissions cause neurotoxicity and poison catalytic converters  
+(c) It caused petrol tanks to rust  
+(d) It increased carbon dioxide emissions  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Atmospheric lead from TEL causes neurological damage and coats catalytic converter metals, inactivating their pollution-control functions.
+
+**Ans: B.** Lead emissions cause neurotoxicity and poison catalytic converters
+</details>
+
+---
+
+**Q-ST25.**
+
+What is the universal gas constant ($R$) in SI units?
+(a) $0.0821\text{ J}\cdot\text{mol}^{-1}\cdot\text{K}^{-1}$  
+(b) $8.314\text{ J}\cdot\text{mol}^{-1}\cdot\text{K}^{-1}$  
+(c) $1.987\text{ cal}\cdot\text{mol}^{-1}\cdot\text{K}^{-1}$  
+(d) $6.022\times 10^{23}\text{ J}\cdot\text{mol}^{-1}\cdot\text{K}^{-1}$  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** In SI units, $R = 8.314\text{ J}\cdot\text{mol}^{-1}\cdot\text{K}^{-1}$.
+
+**Ans: B.** $8.314\text{ J}\cdot\text{mol}^{-1}\cdot\text{K}^{-1}$
+</details>
+
+---
+
+**Q-ST26.**
+
+What is the primary purpose of blending ethanol into motor gasoline under the E20 mandate?
+(a) To lower engine temperature  
+(b) To act as an oxygenate boosting octane and reducing $CO$ emissions  
+(c) To make petrol cheaper to freeze  
+(d) To turn petrol into a lubricant  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Ethanol contains $34.7\%$ oxygen by mass, promoting complete combustion of hydrocarbons, reducing $CO$ emissions, and elevating the fuel's anti-knock octane rating.
+
+**Ans: B.** To act as an oxygenate boosting octane and reducing $CO$ emissions
+</details>
+
+---
+
+## Common Traps & High-Yield Pitfalls
+
+| Trap Area | What Students Confuse | Correct Fact |
+|---|---|---|
+| **LPG vs. CNG Main Molecule** | Mixing up whether LPG or CNG contains Methane. | **CNG is Methane ($CH_4$)**. **LPG is Butane + Propane**. |
+| **LPG Smell Source** | Believing LPG naturally smells bad. | Pure LPG is **completely odorless**; the foul smell is added **Ethyl Mercaptan ($C_2H_5SH$)**. |
+| **Water Gas vs. Producer Gas** | Mixing up which gas contains Hydrogen vs. Nitrogen. | **Water Gas = $CO + H_2$** (steam reaction). **Producer Gas = $CO + N_2$** (air reaction). |
+| **Highest Calorific Value** | Answering methane or petrol for highest calorific value. | **Hydrogen has the highest calorific value ($150,000\text{ kJ/kg}$)**, $\approx 3\times$ higher than petrol. |
+| **Coal Ranks Hierarchy** | Ranking bituminous as the highest grade coal. | **Anthracite is highest ($>90\%$ C)**. Bituminous is most abundant ($75–85\%$). Lignite is brown ($60–70\%$). |
+| **Neyveli Coal Type** | Thinking Neyveli produces anthracite or bituminous coal. | Neyveli (Tamil Nadu) produces **Lignite ("brown coal")**. Anthracite is found in Jammu & Kashmir. |
+| **Ideal Gas Conditions** | Believing gases behave ideally at high pressure. | Real gases behave ideally at **low pressure and high temperature** (where molecules are far apart and moving fast). |
+| **Octane vs. Cetane Target** | Confusing Octane for diesel and Cetane for petrol. | **Octane rating is for Petrol (Gasoline)**. **Cetane rating is for Diesel**. |
+| **Water on Petrol Fire** | Assuming water extinguishes oil fires by cooling them. | Petrol floats on water ($d \approx 0.7–0.8$) and spreads the fire; use **$CO_2$ or foam extinguishers**. |
+| **Bhopal Gas Name** | Writing methyl isocyanide or phosgene for Bhopal. | The disaster was caused by **Methyl Isocyanate (MIC, $CH_3NCO$)**, not isocyanide. |
+
+---
 

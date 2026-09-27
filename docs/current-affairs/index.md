@@ -79,6 +79,9 @@ Use it in three situations:
 [**August 2026 digest**
 <span>80th I-Day, Shakti Ki Saptadhara, Glaw Lake 101, Amethi Sher, CWG, UP expressways.</span>](topics/months/2026-08.md){ .study-card }
 
+[**September 2026 digest**
+<span>BRICS New Delhi Declaration, UNGA 81st, Asian Games kabaddi double, Ozone/Peace themes, NFI 2026.</span>](topics/months/2026-09.md){ .study-card }
+
 </div>
 
 ---
@@ -86,8 +89,8 @@ Use it in three situations:
 ## Pipeline (your plan)
 
 1. **Analysis** — PDF + transcript, reconciled with repo PYQs.
-2. **Monthly sheets** — live from **January 2026** through **August 2026**.
-3. **Next:** September 2026; then Complete CA PYQ Bank.
+2. **Monthly sheets** — live from **January 2026** through **September 2026**.
+3. **Next:** October 2026 (GST Council process reforms + Asian Games final tally); then Complete CA PYQ Bank.
 4. **Goal:** approach **~90% correct** on CA stems by reading only what UPPCS actually tests.
 
 !!! tip "Source files"

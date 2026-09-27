@@ -364,384 +364,6 @@ A total of **9 Annual Sessions of the Indian National Congress** were held in Ut
 
 ---
 
-## Complete PYQ Bank (UPPCS)
-
-> Verified stems from UPPCS Prelims (and closely related UP papers). Extra Drill follows.
-
-**Q1. UPPCS (Pre) 2018**
-Which of the following centres related to Indus Valley are situated in Uttar Pradesh?
-A. Only Alamgirpur
-B. Alamgirpur and Hulas (as per options in paper)
-C. Lothal
-D. Dholavira
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Lothal/Dholavira are Gujarat — classic distractors.
-
-**Ans: A.** Alamgirpur (Meerut) is the easternmost Harappan site in UP.
-
-</details>
-
-**Q2. Standard UPPCS**
-The 1857 revolt’s important centres in UP included:
-A. Only Delhi
-B. Meerut, Lucknow, Kanpur, Jhansi, among others
-C. Only Bombay
-D. Only Madras
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** UP Special freedom map is Meerut–Delhi–Awadh–Kanpur–Jhansi.
-
-**Ans: B.** Meerut spark; Awadh and Bundelkhand theatres.
-
-</details>
-
-
----
-
-## Ghatnachakra Extra Drill — History Culture Art Heritage
-
-> Multi-exam / other-State PCS / standard coaching stems for the same topic map.
-
-**Q1. Standard UPPCS**
-Sarnath is associated with:
-A. First Sermon of Buddha
-B. Mahavira’s nirvana only
-C. Ashoka’s only capital
-D. Akbar’s birth
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Lion Capital of Ashoka from Sarnath is India’s State Emblem source.
-
-**Ans: A.** Dharmachakra Pravartana at Sarnath (Varanasi).
-
-</details>
-
-
----
-
-
-### Other Papers — BPSC / MPPSC / RAS / UKPCS / UPSC / WBCS
-
-**Q2. UK Upper PCS / multi-PSC**
-Which of the following cities is NOT located on the banks of the Ganga?
-A. Kanpur
-B. Varanasi
-C. Agra
-D. Prayagraj
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Culture corridor cities — Agra is Yamuna, not Ganga.
-
-**Ans: C.** Agra (Yamuna).
-
-</details>
-
-## Practice Zone
-
-1. The capital of the ancient Panchala Mahajanapada was divided into Northern and Southern capitals. Which of the following was the Southern capital?
-   (A) Ahichchhatra
-   (B) Kampilya
-   (C) Suktimati
-   (D) Shravasti
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Kampilya</b><br>
-<b>Explanation:</b> Panchala was divided by the Ganga into North Panchala (capital: Ahichchhatra near Aonla, Bareilly) and South Panchala (capital: Kampilya near Kampil, Farrukhabad district).
-</details>
-
-2. At which archaeological site in Uttar Pradesh has the earliest evidence of rice cultivation in the Indian subcontinent been excavated?
-   (A) Belan Valley (Chopani Mando)
-   (B) Koldihwa / Lahuradewa
-   (C) Sarai Nahar Rai
-   (D) Damdama
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Koldihwa / Lahuradewa</b><br>
-<b>Explanation:</b> Lahuradewa in Sant Kabir Nagar district yielded evidence of rice cultivation dating back to c. 7000–8000 BCE, while Koldihwa in Prayagraj/Belan valley yielded rice husk impressions dating to c. 6500 BCE.
-</details>
-
-3. Which Gupta-era temple in Uttar Pradesh is regarded as the oldest surviving stone temple built in the classical Panchayatana layout?
-   (A) Bhitargaon Temple (Kanpur)
-   (B) Dashavatara Temple (Deogarh, Lalitpur)
-   (C) Mundeshwari Temple
-   (D) Lakshmana Temple (Sirpur)
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Dashavatara Temple (Deogarh, Lalitpur)</b><br>
-<b>Explanation:</b> Built in the early 6th century CE, the Dashavatara Temple at Deogarh in Lalitpur district is an iconic Gupta stone temple featuring a central shrine surrounded by four subsidiary shrines (Panchayatana layout) and sculptures of Vishnu.
-</details>
-
-4. Emperor Harshavardhana organized two great religious assemblies during his reign. Where were they held?
-   (A) Kannauj and Prayagraj
-   (B) Thanesar and Ujjain
-   (C) Varanasi and Pataliputra
-   (D) Valabhi and Mathura
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (A) Kannauj and Prayagraj</b><br>
-<b>Explanation:</b> Harsha organized a grand Mahayana Buddhist assembly at Kannauj presided over by Chinese pilgrim Xuanzang (Hieun Tsang) in 643 CE, followed by the 6th quinquennial *Maha Moksha Parishad* at the confluence in Prayagraj.
-</details>
-
-5. Jaunpur city was nicknamed "Shiraz-e-Hind" during the reign of which Sharqi ruler?
-   (A) Malik Sarwar
-   (B) Mubarak Shah
-   (C) Ibrahim Shah Sharqi
-   (D) Hussain Shah Sharqi
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) Ibrahim Shah Sharqi</b><br>
-<b>Explanation:</b> Under Ibrahim Shah Sharqi (1402–1440 CE), Jaunpur became the pre-eminent Islamic seat of learning, art, literature, and Islamic architecture in India, earning the title "Shiraz-e-Hind" (after the cultural Persian city of Shiraz).
-</details>
-
-6. The famous 'Panch Mahal' at Fatehpur Sikri, built by Akbar, is architecturally based on which structural design?
-   (A) Persian Chahar-Bagh Pavilion
-   (B) Buddhist Vihara / Monastic Pagoda layout
-   (C) Gujarati Wooden Haveli
-   (D) Rajput Jharokha System
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Buddhist Vihara / Monastic Pagoda layout</b><br>
-<b>Explanation:</b> The Panch Mahal at Fatehpur Sikri is a 5-storeyed columnar pavilion that tapers upwards in a pyramidal shape, directly inspired by the traditional multi-tiered Buddhist Vihara architecture.
-</details>
-
-7. Which Mughal monument in Uttar Pradesh was the very first to introduce the extensive use of white marble and the 'Pietra Dura' inlay technique?
-   (A) Humayun's Tomb
-   (B) Taj Mahal
-   (C) Tomb of Itimad-ud-Daulah (Agra)
-   (D) Moti Masjid (Agra Fort)
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) Tomb of Itimad-ud-Daulah (Agra)</b><br>
-<b>Explanation:</b> Built between 1622 and 1628 by Empress Nur Jahan for her father Mirza Ghiyas Beg (Itimad-ud-Daulah), this Agra mausoleum was the first fully white-marble Mughal monument to employ intricate pietra dura floral inlays.
-</details>
-
-8. In which year did Nawab Asaf-ud-Daula transfer the capital of the Nawabi Kingdom of Awadh from Faizabad to Lucknow?
-   (A) 1764
-   (B) 1775
-   (C) 1784
-   (D) 1801
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) 1775</b><br>
-<b>Explanation:</b> Upon succeeding Shuja-ud-Daula in 1775, Nawab Asaf-ud-Daula shifted the Awadh capital from Faizabad to Lucknow to break free from the influence of the dowager Begums of Awadh.
-</details>
-
-9. Under which official British pretext was the state of Awadh annexed by Lord Dalhousie on 13 February 1856?
-   (A) Doctrine of Lapse
-   (B) Non-payment of Subsidiary Alliance dues
-   (C) Alleged internal misgovernance and administrative misrule
-   (D) Treason against the East India Company
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) Alleged internal misgovernance and administrative misrule</b><br>
-<b>Explanation:</b> Since Nawab Wajid Ali Shah had legitimate heirs, the Doctrine of Lapse could not be applied. Dalhousie utilized the biased report on administrative decay prepared by Resident James Outram to annex Awadh on grounds of misgovernance.
-</details>
-
-10. Who was the British Officer in command of the Kanpur garrison who surrendered to Nana Sahib's forces during the 1857 Uprising?
-   (A) Sir Henry Lawrence
-   (B) Major-General Sir Hugh Wheeler
-   (C) General James Neill
-   (D) Sir Colin Campbell
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Major-General Sir Hugh Wheeler</b><br>
-<b>Explanation:</b> Major-General Sir Hugh Wheeler commanded the British garrison entrenchment at Kanpur during the June 1857 siege before surrendering to Nana Sahib's forces.
-</details>
-
-11. Who among the following leaders of the 1857 Revolt operated primarily from Khusro Bagh in Allahabad?
-   (A) Maulvi Ahmadullah Shah
-   (B) Maulvi Liaquat Ali
-   (C) Khan Bahadur Khan
-   (D) Bakht Khan
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Maulvi Liaquat Ali</b><br>
-<b>Explanation:</b> Maulvi Liaquat Ali, a schoolteacher from Mahgaon (Prayagraj), took over the headquarters at Khusro Bagh and declared himself the Governor of Allahabad under Emperor Bahadur Shah Zafar.
-</details>
-
-12. In which historic park of Allahabad (Prayagraj) did Lord Canning read out Queen Victoria's Proclamation on 1 November 1858?
-   (A) Alfred Park
-   (B) Minto Park
-   (C) Bharadwaj Ashram Park
-   (D) Company Bagh
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Minto Park</b><br>
-<b>Explanation:</b> On 1 November 1858, Lord Canning read out the Royal Proclamation of Queen Victoria at a grand imperial Durbar in Minto Park (now Madan Mohan Malaviya Park), Allahabad, inaugurating direct Crown rule.
-</details>
-
-13. Who was the Congress President when the historic Lucknow Pact was finalized between the Indian National Congress and the Muslim League in 1916?
-   (A) Ambica Charan Mazumdar
-   (B) Gopal Krishna Gokhale
-   (C) Rash Behari Ghosh
-   (D) Bal Gangadhar Tilak
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (A) Ambica Charan Mazumdar</b><br>
-<b>Explanation:</b> Ambica Charan Mazumdar presided over the 31st Annual Session of the INC at Lucknow in 1916, which formalized the reunion of Moderates and Extremists and the signing of the joint Congress-League Lucknow Pact.
-</details>
-
-14. The 'Oudh Kisan Sabha' was founded in October 1920 in which district of Uttar Pradesh?
-   (A) Prayagraj
-   (B) Pratapgarh
-   (C) Rae Bareli
-   (D) Sultanpur
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Pratapgarh</b><br>
-<b>Explanation:</b> Oudh Kisan Sabha was established in October 1920 at Rure village in Pratapgarh district by Baba Ramchandra, Jawaharlal Nehru, and Mata Badal Pande to unite the peasantry against oppressive landlords.
-</details>
-
-15. The radical 'Eka Movement' (1921–1922) of Uttar Pradesh peasant farmers was spearheaded under the leadership of:
-   (A) Baba Ramchandra
-   (B) Madari Pasi
-   (C) Sahajanand Saraswati
-   (D) Chittu Pandey
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Madari Pasi</b><br>
-<b>Explanation:</b> The Eka (Unity) Movement was launched in Hardoi, Bahraich, Sitapur, and Barabanki by peasant leader Madari Pasi. Peasants took holy vows not to pay rents exceeding 50% above recorded rates and refused forced labour.
-</details>
-
-16. Following the tragic Chauri Chaura incident on 4 February 1922, Mahatma Gandhi convened the Congress Working Committee to withdraw the Non-Cooperation Movement at which place on 12 February 1922?
-   (A) Gorakhpur
-   (B) Bardoli
-   (C) Wardha
-   (D) Sabarmati
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Bardoli</b><br>
-<b>Explanation:</b> Mahatma Gandhi called an emergency meeting of the Congress Working Committee at Bardoli (Gujarat) on 12 February 1922, passing the famous 'Bardoli Resolution' that halted the nationwide Non-Cooperation Movement.
-</details>
-
-17. Revolutionary leader Rajendra Nath Lahiri was executed by hanging in connection with the Kakori Train Action in which jail of UP?
-   (A) Gorakhpur Jail
-   (B) Faizabad Jail
-   (C) Gonda Jail
-   (D) Naini Central Jail
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) Gonda Jail</b><br>
-<b>Explanation:</b> Rajendra Nath Lahiri was hanged on 17 December 1927 in Gonda Jail (two days prior to the scheduled date of 19 December) due to British fears of a jailbreak rescue attempt by HRA cadres.
-</details>
-
-18. On 27 February 1931, revolutionary hero Chandrashekhar Azad attained martyrdom in an encounter with British police at:
-   (A) Company Bagh, Kanpur
-   (B) Alfred Park, Prayagraj
-   (C) Victoria Park, Meerut
-   (D) Sikandar Bagh, Lucknow
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Alfred Park, Prayagraj</b><br>
-<b>Explanation:</b> Betrayed by an informant, Chandrashekhar Azad was encircled by armed police led by J.R.H. Nott-Bower at Alfred Park in Allahabad (Prayagraj). After a fierce gun battle, Azad shot himself with his final bullet to remain free ("Azad") till death.
-</details>
-
-19. Which classical Kathak maestro was conferred the Padma Vibhushan and belonged to the illustrious Kalka-Bindadin lineage of the Lucknow Gharana?
-   (A) Pandit Birju Maharaj
-   (B) Ustad Zakir Hussain
-   (C) Pandit Jasraj
-   (D) Guru Kelucharan Mohapatra
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (A) Pandit Birju Maharaj</b><br>
-<b>Explanation:</b> Pandit Birju Maharaj (Brijmohan Nath Mishra, 1938–2022) was the torchbearer of the Lucknow Kalka-Bindadin Gharana of Kathak dance, renowned globally for his expressive abhinaya and rhythm mastery.
-</details>
-
-20. The Kirana Gharana of Hindustani classical music takes its name from a town located in which modern district of Uttar Pradesh?
-   (A) Shamli (Muzaffarnagar)
-   (B) Aligarh
-   (C) Varanasi
-   (D) Agra
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (A) Shamli (Muzaffarnagar)</b><br>
-<b>Explanation:</b> The Kirana Gharana originated in the town of Kairana (Kirana), which is currently situated in Shamli district (carved out of Muzaffarnagar) in western Uttar Pradesh.
-</details>
-
-21. 'Girija Devi', the celebrated doyenne of the Banaras Gharana, was universally acclaimed as the uncrowned queen of which classical vocal genre?
-   (A) Dhrupad
-   (B) Thumri
-   (C) Tarana
-   (D) Ghazal
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Thumri</b><br>
-<b>Explanation:</b> Girija Devi (1929–2017) of the Banaras Gharana was fondly revered as the "Queen of Thumri" (Thumri Samragyi) for elevating Poorab Ang Thumri, Dadra, Chaiti, and Kajri to classical heights.
-</details>
-
-22. 'Rai Dance' is an iconic folk dance associated with which geographical/cultural region of Uttar Pradesh?
-   (A) Bundelkhand
-   (B) Braj
-   (C) Purvanchal
-   (D) Rohilkhand
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (A) Bundelkhand</b><br>
-<b>Explanation:</b> Rai Dance is a fast-paced peacock-mimicking folk dance performed by women of the Beriya community in the Bundelkhand region during auspicious celebrations and religious festivals.
-</details>
-
-23. The heroic ballad 'Alha', which narrates the chivalric exploits of warriors Alha and Udal, is sung in which dialect of UP?
-   (A) Brajbhasha
-   (B) Banaffari (Bundelkhandi)
-   (C) Bhojpuri
-   (D) Awadhi
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Banaffari (Bundelkhandi)</b><br>
-<b>Explanation:</b> Alha ballads are composed and sung in the Banaffari dialect of Bundelkhandi. Authored originally by court poet Jagnik in *Alha-Khand*, they celebrate the 52 battles of the 12th-century Chandela warriors Alha and Udal of Mahoba.
-</details>
-
-24. The famous 'Dewa Sharif Fair' is organized annually at the holy shrine of Sufi Saint Haji Waris Ali Shah in which district of Uttar Pradesh?
-   (A) Bahraich
-   (B) Barabanki
-   (C) Sitapur
-   (D) Badaun
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Barabanki</b><br>
-<b>Explanation:</b> Dewa Sharif is situated 12 km from Barabanki. The annual Urs/Fair is celebrated during the month of Kartik/Safar in honour of the 19th-century Sufi saint Haji Waris Ali Shah, preaching the message of universal love.
-</details>
-
-25. The traditional 'Nautanki' folk theatre in Uttar Pradesh developed into two prominent contrasting schools. Which school is characterized by classical metrical poetry and musical virtuosity?
-   (A) Kanpur School
-   (B) Hathras School
-   (C) Lucknow School
-   (D) Varanasi School
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Hathras School</b><br>
-<b>Explanation:</b> The Hathras School (founded by Pandit Natharam Gaur) emphasizes classical ragas, high-pitched singing, and metrical poetic verses (Doha, Chaubola, Chhand). In contrast, the Kanpur School emphasizes theatrical stage dialogues and social prose.
-</details>
-
-26. In which year was the sacred 'Kumbh Mela' of Prayagraj officially inscribed on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity?
-   (A) 2008
-   (B) 2012
-   (C) 2017
-   (D) 2021
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) 2017</b><br>
-<b>Explanation:</b> The Kumbh Mela of Prayagraj (along with Haridwar, Ujjain, and Nashik) was inscribed on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity in December 2017, recognized as the world's largest peaceful congregation of pilgrims.
-</details>
-
-## Common Traps
-
-| Trap | Correct |
-|---|---|
-| Mixing Absolute vs % ranks | Match the stem metric first |
-
-
----
-
 ## Bilingual Terminology -- UP History and Culture
 
 | English | Hindi | Key Anchor |
@@ -813,6 +435,84 @@ D. Prayagraj
 
 ---
 
+## Complete PYQ Bank (UPPCS)
+
+> Verified stems from UPPCS Prelims (and closely related UP papers). Extra Drill follows.
+
+**Q1. UPPCS (Pre) 2018**
+Which of the following centres related to Indus Valley are situated in Uttar Pradesh?
+A. Only Alamgirpur
+B. Alamgirpur and Hulas (as per options in paper)
+C. Lothal
+D. Dholavira
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Lothal/Dholavira are Gujarat — classic distractors.
+
+**Ans: A.** Alamgirpur (Meerut) is the easternmost Harappan site in UP.
+
+</details>
+
+**Q2. Standard UPPCS**
+The 1857 revolt’s important centres in UP included:
+A. Only Delhi
+B. Meerut, Lucknow, Kanpur, Jhansi, among others
+C. Only Bombay
+D. Only Madras
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** UP Special freedom map is Meerut–Delhi–Awadh–Kanpur–Jhansi.
+
+**Ans: B.** Meerut spark; Awadh and Bundelkhand theatres.
+
+</details>
+
+---
+
+## Ghatnachakra Extra Drill — History Culture Art Heritage
+
+> Multi-exam / other-State PCS / standard coaching stems for the same topic map.
+
+**Q1. Standard UPPCS**
+Sarnath is associated with:
+A. First Sermon of Buddha
+B. Mahavira’s nirvana only
+C. Ashoka’s only capital
+D. Akbar’s birth
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Lion Capital of Ashoka from Sarnath is India’s State Emblem source.
+
+**Ans: A.** Dharmachakra Pravartana at Sarnath (Varanasi).
+
+</details>
+
+---
+
+### Other Papers — BPSC / MPPSC / RAS / UKPCS / UPSC / WBCS
+
+**Q2. UK Upper PCS / multi-PSC**
+Which of the following cities is NOT located on the banks of the Ganga?
+A. Kanpur
+B. Varanasi
+C. Agra
+D. Prayagraj
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Culture corridor cities — Agra is Yamuna, not Ganga.
+
+**Ans: C.** Agra (Yamuna).
+
+</details>
+
 ## MPPSC / RAS / BPSC Extra Drill -- UP History
 
 **Q1. MPPSC (Pre) 2021**
@@ -841,7 +541,7 @@ D. Nagpur Session (1920)
 <details>
 <summary>Show answer</summary>
 
-**Logic:** The **Lucknow Session (1916)** of INC, presided by A.C. Mazumdar, finalized the Congress-League pact that called for increased Indian self-government and Muslim representation. It also reunited Moderates and Extremists.
+**Logic:** The **Lucknow Session (1916)** of INC, presided by A.C.
 
 **Ans: B.** Lucknow Session (1916).
 
@@ -857,10 +557,9 @@ D. 1993
 <details>
 <summary>Show answer</summary>
 
-**Logic:** The **Taj Mahal** (along with Agra Fort) was inscribed as a UNESCO World Heritage Site in **1983**. Fatehpur Sikri was inscribed in **1986**.
+**Logic:** Standard key matches 1983.
 
-**Ans: B.** 1983.
-
+**Ans: B.** 1983
 </details>
 
 **Q4. MPPSC (Pre) 2022**
@@ -873,10 +572,9 @@ D. 13 April 1919
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Chandrashekhar Azad was cornered by British police at Alfred Park (now Azad Park), Prayagraj on **27 February 1931** and shot himself rather than surrender. (23 March 1931 = Bhagat Singh, Sukhdev, Rajguru hanged at Lahore.)
+**Logic:** Betrayed by an informant, Chandrashekhar Azad was encircled by armed police led by J.R.H.
 
-**Ans: B.** 27 February 1931.
-
+**Ans: B.** 27 February 1931
 </details>
 
 ---
@@ -905,4 +603,352 @@ D. 13 April 1919
 | 18 | Kathak = UP classical dance; Lucknow and Jaipur Gharanas |
 | 19 | Pandit Birju Maharaj = Lucknow **Kalka-Bindadin Gharana** |
 | 20 | Girija Devi = "Queen of Thumri" -- **Banaras Gharana** |
+
+## Practice Zone
+
+1. The capital of the ancient Panchala Mahajanapada was divided into Northern and Southern capitals. Which of the following was the Southern capital?
+   (A) Ahichchhatra
+   (B) Kampilya
+   (C) Suktimati
+   (D) Shravasti
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Panchala was divided by the Ganga into North Panchala (capital: Ahichchhatra near Aonla, Bareilly) and South Panchala (capital: Kampilya near Kampil, Farrukhabad district).
+
+**Ans: B.** Kampilya
+</details>
+
+2. At which archaeological site in Uttar Pradesh has the earliest evidence of rice cultivation in the Indian subcontinent been excavated?
+   (A) Belan Valley (Chopani Mando)
+   (B) Koldihwa / Lahuradewa
+   (C) Sarai Nahar Rai
+   (D) Damdama
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Lahuradewa in Sant Kabir Nagar district yielded evidence of rice cultivation dating back to c.
+
+**Ans: B.** Koldihwa / Lahuradewa
+</details>
+
+3. Which Gupta-era temple in Uttar Pradesh is regarded as the oldest surviving stone temple built in the classical Panchayatana layout?
+   (A) Bhitargaon Temple (Kanpur)
+   (B) Dashavatara Temple (Deogarh, Lalitpur)
+   (C) Mundeshwari Temple
+   (D) Lakshmana Temple (Sirpur)
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Built in the early 6th century CE, the Dashavatara Temple at Deogarh in Lalitpur district is an iconic Gupta stone temple featuring a central shrine surrounded by four subsidiary shrines (Panchayatana layout) and sculpt…
+
+**Ans: B.** Dashavatara Temple (Deogarh, Lalitpur)
+</details>
+
+4. Emperor Harshavardhana organized two great religious assemblies during his reign. Where were they held?
+   (A) Kannauj and Prayagraj
+   (B) Thanesar and Ujjain
+   (C) Varanasi and Pataliputra
+   (D) Valabhi and Mathura
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Harsha organized a grand Mahayana Buddhist assembly at Kannauj presided over by Chinese pilgrim Xuanzang (Hieun Tsang) in 643 CE, followed by the 6th quinquennial Maha Moksha Parishad at the confluence in Prayagraj.
+
+**Ans: A.** Kannauj and Prayagraj
+</details>
+
+5. Jaunpur city was nicknamed "Shiraz-e-Hind" during the reign of which Sharqi ruler?
+   (A) Malik Sarwar
+   (B) Mubarak Shah
+   (C) Ibrahim Shah Sharqi
+   (D) Hussain Shah Sharqi
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Under Ibrahim Shah Sharqi (1402–1440 CE), Jaunpur became the pre-eminent Islamic seat of learning, art, literature, and Islamic architecture in India, earning the title "Shiraz-e-Hind" (after the cultural Persian city o…
+
+**Ans: C.** Ibrahim Shah Sharqi
+</details>
+
+6. The famous 'Panch Mahal' at Fatehpur Sikri, built by Akbar, is architecturally based on which structural design?
+   (A) Persian Chahar-Bagh Pavilion
+   (B) Buddhist Vihara / Monastic Pagoda layout
+   (C) Gujarati Wooden Haveli
+   (D) Rajput Jharokha System
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Panch Mahal at Fatehpur Sikri is a 5-storeyed columnar pavilion that tapers upwards in a pyramidal shape, directly inspired by the traditional multi-tiered Buddhist Vihara architecture.
+
+**Ans: B.** Buddhist Vihara / Monastic Pagoda layout
+</details>
+
+7. Which Mughal monument in Uttar Pradesh was the very first to introduce the extensive use of white marble and the 'Pietra Dura' inlay technique?
+   (A) Humayun's Tomb
+   (B) Taj Mahal
+   (C) Tomb of Itimad-ud-Daulah (Agra)
+   (D) Moti Masjid (Agra Fort)
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Built between 1622 and 1628 by Empress Nur Jahan for her father Mirza Ghiyas Beg (Itimad-ud-Daulah), this Agra mausoleum was the first fully white-marble Mughal monument to employ intricate pietra dura floral inlays.
+
+**Ans: C.** Tomb of Itimad-ud-Daulah (Agra)
+</details>
+
+8. In which year did Nawab Asaf-ud-Daula transfer the capital of the Nawabi Kingdom of Awadh from Faizabad to Lucknow?
+   (A) 1764
+   (B) 1775
+   (C) 1784
+   (D) 1801
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Upon succeeding Shuja-ud-Daula in 1775, Nawab Asaf-ud-Daula shifted the Awadh capital from Faizabad to Lucknow to break free from the influence of the dowager Begums of Awadh.
+
+**Ans: B.** 1775
+</details>
+
+9. Under which official British pretext was the state of Awadh annexed by Lord Dalhousie on 13 February 1856?
+   (A) Doctrine of Lapse
+   (B) Non-payment of Subsidiary Alliance dues
+   (C) Alleged internal misgovernance and administrative misrule
+   (D) Treason against the East India Company
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Since Nawab Wajid Ali Shah had legitimate heirs, the Doctrine of Lapse could not be applied.
+
+**Ans: C.** Alleged internal misgovernance and administrative misrule
+</details>
+
+10. Who was the British Officer in command of the Kanpur garrison who surrendered to Nana Sahib's forces during the 1857 Uprising?
+   (A) Sir Henry Lawrence
+   (B) Major-General Sir Hugh Wheeler
+   (C) General James Neill
+   (D) Sir Colin Campbell
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Major-General Sir Hugh Wheeler commanded the British garrison entrenchment at Kanpur during the June 1857 siege before surrendering to Nana Sahib's forces.
+
+**Ans: B.** Major-General Sir Hugh Wheeler
+</details>
+
+11. Who among the following leaders of the 1857 Revolt operated primarily from Khusro Bagh in Allahabad?
+   (A) Maulvi Ahmadullah Shah
+   (B) Maulvi Liaquat Ali
+   (C) Khan Bahadur Khan
+   (D) Bakht Khan
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Maulvi Liaquat Ali, a schoolteacher from Mahgaon (Prayagraj), took over the headquarters at Khusro Bagh and declared himself the Governor of Allahabad under Emperor Bahadur Shah Zafar.
+
+**Ans: B.** Maulvi Liaquat Ali
+</details>
+
+12. In which historic park of Allahabad (Prayagraj) did Lord Canning read out Queen Victoria's Proclamation on 1 November 1858?
+   (A) Alfred Park
+   (B) Minto Park
+   (C) Bharadwaj Ashram Park
+   (D) Company Bagh
+<details>
+<summary>Show answer</summary>
+
+**Logic:** On 1 November 1858, Lord Canning read out the Royal Proclamation of Queen Victoria at a grand imperial Durbar in Minto Park (now Madan Mohan Malaviya Park), Allahabad, inaugurating direct Crown rule.
+
+**Ans: B.** Minto Park
+</details>
+
+13. Who was the Congress President when the historic Lucknow Pact was finalized between the Indian National Congress and the Muslim League in 1916?
+   (A) Ambica Charan Mazumdar
+   (B) Gopal Krishna Gokhale
+   (C) Rash Behari Ghosh
+   (D) Bal Gangadhar Tilak
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Ambica Charan Mazumdar presided over the 31st Annual Session of the INC at Lucknow in 1916, which formalized the reunion of Moderates and Extremists and the signing of the joint Congress-League Lucknow Pact.
+
+**Ans: A.** Ambica Charan Mazumdar
+</details>
+
+14. The 'Oudh Kisan Sabha' was founded in October 1920 in which district of Uttar Pradesh?
+   (A) Prayagraj
+   (B) Pratapgarh
+   (C) Rae Bareli
+   (D) Sultanpur
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Oudh Kisan Sabha was established in October 1920 at Rure village in Pratapgarh district by Baba Ramchandra, Jawaharlal Nehru, and Mata Badal Pande to unite the peasantry against oppressive landlords.
+
+**Ans: B.** Pratapgarh
+</details>
+
+15. The radical 'Eka Movement' (1921–1922) of Uttar Pradesh peasant farmers was spearheaded under the leadership of:
+   (A) Baba Ramchandra
+   (B) Madari Pasi
+   (C) Sahajanand Saraswati
+   (D) Chittu Pandey
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Eka (Unity) Movement was launched in Hardoi, Bahraich, Sitapur, and Barabanki by peasant leader Madari Pasi.
+
+**Ans: B.** Madari Pasi
+</details>
+
+16. Following the tragic Chauri Chaura incident on 4 February 1922, Mahatma Gandhi convened the Congress Working Committee to withdraw the Non-Cooperation Movement at which place on 12 February 1922?
+   (A) Gorakhpur
+   (B) Bardoli
+   (C) Wardha
+   (D) Sabarmati
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Mahatma Gandhi called an emergency meeting of the Congress Working Committee at Bardoli (Gujarat) on 12 February 1922, passing the famous 'Bardoli Resolution' that halted the nationwide Non-Cooperation Movement.
+
+**Ans: B.** Bardoli
+</details>
+
+17. Revolutionary leader Rajendra Nath Lahiri was executed by hanging in connection with the Kakori Train Action in which jail of UP?
+   (A) Gorakhpur Jail
+   (B) Faizabad Jail
+   (C) Gonda Jail
+   (D) Naini Central Jail
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Rajendra Nath Lahiri was hanged on 17 December 1927 in Gonda Jail (two days prior to the scheduled date of 19 December) due to British fears of a jailbreak rescue attempt by HRA cadres.
+
+**Ans: C.** Gonda Jail
+</details>
+
+18. On 27 February 1931, revolutionary hero Chandrashekhar Azad attained martyrdom in an encounter with British police at:
+   (A) Company Bagh, Kanpur
+   (B) Alfred Park, Prayagraj
+   (C) Victoria Park, Meerut
+   (D) Sikandar Bagh, Lucknow
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Betrayed by an informant, Chandrashekhar Azad was encircled by armed police led by J.R.H.
+
+**Ans: B.** Alfred Park, Prayagraj
+</details>
+
+19. Which classical Kathak maestro was conferred the Padma Vibhushan and belonged to the illustrious Kalka-Bindadin lineage of the Lucknow Gharana?
+   (A) Pandit Birju Maharaj
+   (B) Ustad Zakir Hussain
+   (C) Pandit Jasraj
+   (D) Guru Kelucharan Mohapatra
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Pandit Birju Maharaj (Brijmohan Nath Mishra, 1938–2022) was the torchbearer of the Lucknow Kalka-Bindadin Gharana of Kathak dance, renowned globally for his expressive abhinaya and rhythm mastery.
+
+**Ans: A.** Pandit Birju Maharaj
+</details>
+
+20. The Kirana Gharana of Hindustani classical music takes its name from a town located in which modern district of Uttar Pradesh?
+   (A) Shamli (Muzaffarnagar)
+   (B) Aligarh
+   (C) Varanasi
+   (D) Agra
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Kirana Gharana originated in the town of Kairana (Kirana), which is currently situated in Shamli district (carved out of Muzaffarnagar) in western Uttar Pradesh.
+
+**Ans: A.** Shamli (Muzaffarnagar)
+</details>
+
+21. 'Girija Devi', the celebrated doyenne of the Banaras Gharana, was universally acclaimed as the uncrowned queen of which classical vocal genre?
+   (A) Dhrupad
+   (B) Thumri
+   (C) Tarana
+   (D) Ghazal
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Girija Devi (1929–2017) of the Banaras Gharana was fondly revered as the "Queen of Thumri" (Thumri Samragyi) for elevating Poorab Ang Thumri, Dadra, Chaiti, and Kajri to classical heights.
+
+**Ans: B.** Thumri
+</details>
+
+22. 'Rai Dance' is an iconic folk dance associated with which geographical/cultural region of Uttar Pradesh?
+   (A) Bundelkhand
+   (B) Braj
+   (C) Purvanchal
+   (D) Rohilkhand
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Rai Dance is a fast-paced peacock-mimicking folk dance performed by women of the Beriya community in the Bundelkhand region during auspicious celebrations and religious festivals.
+
+**Ans: A.** Bundelkhand
+</details>
+
+23. The heroic ballad 'Alha', which narrates the chivalric exploits of warriors Alha and Udal, is sung in which dialect of UP?
+   (A) Brajbhasha
+   (B) Banaffari (Bundelkhandi)
+   (C) Bhojpuri
+   (D) Awadhi
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Alha ballads are composed and sung in the Banaffari dialect of Bundelkhandi.
+
+**Ans: B.** Banaffari (Bundelkhandi)
+</details>
+
+24. The famous 'Dewa Sharif Fair' is organized annually at the holy shrine of Sufi Saint Haji Waris Ali Shah in which district of Uttar Pradesh?
+   (A) Bahraich
+   (B) Barabanki
+   (C) Sitapur
+   (D) Badaun
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Dewa Sharif is situated 12 km from Barabanki.
+
+**Ans: B.** Barabanki
+</details>
+
+25. The traditional 'Nautanki' folk theatre in Uttar Pradesh developed into two prominent contrasting schools. Which school is characterized by classical metrical poetry and musical virtuosity?
+   (A) Kanpur School
+   (B) Hathras School
+   (C) Lucknow School
+   (D) Varanasi School
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Hathras School (founded by Pandit Natharam Gaur) emphasizes classical ragas, high-pitched singing, and metrical poetic verses (Doha, Chaubola, Chhand).
+
+**Ans: B.** Hathras School
+</details>
+
+26. In which year was the sacred 'Kumbh Mela' of Prayagraj officially inscribed on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity?
+   (A) 2008
+   (B) 2012
+   (C) 2017
+   (D) 2021
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Kumbh Mela of Prayagraj (along with Haridwar, Ujjain, and Nashik) was inscribed on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity in December 2017, recognized as the world's largest pea…
+
+**Ans: C.** 2017
+</details>
+
+## Common Traps
+
+| Trap | Correct |
+|---|---|
+| Mixing Absolute vs % ranks | Match the stem metric first |
+
+---
 

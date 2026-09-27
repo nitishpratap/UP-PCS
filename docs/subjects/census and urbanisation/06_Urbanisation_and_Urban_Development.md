@@ -184,6 +184,88 @@ Under the Census of India, an Urban Area is defined through a two-fold classific
 
 ---
 
+## Bilingual Terminology -- Urbanisation and Urban Development
+
+| English Term | Hindi Term | Key Anchor |
+|---|---|---|
+| **Urbanisation** (नगरीकरण) | नगरीकरण / शहरीकरण | Process of population shift from rural to urban areas |
+| **Urban Agglomeration (UA)** | नगरीय संकुल | Continuous urban spread beyond one city's municipal limit |
+| **Census Town** | जनगणना नगर | 5,000+ pop; 75%+ male non-agri workers; density 400+/km2 |
+| **Statutory Town** | विधिक/वैधानिक नगर | Notified by State law (municipality, cantonment, notified area) |
+| **Metropolitan City** | महानगर | Population 10 lakh (1 million) and above |
+| **Million-Plus City** | दस लाख से अधिक जनसंख्या वाला शहर | 26 such cities in India (Census 2011) |
+| **Primate City** | प्रमुख नगर | Disproportionately large city dominating a country/region |
+| **Slum** (झुग्गी-बस्ती) | मलिन बस्ती / झुग्गी-झोपड़ी | Residential area lacking basic services; low-quality housing |
+| **Counter-urbanisation** | प्रति-नगरीकरण | Population movement from cities back to smaller towns/rural areas |
+| **Suburbanisation** | उपनगरीकरण | Growth of areas on city outskirts (suburbs) |
+| **Urban Sprawl** | नगरीय प्रसार | Uncontrolled expansion of city into surrounding areas |
+| **Smart City** | स्मार्ट सिटी | Technology-driven, citizen-centric sustainable urban development |
+| **AMRUT** | AMRUT (अटल मिशन कायाकल्प एवं नगर परिवर्तन) | Atal Mission for Rejuvenation and Urban Transformation |
+| **PMAY-Urban** | प्रधानमंत्री आवास योजना (शहरी) | Housing for All scheme targeting urban homeless |
+| **Urban Local Body (ULB)** | शहरी स्थानीय निकाय | Municipal bodies governing urban areas (Article 243P-243ZG) |
+
+---
+
+## Extended Theory -- Urban Classification and Urbanisation in India
+
+### Census Definition of an Urban Area (Census 2011)
+
+For Census 2011, **urban areas** are classified as:
+
+**Type A: Statutory Towns** -- Places having a municipality, corporation, cantonment board, or notified town area committee.
+
+**Type B: Census Towns** -- All places satisfying ALL three criteria:
+1. Minimum population of **5,000**
+2. At least **75% of male main working population** engaged in **non-agricultural** pursuits
+3. Population density of at least **400 persons per square kilometer**
+
+```
+        INDIA'S URBAN SETTLEMENT HIERARCHY (Census 2011)
+        --------------------------------------------------
+        
+        CLASS I  (1,00,000+)   -- 468 towns
+        CLASS II (50,000-99,999) -- 410 towns
+        CLASS III (20,000-49,999) -- 993 towns
+        CLASS IV  (10,000-19,999) -- 1,344 towns
+        CLASS V   (5,000-9,999)  -- 888 towns
+        CLASS VI  (< 5,000)      -- 394 towns
+        
+        TOTAL TOWNS (2011): 7,935 [up from 5,161 in 2001]
+        URBAN AGGLOMERATIONS (2011): 475
+        MILLION-PLUS CITIES (2011): 26 [up from 16 in 2001]
+```
+
+### Million-Plus Cities in India (Census 2011) -- Top 10
+
+| Rank | City / UA | Population (in Lakh) |
+|---|---|---|
+| 1 | **Mumbai** (Greater Mumbai UA) | 184.14 |
+| 2 | **Delhi** | 163.14 |
+| 3 | **Kolkata** | 141.12 |
+| 4 | **Chennai** | 86.53 |
+| 5 | **Bengaluru** | 84.26 |
+| 6 | **Hyderabad** | 77.49 |
+| 7 | **Ahmedabad** | 63.57 |
+| 8 | **Pune** | 50.57 |
+| 9 | **Surat** | 44.62 |
+| 10 | **Jaipur** | 30.73 |
+
+**In UP (Million+ cities 2011):** Lucknow, Kanpur, Ghaziabad, Agra, Varanasi, Meerut, Allahabad (Prayagraj).
+
+### Key Urban Schemes (नगरीय योजनाएँ)
+
+| Scheme | Full Name | Year | Key Target |
+|---|---|---|---|
+| **JNNURM** | Jawaharlal Nehru National Urban Renewal Mission | 2005 | Infrastructure and governance in 65 mission cities |
+| **AMRUT** | Atal Mission for Rejuvenation and Urban Transformation | 2015 | Basic services (water, sanitation) in 500 cities |
+| **Smart Cities Mission** | Smart Cities Mission | 2015 | 100 smart cities; technology integration |
+| **PMAY-U** | PM Awas Yojana (Urban) -- Housing for All | 2015 | Affordable housing for urban poor by 2022 |
+| **SBM-U** | Swachh Bharat Mission (Urban) | 2014 | Open defecation-free (ODF) urban areas |
+| **HRIDAY** | Heritage City Development and Augmentation Yojana | 2015 | Preservation of 12 heritage cities |
+| **RERA** | Real Estate (Regulation and Development) Act | 2016 | Consumer protection in real estate sector |
+
+---
+
 ## Complete PYQ Bank (UPPCS)
 
 > Verified stems from UPPCS Prelims (and closely related UP papers). Extra Drill follows.
@@ -230,12 +312,11 @@ D. H. Spencer
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Srinivas is the trap (Sanskritisation/village studies). Ghurye elaborated the Indian rurban continuum.
+**Logic:** Srinivas is the trap (Sanskritisation/village studies).
 
 **Ans: C.** G. S. Ghurye (Anatomy of a Rururban Community, 1963).
 
 </details>
-
 
 ---
 
@@ -253,10 +334,9 @@ D. 35%
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 31.16% urban; Goa/Mizoram/TN high; Himachal/Bihar low among major States.
+**Logic:** Standard key matches 31%.
 
-**Ans: C.** ~31%.
-
+**Ans: C.** 31%
 </details>
 
 **Q2. Standard multi-PSC**
@@ -291,9 +371,7 @@ D. Chennai
 
 </details>
 
-
 ---
-
 
 ### Other Papers — BPSC / MPPSC / RAS / UKPCS / UPSC / WBCS
 
@@ -364,6 +442,129 @@ D. India < China < UK < USA
 **Ans: B.** India < China < USA < UK.
 
 </details>
+
+## UKPCS / MPPSC / RAS Extra Drill -- Urbanisation
+
+**Q1. UKPCS (Pre) 2022**
+As per Census 2011, the total number of towns in India (statutory + census towns) was approximately:
+A. 5,161
+B. 6,500
+C. 7,935
+D. 10,000
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches 7,935.
+
+**Ans: C.** 7,935
+</details>
+
+**Q2. MPPSC (Pre) 2020**
+For a place to be classified as a 'Census Town' in India, the minimum required density is:
+A. 200 persons per sq km
+B. 300 persons per sq km
+C. 400 persons per sq km
+D. 500 persons per sq km
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** All three conditions must be met: (1) population ≥ 5,000, (2) ≥ 75% male main workers in non-agricultural activities, (3) density ≥ **400 persons per km2**.
+
+**Ans: C.** 400 persons per sq km.
+
+</details>
+
+**Q3. RAS (Pre) 2021**
+How many million-plus cities (population ≥ 10 lakh) were recorded in India as per Census 2011?
+A. 16
+B. 20
+C. 26
+D. 35
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches 26.
+
+**Ans: C.** 26
+</details>
+
+**Q4. UKPCS (Pre) 2020**
+Which mission was launched by the Government of India in 2015 to develop 100 smart cities?
+A. AMRUT Mission
+B. Smart Cities Mission
+C. JNNURM
+D. HRIDAY
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Smart Cities Mission was launched in June 2015 alongside AMRUT.
+
+**Ans: B.** Smart Cities Mission (2015).
+
+</details>
+
+**Q5. MPPSC (Pre) 2021**
+Which Indian State has the highest urban population percentage (level of urbanisation) as per Census 2011?
+A. Tamil Nadu
+B. Maharashtra
+C. Goa
+D. Kerala
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Goa leads with 62.2% urban population.
+
+**Ans: C.** Goa (62.2%).
+
+</details>
+
+**Q6. RAS (Pre) 2022**
+Under which Article(s) of the Indian Constitution are Urban Local Bodies (Municipalities) governed?
+A. Articles 243A to 243O
+B. Articles 243P to 243ZG
+C. Articles 234 to 243
+D. Articles 243ZH to 243ZT
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 74th Constitutional Amendment (1992) inserted Part IX-A (Articles 243P to 243ZG) for Municipalities.
+
+**Ans: B.** Articles 243P to 243ZG.
+
+</details>
+
+---
+
+## One-Liner Revision -- Urbanisation
+
+| # | Fast Fact |
+|---|---|
+| 1 | Urban population India (2011) = **31.16%** (up from 27.81% in 2001) |
+| 2 | Total towns India (2011) = **7,935** (up from 5,161 in 2001) |
+| 3 | Million-plus cities (2011) = **26** (up from 16 in 2001) |
+| 4 | Largest UA = **Mumbai (184.14 lakh)** |
+| 5 | 2nd largest UA = **Delhi (163.14 lakh)** |
+| 6 | Most urbanised State = **Goa (62.2%)** |
+| 7 | Least urbanised State = **Himachal Pradesh (10.0%)** |
+| 8 | Census Town criteria: pop ≥5,000 + ≥75% male non-agri + density ≥400/km2 |
+| 9 | Metropolitan city = population **≥10 lakh (1 million)** |
+| 10 | UP million+ cities (2011) = Lucknow, Kanpur, Ghaziabad, Agra, Varanasi, Meerut, Prayagraj |
+| 11 | Smart Cities Mission (2015) = **100 cities** |
+| 12 | AMRUT (2015) = **500 cities** for basic services |
+| 13 | JNNURM (2005) = **65 mission cities** |
+| 14 | PMAY-Urban (2015) = Housing for All for urban poor |
+| 15 | 74th Amendment (1992) = **Part IX-A** = Urban Local Bodies (Arts 243P-243ZG) |
+| 16 | Urban Agglomeration (UA) = continuous urban spread beyond one city's limit |
+| 17 | Urban sprawl = uncontrolled city expansion into surrounding areas |
+| 18 | UP has 2nd largest absolute urban population after Maharashtra |
+| 19 | HRIDAY (2015) = Heritage City Development -- **12 heritage cities** |
+| 20 | SBM-Urban (2014) = Open Defecation Free (ODF) urban India target |
 
 ## Practice Zone
 
@@ -436,7 +637,8 @@ D. 29 items
 <summary>Show answer</summary>
 
 **Ans: B. 18 items**  
-**Logic:** The Twelfth Schedule added by the 74th Amendment specifies 18 functional matters for Municipalities (e.g. urban planning, fire services, roads, water supply, public health).
+**Logic:** The Twelfth Schedule added by the 74th Amendment specifies 18 functional matters for Municipalities (e.g.
+
 </details>
 
 7. Which Indian State has the highest slum population according to Census 2011?
@@ -652,7 +854,8 @@ D. Prayagraj (Allahabad)
 <summary>Show answer</summary>
 
 **Ans: B. Bareilly**  
-**Logic:** The 7 Million-Plus cities in UP are Kanpur, Lucknow, Ghaziabad, Agra, Varanasi, Meerut, and Prayagraj. Bareilly had a population of approx. 9.0 Lakh in 2011.
+**Logic:** The 7 Million-Plus cities in UP are Kanpur, Lucknow, Ghaziabad, Agra, Varanasi, Meerut, and Prayagraj.
+
 </details>
 
 25. The term 'Megalopolis' was coined by Jean Gottmann in 1961 to describe which continuous urban corridor?
@@ -664,7 +867,8 @@ D. Mumbai–Pune in India
 <summary>Show answer</summary>
 
 **Ans: B. Boston–New York–Philadelphia–Washington D.C. in the United States**  
-**Logic:** Jean Gottmann applied the term Megalopolis in 1961 to the 500-mile heavily urbanized Atlantic seaboard corridor from Boston to Washington D.C. (BosWash).
+**Logic:** Jean Gottmann applied the term Megalopolis in 1961 to the 500-mile heavily urbanized Atlantic seaboard corridor from Boston to Washington D.C.
+
 </details>
 
 26. What is the minimum population required for a compact urban settlement to be surveyed and identified as a 'Slum' in the Indian Census?
@@ -687,213 +891,5 @@ D. 5,000 persons
 |---|---|
 | Mixing Absolute vs % ranks | Match the stem metric first |
 
-
 ---
-
-## Bilingual Terminology -- Urbanisation and Urban Development
-
-| English Term | Hindi Term | Key Anchor |
-|---|---|---|
-| **Urbanisation** (नगरीकरण) | नगरीकरण / शहरीकरण | Process of population shift from rural to urban areas |
-| **Urban Agglomeration (UA)** | नगरीय संकुल | Continuous urban spread beyond one city's municipal limit |
-| **Census Town** | जनगणना नगर | 5,000+ pop; 75%+ male non-agri workers; density 400+/km2 |
-| **Statutory Town** | विधिक/वैधानिक नगर | Notified by State law (municipality, cantonment, notified area) |
-| **Metropolitan City** | महानगर | Population 10 lakh (1 million) and above |
-| **Million-Plus City** | दस लाख से अधिक जनसंख्या वाला शहर | 26 such cities in India (Census 2011) |
-| **Primate City** | प्रमुख नगर | Disproportionately large city dominating a country/region |
-| **Slum** (झुग्गी-बस्ती) | मलिन बस्ती / झुग्गी-झोपड़ी | Residential area lacking basic services; low-quality housing |
-| **Counter-urbanisation** | प्रति-नगरीकरण | Population movement from cities back to smaller towns/rural areas |
-| **Suburbanisation** | उपनगरीकरण | Growth of areas on city outskirts (suburbs) |
-| **Urban Sprawl** | नगरीय प्रसार | Uncontrolled expansion of city into surrounding areas |
-| **Smart City** | स्मार्ट सिटी | Technology-driven, citizen-centric sustainable urban development |
-| **AMRUT** | AMRUT (अटल मिशन कायाकल्प एवं नगर परिवर्तन) | Atal Mission for Rejuvenation and Urban Transformation |
-| **PMAY-Urban** | प्रधानमंत्री आवास योजना (शहरी) | Housing for All scheme targeting urban homeless |
-| **Urban Local Body (ULB)** | शहरी स्थानीय निकाय | Municipal bodies governing urban areas (Article 243P-243ZG) |
-
----
-
-## Extended Theory -- Urban Classification and Urbanisation in India
-
-### Census Definition of an Urban Area (Census 2011)
-
-For Census 2011, **urban areas** are classified as:
-
-**Type A: Statutory Towns** -- Places having a municipality, corporation, cantonment board, or notified town area committee.
-
-**Type B: Census Towns** -- All places satisfying ALL three criteria:
-1. Minimum population of **5,000**
-2. At least **75% of male main working population** engaged in **non-agricultural** pursuits
-3. Population density of at least **400 persons per square kilometer**
-
-```
-        INDIA'S URBAN SETTLEMENT HIERARCHY (Census 2011)
-        --------------------------------------------------
-        
-        CLASS I  (1,00,000+)   -- 468 towns
-        CLASS II (50,000-99,999) -- 410 towns
-        CLASS III (20,000-49,999) -- 993 towns
-        CLASS IV  (10,000-19,999) -- 1,344 towns
-        CLASS V   (5,000-9,999)  -- 888 towns
-        CLASS VI  (< 5,000)      -- 394 towns
-        
-        TOTAL TOWNS (2011): 7,935 [up from 5,161 in 2001]
-        URBAN AGGLOMERATIONS (2011): 475
-        MILLION-PLUS CITIES (2011): 26 [up from 16 in 2001]
-```
-
-### Million-Plus Cities in India (Census 2011) -- Top 10
-
-| Rank | City / UA | Population (in Lakh) |
-|---|---|---|
-| 1 | **Mumbai** (Greater Mumbai UA) | 184.14 |
-| 2 | **Delhi** | 163.14 |
-| 3 | **Kolkata** | 141.12 |
-| 4 | **Chennai** | 86.53 |
-| 5 | **Bengaluru** | 84.26 |
-| 6 | **Hyderabad** | 77.49 |
-| 7 | **Ahmedabad** | 63.57 |
-| 8 | **Pune** | 50.57 |
-| 9 | **Surat** | 44.62 |
-| 10 | **Jaipur** | 30.73 |
-
-**In UP (Million+ cities 2011):** Lucknow, Kanpur, Ghaziabad, Agra, Varanasi, Meerut, Allahabad (Prayagraj).
-
-### Key Urban Schemes (नगरीय योजनाएँ)
-
-| Scheme | Full Name | Year | Key Target |
-|---|---|---|---|
-| **JNNURM** | Jawaharlal Nehru National Urban Renewal Mission | 2005 | Infrastructure and governance in 65 mission cities |
-| **AMRUT** | Atal Mission for Rejuvenation and Urban Transformation | 2015 | Basic services (water, sanitation) in 500 cities |
-| **Smart Cities Mission** | Smart Cities Mission | 2015 | 100 smart cities; technology integration |
-| **PMAY-U** | PM Awas Yojana (Urban) -- Housing for All | 2015 | Affordable housing for urban poor by 2022 |
-| **SBM-U** | Swachh Bharat Mission (Urban) | 2014 | Open defecation-free (ODF) urban areas |
-| **HRIDAY** | Heritage City Development and Augmentation Yojana | 2015 | Preservation of 12 heritage cities |
-| **RERA** | Real Estate (Regulation and Development) Act | 2016 | Consumer protection in real estate sector |
-
----
-
-## UKPCS / MPPSC / RAS Extra Drill -- Urbanisation
-
-**Q1. UKPCS (Pre) 2022**
-As per Census 2011, the total number of towns in India (statutory + census towns) was approximately:
-A. 5,161
-B. 6,500
-C. 7,935
-D. 10,000
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Census 2011 recorded 7,935 towns (statutory + census towns combined), a massive increase from 5,161 in 2001. The increase was partly due to reclassification of villages as census towns.
-
-**Ans: C.** 7,935.
-
-</details>
-
-**Q2. MPPSC (Pre) 2020**
-For a place to be classified as a 'Census Town' in India, the minimum required density is:
-A. 200 persons per sq km
-B. 300 persons per sq km
-C. 400 persons per sq km
-D. 500 persons per sq km
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** All three conditions must be met: (1) population ≥ 5,000, (2) ≥ 75% male main workers in non-agricultural activities, (3) density ≥ **400 persons per km2**.
-
-**Ans: C.** 400 persons per sq km.
-
-</details>
-
-**Q3. RAS (Pre) 2021**
-How many million-plus cities (population ≥ 10 lakh) were recorded in India as per Census 2011?
-A. 16
-B. 20
-C. 26
-D. 35
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Census 2011 had **26 million-plus cities** -- up from 16 in 2001. The top three were Mumbai, Delhi, and Kolkata.
-
-**Ans: C.** 26.
-
-</details>
-
-**Q4. UKPCS (Pre) 2020**
-Which mission was launched by the Government of India in 2015 to develop 100 smart cities?
-A. AMRUT Mission
-B. Smart Cities Mission
-C. JNNURM
-D. HRIDAY
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Smart Cities Mission was launched in June 2015 alongside AMRUT. JNNURM was the precursor (2005-14). HRIDAY targets heritage cities, not smart cities.
-
-**Ans: B.** Smart Cities Mission (2015).
-
-</details>
-
-**Q5. MPPSC (Pre) 2021**
-Which Indian State has the highest urban population percentage (level of urbanisation) as per Census 2011?
-A. Tamil Nadu
-B. Maharashtra
-C. Goa
-D. Kerala
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Goa leads with 62.2% urban population. It is a small State where most population is clustered in urban or semi-urban areas. Tamil Nadu (48.4%) is second among large States.
-
-**Ans: C.** Goa (62.2%).
-
-</details>
-
-**Q6. RAS (Pre) 2022**
-Under which Article(s) of the Indian Constitution are Urban Local Bodies (Municipalities) governed?
-A. Articles 243A to 243O
-B. Articles 243P to 243ZG
-C. Articles 234 to 243
-D. Articles 243ZH to 243ZT
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The 74th Constitutional Amendment (1992) inserted Part IX-A (Articles 243P to 243ZG) for Municipalities. Part IX (Articles 243 to 243O) covers Panchayats.
-
-**Ans: B.** Articles 243P to 243ZG.
-
-</details>
-
----
-
-## One-Liner Revision -- Urbanisation
-
-| # | Fast Fact |
-|---|---|
-| 1 | Urban population India (2011) = **31.16%** (up from 27.81% in 2001) |
-| 2 | Total towns India (2011) = **7,935** (up from 5,161 in 2001) |
-| 3 | Million-plus cities (2011) = **26** (up from 16 in 2001) |
-| 4 | Largest UA = **Mumbai (184.14 lakh)** |
-| 5 | 2nd largest UA = **Delhi (163.14 lakh)** |
-| 6 | Most urbanised State = **Goa (62.2%)** |
-| 7 | Least urbanised State = **Himachal Pradesh (10.0%)** |
-| 8 | Census Town criteria: pop ≥5,000 + ≥75% male non-agri + density ≥400/km2 |
-| 9 | Metropolitan city = population **≥10 lakh (1 million)** |
-| 10 | UP million+ cities (2011) = Lucknow, Kanpur, Ghaziabad, Agra, Varanasi, Meerut, Prayagraj |
-| 11 | Smart Cities Mission (2015) = **100 cities** |
-| 12 | AMRUT (2015) = **500 cities** for basic services |
-| 13 | JNNURM (2005) = **65 mission cities** |
-| 14 | PMAY-Urban (2015) = Housing for All for urban poor |
-| 15 | 74th Amendment (1992) = **Part IX-A** = Urban Local Bodies (Arts 243P-243ZG) |
-| 16 | Urban Agglomeration (UA) = continuous urban spread beyond one city's limit |
-| 17 | Urban sprawl = uncontrolled city expansion into surrounding areas |
-| 18 | UP has 2nd largest absolute urban population after Maharashtra |
-| 19 | HRIDAY (2015) = Heritage City Development -- **12 heritage cities** |
-| 20 | SBM-Urban (2014) = Open Defecation Free (ODF) urban India target |
 

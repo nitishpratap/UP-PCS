@@ -204,7 +204,6 @@
 
 ---
 
-
 ### Table 2B: Alpha ($\alpha$), Beta ($\beta$) and Gamma ($\gamma$) Radiation Master Comparison
 | Parameter / Property | $\alpha$-Particles | $\beta$-Particles | $\gamma$-Rays |
 | :--- | :--- | :--- | :--- |
@@ -243,7 +242,6 @@
 | **104** | Rutherfordium | $Rf$ | **110** | Darmstadtium | $Ds$ | **116** | Livermorium | $Lv$ |
 | **105** | Dubnium | $Db$ | **111** | Roentgenium | $Rg$ | **117** | Tennessine | $Ts$ |
 | **106** | Seaborgium | $Sg$ | **112** | Copernicium | $Cn$ | **118** | Oganesson | $Og$ |
-
 
 ### Table 3: Summary of Periodic Trends Across Periods and Down Groups
 
@@ -358,9 +356,34 @@
 
 ---
 
+## Bilingual Terminology -- Atomic Structure and Periodic Table
+
+| English Term | Hindi Term | Key Anchor |
+|---|---|---|
+| **Atom** (परमाणु) | परमाणु | Smallest particle of element retaining chemical properties |
+| **Atomic Number** (परमाणु क्रमांक) | परमाणु संख्या | Number of protons; unique identifier of element |
+| **Atomic Mass** (परमाणु द्रव्यमान) | परमाणु द्रव्यमान | Protons + neutrons (roughly); measured in amu |
+| **Valence Electrons** (संयोजकता इलेक्ट्रॉन) | संयोजी इलेक्ट्रॉन | Electrons in outermost shell; determine chemical behaviour |
+| **Periodic Table** (आवर्त सारणी) | आवर्त सारणी | Arrangement of elements by atomic number; Mendeleev (1869) |
+| **Period** (आवर्त) | आवर्त | Horizontal row of periodic table; 7 periods |
+| **Group** (समूह) | समूह / वर्ग | Vertical column; 18 groups; same valence electrons = similar properties |
+| **Metals** (धातु) | धातु | Left and centre of table; conductors, lustrous, malleable |
+| **Non-metals** (अधातु) | अधातु | Right side; insulators; brittle; e.g., O, N, S, Cl, P |
+| **Metalloids** (उपधातु) | उपधातु | Properties between metals and non-metals; Si, Ge, As |
+| **Noble Gases** (उत्कृष्ट गैस) | अक्रिय गैस / उत्कृष्ट गैस | Group 18; completely filled shells; extremely unreactive |
+| **Alkali Metals** (क्षार धातु) | क्षार धातु | Group 1 (Li, Na, K, Rb, Cs, Fr); 1 valence e-; very reactive |
+| **Alkaline Earth Metals** (क्षारीय मृदा धातु) | क्षारीय मृदा धातु | Group 2 (Be, Mg, Ca, Sr, Ba, Ra); 2 valence e- |
+| **Halogens** (हैलोजन) | हैलोजन | Group 17 (F, Cl, Br, I, At); 7 valence e-; very reactive |
+| **Transition Metals** (संक्रमण धातु) | संक्रमण तत्त्व | Groups 3-12; d-block; variable valency; coloured compounds |
+| **Electronegativity** (विद्युत-ऋणात्मकता) | विद्युत-ऋणात्मकता | Ability to attract electrons in bond; increases across period (right); decreases down group |
+
+---
+
 ## Complete PYQ Bank — UPPCS & UP RO/ARO
 
-**Q1. (U.P. P.C.S. (Pre) 1996 · 41st B.P.S.C. (Pre) 1996 · 43rd B.P.S.C. (Pre) 1999)** Constituents of atomic nucleus are –
+**Q-ST1. UPPCS (Pre) 1996 · 41st B.P.S.C. (Pre) 1996 · 43rd B.P.S.C. (Pre) 1999**
+
+Constituents of atomic nucleus are –
 - (A) Electron and proton
 - (B) Electron and neutron
 
@@ -371,16 +394,14 @@ See the explanation of above question.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (C)
-- **Must-Score Points:**
-  - The constituents of an atom are protons, neutrons and
-  - electrons. The protons and neutrons (nucleons) are found in
-  - the nucleus of atoms. The nucleus of an atom is surrounded
-  - by electrons.
+**Logic:** Standard key matches Proton and neutron.
+
+**Ans: C.** Proton and neutron
 </details>
 
+**Q-ST2. UP RO/ARO (Pre) 2023**
 
-**Q2. (U.P. R.O./A.R.O. (Pre) 2023)** Consider the following events and arrange them in
+Consider the following events and arrange them in
 
 correct chronological order starting from the earliest
 
@@ -405,23 +426,14 @@ Code :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - (I) Discovery of pi meson – 1947 (by Cecil Powell)
-  - (II) Discovery of neutron – 1932 (by James Chadwick)
-  - (III) Discovery of electron – 1897 (by J.J. Thomson)
-  - (IV) Discovery of proton – 1919 (by Rutherford)
-  - Hence, the correct chronological order is III, IV, II, I which
-  - is given in option (b).
-  - Note : Proton was first observed by Goldstein as canal/anode
-  - rays (1886) and finally identified as the hydrogen nucleus and
-  - named by Rutherford (1917-1920). If the credit of proton
-  - discovery is given to Goldstein then the correct chronological
-  - order will be IV, III, II, I which is not given in any option.
+**Logic:** Standard key matches (III), (IV), (II), (I).
+
+**Ans: B.** (III), (IV), (II), (I)
 </details>
 
+**Q-ST3. Jharkhand P.C.S. (Pre) 2003 · UPPCS (Pre) 1996 · UPPCS (Pre) 1995**
 
-**Q3. (Jharkhand P.C.S. (Pre) 2003 · U.P.P.C.S. (Pre) 1996 · U.P.P.C.S. (Pre) 1995)** In atom, neutron was discovered by :
+In atom, neutron was discovered by :
 - (A) J.J. Thomson
 - (B) Chadwick
 - (C) Rutherford
@@ -430,18 +442,14 @@ Code :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - Neutron is a neutral particle which has no electrical charge.
-  - It was discovered by Chadwick in 1932. He discovered that
-  - when Beryllium (Be) or other atoms are bombarded with high
-  - speed particles, then electrically neutral particles emerges
-  - from these atoms and such neutral particles are known as
-  - neutrons.
+**Logic:** Standard key matches Chadwick.
+
+**Ans: B.** Chadwick
 </details>
 
+**Q-ST4. UPPCS (Pre) 2007**
 
-**Q4. (U.P.P.C.S. (Pre) 2007)** Which of the following is not a sub-atomic particle?
+Which of the following is not a sub-atomic particle?
 - (A) Neutron
 - (B) Proton
 - (C) Deuteron
@@ -450,15 +458,14 @@ Code :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (C)
-- **Must-Score Points:**
-  - The particles that are smaller than the atoms are called subatomic particles. The three main sub-atomic particles that
-  - form an atom are protons, neutrons and electrons. Deuteron
-  - contains a proton and a neutron.
+**Logic:** Standard key matches Deuteron.
+
+**Ans: C.** Deuteron
 </details>
 
+**Q-ST5. UPPCS (Mains) 2005**
 
-**Q5. (U.P.P.C.S. (Mains) 2005)** Which one of the following pairs constitutes particleantiparticle pair?
+Which one of the following pairs constitutes particleantiparticle pair?
 - (A) Electron - Positron
 - (B) Proton - Neutron
 - (C) Photon - Electron
@@ -467,15 +474,14 @@ Code :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (A)
-- **Must-Score Points:**
-  - The positron or antielectron is the antiparticle or the
-  - antimatter counterpart of the electron. The positron has an
-  - positive electric charge and has the same mass as an electron.
+**Logic:** Standard key matches Electron - Positron.
+
+**Ans: A.** Electron - Positron
 </details>
 
+**Q-ST6. UP RO/ARO (Mains) 2017**
 
-**Q6. (U.P. R.O./A.R.O. (Mains) 2017)** Which one is a fundamental particle?
+Which one is a fundamental particle?
 - (A) Neutron
 - (B) Proton
 - (C) π-meson
@@ -484,17 +490,14 @@ Code :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (D)
-- **Must-Score Points:**
-  - In particle physics, an elementary particle or fundamental
-  - particle is a subatomic particle with no sub-structure, thus not
-  - composed of other particles. Particles currently thought to be
-  - elementary include the fundamental fermions (quarks, leptons,
-  - antiquarks and antileptons) as well as fundamental bosons.
+**Logic:** Standard key matches Quark.
+
+**Ans: D.** Quark
 </details>
 
+**Q-ST7. U.P. U.D.A./L.D.A. (Pre) 2013**
 
-**Q7. (U.P. U.D.A./L.D.A. (Pre) 2013)** Much discussed 'God Particle' is :
+Much discussed 'God Particle' is :
 - (A) Neutrino
 - (B) Leptons
 - (C) Higgs boson
@@ -503,19 +506,14 @@ Code :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (C)
-- **Must-Score Points:**
-  - The Higgs Boson is an elementary particle in the standard
-  - model of particle physics. The hypothesis of its existence
-  - was given in 1964 but practically it was proved on March
-  - 14, 2013. In mainstream media the Higgs Boson has often
-  - been called the 'God particle'. The two physicists who
-  - discovered these particles Peter Higgs and Francois Englert
-  - were awarded the Nobel Prize in Physics in 2013.
+**Logic:** Standard key matches Higgs boson.
+
+**Ans: C.** Higgs boson
 </details>
 
+**Q-ST8. UPPCS (Pre) 2021**
 
-**Q8. (U.P. P.C.S. (Pre) 2021)** Which of the following particles has zero charge?
+Which of the following particles has zero charge?
 - (A) Positron
 - (B) Neutrino
 - (C) Electron
@@ -524,18 +522,14 @@ Code :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - A neutrino is a subatomic particle that is very similar to an
-  - electron, but has no electrical charge and a very small mass,
-  - which might even be zero. Neutrinos are one of the most
-  - abundant particles in the universe. Because they have very
-  - little interaction with matter, however, they are incredibly
-  - difficult to detect.
+**Logic:** Standard key matches Neutrino.
+
+**Ans: B.** Neutrino
 </details>
 
+**Q-ST9. UPPCS (Mains) 2009 · Chhattisgarh P.C.S. (Pre) 2005 · Uttarakhand U.D.A./L.D.A. (Pre) 2003**
 
-**Q9. (U.P.P.C.S. (Mains) 2009 · Chhattisgarh P.C.S. (Pre) 2005 · Uttarakhand U.D.A./L.D.A. (Pre) 2003)** The atoms, in which the number of protons is same but
+The atoms, in which the number of protons is same but
 
 the number of neutrons is different, are known as –
 - (A) Isobars
@@ -546,18 +540,14 @@ the number of neutrons is different, are known as –
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (D)
-- **Must-Score Points:**
-  - The Isotopes are a set of nuclides/atoms having the same
-  - number of protons, but a different number of neutrons. In
-  - other words, the same atomic number (Z) but having different
-  - mass number (A). Each individual isotope has a separate
-  - nuclei. The Isotopes that are unstable and undergo radioactive
-  - decay are called radioisotopes.
+**Logic:** Standard key matches Isotopes.
+
+**Ans: D.** Isotopes
 </details>
 
+**Q-ST10. UPPCS (Pre) 2025**
 
-**Q10. (U.P. P.C.S. (Pre) 2025)** With reference to Isotopes, which of the following
+With reference to Isotopes, which of the following
 
 statements is/are correct?
 
@@ -580,28 +570,14 @@ Code :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (D)
-- **Must-Score Points:**
-  - Statement 1 is correct. Atoms of the same element having
-  - the same atomic number (number of protons) but different
-  - mass number (due to different number of neutrons) are called
-  - isotopes. Therefore, their chemical properties are generally
-  - similar, while some physical properties (e.g., mass, stability)
-  - may differ. Examples: Oxygen-16, Oxygen-17 and
-  - Oxygen-18; Chlorine-35 and Chlorine-37, etc.
-  - Statement 2 is incorrect. Protium (1
-  - H1
-  - ), Deuterium (2
-  - H1
-  - ) and
-  - Tritium (3
-  - H1
-  - ) are isotopes of hydrogen, not carbon. The main
-  - isotopes of carbon are Carbon-12, Carbon-13 and Carbon-14.
+**Logic:** Standard key matches Only 1.
+
+**Ans: D.** Only 1
 </details>
 
+**Q-ST11. U.P. U.D.A./L.D.A. (Pre) 2001**
 
-**Q11. (U.P. U.D.A./L.D.A. (Pre) 2001)** Isotopes are those atoms of the same element which have–
+Isotopes are those atoms of the same element which have–
 - (A) Atomic mass is same but atomic number is different
 - (B) Atomic mass is different but atomic number is same
 - (C) Atomic number and atoms mass both are same
@@ -610,13 +586,14 @@ Code :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - See the explanation of above question.
+**Logic:** Standard key matches Atomic mass is different but atomic number is same.
+
+**Ans: B.** Atomic mass is different but atomic number is same
 </details>
 
+**Q-ST12. UPPSC (GIC) 2010**
 
-**Q12. (U.P.P.S.C. (GIC) 2010)** Radioactivity is measured by –
+Radioactivity is measured by –
 - (A) Hydrometer
 - (B) Geiger Counter
 - (C) Seismometer
@@ -625,17 +602,14 @@ Code :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - The Geiger–Muller Counter also called a Geiger Counter, is
-  - an instrument used for detection and measurement of ionizing
-  - radiation. It detects radiation such as alpha particles, beta
-  - particles and gamma rays using the ionization produced in a
-  - Geiger-Muller tube, which gives its name to the instrument.
+**Logic:** Standard key matches Geiger Counter.
+
+**Ans: B.** Geiger Counter
 </details>
 
+**Q-ST13. UPPCS (Mains) 2003**
 
-**Q13. (U.P.P.C.S. (Mains) 2003)** Radioactivity was discovered by :
+Radioactivity was discovered by :
 - (A) Rutherford
 - (B) Becquerel
 - (C) Bohr
@@ -644,15 +618,14 @@ Code :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - Radioactivity was discovered in 1896 by the French Scientist
-  - Henri Becquerel when he was working with phosphorescent
-  - materials.
+**Logic:** Standard key matches Becquerel.
+
+**Ans: B.** Becquerel
 </details>
 
+**Q-ST14. UPPCS (Pre) 2007**
 
-**Q14. (U.P.P.C.S. (Pre) 2007)** Which of the following is the most common element in
+Which of the following is the most common element in
 
 the Universe?
 - (A) Hydrogen
@@ -663,18 +636,14 @@ the Universe?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (A)
-- **Must-Score Points:**
-  - The most abundant element in the Universe is Hydrogen,
-  - which makes up about 3/4 of all matter. Helium makes up
-  - most of the remaining 1/4. Thus, it is clear that hydrogen is
-  - the most common and abundant element in the Universe.
-  - While the most abundant element in the Earth's crust is
-  - Oxygen making up 46.6% of Earth's crust.
+**Logic:** Standard key matches Hydrogen.
+
+**Ans: A.** Hydrogen
 </details>
 
+**Q-ST15. UPPCS (Pre) 1995**
 
-**Q15. (U.P.P.C.S. (Pre) 1995)** Which of the following is a fundamental element :
+Which of the following is a fundamental element :
 - (A) Sand
 - (B) Diamond
 - (C) Marble
@@ -683,19 +652,16 @@ the Universe?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - Chemically diamond is the purest form of Carbon (crystal
-  - structure). Hence, it is a fundamental element. Sand is
-  - basically made up of Silicon and Oxygen, Marble is made
-  - up of Calcium, Carbon and Oxygen while sugar is mainly
-  - the compound of Carbon, Hydrogen and Oxygen.
-</details>
+**Logic:** Standard key matches Diamond.
 
+**Ans: B.** Diamond
+</details>
 
 ## Complete PYQ Bank — UKPCS
 
-**Q1. (Uttarakhand P.C.S. (Pre) 2007)** The chemical composition of diamond is?
+**Q-ST1. Uttarakhand P.C.S. (Pre) 2007**
+
+The chemical composition of diamond is?
 - (A) Carbon
 - (B) Nitrogen
 - (C) Nickel
@@ -704,15 +670,16 @@ the Universe?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (A)
-- **Must-Score Points:**
-  - See the explanation of above question.
-</details>
+**Logic:** Standard key matches Carbon.
 
+**Ans: A.** Carbon
+</details>
 
 ## Complete PYQ Bank — BPSC, IAS & Other State PCS (Ghatnachakra Focus)
 
-**Q1. (65th B.P.S.C. (Pre) 2019)** Who is regarded as the Father of Modern Chemistry?
+**Q-ST1. 65th B.P.S.C. (Pre) 2019**
+
+Who is regarded as the Father of Modern Chemistry?
 - (A) Rutherford
 - (B) Einstein
 - (C) Lavoisier
@@ -722,18 +689,14 @@ the Universe?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (C)
-- **Must-Score Points:**
-  - French nobleman and chemist Antoine Lavoisier is regarded
-  - as the 'Father of Modern Chemistry'. Lavoisier is most noted
-  - for his discovery of the role oxygen plays in combustion. He
-  - recognized and named oxygen (1778) and hydrogen (1783),
-  - wrote the first extensive list of elements and helped to reform
-  - chemical nomenclature.
+**Logic:** Standard key matches Lavoisier.
+
+**Ans: C.** Lavoisier
 </details>
 
+**Q-ST2. 70th B.P.S.C. (Pre) 2024**
 
-**Q2. (70th B.P.S.C. (Pre) 2024)** Dalton’s atomic theory successfully explained :
+Dalton’s atomic theory successfully explained :
 
 (i) Law of conservation of mass.
 
@@ -750,29 +713,14 @@ the Universe?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (C)
-- **Must-Score Points:**
-  - John Dalton's atomic theory states that all matter is made of
-  - atoms, which are indivisible particles. Dalton's theory was
-  - based on experiments and observations of gases. Postulates
-  - of Dalton's atomic theory are as follows :
-  • All matter is made of atoms.
-  • Atoms of the same element are identical in size, mass,
-  - and other properties.
-  • Atoms of different elements differ in size, mass, and
-  - other properties.
-  • Atoms cannot be created or destroyed.
-  • Compounds are formed when two or more different
-  - types of atoms combine.
-  • A chemical reaction is a rearrangement of atoms.
-  - Dalton's theory provided a scientific basis for understanding
-  - why elements combine in certain proportions to form
-  - compounds. It also explained the law of constant composition,
-  - conservation of mass, and the law of multiple proportions.
+**Logic:** Standard key matches (i), (ii) and (iv).
+
+**Ans: C.** (i), (ii) and (iv)
 </details>
 
+**Q-ST3. 70th B.P.S.C. (Pre) 2024**
 
-**Q3. (70th B.P.S.C. (Pre) 2024)** Who was the first one to propose a model for the
+Who was the first one to propose a model for the
 
 structure of an atom ?
 - (A) E. Goldstein
@@ -783,27 +731,14 @@ structure of an atom ?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (D)
-- **Must-Score Points:**
-  - J.J. Thomson was the first scientist to propose a model for
-  - the structure of an atom, suggesting a positively charged
-  - sphere with negatively charged electrons embedded within
-  - it, often referred to as the 'plum pudding' model. Thomson's
-  - model, proposed in the late 19th century, envisioned the
-  - atom as a sphere of positive charge with negatively charged
-  - electrons scattered throughout, similar to plums in a pudding.
-  - Thomson's model was a direct result of his discovery of
-  - the electron, a subatomic particle with a negative charge,
-  - which challenged the previous understanding of the atom
-  - as a fundamental, indivisible unit. Thomson's model was
-  - later superseded by more sophisticated models, such as
-  - Rutherford's nuclear model (with a positively charged
-  - nucleus and orbiting electrons), and then Bohr's model, which
-  - introduced the concept of quantized energy levels.
+**Logic:** Standard key matches J.J.
+
+**Ans: D.** J.J.
 </details>
 
+**Q-ST4. 63rd B.P.S.C. (Pre) 2017**
 
-**Q4. (63rd B.P.S.C. (Pre) 2017)** The positively charged part at the centre of an atom
+The positively charged part at the centre of an atom
 
 is called as :
 - (A) Proton
@@ -815,15 +750,14 @@ is called as :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (D)
-- **Must-Score Points:**
-  - The positively charged part at the centre of an atom is called
-  - as nucleus. The atomic nucleus is the small, dense region
-  - consisting of proton and neutron at the centre of an atom.
+**Logic:** Standard key matches Nucleus.
+
+**Ans: D.** Nucleus
 </details>
 
+**Q-ST5. 67th B.P.S.C. (Pre) (Re. Exam) 2022**
 
-**Q5. (67th B.P.S.C. (Pre) (Re. Exam) 2022)** The nucleus of an atom consists of :
+The nucleus of an atom consists of :
 - (A) electrons and neutrons
 - (B) electrons and protons
 - (C) protons and neutrons
@@ -833,13 +767,14 @@ is called as :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (C)
-- **Must-Score Points:**
-  - See the explanation of above question.
+**Logic:** Standard key matches protons and neutrons.
+
+**Ans: C.** protons and neutrons
 </details>
 
+**Q-ST6. 67th B.P.S.C. (Pre) 2022**
 
-**Q6. (67th B.P.S.C. (Pre) 2022)** Which among the following is an incorrect option?
+Which among the following is an incorrect option?
 - (A) Atom is electrically neutral due to presence of protons
 
 and electrons inside the nucleus.
@@ -857,19 +792,14 @@ in carbon dating, etc.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (A)
-- **Must-Score Points:**
-  - An atom consists of a positively charged nucleus, surrounded
-  - by one or more negatively charged particles called electrons.
-  - The atomic nucleus consists of protons and neutrons while
-  - electrons revolve around the nucleus. The positive charges
-  - in an atom equal the negative charges, so the atom has no
-  - overall charge, it is electrically neutral. Statements of options
-  - (b), (c) and (d) are correct.
+**Logic:** Standard key matches Atom is electrically neutral due to presence of protons.
+
+**Ans: A.** Atom is electrically neutral due to presence of protons
 </details>
 
+**Q-ST7. RAS/RTS (Pre) 1992**
 
-**Q7. (R.A.S./R.T.S. (Pre) 1992)** Which of the following statement about molecular
+Which of the following statement about molecular
 
 structure is correct :
 - (A) Neutron and electron are found inside the nucleus and
@@ -886,13 +816,14 @@ revolve around the nucleus.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (C)
-- **Must-Score Points:**
-  - **Official Answer:** (C)
+**Logic:** Standard key matches Proton and neutron are inside the nucleus and electrons.
+
+**Ans: C.** Proton and neutron are inside the nucleus and electrons
 </details>
 
+**Q-ST8. M.P.P.C.S. (Pre) 2005**
 
-**Q8. (M.P.P.C.S. (Pre) 2005)** Which of the following is not a part of an atom?
+Which of the following is not a part of an atom?
 - (A) Electron
 - (B) Proton
 - (C) Neutron
@@ -901,15 +832,14 @@ revolve around the nucleus.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (D)
-- **Must-Score Points:**
-  - Proton, electron and neutron are part of an atom, but the
-  - photon is associated with light energy and also known as
-  - energy packet of light.
+**Logic:** Standard key matches Photon.
+
+**Ans: D.** Photon
 </details>
 
+**Q-ST9. 53rd to 55th B.P.S.C. (Pre) 2011**
 
-**Q9. (53rd to 55th B.P.S.C. (Pre) 2011)** A single type of atom is found in –
+A single type of atom is found in –
 - (A) Compounds of minerals
 - (B) Mixture of minerals
 - (C) Native elements
@@ -918,15 +848,14 @@ revolve around the nucleus.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (C)
-- **Must-Score Points:**
-  - Native element is a material that consists of a single type
-  - of atom, while a compound consists of two or more types
-  - of atoms.
+**Logic:** Standard key matches Native elements.
+
+**Ans: C.** Native elements
 </details>
 
+**Q-ST10. RAS/RTS(Pre) 2003**
 
-**Q10. (R.A.S./R.T.S.(Pre) 2003)** The atomic nucleus was discovered by :
+The atomic nucleus was discovered by :
 - (A) Rutherford
 - (B) Dalton
 - (C) Einstein
@@ -935,17 +864,14 @@ revolve around the nucleus.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (A)
-- **Must-Score Points:**
-  - The nucleus is a very dense region consisting of protons and
-  - neutrons at the centre of an atom. It was discovered in 1911
-  - as a result of Ernest Rutherford’s interpretation of the 1909
-  - Geiger–Marsden gold foil experiment. The proton–neutron
-  - model of the nucleus was proposed by Dmitri Ivanenko in 1932.
+**Logic:** Standard key matches Rutherford.
+
+**Ans: A.** Rutherford
 </details>
 
+**Q-ST11. I.A.S. (Pre) 2001**
 
-**Q11. (I.A.S. (Pre) 2001)** Match List-I with List-II and select the correct answer
+Match List-I with List-II and select the correct answer
 
 using the codes given below the lists :
 
@@ -970,27 +896,14 @@ A B C D
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (A)
-- **Must-Score Points:**
-  - The positron has a positive electric charge (+1e) and
-  - has the same mass and a spin of 1/2 as an electron.
-  - Neutrinos are sub-atomic particles produced by the decay
-  - of radioactive elements and are elementary particles
-  - that lack an electric charge and a very small mass, which
-  - might even thought to be zero. Quarks combine to form
-  - composite particles called hadrons, the most stable of
-  - which are protons and neutrons and are the components
-  - of atomic nuclei. They have fractional charge of +2/3e or
-  - -1/3e. Phonon, in condensed-matter physics, a unit of
-  - vibrational energy that arises from oscillating atoms within
-  - a crystal. A phonon is a definite discrete unit or quantum of
-  - vibrational mechanical energy, just as a photon is a quantum
-  - of electromagnetic or light energy. Phonon has integral spin
-  - like photon.
+**Logic:** Standard key matches Zero mass 1.
+
+**Ans: A.** Zero mass 1.
 </details>
 
+**Q-ST12. Jharkhand P.C.S. (Pre) 2021**
 
-**Q12. (Jharkhand P.C.S. (Pre) 2021)** Higgs Boson are also known as :
+Higgs Boson are also known as :
 - (A) Electron
 - (B) Proton
 - (C) Neutrons
@@ -999,19 +912,14 @@ A B C D
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (D)
-- **Must-Score Points:**
-  - The Higgs Boson is the fundamental force-carrying particle
-  - associated with the Higgs field, a field that gives mass to other
-  - fundamental particles such as eletrons and quarks. In the
-  - mainstream media, the Higgs boson has often been called
-  - the 'God Particle' from the 1993 book 'The God Particle : If
-  - the Universe is the Answer, What is the Question?' by Nobel
-  - Laureate Leon M. Lederman and science writer Dick Teresi.
+**Logic:** Standard key matches God Particles.
+
+**Ans: D.** God Particles
 </details>
 
+**Q-ST13. 60th to 62nd B.P.S.C. (Pre) 2016**
 
-**Q13. (60th to 62nd B.P.S.C. (Pre) 2016)** 'God particle' is :
+'God particle' is :
 - (A) Neutrino
 - (B) Higgs Boson
 - (C) Meson
@@ -1021,13 +929,14 @@ A B C D
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - See the explanation of above question.
+**Logic:** Standard key matches Higgs Boson.
+
+**Ans: B.** Higgs Boson
 </details>
 
+**Q-ST14. I.A.S. (Pre) 2013**
 
-**Q14. (I.A.S. (Pre) 2013)** The efforts to detect the existence of Higgs boson
+The efforts to detect the existence of Higgs boson
 
 particle have become frequent news in the recent
 
@@ -1060,18 +969,14 @@ Select the corrent answer using the codes given below:
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (A)
-- **Must-Score Points:**
-  - The Higgs boson is the fundamental force-carrying particle
-  - of the Higgs field, which is responsible for granting other
-  - particles their mass. The study of this field is important
-  - to know that why some fundamental particles have mass.
-  - So the discovery of Higgs boson particles is important to
-  - understand this fact.
+**Logic:** Standard key matches only 1.
+
+**Ans: A.** only 1
 </details>
 
+**Q-ST15. 66th B.P.S.C. (Pre) (Re. Exam) 2020**
 
-**Q15. (66th B.P.S.C. (Pre) (Re. Exam) 2020)** Which particle is free of charge?
+Which particle is free of charge?
 - (A) α-particle
 - (B) Electron
 - (C) Neutron
@@ -1081,15 +986,14 @@ Select the corrent answer using the codes given below:
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (C)
-- **Must-Score Points:**
-  - Among the given particles neutron is free of charge. α (alpha)
-  - particle (+2ve) and proton (+ve) are positive charged particles
-  - while electron (–ve) carries negative charge.
+**Logic:** Standard key matches Neutron.
+
+**Ans: C.** Neutron
 </details>
 
+**Q-ST16. I.A.S. (Pre) 1996**
 
-**Q16. (I.A.S. (Pre) 1996)** The alpha particle carries two positive charges. Its
+The alpha particle carries two positive charges. Its
 
 mass is very nearly equal to that of –
 - (A) Two protons
@@ -1102,16 +1006,14 @@ positive charge
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - An alpha particle is a fast moving particle containing two
-  - protons and two neutrons (a helium nucleus). Its mass is equal
-  - to that of helium atom's nucleus. Alpha particles carry a charge
-  - of +2 and strongly interact with matter.
+**Logic:** Standard key matches Nucleus of an atom of helium.
+
+**Ans: B.** Nucleus of an atom of helium
 </details>
 
+**Q-ST17. RAS/RTS (Pre) 1996**
 
-**Q17. (R.A.S./R.T.S. (Pre) 1996)** The Nucleus of Helium has –
+The Nucleus of Helium has –
 - (A) Only one neutron
 - (B) Two protons
 - (C) Two protons and two neutrons
@@ -1120,13 +1022,14 @@ positive charge
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (C)
-- **Must-Score Points:**
-  - See the explanation of above question.
+**Logic:** Standard key matches Two protons and two neutrons.
+
+**Ans: C.** Two protons and two neutrons
 </details>
 
+**Q-ST18. 64th B.P.S.C. (Pre) 2018**
 
-**Q18. (64th B.P.S.C. (Pre) 2018)** Which of the following elements does not contain
+Which of the following elements does not contain
 
 neutrons?
 - (A) Oxygen
@@ -1138,21 +1041,14 @@ neutrons?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (C)
-- **Must-Score Points:**
-  - The atomic no. of Hydrogen is 1. The Protium (1
-  - H1
-  - ) isotope
-  - of the Hydrogen has no neutron while Deuterium (1
-  - H2
-  - ) has
-  - one neutron and Tritium (1
-  - H3
-  - ) isotope has 2 neutrons.
+**Logic:** Standard key matches Hydrogen.
+
+**Ans: C.** Hydrogen
 </details>
 
+**Q-ST19. 45th B.P.S.C. (Pre) 2002**
 
-**Q19. (45th B.P.S.C. (Pre) 2002)** Which of the following carries a negative charge?
+Which of the following carries a negative charge?
 - (A) X-rays
 - (B) Alpha particles
 - (C) Beta particles
@@ -1161,22 +1057,14 @@ neutrons?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (C)
-- **Must-Score Points:**
-  - Alpha rays or Alpha particles (α) are the positively charged
-  - particles. Beta particles (β) are highly energetic electrons or
-  - positrons which are released from inner part of a nucleus.
-  - They are negatively or positively charged (± 1e) and have
-  - a negligible mass. Gamma radiation (γ) consist of photons,
-  - which travel at the speed of light like all electromagnetic
-  - radiations. A ray has no mass or charge. Gamma radiation
-  - can travel much faster (speed of light) in the air than alpha
-  - and beta. Hence, among the given options only β-particles
-  - carries a negative charge.
+**Logic:** Standard key matches Beta particles.
+
+**Ans: C.** Beta particles
 </details>
 
+**Q-ST20. 68th B.P.S.C. (Pre) 2022**
 
-**Q20. (68th B.P.S.C. (Pre) 2022)** Which among the following is a positively charged
+Which among the following is a positively charged
 
 particle emitted by a radioactive element?
 - (A) Cathode ray
@@ -1188,17 +1076,14 @@ particle emitted by a radioactive element?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (C)
-- **Must-Score Points:**
-  - Alpha rays or Alpha particles (α) are the positively charged
-  - particles emitted by a radioactive element. These are nuclei
-  - of helium (2
-  - He4++). Its mass is equal to the atomic mass of
-  - nucleus of helium atom.
+**Logic:** Standard key matches Alpha ray.
+
+**Ans: C.** Alpha ray
 </details>
 
+**Q-ST21. I.A.S. (Pre) 2001**
 
-**Q21. (I.A.S. (Pre) 2001)** In an atom, the order of filling up of the orbitals is
+In an atom, the order of filling up of the orbitals is
 
 governed by –
 - (A) Aufbau's principle
@@ -1209,21 +1094,14 @@ governed by –
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (A)
-- **Must-Score Points:**
-  - The Aufbau principle is used to determine the electron
-  - configuration of an atom, molecule or ion. The principle
-  - postulates a hypothetical process in which an atom is 'built
-  - up' by progressively adding electrons. As they are added,
-  - they assume their most stable condition (electron orbitals)
-  - with respect to the nucleus and those electrons already there.
-  - According to the principle, electrons fill orbitals starting at
-  - the lowest available (possible) energy levels before filling
-  - higher levels (e.g. 1s before 2s).
+**Logic:** Standard key matches Aufbau's principle.
+
+**Ans: A.** Aufbau's principle
 </details>
 
+**Q-ST22. I.A.S. (Pre) 2003**
 
-**Q22. (I.A.S. (Pre) 2003)** Regarding the atom of a chemical element, the
+Regarding the atom of a chemical element, the
 
 magnetic quantum number refers to –
 - (A) Orientation
@@ -1234,25 +1112,14 @@ magnetic quantum number refers to –
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (A)
-- **Must-Score Points:**
-  - In atomic physics, the magnetic quantum number is the
-  - third set of quantum numbers (principal quantum number,
-  - azimuthal quantum number, magnetic quantum number
-  - and the spin quantum number) which describes the unique
-  - quantum state of an electron and its orientation. It is
-  - designated by the letter 'm'. The magnetic quantum number
-  - denotes the energy levels available within a subshell. This
-  - number yields the projection of the angular momentum
-  - corresponding to the orbital along a given axis. Principal
-  - quantum number (n) describes the electron shell or energy
-  - level of an electron. Azimuthal quantum number (l) describes
-  - the shape of a given orbital while spin quantum number (s)
-  - describes the spin of the electron within that orbital.
+**Logic:** Standard key matches Orientation.
+
+**Ans: A.** Orientation
 </details>
 
+**Q-ST23. 65th B.P.S.C. (Pre) 2019**
 
-**Q23. (65th B.P.S.C. (Pre) 2019)** The number of electrons and neutrons in an element
+The number of electrons and neutrons in an element
 
 is 18 and 20 respectively. Its mass number is
 - (A) 22
@@ -1264,18 +1131,14 @@ is 18 and 20 respectively. Its mass number is
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (C)
-- **Must-Score Points:**
-  - Given that,
-  - number of neutrons = 20
-  - & number of electrons = 18
-  - Thus, number of protons = number of electrons = 18
-  - Mass number = number of protons + number of neutrons
-  - = 18 + 20 = 38
+**Logic:** Standard key matches 38.
+
+**Ans: C.** 38
 </details>
 
+**Q-ST24. 43rd B.P.S.C. (Pre) 1999**
 
-**Q24. (43rd B.P.S.C. (Pre) 1999)** What is the mass number of an element, the atom of which
+What is the mass number of an element, the atom of which
 
 contains two protons, two neutrons and two electrons?
 - (A) 2
@@ -1286,16 +1149,14 @@ contains two protons, two neutrons and two electrons?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - The mass number of an element is the sum of a total number
-  - of protons and neutrons inside in its nucleus and represents by
-  - A. Therefore, mass number A= number of protons + number
-  - of neutrons. Therefore, mass number = 2 + 2 = 4
+**Logic:** Standard key matches 4.
+
+**Ans: B.** 4
 </details>
 
+**Q-ST25. 67th B.P.S.C. (Pre) 2022**
 
-**Q25. (67th B.P.S.C. (Pre) 2022)** The mass number of a nucleus is :
+The mass number of a nucleus is :
 - (A) the sum of the numbers of neutrons and protons
 - (B) the total mass of neutrons and protons
 - (C) always more than the atomic weight
@@ -1305,13 +1166,14 @@ contains two protons, two neutrons and two electrons?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (A)
-- **Must-Score Points:**
-  - See the explanation of above question.
+**Logic:** Standard key matches the sum of the numbers of neutrons and protons.
+
+**Ans: A.** the sum of the numbers of neutrons and protons
 </details>
 
+**Q-ST26. 66th B.P.S.C. (Pre) 2020**
 
-**Q26. (66th B.P.S.C. (Pre) 2020)** The number of neutrons in the nucleus of plutonium
+The number of neutrons in the nucleus of plutonium
 
 nuclide (94Pu242) is :
 - (A) 94
@@ -1323,16 +1185,14 @@ nuclide (94Pu242) is :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - The number of neutrons in the nucleus of plutonium nuclide
-  - (94Pu242) is 242 – 94 = 148. Because in 94Pu242,
-  - Number of protons = 94, and
-  - Number of protons plus neutrons = 242
+**Logic:** Standard key matches 148.
+
+**Ans: B.** 148
 </details>
 
+**Q-ST27. 67th B.P.S.C. (Pre) 2022**
 
-**Q27. (67th B.P.S.C. (Pre) 2022)** Isotopes of an element differ in :
+Isotopes of an element differ in :
 - (A) the number of protons
 - (B) the mass number
 - (C) the number of electrons
@@ -1342,13 +1202,14 @@ nuclide (94Pu242) is :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - See the explanation of above question.
+**Logic:** Standard key matches the mass number.
+
+**Ans: B.** the mass number
 </details>
 
+**Q-ST28. 41st B.P.S.C. (Pre) 1996**
 
-**Q28. (41st B.P.S.C. (Pre) 1996)** Isotopes is that nuclei of atomic nucleus in which –
+Isotopes is that nuclei of atomic nucleus in which –
 - (A) Number of neutrons is same but number of protons is
 
 different
@@ -1361,13 +1222,14 @@ different
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - See the explanation of above question.
+**Logic:** Standard key matches Number of protons is same but number of neutrons is.
+
+**Ans: B.** Number of protons is same but number of neutrons is
 </details>
 
+**Q-ST29. RAS/RTS (Pre) 1999**
 
-**Q29. (R.A.S./R.T.S. (Pre) 1999)** The isoneutronic group, in the following, is :
+The isoneutronic group, in the following, is :
 - (A) 6
 
 C12
@@ -1404,23 +1266,14 @@ O16
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (D)
-- **Must-Score Points:**
-  - Two nuclides are isoneutronic (isotones) if they have the
-  - very same neutron number N, but different proton number Z.
-  - For example, Boron-12 and Carbon-13 nuclei both contain
-  - 7 neutrons, and so are Isotones.
-  - As per the question
-  - 6
-  - C14 = 14 – 6 ∑ 8 neutron
-  - 7 N15 ∑ 15 – 7 ∑ 8 neutron
-  - 8
-  - O16 ∑ 16 – 8 ∑ 8 neutron
-  - Since the number of neutrons in all is 8 they are all isotones.
+**Logic:** Standard key matches 6.
+
+**Ans: D.** 6
 </details>
 
+**Q-ST30. 65th B.P.S.C. (Pre) 2019**
 
-**Q30. (65th B.P.S.C. (Pre) 2019)** UNESCO inaugurated the celebration of 2019 as the
+UNESCO inaugurated the celebration of 2019 as the
 
 International Year of the Periodic Table of Chemical
 
@@ -1434,18 +1287,14 @@ Elements to celebrate its completion of how many years?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - UNESCO inaugurated the celebration of 2019 as the
-  - International Year of the Periodic Table of Chemical Elements
-  - to celebrate its completion of 150 years. The year 2019
-  - marked the 150th anniversary of the creation of periodic
-  - table by Russian scientist Dmitry Ivanovich Mendeleev
-  - originally in 1869.
+**Logic:** Standard key matches 150.
+
+**Ans: B.** 150
 </details>
 
+**Q-ST31. I.A.S. (Pre) 2003**
 
-**Q31. (I.A.S. (Pre) 2003)** Assertion (A): In the periodic table of chemical elements,
+Assertion (A): In the periodic table of chemical elements,
 
 electron affinity is always found to
 
@@ -1472,23 +1321,14 @@ the correct explanation of
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (D)
-- **Must-Score Points:**
-  - In the periodic table of chemical elements, the electron
-  - affinity decreases down the group but increases up for the
-  - group and from left to right across periods of a periodic table
-  - because the electron added to energy levels become closer to
-  - the nucleus, thus a stronger attraction between the nucleus and
-  - its electrons. An atom gets larger as the number of electronic
-  - shells increases. Therefore, the radius of atoms increases as
-  - you go down a certain group in the periodic table of elements.
-  - However, the size of an atom will decrease as you move from
-  - left to right of a certain period. Thus, Assertion (A) is false,
-  - while Reason (R) is true.
+**Logic:** Standard key matches - (A) is false, but (R) is true.
+
+**Ans: D.** (A) is false, but (R) is true
 </details>
 
+**Q-ST32. I.A.S. (Pre) 2001**
 
-**Q32. (I.A.S. (Pre) 2001)** Consider the following statements with reference to
+Consider the following statements with reference to
 
 the periodic table of chemical elements :
 
@@ -1513,23 +1353,14 @@ Which of these statement (s) is/are correct ?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - The ionization energies are dependent upon the atomic radius.
-  - Since going from left to right across a period in the periodic
-  - table, the atomic radius decreases and the ionization potential
-  - increases while ionization potential decreases as one moves
-  - down a given group.
-  - In a group of elements, from top to bottom the electron affinity
-  - decreases as the atomic weight increases. As one moves
-  - trend-wise from left to right across a period in the periodic
-  - table, the electronegativity increases as the atomic number
-  - increases, due to the stronger attraction that the atoms obtain
-  - as the nuclear charge increases.
+**Logic:** Standard key matches 2 only.
+
+**Ans: B.** 2 only
 </details>
 
+**Q-ST33. 43rd B.P.S.C. (Pre) 1999**
 
-**Q33. (43rd B.P.S.C. (Pre) 1999)** What is the usual property of oxides of Group 3 and 4?
+What is the usual property of oxides of Group 3 and 4?
 - (A) Basic and Acidic
 - (B) Basic
 - (C) Acidic
@@ -1538,15 +1369,14 @@ Which of these statement (s) is/are correct ?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (A)
-- **Must-Score Points:**
-  - The usual property of oxides of Group 3 and 4 of the periodic
-  - table are basic and acidic. These oxides are amphoteric (able
-  - to react both as a base and as an acid).
+**Logic:** Standard key matches Basic and Acidic.
+
+**Ans: A.** Basic and Acidic
 </details>
 
+**Q-ST34. Chhattisgarh P.C.S. (Pre) 2022**
 
-**Q34. (Chhattisgarh P.C.S. (Pre) 2022)** Correctly match the following :
+Correctly match the following :
 
 Elements Valency
 
@@ -1569,19 +1399,14 @@ A B C D
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - The correctly matched lists are as follows :
-  - Elements Valency
-  - Silicon – 4
-  - Fluorine – 1
-  - Aluminium – 3
-  - Sulfur – 2
-  - Hence, option (b) is the correct answer.
+**Logic:** Standard key matches Fluorine (ii) 2.
+
+**Ans: B.** Fluorine (ii) 2
 </details>
 
+**Q-ST35. 42nd B.P.S.C. (Pre) 1997**
 
-**Q35. (42nd B.P.S.C. (Pre) 1997)** The element found maximum in the soil layer is –
+The element found maximum in the soil layer is –
 - (A) Oxygen
 - (B) Nitrogen
 - (C) Manganese
@@ -1590,16 +1415,14 @@ A B C D
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (A)
-- **Must-Score Points:**
-  - The element found the maximum in the soil layer or Earth's
-  - crust as mass percentage (about) is Oxygen 46.60% followed
-  - by Silicon 27.72%, Aluminium 8.13%, Iron 5.00% , Calcium
-  - 3.65% and Carbon 0.6%.
+**Logic:** Standard key matches Oxygen.
+
+**Ans: A.** Oxygen
 </details>
 
+**Q-ST36. I.A.S. (Pre) 1997**
 
-**Q36. (I.A.S. (Pre) 1997)** Which one of the following is present in the largest
+Which one of the following is present in the largest
 
 amount in terms of percent by mass in the Earth's crust?
 - (A) Silicon
@@ -1610,13 +1433,14 @@ amount in terms of percent by mass in the Earth's crust?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - See the explanation of above question.
+**Logic:** Standard key matches Oxygen.
+
+**Ans: B.** Oxygen
 </details>
 
+**Q-ST37. M.P.P.C.S. (Pre) 2005**
 
-**Q37. (M.P.P.C.S. (Pre) 2005)** Which is the most abundant element after Oxygen?
+Which is the most abundant element after Oxygen?
 - (A) Silicon
 - (B) Carbon
 - (C) Sodium
@@ -1625,16 +1449,14 @@ amount in terms of percent by mass in the Earth's crust?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (A)
-- **Must-Score Points:**
-  - The most abundant element on Earth's surface after Oxygen
-  - is Silicon. It was discovered by J.J. Berzelius in 1824. The
-  - word 'Silicon' was taken from the Latin word silex. Silicon
-  - chips are used as a semiconductor in computers.
+**Logic:** Standard key matches Silicon.
+
+**Ans: A.** Silicon
 </details>
 
+**Q-ST38. RAS/RTS (Pre) 2003**
 
-**Q38. (R.A.S./R.T.S. (Pre) 2003)** Approximately how many different chemical elements
+Approximately how many different chemical elements
 
 exist on the Earth?
 - (A) 300
@@ -1645,23 +1467,14 @@ exist on the Earth?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (*)
-- **Must-Score Points:**
-  - A chemical element is a substance which consists of atoms
-  - having the same number of protons in their atomic nuclei.
-  - There are 118 elements that have been identified till date.
-  - On 28 November, 2016, the International Union of Pure and
-  - Applied Chemistry (IUPAC) approved the official name and
-  - symbols for four newly discovered elements : Nihonium
-  - (Nh), Moscovium (Mc), Tennessine (Ts), and Oganesson
-  - (Og), respectively for element 113, 115, 117, and 118. Among
-  - them, the most recently discovered element is element with
-  - atomic number 117 (Tennessine), the discovery of which was
-  - officially announced in April, 2010.
+**Logic:** Key not printed in source dump (cancelled or blank).
+
+**Ans:** Source key blank.
 </details>
 
+**Q-ST39. 65th B.P.S.C. (Pre) 2019**
 
-**Q39. (65th B.P.S.C. (Pre) 2019)** Which of the following is not a type of element?
+Which of the following is not a type of element?
 - (A) Metals
 - (B) Nonmetals
 - (C) Gases
@@ -1671,17 +1484,14 @@ exist on the Earth?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (C)
-- **Must-Score Points:**
-  - Elements of the periodic table are grouped as metals,
-  - metalloids (or semimetals) and nonmetals. Some Gases
-  - (hydrogen, helium, nitrogen, oxygen, fluorine, neon, chlorine,
-  - argon, krypton, xenon and radon) are elements & categorised
-  - as nonmetals, but most of the gases are compounds.
+**Logic:** Standard key matches Gases.
+
+**Ans: C.** Gases
 </details>
 
+**Q-ST40. Jharkhand P.C.S. (Pre) 2013**
 
-**Q40. (Jharkhand P.C.S. (Pre) 2013)** Which of the following elements was first produced
+Which of the following elements was first produced
 
 artificially?
 - (A) Neptunium
@@ -1692,16 +1502,14 @@ artificially?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (D)
-- **Must-Score Points:**
-  - Technetium (Tc) is a chemical element with atomic number
-  - 43. It is a radioactive, silvery-gray transition metal. It is the
-  - first artificially created element.Technetium was isolated by
-  - Carlo Perrier and Emilio Segre in 1937.
+**Logic:** Standard key matches Technetium.
+
+**Ans: D.** Technetium
 </details>
 
+**Q-ST41. 70th B.P.S.C. (Pre) 2024**
 
-**Q41. (70th B.P.S.C. (Pre) 2024)** Which of the following is the first artificially prepared
+Which of the following is the first artificially prepared
 
 element ?
 - (A) Te
@@ -1712,476 +1520,10 @@ element ?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** (B)
-- **Must-Score Points:**
-  - See the explanation of above question.
+**Logic:** Standard key matches Tc.
+
+**Ans: B.** Tc
 </details>
-
-
-## Practice Zone — UPPCS Format Drill
-
-**Q1.** With reference to atomic structure, which of the following statements is/are correct?
-1. The neutron was discovered by James Chadwick in 1932.
-2. The mass of an electron is approximately $1/1836\text{th}$ of the mass of a proton.
-3. The volume of an atomic nucleus occupies over $50\%$ of the total volume of an atom.
-
-Select the correct answer using the code given below:
-- (A) 1 and 2 only
-- (B) 2 and 3 only
-- (C) 1 only
-- (D) 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (A) 1 and 2 only
-- **Must-Score Points:**
-  - Statements 1 and 2 are correct.
-  - Statement 3 is incorrect: The nucleus ($10^{-15}\text{ m}$) occupies only $\approx 10^{-15}$ of the atomic volume ($10^{-10}\text{ m}$); the vast majority of an atom is empty space.
-</details>
-
-**Q2.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
-- **Assertion (A):** Chlorine has a higher electron affinity than Fluorine.
-- **Reason (R):** Fluorine's compact $2p$ subshell has an exceptionally high electron density, producing strong inter-electronic repulsion against incoming electrons.
-
-Select the correct answer:
-- (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
-- (B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)
-- (C) (A) is true but (R) is false
-- (D) (A) is false but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
-- **Must-Score Points:**
-  - Chlorine's larger $3p$ orbital accommodates an extra electron with minimal repulsion, releasing more energy ($-349\text{ kJ/mol}$) than Fluorine ($-328\text{ kJ/mol}$).
-</details>
-
-**Q3.** Match List-I (Subatomic Discovery / Rule) with List-II (Pioneering Scientist):
-
-| List-I | List-II |
-| :--- | :--- |
-| A. Law of Octaves | 1. Ernest Rutherford |
-| B. Modern Periodic Law | 2. John Newlands |
-| C. Discovery of Atomic Nucleus | 3. Henry Moseley |
-| D. Uncertainty Principle | 4. Werner Heisenberg |
-
-Select the correct code:
-- (A) A-2, B-3, C-1, D-4
-- (B) A-3, B-2, C-1, D-4
-- (C) A-2, B-3, C-4, D-1
-- (D) A-4, B-3, C-1, D-2
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (A) A-2, B-3, C-1, D-4
-- **Must-Score Points:**
-  - Newlands $\to$ Octaves; Moseley $\to$ Modern Law ($Z$); Rutherford $\to$ Nucleus; Heisenberg $\to$ Uncertainty.
-</details>
-
-**Q4.** Which of the following statements is/are correct regarding periodic trends across a period (left to right)?
-1. Atomic radius decreases across a period.
-2. Electronegativity increases across a period.
-3. Metallic character increases across a period.
-
-Select the correct answer using the code given below:
-- (A) 1 and 2 only
-- (B) 2 and 3 only
-- (C) 1 only
-- (D) 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (A) 1 and 2 only
-- **Must-Score Points:**
-  - Statements 1 and 2 are correct.
-  - Statement 3 is incorrect: Metallic character **decreases** across a period as elements transition from electropositive metals to electronegative non-metals.
-</details>
-
-**Q5.** Which of the following pairs of elements and physical states is **NOT** correctly matched?
-- (A) Mercury — Liquid metal
-- (B) Bromine — Liquid non-metal
-- (C) Iodine — Solid non-metal
-- (D) Gallium — Gas at room temperature
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (D) Gallium — Gas at room temperature
-- **Must-Score Points:**
-  - Gallium is a solid metal at room temperature with a low melting point ($29.7^\circ\text{C}$), melting in the palm of a hand into liquid. It is not a gas.
-</details>
-
-**Q6.** Arrange the following elements in descending order of their abundance by weight in the Earth's crust:
-1. Iron
-2. Oxygen
-3. Silicon
-4. Aluminum
-
-Select the correct code:
-- (A) $2 > 3 > 4 > 1$
-- (B) $3 > 2 > 4 > 1$
-- (C) $2 > 4 > 3 > 1$
-- (D) $2 > 3 > 1 > 4$
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (A) $2 > 3 > 4 > 1$
-- **Must-Score Points:**
-  - Oxygen ($46.6\%$) > Silicon ($27.7\%$) > Aluminum ($8.1\%$) > Iron ($5.0\%$).
-</details>
-
-**Q7.** With reference to the periodic table, which group contains the chemically inert Noble Gases?
-- (A) Group 1
-- (B) Group 16
-- (C) Group 17
-- (D) Group 18
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (D) Group 18
-- **Must-Score Points:**
-  - Group 18 contains the Noble Gases ($He, Ne, Ar, Kr, Xe, Rn, Og$).
-</details>
-
-**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
-- **Assertion (A):** The first ionization energy of Nitrogen is higher than that of Oxygen.
-- **Reason (R):** A half-filled $2p^3$ subshell possesses extra thermodynamic stability due to symmetrical electron distribution.
-
-Select the correct answer:
-- (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
-- (B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)
-- (C) (A) is true but (R) is false
-- (D) (A) is false but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
-- **Must-Score Points:**
-  - Nitrogen's stable $2p^3$ half-filled subshell requires more energy ($1402\text{ kJ/mol}$) than Oxygen's $2p^4$ configuration ($1314\text{ kJ/mol}$).
-</details>
-
-**Q9.** What is the maximum number of electrons that can occupy a $d$-subshell?
-- (A) 2
-- (B) 6
-- (C) 10
-- (D) 14
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (C) 10
-- **Must-Score Points:**
-  - A $d$-subshell has $l = 2$, yielding $2l + 1 = 5$ degenerate orbitals. Each holds 2 electrons, for a maximum of **10 electrons**.
-</details>
-
-**Q10.** Which of the following is the most abundant element by mass in the human body?
-- (A) Carbon
-- (B) Hydrogen
-- (C) Oxygen
-- (D) Nitrogen
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (C) Oxygen
-- **Must-Score Points:**
-  - Oxygen accounts for $\approx 65\%$ of body mass, followed by Carbon ($18.5\%$) and Hydrogen ($9.5\%$).
-</details>
-
-**Q11.** Match List-I (Element Type) with List-II (Example Element):
-
-| List-I | List-II |
-| :--- | :--- |
-| A. Alkali Metal | 1. Silicon |
-| B. Halogen | 2. Sodium |
-| C. Metalloid | 3. Chlorine |
-| D. Noble Gas | 4. Argon |
-
-Select the correct code:
-- (A) A-2, B-3, C-1, D-4
-- (B) A-3, B-2, C-1, D-4
-- (C) A-2, B-1, C-3, D-4
-- (D) A-4, B-3, C-1, D-2
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (A) A-2, B-3, C-1, D-4
-- **Must-Score Points:**
-  - Alkali metal $\to$ Sodium; Halogen $\to$ Chlorine; Metalloid $\to$ Silicon; Noble gas $\to$ Argon.
-</details>
-
-**Q12.** Which of the following pairs is **NOT** correctly matched?
-- (A) Highest ionization energy — Helium
-- (B) Highest electronegativity — Fluorine
-- (C) Highest electron affinity — Fluorine
-- (D) Densest element — Osmium
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (C) Highest electron affinity — Fluorine
-- **Must-Score Points:**
-  - **Chlorine** has the highest electron affinity ($-349\text{ kJ/mol}$), not Fluorine.
-</details>
-
-**Q13.** With reference to atomic orbitals, the principal quantum number ($n$) determines:
-- (A) The 3D spatial orientation of the orbital
-- (B) The main energy level and size of the orbital
-- (C) The intrinsic spin of the electron
-- (D) The geometric shape of the orbital
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (B) The main energy level and size of the orbital
-- **Must-Score Points:**
-  - Principal quantum number $n$ defines the primary energy shell and orbital radius.
-</details>
-
-**Q14.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
-- **Assertion (A):** Zirconium ($Zr$) and Hafnium ($Hf$) possess nearly identical atomic radii.
-- **Reason (R):** Lanthanide contraction compensates for the expected increase in atomic size from the 4d to 5d transition series.
-
-Select the correct answer:
-- (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
-- (B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)
-- (C) (A) is true but (R) is false
-- (D) (A) is false but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
-- **Must-Score Points:**
-  - Poor shielding by intervening $4f$ electrons draws the $5d$ valence electrons inward, equalizing $Zr$ ($1.60\text{ \AA}$) and $Hf$ ($1.59\text{ \AA}$).
-</details>
-
-**Q15.** The diagonal relationship in the periodic table is exhibited between which pair of elements?
-- (A) Sodium and Potassium
-- (B) Lithium and Magnesium
-- (C) Boron and Carbon
-- (D) Beryllium and Boron
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (B) Lithium and Magnesium
-- **Must-Score Points:**
-  - Lithium and Magnesium exhibit diagonal similarity due to comparable charge-to-radius ratios.
-</details>
-
-**Q16.** How many valence electrons are present in a neutral Halogen atom?
-- (A) 1
-- (B) 5
-- (C) 7
-- (D) 8
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (C) 7
-- **Must-Score Points:**
-  - Halogens possess the valence shell configuration $ns^2 np^5$, totaling **7 valence electrons**.
-</details>
-
-**Q17.** Which of the following is the most abundant gas in the Earth's atmosphere?
-- (A) Oxygen
-- (B) Nitrogen
-- (C) Argon
-- (D) Carbon dioxide
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (B) Nitrogen
-- **Must-Score Points:**
-  - Nitrogen constitutes $\approx 78.08\%$ of the atmosphere by volume.
-</details>
-
-**Q18.** Which of the following elements has the electronic configuration $[Ar] 3d^{10} 4s^1$?
-- (A) Zinc
-- (B) Copper
-- (C) Nickel
-- (D) Potassium
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (B) Copper
-- **Must-Score Points:**
-  - Copper ($Z=29$) has an anomalous fully filled $3d^{10} 4s^1$ configuration for extra stability.
-</details>
-
-**Q19.** What is the most common oxidation state of Alkali Metals (Group 1) in their chemical compounds?
-- (A) $-1$
-- (B) $+1$
-- (C) $+2$
-- (D) $+3$
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (B) $+1$
-- **Must-Score Points:**
-  - Alkali metals readily lose their single $ns^1$ valence electron to attain noble gas configurations, exhibiting an invariant oxidation state of **$+1$**.
-</details>
-
-**Q20.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
-- **Assertion (A):** An intrinsic semiconductor acts as an ideal electrical insulator at $0\text{ K}$.
-- **Reason (R):** At absolute zero, all valence electrons are locked within covalent bonds and the conduction band is completely empty.
-
-Select the correct answer:
-- (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
-- (B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)
-- (C) (A) is true but (R) is false
-- (D) (A) is false but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
-- **Must-Score Points:**
-  - Zero thermal agitation at $0\text{ K}$ means zero free electron-hole carrier pairs, making conductivity strictly zero.
-</details>
-
-**Q21.** Which element among the following is the most electropositive?
-- (A) Fluorine
-- (B) Sodium
-- (C) Cesium
-- (D) Chlorine
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (C) Cesium
-- **Must-Score Points:**
-  - Electropositivity increases down Group 1. Cesium ($Cs$) has the lowest ionization enthalpy ($376\text{ kJ/mol}$) and highest electropositivity among stable elements.
-</details>
-
-**Q22.** Which allotrope of carbon is thermodynamically the most stable at standard room temperature and pressure?
-- (A) Diamond
-- (B) Graphite
-- (C) Fullerenes
-- (D) Carbon nanotubes
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (B) Graphite
-- **Must-Score Points:**
-  - Standard enthalpy of formation $\Delta H_f^\circ$ of **Graphite is defined as zero**; it is the most thermodynamically stable carbon allotrope. Diamond is metastable at standard conditions.
-</details>
-
-**Q23.** Which of the following pairs is **NOT** correctly matched?
-- (A) Group 1 — Alkali Metals
-- (B) Group 2 — Alkaline Earth Metals
-- (C) Group 16 — Halogens
-- (D) Group 18 — Noble Gases
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (C) Group 16 — Halogens
-- **Must-Score Points:**
-  - Group 16 elements are **Chalcogens** (oxygen family). Group 17 elements are Halogens.
-</details>
-
-**Q24.** In the periodic table, the horizontal rows are termed:
-- (A) Groups
-- (B) Periods
-- (C) Blocks
-- (D) Series
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (B) Periods
-- **Must-Score Points:**
-  - Horizontal rows are **Periods** (7 total); vertical columns are **Groups** (18 total).
-</details>
-
-**Q25.** Which of the following subatomic particles has a positive electrical charge?
-- (A) Electron
-- (B) Neutron
-- (C) Proton
-- (D) Photon
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (C) Proton
-- **Must-Score Points:**
-  - Protons carry $+1.602 \times 10^{-19}\text{ C}$; electrons carry negative charge; neutrons and photons carry zero charge.
-</details>
-
-**Q26.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
-- **Assertion (A):** Liquid Sodium and Potassium cannot be extinguished with water if they catch fire.
-- **Reason (R):** Alkali metals react violently with water, releasing flammable hydrogen gas and generating intense heat that ignites the hydrogen.
-
-Select the correct answer:
-- (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
-- (B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)
-- (C) (A) is true but (R) is false
-- (D) (A) is false but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
-- **Must-Score Points:**
-  - Pouring water on burning sodium causes violent hydrogen explosions; dry sand or Class D metal powder extinguishers must be used.
-</details>
-
----
-
-## Common Traps
-
-| Concept | Trap / Confusion Point | Examiner's Angle | Correct Fact |
-| :--- | :--- | :--- | :--- |
-| **Electron Affinity vs Electronegativity** | Assuming Fluorine has the highest electron affinity. | Most tested chemistry trap in PCS/IAS. | **Chlorine has the highest electron affinity** ($Cl > F > Br > I$); **Fluorine has the highest electronegativity**. |
-| **Abundance: Element vs Metal** | Answering Iron or Silicon as the most abundant metal in crust. | Crust composition trap. | **Oxygen is the #1 element** ($46.6\%$); **Aluminum is the #1 metal** ($8.1\%$). |
-| **Most Abundant Body Metal** | Answering Iron because of hemoglobin blood volume. | Human biochemistry trap. | **Calcium is the #1 metal in the body** ($1.5\%$ of body mass, $1\text{ kg}$ in bones); Iron is only $\approx 4\text{ grams}$. |
-| **Liquid Non-Metal** | Confusing Mercury with Bromine. | State of matter trap. | **Mercury is a liquid metal**; **Bromine is the only liquid non-metal**. |
-| **Nitrogen vs Oxygen $IE$** | Assuming Oxygen has higher ionization energy because it is to the right. | Subshell stability trap. | **Nitrogen has higher $IE_1$ than Oxygen** due to its stable half-filled $2p^3$ subshell. |
-| **Heaviest Subatomic Particle** | Assuming the proton is heavier than the neutron. | Nucleon mass trap. | The **Neutron is the heaviest** ($1.6749 \times 10^{-27}\text{ kg}$ vs proton $1.6726 \times 10^{-27}\text{ kg}$). |
-| **Isobars vs Isotones** | Confusing same mass number with same neutron count. | Nuclear terminology trap. | **Isobars = Same mass number ($A$)**; **Isotones = Same neutron count ($N = A - Z$)**. |
-| **Chromium Configuration** | Writing $3d^4 4s^2$. | Transition metal configuration trap. | Actual configuration is **$[Ar] 3d^5 4s^1$** (half-filled $d$-subshell stability). |
-| **Doped Semiconductor Charge** | Assuming N-type is negatively charged. | Solid state physics trap. | Doped semiconductors (both N-type and P-type) are **strictly electrically neutral**. |
-| **Sodium Storage** | Storing sodium in water instead of kerosene. | Chemical safety trap. | Sodium explodes in contact with water; must be stored in **kerosene oil**. |
-
-
----
-
-## Bilingual Terminology -- Atomic Structure and Periodic Table
-
-| English Term | Hindi Term | Key Anchor |
-|---|---|---|
-| **Atom** (परमाणु) | परमाणु | Smallest particle of element retaining chemical properties |
-| **Atomic Number** (परमाणु क्रमांक) | परमाणु संख्या | Number of protons; unique identifier of element |
-| **Atomic Mass** (परमाणु द्रव्यमान) | परमाणु द्रव्यमान | Protons + neutrons (roughly); measured in amu |
-| **Valence Electrons** (संयोजकता इलेक्ट्रॉन) | संयोजी इलेक्ट्रॉन | Electrons in outermost shell; determine chemical behaviour |
-| **Periodic Table** (आवर्त सारणी) | आवर्त सारणी | Arrangement of elements by atomic number; Mendeleev (1869) |
-| **Period** (आवर्त) | आवर्त | Horizontal row of periodic table; 7 periods |
-| **Group** (समूह) | समूह / वर्ग | Vertical column; 18 groups; same valence electrons = similar properties |
-| **Metals** (धातु) | धातु | Left and centre of table; conductors, lustrous, malleable |
-| **Non-metals** (अधातु) | अधातु | Right side; insulators; brittle; e.g., O, N, S, Cl, P |
-| **Metalloids** (उपधातु) | उपधातु | Properties between metals and non-metals; Si, Ge, As |
-| **Noble Gases** (उत्कृष्ट गैस) | अक्रिय गैस / उत्कृष्ट गैस | Group 18; completely filled shells; extremely unreactive |
-| **Alkali Metals** (क्षार धातु) | क्षार धातु | Group 1 (Li, Na, K, Rb, Cs, Fr); 1 valence e-; very reactive |
-| **Alkaline Earth Metals** (क्षारीय मृदा धातु) | क्षारीय मृदा धातु | Group 2 (Be, Mg, Ca, Sr, Ba, Ra); 2 valence e- |
-| **Halogens** (हैलोजन) | हैलोजन | Group 17 (F, Cl, Br, I, At); 7 valence e-; very reactive |
-| **Transition Metals** (संक्रमण धातु) | संक्रमण तत्त्व | Groups 3-12; d-block; variable valency; coloured compounds |
-| **Electronegativity** (विद्युत-ऋणात्मकता) | विद्युत-ऋणात्मकता | Ability to attract electrons in bond; increases across period (right); decreases down group |
-
----
 
 ## One-Liner Revision -- Atomic Structure and Periodic Table
 
@@ -2217,4 +1559,495 @@ Select the correct answer:
 | 28 | Diamond = hardest; Graphite = soft, good conductor; both are pure carbon |
 | 29 | Polonium = only element with all naturally occurring isotopes being radioactive |
 | 30 | Element 118 (Oganesson) = heaviest known element; all artificial/synthetic |
+
+## Practice Zone — UPPCS Format Drill
+
+**Q-ST1.**
+
+With reference to atomic structure, which of the following statements is/are correct?
+1. The neutron was discovered by James Chadwick in 1932.
+2. The mass of an electron is approximately $1/1836\text{th}$ of the mass of a proton.
+3. The volume of an atomic nucleus occupies over $50\%$ of the total volume of an atom.
+
+Select the correct answer using the code given below:
+- (A) 1 and 2 only
+- (B) 2 and 3 only
+- (C) 1 only
+- (D) 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (A) 1 and 2 only
+
+**Ans: A.** 1 and 2 only
+</details>
+
+**Q-ST2.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
+- **Assertion (A):** Chlorine has a higher electron affinity than Fluorine.
+- **Reason (R):** Fluorine's compact $2p$ subshell has an exceptionally high electron density, producing strong inter-electronic repulsion against incoming electrons.
+
+Select the correct answer:
+- (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
+- (B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)
+- (C) (A) is true but (R) is false
+- (D) (A) is false but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+**Ans: A.** Both (A) and (R) are true and (R) is the correct explanation of (A)
+</details>
+
+**Q-ST3.**
+
+Match List-I (Subatomic Discovery / Rule) with List-II (Pioneering Scientist):
+
+| List-I | List-II |
+| :--- | :--- |
+| A. Law of Octaves | 1. Ernest Rutherford |
+| B. Modern Periodic Law | 2. John Newlands |
+| C. Discovery of Atomic Nucleus | 3. Henry Moseley |
+| D. Uncertainty Principle | 4. Werner Heisenberg |
+
+Select the correct code:
+- (A) A-2, B-3, C-1, D-4
+- (B) A-3, B-2, C-1, D-4
+- (C) A-2, B-3, C-4, D-1
+- (D) A-4, B-3, C-1, D-2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (A) A-2, B-3, C-1, D-4
+
+**Ans: A.** A-2, B-3, C-1, D-4
+</details>
+
+**Q-ST4.**
+
+Which of the following statements is/are correct regarding periodic trends across a period (left to right)?
+1. Atomic radius decreases across a period.
+2. Electronegativity increases across a period.
+3. Metallic character increases across a period.
+
+Select the correct answer using the code given below:
+- (A) 1 and 2 only
+- (B) 2 and 3 only
+- (C) 1 only
+- (D) 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (A) 1 and 2 only
+
+**Ans: A.** 1 and 2 only
+</details>
+
+**Q-ST5.**
+
+Which of the following pairs of elements and physical states is **NOT** correctly matched?
+- (A) Mercury — Liquid metal
+- (B) Bromine — Liquid non-metal
+- (C) Iodine — Solid non-metal
+- (D) Gallium — Gas at room temperature
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (D) Gallium — Gas at room temperature
+
+**Ans: D.** Gallium — Gas at room temperature
+</details>
+
+**Q-ST6.**
+
+Arrange the following elements in descending order of their abundance by weight in the Earth's crust:
+1. Iron
+2. Oxygen
+3. Silicon
+4. Aluminum
+
+Select the correct code:
+- (A) $2 > 3 > 4 > 1$
+- (B) $3 > 2 > 4 > 1$
+- (C) $2 > 4 > 3 > 1$
+- (D) $2 > 3 > 1 > 4$
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (A) $2 > 3 > 4 > 1$
+
+**Ans: A.** $2 > 3 > 4 > 1$
+</details>
+
+**Q-ST7.**
+
+With reference to the periodic table, which group contains the chemically inert Noble Gases?
+- (A) Group 1
+- (B) Group 16
+- (C) Group 17
+- (D) Group 18
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (D) Group 18
+
+**Ans: D.** Group 18
+</details>
+
+**Q-ST8.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
+- **Assertion (A):** The first ionization energy of Nitrogen is higher than that of Oxygen.
+- **Reason (R):** A half-filled $2p^3$ subshell possesses extra thermodynamic stability due to symmetrical electron distribution.
+
+Select the correct answer:
+- (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
+- (B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)
+- (C) (A) is true but (R) is false
+- (D) (A) is false but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+**Ans: A.** Both (A) and (R) are true and (R) is the correct explanation of (A)
+</details>
+
+**Q-ST9.**
+
+What is the maximum number of electrons that can occupy a $d$-subshell?
+- (A) 2
+- (B) 6
+- (C) 10
+- (D) 14
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches 10.
+
+**Ans: C.** 10
+</details>
+
+**Q-ST10.**
+
+Which of the following is the most abundant element by mass in the human body?
+- (A) Carbon
+- (B) Hydrogen
+- (C) Oxygen
+- (D) Nitrogen
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Oxygen.
+
+**Ans: C.** Oxygen
+</details>
+
+**Q-ST11.**
+
+Match List-I (Element Type) with List-II (Example Element):
+
+| List-I | List-II |
+| :--- | :--- |
+| A. Alkali Metal | 1. Silicon |
+| B. Halogen | 2. Sodium |
+| C. Metalloid | 3. Chlorine |
+| D. Noble Gas | 4. Argon |
+
+Select the correct code:
+- (A) A-2, B-3, C-1, D-4
+- (B) A-3, B-2, C-1, D-4
+- (C) A-2, B-1, C-3, D-4
+- (D) A-4, B-3, C-1, D-2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (A) A-2, B-3, C-1, D-4
+
+**Ans: A.** A-2, B-3, C-1, D-4
+</details>
+
+**Q-ST12.**
+
+Which of the following pairs is **NOT** correctly matched?
+- (A) Highest ionization energy — Helium
+- (B) Highest electronegativity — Fluorine
+- (C) Highest electron affinity — Fluorine
+- (D) Densest element — Osmium
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (C) Highest electron affinity — Fluorine
+
+**Ans: C.** Highest electron affinity — Fluorine
+</details>
+
+**Q-ST13.**
+
+With reference to atomic orbitals, the principal quantum number ($n$) determines:
+- (A) The 3D spatial orientation of the orbital
+- (B) The main energy level and size of the orbital
+- (C) The intrinsic spin of the electron
+- (D) The geometric shape of the orbital
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (B) The main energy level and size of the orbital
+
+**Ans: B.** The main energy level and size of the orbital
+</details>
+
+**Q-ST14.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
+- **Assertion (A):** Zirconium ($Zr$) and Hafnium ($Hf$) possess nearly identical atomic radii.
+- **Reason (R):** Lanthanide contraction compensates for the expected increase in atomic size from the 4d to 5d transition series.
+
+Select the correct answer:
+- (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
+- (B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)
+- (C) (A) is true but (R) is false
+- (D) (A) is false but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+**Ans: A.** Both (A) and (R) are true and (R) is the correct explanation of (A)
+</details>
+
+**Q-ST15.**
+
+The diagonal relationship in the periodic table is exhibited between which pair of elements?
+- (A) Sodium and Potassium
+- (B) Lithium and Magnesium
+- (C) Boron and Carbon
+- (D) Beryllium and Boron
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (B) Lithium and Magnesium
+
+**Ans: B.** Lithium and Magnesium
+</details>
+
+**Q-ST16.**
+
+How many valence electrons are present in a neutral Halogen atom?
+- (A) 1
+- (B) 5
+- (C) 7
+- (D) 8
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches 7.
+
+**Ans: C.** 7
+</details>
+
+**Q-ST17.**
+
+Which of the following is the most abundant gas in the Earth's atmosphere?
+- (A) Oxygen
+- (B) Nitrogen
+- (C) Argon
+- (D) Carbon dioxide
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (B) Nitrogen
+
+**Ans: B.** Nitrogen
+</details>
+
+**Q-ST18.**
+
+Which of the following elements has the electronic configuration $[Ar] 3d^{10} 4s^1$?
+- (A) Zinc
+- (B) Copper
+- (C) Nickel
+- (D) Potassium
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Copper.
+
+**Ans: B.** Copper
+</details>
+
+**Q-ST19.**
+
+What is the most common oxidation state of Alkali Metals (Group 1) in their chemical compounds?
+- (A) $-1$
+- (B) $+1$
+- (C) $+2$
+- (D) $+3$
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches $+1$.
+
+**Ans: B.** $+1$
+</details>
+
+**Q-ST20.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
+- **Assertion (A):** An intrinsic semiconductor acts as an ideal electrical insulator at $0\text{ K}$.
+- **Reason (R):** At absolute zero, all valence electrons are locked within covalent bonds and the conduction band is completely empty.
+
+Select the correct answer:
+- (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
+- (B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)
+- (C) (A) is true but (R) is false
+- (D) (A) is false but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+**Ans: A.** Both (A) and (R) are true and (R) is the correct explanation of (A)
+</details>
+
+**Q-ST21.**
+
+Which element among the following is the most electropositive?
+- (A) Fluorine
+- (B) Sodium
+- (C) Cesium
+- (D) Chlorine
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Cesium.
+
+**Ans: C.** Cesium
+</details>
+
+**Q-ST22.**
+
+Which allotrope of carbon is thermodynamically the most stable at standard room temperature and pressure?
+- (A) Diamond
+- (B) Graphite
+- (C) Fullerenes
+- (D) Carbon nanotubes
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (B) Graphite
+
+**Ans: B.** Graphite
+</details>
+
+**Q-ST23.**
+
+Which of the following pairs is **NOT** correctly matched?
+- (A) Group 1 — Alkali Metals
+- (B) Group 2 — Alkaline Earth Metals
+- (C) Group 16 — Halogens
+- (D) Group 18 — Noble Gases
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (C) Group 16 — Halogens
+
+**Ans: C.** Group 16 — Halogens
+</details>
+
+**Q-ST24.**
+
+In the periodic table, the horizontal rows are termed:
+- (A) Groups
+- (B) Periods
+- (C) Blocks
+- (D) Series
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Periods.
+
+**Ans: B.** Periods
+</details>
+
+**Q-ST25.**
+
+Which of the following subatomic particles has a positive electrical charge?
+- (A) Electron
+- (B) Neutron
+- (C) Proton
+- (D) Photon
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Proton.
+
+**Ans: C.** Proton
+</details>
+
+**Q-ST26.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
+- **Assertion (A):** Liquid Sodium and Potassium cannot be extinguished with water if they catch fire.
+- **Reason (R):** Alkali metals react violently with water, releasing flammable hydrogen gas and generating intense heat that ignites the hydrogen.
+
+Select the correct answer:
+- (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
+- (B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)
+- (C) (A) is true but (R) is false
+- (D) (A) is false but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+**Ans: A.** Both (A) and (R) are true and (R) is the correct explanation of (A)
+</details>
+
+---
+
+## Common Traps
+
+| Concept | Trap / Confusion Point | Examiner's Angle | Correct Fact |
+| :--- | :--- | :--- | :--- |
+| **Electron Affinity vs Electronegativity** | Assuming Fluorine has the highest electron affinity. | Most tested chemistry trap in PCS/IAS. | **Chlorine has the highest electron affinity** ($Cl > F > Br > I$); **Fluorine has the highest electronegativity**. |
+| **Abundance: Element vs Metal** | Answering Iron or Silicon as the most abundant metal in crust. | Crust composition trap. | **Oxygen is the #1 element** ($46.6\%$); **Aluminum is the #1 metal** ($8.1\%$). |
+| **Most Abundant Body Metal** | Answering Iron because of hemoglobin blood volume. | Human biochemistry trap. | **Calcium is the #1 metal in the body** ($1.5\%$ of body mass, $1\text{ kg}$ in bones); Iron is only $\approx 4\text{ grams}$. |
+| **Liquid Non-Metal** | Confusing Mercury with Bromine. | State of matter trap. | **Mercury is a liquid metal**; **Bromine is the only liquid non-metal**. |
+| **Nitrogen vs Oxygen $IE$** | Assuming Oxygen has higher ionization energy because it is to the right. | Subshell stability trap. | **Nitrogen has higher $IE_1$ than Oxygen** due to its stable half-filled $2p^3$ subshell. |
+| **Heaviest Subatomic Particle** | Assuming the proton is heavier than the neutron. | Nucleon mass trap. | The **Neutron is the heaviest** ($1.6749 \times 10^{-27}\text{ kg}$ vs proton $1.6726 \times 10^{-27}\text{ kg}$). |
+| **Isobars vs Isotones** | Confusing same mass number with same neutron count. | Nuclear terminology trap. | **Isobars = Same mass number ($A$)**; **Isotones = Same neutron count ($N = A - Z$)**. |
+| **Chromium Configuration** | Writing $3d^4 4s^2$. | Transition metal configuration trap. | Actual configuration is **$[Ar] 3d^5 4s^1$** (half-filled $d$-subshell stability). |
+| **Doped Semiconductor Charge** | Assuming N-type is negatively charged. | Solid state physics trap. | Doped semiconductors (both N-type and P-type) are **strictly electrically neutral**. |
+| **Sodium Storage** | Storing sodium in water instead of kerosene. | Chemical safety trap. | Sodium explodes in contact with water; must be stored in **kerosene oil**. |
+
+---
 

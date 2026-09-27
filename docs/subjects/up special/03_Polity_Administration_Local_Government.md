@@ -275,405 +275,6 @@ Uttar Pradesh is organized administratively into **18 Divisions (Mandals)**, com
 
 ---
 
-## Complete PYQ Bank (UPPCS)
-
-> Verified stems from UPPCS Prelims (and closely related UP papers). Extra Drill follows.
-
-**Q1. UPPCS (Pre) 2023**
-With reference to the composition of the Legislative Council in a State:
-1. Council may not have more than one-third members of the Assembly.
-2. Council must have at least forty members.
-Select the correct answer:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** UP Vidhan Parishad strength is 100; Assembly 403 — within the 1/3 ceiling and above the 40 floor.
-
-**Ans: C.** Both (Art. 171).
-
-</details>
-
-**Q2. UPPCS (Pre) 2023**
-Which statements are correct?
-1. Uttar Pradesh has 31 seats allotted for Rajya Sabha.
-2. Eighty members of the Lok Sabha are elected from Uttar Pradesh.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** UP: 80 Lok Sabha + 31 Rajya Sabha — highest among States.
-
-**Ans: C.** Both.
-
-</details>
-
-
----
-
-## Ghatnachakra Extra Drill — Polity Administration Local Government
-
-> Multi-exam / other-State PCS / standard coaching stems for the same topic map.
-
-**Q1. Standard UPPCS**
-Total seats in UP Legislative Assembly are:
-A. 400
-B. 403
-C. 404
-D. 425
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Including one Anglo-Indian nomination historically — present strength taught as 403 elected.
-
-**Ans: B.** 403.
-
-</details>
-
-
----
-
-
-### Other Papers — BPSC / MPPSC / RAS / UKPCS / UPSC / WBCS
-
-**Q2. Standard multi-PSC / Constitution**
-Census is a subject of which List of the Seventh Schedule?
-A. State List
-B. Concurrent List
-C. Union List
-D. Residuary only
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Asked across State PCS; Census is not a State subject.
-
-**Ans: C.** Union List (Entry 69).
-
-</details>
-
-**Q3. UPSC (CSE) Prelims 2008**
-As per India’s National Population Policy, 2000, by which year is it our long-term objective to achieve population stabilisation?
-A. 2025
-B. 2035
-C. 2045
-D. 2055
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Policy year for administration Extra Drill — distinct from UPPCS 2070 key.
-
-**Ans: C.** 2045.
-
-</details>
-
-## Practice Zone
-
-1. How many total seats are currently sanctioned in the Uttar Pradesh Legislative Council (Vidhan Parishad)?
-   (A) 90
-   (B) 100
-   (C) 108
-   (D) 120
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) 100</b><br>
-<b>Explanation:</b> The UP Legislative Council has a statutory strength of 100 members, making it the largest State Upper House in India. Prior to the bifurcation of Uttarakhand, it had 108 seats.
-</details>
-
-2. In the Uttar Pradesh Legislative Council, how many members are nominated by the Governor from among persons having special knowledge in literature, science, art, cooperative movement, and social service?
-   (A) 8
-   (B) 10
-   (C) 12
-   (D) 1/6th of total
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) 10</b><br>
-<b>Explanation:</b> In the 100-member UP Legislative Council, exactly 10 members are nominated by the Governor under statutory distribution provisions (36 by local bodies, 36 by MLAs, 10 by Governor, 9 by teachers, 9 by graduates).
-</details>
-
-3. What is the minimum age prescribed for a person to be eligible for election to the Uttar Pradesh Legislative Council?
-   (A) 21 Years
-   (B) 25 Years
-   (C) 30 Years
-   (D) 35 Years
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) 30 Years</b><br>
-<b>Explanation:</b> Under Article 173 of the Constitution, a person must be not less than 25 years of age for the Legislative Assembly and not less than 30 years of age for the Legislative Council.
-</details>
-
-4. In the election of the President of India, what is the calculated value of the vote of each MLA from Uttar Pradesh?
-   (A) 176
-   (B) 208
-   (C) 216
-   (D) 248
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) 208</b><br>
-<b>Explanation:</b> The vote value of an MLA in the Presidential election is calculated based on the 1971 census population divided by total elected MLAs $	imes 1000$. Uttar Pradesh has the highest MLA vote value in India at 208.
-</details>
-
-5. Which Constitutional Amendment Act extended the tenure of reservation of seats for SCs and STs in the UP Legislative Assembly up to the year 2030 while discontinuing Anglo-Indian nominations?
-   (A) 102nd Amendment Act
-   (B) 103rd Amendment Act
-   (C) 104th Amendment Act
-   (D) 105th Amendment Act
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) 104th Amendment Act</b><br>
-<b>Explanation:</b> The 104th Constitutional Amendment Act, 2019 extended SC/ST reservations in Lok Sabha and State Assemblies for 10 more years (until 25 January 2030) and removed the provision for nominated Anglo-Indian seats.
-</details>
-
-6. The permanent Lucknow Bench of the Allahabad High Court exercises territorial jurisdiction over how many districts of the Awadh region?
-   (A) 8 Districts
-   (B) 12 Districts
-   (C) 15 Districts
-   (D) 20 Districts
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) 12 Districts</b><br>
-<b>Explanation:</b> The Lucknow Bench exercises jurisdiction over 12 districts of Central UP/Awadh: Lucknow, Unnao, Rae Bareli, Sitapur, Hardoi, Lakhimpur Kheri, Ayodhya, Barabanki, Amethi, Sultanpur, Ambedkar Nagar, and Bahraich.
-</details>
-
-7. Who was the first Chairman of the Uttar Pradesh Public Service Commission (UPPSC) when it was constituted in 1937?
-   (A) Sir D.L. Drake-Brockman
-   (B) Sir Walter Morgan
-   (C) Sir John Hewett
-   (D) Sir William Wedderburn
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (A) Sir D.L. Drake-Brockman</b><br>
-<b>Explanation:</b> Sir Digby Livingstone Drake-Brockman (ICS) was the first Chairman of the UPPSC when it commenced operations on 1 April 1937 at Allahabad.
-</details>
-
-8. A member of the Uttar Pradesh Public Service Commission holds office for a term of:
-   (A) 5 years or until age 60 years
-   (B) 6 years or until age 62 years
-   (C) 6 years or until age 65 years
-   (D) 5 years or until age 65 years
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) 6 years or until age 62 years</b><br>
-<b>Explanation:</b> Under Article 316(2), a member of a State Public Service Commission holds office for a term of 6 years from the date on which they enter office or until they attain the age of 62 years, whichever is earlier (65 years for UPSC).
-</details>
-
-9. Under the UP Lokayukta and Up-Lokayuktas Act, 1975, the Lokayukta submits their annual report of performance to:
-   (A) Chief Justice of Allahabad High Court
-   (B) Speaker of the Legislative Assembly
-   (C) Governor of Uttar Pradesh
-   (D) Chief Minister of Uttar Pradesh
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) Governor of Uttar Pradesh</b><br>
-<b>Explanation:</b> The Lokayukta submits an annual report in writing to the Governor of Uttar Pradesh, who causes it to be laid before each House of the State Legislature along with an explanatory memorandum.
-</details>
-
-10. The first Lokayukta of Uttar Pradesh was:
-   (A) Justice Kailash Nath Wanchoo
-   (B) Justice Vishwambhar Dayal
-   (C) Justice Sudhir Chandra Verma
-   (D) Justice Sanjay Mishra
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Justice Vishwambhar Dayal</b><br>
-<b>Explanation:</b> Justice Vishwambhar Dayal (retired Chief Justice of MP High Court and Judge of Allahabad HC) was appointed as the first Lokayukta of UP in September 1977.
-</details>
-
-11. Under the Uttar Pradesh Panchayat Raj Act, 1947, who is the secretary and administrative custodian of records of a Gram Panchayat?
-   (A) Gram Pradhan
-   (B) Gram Panchayat Adhikari / Gram Vikas Adhikari
-   (C) Lekhpal
-   (D) Block Development Officer
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Gram Panchayat Adhikari / Gram Vikas Adhikari</b><br>
-<b>Explanation:</b> The Gram Panchayat Adhikari (Village Panchayat Secretary) is the executive officer appointed by the government to maintain registers, accounts, and minutes of the Gram Sabha and Gram Panchayat meetings.
-</details>
-
-12. Under Article 243ZD of the Constitution, who heads the District Planning Committee (DPC) constituted in every district of Uttar Pradesh?
-   (A) District Magistrate
-   (B) Minister-in-Charge of the District / Zila Panchayat Adhyaksha
-   (C) Chief Development Officer
-   (D) Divisional Commissioner
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Minister-in-Charge of the District / Zila Panchayat Adhyaksha</b><br>
-<b>Explanation:</b> In UP, the District Planning Committee is headed by the Minister-in-Charge of the district (or Zila Panchayat Adhyaksha), with the District Magistrate acting as the Member Secretary. At least 4/5ths of the DPC members are elected by and from elected members of Zila Panchayat and Municipalities.
-</details>
-
-13. Which of the following urban authorities in Uttar Pradesh is NOT a Nagar Nigam (Municipal Corporation), but an Industrial Township governed under Article 243Q proviso?
-   (A) Firozabad
-   (B) Shahjahanpur
-   (C) Greater Noida
-   (D) Saharanpur
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) Greater Noida</b><br>
-<b>Explanation:</b> Greater Noida (GNIDA) and NOIDA are statutory industrial development authorities constituted under the UP Industrial Area Development Act, 1976. Under the proviso to Article 243Q(1), they function as Industrial Townships and do not have an elected Nagar Nigam.
-</details>
-
-14. How many Development Blocks (Vikas Khand) are currently functioning in Uttar Pradesh?
-   (A) 351
-   (B) 750
-   (C) 826
-   (D) 950
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) 826</b><br>
-<b>Explanation:</b> Uttar Pradesh is divided into 826 Development Blocks (Vikas Khand / Kshetra Panchayats) for decentralized rural planning and execution of welfare schemes.
-</details>
-
-15. What is the total number of Tehsils in Uttar Pradesh as per official state revenue administrative records?
-   (A) 312
-   (B) 351
-   (C) 403
-   (D) 450
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) 351</b><br>
-<b>Explanation:</b> There are currently 351 Tehsils in Uttar Pradesh across its 75 districts. Each Tehsil is headed by a Sub-Divisional Magistrate (SDM) / Tehsildar.
-</details>
-
-16. Which of the following districts of Uttar Pradesh is NOT included in the National Capital Region (NCR)?
-   (A) Shamli
-   (B) Muzaffarnagar
-   (C) Aligarh
-   (D) Baghpat
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) Aligarh</b><br>
-<b>Explanation:</b> Exactly 8 districts of UP are part of NCR: Meerut, Ghaziabad, Gautam Buddha Nagar, Bulandshahr, Hapur, Baghpat, Muzaffarnagar, and Shamli. Aligarh is not included in NCR.
-</details>
-
-17. The headquarters of Chitrakoot Administrative Division is located at which town?
-   (A) Chitrakoot Dham (Karwi)
-   (B) Banda
-   (C) Mahoba
-   (D) Hamirpur
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Banda</b><br>
-<b>Explanation:</b> Chitrakoot Division comprises 4 districts: Banda, Chitrakoot, Hamirpur, and Mahoba. Its administrative headquarters is located at Banda.
-</details>
-
-18. What is the statutory percentage of reservation provided for women in Panchayati Raj Institutions in Uttar Pradesh?
-   (A) 30%
-   (B) 33.3%
-   (C) 50%
-   (D) 25%
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) 50%</b><br>
-<b>Explanation:</b> While Article 243D(3) of the Constitution sets a minimum floor of 33.3% (1/3rd), Uttar Pradesh has enacted 50% reservation for women across all tiers of Panchayati Raj Institutions and Urban Local Bodies.
-</details>
-
-19. How many times has President's Rule (Article 356) been imposed in Uttar Pradesh since independence?
-   (A) 7 times
-   (B) 8 times
-   (C) 10 times
-   (D) 12 times
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) 10 times</b><br>
-<b>Explanation:</b> President's Rule has been invoked 10 times in Uttar Pradesh. The first proclamation was made on 25 February 1968, and the most recent (10th) was in March 2002.
-</details>
-
-20. The official 'Uttar Pradesh Diwas' is celebrated every year on which date?
-   (A) 1 November
-   (B) 24 January
-   (C) 26 January
-   (D) 15 August
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) 24 January</b><br>
-<b>Explanation:</b> UP Diwas is celebrated on 24 January because on 24 January 1950, the Governor-General of India signed the United Provinces (Alteration of Name) Order, 1950, renaming United Provinces as 'Uttar Pradesh'.
-</details>
-
-21. Which article of the Constitution of India provides for the establishment of a Consolidated Fund of the State from which UP government expenditures are met?
-   (A) Article 266(1)
-   (B) Article 267(2)
-   (C) Article 280
-   (D) Article 243H
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (A) Article 266(1)</b><br>
-<b>Explanation:</b> Article 266(1) provides for the Consolidated Fund of the State, into which all revenues received by the Government of Uttar Pradesh, loans raised, and monies received in repayment of loans are credited.
-</details>
-
-22. Who among the following is the highest civil servant and executive coordinator of all departments in Uttar Pradesh?
-   (A) Principal Secretary (Home)
-   (B) Chief Secretary
-   (C) Advocate General
-   (D) Director General of Police (DGP)
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Chief Secretary</b><br>
-<b>Explanation:</b> The Chief Secretary is the senior-most civil servant in the state, serving as the ex-officio Secretary to the Council of Ministers, administrative head of the Secretariat, and chief advisor to the Chief Minister.
-</details>
-
-23. Under Article 165 of the Constitution, the Advocate General for Uttar Pradesh is appointed by:
-   (A) Chief Justice of Allahabad High Court
-   (B) Governor of Uttar Pradesh
-   (C) President of India
-   (D) Chief Minister of Uttar Pradesh
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Governor of Uttar Pradesh</b><br>
-<b>Explanation:</b> Under Article 165, the Governor of Uttar Pradesh appoints a person who is qualified to be appointed a Judge of a High Court to be the Advocate General for the State.
-</details>
-
-24. Which of the following constitutional provisions empowers the Governor of UP to promulgate Ordinances during the recess of the State Legislature?
-   (A) Article 123
-   (B) Article 213
-   (C) Article 217
-   (D) Article 161
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Article 213</b><br>
-<b>Explanation:</b> Article 213 empowers the Governor to promulgate ordinances when either or both Houses of the State Legislature are not in session, having the same force and effect as an Act of the Legislature.
-</details>
-
-25. The Provisions of the Panchayats (Extension to Scheduled Areas) Act, 1996 (PESA) does NOT apply to Uttar Pradesh because:
-   (A) UP Legislature rejected the Act
-   (B) UP has no Fifth Schedule Areas
-   (C) High Court stayed its implementation
-   (D) Tribal population is less than 10%
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) UP has no Fifth Schedule Areas</b><br>
-<b>Explanation:</b> PESA applies only to the Scheduled Areas declared under the Fifth Schedule of the Constitution (present in 10 states). Uttar Pradesh has no Fifth Schedule areas, hence PESA does not operate in UP.
-</details>
-
-26. When a Money Bill is passed by the UP Legislative Assembly and transmitted to the Legislative Council, within how many days must the Council return it with or without recommendations?
-   (A) 14 Days
-   (B) 30 Days
-   (C) 3 Months
-   (D) 6 Months
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (A) 14 Days</b><br>
-<b>Explanation:</b> Under Article 198, the Legislative Council must return a Money Bill to the Legislative Assembly within a period of 14 days from the date of its receipt, failing which the bill is deemed passed by both Houses.
-</details>
-
-## Common Traps
-
-| Trap | Correct |
-|---|---|
-| Mixing Absolute vs % ranks | Match the stem metric first |
-
-
----
-
 ## Bilingual Terminology -- UP Polity and Administration
 
 | English | Hindi | Key Anchor |
@@ -753,6 +354,102 @@ D. 2055
 
 ---
 
+## Complete PYQ Bank (UPPCS)
+
+> Verified stems from UPPCS Prelims (and closely related UP papers). Extra Drill follows.
+
+**Q1. UPPCS (Pre) 2023**
+With reference to the composition of the Legislative Council in a State:
+1. Council may not have more than one-third members of the Assembly.
+2. Council must have at least forty members.
+Select the correct answer:
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** UP Vidhan Parishad strength is 100; Assembly 403 — within the 1/3 ceiling and above the 40 floor.
+
+**Ans: C.** Both (Art. 171).
+
+</details>
+
+**Q2. UPPCS (Pre) 2023**
+Which statements are correct?
+1. Uttar Pradesh has 31 seats allotted for Rajya Sabha.
+2. Eighty members of the Lok Sabha are elected from Uttar Pradesh.
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Both 1 and 2.
+
+**Ans: C.** Both 1 and 2
+</details>
+
+---
+
+## Ghatnachakra Extra Drill — Polity Administration Local Government
+
+> Multi-exam / other-State PCS / standard coaching stems for the same topic map.
+
+**Q1. Standard UPPCS**
+Total seats in UP Legislative Assembly are:
+A. 400
+B. 403
+C. 404
+D. 425
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches 403.
+
+**Ans: B.** 403
+</details>
+
+---
+
+### Other Papers — BPSC / MPPSC / RAS / UKPCS / UPSC / WBCS
+
+**Q2. Standard multi-PSC / Constitution**
+Census is a subject of which List of the Seventh Schedule?
+A. State List
+B. Concurrent List
+C. Union List
+D. Residuary only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Asked across State PCS; Census is not a State subject.
+
+**Ans: C.** Union List (Entry 69).
+
+</details>
+
+**Q3. UPSC (CSE) Prelims 2008**
+As per India’s National Population Policy, 2000, by which year is it our long-term objective to achieve population stabilisation?
+A. 2025
+B. 2035
+C. 2045
+D. 2055
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches 2045.
+
+**Ans: C.** 2045
+</details>
+
 ## UKPCS / BPSC / MPPSC Extra Drill -- UP Polity
 
 **Q1. UKPCS (Pre) 2021**
@@ -765,10 +462,9 @@ D. 543
 <details>
 <summary>Show answer</summary>
 
-**Logic:** UP Vidhan Sabha has **403 constituencies** -- the largest State Legislative Assembly in India. UP also sends **80 MPs** to Lok Sabha -- the largest delegation from any State.
+**Logic:** Standard key matches 403.
 
-**Ans: C.** 403.
-
+**Ans: C.** 403
 </details>
 
 **Q2. BPSC-type**
@@ -781,10 +477,9 @@ D. 150
 <details>
 <summary>Show answer</summary>
 
-**Logic:** UP Vidhan Parishad = **100 members**. It is a permanent body; 1/3 members retire every 2 years. States with bicameral legislature: UP, Bihar, Maharashtra, Karnataka, Telangana, Andhra Pradesh, Jammu & Kashmir (suspended).
+**Logic:** Standard key matches 100.
 
-**Ans: B.** 100.
-
+**Ans: B.** 100
 </details>
 
 **Q3. MPPSC (Pre) 2022**
@@ -797,7 +492,7 @@ D. Nagar Panchayat
 <details>
 <summary>Show answer</summary>
 
-**Logic:** UP has a 3-tier PRIsystem. **Kshetra Panchayat** = Block/Intermediate level (headed by Pramukh). Gram Panchayat = Village level (headed by Pradhan). Zila Panchayat = District level (headed by Adhyaksha).
+**Logic:** UP has a 3-tier PRIsystem.
 
 **Ans: B.** Kshetra Panchayat.
 
@@ -813,10 +508,9 @@ D. 84
 <details>
 <summary>Show answer</summary>
 
-**Logic:** UP has **80 Lok Sabha seats** -- the largest State delegation in Parliament. Maharashtra has 48, West Bengal 42, Bihar 40.
+**Logic:** Standard key matches 80.
 
-**Ans: C.** 80.
-
+**Ans: C.** 80
 </details>
 
 ---
@@ -840,4 +534,352 @@ D. 84
 | 13 | Allahabad HC established = **1866** |
 | 14 | UP Governor appointed by **President of India** |
 | 15 | Women reservation in UP Panchayats = **50%** (increased in 2020) |
+
+## Practice Zone
+
+1. How many total seats are currently sanctioned in the Uttar Pradesh Legislative Council (Vidhan Parishad)?
+   (A) 90
+   (B) 100
+   (C) 108
+   (D) 120
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches 100.
+
+**Ans: B.** 100
+</details>
+
+2. In the Uttar Pradesh Legislative Council, how many members are nominated by the Governor from among persons having special knowledge in literature, science, art, cooperative movement, and social service?
+   (A) 8
+   (B) 10
+   (C) 12
+   (D) 1/6th of total
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches 10.
+
+**Ans: B.** 10
+</details>
+
+3. What is the minimum age prescribed for a person to be eligible for election to the Uttar Pradesh Legislative Council?
+   (A) 21 Years
+   (B) 25 Years
+   (C) 30 Years
+   (D) 35 Years
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches 30 Years.
+
+**Ans: C.** 30 Years
+</details>
+
+4. In the election of the President of India, what is the calculated value of the vote of each MLA from Uttar Pradesh?
+   (A) 176
+   (B) 208
+   (C) 216
+   (D) 248
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches 208.
+
+**Ans: B.** 208
+</details>
+
+5. Which Constitutional Amendment Act extended the tenure of reservation of seats for SCs and STs in the UP Legislative Assembly up to the year 2030 while discontinuing Anglo-Indian nominations?
+   (A) 102nd Amendment Act
+   (B) 103rd Amendment Act
+   (C) 104th Amendment Act
+   (D) 105th Amendment Act
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches 104th Amendment Act.
+
+**Ans: C.** 104th Amendment Act
+</details>
+
+6. The permanent Lucknow Bench of the Allahabad High Court exercises territorial jurisdiction over how many districts of the Awadh region?
+   (A) 8 Districts
+   (B) 12 Districts
+   (C) 15 Districts
+   (D) 20 Districts
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches 12 Districts.
+
+**Ans: B.** 12 Districts
+</details>
+
+7. Who was the first Chairman of the Uttar Pradesh Public Service Commission (UPPSC) when it was constituted in 1937?
+   (A) Sir D.L. Drake-Brockman
+   (B) Sir Walter Morgan
+   (C) Sir John Hewett
+   (D) Sir William Wedderburn
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Decide from the stem options; keyed answer is Sir D.L..
+
+**Ans: A.** Sir D.L.
+</details>
+
+8. A member of the Uttar Pradesh Public Service Commission holds office for a term of:
+   (A) 5 years or until age 60 years
+   (B) 6 years or until age 62 years
+   (C) 6 years or until age 65 years
+   (D) 5 years or until age 65 years
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches 6 years or until age 62 years.
+
+**Ans: B.** 6 years or until age 62 years
+</details>
+
+9. Under the UP Lokayukta and Up-Lokayuktas Act, 1975, the Lokayukta submits their annual report of performance to:
+   (A) Chief Justice of Allahabad High Court
+   (B) Speaker of the Legislative Assembly
+   (C) Governor of Uttar Pradesh
+   (D) Chief Minister of Uttar Pradesh
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Governor of Uttar Pradesh.
+
+**Ans: C.** Governor of Uttar Pradesh
+</details>
+
+10. The first Lokayukta of Uttar Pradesh was:
+   (A) Justice Kailash Nath Wanchoo
+   (B) Justice Vishwambhar Dayal
+   (C) Justice Sudhir Chandra Verma
+   (D) Justice Sanjay Mishra
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Justice Vishwambhar Dayal.
+
+**Ans: B.** Justice Vishwambhar Dayal
+</details>
+
+11. Under the Uttar Pradesh Panchayat Raj Act, 1947, who is the secretary and administrative custodian of records of a Gram Panchayat?
+   (A) Gram Pradhan
+   (B) Gram Panchayat Adhikari / Gram Vikas Adhikari
+   (C) Lekhpal
+   (D) Block Development Officer
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Gram Panchayat Adhikari / Gram Vikas Adhikari.
+
+**Ans: B.** Gram Panchayat Adhikari / Gram Vikas Adhikari
+</details>
+
+12. Under Article 243ZD of the Constitution, who heads the District Planning Committee (DPC) constituted in every district of Uttar Pradesh?
+   (A) District Magistrate
+   (B) Minister-in-Charge of the District / Zila Panchayat Adhyaksha
+   (C) Chief Development Officer
+   (D) Divisional Commissioner
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Minister-in-Charge of the District / Zila Panchayat Adhyaksha.
+
+**Ans: B.** Minister-in-Charge of the District / Zila Panchayat Adhyaksha
+</details>
+
+13. Which of the following urban authorities in Uttar Pradesh is NOT a Nagar Nigam (Municipal Corporation), but an Industrial Township governed under Article 243Q proviso?
+   (A) Firozabad
+   (B) Shahjahanpur
+   (C) Greater Noida
+   (D) Saharanpur
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Greater Noida.
+
+**Ans: C.** Greater Noida
+</details>
+
+14. How many Development Blocks (Vikas Khand) are currently functioning in Uttar Pradesh?
+   (A) 351
+   (B) 750
+   (C) 826
+   (D) 950
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches 826.
+
+**Ans: C.** 826
+</details>
+
+15. What is the total number of Tehsils in Uttar Pradesh as per official state revenue administrative records?
+   (A) 312
+   (B) 351
+   (C) 403
+   (D) 450
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches 351.
+
+**Ans: B.** 351
+</details>
+
+16. Which of the following districts of Uttar Pradesh is NOT included in the National Capital Region (NCR)?
+   (A) Shamli
+   (B) Muzaffarnagar
+   (C) Aligarh
+   (D) Baghpat
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Aligarh.
+
+**Ans: C.** Aligarh
+</details>
+
+17. The headquarters of Chitrakoot Administrative Division is located at which town?
+   (A) Chitrakoot Dham (Karwi)
+   (B) Banda
+   (C) Mahoba
+   (D) Hamirpur
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Banda.
+
+**Ans: B.** Banda
+</details>
+
+18. What is the statutory percentage of reservation provided for women in Panchayati Raj Institutions in Uttar Pradesh?
+   (A) 30%
+   (B) 33.3%
+   (C) 50%
+   (D) 25%
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches 50%.
+
+**Ans: C.** 50%
+</details>
+
+19. How many times has President's Rule (Article 356) been imposed in Uttar Pradesh since independence?
+   (A) 7 times
+   (B) 8 times
+   (C) 10 times
+   (D) 12 times
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches 10 times.
+
+**Ans: C.** 10 times
+</details>
+
+20. The official 'Uttar Pradesh Diwas' is celebrated every year on which date?
+   (A) 1 November
+   (B) 24 January
+   (C) 26 January
+   (D) 15 August
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches 24 January.
+
+**Ans: B.** 24 January
+</details>
+
+21. Which article of the Constitution of India provides for the establishment of a Consolidated Fund of the State from which UP government expenditures are met?
+   (A) Article 266(1)
+   (B) Article 267(2)
+   (C) Article 280
+   (D) Article 243H
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Article 266(1).
+
+**Ans: A.** Article 266(1)
+</details>
+
+22. Who among the following is the highest civil servant and executive coordinator of all departments in Uttar Pradesh?
+   (A) Principal Secretary (Home)
+   (B) Chief Secretary
+   (C) Advocate General
+   (D) Director General of Police (DGP)
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Chief Secretary.
+
+**Ans: B.** Chief Secretary
+</details>
+
+23. Under Article 165 of the Constitution, the Advocate General for Uttar Pradesh is appointed by:
+   (A) Chief Justice of Allahabad High Court
+   (B) Governor of Uttar Pradesh
+   (C) President of India
+   (D) Chief Minister of Uttar Pradesh
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Governor of Uttar Pradesh.
+
+**Ans: B.** Governor of Uttar Pradesh
+</details>
+
+24. Which of the following constitutional provisions empowers the Governor of UP to promulgate Ordinances during the recess of the State Legislature?
+   (A) Article 123
+   (B) Article 213
+   (C) Article 217
+   (D) Article 161
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Article 213.
+
+**Ans: B.** Article 213
+</details>
+
+25. The Provisions of the Panchayats (Extension to Scheduled Areas) Act, 1996 (PESA) does NOT apply to Uttar Pradesh because:
+   (A) UP Legislature rejected the Act
+   (B) UP has no Fifth Schedule Areas
+   (C) High Court stayed its implementation
+   (D) Tribal population is less than 10%
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches UP has no Fifth Schedule Areas.
+
+**Ans: B.** UP has no Fifth Schedule Areas
+</details>
+
+26. When a Money Bill is passed by the UP Legislative Assembly and transmitted to the Legislative Council, within how many days must the Council return it with or without recommendations?
+   (A) 14 Days
+   (B) 30 Days
+   (C) 3 Months
+   (D) 6 Months
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches 14 Days.
+
+**Ans: A.** 14 Days
+</details>
+
+## Common Traps
+
+| Trap | Correct |
+|---|---|
+| Mixing Absolute vs % ranks | Match the stem metric first |
+
+---
 

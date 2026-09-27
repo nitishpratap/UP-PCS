@@ -18,7 +18,6 @@ BoP / FEMA / tariff depth stays in **Topic 9**. WTO **trade rules** angle also l
 
 ## Current Affairs
 
-
 | Year | Fact | Why it matters |
 |------|------|----------------|
 | **2025** | Bretton Woods twins set up together; **both HQ in Washington D.C.** — World Bank is **not** in New York. | Only statement 1 correct. |
@@ -32,7 +31,6 @@ BoP / FEMA / tariff depth stays in **Topic 9**. WTO **trade rules** angle also l
 ---
 
 ## Consolidated — 46 Must-Score Facts
-
 
 1. The **Bretton Woods Conference (1944)** created the **IMF** and the **IBRD** (core of today’s World Bank) — popularly the **Bretton Woods twins**.
 2. **IMF** headquarters: **Washington D.C.**
@@ -85,7 +83,6 @@ BoP / FEMA / tariff depth stays in **Topic 9**. WTO **trade rules** angle also l
 
 ## Confused Pairs
 
-
 | A | B | Distinguishing fact |
 |---|---|---|
 | **IMF** | **World Bank** | Monetary / BoP stability vs development lending |
@@ -103,7 +100,6 @@ BoP / FEMA / tariff depth stays in **Topic 9**. WTO **trade rules** angle also l
 | **G20 lotus 7 petals** | **G20 member count** | Continents motif ≠ “20 petals” |
 
 ## Must-score drill — twins, groupings, HQs
-
 
 | Item | Tag |
 |---|---|
@@ -124,7 +120,6 @@ BoP / FEMA / tariff depth stays in **Topic 9**. WTO **trade rules** angle also l
 ---
 
 ## 10.1 Bretton Woods twins — IMF and World Bank Group
-
 
 **Bretton Woods (July 1944)** was the United Nations Monetary and Financial Conference that designed the post-war monetary and development order.
 
@@ -157,7 +152,7 @@ BoP / FEMA / tariff depth stays in **Topic 9**. WTO **trade rules** angle also l
 - IBRD ≠ IDA ≠ IFC; IFC is **not** the IMF.
 - Membership counts are year-sensitive (classic keys often cite about **189** IBRD members).
 
-**UPPCS (Pre) 2025**
+**Q-EC1. UPPCS (Pre) 2025**
 
 With reference to World Bank and International Monetary Fund, which of the following statements is/are correct?
 
@@ -174,13 +169,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Statement 1 is true (1944 twins). Statement 2 is false — **both** are in Washington D.C.; New York is the UN distractor.
+**Logic:** Statement 2 is false — **both** are in Washington D.C.; New York is the UN distractor.
 
-**Ans: D.** Only 1.
+**Ans: D.** Statement 1 is true (1944 twins).
 
 </details>
 
-**UKPCS (Pre) 2021**
+**Q-EC2. UKPCS (Pre) 2021**
 
 Which one is correct about IMF?
 
@@ -192,16 +187,15 @@ D. It grants loan to the Central Bank of a country.
 <details>
 <summary>Show answer</summary>
 
-**Logic:** IMF facilities are for **members** under Articles / programme rules — not “any country,” and not developing-only.
+**Logic:** It grants loan to only member countries.
 
-**Ans: C.** It grants loan to only member countries.
+**Ans: C.** IMF facilities are for **members** under Articles / programme rules — not “any country,” and not developing-only.
 
 </details>
 
 ---
 
 ## 10.2 Regional and plurilateral development banks
-
 
 **Multilateral development banks** finance infrastructure and long-horizon development beyond short-term IMF BoP support.
 
@@ -218,7 +212,6 @@ D. It grants loan to the Central Bank of a country.
 
 ## 10.3 BRICS
 
-
 **BRICS** is a plurilateral grouping of major emerging economies that coordinate on finance, development and global governance reform.
 
 - **Jim O’Neill** (Goldman Sachs) coined **BRIC** in **2001** for Brazil, Russia, India and China.
@@ -230,7 +223,7 @@ D. It grants loan to the Central Bank of a country.
 - Mid-2020s expansion teaching: Egypt, Ethiopia, Iran and UAE among 2024 entrants; **Indonesia** from **2025** in UKPCS keys.
 - Stock claims about population and GDP share appear in stems; an inflated “~46% of global trade” line is a classic **NOT correct** distractor.
 
-**UKPCS (Pre) 2016**
+**Q-EC3. UKPCS (Pre) 2016**
 
 Who coined the term ‘BRICS’ in 2001?
 
@@ -242,13 +235,13 @@ D. Vladimir Putin
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Goldman Sachs economist Jim O’Neill coined **BRIC** (the stem’s year-tag); South Africa’s later join made BRICS.
+**Logic:** Jim O’Neill.
 
-**Ans: A.** Jim O’Neill.
+**Ans: A.** Goldman Sachs economist Jim O’Neill coined **BRIC** (the stem’s year-tag); South Africa’s later join made BRICS.
 
 </details>
 
-**UKPCS (Pre) 2016**
+**Q-EC4. UKPCS (Pre) 2016**
 
 In which year ‘BRIC’ grouping was formed as ‘BRICS’?
 
@@ -260,13 +253,13 @@ D. 2012
 <details>
 <summary>Show answer</summary>
 
-**Logic:** South Africa’s accession in **2010** turns BRIC into BRICS. 2009 is the first BRIC summit year.
+**Logic:** 2009 is the first BRIC summit year.
 
-**Ans: A.** 2010.
+**Ans: A.** South Africa’s accession in **2010** turns BRIC into BRICS.
 
 </details>
 
-**UPPCS (Pre) 2018**
+**Q-EC5. UPPCS (Pre) 2018**
 
 The 10th 'BRICS' Summit 2018 was held in which of the following countries?
 
@@ -278,13 +271,13 @@ D. China
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Johannesburg / South Africa hosted the 10th Summit.
+**Logic:** South Africa.
 
-**Ans: B.** South Africa.
+**Ans: B.** Johannesburg / South Africa hosted the 10th Summit.
 
 </details>
 
-**UKPCS (Pre) 2024**
+**Q-EC6. UKPCS (Pre) 2024**
 
 BRICS is important in the global economy. Which of the following statements about BRICS is NOT correct?
 
@@ -296,16 +289,15 @@ D. The first BRICS Summit was held in 2009 in Russia.
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Population and GDP share lines are in the ballpark of teaching claims; **~46% of global trade** is the inflated false claim. First summit 2009 in Russia is the standard teaching tag (BRIC summit that year).
+**Logic:** First summit 2009 in Russia is the standard teaching tag (BRIC summit that year).
 
-**Ans: C.** It represents around 46 percent of global trade.
+**Ans: C.** Population and GDP share lines are in the ballpark of teaching claims; **~46% of global trade** is the inflated false claim.
 
 </details>
 
 ---
 
 ## 10.4 G20 and G7
-
 
 **G20** is the premier forum for economic cooperation among major systemic economies.
 
@@ -320,7 +312,7 @@ D. The first BRICS Summit was held in 2009 in Russia.
 
 ---
 
-**UPPCS (Pre) 2023**
+**Q-EC7. UPPCS (Pre) 2023**
 
 With reference to India's G20 Logo, which of the following statements is/are correct?
 
@@ -335,13 +327,13 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Official logo briefing — lotus with seven petals standing for the seven continents (and seven notes of music in the same motif story).
+**Logic:** Both 1 and 2.
 
-**Ans: C.** Both 1 and 2.
+**Ans: C.** Official logo briefing — lotus with seven petals standing for the seven continents (and seven notes of music in the same motif story).
 
 </details>
 
-**UPPCS (Pre) 2023**
+**Q-EC8. UPPCS (Pre) 2023**
 
 Which of the following cities of Uttar Pradesh was not included as a venue for the 11 meetings of the G20 during India's Presidency?
 
@@ -353,10 +345,9 @@ D. Greater Noida
 <details>
 <summary>Show answer</summary>
 
-**Logic:** UP venues in the keyed set were Varanasi, Agra, Lucknow and Greater Noida — **Kanpur** was not among them.
+**Logic:** UP venues in the keyed set were Varanasi, Agra, Lucknow and Greater Noida — Kanpur was not among them — Kanpur
 
-**Ans: C.** Kanpur.
-
+**Ans: C.** Kanpur
 </details>
 
 **G7** remains the advanced-economy political–economic club. Do not confuse G7 membership with G20 membership — several G20 members are emerging economies outside G7.
@@ -364,7 +355,6 @@ D. Greater Noida
 ---
 
 ## 10.5 ASEAN, SAARC, BIMSTEC, SCO
-
 
 **Regional groupings** organise neighbourhood trade, connectivity and political coordination.
 
@@ -399,7 +389,7 @@ D. Greater Noida
 - India and Pakistan became full members in the **2017** teaching wave.
 - Summit venues rotate among members; do not confuse SCO with ASEAN or SAARC secretariats.
 
-**UKPCS (Pre) 2021**
+**Q-EC9. UKPCS (Pre) 2021**
 
 In which year was the SAARC Summit, for the first time, held in India?
 
@@ -411,13 +401,12 @@ D. None of these
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Bangalore 1986 was India’s first SAARC Summit host year (Dhaka 1985 was the inaugural summit overall).
+**Logic:** Bangalore 1986 was India’s first SAARC Summit host year (Dhaka 1985 was the inaugural summit overall) — 1986
 
-**Ans: A.** 1986.
-
+**Ans: A.** 1986
 </details>
 
-**UPPCS (Pre) 2025**
+**Q-EC10. UPPCS (Pre) 2025**
 
 Which of the following countries is/are NOT a member of the Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Co-operation (BIMSTEC)?
 
@@ -436,13 +425,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Thailand, Nepal and Bhutan are members. **Indonesia** is ASEAN, not BIMSTEC.
+**Logic:** Indonesia** is ASEAN, not BIMSTEC.
 
-**Ans: B.** Only 4.
+**Ans: B.** Thailand, Nepal and Bhutan are members.
 
 </details>
 
-**UPPCS (Pre) 2022**
+**Q-EC11. UPPCS (Pre) 2022**
 
 With reference to BIMSTEC, which of the following statements is/are true?
 
@@ -457,13 +446,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Modi did address the 30 March 2022 summit. Chair / host was **Sri Lanka** (Colombo), not India.
+**Logic:** Chair / host was **Sri Lanka** (Colombo), not India.
 
-**Ans: D.** Only 1.
+**Ans: D.** Modi did address the 30 March 2022 summit.
 
 </details>
 
-**UKPCS (Pre) 2024**
+**Q-EC12. UKPCS (Pre) 2024**
 
 The Permanent Secretariat of the Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation (BIMSTEC) is located at:
 
@@ -475,9 +464,9 @@ D. Kathmandu
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Dhaka hosts the BIMSTEC Permanent Secretariat. Kathmandu is SAARC; New Delhi / Colombo are summit-host distractors.
+**Logic:** Kathmandu is SAARC; New Delhi / Colombo are summit-host distractors.
 
-**Ans: C.** Dhaka.
+**Ans: C.** Dhaka hosts the BIMSTEC Permanent Secretariat.
 
 </details>
 
@@ -486,7 +475,6 @@ D. Kathmandu
 ---
 
 ## 10.6 OECD, WTO organisation desk, WEF
-
 
 **Policy clubs and private forums** sit beside the Bretton Woods twins and regional groupings.
 
@@ -518,7 +506,7 @@ D. Kathmandu
 - WEF → Global Competitiveness Index.
 - UNDP → Human Development Report (Topic 8 / 12).
 
-**UKPCS (Pre) 2016**
+**Q-EC13. UKPCS (Pre) 2016**
 
 Which one of the following publishes the ‘Global Competitiveness Index’ report?
 
@@ -530,13 +518,13 @@ D. W.T.O.
 <details>
 <summary>Show answer</summary>
 
-**Logic:** WEF is the classic GCI publisher tag (UNDP → HDI; IMF → WEO; WTO → trade reports).
+**Logic:** World Economic Forum.
 
-**Ans: B.** World Economic Forum.
+**Ans: B.** WEF is the classic GCI publisher tag (UNDP → HDI; IMF → WEO; WTO → trade reports).
 
 </details>
 
-**UKPCS (Pre) 2024**
+**Q-EC14. UKPCS (Pre) 2024**
 
 In which of the following cities is the central secretariat of the ‘Association of South-East Asian Nations’ (ASEAN) located?
 
@@ -548,9 +536,9 @@ D. Hanoi
 <details>
 <summary>Show answer</summary>
 
-**Logic:** ASEAN Secretariat sits in Jakarta. Manila is ADB; Bali / Hanoi are meeting-city distractors.
+**Logic:** Manila is ADB; Bali / Hanoi are meeting-city distractors.
 
-**Ans: A.** Jakarta.
+**Ans: A.** ASEAN Secretariat sits in Jakarta.
 
 </details>
 
@@ -558,8 +546,7 @@ D. Hanoi
 
 ## Complete PYQ Bank (UPPCS)
 
-
-**Q1. UPPCS (Pre) 2025** — Bretton Woods twins
+**Q1. UPPCS (Pre) 2025**
 
 With reference to World Bank and International Monetary Fund, which of the following statements is/are correct?
 
@@ -574,13 +561,12 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Twins true; World Bank HQ is Washington, not New York.
+**Logic:** Twins true; World Bank HQ is Washington, not New York — Only 1
 
-**Ans: D.** Only 1.
-
+**Ans: D.** Only 1
 </details>
 
-**Q2. UPPCS (Pre) 2025** — BIMSTEC non-member
+**Q2. UPPCS (Pre) 2025**
 
 Which of the following countries is/are NOT a member of BIMSTEC?
 
@@ -597,13 +583,12 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Indonesia out; Thailand/Nepal/Bhutan in.
+**Logic:** Indonesia out; Thailand/Nepal/Bhutan in — Only 4
 
-**Ans: B.** Only 4.
-
+**Ans: B.** Only 4
 </details>
 
-**Q3. UPPCS (Pre) 2022** — 5th BIMSTEC Summit
+**Q3. UPPCS (Pre) 2022**
 
 1. P. M. Narendra Modi addressed the 5th BIMSTEC Summit on 30th March 2022.
 2. The 5th Summit of BIMSTEC had been chaired by India.
@@ -616,13 +601,12 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Addressed = true; India chaired = false (Sri Lanka).
+**Logic:** Addressed = true; India chaired = false (Sri Lanka) — Only 1
 
-**Ans: D.** Only 1.
-
+**Ans: D.** Only 1
 </details>
 
-**Q4. UPPCS (Pre) 2023** — G20 logo
+**Q4. UPPCS (Pre) 2023**
 
 1. The logo has a lotus with seven petals.
 2. The seven petals represent the seven continents.
@@ -635,13 +619,13 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Both match the official logo brief.
+**Logic:** Both 1 and 2.
 
-**Ans: C.** Both 1 and 2.
+**Ans: C.** Both match the official logo brief.
 
 </details>
 
-**Q5. UPPCS (Pre) 2023** — UP G20 venues
+**Q5. UPPCS (Pre) 2023**
 
 Which of the following cities of Uttar Pradesh was not included as a venue for the 11 meetings of the G20 during India's Presidency?
 
@@ -653,13 +637,12 @@ D. Greater Noida
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Kanpur was not among the UP venue set.
+**Logic:** Kanpur was not among the UP venue set — Kanpur
 
-**Ans: C.** Kanpur.
-
+**Ans: C.** Kanpur
 </details>
 
-**Q6. UPPCS (Pre) 2018** — 10th BRICS Summit
+**Q6. UPPCS (Pre) 2018**
 
 The 10th 'BRICS' Summit 2018 was held in which of the following countries?
 
@@ -671,9 +654,9 @@ D. China
 <details>
 <summary>Show answer</summary>
 
-**Logic:** South Africa hosted the 10th Summit.
+**Logic:** South Africa.
 
-**Ans: B.** South Africa.
+**Ans: B.** South Africa hosted the 10th Summit.
 
 </details>
 
@@ -687,8 +670,7 @@ UPPCS-tagged stems live in **Complete PYQ Bank (UPPCS)** above. UKPCS-tagged ste
 
 ## UKPCS
 
-
-**Q1. UKPCS (Pre) 2021** — IMF lending
+**Q1. UKPCS (Pre) 2021**
 
 Which one is correct about IMF?
 
@@ -700,13 +682,12 @@ D. It grants loan to the Central Bank of a country.
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Member-country facilities.
+**Logic:** Member-country facilities — It grants loan to only member countries
 
-**Ans: C.**
-
+**Ans: C.** It grants loan to only member countries
 </details>
 
-**Q2. UKPCS (Pre) 2016** — Jim O’Neill
+**Q2. UKPCS (Pre) 2016**
 
 Who coined the term ‘BRICS’ in 2001?
 
@@ -718,13 +699,12 @@ D. Vladimir Putin
 <details>
 <summary>Show answer</summary>
 
-**Logic:** O’Neill / BRIC 2001.
+**Logic:** O’Neill / BRIC 2001 — Jim O’Neill
 
-**Ans: A.**
-
+**Ans: A.** Jim O’Neill
 </details>
 
-**Q3. UKPCS (Pre) 2016** — BRICS year
+**Q3. UKPCS (Pre) 2016**
 
 In which year ‘BRIC’ grouping was formed as ‘BRICS’?
 
@@ -736,13 +716,12 @@ D. 2012
 <details>
 <summary>Show answer</summary>
 
-**Logic:** South Africa join → 2010.
+**Logic:** South Africa join → 2010 — 2010
 
-**Ans: A.** 2010.
-
+**Ans: A.** 2010
 </details>
 
-**Q4. UKPCS (Pre) 2024** — BRICS NOT correct
+**Q4. UKPCS (Pre) 2024**
 
 Which statement about BRICS is NOT correct?
 
@@ -754,13 +733,12 @@ D. The first BRICS Summit was held in 2009 in Russia.
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Inflated trade-share claim is false.
+**Logic:** Inflated trade-share claim is false — It represents around 46 percent of global trade
 
-**Ans: C.**
-
+**Ans: C.** It represents around 46 percent of global trade
 </details>
 
-**Q5. UKPCS (Pre) 2021** — First SAARC in India
+**Q5. UKPCS (Pre) 2021**
 
 In which year was the SAARC Summit, for the first time, held in India?
 
@@ -772,13 +750,12 @@ D. None of these
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Bangalore 1986.
+**Logic:** Standard key matches 1986.
 
-**Ans: A.** 1986.
-
+**Ans: A.** 1986
 </details>
 
-**Q6. UKPCS (Pre) 2024** — ASEAN Secretariat
+**Q6. UKPCS (Pre) 2024**
 
 ASEAN central secretariat is located in:
 
@@ -790,13 +767,12 @@ D. Hanoi
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Jakarta.
+**Logic:** Standard key matches Jakarta.
 
-**Ans: A.**
-
+**Ans: A.** Jakarta
 </details>
 
-**Q7. UKPCS (Pre) 2024** — BIMSTEC Secretariat
+**Q7. UKPCS (Pre) 2024**
 
 BIMSTEC Permanent Secretariat is located at:
 
@@ -808,13 +784,12 @@ D. Kathmandu
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Dhaka.
+**Logic:** Standard key matches Dhaka.
 
-**Ans: C.**
-
+**Ans: C.** Dhaka
 </details>
 
-**Q8. UKPCS (Pre) 2016** — Global Competitiveness Index
+**Q8. UKPCS (Pre) 2016**
 
 Which one publishes the ‘Global Competitiveness Index’ report?
 
@@ -826,13 +801,12 @@ D. W.T.O.
 <details>
 <summary>Show answer</summary>
 
-**Logic:** WEF.
+**Logic:** Standard key: World Economic Forum.
 
-**Ans: B.**
-
+**Ans: B.** World Economic Forum
 </details>
 
-**Q9. UKPCS (Pre) 2016** — World Bank members
+**Q9. UKPCS (Pre) 2016**
 
 How many countries are members of World Bank?
 
@@ -844,13 +818,12 @@ D. 193
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Classic key around **189** IBRD members for that paper’s vintage.
+**Logic:** Classic key around 189 IBRD members for that paper’s vintage — 189
 
-**Ans: A.** 189.
-
+**Ans: A.** 189
 </details>
 
-**Q10. UKPCS (Pre) 2025** — BRICS members list
+**Q10. UKPCS (Pre) 2025**
 
 Which of the following countries are members of BRICS?
 
@@ -868,18 +841,18 @@ D. 1, 2, 3, 4 and 5
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 2024 expansion + Indonesia 2025 → all five.
+**Logic:** 2024 expansion + Indonesia 2025 → all five — 1, 2, 3, 4 and 5
 
-**Ans: D.**
-
+**Ans: D.** 1, 2, 3, 4 and 5
 </details>
 
 ---
 
 ## Practice Zone
 
+**Q1.**
 
-**Q1.** Bretton Woods twins are
+Bretton Woods twins are
 
 A. WTO and OECD only
 B. IMF and World Bank / IBRD
@@ -889,13 +862,14 @@ D. Only RBI and SEBI
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** 1944 twins.
+**Logic:** Bretton Woods card — IMF and World Bank / IBRD
 
-**Logic:** Bretton Woods card.
-
+**Ans: B.** IMF and World Bank / IBRD
 </details>
 
-**Q2.** Both IMF and World Bank headquarters are in
+**Q2.**
+
+Both IMF and World Bank headquarters are in
 
 A. New York
 B. Geneva
@@ -905,13 +879,14 @@ D. London
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Washington D.C.
+**Logic:** New York = UN trap — Washington D.C
 
-**Logic:** New York = UN trap.
-
+**Ans: C.** Washington D.C
 </details>
 
-**Q3.** With reference to World Bank Group, which of the following statements is/are correct?
+**Q3.**
+
+With reference to World Bank Group, which of the following statements is/are correct?
 
 1. IDA provides concessional finance to poorer countries.
 2. IFC focuses on private-sector development.
@@ -927,13 +902,14 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Logic:** Statement 3 confuses Bank Group with Fund — 1 and 2
 
-**Logic:** Statement 3 confuses Bank Group with Fund.
-
+**Ans: B.** 1 and 2
 </details>
 
-**Q4.** AIIB headquarters teaching city is
+**Q4.**
+
+AIIB headquarters teaching city is
 
 A. Manila
 B. Beijing
@@ -943,13 +919,14 @@ D. Jakarta
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Beijing.
+**Logic:** ADB Manila; NDB Shanghai; ASEAN Jakarta — Beijing
 
-**Logic:** ADB Manila; NDB Shanghai; ASEAN Jakarta.
-
+**Ans: B.** Beijing
 </details>
 
-**Q5.** New Development Bank is associated mainly with
+**Q5.**
+
+New Development Bank is associated mainly with
 
 A. Only SAARC Secretariat
 B. BRICS development finance
@@ -959,13 +936,14 @@ D. Only CRR
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** BRICS bank.
+**Logic:** Standard key: BRICS development finance.
 
-**Logic:** NDB card.
-
+**Ans: B.** BRICS development finance
 </details>
 
-**Q6.** Jim O’Neill is remembered for
+**Q6.**
+
+Jim O’Neill is remembered for
 
 A. Coining BRIC in 2001
 B. Drafting FEMA alone
@@ -975,13 +953,14 @@ D. Inventing GST
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** BRIC acronym.
+**Logic:** UKPCS 2016 twin — Coining BRIC in 2001
 
-**Logic:** UKPCS 2016 twin.
-
+**Ans: A.** Coining BRIC in 2001
 </details>
 
-**Q7.** BRIC became BRICS in
+**Q7.**
+
+The first BRIC / BRICS Summit was held in
 
 A. 2001
 B. 2009
@@ -991,13 +970,14 @@ D. 2018
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** 2010 (South Africa).
+**Logic:** Name vs first summit year — 2010
 
-**Logic:** Name vs first summit year.
-
+**Ans: C.** 2010
 </details>
 
-**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+**Q8.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 Assertion (A): The IMF and the World Bank are called Bretton Woods twins.
 
@@ -1013,13 +993,14 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both true; common origin explains the nickname.
+**A/R logic:** Both true; common origin explains the nickname.
 
-**A/R logic:** 2025 twins neighbour.
-
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)
 </details>
 
-**Q9.** India’s G20 logo lotus petals number
+**Q9.**
+
+G7 membership count in the classic teaching list is
 
 A. Five
 B. Six
@@ -1029,13 +1010,14 @@ D. Twenty
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Seven.
+**Logic:** Continents motif — Seven
 
-**Logic:** Continents motif.
-
+**Ans: C.** Seven
 </details>
 
-**Q10.** Which UP city was NOT a G20 venue in the 2023 keyed stem?
+**Q10.**
+
+Which UP city was NOT a G20 venue in the 2023 keyed stem?
 
 A. Agra
 B. Varanasi
@@ -1045,13 +1027,14 @@ D. Greater Noida
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Kanpur.
+**Logic:** UPPCS 2023 venue trap — Kanpur
 
-**Logic:** UPPCS 2023 venue trap.
-
+**Ans: C.** Kanpur
 </details>
 
-**Q11.** BIMSTEC Permanent Secretariat is in
+**Q11.**
+
+BIMSTEC Permanent Secretariat is in
 
 A. Kathmandu
 B. Dhaka
@@ -1061,13 +1044,14 @@ D. Bangkok
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Dhaka.
+**Logic:** SAARC = Kathmandu distractor — Dhaka
 
-**Logic:** SAARC = Kathmandu distractor.
-
+**Ans: B.** Dhaka
 </details>
 
-**Q12.** Which country is NOT a BIMSTEC member?
+**Q12.**
+
+Which country is NOT a BIMSTEC member?
 
 A. Thailand
 B. Nepal
@@ -1077,13 +1061,14 @@ D. Bhutan
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Indonesia.
+**Logic:** ASEAN ≠ BIMSTEC — Indonesia
 
-**Logic:** ASEAN ≠ BIMSTEC.
-
+**Ans: C.** Indonesia
 </details>
 
-**Q13.** 5th BIMSTEC Summit (2022) was chaired by
+**Q13.**
+
+5th BIMSTEC Summit (2022) was chaired by
 
 A. India
 B. Sri Lanka
@@ -1093,13 +1078,14 @@ D. Pakistan
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Sri Lanka.
+**Logic:** Modi addressed; Sri Lanka chaired — Sri Lanka
 
-**Logic:** Modi addressed; Sri Lanka chaired.
-
+**Ans: B.** Sri Lanka
 </details>
 
-**Q14.** ASEAN Central Secretariat city
+**Q14.**
+
+ASEAN Secretariat headquarters is in
 
 A. Manila
 B. Jakarta
@@ -1109,13 +1095,14 @@ D. Bali
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Jakarta.
+**Logic:** Manila is ADB; Bali/Hanoi are meeting-city distractors — Jakarta
 
-**Logic:** Manila is ADB; Bali/Hanoi are meeting-city distractors.
-
+**Ans: B.** Jakarta
 </details>
 
-**Q15.** First SAARC Summit held in India — year
+**Q15.**
+
+The SAARC Summit hosted by India was held in
 
 A. 1985
 B. 1986
@@ -1125,13 +1112,14 @@ D. 2007
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** 1986.
+**Logic:** Dhaka 1985 overall first; India host 1986 — 1986
 
-**Logic:** Dhaka 1985 overall first; India host 1986.
-
+**Ans: B.** 1986
 </details>
 
-**Q16.** Match List-I with List-II.
+**Q16.**
+
+Match List-I with List-II.
 
 | List-I | List-II |
 |---|---|
@@ -1152,13 +1140,14 @@ D. 4 3 1 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Washington; Manila; Shanghai; Jakarta.
+**Logic:** Standard key matches 2 3 1 4.
 
-**Logic:** HQ drill.
-
+**Ans: A.** 2 3 1 4
 </details>
 
-**Q17.** Global Competitiveness Index is classically published by
+**Q17.**
+
+Global Competitiveness Index is classically published by
 
 A. UNDP
 B. World Economic Forum
@@ -1168,13 +1157,14 @@ D. WTO
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** WEF.
+**Logic:** Publisher trap table — World Economic Forum
 
-**Logic:** Publisher trap table.
-
+**Ans: B.** World Economic Forum
 </details>
 
-**Q18.** G7 is best described as
+**Q18.**
+
+G7 is best described as
 
 A. Only a Bay of Bengal trade bloc
 B. A grouping of major advanced industrial democracies
@@ -1184,13 +1174,14 @@ D. Only a World Bank soft window
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Advanced-seven club.
+**Logic:** Standard key: A grouping of major advanced industrial democracies.
 
-**Logic:** G7 vs G20.
-
+**Ans: B.** A grouping of major advanced industrial democracies
 </details>
 
-**Q19.** With reference to SCO, which of the following statements is/are correct?
+**Q19.**
+
+With reference to SCO, which of the following statements is/are correct?
 
 1. It is a Eurasian grouping with security and economic cooperation tracks.
 2. India and Pakistan became full members in the 2017 teaching wave.
@@ -1206,13 +1197,14 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Logic:** Statement 3 confuses organisations — 1 and 2
 
-**Logic:** Statement 3 confuses organisations.
-
+**Ans: B.** 1 and 2
 </details>
 
-**Q20.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+**Q20.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 Assertion (A): Indonesia is often a wrong option in BIMSTEC membership stems.
 
@@ -1228,13 +1220,14 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both true; ASEAN fame explains the distractor.
+**A/R logic:** Both true; ASEAN fame explains the distractor.
 
-**A/R logic:** 2025 BIMSTEC neighbour.
-
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)
 </details>
 
-**Q21.** NDB headquarters city
+**Q21.**
+
+New Development Bank (NDB) headquarters is in
 
 A. Beijing
 B. Shanghai
@@ -1244,13 +1237,14 @@ D. Geneva
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Shanghai.
+**Logic:** AIIB Beijing vs NDB Shanghai — Shanghai
 
-**Logic:** AIIB Beijing vs NDB Shanghai.
-
+**Ans: B.** Shanghai
 </details>
 
-**Q22.** African Union’s permanent G20 membership is linked in teaching to
+**Q22.**
+
+African Union’s permanent G20 membership is linked in teaching to
 
 A. Only the 1944 Bretton Woods Conference
 B. India’s 2023 G20 Presidency outcomes
@@ -1260,13 +1254,14 @@ D. Only Alagh Committee
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** New Delhi Summit era teaching.
+**Logic:** G20 expansion card — India’s 2023 G20 Presidency outcomes
 
-**Logic:** G20 expansion card.
-
+**Ans: B.** India’s 2023 G20 Presidency outcomes
 </details>
 
-**Q23.** SAARC Secretariat is in
+**Q23.**
+
+SAARC Secretariat is in
 
 A. Dhaka
 B. Kathmandu
@@ -1276,13 +1271,14 @@ D. New Delhi
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Kathmandu.
+**Logic:** BIMSTEC Dhaka distractor — Kathmandu
 
-**Logic:** BIMSTEC Dhaka distractor.
-
+**Ans: B.** Kathmandu
 </details>
 
-**Q24.** IMF’s flagship outlook report is commonly called
+**Q24.**
+
+IMF’s flagship outlook report is commonly called
 
 A. Human Development Report
 B. World Economic Outlook
@@ -1292,13 +1288,14 @@ D. Only Economic Survey of India
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** WEO.
+**Logic:** Publisher neighbours — World Economic Outlook
 
-**Logic:** Publisher neighbours.
-
+**Ans: B.** World Economic Outlook
 </details>
 
-**Q25.** Match List-I with List-II.
+**Q25.**
+
+Match List-I with List-II.
 
 | List-I | List-II |
 |---|---|
@@ -1319,13 +1316,14 @@ D. 4 1 2 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** O’Neill; IDA; IFC; 2009 Russia.
+**Logic:** Twins + BRICS toolkit — 2 1 3 4
 
-**Logic:** Twins + BRICS toolkit.
-
+**Ans: A.** 2 1 3 4
 </details>
 
-**Q26.** Which statement is correct?
+**Q26.**
+
+Which statement is correct?
 
 A. World Bank HQ is in New York
 B. Both IMF and World Bank HQ are in Washington D.C.
@@ -1335,13 +1333,14 @@ D. ADB HQ is in Shanghai
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Both Washington.
+**Logic:** 2025 twins neighbour — Both IMF and World Bank HQ are in Washington D.C
 
-**Logic:** 2025 twins neighbour.
-
+**Ans: B.** Both IMF and World Bank HQ are in Washington D.C
 </details>
 
-**Q27.** 10th BRICS Summit (2018) host country
+**Q27.**
+
+Which country joined BRICS last among the original BRIC+SA set in teaching lists?
 
 A. China
 B. Brazil
@@ -1351,13 +1350,14 @@ D. India
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** South Africa.
+**Logic:** Standard key matches South Africa.
 
-**Logic:** UPPCS 2018.
-
+**Ans: C.** South Africa
 </details>
 
-**Q28.** OECD headquarters teaching city is
+**Q28.**
+
+OECD headquarters teaching city is
 
 A. Davos
 B. Paris
@@ -1367,16 +1367,14 @@ D. Jakarta
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Paris.
+**Logic:** WEF Davos vs OECD Paris — Paris
 
-**Logic:** WEF Davos vs OECD Paris.
-
+**Ans: B.** Paris
 </details>
 
 ---
 
 ## Common Traps
-
 
 * Bretton Woods twins = IMF + World Bank; **both** HQ **Washington D.C.** — not New York.
 * IBRD ≠ IDA ≠ IFC; IFC ≠ IMF.

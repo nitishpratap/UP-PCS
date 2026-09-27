@@ -358,6 +358,30 @@ First national guide to India’s grasslands and open natural ecosystems launche
 
 ---
 
+## September 2026
+
+### World Ozone Day | 16 September 2026
+
+**What happened**
+The world marked the International Day for the Preservation of the Ozone Layer.
+
+**What you should remember**
+
+- Date: **16 September** (Montreal Protocol signing anniversary, 1987).
+- 2026 theme: **Global action for a cooler planet**.
+- Extra line in the theme: celebrating **10 years** of sustainable cooling under the **Kigali Amendment**.
+- Static link: Montreal Protocol (ozone) + Kigali Amendment (HFCs / cooling).
+
+!!! trap
+Do not swap Ozone Day with Earth Day (22 Apr) or Biodiversity Day (22 May).
+
+### International Day of Peace | 21 September 2026
+
+- Theme: **Invest in Peace — For Everyone, Everywhere, Every Day**.
+- UN observance on **21 September** every year.
+
+---
+
 ## Environmental Policies, Wildlife & Conservation Landmarks (Ghatna Chakra Eye Drishti 2026)
 
 ### Solid Waste Management (SWM) Rules, 2026

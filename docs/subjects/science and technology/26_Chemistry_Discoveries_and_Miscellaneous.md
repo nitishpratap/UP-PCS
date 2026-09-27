@@ -249,11 +249,34 @@ Until 1828, chemistry was divided by Berzelius's dogma that organic compounds po
 
 ---
 
+## Bilingual Terminology -- Chemistry Discoveries and Miscellaneous
+
+| English Term | Hindi Term | Key Anchor |
+|---|---|---|
+| **Alchemy** (रसायन शास्त्र का प्राचीन रूप) | कीमिया / रसायन विद्या | Medieval precursor of chemistry; sought to transmute metals to gold |
+| **Lavoisier** (लावोइसिये) | अन्टोइन लावोइसिये | "Father of Modern Chemistry"; law of conservation of mass; named oxygen (1774) |
+| **Dalton's Atomic Theory** (डाल्टन का परमाणु सिद्धांत) | डाल्टन का परमाणु सिद्धांत | 1803; atoms are indivisible; each element has unique atoms |
+| **Avogadro's Law** (अवोगाद्रो का नियम) | अवोगाद्रो का नियम | Equal volumes of gases at same T and P contain equal number of molecules |
+| **Gay-Lussac's Law** (गे-लुसाक का नियम) | गे-लुसाक का नियम | Gases combine in simple ratios of volumes; e.g., H2 + Cl2 = 2HCl |
+| **Haber Process** (हैबर विधि) | हैबर प्रक्रम | N2 + 3H2 = 2NH3; conditions: 400-500 degC, 200 atm, iron catalyst; makes ammonia |
+| **Contact Process** (संपर्क विधि) | सम्पर्क प्रक्रम | Industrial manufacture of H2SO4; 2SO2 + O2 = 2SO3 (V2O5 catalyst) |
+| **Solvay Process** (सोल्वे विधि) | साल्वे प्रक्रम | Industrial production of Na2CO3 (soda ash/washing soda) from salt + ammonia + CO2 |
+| **Ostwald Process** (ऑस्टवाल्ड विधि) | ऑस्टवाल्ड प्रक्रम | Industrial production of HNO3 (nitric acid) from ammonia; Pt-Rh catalyst |
+| **Dry Ice** (शुष्क बर्फ) | सूखी बर्फ | Solid CO2; -78.5 degC; sublimes directly; refrigerant, special effects |
+| **Heavy Water** (भारी जल) | भारी जल | D2O (deuterium oxide); used as moderator in nuclear reactors |
+| **Laughing Gas** (नाइट्रस ऑक्साइड) | नाइट्रस ऑक्साइड / हँसाने वाली गैस | N2O; anaesthetic; greenhouse gas; discovered by Joseph Priestley |
+| **Noble Gas** (उत्कृष्ट गैस) | अक्रिय गैस | Group 18; completely filled electron shells; unreactive |
+| **Catalyst** (उत्प्रेरक) | उत्प्रेरक | Speeds up reaction without being consumed; positive or negative |
+| **Le Chatelier's Principle** (ले शातेलिए का सिद्धांत) | ले शातेलिए का नियम | System in equilibrium shifts to counter any applied change |
+| **Electrochemistry** (विद्युत-रसायन) | विद्युत-रसायन | Study of relationship between electricity and chemical reactions |
+
+---
+
 ## Complete PYQ Bank — State PCS (34 Questions)
 
 ### UPPCS Prelims (Q1–Q20)
 
-**Q1. (UPPCS Pre 2023)**  
+**Q-ST1. UPPCS Pre 2023**
 Which of the following gases is commonly known as "Laughing Gas"?  
 (a) Nitric oxide ($NO$)  
 (b) Nitrous oxide ($N_2O$)  
@@ -263,16 +286,14 @@ Which of the following gases is commonly known as "Laughing Gas"?
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** (b) Nitrous oxide ($N_2O$)
+**Logic:** Laughing Gas Identity: Nitrous oxide ($N_2O$), a colorless gas with a sweet odor and taste that produces euphoria and mild hysterical laughter when inhaled.
 
-**Detailed Explanation:**
-- **Laughing Gas Identity:** Nitrous oxide ($N_2O$), a colorless gas with a sweet odor and taste that produces euphoria and mild hysterical laughter when inhaled.
-- **Applications:** Used in surgical and dental procedures as a mild inhalation anesthetic and analgesic.
+**Ans: B.** Nitrous oxide ($N_2O$
 </details>
 
 ---
 
-**Q2. (UPPCS Pre 2023)**  
+**Q-ST2. UPPCS Pre 2023**
 Which of the following elements is NOT a Noble Gas (Group 18)?  
 (a) Radon  
 (b) Argon  
@@ -282,16 +303,14 @@ Which of the following elements is NOT a Noble Gas (Group 18)?
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** (d) Actinium
+**Logic:** Actinium ($Ac, Z=89$): A radioactive actinide series transition metal situated in Group 3 and Period 7 of the periodic table.
 
-**Detailed Explanation:**
-- **Actinium ($Ac, Z=89$):** A radioactive actinide series transition metal situated in Group 3 and Period 7 of the periodic table.
-- **Noble Gases (Group 18):** Helium ($He$), Neon ($Ne$), Argon ($Ar$), Krypton ($Kr$), Xenon ($Xe$), and Radon ($Rn$).
+**Ans: D.** Actinium
 </details>
 
 ---
 
-**Q3. (UPPCS Pre 2020)**  
+**Q-ST3. UPPCS Pre 2020**
 Match List-I with List-II and select the correct answer:  
 **List-I (Substance)**  
 A. Blue vitriol  
@@ -314,18 +333,14 @@ Codes:
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** (a) A-4, B-1, C-2, D-3
+**Logic:** Blue vitriol ($CuSO_4 \cdot 5H_2O$): Key ingredient in Bordeaux mixture used as an agricultural fungicide (A-4).
 
-**Detailed Explanation:**
-- **Blue vitriol ($CuSO_4 \cdot 5H_2O$):** Key ingredient in Bordeaux mixture used as an agricultural fungicide (A-4).
-- **Eosin:** A red fluorescent dye used as the coloring pigment in commercial red ink (B-1).
-- **Silver iodide ($AgI$):** Ice-nucleating agent deployed in cloud seeding for artificial rain (C-2).
-- **Zinc phosphide ($Zn_3P_2$):** Ingested rodenticide rat poison releasing phosphine gas (D-3).
+**Ans: A.** A-4, B-1, C-2, D-3
 </details>
 
 ---
 
-**Q4. (UPPCS Pre 2019)**  
+**Q-ST4. UPPCS Pre 2019**
 Which of the following Indian scientists is celebrated as the "Father of Indian Chemistry"?  
 (a) P. C. Ray  
 (b) C. V. Raman  
@@ -335,15 +350,14 @@ Which of the following Indian scientists is celebrated as the "Father of Indian 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** (a) P. C. Ray
+**Logic:** Standard key matches P.
 
-**Detailed Explanation:**
-- **Acharya P. C. Ray:** Pioneered modern chemical research in India, synthesized mercurous nitrite, authored *A History of Hindu Chemistry*, and established Bengal Chemical & Pharmaceutical Works (1901).
+**Ans: A.** P.
 </details>
 
 ---
 
-**Q5. (UPPCS Pre 2018)**  
+**Q-ST5. UPPCS Pre 2018**
 Heavy water ($D_2O$) is used in nuclear power reactors primarily as:  
 (a) Nuclear fuel  
 (b) Moderator to slow down neutrons  
@@ -353,15 +367,14 @@ Heavy water ($D_2O$) is used in nuclear power reactors primarily as:
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** (b) Moderator to slow down neutrons
+**Logic:** Nuclear Function of $D_2O$: Deuterium oxide has a low neutron absorption cross-section, slowing fast fission neutrons to thermal energy without capturing them, allowing natural uranium reactors to operate.
 
-**Detailed Explanation:**
-- **Nuclear Function of $D_2O$:** Deuterium oxide has a low neutron absorption cross-section, slowing fast fission neutrons to thermal energy without capturing them, allowing natural uranium reactors to operate.
+**Ans: B.** Moderator to slow down neutrons
 </details>
 
 ---
 
-**Q6. (UPPCS Pre 2017)**  
+**Q-ST6. UPPCS Pre 2017**
 The chemical compound used in electoral indelible marking ink applied to voters' fingers is:  
 (a) Silver nitrate  
 (b) Silver chloride  
@@ -371,15 +384,14 @@ The chemical compound used in electoral indelible marking ink applied to voters'
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** (a) Silver nitrate
+**Logic:** Indelible Voting Ink: Contains Silver Nitrate ($AgNO_3$, Lunar Caustic).
 
-**Detailed Explanation:**
-- **Indelible Voting Ink:** Contains Silver Nitrate ($AgNO_3$, Lunar Caustic). Upon application, it reacts with skin proteins and ambient light to precipitate insoluble black metallic silver, resisting soap and solvents.
+**Ans: A.** Silver nitrate
 </details>
 
 ---
 
-**Q7. (UPPCS Pre 2016)**  
+**Q-ST7. UPPCS Pre 2016**
 Which of the following compounds is chemically known as "Lunar Caustic"?  
 (a) Sodium hydroxide  
 (b) Silver nitrate  
@@ -389,15 +401,14 @@ Which of the following compounds is chemically known as "Lunar Caustic"?
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** (b) Silver nitrate
+**Logic:** Lunar Caustic: Alchemical name for Silver Nitrate ($AgNO_3$); silver was traditionally associated with the Moon (Luna).
 
-**Detailed Explanation:**
-- **Lunar Caustic:** Alchemical name for Silver Nitrate ($AgNO_3$); silver was traditionally associated with the Moon (Luna).
+**Ans: B.** Silver nitrate
 </details>
 
 ---
 
-**Q8. (UPPCS Pre 2015)**  
+**Q-ST8. UPPCS Pre 2015**
 Temporary hardness of water can be removed by:  
 (a) Boiling  
 (b) Adding hydrochloric acid  
@@ -407,16 +418,14 @@ Temporary hardness of water can be removed by:
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** (a) Boiling
+**Logic:** Standard key matches Boiling.
 
-**Detailed Explanation:**
-- **Removal of Temporary Hardness:** Boiling thermally decomposes soluble calcium and magnesium bicarbonates into insoluble carbonates:
-  $$Ca(HCO_3)_2 \xrightarrow{\Delta} CaCO_3\downarrow + H_2O + CO_2 \uparrow$$
+**Ans: A.** Boiling
 </details>
 
 ---
 
-**Q9. (UPPCS Pre 2014)**  
+**Q-ST9. UPPCS Pre 2014**
 Permanent hardness of water is caused by the presence of:  
 (a) Chlorides and sulphates of calcium and magnesium  
 (b) Bicarbonates of calcium and magnesium  
@@ -426,15 +435,14 @@ Permanent hardness of water is caused by the presence of:
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** (a) Chlorides and sulphates of calcium and magnesium
+**Logic:** Permanent Hardness Source: Caused by dissolved $CaCl_2, MgCl_2, CaSO_4,$ and $MgSO_4$.
 
-**Detailed Explanation:**
-- **Permanent Hardness Source:** Caused by dissolved $CaCl_2, MgCl_2, CaSO_4,$ and $MgSO_4$. These salts do not precipitate upon boiling and require chemical treatment (washing soda or ion-exchange resins).
+**Ans: A.** Chlorides and sulphates of calcium and magnesium
 </details>
 
 ---
 
-**Q10. (UPPCS Pre 2013)**  
+**Q-ST10. UPPCS Pre 2013**
 Who among the following scientists synthesized urea from an inorganic compound, disproving the Vital Force Theory?  
 (a) Antoine Lavoisier  
 (b) Friedrich Wöhler  
@@ -444,15 +452,14 @@ Who among the following scientists synthesized urea from an inorganic compound, 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** (b) Friedrich Wöhler
+**Logic:** Synthesis of Urea (1828): Wöhler heated inorganic ammonium cyanate ($NH_4CNO$), causing an isomeric shift that produced urea ($NH_2CONH_2$), showing that organic molecules obey standard chemical laws.
 
-**Detailed Explanation:**
-- **Synthesis of Urea (1828):** Wöhler heated inorganic ammonium cyanate ($NH_4CNO$), causing an isomeric shift that produced urea ($NH_2CONH_2$), showing that organic molecules obey standard chemical laws.
+**Ans: B.** Friedrich Wöhler
 </details>
 
 ---
 
-**Q11. (UPPCS Pre 2012)**  
+**Q-ST11. UPPCS Pre 2012**
 What is the chemical name of "Sindoor" (vermilion / red lead)?  
 (a) Calcium carbonate  
 (b) Trilead tetroxide ($Pb_3O_4$)  
@@ -462,15 +469,14 @@ What is the chemical name of "Sindoor" (vermilion / red lead)?
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** (b) Trilead tetroxide ($Pb_3O_4$)
+**Logic:** Sindoor Chemistry: Red lead / Minium is chemically Trilead Tetroxide ($Pb_3O_4$), a bright red mixed oxide used in vermilion and anti-corrosion primer paints.
 
-**Detailed Explanation:**
-- **Sindoor Chemistry:** Red lead / Minium is chemically Trilead Tetroxide ($Pb_3O_4$), a bright red mixed oxide used in vermilion and anti-corrosion primer paints.
+**Ans: B.** Trilead tetroxide ($Pb_3O_4$
 </details>
 
 ---
 
-**Q12. (UPPCS Pre 2011)**  
+**Q-ST12. UPPCS Pre 2011**
 "Dry Ice" is chemically:  
 (a) Solid ice at $-100^\circ\text{C}$  
 (b) Solid carbon dioxide  
@@ -480,15 +486,14 @@ What is the chemical name of "Sindoor" (vermilion / red lead)?
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** (b) Solid carbon dioxide
+**Logic:** Dry Ice: Solid carbon dioxide ($CO_2$), which sublimes directly into gas at $-78.5^\circ\text{C}$ at $1\text{ atm}$ without passing through a liquid phase.
 
-**Detailed Explanation:**
-- **Dry Ice:** Solid carbon dioxide ($CO_2$), which sublimes directly into gas at $-78.5^\circ\text{C}$ at $1\text{ atm}$ without passing through a liquid phase.
+**Ans: B.** Solid carbon dioxide
 </details>
 
 ---
 
-**Q13. (UPPCS Pre 2010)**  
+**Q-ST13. UPPCS Pre 2010**
 Barium sulphate is administered orally to patients prior to abdominal X-ray examination because:  
 (a) Barium is an essential digestive enzyme activator  
 (b) Barium is opaque to X-rays and its sulphate is non-toxic due to extreme insolubility  
@@ -498,15 +503,14 @@ Barium sulphate is administered orally to patients prior to abdominal X-ray exam
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** (b) Barium is opaque to X-rays and its sulphate is non-toxic due to extreme insolubility
+**Logic:** Barium Meal Utility: Barium ($Z=56$) strongly absorbs X-rays, providing radiological contrast.
 
-**Detailed Explanation:**
-- **Barium Meal Utility:** Barium ($Z=56$) strongly absorbs X-rays, providing radiological contrast. Barium sulphate ($BaSO_4$) is insoluble ($K_{sp} \approx 10^{-10}$), preventing toxic free barium ions from entering the bloodstream.
+**Ans: B.** Barium is opaque to X-rays and its sulphate is non-toxic due to extreme insolubility
 </details>
 
 ---
 
-**Q14. (UPPCS Pre 2008)**  
+**Q-ST14. UPPCS Pre 2008**
 The molecular weight of Heavy Water ($D_2O$) is approximately:  
 (a) 18  
 (b) 20  
@@ -516,15 +520,14 @@ The molecular weight of Heavy Water ($D_2O$) is approximately:
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** (b) 20
+**Logic:** Standard key matches 20.
 
-**Detailed Explanation:**
-- **Heavy Water Molecular Weight:** Formed by two deuterium atoms ($2 \times 2 = 4\text{ u}$) and one oxygen atom ($16\text{ u}$), yielding a molecular weight of $\approx 20.03\text{ g/mol}$ (compared to $18\text{ g/mol}$ for normal water).
+**Ans: B.** 20
 </details>
 
 ---
 
-**Q15. (UPPCS Pre 2007)**  
+**Q-ST15. UPPCS Pre 2007**
 Which of the following compounds is commonly known as "Calomel"?  
 (a) Mercurous chloride ($Hg_2Cl_2$)  
 (b) Mercuric chloride ($HgCl_2$)  
@@ -534,15 +537,14 @@ Which of the following compounds is commonly known as "Calomel"?
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** (a) Mercurous chloride ($Hg_2Cl_2$)
+**Logic:** Calomel: Mercurous chloride ($Hg_2Cl_2$), used as a secondary reference electrode in electrochemistry.
 
-**Detailed Explanation:**
-- **Calomel:** Mercurous chloride ($Hg_2Cl_2$), used as a secondary reference electrode in electrochemistry. Mercuric chloride ($HgCl_2$) is corrosive sublimate.
+**Ans: A.** Mercurous chloride ($Hg_2Cl_2$
 </details>
 
 ---
 
-**Q16. (UPPCS Pre 2005)**  
+**Q-ST16. UPPCS Pre 2005**
 Who discovered the cyclic ring structure of Benzene ($C_6H_6$)?  
 (a) August Kekulé  
 (b) Michael Faraday  
@@ -552,15 +554,14 @@ Who discovered the cyclic ring structure of Benzene ($C_6H_6$)?
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** (a) August Kekulé
+**Logic:** Kekulé's Benzene Structure: In 1865, Kekulé proposed the planar hexagonal ring structure with alternating double bonds, inspired by the Ouroboros dream.
 
-**Detailed Explanation:**
-- **Kekulé's Benzene Structure:** In 1865, Kekulé proposed the planar hexagonal ring structure with alternating double bonds, inspired by the Ouroboros dream.
+**Ans: A.** August Kekulé
 </details>
 
 ---
 
-**Q17. (UPPCS Pre 2003)**  
+**Q-ST17. UPPCS Pre 2003**
 "Chile Saltpetre" is the common commercial name for:  
 (a) Potassium nitrate  
 (b) Sodium nitrate  
@@ -570,15 +571,14 @@ Who discovered the cyclic ring structure of Benzene ($C_6H_6$)?
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** (b) Sodium nitrate
+**Logic:** Chile Saltpetre: Sodium nitrate ($NaNO_3$), mined in the Atacama Desert of Chile.
 
-**Detailed Explanation:**
-- **Chile Saltpetre:** Sodium nitrate ($NaNO_3$), mined in the Atacama Desert of Chile. Potassium nitrate ($KNO_3$) is standard saltpetre / nitre.
+**Ans: B.** Sodium nitrate
 </details>
 
 ---
 
-**Q18. (UPPCS Pre 2001)**  
+**Q-ST18. UPPCS Pre 2001**
 The chemical used in Calgon water softening to sequester calcium ions is:  
 (a) Sodium hexametaphosphate  
 (b) Sodium carbonate  
@@ -588,15 +588,14 @@ The chemical used in Calgon water softening to sequester calcium ions is:
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** (a) Sodium hexametaphosphate
+**Logic:** Calgon ("Calcium Gone"): Sodium hexametaphosphate ($Na_6P_6O_{18}$ or $(NaPO_3)_6$), which binds $Ca^{2+}$ and $Mg^{2+}$ into soluble complex anions, preventing scum formation.
 
-**Detailed Explanation:**
-- **Calgon ("Calcium Gone"):** Sodium hexametaphosphate ($Na_6P_6O_{18}$ or $(NaPO_3)_6$), which binds $Ca^{2+}$ and $Mg^{2+}$ into soluble complex anions, preventing scum formation.
+**Ans: A.** Sodium hexametaphosphate
 </details>
 
 ---
 
-**Q19. (UPPCS Pre 1999)**  
+**Q-ST19. UPPCS Pre 1999**
 Which of the following is an example of a chemical element named after a celestial body?  
 (a) Uranium (Uranus)  
 (b) Plutonium (Pluto)  
@@ -606,15 +605,14 @@ Which of the following is an example of a chemical element named after a celesti
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** (d) All of the above
+**Logic:** Astronomical Element Names: Uranium is named after Uranus, Neptunium after Neptune, and Plutonium after Pluto.
 
-**Detailed Explanation:**
-- **Astronomical Element Names:** Uranium is named after Uranus, Neptunium after Neptune, and Plutonium after Pluto.
+**Ans: D.** All of the above
 </details>
 
 ---
 
-**Q20. (UPPCS Pre 1997)**  
+**Q-ST20. UPPCS Pre 1997**
 Clark's process for removing temporary hardness of water involves the addition of:  
 (a) Slaked lime ($Ca(OH)_2$)  
 (b) Common salt ($NaCl$)  
@@ -624,17 +622,16 @@ Clark's process for removing temporary hardness of water involves the addition o
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** (a) Slaked lime ($Ca(OH)_2$)
+**Logic:** Clark's Method: Adds calculated slaked lime to precipitate soluble calcium/magnesium bicarbonates as insoluble calcium carbonate and magnesium hydroxide.
 
-**Detailed Explanation:**
-- **Clark's Method:** Adds calculated slaked lime to precipitate soluble calcium/magnesium bicarbonates as insoluble calcium carbonate and magnesium hydroxide.
+**Ans: A.** Slaked lime ($Ca(OH)_2$
 </details>
 
 ---
 
 ### UKPCS Prelims (Q1–Q4)
 
-**Q1. (UKPCS Pre 2025)**  
+**Q-ST1. UKPCS Pre 2025**
 Heavy water is chemically:  
 (a) Water containing excess dissolved minerals of calcium and magnesium  
 (b) Deuterium oxide ($D_2O$)  
@@ -644,15 +641,14 @@ Heavy water is chemically:
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** (b) Deuterium oxide ($D_2O$)
+**Logic:** Heavy Water Definition: Heavy water is Deuterium Oxide ($D_2O$), containing deuterium ($^2H$) in place of protium ($^1H$).
 
-**Detailed Explanation:**
-- **Heavy Water Definition:** Heavy water is Deuterium Oxide ($D_2O$), containing deuterium ($^2H$) in place of protium ($^1H$). Water with dissolved calcium/magnesium is hard water.
+**Ans: B.** Deuterium oxide ($D_2O$
 </details>
 
 ---
 
-**Q2. (UKPCS Pre 2021)**  
+**Q-ST2. UKPCS Pre 2021**
 The 2021 Nobel Prize in Chemistry was awarded to Benjamin List and David MacMillan for the development of:  
 (a) Lithium-ion batteries  
 (b) Asymmetric Organocatalysis  
@@ -662,15 +658,14 @@ The 2021 Nobel Prize in Chemistry was awarded to Benjamin List and David MacMill
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** (b) Asymmetric Organocatalysis
+**Logic:** 2021 Nobel Award: Awarded for asymmetric organocatalysis, utilizing small organic molecules as catalysts to construct chiral compounds.
 
-**Detailed Explanation:**
-- **2021 Nobel Award:** Awarded for asymmetric organocatalysis, utilizing small organic molecules as catalysts to construct chiral compounds.
+**Ans: B.** Asymmetric Organocatalysis
 </details>
 
 ---
 
-**Q3. (UKPCS Pre 2016)**  
+**Q-ST3. UKPCS Pre 2016**
 Which of the following is known as "Philosopher's Wool"?  
 (a) Zinc oxide  
 (b) Calcium oxide  
@@ -680,15 +675,14 @@ Which of the following is known as "Philosopher's Wool"?
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** (a) Zinc oxide
+**Logic:** Philosopher's Wool: White, wool-like zinc oxide ($ZnO$) formed by burning metallic zinc in air.
 
-**Detailed Explanation:**
-- **Philosopher's Wool:** White, wool-like zinc oxide ($ZnO$) formed by burning metallic zinc in air.
+**Ans: A.** Zinc oxide
 </details>
 
 ---
 
-**Q4. (UKPCS Pre 2012)**  
+**Q-ST4. UKPCS Pre 2012**
 Invert sugar is formed by the enzymatic or acidic hydrolysis of:  
 (a) Starch  
 (b) Cellulose  
@@ -698,17 +692,16 @@ Invert sugar is formed by the enzymatic or acidic hydrolysis of:
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** (c) Sucrose (cane sugar)
+**Logic:** Inversion of Sucrose: Hydrolyzing sucrose yields an equimolar mixture of glucose and fructose, inverting optical rotation from dextro to levo.
 
-**Detailed Explanation:**
-- **Inversion of Sucrose:** Hydrolyzing sucrose yields an equimolar mixture of glucose and fructose, inverting optical rotation from dextro to levo.
+**Ans: C.** Sucrose (cane sugar
 </details>
 
 ---
 
 ### Other State PCS & IAS Prelims (Q1–Q10)
 
-**Q1. (IAS Pre 2020)**  
+**Q-ST1. IAS Pre 2020**
 With reference to the history of Indian science, Acharya Prafulla Chandra Ray is celebrated for:  
 1. Discovering Mercurous Nitrite.  
 2. Establishing the first modern indigenous chemical company in India.  
@@ -722,15 +715,14 @@ Which of the statements given above are correct?
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** (d) 1, 2 and 3
+**Logic:** All statements are correct: P.
 
-**Detailed Explanation:**
-- **All statements are correct:** P. C. Ray synthesized mercurous nitrite (1896), founded Bengal Chemical & Pharmaceutical Works (1901), and published *A History of Hindu Chemistry* (1902).
+**Ans: D.** 1, 2 and 3
 </details>
 
 ---
 
-**Q2. (BPSC Pre 2022)**  
+**Q-ST2. BPSC Pre 2022**
 Which of the following is an example of a chemical element named after a famous scientist?  
 (a) Curium ($Cm$, Marie and Pierre Curie)  
 (b) Einsteinium ($Es$, Albert Einstein)  
@@ -740,15 +732,14 @@ Which of the following is an example of a chemical element named after a famous 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** (d) All of the above
+**Logic:** Transuranic Eponyms: Curium ($Z=96$), Einsteinium ($Z=99$), and Mendelevium ($Z=101$) are named after Curie, Einstein, and Mendeleev, respectively.
 
-**Detailed Explanation:**
-- **Transuranic Eponyms:** Curium ($Z=96$), Einsteinium ($Z=99$), and Mendelevium ($Z=101$) are named after Curie, Einstein, and Mendeleev, respectively.
+**Ans: D.** All of the above
 </details>
 
 ---
 
-**Q3. (BPSC Pre 2020)**  
+**Q-ST3. BPSC Pre 2020**
 The chemical formula of "Glauber's Salt" is:  
 (a) $MgSO_4 \cdot 7H_2O$  
 (b) $Na_2SO_4 \cdot 10H_2O$  
@@ -758,15 +749,14 @@ The chemical formula of "Glauber's Salt" is:
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** (b) $Na_2SO_4 \cdot 10H_2O$
+**Logic:** Glauber's Salt: Sodium sulphate decahydrate ($Na_2SO_4 \cdot 10H_2O$).
 
-**Detailed Explanation:**
-- **Glauber's Salt:** Sodium sulphate decahydrate ($Na_2SO_4 \cdot 10H_2O$). Epsom salt is $MgSO_4 \cdot 7H_2O$, and blue vitriol is $CuSO_4 \cdot 5H_2O$.
+**Ans: B.** $Na_2SO_4 \cdot 10H_2O$
 </details>
 
 ---
 
-**Q4. (RAS/RTS Pre 2021)**  
+**Q-ST4. RAS/RTS Pre 2021**
 Who discovered the heavy isotope of hydrogen, Deuterium?  
 (a) Harold C. Urey  
 (b) Ernest Rutherford  
@@ -776,15 +766,14 @@ Who discovered the heavy isotope of hydrogen, Deuterium?
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** (a) Harold C. Urey
+**Logic:** Deuterium Discovery (1931): Harold C.
 
-**Detailed Explanation:**
-- **Deuterium Discovery (1931):** Harold C. Urey discovered deuterium via liquid hydrogen distillation (Nobel Prize in Chemistry, 1934).
+**Ans: A.** Harold C.
 </details>
 
 ---
 
-**Q5. (MPPCS Pre 2022)**  
+**Q-ST5. MPPCS Pre 2022**
 Which of the following scientists is known as the "Father of Modern Chemistry"?  
 (a) Robert Boyle  
 (b) Antoine Lavoisier  
@@ -794,15 +783,14 @@ Which of the following scientists is known as the "Father of Modern Chemistry"?
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** (b) Antoine Lavoisier
+**Logic:** Antoine Lavoisier: Established the law of conservation of mass, recognized the role of oxygen in combustion, and published the first modern element taxonomy.
 
-**Detailed Explanation:**
-- **Antoine Lavoisier:** Established the law of conservation of mass, recognized the role of oxygen in combustion, and published the first modern element taxonomy.
+**Ans: B.** Antoine Lavoisier
 </details>
 
 ---
 
-**Q6. (BPSC Pre 2018)**  
+**Q-ST6. BPSC Pre 2018**
 What is the boiling point of pure Heavy Water ($D_2O$) at standard atmospheric pressure?  
 (a) $100.0^\circ\text{C}$  
 (b) $101.4^\circ\text{C}$  
@@ -812,15 +800,14 @@ What is the boiling point of pure Heavy Water ($D_2O$) at standard atmospheric p
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** (b) $101.4^\circ\text{C}$
+**Logic:** Physical Constants of $D_2O$: Stronger deuterium bonding elevates the boiling point of heavy water to $101.42^\circ\text{C}$ and its freezing point to $3.82^\circ\text{C}$.
 
-**Detailed Explanation:**
-- **Physical Constants of $D_2O$:** Stronger deuterium bonding elevates the boiling point of heavy water to $101.42^\circ\text{C}$ and its freezing point to $3.82^\circ\text{C}$.
+**Ans: B.** $101.4^\circ\text{C}$
 </details>
 
 ---
 
-**Q7. (RAS/RTS Pre 2018)**  
+**Q-ST7. RAS/RTS Pre 2018**
 The 2022 Nobel Prize in Chemistry was awarded for the development of "Click Chemistry" to:  
 (a) Carolyn Bertozzi, Morten Meldal, and K. Barry Sharpless  
 (b) Emmanuelle Charpentier and Jennifer Doudna  
@@ -830,15 +817,14 @@ The 2022 Nobel Prize in Chemistry was awarded for the development of "Click Chem
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** (a) Carolyn Bertozzi, Morten Meldal, and K. Barry Sharpless
+**Logic:** 2022 Nobel Award: Awarded for click chemistry and bioorthogonal reactions that join molecular building blocks without disrupting biological systems.
 
-**Detailed Explanation:**
-- **2022 Nobel Award:** Awarded for click chemistry and bioorthogonal reactions that join molecular building blocks without disrupting biological systems.
+**Ans: A.** Carolyn Bertozzi, Morten Meldal, and K.
 </details>
 
 ---
 
-**Q8. (IAS Pre 2013)**  
+**Q-ST8. IAS Pre 2013**
 Consider the following chemical compounds:  
 1. Heavy water  
 2. Hard water  
@@ -851,15 +837,14 @@ Which of the statements given above is/are correct regarding their physical prop
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** (a) Heavy water has a higher density and higher boiling point than normal pure water
+**Logic:** Properties of $D_2O$: Heavy water has a density of $1.105\text{ g/cm}^3$ and boiling point of $101.42^\circ\text{C}$, both higher than normal water.
 
-**Detailed Explanation:**
-- **Properties of $D_2O$:** Heavy water has a density of $1.105\text{ g/cm}^3$ and boiling point of $101.42^\circ\text{C}$, both higher than normal water. Hard water contains dissolved calcium/magnesium ions, not heavy hydrogen isotopes.
+**Ans: A.** Heavy water has a higher density and higher boiling point than normal pure water
 </details>
 
 ---
 
-**Q9. (MPPCS Pre 2019)**  
+**Q-ST9. MPPCS Pre 2019**
 Which of the following compounds is known as "Sal Ammoniac"?  
 (a) Ammonium sulphate  
 (b) Ammonium chloride  
@@ -869,15 +854,14 @@ Which of the following compounds is known as "Sal Ammoniac"?
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** (b) Ammonium chloride
+**Logic:** Sal Ammoniac: Ammonium chloride ($NH_4Cl$).
 
-**Detailed Explanation:**
-- **Sal Ammoniac:** Ammonium chloride ($NH_4Cl$).
+**Ans: B.** Ammonium chloride
 </details>
 
 ---
 
-**Q10. (IAS Pre 2006)**  
+**Q-ST10. IAS Pre 2006**
 Who among the following scientists won the Nobel Prize twice in two different sciences?  
 (a) Linus Pauling  
 (b) Marie Curie  
@@ -887,496 +871,10 @@ Who among the following scientists won the Nobel Prize twice in two different sc
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** (b) Marie Curie
+**Logic:** Curie's Dual Nobels: Marie Curie won the 1903 Nobel Prize in Physics (for radioactivity) and the 1911 Nobel Prize in Chemistry (for discovering radium and polonium).
 
-**Detailed Explanation:**
-- **Curie's Dual Nobels:** Marie Curie won the 1903 Nobel Prize in Physics (for radioactivity) and the 1911 Nobel Prize in Chemistry (for discovering radium and polonium). Linus Pauling won in Chemistry and Peace.
+**Ans: B.** Marie Curie
 </details>
-
----
-
-## Practice Zone — High-Yield Mock Drills (26 Questions)
-
-**Q1.** Who is celebrated as the "Father of Modern Chemistry"?  
-(a) John Dalton  
-(b) Antoine Lavoisier  
-(c) Robert Boyle  
-(d) Jöns Jacob Berzelius  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Antoine Lavoisier formulated the law of conservation of mass, named oxygen and hydrogen, and published the first modern list of elements.
-</details>
-
----
-
-**Q2.** Which chemical salt is used as a light-sensitive indelible marker in Indian election voting ink?  
-(a) Silver chloride  
-(b) Silver nitrate (Lunar Caustic)  
-(c) Silver iodide  
-(d) Silver bromide  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Silver nitrate ($AgNO_3$) photoreduces on skin into metallic silver, leaving an indelible stain.
-</details>
-
----
-
-**Q3.** What is the primary function of Heavy Water ($D_2O$) in Pressurized Heavy Water Reactors (PHWRs)?  
-(a) Nuclear fuel  
-(b) Moderator to slow down neutrons  
-(c) Absorber to stop neutrons  
-(d) Radiation detector  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Heavy water slows fast fission neutrons to thermal speeds without absorbing them, sustaining the chain reaction.
-</details>
-
----
-
-**Q4.** What is the chemical formula of "Sindoor" (Red Lead / Minium)?  
-(a) $PbO$  
-(b) $PbO_2$  
-(c) $Pb_3O_4$  
-(d) $Pb(NO_3)_2$  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (c)
-
-- **Detailed Explanation:**
-  - Sindoor / Minium is trilead tetroxide ($Pb_3O_4$).
-</details>
-
----
-
-**Q5.** Temporary hardness of water is caused by dissolved:  
-(a) Chlorides of calcium and magnesium  
-(b) Bicarbonates of calcium and magnesium  
-(c) Sulphates of calcium and magnesium  
-(d) Nitrates of sodium  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Bicarbonates ($Ca(HCO_3)_2, Mg(HCO_3)_2$) cause temporary hardness, removable by boiling.
-</details>
-
----
-
-**Q6.** Which reagent is added in Clark's process to remove temporary water hardness?  
-(a) Common salt ($NaCl$)  
-(b) Slaked lime ($Ca(OH)_2$)  
-(c) Hydrochloric acid  
-(d) Nitric acid  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Clark's process uses slaked lime to precipitate calcium carbonate.
-</details>
-
----
-
-**Q7.** Which of the following compounds is commonly known as "Calomel"?  
-(a) $HgCl_2$  
-(b) $Hg_2Cl_2$  
-(c) $HgO$  
-(d) $HgS$  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Calomel is mercurous chloride ($Hg_2Cl_2$).
-</details>
-
----
-
-**Q8.** "Dry Ice" is the solid form of which gas?  
-(a) Nitrogen  
-(b) Carbon dioxide  
-(c) Oxygen  
-(d) Sulphur dioxide  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Dry ice is solid $CO_2$, subliming at $-78.5^\circ\text{C}$.
-</details>
-
----
-
-**Q9.** Who synthesized the first organic compound (urea) from an inorganic substance in 1828?  
-(a) Friedrich Wöhler  
-(b) Jöns Jacob Berzelius  
-(c) August Kekulé  
-(d) Louis Pasteur  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (a)
-
-- **Detailed Explanation:**
-  - Friedrich Wöhler synthesized urea from ammonium cyanate, overturning the Vital Force Theory.
-</details>
-
----
-
-**Q10.** Acharya Prafulla Chandra Ray is famous for discovering and synthesizing:  
-(a) Heavy water  
-(b) Mercurous nitrite  
-(c) Benzene  
-(d) Dynamite  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - P. C. Ray synthesized mercurous nitrite in 1896 and founded Bengal Chemicals.
-</details>
-
----
-
-**Q11.** What is the red dye used as a coloring agent in commercial red ink?  
-(a) Methylene blue  
-(b) Eosin  
-(c) Malachite green  
-(d) Indigo  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Eosin is a red fluorescent dye used in red inks and histological stains.
-</details>
-
----
-
-**Q12.** What is the common name for Lead Monoxide ($PbO$)?  
-(a) Sindoor  
-(b) Litharge  
-(c) Calomel  
-(d) Corrosive sublimate  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Litharge is lead monoxide ($PbO$).
-</details>
-
----
-
-**Q13.** Which radioactive isotope of hydrogen has a half-life of $\approx 12.3\text{ years}$?  
-(a) Protium  
-(b) Deuterium  
-(c) Tritium  
-(d) Helium-3  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (c)
-
-- **Detailed Explanation:**
-  - Tritium ($^3H$) is a radioactive beta emitter with a half-life of 12.3 years.
-</details>
-
----
-
-**Q14.** Calgon used in water softening is chemically:  
-(a) Sodium hexametaphosphate  
-(b) Sodium carbonate  
-(c) Sodium chloride  
-(d) Calcium carbonate  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (a)
-
-- **Detailed Explanation:**
-  - Calgon is sodium hexametaphosphate ($Na_6P_6O_{18}$), which sequesters calcium and magnesium ions.
-</details>
-
----
-
-**Q15.** The exhausted zeolite bed in water softening is regenerated using an aqueous solution of:  
-(a) Common salt ($NaCl$ brine)  
-(b) Sulphuric acid  
-(c) Sodium hydroxide  
-(d) Bleaching powder  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (a)
-
-- **Detailed Explanation:**
-  - Zeolite beds are regenerated by backwashing with a $10\%$ $NaCl$ brine solution to replace captured $Ca^{2+}$ with $Na^+$.
-</details>
-
----
-
-**Q16.** Barium sulphate is administered as a "Barium meal" in radiology because:  
-(a) It is highly soluble in water  
-(b) It is completely insoluble in digestive acids and opaque to X-rays  
-(c) It dissolves stomach ulcers  
-(d) It acts as an antibiotic  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - $BaSO_4$ is radiopaque and insoluble, making it a safe gastrointestinal X-ray contrast agent.
-</details>
-
----
-
-**Q17.** Who proposed the cyclic structure of Benzene with alternating single and double bonds?  
-(a) August Kekulé  
-(b) John Dalton  
-(c) Antoine Lavoisier  
-(d) Linus Pauling  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (a)
-
-- **Detailed Explanation:**
-  - August Kekulé proposed the cyclic benzene ring structure in 1865.
-</details>
-
----
-
-**Q18.** "Chile Saltpetre" is chemically:  
-(a) Potassium nitrate ($KNO_3$)  
-(b) Sodium nitrate ($NaNO_3$)  
-(c) Ammonium chloride ($NH_4Cl$)  
-(d) Calcium sulphate ($CaSO_4$)  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Chile saltpetre is sodium nitrate ($NaNO_3$).
-</details>
-
----
-
-**Q19.** Which of the following compounds is known as "Sal Ammoniac"?  
-(a) Ammonium sulphate  
-(b) Ammonium chloride ($NH_4Cl$)  
-(c) Ammonium nitrate  
-(d) Ammonium carbonate  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Sal ammoniac is ammonium chloride ($NH_4Cl$).
-</details>
-
----
-
-**Q20.** The 2024 Nobel Prize in Chemistry recognized breakthrough achievements in:  
-(a) Lithium-ion battery development  
-(b) Computational protein design and AI protein structure prediction (AlphaFold)  
-(c) Quantum dot synthesis  
-(d) Click chemistry  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - The 2024 Nobel Prize was awarded to David Baker (protein design) and Demis Hassabis & John Jumper (AlphaFold protein structure prediction).
-</details>
-
----
-
-**Q21.** What is the boiling point of pure Heavy Water ($D_2O$)?  
-(a) $100.0^\circ\text{C}$  
-(b) $101.42^\circ\text{C}$  
-(c) $98.5^\circ\text{C}$  
-(d) $104.2^\circ\text{C}$  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Heavy water boils at $101.42^\circ\text{C}$ and freezes at $3.82^\circ\text{C}$ due to stronger deuterium bonding.
-</details>
-
----
-
-**Q22.** Which gas is known as "Laughing Gas"?  
-(a) $NO$  
-(b) $N_2O$  
-(c) $NO_2$  
-(d) $N_2O_5$  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Nitrous oxide ($N_2O$) is laughing gas.
-</details>
-
----
-
-**Q23.** What is the chemical formula of "Corrosive Sublimate"?  
-(a) $Hg_2Cl_2$  
-(b) $HgCl_2$  
-(c) $HgS$  
-(d) $HgO$  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (b)
-
-- **Detailed Explanation:**
-  - Corrosive sublimate is mercuric chloride ($HgCl_2$).
-</details>
-
----
-
-**Q24.** Who discovered Deuterium in 1931?  
-(a) Harold C. Urey  
-(b) Ernest Rutherford  
-(c) James Chadwick  
-(d) Marie Curie  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (a)
-
-- **Detailed Explanation:**
-  - Harold C. Urey discovered deuterium by fractional distillation of liquid hydrogen.
-</details>
-
----
-
-**Q25.** Which of the following is known as "Philosopher's Wool"?  
-(a) Zinc oxide ($ZnO$)  
-(b) Magnesium oxide  
-(c) Calcium carbonate  
-(d) Iron oxide  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (a)
-
-- **Detailed Explanation:**
-  - Philosopher's wool is zinc oxide ($ZnO$).
-</details>
-
----
-
-**Q26.** What is the chemical formula of "Glauber's Salt"?  
-(a) $Na_2SO_4 \cdot 10H_2O$  
-(b) $MgSO_4 \cdot 7H_2O$  
-(c) $CuSO_4 \cdot 5H_2O$  
-(d) $FeSO_4 \cdot 7H_2O$  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** (a)
-
-- **Detailed Explanation:**
-  - Glauber's salt is sodium sulphate decahydrate ($Na_2SO_4 \cdot 10H_2O$).
-</details>
-
----
-
-## Common Traps & High-Yield Pitfalls
-
-| Trap Area | What Students Confuse | Correct Fact |
-|---|---|---|
-| **Voting Ink Compound** | Answering silver chloride or silver iodide for election ink. | Election ink contains **Silver Nitrate ($AgNO_3$, Lunar Caustic)**. |
-| **Heavy Water Identity** | Confusing heavy water with mineral-rich hard water. | Heavy water is **Deuterium Oxide ($D_2O$)**; hard water is $H_2O$ containing dissolved $Ca^{2+}/Mg^{2+}$. |
-| **Water Hardness Types** | Swapping temporary and permanent hardness salts. | **Temporary = Bicarbonates** ($Ca(HCO_3)_2$). **Permanent = Chlorides and Sulphates** ($CaCl_2, MgSO_4$). |
-| **Father of Indian Chemistry** | Confusing P. C. Ray with C. V. Raman or J. C. Bose. | **Acharya P. C. Ray** is the Father of Indian Chemistry (mercurous nitrite, Bengal Chemicals). |
-| **Calomel vs. Corrosive Sublimate** | Mixing up $Hg_2Cl_2$ and $HgCl_2$. | **Calomel = $Hg_2Cl_2$** (mercurous, insoluble). **Corrosive Sublimate = $HgCl_2$** (mercuric, toxic). |
-| **Sindoor Chemical Identity** | Guessing mercuric oxide or calcium carbonate for Sindoor. | Sindoor / Red Lead / Minium is **Trilead Tetroxide ($Pb_3O_4$)**. |
-| **Saltpetre vs. Chile Saltpetre** | Confusing potassium and sodium nitrates. | **Saltpetre (Nitre) = $KNO_3$**. **Chile Saltpetre = $NaNO_3$**. |
-| **Barium Meal Compound** | Writing barium chloride or barium carbonate for X-rays. | Only insoluble **Barium Sulphate ($BaSO_4$)** is non-toxic and used as a radiopaque meal. |
-| **Eosin Dye Purpose** | Confusing Eosin with blue vitriol or rodenticides. | Eosin is the **red coloring dye in commercial Red Ink** and biological tissue stains. |
-| **Noble Gas Distractors** | Assuming Actinium is a noble gas. | Actinium ($Ac, Z=89$) is an **actinide transition metal**, NOT a noble gas (Group 18). |
-
-
----
-
-## Bilingual Terminology -- Chemistry Discoveries and Miscellaneous
-
-| English Term | Hindi Term | Key Anchor |
-|---|---|---|
-| **Alchemy** (रसायन शास्त्र का प्राचीन रूप) | कीमिया / रसायन विद्या | Medieval precursor of chemistry; sought to transmute metals to gold |
-| **Lavoisier** (लावोइसिये) | अन्टोइन लावोइसिये | "Father of Modern Chemistry"; law of conservation of mass; named oxygen (1774) |
-| **Dalton's Atomic Theory** (डाल्टन का परमाणु सिद्धांत) | डाल्टन का परमाणु सिद्धांत | 1803; atoms are indivisible; each element has unique atoms |
-| **Avogadro's Law** (अवोगाद्रो का नियम) | अवोगाद्रो का नियम | Equal volumes of gases at same T and P contain equal number of molecules |
-| **Gay-Lussac's Law** (गे-लुसाक का नियम) | गे-लुसाक का नियम | Gases combine in simple ratios of volumes; e.g., H2 + Cl2 = 2HCl |
-| **Haber Process** (हैबर विधि) | हैबर प्रक्रम | N2 + 3H2 = 2NH3; conditions: 400-500 degC, 200 atm, iron catalyst; makes ammonia |
-| **Contact Process** (संपर्क विधि) | सम्पर्क प्रक्रम | Industrial manufacture of H2SO4; 2SO2 + O2 = 2SO3 (V2O5 catalyst) |
-| **Solvay Process** (सोल्वे विधि) | साल्वे प्रक्रम | Industrial production of Na2CO3 (soda ash/washing soda) from salt + ammonia + CO2 |
-| **Ostwald Process** (ऑस्टवाल्ड विधि) | ऑस्टवाल्ड प्रक्रम | Industrial production of HNO3 (nitric acid) from ammonia; Pt-Rh catalyst |
-| **Dry Ice** (शुष्क बर्फ) | सूखी बर्फ | Solid CO2; -78.5 degC; sublimes directly; refrigerant, special effects |
-| **Heavy Water** (भारी जल) | भारी जल | D2O (deuterium oxide); used as moderator in nuclear reactors |
-| **Laughing Gas** (नाइट्रस ऑक्साइड) | नाइट्रस ऑक्साइड / हँसाने वाली गैस | N2O; anaesthetic; greenhouse gas; discovered by Joseph Priestley |
-| **Noble Gas** (उत्कृष्ट गैस) | अक्रिय गैस | Group 18; completely filled electron shells; unreactive |
-| **Catalyst** (उत्प्रेरक) | उत्प्रेरक | Speeds up reaction without being consumed; positive or negative |
-| **Le Chatelier's Principle** (ले शातेलिए का सिद्धांत) | ले शातेलिए का नियम | System in equilibrium shifts to counter any applied change |
-| **Electrochemistry** (विद्युत-रसायन) | विद्युत-रसायन | Study of relationship between electricity and chemical reactions |
 
 ---
 
@@ -1414,4 +912,491 @@ Who among the following scientists won the Nobel Prize twice in two different sc
 | 28 | Catalytic converter in cars = Pt-Rh-Pd catalyst; converts CO, NOx, VOCs to CO2, N2, H2O |
 | 29 | Green Chemistry 12 principles = prevent waste; atom economy; safer chemicals; etc. (Paul Anastas) |
 | 30 | India's 1st Chemistry Nobel (so far) = none; C.V. Raman (1930) was in Physics |
+
+## Practice Zone — High-Yield Mock Drills (26 Questions)
+
+**Q1.**
+
+Who is celebrated as the "Father of Modern Chemistry"?
+(a) John Dalton  
+(b) Antoine Lavoisier  
+(c) Robert Boyle  
+(d) Jöns Jacob Berzelius  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Antoine Lavoisier formulated the law of conservation of mass, named oxygen and hydrogen, and published the first modern list of elements.
+
+**Ans: B.** Antoine Lavoisier
+</details>
+
+---
+
+**Q2.**
+
+Which chemical salt is used as a light-sensitive indelible marker in Indian election voting ink?
+(a) Silver chloride  
+(b) Silver nitrate (Lunar Caustic)  
+(c) Silver iodide  
+(d) Silver bromide  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Silver nitrate ($AgNO3$) photoreduces on skin into metallic silver, leaving an indelible stain.
+
+**Ans: B.** Silver nitrate (Lunar Caustic)
+</details>
+
+---
+
+**Q3.**
+
+What is the primary function of Heavy Water ($D_2O$) in Pressurized Heavy Water Reactors (PHWRs)?
+(a) Nuclear fuel  
+(b) Moderator to slow down neutrons  
+(c) Absorber to stop neutrons  
+(d) Radiation detector  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Heavy water slows fast fission neutrons to thermal speeds without absorbing them, sustaining the chain reaction.
+
+**Ans: B.** Moderator to slow down neutrons
+</details>
+
+---
+
+**Q4.**
+
+What is the chemical formula of "Sindoor" (Red Lead / Minium)?
+(a) $PbO$  
+(b) $PbO_2$  
+(c) $Pb_3O_4$  
+(d) $Pb(NO_3)_2$  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches $Pb3O4$.
+
+**Ans: C.** $Pb3O4$
+</details>
+
+---
+
+**Q5.**
+
+Temporary hardness of water is caused by dissolved:
+(a) Chlorides of calcium and magnesium  
+(b) Bicarbonates of calcium and magnesium  
+(c) Sulphates of calcium and magnesium  
+(d) Nitrates of sodium  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Bicarbonates ($Ca(HCO3)2, Mg(HCO3)2$) cause temporary hardness, removable by boiling.
+
+**Ans: B.** Bicarbonates of calcium and magnesium
+</details>
+
+---
+
+**Q6.**
+
+Which reagent is added in Clark's process to remove temporary water hardness?
+(a) Common salt ($NaCl$)  
+(b) Slaked lime ($Ca(OH)_2$)  
+(c) Hydrochloric acid  
+(d) Nitric acid  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Clark's process uses slaked lime to precipitate calcium carbonate.
+
+**Ans: B.** Slaked lime ($Ca(OH)2$)
+</details>
+
+---
+
+**Q7.**
+
+Which of the following compounds is commonly known as "Calomel"?
+(a) $HgCl_2$  
+(b) $Hg_2Cl_2$  
+(c) $HgO$  
+(d) $HgS$  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Calomel is mercurous chloride ($Hg2Cl2$).
+
+**Ans: B.** $Hg2Cl2$
+</details>
+
+---
+
+**Q8.**
+
+"Dry Ice" is the solid form of which gas?
+(a) Nitrogen  
+(b) Carbon dioxide  
+(c) Oxygen  
+(d) Sulphur dioxide  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Dry ice is solid $CO2$, subliming at $-78.5^\circ\text{C}$.
+
+**Ans: B.** Carbon dioxide
+</details>
+
+---
+
+**Q9.**
+
+Who synthesized the first organic compound (urea) from an inorganic substance in 1828?
+(a) Friedrich Wöhler  
+(b) Jöns Jacob Berzelius  
+(c) August Kekulé  
+(d) Louis Pasteur  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Friedrich Wöhler synthesized urea from ammonium cyanate, overturning the Vital Force Theory.
+
+**Ans: A.** Friedrich Wöhler
+</details>
+
+---
+
+**Q10.**
+
+Acharya Prafulla Chandra Ray is famous for discovering and synthesizing:
+(a) Heavy water  
+(b) Mercurous nitrite  
+(c) Benzene  
+(d) Dynamite  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Mercurous nitrite.
+
+**Ans: B.** Mercurous nitrite
+</details>
+
+---
+
+**Q11.**
+
+What is the red dye used as a coloring agent in commercial red ink?
+(a) Methylene blue  
+(b) Eosin  
+(c) Malachite green  
+(d) Indigo  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Eosin.
+
+**Ans: B.** Eosin
+</details>
+
+---
+
+**Q12.**
+
+What is the common name for Lead Monoxide ($PbO$)?
+(a) Sindoor  
+(b) Litharge  
+(c) Calomel  
+(d) Corrosive sublimate  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Litharge is lead monoxide ($PbO$).
+
+**Ans: B.** Litharge
+</details>
+
+---
+
+**Q13.**
+
+Which radioactive isotope of hydrogen has a half-life of $\approx 12.3\text{ years}$?
+(a) Protium  
+(b) Deuterium  
+(c) Tritium  
+(d) Helium-3  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Tritium.
+
+**Ans: C.** Tritium
+</details>
+
+---
+
+**Q14.**
+
+Calgon used in water softening is chemically:
+(a) Sodium hexametaphosphate  
+(b) Sodium carbonate  
+(c) Sodium chloride  
+(d) Calcium carbonate  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Calgon is sodium hexametaphosphate ($Na6P6O{18}$), which sequesters calcium and magnesium ions.
+
+**Ans: A.** Sodium hexametaphosphate
+</details>
+
+---
+
+**Q15.**
+
+The exhausted zeolite bed in water softening is regenerated using an aqueous solution of:
+(a) Common salt ($NaCl$ brine)  
+(b) Sulphuric acid  
+(c) Sodium hydroxide  
+(d) Bleaching powder  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Zeolite beds are regenerated by backwashing with a $10\%$ $NaCl$ brine solution to replace captured $Ca^{2+}$ with $Na^+$.
+
+**Ans: A.** Common salt ($NaCl$ brine)
+</details>
+
+---
+
+**Q16.**
+
+Barium sulphate is administered as a "Barium meal" in radiology because:
+(a) It is highly soluble in water  
+(b) It is completely insoluble in digestive acids and opaque to X-rays  
+(c) It dissolves stomach ulcers  
+(d) It acts as an antibiotic  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** $BaSO4$ is radiopaque and insoluble, making it a safe gastrointestinal X-ray contrast agent.
+
+**Ans: B.** It is completely insoluble in digestive acids and opaque to X-rays
+</details>
+
+---
+
+**Q17.**
+
+Who proposed the cyclic structure of Benzene with alternating single and double bonds?
+(a) August Kekulé  
+(b) John Dalton  
+(c) Antoine Lavoisier  
+(d) Linus Pauling  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** August Kekulé proposed the cyclic benzene ring structure in 1865.
+
+**Ans: A.** August Kekulé
+</details>
+
+---
+
+**Q18.**
+
+"Chile Saltpetre" is chemically:
+(a) Potassium nitrate ($KNO_3$)  
+(b) Sodium nitrate ($NaNO_3$)  
+(c) Ammonium chloride ($NH_4Cl$)  
+(d) Calcium sulphate ($CaSO_4$)  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Chile saltpetre is sodium nitrate ($NaNO3$).
+
+**Ans: B.** Sodium nitrate ($NaNO3$)
+</details>
+
+---
+
+**Q19.**
+
+Which of the following compounds is known as "Sal Ammoniac"?
+(a) Ammonium sulphate  
+(b) Ammonium chloride ($NH_4Cl$)  
+(c) Ammonium nitrate  
+(d) Ammonium carbonate  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Sal ammoniac is ammonium chloride ($NH4Cl$).
+
+**Ans: B.** Ammonium chloride ($NH4Cl$)
+</details>
+
+---
+
+**Q20.**
+
+The 2024 Nobel Prize in Chemistry recognized breakthrough achievements in:
+(a) Lithium-ion battery development  
+(b) Computational protein design and AI protein structure prediction (AlphaFold)  
+(c) Quantum dot synthesis  
+(d) Click chemistry  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 2024 Nobel Prize was awarded to David Baker (protein design) and Demis Hassabis & John Jumper (AlphaFold protein structure prediction).
+
+**Ans: B.** Computational protein design and AI protein structure prediction (AlphaFold)
+</details>
+
+---
+
+**Q21.**
+
+What is the boiling point of pure Heavy Water ($D_2O$)?
+(a) $100.0^\circ\text{C}$  
+(b) $101.42^\circ\text{C}$  
+(c) $98.5^\circ\text{C}$  
+(d) $104.2^\circ\text{C}$  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Heavy water boils at $101.42^\circ\text{C}$ and freezes at $3.82^\circ\text{C}$ due to stronger deuterium bonding.
+
+**Ans: B.** $101.42^\circ\text{C}$
+</details>
+
+---
+
+**Q22.**
+
+Which gas is known as "Laughing Gas"?
+(a) $NO$  
+(b) $N_2O$  
+(c) $NO_2$  
+(d) $N_2O_5$  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches $N2O$.
+
+**Ans: B.** $N2O$
+</details>
+
+---
+
+**Q23.**
+
+What is the chemical formula of "Corrosive Sublimate"?
+(a) $Hg_2Cl_2$  
+(b) $HgCl_2$  
+(c) $HgS$  
+(d) $HgO$  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches $HgCl2$.
+
+**Ans: B.** $HgCl2$
+</details>
+
+---
+
+**Q24.**
+
+Who discovered Deuterium in 1931?
+(a) Harold C. Urey  
+(b) Ernest Rutherford  
+(c) James Chadwick  
+(d) Marie Curie  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Harold C.
+
+**Ans: A.** Harold C.
+</details>
+
+---
+
+**Q25.**
+
+Which of the following is known as "Philosopher's Wool"?
+(a) Zinc oxide ($ZnO$)  
+(b) Magnesium oxide  
+(c) Calcium carbonate  
+(d) Iron oxide  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Philosopher's wool is zinc oxide ($ZnO$).
+
+**Ans: A.** Zinc oxide ($ZnO$)
+</details>
+
+---
+
+**Q26.**
+
+What is the chemical formula of "Glauber's Salt"?
+(a) $Na_2SO_4 \cdot 10H_2O$  
+(b) $MgSO_4 \cdot 7H_2O$  
+(c) $CuSO_4 \cdot 5H_2O$  
+(d) $FeSO_4 \cdot 7H_2O$  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Glauber's salt is sodium sulphate decahydrate ($Na2SO4 \cdot 10H2O$).
+
+**Ans: A.** $Na2SO4 \cdot 10H2O$
+</details>
+
+---
+
+## Common Traps & High-Yield Pitfalls
+
+| Trap Area | What Students Confuse | Correct Fact |
+|---|---|---|
+| **Voting Ink Compound** | Answering silver chloride or silver iodide for election ink. | Election ink contains **Silver Nitrate ($AgNO_3$, Lunar Caustic)**. |
+| **Heavy Water Identity** | Confusing heavy water with mineral-rich hard water. | Heavy water is **Deuterium Oxide ($D_2O$)**; hard water is $H_2O$ containing dissolved $Ca^{2+}/Mg^{2+}$. |
+| **Water Hardness Types** | Swapping temporary and permanent hardness salts. | **Temporary = Bicarbonates** ($Ca(HCO_3)_2$). **Permanent = Chlorides and Sulphates** ($CaCl_2, MgSO_4$). |
+| **Father of Indian Chemistry** | Confusing P. C. Ray with C. V. Raman or J. C. Bose. | **Acharya P. C. Ray** is the Father of Indian Chemistry (mercurous nitrite, Bengal Chemicals). |
+| **Calomel vs. Corrosive Sublimate** | Mixing up $Hg_2Cl_2$ and $HgCl_2$. | **Calomel = $Hg_2Cl_2$** (mercurous, insoluble). **Corrosive Sublimate = $HgCl_2$** (mercuric, toxic). |
+| **Sindoor Chemical Identity** | Guessing mercuric oxide or calcium carbonate for Sindoor. | Sindoor / Red Lead / Minium is **Trilead Tetroxide ($Pb_3O_4$)**. |
+| **Saltpetre vs. Chile Saltpetre** | Confusing potassium and sodium nitrates. | **Saltpetre (Nitre) = $KNO_3$**. **Chile Saltpetre = $NaNO_3$**. |
+| **Barium Meal Compound** | Writing barium chloride or barium carbonate for X-rays. | Only insoluble **Barium Sulphate ($BaSO_4$)** is non-toxic and used as a radiopaque meal. |
+| **Eosin Dye Purpose** | Confusing Eosin with blue vitriol or rodenticides. | Eosin is the **red coloring dye in commercial Red Ink** and biological tissue stains. |
+| **Noble Gas Distractors** | Assuming Actinium is a noble gas. | Actinium ($Ac, Z=89$) is an **actinide transition metal**, NOT a noble gas (Group 18). |
+
+---
 

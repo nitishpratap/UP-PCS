@@ -251,9 +251,34 @@
 
 ---
 
+## Bilingual Terminology -- Electronics, Semiconductors and Computers
+
+| English Term | Hindi Term | Key Anchor |
+|---|---|---|
+| **Semiconductor** (अर्धचालक) | अर्धचालक | Conductivity between conductor and insulator; Si, Ge |
+| **Diode** (डायोड) | डायोड | Two-terminal device; allows current in one direction only (rectification) |
+| **Transistor** (ट्रांजिस्टर) | ट्रांजिस्टर | Three-terminal device; amplification and switching |
+| **Integrated Circuit (IC)** (एकीकृत परिपथ) | एकीकृत परिपथ | Many transistors on a single chip; "chip" |
+| **Binary** (द्विआधारी) | द्विआधारी | Base-2 number system; 0 and 1 only; basis of computers |
+| **Bit** (बिट) | बिट | Smallest unit of data; 0 or 1 |
+| **Byte** (बाइट) | बाइट | 8 bits; basic addressable unit |
+| **CPU** (केन्द्रीय प्रसंस्करण इकाई) | केंद्रीय प्रक्रमण एकक | Central Processing Unit; "brain" of computer |
+| **RAM** (रैम) | यादृच्छिक अभिगम स्मृति | Random Access Memory; volatile; temporary storage |
+| **ROM** (रोम) | केवल पठन स्मृति | Read Only Memory; non-volatile; permanent storage |
+| **Internet** (इंटरनेट) | इंटरनेट | Global network of computers; WWW is a service on Internet |
+| **Artificial Intelligence** (कृत्रिम बुद्धिमत्ता) | कृत्रिम बुद्धिमत्ता | Simulation of human intelligence in machines |
+| **Machine Learning** (मशीन लर्निंग) | मशीन लर्निंग | AI where computers learn from data without explicit programming |
+| **5G** (5जी) | पांचवीं पीढ़ी का नेटवर्क | 5th generation mobile network; speed up to 10-20 Gbps |
+| **Nanotechnology** (नैनो प्रौद्योगिकी) | नैनो प्रौद्योगिकी | Technology at 1-100 nm scale; 1 nm = 10^-9 m |
+| **Quantum Computing** (क्वांटम संगणना) | क्वांटम संगणना | Uses qubits (superposition/entanglement); exponentially faster for certain tasks |
+
+---
+
 ## Complete PYQ Bank — UPPCS
 
-**Q1. (U.P.P.C.S. (Mains) 2015)** Which one of the following is the best conductor of
+**Q-ST1. UPPCS (Mains) 2015**
+
+Which one of the following is the best conductor of
 
 electricity?
 
@@ -264,13 +289,12 @@ electricity?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** ``Ans. (d)``
-- **Logic:**
-  See the explanation of above question.
-
+**Ans: D.** Silver
 </details>
 
-**Q2. (U.P.P.C.S. (Mains) 2012 / R.A.S./R.T.S.(Pre) 2012)** Which of the following is the best conductor of
+**Q-ST2. UPPCS (Mains) 2012 / RAS/RTS(Pre) 2012**
+
+Which of the following is the best conductor of
 
 electricity?
 
@@ -281,13 +305,14 @@ electricity?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** ``Ans. (c)``
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches Silver (d) Gold.
 
+**Ans: C.** Silver (d) Gold
 </details>
 
-**Q3. (U.P.R.O./A.R.O. (Mains) 2013)** Assertion (A): Copper rods are generally preferred
+**Q-ST3. UP RO/ARO (Mains) 2013**
+
+Assertion (A): Copper rods are generally preferred
 
 to iron rods for making lightning
 
@@ -322,25 +347,14 @@ G–141 General Studies General Science
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** ``Ans. (a)``
-- **Logic:**
-  Copper rods are preferred for making lightning conductor
+**Logic:** Copper rods are preferred for making lightning conductor because : (i) Copper is a better conductor of electricity than iron.
 
-because :
-
-(i) Copper is a better conductor of electricity than iron.
-
-(ii) Copper is not easily oxidized in the presence of oxygen
-
-and water molecules while iron gets rusted.
-
-(iii) Loss of energy is much less with a copper rod than with
-
-iron rod, as copper is a bad conductor of heat than iron.
-
+**Ans: A.** Both (A) and (R) are true and (R) is the correct
 </details>
 
-**Q4. (U.P. R.O./A.R.O. (Pre) 2023)** Given below are two statements, in which one is
+**Q-ST4. UP RO/ARO (Pre) 2023**
+
+Given below are two statements, in which one is
 
 labelled as Assertion (A) and the other as Reason (R).
 
@@ -371,21 +385,14 @@ explanation of (A).
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** ``Ans. (b)``
-- **Logic:**
-  A person travelling in a car with closed glass windows and
+**Logic:** A person travelling in a car with closed glass windows and doors is safe from the lightening strike, because closed car behaves like a closed hollow conductor (as a Faraday cage) and electric field or charge inside a cl…
 
-doors is safe from the lightening strike, because closed car
-
-behaves like a closed hollow conductor (as a Faraday cage)
-
-and electric field or charge inside a closed conductor is always
-
-zero and hence, charges cannot enter inside the car.
-
+**Ans: B.** Both (A) and (R) are true and (R) is correct explanation
 </details>
 
-**Q5. (U.P.P.C.S. (Pre) 2000)** At which temperature superconductivity can be
+**Q-ST5. UPPCS (Pre) 2000**
+
+At which temperature superconductivity can be
 
 of tremendous economic interest saving billions of
 
@@ -404,17 +411,14 @@ superconductor
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** ``Ans. (c)``
-- **Logic:**
-  If we could achieve superconductivity at room temperature
+**Logic:** If we could achieve superconductivity at room temperature then we can save billions of rupee through electric transmission without any power loss.
 
-then we can save billions of rupee through electric
-
-transmission without any power loss.
-
+**Ans: C.** at room temperature
 </details>
 
-**Q6. (U.P. Lower Sub. (Pre) 2013)** The highest temperature attained by a superconductor
+**Q-ST6. UP Lower Sub (Pre) 2013**
+
+The highest temperature attained by a superconductor
 
 is :
 
@@ -425,33 +429,14 @@ is :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** ``Ans. (*)``
-- **Logic:**
-  When superconductivity was discovered in 1911, it was found
+**Logic:** When superconductivity was discovered in 1911, it was found only at temperatures close to absolute zero (– 273.15°C).
 
-only at temperatures close to absolute zero (– 273.15°C). But
-
-since then, researchers have steadily uncovered materials
-
-that superconduct at higher temperatures. In recent years,
-
-scientists have accelerated that progress by focusing on
-
-hydrogen-rich materials at high pressure. In 2019 it was
-
-discovered that lanthanum decahydride (LaH10) becomes
-
-a superconductor at around 250-260 K under a pressure
-
-of around 168-180 gigapascals (GPa). This is currently
-
-the highest temperature at which any material has shown
-
-superconductivity.
-
+**Ans:** When superconductivity was discovered in 1911, it was found only at temperatures close to absolute zero (– 273.15°C).
 </details>
 
-**Q7. (Uttarakhand P.C.S. (Pre) 2006 / U.P.P.C.S. (Pre) 2000)** The newly discovered high temperature super
+**Q-ST7. Uttarakhand P.C.S. (Pre) 2006 / UPPCS (Pre) 2000**
+
+The newly discovered high temperature super
 
 conductors are –
 
@@ -462,25 +447,14 @@ conductors are –
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** ``Ans. (c)``
-- **Logic:**
-  Ceramic oxides play a vital role in the field of research
+**Logic:** Ceramic oxides play a vital role in the field of research and discovery towards superconductivity.
 
-and discovery towards superconductivity. Ceramic super
-
-conductive materials contain Mercury (Hg)/Thallium
-
-(Tl), Barium (Ba), Calcium (Ca) and Copper oxide (CO).
-
-Its discovery was first reported in 1993 and its transition
-
-temperature (Tc
-
-) was between 94 K-135 K.
-
+**Ans: C.** Ceramic oxides
 </details>
 
-**Q8. (U.P.P.C.S. (Mains) 2015)** The resistance of a semiconductor on heating :
+**Q-ST8. UPPCS (Mains) 2015**
+
+The resistance of a semiconductor on heating :
 
 (a) Remains constant (b) Decreases
 
@@ -489,31 +463,14 @@ temperature (Tc
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** ``Ans. (b)``
-- **Logic:**
-  With the increase in temperature, the conductivity of the
+**Logic:** With the increase in temperature, the conductivity of the semiconductor material increases.
 
-semiconductor material increases. As with increase in
-
-temperature, outermost electrons acquire energy and hence
-
-by acquiring energy, the outermost electrons leave the
-
-shell of the atom. Hence, with an increase in temperature,
-
-number of carriers in the semiconductor material increases
-
-which leads to increase in the conductivity of the material.
-
-So we can say that the semiconductor material has negative
-
-temperature coefficient i.e. with an increase in temperature,
-
-resistance decreases.
-
+**Ans: B.** Decreases
 </details>
 
-**Q9. (U.P.P.C.S. (Pre) 2015)** The most commonly used material for making
+**Q-ST9. UPPCS (Pre) 2015**
+
+The most commonly used material for making
 
 transistors is –
 
@@ -524,13 +481,12 @@ transistors is –
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** ``Ans. (b)``
-- **Logic:**
-  See the explanation of above question.
-
+**Ans: B.** Silicon
 </details>
 
-**Q10. (U.P. R.O./A.R.O. (Pre) 2016)** Which one of the following is an important component
+**Q-ST10. UP RO/ARO (Pre) 2016**
+
+Which one of the following is an important component
 
 of a transistor?
 
@@ -541,13 +497,12 @@ of a transistor?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** ``Ans. (b)``
-- **Logic:**
-  See the explanation of above question.
-
+**Ans: B.** Germanium
 </details>
 
-**Q11. (U.P.P.C.S. (Pre) (Re. Exam) 2015)** Which of the following is a semiconductor ?
+**Q-ST11. UPPCS (Pre) (Re. Exam) 2015**
+
+Which of the following is a semiconductor ?
 
 (a) Plastic (b) Aluminium
 
@@ -556,13 +511,12 @@ of a transistor?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** ``Ans. (d)``
-- **Logic:**
-  See the explanation of above question.
-
+**Ans: D.** Germanium
 </details>
 
-**Q12. (U.P. P.C.S. (Pre) 2018)** Which of the following elements is a semiconductor?
+**Q-ST12. UPPCS (Pre) 2018**
+
+Which of the following elements is a semiconductor?
 
 (a) Aluminium (b) Silicon
 
@@ -571,13 +525,12 @@ of a transistor?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** ``Ans. (b)``
-- **Logic:**
-  See the explanation of above question.
-
+**Ans: B.** Silicon
 </details>
 
-**Q13. (UPPCS Pre 2018)** Which of the following is NOT an intrinsic property of a semiconductor?
+**Q-ST13. UPPCS Pre 2018**
+
+Which of the following is NOT an intrinsic property of a semiconductor?
 - (A) Decreasing resistance with increasing temperature
 - (B) Negative temperature coefficient of resistance
 - (C) Behavior as a superconductor at absolute zero ($0\text{ K}$)
@@ -586,13 +539,14 @@ of a transistor?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** ``(C) Behavior as a superconductor at absolute zero ($0\text{ K}$)``
-- **Logic:**
-  
+**Logic:** Standard key matches Behavior as a superconductor at absolute zero ($0\text{ K}$).
 
+**Ans: C.** Behavior as a superconductor at absolute zero ($0\text{ K}$)
 </details>
 
-**Q14. (UPPCS Pre 2024)** In a computer system, $1\text{ Megabyte (MB)}$ is equal to:
+**Q-ST14. UPPCS Pre 2024**
+
+In a computer system, $1\text{ Megabyte (MB)}$ is equal to:
 - (A) $1000\text{ Kilobytes}$
 - (B) $1024\text{ Kilobytes}$
 - (C) $1000\text{ Bytes}$
@@ -601,13 +555,14 @@ of a transistor?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** ``(B) $1024\text{ Kilobytes}$``
-- **Logic:**
-  
+**Logic:** Standard key matches $1024\text{ Kilobytes}$.
 
+**Ans: B.** $1024\text{ Kilobytes}$
 </details>
 
-**Q15. (UPPCS Pre 2024)** Which of the following impurities is added to pure Silicon to produce a P-type semiconductor?
+**Q-ST15. UPPCS Pre 2024**
+
+Which of the following impurities is added to pure Silicon to produce a P-type semiconductor?
 - (A) Phosphorus
 - (B) Arsenic
 - (C) Antimony
@@ -616,13 +571,14 @@ of a transistor?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** ``(D) Boron``
-- **Logic:**
-  
+**Logic:** Standard key matches Boron.
 
+**Ans: D.** Boron
 </details>
 
-**Q16. (UPPCS Pre 2021)** Integrated Circuits (ICs) used in computers are generally made of:
+**Q-ST16. UPPCS Pre 2021**
+
+Integrated Circuits (ICs) used in computers are generally made of:
 - (A) Lead
 - (B) Silicon
 - (C) Chromium
@@ -631,13 +587,14 @@ of a transistor?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** ``(B) Silicon``
-- **Logic:**
-  
+**Logic:** Standard key matches Silicon.
 
+**Ans: B.** Silicon
 </details>
 
-**Q17. (UPPCS Pre 2019)** A device that converts Alternating Current (AC) into Direct Current (DC) is called a:
+**Q-ST17. UPPCS Pre 2019**
+
+A device that converts Alternating Current (AC) into Direct Current (DC) is called a:
 - (A) Transformer
 - (B) Rectifier
 - (C) Dynamo
@@ -646,13 +603,14 @@ of a transistor?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** ``(B) Rectifier``
-- **Logic:**
-  
+**Logic:** Standard key matches Rectifier.
 
+**Ans: B.** Rectifier
 </details>
 
-**Q18. (UPPCS Pre 2017)** Which of the following is an example of non-volatile computer memory?
+**Q-ST18. UPPCS Pre 2017**
+
+Which of the following is an example of non-volatile computer memory?
 - (A) RAM
 - (B) SRAM
 - (C) DRAM
@@ -661,13 +619,14 @@ of a transistor?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** ``(D) ROM``
-- **Logic:**
-  
+**Logic:** Standard key matches ROM.
 
+**Ans: D.** ROM
 </details>
 
-**Q19. (UPPCS Pre 2016)** The first mechanical computer designed by Charles Babbage was called:
+**Q-ST19. UPPCS Pre 2016**
+
+The first mechanical computer designed by Charles Babbage was called:
 - (A) Abacus
 - (B) Analytical Engine
 - (C) ENIAC
@@ -676,13 +635,14 @@ of a transistor?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** ``(B) Analytical Engine``
-- **Logic:**
-  
+**Logic:** Standard key matches Analytical Engine.
 
+**Ans: B.** Analytical Engine
 </details>
 
-**Q20. (UPPCS Pre 2015)** The binary number system uses which base?
+**Q-ST20. UPPCS Pre 2015**
+
+The binary number system uses which base?
 - (A) Base 2
 - (B) Base 8
 - (C) Base 10
@@ -691,13 +651,14 @@ of a transistor?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** ``(A) Base 2``
-- **Logic:**
-  
+**Logic:** Standard key matches Base 2.
 
+**Ans: A.** Base 2
 </details>
 
-**Q21. (UPPCS Pre 2014)** Who is recognized as the world's first computer programmer?
+**Q-ST21. UPPCS Pre 2014**
+
+Who is recognized as the world's first computer programmer?
 - (A) Charles Babbage
 - (B) Ada Lovelace
 - (C) Alan Turing
@@ -706,13 +667,14 @@ of a transistor?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** ``(B) Ada Lovelace``
-- **Logic:**
-  
+**Logic:** Standard key matches Ada Lovelace.
 
+**Ans: B.** Ada Lovelace
 </details>
 
-**Q22. (UPPCS Pre 2013)** In a computer, the permanent bootstrap memory containing startup instructions is:
+**Q-ST22. UPPCS Pre 2013**
+
+In a computer, the permanent bootstrap memory containing startup instructions is:
 - (A) RAM
 - (B) BIOS stored in ROM
 - (C) Cache
@@ -721,13 +683,14 @@ of a transistor?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** ``(B) BIOS stored in ROM``
-- **Logic:**
-  
+**Logic:** Standard key matches BIOS stored in ROM.
 
+**Ans: B.** BIOS stored in ROM
 </details>
 
-**Q23. (UPPCS Pre 2012)** What is the full form of the computer acronym 'RAM'?
+**Q-ST23. UPPCS Pre 2012**
+
+What is the full form of the computer acronym 'RAM'?
 - (A) Read Access Memory
 - (B) Random Access Memory
 - (C) Rapid Action Module
@@ -736,13 +699,14 @@ of a transistor?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** ``(B) Random Access Memory``
-- **Logic:**
-  
+**Logic:** Standard key matches Random Access Memory.
 
+**Ans: B.** Random Access Memory
 </details>
 
-**Q24. (UPPCS Pre 2011)** The brain of any computer system that coordinates all its calculations and control operations is the:
+**Q-ST24. UPPCS Pre 2011**
+
+The brain of any computer system that coordinates all its calculations and control operations is the:
 - (A) Monitor
 - (B) Central Processing Unit (CPU)
 - (C) Hard Disk
@@ -751,13 +715,14 @@ of a transistor?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** ``(B) Central Processing Unit (CPU)``
-- **Logic:**
-  
+**Logic:** Standard key matches Central Processing Unit (CPU).
 
+**Ans: B.** Central Processing Unit (CPU)
 </details>
 
-**Q25. (UPPCS Pre 2010)** Which of the following is considered an open-source operating system?
+**Q-ST25. UPPCS Pre 2010**
+
+Which of the following is considered an open-source operating system?
 - (A) Windows 10
 - (B) macOS
 - (C) Linux
@@ -766,13 +731,14 @@ of a transistor?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** ``(C) Linux``
-- **Logic:**
-  
+**Logic:** Standard key matches Linux.
 
+**Ans: C.** Linux
 </details>
 
-**Q26. (UPPCS Pre 2008)** In telecommunications, 'SMS' stands for:
+**Q-ST26. UPPCS Pre 2008**
+
+In telecommunications, 'SMS' stands for:
 - (A) Short Message Service
 - (B) Simple Message Service
 - (C) Small Mail System
@@ -781,13 +747,14 @@ of a transistor?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** ``(A) Short Message Service``
-- **Logic:**
-  
+**Logic:** Standard key matches Short Message Service.
 
+**Ans: A.** Short Message Service
 </details>
 
-**Q27. (U.P.P.C.S. (Pre) 2007)** The first Computer was made by :
+**Q-ST27. UPPCS (Pre) 2007**
+
+The first Computer was made by :
 
 (a) Bill Gates (b) Bill Clinton
 
@@ -796,27 +763,14 @@ of a transistor?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  Charles Babbage was considered to be the father of
+**Logic:** Charles Babbage was considered to be the father of computing after his invention and concept of the Analytical Engine in 1837 (1834 as per the NCERT).
 
-computing after his invention and concept of the Analytical
-
-Engine in 1837 (1834 as per the NCERT). The Analytical
-
-Engine contained an Arithmetic Logic Unit (ALU), basic
-
-flow control and integrated memory. It was hailed as the first
-
-general purpose computer concept. Unfortunately because
-
-of funding issues, this computer was never built while he
-
-was alive.
-
+**Ans: C.** Charles Babbage
 </details>
 
-**Q28. (U.P. Lower Sub. (Mains) 2013)** Who is known as Father of Computers ?
+**Q-ST28. UP Lower Sub (Mains) 2013**
+
+Who is known as Father of Computers ?
 
 (a) Lord Wellington (b) Jack Kilby
 
@@ -825,13 +779,12 @@ was alive.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  See the explanation of above question.
-
+**Ans: D.** Charles Babbage
 </details>
 
-**Q29. (U.P.P.C.S. (Pre) 2024)** Which one of the following groups have only input
+**Q-ST29. UPPCS (Pre) 2024**
+
+Which one of the following groups have only input
 
 devices?
 
@@ -846,27 +799,14 @@ devices?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  Here is the list of main input and output devices :
+**Logic:** Here is the list of main input and output devices : Input Device Output Device Keyboard Monitor Mouse Printer Microphone Speaker Scanner Projector Joystick Plotter Light Pen Headphone
 
-Input Device Output Device
-
-Keyboard Monitor
-
-Mouse Printer
-
-Microphone Speaker
-
-Scanner Projector
-
-Joystick Plotter
-
-Light Pen Headphone
-
+**Ans: D.** Mouse, Keyboard, Scanner
 </details>
 
-**Q30. (U.P. U.D.A./L.D.A. (Mains) 2010)** The body of mouse used in computers was designed
+**Q-ST30. U.P. U.D.A./L.D.A. (Mains) 2010**
+
+The body of mouse used in computers was designed
 
 about 40 years back. Then it was made of –
 
@@ -877,21 +817,14 @@ about 40 years back. Then it was made of –
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  The first mouse prototype was invented by Dr. Doughlas
+**Logic:** The first mouse prototype was invented by Dr.
 
-Engelbart. It was built in 1964. The original mouse was made
-
-of wood, with two metal wheels and a bottom. The mouse
-
-was first made public in 1968 at the Fall Joint Computer
-
-Conference.
-
+**Ans: D.** Wood
 </details>
 
-**Q31. (U.P. Lower Sub. (Mains) 2013)** After the double click of the mouse, the information
+**Q-ST31. UP Lower Sub (Mains) 2013**
+
+After the double click of the mouse, the information
 
 goes to –
 
@@ -902,19 +835,14 @@ goes to –
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  A double-click is an act of pressing a computer mouse
+**Logic:** Standard key matches C.P.U.
 
-button twice quickly without moving the mouse. We can
-
-communicate commands to the computer (CPU) by pressing
-
-a button on top of the mouse.
-
+**Ans: C.** C.P.U.
 </details>
 
-**Q32. (U.P. Lower Sub. (Mains) 2015)** In which port do you plug-in the cable of your
+**Q-ST32. UP Lower Sub (Mains) 2015**
+
+In which port do you plug-in the cable of your
 
 keyboard?
 
@@ -929,21 +857,14 @@ keyboard?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  USB (Universal Serial Bus) was designed to standardize the
+**Logic:** USB (Universal Serial Bus) was designed to standardize the connection of computer peripherals (including keyboards, digital cameras, printers, portable media players, disk drives etc.) to personal computers, both to com…
 
-connection of computer peripherals (including keyboards,
-
-digital cameras, printers, portable media players, disk drives
-
-etc.) to personal computers, both to communicate and to
-
-supply electric power.
-
+**Ans: C.** USB Port
 </details>
 
-**Q33. (U.P. Lower Sub. (Mains) 2013)** Internet system uses which of the following topology?
+**Q-ST33. UP Lower Sub (Mains) 2013**
+
+Internet system uses which of the following topology?
 
 (a) Bus (b) Ring
 
@@ -952,23 +873,14 @@ supply electric power.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  Tree topology is a 'hybrid' topology that combines
+**Logic:** Tree topology is a 'hybrid' topology that combines characteristics of linear bus and star topologies.
 
-characteristics of linear bus and star topologies. The internet
-
-is the best example of largest hybrid topology. Tree topology
-
-is a good choice for a large computer network as the tree
-
-topology 'divides' the whole network into parts, that are more
-
-easily manageable.
-
+**Ans: D.** Tree
 </details>
 
-**Q34. (U.P. Lower Sub. (Mains) 2015)** The internet works on :
+**Q-ST34. UP Lower Sub (Mains) 2015**
+
+The internet works on :
 
 (a) Circuit switching only
 
@@ -981,21 +893,14 @@ easily manageable.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  Packet switching is a digital networking communication
+**Logic:** Packet switching is a digital networking communication method that groups all the transmitted data into suitably sized blocks called packets, which are transmitted via a medium.
 
-method that groups all the transmitted data into suitably sized
-
-blocks called packets, which are transmitted via a medium.
-
-The best known use of packet switching is the internet and
-
-most local area networks.
-
+**Ans: B.** Packet switching only
 </details>
 
-**Q35. (U.P.P.C.S. (Mains) 2011)** 'Bluetooth' technology allows –
+**Q-ST35. UPPCS (Mains) 2011**
+
+'Bluetooth' technology allows –
 
 (a) Signal transmission on mobile phones only
 
@@ -1008,19 +913,14 @@ most local area networks.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  The Bluetooth technology was developed in 1994 by Jaap
+**Logic:** The Bluetooth technology was developed in 1994 by Jaap Haartsen.
 
-Haartsen. Through this technology mobile phones, laptops,
-
-calculators, and digital cameras are connected and share
-
-information and data by using radio waves.
-
+**Ans: D.** Wireless communication between equipments
 </details>
 
-**Q36. (U.P. Lower Sub. (Mains) 2015)** The first railway station in the country to provide
+**Q-ST36. UP Lower Sub (Mains) 2015**
+
+The first railway station in the country to provide
 
 Google's free public Wi-Fi service is :
 
@@ -1035,21 +935,14 @@ Google's free public Wi-Fi service is :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  On September 12, 2015, the Indian Railways announced its
+**Logic:** On September 12, 2015, the Indian Railways announced its partnership with the tech giant Google to provide free Wi-Fi services to 400 railway stations across the country.
 
-partnership with the tech giant Google to provide free Wi-Fi
-
-services to 400 railway stations across the country. In January
-
-2016, Mumbai Central Railway Station had become the first
-
-railway station in India to have Wi-Fi facility.
-
+**Ans: B.** Mumbai Central Railway Station
 </details>
 
-**Q37. (U.P. R.O./A.R.O. (Pre) 2017)** Which one of the following statements is not true about
+**Q-ST37. UP RO/ARO (Pre) 2017**
+
+Which one of the following statements is not true about
 
 Li-Fi?
 
@@ -1070,27 +963,14 @@ circumference
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  & (d)
+**Logic:** & (d) Li-Fi technique was proposed by German Physicist – Harald Hass in 2011.
 
-Li-Fi technique was proposed by German Physicist – Harald
-
-Hass in 2011. The full form of Li-Fi is Light Fidelity. The
-
-country's Information Technology Ministry (not Information
-
-and Broadcasting Ministry) has announced the successful
-
-testing of Li-Fi – a wireless communication technology – in a
-
-pilot jointly conducted with the Indian Institute of Technology
-
-– Madras and lighting company Philips India on 29th January,
-
+**Ans: B.** The successful test of Li-Fi in India was done by
 </details>
 
-**Q38. (U.P. Lower Sub. (Spl.) (Pre) 2004)** The computer system which links and stores
+**Q-ST38. UP Lower Sub (Spl.) (Pre) 2004**
+
+The computer system which links and stores
 
 information among different countries in the world
 
@@ -1103,17 +983,14 @@ through a satellite is known as –
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  Internet is the largest satellite-based communication network
+**Logic:** Internet is the largest satellite-based communication network of the world.
 
-of the world. It links and stores information among different
-
-countries in the world through satellite and cables.
-
+**Ans: C.** Internet (d) Nicnet
 </details>
 
-**Q39. (U.P.P.C.S. (Mains) 2009 / U.P.P.C.S. (Spl.) (Mains) 2008)** To safeguard against cyber attacks and threats of
+**Q-ST39. UPPCS (Mains) 2009 / UPPCS (Spl.) (Mains) 2008**
+
+To safeguard against cyber attacks and threats of
 
 data theft, the ‘Centre for development of Advanced
 
@@ -1126,15 +1003,14 @@ Computing’ has developed a new software called –
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  Software NAYAN was developed by C-DAC to safeguard
+**Logic:** Software NAYAN was developed by C-DAC to safeguard against cyber attacks and threats of data theft.
 
-against cyber attacks and threats of data theft.
-
+**Ans: B.** NAYAN
 </details>
 
-**Q40. (U.P.P.C.S. (Mains) 2004)** First indigenously developed Indian supercomputer is
+**Q-ST40. UPPCS (Mains) 2004**
+
+First indigenously developed Indian supercomputer is
 
 named as –
 
@@ -1145,23 +1021,14 @@ named as –
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  First indigenously developed Indian supercomputer is named
+**Logic:** First indigenously developed Indian supercomputer is named as Param-8000.
 
-as Param-8000. It was unveiled by the government-run
-
-Centre for Development of Advance Computing (C-DAC)
-
-in 1991. All the chips and other elements that were used in
-
-the making of PARAM-8000 were bought from the open
-
-domestic market.
-
+**Ans: D.** Param
 </details>
 
-**Q41. (U.P.P.C.S. (Mains) 2004)** Which one of the following is a supercomputer project
+**Q-ST41. UPPCS (Mains) 2004**
+
+Which one of the following is a supercomputer project
 
 developed by Bhabha Atomic Research Centre ?
 
@@ -1172,25 +1039,14 @@ developed by Bhabha Atomic Research Centre ?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  Computer division of BARC had started development of
+**Logic:** Computer division of BARC had started development of supercomputers under the ANUPAM project in 1991, based on parallel processing techniques.
 
-supercomputers under the ANUPAM project in 1991, based
-
-on parallel processing techniques. The first supercomputer
-
-which was based on this parallel processing technique was
-
-'Anupam' 860/4 using 4 Intel 860 microprocessor base boards
-
-as compute nodes. It was developed by Bhabha Atomic
-
-Research Centre for their internal work /usages.
-
+**Ans: D.** Anupam
 </details>
 
-**Q42. (U.P. Lower Sub. (Pre) 1998)** The world’s fastest computer has been able to perform
+**Q-ST42. UP Lower Sub (Pre) 1998**
+
+The world’s fastest computer has been able to perform
 
 (as of Dec. 1996) :
 
@@ -1209,25 +1065,14 @@ Research Centre for their internal work /usages.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  According to the situation of 1996, world fastest computer
+**Logic:** According to the situation of 1996, world fastest computer was ASCI Red, whose linpack performance was greater than 1 Teraflop/s (1012 operations per second).
 
-was ASCI Red, whose linpack performance was greater
-
-than 1 Teraflop/s (1012 operations per second). But now
-
-according to the latest November, 2025 list of Top 500
-
-Supercomputers, fastest supercomputer (El Capitan) which
-
-is made by U.S., has Linpack performance speed (Rmax) of
-
-1809 Petaflop/s.
-
+**Ans: C.** 1012 operations per second
 </details>
 
-**Q43. (U.P. Lower Sub. (Pre) 2008)** The fastest computer in the world is –
+**Q-ST43. UP Lower Sub (Pre) 2008**
+
+The fastest computer in the world is –
 
 (a) Param-10000 (b) J-8
 
@@ -1236,19 +1081,14 @@ is made by U.S., has Linpack performance speed (Rmax) of
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (*)`
-- **Logic:**
-  During the period of Question (2008), Tianhe-1A was
+**Logic:** During the period of Question (2008), Tianhe-1A was considered as the fastest computer, while at present (As per November, 2025 list of Top 500 Supercomputers) El Capitan of U.S.
 
-considered as the fastest computer, while at present (As per
-
-November, 2025 list of Top 500 Supercomputers) El Capitan
-
-of U.S. is the fastest computer in the world.
-
+**Ans:** During the period of Question (2008), Tianhe-1A was considered as the fastest computer, while at present (As per November, 2025 list of Top 500 Supercomputers) El Capitan of U.S.
 </details>
 
-**Q44. (U.P. Lower Sub. (Pre) 2015)** Supercomputer ‘Magic Cube’ inaugurated recently has
+**Q-ST44. UP Lower Sub (Pre) 2015**
+
+Supercomputer ‘Magic Cube’ inaugurated recently has
 
 been prepared by which of the following countries?
 
@@ -1259,23 +1099,14 @@ been prepared by which of the following countries?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  Supercomputer ‘Magic Cube’ has been made by China to
+**Logic:** Supercomputer ‘Magic Cube’ has been made by China to know the earth’s future and calculate the potential changes to the climate and biological systems.
 
-know the earth’s future and calculate the potential changes
-
-to the climate and biological systems. Chinese scientists hope
-
-to calculate almost everything in natural earth systems from
-
-the formation of clouds to changes in climate in hundreds or
-
-thousands of years from now.
-
+**Ans: B.** China
 </details>
 
-**Q45. (U.P. P.C.S. (Mains) 2017)** As on 31st March, 2018 which of the following is the
+**Q-ST45. UPPCS (Mains) 2017**
+
+As on 31st March, 2018 which of the following is the
 
 India's fastest supercomputer?
 
@@ -1286,61 +1117,14 @@ India's fastest supercomputer?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  As on 31st March, 2018 Pratyush was India's fastest
+**Logic:** As on 31st March, 2018 Pratyush was India's fastest supercomputer which was unveiled at Pune-based Indian Institute of Tropical Meteorology in January, 2018.
 
-supercomputer which was unveiled at Pune-based Indian
-
-Institute of Tropical Meteorology in January, 2018. The
-
-supercomputer has been named as 'Pratyush' meaning sun.
-
-It is providing help to make forecasts regarding monsoon,
-
-cyclones, tsunamis, earthquakes, air quality, lighting, fishing,
-
-hot and cold waves, flood and drought, etc. At present (as per
-
-the November, 2025 list of TOP 500 supercomputers), the
-
-fastest supercomputer installed in India is PowerEdge XE
-
-9680 (installed at Shakti Cloud, Yotta Data Services Pvt. Ltd.,
-
-Mumbai), which is ranked 28th in the world. Its performance
-
-capacity (Rmax) is 84.31 Petaflop/s and maximum capacity
-
-(Rpeak) is 102.82 Petaflop/s. However, this supercomputer is
-
-not developed/manufactured in India. It is purchased
-
-from its manufacturer DELL, USA. While at present,
-
-AIRAWAT-PSAI (Integration of AIRAWAT & Param
-
-Siddhi-AI; installed at C-DAC, Pune) is the second
-
-fastest supercomputer installed in India (It is the fastest
-
-supercomputer developed in India). In November, 2025 List
-
-of TOP 500 supercomputers of the world, its global ranking
-
-is 188 while Arka is the third fastest supercomputer installed
-
-in India with global ranking of 196. Arunika is the fourth
-
-fastest supercomputer installed in India with global ranking
-
-of 251. Pratyush is now the fifth fastest supercomputer
-
-installed in India with global ranking of 338.
-
+**Ans: C.** Pratyush (d) Pushkar
 </details>
 
-**Q46. (U.P.P.C.S. (Pre) 2000)** Which of the following would be the smallest and fastest
+**Q-ST46. UPPCS (Pre) 2000**
+
+Which of the following would be the smallest and fastest
 
 computer imitating brain working –
 
@@ -1351,25 +1135,14 @@ computer imitating brain working –
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  Researchers of Oxford University have been successfully
+**Logic:** Researchers of Oxford University have been successfully invented 10 billion quantum entanglement in silicon.
 
-invented 10 billion quantum entanglement in silicon.
-
-Entanglement is those pair of equipment which are used to
-
-develop a quantum computer. A superfast quantum computer
-
-based on qubits or quantum bits can give lots of possible
-
-answers to a single question. The traditional computer is
-
-generally based on the binary switch or decibel.
-
+**Ans: B.** Quantum computer
 </details>
 
-**Q47. (U.P.P.C.S. (Pre) 2000)** Y2K problem relates to :
+**Q-ST47. UPPCS (Pre) 2000**
+
+Y2K problem relates to :
 
 (a) Finding out a solution to control computer virus.
 
@@ -1394,25 +1167,14 @@ after an experience of sixty years experience.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  Y2K bug also called Year 2000 bug or Millennium Bug,
+**Logic:** Y2K bug also called Year 2000 bug or Millennium Bug, relates to a problem in the coding of computerized systems that was projected to create havoc in computer and computer networks around the world at the beginning of t…
 
-relates to a problem in the coding of computerized systems
-
-that was projected to create havoc in computer and computer
-
-networks around the world at the beginning of the year 2000
-
-(in metric measurements K stands for thousand). To find out
-
-another way for this was really very expensive. It is called
-
-Y2K problem.
-
+**Ans: C.** To find out a suitable replacement when the last two
 </details>
 
-**Q48. (U.P.P.C.S. (Pre) 2009 / U.P.P.C.S. (Mains) 2006 / U.P.P.C.S. (Pre) 1999)** Which one of the following pairs is not matched ?
+**Q-ST48. UPPCS (Pre) 2009 / UPPCS (Mains) 2006 / UPPCS (Pre) 1999**
+
+Which one of the following pairs is not matched ?
 
 (a) Y2K – Computer
 
@@ -1425,21 +1187,14 @@ Y2K problem.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  PARAM is a series of supercomputer designed and assembled
+**Logic:** PARAM is a series of supercomputer designed and assembled by the Centre for Development of Advanced Computing (C-DAC), Pune.
 
-by the Centre for Development of Advanced Computing
-
-(C-DAC), Pune. It was the first supercomputer developed
-
-by India. Y2K is related with a computer, arthritis with uric
-
-acid and noise pollution is with decibel.
-
+**Ans: D.** PARAM 10,000 – Land to land missile
 </details>
 
-**Q49. (I.A.S. (Pre) 2008 / U.P.P.C.S.(Pre) 2009)** Which of the following laser ray is used in laser
+**Q-ST49. I.A.S. (Pre) 2008 / UPPCS(Pre) 2009**
+
+Which of the following laser ray is used in laser
 
 printers?
 
@@ -1450,27 +1205,14 @@ printers?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  Semiconductor laser are solid lasers which are used in laser
+**Logic:** Semiconductor laser are solid lasers which are used in laser printers and CD/DVD players.
 
-printers and CD/DVD players. It works as a light emitting
-
-device. An Excimer laser or Exciplex laser is a form of an
-
-ultraviolet laser which is commonly used in the production
-
-of microelectronic devices and eye surgery. A gas laser is
-
-mainly used to make hologram and also used to read the
-
-barcode printed on the various products. The dye laser is
-
-mainly used in astronomy and spectroscopy.
-
+**Ans: B.** Semiconductor laser
 </details>
 
-**Q50. (U.P. Lower Sub. (Mains) 2013)** Daisy wheel printer is a type of –
+**Q-ST50. UP Lower Sub (Mains) 2013**
+
+Daisy wheel printer is a type of –
 
 (a) Laser Printer (b) DOT Matrix Printer
 
@@ -1479,21 +1221,14 @@ mainly used in astronomy and spectroscopy.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  A daisy wheel printer is an early type of impact printer
+**Logic:** A daisy wheel printer is an early type of impact printer invented in 1969 by David S.
 
-invented in 1969 by David S. Lee at Diablo Data Systems.
-
-Impact printers rely on a forcible impact to transfer ink to
-
-the media. Dot matrix printers are also categorized as an
-
-impact printer.
-
+**Ans: D.** Impact Printer
 </details>
 
-**Q51. (U.P.P.C.S. (Pre) 2015 / U.P.P.C.S. (Mains) 2010 / Uttarakhand Lower Sub. (Pre) 2010)** The full form of WWW is –
+**Q-ST51. UPPCS (Pre) 2015 / UPPCS (Mains) 2010 / Uttarakhand Lower Sub. (Pre) 2010**
+
+The full form of WWW is –
 
 (a) Web Working Window (b) Window World Wide
 
@@ -1502,13 +1237,14 @@ impact printer.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches World Wide Web (d) World Working Web.
 
+**Ans: C.** World Wide Web (d) World Working Web
 </details>
 
-**Q52. (M.P.P.C.S. (Pre) 2013 / U.P.P.C.S (Pre) 2011 / I.A.S. (Pre) 2007)** Who, among the following is considered as the inventor
+**Q-ST52. M.P.P.C.S. (Pre) 2013 / U.P.P.C.S (Pre) 2011 / I.A.S. (Pre) 2007**
+
+Who, among the following is considered as the inventor
 
 of the World Wide Web (WWW) ?
 
@@ -1519,13 +1255,14 @@ of the World Wide Web (WWW) ?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches Tim Berners-Lee (d) Vinod Dham.
 
+**Ans: C.** Tim Berners-Lee (d) Vinod Dham
 </details>
 
-**Q53. (U.P.P.C.S.(Pre) 2001)** Which one of the following is not infotech terminology –
+**Q-ST53. UPPCS(Pre) 2001**
+
+Which one of the following is not infotech terminology –
 
 (a) Cyberspace (b) Upload
 
@@ -1534,17 +1271,14 @@ of the World Wide Web (WWW) ?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  Cyberspace, Upload and Modem terminology are related to
+**Logic:** Cyberspace, Upload and Modem terminology are related to information technology but optical storage is related to the computer engineering.
 
-information technology but optical storage is related to the
-
-computer engineering.
-
+**Ans: C.** Optical storage
 </details>
 
-**Q54. (U.P.P.C.S. (Mains) 2002)** Which one of the following is not an infotech
+**Q-ST54. UPPCS (Mains) 2002**
+
+Which one of the following is not an infotech
 
 terminology?
 
@@ -1555,19 +1289,14 @@ terminology?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  Among the given options, Pinaka is not related to infotech
+**Logic:** Among the given options, Pinaka is not related to infotech terminology.
 
-terminology. It is a multiple rocket launcher produced
-
-in India and developed by the Defence Research and
-
-Development Organization (DRDO) for the Indian Army.
-
+**Ans: D.** Pinaka
 </details>
 
-**Q55. (U.P.P.C.S (Pre) 2011)** Which one of the following is a part of Infotech
+**Q-ST55. U.P.P.C.S (Pre) 2011**
+
+Which one of the following is a part of Infotech
 
 terminology?
 
@@ -1578,23 +1307,14 @@ terminology?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  In information technology (IT), a protocol is the special set
+**Logic:** In information technology (IT), a protocol is the special set of rules, used by telecommunication connection when they communicate.
 
-of rules, used by telecommunication connection when they
-
-communicate. A login is a set of credentials used to access to
-
-an area that requires proper authorization. Archie is a program
-
-that allows you to search the files of all the Internet FTP
-
-servers that offer anonymous FTP (File Transfer Protocol).
-
+**Ans: D.** All of the above
 </details>
 
-**Q56. (U.P. Lower Sub. (Mains) 2015)** A set of rules that governs data communication is
+**Q-ST56. UP Lower Sub (Mains) 2015**
+
+A set of rules that governs data communication is
 
 called:
 
@@ -1605,19 +1325,14 @@ called:
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  A protocol is a set of rules that governs data communication.
+**Logic:** A protocol is a set of rules that governs data communication.
 
-It represents an agreement between the communicating
-
-devices. Without a protocol, two devices may be connected
-
-but not communicating with each other.
-
+**Ans: A.** Protocols (b) Standards
 </details>
 
-**Q57. (U.P. Lower Sub. (Mains) 2013)** The layer between Physical and network layer is known
+**Q-ST57. UP Lower Sub (Mains) 2013**
+
+The layer between Physical and network layer is known
 
 as?
 
@@ -1628,31 +1343,14 @@ as?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  The Open Systems Interconnection (OSI) reference model
+**Logic:** The Open Systems Interconnection (OSI) reference model has been an essential element of computer network design since its ratification in 1984.
 
-has been an essential element of computer network design
-
-since its ratification in 1984. The OSI model divides the
-
-complex task of computer-to-computer communications,
-
-traditionally called internetworking into a series of stages
-
-known as layers. The ISO-OSI model consists of seven-layer
-
-architecture. The physical layer or layer 1 is the first (lowest)
-
-layer. The data link layer or layer 2 is the second layer and
-
-the network layer is layer 3. So it is clear that data link layer
-
-exists between physical and network layer.
-
+**Ans: A.** Data Link Layer
 </details>
 
-**Q58. (U.P.P.C.S (Pre) 2010)** Computer virus is a –
+**Q-ST58. U.P.P.C.S (Pre) 2010**
+
+Computer virus is a –
 
 (a) Fungus (b) Bacterium
 
@@ -1661,23 +1359,14 @@ exists between physical and network layer.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  A computer virus is a destructive software program or piece
+**Logic:** A computer virus is a destructive software program or piece of code that is loaded onto your computer without your knowledge and runs against your wishes.
 
-of code that is loaded onto your computer without your
-
-knowledge and runs against your wishes. Viruses can also
-
-replicate themselves. All computer viruses are man-made.
-
-A simple virus that can make a copy of itself over and over
-
-again is relatively easy to produce.
-
+**Ans: D.** Software program
 </details>
 
-**Q59. (U.P.P.C.S. (Pre) 1993)** Computer virus means :
+**Q-ST59. UPPCS (Pre) 1993**
+
+Computer virus means :
 
 (a) A new virus
 
@@ -1690,15 +1379,14 @@ again is relatively easy to produce.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches Destructive program.
 
-G–181 General Studies General Science
-
+**Ans: C.** Destructive program
 </details>
 
-**Q60. (U.P. U.D.A./L.D.A. (Pre) 2010)** ‘Stuxnet’ worm detected in the computers of Iran is –
+**Q-ST60. U.P. U.D.A./L.D.A. (Pre) 2010**
+
+‘Stuxnet’ worm detected in the computers of Iran is –
 
 (a) A Hardware to speed up internet working.
 
@@ -1711,27 +1399,14 @@ G–181 General Studies General Science
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  Stuxnet is a computer worm that targets industrial control
+**Logic:** Stuxnet is a computer worm that targets industrial control systems which are used to monitor and control large-scale industrial facilities like power plants, dams, waste processing systems and similar operations.
 
-systems which are used to monitor and control large-scale
-
-industrial facilities like power plants, dams, waste processing
-
-systems and similar operations. Stuxnet worm was detected
-
-in the computers of Bushehr nuclear power plant Iran. This
-
-worm is really very deadly for the plants that are controlled
-
-by computers.
-
-General Science General Studies G–182
-
+**Ans: B.** A malicious program to sabotage nuclear centrifuges
 </details>
 
-**Q61. (U.P. R.O./A.R.O. (Pre) (Re-Exam) 2023)** Which of the following is not an Operating System ?
+**Q-ST61. UP RO/ARO (Pre) (Re-Exam) 2023**
+
+Which of the following is not an Operating System ?
 
 (a) Microsoft Office (b) Linux
 
@@ -1740,27 +1415,14 @@ General Science General Studies G–182
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  Microsoft Office is an office suite (a group of applications
+**Logic:** Microsoft Office is an office suite (a group of applications such as Word, Excel, PowerPoint), not an operating system Linux, Windows, and Unix– all are examples of operating systems.
 
-such as Word, Excel, PowerPoint), not an operating system
-
-Linux, Windows, and Unix– all are examples of operating
-
-systems.
-
-● Linux – An open-source, Unix-like operating system.
-
-● Windows – A client operating system developed by
-
-Microsoft.
-
-● Unix – A multi-user, multitasking operating system.
-
+**Ans: A.** Microsoft Office
 </details>
 
-**Q62. (U.P.P.C.S. (Mains) 2006)** The memory of the computer is measured by –
+**Q-ST62. UPPCS (Mains) 2006**
+
+The memory of the computer is measured by –
 
 (a) Bits (b) Ohms
 
@@ -1769,21 +1431,14 @@ Microsoft.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  The main function of the computer memory is to store
+**Logic:** The main function of the computer memory is to store data and information.
 
-data and information. Bit or binary digit is the smallest
-
-unit of computer memory. All computers work on a binary
-
-numbering system, i.e. they process data in ones and zeros.
-
-This 1 or 0 level of storage is called a bit.
-
+**Ans: A.** Bits (b) Ohms
 </details>
 
-**Q63. (U.P. Lower Sub. (Mains) 2013)** Which of the following is a self complimenting code ?
+**Q-ST63. UP Lower Sub (Mains) 2013**
+
+Which of the following is a self complimenting code ?
 
 (a) 8421 code (b) 5211 code
 
@@ -1792,27 +1447,14 @@ This 1 or 0 level of storage is called a bit.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  If a code is constructed in such a way that when we replace 1
+**Logic:** If a code is constructed in such a way that when we replace 1 by 0 and 0 by 1 in the 4-bit code representation of a digit, it is called a self-complementing code.
 
-by 0 and 0 by 1 in the 4-bit code representation of a digit, it is
-
-called a self-complementing code. For example, the (2421)
-
-and the (5211) codes are self-complementing. A necessary
-
-condition for a self-complementing weighted code is that the
-
-sum of its weights be 9. Digit 8421 and 5421 codes are not
-
-self complimenting codes whereas 5211, 2421, 3321, 4311
-
-are self complimenting.
-
+**Ans: B.** 5211 code
 </details>
 
-**Q64. (U.P.P.C.S. (Mains) 2006)** One byte equals to how many bits ?
+**Q-ST64. UPPCS (Mains) 2006**
+
+One byte equals to how many bits ?
 
 (a) 8 (b) 16
 
@@ -1821,15 +1463,14 @@ are self complimenting.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches 8 (b) 16.
 
-G–185 General Studies General Science
-
+**Ans: A.** 8 (b) 16
 </details>
 
-**Q65. (U.P. Lower Sub. (Mains) 2013)** The term bit is the short form of :
+**Q-ST65. UP Lower Sub (Mains) 2013**
+
+The term bit is the short form of :
 
 (a) Megabyte (b) Binary Language
 
@@ -1838,15 +1479,14 @@ G–185 General Studies General Science
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  A bit (short for binary digit) is the smallest unit of data in a
+**Logic:** A bit (short for binary digit) is the smallest unit of data in a computer.
 
-computer. A bit has a single binary value, either 0 or 1.
-
+**Ans: C.** Binary Digit
 </details>
 
-**Q66. (U.P. U.D.A./L.D.A. (Mains) 2010)** The length of a word in computers is measured by –
+**Q-ST66. U.P. U.D.A./L.D.A. (Mains) 2010**
+
+The length of a word in computers is measured by –
 
 (a) Bits (b) Byte
 
@@ -1855,19 +1495,14 @@ computer. A bit has a single binary value, either 0 or 1.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  The length of a word in computers is measured in bits.
+**Logic:** The length of a word in computers is measured in bits.
 
-8 bits = 1 byte
-
-1024 byte = 1 kilobyte
-
-1024 kilobyte = 1 megabyte
-
+**Ans: A.** Bits (b) Byte
 </details>
 
-**Q67. (U.P.P.C.S. (R.I.) 2014 / Uttarakhand P.C.S. (Pre) 2005 / Uttarakhand P.C.S. (Mains) 2002)** One kilobyte is equal to :
+**Q-ST67. UPPCS (R.I.) 2014 / Uttarakhand P.C.S. (Pre) 2005 / Uttarakhand P.C.S. (Mains) 2002**
+
+One kilobyte is equal to :
 
 (a) 1000 bytes (b) 1000 bite
 
@@ -1876,13 +1511,14 @@ computer. A bit has a single binary value, either 0 or 1.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches 1024 bytes (d) 1000 words.
 
+**Ans: C.** 1024 bytes (d) 1000 words
 </details>
 
-**Q68. (U.P. Lower Sub. (Mains) 2015)** 1 kilobyte is equal to :
+**Q-ST68. UP Lower Sub (Mains) 2015**
+
+1 kilobyte is equal to :
 
 (a) 1000 bytes (b) 1008 bytes
 
@@ -1891,13 +1527,12 @@ computer. A bit has a single binary value, either 0 or 1.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  See the explanation of above question.
-
+**Ans: D.** 1024 bytes
 </details>
 
-**Q69. (U.P. P.C.S. (Mains) 2017)** In Binary system, one kilobyte (1 KB) is equal to
+**Q-ST69. UPPCS (Mains) 2017**
+
+In Binary system, one kilobyte (1 KB) is equal to
 
 (a) 1024 byte (b) 1024 megabyte
 
@@ -1906,13 +1541,14 @@ computer. A bit has a single binary value, either 0 or 1.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches 1024 byte (b) 1024 megabyte.
 
+**Ans: A.** 1024 byte (b) 1024 megabyte
 </details>
 
-**Q70. (U.P. R.O./A.R.O. (Pre) 2021)** Which of the following relation is not correct?
+**Q-ST70. UP RO/ARO (Pre) 2021**
+
+Which of the following relation is not correct?
 
 (a) 1 Byte = 8 Bits
 
@@ -1925,13 +1561,14 @@ computer. A bit has a single binary value, either 0 or 1.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches 1 Gigabyte = 1024 Kilobytes.
 
+**Ans: C.** 1 Gigabyte = 1024 Kilobytes
 </details>
 
-**Q71. (U.P. R.O./A.R.O. (Pre) (Re. Exam) 2023)** A MAC (Media Access Control) address is ________
+**Q-ST71. UP RO/ARO (Pre) (Re. Exam) 2023**
+
+A MAC (Media Access Control) address is ________
 
 bits long.
 
@@ -1942,49 +1579,14 @@ bits long.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  A MAC (Media Access Control) address is a unique identifier
+**Logic:** A MAC (Media Access Control) address is a unique identifier assigned to every device capable of connecting to a network, specifically at the data link layer (Layer 2) of the OSI model.
 
-assigned to every device capable of connecting to a network,
-
-specifically at the data link layer (Layer 2) of the OSI model.
-
-This identifier is typically programmed into the device’s
-
-network interface card/controller (NIC) during manufacturing,
-
-a process referred to as ‘burning-in’ the address. A standard
-
-MAC address (which is used in Ethernet and most IEEE 802
-
-networks) is 48 bits in length and is typically represented as
-
-six groups of two hexadecimal digits separated by colons or
-
-hyphens (e.g., 00:1A:2B:3C:4D:5E). The MAC address
-
-serves as the physical address for the device, enabling its
-
-identification on the local network (LAN). Unlike IP
-
-addresses, in most cases, the MAC address is immutable and
-
-cannot be changed; however, certain devices, such as network
-
-cards, allow for the specification of a new MAC address
-
-through software configuration, known as a Locally
-
-Administered Address (LAA). Even if an LAA is used, the
-
-original MAC address remains present, allowing the
-
-configuration to be reverted at any time. .
-
+**Ans: B.** 48
 </details>
 
-**Q72. (Uttarakhand P.C.S. (Pre) 2002 / U.P.P.C.S. (Pre) 1999)** Computer hardware, which can store a very large
+**Q-ST72. Uttarakhand P.C.S. (Pre) 2002 / UPPCS (Pre) 1999**
+
+Computer hardware, which can store a very large
 
 quantity of data, is called :
 
@@ -1995,21 +1597,14 @@ quantity of data, is called :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  Magnetic tape and magnetic disk both are capable of storing
+**Logic:** Magnetic tape and magnetic disk both are capable of storing a very large quantity of data.
 
-a very large quantity of data. However, in comparison to
-
-magnetic tape, a magnetic disk is able to store more data.
-
-Before the invention of hard disk, magnetic tapes were
-
-widely used.
-
+**Ans: C.** Both (a) and (b) (d) None of the above
 </details>
 
-**Q73. (U.P. Lower Sub. (Mains) 2013)** Index hole is related to –
+**Q-ST73. UP Lower Sub (Mains) 2013**
+
+Index hole is related to –
 
 (a) Hard Disk (b) Floppy Disk
 
@@ -2018,15 +1613,14 @@ widely used.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  A small index hole in the floppy disk is used for referencing
+**Logic:** A small index hole in the floppy disk is used for referencing the beginning point of the stored data.
 
-the beginning point of the stored data.
-
+**Ans: B.** Floppy Disk
 </details>
 
-**Q74. (U.P. Lower Sub. (Mains) 2015)** IRQ 6 is commonly assigned to :
+**Q-ST74. UP Lower Sub (Mains) 2015**
+
+IRQ 6 is commonly assigned to :
 
 (a) Sound Card
 
@@ -2039,15 +1633,14 @@ the beginning point of the stored data.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  By default, IRQ 6 is assigned to the Floppy Drive Controller
+**Logic:** By default, IRQ 6 is assigned to the Floppy Drive Controller which is a standard function integrated on to most motherboards.
 
-which is a standard function integrated on to most motherboards.
-
+**Ans: C.** Floppy Drive Controller
 </details>
 
-**Q75. (U.P. Lower Sub. (Mains) 2013)** A Program that controls a computer's basic functions?
+**Q-ST75. UP Lower Sub (Mains) 2013**
+
+A Program that controls a computer's basic functions?
 
 (a) Operating System
 
@@ -2060,23 +1653,14 @@ which is a standard function integrated on to most motherboards.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  Operating systems are essential parts of any computer system
+**Logic:** Operating systems are essential parts of any computer system and are indispensable in several modern electronic devices.
 
-and are indispensable in several modern electronic devices.
-
-Apart from doing the basic functions such as memory
-
-management, device management, process management etc.,
-
-operating systems are now having several other capabilities
-
-such as watching movies, listening audios, web browsing etc.
-
+**Ans: A.** Operating System
 </details>
 
-**Q76. (U.P.P.C.S.(Pre) 2012)** The most important part of a computer is –
+**Q-ST76. UPPCS(Pre) 2012**
+
+The most important part of a computer is –
 
 (a) C.P.U. (b) Keyboard
 
@@ -2085,17 +1669,14 @@ such as watching movies, listening audios, web browsing etc.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  Central Processing Unit (C.P.U.) is the most important
+**Logic:** Standard key matches C.P.U.
 
-part of a computer. Here computer analyzes the received
-
-information or data.
-
+**Ans: A.** C.P.U.
 </details>
 
-**Q77. (U.P. R.O./A.R.O. (Pre) 2021)** Which of the following statement is not correct?
+**Q-ST77. UP RO/ARO (Pre) 2021**
+
+Which of the following statement is not correct?
 
 (a) Email – refers to Electronic mail
 
@@ -2108,17 +1689,14 @@ information or data.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  CPU refers to 'Central Processing Unit'. It is the brain of
+**Logic:** CPU refers to 'Central Processing Unit'.
 
-the computer where most of the calculations take place.
-
-Statements of other three options are correct.
-
+**Ans: C.** CPU – refers to Control Processing Unit
 </details>
 
-**Q78. (U.P. R.O./A.R.O. (Pre) (Re. Exam) 2023)** Intel Core i9 is a type of _____.
+**Q-ST78. UP RO/ARO (Pre) (Re. Exam) 2023**
+
+Intel Core i9 is a type of _____.
 
 (a) Processor (b) Motherboard
 
@@ -2127,19 +1705,14 @@ Statements of other three options are correct.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  The Intel Core i9 is a type of processor. The Intel Core i9
+**Logic:** The Intel Core i9 is a type of processor.
 
-lineup consists of high-end CPUs/processors ranging from
-
-8 to 24 cores, designed for desktop PCs, high-performance
-
-laptops, and workstations.
-
+**Ans: A.** Processor (b) Motherboard
 </details>
 
-**Q79. (U.P. Lower Sub. (Mains) 2013)** A word document, video or MP3 is a –
+**Q-ST79. UP Lower Sub (Mains) 2013**
+
+A word document, video or MP3 is a –
 
 (a) Folder (b) Template
 
@@ -2148,23 +1721,14 @@ laptops, and workstations.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  Computer files have two parts to their names - a descriptive
+**Logic:** Computer files have two parts to their names - a descriptive name and a file extension.
 
-name and a file extension. A file extension is part of the file
-
-name and uniquely identifiesthe type of the file, also referred
-
-as format of the file. For example .doc is a file created by
-
-Microsoft Word. Similarly .mp3 is a music file that can be
-
-opened by any application which handles MP3 files.
-
+**Ans: C.** File (d) Icon
 </details>
 
-**Q80. (U.P. P.C.S. (Mains) 2016)** Which one of the following is the main electronic
+**Q-ST80. UPPCS (Mains) 2016**
+
+Which one of the following is the main electronic
 
 component of the third generation computer?
 
@@ -2175,21 +1739,14 @@ component of the third generation computer?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  Integrated circuits (ICs) are used in the third generation
+**Logic:** Integrated circuits (ICs) are used in the third generation computers.
 
-computers. This circuit was invented by Jack Kilby and Robert
-
-Noyce. The electronic circuit formed by constructing electronic
-
-components like transistor, resistor, and capacitor on a small
-
-piece of semiconducting material is called integrated circuit.
-
+**Ans: D.** Integrated circuit
 </details>
 
-**Q81. (U.P.P.C.S. (Pre) 2007)** Miniaturization of present day computers has been
+**Q-ST81. UPPCS (Pre) 2007**
+
+Miniaturization of present day computers has been
 
 possible due to the use of –
 
@@ -2200,23 +1757,14 @@ possible due to the use of –
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  Integrated circuit is a set of electronic circuits on one small
+**Logic:** Integrated circuit is a set of electronic circuits on one small plate of semiconductor material normally silicon.
 
-plate of semiconductor material normally silicon. After its
-
-invention in 1958, it is used in place of transistors in the
-
-computer and hence we can say that the miniaturization
-
-of present day computers has been possible due to these
-
-integrated circuit units.
-
+**Ans: B.** Integrated Circuit Chips
 </details>
 
-**Q82. (R.A.S./R.T.S.(Pre) 2012 / M.P.P.C.S. (Pre) 2000 / U.P.P.C.S. (Mains) 2004)** What is the material used in the manufacturing of IC
+**Q-ST82. RAS/RTS(Pre) 2012 / M.P.P.C.S. (Pre) 2000 / UPPCS (Mains) 2004**
+
+What is the material used in the manufacturing of IC
 
 chips in computers?
 
@@ -2227,19 +1775,14 @@ chips in computers?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  Silicon is the material used in the manufacturing of IC chips
+**Logic:** Silicon is the material used in the manufacturing of IC chips in computers.
 
-in computers. It is a semiconductor and in 1958 J.S. Kilby
-
-developed a complete integrated circuit in the form of a chip,
-
-which is called IC-chip.
-
+**Ans: A.** Silicon (b) Copper
 </details>
 
-**Q83. (U.P.P.S.C. (R.I.) 2014)** The IC chip used in computers is made of –
+**Q-ST83. UPPSC (R.I.) 2014**
+
+The IC chip used in computers is made of –
 
 (a) Chromium (b) Iron oxide
 
@@ -2248,13 +1791,12 @@ which is called IC-chip.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  See the explanation of above question.
-
+**Ans: D.** Silicon
 </details>
 
-**Q84. (Jharkhand P.C.S. (Pre) 2010 / Uttarakhand P.C.S. (Pre) 2010 / U.P.P.C.S. (Mains) 2006 / U.P.P.C.S. (Pre) 2004 / U.P.P.C.S. (Pre) 2002)** IC chips for computers are usually made of :
+**Q-ST84. Jharkhand P.C.S. (Pre) 2010 / Uttarakhand P.C.S. (Pre) 2010 / UPPCS (Mains) 2006 / UPPCS (Pre) 2004 / UPPCS (Pre) 2002**
+
+IC chips for computers are usually made of :
 
 (a) Leaf (b) Chromium
 
@@ -2263,15 +1805,14 @@ which is called IC-chip.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches Silicon (d) Gold.
 
-G–193 General Studies General Science
-
+**Ans: C.** Silicon (d) Gold
 </details>
 
-**Q85. (U.P. U.D.A./L.D.A. (Mains) 2010)** Which one of the following is the newest substance
+**Q-ST85. U.P. U.D.A./L.D.A. (Mains) 2010**
+
+Which one of the following is the newest substance
 
 being used in the production of computer chips ?
 
@@ -2282,17 +1823,14 @@ being used in the production of computer chips ?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  Silicon is the newest substance being used in the production
+**Logic:** Silicon is the newest substance being used in the production of computer chips, also called as integrated chips or IC chips.
 
-of computer chips, also called as integrated chips or IC chips.
-
-These chips can be used to store more data in a small space.
-
+**Ans: D.** Silicon
 </details>
 
-**Q86. (U.P. Lower Sub. (Mains) 2015)** ICs are classified on the basis of :
+**Q-ST86. UP Lower Sub (Mains) 2015**
+
+ICs are classified on the basis of :
 
 (a) Number of transistors
 
@@ -2305,25 +1843,14 @@ These chips can be used to store more data in a small space.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  ICs can be classified on the basis of their chip size as given
+**Logic:** ICs can be classified on the basis of their chip size as given below : Small Scale Integration (SSI) – 3 to 30 transistors/chips Medium Scale Integration (MSI) – 30 to 300 transistors/chips Large Scale Integration (LSI)…
 
-below :
-
-Small Scale Integration (SSI) – 3 to 30 transistors/chips
-
-Medium Scale Integration (MSI) – 30 to 300 transistors/chips
-
-Large Scale Integration (LSI) – 300 to 3,000 transistors/chip
-
-Very Large Scale Integration (VLSI) – more than 3000
-
-transistors/chip.
-
+**Ans: A.** Number of transistors
 </details>
 
-**Q87. (U.P.P.C.S. (Pre) 2002 / U.P.P.C.S. (Mains) 2007)** The device by which data are transferred by telephone
+**Q-ST87. UPPCS (Pre) 2002 / UPPCS (Mains) 2007**
+
+The device by which data are transferred by telephone
 
 with the help of binary signals is –
 
@@ -2334,25 +1861,14 @@ with the help of binary signals is –
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  Modem, short for Modulator/Demodulator, is a hardware
+**Logic:** Modem, short for Modulator/Demodulator, is a hardware device that allows a computer to send and receive information over telephone lines by converting digital signal into an analog signal and analog signal into digital…
 
-device that allows a computer to send and receive information
-
-over telephone lines by converting digital signal into an
-
-analog signal and analog signal into digital signal. Thus,
-
-modem performs modulation and demodulation and it is
-
-required for sending and receiving data between computers
-
-around the world through telephone lines.
-
+**Ans: A.** Modem (b) Analog
 </details>
 
-**Q88. (U.P. Lower Sub. (Mains) 2015)** For sending and receiving data between computers
+**Q-ST88. UP Lower Sub (Mains) 2015**
+
+For sending and receiving data between computers
 
 around the world through telephone lines, we need:
 
@@ -2363,13 +1879,12 @@ around the world through telephone lines, we need:
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  See the explanation of above question.
-
+**Ans: B.** Modem
 </details>
 
-**Q89. (U.P. Lower Sub. (Pre) 2013)** Which system or arrangement connects microcomputer
+**Q-ST89. UP Lower Sub (Pre) 2013**
+
+Which system or arrangement connects microcomputer
 
 with telephone ?
 
@@ -2380,13 +1895,12 @@ with telephone ?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  See the explanation of above question.
-
+**Ans: B.** MODEM
 </details>
 
-**Q90. (U.P. Lower Sub. (Pre) 2013 / U.P.U.D.A./L.D.A. (Pre) 2002)** Such a device which convert data into impulses
+**Q-ST90. UP Lower Sub (Pre) 2013 / U.P.U.D.A./L.D.A. (Pre) 2002**
+
+Such a device which convert data into impulses
 
 and transmitted it through terminal to computer or
 
@@ -2399,13 +1913,12 @@ computer to terminal over telephone line, it is–
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  See the explanation of above question.
-
+**Ans: D.** Modem
 </details>
 
-**Q91. (U.P.P.C.S. (Mains) 2012 / Uttarakhand Lower Sub. (Pre) 2010)** In a computer, the permanent memory is called –
+**Q-ST91. UPPCS (Mains) 2012 / Uttarakhand Lower Sub. (Pre) 2010**
+
+In a computer, the permanent memory is called –
 
 (a) RAM (b) ROM
 
@@ -2414,17 +1927,14 @@ computer to terminal over telephone line, it is–
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  ROM is considered as the permanent memory of computer.
+**Logic:** ROM is considered as the permanent memory of computer.
 
-Data or information in ROM is not destroyed or erased even
-
-after the computer is turned off.
-
+**Ans: B.** ROM
 </details>
 
-**Q92. (U.P.P.C.S. (Pre) 2024)** The content of computer memory which is non-volatile,
+**Q-ST92. UPPCS (Pre) 2024**
+
+The content of computer memory which is non-volatile,
 
 even when the power goes off is :
 
@@ -2435,19 +1945,14 @@ even when the power goes off is :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  Non-volatile computer memory retains data even when power
+**Logic:** Non-volatile computer memory retains data even when power is removed, examples include ROM (Read-Only Memory), flash memory (like in SSDs and USB drives), and hard disk drives.
 
-is removed, examples include ROM (Read-Only Memory),
-
-flash memory (like in SSDs and USB drives), and hard disk
-
-drives.
-
+**Ans: C.** ROM (d) None of the above
 </details>
 
-**Q93. (U.P. Lower Sub. (Mains) 2013)** A name for the short term memory of the computer
+**Q-ST93. UP Lower Sub (Mains) 2013**
+
+A name for the short term memory of the computer
 
 that is lost when the computer is turned off –
 
@@ -2458,13 +1963,12 @@ that is lost when the computer is turned off –
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  See the explanation of above question.
-
+**Ans: D.** RAM
 </details>
 
-**Q94. (U.P. Lower Sub. (Mains) 2013)** Which of the following is the fastest memory ?
+**Q-ST94. UP Lower Sub (Mains) 2013**
+
+Which of the following is the fastest memory ?
 
 (a) Hard disk (b) DVD ROMS
 
@@ -2473,13 +1977,14 @@ that is lost when the computer is turned off –
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches Cache memory (d) Static RAM.
 
+**Ans: C.** Cache memory (d) Static RAM
 </details>
 
-**Q95. (U.P.P.C.S. (Mains) 2004)** Which one of the following is not correct statement
+**Q-ST95. UPPCS (Mains) 2004**
+
+Which one of the following is not correct statement
 
 about 'Flash memory' ?
 
@@ -2500,25 +2005,14 @@ to + 85°C.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  'Flash memory' which is used in computers and other digital
+**Logic:** 'Flash memory' which is used in computers and other digital bodies or devices is a type of memory that persists even when the power is off.
 
-bodies or devices is a type of memory that persists even when
-
-the power is off. Pen drive, digital camera, and memory card
-
-are the examples of flash memory. In comparison to the hard
-
-drive, a flash memory is much energy efficient. But if we
-
-compare in the terms of per unit storage of flash drive, it is
-
-expensive than normal hard drive.
-
+**Ans: C.** It is cheaper than the normal mechanical disk drives
 </details>
 
-**Q96. (U.P.P.C.S. (Pre) 2002, 2003)** Which one of the following is scientific computer
+**Q-ST96. UPPCS (Pre) 2002, 2003**
+
+Which one of the following is scientific computer
 
 language ?
 
@@ -2529,17 +2023,14 @@ language ?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  FORTRAN is derived from 'Formula Translation'. This
+**Logic:** FORTRAN is derived from 'Formula Translation'.
 
-high level scientific computer language was developed
-
-by IBM.
-
+**Ans: C.** FORTRAN (d) PASCAL
 </details>
 
-**Q97. (U.P. Lower Sub. (Mains) 2013)** BASIC is a ......language ?
+**Q-ST97. UP Lower Sub (Mains) 2013**
+
+BASIC is a ......language ?
 
 (a) A procedural (b) An object oriented
 
@@ -2548,15 +2039,14 @@ by IBM.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  Procedural programming languages include C, FORTRAN,
+**Logic:** Procedural programming languages include C, FORTRAN, PASCAL, BASIC etc.
 
-PASCAL, BASIC etc.
-
+**Ans: A.** A procedural
 </details>
 
-**Q98. (U.P.P.C.S. (Pre) 2005)** The work of assembler is –
+**Q-ST98. UPPCS (Pre) 2005**
+
+The work of assembler is –
 
 (a) Convert basic language into machine language
 
@@ -2569,15 +2059,14 @@ PASCAL, BASIC etc.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  The main work of assembler is to convert assembly language
+**Logic:** The main work of assembler is to convert assembly language into machine language.
 
-into machine language.
-
+**Ans: C.** Convert assembly language into machine language
 </details>
 
-**Q99. (U.P. U.D.A./L.D.A. (Spl.) (Pre) 2010)** Which infotech terminology used to find out the User’s
+**Q-ST99. U.P. U.D.A./L.D.A. (Spl.) (Pre) 2010**
+
+Which infotech terminology used to find out the User’s
 
 E-mail address ?
 
@@ -2588,13 +2077,14 @@ E-mail address ?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  'Finger' protocol is used to find out the user's E-mail address.
+**Logic:** 'Finger' protocol is used to find out the user's E-mail address.
 
+**Ans: C.** Finger (d) Archie
 </details>
 
-**Q100. (U.P.P.C.S. (GIC) 2010)** Which one of the following expresses error in computer
+**Q-ST100. UPPCS (GIC) 2010**
+
+Which one of the following expresses error in computer
 
 data –
 
@@ -2605,21 +2095,14 @@ data –
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  Asoftware bug is an error, flaw, failure or fault in a computer
+**Logic:** Asoftware bug is an error, flaw, failure or fault in a computer program or system that causes it to produce an incorrect or unexpected result or to behave in an unintended way.
 
-program or system that causes it to produce an incorrect or
-
-unexpected result or to behave in an unintended way. Most
-
-bugs arise from mistakes and errors made by people either
-
-in program's source code or its design.
-
+**Ans: C.** Bug (d) Bit
 </details>
 
-**Q101. (U.P. Lower Sub. (Mains) 2015)** The ability of an operating system to run more than
+**Q-ST101. UP Lower Sub (Mains) 2015**
+
+The ability of an operating system to run more than
 
 one application at a time is called :
 
@@ -2630,17 +2113,14 @@ one application at a time is called :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  In computing, multitasking is a concept of performing
+**Logic:** In computing, multitasking is a concept of performing multiple tasks over a certain period of time by executing them concurrently.
 
-multiple tasks over a certain period of time by executing
-
-them concurrently.
-
+**Ans: D.** Multitasking
 </details>
 
-**Q102. (U.P. Lower Sub. (Mains) 2013)** What kind of digital files can be attached to the e-mail?
+**Q-ST102. UP Lower Sub (Mains) 2013**
+
+What kind of digital files can be attached to the e-mail?
 
 (a) Music (b) Documents
 
@@ -2649,23 +2129,14 @@ them concurrently.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  Electronic mail, or e-mail, is a method of exchanging digital
+**Logic:** Electronic mail, or e-mail, is a method of exchanging digital messages between people using digital devices such as computers, tablets, and mobile phones.
 
-messages between people using digital devices such as
-
-computers, tablets, and mobile phones. An e-mail attachment
-
-is a digital file sent along with an e-mail message. The files
-
-that can be attached to the email include documents, text
-
-files, music, audio files, video files, photos etc.
-
+**Ans: D.** All of the above
 </details>
 
-**Q103. (U.P. Lower Sub. (Mains) 2015)** Which of the following types of files can be sent as an
+**Q-ST103. UP Lower Sub (Mains) 2015**
+
+Which of the following types of files can be sent as an
 
 e-mail attachment?
 
@@ -2680,13 +2151,14 @@ e-mail attachment?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches All of the above types of file.
 
+**Ans: D.** All of the above types of file
 </details>
 
-**Q104. (U.P. Lower Sub. (Mains) 2015)** ICT stands for :
+**Q-ST104. UP Lower Sub (Mains) 2015**
+
+ICT stands for :
 
 (a) Information and Computer Technology
 
@@ -2699,21 +2171,14 @@ e-mail attachment?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  ICT stands for Information and Communications Technology.
+**Logic:** ICT stands for Information and Communications Technology.
 
-ICT refers to technologies that provide access to information
-
-through telecommunications. This includes the internet,
-
-wireless networks, cellphones and other communication
-
-mediums.
-
+**Ans: B.** Information & Communications Technology
 </details>
 
-**Q105. (U.P.P.C.S.(Pre) 2012)** The full form of SIM is :
+**Q-ST105. UPPCS(Pre) 2012**
+
+The full form of SIM is :
 
 (a) Subscriber Identity Module
 
@@ -2726,32 +2191,18 @@ mediums.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  The full form of SIM is Subscriber Identity Module. It is
+**Logic:** The full form of SIM is Subscriber Identity Module.
 
-a small card that contains a mobile network subscriber’s
-
-account information. This allows the phone using the card to
-
-attach to a mobile network. About half the size of a typical
-
-stamp, the SIM card is most commonly associated with
-
-GSM (Global System for Mobile Communication) and
-
-UMTS (Universal Mobile Telecommunication System)
-
-handsets.
-
+**Ans: A.** Subscriber Identity Module
 </details>
-
 
 ---
 
 ## Complete PYQ Bank — UKPCS
 
-**Q1. (Uttarakhand U.D.A./L.D.A. (Pre) 2007 / Uttarakhand P.C.S. (Mains) 2006 / Uttarakhand P.C.S. (Mains) 2002)** Who is considered to be the ‘Father of Computers’?
+**Q-ST1. Uttarakhand U.D.A./L.D.A. (Pre) 2007 / Uttarakhand P.C.S. (Mains) 2006 / Uttarakhand P.C.S. (Mains) 2002**
+
+Who is considered to be the ‘Father of Computers’?
 
 (a) Bill Gates (b) Charles Babbage
 
@@ -2760,13 +2211,12 @@ handsets.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  See the explanation of above question.
-
+**Ans: B.** Charles Babbage
 </details>
 
-**Q2. (Uttarakhand P.C.S. (Mains) 2002)** The digital computer was developed in :
+**Q-ST2. Uttarakhand P.C.S. (Mains) 2002**
+
+The digital computer was developed in :
 
 (a) Russia (b) Britain
 
@@ -2775,13 +2225,12 @@ handsets.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  See the explanation of above question.
-
+**Ans: B.** Britain
 </details>
 
-**Q3. (Uttarakhand P.C.S. (Pre) 2006)** The first digital computer built with IC chips is
+**Q-ST3. Uttarakhand P.C.S. (Pre) 2006**
+
+The first digital computer built with IC chips is
 
 known as –
 
@@ -2792,17 +2241,14 @@ known as –
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  The first digital computer built with IC chips is known as
+**Logic:** The first digital computer built with IC chips is known as IBM system/360.
 
-IBM system/360. It was a mainframe computer which was
-
-developed in 1964.
-
+**Ans: D.** IBM System/360
 </details>
 
-**Q4. (Uttarakhand P.C.S. (Mains) 2002)** The main board of the computer is known as :
+**Q-ST4. Uttarakhand P.C.S. (Mains) 2002**
+
+The main board of the computer is known as :
 
 (a) Father board (b) Motherboard
 
@@ -2811,25 +2257,14 @@ developed in 1964.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  A motherboard is a physical arrangement in a computer
+**Logic:** A motherboard is a physical arrangement in a computer that contains the computer's basic circuitry components.
 
-that contains the computer's basic circuitry components.
-
-The chipset is the main part of the motherboard. It manages
-
-the data flow between processor, memory, and peripherals.
-
-The chipset plays a crucial role in determining system
-
-performance.
-
-General Science General Studies G–168
-
+**Ans: B.** Motherboard
 </details>
 
-**Q5. (Uttarakhand P.C.S. (Pre) 2006)** A pen drive is :
+**Q-ST5. Uttarakhand P.C.S. (Pre) 2006**
+
+A pen drive is :
 
 (a) A fixed secondary storage unit
 
@@ -2842,19 +2277,14 @@ General Science General Studies G–168
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  A pen drive or a USB flash drive is a portable data storage
+**Logic:** A pen drive or a USB flash drive is a portable data storage device.
 
-device. Pen drives have replaced the floppy drives of the
-
-past and have become the most popular data-storage devices
-
-among consumers. It is smaller and handy.
-
+**Ans: C.** A removable secondary storage unit
 </details>
 
-**Q6. (Uttarakhand U.D.A./L.D.A. (Pre) 2007)** Mouse is :
+**Q-ST6. Uttarakhand U.D.A./L.D.A. (Pre) 2007**
+
+Mouse is :
 
 (a) Memory (b) C.P.U.
 
@@ -2863,19 +2293,14 @@ among consumers. It is smaller and handy.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  A mouse is a hardware input device that was invented by
+**Logic:** A mouse is a hardware input device that was invented by Douglas Engelbart in 1963.
 
-Douglas Engelbart in 1963. The mouse allows an individual
-
-to control a pointer in a graphical user interface (GUI) and
-
-manipulate on-screen objects such as icons, files, and folders.
-
+**Ans: C.** Input Device
 </details>
 
-**Q7. (Uttarakhand P.C.S. (Mains) 2006)** Which of the following is not an output device ?
+**Q-ST7. Uttarakhand P.C.S. (Mains) 2006**
+
+Which of the following is not an output device ?
 
 (a) Monitor (b) Printer
 
@@ -2884,13 +2309,14 @@ manipulate on-screen objects such as icons, files, and folders.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches Mouse (d) Plotters.
 
+**Ans: C.** Mouse (d) Plotters
 </details>
 
-**Q8. (Uttarakhand P.C.S. (Pre) 2010)** Which is the most common ‘input device’ used today?
+**Q-ST8. Uttarakhand P.C.S. (Pre) 2010**
+
+Which is the most common ‘input device’ used today?
 
 (a) Motherboard (b) Central Processing Unit
 
@@ -2899,21 +2325,14 @@ manipulate on-screen objects such as icons, files, and folders.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  The most common input device used in the computers are the
+**Logic:** The most common input device used in the computers are the keyboard and the mouse.
 
-keyboard and the mouse. The keyboard allows the entry of
-
-textual information while the mouse allows the selection of
-
-a point on the screen by moving a screen cursor to the point
-
-and pressing a mouse button.
-
+**Ans: C.** Keyboard (d) Semiconductor
 </details>
 
-**Q9. (Uttarakhand P.C.S. (Pre) 2006)** The most common input device used today is :
+**Q-ST9. Uttarakhand P.C.S. (Pre) 2006**
+
+The most common input device used today is :
 
 (a) Trackball (b) Scanner
 
@@ -2922,15 +2341,14 @@ and pressing a mouse button.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches Mouse (d) None of the above.
 
-G–169 General Studies General Science
-
+**Ans: C.** Mouse (d) None of the above
 </details>
 
-**Q10. (Uttarakhand P.C.S. (Pre) 2010)** A network of networks is simply called –
+**Q-ST10. Uttarakhand P.C.S. (Pre) 2010**
+
+A network of networks is simply called –
 
 (a) Extranet (b) Intranet
 
@@ -2939,21 +2357,14 @@ G–169 General Studies General Science
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  Generally, Internet is called 'a network of networks' because
+**Logic:** Generally, Internet is called 'a network of networks' because it is a global system of the network of inter-connected computers.
 
-it is a global system of the network of inter-connected
-
-computers. Here millions of private, public, educational,
-
-commercial and government networks are connected with
-
-Internet Protocol Suite, TCP/IP.
-
+**Ans: D.** Internet
 </details>
 
-**Q11. (Uttarakhand P.C.S. (Pre) 2010)** The name of Indian Supercomputer is –
+**Q-ST11. Uttarakhand P.C.S. (Pre) 2010**
+
+The name of Indian Supercomputer is –
 
 (a) Shubham (b) Param
 
@@ -2962,13 +2373,12 @@ Internet Protocol Suite, TCP/IP.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  See the explanation of above question.
-
+**Ans: B.** Param
 </details>
 
-**Q12. (Uttarakhand U.D.A./L.D.A. (Pre) 2003)** W.L.L. Means –
+**Q-ST12. Uttarakhand U.D.A./L.D.A. (Pre) 2003**
+
+W.L.L. Means –
 
 (a) Without lever line
 
@@ -2981,17 +2391,14 @@ Internet Protocol Suite, TCP/IP.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  W.L.L. means wireless in local loop. It is a communication
+**Logic:** Standard key matches Wireless in local loop.
 
-system by which B.S.N.L. provides preferable communication
-
-services to rural areas in India.
-
+**Ans: C.** Wireless in local loop
 </details>
 
-**Q13. (Uttarakhand P.C.S. (Mains) 2007)** Which type of computers are the most widely used ?
+**Q-ST13. Uttarakhand P.C.S. (Mains) 2007**
+
+Which type of computers are the most widely used ?
 
 (a) Supercomputers
 
@@ -3004,17 +2411,14 @@ services to rural areas in India.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  Nowadays the computers which are mostly used are microcomputers such as desktop computer, game consoles, laptop,
+**Logic:** Nowadays the computers which are mostly used are microcomputers such as desktop computer, game consoles, laptop, notebook, tablet computer, smartphones, palmtop (PDAs) etc.
 
-notebook, tablet computer, smartphones, palmtop (PDAs)
-
-etc. These are types of microcomputers.
-
+**Ans: D.** Microcomputers
 </details>
 
-**Q14. (Uttarakhand P.C.S. (Mains) 2002)** Which printer is usually used for desktop printing ?
+**Q-ST14. Uttarakhand P.C.S. (Mains) 2002**
+
+Which printer is usually used for desktop printing ?
 
 (a) Daisy wheel printer (b) Dot matrix printer
 
@@ -3029,21 +2433,14 @@ General Science General Studies G–176
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  Desktop publishing or DTP is a modern technique of
+**Logic:** Desktop publishing or DTP is a modern technique of publishing.
 
-publishing. It is a wider range of low cost, easy to use
-
-software that doesn't require traditional design and pre-press
-
-skill to understand and use. Laser printer is usually used for
-
-desktop printing.
-
+**Ans: C.** Laser printer
 </details>
 
-**Q15. (Uttarakhand P.C.S. (Pre) 2005)** WWW on the Internet stands for –
+**Q-ST15. Uttarakhand P.C.S. (Pre) 2005**
+
+WWW on the Internet stands for –
 
 (a) Words, Words, Words (b) Wide World Words
 
@@ -3052,27 +2449,14 @@ desktop printing.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  WWW or W3 stands for World Wide Web. It is an information
+**Logic:** WWW or W3 stands for World Wide Web.
 
-system that enables content sharing over the internet through
-
-user-friendly ways. It allows documents and other web
-
-resources to be accessed over the internet according to
-
-specific rules of Hypertext Transfer Protocol (HTTP). The
-
-inventor of this system was English computer scientist Tim
-
-Berners-Lee. It was invented by Lee at CERN in 1989 and
-
-opened to public in 1991.
-
+**Ans: C.** World Wide Web
 </details>
 
-**Q16. (Uttarakhand P.C.S. (Pre) 2005)** Computerization of a system needs –
+**Q-ST16. Uttarakhand P.C.S. (Pre) 2005**
+
+Computerization of a system needs –
 
 (1) a will to do it
 
@@ -3093,17 +2477,14 @@ Code :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  In computerization of a system, there is a need of will power
+**Logic:** In computerization of a system, there is a need of will power to do it along with financial resources and ultra-modern structure.
 
-to do it along with financial resources and ultra-modern
-
-structure. There is also need to train manpower.
-
+**Ans: D.** All the four
 </details>
 
-**Q17. (Uttarakhand P.C.S. (Pre) 2016)** The set of protocols, which defines all transmission
+**Q-ST17. Uttarakhand P.C.S. (Pre) 2016**
+
+The set of protocols, which defines all transmission
 
 exchanges across the internet is called
 
@@ -3114,25 +2495,14 @@ exchanges across the internet is called
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  Transmission Control Protocol (TCP) is a routing protocol
+**Logic:** Transmission Control Protocol (TCP) is a routing protocol while Internet Protocol (IP) is a routed protocol.
 
-while Internet Protocol (IP) is a routed protocol. Information
-
-on the internet is in the form of packets. The task of TCP is
-
-to create such packets, put them into systematic work and
-
-ensure that no packet is missing, whenever a packet is sent it
-
-is given an IP address. Thus IP is a process that places every
-
-information to its right place.
-
+**Ans: B.** TCP/IP
 </details>
 
-**Q18. (Uttarakhand P.C.S. (Pre) 2021)** IP addresses are used on which layer of OSI reference
+**Q-ST18. Uttarakhand P.C.S. (Pre) 2021**
+
+IP addresses are used on which layer of OSI reference
 
 model?
 
@@ -3143,31 +2513,14 @@ model?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  The Internet Layer of the TCP/IP model aligns with the Layer
+**Logic:** The Internet Layer of the TCP/IP model aligns with the Layer 3 (Network) layer of the OSI reference model.
 
-3 (Network) layer of the OSI reference model. This is where
-
-IP addresses and routing live. When data is transmitted from
-
-a node on one LAN to a node on a different LAN, the Internet
-
-Layer is used. Hence, IP Address works at the network layer
-
-of OSI model (actually the IP layer of TCP/IP model). This is
-
-a logical address (and not the embedded hardware address)
-
-which is assigned by the Network administrator or Internet
-
-service provider.
-
-General Science General Studies G–178
-
+**Ans: A.** Network Layer
 </details>
 
-**Q19. (Uttarakhand P.C.S. (Pre) 2012)** Sending an identical e-mail message repeatedly to a
+**Q-ST19. Uttarakhand P.C.S. (Pre) 2012**
+
+Sending an identical e-mail message repeatedly to a
 
 particular address by any abuser is called :
 
@@ -3178,19 +2531,14 @@ particular address by any abuser is called :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  E-mail bombing is a form of net abuse consisting of sending
+**Logic:** E-mail bombing is a form of net abuse consisting of sending large volumes of email to an address in an attempt to overflow the mailbox.
 
-large volumes of email to an address in an attempt to overflow
-
-the mailbox.
-
-G–179 General Studies General Science
-
+**Ans: C.** E-mail Bombing
 </details>
 
-**Q20. (Uttarakhand P.C.S. (Pre) 2005)** Yahoo, Google, and MSN are –
+**Q-ST20. Uttarakhand P.C.S. (Pre) 2005**
+
+Yahoo, Google, and MSN are –
 
 (a) Internet sites
 
@@ -3203,13 +2551,14 @@ G–179 General Studies General Science
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  Yahoo, Google and MSN are internet websites.
+**Logic:** Yahoo, Google and MSN are internet websites.
 
+**Ans: A.** Internet sites
 </details>
 
-**Q21. (Uttarakhand Lower Sub. (Pre) 2010)** A computer virus is a –
+**Q-ST21. Uttarakhand Lower Sub. (Pre) 2010**
+
+A computer virus is a –
 
 (a) Destructive program (b) Utility program
 
@@ -3218,13 +2567,14 @@ G–179 General Studies General Science
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches Destructive program (b) Utility program.
 
+**Ans: A.** Destructive program (b) Utility program
 </details>
 
-**Q22. (Uttarakhand P.C.S. (Pre) 2012)** A program that has the capability to infect other
+**Q-ST22. Uttarakhand P.C.S. (Pre) 2012**
+
+A program that has the capability to infect other
 
 program and make copies of itself and spread into
 
@@ -3237,71 +2587,40 @@ other programs is called :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  Viruses, Worms, Trojans and Bots are all part of a class of
+**Logic:** Viruses, Worms, Trojans and Bots are all part of a class of software called malware.
 
-software called malware.
-
-A program that has the capability to infect other programs
-
-and make copies of it and spread into other programs is
-
-called a virus.
-
+**Ans: B.** Virus
 </details>
 
-**Q23. ((a) 1971 (b) 1981 / (c) 1991 (d) 2001 / Uttarakhand Lower Sub. (Pre) 2010)** MS-DOS was first released in –
+**Q-ST23. (a) 1971 (b) 1981 / (c) 1991 (d) 2001 / Uttarakhand Lower Sub. (Pre) 2010**
+
+MS-DOS was first released in –
 
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  Microsoft Disk Operating System MS-DOS is a nongraphical command–line operating system derived from
+**Logic:** Microsoft Disk Operating System MS-DOS is a nongraphical command–line operating system derived from 86-DOS that was created for IBM compatible computers.
 
-86-DOS that was created for IBM compatible computers.
-
-MS-DOS originally written by Tim Paterson and introduced
-
-by Microsoft in August, 1981. MS-DOS went through eight
-
-versions, until development ceased in 2000; MS-DOS
-
-6.22 of 1994 was the final standalone version, with versions
-
-7 and 8 serving mostly in the background for loading
-
-Windows 9x.
-
+**Ans: B.** 1981 /
 </details>
 
-**Q24. ((a) 1985 (b) 2000 / (c) 1995 (d) 1990 / Uttarakhand P.C.S. (Pre) 2005)** 'Windows 3' a popular windowing environment was
+**Q-ST24. (a) 1985 (b) 2000 / (c) 1995 (d) 1990 / Uttarakhand P.C.S. (Pre) 2005**
+
+'Windows 3' a popular windowing environment was
 
 released by Microsoft in the year –
 
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  Microsoft Windows is an operating system and a series
+**Logic:** Microsoft Windows is an operating system and a series of graphical user interface developed by Microsoft.
 
-of graphical user interface developed by Microsoft.
-
-Windows 3 was released in 1990 by Microsoft. The most
-
-recent Windows released by Microsoft is 'Windows 11'
-
-released in October, 2021. Its latest updates 'Windows 11
-
-version 26H1' and 'Windows 11 version 25H2' were released
-
-March, 2026.
-
+**Ans: D.** 1990 / Uttarakhand P.C.S.
 </details>
 
-**Q25. (Uttarakhand P.C.S. (Mains) 2002)** Windows Software has been developed by :
+**Q-ST25. Uttarakhand P.C.S. (Mains) 2002**
+
+Windows Software has been developed by :
 
 (a) I.B.M. (b) Apple Corporation
 
@@ -3310,13 +2629,12 @@ March, 2026.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  See the explanation of above question.
-
+**Ans: D.** None of the above
 </details>
 
-**Q26. (Uttarakhand P.C.S. (Pre) 2016)** Which of the following is an Operating System?
+**Q-ST26. Uttarakhand P.C.S. (Pre) 2016**
+
+Which of the following is an Operating System?
 
 (a) UNIX (b) JAVA
 
@@ -3325,15 +2643,14 @@ March, 2026.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  UNIX is an operating system. The UNIX operating system
+**Logic:** UNIX is an operating system.
 
-is widely used in both servers and workplace.
-
+**Ans: A.** UNIX (b) JAVA
 </details>
 
-**Q27. (Uttarakhand U.D.A./L.D.A. (Pre) 2003)** Types of computer memory is/are –
+**Q-ST27. Uttarakhand U.D.A./L.D.A. (Pre) 2003**
+
+Types of computer memory is/are –
 
 (1) Semiconductor (2) Magnetic
 
@@ -3348,21 +2665,14 @@ Select the correct answer from the codes given below-
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  The computer memory is of two types, semiconductor or
+**Logic:** The computer memory is of two types, semiconductor or primary memory and secondary memory which is either magnetic or optical.
 
-primary memory and secondary memory which is either
-
-magnetic or optical. Some examples of secondary memory
-
-are Hard Disk, Magnetic Tape, Floppy Disk, Pen Drive,
-
-D.V.D. and Compact disc.
-
+**Ans: C.** 1,2 and 4 (d) All the four
 </details>
 
-**Q28. (Uttarakhand P.C.S. (Mains) 2006)** Binary numbers are –
+**Q-ST28. Uttarakhand P.C.S. (Mains) 2006**
+
+Binary numbers are –
 
 (a) 0 and 1 (b) 0 and 10
 
@@ -3371,23 +2681,14 @@ D.V.D. and Compact disc.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  Binary describes a numbering scheme in which there are only
+**Logic:** Binary describes a numbering scheme in which there are only two possible values for each digit, 0 and 1.
 
-two possible values for each digit, 0 and 1. The term also
-
-refers to any digital encoding/decoding system in which there
-
-are exactly two possible states.In digital data memory, for
-
-storage, processing, and communication, the 0 and 1 values
-
-are often called as "low" and "high" respectively.
-
+**Ans: A.** 0 and 1 (b) 0 and 10
 </details>
 
-**Q29. (Uttarakhand Lower Sub. (Pre) 2010)** The binary addition 1 + 1 will result in –
+**Q-ST29. Uttarakhand Lower Sub. (Pre) 2010**
+
+The binary addition 1 + 1 will result in –
 
 (a) 0 (b) 0 with carry 1
 
@@ -3396,15 +2697,14 @@ are often called as "low" and "high" respectively.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  The binary addition of 1+ 1 is 0 and carry 1. Similarly the
+**Logic:** The binary addition of 1+ 1 is 0 and carry 1.
 
-Binary addition of 0+0 results 0.
-
+**Ans: B.** 0 with carry 1
 </details>
 
-**Q30. (Uttarakhand P.C.S. (Mains) 2002)** A collection of 8 bit is called :
+**Q-ST30. Uttarakhand P.C.S. (Mains) 2002**
+
+A collection of 8 bit is called :
 
 (a) Nibble (b) Byte
 
@@ -3413,13 +2713,12 @@ Binary addition of 0+0 results 0.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  See the explanation of above question.
-
+**Ans: B.** Byte
 </details>
 
-**Q31. (Uttarakhand P.C.S. (Pre) 2006)** The term MB is used for –
+**Q-ST31. Uttarakhand P.C.S. (Pre) 2006**
+
+The term MB is used for –
 
 (a) Magnetic Bits
 
@@ -3432,25 +2731,14 @@ Binary addition of 0+0 results 0.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  The group of 8 bits is called one byte and at least two bits
+**Logic:** The group of 8 bits is called one byte and at least two bits are combined together to form a binary word.
 
-are combined together to form a binary word. MB is used as
-
-an abbreviation for megabyte.
-
-1 bit = 0 or 1
-
-1 byte = 8 bits
-
-1 kilobyte = 1024 bytes
-
-1 megabyte = 1024 kilobytes
-
+**Ans: B.** Mega Bytes
 </details>
 
-**Q32. (Uttarakhand P.C.S. (Pre) 2005)** With relation to computers ALU means :
+**Q-ST32. Uttarakhand P.C.S. (Pre) 2005**
+
+With relation to computers ALU means :
 
 (a) Algebraic Logic Unit
 
@@ -3463,13 +2751,14 @@ an abbreviation for megabyte.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches Arithmetic Logic Unit.
 
+**Ans: B.** Arithmetic Logic Unit
 </details>
 
-**Q33. (Uttarakhand Lower Sub. (Pre) 2010)** Which of the following is not a hardware ?
+**Q-ST33. Uttarakhand Lower Sub. (Pre) 2010**
+
+Which of the following is not a hardware ?
 
 (a) Magnetic tape (b) Printer
 
@@ -3478,19 +2767,14 @@ an abbreviation for megabyte.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  Among the given options, assembler is not a hardware. It is
+**Logic:** Among the given options, assembler is not a hardware.
 
-a software program that takes basic computer instructions
-
-and converts them into a pattern of bits that the computer’s
-
-processor can use to perform its basic operations.
-
+**Ans: C.** Assembler (d) CRT
 </details>
 
-**Q34. (Uttarakhand Lower Sub. (Pre) 2010)** Which of the following is a software –
+**Q-ST34. Uttarakhand Lower Sub. (Pre) 2010**
+
+Which of the following is a software –
 
 (a) Transistor (b) Integrated circuit
 
@@ -3499,17 +2783,14 @@ processor can use to perform its basic operations.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  Compiler is a part of computer system software. A compiler
+**Logic:** Compiler is a part of computer system software.
 
-converts programming language to machine level language
-
-which is understood by the computer.
-
+**Ans: C.** Compiler (d) Device for inputting data
 </details>
 
-**Q35. (Uttarakhand P.C.S. (Pre) 2016)** Which of the following is not offered as an independent
+**Q-ST35. Uttarakhand P.C.S. (Pre) 2016**
+
+Which of the following is not offered as an independent
 
 service layer in cloud computing?
 
@@ -3524,21 +2805,14 @@ service layer in cloud computing?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  In the given options hardware as a service is not offered as
+**Logic:** In the given options hardware as a service is not offered as an independent service layer in cloud computing.
 
-an independent service layer in cloud computing. While
-
-other options c, b and d are offered as an independent service
-
-layer in cloud computing and know as Saas, Paas and Iaas
-
-respectively.
-
+**Ans: A.** Hardware as a service
 </details>
 
-**Q36. (Uttarakhand P.C.S. (Mains) 2002)** The brain of the computer is known as :
+**Q-ST36. Uttarakhand P.C.S. (Mains) 2002**
+
+The brain of the computer is known as :
 
 (a) Memory (b) Keyboard
 
@@ -3547,19 +2821,14 @@ respectively.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  CPU is the abbreviation for 'Central Processing Unit'.
+**Logic:** CPU is the abbreviation for 'Central Processing Unit'.
 
-Sometimes referred to simply as the central processor, but
-
-more commonly called processor. The CPU is the brain of
-
-the computer where most of the calculations take place.
-
+**Ans: D.** C.P.U
 </details>
 
-**Q37. (Uttarakhand Lower Sub. (Pre) 2010)** CPU stands for –
+**Q-ST37. Uttarakhand Lower Sub. (Pre) 2010**
+
+CPU stands for –
 
 (a) Control Processing Unit
 
@@ -3572,15 +2841,14 @@ the computer where most of the calculations take place.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches Central Processing Unit.
 
-G–190 General Studies General Science
-
+**Ans: B.** Central Processing Unit
 </details>
 
-**Q38. (Uttarakhand P.C.S. (Pre) 2006)** ‘CPU’ stands for –
+**Q-ST38. Uttarakhand P.C.S. (Pre) 2006**
+
+‘CPU’ stands for –
 
 (a) Central Place Unit
 
@@ -3593,13 +2861,14 @@ G–190 General Studies General Science
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches Central Processing Unit.
 
+**Ans: C.** Central Processing Unit
 </details>
 
-**Q39. (Uttarakhand P.C.S. (Pre) 2021)** Which of the following is function of Control Unit in
+**Q-ST39. Uttarakhand P.C.S. (Pre) 2021**
+
+Which of the following is function of Control Unit in
 
 CPU?
 
@@ -3614,29 +2883,14 @@ CPU?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  The Control Unit (CU) is an internal component of the
+**Logic:** The Control Unit (CU) is an internal component of the microprocessor architecture that generates the necessary control signals to execute the program instructions and to control the various operations performed by the p…
 
-microprocessor architecture that generates the necessary
-
-control signals to execute the program instructions and to
-
-control the various operations performed by the processor.
-
-The CPU (processor) contains three functional units. These
-
-functional units are Control Unit (CU), Arithmetic Logic
-
-Unit (ALU) and the Memory Unit (MU). It is the CU that
-
-decodes the program instructions and control and directs all
-
-the operations of the computer system.
-
+**Ans: A.** Decode Program Instruction
 </details>
 
-**Q40. (Uttarakhand P.C.S. (Mains) 2002)** Which of the following software is used for word
+**Q-ST40. Uttarakhand P.C.S. (Mains) 2002**
+
+Which of the following software is used for word
 
 processing ?
 
@@ -3647,23 +2901,14 @@ processing ?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  A word processor is a application software that is mainly used
+**Logic:** A word processor is a application software that is mainly used to produce, edit and format text-based documents.
 
-to produce, edit and format text-based documents. Microsoft
-
-Word is a popular word processing software of Microsoft
-
-office. Wordstar is also a word processor developed by Micro
-
-Pro International while Page Maker is a word processing
-
-software of Adobe.
-
+**Ans: D.** All of the above
 </details>
 
-**Q41. (Uttarakhand P.C.S. (Pre) 2006)** MS Word is used for –
+**Q-ST41. Uttarakhand P.C.S. (Pre) 2006**
+
+MS Word is used for –
 
 (a) Processing picture data
 
@@ -3676,15 +2921,14 @@ software of Adobe.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  MS-Word is a word processing software which is used to
+**Logic:** MS-Word is a word processing software which is used to create and publish any printable text material.
 
-create and publish any printable text material.
-
+**Ans: B.** Processing text data
 </details>
 
-**Q42. (Uttarakhand P.C.S. (Pre) 2025)** Which application software is used for sending and
+**Q-ST42. Uttarakhand P.C.S. (Pre) 2025**
+
+Which application software is used for sending and
 
 receiving e-mails ?
 
@@ -3695,39 +2939,14 @@ receiving e-mails ?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  Among the given options, Microsoft Outlook is used to
+**Logic:** Among the given options, Microsoft Outlook is used to send and receive emails.
 
-send and receive emails. It is application software that helps
-
-manage email, calendar, contacts, and other productivity
-
-tools in one place.
-
-An email client is an application software that lets you
-
-send, receive, and organize email without opening a web
-
-browser. It connects to your email provider's servers, downloads messages to your device, and gives you a dedicated
-
-interface for managing your inbox. Application software
-
-used for sending and receiving emails, commonly known
-
-as email clients, includes popular options like Microsoft
-
-Outlook, Mozilla Thunderbird, Apple Mail, and eM Client.
-
-These applications allow users to manage multiple email
-
-accounts, organize messages, and handle calendars directly
-
-on their computer or mobile device.
-
+**Ans: B.** Microsoft Outlook
 </details>
 
-**Q43. (Uttarakhand P.C.S. (Pre) 2007)** The IC chips are made of –
+**Q-ST43. Uttarakhand P.C.S. (Pre) 2007**
+
+The IC chips are made of –
 
 (a) Fiber (b) Semiconductor
 
@@ -3736,13 +2955,12 @@ on their computer or mobile device.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  See the explanation of above question.
-
+**Ans: B.** Semiconductor
 </details>
 
-**Q44. (Uttarakhand P.C.S. (Pre) 2006)** In the integrated circuit the chip of semiconductor used
+**Q-ST44. Uttarakhand P.C.S. (Pre) 2006**
+
+In the integrated circuit the chip of semiconductor used
 
 is made up of :
 
@@ -3753,13 +2971,14 @@ is made up of :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches Silicon (d) Zircon.
 
+**Ans: C.** Silicon (d) Zircon
 </details>
 
-**Q45. (Uttarakhand Lower Sub. (Pre) 2010 / Uttrakhand U.D.A./L.D.A. (mains) 2006)** A modem is a hardware device that interfaces –
+**Q-ST45. Uttarakhand Lower Sub. (Pre) 2010 / Uttrakhand U.D.A./L.D.A. (mains) 2006**
+
+A modem is a hardware device that interfaces –
 
 (a) CPU and CRT
 
@@ -3772,13 +2991,14 @@ is made up of :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches Telephone lines and computer equipment.
 
+**Ans: D.** Telephone lines and computer equipment
 </details>
 
-**Q46. (Uttarakhand Lower Sub. (Pre) 2010)** A means of specifying location of data in memory is called–
+**Q-ST46. Uttarakhand Lower Sub. (Pre) 2010**
+
+A means of specifying location of data in memory is called–
 
 (a) Accumulator (b) Address
 
@@ -3787,15 +3007,14 @@ is made up of :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  A means of specifying location of data in memory is called
+**Logic:** A means of specifying location of data in memory is called address.
 
-address.
-
+**Ans: B.** Address
 </details>
 
-**Q47. (Uttarakhand P.C.S. (Mains) 2002)** CD ROM stands for :
+**Q-ST47. Uttarakhand P.C.S. (Mains) 2002**
+
+CD ROM stands for :
 
 (a) Core Disc Read Only Memory
 
@@ -3808,19 +3027,14 @@ address.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  CD-ROM (Compact Disc Read-Only Memory) is a type of
+**Logic:** CD-ROM (Compact Disc Read-Only Memory) is a type of optical disc.
 
-optical disc. Normally CD-ROMs are already mounted and
-
-cannot be erased and filled with new data. The CD-ROMs
-
-can hold up to 700 MB data.
-
+**Ans: B.** Compact Disc Read Only Memory
 </details>
 
-**Q48. (Uttarakhand P.C.S. (Pre) 2002-2003)** In computer terminology, RAM stands for –
+**Q-ST48. Uttarakhand P.C.S. (Pre) 2002-2003**
+
+In computer terminology, RAM stands for –
 
 (a) Recent and Ancient Memory
 
@@ -3833,19 +3047,14 @@ can hold up to 700 MB data.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  RAM is an acronym for random-access memory. It is
+**Logic:** RAM is an acronym for random-access memory.
 
-considered as temporary memory and works only when the
-
-computer is functioning. Once the computer is switched off,
-
-all the data which is stored in RAM are lost or erased.
-
+**Ans: B.** Random Access Memory
 </details>
 
-**Q49. (Uttarakhand P.C.S. (Pre) 2021)** Which of the following is primary memory in Computer
+**Q-ST49. Uttarakhand P.C.S. (Pre) 2021**
+
+Which of the following is primary memory in Computer
 
 System?
 
@@ -3856,13 +3065,14 @@ System?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches RAM (d) Pen Drive.
 
+**Ans: C.** RAM (d) Pen Drive
 </details>
 
-**Q50. (Uttarakhand P.C.S. (Pre) 2016)** Which of the following is an extremely fast, small
+**Q-ST50. Uttarakhand P.C.S. (Pre) 2016**
+
+Which of the following is an extremely fast, small
 
 memory between CPU and main memory?
 
@@ -3877,17 +3087,14 @@ memory between CPU and main memory?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  Cache memory is an extremely fast, small memory between
+**Logic:** Cache memory is an extremely fast, small memory between CPU and main memory.
 
-CPU and main memory. It stores data from a computer or
-
-program that is often used by the CPU.
-
+**Ans: B.** Cache memory
 </details>
 
-**Q51. (Uttarakhand P.C.S. (Mains) 2002)** ORACLE is :
+**Q-ST51. Uttarakhand P.C.S. (Mains) 2002**
+
+ORACLE is :
 
 (a) An operating system
 
@@ -3906,21 +3113,14 @@ G–197 General Studies General Science
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  Oracle is a database software, produced and marketed
+**Logic:** Oracle is a database software, produced and marketed by Oracle Corporation.
 
-by Oracle Corporation. Database management system is
-
-computer software application that interacts with the user,
-
-other applications and the database itself to capture and
-
-analyze data.
-
+**Ans: C.** Database software
 </details>
 
-**Q52. (Uttarakhand P.C.S. (Pre) 2024)** Which of the following is the 5th generation AI
+**Q-ST52. Uttarakhand P.C.S. (Pre) 2024**
+
+Which of the following is the 5th generation AI
 
 programming language?
 
@@ -3931,23 +3131,14 @@ programming language?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  Fifth-generation programming languages (5GL) are
+**Logic:** Fifth-generation programming languages (5GL) are characterized by their focus on artificial intelligence and logic programming, where problems are solved by defining constraints and rules rather than specific instructio…
 
-characterized by their focus on artificial intelligence and
-
-logic programming, where problems are solved by defining
-
-constraints and rules rather than specific instructions, with
-
-examples including Prolog, OPS5 and Mercury. Fifthgeneration languages are used mainly inArtificialIntelligence
-
-programming or AI research.
-
+**Ans: D.** Prolog
 </details>
 
-**Q53. (Uttarakhand P.C.S. (Mains) 2002)** Language that the computers can understand and
+**Q-ST53. Uttarakhand P.C.S. (Mains) 2002**
+
+Language that the computers can understand and
 
 execute is called :
 
@@ -3958,21 +3149,14 @@ execute is called :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  Machine language is the elemental language of the computer.
+**Logic:** Machine language is the elemental language of the computer.
 
-It comprises only two numbers 0 and 1. Machine language
-
-is the only language, a computer is capable of understanding.
-
-It doesn't need any translator program. It is also called
-
-machine code.
-
+**Ans: B.** Machine language
 </details>
 
-**Q54. (Uttarakhand U.D.A./L.D.A. (Pre) 2007)** On which principle digital computer works ?
+**Q-ST54. Uttarakhand U.D.A./L.D.A. (Pre) 2007**
+
+On which principle digital computer works ?
 
 (a) Calculation (b) Measurement
 
@@ -3981,21 +3165,14 @@ machine code.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  All digital computers rely on binary system of 1 and 0
+**Logic:** All digital computers rely on binary system of 1 and 0 and on the rules of logic set out in the 1850s by English mathematician George Boole.
 
-and on the rules of logic set out in the 1850s by English
-
-mathematician George Boole. Just three operations (AND,
-
-OR and NOT) can perform all logical functions known as
-
-Boolean Logic.
-
+**Ans: D.** Logical
 </details>
 
-**Q55. (Uttarakhand P.C.S. (Pre) 2010)** In the website of an organization ‘.com’ indicates :
+**Q-ST55. Uttarakhand P.C.S. (Pre) 2010**
+
+In the website of an organization ‘.com’ indicates :
 
 (a) Company (b) Command
 
@@ -4004,17 +3181,14 @@ Boolean Logic.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  The .com portion of an organization website is short for
+**Logic:** The .com portion of an organization website is short for commercial.
 
-commercial. It is a top-level domain (TLD) in the Domain
-
-name system of the internet.
-
+**Ans: D.** Commercial
 </details>
 
-**Q56. (Uttarakhand U.D.A./L.D.A. (Pre) 2007)** In computer terminology, U.S.B. stands for –
+**Q-ST56. Uttarakhand U.D.A./L.D.A. (Pre) 2007**
+
+In computer terminology, U.S.B. stands for –
 
 (a) Universal Serial Bus
 
@@ -4027,17 +3201,14 @@ name system of the internet.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  USB (Universal Serial Bus) is the most popular connection
+**Logic:** USB (Universal Serial Bus) is the most popular connection used to connect a computer to devices such as digital cameras, printers, scanners, and external hard drives.
 
-used to connect a computer to devices such as digital cameras,
-
-printers, scanners, and external hard drives.
-
+**Ans: A.** Universal Serial Bus
 </details>
 
-**Q57. (Uttarakhand P.C.S. (Mains) 2002)** ‘Password’ in computers protects –
+**Q-ST57. Uttarakhand P.C.S. (Mains) 2002**
+
+‘Password’ in computers protects –
 
 (a) Hardware wearouts
 
@@ -4050,19 +3221,14 @@ printers, scanners, and external hard drives.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  The port works as an interface between the computer and
+**Logic:** The port works as an interface between the computer and other computer or peripheral.
 
-other computer or peripheral. Monitor, keyboard, mouse and
-
-other parts of the computer are connected to the computer
-
-through the port. These ports are found in the motherboard.
-
+**Ans: C.** Unauthorized access of the system
 </details>
 
-**Q58. (Uttarakhand P.C.S. (Pre) 2010)** Which industry is primary user of Magnetic Ink
+**Q-ST58. Uttarakhand P.C.S. (Pre) 2010**
+
+Which industry is primary user of Magnetic Ink
 
 Character Recognition (MICR) ?
 
@@ -4073,21 +3239,14 @@ Character Recognition (MICR) ?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  MICRis an acronym for Magnetic Ink Character Recognition.
+**Logic:** MICRis an acronym for Magnetic Ink Character Recognition.
 
-It refers to the formulation of toner used to print the specialized
-
-font at the bottom of cheques and other negotiable documents.
-
-It is mostly used in Banking sectors for processing of cheques
-
-through computer system.
-
+**Ans: A.** Banks (b) Footwear designing
 </details>
 
-**Q59. (Uttarakhand P.C.S. (Mains) 2006)** O.M.R. stands for :
+**Q-ST59. Uttarakhand P.C.S. (Mains) 2006**
+
+O.M.R. stands for :
 
 (a) Optical Mark Reader (b) Optical Machine Reader
 
@@ -4096,21 +3255,14 @@ through computer system.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  O.M.R. is short for Optical Mark Reader. It is a method of
+**Logic:** Standard key matches Optical Mark Reader (b) Optical Machine Reader.
 
-entering data into a computer system. Optical Mark Reader
-
-reads pencil or pen marks made in pre-defined positions on
-
-paper forms as a response to questions or tick list prompts.
-
-It is used in checking of objective type answer paper.
-
+**Ans: A.** Optical Mark Reader (b) Optical Machine Reader
 </details>
 
-**Q60. (Uttarakhand P.C.S. (Mains) 2002)** C.A.D. stands for :
+**Q-ST60. Uttarakhand P.C.S. (Mains) 2002**
+
+C.A.D. stands for :
 
 (a) Computer Algorithm for Design
 
@@ -4123,19 +3275,14 @@ It is used in checking of objective type answer paper.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  CAD (computer-aided design) software is used by architects,
+**Logic:** CAD (computer-aided design) software is used by architects, engineers, drafters, artists, and others to create precision drawings or technical illustrations.
 
-engineers, drafters, artists, and others to create precision
-
-drawings or technical illustrations. CAD software can be
-
-used to create two-dimensional (2D) drawings or threedimensional (3D) models.
-
+**Ans: B.** Computer Aided Design
 </details>
 
-**Q61. (Uttarakhand P.C.S. (Pre) 2007)** ‘GIF’ stands for –
+**Q-ST61. Uttarakhand P.C.S. (Pre) 2007**
+
+‘GIF’ stands for –
 
 (a) Geographical Image Format
 
@@ -4148,25 +3295,14 @@ used to create two-dimensional (2D) drawings or threedimensional (3D) models.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  The GIF stands for 'Graphics Interchange Format'. It is a
+**Logic:** The GIF stands for 'Graphics Interchange Format'.
 
-computer file format used for images and simple animation.
-
-It was developed by CompuServe in the late 1980s and grew
-
-in popularity with the proliferation of the Internet. It allows
-
-high quality, high resolution graphics to be displayed on a
-
-variety of graphics hardware and is intended as an exchange
-
-and display mechanism for graphics images.
-
+**Ans: C.** Graphical Interchange Format
 </details>
 
-**Q62. (Uttarakhand P.C.S. (Mains) 2006)** The use of Computers in Governance known as –
+**Q-ST62. Uttarakhand P.C.S. (Mains) 2006**
+
+The use of Computers in Governance known as –
 
 (a) Computer Governance (b) E-mail Governance
 
@@ -4175,15 +3311,14 @@ and display mechanism for graphics images.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  The use of computers in governance for delivering
+**Logic:** The use of computers in governance for delivering government services is known as E-Governance.
 
-government services is known as E-Governance.
-
+**Ans: D.** E-Governance
 </details>
 
-**Q63. (Uttarakhand P.C.S. (Pre) 2012)** Multimedia can contain :
+**Q-ST63. Uttarakhand P.C.S. (Pre) 2012**
+
+Multimedia can contain :
 
 (a) Numeric, text, and picture data
 
@@ -4196,19 +3331,14 @@ government services is known as E-Governance.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  Multimedia is the field concerned with the computercontrolled integration of text, graphics, drawings, moving
+**Logic:** Multimedia is the field concerned with the computercontrolled integration of text, graphics, drawings, moving images (video), animation, audio and any other media where every type of information can be represented, stor…
 
-images (video), animation, audio and any other media
-
-where every type of information can be represented, stored,
-
-transmitted and processed digitally.
-
+**Ans: B.** Graphics, animation, video, music and voice
 </details>
 
-**Q64. (Uttarakhand P.C.S. (Pre) 2012)** The practice of using more than one type of medium
+**Q-ST64. Uttarakhand P.C.S. (Pre) 2012**
+
+The practice of using more than one type of medium
 
 in computer at the same time is called :
 
@@ -4219,19 +3349,14 @@ in computer at the same time is called :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  Multimedia applications can include many types of media.
+**Logic:** Multimedia applications can include many types of media.
 
-The primary characteristic of a multimedia system is the
-
-use of more than one kind of media to deliver content and
-
-functionality.
-
+**Ans: A.** Multimedia (b) Macromedia
 </details>
 
-**Q65. (Uttarakhand P.C.S. (Mains) 2006)** What is singular of data ?
+**Q-ST65. Uttarakhand P.C.S. (Mains) 2006**
+
+What is singular of data ?
 
 (a) Datum (b) Dat
 
@@ -4240,13 +3365,14 @@ functionality.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  The singular form of data is 'Datum'.
+**Logic:** The singular form of data is 'Datum'.
 
+**Ans: A.** Datum (b) Dat
 </details>
 
-**Q66. (Uttarakhand P.C.S. (Pre) 2003)** SMS Means–
+**Q-ST66. Uttarakhand P.C.S. (Pre) 2003**
+
+SMS Means–
 
 (a) Swift mail system
 
@@ -4259,15 +3385,14 @@ functionality.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  SMS means Short Messaging Service. It is used for
+**Logic:** SMS means Short Messaging Service.
 
-exchanging messages by mobile phone.
-
+**Ans: B.** Short messaging service
 </details>
 
-**Q67. (Uttarakhand P.C.S. (Pre) 2012)** In Cyber Law terminology 'DOS' means :
+**Q-ST67. Uttarakhand P.C.S. (Pre) 2012**
+
+In Cyber Law terminology 'DOS' means :
 
 (a) Denial of Service
 
@@ -4280,18 +3405,18 @@ exchanging messages by mobile phone.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches Denial of Service.
 
+**Ans: A.** Denial of Service
 </details>
-
 
 ---
 
 ## Complete PYQ Bank — BPSC, IAS & Other State PCS (Ghatnachakra Focus)
 
-**Q1. (M.P.P.C.S. (Pre) 2006 / M.P.P.C.S. (Pre) 2000)** Who invented electronic computer?
+**Q-ST1. M.P.P.C.S. (Pre) 2006 / M.P.P.C.S. (Pre) 2000**
+
+Who invented electronic computer?
 
 (a) Dr. Alan M. Turing (b) Karl Benz
 
@@ -4300,25 +3425,14 @@ exchanging messages by mobile phone.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  Colossus was the name of a series of electronic digital
+**Logic:** Standard key matches Dr.
 
-computer developed for British code breakers in 1943-1945
-
-to help in the cryptanalysis of the Lorenz Cipher. It was
-
-designed by the British engineer Tommy Flowers. Alan
-
-Mathison Turing also contributed to its design but the fact
-
-was that he was not directly involved in it. But in the available
-
-options, Dr. Alan M. Turing is the correct answer.
-
+**Ans: A.** Dr.
 </details>
 
-**Q2. (M.P.P.C.S. (Pre) 2019)** Which of the following groups consists of only output
+**Q-ST2. M.P.P.C.S. (Pre) 2019**
+
+Which of the following groups consists of only output
 
 devices?
 
@@ -4333,15 +3447,14 @@ devices?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  Plotter, Printer and Monitor are output devices while Scanner,
+**Logic:** Plotter, Printer and Monitor are output devices while Scanner, Keyboard, Mouse, Joystick, Light Pen etc.
 
-Keyboard, Mouse, Joystick, Light Pen etc. are input devices.
-
+**Ans: D.** Plotter, Printer, Monitor
 </details>
 
-**Q3. (Civil Services Examination)** Due to the improper/indiscriminate disposal of old and
+**Q-ST3. Civil Services Examination**
+
+Due to the improper/indiscriminate disposal of old and
 
 used computers or their parts, which of the following
 
@@ -4350,13 +3463,14 @@ are released into the environment as e-waste?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (*)`
-- **Logic:**
-  Refer to the high-yield notes above.
+**Logic:** Refer to the high-yield notes above.
 
+**Ans:** Refer to the high-yield notes above.
 </details>
 
-**Q4. (M.P.P.C.S. (Pre) 1996)** What is the Internet?
+**Q-ST4. M.P.P.C.S. (Pre) 1996**
+
+What is the Internet?
 
 (a) A net for catching fish in the ocean.
 
@@ -4371,15 +3485,14 @@ on Railway lines.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches An international computer-based information network.
 
-General Science General Studies G–170
-
+**Ans: D.** An international computer-based information network
 </details>
 
-**Q5. (M.P. P.C.S. (Pre) 2023)** Which of the following is a type of Internet connection
+**Q-ST5. M.P. P.C.S. (Pre) 2023**
+
+Which of the following is a type of Internet connection
 
 that uses telephone lines?
 
@@ -4390,23 +3503,14 @@ that uses telephone lines?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  DSL (Digital Subscriber Line) is a fixed connection most
+**Logic:** DSL (Digital Subscriber Line) is a fixed connection most popular in areas without access to cable or fiber internet.
 
-popular in areas without access to cable or fiber internet.
-
-With DSL, connection to the internet runs through telephone
-
-lines. It is a type of internet connection that uses the voice
-
-frequency of telephone lines to send and receive internet
-
-data and traffic.
-
+**Ans: A.** DSL (b) Cable
 </details>
 
-**Q6. (M.P.P.C.S. (Pre) 2014)** Slowest Internet connection service is –
+**Q-ST6. M.P.P.C.S. (Pre) 2014**
+
+Slowest Internet connection service is –
 
 (a) Digital Subscriber Line (b) Dial-up Service
 
@@ -4415,29 +3519,14 @@ data and traffic.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  Dial-up Service is by far the slowest of all internet connections
+**Logic:** Dial-up Service is by far the slowest of all internet connections available.
 
-available. Generally, it gives a speed of up to 56 Kbps. Cable
-
-modem uses coaxial lines run by cable companies to offer
-
-internet access to their consumers. It can generally gives
-
-speed of 512 kbs to as much as 20 Mbps. Dial-up service
-
-uses telephone lines to transmit internet date and speed is
-
-generally the same as a cable modem. Leased lines are used
-
-by a business establishment that needs high-speed reliable
-
-internet access 24 hours a day.
-
+**Ans: B.** Dial-up Service
 </details>
 
-**Q7. (M.P.P.C.S. (Pre) 2015)** The first page that you normally view at any website
+**Q-ST7. M.P.P.C.S. (Pre) 2015**
+
+The first page that you normally view at any website
 
 is known as?
 
@@ -4448,17 +3537,14 @@ is known as?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  The first page of any website is known as a home page. We
+**Logic:** The first page of any website is known as a home page.
 
-get information of further pages on respective website from
-
-the home page.
-
+**Ans: A.** Home page (b) Master page
 </details>
 
-**Q8. (M.P. P.C.S. (Pre) 2018)** The first page displayed by Web Browser after opening
+**Q-ST8. M.P. P.C.S. (Pre) 2018**
+
+The first page displayed by Web Browser after opening
 
 a Website is called :
 
@@ -4469,13 +3555,14 @@ a Website is called :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches Home page (b) Browser page.
 
+**Ans: A.** Home page (b) Browser page
 </details>
 
-**Q9. (M.P. P.C.S. (Pre) 2021)** ______ is not a common network topology.
+**Q-ST9. M.P. P.C.S. (Pre) 2021**
+
+______ is not a common network topology.
 
 (a) Bus (b) Star
 
@@ -4484,27 +3571,14 @@ a Website is called :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  Network topology refers to the manner in which the links
+**Logic:** Network topology refers to the manner in which the links and nodes of a network are arranged to relate to each other.
 
-and nodes of a network are arranged to relate to each other.
-
-Some of the most common types of network topologies are
-
-star, bus, ring, tree, mesh, and hybrid. Grid topology is not a
-
-common network topology. The grid network topology is a
-
-type of network topology in which each node of the network
-
-is connected with two neighbouring nodes along one or more
-
-dimensions.
-
+**Ans: D.** Grid
 </details>
 
-**Q10. (M.P. P.C.S. (Pre) 2021)** A database that contains the names and address of
+**Q-ST10. M.P. P.C.S. (Pre) 2021**
+
+A database that contains the names and address of
 
 various hosts on internet is called :
 
@@ -4515,27 +3589,14 @@ various hosts on internet is called :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  A database that contains the names and addresses of various
+**Logic:** A database that contains the names and addresses of various hosts on the Internet is called Domain Name System (DNS).
 
-hosts on the Internet is called Domain Name System (DNS).
-
-The DNS is a naming database in which Internet domain
-
-names are located and translated into Internet Protocol (IP)
-
-addresses. The DNS maps the name people use to locate a
-
-website to the IP address that a computer uses to locate that
-
-website.
-
-G–171 General Studies General Science
-
+**Ans: B.** Domain Name System
 </details>
 
-**Q11. (M.P. P.C.S. (Pre) 2020)** IPv6 protocol defines an IP address of :
+**Q-ST11. M.P. P.C.S. (Pre) 2020**
+
+IPv6 protocol defines an IP address of :
 
 (a) 32 bit (b) 64 bit
 
@@ -4544,35 +3605,14 @@ G–171 General Studies General Science
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  Internet Protocol version 6 (IPv6) is the latest revision
+**Logic:** Internet Protocol version 6 (IPv6) is the latest revision of the Internet Protocol (IP).
 
-of the Internet Protocol (IP). IPv6 was developed by the
-
-Internet Engineering Task Force (IETF) to deal with the
-
-long-anticipated problem of IPv4 address exhaustion. In
-
-December 1998, IPv6 became a Draft Standard for the IETF,
-
-which subsequently ratified it as an Internet Standard on 14
-
-July 2017. IPv6 encompasses many design improvements,
-
-including the replacement of the 32-bit IPv4 address format
-
-[which provides 232 (4,294,967,296) addresses] with a 128-bit
-
-address format which provides an addressing space without
-
-limitations for the foreseeable future. IPv6 theoretically
-
-allows 2128, or approximately 3.4 × 1038 total addresses.
-
+**Ans: C.** 128 bit (d) 256 bit
 </details>
 
-**Q12. (I.A.S. (Pre) 2011)** What is the difference between Bluetooth and Wi-Fi
+**Q-ST12. I.A.S. (Pre) 2011**
+
+What is the difference between Bluetooth and Wi-Fi
 
 devices?
 
@@ -4603,27 +3643,14 @@ this context.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  Bluetooth is a wireless technology standard for exchanging
+**Logic:** Bluetooth is a wireless technology standard for exchanging data over short distance using short-wavelength UHF radio waves in the 2.4 GHz ISM band (between 2.400 and 2.4835 GHz or 2.402 and 2.480 GHz) from fixed and mob…
 
-data over short distance using short-wavelength UHF radio
-
-waves in the 2.4 GHz ISM band (between 2.400 and 2.4835
-
-GHz or 2.402 and 2.480 GHz) from fixed and mobile devices
-
-and building personal area networks. Wi-Fi means a local area
-
-wireless computer network technology that allows electronic
-
-devices to connect with network, mainly using the 2.4 GHz
-
-UAF or 5 GHz SHF ISM radio band.
-
+**Ans: A.** Bluetooth uses 2.4 GHz radio frequency band whereas
 </details>
 
-**Q13. (R.A.S./R.T.S. (Pre) 2018)** Which of the following difference between Bluetooth
+**Q-ST13. RAS/RTS (Pre) 2018**
+
+Which of the following difference between Bluetooth
 
 and Wi-Fi is correct?
 
@@ -4662,26 +3689,28 @@ wi-fi is used for Wireless Wide Area Networks
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches Bluetooth uses 2.4 GHz radio frequency band, whereas.
 
+**Ans: A.** Bluetooth uses 2.4 GHz radio frequency band, whereas
 </details>
 
-**Q14. (Civil Services Examination)** With reference to 'LiFi', recently in the news, which
+**Q-ST14. Civil Services Examination**
+
+With reference to 'LiFi', recently in the news, which
 
 of the following statements is/are correct?
 
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (*)`
-- **Logic:**
-  Refer to the high-yield notes above.
+**Logic:** Refer to the high-yield notes above.
 
+**Ans:** Refer to the high-yield notes above.
 </details>
 
-**Q15. (Civil Services Examination)** Li-Fi aims to replace Wi-Fi by using lights to transmit
+**Q-ST15. Civil Services Examination**
+
+Li-Fi aims to replace Wi-Fi by using lights to transmit
 
 internet signals. So, it does not need optical fibre network.
 
@@ -4698,13 +3727,14 @@ data over 1 km of radius.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (*)`
-- **Logic:**
-  Refer to the high-yield notes above.
+**Logic:** Refer to the high-yield notes above.
 
+**Ans:** Refer to the high-yield notes above.
 </details>
 
-**Q16. (I.A.S. (Pre) 2011)** What is 'Virtual Private Network'?
+**Q-ST16. I.A.S. (Pre) 2011**
+
+What is 'Virtual Private Network'?
 
 (a) It is a private computer network of an organization
 
@@ -4733,25 +3763,14 @@ is a correct description of 'Virtual Private Network'.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  A virtual private network (VPN) extends a private network
+**Logic:** A virtual private network (VPN) extends a private network across a public network, such as the internet.
 
-across a public network, such as the internet. It enables a
-
-computer or network-enabled device to send and receive
-
-data across shared or public networks as if it were directly
-
-connected to the private network. Hence, benefiting from
-
-functionality, security and management policies of the private
-
-network.
-
+**Ans: B.** It is a computer network across a public internet that
 </details>
 
-**Q17. (M.P. P.C.S. (Pre) 2018)** .......... offers services such as search capabilities, e-mail,
+**Q-ST17. M.P. P.C.S. (Pre) 2018**
+
+.......... offers services such as search capabilities, e-mail,
 
 news, stock price, weather information, sports and
 
@@ -4764,25 +3783,14 @@ entertainment.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  A portal application is a web-accessible, interactive tool on
+**Logic:** A portal application is a web-accessible, interactive tool on a second website that delivers both related and unrelated applications, services and links.
 
-a second website that delivers both related and unrelated
-
-applications, services and links. Portal applications provide data in an easily understandable format, modify or
-
-manipulate the data and communicate with companies
-
-or individuals about the data. After a user logs in a portal
-
-application, it also enables the service provider to track
-
-users' website activity.
-
+**Ans: B.** Portal
 </details>
 
-**Q18. (UP.P.C.S. (Mains) 2004)** Talaash is :
+**Q-ST18. UP.P.C.S. (Mains) 2004**
+
+Talaash is :
 
 (a) a navy aircraft
 
@@ -4805,17 +3813,14 @@ G–173 General Studies General Science
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  Talaash is a multimedia portal on the internet and also an
+**Logic:** Talaash is a multimedia portal on the internet and also an optical character recognition (OCR) software which is operated by C-DAC in Devanagari.
 
-optical character recognition (OCR) software which is
-
-operated by C-DAC in Devanagari.
-
+**Ans: C.** a multimedia portal on Internet and an optical character
 </details>
 
-**Q19. (R.A.S./R.T.S. (Pre) 1999-2000)** India manufactured super computer 'PARAM' in –
+**Q-ST19. RAS/RTS (Pre) 1999-2000**
+
+India manufactured super computer 'PARAM' in –
 
 (a) Chennai (b) Bangalore
 
@@ -4824,17 +3829,14 @@ operated by C-DAC in Devanagari.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  PARAM, a series of the supercomputer is designed and
+**Logic:** PARAM, a series of the supercomputer is designed and assembled by the Centre for Development of Advanced Computing (C-DAC), Pune.
 
-assembled by the Centre for Development of Advanced
-
-Computing (C-DAC), Pune.
-
+**Ans: D.** Pune
 </details>
 
-**Q20. (M.P.P.C.S. (Pre) 2015)** Who is known as the father of Indian supercomputer?
+**Q-ST20. M.P.P.C.S. (Pre) 2015**
+
+Who is known as the father of Indian supercomputer?
 
 (a) Raghunath Mashelkar (b) Vijay Bhatkar
 
@@ -4843,17 +3845,14 @@ Computing (C-DAC), Pune.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  Vijay Bhatkar is known as the father of Indian supercomputer.
+**Logic:** Vijay Bhatkar is known as the father of Indian supercomputer.
 
-He contributed in developing the first supercomputer of India
-
-‘Param-8000’ which was unveiled in 1991.
-
+**Ans: B.** Vijay Bhatkar
 </details>
 
-**Q21. (R.A.S./R.T.S.(Pre) 2007)** Word length for supercomputer range up to :
+**Q-ST21. RAS/RTS(Pre) 2007**
+
+Word length for supercomputer range up to :
 
 (a) 16 bits (b) 32 bits
 
@@ -4862,15 +3861,14 @@ He contributed in developing the first supercomputer of India
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  Word length of a personal computer is generally 32 bits while
+**Logic:** Word length of a personal computer is generally 32 bits while for supercomputer it is 64 bits.
 
-for supercomputer it is 64 bits.
-
+**Ans: C.** 64 bits (d) 128 bits
 </details>
 
-**Q22. (M.P.P.C.S. (Pre) 2015)** Among following which is the largest, fastest and
+**Q-ST22. M.P.P.C.S. (Pre) 2015**
+
+Among following which is the largest, fastest and
 
 costliest computer?
 
@@ -4881,15 +3879,14 @@ costliest computer?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  Supercomputer is fastest, largest and costliest among all
+**Logic:** Supercomputer is fastest, largest and costliest among all types of computers.
 
-types of computers.
-
+**Ans: B.** Supercomputer
 </details>
 
-**Q23. (68th B.P.S.C. (Pre) 2022)** The President of India inaugurated 'PARAM
+**Q-ST23. 68th B.P.S.C. (Pre) 2022**
+
+The President of India inaugurated 'PARAM
 
 KAMRUPA' Supercomputer facility at which of the
 
@@ -4908,25 +3905,14 @@ following IITs?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  The President of India, Smt. Droupadi Murmu, inaugurated
+**Logic:** The President of India, Smt.
 
-Supercomputer facility 'PARAM Kamrupa' and laboratory
-
-for the design and development of high power microwave
-
-components at IIT Guwahati on 13 October, 2022. PARAM
-
-Kamrupa is a state-of-the-art supercomputing system,
-
-deployed under build approach of National Supercomputing
-
-Mission with peak computing power of 838 TFLOPS.
-
+**Ans: A.** Guwahati
 </details>
 
-**Q24. (M.P.P.C.S. (Pre) 1997)** At the end of this century, there will be great difficulty
+**Q-ST24. M.P.P.C.S. (Pre) 1997**
+
+At the end of this century, there will be great difficulty
 
 in the use of existing equipments and heavy expenditure
 
@@ -4939,13 +3925,14 @@ will be required to rectify them. They are –
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches Computers (b) T.V.
 
+**Ans: A.** Computers (b) T.V.
 </details>
 
-**Q25. (M.P.P.C.S. (Pre) 2013)** Which type of computer could be found in a digital
+**Q-ST25. M.P.P.C.S. (Pre) 2013**
+
+Which type of computer could be found in a digital
 
 watch?
 
@@ -4956,31 +3943,14 @@ watch?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  An embedded system is a computer system with a dedicated
+**Logic:** An embedded system is a computer system with a dedicated function within a larger mechanical or electrical system often with real-time computing constraints.
 
-function within a larger mechanical or electrical system
-
-often with real-time computing constraints. It is embedded
-
-as part of a complete device often including hardware and
-
-mechanical parts. Embedded systems control many devices
-
-in common use today.
-
-Embedded systems range from portable devices such
-
-as digital watches and MP3 players to large stationary
-
-installations like traffic lights, factory controllers and largely
-
-complex systems like hybrid vehicles, MRI, and avionics.
-
+**Ans: D.** Embedded computer
 </details>
 
-**Q26. (M.P.P.C.S. (Pre) 2017)** Who is the inventor of WWW?
+**Q-ST26. M.P.P.C.S. (Pre) 2017**
+
+Who is the inventor of WWW?
 
 (a) Bill Gates (b) Tim Berners-Lee
 
@@ -4989,13 +3959,12 @@ complex systems like hybrid vehicles, MRI, and avionics.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  See the explanation of above question.
-
+**Ans: B.** Tim Berners-Lee
 </details>
 
-**Q27. (Uttrakhand U.D.A./LDA (mains) 2006)** World Wide Web (WWW) is a hypermedia system
+**Q-ST27. Uttrakhand U.D.A./LDA (mains) 2006**
+
+World Wide Web (WWW) is a hypermedia system
 
 because –
 
@@ -5010,23 +3979,14 @@ because –
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  The World Wide Web (WWW or W3) is an information
+**Logic:** The World Wide Web (WWW or W3) is an information system of interlinked hypertext documents and other resources that are accessed via internet.
 
-system of interlinked hypertext documents and other
-
-resources that are accessed via internet. With the help of
-
-the web browser, we can visit web pages which contain
-
-text, images, video and other multimedia items. Embedded
-
-hyperlink permit users to navigate between pages.
-
+**Ans: B.** It links to other computer resources
 </details>
 
-**Q28. (M.P. P.C.S. (Pre) 2018)** The collection of linked information residing on
+**Q-ST28. M.P. P.C.S. (Pre) 2018**
+
+The collection of linked information residing on
 
 computers which is available through internet is called
 
@@ -5041,13 +4001,14 @@ computers which is available through internet is called
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches World Wide Web.
 
+**Ans: C.** World Wide Web
 </details>
 
-**Q29. (M.P. P.C.S. (Pre) 2024)** In the field of Internet, W3C stands for :
+**Q-ST29. M.P. P.C.S. (Pre) 2024**
+
+In the field of Internet, W3C stands for :
 
 (a) World Wide Web Content
 
@@ -5060,27 +4021,14 @@ computers which is available through internet is called
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  The World Wide Web Consortium (W3C) is the main
+**Logic:** The World Wide Web Consortium (W3C) is the main international standards organization for the World Wide Web.
 
-international standards organization for the World Wide
-
-Web. Founded in 1994 by Tim Berners-Lee, the consortium
-
-is made up of member organizations that maintain full-time
-
-staff working together in the development of standards for
-
-the World Wide Web. W3C develops standards and guidelines
-
-to help everyone build a web based on the principles of
-
-accessibility, internationalization, privacy and security.
-
+**Ans: D.** World Wide Web Consortium
 </details>
 
-**Q30. (R.A.S./R.T.S. (Pre) 2024)** Among the following layers, identify the one which is
+**Q-ST30. RAS/RTS (Pre) 2024**
+
+Among the following layers, identify the one which is
 
 used for wireless connection in IoT devices :
 
@@ -5091,51 +4039,14 @@ used for wireless connection in IoT devices :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  The four stages of IoT communication are the perception
+**Logic:** The four stages of IoT communication are the perception layer, transport layer, network layer and application layer.
 
-layer, transport layer, network layer and application layer.
-
-In each stage, different wireless technologies can be used to
-
-transfer information. The generation of these stages involves
-
-the construction of the IoT system and the realization of the
-
-components. The perception layer is the lowest layer in the
-
-Internet of Things, responsible for sensing and collecting
-
-data in the environment. The transport layer is responsible
-
-for transmitting the data collected by the perception layer
-
-to the network layer for processing. The network layer
-
-is responsible for establishing connections and routing
-
-data in IoT. At this stage, the network infrastructure of the
-
-Internet of Things need to be established, including network
-
-architecture, routers, gateways, and servers. The generation of
-
-the network layer involves the configuration and deployment
-
-of network equipment, as well as the implementation and
-
-management of network protocols. The application layer is
-
-the uppermost stage in IoT and is responsible for processing
-
-and applying data. Hence, option (c) is the most appropriate
-
-answer.
-
+**Ans: C.** Network Layer
 </details>
 
-**Q31. (M.P.P.C.S. (Pre) 2021)** In a network environment, which is not server?
+**Q-ST31. M.P.P.C.S. (Pre) 2021**
+
+In a network environment, which is not server?
 
 (a) File Server (b) Print Server
 
@@ -5144,25 +4055,14 @@ answer.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  In a network environment, network server is not server.
+**Logic:** In a network environment, network server is not server.
 
-Network servers are high-powered computers used as a
-
-central repository for data and various programs shared
-
-by users within a network. A few examples of the types of
-
-servers in a network environment are as follows : Web server,
-
-Application server, Proxy server, Mail server, File server,
-
-Database server, Print server etc.
-
+**Ans: D.** Network Server
 </details>
 
-**Q32. (M.P.P.C.S. (Pre) 2013)** Junk e-mail is also called –
+**Q-ST32. M.P.P.C.S. (Pre) 2013**
+
+Junk e-mail is also called –
 
 (a) Spoof (b) Spool
 
@@ -5171,19 +4071,14 @@ Database server, Print server etc.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  Junk email messages are 'spam' messages which are
+**Logic:** Junk email messages are 'spam' messages which are unsolicited (and typically unwanted) email messages that are filtered by the service.
 
-unsolicited (and typically unwanted) email messages that are
-
-filtered by the service. By default, the service rejects the spam
-
-message based on the reputation of the sending IP address.
-
+**Ans: D.** Spam
 </details>
 
-**Q33. (M.P. P.C.S. (Pre) 2018)** Which of the following acronyms is normally used to
+**Q-ST33. M.P. P.C.S. (Pre) 2018**
+
+Which of the following acronyms is normally used to
 
 describe unsolicited junk e-mails?
 
@@ -5194,13 +4089,12 @@ describe unsolicited junk e-mails?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  See the explanation of above question.
-
+**Ans: D.** SPAM
 </details>
 
-**Q34. (M.P.P.C.S. (Pre) 2016 / Chhattisgarh P.C.S. (Pre) 2005)** The word 'Spam' is related to which of the following
+**Q-ST34. M.P.P.C.S. (Pre) 2016 / Chhattisgarh P.C.S. (Pre) 2005**
+
+The word 'Spam' is related to which of the following
 
 subject?
 
@@ -5211,21 +4105,14 @@ subject?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  Spam is flooding the Internet with many copies of the same
+**Logic:** Spam is flooding the Internet with many copies of the same message in an attempt to force the message on people who would not otherwise choose to receive it.
 
-message in an attempt to force the message on people who
-
-would not otherwise choose to receive it. Most spam is
-
-commercial advertising often for dubious get rich quick
-
-schemes or quasi-legal services.
-
+**Ans: A.** Computer (b) Art
 </details>
 
-**Q35. (M.P.P.C.S. (Pre) 2017)** DuckDuckGo is a
+**Q-ST35. M.P.P.C.S. (Pre) 2017**
+
+DuckDuckGo is a
 
 (a) search engine (b) web browser
 
@@ -5234,17 +4121,14 @@ schemes or quasi-legal services.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  DuckDuckGo is a search engine which is quite famous in
+**Logic:** DuckDuckGo is a search engine which is quite famous in Europe.
 
-Europe. Its speciality is that it does not collect user-related
-
-information like other search engines such as Google do.
-
+**Ans: A.** search engine
 </details>
 
-**Q36. (M.P.P.C.S. (Pre) 2010)** Which of the following is not a search engine?
+**Q-ST36. M.P.P.C.S. (Pre) 2010**
+
+Which of the following is not a search engine?
 
 (a) Google (b) Altavista
 
@@ -5253,15 +4137,14 @@ information like other search engines such as Google do.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  Orkut is not a search engine. It was a social networking
+**Logic:** Orkut is not a search engine.
 
-website which has been closed. Rest are the search engines.
-
+**Ans: D.** Orkut
 </details>
 
-**Q37. (M.P.P.C.S. (Pre) 2016)** Which of the following is a search engine?
+**Q-ST37. M.P.P.C.S. (Pre) 2016**
+
+Which of the following is a search engine?
 
 (a) Baidu (b) Packets
 
@@ -5270,17 +4153,14 @@ website which has been closed. Rest are the search engines.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  Baidu INC. is a Chinese web services company offers many
+**Logic:** Standard key matches Baidu (b) Packets.
 
-services including a Chinese search engine for websites,
-
-audio files, and images.
-
+**Ans: A.** Baidu (b) Packets
 </details>
 
-**Q38. (M.P.P.C.S. (Pre) 2019)** Bing is a web search engine owned and operated by :
+**Q-ST38. M.P.P.C.S. (Pre) 2019**
+
+Bing is a web search engine owned and operated by :
 
 (a) Microsoft (b) Yahoo
 
@@ -5289,19 +4169,14 @@ audio files, and images.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  Bing is a web search engine owned and operated by
+**Logic:** Bing is a web search engine owned and operated by Microsoft.
 
-Microsoft. It was launched in 2009. Bing provides a variety
-
-of search services, including web, video, image and map
-
-search products.
-
+**Ans: A.** Microsoft (b) Yahoo
 </details>
 
-**Q39. (M.P.P.C.S. (Pre) 2024)** Kurrently is a/an :
+**Q-ST39. M.P.P.C.S. (Pre) 2024**
+
+Kurrently is a/an :
 
 (a) Search Engine (b) Social Networking Site
 
@@ -5310,21 +4185,14 @@ search products.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  Kurrently is a free social media search engine that provides
+**Logic:** Kurrently is a free social media search engine that provides real-time results from social media platforms like Twitter and Facebook etc.
 
-real-time results from social media platforms like Twitter
-
-and Facebook etc. It provides a convenient way to keep up
-
-with current news and trends on multiple social networking
-
-platforms simultaneously.
-
+**Ans: A.** Search Engine
 </details>
 
-**Q40. (M.P. P.C.S. (Pre) 2023)** Which of the following is not a web browser?
+**Q-ST40. M.P. P.C.S. (Pre) 2023**
+
+Which of the following is not a web browser?
 
 (a) Internet Explorer (b) Mozilla Firefox
 
@@ -5333,19 +4201,14 @@ platforms simultaneously.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  Among the given options, Yahoo is not a web browser, it
+**Logic:** Among the given options, Yahoo is not a web browser, it is a web search engine.
 
-is a web search engine. Internet Explorer (now replaced by
-
-Microsoft Edge), Mozilla Firefox and Google Chrome are
-
-examples of web browser.
-
+**Ans: D.** Yahoo
 </details>
 
-**Q41. (M.P.P.C.S. (Pre) 2016)** Which web browser was developed by Google?
+**Q-ST41. M.P.P.C.S. (Pre) 2016**
+
+Which web browser was developed by Google?
 
 (a) Internet Explorer (b) Firefox
 
@@ -5354,17 +4217,14 @@ examples of web browser.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  Google Chrome is a freeware web browser developed by
+**Logic:** Google Chrome is a freeware web browser developed by Google.
 
-Google. It was first released in 2008 for Microsoft Windows
-
-and later ported to Linux, macOS and Android.
-
+**Ans: D.** Chrome
 </details>
 
-**Q42. (M.P.P.C.S. (Pre) 2019)** Web Crawler is also known as :
+**Q-ST42. M.P.P.C.S. (Pre) 2019**
+
+Web Crawler is also known as :
 
 (a) Link Directory
 
@@ -5377,23 +4237,14 @@ and later ported to Linux, macOS and Android.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  A Web Crawler, sometimes called a Web Spider or Spiderbot
+**Logic:** A Web Crawler, sometimes called a Web Spider or Spiderbot and often shortened to Crawler, is an internet bot that systematically browses the World Wide Web, typically for the purpose of Web indexing (Web spidering).
 
-and often shortened to Crawler, is an internet bot that
-
-systematically browses the World Wide Web, typically for the
-
-purpose of Web indexing (Web spidering). Web Crawlers can
-
-also be used for automating maintenance tasks on a website,
-
-such as checking links or validating HTML code.
-
+**Ans: C.** Web Spider
 </details>
 
-**Q43. (I.A.S. (Pre) 2009)** WiMAX is related to which one of the following?
+**Q-ST43. I.A.S. (Pre) 2009**
+
+WiMAX is related to which one of the following?
 
 (a) Biotechnology
 
@@ -5406,21 +4257,14 @@ such as checking links or validating HTML code.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  WiMAX is short for World Wide Interoperability for
+**Logic:** WiMAX is short for World Wide Interoperability for Microwave Access.
 
-Microwave Access. It is a telecommunication technology
-
-aimed at providing wireless data over long distances in a
-
-variety of ways, from point-to-point links to full mobile
-
-cellular type access.
-
+**Ans: D.** Communication technology
 </details>
 
-**Q44. (M.P.P.C.S. (Pre) 2019)** In the field of computer, VIRUS stands for :
+**Q-ST44. M.P.P.C.S. (Pre) 2019**
+
+In the field of computer, VIRUS stands for :
 
 (a) Very Intelligent Result Until source
 
@@ -5433,19 +4277,14 @@ cellular type access.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  In the field of computer, VIRUS stands for 'Vital Information
+**Logic:** In the field of computer, VIRUS stands for 'Vital Information Resources Under Siege'.
 
-Resources Under Siege'. A computer virus is a malicious
-
-program or software which is designed to interfere with the
-
-normal functioning of a computer together with its files.
-
+**Ans: B.** Vital Information Resource Under Siege
 </details>
 
-**Q45. (M.P.P.C.S. (Pre) 2018)** An intentionally disruptive software that spreads from
+**Q-ST45. M.P.P.C.S. (Pre) 2018**
+
+An intentionally disruptive software that spreads from
 
 computer to computer is known as :
 
@@ -5456,13 +4295,12 @@ computer to computer is known as :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  See the explanation of above question.
-
+**Ans: D.** Virus
 </details>
 
-**Q46. (M.P.PCS (Pre) 2016)** What is the virus that spreads in computer?
+**Q-ST46. M.P.PCS (Pre) 2016**
+
+What is the virus that spreads in computer?
 
 (a) Hardware (b) Computer program
 
@@ -5471,13 +4309,12 @@ computer to computer is known as :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  See the explanation of above question.
-
+**Ans: B.** Computer program
 </details>
 
-**Q47. (M.P.P.C.S. (Pre) 2012)** A computer virus is –
+**Q-ST47. M.P.P.C.S. (Pre) 2012**
+
+A computer virus is –
 
 (a) A computer program that can replicate itself
 
@@ -5490,13 +4327,14 @@ computer to computer is known as :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches A computer program that can replicate itself.
 
+**Ans: A.** A computer program that can replicate itself
 </details>
 
-**Q48. (M.P.P.C.S. (Pre) 2025)** A malware, that looks like a legitimate software and
+**Q-ST48. M.P.P.C.S. (Pre) 2025**
+
+A malware, that looks like a legitimate software and
 
 once it tricks a user into installing it, acts pretty much
 
@@ -5509,59 +4347,14 @@ like a virus or worm, is known as :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  A Trojan is a type of malware that tricks users into
+**Logic:** A Trojan is a type of malware that tricks users into downloading malicious software by disguising itself as a normal or legitimate program.
 
-downloading malicious software by disguising itself as a
-
-normal or legitimate program. Once installed, Trojans act
-
-pretty much like a virus or worm and they may perform
-
-a range of malicious actions. However, unlike computer
-
-viruses and worms, Trojans generally do not attempt to inject
-
-themselves into other files or otherwise propagate themselves.
-
-The delivery method typically sees an attacker use social
-
-engineering to hide malicious code within legitimate software
-
-to try and gain users' system access with their software. They
-
-might be disguised as free software, videos or music, or
-
-seemingly legitimate advertisements. The term comes from
-
-the ancient Greek story of the Trojan Horse that led to the
-
-fall of the city of Troy.
-
-A keylogger or keystroke logger/keyboard capturing is a form
-
-of malware or hardware that keeps track of and records your
-
-keystrokes as you type. It takes the information and sends
-
-it to a hacker using a command-and-control (C&C) server.
-
-Ransomware is a type of malware that encrypts the victim's
-
-personal data until a ransom is paid.
-
-Spyware is a type of malware that steals data from a device
-
-and sends it to third parties without the user's consent.
-
-It is to be noted that Keylogger, Ransomware and Spyware–
-
-all of these malware attacks can be done through a Trojan.
-
+**Ans: C.** Trojan (d) Spyware
 </details>
 
-**Q49. (M.P.P.C.S. (Pre) 2014)** Firewall is used in Communication Network/system
+**Q-ST49. M.P.P.C.S. (Pre) 2014**
+
+Firewall is used in Communication Network/system
 
 for protection from –
 
@@ -5572,27 +4365,14 @@ for protection from –
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  Firewall is a system designed to prevent an unauthorized
+**Logic:** Firewall is a system designed to prevent an unauthorized private network to be created.
 
-private network to be created. Firewalls can be implemented
-
-in both hardware and software or a combination of both.
-
-Firewalls are frequently used to prevent unauthorized
-
-internet users from accessing private networks connected
-
-to the internet. All messages entering or leaving the internet
-
-pass through the firewall which examines each message and
-
-blocks those that do not meet the specified security criteria.
-
+**Ans: A.** Unauthorized attack
 </details>
 
-**Q50. (M.P.P.C.S. (Pre) 2023)** What is the purpose of a firewall in cyber security?
+**Q-ST50. M.P.P.C.S. (Pre) 2023**
+
+What is the purpose of a firewall in cyber security?
 
 (a) To allow unrestricted access to a network
 
@@ -5605,32 +4385,28 @@ blocks those that do not meet the specified security criteria.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  A firewall is a network security device that monitors incoming
+**Logic:** A firewall is a network security device that monitors incoming and outgoing network traffic and decides whether to allow or block specific traffic based on a defined set of security rules.
 
-and outgoing network traffic and decides whether to allow or
-
-block specific traffic based on a defined set of security rules.
-
-It prevents unauthorized access to a network.
-
+**Ans: B.** To block unauthorized access to a network
 </details>
 
-**Q51. (Civil Services Examination)** One of the first viruses to attract widespread public
+**Q-ST51. Civil Services Examination**
+
+One of the first viruses to attract widespread public
 
 attention was designed to infect MS-DOS on 6th March
 
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (*)`
-- **Logic:**
-  Refer to the high-yield notes above.
+**Logic:** Refer to the high-yield notes above.
 
+**Ans:** Refer to the high-yield notes above.
 </details>
 
-**Q52. (M.P.P.C.S. (Pre) 2008)** Name of the virus is –
+**Q-ST52. M.P.P.C.S. (Pre) 2008**
+
+Name of the virus is –
 
 (a) Brain (b) Catch me if you can
 
@@ -5639,17 +4415,14 @@ attention was designed to infect MS-DOS on 6th March
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  Michael Angelo was one of the first virus which was
+**Logic:** Michael Angelo was one of the first virus which was designed to infect MS-Dos on 6th March, 1992.
 
-designed to infect MS-Dos on 6th March, 1992. It was found
-
-in Australia in 1991 for the first time.
-
+**Ans: C.** Michael Angelo
 </details>
 
-**Q53. (I.A.S. (Pre) 2018)** The terms 'WannaCry, Petya and EternalBlue'
+**Q-ST53. I.A.S. (Pre) 2018**
+
+The terms 'WannaCry, Petya and EternalBlue'
 
 sometimes mentioned in the news recently are
 
@@ -5662,23 +4435,14 @@ related to :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  The WannaCry and Petya are two of the biggest cyberattacks
+**Logic:** The WannaCry and Petya are two of the biggest cyberattacks in history and impacted the finances of many companies throughout the globe.
 
-in history and impacted the finances of many companies
-
-throughout the globe. In May, 2017 ransomware virus WannaCry expanded quickly over the various computer networks.
-
-In 2016, a group of encrypting ransomware Petya was detected by cybersecurity experts. EternalBlue is a cyberattack
-
-exploit which was used as part of the worldwide WannaCry
-
-ransomware attack.
-
+**Ans: C.** Cyberattacks
 </details>
 
-**Q54. (67th B.P.S.C. (Pre) 2022)** In which country, the Pegasus spyware has been developed?
+**Q-ST54. 67th B.P.S.C. (Pre) 2022**
+
+In which country, the Pegasus spyware has been developed?
 
 (a) Israel (b) Brazil
 
@@ -5689,21 +4453,14 @@ ransomware attack.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  Israel's NSO Group has developed Pegasus spyware, the
+**Logic:** Israel's NSO Group has developed Pegasus spyware, the world's most invasive spyware.
 
-world's most invasive spyware. It can find a route into a
-
-target's device that is unknown to the developer of the device
-
-and its software, and without requiring the target to take any
-
-action such as clicking a link.
-
+**Ans: A.** Israel (b) Brazil
 </details>
 
-**Q55. (M.P.P.C.S. (Pre) 2025)** MS-DOS is an operating system with which of the
+**Q-ST55. M.P.P.C.S. (Pre) 2025**
+
+MS-DOS is an operating system with which of the
 
 following type of user interface?
 
@@ -5718,19 +4475,14 @@ following type of user interface?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  MS-DOS is an operating system with non-graphical
+**Logic:** MS-DOS is an operating system with non-graphical command-line (based) interface (CLI).
 
-command-line (based) interface (CLI). A CLI is a means of
-
-interacting with a computer program by inputting lines of
-
-text called command lines.
-
+**Ans: C.** Command-based Interface
 </details>
 
-**Q56. (Uttrakhand U.D.A./L.D.A. (Mains) 2006)** Windows operating system was developed by –
+**Q-ST56. Uttrakhand U.D.A./L.D.A. (Mains) 2006**
+
+Windows operating system was developed by –
 
 (a) Microsoft (b) I.B.M.
 
@@ -5739,13 +4491,14 @@ text called command lines.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches Microsoft (b) I.B.M.
 
+**Ans: A.** Microsoft (b) I.B.M
 </details>
 
-**Q57. (R.A.S./R.T.S. (Pre) 1994)** American television and Telegraph has developed
+**Q-ST57. RAS/RTS (Pre) 1994**
+
+American television and Telegraph has developed
 
 such computer procedure which gives multi-user
 
@@ -5758,19 +4511,14 @@ environment, it is called –
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  'UNIX' is a computer operating system which provides
+**Logic:** 'UNIX' is a computer operating system which provides multi-user environment.
 
-multi-user environment. It was developed in 1969 by
-
-AT & T.
-
-G–183 General Studies General Science
-
+**Ans: B.** UNIX
 </details>
 
-**Q58. (M.P.P.C.S. (Pre) 2024)** The central part of the UNIX Operating System is :
+**Q-ST58. M.P.P.C.S. (Pre) 2024**
+
+The central part of the UNIX Operating System is :
 
 (a) Command Shell (b) Kernel
 
@@ -5779,25 +4527,14 @@ G–183 General Studies General Science
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  UNIX Operating System is made up of 3 main parts : the
+**Logic:** UNIX Operating System is made up of 3 main parts : the kernel, the shell, and user commands and applications.
 
-kernel, the shell, and user commands and applications.
-
-Kernel is the central part or core of the UNIX operating
-
-system. Kernel allocates memory and time to programs and
-
-handles the filestore and communications. It ingests user input
-
-via the shell and accesses the hardware to perform things like
-
-memory allocation and file storage.
-
+**Ans: B.** Kernel
 </details>
 
-**Q59. (Chhattisgarh P.C.S. (Pre) 2021)** What is not true about GNU operating system?
+**Q-ST59. Chhattisgarh P.C.S. (Pre) 2021**
+
+What is not true about GNU operating system?
 
 (a) Its full form is 'GNU's Not Unix'
 
@@ -5810,33 +4547,14 @@ memory allocation and file storage.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  GNU is an extensive collection of free software, which can
+**Logic:** GNU is an extensive collection of free software, which can be used as an operating system or can be used in parts with other operating systems.
 
-be used as an operating system or can be used in parts with
-
-other operating systems. GNU stands for "GNU's Not Unix,"
-
-chosen because GNU's design is Unix-like, but differs from
-
-Unix by being free software and containing no Unix code.
-
-Development of the GNU operating system was initiated
-
-by Richard Stallman while he worked at MIT Artificial
-
-Intelligence Laboratory. Richard Stallman made the initial
-
-announcement of the GNU Project in September, 1983. The
-
-GNU operating system is upward-compatible with Unix.
-
-Hence, statement of option (d) is not true.
-
+**Ans: D.** It is not compatible with Unix
 </details>
 
-**Q60. (R.A.S./R.T.S. (Pre) 2003)** In Binary Code 7 is written as –
+**Q-ST60. RAS/RTS (Pre) 2003**
+
+In Binary Code 7 is written as –
 
 (a) 0110 (b) 0111
 
@@ -5845,65 +4563,14 @@ Hence, statement of option (d) is not true.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  In order to get the binary code of any number, one should
+**Logic:** In order to get the binary code of any number, one should always remember the below mentioned details– Remember the sequence of numbers from right to left so on.......................
 
-always remember the below mentioned details–
-
-Remember the sequence of numbers from right to left
-
-so on....................... 16, 8, 4, 2, 1
-
-
-
-Now whichever number's binary code is to be determined
-
-write down 1 below that number (or that number's conversion
-
-in the form of above numbers e.g. 7 = 4 + 2 + 1) and put 0
-
-on rest. Some examples are as follows :
-
-8 4 2 1
-
-2 = 0 0 1 0 ( Hence binary code of 2 = 0010)
-
-8 4 2 1 → ( 2 + 1 = 3 ) [ 3 = 0011]
-
-3 = 0 0 1 1 ( Hence binary code of 3 = 0011)
-
-8 4 2 1
-
-4 = 0 1 0 0 ( Hence binary code of 4 = 0100)
-
-8 4 2 1 → ( 4 + 1 = 5 )[5 = 0101 ]
-
-5 = 0 1 0 1 ( Hence binary code of 5 = 0101)
-
-8 4 2 1 → ( 4 + 2 = 6 ) [6 = 0101]
-
-6 = 0 1 1 0 ( Hence binary code of 6 = 0110)
-
-8 4 2 1 → (4 + 2 + 1 = 7 ) [ 7 = 0111 ]
-
-7 = 0 1 1 1 ( Hence binary code of 7 = 0111)
-
-8 4 2 1
-
-8 = 1 0 0 0 ( Hence binary code of 8 = 1000)
-
-8 4 2 1 → (8 + 1 = 9 ) [9 = 1001]
-
-9 = 1 0 0 1 ( Hence binary code of 9 = 1001)
-
-So by this method, you can calculate binary code of any given
-
-number. Hence option (b) is correct.
-
+**Ans: B.** 0111
 </details>
 
-**Q61. (M.P.P.C.S. (Pre) 2015)** Binary language consists of how many digits?
+**Q-ST61. M.P.P.C.S. (Pre) 2015**
+
+Binary language consists of how many digits?
 
 (a) 2 (b) 3
 
@@ -5912,17 +4579,14 @@ number. Hence option (b) is correct.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  The modern computer is also known as the digital computer
+**Logic:** Standard key matches 2 (b) 3.
 
-only understands binary language. Binary language consist
-
-of two digits 0 and 1. It is also known as machine language.
-
+**Ans: A.** 2 (b) 3
 </details>
 
-**Q62. (I.A.S. (Pre) 2000)** The memory of a computer is commonly expressed in
+**Q-ST62. I.A.S. (Pre) 2000**
+
+The memory of a computer is commonly expressed in
 
 terms of kilobytes or megabytes. A byte is made up of –
 
@@ -5933,23 +4597,14 @@ terms of kilobytes or megabytes. A byte is made up of –
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  The computer memory is expressed in kilobytes or megabytes
+**Logic:** The computer memory is expressed in kilobytes or megabytes or gigabytes.
 
-or gigabytes. 1 byte equals to 8 binary digits (bits).
-
-1 kilobyte = 1024 byte
-
-1 megabyte = 1024 kilobyte
-
-1 gigabyte = 1024 megabyte
-
-1 terabyte = 1024 gigabyte
-
+**Ans: A.** Eight binary digits
 </details>
 
-**Q63. (M.P.P.C.S. (Pre) 2014)** One byte has –
+**Q-ST63. M.P.P.C.S. (Pre) 2014**
+
+One byte has –
 
 (a) 8-bits (b) 16-bits
 
@@ -5958,13 +4613,14 @@ or gigabytes. 1 byte equals to 8 binary digits (bits).
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches 8-bits (b) 16-bits.
 
+**Ans: A.** 8-bits (b) 16-bits
 </details>
 
-**Q64. (M.P.P.C.S. (Pre) 2015)** How many bits are there in one byte?
+**Q-ST64. M.P.P.C.S. (Pre) 2015**
+
+How many bits are there in one byte?
 
 (a) 2 (b) 8
 
@@ -5973,13 +4629,12 @@ or gigabytes. 1 byte equals to 8 binary digits (bits).
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  See the explanation of above question.
-
+**Ans: B.** Option B.
 </details>
 
-**Q65. (Jharkhand P.C.S. (Pre) 2016)** How many bits are there in a kilobyte?
+**Q-ST65. Jharkhand P.C.S. (Pre) 2016**
+
+How many bits are there in a kilobyte?
 
 (a) 1024 (b) 1000
 
@@ -5988,21 +4643,14 @@ or gigabytes. 1 byte equals to 8 binary digits (bits).
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  A byte contains 8 bit and 1 kilobyte (KB) contains 1024
+**Logic:** A byte contains 8 bit and 1 kilobyte (KB) contains 1024 bytes.
 
-bytes. Like this –
-
-1 kilobyte = 1024 × 8 bits = 8192 bits.
-
-Geopbyte containing 1024 Brontobytes is the largest storage
-
-unit.
-
+**Ans: D.** 8192
 </details>
 
-**Q66. (M.P. P.C.S. (Pre) 2016)** 1024 kilobytes are equal to :
+**Q-ST66. M.P. P.C.S. (Pre) 2016**
+
+1024 kilobytes are equal to :
 
 (a) 1 megabyte (b) 1 gigabyte
 
@@ -6011,13 +4659,14 @@ unit.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches 1 megabyte (b) 1 gigabyte.
 
+**Ans: A.** 1 megabyte (b) 1 gigabyte
 </details>
 
-**Q67. (M.P.P.C.S. (Pre) 2015)** Choose the smallest memory size unit –
+**Q-ST67. M.P.P.C.S. (Pre) 2015**
+
+Choose the smallest memory size unit –
 
 (a) K B (b) MB
 
@@ -6026,27 +4675,14 @@ unit.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  In the terms of computer 0 and 1 is known as binary digits.
+**Logic:** In the terms of computer 0 and 1 is known as binary digits.
 
-In short, it is also known as bits. The composition of 8 bits
-
-is known as bytes.
-
-1 Byte = 8 bits
-
-1 kilobyte (KB) = 1024 byte
-
-1 megabyte (MB) = 1024 kilobyte
-
-1 gigabyte (GB) = 1024 megabyte
-
-1 terabyte (TB) = 1024 gigabyte
-
+**Ans: A.** K B (b) MB
 </details>
 
-**Q68. (R.A.S./R.T.S. (Pre) 2023)** Arrange the following units of measure for digital
+**Q-ST68. RAS/RTS (Pre) 2023**
+
+Arrange the following units of measure for digital
 
 information into correct order, starting with the
 
@@ -6071,13 +4707,12 @@ General Science General Studies G–186
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  See the explanation of above question.
-
+**Ans: B.** F, B, A, C, E, D CLICK HERE - JOIN @APNAPDFS Join @Apnapdfs General Science General Studies G–186
 </details>
 
-**Q69. (Uttrakhand U.D.A./LDA (mains) 2006)** 1 MB memory is –
+**Q-ST69. Uttrakhand U.D.A./LDA (mains) 2006**
+
+1 MB memory is –
 
 (a) 1024 Kilobytes (b) 210 Byte
 
@@ -6086,13 +4721,14 @@ General Science General Studies G–186
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches 1024 Kilobytes (b) 210 Byte.
 
+**Ans: A.** 1024 Kilobytes (b) 210 Byte
 </details>
 
-**Q70. (M.P.P.C.S. (Pre) 2005)** In computer language how many bytes are there in one
+**Q-ST70. M.P.P.C.S. (Pre) 2005**
+
+In computer language how many bytes are there in one
 
 megabyte?
 
@@ -6103,17 +4739,14 @@ megabyte?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  1 megabyte = 1024 kilobyte
+**Logic:** 1 megabyte = 1024 kilobyte = 1024 × 1024 byte = 10,48,576 byte (approx.
 
-= 1024 × 1024 byte
-
-= 10,48,576 byte (approx. 1.05 million bytes)
-
+**Ans: D.** 10,48,576
 </details>
 
-**Q71. (M.P.P.C.S. (Pre) 2008)** A million bytes is approximately –
+**Q-ST71. M.P.P.C.S. (Pre) 2008**
+
+A million bytes is approximately –
 
 (a) Gigabyte (b) Kilobyte
 
@@ -6122,13 +4755,14 @@ megabyte?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches Megabyte (d) Terabyte.
 
+**Ans: C.** Megabyte (d) Terabyte
 </details>
 
-**Q72. (R.A.S/R.T.S. (Pre) 2013)** Unicode encoding scheme represents a character as a
+**Q-ST72. R.A.S/R.T.S. (Pre) 2013**
+
+Unicode encoding scheme represents a character as a
 
 group of –
 
@@ -6139,13 +4773,14 @@ group of –
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  Unicode represents each character by 2 bytes or 16 bits.
+**Logic:** Unicode represents each character by 2 bytes or 16 bits.
 
+**Ans: A.** 16 bits (b) 4 bits
 </details>
 
-**Q73. (Jharkhand P.C.S. (Pre) 2021)** The basic unit of quantum information is :
+**Q-ST73. Jharkhand P.C.S. (Pre) 2021**
+
+The basic unit of quantum information is :
 
 (a) BIT (b) BYTE
 
@@ -6154,21 +4789,14 @@ group of –
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  In quantum computing, a 'qubit' (or quantum bit) is the
+**Logic:** In quantum computing, a 'qubit' (or quantum bit) is the basic unit of quantum information – the quantum version of the classic binary bit physically realized with a two-state device.
 
-basic unit of quantum information – the quantum version
-
-of the classic binary bit physically realized with a two-state
-
-device. A qubit is a two-state (or two-level) quantummechanical system, e.g. spin of the electron in which two
-
-levels can be taken as spin up and spin down.
-
+**Ans: D.** QUBIT
 </details>
 
-**Q74. (I.A.S. (Pre) 2022)** Which one of the following is the context in which the
+**Q-ST74. I.A.S. (Pre) 2022**
+
+Which one of the following is the context in which the
 
 term 'qubit' is mentioned?
 
@@ -6183,36 +4811,28 @@ term 'qubit' is mentioned?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  In quantum computing the information is encoded in qubits.
+**Logic:** In quantum computing the information is encoded in qubits.
 
-A qubit (or quantum bit) is the counterpart in quantum
-
-computing to the binary digit or bit of classical computing.
-
-A qubit is a two-state quantum-mechanical system, one of
-
-the simplest quantum systems displaying the peculiarity of
-
-quantum mechanics.
-
+**Ans: B.** Quantum Computing
 </details>
 
-**Q75. (Civil Services Examination)** Consider the following statements and select the correct
+**Q-ST75. Civil Services Examination**
+
+Consider the following statements and select the correct
 
 answer from the codes given below :
 
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (*)`
-- **Logic:**
-  Refer to the high-yield notes above.
+**Logic:** Refer to the high-yield notes above.
 
+**Ans:** Refer to the high-yield notes above.
 </details>
 
-**Q76. (M.P.P.C.S. (Pre) 2008)** An exclusively private network used by employees of
+**Q-ST76. M.P.P.C.S. (Pre) 2008**
+
+An exclusively private network used by employees of
 
 a company in a single location will be classified as -
 
@@ -6223,19 +4843,14 @@ a company in a single location will be classified as -
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  A local area network (LAN) is a computer network that
+**Logic:** A local area network (LAN) is a computer network that interconnects computers within a limited area such as home, school, computer laboratory or office building by using network media.
 
-interconnects computers within a limited area such as home,
-
-school, computer laboratory or office building by using
-
-network media.
-
+**Ans: B.** Local Area Network
 </details>
 
-**Q77. (Uttrakhand U.D.A./L.D.A. (mains) 2006)** LAN means –
+**Q-ST77. Uttrakhand U.D.A./L.D.A. (mains) 2006**
+
+LAN means –
 
 (a) Large Area Network
 
@@ -6248,13 +4863,14 @@ network media.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches Local Area Network.
 
+**Ans: B.** Local Area Network
 </details>
 
-**Q78. (M.P.P.C.S. (Pre) 2017)** Ethernet is an example of
+**Q-ST78. M.P.P.C.S. (Pre) 2017**
+
+Ethernet is an example of
 
 (a) MAN (b) LAN
 
@@ -6263,17 +4879,14 @@ network media.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  Ethernet is a network protocol that controls how data is
+**Logic:** Ethernet is a network protocol that controls how data is transmitted over LAN.
 
-transmitted over LAN. Technically it is referred to as the
-
-IEEE 802.3 protocol.
-
+**Ans: B.** LAN
 </details>
 
-**Q79. (M.P.P.C.S. (Pre) 2008)** In a database, field is –
+**Q-ST79. M.P.P.C.S. (Pre) 2008**
+
+In a database, field is –
 
 (a) Label
 
@@ -6286,13 +4899,14 @@ IEEE 802.3 protocol.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  In a database, field is a category of information.
+**Logic:** In a database, field is a category of information.
 
+**Ans: D.** Category of information
 </details>
 
-**Q80. (Jharkhand P.C.S. (Pre) 2023)** Which part of Central Processing Unit (CPU) performs
+**Q-ST80. Jharkhand P.C.S. (Pre) 2023**
+
+Which part of Central Processing Unit (CPU) performs
 
 calculations and makes decisions?
 
@@ -6307,23 +4921,14 @@ calculations and makes decisions?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  Arithmetic Logic Unit (ALU) is responsible for performing
+**Logic:** Arithmetic Logic Unit (ALU) is responsible for performing calculations and contains decision-making mechanisms.
 
-calculations and contains decision-making mechanisms. In
-
-the computer system, ALU is a main component of the central
-
-processing unit (CPU), which performs all arithmetic and
-
-logic operations that must be performed on instruction words.
-
-G–188 General Studies General Science
-
+**Ans: D.** Arithmetic Logic Unit
 </details>
 
-**Q81. (R.A.S./R.T.S. (Pre) 2003)** In computers Dictionary, the letters CD is used for :
+**Q-ST81. RAS/RTS (Pre) 2003**
+
+In computers Dictionary, the letters CD is used for :
 
 (a) Compact disc (b) Compressed disc
 
@@ -6332,19 +4937,14 @@ G–188 General Studies General Science
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  CD – Compact Disc; Some other abbreviations are :
+**Logic:** CD – Compact Disc; Some other abbreviations are : E-mail – Electronic Mail, IC – Integrated Circuit, IP – Internet Protocol, LAN – Local Area Network, CAD – Computer Aided Design.
 
-E-mail – Electronic Mail, IC – Integrated Circuit, IP – Internet
-
-Protocol, LAN – Local Area Network, CAD – Computer
-
-Aided Design.
-
+**Ans: A.** Compact disc
 </details>
 
-**Q82. (Civil Services Examination)** A new optical disc format known as the Blu-ray Disc
+**Q-ST82. Civil Services Examination**
+
+A new optical disc format known as the Blu-ray Disc
 
 (BD) is becoming popular. In what way is it different
 
@@ -6353,13 +4953,14 @@ from the traditional DVD?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (*)`
-- **Logic:**
-  Refer to the high-yield notes above.
+**Logic:** Refer to the high-yield notes above.
 
+**Ans:** Refer to the high-yield notes above.
 </details>
 
-**Q83. (Uttrakhand U.D.A./L.D.A. (Mains) 2006)** Which of the following is not a computer hardware ?
+**Q-ST83. Uttrakhand U.D.A./L.D.A. (Mains) 2006**
+
+Which of the following is not a computer hardware ?
 
 (a) Printer (b) Compiler
 
@@ -6368,19 +4969,14 @@ from the traditional DVD?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  Compiler is not a computer hardware. It is a special program
+**Logic:** Compiler is not a computer hardware.
 
-that processes statements written in a particular programming
-
-language and converts them into machine language or “code”
-
-which computer’s processor uses.
-
+**Ans: B.** Compiler
 </details>
 
-**Q84. (M.P.P.C.S. (Pre) 2010)** 'Microsoft Word' is an example of –
+**Q-ST84. M.P.P.C.S. (Pre) 2010**
+
+'Microsoft Word' is an example of –
 
 (a) An operation system
 
@@ -6393,13 +4989,14 @@ which computer’s processor uses.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches Application software.
 
+**Ans: D.** Application software
 </details>
 
-**Q85. (M.P.P.C.S. (Pre) 2014)** Word processing, spreadsheet and photo editing are
+**Q-ST85. M.P.P.C.S. (Pre) 2014**
+
+Word processing, spreadsheet and photo editing are
 
 examples of –
 
@@ -6414,21 +5011,14 @@ examples of –
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  Word processing, spreadsheet and photo editing are the
+**Logic:** Word processing, spreadsheet and photo editing are the examples of application software.
 
-examples of application software. Some more application
-
-software are video and Audio editing, desktop publishing,
-
-Computer-Aided Design (CAD) etc.
-
-G–191 General Studies General Science
-
+**Ans: A.** Application software
 </details>
 
-**Q86. (M.P.P.C.S. (Pre) 2008)** Word processors, Spreadsheets are examples of –
+**Q-ST86. M.P.P.C.S. (Pre) 2008**
+
+Word processors, Spreadsheets are examples of –
 
 (a) System Software
 
@@ -6441,13 +5031,14 @@ G–191 General Studies General Science
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches Application Software.
 
+**Ans: B.** Application Software
 </details>
 
-**Q87. (M.P.P.C.S. (Pre) 2016)** The basic unit of Excel spreadsheet where we enter
+**Q-ST87. M.P.P.C.S. (Pre) 2016**
+
+The basic unit of Excel spreadsheet where we enter
 
 data is known as :
 
@@ -6458,15 +5049,14 @@ data is known as :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  The basic unit of Excel spreadsheet where data is entered is
+**Logic:** The basic unit of Excel spreadsheet where data is entered is called the cell.
 
-called the cell. It consists of a row and columns.
-
+**Ans: C.** Cell (d) None of the above
 </details>
 
-**Q88. (M.P. P.C.S. (Pre) 2025)** 'Adobe Photoshop' is an example of which type of
+**Q-ST88. M.P. P.C.S. (Pre) 2025**
+
+'Adobe Photoshop' is an example of which type of
 
 general purpose application software?
 
@@ -6481,31 +5071,14 @@ general purpose application software?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  & (b)
+**Logic:** & (b) Adobe Photoshop is a raster graphics editor developed and published by Adobe for Windows and macOS.
 
-Adobe Photoshop is a raster graphics editor developed and
-
-published by Adobe for Windows and macOS. It is a leading
-
-multimedia graphics software, widely used for image editing,
-
-photo manipulation, and creating a wide range of graphics
-
-for various multimedia applications. Adobe Photoshop
-
-can be used to create, edit, and manage images, artwork,
-
-and illustrations. It's a leading photo editing tool for many
-
-industries, including entertainment, design, and marketing.
-
-Hence, option (a) and (b) both are correct.
-
+**Ans: A.** Graphics Software
 </details>
 
-**Q89. (R.A.S./R.T.S. (Pre) 2023)** Which of the following file format is not a video file
+**Q-ST89. RAS/RTS (Pre) 2023**
+
+Which of the following file format is not a video file
 
 format?
 
@@ -6516,17 +5089,14 @@ format?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  Among the given file formats, .MP3 is a audio file format
+**Logic:** Among the given file formats, .MP3 is a audio file format while .MP4, .MOV (MPEG4 Video) and .AVI are video file formats.
 
-while .MP4, .MOV (MPEG4 Video) and .AVI are video file
-
-formats.
-
+**Ans: A.** MP3 (b) .MP4
 </details>
 
-**Q90. (M.P. P.C.S. (Pre) 2024)** MPEG stands for :
+**Q-ST90. M.P. P.C.S. (Pre) 2024**
+
+MPEG stands for :
 
 (a) Moving Picture Experts Guide
 
@@ -6539,35 +5109,14 @@ formats.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  The Moving Picture Experts Group (MPEG) is a working
+**Logic:** The Moving Picture Experts Group (MPEG) is a working group of International Organization for Standardization (ISO) and International Electrotechnical Commission (IEC) in charge of the development of international standa…
 
-group of International Organization for Standardization
-
-(ISO) and International Electrotechnical Commission
-
-(IEC) in charge of the development of international
-
-standards for compression, decompression, processing, and
-
-coded representation of moving pictures, audio and their
-
-combination. Together with Joint Photographic Experts
-
-Group (JPEG), MPEG is organized under ISO/IEC JTC 1/SC
-
-29 – Coding of audio, picture, multimedia and hypermedia
-
-information (ISO/IEC Joint Technical Committee 1,
-
-Subcommittee 29).
-
-G–192 General Studies General Science
-
+**Ans: B.** Moving Picture Experts Group
 </details>
 
-**Q91. (M.P. P.C.S. (Pre) 2023)** Which electronic device was used in Second Generation
+**Q-ST91. M.P. P.C.S. (Pre) 2023**
+
+Which electronic device was used in Second Generation
 
 Computers?
 
@@ -6582,21 +5131,14 @@ Computers?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  Transistors were used in the second generation computers.
+**Logic:** Transistors were used in the second generation computers.
 
-A second generation computer, is a type of computer that,
-
-as opposed to vacuum tubes (of first generation computers),
-
-relies on descrete transistors as its principal component to
-
-do the processing.
-
+**Ans: C.** Transistors
 </details>
 
-**Q92. (Chhattisgarh P.C.S. (Pre) 2019)** In computers, chip is made up of :
+**Q-ST92. Chhattisgarh P.C.S. (Pre) 2019**
+
+In computers, chip is made up of :
 
 (a) A thin layer of cobalt (b) A thin layer of silicon
 
@@ -6605,13 +5147,12 @@ do the processing.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  See the explanation of above question.
-
+**Ans: B.** A thin layer of silicon
 </details>
 
-**Q93. (Chhattisgarh P.C.S (Pre) 2013)** What material is used to coat the integrated circuit
+**Q-ST93. Chhattisgarh P.C.S (Pre) 2013**
+
+What material is used to coat the integrated circuit
 
 (IC) chip ?
 
@@ -6624,13 +5165,14 @@ do the processing.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches Silicon (b) Nickel.
 
+**Ans: A.** Silicon (b) Nickel
 </details>
 
-**Q94. (R.A.S./R.T.S.(Pre) 2013)** Which of the following statements is correct?
+**Q-ST94. RAS/RTS(Pre) 2013**
+
+Which of the following statements is correct?
 
 (a) Modem is a software.
 
@@ -6645,17 +5187,14 @@ and vice-versa.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  The full form of the modem is Modulator/Demodulator. It
+**Logic:** The full form of the modem is Modulator/Demodulator.
 
-converts digital signal to analog signal and analog signal to
-
-digital signal.
-
+**Ans: D.** Modem converts the analog signal into digital signal
 </details>
 
-**Q95. (Chhattisgarh P.C.S. (Pre) 2019)** Which of the following performs, modulation and
+**Q-ST95. Chhattisgarh P.C.S. (Pre) 2019**
+
+Which of the following performs, modulation and
 
 demodulation?
 
@@ -6666,13 +5205,14 @@ demodulation?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches Modem (d) Satellite.
 
+**Ans: C.** Modem (d) Satellite
 </details>
 
-**Q96. (M.P.P.C.S. (Pre) 2017)** A modem converts :
+**Q-ST96. M.P.P.C.S. (Pre) 2017**
+
+A modem converts :
 
 (a) analog signals into digital signals
 
@@ -6685,15 +5225,14 @@ demodulation?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches Both (A) and (B).
 
-G–194 General Studies General Science
-
+**Ans: C.** Both (A) and (B)
 </details>
 
-**Q97. (Jharkhand P.C.S. (Pre) 2021)** The form of information signal used in sending fax and
+**Q-ST97. Jharkhand P.C.S. (Pre) 2021**
+
+The form of information signal used in sending fax and
 
 email is :
 
@@ -6708,15 +5247,14 @@ email is :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  The form of information signal used in sending fax and email
+**Logic:** The form of information signal used in sending fax and email through phone lines is both analog and digital signal.
 
-through phone lines is both analog and digital signal.
-
+**Ans: B.** Analog and Digital signal both
 </details>
 
-**Q98. (M.P.P.C.S. (Pre) 2023)** ______ is the process by which the receiver interprets
+**Q-ST98. M.P.P.C.S. (Pre) 2023**
+
+______ is the process by which the receiver interprets
 
 the symbols used by the source of the message.
 
@@ -6727,15 +5265,14 @@ the symbols used by the source of the message.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  Decoding is the process by which the receiver interprets the
+**Logic:** Decoding is the process by which the receiver interprets the symbols used by the source of the message.
 
-symbols used by the source of the message.
-
+**Ans: B.** Decoding
 </details>
 
-**Q99. (M.P.P.C.S. (Pre) 2014)** Which of the following is not a connecting device?
+**Q-ST99. M.P.P.C.S. (Pre) 2014**
+
+Which of the following is not a connecting device?
 
 (a) Router (b) Hub
 
@@ -6744,15 +5281,14 @@ symbols used by the source of the message.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (*)`
-- **Logic:**
-  Router, Switch, and Hub–all are connecting devices. MPPSC
+**Logic:** Router, Switch, and Hub–all are connecting devices.
 
-considered this question as bonus in their answer key.
-
+**Ans:** Router, Switch, and Hub–all are connecting devices.
 </details>
 
-**Q100. (M.P. P.C.S. (Pre) 2021)** A _______ is used to transfer data packets between two
+**Q-ST100. M.P. P.C.S. (Pre) 2021**
+
+A _______ is used to transfer data packets between two
 
 computer networks.
 
@@ -6763,47 +5299,14 @@ computer networks.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (*)`
-- **Logic:**
-  A network switch connects devices within a network (often a
+**Logic:** A network switch connects devices within a network (often a local area network or LAN) and forwards data packets to and from those devices.
 
-local area network or LAN) and forwards data packets to and
-
-from those devices. Switches send packets directly to devices,
-
-rather than sending them to networks like a router does.
-
-A router is a networking device that forwards data packets
-
-between computer networks. Routers perform the traffic
-
-directing functions on the Internet. Data sent through the
-
-Internet, such as a web page or email, is in the form of data
-
-packets.
-
-A brouter (also known as the bridging router) is a device that
-
-combines features of both bridge and router. Working as a
-
-router, it is capable of routing data packets across networks
-
-and working as the bridge, it is capable of filtering local area
-
-network traffic.
-
-A computer gateway in a network examines the data packet
-
-and then passes it to the other network. It checks compatibility
-
-between the two networks and then converts the data packet
-
-to ensure that it can be transmitted between them.
-
+**Ans:** A network switch connects devices within a network (often a local area network or LAN) and forwards data packets to and from those devices.
 </details>
 
-**Q101. (M.P.P.C.S. (Pre) 2008)** To increase the length of a network without loss of
+**Q-ST101. M.P.P.C.S. (Pre) 2008**
+
+To increase the length of a network without loss of
 
 signal strength, we would use -
 
@@ -6814,17 +5317,14 @@ signal strength, we would use -
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  The repeater is a networking component that extends the
+**Logic:** The repeater is a networking component that extends the length of a network by amplifying the signal so that it can travel further along the cable without any loss.
 
-length of a network by amplifying the signal so that it can
-
-travel further along the cable without any loss.
-
+**Ans: A.** Repeater (b) Router
 </details>
 
-**Q102. (R.A.S./R.T.S.(Pre) 2013)** Celeron, Pentium, and Core series are of –
+**Q-ST102. RAS/RTS(Pre) 2013**
+
+Celeron, Pentium, and Core series are of –
 
 (a) Computer RAM (b) Computer microchips
 
@@ -6833,17 +5333,14 @@ travel further along the cable without any loss.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  Celeron, Pentium, and Core are the series of computer
+**Logic:** Celeron, Pentium, and Core are the series of computer processor.
 
-processor.
-
-G–195 General Studies General Science
-
+**Ans: C.** Computer processor
 </details>
 
-**Q103. (Uttrakhand U.D.A./LDA (Mains) 2006)** ROM is a memory –
+**Q-ST103. Uttrakhand U.D.A./LDA (Mains) 2006**
+
+ROM is a memory –
 
 (a) To read only (b) To write only
 
@@ -6852,23 +5349,14 @@ G–195 General Studies General Science
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  ROM means Read-Only Memory. Once data has been written
+**Logic:** ROM means Read-Only Memory.
 
-onto a ROM chip, it cannot be removed and can only be read.
-
-Unlike main memory RAM (Random-Access Memory),
-
-ROM retains its contents even when the computer is turned
-
-off. ROM is referred to as being non-volatile, whereas RAM
-
-is volatile.
-
+**Ans: A.** To read only
 </details>
 
-**Q104. (Jharkhand P.C.S. (Pre) 2023)** Which of the following is not true about RAM?
+**Q-ST104. Jharkhand P.C.S. (Pre) 2023**
+
+Which of the following is not true about RAM?
 
 (a) RAM is a temporary storage area
 
@@ -6883,41 +5371,14 @@ is turned off
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  Random Access Memory (RAM) is the hardware in a
+**Logic:** Random Access Memory (RAM) is the hardware in a computing device that provides temporary storage for the operating system (OS), software programs and any other data in current use so they're quickly available to the dev…
 
-computing device that provides temporary storage for the
-
-operating system (OS), software programs and any other
-
-data in current use so they're quickly available to the device's
-
-processor. Random access memory is considered part of a
-
-computer's primary memory. It is much faster to read from
-
-and write to than secondary storage, such as hard disk drives
-
-(HDDs), solid-state drives (SSDs) or optical drives. However,
-
-RAM is volatile; it retains data only as long as the computer
-
-is on. If power is lost, so is the data. When the computer is
-
-rebooted, the OS and other files must be reloaded into RAM,
-
-usually from an HDD or SSD. Hence, statement of option
-
-(b) is not true about RAM, while statements of other three
-
-options are correct.
-
-G–196 General Studies General Science
-
+**Ans: B.** RAM is like a hard disc storage
 </details>
 
-**Q105. (M.P.P.C.S. (Pre) 2020)** Which is not a type of secondary memory?
+**Q-ST105. M.P.P.C.S. (Pre) 2020**
+
+Which is not a type of secondary memory?
 
 (a) Solid State Drive
 
@@ -6930,19 +5391,14 @@ G–196 General Studies General Science
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  Solid State Drive, Hard Disk and USB Pen Drive are types
+**Logic:** Solid State Drive, Hard Disk and USB Pen Drive are types of computer's external or secondary memory while Random Access Memory (RAM) is part of computer's internal or primary memory.
 
-of computer's external or secondary memory while Random
-
-Access Memory (RAM) is part of computer's internal or
-
-primary memory.
-
+**Ans: C.** Random Access Memory (RAM)
 </details>
 
-**Q106. (M.P.P.C.S. (Pre) 2010)** Which of the following memories has the shortest
+**Q-ST106. M.P.P.C.S. (Pre) 2010**
+
+Which of the following memories has the shortest
 
 access time?
 
@@ -6957,21 +5413,14 @@ access time?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  Cache memory, also called as CPU memory, is a memory that
+**Logic:** Cache memory, also called as CPU memory, is a memory that a computer microprocessor can access more quickly than it can access regular RAM.
 
-a computer microprocessor can access more quickly than it
-
-can access regular RAM. The Cache has the shortest access
-
-time or latency of all the levels of the storage system and the
-
-highest bandwidth.
-
+**Ans: A.** Cache memory
 </details>
 
-**Q107. (Chhattisgarh P.C.S. (Pre) 2024)** Which of the following memory of the computer is used
+**Q-ST107. Chhattisgarh P.C.S. (Pre) 2024**
+
+Which of the following memory of the computer is used
 
 to speed up the computer processing?
 
@@ -6982,19 +5431,14 @@ to speed up the computer processing?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  Cache memory is the fastest memory in a computer and is
+**Logic:** Cache memory is the fastest memory in a computer and is used to speed up the computer processing.
 
-used to speed up the computer processing. It is used to speed
-
-up access to data and applications. It is built into the CPU
-
-and is typically integrated onto the motherboard.
-
+**Ans: A.** Cache memory
 </details>
 
-**Q108. (M.P.P.C.S. (Pre) 1990)** COBOL is :
+**Q-ST108. M.P.P.C.S. (Pre) 1990**
+
+COBOL is :
 
 (a) Coal ash (b) Computer language
 
@@ -7003,15 +5447,14 @@ and is typically integrated onto the motherboard.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  COBOL stands for Common Business Oriented Language. It
+**Logic:** COBOL stands for Common Business Oriented Language.
 
-is a computer language developed for professional interest.
-
+**Ans: B.** Computer language
 </details>
 
-**Q109. (41st B.P.S.C. (Pre) 1996)** Which one of the following is not the language of
+**Q-ST109. 41st B.P.S.C. (Pre) 1996**
+
+Which one of the following is not the language of
 
 computer?
 
@@ -7022,21 +5465,14 @@ computer?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  BASIC is a computer language. It is an acronym for
+**Logic:** BASIC is a computer language.
 
-'Beginner's All Purpose Symbolic Instruction Code'.
-
-FORTRAN is acronym for 'Formula Translation'. It is a high
-
-level computer language. C is also a computer language.
-
-FAST is not a computer language.
-
+**Ans: C.** FAST (d) FORTRAN
 </details>
 
-**Q110. (M.P.P.C.S. (Pre) 2015)** Which is not a computer language?
+**Q-ST110. M.P.P.C.S. (Pre) 2015**
+
+Which is not a computer language?
 
 (a) Basic (b) C++
 
@@ -7045,26 +5481,26 @@ FAST is not a computer language.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  Paint brush is not a computer language while C++, JAVA, and
+**Logic:** Paint brush is not a computer language while C++, JAVA, and BASIC are computer languages.
 
-BASIC are computer languages.
-
+**Ans: D.** Paint brush
 </details>
 
-**Q111. (Civil Services Examination)** Which of the following are computer languages?
+**Q-ST111. Civil Services Examination**
+
+Which of the following are computer languages?
 
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (*)`
-- **Logic:**
-  Refer to the high-yield notes above.
+**Logic:** Refer to the high-yield notes above.
 
+**Ans:** Refer to the high-yield notes above.
 </details>
 
-**Q112. (M.P.P.C.S. (Pre) 2019)** Which one of the following is computer high-level
+**Q-ST112. M.P.P.C.S. (Pre) 2019**
+
+Which one of the following is computer high-level
 
 programming language?
 
@@ -7075,19 +5511,14 @@ programming language?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  COBOL, PASCAL and BASIC, all of these are computer
+**Logic:** COBOL, PASCAL and BASIC, all of these are computer high-level programming languages.
 
-high-level programming languages. Some other high-level
-
-programming languages are FORTRAN, Java, Python, Visual
-
-Basic etc.
-
+**Ans: D.** All of the above
 </details>
 
-**Q113. (M.P.P.C.S. (Pre) 2019)** JSP stands for :
+**Q-ST113. M.P.P.C.S. (Pre) 2019**
+
+JSP stands for :
 
 (a) Java Simple Pages (b) Java System Protocol
 
@@ -7096,21 +5527,14 @@ Basic etc.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  JSP (Java Server Pages) is a collection of technologies that
+**Logic:** JSP (Java Server Pages) is a collection of technologies that helps software developers create dynamically generated web pages based on HTML, XML, SOAP, or other document types.
 
-helps software developers create dynamically generated web
-
-pages based on HTML, XML, SOAP, or other document
-
-types. Released in 1999 by Sun Microsystems, JSP is similar
-
-to PHP and ASP, but uses the Java programming language.
-
+**Ans: C.** Java Server Pages
 </details>
 
-**Q114. (R.A.S./R.T.S. (Pre) 2018)** The machine language of computer is based on :
+**Q-ST114. RAS/RTS (Pre) 2018**
+
+The machine language of computer is based on :
 
 (a) Abstract Algebra (b) Matrix Algebra
 
@@ -7119,19 +5543,14 @@ to PHP and ASP, but uses the Java programming language.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  The machine language of computer is based on Boolean
+**Logic:** The machine language of computer is based on Boolean algebra.
 
-algebra. It is the form of mathematics which deals with statements as well as their Boolean values. Boolean algebra is a
-
-type of mathematical operation that, unlike regular algebra
-
-works with binary digits (bits) 0 and 1.
-
+**Ans: C.** Boolean Algebra
 </details>
 
-**Q115. (M.P.P.C.S. (Pre) 2008)** If a domain name ends with .edu.us, then it is –
+**Q-ST115. M.P.P.C.S. (Pre) 2008**
+
+If a domain name ends with .edu.us, then it is –
 
 (a) An international organization
 
@@ -7144,17 +5563,14 @@ works with binary digits (bits) 0 and 1.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  .us domain name refers to United States (America) and .edu
+**Logic:** .us domain name refers to United States (America) and .edu refers to education.
 
-refers to education. Therefore .edu.us is the domain name of
-
-an American educational institution.
-
+**Ans: D.** An educational institute in USA
 </details>
 
-**Q116. (M.P.P.C.S. (Pre) 2012)** Which of the following is a valid domain name
+**Q-ST116. M.P.P.C.S. (Pre) 2012**
+
+Which of the following is a valid domain name
 
 extension?
 
@@ -7165,19 +5581,14 @@ extension?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  The part after the final dot in the domain name is called top
+**Logic:** The part after the final dot in the domain name is called top level domain such as www.
 
-level domain such as www. cnn.com. In this ".com" is the
-
-top level domain. Other top level domains are : .edu, .gov,
-
-.org, .net, .info etc.
-
+**Ans: D.** All of the above
 </details>
 
-**Q117. (Civil Services Examination)** With reference to communication technologies, what
+**Q-ST117. Civil Services Examination**
+
+With reference to communication technologies, what
 
 is/are the difference/differences between LTE (LongTerm Evolution) and VoLTE (Voice over Long-Term
 
@@ -7186,13 +5597,14 @@ Evolution)?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (*)`
-- **Logic:**
-  Refer to the high-yield notes above.
+**Logic:** Refer to the high-yield notes above.
 
+**Ans:** Refer to the high-yield notes above.
 </details>
 
-**Q118. (Civil Services Examination)** With reference to Visible Light Communication
+**Q-ST118. Civil Services Examination**
+
+With reference to Visible Light Communication
 
 (VLC) technology, which of the following statements
 
@@ -7201,13 +5613,14 @@ are correct?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (*)`
-- **Logic:**
-  Refer to the high-yield notes above.
+**Logic:** Refer to the high-yield notes above.
 
+**Ans:** Refer to the high-yield notes above.
 </details>
 
-**Q119. (Civil Services Examination)** With reference to ‘Near Field Communication (NFC)
+**Q-ST119. Civil Services Examination**
+
+With reference to ‘Near Field Communication (NFC)
 
 Technology’, which of the following statements is/are
 
@@ -7216,37 +5629,40 @@ correct ?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (*)`
-- **Logic:**
-  Refer to the high-yield notes above.
+**Logic:** Refer to the high-yield notes above.
 
+**Ans:** Refer to the high-yield notes above.
 </details>
 
-**Q120. (Civil Services Examination)** Consider the following communication technologies :
+**Q-ST120. Civil Services Examination**
+
+Consider the following communication technologies :
 
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (*)`
-- **Logic:**
-  Refer to the high-yield notes above.
+**Logic:** Refer to the high-yield notes above.
 
+**Ans:** Refer to the high-yield notes above.
 </details>
 
-**Q121. (Civil Services Examination)** In the context of digital technologies for entertainment,
+**Q-ST121. Civil Services Examination**
+
+In the context of digital technologies for entertainment,
 
 consider the following statements :
 
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (*)`
-- **Logic:**
-  Refer to the high-yield notes above.
+**Logic:** Refer to the high-yield notes above.
 
+**Ans:** Refer to the high-yield notes above.
 </details>
 
-**Q122. (M.P.P.C.S. (Pre) 2022)** Who is known as father of Artificial Intelligence?
+**Q-ST122. M.P.P.C.S. (Pre) 2022**
+
+Who is known as father of Artificial Intelligence?
 
 (a) Alan Turing (b) John McCarthy
 
@@ -7255,21 +5671,14 @@ consider the following statements :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  John McCarthy was one of the most influential people in
+**Logic:** John McCarthy was one of the most influential people in the field of computer science.
 
-the field of computer science. He is known as the 'father of
-
-Artificial Intelligence (AI)' because of his fantastic work
-
-in Computer Science and AI. McCarthy coined the term
-
-'Artificial Intelligence' in the 1950s.
-
+**Ans: B.** John McCarthy
 </details>
 
-**Q123. (M.P.P.C.S. (Pre) 2024)** The 'Imitation Game' was the original name of :
+**Q-ST123. M.P.P.C.S. (Pre) 2024**
+
+The 'Imitation Game' was the original name of :
 
 (a) LISP (b) The Turing Test
 
@@ -7278,25 +5687,14 @@ in Computer Science and AI. McCarthy coined the term
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  TheTuringTest is a method of inquiry in artificial intelligence
+**Logic:** TheTuringTest is a method of inquiry in artificial intelligence (AI) for determining whether or not a machine or computer is capable of thinking like a human being.
 
-(AI) for determining whether or not a machine or computer
-
-is capable of thinking like a human being. The test is named
-
-after Alan Turing, the founder of the Turing Test. The Turing
-
-test, originally called the imitation game by Alan Turing in
-
-1949, is a test of a machine's ability to exhibit intelligent
-
-behaviour equivalent to that of a human.
-
+**Ans: B.** The Turing Test
 </details>
 
-**Q124. (R.A.S./R.T.S. (Pre) 2024)** Regarding Artificial Intelligence (AI), identify the
+**Q-ST124. RAS/RTS (Pre) 2024**
+
+Regarding Artificial Intelligence (AI), identify the
 
 correct statements using the codes given below :
 
@@ -7323,63 +5721,14 @@ Codes :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  Artificial Intelligence (AI) is a broad field, which refers to
+**Logic:** Artificial Intelligence (AI) is a broad field, which refers to the use of technologies to build machines and computers that have the ability to mimic cognitive functions associated with human intelligence, such as being…
 
-the use of technologies to build machines and computers that
-
-have the ability to mimic cognitive functions associated with
-
-human intelligence, such as being able to see, understand, and
-
-respond to spoken or written language, analyze data, make
-
-recommendations, and more.
-
-Machine learning (ML) is a subset of artificial intelligence
-
-that automatically enables a machine or system to learn and
-
-improve from experience. Instead of explicit programming,
-
-machine learning uses algorithms to analyze large amounts
-
-of data, learn from the insights, and then make informed
-
-decisions.
-
-Supervised learning (SL) is a category of machine learning
-
-that uses labeled input datasets to train algorithms to predict
-
-outcomes and recognize patterns. It involves labeling data,
-
-building a model, and testing the model's performance. The
-
-goal of the learning process is to create a model that can
-
-predict correct outputs on new real-world data.
-
-Reinforcement learning (RL) is a machine learning technique
-
-that trains software to make decisions to achieve the most
-
-optimal results. In reinforcement learning, machines learn
-
-through trial and error by interacting with an environment,
-
-receiving feedback in the form of rewards or penalties, and
-
-adjusting their actions to maximize cumulative rewards.
-
-Hence, statement A and C are correct while statement B is
-
-incorrect.
-
+**Ans: B.** Supervised learning involves training a computer
 </details>
 
-**Q125. (M.P.P.C.S. (Pre) 2024)** The branch of Artificial Intelligence is _____.
+**Q-ST125. M.P.P.C.S. (Pre) 2024**
+
+The branch of Artificial Intelligence is _____.
 
 (a) Network Design (b) Cyber Forensics
 
@@ -7388,21 +5737,14 @@ incorrect.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  Machine learning (ML) is a branch of Artificial Intelligence
+**Logic:** Machine learning (ML) is a branch of Artificial Intelligence (AI) focused on enabling computers and machines to imitate the way that humans learn, to perform tasks autonomously, and to improve their performance and accu…
 
-(AI) focused on enabling computers and machines to imitate
-
-the way that humans learn, to perform tasks autonomously,
-
-and to improve their performance and accuracy through
-
-experience and exposure to more data.
-
+**Ans: D.** Machine Learning
 </details>
 
-**Q126. (M.P.P.C.S. (Pre) 2022)** Which of the following is not a source of Artificial
+**Q-ST126. M.P.P.C.S. (Pre) 2022**
+
+Which of the following is not a source of Artificial
 
 Intelligence bias?
 
@@ -7413,38 +5755,28 @@ Intelligence bias?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  In the context of AI, bias can arise from various sources,
+**Logic:** In the context of AI, bias can arise from various sources, including data collection, algorithm design, and human interpretation.
 
-including data collection, algorithm design, and human
-
-interpretation. Machine learning models, a type of AI system,
-
-can learn and replicate patterns of bias present in the data used
-
-to train them, resulting in unfair or discriminatory outcomes.
-
-It is important to identify and address bias in AI to ensure that
-
-these systems are fair and equitable for all users.
-
+**Ans: D.** Ability
 </details>
 
-**Q127. (Civil Services Examination)** With the present state of development, Artificial
+**Q-ST127. Civil Services Examination**
+
+With the present state of development, Artificial
 
 Intelligence can effectively do which of the following?
 
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (*)`
-- **Logic:**
-  Refer to the high-yield notes above.
+**Logic:** Refer to the high-yield notes above.
 
+**Ans:** Refer to the high-yield notes above.
 </details>
 
-**Q128. (M.P.P.C.S. (Pre) 2025)** FPGA are integrated circuits that are widely used to
+**Q-ST128. M.P.P.C.S. (Pre) 2025**
+
+FPGA are integrated circuits that are widely used to
 
 deploy AI. What is the full form of FPGA?
 
@@ -7459,29 +5791,14 @@ deploy AI. What is the full form of FPGA?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  Field Programmable Gate Array (FPGA) is a type of
+**Logic:** Field Programmable Gate Array (FPGA) is a type of integrated circuit (IC) that can be reconfigured after manufacturing.
 
-integrated circuit (IC) that can be reconfigured after
-
-manufacturing. FPGAs are used in many applications,
-
-including signal processing, communications, and more.
-
-FPGAs are used in AI for their reconfigurable architecture,
-
-enabling efficient and customized hardware acceleration,
-
-especially for AI inference and edge deployments, offering
-
-advantages in power efficiency, low latency, and adaptation
-
-to evolving AI models.
-
+**Ans: A.** Field Programmable Gate Array
 </details>
 
-**Q129. (Chhattisgarh P.C.S. (Pre) 2023)** What is the name of the Air India's a Generative AI
+**Q-ST129. Chhattisgarh P.C.S. (Pre) 2023**
+
+What is the name of the Air India's a Generative AI
 
 virtual agent powered by Microsoft's Azure Open AI
 
@@ -7494,27 +5811,14 @@ service?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  In 2023, Air India has become the world's first airline to
+**Logic:** In 2023, Air India has become the world's first airline to have successfully deployed a Generative AI virtual agent, called 'Maharaja', powered by Microsoft's Azure Open AI service.
 
-have successfully deployed a Generative AI virtual agent,
-
-called 'Maharaja', powered by Microsoft's Azure Open AI
-
-service. Air India's Maharaja AI Agent manages an extensive
-
-spectrum of customer queries across 1,300 areas related
-
-to flight status, baggage allowances, packing restrictions,
-
-check-in, frequent flyer awards, airport lounge access, flight
-
-changes, refunds and more.
-
+**Ans: A.** Maharaja (b) Vistara
 </details>
 
-**Q130. (M.P.P.C.S. (Pre) 2023)** ChatGPT was developed by :
+**Q-ST130. M.P.P.C.S. (Pre) 2023**
+
+ChatGPT was developed by :
 
 (a) Google (b) OpenAI
 
@@ -7523,27 +5827,14 @@ changes, refunds and more.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  ChatGPT (Chat Generative Pre-trained Transformer) is a
+**Logic:** ChatGPT (Chat Generative Pre-trained Transformer) is a AI-based chatbot developed by OpenAI and launched on November 30, 2022.
 
-AI-based chatbot developed by OpenAI and launched on
-
-November 30, 2022. Based on a large language model, it
-
-enables users to refine and steer a conversation towards a
-
-desired length, format, style, level of detail, and language.
-
-ChatGPT is a form of generative AI - a tool that lets users
-
-enter prompts to receive humanlike images, text or videos
-
-that are created by AI.
-
+**Ans: B.** OpenAI
 </details>
 
-**Q131. (I.A.S. (Pre) 2025)** Consider the following statements regarding AI Action
+**Q-ST131. I.A.S. (Pre) 2025**
+
+Consider the following statements regarding AI Action
 
 Summit held in Grand Palais, Paris in February 2025 :
 
@@ -7566,43 +5857,14 @@ Which of the statements given above is/are correct?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  The AI Action Summit, held in Paris on 10-11 February
+**Logic:** The AI Action Summit, held in Paris on 10-11 February 2025, was co-chaired by India’s Prime Minister Narendra Modi and France’s President Emmanuel Macron.
 
-2025, was co-chaired by India’s Prime Minister Narendra
-
-Modi and France’s President Emmanuel Macron. At this
-
-summit, the initiatives taken at the Bletchley Park AI Safety
-
-Summit (2023) and the AI Seoul Summit (2024) were further
-
-developed. Therefore, Statement I is correct.
-
-The "Statement on Inclusive and Sustainable Artificial
-
-Intelligence for People and the Planet" (2025) is an
-
-international agreement signed by over 50 countries,
-
-including India, France and China, to ensure AI development
-
-is human-centric, ethical, safe, and reduces global inequality.
-
-It prioritizes sustainable technology, open AI models,
-
-workforce protection, and bridging the digital divide,
-
-emphasizing development for the public good. The USA
-
-and UK has not signed this agreement. Hence, Statement II
-
-is incorrect.
-
+**Ans: A.** I only (b) II only
 </details>
 
-**Q132. (71st B.P.S.C. (Pre) 2025)** In which city was the AI Action Summit held in
+**Q-ST132. 71st B.P.S.C. (Pre) 2025**
+
+In which city was the AI Action Summit held in
 
 February 2025?
 
@@ -7617,13 +5879,14 @@ February 2025?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  See the explanation of above question.
+**Logic:** Standard key matches Paris.
 
+**Ans: B.** Paris
 </details>
 
-**Q133. (R.A.S./R.T.S. (Pre) 2024)** Which organization has recently launched an upgraded
+**Q-ST133. RAS/RTS (Pre) 2024**
+
+Which organization has recently launched an upgraded
 
 Mobile App 'Suvidha 2.0'?
 
@@ -7638,39 +5901,14 @@ Mobile App 'Suvidha 2.0'?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  In October, 2024, the Election Commission of India
+**Logic:** In October, 2024, the Election Commission of India has launched an upgraded Mobile App 'Suvidha 2.0' for candidates and parties.
 
-has launched an upgraded Mobile App 'Suvidha 2.0' for
-
-candidates and parties. They can now apply for campaign
-
-related permissions also in this upgraded app for greater
-
-convenience. Earlier, candidates and parties could only
-
-track the status and download approvals on the mobile app
-
-and applications for seeking permission could not be done
-
-through offline mode or web-based portal. The latest upgrade
-
-makes this app a one-stop solution for seeking, tracking and
-
-downloading all campaign related permissions. The user will
-
-be facilitated by many other features such as tracking the
-
-status of the nomination, election schedules and the regular
-
-ECI updates.
-
-G–203 General Studies General Science
-
+**Ans: A.** Election Commission of India
 </details>
 
-**Q134. (M.P.P.C.S. (Pre) 2015)** The place where accessories are connected in computer
+**Q-ST134. M.P.P.C.S. (Pre) 2015**
+
+The place where accessories are connected in computer
 
 is known as-
 
@@ -7681,19 +5919,14 @@ is known as-
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  The port works as an interface between the computer and
+**Logic:** The port works as an interface between the computer and other computer or peripheral.
 
-other computer or peripheral. Monitor, keyboard, mouse and
-
-other parts of the computer are connected to the computer
-
-through the port. These ports are found in the motherboard.
-
+**Ans: A.** Port (b) Ring
 </details>
 
-**Q135. (I.A.S. (Pre) 2020)** In India, the term 'Public Key Infrastructure' is used
+**Q-ST135. I.A.S. (Pre) 2020**
+
+In India, the term 'Public Key Infrastructure' is used
 
 in the context of :
 
@@ -7708,35 +5941,14 @@ in the context of :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  In India, the term 'Public Key Infrastructure' (PKI) is used
+**Logic:** In India, the term 'Public Key Infrastructure' (PKI) is used in the context of digital security infrastructure.
 
-in the context of digital security infrastructure. PKI is the set
-
-of hardware, software, policies, processes and procedures
-
-required to create, manage, distribute, use, store and revoke
-
-digital certificates and manage public-key encryption. It
-
-is part of digital security infrastructure as its purpose is to
-
-facilitate the secure electronic transfer of information for
-
-a range of network activities such as e-commerce, internet
-
-banking and confidential email. It authenticates users and
-
-devices in the digital world. PKIs are the foundation that
-
-enables the use of technologies, such as digital signatures
-
-and encryption, across large user populations.
-
+**Ans: A.** Digital security infrastructure
 </details>
 
-**Q136. (M.P. P.C.S. (Pre) 2021)** Important concept(s) introduced in IT Act, 2000 :
+**Q-ST136. M.P. P.C.S. (Pre) 2021**
+
+Important concept(s) introduced in IT Act, 2000 :
 
 (a) Electronic Record (b) Digital Signature
 
@@ -7745,63 +5957,42 @@ and encryption, across large user populations.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  Electronic Record, Digital signature and Certifying Authority
+**Logic:** Electronic Record, Digital signature and Certifying Authority are among some important concepts used in the Information Technology Act, 2000.
 
-are among some important concepts used in the Information
-
-Technology Act, 2000. As per the definitions given in the
-
-Section 2 of this act :
-
-'Electronic Record' means data, record or data generated,
-
-image or sound stored, received or sent in an electronic form
-
-or micro film or computer generated micro fiche;
-
-'Digital Signature' means authentication of any electronic
-
-record by a subscriber by means of an electronic method or
-
-procedure in accordance with the provisions of section 3; and
-
-'Certifying Authority' means a person who has been granted
-
-a licence to issue a Digital Signature Certificate under
-
-section 24.
-
+**Ans: D.** All of the above
 </details>
 
-**Q137. (Civil Services Examination)** With reference to digital payments, consider the
+**Q-ST137. Civil Services Examination**
+
+With reference to digital payments, consider the
 
 following statements :
 
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (*)`
-- **Logic:**
-  Refer to the high-yield notes above.
+**Logic:** Refer to the high-yield notes above.
 
+**Ans:** Refer to the high-yield notes above.
 </details>
 
-**Q138. (Civil Services Examination)** Which of the following is/are the aim/aims of 'Digital
+**Q-ST138. Civil Services Examination**
+
+Which of the following is/are the aim/aims of 'Digital
 
 India' Plan of the Government of India?
 
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (*)`
-- **Logic:**
-  Refer to the high-yield notes above.
+**Logic:** Refer to the high-yield notes above.
 
+**Ans:** Refer to the high-yield notes above.
 </details>
 
-**Q139. (Civil Services Examination)** The identity platform 'Aadhaar' provides open
+**Q-ST139. Civil Services Examination**
+
+The identity platform 'Aadhaar' provides open
 
 'Application Programming Interfaces (APIs)'. What
 
@@ -7810,39 +6001,42 @@ does it imply?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (*)`
-- **Logic:**
-  Refer to the high-yield notes above.
+**Logic:** Refer to the high-yield notes above.
 
+**Ans:** Refer to the high-yield notes above.
 </details>
 
-**Q140. (Civil Services Examination)** With reference to 'Blockchain Technology', consider
+**Q-ST140. Civil Services Examination**
+
+With reference to 'Blockchain Technology', consider
 
 the following statements:
 
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (*)`
-- **Logic:**
-  Refer to the high-yield notes above.
+**Logic:** Refer to the high-yield notes above.
 
+**Ans:** Refer to the high-yield notes above.
 </details>
 
-**Q141. (Civil Services Examination)** With reference to Web 3.0, consider the following
+**Q-ST141. Civil Services Examination**
+
+With reference to Web 3.0, consider the following
 
 statements :
 
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (*)`
-- **Logic:**
-  Refer to the high-yield notes above.
+**Logic:** Refer to the high-yield notes above.
 
+**Ans:** Refer to the high-yield notes above.
 </details>
 
-**Q142. (Civil Services Examination)** Consider the following pairs :
+**Q-ST142. Civil Services Examination**
+
+Consider the following pairs :
 
 Terms sometimes Context/Topic
 
@@ -7851,13 +6045,14 @@ seen in news
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (*)`
-- **Logic:**
-  Refer to the high-yield notes above.
+**Logic:** Refer to the high-yield notes above.
 
+**Ans:** Refer to the high-yield notes above.
 </details>
 
-**Q143. (M.P.P.C.S. (Pre) 2020)** Blowfish is a type of :
+**Q-ST143. M.P.P.C.S. (Pre) 2020**
+
+Blowfish is a type of :
 
 (a) Symmetric Encryption Algorithm
 
@@ -7870,25 +6065,14 @@ seen in news
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  Blowfish is an symmetric encryption technique designed by
+**Logic:** Blowfish is an symmetric encryption technique designed by Bruce Schneier in 1993 as an alternative to DES Encryption Technique.
 
-Bruce Schneier in 1993 as an alternative to DES Encryption
-
-Technique. It is significantly faster than DES and provides
-
-a good encryption rate with no effective cryptanalysis
-
-technique found to date. It is one of the first, secure block
-
-cyphers not subject to any patents and hence freely available
-
-for anyone to use.
-
+**Ans: A.** Symmetric Encryption Algorithm
 </details>
 
-**Q144. (M.P.P.C.S. (Pre) 2015)** Which work is not done by a computer?
+**Q-ST144. M.P.P.C.S. (Pre) 2015**
+
+Which work is not done by a computer?
 
 (a) Computing (b) Processing
 
@@ -7897,21 +6081,14 @@ for anyone to use.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  The computer provides information after analyzing the input
+**Logic:** The computer provides information after analyzing the input given by the user.
 
-given by the user. It happens in a phased manner –
-
-(i) Input, (ii) Processing, (iii) Computing, (iv) Outputting
-
-It is clear that the work of understanding is not done by a
-
-computer.
-
+**Ans: C.** Understanding
 </details>
 
-**Q145. (M.P.P.C.S. (Pre) 2013)** Which one is mainly used in checking of objective type
+**Q-ST145. M.P.P.C.S. (Pre) 2013**
+
+Which one is mainly used in checking of objective type
 
 answer paper in the examination?
 
@@ -7922,13 +6099,12 @@ answer paper in the examination?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  See the explanation of above question.
-
+**Ans: B.** OMR
 </details>
 
-**Q146. (Uttrakhand U.D.A./L.D.A. (Mains) 2007)** I.R.C. stands for :
+**Q-ST146. Uttrakhand U.D.A./L.D.A. (Mains) 2007**
+
+I.R.C. stands for :
 
 (a) Internet Real time Communication
 
@@ -7941,21 +6117,14 @@ answer paper in the examination?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  I.R.C. stands for Internet Relay Chat. It is an application
+**Logic:** Standard key matches Internet Relay Chat.
 
-layer protocol which allows people to communicate with each
-
-other in real time in a text based environment. It is the form
-
-of Internet chat or synchronous conferencing on the real time.
-
-G–207 General Studies General Science
-
+**Ans: B.** Internet Relay Chat
 </details>
 
-**Q147. (53rd to 55th B.P.S.C. (Pre) 2011)** For which word, the letter 'G' has been used in '2G
+**Q-ST147. 53rd to 55th B.P.S.C. (Pre) 2011**
+
+For which word, the letter 'G' has been used in '2G
 
 Spectrum'?
 
@@ -7966,28 +6135,26 @@ Spectrum'?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  2G is short for '2nd Generation' wireless telephone technology
+**Logic:** 2G is short for '2nd Generation' wireless telephone technology which enables us to send text and picture messages and has internet capabilities.
 
-which enables us to send text and picture messages and has
-
-internet capabilities.
-
+**Ans: C.** Generation (d) Google
 </details>
 
-**Q148. (Civil Services Examination)** '3D printing' has applications in which of the following?
+**Q-ST148. Civil Services Examination**
+
+'3D printing' has applications in which of the following?
 
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (*)`
-- **Logic:**
-  Refer to the high-yield notes above.
+**Logic:** Refer to the high-yield notes above.
 
+**Ans:** Refer to the high-yield notes above.
 </details>
 
-**Q149. (M.P. P.C.S. (Pre) 2022)** Which description is appropriate among the following
+**Q-ST149. M.P. P.C.S. (Pre) 2022**
+
+Which description is appropriate among the following
 
 for e-governance?
 
@@ -8002,21 +6169,14 @@ for e-governance?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  E-governance, meaning 'electronic governance' is using
+**Logic:** E-governance, meaning 'electronic governance' is using information and communication technologies (ICTs) (such as Wide Area Networks, the Internet, and mobile computing) at various levels of the government and the publi…
 
-information and communication technologies (ICTs) (such
-
-as Wide Area Networks, the Internet, and mobile computing)
-
-at various levels of the government and the public sector and
-
-beyond, for the purpose of enhancing governance.
-
+**Ans: C.** To provide technology driven governance
 </details>
 
-**Q150. (M.P. P.C.S. (Pre) 2024)** What are the four pillars of E-Governance?
+**Q-ST150. M.P. P.C.S. (Pre) 2024**
+
+What are the four pillars of E-Governance?
 
 (a) People, Process, Technology, Resources
 
@@ -8029,17 +6189,14 @@ beyond, for the purpose of enhancing governance.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  The four prominent pillars of e-governance are People,
+**Logic:** The four prominent pillars of e-governance are People, Process, Technology, and Resources.
 
-Process, Technology, and Resources. These pillars collectively
-
-support the digital transformation of governance.
-
+**Ans: A.** People, Process, Technology, Resources
 </details>
 
-**Q151. (M.P. P.C.S. (Pre) 2025)** The correct sequence of four phases of Gartner's
+**Q-ST151. M.P. P.C.S. (Pre) 2025**
+
+The correct sequence of four phases of Gartner's
 
 Evolution Model of E-Governance is :
 
@@ -8068,28 +6225,28 @@ Information
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  Gartner's e-governance model is a four-stage model that
+**Logic:** Gartner's e-governance model is a four-stage model that measures the evolution of e-government.
 
-measures the evolution of e-government. The stages are :
-
+**Ans: A.** Information → Interaction →Transaction →
 </details>
 
-**Q152. (Civil Services Examination)** Which of the following statements are correct regarding
+**Q-ST152. Civil Services Examination**
+
+Which of the following statements are correct regarding
 
 ICT based e-Governance?
 
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (*)`
-- **Logic:**
-  Refer to the high-yield notes above.
+**Logic:** Refer to the high-yield notes above.
 
+**Ans:** Refer to the high-yield notes above.
 </details>
 
-**Q153. (Uttrakhand U.D.A./L.D.A. (Mains) 2006)** A computer derives its strength from –
+**Q-ST153. Uttrakhand U.D.A./L.D.A. (Mains) 2006**
+
+A computer derives its strength from –
 
 (a) Its speed (b) Accuracy
 
@@ -8098,21 +6255,14 @@ ICT based e-Governance?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  The computer does the calculation at high speed, a microcomputer can perform millions of calculations per second.
+**Logic:** The computer does the calculation at high speed, a microcomputer can perform millions of calculations per second.
 
-A computer is a device which performs all the calculations
-
-accurately without any mistake. A computer has also, its
-
-temporary and permanent memory which helps in processing
-
-of data.
-
+**Ans: D.** All of the above
 </details>
 
-**Q154. (R.A.S./R.T.S. (Pre) 1994-95)** When an information is dialled on the telephone and
+**Q-ST154. RAS/RTS (Pre) 1994-95**
+
+When an information is dialled on the telephone and
 
 read on the television screen, it is known as-
 
@@ -8123,19 +6273,14 @@ read on the television screen, it is known as-
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  Through Telefax, one can transmit graphics and textual
+**Logic:** Through Telefax, one can transmit graphics and textual information from one location to another with the help of telephone lines.
 
-information from one location to another with the help of
-
-telephone lines. The fax was discovered by Scottish inventor
-
-Alexander Bain in 1842.
-
+**Ans: B.** Telefax
 </details>
 
-**Q155. (M.P.P.C.S. (Pre) 2010)** What can we send through video mail?
+**Q-ST155. M.P.P.C.S. (Pre) 2010**
+
+What can we send through video mail?
 
 (a) Graphics (b) Video clips
 
@@ -8144,17 +6289,14 @@ Alexander Bain in 1842.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  Video mail is a system for sending a pre-recorded video as
+**Logic:** Video mail is a system for sending a pre-recorded video as an email with a link to the video.
 
-an email with a link to the video. Graphics and video clips
-
-are the examples of the video message.
-
+**Ans: D.** All of these
 </details>
 
-**Q156. (M.P.P.C.S. (Pre) 2017)** The service of the Internet that provides 'audio' and
+**Q-ST156. M.P.P.C.S. (Pre) 2017**
+
+The service of the Internet that provides 'audio' and
 
 'video' conversation, is called :
 
@@ -8165,23 +6307,14 @@ are the examples of the video message.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  Video conferencing (or video conference) means to conduct
+**Logic:** Video conferencing (or video conference) means to conduct a conference between two or more participants at different sites by using computer network to transmit audio and video data.
 
-a conference between two or more participants at different
-
-sites by using computer network to transmit audio and video
-
-data. Video conferencing system works much like a video
-
-telephone. Each participant has a video camera, microphone,
-
-and speakers mounted on his or her computer.
-
+**Ans: C.** video conferencing
 </details>
 
-**Q157. (M.P.P.C.S. (Pre) 2012)** Video conferencing is :
+**Q-ST157. M.P.P.C.S. (Pre) 2012**
+
+Video conferencing is :
 
 (a) Conduct of video calls using telecom technology
 
@@ -8196,19 +6329,14 @@ technology
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  Video conferencing is the conduct of video call by a set of
+**Logic:** Video conferencing is the conduct of video call by a set of telecommunication technologies which allows two or more locations to communicate by simultaneous two-way video and audio transmissions.
 
-telecommunication technologies which allows two or more
-
-locations to communicate by simultaneous two-way video
-
-and audio transmissions.
-
+**Ans: A.** Conduct of video calls using telecom technology
 </details>
 
-**Q158. (M.P.P.C.S. (Pre) 2016)** Which of the following devices is compulsory for video
+**Q-ST158. M.P.P.C.S. (Pre) 2016**
+
+Which of the following devices is compulsory for video
 
 conferencing?
 
@@ -8219,21 +6347,14 @@ conferencing?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  A video conference is a live, visual connection between
+**Logic:** A video conference is a live, visual connection between two or more people residing in separate locations for the purpose of communication.
 
-two or more people residing in separate locations for the
-
-purpose of communication. For video input video camera
-
-or webcam is required, for video output computer monitor,
-
-television or projector is required.
-
+**Ans: C.** Webcam (d) Mouse
 </details>
 
-**Q159. (M.P. P.C.S. (Pre) 2018)** Which of the following is not an essential component
+**Q-ST159. M.P. P.C.S. (Pre) 2018**
+
+Which of the following is not an essential component
 
 required for the video conferencing system?
 
@@ -8244,23 +6365,14 @@ required for the video conferencing system?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  A video conference is a live, visual connection between
+**Logic:** A video conference is a live, visual connection between two or more people residing in separate locations for the purpose of communication.
 
-two or more people residing in separate locations for the
-
-purpose of communication. The essential component
-
-required for the video conferencing system is a video
-
-camera, display device and microphone. The telephone is
-
-not required in video conferencing.
-
+**Ans: C.** Telephone (d) Microphone
 </details>
 
-**Q160. (M.P. P.C.S. (Pre) 2012)** E-Mail stands for :
+**Q-ST160. M.P. P.C.S. (Pre) 2012**
+
+E-Mail stands for :
 
 (a) Electrical Mail (b) Electronic Mail
 
@@ -8269,17 +6381,14 @@ not required in video conferencing.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  E-mail stands for 'Electronic mail'. It is a method of
+**Logic:** E-mail stands for 'Electronic mail'.
 
-transmitting and receiving digital messages using electronic
-
-devices over a computer network.
-
+**Ans: B.** Electronic Mail
 </details>
 
-**Q161. (M.P.P.C.S. (Pre) 2013)** What are the two parts of e-mail address ?
+**Q-ST161. M.P.P.C.S. (Pre) 2013**
+
+What are the two parts of e-mail address ?
 
 (a) Username and home address
 
@@ -8292,17 +6401,14 @@ devices over a computer network.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  A valid e-mail address is an address composed of two parts,
+**Logic:** A valid e-mail address is an address composed of two parts, a username and a domain name in the following form: username@domainname.extension.
 
-a username and a domain name in the following form:
-
-username@domainname.extension.
-
+**Ans: D.** User name and domain name
 </details>
 
-**Q162. (M.P.P.C.S. (Pre) 2019)** The domain name of the E-mail address mark.sttol@
+**Q-ST162. M.P.P.C.S. (Pre) 2019**
+
+The domain name of the E-mail address mark.sttol@
 
 ITdesk.info is
 
@@ -8313,19 +6419,14 @@ ITdesk.info is
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  In any E-mail address part at the left of @symbol is
+**Logic:** Standard key matches ITdesk.
 
-username and part at the right of @symbol is domain name.
-
-Therefore in the given E-mail address, ITdesk.info is the
-
-domain name.
-
+**Ans: C.** ITdesk.
 </details>
 
-**Q163. (M.P.P.C.S. (Pre) 2012)** Which of the following is free e-mail service provider?
+**Q-ST163. M.P.P.C.S. (Pre) 2012**
+
+Which of the following is free e-mail service provider?
 
 (a) Hotmail
 
@@ -8338,15 +6439,14 @@ domain name.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  Hotmail, Rediffmail, Yahoo, Gmail etc. are the free e-mail
+**Logic:** Hotmail, Rediffmail, Yahoo, Gmail etc.
 
-service providers.
-
+**Ans: D.** All of the above
 </details>
 
-**Q164. (M.P.P.C.S. (Pre) 2010)** Word 'blog' is combination of two words –
+**Q-ST164. M.P.P.C.S. (Pre) 2010**
+
+Word 'blog' is combination of two words –
 
 (a) Web-log (b) Wave-log
 
@@ -8355,23 +6455,14 @@ service providers.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  A ‘blog’ is web page that serves as a publicly accessible
+**Logic:** A ‘blog’ is web page that serves as a publicly accessible personal journal of an individual.
 
-personal journal of an individual. Typically updated
-
-daily blogs often reflect the personality of the author.
-
-The author or writer is called blogger and the process of
-
-maintaining a blog is called blogging. Word 'blog' is the
-
-combination of two words web and log.
-
+**Ans: A.** Web-log (b) Wave-log
 </details>
 
-**Q165. (M.P.P.C.S. (Pre) 2013)** A ‘menu’ contains a list of :
+**Q-ST165. M.P.P.C.S. (Pre) 2013**
+
+A ‘menu’ contains a list of :
 
 (a) Data (b) Objects
 
@@ -8380,13 +6471,14 @@ combination of two words web and log.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  Command menu contains a list of related commands.
+**Logic:** Command menu contains a list of related commands.
 
+**Ans: D.** Commands
 </details>
 
-**Q166. (M.P.P.C.S. (Pre) 2019)** .............. is a way to quickly access a favourite website
+**Q-ST166. M.P.P.C.S. (Pre) 2019**
+
+.............. is a way to quickly access a favourite website
 
 by saving it in your browser.
 
@@ -8401,17 +6493,14 @@ by saving it in your browser.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  Bookmark is a way to quickly access a favourite website by
+**Logic:** Bookmark is a way to quickly access a favourite website by saving it in your browser.
 
-saving it in your browser. A bookmark is a useful and fast
-
-way to save websites for later reference.
-
+**Ans: B.** Bookmark
 </details>
 
-**Q167. (M.P.P.C.S. (Pre) 2010)** Size of virtual memory depends on –
+**Q-ST167. M.P.P.C.S. (Pre) 2010**
+
+Size of virtual memory depends on –
 
 (a) Address lines (b) Database
 
@@ -8420,27 +6509,14 @@ way to save websites for later reference.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  A computer memory refers to the device which is used
+**Logic:** A computer memory refers to the device which is used to store any information, instructions and results in the computer.
 
-to store any information, instructions and results in the
-
-computer. All the actions occurring in the CPU of the
-
-computer first goes to memory. In the modern operating
-
-systems, the exchange of information between hard disk
-
-and RAM memory takes place rapidly with the help of the
-
-virtual memory. The size of the virtual memory depends
-
-on the space allocated on hard disk for the virtual memory.
-
+**Ans: C.** Disc space (d) All of these
 </details>
 
-**Q168. (M.P.P.C.S. (Pre) 2010)** How many days will picture message stay in private
+**Q-ST168. M.P.P.C.S. (Pre) 2010**
+
+How many days will picture message stay in private
 
 inbox?
 
@@ -8451,17 +6527,14 @@ inbox?
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  A picture message can stay up to 30 days in the private inbox
+**Logic:** A picture message can stay up to 30 days in the private inbox of a mobile.
 
-of a mobile. To secure the picture message for more days, it
-
-has to be saved in the message box.
-
+**Ans: B.** 30 Days
 </details>
 
-**Q169. (R.A.S./R.T.S. (Pre) 2016)** The latest Android mobile operating system-6.0 is
+**Q-ST169. RAS/RTS (Pre) 2016**
+
+The latest Android mobile operating system-6.0 is
 
 named as :
 
@@ -8472,29 +6545,14 @@ named as :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  Android 6.0-6.0.1 'Marshmallow' was the 6th major version
+**Logic:** Android 6.0-6.0.1 'Marshmallow' was the 6th major version of the Android operating system.
 
-of the Android operating system. First unveiled in May 2015,
-
-it was officially released in October 2015. Android 9.0 'Pie'
-
-was released on 6 August, 2018 and 'Android10' was released
-
-on 3 September, 2019. Then 'Android 11' was released on
-
-23 September, 2020 and 'Android 12' was released on 4 October, 2021. 'Android 13' was released on 15 August, 2022,
-
-'Android 14' was released on 4 October, 2023, 'Android 15'
-
-was released on 15 October, 2024, while the latest version.
-
-'Android 16' was released on 10 June, 2025.
-
+**Ans: A.** Marshmallow (b) Jelly Bean
 </details>
 
-**Q170. (Civil Services Examination)** What are the unique features of recently launched
+**Q-ST170. Civil Services Examination**
+
+What are the unique features of recently launched
 
 iPhone 4S? Select the correct answer from the codes
 
@@ -8503,13 +6561,14 @@ given below:
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (*)`
-- **Logic:**
-  Refer to the high-yield notes above.
+**Logic:** Refer to the high-yield notes above.
 
+**Ans:** Refer to the high-yield notes above.
 </details>
 
-**Q171. (Jharkhand P.C.S. (Pre) 2023)** Using websites to pour out one's grievances is called :
+**Q-ST171. Jharkhand P.C.S. (Pre) 2023**
+
+Using websites to pour out one's grievances is called :
 
 (a) Web plea (b) Web hate
 
@@ -8518,27 +6577,14 @@ given below:
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  Using a website to pour out one's grievances is called cyber
+**Logic:** Using a website to pour out one's grievances is called cyber venting.
 
-venting. Cyber venting is the act of denigrating about one's
-
-employer, senior executives, etc., with the motive of letting
-
-out the anger and frustration using online websites. While
-
-the websites do not restrict the mentioning of the name of the
-
-employer, company or its address, it allows for the anonymity
-
-of the employee who posts the comments. Cyber venting
-
-relaxes and calms people in short-run.
-
+**Ans: D.** Cyber venting
 </details>
 
-**Q172. (M.P. P.C.S. (Pre) 2018)** When customers of a Website are unable to access it
+**Q-ST172. M.P. P.C.S. (Pre) 2018**
+
+When customers of a Website are unable to access it
 
 due to flooding of fake network traffic, it is known as
 
@@ -8549,25 +6595,14 @@ due to flooding of fake network traffic, it is known as
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  A denial of service (DOS) is any type of attack where the
+**Logic:** A denial of service (DOS) is any type of attack where the attacker (hackers) attempt to prevent legitimate users from accessing the website.
 
-attacker (hackers) attempt to prevent legitimate users from
-
-accessing the website. In a DOS attack, the attackers usually
-
-send excessive messages asking the network or server to authenticate requests that have invalid return addresses. As the
-
-service becomes unable to handle the deluge of connections
-
-and traffic it is receiving, it shuts down or drops legitimate
-
-requests coming from real users.
-
+**Ans: D.** denial of service attack
 </details>
 
-**Q173. (Chhattisgarh P.C.S. (Pre) 2021)** What is Distributed Denial of Service (DDoS) attack?
+**Q-ST173. Chhattisgarh P.C.S. (Pre) 2021**
+
+What is Distributed Denial of Service (DDoS) attack?
 
 (a) A computer game (b) A cyber attack
 
@@ -8576,33 +6611,14 @@ requests coming from real users.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  A Distributed Denial-of-Service (DDoS) attack is a
+**Logic:** A Distributed Denial-of-Service (DDoS) attack is a malicious attempt to disrupt the normal traffic of a targeted server, service or network by overwhelming the target or its surrounding infrastructure with a flood of In…
 
-malicious attempt to disrupt the normal traffic of a targeted
-
-server, service or network by overwhelming the target or its
-
-surrounding infrastructure with a flood of Internet traffic.
-
-In a DDoS attack, the incoming traffic flooding the victim
-
-originates from many different sources. DDoS cyber attacks
-
-are carried out with networks of Internet-connected machines.
-
-DDoS attacks are a primary concern in Internet security today.
-
-More sophisticated strategies are required to mitigate this
-
-type of attack, as simply attempting to block a single source
-
-is insufficient because there are multiple sources.
-
+**Ans: B.** A cyber attack
 </details>
 
-**Q174. (M.P.P.C.S. (Pre) 2010)** What do you understand by hacking?
+**Q-ST174. M.P.P.C.S. (Pre) 2010**
+
+What do you understand by hacking?
 
 (a) Searching (b) Security
 
@@ -8611,17 +6627,14 @@ is insufficient because there are multiple sources.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (d)`
-- **Logic:**
-  Hacking is the process of exploiting vulnerabilities to gain
+**Logic:** Hacking is the process of exploiting vulnerabilities to gain unauthorized access to a system or resources by an unknown person.
 
-unauthorized access to a system or resources by an unknown
-
-person.
-
+**Ans: D.** None of these
 </details>
 
-**Q175. (M.P.P.C.S. (Pre) 2012)** A computer hacker is :
+**Q-ST175. M.P.P.C.S. (Pre) 2012**
+
+A computer hacker is :
 
 (a) A person who maintains computer security
 
@@ -8636,25 +6649,14 @@ malicious intention for personal gain
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  A computer hacker is one who attempts to crack someone
+**Logic:** A computer hacker is one who attempts to crack someone else's system or otherwise uses programming or expert knowledge to act maliciously.
 
-else's system or otherwise uses programming or expert
-
-knowledge to act maliciously. While 'hacker' can refer to
-
-any skilled computer programmer, the term has become
-
-associated in popular culture with a 'security hacker',
-
-someone who with their technical knowledge, uses bugs or
-
-exploits to break into computer systems.
-
+**Ans: B.** A person who violates computer security with
 </details>
 
-**Q176. (M.P. P.C.S. (Pre) 2018)** The term _____ refers to an individual who breaks into
+**Q-ST176. M.P. P.C.S. (Pre) 2018**
+
+The term _____ refers to an individual who breaks into
 
 computer systems without authorization, deliberately
 
@@ -8667,29 +6669,14 @@ defaces websites for a fraudulent purpose.
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (c)`
-- **Logic:**
-  A cracker is an individual who performs cracking or the
+**Logic:** A cracker is an individual who performs cracking or the process of breaking into a computer or a network system.
 
-process of breaking into a computer or a network system. A
-
-cracker might be performing cracking to malicious activities,
-
-profit, for certain non-profit intentions or causes, or just for
-
-a challenge. Some crackers break into a network system
-
-deliberately to point out the flaws involved in that network's
-
-security system. In most cases, crackers aim to gain access
-
-to confidential data, get hold of free software applications or
-
-carryout malicious damage to files.
-
+**Ans: C.** cracker (d) stacker
 </details>
 
-**Q177. (M.P.P.C.S. (Pre) 2017)** In the context of computer security, crackers are also
+**Q-ST177. M.P.P.C.S. (Pre) 2017**
+
+In the context of computer security, crackers are also
 
 known as :
 
@@ -8700,21 +6687,14 @@ known as :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (a)`
-- **Logic:**
-  A black hat hacker, sometimes called a cracker, is someone
+**Logic:** A black hat hacker, sometimes called a cracker, is someone who breaks computer security without any authority and uses technology to deliberately damage the system, commits fraud, steals identity and does other illegal…
 
-who breaks computer security without any authority and
-
-uses technology to deliberately damage the system, commits
-
-fraud, steals identity and does other illegal activities on other
-
-people's networks.
-
+**Ans: A.** black hat hackers
 </details>
 
-**Q178. (M.P.P.C.S. (Pre) 2019)** One who gains unauthorized access, destroys vital data,
+**Q-ST178. M.P.P.C.S. (Pre) 2019**
+
+One who gains unauthorized access, destroys vital data,
 
 denies legitimate user's service or causes problems for
 
@@ -8727,124 +6707,10 @@ their targets is called :
 <details>
 <summary>Show answer</summary>
 
-- **Correct Answer:** `Ans. (b)`
-- **Logic:**
-  A cracker or black hat hacker is a person who attempts to
+**Logic:** A cracker or black hat hacker is a person who attempts to find computer security vu NOTE: The output was truncated because it was too long.
 
-find computer security vu
-<truncated 41447 bytes>
-NOTE: The output was truncated because it was too long. Use a more targeted query or a smaller range to get the information you need.
-
+**Ans: B.** Cracker
 </details>
-
-
----
-
-## Practice Zone — UPPCS Format Drill
-
-**Q1.** What is the minimum length of a standard MAC (Media Access Control) address?
-- (A) $16\text{ bits}$
-- (B) $32\text{ bits}$
-- (C) $48\text{ bits}$
-- (D) $64\text{ bits}$
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (C) $48\text{ bits}$
-- **Logic:** A MAC address is a 48-bit (6-byte) physical hardware address burned into the network interface card (NIC), operating at the Data Link Layer (Layer 2) of the OSI model.
-</details>
-
-**Q2.** Which of the following optical disc formats utilizes a blue-violet laser with a wavelength of $405\text{ nm}$?
-- (A) CD-ROM
-- (B) DVD-R
-- (C) Blu-ray Disc
-- (D) Floppy Disk
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (C) Blu-ray Disc
-- **Logic:** Blu-ray Discs use a $405\text{ nm}$ blue-violet laser, allowing a much tighter focus than the $650\text{ nm}$ red laser of DVDs, giving $25\text{ GB}$ storage per layer.
-</details>
-
-**Q3.** In a 4-bit binary weighted code, which of the following is an example of a self-complementing code?
-- (A) $8421\text{ code}$
-- (B) $5211\text{ code}$
-- (C) $5421\text{ code}$
-- (D) Gray code
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (B) $5211\text{ code}$
-- **Logic:** A code is self-complementing if the sum of its weights equals 9. Examples include $5211$, $2421$, $3321$, and $4311$. The standard $8421$ code has a weight sum of 15, so it is not self-complementing.
-</details>
-
-**Q4.** The international AI Action Summit held in February 2025 took place in:
-- (A) London
-- (B) Seoul
-- (C) Paris
-- (D) New Delhi
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (C) Paris
-- **Logic:** Held on 10–11 February 2025 at the Grand Palais, Paris, co-chaired by Indian PM Narendra Modi and French President Emmanuel Macron.
-</details>
-
-**Q5.** In the context of computer security, a software that disguises itself as useful legitimate software while executing unauthorized background actions without self-replicating is called:
-- (A) Virus
-- (B) Worm
-- (C) Trojan Horse
-- (D) Keylogger
-
-<details>
-<summary>Show answer</summary>
-
-- **Correct Answer:** (C) Trojan Horse
-- **Logic:** Unlike viruses and worms, Trojans do not attempt to self-replicate or inject code into other files. They deceive the user into manual installation by appearing legitimate.
-</details>
-
----
-
-## Common Traps
-
-1. **The "Trojans Self-Replicate" Trap:**
-   - Both viruses and worms self-replicate, but **Trojans do NOT self-replicate or inject code into other files**. They rely on social engineering to trick the user into installing them.
-2. **The "Aadhaar Proves Citizenship" Trap:**
-   - Under Section 9 of the Aadhaar Act, 2016, an Aadhaar card is **proof of identity only, NOT proof of citizenship or domicile**.
-3. **The "1 MB = 1 Million Bytes Exactly" Trap:**
-   - In binary computing, $1\text{ MB} = 1024 \times 1024 = \mathbf{1,048,576\text{ Bytes}}$, which is approximately $1.05\text{ million bytes}$.
-4. **The "USA Signed the 2025 Paris AI Statement" Trap:**
-   - While over 50 countries (including India, France, and China) signed the Statement on Inclusive and Sustainable AI, **both the USA and the UK refused to sign**.
-5. **The "Data Link vs Network Layer Addressing" Trap:**
-   - **MAC addresses ($48\text{ bits}$)** live strictly at **Layer 2 (Data Link Layer)**, while **IP addresses ($32\text{-bit}$ or $128\text{-bit}$)** live at **Layer 3 (Network Layer)**.
-
-
----
-
-## Bilingual Terminology -- Electronics, Semiconductors and Computers
-
-| English Term | Hindi Term | Key Anchor |
-|---|---|---|
-| **Semiconductor** (अर्धचालक) | अर्धचालक | Conductivity between conductor and insulator; Si, Ge |
-| **Diode** (डायोड) | डायोड | Two-terminal device; allows current in one direction only (rectification) |
-| **Transistor** (ट्रांजिस्टर) | ट्रांजिस्टर | Three-terminal device; amplification and switching |
-| **Integrated Circuit (IC)** (एकीकृत परिपथ) | एकीकृत परिपथ | Many transistors on a single chip; "chip" |
-| **Binary** (द्विआधारी) | द्विआधारी | Base-2 number system; 0 and 1 only; basis of computers |
-| **Bit** (बिट) | बिट | Smallest unit of data; 0 or 1 |
-| **Byte** (बाइट) | बाइट | 8 bits; basic addressable unit |
-| **CPU** (केन्द्रीय प्रसंस्करण इकाई) | केंद्रीय प्रक्रमण एकक | Central Processing Unit; "brain" of computer |
-| **RAM** (रैम) | यादृच्छिक अभिगम स्मृति | Random Access Memory; volatile; temporary storage |
-| **ROM** (रोम) | केवल पठन स्मृति | Read Only Memory; non-volatile; permanent storage |
-| **Internet** (इंटरनेट) | इंटरनेट | Global network of computers; WWW is a service on Internet |
-| **Artificial Intelligence** (कृत्रिम बुद्धिमत्ता) | कृत्रिम बुद्धिमत्ता | Simulation of human intelligence in machines |
-| **Machine Learning** (मशीन लर्निंग) | मशीन लर्निंग | AI where computers learn from data without explicit programming |
-| **5G** (5जी) | पांचवीं पीढ़ी का नेटवर्क | 5th generation mobile network; speed up to 10-20 Gbps |
-| **Nanotechnology** (नैनो प्रौद्योगिकी) | नैनो प्रौद्योगिकी | Technology at 1-100 nm scale; 1 nm = 10^-9 m |
-| **Quantum Computing** (क्वांटम संगणना) | क्वांटम संगणना | Uses qubits (superposition/entanglement); exponentially faster for certain tasks |
 
 ---
 
@@ -8882,4 +6748,103 @@ NOTE: The output was truncated because it was too long. Use a more targeted quer
 | 28 | Blockchain = distributed ledger; each block cryptographically linked; basis of cryptocurrency |
 | 29 | Deep Blue (IBM, 1997) = first chess computer to defeat world champion (Kasparov) |
 | 30 | ChatGPT (OpenAI, 2022) = large language model AI; generative AI milestone |
+
+## Practice Zone — UPPCS Format Drill
+
+**Q-ST1.**
+
+What is the minimum length of a standard MAC (Media Access Control) address?
+- (A) $16\text{ bits}$
+- (B) $32\text{ bits}$
+- (C) $48\text{ bits}$
+- (D) $64\text{ bits}$
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** A MAC address is a 48-bit (6-byte) physical hardware address burned into the network interface card (NIC), operating at the Data Link Layer (Layer 2) of the OSI model.
+
+**Ans: C.** $48\text{ bits}$
+</details>
+
+**Q-ST2.**
+
+Which of the following optical disc formats utilizes a blue-violet laser with a wavelength of $405\text{ nm}$?
+- (A) CD-ROM
+- (B) DVD-R
+- (C) Blu-ray Disc
+- (D) Floppy Disk
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Blu-ray Discs use a $405\text{ nm}$ blue-violet laser, allowing a much tighter focus than the $650\text{ nm}$ red laser of DVDs, giving $25\text{ GB}$ storage per layer.
+
+**Ans: C.** Blu-ray Disc
+</details>
+
+**Q-ST3.**
+
+In a 4-bit binary weighted code, which of the following is an example of a self-complementing code?
+- (A) $8421\text{ code}$
+- (B) $5211\text{ code}$
+- (C) $5421\text{ code}$
+- (D) Gray code
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** A code is self-complementing if the sum of its weights equals 9.
+
+**Ans: B.** $5211\text{ code}$
+</details>
+
+**Q-ST4.**
+
+The international AI Action Summit held in February 2025 took place in:
+- (A) London
+- (B) Seoul
+- (C) Paris
+- (D) New Delhi
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Paris.
+
+**Ans: C.** Paris
+</details>
+
+**Q-ST5.**
+
+In the context of computer security, a software that disguises itself as useful legitimate software while executing unauthorized background actions without self-replicating is called:
+- (A) Virus
+- (B) Worm
+- (C) Trojan Horse
+- (D) Keylogger
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Unlike viruses and worms, Trojans do not attempt to self-replicate or inject code into other files.
+
+**Ans: C.** Trojan Horse
+</details>
+
+---
+
+## Common Traps
+
+1. **The "Trojans Self-Replicate" Trap:**
+   - Both viruses and worms self-replicate, but **Trojans do NOT self-replicate or inject code into other files**. They rely on social engineering to trick the user into installing them.
+2. **The "Aadhaar Proves Citizenship" Trap:**
+   - Under Section 9 of the Aadhaar Act, 2016, an Aadhaar card is **proof of identity only, NOT proof of citizenship or domicile**.
+3. **The "1 MB = 1 Million Bytes Exactly" Trap:**
+   - In binary computing, $1\text{ MB} = 1024 \times 1024 = \mathbf{1,048,576\text{ Bytes}}$, which is approximately $1.05\text{ million bytes}$.
+4. **The "USA Signed the 2025 Paris AI Statement" Trap:**
+   - While over 50 countries (including India, France, and China) signed the Statement on Inclusive and Sustainable AI, **both the USA and the UK refused to sign**.
+5. **The "Data Link vs Network Layer Addressing" Trap:**
+   - **MAC addresses ($48\text{ bits}$)** live strictly at **Layer 2 (Data Link Layer)**, while **IP addresses ($32\text{-bit}$ or $128\text{-bit}$)** live at **Layer 3 (Network Layer)**.
+
+---
 

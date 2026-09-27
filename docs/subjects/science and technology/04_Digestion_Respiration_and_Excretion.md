@@ -186,9 +186,39 @@ Digestive System Anatomy (Mouth, Teeth, Salivary Glands, Stomach, Liver, Gall Bl
 
 ---
 
+## Bilingual Terminology -- Digestion, Respiration and Excretion
+
+| English Term | Hindi Term | Key Anchor |
+|---|---|---|
+| **Digestion** (पाचन) | पाचन | Breaking down food into absorbable molecules |
+| **Alimentary Canal** (आहार नाल) | आहार नाल / पाचन नाल | Mouth to anus; complete digestive tract |
+| **Saliva** (लार) | लार | Secretion of salivary glands; contains **salivary amylase** (ptyalin) |
+| **Stomach** (आमाशय) | आमाशय | Secretes gastric juice (HCl + pepsin + mucin) |
+| **Small Intestine** (छोटी आंत) | क्षुद्रांत्र | Main site of digestion and absorption; duodenum, jejunum, ileum |
+| **Large Intestine** (बड़ी आंत) | वृहदांत्र | Water absorption; formation of faeces; colon, rectum |
+| **Liver** (यकृत) | यकृत | Largest gland; secretes bile; detoxification; glycogen storage |
+| **Pancreas** (अग्न्याशय) | अग्न्याशय | Secretes pancreatic juice (amylase, lipase, trypsinogen); also insulin/glucagon |
+| **Bile** (पित्त) | पित्त | Emulsifies fats; secreted by liver; stored in gallbladder |
+| **Villi** (आंत्र अंकुर) | रसांकुर | Finger-like projections in small intestine; increase surface area for absorption |
+| **Respiration** (श्वसन) | श्वसन | Process releasing energy from food; cellular respiration = aerobic/anaerobic |
+| **Aerobic Respiration** (वायवीय श्वसन) | वायवीय श्वसन | Uses O2; produces CO2 + H2O + 38 ATP per glucose |
+| **Anaerobic Respiration** (अवायवीय श्वसन) | अवायवीय श्वसन | No O2; produces lactic acid (muscles) or ethanol+CO2 (yeast) |
+| **Alveoli** (वायुकोश) | वायुकोश | Tiny air sacs in lungs; site of gas exchange (O2 in, CO2 out) |
+| **Diaphragm** (मध्यपट) | मध्यपट | Dome-shaped muscle below lungs; main breathing muscle |
+| **Excretion** (उत्सर्जन) | उत्सर्जन | Removal of metabolic waste products from the body |
+| **Kidney** (वृक्क) | वृक्क / गुर्दा | Primary excretory organ; filters blood to form urine |
+| **Nephron** (नेफ्रोन) | वृक्काणु / नेफ्रोन | Structural and functional unit of kidney; ~1 million per kidney |
+| **Urea** (यूरिया) | यूरिया | Main nitrogenous waste in mammals; formed in liver |
+| **Uric Acid** (यूरिक अम्ल) | यूरिक अम्ल | Nitrogenous waste in birds, reptiles, insects (less water loss) |
+| **Dialysis** (डायलिसिस) | डायलिसिस | Artificial kidney function; filters blood when kidneys fail |
+
+---
+
 ## Complete PYQ Bank — UPPCS
 
-**Q1. (UPPCS Pre 2025)** Which of the following enzymes are secreted in the stomach for digestion of proteins?  
+**Q-ST1. UPPCS Pre 2025**
+
+Which of the following enzymes are secreted in the stomach for digestion of proteins?
 1. Chymotrypsin  
 2. Trypsin  
 3. Pepsin  
@@ -202,13 +232,14 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **B** (Only 3)  
-**Detailed Explanation:**
-- Gastric juice in the stomach contains **Pepsin** (secreted as inactive pepsinogen by chief cells and activated by HCl), which initiates protein digestion.
-- **Trypsin** and **Chymotrypsin** are produced by the exocrine **pancreas** (as trypsinogen and chymotrypsinogen) and are secreted into the small intestine; they are never produced in the stomach.
+**Logic:** Standard key matches Only 3.
+
+**Ans: B.** Only 3
 </details>
 
-**Q2. (UPPCS Pre 2020)** In human body, the digestion of protein begins in which of the following organs?  
+**Q-ST2. UPPCS Pre 2020**
+
+In human body, the digestion of protein begins in which of the following organs?
 A. Liver  
 B. Mouth  
 C. Small intestine  
@@ -217,15 +248,14 @@ D. Stomach
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **D** (Stomach)  
-**Detailed Explanation:**
-- Starch digestion begins in the mouth via salivary ptyalin, but protein digestion begins strictly in the **Stomach** through the action of the enzyme pepsin in an acidic hydrochloric acid medium. The small intestine continues and finishes protein digestion.
+**Logic:** Standard key matches Stomach.
+
+**Ans: D.** Stomach
 </details>
 
 ---
 
-
-**Q3. (U.P.P.C.S. (Pre) 1991)** In human body most of the digestive process, takes
+**Q-ST3. UPPCS (Pre) 1991**
 place in –  
 A. Pancreas  
 B. Large intestine  
@@ -234,13 +264,14 @@ D. Stomach
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **C** (Small intestine)  
-**Detailed Explanation:**
-- Digestion begins in the mouth when we chew and swallow and is completed in the small intestine. The small intestine is a long tube loosely coiled in the abdomen (spread out, it would be more than 20 feet long).
-- The small intestine continues the process of breaking down food by using enzymes released by the pancreas and bile from the liver.
+**Logic:** Digestion begins in the mouth when we chew and swallow and is completed in the small intestine.
+
+**Ans: C.** Small intestine
 </details>
 
-**Q4. (U.P. Lower Sub. (Mains) 2013 / U.P.P.C.S. (Spl.) (Mains) 2004 / Uttarakhand P.C.S. (Mains) 2002 / Uttarakhand P.C.S. (Pre) 2002 / M.P.P.C.S. (Pre) 1990 / U.P.P.C.S. (Pre) 1996)** Enzymes are basically –  
+**Q-ST4. UP Lower Sub (Mains) 2013 / UPPCS (Spl.) (Mains) 2004 / Uttarakhand P.C.S. (Mains) 2002 / Uttarakhand P.C.S. (Pre) 2002 / M.P.P.C.S. (Pre) 1990 / UPPCS (Pre) 1996**
+
+Enzymes are basically –
 A. Fats  
 B. Sugars  
 C. Proteins  
@@ -248,12 +279,14 @@ D. Vitamins
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **C** (Proteins)  
-**Detailed Explanation:**
-- See the explanation of above question.
+**Logic:** Same teaching key as the linked stem above; answer is Proteins.
+
+**Ans: C.** Proteins
 </details>
 
-**Q5. (U.P.P.C.S. (Pre) 2019)** Which of the following statements about enzymes is/
+**Q-ST5. UPPCS (Pre) 2019**
+
+Which of the following statements about enzymes is/
 are correct?
 1. They are biocatalysts.
 2. They perform their action on the site where they
@@ -267,13 +300,12 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **C** (Both 1 and 2)  
-**Detailed Explanation:**
-- Enzymes can be defined as biological polymers that catalyze biochemical reactions. Thus, they are biocatalysts and accelerate chemical reactions in the human body.
-- Generally, enzymes perform their action on the site where they are produced. Hence, both statements are correct.
+**Logic:** Enzymes can be defined as biological polymers that catalyze biochemical reactions.
+
+**Ans: C.** Both 1 and 2
 </details>
 
-**Q6. (U.P. P.C.S. (Mains) 2016)** Digestion of Lipids takes place in the presence of some
+**Q-ST6. UPPCS (Mains) 2016**
 of the following :
 1. Bile acids 
 2. Lipase 
@@ -286,14 +318,14 @@ D. 1, 2 and 3 are correct
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **C** (Only 1 and 2 are correct)  
-**Detailed Explanation:**
-- Most of the lipids in our food are present in the form of simple fats or triglycerides. Lipase enzyme plays an important role in the digestion of Lipids.
-- Lipase breaks down lipids into fatty acids and monoglycerides. Bile probably contains no digestive enzyme, yet it plays an important role in the digestion and absorption of fat.
-- It facilitates emulsification of fats. Pepsin is a protein digesting or proteolytic enzyme.
+**Logic:** Most of the lipids in our food are present in the form of simple fats or triglycerides.
+
+**Ans: C.** Only 1 and 2 are correct
 </details>
 
-**Q7. (U.P. P.C.S. (Pre) 2025)** Which of the following enzymes is/are released in
+**Q-ST7. UPPCS (Pre) 2025**
+
+Which of the following enzymes is/are released in
 stomach for protein digestion ?
 1. Chymotrypsin 
 2. Trypsin
@@ -307,13 +339,14 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **B** (Only 3)  
-**Detailed Explanation:**
-- The chief/peptic cells of the stomach secrete a pro-enzyme called pepsinogen, which gets activated in the presence of hydrochloric acid (HCl) and becomes pepsin.
-- This pepsin initiates protein digestion in the stomach. In contrast, trypsin and chymotrypsin are secreted by the pancreas in inactive forms (trypsinogen/chymotrypsinogen), and their activation and action occur in the duodenum/small intestine, not in the stomach.
+**Logic:** Standard key matches Only 3.
+
+**Ans: B.** Only 3
 </details>
 
-**Q8. (U.P. R.O./A.R.O. (Pre) 2017)** Which one of the following enzymes convert proteins
+**Q-ST8. UP RO/ARO (Pre) 2017**
+
+Which one of the following enzymes convert proteins
 into amino acids?  
 A. Pepsin  
 B. Lactase  
@@ -322,14 +355,14 @@ D. Zymase
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **A** (Pepsin)  
-**Detailed Explanation:**
-- Pepsin is a protein digestive enzyme which is secreted by gastric glands of the stomach which digests the protein into smaller peptides and amino acids, which can be readily absorbed by the small intestine.
-- Lactase is milk digesting enzyme which converts lactose in glucose and galactose. Urease enzyme catalyzes the hydrolysis of urea forming carbon dioxide and ammonia.
-- Zymase enzyme occurs naturally in yeast that catalyzes the fermentation of sugar into ethanol and carbon dioxide.
+**Logic:** Standard key matches Pepsin.
+
+**Ans: A.** Pepsin
 </details>
 
-**Q9. (U.P.P.C.S (Pre) 2010)** An enzyme which helps in the digestion of protein is :  
+**Q-ST9. UPPCS (Pre) 2010**
+
+An enzyme which helps in the digestion of protein is :
 A. Urease  
 B. Sulfatase  
 C. Trypsin  
@@ -337,12 +370,14 @@ D. Protease
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **C** (Trypsin)  
-**Detailed Explanation:**
-- See the explanation of above question.
+**Logic:** Standard key matches Trypsin.
+
+**Ans: C.** Trypsin
 </details>
 
-**Q10. (U.P.P.C.S. (Pre) 2017)** Given below are two statements :
+**Q-ST10. UPPCS (Pre) 2017**
+
+Given below are two statements :
 Assertion (A) : Human body is incapable of digesting
 cellulose.
 Reason (R) : Starch degrading enzyme, diastase, is
@@ -356,13 +391,14 @@ D. (A) is false but (R) is true.
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **B** (Both (A) and (R) are true but (R) is not the correct explanation of (A).)  
-**Detailed Explanation:**
-- In human digestive system, enzymes that can digest cellulose are not found, but starch abrasive enzymes, diastase which break starch into maltose are found in human saliva.
-- Thus both the statements are correct, but the cellulose can not be digested due to diastase. So, the second statement does not explain the first statement.
+**Logic:** In human digestive system, enzymes that can digest cellulose are not found, but starch abrasive enzymes, diastase which break starch into maltose are found in human saliva.
+
+**Ans: B.** Both (A) and (R) are true but (R) is not the correct explanation of (A)
 </details>
 
-**Q11. (U.P. R.O./A.R.O. (Mains) 2021 / U.P. Lower Sub. (Pre) 1998 / I.A.S. (Pre) 1996)** Match List-I with List-II and select the correct answer
+**Q-ST11. UP RO/ARO (Mains) 2021 / UP Lower Sub (Pre) 1998 / I.A.S. (Pre) 1996**
+
+Match List-I with List-II and select the correct answer
 by using the codes given below :
 List-I List-II
 A. Vitamin 
@@ -382,12 +418,12 @@ D. 1 2 4 3
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **B** (2 1 4 3)  
-**Detailed Explanation:**
-- The correctly matched lists are as follows : Vitamin – Carotene Enzyme – Pepsin Hormone – Testosterone/Progesterone Protein – Keratin
+**Logic:** Standard key matches Enzyme.
+
+**Ans: B.** Enzyme
 </details>
 
-**Q12. (U.P.P.C.S. (Mains) 2004)** Extra glucose in body gets converted into glycogen and
+**Q-ST12. UPPCS (Mains) 2004**
 is stored in  
 A. Stomach  
 B. Liver  
@@ -396,13 +432,14 @@ D. Bile
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **B** (Liver)  
-**Detailed Explanation:**
-- The liver is the largest gland of the human body. Extra glucose in the body gets converted into glycogen and is stored in the liver. Glucose is a simple sugar found in carbohydrates.
-- Once carbohydrates are absorbed from food, they are carried to the liver for processing.
+**Logic:** Standard key matches Liver.
+
+**Ans: B.** Liver
 </details>
 
-**Q13. (U.P. R.O./A.R.O. (Pre) 2021)** How is liver affected on fasting for more than 10 days?  
+**Q-ST13. UP RO/ARO (Pre) 2021**
+
+How is liver affected on fasting for more than 10 days?
 A. Glucose level in liver diminished  
 B. Glucose level in liver increases  
 C. In liver triglycerides decrease  
@@ -410,18 +447,14 @@ D. In liver triglycerides increase
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **A** (Glucose level in liver diminished)  
-**Detailed Explanation:**
-- Glucose level in liver diminished on fasting for more than 10 days. Researchers found that during fasting, the liver is busy producing glucose from its stored glycogen.
-- In the absence of dietary sugars and carbohydrates, glucose is obtained from the breakdown of stored glycogen. Glycogen is a readilyaccessible storage form of glucose, stored in notable quantities in the liver and skeletal muscle.
-- When the glycogen reserve is depleted, glucose can be obtained from the breakdown of fats from adipose tissue. Fats are broken down into glycerol and free fatty acids, with the glycerol being turned into glucose in the liver via the gluconeogenesis pathway.
-- When even the glucose made from glycerol reserves start declining, the liver starts producing ketone bodies. Ketone bodies are short-chain derivatives of the free fatty acids, and can cross the blood-brain barrier, meaning they can be used by the brain as an alternative metabolic fuel.
-- After 2 or 3 days of fasting, the liver begins to synthesize ketone bodies from precursors obtained from fatty acid breakdown. During starvation, following depletion of hepatic glycogen, amino acids become the major source for glucose homeostasis.
-- After several days of fasting, all cells in the body begin to break down protein. This releases amino acids into the bloodstream, which can be converted into glucose by the liver.
-- As starvation progresses, gluconeogenesis diminishes in the liver but increases in the kidney as the need for ammonia excretion increases.
+**Logic:** Glucose level in liver diminished on fasting for more than 10 days.
+
+**Ans: A.** Glucose level in liver diminished
 </details>
 
-**Q14. (U.P. P.C.S. (Mains) 2017 / U.P.P.C.S. (Pre) 2017)** The stones present in the human gallbladder primarily
+**Q-ST14. UPPCS (Mains) 2017 / UPPCS (Pre) 2017**
+
+The stones present in the human gallbladder primarily
 affect the digestion of  
 A. Fats  
 B. Proteins  
@@ -430,13 +463,14 @@ D. Nucleic acids
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **A** (Fats)  
-**Detailed Explanation:**
-- Gall stones are hard pebble-like pieces of material, usually made of cholesterol and bilirubin, that develop in the gallbladder. When gall stones block the bile duct, the bile secreted by the liver does not reach to the duodenum.
-- The bile is primarily responsible for the digestion of fat. Thus, the stones present in the gallbladder primarily affect the digestion of fat.
+**Logic:** Standard key matches Fats.
+
+**Ans: A.** Fats
 </details>
 
-**Q15. (U.P.P.C.S. (Pre) 1999)** Bile is produced in which part of the body?  
+**Q-ST15. UPPCS (Pre) 1999**
+
+Bile is produced in which part of the body?
 A. Liver  
 B. Spleen  
 C. Gallbladder  
@@ -444,12 +478,14 @@ D. Pancreas
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **A** (Liver)  
-**Detailed Explanation:**
-- See the explanation of above question.
+**Logic:** Standard key matches Liver.
+
+**Ans: A.** Liver
 </details>
 
-**Q16. (U.P.P.C.S. (Spl.) (Mains) 2008)** Consider the following :
+**Q-ST16. UPPCS (Spl.) (Mains) 2008**
+
+Consider the following :
 i. This is the second largest gland of the human body.
 ii. Its secretion comes out from a characteristic type
 of cells and is alkaline.
@@ -462,15 +498,14 @@ D. salivary glands
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **C** (pancreas)  
-**Detailed Explanation:**
-- The liver is the largest gland while pancreas is the second largest gland of the human body. The pancreas is a glandular organ in the digestive system and endocrine system of the vertebrates.
-- In humans, it is located in the abdominal cavity behind the stomach. The pancreas is also a digestive organ, secreting pancreatic juice that is alkaline.
-- Its secretion is said to be complete digestive juice.
+**Logic:** The liver is the largest gland while pancreas is the second largest gland of the human body.
+
+**Ans: C.** pancreas
 </details>
 
+**Q-ST17. UPPCS (Pre) 2021**
 
-**Q17. (U.P. P.C.S. (Pre) 2021)** Site of gaseous exchange in lungs is :  
+Site of gaseous exchange in lungs is :
 A. Tracheoles  
 B. Bronchioles  
 C. Pulmonary vein  
@@ -478,13 +513,14 @@ D. Alveoli
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **D** (Alveoli)  
-**Detailed Explanation:**
-- The function of the respiratory system is to move two gases : oxygen and carbon dioxide. Gas exchange takes place in the millions of alveoli in the lungs and the capillaries that envelop them.
-- In this process, inhaled oxygen moves from the alveoli to the blood in the capillaries, and carbon dioxide moves from the blood in the capillaries to the air in the alveoli.
+**Logic:** Standard key matches Alveoli.
+
+**Ans: D.** Alveoli
 </details>
 
-**Q18. (U.P.P.C.S. (Pre) 2000)** When there is a decrease in the concentration of oxygen
+**Q-ST18. UPPCS (Pre) 2000**
+
+When there is a decrease in the concentration of oxygen
 in the blood, the rate of breathing :  
 A. Decreases  
 B. Increases  
@@ -493,13 +529,14 @@ D. First decreases, then increases
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **B** (Increases)  
-**Detailed Explanation:**
-- Hypoxemia or low level of oxygen in the blood describes a lower than normal level of oxygen in the blood. In order to function properly, our body needs a certain level of oxygen circulating in the blood to cells and tissues.
-- When this level of oxygen falls below a certain amount, hypoxemia occurs and you may experience shortness of breath. In other words, when there is a decrease in the concentration of oxygen in the blood, the rate of breathing increases.
+**Logic:** Hypoxemia or low level of oxygen in the blood describes a lower than normal level of oxygen in the blood.
+
+**Ans: B.** Increases
 </details>
 
-**Q19. (U.P.P.C.S. (Mains) 2015)** Which one of the following biotransformations
+**Q-ST19. UPPCS (Mains) 2015**
+
+Which one of the following biotransformations
 provides maximum energy to the human body?  
 A. ADP → AMP  
 B. ATP → ADP  
@@ -508,14 +545,14 @@ D. AMP → ADP
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **B** (ATP → ADP)  
-**Detailed Explanation:**
-- Adenosine triphosphate (ATP) is the high energy molecule that stores the energy. The conversion of ATP to ADP is an extremely crucial reaction for the supplying of energy for life processes.
-- ATP hydrolysis is the final link between the energy derived from food or sunlight and useful work such as muscle contraction, the establishment of electrochemical gradients across the membrane and biosynthetic processes necessary to maintain life.
-- ATP + H2 O → ADP + Pi + energy
+**Logic:** Adenosine triphosphate (ATP) is the high energy molecule that stores the energy.
+
+**Ans: B.** ATP → ADP
 </details>
 
-**Q20. (U.P. P.C.S. (Mains) 2016)** During respiration energy is produced in the form of :  
+**Q-ST20. UPPCS (Mains) 2016**
+
+During respiration energy is produced in the form of :
 A. ADP  
 B. ATP  
 C. NADP  
@@ -523,12 +560,14 @@ D. CO2
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **B** (ATP)  
-**Detailed Explanation:**
-- Respiration is a set of metabolic reactions and processes that take place in the cells of organisms to convert biochemical energy from nutrients into Adenosine Triphosphate (ATP), and release waste products.
+**Logic:** Standard key matches ATP.
+
+**Ans: B.** ATP
 </details>
 
-**Q21. (U.P.P.C.S. (Mains) 2010)** Which one of the following human organs is responsible
+**Q-ST21. UPPCS (Mains) 2010**
+
+Which one of the following human organs is responsible
 for detoxification of alcohol ?  
 A. Liver  
 B. Lung  
@@ -537,12 +576,12 @@ D. Kidney
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **A** (Liver)  
-**Detailed Explanation:**
-- The liver is responsible for the detoxification of alcohol. Liver detoxify harmful substances through the complex chemical reactions.
+**Logic:** Standard key matches Liver.
+
+**Ans: A.** Liver
 </details>
 
-**Q22. (U.P.P.C.S. (Spl.) (Mains) 2004)** A healthy human being excretes the following litres of
+**Q-ST22. UPPCS (Spl.) (Mains) 2004**
 urine in 24 hours –  
 A. 1.5  
 B. 3.0  
@@ -551,12 +590,14 @@ D. 9.0
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **A** (1.5)  
-**Detailed Explanation:**
-- Excretion of average urine in the adult human body is around 1.5 litres per day. About 91-96% of urine consist of water.
+**Logic:** Standard key matches 1.5.
+
+**Ans: A.** 1.5
 </details>
 
-**Q23. (U.P. Lower Sub. (Pre) 2008)** The yellow colour of human urine is due to a pigment
+**Q-ST23. UP Lower Sub (Pre) 2008**
+
+The yellow colour of human urine is due to a pigment
 called –  
 A. Cytochrome  
 B. Urochrome  
@@ -565,12 +606,14 @@ D. Phenolichrome
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **B** (Urochrome)  
-**Detailed Explanation:**
-- A pigment urochrome is the reason for the yellow colour of human urine. It is also known as urobilin.
+**Logic:** A pigment urochrome is the reason for the yellow colour of human urine.
+
+**Ans: B.** Urochrome
 </details>
 
-**Q24. (U.P. Lower Sub. (Pre) 2002)** The dialyzer is used for the work of –  
+**Q-ST24. UP Lower Sub (Pre) 2002**
+
+The dialyzer is used for the work of –
 A. Heart  
 B. Kidney  
 C. Liver  
@@ -578,12 +621,14 @@ D. Lungs
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **B** (Kidney)  
-**Detailed Explanation:**
-- The treatment options for kidney failure are peritoneal dialysis (PD), hemodialysis and kidney transplant. A dialyzer is an artificial kidney designed to provide controllable transfer of solutes and water across a semipermeable membrane separating flowing blood and dialysate streams.
+**Logic:** Standard key matches Kidney.
+
+**Ans: B.** Kidney
 </details>
 
-**Q25. (U.P.P.C.S. (Pre) 1994)** Which of the following is correct ?  
+**Q-ST25. UPPCS (Pre) 1994**
+
+Which of the following is correct ?
 A. All the blood in the body is absorbed through the kidneys.  
 B. All the blood in the body passes through the kidneys.  
 C. All the blood in the body is filtered through the kidneys  
@@ -591,13 +636,14 @@ D. All the blood in the body is made through the kidneys.
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **C** (All the blood in the body is filtered through the kidneys)  
-**Detailed Explanation:**
-- Kidneys remove excess organic molecules from the blood and it is by this action that their best-known function is performed–the removal of waste products of metabolism.
-- They serve the body as a natural filter of the blood and remove water-soluble wastes, such as urea and ammonium and they are also responsible for the reabsorption of water, glucose and amino acids.
+**Logic:** Kidneys remove excess organic molecules from the blood and it is by this action that their best-known function is performed–the removal of waste products of metabolism.
+
+**Ans: C.** All the blood in the body is filtered through the kidneys
 </details>
 
-**Q26. (U.P. Lower Sub. (Pre) 2002)** Where is urea separated from the blood?  
+**Q-ST26. UP Lower Sub (Pre) 2002**
+
+Where is urea separated from the blood?
 A. Intestine  
 B. Stomach  
 C. Spleen  
@@ -605,12 +651,14 @@ D. Kidney
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **D** (Kidney)  
-**Detailed Explanation:**
-- The process, ultrafiltration occurs at the barrier between the blood and the filtrate in the renal capsule in the kidney. The kidneys remove urea and other toxic wastes from the blood, forming a dilute solution called urine in the process.
+**Logic:** Standard key matches Kidney.
+
+**Ans: D.** Kidney
 </details>
 
-**Q27. (U.P.P.C.S. (Pre) 2011)** Which of the following is not the normal function of
+**Q-ST27. UPPCS (Pre) 2011**
+
+Which of the following is not the normal function of
 the human kidney?  
 A. Regulation of water level in the blood  
 B. Regulation of sugar level in the blood  
@@ -619,12 +667,14 @@ D. Secretion of several hormones
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **B** (Regulation of sugar level in the blood)  
-**Detailed Explanation:**
-- The main function of the pancreas is to produce insulin hormones. The pancreas plays an important role in digestion and in regulating blood sugar level in the blood, while other three options are the normal functions of human kidneys.
+**Logic:** The main function of the pancreas is to produce insulin hormones.
+
+**Ans: B.** Regulation of sugar level in the blood
 </details>
 
-**Q28. (U.P. R.O./A.R.O. (Pre) 2023)** Kidney stones are formed due to :  
+**Q-ST28. UP RO/ARO (Pre) 2023**
+
+Kidney stones are formed due to :
 A. Precipitation of Proteins  
 B. Crystalization of Oxalates  
 C. Deposition of sand particles  
@@ -632,14 +682,14 @@ D. Deposition of Fat
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **B** (Crystalization of Oxalates)  
-**Detailed Explanation:**
-- A kidney stone is a hard object that is made from chemicals in the urine. There are four types of kidney stones : calcium oxalate, uric acid, struvite, and crystine.
-- The most common type of kidney stone which is created when calcium combines with oxalate in the urine. Oxalate is one type of substance that can form crystals in the urine.
-- This can happen if there is too much oxalate, too little liquid, and the oxalate 'sticks' to calcium while urine is being made by the kidneys.
+**Logic:** A kidney stone is a hard object that is made from chemicals in the urine.
+
+**Ans: B.** Crystalization of Oxalates
 </details>
 
-**Q29. (U.P.P.C.S. (Pre) (Re. Exam) 2015)** What amongst the following is responsible for the
+**Q-ST29. UPPCS (Pre) (Re. Exam) 2015**
+
+What amongst the following is responsible for the
 formation of stone in the human kidney?  
 A. Calcium acetate  
 B. Calcium oxalate  
@@ -648,11 +698,10 @@ D. Sodium benzoate
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **B** (Calcium oxalate)  
-**Detailed Explanation:**
-- See the explanation of above question.
-</details>
+**Logic:** Same teaching key as the linked stem above; answer is Calcium oxalate.
 
+**Ans: B.** Calcium oxalate
+</details>
 
 ## Ghatnachakra Extra Drill: Digestion Anatomy, Juices & Hormones
 - **Alimentary Canal Architecture**: Total length in an adult human is approximately **30 feet (9 metres)** from oesophagus to anus.
@@ -702,7 +751,6 @@ D. Sodium benzoate
   - In humans, the vermiform appendix (attached to the caecum at the junction of small and large intestine) is a **vestigial organ**.
   - In herbivores, the caecum and appendix are hypertrophied and harbor cellulolytic bacteria to digest **cellulose**. Humans cannot digest cellulose because our digestive system produces no cellulase enzyme.
 - **Carbohydrate End-Product**: Starches and disaccharides are completely broken down to **monosaccharides (glucose, fructose, galactose)**. Unutilized glucose is converted into glycogen via **glycogenesis** and stored in the liver and skeletal muscles.
-
 
 ## 4.2 Respiratory Mechanics & Gas Transport Dynamics
 
@@ -769,7 +817,6 @@ D. Sodium benzoate
   - **Respiratory Quotient (RQ)**: Ratio of $CO_2$ evolved to $O_2$ consumed, measured via **Ganong's respirometer**:
     - Carbohydrates: **1.0** | Proteins: **0.8** | Fats / Lipids: **0.7**
 
-
 ## 4.3 Renal Excretion, Nephron Mechanics & Water Balance
 
 - **Gross Anatomy of the Human Urinary System**:
@@ -835,7 +882,9 @@ D. Sodium benzoate
 
 ## Complete PYQ Bank — UKPCS
 
-**Q1. (UKPCS Pre 2024)** Which of the following agent classes is primarily used as an immunosuppressor in kidney transplantation to prevent allograft rejection?  
+**Q-ST1. UKPCS Pre 2024**
+
+Which of the following agent classes is primarily used as an immunosuppressor in kidney transplantation to prevent allograft rejection?
 A. Monoclonal antibodies  
 B. Broad-spectrum antibiotics  
 C. Interferons  
@@ -844,15 +893,16 @@ D. Subunit vaccines
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **A** (Monoclonal antibodies)  
-**Detailed Explanation:**
-- In renal transplantation, immunosuppression to prevent host T-lymphocyte mediated organ rejection relies on **Monoclonal Antibodies** (such as anti-IL-2 receptor antibodies like Basiliximab, or anti-thymocyte globulin) and calcineurin inhibitors (Cyclosporine A). Antibiotics and vaccines do not stop graft rejection.
+**Logic:** In renal transplantation, immunosuppression to prevent host T-lymphocyte mediated organ rejection relies on Monoclonal Antibodies (such as anti-IL-2 receptor antibodies like Basiliximab, or anti-thymocyte globulin) and…
+
+**Ans: A.** Monoclonal antibodies
 </details>
 
 ---
 
+**Q-ST2. Uttarakhand P.C.S. (Pre) 2010**
 
-**Q2. (Uttarakhand P.C.S. (Pre) 2010)** Enzyme is a –  
+Enzyme is a –
 A. Vitamin  
 B. Bacterium  
 C. Bio-catalyst  
@@ -860,14 +910,14 @@ D. Virus
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **C** (Bio-catalyst)  
-**Detailed Explanation:**
-- Enzymes are biological molecules (proteins) that act as biocatalysts and helps complex reactions occur in the body. These are basically proteins which accelerate chemical reactions in living systems.
-- Almost all metabolic processes in the cell need enzymes catalysis in order to occur at rates fast enough to sustain life.
+**Logic:** Enzymes are biological molecules (proteins) that act as biocatalysts and helps complex reactions occur in the body.
+
+**Ans: C.** Bio-catalyst
 </details>
 
+**Q-ST3. Uttarakhand P.C.S. (Pre) 2007**
 
-**Q3. (Uttarakhand P.C.S. (Pre) 2007)** When kidneys fail to function, there is accumulation of–  
+When kidneys fail to function, there is accumulation of–
 A. Fats in the body  
 B. Proteins in the body  
 C. Sugar in the blood  
@@ -875,13 +925,14 @@ D. Nitrogenous waste products in the blood
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **D** (Nitrogenous waste products in the blood)  
-**Detailed Explanation:**
-- Metabolism refers to all of the body's chemical process, the digestion of food and the elimination of waste. The main nitrogenous wastes are ammonia, urea and uric acid.
-- Urea is formed from gluconeogenesis of amino acids. Urea is one of the primary components of urine. When kidneys fail to function, there is accumulation of nitrogenous waste products in the blood.
+**Logic:** Metabolism refers to all of the body's chemical process, the digestion of food and the elimination of waste.
+
+**Ans: D.** Nitrogenous waste products in the blood
 </details>
 
-**Q4. (Uttarakhand P.C.S. (Pre) 2024)** Which of the following is used as an immuno suppressor
+**Q-ST4. Uttarakhand P.C.S. (Pre) 2024**
+
+Which of the following is used as an immuno suppressor
 for kidney transplantation?  
 A. Antibiotics  
 B. Vaccines  
@@ -890,27 +941,27 @@ D. Monoclonal antibodies
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **D** (Monoclonal antibodies)  
-**Detailed Explanation:**
-- Immunosuppressants (anti-rejection medicines), are medicines that keep kidney transplants from being attacked by the immune system. Monoclonal antibodies play a crucial role in kidney transplant immunosuppression.
-- A series of monoclonal antibodies (mAbs) are commonly utilized in kidney transplantation as induction therapy (a period of intense immunosuppression immediately before and following the implant of the allograft), to treat steroidresistant acute rejections, to decrease the incidence and mitigate effects of delayed graft function, and to allow immunosuppressive minimization.
-- They target specific cells or molecules involved in the immune response, like T cells or the IL-2 receptor.
+**Logic:** Immunosuppressants (anti-rejection medicines), are medicines that keep kidney transplants from being attacked by the immune system.
+
+**Ans: D.** Monoclonal antibodies
 </details>
 
 ## Complete PYQ Bank — BPSC, IAS & Other State PCS (Ghatnachakra Digestive Focus)
 
-**Q1. (Ghatnachakra)** Which of the following are not the tastes of the tongue?
+**Q-ST1. Ghatnachakra**
+
+Which of the following are not the tastes of the tongue?
 1. Sweet 
 2. Bitter  
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** ****  
-**Detailed Explanation:**
+**Logic:** Key not printed in source dump (cancelled or blank).
 
+**Ans:** Source key blank.
 </details>
 
-**Q2. (69th B.P.S.C. (Pre) 2023)** Salty 
+**Q-ST2. 69th B.P.S.C. (Pre) 2023**
 4. Spicy
 5. Umami 6. Sour
 7. Pungent
@@ -922,17 +973,12 @@ D. 3 and 6
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **C** (4 and 7)  
-**Detailed Explanation:**
-- Tongue of human being has different types of papillae associated with taste buds and are responsible for detecting the tastes like – Sweet, Bitter, Salty, Umami and Sour.
-- They do not detect the 'Spicy' taste and the 'Pungent' which is associated with smell. The sensation of something as 'hot' or 'spicy' is quite often described as a taste.
-- Technically, this is just a pain signal sent by the nerves that transmit touch and temperature sensations. The substance 'capsaicin' in foods seasoned with chilli causes a sensation of pain and heat.
-- Hence, option (c) is the correct answer. 3. The sensitive area of the human tongue to bitterness is: (a) Tip (b) Middle part (c) Posterior part (d) Edge (e) None of the above / More than one of the above 66th B.P.S.C.
-- (Pre) 2020 Ans. (c) Sweet, sour, salty, bitter and savory (umami) tastes can actually be sensed by all parts of the human tongue. Only the sides of the tongue are more sensitive than the middle overall.
-- This is true for all tastes with one exception : the back of our tongue (i.e. posterior part) is very sensitive to bitter tastes. This is apparently to protect us so that we can spit out spoiled or poisonous foods or substances before they enter the throat and are swallowed.
+**Logic:** Standard key matches 4 and 7.
+
+**Ans: C.** 4 and 7
 </details>
 
-**Q3. (M.P.P.C.S. (Pre) 2019)** In the buccal cavity of human being digestion of which
+**Q-ST3. M.P.P.C.S. (Pre) 2019**
 one of the following get started?  
 A. Protein  
 B. Fat  
@@ -941,12 +987,14 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **C** (Carbohydrate)  
-**Detailed Explanation:**
-- In the buccal cavity of human being amylase enzyme in saliva breaks down starch (a form of carbohydrate) into maltose and dextrin. Thus, in the buccal cavity digestion of carbohydrate gets started.
+**Logic:** In the buccal cavity of human being amylase enzyme in saliva breaks down starch (a form of carbohydrate) into maltose and dextrin.
+
+**Ans: C.** Carbohydrate
 </details>
 
-**Q4. (R.A.S./R.T.S. (Pre) 2012)** The saliva helps in the digestion of –  
+**Q-ST4. R.A.S./R.T.S. (Pre) 2012**
+
+The saliva helps in the digestion of –
 A. Starch  
 B. Proteins  
 C. Fibres  
@@ -954,13 +1002,14 @@ D. Fat
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **A** (Starch)  
-**Detailed Explanation:**
-- Saliva is a watery substance located in the mouths of man and animals, secreted by the salivary glands. Human saliva is about 99.5% water, while the other 0.5% consists of electrolytes, mucus, glycoproteins, enzymes (eg.
-- amylase) and antibacterial compounds such as secretory IgA and lysozyme.The enzymes found in saliva are essential to begin the process of digestion of dietary starches.
+**Logic:** Standard key matches Starch.
+
+**Ans: A.** Starch
 </details>
 
-**Q5. (Jharkhand P.C.S. (Pre) 2013)** Which of the following is digested with the help of saliva?  
+**Q-ST5. Jharkhand P.C.S. (Pre) 2013**
+
+Which of the following is digested with the help of saliva?
 A. Protein  
 B. Starch  
 C. Fibre  
@@ -968,12 +1017,12 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **B** (Starch)  
-**Detailed Explanation:**
-- See the explanation of above question.
+**Logic:** Standard key matches Starch.
+
+**Ans: B.** Starch
 </details>
 
-**Q6. (R.A.S./R.T.S. (Pre) 1999)** Enzyme involved in the hydrolysis of starch to glucose
+**Q-ST6. R.A.S./R.T.S. (Pre) 1999**
 is-  
 A. Invertase  
 B. Amylase  
@@ -982,12 +1031,14 @@ D. Anhydrase
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **B** (Amylase)  
-**Detailed Explanation:**
-- Amylase is present in the saliva of humans and some other mammals, where it begins the chemical process of digestion. Amylase is an enzyme that catalyzes the hydrolysis of starch into glucose.
+**Logic:** Standard key matches Amylase.
+
+**Ans: B.** Amylase
 </details>
 
-**Q7. (I.A.S. (Pre) 2008)** Assertion (A) : In human body, the liver has an
+**Q-ST7. I.A.S. (Pre) 2008**
+
+Assertion (A) : In human body, the liver has an
 important role in fat digestion.
 Reason (R) : Liver produces two important fatdigesting enzymes.
 Code :  
@@ -998,13 +1049,14 @@ D. (A) is false, but (R) is true.
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **C** ((A) is true, but (R) is false.)  
-**Detailed Explanation:**
-- The liver does not produce fat-digesting enzymes. It detoxifies chemical and metabolizes drugs. The liver has multiple functions such as secretion of bile, storage of fat, synthesis of urea, glycogenesis, gluconeogenesis, and glycogenolysis etc.
-- Although the bile lacks digestive enzymes, yet it plays an important part in the digestion, especially in digestion of fats by bringing about their emulsification.
+**Logic:** The liver does not produce fat-digesting enzymes.
+
+**Ans: C.** (A) is true, but (R) is false
 </details>
 
-**Q8. (M.P. P.C.S. (Pre) 2021)** In which organ hydrochloric acid is secreted?  
+**Q-ST8. M.P. P.C.S. (Pre) 2021**
+
+In which organ hydrochloric acid is secreted?
 A. Intestine  
 B. Liver  
 C. Stomach  
@@ -1012,13 +1064,14 @@ D. Pancreas
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **C** (Stomach)  
-**Detailed Explanation:**
-- Hydrochloric acid is secreted by the parietal cells (also known as oxyntic cells) of the gastric glands in the stomach. Gastric juice contains mucous, hydrochloric acid and certain enzymes such as pepsin.
-- Hydrochloric acid kills the harmful bacteria present in the food. Hydrochloric acid secretion by the gastric parietal cells is necessary for pepsinogen activation and the reduction of bacterial colonization.
+**Logic:** Standard key matches Stomach.
+
+**Ans: C.** Stomach
 </details>
 
-**Q9. (70th B.P.S.C. (Pre) 2024)** Which of the following acid is secreted in the stomach ?  
+**Q-ST9. 70th B.P.S.C. (Pre) 2024**
+
+Which of the following acid is secreted in the stomach ?
 A. Sulphuric acid  
 B. Nitric acid  
 C. Phosphoric acid  
@@ -1026,12 +1079,14 @@ D. Hydrochloric acid
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **D** (Hydrochloric acid)  
-**Detailed Explanation:**
-- See the explanation of above question.
+**Logic:** Same teaching key as the linked stem above; answer is Hydrochloric acid.
+
+**Ans: D.** Hydrochloric acid
 </details>
 
-**Q10. (67th B.P.S.C. (Pre) (Re. Exam) 2022)** Most of the enzymes are :  
+**Q-ST10. 67th B.P.S.C. (Pre) (Re. Exam) 2022**
+
+Most of the enzymes are :
 A. proteins  
 B. lipids  
 C. acids  
@@ -1040,12 +1095,14 @@ E. None of the above/More than one of the above
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **A** (proteins)  
-**Detailed Explanation:**
-- See the explanation of above question.
+**Logic:** Same teaching key as the linked stem above; answer is proteins.
+
+**Ans: A.** proteins
 </details>
 
-**Q11. (Jharkhand P.C.S. (Pre) 2013)** Enzymes are –  
+**Q-ST11. Jharkhand P.C.S. (Pre) 2013**
+
+Enzymes are –
 A. Fats  
 B. RNA  
 C. Proteins  
@@ -1053,12 +1110,14 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **C** (Proteins)  
-**Detailed Explanation:**
-- See the explanation of above question.
+**Logic:** Same teaching key as the linked stem above; answer is Proteins.
+
+**Ans: C.** Proteins
 </details>
 
-**Q12. (44th B.P.S.C. (Pre) 2000)** Substances which are responsible for catalyzing
+**Q-ST12. 44th B.P.S.C. (Pre) 2000**
+
+Substances which are responsible for catalyzing
 chemical reactions in living systems are :  
 A. Bacteria  
 B. DNA  
@@ -1067,12 +1126,14 @@ D. Proteins
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **C** (Enzymes)  
-**Detailed Explanation:**
-- See the explanation of above question.
+**Logic:** Standard key matches Enzymes.
+
+**Ans: C.** Enzymes
 </details>
 
-**Q13. (Jharkhand P.C.S. (Pre) 2013)** Which enzyme can catalyze the conversion of glucose
+**Q-ST13. Jharkhand P.C.S. (Pre) 2013**
+
+Which enzyme can catalyze the conversion of glucose
 to ethanol?  
 A. Zymase  
 B. Invertase  
@@ -1081,12 +1142,14 @@ D. Diastase
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **A** (Zymase)  
-**Detailed Explanation:**
-- Zymase is an enzyme complex that catalyzes the fermentation of sugar into ethanol and carbon dioxide. It occurs naturally in yeasts. Zymase activity varies among yeast strains.
+**Logic:** Standard key matches Zymase.
+
+**Ans: A.** Zymase
 </details>
 
-**Q14. (I.A.S. (Pre) 2007)** Production of which one of the following is a function
+**Q-ST14. I.A.S. (Pre) 2007**
+
+Production of which one of the following is a function
 of the liver?  
 A. Lipase  
 B. Urea  
@@ -1095,13 +1158,14 @@ D. Hydrochloric acid
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **B** (Urea)  
-**Detailed Explanation:**
-- The liver is the largest gland in human body. It is located in the abdominal cavity, just below the diaphragm and has two lobes. It is an important digestive organ in human body.
-- Its main function is the production of bile, storage of fat and conversion of harmful ammonia to urea (urea is one of the end products of protein metabolism that is excreted in the urine).
+**Logic:** Standard key matches Urea.
+
+**Ans: B.** Urea
 </details>
 
-**Q15. (66th B.P.S.C. (Pre) (Re. Exam) 2020)** The source of the enzyme ‘lipase’ is :  
+**Q-ST15. 66th B.P.S.C. (Pre) (Re. Exam) 2020**
+
+The source of the enzyme ‘lipase’ is :
 A. Kidney  
 B. Pancreas  
 C. Liver  
@@ -1110,12 +1174,14 @@ E. None of the above/More than one of the above
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **B** (Pancreas)  
-**Detailed Explanation:**
-- The enzyme ‘lipase’ is produced in the pancreas, mouth and stomach. It is a fat hydrolysing enzyme. Its function is to digest fats and lipids, helping to maintain correct gallbladder function.
+**Logic:** The enzyme ‘lipase’ is produced in the pancreas, mouth and stomach.
+
+**Ans: B.** Pancreas
 </details>
 
-**Q16. (I.A.S. (Pre) 2007)** Which one of the following is not a digestive enzyme
+**Q-ST16. I.A.S. (Pre) 2007**
+
+Which one of the following is not a digestive enzyme
 in the human system?  
 A. Trypsin  
 B. Gastrin  
@@ -1124,13 +1190,14 @@ D. Pepsin
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **B** (Gastrin)  
-**Detailed Explanation:**
-- Trypsin, ptyalin, and pepsin are digestive enzymes whose secretion is performed by pancreas, salivary glands and stomach respectively. Gastrin is a peptide hormone that stimulates secretion of gastric acid (HCl) by the parietal cells of the stomach and aids in gastric motility.
-- It is released by G cells in the pyloric antrum of the stomach, duodenum, and the pancreas.
+**Logic:** Standard key matches Gastrin.
+
+**Ans: B.** Gastrin
 </details>
 
-**Q17. (I.A.S. (Pre) 2005)** Assertion (A) : All the proteins in our food are digested
+**Q-ST17. I.A.S. (Pre) 2005**
+
+Assertion (A) : All the proteins in our food are digested
 in small intestine only.
 Reason (R) : The protein-digesting enzyme from the
 pancreas are released into the small
@@ -1143,15 +1210,14 @@ D. (A) is false, but (R) is true.
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **D** ((A) is false, but (R) is true.)  
-**Detailed Explanation:**
-- Assertion (A) is false, but reason (R) is true. Protein digestion begins in the stomach with the action of an enzyme called pepsin. Pepsin is the active protein-digesting enzyme of the stomach.
-- Protein-digesting enzyme trypsin is produced in an inactivate form in the pancreas and is activated in the small intestine, where it digests protein.
-- Duodenum is the first and shortest segment of the small intestine. In the duodenum, trypsin catalyzes the hydrolysis of peptide bonds, breaking down proteins into smaller peptides.
-- Enzymes continue to break down polypeptides and peptides into amino acids. As amino acids are very small, they are able to be absorbed through the small intestine lining and into the bloodstream.
+**Logic:** Assertion (A) is false, but reason (R) is true.
+
+**Ans: D.** (A) is false, but (R) is true
 </details>
 
-**Q18. (R.A.S./R.T.S. (Pre) 1999)** Which of the following changes is catalyzed by the
+**Q-ST18. R.A.S./R.T.S. (Pre) 1999**
+
+Which of the following changes is catalyzed by the
 enzyme trypsin?  
 A. Proteins to peptones  
 B. Proteins to peptides  
@@ -1160,12 +1226,14 @@ D. Starch to glucose
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **C** (Proteins to amino acids)  
-**Detailed Explanation:**
-- In the duodenum, trypsin catalyzes the hydrolysis of peptide bonds, breaking down proteins into smaller peptides. The peptide products are then further hydrolyzed into amino acids via other proteases, rendering them available for absorption into the bloodstream.
+**Logic:** In the duodenum, trypsin catalyzes the hydrolysis of peptide bonds, breaking down proteins into smaller peptides.
+
+**Ans: C.** Proteins to amino acids
 </details>
 
-**Q19. (I.A.S. (Pre) 2007)** In the human body, which structure is the appendix
+**Q-ST19. I.A.S. (Pre) 2007**
+
+In the human body, which structure is the appendix
 attached to?  
 A. The large intestine  
 B. The small intestine  
@@ -1174,13 +1242,14 @@ D. The stomach
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **A** (The large intestine)  
-**Detailed Explanation:**
-- The appendix is a blind-ended tube connected to the caecum, that is considered to be the beginning of the large intestine from which it develops embryologically.
-- The caecum is a pouch-like structure of the colon, located at the junction of the small and the large intestines.
+**Logic:** The appendix is a blind-ended tube connected to the caecum, that is considered to be the beginning of the large intestine from which it develops embryologically.
+
+**Ans: A.** The large intestine
 </details>
 
-**Q20. (I.A.S. (Pre) 2007)** Which one of the following is the correct sequence in
+**Q-ST20. I.A.S. (Pre) 2007**
+
+Which one of the following is the correct sequence in
 the order of decreasing length of the three structural
 part given below of small intestine in the human body?  
 A. Jejunum – Duodenum – Ileum  
@@ -1190,16 +1259,12 @@ D. Ileum – Jejunum – Duodenum
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **D** (Ileum – Jejunum – Duodenum)  
-**Detailed Explanation:**
-- The small intestine is divided into three structural parts. The duodenum is a short structure (about 20–25 cm long) continuous with the stomach and shaped like 'C'.
-- It surrounds the head of the pancreas. The duodenum contains Brunner’s glands, which produce a mucus-rich alkaline secretion containing bicarbonate.
-- These secretions, in combination with bicarbonate from the pancreas, neutralizes the stomach acids contained in the gastric chyme. The jejunum is the midsection of the small intestine, connecting the duodenum to the ileum.
-- It is about 2.5m long and contains the plicae circulates and villi that increases its surface area. The ileum is the final section of the small intestine.
-- It is about 3.5 m long and contains villi similar to the jejunum. Hence, option (d) is the correct answer.
+**Logic:** The small intestine is divided into three structural parts.
+
+**Ans: D.** Ileum – Jejunum – Duodenum
 </details>
 
-**Q21. (R.A.S./R.T.S. (Re. Exam) (Pre) 2013)** Identify the correct pair of enzyme and its function :  
+**Q-ST21. R.A.S./R.T.S. (Re. Exam) (Pre) 2013**
 A. Acid – Mitochondrial marker phosphatase enzymes related to oxidative functions.  
 B. E. coli restriction – cuts DNA at specific endonuclease-II places.  
 C. Acrosin – cortical granules of ovum secrete it to prevent polyspermic fertilization.  
@@ -1207,13 +1272,14 @@ D. Succinic – Lysosomal dehydrogenase marker enzyme, hydrolyses metabolites.
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **B** (E. coli restriction – cuts DNA at specific endonuclease-II places.)  
-**Detailed Explanation:**
-- Restriction endonuclease Eco R II (pronounced 'eco R two'), an enzyme of restriction modification system (RM) naturally found in Escherichia coli, are a special class of enzyme that recognize and cleave (cuts) DNA at specific places.
-- They produce small well-defined fragments of DNA that help to characterize genes and genomes and that produce recombinant DNAs.
+**Logic:** Restriction endonuclease Eco R II (pronounced 'eco R two'), an enzyme of restriction modification system (RM) naturally found in Escherichia coli, are a special class of enzyme that recognize and cleave (cuts) DNA at sp…
+
+**Ans: B.** coli restriction – cuts DNA at specific endonuclease-II places
 </details>
 
-**Q22. (I.A.S. (Pre) 2001)** Match List-I with List-II and select the correct answer
+**Q-ST22. I.A.S. (Pre) 2001**
+
+Match List-I with List-II and select the correct answer
 using the codes given below the lists :
 List-I List-II
 A. Ptyalin 
@@ -1236,14 +1302,14 @@ D. 3 1 2 4
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **A** (2 3 1 5)  
-**Detailed Explanation:**
-- Ptyalin (Amylase) – An enzyme in the saliva that converts starch into dextrin and maltose. Pepsin – An enzyme that splits proteins into proteoses and peptones.
-- Renin – A proteolytic enzyme secreted by the kidneys that convert angiotensinogen into angiotensin. Oxytocin–A polypeptide hormone, produced by the posterior lobe of the pituitary gland that stimulates contraction of the smooth muscle of the uterus.
-- Hence, option (a) is the correct answer.
+**Logic:** Standard key matches Ptyalin.
+
+**Ans: A.** Ptyalin
 </details>
 
-**Q23. (67th B.P.S.C. (Pre) (Re. Exam) 2022)** The ultimate substance to which the carbohydrates
+**Q-ST23. 67th B.P.S.C. (Pre) (Re. Exam) 2022**
+
+The ultimate substance to which the carbohydrates
 are degraded, is :  
 A. amino acid  
 B. glycerol  
@@ -1253,13 +1319,14 @@ E. None of the above/More than one of the above
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **C** (glucose)  
-**Detailed Explanation:**
-- Carbohydrates in the diet provide the major exogenous source for glucose, which is the primary energy source for cells. The goal of carbohydrate digestion is to break down all disaccharides and complex carbohydrates into monosaccharides for absorption.
-- During digestion, starches and sugars are broken down both mechanically (e.g. through chewing) and chemically (e.g. by enzymes) into the single units of glucose, fructose, and/or galactose, which are absorbed into the blood stream and transported for use as energy throughout the body.
+**Logic:** Standard key matches glucose.
+
+**Ans: C.** glucose
 </details>
 
-**Q24. (56th to 59th B.P.S.C. (Pre) 2015)** Energy is stored in liver and muscles in the form of :  
+**Q-ST24. 56th to 59th B.P.S.C. (Pre) 2015**
+
+Energy is stored in liver and muscles in the form of :
 A. Carbohydrate  
 B. Fat  
 C. Protein  
@@ -1267,12 +1334,14 @@ D. Glycogen
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **D** (Glycogen)  
-**Detailed Explanation:**
-- Glycogen is the principal storage form of glucose or energy. In humans, it is stored in liver and muscle cells and can be converted to glucose, if needed.
+**Logic:** Glycogen is the principal storage form of glucose or energy.
+
+**Ans: D.** Glycogen
 </details>
 
-**Q25. (M.P.P.C.S. (Pre) 1990)** Which is the largest gland in the human body?  
+**Q-ST25. M.P.P.C.S. (Pre) 1990**
+
+Which is the largest gland in the human body?
 A. Liver  
 B. Pancreas  
 C. Thyroid gland  
@@ -1280,13 +1349,14 @@ D. Stomach
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **A** (Liver)  
-**Detailed Explanation:**
-- The liver is the largest internal organ and the largest gland in the human body. The liver is about 22 cm long and 15 cm wide reddish brown gland, weighing around 1.5 kg.
-- It plays an active role in the process of digestion of fats, carbohydrate through the production of bile.
+**Logic:** Standard key matches Liver.
+
+**Ans: A.** Liver
 </details>
 
-**Q26. (M.P. P.C.S. (Pre) 2016)** The largest gland in human body is –  
+**Q-ST26. M.P. P.C.S. (Pre) 2016**
+
+The largest gland in human body is –
 A. Pancreas  
 B. Liver  
 C. Salivary gland  
@@ -1294,12 +1364,14 @@ D. Adrenal gland
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **B** (Liver)  
-**Detailed Explanation:**
-- See the explanation of the above question.
+**Logic:** Standard key matches Liver.
+
+**Ans: B.** Liver
 </details>
 
-**Q27. (R.A.S./R.T.S. (Pre) 1992)** Bile is stored in which of the following organ?  
+**Q-ST27. R.A.S./R.T.S. (Pre) 1992**
+
+Bile is stored in which of the following organ?
 A. Spleen  
 B. Pancreas  
 C. Appendix  
@@ -1307,13 +1379,14 @@ D. Gallbladder
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **D** (Gallbladder)  
-**Detailed Explanation:**
-- Bile is a fluid that is made and released by the liver and stored in the gallbladder. It is stored and concentrated in the gallbladder unit which is needed to digest food.
-- In adults, the gallbladder measures approximately 8 centimetres in length and 4 centimetres in diameter.
+**Logic:** Bile is a fluid that is made and released by the liver and stored in the gallbladder.
+
+**Ans: D.** Gallbladder
 </details>
 
-**Q28. (70th B.P.S.C. (Pre) 2024)** Which part of alimentary canal receives bile from the
+**Q-ST28. 70th B.P.S.C. (Pre) 2024**
+
+Which part of alimentary canal receives bile from the
 liver ?  
 A. Stomach  
 B. Oesophagus  
@@ -1322,14 +1395,14 @@ D. Large intestine
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **C** (Small intestine)  
-**Detailed Explanation:**
-- The small intestine, specifically the duodenum (the first part of the small intestine), is the part of the alimentary canal that receives bile from the liver, which is stored and concentrated in the gallbladder.
-- The liver produces bile, a fluid that aids in the digestion and absorption of fats. Bile is stored and concentrated in the gallbladder. Bile flows from the liver and gallbladder through a network of ducts, including the common hepatic duct and the cystic duct, ultimately forming the common bile duct.
-- The common bile duct empties into the duodenum, the first part of the small intestine. In the duodenum, bile emulsifies fats, breaking them down into smaller droplets, which allows digestive enzymes to more effectively break down the fats.
+**Logic:** The small intestine, specifically the duodenum (the first part of the small intestine), is the part of the alimentary canal that receives bile from the liver, which is stored and concentrated in the gallbladder.
+
+**Ans: C.** Small intestine
 </details>
 
-**Q29. (I.A.S. (Pre) 2003)** With reference to normal human beings, consider the
+**Q-ST29. I.A.S. (Pre) 2003**
+
+With reference to normal human beings, consider the
 following statements :
 1. In response to the presence of HCI, secretin is
 produced from the duodenum.
@@ -1343,15 +1416,12 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **C** (Both 1 and 2)  
-**Detailed Explanation:**
-- Secretin is synthesized in cytoplasmic secretory granules of S-cells, which are found mainly in the mucosa of the duodenum. It is released into circulation and/or intestinal lumen in response to acidity (low duodenal pH) which is due to hydrochloric acid (HCl) in the chyme that enters the duodenum from the stomach.
-- Its primary function is to neutralize the pH in the duodenum, allowing digestive enzymes from the pancreas to function optimally. Enterogastrone is a hormone secreted by the mucosa of the duodenum (first section of the small intestine) in the lower gastrointestinal tract when fatty acids are in the stomach or small intestine.
-- It inhibits the caudal (forward, analward) motion of the contents of chyme.
+**Logic:** Secretin is synthesized in cytoplasmic secretory granules of S-cells, which are found mainly in the mucosa of the duodenum.
+
+**Ans: C.** Both 1 and 2
 </details>
 
-
-**Q30. (M.P. P.C.S. (Pre) 2016)** Mammals respire by :  
+**Q-ST30. M.P. P.C.S. (Pre) 2016**
 A. Gills  
 B. Trachea  
 C. Skin  
@@ -1359,13 +1429,14 @@ D. Lungs
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **D** (Lungs)  
-**Detailed Explanation:**
-- The lungs are the primary organs for respiration in mammals and most other vertebrates. In mammals, two lungs are located near the backbone on either side of the heart.
-- Its function in the respiratory system is to extract oxygen from the atmosphere and transfer it into the bloodstream and to release carbon dioxide from the bloodstream into the atmosphere, in a process of gas exchange.
+**Logic:** Standard key matches Lungs.
+
+**Ans: D.** Lungs
 </details>
 
-**Q31. (R.A.S./R.T.S. (Pre) 2003)** The amount of which of the following components in
+**Q-ST31. R.A.S./R.T.S. (Pre) 2003**
+
+The amount of which of the following components in
 the air does not change in the process of respiration?  
 A. Carbon dioxide (CO2 )  
 B. Oxygen  
@@ -1374,12 +1445,12 @@ D. Nitrogen
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **D** (Nitrogen)  
-**Detailed Explanation:**
-- The action or process of inhaling and exhaling of air is known as respiration. It is a metabolic process, common to all living things. During the expiration, nitrogen comes out with the same amount as it was entered during the inspiration, while the percentage of oxygen is decreased and amounts of carbon dioxide and water vapour are increased in expired (exhaled) air.
+**Logic:** The action or process of inhaling and exhaling of air is known as respiration.
+
+**Ans: D.** Nitrogen
 </details>
 
-**Q32. (I.A.S. (Pre) 1997)** Oxygen transportation in a human body takes place
+**Q-ST32. I.A.S. (Pre) 1997**
 through :
 1. Blood 
 2. Lungs 
@@ -1392,13 +1463,12 @@ D. 1, 3, 2
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **C** (2, 1, 3)  
-**Detailed Explanation:**
-- Getting oxygen to the body’s cells requires three major events in following sequence : • Uptaking oxygen from the air to the lungs; • Transporting that oxygen in the blood; • Delivering the oxygen to cells and tissues throughout the body.
-- Hence, option (c) is the correct answer.
+**Logic:** Standard key matches 2, 1, 3.
+
+**Ans: C.** 2, 1, 3
 </details>
 
-**Q33. (M.P.P.C.S. (Pre) 2012)** Carbon monoxide poisoning affects mainly which one
+**Q-ST33. M.P.P.C.S. (Pre) 2012**
 of the following?  
 A. Digestive activity  
 B. Liver functioning  
@@ -1407,13 +1477,14 @@ D. Oxygen carrying capacity of blood
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **D** (Oxygen carrying capacity of blood)  
-**Detailed Explanation:**
-- Carbon monoxide mainly causes adverse effects in humans by combining with haemoglobin to form carboxyhaemoglobin (HbCO) in the blood. This prevents haemoglobin from carrying oxygen to the tissues, effectively reducing the oxygen-carrying capacity of the blood, leading to hypoxia.
-- Additionally, myoglobin and mitochondrial cytochrome oxidase are thought to be adversely affected. Carboxyhaemoglobin can revert to haemoglobin, but the recovery takes time because the HbCO complex is fairly stable.
+**Logic:** Carbon monoxide mainly causes adverse effects in humans by combining with haemoglobin to form carboxyhaemoglobin (HbCO) in the blood.
+
+**Ans: D.** Oxygen carrying capacity of blood
 </details>
 
-**Q34. (I.A.S. (Pre) 1998)** The complete conversion of glucose, in the presence of
+**Q-ST34. I.A.S. (Pre) 1998**
+
+The complete conversion of glucose, in the presence of
 oxygen, into carbon dioxide and water with release of
 energy is called :  
 A. Aerobic respiration  
@@ -1423,13 +1494,14 @@ D. Hydrolysis
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **A** (Aerobic respiration)  
-**Detailed Explanation:**
-- Aerobic respiration is the release of energy from glucose or another organic substrate in the presence of oxygen, resultant glucose is converted into CO2 and H2 O.
-- By this process, large amount of energy is released. Aerobic respiration happens all the time in the cells of animals and plants.
+**Logic:** Aerobic respiration is the release of energy from glucose or another organic substrate in the presence of oxygen, resultant glucose is converted into CO2 and H2 O.
+
+**Ans: A.** Aerobic respiration
 </details>
 
-**Q35. (M.P.P.C.S. (Pre) 1991)** Which part of human body maintains the body
+**Q-ST35. M.P.P.C.S. (Pre) 1991**
+
+Which part of human body maintains the body
 temperature?  
 A. Heart  
 B. Lungs  
@@ -1438,13 +1510,14 @@ D. Kidney
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **B** (Lungs)  
-**Detailed Explanation:**
-- The lungs are main respiratory organ, which maintains the body temperature through breathing, inhaling oxygen-rich air and exhaling air filled with carbon dioxide which is a waste gas.
-- In this process, energy is produced in tissues by oxidation of foods and the water of the body is vaporised, which maintains the body temperature.
+**Logic:** Standard key matches Lungs.
+
+**Ans: B.** Lungs
 </details>
 
-**Q36. (I.A.S. (Pre) 2002)** With reference to the work of human kidney, consider
+**Q-ST36. I.A.S. (Pre) 2002**
+
+With reference to the work of human kidney, consider
 the following statements –
 1. After the waste is removed in the kidney, the cleaner
 blood is sent back through renal artery.
@@ -1459,13 +1532,14 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **B** (only 2)  
-**Detailed Explanation:**
-- The renal artery carries blood that contains waste products to the nephrons for filtering. After waste products are removed, cleaner blood leaves the kidney by way of the renal vein.
-- Thus, statement 1 is wrong while statement 2 is correct. From Bowman's capsule, the filtered liquid passes through tiny tubes where much of the glucose is reabsorbed and sent back to the blood in the renal vein.
+**Logic:** Standard key matches only 2.
+
+**Ans: B.** only 2
 </details>
 
-**Q37. (44th B.P.S.C. (Pre) 2000)** The process by which blood is purified in human body
+**Q-ST37. 44th B.P.S.C. (Pre) 2000**
+
+The process by which blood is purified in human body
 is called :  
 A. Dialysis  
 B. Haemolysis  
@@ -1474,13 +1548,14 @@ D. Paralysis
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **A** (Dialysis)  
-**Detailed Explanation:**
-- Dialysis is a process for removing waste and excess water from the blood and is used primarily as an artificial replacement for lost kidney function in people with kidney failure.
-- Dialysis filters out unwanted substances and fluids from the blood.
+**Logic:** Dialysis is a process for removing waste and excess water from the blood and is used primarily as an artificial replacement for lost kidney function in people with kidney failure.
+
+**Ans: A.** Dialysis
 </details>
 
-**Q38. (M.P.P.C.S. (Pre) 2004)** 'Dialysis' is related to ?  
+**Q-ST38. M.P.P.C.S. (Pre) 2004**
+
+'Dialysis' is related to ?
 A. Liver  
 B. Kidney  
 C. Eyes  
@@ -1488,12 +1563,14 @@ D. Brain
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **B** (Kidney)  
-**Detailed Explanation:**
-- See the explanation of above question.
+**Logic:** Standard key matches Kidney.
+
+**Ans: B.** Kidney
 </details>
 
-**Q39. (M.P.P.C.S. (Pre) 2017)** The kidneys in human beings are a part of system for  
+**Q-ST39. M.P.P.C.S. (Pre) 2017**
+
+The kidneys in human beings are a part of system for
 A. Nutrition  
 B. Transportation  
 C. Excretion  
@@ -1501,12 +1578,14 @@ D. Respiration
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **C** (Excretion)  
-**Detailed Explanation:**
-- In humans, kidneys are the main organ of the excretion system. Filtering the blood and removing unnecessary and waste products from the body is the basic function of kidney.
+**Logic:** In humans, kidneys are the main organ of the excretion system.
+
+**Ans: C.** Excretion
 </details>
 
-**Q40. (56th to 59th B.P.S.C. (Pre) 2015)** The average blood flow through kidneys per minute is  
+**Q-ST40. 56th to 59th B.P.S.C. (Pre) 2015**
+
+The average blood flow through kidneys per minute is
 A. 1000 cc  
 B. 1200 cc  
 C. 200 cc  
@@ -1514,13 +1593,14 @@ D. 500 cc
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **B** (1200 cc)  
-**Detailed Explanation:**
-- Kidneys are the most important organ in our body. Kidneys help in purification of blood and also removes toxic materials from our body through urine.
-- Our kidneys purify around 1500 litre of blood and excrete approximately 1.5 litre urine per day. About 1200 ml (cc) of blood flows through both the kidneys per minute and out of it about 1 ml of urine is formed per minute.
+**Logic:** Standard key matches 1200 cc.
+
+**Ans: B.** 1200 cc
 </details>
 
-**Q41. (I.A.S. (Pre) 1998)** The major chemical compound found in human kidney
+**Q-ST41. I.A.S. (Pre) 1998**
+
+The major chemical compound found in human kidney
 stones is :  
 A. Urea  
 B. Calcium carbonate  
@@ -1529,12 +1609,14 @@ D. Calcium sulphate
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **C** (Calcium oxalate)  
-**Detailed Explanation:**
-- Calcium oxalate is a chemical compound that forms envelope-shaped crystals, known in plants as raphides. A major constituent of human kidney stones is calcium oxalate.
+**Logic:** Calcium oxalate is a chemical compound that forms envelope-shaped crystals, known in plants as raphides.
+
+**Ans: C.** Calcium oxalate
 </details>
 
-**Q42. (I.A.S. (Pre) 2000)** The 'stones' formed in human kidney consist mostly of :  
+**Q-ST42. I.A.S. (Pre) 2000**
+
+The 'stones' formed in human kidney consist mostly of :
 A. Calcium oxalate  
 B. Sodium acetate  
 C. Magnesium sulphate  
@@ -1542,12 +1624,14 @@ D. Calcium
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **A** (Calcium oxalate)  
-**Detailed Explanation:**
-- See the explanation of above question.
+**Logic:** Same teaching key as the linked stem above; answer is Calcium oxalate.
+
+**Ans: A.** Calcium oxalate
 </details>
 
-**Q43. (63rd B.P.S.C. (Pre) 2017)** The element excreted through human sweat is :  
+**Q-ST43. 63rd B.P.S.C. (Pre) 2017**
+
+The element excreted through human sweat is :
 A. Sulfur  
 B. Iron  
 C. Magnesium  
@@ -1556,431 +1640,10 @@ E. None of the above/More than one of the above
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **E** (None of the above/More than one of the above)  
-**Detailed Explanation:**
-- Sweat is produced by the skin in the form of liquid to regulate the body temperature. It is the part of the excretory function of the skin. Sodium, potassium, calcium, magnesium and many other trace elements (eg.
-- zinc, copper, iron, chromium, nickel and lead) are excreted through human sweat.
+**Logic:** Sweat is produced by the skin in the form of liquid to regulate the body temperature.
+
+**Ans: E.** None of the above/More than one of the above
 </details>
-
-
-## Practice Zone — UPPCS Format Drill
-
-**Q1.** With reference to human digestive enzymes, which of the following statements is/are correct?
-1. Ptyalin in saliva initiates the digestion of dietary starch in the mouth.
-2. Bile juice contains active lipases that chemically cleave triglycerides into fatty acids.
-3. Enterokinase is secreted by the intestinal mucosa to activate trypsinogen.
-
-Select the correct answer from the code given below:  
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
-D. 1, 2 and 3  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (1 and 3 only)  
-**Detailed Explanation:**
-- Statement 1 is correct: Salivary amylase (ptyalin) converts starch to maltose at pH 6.8.
-- Statement 2 is incorrect: Bile contains **no enzymes whatsoever**; it emulsifies fats mechanically. Chemical digestion of fats is performed by pancreatic and intestinal lipases.
-- Statement 3 is correct: Enterokinase converts trypsinogen into active trypsin.
-</details>
-
-**Q2.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).  
-Assertion (A): Humans cannot derive metabolic energy from the consumption of dietary cellulose.  
-Reason (R): The human digestive system completely lacks the enzyme cellulase required to cleave $\beta\text{-1,4-glycosidic}$ bonds of cellulose.  
-
-Select the correct answer from the code given below:  
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-B. (A) is false, but (R) is true  
-C. (A) is true, but (R) is false  
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Both (A) and (R) are true and (R) is the correct explanation of (A))  
-**Detailed Explanation:**
-- Both statements are true and R provides the exact biochemical reason: humans lack microbial or endogenous cellulase enzymes, so cellulose acts merely as roughage.
-</details>
-
-**Q3.** Match List-I with List-II:
-
-| List-I (Organ / Cell Type) | List-II (Key Secretion / Function) |
-|---|---|
-| A. Parietal (Oxyntic) cells | 1. Emulsifying bile salts |
-| B. Gastric Chief cells | 2. Hydrochloric acid & Intrinsic factor |
-| C. Liver hepatocytes | 3. Pepsinogen |
-| D. Intestinal Villi Lacteals | 4. Absorption of Chylomicrons / Fats |
-
-Select the correct answer from the code given below:  
-A. A-2, B-3, C-1, D-4  
-B. A-3, B-2, C-1, D-4  
-C. A-2, B-1, C-3, D-4  
-D. A-4, B-3, C-1, D-2  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (A-2, B-3, C-1, D-4)  
-**Detailed Explanation:**
-- Parietal cells = HCl and Intrinsic factor (A-2).
-- Chief cells = Pepsinogen (B-3).
-- Hepatocytes = Bile salts (C-1).
-- Lacteals = Fat/Chylomicron absorption (D-4).
-</details>
-
-**Q4.** The dental formula of a normal adult human being is:  
-A. $\frac{2102}{2102}$  
-B. $\frac{2123}{2123}$  
-C. $\frac{2133}{2133}$  
-D. $\frac{1023}{1023}$  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** ($\frac{2123}{2123}$)  
-**Detailed Explanation:**
-- The adult human dental formula per quadrant is $\frac{2123}{2123} \times 2 = 32$ (2 Incisors, 1 Canine, 2 Premolars, 3 Molars).
-</details>
-
-**Q5.** In the human nephron, the maximum volume of water, electrolytes, and 100% of filtered glucose and amino acids are reabsorbed in the:  
-A. Bowman's capsule  
-B. Proximal Convoluted Tubule (PCT)  
-C. Loop of Henle  
-D. Distal Convoluted Tubule (DCT)  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Proximal Convoluted Tubule / PCT)  
-**Detailed Explanation:**
-- The brush-border cuboidal epithelium of the PCT reabsorbs 70–80% of water and electrolytes, and 100% of glucose and amino acids.
-</details>
-
-**Q6.** The volume of air that permanently remains in the lungs even after a maximal forced expiration is termed:  
-A. Tidal Volume  
-B. Vital Capacity  
-C. Residual Volume  
-D. Expiratory Reserve Volume  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Residual Volume)  
-**Detailed Explanation:**
-- Residual Volume (~1100–1200 mL) remains in alveoli after maximal forced expiration to prevent lung collapse and cannot be measured with a spirometer.
-</details>
-
-**Q7.** The major proportion of carbon dioxide ($CO_2$) in human blood (~70%) is transported in the form of:  
-A. Carbamino-haemoglobin  
-B. Bicarbonate ions in blood plasma  
-C. Dissolved gas in erythrocytes  
-D. Carbonic acid in plasma  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Bicarbonate ions in blood plasma)  
-**Detailed Explanation:**
-- ~70% of carbon dioxide is transported as bicarbonate ($HCO_3^-$) dissolved in plasma, generated by carbonic anhydrase in RBCs.
-</details>
-
-**Q8.** Carbon Monoxide ($CO$) is highly lethal when inhaled primarily because:  
-A. It destroys the alveolar epithelial lining  
-B. It binds to haemoglobin with over 200 times higher affinity than oxygen, forming carboxyhaemoglobin  
-C. It arrests the medullary rhythm centre directly  
-D. It inhibits the enzyme carbonic anhydrase  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (It binds to haemoglobin with over 200 times higher affinity than oxygen, forming carboxyhaemoglobin)  
-**Detailed Explanation:**
-- Carbon monoxide forms carboxyhaemoglobin with 200–250 times greater affinity than oxygen, blocking oxygen transport and causing cellular asphyxiation.
-</details>
-
-**Q9.** Primary regulation of respiratory rhythm by central chemoreceptors in the brain stem is mediated in response to:  
-A. Low arterial $pO_2$  
-B. High arterial $pCO_2$ and Hydrogen ion ($H^+$) concentration  
-C. High blood nitrogen levels  
-D. Venous blood pressure  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (High arterial $pCO_2$ and Hydrogen ion ($H^+$) concentration)  
-**Detailed Explanation:**
-- The chemosensitive area adjacent to the medullary rhythm centre is highly sensitive to increases in $pCO_2$ and $H^+$ ions, not to oxygen deficiency.
-</details>
-
-**Q10.** The hardest substance present in the human body is:  
-A. Femur bone  
-B. Tooth Dentine  
-C. Tooth Enamel  
-D. Temporal bone  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Tooth Enamel)  
-**Detailed Explanation:**
-- Tooth enamel, composed of 96% mineral calcium hydroxyapatite secreted by ameloblasts, is the hardest substance in the human body.
-</details>
-
-**Q11.** Human beings are classified as ureotelic organisms because the primary nitrogenous waste urea is synthesised in the:  
-A. Kidneys via ultrafiltration  
-B. Liver via the Ornithine cycle  
-C. Spleen via haemolysis  
-D. Intestine via bacterial fermentation  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Liver via the Ornithine cycle)  
-**Detailed Explanation:**
-- Urea is synthesised in the liver from toxic ammonia and $CO_2$ via the Ornithine (Krebs-Henseleit) cycle; kidneys merely excrete it.
-</details>
-
-**Q12.** Renal calculi (kidney stones) formed in humans are predominantly composed of crystals of:  
-A. Calcium Oxalate  
-B. Sodium Chloride  
-C. Magnesium Sulfate  
-D. Potassium Nitrate  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Calcium Oxalate)  
-**Detailed Explanation:**
-- Over 80% of human kidney stones are composed of insoluble calcium oxalate crystals ($CaC_2O_4$).
-</details>
-
-**Q13.** Which of the following hormones promotes water retention by increasing permeability of collecting ducts in the kidney?  
-A. Oxytocin  
-B. Antidiuretic Hormone (Vasopressin)  
-C. Glucagon  
-D. Calcitonin  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Antidiuretic Hormone / Vasopressin)  
-**Detailed Explanation:**
-- ADH (Vasopressin) from the posterior pituitary inserts aquaporins into collecting duct membranes, facilitating water reabsorption and concentrating urine.
-</details>
-
-**Q14.** The Bohr Effect in respiratory physiology describes:  
-A. Increased oxygen binding by haemoglobin under high $pCO_2$  
-B. Decreased oxygen affinity of haemoglobin and enhanced $O_2$ release under low pH and high $pCO_2$  
-C. The formation of bicarbonate in erythrocytes  
-D. Surfactant synthesis in alveoli  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Decreased oxygen affinity of haemoglobin and enhanced $O_2$ release under low pH and high $pCO_2$)  
-**Detailed Explanation:**
-- The Bohr effect states that elevated $pCO_2$ and acidity shift the oxygen dissociation curve to the right, promoting oxygen release at active respiring tissues.
-</details>
-
-**Q15.** The common bile duct and the main pancreatic duct unite together to open into the duodenum through the:  
-A. Pyloric sphincter  
-B. Ampulla of Vater (Hepato-pancreatic ampulla)  
-C. Cardiac sphincter  
-D. Duct of Santorini  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Ampulla of Vater / Hepato-pancreatic ampulla)  
-**Detailed Explanation:**
-- The bile duct and pancreatic duct join to form the Ampulla of Vater, which opens into the duodenum guarded by the Sphincter of Oddi.
-</details>
-
-**Q16.** In the complete aerobic oxidation of one molecule of glucose, the net yield of ATP molecules generated is:  
-A. 2 ATP  
-B. 12 ATP  
-C. 36 or 38 ATP  
-D. 4 ATP  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (36 or 38 ATP)  
-**Detailed Explanation:**
-- Complete oxidation of glucose through glycolysis, the link reaction, Krebs cycle, and oxidative phosphorylation yields 36 or 38 ATP.
-</details>
-
-**Q17.** Which of the following is an example of an organism exhibiting uricotelic excretion?  
-A. Rohu fish  
-B. Human being  
-C. Pigeon  
-D. Whale  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Pigeon)  
-**Detailed Explanation:**
-- Birds (pigeon), reptiles, and insects excrete uric acid paste to conserve water. Humans and whales are ureotelic; rohu fish is ammonotelic.
-</details>
-
-**Q18.** The yellow colour of normal human urine is attributed to the presence of:  
-A. Bilirubin  
-B. Urochrome  
-C. Melanin  
-D. Cholesterol  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Urochrome)  
-**Detailed Explanation:**
-- Urochrome, a pigment resulting from endogenous haemoglobin breakdown, gives urine its characteristic yellow tinge.
-</details>
-
-**Q19.** Acute muscle cramps and fatigue experienced after vigorous sprinting are primarily caused by the accumulation of:  
-A. Acetic acid  
-B. Lactic acid  
-C. Pyruvic acid  
-D. Carbonic acid  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Lactic acid)  
-**Detailed Explanation:**
-- Under anaerobic oxygen debt, skeletal muscles ferment pyruvate into lactic acid, whose accumulation causes soreness and muscle fatigue.
-</details>
-
-**Q20.** Severe painful arthritis caused by the deposition of sharp uric acid crystals in the joints is clinically diagnosed as:  
-A. Osteoarthritis  
-B. Rheumatoid arthritis  
-C. Gout  
-D. Spondylitis  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Gout)  
-**Detailed Explanation:**
-- Gout is a metabolic disorder resulting from hyperuricaemia, leading to deposition of monosodium urate crystals in synovial joints.
-</details>
-
-**Q21.** Which intestinal structure absorbs dietary lipids packaged into chylomicrons?  
-A. Blood capillaries of villi  
-B. Central Lacteals (Lymphatic vessels)  
-C. Hepatic portal vein  
-D. Crypts of Lieberkühn  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Central Lacteals / Lymphatic vessels)  
-**Detailed Explanation:**
-- In the villi, fat-protein droplets (chylomicrons) enter central lacteal lymphatic capillaries, which empty into the thoracic lymphatic duct.
-</details>
-
-**Q22.** What is the normal Glomerular Filtration Rate (GFR) in a healthy human adult?  
-A. $50\text{ mL/min}$ ($70\text{ L/day}$)  
-B. $125\text{ mL/min}$ ($180\text{ L/day}$)  
-C. $250\text{ mL/min}$ ($360\text{ L/day}$)  
-D. $15\text{ mL/min}$ ($20\text{ L/day}$)  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** ($125\text{ mL/min}$ / $180\text{ L/day}$)  
-**Detailed Explanation:**
-- Normal GFR is ~125 mL/min, generating approximately 180 litres of glomerular filtrate per day, of which 99% is reabsorbed.
-</details>
-
-**Q23.** The hormone Secretin, which stimulates pancreatic bicarbonate secretion, is secreted by the mucosa of the:  
-A. Stomach  
-B. Duodenum  
-C. Colon  
-D. Oesophagus  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Duodenum)  
-**Detailed Explanation:**
-- Secretin is secreted by duodenal S-cells when acidic chyme enters from the stomach, stimulating pancreatic duct cells to secrete bicarbonate.
-</details>
-
-**Q24.** Pulmonary surfactant, which prevents alveolar collapse by lowering surface tension, is chemically composed predominantly of:  
-A. Mucopolysaccharide  
-B. Dipalmitoyl lecithin (Phospholipid)  
-C. Pure glycogen  
-D. Collagen fibres  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Dipalmitoyl lecithin / Phospholipid)  
-**Detailed Explanation:**
-- Pulmonary surfactant is a lipoprotein complex rich in dipalmitoylphosphatidylcholine (lecithin) secreted by type-II alveolar cells.
-</details>
-
-**Q25.** During haemodialysis for a renal failure patient, which substance is added to blood before it passes through the dialyzer to prevent clotting?  
-A. Vitamin K  
-B. Heparin  
-C. Fibrinogen  
-D. Thrombin  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Heparin)  
-**Detailed Explanation:**
-- The anticoagulant heparin is infused into the arterial blood line to prevent clotting within the artificial kidney cellophane tubing.
-</details>
-
-## Common Traps & Negative-Marking Eliminators
-
-1. **Pepsin vs trypsin**: Pepsin works in **acidic** stomach; trypsin in **alkaline** duodenum.
-2. **Bile**: Emulsifies fats — it is **not** an enzyme.
-3. **Largest digestive gland**: **Liver**; pancreas is mixed exo/endocrine.
-4. **Oxygen transport**: Most O2 travels as **oxyhaemoglobin**; most CO2 as **bicarbonate**.
-5. **Inspiration vs expiration**: Inspiration is active (diaphragm contracts); quiet expiration is largely passive.
-6. **Urea vs uric acid vs ammonia**: Mammals = urea; birds/reptiles = uric acid; many aquatic animals = ammonia.
-7. **Nephron filtrate**: Ultrafiltration at **glomerulus**; major reabsorption in **proximal tubule**.
-8. **Dialysis**: Artificial kidney removes urea — it does **not** replace hormone functions of the kidney.
-9. **Salivary enzyme**: Ptyalin (salivary amylase) digests **starch**, not protein.
-10. **HCl role**: Activates pepsinogen and kills microbes — protein digestion enzyme is pepsin, not HCl itself.
-
-
----
-
-## Bilingual Terminology -- Digestion, Respiration and Excretion
-
-| English Term | Hindi Term | Key Anchor |
-|---|---|---|
-| **Digestion** (पाचन) | पाचन | Breaking down food into absorbable molecules |
-| **Alimentary Canal** (आहार नाल) | आहार नाल / पाचन नाल | Mouth to anus; complete digestive tract |
-| **Saliva** (लार) | लार | Secretion of salivary glands; contains **salivary amylase** (ptyalin) |
-| **Stomach** (आमाशय) | आमाशय | Secretes gastric juice (HCl + pepsin + mucin) |
-| **Small Intestine** (छोटी आंत) | क्षुद्रांत्र | Main site of digestion and absorption; duodenum, jejunum, ileum |
-| **Large Intestine** (बड़ी आंत) | वृहदांत्र | Water absorption; formation of faeces; colon, rectum |
-| **Liver** (यकृत) | यकृत | Largest gland; secretes bile; detoxification; glycogen storage |
-| **Pancreas** (अग्न्याशय) | अग्न्याशय | Secretes pancreatic juice (amylase, lipase, trypsinogen); also insulin/glucagon |
-| **Bile** (पित्त) | पित्त | Emulsifies fats; secreted by liver; stored in gallbladder |
-| **Villi** (आंत्र अंकुर) | रसांकुर | Finger-like projections in small intestine; increase surface area for absorption |
-| **Respiration** (श्वसन) | श्वसन | Process releasing energy from food; cellular respiration = aerobic/anaerobic |
-| **Aerobic Respiration** (वायवीय श्वसन) | वायवीय श्वसन | Uses O2; produces CO2 + H2O + 38 ATP per glucose |
-| **Anaerobic Respiration** (अवायवीय श्वसन) | अवायवीय श्वसन | No O2; produces lactic acid (muscles) or ethanol+CO2 (yeast) |
-| **Alveoli** (वायुकोश) | वायुकोश | Tiny air sacs in lungs; site of gas exchange (O2 in, CO2 out) |
-| **Diaphragm** (मध्यपट) | मध्यपट | Dome-shaped muscle below lungs; main breathing muscle |
-| **Excretion** (उत्सर्जन) | उत्सर्जन | Removal of metabolic waste products from the body |
-| **Kidney** (वृक्क) | वृक्क / गुर्दा | Primary excretory organ; filters blood to form urine |
-| **Nephron** (नेफ्रोन) | वृक्काणु / नेफ्रोन | Structural and functional unit of kidney; ~1 million per kidney |
-| **Urea** (यूरिया) | यूरिया | Main nitrogenous waste in mammals; formed in liver |
-| **Uric Acid** (यूरिक अम्ल) | यूरिक अम्ल | Nitrogenous waste in birds, reptiles, insects (less water loss) |
-| **Dialysis** (डायलिसिस) | डायलिसिस | Artificial kidney function; filters blood when kidneys fail |
-
----
 
 ## One-Liner Revision -- Digestion, Respiration and Excretion
 
@@ -2016,4 +1679,439 @@ D. Thrombin
 | 28 | ADH (Anti-diuretic hormone) = controls water reabsorption in kidney tubules |
 | 29 | Jaundice = yellow skin/eyes due to accumulation of **bilirubin** |
 | 30 | Appendix = vestigial organ in large intestine; removed in appendicitis |
+
+## Practice Zone — UPPCS Format Drill
+
+**Q1.**
+
+With reference to human digestive enzymes, which of the following statements is/are correct?
+1. Ptyalin in saliva initiates the digestion of dietary starch in the mouth.
+2. Bile juice contains active lipases that chemically cleave triglycerides into fatty acids.
+3. Enterokinase is secreted by the intestinal mucosa to activate trypsinogen.
+
+Select the correct answer from the code given below:  
+A. 1 and 2 only  
+B. 1 and 3 only  
+C. 2 and 3 only  
+D. 1, 2 and 3  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Statement 1 is correct: Salivary amylase (ptyalin) converts starch to maltose at pH 6.8.
+
+**Ans: B.** 1 and 3 only
+</details>
+
+**Q2.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+Assertion (A): Humans cannot derive metabolic energy from the consumption of dietary cellulose.  
+Reason (R): The human digestive system completely lacks the enzyme cellulase required to cleave $\beta\text{-1,4-glycosidic}$ bonds of cellulose.  
+
+Select the correct answer from the code given below:  
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+B. (A) is false, but (R) is true  
+C. (A) is true, but (R) is false  
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Both statements are true and R provides the exact biochemical reason: humans lack microbial or endogenous cellulase enzymes, so cellulose acts merely as roughage.
+
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)
+</details>
+
+**Q3.**
+
+Match List-I with List-II:
+
+| List-I (Organ / Cell Type) | List-II (Key Secretion / Function) |
+|---|---|
+| A. Parietal (Oxyntic) cells | 1. Emulsifying bile salts |
+| B. Gastric Chief cells | 2. Hydrochloric acid & Intrinsic factor |
+| C. Liver hepatocytes | 3. Pepsinogen |
+| D. Intestinal Villi Lacteals | 4. Absorption of Chylomicrons / Fats |
+
+Select the correct answer from the code given below:  
+A. A-2, B-3, C-1, D-4  
+B. A-3, B-2, C-1, D-4  
+C. A-2, B-1, C-3, D-4  
+D. A-4, B-3, C-1, D-2  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Parietal cells = HCl and Intrinsic factor (A-2).
+
+**Ans: A.** A-2, B-3, C-1, D-4
+</details>
+
+**Q4.**
+
+The dental formula of a normal adult human being is:
+A. $\frac{2102}{2102}$  
+B. $\frac{2123}{2123}$  
+C. $\frac{2133}{2133}$  
+D. $\frac{1023}{1023}$  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The adult human dental formula per quadrant is $\frac{2123}{2123} \times 2 = 32$ (2 Incisors, 1 Canine, 2 Premolars, 3 Molars).
+
+**Ans: B.** $\frac{2123}{2123}$
+</details>
+
+**Q5.**
+
+In the human nephron, the maximum volume of water, electrolytes, and 100% of filtered glucose and amino acids are reabsorbed in the:
+A. Bowman's capsule  
+B. Proximal Convoluted Tubule (PCT)  
+C. Loop of Henle  
+D. Distal Convoluted Tubule (DCT)  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The brush-border cuboidal epithelium of the PCT reabsorbs 70–80% of water and electrolytes, and 100% of glucose and amino acids.
+
+**Ans: B.** Proximal Convoluted Tubule / PCT
+</details>
+
+**Q6.**
+
+The volume of air that permanently remains in the lungs even after a maximal forced expiration is termed:
+A. Tidal Volume  
+B. Vital Capacity  
+C. Residual Volume  
+D. Expiratory Reserve Volume  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Residual Volume (~1100–1200 mL) remains in alveoli after maximal forced expiration to prevent lung collapse and cannot be measured with a spirometer.
+
+**Ans: C.** Residual Volume
+</details>
+
+**Q7.**
+
+The major proportion of carbon dioxide ($CO_2$) in human blood (~70%) is transported in the form of:
+A. Carbamino-haemoglobin  
+B. Bicarbonate ions in blood plasma  
+C. Dissolved gas in erythrocytes  
+D. Carbonic acid in plasma  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** ~70% of carbon dioxide is transported as bicarbonate ($HCO_3^-$) dissolved in plasma, generated by carbonic anhydrase in RBCs.
+
+**Ans: B.** Bicarbonate ions in blood plasma
+</details>
+
+**Q8.**
+
+Carbon Monoxide ($CO$) is highly lethal when inhaled primarily because:
+A. It destroys the alveolar epithelial lining  
+B. It binds to haemoglobin with over 200 times higher affinity than oxygen, forming carboxyhaemoglobin  
+C. It arrests the medullary rhythm centre directly  
+D. It inhibits the enzyme carbonic anhydrase  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Carbon monoxide forms carboxyhaemoglobin with 200–250 times greater affinity than oxygen, blocking oxygen transport and causing cellular asphyxiation.
+
+**Ans: B.** It binds to haemoglobin with over 200 times higher affinity than oxygen, forming carboxyhaemoglobin
+</details>
+
+**Q9.**
+
+Primary regulation of respiratory rhythm by central chemoreceptors in the brain stem is mediated in response to:
+A. Low arterial $pO_2$  
+B. High arterial $pCO_2$ and Hydrogen ion ($H^+$) concentration  
+C. High blood nitrogen levels  
+D. Venous blood pressure  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The chemosensitive area adjacent to the medullary rhythm centre is highly sensitive to increases in $pCO_2$ and $H^+$ ions, not to oxygen deficiency.
+
+**Ans: B.** High arterial $pCO_2$ and Hydrogen ion ($H^+$
+</details>
+
+**Q10.**
+
+The hardest substance present in the human body is:
+A. Femur bone  
+B. Tooth Dentine  
+C. Tooth Enamel  
+D. Temporal bone  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Tooth enamel, composed of 96% mineral calcium hydroxyapatite secreted by ameloblasts, is the hardest substance in the human body.
+
+**Ans: C.** Tooth Enamel
+</details>
+
+**Q11.**
+
+Human beings are classified as ureotelic organisms because the primary nitrogenous waste urea is synthesised in the:
+A. Kidneys via ultrafiltration  
+B. Liver via the Ornithine cycle  
+C. Spleen via haemolysis  
+D. Intestine via bacterial fermentation  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Urea is synthesised in the liver from toxic ammonia and $CO_2$ via the Ornithine (Krebs-Henseleit) cycle; kidneys merely excrete it.
+
+**Ans: B.** Liver via the Ornithine cycle
+</details>
+
+**Q12.**
+
+Renal calculi (kidney stones) formed in humans are predominantly composed of crystals of:
+A. Calcium Oxalate  
+B. Sodium Chloride  
+C. Magnesium Sulfate  
+D. Potassium Nitrate  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Over 80% of human kidney stones are composed of insoluble calcium oxalate crystals ($CaC_2O_4$).
+
+**Ans: A.** Calcium Oxalate
+</details>
+
+**Q13.**
+
+Which of the following hormones promotes water retention by increasing permeability of collecting ducts in the kidney?
+A. Oxytocin  
+B. Antidiuretic Hormone (Vasopressin)  
+C. Glucagon  
+D. Calcitonin  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** ADH (Vasopressin) from the posterior pituitary inserts aquaporins into collecting duct membranes, facilitating water reabsorption and concentrating urine.
+
+**Ans: B.** Antidiuretic Hormone / Vasopressin
+</details>
+
+**Q14.**
+
+The Bohr Effect in respiratory physiology describes:
+A. Increased oxygen binding by haemoglobin under high $pCO_2$  
+B. Decreased oxygen affinity of haemoglobin and enhanced $O_2$ release under low pH and high $pCO_2$  
+C. The formation of bicarbonate in erythrocytes  
+D. Surfactant synthesis in alveoli  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Bohr effect states that elevated $pCO_2$ and acidity shift the oxygen dissociation curve to the right, promoting oxygen release at active respiring tissues.
+
+**Ans: B.** Decreased oxygen affinity of haemoglobin and enhanced $O_2$ release under low pH and high $pCO_2$
+</details>
+
+**Q15.**
+
+The common bile duct and the main pancreatic duct unite together to open into the duodenum through the:
+A. Pyloric sphincter  
+B. Ampulla of Vater (Hepato-pancreatic ampulla)  
+C. Cardiac sphincter  
+D. Duct of Santorini  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The bile duct and pancreatic duct join to form the Ampulla of Vater, which opens into the duodenum guarded by the Sphincter of Oddi.
+
+**Ans: B.** Ampulla of Vater / Hepato-pancreatic ampulla
+</details>
+
+**Q16.**
+
+In the complete aerobic oxidation of one molecule of glucose, the net yield of ATP molecules generated is:
+A. 2 ATP  
+B. 12 ATP  
+C. 36 or 38 ATP  
+D. 4 ATP  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Complete oxidation of glucose through glycolysis, the link reaction, Krebs cycle, and oxidative phosphorylation yields 36 or 38 ATP.
+
+**Ans: C.** 36 or 38 ATP
+</details>
+
+**Q17.**
+
+Which of the following is an example of an organism exhibiting uricotelic excretion?
+A. Rohu fish  
+B. Human being  
+C. Pigeon  
+D. Whale  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Pigeon.
+
+**Ans: C.** Pigeon
+</details>
+
+**Q18.**
+
+The yellow colour of normal human urine is attributed to the presence of:
+A. Bilirubin  
+B. Urochrome  
+C. Melanin  
+D. Cholesterol  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Urochrome, a pigment resulting from endogenous haemoglobin breakdown, gives urine its characteristic yellow tinge.
+
+**Ans: B.** Urochrome
+</details>
+
+**Q19.**
+
+Acute muscle cramps and fatigue experienced after vigorous sprinting are primarily caused by the accumulation of:
+A. Acetic acid  
+B. Lactic acid  
+C. Pyruvic acid  
+D. Carbonic acid  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Under anaerobic oxygen debt, skeletal muscles ferment pyruvate into lactic acid, whose accumulation causes soreness and muscle fatigue.
+
+**Ans: B.** Lactic acid
+</details>
+
+**Q20.**
+
+Severe painful arthritis caused by the deposition of sharp uric acid crystals in the joints is clinically diagnosed as:
+A. Osteoarthritis  
+B. Rheumatoid arthritis  
+C. Gout  
+D. Spondylitis  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Gout.
+
+**Ans: C.** Gout
+</details>
+
+**Q21.**
+
+Which intestinal structure absorbs dietary lipids packaged into chylomicrons?
+A. Blood capillaries of villi  
+B. Central Lacteals (Lymphatic vessels)  
+C. Hepatic portal vein  
+D. Crypts of Lieberkühn  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** In the villi, fat-protein droplets (chylomicrons) enter central lacteal lymphatic capillaries, which empty into the thoracic lymphatic duct.
+
+**Ans: B.** Central Lacteals / Lymphatic vessels
+</details>
+
+**Q22.**
+
+What is the normal Glomerular Filtration Rate (GFR) in a healthy human adult?
+A. $50\text{ mL/min}$ ($70\text{ L/day}$)  
+B. $125\text{ mL/min}$ ($180\text{ L/day}$)  
+C. $250\text{ mL/min}$ ($360\text{ L/day}$)  
+D. $15\text{ mL/min}$ ($20\text{ L/day}$)  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Normal GFR is ~125 mL/min, generating approximately 180 litres of glomerular filtrate per day, of which 99% is reabsorbed.
+
+**Ans: B.** $125\text{ mL/min}$ / $180\text{ L/day}$
+</details>
+
+**Q23.**
+
+The hormone Secretin, which stimulates pancreatic bicarbonate secretion, is secreted by the mucosa of the:
+A. Stomach  
+B. Duodenum  
+C. Colon  
+D. Oesophagus  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Secretin is secreted by duodenal S-cells when acidic chyme enters from the stomach, stimulating pancreatic duct cells to secrete bicarbonate.
+
+**Ans: B.** Duodenum
+</details>
+
+**Q24.**
+
+Pulmonary surfactant, which prevents alveolar collapse by lowering surface tension, is chemically composed predominantly of:
+A. Mucopolysaccharide  
+B. Dipalmitoyl lecithin (Phospholipid)  
+C. Pure glycogen  
+D. Collagen fibres  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Pulmonary surfactant is a lipoprotein complex rich in dipalmitoylphosphatidylcholine (lecithin) secreted by type-II alveolar cells.
+
+**Ans: B.** Dipalmitoyl lecithin / Phospholipid
+</details>
+
+**Q25.**
+
+During haemodialysis for a renal failure patient, which substance is added to blood before it passes through the dialyzer to prevent clotting?
+A. Vitamin K  
+B. Heparin  
+C. Fibrinogen  
+D. Thrombin  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Heparin.
+
+**Ans: B.** Heparin
+</details>
+
+## Common Traps & Negative-Marking Eliminators
+
+1. **Pepsin vs trypsin**: Pepsin works in **acidic** stomach; trypsin in **alkaline** duodenum.
+2. **Bile**: Emulsifies fats — it is **not** an enzyme.
+3. **Largest digestive gland**: **Liver**; pancreas is mixed exo/endocrine.
+4. **Oxygen transport**: Most O2 travels as **oxyhaemoglobin**; most CO2 as **bicarbonate**.
+5. **Inspiration vs expiration**: Inspiration is active (diaphragm contracts); quiet expiration is largely passive.
+6. **Urea vs uric acid vs ammonia**: Mammals = urea; birds/reptiles = uric acid; many aquatic animals = ammonia.
+7. **Nephron filtrate**: Ultrafiltration at **glomerulus**; major reabsorption in **proximal tubule**.
+8. **Dialysis**: Artificial kidney removes urea — it does **not** replace hormone functions of the kidney.
+9. **Salivary enzyme**: Ptyalin (salivary amylase) digests **starch**, not protein.
+10. **HCl role**: Activates pepsinogen and kills microbes — protein digestion enzyme is pepsin, not HCl itself.
+
+---
 

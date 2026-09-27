@@ -180,7 +180,7 @@ Budget / tax deepens in Economy Topic 2. Money / banking deepens in Topic 3. Inf
 - **Adam Smith** is the usual “Father of Economics” tag; **J.M. Keynes** is the face of modern macroeconomics — not the Father of Economics.
 - The Indian mixed-economy model is keyed as protecting interests of **State and person both**.
 
-**UPPCS (Pre) 2024**
+**Q-EC1. UPPCS (Pre) 2024**
 
 With reference to Economic Growth, which of the following statements is/are correct?
 
@@ -198,9 +198,9 @@ D. Only 2 and 3 are correct.
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Statements 1 and 2 match standard textbook classification. Statement 3 fails — Adam Smith is the usual Father of Economics tag; Keynes is modern macro.
+**Logic:** Statement 3 fails — Adam Smith is the usual Father of Economics tag; Keynes is modern macro.
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: A.** Statements 1 and 2 match standard textbook classification.
 
 </details>
 
@@ -222,7 +222,7 @@ D. Only 2 and 3 are correct.
 - Environmental sustainability enters development debate; it is not an HDI pillar (Topic 8 / 12).
 - World Bank financial-aid growth is **not** a usual measure when conceptualising economic growth.
 
-**UPPCS (Pre) 2024**
+**Q-EC2. UPPCS (Pre) 2024**
 
 Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
 
@@ -240,10 +240,9 @@ D. (A) is true, but (R) is false.
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** Broader welfare definition exists because income growth alone proved insufficient.
+**A/R logic:** Decide from the stem options; keyed answer is Both (A) and (R) are true and (R) is the correct explanation of (A).
 
-**Ans: A.** Both (A) and (R) are true and (R) is the correct explanation of (A).
-
+**Ans: A.** Both (A) and (R) are true and (R) is the correct explanation of (A)
 </details>
 
 ## 1.3 National income — GDP family
@@ -271,7 +270,7 @@ D. (A) is true, but (R) is false.
 - Largest State economy by NSDP: **Maharashtra**. Lowest State PCI: **Bihar**. Highest PCI end: **Sikkim** / Goa cluster.
 - **Green GDP** adjusts conventional GDP for environmental degradation and resource depletion in teaching.
 
-**UKPCS (Pre) 2016**
+**Q-EC3. UKPCS (Pre) 2016**
 
 One of the problems in calculating National Income in India is
 
@@ -283,9 +282,9 @@ D. Non-monetised consumption
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Non-monetised / informal output is hard to capture in money NI accounts.
+**Logic:** Non-monetised consumption.
 
-**Ans: D.** Non-monetised consumption.
+**Ans: D.** Non-monetised / informal output is hard to capture in money NI accounts.
 
 </details>
 
@@ -323,7 +322,7 @@ D. Non-monetised consumption
 - **Gandhian Plan** is by **Sriman Narayan Agarwal**. Among keyed names, **Mahatma Gandhi** opposed centralised planned development.
 - *Yojana* is published by the **Publications Division** (Ministry of I&B). **B.S. Minhas** wrote *Planning and the Poor*.
 
-**UPPCS (Pre) 2018**
+**Q-EC4. UPPCS (Pre) 2018**
 
 Who was the first Vice-Chairman of the NITI Ayog?
 
@@ -335,13 +334,13 @@ D. Rajiv Kumar
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Panagariya was the first Vice-Chairperson. Rajiv Kumar came later.
+**Logic:** Rajiv Kumar came later.
 
-**Ans: A.** Arvind Panagariya.
+**Ans: A.** Panagariya was the first Vice-Chairperson.
 
 </details>
 
-**UPPCS (Pre) 2020**
+**Q-EC5. UPPCS (Pre) 2020**
 
 The Atal Innovation Mission (AIM) is a flagship initiative set up by
 
@@ -353,13 +352,12 @@ D. Ministry of Science and Technology
 <details>
 <summary>Show answer</summary>
 
-**Logic:** AIM sits under NITI Aayog.
+**Logic:** AIM sits under NITI Aayog — NITI Aayog
 
-**Ans: B.** NITI Aayog.
-
+**Ans: B.** NITI Aayog
 </details>
 
-**UPPCS (Pre) 2020**
+**Q-EC6. UPPCS (Pre) 2020**
 
 The Development Monitoring and Evaluation Office, which monitors the progress of long-term policies, is an attached office under
 
@@ -371,13 +369,12 @@ D. NITI Aayog
 <details>
 <summary>Show answer</summary>
 
-**Logic:** DMEO (18 Sep 2015) is attached to NITI after merging PEO and IEO — not PMO or Cabinet Secretariat.
+**Logic:** DMEO (18 Sep 2015) is attached to NITI after merging PEO and IEO — not PMO or Cabinet Secretariat — NITI Aayog
 
-**Ans: D.** NITI Aayog.
-
+**Ans: D.** NITI Aayog
 </details>
 
-**UKPCS (Pre) 2025**
+**Q-EC7. UKPCS (Pre) 2025**
 
 With reference to NITI Aayog, consider the following statements:
 
@@ -393,13 +390,13 @@ D. 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Only statement 2 is true. Date is 2015; Chairperson is the PM.
+**Logic:** Date is 2015; Chairperson is the PM.
 
-**Ans: C.** Only 2.
+**Ans: C.** Only statement 2 is true.
 
 </details>
 
-**UKPCS (Pre) 2024**
+**Q-EC8. UKPCS (Pre) 2024**
 
 Which of the following is NOT a part of the Governing Council of NITI Aayog?
 
@@ -411,9 +408,9 @@ D. Lieutenant Governor of Andaman & Nicobar Islands
 <details>
 <summary>Show answer</summary>
 
-**Logic:** GC has CMs and Lt Governors of UTs without legislatures — not State Governors.
+**Logic:** Governors of States.
 
-**Ans: C.** Governors of States.
+**Ans: C.** GC has CMs and Lt Governors of UTs without legislatures — not State Governors.
 
 </details>
 
@@ -446,7 +443,7 @@ D. Lieutenant Governor of Andaman & Nicobar Islands
 - **Core sector** means selected **basic industries** (power, steel, refining, crude, coal, cement, gas, fertilisers) — not agriculture or defence alone.
 - Plan-era allocation politics ended with NITI; Plan slogans still appear in Prelims stems.
 
-**UPPCS (Pre) 2018**
+**Q-EC9. UPPCS (Pre) 2018**
 
 In India which of the following Five Year Plans was launched with a focus on sustainable growth?
 
@@ -458,13 +455,13 @@ D. 12th
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Twelfth Plan — Faster, More Inclusive and Sustainable Growth. Eleventh is the inclusive-growth slogan.
+**Logic:** Eleventh is the inclusive-growth slogan.
 
-**Ans: D.** 12th.
+**Ans: D.** Twelfth Plan — Faster, More Inclusive and Sustainable Growth.
 
 </details>
 
-**UKPCS (Pre) 2025**
+**Q-EC10. UKPCS (Pre) 2025**
 
 Which Five Year Plan was focused on inclusive growth?
 
@@ -476,10 +473,9 @@ D. 11th
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Eleventh Plan title centres inclusive growth.
+**Logic:** Eleventh Plan title centres inclusive growth — 11th
 
-**Ans: D.** 11th.
-
+**Ans: D.** 11th
 </details>
 
 ## 1.6 Reforms and the cycle
@@ -507,7 +503,7 @@ D. 11th
 - **Meltdown** keys a steep fall in stock prices; recession is not a mere dip in the growth rate; slowdown is not simply “fall in GDP”.
 - Cycles move around the long-run growth path — they do not replace structural reform teaching.
 
-**UKPCS (Pre) 2016**
+**Q-EC11. UKPCS (Pre) 2016**
 
 The first phase of liberalization was initiated in India under the regime of
 
@@ -519,14 +515,13 @@ D. H. D. Deve Gowda
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Mid-1980s delicensing / reform wave under Rajiv Gandhi is the usual “first phase” key. 1991 under Narasimha Rao is the full LPG break.
+**Logic:** 1991 under Narasimha Rao is the full LPG break.
 
-**Ans: A.** Rajiv Gandhi.
+**Ans: A.** Mid-1980s delicensing / reform wave under Rajiv Gandhi is the usual “first phase” key.
 
 </details>
 
 ---
-
 
 ## Teaching expansion — additional theory (beyond Consolidated spine)
 
@@ -548,7 +543,6 @@ These points sit in teaching theory (not the Consolidated spine).
 
 ## Complete PYQ Bank (UPPCS)
 
-
 **Q1. UPPCS (Pre) 2024**
 
 With reference to Economic Growth, which of the following statements is/are correct?
@@ -567,9 +561,9 @@ D. Only 2 and 3 are correct.
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Mixed + underdeveloped/developing textbook tags true; Keynes title false.
+**Logic:** Only 1 and 2 are correct.
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: A.** Mixed + underdeveloped/developing textbook tags true; Keynes title false.
 
 </details>
 
@@ -591,10 +585,9 @@ D. (A) is true, but (R) is false.
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** Insufficient income measure explains the broader definition.
+**A/R logic:** Decide from the stem options; keyed answer is Both (A) and (R) are true and (R) is the correct explanation of (A).
 
-**Ans: A.** Both true and R explains A.
-
+**Ans: A.** Both (A) and (R) are true and (R) is the correct explanation of (A)
 </details>
 
 **Q3. UPPCS (Pre) 2018**
@@ -609,9 +602,9 @@ D. Rajiv Kumar
 <details>
 <summary>Show answer</summary>
 
-**Logic:** First VC = Panagariya.
+**Logic:** Arvind Panagariya.
 
-**Ans: A.** Arvind Panagariya.
+**Ans: A.** First VC = Panagariya.
 
 </details>
 
@@ -627,10 +620,9 @@ D. 12th
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 12th Plan sustainability tag.
+**Logic:** 12th Plan sustainability tag — 12th
 
-**Ans: D.** 12th.
-
+**Ans: D.** 12th
 </details>
 
 **Q5. UPPCS (Pre) 2020**
@@ -645,13 +637,12 @@ D. Ministry of Science and Technology
 <details>
 <summary>Show answer</summary>
 
-**Logic:** AIM under NITI.
+**Logic:** Standard key matches NITI Aayog.
 
-**Ans: B.** NITI Aayog.
-
+**Ans: B.** NITI Aayog
 </details>
 
-**Q6. U.P.P.C.S. (Pre) 2023**
+**Q6. UPPCS (Pre) 2023**
 
 Which of the following is not an economic activity?
 
@@ -663,13 +654,13 @@ D. Service
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Economic activity needs resource input → production → valued output. Unpaid voluntary social service is not.
+**Logic:** Unpaid voluntary social service is not.
 
-**Ans: A.** Voluntary Social Service.
+**Ans: A.** Economic activity needs resource input → production → valued output.
 
 </details>
 
-**Q7. U.P.P.C.S. (Pre) 2021**
+**Q7. UPPCS (Pre) 2021**
 
 Which among the following is NOT a major factor of economic growth?
 
@@ -681,13 +672,13 @@ D. Technocrats and Bureaucrats
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Natural resources, physical/human capital, labour and technology are major factors — not the bureaucrats label.
+**Logic:** Technocrats and Bureaucrats.
 
-**Ans: D.** Technocrats and Bureaucrats.
+**Ans: D.** Natural resources, physical/human capital, labour and technology are major factors — not the bureaucrats label.
 
 </details>
 
-**Q8. U.P.P.C.S. (Pre) 2021**
+**Q8. UPPCS (Pre) 2021**
 
 With reference to the 'Capital formation' which of the statements is/are correct?
 
@@ -704,13 +695,13 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Save → channel via institutions → invest.
+**Logic:** Both 1 and 2.
 
-**Ans: C.** Both 1 and 2.
+**Ans: C.** Save → channel via institutions → invest.
 
 </details>
 
-**Q9. U.P.P.C.S. (Pre) 1990**
+**Q9. UPPCS (Pre) 1990**
 
 Mixed economy means:
 
@@ -722,13 +713,13 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Public + private coexistence — not size of firms or production sectors.
+**Logic:** Existence of both private and public sectors.
 
-**Ans: B.** Existence of both private and public sectors.
+**Ans: B.** Public + private coexistence — not size of firms or production sectors.
 
 </details>
 
-**Q10. U.P.P.C.S. (Mains) 2003**
+**Q10. UPPCS (Mains) 2003**
 
 India became member of International Monetary Fund (IMF). Select the correct answer with the codes given below:
 
@@ -739,13 +730,12 @@ C. 1, 2,3,4
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Correct option is **B** — 4,3, 1, 2.
+**Logic:** Correct option is B — 4,3, 1, 2 — 4,3, 1, 2
 
-**Ans: B.** **
-
+**Ans: B.** 4,3, 1, 2
 </details>
 
-**Q11. U.P.P.C.S. (Mains) 2014**
+**Q11. UPPCS (Mains) 2014**
 
 Communications The document of Twelfth Five Year Plan suggests that the largest expenditure in this plan would be on:
 
@@ -757,13 +747,12 @@ D. Fisheries and Forestry
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Twelfth Plan document keyed the **largest expenditure share** to **Social Services**.
+**Logic:** Twelfth Plan document keyed the largest expenditure share to Social Services — Social Services
 
-**Ans: B.** **
-
+**Ans: B.** Social Services
 </details>
 
-**Q12. U.P.P.C.S. (Pre) 2018**
+**Q12. UPPCS (Pre) 2018**
 
 Which of the following was called as Economic Cabinet of India by Ashok Chandra?
 
@@ -775,12 +764,13 @@ D. Administrative Reform Commission
 <details>
 <summary>Show answer</summary>
 
-**Logic:** The Planning Commission was called as Economic Cabinet of India by Ashok Chandra. Ashok Chandra pointed out that the Planning Commission's undefined position and wide terms of reference had catapulted it into a position of 'the Economic Cabinet'
+**Logic:** Ashok Chandra pointed out that the Planning Commission's undefined position and wide terms of reference had catapulted it into a position of 'the Economic Cabinet'
 
-**Ans: A.** Planning Commission.
+**Ans: A.** The Planning Commission was called as Economic Cabinet of India by Ashok Chandra.
+
 </details>
 
-**Q13. U.P.P.C.S. (Spl.) (Pre) 2008**
+**Q13. UPPCS (Spl.) (Pre) 2008**
 
 National Development Council was constituted on:
 
@@ -791,13 +781,12 @@ C. 6 August 1952
 <details>
 <summary>Show answer</summary>
 
-**Logic:** NDC was constituted on **6 August 1952**; PM is ex-officio Chairman.
+**Logic:** NDC was constituted on 6 August 1952; PM is ex-officio Chairman — 6 August 1952
 
-**Ans: C.** **
-
+**Ans: C.** 6 August 1952
 </details>
 
-**Q14. U.P.P.C.S. (Pre) 1999**
+**Q14. UPPCS (Pre) 1999**
 
 Planning commission is constituted in India:
 
@@ -809,13 +798,12 @@ D. By a resolution of the Lok Sabha
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Planning Commission was set up by **Cabinet resolution** (15 March 1950) — non-constitutional, non-statutory.
+**Logic:** Planning Commission was set up by Cabinet resolution (15 March 1950) — non-constitutional, non-statutory — By a resolution of the Cabinet
 
-**Ans: C.** **
-
+**Ans: C.** By a resolution of the Cabinet
 </details>
 
-**Q15. U.P.P.C.S. (Mains) 2014**
+**Q15. UPPCS (Mains) 2014**
 
 Planning Commission of India is
 
@@ -826,13 +814,12 @@ C. Quasi-Political body
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Planning Commission is keyed as a **quasi-political / advisory** body — not a constitutional or purely non-political body.
+**Logic:** Planning Commission is keyed as a quasi-political / advisory body — not a constitutional or purely non-political body — Quasi-Political body
 
-**Ans: C.** **
-
+**Ans: C.** Quasi-Political body
 </details>
 
-**Q16. U.P.P.C.S. (Pre) 2019**
+**Q16. UPPCS (Pre) 2019**
 
 Which of the following is a Nodal Institution for implementation of Sustainable Development Goals in India?
 
@@ -844,12 +831,13 @@ D. Finance Commission
 <details>
 <summary>Show answer</summary>
 
-**Logic:** NITI Aayog is the Nodal Institution for implementation of Sustainable Development Goals (SDGs) in India. It is established with the aim to achieve SDGs with cooperative federalism
+**Logic:** It is established with the aim to achieve SDGs with cooperative federalism
 
-**Ans: C.** NITI Aayog.
+**Ans: C.** NITI Aayog is the Nodal Institution for implementation of Sustainable Development Goals (SDGs) in India.
+
 </details>
 
-**Q17. U.P.P.C.S. (Pre) 2018**
+**Q17. UPPCS (Pre) 2018**
 
 Who was the first Vice-Chairman of the NITI Aayog?
 
@@ -861,9 +849,10 @@ D. Rajiv Kumar
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Arvind Panagariya, served as first Vice-Chairman of the NITI Aayog between January, 2015 and August, 2017. Indian economist Ashok Kumar Lahiri is currently (since 8 May, 2026) the Vice-Chairman of the NITI Aayog, in the rank and status of a Cabinet Minister. He replaced Suman Ber
+**Logic:** Indian economist Ashok Kumar Lahiri is currently (since 8 May, 2026) the Vice-Chairman of the NITI Aayog, in the rank and status of a Cabinet Minister.
 
-**Ans: A.** Arvind Panagariya.
+**Ans: A.** Arvind Panagariya, served as first Vice-Chairman of the NITI Aayog between January, 2015 and August, 2017.
+
 </details>
 
 **Q18. U.P. P.C.S. (Mains) 2016**
@@ -877,12 +866,12 @@ C. Bihar
 <details>
 <summary>Show answer</summary>
 
-**Logic:** s per the data of Ministry of Statistics and Programme Implementation, the highest growth rate of Gross State Domestic Product at constant Prices (2011-12 series) in the year 2023-24 was in Assam (12.00%) and Bihar (11.95%) among all S
+**Logic:** s per the data of Ministry of Statistics and Programme Implementation, the highest growth rate of Gross State Domestic Product at constant Prices (2011-12 series) in the year 2023-24 was in Assam (12.00%) and Bihar (1……
 
-**Ans: C.** Bihar.
+**Ans: C.** Bihar
 </details>
 
-**Q19. U.P.P.C.S. (Pre) 2019**
+**Q19. UPPCS (Pre) 2019**
 
 Who opposed Planned Development in India?
 
@@ -893,12 +882,13 @@ C. Indira Gandhi
 <details>
 <summary>Show answer</summary>
 
-**Logic:** of self-reliance was of simple living and self-sufficiency. His basic idea was to use local resources and a local workforce for the production of commodities for local consumption to the extent possible, with minimal dependence on th
+**Logic:** His basic idea was to use local resources and a local workforce for the production of commodities for local consumption to the extent possible, with minimal dependence on th
 
-**Ans: A.** Mahatma Gandhi.
+**Ans: A.** of self-reliance was of simple living and self-sufficiency.
+
 </details>
 
-**Q20. U.P.P.C.S. (Mains) 2007**
+**Q20. UPPCS (Mains) 2007**
 
 In which one of the following years ‘Rolling Plan' was in operation in India ?
 
@@ -909,13 +899,12 @@ C. 1988-89
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Rolling Plan operated under the Janata government around **1978–80** (yearly target revision); do not confuse with Plan Holiday **1966–69**.
+**Logic:** Rolling Plan operated under the Janata government around 1978–80 (yearly target revision); do not confuse with Plan Holiday 1966–69 — 1978-79
 
-**Ans: B.** **
-
+**Ans: B.** 1978-79
 </details>
 
-**Q21. U.P.P.C.S. (Mains) 2012**
+**Q21. UPPCS (Mains) 2012**
 
 Year Which one of the following is the period ofthe 12th Five Plan ?
 
@@ -926,13 +915,12 @@ C. 2013-2018
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Twelfth Five Year Plan period is **2012–2017** — the last FYP before NITI’s vision–strategy–action style.
+**Logic:** Twelfth Five Year Plan period is 2012–2017 — the last FYP before NITI’s vision–strategy–action style — 2012-2017
 
-**Ans: B.** **
-
+**Ans: B.** 2012-2017
 </details>
 
-**Q22. U.P.P.C.S. (Pre) 2014**
+**Q22. UPPCS (Pre) 2014**
 
 During the 12th Five Year Plan, the growth rate of agriculture, forestry and fish farming has been estimated to be:
 
@@ -943,13 +931,12 @@ C. 5.0%
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Twelfth Plan targeted about **4%** growth for agriculture, forestry and fisheries.
+**Logic:** Twelfth Plan targeted about 4% growth for agriculture, forestry and fisheries — 4.0%
 
-**Ans: B.** **
-
+**Ans: B.** 4.0%
 </details>
 
-**Q23. U.P.P.C.S. (Mains) 2008**
+**Q23. UPPCS (Mains) 2008**
 
 The theme of the Approach Paper of the Eleventh Five Year Plan has been :
 
@@ -961,13 +948,12 @@ D. Planning for prosperity
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Eleventh Plan Approach theme: **Towards Faster and More Inclusive Growth**.
+**Logic:** Eleventh Plan Approach theme: Towards Faster and More Inclusive Growth — Towards faster and more Inclusive growth
 
-**Ans: C.** **
-
+**Ans: C.** Towards faster and more Inclusive growth
 </details>
 
-**Q24. U.P.P.C.S. (Spl.) (Pre) 2008**
+**Q24. UPPCS (Spl.) (Pre) 2008**
 
 According to the Approach Paper of the 11th Five Year Plan, with the achievement of targeted growth rate and population growing at 1.5 percent per annum, the real income of the average Indian would double in :
 
@@ -978,12 +964,13 @@ C. 15 years
 <details>
 <summary>Show answer</summary>
 
-**Logic:** opulation growing at 1.5 percent the real income ofthe average Indian would double in ten years. Economic & Social Development
+**Logic:** Economic & Social Development
 
-**Ans: B.** 10 years.
+**Ans: B.** opulation growing at 1.5 percent the real income ofthe average Indian would double in ten years.
+
 </details>
 
-**Q25. U.P.P.C.S. (Mains) 2008**
+**Q25. UPPCS (Mains) 2008**
 
 The largest increase of employment opportunities during the Eleventh Five Year Plan has been expected in:
 
@@ -995,12 +982,13 @@ D. Transport and communication
 <details>
 <summary>Show answer</summary>
 
-**Logic:** During the Eleventh Five Year Plan, the maximum growth in employment opportunities was expected in the construction sector (8.27%). Expectations for increase of employment opportunities in other sectors during the 11th Plan were as follows: Transport and Communication (7.6%), Man
+**Logic:** Expectations for increase of employment opportunities in other sectors during the 11th Plan were as follows: Transport and Communication (7.6%), Man
 
-**Ans: B.** Construction.
+**Ans: B.** During the Eleventh Five Year Plan, the maximum growth in employment opportunities was expected in the construction sector (8.27%).
+
 </details>
 
-**Q26. U.P.P.C.S. (Mains) 2008**
+**Q26. UPPCS (Mains) 2008**
 
 In the Eleventh Five Year Plan highest allocation has been made for :
 
@@ -1012,12 +1000,13 @@ D. Education
 <details>
 <summary>Show answer</summary>
 
-**Logic:** In the 11th Five Year Plan, highest allocation had been made for social services followed by the energy sector. Thus, among the given options, option
+**Logic:** Thus, among the given options, option
 
-**Ans: A.** Energy sector.
+**Ans: A.** In the 11th Five Year Plan, highest allocation had been made for social services followed by the energy sector.
+
 </details>
 
-**Q27. U.P.P.C.S. (Mains) 2006**
+**Q27. UPPCS (Mains) 2006**
 
 Reducing the gender gap in literacy to 10 percentage points by 2011-12. Increasing the percentage of each cohort going to higher education from the present 10% to 15% by 2011-12. How many IITs (Indian Institute of Technology) will be set up in the Eleventh Five Year Plan?
 
@@ -1028,12 +1017,12 @@ C. 9.0 percent
 <details>
 <summary>Show answer</summary>
 
-**Logic:** te achieved during the Plan period was 8.0 percent
+**Logic:** te achieved during the Plan period was 8.0 percent — 9.0 percent
 
-**Ans: C.** 9.0 percent.
+**Ans: C.** 9.0 percent
 </details>
 
-**Q28. U.P.P.C.S. (Spl.) (Mains) 2004**
+**Q28. UPPCS (Spl.) (Mains) 2004**
 
 The annual growth rate of the economy as envisaged in the mid-term appraisal of the 10th plan is:
 
@@ -1044,12 +1033,13 @@ C. 8.0 percent
 <details>
 <summary>Show answer</summary>
 
-**Logic:** (2002-07) had set 'monitorable targets' fora few (11)key indicators of development besides 8 percent average annual growth target. The annual growth rate target of the economy as envisaged in the mid-term appraisal of the 10h plan was reduced to 7 percent. Actual annual growth ra
+**Logic:** The annual growth rate target of the economy as envisaged in the mid-term appraisal of the 10h plan was reduced to 7 percent.
 
-**Ans: A.** 7.0 percent.
+**Ans: A.** (2002-07) had set 'monitorable targets' fora few (11)key indicators of development besides 8 percent average annual growth target.
+
 </details>
 
-**Q29. U.P.P.C.S. (Mains) 2008**
+**Q29. UPPCS (Mains) 2008**
 
 During Tenth Five Year Plan, growth rate was highest in:
 
@@ -1061,12 +1051,12 @@ D. Other crops
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Growth rate of different crops during the Tenth Five Year Plan were as follows: Crop Pulses and oilseeds Fruits and vegetables Cereals Other crops Growth rate (%) 4.29 2.97 1.28 3.58
+**Logic:** Growth rate of different crops during the Tenth Five Year Plan were as follows: Crop Pulses and oilseeds Fruits and vegetables Cereals Other crops Growth rate (%) 4.29 2.97 1.28 3.58 — Pulses and oilseeds
 
-**Ans: A.** Pulses and oilseeds.
+**Ans: A.** Pulses and oilseeds
 </details>
 
-**Q30. U.P.P.C.S. (Spl.) (Mains) 2008**
+**Q30. UPPCS (Spl.) (Mains) 2008**
 
 In the Tenth Five Year Plan investment rate was:
 
@@ -1077,12 +1067,13 @@ C. equal to savings rate
 <details>
 <summary>Show answer</summary>
 
-**Logic:** In the Tenth Five Year Plan investment rate was higher than savings rate. Tenth Plan Domestic savings rate (as a percentage of GDP) Investment rate (as a percentage of GDP) 26.84 32.10 General Studies E-209
+**Logic:** Tenth Plan Domestic savings rate (as a percentage of GDP) Investment rate (as a percentage of GDP) 26.84 32.10 General Studies E-209
 
-**Ans: B.** higher than savings rate.
+**Ans: B.** In the Tenth Five Year Plan investment rate was higher than savings rate.
+
 </details>
 
-**Q31. U.P.P.C.S. (Mains) 2015**
+**Q31. UPPCS (Mains) 2015**
 
 Which one of the following Five Years Plan of India focused on the Growth with Social Justice and Equaity?
 
@@ -1093,12 +1084,13 @@ C. 7th
 <details>
 <summary>Show answer</summary>
 
-**Logic:** (1997-2002) prepared under United Front Government focused on 'Growth With Social Justice and Equity'. It recognized the need to combine high growth policies with the pursuit of our ultimate objective of improving policies which are pro-poor and are aimed at the correction of his
+**Logic:** It recognized the need to combine high growth policies with the pursuit of our ultimate objective of improving policies which are pro-poor and are aimed at the correction of his
 
-**Ans: A.** 9th.
+**Ans: A.** (1997-2002) prepared under United Front Government focused on 'Growth With Social Justice and Equity'.
+
 </details>
 
-**Q32. U.P.P.C.S. (Mains) 2016**
+**Q32. UPPCS (Mains) 2016**
 
 In which of the following Five Year Plans the Women's Component Plan was introduced as a major strategy?
 
@@ -1109,12 +1101,13 @@ D. Twelfth Five Year Plan
 <details>
 <summary>Show answer</summary>
 
-**Logic:** The notion of Women's Component Plan (WCP) had entered the planning process in the Seventh Plan with the initiation of a special mechanism to monitor 27 beneficiary oriented schemes for women. However, the Ninth Five Year Plan (1997-2002) marked a significant progress in this reg
+**Logic:** However, the Ninth Five Year Plan (1997-2002) marked a significant progress in this reg
 
-**Ans: C.** Ninth Five Year Plan.
+**Ans: C.** The notion of Women's Component Plan (WCP) had entered the planning process in the Seventh Plan with the initiation of a special mechanism to monitor 27 beneficiary oriented schemes for women.
+
 </details>
 
-**Q33. U.P.P.C.S. (Pre) 1998**
+**Q33. UPPCS (Pre) 1998**
 
 1992-March Which Five Year Plan operated in India during April 1997?
 
@@ -1125,10 +1118,9 @@ C. Eighth Plan
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Eighth Plan ran **1992–97**; April 1997 sits at the end of that Plan window (Ninth begins 1997–2002).
+**Logic:** Eighth Plan ran 1992–97; April 1997 sits at the end of that Plan window (Ninth begins 1997–2002) — Eighth Plan
 
-**Ans: C.** **
-
+**Ans: C.** Eighth Plan
 </details>
 
 **Q34. U.P. P.C.S. (Mains) 2014**
@@ -1143,12 +1135,13 @@ D. Fifth Five Year Plan
 <details>
 <summary>Show answer</summary>
 
-**Logic:** R.A.S/R.T.S. (Pre) 1994 See the explanation of above question. 125.Which Plan among the following declared its objective of self-reliance and zero net foreign aid? (Garibi Hatao) and 'attain
+**Logic:** (Pre) 1994 See the explanation of above question.
 
-**Ans: D.** Fifth Five Year Plan.
+**Ans: D.** R.A.S/R.T.S.
+
 </details>
 
-**Q35. U.P.P.C.S. (Mains) 2016**
+**Q35. UPPCS (Mains) 2016**
 
 In which of the following Five Year Plans anti-poverty programmes based on the theme ‘Garibi Hatao' was first introduced?
 
@@ -1160,13 +1153,12 @@ D. Sixth Five Year Plan
 <details>
 <summary>Show answer</summary>
 
-**Logic:** **Garibi Hatao** as a Plan twin-goal / anti-poverty theme is keyed with the **Fifth Plan**; the 1971 slogan falls in Fourth-Plan years — read the stem carefully.
+**Logic:** Garibi Hatao as a Plan twin-goal / anti-poverty theme is keyed with the Fifth Plan; the 1971 slogan falls in Fourth-Plan years — read the stem carefully — Fifth Five Year Plan
 
-**Ans: C.** **
-
+**Ans: C.** Fifth Five Year Plan
 </details>
 
-**Q36. U.P.P.C.S. (Pre) 1996**
+**Q36. UPPCS (Pre) 1996**
 
 Second Five Year Plan of India was based on an economic model developed by :
 
@@ -1178,12 +1170,13 @@ D. Dadabhai Naoroji
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Jharkhand P.C.S. (Pre) 202See the explanation of above question. E-214
+**Logic:** (Pre) 202See the explanation of above question.
 
-**Ans: A.** P.C. Mahalanobis.
+**Ans: A.** Jharkhand P.C.S.
+
 </details>
 
-**Q37. U.P.P.C.S. (Pre) 1991**
+**Q37. UPPCS (Pre) 1991**
 
 The strategy of development of industries and industrialization was part of which Plan?
 
@@ -1194,13 +1187,12 @@ C. Third
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Second Plan (**Mahalanobis**) stressed heavy / capital-goods industry and a socialistic industrial pattern.
+**Logic:** Second Plan (Mahalanobis) stressed heavy / capital-goods industry and a socialistic industrial pattern — Second
 
-**Ans: B.** **
-
+**Ans: B.** Second
 </details>
 
-**Q38. U.P.P.C.S. (Mains) 2011**
+**Q38. UPPCS (Mains) 2011**
 
 What was the priority of the First Five Year Plan?
 
@@ -1211,12 +1203,13 @@ C. Development of Agriculture
 <details>
 <summary>Show answer</summary>
 
-**Logic:** First Plan (1951-56) was based on Harrod-Domar Model. The Plan mainly focussed on development of agriculture. was a successful plan primarily because of good harvests in the last two years of the plan. It
+**Logic:** The Plan mainly focussed on development of agriculture.
 
-**Ans: C.** Development of Agriculture.
+**Ans: C.** First Plan (1951-56) was based on Harrod-Domar Model.
+
 </details>
 
-**Q39. U.P.P.C.S. (Pre) 1994**
+**Q39. UPPCS (Pre) 1994**
 
 Match the following plans and programmes :
 
@@ -1227,12 +1220,13 @@ C. 3 only
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 3rd Plan 3. Expansion of basic industriesE-216 A B C D E 2 3 4
+**Logic:** Expansion of basic industriesE-216 A B C D E 2 3 4
 
-**Ans: A.** 1 and 2 only.
+**Ans: A.** 3rd Plan 3.
+
 </details>
 
-**Q40. U.P.P.C.S. (Mains) 2007**
+**Q40. UPPCS (Mains) 2007**
 
 Choose the correct pair from the following options
 
@@ -1244,12 +1238,13 @@ D. Fourth Five Year Plan
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Target and actual annual economic growth rates under different Five Year Plans are as follows : Five Year Plan Target Actual Ans. (1951-56) 2.1% 3.6% The correctly matched pairs are as follows: First Five-Year Plan Second Five-Year Plan Second Plan (1956-61) 4.5% 4.3% Focus on Ag
+**Logic:** (1951-56) 2.1% 3.6% The correctly matched pairs are as follows: First Five-Year Plan Second Five-Year Plan Second Plan (1956-61) 4.5% 4.3% Focus on Ag
 
-**Ans: C.** Third-Year Plan - Focus on Globalisation.
+**Ans: C.** Target and actual annual economic growth rates under different Five Year Plans are as follows : Five Year Plan Target Actual Ans.
+
 </details>
 
-**Q41. U.P.P.C.S. (Spl.) (Mains) 2008**
+**Q41. UPPCS (Spl.) (Mains) 2008**
 
 During the planning periods, the highest growth rate was achieved during the: The correctly matched lists are as follows: Plan Growth rate in U.P. (%) Sixth Plan 3.9 Seventh Plan 5.7
 
@@ -1260,12 +1255,12 @@ C. Ninth plan
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Among the given options, option
+**Logic:** Among the given options, option — Tenth plan
 
-**Ans: B.** Tenth plan.
+**Ans: B.** Tenth plan
 </details>
 
-**Q42. U.P.P.C.S. (Mains) 2005**
+**Q42. UPPCS (Mains) 2005**
 
 The period of Plan Holiday in India was : List-I List-II Plans Growth rate in U.P. (%) A. Sixth Plan 1.3.2 B. Seventh Plan 2.3.9 C. Eighth Plan 3.2.5 D. Ninth Plan 4.5.7 Codes : A B C D
 
@@ -1277,13 +1272,12 @@ D. 1972-75
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Plan Holiday = three Annual Plans **1966–69** after war, drought and forex stress — not a Five-Year Plan.
+**Logic:** Plan Holiday = three Annual Plans 1966–69 after war, drought and forex stress — not a Five-Year Plan — 1966-69
 
-**Ans: B.** **
-
+**Ans: B.** 1966-69
 </details>
 
-**Q43. U.P.P.C.S. (Spl.) (Mains) 2008**
+**Q43. UPPCS (Spl.) (Mains) 2008**
 
 'Twenty Point Economic Programme' was first launched in the year :
 
@@ -1294,12 +1288,13 @@ C. 1977
 <details>
 <summary>Show answer</summary>
 
-**Logic:** (TPP) was launched by the Government of India in 1975. Its main objective was to promote agricultural and industrial production with eradication of poverty and improvement in the quality of life of the common man. The programme was first revised in 1982 and again in 1986. It was 
+**Logic:** Its main objective was to promote agricultural and industrial production with eradication of poverty and improvement in the quality of life of the common man.
 
-**Ans: B.** 1975.
+**Ans: B.** (TPP) was launched by the Government of India in 1975.
+
 </details>
 
-**Q44. U.P.P.C.S. (Pre) 1990**
+**Q44. UPPCS (Pre) 1990**
 
 'Yojana' magazine is being published by which of the following?
 
@@ -1311,20 +1306,21 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Yojana magazine is published by the Publications Division of Ministry of Information and Broadcasting, Government of India. Yojana is a monthly journal devoted to the socio-economic issues. It started its publication in 1957 with Mr. Khuswant Singh as the Chief Editor
+**Logic:** Yojana is a monthly journal devoted to the socio-economic issues.
 
-**Ans: C.** Publications Division.
+**Ans: C.** Yojana magazine is published by the Publications Division of Ministry of Information and Broadcasting, Government of India.
+
 </details>
 
 ---
 
 ## Ghatnachakra Extra Drill — Indian Economy Basics and Planning
 
-
 Extra Drill: Ghatnachakra **Planning** (all exams) + earlier Nature / National Income Purvalokan. Money & Banking stems are parked for Topic 3.
 
+**Q14.**
 
-**Q14.** With reference to the business cycle, which of the following statements is/are correct?
+With reference to the business cycle, which of the following statements is/are correct?
 
 1. Expansion and peak are boom-side phases in school lists.
 2. Contraction / recession and trough sit on the down side.
@@ -1340,13 +1336,14 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Logic:** Cycles fluctuate around growth.
 
-**Logic:** Cycles fluctuate around growth. Statement 3 is false.
-
+**Ans: B.** 1 and 2
 </details>
 
-**Q15.** Which of the following pairs is **not** correctly matched?
+**Q15.**
+
+Which of the following pairs is **not** correctly matched?
 
 A. NFIA — links GDP and GNP
 B. Depreciation — links gross and net aggregates
@@ -1356,13 +1353,14 @@ D. Intermediate goods — always added fully into GDP twice
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Intermediates are not double-counted by design.
+**Logic:** A–C are standard — Intermediate goods — always added fully into GDP twice
 
-**Logic:** A–C are standard.
-
+**Ans: D.** Intermediate goods — always added fully into GDP twice
 </details>
 
-**Q16.** With reference to Planning Commission versus NITI, which of the following statements is/are correct?
+**Q16.**
+
+With reference to Planning Commission versus NITI, which of the following statements is/are correct?
 
 1. Planning Commission allocated plan funds in the old regime.
 2. NITI is mainly a think tank / policy forum.
@@ -1378,13 +1376,14 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Logic:** Standard key matches 1 and 2.
 
-**Logic:** Art. 280 is FC (Topic 2). Statement 3 is false.
-
+**Ans: B.** 1 and 2
 </details>
 
-**Q17.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+**Q17.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 Assertion (A): The Twelfth Plan emphasised sustainable growth along with inclusiveness.
 
@@ -1400,13 +1399,14 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Both true plan tags; R does not cause the Twelfth’s sustainable wording.
+**A/R logic:** Both true plan tags; R does not cause the Twelfth’s sustainable wording.
 
-**A/R logic:** 11th vs 12th slogans.
-
+**Ans: A.** Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 </details>
 
-**Q18.** With reference to structural change, which of the following statements is/are correct?
+**Q18.**
+
+With reference to structural change, which of the following statements is/are correct?
 
 1. Services dominate India’s GDP share in recent decades.
 2. Agriculture still employs a large share of the workforce relative to its GDP share.
@@ -1422,13 +1422,14 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Logic:** Statement 3 is false — 1 and 2
 
-**Logic:** Statement 3 is false.
-
+**Ans: B.** 1 and 2
 </details>
 
-**Q19.** With reference to Rajiv Gandhi and 1991, which of the following statements is/are correct?
+**Q19.**
+
+With reference to Rajiv Gandhi and 1991, which of the following statements is/are correct?
 
 1. Mid-1980s reforms are often called an early liberalisation phase.
 2. 1991 marks the systemic LPG reform package.
@@ -1444,13 +1445,14 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Logic:** Planning Commission was never constitutional.
 
-**Logic:** Planning Commission was never constitutional. Statement 3 is false.
-
+**Ans: B.** 1 and 2
 </details>
 
-**Q20.** Match List-I with List-II.
+**Q20.**
+
+Match List-I with List-II.
 
 | List-I | List-II |
 |---|---|
@@ -1471,13 +1473,14 @@ D. 4 3 1 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Smith; Keynes; Panagariya; Mahalanobis.
+**Logic:** Keep titles distinct — 2 3 1 4
 
-**Logic:** Keep titles distinct.
-
+**Ans: A.** 2 3 1 4
 </details>
 
-**Q21.** With reference to NNP and national income, which of the following statements is/are correct?
+**Q21.**
+
+With reference to NNP and national income, which of the following statements is/are correct?
 
 1. NNP is GNP minus depreciation.
 2. Older Indian keys often treat national income as NNP at factor cost.
@@ -1493,13 +1496,14 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Logic:** Statement 3 is false — 1 and 2
 
-**Logic:** Statement 3 is false.
-
+**Ans: B.** 1 and 2
 </details>
 
-**Q22.** Which of the following pairs is **not** correctly matched?
+**Q22.**
+
+Which of the following pairs is **not** correctly matched?
 
 A. Second Plan — heavy industry emphasis
 B. First Plan — agriculture / irrigation emphasis
@@ -1509,13 +1513,14 @@ D. Twelfth Plan — only exclusive focus on heavy industry like the Second Plan
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Twelfth is inclusive + sustainable growth tag, not Second-Plan industry clone.
+**Logic:** A–C are standard — Twelfth Plan — only exclusive focus on heavy industry like the Second Plan
 
-**Logic:** A–C are standard.
-
+**Ans: D.** Twelfth Plan — only exclusive focus on heavy industry like the Second Plan
 </details>
 
-**Q23.** With reference to non-monetised consumption, which of the following statements is/are correct?
+**Q23.**
+
+With reference to non-monetised consumption, which of the following statements is/are correct?
 
 1. It complicates national-income measurement in India.
 2. A large informal sector also complicates measurement.
@@ -1531,13 +1536,14 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Logic:** UKPCS NI-problem stem.
 
-**Logic:** UKPCS NI-problem stem. Statement 3 is false.
-
+**Ans: B.** 1 and 2
 </details>
 
-**Q24.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+**Q24.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 Assertion (A): NITI Aayog does not replace the Finance Commission.
 
@@ -1553,13 +1559,14 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both true; constitutional FC status is why NITI cannot replace it.
+**A/R logic:** Both true; constitutional FC status is why NITI cannot replace it.
 
-**A/R logic:** NITI vs FC trap (Topic 2 border).
-
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)
 </details>
 
-**Q25.** With reference to public versus private sector, which of the following statements is/are correct?
+**Q25.**
+
+With reference to public versus private sector, which of the following statements is/are correct?
 
 1. Mixed economy uses both.
 2. Disinvestment / privatisation after reforms reduced some public stakes.
@@ -1575,13 +1582,14 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Logic:** Statement 3 is false — 1 and 2
 
-**Logic:** Statement 3 is false.
-
+**Ans: B.** 1 and 2
 </details>
 
-**Q26.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+**Q26.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 Assertion (A): Real GDP is better than nominal GDP for comparing output across years when prices change.
 
@@ -1597,10 +1605,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both true, and constant-price construction explains why real GDP is preferred for volume comparison.
+**A/R logic:** Both true, and constant-price construction explains why real GDP is preferred for volume comparison.
 
-**A/R logic:** Core real vs nominal teaching.
-
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)
 </details>
 ### Ghatnachakra Purvalokan — Nature + National Income
 
@@ -1614,13 +1621,13 @@ D. Where the Centre and States are equal partners in economic planning and devel
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Not agri=industry, not Centre–State parity, not swadeshi–globalisation mix.
+**Logic:** Public and private sectors coexist.
 
-**Ans: B.** Public and private sectors coexist.
+**Ans: B.** Not agri=industry, not Centre–State parity, not swadeshi–globalisation mix.
 
 </details>
 
-**Q28. U.P.P.C.S. (Mains) 2013**
+**Q28. UPPCS (Mains) 2013**
 Mixed economy in India means:
 A. Co-existence of large and cottage industries
 B. Foreign collaboration in economic development
@@ -1630,13 +1637,13 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Same definition stem — large/cottage is not the mixed-economy key.
+**Logic:** Co-existence of public and private sector.
 
-**Ans: C.** Co-existence of public and private sector.
+**Ans: C.** Same definition stem — large/cottage is not the mixed-economy key.
 
 </details>
 
-**Q29. U.P.P.C.S. (Pre) 1990 / U.P.U.D.A. (Pre) 2006 / UK U.D.A. (Pre) 2007**
+**Q29. UPPCS (Pre) 1990 / U.P.U.D.A. (Pre) 2006 / UK U.D.A. (Pre) 2007**
 Mixed economy means:
 A. Existence of both small and large industries
 B. Existence of both private and public sectors
@@ -1646,13 +1653,13 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Sectors of production (primary/secondary) are not the mixed-economy definition.
+**Logic:** Private and public sectors.
 
-**Ans: B.** Private and public sectors.
+**Ans: B.** Sectors of production (primary/secondary) are not the mixed-economy definition.
 
 </details>
 
-**Q30. U.P. R.O./A.R.O. (Mains) 2016**
+**Q30. UP RO/ARO (Mains) 2016**
 Indian Economy is:
 A. Mixed economy
 B. Socialist economy
@@ -1662,13 +1669,13 @@ D. Gandhian socialist economy
 <details>
 <summary>Show answer</summary>
 
-**Logic:** India blends private property with State regulation and selected public enterprise.
+**Logic:** Mixed economy.
 
-**Ans: A.** Mixed economy.
+**Ans: A.** India blends private property with State regulation and selected public enterprise.
 
 </details>
 
-**Q31. U.P.P.C.S. (Pre) (Re-Exam) 2015 / (Mains) 2013**
+**Q31. UPPCS (Pre) (Re-Exam) 2015 / (Mains) 2013**
 Which of the following is the main characteristic of Indian Economy?
 A. Capitalist economy
 B. Socialist economy
@@ -1678,9 +1685,9 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Main textbook characteristic among the system labels.
+**Logic:** Mixed economy.
 
-**Ans: C.** Mixed economy.
+**Ans: C.** Main textbook characteristic among the system labels.
 
 </details>
 
@@ -1694,10 +1701,9 @@ D. Free
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Same public–private coexistence key.
+**Logic:** Same public–private coexistence key — Mixed
 
-**Ans: C.** Mixed.
-
+**Ans: C.** Mixed
 </details>
 
 **Q33. 48th to 52nd B.P.S.C. (Pre) 2008**
@@ -1710,13 +1716,13 @@ D. A capital-surplus economy
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Large working-age supply at subsistence wages — not capital- or trade-surplus.
+**Logic:** A labour-surplus economy.
 
-**Ans: B.** A labour-surplus economy.
+**Ans: B.** Large working-age supply at subsistence wages — not capital- or trade-surplus.
 
 </details>
 
-**Q34. U.P.P.C.S. (Mains) 2017**
+**Q34. UPPCS (Mains) 2017**
 An underdeveloped economy is generally characterized by:
 I. Low per capita income
 II. Low rate of capital formation
@@ -1730,10 +1736,9 @@ D. I and IV
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Low dependency and tertiary-heavy workforce are developed-economy tags.
+**Logic:** Low dependency and tertiary-heavy workforce are developed-economy tags — I and II
 
-**Ans: A.** I and II.
-
+**Ans: A.** I and II
 </details>
 
 **Q35. Chhattisgarh P.C.S. (Pre) 2017**
@@ -1751,13 +1756,13 @@ E. None of these
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Banking/financial change is reform, not an underdevelopment characteristic. Stem key rejects options that include 4.
+**Logic:** Banking/financial change is reform, not an underdevelopment characteristic.
 
 **Ans: E.** None of these (as coded — 1–3 fit underdeveloped; 4 does not, so ‘all’ fails).
 
 </details>
 
-**Q36. U.P.P.C.S. (Mains) 2017**
+**Q36. UPPCS (Mains) 2017**
 Which of the following features indicates that Indian economy is in a developing category?
 I. Occupation is mainly agriculture
 II. Disguised unemployment
@@ -1771,13 +1776,13 @@ D. I, II & III
 <details>
 <summary>Show answer</summary>
 
-**Logic:** High protein intake is not a developing-economy indicator.
+**Logic:** I, II and III.
 
-**Ans: D.** I, II and III.
+**Ans: D.** High protein intake is not a developing-economy indicator.
 
 </details>
 
-**Q37. U.P.P.C.S. (Mains) 2011**
+**Q37. UPPCS (Mains) 2011**
 The Indian Economy can be described as:
 A. A backward and stagnant economy
 B. A developing economy
@@ -1787,13 +1792,13 @@ D. A developed economy
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Standard classification among the four labels.
+**Logic:** A developing economy.
 
-**Ans: B.** A developing economy.
+**Ans: B.** Standard classification among the four labels.
 
 </details>
 
-**Q38. U.P. Lower Sub. (Spl.) (Pre) 2004**
+**Q38. UP Lower Sub (Spl.) (Pre) 2004**
 The Indian Economy is characterised by:
 I. Pre-dominance of Agriculture
 II. Pre-dominance of Industry
@@ -1807,13 +1812,13 @@ D. I, III & IV only
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Industrial predominance is a developed-economy tag — drop II.
+**Logic:** I, III and IV only.
 
-**Ans: D.** I, III and IV only.
+**Ans: D.** Industrial predominance is a developed-economy tag — drop II.
 
 </details>
 
-**Q39. U.P.P.C.S. (Spl.) (Mains) 2004**
+**Q39. UPPCS (Spl.) (Mains) 2004**
 Which of the following is not a characteristic of Indian Economy?
 A. Low productivity of labour
 B. Lower per capita income
@@ -1823,9 +1828,9 @@ D. Lack of Natural Resources
 <details>
 <summary>Show answer</summary>
 
-**Logic:** India is resource-rich; low productivity / PCI / capital formation are the textbook traits.
+**Logic:** Lack of natural resources.
 
-**Ans: D.** Lack of natural resources.
+**Ans: D.** India is resource-rich; low productivity / PCI / capital formation are the textbook traits.
 
 </details>
 
@@ -1839,9 +1844,9 @@ D. Service
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Economic activity needs resource input → production → marketed/ valued output; voluntary social service is unpaid community work.
+**Logic:** Voluntary Social Service.
 
-**Ans: A.** Voluntary Social Service.
+**Ans: A.** Economic activity needs resource input → production → marketed/ valued output; voluntary social service is unpaid community work.
 
 </details>
 
@@ -1855,13 +1860,13 @@ D. Capital resources
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Natural / energy / capital resources are economic factors; social behaviour is non-economic.
+**Logic:** Social Behaviour.
 
-**Ans: A.** Social Behaviour.
+**Ans: A.** Natural / energy / capital resources are economic factors; social behaviour is non-economic.
 
 </details>
 
-**Q42. U.P.P.C.S. (Mains) 2009**
+**Q42. UPPCS (Mains) 2009**
 Which of the following is not part of the ‘Second Generation of Economic Reforms’ identified by the Government?
 A. Oil Sector Reforms
 B. Public Sector Reforms
@@ -1871,9 +1876,9 @@ D. Reform of Government and Public Institutions
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Among the listed menu, judicial/legal-system reform was the odd one out in that key.
+**Logic:** Legal System Reforms.
 
-**Ans: C.** Legal System Reforms.
+**Ans: C.** Among the listed menu, judicial/legal-system reform was the odd one out in that key.
 
 </details>
 
@@ -1887,9 +1892,9 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Mixed economy: public sector State-led; private sector individual/group-led.
+**Logic:** State and Person both.
 
-**Ans: C.** State and Person both.
+**Ans: C.** Mixed economy: public sector State-led; private sector individual/group-led.
 
 </details>
 
@@ -1903,9 +1908,9 @@ D. Gross National Product at market prices minus net factor income from abroad
 <details>
 <summary>Show answer</summary>
 
-**Logic:** NI = NNPFC. NNPMp alone (option A) is not yet factor-cost NI.
+**Logic:** NNPMp alone (option A) is not yet factor-cost NI.
 
-**Ans: C.** GNPMp − depreciation − indirect taxes + subsidies (= NNP at factor cost).
+**Ans: C.** NI = NNPFC.
 
 </details>
 
@@ -1919,9 +1924,9 @@ D. National Income
 <details>
 <summary>Show answer</summary>
 
-**Logic:** NNPFC ≡ National Income in older Indian teaching.
+**Logic:** National Income.
 
-**Ans: D.** National Income.
+**Ans: D.** NNPFC ≡ National Income in older Indian teaching.
 
 </details>
 
@@ -1935,9 +1940,9 @@ D. Net Domestic Product at factor cost
 <details>
 <summary>Show answer</summary>
 
-**Logic:** In older Indian teaching, National Income equals **NNP at factor cost (NNPFC)**.
+**Logic:** NNP at factor cost.
 
-**Ans: B.** NNP at factor cost.
+**Ans: B.** In older Indian teaching, National Income equals **NNP at factor cost (NNPFC)**.
 
 </details>
 
@@ -1951,9 +1956,9 @@ D. GNP at Market Price − Subsidies
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Net = Gross − depreciation; NFIA is already inside GNP.
+**Logic:** GNPMp − Depreciation.
 
-**Ans: C.** GNPMp − Depreciation.
+**Ans: C.** Net = Gross − depreciation; NFIA is already inside GNP.
 
 </details>
 
@@ -1967,9 +1972,9 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Net indirect taxes bridge market price to factor cost — not direct taxes.
+**Logic:** NNPMp − (Indirect taxes − Subsidies).
 
-**Ans: B.** NNPMp − (Indirect taxes − Subsidies).
+**Ans: B.** Net indirect taxes bridge market price to factor cost — not direct taxes.
 
 </details>
 
@@ -1983,9 +1988,9 @@ D. None of these
 <details>
 <summary>Show answer</summary>
 
-**Logic:** GNP = GDP + NFIA, so both identities hold.
+**Logic:** Both (a) and (b).
 
-**Ans: C.** Both (a) and (b).
+**Ans: C.** GNP = GDP + NFIA, so both identities hold.
 
 </details>
 
@@ -1999,9 +2004,9 @@ D. money value of final goods and services produced
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Final-output identity; personal income ≠ NI; C+I alone omits G and NX.
+**Logic:** Money value of final goods and services produced.
 
-**Ans: D.** Money value of final goods and services produced.
+**Ans: D.** Final-output identity; personal income ≠ NI; C+I alone omits G and NX.
 
 </details>
 
@@ -2016,9 +2021,9 @@ D. Y = C+I−G+X−M
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Net exports (X−M) close the open-economy identity.
+**Logic:** Y = C+I+G+(X−M).
 
-**Ans: C.** Y = C+I+G+(X−M).
+**Ans: C.** Net exports (X−M) close the open-economy identity.
 
 </details>
 
@@ -2032,9 +2037,9 @@ D. Expenditure method
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Only product, income and expenditure methods.
+**Logic:** Diminishing cost method.
 
-**Ans: B.** Diminishing cost method.
+**Ans: B.** Only product, income and expenditure methods.
 
 </details>
 
@@ -2048,9 +2053,9 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Constant prices = real GDP.
+**Logic:** GDP at current market prices.
 
-**Ans: B.** GDP at current market prices.
+**Ans: B.** Constant prices = real GDP.
 
 </details>
 
@@ -2065,9 +2070,9 @@ E. None of the above / More than one of the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Informal units and agri often lack proper records — classic measurement trap.
+**Logic:** Non-organized (unorganised) sector.
 
-**Ans: D.** Non-organized (unorganised) sector.
+**Ans: D.** Informal units and agri often lack proper records — classic measurement trap.
 
 </details>
 
@@ -2085,9 +2090,9 @@ D. None of the above options is true
 <details>
 <summary>Show answer</summary>
 
-**Logic:** I is wrong (NDP = GDP − Dep). II is wrong (PCI uses National Income / population). III alone cannot save options A–C.
+**Logic:** II is wrong (PCI uses National Income / population).
 
-**Ans: D.** None of the above options is true.
+**Ans: D.** I is wrong (NDP = GDP − Dep).
 
 </details>
 
@@ -2101,13 +2106,13 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** NCERT: both tax and non-tax household levies are deducted.
+**Logic:** PI − personal tax − non-tax payments (fines etc.).
 
-**Ans: B.** PI − personal tax − non-tax payments (fines etc.).
+**Ans: B.** NCERT: both tax and non-tax household levies are deducted.
 
 </details>
 
-**Q57. U.P.P.C.S. (Mains) 2004**
+**Q57. UPPCS (Mains) 2004**
 If over a given period of time both prices and monetary income have been doubled, the real income will be:
 A. Doubled
 B. Halved
@@ -2117,10 +2122,9 @@ D. Prices do not affect real income
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Real income = money income / price level — both ×2 cancel.
+**Logic:** Real income = money income / price level — both ×2 cancel — Unchanged
 
-**Ans: C.** Unchanged.
-
+**Ans: C.** Unchanged
 </details>
 
 **Q58. Jharkhand P.C.S. (Pre) 2013**
@@ -2133,13 +2137,13 @@ D. Growth in Per Capita GNP
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Aid inflow is not a domestic-output growth measure.
+**Logic:** Growth in financial aid from World Bank.
 
-**Ans: B.** Growth in financial aid from World Bank.
+**Ans: B.** Aid inflow is not a domestic-output growth measure.
 
 </details>
 
-**Q59. U.P.P.C.S. (Pre) 1999**
+**Q59. UPPCS (Pre) 1999**
 Consider the following statements about Amartya Sen’s advices regarding priorities for Indian Economy:
 1. It should be commodity-oriented
 2. It should be people-oriented
@@ -2153,13 +2157,12 @@ D. 1, 2 and 4 are correct
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Welfare / capability view — people-oriented, not commodity-oriented.
+**Logic:** Welfare / capability view — people-oriented, not commodity-oriented — 2, 3 and 4 are correct
 
-**Ans: B.** 2, 3 and 4.
-
+**Ans: B.** 2, 3 and 4 are correct
 </details>
 
-**Q60. U.P. Lower Sub. (Spl.) (Pre) 2004**
+**Q60. UP Lower Sub (Spl.) (Pre) 2004**
 The view that ‘Planning in India should, in future, pay more attention to the people than to commodities’ was given by:
 A. Amartya Sen
 B. Yashwant Sinha
@@ -2169,13 +2172,13 @@ D. Manmohan Singh
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 1998 Nobel welfare economist — people over commodities.
+**Logic:** Amartya Sen.
 
-**Ans: A.** Amartya Sen.
+**Ans: A.** 1998 Nobel welfare economist — people over commodities.
 
 </details>
 
-**Q61. U.P.P.C.S. (Pre) 1996, 2006 / (Mains) 2004**
+**Q61. UPPCS (Pre) 1996, 2006 / (Mains) 2004**
 The Hindu rate of growth refers to the growth rate of:
 A. Per Capita Income
 B. National Income
@@ -2185,9 +2188,9 @@ D. Literacy
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Coined by Prof. Raj Krishna — stagnant NI/GDP growth tag.
+**Logic:** Raj Krishna — stagnant NI/GDP growth tag.
 
-**Ans: B.** National Income (GDP ~3.5% from 1950s to early 1980s).
+**Ans: B.** Coined by Prof.
 
 </details>
 
@@ -2202,10 +2205,9 @@ E. None of the above/More than one of the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Same Raj Krishna tag — ~3.5% GDP growth.
+**Logic:** Same Raj Krishna tag — ~3.5% GDP growth — GDP
 
-**Ans: B.** GDP.
-
+**Ans: B.** GDP
 </details>
 
 **Q63. I.A.S. (Pre) 2011**
@@ -2218,13 +2220,12 @@ D. Hyper-inflation
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Rising demand with growth usually lifts prices — not deflation.
+**Logic:** Rising demand with growth usually lifts prices — not deflation — Inflation
 
-**Ans: B.** Inflation.
-
+**Ans: B.** Inflation
 </details>
 
-**Q64. U.P.P.C.S. (Mains) 2008**
+**Q64. UPPCS (Mains) 2008**
 The proportion of labour in GNP becomes low due to the following reason:
 A. Prices lag behind wages
 B. Profit lags behind prices
@@ -2234,9 +2235,9 @@ D. Wages lag behind prices
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Inflation outrunning wages shrinks labour’s income share.
+**Logic:** Wages lag behind prices.
 
-**Ans: D.** Wages lag behind prices.
+**Ans: D.** Inflation outrunning wages shrinks labour’s income share.
 
 </details>
 
@@ -2255,10 +2256,9 @@ D. 2 1 3 4
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Boom → Recession → Depression → Recovery sequence of intensity.
+**Logic:** Boom → Recession → Depression → Recovery sequence of intensity — Boom — 1
 
-**Ans: A.** 1-2-3-4.
-
+**Ans: A.** Boom — 1.
 </details>
 
 **Q66. I.A.S. (Pre) 2010**
@@ -2275,9 +2275,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Recession = massive contraction of activity (not mere growth-rate dip). Slowdown ≠ GDP fall alone.
+**Logic:** Slowdown ≠ GDP fall alone.
 
-**Ans: A.** 1 only.
+**Ans: A.** Recession = massive contraction of activity (not mere growth-rate dip).
 
 </details>
 
@@ -2291,9 +2291,9 @@ D. significant reduction in tax rates
 <details>
 <summary>Show answer</summary>
 
-**Logic:** New Industrial Policy 24 July 1991 — delicensing of most industries.
+**Logic:** Substantial changes in industrial licensing policy.
 
-**Ans: A.** Substantial changes in industrial licensing policy.
+**Ans: A.** New Industrial Policy 24 July 1991 — delicensing of most industries.
 
 </details>
 
@@ -2307,9 +2307,9 @@ D. Stabilization is only Central; structural adjustment only State
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Stabilization = short-term demand (inflation, fiscal, BoP). Structural adjustment = long-term supply-side reforms.
+**Logic:** Structural adjustment = long-term supply-side reforms.
 
-**Ans: B.** Structural adjustment is gradual; stabilization is quicker.
+**Ans: B.** Stabilization = short-term demand (inflation, fiscal, BoP).
 
 </details>
 
@@ -2323,10 +2323,9 @@ D. P. Chidambaram
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Rao was PM; FM Singh is the ‘pioneer of liberalisation’ teaching tag.
+**Logic:** Rao was PM; FM Singh is the ‘pioneer of liberalisation’ teaching tag — Dr
 
-**Ans: A.** Dr. Manmohan Singh (Finance Minister, 1991).
-
+**Ans: A.** Dr.
 </details>
 
 **Q70. I.A.S. (Pre) 1995**
@@ -2339,9 +2338,9 @@ D. people are largely unaware of the significance of transition from agriculture
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Capital-heavy industry absorbs less labour — occupational structure stays agri-heavy.
+**Logic:** Investment directed toward capital-intensive industries.
 
-**Ans: A.** Investment directed toward capital-intensive industries.
+**Ans: A.** Capital-heavy industry absorbs less labour — occupational structure stays agri-heavy.
 
 </details>
 
@@ -2359,13 +2358,13 @@ D. 1, 2, 3 and 4
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Real sector = production of goods/services. Bank lending and Masala Bonds are financial-sector.
+**Logic:** Bank lending and Masala Bonds are financial-sector.
 
-**Ans: A.** 1 and 2 only.
+**Ans: A.** Real sector = production of goods/services.
 
 </details>
 
-**Q72. U.P.P.C.S. (Pre) 2021**
+**Q72. UPPCS (Pre) 2021**
 Which among the following is NOT a major factor of economic growth?
 A. Accumulation of capital and reforms in technology
 B. Change in population
@@ -2375,9 +2374,9 @@ D. Technocrats and Bureaucrats
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Natural resources, physical/human capital, technology, labour — not the bureaucracy label.
+**Logic:** Technocrats and Bureaucrats.
 
-**Ans: D.** Technocrats and Bureaucrats.
+**Ans: D.** Natural resources, physical/human capital, technology, labour — not the bureaucracy label.
 
 </details>
 
@@ -2391,9 +2390,9 @@ D. An increase in National Income along with increase in population
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Best single sign among options — real PCI sustained rise.
+**Logic:** Sustained increase in real Per Capita Income.
 
-**Ans: B.** Sustained increase in real Per Capita Income.
+**Ans: B.** Best single sign among options — real PCI sustained rise.
 
 </details>
 
@@ -2407,13 +2406,13 @@ D. improvement in balance of payments position
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Same real-PCI index.
+**Logic:** Growth in per capita real income year to year.
 
-**Ans: B.** Growth in per capita real income year to year.
+**Ans: B.** Same real-PCI index.
 
 </details>
 
-**Q75. I.A.S. (Pre) 2013 / U.P. Lower Sub. (Pre) 2013 / Chhattisgarh P.C.S. (Pre) 2015**
+**Q75. I.A.S. (Pre) 2013 / UP Lower Sub (Pre) 2013 / Chhattisgarh P.C.S. (Pre) 2015**
 The most appropriate measure of a country's economic growth is its:
 A. GDP
 B. NDP
@@ -2423,9 +2422,9 @@ D. Per Capita Product (PCP)
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Aggregate GDP alone ignores population — PCI is preferred.
+**Logic:** Per Capita Product / real per capita income.
 
-**Ans: D.** Per Capita Product / real per capita income.
+**Ans: D.** Aggregate GDP alone ignores population — PCI is preferred.
 
 </details>
 
@@ -2439,13 +2438,13 @@ D. imports grow faster than exports
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Growth without welfare improvement ≠ development.
+**Logic:** Poverty and unemployment increase.
 
-**Ans: C.** Poverty and unemployment increase.
+**Ans: C.** Growth without welfare improvement ≠ development.
 
 </details>
 
-**Q77. I.A.S. (Pre) 2000 / U.P.P.C.S. (Pre) 2013**
+**Q77. I.A.S. (Pre) 2000 / UPPCS (Pre) 2013**
 The growth rate of Per Capita Income at current prices is higher than that of Per Capita Income at constant prices, because the latter takes into account the rate of:
 A. growth of population
 B. increase in price level
@@ -2455,13 +2454,13 @@ D. increase in the wage rate
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Constant-price PCI strips inflation — so current-price growth looks higher.
+**Logic:** Increase in price level (inflation).
 
-**Ans: B.** Increase in price level (inflation).
+**Ans: B.** Constant-price PCI strips inflation — so current-price growth looks higher.
 
 </details>
 
-**Q78. I.A.S. (Pre) 2000 / U.P.P.C.S. (Pre) 2007 / (Mains) 2013**
+**Q78. I.A.S. (Pre) 2000 / UPPCS (Pre) 2007 / (Mains) 2013**
 That the Per Capita Income in India was Rs. 20 in 1867-68, was ascertained for the first time by:
 A. M.G. Ranade
 B. Sir W. Hunter
@@ -2471,13 +2470,13 @@ D. Dadabhai Naoroji
 <details>
 <summary>Show answer</summary>
 
-**Logic:** First National Income estimate of India — 1867–68.
+**Logic:** Dadabhai Naoroji.
 
-**Ans: D.** Dadabhai Naoroji.
+**Ans: D.** First National Income estimate of India — 1867–68.
 
 </details>
 
-**Q79. U.P.P.C.S. (Mains) 2015**
+**Q79. UPPCS (Mains) 2015**
 Who was the chairman of National Income Committee appointed by the Government of India in 1949?
 A. C.R. Rae
 B. P.C. Mahalanobis
@@ -2487,9 +2486,9 @@ D. K.N. Raj
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Members: D.R. Gadgil and V.K.R.V. Rao.
+**Logic:** Gadgil and V.K.R.V.
 
-**Ans: B.** P.C. Mahalanobis.
+**Ans: B.** Members: D.R.
 
 </details>
 
@@ -2503,13 +2502,12 @@ D. Y.V. Alagh
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Naoroji = first attempt; Rao = first scientific estimate.
+**Logic:** Naoroji = first attempt; Rao = first scientific estimate — V.K.R.V
 
-**Ans: B.** V.K.R.V. Rao (1931–32).
-
+**Ans: B.** V.K.R.V.
 </details>
 
-**Q81. U.P. R.O./A.R.O. (Pre) (Re-Exam) 2023**
+**Q81. UP RO/ARO (Pre) (Re-Exam) 2023**
 Estimation of National Income in India is done by the:
 A. Reserve Bank of India
 B. National Income Committee
@@ -2519,13 +2517,13 @@ D. Planning Commission
 <details>
 <summary>Show answer</summary>
 
-**Logic:** CSO + NSSO merged into NSO (2019). Older keys saying CSO are historically true.
+**Logic:** Older keys saying CSO are historically true.
 
-**Ans: C.** National Statistical Office (NSO), MoSPI.
+**Ans: C.** CSO + NSSO merged into NSO (2019).
 
 </details>
 
-**Q82. U.P. Lower Sub. (Pre) 2008**
+**Q82. UP Lower Sub (Pre) 2008**
 In India which agency is entrusted with the collection of data of capital formation?
 A. RBI and Central Statistical Organisation
 B. RBI and SBI
@@ -2535,10 +2533,9 @@ D. Central Statistical Organisation and National Sample Survey
 <details>
 <summary>Show answer</summary>
 
-**Logic:** K.N. Raj committee split: RBI for private corporate / household financial saving; CSO/NSO for rest and totals.
+**Logic:** Standard key matches RBI and Central Statistical Organisation.
 
-**Ans: A.** RBI and CSO (now NSO).
-
+**Ans: A.** RBI and Central Statistical Organisation
 </details>
 
 **Q83. R.A.S./R.T.S. (Pre) 2021**
@@ -2551,9 +2548,9 @@ D. The year whose income is being used to calculate the real GDP
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Current National Accounts base year (from Feb 2026): **2022–23**.
+**Logic:** The year whose prices are used for real GDP.
 
-**Ans: C.** The year whose prices are used for real GDP.
+**Ans: C.** Current National Accounts base year (from Feb 2026): **2022–23**.
 
 </details>
 
@@ -2567,9 +2564,9 @@ D. Calculation has changed from current prices to constant prices
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 2011–12 base + GVA at basic prices (UNSNA 2008) replacing GDP at factor cost.
+**Logic:** Both base year and method changed.
 
-**Ans: A.** Both base year and method changed.
+**Ans: A.** 2011–12 base + GVA at basic prices (UNSNA 2008) replacing GDP at factor cost.
 
 </details>
 
@@ -2583,9 +2580,9 @@ D. high capital-output ratio
 <details>
 <summary>Show answer</summary>
 
-**Logic:** High COR = more capital needed per unit output → slower growth.
+**Logic:** High capital-output ratio.
 
-**Ans: D.** High capital-output ratio.
+**Ans: D.** High COR = more capital needed per unit output → slower growth.
 
 </details>
 
@@ -2599,9 +2596,9 @@ D. high capital-output ratio
 <details>
 <summary>Show answer</summary>
 
-**Logic:** G × C = S identity — high C dampens G for given S.
+**Logic:** High capital-output ratio.
 
-**Ans: D.** High capital-output ratio.
+**Ans: D.** G × C = S identity — high C dampens G for given S.
 
 </details>
 
@@ -2619,10 +2616,9 @@ D. 1 and 2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** High COR + fast population growth slow PCI — not high capital formation.
+**Logic:** High COR + fast population growth slow PCI — not high capital formation — 1 and 2
 
-**Ans: D.** 1 and 2.
-
+**Ans: D.** 1 and 2
 </details>
 
 **Q88. I.A.S. (Pre) 2013**
@@ -2635,13 +2631,13 @@ D. the volume of trade grows in the world economy
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Domestic capital formation is the necessary growth lever among these options.
+**Logic:** There is capital formation in X.
 
-**Ans: C.** There is capital formation in X.
+**Ans: C.** Domestic capital formation is the necessary growth lever among these options.
 
 </details>
 
-**Q89. U.P.P.C.S. (Pre) 2021**
+**Q89. UPPCS (Pre) 2021**
 With reference to the 'Capital formation' which of the statements is/are correct?
 1. Process of capital formation depends on savings and effectiveness of financial institutions.
 2. Investment is the essential factor of capital formation.
@@ -2653,13 +2649,13 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Save → channel via institutions → invest = capital formation.
+**Logic:** Both 1 and 2.
 
-**Ans: C.** Both 1 and 2.
+**Ans: C.** Save → channel via institutions → invest = capital formation.
 
 </details>
 
-**Q90. U.P. R.O./A.R.O. (Pre) (Re-Exam) 2023**
+**Q90. UP RO/ARO (Pre) (Re-Exam) 2023**
 Which state has the largest economy in India?
 A. Maharashtra
 B. Gujarat
@@ -2669,9 +2665,9 @@ D. Tamil Nadu
 <details>
 <summary>Show answer</summary>
 
-**Logic:** UP is large by population but not the largest State economy by NSDP.
+**Logic:** Maharashtra (largest NSDP among States).
 
-**Ans: A.** Maharashtra (largest NSDP among States).
+**Ans: A.** UP is large by population but not the largest State economy by NSDP.
 
 </details>
 
@@ -2685,13 +2681,12 @@ D. Nagaland
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Bihar remains lowest PCI among States; Sikkim/Goa sit at the top end.
+**Logic:** Bihar remains lowest PCI among States; Sikkim/Goa sit at the top end — Bihar
 
-**Ans: A.** Bihar.
-
+**Ans: A.** Bihar
 </details>
 
-**Q92. U.P. U.D.A./L.D.A. (Pre) 2001 / U.P.P.C.S. (Mains) 2004**
+**Q92. U.P. U.D.A./L.D.A. (Pre) 2001 / UPPCS (Mains) 2004**
 Which among the following sectors contribute the most in savings in India?
 A. Banking and financial sector
 B. Export sector
@@ -2701,9 +2696,9 @@ D. Private sector
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Households dominate gross domestic savings share.
+**Logic:** Household sector.
 
-**Ans: C.** Household sector.
+**Ans: C.** Households dominate gross domestic savings share.
 
 </details>
 
@@ -2717,15 +2712,15 @@ D. Shares and debentures
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Physical assets (housing, gold teaching) outscore deposits/currency/shares in household savings.
+**Logic:** Physical assets.
 
-**Ans: C.** Physical assets.
+**Ans: C.** Physical assets (housing, gold teaching) outscore deposits/currency/shares in household savings.
 
 </details>
 
 >
 
-**Q94. U.P. Lower Sub. (Pre) 2002**
+**Q94. UP Lower Sub (Pre) 2002**
 
 Under the Constitution of India, Economic Planning is a subject:
 
@@ -2737,9 +2732,9 @@ D. Not specified in any list
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** In the Concurrent List.
-**Logic:** Economic and Social Planning is enlisted in the Concurrent List (List-III) under the Seventh Schedule of the Constitution of India, which is under the joint domain of both the State Governments and the Union Government of India
+**Logic:** Economic and Social Planning is enlisted in the Concurrent List (List-III) under the Seventh Schedule of the Constitution of India, which is under the joint domain of both the State Governments and the Union Governmen……
 
+**Ans: C.** In the Concurrent List
 </details>
 
 **Q95. M.P. P.C.S. (Pre) 2021**
@@ -2753,9 +2748,9 @@ C. 18 December 2015
 <details>
 <summary>Show answer</summary>
 
-**Logic:** DMEO was set up on **18 September 2015** as an attached office of **NITI Aayog** (PEO + IEO merged).
+**Logic:** 18 September 2015.
 
-**Ans: A.** 18 September 2015.
+**Ans: A.** DMEO was set up on **18 September 2015** as an attached office of **NITI Aayog** (PEO + IEO merged).
 
 </details>
 
@@ -2770,8 +2765,9 @@ C. 1 and 3 only
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** 2 and 3 only.
-**Logic:** NDC (National Development Council) has been proposed to be abolished. But till date no resolution has been passed to abolish it. Since the inception of NITI Aayog's Governing Council (which has almost the same composition and roles as NDC),
+**Logic:** But till date no resolution has been passed to abolish it.
+
+**Ans: B.** NDC (National Development Council) has been proposed to be abolished.
 
 </details>
 
@@ -2786,9 +2782,9 @@ C. Only 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 2.
-**Logic:** y Statement 2 is correct. Statement 2 is correct. NITI Aayog was set up by a resolution of the Union Cabinet in place of the Planning Commission. Statement 3 is Incorrect. The Prime Minister of India is the Chairperson of NITI Aayog, not
+**Logic:** y Statement 2 is correct — Only 2
 
+**Ans: C.** Only 2
 </details>
 
 **Q98. Jharkhand P.C.S. (Pre) 2021**
@@ -2802,9 +2798,9 @@ C. All are true
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All are true.
-**Logic:** enaming it, all the given statements are true
+**Logic:** enaming it, all the given statements are true — All are true
 
+**Ans: C.** All are true
 </details>
 
 **Q99. 67th B.P.S.C. (Pre) 2022**
@@ -2837,8 +2833,9 @@ C. 2 and 5 only
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** 2 and 5 only.
-**Logic:** th 'Planning' in India. Plan prepared by the erstwhile Planning commission was to be finally approved by the National Development Council and after its approval, the Plan was presented in the Parliament
+**Logic:** Plan prepared by the erstwhile Planning commission was to be finally approved by the National Development Council and after its approval, the Plan was presented in the Parliament
+
+**Ans: C.** th 'Planning' in India.
 
 </details>
 
@@ -2854,9 +2851,9 @@ D. are incorrect
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Finance Commission is constitutional (Art. 280) with a mainly **revenue-side** devolution focus; Planning Commission reviewed both capital and revenue Plan needs of States.
+**Logic:** 280) with a mainly **revenue-side** devolution focus; Planning Commission reviewed both capital and revenue Plan needs of States.
 
-**Ans: B.** The scope of the Finance Commission is limited toreview of the revenue segment of the budget, whilethe Planning Commission takes an overall reviewembracing both capital and revenue requirements ofthe States.
+**Ans: B.** Finance Commission is constitutional (Art.
 
 </details>
 
@@ -2872,9 +2869,9 @@ D. Sets the target for every sector of the Plan
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Moniters the implementation of Five Year Plans.
-**Logic:** Moniters the implementation of Five Year Plans (National Development Council) was set up on 6 August, 1952 to strengthen and mobilize the effort and resources of the nation in support of the Five Year Plans made by the Planning Commission, to promote common economic policies in a
+**Logic:** Moniters the implementation of Five Year Plans (National Development Council) was set up on 6 August, 1952 to strengthen and mobilize the effort and resources of the nation in support of the Five Year Plans made by th……
 
+**Ans: B.** Moniters the implementation of Five Year Plans
 </details>
 
 **Q103. Uttarakhand P.C.S. (Pre) 2012**
@@ -2888,13 +2885,13 @@ C. President of India
 <details>
 <summary>Show answer</summary>
 
-**Logic:** The **Prime Minister** is the ex-officio Chairman of the National Development Council.
+**Logic:** Prime Minister of India.
 
-**Ans: A.** Prime Minister of India.
+**Ans: A.** The **Prime Minister** is the ex-officio Chairman of the National Development Council.
 
 </details>
 
-**Q104. U.P. R.O./A.R.O. (Mains) 2021**
+**Q104. UP RO/ARO (Mains) 2021**
 
 The National Development Council was formed in the year:
 
@@ -2905,10 +2902,9 @@ C. 1954
 <details>
 <summary>Show answer</summary>
 
-**Logic:** NDC was formed / constituted in **1952** (6 August 1952).
+**Logic:** NDC was formed / constituted in 1952 (6 August 1952) — 1952
 
-**Ans: B.** 1952.
-
+**Ans: B.** 1952
 </details>
 
 **Q105. M.P.P.C.S. (Pre) 2008**
@@ -2923,9 +2919,9 @@ D. National Development Council
 <details>
 <summary>Show answer</summary>
 
-**Logic:** In the Planning Commission era, **NDC** was the final authority to approve Five-Year Plans.
+**Logic:** National Development Council.
 
-**Ans: D.** National Development Council.
+**Ans: D.** In the Planning Commission era, **NDC** was the final authority to approve Five-Year Plans.
 
 </details>
 
@@ -2940,9 +2936,9 @@ C. 1948
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** 1950.
-**Logic:** ce of declared objectives of the Government of India to promote a rapid rise in the standard of living of the people by efficient exploitation of the resources of the country, increasing production and offering oppor
+**Logic:** ce of declared objectives of the Government of India to promote a rapid rise in the standard of living of the people by efficient exploitation of the resources of the country, increasing production and offering oppor —…
 
+**Ans: A.** 1950
 </details>
 
 **Q107. R.A.S./R.T.S. (Pre) 1994**
@@ -2957,13 +2953,13 @@ D. a statutory body
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Planning Commission was an **advisory** (non-constitutional, non-statutory) body set up by Cabinet resolution.
+**Logic:** an advisory body.
 
-**Ans: B.** an advisory body.
+**Ans: B.** Planning Commission was an **advisory** (non-constitutional, non-statutory) body set up by Cabinet resolution.
 
 </details>
 
-**Q108. U.P. Lower Sub. (Pre) 2015**
+**Q108. UP Lower Sub (Pre) 2015**
 
 Which one of the following is not correct about NITI Aayog?
 
@@ -2975,12 +2971,13 @@ D. It is based on the principle of Cooperative Federalism
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** It has a full-time Chairman.
-**Logic:** Planning Commission was set up on 15th March, 1950 through a Cabinet Resolution and it was replaced by NITI Aayog through another such resolution on 1st January, 2015. NITI Aayog has been constituted to actualize the important goal of Cooperative Federalism and to enable good gov
+**Logic:** NITI Aayog has been constituted to actualize the important goal of Cooperative Federalism and to enable good gov
+
+**Ans: B.** Planning Commission was set up on 15th March, 1950 through a Cabinet Resolution and it was replaced by NITI Aayog through another such resolution on 1st January, 2015.
 
 </details>
 
-**Q109. U.P. R.O./A.R.O. (Pre) (Re-Exam) 2023**
+**Q109. UP RO/ARO (Pre) (Re-Exam) 2023**
 
 Which among the following is not a part of the Governing Council of NITI Aayog ?
 
@@ -2992,8 +2989,9 @@ D. All Chief Ministers of States
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All Chief Ministers of States.
-**Logic:** In the Governing Council of NITI Aayog – the Prime Minister (Chairperson), Chief Ministers of all States, Chief Ministers of Union Territories with Legislatures (Delhi, Puducherry), and the Lieutenant Governors of the other Union Territories are included. Governors of States are 
+**Logic:** Governors of States are
+
+**Ans: D.** In the Governing Council of NITI Aayog – the Prime Minister (Chairperson), Chief Ministers of all States, Chief Ministers of Union Territories with Legislatures (Delhi, Puducherry), and the Lieutenant Governors of the…
 
 </details>
 
@@ -3010,8 +3008,9 @@ E. None of the above/More than one of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** 1st January, 2015.
-**Logic:** NITI Aayog (NITI : National Institution for Transforming India) was established on 1st January, 2015 by a Cabinet Resolution to replace the Planning Commission. It is a public policy think tank of the Government of India, established with the aim to achieve sustainable developmen
+**Logic:** It is a public policy think tank of the Government of India, established with the aim to achieve sustainable developmen
+
+**Ans: C.** NITI Aayog (NITI : National Institution for Transforming India) was established on 1st January, 2015 by a Cabinet Resolution to replace the Planning Commission.
 
 </details>
 
@@ -3026,9 +3025,9 @@ C. 1" January, 2015
 <details>
 <summary>Show answer</summary>
 
-**Logic:** NITI Aayog replaced the Planning Commission from **1 January 2015** by Union Cabinet resolution.
+**Logic:** 1" January, 2015.
 
-**Ans: C.** 1" January, 2015.
+**Ans: C.** NITI Aayog replaced the Planning Commission from **1 January 2015** by Union Cabinet resolution.
 
 </details>
 
@@ -3044,10 +3043,9 @@ E. None of these
 <details>
 <summary>Show answer</summary>
 
-**Logic:** NITI Aayog replaced the Planning Commission from **1 January 2015** by Union Cabinet resolution.
+**Logic:** NITI Aayog replaced the Planning Commission from 1 January 2015 by Union Cabinet resolution — Jan
 
-**Ans: A.** Jan. 1, 2015.
-
+**Ans: A.** Jan.
 </details>
 
 **Q113. 64th B.P.S.C. (Pre) 2018**
@@ -3063,10 +3061,9 @@ E. None of the above/More than one of the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Correct option is **B** — National Institution for Transforming India.
+**Logic:** Correct option is B — National Institution for Transforming India — National Institution for Transforming India
 
-**Ans: B.** National Institution for Transforming India.
-
+**Ans: B.** National Institution for Transforming India
 </details>
 
 **Q114. 64th B.P.S.C. (Pre) 2018**
@@ -3082,8 +3079,9 @@ E. None of the above/More than one of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Amitabh Kant.
-**Logic:** Amitabh Kant was the second CEO of NITI Aayog. He assumed office on 17 February, 2016 in place of Sindhushree Khullar. At present, B.V.R. Subrahmanyam is the CEO of NITI Aayog. He assumed office on 25 February, 2023
+**Logic:** He assumed office on 17 February, 2016 in place of Sindhushree Khullar.
+
+**Ans: A.** Amitabh Kant was the second CEO of NITI Aayog.
 
 </details>
 
@@ -3098,10 +3096,9 @@ C. 35.0
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Uttar Pradesh’s overall FHI score for FY 2022–23 was **45.9** (Fiscal Health Index 2025).
+**Logic:** NITI’s FHI 2025 keys UP at 45.9 for 2022–23; 37.0 is the older 2014–19 comparison score, not the headline 2022–23 figure — 45.9
 
-**Logic:** NITI’s FHI 2025 keys UP at **45.9** for 2022–23; **37.0** is the older 2014–19 comparison score, not the headline 2022–23 figure.
-
+**Ans: A.** 45.9
 </details>
 
 **Q116. Uttarakhand U.D.A./L.D.A. (Pre) 2003**
@@ -3116,9 +3113,9 @@ D. Montek S. Ahluwalia
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** P. Chidambaram was not Deputy Chairman of the Planning Commission.
+**Logic:** Ahluwalia each served as Deputy Chairman; Chidambaram did not.
 
-**Logic:** Manmohan Singh, Pranab Mukherjee and Montek S. Ahluwalia each served as Deputy Chairman; Chidambaram did not.
+**Ans: C.** Manmohan Singh, Pranab Mukherjee and Montek S.
 
 </details>
 
@@ -3134,10 +3131,9 @@ D. Finance Secretary of India
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Correct option is **B** — Prime Minister of India.
+**Logic:** Correct option is B — Prime Minister of India — Prime Minister of India
 
-**Ans: B.** Prime Minister of India.
-
+**Ans: B.** Prime Minister of India
 </details>
 
 **Q118. Mixed / State PCS**
@@ -3153,8 +3149,9 @@ E. From deficit
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** From borrowings.
-**Logic:** Chhattisgarh P.C.S. (Pre) 201 The maximum resources are mobilised from borrowings for India's public expenditure under plans. Public debt is the total amount, including total liabilities, borrowed by the government to meet its development budget. The sources of public debt are da
+**Logic:** (Pre) 201 The maximum resources are mobilised from borrowings for India's public expenditure under plans.
+
+**Ans: D.** Chhattisgarh P.C.S.
 
 </details>
 
@@ -3170,8 +3167,9 @@ D. Lal Bahadur Shastrı
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Subhash Chandra Bose.
-**Logic:** National Planning Committee was constituted by the then President of the Congress (Subhash Chandra Bose) in October, 1938. Bose requested Pandit Jawaharlal Nehru to become its Chairman. Economic & Social Development General Studies E-202
+**Logic:** Bose requested Pandit Jawaharlal Nehru to become its Chairman.
+
+**Ans: C.** National Planning Committee was constituted by the then President of the Congress (Subhash Chandra Bose) in October, 1938.
 
 </details>
 
@@ -3186,8 +3184,9 @@ C. Sri Ram
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Dhirubhai Ambani.
-**Logic:** as the 'Bombay Plan'. The attitude of Indian capitalists/ industrialists to the economic structure of independent India was encapsulated in the plan. The plan contained a |strong endorsement of state economic intervention and planning
+**Logic:** The attitude of Indian capitalists/ industrialists to the economic structure of independent India was encapsulated in the plan.
+
+**Ans: A.** as the 'Bombay Plan'.
 
 </details>
 
@@ -3203,10 +3202,9 @@ D. Mahalanobis
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Correct option is **B** — Sriman Narayan Agarwal.
+**Logic:** Correct option is B — Sriman Narayan Agarwal — Sriman Narayan Agarwal
 
-**Ans: B.** Sriman Narayan Agarwal.
-
+**Ans: B.** Sriman Narayan Agarwal
 </details>
 
 **Q122. M.P. P.C.S. (Pre) 2013**
@@ -3221,9 +3219,9 @@ D. Shriman Narayan Agarwal
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Jayaprakash Narayan.
-**Logic:** In 1950, Jayaprakash Narayan drafted the 'Sarvodaya Plan' inspired by Gandhian ideals to chart a future map for India's development and 1954 onwards, he dedicated his life to the Sarvodaya Movement to establish true socialism
+**Logic:** In 1950, Jayaprakash Narayan drafted the 'Sarvodaya Plan' inspired by Gandhian ideals to chart a future map for India's development and 1954 onwards, he dedicated his life to the Sarvodaya Movement to establish true s……
 
+**Ans: B.** Jayaprakash Narayan
 </details>
 
 **Q123. R.A.S./R.T.S. (Pre) 1992**
@@ -3238,9 +3236,9 @@ D. Increasing role of Private sector
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Self-reliance and reduction of dependence on foreignaid.
-**Logic:** |The main objectives of Indian Five Year Plans were to promote a rapid rise in the standard of living of the peopleby efficient exploitation of the resources of the country, increasing production and offering opportunities to all for employment and to reduce dependence on foreign
+**Logic:** |The main objectives of Indian Five Year Plans were to promote a rapid rise in the standard of living of the peopleby efficient exploitation of the resources of the country, increasing production and offering opportun……
 
+**Ans: B.** Self-reliance and reduction of dependence on foreignaid
 </details>
 
 **Q124. M.P.P.C.S. (Pre) 2017**
@@ -3254,8 +3252,9 @@ C. 2010-2015
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Growth Rate of 4.0 percent.
-**Logic:** ble and were More to Inclusive attain Growth. Targets of the 12th Five Year Plan Agriculture :
+**Logic:** Targets of the 12th Five Year Plan Agriculture :
+
+**Ans: B.** ble and were More to Inclusive attain Growth.
 
 </details>
 
@@ -3270,10 +3269,9 @@ C. 2012-2017
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Twelfth Five Year Plan period is **2012–2017** — the last FYP before NITI’s vision–strategy–action style.
+**Logic:** Twelfth Five Year Plan period is 2012–2017 — the last FYP before NITI’s vision–strategy–action style — 2012-2017
 
-**Ans: C.** 2012-2017.
-
+**Ans: C.** 2012-2017
 </details>
 
 **Q126. Mixed / State PCS**
@@ -3306,10 +3304,9 @@ E. None of the above/More than one of the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Correct option is **C** — 4.0 percent.
+**Logic:** Correct option is C — 4.0 percent — 4.0 percent
 
-**Ans: C.** 4.0 percent.
-
+**Ans: C.** 4.0 percent
 </details>
 
 **Q128. R.A.S./R.T.S. (Pre) 2018**
@@ -3324,12 +3321,13 @@ D. Faster, sustainable and more inclusive growth
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Faster and more inclusive growth.
-**Logic:** Eleventh Five Year Plan was aimed 'Towards Faster and More Inclusive Growth'. The duration of 11th Five Year Plan was 2007-12
+**Logic:** The duration of 11th Five Year Plan was 2007-12
+
+**Ans: C.** Eleventh Five Year Plan was aimed 'Towards Faster and More Inclusive Growth'.
 
 </details>
 
-**Q129. U.P. Lower Sub. (Pre) 2008**
+**Q129. UP Lower Sub (Pre) 2008**
 
 The period of Eleventh Five Year Plan in India, is :
 
@@ -3340,10 +3338,9 @@ C. 2007-2012
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Eleventh Plan Approach theme: **Towards Faster and More Inclusive Growth**.
+**Logic:** Eleventh Plan Approach theme: Towards Faster and More Inclusive Growth — 2007-2012
 
-**Ans: C.** 2007-2012.
-
+**Ans: C.** 2007-2012
 </details>
 
 **Q130. Uttarakhand P.C.S. (Pre) 2010**
@@ -3358,9 +3355,9 @@ D. Faster and more inclusive growth
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Eleventh Plan Approach theme: **Towards Faster and More Inclusive Growth**.
+**Logic:** Faster and more inclusive growth.
 
-**Ans: D.** Faster and more inclusive growth.
+**Ans: D.** Eleventh Plan Approach theme: **Towards Faster and More Inclusive Growth**.
 
 </details>
 
@@ -3376,9 +3373,9 @@ D. Development of minorities
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Inclusive growth.
-**Logic:** 48th to See the explanation of above question
+**Logic:** 48th to See the explanation of above question — Inclusive growth
 
+**Ans: B.** Inclusive growth
 </details>
 
 **Q132. M.P.P.C.S. (Pre) 2008**
@@ -3392,8 +3389,9 @@ C. Rs. 36,44,718 crore
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Rs. 36,44,718 crore.
-**Logic:** 12th Five Year Plan was placed at Rs. 76,69,807 crore
+**Logic:** 76,69,807 crore
+
+**Ans: C.** 12th Five Year Plan was placed at Rs.
 
 </details>
 
@@ -3409,8 +3407,9 @@ D. Social sector
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Social sector.
-**Logic:** U.P.P.C.S (Pre) 2010 In the 11th Five Year Plan, social sector accounted for maximum combined Central, State and Union Territories expenditure. General Studies E-207
+**Logic:** General Studies E-207
+
+**Ans: D.** U.P.P.C.S (Pre) 2010 In the 11th Five Year Plan, social sector accounted for maximum combined Central, State and Union Territories expenditure.
 
 </details>
 
@@ -3425,9 +3424,9 @@ C. Strengthening of capital market
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Strengthening of capital market.
-**Logic:** ening of capital market, while it includes reduction of poverty, extension of employment opportunities and reduction of gender
+**Logic:** ening of capital market, while it includes reduction of poverty, extension of employment opportunities and reduction of gender — Strengthening of capital market
 
+**Ans: C.** Strengthening of capital market
 </details>
 
 **Q135. Mixed / State PCS**
@@ -3442,8 +3441,9 @@ D. Vocationalisation of education
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Compulsory elementary education.
-**Logic:** U.P.P.C.S. (Mains) 200 The theme for education sector in the 11h Five Year Plan was 'compulsory elementary education". The following five monitorable socio-economic targets in education had been outlined in the Eleventh Five Year Plan Reduction in the drop out rates of children f
+**Logic:** (Mains) 200 The theme for education sector in the 11h Five Year Plan was 'compulsory elementary education".
+
+**Ans: C.** U.P.P.C.S.
 
 </details>
 
@@ -3458,9 +3458,9 @@ C. Communication
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Communication.
-**Logic:** financial services, 9.82% in manufacturing and 9.44% in trade, while agriculture sector was expected to register a growth rate of 3.97% during the Plan period
+**Logic:** financial services, 9.82% in manufacturing and 9.44% in trade, while agriculture sector was expected to register a growth rate of 3.97% during the Plan period — Communication
 
+**Ans: C.** Communication
 </details>
 
 **Q137. R.A.S./R.T.S. (Pre) 2003**
@@ -3475,12 +3475,12 @@ D. About half of what expected
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** About half of what expected.
-**Logic:** GDP growth in the years 2000-02 was almost half of the target set in the Tenth Plan
+**Logic:** GDP growth in the years 2000-02 was almost half of the target set in the Tenth Plan — About half of what expected
 
+**Ans: D.** About half of what expected
 </details>
 
-**Q138. U.P.R.O./A.R.O. (Pre) 2016**
+**Q138. UP RO/ARO (Pre) 2016**
 
 Which of the following Five Year Plans of India rec- ognized human development as the core of develop- mental efforts?
 
@@ -3493,8 +3493,9 @@ E. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Eighth Five Year Plan.
-**Logic:** The 8th Five Year Plan recognized ‘human development' as the core of all developmental efforts. Human development, in all its many facets, was the ultimate goal of the Eighth Plan. It was towards fulfilling thisgoal that the Eighth Plan acorded priority to the generation of adequ
+**Logic:** Human development, in all its many facets, was the ultimate goal of the Eighth Plan.
+
+**Ans: B.** The 8th Five Year Plan recognized ‘human development' as the core of all developmental efforts.
 
 </details>
 
@@ -3509,9 +3510,9 @@ C. 7.5%
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** 7.5%.
-**Logic:** (Pre) 1993 The Eighth Five Year Plan aimed an average annual growth rate of 5.6 percent and an average industrial growth rate of 7.5 percent
+**Logic:** (Pre) 1993 The Eighth Five Year Plan aimed an average annual growth rate of 5.6 percent and an average industrial growth rate of 7.5 percent — 7.5%
 
+**Ans: C.** 7.5%
 </details>
 
 **Q140. M.P.P.C.S. (Pre) 1992**
@@ -3525,9 +3526,9 @@ C. 767000 crore Rs
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** 798000 crore Rs.
-**Logic:** period. The level of national investment was proposed at Rs. 798000 crore and the public sector outlay at Rs. 434100 crore
+**Logic:** Standard key matches 798000 crore Rs.
 
+**Ans: A.** 798000 crore Rs
 </details>
 
 **Q141. I.A.S. (Pre) 1995**
@@ -3542,8 +3543,9 @@ D. deficit financing
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** government borrowings.
-**Logic:** Public sector outlay for the 8th plan was placed at Rs. 434100 crore. For that, Rs. 202255 crore was set to finance by government borrowings (46.6% of the total investment), which was the highest among all other sources of financing
+**Logic:** 434100 crore.
+
+**Ans: C.** Public sector outlay for the 8th plan was placed at Rs.
 
 </details>
 
@@ -3558,8 +3560,9 @@ C. Eighth Plan
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Eighth Plan.
-**Logic:** (1992-97) was postponed by two years because of political uncertainty at the Centre. It emphasized on infrastructure rather than heavy industries. The plan undertook drastic policy measures to combat the bad economic situation and to undertake an annual average growth of 5.6% thr
+**Logic:** It emphasized on infrastructure rather than heavy industries.
+
+**Ans: C.** (1992-97) was postponed by two years because of political uncertainty at the Centre.
 
 </details>
 
@@ -3574,9 +3577,9 @@ C. 1985-90
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** 1985-90.
-**Logic:** (PThe Seventh Five Year Plan covered the period 5The Eighth Plan was postponed by the two years(19 because of political uncertainty at the Centre
+**Logic:** (PThe Seventh Five Year Plan covered the period 5The Eighth Plan was postponed by the two years(19 because of political uncertainty at the Centre — 1985-90
 
+**Ans: C.** 1985-90
 </details>
 
 **Q144. Mixed / State PCS**
@@ -3591,8 +3594,9 @@ D. Community Development Programme
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Food, Work and Productivity.
-**Logic:** R.A.S./R.T.S. (PrThe Seventh Five Year Plan (1985-90) aimed at accelefoodgrains production, increasing employment opportand raising productivity with focus on 'Food, Wo Productivity'. The plan was very successful as the ecerecorded 6% growth rate against the targeted 5% w decade 
+**Logic:** (PrThe Seventh Five Year Plan (1985-90) aimed at accelefoodgrains production, increasing employment opportand raising productivity with focus on 'Food, Wo Productivity'.
+
+**Ans: A.** R.A.S./R.T.S.
 
 </details>
 
@@ -3607,8 +3611,9 @@ C. Fifth
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Fifth.
-**Logic:** (Garibi Hatao) and attainment of self reliance'. After promulgation of Emergency in 1975, the emphasis shifted to the implementation of Prime Minister's 20 Point Programme. Fifth Plan was relegated to the background and when Janta Party came to power the Plan was terminated in 19
+**Logic:** After promulgation of Emergency in 1975, the emphasis shifted to the implementation of Prime Minister's 20 Point Programme.
+
+**Ans: C.** (Garibi Hatao) and attainment of self reliance'.
 
 </details>
 
@@ -3624,8 +3629,9 @@ D. Exclusive growth
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Poverty removal.
-**Logic:** The scheduled period of Fifth Five Year Plan was 1974-79. During fifith Plan, the Emergency was clamped, new elections took place and the Janta Party was elected. The final Draft of Fifth Planwas prepared and launched by D.P.Dhar in the backdrop of economic crisis arising out of 
+**Logic:** During fifith Plan, the Emergency was clamped, new elections took place and the Janta Party was elected.
+
+**Ans: A.** The scheduled period of Fifth Five Year Plan was 1974-79.
 
 </details>
 
@@ -3640,8 +3646,9 @@ C. II, I and III
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** III, II and I.
-**Logic:** (1969-74), a growth centreapproach was introduced with the objective of removingregional disparities. Although it was started in the 4th Planit was given special emphasis during the 5th Plan. Resourcebased programmes, problem based programmes, target groupapproach, incentive appr
+**Logic:** Although it was started in the 4th Planit was given special emphasis during the 5th Plan.
+
+**Ans: B.** (1969-74), a growth centreapproach was introduced with the objective of removingregional disparities.
 
 </details>
 
@@ -3657,8 +3664,9 @@ D. Sixth Five Year Plan
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Fourth Five Year Plan.
-**Logic:** The objective of self-sustaining development in India wasfirst adopted in Fourth Five Year Plan. Refusal of supplyof essential equipments and raw materials from the alliesduring the Indo-Pak war was resulted in twin objectives of'growth with stability' and 'progressive achievemen
+**Logic:** Refusal of supplyof essential equipments and raw materials from the alliesduring the Indo-Pak war was resulted in twin objectives of'growth with stability' and 'progressive achievemen
+
+**Ans: B.** The objective of self-sustaining development in India wasfirst adopted in Fourth Five Year Plan.
 
 </details>
 
@@ -3673,10 +3681,9 @@ D. Poverty alleviation
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Correct option is **C** — Robinson's Model.
+**Logic:** Correct option is C — Robinson's Model — Robinson's Model
 
-**Ans: C.** Robinson's Model.
-
+**Ans: C.** Robinson's Model
 </details>
 
 **Q150. M.P. P.C.S. (Pre) 2013**
@@ -3690,8 +3697,9 @@ C. 1961-62
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** 1951-52.
-**Logic:** (1st April, 1951) with the inception of First Five Year Plan, theoretical efforts had begun much earlier, even prior to the independence. Setting up of National Planning Committee by Indian National Congress in 1938, The Bombay Plan and Gandhian Plan in 1944, People's Plan in 194
+**Logic:** Setting up of National Planning Committee by Indian National Congress in 1938, The Bombay Plan and Gandhian Plan in 1944, People's Plan in 194
+
+**Ans: A.** (1st April, 1951) with the inception of First Five Year Plan, theoretical efforts had begun much earlier, even prior to the independence.
 
 </details>
 
@@ -3707,12 +3715,13 @@ D. J.L. Nehru Model
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Harrod-Domar Model.
-**Logic:** The First Five Year Plan was launched in 1951 which mainly focussed on development of the primary sector. This plan was based on the Harrod-Domar model with few modifications. Influx of refugees, severe food shortage and mounting inflation confronted the country at the onset ofth
+**Logic:** This plan was based on the Harrod-Domar model with few modifications.
+
+**Ans: A.** The First Five Year Plan was launched in 1951 which mainly focussed on development of the primary sector.
 
 </details>
 
-**Q152. U.P. R.O./A.R.O. (Pre) 2021**
+**Q152. UP RO/ARO (Pre) 2021**
 
 Match List-I with List-II and select the correct answer using the code given below: List-I List-II Five Year Plan Applied Growth Model A. First 1. S. Chakravarty Mode! B. Second 2. Harrod-Domar Model C. Third 3. Ashok Rudra Model D. Fourth 4. Mahalanobis Model Code: A B C D
 
@@ -3723,12 +3732,13 @@ C. 3 2 4
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** 2 4 1 3.
-**Logic:** The correctly matched lists are as follows : Five Year Plan Applied Growth Model First Harrod-Domar Model Second Mahalanobis Model Third S. Chakravarty Model Fourth Ashok Rudra Model
+**Logic:** Chakravarty Model Fourth Ashok Rudra Model
+
+**Ans: B.** The correctly matched lists are as follows : Five Year Plan Applied Growth Model First Harrod-Domar Model Second Mahalanobis Model Third S.
 
 </details>
 
-**Q153. U.P. Lower Sub. (Spl.) (Pre) 2004**
+**Q153. UP Lower Sub (Spl.) (Pre) 2004**
 
 The cumulative annual growth rate of Real Gross National Product in India was maximum in :
 
@@ -3739,8 +3749,9 @@ C. Sixth Five Year Plan
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Eighth Five Year Plan.
-**Logic:** Third Five Year Plan 2. 1951-56 Economic & Social Development General Studies E-217 Among the given options, option
+**Logic:** 1951-56 Economic & Social Development General Studies E-217 Among the given options, option
+
+**Ans: A.** Third Five Year Plan 2.
 
 </details>
 
@@ -3756,8 +3767,9 @@ E. Sixth Plan
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Eleventh Plan.
-**Logic:** During Eleventh Five Year Plan, India has achieved the maximum per-capita GDP growth rate. The Eleventh Five Year Plan envisaged that with a target of 9% GDP growth, per-capita GDP would grow at about 7.6% per year to double in less than ten years
+**Logic:** The Eleventh Five Year Plan envisaged that with a target of 9% GDP growth, per-capita GDP would grow at about 7.6% per year to double in less than ten years
+
+**Ans: A.** During Eleventh Five Year Plan, India has achieved the maximum per-capita GDP growth rate.
 
 </details>
 
@@ -3772,12 +3784,13 @@ C. 1967-70
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** 1966-69.
-**Logic:** Third Five Year Plan ended on 31st March, 1966 and Fourth Five Year Plan was started from 1st April, 1969. During this period i.e. from 1stApril, 1966 to 31st March, 1969 (3 years), there was no Five Year Plan. During this period three Annual Plans were introduced instead. Theref
+**Logic:** During this period i.e.
+
+**Ans: B.** Third Five Year Plan ended on 31st March, 1966 and Fourth Five Year Plan was started from 1st April, 1969.
 
 </details>
 
-**Q156. U.P. R.O./A.R.O. (Pre) 2014**
+**Q156. UP RO/ARO (Pre) 2014**
 
 Which one of the following decade in Indian Planning deserves to be called 'the decade of jobless growth'?
 
@@ -3788,8 +3801,9 @@ C. 2001-2010
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** 1991-2000.
-**Logic:** Plan (1992-97), the employment growth rate of organized sector during the first two years of this plan was recorded 0.36 percent as against the targeted 2.6 percent. The annual employment growth rate remained well below the target se
+**Logic:** The annual employment growth rate remained well below the target se
+
+**Ans: B.** Plan (1992-97), the employment growth rate of organized sector during the first two years of this plan was recorded 0.36 percent as against the targeted 2.6 percent.
 
 </details>
 
@@ -3804,8 +3818,9 @@ C. G.B. Birla
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** M. Visvesvaraya.
-**Logic:** ea of planning for India. In this book, he proposed a ten-year plan with the aim of doubling the income of the country. His main emphasis was on industrialization so as to reduce the population's dependent on agriculture
+**Logic:** In this book, he proposed a ten-year plan with the aim of doubling the income of the country.
+
+**Ans: A.** ea of planning for India.
 
 </details>
 
@@ -3828,10 +3843,9 @@ D. 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Only Cabinet-resolution statement true.
+**Logic:** Only Cabinet-resolution statement true — Only 2
 
-**Ans: C.** Only 2.
-
+**Ans: C.** Only 2
 </details>
 
 **Q2. UKPCS (Pre) 2025**
@@ -3846,10 +3860,9 @@ D. 11th
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 11th Plan inclusive growth.
+**Logic:** 11th Plan inclusive growth — 11th
 
-**Ans: D.** 11th.
-
+**Ans: D.** 11th
 </details>
 
 **Q3. UKPCS (Pre) 2024**
@@ -3864,9 +3877,9 @@ D. Lieutenant Governor of Andaman & Nicobar Islands
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Governors are the odd ones out.
+**Logic:** Governors of States.
 
-**Ans: C.** Governors of States.
+**Ans: C.** Governors are the odd ones out.
 
 </details>
 
@@ -3882,9 +3895,9 @@ D. Non-monetised consumption
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Non-monetised output escapes easy money measurement.
+**Logic:** Non-monetised consumption.
 
-**Ans: D.** Non-monetised consumption.
+**Ans: D.** Non-monetised output escapes easy money measurement.
 
 </details>
 
@@ -3900,9 +3913,9 @@ D. H. D. Deve Gowda
 <details>
 <summary>Show answer</summary>
 
-**Logic:** First-phase mid-80s = Rajiv; systemic 1991 = Rao.
+**Logic:** Rajiv Gandhi.
 
-**Ans: A.** Rajiv Gandhi.
+**Ans: A.** First-phase mid-80s = Rajiv; systemic 1991 = Rao.
 
 </details>
 
@@ -3910,7 +3923,9 @@ D. H. D. Deve Gowda
 
 ## Practice Zone
 
-**Q1.** With reference to mixed economy, which of the following statements is/are correct?
+**Q1.**
+
+With reference to mixed economy, which of the following statements is/are correct?
 
 1. Public and private sectors coexist in India.
 2. India abolished the private sector completely in 1991.
@@ -3926,13 +3941,14 @@ D. 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 3 are correct.
+**Logic:** Mixed economy means public + private coexistence; 1991 shifted the balance toward markets but did not abolish the private sector — 1 and 3
 
-**Logic:** Mixed economy means public + private coexistence; 1991 shifted the balance toward markets but did not abolish the private sector.
-
+**Ans: C.** 1 and 3
 </details>
 
-**Q2.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+**Q2.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 Assertion (A): NITI Aayog replaced the Planning Commission.
 
@@ -3948,13 +3964,14 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** A is true; NITI is Cabinet resolution, Art. 280 is Finance Commission.
+**Logic:** 280 is Finance Commission.
 
-**A/R logic:** Institution swap trap with FC.
-
+**Ans: C.** is true, but (R) is false
 </details>
 
-**Q3.** Match List-I with List-II.
+**Q3.**
+
+Match List-I with List-II.
 
 | List-I | List-II |
 |---|---|
@@ -3975,13 +3992,14 @@ D. 2 4 3 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Territory; NFIA; net domestic; net national.
+**Logic:** Do not swap GDP and GNP — 2 4 1 3
 
-**Logic:** Do not swap GDP and GNP.
-
+**Ans: A.** 2 4 1 3
 </details>
 
-**Q4.** Which of the following pairs is **not** correctly matched?
+**Q4.**
+
+Which of the following pairs is **not** correctly matched?
 
 A. Real GDP — constant prices
 B. Nominal GDP — current prices
@@ -3991,13 +4009,14 @@ D. Real GDP — always higher than nominal by definition
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Relative size depends on price level vs base year.
+**Logic:** A–C are standard — Real GDP — always higher than nominal by definition
 
-**Logic:** A–C are standard.
-
+**Ans: D.** Real GDP — always higher than nominal by definition
 </details>
 
-**Q5.** With reference to the Eleventh and Twelfth Plans, which of the following statements is/are correct?
+**Q5.**
+
+With reference to the Eleventh and Twelfth Plans, which of the following statements is/are correct?
 
 1. The Eleventh Plan emphasised inclusive growth.
 2. The Twelfth Plan added a strong sustainable-growth tag.
@@ -4013,13 +4032,14 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Logic:** First Plan was 1951–56.
 
-**Logic:** First Plan was 1951–56. Statement 3 is false.
-
+**Ans: A.** 1 and 2
 </details>
 
-**Q6.** With reference to NITI Aayog, which of the following statements is/are correct?
+**Q6.**
+
+With reference to NITI Aayog, which of the following statements is/are correct?
 
 1. It started on 1 January 2015.
 2. The Prime Minister is the Chairperson.
@@ -4035,13 +4055,14 @@ D. 1 and 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Statements 1 and 2 are correct.
+**Logic:** Governors are not GC members.
 
-**Logic:** Governors are not GC members. Statement 3 is false.
-
+**Ans: D.** 1 and 2
 </details>
 
-**Q7.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+**Q7.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 Assertion (A): GDP excludes intermediate goods to avoid double counting.
 
@@ -4057,13 +4078,14 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both true; final-goods / value-added rule is why intermediates are out.
+**A/R logic:** Both true; final-goods / value-added rule is why intermediates are out.
 
-**A/R logic:** Core NI measurement.
-
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)
 </details>
 
-**Q8.** Match List-I with List-II.
+**Q8.**
+
+Match List-I with List-II.
 
 | List-I | List-II |
 |---|---|
@@ -4084,13 +4106,14 @@ D. 4 1 2 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Agri; heavy industry; inclusive; sustainable.
+**Logic:** Do not put sustainable on the 11th alone — 2 1 3 4
 
-**Logic:** Do not put sustainable on the 11th alone.
-
+**Ans: A.** 2 1 3 4
 </details>
 
-**Q9.** Which of the following pairs is **not** correctly matched?
+**Q9.**
+
+Which of the following pairs is **not** correctly matched?
 
 A. AIM — NITI Aayog
 B. First NITI VC — Arvind Panagariya
@@ -4100,13 +4123,14 @@ D. NITI Chairperson — President of India
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** PM is Chairperson.
+**Logic:** A–C are standard — NITI Chairperson — President of India
 
-**Logic:** A–C are standard.
-
+**Ans: D.** NITI Chairperson — President of India
 </details>
 
-**Q10.** With reference to 1991 reforms, which of the following statements is/are correct?
+**Q10.**
+
+With reference to 1991 reforms, which of the following statements is/are correct?
 
 1. They are summarised as liberalisation, privatisation and globalisation.
 2. They responded to a balance-of-payments crisis.
@@ -4122,13 +4146,14 @@ D. 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 2 are correct.
+**Logic:** LPG responds to the 1991 BoP crisis; GDP remains the core output aggregate — statement 3 is invented noise — 1 and 2
 
-**Logic:** LPG responds to the 1991 BoP crisis; GDP remains the core output aggregate — statement 3 is invented noise.
-
+**Ans: C.** 1 and 2
 </details>
 
-**Q11.** With reference to Green GDP, which of the following statements is/are correct?
+**Q11.**
+
+With reference to Green GDP, which of the following statements is/are correct?
 
 1. It adjusts conventional GDP for environmental costs in teaching.
 2. It is identical to the CPI inflation index.
@@ -4144,13 +4169,14 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 3 are correct.
+**Logic:** Standard key matches 1 and 3.
 
-**Logic:** CPI is Topic 4. Statement 2 is false.
-
+**Ans: B.** 1 and 3
 </details>
 
-**Q12.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+**Q12.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 Assertion (A): Adam Smith is commonly called the Father of Economics.
 
@@ -4166,13 +4192,14 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** A is true; the 2024 stem treated Keynes as the false statement.
+**A/R logic:** A is true; the 2024 stem treated Keynes as the false statement.
 
-**A/R logic:** 2024 statement 3 trap.
-
+**Ans: C.** (A) is true, but (R) is false
 </details>
 
-**Q13.** With reference to methods of measuring national income, which of the following statements is/are correct?
+**Q13.**
+
+With reference to methods of measuring national income, which of the following statements is/are correct?
 
 1. Product / value-added method is one approach.
 2. Income method is one approach.
@@ -4189,13 +4216,14 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Product, income and expenditure are the three standard approaches.
+**Logic:** Diminishing-cost is a classic distractor — it is not a GDP measurement method — 1, 2 and 4
 
-**Logic:** Diminishing-cost is a classic distractor — it is **not** a GDP measurement method.
-
+**Ans: C.** 1, 2 and 4
 </details>
 
-**Q14.** Arrange the following in chronological order:
+**Q14.**
+
+Arrange the following in chronological order:
 
 1. Planning Commission set up
 2. National Development Council constituted
@@ -4212,13 +4240,15 @@ D. 1-2-3-4
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** 1950 → 1952 → 1966 → 2015.
+**Logic:** Trap: swapping NDC before Planning Commission.
 
-**Logic:** Planning Commission (15 Mar 1950), NDC (6 Aug 1952), Plan Holiday (1966–69), NITI (1 Jan 2015). Trap: swapping NDC before Planning Commission.
+**Ans: A.** Planning Commission (15 Mar 1950), NDC (6 Aug 1952), Plan Holiday (1966–69), NITI (1 Jan 2015).
 
 </details>
 
-**Q15.** With reference to Economic and Social Planning in the Seventh Schedule, which of the following statements is/are correct?
+**Q15.**
+
+With reference to Economic and Social Planning in the Seventh Schedule, which of the following statements is/are correct?
 
 1. It is in the Union List.
 2. It is in the Concurrent List.
@@ -4234,13 +4264,14 @@ D. Neither 1 nor 2 nor 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only statement 2 is correct.
+**Logic:** Economic and Social Planning is List-III (Concurrent) — joint Centre–State domain, not exclusive Union or State — Only 2
 
-**Logic:** Economic and Social Planning is List-III (Concurrent) — joint Centre–State domain, not exclusive Union or State.
-
+**Ans: B.** Only 2
 </details>
 
-**Q16.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+**Q16.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 Assertion (A): The Finance Commission is a constitutional body under Article 280.
 
@@ -4256,13 +4287,14 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** A is true; Planning Commission was Cabinet resolution, not Art. 280.
+**A/R logic:** is true, but (R) is false
 
-**A/R logic:** Art. 280 belongs only to the Finance Commission — a frequent Planning Commission swap trap.
-
+**Ans: C.** (A) is true, but (R) is false
 </details>
 
-**Q17.** Which of the following pairs is **not** correctly matched?
+**Q17.**
+
+Which of the following pairs is **not** correctly matched?
 
 A. Plan Holiday — 1966–69
 B. Rolling Plan — 1978–80
@@ -4272,13 +4304,14 @@ D. Twelfth Plan — 2007–12
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Twelfth Plan is **2012–17**; **2007–12** is the Eleventh Plan.
+**Logic:** Do not park “inclusive growth” years on the Twelfth Plan window — Twelfth Plan — 2007–12
 
-**Logic:** Do not park “inclusive growth” years on the Twelfth Plan window.
-
+**Ans: D.** Twelfth Plan — 2007–12
 </details>
 
-**Q18.** With reference to DMEO, which of the following statements is/are correct?
+**Q18.**
+
+With reference to DMEO, which of the following statements is/are correct?
 
 1. It was set up on 18 September 2015.
 2. It is an attached office of NITI Aayog.
@@ -4294,13 +4327,14 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Logic:** DMEO = PEO + IEO merge under NITI — not PMO / Cabinet Secretariat / Home — 1 and 2
 
-**Logic:** DMEO = PEO + IEO merge under **NITI** — not PMO / Cabinet Secretariat / Home.
-
+**Ans: B.** 1 and 2
 </details>
 
-**Q19.** Match List-I with List-II.
+**Q19.**
+
+Match List-I with List-II.
 
 | List-I | List-II |
 |---|---|
@@ -4321,13 +4355,14 @@ D. 2 1 3 4
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Industrialists; Agarwal; JP Narayan; Bose sets up / Nehru chairs NPC.
+**Logic:** Do not put Dhirubhai Ambani in the Bombay Plan set; do not swap Gandhian with Sarvodaya authors — 2 1 4 3
 
-**Logic:** Do not put Dhirubhai Ambani in the Bombay Plan set; do not swap Gandhian with Sarvodaya authors.
-
+**Ans: A.** 2 1 4 3
 </details>
 
-**Q20.** With reference to the Hindu rate of growth, which of the following statements is/are correct?
+**Q20.**
+
+With reference to the Hindu rate of growth, which of the following statements is/are correct?
 
 1. The phrase is linked with Prof. Raj Krishna.
 2. It tags National Income / GDP growth around ~3.5% for decades after Independence.
@@ -4343,13 +4378,14 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Logic:** Hindu rate is an output-growth tag, not a population-growth tag — 1 and 2
 
-**Logic:** Hindu rate is an **output-growth** tag, not a population-growth tag.
-
+**Ans: A.** 1 and 2
 </details>
 
-**Q21.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+**Q21.**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 Assertion (A): NITI Aayog allocates Plan funds to States the way the Planning Commission did.
 
@@ -4365,13 +4401,14 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** A is false; R correctly describes NITI’s think-tank / federalism role.
+**A/R logic:** A is false; R correctly describes NITI’s think-tank / federalism role.
 
-**A/R logic:** Old Plan-fund allocator tag belongs to the Planning Commission era, not NITI.
-
+**Ans: B.** (A) is false, but (R) is true
 </details>
 
-**Q22.** With reference to National Income identities, which of the following statements is/are correct?
+**Q22.**
+
+With reference to National Income identities, which of the following statements is/are correct?
 
 1. NDP = GDP − depreciation.
 2. NNP = GNP − depreciation.
@@ -4387,13 +4424,14 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Logic:** Older NI key is NNP at factor cost (NNPFC), not market price alone — statement 3 fails — 1 and 2
 
-**Logic:** Older NI key is **NNP at factor cost (NNPFC)**, not market price alone — statement 3 fails.
-
+**Ans: B.** 1 and 2
 </details>
 
-**Q23.** With reference to India’s base year for National Accounts, which of the following statements is/are correct?
+**Q23.**
+
+With reference to India’s base year for National Accounts, which of the following statements is/are correct?
 
 1. The current base year from February 2026 is 2022–23.
 2. The previous major base used from 2015 was 2011–12.
@@ -4409,13 +4447,14 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Logic:** Base-year prices build real GDP; nominal GDP uses current market prices — statement 3 reverses the definitions — Only 1 and 2
 
-**Logic:** Base-year prices build **real** GDP; nominal GDP uses current market prices — statement 3 reverses the definitions.
-
+**Ans: A.** Only 1 and 2
 </details>
 
-**Q24.** Which one of the following is correctly matched?
+**Q24.**
+
+Which one of the following is correctly matched?
 
 A. Imperative planning — State only guides the market
 B. Indicative planning — command hierarchy replaces the market
@@ -4425,13 +4464,14 @@ D. Indicative planning — abolishes private property by definition
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Imperative = command replaces market; indicative = guides / improves the market.
+**Logic:** India’s later mixed-economy style is closer to indicative planning — do not swap the pair — Imperative planning — command hierarchy replaces the market
 
-**Logic:** India’s later mixed-economy style is closer to indicative planning — do not swap the pair.
-
+**Ans: C.** Imperative planning — command hierarchy replaces the market
 </details>
 
-**Q25.** With reference to pre-Independence planning documents, which of the following statements is/are correct?
+**Q25.**
+
+With reference to pre-Independence planning documents, which of the following statements is/are correct?
 
 1. The National Planning Committee (1938) was set up under Congress President Subhash Chandra Bose with Jawaharlal Nehru as chairman.
 2. The Bombay Plan (1944) was drafted by leading industrialists including J.R.D. Tata and G.D. Birla.
@@ -4447,13 +4487,14 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Logic:** Gandhian Plan = Sriman Narayan Agarwal; Jayaprakash Narayan is the Sarvodaya Plan tag — 1 and 2
 
-**Logic:** Gandhian Plan = **Sriman Narayan Agarwal**; Jayaprakash Narayan is the **Sarvodaya Plan** tag.
-
+**Ans: B.** 1 and 2
 </details>
 
-**Q26.** With reference to State economy tags in national income teaching, which of the following statements is/are correct?
+**Q26.**
+
+With reference to State economy tags in national income teaching, which of the following statements is/are correct?
 
 1. Maharashtra is commonly keyed as the largest State economy by NSDP.
 2. Bihar is commonly keyed for the lowest State per capita income.
@@ -4469,10 +4510,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements match standard teaching tags.
+**Logic:** Size of economy (NSDP) and per capita income ranks are different questions — do not swap Bihar with low NSDP size alone — 1, 2 and 3
 
-**Logic:** Size of economy (NSDP) and per capita income ranks are different questions — do not swap Bihar with low NSDP size alone.
-
+**Ans: D.** 1, 2 and 3
 </details>
 
 ## Common Traps

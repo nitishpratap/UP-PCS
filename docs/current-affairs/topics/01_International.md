@@ -648,13 +648,28 @@ India launched the first **Guide to Grasslands and Other Open Natural Ecosystems
 - **Theme of the 81st Session**: *"Restoring Trust, Managing Transformation: A United Nations that Delivers for All"*.
 - **Historical Benchmark**: This marks Bangladesh's second UNGA presidency; **Humayun Rasheed Choudhury** served as President of the 41st UNGA Session in **1986**.
 
-### 3. BRICS Foreign Ministers Meeting 2026 & India's 2026 Chairship
-- **Ministerial Meeting**: Hosted by India at **Bharat Mandapam, New Delhi** on **14–15 May 2026**, chaired by External Affairs Minister **Dr. S. Jaishankar**.
-- **India's 4th Chairship**: India assumed the BRICS Chairship for 2026 — its **fourth time** chairing the grouping (previously chaired in **2012, 2016, and 2021**).
-- **Chairship Theme**: *"Building for Resilience, Innovation, Cooperation and Sustainability"*.
-- **Summit Venue**: The **18th BRICS Leaders' Summit** will be hosted by India in **2026**.
-- **Membership Matrix**: Following formal expansion, BRICS comprises **11 members**: Brazil, Russia, India, China, South Africa, Egypt, Ethiopia, Iran, UAE, Saudi Arabia (invited / finalizing formal accession), and **Indonesia** (inducted as newest full member).
-- **Preceding Summit (17th BRICS Summit 2025)**: Held in **Rio de Janeiro, Brazil** (6–7 July 2025) under the theme *"Strengthening Global South Cooperation for a More Inclusive and Sustainable Governance"*.
+### 3. 18th BRICS Leaders’ Summit 2026 & India’s chairship
+
+**What happened**
+India hosted the **18th BRICS Summit** at **Bharat Mandapam, New Delhi** on **12–13 September 2026** under its 2026 chairship.
+
+**What you should remember**
+
+- Chairship theme: **Building for Resilience, Innovation, Cooperation and Sustainability**.
+- Outcome document: **New Delhi Declaration** (adopted by leaders).
+- MEA called the chairship year a “major success” with **over 50** action-oriented outcomes across meetings held in India.
+- The Summit week also included a **BRICS Plus / Outreach** dialogue segment.
+- India’s BRICS Sherpa: **Sudhakar Dalela**.
+- Chairship count: India’s **fourth** BRICS chairship (**2012, 2016, 2021, 2026**).
+- Preceding Summit: **17th BRICS Summit** in **Rio de Janeiro, Brazil** (6–7 July 2025).
+- Earlier 2026 boards: BRICS Foreign Ministers’ Meeting at Bharat Mandapam (**14–15 May 2026**); Agriculture Ministers’ Meeting in **Indore** (**12–13 June 2026**).
+
+!!! trap
+Do not park the 18th Summit in **Rio** or **Kazan**. Those are older venues. September 2026 = **New Delhi**.
+
+### 3a. BRICS membership teaching note
+- Expanded BRICS teaching set includes core five plus newer full members such as **Egypt, Ethiopia, Iran, UAE, Indonesia** (and related accession / partner lanes as taught in class notes).
+- For stems, prefer the Summit **host / theme / declaration name** over memorising every partner flag.
 
 ### 4. UNSC Non-Permanent Members Election (2027–2028 Term)
 - **Election Date & Organ**: Elected by the UN General Assembly on **3 June 2026** for a two-year mandate running from **1 January 2027 to 31 December 2028**.

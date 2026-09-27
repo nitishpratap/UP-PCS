@@ -262,400 +262,6 @@ According to official UP statistical land and water data:
 
 ---
 
-## Complete PYQ Bank (UPPCS)
-
-> Verified stems from UPPCS Prelims (and closely related UP papers). Extra Drill follows.
-
-**Q1. Standard UPPCS**
-Which State is conventionally the largest producer of sugarcane in India?
-A. Maharashtra
-B. Uttar Pradesh
-C. Karnataka
-D. Tamil Nadu
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** UP leads area and production of sugarcane; Maharashtra leads recovery/productivity narratives — don’t swap.
-
-**Ans: B.** Uttar Pradesh.
-
-</details>
-
-**Q2. Standard UPPCS**
-Uttar Pradesh is also among the top producers of which tuber crop?
-A. Only tapioca
-B. Potato
-C. Only sweet potato
-D. Only cassava
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** UP leads potato production in absolute terms in standard PCS data tables.
-
-**Ans: B.** Potato.
-
-</details>
-
-
----
-
-## Ghatnachakra Extra Drill — Agriculture Irrigation Rural Economy
-
-> Multi-exam / other-State PCS / standard coaching stems for the same topic map.
-
-**Q1. Standard UPPCS**
-Upper Ganga Canal takes off near:
-A. Haridwar
-B. Narora only
-C. Kanpur
-D. Varanasi
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Lower Ganga Canal / Narora are separate systems — don’t merge heads.
-
-**Ans: A.** Haridwar (Bhimgoda).
-
-</details>
-
-
----
-
-
-### Other Papers — BPSC / MPPSC / RAS / UKPCS / UPSC / WBCS
-
-**Q2. 67th BPSC (Pre) / Bihar agri**
-Among the following districts of Bihar, which has the highest annual sugarcane production?
-A. Rohtas
-B. West Champaran
-C. Patna
-D. Buxar
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Neighbour sugarcane belt — comparative for UP western Terai cane pattern.
-
-**Ans: B.** West Champaran.
-
-</details>
-
-**Q3. BPSC / Canal–flood geography**
-Which river is called the Sorrow of Bihar and drives major canal–flood projects?
-A. Gandak
-B. Kosi
-C. Son
-D. Punpun
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Flood + irrigation Extra Drill link for eastern UP–Bihar plain.
-
-**Ans: B.** Kosi.
-
-</details>
-
-## Practice Zone
-
-1. Which Agro-Climatic Zone of Uttar Pradesh includes the districts of Saharanpur, Bijnor, Rampur, Lakhimpur Kheri, and Kushinagar?
-   (A) Western Plain Zone
-   (B) Bhabhar & Terai Zone
-   (C) North-Eastern Plain Zone
-   (D) Mid-Western Plain Zone
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Bhabhar & Terai Zone</b><br>
-<b>Explanation:</b> The northern sub-Himalayan belt stretching from Saharanpur in the west to Kushinagar/Maharajganj in the east constitutes the Bhabhar & Terai Agro-Climatic Zone.
-</details>
-
-2. The International Rice Research Institute - South Asia Regional Centre (IRRI-SARC) is located at which city in Uttar Pradesh?
-   (A) Prayagraj
-   (B) Lucknow
-   (C) Varanasi
-   (D) Gorakhpur
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) Varanasi</b><br>
-<b>Explanation:</b> IRRI-SARC was inaugurated in December 2018 on the campus of the National Seed Research and Training Centre (NSRTC) in Varanasi.
-</details>
-
-3. The 'National Sugar Institute' (NSI), functioning under the Ministry of Consumer Affairs, Food and Public Distribution, is situated at:
-   (A) Lucknow
-   (B) Kanpur
-   (C) Meerut
-   (D) Muzaffarnagar
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Kanpur</b><br>
-<b>Explanation:</b> NSI is located at Kalyanpur, Kanpur (established in 1936 as the Imperial Institute of Sugar Technology). IISR (Indian Institute of Sugarcane Research) is at Lucknow.
-</details>
-
-4. The Indian Institute of Vegetable Research (IIVR) is situated at:
-   (A) Lucknow
-   (B) Jakhini, Varanasi
-   (C) Kalyanpur, Kanpur
-   (D) Modipuram, Meerut
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Jakhini, Varanasi</b><br>
-<b>Explanation:</b> ICAR-IIVR is located at Jakhini (Shahanshahpur) in Varanasi district, specializing in vegetable breeding and germplasm maintenance.
-</details>
-
-5. 'Allahabad Surkha', which was granted a Geographical Indication (GI) tag, is a world-famous variety of:
-   (A) Mango
-   (B) Guava
-   (C) Papaya
-   (D) Aonla
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Guava</b><br>
-<b>Explanation:</b> Allahabad Surkha is a premium guava cultivar originating from Prayagraj and Kaushambi districts, characterized by its deep pink/red interior flesh and sweet fragrance.
-</details>
-
-6. In which year was the Upper Ganga Canal officially inaugurated and opened for irrigation?
-   (A) 1830
-   (B) 1854
-   (C) 1878
-   (D) 1928
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) 1854</b><br>
-<b>Explanation:</b> The Upper Ganga Canal was formally opened on 8 April 1854 by the Governor-General of India, Lord Dalhousie, after being engineered by Sir Proby Cautley.
-</details>
-
-7. The Lower Ganga Canal takes its water supply from the Ganga River at which barrage?
-   (A) Bhimgoda Barrage
-   (B) Narora Barrage
-   (C) Bijnor Barrage
-   (D) Kanpur Barrage
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Narora Barrage</b><br>
-<b>Explanation:</b> The Lower Ganga Canal was constructed in 1878 with its headworks at Narora Barrage in Bulandshahr district.
-</details>
-
-8. The 'Eastern Yamuna Canal' takes off from the Yamuna River at which barrage on the UP-Haryana border?
-   (A) Okhla Barrage
-   (B) Tajewala / Hathinikund Barrage
-   (C) Wazirabad Barrage
-   (D) Gokul Barrage
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Tajewala / Hathinikund Barrage</b><br>
-<b>Explanation:</b> The Eastern Yamuna Canal takes off from the left bank of the Yamuna at Hathinikund (formerly Tajewala) Barrage in Saharanpur district.
-</details>
-
-9. The ambitious 'Saryu Nahar National Project' dedicated in 2021 provides irrigation to 9 eastern districts by connecting how many rivers?
-   (A) 3 Rivers
-   (B) 4 Rivers
-   (C) 5 Rivers
-   (D) 7 Rivers
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) 5 Rivers</b><br>
-<b>Explanation:</b> Saryu Nahar National Project interlinks 5 rivers: Ghaghara, Saryu, Rapti, Banganga, and Rohini, creating an interconnected canal network of over 6,600 km.
-</details>
-
-10. The 'Ken-Betwa River Link Project' involves building the Daudhan Dam across which river?
-   (A) Betwa River
-   (B) Ken River
-   (C) Dhasan River
-   (D) Chambal River
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Ken River</b><br>
-<b>Explanation:</b> The Daudhan Dam is being constructed across the Ken River in Chhatarpur district (MP), from which water will be transferred via a 221 km link canal to the Betwa River basin.
-</details>
-
-11. 'Matatila Dam' is constructed across the Betwa River in which district of Uttar Pradesh?
-   (A) Jhansi
-   (B) Lalitpur
-   (C) Banda
-   (D) Jalaun
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Lalitpur</b><br>
-<b>Explanation:</b> Matatila Dam (also called Rani Lakshmibai Dam) was built in 1958 on the Betwa River in Lalitpur district.
-</details>
-
-12. The largest artificial freshwater reservoir in India by surface area and volume, 'Govind Ballabh Pant Sagar', was created by the construction of which dam?
-   (A) Tehri Dam
-   (B) Bhakra Dam
-   (C) Rihand Dam
-   (D) Matatila Dam
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) Rihand Dam</b><br>
-<b>Explanation:</b> Govind Ballabh Pant Sagar at Pipri in Sonbhadra district is the vast reservoir formed by the Rihand Dam on the Rihand River.
-</details>
-
-13. The 'Central Institute for Subtropical Horticulture' (CISH), dedicated to research on mango, guava, and papaya, is situated at:
-   (A) Rehmankhera, Lucknow
-   (B) Kalyanpur, Kanpur
-   (C) Modipuram, Meerut
-   (D) Malihabad, Lucknow
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (A) Rehmankhera, Lucknow</b><br>
-<b>Explanation:</b> ICAR-CISH is located at Rehmankhera on the outskirts of Lucknow, conducting pioneering research on subtropical fruits.
-</details>
-
-14. The 'Central Institute of Medicinal and Aromatic Plants' (CSIR-CIMAP) is located at:
-   (A) Bareilly
-   (B) Lucknow
-   (C) Kanpur
-   (D) Varanasi
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Lucknow</b><br>
-<b>Explanation:</b> CSIR-CIMAP is situated in Lucknow, conducting national research on high-yielding varieties of aromatic crops like Mentha, Palmarosa, and Ashwagandha.
-</details>
-
-15. Uttar Pradesh produces over 80% of India's total output of which commercial aromatic essential oil?
-   (A) Eucalyptus Oil
-   (B) Mentha (Peppermint) Oil
-   (C) Sandalwood Oil
-   (D) Lemongrass Oil
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Mentha (Peppermint) Oil</b><br>
-<b>Explanation:</b> Uttar Pradesh dominates the production of Mentha (Mentha arvensis) essential oil, producing over 80% of India's output across Barabanki, Badaun, Rampur, and Sambhal.
-</details>
-
-16. In which year was the Chandra Shekhar Azad University of Agriculture & Technology (CSAUAT) established at Kanpur?
-   (A) 1960
-   (B) 1970
-   (C) 1975
-   (D) 1985
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) 1975</b><br>
-<b>Explanation:</b> CSAUAT was formally created as a State Agricultural University in 1975 by upgrading the historic Government Agricultural College at Kanpur.
-</details>
-
-17. The 'Sardar Vallabhbhai Patel University of Agriculture & Technology' (SVPUAT) is situated at:
-   (A) Modipuram, Meerut
-   (B) Kumarganj, Ayodhya
-   (C) Banda
-   (D) Naini, Prayagraj
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (A) Modipuram, Meerut</b><br>
-<b>Explanation:</b> SVPUAT was established in the year 2000 at Modipuram in Meerut district to serve the agro-climatic needs of Western UP.
-</details>
-
-18. The 'Banda University of Agriculture & Technology' (BUAT) was established in 2010 specifically to address the dryland agricultural challenges of:
-   (A) Terai Region
-   (B) Rohilkhand
-   (C) Bundelkhand
-   (D) Purvanchal
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (C) Bundelkhand</b><br>
-<b>Explanation:</b> BUAT was established at Banda in 2010 as the fourth State Agricultural University, focusing on pulse crops, water conservation, and rainfed farming in Bundelkhand.
-</details>
-
-19. The 'Rani Lakshmi Bai Central Agricultural University' was established in 2014 at:
-   (A) Kanpur
-   (B) Jhansi
-   (C) Varanasi
-   (D) Ayodhya
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Jhansi</b><br>
-<b>Explanation:</b> RLBCAU was established in 2014 at Jhansi under the Rani Lakshmi Bai Central Agricultural University Act, 2014, operating as an autonomous central university.
-</details>
-
-20. The historic betel leaf (*Paan*) cultivation in specialized grass huts (*Bareja*) is a traditional livelihood heritage of which district in UP?
-   (A) Mahoba
-   (B) Pratapgarh
-   (C) Farrukhabad
-   (D) Mainpuri
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (A) Mahoba</b><br>
-<b>Explanation:</b> Mahoba in Bundelkhand has a 1,000-year-old tradition of cultivating premium *Desi Mahoba Paan* (betel leaves) in shaded conservatory huts called *Barejas*.
-</details>
-
-21. The 'Central Avian Research Institute' (CARI), dedicated to poultry science, is located at:
-   (A) Makhdoom, Mathura
-   (B) Izatnagar, Bareilly
-   (C) Telibagh, Lucknow
-   (D) Kalyanpur, Kanpur
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Izatnagar, Bareilly</b><br>
-<b>Explanation:</b> CARI is situated on the IVRI campus at Izatnagar, Bareilly, conducting specialized research on chicken, quail, guinea fowl, and turkey genetics.
-</details>
-
-22. The 'Arjun Sahayak Irrigation Project' utilizes the waters of which river to irrigate Mahoba, Banda, and Hamirpur?
-   (A) Betwa River
-   (B) Dhasan River
-   (C) Ken River
-   (D) Tons River
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Dhasan River</b><br>
-<b>Explanation:</b> The Arjun Sahayak Project diverts water from the Dhasan River (a major tributary of the Betwa) via Arjun and Kabrai dams to provide irrigation to Bundelkhand.
-</details>
-
-23. Under the Agro-Export Zone (AEZ) policy, which cluster in UP is designated for Basmati Rice exports?
-   (A) Western UP districts (Meerut, Muzaffarnagar, Bareilly)
-   (B) Bundelkhand districts (Jhansi, Banda)
-   (C) Purvanchal districts (Varanasi, Ghazipur)
-   (D) Awadh districts (Lucknow, Unnao)
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (A) Western UP districts (Meerut, Muzaffarnagar, Bareilly)</b><br>
-<b>Explanation:</b> Western UP districts produce high-grade GI-tagged Basmati rice and are designated as a dedicated Agro-Export Zone.
-</details>
-
-24. Which crossbred dairy cattle breed was developed by the Central Institute for Research on Cattle (CIRC) at Meerut?
-   (A) Karan Swiss
-   (B) Frieswal
-   (C) Sunandini
-   (D) Karan Fries
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Frieswal</b><br>
-<b>Explanation:</b> Frieswal is a high-yielding crossbred cattle strain developed at CIRC Meerut in collaboration with the Military Farms, carrying 62.5% Holstein-Friesian and 37.5% Sahiwal genetics.
-</details>
-
-25. The 'Pradeshik Cooperative Dairy Federation' (PCDF) of Uttar Pradesh markets milk and dairy products under which brand?
-   (A) Amul
-   (B) Parag
-   (C) Verka
-   (D) Saras
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Parag</b><br>
-<b>Explanation:</b> PCDF was set up in 1962 to organize the dairy cooperative movement in Uttar Pradesh, processing and marketing milk products under the brand name 'Parag'.
-</details>
-
-26. Which of the following dams in Uttar Pradesh is built on the Betwa River in Jhansi district?
-   (A) Matatila Dam
-   (B) Parichha Dam
-   (C) Rihand Dam
-   (D) Sirsi Dam
-<details>
-<summary>Show answer</summary>
-<b>Correct Answer: (B) Parichha Dam</b><br>
-<b>Explanation:</b> Parichha Dam is constructed on the Betwa River near Parichha town in Jhansi district, supplying cooling water to the Parichha Thermal Power Station.
-</details>
-
-## Common Traps
-
-| Trap | Correct |
-|---|---|
-| Mixing Absolute vs % ranks | Match the stem metric first |
-
-
----
-
 ## Bilingual Terminology -- UP Agriculture
 
 | English | Hindi | Key Anchor |
@@ -726,6 +332,98 @@ UP is the **backbone of Indian food security**:
 
 ---
 
+## Complete PYQ Bank (UPPCS)
+
+> Verified stems from UPPCS Prelims (and closely related UP papers). Extra Drill follows.
+
+**Q1. Standard UPPCS**
+Which State is conventionally the largest producer of sugarcane in India?
+A. Maharashtra
+B. Uttar Pradesh
+C. Karnataka
+D. Tamil Nadu
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** UP leads area and production of sugarcane; Maharashtra leads recovery/productivity narratives — don’t swap.
+
+**Ans: B.** Uttar Pradesh.
+
+</details>
+
+**Q2. Standard UPPCS**
+Uttar Pradesh is also among the top producers of which tuber crop?
+A. Only tapioca
+B. Potato
+C. Only sweet potato
+D. Only cassava
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Potato.
+
+**Ans: B.** Potato
+</details>
+
+---
+
+## Ghatnachakra Extra Drill — Agriculture Irrigation Rural Economy
+
+> Multi-exam / other-State PCS / standard coaching stems for the same topic map.
+
+**Q1. Standard UPPCS**
+Upper Ganga Canal takes off near:
+A. Haridwar
+B. Narora only
+C. Kanpur
+D. Varanasi
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Lower Ganga Canal / Narora are separate systems — don’t merge heads.
+
+**Ans: A.** Haridwar (Bhimgoda).
+
+</details>
+
+---
+
+### Other Papers — BPSC / MPPSC / RAS / UKPCS / UPSC / WBCS
+
+**Q2. 67th BPSC (Pre) / Bihar agri**
+Among the following districts of Bihar, which has the highest annual sugarcane production?
+A. Rohtas
+B. West Champaran
+C. Patna
+D. Buxar
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Neighbour sugarcane belt — comparative for UP western Terai cane pattern.
+
+**Ans: B.** West Champaran.
+
+</details>
+
+**Q3. BPSC / Canal–flood geography**
+Which river is called the Sorrow of Bihar and drives major canal–flood projects?
+A. Gandak
+B. Kosi
+C. Son
+D. Punpun
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Kosi.
+
+**Ans: B.** Kosi
+</details>
+
 ## UKPCS / MPPSC / BPSC Extra Drill -- UP Agriculture
 
 **Q1. UKPCS (Pre) 2021**
@@ -738,7 +436,7 @@ D. Cotton
 <details>
 <summary>Show answer</summary>
 
-**Logic:** UP is the **largest producer of Sugarcane** in India (over 48% of national production). It is also the largest producer of potatoes and milk. For wheat, UP competes with Punjab and MP.
+**Logic:** UP is the **largest producer of Sugarcane** in India (over 48% of national production).
 
 **Ans: C.** Sugarcane.
 
@@ -770,10 +468,9 @@ D. Food Corporation of India (FCI)
 <details>
 <summary>Show answer</summary>
 
-**Logic:** The **Commission for Agricultural Costs and Prices (CACP)** -- under MoAFW -- recommends MSP for notified crops to the Cabinet Committee on Economic Affairs (CCEA).
+**Logic:** Standard key matches Commission for Agricultural Costs and Prices (CACP).
 
-**Ans: C.** CACP.
-
+**Ans: C.** Commission for Agricultural Costs and Prices (CACP)
 </details>
 
 ---
@@ -797,4 +494,352 @@ D. Food Corporation of India (FCI)
 | 13 | Green Revolution (1960s) = HYV seeds; M.S. Swaminathan led in India |
 | 14 | UP groundwater irrigation = Tube wells (dominant method) |
 | 15 | GI Tag: UP products = Banarasi silk, Chikankari, Aligarh locks |
+
+## Practice Zone
+
+1. Which Agro-Climatic Zone of Uttar Pradesh includes the districts of Saharanpur, Bijnor, Rampur, Lakhimpur Kheri, and Kushinagar?
+   (A) Western Plain Zone
+   (B) Bhabhar & Terai Zone
+   (C) North-Eastern Plain Zone
+   (D) Mid-Western Plain Zone
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The northern sub-Himalayan belt stretching from Saharanpur in the west to Kushinagar/Maharajganj in the east constitutes the Bhabhar & Terai Agro-Climatic Zone.
+
+**Ans: B.** Bhabhar & Terai Zone
+</details>
+
+2. The International Rice Research Institute - South Asia Regional Centre (IRRI-SARC) is located at which city in Uttar Pradesh?
+   (A) Prayagraj
+   (B) Lucknow
+   (C) Varanasi
+   (D) Gorakhpur
+<details>
+<summary>Show answer</summary>
+
+**Logic:** IRRI-SARC was inaugurated in December 2018 on the campus of the National Seed Research and Training Centre (NSRTC) in Varanasi.
+
+**Ans: C.** Varanasi
+</details>
+
+3. The 'National Sugar Institute' (NSI), functioning under the Ministry of Consumer Affairs, Food and Public Distribution, is situated at:
+   (A) Lucknow
+   (B) Kanpur
+   (C) Meerut
+   (D) Muzaffarnagar
+<details>
+<summary>Show answer</summary>
+
+**Logic:** NSI is located at Kalyanpur, Kanpur (established in 1936 as the Imperial Institute of Sugar Technology).
+
+**Ans: B.** Kanpur
+</details>
+
+4. The Indian Institute of Vegetable Research (IIVR) is situated at:
+   (A) Lucknow
+   (B) Jakhini, Varanasi
+   (C) Kalyanpur, Kanpur
+   (D) Modipuram, Meerut
+<details>
+<summary>Show answer</summary>
+
+**Logic:** ICAR-IIVR is located at Jakhini (Shahanshahpur) in Varanasi district, specializing in vegetable breeding and germplasm maintenance.
+
+**Ans: B.** Jakhini, Varanasi
+</details>
+
+5. 'Allahabad Surkha', which was granted a Geographical Indication (GI) tag, is a world-famous variety of:
+   (A) Mango
+   (B) Guava
+   (C) Papaya
+   (D) Aonla
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Allahabad Surkha is a premium guava cultivar originating from Prayagraj and Kaushambi districts, characterized by its deep pink/red interior flesh and sweet fragrance.
+
+**Ans: B.** Guava
+</details>
+
+6. In which year was the Upper Ganga Canal officially inaugurated and opened for irrigation?
+   (A) 1830
+   (B) 1854
+   (C) 1878
+   (D) 1928
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Upper Ganga Canal was formally opened on 8 April 1854 by the Governor-General of India, Lord Dalhousie, after being engineered by Sir Proby Cautley.
+
+**Ans: B.** 1854
+</details>
+
+7. The Lower Ganga Canal takes its water supply from the Ganga River at which barrage?
+   (A) Bhimgoda Barrage
+   (B) Narora Barrage
+   (C) Bijnor Barrage
+   (D) Kanpur Barrage
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Lower Ganga Canal was constructed in 1878 with its headworks at Narora Barrage in Bulandshahr district.
+
+**Ans: B.** Narora Barrage
+</details>
+
+8. The 'Eastern Yamuna Canal' takes off from the Yamuna River at which barrage on the UP-Haryana border?
+   (A) Okhla Barrage
+   (B) Tajewala / Hathinikund Barrage
+   (C) Wazirabad Barrage
+   (D) Gokul Barrage
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Eastern Yamuna Canal takes off from the left bank of the Yamuna at Hathinikund (formerly Tajewala) Barrage in Saharanpur district.
+
+**Ans: B.** Tajewala / Hathinikund Barrage
+</details>
+
+9. The ambitious 'Saryu Nahar National Project' dedicated in 2021 provides irrigation to 9 eastern districts by connecting how many rivers?
+   (A) 3 Rivers
+   (B) 4 Rivers
+   (C) 5 Rivers
+   (D) 7 Rivers
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Saryu Nahar National Project interlinks 5 rivers: Ghaghara, Saryu, Rapti, Banganga, and Rohini, creating an interconnected canal network of over 6,600 km.
+
+**Ans: C.** 5 Rivers
+</details>
+
+10. The 'Ken-Betwa River Link Project' involves building the Daudhan Dam across which river?
+   (A) Betwa River
+   (B) Ken River
+   (C) Dhasan River
+   (D) Chambal River
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Daudhan Dam is being constructed across the Ken River in Chhatarpur district (MP), from which water will be transferred via a 221 km link canal to the Betwa River basin.
+
+**Ans: B.** Ken River
+</details>
+
+11. 'Matatila Dam' is constructed across the Betwa River in which district of Uttar Pradesh?
+   (A) Jhansi
+   (B) Lalitpur
+   (C) Banda
+   (D) Jalaun
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Matatila Dam (also called Rani Lakshmibai Dam) was built in 1958 on the Betwa River in Lalitpur district.
+
+**Ans: B.** Lalitpur
+</details>
+
+12. The largest artificial freshwater reservoir in India by surface area and volume, 'Govind Ballabh Pant Sagar', was created by the construction of which dam?
+   (A) Tehri Dam
+   (B) Bhakra Dam
+   (C) Rihand Dam
+   (D) Matatila Dam
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Govind Ballabh Pant Sagar at Pipri in Sonbhadra district is the vast reservoir formed by the Rihand Dam on the Rihand River.
+
+**Ans: C.** Rihand Dam
+</details>
+
+13. The 'Central Institute for Subtropical Horticulture' (CISH), dedicated to research on mango, guava, and papaya, is situated at:
+   (A) Rehmankhera, Lucknow
+   (B) Kalyanpur, Kanpur
+   (C) Modipuram, Meerut
+   (D) Malihabad, Lucknow
+<details>
+<summary>Show answer</summary>
+
+**Logic:** ICAR-CISH is located at Rehmankhera on the outskirts of Lucknow, conducting pioneering research on subtropical fruits.
+
+**Ans: A.** Rehmankhera, Lucknow
+</details>
+
+14. The 'Central Institute of Medicinal and Aromatic Plants' (CSIR-CIMAP) is located at:
+   (A) Bareilly
+   (B) Lucknow
+   (C) Kanpur
+   (D) Varanasi
+<details>
+<summary>Show answer</summary>
+
+**Logic:** CSIR-CIMAP is situated in Lucknow, conducting national research on high-yielding varieties of aromatic crops like Mentha, Palmarosa, and Ashwagandha.
+
+**Ans: B.** Lucknow
+</details>
+
+15. Uttar Pradesh produces over 80% of India's total output of which commercial aromatic essential oil?
+   (A) Eucalyptus Oil
+   (B) Mentha (Peppermint) Oil
+   (C) Sandalwood Oil
+   (D) Lemongrass Oil
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Uttar Pradesh dominates the production of Mentha (Mentha arvensis) essential oil, producing over 80% of India's output across Barabanki, Badaun, Rampur, and Sambhal.
+
+**Ans: B.** Mentha (Peppermint) Oil
+</details>
+
+16. In which year was the Chandra Shekhar Azad University of Agriculture & Technology (CSAUAT) established at Kanpur?
+   (A) 1960
+   (B) 1970
+   (C) 1975
+   (D) 1985
+<details>
+<summary>Show answer</summary>
+
+**Logic:** CSAUAT was formally created as a State Agricultural University in 1975 by upgrading the historic Government Agricultural College at Kanpur.
+
+**Ans: C.** 1975
+</details>
+
+17. The 'Sardar Vallabhbhai Patel University of Agriculture & Technology' (SVPUAT) is situated at:
+   (A) Modipuram, Meerut
+   (B) Kumarganj, Ayodhya
+   (C) Banda
+   (D) Naini, Prayagraj
+<details>
+<summary>Show answer</summary>
+
+**Logic:** SVPUAT was established in the year 2000 at Modipuram in Meerut district to serve the agro-climatic needs of Western UP.
+
+**Ans: A.** Modipuram, Meerut
+</details>
+
+18. The 'Banda University of Agriculture & Technology' (BUAT) was established in 2010 specifically to address the dryland agricultural challenges of:
+   (A) Terai Region
+   (B) Rohilkhand
+   (C) Bundelkhand
+   (D) Purvanchal
+<details>
+<summary>Show answer</summary>
+
+**Logic:** BUAT was established at Banda in 2010 as the fourth State Agricultural University, focusing on pulse crops, water conservation, and rainfed farming in Bundelkhand.
+
+**Ans: C.** Bundelkhand
+</details>
+
+19. The 'Rani Lakshmi Bai Central Agricultural University' was established in 2014 at:
+   (A) Kanpur
+   (B) Jhansi
+   (C) Varanasi
+   (D) Ayodhya
+<details>
+<summary>Show answer</summary>
+
+**Logic:** RLBCAU was established in 2014 at Jhansi under the Rani Lakshmi Bai Central Agricultural University Act, 2014, operating as an autonomous central university.
+
+**Ans: B.** Jhansi
+</details>
+
+20. The historic betel leaf (*Paan*) cultivation in specialized grass huts (*Bareja*) is a traditional livelihood heritage of which district in UP?
+   (A) Mahoba
+   (B) Pratapgarh
+   (C) Farrukhabad
+   (D) Mainpuri
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Mahoba in Bundelkhand has a 1,000-year-old tradition of cultivating premium Desi Mahoba Paan (betel leaves) in shaded conservatory huts called Barejas.
+
+**Ans: A.** Mahoba
+</details>
+
+21. The 'Central Avian Research Institute' (CARI), dedicated to poultry science, is located at:
+   (A) Makhdoom, Mathura
+   (B) Izatnagar, Bareilly
+   (C) Telibagh, Lucknow
+   (D) Kalyanpur, Kanpur
+<details>
+<summary>Show answer</summary>
+
+**Logic:** CARI is situated on the IVRI campus at Izatnagar, Bareilly, conducting specialized research on chicken, quail, guinea fowl, and turkey genetics.
+
+**Ans: B.** Izatnagar, Bareilly
+</details>
+
+22. The 'Arjun Sahayak Irrigation Project' utilizes the waters of which river to irrigate Mahoba, Banda, and Hamirpur?
+   (A) Betwa River
+   (B) Dhasan River
+   (C) Ken River
+   (D) Tons River
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Arjun Sahayak Project diverts water from the Dhasan River (a major tributary of the Betwa) via Arjun and Kabrai dams to provide irrigation to Bundelkhand.
+
+**Ans: B.** Dhasan River
+</details>
+
+23. Under the Agro-Export Zone (AEZ) policy, which cluster in UP is designated for Basmati Rice exports?
+   (A) Western UP districts (Meerut, Muzaffarnagar, Bareilly)
+   (B) Bundelkhand districts (Jhansi, Banda)
+   (C) Purvanchal districts (Varanasi, Ghazipur)
+   (D) Awadh districts (Lucknow, Unnao)
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Western UP districts produce high-grade GI-tagged Basmati rice and are designated as a dedicated Agro-Export Zone.
+
+**Ans: A.** Western UP districts (Meerut, Muzaffarnagar, Bareilly)
+</details>
+
+24. Which crossbred dairy cattle breed was developed by the Central Institute for Research on Cattle (CIRC) at Meerut?
+   (A) Karan Swiss
+   (B) Frieswal
+   (C) Sunandini
+   (D) Karan Fries
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Frieswal is a high-yielding crossbred cattle strain developed at CIRC Meerut in collaboration with the Military Farms, carrying 62.5% Holstein-Friesian and 37.5% Sahiwal genetics.
+
+**Ans: B.** Frieswal
+</details>
+
+25. The 'Pradeshik Cooperative Dairy Federation' (PCDF) of Uttar Pradesh markets milk and dairy products under which brand?
+   (A) Amul
+   (B) Parag
+   (C) Verka
+   (D) Saras
+<details>
+<summary>Show answer</summary>
+
+**Logic:** PCDF was set up in 1962 to organize the dairy cooperative movement in Uttar Pradesh, processing and marketing milk products under the brand name 'Parag'.
+
+**Ans: B.** Parag
+</details>
+
+26. Which of the following dams in Uttar Pradesh is built on the Betwa River in Jhansi district?
+   (A) Matatila Dam
+   (B) Parichha Dam
+   (C) Rihand Dam
+   (D) Sirsi Dam
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Parichha Dam is constructed on the Betwa River near Parichha town in Jhansi district, supplying cooling water to the Parichha Thermal Power Station.
+
+**Ans: B.** Parichha Dam
+</details>
+
+## Common Traps
+
+| Trap | Correct |
+|---|---|
+| Mixing Absolute vs % ranks | Match the stem metric first |
+
+---
 
