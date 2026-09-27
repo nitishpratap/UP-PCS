@@ -1191,17 +1191,40 @@
     return { stem, options };
   }
 
+  function wrapArithmatex(s) {
+    if (!s) return s;
+    if (s.indexOf("$") === -1 && s.indexOf("\\(") === -1 && s.indexOf("\\[") === -1) return s;
+    s = s.replace(/\$\$([\s\S]+?)\$\$/g, '<span class="arithmatex">$$$1$$</span>');
+    s = s.replace(/\\\[([\s\S]+?)\\\]/g, '<span class="arithmatex">\\[$1\\]</span>');
+    s = s.replace(/\\\(([\s\S]+?)\\\)/g, '<span class="arithmatex">\\($1\\)</span>');
+    s = s.replace(/(?<!\$)\$(?!\$)([^$\n]+?)\$(?!\$)/g, '<span class="arithmatex">\\($1\\)</span>');
+    return s;
+  }
+
   function renderInlineMd(text) {
     if (!text) return '';
     let s = String(text);
     if (!/<(?:strong|em|span|div|code|a|p|table)\b/i.test(s)) {
       s = s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
     }
+    // Math before underscore-italic so $D_2O$ / $10^5$ stay intact for MathJax.
+    s = wrapArithmatex(s);
     s = s.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
     s = s.replace(/(?<!\*)\*(?!\*)(.+?)(?<!\*)\*(?!\*)/g, '<em>$1</em>');
     s = s.replace(/(?<!_)_(?!_)(.+?)(?<!_)_(?!_)/g, '<em>$1</em>');
     s = s.replace(/`([^`]+)`/g, '<code>$1</code>');
     return s;
+  }
+
+  function typesetQuizMath(root) {
+    const el = root || document.querySelector('.st-quiz-container') || document.querySelector('.st-modal-body');
+    if (!el || !window.MathJax || typeof window.MathJax.typesetPromise !== 'function') return;
+    const run = () => window.MathJax.typesetPromise([el]).catch(() => {});
+    if (window.MathJax.startup && window.MathJax.startup.promise) {
+      window.MathJax.startup.promise.then(run).catch(() => {});
+    } else {
+      run();
+    }
   }
 
   function renderStemToHtml(rawStem) {
@@ -1234,6 +1257,27 @@
       html += '</tbody></table></div>';
       return '\n\n' + html + '\n\n';
     });
+
+    // 1b. Condensed List-I / List-II lines (Science ingest style)
+    // Match List-I with List-II:
+    // List-I: A. Stethoscope, B. Sphygmomanometer, C. Caratometer, D. Luxmeter
+    // List-II: 1. Intensity of light, 2. Purity of gold, 3. Hear heart sound, 4. Measure blood pressure
+    const listLabeledRe = /((?:Match[^\n]*?)?)\s*List-I\s*:\s*A\.\s*([^,]+),\s*B\.\s*([^,]+),\s*C\.\s*([^,]+),\s*D\.\s*([^\n]+?)\s*List-II\s*:\s*1\.\s*([^,]+),\s*2\.\s*([^,]+),\s*3\.\s*([^,]+),\s*4\.\s*([^\n]+)/i;
+    const listLabeled = text.match(listLabeledRe);
+    if (listLabeled) {
+      const introRaw = (listLabeled[1] || '').trim().replace(/:+$/, '');
+      const intro = introRaw || 'Match List-I with List-II';
+      const listI = [listLabeled[2], listLabeled[3], listLabeled[4], listLabeled[5]].map(s => s.trim());
+      const listII = [listLabeled[6], listLabeled[7], listLabeled[8], listLabeled[9]].map(s => s.trim());
+      const letters = ['A', 'B', 'C', 'D'];
+      let tableHtml = '<div class="st-stem-intro">' + renderInlineMd(intro) + ':</div>';
+      tableHtml += '<div class="st-match-table-card"><table class="st-match-table"><thead><tr><th>List-I</th><th>List-II</th></tr></thead><tbody>';
+      for (let i = 0; i < 4; i++) {
+        tableHtml += '<tr><td><span class="st-match-chip-letter">' + letters[i] + '</span> ' + renderInlineMd(listI[i]) + '</td><td><span class="st-match-chip-num">' + (i + 1) + '</span> ' + renderInlineMd(listII[i]) + '</td></tr>';
+      }
+      tableHtml += '</tbody></table></div>';
+      text = text.replace(listLabeled[0], tableHtml);
+    }
 
     // 2. Condensed inline Match questions (e.g. Match: A. ... B. ... with 1. ... 2. ...)
     const inlineMatchRe = /(Match(?:\s+List-[I1V]+(?:\s*\([^)]*\))?\s+with\s+List-[I1V]+(?:\s*\([^)]*\))?|:)\s*:?)\s*A\.\s*([^B]+)\s+B\.\s*([^C]+)\s+C\.\s*([^D]+)\s+D\.\s*([^w]+)\s+with\s+1\.\s*([^2]+)\s+2\.\s*([^3]+)\s+3\.\s*([^4]+)\s+4\.\s*([\s\S]+?)(?=\s*(?:\n\s*(?:Options|Codes|Code):|$))/i;
@@ -5092,8 +5136,10 @@
   function showModal(title, contentHtml) {
     const overlay = getOrCreateModal();
     document.getElementById('st-modal-title').textContent = title;
-    document.getElementById('st-modal-body').innerHTML = contentHtml;
+    const body = document.getElementById('st-modal-body');
+    body.innerHTML = contentHtml;
     overlay.style.display = 'flex';
+    typesetQuizMath(body);
   }
 
   // -------------------------------------------------------------

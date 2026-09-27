@@ -208,9 +208,11 @@
   // Practice / embedded PYQ cards — wrap Q blocks, format Options + match lists
   // --------------------------------------------------------------------------
   // Q12. / Q0b. / Q1a. — letter suffixes are used when one year has multiple bank items.
-  const QUESTION_ID_RE = /^Q\d+[a-z]?\./i;
-  const QUESTION_ID_ONLY_RE = /^Q\d+[a-z]?\.?$/i;
-  const QUESTION_PREFIX_RE = /^(?:Q\d+[a-z]?\.?|Q\s*[-–—]?\s*(?:GC)?\s*\d+|\d+\.\s*(?:\([A-Z]|Assertion|\w)|PYQ\b|Practice\b|Inline PYQ\b)/i;
+  // Polity: Q1. / Q28. — Science/Economy/Census/UP: Q-ST14. / Q-EC3. / Q-CU1. / Q-UP5. / Q-GC2.
+  const QUESTION_ID_RE = /^Q(?:-[A-Za-z]{1,4})?\d+[a-z]?\./i;
+  const QUESTION_ID_ONLY_RE = /^Q(?:-[A-Za-z]{1,4})?\d+[a-z]?\.?$/i;
+  const QUESTION_PREFIX_RE = /^(?:Q(?:-[A-Za-z]{1,4})?\d+[a-z]?\.?|Q\s*[-–—]?\s*(?:GC|ST|EC|CU|UP)?\s*\d+|\d+\.\s*(?:\([A-Z]|Assertion|\w)|PYQ\b|Practice\b|Inline PYQ\b)/i;
+  const OPTION_LINE_START_RE = /^(?:[A-D]\.\s|\([A-Da-d©]\)\s|©\s)/;
 
   function isQuestionStart(el) {
     if (!el || el.nodeType !== 1) return false;
@@ -238,12 +240,10 @@
   function splitOptionsLine(text) {
     const cleaned = text.replace(/^\s*Options:\s*/i, "").trim();
     if (!cleaned) return [];
-    const parts = cleaned.split(/\s+(?=[A-D]\.\s+)/);
+    const parts = cleaned.split(/\s+(?=(?:[A-D]\.\s|\([A-Da-d©]\)\s|©\s))/);
     return parts
       .map((part) => {
-        const match = part.match(/^([A-D])\.\s*(.*)$/s);
-        if (!match) return null;
-        return { key: match[1], body: match[2].trim() };
+        return parseOptionLine(part);
       })
       .filter(Boolean);
   }
@@ -305,7 +305,12 @@
       li.innerHTML =
         `<span class="study-mcq__option-key">${opt.key}.</span>` +
         `<span class="study-mcq__option-text"></span>`;
-      li.querySelector(".study-mcq__option-text").textContent = opt.body;
+      const textEl = li.querySelector(".study-mcq__option-text");
+      if (/\$|\\\(|\\\[/.test(opt.body)) {
+        textEl.innerHTML = renderInlineMd(opt.body);
+      } else {
+        textEl.textContent = opt.body;
+      }
       list.appendChild(li);
     });
     return list;
@@ -322,8 +327,13 @@
   }
 
   function setRichText(el, text) {
+    const raw = String(text || "");
+    if (/\$|\\\(|\\\[/.test(raw) || /\*\*/.test(raw)) {
+      el.innerHTML = renderInlineMd(raw);
+      return;
+    }
     el.textContent = "";
-    const parts = String(text).split(/(\*\*[^*]+\*\*)/);
+    const parts = raw.split(/(\*\*[^*]+\*\*)/);
     parts.forEach((part) => {
       if (/^\*\*[^*]+\*\*$/.test(part)) {
         const strong = document.createElement("strong");
@@ -335,31 +345,62 @@
     });
   }
 
+  function normalizeOptionKey(raw) {
+    const t = String(raw || "").trim();
+    if (!t) return null;
+    if (t === "©" || /^c$/i.test(t)) return "C";
+    const u = t.toUpperCase();
+    return /^[A-D]$/.test(u) ? u : null;
+  }
+
   function parseOptionLine(line) {
-    const match = line.match(/^([A-D])\.\s*(.*)$/);
-    return match ? { key: match[1], body: match[2].trim() } : null;
+    let cleaned = String(line || "").trim();
+    // MkDocs smartypants turns "(c)" into the copyright symbol.
+    cleaned = cleaned.replace(/^©\s*/, "(c) ");
+    let match = cleaned.match(/^([A-D])\.\s*(.*)$/i);
+    if (match) return { key: match[1].toUpperCase(), body: match[2].trim() };
+    match = cleaned.match(/^\(([A-Da-d©])\)\s*(.*)$/);
+    if (match) {
+      const key = normalizeOptionKey(match[1] === "©" ? "C" : match[1]);
+      if (key) return { key, body: match[2].trim() };
+    }
+    match = cleaned.match(/^([A-Da-d])\)\s*(.*)$/);
+    if (match) {
+      const key = normalizeOptionKey(match[1]);
+      if (key) return { key, body: match[2].trim() };
+    }
+    return null;
+  }
+
+  function isOptionLineText(line) {
+    return Boolean(parseOptionLine(line));
   }
 
   function splitInlineOptionsText(text) {
     const cleaned = text.replace(/^\s*Options:\s*/i, "").trim();
-    const parts = cleaned.split(/\s+(?=[A-D]\.\s+)/);
+    const parts = cleaned.split(/\s+(?=(?:[A-D]\.\s|\([A-Da-d©]\)\s|©\s))/);
     if (parts.length < 2) return null;
     const options = parts.map((part) => parseOptionLine(part)).filter(Boolean);
     if (options.length < 2) return null;
     const first = parts[0];
-    if (/^[A-D]\.\s/.test(first)) return { stem: "", options };
+    if (isOptionLineText(first)) return { stem: "", options };
     return { stem: first.trim(), options };
   }
 
   function buildStemParagraph(text, className) {
     const stemP = document.createElement("p");
     stemP.className = className || "study-mcq__stem";
-    const qMatch = text.match(/^(Q\d+[a-z]?\.)\s*(.*)$/i);
+    const qMatch = text.match(/^(Q(?:-[A-Za-z]{1,4})?\d+[a-z]?\.)\s*(.*)$/i);
     if (qMatch) {
       const badge = document.createElement("strong");
       badge.textContent = qMatch[1];
       stemP.appendChild(badge);
-      stemP.appendChild(document.createTextNode(" " + qMatch[2]));
+      if (qMatch[2]) {
+        const rest = document.createElement("span");
+        setRichText(rest, qMatch[2]);
+        stemP.appendChild(document.createTextNode(" "));
+        stemP.appendChild(rest);
+      }
     } else {
       setRichText(stemP, text);
     }
@@ -482,13 +523,15 @@
     }
 
     const lines = trimmed.split("\n").map((line) => line.trim()).filter(Boolean);
-    const hasMultilineOptions = lines.length > 1 && lines.some((line) => /^[A-D]\.\s/.test(line));
+    const hasMultilineOptions = lines.length > 1 && lines.some((line) => isOptionLineText(line));
     // Leading "A." counts too (collapsed soft-break paragraphs often start with A.).
     const hasInlineOptions =
-      /(?:^|\s)A\.\s/.test(trimmed) && /\sB\.\s/.test(trimmed) && !hasMultilineOptions;
+      (/(?:^|\s)(?:A\.|\(a\)|\(A\))\s/.test(trimmed) &&
+        /\s(?:B\.|\(b\)|\(B\))\s/.test(trimmed) &&
+        !hasMultilineOptions);
     const hasNumberedStatements = lines.some((line) => /^\d+\.\s+/.test(line));
     const hasCollapsedOptionsLine = lines.some(
-      (line) => /^[A-D]\.\s/.test(line) && /\s[B-D]\.\s/.test(line),
+      (line) => isOptionLineText(line) && /(?:\s(?:[B-D]\.|\([b-dB-D]\)|©)\s)/.test(line),
     );
 
     if (
@@ -523,7 +566,7 @@
     while (
       i < lines.length &&
       !/^\d+\.\s+/.test(lines[i]) &&
-      !/^[A-D]\.\s/.test(lines[i]) &&
+      !isOptionLineText(lines[i]) &&
       !/^Options:/i.test(lines[i]) &&
       !looksLikeMatchRow(lines[i])
     ) {
@@ -604,7 +647,7 @@
       if (listI.length || listII.length) fragment.appendChild(buildMatchTable(listI, listII));
     }
 
-    while (i < lines.length && !/^[A-D]\.\s/.test(lines[i]) && !/^Options:/i.test(lines[i])) {
+    while (i < lines.length && !isOptionLineText(lines[i]) && !/^Options:/i.test(lines[i])) {
       const extra = document.createElement("p");
       setRichText(extra, lines[i]);
       fragment.appendChild(extra);
@@ -612,7 +655,7 @@
     }
 
     const optionLines = [];
-    while (i < lines.length && /^[A-D]\.\s/.test(lines[i])) {
+    while (i < lines.length && isOptionLineText(lines[i])) {
       optionLines.push(lines[i]);
       i += 1;
     }
@@ -668,7 +711,7 @@
         continue;
       }
       const text = (el.textContent || "").trim();
-      if (!/^[A-D]\.\s/.test(text) || isMatchListParagraph(text)) {
+      if (!isOptionLineText(text) || isMatchListParagraph(text)) {
         i += 1;
         continue;
       }
@@ -679,7 +722,7 @@
         const next = nodes[j];
         if (next.tagName !== "P") break;
         const nextText = (next.textContent || "").trim();
-        if (!/^[A-D]\.\s/.test(nextText) || isMatchListParagraph(nextText)) break;
+        if (!isOptionLineText(nextText) || isMatchListParagraph(nextText)) break;
         group.push(next);
         j += 1;
       }
@@ -852,11 +895,28 @@
         p.classList.add("study-mcq__label");
         return;
       }
-      if (!labeledStem && text && !/^[A-D]\.\s/.test(text) && !/^Options:/i.test(text)) {
+      if (
+        !labeledStem &&
+        text &&
+        !isOptionLineText(text) &&
+        !/^Options:/i.test(text)
+      ) {
         p.classList.add("study-mcq__stem");
         labeledStem = true;
       }
     });
+  }
+
+  function wrapArithmatex(s) {
+    if (!s || s.indexOf("$") === -1 && s.indexOf("\\(") === -1 && s.indexOf("\\[") === -1) {
+      return s;
+    }
+    // Display math first, then inline — wrap so MathJax processHtmlClass=arithmatex picks them up.
+    s = s.replace(/\$\$([\s\S]+?)\$\$/g, '<span class="arithmatex">$$$1$$</span>');
+    s = s.replace(/\\\[([\s\S]+?)\\\]/g, '<span class="arithmatex">\\[$1\\]</span>');
+    s = s.replace(/\\\(([\s\S]+?)\\\)/g, '<span class="arithmatex">\\($1\\)</span>');
+    s = s.replace(/(?<!\$)\$(?!\$)([^$\n]+?)\$(?!\$)/g, '<span class="arithmatex">\\($1\\)</span>');
+    return s;
   }
 
   function renderInlineMd(text) {
@@ -865,6 +925,8 @@
     if (!/<(?:strong|em|span|div|code|a|p)\b/i.test(s)) {
       s = s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
     }
+    // Math before underscore-italic so $D_2O$ is not corrupted.
+    s = wrapArithmatex(s);
     s = s.replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>");
     s = s.replace(/(?<!\*)\*(?!\*)(.+?)(?<!\*)\*(?!\*)/g, "<em>$1</em>");
     s = s.replace(/(?<!_)_(?!_)(.+?)(?<!_)_(?!_)/g, "<em>$1</em>");
@@ -897,31 +959,39 @@
     if (!clean) return "";
 
     const lines = clean.split("\n");
-    const firstLine = lines[0].trim();
-    const restLines = lines.slice(1);
-
     let answerHtml = "";
     let restText = clean;
 
-    const ansMatch = firstLine.match(/^\s*(?:\*\*)?(?:Correct Answer|Answer|Ans)\s*:\s*(.*)$/i);
-    if (ansMatch) {
-      const ansRaw = ansMatch[1].trim();
-      const letterMatch = ansRaw.match(/(?:\*\*)?([A-D](?:\s+and\s+[A-D])?)\b(?:\*\*)?/i);
-      const cleanLetter = letterMatch ? letterMatch[1].toUpperCase() : "";
-
-      let ansDesc = ansRaw;
-      if (cleanLetter) {
-        ansDesc = ansDesc.replace(new RegExp("(\\*\\*)?" + cleanLetter.replace(/\s+/g, "\\s+") + "(\\*\\*)?", "i"), "").trim();
+    // Prefer an Ans/Correct Answer line anywhere (Science often puts Logic first).
+    let ansLineIdx = -1;
+    for (let i = 0; i < lines.length; i += 1) {
+      if (/^\s*(?:\*\*)?(?:Correct Answer|Answer|Ans)\s*:/i.test(lines[i].trim())) {
+        ansLineIdx = i;
+        break;
       }
-      ansDesc = ansDesc.replace(/^\*+|\*+$/g, "").trim();
-      if (ansDesc.startsWith("(") && ansDesc.endsWith(")")) {
-        ansDesc = ansDesc.slice(1, -1).trim();
-      }
+    }
 
-      const badgeLetter = cleanLetter ? `<span class="study-expl__badge-val">${cleanLetter}</span>` : "";
-      const descHtml = ansDesc ? `<div class="study-expl__badge-desc">${renderInlineMd(ansDesc)}</div>` : "";
+    if (ansLineIdx >= 0) {
+      const firstLine = lines[ansLineIdx].trim();
+      const ansMatch = firstLine.match(/^\s*(?:\*\*)?(?:Correct Answer|Answer|Ans)\s*:\s*(.*)$/i);
+      if (ansMatch) {
+        const ansRaw = ansMatch[1].trim();
+        const letterMatch = ansRaw.match(/(?:\*\*)?([A-D](?:\s+and\s+[A-D])?)\b(?:\*\*)?/i);
+        const cleanLetter = letterMatch ? letterMatch[1].toUpperCase() : "";
 
-      answerHtml = `
+        let ansDesc = ansRaw;
+        if (cleanLetter) {
+          ansDesc = ansDesc.replace(new RegExp("(\\*\\*)?" + cleanLetter.replace(/\s+/g, "\\s+") + "(\\*\\*)?", "i"), "").trim();
+        }
+        ansDesc = ansDesc.replace(/^\*+|\*+$/g, "").trim();
+        if (ansDesc.startsWith("(") && ansDesc.endsWith(")")) {
+          ansDesc = ansDesc.slice(1, -1).trim();
+        }
+
+        const badgeLetter = cleanLetter ? `<span class="study-expl__badge-val">${cleanLetter}</span>` : "";
+        const descHtml = ansDesc ? `<div class="study-expl__badge-desc">${renderInlineMd(ansDesc)}</div>` : "";
+
+        answerHtml = `
         <div class="study-expl__answer-banner">
           <div class="study-expl__badge">
             <svg class="study-expl__badge-icon" viewBox="0 0 20 20" fill="currentColor">
@@ -933,10 +1003,11 @@
           ${descHtml}
         </div>
       `;
-      restText = restLines.join("\n").trim();
+        restText = lines.filter((_, idx) => idx !== ansLineIdx).join("\n").trim();
+      }
     }
 
-    const sectionSplitRe = /(?:\n\s*|^)\s*(?:\*\*)?(Detailed Explanation|Explanation|Solution|Rationale|Key Exam Takeaway\s*\/\s*Trap|Exam Trap|Exam Takeaway|Key Takeaway|Trap Alert|Memory Trick\s*\/\s*Core Takeaway|Memory Trick|Core Takeaway|Exam Weight\s*\/\s*Trend|UPSC Relevance|Prelims Relevance)\s*:\s*(?:\*\*)?/i;
+    const sectionSplitRe = /(?:\n\s*|^)\s*(?:\*\*)?(Logic|Detailed Explanation|Explanation|Solution|Rationale|Key Exam Takeaway\s*\/\s*Trap|Exam Trap|Exam Takeaway|Key Takeaway|Trap Alert|Memory Trick\s*\/\s*Core Takeaway|Memory Trick|Core Takeaway|Exam Weight\s*\/\s*Trend|UPSC Relevance|Prelims Relevance)\s*:\s*(?:\*\*)?/i;
 
     const parts = restText.split(sectionSplitRe);
     const sectionsHtml = [];
@@ -1351,6 +1422,11 @@
     initialiseRecallColumns();
     if (document.body.classList.contains(primaryClass) && document.body.classList.contains(secondaryClass)) {
       document.body.classList.add("fact-lock-focus");
+    }
+    if (window.MathJax && typeof window.MathJax.typesetPromise === "function") {
+      const root =
+        document.querySelector(".md-content__inner") || document.querySelector(".md-typeset");
+      if (root) window.MathJax.typesetPromise([root]).catch(() => {});
     }
   };
 
