@@ -2156,3 +2156,65 @@ Select the correct answer:
 | **Chromium Configuration** | Writing $3d^4 4s^2$. | Transition metal configuration trap. | Actual configuration is **$[Ar] 3d^5 4s^1$** (half-filled $d$-subshell stability). |
 | **Doped Semiconductor Charge** | Assuming N-type is negatively charged. | Solid state physics trap. | Doped semiconductors (both N-type and P-type) are **strictly electrically neutral**. |
 | **Sodium Storage** | Storing sodium in water instead of kerosene. | Chemical safety trap. | Sodium explodes in contact with water; must be stored in **kerosene oil**. |
+
+
+---
+
+## Bilingual Terminology -- Atomic Structure and Periodic Table
+
+| English Term | Hindi Term | Key Anchor |
+|---|---|---|
+| **Atom** (परमाणु) | परमाणु | Smallest particle of element retaining chemical properties |
+| **Atomic Number** (परमाणु क्रमांक) | परमाणु संख्या | Number of protons; unique identifier of element |
+| **Atomic Mass** (परमाणु द्रव्यमान) | परमाणु द्रव्यमान | Protons + neutrons (roughly); measured in amu |
+| **Valence Electrons** (संयोजकता इलेक्ट्रॉन) | संयोजी इलेक्ट्रॉन | Electrons in outermost shell; determine chemical behaviour |
+| **Periodic Table** (आवर्त सारणी) | आवर्त सारणी | Arrangement of elements by atomic number; Mendeleev (1869) |
+| **Period** (आवर्त) | आवर्त | Horizontal row of periodic table; 7 periods |
+| **Group** (समूह) | समूह / वर्ग | Vertical column; 18 groups; same valence electrons = similar properties |
+| **Metals** (धातु) | धातु | Left and centre of table; conductors, lustrous, malleable |
+| **Non-metals** (अधातु) | अधातु | Right side; insulators; brittle; e.g., O, N, S, Cl, P |
+| **Metalloids** (उपधातु) | उपधातु | Properties between metals and non-metals; Si, Ge, As |
+| **Noble Gases** (उत्कृष्ट गैस) | अक्रिय गैस / उत्कृष्ट गैस | Group 18; completely filled shells; extremely unreactive |
+| **Alkali Metals** (क्षार धातु) | क्षार धातु | Group 1 (Li, Na, K, Rb, Cs, Fr); 1 valence e-; very reactive |
+| **Alkaline Earth Metals** (क्षारीय मृदा धातु) | क्षारीय मृदा धातु | Group 2 (Be, Mg, Ca, Sr, Ba, Ra); 2 valence e- |
+| **Halogens** (हैलोजन) | हैलोजन | Group 17 (F, Cl, Br, I, At); 7 valence e-; very reactive |
+| **Transition Metals** (संक्रमण धातु) | संक्रमण तत्त्व | Groups 3-12; d-block; variable valency; coloured compounds |
+| **Electronegativity** (विद्युत-ऋणात्मकता) | विद्युत-ऋणात्मकता | Ability to attract electrons in bond; increases across period (right); decreases down group |
+
+---
+
+## One-Liner Revision -- Atomic Structure and Periodic Table
+
+| # | Fast Fact |
+|---|---|
+| 1 | Mendeleev's Periodic Table (1869) = arranged by **atomic mass**; predicted missing elements |
+| 2 | Modern Periodic Table = arranged by **atomic number** (Moseley, 1913) |
+| 3 | Periodic table: **7 periods** (horizontal rows) + **18 groups** (vertical columns) |
+| 4 | Group 1 = Alkali metals (H, Li, Na, K, Rb, Cs, Fr); highly reactive |
+| 5 | Group 17 = Halogens (F, Cl, Br, I, At); 7 valence electrons; most electronegative |
+| 6 | Group 18 = Noble gases (He, Ne, Ar, Kr, Xe, Rn); inert; completely filled shells |
+| 7 | Most electronegative element = **Fluorine (F)** |
+| 8 | Largest atom = Cesium (Cs) / Francium (Fr) [by atomic radius] |
+| 9 | Smallest atom = Helium (He) / Hydrogen (H) |
+| 10 | Hardest natural substance = **Diamond** (form of Carbon) |
+| 11 | Lightest element = **Hydrogen (H)**; atomic number 1 |
+| 12 | Lightest metal = **Lithium (Li)**; also most reactive metal |
+| 13 | Heaviest naturally occurring element = **Uranium (U)**; atomic number 92 |
+| 14 | Most abundant element in universe = **Hydrogen** |
+| 15 | Most abundant element in Earth's crust = **Oxygen** (46%) |
+| 16 | Most abundant metal in Earth's crust = **Aluminium** (Al; 8%) |
+| 17 | Most abundant gas in atmosphere = **Nitrogen** (78%) |
+| 18 | Electronic configuration rule: 2n^2 (max electrons per shell: 2, 8, 18, 32...) |
+| 19 | Octet rule: atoms tend to gain/lose electrons to have 8 valence electrons |
+| 20 | Isotopes = same Z, different A; e.g., H-1 (protium), H-2 (deuterium), H-3 (tritium) |
+| 21 | Isobars = same A, different Z; e.g., Ar-40 and Ca-40 |
+| 22 | Isotones = same number of neutrons, different Z; e.g., C-13 and N-14 |
+| 23 | Radioactive elements: all elements with Z > 83 (Bismuth) are naturally radioactive |
+| 24 | Lanthanides = f-block elements 57-71; Actinides = f-block elements 89-103 |
+| 25 | Transition metals = d-block (Groups 3-12); variable oxidation states; coloured ions |
+| 26 | Metalloids (semiconductors): B, Si, Ge, As, Sb, Te, At |
+| 27 | Allotropy = element existing in multiple forms; Carbon (diamond, graphite, fullerene) |
+| 28 | Diamond = hardest; Graphite = soft, good conductor; both are pure carbon |
+| 29 | Polonium = only element with all naturally occurring isotopes being radioactive |
+| 30 | Element 118 (Oganesson) = heaviest known element; all artificial/synthetic |
+

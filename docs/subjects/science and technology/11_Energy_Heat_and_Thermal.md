@@ -75,14 +75,9 @@
 40. **Convection in Fluids:** Heat transfer accompanied by the actual **macroscopic bulk movement of heated fluid matter** driven by density gradients under gravity. Warm fluid expands, becomes less dense, and ascends; cooler, denser fluid descends to replace it, establishing **convection currents**.
 41. **Convection Fails in Weightlessness:** In an orbiting satellite or the International Space Station (microgravity), gravity is effectively zero ($g \approx 0$). Without buoyancy forces, convection currents cannot form. Heat can only transfer by conduction and radiation. A candle flame in space burns as a faint, spherical, blue flame and suffocates in its own $CO_2$.
 42. **Sea Breeze vs Land Breeze:**
-   - **Sea Breeze (Daytime):** Land heats faster than the adjacent ocean due to lower specific heat capacity. Hot air over land rises, creating a localized low pressure; cooler, denser air blows inland from the sea.
-   - **Land Breeze (Nighttime):** Land cools faster than the sea. Warmer air over the sea rises; cooler, denser air blows from the land toward the sea.
 43. **Ventilation in Architecture:** Ventilators and exhaust windows are always placed near the ceiling because warm, exhaled air containing $CO_2$ is less dense and ascends to exit near the top, while fresh, cooler air enters through doors and windows below.
 44. **Thermal Radiation:** Heat transfer in the form of **electromagnetic waves (primarily Infrared, $\lambda \approx 700\text{ nm to } 1\text{ mm}$)**. It requires **no material medium**, travels through vacuum at the speed of light ($c = 3 \times 10^8\text{ m/s}$), and obeys the inverse-square law.
 45. **Thermos Flask (Dewar Flask) Tripartite Defense:**
-   - Silvered inner and outer glass walls: Highly reflective surfaces prevent heat loss or gain by **Radiation**.
-   - Evacuated double-walled space (Vacuum): Absence of matter completely halts heat transfer by **Conduction** and **Convection**.
-   - Cork or hollow plastic stopper: Non-conducting insulating material halts heat escape via **Convection** of air at the opening.
 46. **Kirchhoff's Law of Thermal Radiation:** At thermal equilibrium, the ratio of emissive power to absorptive power is equal for all bodies and matches the emissive power of a black body ($e/a = E_{\text{black}}$). Colloquial rule: **Good absorbers are good emitters; poor absorbers are poor emitters.** A black pot absorbs radiant heat fastest and cools fastest.
 47. **Stefan-Boltzmann Law:** The total radiant energy emitted per second per unit surface area of a black body is directly proportional to the fourth power of its absolute thermodynamic temperature: $E = \sigma T^4$, where $\sigma = 5.670 \times 10^{-8}\text{ W/m}^2\cdot\text{K}^4$. If a body's absolute temperature is doubled, its radiant emission increases by $2^4 = 16\text{ times}$.
 48. **Wien's Displacement Law:** The wavelength ($\lambda_{\max}$) corresponding to the peak emission of black-body radiation is inversely proportional to absolute temperature: $\lambda_{\max} \cdot T = b$, where $b = 2.898 \times 10^{-3}\text{ m}\cdot\text{K}$. Hotter stars radiate at shorter wavelengths (blue/white), whereas cooler stars peak at longer wavelengths (red).
@@ -90,32 +85,6 @@
 50. **Open Refrigerator Door in a Closed Room:** Leaving the door of a running refrigerator open inside a closed, insulated room **warms the room up**. A refrigerator is a heat pump that transfers heat from its interior to the exterior condenser coils while consuming electrical work: $Q_{\text{released}} = Q_{\text{absorbed}} + W_{\text{electric}}$. The heat discharged into the room exceeds the cooling effect, elevating room temperature.
 
 ---
-
-51. **Total Heat for Converting Ice to Steam**: To convert $1\text{ g}$ of ice at $0^\circ\text{C}$ into steam at $100^\circ\text{C}$ requires **$720\text{ calories}$**:
-    - Melting: $1\text{ g} \times 80\text{ cal/g} = 80\text{ cal}$
-    - Heating water to boiling: $1\text{ g} \times 1\text{ cal}/(g\cdot^\circ\text{C}) \times 100^\circ\text{C} = 100\text{ cal}$
-    - Vaporization: $1\text{ g} \times 540\text{ cal/g} = 540\text{ cal}$
-    - Total $= 80 + 100 + 540 = \mathbf{720\text{ calories}}$.
-52. **Maximum Density of Water in Kelvin**: Water reaches its maximum density ($1.000\text{ g/cm}^3$) at **$4^\circ\text{C} = 277.15\text{ K} \approx 277\text{ K}$**.
-53. **Winter Stratification & Aquatic Life**: When lakes freeze in severe winter, surface water at $0^\circ\text{C}$ freezes into an insulating ice sheet, while the denser water underneath stays liquid at **$4^\circ\text{C}$**, allowing fish and aquatic life to survive.
-54. **Heating Water from $0^\circ\text{C}$ to $10^\circ\text{C}$**: Due to anomalous expansion, the volume of water **first decreases** (from $0^\circ\text{C}$ to $4^\circ\text{C}$) and **then increases** (from $4^\circ\text{C}$ to $10^\circ\text{C}$).
-55. **Cooling Water from $9^\circ\text{C}$ to $3^\circ\text{C}$**: Volume **first decreases** (from $9^\circ\text{C}$ down to $4^\circ\text{C}$) and **then increases** (from $4^\circ\text{C}$ down to $3^\circ\text{C}$).
-56. **Contraction upon Melting**: Cast iron, ice, antimony, bismuth, and brass **contract upon melting** (volume decreases; solid floats in its melted liquid).
-57. **Fahrenheit Double of Celsius**: Fahrenheit reading is exactly double the Celsius reading at **$160^\circ\text{C}$** ($F = 320^\circ\text{F}$).
-58. **Automobile Radiator Antifreeze**: **Ethylene glycol** is mixed with water; a $60\%$ ethylene glycol mixture depresses the freezing point to **$-45^\circ\text{C}$**, preventing engine cracking in cold climates.
-59. **Alcohol Thermometer Advantage**: In sub-zero polar regions, alcohol thermometers are preferred over mercury because alcohol freezes at **$-112^\circ\text{C}$** (mercury freezes at $-39^\circ\text{C}$).
-60. **Safest Refrigerator Temperature**: The internationally recommended food preservation temperature in domestic refrigerators is **$4^\circ\text{C}$ ($36^\circ\text{F} - 38^\circ\text{F}$)**, keeping food outside the microbial "Danger Zone" ($40^\circ\text{F} - 140^\circ\text{F}$).
-61. **Soggy Biscuits in Fridge**: Frost-free refrigerators operate on continuous dehumidification; moisture from biscuits is extracted and condensed away, making soggy biscuits **crisp**.
-62. **Bimetallic Strip Curvature**: When a bonded strip of metals A and B is heated, if metal A expands more than B, the strip curves with **metal A on the outer (convex) radius**.
-63. **Expanding Metal Ring**: When a metal ring with a circular hole is heated, thermal expansion causes both the outer diameter and the **hole diameter to expand**, allowing an otherwise tight metal ball to pass through easily.
-64. **Touching Iron vs Wood in Winter**: An iron rod feels colder than a wooden log at the same temperature because **iron is a much better thermal conductor** and conducts heat away from the skin much faster.
-65. **Dew Absence on Windy Nights**: Dew droplets do not form on windy nights because brisk air currents drastically accelerate the **rate of evaporation**.
-66. **Conditions for Wet Clothes Drying Earliest**: Evaporation rate is maximized under **minimum relative humidity and maximum ambient temperature** (e.g. $20\%\text{ RH}$ and $60^\circ\text{C}$).
-67. **Addition of Salt to Water**: Adding common salt ($NaCl$) elevates the boiling point above $100^\circ\text{C}$ and depresses the freezing point below $0^\circ\text{C}$ (colligative properties).
-68. **Cooking in Pressure Cooker**: Increased vapor pressure elevates the boiling point of water to **$\approx 120^\circ\text{C}$**, allowing food to cook in significantly less time.
-69. **Thermos Flask Silver Layer & Vacuum**: Double glass walls are coated with a **reflective silver layer** to minimize radiation, while the evacuated space between walls eliminates heat loss by **conduction and convection**.
-70. **Newton's Law of Cooling Time**: A body cooling from $90^\circ\text{C}$ to $75^\circ\text{C}$ in $25\text{ s}$ will take **more than $25\text{ seconds}$** to cool from $75^\circ\text{C}$ to $60^\circ\text{C}$ because the temperature difference with surroundings ($\Delta T$) is smaller.
-
 ## Confused Pairs
 
 | Concept A | Concept B | Razor-Sharp Distinguishing Criteria & Common Traps |
@@ -464,6 +433,31 @@ $$\frac{C}{5} = \frac{F - 32}{9} = \frac{K - 273.15}{5}$$
   - *Reason:* The heat discharged into the room by the condenser coils on the rear is equal to the heat absorbed from the interior plus the electrical energy consumed by the compressor motor ($Q_1 = Q_2 + W$). Because $Q_1 > Q_2$, net positive heat is pumped into the room air.
 
 ---
+
+
+## Teaching expansion — additional theory (beyond Consolidated spine)
+
+These points sit in teaching theory (not the Consolidated spine).
+
+- **Total Heat for Converting Ice to Steam**: To convert $1\text{ g}$ of ice at $0^\circ\text{C}$ into steam at $100^\circ\text{C}$ requires **$720\text{ calories}$**:
+- **Maximum Density of Water in Kelvin**: Water reaches its maximum density ($1.000\text{ g/cm}^3$) at **$4^\circ\text{C} = 277.15\text{ K} \approx 277\text{ K}$**.
+- **Winter Stratification & Aquatic Life**: When lakes freeze in severe winter, surface water at $0^\circ\text{C}$ freezes into an insulating ice sheet, while the denser water underneath stays liquid at **$4^\circ\text{C}$**, allowing fish and aquatic life to survive.
+- **Cooling Water from $9^\circ\text{C}$ to $3^\circ\text{C}$**: Volume **first decreases** (from $9^\circ\text{C}$ down to $4^\circ\text{C}$) and **then increases** (from $4^\circ\text{C}$ down to $3^\circ\text{C}$).
+- **Contraction upon Melting**: Cast iron, ice, antimony, bismuth, and brass **contract upon melting** (volume decreases; solid floats in its melted liquid).
+- **Fahrenheit Double of Celsius**: Fahrenheit reading is exactly double the Celsius reading at **$160^\circ\text{C}$** ($F = 320^\circ\text{F}$).
+- **Automobile Radiator Antifreeze**: **Ethylene glycol** is mixed with water; a $60\%$ ethylene glycol mixture depresses the freezing point to **$-45^\circ\text{C}$**, preventing engine cracking in cold climates.
+- **Alcohol Thermometer Advantage**: In sub-zero polar regions, alcohol thermometers are preferred over mercury because alcohol freezes at **$-112^\circ\text{C}$** (mercury freezes at $-39^\circ\text{C}$).
+- **Safest Refrigerator Temperature**: The internationally recommended food preservation temperature in domestic refrigerators is **$4^\circ\text{C}$ ($36^\circ\text{F} - 38^\circ\text{F}$)**, keeping food outside the microbial "Danger Zone" ($40^\circ\text{F} - 140^\circ\text{F}$).
+- **Soggy Biscuits in Fridge**: Frost-free refrigerators operate on continuous dehumidification; moisture from biscuits is extracted and condensed away, making soggy biscuits **crisp**.
+- **Bimetallic Strip Curvature**: When a bonded strip of metals A and B is heated, if metal A expands more than B, the strip curves with **metal A on the outer (convex) radius**.
+- **Expanding Metal Ring**: When a metal ring with a circular hole is heated, thermal expansion causes both the outer diameter and the **hole diameter to expand**, allowing an otherwise tight metal ball to pass through easily.
+- **Touching Iron vs Wood in Winter**: An iron rod feels colder than a wooden log at the same temperature because **iron is a much better thermal conductor** and conducts heat away from the skin much faster.
+- **Dew Absence on Windy Nights**: Dew droplets do not form on windy nights because brisk air currents drastically accelerate the **rate of evaporation**.
+- **Conditions for Wet Clothes Drying Earliest**: Evaporation rate is maximized under **minimum relative humidity and maximum ambient temperature** (e.g. $20\%\text{ RH}$ and $60^\circ\text{C}$).
+- **Addition of Salt to Water**: Adding common salt ($NaCl$) elevates the boiling point above $100^\circ\text{C}$ and depresses the freezing point below $0^\circ\text{C}$ (colligative properties).
+- **Cooking in Pressure Cooker**: Increased vapor pressure elevates the boiling point of water to **$\approx 120^\circ\text{C}$**, allowing food to cook in significantly less time.
+- **Thermos Flask Silver Layer & Vacuum**: Double glass walls are coated with a **reflective silver layer** to minimize radiation, while the evacuated space between walls eliminates heat loss by **conduction and convection**.
+- **Newton's Law of Cooling Time**: A body cooling from $90^\circ\text{C}$ to $75^\circ\text{C}$ in $25\text{ s}$ will take **more than $25\text{ seconds}$** to cool from $75^\circ\text{C}$ to $60^\circ\text{C}$ because the temperature difference with surroundings ($\Delta T$) is smaller.
 
 ## Complete PYQ Bank — UPPCS
 
@@ -1680,3 +1674,65 @@ Select the correct answer:
 | **Convection in Space** | Assuming convection works identically in an orbiting spacecraft. | IAS and State PCS assertion-reason questions. | Convection **strictly requires gravity** ($g > 0$). In weightlessness, only conduction and radiation occur. |
 | **Nuclear Power Classification** | Confusing "non-conventional" with "renewable". | Classified in energy resources matrices. | Nuclear power is **non-conventional**, but it is **non-renewable** (finite mineral ores). |
 | **Dew Formation on Cloudy Nights** | Thinking clouds promote dew by providing moisture. | Meteorological conditions for dew/frost. | Dew forms only on **clear nights** with rapid radiative cooling; clouds block cooling. |
+
+
+---
+
+## Bilingual Terminology -- Energy, Heat and Thermal Physics
+
+| English Term | Hindi Term | Key Anchor |
+|---|---|---|
+| **Energy** (ऊर्जा) | ऊर्जा | Capacity to do work; SI unit = Joule (J) |
+| **Kinetic Energy** (गतिज ऊर्जा) | गतिज ऊर्जा | Energy of motion; KE = 1/2 mv2 |
+| **Potential Energy** (स्थितिज ऊर्जा) | स्थितिज ऊर्जा | Stored energy due to position; PE = mgh (gravitational) |
+| **Conservation of Energy** (ऊर्जा संरक्षण) | ऊर्जा संरक्षण का नियम | Energy cannot be created or destroyed; only transforms |
+| **Heat** (ऊष्मा) | ऊष्मा | Form of energy; transferred from hot to cold body |
+| **Temperature** (ताप) | ताप | Measure of hotness/coldness; determines direction of heat flow |
+| **Thermodynamics** (ऊष्मागतिकी) | ऊष्मागतिकी | Science of heat-work relationships |
+| **Specific Heat Capacity** (विशिष्ट ऊष्मा धारिता) | विशिष्ट ऊष्माधारिता | Heat needed to raise 1 kg substance by 1 K; water = 4200 J/kg/K |
+| **Latent Heat** (गुप्त ऊष्मा) | गुप्त ऊष्मा | Heat absorbed/released during phase change without temperature change |
+| **Conduction** (चालन) | चालन | Heat transfer through matter by vibration; metals = good conductors |
+| **Convection** (संवहन) | संवहन | Heat transfer by movement of fluid/gas; sea breeze, boiling water |
+| **Radiation** (विकिरण) | विकिरण | Heat transfer through electromagnetic waves; no medium needed; e.g., sunlight |
+| **Greenhouse Effect** (हरित गृह प्रभाव) | हरित गृह प्रभाव | Trapping of Earth's infrared radiation by greenhouse gases |
+| **Absolute Zero** (परम शून्य) | परम शून्य | 0 Kelvin = -273.15 degC; minimum possible temperature |
+| **Entropy** (एन्ट्रॉपी) | एन्ट्रॉपी | Measure of disorder; increases in all natural processes (2nd Law of Thermodynamics) |
+| **Thermostat** (ताप नियंत्रक) | ताप-स्थायी | Device that regulates temperature automatically |
+
+---
+
+## One-Liner Revision -- Energy, Heat and Thermal Physics
+
+| # | Fast Fact |
+|---|---|
+| 1 | 1 Joule = 1 Newton x 1 metre (work done) |
+| 2 | 1 Calorie = **4.186 Joules** (heat to raise 1 g water by 1 degC) |
+| 3 | 1 kWh = 3.6 x 10^6 J = 3.6 MJ (unit on electricity bill) |
+| 4 | KE = 1/2 mv2; PE = mgh; Total ME = KE + PE = constant (no friction) |
+| 5 | Power = work done / time = Energy / time; SI unit = Watt (W) |
+| 6 | 1 Watt = 1 Joule/second; 1 kW = 1000 W; 1 MW = 10^6 W |
+| 7 | 1 Horsepower = **746 Watts**; British HP used in motors/vehicles |
+| 8 | Water has the HIGHEST specific heat (4200 J/kg/K); best coolant and heat reservoir |
+| 9 | Specific heat of water = 4200 J/kg/K; iron = 450 J/kg/K; lead = 128 J/kg/K |
+| 10 | Latent heat of vaporisation of water = 2260 kJ/kg (much higher than fusion = 336 kJ/kg) |
+| 11 | 0 degC = 273.15 K; 100 degC = 373.15 K; -273.15 degC = 0 K (absolute zero) |
+| 12 | Celsius to Fahrenheit: F = (9/5)C + 32; at -40 degC = -40 degF |
+| 13 | Heat transfer: Conduction (solids) > Convection (fluids) > Radiation (vacuum/space) |
+| 14 | Metals = good conductors; Wood, glass, air = insulators; vacuum = no conduction/convection |
+| 15 | Thermos flask = prevents heat loss by all 3 methods (vacuum, silvered walls, stopper) |
+| 16 | Black surfaces = absorb AND emit heat best (best radiator and absorber) |
+| 17 | Stefan-Boltzmann Law: E = sigma x T^4 (radiation proportional to 4th power of temp) |
+| 18 | Newton's Law of Cooling: rate of cooling proportional to (T_object - T_surrounding) |
+| 19 | Greenhouses: glass transmits visible light but blocks infrared (re-radiated heat) |
+| 20 | Greenhouse gases: CO2, CH4, N2O, H2O vapour, O3, CFCs |
+| 21 | Most potent GHG (per molecule) = **SF6** (sulfur hexafluoride); most volume-significant = CO2 |
+| 22 | Global warming potential (GWP): CH4 = 25x CO2; N2O = 298x CO2 (100-yr) |
+| 23 | 1st Law of Thermodynamics = Conservation of Energy (dU = Q - W) |
+| 24 | 2nd Law of Thermodynamics = entropy of universe always increases; heat flows hot to cold |
+| 25 | 3rd Law of Thermodynamics = entropy of perfect crystal = 0 at absolute zero |
+| 26 | Zeroth Law = if A and B are in thermal equilibrium with C, then A and B are in equilibrium |
+| 27 | Thermal expansion: gases > liquids > solids (rail gaps, bimetallic strips) |
+| 28 | Bimetallic strip = two metals with different expansion rates; used in thermostats |
+| 29 | Regelation = ice melts under pressure and refreezes when pressure released (ice skating) |
+| 30 | Clinical thermometer range = 35 degC to 42 degC; mercury (now digital) |
+

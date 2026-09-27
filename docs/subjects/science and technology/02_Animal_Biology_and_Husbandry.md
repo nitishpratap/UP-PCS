@@ -27,7 +27,7 @@ Animal Body Structure & Physiology | Herbivore, Carnivore & Omnivore Digestion (
 
 ---
 
-## Consolidated — 65 Must-Score Facts
+## Consolidated — 50 Must-Score Facts
 
 1. Animals are eukaryotic, multicellular, heterotrophic organisms lacking cell walls and photosynthetic pigments; store reserve food as **glycogen and fat**.
 2. **Porifera** (sponges) exhibit cellular level of organisation, have thousands of minute incurrent pores (**Ostia**) and a single large excurrent opening (**Osculum**), and maintain a unique water canal system lined by flagellated **Choanocytes / Collar cells**.
@@ -47,25 +47,15 @@ Animal Body Structure & Physiology | Herbivore, Carnivore & Omnivore Digestion (
 16. **Beneficial vs Harmful Insects**: *Bombyx mori* (silk), *Laccifer / Kerria lacca* (lac resin), *Apis mellifera* (honey/wax) are beneficial. ***Helicoverpa armigera*** (cotton bollworm/corn earworm) is a polyphagous destructive agricultural pest.
 17. **Parasitoid species**: Larvae develop inside/on a host and ultimately kill it (e.g. parasitic wasps, parasitic flies, certain carabid beetles). Centipedes are generalist predators; termites are detritivores.
 18. **Detritivores & Filter Feeders**:
-    - **Detritivores** consume dead/decaying matter: Earthworms, Millipedes, Woodlice, Dung flies, Slugs. (Seahorses and Jellyfish are NOT detritivores).
-    - **Filter Feeders** strain suspended food particles from water: **Oysters**, Clams, Sponges, Baleen Whales, Flamingos. Oysters act as ecosystem engineers clarifying water.
 19. **Ant Biology**: Ants inject **Formic acid** ($HCOOH$, simple carboxylic acid) when they bite. Ants have the **largest brain relative to body size** in the animal kingdom. Leafcutter ants (*Attini*) actively **cultivate fungi** for food.
 20. **Mollusca** is the second largest animal phylum; soft-bodied, unsegmented animals usually enclosed in a calcareous shell ($CaCO_3$); possess a sensory rasping tongue-like feeding organ called **Radula** and a fleshy muscular foot; true pearls are harvested from the marine pearl oyster (***Pinctada vulgaris***, class Bivalvia/Pelecypoda).
 21. **Cephalopods**: **Octopus (Devilfish)** has 8 arms with suckers, camera eyes, and no external shell. **Colossal Squid (*Mesonychoteuthis hamiltoni*)** and **Giant Squid (*Architeuthis dux*)** are the largest living invertebrates.
 22. **False Fish vs True Fish (Must-Score Fact)**:
-    - **NOT true fishes**: Jellyfish (Cnidaria), Starfish (Echinodermata), Silverfish (Insecta), Cuttlefish (Mollusca), Hagfish (Jawless cyclostome chordate), Devilfish / Octopus (Mollusca), Crayfish (Crustacea).
-    - **TRUE fishes**: **Seahorse (*Hippocampus*)** (bony fish, male carries eggs in brood pouch), **Dogfish / Scoliodon** (cartilaginous shark, **0 bones** in skeleton!), **Catfish** (ray-finned bony fish with sensory barbels), **Golden Mahseer (*Tor putitora*)** (Himalayan cyprinid fish, NOT a bird!), Sawfish, Pipefish, Guitarfish, Flying fish (*Exocoetus*).
 23. **Fishes in Frozen Lakes**: Lakes freeze only at the surface; because water reaches maximum density at $4^\circ\text{C}$, the bottom water remains liquid ($>0^\circ\text{C}$), allowing fish and aquatic life to survive under the ice shield. Fish die outside water because gills collapse and cannot absorb gaseous oxygen.
 24. **Echinodermata**: Exclusively marine spiny-skinned animals; exhibit secondary radial symmetry (bilateral in free-swimming larvae, pentamerous radial in adults); possess an ambulacral **Water Vascular System** operating suction-cup **Tube feet (Podia)**; **all echinoderms are NOT viviparous — they are typically oviparous with external fertilisation**.
 25. **Animal heart chambers**: **Fish** = 2 chambers (1 atrium + 1 ventricle; single venous circulation); **Amphibians & most Reptiles** = 3 chambers (2 atria + 1 ventricle; mixed blood tolerated); **Crocodiles, Birds & Mammals** = **4 chambers** (2 atria + 2 ventricles; complete double circulation).
 26. **Amphibian Metamorphosis**: Tadpoles are aquatic and herbivorous; metamorphosis into carnivorous frogs involves **dramatic shortening of the intestine** (controlled by thyroid hormone) to process meat diets. Frogs are cold-blooded and breathe via skin and lungs.
 27. **Reptiles & Snakes**:
-    - **Venom glands** of snakes are **homologous to salivary glands** of vertebrates.
-    - **Poisonous fangs** are modified **maxillary teeth** connected to venom ducts.
-    - Venom types: Cobra (*Naja*) and Krait (*Bungarus*) venom is primarily **neurotoxic & cardiotoxic**; Russell's Viper (*Daboia*) venom is primarily **vasculotoxic & haemotoxic**.
-    - **King Cobra (*Ophiophagus hannah*)**: World's longest venomous snake ($~3.6\text{ m}$); the **ONLY snake that builds a nest** of leaves, lays 20–40 eggs, and guards it until hatching; diet consists almost exclusively of **other snakes**.
-    - **Python**: Family Pythonidae; giant non-venomous constrictor.
-    - **Anaconda (*Eunectes*)**: Viviparous snake (gives birth to live young).
 28. **Poisonous Species Across Taxa**: Poisonous species occur among **butterflies** (African Giant Swallowtail, Monarch — sequester plant alkaloids), **fishes** (Puffer fish Tetraodontidae with tetrodotoxin; Reef stonefish most venomous fish), and **frogs** (poison dart frogs with skin alkaloid secretions).
 29. **Herbivorous Exceptions**: Adult **Green sea turtles** (*Chelonia mydas*) are strictly herbivorous; **Parrot fish** graze on algae; **Dugong / Sea cow** is a large herbivorous marine mammal. (Dogs are carnivores/omnivores, NOT herbivores).
 30. **Flightless Birds & Aves**: **Kiwi** (*Apteryx*) is a small flightless bird endemic to New Zealand. **White Leghorn** is an exotic Mediterranean breed of fowl (chicken).
@@ -89,24 +79,8 @@ Animal Body Structure & Physiology | Herbivore, Carnivore & Omnivore Digestion (
 48. **Dingo (*Canis lupus dingo*)**: Australian wild dog that **cannot bark**; instead, it howls like a wolf.
 49. **Sloth bear**: The shaggy bear commonly seen performing on Indian streets.
 50. **Otter**: Semiaquatic carnivorous mammal (subfamily Lutrinae, family Mustelidae); fierce, aggressive predatory behaviour.
-51. **Marsupials (Metatheria)**: Have abdominal pouch (*Marsupium*); **not naturally found in India** (endemic to Australasia and Americas); thrive in varied habitats (deserts, forests, savannas), NOT exclusively montane grasslands.
-52. **Egg-laying mammals (Monotremes)**: **Duck-billed Platypus** and **Echidna (Spiny Anteater)** are the only living oviparous mammals.
-53. **Cetaceans (Whales and Dolphins)**: True aquatic mammals; breathe air via blowholes; warm-blooded; live birth and nurse young. **Blue whale** is largest animal ($33\text{ m}$, $>180\text{ tonnes}$). **Sperm whale** is largest toothed whale ($55\text{ ft}$, $35–45\text{ tonnes}$). **Ganges River Dolphin** (*Platanista gangetica*) is India's National Aquatic Animal.
-54. **Seal, Sea Lion, Walrus**: Semiaquatic mammals of order Carnivora (pinnipeds); **Sea cow (Dugong)** belongs to order Sirenia (herbivore).
-55. **Gharial (*Gavialis gangeticus*)**: Fish-eating crocodilian mostly found in the **Ganga River** system.
-56. **Bats (Chiroptera)**: Only mammals capable of true flight via patagium. **Kitti's hog-nosed bat (bumblebee bat)** is the smallest mammal ($29–34\text{ mm}$); **Giant golden-crowned flying fox** has a wingspan of $1.7\text{ m}$. Indian Flying Fox is frugivorous, NOT sanguivorous.
-57. **Silk Biology**: Secreted by labial silk glands of *Bombyx mori* caterpillar; spun during the **Pupa stage** into a cocoon ($1.5\text{ km}$ thread); contains **Fibroin (75–80%)** and **Sericin (20–25%)**; rich in Nitrogen.
-58. **Four Commercial Silks**: Mulberry (*Bombyx mori* on *Morus*, Karnataka #1), Tasar (*Antheraea mylitta* on Arjun/Asan, Jharkhand #1), Muga (*Antheraea assamensis* on Som/Soalu, Assam GI tag), Eri (*Samia ricini* on Castor, Ahimsa silk).
-59. **Honey**: Rich in **Levulose (Fructose, ~38%)** and Glucose (~31%); Karl von Frisch decoded round dance ($<50\text{ m}$) and waggle dance ($>50\text{ m}$).
-60. **Lac**: Resinous secretion from dermal glands of female *Kerria lacca*; Jharkhand #1 producer.
-61. **Pearl**: Secreted by the mantle of bivalve mollusc (*Pinctada vulgaris*); composed of Aragonite ($CaCO_3$) and conchiolin.
-62. **Livestock Breeds**: Sahiwal (premier milch cow), Gir (drooping ears), Hariana (dual), Amritmahal (fierce draught), Kankrej (Sawai Chal gait, heaviest cow), Murrah ("Black Gold" buffalo), Bhadawari (highest fat 13% buffalo), Jamunapari (largest goat, Roman nose, UP), Barbari ("City goat"), Kadaknath (melanin black meat fowl, MP GI tag).
-63. **Bull Semen Cryopreservation**: Stored in **Liquid Nitrogen at $-196^\circ\text{C}$**.
-64. **Animal Diseases**: Foot and Mouth Disease (Aphthovirus), Anthrax (*Bacillus anthracis*, woolsorter's disease), Ranikhet / Newcastle (Avian Paramyxovirus), Mad Cow Disease (Prions).
-65. **Diclofenac Vulture Ban (2006)**: Veterinary NSAID causing visceral gout and renal failure in *Gyps* vultures; banned in 2006; Ketoprofen & Aceclofenac banned in 2023.
 
 ---
-
 ## Confused Pairs
 
 | Concept A | Concept B | Core Distinguishing Fact | Hindi Key |
@@ -548,6 +522,19 @@ Animal Body Structure & Physiology | Herbivore, Carnivore & Omnivore Digestion (
   - **Vulnerable (VU)**: High risk of endangerment in the wild (e.g. One-horned Rhinoceros, Nilgiri Tahr).
 
 ---
+
+
+## Teaching expansion — additional theory (beyond Consolidated spine)
+
+These points sit in teaching theory (not the Consolidated spine).
+
+- **Marsupials (Metatheria)**: Have abdominal pouch (*Marsupium*); **not naturally found in India** (endemic to Australasia and Americas); thrive in varied habitats (deserts, forests, savannas), NOT exclusively montane grasslands.
+- **Egg-laying mammals (Monotremes)**: **Duck-billed Platypus** and **Echidna (Spiny Anteater)** are the only living oviparous mammals.
+- **Gharial (*Gavialis gangeticus*)**: Fish-eating crocodilian mostly found in the **Ganga River** system.
+- **Bats (Chiroptera)**: Only mammals capable of true flight via patagium. **Kitti's hog-nosed bat (bumblebee bat)** is the smallest mammal ($29–34\text{ mm}$); **Giant golden-crowned flying fox** has a wingspan of $1.7\text{ m}$. Indian Flying Fox is frugivorous, NOT sanguivorous.
+- **Honey**: Rich in **Levulose (Fructose, ~38%)** and Glucose (~31%); Karl von Frisch decoded round dance ($<50\text{ m}$) and waggle dance ($>50\text{ m}$).
+- **Bull Semen Cryopreservation**: Stored in **Liquid Nitrogen at $-196^\circ\text{C}$**.
+- **Diclofenac Vulture Ban (2006)**: Veterinary NSAID causing visceral gout and renal failure in *Gyps* vultures; banned in 2006; Ketoprofen & Aceclofenac banned in 2023.
 
 ## Complete PYQ Bank — UPPCS
 
@@ -1967,3 +1954,69 @@ D. Kaziranga National Park
 8. **Snake locomotion**: Snakes have no limbs; movement uses **ribs and ventral scales**, not "legs that folded away" as a living trait.
 9. **Bird bones**: Pneumatic (air-filled) bones reduce weight — do not mark them as "solid heavy bones".
 10. **Ruminant stomach**: Four chambers — rumen, reticulum, omasum, abomasum; **abomasum** is the true glandular stomach.
+
+
+---
+
+## Bilingual Terminology -- Animal Biology and Husbandry
+
+| English Term | Hindi Term | Key Anchor |
+|---|---|---|
+| **Vertebrate** (कशेरुकी) | कशेरुकी | Animals with a backbone/vertebral column |
+| **Invertebrate** (अकशेरुकी) | अकशेरुकी | Animals without a backbone (insects, worms, molluscs) |
+| **Mammal** (स्तनधारी) | स्तनधारी | Warm-blooded; nurse young with milk; has hair/fur |
+| **Amphibian** (उभयचर) | उभयचर | Cold-blooded; live on land and water; moist skin; e.g., frog |
+| **Reptile** (सरीसृप) | सरीसृप | Cold-blooded; dry scaly skin; lay eggs on land; e.g., lizard |
+| **Poikilotherm** (असमतापी) | असमतापी / शीतरक्तीय | Variable body temperature (cold-blooded); fish, amphibians, reptiles |
+| **Homeotherm** (समतापी) | समतापी / उष्णरक्तीय | Constant body temperature (warm-blooded); birds and mammals |
+| **Ruminant** (जुगाली करने वाला) | रोमन्थी | Herbivore with 4-chambered stomach; e.g., cow, buffalo, goat |
+| **Husbandry** (पशुपालन) | पशुपालन | Rearing and breeding of animals for agricultural/commercial purpose |
+| **Apiculture** (मधुमक्खी पालन) | मधुमक्खी पालन | Rearing honey bees for honey and wax |
+| **Sericulture** (रेशम उत्पादन) | रेशम उत्पादन / सेरीकल्चर | Rearing silkworms for silk; Bombyx mori is common silk moth |
+| **Pisciculture** (मत्स्य पालन) | मत्स्य पालन | Cultivation of fish in tanks/ponds |
+| **Poultry** (कुक्कुट पालन) | कुक्कुट पालन | Rearing birds (hen, duck, turkey) for eggs and meat |
+| **Lac Culture** (लाख उत्पादन) | लाख पालन | Rearing Kerria lacca insect for lac/shellac resin |
+| **Pisces** (मत्स्य) | मत्स्य | Fish class; ectothermic; breathe through gills; 2-chambered heart |
+| **Aves** (पक्षी) | पक्षी | Birds; warm-blooded; pneumatic bones; 4-chambered heart; feathers |
+| **Exoskeleton** (बाह्य कंकाल) | बाह्यकंकाल | Hard outer covering of insects, crustaceans (chitin in arthropods) |
+| **Metamorphosis** (कायांतरण) | कायांतरण | Transformation from larva to adult (egg-larva-pupa-adult) |
+| **Parthenogenesis** (अनिषेकजनन) | अनिषेकजनन | Development from unfertilised egg; drone bees develop this way |
+| **Zoonosis** (जूनोसिस) | जूनोटिक रोग | Disease transmissible from animals to humans; e.g., rabies, plague |
+
+---
+
+## One-Liner Revision -- Animal Biology and Husbandry
+
+| # | Fast Fact |
+|---|---|
+| 1 | Largest animal = Blue whale (Balaenoptera musculus) |
+| 2 | Fastest land animal = Cheetah (~120 km/h) |
+| 3 | Largest land animal = African elephant |
+| 4 | Tallest animal = Giraffe |
+| 5 | Only mammal to fly = Bat (Order Chiroptera) |
+| 6 | Mammals that lay eggs (Monotremes) = Duck-billed platypus + Echidna |
+| 7 | 4-chambered heart = Mammals, Birds, Crocodile |
+| 8 | 3-chambered heart = Most amphibians and reptiles |
+| 9 | 2-chambered heart = Fish (Pisces) |
+| 10 | Ruminant stomach chambers: Rumen, Reticulum, Omasum, Abomasum |
+| 11 | Largest egg (non-extinct) = Ostrich egg |
+| 12 | Silk from = **Bombyx mori** (mulberry silkworm) |
+| 13 | Lac produced by = **Kerria lacca** (lac insect) |
+| 14 | Honey bee: Queen = fertilised egg; Drone = **unfertilised egg** (parthenogenesis) |
+| 15 | Largest bee colony queen = **Queen bee** (lives 3-5 years); Workers live 6 weeks |
+| 16 | Pearl produced by = Oyster (Mollusca) -- NOT an insect product |
+| 17 | Coral = formed by **polyps** (phylum Cnidaria); calcium carbonate exoskeleton |
+| 18 | Sponges = phylum Porifera; simplest multicellular animals; no tissues |
+| 19 | Earthworm = hermaphrodite; no legs; locomotion by setae (bristles) |
+| 20 | Starfish (Sea star) = NOT a true fish; phylum Echinodermata |
+| 21 | Whale = mammal (not fish); breathes air; warm-blooded |
+| 22 | Bat = mammal; only true flying mammal; uses echolocation (ultrasound) |
+| 23 | Snake has no legs; moves using ribs + ventral scales; no eyelids |
+| 24 | Chameleon = changes colour for temperature regulation + communication |
+| 25 | India's only ape = **Hoolock Gibbon** (NE India; Assam) |
+| 26 | National Animal of India = **Bengal Tiger** (Panthera tigris tigris) |
+| 27 | Asiatic Lion = found ONLY in **Gir Forest, Gujarat** |
+| 28 | One-horned Rhinoceros = **Kaziranga NP, Assam** |
+| 29 | Project Tiger launched = **1973** (first reserve = Jim Corbett NP) |
+| 30 | Amphibians = first vertebrates to live on land; "biological thermometers" of ecosystem |
+

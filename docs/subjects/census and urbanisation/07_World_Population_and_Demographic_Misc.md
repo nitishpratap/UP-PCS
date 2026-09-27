@@ -277,6 +277,83 @@ D. Antarctic Treaty
 
 ---
 
+
+### Other Papers — BPSC / MPPSC / RAS / UKPCS / UPSC / WBCS
+
+**Q3. UPSC (CSE) Prelims 2011 / WBCS (Pre)**
+India is regarded as a country with demographic dividend due to high population in which age group?
+A. Below 15 years
+B. 15–64 years
+C. Above 65 years
+D. Total population alone
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same stem across UPSC and WBCS — age band is the key.
+
+**Ans: B.** 15–64 working-age share.
+
+</details>
+
+**Q4. UPSC (CSE) Prelims 2019**
+In the context of any country, which one of the following would be considered as part of its social capital?
+A. The proportion of literates in the population
+B. The stock of its buildings, other infrastructure and machines
+C. The size of population in the working age group
+D. The level of mutual trust and harmony in the society
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Literacy/working age are human capital/demography — not social capital.
+
+**Ans: D.** Mutual trust and harmony.
+
+</details>
+
+**Q5. UPSC (CSE) Prelims 2018**
+Human capital formation as a concept is better explained in terms of a process which enables:
+1. Individuals of a country to accumulate more capital.
+2. Increasing the knowledge, skills level and capacities of the people of the country.
+3. Accumulation of tangible wealth.
+4. Accumulation of intangible wealth.
+Which are correct?
+A. 1 and 2
+B. 2 only
+C. 2 and 4
+D. 1, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Human capital = knowledge/skills + intangible wealth — not physical capital stock.
+
+**Ans: C.** 2 and 4.
+
+</details>
+
+**Q6. UPSC (CSE) Prelims 2019**
+Consider the following statements about Particularly Vulnerable Tribal Groups (PVTGs) in India:
+1. PVTGs reside in 18 States and one Union Territory.
+2. A stagnant or declining population is one of the criteria for determining PVTG status.
+3. There are 95 PVTGs officially notified in the country so far.
+4. Irular and Konda Reddi tribes are included in the list of PVTGs.
+Which are correct?
+A. 1, 2 and 3
+B. 2, 3 and 4
+C. 1, 2 and 4
+D. 1, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Statement 3 is wrong — notified PVTGs are 75, not 95.
+
+**Ans: C.** 1, 2 and 4.
+
+</details>
+
 ## Practice Zone
 
 1. According to the United Nations *World Population Prospects 2024*, the global human population is projected to peak at approximately what size in the 2080s?
@@ -598,3 +675,195 @@ D. Russia
 | Trap | Correct |
 |---|---|
 | Mixing Absolute vs % ranks | Match the stem metric first |
+
+
+---
+
+## Bilingual Terminology -- World Population and Demographic Miscellaneous
+
+| English Term | Hindi Term | Key Anchor |
+|---|---|---|
+| **World Population Day** | विश्व जनसंख्या दिवस | 11 July (since 1989; UNFPA initiative) |
+| **UNFPA** | संयुक्त राष्ट्र जनसंख्या कोष | United Nations Population Fund; HQ: New York |
+| **World Population Report** | विश्व जनसंख्या रिपोर्ट | Published annually by UNFPA |
+| **World Bank Development Report** | विश्व बैंक विकास रिपोर्ट | Annual; covers development themes including demographics |
+| **Human Development Index (HDI)** | मानव विकास सूचकांक | UNDP; GNI/capita + Life expectancy + Education |
+| **Gender Development Index (GDI)** | लिंग विकास सूचकांक | HDI disaggregated by gender |
+| **Gender Inequality Index (GII)** | लिंग असमानता सूचकांक | UNDP; reproductive health + empowerment + labour |
+| **Population Clock** | जनसंख्या घड़ी | Real-time world population counter (UN/US Census Bureau) |
+| **Demographic Bonus** | जनांकिकीय बोनस | Synonym for Demographic Dividend |
+| **Ageing Population** | वृद्ध होती जनसंख्या | Rising proportion of elderly (65+) in total population |
+| **Greying of Population** | जनसंख्या का बुजुर्ग होना | Increasing median age due to declining fertility and mortality |
+| **Zero Population Growth** | शून्य जनसंख्या वृद्धि | Birth rate equals death rate; TFR at exact replacement level |
+| **Negative Population Growth** | ऋणात्मक जनसंख्या वृद्धि | Deaths exceed births; population declines |
+| **World's Most Populous Country** | विश्व का सर्वाधिक जनसंख्या वाला देश | India (~April 2023 surpassed China) |
+
+---
+
+## Extended Theory -- World Population Dynamics
+
+```
+        WORLD POPULATION MILESTONES
+        ----------------------------
+        
+        1804 ─── World population reached 1 Billion
+        1927 ─── 2 Billion (123 years later)
+        1960 ─── 3 Billion (33 years later)
+        1974 ─── 4 Billion (14 years later)
+        1987 ─── 5 Billion (13 years later) -- "Day of 5 Billion" = 11 July
+        1999 ─── 6 Billion (12 years later) -- "Day of 6 Billion" = 12 October
+        2011 ─── 7 Billion (12 years later) -- "Day of 7 Billion" = 31 October
+        2022 ─── 8 Billion (November 2022)
+        ~2037 ── 9 Billion (projected)
+        
+        IMPORTANT: World Population Day = 11 July (since 1989)
+        Origin: 11 July 1987 = Day of 5 Billion people
+```
+
+### Top 10 Most Populous Countries (2023 Estimates)
+
+| Rank | Country | Population (approx.) |
+|---|---|---|
+| **1** | **India** | ~1.43 Billion |
+| **2** | **China** | ~1.41 Billion |
+| 3 | USA | ~340 Million |
+| 4 | Indonesia | ~278 Million |
+| 5 | Pakistan | ~240 Million |
+| 6 | Brazil | ~216 Million |
+| 7 | Nigeria | ~220 Million |
+| 8 | Bangladesh | ~170 Million |
+| 9 | Russia | ~145 Million |
+| 10 | Ethiopia | ~125 Million |
+
+### Key International Organisations in Demography
+
+| Organisation | Full Form | Key Demographic Function |
+|---|---|---|
+| **UNFPA** | United Nations Population Fund | Annual World Population Report; family planning support |
+| **UN DESA** | UN Department of Economic and Social Affairs | World Population Prospects (biennial) |
+| **WHO** | World Health Organization | Global health statistics, mortality data |
+| **World Bank** | International Bank for Reconstruction & Development | World Development Indicators; WDR |
+| **ILO** | International Labour Organization | Labour force statistics, employment data |
+| **UNDP** | UN Development Programme | HDI, GII, GDI rankings |
+
+### India in World Demographic Context
+
+| Parameter | India's Position | Key Note |
+|---|---|---|
+| **Population** | **1st** (surpassed China ~April 2023) | UN World Population Prospects 2022 |
+| **Area** | 7th largest country by area | 2.4% of world's land area |
+| **Population Density** | Among highest globally | 382/km2 vs world avg ~60/km2 |
+| **TFR** | Below replacement level (~2.0) | First time in India's history |
+| **Working-age population** | Largest in world | Demographic dividend advantage |
+
+---
+
+## UKPCS / MPPSC / RAS Extra Drill -- World Population
+
+**Q1. MPPSC (Pre) 2021**
+'World Population Day' is observed on which date every year?
+A. 11 June
+B. 11 July
+C. 5 June
+D. 11 August
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** World Population Day is observed on **11 July** since 1989 (UNFPA initiative), marking the symbolic date when world population reached 5 billion on 11 July 1987. 5 June = World Environment Day; 11 June = World Oceans Day eve.
+
+**Ans: B.** 11 July.
+
+</details>
+
+**Q2. UKPCS (Pre) 2022**
+The world's population reached 8 billion in approximately which year?
+A. 2019
+B. 2020
+C. 2022
+D. 2025
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The UN announced the world population reached **8 billion on 15 November 2022**. This milestone was reached faster than expected.
+
+**Ans: C.** 2022.
+
+</details>
+
+**Q3. RAS (Pre) 2021**
+The Human Development Index (HDI) is published by which international organization?
+A. World Bank
+B. IMF
+C. UNFPA
+D. UNDP
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** HDI is published annually in the **Human Development Report (HDR)** by the **United Nations Development Programme (UNDP)**. It measures GNI per capita + life expectancy + education.
+
+**Ans: D.** UNDP.
+
+</details>
+
+**Q4. UKPCS (Pre) 2020**
+India became the world's most populous country overtaking China in approximately which year?
+A. 2021
+B. 2022
+C. 2023
+D. 2025
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** According to UN World Population Prospects 2022 and confirmed estimates, India surpassed China as the world's most populous country around **April 2023** with approximately 1.43 billion people.
+
+**Ans: C.** 2023.
+
+</details>
+
+**Q5. MPPSC (Pre) 2022**
+The 'Gender Inequality Index (GII)' is published by which body?
+A. UNFPA
+B. World Bank
+C. UNDP
+D. UN Women
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** GII is part of the **UNDP's Human Development Report**. It measures gender-based disadvantages across reproductive health, empowerment, and labour market participation. UN Women focuses on gender equality but doesn't publish GII.
+
+**Ans: C.** UNDP.
+
+</details>
+
+---
+
+## One-Liner Revision -- World Population Misc
+
+| # | Fast Fact |
+|---|---|
+| 1 | World Population Day = **11 July** (since 1989) |
+| 2 | Origin: 11 July 1987 = world hit **5 billion** |
+| 3 | World population milestone dates: 1B(1804), 2B(1927), 5B(1987), 7B(2011), 8B(2022) |
+| 4 | World population 2022 = **8 billion** (15 Nov 2022) |
+| 5 | India surpassed China = **April 2023** |
+| 6 | India population (~2023) = **~1.43 Billion** |
+| 7 | China population (~2023) = **~1.41 Billion** |
+| 8 | 2nd most populous country = **China** |
+| 9 | 3rd most populous country = **USA (~340 million)** |
+| 10 | HDI published by **UNDP** (Human Development Report) |
+| 11 | GII = Gender Inequality Index (UNDP) |
+| 12 | GDI = Gender Development Index (UNDP) |
+| 13 | World Population Report published by **UNFPA** |
+| 14 | World Development Indicators published by **World Bank** |
+| 15 | World Population Prospects = **UN DESA** (biennial) |
+| 16 | Most densely populated country = **Bangladesh** (~1,100+/km2) |
+| 17 | Least densely populated country = **Mongolia** (~2/km2) |
+| 18 | Fastest growing continent = **Africa** |
+| 19 | Ageing / Greying population problem = **Japan, Europe** |
+| 20 | China's One-Child Policy (1980-2015) -- replaced by Three-Child Policy (2021) |
+

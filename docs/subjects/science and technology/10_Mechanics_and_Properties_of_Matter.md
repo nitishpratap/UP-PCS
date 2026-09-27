@@ -26,7 +26,8 @@
 
 ---
 
-## Consolidated — 60 Must-Score Facts
+## Consolidated — 50 Must-Score Facts
+
 1. **Brahmagupta's Precedence**: 7th-century astronomer Brahmagupta (*Brahmasphuta Siddhanta*) stated that all bodies gravitate toward Earth long before Newton.
 2. **Definition of Speed**: Galileo Galilei was the first to define speed mathematically as distance per unit time ($v = d/t$).
 3. **Mass vs Weight**: Mass ($kg$, scalar, constant everywhere) measures inertia. Weight ($N$, vector, $W = mg$) depends on local gravitational acceleration.
@@ -77,19 +78,8 @@
 48. **Two Connected Soap Bubbles**: When connected by a tube, air flows from the smaller bubble (higher pressure $\Delta P \propto 1/R$) to the larger bubble; the **smaller bubble shrinks and the larger bubble grows**.
 49. **Charging a Soap Bubble**: Placing an electric charge (positive or negative) on a soap bubble causes mutual electrostatic repulsion, causing its **radius to expand**.
 50. **Capillarity (Capillary Action)**: Rise or fall of liquids in narrow tubes. Liquids that wet glass (contact angle $<90^\circ$, e.g. water) rise; liquids that do not wet glass (contact angle $>90^\circ$, e.g. mercury) show capillary depression.
-51. **Everyday Capillarity Examples**: Oil rising in lamp wicks, ink absorption by blotting paper, ink flow in fountain pen nibs, water spreading in cotton towels. (Note: Drinking through a straw requires mouth suction, NOT capillarity!).
-52. **Water Transport in Tall Trees**: Capillarity alone is insufficient; water ascends tall trees primarily due to **transpiration pull and cohesive-adhesive water columns in xylem**.
-53. **Viscosity**: Internal friction opposing relative motion between adjacent fluid layers. Streamlined flow in a pipe has zero velocity at the walls and **maximum velocity along the central axis**.
-54. **Temperature Effect on Viscosity**: Viscosity of **liquids decreases** with rising temperature (molecular kinetic energy overcomes cohesion). Viscosity of **gases increases** with rising temperature (increased molecular collisions).
-55. **Relative Viscosity Hierarchy**: **Honey $>$ Glycerine $>$ Blood $>$ Water $>$ Air**.
-56. **Torricelli's Law of Efflux**: Velocity of liquid exiting an orifice at depth $h$ is $v = \sqrt{2gh}$. The hole at the greatest depth throws water the farthest.
-57. **Pascal's Law**: Pressure applied to a confined liquid is transmitted undiminished in all directions. Basis of hydraulic brakes, hydraulic presses, and hydraulic lifts.
-58. **Archimedes' Principle**: An immersed body experiences an upward buoyant force equal to the **weight of the displaced fluid** acting at the center of buoyancy.
-59. **Floating Ice and Water Level**: An ice cube floating in water displaces water equal to its weight. When it melts, the water level in the beaker **remains completely unchanged**.
-60. **Ship Entering Sea from River**: Because salty sea water is denser than fresh river water, it exerts greater buoyant upthrust, causing the ship to **rise slightly**.
 
 ---
-
 ## Confused Pairs
 | Pairs / Concepts | Critical Distinction & Trap Alert |
 |---|---|
@@ -294,6 +284,20 @@
 | **Leaking fountain pen in airplane** | Atmospheric cabin pressure drops at high altitude while ink reservoir pressure remains high. | Ink is forced out of the pen nib. |
 
 ---
+
+
+## Teaching expansion — additional theory (beyond Consolidated spine)
+
+These points sit in teaching theory (not the Consolidated spine).
+
+- **Everyday Capillarity Examples**: Oil rising in lamp wicks, ink absorption by blotting paper, ink flow in fountain pen nibs, water spreading in cotton towels. (Note: Drinking through a straw requires mouth suction, NOT capillarity!).
+- **Water Transport in Tall Trees**: Capillarity alone is insufficient; water ascends tall trees primarily due to **transpiration pull and cohesive-adhesive water columns in xylem**.
+- **Temperature Effect on Viscosity**: Viscosity of **liquids decreases** with rising temperature (molecular kinetic energy overcomes cohesion). Viscosity of **gases increases** with rising temperature (increased molecular collisions).
+- **Relative Viscosity Hierarchy**: **Honey $>$ Glycerine $>$ Blood $>$ Water $>$ Air**.
+- **Torricelli's Law of Efflux**: Velocity of liquid exiting an orifice at depth $h$ is $v = \sqrt{2gh}$. The hole at the greatest depth throws water the farthest.
+- **Archimedes' Principle**: An immersed body experiences an upward buoyant force equal to the **weight of the displaced fluid** acting at the center of buoyancy.
+- **Floating Ice and Water Level**: An ice cube floating in water displaces water equal to its weight. When it melts, the water level in the beaker **remains completely unchanged**.
+- **Ship Entering Sea from River**: Because salty sea water is denser than fresh river water, it exerts greater buoyant upthrust, causing the ship to **rise slightly**.
 
 ## Complete PYQ Bank — UPPCS
 
@@ -1702,3 +1706,67 @@ Increasing container volume allows gas molecules to disperse over greater space.
 8. **Surface Tension on Charging**: Charging a bubble makes it **expand** (radius increases) due to electrostatic repulsion.
 9. **Iceberg Floating Fractions**: In pure freshwater, $1/10\text{th}$ is above surface ($90\%$ submerged). In denser seawater, $\approx 1/9\text{th}$ is above surface ($89\%$ submerged).
 10. **Iron Needle Floatation**: An iron needle floats on water due to **surface tension**, NOT Archimedes' buoyant force!
+
+
+---
+
+## Bilingual Terminology -- Mechanics and Properties of Matter
+
+| English Term | Hindi Term | Key Anchor |
+|---|---|---|
+| **Force** (बल) | बल | Push or pull causing acceleration; SI unit = Newton (N) |
+| **Newton's Laws** (न्यूटन के नियम) | गति के नियम | 3 laws governing motion and force relationships |
+| **Inertia** (जड़त्व) | जड़त्व | Tendency of object to resist change in its state of motion |
+| **Momentum** (संवेग) | संवेग | Mass x Velocity; p = mv; conserved in absence of external force |
+| **Friction** (घर्षण) | घर्षण | Resistive force between surfaces in contact |
+| **Gravity / Gravitation** (गुरुत्वाकर्षण) | गुरुत्वाकर्षण | Attractive force between masses; Newton's Law of Gravitation |
+| **Weight** (भार) | भार | Gravitational force on object; W = mg; varies with location |
+| **Mass** (द्रव्यमान) | द्रव्यमान | Amount of matter; constant everywhere; SI unit = kg |
+| **Pressure** (दाब) | दाब | Force per unit area; P = F/A; SI unit = Pascal (Pa) |
+| **Buoyancy** (उत्प्लावकता) | उत्प्लावकता | Upward force on object immersed in fluid; Archimedes' Principle |
+| **Archimedes' Principle** (आर्किमिडीज का सिद्धांत) | आर्किमिडीज का नियम | Upthrust = weight of fluid displaced |
+| **Pascal's Law** (पास्कल का नियम) | पास्कल का नियम | Pressure applied to enclosed fluid = transmitted equally in all directions |
+| **Bernoulli's Principle** (बर्नूली का सिद्धांत) | बर्नूली का सिद्धांत | Faster fluid flow = lower pressure; explains flight, carburetor, venturimeter |
+| **Surface Tension** (पृष्ठ तनाव) | पृष्ठ तनाव | Tendency of liquid surface to contract; insects walk on water |
+| **Viscosity** (श्यानता) | श्यानता | Resistance of liquid to flow; honey > water; decreases with temp |
+| **Elasticity** (प्रत्यास्थता) | प्रत्यास्थता | Ability to return to original shape after deforming force removed |
+| **Hooke's Law** (हुक का नियम) | हुक का नियम | Stress proportional to strain within elastic limit |
+| **Torque** (बल-आघूर्ण) | बल-आघूर्ण | Rotational equivalent of force; T = F x r (moment arm) |
+
+---
+
+## One-Liner Revision -- Mechanics and Properties of Matter
+
+| # | Fast Fact |
+|---|---|
+| 1 | Newton's 1st Law = Law of **Inertia** (object at rest stays at rest) |
+| 2 | Newton's 2nd Law = F = ma (Force = mass x acceleration) |
+| 3 | Newton's 3rd Law = For every action, there is equal and opposite **reaction** |
+| 4 | 1 Newton = force that accelerates 1 kg mass by 1 m/s2 |
+| 5 | Momentum (p) = m x v; Law of Conservation of Momentum |
+| 6 | Impulse = Force x Time = change in momentum |
+| 7 | g (acceleration due to gravity) = 9.8 m/s2 on Earth's surface |
+| 8 | g is maximum at poles; minimum at equator (due to Earth's shape) |
+| 9 | g decreases with altitude and depth (both) |
+| 10 | Weight = 0 in free fall / space (apparent weightlessness) |
+| 11 | Escape velocity from Earth = **11.2 km/s** |
+| 12 | Orbital velocity (LEO) = ~7.9 km/s |
+| 13 | Archimedes' Principle: Upthrust = weight of fluid displaced |
+| 14 | A body floats if its average density <= density of fluid |
+| 15 | Density of water = 1000 kg/m3 (1 g/cm3); ice floats (density ~917 kg/m3) |
+| 16 | Pascal's Law: basis of hydraulic press, brakes, jacks |
+| 17 | Bernoulli's Principle: explains airplane wing lift, atomizer, carburetor |
+| 18 | Surface tension: water meniscus, capillarity, insects on water, dew drops |
+| 19 | Viscosity decreases with temperature (liquids); increases for gases |
+| 20 | Rolling friction < Sliding friction < Static friction |
+| 21 | Friction is useful: walking, brakes, writing; harmful: wear of machine parts |
+| 22 | Centre of Gravity = point where entire weight appears to act |
+| 23 | Centripetal force = mv2/r (directed towards centre of circular motion) |
+| 24 | Centrifuge separates components based on density difference (cream from milk) |
+| 25 | Hooke's Law: stress = E x strain (E = Young's modulus); within elastic limit |
+| 26 | Elasticity: rubber > steel? No! Steel has **higher** Young's modulus (more elastic by physics definition) |
+| 27 | Pressure at depth h in liquid: P = rho x g x h |
+| 28 | Ball pen works on: capillary action + gravity |
+| 29 | Geostationary orbit = 35,786 km above equator; orbital period = 24 hours |
+| 30 | Kepler's 3rd Law: T2 is proportional to a3 (period2 proportional to semi-major axis3) |
+

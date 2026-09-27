@@ -1648,3 +1648,65 @@ Which of the statements given above are correct?
    - Enrico Fermi attempted to synthesize transuranics in 1934 but failed. The synthesis of transuranic elements ($Z > 92$) was achieved by **Glenn T. Seaborg**.
 5. **The "Cyclotrons Accelerate Neutrons" Trap:**
    - A cyclotron relies on the electromagnetic Lorentz force ($\vec{F} = q(\vec{E} + \vec{v} \times \vec{B})$). Because neutrons have **zero electric charge ($q=0$)**, they **cannot be accelerated by a cyclotron**.
+
+
+---
+
+## Bilingual Terminology -- Nuclear and Atomic Physics
+
+| English Term | Hindi Term | Key Anchor |
+|---|---|---|
+| **Atom** (परमाणु) | परमाणु | Smallest unit of element that retains chemical properties |
+| **Nucleus** (नाभिक) | नाभिक | Core of atom; protons + neutrons; positively charged; tiny (10^-15 m) |
+| **Proton** (प्रोटॉन) | प्रोटॉन | Positive charge (+1); in nucleus; mass = 1.67 x 10^-27 kg |
+| **Neutron** (न्यूट्रॉन) | न्यूट्रॉन | No charge; in nucleus; slightly heavier than proton |
+| **Electron** (इलेक्ट्रॉन) | इलेक्ट्रॉन | Negative charge (-1); orbits nucleus; mass ~1/1836 of proton |
+| **Atomic Number (Z)** (परमाणु क्रमांक) | परमाणु संख्या | Number of protons; defines the element |
+| **Mass Number (A)** (द्रव्यमान संख्या) | द्रव्यमान संख्या | Protons + Neutrons (nucleons) |
+| **Isotope** (समस्थानिक) | समस्थानिक | Same Z, different A; same element, different neutrons; e.g., U-235 and U-238 |
+| **Radioactivity** (रेडियोधर्मिता) | रेडियोधर्मिता | Spontaneous emission of radiation from unstable nuclei; discovered by Becquerel (1896) |
+| **Alpha Particle** (अल्फा कण) | अल्फा कण | Helium nucleus (2p + 2n); least penetrating; stopped by paper |
+| **Beta Particle** (बीटा कण) | बीटा कण | High-speed electron/positron; more penetrating; stopped by aluminium sheet |
+| **Gamma Ray** (गामा किरण) | गामा किरण | Electromagnetic radiation; most penetrating; stopped by thick lead/concrete |
+| **Half-Life** (अर्ध आयु) | अर्ध-जीवन | Time for half the radioactive atoms to decay |
+| **Nuclear Fission** (नाभिकीय विखण्डन) | परमाणु विखंडन | Heavy nucleus splits; e.g., U-235 + neutron; huge energy; basis of atom bomb |
+| **Nuclear Fusion** (नाभिकीय संलयन) | परमाणु संलयन | Light nuclei combine; e.g., H+H = He; basis of H-bomb; powers the Sun |
+| **Chain Reaction** (श्रृंखला अभिक्रिया) | श्रृंखला अभिक्रिया | Fission releases neutrons -> more fission -> self-sustaining; critical mass needed |
+
+---
+
+## One-Liner Revision -- Nuclear and Atomic Physics
+
+| # | Fast Fact |
+|---|---|
+| 1 | Radioactivity discovered by = **Henri Becquerel (1896)**; Nobel 1903 (with Curies) |
+| 2 | Marie Curie = discovered Polonium and Radium; 2 Nobel Prizes (1903 Physics, 1911 Chemistry) |
+| 3 | Rutherford's nuclear model = nucleus-centred atom; alpha scattering experiment (1909) |
+| 4 | Bohr's model = electrons in fixed orbits (energy shells); explains hydrogen spectrum |
+| 5 | Electron discovered = **J.J. Thomson (1897)**; cathode ray tube experiment |
+| 6 | Proton discovered = **Ernest Rutherford (1917)**; Nobel 1908 |
+| 7 | Neutron discovered = **James Chadwick (1932)**; Nobel 1935 |
+| 8 | Positron (anti-electron) discovered = **Carl Anderson (1932)**; Nobel 1936 |
+| 9 | Atomic number (Z) = number of **protons**; unique to each element |
+| 10 | Mass number (A) = protons + neutrons; isotopes have same Z, different A |
+| 11 | Alpha particles: stopped by **paper / skin**; most ionising; dangerous if inhaled |
+| 12 | Beta particles: stopped by **aluminium sheet** (few mm) |
+| 13 | Gamma rays: stopped by **thick lead** (several cm) or thick concrete |
+| 14 | Half-life of C-14 = **5730 years** (radiocarbon dating of organic matter) |
+| 15 | Half-life of U-235 = 700 million years; U-238 = 4.5 billion years |
+| 16 | Nuclear fission: U-235 + neutron -> Ba + Kr + 3 neutrons + 200 MeV |
+| 17 | Critical mass = minimum fissile material for self-sustaining chain reaction |
+| 18 | Atom bomb (Little Boy) = U-235; (Fat Man) = Pu-239 (Nagasaki/Hiroshima, 1945) |
+| 19 | Nuclear fusion: D + T -> He-4 + neutron + 17.6 MeV; requires >10^7 K |
+| 20 | Hydrogen bomb (thermonuclear bomb) = fusion bomb; triggered by fission bomb |
+| 21 | Einstein's mass-energy equivalence: E = mc^2 |
+| 22 | Nuclear reactor: controlled fission; moderator (heavy water/graphite) slows neutrons |
+| 23 | India's 1st nuclear test = **Pokhran (1974)**; "Smiling Buddha" |
+| 24 | India's 2nd nuclear test = **Pokhran-II (1998)**; "Operation Shakti" |
+| 25 | India's nuclear doctrine = **No First Use (NFU)** + credible minimum deterrence |
+| 26 | Chernobyl disaster (1986) = RBMK reactor explosion; Ukraine (Soviet Union) |
+| 27 | Fukushima disaster (2011) = tsunami-induced meltdown; Japan |
+| 28 | ITER project = International Thermonuclear Experimental Reactor; France; fusion experiment |
+| 29 | Radiocarbon dating = measures C-14 decay; used for dating up to ~50,000 years |
+| 30 | X-rays discovered = **Wilhelm Roentgen (1895)**; Nobel 1901 (first ever) |
+

@@ -393,6 +393,41 @@ D. Meerut–Ghaziabad belt
 
 ---
 
+
+### Other Papers — BPSC / MPPSC / RAS / UKPCS / UPSC / WBCS
+
+**Q2. RPSC RAS (Pre) 2021**
+According to Census 2011, what was the work participation rate in India and Rajasthan respectively?
+A. 43.6% and 41.8%
+B. 39.8% and 43.6%
+C. 42.4% and 41.8%
+D. 39.8% and 36.4%
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Labour participation comparative for economy Extra Drill.
+
+**Ans: B.** 39.8% (India), 43.6% (Rajasthan).
+
+</details>
+
+**Q3. UPSC (CSE) Prelims 2013**
+To obtain full benefits of demographic dividend, what should India do?
+A. Promoting skill development
+B. Introducing more social security schemes
+C. Reducing infant mortality rate
+D. Privatization of higher education
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Economy lever that converts age-structure into growth.
+
+**Ans: A.** Promoting skill development.
+
+</details>
+
 ## Practice Zone
 
 1. The flagship 'One District One Product' (ODOP) scheme was officially inaugurated by the Government of Uttar Pradesh on which date?
@@ -686,3 +721,157 @@ D. Meerut–Ghaziabad belt
 | Trap | Correct |
 |---|---|
 | Mixing Absolute vs % ranks | Match the stem metric first |
+
+
+---
+
+## Bilingual Terminology -- UP Economy
+
+| English | Hindi | Key Anchor |
+|---|---|---|
+| **GSDP** | राज्य सकल घरेलू उत्पाद | Gross State Domestic Product -- UP ~2nd largest economy |
+| **MSMEs** | सूक्ष्म, लघु और मध्यम उद्यम | Micro, Small and Medium Enterprises |
+| **MSME Cluster** | MSME क्लस्टर | Agglomeration of similar industries (Moradabad brass, Varanasi silk) |
+| **Moradabad Brass Work** | मुरादाबाद का पीतल उद्योग | Largest brass ware export cluster in India |
+| **Varanasi Silk** | वाराणसी का रेशमी वस्त्र | Banarasi silk sarees; GI tag |
+| **Firozabad Glass** | फिरोजाबाद का कांच उद्योग | Bangles and glassware capital of India |
+| **Agra Leather** | आगरा का चमड़ा उद्योग | Major footwear export hub (Agra, Kanpur) |
+| **Lucknow Chikankari** | लखनऊ की चिकनकारी | GI-tagged delicate embroidery work |
+| **Aligarh Lock Industry** | अलीगढ़ ताला उद्योग | World's largest lock manufacturing cluster |
+| **Gorakhpur Terracotta** | गोरखपुर की टेराकोटा | Traditional fired-clay craft; Gorakhpur district |
+| **UP ODOP** | एक जिला एक उत्पाद | One District One Product scheme (launched 2018) |
+| **UP Industrial Policy** | उत्तर प्रदेश औद्योगिक नीति | Ease of doing business reforms; investment summits |
+| **Noida** | नोयडा | New Okhla Industrial Development Authority; IT/Electronics hub |
+| **YEIDA** | यमुना एक्सप्रेसवे औद्योगिक विकास प्राधिकरण | Yamuna Expressway Industrial Development Authority |
+| **Film City (Noida)** | नोयडा फिल्म सिटी | Asia's largest proposed integrated media production hub |
+
+---
+
+## Extended Theory -- UP's Economic Profile
+
+```
+        UP ECONOMY -- KEY SECTORS (Approx. % GSDP)
+        ─────────────────────────────────────────────
+        
+        Agriculture + Allied: ~20-22%
+        ├─ Sugarcane (largest producer in India)
+        ├─ Wheat (2nd largest producer)
+        ├─ Potato (largest producer)
+        └─ Milk production (largest in India)
+        
+        Industry: ~25-28%
+        ├─ Sugar mills (largest number in India)
+        ├─ Leather goods (Agra, Kanpur)
+        ├─ Electronics/IT (Noida, Lucknow)
+        └─ Textiles (Varanasi silk, Lucknow chikankari)
+        
+        Services: ~50-52%
+        ├─ IT services (Noida tech corridor)
+        ├─ Tourism (Agra, Varanasi, Prayagraj)
+        └─ Banking and trade
+```
+
+### Major Industries and GI Tags of UP
+
+| Industry / Product | Location | Key Fact |
+|---|---|---|
+| **Brass ware** | Moradabad | "Peetal Nagari"; largest export cluster |
+| **Glass bangles** | Firozabad | "Suhag Nagari"; 80%+ of India's bangles |
+| **Leather goods** | Agra, Kanpur | Agra = footwear; Kanpur = leather goods |
+| **Silk sarees** | Varanasi | Banarasi silk = GI tag; UNESCO recognition |
+| **Chikankari** | Lucknow | GI tag; 30+ types of embroidery stitches |
+| **Lock making** | Aligarh | 50%+ of India's padlocks |
+| **Carpet weaving** | Bhadohi, Mirzapur | "Carpet City"; major export |
+| **Terracotta** | Gorakhpur | Distinctive black-clay figurines |
+| **Zardozi** | Lucknow, Varanasi | Gold/silver thread embroidery; GI tag |
+| **Khurja pottery** | Bulandshahr | "Ceramic City"; glazed earthenware |
+
+### ODOP (One District One Product) -- Selected Examples
+
+| District | ODOP Product |
+|---|---|
+| Moradabad | Brass / Metal Craft |
+| Varanasi | Banarasi Silk / Handloom |
+| Lucknow | Chikankari |
+| Aligarh | Locks and Hardware |
+| Firozabad | Glass / Bangles |
+| Agra | Leather Footwear |
+| Bhadohi | Carpet |
+| Gorakhpur | Terracotta |
+| Kannauj | Perfume (Ittar) |
+| Bareilly | Zari-Zardozi |
+
+---
+
+## UKPCS / BPSC / MPPSC Extra Drill -- UP Economy
+
+**Q1. UKPCS (Pre) 2022**
+The 'One District One Product (ODOP)' scheme of Uttar Pradesh was launched in which year?
+A. 2015
+B. 2016
+C. 2018
+D. 2020
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The **ODOP scheme was launched by the UP government in January 2018** to promote traditional industries and crafts of each of the 75 districts, boost rural employment and exports.
+
+**Ans: C.** 2018.
+
+</details>
+
+**Q2. MPPSC (Pre) 2021**
+Which city of Uttar Pradesh is known as the "Peetal Nagari" (Brass City) and is the largest exporter of brass ware in India?
+A. Firozabad
+B. Aligarh
+C. Moradabad
+D. Kanpur
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** **Moradabad** is known as "Peetal Nagari" and is the world's largest exporter of brass handicrafts. It accounts for over 40% of India's total handicraft exports.
+
+**Ans: C.** Moradabad.
+
+</details>
+
+**Q3. BPSC-type**
+The city of Firozabad in UP is most famous for manufacturing which product?
+A. Carpet
+B. Lock making
+C. Glass bangles
+D. Silk sarees
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** **Firozabad** is nicknamed "Suhag Nagari" for its glass bangle industry. It produces over 80% of India's glass bangles. Aligarh = locks; Bhadohi = carpets; Varanasi = silk.
+
+**Ans: C.** Glass bangles.
+
+</details>
+
+---
+
+## One-Liner Revision -- UP Economy
+
+| # | Fast Fact |
+|---|---|
+| 1 | UP = 2nd largest State economy by GSDP (after Maharashtra) |
+| 2 | UP = largest sugarcane-producing State |
+| 3 | UP = largest sugar mill State (over 100 sugar mills) |
+| 4 | UP = largest potato-producing State |
+| 5 | UP = largest milk-producing State |
+| 6 | UP = 2nd largest wheat-producing State (after MP/Punjab) |
+| 7 | ODOP launched = **2018** (75 districts -- 75 products) |
+| 8 | Moradabad = **"Peetal Nagari"** (brass ware exports) |
+| 9 | Firozabad = **"Suhag Nagari"** (80%+ of India's bangles) |
+| 10 | Aligarh = **"Lock City"** (50%+ India's padlocks) |
+| 11 | Kanpur = leather goods hub (second to Agra) |
+| 12 | Bhadohi/Mirzapur = **"Carpet City"** |
+| 13 | Noida = IT/Electronics corridor; part of NCR |
+| 14 | Lucknow = Chikankari (GI tag) + Zardozi embroidery |
+| 15 | Kannauj = **Ittar (perfume) city** of India |
+

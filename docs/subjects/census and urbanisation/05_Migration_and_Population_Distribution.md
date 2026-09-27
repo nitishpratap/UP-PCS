@@ -289,6 +289,93 @@ D. Migration – Ecesis – Reaction – Stabilisation
 
 ---
 
+
+### Other Papers — BPSC / MPPSC / RAS / UKPCS / UPSC / WBCS
+
+**Q5. UPSC (CSE) Prelims 2008**
+Among the following, which one has the minimum population on the basis of data of Census of India, 2001?
+A. Chandigarh
+B. Mizoram
+C. Puducherry
+D. Sikkim
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Least populous State; still the standard minimum-population trap.
+
+**Ans: D.** Sikkim.
+
+</details>
+
+**Q6. UPSC (CSE) Prelims 2007**
+Which one among the following States of India has the lowest density of population?
+A. Himachal Pradesh
+B. Meghalaya
+C. Arunachal Pradesh
+D. Sikkim
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same ranking survives into Census 2011 (~17/km²).
+
+**Ans: C.** Arunachal Pradesh.
+
+</details>
+
+**Q7. UPSC (CSE) Prelims 2008**
+Amongst the following States, which one has the highest percentage of rural population (Census 2001)?
+A. Himachal Pradesh
+B. Bihar
+C. Orissa
+D. Uttar Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Highest rural % among these — not Bihar (often confused with low urbanisation).
+
+**Ans: A.** Himachal Pradesh.
+
+</details>
+
+**Q8. UPSC (CSE) Prelims 2005**
+According to the Population Census 2001, which Indian State has the maximum population after Uttar Pradesh?
+A. West Bengal
+B. Maharashtra
+C. Bihar
+D. Tamil Nadu
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 2001 order: UP > Maharashtra > Bihar… — do not project 2011 Bihar rise into 2001 keys.
+
+**Ans: B.** Maharashtra.
+
+</details>
+
+**Q9. UPSC (CSE) Prelims 2006**
+Consider the following statements:
+1. Sikkim has the minimum area among the 28 Indian States (Delhi and Pondicherry not included).
+2. Chandigarh has the highest literacy rate among Pondicherry, NCT of Delhi and other Union Territories.
+3. Maharashtra has the highest population after Uttar Pradesh among the 28 Indian States.
+Which is/are correct?
+A. 1 and 2
+B. 2 and 3
+C. 1 only
+D. 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Goa is the smallest State by area, not Sikkim; statement 2 also fails the key.
+
+**Ans: D.** 3 only.
+
+</details>
+
 ## Practice Zone
 
 1. According to Ravenstein's Laws of Migration, which demographic group predominates in short-distance migration?
@@ -610,3 +697,197 @@ D. Dense equatorial rainforests
 | Trap | Correct |
 |---|---|
 | Mixing Absolute vs % ranks | Match the stem metric first |
+
+
+---
+
+## Bilingual Terminology -- Migration and Population Distribution
+
+| English Term | Hindi Term | Key Anchor |
+|---|---|---|
+| **Migration** (प्रवास) | प्रवास | Movement from place of origin to destination |
+| **In-Migration** (आंतरिक अंतःप्रवास) | अंतःप्रवास | Moving INTO a place/region from elsewhere within country |
+| **Out-Migration** (बाह्यप्रवास) | बाह्यप्रवास | Moving OUT OF a place/region to elsewhere within country |
+| **Immigration** (आप्रवास) | अप्रवासन | Entering a country from another country |
+| **Emigration** (उत्प्रवास) | उत्प्रवासन | Leaving one's country to settle in another |
+| **Refugee** (शरणार्थी) | शरणार्थी | Person forced to flee due to persecution, conflict |
+| **Internally Displaced Person (IDP)** | आंतरिक रूप से विस्थापित व्यक्ति | Displaced within national boundaries; not crossing borders |
+| **Brain Drain** (प्रतिभा पलायन) | प्रतिभा पलायन | Migration of skilled/educated people from developing to developed countries |
+| **Remittances** (प्रेषण) | प्रेषण/विप्रेषण | Money sent by migrants to home country/family |
+| **Push Factors** (बाहर धकेलने वाले कारक) | प्रतिकर्षण कारक | Factors forcing people to leave origin (poverty, drought, unemployment) |
+| **Pull Factors** (खींचने वाले कारक) | अपकर्षण कारक | Factors attracting migrants to destination (jobs, facilities, education) |
+| **Seasonal Migration** (मौसमी प्रवास) | मौसमी प्रवास | Short-term movement driven by agricultural seasons |
+| **Circular Migration** (चक्रीय प्रवास) | चक्रीय प्रवास | Regular to-and-fro migration between rural and urban areas |
+| **Net Migration** | शुद्ध प्रवास | In-migration minus out-migration for a given area |
+| **Ravenstein's Laws of Migration** | रेवेन्स्टीन के प्रवास नियम | Foundational rules: most migrants move short distances; migration proceeds step-by-step |
+
+---
+
+## Extended Theory -- Migration: Types, Causes, and India's Patterns
+
+```
+        MIGRATION CLASSIFICATION FRAMEWORK
+        ------------------------------------
+        
+        BY DIRECTION:
+        ┌──────────────────────────────────────────┐
+        │  INTERNAL MIGRATION (within country)      │
+        │  ┌───────────────┬───────────────────┐   │
+        │  │ Rural to Urban│ Urban to Rural    │   │
+        │  │ (DOMINANT)    │ (Retirement/CA)   │   │
+        │  └───────────────┴───────────────────┘   │
+        │  ┌───────────────┬───────────────────┐   │
+        │  │ Rural to Rural│ Urban to Urban    │   │
+        │  │ (Marriage/    │ (Job transfers)   │   │
+        │  │ Agricultural) │                   │   │
+        │  └───────────────┴───────────────────┘   │
+        │                                          │
+        │  INTERNATIONAL MIGRATION                 │
+        │  Immigration / Emigration                │
+        └──────────────────────────────────────────┘
+        
+        BY DURATION:
+        Permanent | Semi-permanent | Seasonal | Circular
+        
+        BY CAUSE:
+        Voluntary (economic, educational, marriage)
+        vs. Forced (conflict, disaster, persecution)
+```
+
+### India's Migration Patterns (Census 2011)
+
+| Migration Category | Key Facts (Census 2011) |
+|---|---|
+| **Total Migrants (lifetime)** | ~45.36 crore (~37% of total population) |
+| **Dominant stream** | Rural to Rural (most common -- marriage-driven, esp. women) |
+| **Fastest growing stream** | Rural to Urban (economic migration for employment) |
+| **Maharashtra** | Largest in-migration State -- Mumbai's pull |
+| **Delhi (NCT)** | Highest inter-state in-migration (relative density) |
+| **Uttar Pradesh** | Largest source State of out-migrants |
+| **Bihar** | 2nd largest source State of out-migrants |
+| **Rajasthan** | Major labour out-migration to Gujarat, Maharashtra |
+| **Kerala** | Highest remittance-receiving State from Gulf countries |
+| **Major causes in UP** | Lack of employment in eastern UP; agrarian distress; seasonal farm labour |
+| **Reverse migration** | During COVID-19 (2020): ~1 crore migrants returned to UP and Bihar |
+
+### Ravenstein's Laws of Migration (1885)
+
+1. Most migrants move **short distances**
+2. Migration proceeds **step-by-step** (small town → larger town → metropolis)
+3. Migrants moving long distances prefer **large urban centres**
+4. **Urban dwellers migrate less** than rural dwellers
+5. **Women migrate more** than men for marriage (over short distances)
+6. **Economic motives** dominate voluntary migration
+7. Migration increases with **development of transport**
+
+---
+
+## UKPCS / MPPSC / RAS Extra Drill -- Migration
+
+**Q1. UKPCS (Pre) 2021**
+Which of the following is the most dominant stream of internal migration in India as per Census 2011?
+A. Urban to Urban
+B. Rural to Urban
+C. Rural to Rural
+D. Urban to Rural
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Rural to Rural is the most dominant stream by volume (mostly women migrating for marriage). However, Rural to Urban is the **fastest-growing** stream. Examiners sometimes ask for "dominant" (= R-R) vs "fastest growing" (= R-U). Check stem carefully.
+
+**Ans: C.** Rural to Rural (marriage migration dominates total numbers).
+
+</details>
+
+**Q2. MPPSC (Pre) 2021**
+India's largest source State of inter-state out-migrants as per Census 2011 was:
+A. Bihar
+B. Uttar Pradesh
+C. Rajasthan
+D. Madhya Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** UP is the largest source of interstate out-migrants, followed by Bihar. The major destinations are Delhi, Maharashtra, and Punjab.
+
+**Ans: B.** Uttar Pradesh.
+
+</details>
+
+**Q3. RAS (Pre) 2020**
+The term 'Brain Drain' refers to:
+A. Decline in the mental health of urban workers
+B. Large-scale migration of intellectuals and skilled persons to another country
+C. Seasonal migration of agricultural labour
+D. Forced migration due to natural disasters
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Brain Drain = emigration of highly skilled, educated, and talented individuals from developing countries to developed ones (e.g., Indian doctors/IT professionals to USA/UK). It depletes human capital from the source country.
+
+**Ans: B.** Migration of skilled/educated persons to another country.
+
+</details>
+
+**Q4. UKPCS (Pre) 2020**
+Which Indian State receives the highest remittances from abroad (Gulf migration)?
+A. Punjab
+B. Kerala
+C. Goa
+D. Tamil Nadu
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Kerala has the highest concentration of Gulf migrants (Keralites in UAE, Qatar, Saudi Arabia, etc.) and receives the largest volume of remittances. These remittances significantly contribute to Kerala's per-capita income.
+
+**Ans: B.** Kerala.
+
+</details>
+
+**Q5. MPPSC (Pre) 2022**
+'Push and Pull factors' of migration were primarily theorized by:
+A. Thomas Malthus
+B. E.G. Ravenstein
+C. Everett Lee
+D. Walter Christaller
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Everett Lee (1966) formalized the Push-Pull theory in his model of migration. Ravenstein (1885) gave the original laws of migration but focused on distance and step-by-step movement.
+
+**Ans: C.** Everett Lee.
+
+</details>
+
+---
+
+## One-Liner Revision -- Migration
+
+| # | Fast Fact |
+|---|---|
+| 1 | Total lifetime migrants in India (Census 2011) = ~45.36 crore (~37%) |
+| 2 | Most dominant internal stream = **Rural to Rural** (marriage-driven) |
+| 3 | Fastest growing internal stream = **Rural to Urban** (economic) |
+| 4 | Largest out-migration source State = **Uttar Pradesh** |
+| 5 | Largest in-migration destination State = **Maharashtra** |
+| 6 | Highest remittance State = **Kerala** (Gulf migration) |
+| 7 | Ravenstein's Laws (1885) -- first scientific theory of migration |
+| 8 | Push factors = poverty, unemployment, drought, conflict |
+| 9 | Pull factors = jobs, education, healthcare, infrastructure |
+| 10 | Brain Drain = skilled emigration to developed countries |
+| 11 | COVID-19 reverse migration (2020) = ~1 crore returned to UP/Bihar |
+| 12 | International migration = immigration (into) + emigration (out) |
+| 13 | Refugee = forced migrant crossing international border |
+| 14 | IDP = internally displaced person (stays within country) |
+| 15 | Circular migration = regular to-and-fro between rural and urban areas |
+| 16 | Delhi = highest inter-state in-migration density |
+| 17 | Women migrate more than men over SHORT distances (marriage) |
+| 18 | Men migrate more than women over LONG distances (employment) |
+| 19 | Everett Lee (1966) -- Push-Pull Theory of Migration |
+| 20 | Net migration = In-migration MINUS Out-migration |
+

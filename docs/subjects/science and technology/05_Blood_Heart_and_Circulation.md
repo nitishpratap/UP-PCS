@@ -2010,3 +2010,67 @@ D. Elephant
 8. **Haemophilia**: Clotting-factor disorder — not a low-RBC anaemia by definition.
 9. **Blood group antigen**: Group A has A antigen; antibodies are anti-B in plasma.
 10. **ECG waves**: P = atrial depolarisation; QRS = ventricular depolarisation; T = ventricular repolarisation.
+
+
+---
+
+## Bilingual Terminology -- Blood, Heart and Circulation
+
+| English Term | Hindi Term | Key Anchor |
+|---|---|---|
+| **Blood** (रक्त) | रक्त / खून | Fluid connective tissue; plasma + RBC + WBC + Platelets |
+| **Plasma** (प्लाज्मा) | रक्त प्लाज्मा | Liquid component of blood (~55%); water, proteins, salts |
+| **RBC / Erythrocyte** (लाल रक्त कणिका) | लाल रक्त कोशिका | Carries O2 via haemoglobin; no nucleus in mature human RBCs |
+| **WBC / Leucocyte** (श्वेत रक्त कणिका) | श्वेत रक्त कोशिका | Defence cells; 5 types (neutrophil, eosinophil, basophil, lymphocyte, monocyte) |
+| **Platelet / Thrombocyte** (बिम्बाणु) | प्लेटलेट / रक्त बिम्बाणु | Blood clotting; smallest blood cells; 1.5-3.5 lakh/mm3 |
+| **Haemoglobin** (हीमोग्लोबिन) | हीमोग्लोबिन | Protein in RBC; iron-containing; carries O2; normal: M=14-18, F=12-16 g/dL |
+| **Blood Group** (रक्त समूह) | रक्त समूह | ABO system (Landsteiner 1901); also Rh factor |
+| **Rh Factor** (आरएच कारक) | आरएच कारक | Rh antigen on RBC; Rh+ (positive) or Rh- (negative) |
+| **Universal Donor** (सार्वभौम दाता) | सार्वभौम दाता | Blood group **O-** (O Rh negative) |
+| **Universal Recipient** (सार्वभौम प्राप्तकर्ता) | सार्वभौम प्राप्तकर्ता | Blood group **AB+** (AB Rh positive) |
+| **Heart** (हृदय) | हृदय | Muscular pump; 4 chambers; located in thoracic cavity |
+| **Artery** (धमनी) | धमनी | Carries oxygenated blood AWAY from heart (except pulmonary artery) |
+| **Vein** (शिरा) | शिरा | Carries deoxygenated blood TOWARDS heart (except pulmonary vein) |
+| **Capillary** (केशिका) | केशिका | Finest blood vessel; site of exchange between blood and tissues |
+| **Blood Pressure** (रक्तचाप) | रक्तचाप | Systolic/Diastolic; normal = 120/80 mmHg |
+| **Cardiac Cycle** (हृदय चक्र) | हृदय चक्र | One complete heartbeat; systole (contraction) + diastole (relaxation) |
+| **Lymph** (लसीका) | लसीका | Colourless fluid similar to plasma; no RBCs; returns to blood |
+| **Clotting** (थक्का बनना) | रक्त का थक्का जमना | Fibrin mesh traps blood cells; Vitamin K essential; platelets initiate |
+
+---
+
+## One-Liner Revision -- Blood, Heart and Circulation
+
+| # | Fast Fact |
+|---|---|
+| 1 | Blood = **55% plasma** + 45% formed elements (RBC, WBC, Platelets) |
+| 2 | RBC lifespan = **120 days**; WBC lifespan = a few hours to several years |
+| 3 | RBC count (normal) = **45-55 lakh/mm3** in men; 40-50 lakh/mm3 in women |
+| 4 | WBC count (normal) = **4,000-11,000/mm3** |
+| 5 | Platelet count (normal) = **1.5-3.5 lakh/mm3** |
+| 6 | Most abundant WBC = **Neutrophil** (60-70%); first line of defence |
+| 7 | Antibody-producing WBC = **Lymphocyte** (B-lymphocytes) |
+| 8 | Haemoglobin = iron (Fe2+) + globin protein; made in **bone marrow** |
+| 9 | ABO blood groups discovered = **Karl Landsteiner (1901)**; Nobel 1930 |
+| 10 | Universal Donor = **O-** (O negative); no A, B antigens; no Rh antigen |
+| 11 | Universal Recipient = **AB+** (AB positive); has all antigens |
+| 12 | Erythroblastosis foetalis = Rh incompatibility between Rh- mother and Rh+ baby |
+| 13 | Heart chambers: 2 Atria (upper) + 2 Ventricles (lower) = **4 chambers** |
+| 14 | Heart rate (normal resting adults) = **60-100 beats/min** |
+| 15 | Heartbeat sound "Lub-Dub" = closing of **AV valves** (Lub) + semilunar valves (Dub) |
+| 16 | ECG = Electrocardiogram; records electrical activity of heart |
+| 17 | Blood pressure normal = **120 mmHg** (systolic) / **80 mmHg** (diastolic) |
+| 18 | Hypertension = BP > 140/90 mmHg (Silent killer) |
+| 19 | Arteries carry blood FROM heart; thicker walls; no valves (except at heart base) |
+| 20 | Veins carry blood TO heart; thinner walls; have valves to prevent backflow |
+| 21 | Pulmonary artery = ONLY artery carrying deoxygenated blood (from heart to lungs) |
+| 22 | Pulmonary vein = ONLY vein carrying oxygenated blood (from lungs to heart) |
+| 23 | Coronary arteries = supply blood to heart muscle itself |
+| 24 | Heart attack (Myocardial infarction) = blockage of coronary artery |
+| 25 | Clotting factor = **Fibrinogen** (in plasma) converts to fibrin; **Vitamin K** needed |
+| 26 | Haemophilia = genetic disorder; blood doesn't clot; X-linked recessive |
+| 27 | Spleen = "Graveyard of RBCs"; also filters blood and stores platelets |
+| 28 | Bone marrow = site of blood cell production (haematopoiesis) |
+| 29 | Lymph = plasma that leaks from capillaries into tissue; carried in lymphatic system |
+| 30 | Carotid arteries = main arteries supplying blood to the brain |
+

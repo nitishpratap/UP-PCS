@@ -324,6 +324,41 @@ D. Varanasi
 
 ---
 
+
+### Other Papers — BPSC / MPPSC / RAS / UKPCS / UPSC / WBCS
+
+**Q2. 67th BPSC (Pre) / Bihar agri**
+Among the following districts of Bihar, which has the highest annual sugarcane production?
+A. Rohtas
+B. West Champaran
+C. Patna
+D. Buxar
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Neighbour sugarcane belt — comparative for UP western Terai cane pattern.
+
+**Ans: B.** West Champaran.
+
+</details>
+
+**Q3. BPSC / Canal–flood geography**
+Which river is called the Sorrow of Bihar and drives major canal–flood projects?
+A. Gandak
+B. Kosi
+C. Son
+D. Punpun
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Flood + irrigation Extra Drill link for eastern UP–Bihar plain.
+
+**Ans: B.** Kosi.
+
+</details>
+
 ## Practice Zone
 
 1. Which Agro-Climatic Zone of Uttar Pradesh includes the districts of Saharanpur, Bijnor, Rampur, Lakhimpur Kheri, and Kushinagar?
@@ -617,3 +652,149 @@ D. Varanasi
 | Trap | Correct |
 |---|---|
 | Mixing Absolute vs % ranks | Match the stem metric first |
+
+
+---
+
+## Bilingual Terminology -- UP Agriculture
+
+| English | Hindi | Key Anchor |
+|---|---|---|
+| **Kharif Crops** | खरीफ फसल | Sown in June-July; harvested Oct-Nov (rice, maize, bajra) |
+| **Rabi Crops** | रबी फसल | Sown in Nov; harvested Mar-Apr (wheat, mustard, gram) |
+| **Zaid Crops** | जायद फसल | Short summer season between Rabi and Kharif (watermelon, cucumber) |
+| **Canal Irrigation** | नहर सिंचाई | Upper/Lower Ganga Canal; Sharda Canal; Agra Canal |
+| **Tube Well** | नलकूप | Main irrigation method in UP (groundwater); GBIC |
+| **Drip Irrigation** | टपक सिंचाई | Efficient; promoted under PMKSY |
+| **Sardar Sarovar** | सरदार सरोवर परियोजना | Not in UP; Gujarat; included for context |
+| **Sardar Vallabhbhai Patel Gau Samvardhan** | गोवंश संवर्धन | UP cow protection policy |
+| **Pradhan Mantri Fasal Bima Yojana** | प्रधानमंत्री फसल बीमा योजना | Crop insurance scheme (2016) |
+| **e-Nam** | राष्ट्रीय कृषि बाजार | National Agriculture Market; online trading platform |
+| **MSP** | न्यूनतम समर्थन मूल्य | Minimum Support Price; recommended by CACP |
+| **Cooperative Farming** | सहकारी कृषि | Joint farming by cooperative societies |
+| **Zaid Crops** | जायद | Summer crops |
+| **GI Tag** | भौगोलिक संकेत | Geographical Indication Tag protecting origin-specific products |
+| **Green Revolution** | हरित क्रांति | 1960s; HYV seeds (Norman Borlaug/M.S. Swaminathan) |
+
+---
+
+## Extended Theory -- UP Agriculture: Key Data and Canal Systems
+
+### UP's Agricultural Significance
+
+UP is the **backbone of Indian food security**:
+- Largest producer of **Sugarcane** (48%+ of national production)
+- Largest producer of **Potato** (30%+ of national production)
+- Largest producer of **Milk** (~17% of national production)
+- 2nd largest producer of **Wheat** (after MP, some years Punjab)
+- Major producer of **Mustard, Gram, Lentil, Paddy**
+
+```
+        UP MAJOR IRRIGATION CANALS
+        ────────────────────────────────────────────────
+        
+        UPPER GANGA CANAL (1854)
+        └─ Source: Haridwar barrage (River Ganga)
+        └─ Irrigates: Western UP (Saharanpur to Kanpur division)
+        └─ Oldest major irrigation project in British India
+        
+        LOWER GANGA CANAL (1878)
+        └─ Offtake from Upper Ganga Canal at Narora Barrage
+        └─ Irrigates: Bulandshahr, Aligarh, Etah, Mainpuri
+        
+        SHARDA CANAL (1928)
+        └─ Source: Sharda (Kali) River at Banbasa, Champawat (UK)
+        └─ Irrigates: Eastern UP (Lakhimpur, Sitapur, Hardoi, Unnao)
+        
+        AGRA CANAL (1874)
+        └─ Source: Yamuna River at Okhla Barrage
+        └─ Irrigates: Agra and Mathura districts
+        
+        RIHAND (GOVIND BALLABH PANT SAGAR) (1962)
+        └─ Source: Rihand River
+        └─ Irrigation + Power (Obra, Rihand Thermal)
+        └─ Largest reservoir in India by area
+```
+
+### UP Agricultural Seasons
+
+| Season | Crop Examples | Sowing | Harvesting |
+|---|---|---|---|
+| **Kharif** (खरीफ) | Paddy (rice), Maize, Bajra, Sugarcane, Soybean | June-July (SW monsoon) | October-November |
+| **Rabi** (रबी) | Wheat, Mustard, Gram, Masoor, Barley | October-November | March-April |
+| **Zaid** (जायद) | Watermelon, Cucumber, Moong Dal | March-April | June-July |
+
+---
+
+## UKPCS / MPPSC / BPSC Extra Drill -- UP Agriculture
+
+**Q1. UKPCS (Pre) 2021**
+Uttar Pradesh is the largest producer of which crop in India?
+A. Rice
+B. Wheat
+C. Sugarcane
+D. Cotton
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** UP is the **largest producer of Sugarcane** in India (over 48% of national production). It is also the largest producer of potatoes and milk. For wheat, UP competes with Punjab and MP.
+
+**Ans: C.** Sugarcane.
+
+</details>
+
+**Q2. MPPSC (Pre) 2021**
+The 'Upper Ganga Canal' -- one of the largest canal irrigation systems in India -- draws water from which river?
+A. Yamuna at Agra
+B. Ganga at Haridwar
+C. Ghaghra at Bahraich
+D. Sharda at Banbasa
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The **Upper Ganga Canal (1854)** draws water from the Ganga at Haridwar Barrage and is one of the oldest major irrigation works in British India, constructed under engineer Proby Cautley.
+
+**Ans: B.** Ganga at Haridwar.
+
+</details>
+
+**Q3. BPSC-type**
+The Minimum Support Price (MSP) for agricultural crops in India is recommended by which body?
+A. NABARD
+B. NITI Aayog
+C. Commission for Agricultural Costs and Prices (CACP)
+D. Food Corporation of India (FCI)
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The **Commission for Agricultural Costs and Prices (CACP)** -- under MoAFW -- recommends MSP for notified crops to the Cabinet Committee on Economic Affairs (CCEA).
+
+**Ans: C.** CACP.
+
+</details>
+
+---
+
+## One-Liner Revision -- UP Agriculture
+
+| # | Fast Fact |
+|---|---|
+| 1 | UP = largest producer of **Sugarcane** in India |
+| 2 | UP = largest producer of **Potato** |
+| 3 | UP = largest producer of **Milk** |
+| 4 | UP has the **most sugar mills** in India (100+) |
+| 5 | Upper Ganga Canal (1854) = oldest major irrigation work; Haridwar barrage |
+| 6 | Sharda Canal (1928) = eastern UP irrigation from Kali River |
+| 7 | Rihand Dam reservoir = **Govind Ballabh Pant Sagar** (largest by area) |
+| 8 | Kharif crops sown in **June-July**; harvested in **Oct-Nov** |
+| 9 | Rabi crops sown in **Oct-Nov**; harvested in **Mar-Apr** |
+| 10 | MSP recommended by **CACP** (Commission for Agri Costs and Prices) |
+| 11 | PMFBY (2016) = Pradhan Mantri Fasal Bima Yojana (crop insurance) |
+| 12 | e-NAM = National Agriculture Market (online APMC platform) |
+| 13 | Green Revolution (1960s) = HYV seeds; M.S. Swaminathan led in India |
+| 14 | UP groundwater irrigation = Tube wells (dominant method) |
+| 15 | GI Tag: UP products = Banarasi silk, Chikankari, Aligarh locks |
+

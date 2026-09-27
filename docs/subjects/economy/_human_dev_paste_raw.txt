@@ -1,0 +1,839 @@
+Human Development
+1. Who originally propounded the theory of three stages
+of social development?
+(a) Karl Marх
+(c) Herbert Spencer
+Ans. (d)
+(b) Talcott Parsons
+(d) Auguste Comte
+U.P.P.C.S. (Pre) 2021
+The theory of three stages of social development was devel- oped by Auguste Comte in his work, 'The Course in Positive Philosophy'. It states that society as a whole, and each parpcular science, develops through three mentally conceived
+stages : (1) the theological stage, (2) the metaphysical stage,
+and (3) the positive or scientific stage. Comte suggested that
+all societies have these three basic stages in the course of
+their development.
+2. Given below are two statements, one is labelled as
+Assertion (A) and the other as Reason (R).
+Assertion (A) : Development is being defined as
+improving living standards and welfare.
+Reason (R): Growth in per capita income is not a
+sufficient measure of development.
+Select the correct answer from the codes given below:
+(a) Both (A) and (R) are true, and (R) is the correct
+explanation of (A).
+(b) (A) is false, but (R) is true.
+(c) Both (A) and (R) are true but (R) is not the correct
+explanation of (A).
+(d) (A) is true, but (R) is false.
+Ans. (a)
+U.P.P.C.S. (Pre) 2024
+Development encompasses a broad spectrum of human
+and societal progress beyond mere income, including
+mprovements in welfare, living standards, health, and
+education; growth in per capita income is a limited measure of
+this because it doesn't account for wealth distribution, overall
+quality of life, or social progress, necessitating a broader set
+of indicators like the Human Development Index (HDI) to
+assess true development. Hence both (A) and (R) are true
+and (R) is the correct explanation of (A).
+Economic & Social Development
+3. Given below are two statements, one labelled as
+Assertion (A) and other as the Reason (R).
+Assertion (A) : There is a positive relation between
+Human Development Index (HDI) and Sustainable
+Development Goals (SDG) ranking of Indian States.
+Reason (R) : The underlying dimension of SDG targets
+are closely related to education and health aspect.
+Select the correct answer using the codes below:
+(a) Both (A) and (R) are true and (R) is correct explanation
+of (A)
+(b) Both (A) and (R) are true but (R) is not the correct
+explanation of (A)
+(c) (A) is true but (R) is false
+(d) (A) is false but (R) is true
+Ans. (a)
+U.P.P.C.S. (Pre) 2019
+U.P.P.C.S. (Pre) 2024
+The underlying dimension of SDG targets are closely related
+to education and health aspect as evident in the positive
+correlation between HDI (Human Development Index) and
+SDG rankings of Indian States. Hence, Both (A) and (R) are
+true and (R) is the correct explanation of (A).
+4. Which of the following is the correct order in which the
+mentioned measures of development were introduced?
+(a) Per-capita Income, HDI, PQLI
+(b) PQLI, HDI, Per-capita Income
+(c) Per-capita Income, PQLI, HDI
+(d) HDI (Human Development Index), Per-capita Income,
+PQLI (Physical Quantity of Life Index)
+Ans. (c)
+Jharkhand P.C.S. (Pre) 2021
+The first measure of development, introduced in the US
+in 1934, by a team of economic experts headed by Simon
+Kuznets (1971 Nobel Prize winner), was the Per-capita Income method. This one-dimensional method measures the
+income per person in an economic unit by measuring the
+living conditions and quality of life in different areas
+The Physical Quality of Life Index (PQLI) is an attempt
+to measure the quality of life or well-being of a country.
+The value is the average of three statistics: basic literacy
+rate, infant mortality, and life expectancy at age one. It was
+developed for the Overseas Development Council in the
+mid-1970s by Morris D. Morris.
+General Studies E-305
+The Human Development Index (HDI) is based on the human development approach, developed by the economist
+Mahbub-ul-Haq, is anchored in the Nobel laureate Amartya
+Sen's work on human capabilities. In 1990, the first Human
+Development Report was introduced.
+5. Which one of the following pairs is the most suitable
+estimate of the physical quality of life?
+(a) Infant mortality rate Literacy
+(b) Infant mortality rate Income
+(c) Calorie intake Literacy
+(d) Per capita income Sex ratio
+U.P.P.C.S. (Spl.) (Mains) 2004
+Ans. (a)
+Infant mortality and literacy are the most appropriate
+estimates of the physical qualtity of life. The Physical
+Quality of Life Index (PQLI) was developed by Morris
+D. Morris in the mid-1970s for the Overseas Development
+Council, PQLI is an attempt to measure the quality of life or
+well-being of a country. The value of PQLI is the average
+of three statistics : basic literacy rate, infant mortality, and
+life expectancy at age one, all equally weighted on a zero
+to 100 scale.
+Physical Quality Literacy Indexed Infant Indexed Life Rate + Mortality Rate + Expectancy of Life 3
+6. Physical Quality of Life Index (PQLI) is developed by :
+(a) Morris D. Morris (b) UNDP
+(c) Mehbub-ul-Haq
+8. The Human Development Index (HDI) was firstdeveloped by which of the following?
+(a) UNDP
+(c) UNICEF
+Ans. (a)
+(b) IMI
+(d) UNCTAD
+U.P.P.C.S. (Pre) 2018Pakistani economist Mahbub-ul-Haq developed HumanDevelopment Index (HDI) for the United NationsDevelopment Programme (UNDP)'s Human DevelopmentReport, which was first launched in 1990. This index is
+based on the human development approach anchored in
+Amartya Sen's work on human capabilities, often framed interms of whether people are able to 'be' and 'do' desirablethings in life. It had the explicit purpose to shift the focus ofdevelopment economics from national income accounting topeople-centered policies. The HDI is a summary measure ofachievements in three key dimensions of human development :a long and healthy life, access to knowledge and a decentstandard of living. It is a composite index of life expectancy.education (mean years of schooling and expected years ofschooling) and standard of living (GNI per capita PPP dollars)indicators, which are used to rank countries into four tiers ofhuman development.
+9. Who amongst the following developed the UnitedNations Human Development Index?
+(a) Mahbub-ul-Haq (b) A.S. Kadir
+(c) Alva Myrdal (d) Amartya Sen
+Uttarakhand P.C.S. (Pre) 2010U.P.P.C.S. (Mains) 2006U.P.P.C.S. (Pre) 2019
+Ans. (a)
+(d) None of the above
+Ans. (a)
+7.
+See the explanation of above question.
+Which one of the following organizations publishes the
+Human Development Report?
+(a) UNESCO
+(c) U.N.D.P.
+Ans. (c)
+(b) World Bank
+(d) I.M.F.
+Uttarakhand P.C.S. (Pre) 2012
+'Human Development Report' (HDR) is published by the
+United Nations Development Programme(UNDP). UNDP
+released its 1st HDR in 1990. Human Development Reports
+(HDRs) have been released most years since 1990 and have
+explored different themes through the human development
+approach.
+Economic & Social Development
+See the explanation of above question.
+10. With reference to 'Human Development Index',which
+of the following statements is/are correct?
+1. The UNDP published its first Human DevelopmentReport in 1990, which had a Human DevelopmentIndex.
+2. The first team that developed the HumanDevelopment Index was led by Mahbub-ul-Haqand S. Priesner.
+Select the correct answer using the code given below
+Code:
+(a) Only 2
+(c) Both 1 and 2
+Ans. (d)
+General Studies
+(b) Neither 1 nor 2
+(d) Only 1
+U.P. P.C.S. (Pre) 2025E-306
+UNDP published its first Human Development Report in 1990, and it included the first version of the HDI. Hence, statement 1 is correct
+Statement 2 is incorrect, because the concept/development
+of HDI is credited to a group of scholars led by Mahbub-ulHaq, including Amartya Sen.
+11. Which of the following statement/s is/are correct about Capability Poverty Measure (CPM) developed by the UNDP?
+1. CPM includes child malnutrition as a proxy for
+lack of health and nourishment.
+2. Female illiteracy is included to reflect deprivation
+in education and knowledge.
+3. It considers male illiteracy as a key indicator of capability poverty.
+4. It includes lack of access to clean drinking water as
+an important indicator of capability poverty.
+Select the correct answer using the codes given below:
+(a) 1 and 2
+(b) 1, 2 and 3
+(c) Only 1
+(d) More than one of the above
+Ans. (a)
+71 B.P.S.C. (Pre) 2025
+UNDP, in the Human Development Report 1996, presented
+a composite index called the 'Capability Poverty Measure
+(CPM)', which measures deprivation in three basic human
+capabilities-The capability to be healthy and well-nourished,
+The capability for healthy reproduction, and The capability
+to be educated and knowledgeable.
+Under this, child malnutrition is included to represent
+deprivation in health and nutrition. In CPM, to measure
+deprivation in the capability of education and knowledge, the
+"percentage of illiterate women aged 15 years and above"
+is taken as an indicator. Male illiteracy is not considered an
+indicator of CPM. Hence, only statements 1 and 2 match
+the official definition of CPM; whereas statements 3 and 4
+are incorrect.
+12. Which one of the following approaches is associated
+with Prof. Amartya Sen?
+(a) Basic Needs Approach
+(b) Capability Approach
+(c) Income Approach
+(d) Welfare Approach
+(e) None of the above/More than one of the above
+The Capability Approach was first articulated by the Indian economist Prof. Amartya Sen in the 1980s, and remains
+most closely associated with him. It was conceived as an alternative approach to welfare economics. The Capability Approach is defined by its choice of focus upon the moral significance of individual's capability of achieving the kind of
+lives they have reason to value. Here 'poverty' is understood
+as deprivation in the capability to live a good life, and 'development' is understood as capability expansion. The
+core focus of this approach is on what individuals are able
+to do (i.e., capable of).
+13. Which one of the following was first to concentrate on
+human aspect of development?
+(a) United Nations Development Programme
+(b) Integrated Rural Development Programme
+(c) World Development Report
+(d) Community Development Programme
+U.P. U.D.A./L.D.A. (Pre) 2013
+Ans. (a)
+Human aspect of development was first focused by United Nations Development Program (UNDP). In 1990 the
+first Human Development Report released by the UNDPР,
+introduced a new approach-for advancing human wellbeing. Human development- or human development
+approach- is about expanding the richness of human life,
+rather than simply the richness of the economy in which human beings live. It is an approach that is focused on people
+and their opportunities and choices.
+14. Human Development Index is a composite index of :
+(a) Nutritional status, quality of life and per capita GDP
+(b) Poverty, Life expectancy and Educational attainment
+(c) Life expectancy, Educational attainment and per capita
+GDP
+(d) Inflation, unemployment and per capita GPD
+Ans. (c)
+R.A.S./R.T.S. (Pre) 2013
+Human Development Index is the composite index of life
+expectancy, education level and per capita Gross National
+Income (GNI). Before 2010, per capita GDP was used
+instead of per capita GNI. It is published by UNDP. It's
+maximum value is 1 and minimum is zero.
+15. Which indicators are used in Human Development
+Index (HDI)?
+1. Income level 63rd B.P.S.C. (Pre) 2017
+2. Education Ans. (b)
+Economic & Social Development General Studies E-307
+3. Condition of environment
+4. Life expectancy
+Select the correct answer from the codes given below:
+(a) Only 1,2 and 3
+(b) Only l and 4
+(c) Only 1, 2 and
+(d) Only 1 and 2
+Ans. (c)
+See the explanation of above question.
+U.P.P.C.S. (Pre) 2024
+16. Human Development Index comprises literacy rates,
+life expectancy at birth and :
+(a) Gross Domestic Product per head in the US dollars
+(b) Gross Domestic Product per head at real purchasing
+power
+(c) Gross National Product in US dollars
+(d) National Income per head in US dollars
+Ans. (*)
+I.A.S. (Pre) 1997
+Human Development Index (HDI) was created to emphasize that people and their capabilities should be the ultimate
+criteria for assessing the development of a country, not
+economic growth alone. Since year 2010 new method have
+been adopted to calculate HDI, which includes 3 indicators:
+1. Life Expectancy Index - (Life Expectancy at birth)
+2. Education Index - Knowledge Index
+(i) Mean years of schooling
+(ii) Expected years of schooling
+3. Standard of Living (Income/GNI Index-GNI per capita at
+purchasing power parity: PPPS)
+The HDI is the geometric mean ofthe above three indices. It
+is noteworthy that earlier (before 2010) living standard was
+estimated through per capita Gross Domestic Product (based
+on PPP $) but later on, it was replaced with per capita Gross
+National Income (based on PPP$).
+It is clear that at the question period, option (b) was the correct
+answer but at present all options are wrong.
+17. While calculating HDI, the maximum value and
+minimum value for Life Expectancy at birth (Years)
+Farlier (before 2010) in calculation of HDI, 85 years and
+25 years were taken as the maximum value and minimum
+value for Life Expectancy at birth. Whereas at present, while
+calculating HDI, the maximum value and minimumvalue for
+Life Expectancy at birth are taken as 85 years and 20 years
+respectively. Life Expectancy Index (LEI) value is I when
+Life Expectancy at birth is 85 and 0 when Life Expectancy
+at birth is 20.
+18. Which of the following is not included in Human
+Development Index?
+(a) Life Expectancy
+(c) Social Inequality
+(b) Real Per Capita Income
+(d) Adult Literacy
+M.P.P.C.S. (Pre) 2008
+U.P. Lower Sub. (Spl.) (Pre) 2004
+Ans. (*)
+UNDP first published Human Development Report (HDR)
+in the year 1990. Human Development Index (HDI) of HDR
+includes 3 indicators : (i) Life Expectancy at birth, (ii) Level
+of Education, (iii) Standard of living (GNI Index - GNI per
+capita PPP $). Education level was earlier determined by
+the gross enrollment ratio and adult literacy rate, which was
+replaced in 2010 with the 'Mean years of schooling' and 'Expected years of schooling and from 2010, Inequality-adjusted
+HDI is also published under Human Development Report.
+19. Which of the following indicators is NOT used to
+calculate Human Development Index (HDI)?
+(a) Life Expectancy
+(c) Per Capita Income
+Ans. (d)
+(b) Education
+(d) Social Inequality
+| See the explanation of above question.
+U.P. P.C.S. (Pre) 2020
+20. Which one of the following is not constituent of Human
+Development Index?
+(a) Health and Nutrition
+(b) Per Capita Income
+(c) Life Expectancy at Birth
+(d) Gross Enrollment Rate
+U.P.P.C.S. (Spl.) (Mains) 2008
+U.P.P.C.S. (Mains) 2009
+are taken as:
+(a) 100 and 25 (b) 90 and 30
+(c) 85 and 25 (d) 80 and 20 Ans. (a)
+U.P.P.C.S. (Mains) 2006
+Ans. (*) See the explanation of above question.
+Economic & Social Development General Studies E-308
+21. According to the United Nations Development
+Programme report published in 1990, which one of the
+following is not included in the calculation of Human
+Development Index (HDI)?
+(a) Per Capita Income
+(c) Literacy
+Ans. (b)
+(b) Urbanization
+(d) Life Expectancy
+U.P. U.D.A./L.D.A. (Pre) 2013
+See the explanation of above question.
+22. What is the base of Human Development Index?
+(a) Health, education, employment, standard ofliving
+(b) Health, education, employment
+(c) Health, education, standard of living
+(d) Education, employment, standard of living
+Ans. (c)
+M. P. P. C. S. (Pre) 2015
+See the explanation of above question.
+23. Arrange the following countries on the basis of 'Human
+Development Index 2022' in descending order.
+Country
+1. Japan
+3. Hong Kong
+2. Russia
+4. Australia
+Select the correct answer from the code given below:
+Code:
+(a) 1, 2, 4,3 (b) 4, 1, 3,2
+(c) 2, 3, 1,4 (d) 3, 4, 1,2
+U.P. P.C.S. (Pre) 2022
+Ans. (d)
+As per the Human Development Report (HDR) 2021/2022
+(which was released in September, 2022), the Human
+Development Index (HDI) Ranks of the given countries
+(for the year 2021) were as follows: Hong Kong (4th),
+Australia (5th), Japan (19th) and Russia (52nd). The Human
+Development Index for the year 2022 was not released in the
+question period. Hence, as per HDR 2021/2022 the correct
+descending order is given in option (d). According to the
+Human Development Report 2025 (released in May, 2025),
+the HDI Ranks (for the year 2023) of the given countries in
+descending order are as follows : Australia (7th), Hong Kong
+(8th), Japan (23rd) and Russia (64th).
+24. With reference to the Human Development Report,
+2021-22, which of the following statement is/are correct?
+1. India's rank on the Human Development Index
+has upgraded from 130 in 2020 to 132 in 2022.
+Economic & Social Development
+2. India's rank on the Human Development Index
+has stipped from 130 in 2020 to 132 in 2022.
+Select the correct answer using the code given below :
+Code:
+(a) Only 1
+(c) Neither 1 nor 2
+Ans. (c)
+(b) Only 2
+(d) Both 1 and 2
+U.P. P.C.S. (Pre) 2023
+According to Human Development Report 2021/2022,
+India's rank on the Human Development Index (HDI) has
+stipped from 130 in 2020 to 132 in 2021 (in 191 countries
+and territories) not in 2022. So, both the given options are
+incorrect. As per the Human Development Report 2025.
+India's rank on the HDI was 133 in 2022 which is upgraded
+to 130 in 2023 (in 193 countries and territories)
+25. Which one is correct in the ascending order of HDI
+2019 ranking of the following countries?
+(a) Brazil, India, South Africa, China
+(b) Brazil, China, South Africa, India
+(c) South Africa, China, India, Brazil
+(d) India, China, South Africa, Brazil
+(e) None of the above / More than one of the above
+66th B.P.S.C. (Pre) (Re-Exam) 2020
+Ans. (b)
+As per the United Nations Development Programme
+(UNDP)'s Human Development Report 2020, the ascending
+order of Human Development Index (HDI), 2019 rankings
+of the given countries were as follows: Brazil (84), China
+(85), South Africa (114), India (131). In the HDI, 2023 (given
+in the Human Development Report 2025), the rankings of
+the given countries are as follows: China (78), Brazil (84),
+South Africa (106) and India (130).
+26. What is the Human Development Index (HDI) rank of
+India in the Human Development Report 2020 of UNDP?
+(a) 128
+(c) 130
+Ans. (d)
+(b) 129
+(d) 131
+Uttarakhand P.C.S. (Pre) 2021
+See the explanation of above question.
+27. As per the Human Development Report 2015, consider
+the following statements:
+A. India ranks 130 out of 183 countries.
+B. HDI is based on the indices for life expectancy,
+General Studies
+education and PCI.
+E-309
+C. In comparison to other nations in the BRICS, India
+has the lowest rank.
+Which of the statements given above is/are correct?
+(a) A and B only
+(c) B only
+Ans. (d)
+(b) Band Conly
+(d) A. B and
+R.A.S./R.T.S. (Pre) 2016
+As per the Human Development Report 2015. India was
+placed at 130h rank among the 188 countries/territories.
+HDI is based on the indices for life expectancy at birth.
+level of education and per capita income (GNI per capita
+PPPS) As per that report, among the then BRICS group
+of nations, India was ranked lowest. Hence, all three given
+statements are correct. As per the Human Development
+Report 2025, India ranks at 130 (jointly with Bangladesh)
+among the 193 countries/territories in HDI, 2023 while
+Ethiopia has the lowest rank (180) among the present
+BRICS group of nations.
+28. Which country's Human Development Index rank is
+first as per Human Development Report 2018?
+(a) Switzerland
+(c) Ireland
+Ans. (d)
+(b) Germany
+(d) Norway
+Chhattisgarh P.C.S. (Pre) 2018
+As per Human Development Report (HDR) 2018, Norway
+was ranked first in Human Development Index (HDI) for
+2017. As per the HDR 2025 the top 5 ranked countries in
+HDI for 2023 are as follow:
+Rank Country HDI Value (2023)
+1 Iceland 0.972
+2 Norway 0.970
+2 Switzerland 0.970
+4 Denmark 0.962
+5 Germany 0.959
+5 Sweden 0.959
+29. In the year 2014, out of 186 countries of the world,
+India's rank in Human Development Index was:
+As per Human Development Report 2014, India was ranked
+135 among 187 countries/territories in HDI for 2013, whale
+according fo Human Development Report 2015, India wa
+ranked I10 among 188 countries/territories in HDI for 2014
+UPPSC had given the answer 130h, on the basis of Human
+Development Report 2015. As per the Human Developmen
+Report 2025, India's rank is 130 among 193 countries/tem
+tories in the Human Development Index for 2023
+30. According to the UNDP Human Development Indes
+(HDI) Report 2025, life expectancy in India increasedfrom 58.6 years in 1990 to how many years in 2023
+(a) 72 years
+(b) 73 years
+(c) 74 years
+(d) More than one of the above
+Ans. (a)
+71" B.P.S.C. (Pre) 2025According to the Human Development Report 2025 releasedby the United Nations Development Programme (UNDP), lifeexpectancy at birth in India was 58.6 years in 1990, whic
+increased to 72 years in 2023.
+31. Improvement in which among the following will makeIndia's rank high in HDI of UNDP?
+1. Availability of safe drinking water
+2. More credit to farmers
+3. More children going to school
+4. More adults getting literate
+Select the correct answer from the code given below:(a) 1, 2 and 3
+(c) 2 and 3
+Ans. (d)
+(b) 1, 3 and 4
+(d) 3 and 4
+U.P.P.C.S. (Mains) 2004India will get a high rank in Human Development Index
+of UNDP, if more children go to school and there is an improvement in adult literacy, which will increase the educationlevel under Human Development Index. Thus, it is clear thatoption (d) is the right answer.
+32. According to the Human Development Report 1997.out of six crore Indian children with less than fouryears of age, adequate nutrition is not available to (a) 138th (b) 135th
+(c) 134th (d) 130th (a) 41%
+U.P. Lower Sub. (Pre) 2015 (c) 49%
+U.P.P.C.S. (Spl.) (Mains) 2004
+U.P. U.D.A./L.D.A. (Pre) 2001
+Ans. (*) Ans. (d)
+Economic & Social Development General Studies
+(b) 45%
+(d) 53%
+U.P.P.C.S. (Pre) 1999E-310
+Asper the Human Development Report 1997,out of six crore
+(60 million) Indian children with less than four years of age,
+nearly 53% remained under-nourished.
+13. Which of the following organization calls India's
+economic growth as ‘Jobless', 'Rootless', 'Ruthless',
+Voiceless' and 'Futureless'?
+(a) IMF
+(c) UNDP
+Ans. (c)
+(b) World Bank
+(d) WTO
+U.P. Lower Sub. (Pre) 2015
+In the 1996 Human Development Report, UNDP described
+the economic development path of developing countries
+as 'Jobless', 'Rootless', 'Ruthless', 'Voiceless', and
+Futureless'.
+34. Gender Inequality Index (GII) was introduced in which
+Human Development Report (HDR) of UNDP?
+(a) HDR 2007
+(c) HDR 2009
+Ans. (d)
+(b) HDR 2008
+(d) HDR 2010
+Uttarakhand P.C.S. (Pre) 2021
+The UNDP introduced the Gender Inequality Index (GII) in
+the 2010 Human Development Report. The GII is a composite measure, reflecting inequality in achievements between
+women and men in three dimensions : reproductive health,
+empowerment and the labour market participation. The health
+dimension is measured by the maternal mortality ratio and
+the adolescent fertility rate. The empowerment dimension is
+measured by the share of parliamentary seats held by each
+gender, and by secondary and higher education attainment
+levels. The labour dimension is measured by women's participation in the workforce. The GII varies between 0 (when
+women and men fare equally) and 1 (when men or women
+fare poorly compared to the other in all dimensions).
+Directions : The next two items are based on the following
+table. Study the same carefully and attempt the two items
+that follow it :
+Table
+Indicators of development for some Asian Countries
+Indonesia 64.0 47 84
+Malaysia 71.4 11 84
+Thailand 69.5 31 94
+Korea 71.7 06 98
+Philippines 67.4 32 95
+35. Which one of the following statements is false?
+(a) All countries other than India have over 80% literacy
+(b) Malaysia and Korea have Life Expectancy higher
+than all other countries
+(c) Higher the adult literacy lower is the infant mortality
+(d) The life expectancy at birth in India is almost the
+same as that of Indonesia
+Ans. (c)
+I.A.S. (Pre) 2000
+From the data of the given table, it is clear that in relation
+between adult literacy and infant morality, statement of
+option (c) is not followed. For instance both in Malaysia and
+Indonesia adult literacy rate is equal (84%), while Infant
+mortality rate is 11 in Malaysia and it is 47 in Indonesia.
+Likewise despite of being high adult literacy rate in Thailand
+and Philippines, their infant mortality rates are much higher
+than Malaysia.
+36. The best performance in terms of Human Development
+among the Asian countries is by:
+(a) China
+(c) Korea
+Ans. (c)
+(b) Malaysia
+(d) Philippines
+I.A.S. (Pre) 2000
+As per the given data, Korea's life expectancy at birth is 71.7
+years which is higher than any other country represented in
+the table. Korea's adult literacy rate is 98% which is again
+highest among the given countries. Infant mortality rate is
+6 (per 1000 live births) in Korea which is lowest among
+the given countries. Thus Korea's Human Development
+| performance is the best among the given Asian countries.
+As per the Human Development Report 2023/2024, Hong
+Kong has the best performance in the Asia with overall rank
+4 in the HDI for 2022.
+37. Which of the following has chosen Gross National
+Life Infant Mortality Happiness as the index of progress: Adult
+Country Expectancу
+at birth
+Rate (Per Literacy Rate (a) Bhutan (b) Japan
+1000 live births) (Percent) (c) Sweden (d) Switzerland
+1995 1996 1995
+India 62.4 72 52
+U.P.P.C.S. (Pre) 2001, 2003
+U.P.U.D.A./L.D.A. (Pre) 2002
+China 69.2 38 82 Ans. (a)
+Economic & Social Development General Studies E-311
+Gross National Happiness (GNH) is a measure of economic and moral progress that the 4th King of the Himalayan
+country of Bhutan Jigme Singye Wangchuck introduced in
+the 1970s as an alternative to gross domestic product. Rather
+than focusing strickly on quantitative economic measures,
+gross national happiness takes into account an evolving mix
+of quality-of-life factors. It includes an index which is used
+to measure the collective happiness and well-being of a
+population. Gross National Happiness Index is instituted as
+the goal of the government of Bhutan in the Constitution
+of Bhutan, enacted on 18 July, 2008. GNH is distinguishable from Gross Domestic Product by valuing collective
+happiness as the goal of governance, by emphasizing
+harmony with nature and traditional values as expressed in
+the 9 domains of happiness and 4 pillars of GNH. The four
+pillars of GNH are
+1. Sustainable and equitable socio-economic development;
+2 Environmental conservation;
+3. Preservation and promotion of culture; and
+4. Good governance.
+The nine domains of GNH are psychological well-being,
+health, time use, education, cultural diversity and resilience,
+good governance, community vitality, ecological diversity
+and resilience and living standards.
+38. Which of the following countries measures its wealth
+on the basis of Gross National Happiness and not on
+the basis of Gross National Product?
+(a) Nepal
+(c) Bhutan
+Ans. (c)
+(b) Sri Lanka
+(d) Burma
+Uttarakhand P.C.S. (Mains) 2006
+See the explanation of above question.
+39. Which South Asian Country has adopted 'Gross
+National Happiness' as an index of the well-being of
+its citizens ?
+(a) India
+(c) Sri Lanka
+Ans. (b)
+B. India's ranking has remained relatively stagnanover the years, indicating limited progress
+improving the overall happiness and well-beingof its population.
+Select the correct answer using the codes givenbelow. (a) Only А
+(c) Both A and B
+Ans. (b)
+(b) Only В
+(d) Neither A nor B
+R.A.S/R.T.S. (Pre) 2024In World Happiness Report 2024's rankings for 2023,India
+ranked 126th out of total 143 countries, which was lowerthan China, Nepal, Pakistan and Myanmar but higher thanSri Lanka and Bangladesh. As per the World HappinessReport 2026's rankings for 2025, India ranked 116th out oftotal 147 countries. For the report years 2020, 2021, 20222023 and 2025, India's rank was 139th. 136th. 126h 126 and118th respectively. Thus, it can be said that India's rankinghas remained relatively stagnant over the years, indicatinglimited progress in improving the overall happiness andwell-being of its population. As perWorld Happiness ReportDashboard, rankings of India and its neighbouring countriesin recent years are as follows :
+Country Rankings by Year
+2022 2023 2024 2025
+China 60 68 65
+Nepal 78 93 92 99
+Pakistan 108 108 109 104
+India 126 126 118 116
+Myanmar 117 118 126 129
+Sri Lanka 112 128 133 134
+Bangladesh 118 129 134 127
+41. The rank of India in Global Happiness Index 2023 is:(a) 115
+(b) Bhutan
+(d) Myanmar (c) 126
+U.P.P.C.S. (Mains) 2009
+Ans. (c)
+See the explanation of above question.
+40. Consider the following statements regarding World
+Happiness Report, 2024:
+A. India ranked 126th out of more than 140 countries,
+which is lower than its neighbouring countries
+including China, Nepal, Pakistan, Myanmar, Sri
+Lanka and Bangladesh.
+Economic & Social Development
+(b) 118
+(d) 136
+R.A.S./R.T.S. (Pre)2023
+The rank of India in World Happiness Report 2023's Indeswas 126 among 137 countries for the three-year-average2020-2022. India was at 118th rank among 147 countries(for the three-year-average 2022-2024) in World HappinessReport 2025’s Index while India is at 116th rank among /47countries (for the three-year-average 2023-2025) in WorldHappiness Report’s 2026 Index.
+General Studies E-312
+42. Consider the following:
+1. Right to education
+45. Which one of the following States was having the highest Human Development Index in the year 2001?
+2. Right to equal access to public service. (a) Assam (b) Kerala
+3. Right to food (c) Uttar Pradesh (d) Madhya Pradesh
+Which of the above is/are Human Right/Human Rights U.P. Lower Sub. (Pre) 2008
+under 'Universal Declaration of Human Rights'? Ans. (b)
+(a) lonly
+(c) 3 only
+Ans. (d)
+(b) 1 and 2 only
+(d) 1, 2 and 3
+I.A.S. (Pre) 2011
+Article 26 (1) of the Universal Declaration of Human
+Rights says that everyone has right to education and education shall be free, at least in the elementary stages. Article
+21 (2) says everyone has the right to equal access to public
+services in his country. Further, Article 25 (1) of this declaration says that everyone has the right to a standard of
+living adequate for the health and well-being of himself and
+of his family, including food, clothing, housing and medical
+care etc.
+43. The first Indian State to have its Human Development
+Report prepared and released by Amartya Kumar Sen
+in Delhi is:
+(a) West Bengal
+(c) Madhya Pradesh
+Ans. (c)
+(b) Kerala
+(d) Andhra Pradesh
+I.A.S. (Pre) 2000
+M.P.P.C.S. (Pre) 2000
+The first State Human Development Report (HDR) in India
+was published in Madhya Pradesh in 1995 and included the
+ation of the State's HDI as well as HDI for all the
+in the State.
+dian Human Development Report does not give for
+each sample village:
+(a) Infrastructure and Amenities Index
+(b) Education Related Index
+(c) Health Related Index
+(d) Unemployment Related Index
+Ans. (d)
+I.A.S. (Pre) 2000
+Indian Human Development Report comprises education
+related index, health related index and basic infrastructure
+and amenities index but unemployment related index is not
+included in it.
+Economic & Social Development
+On the basis of Human Development Report (HDR) of
+UNDP, India published its first national HDR 2001 in April,
+2002. In this report Kerala had the highest HDI rank. For the
+year 2019, Kerala is still at the top rank among all States/
+UTs of India in terms of human development, while Bihar
+is at the last place.
+46. In terms of Human Development the most developed
+State of India is :
+(a) Kerala
+(c) Tamil Nadu
+Ans. (a)
+(b) Punjab
+(d) Uttar Pradesh
+U.P.P.C.S. (Mains) 2005
+See the explanation of above question.
+47. According to Human Development Index of 2001,
+arrange the following States in descending order and
+select the correct answer from the codes given below:
+A. Punjab
+C. Bihar
+Codes:
+(a) A, B, D, C
+(c) A, D, В, С
+Ans. (b)
+B. Kerala
+D. Uttar Pradesh
+(b) B, A, D. C
+(d) A, C, D, B
+U.P.P.C.S. (Mains) 2005
+In the National Human Development Index 2001 Kerala was
+at the top. Punjab was at second place after Kerala. UP was
+at 13th and Bihar was at 15th spot. As per the latest available
+data, among all States of India, Kerala is at first, Punjab is
+at fourth, Uttar Pradesh is at 28th and Bihar is at 29th place in
+terms of Human Development Index value for 2019.
+48. Assertion (A) : Kerala stands first in terms of Human
+Development Index.
+Reason (R): Its unemployment rate is the highest in the
+country.
+Select the correct answer from the code given below:
+Code:
+(a) Both (A) and (R) are true and (R) is the correct
+explanation of (A).
+General Studies E-313
+(b) Both (A) and (R) are true, but (R) is NOT the correct
+explanation of (A).
+(c) (A) is true, but (R) is false
+(d) (A) is false, but (R) is true.
+Ans. (b)
+U.P.P.C.S. (Pre) 2011
+As per the India Human Development Report (IHDR) 2011,
+Kerala was at first place in terms of Human Development
+Index among all States/UTs of India. According to 2011
+Census, the unemployment rate in Kerala was also highest
+in the country. Thus, Assertion (A) and Reason (R) both are
+correct but Reason (R) does not explain the Assertion (A).
+49. Which of the following States had the highest Human
+Development Index in 2008?
+(a) Uttar Pradesh
+(c) Odisha
+Ans. (a)
+(b) Jharkhand
+(d) Bihar
+U.P. U.D.A./L.D.A. (Pre) 2013
+As per IHDR 2011, in the year 2008 UP has the highest
+ranking (18th) among the given States. Jharkhand (19th), Bihar
+(21st) and Odisha (22nd) had lower ranks than UP.
+50. The value of Human Development Index of Bihar in
+2019 was:
+(a) 0.641
+(c) 0.596
+(e) None of the above / More
+Ans. (d)
+(b) 0.613
+(d) 0.574
+than one of the above
+67th B.P.S.C. (Pre) 2022
+The value of Human Development Index (HDI) of Bihar in
+2019 was at 0.574, which was the lowest among all States
+of India. Kerala had the highest HDI score of 0.782 in 2019
+among all States.
+51. With reference to the Bare Necessities Index (BNI),
+consider the following statements:
+1. The Economic Survey has come up with the Bare
+Necessities Index at rural and urban levels.
+2. The BNI has been created for all States for 2018 only.
+3. The BNI is based on 26 indicators.
+4. The BNI consists of six dimensions.
+Which of the above statements are correct?
+(a) 1 and 3 only
+(c) 1 and 4 only
+(b) 2 and 3 only
+(d) 2 and 4 only
+Economic Survey 2020-21 presented a Bare Necessities n
+underlined dex (BNI)
+ the importance of access to bare necessities of at the rural, urban and all India level. This indehousing, water, sanitation, electricity and clean cookingfue
+which are consumed by all the members of the household andwhich touch the life of every member. The BNI summarise26 indicators on five dimensions viz., water, sanitation.housing, micro-environment, and other facilities. The BNhas been created for all States for 2012 and 2018 using datafrom two NSO rounds viz., 69th and 76th on Drinking Wa.ter, Sanitation, Hygiene and Housing Conditions in IndiaHence, among the given statements, only statements I and3 are correct.
+52. As per the fourth edition of State Health Index releasedby the NITI Aayog in December 2021, which one of thefollowing States performed best among the 'SmallerStates' category?
+(a) Goa
+(c) Mizoram
+Ans. (c)
+(b) Manipur
+(d) Sikkim
+U.P. R.O./A.R.O. (Mains) 2021NITI Aayog released the fourth edition of the State HealthIndex for 2019-20 in December, 2021. The report, titled'Healthy States, Progressive India', ranked States and UnionTerritories on their year-on-year incremental performance inhealth outcomes as well as their overall status. On overalranking based on the composite index score in 2019-20, thetop-ranking States were Kerala and Tamil Nadu among the'Larger States', Mizoram and Tripura among the 'SmallerStates', and Dadra and Nagar Haveli & Daman and Diu andChandigarh among the UTs. Among the ‘Larger States",interms of annual incremental performance, Uttar Pradesh.Assam and Telangana were the top three ranking States
+53. Asper latest 'Educational Development Index'releasedin February 2011, which are the four States atthe top(a) Kerala, Tamil Nadu, Punjab, Delhi
+(b) Kerala, Delhi, Haryana, Punjab
+(c) Kerala, Delhi, Gujarat, Maharashtra
+(d) Kerala, Tamil Nadu, West Bengal, Karnataka
+Ans. (a)
+U.P.P.C.S. (Mains) 200U.P.P.C.S. (Mains) 20In February 2011, National University for EducationPlanning and Administration had issued the EducатoDevelopment Index (EDI) 2009-10. Following was the oroerof top states and union territories in that index: (e) None of the above / More than one of the above
+67th B.P.S.C. (Pre) 2022 1. Puducherry, 2. Lakshadweep,. Kerala, 4. AndamanaAns. (a) 8.
+Nicobar
+ Delhi. Islands, 5. Tamil Nadu, 6. Chandigarh, 7. PunjahEconomic & Social Development General Studies E-314
+Thus, option (a) was the correct answer.
+As per the 'School Education
+by the NITI
+ Quality Index' (SEQ1) released Aayog in 2019 (with reference among 20 large year 2016-17Y. States, Kerala was the best performer |first rank, while with Tamil Nadu was at second place. Among smaller States, Tripura was the best performer rank, with first while Chandigarh topped the list of Union Territories.
+54. According to the latest survey report, the percentage of school-going children
+(a) 100% in the age group of 6-14 years is:
+(c)
+Ans. (c)
+93%
+(b) 90%
+(d) 87%
+M.P.P.C.S. (Pre) 2006
+In the context of question period, option (c) was the cor- ret answer.As per the Annual Status of Education Report (ASER) (Rural) 2024 (Released in January, 2025), the
+the
+percentage
+ age group
+ of school-going children (enrolled in schools) in of 6-14 is 98.1% in 2024. In this age group 66.8% children enrolled in government schools and 30.6% children enrolled in private schools, while 0.7% children enrolled with other schools like Madrasas and EGS. ASER (Rural) 2023 (Released in January, 2024) was focused on the 14-18 age group.

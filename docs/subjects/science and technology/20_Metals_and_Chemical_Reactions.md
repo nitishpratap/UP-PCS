@@ -3476,3 +3476,65 @@ high hardness and abrasion resistance ?
 | **Brass vs. Bronze** | Mixing up whether Brass or Bronze contains Tin. | **Brass = Copper + Zinc**. **Bronze = Copper + Tin**. Remember: "Bro**n**ze has Ti**n**". |
 | **Liquid Metals at Room Temp** | Thinking Gallium and Caesium are liquid at room temperature ($25^\circ\text{C}$). | Only **Mercury** is liquid at $25^\circ\text{C}$ (m.p. $-38.8^\circ\text{C}$). Gallium ($29.8^\circ\text{C}$) and Caesium ($28.4^\circ\text{C}$) melt slightly above room temperature (in the palm). |
 | **Fool's Gold Extraction** | Assuming Fool's Gold ($FeS_2$) is an ore mined for metallic iron. | Iron pyrites is mined for **sulphur / sulphuric acid production**, not iron extraction, because sulphur impurities make iron brittle. |
+
+
+---
+
+## Bilingual Terminology -- Metals and Chemical Reactions
+
+| English Term | Hindi Term | Key Anchor |
+|---|---|---|
+| **Metal** (धातु) | धातु | Lustrous, malleable, ductile, good conductor; loses electrons |
+| **Non-metal** (अधातु) | अधातु | Dull, brittle, poor conductor (except graphite); gains electrons |
+| **Alloy** (मिश्र धातु) | मिश्र धातु | Mixture of two or more metals (or metal + non-metal) |
+| **Corrosion** (संक्षारण) | संक्षारण | Deterioration of metals by reaction with environment; e.g., rusting |
+| **Rusting** (जंग लगना) | जंग लगना | Corrosion of iron; Fe2O3.xH2O (hydrated iron oxide); needs O2 + H2O |
+| **Oxidation** (ऑक्सीकरण) | ऑक्सीकरण | Loss of electrons; increase in oxidation state |
+| **Reduction** (अपचयन) | अपचयन | Gain of electrons; decrease in oxidation state |
+| **Redox Reaction** (ऑक्सीकरण-अपचयन) | रेडॉक्स अभिक्रिया | Simultaneous oxidation and reduction in same reaction |
+| **Calcination** (निस्तापन) | निस्तापन | Heating ore in limited air; e.g., CaCO3 -> CaO + CO2 |
+| **Roasting** (भर्जन) | भर्जन | Heating sulphide ore in excess air; converts to oxide; e.g., ZnS + O2 -> ZnO + SO2 |
+| **Smelting** (प्रगलन) | प्रगलन | Melting ore with reducing agent (coke) to extract metal |
+| **Electrolytic Refining** (विद्युत-अपघटनी परिष्करण) | विद्युतअपघटनी शोधन | Purification of metals using electrolysis; crude as anode, pure as cathode |
+| **Thermite Reaction** | थर्माइट अभिक्रिया | Al + Fe2O3 -> Al2O3 + Fe + huge heat; welding railway tracks |
+| **Galvanisation** (जस्तीकरण) | गैल्वनीकरण | Coating iron with zinc to prevent rusting |
+| **Anodising** (एनोडाइजिंग) | एनोडाइजिंग | Electrochemical coating of aluminium with Al2O3 (protection layer) |
+| **Reactivity Series** (क्रियाशीलता श्रृंखला) | अभिक्रियाशीलता क्रम | Metals arranged by reactivity: K>Na>Ca>Mg>Al>Zn>Fe>Ni>Sn>Pb>H>Cu>Hg>Ag>Au>Pt |
+
+---
+
+## One-Liner Revision -- Metals and Chemical Reactions
+
+| # | Fast Fact |
+|---|---|
+| 1 | Most reactive metal = **Potassium (K)**; reacts violently with water |
+| 2 | Least reactive metal = **Platinum (Pt)** / Gold (Au) = noble metals |
+| 3 | Most malleable metal = **Gold (Au)** (1g can be beaten into 1m2 sheet) |
+| 4 | Best conductor of electricity = **Silver (Ag)**; then Cu, then Au, then Al |
+| 5 | Hardest metal = **Chromium (Cr)**; hardest element = Carbon (diamond) |
+| 6 | Lightest metal = **Lithium (Li)**; floats on water and oil |
+| 7 | Mercury (Hg) = only metal that is liquid at room temperature |
+| 8 | Gallium (Ga) = melts in palm (melting point 29.76 degC) |
+| 9 | Stainless steel = Fe + Cr (10.5%+) + Ni; rust-resistant |
+| 10 | Brass = **Cu + Zn**; Bronze = Cu + Sn; Gunmetal = Cu + Sn + Zn |
+| 11 | German silver / Nickel silver = Cu + Zn + Ni (no silver!) |
+| 12 | Solder = **Pb + Sn** (used in electronics for joining); being replaced by Sn-Ag-Cu |
+| 13 | Bell metal = **Cu + Sn** (high tin content); used for bells and cymbals |
+| 14 | Duralumin = **Al + Cu + Mg + Mn**; lightweight strong alloy; aircraft construction |
+| 15 | Rusting requires both **water** and **oxygen**; prevented by galvanisation, painting, oiling |
+| 16 | Galvanisation = coating iron with **zinc (Zn)**; zinc acts as sacrificial anode |
+| 17 | Thermite reaction: 2Al + Fe2O3 -> 2Fe + Al2O3 + heat (~2500 degC); railway welding |
+| 18 | Reactivity series: metals above H displace H from acids; K, Na, Ca react with cold water |
+| 19 | Gold does not corrode; found native (in free state) in nature |
+| 20 | Bauxite (Al2O3.2H2O) = ore of aluminium; Haematite (Fe2O3) = ore of iron |
+| 21 | Bayer Process = extraction of alumina from bauxite; then Hall-Heroult for Al electrolysis |
+| 22 | Blast furnace = extraction of iron from haematite using coke + limestone |
+| 23 | Pig iron = crude iron from blast furnace; high carbon (4-5%); brittle |
+| 24 | Wrought iron = nearly pure iron; very low carbon (<0.02%); most malleable |
+| 25 | Steel = iron + carbon (0.2-2%); iron + Cr = stainless; iron + Mn = manganese steel |
+| 26 | Amalgamation = extraction of Ag/Au using Hg (forms amalgam) |
+| 27 | Electrolytic refining: crude metal at anode (-) dissolves; pure at cathode (-) deposits |
+| 28 | Patina = green coating on copper = basic copper carbonate [Cu(OH)2.CuCO3] |
+| 29 | Verdigris (patina on Statue of Liberty) = green due to copper oxidation |
+| 30 | Chemical change = new substance formed (rust); Physical change = no new substance (melting) |
+

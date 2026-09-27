@@ -3330,3 +3330,64 @@ by frequency modulation.
    - Incoming solar radiation is shortwave, which passes through clear air with minimal direct absorption ($\sim 14\%$). The atmosphere is heated predominantly from below by **longwave terrestrial infrared radiation**.
 5. **The "Transverse Waves in Water" Trap:**
    - Transverse waves can exist on the **surface** of water due to surface tension and gravity, but **inside the bulk of water, only longitudinal waves can propagate**.
+
+
+---
+
+## Bilingual Terminology -- Sound and Wave Motion
+
+| English Term | Hindi Term | Key Anchor |
+|---|---|---|
+| **Sound** (ध्वनि) | ध्वनि | Mechanical longitudinal wave; needs medium; cannot travel in vacuum |
+| **Frequency** (आवृत्ति) | आवृत्ति | Number of vibrations per second; SI unit = Hz |
+| **Wavelength** (तरंगदैर्ध्य) | तरंगदैर्ध्य | Distance between two consecutive crests/troughs; SI unit = metre |
+| **Amplitude** (आयाम) | आयाम | Maximum displacement from mean position; determines loudness |
+| **Pitch** (तारत्व) | तारत्व | Highness/lowness of sound; depends on frequency |
+| **Loudness** (प्रबलता) | प्रबलता | Subjective sensation; depends on amplitude and intensity |
+| **Infrasound** (अवश्रव्य ध्वनि) | अवश्रव्य ध्वनि | Frequency < 20 Hz; humans cannot hear; elephants, whales use it |
+| **Ultrasound** (पराश्रव्य ध्वनि) | पराश्रव्य ध्वनि | Frequency > 20,000 Hz; bats, dolphins; used in SONAR, medical imaging |
+| **Echo** (प्रतिध्वनि) | प्रतिध्वनि | Reflection of sound; minimum distance for echo = 17 m (at 20 degC) |
+| **Reverberation** (अनुनाद) | प्रतिध्वनि लम्बी / अनुगूँज | Persistence of sound due to multiple reflections in enclosed space |
+| **Resonance** (अनुनाद) | अनुनाद | When applied frequency = natural frequency; amplitude becomes large |
+| **Doppler Effect** (डॉपलर प्रभाव) | डॉपलर प्रभाव | Change in apparent frequency due to relative motion between source and observer |
+| **Decibel (dB)** (डेसिबल) | डेसिबल | Logarithmic unit of sound intensity |
+| **SONAR** (सोनार) | सोनार | Sound Navigation and Ranging; uses ultrasound to detect underwater objects |
+| **Noise Pollution** (ध्वनि प्रदूषण) | ध्वनि प्रदूषण | Unwanted sound causing health problems; >85 dB prolonged = hearing damage |
+
+---
+
+## One-Liner Revision -- Sound and Wave Motion
+
+| # | Fast Fact |
+|---|---|
+| 1 | Sound is a **mechanical longitudinal** wave (particles vibrate parallel to wave direction) |
+| 2 | Sound needs a **medium** to travel; cannot travel in vacuum |
+| 3 | Speed of sound: 343 m/s in air (20 degC); 1500 m/s in water; 5100 m/s in steel |
+| 4 | Speed of sound increases with temperature and humidity |
+| 5 | Sound travels fastest in **solids**, slowest in **gases** |
+| 6 | Human audible range = **20 Hz to 20,000 Hz** |
+| 7 | Infrasound (< 20 Hz) = elephants, whales, earthquakes; long-range communication |
+| 8 | Ultrasound (> 20,000 Hz) = bats (echolocation), dolphins; SONAR; medical USG |
+| 9 | SONAR uses ultrasound to detect submarines, fish, ocean depth |
+| 10 | Medical ultrasonography = uses 1-20 MHz ultrasound to image internal organs |
+| 11 | Echo = minimum distance = **17 metres** (at 20 degC); time gap > 0.1 sec |
+| 12 | Reverberation = multiple reflections; undesirable in auditoriums; curtains absorb |
+| 13 | Resonance = when forced frequency = natural frequency; Tacoma Narrows Bridge collapse (1940) |
+| 14 | Doppler Effect: source approaching = frequency increases (blue shift); receding = decreases (red shift) |
+| 15 | Doppler Effect used in: radar speed guns, echocardiography, astronomy (red shift) |
+| 16 | Mach number = object speed / speed of sound; Mach 1 = speed of sound |
+| 17 | Sonic boom = shock wave when object crosses Mach 1 (supersonic) |
+| 18 | dB levels: Whisper = 20 dB; Conversation = 60 dB; Rock concert = 110-120 dB |
+| 19 | Safe noise level = <85 dB (prolonged); >140 dB = pain threshold |
+| 20 | Noise pollution limit (India): day = 55 dB (residential), night = 45 dB |
+| 21 | Beats = alternating loud/soft sound when two slightly different frequencies combine |
+| 22 | Beat frequency = |f1 - f2|; used for tuning musical instruments |
+| 23 | Musical instruments: String (sitar), Wind (flute, trumpet), Percussion (tabla) |
+| 24 | Stethoscope = uses sound conduction (not amplification) to hear heartbeats |
+| 25 | Thunder heard after lightning = because light (3x10^8 m/s) >> sound (343 m/s) |
+| 26 | Sound wavelength (audible range): 1.7 cm (20 kHz) to 17 m (20 Hz) |
+| 27 | Intensity of sound: I = P/(4*pi*r^2); decreases as 1/r^2 from point source |
+| 28 | Transverse waves: light, EM waves; Longitudinal waves: sound, seismic P-waves |
+| 29 | Seismic P-waves = longitudinal; S-waves = transverse (can't pass through liquid outer core) |
+| 30 | Infrasound from earthquakes detected by animals before humans = early warning |
+

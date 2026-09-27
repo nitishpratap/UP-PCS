@@ -75,83 +75,34 @@
 
 ---
 
-## Consolidated — 70 Must-Score Facts
+## Consolidated — 50 Must-Score Facts
 
 1. **DRDO Genesis & Motto:** Established in **1958** by amalgamating Technical Development Establishment (TDEs), DTDP, and Defence Science Organisation (DSO). Motto: ***"Balasya Mulam Vigyanam"*** ("The source of strength is science").
 2. **Integrated Guided Missile Development Programme (IGMDP):** Conceived by **Dr. A.P.J. Abdul Kalam** in 1983 and sanctioned on 26 July 1983; completed in March 2012. Developed five indigenous missile systems: **P-A-T-A-N** (Prithvi, Agni, Trishul, Akash, Nag).
 3. **Prithvi Missile Family:** Surface-to-surface, single-stage liquid-propellant ballistic missiles.
-   - *Prithvi-I:* Army version, range **150 km**, payload 1,000 kg.
-   - *Prithvi-II:* Air Force version, range **250 km**, payload 500–750 kg.
-   - *Prithvi-III / Dhanush:* Naval ship-launched version, range **350 km**, payload 1,000 kg.
 4. **Agni Missile Hierarchy:** Surface-to-surface ballistic missile family:
-   - *Agni-I:* Short-range ballistic missile (SRBM), single-stage solid fuel, range **700–1,250 km**, payload 1,000 kg.
-   - *Agni-II:* Medium-range ballistic missile (MRBM), two-stage solid fuel, range **2,000–2,500 km**, payload 1,000 kg.
-   - *Agni-III:* Intermediate-range ballistic missile (IRBM), two-stage solid fuel, range **3,000–3,500 km**, payload 1,500 kg.
-   - *Agni-IV:* Long-range IRBM, two-stage solid fuel with composite rocket motor, range **4,000 km**, payload 1,000 kg.
-   - *Agni-V:* Three-stage solid fuel ICBM/IRBM, range **5,000+ km**, payload 1,500 kg; equipped with **MIRV technology** under Mission Divyastra (2024).
-   - *Agni P (Prime):* Canisterised, road/rail-mobile two-stage solid fuel missile, range **1,000–2,000 km**, with MaRV re-entry capability.
 5. **Trishul:** Short-range (9 km), quick-reaction, supersonic surface-to-air missile developed under IGMDP; officially closed in 2008 due to guidance limitations.
 6. **Akash:** Medium-range (25–30 km) mobile surface-to-air missile (SAM) system using an air-breathing **ramjet rocket** propulsion system; guided by indigenous **Rajendra 3D phased array radar**.
 7. **Nag & HELINA / Dhruvastra:** Third-generation, 'fire-and-forget' anti-tank guided missile (ATGM). Employs Imaging Infrared (IIR) passive seeker. Land range: **500 m to 4 km**. Air-launched helicopter version: **HELINA / Dhruvastra** (range **7–8 km**).
 8. **Amogha ATGM Series:** Developed by Bharat Dynamics Limited (BDL), Hyderabad. Amogha-III is a 3rd-gen man-portable fire-and-forget ATGM with a tandem HEAT warhead (range 200 m to 2.5 km).
 9. **BrahMos Supersonic Cruise Missile:** Joint venture between India (DRDO) and Russia (NPO Mashinostroyeniya), named after **Brahmaputra and Moskva** rivers.
-   - Two-stage propulsion: Solid booster + liquid **ramjet engine**.
-   - Speed: **Mach 2.8–3.0**. Original range: **290 km** (extended to **450–500 km** after India joined MTCR). Can be launched from land, ship, submarine, and Su-30 MKI.
 10. **Nirbhay Cruise Missile:** Indigenously designed long-range, all-weather, **subsonic cruise missile** (Mach 0.7, range **1,000 km**); uses a solid booster and a small turbofan engine.
 11. **Pralay Missile:** Battlefield quasi-ballistic solid-propellant missile (range **150–500 km**) capable of performing evasive maneuvers mid-course to defeat anti-ballistic missile systems.
 12. **K-Missile Family (Submarine Launched Ballistic Missiles - SLBMs):** Named in honor of Dr. A.P.J. Abdul Kalam.
-   - *K-15 (Sagarika):* Range **700–750 km**, launched from **Arihant-class nuclear submarines**.
-   - *Shaurya:* Canister-launched, hypersonic (Mach 7.5) land-based tactical ballistic version of K-15.
-   - *K-4:* Intermediate-range SLBM (range **3,500 km**) for Arihant-class submarines.
 13. **Indian Ballistic Missile Defence (BMD) Program:** Double-tiered shield:
-   - *Prithvi Air Defence (PAD):* High-altitude **exo-atmospheric** interceptor (altitude 50–80 km).
-   - *Advanced Air Defence (AAD) / Ashwin:* Low-altitude **endo-atmospheric** interceptor (altitude 15–30 km).
-   - *Phase-II AD-1 Interceptor:* Low exo-atmospheric and endo-atmospheric interception capable of defeating 5,000 km-class ballistic missiles.
 14. **Astra Missile:** India's first indigenous Beyond-Visual-Range Air-to-Air Missile (**BVRAAM**), developed by DRDO. Range: 80–110 km (Astra Mk-1); integrated on Su-30 MKI and LCA Tejas.
 15. **RudraM Anti-Radiation Missiles:**
-   - *RudraM-I:* First indigenous anti-radiation missile (range 100–200 km), launched from Su-30 MKI to home in on enemy radar frequencies.
-   - *RudraM-II:* Solid-propelled air-to-surface anti-radiation missile (range 300 km).
 16. **LCA Tejas:** Indigenous 4.5th generation, single-engine, compound delta-wing tailless multirole supersonic light combat aircraft; designed by Aeronautical Development Agency (ADA) and manufactured by HAL.
 17. **Fighter Jet Generations:**
-   - *4th Generation:* MiG-29, Mirage 2000, F-16.
-   - *4.5th Generation:* Rafale (Dassault Aviation, France - 36 inducted by IAF), Su-30 MKI, Tejas Mk-1/1A.
-   - *5th Generation:* F-22 Raptor (US), F-35 Lightning II (US), Sukhoi Su-57 (Russia), Chengdu J-20 (China). Features stealth airframe, supercruise, and sensor fusion.
 18. **Nuclear Submarine Fleet:**
-   - **INS Arihant:** India's first indigenously constructed nuclear-powered ballistic missile submarine (**SSBN**, 6,000 tonnes, 83 MW light-water reactor), completing India's nuclear triad.
-   - **INS Arighat:** Second indigenous SSBN, commissioned in August 2024.
-   - **INS Chakra:** Akula-class nuclear-powered attack submarine (**SSN**) leased from Russia.
 19. **Scorpene-Class Conventional Submarines (Project-75):** Built by Mazagon Dock Shipbuilders Limited (MDL) under technology transfer from Naval Group, France:
-   - INS Kalvari (2017), INS Khanderi (2019), INS Karanj (2021), INS Vela (2021), INS Vagir (Jan 2023), INS Vaghsheer (Jan 2025).
 20. **Aircraft Carriers of Indian Navy:**
-   - *INS Vikramaditya:* 44,500-tonne modified Kiev-class carrier (ex-Admiral Gorshkov), inducted in Nov 2013.
-   - *INS Vikrant (IAC-1):* India's first indigenously designed and built aircraft carrier (45,000 tonnes), commissioned at Kochi on **2 September 2022**.
 21. **Main Battle Tanks (MBT):**
-   - **MBT Arjun:** Indigenously designed by DRDO (Combat Vehicles R&D Establishment - CVRDE, Avadi); features 120mm rifled gun, Kanchan composite armour, and laser warning receivers.
-   - **T-90S Bhishma:** Russian-designed 3rd-generation tank assembled and license-built at Heavy Vehicles Factory (HVF), Avadi.
-   - **BMP-2 Sarath:** Amphibious infantry fighting vehicle manufactured by Ordnance Factory Medak.
 22. **Unmanned Aerial Vehicles (UAVs):**
-   - *Lakshya:* Reusable micro-turbojet aerial target drone.
-   - *Nishant:* Hydro-pneumatic rail-launched battlefield surveillance UAV.
-   - *Rustom-1 / Tapas-BH-201:* Medium Altitude Long Endurance (MALE) reconnaissance drone.
-   - *Netra:* Autonomous quadcopter for counter-insurgency developed by IdeaForge and DRDO.
 23. **Radars & Surveillance Systems:**
-   - *INDRA (Indian Doppler Radar):* 2D radar for low-level target detection.
-   - *Rajendra:* 3D multifunction phased array radar for Akash missile guidance.
-   - *Uttam:* Indigenous Active Electronically Scanned Array (AESA) radar developed by LRDE for Tejas.
-   - *Phalcon AWACS:* Airborne Early Warning and Control system mounted on IL-76 aircraft, acquired from Israel.
 24. **Foreign Air Defence Systems:**
-   - *S-400 Triumf (Russia):* Long-range surface-to-air missile system (range up to 400 km).
-   - *Iron Dome (Israel):* Short-range (4–70 km) all-weather rocket and mortar interception system.
-   - *THAAD (USA):* Terminal High Altitude Area Defense; kinetic 'hit-to-kill' anti-ballistic missile system.
 25. **Multilateral Export Regimes:**
-   - **MTCR (Missile Technology Control Regime):** 35 members; controls delivery systems for $\ge 500\text{ kg}$ payload over $\ge 300\text{ km}$. India joined on **27 June 2016**.
-   - **HCoC (Hague Code of Conduct):** 145 subscribing states; transparency against ballistic missile proliferation. India joined on **1 June 2016**.
-   - **Australia Group:** 43 members; chemical and biological export controls. India joined on **19 January 2018**.
-   - **Wassenaar Arrangement:** 42 participating states; conventional arms and dual-use technologies. India joined on **8 December 2017**.
 26. **Disarmament & Non-Proliferation Treaties:**
-   - India is party to the **Chemical Weapons Convention (CWC)** and all 5 protocols of the **Convention on Certain Conventional Weapons (CCW)**.
-   - India **refused to sign the Comprehensive Nuclear-Test-Ban Treaty (CTBT)** and the Nuclear Non-Proliferation Treaty (NPT), citing their discriminatory structure.
-   - India supports a universal, verifiable **Fissile Material Cut-off Treaty (FMCT)**.
 27. **New START Treaty:** Signed in Prague (2010) between USA and Russia; limited deployed strategic warheads to 1,550 and launchers to 700. Expired on **5 February 2026**.
 28. **NATO (North Atlantic Treaty Organization):** Formed on 4 April 1949 (Washington Treaty). Collective defence enshrined in **Article 5**. Headquartered in **Brussels, Belgium**. 32 members (Finland joined 2023, Sweden joined March 2024).
 29. **Father & Son Nobel Physics Prize:** Sir **William Henry Bragg and William Lawrence Bragg** shared the 1915 Nobel Prize in Physics for crystal analysis using X-ray spectrometry.
@@ -159,9 +110,6 @@
 31. **Einstein's Nobel Prize (1921):** Awarded specifically for the **Law of the Photoelectric Effect**, *not* for Relativity.
 32. **Sir C.V. Raman:** Discovered the **Raman Effect on 28 February 1928** (inelastic scattering of light by molecules); 1930 Nobel Prize in Physics; Bharat Ratna in 1954.
 33. **National Days in Science & Technology:**
-   - *National Science Day:* **February 28** (Raman Effect discovery).
-   - *National Technology Day:* **May 11** (Pokhran-II nuclear tests, 1998).
-   - *National Space Day:* **August 23** (Chandrayaan-3 soft landing, 2023).
 34. **Acharya J.C. Bose:** Generated millimeter microwaves ($60\text{ GHz}$) in 1895; invented the **Crescograph** measuring plant physiological responses to stimuli.
 35. **Satyendra Nath Bose:** Formulated **Bose-Einstein Statistics** (1924) for integer-spin particles (**Bosons**, named by Dirac); predicted the **Bose-Einstein Condensate (BEC)**.
 36. **Meghnad Saha:** Formulated the **Saha Ionization Equation** (1920) linking stellar spectra to temperature and pressure; chaired Calendar Reform Committee (1952) establishing the Saka National Calendar.
@@ -171,65 +119,16 @@
 40. **Dr. Raja Ramanna:** Nuclear physicist who directed India's first nuclear test ('Smiling Buddha', 18 May 1974) at Pokhran.
 41. **John Bardeen:** Only person to win **two Nobel Prizes in Physics**: 1956 for the **Transistor** (with Brattain and Shockley) and 1972 for the **BCS Theory of Superconductivity**.
 42. **Landmark Inventions & Pioneers:**
-   - *X-Rays:* Wilhelm Conrad Röntgen (1895, first Nobel Prize in Physics, 1901).
-   - *Radio / Wireless Telegraphy:* Guglielmo Marconi (1901, Nobel 1909).
-   - *Telephone:* Alexander Graham Bell (1876).
-   - *Electric Incandescent Bulb:* Thomas Alva Edison (1879).
-   - *Dynamite:* Alfred Nobel (1867).
-   - *Steam Engine:* James Watt (1769).
-   - *Television:* John Logie Baird (1926).
-   - *Laser:* Theodore Maiman (1960).
-   - *Penicillin:* Sir Alexander Fleming (1928, Nobel 1945).
-   - *Machine Gun:* James Puckle (1718, 'Defence Gun').
 43. **Black Hole Physics:** Celestial body with escape velocity exceeding light ($v_{\text{esc}} > c$). Boundary is the **Event Horizon**; central density is the **Singularity**.
 44. **Gravitational Waves:** Spacetime ripples predicted by Einstein (1916); first directly observed by **LIGO on 14 September 2015** from a binary black hole merger.
 45. **Rocket Propulsion Dynamics:** Governed by **Newton's Third Law** and the **Law of Conservation of Linear Momentum** ($m \Delta v = -v_e \Delta m$).
 46. **Indian Launch Vehicle Fleet:**
-   - *SLV-3:* 4-stage all-solid (Rohini RS-1, 1980).
-   - *PSLV:* 4-stage (Solid-Liquid-Solid-Liquid), ISRO workhorse.
-   - *GSLV Mk II:* 3-stage with Cryogenic Upper Stage (CUS).
-   - *LVM3 (GSLV Mk III):* Heavy-lift (S200 solid + L110 liquid + C25 cryogenic).
-   - *SSLV:* 3 solid stages + liquid VTM module (500 kg to LEO).
 47. **Cryogenics Chemistry:** Involves temperatures below **$-150^\circ\text{C}$ ($120\text{ K}$)**. Rocket propellant combination: **Liquid Hydrogen ($LH_2$, fuel, boiling point $-252.9^\circ\text{C}$)** and **Liquid Oxygen ($LOX$, oxidizer, boiling point $-183.0^\circ\text{C}$)**.
 48. **Ramjet vs Scramjet:** Ramjet slows airflow to **subsonic** speeds inside the burner (Mach 2–5). Scramjet maintains **supersonic** airflow throughout the combustor (velocities **> Mach 6**).
 49. **Geostationary vs Geosynchronous Orbits:** Both have a 24-hour orbital period at **$35,786\text{ km}$ ($22,236\text{ miles}$)**. Geostationary is circular and strictly on the equatorial plane (stationary relative to Earth). Geosynchronous is inclined (figure-8 path).
 50. **NavIC (IRNSS):** Regional navigation satellite constellation covering India and **1,500 km** beyond its borders, using **7 satellites** (3 in Geostationary Orbit + 4 in Geosynchronous Orbit).
 
 ---
-
-51. **Theodore Maiman & Ruby Laser (1960):** Built the world's 1st working laser at Hughes Research Laboratories using a synthetic ruby crystal gain medium, producing coherent pulses of **deep red light at 694.3 nm**.
-52. **MASER (Microwave Amplification by Stimulated Emission of Radiation):** Built in 1953 by Charles H. Townes, James P. Gordon, and Herbert J. Zeiger at Columbia University; foundational for atomic clocks and deep-space telemetry amplifiers.
-53. **Nanotechnology Genesis & Terminology:** Concept introduced by **Richard Feynman** on 29 Dec 1959 at Caltech (*"There's Plenty of Room at the Bottom"*); term defined by **Norio Taniguchi** in 1974; 1st textbook *'Engines of Creation'* written by **K. Eric Drexler** (1986).
-54. **Nanoscale Dimensions & Forces:** Size ranges between **1 nm and 100 nm** ($10^{-9}\text{ to }10^{-7}\text{ m}$). At this scale, surface area-to-volume ratio skyrockets and **friction** becomes the dominant mechanical property.
-55. **Quantum Confinement Dimensionality:**
-    - 1D nanoscale confinement (2D macroscopic) = **Quantum Well** (thin film).
-    - 2D nanoscale confinement (1D macroscopic) = **Quantum Wire**.
-    - 3D nanoscale confinement (0D macroscopic) = **Quantum Dot** (1.5–10.0 nm semiconductor nanocrystal with discrete optoelectronic energy levels).
-56. **Four Generations of Nanotechnology:** Generation I (Passive: aerosols, colloids, polymers, ceramics); Generation II (Active: targeted drugs, 3D transistors, amplifiers); Generation III (Systems: robotics, 3D networking); Generation IV (Molecular manufacturing).
-57. **Carbon Nanotubes (CNTs):** High-surface-area cylindrical carbon allotropes capable of targeted drug and gene delivery; biodegradable by specific microbial and fungal peroxidase enzymes.
-58. **Indian Polar Bases Management:** Administered by the **National Centre for Polar and Ocean Research (NCPOR)**, Vasco da Gama, Goa under the Ministry of Earth Sciences (MoES).
-59. **Antarctica Stations Sequence:** **Dakshin Gangotri** (1983–84; decommissioned 1990) $\rightarrow$ **Maitri** (1989, Schirmacher Oasis) $\rightarrow$ **Bharati** (2012, Larsemann Hills / Prydz Bay, assembled from 134 shipping containers).
-60. **Arctic Research Infrastructure:** Research station **Himadri** at Ny-Ålesund, Svalbard, Norway (est. July 2008); **IndARC** underwater moored observatory deployed in Kongsfjorden fjord (2014) to study Arctic-monsoon teleconnections.
-61. **Samudrayaan & MATSYA 6000:** India's 1st manned deep-ocean expedition carrying 3 scientists to a depth of **6,000 meters** in the self-propelled submersible vehicle MATSYA 6000 developed by NIOT Chennai.
-62. **Oceanographic Gradient Layers (Clines):**
-    - **Pycnocline:** Rapid density change with depth.
-    - **Halocline:** Rapid salinity change with depth.
-    - **Thermocline:** Rapid temperature change with depth.
-    - **Ecocline:** Continuous ecological transition zone between two ecosystems.
-63. **Indian Science Congress Association (ISCA):** Premier autonomous scientific body under DST established in **1914** at Kolkata by British scientists **Prof. J.L. Simonsen** and **Prof. P.S. MacMahon**. 1st session held at Asiatic Society, Calcutta (1914); 108th session at R.T.M. Nagpur University (Jan 2023).
-64. **Display Technologies — OLED vs LCD:** OLED displays are organic and self-luminous (no backlight required), enabling fabrication on flexible plastic substrates, roll-up screens in smart textiles/clothing, and transparent displays.
-65. **Display Resolution 1080p:** Corresponds to Full HD (**FHD**) with **$1920 \times 1080$ pixels** in standard 16:9 widescreen aspect ratio.
-66. **Rare Earth Elements (REEs) in Displays:** Elements like **Europium ($Eu$)**, **Terbium ($Tb$)**, and **Yttrium ($Y$)** are utilized as phosphors in flat screens due to their unique phosphorescent and luminescent properties.
-67. **Watch Mechanisms & Metrology:**
-    - Quartz watches: Driven by a quartz crystal oscillator utilizing the **inverse piezoelectric effect**.
-    - Automatic wristwatches: Winding energy is provided entirely by movements of the wearer's wrist/arm.
-    - Strontium atomic clock (JILA/NIST): The world's most precise clock, losing only 1 second in 300 million to 15 billion years.
-68. **Dry Cell Electrodes:** The outer Zinc container serves as the **anode** (negative terminal), while the central Carbon rod surrounded by $MnO_2$ paste serves as the **cathode** (positive terminal).
-69. **First Heavy Water Plant:** Commissioned in **1962 at Nangal, Punjab** within the premises of National Fertilizers Limited by the Department of Atomic Energy (DAE).
-70. **National Science Day vs Raman Birthday:** Celebrated every year on **28 February** to commemorate Sir C.V. Raman's discovery of the **Raman Effect (28 Feb 1928)**, NOT his birthday (which is 7 November 1888).
-
----
-
 ## Confused Pairs
 
 | Concept A | Concept B | Razor-Sharp Distinguishing Criteria & Common Traps |
@@ -634,6 +533,23 @@ When the physical dimensions of a semiconductor or conductor approach the de Bro
   - 108th ISC session held in January 2023 at R.T.M. Nagpur University (*"Science and Technology for Sustainable Development with Women Empowerment"*).
 
 ---
+
+
+## Teaching expansion — additional theory (beyond Consolidated spine)
+
+These points sit in teaching theory (not the Consolidated spine).
+
+- **Theodore Maiman & Ruby Laser (1960):** Built the world's 1st working laser at Hughes Research Laboratories using a synthetic ruby crystal gain medium, producing coherent pulses of **deep red light at 694.3 nm**.
+- **Nanoscale Dimensions & Forces:** Size ranges between **1 nm and 100 nm** ($10^{-9}\text{ to }10^{-7}\text{ m}$). At this scale, surface area-to-volume ratio skyrockets and **friction** becomes the dominant mechanical property.
+- **Quantum Confinement Dimensionality:**
+- **Four Generations of Nanotechnology:** Generation I (Passive: aerosols, colloids, polymers, ceramics); Generation II (Active: targeted drugs, 3D transistors, amplifiers); Generation III (Systems: robotics, 3D networking); Generation IV (Molecular manufacturing).
+- **Indian Polar Bases Management:** Administered by the **National Centre for Polar and Ocean Research (NCPOR)**, Vasco da Gama, Goa under the Ministry of Earth Sciences (MoES).
+- **Samudrayaan & MATSYA 6000:** India's 1st manned deep-ocean expedition carrying 3 scientists to a depth of **6,000 meters** in the self-propelled submersible vehicle MATSYA 6000 developed by NIOT Chennai.
+- **Oceanographic Gradient Layers (Clines):**
+- **Display Technologies — OLED vs LCD:** OLED displays are organic and self-luminous (no backlight required), enabling fabrication on flexible plastic substrates, roll-up screens in smart textiles/clothing, and transparent displays.
+- **Watch Mechanisms & Metrology:**
+- **First Heavy Water Plant:** Commissioned in **1962 at Nangal, Punjab** within the premises of National Fertilizers Limited by the Department of Atomic Energy (DAE).
+- **National Science Day vs Raman Birthday:** Celebrated every year on **28 February** to commemorate Sir C.V. Raman's discovery of the **Raman Effect (28 Feb 1928)**, NOT his birthday (which is 7 November 1888).
 
 ## Complete PYQ Bank — UPPCS
 
@@ -14417,3 +14333,65 @@ Which of the pairs given above are correctly matched?
 | **Nanotechnology in Nature** | Believing nanoparticles are exclusively synthetic and never occur naturally. | Interplanetary cosmic dust, volcanic aerosols, and biological viruses are natural nanoparticles. |
 | **OLED vs LCD Flexibility** | Assuming LCD screens can be woven into flexible clothing. | Only **OLED** can be fabricated on flexible plastic substrates and roll-up textiles; LCD requires rigid glass and backlights. |
 | **Fissile Materials: Hiroshima vs Nagasaki** | Confusing the core fissile materials of the 1945 atomic bombs. | **Little Boy** (Hiroshima) used **Uranium-235**. **Fat Man** (Nagasaki) used **Plutonium-239**. |
+
+
+---
+
+## Bilingual Terminology -- Scientists, Discoveries and Applications
+
+| English Term | Hindi Term | Key Anchor |
+|---|---|---|
+| **Discovery** (खोज) | खोज | First observation/finding of a natural phenomenon |
+| **Invention** (आविष्कार) | आविष्कार | Creation of a new device, method or process |
+| **Nobel Prize** (नोबेल पुरस्कार) | नोबेल पुरस्कार | Highest international prize in Physics, Chemistry, Medicine, Literature, Peace, Economics |
+| **Scientific Theory** (वैज्ञानिक सिद्धांत) | वैज्ञानिक सिद्धांत | Well-tested explanation supported by experimental evidence |
+| **Scientific Law** (वैज्ञानिक नियम) | वैज्ञानिक नियम | Statement describing consistent natural phenomenon (e.g., Newton's Laws) |
+| **Telescope** (दूरदर्शी) | दूरबीन / दूरदर्शी | Optical instrument to observe distant objects; Galileo (1609) |
+| **Microscope** (सूक्ष्मदर्शी) | सूक्ष्मदर्शी | Optical instrument to view tiny objects; Hans Janssen (1590s) |
+| **Vaccine** (टीका) | टीका | Smallpox vaccine = Edward Jenner (1796); concept of immunisation |
+| **Penicillin** (पेनिसिलिन) | पेनिसिलिन | First antibiotic; Alexander Fleming (1928); *Penicillium notatum* |
+| **X-ray** (एक्स-रे) | एक्स-रे | Discovered by Wilhelm Roentgen (1895); Nobel 1901 |
+| **Electron** (इलेक्ट्रॉन) | इलेक्ट्रॉन | Discovered by J.J. Thomson (1897) |
+| **Proton** (प्रोटॉन) | प्रोटॉन | Discovered by Rutherford (1917) |
+| **Neutron** (न्यूट्रॉन) | न्यूट्रॉन | Discovered by James Chadwick (1932) |
+| **DNA Double Helix** (डीएनए दोहरा कुण्डल) | डीएनए दोहरी कुण्डली | Watson and Crick (1953); Rosalind Franklin's X-ray |
+| **Periodic Table** (आवर्त सारणी) | आवर्त सारणी | Dmitri Mendeleev (1869); arranged elements by atomic mass |
+| **Gravity** (गुरुत्व) | गुरुत्वाकर्षण | Isaac Newton; apple falling story; Universal Law of Gravitation (1687) |
+
+---
+
+## One-Liner Revision -- Key Scientists and Their Discoveries
+
+| # | Scientist | Discovery/Invention | Year |
+|---|---|---|---|
+| 1 | **Isaac Newton** | Laws of Motion + Law of Gravitation | 1687 |
+| 2 | **Galileo Galilei** | Telescope (improved); heliocentrism; laws of falling bodies | 1609 |
+| 3 | **Charles Darwin** | Theory of Evolution by Natural Selection | 1859 |
+| 4 | **Wilhelm Roentgen** | X-rays (Nobel 1901) | 1895 |
+| 5 | **Henri Becquerel** | Radioactivity (Nobel 1903) | 1896 |
+| 6 | **Marie Curie** | Polonium + Radium; 2 Nobel prizes (1903, 1911) | 1898 |
+| 7 | **J.J. Thomson** | Electron (Nobel 1906); plum pudding model | 1897 |
+| 8 | **Ernest Rutherford** | Nuclear model of atom; proton (Nobel 1908) | 1911 |
+| 9 | **Niels Bohr** | Atomic model with electron shells (Nobel 1922) | 1913 |
+| 10 | **Albert Einstein** | Special Relativity (E=mc2); Photoelectric effect (Nobel 1921) | 1905 |
+| 11 | **Dmitri Mendeleev** | Periodic Table of Elements (1869) | 1869 |
+| 12 | **James Chadwick** | Neutron (Nobel 1935) | 1932 |
+| 13 | **Enrico Fermi** | First nuclear reactor (Chicago Pile-1, 1942) | 1942 |
+| 14 | **Alexander Fleming** | Penicillin (Nobel 1945 with Chain and Florey) | 1928 |
+| 15 | **Watson and Crick** | DNA double helix structure (Nobel 1962) | 1953 |
+| 16 | **Frederick Sanger** | Insulin protein sequence (Nobel 1958); DNA sequencing (Nobel 1980) | 1953/80 |
+| 17 | **Kary Mullis** | PCR (Polymerase Chain Reaction) (Nobel 1993) | 1983 |
+| 18 | **Tim Berners-Lee** | World Wide Web (WWW) | 1989 |
+| 19 | **C.V. Raman** | Raman Effect (Nobel 1930); first Asian Nobel in Science | 1928 |
+| 20 | **S. Chandrasekhar** | Chandrasekhar limit for white dwarfs (Nobel 1983) | 1930 |
+| 21 | **Homi J. Bhabha** | Founded India's nuclear programme; TIFR, BARC | 1940s-60s |
+| 22 | **Vikram Sarabhai** | Father of Indian Space Programme; ISRO founder | 1969 |
+| 23 | **A.P.J. Abdul Kalam** | IGMDP; Agni/Prithvi missiles; "Missile Man of India" | 1980s-90s |
+| 24 | **M.S. Swaminathan** | Green Revolution in India; HYV seeds; "Father of Green Revolution India" | 1960s |
+| 25 | **Har Gobind Khorana** | Genetic code cracking (Nobel 1968, Medicine) | 1968 |
+| 26 | **Yellapragada SubbaRow** | Folic acid, methotrexate, aureomycin | 1930s-40s |
+| 27 | **Edward Jenner** | Smallpox vaccine (first vaccine) | 1796 |
+| 28 | **Louis Pasteur** | Germ Theory; pasteurisation; rabies vaccine | 1860s-80s |
+| 29 | **Robert Koch** | Identified TB (*Mycobacterium tuberculosis*) (Nobel 1905) | 1882 |
+| 30 | **Gregor Mendel** | Laws of Heredity ("Father of Genetics"); pea plant experiments | 1865 |
+

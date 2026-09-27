@@ -1950,3 +1950,70 @@ D. Thrombin
 8. **Dialysis**: Artificial kidney removes urea — it does **not** replace hormone functions of the kidney.
 9. **Salivary enzyme**: Ptyalin (salivary amylase) digests **starch**, not protein.
 10. **HCl role**: Activates pepsinogen and kills microbes — protein digestion enzyme is pepsin, not HCl itself.
+
+
+---
+
+## Bilingual Terminology -- Digestion, Respiration and Excretion
+
+| English Term | Hindi Term | Key Anchor |
+|---|---|---|
+| **Digestion** (पाचन) | पाचन | Breaking down food into absorbable molecules |
+| **Alimentary Canal** (आहार नाल) | आहार नाल / पाचन नाल | Mouth to anus; complete digestive tract |
+| **Saliva** (लार) | लार | Secretion of salivary glands; contains **salivary amylase** (ptyalin) |
+| **Stomach** (आमाशय) | आमाशय | Secretes gastric juice (HCl + pepsin + mucin) |
+| **Small Intestine** (छोटी आंत) | क्षुद्रांत्र | Main site of digestion and absorption; duodenum, jejunum, ileum |
+| **Large Intestine** (बड़ी आंत) | वृहदांत्र | Water absorption; formation of faeces; colon, rectum |
+| **Liver** (यकृत) | यकृत | Largest gland; secretes bile; detoxification; glycogen storage |
+| **Pancreas** (अग्न्याशय) | अग्न्याशय | Secretes pancreatic juice (amylase, lipase, trypsinogen); also insulin/glucagon |
+| **Bile** (पित्त) | पित्त | Emulsifies fats; secreted by liver; stored in gallbladder |
+| **Villi** (आंत्र अंकुर) | रसांकुर | Finger-like projections in small intestine; increase surface area for absorption |
+| **Respiration** (श्वसन) | श्वसन | Process releasing energy from food; cellular respiration = aerobic/anaerobic |
+| **Aerobic Respiration** (वायवीय श्वसन) | वायवीय श्वसन | Uses O2; produces CO2 + H2O + 38 ATP per glucose |
+| **Anaerobic Respiration** (अवायवीय श्वसन) | अवायवीय श्वसन | No O2; produces lactic acid (muscles) or ethanol+CO2 (yeast) |
+| **Alveoli** (वायुकोश) | वायुकोश | Tiny air sacs in lungs; site of gas exchange (O2 in, CO2 out) |
+| **Diaphragm** (मध्यपट) | मध्यपट | Dome-shaped muscle below lungs; main breathing muscle |
+| **Excretion** (उत्सर्जन) | उत्सर्जन | Removal of metabolic waste products from the body |
+| **Kidney** (वृक्क) | वृक्क / गुर्दा | Primary excretory organ; filters blood to form urine |
+| **Nephron** (नेफ्रोन) | वृक्काणु / नेफ्रोन | Structural and functional unit of kidney; ~1 million per kidney |
+| **Urea** (यूरिया) | यूरिया | Main nitrogenous waste in mammals; formed in liver |
+| **Uric Acid** (यूरिक अम्ल) | यूरिक अम्ल | Nitrogenous waste in birds, reptiles, insects (less water loss) |
+| **Dialysis** (डायलिसिस) | डायलिसिस | Artificial kidney function; filters blood when kidneys fail |
+
+---
+
+## One-Liner Revision -- Digestion, Respiration and Excretion
+
+| # | Fast Fact |
+|---|---|
+| 1 | Digestion starts in the **mouth** (salivary amylase/ptyalin digests starch) |
+| 2 | Stomach secretes = HCl + Pepsin (protein digestion) + Mucin (protects lining) |
+| 3 | Liver = largest **gland** of the body; also largest internal organ |
+| 4 | Bile secreted by = **liver**; stored in = **gallbladder** |
+| 5 | Main site of digestion and absorption = **Small intestine** (duodenum/jejunum/ileum) |
+| 6 | Large intestine main function = **water absorption**; no digestion |
+| 7 | Longest part of alimentary canal = **Small intestine** (~6-7 metres) |
+| 8 | Pancreas = both **exocrine** (digestive enzymes) and **endocrine** (insulin/glucagon) |
+| 9 | Aerobic respiration: Glucose + O2 = CO2 + H2O + **38 ATP** |
+| 10 | Anaerobic in muscles = **lactic acid** (causes muscle cramp/fatigue) |
+| 11 | Anaerobic in yeast = **ethanol + CO2** (fermentation; used in brewing) |
+| 12 | Breathing rate (adults) = 15-18 breaths/min at rest |
+| 13 | Tidal volume = air breathed in/out in one normal breath (~500 mL) |
+| 14 | Vital capacity = maximum air exhaled after maximum inhalation (~4.5 L) |
+| 15 | Gas exchange in lungs = in **alveoli** (O2 diffuses in; CO2 diffuses out) |
+| 16 | Haemoglobin carries **O2** as oxyhaemoglobin; also carries some CO2 |
+| 17 | CO poisoning = CO binds Hb **240x more tightly** than O2 (cherry-red colour) |
+| 18 | Mammals excrete **Urea** (ureotelic); Birds/reptiles excrete **Uric acid** |
+| 19 | Fish excrete **Ammonia** (ammonotelic; highly toxic; needs lots of water) |
+| 20 | Nephron = functional unit of kidney; Bowman's capsule + tubules + loop of Henle |
+| 21 | Urine formation: Filtration + Selective reabsorption + Tubular secretion |
+| 22 | Normal urine output = ~1-1.5 L/day; urine pH ~6 (slightly acidic) |
+| 23 | Kidney stone = **calcium oxalate** (most common); treated by lithotripsy |
+| 24 | Dialysis = used when kidneys fail; hemodialysis filters blood through machine |
+| 25 | Skin is also an excretory organ = excretes sweat (water, NaCl, urea) |
+| 26 | Lungs excrete = CO2 and water vapour |
+| 27 | Liver excretes = bile pigments (bilirubin from dead RBCs) |
+| 28 | ADH (Anti-diuretic hormone) = controls water reabsorption in kidney tubules |
+| 29 | Jaundice = yellow skin/eyes due to accumulation of **bilirubin** |
+| 30 | Appendix = vestigial organ in large intestine; removed in appendicitis |
+

@@ -2977,3 +2977,65 @@ cleaner air in cities.
 | **Octane vs. Cetane Target** | Confusing Octane for diesel and Cetane for petrol. | **Octane rating is for Petrol (Gasoline)**. **Cetane rating is for Diesel**. |
 | **Water on Petrol Fire** | Assuming water extinguishes oil fires by cooling them. | Petrol floats on water ($d \approx 0.7–0.8$) and spreads the fire; use **$CO_2$ or foam extinguishers**. |
 | **Bhopal Gas Name** | Writing methyl isocyanide or phosgene for Bhopal. | The disaster was caused by **Methyl Isocyanate (MIC, $CH_3NCO$)**, not isocyanide. |
+
+
+---
+
+## Bilingual Terminology -- Gases, Fuels and Energy Chemistry
+
+| English Term | Hindi Term | Key Anchor |
+|---|---|---|
+| **Combustion** (दहन) | दहन | Chemical reaction of fuel with O2 producing heat and light |
+| **Fuel** (ईंधन) | ईंधन | Substance that releases energy by combustion |
+| **Calorific Value** (ऊष्मीय मान) | ऊष्मीय मान | Energy released per kg of fuel on complete combustion; kJ/kg |
+| **LPG** (द्रवित पेट्रोलियम गैस) | द्रवीभूत पेट्रोलियम गैस | Liquefied Petroleum Gas; propane + butane; ethyl mercaptan (smell) |
+| **CNG** (संपीडित प्राकृतिक गैस) | संपीडित प्राकृतिक गैस | Compressed Natural Gas; mainly methane; cleaner fuel |
+| **Coal** (कोयला) | कोयला | Fossil fuel; types by carbon content: Peat < Lignite < Bituminous < Anthracite |
+| **Petroleum** (पेट्रोलियम) | पेट्रोलियम | Crude oil; mixture of hydrocarbons; refined by fractional distillation |
+| **Producer Gas** (प्रोड्यूसर गैस) | प्रोड्यूसर गैस | CO + N2; made by passing air over hot coke; fuel gas |
+| **Water Gas** (जल गैस) | जल गैस | CO + H2; made by passing steam over hot coke; synthesis gas |
+| **Biogas** (बायोगैस) | बायोगैस | CH4 (55-75%) + CO2; from anaerobic decomposition; clean fuel |
+| **Octane Number** (ऑक्टेन संख्या) | ऑक्टेन संख्या | Measures anti-knock quality of petrol; higher = better; isooctane = 100 |
+| **Photosynthesis** (प्रकाश संश्लेषण) | प्रकाश-संश्लेषण | CO2 + H2O + light energy -> glucose + O2; solar energy storage |
+| **Ozone** (ओजोन) | ओजोन | O3; protects Earth from UV; ozone layer at 15-35 km altitude |
+| **Greenhouse Gas** (ग्रीनहाउस गैस) | हरित गृह गैस | CO2, CH4, N2O, CFCs; traps heat; causes global warming |
+| **Renewable Energy** (नवीकरणीय ऊर्जा) | नवीकरणीय ऊर्जा | Solar, wind, hydro, geothermal, tidal; replenishable |
+| **Non-renewable Energy** (अनवीकरणीय ऊर्जा) | अनवीकरणीय ऊर्जा | Fossil fuels, nuclear; finite reserves |
+
+---
+
+## One-Liner Revision -- Gases, Fuels and Energy Chemistry
+
+| # | Fast Fact |
+|---|---|
+| 1 | Calorific values (approx): Hydrogen = 142 MJ/kg; CNG/methane = 55 MJ/kg; Petrol = 47 MJ/kg |
+| 2 | Highest calorific value fuel = **Hydrogen** (142 MJ/kg; "fuel of the future") |
+| 3 | LPG composition: Propane (C3H8) + Butane (C4H10); stored as liquid; ethyl mercaptan = smell agent |
+| 4 | CNG = mainly **methane (CH4)**; stored at 200-250 bar; cleanest fossil fuel |
+| 5 | Coal types by carbon %: Peat (60%) < Lignite (70%) < Bituminous (80%) < Anthracite (90-95%) |
+| 6 | Best quality coal = **Anthracite** (max carbon, max calorific value) |
+| 7 | Petroleum (crude oil) = fractional distillation: gas > petrol > kerosene > diesel > fuel oil > bitumen |
+| 8 | Octane number 87 = regular petrol; 91-93 = premium; higher = less knocking |
+| 9 | Knocking in engine = premature ignition; prevented by anti-knock additives (earlier: TEL; now: MTBE) |
+| 10 | Producer gas (CO + N2) = made by blowing air through burning coke |
+| 11 | Water gas (CO + H2) = made by steam over hot coke; also called "synthesis gas" |
+| 12 | Biogas = mainly methane; from cow dung + water; anaerobic digestion |
+| 13 | Hydrogen fuel cell = H2 + O2 -> H2O + electricity; zero emission vehicle |
+| 14 | Ozone (O3) layer = 15-35 km altitude (stratosphere); absorbs UV-B radiation |
+| 15 | CFCs (chlorofluorocarbons) = destroy ozone; one Cl atom destroys 100,000 ozone molecules |
+| 16 | Montreal Protocol (1987) = international treaty to phase out ozone-depleting substances |
+| 17 | CO2 in atmosphere = ~420 ppm (2024); pre-industrial = ~280 ppm; rising due to fossil fuels |
+| 18 | Methane GWP = **25x CO2** (100-year); N2O = 298x CO2; SF6 = 22,800x CO2 |
+| 19 | Solar panels = photovoltaic cells; convert sunlight to DC electricity; silicon-based |
+| 20 | Wind energy = kinetic energy of wind -> electricity via turbine generator |
+| 21 | Geothermal energy = heat from Earth's interior; Iceland, Philippines, India (Puga Valley, Ladakh) |
+| 22 | Tidal energy = from rise and fall of ocean tides; predictable; coastal locations |
+| 23 | Nuclear energy: fission (U-235, Pu-239) = current reactors; fusion = future |
+| 24 | Hydroelectric power = 3rd largest renewable in India; HP, Uttarakhand, NE India |
+| 25 | India's largest solar project = Bhadla Solar Park (Rajasthan; 2.2 GW) |
+| 26 | India's target: 500 GW renewable energy by 2030 (Paris Agreement commitment) |
+| 27 | Ethanol blending in India: E20 target = 20% ethanol in petrol by 2025 |
+| 28 | Hydrogen Mission (2021) = Green Hydrogen from electrolysis using renewable electricity |
+| 29 | Coal India Ltd (CIL) = world's largest coal mining company; state-owned |
+| 30 | India's coal reserves = mainly in Jharkhand, Odisha, Chhattisgarh, WB |
+

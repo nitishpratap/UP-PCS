@@ -342,6 +342,41 @@ D. 425
 
 ---
 
+
+### Other Papers — BPSC / MPPSC / RAS / UKPCS / UPSC / WBCS
+
+**Q2. Standard multi-PSC / Constitution**
+Census is a subject of which List of the Seventh Schedule?
+A. State List
+B. Concurrent List
+C. Union List
+D. Residuary only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Asked across State PCS; Census is not a State subject.
+
+**Ans: C.** Union List (Entry 69).
+
+</details>
+
+**Q3. UPSC (CSE) Prelims 2008**
+As per India’s National Population Policy, 2000, by which year is it our long-term objective to achieve population stabilisation?
+A. 2025
+B. 2035
+C. 2045
+D. 2055
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Policy year for administration Extra Drill — distinct from UPPCS 2070 key.
+
+**Ans: C.** 2045.
+
+</details>
+
 ## Practice Zone
 
 1. How many total seats are currently sanctioned in the Uttar Pradesh Legislative Council (Vidhan Parishad)?
@@ -635,3 +670,174 @@ D. 425
 | Trap | Correct |
 |---|---|
 | Mixing Absolute vs % ranks | Match the stem metric first |
+
+
+---
+
+## Bilingual Terminology -- UP Polity and Administration
+
+| English | Hindi | Key Anchor |
+|---|---|---|
+| **Vidhan Sabha** | विधान सभा | UP Legislative Assembly -- 403 seats (largest in India) |
+| **Vidhan Parishad** | विधान परिषद | UP Legislative Council -- 100 seats |
+| **Lok Ayukta** | लोक आयुक्त | State-level ombudsman for UP; appointed by Governor |
+| **UP Legislative Assembly** | उत्तर प्रदेश विधान सभा | 403 constituencies; 2022 elections won by BJP |
+| **UP Governor** | उत्तर प्रदेश के राज्यपाल | Appointed by President; ceremonial head of State |
+| **UP Chief Minister** | उत्तर प्रदेश के मुख्यमंत्री | Head of Council of Ministers; elected majority leader |
+| **UP Panchayati Raj** | पंचायती राज | 3-tier structure under UP Panchayati Raj Act, 1947 |
+| **Gram Panchayat** | ग्राम पंचायत | Village-level body; basic unit of rural self-governance |
+| **Kshetra Panchayat** | क्षेत्र पंचायत | Intermediate level = Block level in UP |
+| **Zila Panchayat** | जिला पंचायत | District-level Panchayat body in UP |
+| **Nagar Panchayat** | नगर पंचायत | Transitional area body (between rural and urban) |
+| **Nagar Palika Parishad** | नगर पालिका परिषद | Municipal council (medium towns) |
+| **Nagar Nigam** | नगर निगम | Municipal Corporation (large cities) |
+| **DM/Collector** | जिलाधिकारी / जिलाधीश | District Magistrate; principal executive officer of a district |
+| **SDM** | उपजिलाधिकारी (SDM) | Sub-Divisional Magistrate; sub-district level |
+
+---
+
+## Extended Theory -- UP's Legislative Structure
+
+```
+        UTTAR PRADESH LEGISLATURE (BICAMERAL)
+        ─────────────────────────────────────────────
+        
+        VIDHAN PARISHAD (Upper House)
+        ────────────────────────────
+        Seats: 100 (1/3 elected, 1/3 local bodies, 
+                     1/12 graduates, 1/12 teachers, 
+                     1/6 Governor-nominated)
+        Term: 6 years (staggered)
+        
+        VIDHAN SABHA (Lower House)
+        ──────────────────────────
+        Seats: 403 (largest State legislature in India)
+        Term: 5 years
+        
+        Speaker → Vidhan Sabha presiding officer
+        Chairman → Vidhan Parishad presiding officer
+        
+        CURRENT STATUS (as of 2022 elections):
+        Ruling party: Bharatiya Janata Party (BJP)
+        Chief Minister: Yogi Adityanath
+```
+
+### UP Panchayati Raj Structure
+
+```
+        UP PANCHAYATI RAJ -- 3-TIER STRUCTURE
+        (Under UP Panchayati Raj Act, 1947 + 73rd Amendment 1992)
+        ────────────────────────────────────────────────────────
+        
+        Tier 3 (District): ZILA PANCHAYAT (जिला पंचायत)
+                  │
+        Tier 2 (Block): KSHETRA PANCHAYAT (क्षेत्र पंचायत)
+                  │
+        Tier 1 (Village): GRAM PANCHAYAT (ग्राम पंचायत)
+        
+        SPECIAL FEATURES IN UP:
+        - Gram Panchayat = headed by Pradhan (प्रधान)
+        - Kshetra Panchayat = headed by Pramukh (प्रमुख)
+        - Zila Panchayat = headed by Adhyaksha (अध्यक्ष)
+        - UP has ~58,000+ Gram Panchayats
+        - 33% reservation for women (UP increased to 50% in 2020)
+```
+
+### Urban Local Bodies in UP
+
+| Body | Governing City Population | Number in UP (approx.) |
+|---|---|---|
+| **Nagar Nigam (Municipal Corporation)** | 5 lakh+ | 17 (includes Lucknow, Kanpur, Varanasi, Agra, Prayagraj, Meerut, etc.) |
+| **Nagar Palika Parishad (Municipal Council)** | 25,000-5 lakh | 200+ |
+| **Nagar Panchayat** | 10,000-25,000 (transitional) | 400+ |
+
+---
+
+## UKPCS / BPSC / MPPSC Extra Drill -- UP Polity
+
+**Q1. UKPCS (Pre) 2021**
+The Uttar Pradesh Vidhan Sabha has how many seats (constituencies)?
+A. 240
+B. 294
+C. 403
+D. 543
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** UP Vidhan Sabha has **403 constituencies** -- the largest State Legislative Assembly in India. UP also sends **80 MPs** to Lok Sabha -- the largest delegation from any State.
+
+**Ans: C.** 403.
+
+</details>
+
+**Q2. BPSC-type**
+The Uttar Pradesh Vidhan Parishad (Legislative Council) has a total membership of:
+A. 75
+B. 100
+C. 125
+D. 150
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** UP Vidhan Parishad = **100 members**. It is a permanent body; 1/3 members retire every 2 years. States with bicameral legislature: UP, Bihar, Maharashtra, Karnataka, Telangana, Andhra Pradesh, Jammu & Kashmir (suspended).
+
+**Ans: B.** 100.
+
+</details>
+
+**Q3. MPPSC (Pre) 2022**
+Under the 73rd Constitutional Amendment (1992), which tier corresponds to the 'Block Level' in Uttar Pradesh's Panchayati Raj structure?
+A. Gram Panchayat
+B. Kshetra Panchayat
+C. Zila Panchayat
+D. Nagar Panchayat
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** UP has a 3-tier PRIsystem. **Kshetra Panchayat** = Block/Intermediate level (headed by Pramukh). Gram Panchayat = Village level (headed by Pradhan). Zila Panchayat = District level (headed by Adhyaksha).
+
+**Ans: B.** Kshetra Panchayat.
+
+</details>
+
+**Q4. UKPCS (Pre) 2022**
+Uttar Pradesh sends how many members to the Lok Sabha (House of the People)?
+A. 40
+B. 60
+C. 80
+D. 84
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** UP has **80 Lok Sabha seats** -- the largest State delegation in Parliament. Maharashtra has 48, West Bengal 42, Bihar 40.
+
+**Ans: C.** 80.
+
+</details>
+
+---
+
+## One-Liner Revision -- UP Polity
+
+| # | Fast Fact |
+|---|---|
+| 1 | UP Vidhan Sabha = **403 seats** (largest State legislature in India) |
+| 2 | UP Vidhan Parishad = **100 seats** |
+| 3 | UP Lok Sabha seats = **80** (largest State delegation) |
+| 4 | UP Rajya Sabha seats = **31** |
+| 5 | UP State governed by **UP Panchayati Raj Act, 1947** |
+| 6 | Gram Panchayat head = **Pradhan** (प्रधान) |
+| 7 | Kshetra Panchayat head = **Pramukh** (प्रमुख) |
+| 8 | Zila Panchayat head = **Adhyaksha** (अध्यक्ष) |
+| 9 | UP Nagar Nigams = **17** (2023) |
+| 10 | UP has 75 districts (largest number of districts in any State) |
+| 11 | UP State capital = **Lucknow** |
+| 12 | UP HC = **Allahabad High Court** (Prayagraj) -- largest HC by judges |
+| 13 | Allahabad HC established = **1866** |
+| 14 | UP Governor appointed by **President of India** |
+| 15 | Women reservation in UP Panchayats = **50%** (increased in 2020) |
+

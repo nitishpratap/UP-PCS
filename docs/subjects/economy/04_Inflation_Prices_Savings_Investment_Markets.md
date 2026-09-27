@@ -28,7 +28,7 @@ Monetary-policy tools (repo, CRR, MPC) stay in Economy Topic 3. External exchang
 
 ---
 
-## Consolidated — 72 Must-Score Facts
+## Consolidated — 50 Must-Score Facts
 
 1. **Inflation** is a sustained rise in the general price level, which cuts the purchasing power of money.
 2. **Deflation** is a sustained fall in the general price level.
@@ -52,59 +52,36 @@ Monetary-policy tools (repo, CRR, MPC) stay in Economy Topic 3. External exchang
 20. **Savings** = income not consumed. **Household financial savings** sit in deposits, shares, insurance, pensions and small savings.
 21. **Investment / capital formation** builds physical and related productive assets (machinery, structures, inventories teaching).
 22. **Gross capital formation** is the flow of investment in a period; **gross domestic savings** finance it from domestic sources (plus foreign saving).
-23. In a closed-economy identity teaching, **S = I** in equilibrium; open economy adds net foreign capital.
-24. **Financial markets** channel savings to investment through instruments and intermediaries.
-25. **Money market**: short-term funds (T-bills, commercial paper, call money, certificates of deposit teaching).
-26. **Capital market**: longer-term funds — **equity** (shares) and **debt** (bonds / debentures).
-27. **Primary market** issues new securities; **secondary market** trades existing ones (liquidity for investors).
-28. **SEBI** regulates the securities market — exchanges, brokers, mutual funds, listed companies (capital-market depth here; one-line in Topic 11).
-29. **Mutual funds** pool investors’ money into portfolios of securities under SEBI norms; NAV reflects portfolio value.
-30. **Insurance** products (life / general) are market savings / risk tools; **IRDAI** is the sector regulator (list depth in Topic 11).
-31. **NPS (National Pension System)** is a market-linked pension architecture under PFRDA supervision teaching.
-32. **Bonds** are debt instruments; rising inflation / rates typically hurt existing fixed-coupon bond prices.
-33. **Equity** offers residual ownership claims; returns are not contractually fixed like many bonds.
-34. **Financial literacy** is the ability to understand products, risk, inflation and compounding for better household decisions.
-35. **Real interest rate** ≈ nominal rate − inflation — when inflation exceeds the nominal rate, real returns turn negative.
-36. **Hyperinflation** is extremely rapid inflation that destroys money’s store-of-value role (rare teaching extreme).
-37. **Reflation** is policy aimed at raising prices / demand after a deflationary or weak spell.
-38. Imported inflation rises when foreign prices or a weaker rupee lift domestic costs of imports.
-39. Wage–price spiral teaching: wages chase prices and prices chase wages.
-40. Indexation (DA, some contracts) adjusts payments to inflation so real incomes / obligations stay closer to intended levels.
-41. **Creeping inflation** is a mild rise (often taught as under ~3%); it can coexist with growth.
-42. **Walking / trotting inflation** is the moderate warning band in school lists.
-43. **Running / galloping / hyperinflation** marks rapid to out-of-control price rises.
-44. **Demand-pull inflation** = too much money chasing too few goods at high capacity.
-45. **Cost-push inflation** = supply shocks (oil, wages, raw materials) raise unit costs.
-46. **Structural inflation** in India teaching stresses bottlenecks, storage and marketing rigidities.
-47. During inflation, **debtors gain** and **creditors lose** in real terms.
-48. Fixed-income earners lose purchasing power when wages lag prices; entrepreneurs may gain from margins.
-49. **Deflation** is a sustained fall in the general price level (negative inflation).
-50. **Disinflation** is a fall in the *rate* of inflation while prices may still rise.
-51. **Stagflation** combines high inflation with stagnant growth and high unemployment.
-52. **Reflation** is deliberate stimulus to exit a deflationary slump.
-53. **Phillips Curve** teaches a short-run inverse link between inflation and unemployment.
-54. **Misery Index** (Okun) = unemployment rate + inflation rate.
-55. **WPI** is compiled by the Office of the Economic Adviser (DPIIT); base **2011–12**; goods only.
-56. WPI manufactured products weight teaching ≈ **64.23%** — the largest group.
-57. **CPI-Combined** is compiled by **NSO**; base **2012**; includes goods and services.
-58. CPI food & beverages weight teaching ≈ **45.86%** — the largest CPI group.
-59. Housing weight in CPI is for the **urban** index; rural housing weight is taught as **0**.
-60. **Core inflation** = headline CPI minus food & fuel volatility.
-61. RBI’s nominal anchor after Urjit Patel is **CPI-Combined**, not WPI.
-62. **GDP deflator** = Nominal GDP / Real GDP × 100 — broadest output-price measure.
-63. **ICOR** is the incremental capital needed for one extra unit of output; lower ICOR means more efficient capital use.
-64. Money market maturities are typically **≤ 1 year** and are RBI-regulated.
-65. T-Bills teaching tenures: **91, 182, 364** days; issued at discount by the Centre.
-66. **Call money** is overnight; **notice money** 2–14 days; **term money** beyond 14 days.
-67. **Commercial Paper** is unsecured short-term corporate paper; **CD** is bank deposit certificate paper.
-68. **SEBI** got statutory status in **1992** (set up 1988 teaching).
-69. **BSE** Sensex is a **30**-stock index; **NSE** Nifty is a **50**-stock index.
-70. **NSDL (1996)** and **CDSL (1999)** run the demat system.
-71. **Masala bonds** are rupee-denominated bonds issued abroad — currency risk on the investor.
-72. **SGB** pays a fixed coupon with gold-price linked principal teaching; capital gains relief tags appear in scheme FAQs.
+23. The **household sector** dominates India’s gross domestic savings; within household savings, **physical assets** usually lead deposits / currency / shares.
+24. **High capital–output ratio** can keep growth low even when savings and capital formation look high (Topic 1 neighbour).
+25. Capital-formation data: **RBI + CSO/NSO** (K.N. Raj committee roles).
+26. In a closed-economy identity teaching, **S = I** in equilibrium; open economy adds net foreign capital.
+27. **Financial markets** channel savings to investment through instruments and intermediaries.
+28. **Money market**: short-term funds (T-bills, commercial paper, call money, certificates of deposit teaching).
+29. **Capital market**: longer-term funds — **equity** (shares) and **debt** (bonds / debentures).
+30. **Primary market** issues new securities; **secondary market** trades existing ones (liquidity for investors).
+31. **SEBI** regulates the securities market — exchanges, brokers, mutual funds, listed companies (capital-market depth here; one-line in Topic 11).
+32. **Mutual funds** pool investors’ money into portfolios of securities under SEBI norms; NAV reflects portfolio value.
+33. **Insurance** products (life / general) are market savings / risk tools; **IRDAI** is the sector regulator (list depth in Topic 11).
+34. **NPS (National Pension System)** is a market-linked pension architecture under PFRDA supervision teaching.
+35. **Bonds** are debt instruments; rising inflation / rates typically hurt existing fixed-coupon bond prices.
+36. **Equity** offers residual ownership claims; returns are not contractually fixed like many bonds.
+37. **Financial literacy** is the ability to understand products, risk, inflation and compounding for better household decisions.
+38. **Real interest rate** ≈ nominal rate − inflation — when inflation exceeds the nominal rate, real returns turn negative.
+39. **Hyperinflation** is extremely rapid inflation that destroys money’s store-of-value role (rare teaching extreme).
+40. **Reflation** is policy aimed at raising prices / demand after a deflationary or weak spell.
+41. Imported inflation rises when foreign prices or a weaker rupee lift domestic costs of imports.
+42. Wage–price spiral teaching: wages chase prices and prices chase wages.
+43. Indexation (DA, some contracts) adjusts payments to inflation so real incomes / obligations stay closer to intended levels.
+44. **Creeping inflation** is a mild rise (often taught as under ~3%); it can coexist with growth.
+45. **Walking / trotting inflation** is the moderate warning band in school lists.
+46. **Running / galloping / hyperinflation** marks rapid to out-of-control price rises.
+47. **Demand-pull inflation** = too much money chasing too few goods at high capacity.
+48. **Cost-push inflation** = supply shocks (oil, wages, raw materials) raise unit costs.
+49. **Structural inflation** in India teaching stresses bottlenecks, storage and marketing rigidities.
+50. During inflation, **debtors gain** and **creditors lose** in real terms.
 
 ---
-
 ## Confused Pairs
 
 | A | B | Distinguishing fact |
@@ -301,11 +278,16 @@ D. Urban Consumer Price Index
 **Savings** are income not consumed; **investment** builds physical and productive capital.
 
 - Households, private corporations and government are the three savers in national-accounts teaching.
+- The **household sector** dominates India’s gross domestic savings share.
+- Within household savings, **physical assets** (housing, durables, gold teaching) usually outrank deposits, currency and shares.
 - **Gross capital formation** measures investment in fixed assets plus changes in stocks.
+- Capital formation needs both **savings** and effective **financial institutions**; investment is the essential link.
+- Capital-formation data in India are compiled by **RBI and CSO/NSO** (K.N. Raj committee split of roles).
 - Financial intermediaries and markets channel savings into investment.
 - The **real interest rate** ≈ nominal rate − inflation; negative real rates punish savers.
 - A savings–investment gap can show up as a current-account deficit when domestic saving falls short of investment (Topic 9 neighbour).
 - Capital formation raises future productive capacity; consumption-only growth does not.
+- **High capital–output ratio** means more capital is needed per unit of output — so high savings may still yield slow growth (Economy Topic 1 neighbour).
 
 ---
 
@@ -329,6 +311,27 @@ D. Urban Consumer Price Index
 - Primary markets issue new securities; secondary markets trade existing ones.
 
 ---
+
+
+## Teaching expansion — additional theory (beyond Consolidated spine)
+
+These points sit in teaching theory (not the Consolidated spine).
+
+- **Phillips Curve** teaches a short-run inverse link between inflation and unemployment.
+- **Misery Index** (Okun) = unemployment rate + inflation rate.
+- **WPI** is compiled by the Office of the Economic Adviser (DPIIT); base **2011–12**; goods only.
+- WPI manufactured products weight teaching ≈ **64.23%** — the largest group.
+- **CPI-Combined** is compiled by **NSO**; base **2012**; includes goods and services.
+- CPI food & beverages weight teaching ≈ **45.86%** — the largest CPI group.
+- RBI’s nominal anchor after Urjit Patel is **CPI-Combined**, not WPI.
+- **ICOR** is the incremental capital needed for one extra unit of output; lower ICOR means more efficient capital use.
+- Money market maturities are typically **≤ 1 year** and are RBI-regulated.
+- T-Bills teaching tenures: **91, 182, 364** days; issued at discount by the Centre.
+- **Call money** is overnight; **notice money** 2–14 days; **term money** beyond 14 days.
+- **BSE** Sensex is a **30**-stock index; **NSE** Nifty is a **50**-stock index.
+- **NSDL (1996)** and **CDSL (1999)** run the demat system.
+- **Masala bonds** are rupee-denominated bonds issued abroad — currency risk on the investor.
+- **SGB** pays a fixed coupon with gold-price linked principal teaching; capital gains relief tags appear in scheme FAQs.
 
 ## Complete PYQ Bank (UPPCS)
 

@@ -1179,3 +1179,65 @@ See the explanation of above question.
 | **Smog Types Character** | Calling classical smog oxidizing. | **Classical smog is Reducing** ($SO_2$); **Photochemical smog is Oxidizing** ($O_3$, PAN). |
 | **Nuclear Moderator vs Control Rod** | Mixing up moderators ($D_2O$, graphite) with control rods ($Cd$, $B$). | **Moderators slow neutrons** ($D_2O$, graphite); **Control rods absorb neutrons** ($Cd$, $B$). |
 | **Radiation Penetration Order** | Reversing alpha and gamma penetration. | **Gamma has the highest penetration** ($\alpha < \beta < \gamma$); **Alpha has the highest ionization power**. |
+
+
+---
+
+## Bilingual Terminology -- Radiation, Nuclear and Environmental Chemistry
+
+| English Term | Hindi Term | Key Anchor |
+|---|---|---|
+| **Radiation** (विकिरण) | विकिरण | Energy emitted as electromagnetic waves or particles |
+| **Ionising Radiation** (आयनकारी विकिरण) | आयनकारी विकिरण | High-energy radiation that removes electrons from atoms; alpha, beta, gamma, X-ray |
+| **Non-ionising Radiation** (अआयनकारी विकिरण) | अनायनकारी विकिरण | Lower energy; radio waves, microwaves, visible light, UV-A |
+| **Radioactive Waste** (रेडियोधर्मी अपशिष्ट) | रेडियोधर्मी अपशिष्ट | Waste from nuclear reactors, hospitals; requires careful disposal |
+| **Half-life** (अर्ध-जीवन) | अर्ध-जीवन | Time for half of radioactive atoms to decay |
+| **Radiocarbon Dating** (रेडियोकार्बन काल-निर्धारण) | रेडियोकार्बन डेटिंग | Uses C-14 decay to date organic material up to ~50,000 years |
+| **UV Radiation** (पराबैंगनी विकिरण) | पराबैंगनी विकिरण | Electromagnetic radiation 10-400 nm; UV-B causes sunburn; blocked by ozone |
+| **Infrared Radiation** (अवरक्त विकिरण) | अवरक्त / ताप विकिरण | Electromagnetic radiation 700 nm-1 mm; heat radiation |
+| **Microwave** (सूक्ष्म तरंग) | सूक्ष्म तरंग | 1 mm-1 m wavelength; RADAR; microwave oven (2.45 GHz) |
+| **Air Pollution** (वायु प्रदूषण) | वायु प्रदूषण | Contamination of air with harmful gases/particles |
+| **Water Pollution** (जल प्रदूषण) | जल प्रदूषण | Contamination of water bodies |
+| **Acid Rain** (अम्ल वर्षा) | अम्लीय वर्षा | pH < 5.6; H2SO4 + HNO3 from SO2 + NOx emissions |
+| **Eutrophication** (सुपोषण) | पोषकता वृद्धि | Excess nutrients in water -> algae bloom -> O2 depletion |
+| **BOD** (जैव रासायनिक ऑक्सीजन मांग) | जैव रासायनिक ऑक्सीजन माँग | Biochemical Oxygen Demand; measures organic water pollution |
+| **Photochemical Smog** (प्रकाश रासायनिक धुंध) | प्रकाश-रासायनिक स्मॉग | NO + VOC + sunlight -> ozone + PAN; brown smog; Los Angeles type |
+| **e-Waste** (इलेक्ट्रॉनिक कचरा) | इलेक्ट्रॉनिक कचरा | Discarded electronic devices; contains toxic metals (Pb, Cd, Hg) |
+
+---
+
+## One-Liner Revision -- Radiation, Nuclear and Environmental Chemistry
+
+| # | Fast Fact |
+|---|---|
+| 1 | Ionising radiation: alpha, beta, gamma, X-rays, cosmic rays -- can cause cancer |
+| 2 | Non-ionising: radio, microwave, visible, UV-A -- generally safer (UV-B intermediate) |
+| 3 | UV-B (280-315 nm) = causes sunburn, skin cancer; blocked by ozone layer |
+| 4 | UV-A (315-400 nm) = causes tanning; glass blocks UV; used in sterilisation |
+| 5 | Microwave oven = 2.45 GHz; water molecules absorb and vibrate -> heat food |
+| 6 | C-14 half-life = **5730 years**; used for dating organic material |
+| 7 | Radioactive decay: alpha (weakest penetration), beta, gamma (strongest penetration) |
+| 8 | Radiation doses: mSv (millisievert); background dose ~2-3 mSv/year |
+| 9 | Radiation therapy = high-dose gamma/X-ray to kill cancer cells |
+| 10 | Chernobyl (1986) = RBMK reactor explosion; released Cs-137 and I-131 |
+| 11 | Acid rain: SO2 + H2O -> H2SO3; SO3 + H2O -> H2SO4; causes damage to Taj Mahal marble |
+| 12 | Acid rain pH < 5.6 (normal rain = 5.6 due to natural CO2) |
+| 13 | London smog = industrial smog (SO2 + soot + fog); cold; 1952 Great Smog killed 4,000+ |
+| 14 | LA smog = photochemical smog (NOx + VOC + sunlight -> O3 + PAN); warm, sunny |
+| 15 | Ozone (O3) in troposphere = pollutant (causes respiratory problems); in stratosphere = protective |
+| 16 | PM2.5 = particulate matter < 2.5 micron; deepest lung penetration; most harmful |
+| 17 | PM10 = particles < 10 micron; cause respiratory problems |
+| 18 | BOD: high BOD = more organic pollution; clean water BOD < 3 mg/L |
+| 19 | COD (Chemical Oxygen Demand) = total oxygen needed to chemically oxidise all organics |
+| 20 | Eutrophication: excess N and P (from fertiliser runoff) -> algal bloom -> dead zone |
+| 21 | Biomagnification = persistent pollutants (DDT, Hg, PCBs) concentrate up the food chain |
+| 22 | Mercury (Hg) poisoning = Minamata disease (Japan, 1950s); methylmercury in fish |
+| 23 | Cadmium poisoning = Itai-itai disease (Japan); bone pain; from mine runoff |
+| 24 | Lead (Pb) poisoning = cognitive damage in children; banned from petrol (TEL) and paint |
+| 25 | Arsenic contamination = groundwater in Bangladesh, West Bengal; skin lesions, cancer |
+| 26 | Fluorosis = excess fluoride (>1.5 ppm) = mottled teeth (dental); skeletal damage (skeletal) |
+| 27 | e-waste = toxic heavy metals; India = 3rd largest e-waste generator globally |
+| 28 | Basel Convention (1989) = controls transboundary movement of hazardous wastes |
+| 29 | Stockholm Convention (2001) = bans persistent organic pollutants (POPs) like DDT, PCBs |
+| 30 | CPCB = Central Pollution Control Board (India); SPCB = State Pollution Control Board |
+

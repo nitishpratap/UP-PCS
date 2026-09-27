@@ -26,78 +26,22 @@ Introduction to Biology | Subdivisions & Branches of Biology | Biological Cultur
 
 ---
 
-## Consolidated — 55 Must-Score Facts
+## Consolidated — 50 Must-Score Facts
 
 1. The word **'Science'** originates from the Latin word *scientia*, meaning **'knowledge'**; science is the systematic empirical knowledge of the physical world gained through observation and experimentation.
 2. The term **'Biology'** was coined independently by French biologist **Jean-Baptiste Lamarck** and German naturalist **Gottfried Reinhold Treviranus** in **1802**; **Aristotle** is the Father of Biology and Zoology; **Theophrastus** is the Father of Botany (*Historia Plantarum*); **Hippocrates** is the Father of Medicine.
 3. Defining properties of life are **Cellular organisation**, **Metabolism** (sum of all chemical reactions), and **Consciousness** (response to stimuli); growth and reproduction are **not** absolute defining properties (mules, worker bees, infertile human couples do not reproduce).
 4. **Key Specialized Biological Branches**:
-   - **Pedology**: Scientific study of soils in their natural environment (soil morphology, classification, pedogenesis); **Edaphology**: Study of soil's influence on living organisms, especially plants.
-   - **Gerontology**: Scientific study of old age, the biological, cognitive, and social processes of ageing, and associated diseases; **Thanatology**: Scientific study of death.
-   - **Ethology**: Scientific and objective study of non-human animal behaviour as an evolutionary adaptive trait.
-   - **Bionics** (term coined by **Jack E. Steele** in 1958): Application of biological methods and systems found in nature to the study and design of modern engineering and technology.
-   - **Bionomics**: Comprehensive study of an organism's mode of life in its natural habitat and adaptations to its surroundings (equivalent to **Ecology**).
-   - **Phrenology**: Detailed study of the shape and size of the cranium (skull) as a supposed indication of mental abilities and character.
-   - **Anthology**: Scientific study of flowers; also refers to a collection of literary works.
-   - **Agrostology / Graminology**: Scientific study of true grasses (family Poaceae / Gramineae).
-   - **Palynology**: Study of pollen grains and spores (used in archaeology, geology, radiocarbon dating, and paleoclimate reconstruction).
-   - **Teratology**: Scientific study of congenital abnormalities and physical malformations.
-   - **Osteology**: Study of bones, skeletal elements, and bony structure; **Chondrology**: Study of cartilage; **Serology**: Diagnostic study of blood serum and immune responses.
-   - **Malacology**: Study of molluscs and their shells; **Ichthyology**: Scientific study of fishes; **Herpetology**: Study of reptiles and amphibians; **Serpentology / Ophiology**: Study of snakes; **Ornithology**: Study of birds; **Entomology**: Study of insects.
-   - **Palaeontology**: Study of fossils; **Palaeobotany**: Study of plant fossils (Prof. **Birbal Sahni** is the Father of Indian Palaeobotany).
 5. **Key Agricultural & Applied Culture Terminologies**:
-   - **Apiculture**: Rearing and management of honeybees for honey, beeswax, and pollination.
-   - **Sericulture**: Production of silk and rearing of silkworms (*Bombyx mori*).
-   - **Pisciculture**: Controlled breeding, rearing, and hatching of fishes in ponds/hatcheries.
-   - **Viticulture**: Cultivation and harvesting of grapes.
-   - **Vermiculture**: Cultivation and rearing of earthworms to turn organic waste into nutrient-rich vermicompost.
-   - **Olericulture**: Science of vegetable growing, dealing with herbaceous non-woody food plants.
-   - **Pomology**: Science of fruit growing; **Floriculture**: Cultivation of flowering and ornamental plants.
-   - **Arboriculture**: Cultivation and management of individual trees and shrubs; **Silviculture**: Practice of controlling growth, health, and quality of forests.
-   - **Moriculture**: Cultivation of mulberry plants (*Morus alba*) exclusively for silkworm feed.
-   - **Heliculture**: Farming of land snails for culinary meat (escargot), cosmetic snail slime, or snail caviar.
-   - **Hydroponics**: Soilless cultivation of plants in an aerated, mineral-nutrient-enriched water solution.
-   - **Aeroponics**: Growing plants without soil where roots hang suspended in air and are periodically sprayed with a nutrient mist.
 6. **Origin of Life (Oparin-Haldane Hypothesis)**:
-   - Formulated by **A. I. Oparin** (1936, *The Origin of Life*) and **J. B. S. Haldane** (1929).
-   - States that life originated spontaneously through **chemical evolution (abiogenesis)** from non-living inorganic matter under early Earth conditions.
-   - Early oceanic water containing dissolved gases formed a rich soup of organic chemicals termed by Haldane as the **"hot dilute soup"** or **"primordial soup"**, condensing into proto-cellular droplets called **coacervates**.
 7. **The Primitive Earth Atmosphere**:
-   - Primitive Earth had a strongly **reducing atmosphere** consisting of **$CH_4$, $NH_3$, $H_2$, $H_2O$ vapour, $CO_2$, $N_2$, and $HCN$**.
-   - **Must-Score Fact:** **Free molecular Oxygen ($O_2$) was completely ABSENT** in primitive Earth's atmosphere! Oxygen accumulated hundreds of millions of years later through the photosynthetic activity of cyanobacteria (blue-green algae).
 8. **The Miller-Urey Experiment (1953)**:
-   - Conducted by **Stanley Miller** and **Harold Urey** at the University of Chicago to experimentally test prebiotic synthesis in a reducing atmosphere.
-   - Circulated a mixture of four gases: **Methane ($CH_4$), Ammonia ($NH_3$), Hydrogen ($H_2$), and boiling water vapour ($H_2O$)** in an airtight closed glass apparatus.
-   - **Gaseous Ratio:** **Methane : Ammonia : Hydrogen = $2 : 2 : 1$**.
-   - Passed continuous high-voltage electrical spark discharges through tungsten electrodes for **one full week**.
-   - Analysis of the condensed fluid revealed complex organic molecules, including amino acids like **Glycine, Alanine, and Aspartic acid**.
 9. **Geological Chronology of Cenozoic Epochs (Oldest to Most Recent)**:
-   - **Paleocene → Eocene → Oligocene → Miocene → Pliocene → Pleistocene → Holocene** (Current Epoch).
-   - Earth's magnetic field reverses periodically every few hundred thousand years (reversed over 20 times in last 5 million years; last reversal ~780,000 years ago).
 10. **Lamarckism (Theory of Inheritance of Acquired Characteristics)**:
-    - Propounded by **Jean-Baptiste Lamarck** in his book ***Philosophie Zoologique* (1809)**; first comprehensive theory of organic evolution.
-    - Two core tenets:
-      1. **Use and disuse of organs**: Continual use of an organ strengthens and enlarges it; prolonged disuse leads to its atrophy and eventual disappearance.
-      2. **Inheritance of acquired characters**: Bodily modifications acquired during an individual's lifetime are transmitted to subsequent generations.
-    - Classic examples: Elongation of the **neck and forelimbs in giraffes** from browsing high foliage; **loss of limbs in snakes** from adaptation to underground burrowing and creeping; webbed feet in aquatic birds.
 11. **Darwinism (Theory of Natural Selection)**:
-    - Formulated by **Charles Darwin** in his landmark book ***On the Origin of Species by Means of Natural Selection*** (**1859**).
-    - Core pillars: (a) Overproduction of offspring, (b) Limited resources leading to **Struggle for Existence** (intra-specific, inter-specific, environmental), (c) Universal heritable variations, (d) **Natural Selection**: individuals possessing advantageous variations survive and reproduce preferentially.
-    - The famous phrase **"Survival of the Fittest"** was coined by philosopher **Herbert Spencer** and adopted by Darwin in later editions of his book.
 12. **Neo-Darwinism & Modern Synthetic Theory**:
-    - Synthesizes Darwin's natural selection with modern Mendelian genetics and population genetics; term Neo-Darwinism coined by **George Romanes (1895)**; **August Weismann** disproved Lamarckism via his **Germplasm Theory** (somatic acquired traits are not inherited).
-    - Modern Synthetic Theory was developed by **T. Dobzhansky, R.A. Fisher, J.B.S. Haldane, Sewall Wright, Ernst Mayr**, and **G. L. Stebbins** (*Processes of Organic Evolution*).
-    - 5 evolutionary driving forces: **Gene Mutation, Chromosomal Variation/Recombination, Gene Flow/Genetic Drift, Natural Selection, and Reproductive Isolation**.
 13. **Hugo de Vries' Mutation Theory (1901)**:
-    - Based on breeding experiments on the **Evening Primrose** (***Oenothera lamarckiana***).
-    - Evolution is a discontinuous, jerky, saltatory process (**Saltation** = single-step large mutation); mutations arise suddenly and act as the primary raw material of evolution and the origin of new species.
 14. **Landmark Evolutionary Fossils & Missing Links**:
-    - ***Archaeopteryx***: The classic **connecting link between Reptiles and Birds (Reptilia and Aves)**; lived during the Late Jurassic period (~150 million years ago); discovered in Solnhofen limestone, Bavaria, Germany. Possessed **reptilian traits** (teeth in jaws, long bony tail, clawed fingers on wings) and **avian traits** (feathers, wings, wishbone/furcula).
-    - **Dinosaurs**: Dominant terrestrial reptiles of the **Mesozoic Era** ("Age of Reptiles", 251.9 to 66 million years ago), spanning three periods: **Triassic, Jurassic, and Cretaceous**.
-    - **Mammoth**: Extinct woolly proboscidean closely related to modern Asian and African elephants; shared a common ancestor ~6 million years ago.
-    - **Denisovans**: Extinct archaic human species/subspecies identified in 2010 via mtDNA extracted from a juvenile finger bone in Denisova Cave (Altai Mountains, Siberia); also found in Baishiya Karst Cave (Tibet).
-    - **Cro-Magnon Man**: Earliest European anatomically modern human (*Homo sapiens*); remains radiocarbon dated to **30,000–45,000 years ago**; discovered by **Louis Lartet in 1868** in France. Had a straight forehead, prominent chin, and a **cranial capacity of 1,600 cc** (larger than modern humans ~1,350 cc); considered the direct ancestor of modern humans.
-    - **Chronological sequence of vertebrate evolution**: **Salamander (amphibian, ~360 mya) → Python (reptile, ~300 mya) → Kangaroo (marsupial mammal, ~145 mya)**.
 15. **Augustin Pyramus de Candolle (A. P. de Candolle)**: Swiss botanist who **first coined the term 'Taxonomy'** and was the **first to use vascular tissue characteristics** to classify plants into *Vasculares* (with vascular bundles) and *Cellulares* (without vascular bundles).
 16. **Carolus Linnaeus** (*Systema Naturae*, 1758) established the **Binomial Nomenclature** and is the Father of Modern Taxonomy; scientific names consist of **Genus** (capitalised) and **species epithet** (lowercase), printed in *italics*.
 17. The taxonomic hierarchy in ascending order is: **Species → Genus → Family → Order → Class → Phylum / Division → Kingdom**; the basic and real unit of classification is **Species** (group of individuals with fundamental similarities capable of interbreeding).
@@ -134,14 +78,8 @@ Introduction to Biology | Subdivisions & Branches of Biology | Biological Cultur
 48. **Pleiotropy** is when a single gene influences multiple phenotypic traits (e.g., Phenylketonuria, Sickle-cell anaemia); **Polygenic inheritance** is when a single trait is controlled by three or more genes (e.g., human skin colour, human height).
 49. **Sickle-cell anaemia** is an autosomal recessive point mutation on chromosome 11: substitution of **Glutamic acid by Valine** at position 6 of the $\beta$-globin chain ($GAG \rightarrow GUG$).
 50. Sex-linked recessive disorders carried on the X chromosome include **Haemophilia** (bleeder's / royal disease, factor VIII or IX deficiency) and **Red-Green Colour Blindness** (Daltonism); males are affected far more frequently ($XY$) while females are usually carriers ($X^h X$).
-51. Chromosomal aneuploidies: **Down syndrome** = Trisomy 21 ($47, 21+1$, mental retardation, flat face); **Turner syndrome** = Monosomy X ($45, XO$, sterile female, webbed neck); **Klinefelter syndrome** = Extra X in male ($47, XXY$, sterile male with gynaecomastia); **Cri-du-chat syndrome** = deletion of short arm of chromosome 5.
-52. **Barr Body** (Lyon's hypothesis): Inactive, condensed X chromosome in somatic cells of female mammals; number of Barr bodies = $(\text{Total X chromosomes} - 1)$ (Normal male XY = 0, normal female XX = 1, Turner XO = 0, Klinefelter XXY = 1).
-53. Tools of Genetic Engineering: **Restriction Endonucleases** (molecular scissors, cut DNA at palindromic sequences, e.g. *EcoRI*); **DNA Ligase** (molecular glue); **PCR** (polymerase chain reaction, developed by **Kary Mullis**, uses heat-tolerant *Taq* polymerase from ***Thermus aquaticus***).
-54. **Blotting techniques**: **Southern blot** = DNA; **Northern blot** = RNA; **Western blot** = Protein (Mnemonic: **SNOW DROP**).
-55. Key Biotech applications: First recombinant hormone = **Insulin / Humulin (1982)**; Plant vector = **Ti plasmid of *Agrobacterium tumefaciens*** ("natural genetic engineer"); Pest resistance = **Bt cotton** (*cry1Ac*, *cry2Ab* genes); First gene therapy (1990) = **ADA deficiency**; Superbug for oil spills = ***Pseudomonas putida*** (Ananda Chakrabarty); Monoclonal antibodies = **Hybridoma technique** (Köhler and Milstein).
 
 ---
-
 ## Confused Pairs
 
 | Concept A | Concept B | Core Distinguishing Fact | Hindi Key |
@@ -4716,3 +4654,83 @@ D. *Agrobacterium tumefaciens*
 8. **Cell wall chemistry**: Plants = cellulose; fungi = **chitin**; bacteria = peptidoglycan — do not swap.
 9. **Crossing over**: Occurs in **pachytene of prophase I** of meiosis, not in mitosis.
 10. **Clone vs transgenic**: A clone is a genetic copy; a transgenic organism carries a **foreign inserted gene**.
+
+
+---
+
+## Bilingual Terminology -- Cell, Genetics and Biotechnology
+
+| English Term | Hindi Term | Key Anchor |
+|---|---|---|
+| **Cell** (कोशिका) | कोशिका | Basic structural and functional unit of life |
+| **Prokaryotic Cell** (प्रोकैरियोटिक कोशिका) | आदिकोशिकीय | No membrane-bound nucleus; e.g., bacteria, cyanobacteria |
+| **Eukaryotic Cell** (यूकैरियोटिक कोशिका) | सुकोशिकीय | Membrane-bound nucleus; plants, animals, fungi, protists |
+| **Cell Wall** (कोशिका भित्ति) | कोशिका भित्ति | Cellulose (plants), Chitin (fungi), Peptidoglycan (bacteria) |
+| **Cell Membrane** (कोशिका झिल्ली) | कोशिका झिल्ली | Fluid mosaic model; semi-permeable phospholipid bilayer |
+| **Nucleus** (केन्द्रक) | केन्द्रक / नाभिक | Control centre of cell; contains chromosomes and DNA |
+| **Mitochondria** (माइटोकॉन्ड्रिया) | माइटोकॉन्ड्रिया | "Powerhouse of cell"; ATP synthesis via cellular respiration |
+| **Chloroplast** (हरितलवक) | हरितलवक / क्लोरोप्लास्ट | Site of photosynthesis; contains chlorophyll; has own circular DNA |
+| **Ribosome** (राइबोसोम) | राइबोसोम | Site of protein synthesis; 70S (prokaryote), 80S (eukaryote) |
+| **Endoplasmic Reticulum** (अन्तःप्रद्रव्यी जालिका) | अन्तःप्रद्रव्यी जालिका | Rough ER = protein transport; Smooth ER = lipid synthesis |
+| **Golgi Body** (गॉल्जी काय) | गॉल्जी काय | "Post Office of cell"; processes and packages proteins/lipids |
+| **Lysosome** (लाइसोसोम) | लाइसोसोम | "Suicide bag"; contains digestive enzymes; autophagy |
+| **Vacuole** (रिक्तिका) | रिक्तिका | Storage organelle; large central vacuole in plant cells |
+| **Chromosome** (गुणसूत्र) | गुणसूत्र | Thread-like structures carrying genes; DNA + histone proteins |
+| **Gene** (जीन) | जीन | Unit of heredity; segment of DNA encoding a protein |
+| **DNA** (डीऑक्सीराइबोन्यूक्लिक अम्ल) | डीऑक्सीराइबोन्यूक्लिक अम्ल | Double helix; deoxyribose sugar; bases ATGC |
+| **RNA** (राइबोन्यूक्लिक अम्ल) | राइबोन्यूक्लिक अम्ल | Single stranded; ribose sugar; uracil replaces thymine |
+| **Mitosis** (समसूत्री विभाजन) | समसूत्री विभाजन | Cell division for growth; 2 identical daughter cells; PMAT |
+| **Meiosis** (अर्धसूत्री विभाजन) | अर्धसूत्री विभाजन | Reduction division; 4 haploid cells; genetic recombination |
+| **Mutation** (उत्परिवर्तन) | उत्परिवर्तन | Permanent change in DNA sequence; basis of evolution |
+| **Genetic Engineering** (आनुवंशिक अभियांत्रिकी) | आनुवंशिक अभियांत्रिकी | Deliberate modification of organism's genome |
+| **Recombinant DNA** (पुनर्संयोजित डीएनए) | पुनर्संयोजित डीएनए | DNA formed by combining DNA from different sources |
+| **Biotechnology** (जैव-प्रौद्योगिकी) | जैव-प्रौद्योगिकी | Use of living organisms/systems for products and services |
+| **Plasmid** (प्लाज्मिड) | प्लाज्मिड | Small circular DNA in bacteria; used as cloning vector |
+| **Restriction Enzyme** (प्रतिबंध एंजाइम) | प्रतिबंध एंजाइम | "Molecular scissors"; cuts DNA at specific sequences |
+| **PCR** (पॉलीमरेज श्रृंखला अभिक्रिया) | पॉलीमरेज श्रृंखला अभिक्रिया | Amplifies specific DNA segments; invented by Kary Mullis (1983) |
+| **CRISPR-Cas9** (क्रिस्पर-कैस9) | जीनोम संपादन तकनीक | Genome editing tool; 2020 Nobel Chemistry (Charpentier & Doudna) |
+| **Clone** (क्लोन) | क्लोन | Genetically identical organism produced asexually |
+| **Transgenic Organism** (ट्रांसजेनिक जीव) | पारजीनी जीव | Organism with foreign gene inserted into its genome |
+| **Bt Crop** (बीटी फसल) | बीटी फसल | Carries Bacillus thuringiensis gene for insect resistance |
+| **Stem Cell** (मूल कोशिका) | मूल कोशिका / स्टेम सेल | Undifferentiated cell that can become any cell type |
+| **Genome** (जीनोम) | जीनोम | Complete set of genetic information of an organism |
+| **Human Genome Project** (मानव जीनोम परियोजना) | मानव जीनोम परियोजना | Completed 2003; mapped all ~3 billion base pairs of human DNA |
+| **Bioremediation** (जैव-निराकरण) | जैव-उपचारण | Use of microorganisms to clean up pollution |
+
+---
+
+## One-Liner Revision -- Cell, Genetics and Biotechnology
+
+| # | Fast Fact |
+|---|---|
+| 1 | Cell theory = Schleiden (1838) + Schwann (1839) + Virchow (1855) |
+| 2 | Smallest cell = Mycoplasma (0.1-0.3 micron); Largest single cell = Ostrich egg |
+| 3 | Prokaryote = **NO nucleus**, NO membrane-bound organelles; e.g., bacteria |
+| 4 | Eukaryote = **TRUE nucleus** + membrane-bound organelles; e.g., plants, animals |
+| 5 | Mitochondria = "Powerhouse of cell" (ATP synthesis) |
+| 6 | Chloroplast = "Kitchen of cell" (photosynthesis); has own DNA + 70S ribosomes |
+| 7 | Ribosome: Prokaryote = **70S** (50S+30S); Eukaryote = **80S** (60S+40S) |
+| 8 | Golgi body = "Post Office / Traffic police" of cell (protein packaging and dispatch) |
+| 9 | Lysosome = "Suicide bag" (autolysis); contains hydrolytic enzymes |
+| 10 | DNA bases: **A-T** (adenine-thymine) and **G-C** (guanine-cytosine) |
+| 11 | RNA has **Uracil** instead of Thymine; ribose sugar instead of deoxyribose |
+| 12 | DNA double helix discovered by **Watson and Crick** (1953); X-ray by Rosalind Franklin |
+| 13 | Human chromosomes = **46** (23 pairs); sex chromosomes = XY (male), XX (female) |
+| 14 | Mitosis = 2 identical daughter cells (diploid); for growth and repair |
+| 15 | Meiosis = 4 haploid daughter cells; for gamete formation; crossing over in Prophase I |
+| 16 | Mutation = permanent change in DNA; caused by radiation, chemicals, viruses |
+| 17 | Restriction enzymes = "Molecular scissors"; EcoRI is most famous (cuts at GAATTC) |
+| 18 | PCR invented by **Kary Mullis (1983)**; Nobel Chemistry 1993 |
+| 19 | First recombinant DNA = Cohen and Boyer (1973); using EcoRI |
+| 20 | First transgenic plant = tobacco (1983); first transgenic animal = mouse |
+| 21 | Dolly the sheep = first cloned mammal from adult somatic cell (Wilmut, 1996, UK) |
+| 22 | Bt gene from **Bacillus thuringiensis**; Bt crops resist Lepidoptera/Coleoptera pests |
+| 23 | Human Genome Project completed = **April 2003** (~3.2 billion base pairs, ~20,000-25,000 genes) |
+| 24 | CRISPR-Cas9 = Nobel Chemistry **2020** (Emmanuelle Charpentier + Jennifer Doudna) |
+| 25 | Golden Rice = transgenic rice with beta-carotene gene; developed to address Vitamin A deficiency |
+| 26 | Insulin produced by GM bacteria = **Humulin** (Eli Lilly, 1982); first biotech drug |
+| 27 | Chakrabarty's superbug (1980) = 1st GMO to get US patent; *Pseudomonas putida* |
+| 28 | RNA interference (RNAi) = Nobel 2006 (Fire and Mello); gene silencing mechanism |
+| 29 | Stem cells: Totipotent (zygote) > Pluripotent (embryo) > Multipotent (adult) |
+| 30 | Bioremediation = microorganisms clean pollutants; Chakrabarty's *Pseudomonas* = oil spill |
+

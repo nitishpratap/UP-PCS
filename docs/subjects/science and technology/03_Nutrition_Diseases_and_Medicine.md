@@ -25,7 +25,7 @@ Human Body Composition & Major Elements | Nutrition & Balanced Diet (Macronutrie
 
 ---
 
-## Consolidated — 45 Must-Score Facts
+## Consolidated — 32 Must-Score Facts
 
 1. By mass, **Oxygen** is the most abundant element in the human body (~65%), followed by Carbon (~18.5%), Hydrogen (~9.5%), and Nitrogen (~3.2%); by total number of atoms, **Hydrogen** is the most abundant.
 2. **Calcium** is the most abundant mineral element in the human body (~1.5% of body weight; 99% in bones and teeth as hydroxyapatite crystals); **Iron** is the most abundant essential micromineral (3–4 grams, primarily inside haemoglobin).
@@ -52,78 +52,15 @@ Human Body Composition & Major Elements | Nutrition & Balanced Diet (Macronutrie
 23. **Vitamin B9 (Folic Acid / Folate)**: Required for DNA synthesis and purine/thymidylate production; deficiency causes **Megaloblastic Anaemia**; maternal folate deficiency in periconceptional period causes fatal **Neural Tube Defects (Spina Bifida and Anencephaly)** in newborns.
 24. **Vitamin B12 (Cyanocobalamin)**: The only vitamin containing a metallic trace element (**Cobalt**); absent in ordinary plant foods; synthesized exclusively by microorganisms; absorbs in the terminal ileum mediated by **Castle's Intrinsic Factor** secreted by gastric parietal cells; deficiency causes **Pernicious Anaemia** (megaloblastic anaemia + irreversible subacute combined degeneration of the spinal cord).
 25. Mineral toxicity and environmental water syndromes:
-    - **Minamata Disease**: Caused by organic **Methyl Mercury** poisoning; attacks the central nervous system causing numbness, ataxia, visual constriction, convulsions, and death (first identified in Minamata Bay, Japan, 1956).
-    - **Itai-Itai Disease (Ouch-Ouch Disease)**: Caused by **Cadmium ($Cd$)** contamination in river waters; causes severe osteomalacia, multiple bone fractures, and intense joint pain with renal tubular failure (Toyama Prefecture, Japan).
-    - **Blue Baby Syndrome (Methemoglobinemia)**: Caused by excessive **Nitrates ($NO_3^-$)** in rural drinking well water; intestinal bacteria reduce nitrate to nitrite, which oxidizes $Fe^{2+}$ in infant haemoglobin into $Fe^{3+}$, converting it to **Methemoglobin** which cannot carry oxygen, causing cyanosis, asphyxia, and blue discoloration.
-    - **Fluorosis**: Fluoride at $1.0\text{ ppm}$ prevents dental cavities, but concentrations $>1.5–2.0\text{ ppm}$ cause yellow/brown mottling of dental enamel (**Dental Fluorosis**), and $>3–4\text{ ppm}$ causes severe crippling deformities of bones and ligaments (**Skeletal Fluorosis / Knock-knee syndrome / Genu valgum**).
-    - **Blackfoot Disease**: Peripheral vascular gangrene and skin hyperkeratosis caused by chronic exposure to **Arsenic ($As$)** in groundwater (common in West Bengal and Bangladesh Ganga-Brahmaputra alluvial aquifers).
-    - **Wilson's Disease**: Rare autosomal recessive disorder of toxic **Copper ($Cu$)** accumulation in the liver, brain, and cornea, characterized by golden-brown **Kayser-Fleischer (KF) rings** at the limbus of the eye.
 26. **Bacterial Diseases**:
-    - **Tuberculosis**: Caused by acid-fast bacillus ***Mycobacterium tuberculosis*** (discovered by Robert Koch, 1882); transmitted by respiratory droplets; diagnosed via sputum smear, chest X-ray, and **Mantoux Tuberculin Skin Test**; prevented by **BCG (Bacillus Calmette-Guérin)** live attenuated vaccine; treated with DOTS (Directly Observed Treatment, Short-course: Isoniazid, Rifampicin, Pyrazinamide, Ethambutol).
-    - **Typhoid (Enteric Fever)**: Caused by ***Salmonella typhi***; transmitted through food/water contaminated with faeces; characterized by sustained step-ladder fever, headache, rose spots on trunk, and intestinal ulceration/perforation; diagnosed by the **Widal Agglutination Test**.
-    - **Cholera**: Caused by comma-shaped bacterium ***Vibrio cholerae*** (discovered by Robert Koch); secretes enterotoxin causing profuse painless watery **"rice-water stools"**, catastrophic dehydration, hypovolemic shock, and death within hours; treated urgently with **Oral Rehydration Salts (ORS)** and IV fluids.
-    - **Diphtheria**: Caused by ***Corynebacterium diphtheriae***; exotoxin forms a tough, leathery, greyish **pseudomembrane** over the tonsils and throat, obstructing airways; diagnosed by the **Schick Test**; prevented by DPT vaccine containing diphtheria toxoid.
-    - **Tetanus (Lockjaw / धनुस्तंभ)**: Caused by anaerobic spore-forming soil bacterium ***Clostridium tetani*** entering dirty puncture wounds; secretes the deadly neurotoxin **Tetanospasmin**, which blocks inhibitory glycine/GABA neurotransmitters, causing painful sustained muscle spasms, clenched jaw (**Trismus / Lockjaw**), and arched spine (**Opisthotonos**); prevented by Tetanus Toxoid (TT).
-    - **Plague (Black Death)**: Caused by gram-negative rod ***Yersinia pestis*** (*Pasteurella pestis*); primary reservoir is wild rodents (rats); transmitted to humans by the bite of the oriental rat flea ***Xenopsylla cheopis***; causes high fever and acutely swollen, painful lymph nodes in groin/armpits (**Buboes** $\rightarrow$ Bubonic Plague).
-    - **Leprosy (Hansen's Disease)**: Chronic granulomatous infection caused by ***Mycobacterium leprae*** (discovered by Gerhard Hansen, 1873); affects skin, peripheral nerves, and upper respiratory tract, causing hypopigmented anaesthetic skin patches, loss of sensation, and claw hands; treated with WHO Multi-Drug Therapy (MDT: Dapsone, Rifampicin, Clofazimine).
-    - **Pertussis (Whooping Cough / काली खांसी)**: Caused by ***Bordetella pertussis***; characterized by paroxysmal coughing fits ending in an inspiratory high-pitched "whoop"; prevented by DPT vaccine.
 27. **Viral Diseases**:
-    - **Smallpox (Variola virus)**: Deadly disease causing pustular skin eruptions; prevented by the world's first vaccine developed by **Edward Jenner (1796)** using cowpox material; **officially declared globally eradicated by the WHO in 1980** (only human infectious disease eradicated to date, alongside Rinderpest in cattle).
-    - **Poliomyelitis (Infantile Paralysis)**: Caused by enterovirus (Poliovirus); transmitted by faecal-oral route; destroys anterior horn motor neurons of the spinal cord, causing acute flaccid paralysis of limbs (usually legs); two vaccines: **Salk Vaccine (1954)** = Inactivated Polio Vaccine (IPV, injected); **Sabin Vaccine (1961)** = Oral Polio Vaccine (OPV, live attenuated, sugar drops). India was declared Polio-free by WHO in **2014**.
-    - **Rabies (Hydrophobia / अलर्क रोग)**: Fatal acute encephalitis caused by bullet-shaped **Rhabdovirus**; transmitted through the bite or saliva of infected rabid dogs, wolves, or bats; virus travels retrograde along peripheral nerves to the brain; forms diagnostic cytoplasmic **Negri Bodies** in hippocampal neurons; hallmark symptom is intense spasm of throat muscles when attempting to swallow liquids (**Hydrophobia / fear of water**); rabies vaccine developed by **Louis Pasteur (1885)**.
-    - **Dengue Fever (Breakbone Fever / हड्डी तोड़ बुखार)**: Caused by Dengue virus (Flavivirus, 4 serotypes: DENV 1–4); transmitted by day-biting female ***Aedes aegypti*** mosquito; characterized by sudden high fever, retro-orbital eye pain, severe muscle and joint pain, and acute **Thrombocytopenia (crash in blood platelet count)**; severe forms: Dengue Haemorrhagic Fever (DHF) and Dengue Shock Syndrome (DSS).
-    - **Chikungunya**: Caused by an Alphavirus (Togaviridae); transmitted by *Aedes aegypti*; produces fever and crippling, severe, long-lasting joint pain (polyarthritis).
-    - **Hepatitis**: Viral inflammation of the liver:
-      - **Hepatitis A & E**: Transmitted via **contaminated food and water (faecal-oral route)**; acute self-limiting hepatitis, jaundice.
-      - **Hepatitis B, C, & D**: Transmitted via **infected blood transfusion, unsterilized needles, and sexual contact (parenteral route)**; chronic infections leading to liver cirrhosis and hepatocellular carcinoma (liver cancer). Hepatitis B is the **only DNA virus** in the group (Hepadnaviridae); all others are RNA viruses.
-    - **HIV / AIDS (Acquired Immuno-Deficiency Syndrome)**:
-      - First reported in the USA in 1981; first identified in India in Chennai (1986); caused by **Human Immunodeficiency Virus (HIV)**, a spherical retrovirus containing two identical copies of single-stranded RNA and the enzyme reverse transcriptase surrounded by a protein coat (p24) and gp120 spikes.
-      - Pathogenesis: HIV gp120 binds specifically to **CD4 receptor proteins** on the surface of **Helper T-lymphocytes ($T_H$ cells)** and macrophages; reverse transcribes viral RNA into DNA which integrates into host chromosomes; as $T_H$ cell count plunges below $200/\mu\text{L}$ (normal is $800–1200$), the immune system collapses, exposing the host to opportunistic infections (TB, candidiasis, toxoplasmosis, Kaposi's sarcoma).
-      - Diagnosis: Screening test = **ELISA** (Enzyme-Linked Immunosorbent Assay); Confirmatory test = **Western Blotting** (detects specific viral proteins) or **RT-PCR** (viral load).
-      - Treatment: **HAART** (Highly Active Antiretroviral Therapy: combinations of Reverse Transcriptase Inhibitors like Zidovudine/AZT, Protease Inhibitors, and Integrase Inhibitors).
 28. **Protozoan Diseases**:
-    - **Malaria**: Caused by sporozoan protozoan ***Plasmodium*** (*P. vivax*, *P. falciparum*, *P. malariae*, *P. ovale*); transmitted by the bite of the female ***Anopheles*** mosquito; **Sir Ronald Ross (1897)** discovered the transmission cycle in Secunderabad, India (Nobel Prize in 1902); *Plasmodium* completes its life cycle in two hosts: Primary / Definitive host = Female *Anopheles* (sexual reproduction occurs in gut), Secondary host = Human (asexual reproduction in liver and RBCs). Toxic chemical **Haemozoin** released upon rupture of RBCs causes cyclical bouts of chills, shivering, and high recurring fever. ***Plasmodium falciparum*** causes the most fatal form: **Malignant Tertian / Cerebral Malaria**. Treatment: **Quinine** (extracted from the bark of the ***Cinchona*** tree), Chloroquine, Artemisinin (extracted from *Artemisia annua*, Tu Youyou Nobel Prize 2015).
-    - **Amoebiasis (Amoebic Dysentery)**: Caused by protozoan ***Entamoeba histolytica***; infects large intestine; symptoms: abdominal griping pain and stools with excess mucus and blood; transmitted via houseflies contaminating food/water with tetranucleate cysts.
-    - **Kala-azar (Visceral Leishmaniasis / Dum-Dum Fever)**: Caused by flagellated protozoan ***Leishmania donovani***; transmitted by the bite of the blood-sucking **Sandfly (***Phlebotomus argentipes***)**; attacks the reticuloendothelial system causing persistent fever, profound weight loss, severe anaemia, and massive enlargement of the spleen and liver (**Hepatosplenomegaly**).
-    - **African Sleeping Sickness**: Caused by ***Trypanosoma brucei gambiense***; transmitted by the **Tsetse Fly (***Glossina palpalis***)**; causes fever, lethargy, circadian cycle disruption, coma, and death.
 29. **Cancer Biology & Classification**:
-    - Cancer is characterized by uncontrolled, autonomous, abnormal mitotic cell proliferation lacking **contact inhibition**; cancer cells exhibit **Metastasis** (malignant cells detach, travel via bloodstream or lymphatic channels, and colonize distant vital organs).
-    - **Major Pathological Categories**:
-      1. **Carcinoma**: Malignant tumours derived from **Epithelial tissues** (ectoderm or endoderm); comprises **~85% of all human cancers** (e.g. breast cancer, lung cancer, cervical cancer, skin cancer, stomach cancer).
-      2. **Sarcoma**: Rare malignant tumours (~1–2%) arising from **Mesodermal / Connective tissues** (e.g. Osteosarcoma in bones, Chondrosarcoma in cartilage, Fibrosarcoma, Liposarcoma).
-      3. **Leukemia**: Malignant proliferation of blood-forming stem cells in bone marrow, characterized by astronomical numbers of immature, abnormal white blood cells (blood cancer); treated therapeutically with radioactive **Phosphorus-32 ($^{32}P$)**.
-      4. **Lymphoma**: Cancers of lymphatic tissue and lymph nodes (e.g. Hodgkin's lymphoma, Non-Hodgkin's lymphoma).
-    - Diagnostic tools: **Biopsy and Histopathology** (gold standard confirmation), **Pap Smear** (Papanicolaou test for early detection of cervical cancer caused by Human Papillomavirus / HPV), **PSA (Prostate-Specific Antigen)** for prostate cancer, Mammography for breast cancer.
-    - Therapy: Surgery, Radiotherapy (using gamma rays from **Cobalt-60 ($^{60}Co$)**), Chemotherapy (mitotic inhibitors **Vincristine and Vinblastine** extracted from the Madagascar periwinkle ***Catharanthus roseus*** / *Vinca rosea*; Taxol from Pacific yew *Taxus brevifolia*).
 30. **Diabetes Mellitus vs Diabetes Insipidus**:
-    - **Diabetes Mellitus (मधुमेह)**: Disorder of carbohydrate metabolism caused by absolute lack or cellular insensitivity to **Insulin** (secreted by $\beta$-cells of the Islets of Langerhans of the pancreas):
-      - **Type 1 (Juvenile-onset / IDDM)**: Autoimmune destruction of $\beta$-cells; patient is dependent on daily exogenous insulin injections.
-      - **Type 2 (Adult-onset / NIDDM)**: Accounts for ~90–95% of all diabetes; caused by peripheral **insulin resistance** coupled with progressive secretory defect; strongly tied to obesity, physical inactivity, and lifestyle stress.
-      - Symptoms: **Hyperglycaemia** (elevated blood glucose), **Glycosuria** (excretion of glucose in urine when blood levels exceed renal threshold of $\sim 180\text{ mg/dL}$), **Polyuria** (frequent urination due to osmotic diuresis), **Polydipsia** (excessive thirst), **Polyphagia** (excessive hunger).
-      - Diagnostic thresholds: Fasting blood sugar normal = $70–100\text{ mg/dL}$; Diabetic fasting = $\mathbf{\ge 126\text{ mg/dL}}$; Post-prandial ($2\text{ hr}$) $\ge 200\text{ mg/dL}$; **HbA1c (Glycated Haemoglobin)** test measures 3-month average blood glucose control (normal $<5.7\%$; Diabetic $\mathbf{\ge 6.5\%}$).
-    - **Diabetes Insipidus**: Caused by hyposecretion of **Antidiuretic Hormone (ADH / Vasopressin)** from the posterior pituitary; distal renal tubules fail to reabsorb water, causing profuse excretion of massive volumes ($10–20\text{ litres/day}$) of **extremely dilute, tasteless urine without any glucose**; blood sugar remains completely normal.
 31. **Vaccine Classification & Modern Immunology**:
-    - **Live Attenuated Vaccines**: Weakened, live pathogen that reproduces inside the body to generate robust lifelong cellular and humoral immunity: **BCG** (Tuberculosis), **OPV / Sabin** (Polio), **MMR** (Measles, Mumps, Rubella), Yellow fever, Varicella.
-    - **Inactivated / Killed Vaccines**: Pathogen killed by heat, formalin, or radiation: **Salk IPV** (Polio), **Covaxin** (COVID-19), **Sinovac**, Rabies vaccine, Cholera vaccine, Hepatitis A.
-    - **Toxoids**: Chemically detoxified bacterial exotoxins (treated with formaldehyde) that retain antigenic immunogenicity without causing disease: **Tetanus Toxoid (TT)**, **Diphtheria Toxoid (DT)**.
-    - **Subunit / Recombinant Vaccines**: Only specific antigenic fragments or viral proteins: **Recombinant Hepatitis B Vaccine** (HBsAg expressed in yeast), Novavax (COVID-19).
-    - **Viral Vector Vaccines**: Uses a harmless modified unrelated virus to deliver the genetic code for the antigen: **Covishield** (AstraZeneca, uses chimpanzee adenovirus vector ChAdOx1), **Sputnik V** (human adenovirus vectors Ad26 and Ad5).
-    - **mRNA Vaccines**: Encapsulates synthetic mRNA coding for viral spike protein inside lipid nanoparticles (LNPs); host ribosomes translate the spike protein: **Moderna (mRNA-1273)**, **Pfizer-BioNTech (BNT162b2)**.
 32. **Clinical Diagnostic Tests & Instruments Drill**:
-    - **Widal Test**: Typhoid fever (*Salmonella typhi*).
-    - **Mantoux Tuberculin Test**: Tuberculosis (*Mycobacterium tuberculosis*).
-    - **Schick Test**: Diphtheria (*Corynebacterium diphtheriae*).
-    - **VDRL / Wassermann Test**: Syphilis (*Treponema pallidum*).
-    - **Tourniquet Test**: Dengue fever (evaluates capillary fragility).
-    - **Western Blot / ELISA**: HIV / AIDS antibodies.
-    - **Electrocardiogram (ECG)**: Graphic record of electrical potential variations generated by heart muscle during cardiac cycles (invented by **Willem Einthoven**, Father of ECG).
-    - **Electroencephalogram (EEG)**: Graphic record of electrical brain wave activity (invented by **Hans Berger**; used in epilepsy, brain death, and sleep disorders).
-    - **Electromyogram (EMG)**: Evaluates electrical activity of peripheral muscles and nerves.
-    - **Sphygmomanometer**: Measures arterial blood pressure in mm Hg (invented by Samuel Siegfried Karl von Basch, popularized by Scipione Riva-Rocci).
-    - **Stethoscope**: Acoustic device for auscultating internal chest sounds of heart and lungs (invented by **René Laennec, 1816**).
 
 ---
-
 ## Confused Pairs
 
 | Concept A | Concept B | Core Distinguishing Fact | Hindi Key |
@@ -7786,3 +7723,72 @@ D. Diabetes
 10. **Diabetes mellitus vs insipidus**: Mellitus = insulin/glucose; insipidus = **ADH** / water balance.
 11. **Vaccine platforms**: Covaxin = inactivated; Covishield = adenovirus vector; Moderna/Pfizer = **mRNA**.
 12. **Vitamin B12**: Contains **cobalt**; absent in ordinary plant foods.
+
+
+---
+
+## Bilingual Terminology -- Nutrition, Diseases and Medicine
+
+| English Term | Hindi Term | Key Anchor |
+|---|---|---|
+| **Nutrition** (पोषण) | पोषण | Process of obtaining and using food for growth and energy |
+| **Carbohydrate** (कार्बोहाइड्रेट) | कार्बोहाइड्रेट | Primary energy source; glucose, starch, cellulose; C:H:O = 1:2:1 |
+| **Protein** (प्रोटीन) | प्रोटीन | Built from amino acids; body-building nutrient; enzymes are proteins |
+| **Fat / Lipid** (वसा) | वसा / लिपिड | Energy reserve; fat-soluble vitamins ADEK; 9 kcal/g |
+| **Vitamin** (विटामिन) | विटामिन | Organic micronutrient; essential in small amounts |
+| **Mineral** (खनिज) | खनिज | Inorganic micronutrient; e.g., calcium, iron, iodine |
+| **Enzyme** (एंजाइम) | एन्जाइम | Biological catalyst; protein in nature; specific action |
+| **Deficiency Disease** (अपूर्णता रोग) | न्यूनता रोग | Disease caused by lack of specific nutrient |
+| **Scurvy** (स्कर्वी) | स्कर्वी | Vitamin C deficiency; bleeding gums; treated by lemon/amla |
+| **Rickets** (रिकेट्स) | सूखा रोग | Vitamin D deficiency (children); soft, bent bones |
+| **Beriberi** (बेरीबेरी) | बेरी-बेरी | Vitamin B1 (Thiamine) deficiency; neurological + cardiovascular |
+| **Night Blindness** (रतौंधी) | रतौंधी | Vitamin A deficiency; cannot see in dim light |
+| **Anaemia** (रक्ताल्पता) | रक्ताल्पता | Iron deficiency; low haemoglobin; pale skin, fatigue |
+| **Goitre** (घेंघा) | घेंघा | Iodine deficiency; enlarged thyroid gland |
+| **Kwashiorkor** (क्वाशियोरकोर) | क्वाशियोरकोर | Protein deficiency; swollen belly in children |
+| **Marasmus** (मरास्मस) | मरास्मस | Protein + calorie deficiency; severe wasting in children |
+| **Pathogen** (रोगजनक) | रोगाणु / रोगजनक | Disease-causing organism: bacteria, virus, fungi, protozoa |
+| **Antibiotic** (प्रतिजैविक) | प्रतिजैविक | Drug that kills/inhibits bacteria; Alexander Fleming (Penicillin, 1928) |
+| **Vaccine** (टीका) | टीका | Preparation of killed/weakened pathogen; stimulates immunity |
+| **Epidemic** (महामारी) | महामारी | Disease affecting many people in a community at the same time |
+| **Pandemic** (वैश्विक महामारी) | वैश्विक महामारी | Worldwide epidemic; e.g., COVID-19, Spanish Flu |
+| **Zoonosis** (जूनोसिस) | जूनोटिक रोग | Disease transmitted from animals to humans; rabies, plague, bird flu |
+| **Vector** (वाहक) | वाहक | Organism carrying pathogen to host; mosquito, tick, sandfly |
+
+---
+
+## One-Liner Revision -- Nutrition, Diseases and Medicine
+
+| # | Fast Fact |
+|---|---|
+| 1 | Carbohydrate = primary energy source; **4 kcal/g** |
+| 2 | Fat = most concentrated energy source; **9 kcal/g** |
+| 3 | Protein = **4 kcal/g**; essential amino acids = 9 (must come from diet) |
+| 4 | Vitamin A (Retinol) = Night blindness; sources: carrot, liver, egg |
+| 5 | Vitamin B1 (Thiamine) = Beriberi; found in rice bran, cereals |
+| 6 | Vitamin B2 (Riboflavin) = Ariboflavinosis (cracks at mouth corners) |
+| 7 | Vitamin B3 (Niacin) = Pellagra (4Ds: Dermatitis, Diarrhoea, Dementia, Death) |
+| 8 | Vitamin B9 (Folic acid) = Neural tube defects in foetus if deficient |
+| 9 | Vitamin B12 (Cobalamin) = Pernicious anaemia; only in animal foods |
+| 10 | Vitamin C (Ascorbic acid) = Scurvy; richest source = Amla (Indian gooseberry) |
+| 11 | Vitamin D (Calciferol) = Rickets (children), Osteomalacia (adults); sunlight synthesis |
+| 12 | Vitamin E (Tocopherol) = antioxidant; deficiency = sterility/muscle weakness |
+| 13 | Vitamin K (Phylloquinone) = blood clotting; deficiency = excessive bleeding |
+| 14 | Fat-soluble vitamins = **A, D, E, K** (stored in liver/fat) |
+| 15 | Water-soluble vitamins = **B-complex + C** (excreted in urine; daily needed) |
+| 16 | Iron deficiency = **Anaemia** (haemoglobin low; pale, fatigued) |
+| 17 | Iodine deficiency = **Goitre** (enlarged thyroid) |
+| 18 | Calcium deficiency = **Tetany / Osteoporosis** |
+| 19 | Fluoride excess = **Fluorosis** (mottled teeth, skeletal damage) |
+| 20 | Penicillin discovered = **Alexander Fleming (1928)**; Nobel 1945 (Fleming+Chain+Florey) |
+| 21 | First antibiotic = **Penicillin** (from *Penicillium notatum* mould) |
+| 22 | Malaria vector = **Female Anopheles mosquito**; caused by Plasmodium |
+| 23 | Dengue vector = **Aedes aegypti** mosquito |
+| 24 | Filaria (Lymphatic filariasis) vector = **Culex mosquito** |
+| 25 | Plague (Black Death) vector = rat flea (*Xenopsylla cheopis*); bacterium *Yersinia pestis* |
+| 26 | Cholera = *Vibrio cholerae*; rice-water stools; foul-smelling; water-borne |
+| 27 | Tuberculosis = *Mycobacterium tuberculosis*; Mantoux test; BCG vaccine |
+| 28 | Vaccine for smallpox = **Edward Jenner (1796)**; smallpox eradicated **1980** (WHO) |
+| 29 | ORS (Oral Rehydration Solution) = key treatment for diarrhoea; WHO/UNICEF |
+| 30 | DOTS = Directly Observed Treatment Short-course; for **tuberculosis** control |
+

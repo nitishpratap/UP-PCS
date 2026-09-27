@@ -1353,3 +1353,65 @@ Who among the following scientists won the Nobel Prize twice in two different sc
 | **Barium Meal Compound** | Writing barium chloride or barium carbonate for X-rays. | Only insoluble **Barium Sulphate ($BaSO_4$)** is non-toxic and used as a radiopaque meal. |
 | **Eosin Dye Purpose** | Confusing Eosin with blue vitriol or rodenticides. | Eosin is the **red coloring dye in commercial Red Ink** and biological tissue stains. |
 | **Noble Gas Distractors** | Assuming Actinium is a noble gas. | Actinium ($Ac, Z=89$) is an **actinide transition metal**, NOT a noble gas (Group 18). |
+
+
+---
+
+## Bilingual Terminology -- Chemistry Discoveries and Miscellaneous
+
+| English Term | Hindi Term | Key Anchor |
+|---|---|---|
+| **Alchemy** (रसायन शास्त्र का प्राचीन रूप) | कीमिया / रसायन विद्या | Medieval precursor of chemistry; sought to transmute metals to gold |
+| **Lavoisier** (लावोइसिये) | अन्टोइन लावोइसिये | "Father of Modern Chemistry"; law of conservation of mass; named oxygen (1774) |
+| **Dalton's Atomic Theory** (डाल्टन का परमाणु सिद्धांत) | डाल्टन का परमाणु सिद्धांत | 1803; atoms are indivisible; each element has unique atoms |
+| **Avogadro's Law** (अवोगाद्रो का नियम) | अवोगाद्रो का नियम | Equal volumes of gases at same T and P contain equal number of molecules |
+| **Gay-Lussac's Law** (गे-लुसाक का नियम) | गे-लुसाक का नियम | Gases combine in simple ratios of volumes; e.g., H2 + Cl2 = 2HCl |
+| **Haber Process** (हैबर विधि) | हैबर प्रक्रम | N2 + 3H2 = 2NH3; conditions: 400-500 degC, 200 atm, iron catalyst; makes ammonia |
+| **Contact Process** (संपर्क विधि) | सम्पर्क प्रक्रम | Industrial manufacture of H2SO4; 2SO2 + O2 = 2SO3 (V2O5 catalyst) |
+| **Solvay Process** (सोल्वे विधि) | साल्वे प्रक्रम | Industrial production of Na2CO3 (soda ash/washing soda) from salt + ammonia + CO2 |
+| **Ostwald Process** (ऑस्टवाल्ड विधि) | ऑस्टवाल्ड प्रक्रम | Industrial production of HNO3 (nitric acid) from ammonia; Pt-Rh catalyst |
+| **Dry Ice** (शुष्क बर्फ) | सूखी बर्फ | Solid CO2; -78.5 degC; sublimes directly; refrigerant, special effects |
+| **Heavy Water** (भारी जल) | भारी जल | D2O (deuterium oxide); used as moderator in nuclear reactors |
+| **Laughing Gas** (नाइट्रस ऑक्साइड) | नाइट्रस ऑक्साइड / हँसाने वाली गैस | N2O; anaesthetic; greenhouse gas; discovered by Joseph Priestley |
+| **Noble Gas** (उत्कृष्ट गैस) | अक्रिय गैस | Group 18; completely filled electron shells; unreactive |
+| **Catalyst** (उत्प्रेरक) | उत्प्रेरक | Speeds up reaction without being consumed; positive or negative |
+| **Le Chatelier's Principle** (ले शातेलिए का सिद्धांत) | ले शातेलिए का नियम | System in equilibrium shifts to counter any applied change |
+| **Electrochemistry** (विद्युत-रसायन) | विद्युत-रसायन | Study of relationship between electricity and chemical reactions |
+
+---
+
+## One-Liner Revision -- Chemistry Discoveries and Miscellaneous
+
+| # | Fast Fact |
+|---|---|
+| 1 | "Father of Modern Chemistry" = **Antoine Lavoisier** (France); named oxygen, hydrogen |
+| 2 | Law of Conservation of Mass = **Lavoisier**; mass is neither created nor destroyed |
+| 3 | Dalton's Atomic Theory (1803) = atoms indivisible; each element has unique identical atoms |
+| 4 | Avogadro's Number = **6.022 x 10^23** entities per mole |
+| 5 | Haber Process: N2 + 3H2 = 2NH3; 400-500 degC; 200 atm; Fe catalyst; makes fertiliser |
+| 6 | Contact Process: SO2 + O2 = SO3 (V2O5 catalyst); SO3 + H2SO4 = oleum -> H2SO4 |
+| 7 | Solvay Process = produces Na2CO3 (washing soda) and NaHCO3 (baking soda) industrially |
+| 8 | Ostwald Process = 4NH3 + 5O2 = 4NO + 6H2O (Pt-Rh catalyst, 850 degC); makes HNO3 |
+| 9 | Oxygen discovered = **Carl Scheele (1772)** and Joseph Priestley (1774); named by Lavoisier |
+| 10 | Hydrogen discovered = **Henry Cavendish (1766)**; named "inflammable air" |
+| 11 | Nitrogen discovered = **Daniel Rutherford (1772)**; Lavoisier named it |
+| 12 | Chlorine discovered = **Carl Wilhelm Scheele (1774)**; named by Humphry Davy |
+| 13 | Dry ice = solid CO2 (-78.5 degC); sublimes (solid to gas directly); used in fog machines |
+| 14 | Heavy water (D2O) = deuterium oxide; moderator in CANDU and Indian PHWR reactors |
+| 15 | Laughing gas = N2O (nitrous oxide); anaesthetic; also greenhouse gas |
+| 16 | Helium = lightest noble gas; non-flammable; used in balloons, MRI cooling |
+| 17 | Noble gases discovered: Argon = Rayleigh + Ramsay (1894); Helium = Ramsay (1895) |
+| 18 | Neon lights = neon gas in tube glows red-orange; other colours use different gases |
+| 19 | Ozone (O3) = allotrope of oxygen; formed by UV + O2; both protective (stratosphere) and pollutant (troposphere) |
+| 20 | Le Chatelier's Principle: equilibrium shifts against applied stress (T, P, concentration) |
+| 21 | Law of mass action: rate = k[A]^m[B]^n (reactant concentrations) |
+| 22 | pH of blood = 7.4; gastric acid = 1.5-3.5; milk = 6.5-6.7; lemon juice = 2-3 |
+| 23 | Galvanic cell = chemical energy -> electrical energy; Daniel cell = Zn-Cu |
+| 24 | Electrolytic cell = electrical energy -> chemical energy; electroplating |
+| 25 | Faraday's Laws of Electrolysis: 1st = mass proportional to charge; 2nd = mass proportional to equivalent weight |
+| 26 | Electroplating = depositing thin layer of metal (Ag, Au, Cr, Ni) on another object |
+| 27 | Anodising = electrochemical oxidation of aluminium surface; corrosion protection |
+| 28 | Catalytic converter in cars = Pt-Rh-Pd catalyst; converts CO, NOx, VOCs to CO2, N2, H2O |
+| 29 | Green Chemistry 12 principles = prevent waste; atom economy; safer chemicals; etc. (Paul Anastas) |
+| 30 | India's 1st Chemistry Nobel (so far) = none; C.V. Raman (1930) was in Physics |
+

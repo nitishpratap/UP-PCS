@@ -306,6 +306,106 @@ D. Trans-Yamuna arid only
 
 ---
 
+
+### Other Papers — BPSC / MPPSC / RAS / UKPCS / UPSC / WBCS
+
+**Q3. UKPSC (Pre) 2022**
+Which districts of Uttarakhand recorded negative population growth during 2001–2011 as per Census 2011?
+A. Tehri Garhwal and Bageshwar
+B. Pauri Garhwal and Almora
+C. Uttarkashi and Champawat
+D. Chamoli and Rudraprayag
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** UK neighbour out-migration pair on UP’s northern border.
+
+**Ans: B.** Pauri Garhwal and Almora.
+
+</details>
+
+**Q4. 67th BPSC (Pre) 2022**
+Which river is known as the ‘Sorrow of Bihar’?
+A. Ganga
+B. Kosi
+C. Son
+D. Ghaghara
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Flood geography of the UP–Bihar plain continuum.
+
+**Ans: B.** Kosi.
+
+</details>
+
+**Q5. UPSC (CSE) Prelims 2007**
+Which one among the following States of India has the lowest density of population?
+A. Himachal Pradesh
+B. Meghalaya
+C. Arunachal Pradesh
+D. Sikkim
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Comparative density ranking for UP Special geography Extra Drill.
+
+**Ans: C.** Arunachal Pradesh.
+
+</details>
+
+
+**Q6. UKPSC / UK–UP border**
+How many districts of Uttarakhand share a border with Uttar Pradesh?
+A. 3
+B. 4
+C. 5
+D. 6
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Southern UK–UP frontier for UP Special geography.
+
+**Ans: C.** Five — Dehradun, Haridwar, Pauri Garhwal, Nainital and Udham Singh Nagar.
+
+</details>
+
+**Q7. UK Upper PCS / multi-PSC**
+Which of the following cities is NOT located on the banks of the Ganga?
+A. Kanpur
+B. Varanasi
+C. Agra
+D. Prayagraj (Allahabad)
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Agra is on the Yamuna — classic river–city trap.
+
+**Ans: C.** Agra.
+
+</details>
+
+**Q8. UK Upper PCS / multi-PSC**
+Rihand Dam (Govind Ballabh Pant Sagar) is located in which district of Uttar Pradesh?
+A. Mirzapur
+B. Sonbhadra
+C. Varanasi
+D. Prayagraj
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Rihand is a tributary of the Son; major reservoir by surface area in UP.
+
+**Ans: B.** Sonbhadra.
+
+</details>
+
 ## Practice Zone
 
 1. The latitudinal span of Uttar Pradesh between its southern and northern borders is:
@@ -627,3 +727,143 @@ D. Varanasi
 | Trap | Correct |
 |---|---|
 | Mixing Absolute vs % ranks | Match the stem metric first |
+
+
+---
+
+## Bilingual Terminology -- UP Geography
+
+| English | Hindi | Key Anchor |
+|---|---|---|
+| **Terai** | तराई | Swampy foothills belt along Nepal border (Bahraich, Lakhimpur, Kheri) |
+| **Bhangar** | बांगर | Old alluvial soil above flood level; firm, slightly elevated |
+| **Khadar** | खादर | New alluvial soil deposited by annual floods; highly fertile |
+| **Usar** | ऊसर / रेह | Saline-alkaline waste land common in central/eastern UP |
+| **Vindhya Plateau** | विंध्य पठार | Southern UP; hard rock; limited agriculture |
+| **Bundelkhand Plateau** | बुंदेलखंड पठार | SW UP; granite-gneiss rock; poor water retention |
+| **Purvanchal Hills** | पूर्वांचल पहाड़ियाँ | Eastern edge of UP (Sonbhadra, Mirzapur) |
+| **Ganga-Yamuna Doab** | गंगा-यमुना दोआब | Fertile plain between Ganga and Yamuna rivers |
+| **Rohilkhand** | रुहेलखंड | Region: Bareilly, Moradabad, Pilibhit, Rampur, Budaun |
+| **Awadh** | अवध | Central UP plains: Lucknow, Faizabad, Sultanpur |
+| **Braj** | ब्रज | Mathura-Agra cultural heartland |
+| **Brij Bhoomi** | ब्रजभूमि | Krishna's homeland; Mathura, Vrindavan, Govardhan |
+| **Ken River** | केन नदी | Vindhyan river; joins Yamuna; Panna Tiger Reserve on banks |
+| **Betwa River** | बेतवा नदी | Rises in MP; joins Yamuna at Hamirpur; Rajghat Dam |
+| **Sharda River** | शारदा नदी | Also called Kali or Mahakali; flows from Nepal through Pilibhit |
+
+---
+
+## Extended Theory -- Physical Geography of UP
+
+```
+        UTTAR PRADESH -- PHYSICAL DIVISIONS
+        ------------------------------------
+        
+                        HIMALAYAN FOOTHILLS (TERAI/BHABAR)
+                        ─────────────────────────────────
+                        Bahraich, Lakhimpur Kheri, Pilibhit,
+                        Sonbhadra (NE belt); swampy Terai forests
+                               │
+                               ▼
+                    CENTRAL GANGETIC PLAIN (MAIN BODY)
+                    ─────────────────────────────────
+                    Vast alluvial plains: Bhangar + Khadar
+                    Ganga-Yamuna Doab; Rohilkhand; Awadh
+                               │
+                               ▼
+                    SOUTHERN UPLAND / PLATEAU
+                    ─────────────────────────
+                    Vindhya Range; Bundelkhand Plateau
+                    (Jhansi, Lalitpur, Mahoba, Chitrakoot)
+                    Purvanchal Hills (Sonbhadra, Mirzapur)
+```
+
+### River Systems of UP
+
+| River | Origin | Joins | Key Districts / Dams |
+|---|---|---|---|
+| **Ganga** | Gangotri Glacier | Bay of Bengal | Haridwar--Varanasi corridor; Narora Barrage |
+| **Yamuna** | Yamunotri Glacier | Ganga at Prayagraj (Triveni Sangam) | Mathura, Agra, Etawah |
+| **Gomti** | Gomat Taal (Pilibhit) | Ganga at Ghazipur | Lucknow, Jaunpur, Ghazipur |
+| **Ghaghra / Saryu** | Nepal Himalayas (Karnali) | Ganga at Chapra (Bihar) | Bahraich, Faizabad, Gonda |
+| **Gandak** | Nepal | Ganga at Patna | NE border UP-Bihar |
+| **Betwa** | Madhya Pradesh (Vindhyas) | Yamuna at Hamirpur | Jhansi region; Rajghat Dam |
+| **Ken** | MP Vindhyas | Yamuna at Banda | Bundelkhand; Ken-Betwa river link project |
+| **Son** | Amarkantak (MP) | Ganga at Patna | Sonbhadra; Obra Dam; Rihand Reservoir |
+| **Rihand** | MP/Chhattisgarh | Son River | Rihand Dam / Govind Ballabh Pant Sagar |
+| **Sharda (Kali)** | Nepal/Uttarakhand | Ghaghra at Bahramghat | Pilibhit, Lakhimpur, Sharda Sagar Dam |
+
+---
+
+## UKPCS / MPPSC / RAS Extra Drill -- UP Geography
+
+**Q1. UKPCS (Pre) 2021**
+Which river originates from Gomat Taal in Pilibhit district and flows through Lucknow?
+A. Sharda
+B. Gomti
+C. Rapti
+D. Betwa
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The **Gomti** River originates from the Gomat Taal (Fulhaar Jheel) near Madhotanda in Pilibhit district and flows through Lucknow, Jaunpur, before joining the Ganga at Ghazipur.
+
+**Ans: B.** Gomti.
+
+</details>
+
+**Q2. MPPSC (Pre) 2020**
+The Betwa River joins the Yamuna at which location in Uttar Pradesh?
+A. Allahabad (Prayagraj)
+B. Mathura
+C. Hamirpur
+D. Banda
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Betwa (also called Vetravati) River originates in MP's Vindhyan range and joins the Yamuna at **Hamirpur** in Bundelkhand region of UP.
+
+**Ans: C.** Hamirpur.
+
+</details>
+
+**Q3. BPSC-type**
+The Govind Ballabh Pant Sagar (Rihand Dam reservoir) is located in which district of UP?
+A. Mirzapur
+B. Sonbhadra
+C. Banda
+D. Jhansi
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Rihand Dam on the Rihand River is located in **Sonbhadra** district. The resultant reservoir (Govind Ballabh Pant Sagar) is the largest reservoir in India by area and provides water to Obra and Rihand thermal power stations.
+
+**Ans: B.** Sonbhadra.
+
+</details>
+
+---
+
+## One-Liner Revision -- UP Geography
+
+| # | Fast Fact |
+|---|---|
+| 1 | UP = 9th largest State by area (**2,40,928 km2**) |
+| 2 | UP shares borders with **9 States/UTs** + Nepal |
+| 3 | Longest river in UP = **Ganga** |
+| 4 | Gomti originates at **Gomat Taal (Pilibhit)** |
+| 5 | Triveni Sangam (Ganga + Yamuna + Saraswati) = **Prayagraj** |
+| 6 | Ken-Betwa river link project = Bundelkhand water transfer |
+| 7 | Rihand Dam reservoir = **Govind Ballabh Pant Sagar** (largest by area) |
+| 8 | Bhangar = **old alluvium** (above flood plain; firm soil) |
+| 9 | Khadar = **new alluvium** (floodplain; very fertile) |
+| 10 | Terai = swampy foothills belt; rich forests; wildlife |
+| 11 | Usar = saline/alkaline wasteland (common in Etah, Mainpuri) |
+| 12 | Vindhya plateau = southern UP (hard rock) |
+| 13 | Bundelkhand = SW UP (granite-gneiss; water scarce) |
+| 14 | Rohilkhand = Bareilly, Moradabad, Pilibhit, Rampur division |
+| 15 | Awadh = Lucknow, Faizabad, Sultanpur region |
+

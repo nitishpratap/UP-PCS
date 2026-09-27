@@ -303,6 +303,25 @@ D. Homi Bhabha
 
 ---
 
+
+### Other Papers — BPSC / MPPSC / RAS / UKPCS / UPSC / WBCS
+
+**Q2. UPSC (CSE) Prelims 2013**
+To obtain full benefits of demographic dividend, what should India do?
+A. Promoting skill development
+B. Introducing more social security schemes
+C. Reducing infant mortality rate
+D. Privatization of higher education
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Scheme–skilling link for miscellaneous Extra Drill.
+
+**Ans: A.** Promoting skill development.
+
+</details>
+
 ## Practice Zone
 
 1. The pair of fish (*Matsya*) incorporated into the official State Emblem of Uttar Pradesh is historically derived from the royal insignia of:
@@ -596,3 +615,154 @@ D. Homi Bhabha
 | Trap | Correct |
 |---|---|
 | Mixing Absolute vs % ranks | Match the stem metric first |
+
+
+---
+
+## Bilingual Terminology -- UP Schemes and Current Affairs
+
+| English | Hindi | Key Anchor |
+|---|---|---|
+| **Investor Summit** | निवेशक सम्मेलन | UP Invest Summit; 2018 (Lucknow), 2023 (Lucknow) |
+| **Uttar Pradesh Defence Corridor** | रक्षा औद्योगिक गलियारा | Lucknow-Agra and Jhansi-Aligarh; Rs 20,000 cr investment target |
+| **PM Gati Shakti** | पीएम गति शक्ति | National Master Plan for multi-modal connectivity |
+| **Smart City Mission** | स्मार्ट सिटी मिशन | UP cities included: Lucknow, Agra, Varanasi, Kanpur, Prayagraj, Bareilly, Aligarh |
+| **Pradhan Mantri SVANidhi** | PM SVANidhi | Micro-credit for street vendors |
+| **UP CM Grid Connected Rooftop Solar** | मुख्यमंत्री ग्रिड कनेक्टेड सोलर रूफटॉप योजना | Rooftop solar panels for households |
+| **Har Ghar Nal** | हर घर नल (जल जीवन मिशन) | Piped water to every rural household by 2024 |
+| **PMGSY** | प्रधानमंत्री ग्राम सड़क योजना | Rural road connectivity |
+| **Prayagraj Mahakumbh 2025** | प्रयागराज महाकुंभ 2025 | Mahakumbh Mela 2025; massive infrastructure investment |
+| **UP Film City** | यूपी फिल्म सिटी | Proposed in Noida (Sector 21); Asia's largest |
+| **Global Investor Summit (GIS) 2023** | ग्लोबल इन्वेस्टर्स समिट 2023 | Feb 2023, Lucknow; Rs 33.5 lakh crore MoU signed |
+| **Ayodhya Development** | अयोध्या विकास | Ram Mandir (Jan 2024 inauguration); airport, railway |
+| **Varanasi Development** | काशी विश्वनाथ कॉरिडोर | Kashi Vishwanath Corridor inaugurated Dec 2021 |
+| **UP Police** | उत्तर प्रदेश पुलिस | 75 districts; PAC (Provincial Armed Constabulary) |
+| **Pradhan Mantri Awas Yojana** | प्रधानमंत्री आवास योजना | Housing for All -- Urban + Rural arms |
+
+---
+
+## Extended Theory -- Major UP Government Initiatives
+
+### UP Defence Industrial Corridor
+
+```
+        UP DEFENCE INDUSTRIAL CORRIDOR
+        ─────────────────────────────────────────────
+        
+        Two Sub-Corridors:
+        ┌──────────────────────┬──────────────────────┐
+        │ LUCKNOW-AGRA         │ JHANSI-ALIGARH       │
+        │ Sub-Corridor         │ Sub-Corridor         │
+        │ (Lucknow, Unnao,     │ (Agra, Mathura,      │
+        │  Kanpur, Agra)       │  Aligarh, Jhansi)    │
+        └──────────────────────┴──────────────────────┘
+        
+        Target: Rs 20,000 crore investment
+        Companies: BEL, HAL, L&T, foreign OEMs
+        Products: Ammunition, Small arms, Defence electronics
+        Key node: Lucknow (UP DRDO / UP Defence Expo)
+```
+
+### Key UP Development Projects (2017-2024)
+
+| Project | Location | Status / Key Fact |
+|---|---|---|
+| **Kashi Vishwanath Corridor** | Varanasi | Inaugurated Dec 2021; 5 lakh sq ft new area |
+| **Ram Mandir** | Ayodhya | Inaugurated Jan 2024 by PM Modi |
+| **Maha Kumbh 2025** | Prayagraj | Largest human gathering; Rs 7,500 cr infra |
+| **Kushinagar Airport** | Kushinagar | International airport inaugurated Oct 2021 |
+| **Jewar Airport (Noida)** | Gautam Buddha Nagar | International airport; to be India's largest |
+| **Ganga Expressway** | Meerut-Prayagraj | 594 km; under construction |
+| **Aquino Defence Expo** | Lucknow | DefExpo held in Lucknow (2020, 2022) |
+| **Film City** | Noida (Sector 21) | Asia's largest proposed media city |
+
+---
+
+## UKPCS / BPSC / MPPSC Extra Drill -- UP Schemes
+
+**Q1. UKPCS (Pre) 2022**
+The 'Kashi Vishwanath Corridor' in Varanasi was inaugurated in which year?
+A. 2019
+B. 2020
+C. 2021
+D. 2022
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The **Kashi Vishwanath Corridor** was inaugurated by PM Narendra Modi on **13 December 2021**. It created a 5 lakh sq ft walkway connecting Kashi Vishwanath temple to the Ganges ghats.
+
+**Ans: C.** 2021.
+
+</details>
+
+**Q2. MPPSC (Pre) 2022**
+The 'UP Defence Industrial Corridor' has been set up along which two major route alignments?
+A. Lucknow-Agra and Jhansi-Aligarh
+B. Varanasi-Kanpur and Meerut-Agra
+C. Allahabad-Lucknow and Gorakhpur-Noida
+D. Mathura-Aligarh and Jhansi-Kanpur
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The UP Defence Corridor runs along two sub-corridors: **(1) Lucknow-Agra** (via Unnao, Kanpur) and **(2) Jhansi-Aligarh** (via Agra, Mathura). Target: Rs 20,000 crore investment by 2025.
+
+**Ans: A.** Lucknow-Agra and Jhansi-Aligarh.
+
+</details>
+
+**Q3. BPSC-type**
+Which city in Uttar Pradesh has been selected for the development of the Jewar International Airport (Noida International Airport)?
+A. Lucknow
+B. Gautam Buddha Nagar (Jewar)
+C. Ghaziabad
+D. Meerut
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** **Jewar Airport** (officially Noida International Airport) is being developed at Jewar in **Gautam Buddha Nagar** district. It is expected to be the largest airport in India by passenger capacity when complete.
+
+**Ans: B.** Gautam Buddha Nagar.
+
+</details>
+
+**Q4. UKPCS (Pre) 2021**
+'Global Investors Summit (GIS) 2023' held in Lucknow saw MoU investments totalling approximately:
+A. Rs 10 lakh crore
+B. Rs 20 lakh crore
+C. Rs 33.5 lakh crore
+D. Rs 50 lakh crore
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The UP Global Investors Summit (February 2023) held in Lucknow received MoU pledges worth **Rs 33.5 lakh crore** (approx USD 400 billion), the largest such summit in UP history.
+
+**Ans: C.** Rs 33.5 lakh crore.
+
+</details>
+
+---
+
+## One-Liner Revision -- UP Schemes and Current Affairs
+
+| # | Fast Fact |
+|---|---|
+| 1 | GIS 2023 MoU = **Rs 33.5 lakh crore** (Feb 2023, Lucknow) |
+| 2 | Kashi Vishwanath Corridor inaugurated = **13 Dec 2021** |
+| 3 | Ram Mandir Ayodhya inaugurated = **22 Jan 2024** |
+| 4 | Kushinagar Airport = International airport; Oct 2021 |
+| 5 | Jewar Airport = **Gautam Buddha Nagar**; India's largest (planned) |
+| 6 | UP Defence Corridor = **Lucknow-Agra** + **Jhansi-Aligarh** |
+| 7 | Ganga Expressway = **594 km** (Meerut-Prayagraj); longest in India |
+| 8 | UP Film City = proposed in **Noida Sector 21** |
+| 9 | Maha Kumbh 2025 = **Prayagraj** |
+| 10 | UP Smart Cities = Lucknow, Agra, Varanasi, Kanpur, Prayagraj, Bareilly, Aligarh |
+| 11 | DefExpo 2020, 2022 = held in **Lucknow** |
+| 12 | Purvanchal Expressway inauguration = **November 2021** |
+| 13 | Bundelkhand Expressway inaugurated = **July 2022** |
+| 14 | Mission Shakti (UP) = women safety and empowerment (2020) |
+| 15 | UP CM Abhyudaya Yojana = free coaching for **IAS, NEET, JEE** |
+

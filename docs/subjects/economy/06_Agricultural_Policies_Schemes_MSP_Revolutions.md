@@ -34,7 +34,7 @@ Structural agrarian data and land holdings sit in [Economy Topic 5](05_Agricultu
 
 ---
 
-## Consolidated — 72 Must-Score Facts
+## Consolidated — 50 Must-Score Facts
 
 1. The **Green Revolution** (from about **1966–69**) brought semi-dwarf High Yielding Variety (HYV) wheat developed by **Dr. Norman Borlaug** at CIMMYT, Mexico.
 2. In India the Green Revolution was pioneered by **Dr. M.S. Swaminathan** with Union Agriculture Minister **C. Subramaniam**.
@@ -86,31 +86,8 @@ Structural agrarian data and land holdings sit in [Economy Topic 5](05_Agricultu
 48. **Open Market Sale Scheme (OMSS)** lets FCI sell surplus wheat/rice by e-auction to cool open-market prices.
 49. Buffer stock norms fix minimum FCI inventories at the start of each quarter (**1 Jan, 1 Apr, 1 Jul, 1 Oct**).
 50. FCI mainly procures **wheat and rice**; pulses and oilseeds under Price Support Scheme are largely handled by **NAFED / NCCF**.
-51. **TPDS** began in **June 1997** to target subsidized grain to BPL and APL households.
-52. **Antyodaya Anna Yojana (AAY)** began in **December 2000** for the poorest BPL families at **35 kg per household per month**.
-53. The **National Food Security Act (NFSA)** was enacted on **10 September 2013** (deemed effective **5 July 2013**).
-54. NFSA covers up to **75% of the rural** and **50% of the urban** population (about **81.35 crore** people).
-55. Under NFSA, **Priority Households** get **5 kg per person per month**; **AAY** households get **35 kg per household per month**.
-56. NFSA maternity benefit is cash of **not less than ₹6,000** (delivered under PMMVY) plus free meals.
-57. For ration cards, the **eldest woman aged 18 or above** is the Head of the Household under NFSA.
-58. **PMGKAY** began as Covid relief in **March 2020**; from **January 2023** NFSA grain under PMGKAY is **100% free** through **December 2028**.
-59. **One Nation One Ration Card (ONORC)** enables nationwide portability of ration entitlement at any Fair Price Shop via biometric ration cards.
-60. **e-NAM** launched on **14 April 2016** as a pan-India electronic trading portal networking APMC mandis; **SFAC** is the lead implementing agency.
-61. The three farm laws of **September 2020** were **repealed in November 2021** after farmer protests seeking a legal MSP guarantee.
-62. **PM-KISAN** (from **1 December 2018**) pays **₹6,000 per year** in three instalments of **₹2,000** via DBT.
-63. From **June 2019**, PM-KISAN covers **all landholding farmer families** (subject to exclusions), not only holdings under 2 ha.
-64. **PMFBY** (Kharif **2016**) replaced **NAIS** and **MNAIS**; farmer premiums are **2% Kharif**, **1.5% Rabi**, and **5%** annual commercial/horticultural crops.
-65. From Kharif **2020**, PMFBY enrolment is **voluntary for all**, including loanee farmers.
-66. **Agriculture Infrastructure Fund (AIF)** is a **₹1 lakh crore** debt facility (**2020–2032**) with **3%** interest subvention for post-harvest infrastructure.
-67. **PMMSY** (September **2020**) has an outlay of about **₹20,050 crore** to drive the Blue Revolution in fisheries.
-68. **PMFME** supports micro food processing on an **ODOP** (One District One Product) model with credit-linked subsidy near **35%** of eligible project cost.
-69. The Central Sector scheme for **10,000 FPOs** supports up to about **₹18 lakh** per FPO (outlay about **₹6,865 crore**); implementers include **SFAC, NABARD, NCDC**.
-70. **PM-KUSUM** has three components: **A** grid solar on barren land (10,000 MW), **B** standalone solar pumps (20 lakh), **C** solarization of grid pumps (15 lakh).
-71. **PM-AASHA** (2018) has three arms: **PSS**, **PDPS**, and **PPSS** for oilseeds/pulses/copra price support beyond wheat–rice FCI procurement.
-72. **KCC** (1998, R.V. Gupta / NABARD) gives revolving crop credit; with prompt repayment the effective interest can fall to about **4%**; from **2018–19** KCC was extended to fisheries and animal husbandry.
 
 ---
-
 ## Confused Pairs
 
 | A | B | Correct distinction |
@@ -330,6 +307,19 @@ C₂          = A₂ + FL + owned-land rent + interest on fixed capital
 - Commercial banks dominate institutional agri credit flow; RRBs and cooperatives follow.
 
 ---
+
+
+## Teaching expansion — additional theory (beyond Consolidated spine)
+
+These points sit in teaching theory (not the Consolidated spine).
+
+- NFSA covers up to **75% of the rural** and **50% of the urban** population (about **81.35 crore** people).
+- NFSA maternity benefit is cash of **not less than ₹6,000** (delivered under PMMVY) plus free meals.
+- **One Nation One Ration Card (ONORC)** enables nationwide portability of ration entitlement at any Fair Price Shop via biometric ration cards.
+- The three farm laws of **September 2020** were **repealed in November 2021** after farmer protests seeking a legal MSP guarantee.
+- The Central Sector scheme for **10,000 FPOs** supports up to about **₹18 lakh** per FPO (outlay about **₹6,865 crore**); implementers include **SFAC, NABARD, NCDC**.
+- **PM-KUSUM** has three components: **A** grid solar on barren land (10,000 MW), **B** standalone solar pumps (20 lakh), **C** solarization of grid pumps (15 lakh).
+- **KCC** (1998, R.V. Gupta / NABARD) gives revolving crop credit; with prompt repayment the effective interest can fall to about **4%**; from **2018–19** KCC was extended to fisheries and animal husbandry.
 
 ## Complete PYQ Bank (UPPCS)
 

@@ -327,6 +327,96 @@ D. Migration alone explains poverty
 
 ---
 
+
+### Other Papers — BPSC / MPPSC / RAS / UKPCS / UPSC / WBCS
+
+**Q4. UPSC (CSE) Prelims 2011**
+India is regarded as a country with “Demographic Dividend”. This is due to:
+A. Its high population in the age group below 15 years
+B. Its high population in the age group of 15–64 years
+C. Its high population in the age group above 65 years
+D. Its high total population
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Dividend is age-structure, not raw headcount or child share.
+
+**Ans: B.** High share in the working-age group 15–64.
+
+</details>
+
+**Q5. UPSC (CSE) Prelims 2012**
+Consider stages of demographic transition associated with economic development:
+1. Low birth rate with low death rate
+2. High birth rate with high death rate
+3. High birth rate with low death rate
+Correct order is:
+A. 1 – 2 – 3
+B. 2 – 1 – 3
+C. 2 – 3 – 1
+D. 3 – 2 – 1
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Stage I both high → Stage II fertility high, mortality falls → Stage III both low.
+
+**Ans: C.** 2 → 3 → 1.
+
+</details>
+
+**Q6. UPSC (CSE) Prelims 2013**
+To obtain full benefits of demographic dividend, what should India do?
+A. Promoting skill development
+B. Introducing more social security schemes
+C. Reducing infant mortality rate
+D. Privatization of higher education
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Dividend materialises only if working-age cohorts are employable.
+
+**Ans: A.** Promoting skill development.
+
+</details>
+
+**Q7. WBCS (Pre)**
+What is Demographic Dividend?
+A. Increase in 0–5 year age group of population
+B. Increase in 6–15 year age group of population
+C. Increase in 16–64 year age group of population
+D. Increase in over-65 year age group of population
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same idea as UPSC 15–64; WBCS options use the 16–64 band.
+
+**Ans: C.** Increase in working-age (16–64) share.
+
+</details>
+
+**Q8. UPSC (CSE) Prelims 2009**
+Consider the following statements:
+1. Between Census 1951 and Census 2001, the density of the population of India has increased more than three times.
+2. Between Census 1951 and Census 2001 the annual growth rate (exponential) of the population of India has doubled.
+Which is/are correct?
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Density rose from ~117 to ~324 (not 3×); growth rate did not double.
+
+**Ans: D.** Neither 1 nor 2.
+
+</details>
+
 ## Practice Zone
 
 1. According to Malthus, unchecked population tends to double itself every:
@@ -648,3 +738,185 @@ D. Primitive stationary
 | Trap | Correct |
 |---|---|
 | Mixing Absolute vs % ranks | Match the stem metric first |
+
+
+---
+
+## Bilingual Terminology — Population Growth and Demographic Transition (जनसंख्या वृद्धि एवं जनांकिकीय संक्रमण)
+
+| English Term | हिंदी पारिभाषिक शब्द | Key Anchor |
+|---|---|---|
+| **Demographic Transition Theory** | जनांकिकीय संक्रमण सिद्धांत | W.S. Thompson (1929), Frank Notestein (1945) |
+| **Crude Birth Rate (CBR)** | अपरिष्कृत जन्म दर | Births per 1,000 mid-year population |
+| **Crude Death Rate (CDR)** | अपरिष्कृत मृत्यु दर | Deaths per 1,000 mid-year population |
+| **Total Fertility Rate (TFR)** | कुल प्रजनन दर | Avg children per woman over reproductive life |
+| **Infant Mortality Rate (IMR)** | शिशु मृत्यु दर | Deaths under 1 year per 1,000 live births |
+| **Maternal Mortality Rate (MMR)** | मातृ मृत्यु अनुपात | Maternal deaths per 1,00,000 live births |
+| **Natural Increase** | स्वाभाविक वृद्धि | CBR minus CDR |
+| **Replacement Level Fertility** | प्रतिस्थापन स्तरीय प्रजनन | TFR ~2.1 for population stabilization |
+| **Demographic Dividend** | जनांकिकीय लाभांश | Economic benefit of rising working-age proportion |
+| **Dependency Ratio** | निर्भरता अनुपात | (0–14 + 65+) / (15–64) × 100 |
+| **Population Momentum** | जनसंख्या गति / संवेग | Growth continues even after TFR falls to replacement level |
+| **Malthusian Theory** | माल्थस का जनसंख्या सिद्धांत | Population grows geometrically; food arithmetically |
+| **Optimum Population Theory** | इष्टतम जनसंख्या सिद्धांत | Population level maximizing per capita output |
+| **Life Expectancy at Birth** | जन्म के समय जीवन प्रत्याशा | Average years a newborn is expected to live |
+
+---
+
+## Extended Theory — Demographic Transition Stages (जनांकिकीय संक्रमण की अवस्थाएँ)
+
+```
+        DEMOGRAPHIC TRANSITION THEORY (DTT) — 4-STAGE MODEL
+        ─────────────────────────────────────────────────────
+        
+        STAGE 1 — PRE-INDUSTRIAL (पूर्व-औद्योगिक)
+        ┌──────────────────────────────────────────┐
+        │  High CBR (40+) + High CDR (40+)         │
+        │  → Very slow / near-zero natural growth  │
+        │  → Pre-modern agrarian societies         │
+        └──────────────────────────────────────────┘
+        
+        STAGE 2 — EARLY INDUSTRIAL (प्रारंभिक औद्योगिक)
+        ┌──────────────────────────────────────────┐
+        │  High CBR (40+) + Declining CDR (20–30) │
+        │  → RAPID population growth               │
+        │  → Improvements in sanitation, medicine  │
+        │  India's Phase: ~1921–1951               │
+        └──────────────────────────────────────────┘
+        
+        STAGE 3 — LATE INDUSTRIAL (परिपक्व औद्योगिक)
+        ┌──────────────────────────────────────────┐
+        │  Declining CBR (20–30) + Low CDR (10–15)│
+        │  → Slowing population growth             │
+        │  → Urbanisation, education, family plan  │
+        │  India's Phase: ~1981–present (partly)   │
+        └──────────────────────────────────────────┘
+        
+        STAGE 4 — POST-INDUSTRIAL (उत्तर-औद्योगिक)
+        ┌──────────────────────────────────────────┐
+        │  Low CBR (~15) + Low CDR (~10–12)        │
+        │  → Very slow / near-zero / negative growth│
+        │  → Most of Europe, Japan                 │
+        └──────────────────────────────────────────┘
+```
+
+### Population Theories — Comparative Overview
+
+| Theory / Theorist | Core Idea | Criticism | India Relevance |
+|---|---|---|---|
+| **Malthus (1798)** — *Essay on Population* | Population grows **geometrically** (2,4,8…); food grows **arithmetically** (2,4,6…). Positive checks (war, famine, disease) and preventive checks (celibacy, late marriage) regulate population. | Does not account for technological advances in food production; ignores demographic transition. | Malthusian fears were valid in pre-green-revolution India; less applicable post-1965. |
+| **Optimum Population Theory (Cannan, Carr-Saunders)** | An **optimum population** exists for each resource level, maximizing per-capita output. Under-population and over-population both reduce output. | "Optimum" is dynamic and impossible to measure precisely. | Concept used in National Population Policy formulation. |
+| **Demographic Transition Theory (Thompson/Notestein)** | Societies pass through **4 stages** of birth/death rate changes as they develop economically. | Cannot predict timing; assumes uniform development pathways across all societies. | India is transitioning from Stage 2 to Stage 3; some States (Kerala, TN) already at Stage 3. |
+| **Theory of Demographic Dividend** | When working-age (15–64) population rises relative to dependents, savings, investment, and growth can accelerate | Dividend requires investment in health, education and job creation to be realized | India's demographic dividend window: ~2020–2050. Requires skill development. |
+
+---
+
+## UKPCS and RAS Extra Drill — Population Growth
+
+**Q1. UKPCS (Pre) 2022**
+The concept of 'Demographic Dividend' refers to:
+A. The economic benefit from large youth population when properly educated and employed
+B. Government dividends distributed to senior citizens
+C. Tax incentives for large families
+D. The economic loss from high birth rates
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Demographic dividend is the economic growth potential resulting from a rising proportion of working-age (15–64 years) population relative to dependent population. India's window is approximately 2020–2050.
+
+**Ans: A.** Economic benefit from large working-age population.
+
+</details>
+
+**Q2. RAS (Pre) 2022**
+According to Malthus's theory of population, population tends to increase in what ratio?
+A. Arithmetic ratio
+B. Geometric ratio
+C. Harmonic ratio
+D. None of these
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Malthus (1798) argued population increases in **geometric ratio** (1, 2, 4, 8, 16…) while food supply increases in **arithmetic ratio** (1, 2, 3, 4, 5…).
+
+**Ans: B.** Geometric ratio.
+
+</details>
+
+**Q3. MPPSC (Pre) 2021**
+Which State of India was the first to achieve replacement-level fertility (TFR below 2.1)?
+A. Goa
+B. Kerala
+C. Tamil Nadu
+D. Andhra Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Kerala achieved replacement-level TFR the earliest among Indian States, driven by high female literacy, strong healthcare, and social development indicators.
+
+**Ans: B.** Kerala.
+
+</details>
+
+**Q4. UKPCS (Pre) 2021**
+Which year is termed the 'Year of the Great Divide' in India's demographic history?
+A. 1911
+B. 1921
+C. 1931
+D. 1951
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 1921 recorded India's only-ever **negative decadal population growth (-0.31%)**, due to the 1918 Spanish Influenza pandemic, plague, and consecutive famines. Every census thereafter showed positive growth.
+
+**Ans: B.** 1921.
+
+</details>
+
+**Q5. RAS (Pre) 2020**
+The Infant Mortality Rate (IMR) in India is officially calculated and published by which agency?
+A. NITI Aayog
+B. IIPS Mumbai (NFHS)
+C. Office of Registrar General (SRS)
+D. Ministry of Health and Family Welfare
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The **Sample Registration System (SRS)**, operated by the Office of the Registrar General of India (ORGI) under MHA, is the official source for annual IMR, CBR, CDR, and TFR estimates in India.
+
+**Ans: C.** Office of Registrar General (SRS).
+
+</details>
+
+---
+
+## One-Liner Revision — Population Growth and Demographic Transition
+
+| # | Fast Fact |
+|---|---|
+| 1 | DTT proposed by **W.S. Thompson (1929)** and elaborated by **Frank Notestein (1945)** |
+| 2 | Stage 2 of DTT: High CBR + **Declining CDR** = rapid growth |
+| 3 | India's peak decadal growth = **1961–71 (24.80%)** |
+| 4 | Year of Great Divide = **1921** (−0.31% growth due to Spanish flu 1918) |
+| 5 | India's CBR as per SRS 2020 ≈ **19.5** per 1,000 |
+| 6 | India's CDR as per SRS 2020 ≈ **6.0** per 1,000 |
+| 7 | Replacement level TFR = **2.1** children per woman |
+| 8 | India's TFR (SRS 2020) ≈ **2.0** (near replacement level) |
+| 9 | UP TFR ≈ **2.7** (above national average) |
+| 10 | Demographic dividend window for India ≈ **2020–2050** |
+| 11 | Dependency ratio India ~2011 = ~55 dependents per 100 workers |
+| 12 | Malthus: population = **geometric**; food = **arithmetic** |
+| 13 | Positive checks (Malthus) = **war, famine, disease** |
+| 14 | Preventive checks (Malthus) = **late marriage, celibacy** |
+| 15 | IMR India (SRS 2020) ≈ **28** per 1,000 live births |
+| 16 | MMR India ≈ **103** per 1,00,000 live births (SRS 2017–19) |
+| 17 | Life expectancy at birth India ≈ **69.7 years** (2015–19) |
+| 18 | National Population Policy, 2000 — target TFR 2.1 by 2010 (not achieved) |
+| 19 | Population Momentum = growth continues even after TFR falls to 2.1 |
+| 20 | India became world's most populous country ≈ **April 2023** (surpassing China) |
+

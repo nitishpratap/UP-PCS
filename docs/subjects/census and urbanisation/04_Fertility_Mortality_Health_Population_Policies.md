@@ -322,6 +322,76 @@ D. 100,000 live births
 
 ---
 
+
+### Other Papers — BPSC / MPPSC / RAS / UKPCS / UPSC / WBCS
+
+**Q4. UPSC (CSE) Prelims 2024**
+The total fertility rate in an economy is defined as:
+A. the number of children born per 1,000 people in the population in a year
+B. the number of children born to a couple in their lifetime in a given population
+C. the birth rate minus death rate
+D. the average number of live births a woman would have by the end of her child-bearing age
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** A is CBR; C is natural increase; B is vague — TFR is the period fertility measure.
+
+**Ans: D.** Synthetic cohort average live births per woman.
+
+</details>
+
+**Q5. UPSC (CSE) Prelims 2008**
+As per India’s National Population Policy, 2000, by which year is it our long-term objective to achieve population stabilisation?
+A. 2025
+B. 2035
+C. 2045
+D. 2055
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Distinct from UPPCS 2023 key of 2070 — know both paper keys.
+
+**Ans: C.** 2045.
+
+</details>
+
+**Q6. UPSC (CSE) Prelims 2009**
+Consider the following statements:
+1. Infant mortality rate takes into account the death of infants within a month after birth.
+2. Infant mortality rate is the number of infant deaths in a particular year per 100 live births during that year.
+Which is/are correct?
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** IMR = deaths under age one per 1,000 live births — not one month, not per 100.
+
+**Ans: D.** Neither 1 nor 2.
+
+</details>
+
+**Q7. WBCS (Pre)**
+A high birth rate is associated with:
+A. A female literacy rate
+B. A low female literacy rate
+C. A high male literacy rate
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Female education is the classic inverse correlate of fertility.
+
+**Ans: B.** A low female literacy rate.
+
+</details>
+
 ## Practice Zone
 
 1. General Fertility Rate (GFR) is defined as the number of live births in a year per:
@@ -643,3 +713,156 @@ D. Yellow Fever Vaccine (except for international travel)
 | Trap | Correct |
 |---|---|
 | Mixing Absolute vs % ranks | Match the stem metric first |
+
+
+---
+
+## Bilingual Terminology — Fertility, Mortality, Health and Population Policy (प्रजनन, मृत्यु दर, स्वास्थ्य एवं जनसंख्या नीति)
+
+| English Term | हिंदी पारिभाषिक शब्द | Key Anchor |
+|---|---|---|
+| **Family Planning** | परिवार नियोजन | India: world's first national Family Planning Programme (1952) |
+| **National Population Policy** | राष्ट्रीय जनसंख्या नीति | NPP 2000; target TFR 2.1 by 2010 |
+| **Total Fertility Rate (TFR)** | कुल प्रजनन दर (TFR) | India TFR ~2.0 (SRS 2020) |
+| **Contraceptive Prevalence Rate** | गर्भनिरोधक प्रसार दर | CPR — % women using contraception |
+| **Infant Mortality Rate (IMR)** | शिशु मृत्यु दर | Deaths under 1 yr per 1,000 live births; India ≈ 28 (SRS 2020) |
+| **Neonatal Mortality Rate** | नवजात मृत्यु दर | Deaths in first 28 days per 1,000 live births |
+| **Maternal Mortality Ratio (MMR)** | मातृ मृत्यु अनुपात | Deaths per 1,00,000 live births; India ≈ 103 (2017–19) |
+| **Under-Five Mortality Rate** | 5 वर्ष से कम मृत्यु दर (U5MR) | Deaths under 5 years per 1,000 live births |
+| **Stillbirth** | मृत शिशु जन्म | Baby born dead after 28 weeks of pregnancy |
+| **Sex Ratio at Birth (SRB)** | जन्म के समय लिंगानुपात | Reflects female foeticide; declining trend in India |
+| **Age-Specific Fertility Rate** | आयु-विशेष प्रजनन दर | Births per 1,000 women in specific age group |
+| **Life Expectancy** | जीवन प्रत्याशा | India ≈ 69.7 years (2015–19 SRS) |
+| **Mission Parivar Vikas** | Mission Parivar Vikas | MOHFW scheme for high-TFR districts |
+| **ASHA** | मान्यता प्राप्त सामाजिक स्वास्थ्य कार्यकर्ता | Accredited Social Health Activist under NHM |
+
+---
+
+## Extended Theory — Population Policy History of India (भारत की जनसंख्या नीति का इतिहास)
+
+```
+        INDIA'S POPULATION POLICY TIMELINE
+        ────────────────────────────────────────
+        
+        1952 ── First National Family Planning Programme
+                 (World's first national-level programme)
+                 Focus: Rhythm method, spacing
+        │
+        1976 ── Emergency-era coercive sterilisation
+                 (Massive public backlash)
+                 Indira Gandhi government
+        │
+        1977 ── Programme renamed "Family Welfare"
+                 (Voluntary approach restored after Emergency)
+        │
+        1994 ── ICPD Cairo (International Conference on
+                 Population and Development)
+                 India's commitment: reproductive rights,
+                 gender equity, voluntary family planning
+        │
+        2000 ── NATIONAL POPULATION POLICY, 2000
+                 Vision: Achieve TFR 2.1 by 2010
+                 Long-term goal: stable population by 2045
+                 Key features:
+                   • Girl education priority
+                   • Universal immunisation
+                   • 80% institutional deliveries
+                   • Making contraceptives freely available
+        │
+        2019 ── Mission Parivar Vikas
+                 Target 146 high-fertility districts (TFR > 3)
+                 across UP, Bihar, MP, Rajasthan, Chhattisgarh,
+                 Jharkhand, Assam
+        │
+        2023 ── India surpasses China as world's most
+                 populous country (~1.43 billion)
+```
+
+### NFHS-5 Key Findings (2019–21) vs NFHS-4 (2015–16)
+
+| Indicator | NFHS-4 (2015–16) | NFHS-5 (2019–21) | Trend |
+|---|---|---|---|
+| **TFR** | 2.2 | **2.0** | ↓ Below replacement level |
+| **IMR** | 40.7 | **35.2** | ↓ Improving |
+| **U5MR** | 49.7 | **41.9** | ↓ Improving |
+| **Stunted children (< 5 yrs)** | 38.4% | **35.5%** | ↓ Improving |
+| **Wasted children** | 21.0% | **19.3%** | ↓ Improving |
+| **Anaemia (women 15–49)** | 53.0% | **57.0%** | ↑ WORSENING |
+| **Institutional births** | 78.9% | **88.6%** | ↑ Improving |
+| **CPR (Modern methods)** | 47.8% | **56.5%** | ↑ Improving |
+| **Women with ≥ 10 yrs education** | 35.7% | **41.0%** | ↑ Improving |
+
+---
+
+## UKPCS/MPPSC Extra Drill — Fertility, Mortality, Health
+
+**Q1. UKPCS (Pre) 2022**
+India launched the world's first National Family Planning Programme in which year?
+A. 1947
+B. 1952
+C. 1956
+D. 1960
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** India launched the world's **first national Family Planning Programme in 1952**, making it a pioneer in state-sponsored voluntary family planning. Initially focused on the rhythm (calendar) method.
+
+**Ans: B.** 1952.
+
+</details>
+
+**Q2. MPPSC (Pre) 2020**
+The National Family Health Survey (NFHS) in India is implemented by which institution?
+A. AIIMS New Delhi
+B. National Statistical Office (NSO)
+C. International Institute for Population Sciences (IIPS), Mumbai
+D. NITI Aayog
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** NFHS is conducted by **IIPS Mumbai** (International Institute for Population Sciences) under the Ministry of Health and Family Welfare (MoHFW). NSO conducts PLFS; ORGI conducts SRS and Census.
+
+**Ans: C.** IIPS Mumbai.
+
+</details>
+
+**Q3. RAS (Pre) 2021**
+Which of the following correctly defines the Maternal Mortality Ratio (MMR)?
+A. Number of maternal deaths per 1,000 live births
+B. Number of maternal deaths per 1,00,000 live births
+C. Number of infant deaths per 1,000 live births
+D. Number of child deaths under 5 per 1,000 population
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** MMR = number of maternal deaths per **1,00,000 live births**. IMR = deaths under 1 year per 1,000 live births. U5MR = deaths under 5 years per 1,000 live births.
+
+**Ans: B.** Per 1,00,000 live births.
+
+</details>
+
+---
+
+## One-Liner Revision — Fertility, Mortality, Health
+
+| # | Fast Fact |
+|---|---|
+| 1 | India's National Family Planning Programme = world's **first (1952)** |
+| 2 | NPP 2000 target = TFR **2.1 by 2010** (missed); stable population by **2045** |
+| 3 | India TFR (NFHS-5 2019–21) = **2.0** (below replacement level) |
+| 4 | India IMR (SRS 2020) ≈ **28** per 1,000 live births |
+| 5 | India MMR (SRS 2017–19) ≈ **103** per 1,00,000 live births |
+| 6 | India Life Expectancy ≈ **69.7 years** (2015–19) |
+| 7 | NFHS implemented by **IIPS Mumbai** under MoHFW |
+| 8 | NFHS-5 (2019–21): anaemia in women worsened to **57.0%** |
+| 9 | NFHS-5: institutional births improved to **88.6%** |
+| 10 | ASHA = **Accredited Social Health Activist** (NHM) |
+| 11 | Mission Parivar Vikas = 146 high-TFR districts (UP, Bihar, MP, etc.) |
+| 12 | Neonatal mortality = deaths in **first 28 days** of life |
+| 13 | Highest IMR State (2020 SRS) ≈ **Madhya Pradesh** |
+| 14 | Lowest IMR State ≈ **Kerala** and **Goa** |
+| 15 | MMR target (SDG 3.1) = **< 70 per 1,00,000** live births by 2030 |
+

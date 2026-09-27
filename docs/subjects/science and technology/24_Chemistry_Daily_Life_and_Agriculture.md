@@ -1805,3 +1805,65 @@ nothing is added to the milk.
 | **Neem-Coated Urea Purpose** | Assuming neem is added as a green dye or pesticide. | Neem oil **retards nitrification**, slowing nitrogen release and preventing industrial diversion. |
 | **Imported Fertilizer** | Believing India is self-sufficient in all fertilizer nutrients. | India imports **$100\%$ of its Potash (MOP)** fertilizer requirements. |
 | **Soap in Hard Water** | Assuming detergents form scum like soap. | Soaps form insoluble scum in hard water; **synthetic detergents lather and clean effectively in hard water**. |
+
+
+---
+
+## Bilingual Terminology -- Chemistry in Daily Life and Agriculture
+
+| English Term | Hindi Term | Key Anchor |
+|---|---|---|
+| **Fertiliser** (उर्वरक) | रासायनिक उर्वरक | Chemical compound supplying nutrients to plants (N, P, K) |
+| **Urea** (यूरिया) | यूरिया | Most used nitrogenous fertiliser; CO(NH2)2; 46% N |
+| **DAP** (डीएपी) | डाईअमोनियम फॉस्फेट | Diammonium Phosphate; N + P fertiliser |
+| **Pesticide** (कीटनाशक) | कीटनाशी / कीटनाशक | Chemical that kills pests; insecticide, fungicide, herbicide |
+| **DDT** (डीडीटी) | डीडीटी | Dichlorodiphenyltrichloroethane; organochlorine insecticide; banned (persistent) |
+| **Insecticide** (कीटनाशी) | कीटनाशी | Kills insects; e.g., malathion, BHC, pyrethroids |
+| **Herbicide** (शाकनाशी) | शाकनाशी | Kills weeds; e.g., 2,4-D; Agent Orange (2,4,5-T + 2,4-D) |
+| **Fungicide** (कवकनाशी) | फफूंदनाशक | Kills fungi; e.g., Bordeaux mixture (CuSO4 + lime) |
+| **Preservative** (परिरक्षक) | परिरक्षक | Food additive preventing spoilage; salt, sugar, vinegar, sodium benzoate |
+| **Food Additive** (खाद्य योज्य) | खाद्य योजक | Substance added to food for colour, flavour, preservation, nutrition |
+| **Dye** (रंजक) | रंजक | Coloured substance; synthetic (aniline dyes) or natural (indigo, turmeric) |
+| **Soap** (साबुन) | साबुन | Sodium/potassium salt of fatty acids; biodegradable cleansing agent |
+| **Detergent** (अपमार्जक) | अपमार्जक | Synthetic cleaner; sulphonate/sulphate; works in hard water |
+| **Antiseptic** (रोगाणुनाशक) | रोगाणुनाशक | Kills microorganisms on living tissue; dettol, savlon, iodine |
+| **Disinfectant** (विसंक्रामक) | विसंक्रामक | Kills microorganisms on inanimate surfaces; bleach, phenol |
+| **Drug / Medicine** (औषधि) | औषधि / दवा | Chemical compound used to treat, cure, or prevent disease |
+
+---
+
+## One-Liner Revision -- Chemistry in Daily Life and Agriculture
+
+| # | Fast Fact |
+|---|---|
+| 1 | Urea (CO(NH2)2) = most widely used nitrogen fertiliser; 46% N; water-soluble |
+| 2 | DAP = Diammonium Phosphate; provides both N and P to crops |
+| 3 | NPK fertilisers = provide Nitrogen, Phosphorus, Potassium (potash) |
+| 4 | Bordeaux mixture = CuSO4 + Ca(OH)2; first effective fungicide; grape vines, potato blight |
+| 5 | DDT = banned insecticide (persistent organic pollutant); biomagnification in food chain |
+| 6 | Biomagnification = increasing concentration of persistent toxin up the food chain |
+| 7 | BHC/BHC (Benzene Hexachloride) = lindane; insecticide; restricted use |
+| 8 | Common antiseptics: Dettol (chloroxylenol), Savlon (chlorhexidine), Iodine (tincture) |
+| 9 | Common disinfectants: bleaching powder, phenol (carbolic acid), formaldehyde |
+| 10 | Paracetamol = analgesic (pain reliever) + antipyretic (fever reducer); most common OTC drug |
+| 11 | Aspirin (acetylsalicylic acid) = analgesic, antipyretic, anti-inflammatory; anti-platelet |
+| 12 | Antacids neutralise excess HCl: Mg(OH)2 (milk of magnesia), Al(OH)3, NaHCO3 |
+| 13 | Tranquilizers = CNS depressants; reduce anxiety; e.g., diazepam (Valium), barbiturates |
+| 14 | Antibiotics kill bacteria; NOT effective against viruses |
+| 15 | Antihistamines = counter histamine (allergic reaction); e.g., cetirizine, diphenhydramine |
+| 16 | Soap = biodegradable; forms scum in hard water (Ca/Mg stearate precipitate) |
+| 17 | Detergent = synthetic (non-soap); does NOT form scum in hard water |
+| 18 | Food preservatives: salt (NaCl), sugar, vinegar (acetic acid), sodium benzoate, SO2 |
+| 19 | Food colours: Tartrazine (E102, yellow), Carmoisine (red) are synthetic; saffron, turmeric are natural |
+| 20 | Baking powder = baking soda (NaHCO3) + cream of tartar (tartaric acid); releases CO2 |
+| 21 | Vinegar = 4-8% acetic acid (CH3COOH); food preservative and condiment |
+| 22 | Chlorination of water = Cl2 or bleaching powder kills pathogens; residual Cl = 0.2-0.5 ppm |
+| 23 | Fluoridation of water = NaF added; 0.7-1.2 ppm F- prevents tooth decay |
+| 24 | Iodised salt = NaCl + KIO3 (potassium iodate); prevents iodine deficiency/goitre |
+| 25 | Organic farming = no synthetic pesticides/fertilisers; uses compost, biopesticides |
+| 26 | Green Chemistry = design of chemical products that minimise environmental hazards |
+| 27 | Food packaging: BPA (Bisphenol A) in polycarbonate plastics = endocrine disruptor |
+| 28 | MSG (Monosodium glutamate) = flavour enhancer; "Umami" taste |
+| 29 | Aspartame = artificial sweetener; ~200x sweeter than sugar; 0 calories |
+| 30 | Saccharin = oldest artificial sweetener (1879); 300-500x sweeter; no calories |
+

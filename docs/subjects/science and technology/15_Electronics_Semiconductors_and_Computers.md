@@ -8821,3 +8821,65 @@ NOTE: The output was truncated because it was too long. Use a more targeted quer
    - While over 50 countries (including India, France, and China) signed the Statement on Inclusive and Sustainable AI, **both the USA and the UK refused to sign**.
 5. **The "Data Link vs Network Layer Addressing" Trap:**
    - **MAC addresses ($48\text{ bits}$)** live strictly at **Layer 2 (Data Link Layer)**, while **IP addresses ($32\text{-bit}$ or $128\text{-bit}$)** live at **Layer 3 (Network Layer)**.
+
+
+---
+
+## Bilingual Terminology -- Electronics, Semiconductors and Computers
+
+| English Term | Hindi Term | Key Anchor |
+|---|---|---|
+| **Semiconductor** (अर्धचालक) | अर्धचालक | Conductivity between conductor and insulator; Si, Ge |
+| **Diode** (डायोड) | डायोड | Two-terminal device; allows current in one direction only (rectification) |
+| **Transistor** (ट्रांजिस्टर) | ट्रांजिस्टर | Three-terminal device; amplification and switching |
+| **Integrated Circuit (IC)** (एकीकृत परिपथ) | एकीकृत परिपथ | Many transistors on a single chip; "chip" |
+| **Binary** (द्विआधारी) | द्विआधारी | Base-2 number system; 0 and 1 only; basis of computers |
+| **Bit** (बिट) | बिट | Smallest unit of data; 0 or 1 |
+| **Byte** (बाइट) | बाइट | 8 bits; basic addressable unit |
+| **CPU** (केन्द्रीय प्रसंस्करण इकाई) | केंद्रीय प्रक्रमण एकक | Central Processing Unit; "brain" of computer |
+| **RAM** (रैम) | यादृच्छिक अभिगम स्मृति | Random Access Memory; volatile; temporary storage |
+| **ROM** (रोम) | केवल पठन स्मृति | Read Only Memory; non-volatile; permanent storage |
+| **Internet** (इंटरनेट) | इंटरनेट | Global network of computers; WWW is a service on Internet |
+| **Artificial Intelligence** (कृत्रिम बुद्धिमत्ता) | कृत्रिम बुद्धिमत्ता | Simulation of human intelligence in machines |
+| **Machine Learning** (मशीन लर्निंग) | मशीन लर्निंग | AI where computers learn from data without explicit programming |
+| **5G** (5जी) | पांचवीं पीढ़ी का नेटवर्क | 5th generation mobile network; speed up to 10-20 Gbps |
+| **Nanotechnology** (नैनो प्रौद्योगिकी) | नैनो प्रौद्योगिकी | Technology at 1-100 nm scale; 1 nm = 10^-9 m |
+| **Quantum Computing** (क्वांटम संगणना) | क्वांटम संगणना | Uses qubits (superposition/entanglement); exponentially faster for certain tasks |
+
+---
+
+## One-Liner Revision -- Electronics, Semiconductors and Computers
+
+| # | Fast Fact |
+|---|---|
+| 1 | Silicon (Si) = most widely used semiconductor; Germanium (Ge) = used in early devices |
+| 2 | N-type semiconductor = doped with phosphorus/arsenic (extra electrons) |
+| 3 | P-type semiconductor = doped with boron/indium (holes = positive charge carriers) |
+| 4 | Diode = PN junction; allows current in forward bias only; used in rectifiers, LEDs |
+| 5 | LED = Light Emitting Diode; converts electrical energy to light; more efficient than bulb |
+| 6 | Solar cell = photovoltaic diode; converts light to electricity |
+| 7 | Transistor invented = **1947** (Bell Labs; Bardeen, Brattain, Shockley); Nobel 1956 |
+| 8 | Integrated Circuit (IC) invented = **1958** (Jack Kilby at TI; Nobel 2000) |
+| 9 | IC generations: SSI, MSI, LSI, VLSI, ULSI (Ultra-large scale integration) |
+| 10 | Moore's Law: transistor count on chip doubles every ~2 years (Gordon Moore, 1965) |
+| 11 | 1 byte = 8 bits; 1 KB = 1024 bytes; 1 MB = 1024 KB; 1 GB = 1024 MB |
+| 12 | Data sizes: bit < nibble(4 bits) < byte(8) < KB < MB < GB < TB < PB < EB |
+| 13 | Binary: 0,1; Octal: 0-7 (base 8); Decimal: 0-9 (base 10); Hexadecimal: 0-9,A-F (base 16) |
+| 14 | CPU = ALU (Arithmetic Logic Unit) + CU (Control Unit) + Registers |
+| 15 | RAM = volatile (lost on power off); ROM = non-volatile (permanent) |
+| 16 | Cache memory = fastest memory; SRAM; between CPU and RAM |
+| 17 | First computer (ENIAC) = 1945; used vacuum tubes; weighed 30 tons |
+| 18 | 1st generation = vacuum tubes; 2nd = transistors; 3rd = ICs; 4th = microprocessors; 5th = AI |
+| 19 | Microprocessor invented = **1971** (Intel 4004; Federico Faggin) |
+| 20 | Internet began as **ARPANET** (1969, USA; Defense department) |
+| 21 | WWW (World Wide Web) invented = **Tim Berners-Lee (1989)**; CERN, Switzerland |
+| 22 | .com domain = commercial; .org = organization; .gov = government; .edu = education |
+| 23 | GPS = Global Positioning System; 24+ satellites; US DoD; free civilian use |
+| 24 | Nanotechnology = 1-100 nm scale; applications: drug delivery, sensors, materials |
+| 25 | Quantum bits (qubits) = can be 0, 1, or both simultaneously (superposition) |
+| 26 | 5G frequency bands = sub-6 GHz + mmWave (above 24 GHz) |
+| 27 | Optical fibre internet = uses light pulses through silica glass; faster than copper |
+| 28 | Blockchain = distributed ledger; each block cryptographically linked; basis of cryptocurrency |
+| 29 | Deep Blue (IBM, 1997) = first chess computer to defeat world champion (Kasparov) |
+| 30 | ChatGPT (OpenAI, 2022) = large language model AI; generative AI milestone |
+

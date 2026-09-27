@@ -25,107 +25,35 @@ Plant Taxonomy & Hierarchy (Kingdom to Species, A.P. de Candolle *Vasculares/Cel
 
 ---
 
-## Consolidated — 65 Must-Score Facts
+## Consolidated — 25 Must-Score Facts
 
 1. **Plant Taxonomy Hierarchy**: Categorized from higher to lower: **Kingdom $\rightarrow$ Phylum (Division) $\rightarrow$ Class $\rightarrow$ Order $\rightarrow$ Family $\rightarrow$ Genus $\rightarrow$ Species**. **Species** is the basic taxonomic unit consisting of individuals with fundamental morphological similarities capable of interbreeding.
 2. **Augustin Pyramus de Candolle (A.P. de Candolle)**: Swiss botanist who **first coined the term "Taxonomy" (1813)** and first used internal **vascular tissue characteristics** to divide plants into *Vasculares* (with vascular bundles) and *Cellulares* (without vascular bundles). (Linnaeus is the "Father of Modern Taxonomy").
 3. **Plant Tissues**: **Apical Meristem** (vertical height / primary growth); **Intercalary Meristem** (internode bases, re-growth of grazed grasses); **Lateral Meristem / Cambium** (secondary growth, increases **girth / diameter** of stems).
 4. **Simple Permanent Tissues**: **Parenchyma** (living packing tissue, modified into **Aerenchyma** with large air chambers in aquatic hydrophytes for buoyancy); **Collenchyma** (living with pectin corner thickenings, provides mechanical flexibility); **Sclerenchyma** (dead, heavily lignified; commercial jute/hemp fibres and gritty sclereids/stone cells of guava and pear).
 5. **Complex Vascular Tissues**:
-   - **Xylem**: Unidirectional upward conduction of water and minerals; Tracheids (dead), Vessels (dead), Xylem Fibres (dead), and **Xylem Parenchyma (the ONLY living element in xylem)**.
-   - **Phloem**: Multidirectional (bidirectional) translocation of sucrose; Sieve Tube elements (living, enucleated at maturity), Companion Cells (living), Phloem Parenchyma (living), and **Phloem Fibres / Bast Fibres (the ONLY dead element in phloem)**.
 6. **Ascent of Sap**: Driven by **Transpiration Pull** based on the **Cohesion-Tension Theory** of **Dixon and Joly (1894)**. Positive **Root Pressure** causes **Guttation** through marginal leaf **Hydathodes** in moist early mornings.
 7. **Modified Underground Stems (Food Storage)**:
-   - **Rhizome**: Thick, horizontal underground stem bearing distinct nodes, internodes, and scaly leaves: **Ginger (*Zingiber*)**, **Turmeric (*Curcuma longa*)**, Lotus.
-   - **Tuber**: Swollen terminal portion of underground stem branch bearing buds ("eyes"): **Potato (*Solanum tuberosum*)**.
-   - **Bulb**: Highly condensed disc-like stem surrounded by fleshy edible scale leaves: **Onion (*Allium cepa*)**, **Garlic (*Allium sativum*)**, Tulip, Narcissus.
-   - **Corm**: Solid, swollen, vertically growing underground stem: **Jimikand / Suran / Elephant Foot Yam (*Amorphophallus*)**, Colocasia (Arbi), Crocus.
 8. **Modified Storage Roots (NOT Stems)**:
-   - **Sweet Potato (*Ipomoea batatas*, Family Convolvulaceae)**: Swollen adventitious storage root cultivated by vegetative propagation; developed from radicle.
-   - Taproot modifications: **Turnip (*Shaljam*)**, **Carrot**, **Radish**, **Beetroot (*Chukandar*)**.
 9. **Aerial Stem Storage**: In **Sugarcane (*Saccharum officinarum*, Family Gramineae/Poaceae)**, sucrose is stored predominantly in the **aerial stalk / stem** (propagated by stem cuttings with nodes).
 10. **The Pea Family (Fabaceae / Leguminosae)**: Dicotyledonous plants with root nodules harbouring nitrogen-fixing bacteria: **Pea (*Pisum sativum*, herb with leaf tendrils)**, **Groundnut / Peanut (*Arachis hypogaea*)**, **Horse-gram / Kulthi (*Macrotyloma uniflorum*)**, **Soybean (*Glycine max*)**.
 11. **Spices & Floral Parts**:
-    - **Clove (*Laung*)**: Closed, dried **flower buds** of *Syzygium aromaticum* (Family Myrtaceae), native to Indonesia; rich in the analgesic antiseptic essential oil **Eugenol**.
-    - **Saffron (*Kesar*)**: Dried crimson **styles and stigmas** (gynoecium / seed-forming female parts) of *Crocus sativus* (Family Iridaceae); contains **safranal, crocin, and picrocrocin**; world's most expensive spice.
-    - **Okra / Ladies' Finger (*Abelmoschus esculentus*, Malvaceae)**: Edible part is the entire green seed pod known as a **Capsule** with pentagonal cross-section.
-    - **Turmeric (*Curcuma longa*)**: Edible part is the underground **rhizome**; contains **Curcumin** (powerful anti-inflammatory and antioxidant polyphenol).
 12. **True Fruits vs False Fruits**:
-    - **True Fruits**: Formed solely from the ripened, fertilized ovary of a single flower: **Mango, Grapes, Date, Plum, Watermelon, Citrus**.
-    - **False Fruits (Pseudocarps)**: Formed from the ripened ovary along with other floral parts (thalamus, receptacle, calyx, or inflorescence):
-      - From **Thalamus / Receptacle (Pome)**: **Apple (*Malus*), Pear (*Pyrus*)**, Gourd, Cucumber.
-      - From **Peduncle (Fleshy stalk)**: **Cashew nut**.
-      - From **Entire Inflorescence (Composite Fruit / Sorosis)**: **Mulberry, Pineapple, Jackfruit, Ficus**.
 13. **Fruit Classifications & Edible Anatomy**:
-    - **Drupe (Stone Fruit)**: One-seeded fruit with thin skin (epicarp), fleshy pulp (**Mesocarp**), and stony inner pit (endocarp): **Mango** (we eat fleshy mesocarp), Peach, Plum, Coconut (fibrous mesocarp, edible endosperm).
-    - **Lychee (*Litchi chinensis*, Sapindaceae)**: A drupe; edible part is the sweet, translucent **Fleshy Aril** (arillode outgrowth).
-    - **Nut**: Indehiscent fruit with a woody pericarp enclosing a single seed: **Cashew nut**, ***Trapa* (Singhara)** (edible part is the **seed**).
-    - **Pepo**: Fleshy berry with a hard rind and many seeds: **Melon, Watermelon, Squash, Cucumber**.
-    - **Sorosis**: Multiple fleshy fruit derived from catkin/spike inflorescence: **Mulberry (*Morus*)**, Pineapple, Jackfruit.
 14. **Plant Pigments Master Fact**:
-    - **Red colour of Tomato**: Due to the carotenoid **Lycopene** ($C_{40}H_{56}$).
-    - **Red colour of Apple skin**: Due to water-soluble flavonoid pigment **Anthocyanin**.
-    - **Yellow colour of Papaya**: Due to xanthophyll pigment **Caricaxanthin**; rich in provitamin A carotene; contains proteolytic enzyme **Papain** (digests proteins).
-    - **Red-Orange colour of Carrot**: Due to **$\beta$-Carotene**.
-    - **Red-Purple colour of Beetroot**: Due to betalain pigment **Betanin**.
-    - **Yellow colour of Turmeric**: Due to **Curcumin** and xanthophylls.
 15. **Plant Odour & Pungency Chemistry**:
-    - **Garlic Distinctive Odour**: Exposure to air hydrolyses alliin to **Allicin**; cut garlic and onion release **Allyl methyl sulphide** (absorbed into bloodstream and exhaled via lungs and skin pores) and **Cysteine sulfoxide**, causing persistent breath odour (halitosis).
-    - **Tearing Induced by Peeling Onions**: Crushing onion cells releases 1-propenyl **Sulfenic acid**, converted by lachrymatory factor synthase into the volatile gas **(Z)-propanethial S-oxide**, which stimulates corneal nerve endings and activates lachrymal tear glands.
-    - **Chilli Pungency & Burning Heat**: Due to the alkaloid **Capsaicin** ($C_{18}H_{27}NO_3$); heat concentration measured in **Scoville Heat Units (SHU)**.
-    - **Fruit Sweetness**: Conferred primarily by the natural monosaccharide **Fructose (Fruit Sugar)**, the sweetest naturally occurring sugar.
 16. **Commercial Fibres & Economic Products**:
-    - **Bast / Stem Fibres**: Obtained from phloem sclerenchyma fibres of plant stems via microbial moisture decomposition (**Retting**): **Sunn hemp (*Crotalaria juncea*)**, **Hemp (*Cannabis sativa*)**, **Jute (*Corchorus*)**.
-    - **Seed Fibres**: **Cotton (*Gossypium*)** is obtained from the fruit (cotton bolls) as epidermal seed hairs (lint and fuzz); composed of pure **Cellulose** with zero protein/nitrogen.
-    - **Cork**: Harvested from the outer protective bark of the **Cork Oak (***Quercus suber***)**, native to the Mediterranean region.
-    - **Triticale**: The **world's first man-made cereal crop**, developed in late 19th-century Europe by crossing Wheat (***Triticum***) with Rye (***Secale***); self-pollinating hybrid cereal.
 17. **Ecological Plant Adaptations**:
-    - **Xerophytes**: Desert plants adapted to arid regions with extreme water deficits; adaptations include **sunken stomata**, thick waxy cuticles, reduced transpiration, leaf spines (Cacti, *Opuntia*, *Aloe*, *Calotropis*), and fleshy water-storing tissues (**Succulents**).
-    - **Phreatophytes**: Deep-rooted desert plants whose taproots extend **20 to 30 metres (up to 100 ft)** down to the phreatic zone (groundwater table) to maintain continuous hydration independent of topsoil moisture.
-    - **Hydrophytes**: Aquatic plants adapted to water immersion; characterized by well-developed **Aerenchyma** tissues providing buoyancy and gas diffusion; roots often reduced or absent.
-    - **Halophytes**: Salt-tolerant plants thriving in saline soils, salt marshes, and coastal mangrove swamps (e.g. *Rhizophora*); feature **pneumatophores** (breathing roots) with lenticels.
-    - **Lithophytes (Epipetric Plants)**: Specialized plants that grow directly on bare rocks without soil, obtaining moisture and nutrients from rain, wind-blown dust, and decaying organic matter (**Mosses and Lichens**).
-    - **Epiphytes**: Plants that grow perched on host trees strictly for **physical/mechanical support** (e.g. Orchids), obtaining moisture and nutrients from ambient humid air, rain, and accumulated debris via specialized aerial roots lined with spongy **Velamen tissue**; do **not** take food from host.
 18. **Temperature Adaptations in Ecology**:
-    - **Eurythermal**: Organisms capable of tolerating and thriving across a **wide range of ambient temperatures**.
-    - **Stenothermal**: Organisms restricted to survival within a **narrow temperature range**.
-    - **Microthermal**: Organisms adapted to cold temperate climates.
-    - **Hekistothermal**: Organisms adapted to extreme polar and high alpine cold.
 19. **Forensic Utility of Diatoms**: **Diatoms** are unicellular photosynthetic algae with indestructible silica shells (*frustules*); inhalation of water during drowning draws diatoms into the bloodstream and internal organs (bone marrow, liver); **presence of diatoms in closed organs is a definitive forensic test confirming death by drowning**.
 20. **Insectivorous & Carnivorous Plants**: Grow in acidic, waterlogged bogs **severely deficient in nitrates/nitrogen**; photosynthesise carbohydrates normally, but trap and digest small insects using proteases to fulfill nitrogen demands:
-    - ***Nepenthes khasiana***: India's only endemic pitcher plant, found in the Garo, Khasi, and Jaintia hills of **Meghalaya**; leaf lamina is modified into the pitfall pitcher.
-    - ***Drosera*** (Sundew), ***Utricularia*** (Bladderwort with suction traps), ***Dionaea*** (Venus Flytrap).
-    - ***Rafflesia arnoldii***: Total root parasite producing the **largest flower in the world** ($~1\text{ metre}$ diameter, up to 11 kg).
 21. **Photosynthesis Physiology**:
-    - Photolysis of water ($2H_2O \rightarrow 4H^+ + 4e^- + O_2$) occurs in thylakoid grana during light reaction; proves atmospheric $O_2$ originates from **Water**, not $CO_2$ (Ruben & Kamen $^{18}O$ experiment).
-    - Central metal in chlorophyll is **Magnesium ($Mg^{2+}$)**.
-    - **RuBisCO** is the primary $CO_2$-fixing enzyme in $C_3$ stroma (most abundant protein on Earth).
-    - **$C_4$ Plants (Maize, Sugarcane, Sorghum)** possess **Kranz anatomy** and PEP carboxylase, concentrating $CO_2$ and completely suppressing wasteful **Photorespiration**.
-    - **CAM Plants (Cacti, Pineapple)** have **Scotoactive stomata** (open strictly at night, closed by day) to preserve water.
 22. **Plant Respiration & Cold Storage**: Cold storage extends fruit and vegetable shelf life because **low temperatures slow down the rate of cellular respiration and enzymatic activity** (UPPCS 2021).
 23. **Phytohormones Master List**:
-    - **Auxin (IAA)**: Apical dominance, phototropism; synthetic **2,4-D** is a selective weedicide for broadleaf dicots.
-    - **Gibberellin ($GA_3$)**: Internodal elongation, **bolting** in cabbage/beet, **breaking seed and bud dormancy**; grape bunch elongation.
-    - **Cytokinin**: Promotes **cell division**, works with auxin in organogenesis, **delays leaf senescence** (Richmond-Lang effect); breaks dormancy alongside gibberellin.
-    - **Ethylene ($C_2H_4$)**: Gaseous natural **fruit ripening hormone**; commercial aqueous form is **Ethephon**.
-    - **Abscisic Acid (ABA)**: **Stress hormone**; closes stomata during drought; accelerates abscission; maintains dormancy.
 24. **Biological Nitrogen Fixation (BNF) & Biofertilisers**:
-    - Symbiotic: ***Rhizobium*** in pulse root nodules (with leghaemoglobin); ***Frankia*** in *Casuarina* and *Alnus*; ***Azolla*** aquatic fern harbouring ***Anabaena azollae*** in rice paddies; ***Gluconacetobacter diazotrophicus*** (Acetobacter) in sugarcane crops.
-    - Free-living: *Azotobacter* (aerobic), *Clostridium* (anaerobic), *Nostoc* and *Anabaena* (cyanobacteria).
 25. **Crop Diseases & Nutritional Disorders**:
-    - **Late Blight of Potato**: *Phytophthora infestans* (caused Irish Famine 1845).
-    - **Red Rot of Sugarcane**: *Colletotrichum falcatum*.
-    - **Tikka Disease of Groundnut**: *Cercospora personata*.
-    - **Rust of Wheat**: *Puccinia graminis*.
-    - **Citrus Canker**: *Xanthomonas axonopodis pv. citri*.
-    - **Yellow Vein Mosaic of Okra**: Geminivirus transmitted by **Whitefly (*Bemisia tabaci*)**.
-    - **Khaira Disease of Rice**: Mineral deficiency of **Zinc ($Zn$)**.
-    - **Whiptail of Cauliflower**: Mineral deficiency of **Molybdenum ($Mo$)**.
-    - **Black Heart of Potato**: **Oxygen deficiency ($O_2$ starvation)** in poorly ventilated storage.
-    - **Internal Necrosis of Amla / Browning of Cauliflower**: **Boron ($B$)** deficiency.
 
 ---
-
 ## Confused Pairs
 
 | Concept A | Concept B | Core Distinguishing Fact | Hindi Key |
@@ -6161,3 +6089,68 @@ D. Phosphorus for nucleic acids
 8. **Hydroponics**: Soil-less mineral solution culture — soil microbes are not required by definition.
 9. **Chlorophyll centre**: Magnesium is central in chlorophyll — not iron (iron is for haemoglobin analogy trap).
 10. **Photoperiodism**: Flowering depends on day/night length — short-day and long-day plants differ.
+
+
+---
+
+## Bilingual Terminology -- Plants, Agriculture and Diseases
+
+| English Term | Hindi Term | Key Anchor |
+|---|---|---|
+| **Photosynthesis** (प्रकाश संश्लेषण) | प्रकाश-संश्लेषण | Light energy -> chemical energy; CO2 + H2O -> glucose + O2 |
+| **Chlorophyll** (पर्णहरिम) | क्लोरोफिल | Green pigment in plants; absorbs red and blue light |
+| **Transpiration** (वाष्पोत्सर्जन) | वाष्पोत्सर्जन | Evaporation of water from stomata; cooling + mineral transport |
+| **Stomata** (रन्ध्र) | रन्ध्र | Pores on leaf surface; controlled by guard cells; CO2 in, O2 out |
+| **Root** (जड़) | जड़ / मूल | Anchors plant; absorbs water and minerals; some store food |
+| **Xylem** (जाइलम / दारु) | जाइलम | Conducts water and minerals from roots to leaves (upward) |
+| **Phloem** (फ्लोएम / पोषवाह) | फ्लोएम | Conducts food (sucrose) from leaves to all parts (downward + upward) |
+| **Pollination** (परागण) | परागण | Transfer of pollen from anther to stigma |
+| **Fertilisation in Plants** (पुष्प निषेचन) | निषेचन | Fusion of pollen nucleus with egg nucleus in ovule |
+| **Seed** (बीज) | बीज | Ripened ovule; contains embryo + endosperm |
+| **Fruit** (फल) | फल | Ripened ovary; protects seeds; aids dispersal |
+| **Nitrogen Fixation** (नाइट्रोजन स्थिरीकरण) | नाइट्रोजन स्थिरीकरण | Atmospheric N2 converted to NH3/NH4+; by bacteria/lightning |
+| **Legume** (फलीदार पौधा) | फली वाला पौधा | Plant with root nodules containing Rhizobium bacteria (N-fixation) |
+| **Rhizobium** (राइजोबियम) | राइजोबियम | Nitrogen-fixing bacteria in root nodules of legumes |
+| **Mycorrhiza** (माइकोराइज़ा) | कवक-मूल | Symbiotic fungi-root association; improves phosphate absorption |
+| **Plant Hormone** (पादप हार्मोन) | पादप हार्मोन | Chemical regulator in plants; auxin, gibberellin, cytokinin, etc. |
+| **Auxin** (ऑक्सिन) | ऑक्सिन | Plant hormone; promotes cell elongation; phototropism |
+| **HYV Seeds** (उच्च उपज वाली किस्में) | उच्च उपज किस्में | High Yielding Variety seeds; basis of Green Revolution |
+| **Green Revolution** (हरित क्रांति) | हरित क्रान्ति | 1960s; HYV + fertiliser + irrigation; M.S. Swaminathan (India) |
+
+---
+
+## One-Liner Revision -- Plants, Agriculture and Diseases
+
+| # | Fast Fact |
+|---|---|
+| 1 | Photosynthesis equation: 6CO2 + 6H2O + light -> C6H12O6 + 6O2 |
+| 2 | Chlorophyll absorbs **red** and **blue-violet** light; reflects **green** (hence green colour) |
+| 3 | Light reactions occur in **thylakoid** membranes (grana of chloroplast) |
+| 4 | Dark reactions (Calvin cycle) occur in **stroma** of chloroplast |
+| 5 | Transpiration = evaporation of water through stomata; creates suction for water uptake |
+| 6 | Xylem = water + minerals transport (root to leaves); dead cells; one-way |
+| 7 | Phloem = food (sucrose) transport; living cells; bidirectional |
+| 8 | Rhizobium = nitrogen-fixing bacteria in legume root nodules; mutualistic |
+| 9 | Azotobacter = free-living nitrogen-fixing bacteria in soil |
+| 10 | Cyanobacteria (blue-green algae) = nitrogen fixers; e.g., Anabaena in rice fields |
+| 11 | Auxin = phototropism (bending towards light); produced at shoot tip |
+| 12 | Gibberellin = promotes stem elongation; used to break seed dormancy |
+| 13 | Ethylene = fruit ripening gas; only gaseous plant hormone |
+| 14 | Abscisic acid = stress hormone ("stress hormone of plant"); causes wilting + dormancy |
+| 15 | Green Revolution: M.S. Swaminathan (India) + Norman Borlaug (Mexico; Nobel 1970) |
+| 16 | HYV wheat = Sonalika, Kalyan Sona; HYV rice = IR8 ("Miracle Rice") |
+| 17 | Vermiculture = use of earthworms to decompose organic waste (vermicompost) |
+| 18 | Algal bloom = excessive algae growth due to eutrophication (excess nitrate/phosphate) |
+| 19 | Eutrophication = excess nutrients in water -> algae bloom -> O2 depletion -> fish death |
+| 20 | Most common plant disease agent = **Fungi** (then bacteria, then viruses) |
+| 21 | Rust of wheat = *Puccinia graminis* (fungus) |
+| 22 | Blast of rice = *Pyricularia oryzae* (fungus) -- most destructive rice disease |
+| 23 | Smut of wheat = *Ustilago tritici* (fungus) |
+| 24 | Citrus canker = *Xanthomonas citri* (bacteria) |
+| 25 | Tobacco Mosaic Virus (TMV) = first virus discovered (Dmitri Ivanovsky, 1892) |
+| 26 | Potato virus = causes "late blight of potato" (*Phytophthora infestans*) = Irish Famine |
+| 27 | Hardwood (dicot wood) = Teak, Sal, Rosewood; Softwood (conifer) = Pine, Spruce, Deodar |
+| 28 | Bryophytes = "amphibians of plant kingdom" (e.g., moss, liverwort); no vascular tissue |
+| 29 | Gymnosperms = naked seeds (no fruit); e.g., Pine, Cycas, Ginkgo |
+| 30 | Angiosperms = enclosed seeds in fruit; most advanced; ~2.5 lakh species |
+

@@ -3783,3 +3783,65 @@ group.
 | **Kevlar Composition** | Confusing Kevlar with polyester or aliphatic nylon. | Kevlar is an **aromatic polyamide (aramid)** with rigid benzene rings in its backbone. |
 | **Diamond vs. Graphite Stability** | Assuming diamond is thermodynamically more stable because it is harder. | **Graphite is thermodynamically most stable** at STP ($\Delta_f H^\circ = 0$). Diamond is metastable ($\Delta_f H^\circ = +1.9\text{ kJ/mol}$). |
 | **Acetylene Welding Temperature** | Underestimating the oxy-acetylene flame temperature. | Oxy-acetylene burns at **$\approx 3200^\circ\text{C}$**, capable of melting and welding steel structures. |
+
+
+---
+
+## Bilingual Terminology -- Carbon, Organic Chemistry and Polymers
+
+| English Term | Hindi Term | Key Anchor |
+|---|---|---|
+| **Organic Chemistry** (कार्बनिक रसायन) | कार्बनिक रसायन | Study of carbon compounds; ~10 million known compounds |
+| **Carbon** (कार्बन) | कार्बन | 6th element; tetravalent; forms 4 bonds; backbone of life |
+| **Hydrocarbon** (हाइड्रोकार्बन) | हाइड्रोकार्बन | Compound of only H and C; alkanes, alkenes, alkynes |
+| **Alkane** (एल्केन) | एल्केन | CnH2n+2; saturated; single bonds; e.g., methane (CH4), ethane, propane |
+| **Alkene** (एल्कीन) | एल्कीन | CnH2n; one double bond; unsaturated; e.g., ethylene (CH2=CH2) |
+| **Alkyne** (एल्काइन) | एल्काइन | CnH2n-2; one triple bond; e.g., acetylene (CH = CH); used in welding |
+| **Benzene** (बेंजीन) | बेंजीन | C6H6; aromatic ring; discovered by Faraday (1825); structure by Kekule (1865) |
+| **Polymer** (बहुलक) | बहुलक | Large molecule made of repeating monomer units |
+| **Monomer** (एकलक) | एकलक | Small repeating unit that combines to form polymer |
+| **Polymerisation** (बहुलकीकरण) | बहुलकीकरण | Chemical process of joining monomers to form polymer |
+| **Plastic** (प्लास्टिक) | प्लास्टिक | Synthetic polymer; thermoplastic (remeltable) or thermoset (permanent) |
+| **Rubber** (रबड़) | रबड़ | Natural = latex of Hevea brasiliensis; polymer of isoprene |
+| **Vulcanisation** (वल्केनीकरण) | वल्केनीकरण | Heating rubber with sulphur; improves strength and elasticity |
+| **Cellulose** (सेलुलोज) | सेलुलोज | Natural polymer of glucose; plant cell wall; most abundant organic compound |
+| **Nylon** (नायलॉन) | नायलॉन | First synthetic fibre; polyamide; Wallace Carothers (Du Pont, 1935) |
+| **Isomers** (समावयवी) | समावयवी | Same molecular formula, different structural formula; e.g., butane and isobutane |
+
+---
+
+## One-Liner Revision -- Carbon, Organic Chemistry and Polymers
+
+| # | Fast Fact |
+|---|---|
+| 1 | Carbon = tetravalent; can form 4 bonds; catenation (chain-forming) ability |
+| 2 | Allotropes of carbon: Diamond (hardest), Graphite (soft, conductor), Fullerene (C60) |
+| 3 | Diamond = 3D tetrahedral; hardest; electrical insulator |
+| 4 | Graphite = layered hexagonal; soft; good electrical conductor; used as lubricant and in pencils |
+| 5 | Fullerene (Buckminsterfullerene C60) = 60 carbon atoms in soccer-ball shape; discovered 1985 |
+| 6 | Methane (CH4) = simplest alkane; natural gas; greenhouse gas |
+| 7 | Ethylene (C2H4) = simplest alkene; plant hormone (fruit ripening); makes polyethylene |
+| 8 | Acetylene (C2H2) = simplest alkyne; used in oxyacetylene welding; very hot flame |
+| 9 | Benzene (C6H6) = simplest aromatic compound; carcinogen; aromatic ring |
+| 10 | Nylon = first synthetic fibre (1935, Du Pont); polyamide; used in parachutes, stockings |
+| 11 | Polyester (PET) = from ethylene glycol + terephthalic acid; soft-drink bottles, clothing |
+| 12 | Bakelite = first synthetic plastic (1907, Leo Baekeland); thermosetting; phenol + formaldehyde |
+| 13 | PVC (polyvinyl chloride) = monomer = vinyl chloride; pipes, wires, credit cards |
+| 14 | Polythene (polyethylene) = monomer = ethylene; plastic bags, bottles |
+| 15 | Teflon (PTFE) = polytetrafluoroethylene; non-stick cookware; very low friction |
+| 16 | Natural rubber = polymer of isoprene (C5H8)n; from Hevea brasiliensis |
+| 17 | Vulcanisation = rubber + sulphur at 140 degC; makes rubber stronger and elastic (Goodyear, 1839) |
+| 18 | Cellulose = polymer of beta-glucose; plant cell wall; not digestible by humans |
+| 19 | Starch = polymer of alpha-glucose; energy storage in plants; digested by amylase |
+| 20 | Proteins = polymer of amino acids; peptide bonds; 20 standard amino acids |
+| 21 | DNA = polymer of nucleotides (deoxyribose + phosphate + base) |
+| 22 | Soap = sodium/potassium salt of fatty acids; amphipathic molecule (hydrophilic + hydrophobic end) |
+| 23 | Biodegradable plastics = break down by microorganisms; e.g., PLA (polylactic acid) |
+| 24 | Micro-plastics = plastic particles < 5 mm; accumulate in food chain; major environmental threat |
+| 25 | Rayon = regenerated cellulose fibre; "artificial silk"; from wood pulp |
+| 26 | LPG = mainly propane (C3H8) + butane (C4H10); ethyl mercaptan added as odorant |
+| 27 | CNG = compressed natural gas (mainly methane CH4); cleaner than diesel |
+| 28 | Ethanol (C2H5OH) = ethyl alcohol; from fermentation; used as fuel additive (E10 = 10% ethanol) |
+| 29 | Methanol (CH3OH) = wood alcohol; poisonous; causes blindness and death |
+| 30 | Chloroform (CHCl3) = trichloromethane; used as anaesthetic historically; now solvent |
+

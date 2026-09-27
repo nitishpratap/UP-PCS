@@ -426,6 +426,25 @@ D. Akbar’s birth
 
 ---
 
+
+### Other Papers — BPSC / MPPSC / RAS / UKPCS / UPSC / WBCS
+
+**Q2. UK Upper PCS / multi-PSC**
+Which of the following cities is NOT located on the banks of the Ganga?
+A. Kanpur
+B. Varanasi
+C. Agra
+D. Prayagraj
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Culture corridor cities — Agra is Yamuna, not Ganga.
+
+**Ans: C.** Agra (Yamuna).
+
+</details>
+
 ## Practice Zone
 
 1. The capital of the ancient Panchala Mahajanapada was divided into Northern and Southern capitals. Which of the following was the Southern capital?
@@ -719,3 +738,171 @@ D. Akbar’s birth
 | Trap | Correct |
 |---|---|
 | Mixing Absolute vs % ranks | Match the stem metric first |
+
+
+---
+
+## Bilingual Terminology -- UP History and Culture
+
+| English | Hindi | Key Anchor |
+|---|---|---|
+| **Mahajanapada** | महाजनपद | 16 great kingdoms of 6th century BCE; 8 in UP |
+| **Dharmachakrapravartana** | धर्मचक्रप्रवर्तन | First Sermon of Buddha at Sarnath |
+| **Mahaparinirvana** | महापरिनिर्वाण | Buddha's death / salvation at Kushinagar |
+| **Panchayatana Temple** | पंचायतन मंदिर | Temple with 4 subsidiary shrines at corners + main shrine |
+| **Shikhara** | शिखara | Curvilinear tower over main sanctum of North Indian temples |
+| **Bhul-bhulaiya** | भूल-भुलैया | Labyrinth in Bara Imambara, Lucknow |
+| **Pietra Dura** | पीत्रा दुरा | Inlay work using semi-precious stones (pioneered at Itimad-ud-Daulah) |
+| **Eka Movement** | एका आंदोलन | Peasant unity movement (1921-22) under Madari Pasi |
+| **Chauri Chaura** | चौरी चौरा | Feb 1922 incident (Gorakhpur) that led to NCM withdrawal |
+| **Kakori Train Action** | काकोरी ट्रेन एक्शन | 9 Aug 1925 near Lucknow; HRA (HSRA) revolutionaries |
+| **Parallel Government** | समानांतर सरकार | Ballia (Aug 1942) -- Chittu Pandey ("Sher-e-Ballia") |
+| **Buland Darwaza** | बुलंद दरवाजा | 54m high gate at Fatehpur Sikri; built by Akbar (Gujarat victory) |
+| **Rumi Darwaza** | रूमी दरवाजा | 60ft gateway in Lucknow; Nawab Asaf-ud-Daula (1784) |
+| **Kathak** | कथक | Classical dance form of UP; Lucknow & Jaipur Gharanas |
+| **Thumri** | ठुमरी | Semi-classical vocal form; Banaras and Lucknow Gharanas |
+
+---
+
+## Extended Theory -- Cultural Zones of Uttar Pradesh
+
+```
+        CULTURAL REGIONS OF UTTAR PRADESH
+        ------------------------------------
+        
+        BRAJ (ब्रज)
+        Mathura, Vrindavan, Govardhan, Agra
+        ├─ Language: Brajbhasha (Krishna literature)
+        ├─ Folk: Rasiya, Charkula, Raas Leela
+        └─ Literature: Surdas (Sur Sagar), Nandadas
+        
+        AWADH (अवध)
+        Lucknow, Faizabad, Sultaapur, Bahraich
+        ├─ Language: Awadhi (Tulsidas's Ramcharitmanas)
+        ├─ Culture: Nawabi tehzeeb, Kathak (Lucknow Gharana)
+        └─ Literature: Malik Muhammad Jayasi (Padmavat)
+        
+        PURVANCHAL (पूर्वांचल)
+        Varanasi, Ghazipur, Jaunpur, Azamgarh
+        ├─ Language: Bhojpuri / Bagheli
+        ├─ Folk: Birha, Kajri, Chaiti
+        └─ Heritage: Kashi Vishwanath; Banaras Gharana Thumri
+        
+        BUNDELKHAND (बुंदेलखंड)
+        Jhansi, Lalitpur, Mahoba, Chitrakoot, Banda
+        ├─ Language: Bundelkhandi (Banaffari)
+        ├─ Folk: Alha, Rai Dance, Karma
+        └─ Heritage: Chandela forts, Khajuraho temples (MP border)
+        
+        ROHILKHAND (रुहेलखंड)
+        Bareilly, Moradabad, Pilibhit, Rampur
+        ├─ Language: Khari Boli (Hindustani)
+        └─ Heritage: Rampur Raza Library (manuscripts)
+```
+
+### Major UP Heritage UNESCO Status
+
+| Heritage / Art | UNESCO Status | Year | Category |
+|---|---|---|---|
+| **Taj Mahal (Agra)** | World Heritage Site | 1983 | Cultural |
+| **Agra Fort** | World Heritage Site | 1983 | Cultural |
+| **Fatehpur Sikri** | World Heritage Site | 1986 | Cultural |
+| **Kumbh Mela (Prayagraj)** | Intangible Cultural Heritage | 2017 | ICH |
+| **Ramnagar Ramlila** | Intangible Cultural Heritage | 2008 | ICH |
+| **Sangeet Natak Akademi Arts** | National recognition | -- | -- |
+
+---
+
+## MPPSC / RAS / BPSC Extra Drill -- UP History
+
+**Q1. MPPSC (Pre) 2021**
+The famous 'Prayag Prashasti' (Allahabad Pillar Inscription) was composed by which court poet of Samudragupta?
+A. Banabhatta
+B. Harishena
+C. Kalhana
+D. Vishakhadatta
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** **Harishena** was Samudragupta's chief minister and court poet who composed the **Prayag Prashasti** (also called Allahabad Pillar Inscription) in ornate Sanskrit, listing Samudragupta's conquests.
+
+**Ans: B.** Harishena.
+
+</details>
+
+**Q2. BPSC-type**
+The historic Lucknow Pact (1916) between the Indian National Congress and the Muslim League was signed during which Congress session?
+A. Surat Session (1907)
+B. Lucknow Session (1916)
+C. Calcutta Session (1906)
+D. Nagpur Session (1920)
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The **Lucknow Session (1916)** of INC, presided by A.C. Mazumdar, finalized the Congress-League pact that called for increased Indian self-government and Muslim representation. It also reunited Moderates and Extremists.
+
+**Ans: B.** Lucknow Session (1916).
+
+</details>
+
+**Q3. RAS (Pre) 2020**
+'Taj Mahal' at Agra was inscribed as a UNESCO World Heritage Site in which year?
+A. 1978
+B. 1983
+C. 1986
+D. 1993
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The **Taj Mahal** (along with Agra Fort) was inscribed as a UNESCO World Heritage Site in **1983**. Fatehpur Sikri was inscribed in **1986**.
+
+**Ans: B.** 1983.
+
+</details>
+
+**Q4. MPPSC (Pre) 2022**
+Chandrashekhar Azad attained martyrdom at Alfred Park (Prayagraj) on which date?
+A. 23 March 1931
+B. 27 February 1931
+C. 9 August 1925
+D. 13 April 1919
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Chandrashekhar Azad was cornered by British police at Alfred Park (now Azad Park), Prayagraj on **27 February 1931** and shot himself rather than surrender. (23 March 1931 = Bhagat Singh, Sukhdev, Rajguru hanged at Lahore.)
+
+**Ans: B.** 27 February 1931.
+
+</details>
+
+---
+
+## One-Liner Revision -- UP History and Culture
+
+| # | Fast Fact |
+|---|---|
+| 1 | 8 of 16 Mahajanapadas located in UP |
+| 2 | Buddha's First Sermon = **Dharmachakrapravartana** at **Sarnath** |
+| 3 | Buddha's death = **Kushinagar (483 BCE)** |
+| 4 | Prayag Prashasti composer = **Harishena** (Samudragupta's court poet) |
+| 5 | Taj Mahal architect = **Ustad Ahmad Lahori** |
+| 6 | Taj Mahal UNESCO = **1983**; Fatehpur Sikri = **1986** |
+| 7 | Kumbh Mela UNESCO ICH = **2017** |
+| 8 | Ramnagar Ramlila UNESCO ICH = **2008** |
+| 9 | Meerut 1857 uprising = **10 May 1857** |
+| 10 | Begum Hazrat Mahal crowned **Birjis Qadr** as Nawab of Lucknow |
+| 11 | Kakori Train Action = **9 August 1925** |
+| 12 | Ram Prasad Bismil hanged = **Gorakhpur Jail** |
+| 13 | Ashfaqulla Khan hanged = **Faizabad Jail** |
+| 14 | Chandrashekhar Azad martyrdom = **Alfred Park, Prayagraj, 27 Feb 1931** |
+| 15 | Chauri Chaura = **4 Feb 1922** (NCM withdrawn 12 Feb) |
+| 16 | Eka Movement (1921-22) = **Madari Pasi** (Hardoi, Bahraich) |
+| 17 | First Parallel Government (1942) = **Chittu Pandey**, Ballia |
+| 18 | Kathak = UP classical dance; Lucknow and Jaipur Gharanas |
+| 19 | Pandit Birju Maharaj = Lucknow **Kalka-Bindadin Gharana** |
+| 20 | Girija Devi = "Queen of Thumri" -- **Banaras Gharana** |
+

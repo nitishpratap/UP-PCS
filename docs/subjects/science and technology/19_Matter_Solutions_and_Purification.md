@@ -1911,3 +1911,65 @@ solution and aluminium metal
 | **Colligative Comparison** | Comparing colligative effects based on mass instead of particle count. | Colligative properties depend strictly on the **number of dissolved particles** ($i \times m$). $0.1\text{ m } AlCl_3$ ($i=4$) produces twice the effect of $0.1\text{ m } NaCl$ ($i=2$). |
 | **Reverse Osmosis Flow** | Assuming water flows from dilute to concentrated in RO. | Under applied pressure $P > \Pi$, solvent flows **in reverse**: from concentrated solution across the membrane into pure water. |
 | **Hardy-Schulze Valence** | Thinking higher-mass ions coagulate better regardless of charge. | Coagulation power depends on **ionic charge (valence)**, not atomic weight ($Al^{3+} > Mg^{2+} > Na^+$ for negative sols). |
+
+
+---
+
+## Bilingual Terminology -- Matter, Solutions and Purification
+
+| English Term | Hindi Term | Key Anchor |
+|---|---|---|
+| **Matter** (पदार्थ) | पदार्थ | Anything that has mass and occupies space; solid, liquid, gas, plasma |
+| **Solid** (ठोस) | ठोस | Fixed shape and volume; strong intermolecular forces |
+| **Liquid** (तरल) | तरल / द्रव | Fixed volume but takes container's shape; moderate intermolecular forces |
+| **Gas** (गैस) | गैस / वायु | No fixed shape or volume; weak intermolecular forces |
+| **Plasma** (प्लाज्मा) | प्लाज्मा | 4th state; ionized gas; found in stars, lightning, neon signs |
+| **Mixture** (मिश्रण) | मिश्रण | Two or more substances mixed; no new substance formed |
+| **Solution** (घोल / विलयन) | विलयन | Homogeneous mixture; solute dissolved in solvent |
+| **Solute** (विलेय) | विलेय | Substance that dissolves in solvent |
+| **Solvent** (विलायक) | विलायक | Substance that dissolves the solute; water = "universal solvent" |
+| **Colloid** (कोलाइड) | कोलाइड | Heterogeneous mix; particle size 1-1000 nm; e.g., milk, fog |
+| **Suspension** (निलम्बन) | निलम्बन | Heterogeneous; particles > 1000 nm; settle on standing; e.g., muddy water |
+| **Tyndall Effect** (टिंडल प्रभाव) | टिंडल प्रभाव | Scattering of light by colloidal particles; sky in morning, beam in dusty room |
+| **Filtration** (निस्यंदन) | निस्यंदन | Separates insoluble particles from liquid using filter paper |
+| **Distillation** (आसवन) | आसवन | Separation by vaporisation and condensation; purifies liquids |
+| **Chromatography** (वर्णलेखन) | वर्णलेखन | Separation based on different rates of movement through a medium |
+| **Crystallisation** (क्रिस्टलीकरण) | क्रिस्टलीकरण | Purification by forming pure crystals from solution; for salt, sugar, alum |
+
+---
+
+## One-Liner Revision -- Matter, Solutions and Purification
+
+| # | Fast Fact |
+|---|---|
+| 1 | States of matter: Solid, Liquid, Gas, Plasma (4th state in stars/lightning) |
+| 2 | Sublimation = solid directly to gas (dry ice/CO2, iodine, naphthalene, camphor) |
+| 3 | Deposition = gas directly to solid (frost formation) |
+| 4 | Water: boiling point = 100 degC; freezing = 0 degC; maximum density at **4 degC** |
+| 5 | Universal solvent = **Water** (H2O) |
+| 6 | Solution components: solute (minor, dissolved) + solvent (major, dissolving) |
+| 7 | Mixture types: homogeneous (uniform) = solution; heterogeneous (non-uniform) = suspension |
+| 8 | Colloid particle size = 1-1000 nm; shows Tyndall effect; e.g., milk, fog, smoke |
+| 9 | Tyndall effect = scattering of light by colloidal particles (explains why beam visible in dusty room) |
+| 10 | Suspension = particles > 1000 nm; settles on standing; filtered by filter paper |
+| 11 | Distillation = separates liquids with different boiling points |
+| 12 | Fractional distillation = separates crude oil into petrol, diesel, kerosene fractions |
+| 13 | Chromatography = separates pigments, amino acids (paper, column, gas, HPLC) |
+| 14 | Centrifugation = separates components by density using centrifugal force; cream from milk |
+| 15 | Crystallisation = purification method; produces pure crystals; for alum, salt |
+| 16 | Miscible liquids = dissolve in each other in all proportions; e.g., alcohol + water |
+| 17 | Immiscible liquids = do not mix; separated by separating funnel; e.g., oil + water |
+| 18 | Henry's Law: solubility of gas in liquid increases with pressure (soda carbonation) |
+| 19 | Molarity (M) = moles of solute per litre of solution |
+| 20 | Molality (m) = moles of solute per kg of solvent |
+| 21 | Saturated solution = maximum solute dissolved at given temp; undissolved solute remains |
+| 22 | Supersaturated = more solute than normally possible; unstable; seeding causes crystallisation |
+| 23 | Hard water = contains Ca2+ and Mg2+ salts; does not form lather easily |
+| 24 | Temporary hardness = Ca/Mg bicarbonates; removed by boiling or lime |
+| 25 | Permanent hardness = Ca/Mg sulphates/chlorides; removed by washing soda or ion exchange |
+| 26 | Alloy = mixture of metals (or metal + non-metal); e.g., brass = Cu+Zn, steel = Fe+C |
+| 27 | Amalgam = alloy with mercury; dental fillings (Ag-Sn-Hg amalgam) |
+| 28 | Electrolysis = chemical decomposition using electricity; used to refine metals, electroplate |
+| 29 | Osmosis = water moves from low to high solute concentration through semipermeable membrane |
+| 30 | Reverse osmosis (RO) = applied pressure forces water against osmosis; water purification |
+

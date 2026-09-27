@@ -36,7 +36,7 @@ MSP / revolutions / NFSA scheme depth → [Topic 6](06_Agricultural_Policies_Sch
 
 ---
 
-## Consolidated — 72 Must-Score Facts
+## Consolidated — 50 Must-Score Facts
 
 1. Agriculture and allied sectors contribute approximately **17%–18% of India's Gross Value Added (GVA)** at current prices, but engage **~45%–47% of the nation's total workforce**.
 2. According to the **Agricultural Census of India** (conducted quinquennially since 1970–71), agricultural holdings are classified into 5 categories: **Marginal (< 1.00 ha)**, **Small (1.00–2.00 ha)**, **Semi-Medium (2.00–4.00 ha)**, **Medium (4.00–10.00 ha)**, and **Large (≥ 10.00 ha)**.
@@ -89,45 +89,7 @@ MSP / revolutions / NFSA scheme depth → [Topic 6](06_Agricultural_Policies_Sch
 49. In the **WTO Agreement on Agriculture (AoA)**, domestic agricultural subsidies are categorized into three color-coded boxes: **Green Box** (non-trade distorting, allowed without limit, e.g. R&D, pest control, environment), **Blue Box** (direct payments under production-limiting programs, allowed), and **Amber Box** (trade-distorting market price support and input subsidies, subject to reduction commitments).
 50. Under WTO Amber Box rules, developing countries like India are entitled to a **de-minimis limit of 10%** of the total value of agricultural production; the **Peace Clause** agreed at the **Bali Ministerial Conference (2013)** protects India's food procurement programs under NFSA against legal challenges by developed nations even if the 10% ceiling is breached.
 
-51. Net Sown Area of India is about **140 million hectares**; Gross Cropped Area is about **195–200 million hectares**.
-52. Cropping intensity ≈ **GCA/NSA × 100** — national teaching near **~140%**; Punjab is among the highest.
-53. Alluvial soil is India's most widespread soil type (~**43%**); black **regur** is the classic **cotton** soil of the Deccan.
-54. Laterite soils suit **tea, coffee, rubber, cashew** more than foodgrain belts.
-55. India is the world's **largest groundwater user** (~25% of global extraction); tubewells dominate net irrigated area (~**62–64%**).
-56. Canals are about **23–25%** of net irrigated area; tanks about **3–4%** (Tamil Nadu / Andhra lead tank irrigation).
-57. PMKSY motto pair is **Har Khet Ko Pani** and **Per Drop More Crop** (micro-irrigation).
-58. Aus, Aman and Boro are **three seasonal rice** crops in West Bengal / Assam / Odisha belts.
-59. Sugarcane is a long-duration crop spanning seasons; cotton is primarily Kharif.
-60. Foundation seed comes from breeder seed and carries a **white** tag in seed-class teaching.
-61. Gorwala All-India Rural Credit Survey (**1951/54**) recommended creating **SBI** for rural banking thrust.
-62. **Prathama Bank** (Moradabad, UP, **2 Oct 1975**) was India's first Regional Rural Bank.
-63. Short-term cooperative credit ladder: **PACS** (village) → **DCCB** (district) → **StCB** (state).
-64. First Constitutional Amendment **1951** inserted **Article 31B** and the **Ninth Schedule** to protect land-reform laws.
-65. **Operation Barga (1978)** recorded sharecroppers in **West Bengal**.
-66. UP Consolidation of Holdings Act **1953** made Chakbandi compulsory in the State.
-67. Green Revolution HYVP launch teaching parks in the **Plan Holiday** window (**1966–69**), not Second Plan.
-68. Norman Borlaug's semi-dwarf wheat work was at **CIMMYT, Mexico**.
-69. Foodgrain production teaching peaks near **330 MT** class records in recent Survey desks (edition-bound).
-70. Horticulture output often **exceeds** foodgrain tonnage in recent Survey snapshots (edition-bound).
-71. Topic border: MSP / FCI / NFSA / colour revolutions deepen in **Topic 6**.
-72. Match **producer vs productivity** leaders (e.g. UP wheat output vs Punjab wheat yield) before picking keys.
-
-
-```
-                    Indian Agricultural Economy — Master Structural Framework
-                                                │
-         ┌──────────────────────────────────────┼──────────────────────────────────────┐
-         ▼                                      ▼                                      ▼
-  [Agrarian Structure]                   [Inputs & Systems]                    [Markets & Credit]
-  • 86.2% Small/Marginal Farmers         • NPK Balanced: 4:2:1                 • PSL: 18% of ANBC to Agri
-  • Avg Holding: 1.08 ha                 • Urea: 100% Neem Coated              • Comm Banks (~78%), RRBs (~12%)
-  • 15 Agro-Climatic Zones               • NBS: P&K Decontrolled (2010)        • NABARD (1982, Sivaraman Comm.)
-  • Cropping: Kharif / Rabi / Zaid       • Irrigation: Tube-wells (64%),       • KCC (1998, R.V. Gupta Comm.)
-  • Disguised Unemployment               Canals (24%), Tanks (4%)              • e-NAM (2016, SFAC nodal)
-```
-
 ---
-
 ## Confused Pairs
 
 | Pair (A vs B) | Correct Feature / Institution | Trap to avoid | Hindi keyword |
@@ -584,6 +546,21 @@ D. Information and Communication Technology
 </details>
 
 ---
+
+
+## Teaching expansion — additional theory (beyond Consolidated spine)
+
+These points sit in teaching theory (not the Consolidated spine).
+
+- Net Sown Area of India is about **140 million hectares**; Gross Cropped Area is about **195–200 million hectares**.
+- Cropping intensity ≈ **GCA/NSA × 100** — national teaching near **~140%**; Punjab is among the highest.
+- Canals are about **23–25%** of net irrigated area; tanks about **3–4%** (Tamil Nadu / Andhra lead tank irrigation).
+- Gorwala All-India Rural Credit Survey (**1951/54**) recommended creating **SBI** for rural banking thrust.
+- **Prathama Bank** (Moradabad, UP, **2 Oct 1975**) was India's first Regional Rural Bank.
+- **Operation Barga (1978)** recorded sharecroppers in **West Bengal**.
+- Norman Borlaug's semi-dwarf wheat work was at **CIMMYT, Mexico**.
+- Horticulture output often **exceeds** foodgrain tonnage in recent Survey snapshots (edition-bound).
+- Match **producer vs productivity** leaders (e.g. UP wheat output vs Punjab wheat yield) before picking keys.
 
 ## Complete PYQ Bank (UPPCS)
 

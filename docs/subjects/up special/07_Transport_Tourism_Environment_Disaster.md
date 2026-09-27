@@ -325,6 +325,25 @@ D. Agra to Lucknow only
 
 ---
 
+
+### Other Papers — BPSC / MPPSC / RAS / UKPCS / UPSC / WBCS
+
+**Q3. 67th BPSC (Pre) 2022**
+Which river is known as the ‘Sorrow of Bihar’?
+A. Ganga
+B. Kosi
+C. Son
+D. Gandak
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Flood disaster geography shared with eastern UP plain.
+
+**Ans: B.** Kosi.
+
+</details>
+
 ## Practice Zone
 
 1. In which year was the 'Ranipur Tiger Reserve' in Chitrakoot district notified as Uttar Pradesh's 4th Tiger Reserve?
@@ -618,3 +637,144 @@ D. Agra to Lucknow only
 | Trap | Correct |
 |---|---|
 | Mixing Absolute vs % ranks | Match the stem metric first |
+
+
+---
+
+## Bilingual Terminology -- UP Transport, Tourism, Environment
+
+| English | Hindi | Key Anchor |
+|---|---|---|
+| **Expressway** | एक्सप्रेसवे | High-speed limited-access highway |
+| **Purvanchal Expressway** | पूर्वांचल एक्सप्रेसवे | 341 km; Lucknow to Ghazipur (longest expressway in UP) |
+| **Agra-Lucknow Expressway** | आगरा-लखनऊ एक्सप्रेसवे | 302 km 6-lane (world's widest access-controlled expressway in 2016) |
+| **Yamuna Expressway** | यमुना एक्सप्रेसवे | 165 km; Delhi-Agra |
+| **Bundelkhand Expressway** | बुंदेलखंड एक्सप्रेसवे | 296 km; Chitrakoot to Etawah |
+| **Ganga Expressway** | गंगा एक्सप्रेसवे | 594 km; Meerut to Prayagraj (longest under construction) |
+| **National Highway** | राष्ट्रीय राजमार्ग | Centre-maintained highways; NH passes through UP |
+| **Lucknow Metro** | लखनऊ मेट्रो | Operational since 2017; first metro in UP |
+| **Pradhan Mantri Gram Sadak Yojana** | प्रधानमंत्री ग्राम सड़क योजना | Rural road connectivity to unconnected habitations |
+| **Wildlife Sanctuary** | वन्यजीव अभयारण्य | Protected area for wildlife |
+| **Tiger Reserve** | बाघ संरक्षित क्षेत्र | Under Project Tiger (NTCA) |
+| **National Park** | राष्ट्रीय उद्यान | Highest protected area; no human habitation |
+| **Biodiversity Hotspot** | जैव विविधता हॉटस्पॉट | Area of exceptional biodiversity + high threat |
+| **Pollution Control Board** | प्रदूषण नियंत्रण बोर्ड | UPPCB = Uttar Pradesh Pollution Control Board |
+| **SDMA** | राज्य आपदा प्रबंधन प्राधिकरण | State Disaster Management Authority |
+
+---
+
+## Extended Theory -- UP Transport Network
+
+```
+        UTTAR PRADESH -- EXPRESSWAY NETWORK
+        ─────────────────────────────────────────
+        
+        Yamuna Expressway:   165 km (Delhi -- Agra)     [2012]
+        Agra-Lucknow:        302 km (Agra -- Lucknow)   [2016]
+        Purvanchal:          341 km (Lucknow -- Ghazipur) [2021]
+        Bundelkhand:         296 km (Chitrakoot -- Etawah) [2022]
+        Ganga Expressway:    594 km (Meerut -- Prayagraj) [Under construction]
+        
+        RECORD: Agra-Lucknow Expressway was the world's widest
+        access-controlled expressway at inauguration (2016).
+        
+        GANGA EXPRESSWAY = longest expressway in India
+        (when complete at 594 km)
+```
+
+### UP's Wildlife Sanctuaries and National Parks
+
+| Protected Area | District | Specialty |
+|---|---|---|
+| **Dudhwa National Park** | Lakhimpur Kheri | Barasingha (swamp deer), tigers, rhinos |
+| **Katarniaghat Wildlife Sanctuary** | Bahraich | Gharial, Gangetic dolphin, tigers |
+| **Pilibhit Tiger Reserve** | Pilibhit | Tigers in terai; adjacent to Nepal |
+| **Chandraprabha Wildlife Sanctuary** | Chandauli | Blackbuck, hyena |
+| **Sandi Bird Sanctuary** | Hardoi | Migratory birds |
+| **Suhelwa Wildlife Sanctuary** | Shravasti, Balrampur | Tigers; extended buffer of Dudhwa |
+| **National Chambal Sanctuary** | Agra, Etawah | Gharial, Gangetic dolphin, red-crowned roofed turtle |
+
+### Disaster Vulnerability of UP
+
+| Disaster Type | High-Risk Districts | Key Reason |
+|---|---|---|
+| **Floods** | Bahraich, Lakhimpur, Balrampur, Gonda, Gorakhpur | Ghaghra, Rapti, Rohini rivers; Nepal releases |
+| **Drought** | Bundelkhand (Jhansi, Lalitpur, Banda) | Low rainfall; rocky terrain; poor water retention |
+| **Earthquakes** | Uttarakhand border districts | Seismic Zone IV proximity |
+| **Lightning** | All districts (UP is India's most lightning-prone State) | Flat terrain; pre-monsoon storms |
+| **Cold Wave** | Purvanchal, Rohilkhand | Dense fog; North Indian cold wave |
+
+---
+
+## UKPCS / MPPSC / BPSC Extra Drill -- UP Transport/Environment
+
+**Q1. UKPCS (Pre) 2022**
+Which expressway in Uttar Pradesh, inaugurated in 2021, is the longest expressway in the State?
+A. Yamuna Expressway
+B. Agra-Lucknow Expressway
+C. Purvanchal Expressway
+D. Bundelkhand Expressway
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The **Purvanchal Expressway (341 km)** connecting Lucknow to Ghazipur was inaugurated by PM Modi in November 2021. However, when Ganga Expressway (594 km) is complete it will surpass it. As of 2021, Purvanchal was the longest in UP.
+
+**Ans: C.** Purvanchal Expressway (341 km).
+
+</details>
+
+**Q2. MPPSC (Pre) 2021**
+'Dudhwa National Park' in Uttar Pradesh is famous for the conservation of which endangered animal?
+A. Asiatic Lion
+B. Snow Leopard
+C. Barasingha (Swamp Deer) and Tiger
+D. One-horned Rhinoceros
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Dudhwa National Park (Lakhimpur Kheri) is famous for the **Barasingha (hard-ground swamp deer)** and also tigers. It was the last stronghold of the barasingha. Rhinos were reintroduced from Assam.
+
+**Ans: C.** Barasingha and Tiger.
+
+</details>
+
+**Q3. BPSC-type**
+The National Chambal Sanctuary in UP is known for the conservation of which critically endangered crocodilian?
+A. Saltwater Crocodile
+B. Mugger Crocodile
+C. Gharial (Gavial)
+D. Marsh Crocodile
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The **National Chambal Sanctuary** along the Chambal River (Agra, Etawah, Morena) is the primary protected area for the critically endangered **Gharial (Gavialis gangeticus)**, also Gangetic dolphin and red-crowned roofed turtle.
+
+**Ans: C.** Gharial.
+
+</details>
+
+---
+
+## One-Liner Revision -- UP Transport, Tourism, Environment
+
+| # | Fast Fact |
+|---|---|
+| 1 | Purvanchal Expressway = **341 km** (Lucknow-Ghazipur); inaugurated Nov 2021 |
+| 2 | Agra-Lucknow Expressway = **302 km**; inaugurated 2016 |
+| 3 | Yamuna Expressway = **165 km** (Delhi-Agra); 2012 |
+| 4 | Ganga Expressway = **594 km** (Meerut-Prayagraj); longest when complete |
+| 5 | Bundelkhand Expressway = **296 km** (Chitrakoot-Etawah) |
+| 6 | Lucknow Metro = first metro in UP (operational since **2017**) |
+| 7 | Dudhwa National Park = famous for **Barasingha** and tigers |
+| 8 | Pilibhit Tiger Reserve = terai forests; adjacent Nepal border |
+| 9 | National Chambal Sanctuary = **Gharial** conservation |
+| 10 | Katarniaghat WS (Bahraich) = Gangetic dolphin + gharial |
+| 11 | UP = India's most lightning-prone State |
+| 12 | Flood-prone districts = Bahraich, Lakhimpur Kheri, Gorakhpur |
+| 13 | Drought-prone = **Bundelkhand** (Jhansi, Lalitpur, Banda) |
+| 14 | UP State animal = **Barasingha** (swamp deer) |
+| 15 | UP State bird = **Sarus Crane** (world's tallest flying bird) |
+

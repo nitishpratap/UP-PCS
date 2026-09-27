@@ -25,232 +25,49 @@ Microbiology: Major Groups (Bacteria, Viruses, Fungi, Protozoa) | Discovery of B
 
 ---
 
-## Consolidated — 60 Must-Score Facts
+## Consolidated — 39 Must-Score Facts
 
 1. **The Four Microbial Groups**:
-   - **Bacteria**: Unicellular prokaryotes possessing a rigid peptidoglycan cell wall, 70S ribosomes, naked circular dsDNA in the nucleoid (no nuclear envelope), and no membrane-bound organelles; reproduce primarily by binary fission.
-   - **Viruses**: Non-cellular nucleoprotein obligate intracellular parasites; contain either DNA or RNA (never both) enclosed in a protective protein capsid; completely inert outside living cells.
-   - **Fungi**: Achlorophyllous, heterotrophic eukaryotic organisms with cell walls of **Chitin**; reserve food is stored as **Glycogen and Oil droplets**; absorb nutrients saprophytically.
-   - **Protozoa**: Microscopic, unicellular, heterotrophic eukaryotic animal-like protists; lack a cell wall; move by pseudopodia, flagella, or cilia.
 2. **Bacterial Morphology & Gram Staining**:
-   - Shapes: **Coccus** (spherical, e.g., *Streptococcus pneumoniae*), **Bacillus** (rod-shaped, e.g., *Lactobacillus*, *Escherichia coli*), **Spirillum** (spiral, e.g., *Treponema pallidum*), and **Vibrio** (comma-shaped, e.g., *Vibrio cholerae*).
-   - **Gram Staining (Hans Christian Gram, 1884)**:
-     - **Gram-Positive**: Possess a thick, multi-layered peptidoglycan wall with teichoic acids; retain the primary crystal violet–iodine dye complex, appearing **deep purple/blue** (e.g., *Staphylococcus*, *Streptococcus*, *Bacillus*).
-     - **Gram-Negative**: Possess a thin peptidoglycan layer surrounded by an outer lipopolysaccharide (LPS) membrane; alcohol decolorizer washes out crystal violet, taking up counterstain safranin to appear **pink/red** (e.g., *E. coli*, *Salmonella*, *Vibrio cholerae*, *Pseudomonas*); outer lipid membrane confers higher intrinsic antibiotic resistance.
 3. **Endospores & Archaebacteria**:
-   - **Endospores**: Extremely durable, dehydrated dormant resting structures formed inside certain bacteria (e.g., *Clostridium tetani*, *Bacillus anthracis*) to endure extreme boiling heat, drying, and chemical disinfectants; contain high concentrations of **Calcium dipicolinate**.
-   - **Archaebacteria**: Ancient extremophilic prokaryotes with branched ether-linked membrane lipids:
-     - **Methanogens**: Strictly anaerobic; inhabit marshy soils and the rumen of cud-chewing cattle (*gobar*); produce **Methane gas ($CH_4$)** from cellulose fermentation (*Methanobacterium*).
-     - **Halophiles**: Inhabit extremely high-saline environments (e.g., Great Salt Lake).
-     - **Thermoacidophiles**: Inhabit hot, acidic sulfur springs ($80^\circ C$, $\text{pH } 2$).
 4. **Viruses, Bacteriophages & Sub-Viral Agents**:
-   - Viruses lack cellular machinery, cytoplasm, and intrinsic metabolic enzymes; **antibiotics are completely ineffective against viruses**.
-   - **Bacteriophages**: Specialized viruses that infect and destroy bacteria; typically possess a polyhedral icosahedral head containing dsDNA, a helical sheath, and tail fibres (e.g., T-even phages); maintain the ecological purification of the River Ganga.
-   - **Viroids (T. O. Diener, 1971)**: Infectious agents smaller than viruses consisting solely of a short, free single-stranded circular RNA molecule **lacking any protective protein coat**; cause Potato Spindle Tuber disease.
-   - **Prions (Stanley Prusiner, Nobel 1997)**: Infectious agents composed solely of **abnormally folded proteins devoid of nucleic acids**; transmit fatal neurodegenerative diseases including Bovine Spongiform Encephalopathy (BSE / "Mad Cow Disease") in cattle and Creutzfeldt-Jakob Disease (CJD) and Kuru in humans.
 5. **Fungi: Yeasts, Moulds & Lichens**:
-   - **Yeast (*Saccharomyces cerevisiae*)**: Unicellular ascomycete fungus reproducing asexually by budding; ferments sugars anaerobically into ethanol and carbon dioxide; known as **Baker's yeast** (in bread leavening) and **Brewer's yeast** (in brewing beers and wines).
-   - **Moulds**: Filamentous multicellular fungi forming cottony mycelia; e.g., *Penicillium*, *Rhizopus* (black bread mould), *Aspergillus*.
-   - **Lichens**: Composite symbiotic dual organisms comprising an algal or cyanobacterial partner (**Phycobiont** — manufactures food via photosynthesis) and a fungal partner (**Mycobiont** — absorbs water, minerals, and provides shelter); **exceptionally sensitive bio-indicators of atmospheric Sulfur Dioxide ($\mathbf{SO_2}$) pollution**; absent in heavily polluted industrial cities.
 6. **Industrial Microbiology & Microbes in Human Welfare (NCERT Class 12 Master Pairs)**:
-   - **Curd Formation**: Inoculum of lactic acid bacteria (LAB, primarily ***Lactobacillus acidophilus***) converts milk sugar **Lactose into Lactic Acid**, coagulating and partially digesting milk casein protein; LAB improves nutritional quality by substantially increasing **Vitamin $B_{12}$** and suppresses harmful gut bacteria.
-   - **Swiss Cheese**: Characterized by large gas holes produced by abundant $CO_2$ release from the bacterium ***Propionibacterium shermanii***.
-   - **Roquefort Cheese**: Ripened by growing the filamentous mould ***Penicillium roqueforti***, imparting a characteristic sharp flavour.
-   - **Traditional Fermented Beverages**: *Toddy* is a traditional refreshing drink of southern India made by fermenting sugary sap tapped from palm trees.
 7. **Microbial Organic Acids & Industrial Enzymes**:
-   - **Citric Acid**: Produced commercially by the filamentous fungus ***Aspergillus niger***.
-   - **Acetic Acid (Vinegar)**: Produced from alcohol by the aerobic bacterium ***Acetobacter aceti***.
-   - **Butyric Acid**: Produced by the anaerobic bacterium ***Clostridium butyricum***.
-   - **Lactic Acid**: Produced by the bacterium ***Lactobacillus***.
-   - **Lipases**: Microbial enzymes added to laundry detergent formulations to digest and remove stubborn oil and grease stains.
-   - **Pectinases & Proteases**: Added to commercially bottled fruit juices to digest fruit pulp pectin fibres, yielding **crystal-clear juice**.
 8. **Bioactive Molecules & Wonder Drugs (High-Yield UPPCS Match-Pairs)**:
-   - **Streptokinase**: Enzyme produced by the bacterium ***Streptococcus*** and modified by genetic engineering; acts as a life-saving **"Clot Buster"** by dissolving fibrin intravascular blood clots in patients suffering myocardial infarction (heart attack).
-   - **Cyclosporin A**: An 11-amino acid cyclic bioactive peptide produced by the soil fungus ***Trichoderma polysporum***; acts as a potent **immunosuppressive agent** administered to organ transplant recipients to prevent graft rejection.
-   - **Statins**: Bioactive compounds produced commercially by the yeast ***Monascus purpureus***; acts as a competitive **blood cholesterol-lowering agent** by inhibiting the rate-limiting enzyme HMG-CoA reductase involved in hepatic cholesterol synthesis.
 9. **Antibiotics & Milestone Discoveries**:
-   - **Penicillin**: First wonder antibiotic discovered accidentally in **1928** by **Sir Alexander Fleming** at St. Mary's Hospital, London, from a contaminating mould ***Penicillium notatum*** that lysed surrounding *Staphylococcus aureus* colonies; its clinical potential as a systemic antibiotic was unraveled during World War II by **Howard Florey and Ernst Chain** (Fleming, Florey, and Chain shared the Nobel Prize in 1945).
-   - **Streptomycin**: First antibiotic isolated from a soil actinomycete bacterium (***Streptomyces griseus***) in 1943 by **Selman Waksman** and Albert Schatz; first effective therapeutic weapon against Tuberculosis (*Mycobacterium tuberculosis*); Waksman coined the generic term "Antibiotic" (Nobel Prize 1952).
-   - **Broad-Spectrum Antibiotics**: Drugs effective against a wide range of both Gram-positive and Gram-negative bacteria (e.g., Tetracycline, Chloramphenicol, Amoxicillin).
 10. **The Disease–Pathogen Pairs (Crucial Traps)**:
-    - **Cholera**: Acute profuse watery "rice-water" diarrhoea caused by the comma-shaped bacterium ***Vibrio cholerae***, transmitted via faecally contaminated drinking water and flies.
-    - **Typhoid (Enteric Fever)**: Sustained high fever and intestinal ulceration caused by the bacterium ***Salmonella typhi***, spread through contaminated food/water; confirmed serologically by the **Widal Test**.
-    - **Tuberculosis**: Chronic granulomatous lung disease caused by the acid-fast bacterium ***Mycobacterium tuberculosis***, transmitted via airborne respiratory droplets; treated with DOTS (Directly Observed Treatment, Short-Course); World TB Day is **24 March**.
-    - **Tetanus (Lockjaw)**: Severe painful muscular spasms caused by neurotoxin tetanospasmin released by the anaerobic spore-forming bacterium ***Clostridium tetani***, entering deep puncture wounds contaminated with soil/rust; prevented by Tetanus Toxoid (TT).
-    - **Whooping Cough (Pertussis)**: Severe coughing bouts ending in an inspiratory whoop caused by the bacterium ***Bordetella pertussis***; represents the 'P' in the trivalent **DPT** vaccine.
-    - ***Haemophilus influenzae* Type b (Hib)**: Encapsulated bacterium causing severe **meningitis, acute epiglottitis, and pneumonia in infants and children under 5 years**; included in India's **Pentavalent Vaccine** (DPT + Hep B + Hib); does **not** cause Influenza (which is caused by Influenza Orthomyxovirus); named mistakenly in 1892 by Richard Pfeiffer during a flu pandemic.
 11. **Scientific Method & Great Medical Pioneers**:
-    - **Antonie van Leeuwenhoek (1674)**: "Father of Microbiology"; ground high-power single lenses and first observed living microorganisms ("animalcules" — bacteria, protozoa, sperm, and red blood cells) in pond water and dental scrapings.
-    - **Edward Jenner (1796)**: "Father of Immunology"; observed that milkmaids infected with mild cowpox sores were immune to smallpox; inoculated young James Phipps with cowpox pustule matter, establishing the world's **first vaccine** (*vacca* = cow).
-    - **Louis Pasteur (1860s–1880s)**: Disproved the Theory of Spontaneous Generation (*Abiogenesis*) using swan-neck flasks; established the **Germ Theory of Disease**; invented **Pasteurisation** to prevent souring of wine and milk; developed vaccines for **Rabies (Hydrophobia)**, Anthrax, and Fowl Cholera.
-    - **Robert Koch (1876–1882)**: "Father of Modern Bacteriology"; established **Koch's Postulates** (scientific criteria proving a specific microbe causes a specific disease); isolated and identified the bacterial pathogens of **Anthrax**, **Tuberculosis (announced 24 March 1882)**, and **Cholera**; Nobel Prize 1905.
-    - **Joseph Lister (1865)**: "Father of Antiseptic Surgery"; pioneered the application of **Carbolic Acid (Phenol)** spray to sterilize surgical instruments, operating rooms, and wounds, eliminating postoperative sepsis.
-    - **Ronald Ross (1897)**: British army physician in India who proved the **transmission cycle of malaria parasites by female *Anopheles* mosquitoes** (conducted research in Secunderabad and Kolkata; awarded Nobel Prize in 1902).
-    - **Jonas Salk (1954)**: Developed the first successful **Inactivated (Killed) Polio Vaccine (IPV)** administered by injection.
-    - **Albert Sabin (1961)**: Developed the live-attenuated **Oral Polio Vaccine (OPV)** administered as liquid drops, enabling mass community immunization.
 12. **Sewage Treatment Plants (STP) & Water Quality Parameters**:
-    - **Primary Treatment (Physical)**: Sequential filtration to remove floating debris followed by gravitational sedimentation to remove grit (sand and pebbles); produces settled **Primary Sludge** and liquid **Primary Effluent**.
-    - **Secondary Treatment (Biological)**: Primary effluent is agitated in large **aeration tanks**, pumping oxygen to foster massive colonies of aerobic heterotrophic microbes called **Flocs** (mesh-like associations of bacteria and fungal filaments); flocs digest dissolved organic matter, drastically reducing BOD.
-    - **Biochemical Oxygen Demand (BOD)**: The amount of dissolved oxygen (in $mg/L$ or $ppm$) required by aerobic microorganisms to biologically oxidize all organic matter in 1 litre of water; **direct index of organic pollution** (high BOD = high organic pollution = depletion of Dissolved Oxygen / DO).
-      - Clean drinking water: $BOD < 1\text{ mg/L}$.
-      - Polluted river water: $BOD > 5\text{ mg/L}$.
-      - Untreated domestic sewage: $BOD = 200–400\text{ mg/L}$.
-      - Critical Dissolved Oxygen threshold: If DO drops below **$4\text{ mg/L}$**, fish and aquatic fauna suffocate and die.
-    - **Chemical Oxygen Demand (COD)**: Measure of total oxygen required to chemically oxidize both biodegradable and non-biodegradable organic pollutants using a strong chemical oxidizer (acidified potassium dichromate, $K_2Cr_2O_7$); COD is always significantly greater than BOD.
-    - **Activated Sludge & Anaerobic Digesters**: Flocs settle in a secondary clarifier tank as **Activated Sludge**; a small portion serves as inoculum, while the bulk is pumped into **Anaerobic Sludge Digesters**, where anaerobic bacteria digest the sludge, generating **Biogas ($CH_4 + CO_2 + H_2S$)**.
-    - **Tertiary Treatment (Physicochemical)**: Disinfection of treated water to kill residual pathogens and remove nitrates/phosphates before environmental discharge using **Chlorination, Ozonation ($O_3$), or UV irradiation**.
 13. **Biogas (Gobar Gas) Technology**:
-    - Technology developed in India through the pioneering research of **IARI** (Indian Agricultural Research Institute) and **KVIC** (Khadi and Village Industries Commission).
-    - Cattle dung (*gobar*) slurry mixed with water is fermented anaerobically by methanogenic archaebacteria (***Methanobacterium***) inside a 10–15 feet deep concrete digester.
-    - **Gas Composition**: **Methane ($\mathbf{CH_4}$) 50–70%**, **Carbon Dioxide ($\mathbf{CO_2}$) 30–40%**, with traces of Hydrogen Sulfide ($H_2S$), Nitrogen ($N_2$), and Hydrogen ($H_2$).
-    - Spent residual slurry is removed and utilized as superior organic manure rich in Nitrogen and Phosphorus.
 14. **Drinking Water Purification & Biological Contamination Markers**:
-    - Stages of Municipal Water Treatment:
-      1. **Sedimentation**: Heavy suspended silt settles by gravity.
-      2. **Coagulation / Flocculation**: Adding **Potash Alum** ($\text{K}_2\text{SO}_4\cdot\text{Al}_2(\text{SO}_4)_3\cdot 24\text{H}_2\text{O}$); trivalent aluminium ($Al^{3+}$) ions neutralize negatively charged colloidal clay particles, causing rapid flocculation and sedimentation.
-      3. **Filtration**: Passing water through beds of fine and coarse sand and gravel.
-      4. **Disinfection**: Addition of **Chlorine gas** or **Bleaching Powder ($\mathbf{CaOCl_2}$)**; chlorine forms hypochlorous acid ($HOCl$), which destroys bacterial cellular membranes and enzymes; alternative methods include Ultraviolet (UV) lamps and Ozonation.
-    - **Coliform Count & Most Probable Number (MPN)**:
-      - Coliform bacteria (primarily ***Escherichia coli***) are non-pathogenic normal commensals inhabiting the intestinal tract of warm-blooded mammals; their presence in water serves as the universal **indicator organism of sewage contamination**.
-      - Standard permissible limit for potable drinking water: **Zero coliforms per 100 mL of water**.
 15. **Waste Management: Biodegradable vs Non-Biodegradable Pollutants**:
-    - **Biodegradable Pollutants**: Organic substances broken down and decomposed by microbial enzymatic action (bacteria and fungi) into simple inorganic minerals, $CO_2$, and water; e.g., domestic kitchen waste, livestock dung, human urine and faeces, wood, paper, and natural protein/cellulose fibres (**Wool, Cotton, Jute, Silk, Leather**).
-    - **Non-Biodegradable Pollutants**: Synthetic or inorganic substances that resist microbial enzymatic degradation and persist indefinitely in the biosphere; e.g., **Plastics (polyethylene, PVC, polystyrene), glass, aluminium foil, tin cans, synthetic pesticides (DDT, BHC / Lindane, Endosulfan), and heavy metals (Mercury, Lead, Cadmium, Arsenic)**.
-    - *Must-Score*: **Recyclable is NOT the same as Biodegradable**. Glass bottles and aluminium cans are 100% recyclable (can be remelted and refabricated indefinitely), but are totally **non-biodegradable** (will never rot or turn into compost).
 16. **Biomagnification vs Bioaccumulation**:
-    - **Bioaccumulation**: Gradual increase in the concentration of a persistent, lipid-soluble chemical inside an individual organism's fatty tissues over time, because the rate of intake exceeds the organism's metabolic excretion rate.
-    - **Biomagnification (Biological Amplification)**: Progressive increase in the concentration of a non-biodegradable, lipid-soluble toxicant at successive trophic levels of a food chain.
-    - **Classic DDT Biomagnification in Aquatic Food Chain**:
-      $$\text{Water } (0.003\text{ ppb}) \rightarrow \text{Zooplankton } (0.04\text{ ppm}) \rightarrow \text{Small Fish } (0.5\text{ ppm}) \rightarrow \text{Fish-eating Birds } (25\text{ ppm})$$
-      High DDT concentrations interfere with calcium metabolism and carbonic anhydrase enzyme in predatory birds (pelicans, ospreys, bald eagles), resulting in abnormally thin eggshells that crush under the parents' brooding weight, precipitating catastrophic population collapses.
 17. **Bioremediation & Microbial Environmental Clean-Up**:
-    - Use of microorganisms to biologically degrade, detoxify, or remove hazardous environmental pollutants from soil or water.
-    - **"Superbug" (***Pseudomonas putida***)**: Genetically engineered multi-plasmid bacterial strain developed in 1971 by Indian-American microbiologist **Dr. Ananda Mohan Chakrabarty**; carries four degradative plasmids (CAM, OCT, XYL, NAH) enabling rapid digestion of toxic hydrocarbons in crude oil spills at sea; first genetically modified living organism granted a US patent (1980).
-    - **Water Hyacinth (***Eichhornia crassipes***)**: Known as the "Terror of Bengal"; an invasive aquatic weed introduced from South America that rapidly chokes freshwater lakes, absorbs heavy metal pollutants, but depletes dissolved oxygen, destroying native fisheries.
 18. **Biomedical Waste Color Coding (Ministry of Environment, Forest & Climate Change Rules)**:
-    - **Yellow Bin**: Human anatomical waste, animal waste, soiled infectious dressings, discarded linens, and expired cytotoxic drugs $\rightarrow$ Treatment: **Incineration** or deep burial.
-    - **Red Bin**: Contaminated recyclable plastic waste (intravenous tubes, catheters, urine bags, disposable syringes without needles) $\rightarrow$ Treatment: Autoclaving/microwaving and shredding for recycling.
-    - **White Translucent Container (Puncture-proof)**: Waste sharps including needles, scalpels, surgical blades, and contaminated glass slides $\rightarrow$ Treatment: Autoclaving and dry heat sterilization.
-    - **Blue Cardboard Box**: Broken glassware, medicine vials, ampoules, and metallic orthopedic implants $\rightarrow$ Treatment: Disinfection with Sodium Hypochlorite solution and recycling.
 19. **Major Research Institutes of Uttar Pradesh (Heavily Tested UPPCS Matches)**:
-    - **CDRI**: Central Drug Research Institute — **Lucknow** (developed non-hormonal, once-a-week oral contraceptive pill *Saheli* / Centchroman).
-    - **CIMAP**: Central Institute of Medicinal and Aromatic Plants — **Lucknow** (researches mentha, ashwagandha, artemisinin).
-    - **NBRI**: National Botanical Research Institute — **Lucknow** (botanical taxonomy, floriculture).
-    - **IITR**: Indian Institute of Toxicology Research (formerly ITRC) — **Lucknow** (water and environmental chemical safety).
-    - **BSIP**: Birbal Sahni Institute of Palaeosciences — **Lucknow** (fossil botany and radiocarbon dating).
-    - **IISR**: Indian Institute of Sugarcane Research — **Lucknow**.
-    - **IVRI**: Indian Veterinary Research Institute — **Izatnagar, Bareilly** (animal health, veterinary vaccines).
-    - **CARI**: Central Avian Research Institute — **Izatnagar, Bareilly** (poultry research).
-    - **IIVR**: Indian Institute of Vegetable Research — **Varanasi**.
-    - **IGFRI**: Indian Grassland and Fodder Research Institute — **Jhansi**.
-    - **CIRG**: Central Institute for Research on Goats — **Makhdoom, Farah, Mathura**.
-    - **NSI**: National Sugar Institute — **Kanpur**.
-    - **CPPRI**: Central Pulp and Paper Research Institute — **Saharanpur**.
 20. **National & International Apex Scientific Institutions**:
-    - **ICAR**: Indian Council of Agricultural Research — **New Delhi** (apex governing body for agricultural and veterinary education).
-    - **IARI**: Indian Agricultural Research Institute ("Pusa Institute") — **New Delhi** (premier institute for crop breeding and Green Revolution seeds).
-    - **ICMR**: Indian Council of Medical Research — **New Delhi** (apex biomedical research body).
-    - **CSIR**: Council of Scientific and Industrial Research — **New Delhi** (established in 1942; Dr. Shanti Swaroop Bhatnagar was its first Director-General).
-    - **IISc**: Indian Institute of Science — **Bengaluru** (founded in 1909 through the vision of Jamsetji Tata and Maharaja Krishnaraja Wadiyar IV).
-    - **TIFR**: Tata Institute of Fundamental Research — **Mumbai** (founded in 1945 by Dr. Homi J. Bhabha).
-    - **CCMB**: Centre for Cellular and Molecular Biology — **Hyderabad** (premier molecular biology and DNA profiling center).
-    - **CDFD**: Centre for DNA Fingerprinting and Diagnostics — **Hyderabad**.
-    - **NIV**: National Institute of Virology — **Pune** (apex biosafety level-4 institute for viral epidemics).
-    - **NDRI**: National Dairy Research Institute — **Karnal, Haryana** (cloning of buffalo calves, dairy technology).
-    - **CFTRI**: Central Food Technological Research Institute — **Mysuru, Karnataka**.
-    - **NEERI**: National Environmental Engineering Research Institute — **Nagpur, Maharashtra**.
-    - **NRRI**: National Rice Research Institute (formerly CRRI) — **Cuttack, Odisha**.
-    - **CPRI**: Central Potato Research Institute — **Kufri, Shimla, Himachal Pradesh**.
-    - **CAZRI**: Central Arid Zone Research Institute — **Jodhpur, Rajasthan**.
-    - **WHO**: World Health Organization — **Geneva, Switzerland** (established 7 April 1948).
-    - **FAO**: Food and Agriculture Organization — **Rome, Italy** (established 16 October 1945).
-    - **UNEP**: United Nations Environment Programme — **Nairobi, Kenya** (established 1972 after Stockholm Conference).
 21. **Indian Scientific Legends & Inventions**:
-    - **Acharya Jagadish Chandra Bose (1858–1937)**: Biophysicist and botanist; invented the **Crescograph** to record plant growth magnified 10,000-fold; proved that plants have living sensations, electrical impulses, and fatigue responses; pioneer of millimetre-length microwave radio optics.
-    - **Acharya Prafulla Chandra Ray (P. C. Ray) (1861–1944)**: "Father of Indian Chemistry"; discovered Mercurous Nitrite in 1896; founded **Bengal Chemicals & Pharmaceuticals Ltd.** (India's first pharmaceutical company).
-    - **Sir C. V. Raman (1888–1970)**: Discovered that when light traverses a transparent medium, a fraction of scattered light exhibits shifted frequencies (**Raman Effect**) on 28 February 1928; awarded the 1930 Nobel Prize in Physics; celebrated as **National Science Day**.
-    - **Prof. Birbal Sahni (1891–1949)**: "Father of Indian Palaeobotany"; discovered and named the extinct Mesozoic fossil plant group ***Pentoxyleae*** from the Rajmahal Hills; established the Institute of Palaeobotany at Lucknow.
-    - **Prof. M. S. Swaminathan (1925–2023)**: "Father of the Green Revolution in India"; crossed semi-dwarf Norin-10 genes from Norman Borlaug with Indian wheat to develop high-yielding rust-resistant varieties (*Kalyan Sona*, *Sonalika*); first World Food Prize laureate (1987); posthumously awarded the Bharat Ratna (2024).
-    - **Dr. Verghese Kurien (1921–2012)**: "Father of the White Revolution" / "Milkman of India"; engineered **Operation Flood**; founded Amul and the National Dairy Development Board (NDDB); National Milk Day celebrated on his birthday (**26 November**).
-    - **Dr. Har Gobind Khorana (1922–1999)**: Shared the 1968 Nobel Prize in Physiology or Medicine with Nirenberg and Holley for cracking the **genetic code**; chemically synthesized the first functional artificial gene in 1970.
 22. **The Six Traditional Indian Seasons (*Shad Ritus*)**:
-    - **Vasanta (Spring)**: Chaitra – Vaishakha (approx. mid-February to mid-April). Mild pleasant climate; new green foliage, blooming flowers; peak pollinator and honeybee activity; ripening and harvesting of Rabi crops.
-    - **Grishma (Summer)**: Jyeshtha – Ashadha (approx. mid-April to mid-June). Scorching solar radiation, hot dry continental winds (*Loo*), extreme water evaporation; cultivation of short-duration **Zaid crops** (watermelon, cucumber, gourd) in riverbeds.
-    - **Varsha (Monsoon / Rainy)**: Shravana – Bhadrapada (approx. mid-June to mid-August). Onset of the South-West Monsoon; heavy precipitation; extensive sowing of **Kharif crops** (Paddy, Maize, Jowar, Bajra, Soybean, Cotton); surge in vector-borne mosquito breeding (Malaria, Dengue) and water-borne enteric infections (Cholera).
-    - **Sharad (Autumn)**: Ashwina – Kartika (approx. mid-August to mid-October). Withdrawal of the monsoon; clear blue skies, humid "October Heat"; maturation of Kharif harvests.
-    - **Hemanta (Pre-Winter / Late Autumn)**: Margashirsha – Pausha (approx. mid-October to mid-December). Crisp cool days, drop in nocturnal temperature; field preparation and sowing of **Rabi crops** (Wheat, Barley, Mustard, Gram, Pea, Potato).
-    - **Shishira (Winter / Cold Season)**: Magha – Phalguna (approx. mid-December to mid-February). Severe cold, frost, dense morning fog; Western Disturbances bring light winter rains (*Mahawat*), proving vital for growing wheat; arrival of migratory wetland birds (e.g., Siberian cranes at Keoladeo Ghana).
 23. **Important Commemorative Days for Science, Health and Environment**:
-    - **28 February**: **National Science Day** (Discovery of Raman Effect by C. V. Raman in 1928).
-    - **22 March**: **World Water Day** (UN awareness on freshwater preservation).
-    - **24 March**: **World Tuberculosis Day** (Dr. Robert Koch announced the discovery of *Mycobacterium tuberculosis* on 24 March 1882).
-    - **7 April**: **World Health Day** (Marks the founding of WHO in 1948).
-    - **22 April**: **World Earth Day**.
-    - **25 April**: **World Malaria Day**.
-    - **22 May**: **International Day for Biological Diversity**.
-    - **5 June**: **World Environment Day** (Marks the opening of 1972 Stockholm Conference).
-    - **28 July**: **World Hepatitis Day** (Birthday of Dr. Baruch Blumberg, discoverer of Hepatitis B virus).
-    - **16 September**: **World Ozone Day** (Commemorates the signing of the Montreal Protocol in 1987).
-    - **28 September**: **World Rabies Day** (Death anniversary of Louis Pasteur).
-    - **16 October**: **World Food Day** (Founding date of FAO in 1945).
-    - **14 November**: **World Diabetes Day** (Birthday of Sir Frederick Banting, co-discoverer of Insulin).
-    - **26 November**: **National Milk Day** (Birthday of Dr. Verghese Kurien).
-    - **1 December**: **World AIDS Day** (Spreading awareness about HIV/AIDS).
 24. **Discovery of Bacteria & Microscopy**:
-    - **Antony van Leeuwenhoek** (1632–1723, Delft, Netherlands) is regarded as the **Father of Microbiology**; first to discover and accurately describe bacteria and living protozoa ("animalcules") in 1674.
-    - Bacteria are microscopic unicellular prokaryotes, mostly 0.5 to 5.0 micrometres ($\mu m$) in size (though some reach 0.5 mm); visible clearly under a **Compound Microscope** (which magnifies 1,500 to 2,000 times).
 25. **Autotrophic Bacteria & Photosynthetic Pigments**:
-    - Autotrophic bacteria make their own organic nutrients by **Photosynthesis** (using light energy) or **Chemosynthesis** (oxidizing inorganic substrates like $NH_3$, $H_2S$, $CH_4$).
-    - Phototrophic bacteria do **NOT have chloroplasts**; their photosynthetic pigments are called **Bacteriochlorophylls** located in vesicular lamellae/invaginations of the plasma membrane.
 26. **Gram Stain & Peptidoglycan Cell Wall**:
-    - Hans Christian Gram (1884) differentiated bacteria by cell wall architecture:
-      - **Gram-positive**: Thick peptidoglycan wall with **Teichoic acids**; retains crystal violet dye (purple).
-      - **Gram-negative**: Thin peptidoglycan layer enclosed by an outer lipopolysaccharide (LPS) membrane; loses crystal violet and takes up safranin counterstain (pink).
 27. **Mycoplasma (Smallest Living Cells)**:
-    - **Mycoplasma** is the **smallest known organism capable of autonomous growth and reproduction** ($0.1–0.3\ \mu m$).
-    - Naturally **completely lacks a cell wall**, rendering it naturally resistant to beta-lactam antibiotics like penicillin (which act by inhibiting cell wall synthesis); *Mycoplasma pneumoniae* causes atypical "walking" pneumonia in humans.
 28. **Synthetic Medium Culturing vs Viral Host Dependence**:
-    - **Bacteria and Fungi can be cultured in synthetic/artificial media** (e.g., nutrient agar, potato dextrose agar) where they form colonies visible to the naked eye.
-    - **Viruses CANNOT be cultured on cell-free artificial media** because they lack metabolic machinery, ribosomes, and ATP-generating systems; they strictly require a living host cell (*in vivo* in animals/plants or *in vitro* in live cell cultures) to replicate.
 29. **Asexual Reproduction & Spore Formation**:
-    - Unicellular organisms reproduce primarily by asexual methods (binary fission in bacteria and *Amoeba*, budding in yeast).
-    - **Spore formation** is an asexual reproduction method occurring across **Bacteria, Fungi, Algae, and lower plants like Mosses (Bryophytes) and Ferns (Pteridophytes)**.
 30. **Fungi Kingdom Characteristics**:
-    - Eukaryotic, heterotrophic (saprophytic or parasitic), **achlorophyllous** (completely lack chlorophyll; do NOT photosynthesize), and **lack vascular bundles** (xylem/phloem).
-    - Cell wall composed of **Chitin**; reserve food stored as **Glycogen**.
-    - Includes **Yeasts** (unicellular, budding), **Moulds** (filamentous multicellular hyphae), and **Mushrooms** (fleshy macrofungal fruiting bodies / basidiocarps).
 31. **Edible vs Toxic Mushrooms & Dimorphic Fungi**:
-    - **Gucchi (Morel / *Morchella*)**: Expensive edible fungus of family Morchellaceae (Phylum Ascomycota); cap has honeycomb pits and ridges; grows wild in temperate **Himalayan conifer forests** (Himachal Pradesh, Uttarakhand, J&K); **cannot be commercially cultivated** and must be hand-collected from forests.
-    - **Death Cap (*Amanita phalloides*)**: Extremely toxic, lethal Basidiomycete mushroom containing $\alpha$-amanitin that destroys liver and kidneys.
-    - **Dimorphic Fungi**: Fungi that grow as moulds at room temperature ($25^\circ\text{C}$) and as yeasts at mammalian body temperature ($37^\circ\text{C}$) (e.g., *Talaromyces / Penicillium marneffei*).
 32. **Master Spectrum of Biological Interactions**:
-    - **Mutualism (+/+)**: Both species benefit obligately or facultatively. Examples: Lichens (Alga + Fungus), Mycorrhiza (Fungi + Roots of higher plants), Fig and Fig wasp (*Blastophaga* — obligate one-to-one co-evolution), Corals (Cnidarians + *Symbiodinium* dinoflagellates), *Rhizobium* in leguminous root nodules.
-    - **Commensalism (+/0)**: One organism benefits while the other is unaffected. Examples: Barnacles on whales, Remora fish on sharks (phoresy and food scraps), Cattle egrets feeding on insects flushed out by grazing herbivores, Epiphytic orchids on tree branches. Subtypes: *inquilinism* (housing), *metabiosis* (using objects made by host), *phoresy* (transport).
-    - **Parasitism (+/-)**: One benefits at the expense of host. E.g., *Herpes simplex* virus reproducing inside human host cells (**Endoparasitism**).
-    - **Hyperparasitism**: A phenomenon where a **parasite parasitizes another parasite** (parasite within a parasite; common among parasitoid wasps in Apocrita, Diptera flies, and Coleoptera).
 33. **Mycorrhizal Association**:
-    - Symbiotic mutualism between soil fungi and the roots of higher vascular plants.
-    - **Benefits to Plant**: Greatly increases **absorption of Phosphorus, Nitrogen, and micronutrients**; enhances drought tolerance; and provides **protection against soil-borne root pathogens**.
 34. **Lichens: Pioneer Organisms & Air Quality Indicators**:
-    - Mutualistic association of an **Alga/Cyanobacterium (Phycobiont)** and a **Fungus (Mycobiont)**.
-    - Lichens absorb moisture and nutrients directly from air (no roots, no protective cuticle), accumulating airborne contaminants; highly sensitive to **Sulfur Dioxide ($\mathbf{SO_2}$)**.
-    - **Bio-indicator**: Lichens **do NOT grow in polluted areas**; absence indicates severe air pollution.
-    - **Pioneers**: Capable of colonizing bare rock surfaces in primary ecological succession, secreting lichen acids that break down rocks into soil.
 35. **Ecosystem Trophic Architecture & Producers**:
-    - **Producers (Trophic Level-I)**: Autotrophic green plants, photosynthetic algae, and cyanobacteria; convert radiant solar energy into chemical energy.
-    - Act as the vital **intermediary between abiotic components (sunlight, minerals, water, $CO_2$) and biotic living components** of the ecosystem.
 36. **Primary Productivity**:
-    - The rate at which radiant solar energy is captured and stored as organic biomass by autotrophs through photosynthesis per unit area over time (expressed as $\mathbf{\text{g/m}^2/\text{year}}$ or $\mathbf{\text{kcal/m}^2/\text{year}}$).
 37. **Decomposition by Microbes**:
-    - Natural breakdown of complex organic matter (dead plant litter, carcasses, dung) into simple inorganic minerals ($CO_2, H_2O, NO_3^-, PO_4^{3-}$) by saprotrophic microorganisms (**bacteria and fungi**).
 38. **Oceanic Primary Producers**:
-    - The oceans contribute nearly 50% of global photosynthesis.
-    - Chief oceanic primary producers: **Diatoms** (~45% of total marine organic production) and **Cyanobacteria** (photosynthetic phytoplankton). In contrast, Copepods are primary consumers/secondary producers, and Foraminifera are heterotrophic protists.
 39. **Biological Unity of the Human Species**:
-    - Human racial groups across the globe — Chinese, American, Indian, and Black African populations — all belong strictly to the **exact same biological species**: ***Homo sapiens***.
 
 ---
-
 ## Confused Pairs
 
 | Concept A | Concept B | Razor-Sharp Distinguishing Fact |
@@ -3950,3 +3767,69 @@ D. (A) is false, but (R) is true
   4. **Sharad** (Autumn: mid-Aug to mid-Oct, Ashwina–Kartika; monsoon retreat, "October heat")
   5. **Hemanta** (Pre-Winter: mid-Oct to mid-Dec, Margashirsha–Pausha; *Rabi* sowing)
   6. **Shishira** (Winter: mid-Dec to mid-Feb, Magha–Phalguna; peak cold, frost, *Mahawat* winter rains for wheat)
+
+
+---
+
+## Bilingual Terminology -- Microbiology, Environment and Applied Science
+
+| English Term | Hindi Term | Key Anchor |
+|---|---|---|
+| **Bacteria** (जीवाणु) | जीवाणु / बैक्टीरिया | Prokaryotic unicellular; most ancient; both helpful and harmful |
+| **Virus** (विषाणु) | विषाणु | Acellular; DNA or RNA + protein coat; obligate intracellular parasite |
+| **Fungi** (कवक) | कवक | Eukaryotic; heterotrophic; chitin cell wall; includes moulds, yeasts |
+| **Protozoa** (प्रोटोजोआ) | एककोशिकीय प्राणी | Unicellular eukaryotes; some are pathogens (Plasmodium, Entamoeba) |
+| **Algae** (शैवाल) | शैवाल | Photosynthetic; mostly aquatic; no true roots/stems/leaves |
+| **Fermentation** (किण्वन) | किण्वन | Anaerobic breakdown of sugars by yeast/bacteria; produces alcohol/acid |
+| **Pasteurisation** (पास्चुरीकरण) | पास्चुरीकरण | Heating food to kill pathogens without destroying nutritional value; Pasteur |
+| **Sterilisation** (निर्जर्मीकरण) | निर्जर्मीकरण | Complete destruction of all microorganisms including spores |
+| **Antibiotic** (प्रतिजैविक) | प्रतिजैविक | Kills/inhibits bacteria; from microorganisms (fungi, bacteria) |
+| **Vaccine** (टीका) | टीका | Immunisation preparation; stimulates immune memory |
+| **Biodegradable** (जैव-अपघटनीय) | जैव-अपघटनीय | Can be broken down by microorganisms; e.g., paper, food waste |
+| **Non-Biodegradable** (अजैव-अपघटनीय) | अजैव-अपघटनीय | Cannot be broken down biologically; e.g., plastics, glass, DDT |
+| **Bioremediation** (जैव उपचारण) | जैव उपचारण | Using microorganisms to clean up pollutants |
+| **Nitrogen Cycle** (नाइट्रोजन चक्र) | नाइट्रोजन चक्र | Cycling of nitrogen through atmosphere, soil, plants, animals |
+| **Carbon Cycle** (कार्बन चक्र) | कार्बन चक्र | Cycling of carbon through photosynthesis, respiration, decomposition |
+| **Food Web** (आहार जाल) | आहार जाल | Complex network of food chains in an ecosystem |
+| **Biogas** (बायोगैस) | बायोगैस | Methane (55-75%) + CO2; produced by anaerobic digestion of organic matter |
+| **Composting** (खाद बनाना) | कम्पोस्टिंग | Aerobic decomposition of organic matter to make compost/manure |
+| **Ecosystem** (पारितंत्र) | पारितंत्र | Community of living organisms + their physical environment |
+| **Biodiversity** (जैव विविधता) | जैव विविधता | Variety of life on Earth at genetic, species, and ecosystem levels |
+
+---
+
+## One-Liner Revision -- Microbiology, Environment and Applied Science
+
+| # | Fast Fact |
+|---|---|
+| 1 | Bacteria discovered by = **Antonie van Leeuwenhoek** (1676, using microscope) |
+| 2 | Germ Theory of Disease = **Louis Pasteur** (France) and Robert Koch (Germany) |
+| 3 | Koch's Postulates = rules to establish pathogen causes a specific disease |
+| 4 | Penicillin = from *Penicillium notatum*; discovered by **Alexander Fleming (1928)** |
+| 5 | Streptomycin = discovered by **Selman Waksman (1943)**; Nobel 1952; treats TB |
+| 6 | Pasteurisation (milk) = 72°C for 15 seconds (HTST) OR 63°C for 30 min (LTST) |
+| 7 | Virus = DNA OR RNA (never both) + protein coat (capsid); no metabolism outside host |
+| 8 | Largest virus = Mimivirus / Pandoravirus; Smallest virus = Parvovirus |
+| 9 | Prions = misfolded proteins; cause Creutzfeldt-Jakob Disease (CJD) / mad cow disease |
+| 10 | Viroids = smallest known infectious agents; only RNA, no protein coat; infect plants |
+| 11 | Mycology = study of fungi; Bacteriology = study of bacteria; Virology = study of viruses |
+| 12 | Yeast = unicellular fungus; used in baking (CO2) and brewing (ethanol) |
+| 13 | Biogas composition = **Methane (55-75%)** + CO2 (25-45%) + trace gases |
+| 14 | Biogas plants = use cow dung + water; anaerobic fermentation; produces CH4 |
+| 15 | Composting = aerobic breakdown; humus-rich dark material; improves soil fertility |
+| 16 | Vermicomposting = earthworm-based composting; best compost quality |
+| 17 | Nitrogen cycle steps: Fixation -> Nitrification -> Assimilation -> Ammonification -> Denitrification |
+| 18 | Denitrification = conversion of nitrates back to N2 gas; by Pseudomonas denitrificans |
+| 19 | Biodiversity hotspots globally = **36** (CI criteria: >1,500 endemic plants + >70% habitat lost) |
+| 20 | India's biodiversity hotspots = **4**: Western Ghats, Eastern Himalayas, Indo-Burma, Sundaland |
+| 21 | IUCN Red List categories: Extinct > EW > Critical > Endangered > Vulnerable > NT > LC |
+| 22 | Project Tiger (1973) = conservation of Bengal Tiger; 53 tiger reserves in India |
+| 23 | Convention on Biological Diversity (CBD) = **1992**, Rio de Janeiro; India ratified 1994 |
+| 24 | Ramsar Convention (1971) = protection of **wetlands**; Ramsar, Iran |
+| 25 | India's Ramsar sites = **75+** (largest number of wetland sites in South Asia) |
+| 26 | Biopesticide example: **Bacillus thuringiensis (Bt)** toxin against Lepidoptera larvae |
+| 27 | Biofertiliser = Rhizobium, Azotobacter, Blue-Green Algae (BGA/Anabaena), Azolla |
+| 28 | Eutrophication = excess N + P in water -> algae bloom -> hypoxia -> dead zone |
+| 29 | BOD (Biochemical Oxygen Demand) = measures organic pollution in water; high BOD = more pollution |
+| 30 | One-Health concept = human health, animal health, and environment are interconnected |
+

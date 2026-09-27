@@ -28,6 +28,7 @@
 ---
 
 ## Consolidated — 50 Must-Score Facts
+
 1. **Luminous vs Non-Luminous Bodies**: A luminous object emits its own light (Sun, candle flame, electric lamp). The **Moon is non-luminous**; it is visible solely because it reflects incident sunlight.
 2. **Speed of Light Hierarchy**: In vacuum, speed of light is maximum: $c = 3.0 \times 10^8\text{ m/s}$. In water: $2.25 \times 10^8\text{ m/s}$; in glass: $2.0 \times 10^8\text{ m/s}$; in diamond: $1.24 \times 10^8\text{ m/s}$. Speed is minimum in diamond (highest refractive index $\approx 2.42$).
 3. **Speed of Light in Water vs Vacuum**: $\frac{v_{\text{water}}}{c} = \frac{2.25 \times 10^8}{3.0 \times 10^8} = \mathbf{0.75}$ (three-fourths), NOT $0.95$.
@@ -44,21 +45,13 @@
 14. **Critical Angles for Common Media**: Water-air: $i_c \approx 48.75^\circ$; Glass-air: $i_c \approx 41.14^\circ$; Diamond-air: $i_c \approx \mathbf{24.4^\circ}$ (extremely small, causing repeated internal reflections).
 15. **Sparkle of Diamond**: A cut diamond's brilliant sparkle is due to **Total Internal Reflection** enabled by its very high refractive index ($2.42$) and tiny critical angle ($24.4^\circ$).
 16. **Applications of TIR**:
-    - **Optical Fibres**: Core (higher $\mu$) surrounded by cladding (lower $\mu$); transmits light pulses with virtually zero loss. Free from electromagnetic interference.
-    - **Endoscope**: Medical diagnostic tool using flexible fiber optic bundles to view internal hollow organs via TIR.
-    - **Mirage Formation**: Optical illusion in deserts caused by total internal reflection across hot, less dense ground air layers.
-    - **Traffic Signal Glass Beads**: Tiny retroreflective glass beads reflect vehicle headlights directly back via TIR.
 17. **Soap Film & Bubble Colours**: The shimmering rainbow colors seen on soap bubbles and oil films in daylight are produced by the **Interference of light** reflecting from front and back surfaces.
 18. **Compact Disc (CD) Iridescence**: A CD viewed in sunlight displays brilliant rainbow colors due to **Reflection and Diffraction** of light from microscopic pits and tracks behaving as a diffraction grating.
 19. **Dispersion in a Prism**: White light splits into 7 constituent colors (VIBGYOR). **Violet light has the shortest wavelength, highest frequency, travels slowest in glass, has highest refractive index, and deviates the most**. **Red light has the longest wavelength, lowest frequency, travels fastest in glass, has lowest refractive index, and deviates the least**.
 20. **Rainbow Formation Physics**: Rainbows are formed by the combined action of **refraction, dispersion, and total internal reflection** within falling raindrops.
 21. **Rainbow Colors and Position**:
-    - Primary Rainbow: Red on outer edge, Violet on inner edge; **Green is in the middle**.
-    - Geometry: Rainbow is always formed in the direction **opposite to the Sun**. Therefore, a rainbow **can NEVER be seen at 12:00 noon** when the Sun is overhead.
 22. **Rayleigh's Law of Scattering**: The intensity of scattered light is inversely proportional to the fourth power of its wavelength: $I \propto \frac{1}{\lambda^4}$. Shorter wavelengths (blue/violet) scatter $\approx 16$ times more than red.
 23. **Blue Sky & Red Sunset**:
-    - Sky appears blue because atmospheric nitrogen and oxygen molecules scatter short blue wavelengths far more effectively than red.
-    - At sunrise and sunset, sunlight travels through maximum atmospheric path length; blue light is scattered away, leaving predominantly unscattered **red light** to reach the eye.
 24. **Sky Appearance to Astronauts & High-Altitude Flyers**: At very high altitudes or in outer space where there is no atmosphere to scatter light, the sky appears **completely black**.
 25. **Red Danger Signals**: Red light has the longest visible wavelength and suffers the **least atmospheric scattering**, allowing it to penetrate fog and smoke and remain visible from the greatest distance.
 26. **Green Grass Appearance**: Grass appears green because its chlorophyll **reflects green light** while absorbing red, blue, and other wavelengths.
@@ -69,20 +62,9 @@
 31. **Images Between Parallel Mirrors**: When an object is placed between two parallel plane mirrors ($\theta = 0^\circ$), the number of images formed is **infinite ($\infty$)**.
 32. **Formula for Number of Images**: If two mirrors are inclined at angle $\theta$: $n = \frac{360^\circ}{\theta} - 1$ (if $360/\theta$ is even).
 33. **Concave Mirror (Converging Mirror)**:
-    - Inner curved reflecting surface. Forms real, inverted images for objects beyond focus; forms **virtual, erect, and magnified image** when object is placed between pole and focus.
-    - Uses: Shaving mirrors, dentist head mirrors, car headlights, searchlights, and solar furnaces.
-    - Object at Centre of Curvature ($C$): Forms image at $C$, **real, inverted, and of exactly the same size**.
 34. **Convex Mirror (Diverging Mirror)**:
-    - Outward curved reflecting surface. Always forms a **virtual, erect, and diminished image** behind the mirror.
-    - Uses: **Rear-view side mirrors in automobiles** because it offers an exceptionally wide field of view.
 35. **Convex Lens (Converging Lens)**:
-    - Thicker at center, thinner at edges. Positive focal length ($f > 0$).
-    - Used in magnifying glasses (object between focus and optical center yields erect, enlarged, virtual image), microscopes, and cameras.
-    - Used to correct **Hypermetropia (far-sightedness)**.
 36. **Concave Lens (Diverging Lens)**:
-    - Thinner at center, thicker at edges. Negative focal length ($f < 0$).
-    - Always forms virtual, erect, and diminished images.
-    - Used to correct **Myopia (near-sightedness)**.
 37. **Air Bubble in Water**: An air bubble trapped inside water has convex physical surfaces, but because the refractive index of water ($1.33$) is greater than air ($1.0$), it behaves optically as a **concave (divergent) lens**.
 38. **Convex + Concave Lens in Contact**: If a convex lens and concave lens of identical focal length are placed in contact, their combined focal length is $1/F = 1/f - 1/f = 0 \implies F = \infty$. The combination acts as a **flat plane glass sheet**.
 39. **Power of Lens ($P$)**: Defined as the reciprocal of focal length in metres: $P = \frac{1}{f(\text{m})}$. Measured in **Dioptres ($D$)**. Converging (convex) lens has positive power ($+D$); diverging (concave) lens has negative power ($-D$).
@@ -99,20 +81,6 @@
 50. **Raman Effect**: Inelastic scattering of light photons when traversing any transparent medium (solid, liquid, or gas), discovered by Sir C.V. Raman (Nobel Prize 1930).
 
 ---
-
-51. **Holography (3D Imaging)**: Optical technique of recording and reproducing true **three-dimensional images** of objects using coherent laser interference and diffraction, without requiring imaging lenses.
-52. **Roster Scan in Displays**: Used in Cathode Ray Tube (CRT) monitors where an electron beam is steered horizontally and vertically across a phosphor-coated screen to generate a rasterized visual image.
-53. **Diffusion of Light in Atmosphere**: Light from the Sun is scattered and diffused throughout the sky primarily by **suspended microscopic dust particles, aerosols, and air molecules**.
-54. **CD Audio Playback & Iridescence**: A Compact Disc (CD) player uses a fine **semiconductor laser beam** to read microscopic pits; when held in sunlight, it displays vivid rainbow bands due to **reflection and diffraction** from its tracks acting as a reflective grating.
-55. **Solar Eclipse Retinal Hazard**: Directly observing a solar eclipse without specialized filters causes permanent photochemical retinal burns caused primarily by invisible **ultraviolet (UV) radiation**.
-56. **Star Color Indicates Temperature**: The observed spectrum and color of a distant star reflect its surface temperature (Wien's Law): **Blue/white stars are young and extremely hot**, while **red stars are cool and evolved**.
-57. **Relativistic Redshift of Spacecraft**: A receding rocketship travelling at $0.2c$ emitting blue light appears **yellow-orange** to a stationary observer on Earth due to the relativistic Doppler redshift.
-58. **Two Thin Lenses in Contact**: Placing a convex lens and a concave lens of identical focal length ($f$) in contact yields net focal length $\frac{1}{F} = \frac{1}{f} - \frac{1}{f} = 0 \implies F = \mathbf{\infty}$. The combination behaves as a **flat plane glass sheet**.
-59. **Motion Picture Frame Rate**: Films are projected at **24 frames per second** because human retinal persistence of vision lasts for **$1/16\text{th}$ of a second**, seamlessly blending static frames into continuous motion.
-60. **Binocular Stereoscopic Vision**: Having two forward-facing eyes viewing objects from slightly separated angles produces stereopsis in the brain, dramatically enhancing **depth perception and three-dimensional distance judgment**.
-61. **Optimal Umbrella Design**: An umbrella with a **white top and black bottom** is most effective against heat: the white outer canopy reflects incident solar radiation, while the black underside absorbs ambient ground-reflected heat and glare.
-62. **Astronomical Optical Illusions**: The enlarged apparent size of the Sun at dusk, the crimson color of the Sun at dawn, and the twinkling of stars are **optical illusions** caused by atmospheric refraction and scattering. (The Moon or Polestar being visible are physical facts, NOT illusions).
-
 ## Confused Pairs
 | Quantities / Optical Concepts | Critical Distinction & Common Trap Alert |
 |---|---|
@@ -336,6 +304,23 @@
 | **Red** | $625 - 750$ | $6250 - 7500$ | **Minimum** | **Minimum** (Used in danger signals) | Low ($1.98 - 1.65\text{ eV}$) |
 
 ---
+
+
+## Teaching expansion — additional theory (beyond Consolidated spine)
+
+These points sit in teaching theory (not the Consolidated spine).
+
+- **Holography (3D Imaging)**: Optical technique of recording and reproducing true **three-dimensional images** of objects using coherent laser interference and diffraction, without requiring imaging lenses.
+- **Roster Scan in Displays**: Used in Cathode Ray Tube (CRT) monitors where an electron beam is steered horizontally and vertically across a phosphor-coated screen to generate a rasterized visual image.
+- **Diffusion of Light in Atmosphere**: Light from the Sun is scattered and diffused throughout the sky primarily by **suspended microscopic dust particles, aerosols, and air molecules**.
+- **CD Audio Playback & Iridescence**: A Compact Disc (CD) player uses a fine **semiconductor laser beam** to read microscopic pits; when held in sunlight, it displays vivid rainbow bands due to **reflection and diffraction** from its tracks acting as a reflective grating.
+- **Solar Eclipse Retinal Hazard**: Directly observing a solar eclipse without specialized filters causes permanent photochemical retinal burns caused primarily by invisible **ultraviolet (UV) radiation**.
+- **Star Color Indicates Temperature**: The observed spectrum and color of a distant star reflect its surface temperature (Wien's Law): **Blue/white stars are young and extremely hot**, while **red stars are cool and evolved**.
+- **Relativistic Redshift of Spacecraft**: A receding rocketship travelling at $0.2c$ emitting blue light appears **yellow-orange** to a stationary observer on Earth due to the relativistic Doppler redshift.
+- **Two Thin Lenses in Contact**: Placing a convex lens and a concave lens of identical focal length ($f$) in contact yields net focal length $\frac{1}{F} = \frac{1}{f} - \frac{1}{f} = 0 \implies F = \mathbf{\infty}$. The combination behaves as a **flat plane glass sheet**.
+- **Motion Picture Frame Rate**: Films are projected at **24 frames per second** because human retinal persistence of vision lasts for **$1/16\text{th}$ of a second**, seamlessly blending static frames into continuous motion.
+- **Optimal Umbrella Design**: An umbrella with a **white top and black bottom** is most effective against heat: the white outer canopy reflects incident solar radiation, while the black underside absorbs ambient ground-reflected heat and glare.
+- **Astronomical Optical Illusions**: The enlarged apparent size of the Sun at dusk, the crimson color of the Sun at dawn, and the twinkling of stars are **optical illusions** caused by atmospheric refraction and scattering. (The Moon or Polestar being visible are physical facts, NOT illusions).
 
 ## Complete PYQ Bank — UPPCS
 
@@ -1378,3 +1363,65 @@ Raman scattering involves inelastic scattering of light photons through all tran
 8. **Soap Bubble / Film Colors**: Caused by **interference**, NOT dispersion or prism refraction!
 9. **Eye Sensitivity**: The human eye is most sensitive to **yellowish-green ($555\text{ nm}$)**, NOT red or blue.
 10. **Telescope Aperture and Resolution**: Larger objective lens aperture **increases resolution and light-gathering power**, decreasing diffraction blur.
+
+
+---
+
+## Bilingual Terminology -- Light, Optics and Laser
+
+| English Term | Hindi Term | Key Anchor |
+|---|---|---|
+| **Light** (प्रकाश) | प्रकाश | Electromagnetic radiation visible to human eye; 400-700 nm |
+| **Reflection** (परावर्तन) | परावर्तन | Bouncing back of light from a surface |
+| **Refraction** (अपवर्तन) | अपवर्तन | Bending of light when passing from one medium to another |
+| **Refractive Index** (अपवर्तनांक) | अपवर्तनांक | n = speed of light in vacuum / speed of light in medium |
+| **Total Internal Reflection** (पूर्ण आन्तरिक परावर्तन) | पूर्ण आन्तरिक परावर्तन | Light reflects back inside denser medium; basis of optical fibre |
+| **Lens** (लेंस) | लेंस | Transparent object that refracts light; converging (convex) / diverging (concave) |
+| **Mirror** (दर्पण) | दर्पण | Smooth reflective surface; plane, concave (converging), convex (diverging) |
+| **Dispersion** (प्रकाश का प्रकीर्णन) | प्रकाश का वर्ण-विक्षेपण | Splitting of white light into VIBGYOR spectrum (by prism) |
+| **VIBGYOR** | बैनीआहपीनाला | Violet, Indigo, Blue, Green, Yellow, Orange, Red |
+| **Scattering** (प्रकाश प्रकीर्णन) | प्रकीर्णन | Redirection of light by particles; Rayleigh scattering (sky is blue) |
+| **Optical Fibre** (प्रकाशिक तंतु) | प्रकाशिक तंतु | Carries light by total internal reflection; used in telecom, endoscopy |
+| **LASER** (लेजर) | लेज़र | Light Amplification by Stimulated Emission of Radiation; monochromatic, coherent |
+| **Myopia** (निकट दृष्टि दोष) | निकट दृष्टि / मायोपिया | Cannot see far; corrected by **concave lens** |
+| **Hypermetropia** (दूर दृष्टि दोष) | दूर दृष्टि / हाइपरमेट्रोपिया | Cannot see near; corrected by **convex lens** |
+| **Astigmatism** (दृष्टिवैषम्य) | दृष्टिवैषम्य | Uneven curvature of cornea; blurred vision; cylindrical lens |
+| **Presbyopia** (जरा दूर दृष्टिता) | जरा दूर दृष्टि | Age-related vision problem; bifocal lens (invented by Benjamin Franklin) |
+
+---
+
+## One-Liner Revision -- Light, Optics and Laser
+
+| # | Fast Fact |
+|---|---|
+| 1 | Speed of light in vacuum (c) = **3 x 10^8 m/s** (299,792,458 m/s exactly) |
+| 2 | Light is both wave (interference, diffraction) and particle (photoelectric effect) |
+| 3 | Visible spectrum = 400-700 nm; violet (400nm) to red (700nm) |
+| 4 | VIBGYOR spectrum: Violet has shortest wavelength; Red has longest wavelength |
+| 5 | Speed of light = lowest in **diamond** (n=2.42; highest refractive index) |
+| 6 | Laws of reflection: angle of incidence = angle of reflection; in same plane |
+| 7 | Concave mirror = **converging** mirror; used in torches, telescopes, solar furnaces |
+| 8 | Convex mirror = **diverging** mirror; used in rear-view mirrors, security mirrors |
+| 9 | Convex lens = **converging**; used in magnifying glass, camera, eye |
+| 10 | Concave lens = **diverging**; corrects myopia (short-sightedness) |
+| 11 | Myopia = cannot see far; eyeball too long; corrected by **concave lens** |
+| 12 | Hypermetropia = cannot see near; eyeball too short; corrected by **convex lens** |
+| 13 | Presbyopia = old-age vision; bifocals (convex for near, concave for far) |
+| 14 | Total Internal Reflection occurs when light goes from **denser to rarer** medium above critical angle |
+| 15 | Diamond sparkles due to **total internal reflection** (critical angle = 24.4 deg) |
+| 16 | Optical fibre uses TIR to transmit light signals; glass/silica core |
+| 17 | Sky is blue = **Rayleigh scattering**; blue light scattered more (shorter wavelength) |
+| 18 | Sunset/sunrise red = blue scattered away; long-wavelength red remains |
+| 19 | Mirages = due to total internal reflection of light in hot air layers near ground |
+| 20 | Rainbow = formed by reflection + refraction + dispersion in water droplets |
+| 21 | Dispersion: violet light bends most; red light bends least (through prism) |
+| 22 | Primary colours of light = Red, Green, Blue (RGB) -- additive mixing |
+| 23 | Primary colours of pigment = Red, Yellow, Blue (RYB) -- subtractive mixing |
+| 24 | LASER = monochromatic (one wavelength) + coherent + collimated beam |
+| 25 | First working laser = **Theodore Maiman (1960)**; used ruby crystal |
+| 26 | LASER used in: surgery, CD/DVD, barcode scanner, laser cutting, LIDAR |
+| 27 | Holography = 3D image using laser; invented by **Dennis Gabor (1948)**; Nobel 1971 |
+| 28 | Photoelectric effect = Einstein (1905); Nobel 1921; basis of solar cells, photomultipliers |
+| 29 | Endoscopy = uses optical fibres to view internal organs without surgery |
+| 30 | Periscope = uses two plane mirrors at 45 deg; used in submarines |
+

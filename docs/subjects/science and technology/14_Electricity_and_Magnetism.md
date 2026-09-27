@@ -3493,3 +3493,65 @@ MW).
    - Graphite is used exclusively in the **ANODE** of Lithium-ion batteries. Cathodes use Cobalt, Lithium, and Nickel (NMC) or Iron (LFP).
 5. **The "Fuse Wire has High Melting Point" Trap:**
    - A fuse wire must have **HIGH RESISTIVITY and a LOW MELTING POINT ($183^\circ\text{C}$)** so that it melts rapidly during an overcurrent surge.
+
+
+---
+
+## Bilingual Terminology -- Electricity and Magnetism
+
+| English Term | Hindi Term | Key Anchor |
+|---|---|---|
+| **Electric Charge** (विद्युत आवेश) | विद्युत आवेश | Fundamental property; positive (proton) or negative (electron); SI unit = Coulomb |
+| **Electric Current** (विद्युत धारा) | विद्युत धारा | Flow of electric charge; I = Q/t; SI unit = Ampere (A) |
+| **Voltage / EMF** (विभवान्तर / विद्युत वाहक बल) | विद्युत विभव | Electric potential difference; drives current; SI unit = Volt (V) |
+| **Resistance** (प्रतिरोध) | प्रतिरोध | Opposition to current flow; R = V/I; SI unit = Ohm (omega) |
+| **Ohm's Law** (ओम का नियम) | ओम का नियम | V = IR; current proportional to voltage at constant temp |
+| **Conductors** (चालक) | विद्युत चालक | Allow electricity to flow; metals, graphite |
+| **Insulators** (विद्युतरोधी) | विद्युतरोधी | Resist current; rubber, glass, wood, plastic |
+| **Semiconductors** (अर्धचालक) | अर्धचालक | Between conductor and insulator; silicon, germanium; basis of electronics |
+| **Power** (शक्ति) | शक्ति | P = VI = I^2 R = V^2/R; SI unit = Watt (W) |
+| **Magnet** (चुम्बक) | चुम्बक | Object that produces magnetic field; attracts iron, nickel, cobalt |
+| **Electromagnetism** (विद्युत चुम्बकत्व) | विद्युत चुम्बकत्व | Current produces magnetic field; basis of motors, generators |
+| **Faraday's Law** (फैराडे का नियम) | फैराडे का नियम | Changing magnetic flux induces EMF; basis of generators/transformers |
+| **Transformer** (ट्रांसफार्मर) | परिणामित्र | Step-up or step-down AC voltage; works on mutual induction |
+| **AC / DC** (प्रत्यावर्ती / दिष्ट धारा) | AC / DC | AC = alternating current (direction changes); DC = direct current |
+| **Earthing** (भूसंपर्क) | अर्थिंग | Safety connection to ground; prevents electric shock |
+| **Fuse** (फ्यूज) | फ्यूज | Safety device; thin wire that melts on excess current (made of tin-lead alloy) |
+
+---
+
+## One-Liner Revision -- Electricity and Magnetism
+
+| # | Fast Fact |
+|---|---|
+| 1 | Charge on electron = -1.6 x 10^-19 C; proton = +1.6 x 10^-19 C |
+| 2 | 1 Coulomb = charge of 6.24 x 10^18 electrons |
+| 3 | Ohm's Law: V = IR (Voltage = Current x Resistance) |
+| 4 | Resistance of wire: R = rho x L / A (longer and thinner = higher resistance) |
+| 5 | Series circuit: same current; resistances add (R_total = R1 + R2) |
+| 6 | Parallel circuit: same voltage; conductances add (1/R_total = 1/R1 + 1/R2) |
+| 7 | Power consumed: P = VI = I^2 R = V^2/R |
+| 8 | Household supply (India) = 220V, 50Hz AC |
+| 9 | Fuse wire = tin-lead alloy; low melting point; melts to break circuit on overload |
+| 10 | MCB (Miniature Circuit Breaker) = modern fuse; can be reset; trips on overload |
+| 11 | Earth wire = green/yellow; safety; carries fault current to earth |
+| 12 | Neutral wire = blue/black; Live/Phase wire = red/brown |
+| 13 | Short circuit = live and neutral wires touch directly; large current; fire risk |
+| 14 | Fleming's Left Hand Rule = direction of force on current-carrying conductor in magnetic field |
+| 15 | Fleming's Right Hand Rule = direction of induced EMF in generator |
+| 16 | Faraday's Law: induced EMF proportional to rate of change of magnetic flux |
+| 17 | Lenz's Law: induced current opposes the change causing it (conservation of energy) |
+| 18 | Transformer: step-up (V2>V1, N2>N1); step-down (V2<V1, N2<N1) |
+| 19 | Electric motor: converts electrical energy to mechanical energy |
+| 20 | Generator/Dynamo: converts mechanical energy to electrical energy |
+| 21 | AC generator uses **slip rings**; DC generator uses **split-ring commutator** |
+| 22 | Magnetic poles: like poles repel, unlike poles attract |
+| 23 | Earth's magnetic pole (north seeking) = geographic south pole of Earth |
+| 24 | Magnetic declination = angle between geographic north and magnetic north |
+| 25 | Solenoid with current = acts as bar magnet; strength increases with turns and current |
+| 26 | Electromagnet = soft iron core + coil; temporary; used in cranes, MRI, doorbells |
+| 27 | MRI (Magnetic Resonance Imaging) = uses strong magnetic field + radio waves |
+| 28 | Lightning conductor = iron rod on tall buildings; safely channels lightning to earth |
+| 29 | Electric bell works on: **electromagnetic induction + make-and-break circuit** |
+| 30 | Galvanometer = detects small currents; can be converted to voltmeter (series R) or ammeter (parallel R) |
+

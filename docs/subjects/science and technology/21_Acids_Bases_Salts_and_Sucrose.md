@@ -2867,3 +2867,65 @@ of electricity because absence of free electrons.
 | **Kidney Stone Composition** | Assuming kidney stones are made of uric acid or calcium carbonate. | $\approx 80\%$ of kidney stones are composed of insoluble **Calcium Oxalate ($CaC_2O_4$)**. |
 | **Aspartame Cooking Trap** | Thinking aspartame can be used in baked goods. | Aspartame **decomposes at cooking temperatures**; only sucralose and saccharin are heat-stable. |
 | **Turmeric Color in Base** | Expecting turmeric to turn blue or green in base. | Turmeric turns **reddish-brown in basic solutions** (like soap), and stays yellow in acids. |
+
+
+---
+
+## Bilingual Terminology -- Acids, Bases, Salts and Sucrose
+
+| English Term | Hindi Term | Key Anchor |
+|---|---|---|
+| **Acid** (अम्ल) | अम्ल | Donates H+ (proton); pH < 7; sour taste; turns blue litmus red |
+| **Base** (क्षार) | क्षार | Accepts H+ (proton); pH > 7; bitter taste, soapy feel; turns red litmus blue |
+| **Alkali** (क्षारक) | क्षारक | Water-soluble base; NaOH, KOH, Ca(OH)2 |
+| **pH** (पीएच) | pH / पीएच | Negative log of H+ concentration; 0-14 scale; 7 = neutral |
+| **Neutralisation** (उदासीनीकरण) | उदासीनीकरण | Acid + Base -> Salt + Water; exothermic |
+| **Salt** (लवण) | लवण | Product of acid-base reaction; e.g., NaCl, CaCO3, CuSO4 |
+| **Indicator** (सूचक) | सूचक | Substance that changes colour with pH; litmus, phenolphthalein, methyl orange |
+| **Buffer** (बफर) | बफर | Resists change in pH; e.g., blood pH 7.4 maintained by H2CO3/HCO3- |
+| **Bleaching Powder** (विरंजक चूर्ण) | विरंजक चूर्ण / ब्लीचिंग पाउडर | Ca(OCl)Cl; used for bleaching, disinfecting water |
+| **Plaster of Paris** (प्लास्टर ऑफ पेरिस) | पेरिस प्लास्टर | CaSO4.1/2H2O; sets hard by absorbing water; used in fractures, moulds |
+| **Washing Soda** (धावन सोडा) | धावन सोडा | Na2CO3.10H2O; removes permanent hardness; used in glass, soap making |
+| **Baking Soda** (बेकिंग सोडा) | मीठा सोडा / खाने का सोडा | NaHCO3; releases CO2 on heating; used in baking, antacids |
+| **Caustic Soda** (दाहक सोडा) | दाहक सोडा / कास्टिक सोडा | NaOH; strong base; soap/paper making; drain cleaner |
+| **Vinegar** (सिरका) | सिरका | Acetic acid solution (4-8% CH3COOH); sour taste |
+| **Hydrochloric Acid** (हाइड्रोक्लोरिक अम्ल) | हाइड्रोक्लोरिक अम्ल | HCl; "muriatic acid"; in gastric juice; strong acid |
+| **Sulphuric Acid** (सल्फ्यूरिक अम्ल) | गंधक का तेजाब | H2SO4; "king of chemicals"; strong acid; highly corrosive |
+
+---
+
+## One-Liner Revision -- Acids, Bases, Salts
+
+| # | Fast Fact |
+|---|---|
+| 1 | pH scale = 0-14; pH < 7 = acid; pH 7 = neutral; pH > 7 = base/alkaline |
+| 2 | Strongest acid = HClO4 (perchloric); in chemistry; practically H2SO4 is "king" |
+| 3 | Common acid in stomach (gastric juice) = **HCl** (hydrochloric acid) |
+| 4 | Formic acid (HCOOH) = in ant sting; methanoic acid; simplest organic acid |
+| 5 | Acetic acid (CH3COOH) = vinegar; ethanoic acid |
+| 6 | Citric acid = lemons, oranges; ascorbic acid = Vitamin C |
+| 7 | Lactic acid = sour milk (curd); produced by Lactobacillus |
+| 8 | Oxalic acid = in spinach/tomato leaves; kidney stone-causing |
+| 9 | Sulphuric acid (H2SO4) = "King of Chemicals"; most produced industrial chemical |
+| 10 | Aqua Regia = 3 parts HCl + 1 part HNO3; dissolves gold and platinum |
+| 11 | Litmus = turns red in acid, blue in base; from lichen (Rocella tinctoria) |
+| 12 | Phenolphthalein = colourless in acid; pink/red in base |
+| 13 | Methyl orange = red in acid; yellow in base |
+| 14 | NaOH (Caustic soda) = used in soap-making, paper, textile |
+| 15 | Ca(OH)2 (slaked lime / calcium hydroxide) = whitewash; water treatment; mortar |
+| 16 | Baking soda (NaHCO3) = antacid for acidity; releases CO2 in baking |
+| 17 | Washing soda (Na2CO3.10H2O) = removes permanent hardness; laundry |
+| 18 | Plaster of Paris (CaSO4.1/2H2O) = made from gypsum (CaSO4.2H2O) by heating |
+| 19 | Bleaching powder Ca(OCl)Cl = disinfects water; bleaches cloth/paper |
+| 20 | Common salt (NaCl) = table salt; from sea water by evaporation or rock salt mines |
+| 21 | Blood pH = 7.4 (slightly basic); maintained by bicarbonate buffer |
+| 22 | Acid rain pH < 5.6 (H2SO4 + HNO3 from SO2 + NOx emissions) |
+| 23 | Antacids = neutralise excess HCl in stomach; Mg(OH)2, Al(OH)3, NaHCO3 |
+| 24 | Hard water + soap = scum (Ca/Mg stearate); soft water lathers well |
+| 25 | Soap is sodium salt of fatty acid; detergent = synthetic sulphonate/sulphate |
+| 26 | Saponification = hydrolysis of fats/oils with NaOH/KOH to make soap + glycerol |
+| 27 | Sugar (sucrose) = C12H22O11; invert sugar = glucose + fructose (after acid hydrolysis) |
+| 28 | Glucose = C6H12O6; dextrose; simplest monosaccharide; brain's primary fuel |
+| 29 | Fructose = fruit sugar; sweetest naturally occurring sugar |
+| 30 | Lactose = milk sugar; disaccharide (glucose + galactose); lactose intolerance = deficiency of lactase |
+

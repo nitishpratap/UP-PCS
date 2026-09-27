@@ -357,6 +357,105 @@ D. Gautam Buddha Nagar
 
 ---
 
+
+### Other Papers — BPSC / MPPSC / RAS / UKPCS / UPSC / WBCS
+
+**Q3. BPSC 70th CCE (Pre) 2024**
+What is the sex ratio in Bihar as per the Census 2011 of India?
+A. 879
+B. 918
+C. 943
+D. 1084
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Neighbour demography — Bihar below national 943.
+
+**Ans: B.** 918.
+
+</details>
+
+**Q4. UKPSC (Pre) 2022**
+Which districts of Uttarakhand recorded negative population growth during 2001–2011?
+A. Dehradun and Haridwar
+B. Pauri Garhwal and Almora
+C. Nainital and Udham Singh Nagar
+D. Champawat and Pithoragarh
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Hill out-migration contrast with UP’s plains growth.
+
+**Ans: B.** Pauri Garhwal and Almora.
+
+</details>
+
+**Q5. UKPSC / Census 2011 UK**
+Literacy rate of Uttarakhand (Census 2011) was about:
+A. 74.04%
+B. 67.7%
+C. 78.82%
+D. 63.8%
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Above national average; Dehradun has the highest district literacy.
+
+**Ans: C.** 78.82%.
+
+</details>
+
+**Q6. RPSC RAS (Pre) 2021**
+According to Census 2011, work participation rate in India and Rajasthan respectively was:
+A. 43.6% and 41.8%
+B. 39.8% and 43.6%
+C. 42.4% and 41.8%
+D. 39.8% and 36.4%
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Comparative labour participation for society Extra Drill.
+
+**Ans: B.** 39.8% (India), 43.6% (Rajasthan).
+
+</details>
+
+**Q7. WBCS (Pre) 2020**
+Literacy rate in West Bengal (Census 2011) is—
+A. 97%
+B. 70%
+C. 80%
+D. 77%
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Comparative State literacy — WB above national 74.04%.
+
+**Ans: D.** About 77%.
+
+</details>
+
+**Q8. UPSC (CSE) Prelims 2011**
+India is regarded as a country with “Demographic Dividend”. This is due to:
+A. Its high population in the age group below 15 years
+B. Its high population in the age group of 15–64 years
+C. Its high population in the age group above 65 years
+D. Its high total population
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Age-structure key for UP society demography.
+
+**Ans: B.** High share in the working-age group 15–64.
+
+</details>
+
 ## Practice Zone
 
 1. According to Census 2011, what percentage of the total population of India resides in Uttar Pradesh?
@@ -650,3 +749,128 @@ D. Gautam Buddha Nagar
 | Trap | Correct |
 |---|---|
 | Mixing Absolute vs % ranks | Match the stem metric first |
+
+
+---
+
+## Bilingual Terminology -- UP Society and Social Issues
+
+| English | Hindi | Key Anchor |
+|---|---|---|
+| **Social Justice** | सामाजिक न्याय | Equitable distribution of rights and opportunities |
+| **OBC Reservation** | अन्य पिछड़ा वर्ग आरक्षण | 27% central; UP OBC reservation = 27% |
+| **SC Reservation** | अनुसूचित जाति आरक्षण | 21% in UP government services |
+| **ST Reservation** | अनुसूचित जनजाति आरक्षण | 2% in UP (limited ST population) |
+| **Gender Ratio** | लिंग अनुपात | UP sex ratio = 912 (2011) -- below national 943 |
+| **Beti Bachao Beti Padhao** | बेटी बचाओ बेटी पढ़ाओ | Scheme to improve sex ratio and female literacy |
+| **Mid-Day Meal** | मध्याह्न भोजन | School lunch programme under National Food Security Act |
+| **Right to Education** | शिक्षा का अधिकार | RTE Act 2009 (Article 21A); free education 6-14 years |
+| **Samagra Shiksha** | समग्र शिक्षा | Merged SSA + RMSA + TE scheme (2018) |
+| **Anganwadi** | आँगनवाड़ी | ICDS centre for pre-school nutrition and care |
+| **ICDS** | समेकित बाल विकास सेवाएँ | Integrated Child Development Services |
+| **Child Labour** | बाल श्रम | Employment of children under 14 years; Child Labour Act 1986 |
+| **Dowry** | दहेज | Illegal under Dowry Prohibition Act, 1961 |
+| **Dalit** | दलित | SC communities; often used to describe marginalised identity |
+| **ASHA** | आशा (Accredited Social Health Activist) | Community health worker under NHM |
+
+---
+
+## Extended Theory -- UP's Social Profile
+
+### Education in UP (Census 2011)
+
+| Indicator | UP (2011) | India (2011) |
+|---|---|---|
+| **Overall Literacy Rate** | 67.7% | 73.0% |
+| **Male Literacy** | 77.3% | 80.9% |
+| **Female Literacy** | 57.2% | 64.6% |
+| **Gender Literacy Gap** | 20.1% | 16.3% |
+| **Highest Literacy District** | Gautam Buddha Nagar (80.12%) | Kerala (94.0%) -- State |
+| **Lowest Literacy District** | Shravasti (46.74%) | Bihar (61.8%) -- State |
+
+### Key Social Welfare Schemes in UP
+
+| Scheme | Purpose | Year |
+|---|---|---|
+| **UP CM Bal Seva Yojana** | Aid to children who lost parents to COVID-19 | 2021 |
+| **Kanya Sumangala Yojana** | Financial support to girl child at 6 life stages | 2019 |
+| **UP Vriddha Pension** | Old-age pension for senior citizens | Ongoing |
+| **Beti Bachao Beti Padhao** | Sex ratio improvement and girl education | 2015 (national) |
+| **Mukhyamantri Abhyudaya Yojana** | Free coaching for competitive exams (IAS, NEET, etc.) | 2021 |
+| **Mission Shakti** | Women safety and empowerment | 2020 |
+| **UP Free Smartphone/Tablet** | Digital access for youth | 2021 |
+
+---
+
+## UKPCS / MPPSC / BPSC Extra Drill -- UP Society
+
+**Q1. UKPCS (Pre) 2021**
+Which district of Uttar Pradesh has the lowest female literacy rate as per Census 2011?
+A. Bahraich
+B. Balrampur
+C. Shravasti
+D. Badaun
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** **Shravasti** has the lowest female literacy rate in UP (34.78%), followed by Balrampur (38.43%) and Bahraich (39.18%). Shravasti also has the lowest overall literacy rate (46.74%).
+
+**Ans: C.** Shravasti.
+
+</details>
+
+**Q2. MPPSC (Pre) 2021**
+The 'Right to Education' Act 2009 provides free and compulsory education to children in which age group?
+A. 5-14 years
+B. 6-14 years
+C. 5-16 years
+D. 6-18 years
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** RTE Act, 2009 (implemented under Article 21A inserted by 86th Amendment, 2002) guarantees free and compulsory elementary education to all children in the age group of **6-14 years**.
+
+**Ans: B.** 6-14 years.
+
+</details>
+
+**Q3. BPSC-type**
+The 'Kanya Sumangala Yojana' of Uttar Pradesh provides financial support to a girl child at how many stages of her life?
+A. 4
+B. 5
+C. 6
+D. 7
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Under **Kanya Sumangala Yojana** (launched 2019), financial aid of Rs 15,000 total is disbursed in **6 stages**: at birth, vaccination completion, Class 1 admission, Class 6 admission, Class 9 admission, and graduation/diploma.
+
+**Ans: C.** 6 stages.
+
+</details>
+
+---
+
+## One-Liner Revision -- UP Society and Education
+
+| # | Fast Fact |
+|---|---|
+| 1 | UP literacy rate (2011) = **67.7%** (M: 77.3%, F: 57.2%) |
+| 2 | UP gender literacy gap = **20.1%** (higher than national 16.3%) |
+| 3 | Lowest literacy district in UP = **Shravasti (46.74%)** |
+| 4 | Highest literacy district in UP = **Gautam Buddha Nagar (80.12%)** |
+| 5 | Lowest female literacy in UP = **Shravasti (34.78%)** |
+| 6 | UP sex ratio (2011) = **912** (below national 943) |
+| 7 | UP child sex ratio (2011) = **902** (below national 919) |
+| 8 | UP SC population = **20.70%** of UP (4.14 Crore -- largest in India) |
+| 9 | RTE Act 2009 = free education for **6-14 years** (Article 21A) |
+| 10 | ICDS = pre-school nutrition via **Anganwadi** centres |
+| 11 | ASHA = Accredited Social Health Activist (NHM frontline worker) |
+| 12 | Kanya Sumangala Yojana (2019) = Rs 15,000 in **6 life stages** |
+| 13 | Mission Shakti (2020) = UP women safety campaign |
+| 14 | Mukhyamantri Abhyudaya Yojana (2021) = free exam coaching |
+| 15 | Samagra Shiksha (2018) = merged SSA + RMSA + TE |
+

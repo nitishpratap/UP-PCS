@@ -24,7 +24,7 @@ Nervous System Anatomy: Neuron, Synapse, Neurotransmitters, Meninges (Duramater,
 
 ---
 
-## Consolidated — 45 Must-Score Facts
+## Consolidated — 31 Must-Score Facts
 
 1. The structural and functional unit of the nervous system is the **Neuron**; adult neurons reside permanently in the quiescent $G_0$ phase of the cell cycle and **do not divide** (lack active centrioles).
 2. A typical neuron consists of a **Cell Body (Soma/Cyton)** containing Nissl's granules, short branched receptive **Dendrites**, and a single long conducting **Axon** terminating in synaptic knobs; myelin sheath in the peripheral nervous system is secreted by **Schwann cells**.
@@ -38,138 +38,27 @@ Nervous System Anatomy: Neuron, Synapse, Neurotransmitters, Meninges (Duramater,
 10. Autonomic Nervous System (ANS): **Sympathetic System** prepares the body for intense physical exertion ("Fight or Flight": dilates pupils, accelerates heart, dilates bronchi, inhibits gut peristalsis); **Parasympathetic System** restores calm ("Rest and Digest": constricts pupils, slows heart, stimulates digestive peristalsis and salivation).
 11. A **Reflex Arc** is an involuntary, rapid, automated, stereotyped response to a sensory stimulus that does not require conscious intervention by the cerebral cortex; sequential pathway: **Receptor → Sensory (Afferent) Neuron → Spinal Cord Interneuron → Motor (Efferent) Neuron → Effector Muscle / Gland**.
 12. **The Human Eye**:
-    - **Cornea**: Non-vascular, transparent anterior window of the fibrous tunic; performs **~70–80% of total light refraction**; in eye transplantation surgeries, only the **cornea** is transplanted from a deceased donor (has no blood supply, so rarely rejected).
-    - **Iris**: Coloured muscular diaphragm that controls the diameter of the central aperture, the **Pupil**, regulating the quantum of light entering the eye.
-    - **Crystalline Lens**: Transparent, biconvex, elastic protein structure held by suspensory ligaments (zonules) attached to the ciliary body; ciliary muscles change lens curvature to focus near and far objects on the retina (**Accommodation**).
-    - **Retina**: Sensory neuro-epithelial layer acting as the screen of the eye; houses two types of photoreceptor cells:
-      - **Rods (~120 million)**: Contain the purplish-red photopigment **Rhodopsin** (visual purple, containing retinal derived from **Vitamin A**); responsible for twilight, dim-light, night vision (**Scotopic Vision**); cannot distinguish colours.
-      - **Cones (~6 million)**: Contain photopigments sensitive to red, green, and blue light; responsible for bright daylight vision (**Photopic Vision**) and sharp colour discrimination.
-    - **Fovea Centralis (Yellow Spot / Macula Lutea)**: Central depression of the retina populated exclusively by densely packed cones; point of **greatest visual resolution and sharpest sight**.
-    - **Blind Spot (Optic Disc)**: Point on the retina where optic nerve fibres converge and exit toward the brain; contains **zero rods and cones**; completely insensitive to light.
 13. Common Optical & Ocular Defects:
-    - **Myopia (Near-sightedness / Short-sightedness)**: Eyeball is abnormally elongated from front to back, or lens curvature is too excessive; parallel rays from distant objects converge and form an image **IN FRONT OF the retina**; corrected by wearing spectacles with **Concave (Diverging) Lenses**.
-    - **Hypermetropia (Far-sightedness / Long-sightedness)**: Eyeball is abnormally short, or lens is too flat; rays from near objects converge **BEHIND the retina**; corrected by **Convex (Converging) Lenses**.
-    - **Presbyopia**: Age-related gradual loss of ciliary muscle power and progressive hardening/inflexibility of the crystalline lens in elderly individuals ($>40$ years), making reading difficult; corrected by **Bifocal Lenses** (upper portion concave for distance, lower portion convex for reading).
-    - **Astigmatism**: Asymmetrical, non-uniform curvature of the cornea or lens; light rays focus on different planes, causing distorted vision in both vertical and horizontal axes; corrected by **Cylindrical Lenses**.
-    - **Cataract (मोतियाबिंद)**: Progressive clouding and complete opacity of the natural crystalline lens due to protein aggregation (denaturation); causes scattered light and progressive blindness; corrected surgically by removing the opaque lens and implanting an **Intraocular Lens (IOL)**.
-    - **Glaucoma (काला मोतिया)**: Obstruction in the drainage of aqueous humour through the Canal of Schlemm, causing pathological elevation of **Intraocular Pressure (IOP $>21\text{ mm Hg}$)**; compresses and irreversibly damages optic nerve axons, causing permanent visual field loss.
-    - **Red-Green Colour Blindness (Daltonism)**: X-linked recessive genetic defect in cone photopigments; cannot distinguish red from green; cannot be corrected by lenses or Vitamin A.
 14. **The Human Ear**:
-    - **External Ear**: Pinna (cartilaginous sound-collector) + Auditory canal containing ceruminous glands (ear wax).
-    - **Middle Ear**: Tympanic membrane (eardrum) + **3 Auditory Ossicles**: **Malleus (Hammer)** $\rightarrow$ **Incus (Anvil)** $\rightarrow$ **Stapes (Stirrup)**; amplify sound wave vibrations ~20-fold and transmit them to the oval window.
-    - **Stapes** is the **smallest and lightest bone in the entire human body** (~3 mm long).
-    - **Eustachian Tube**: Air duct connecting the middle ear cavity to the nasopharynx; equalizes air pressure on both sides of the eardrum during swallowing or yawning.
-    - **Inner Ear (Labyrinth)**:
-      - **Cochlea**: Coiled snail-shell-like fluid-filled organ of hearing; contains the **Organ of Corti** with sensory hair cells resting on the basilar membrane.
-      - **Vestibular Apparatus**: Three fluid-filled Semicircular Canals (with cristae ampullaris for dynamic rotational equilibrium) and Utricle & Saccule (with maculae for static gravitational balance and linear acceleration).
 15. **Endocrine Glands (Ductless Glands)**: Secretions are poured directly into circulating blood; target distant organs; e.g. Pituitary, Thyroid, Parathyroid, Adrenal, Pineal, Thymus.
 16. **Exocrine Glands**: Possess tubular ducts that deliver secretions locally onto an epithelial surface; e.g. Salivary, Sweat, Sebaceous, Lacrimal (tear), Mammary glands.
 17. **Heterocrine / Mixed Glands**: The **Pancreas** acts as both an exocrine gland (acinar cells secrete digestive enzymes via the pancreatic duct) and an endocrine gland (Islets of Langerhans secrete insulin and glucagon into blood).
 18. **The Pituitary Gland (Hypophysis / Master Gland)**:
-    - Pea-sized gland nestled in a bony depression of the sphenoid bone called the **Sella Turcica**; controlled by the hypothalamus.
-    - **Anterior Pituitary (Adenohypophysis)**:
-      - **Growth Hormone (GH / Somatotropin)**: Stimulates elongation of long bones and protein synthesis; childhood hyposecretion causes **Pituitary Dwarfism (Ateliosis)** (symmetrically proportioned midgets with normal intelligence); childhood hypersecretion causes **Gigantism**; adult hypersecretion after epiphyseal plate closure causes **Acromegaly** (abnormal disfiguring enlargement of facial bones, jaw, hands, and feet).
-      - **TSH** (Thyroid Stimulating Hormone), **ACTH** (Adrenocorticotropic Hormone), **FSH** (Follicle Stimulating Hormone), **LH** (Luteinizing Hormone / ICSH).
-      - **Prolactin (PRL / Luteotropic Hormone)**: Initiates and maintains milk secretion in mammary glands following childbirth.
-    - **Posterior Pituitary (Neurohypophysis)**: Does **not** synthesise hormones; acts as a storage and release reservoir for two peptide neurohormones manufactured in the hypothalamus:
-      - **Oxytocin (Pitocin / "Birth Hormone" / "Milk-Ejection Hormone")**: Triggers powerful rhythmic contractions of the uterine myometrium during labour (childbirth); triggers contraction of myoepithelial cells around mammary alveoli to expel milk during suckling (milk letdown reflex); also known as the "love / bonding hormone".
-      - **Antidiuretic Hormone (ADH / Vasopressin)**: Promotes renal tubular water reabsorption; deficiency causes **Diabetes Insipidus** (profuse dilute urine).
 19. **The Thyroid Gland**:
-    - Largest endocrine gland; situated on either side of the trachea in the neck, connected by an intermediate **isthmus**; composed of follicles lined by cuboidal cells surrounding a colloid.
-    - Secretes iodinated hormones **Thyroxine ($T_4$)** and **Triiodothyronine ($T_3$)** (require dietary iodine): regulate Basal Metabolic Rate (BMR), carbohydrate, protein, and fat metabolism, mental alertness, and physical growth.
-    - **Thyroid Disorders**:
-      - **Simple Endemic Goitre**: Non-toxic diffuse enlargement of the thyroid gland resulting from severe dietary **Iodine deficiency**; thyroid hypertrophies in an attempt to capture scarce iodine.
-      - **Cretinism**: Severe congenital hypothyroidism in infants; causes extreme physical stunting, severe mental retardation, deaf-mutism, pot belly, and protruding tongue.
-      - **Myxedema (Gull's Disease)**: Hypothyroidism in adults; characterized by low BMR, cold intolerance, puffiness of face, dry skin, lethargy, and weight gain.
-      - **Hashimoto's Disease**: Autoimmune disorder where antibodies attack and destroy thyroid follicular tissue ("suicide of thyroid").
-      - **Exophthalmic Goitre (Graves' Disease)**: Hyperthyroidism caused by thyroid-stimulating autoantibodies; characterized by elevated BMR, weight loss, rapid heartbeat, and protruding eyeballs (**Exophthalmos**).
-    - Secretes **Thyrocalcitonin (Calcitonin)**: Peptide hormone that lowers blood calcium levels (**hypocalcemic**) by promoting calcium deposition into bones and inhibiting osteoclasts.
 20. **The Parathyroid Glands**:
-    - Four tiny disc-shaped glands embedded in the posterior surface of the thyroid lobes.
-    - Secretes **Parathyroid Hormone (PTH / Parathormone / Collip's Hormone)**: Elevates blood calcium levels (**hypercalcemic**) by stimulating bone calcium resorption (osteolysis), increasing renal tubular $Ca^{2+}$ reabsorption, and activating Vitamin D in the kidneys.
-    - *Antagonistic balance*: **Calcitonin lowers blood calcium, while PTH raises blood calcium**.
-    - Hypoparathyroidism causes **Parathyroid Tetany** (painful sustained spasmodic twitches of carpal and facial muscles due to low blood calcium).
 21. **The Adrenal Glands (Suprarenal Glands / 4S & 3F Glands)**:
-    - Situated capping the superior pole of each kidney; divided into outer **Adrenal Cortex** (mesodermal) and inner **Adrenal Medulla** (ectodermal).
-    - **Adrenal Cortex**:
-      - **Mineralocorticoids (Aldosterone)**: Promotes renal reabsorption of $Na^+$ and water and excretion of $K^+$; maintains blood volume and arterial pressure.
-      - **Glucocorticoids (Cortisol / Hydrocortisone)**: Regulates carbohydrate gluconeogenesis, lipolysis, protein catabolism; acts as a powerful **anti-inflammatory and immunosuppressive** agent; called the "life-saving hormone" during prolonged physical stress.
-      - **Sex Corticoids (Adrenal Androgens)**: Promote secondary sexual hair growth.
-      - Deficiency of cortical hormones causes **Addison's Disease** (hypoglycaemia, severe hypotension, acute muscular weakness, and pathognomonic bronze pigmentation of skin and buccal mucosa).
-      - Hypersecretion of cortisol causes **Cushing's Syndrome** (hyperglycaemia, central obesity with "moon face" and "buffalo hump").
-    - **Adrenal Medulla**:
-      - Secretes catecholamines **Adrenaline (Epinephrine)** and **Noradrenaline (Norepinephrine)** in response to sympathetic activation during acute emergencies.
-      - Known as the **"Emergency Hormone" / "Fight, Fright or Flight" (3F) Hormone**: increases heart rate and cardiac contractility, elevates arterial blood pressure, dilates bronchioles, causes pupil dilation, and elevates blood glucose via hepatic glycogenolysis.
 22. **The Pineal Gland (Epiphysis Cerebri)**: Located on the dorsal roof of the diencephalon; secretes **Melatonin**, which regulates the 24-hour diurnal **Circadian Rhythm (Sleep-Wake Cycle)**, core body temperature, and delays premature puberty.
 23. **The Thymus Gland**: Located behind the sternum in the anterior mediastinum; secretes **Thymosins**, which stimulate the maturation and differentiation of **T-lymphocytes**; acts as the primary "training school" of cellular immunity; prominent in infants, undergoes progressive age-related atrophy after puberty, leading to weakened immunity in the elderly.
 24. **Male Reproductive System**:
-    - **Testes**: Primary male sex organs; housed inside the external cutaneous pouch called the **Scrotum**, maintaining a scrotal temperature **$\mathbf{2.0–2.5^\circ\text{C}}$ lower than internal abdominal core temperature**, which is mandatory for viable **Spermatogenesis**; failure of testes to descend into the scrotum is called **Cryptorchidism** (causes sterility).
-    - Structural units: ~250 testicular lobules containing 1–3 highly coiled **Seminiferous Tubules**; lined by:
-      - **Spermatogenic Cells**: Undergo meiotic divisions to form mature spermatozoa.
-      - **Sertoli Cells (Nurse Cells)**: Provide metabolic nourishment and structural support to developing sperm cells; secrete **Inhibin** (suppresses FSH) and Anti-Müllerian Hormone.
-      - **Interstitial Cells of Leydig**: Located in connective tissue spaces between seminiferous tubules; secrete androgenic steroid hormones, primarily **Testosterone** (governs male secondary sexual characters and libido).
-    - Duct path: Seminiferous tubules $\rightarrow$ Rete testis $\rightarrow$ Vasa efferentia $\rightarrow$ **Epididymis** (crescent-shaped organ capping testis; site of functional sperm physiological maturation and motility acquisition; stores sperm for weeks) $\rightarrow$ **Vas Deferens** (ascends into abdomen, loops over ureter) $\rightarrow$ Ejaculatory duct $\rightarrow$ Urethra.
-    - Accessory Glands:
-      - **Seminal Vesicles (Paired)**: Secrete 60–70% of seminal volume; yellowish viscous alkaline fluid rich in **Fructose** (exclusive metabolic energy substrate for sperm motility), prostaglandins, and clotting proteins.
-      - **Prostate Gland (Single)**: Surrounds the proximal urethra; secretes 20–30% of seminal volume; milky, slightly alkaline fluid containing citric acid and enzymes (acid phosphatase, PSA); benign enlargement in aging men (**BPH / Benign Prostatic Hyperplasia**) compresses the urethra, causing urinary obstruction.
-      - **Bulbourethral Glands (Cowper's Glands)**: Secrete clear alkaline mucus that lubricates the urethra and neutralises residual acidic urine prior to ejaculation.
 25. **Female Reproductive System & The Menstrual Cycle**:
-    - **Ovaries**: Primary female sex organs; produce female gametes (ova) and secrete steroid hormones **Estrogen and Progesterone**.
-    - **Fallopian Tubes (Oviducts, ~10–12 cm long)**:
-      - Infundibulum with finger-like **Fimbriae** (collect the ovulated egg from peritoneal cavity) $\rightarrow$ **Ampulla** (the widest part, **the exact anatomical site where Fertilisation occurs**) $\rightarrow$ Isthmus.
-    - **Uterus (Womb)**: Inverted pear-shaped hollow muscular organ; consists of outer serous **Perimetrium**, middle thick smooth muscle **Myometrium** (undergoes powerful oxytocin-induced contractions during childbirth), and inner glandular **Endometrium** (thickens monthly and sloughs off during menstruation).
-    - **Menstrual Cycle (Normal 28-day cycle)**:
-      1. **Menstrual Phase (Days 1–5)**: Endometrial lining and unfertilised ovum break down and are discharged with blood due to the sudden withdrawal of progesterone.
-      2. **Follicular / Proliferative Phase (Days 6–13)**: Pituitary **FSH** stimulates growth of ovarian follicles into a mature **Graafian Follicle**; follicular cells secrete **Estrogen**, which repairs and proliferates the endometrial lining.
-      3. **Ovulatory Phase (Day 14)**: Rapid surge in pituitary **LH (Luteinizing Hormone / "LH Surge")** triggers rupture of the Graafian follicle and release of the secondary oocyte into the pelvic cavity (**Ovulation**).
-      4. **Luteal / Secretory Phase (Days 15–28)**: The ruptured follicle collapses and transforms into a yellow endocrine body called the **Corpus Luteum**; secretes massive quantities of **Progesterone** (the "Pregnancy Hormone"), converting the endometrium into a thick, vascular secretory bed for embryo implantation. If fertilisation does not occur, the corpus luteum degenerates into a white fibrous scar (**Corpus Albicans**), progesterone levels plummet, and menstruation recurs.
 26. **Implantation, Placenta & hCG**:
-    - Cleavage of the zygote forms a solid ball of 16 cells called a **Morula**, which develops into a fluid-filled hollow sphere called a **Blastocyst**; blastocyst attaches and embeds into the endometrium (**Implantation**, occurring ~7 days after fertilisation).
-    - **Placenta**: Intimate physiological connection formed jointly by embryonic chorionic villi and maternal uterine tissue; mediates gas exchange, nutrient delivery, and metabolic waste excretion without allowing maternal and fetal blood to mix directly.
-    - **Human Chorionic Gonadotropin (hCG)**: Secreted by the embryonic trophoblast; maintains the maternal corpus luteum to prevent progesterone decline; excreted in maternal urine, serving as the biological marker detected by home **Pregnancy Test Kits** (e.g. Gravindex).
 27. **Contraception & Reproductive Health**:
-    - **Surgical Sterilization (Permanent)**:
-      - **Vasectomy**: Minor surgical procedure in males; a small segment of each **vas deferens** is cut and tied off; prevents sperm from entering ejaculated semen (ejaculation still occurs, containing seminal fluid without sperm).
-      - **Tubectomy**: Surgical procedure in females; both **fallopian tubes** are cut and tied off; prevents ovulated eggs from meeting sperm.
-    - **Intrauterine Devices (IUDs)**: **Copper-T (Cu-T)** inserted into uterine cavity; continuously releases $Cu^{2+}$ ions that suppress sperm motility and fertilising capacity.
-    - **Oral Contraceptive Pills**:
-      - Daily hormonal pills contain synthetic estrogen and progestin; suppress pituitary FSH and LH, preventing ovulation.
-      - **Saheli (Centchroman / Ormeloxifene)**: Developed by the **Central Drug Research Institute (CDRI), Lucknow**; world's first **non-steroidal, non-hormonal, once-a-week pill**; blocks estrogen receptors in the endometrium, preventing blastocyst implantation.
 28. **The Human Skeletal System (206 Bones in Adult)**:
-    - Divided into the **Axial Skeleton (80 bones)** and **Appendicular Skeleton (126 bones)**:
-    - **Axial Skeleton (80 bones)**:
-      - **Skull (29 bones)**: Cranium (8 bones: frontal, 2 parietal, 2 temporal, occipital, sphenoid, ethmoid); Facial bones (14 bones: 2 maxillae, 2 zygomatic, 2 nasal, 2 lacrimal, 2 palatine, 2 inferior nasal conchae, 1 vomer, 1 **Mandible / lower jaw — the only movable bone of the skull**); Hyoid bone (1 bone in throat); Ear Ossicles (6 bones: 2 Malleus, 2 Incus, 2 Stapes).
-      - **Vertebral Column (26 bones in adult / 33 in child)**: **7 Cervical (C1 = Atlas, C2 = Axis)**, **12 Thoracic**, **5 Lumbar**, **1 Sacrum (5 fused)**, **1 Coccyx / tailbone (4 fused)**.
-      - **Thoracic Cage (25 bones)**: **Sternum (1 breastbone)** + **24 Ribs (12 pairs)**:
-        - Pairs 1–7: **True Ribs (Vertebrosternal)** — attached directly to sternum via hyaline costal cartilage.
-        - Pairs 8–10: **False Ribs (Vertebrochondral)** — attach to costal cartilage of the 7th rib.
-        - Pairs 11–12: **Floating Ribs (Vertebral)** — anterior ends remain completely free.
-    - **Appendicular Skeleton (126 bones)**:
-      - **Pectoral Girdle (4 bones)**: 2 Scapulae (shoulder blades) + 2 Clavicles (collar bones / beauty bones).
-      - **Upper Limbs (60 bones)**: Humerus (arm), Radius & Ulna (forearm), 8 Carpals (wrist), 5 Metacarpals (palm), 14 Phalanges (fingers) in each arm.
-      - **Pelvic Girdle (2 bones)**: 2 Coxal / Hip bones formed by fusion of Ilium, Ischium, and Pubis; meet anteriorly at the pubic symphysis.
-      - **Lower Limbs (60 bones)**: **Femur (thigh bone — longest, strongest, and heaviest bone of the body)**, **Patella (kneecap — a sesamoid bone formed within a tendon)**, Tibia (shin bone) & Fibula, 7 Tarsals (ankle), 5 Metatarsals (sole), 14 Phalanges (toes) in each leg.
 29. **Joints of the Human Skeleton**:
-    - **Fibrous Joints (Synarthroses / Immovable)**: Sutures of the skull; teeth in jaw sockets (gomphosis).
-    - **Cartilaginous Joints (Amphiarthroses / Slightly Movable)**: Intervertebral discs between vertebrae; pubic symphysis.
-    - **Synovial Joints (Diarthroses / Freely Movable)**: Characterized by a synovial fluid-filled cavity enclosed by a fibrous capsule lined by synovial membrane:
-      - **Ball and Socket Joint**: Multiaxial, widest range of movement (Shoulder joint between humerus and glenoid cavity of scapula; Hip joint between femur head and acetabulum of pelvis).
-      - **Hinge Joint**: Uniaxial movement in one plane like a door hinge (Elbow joint, Knee joint, Ankle joint, Interphalangeal joints).
-      - **Pivot Joint**: Rotational movement around a central axis (Joint between **Atlas and Axis vertebrae** enabling the head to shake "no"; proximal radioulnar joint).
-      - **Gliding Joint**: Flat surfaces slip past each other (Between adjacent carpal bones of wrist, and between tarsals of ankle).
-      - **Saddle Joint**: Biaxial joint between the **Carpal (Trapezium) and Metacarpal of the human thumb**, granting humans their evolutionary opposable thumb dexterity.
 30. **Connective Support Tissues: Tendon vs Ligament**:
-    - **Tendon**: Inextensible, dense regular fibrous connective tissue composed of closely packed parallel bundles of white **Collagen fibres**; firmly anchors **Muscle to Bone**; transmits tensile muscular pull to produce skeletal motion.
-    - **Ligament**: Tough, elastic connective tissue rich in yellow **Elastin fibres**; connects **Bone to Bone** across joints; stabilizes joints and restricts excessive abnormal movement; tearing or stretching of a ligament is clinically termed a **Sprain**.
 31. **Muscular Physiology & Contraction**:
-    - Over 639 distinct skeletal muscles in the human body; muscles make up ~40–50% of adult body weight.
-    - Extreme muscles: **Gluteus maximus** (buttock muscle) is the largest; **Sartorius** (anterior thigh muscle / "tailor's muscle") is the longest; **Stapedius** (in middle ear) is the smallest; **Masseter** (jaw chewing muscle) is the strongest.
-    - **Sliding Filament Theory (Huxley & Hanson, 1954)**: Contraction occurs when thin **Actin** filaments slide past thick **Myosin** filaments, pulling Z-lines closer and shortening the sarcomere:
-      - Motor nerve action potential releases acetylcholine at the neuromuscular junction $\rightarrow$ triggers calcium ion ($\mathbf{Ca^{2+}}$) release from the sarcoplasmic reticulum $\rightarrow Ca^{2+}$ binds **Troponin C**, moving tropomyosin away from actin binding sites $\rightarrow$ Myosin heads hydrolyse **ATP** and form cross-bridges with actin, pulling actin filaments inward (**Power Stroke**).
-    - **Rigor Mortis**: State of profound muscular stiffness and rigidity that sets in 3–4 hours after biological death; caused by complete cessation of cellular ATP production; without ATP, myosin cross-bridges cannot detach from actin filaments, locking all muscles in a fixed contracted state until autolytic lysosomal enzymes decompose the proteins.
 
 ---
-
 ## Confused Pairs
 
 | Concept A | Concept B | Core Distinguishing Fact | Hindi Key |
@@ -2522,3 +2411,67 @@ D. Thalamus
 8. **Bone vs cartilage**: Bone is hard with osteocytes; cartilage is flexible with chondrocytes — ear pinna is cartilage.
 9. **Ball-and-socket vs hinge**: Shoulder/hip = ball-and-socket; elbow/knee = hinge.
 10. **Reflex arc**: Sensory → interneuron (often) → motor — brain is not required for simple spinal reflexes.
+
+
+---
+
+## Bilingual Terminology -- Control, Reproduction and Support
+
+| English Term | Hindi Term | Key Anchor |
+|---|---|---|
+| **Nervous System** (तंत्रिका तंत्र) | तंत्रिका तंत्र | Control and coordination system; CNS + PNS |
+| **Neuron / Nerve Cell** (तंत्रिका कोशिका) | तंत्रिका कोशिका / न्यूरॉन | Basic unit of nervous system; dendrite + cell body + axon |
+| **Brain** (मस्तिष्क) | मस्तिष्क | Control centre; cerebrum (thinking), cerebellum (balance), medulla (vital functions) |
+| **Spinal Cord** (मेरुदण्ड) | मेरु रज्जु | Connects brain to body; enclosed in vertebral column |
+| **Reflex Action** (प्रतिवर्ती क्रिया) | प्रतिवर्ती क्रिया | Automatic involuntary response to stimulus; controlled by spinal cord |
+| **Hormone** (हार्मोन) | हार्मोन | Chemical messenger secreted by endocrine glands into blood |
+| **Endocrine Gland** (अन्तःस्रावी ग्रन्थि) | अन्तःस्रावी ग्रन्थि | Ductless gland; secretes hormones directly into bloodstream |
+| **Pituitary Gland** (पीयूष ग्रंथि) | पीयूष ग्रन्थि | "Master gland"; in brain; controls other glands |
+| **Thyroid Gland** (थायरॉयड ग्रंथि) | अवटु ग्रन्थि | Secretes thyroxine; regulates metabolism; iodine needed |
+| **Adrenal Gland** (अधिवृक्क ग्रंथि) | अधिवृक्क ग्रन्थि | On kidneys; secretes adrenaline (fight/flight) + cortisol |
+| **Insulin** (इंसुलिन) | इन्सुलिन | Lowers blood glucose; secreted by beta cells of islets of Langerhans (pancreas) |
+| **Glucagon** (ग्लूकागन) | ग्लूकागन | Raises blood glucose; secreted by alpha cells of pancreas |
+| **Reproduction** (प्रजनन) | प्रजनन | Producing new organisms; sexual or asexual |
+| **Ovum / Egg** (अण्डाणु) | अण्डाणु | Female gamete; haploid (n); largest human cell |
+| **Sperm / Spermatozoon** (शुक्राणु) | शुक्राणु | Male gamete; haploid; smallest human cell |
+| **Fertilisation** (निषेचन) | निषेचन | Fusion of sperm and egg to form zygote (2n) |
+| **Skeleton** (कंकाल) | कंकाल / अस्थि-पंजर | Framework of bones; axial (80 bones) + appendicular (126 bones) |
+| **Bone** (हड्डी / अस्थि) | अस्थि | Hard connective tissue; calcium + phosphate; 206 bones in adult human |
+
+---
+
+## One-Liner Revision -- Control, Reproduction and Support
+
+| # | Fast Fact |
+|---|---|
+| 1 | Human body has **206 bones** (adult); newborn has ~270-300 (fuse over time) |
+| 2 | Smallest bone = **Stapes** (stirrup bone in ear) |
+| 3 | Largest bone = **Femur** (thigh bone) |
+| 4 | Hardest substance in body = **Enamel** (of teeth) |
+| 5 | Brain weight (adult) = ~**1.4 kg** (approximately 2% of body weight; uses 20% energy) |
+| 6 | Cerebrum = thinking, memory, voluntary movement, speech |
+| 7 | Cerebellum = balance, coordination, posture |
+| 8 | Medulla oblongata = controls heartbeat, breathing, BP (vital centres) |
+| 9 | Reflex arc: Stimulus -> Receptor -> Sensory nerve -> Spinal cord -> Motor nerve -> Effector |
+| 10 | Pituitary = "**Master gland**"; controls thyroid, adrenal, gonads via trophic hormones |
+| 11 | Thyroid secretes **Thyroxine** (T4); requires iodine; deficiency = goitre/cretinism |
+| 12 | Parathyroid = secretes **PTH** (parathormone); raises blood calcium |
+| 13 | Adrenal medulla = **Adrenaline** (epinephrine); emergency "fight-or-flight" hormone |
+| 14 | Adrenal cortex = **Cortisol** (stress); Aldosterone (Na+ retention) |
+| 15 | Pancreas islets: Alpha cells = Glucagon; Beta cells = **Insulin** |
+| 16 | Diabetes mellitus = insufficient insulin; high blood glucose (hyperglycaemia) |
+| 17 | Diabetes insipidus = ADH deficiency (NOT insulin); excessive urination |
+| 18 | Pineal gland = secretes **Melatonin**; regulates sleep-wake cycle (circadian rhythm) |
+| 19 | Thymus = secretes **Thymosin**; maturation of T-lymphocytes; largest in childhood |
+| 20 | Human ovum = largest cell in human body; sperm = smallest |
+| 21 | Gestation period (human) = **266-280 days** (~9 months) |
+| 22 | In vitro fertilisation (IVF) = test-tube baby; first = **Louise Brown (1978, UK)** |
+| 23 | Amniocentesis = prenatal diagnosis of chromosomal abnormalities (amniotic fluid) |
+| 24 | Menstrual cycle = **28 days** (average); ovulation on ~Day 14 |
+| 25 | Testosterone = male sex hormone; secreted by testes (Leydig cells) |
+| 26 | Oestrogen + Progesterone = female sex hormones; secreted by ovaries |
+| 27 | Joint types: Hinge (elbow/knee), Ball-and-socket (hip/shoulder), Pivot (neck/atlas-axis) |
+| 28 | Cartilage = flexible connective tissue; no blood vessels; found in ears, nose, joints |
+| 29 | Osteoporosis = low bone density; post-menopausal women; calcium + Vit D needed |
+| 30 | EEG = Electroencephalogram (brain waves); ECG = Electrocardiogram (heart waves) |
+

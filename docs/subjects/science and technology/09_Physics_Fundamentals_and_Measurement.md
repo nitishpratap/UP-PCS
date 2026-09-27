@@ -1463,3 +1463,67 @@ A theodolite is a precision optical instrument used in surveying to measure hori
 8. **Kilowatt-Hour Trap**: $kWh$ is a commercial unit of **energy** ($1\text{ kWh} = 3.6 \times 10^6\text{ J}$), NOT electrical power.
 9. **Strain is Unitless**: Mechanical strain is $\frac{\Delta l}{l}$ (dimensionless, no unit).
 10. **1 Parsec Value**: $1\text{ pc} = 3.262\text{ ly} = 206,265\text{ AU} = \frac{648,000}{\pi}\text{ AU} = 3.0857 \times 10^{16}\text{ m}$.
+
+
+---
+
+## Bilingual Terminology -- Physics Fundamentals and Measurement
+
+| English Term | Hindi Term | Key Anchor |
+|---|---|---|
+| **Physical Quantity** (भौतिक राशि) | भौतिक राशि | Measurable property; scalar (magnitude only) or vector (magnitude + direction) |
+| **SI Unit** (अंतर्राष्ट्रीय मात्रक प्रणाली) | अंतर्राष्ट्रीय मात्रक | International System of Units; 7 base units |
+| **Scalar** (अदिश) | अदिश राशि | Has magnitude only; e.g., mass, temperature, speed, energy |
+| **Vector** (सदिश) | सदिश राशि | Has magnitude + direction; e.g., velocity, force, acceleration |
+| **Length** (लम्बाई) | लम्बाई | SI unit = metre (m) |
+| **Mass** (द्रव्यमान) | द्रव्यमान | SI unit = kilogram (kg); measure of matter |
+| **Time** (समय) | समय | SI unit = second (s); Cs-133 atomic clock |
+| **Electric Current** (विद्युत धारा) | विद्युत धारा | SI unit = ampere (A) |
+| **Temperature** (ताप) | ताप | SI unit = kelvin (K); 0 K = absolute zero = -273.15 degC |
+| **Luminous Intensity** (ज्योति तीव्रता) | ज्योति तीव्रता | SI unit = candela (cd) |
+| **Amount of Substance** (पदार्थ की मात्रा) | पदार्थ की मात्रा | SI unit = mole (mol); Avogadro's number = 6.022 x 10^23 |
+| **Parsec** (पारसेक) | पारसेक | Largest astronomical distance unit; 1 parsec = 3.26 light-years |
+| **Light-Year** (प्रकाश वर्ष) | प्रकाश वर्ष | Distance light travels in 1 year; unit of distance NOT time |
+| **Astronomical Unit (AU)** (खगोलीय इकाई) | खगोलीय इकाई | Mean Earth-Sun distance = 1.496 x 10^11 m |
+| **Dobson Unit** (डोबसन इकाई) | डोबसन इकाई | Measures ozone layer thickness; normal = 300 DU; hole < 220 DU |
+| **Hertz** (हर्ट्ज) | हर्ट्ज | SI unit of frequency; 1 Hz = 1 cycle/second |
+| **Pascal** (पास्कल) | पास्कल | SI unit of pressure; 1 Pa = 1 N/m2 |
+| **Decibel** (डेसिबल) | डेसिबल | Logarithmic unit of sound intensity; 0 dB = threshold of hearing |
+
+---
+
+## One-Liner Revision -- Physics Fundamentals and Measurement
+
+| # | Fast Fact |
+|---|---|
+| 1 | SI base units = **7**: m, kg, s, A, K, mol, cd |
+| 2 | Supplementary units = Radian (plane angle) + Steradian (solid angle) |
+| 3 | New SI prefixes (2022) = Ronna (10^27), Quetta (10^30), Ronto (10^-27), Quecto (10^-30) |
+| 4 | Light-Year = unit of **distance** (NOT time); 1 ly = 9.46 x 10^15 m |
+| 5 | 1 Parsec = 3.262 light-years = 206,265 AU (coined: Herbert Hall Turner, 1913) |
+| 6 | 1 AU = 1.496 x 10^11 m = ~150 million km (average Earth-Sun distance) |
+| 7 | Smallest unit of length = **Fermi** (fm = 10^-15 m); used for nuclear radii |
+| 8 | Angstrom = 10^-10 m; used for atomic radii and wavelengths |
+| 9 | 1 Barrel of oil = **159 litres** (~42 US gallons) |
+| 10 | 1 Nautical mile = **1.852 km**; Knot = 1 nautical mile/hour |
+| 11 | 1 Cusec = 1 ft3/s = 28.317 litres/s (river/canal flow rate) |
+| 12 | Normal atmospheric pressure = **1 atm = 101,325 Pa = 760 mmHg = 760 torr** |
+| 13 | 1 bar = 10^5 Pa; 1 millibar = 100 Pa (used in meteorology) |
+| 14 | 1 Horsepower = **746 Watts**; Metric HP = 735.5 W |
+| 15 | 1 kWh = **3.6 x 10^6 Joules** (BOT unit; on electricity bill) |
+| 16 | Dobson Unit: Normal ozone = 300 DU; Ozone hole < **220 DU** |
+| 17 | Pyrometer = measures very high temperatures (>1500 degC) without contact |
+| 18 | Anemometer = measures **wind speed**; Wind Vane = measures wind **direction** |
+| 19 | Barometer: sudden drop = approaching storm; gradual fall = rain; rise = fair weather |
+| 20 | Hygrometer = measures **humidity**; Hydrometer = measures **specific gravity of liquids** |
+| 21 | Lactometer = checks **milk purity** (density); Butyrometer = measures **fat in milk** |
+| 22 | SONAR = uses **ultrasonic waves** (>20 kHz); for submarine/ocean depth detection |
+| 23 | RADAR = uses **radio/microwaves**; detects aircraft, ships, weather |
+| 24 | Fathometer = measures ocean depth; 1 fathom = 6 feet = 1.83 m |
+| 25 | ECG = heart; EEG = brain; EMG = muscles; Polygraph = lie detector |
+| 26 | 1 kg defined by Planck constant h = 6.626 x 10^-34 J.s (since 2019 BIPM) |
+| 27 | Cs-133 atomic clock = defines the **second** (9,192,631,770 transitions) |
+| 28 | Kelvin 0 = absolute zero = -273.15 degC (theoretical minimum temperature) |
+| 29 | Speed of light (c) = 299,792,458 m/s (defines the metre) |
+| 30 | Mole = 6.02214076 x 10^23 entities (Avogadro's number; defines the mole) |
+
