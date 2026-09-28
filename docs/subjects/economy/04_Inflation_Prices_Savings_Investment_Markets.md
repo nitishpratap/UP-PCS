@@ -620,10 +620,10 @@ D. Only 1
 
 Wage–price spiral means
 
-A. Wages and prices chase each other upward
-B. Only CRR and SLR become equal forever
-C. Only equity prices fall by law
-D. Only deflation is mandatory
+A. Wages and prices chase each other upward in a reinforcing cost-push cycle
+B. Nominal wages and retail prices remain legally frozen by price controls
+C. Central bank lowers benchmark repo rate to encourage equity investments
+D. Deflationary pressures persist despite continuous fiscal stimulus
 
 <details>
 <summary>Show answer</summary>
@@ -665,10 +665,10 @@ D. 4 1 2 3
 
 Reflation in teaching means
 
-A. Policy to raise prices / demand after a weak or deflationary spell
-B. Permanent abolition of money
-C. Only a rise in forest cover
-D. Only WPI base-year change by itself
+A. Policy measures to stimulate demand and output after a weak or deflationary spell
+B. Sustained decline in general price levels caused by persistent supply gluts
+C. High inflation coupled with economic stagnation and rising unemployment
+D. Complete withdrawal of central bank liquidity to curtail credit expansion
 
 <details>
 <summary>Show answer</summary>
@@ -1188,10 +1188,10 @@ D. A Finance Commission grant formula
 
 Imported inflation rises when
 
-A. Only CRR is cut in isolation with no price effect ever
-B. Foreign prices or a weaker rupee lift domestic import costs
-C. Only SEBI lists a new broker
-D. Only IIP shows higher production
+A. Domestic interest rates are pegged lower than international benchmark rates
+B. Foreign commodity prices or a weaker domestic currency lift import costs
+C. Central bank conducts reverse repo operations to absorb surplus bank liquidity
+D. Domestic industrial production outpaces aggregate consumption demand
 
 <details>
 <summary>Show answer</summary>

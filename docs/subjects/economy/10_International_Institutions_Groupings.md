@@ -928,10 +928,10 @@ D. Jakarta
 
 New Development Bank is associated mainly with
 
-A. Only SAARC Secretariat
-B. BRICS development finance
-C. Only WTO dispute panels
-D. Only CRR
+A. Permanent economic development programs of the SAARC Secretariat
+B. BRICS development finance and sustainable infrastructure funding
+C. Appellate bodies under the World Trade Organization dispute framework
+D. Bilateral trade dispute mediation across OECD member nations
 
 <details>
 <summary>Show answer</summary>

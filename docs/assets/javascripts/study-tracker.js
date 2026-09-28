@@ -744,6 +744,14 @@
   async function apiAddPlannerTopic(date, subject, topic, slot, notes) {
     const targetDate = date || activePlannerDate;
     const local = getLocalDailyPlanner(targetDate);
+    if (!local.reading_topics) local.reading_topics = [];
+    const pendingCount = local.reading_topics.filter(t => t.status !== 'achieved').length;
+
+    if (pendingCount >= 10) {
+      alert(`🛑 Active Chapter Limit Reached (10/10 Chapters)!\n\nYou already have ${pendingCount} active pending chapters in your Prep Tracker.\n\nPlease read these first and mark +1 Read count (pass the qualifying exam) before adding more!`);
+      throw new Error('Chapter limit reached (10/10)');
+    }
+
     const newTopic = {
       id: 'topic_' + Date.now() + '_' + Math.random().toString(36).substr(2, 5),
       subject: subject.toLowerCase().trim(),
@@ -756,30 +764,47 @@
       created_at: new Date().toISOString(),
       achieved_at: null
     };
-    if (!local.reading_topics) local.reading_topics = [];
     local.reading_topics.push(newTopic);
     saveLocalDailyPlanner(targetDate, local);
 
     try {
-      await authFetch(`${API_BASE}/daily-planner/topic`, {
+      const res = await authFetch(`${API_BASE}/daily-planner/topic`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ date: targetDate, subject, topic, slot, notes })
       });
+      if (!res.ok) {
+        const errJson = await res.json().catch(() => ({}));
+        if (errJson.limit_reached) {
+          alert(`🛑 ${errJson.error}`);
+        }
+      }
     } catch (e) {
       console.warn('Backend sync failed, saved locally:', e);
     }
     return newTopic;
   }
 
-  // Batch add multiple selected chapters
+  // Batch add multiple selected chapters (Enforces strict 10-chapter maximum)
   async function apiAddPlannerTopicsBatch(date, subject, topicsList, slot, notes) {
     const targetDate = date || activePlannerDate;
     const local = getLocalDailyPlanner(targetDate);
     if (!local.reading_topics) local.reading_topics = [];
+    const pendingCount = local.reading_topics.filter(t => t.status !== 'achieved').length;
 
+    if (pendingCount >= 10) {
+      alert(`🛑 Active Chapter Limit Reached (10/10 Chapters)!\n\nYou currently have ${pendingCount} active chapters in your Prep Tracker.\n\nUnder your preparation rules, you must read these first and mark +1 Read count before adding more!`);
+      return [];
+    }
+
+    const availableSlots = 10 - pendingCount;
+    if (topicsList.length > availableSlots) {
+      alert(`⚠️ Capacity Alert:\nYou selected ${topicsList.length} chapters, but only ${availableSlots} slot(s) remain before reaching the 10-chapter maximum.\n\nOnly the first ${availableSlots} chapter(s) will be added. Read and conquer these with +1 Read count to unlock more!`);
+    }
+
+    const allowedList = topicsList.slice(0, availableSlots);
     const created = [];
-    for (const tName of topicsList) {
+    for (const tName of allowedList) {
       if (!tName || !tName.trim()) continue;
       const newTopic = {
         id: 'topic_' + Date.now() + '_' + Math.random().toString(36).substr(2, 5),
@@ -2618,12 +2643,16 @@
     const timeSpentSec = scorecard?.time_spent_seconds || readingClockSeconds || 0;
     const timeSpentMsg = timeSpentSec > 0 ? ` (⏱️ ${Math.floor(timeSpentSec / 60)}m ${timeSpentSec % 60}s)` : '';
 
-    const detailedNotes = `🏆 Chapter Mastery Exam Passed • Total Score: ${scorePct}% (${netMarks > 0 ? '+' : ''}${netMarks}/${maxMarks} marks) • Accuracy: ${accuracy}% (${correct}/${totalQs} Correct, ${incorrect} Incorrect, ${unattempted} Unattempted)${timeSpentMsg}`;
+    const isRedemption = Boolean(scorecard?.is_mastery_redemption || scorecard?.redemption_passed || (scorecard?.test_mode && scorecard.test_mode.includes('Redemption')));
+    const stageTitle = isRedemption ? '⚡ Chapter Conquered (100% Redemption Drill)' : '🏆 Chapter Mastery Exam Passed';
+    const detailedNotes = isRedemption
+      ? `⚡ Chapter Conquered via 100% Mastery Redemption Drill • 100% Accuracy (${correct}/${totalQs} Correct, 0 Mistakes) • All Previous Weak Areas Eliminated${timeSpentMsg}`
+      : `🏆 Chapter Mastery Exam Passed • Total Score: ${scorePct}% (${netMarks > 0 ? '+' : ''}${netMarks}/${maxMarks} marks) • Accuracy: ${accuracy}% (${correct}/${totalQs} Correct, ${incorrect} Incorrect, ${unattempted} Unattempted)${timeSpentMsg}`;
 
     // 1. Update local cache with complete test score breakdown
     saveLocalLog(topicInfo.subject, topicInfo.topic, {
       topic_title: topicInfo.title,
-      stage: '🏆 Chapter Mastery Exam Passed',
+      stage: stageTitle,
       confidence: 5,
       notes: detailedNotes,
       score_pct: scorePct,
@@ -2651,7 +2680,7 @@
           topic: topicInfo.topic,
           topic_title: topicInfo.title,
           confidence: 5,
-          stage: '🏆 Chapter Mastery Exam Passed',
+          stage: stageTitle,
           notes: detailedNotes,
           score_pct: scorePct,
           net_marks: netMarks,
@@ -3011,6 +3040,210 @@
     }
   }
 
+  // Retrieve past wrong questions matching a section/subtopic name
+  function getMistakesForSubtopic(subtopicName) {
+    const cleanTarget = (subtopicName || '').toLowerCase().replace(/^[0-9\.\s\-\:]+/, '').trim();
+    const mistakes = [];
+    const seen = new Set();
+
+    function addIfMatch(w) {
+      if (!w) return;
+      const key = w.q_id || (w.stem ? w.stem.substring(0, 80) : '');
+      if (key && seen.has(key)) return;
+      const sec = (w.section_title || '').toLowerCase().replace(/^[0-9\.\s\-\:]+/, '').trim();
+      const head = (w.q_header || '').toLowerCase();
+      const stem = (w.stem || '').toLowerCase();
+
+      const matchesSec = cleanTarget.length > 2 && (sec.includes(cleanTarget) || cleanTarget.includes(sec));
+      const matchesContent = cleanTarget.length > 4 && (head.includes(cleanTarget) || stem.includes(cleanTarget));
+
+      if (matchesSec || (sec.includes('general') && matchesContent)) {
+        seen.add(key);
+        mistakes.push(w);
+      }
+    }
+
+    // 1. From server response stored in window.__TOPIC_PAST_TESTS__
+    if (window.__TOPIC_PAST_TESTS__) {
+      const traps = window.__TOPIC_PAST_TESTS__.summary?.trap_questions || [];
+      traps.forEach(addIfMatch);
+      const attempts = window.__TOPIC_PAST_TESTS__.attempts || [];
+      attempts.forEach(att => (att.wrong_questions || []).forEach(addIfMatch));
+    }
+
+    // 2. From LocalStorage test attempts
+    try {
+      const topicInfo = getTopicInfo();
+      if (topicInfo) {
+        const localAttempts = getLocalTestAttempts(topicInfo.subject, topicInfo.slug || topicInfo.topic);
+        localAttempts.forEach(att => (att.wrong_questions || []).forEach(addIfMatch));
+      }
+    } catch {}
+
+    return mistakes;
+  }
+
+  // Interactive modal to review mistake details for a specific Focus Area
+  function openFocusAreaMistakesModal(subtopicTitle, mistakes, mistakesCount) {
+    const topicInfo = getTopicInfo();
+    const count = (mistakes && mistakes.length > 0) ? mistakes.length : (mistakesCount || 1);
+
+    let mistakesHtml = '';
+    if (mistakes && mistakes.length > 0) {
+      mistakesHtml = mistakes.map((m, idx) => {
+        const header = m.q_header || `Mistake #${idx + 1}`;
+        const stemHtml = escapeHtml(m.stem || 'Question details unavailable').replace(/\n/g, '<br>');
+
+        let optionsHtml = '';
+        if (m.options && typeof m.options === 'object') {
+          const optEntries = Object.entries(m.options).filter(([k, v]) => v && String(v).trim());
+          if (optEntries.length > 0) {
+            optionsHtml = `
+              <div class="st-mistake-options-grid" style="margin: 0.75rem 0; display: grid; gap: 0.4rem;">
+                ${optEntries.map(([letter, text]) => {
+                  const isUser = (m.user_answer || '').toUpperCase() === letter;
+                  const isCorrect = (m.correct_answer || '').toUpperCase() === letter;
+                  let optClass = 'st-mistake-opt';
+                  let badgeTag = '';
+                  if (isCorrect) {
+                    optClass += ' is-correct-opt';
+                    badgeTag = '<span style="color: #10b981; font-weight: 800; font-size: 0.72rem; margin-left: 0.5rem;">✔ Correct Answer</span>';
+                  } else if (isUser) {
+                    optClass += ' is-user-wrong-opt';
+                    badgeTag = '<span style="color: #ef4444; font-weight: 800; font-size: 0.72rem; margin-left: 0.5rem;">✖ Your Choice</span>';
+                  }
+                  return `
+                    <div class="${optClass}" style="padding: 0.45rem 0.75rem; border-radius: 6px; font-size: 0.85rem; border: 1px solid ${isCorrect ? '#10b981' : (isUser ? '#ef4444' : 'var(--md-default-fg-color--lightest)')}; background: ${isCorrect ? 'rgba(16, 185, 129, 0.08)' : (isUser ? 'rgba(239, 68, 68, 0.08)' : 'transparent')};">
+                      <strong>${letter}.</strong> ${escapeHtml(text)} ${badgeTag}
+                    </div>
+                  `;
+                }).join('')}
+              </div>
+            `;
+          }
+        }
+
+        if (!optionsHtml) {
+          optionsHtml = `
+            <div style="margin: 0.5rem 0; font-size: 0.85rem; display: flex; gap: 1rem; flex-wrap: wrap;">
+              <span style="color: #ef4444; font-weight: 700;">✖ Your Answer: ${escapeHtml(m.user_answer || 'Unattempted')}</span>
+              <span style="color: #10b981; font-weight: 700;">✔ Correct Answer: ${escapeHtml(m.correct_answer || '—')}</span>
+            </div>
+          `;
+        }
+
+        let explanationHtml = '';
+        if (m.explanation) {
+          explanationHtml = `
+            <div class="st-mistake-explanation-box" style="margin-top: 0.75rem; padding: 0.75rem 1rem; border-radius: 8px; background: rgba(59, 130, 246, 0.08); border-left: 4px solid #3b82f6; font-size: 0.85rem; line-height: 1.55;">
+              <div style="font-weight: 800; color: #2563eb; margin-bottom: 0.35rem; display: flex; align-items: center; gap: 0.35rem;">
+                💡 Explanation & Key Exam Takeaway
+              </div>
+              <div>${escapeHtml(m.explanation).replace(/\n/g, '<br>').replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')}</div>
+            </div>
+          `;
+        }
+
+        return `
+          <div class="st-mistake-card" style="margin-bottom: 1.25rem; padding: 1rem 1.15rem; border-radius: 10px; border: 1px solid rgba(239, 68, 68, 0.25); background: var(--md-code-bg-color, rgba(0,0,0,0.02));">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5rem; flex-wrap: wrap; gap: 0.35rem;">
+              <span style="font-size: 0.75rem; font-weight: 800; color: #ef4444; background: rgba(239, 68, 68, 0.12); padding: 0.15rem 0.5rem; border-radius: 9999px;">
+                ⚠️ Question ${idx + 1} of ${mistakes.length}
+              </span>
+              <span style="font-size: 0.75rem; color: var(--md-default-fg-color--light); font-weight: 600;">
+                ${escapeHtml(header)}
+              </span>
+            </div>
+            <div style="font-size: 0.95rem; font-weight: 600; line-height: 1.45; margin-bottom: 0.5rem; color: var(--md-default-fg-color);">
+              ${stemHtml}
+            </div>
+            ${optionsHtml}
+            ${explanationHtml}
+            <div style="margin-top: 0.75rem; display: flex; justify-content: flex-end;">
+              <button type="button" class="st-btn st-btn-sm st-btn-outline st-btn-retry-single-q" data-qindex="${idx}" style="font-size: 0.78rem; padding: 0.3rem 0.75rem;">
+                🎯 Re-test This Question Now
+              </button>
+            </div>
+          </div>
+        `;
+      }).join('');
+    } else {
+      mistakesHtml = `
+        <div style="padding: 2rem 1rem; text-align: center;">
+          <div style="font-size: 2.2rem; margin-bottom: 0.5rem;">🎯</div>
+          <h4 style="margin: 0.25rem 0;">Focus Area Recorded</h4>
+          <p style="color: var(--md-default-fg-color--light); font-size: 0.9rem; max-width: 440px; margin: 0.5rem auto 1.25rem; line-height: 1.5;">
+            You recorded <strong>${count} mistake(s)</strong> in <em>${escapeHtml(subtopicTitle)}</em> in previous test sessions. Practice active recall on this section to clear the weak area.
+          </p>
+        </div>
+      `;
+    }
+
+    const modalHtml = `
+      <div class="st-focus-review-modal" style="max-height: 75vh; overflow-y: auto; padding-right: 0.25rem;">
+        <div style="background: rgba(239, 68, 68, 0.08); border: 1px solid rgba(239, 68, 68, 0.2); border-radius: 8px; padding: 0.75rem 1rem; margin-bottom: 1.25rem; display: flex; align-items: center; justify-content: space-between; gap: 0.75rem;">
+          <div>
+            <div style="font-size: 0.88rem; font-weight: 800; color: #ef4444;">
+              ⚠️ Focus Area Analysis: ${escapeHtml(subtopicTitle)}
+            </div>
+            <div style="font-size: 0.78rem; color: var(--md-default-fg-color--light); margin-top: 2px;">
+              Review your past wrong choices and key exam traps to turn this into a high-scoring mastery zone.
+            </div>
+          </div>
+          <span style="background: #ef4444; color: #fff; font-weight: 800; font-size: 0.75rem; padding: 0.25rem 0.6rem; border-radius: 9999px; white-space: nowrap;">
+            ${count} Mistake${count > 1 ? 's' : ''}
+          </span>
+        </div>
+
+        ${mistakesHtml}
+
+        <div class="st-form-actions" style="margin-top: 1.25rem; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem;">
+          <button type="button" class="st-btn st-btn-secondary" id="st-btn-close-focus-modal">
+            Close & Continue Reading
+          </button>
+          ${mistakes && mistakes.length > 0 ? `
+            <button type="button" class="st-btn st-btn-primary" id="st-btn-drill-all-focus-mistakes" style="background: #ef4444; border-color: #ef4444;">
+              🎯 Re-test All ${mistakes.length} Mistake${mistakes.length > 1 ? 's' : ''} Now
+            </button>
+          ` : `
+            <button type="button" class="st-btn st-btn-primary" id="st-btn-launch-focus-test">
+              ⚔️ Test This Chapter Now
+            </button>
+          `}
+        </div>
+      </div>
+    `;
+
+    showModal(`Focus Area Review — ${subtopicTitle}`, modalHtml);
+
+    document.getElementById('st-btn-close-focus-modal')?.addEventListener('click', closeModal);
+
+    document.getElementById('st-btn-drill-all-focus-mistakes')?.addEventListener('click', () => {
+      closeModal();
+      if (topicInfo && mistakes.length > 0) {
+        openTestEngineModal(topicInfo, { customQuestions: mistakes, testMode: 'practice' });
+      }
+    });
+
+    document.getElementById('st-btn-launch-focus-test')?.addEventListener('click', () => {
+      closeModal();
+      if (topicInfo) {
+        openTestEngineModal(topicInfo, { testMode: 'practice' });
+      }
+    });
+
+    document.querySelectorAll('.st-btn-retry-single-q').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        const qIdx = parseInt(e.currentTarget.getAttribute('data-qindex') || '0', 10);
+        const targetQ = mistakes[qIdx];
+        closeModal();
+        if (topicInfo && targetQ) {
+          openTestEngineModal(topicInfo, { customQuestions: [targetQ], testMode: 'practice' });
+        }
+      });
+    });
+  }
+
   // Smooth scroll to chapter heading matching subtopic name
   function scrollToSubtopicHeading(subtopicName) {
     if (!subtopicName) return;
@@ -3051,8 +3284,17 @@
         const mistakesCount = match.total_mistakes !== undefined ? match.total_mistakes : match.mistakes;
         const badge = document.createElement('span');
         badge.className = 'st-subtopic-in-note-badge';
-        badge.title = `Automatic Weak Area: You made ${mistakesCount} mistake(s) here in recent tests. Prioritize active recall!`;
-        badge.innerHTML = `⚠️ Focus Area (${mistakesCount} Mistake${mistakesCount > 1 ? 's' : ''})`;
+        badge.title = `Automatic Weak Area: You made ${mistakesCount} mistake(s) here in recent tests. Click to review questions & exam traps!`;
+        badge.innerHTML = `⚠️ Focus Area (${mistakesCount} Mistake${mistakesCount > 1 ? 's' : ''}) <span style="font-size: 0.65rem; opacity: 0.85; margin-left: 3px;">🔍 View</span>`;
+        
+        badge.addEventListener('click', (e) => {
+          e.preventDefault();
+          e.stopPropagation();
+          const targetSubtopic = match.subtopic || h.textContent.replace(/¶/g, '').trim();
+          const mistakes = getMistakesForSubtopic(targetSubtopic);
+          openFocusAreaMistakesModal(targetSubtopic, mistakes, mistakesCount);
+        });
+
         h.appendChild(badge);
         h.classList.add('st-weak-section-heading');
       }
@@ -3085,8 +3327,8 @@
         const count = ws.total_mistakes !== undefined ? ws.total_mistakes : (ws.mistakes || 0);
         const displayName = (ws.subtopic || 'General Notes').replace(/^Ghatnachakra Extra Drill\s*[-–—]\s*/i, 'Drill: ');
         return `
-          <button type="button" class="st-subtopic-tag" data-subtopic="${encodeURIComponent(ws.subtopic)}" title="Click to jump to this subtopic section in notes">
-            ⚠️ ${escapeHtml(displayName)} <strong>(${count} Miss${count > 1 ? 'es' : ''})</strong> ➔
+          <button type="button" class="st-subtopic-tag" data-subtopic="${encodeURIComponent(ws.subtopic)}" title="Click to review mistakes in ${escapeHtml(displayName)}">
+            ⚠️ ${escapeHtml(displayName)} <strong>(${count} Miss${count > 1 ? 'es' : ''})</strong> 🔍
           </button>
         `;
       }).join('');
@@ -3094,7 +3336,12 @@
       chipsContainer.querySelectorAll('.st-subtopic-tag').forEach(tag => {
         tag.addEventListener('click', (e) => {
           const sub = decodeURIComponent(e.currentTarget.getAttribute('data-subtopic') || '');
-          scrollToSubtopicHeading(sub);
+          const mistakes = getMistakesForSubtopic(sub);
+          if (mistakes.length > 0) {
+            openFocusAreaMistakesModal(sub, mistakes, mistakes.length);
+          } else {
+            scrollToSubtopicHeading(sub);
+          }
         });
       });
 
@@ -3191,6 +3438,7 @@
     let timerInterval = null;
 
     const isMasteryGate = !!testOptions.isMasteryGate;
+    const isMasteryRedemption = !!testOptions.isMasteryRedemption;
 
     // Check if an uncompleted test session backup exists for this chapter
     const sessionBackup = getQuizSessionBackup();
@@ -3199,6 +3447,16 @@
       sessionBackup.topic === (topicInfo.slug || topicInfo.topic) &&
       Array.isArray(sessionBackup.questionSubset) &&
       sessionBackup.questionSubset.length > 0;
+
+    // Direct launch if Fast-Track Mastery Redemption Drill
+    if (isMasteryRedemption) {
+      if (testOptions.customQuestions && testOptions.customQuestions.length > 0) {
+        questionSubset = testOptions.customQuestions;
+      }
+      testMode = 'exam';
+      startActiveQuiz();
+      return;
+    }
 
     // Direct launch if Mastery Gate Qualifying Exam (50 questions, exam mode)
     if (isMasteryGate) {
@@ -3590,7 +3848,11 @@
             <div class="st-mastery-test-strip">
               <span>⚔️ <strong>Chapter Mastery Qualifying Exam:</strong> ${total} Questions &bull; <strong>Must Score &ge;80% to Mark Chapter as Read</strong></span>
             </div>
-          ` : ''}
+          ` : (isMasteryRedemption ? `
+            <div class="st-mastery-test-strip st-redemption-test-strip">
+              <span>⚡ <strong>Fast-Track Mastery Redemption Drill:</strong> ${total} Questions &bull; <strong>Must Score 100% Accuracy (${total}/${total} Correct) to Conquer Chapter</strong></span>
+            </div>
+          ` : '')}
           <!-- Quiz Top Bar -->
           <div class="st-quiz-topbar">
             <div class="st-quiz-progress-text">
@@ -3822,11 +4084,18 @@
             topic: topicInfo.slug || topicInfo.topic,
             topic_title: topicInfo.title,
             time_spent_seconds: totalTimeSec,
-            test_mode: isMasteryGate ? 'Chapter Mastery Exam' : (testMode === 'exam' ? 'Live Exam CBT' : 'Practice Drill'),
+            test_mode: isMasteryGate ? 'Chapter Mastery Exam' : (isMasteryRedemption ? 'Mastery Redemption Drill' : (testMode === 'exam' ? 'Live Exam CBT' : 'Practice Drill')),
             question_ids: questionSubset.map(q => q.q_id),
             total_questions: questionSubset.length,
             answers: selectedAnswers,
-            is_mastery_gate: isMasteryGate
+            is_mastery_gate: isMasteryGate,
+            is_mastery_redemption: isMasteryRedemption,
+            // Send option shuffle maps so the server can de-map user answers
+            // back to canonical letters before scoring against the DB
+            option_maps: questionSubset.reduce((acc, q) => {
+              if (q._option_map) acc[q.q_id] = q._option_map;
+              return acc;
+            }, {})
           })
         });
 
@@ -3905,9 +4174,10 @@
       refreshPastScoresBadge(topicInfo);
 
       const isMasteryPassed = isMasteryGate && (sc.total_questions >= 5) && (sc.score_pct >= 80) && (sc.net_marks > 0);
+      const isRedemptionPassed = isMasteryRedemption && (sc.total_questions >= 5) && (sc.correct === sc.total_questions);
 
-      if (isMasteryGate) {
-        if (isMasteryPassed) {
+      if (isMasteryGate || isMasteryRedemption) {
+        if (isMasteryPassed || isRedemptionPassed) {
           if (typeof testOptions.onMasteryPassed === 'function') {
             testOptions.onMasteryPassed(sc);
           }
@@ -3916,6 +4186,45 @@
             testOptions.onMasteryFailed(sc);
           }
         }
+      }
+
+      // -------------------------------------------------------------
+      // Calculate Fast-Track Redemption Drill Pool
+      // Rule: 2x missed problems (minimum 15, capped at chapter pool), 100% accuracy required
+      // -------------------------------------------------------------
+      const missedQMap = new Map();
+      (sc.wrong_questions || []).forEach(w => missedQMap.set(w.q_id, w));
+      questionSubset.forEach(q => {
+        const uAns = (selectedAnswers[q.q_id] || '').toUpperCase();
+        const valid = q.all_correct_answers || [q.correct_answer];
+        if (!uAns || !valid.includes(uAns)) {
+          if (!missedQMap.has(q.q_id)) missedQMap.set(q.q_id, q);
+        }
+      });
+
+      const missedQuestions = Array.from(missedQMap.values());
+      const M = missedQuestions.length;
+      let redemptionPool = [];
+
+      if (M > 0) {
+        const allChapterQs = (loadedQuestions && loadedQuestions.length > 0) ? loadedQuestions : questionSubset;
+        const redemptionCount = Math.min(allChapterQs.length, Math.max(15, 2 * M));
+        const neededReinforcement = Math.max(0, redemptionCount - M);
+
+        const remainingPool = allChapterQs.filter(q => !missedQMap.has(q.q_id));
+        const shuffledRemaining = [...remainingPool].sort(() => 0.5 - Math.random());
+        const reinforcementQs = shuffledRemaining.slice(0, neededReinforcement);
+
+        const combined = [...missedQuestions, ...reinforcementQs];
+        if (combined.length < redemptionCount) {
+          for (const q of allChapterQs) {
+            if (!combined.some(c => c.q_id === q.q_id)) {
+              combined.push(q);
+              if (combined.length >= redemptionCount) break;
+            }
+          }
+        }
+        redemptionPool = [...combined].sort(() => 0.5 - Math.random());
       }
 
       // Automatically update the Flag Weak button on Card 4 based on test result
@@ -3968,11 +4277,55 @@
                   <h4>MASTERY NOT ACHIEVED (${sc.score_pct}% &lt; 80% Required)</h4>
                   <p>You scored <strong>${sc.score_pct}% Total Exam Score</strong> (Net: <strong>${sc.net_marks}/${sc.max_marks}</strong> marks &bull; ${sc.correct}/${sc.total_questions} correct &bull; ${sc.accuracy_pct}% Accuracy on attempted). Under your preparation rules, you must achieve <strong>at least 80% of total exam marks (${(sc.max_marks * 0.8).toFixed(1)}/${sc.max_marks})</strong> on this 50-Question Qualifying Exam to finish this chapter.</p>
                   <div class="st-mfail-tag">⚠️ Chapter Remains PENDING &bull; NOT Marked as Read</div>
-                  <p class="st-mfail-sub">Review your wrong questions below, revise your notes, and re-attempt the 50-Question Mastery Exam when ready!</p>
+                  <p class="st-mfail-sub">Review your wrong questions below, revise your notes, or activate the Fast-Track 100% Redemption Drill below!</p>
                 </div>
               </div>
             `
-          ) : ''}
+          ) : (isMasteryRedemption ? (
+            isRedemptionPassed ? `
+              <div class="st-mastery-pass-card st-redemption-pass-card">
+                <div class="st-mpass-icon">⚡🏆</div>
+                <div class="st-mpass-body">
+                  <h4>CHAPTER OFFICIALLY CONQUERED VIA 100% REDEMPTION!</h4>
+                  <p>You scored a perfect <strong>${sc.correct}/${sc.total_questions} (100% Accuracy)</strong>, completely eliminating all previous missed questions and clearing your weak spots!</p>
+                  <div class="st-mpass-tag">✅ +1 Read Recorded &bull; Cleared from Daily Plan &amp; Backlog</div>
+                </div>
+              </div>
+            ` : `
+              <div class="st-mastery-fail-card st-redemption-fail-card">
+                <div class="st-mfail-icon">⚡🛑</div>
+                <div class="st-mfail-body">
+                  <h4>REDEMPTION INCOMPLETE (${sc.correct}/${sc.total_questions} Correct)</h4>
+                  <p>You scored <strong>${sc.correct}/${sc.total_questions} (${sc.accuracy_pct}% Accuracy)</strong>. Fast-track redemption strictly requires <strong>100% Accuracy (all ${sc.total_questions} correct)</strong> to qualify without retaking the 50-Q exam.</p>
+                  <div class="st-mfail-tag">⚠️ Chapter Remains PENDING &bull; NOT Marked as Read</div>
+                  <p class="st-mfail-sub">Review your remaining misses below and launch another redemption drill, or retake the full 50-question qualifying exam.</p>
+                </div>
+              </div>
+            `
+          ) : '')}
+
+          ${(redemptionPool.length > 0 && ((isMasteryGate && !isMasteryPassed) || (isMasteryRedemption && !isRedemptionPassed))) ? `
+            <div class="st-mastery-redemption-card">
+              <div class="st-mredemption-header">
+                <div class="st-mredemption-icon">⚡</div>
+                <div class="st-mredemption-info">
+                  <div class="st-mredemption-title">⚡ Fast-Track 100% Mastery Redemption Available</div>
+                  <div class="st-mredemption-sub">
+                    Skip retaking all 50 questions! Prove complete mastery on a targeted <strong>${redemptionPool.length}-Question Drill</strong> (${M} missed + ${redemptionPool.length - M} random reinforcement).
+                  </div>
+                </div>
+              </div>
+              <div class="st-mredemption-bar">
+                <div class="st-mredemption-target-badge">🎯 Required: <strong>100% Accuracy (${redemptionPool.length}/${redemptionPool.length} Correct)</strong></div>
+                <div class="st-mredemption-reward-badge">🏆 Instant Conquer (+1 Read Recorded)</div>
+              </div>
+              <div class="st-mredemption-action-row">
+                <button type="button" class="st-btn st-btn-primary st-btn-redemption" id="st-btn-launch-redemption">
+                  ⚡ Start ${redemptionPool.length}-Q Redemption Drill (100% Target)
+                </button>
+              </div>
+            </div>
+          ` : ''}
 
           ${(sc.auto_flagged || evaluationData.auto_flagged || (sc.accuracy_pct < 75 && sc.attempted > 0)) ? `
             <div class="st-alert-auto-weak" style="margin-top: 1rem; padding: 0.85rem 1.15rem; background: rgba(239, 68, 68, 0.08); border: 1.5px solid rgba(239, 68, 68, 0.35); border-radius: 0.65rem; display: flex; align-items: center; gap: 0.75rem; color: #dc2626; font-size: 0.86rem; line-height: 1.4;">
@@ -4098,7 +4451,11 @@
           <!-- Actions -->
           <div class="st-form-actions" style="margin-top: 1.5rem;">
             <button type="button" class="st-btn st-btn-outline" id="st-close-scorecard">Close & Back to Notes</button>
-            <button type="button" class="st-btn st-btn-primary" id="st-retake-test">🔄 Retake Test</button>
+            ${(isMasteryGate || isMasteryRedemption) ? `
+              <button type="button" class="st-btn st-btn-secondary" id="st-retake-50q-test">🔄 Retake Standard 50-Q Exam</button>
+            ` : `
+              <button type="button" class="st-btn st-btn-primary" id="st-retake-test">🔄 Retake Test</button>
+            `}
           </div>
         </div>
       `;
@@ -4126,6 +4483,47 @@
 
       document.getElementById('st-close-scorecard')?.addEventListener('click', closeModal);
       document.getElementById('st-retake-test')?.addEventListener('click', () => openTestEngineModal(topicInfo));
+
+      document.getElementById('st-retake-50q-test')?.addEventListener('click', () => {
+        closeModal();
+        openTestEngineModal(topicInfo, {
+          isMasteryGate: true,
+          targetAccuracy: 80,
+          questionCount: 50,
+          testMode: 'exam',
+          onMasteryPassed: async (newSc) => {
+            await officiallyConquerChapter(topicInfo, newSc);
+            if (typeof testOptions.onMasteryPassed === 'function') {
+              await testOptions.onMasteryPassed(newSc);
+            }
+          },
+          onMasteryFailed: (newSc) => {
+            if (typeof testOptions.onMasteryFailed === 'function') {
+              testOptions.onMasteryFailed(newSc);
+            }
+          }
+        });
+      });
+
+      document.getElementById('st-btn-launch-redemption')?.addEventListener('click', () => {
+        closeModal();
+        openTestEngineModal(topicInfo, {
+          isMasteryRedemption: true,
+          customQuestions: redemptionPool,
+          testMode: 'exam',
+          onMasteryPassed: async (newSc) => {
+            await officiallyConquerChapter(topicInfo, newSc);
+            if (typeof testOptions.onMasteryPassed === 'function') {
+              await testOptions.onMasteryPassed(newSc);
+            }
+          },
+          onMasteryFailed: (newSc) => {
+            if (typeof testOptions.onMasteryFailed === 'function') {
+              testOptions.onMasteryFailed(newSc);
+            }
+          }
+        });
+      });
     }
 
     if (testOptions && testOptions.autoStartCount) {
@@ -5405,6 +5803,8 @@
     const eveningTargets = readingTopics.filter(t => t.slot === 'evening' && t.status !== 'achieved' && !isPastDate);
     const achievedTopics = readingTopics.filter(t => t.status === 'achieved');
     const dateBacklogTopics = readingTopics.filter(t => t.status !== 'achieved' && (t.missed_12pm || t.missed_midnight || t.slot === 'pending' || isPastDate));
+    const pendingChaptersCount = readingTopics.filter(t => t.status !== 'achieved').length;
+    const isChapterLimitReached = pendingChaptersCount >= 10;
 
     // Overall Cumulative Backlog (all past unachieved topics)
     const rawOverallBacklog = (serverBacklog && Array.isArray(serverBacklog.backlog))
@@ -5865,6 +6265,27 @@
                 </span>
               </div>
 
+              <!-- Capacity Meter: Strict 10 Active Chapters Limit -->
+              <div class="st-capacity-meter-box ${isChapterLimitReached ? 'is-full' : ''}" style="margin-bottom:0.85rem; padding:0.75rem 1rem; border-radius:10px; background:${isChapterLimitReached ? 'rgba(239, 68, 68, 0.08)' : 'rgba(59, 130, 246, 0.06)'}; border:1.5px solid ${isChapterLimitReached ? 'rgba(239, 68, 68, 0.4)' : 'rgba(59, 130, 246, 0.25)'};">
+                <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:0.35rem; flex-wrap:wrap; gap:0.35rem;">
+                  <span style="font-weight:700; font-size:0.82rem; color:${isChapterLimitReached ? '#dc2626' : 'var(--md-default-fg-color)'};">
+                    📚 Active Chapter Queue: <strong>${pendingChaptersCount} / 10 Chapters</strong>
+                  </span>
+                  <span style="font-size:0.75rem; font-weight:800; color:${isChapterLimitReached ? '#ef4444' : '#10b981'}; background:${isChapterLimitReached ? 'rgba(239, 68, 68, 0.15)' : 'rgba(16, 185, 129, 0.15)'}; padding:0.15rem 0.5rem; border-radius:9999px;">
+                    ${isChapterLimitReached ? '🛑 Queue Full (10/10)' : `🟢 ${10 - pendingChaptersCount} slot${(10 - pendingChaptersCount) === 1 ? '' : 's'} available`}
+                  </span>
+                </div>
+                <div style="height:6px; background:rgba(0,0,0,0.08); border-radius:9999px; overflow:hidden;">
+                  <div style="height:100%; width:${Math.min(100, (pendingChaptersCount / 10) * 100)}%; background:${isChapterLimitReached ? '#ef4444' : (pendingChaptersCount >= 8 ? '#f59e0b' : '#3b82f6')}; transition:width 0.3s ease;"></div>
+                </div>
+                ${isChapterLimitReached ? `
+                  <div style="margin-top:0.45rem; font-size:0.78rem; color:#dc2626; font-weight:700; line-height:1.4; display:flex; align-items:center; gap:0.4rem;">
+                    <span>🛑</span>
+                    <span><strong>Queue Limit Reached:</strong> Maximum 10 active chapters allowed. Read these first and mark +1 Read count to unlock new slots!</span>
+                  </div>
+                ` : ''}
+              </div>
+
               <!-- Quick Add Topic Form with Subject & Multi-Select Chapter Checklist -->
               <form class="st-planner-quick-form" id="st-form-add-topic">
                 <div class="st-form-row">
@@ -5916,8 +6337,8 @@
                   <div style="flex: 1.4; min-width: 140px;">
                     <input type="text" id="st-topic-notes" class="st-planner-input" style="width: 100%;" placeholder="Target notes (e.g. 20 pgs + 30 PYQs)" />
                   </div>
-                  <button type="submit" class="st-btn st-btn-primary" style="padding: 0.45rem 1rem; font-size: 0.82rem; white-space: nowrap;">
-                    ➕ Add Target(s)
+                  <button type="submit" class="st-btn st-btn-primary" ${isChapterLimitReached ? 'disabled style="padding: 0.45rem 1rem; font-size: 0.82rem; white-space: nowrap; opacity:0.6; cursor:not-allowed;"' : 'style="padding: 0.45rem 1rem; font-size: 0.82rem; white-space: nowrap;"'}>
+                    ${isChapterLimitReached ? '🛑 Queue Full (10/10)' : '➕ Add Target(s)'}
                   </button>
                 </div>
               </form>
@@ -6824,6 +7245,32 @@
         return;
       }
 
+      // Check active chapter capacity (Strict 10-chapter limit)
+      const currentPlanner = getLocalDailyPlanner(activePlannerDate);
+      const currentPending = (currentPlanner && currentPlanner.reading_topics)
+        ? currentPlanner.reading_topics.filter(t => t.status !== 'achieved').length
+        : 0;
+
+      if (currentPending >= 10) {
+        showModal('🛑 Active Chapter Limit Reached (10/10)', `
+          <div style="padding: 1.5rem 1rem; text-align: center;">
+            <div style="font-size: 2.5rem; margin-bottom: 0.5rem;">🛑</div>
+            <h3 style="color: #ef4444; font-weight: 800; margin-bottom: 0.5rem;">Chapter Queue Full (10/10 Chapters)</h3>
+            <p style="font-size: 0.95rem; line-height: 1.5; color: var(--md-default-fg-color); max-width: 440px; margin: 0 auto 1.25rem;">
+              You already have <strong>${currentPending} active chapters</strong> in your Prep Tracker list. Under your preparation rules, you can only have at most 10 active chapters at a time.
+            </p>
+            <div style="padding: 0.85rem 1rem; border-radius: 8px; background: rgba(239, 68, 68, 0.08); border: 1px solid rgba(239, 68, 68, 0.25); font-size: 0.88rem; font-weight: 700; color: #dc2626; margin-bottom: 1.5rem;">
+              📖 Read these first and mark +1 Read count (via the Qualifying Exam &ge;80% or 100% Redemption Drill) to unlock new slots!
+            </div>
+            <button type="button" class="st-btn st-btn-primary" id="st-btn-ack-limit" style="padding: 0.5rem 1.5rem;">
+              Got it, I will finish current chapters first
+            </button>
+          </div>
+        `);
+        document.getElementById('st-btn-ack-limit')?.addEventListener('click', closeModal);
+        return;
+      }
+
       await apiAddPlannerTopicsBatch(activePlannerDate, sub, selectedChapters, slot, notes);
       renderPrepDashboard();
     });
@@ -6850,6 +7297,16 @@
         const id = btn.dataset.id;
         const fromDate = btn.dataset.date;
         const today = getTodayISODate();
+        const todayPlanner = getLocalDailyPlanner(today);
+        const todayPending = (todayPlanner && todayPlanner.reading_topics)
+          ? todayPlanner.reading_topics.filter(item => item.status !== 'achieved').length
+          : 0;
+
+        if (todayPending >= 10) {
+          alert(`🛑 Today's queue is already full (10/10 active chapters)!\n\nPlease read and mark +1 Read count on today's active chapters before rolling over more backlog.`);
+          return;
+        }
+
         const local = getLocalDailyPlanner(fromDate);
         const t = (local.reading_topics || []).find(item => item.id === id);
         if (t) {
@@ -6909,6 +7366,16 @@
       btn.addEventListener('click', async () => {
         const id = btn.dataset.id;
         const todayStr = getTodayISODate();
+        const todayPlanner = getLocalDailyPlanner(todayStr);
+        const todayPending = (todayPlanner && todayPlanner.reading_topics)
+          ? todayPlanner.reading_topics.filter(item => item.status !== 'achieved').length
+          : 0;
+
+        if (todayPending >= 10) {
+          alert(`🛑 Today's queue is already full (10/10 active chapters)!\n\nPlease read and mark +1 Read count on today's active chapters before moving more.`);
+          return;
+        }
+
         const local = getLocalDailyPlanner(activePlannerDate);
         const t = (local.reading_topics || []).find(item => item.id === id);
         if (t) {
@@ -6929,6 +7396,16 @@
         const m = String(d.getMonth() + 1).padStart(2, '0');
         const day = String(d.getDate()).padStart(2, '0');
         const tomorrowStr = `${y}-${m}-${day}`;
+
+        const tomorrowPlanner = getLocalDailyPlanner(tomorrowStr);
+        const tomorrowPending = (tomorrowPlanner && tomorrowPlanner.reading_topics)
+          ? tomorrowPlanner.reading_topics.filter(item => item.status !== 'achieved').length
+          : 0;
+
+        if (tomorrowPending >= 10) {
+          alert(`🛑 Tomorrow's queue is already at capacity (10/10 active chapters)!\n\nRead and mark +1 Read count on existing chapters first.`);
+          return;
+        }
 
         const local = getLocalDailyPlanner(activePlannerDate);
         const t = (local.reading_topics || []).find(item => item.id === id);

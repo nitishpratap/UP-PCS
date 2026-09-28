@@ -3466,10 +3466,10 @@ D. HDR 2005
 
 PMLA is primarily concerned with
 
-A. Only MSP fixation
+A. Fixation of minimum support prices for mandated kharif crops
 B. Prevention and control of money laundering
-C. Only CRR prescription
-D. Only BIMSTEC summits
+C. Prescribing statutory liquidity ratios for urban cooperative banks
+D. Regulating multilateral trade tariffs under regional preferential pacts
 
 <details>
 <summary>Show answer</summary>
@@ -3727,10 +3727,10 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 NITI Aayog’s SDG India Index mainly ranks
 
-A. Only IMF quotas
+A. District-level credit-deposit ratios among scheduled commercial banks
 B. States and UTs on Sustainable Development Goal performance
-C. Only G20 logo petals
-D. Only CRR across banks
+C. Annual export turnover achieved by special economic zone operators
+D. Total foreign portfolio investment absorbed by municipal bond markets
 
 <details>
 <summary>Show answer</summary>

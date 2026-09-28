@@ -1278,9 +1278,9 @@ D. Only steel melting
 India’s GDP composition in recent decades is characterised by
 
 A. Services as the largest sectoral share in recent decades
-B. Only agriculture forever above 80% of GDP
-C. Services banned after 1991
-D. Only CRR as a GDP component
+B. Secondary manufacturing accounting for over 70% of gross value added
+C. Primary agriculture remaining the majority contributor to total GDP
+D. Mining and quarrying generating the majority of export receipts
 
 <details>
 <summary>Show answer</summary>
@@ -1697,10 +1697,10 @@ D. Only calorie poverty lines
 
 Tourism as a services activity mainly sells
 
-A. Only steel billets
+A. Intermediate capital goods and heavy metallurgical products
 B. Experiences, hospitality and related travel services
-C. Only crude oil refining
-D. Only CRR balances
+C. Extractive petroleum refining and pipeline distribution quotas
+D. Wholesale commodity futures and derivative contracts
 
 <details>
 <summary>Show answer</summary>

@@ -1408,6 +1408,7 @@ body.fact-lock-page .fact-lock-sheet .study-mcq {
 .chapter-tracker-page .md-content {
   max-width: 52rem;
 }
+.ct-toolbar {
   position: sticky;
   top: 3.2rem;
   z-index: 4;
@@ -5374,7 +5375,7 @@ body.st-vault-locked .md-header {
   font-family: var(--study-ui);
   font-size: 0.72rem;
   font-weight: 700;
-  padding: 0.2rem 0.6rem;
+  padding: 0.2rem 0.65rem;
   border-radius: 9999px;
   background: rgba(239, 68, 68, 0.12);
   color: #dc2626;
@@ -5383,6 +5384,22 @@ body.st-vault-locked .md-header {
   vertical-align: middle;
   line-height: 1.2;
   letter-spacing: 0.01em;
+  cursor: pointer;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 1px 3px rgba(239, 68, 68, 0.1);
+  user-select: none;
+}
+
+.st-subtopic-in-note-badge:hover {
+  background: rgba(239, 68, 68, 0.22);
+  border-color: #ef4444;
+  color: #b91c1c;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(239, 68, 68, 0.25);
+}
+
+.st-subtopic-in-note-badge:active {
+  transform: translateY(0);
 }
 
 [data-md-color-scheme="slate"] .st-subtopic-in-note-badge {
@@ -5391,11 +5408,43 @@ body.st-vault-locked .md-header {
   border-color: rgba(239, 68, 68, 0.5);
 }
 
+[data-md-color-scheme="slate"] .st-subtopic-in-note-badge:hover {
+  background: rgba(239, 68, 68, 0.35);
+  color: #fee2e2;
+  border-color: #f87171;
+  box-shadow: 0 4px 12px rgba(239, 68, 68, 0.4);
+}
+
 .st-weak-section-heading {
   border-left: 4px solid #ef4444 !important;
   padding-left: 0.75rem !important;
   border-radius: 2px;
   transition: all 0.3s ease;
+}
+
+/* Mistake Review Modal Styling */
+.st-mistake-card {
+  transition: all 0.2s ease;
+}
+.st-mistake-card:hover {
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.06);
+}
+[data-md-color-scheme="slate"] .st-mistake-card {
+  background: rgba(255, 255, 255, 0.03) !important;
+  border-color: rgba(239, 68, 68, 0.3) !important;
+}
+.st-mistake-opt {
+  transition: all 0.15s ease;
+}
+[data-md-color-scheme="slate"] .st-mistake-opt.is-correct-opt {
+  background: rgba(16, 185, 129, 0.16) !important;
+  border-color: #059669 !important;
+  color: #6ee7b7;
+}
+[data-md-color-scheme="slate"] .st-mistake-opt.is-user-wrong-opt {
+  background: rgba(239, 68, 68, 0.18) !important;
+  border-color: #dc2626 !important;
+  color: #fca5a5;
 }
 
 @keyframes stFlashHighlight {
@@ -7991,4 +8040,150 @@ mjx-container[jax='CHTML'][display='true'] {
 .st-completed-pop {
   animation: st-success-pop 0.3s cubic-bezier(0.16, 1, 0.3, 1);
 }
+
+/* --------------------------------------------------------------------------
+   Fast-Track 100% Mastery Redemption Component
+   -------------------------------------------------------------------------- */
+.st-mastery-redemption-card {
+  margin: 1.25rem 0;
+  padding: 1.15rem 1.35rem;
+  border-radius: 12px;
+  background: linear-gradient(135deg, rgba(245, 158, 11, 0.08) 0%, rgba(217, 119, 6, 0.12) 100%);
+  border: 1.5px solid rgba(245, 158, 11, 0.4);
+  box-shadow: 0 4px 16px rgba(245, 158, 11, 0.12);
+  transition: all 0.25s ease;
+}
+
+[data-md-color-scheme="slate"] .st-mastery-redemption-card {
+  background: linear-gradient(135deg, rgba(245, 158, 11, 0.12) 0%, rgba(180, 83, 9, 0.18) 100%);
+  border-color: rgba(245, 158, 11, 0.45);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.35);
+}
+
+.st-mredemption-header {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.85rem;
+  margin-bottom: 0.85rem;
+}
+
+.st-mredemption-icon {
+  font-size: 1.8rem;
+  line-height: 1;
+  filter: drop-shadow(0 2px 4px rgba(245, 158, 11, 0.3));
+}
+
+.st-mredemption-info {
+  flex: 1;
+}
+
+.st-mredemption-title {
+  font-size: 1.05rem;
+  font-weight: 800;
+  color: #b45309;
+  letter-spacing: -0.01em;
+  margin-bottom: 0.25rem;
+}
+
+[data-md-color-scheme="slate"] .st-mredemption-title {
+  color: #fbbf24;
+}
+
+.st-mredemption-sub {
+  font-size: 0.86rem;
+  line-height: 1.45;
+  color: var(--md-default-fg-color);
+  opacity: 0.9;
+}
+
+.st-mredemption-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  margin-bottom: 1rem;
+}
+
+.st-mredemption-target-badge {
+  font-size: 0.78rem;
+  font-weight: 700;
+  padding: 0.3rem 0.7rem;
+  border-radius: 9999px;
+  background: rgba(239, 68, 68, 0.12);
+  color: #dc2626;
+  border: 1px solid rgba(239, 68, 68, 0.3);
+}
+
+[data-md-color-scheme="slate"] .st-mredemption-target-badge {
+  background: rgba(239, 68, 68, 0.22);
+  color: #fca5a5;
+  border-color: rgba(239, 68, 68, 0.4);
+}
+
+.st-mredemption-reward-badge {
+  font-size: 0.78rem;
+  font-weight: 700;
+  padding: 0.3rem 0.7rem;
+  border-radius: 9999px;
+  background: rgba(16, 185, 129, 0.12);
+  color: #059669;
+  border: 1px solid rgba(16, 185, 129, 0.3);
+}
+
+[data-md-color-scheme="slate"] .st-mredemption-reward-badge {
+  background: rgba(16, 185, 129, 0.22);
+  color: #6ee7b7;
+  border-color: rgba(16, 185, 129, 0.4);
+}
+
+.st-mredemption-action-row {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.st-btn-redemption {
+  background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%) !important;
+  border: none !important;
+  color: #fff !important;
+  font-weight: 800 !important;
+  padding: 0.65rem 1.4rem !important;
+  border-radius: 8px !important;
+  font-size: 0.88rem !important;
+  box-shadow: 0 4px 14px rgba(217, 119, 6, 0.35) !important;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1) !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  gap: 0.4rem !important;
+  cursor: pointer !important;
+}
+
+.st-btn-redemption:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(217, 119, 6, 0.45) !important;
+  filter: brightness(1.05);
+}
+
+.st-btn-redemption:active {
+  transform: translateY(0);
+}
+
+.st-redemption-test-strip {
+  background: linear-gradient(90deg, rgba(245, 158, 11, 0.15) 0%, rgba(217, 119, 6, 0.25) 100%) !important;
+  border-left: 4px solid #f59e0b !important;
+  color: #b45309 !important;
+}
+
+[data-md-color-scheme="slate"] .st-redemption-test-strip {
+  background: linear-gradient(90deg, rgba(245, 158, 11, 0.2) 0%, rgba(217, 119, 6, 0.3) 100%) !important;
+  color: #fde68a !important;
+}
+
+.st-redemption-pass-card {
+  border-color: #f59e0b !important;
+  background: linear-gradient(135deg, rgba(16, 185, 129, 0.08) 0%, rgba(245, 158, 11, 0.08) 100%) !important;
+}
+
+.st-redemption-fail-card {
+  border-color: #ef4444 !important;
+}
+
 

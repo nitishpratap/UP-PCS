@@ -253,6 +253,256 @@ function setupFileWatcher() {
   }
 }
 
+// ------------------- ADVANCED QUESTION RANDOMIZATION ------------------- //
+// Prevents predictable answer patterns across all question types at serve-time:
+// 1. Match-the-following: Permutes List-II items in the table, recalculates the code,
+//    generates 3 genuine permutation distractors, and eliminates straight-row (1 2 3 4 / 2 1 3 4) give-aways.
+// 2. Multi-statement questions: Re-balances statement formats into UPPCS 2024 Prelims quantity format
+//    ("Only one / Only two / All three / None") preventing predictable "1, 2, 3" selection.
+// 3. Option letter shuffling: Randomizes A/B/C/D positions per question with _option_map.
+// All transformations preserve 100% factual accuracy and de-map back to canonical DB records for scoring.
+
+function randomizeMatchQuestion(question) {
+  if (!question || !question.stem || !question.options) return null;
+  const stem = question.stem;
+  if (!/List\s*[-–—I1]\b|Match\b|सुमेलित/i.test(stem)) return null;
+
+  const lines = stem.split('\n');
+  const tableStart = lines.findIndex(l => /\|\s*List-I/i.test(l));
+  if (tableStart === -1) return null;
+
+  let tableEnd = tableStart + 1;
+  while (tableEnd < lines.length && lines[tableEnd].trim().startsWith('|')) {
+    tableEnd++;
+  }
+
+  const tableLines = lines.slice(tableStart, tableEnd);
+  const rowLines = tableLines.slice(2).filter(l => l.trim().length > 0);
+  if (rowLines.length < 3 || rowLines.length > 4) return null;
+
+  const parsedRows = rowLines.map(row => {
+    const parts = row.split('|').map(s => s.trim()).filter(Boolean);
+    return { col1: parts[0] || '', col2: parts[1] || '' };
+  });
+
+  const correctLetter = (question.correct_answer || '').toUpperCase().trim();
+  const correctOptText = question.options[correctLetter] || '';
+  const digits = correctOptText.match(/\d/g);
+  if (!digits || digits.length !== parsedRows.length) return null;
+
+  const originalCode = digits.map(Number);
+  const list2Items = parsedRows.map(r => r.col2.replace(/^\d+[\.\)]\s*/, ''));
+
+  const pairs = parsedRows.map((r, i) => ({
+    l1Tag: r.col1,
+    matchingText: list2Items[originalCode[i] - 1]
+  }));
+
+  const n = parsedRows.length;
+  let newPerm = [...Array(n).keys()];
+  let attempts = 0;
+  do {
+    for (let i = n - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [newPerm[i], newPerm[j]] = [newPerm[j], newPerm[i]];
+    }
+    attempts++;
+  } while (attempts < 20 && newPerm.every((v, i) => v === i));
+
+  const newList2Texts = newPerm.map(idx => list2Items[idx]);
+  const newCode = pairs.map(p => newList2Texts.indexOf(p.matchingText) + 1);
+
+  const newRowLines = parsedRows.map((r, i) => `| ${r.col1} | ${i + 1}. ${newList2Texts[i]} |`);
+  const newTableLines = [tableLines[0], tableLines[1], ...newRowLines];
+  const newStem = [...lines.slice(0, tableStart), ...newTableLines, ...lines.slice(tableEnd)].join('\n');
+
+  const delimiter = correctOptText.includes(',') ? ', ' : (correctOptText.includes('-') ? '-' : ' ');
+  const hasLetterPrefix = /^[A-D]\s*[-–—:]/i.test(correctOptText.trim());
+
+  function formatCode(arr) {
+    if (hasLetterPrefix) {
+      const letters = ['A', 'B', 'C', 'D'];
+      return arr.map((num, idx) => `${letters[idx]}-${num}`).join(', ');
+    }
+    return arr.join(delimiter);
+  }
+
+  const correctCodeStr = formatCode(newCode);
+
+  const distractors = new Set();
+  let distAttempts = 0;
+  while (distractors.size < 3 && distAttempts < 50) {
+    distAttempts++;
+    const p = [...Array(n).keys()].map(x => x + 1);
+    for (let i = n - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [p[i], p[j]] = [p[j], p[i]];
+    }
+    const dStr = formatCode(p);
+    if (dStr !== correctCodeStr) {
+      distractors.add(dStr);
+    }
+  }
+
+  if (distractors.size < 3) return null;
+
+  const allChoices = [correctCodeStr, ...Array.from(distractors)];
+  for (let i = allChoices.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [allChoices[i], allChoices[j]] = [allChoices[j], allChoices[i]];
+  }
+
+  const letters = ['A', 'B', 'C', 'D'];
+  const newOptions = {};
+  let newCorrectLetter = 'A';
+  const optionMap = {};
+
+  letters.forEach((l, idx) => {
+    newOptions[l] = allChoices[idx];
+    if (allChoices[idx] === correctCodeStr) {
+      newCorrectLetter = l;
+      optionMap[l] = correctLetter;
+    } else {
+      const wrongOriginals = letters.filter(x => x !== correctLetter);
+      optionMap[l] = wrongOriginals[idx % wrongOriginals.length];
+    }
+  });
+
+  return {
+    ...question,
+    stem: newStem,
+    options: newOptions,
+    correct_answer: newCorrectLetter,
+    all_correct_answers: [newCorrectLetter],
+    _option_map: optionMap
+  };
+}
+
+function randomizeStatementQuestion(question) {
+  if (!question || !question.stem || !question.options) return null;
+  const stem = question.stem;
+
+  const stmtMatches = stem.match(/(?:^|\n)\s*(\d+)[\.\)]\s+(.+)/g);
+  if (!stmtMatches || stmtMatches.length < 2 || stmtMatches.length > 4) return null;
+  if (!/which of the (?:statements|pairs|above)/i.test(stem)) return null;
+
+  const correctLetter = (question.correct_answer || '').toUpperCase().trim();
+  const correctText = (question.options[correctLetter] || '').toLowerCase().trim();
+
+  let correctCount = null;
+  const totalStmts = stmtMatches.length;
+
+  if (/\b(?:all\s+(?:three|four|1,\s*2|of the above)|1\s*,\s*2\s*(?:and|&)\s*3(?:\s*(?:and|&)\s*4)?|both\s+1\s+and\s+2)\b/i.test(correctText)) {
+    correctCount = totalStmts;
+  } else if (/^(?:only\s+one|only\s+[1-4]|[1-4]\s+only|1\s+only|2\s+only|3\s+only|4\s+only)$/i.test(correctText)) {
+    correctCount = 1;
+  } else if (/\b(?:1\s*and\s*2|2\s*and\s*3|1\s*and\s*3|2\s*and\s*4|only\s+two)\b/i.test(correctText)) {
+    correctCount = 2;
+  } else if (/\b(?:1\s*,\s*2\s*and\s*4|1\s*,\s*3\s*and\s*4|2\s*,\s*3\s*and\s*4|only\s+three)\b/i.test(correctText)) {
+    correctCount = 3;
+  } else if (/\b(?:neither|none)\b/i.test(correctText)) {
+    correctCount = 0;
+  }
+
+  if (correctCount === null) return null;
+
+  let newStem = stem;
+  const promptRegex = /(?:Which of the (?:statements|pairs|above)[\s\S]*?(?:select the correct answer|code given below)?[:\?]?)\s*$/i;
+  if (promptRegex.test(newStem)) {
+    newStem = newStem.replace(promptRegex, 'How many of the above statements is/are correct?');
+  } else {
+    newStem += '\n\nHow many of the above statements is/are correct?';
+  }
+
+  const choices = [
+    { text: 'Only one', count: 1 },
+    { text: 'Only two', count: 2 },
+    { text: totalStmts >= 3 ? 'All three' : 'Both 1 and 2', count: totalStmts },
+    { text: 'None', count: 0 }
+  ];
+
+  for (let i = choices.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [choices[i], choices[j]] = [choices[j], choices[i]];
+  }
+
+  const letters = ['A', 'B', 'C', 'D'];
+  const newOptions = {};
+  let newCorrectLetter = 'A';
+  const optionMap = {};
+
+  letters.forEach((l, idx) => {
+    newOptions[l] = choices[idx].text;
+    if (choices[idx].count === correctCount) {
+      newCorrectLetter = l;
+      optionMap[l] = correctLetter;
+    } else {
+      const wrongOriginals = letters.filter(x => x !== correctLetter);
+      optionMap[l] = wrongOriginals[idx % wrongOriginals.length];
+    }
+  });
+
+  return {
+    ...question,
+    stem: newStem,
+    options: newOptions,
+    correct_answer: newCorrectLetter,
+    all_correct_answers: [newCorrectLetter],
+    _option_map: optionMap
+  };
+}
+
+function shuffleQuestionOptions(question) {
+  if (!question || !question.options) return question;
+
+  // 1. Try Match Question randomization first (shuffles List-II and recomputes answer codes)
+  const matchResult = randomizeMatchQuestion(question);
+  if (matchResult) return matchResult;
+
+  // 2. Try Statement Question UPPCS 2024 format randomization (~50% chance for variety)
+  if (Math.random() < 0.5) {
+    const stmtResult = randomizeStatementQuestion(question);
+    if (stmtResult) return stmtResult;
+  }
+
+  // 3. Fallback to standard option letter shuffling (A, B, C, D)
+  const letters = ['A', 'B', 'C', 'D'];
+  const hasAll = letters.every(l => question.options[l] && String(question.options[l]).trim());
+  if (!hasAll) return question;
+
+  const shuffled = [...letters];
+  for (let i = shuffled.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+  }
+
+  const isIdentity = letters.every((l, idx) => shuffled[idx] === l);
+  if (isIdentity) return question;
+
+  const optionMap = {};
+  const reverseMap = {};
+  const newOptions = {};
+
+  letters.forEach((newLetter, idx) => {
+    const originalLetter = shuffled[idx];
+    optionMap[newLetter] = originalLetter;
+    reverseMap[originalLetter] = newLetter;
+    newOptions[newLetter] = question.options[originalLetter];
+  });
+
+  const newCorrectAnswer = reverseMap[question.correct_answer] || question.correct_answer;
+  const newAllCorrect = (question.all_correct_answers || [question.correct_answer])
+    .map(a => reverseMap[a] || a);
+
+  return {
+    ...question,
+    options: newOptions,
+    correct_answer: newCorrectAnswer,
+    all_correct_answers: newAllCorrect,
+    _option_map: optionMap
+  };
+}
+
 // ------------------- API ROUTES ------------------- //
 
 // Enforce Basic Auth across all API endpoints
@@ -691,11 +941,15 @@ app.get('/api/chapter-questions', checkDb, async (req, res) => {
     }
 
     if (shuffle === 'true' || shuffle === true) {
-      // Fisher-Yates shuffle
+      // Fisher-Yates shuffle question order
       for (let i = questions.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
         [questions[i], questions[j]] = [questions[j], questions[i]];
       }
+
+      // Shuffle A/B/C/D options within each question to prevent
+      // predictable answer patterns (Match-List always A, Chronology always A, etc.)
+      questions = questions.map(q => shuffleQuestionOptions(q));
     }
 
     const totalAvailable = questions.length;
@@ -732,7 +986,8 @@ app.post('/api/chapter-test/evaluate', checkDb, async (req, res) => {
       topic_title,
       time_spent_seconds = 0,
       test_mode = 'Full Chapter Practice',
-      answers = {} // Map of { [q_id]: 'A' | 'B' | 'C' | 'D' }
+      answers = {},        // Map of { [q_id]: 'A' | 'B' | 'C' | 'D' }
+      option_maps = {}     // Map of { [q_id]: { A: origLetter, B: origLetter, ... } }
     } = req.body;
 
     const targetTopic = (topic || chapter || '').trim();
@@ -781,9 +1036,17 @@ app.post('/api/chapter-test/evaluate', checkDb, async (req, res) => {
     const wrongQuestions = [];
 
     dbQuestions.forEach((q, idx) => {
-      const userAns = (answers[q.q_id] || '').toUpperCase().trim();
+      let userAns = (answers[q.q_id] || '').toUpperCase().trim();
       const validAnswers = q.all_correct_answers || [q.correct_answer];
       let isCorrect = null;
+
+      // De-map shuffled user answer back to canonical letter using option_maps
+      // option_maps[q_id] = { A: 'C', B: 'A', C: 'D', D: 'B' } means
+      // "new A shows original C", so if user picked new A, canonical answer is C
+      const qMap = option_maps[q.q_id];
+      if (qMap && userAns && qMap[userAns]) {
+        userAns = qMap[userAns].toUpperCase();
+      }
 
       if (userAns) {
         attempted++;
@@ -809,6 +1072,8 @@ app.post('/api/chapter-test/evaluate', checkDb, async (req, res) => {
         unattempted++;
       }
 
+      // For the detailed review, show the canonical (original) options and answers
+      // so the review makes sense regardless of what shuffled order was shown
       detailedReview.push({
         q_id: q.q_id,
         q_num: idx + 1,
@@ -908,9 +1173,14 @@ app.post('/api/chapter-test/evaluate', checkDb, async (req, res) => {
 
     // Strict Chapter Mastery Gate: Requires at least 80% score of the TOTAL EXAM marks to mark read
     const isMasteryGate = req.body.is_mastery_gate === true;
-    // Must achieve >= 80% of total exam marks (netMarks / maxMarks), NOT just accuracy of attempted questions
-    // Chapter Mastery Exam must have at least 5 questions (e.g. 50 Qs) — never 1 question!
-    const isMasteryPassed = isMasteryGate && (totalQuestions >= 5) && (scorePct >= minMasteryScorePct) && (netMarks > 0);
+    const isMasteryRedemption = req.body.is_mastery_redemption === true;
+    const minMasteryScorePct = 80;
+
+    // Must achieve >= 80% of total exam marks (netMarks / maxMarks) for standard qualifying exam,
+    // OR strictly 100% accuracy (all questions correct) on targeted redemption drill
+    const isStandardMasteryPassed = isMasteryGate && (totalQuestions >= 5) && (scorePct >= minMasteryScorePct) && (netMarks > 0);
+    const isRedemptionPassed = isMasteryRedemption && (totalQuestions >= 5) && (correct === totalQuestions);
+    const isMasteryPassed = isStandardMasteryPassed || isRedemptionPassed;
     let newRevisionNumber = null;
 
     if (isMasteryPassed) {
@@ -921,14 +1191,19 @@ app.post('/api/chapter-test/evaluate', checkDb, async (req, res) => {
       });
       newRevisionNumber = count + 1;
       const logDate = new Date();
+      const stageName = isRedemptionPassed ? '⚡ Chapter Conquered (100% Redemption Drill)' : '🏆 Chapter Mastery Exam Passed';
+      const notesMsg = isRedemptionPassed
+        ? `⚡ Chapter Conquered via 100% Mastery Redemption Drill • 100% Accuracy (${correct}/${totalQuestions} Correct) • All Previous Mistakes Eliminated`
+        : `🏆 Chapter Mastery Exam Passed • Total Score: ${scorePct}% (${netMarks > 0 ? '+' : ''}${netMarks}/${maxMarks} marks) • Accuracy: ${accuracy}% (${correct}/${totalQuestions} Correct, ${incorrect} Incorrect, ${unattempted} Unattempted)`;
+
       await db.collection('revisions').insertOne({
         subject: evaluationDoc.subject,
         topic: targetTopic,
         topic_title: evaluationDoc.topic_title,
         revision_number: newRevisionNumber,
         confidence: 5,
-        stage: '🏆 Chapter Mastery Exam Passed',
-        notes: `🏆 Chapter Mastery Exam Passed • Total Score: ${scorePct}% (${netMarks > 0 ? '+' : ''}${netMarks}/${maxMarks} marks) • Accuracy: ${accuracy}% (${correct}/${totalQuestions} Correct, ${incorrect} Incorrect, ${unattempted} Unattempted)`,
+        stage: stageName,
+        notes: notesMsg,
         score_pct: scorePct,
         net_marks: netMarks,
         max_marks: maxMarks,
@@ -1014,14 +1289,18 @@ app.post('/api/chapter-test/evaluate', checkDb, async (req, res) => {
       auto_flagged: isAutoFlagged,
       cleared_mastery: isClearedMastery,
       mastery_gate: isMasteryGate,
+      is_mastery_redemption: isMasteryRedemption,
       mastery_passed: isMasteryPassed,
+      redemption_passed: isRedemptionPassed,
       new_read_count: newRevisionNumber,
       scorecard: {
         ...evaluationDoc,
         auto_flagged: isAutoFlagged,
         cleared_mastery: isClearedMastery,
         mastery_gate: isMasteryGate,
+        is_mastery_redemption: isMasteryRedemption,
         mastery_passed: isMasteryPassed,
+        redemption_passed: isRedemptionPassed,
         new_read_count: newRevisionNumber,
         _id: insertRes.insertedId
       },
@@ -1536,6 +1815,21 @@ app.post('/api/daily-planner/topic', checkDb, async (req, res) => {
       return res.status(400).json({ error: 'Subject and topic are required' });
     }
     const targetDate = date || getTodayStr();
+
+    // Enforce strict 10-chapter limit for active/pending reading targets
+    const plannerDoc = await db.collection('daily_planner').findOne({ date: targetDate });
+    const existingTopics = (plannerDoc && Array.isArray(plannerDoc.reading_topics)) ? plannerDoc.reading_topics : [];
+    const pendingCount = existingTopics.filter(t => t.status !== 'achieved').length;
+
+    if (pendingCount >= 10) {
+      return res.status(400).json({
+        error: 'Active Chapter Limit Reached: You can only have at most 10 active chapters at a time in your Prep Tracker. Please read these first and mark +1 Read count before adding more.',
+        limit_reached: true,
+        pending_count: pendingCount,
+        max_allowed: 10
+      });
+    }
+
     const newTopic = {
       id: 'topic_' + Date.now() + '_' + Math.random().toString(36).substr(2, 5),
       subject: subject.toLowerCase().trim(),

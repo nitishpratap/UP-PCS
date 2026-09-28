@@ -1457,10 +1457,12 @@ D. 4 3 1 2
 
 **Q19.**
 
-A. Abolish all private banks
+Priority Sector Lending (PSL) mandated by the Reserve Bank of India is primarily designed to
+
+A. Subsidize foreign portfolio investments in primary equity markets
 B. Steer bank credit to notified priority segments such as agriculture and MSME
-C. Replace the MPC
-D. Collect customs duty
+C. Regulate overnight inter-bank repo transactions
+D. Fund central government infrastructure capital expenditures directly
 
 <details>
 <summary>Show answer</summary>
@@ -4523,12 +4525,12 @@ D. 2-3-1-4
 
 **Q23.**
 
-‘Plastic money’ / ‘smart money’ in Indian teaching keys usually points to
+‘Plastic money’ / ‘smart money’ in Indian economics usually refers to
 
-A. Only Sovereign Gold Bonds
-B. Credit / debit card instruments
-C. Only CRR balances
-D. Only NABARD refinance
+A. Sovereign Gold Bonds and gold monetisation schemes
+B. Credit cards, debit cards and prepaid smart cards
+C. Cash reserve ratio (CRR) deposits held with the RBI
+D. Long-term infrastructure refinancing bonds from NABARD
 
 <details>
 <summary>Show answer</summary>

@@ -1472,10 +1472,10 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Production Linked Incentive (PLI) schemes are mainly designed to
 
-A. Abolish all factories
+A. Provide universal basic wage support to industrial workers
 B. Incentivise incremental domestic production in notified sectors
-C. Replace the MPC
-D. Compile M3 only
+C. Subsidize raw material exports from agricultural clusters
+D. Eliminate import tariffs on all foreign manufactured goods
 
 <details>
 <summary>Show answer</summary>
@@ -1529,10 +1529,10 @@ D. IIP — measures retail CPI inflation
 
 Startup India is mainly aimed at supporting
 
-A. Only zamindari restoration
+A. Direct public equity ownership of newly registered companies
 B. Innovative new firms through easier compliance and ecosystem support
-C. Only WPI base years
-D. Only Finance Commission awards
+C. Mandatory capital infusions exclusively for Maharatna PSUs
+D. Compulsory technology transfer from private software startups
 
 <details>
 <summary>Show answer</summary>
@@ -1570,9 +1570,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 Strategic disinvestment / privatisation differs from minority stake sale mainly because
 
 A. Control of the enterprise can change hands
-B. Only CRR changes
-C. Only seeds are sold
-D. Only CPI is revised
+B. Government shareholding remains fixed at 74% or higher
+C. Sales are restricted exclusively to domestic public sector banks
+D. Sale proceeds must be directly distributed as cash dividends to citizens
 
 <details>
 <summary>Show answer</summary>
@@ -1637,10 +1637,10 @@ D. 4 3 2 1
 
 Food processing industry primarily converts
 
-A. Only stock exchanges to CRR
+A. Heavy industrial machinery into rural transport vehicles
 B. Farm produce to packaged / value-added goods
-C. Only Article 280 to NITI
-D. Only Tobin tax to GST
+C. Synthetic chemical compounds into organic fertilizers
+D. Primary export surpluses into domestic foreign exchange assets
 
 <details>
 <summary>Show answer</summary>
@@ -1882,10 +1882,10 @@ D. Only 1
 
 MSME credit support in teaching often flows through
 
-A. Only Article 360 alone
+A. Direct budget allocations from the Consolidated Fund of India
 B. Banks and SIDBI-supported channels
-C. Only Tobin tax receipts
-D. Only CPI Combined compilation
+C. Inter-state commercial sales tax surcharges
+D. Mandatory private venture capital debt subscriptions
 
 <details>
 <summary>Show answer</summary>

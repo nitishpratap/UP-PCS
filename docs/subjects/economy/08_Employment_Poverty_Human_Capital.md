@@ -9407,10 +9407,10 @@ D. 4 1 2 3
 
 Income / wealth inequality measures mainly show
 
-A. Only monsoon onset
-B. How unevenly income or wealth is distributed
-C. Only Article 280 membership
-D. Only CRR vault cash
+A. Variations in the inter-annual timing of the southwest monsoon
+B. How unevenly income or wealth is distributed across a population
+C. The composition of debt liabilities between states and the Centre
+D. Statutory liquidity ratios mandated across commercial banks
 
 <details>
 <summary>Show answer</summary>
@@ -9447,10 +9447,10 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Gig economy work is best described as
 
-A. Only permanent government cadre posts
+A. Tenured public sector employment with non-contributory pensions
 B. Flexible / platform-mediated task work with evolving social-security design
-C. Only zamindari tenure
-D. Only MPI living-standard walls
+C. Traditional agricultural sharecropping contracts
+D. Fixed term manufacturing apprenticeships in registered factories
 
 <details>
 <summary>Show answer</summary>
@@ -9669,10 +9669,10 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 National MPI for India is associated mainly with
 
-A. Only RBI note issue
+A. Currency circulation estimates produced by the Reserve Bank of India
 B. NITI Aayog’s multidimensional poverty monitoring using survey indicators
-C. Only Article 360
-D. Only Tobin tax
+C. Central Statistical Office retail consumer price compilation
+D. Union Ministry of Finance direct tax buoyancy projections
 
 <details>
 <summary>Show answer</summary>

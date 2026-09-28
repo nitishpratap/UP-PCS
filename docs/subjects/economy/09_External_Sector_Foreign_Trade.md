@@ -676,10 +676,10 @@ D. Chemicals other than fertilisers
 
 Balance of Trade (merchandise) is best defined as
 
-A. Only FDI equity
+A. Current account receipts minus capital account foreign direct investment
 B. Merchandise exports minus merchandise imports
-C. Only IMF quotas
-D. Only CRR changes
+C. Net foreign portfolio flows plus external commercial borrowings
+D. Gross foreign exchange reserves divided by average monthly imports
 
 <details>
 <summary>Show answer</summary>
