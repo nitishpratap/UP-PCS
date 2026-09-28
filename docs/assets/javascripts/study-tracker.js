@@ -1054,6 +1054,10 @@
     return { subject, topic: topicSlug, title };
   }
 
+  function getTopicInfo() {
+    return getCurrentTopicInfo();
+  }
+
   function getSiteBasePath() {
     if (location.pathname.startsWith('/UP-PCS/')) {
       return '/UP-PCS/';
@@ -2719,58 +2723,257 @@
     }
   }
 
-  // Chapter Mastery Gate: Prompts a 50-question qualifying exam requiring >=80% score to mark read
-  function promptChapterMasteryGate(topicInfo, onPassedCallback) {
+  // Chapter Mastery Gate: Prompts either a Fast-Track 100% Redemption Drill or a 50-question qualifying exam
+  async function promptChapterMasteryGate(topicInfo, onPassedCallback) {
     if (!topicInfo || !topicInfo.subject || !topicInfo.topic) return;
     const cleanInfo = resolveTopicInfo(topicInfo.subject, topicInfo.topic);
     const title = cleanInfo.title || cleanInfo.topic;
     const sub = cleanInfo.subject.toUpperCase();
 
-    const modalHtml = `
+    // Show initial modal with loading indicator while checking past test attempts
+    showModal('⚔️ Chapter Mastery Gate', `
       <div class="st-mastery-gate-modal">
         <div class="st-mastery-hero">
           <div class="st-mastery-icon-badge">⚔️</div>
           <h3 style="margin:0.25rem 0 0.5rem; font-size:1.3rem; font-weight:800; color:var(--md-primary-fg-color, #273c75);">
-            Chapter Mastery Qualifying Exam
+            Chapter Mastery Qualifying Gate
           </h3>
           <p style="margin:0; font-size:0.9rem; color:var(--md-default-fg-color--light);">
             Target: <strong>${escapeHtml(title)}</strong> &bull; <span style="text-transform:uppercase; font-weight:700;">${escapeHtml(sub)}</span>
           </p>
         </div>
-
-        <div class="st-mastery-rules-card">
-          <div class="st-mrule-title">🛡️ Strict Preparation Rule Enforced:</div>
-          <p style="margin:0.35rem 0 0.75rem; font-size:0.83rem; line-height:1.45; color:var(--md-default-fg-color);">
-            You cannot say a chapter is read or finished without proving genuine examination recall.
-          </p>
-          <ul class="st-mrules-list">
-            <li><strong>50 Randomized Questions:</strong> A rigorous 50-question mock test pulled at random from UPPCS PYQs, Ghatnachakra, and chapter drills (or all available if &lt;50).</li>
-            <li><strong>80% Qualifying Score:</strong> You must score <strong>at least 80% accuracy/marks</strong> to officially unlock "+1 Read" status and clear the chapter from your daily plan/backlog.</li>
-            <li><strong>Official Negative Marking:</strong> Real exam conditions: <strong>+1.33</strong> per correct answer, <strong>-0.44</strong> (1/3rd) penalty for incorrect answers.</li>
-            <li><strong>Zero Shortcuts:</strong> Scoring under 80% means the chapter remains <strong>Pending / Not Read</strong> until you revise your weak areas and re-test.</li>
-          </ul>
-        </div>
-
-        <div class="st-mastery-actions">
-          <button type="button" class="st-btn st-btn-outline" id="st-btn-mastery-cancel" style="padding:0.6rem 1.2rem;">
-            📖 Keep Reading (Not Ready Yet)
-          </button>
-          <button type="button" class="st-btn st-btn-primary" id="st-btn-mastery-start" style="padding:0.6rem 1.4rem; font-weight:700; background:linear-gradient(135deg, #2563eb, #7c3aed); border:none; color:#fff;">
-            🚀 Start 50-Q Mastery Exam
-          </button>
+        <div class="st-loading-spinner" style="padding: 2rem 1rem; text-align:center;">
+          <div class="st-spinner"></div>
+          <p style="margin-top:0.75rem; font-size:0.85rem;"><strong>Scanning test history & past mistakes...</strong></p>
         </div>
       </div>
-    `;
-
-    showModal('⚔️ Chapter Mastery Gate', modalHtml);
+    `);
     const box = document.getElementById('st-modal-box');
     if (box) box.classList.add('st-modal-wide');
 
+    // 1. Gather past test mistakes from MongoDB and local storage
+    let pastAttempts = [];
+    let pastTraps = [];
+    let allChapterQs = [];
+
+    try {
+      let pastData = window.__TOPIC_PAST_TESTS__;
+      const promises = [];
+
+      if (!pastData || (pastData.topic && pastData.topic !== cleanInfo.topic)) {
+        promises.push(
+          authFetch(`${API_BASE}/chapter-tests?subject=${encodeURIComponent(cleanInfo.subject)}&topic=${encodeURIComponent(cleanInfo.topic)}`)
+            .then(r => r.ok ? r.json() : null)
+            .then(d => { if (d) { pastData = d; window.__TOPIC_PAST_TESTS__ = d; } })
+            .catch(() => {})
+        );
+      }
+
+      promises.push(
+        authFetch(`${API_BASE}/chapter-questions?subject=${encodeURIComponent(cleanInfo.subject)}&topic=${encodeURIComponent(cleanInfo.topic)}`)
+          .then(r => r.ok ? r.json() : null)
+          .then(d => { if (d?.questions) allChapterQs = d.questions; })
+          .catch(() => {})
+      );
+
+      await Promise.all(promises);
+
+      if (pastData) {
+        pastAttempts = pastData.attempts || [];
+        pastTraps = pastData.summary?.trap_questions || [];
+      }
+    } catch (e) {
+      console.warn('Mastery gate past tests query deferred:', e);
+    }
+
+    const localAttempts = getLocalTopicTests(cleanInfo.subject, cleanInfo.topic);
+
+    // 2. Identify unique missed questions (M)
+    const wrongMap = new Map();
+    if (pastAttempts.length > 0) {
+      const latest = pastAttempts[0];
+      (latest.wrong_questions || []).forEach(w => {
+        const key = w.q_id || (w.stem ? w.stem.substring(0, 80) : `q_${w.q_num}`);
+        if (!wrongMap.has(key)) wrongMap.set(key, w);
+      });
+    }
+    pastTraps.forEach(w => {
+      const key = w.q_id || (w.stem ? w.stem.substring(0, 80) : `q_${w.q_num}`);
+      if (!wrongMap.has(key)) wrongMap.set(key, w);
+    });
+    localAttempts.forEach(t => {
+      (t.wrong_questions || []).forEach(w => {
+        const key = w.q_id || (w.stem ? w.stem.substring(0, 80) : `q_${w.q_num}`);
+        if (!wrongMap.has(key)) wrongMap.set(key, w);
+      });
+    });
+
+    const uniqueMistakes = Array.from(wrongMap.values());
+    const M = uniqueMistakes.length;
+
+    // 3. Prepare Question Bank mapping for clean option enrichment
+    if (allChapterQs.length === 0) {
+      allChapterQs = getLocalTopicQuestions(cleanInfo.subject, cleanInfo.topic) || [];
+    }
+    const qMap = new Map(allChapterQs.map(q => [q.q_id, q]));
+
+    const enrichedMistakes = uniqueMistakes.map(m => {
+      if (m.q_id && qMap.has(m.q_id)) {
+        const fullQ = qMap.get(m.q_id);
+        return { ...fullQ, user_answer: m.user_answer, original_wrong: true };
+      }
+      return repairQuestionOptions(m);
+    });
+
+    // 4. Calculate Fast-Track Redemption Pool: N = min(totalQs, max(15, 2 * M))
+    const totalAvail = allChapterQs.length > 0 ? allChapterQs.length : Math.max(15, 2 * M);
+    const N = Math.min(totalAvail, Math.max(15, 2 * M));
+    const neededReinforcement = Math.max(0, N - M);
+
+    const missedIdSet = new Set(enrichedMistakes.map(m => m.q_id).filter(Boolean));
+    const nonMissedQs = allChapterQs.filter(q => !missedIdSet.has(q.q_id));
+    const shuffledReinforcement = [...nonMissedQs].sort(() => 0.5 - Math.random()).slice(0, neededReinforcement);
+
+    let redemptionPool = [...enrichedMistakes, ...shuffledReinforcement].sort(() => 0.5 - Math.random());
+    if (redemptionPool.length < N && allChapterQs.length >= N) {
+      redemptionPool = allChapterQs.slice(0, N);
+    }
+    redemptionPool = redemptionPool.map(q => repairQuestionOptions(q));
+
+    const hasRedemption = (M > 0 && redemptionPool.length >= 5);
+
+    let modalHtml = '';
+
+    if (hasRedemption) {
+      modalHtml = `
+        <div class="st-mastery-gate-modal">
+          <div class="st-mastery-hero">
+            <div class="st-mastery-icon-badge" style="background:rgba(239, 68, 68, 0.15); color:#dc2626;">⚡</div>
+            <h3 style="margin:0.25rem 0 0.5rem; font-size:1.3rem; font-weight:800; color:var(--md-primary-fg-color, #273c75);">
+              Chapter Mastery Qualifying Gate
+            </h3>
+            <p style="margin:0; font-size:0.9rem; color:var(--md-default-fg-color--light);">
+              Target: <strong>${escapeHtml(title)}</strong> &bull; <span style="text-transform:uppercase; font-weight:700;">${escapeHtml(sub)}</span>
+            </p>
+          </div>
+
+          <!-- FAST-TRACK REDEMPTION CARD -->
+          <div class="st-mastery-redemption-card" style="margin: 0.85rem 0; border: 2px solid #ef4444; background: rgba(239, 68, 68, 0.05); border-radius: 12px; padding: 1.1rem 1.25rem; box-shadow: 0 4px 15px rgba(239, 68, 68, 0.1);">
+            <div style="display:flex; align-items:center; gap:0.6rem; margin-bottom:0.4rem;">
+              <span style="font-size:1.4rem;">⚡</span>
+              <div>
+                <h4 style="margin:0; font-size:1.05rem; font-weight:800; color:#dc2626;">
+                  Fast-Track 100% Redemption Drill Available!
+                </h4>
+                <small style="color:var(--md-default-fg-color--light);">Based on your previous test attempt (${M} mistake${M > 1 ? 's' : ''} detected)</small>
+              </div>
+            </div>
+            <p style="margin:0.25rem 0 0.75rem; font-size:0.85rem; line-height:1.45; color:var(--md-default-fg-color);">
+              You do <strong>not</strong> have to solve all 50 questions again! Prove your mastery on this targeted <strong>${redemptionPool.length}-Question Fast-Track Drill</strong> (${M} previous mistake${M > 1 ? 's' : ''} + ${redemptionPool.length - M} randomized reinforcement questions).
+            </p>
+            <div style="display:flex; gap:0.5rem; flex-wrap:wrap; margin-bottom:0.9rem; font-size:0.78rem;">
+              <span style="background:rgba(239, 68, 68, 0.12); color:#dc2626; font-weight:700; padding:0.22rem 0.6rem; border-radius:9999px;">
+                🎯 Strict 100% Accuracy Required (${redemptionPool.length}/${redemptionPool.length} Correct)
+              </span>
+              <span style="background:rgba(16, 185, 129, 0.12); color:#059669; font-weight:700; padding:0.22rem 0.6rem; border-radius:9999px;">
+                🏆 Instant +1 Read & Clears Daily Plan
+              </span>
+            </div>
+            <button type="button" class="st-btn st-btn-primary" id="st-btn-mastery-redemption-start" style="width:100%; font-weight:800; background:linear-gradient(135deg, #dc2626, #ea580c); border:none; color:#fff; padding:0.7rem 1.2rem; font-size:0.95rem; border-radius:8px; cursor:pointer; box-shadow:0 4px 14px rgba(220, 38, 38, 0.35);">
+              ⚡ Start ${redemptionPool.length}-Q Fast-Track Drill (100% Target)
+            </button>
+          </div>
+
+          <div style="text-align:center; margin:0.85rem 0 0.6rem; font-size:0.75rem; font-weight:700; letter-spacing:0.05em; color:var(--md-default-fg-color--light);">
+            — OR RETAKE THE STANDARD FULL EXAM —
+          </div>
+
+          <!-- STANDARD 50-Q EXAM CARD -->
+          <div class="st-mastery-rules-card" style="margin-top:0;">
+            <div class="st-mrule-title">🛡️ Standard 50-Q Qualifying Exam:</div>
+            <p style="margin:0.2rem 0 0.5rem; font-size:0.82rem; color:var(--md-default-fg-color--light); line-height:1.4;">
+              50 randomized questions. Requires <strong>&ge;80% accuracy/marks</strong> (+1.33 / -0.44 marking) to qualify.
+            </p>
+            <div style="display:flex; justify-content:space-between; gap:0.5rem; flex-wrap:wrap; margin-top:0.6rem;">
+              <button type="button" class="st-btn st-btn-outline" id="st-btn-mastery-cancel" style="padding:0.55rem 1.1rem; font-size:0.85rem;">
+                📖 Keep Reading
+              </button>
+              <button type="button" class="st-btn st-btn-secondary" id="st-btn-mastery-start" style="padding:0.55rem 1.3rem; font-weight:700; font-size:0.85rem;">
+                🚀 Start Full 50-Q Exam (80% Target)
+              </button>
+            </div>
+          </div>
+        </div>
+      `;
+    } else {
+      modalHtml = `
+        <div class="st-mastery-gate-modal">
+          <div class="st-mastery-hero">
+            <div class="st-mastery-icon-badge">⚔️</div>
+            <h3 style="margin:0.25rem 0 0.5rem; font-size:1.3rem; font-weight:800; color:var(--md-primary-fg-color, #273c75);">
+              Chapter Mastery Qualifying Exam
+            </h3>
+            <p style="margin:0; font-size:0.9rem; color:var(--md-default-fg-color--light);">
+              Target: <strong>${escapeHtml(title)}</strong> &bull; <span style="text-transform:uppercase; font-weight:700;">${escapeHtml(sub)}</span>
+            </p>
+          </div>
+
+          <div class="st-mastery-rules-card">
+            <div class="st-mrule-title">🛡️ Strict Preparation Rule Enforced:</div>
+            <p style="margin:0.35rem 0 0.75rem; font-size:0.83rem; line-height:1.45; color:var(--md-default-fg-color);">
+              You cannot say a chapter is read or finished without proving genuine examination recall.
+            </p>
+            <ul class="st-mrules-list">
+              <li><strong>50 Randomized Questions:</strong> A rigorous 50-question mock test pulled at random from UPPCS PYQs, Ghatnachakra, and chapter drills (or all available if &lt;50).</li>
+              <li><strong>80% Qualifying Score:</strong> You must score <strong>at least 80% accuracy/marks</strong> to officially unlock "+1 Read" status and clear the chapter from your daily plan/backlog.</li>
+              <li><strong>Official Negative Marking:</strong> Real exam conditions: <strong>+1.33</strong> per correct answer, <strong>-0.44</strong> (1/3rd) penalty for incorrect answers.</li>
+              <li><strong>Fast-Track Redemption:</strong> If you score under 80%, you unlock a Fast-Track 100% Redemption Drill (2&times; missed, min 15) to clear the chapter quickly.</li>
+            </ul>
+          </div>
+
+          <div class="st-mastery-actions">
+            <button type="button" class="st-btn st-btn-outline" id="st-btn-mastery-cancel" style="padding:0.6rem 1.2rem;">
+              📖 Keep Reading (Not Ready Yet)
+            </button>
+            <button type="button" class="st-btn st-btn-primary" id="st-btn-mastery-start" style="padding:0.6rem 1.4rem; font-weight:700; background:linear-gradient(135deg, #2563eb, #7c3aed); border:none; color:#fff;">
+              🚀 Start 50-Q Mastery Exam
+            </button>
+          </div>
+        </div>
+      `;
+    }
+
+    const modalBody = document.getElementById('st-modal-body');
+    if (modalBody) {
+      modalBody.innerHTML = modalHtml;
+    } else {
+      showModal('⚔️ Chapter Mastery Gate', modalHtml);
+    }
+
     document.getElementById('st-btn-mastery-cancel')?.addEventListener('click', closeModal);
+
+    document.getElementById('st-btn-mastery-redemption-start')?.addEventListener('click', () => {
+      closeModal();
+      openTestEngineModal(cleanInfo, {
+        isMasteryGate: false,
+        isMasteryRedemption: true,
+        customQuestions: redemptionPool,
+        targetAccuracy: 100,
+        testMode: 'exam',
+        onMasteryPassed: async (sc) => {
+          await officiallyConquerChapter(cleanInfo, sc);
+          if (typeof onPassedCallback === 'function') {
+            await onPassedCallback(sc);
+          }
+        }
+      });
+    });
+
     document.getElementById('st-btn-mastery-start')?.addEventListener('click', () => {
       closeModal();
       openTestEngineModal(cleanInfo, {
         isMasteryGate: true,
+        isMasteryRedemption: false,
         targetAccuracy: 80,
         questionCount: 50,
         testMode: 'exam',
@@ -3042,7 +3245,19 @@
 
   // Retrieve past wrong questions matching a section/subtopic name
   function getMistakesForSubtopic(subtopicName) {
-    const cleanTarget = (subtopicName || '').toLowerCase().replace(/^[0-9\.\s\-\:]+/, '').trim();
+    const norm = (s) => (s || '')
+      .toLowerCase()
+      .replace(/¶/g, '')
+      .replace(/⚠️.*$/g, '')
+      .replace(/🔍.*$/g, '')
+      .replace(/focus area.*$/i, '')
+      .replace(/^[0-9\.\s\-\:]+/, '')
+      .replace(/[—–\-]/g, ' ')
+      .replace(/[^\w\s]/g, '')
+      .replace(/\s+/g, ' ')
+      .trim();
+
+    const cleanTarget = norm(subtopicName);
     const mistakes = [];
     const seen = new Set();
 
@@ -3050,16 +3265,16 @@
       if (!w) return;
       const key = w.q_id || (w.stem ? w.stem.substring(0, 80) : '');
       if (key && seen.has(key)) return;
-      const sec = (w.section_title || '').toLowerCase().replace(/^[0-9\.\s\-\:]+/, '').trim();
-      const head = (w.q_header || '').toLowerCase();
-      const stem = (w.stem || '').toLowerCase();
+      const sec = norm(w.section_title);
+      const head = norm(w.q_header);
+      const stem = norm(w.stem);
 
       const matchesSec = cleanTarget.length > 2 && (sec.includes(cleanTarget) || cleanTarget.includes(sec));
       const matchesContent = cleanTarget.length > 4 && (head.includes(cleanTarget) || stem.includes(cleanTarget));
 
       if (matchesSec || (sec.includes('general') && matchesContent)) {
         seen.add(key);
-        mistakes.push(w);
+        mistakes.push(repairQuestionOptions(w));
       }
     }
 
@@ -3073,24 +3288,63 @@
 
     // 2. From LocalStorage test attempts
     try {
-      const topicInfo = getTopicInfo();
+      const topicInfo = getCurrentTopicInfo();
       if (topicInfo) {
-        const localAttempts = getLocalTestAttempts(topicInfo.subject, topicInfo.slug || topicInfo.topic);
+        const localAttempts = getLocalTopicTests(topicInfo.subject, topicInfo.topic);
         localAttempts.forEach(att => (att.wrong_questions || []).forEach(addIfMatch));
       }
     } catch {}
+
+    // Fallback: If no exact section match, check if any mistake has section words matching heading words
+    if (mistakes.length === 0 && cleanTarget.length > 3) {
+      const words = cleanTarget.split(/\s+/).filter(w => w.length > 3);
+      if (words.length > 0) {
+        function addWordMatch(w) {
+          if (!w) return;
+          const key = w.q_id || (w.stem ? w.stem.substring(0, 80) : '');
+          if (key && seen.has(key)) return;
+          const sec = norm(w.section_title);
+          const stem = norm(w.stem);
+          const wordHit = words.some(word => sec.includes(word) || stem.includes(word));
+          if (wordHit) {
+            seen.add(key);
+            mistakes.push(repairQuestionOptions(w));
+          }
+        }
+        if (window.__TOPIC_PAST_TESTS__) {
+          (window.__TOPIC_PAST_TESTS__.summary?.trap_questions || []).forEach(addWordMatch);
+          (window.__TOPIC_PAST_TESTS__.attempts || []).forEach(att => (att.wrong_questions || []).forEach(addWordMatch));
+        }
+      }
+    }
 
     return mistakes;
   }
 
   // Interactive modal to review mistake details for a specific Focus Area
-  function openFocusAreaMistakesModal(subtopicTitle, mistakes, mistakesCount) {
-    const topicInfo = getTopicInfo();
-    const count = (mistakes && mistakes.length > 0) ? mistakes.length : (mistakesCount || 1);
+  async function openFocusAreaMistakesModal(subtopicTitle, mistakes, mistakesCount) {
+    const topicInfo = getCurrentTopicInfo();
+    let currentMistakes = (Array.isArray(mistakes) && mistakes.length > 0) ? [...mistakes] : [];
+
+    // If no mistakes found in memory, try fetching tests asynchronously
+    if (currentMistakes.length === 0 && topicInfo) {
+      if (!window.__TOPIC_PAST_TESTS__) {
+        try {
+          const res = await authFetch(`${API_BASE}/chapter-tests?subject=${encodeURIComponent(topicInfo.subject)}&topic=${encodeURIComponent(topicInfo.topic)}`);
+          if (res.ok) {
+            window.__TOPIC_PAST_TESTS__ = await res.json();
+          }
+        } catch (e) {}
+      }
+      currentMistakes = getMistakesForSubtopic(subtopicTitle);
+    }
+
+    const count = currentMistakes.length > 0 ? currentMistakes.length : (mistakesCount || 1);
 
     let mistakesHtml = '';
-    if (mistakes && mistakes.length > 0) {
-      mistakesHtml = mistakes.map((m, idx) => {
+    if (currentMistakes.length > 0) {
+      mistakesHtml = currentMistakes.map((rawM, idx) => {
+        const m = repairQuestionOptions(rawM);
         const header = m.q_header || `Mistake #${idx + 1}`;
         const stemHtml = escapeHtml(m.stem || 'Question details unavailable').replace(/\n/g, '<br>');
 
@@ -3148,7 +3402,7 @@
           <div class="st-mistake-card" style="margin-bottom: 1.25rem; padding: 1rem 1.15rem; border-radius: 10px; border: 1px solid rgba(239, 68, 68, 0.25); background: var(--md-code-bg-color, rgba(0,0,0,0.02));">
             <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5rem; flex-wrap: wrap; gap: 0.35rem;">
               <span style="font-size: 0.75rem; font-weight: 800; color: #ef4444; background: rgba(239, 68, 68, 0.12); padding: 0.15rem 0.5rem; border-radius: 9999px;">
-                ⚠️ Question ${idx + 1} of ${mistakes.length}
+                ⚠️ Question ${idx + 1} of ${currentMistakes.length}
               </span>
               <span style="font-size: 0.75rem; color: var(--md-default-fg-color--light); font-weight: 600;">
                 ${escapeHtml(header)}
@@ -3201,9 +3455,9 @@
           <button type="button" class="st-btn st-btn-secondary" id="st-btn-close-focus-modal">
             Close & Continue Reading
           </button>
-          ${mistakes && mistakes.length > 0 ? `
+          ${currentMistakes.length > 0 ? `
             <button type="button" class="st-btn st-btn-primary" id="st-btn-drill-all-focus-mistakes" style="background: #ef4444; border-color: #ef4444;">
-              🎯 Re-test All ${mistakes.length} Mistake${mistakes.length > 1 ? 's' : ''} Now
+              🎯 Re-test All ${currentMistakes.length} Mistake${currentMistakes.length > 1 ? 's' : ''} Now
             </button>
           ` : `
             <button type="button" class="st-btn st-btn-primary" id="st-btn-launch-focus-test">
@@ -3220,8 +3474,8 @@
 
     document.getElementById('st-btn-drill-all-focus-mistakes')?.addEventListener('click', () => {
       closeModal();
-      if (topicInfo && mistakes.length > 0) {
-        openTestEngineModal(topicInfo, { customQuestions: mistakes, testMode: 'practice' });
+      if (topicInfo && currentMistakes.length > 0) {
+        openTestEngineModal(topicInfo, { customQuestions: currentMistakes, testMode: 'practice' });
       }
     });
 
@@ -3235,7 +3489,7 @@
     document.querySelectorAll('.st-btn-retry-single-q').forEach(btn => {
       btn.addEventListener('click', (e) => {
         const qIdx = parseInt(e.currentTarget.getAttribute('data-qindex') || '0', 10);
-        const targetQ = mistakes[qIdx];
+        const targetQ = currentMistakes[qIdx];
         closeModal();
         if (topicInfo && targetQ) {
           openTestEngineModal(topicInfo, { customQuestions: [targetQ], testMode: 'practice' });
@@ -3271,7 +3525,7 @@
       if (oldBadge) oldBadge.remove();
       h.classList.remove('st-weak-section-heading');
 
-      const hText = h.textContent.replace(/¶/g, '').trim().toLowerCase();
+      const hText = h.textContent.replace(/¶/g, '').replace(/⚠️.*$/g, '').trim().toLowerCase();
       
       const match = weakSubtopics.find(ws => {
         const count = ws.total_mistakes !== undefined ? ws.total_mistakes : (ws.mistakes || 0);
@@ -3290,9 +3544,13 @@
         badge.addEventListener('click', (e) => {
           e.preventDefault();
           e.stopPropagation();
-          const targetSubtopic = match.subtopic || h.textContent.replace(/¶/g, '').trim();
-          const mistakes = getMistakesForSubtopic(targetSubtopic);
-          openFocusAreaMistakesModal(targetSubtopic, mistakes, mistakesCount);
+          try {
+            const targetSubtopic = match.subtopic || h.textContent.replace(/¶/g, '').replace(/⚠️.*$/g, '').trim();
+            const mistakes = getMistakesForSubtopic(targetSubtopic);
+            openFocusAreaMistakesModal(targetSubtopic, mistakes, mistakesCount);
+          } catch (err) {
+            console.error('Failed to open focus area modal:', err);
+          }
         });
 
         h.appendChild(badge);
@@ -4822,9 +5080,15 @@
   // 3b. IN-CHAPTER TRAP RADAR & MISTAKE VAULT MODAL
   // -------------------------------------------------------------
   async function openTrapRadarModal(topicInfo, testData) {
-    const priorityInfo = getChapterPriority(topicInfo.subject, topicInfo.topic);
+    const rawInfo = topicInfo || getCurrentTopicInfo();
+    if (!rawInfo || !rawInfo.subject || !rawInfo.topic) {
+      console.warn('Cannot open Trap Radar: Missing topic info');
+      return;
+    }
+    const cleanInfo = resolveTopicInfo(rawInfo.subject, rawInfo.topic);
+    const priorityInfo = getChapterPriority(cleanInfo.subject, cleanInfo.topic);
 
-    showModal(`⚠️ Trap Radar & Mistake Vault: ${topicInfo.title}`, `
+    showModal(`⚠️ Trap Radar & Mistake Vault: ${cleanInfo.title || cleanInfo.topic}`, `
       <div class="st-loading-spinner" style="padding: 2.5rem 1rem;">
         <div class="st-spinner"></div>
         <p style="margin-top:0.75rem;"><strong>Scanning recurring trap questions...</strong></p>
@@ -4835,7 +5099,7 @@
     let data = testData || window.__TOPIC_PAST_TESTS__;
     if (!data) {
       try {
-        const res = await authFetch(`${API_BASE}/chapter-tests?subject=${encodeURIComponent(topicInfo.subject)}&topic=${encodeURIComponent(topicInfo.topic)}`);
+        const res = await authFetch(`${API_BASE}/chapter-tests?subject=${encodeURIComponent(cleanInfo.subject)}&topic=${encodeURIComponent(cleanInfo.topic)}`);
         if (res.ok) {
           data = await res.json();
           window.__TOPIC_PAST_TESTS__ = data;
@@ -4845,7 +5109,7 @@
       }
     }
 
-    const localTests = getLocalTopicTests(topicInfo.subject, topicInfo.topic);
+    const localTests = getLocalTopicTests(cleanInfo.subject, cleanInfo.topic);
     let trapQuestions = data?.summary?.trap_questions || [];
 
     // Fallback if summary.trap_questions is empty: aggregate from attempts or local tests

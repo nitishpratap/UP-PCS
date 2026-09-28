@@ -5384,10 +5384,17 @@ body.st-vault-locked .md-header {
   vertical-align: middle;
   line-height: 1.2;
   letter-spacing: 0.01em;
-  cursor: pointer;
+  cursor: pointer !important;
+  pointer-events: auto !important;
+  position: relative !important;
+  z-index: 20 !important;
   transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
   box-shadow: 0 1px 3px rgba(239, 68, 68, 0.1);
   user-select: none;
+}
+
+.st-subtopic-in-note-badge * {
+  pointer-events: none !important;
 }
 
 .st-subtopic-in-note-badge:hover {
