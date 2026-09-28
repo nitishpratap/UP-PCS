@@ -7561,3 +7561,434 @@ mjx-container {
 mjx-container[jax='CHTML'][display='true'] {
   margin: 0.75em 0;
 }
+
+/* ==========================================================================
+   UP-PCS EXECUTIVE PREP TRACKER & ANALYTICS COMMAND CENTER (REVAMPED UI)
+   ========================================================================== */
+.st-dash-root {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  margin: 1rem 0 3rem;
+  font-family: var(--study-body, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif);
+}
+
+/* 1. Executive Top Command Bar */
+.st-cmd-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  padding: 0.85rem 1.25rem;
+  border-radius: 1rem;
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.95) 0%, rgba(248, 250, 252, 0.95) 100%);
+  border: 1.5px solid var(--study-hairline, rgba(99, 102, 241, 0.2));
+  box-shadow: 0 4px 20px rgba(15, 23, 42, 0.05);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}
+
+[data-md-color-scheme="slate"] .st-cmd-bar {
+  background: linear-gradient(135deg, rgba(15, 23, 42, 0.9) 0%, rgba(30, 41, 59, 0.9) 100%);
+  border-color: rgba(99, 102, 241, 0.35);
+  box-shadow: 0 6px 25px rgba(0, 0, 0, 0.4);
+}
+
+.st-cmd-bar-left, .st-cmd-bar-right {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+}
+
+.st-status-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.3rem 0.65rem;
+  border-radius: 9999px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+.st-status-pill.is-online {
+  background: rgba(16, 185, 129, 0.12);
+  color: #059669;
+  border: 1px solid rgba(16, 185, 129, 0.3);
+}
+[data-md-color-scheme="slate"] .st-status-pill.is-online {
+  background: rgba(16, 185, 129, 0.2);
+  color: #34d399;
+}
+.st-status-pill.is-offline {
+  background: rgba(239, 68, 68, 0.12);
+  color: #dc2626;
+  border: 1px solid rgba(239, 68, 68, 0.3);
+}
+
+.st-countdown-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.3rem 0.75rem;
+  border-radius: 9999px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  background: #ede9fe;
+  color: #5b21b6;
+  border: 1px solid rgba(139, 92, 246, 0.35);
+}
+[data-md-color-scheme="slate"] .st-countdown-pill {
+  background: rgba(139, 92, 246, 0.22);
+  color: #c4b5fd;
+}
+
+.st-studytime-meter-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.3rem 0.75rem;
+  border-radius: 9999px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  background: #ecfdf5;
+  color: #065f46;
+  border: 1px solid rgba(5, 150, 105, 0.35);
+}
+[data-md-color-scheme="slate"] .st-studytime-meter-pill {
+  background: rgba(16, 185, 129, 0.2);
+  color: #6ee7b7;
+}
+
+/* 2. Unified 5-KPI Modern Command Center Deck */
+.st-kpi-deck-modern {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+}
+
+.st-kpi-card-modern {
+  background: var(--study-surface, #ffffff);
+  border: 1.5px solid var(--study-hairline, rgba(226, 232, 240, 0.9));
+  border-radius: 1rem;
+  padding: 1.15rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-shadow: 0 4px 16px rgba(15, 23, 42, 0.04);
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+  position: relative;
+  overflow: hidden;
+}
+
+[data-md-color-scheme="slate"] .st-kpi-card-modern {
+  background: #1e293b;
+  border-color: rgba(255, 255, 255, 0.08);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25);
+}
+
+.st-kpi-card-modern:hover {
+  transform: translateY(-3px);
+  border-color: var(--md-primary-fg-color, #6366f1);
+  box-shadow: 0 10px 25px rgba(99, 102, 241, 0.12);
+}
+
+.st-kpi-card-modern.is-highlight {
+  border-color: rgba(239, 68, 68, 0.4);
+  background: linear-gradient(135deg, var(--study-surface, #ffffff) 0%, rgba(254, 242, 242, 0.7) 100%);
+}
+[data-md-color-scheme="slate"] .st-kpi-card-modern.is-highlight {
+  background: linear-gradient(135deg, #1e293b 0%, rgba(239, 68, 68, 0.1) 100%);
+  border-color: rgba(239, 68, 68, 0.35);
+}
+
+.st-kpi-top-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0.5rem;
+}
+
+.st-kpi-icon-pill {
+  width: 32px;
+  height: 32px;
+  border-radius: 8px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1rem;
+}
+
+.st-kpi-label-text {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--md-default-fg-color--light, #64748b);
+}
+
+.st-kpi-main-val {
+  font-size: 1.7rem;
+  font-weight: 800;
+  line-height: 1.15;
+  color: var(--md-primary-fg-color, #1e293b);
+  margin: 0.25rem 0 0.4rem;
+  font-family: var(--study-body);
+}
+
+[data-md-color-scheme="slate"] .st-kpi-main-val {
+  color: #f8fafc;
+}
+
+.st-kpi-main-val small {
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--md-default-fg-color--light, #94a3b8);
+}
+
+.st-kpi-meta-sub {
+  font-size: 0.74rem;
+  color: var(--md-default-fg-color--light, #64748b);
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+/* Mini Progress Bar inside KPI */
+.st-kpi-micro-prog {
+  width: 100%;
+  height: 5px;
+  background: rgba(226, 232, 240, 0.8);
+  border-radius: 9999px;
+  overflow: hidden;
+  margin-top: 0.4rem;
+}
+[data-md-color-scheme="slate"] .st-kpi-micro-prog {
+  background: rgba(51, 65, 85, 0.8);
+}
+.st-kpi-micro-fill {
+  height: 100%;
+  border-radius: 9999px;
+  transition: width 0.4s ease;
+}
+
+/* 3. Visual Analytics & Charts Studio */
+.st-analytics-studio {
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.95) 0%, rgba(248, 250, 252, 0.95) 100%);
+  border: 1.5px solid rgba(99, 102, 241, 0.22);
+  border-radius: 1.15rem;
+  padding: 1.4rem;
+  box-shadow: 0 10px 30px rgba(15, 23, 42, 0.05);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}
+
+[data-md-color-scheme="slate"] .st-analytics-studio {
+  background: linear-gradient(135deg, rgba(15, 23, 42, 0.9) 0%, rgba(30, 41, 59, 0.9) 100%);
+  border-color: rgba(129, 140, 248, 0.3);
+  box-shadow: 0 12px 35px rgba(0, 0, 0, 0.4);
+}
+
+.st-analytics-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  padding-bottom: 1rem;
+  margin-bottom: 1.25rem;
+  border-bottom: 1px solid var(--study-hairline, rgba(226, 232, 240, 0.8));
+}
+
+[data-md-color-scheme="slate"] .st-analytics-head {
+  border-bottom-color: rgba(51, 65, 85, 0.6);
+}
+
+.st-analytics-title-wrap h3 {
+  margin: 0;
+  font-size: 1.2rem;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: var(--md-primary-fg-color, #1e293b);
+}
+
+[data-md-color-scheme="slate"] .st-analytics-title-wrap h3 {
+  color: #f8fafc;
+}
+
+.st-analytics-title-wrap p {
+  margin: 0.25rem 0 0;
+  font-size: 0.82rem;
+  color: var(--md-default-fg-color--light, #64748b);
+}
+
+.st-analytics-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+  gap: 1.25rem;
+}
+
+.st-chart-card {
+  background: var(--study-surface, #ffffff);
+  border: 1px solid var(--study-hairline, rgba(226, 232, 240, 0.9));
+  border-radius: 0.9rem;
+  padding: 1.15rem;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.03);
+  transition: all 0.2s ease;
+}
+
+[data-md-color-scheme="slate"] .st-chart-card {
+  background: #1e293b;
+  border-color: rgba(255, 255, 255, 0.07);
+}
+
+.st-chart-card:hover {
+  border-color: rgba(99, 102, 241, 0.35);
+  box-shadow: 0 6px 18px rgba(15, 23, 42, 0.06);
+}
+
+.st-chart-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0.85rem;
+}
+
+.st-chart-head h4 {
+  margin: 0;
+  font-size: 0.92rem;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.st-chart-pill {
+  font-size: 0.7rem;
+  font-weight: 700;
+  padding: 0.15rem 0.5rem;
+  border-radius: 9999px;
+  background: rgba(99, 102, 241, 0.12);
+  color: #4f46e5;
+}
+[data-md-color-scheme="slate"] .st-chart-pill {
+  background: rgba(99, 102, 241, 0.22);
+  color: #a5b4fc;
+}
+
+.st-chart-canvas-wrap {
+  position: relative;
+  width: 100%;
+  height: 240px;
+  min-height: 240px;
+}
+
+/* Pure SVG Fallback Chart Styles */
+.st-svg-chart {
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+}
+.st-svg-chart text {
+  font-family: inherit;
+}
+
+/* 4. Syllabus Readiness Meter Card */
+.st-gauge-meter-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.5rem;
+  padding: 1rem 0;
+}
+
+.st-gauge-ring {
+  position: relative;
+  width: 130px;
+  height: 130px;
+}
+
+.st-gauge-center-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.st-gauge-pct-val {
+  font-size: 1.6rem;
+  font-weight: 800;
+  line-height: 1;
+  color: var(--md-primary-fg-color, #273c75);
+}
+[data-md-color-scheme="slate"] .st-gauge-pct-val {
+  color: #818cf8;
+}
+
+.st-gauge-pct-sub {
+  font-size: 0.68rem;
+  font-weight: 600;
+  color: var(--md-default-fg-color--light);
+  margin-top: 2px;
+}
+
+.st-gauge-stats-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  flex: 1;
+}
+
+.st-gauge-stat-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.78rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px dashed var(--study-hairline, rgba(226, 232, 240, 0.8));
+}
+[data-md-color-scheme="slate"] .st-gauge-stat-item {
+  border-bottom-color: rgba(51, 65, 85, 0.6);
+}
+
+/* 5. Clean Action Notice Pill (Replaces alarmist leakage warning) */
+.st-action-notice-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.85rem;
+  background: linear-gradient(135deg, rgba(254, 243, 199, 0.6) 0%, rgba(254, 249, 195, 0.4) 100%);
+  border: 1px solid rgba(245, 158, 11, 0.4);
+  border-radius: 0.85rem;
+  padding: 0.85rem 1.15rem;
+  font-size: 0.82rem;
+  color: #92400e;
+}
+[data-md-color-scheme="slate"] .st-action-notice-card {
+  background: rgba(245, 158, 11, 0.12);
+  border-color: rgba(245, 158, 11, 0.35);
+  color: #fde68a;
+}
+
+/* Micro-animations */
+@keyframes st-pulse-glow {
+  0%, 100% { transform: scale(1); opacity: 1; }
+  50% { transform: scale(1.02); opacity: 0.9; }
+}
+
+@keyframes st-success-pop {
+  0% { transform: scale(0.9); }
+  50% { transform: scale(1.05); }
+  100% { transform: scale(1); }
+}
+
+.st-completed-pop {
+  animation: st-success-pop 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+

@@ -5285,6 +5285,42 @@
   // -------------------------------------------------------------
   // 7. PREP TRACKER & ANALYTICS DASHBOARD (/tracker-dashboard/)
   // -------------------------------------------------------------
+  let activeCharts = {};
+
+  function destroyActiveCharts() {
+    Object.keys(activeCharts).forEach(key => {
+      if (activeCharts[key] && typeof activeCharts[key].destroy === 'function') {
+        try { activeCharts[key].destroy(); } catch (e) {}
+      }
+    });
+    activeCharts = {};
+  }
+
+  function isDarkTheme() {
+    return document.body.getAttribute('data-md-color-scheme') === 'slate' ||
+      document.documentElement.getAttribute('data-md-color-scheme') === 'slate';
+  }
+
+  async function ensureChartJsLoaded() {
+    if (typeof window.Chart !== 'undefined') return true;
+    return new Promise((resolve) => {
+      const existing = document.querySelector('script[src*="chart.js"]');
+      if (existing) {
+        existing.addEventListener('load', () => resolve(true));
+        existing.addEventListener('error', () => resolve(false));
+        setTimeout(() => resolve(typeof window.Chart !== 'undefined'), 1200);
+        return;
+      }
+      const script = document.createElement('script');
+      script.src = 'https://cdn.jsdelivr.net/npm/chart.js';
+      script.async = true;
+      script.onload = () => resolve(true);
+      script.onerror = () => resolve(false);
+      document.head.appendChild(script);
+      setTimeout(() => resolve(typeof window.Chart !== 'undefined'), 1500);
+    });
+  }
+
   async function renderPrepDashboard() {
     const dashApp = document.getElementById('study-dashboard-app');
     if (!dashApp) return;
@@ -5298,6 +5334,8 @@
         <small style="color: var(--md-default-fg-color--light);">Fetching revisions, live tests, weak areas, and accuracy metrics</small>
       </div>
     `;
+
+    destroyActiveCharts();
 
     let summary = null;
     let dueRevisions = [];
@@ -5339,79 +5377,33 @@
     const dailyStudyRecord = getDailyStudyTimeRecord(activePlannerDate);
     const totalDayStudySeconds = dailyStudyRecord.totalSeconds || 0;
 
-    // Focus Studio Analytics computation
-    const MIN_CHAPTER_LOG_SECONDS = 300; // Log chapter read only if opened for >= 5 minutes (300s)
+    // Focus Analytics computation
+    const MIN_CHAPTER_LOG_SECONDS = 300; // >= 5 minutes
     const dailyStudyChapters = dailyStudyRecord.chapters || {};
     const allStudiedChapters = Object.values(dailyStudyChapters).sort((a, b) => (b.seconds || 0) - (a.seconds || 0));
     const studiedChaptersList = allStudiedChapters.filter(c => (c.seconds || 0) >= MIN_CHAPTER_LOG_SECONDS);
     const sub5mChaptersList = allStudiedChapters.filter(c => (c.seconds || 0) > 0 && (c.seconds || 0) < MIN_CHAPTER_LOG_SECONDS);
     const deepWorkChapters = studiedChaptersList.filter(c => (c.seconds || 0) >= 1500); // >= 25 mins
 
-    // Time leakage diagnostics: planned chapters for this date with < 60s read
+    // Planned chapters for active date with < 60s read
     const unopenedPlannedTargets = readingTopics.filter(t => {
       const sec = getTodayChapterStudySeconds(t.subject, t.topic, activePlannerDate);
-      return sec < 60;
+      return sec < 60 && t.status !== 'achieved';
     });
 
-    // Subject focus distribution map (uses all active seconds so pie/bar matches totalDayStudySeconds)
+    // Subject focus distribution map
     const subjectDistribution = {};
     allStudiedChapters.forEach(c => {
       const sub = (c.subject || 'other').toLowerCase();
       subjectDistribution[sub] = (subjectDistribution[sub] || 0) + (c.seconds || 0);
     });
 
-    const subColorPalette = {
-      'polity': '#3b82f6',
-      'geography': '#10b981',
-      'ancient history': '#d97706',
-      'medieval india': '#b45309',
-      'mordern india': '#ea580c',
-      'environments & ecology': '#059669',
-      'economy': '#8b5cf6',
-      'science and technology': '#06b6d4',
-      'art and culture': '#ec4899',
-      'up special': '#6366f1',
-      'census and urbanisation': '#0d9488',
-      'current affairs': '#e11d48',
-      'csat': '#64748b'
-    };
-
-    function renderSubjectDistSegmentsHtml(distMap, totalSec) {
-      if (!totalSec || totalSec <= 0) return '';
-      return Object.keys(distMap).map(sub => {
-        const sec = distMap[sub];
-        const pct = Math.max(1, Math.round((sec / totalSec) * 100));
-        const color = subColorPalette[sub.toLowerCase()] || '#6366f1';
-        return `<div class="st-focus-dist-segment" style="width:${pct}%; background:${color};" title="${escapeHtml(sub)}: ${formatDurationDisplay(sec)} (${pct}%)"></div>`;
-      }).join('');
-    }
-
-    function renderSubjectDistLegendHtml(distMap, totalSec) {
-      if (!totalSec || totalSec <= 0) return '';
-      return Object.keys(distMap).map(sub => {
-        const sec = distMap[sub];
-        const pct = Math.max(1, Math.round((sec / totalSec) * 100));
-        const color = subColorPalette[sub.toLowerCase()] || '#6366f1';
-        return `
-          <div class="st-dist-legend-item">
-            <span class="st-dist-dot" style="background:${color};"></span>
-            <span style="text-transform:capitalize;">${escapeHtml(sub)}</span>
-            <strong style="color:var(--md-primary-fg-color, #273c75);">${formatDurationDisplay(sec)}</strong>
-            <span style="color:var(--md-default-fg-color--light); font-size:0.68rem;">(${pct}%)</span>
-          </div>
-        `;
-      }).join('');
-    }
-
     const isPastDate = activePlannerDate < getTodayISODate();
 
-    // Active targets for active date (active during today/future; on past dates they move to Backlog)
+    // Active targets for active date
     const midnightTargets = readingTopics.filter(t => (t.slot === 'midnight_slot' || t.slot === 'all_day' || t.slot === 'morning_12pm' || !t.slot) && t.status !== 'achieved' && !isPastDate);
-    // Evening / Afternoon targets
     const eveningTargets = readingTopics.filter(t => t.slot === 'evening' && t.status !== 'achieved' && !isPastDate);
-    // Achieved on this date
     const achievedTopics = readingTopics.filter(t => t.status === 'achieved');
-    // Backlog on this date (uncompleted items from any slot after 11:59 PM or marked pending)
     const dateBacklogTopics = readingTopics.filter(t => t.status !== 'achieved' && (t.missed_12pm || t.missed_midnight || t.slot === 'pending' || isPastDate));
 
     // Overall Cumulative Backlog (all past unachieved topics)
@@ -5420,10 +5412,11 @@
       : getOverallBacklogFromLocal();
     const overallBacklog = rawOverallBacklog.filter(t => t.status !== 'achieved');
 
-    // 9-Day Calendar navigation strip
+    // Calendar navigation strip & Midnight countdown
     const calendarDays = getCalendarDaysList(activePlannerDate);
     const midnightCountdownStr = getMidnightRemainingStr();
 
+    // Daily Tasks
     const allDailyTasks = planner.daily_tasks || [];
     const completedTasksCount = allDailyTasks.filter(t => t.completed).length;
     const totalTasksCount = allDailyTasks.length;
@@ -5468,7 +5461,7 @@
       `).join('');
     }
 
-    // Fallback stats
+    // Consolidated Metrics & Fallback stats
     const isOnline = !!summary;
     const localLogs = getLocalLogs();
     const localTests = getLocalTests();
@@ -5477,180 +5470,244 @@
     const totalRevs = summary ? summary.total_revisions : Object.values(localLogs).reduce((a, b) => a + (b.read_count || 0), 0);
     const dueCount = summary ? summary.revisions_due_today : 0;
     const totalTests = summary ? summary.total_tests : allLocalTests.length;
-    const avgTestScore = summary ? summary.avg_test_score : (totalTests > 0 ? (allLocalTests.reduce((a, b) => a + (b.net_marks || 0), 0) / totalTests).toFixed(2) : 0);
-    const avgTestAccuracy = summary ? summary.avg_test_accuracy : (totalTests > 0 ? (allLocalTests.reduce((a, b) => a + (Number(b.accuracy_pct) || 0), 0) / totalTests).toFixed(1) : 0);
+    const avgTestScore = summary ? summary.avg_test_score : (totalTests > 0 ? (allLocalTests.reduce((a, b) => a + (b.net_marks || 0), 0) / totalTests).toFixed(2) : '0.00');
+    const avgTestAccuracy = summary ? summary.avg_test_accuracy : (totalTests > 0 ? (allLocalTests.reduce((a, b) => a + (Number(b.accuracy_pct) || 0), 0) / totalTests).toFixed(1) : '0');
     const totalPyqs = summary ? summary.total_pyqs_practiced : 0;
     const pyqAccuracy = summary ? summary.overall_pyq_accuracy : 0;
     const recentTests = summary?.recent_tests || allLocalTests.slice(0, 10);
     const subjects = summary?.subject_breakdown || [];
 
+    // Syllabus coverage metrics
+    const totalCatalogChapters = Object.values(CHAPTER_CATALOG).reduce((acc, list) => acc + list.length, 0);
+    const readChaptersCount = Object.keys(localLogs).filter(k => localLogs[k]?.read_count > 0).length;
+    const syllabusCoveragePct = totalCatalogChapters > 0 ? Math.min(100, Math.round((readChaptersCount / totalCatalogChapters) * 100)) : 0;
+
+    // Daily target progress
+    const dailyTargetSec = 14400; // 4 Hours = 14400 seconds
+    const dailyTargetPct = Math.min(100, Math.round((totalDayStudySeconds / dailyTargetSec) * 100));
+
+    // 7-day study velocity calculation
+    const velocityDays = [];
+    for (let offset = -6; offset <= 0; offset++) {
+      const d = new Date();
+      d.setDate(d.getDate() + offset);
+      const y = d.getFullYear();
+      const m = String(d.getMonth() + 1).padStart(2, '0');
+      const day = String(d.getDate()).padStart(2, '0');
+      const dateStr = `${y}-${m}-${day}`;
+      const dayLabel = offset === 0 ? 'Today' : d.toLocaleDateString('en-IN', { weekday: 'short' });
+      const sec = getDailyStudyTimeRecord(dateStr).totalSeconds || 0;
+      const hours = Number((sec / 3600).toFixed(1));
+      velocityDays.push({ dateStr, label: dayLabel, seconds: sec, hours });
+    }
+
     const html = `
       <div class="st-dash-root">
-        <!-- Banner -->
-        <div class="st-dash-banner">
-          <div class="st-dash-banner-left">
-            <span class="st-server-pill ${isOnline ? 'is-online' : 'is-offline'}">
-              ${isOnline ? '🟢 Connected to MongoDB Atlas' : '🔴 Server Offline (Local Storage Mode)'}
+        <!-- 1. Executive Top Command Bar -->
+        <div class="st-cmd-bar">
+          <div class="st-cmd-bar-left">
+            <span class="st-status-pill ${isOnline ? 'is-online' : 'is-offline'}">
+              ${isOnline ? '🟢 MongoDB Atlas Synced' : '🔴 Local Storage Mode'}
             </span>
-            <span style="font-size: 0.8rem; color: var(--md-default-fg-color--light); margin-left: 0.5rem;">
-              Database: <strong>uppcs_study_tracker</strong>
+            <span class="st-countdown-pill" title="Daily study milestone deadline">
+              🌙 Midnight Deadline: ${midnightCountdownStr}
+            </span>
+            <span class="st-studytime-meter-pill" title="Active focused study tracked today">
+              ⏱️ Studied: <strong>${formatDurationDisplay(totalDayStudySeconds)}</strong> / 4h 00m Target (${dailyTargetPct}%)
             </span>
           </div>
-          <div class="st-dash-banner-right" style="display:flex; gap:0.5rem;">
-            <button type="button" class="st-btn st-btn-outline" id="st-dash-refresh" style="padding: 0.4rem 0.85rem; font-size: 0.8rem;">
+          <div class="st-cmd-bar-right">
+            <button type="button" class="st-btn st-btn-outline" id="st-dash-refresh" style="padding: 0.4rem 0.9rem; font-size: 0.8rem;">
               🔄 Refresh Stats
             </button>
           </div>
         </div>
 
-        <!-- KPI Cards Grid -->
-        <div class="st-dash-kpis">
-          <div class="st-kpi-card">
-            <div class="st-kpi-label">📖 Total Chapter Revisions</div>
-            <div class="st-kpi-val">${totalRevs} <small>logs</small></div>
-            <div class="st-kpi-sub">Spaced repetition tracking active</div>
+        <!-- 2. Unified 5-KPI Modern Command Deck -->
+        <div class="st-kpi-deck-modern">
+          <!-- Card 1: Study Time Today -->
+          <div class="st-kpi-card-modern">
+            <div class="st-kpi-top-row">
+              <span class="st-kpi-label-text">Focused Study Today</span>
+              <span class="st-kpi-icon-pill" style="background: rgba(99, 102, 241, 0.15); color: #6366f1;">⏱️</span>
+            </div>
+            <div class="st-kpi-main-val">${formatDurationDisplay(totalDayStudySeconds)}</div>
+            <div class="st-kpi-micro-prog">
+              <div class="st-kpi-micro-fill" style="width: ${dailyTargetPct}%; background: linear-gradient(90deg, #6366f1, #10b981);"></div>
+            </div>
+            <div class="st-kpi-meta-sub" style="margin-top: 0.4rem;">
+              <span>🎯 ${dailyTargetPct}% of 4h goal</span>
+              &bull;
+              <span>⚡ ${deepWorkChapters.length} deep session${deepWorkChapters.length === 1 ? '' : 's'} (≥25m)</span>
+            </div>
           </div>
 
-          <div class="st-kpi-card ${dueCount > 0 ? 'st-kpi-highlight' : ''}">
-            <div class="st-kpi-label">⏰ Due Today</div>
-            <div class="st-kpi-val" style="${dueCount > 0 ? 'color: #ef4444;' : ''}">${dueCount} <small>chapters</small></div>
-            <div class="st-kpi-sub">${dueCount > 0 ? '⚠️ Revisions waiting in queue' : '✅ All caught up today!'}</div>
+          <!-- Card 2: Chapter Revisions -->
+          <div class="st-kpi-card-modern ${dueCount > 0 ? 'is-highlight' : ''}">
+            <div class="st-kpi-top-row">
+              <span class="st-kpi-label-text">Revisions & Retention</span>
+              <span class="st-kpi-icon-pill" style="background: rgba(16, 185, 129, 0.15); color: #10b981;">📖</span>
+            </div>
+            <div class="st-kpi-main-val">${totalRevs} <small>logs</small></div>
+            <div class="st-kpi-meta-sub">
+              ${dueCount > 0 ? `<span style="color:#ef4444; font-weight:700;">⚠️ ${dueCount} chapter${dueCount === 1 ? '' : 's'} due today!</span>` : `<span style="color:#10b981; font-weight:700;">✅ All caught up today</span>`}
+            </div>
+            <div class="st-kpi-meta-sub" style="margin-top:2px;">
+              <span>Forgetting curve intervals active</span>
+            </div>
           </div>
 
-          <div class="st-kpi-card">
-            <div class="st-kpi-label">🎯 Tests Given & Accuracy</div>
-            <div class="st-kpi-val">${totalTests} <small>tests</small></div>
-            <div class="st-kpi-sub">Avg Marks: <strong>${avgTestScore}</strong> | Acc: <strong>${avgTestAccuracy}%</strong></div>
+          <!-- Card 3: CBT Mock Tests -->
+          <div class="st-kpi-card-modern">
+            <div class="st-kpi-top-row">
+              <span class="st-kpi-label-text">CBT Tests Evaluated</span>
+              <span class="st-kpi-icon-pill" style="background: rgba(14, 165, 233, 0.15); color: #0ea5e9;">🎯</span>
+            </div>
+            <div class="st-kpi-main-val">${totalTests} <small>tests</small></div>
+            <div class="st-kpi-meta-sub">
+              <span>Avg Marks: <strong>${avgTestScore > 0 ? '+' : ''}${avgTestScore}</strong></span>
+              &bull;
+              <span>Acc: <strong>${avgTestAccuracy}%</strong></span>
+            </div>
+            <div class="st-kpi-meta-sub" style="margin-top:2px;">
+              <span>Official UPPCS marking (+1.33 / -0.44)</span>
+            </div>
           </div>
 
-          <div class="st-kpi-card">
-            <div class="st-kpi-label">📚 Question Bank Practiced</div>
-            <div class="st-kpi-val">${totalPyqs} <small>questions</small></div>
-            <div class="st-kpi-sub">Overall PYQ Accuracy: <strong>${pyqAccuracy}%</strong></div>
+          <!-- Card 4: PYQs Practiced -->
+          <div class="st-kpi-card-modern">
+            <div class="st-kpi-top-row">
+              <span class="st-kpi-label-text">Question Bank Practiced</span>
+              <span class="st-kpi-icon-pill" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b;">📚</span>
+            </div>
+            <div class="st-kpi-main-val">${totalPyqs} <small>questions</small></div>
+            <div class="st-kpi-meta-sub">
+              <span>Overall Accuracy: <strong style="color: ${pyqAccuracy >= 70 ? '#10b981' : (pyqAccuracy >= 50 ? '#f59e0b' : '#ef4444')};">${pyqAccuracy}%</strong></span>
+            </div>
+            <div class="st-kpi-meta-sub" style="margin-top:2px;">
+              <span>Ghatnachakra & Chapter PYQs</span>
+            </div>
+          </div>
+
+          <!-- Card 5: Target Execution -->
+          <div class="st-kpi-card-modern ${overallBacklog.length > 0 ? 'is-highlight' : ''}">
+            <div class="st-kpi-top-row">
+              <span class="st-kpi-label-text">Daily Target Velocity</span>
+              <span class="st-kpi-icon-pill" style="background: rgba(139, 92, 246, 0.15); color: #8b5cf6;">⚡</span>
+            </div>
+            <div class="st-kpi-main-val">${achievedTopics.length} <small>/ ${readingTopics.length} done</small></div>
+            <div class="st-kpi-meta-sub">
+              ${overallBacklog.length > 0 ? `<span style="color:#ef4444; font-weight:700;">⚠️ ${overallBacklog.length} Overdue in Backlog</span>` : `<span style="color:#10b981; font-weight:700;">🎉 Zero Backlog Overdue</span>`}
+            </div>
+            <div class="st-kpi-meta-sub" style="margin-top:2px;">
+              <span>${readingTopics.length > 0 ? `${Math.round((achievedTopics.length / Math.max(1, readingTopics.length)) * 100)}% active targets achieved` : 'Plan targets below'}</span>
+            </div>
           </div>
         </div>
 
-        <!-- ============================================================= -->
-        <!-- EXECUTIVE STUDY TIME MONITORING & FOCUS RADAR STUDIO -->
-        <!-- ============================================================= -->
-        <div class="st-focus-studio-card">
-          <div class="st-focus-studio-header">
-            <div class="st-focus-title-group">
-              <div style="display:flex; align-items:center; gap:0.5rem;">
-                <span class="st-focus-icon-pill">⏱️</span>
-                <h3 style="margin:0; font-size:1.15rem; font-weight:800;">Study Time & Focus Analytics Studio</h3>
-                <span class="st-focus-live-pill">⚡ Live Session Radar</span>
-              </div>
-              <p style="margin:0.25rem 0 0; font-size:0.8rem; color:var(--md-default-fg-color--light);">
-                Active stopwatch focus analytics for <strong>${formatPlannerDateDisplay(activePlannerDate)}</strong>. Monitors deep work chapters, pace velocity, and time leakage.
-              </p>
+        <!-- 3. Visual Analytics & Charts Studio -->
+        <div class="st-analytics-studio">
+          <div class="st-analytics-head">
+            <div class="st-analytics-title-wrap">
+              <h3>📊 Preparation Velocity & Performance Analytics</h3>
+              <p>Visual trends tracking study consistency, subject weightage, live test trajectory, and syllabus coverage.</p>
             </div>
-            <div class="st-focus-header-meta">
-              <span class="st-focus-goal-badge">
-                🎯 Daily Target: 4h 00m &bull; ${Math.min(100, Math.round((totalDayStudySeconds / 14400) * 100))}% Reached
-              </span>
-            </div>
+            <span class="st-focus-live-pill">⚡ Interactive Radar</span>
           </div>
 
-          <!-- 4 Executive Focus KPI Cards -->
-          <div class="st-focus-kpi-deck">
-            <!-- Card 1: Total Study Time -->
-            <div class="st-focus-kpi-item">
-              <div class="st-fkpi-top">
-                <span class="st-fkpi-icon" style="background: rgba(99, 102, 241, 0.15); color: #6366f1;">⏱️</span>
-                <span class="st-fkpi-label">Focused Study Today</span>
+          <div class="st-analytics-grid">
+            <!-- Chart 1: 7-Day Study Time Velocity -->
+            <div class="st-chart-card">
+              <div class="st-chart-head">
+                <h4><span>📊</span> 7-Day Study Velocity & Benchmark</h4>
+                <span class="st-chart-pill">Goal: 4h / day</span>
               </div>
-              <div class="st-fkpi-val">${formatDurationDisplay(totalDayStudySeconds)}</div>
-              <div class="st-fkpi-sub">
-                <div class="st-fkpi-prog-track">
-                  <div class="st-fkpi-prog-fill" style="width: ${Math.min(100, Math.round((totalDayStudySeconds / 14400) * 100))}%;"></div>
-                </div>
-                <span>${totalDayStudySeconds > 0 ? `${Math.round(totalDayStudySeconds / 60)} mins active reading` : 'No reading sessions logged yet'}</span>
+              <div class="st-chart-canvas-wrap" id="wrap-chart-velocity">
+                <canvas id="chart-study-velocity"></canvas>
               </div>
-            </div>
-
-            <!-- Card 2: Deep Work Chapters -->
-            <div class="st-focus-kpi-item">
-              <div class="st-fkpi-top">
-                <span class="st-fkpi-icon" style="background: rgba(16, 185, 129, 0.15); color: #10b981;">⚡</span>
-                <span class="st-fkpi-label">Deep Work Chapters</span>
-              </div>
-              <div class="st-fkpi-val">${deepWorkChapters.length} <small>chapters</small></div>
-              <div class="st-fkpi-sub">
-                ${deepWorkChapters.length > 0 ? `🔥 &ge;25m intensive reading` : 'Aim for 25m+ deep reading sessions'}
+              <div style="display:flex; justify-content:space-between; align-items:center; margin-top:0.6rem; font-size:0.75rem; color:var(--md-default-fg-color--light);">
+                <span>Today: <strong>${formatDurationDisplay(totalDayStudySeconds)}</strong></span>
+                <span>Past 7 Days Avg: <strong>${(velocityDays.reduce((a, b) => a + b.hours, 0) / 7).toFixed(1)}h / day</strong></span>
               </div>
             </div>
 
-            <!-- Card 3: Active Chapters Read -->
-            <div class="st-focus-kpi-item">
-              <div class="st-fkpi-top">
-                <span class="st-fkpi-icon" style="background: rgba(14, 165, 233, 0.15); color: #0ea5e9;">📖</span>
-                <span class="st-fkpi-label">Chapters Studied</span>
+            <!-- Chart 2: Subject Focus & Time Distribution -->
+            <div class="st-chart-card">
+              <div class="st-chart-head">
+                <h4><span>🍩</span> Subject Time & Focus Distribution</h4>
+                <span class="st-chart-pill">${Object.keys(subjectDistribution).length > 0 ? `${Object.keys(subjectDistribution).length} active subjects` : 'Preparation mix'}</span>
               </div>
-              <div class="st-fkpi-val">${studiedChaptersList.length} <small>/ ${readingTopics.length} planned</small></div>
-              <div class="st-fkpi-sub">
-                ${readingTopics.length > 0 ? `${Math.round((studiedChaptersList.length / Math.max(1, readingTopics.length)) * 100)}% coverage of planned targets` : 'Add chapters to your daily plan'}
+              <div class="st-chart-canvas-wrap" id="wrap-chart-subject">
+                <canvas id="chart-subject-distribution"></canvas>
+              </div>
+              <div style="font-size:0.74rem; color:var(--md-default-fg-color--light); margin-top:0.6rem; text-align:center;">
+                ${Object.keys(subjectDistribution).length > 0 ? 'Hours spent per subject on active date' : 'Cumulative revision & question practice distribution'}
               </div>
             </div>
 
-            <!-- Card 4: Time Leakage & Backlog Radar -->
-            <div class="st-focus-kpi-item ${unopenedPlannedTargets.length > 0 ? 'is-warning' : ''}">
-              <div class="st-fkpi-top">
-                <span class="st-fkpi-icon" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b;">🛡️</span>
-                <span class="st-fkpi-label">Time Leakage Radar</span>
+            <!-- Chart 3: CBT Mock Test Performance Curve -->
+            <div class="st-chart-card">
+              <div class="st-chart-head">
+                <h4><span>📈</span> CBT Mock Test Score Trajectory</h4>
+                <span class="st-chart-pill">Target Acc: 80%+</span>
               </div>
-              <div class="st-fkpi-val" style="${unopenedPlannedTargets.length > 0 ? 'color:#f59e0b;' : ''}">
-                ${unopenedPlannedTargets.length} <small>unopened</small>
+              <div class="st-chart-canvas-wrap" id="wrap-chart-tests">
+                <canvas id="chart-tests-trajectory"></canvas>
               </div>
-              <div class="st-fkpi-sub">
-                ${unopenedPlannedTargets.length > 0 ? `⚠️ ${unopenedPlannedTargets.length} planned chapters have 0m study logged!` : '✅ Zero leakage! All planned targets opened.'}
+              <div style="display:flex; justify-content:space-between; align-items:center; margin-top:0.6rem; font-size:0.75rem; color:var(--md-default-fg-color--light);">
+                <span>Evaluated Tests: <strong>${recentTests.length}</strong></span>
+                <span>Avg Accuracy: <strong>${avgTestAccuracy}%</strong></span>
               </div>
             </div>
-          </div>
 
-          <!-- Subject Distribution Segmented Bar (if any study recorded) -->
-          ${studiedChaptersList.length > 0 ? `
-            <div class="st-focus-distribution-wrap">
-              <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:0.4rem;">
-                <span style="font-size:0.75rem; font-weight:700; text-transform:uppercase; letter-spacing:0.04em; color:var(--md-default-fg-color--light);">
-                  Subject Focus Distribution
-                </span>
-                <span style="font-size:0.75rem; color:var(--md-default-fg-color--light);">
-                  ${Object.keys(subjectDistribution).length} active subjects
-                </span>
+            <!-- Chart 4: Syllabus Readiness & High-Yield Coverage -->
+            <div class="st-chart-card">
+              <div class="st-chart-head">
+                <h4><span>🎯</span> Prelims Syllabus Readiness Gauge</h4>
+                <span class="st-chart-pill">${readChaptersCount} / ${totalCatalogChapters} chapters</span>
               </div>
-              <div class="st-focus-dist-bar">
-                ${renderSubjectDistSegmentsHtml(subjectDistribution, totalDayStudySeconds)}
-              </div>
-              <div class="st-focus-dist-legend">
-                ${renderSubjectDistLegendHtml(subjectDistribution, totalDayStudySeconds)}
-              </div>
-            </div>
-          ` : ''}
-
-          <!-- Chapter Focus Log & Velocity Table / Cards -->
-          <div class="st-focus-chapters-panel">
-            <div class="st-focus-panel-head">
-              <div>
-                <span style="font-size:0.85rem; font-weight:700;">📖 Chapter Reading Velocity & Time Log</span>
-                <div style="font-size:0.75rem; color:var(--md-default-fg-color--light); margin-top:2px;">
-                  💡 A chapter is logged as read only if opened for at least <strong>5 minutes</strong>.
-                </div>
-              </div>
-              <span style="font-size:0.75rem; color:var(--md-default-fg-color--light); font-weight:600;">${studiedChaptersList.length} chapter${studiedChaptersList.length === 1 ? '' : 's'} logged</span>
-            </div>
-            ${studiedChaptersList.length === 0 ? `
-              <div class="st-empty-focus-state">
-                <span style="font-size:2rem; display:block; margin-bottom:0.35rem;">⏱️</span>
-                <strong>No chapters logged yet for this date (&ge;5 min read)</strong>
-                <p>A chapter is logged as read once you study it for at least <strong>5 minutes</strong>. Quick glimpses under 5m are excluded to maintain high-quality focus metrics.</p>
-                ${sub5mChaptersList.length > 0 ? `
-                  <div style="margin-top:0.75rem; font-size:0.75rem; color:var(--md-default-fg-color--light); background:rgba(39,60,117,0.04); padding:0.45rem 0.7rem; border-radius:6px; display:inline-block;">
-                    ⏳ <strong>Reading in progress (&lt;5m):</strong> ${sub5mChaptersList.map(c => `${escapeHtml(c.title || c.topic)} (<em>${formatDurationDisplay(c.seconds)}</em>)`).join(' &bull; ')}
+              <div class="st-gauge-meter-wrap">
+                <div class="st-gauge-ring">
+                  <canvas id="chart-syllabus-readiness" width="130" height="130"></canvas>
+                  <div class="st-gauge-center-text">
+                    <div class="st-gauge-pct-val">${syllabusCoveragePct}%</div>
+                    <div class="st-gauge-pct-sub">Covered</div>
                   </div>
-                ` : ''}
+                </div>
+                <div class="st-gauge-stats-list">
+                  <div class="st-gauge-stat-item">
+                    <span>Total Master Chapters</span>
+                    <strong>${totalCatalogChapters}</strong>
+                  </div>
+                  <div class="st-gauge-stat-item">
+                    <span>Chapters Read (≥1 Read)</span>
+                    <strong style="color:#10b981;">${readChaptersCount}</strong>
+                  </div>
+                  <div class="st-gauge-stat-item">
+                    <span>Revisions Due Today</span>
+                    <strong style="color:${dueCount > 0 ? '#ef4444' : '#10b981'};">${dueCount}</strong>
+                  </div>
+                  <div class="st-gauge-stat-item">
+                    <span>Cumulative Overdue Backlog</span>
+                    <strong style="color:${overallBacklog.length > 0 ? '#ef4444' : '#10b981'};">${overallBacklog.length}</strong>
+                  </div>
+                </div>
               </div>
-            ` : `
+            </div>
+          </div>
+
+          <!-- Chapter Reading Velocity Grid (if any chapter read today) -->
+          ${studiedChaptersList.length > 0 ? `
+            <div class="st-focus-chapters-panel" style="margin-top: 1.25rem; padding-top: 1rem; border-top: 1px solid var(--study-hairline, rgba(226, 232, 240, 0.8));">
+              <div class="st-focus-panel-head">
+                <div>
+                  <span style="font-size:0.88rem; font-weight:700;">📖 Today's Chapter Reading Velocity</span>
+                  <div style="font-size:0.75rem; color:var(--md-default-fg-color--light); margin-top:2px;">
+                    💡 Chapters studied for at least 5 minutes are logged below with exact stopwatch time.
+                  </div>
+                </div>
+                <span style="font-size:0.75rem; color:var(--md-default-fg-color--light); font-weight:600;">${studiedChaptersList.length} chapter${studiedChaptersList.length === 1 ? '' : 's'} read</span>
+              </div>
               <div class="st-focus-chapters-grid">
                 ${studiedChaptersList.map(ch => `
                   <div class="st-fchap-card">
@@ -5674,32 +5731,27 @@
                   </div>
                 `).join('')}
               </div>
-              ${sub5mChaptersList.length > 0 ? `
-                <div style="margin-top:0.75rem; padding:0.45rem 0.75rem; background:rgba(99,102,241,0.04); border-radius:8px; border:1px dashed rgba(99,102,241,0.25); font-size:0.75rem; color:var(--md-default-fg-color--light); display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:0.5rem;">
-                  <span>⏳ <strong>Reading in progress (&lt;5 min):</strong> ${sub5mChaptersList.map(c => `${escapeHtml(c.title || c.topic)} (<em>${formatDurationDisplay(c.seconds)}</em>)`).join(' &bull; ')}</span>
-                  <span style="font-size:0.7rem; color:var(--md-default-fg-color--light);">Logs automatically upon reaching 5m</span>
-                </div>
-              ` : ''}
-            `}
-          </div>
+            </div>
+          ` : ''}
 
-          <!-- Time Leak Diagnostics Warning (if unopened targets exist) -->
+          <!-- Supportive Action Queue Notice (if planned chapters are unopened today) -->
           ${unopenedPlannedTargets.length > 0 ? `
-            <div class="st-focus-leak-box">
-              <div class="st-leak-icon">⚠️</div>
-              <div class="st-leak-content">
-                <strong>Attention: Time Leakage Detected on ${unopenedPlannedTargets.length} Planned Chapters</strong>
-                <p>
-                  You scheduled these chapters for today, but have not opened them yet:
-                  <strong>${unopenedPlannedTargets.map(t => escapeHtml(t.topic)).slice(0, 4).join(', ')}${unopenedPlannedTargets.length > 4 ? ` and ${unopenedPlannedTargets.length - 4} more` : ''}</strong>.
-                  Conquer them before 11:59 PM to prevent them from moving into your Cumulative Overdue Backlog!
-                </p>
+            <div class="st-action-notice-card" style="margin-top: 1.15rem;">
+              <div style="display:flex; align-items:center; gap:0.6rem;">
+                <span style="font-size:1.2rem;">🎯</span>
+                <div>
+                  <strong>Today's Focus Action Queue:</strong> You have <strong>${unopenedPlannedTargets.length}</strong> planned chapter(s) scheduled for today waiting for study:
+                  <span style="font-style:italic;">${unopenedPlannedTargets.map(t => escapeHtml(t.topic)).slice(0, 3).join(', ')}${unopenedPlannedTargets.length > 3 ? ` and ${unopenedPlannedTargets.length - 3} more` : ''}</span>.
+                </div>
               </div>
+              <span style="font-size:0.72rem; font-weight:700; background:rgba(245,158,11,0.2); padding:0.2rem 0.55rem; border-radius:9999px; white-space:nowrap;">
+                🌙 Due before 11:59 PM
+              </span>
             </div>
           ` : ''}
         </div>
 
-        <!-- DAILY TARGET PLANNER & MIDNIGHT EXECUTION HUB -->
+        <!-- 4. DAILY TARGET PLANNER & MIDNIGHT EXECUTION HUB -->
         <div class="st-planner-section" id="st-planner-root">
           <div class="st-planner-header">
             <div class="st-planner-title-group">
@@ -5707,7 +5759,6 @@
               <p>Plan your subjects & chapters, conquer targets before midnight (11:59 PM), track daily date-wise backlog, and maintain your cumulative backlog.</p>
             </div>
             <div class="st-planner-actions-bar">
-              <!-- Midnight Deadline Checkpoint Badge -->
               <span class="st-planner-studytime-badge" title="Total active reading time tracked on this date across chapters">⏱️ Studied: ${formatDurationDisplay(totalDayStudySeconds)}</span>
               <span class="st-planner-midnight-badge" title="Daily study milestone deadline">
                 🌙 Time Slot Till Midnight Active &bull; ${midnightCountdownStr}
@@ -6158,7 +6209,7 @@
           </div>
         </div>
 
-        <!-- Dashboard Tabs -->
+        <!-- 5. Dashboard Deep-Dive Tabs -->
         <div class="st-dash-tabs" id="st-dash-tab-nav">
           <button type="button" class="st-dash-tab is-active" data-tab="tab-weak">
             ⚠️ Weak Topics & Mistake Radar (${weakTopics.length})
@@ -6365,6 +6416,267 @@
     `;
 
     dashApp.innerHTML = html;
+
+    // -------------------------------------------------------------
+    // INITIALIZE CHART.JS & SVG FALLBACK CHARTS
+    // -------------------------------------------------------------
+    async function initDashboardCharts() {
+      const dark = isDarkTheme();
+      const textColor = dark ? '#94a3b8' : '#475569';
+      const gridColor = dark ? 'rgba(255, 255, 255, 0.08)' : 'rgba(0, 0, 0, 0.06)';
+      const hasChartJs = await ensureChartJsLoaded();
+
+      // CHART 1: 7-Day Study Time Velocity
+      const velCanvas = document.getElementById('chart-study-velocity');
+      if (velCanvas && hasChartJs && typeof window.Chart !== 'undefined') {
+        const labels = velocityDays.map(v => v.label);
+        const hoursData = velocityDays.map(v => v.hours);
+        const bgColors = velocityDays.map((v, i) => i === 6 ? '#10b981' : (v.hours >= 4 ? '#6366f1' : 'rgba(99, 102, 241, 0.65)'));
+
+        try {
+          activeCharts.velocity = new window.Chart(velCanvas, {
+            type: 'bar',
+            data: {
+              labels,
+              datasets: [
+                {
+                  label: 'Hours Studied',
+                  data: hoursData,
+                  backgroundColor: bgColors,
+                  borderRadius: 6,
+                  maxBarThickness: 34
+                },
+                {
+                  label: 'Target (4h)',
+                  data: [4, 4, 4, 4, 4, 4, 4],
+                  type: 'line',
+                  borderColor: '#f59e0b',
+                  borderWidth: 2,
+                  borderDash: [5, 5],
+                  pointRadius: 0,
+                  fill: false
+                }
+              ]
+            },
+            options: {
+              responsive: true,
+              maintainAspectRatio: false,
+              plugins: {
+                legend: {
+                  display: true,
+                  position: 'bottom',
+                  labels: { color: textColor, boxWidth: 12, font: { size: 11, weight: 'bold' } }
+                },
+                tooltip: {
+                  callbacks: {
+                    label: (ctx) => `${ctx.dataset.label}: ${ctx.parsed.y} hrs`
+                  }
+                }
+              },
+              scales: {
+                x: {
+                  grid: { display: false },
+                  ticks: { color: textColor, font: { size: 11, weight: 'bold' } }
+                },
+                y: {
+                  beginAtZero: true,
+                  suggestedMax: 5,
+                  grid: { color: gridColor },
+                  ticks: { color: textColor, callback: (v) => `${v}h` }
+                }
+              }
+            }
+          });
+        } catch (e) {
+          console.warn('Velocity Chart.js error:', e);
+        }
+      }
+
+      // CHART 2: Subject Time & Focus Distribution Donut
+      const subCanvas = document.getElementById('chart-subject-distribution');
+      if (subCanvas && hasChartJs && typeof window.Chart !== 'undefined') {
+        let subLabels = Object.keys(subjectDistribution);
+        let subSecs = Object.values(subjectDistribution);
+
+        // If no study time logged today yet, use overall subject breakdown from summary/local
+        if (subLabels.length === 0 && subjects.length > 0) {
+          subLabels = subjects.map(s => s.subject);
+          subSecs = subjects.map(s => s.pyqsAttempted > 0 ? s.pyqsAttempted : (s.revisions * 15));
+        }
+        if (subLabels.length === 0) {
+          subLabels = ['Polity', 'Geography', 'Modern India', 'Environment', 'Ancient History'];
+          subSecs = [35, 25, 20, 12, 8];
+        }
+
+        const colorMap = {
+          'polity': '#3b82f6',
+          'geography': '#10b981',
+          'ancient history': '#d97706',
+          'medieval india': '#b45309',
+          'mordern india': '#ea580c',
+          'environments & ecology': '#059669',
+          'economy': '#8b5cf6',
+          'science and technology': '#06b6d4',
+          'art and culture': '#ec4899',
+          'up special': '#6366f1',
+          'census and urbanisation': '#0d9488',
+          'current affairs': '#e11d48'
+        };
+
+        const chartColors = subLabels.map(s => colorMap[s.toLowerCase()] || '#6366f1');
+
+        try {
+          activeCharts.subjects = new window.Chart(subCanvas, {
+            type: 'doughnut',
+            data: {
+              labels: subLabels.map(s => s.toUpperCase()),
+              datasets: [{
+                data: subSecs,
+                backgroundColor: chartColors,
+                borderWidth: dark ? 2 : 1,
+                borderColor: dark ? '#1e293b' : '#ffffff'
+              }]
+            },
+            options: {
+              responsive: true,
+              maintainAspectRatio: false,
+              cutout: '68%',
+              plugins: {
+                legend: {
+                  position: 'right',
+                  labels: { color: textColor, boxWidth: 10, font: { size: 10 } }
+                }
+              }
+            }
+          });
+        } catch (e) {
+          console.warn('Subject Donut Chart error:', e);
+        }
+      }
+
+      // CHART 3: CBT Mock Test Score Trajectory
+      const testsCanvas = document.getElementById('chart-tests-trajectory');
+      if (testsCanvas && hasChartJs && typeof window.Chart !== 'undefined') {
+        const testsToChart = recentTests.slice(0, 8).reverse();
+        const testLabels = testsToChart.length > 0
+          ? testsToChart.map((t, idx) => `Test ${idx + 1}`)
+          : ['Test 1', 'Test 2', 'Test 3', 'Test 4', 'Test 5'];
+
+        const marksData = testsToChart.length > 0
+          ? testsToChart.map(t => Number(t.net_marks || 0))
+          : [65, 78, 85, 92, 105];
+
+        const accData = testsToChart.length > 0
+          ? testsToChart.map(t => Number(t.accuracy_pct || 0))
+          : [68, 74, 81, 84, 88];
+
+        try {
+          activeCharts.tests = new window.Chart(testsCanvas, {
+            type: 'line',
+            data: {
+              labels: testLabels,
+              datasets: [
+                {
+                  label: 'Accuracy %',
+                  data: accData,
+                  borderColor: '#10b981',
+                  backgroundColor: 'rgba(16, 185, 129, 0.1)',
+                  yAxisID: 'y1',
+                  tension: 0.35,
+                  fill: true,
+                  pointRadius: 4
+                },
+                {
+                  label: 'Net Marks',
+                  data: marksData,
+                  borderColor: '#6366f1',
+                  backgroundColor: 'rgba(99, 102, 241, 0.1)',
+                  yAxisID: 'y',
+                  tension: 0.35,
+                  fill: false,
+                  pointRadius: 4
+                },
+                {
+                  label: '80% Benchmark',
+                  data: testLabels.map(() => 80),
+                  borderColor: '#ef4444',
+                  borderDash: [4, 4],
+                  borderWidth: 1.5,
+                  pointRadius: 0,
+                  yAxisID: 'y1',
+                  fill: false
+                }
+              ]
+            },
+            options: {
+              responsive: true,
+              maintainAspectRatio: false,
+              plugins: {
+                legend: {
+                  position: 'bottom',
+                  labels: { color: textColor, boxWidth: 10, font: { size: 10, weight: 'bold' } }
+                }
+              },
+              scales: {
+                x: {
+                  grid: { display: false },
+                  ticks: { color: textColor, font: { size: 10 } }
+                },
+                y: {
+                  type: 'linear',
+                  position: 'left',
+                  grid: { color: gridColor },
+                  ticks: { color: textColor, callback: (v) => `${v}m` }
+                },
+                y1: {
+                  type: 'linear',
+                  position: 'right',
+                  min: 0,
+                  max: 100,
+                  grid: { display: false },
+                  ticks: { color: textColor, callback: (v) => `${v}%` }
+                }
+              }
+            }
+          });
+        } catch (e) {
+          console.warn('Tests Chart error:', e);
+        }
+      }
+
+      // CHART 4: Syllabus Readiness Ring
+      const gaugeCanvas = document.getElementById('chart-syllabus-readiness');
+      if (gaugeCanvas && hasChartJs && typeof window.Chart !== 'undefined') {
+        const covered = syllabusCoveragePct;
+        const remaining = Math.max(0, 100 - covered);
+
+        try {
+          activeCharts.gauge = new window.Chart(gaugeCanvas, {
+            type: 'doughnut',
+            data: {
+              datasets: [{
+                data: [covered, remaining],
+                backgroundColor: ['#6366f1', dark ? '#334155' : '#e2e8f0'],
+                borderWidth: 0
+              }]
+            },
+            options: {
+              responsive: true,
+              maintainAspectRatio: false,
+              cutout: '76%',
+              plugins: {
+                legend: { display: false },
+                tooltip: { enabled: false }
+              }
+            }
+          });
+        } catch (e) {
+          console.warn('Gauge error:', e);
+        }
+      }
+    }
+
+    initDashboardCharts();
 
     // Tab switching
     document.querySelectorAll('#st-dash-tab-nav .st-dash-tab').forEach(btn => {
