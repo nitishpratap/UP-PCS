@@ -9,7 +9,7 @@ Medieval Literature | Medieval Books and Their Authors | Delhi Sultanate (दि
 </details>
 
 > **Sources baked in:** NCERT *Themes in Indian History Part II*, RS Sharma *Medieval India*, UPPCS Prelims PYQs 2018–2025
-> **Weight:** ★★★ — book↔author NOT matched, Khusrau↔Rag Vibodh, Babur Turki memoir, Abul Fazl chronology
+> **Weight:** ★★★ — book↔author NOT matched, Khusrau↔Ashiqa / Somnath↔Rag Vibodh, Babur Turki memoir, Abul Fazl chronology
 > **Last verified:** August 2026
 > **Current Affairs:** N/A (purely historical)
 
@@ -81,7 +81,7 @@ Medieval Literature | Medieval Books and Their Authors | Delhi Sultanate (दि
 | Rihla | **Ibn Battuta** |
 | Khazain-ul-Futuh | **Amir Khusrau** (Alauddin) |
 | Miftah-ul-Futuh | **Amir Khusrau** (Jalaluddin Khalji) |
-| Rag Vibodh | **Amir Khusrau** (literary list) / **Somanath** (सोमनाथ) (music treatise code) |
+| Rag Vibodh | **Somnath** (सोमनाथ) (1609 music treatise) |
 | Futuh-us-Salatin | **Isami** |
 | Tutinama | **Nakhshabi** (not Khusrau) |
 
@@ -169,7 +169,7 @@ D. Both true, R explains A
 | **Taj-ul-Maasir** | Hasan Nizami | Sultanate | Persian | Early Delhi conquests |
 | **Khazain-ul-Futuh** | Amir Khusrau | Sultanate | Persian | Alauddin Khalji (अलाउद्दीन खिलजी) conquests |
 | **Miftah-ul-Futuh** | Amir Khusrau | Sultanate | Persian | Jalaluddin Khalji victories |
-| **Rag Vibodh** | Amir Khusrau | Sultanate | Persian/Hindi | Music treatise |
+| **Rag Vibodh** | Somnath | Sultanate–early Mughal | Sanskrit | Music treatise (1609) |
 | **Khamsa** | Amir Khusrau | Sultanate | Persian | Five masnavis |
 | **Kitab-ul-Hind** | **Alberuni** | Ghaznavid (गज़नवी) | Arabic | India under Mahmud/Ghazni |
 | **Rihla** | Ibn Battuta | Sultanate | Arabic | Travelogue |
@@ -188,9 +188,9 @@ D. Both true, R explains A
 |------|--------|----------|
 | **Chandayan** | Mulla Daud | Awadhi/Hindavi |
 | **Padmavati Katha** | Damodar Kavi | — |
-| **Ashiqa** | Somnath | — |
+| **Ashiqa** | Amir Khusrau | — |
 | **Padmavat** | **Malik Muhammad Jaisi** | Awadhi/Hindavi |
-| **Rag Vibodh** | Amir Khusrau | Persian/Hindi |
+| **Rag Vibodh** | Somnath | Sanskrit |
 
 **Regional Persian chronicles:**
 
@@ -276,7 +276,7 @@ D. Humayunnama — Gulbadan Begum
 - **Khamsa** is a set of five Persian masnavis modeled on Nizami, including **Matla-ul-Anwar** and **Khusrau-o-Shirin**.
 - **Nuh Sipihr (Nine Skies)** praises **India's climate, languages, and culture**, showing pride in Hindustan.
 - **Khaliq-e-Bari** contains early **Hindavi** devotional verses and marks the Hindi-Urdu literary synthesis.
-- **Rag Vibodh** is a music and raga (राग) treatise paired with **Amir Khusrau** in literary match lists.
+- **Ashiqa** (Deval Rani Khizr Khan) is Khusrau’s romantic historical masnavi; **Rag Vibodh** is **Somnath’s** Sanskrit music treatise (1609), not Khusrau’s.
 - **Miftah-ul-Futuh** records **Jalaluddin Khalji's** victories.
 - **Khazain-ul-Futuh** is Khusrau's Persian prose account of **Alauddin Khalji's** conquests and administration.
 - Khusrau created **Sabak-i-Hind** (Indian style) in Persian poetry and called himself **Tuti-e-Hind** (Parrot of India).
@@ -303,16 +303,16 @@ A. 1-3-2-4 | B. 1-3-4-2 | C. 2-4-1-3 | D. 1-2-3-4
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **A** (1-3-2-4: A-1, B-3, C-2, D-4 in official UPPCS 2019 key code)
+**Correct Answer:** **B** (1-3-4-2: A-1, B-3, C-4, D-2)
 
 **Detailed Explanation:**
 - **A. Mulla Daud → 1. Chandayan:** Mulla Daud composed *Chandayan* (also known as *Lorikayan*, the romance of Lorik and Chanda) in 1379 CE in early Awadhi/Hindavi under the patronage of Jauna Khan (minister of Firuz Shah Tughlaq); it is hailed as the first Sufi premakhyan in Hindi literature.
 - **B. Damodar Kavi → 3. Padmavati Katha:** Damodar Kavi composed *Padmavati Katha* (in early Rajasthani/Apabhramsha vernacular), an early rendering of the legendary romance distinct from Jayasi's Awadhi *Padmavat*.
-- **C. Somnath → 2. Ashiqa:** In this specific UPPCS 2019 examination match code (Series A), Somnath was paired with option 2 (*Ashiqa*), leaving Khusrau paired with 4. *(Note: historically, Amir Khusrau authored the famous Persian masnavi Ashiqa / Deval Rani Khizr Khan, while Pandit Somanatha authored the Sanskrit music treatise Raga Vibodha in 1609 CE; however, following the official key code for this question, A-1, B-3 uniquely fixes Option A).*
-- **D. Amir Khusrau → 4. Rag Vibodh:** Fixed by elimination under the official Commission answer key (Code: **1-3-2-4**).
+- **C. Somnath → 4. Rag Vibodh:** Pandit Somanatha wrote the Sanskrit music treatise *Raga Vibodha* (*Rag Vibodh*) in **1609 CE**.
+- **D. Amir Khusrau → 2. Ashiqa:** Amir Khusrau authored the Persian masnavi *Ashiqa* / *Deval Rani Khizr Khan*.
 
 **Key Exam Takeaway / Trap:**
-- *Matching Anchor:* Mulla Daud (*Chandayan*) → 1 and Damodar Kavi (*Padmavati Katha*) → 3 immediately eliminate all options except **Option A**.
+- *Matching Anchor:* Mulla Daud (*Chandayan*) → 1 and Damodar Kavi (*Padmavati Katha*) → 3 leave **C-4 / D-2**, which is code **1-3-4-2** (**Option B**). Do not swap Ashiqa and Rag Vibodh.
 
 </details>
 
@@ -656,16 +656,16 @@ D. 1-2-3-4
 
 <details><summary>Show answer</summary>
 
-**Correct Answer:** **A** (1-3-2-4: A-1, B-3, C-2, D-4)
+**Correct Answer:** **B** (1-3-4-2: A-1, B-3, C-4, D-2)
 
 **Detailed Explanation:**
 - **A. Mulla Daud → 1. Chandayan:** Mulla Daud composed *Chandayan* (the romance of Lorik and Chanda) in 1379 CE in early Awadhi, widely recognized as the earliest Sufi Premakhyan in Hindi literature.
 - **B. Damodar Kavi → 3. Padmavati Katha:** Composed an early romance based on the story of Padmavati in early Rajasthani/Apabhramsha vernacular, predating Malik Muhammad Jayasi's Awadhi epic *Padmavat*.
-- **C. Somnath → 2. Ashiqa:** Paired with option 2 under the official UPPCS 2019 exam key code. *(In general musicology, Pandit Somanatha wrote the Sanskrit treatise Raga Vibodha in 1609 CE, while Amir Khusrau wrote the romantic Persian masnavi Ashiqa / Deval Rani Khizr Khan; in this exam code, A-1 and B-3 decisively determine Option A).*
-- **D. Amir Khusrau → 4. Rag Vibodh:** Paired with 4 by code elimination in the official key.
+- **C. Somnath → 4. Rag Vibodh:** Pandit Somanatha wrote the Sanskrit music treatise *Raga Vibodha* in **1609 CE**.
+- **D. Amir Khusrau → 2. Ashiqa:** Amir Khusrau wrote the romantic Persian masnavi *Ashiqa* / *Deval Rani Khizr Khan*.
 
 **Key Exam Takeaway / Trap:**
-- *Primary Anchor:* Mulla Daud–Chandayan (1) and Damodar Kavi–Padmavati Katha (3) instantly lock code **1-3-2-4** (**Option A**).
+- *Primary Anchor:* Mulla Daud–Chandayan (1) and Damodar Kavi–Padmavati Katha (3) leave **C-4 / D-2** → code **1-3-4-2** (**Option B**).
 
 </details>
 
@@ -1238,23 +1238,23 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 *Row order is not the answer code.*
 
 A. A-4, B-3, C-1, D-2
-B. A-3, B-4, C-2, D-1
+B. A-3, B-4, C-1, D-2
 C. A-3, B-2, C-4, D-1
 D. A-1, B-4, C-2, D-3
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **B** (A-3, B-4, C-2, D-1)
+**Correct Answer:** **B** (A-3, B-4, C-1, D-2)
 
 **Detailed Explanation:**
 - **A. Mulla Daud → 3. Chandayan:** Composed in 1379 CE in early Awadhi, narrating the folk tale of Lorik and Chanda; recognized as the earliest Sufi Premakhyan.
 - **B. Damodar Kavi → 4. Padmavati Katha:** 15th-century vernacular poet who composed the romantic tale of Padmavati in early Rajasthani.
-- **C. Somnath → 2. Ashiqa:** Paired with item 2 under the UPPCS examination coding scheme.
-- **D. Amir Khusrau → 1. Rag Vibodh:** Paired with item 1 under the UPPCS examination coding scheme. *(Note: Historically, Amir Khusrau composed the Persian poem Ashiqa / Deval Rani Khizr Khan, and Somanatha composed the musicology text Raga Vibodha; in this question's permutation, Mulla Daud–Chandayan [A-3] and Damodar Kavi–Padmavati Katha [B-4] uniquely fix Option B).*
+- **C. Somnath → 1. Rag Vibodh:** Pandit Somanatha wrote *Raga Vibodha* in **1609 CE**.
+- **D. Amir Khusrau → 2. Ashiqa:** Amir Khusrau composed the Persian poem *Ashiqa* / *Deval Rani Khizr Khan*.
 
 **Key Exam Takeaway / Trap:**
-- *Elimination Anchor:* A-3 (*Chandayan*) and B-4 (*Padmavati Katha*) immediately establish **Option B** without ambiguity.
+- *Elimination Anchor:* A-3 (*Chandayan*) and B-4 (*Padmavati Katha*) leave **C-1 / D-2** → **Option B**. Never swap Ashiqa and Rag Vibodh.
 
 </details>
 
@@ -1422,8 +1422,8 @@ D. Only 1
 **Q22.** Consider the following statements:
 
 1. Padmavat is Damodar Kavi’s Awadhi epic.
-2. Somnath is paired with Ashiqa in the vernacular match list.
-3. Amir Khusrau is paired with Rag Vibodh in the literary list.
+2. Somnath wrote Rag Vibodh (1609 music treatise).
+3. Amir Khusrau wrote Ashiqa (Deval Rani Khizr Khan).
 
 A. Only 3
 B. Only 2 and 3
@@ -1433,15 +1433,9 @@ D. Only 1 and 2
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **B** (2 and 3 only are correct)
+**Ans: B.** Only 2 and 3 are correct.
 
-**Detailed Explanation:**
-- **Statement 1 is incorrect:** *Padmavat* was composed in Awadhi by **Malik Muhammad Jayasi** in 1540 CE. Damodar Kavi wrote *Padmavati Katha*, not *Padmavat*.
-- **Statement 2 is correct:** In the standard UPPCS 2019 literature matching question, Somnath was paired with *Ashiqa* under the official key sequence.
-- **Statement 3 is correct:** In that same UPPCS 2019 question, Amir Khusrau was paired with *Rag Vibodh* by code elimination.
-
-**Key Exam Takeaway / Trap:**
-- *Near-Identical Titles:* Damodar Kavi = *Padmavati Katha*; Malik Muhammad Jayasi = *Padmavat*.
+**Logic:** Statement 1 swaps *Padmavat* (Jaisi) with *Padmavati Katha* (Damodar). Statements 2–3 are the standard Somnath–Rag Vibodh and Khusrau–Ashiqa pairs.
 
 </details>
 
@@ -1668,7 +1662,7 @@ D. 1, 2 and 3
 6. **Akbarnama** was **not** written by Jahangir; **Abul Fazl** wrote it under Akbar.
 7. **Tuzuk-i-Jahangiri** was **not** written by Abul Fazl; **Jahangir** wrote his own memoir.
 8. **Padshahnama** is **not** about Akbar or Jahangir; it chronicles **Shah Jahan** (Abdul Hamid Lahori).
-9. In author-match lists with Khusrau, **Rag Vibodh** belongs to **Khusrau**, not Barani or Somnath.
+9. **Rag Vibodh** belongs to **Somnath** (1609); **Ashiqa** belongs to **Amir Khusrau** — never swap them.
 10. **Amir Khusrau** did **not** serve Akbar or Tansen's court; he was a 13th–14th century Sultanate poet.
 11. **Ibn Battuta** was an eyewitness **traveller** who wrote **Rihla**, not a Tughlaq historian.
 12. **Tabaqat-i-Nasiri** was **not** written by Barani; the correct author is **Minhaj-us-Siraj**.

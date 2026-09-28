@@ -1111,6 +1111,78 @@
   // MULTI-FORMAT STEM & OPTIONS EXTRACTOR
   // Handles standard multi-line, inline pipe, codes, and match formats
   // -------------------------------------------------------------
+  function scoreOptionSet(options) {
+    const vals = ['A', 'B', 'C', 'D'].map((k) => String((options && options[k]) || '').trim());
+    if (vals.some((v) => !v)) return -1000;
+    let score = 0;
+    for (const v of vals) {
+      const compact = v.replace(/\s+/g, ' ');
+      if (/^(?:\d+\s*[-\u2013\u2014]\s*){2,}\d+$/.test(compact)) score += 6;
+      else if (/^(?:\d+\s+){2,}\d+$/.test(compact)) score += 6;
+      else if (/^[A-D]\s*-\s*\d+/i.test(compact)) score += 6;
+      else if (/^only\b/i.test(compact)) score += 5;
+      else if (/both\s*\(A\)|\(A\)\s+is\s+(true|false)/i.test(compact)) score += 5;
+      else if (/^(?:neither|all)\b/i.test(compact)) score += 4;
+      if (/\|\s*\d+\./.test(v)) score -= 10;
+      if (/row order is not/i.test(v)) score -= 10;
+      if (/\n\s*[A-D][\.\)]/.test(v)) score -= 8;
+      if (compact.length > 140) score -= 3;
+      if (compact.length < 55) score += 1;
+    }
+    return score;
+  }
+
+  function optionsHaveText(options) {
+    return !!(
+      options &&
+      typeof options === 'object' &&
+      options.A && String(options.A).trim() &&
+      options.B && String(options.B).trim() &&
+      options.C && String(options.C).trim() &&
+      options.D && String(options.D).trim()
+    );
+  }
+
+  function optionsLookLikeListRows(options) {
+    if (!options || typeof options !== 'object') return false;
+    const joined = ['A', 'B', 'C', 'D'].map((k) => String(options[k] || '')).join('\n');
+    return /\|\s*\d+\./.test(joined) || /row order is not/i.test(joined);
+  }
+
+  function repairQuestionOptions(q) {
+    if (!q || typeof q !== 'object') return q;
+    let stem = q.stem || '';
+    let options = q.options;
+    const needsRepair =
+      !optionsHaveText(options) ||
+      optionsLookLikeListRows(options) ||
+      /Options\s*:\s*[A-D]\./i.test(stem) ||
+      /A\.[^\|\n]+\|\s*B\./i.test(stem) ||
+      (/[A-D]\.\s+[^\n]+\|\s*[A-D]\./i.test(stem) && !optionsHaveText(options));
+
+    if (needsRepair) {
+      const parsed = extractStemAndOptions(stem);
+      if (optionsHaveText(parsed.options) && scoreOptionSet(parsed.options) > scoreOptionSet(options || {})) {
+        options = parsed.options;
+        stem = parsed.stem;
+      } else if (!optionsHaveText(options) && optionsHaveText(parsed.options)) {
+        options = parsed.options;
+        stem = parsed.stem;
+      }
+    }
+
+    if (!optionsHaveText(options)) {
+      options = {
+        A: (options && options.A) || 'Option A',
+        B: (options && options.B) || 'Option B',
+        C: (options && options.C) || 'Option C',
+        D: (options && options.D) || 'Option D'
+      };
+    }
+
+    return { ...q, stem, options };
+  }
+
   function extractStemAndOptions(rawBlock) {
     let text = (rawBlock || '').replace(/\r/g, '').trim();
     let stem = text;
@@ -1124,23 +1196,25 @@
       const delim = /(?:^|[\s\|\n]+)(?:\(?([A-D])[\.\)]|\b([A-D])[\.\)])\s*/gi;
       let matches = [...optChunk.matchAll(delim)];
       if (matches.length >= 4) {
+        const labeled = { A: '', B: '', C: '', D: '' };
         for (let i = 0; i < matches.length; i++) {
           const letter = (matches[i][1] || matches[i][2]).toUpperCase();
           const start = matches[i].index + matches[i][0].length;
           const end = i + 1 < matches.length ? matches[i+1].index : optChunk.length;
           const val = optChunk.substring(start, end).replace(/^[\|\s]+|[\|\s]+$/g, '').trim();
-          if (['A','B','C','D'].includes(letter)) options[letter] = val;
+          if (['A','B','C','D'].includes(letter)) labeled[letter] = val;
         }
-        if (options.A && options.B && options.C && options.D) {
-          return { stem: candidateStem, options };
+        if (optionsHaveText(labeled)) {
+          return { stem: candidateStem, options: labeled };
         }
       }
     }
 
-    // 2. Sequential A, B, C, D search (multi-line, inline pipe, space or parentheses)
+    // 2. Sequential A, B, C, D search — collect all viable sets, pick best score
     const delim = /(?:^|\n\s*|\s*\|\s*|(?<=[\?\.\:\!])\s+|\s{2,}|\s+)(?:\(([A-D])\)|([A-D])[\.\)])\s+/gi;
     const allMatches = [...text.matchAll(delim)];
     const aMatches = allMatches.filter(m => (m[1]||m[2]).toUpperCase() === 'A');
+    let best = null;
 
     for (let a of aMatches) {
       const afterA = text.substring(a.index);
@@ -1158,7 +1232,7 @@
         const mD = subMatches[dIdx];
 
         const candidateStem = text.substring(0, a.index + mA.index).replace(/\n?\s*(?:Options|Codes|Code)\s*:?\s*$/i, '').trim();
-        
+
         const posA = a.index + mA.index + mA[0].length;
         const posB = a.index + mB.index;
         const posC = a.index + mC.index;
@@ -1171,12 +1245,20 @@
         const optD = text.substring(posD + mD[0].length, endD).replace(/^[\|\s]+|[\|\s]+$/g, '').trim();
 
         if (optA && optB && optC && optD) {
-          return {
+          const candidate = {
             stem: candidateStem,
             options: { A: optA, B: optB, C: optC, D: optD }
           };
+          const score = scoreOptionSet(candidate.options);
+          if (!best || score >= best.score) {
+            best = { ...candidate, score };
+          }
         }
       }
+    }
+
+    if (best && best.score > -50) {
+      return { stem: best.stem, options: best.options };
     }
 
     // 3. Fallback: line-by-line check
@@ -3083,37 +3165,7 @@
     }
 
     // Question Normalizer: guarantees all questions have valid options and clean stems
-    loadedQuestions = loadedQuestions.map((q, idx) => {
-      let options = q.options;
-      let stem = q.stem || '';
-
-      const hasValidOptions = options && typeof options === 'object' &&
-        options.A && String(options.A).trim() &&
-        options.B && String(options.B).trim();
-
-      if (!hasValidOptions || /Options\s*:\s*[A-D]\./i.test(stem) || /A\.[^\|\n]+\|\s*B\./i.test(stem)) {
-        const parsed = extractStemAndOptions(stem);
-        if (parsed.options.A && parsed.options.B) {
-          options = parsed.options;
-          stem = parsed.stem;
-        }
-      }
-
-      if (!options || typeof options !== 'object' || !options.A || !options.B) {
-        options = {
-          A: (options && options.A) || 'Option A',
-          B: (options && options.B) || 'Option B',
-          C: (options && options.C) || 'Option C',
-          D: (options && options.D) || 'Option D'
-        };
-      }
-
-      return {
-        ...q,
-        stem,
-        options
-      };
-    });
+    loadedQuestions = loadedQuestions.map((q) => repairQuestionOptions(q));
 
     if (loadedQuestions.length === 0) {
       showModal(`Live Test: ${topicInfo.title}`, `
@@ -3801,8 +3853,12 @@
           } else {
             inc++;
             wrongList.push({
+              q_id: q.q_id,
               q_num: idx + 1,
+              q_header: q.q_header,
+              section_title: q.section_title || 'General Notes',
               stem: q.stem,
+              options: q.options,
               user_answer: uAns,
               correct_answer: q.correct_answer,
               explanation: q.explanation
@@ -4426,8 +4482,8 @@
       trapQuestions = Array.from(trapMap.values()).sort((a, b) => b.times_missed - a.times_missed);
     }
 
-    // Auto-enrich any trap questions that lack options by fetching full question bank
-    const missingOptionTraps = trapQuestions.filter(t => !t.options && t.q_id);
+    // Auto-enrich traps missing/empty/mangled options from question bank + stem repair
+    const missingOptionTraps = trapQuestions.filter(t => (!optionsHaveText(t.options) || optionsLookLikeListRows(t.options)) && t.q_id);
     if (missingOptionTraps.length > 0) {
       try {
         const qRes = await authFetch(`${API_BASE}/chapter-questions?subject=${encodeURIComponent(topicInfo.subject)}&topic=${encodeURIComponent(topicInfo.topic)}`);
@@ -4438,16 +4494,20 @@
             trapQuestions.forEach(t => {
               if (qMap.has(t.q_id)) {
                 const fullQ = qMap.get(t.q_id);
-                if (!t.options) t.options = fullQ.options;
+                if (!optionsHaveText(t.options) || optionsLookLikeListRows(t.options)) {
+                  if (optionsHaveText(fullQ.options)) t.options = fullQ.options;
+                }
                 if (!t.explanation && fullQ.explanation) t.explanation = fullQ.explanation;
                 if (!t.correct_answer && fullQ.correct_answer) t.correct_answer = fullQ.correct_answer;
-                if (!t.stem && fullQ.stem) t.stem = fullQ.stem;
+                if ((!t.stem || /[A-D]\.\s+.+\|\s*[A-D]\./i.test(t.stem)) && fullQ.stem) t.stem = fullQ.stem;
               }
             });
           }
         }
       } catch (err) {}
     }
+
+    trapQuestions = trapQuestions.map((t) => repairQuestionOptions(t));
 
     if (trapQuestions.length === 0) {
       const emptyHtml = `
@@ -4500,7 +4560,7 @@
 
         <div class="st-trap-list" id="st-trap-cards-container">
           ${trapQuestions.map((q, idx) => {
-            const hasOptionsObj = q.options && typeof q.options === 'object' && Object.keys(q.options).length > 0;
+            const hasOptionsObj = optionsHaveText(q.options);
             const userPick = (q.user_answer || '').toUpperCase().trim();
             const correctAns = (q.correct_answer || '').toUpperCase().trim();
             const missCount = q.times_missed || 1;
@@ -4510,8 +4570,8 @@
 
             let optionsHtml = '';
             if (hasOptionsObj) {
-              optionsHtml = '<div class="st-trap-options-grid">' + Object.entries(q.options).map(([optKey, optVal]) => {
-                const k = optKey.toUpperCase();
+              optionsHtml = '<div class="st-trap-options-grid">' + ['A', 'B', 'C', 'D'].map((k) => {
+                const optVal = q.options[k];
                 const isUserWrong = (k === userPick && userPick !== correctAns);
                 const isCorrect = (k === correctAns);
                 let optClass = '';
@@ -4522,6 +4582,9 @@
                 } else if (isCorrect) {
                   optClass = 'st-trap-opt-is-correct';
                   badge = '<span class="st-trap-opt-badge is-correct">Correct ✔️</span>';
+                } else if (k === userPick && userPick === correctAns) {
+                  optClass = 'st-trap-opt-is-correct';
+                  badge = '<span class="st-trap-opt-badge is-correct">Your pick ✔️</span>';
                 }
                 return '<div class="st-trap-option-item ' + optClass + '">'
                   + '<div class="st-trap-opt-letter">' + k + '</div>'

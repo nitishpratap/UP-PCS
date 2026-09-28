@@ -24,8 +24,45 @@ function extractChapterTitle(content, defaultName) {
 }
 
 /**
+ * Score an A–D option set. Prefer real MCQ codes over Match List-I table rows
+ * (e.g. "Mulla Daud | 1. Chandayan") that share the same A./B./C./D. letters.
+ */
+function scoreOptionSet(options) {
+  const vals = ['A', 'B', 'C', 'D'].map((k) => String((options && options[k]) || '').trim());
+  if (vals.some((v) => !v)) return -1000;
+  let score = 0;
+  for (const v of vals) {
+    const compact = v.replace(/\s+/g, ' ');
+    if (/^(?:\d+\s*[-\u2013\u2014]\s*){2,}\d+$/.test(compact)) score += 6;
+    else if (/^(?:\d+\s+){2,}\d+$/.test(compact)) score += 6;
+    else if (/^[A-D]\s*-\s*\d+/i.test(compact)) score += 6;
+    else if (/^only\b/i.test(compact)) score += 5;
+    else if (/both\s*\(A\)|\(A\)\s+is\s+(true|false)/i.test(compact)) score += 5;
+    else if (/^(?:neither|all)\b/i.test(compact)) score += 4;
+    if (/\|\s*\d+\./.test(v)) score -= 10;
+    if (/row order is not/i.test(v)) score -= 10;
+    if (/\n\s*[A-D][\.\)]/.test(v)) score -= 8;
+    if (compact.length > 140) score -= 3;
+    if (compact.length < 55) score += 1;
+  }
+  return score;
+}
+
+function optionsHaveText(options) {
+  return !!(
+    options &&
+    typeof options === 'object' &&
+    options.A && String(options.A).trim() &&
+    options.B && String(options.B).trim() &&
+    options.C && String(options.C).trim() &&
+    options.D && String(options.D).trim()
+  );
+}
+
+/**
  * Robustly extracts question stem and options A, B, C, D from any question block.
  * Handles multi-line, pipe-delimited, inline, Codes: and Options: structures.
+ * For Match List stems, prefers the answer-code A–D block over List-I table rows.
  */
 function extractStemAndOptions(questionBlock) {
   let text = (questionBlock || '').replace(/\r/g, '').trim();
@@ -40,23 +77,26 @@ function extractStemAndOptions(questionBlock) {
     const delim = /(?:^|[\s\|\n]+)(?:\(?([A-D])[\.\)]|\b([A-D])[\.\)])\s*/gi;
     let matches = [...optChunk.matchAll(delim)];
     if (matches.length >= 4) {
+      const labeled = { A: '', B: '', C: '', D: '' };
       for (let i = 0; i < matches.length; i++) {
         const letter = (matches[i][1] || matches[i][2]).toUpperCase();
         const start = matches[i].index + matches[i][0].length;
         const end = i + 1 < matches.length ? matches[i+1].index : optChunk.length;
         const val = optChunk.substring(start, end).replace(/^[\|\s]+|[\|\s]+$/g, '').trim();
-        if (['A','B','C','D'].includes(letter)) options[letter] = val;
+        if (['A','B','C','D'].includes(letter)) labeled[letter] = val;
       }
-      if (options.A && options.B && options.C && options.D) {
-        return { stem: candidateStem, options };
+      if (optionsHaveText(labeled)) {
+        return { stem: candidateStem, options: labeled };
       }
     }
   }
 
-  // 2. Sequential A, B, C, D search (multi-line, inline pipe, space or parentheses)
+  // 2. Sequential A, B, C, D search — collect all viable sets, pick best score
+  //    (last wins ties so Match List codes after List-I rows are preferred)
   const delim = /(?:^|\n\s*|\s*\|\s*|(?<=[\?\.\:\!])\s+|\s{2,}|\s+)(?:\(([A-D])\)|([A-D])[\.\)])\s+/gi;
   const allMatches = [...text.matchAll(delim)];
   const aMatches = allMatches.filter(m => (m[1]||m[2]).toUpperCase() === 'A');
+  let best = null;
 
   for (let a of aMatches) {
     const afterA = text.substring(a.index);
@@ -74,7 +114,7 @@ function extractStemAndOptions(questionBlock) {
       const mD = subMatches[dIdx];
 
       const candidateStem = text.substring(0, a.index + mA.index).replace(/\n?\s*(?:Options|Codes|Code)\s*:?\s*$/i, '').trim();
-      
+
       const posA = a.index + mA.index + mA[0].length;
       const posB = a.index + mB.index;
       const posC = a.index + mC.index;
@@ -87,12 +127,20 @@ function extractStemAndOptions(questionBlock) {
       const optD = text.substring(posD + mD[0].length, endD).replace(/^[\|\s]+|[\|\s]+$/g, '').trim();
 
       if (optA && optB && optC && optD) {
-        return {
+        const candidate = {
           stem: candidateStem,
           options: { A: optA, B: optB, C: optC, D: optD }
         };
+        const score = scoreOptionSet(candidate.options);
+        if (!best || score >= best.score) {
+          best = { ...candidate, score };
+        }
       }
     }
+  }
+
+  if (best && best.score > -50) {
+    return { stem: best.stem, options: best.options };
   }
 
   // 3. Fallback: line-by-line check

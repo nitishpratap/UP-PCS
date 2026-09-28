@@ -1014,7 +1014,7 @@ Persian was the court language of the Delhi Sultanate. Arabic served theology an
 | **Khazain-ul-Futuh** | **Amir Khusrau** | Alauddin’s campaigns |
 | **Qiran-us-Sadain** | Amir Khusrau | Meeting of Bughra Khan and Kaiqubad |
 | **Nuh Sipihr** | Amir Khusrau | Praise of India under Qutbuddin Mubarak |
-| **Rag Vibodh** | Amir Khusrau | Music / raga (राग) treatise |
+| **Rag Vibodh** | Somnath | Music / raga (राग) treatise (1609) |
 | **Khaliq-e-Bari** | Amir Khusrau | Hindavi vocabulary / lexicon |
 | **Fawaid-ul-Fuad** | Amir Hasan Sijzi | Conversations of **Nizamuddin Auliya** |
 | **Tarikh-i-Mubarak Shahi** | **Yahya bin Ahmad Sirhindi** | Valuable for later Tughlaqs / early Sayyids and the post-Timur phase |

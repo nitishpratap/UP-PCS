@@ -1087,9 +1087,13 @@ app.get('/api/chapter-tests', checkDb, async (req, res) => {
         });
       });
 
-      // Enrich trap questions missing options from questions collection
+      // Enrich trap questions missing/empty options from questions collection
       const missingOptionIds = Array.from(trapMap.values())
-        .filter(t => (!t.options || !t.explanation) && t.q_id && !t.q_id.startsWith('q_'))
+        .filter(t => {
+          const opts = t.options;
+          const hasText = opts && opts.A && String(opts.A).trim() && opts.B && String(opts.B).trim();
+          return ((!hasText) || !t.explanation) && t.q_id && !t.q_id.startsWith('q_');
+        })
         .map(t => t.q_id);
 
       if (missingOptionIds.length > 0) {
@@ -1102,7 +1106,8 @@ app.get('/api/chapter-tests', checkDb, async (req, res) => {
           for (const item of trapMap.values()) {
             if (enrichMap.has(item.q_id)) {
               const fullQ = enrichMap.get(item.q_id);
-              if (!item.options) item.options = fullQ.options;
+              const hasText = item.options && item.options.A && String(item.options.A).trim();
+              if (!hasText && fullQ.options) item.options = fullQ.options;
               if (!item.explanation && fullQ.explanation) item.explanation = fullQ.explanation;
               if (!item.correct_answer && fullQ.correct_answer) item.correct_answer = fullQ.correct_answer;
               if (!item.stem && fullQ.stem) item.stem = fullQ.stem;

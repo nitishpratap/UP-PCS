@@ -28,7 +28,7 @@ Medieval Music | Later Mughal (मुग़ल) Music | Mughal Court Patronage |
 9. Tansen ragas include **Miyan Ki Todi**, **Miyan Ki Malhar**, and **Darbari Kanada (वैशेषिक)**.
 10. **Amir Khusrau** (1253–1325) was a disciple of **Nizamuddin** and served Balban (बलबन) / Alauddin / Ghiyasuddin courts — not Akbar.
 11. Music-treatise facts: **Ragamala (रागमाला)–Pundrik Vitthal**; **Rasa (रस) Kaumudi–Sri Kantha**; **Raga (राग) Vibodh–Somanath (सोमनाथ)**; **Chaturdandi Prakashika (चतुर्दंडी प्रकाशिका)–Venkatamakhin**.
-12. In music-treatise stems, **Raga Vibodh** belongs to **Somanath**; a separate literary list once paired Khusrau with Rag Vibodh (राग विबोध) — learn both codes.
+12. **Raga Vibodh** belongs to **Somanath** (1609); **Ashiqa** belongs to **Amir Khusrau** — never swap them.
 13. **Akbar** (अकबर) marks the dhrupad peak; **Muhammad Shah** marks the later khayal and tappa bloom.
 14. **Tabla** accompanies khayal and thumri (ठुमरी); **pakhawaj** accompanies dhrupad — do not swap the drums.
 15. **Thumri** (ठुमरी) is Awadh (अवध)–Banaras romantic light classical; do not confuse it with camel-song **tappa**.
@@ -178,7 +178,7 @@ D. Muhammad Shah
 - **Qawwali** is Sufi congregational singing at khanqah (ख़ानक़ाह) or dargah and is linked to Chishti devotion.
 - **Tarana** is a fast vocal form using syllables such as *tom, ta, der*, and tradition credits Khusrau with it.
 - Folklore also credits Khusrau with inventing **sitar** and **tabla**; papers accept his "pioneer" status, though strict history (इतिहास) is more complex.
-- In literary match lists, **Rag Vibodh** is paired with **Amir Khusrau** — separate from the music-treatise pair with **Somanath**.
+- **Ashiqa** is Khusrau’s romantic masnavi; **Rag Vibodh** (*Raga Vibodha*, 1609) is **Somanath’s** Sanskrit music treatise — never swap them.
 - **Amir Khusrau's** guru was **Nizamuddin Auliya**.
 - Khusrau did **not** serve Akbar's court; he died about **200 years** before Tansen's Mughal career.
 
@@ -327,7 +327,7 @@ D. A false; R true
 - The same music-treatise pairs recur: Pundrik–Ragamala, Sri Kantha–Rasa Kaumudi, Somanath–Raga Vibodh, Venkatraman–Chaturdandi.
 - Related older texts for context include **Sangeet Ratnakar** by Sharngadeva and **Natyashastra** by Bharata.
 
-> **Logic:** **Khusrau–Rag Vibodh** is a literary match fact. For **music-treatise** questions, **Raga Vibodh** is by **Somanath**.
+> **Logic:** **Ashiqa** is Khusrau’s masnavi; **Raga Vibodh** is by **Somanath**. Do not swap them in match lists.
 
 ### PYQ — Music treatise match
 
@@ -425,16 +425,16 @@ Options: A.1-3-2-4 | B.1-3-4-2 | C.2-4-1-3 | D.1-2-3-4
 
 <details><summary>Show answer</summary>
 
-**Correct Answer:** **A** (1-3-2-4: A-1, B-3, C-2, D-4)
+**Correct Answer:** **B** (1-3-4-2: A-1, B-3, C-4, D-2)
 
 **Detailed Explanation:**
 - **A. Mulla Daud → 1. Chandayan:** Composed in 1379 CE in early Awadhi, narrating the romance of Lorik and Chanda; the pioneer Sufi Premakhyan.
 - **B. Damodar Kavi → 3. Padmavati Katha:** Early vernacular rendering of the Padmavati story in Rajasthani.
-- **C. Somnath → 2. Ashiqa:** Paired with item 2 in this official UPPCS key code. *(In general musicology, Somanatha composed Raga Vibodha in 1609 CE, while Amir Khusrau composed the Persian masnavi Ashiqa; however, in this exam question, pairing A-1 and B-3 uniquely establishes Option A).*
-- **D. Amir Khusrau → 4. Rag Vibodh:** Assigned code 4 by elimination under the official key.
+- **C. Somnath → 4. Rag Vibodh:** Pandit Somanatha composed *Raga Vibodha* in **1609 CE**.
+- **D. Amir Khusrau → 2. Ashiqa:** Amir Khusrau composed the Persian masnavi *Ashiqa*.
 
 **Key Exam Takeaway / Trap:**
-- *Code Diagnostic:* A-1 (*Chandayan*) and B-3 (*Padmavati Katha*) decisively lock code **1-3-2-4** (**Option A**). In pure music-treatise stems, remember that *Raga Vibodha* belongs to **Somanatha**.
+- *Code Diagnostic:* A-1 (*Chandayan*) and B-3 (*Padmavati Katha*) leave **C-4 / D-2** → code **1-3-4-2** (**Option B**). In music-treatise stems, *Raga Vibodha* always belongs to **Somanatha**.
 
 </details>
 
@@ -1173,8 +1173,8 @@ D. A-3, B-1, C-2, D-4
 **Q25.** With reference to Raga Vibodh authorship codes, which statements is/are correct?
 
 1. In music-treatise stems, Raga Vibodh belongs to Somanath.
-2. A separate literary list once paired Khusrau with Rag Vibodh.
-3. Both codes should be learned without merging them into one author.
+2. Amir Khusrau wrote Ashiqa, not Raga Vibodh.
+3. UPPCS 2019 Q88 code is 1-3-4-2 (Somnath–Rag Vibodh; Khusrau–Ashiqa).
 
 A. Only 2 and 3
 B. Only 1
@@ -1184,15 +1184,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **D** (All 1, 2 and 3 are correct)
+**Ans: D.** All three statements are correct.
 
-**Detailed Explanation:**
-- **Statement 1 is correct:** In musicological questions (UPPCS 2021 Q22, 2022 Q108), *Raga Vibodha* is the celebrated 1609 CE Sanskrit music treatise authored by **Pandit Somanatha**.
-- **Statement 2 is correct:** In an anomalous UPPCS 2019 literature matching question (UPPCS 2019 Q88), Amir Khusrau was paired with *Rag Vibodh* by code elimination under the official key.
-- **Statement 3 is correct:** Candidates should know both exam contexts: understand that historically and musicologically *Raga Vibodha* belongs to **Somanatha**, while retaining awareness of the 2019 elimination quirk.
-
-**Key Exam Takeaway / Trap:**
-- *Treatise Authorship Rule:* Whenever tested among music treatises, **Raga Vibodha = Somanatha**.
+**Logic:** Music-treatise stems and the 2019 literature match both give **Rag Vibodh → Somanath** and **Ashiqa → Khusrau**. Do not invent a second “literary list” that swaps them.
 
 </details>
 
