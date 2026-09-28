@@ -1034,6 +1034,7 @@ app.post('/api/chapter-test/evaluate', checkDb, async (req, res) => {
     let unattempted = 0;
     const detailedReview = [];
     const wrongQuestions = [];
+    const unattemptedQuestions = [];
 
     dbQuestions.forEach((q, idx) => {
       let userAns = (answers[q.q_id] || '').toUpperCase().trim();
@@ -1065,11 +1066,24 @@ app.post('/api/chapter-test/evaluate', checkDb, async (req, res) => {
             options: q.options,
             user_answer: userAns,
             correct_answer: q.correct_answer,
-            explanation: q.explanation
+            explanation: q.explanation,
+            was_incorrect: true
           });
         }
       } else {
         unattempted++;
+        unattemptedQuestions.push({
+          q_id: q.q_id,
+          q_num: idx + 1,
+          q_header: q.q_header,
+          section_title: q.section_title || 'General Notes',
+          stem: q.stem,
+          options: q.options,
+          user_answer: null,
+          correct_answer: q.correct_answer,
+          explanation: q.explanation,
+          was_unattempted: true
+        });
       }
 
       // For the detailed review, show the canonical (original) options and answers
@@ -1139,6 +1153,7 @@ app.post('/api/chapter-test/evaluate', checkDb, async (req, res) => {
       score_pct: scorePct,
       time_spent_seconds: Number(time_spent_seconds) || 0,
       wrong_questions: wrongQuestions,
+      unattempted_questions: unattemptedQuestions,
       weak_subtopics: weakSubtopics,
       detailed_review: detailedReview,
       date: new Date(),
@@ -1426,6 +1441,8 @@ app.get('/api/chapter-tests', checkDb, async (req, res) => {
     }
 
     res.json({
+      subject: req.query.subject,
+      topic: targetTopic,
       attempts: items,
       summary: {
         total_tests: totalTests,

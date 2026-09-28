@@ -2223,6 +2223,14 @@
       return;
     }
 
+    // Invalidate stale topic test data when switching chapters in MkDocs Material instant navigation
+    if (window.__TOPIC_PAST_TESTS__ && (
+      window.__TOPIC_PAST_TESTS__.topic !== topicInfo.topic ||
+      window.__TOPIC_PAST_TESTS__.subject !== topicInfo.subject
+    )) {
+      window.__TOPIC_PAST_TESTS__ = null;
+    }
+
     // Initialize floating in-chapter reading clock stopwatch
     initChapterReadingClock(topicInfo);
 
@@ -2758,13 +2766,24 @@
 
     try {
       let pastData = window.__TOPIC_PAST_TESTS__;
+      const isMatch = pastData && pastData.topic === cleanInfo.topic && pastData.subject === cleanInfo.subject;
       const promises = [];
 
-      if (!pastData || (pastData.topic && pastData.topic !== cleanInfo.topic)) {
+      if (!isMatch) {
         promises.push(
           authFetch(`${API_BASE}/chapter-tests?subject=${encodeURIComponent(cleanInfo.subject)}&topic=${encodeURIComponent(cleanInfo.topic)}`)
             .then(r => r.ok ? r.json() : null)
-            .then(d => { if (d) { pastData = d; window.__TOPIC_PAST_TESTS__ = d; } })
+            .then(d => {
+              if (d) {
+                d.subject = cleanInfo.subject;
+                d.topic = cleanInfo.topic;
+                pastData = d;
+                window.__TOPIC_PAST_TESTS__ = d;
+              } else {
+                pastData = { subject: cleanInfo.subject, topic: cleanInfo.topic, attempts: [], summary: {} };
+                window.__TOPIC_PAST_TESTS__ = pastData;
+              }
+            })
             .catch(() => {})
         );
       }
@@ -2788,27 +2807,69 @@
 
     const localAttempts = getLocalTopicTests(cleanInfo.subject, cleanInfo.topic);
 
-    // 2. Identify unique missed questions (M)
-    const wrongMap = new Map();
+    // 2. Identify all unmastered questions (both incorrect AND left/unattempted questions)
+    const unmasteredMap = new Map();
+    let numIncorrect = 0;
+    let numLeft = 0;
+
     if (pastAttempts.length > 0) {
       const latest = pastAttempts[0];
+
+      // A. All questions answered incorrectly
       (latest.wrong_questions || []).forEach(w => {
         const key = w.q_id || (w.stem ? w.stem.substring(0, 80) : `q_${w.q_num}`);
-        if (!wrongMap.has(key)) wrongMap.set(key, w);
+        if (!unmasteredMap.has(key)) {
+          unmasteredMap.set(key, { ...w, was_incorrect: true });
+          numIncorrect++;
+        }
+      });
+
+      // B. All questions saved as unattempted_questions
+      (latest.unattempted_questions || []).forEach(u => {
+        const key = u.q_id || (u.stem ? u.stem.substring(0, 80) : `q_${u.q_num}`);
+        if (!unmasteredMap.has(key)) {
+          unmasteredMap.set(key, { ...u, was_unattempted: true });
+          numLeft++;
+        }
+      });
+
+      // C. Detailed review fallback for questions left blank
+      (latest.detailed_review || []).forEach(r => {
+        if (!r.user_answer || r.user_answer === 'Unattempted' || (!r.is_correct && !r.user_answer)) {
+          const key = r.q_id || (r.stem ? r.stem.substring(0, 80) : `q_${r.q_num}`);
+          if (!unmasteredMap.has(key)) {
+            unmasteredMap.set(key, { ...r, was_unattempted: true });
+            numLeft++;
+          }
+        }
       });
     }
+
+    // Include recurring traps
     pastTraps.forEach(w => {
       const key = w.q_id || (w.stem ? w.stem.substring(0, 80) : `q_${w.q_num}`);
-      if (!wrongMap.has(key)) wrongMap.set(key, w);
+      if (!unmasteredMap.has(key)) unmasteredMap.set(key, { ...w, was_incorrect: true });
     });
+
+    // Local attempts fallback
     localAttempts.forEach(t => {
       (t.wrong_questions || []).forEach(w => {
         const key = w.q_id || (w.stem ? w.stem.substring(0, 80) : `q_${w.q_num}`);
-        if (!wrongMap.has(key)) wrongMap.set(key, w);
+        if (!unmasteredMap.has(key)) unmasteredMap.set(key, { ...w, was_incorrect: true });
+      });
+      (t.unattempted_questions || []).forEach(u => {
+        const key = u.q_id || (u.stem ? u.stem.substring(0, 80) : `q_${u.q_num}`);
+        if (!unmasteredMap.has(key)) unmasteredMap.set(key, { ...u, was_unattempted: true });
+      });
+      (t.detailed_review || []).forEach(r => {
+        if (!r.user_answer || r.user_answer === 'Unattempted') {
+          const key = r.q_id || (r.stem ? r.stem.substring(0, 80) : `q_${r.q_num}`);
+          if (!unmasteredMap.has(key)) unmasteredMap.set(key, { ...r, was_unattempted: true });
+        }
       });
     });
 
-    const uniqueMistakes = Array.from(wrongMap.values());
+    const uniqueMistakes = Array.from(unmasteredMap.values());
     const M = uniqueMistakes.length;
 
     // 3. Prepare Question Bank mapping for clean option enrichment
@@ -2842,6 +2903,14 @@
 
     const hasRedemption = (M > 0 && redemptionPool.length >= 5);
 
+    const subtitleBreakdown = numLeft > 0
+      ? `Based on your previous test attempt (${numIncorrect} wrong + ${numLeft} left unattempted)`
+      : `Based on your previous test attempt (${M} mistake${M > 1 ? 's' : ''} detected)`;
+
+    const textBreakdown = numLeft > 0
+      ? `(${M} previous unmastered questions [${numIncorrect} wrong + ${numLeft} left unattempted] + ${redemptionPool.length - M} randomized reinforcement questions)`
+      : `(${M} previous mistake${M > 1 ? 's' : ''} + ${redemptionPool.length - M} randomized reinforcement questions)`;
+
     let modalHtml = '';
 
     if (hasRedemption) {
@@ -2865,11 +2934,11 @@
                 <h4 style="margin:0; font-size:1.05rem; font-weight:800; color:#dc2626;">
                   Fast-Track 100% Redemption Drill Available!
                 </h4>
-                <small style="color:var(--md-default-fg-color--light);">Based on your previous test attempt (${M} mistake${M > 1 ? 's' : ''} detected)</small>
+                <small style="color:var(--md-default-fg-color--light);">${subtitleBreakdown}</small>
               </div>
             </div>
             <p style="margin:0.25rem 0 0.75rem; font-size:0.85rem; line-height:1.45; color:var(--md-default-fg-color);">
-              You do <strong>not</strong> have to solve all 50 questions again! Prove your mastery on this targeted <strong>${redemptionPool.length}-Question Fast-Track Drill</strong> (${M} previous mistake${M > 1 ? 's' : ''} + ${redemptionPool.length - M} randomized reinforcement questions).
+              You do <strong>not</strong> have to solve all 50 questions again! Prove complete mastery on this targeted <strong>${redemptionPool.length}-Question Fast-Track Drill</strong> ${textBreakdown}.
             </p>
             <div style="display:flex; gap:0.5rem; flex-wrap:wrap; margin-bottom:0.9rem; font-size:0.78rem;">
               <span style="background:rgba(239, 68, 68, 0.12); color:#dc2626; font-weight:700; padding:0.22rem 0.6rem; border-radius:9999px;">
@@ -3182,6 +3251,10 @@
       const res = await authFetch(`${API_BASE}/chapter-tests?subject=${encodeURIComponent(topicInfo.subject)}&topic=${encodeURIComponent(topicInfo.topic)}`);
       if (res.ok) {
         const data = await res.json();
+        data.subject = topicInfo.subject;
+        data.topic = topicInfo.topic;
+        window.__TOPIC_PAST_TESTS__ = data;
+
         if (data.attempts && data.attempts.length > 0) {
           attempts = data.attempts;
           totalAttempts = Math.max(localTests.length, data.summary?.total_tests || 0);
@@ -3216,12 +3289,15 @@
             }
           }
 
-          window.__TOPIC_PAST_TESTS__ = data;
-
           // Render Automatic Weak Subtopics Bar & In-Note Annotations
           const weakList = data.summary?.weak_subtopics || [];
           renderChapterWeakSubtopicsBar(weakList);
           annotateNoteHeadingsWithWeakness(weakList);
+        } else {
+          // If no attempts found for this chapter, clear any stale badges or subtopic bars
+          renderChapterWeakSubtopicsBar([]);
+          annotateNoteHeadingsWithWeakness([]);
+          if (trapBadge) trapBadge.style.display = 'none';
         }
       }
     } catch {}
@@ -4451,12 +4527,17 @@
       // Rule: 2x missed problems (minimum 15, capped at chapter pool), 100% accuracy required
       // -------------------------------------------------------------
       const missedQMap = new Map();
-      (sc.wrong_questions || []).forEach(w => missedQMap.set(w.q_id, w));
+      (sc.wrong_questions || []).forEach(w => missedQMap.set(w.q_id, { ...w, was_incorrect: true }));
+      (sc.unattempted_questions || []).forEach(u => {
+        if (!missedQMap.has(u.q_id)) missedQMap.set(u.q_id, { ...u, was_unattempted: true });
+      });
       questionSubset.forEach(q => {
         const uAns = (selectedAnswers[q.q_id] || '').toUpperCase();
         const valid = q.all_correct_answers || [q.correct_answer];
-        if (!uAns || !valid.includes(uAns)) {
-          if (!missedQMap.has(q.q_id)) missedQMap.set(q.q_id, q);
+        if (!uAns) {
+          if (!missedQMap.has(q.q_id)) missedQMap.set(q.q_id, { ...q, was_unattempted: true });
+        } else if (!valid.includes(uAns)) {
+          if (!missedQMap.has(q.q_id)) missedQMap.set(q.q_id, { ...q, was_incorrect: true });
         }
       });
 
