@@ -9292,12 +9292,12 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **A** (Both (A) and (R) are true, but (R) is not the correct explanation of (A)) and (R) are true and (R) is the correct explanation of (A))
+**Correct Answer:** **A** (Both (A) and (R) are true, but (R) is not the correct explanation of (A))
 
 **Detailed Explanation:**
 - **Assertion (A) is correct:** On 5 November 1556 CE, the Mughal army under Akbar's regent Bairam Khan clashed with Hemu (Hemchandra Vikramaditya) at Panipat; an arrow pierced Hemu's eye, turning the tide of battle in favor of the Mughals.
 - **Reason (R) is correct:** Humayun had died suddenly in January 1556 CE, and Hemu had captured Delhi and Agra. The victory at Panipat decisively crushed the Afghan resurgence under Adil Shah Suri and Hemu, firmly securing the Mughal restoration and throne for the thirteen-year-old Akbar.
-- **Why (R) does NOT explain (A): Consequence / Aftermath of the assertion, not the cause. Both statements are true facts, but Reason (R) is not the cause of Assertion (A).** The imperative to reclaim Delhi and save the infant Mughal throne from extinction after Humayun's death was the primary strategic cause and consequence of the clash at Panipat.
+- **Why (R) does NOT explain (A):** Securing the throne was the historical **consequence / aftermath** of the victory, not the **cause** of why the Mughals defeated Hemu on the battlefield. Both statements are true facts, but Reason (R) does not explain Assertion (A).
 
 **Key Exam Takeaway / Trap:**
 - *Second Panipat Importance:* Preserved the Mughal dynasty in India; ended Hemu's brief reign as Vikramaditya.
